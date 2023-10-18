@@ -1,12 +1,12 @@
 {
   "description": "B\u0105d\u017a sob\u0105 \u2728 Pos\u0142uchaj g\u0142osu polskich artyst\u00f3w LGBTQIA+. Cover: <a href=\"spotify:artist:4GUR4UKtbNQiAV2h5qV2df\">Kamil Kempi\u0144ski</a>",
-  "num_followers": 6652,
+  "num_followers": 6679,
   "original_name": "GLOW Polska",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkYTI4Y2E0ZGFlY2I0MjJiMmIzZmFmZDNiNjVmNzEzNjZhNzRlOWNl",
+  "snapshot_id": "MCw0MmM0NmQzYWM0YTg4ODRlMTM5Njk2ZTA0NWU5NmI0NWE5ZDc4NGVk",
   "tracks": [
     {
       "added_at": "2023-10-09 22:00:00",
@@ -363,22 +363,18 @@
     {
       "added_at": "2023-10-09 22:00:00",
       "album": {
-        "name": "Gdzie spa\u0142a\u015b?",
-        "url": "https://open.spotify.com/album/4RVgbMVXysSvTeqmvTLNiU"
+        "name": "Shyness!",
+        "url": "https://open.spotify.com/album/5zghhaw7NmCXcRcynyjkto"
       },
       "artists": [
         {
-          "name": "DZIWNE SNY",
-          "url": "https://open.spotify.com/artist/2hVplwnGStsNWof6RKmQwo"
-        },
-        {
-          "name": "Iwona Skv",
-          "url": "https://open.spotify.com/artist/5nGEwOuyd7RFe64eB0kWd8"
+          "name": "Shyness!",
+          "url": "https://open.spotify.com/artist/4qAVYs7aD1BMBRPn9dAKym"
         }
       ],
-      "duration_ms": 267986,
-      "name": "Gdzie spa\u0142a\u015b?",
-      "url": "https://open.spotify.com/track/79QCCEYEns2jrNmhlJDMRx"
+      "duration_ms": 210581,
+      "name": "Stalker",
+      "url": "https://open.spotify.com/track/4WfWLe6Cue04oXW7okQhgw"
     },
     {
       "added_at": "2023-10-09 22:00:00",
@@ -419,18 +415,22 @@
     {
       "added_at": "2023-10-09 22:00:00",
       "album": {
-        "name": "Shyness!",
-        "url": "https://open.spotify.com/album/5zghhaw7NmCXcRcynyjkto"
+        "name": "Gdzie spa\u0142a\u015b?",
+        "url": "https://open.spotify.com/album/4RVgbMVXysSvTeqmvTLNiU"
       },
       "artists": [
         {
-          "name": "Shyness!",
-          "url": "https://open.spotify.com/artist/4qAVYs7aD1BMBRPn9dAKym"
+          "name": "DZIWNE SNY",
+          "url": "https://open.spotify.com/artist/2hVplwnGStsNWof6RKmQwo"
+        },
+        {
+          "name": "Iwona Skv",
+          "url": "https://open.spotify.com/artist/5nGEwOuyd7RFe64eB0kWd8"
         }
       ],
-      "duration_ms": 210581,
-      "name": "Stalker",
-      "url": "https://open.spotify.com/track/4WfWLe6Cue04oXW7okQhgw"
+      "duration_ms": 267986,
+      "name": "Gdzie spa\u0142a\u015b?",
+      "url": "https://open.spotify.com/track/79QCCEYEns2jrNmhlJDMRx"
     },
     {
       "added_at": "2023-10-09 22:00:00",
@@ -551,22 +551,6 @@
     {
       "added_at": "2023-10-09 22:00:00",
       "album": {
-        "name": "OLIMP",
-        "url": "https://open.spotify.com/album/0jR9aLfNRm2xWo7ymsxOEb"
-      },
-      "artists": [
-        {
-          "name": "NIEB\u00d8",
-          "url": "https://open.spotify.com/artist/3jLSR7Z9iOyhSFBwQeS7es"
-        }
-      ],
-      "duration_ms": 192557,
-      "name": "Tamto Lato",
-      "url": "https://open.spotify.com/track/6EEZGOaQrpIA8ItnjkxfFc"
-    },
-    {
-      "added_at": "2023-10-09 22:00:00",
-      "album": {
         "name": "Mi\u0142o Ci\u0119 Pozna\u0107",
         "url": "https://open.spotify.com/album/61ONsroY4Ugr0vBfByDIri"
       },
@@ -579,6 +563,22 @@
       "duration_ms": 211555,
       "name": "Mi\u0142o Ci\u0119 Pozna\u0107",
       "url": "https://open.spotify.com/track/4ayliH4aYbnJf4MpXvsmlT"
+    },
+    {
+      "added_at": "2023-10-09 22:00:00",
+      "album": {
+        "name": "OLIMP",
+        "url": "https://open.spotify.com/album/0jR9aLfNRm2xWo7ymsxOEb"
+      },
+      "artists": [
+        {
+          "name": "NIEB\u00d8",
+          "url": "https://open.spotify.com/artist/3jLSR7Z9iOyhSFBwQeS7es"
+        }
+      ],
+      "duration_ms": 192557,
+      "name": "Tamto Lato",
+      "url": "https://open.spotify.com/track/6EEZGOaQrpIA8ItnjkxfFc"
     },
     {
       "added_at": "2023-10-09 22:00:00",
@@ -723,22 +723,6 @@
     {
       "added_at": "2023-10-09 22:00:00",
       "album": {
-        "name": "oddaj\u0119 Ci melodi\u0119",
-        "url": "https://open.spotify.com/album/4OVGD8MkQjwtXeUaJwpJ7U"
-      },
-      "artists": [
-        {
-          "name": "sedguy",
-          "url": "https://open.spotify.com/artist/0dKVhjeQK0F1tqd32emoPf"
-        }
-      ],
-      "duration_ms": 143443,
-      "name": "oddaj\u0119 Ci melodi\u0119",
-      "url": "https://open.spotify.com/track/5zvfPxqXLOXEls3qME9Uz9"
-    },
-    {
-      "added_at": "2023-10-09 22:00:00",
-      "album": {
         "name": "OH WOW",
         "url": "https://open.spotify.com/album/0Z9kjE77CEY7cBz3oZ69hI"
       },
@@ -755,6 +739,22 @@
       "duration_ms": 174000,
       "name": "OH WOW",
       "url": "https://open.spotify.com/track/0Qplt3hpXfEIUFPwoBiv4K"
+    },
+    {
+      "added_at": "2023-10-09 22:00:00",
+      "album": {
+        "name": "oddaj\u0119 Ci melodi\u0119",
+        "url": "https://open.spotify.com/album/4OVGD8MkQjwtXeUaJwpJ7U"
+      },
+      "artists": [
+        {
+          "name": "sedguy",
+          "url": "https://open.spotify.com/artist/0dKVhjeQK0F1tqd32emoPf"
+        }
+      ],
+      "duration_ms": 143443,
+      "name": "oddaj\u0119 Ci melodi\u0119",
+      "url": "https://open.spotify.com/track/5zvfPxqXLOXEls3qME9Uz9"
     },
     {
       "added_at": "2023-10-09 22:00:00",
@@ -823,18 +823,18 @@
     {
       "added_at": "2023-10-09 22:00:00",
       "album": {
-        "name": "SLAY",
-        "url": "https://open.spotify.com/album/09pZiA20YaLGEHkqGqzC9m"
+        "name": "Diego M.",
+        "url": "https://open.spotify.com/album/0nSbH99Z1jWuqolGkPsvqM"
       },
       "artists": [
         {
-          "name": "Shady Lady",
-          "url": "https://open.spotify.com/artist/1g0MOYlsQFn7If1Vp7o5L0"
+          "name": "sedguy",
+          "url": "https://open.spotify.com/artist/0dKVhjeQK0F1tqd32emoPf"
         }
       ],
-      "duration_ms": 179000,
-      "name": "SLAY",
-      "url": "https://open.spotify.com/track/5inHdBzp49cEZ96hvpRug4"
+      "duration_ms": 165991,
+      "name": "Diego M.",
+      "url": "https://open.spotify.com/track/0kEuKb2kutWzCbh4bi1h1U"
     },
     {
       "added_at": "2023-10-09 22:00:00",
@@ -855,18 +855,18 @@
     {
       "added_at": "2023-10-09 22:00:00",
       "album": {
-        "name": "Diego M.",
-        "url": "https://open.spotify.com/album/0nSbH99Z1jWuqolGkPsvqM"
+        "name": "SLAY",
+        "url": "https://open.spotify.com/album/09pZiA20YaLGEHkqGqzC9m"
       },
       "artists": [
         {
-          "name": "sedguy",
-          "url": "https://open.spotify.com/artist/0dKVhjeQK0F1tqd32emoPf"
+          "name": "Shady Lady",
+          "url": "https://open.spotify.com/artist/1g0MOYlsQFn7If1Vp7o5L0"
         }
       ],
-      "duration_ms": 165991,
-      "name": "Diego M.",
-      "url": "https://open.spotify.com/track/0kEuKb2kutWzCbh4bi1h1U"
+      "duration_ms": 179000,
+      "name": "SLAY",
+      "url": "https://open.spotify.com/track/5inHdBzp49cEZ96hvpRug4"
     },
     {
       "added_at": "2023-10-09 22:00:00",
@@ -891,22 +891,6 @@
     {
       "added_at": "2023-10-09 22:00:00",
       "album": {
-        "name": "Przed siebie",
-        "url": "https://open.spotify.com/album/08met7OFAeiVa1eiwRUiHi"
-      },
-      "artists": [
-        {
-          "name": "Oskar Kucmann",
-          "url": "https://open.spotify.com/artist/6QCsE5n2rSQiqzKS2DSQJK"
-        }
-      ],
-      "duration_ms": 183178,
-      "name": "Przed siebie",
-      "url": "https://open.spotify.com/track/5hqohFoXOJt3KO05HqBhy7"
-    },
-    {
-      "added_at": "2023-10-09 22:00:00",
-      "album": {
         "name": "psychodynamiczne",
         "url": "https://open.spotify.com/album/2Jp3mZywGkxMFB5Wu2p5s9"
       },
@@ -923,22 +907,18 @@
     {
       "added_at": "2023-10-09 22:00:00",
       "album": {
-        "name": "Pokussa Na Parkiecie",
-        "url": "https://open.spotify.com/album/0rlVEb3I0UMhMGhPCmc0dv"
+        "name": "Przed siebie",
+        "url": "https://open.spotify.com/album/08met7OFAeiVa1eiwRUiHi"
       },
       "artists": [
         {
-          "name": "Shady Lady",
-          "url": "https://open.spotify.com/artist/1g0MOYlsQFn7If1Vp7o5L0"
-        },
-        {
-          "name": "thekayetan",
-          "url": "https://open.spotify.com/artist/66XpA1oaejl7wkkhTJ1GbP"
+          "name": "Oskar Kucmann",
+          "url": "https://open.spotify.com/artist/6QCsE5n2rSQiqzKS2DSQJK"
         }
       ],
-      "duration_ms": 176000,
-      "name": "POKUSSA",
-      "url": "https://open.spotify.com/track/3TCmVPkceNFsAWWKiKzGRB"
+      "duration_ms": 183178,
+      "name": "Przed siebie",
+      "url": "https://open.spotify.com/track/5hqohFoXOJt3KO05HqBhy7"
     },
     {
       "added_at": "2023-10-09 22:00:00",
@@ -971,6 +951,26 @@
       "duration_ms": 202419,
       "name": "Nie ma",
       "url": "https://open.spotify.com/track/3MFmVJjXCv6gQq5LkbMnqT"
+    },
+    {
+      "added_at": "2023-10-09 22:00:00",
+      "album": {
+        "name": "Pokussa Na Parkiecie",
+        "url": "https://open.spotify.com/album/0rlVEb3I0UMhMGhPCmc0dv"
+      },
+      "artists": [
+        {
+          "name": "Shady Lady",
+          "url": "https://open.spotify.com/artist/1g0MOYlsQFn7If1Vp7o5L0"
+        },
+        {
+          "name": "thekayetan",
+          "url": "https://open.spotify.com/artist/66XpA1oaejl7wkkhTJ1GbP"
+        }
+      ],
+      "duration_ms": 176000,
+      "name": "POKUSSA",
+      "url": "https://open.spotify.com/track/3TCmVPkceNFsAWWKiKzGRB"
     },
     {
       "added_at": "2023-10-09 22:00:00",
@@ -1231,18 +1231,22 @@
     {
       "added_at": "2023-10-09 22:00:00",
       "album": {
-        "name": "Maski",
-        "url": "https://open.spotify.com/album/2ySVc9A0CxOUm65gOsYFCK"
+        "name": "4900 Groszy",
+        "url": "https://open.spotify.com/album/4YLvr3nm2e4Dt8L04dwu2a"
       },
       "artists": [
         {
-          "name": "Mona Lizak",
-          "url": "https://open.spotify.com/artist/1SBoVo80gkiAYGFMQPOKOb"
+          "name": "Aljas",
+          "url": "https://open.spotify.com/artist/6Vkhs9MXgzLQ88k1rMay1a"
+        },
+        {
+          "name": "M\u0142ody B",
+          "url": "https://open.spotify.com/artist/1ceZGV3Fa3QfceeyiSQA4c"
         }
       ],
-      "duration_ms": 254436,
-      "name": "Monsters",
-      "url": "https://open.spotify.com/track/5sFeA9E3XBROiOBTCOMfUa"
+      "duration_ms": 129500,
+      "name": "49 Groszy - Remix",
+      "url": "https://open.spotify.com/track/4dve4Ig2kTxUCxSIcaoNcd"
     },
     {
       "added_at": "2023-10-09 22:00:00",
@@ -1263,22 +1267,18 @@
     {
       "added_at": "2023-10-09 22:00:00",
       "album": {
-        "name": "4900 Groszy",
-        "url": "https://open.spotify.com/album/4YLvr3nm2e4Dt8L04dwu2a"
+        "name": "Maski",
+        "url": "https://open.spotify.com/album/2ySVc9A0CxOUm65gOsYFCK"
       },
       "artists": [
         {
-          "name": "Aljas",
-          "url": "https://open.spotify.com/artist/6Vkhs9MXgzLQ88k1rMay1a"
-        },
-        {
-          "name": "M\u0142ody B",
-          "url": "https://open.spotify.com/artist/1ceZGV3Fa3QfceeyiSQA4c"
+          "name": "Mona Lizak",
+          "url": "https://open.spotify.com/artist/1SBoVo80gkiAYGFMQPOKOb"
         }
       ],
-      "duration_ms": 129500,
-      "name": "49 Groszy - Remix",
-      "url": "https://open.spotify.com/track/4dve4Ig2kTxUCxSIcaoNcd"
+      "duration_ms": 254436,
+      "name": "Monsters",
+      "url": "https://open.spotify.com/track/5sFeA9E3XBROiOBTCOMfUa"
     },
     {
       "added_at": "2023-10-09 22:00:00",
@@ -1423,18 +1423,18 @@
     {
       "added_at": "2023-10-09 22:00:00",
       "album": {
-        "name": "Parlez Vous Francais",
-        "url": "https://open.spotify.com/album/2M8QV57i0i2GKoWe8ziAXA"
+        "name": "Maski",
+        "url": "https://open.spotify.com/album/2ySVc9A0CxOUm65gOsYFCK"
       },
       "artists": [
         {
-          "name": "Julia Bosski",
-          "url": "https://open.spotify.com/artist/38qVvJz4fyKJhg08RqHhL2"
+          "name": "Mona Lizak",
+          "url": "https://open.spotify.com/artist/1SBoVo80gkiAYGFMQPOKOb"
         }
       ],
-      "duration_ms": 202666,
-      "name": "Parlez Vous Francais",
-      "url": "https://open.spotify.com/track/1xQkNNDv2MpPpVDNcnFx32"
+      "duration_ms": 239354,
+      "name": "Bum Bum",
+      "url": "https://open.spotify.com/track/5t5BoByzGMZE0gXqXPgxK9"
     }
   ],
   "unique_name": "GLOW Polska",

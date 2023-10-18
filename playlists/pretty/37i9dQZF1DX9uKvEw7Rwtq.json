@@ -1,12 +1,12 @@
 {
   "description": "Soaring soundscapes from the most epic Post-Rock artists.",
-  "num_followers": 81988,
+  "num_followers": 82075,
   "original_name": "Ambient Post-Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2NzkwMGNiZDg5YTlkZDBhNzc3NjM0OGZlNzVmNDA1OGU1MWI3YWU1",
+  "snapshot_id": "MCwyNDFkYTBjYzdkNjk4NzJmNWUyNzRkOWEzNjI4YmMzODE3YTE4MGEx",
   "tracks": [
     {
       "added_at": "2023-09-29 15:52:17",
@@ -211,22 +211,6 @@
     {
       "added_at": "2023-09-29 15:52:17",
       "album": {
-        "name": "James",
-        "url": "https://open.spotify.com/album/7mHPviR5lgsokoGd2JxM2z"
-      },
-      "artists": [
-        {
-          "name": "Lowercase Noises",
-          "url": "https://open.spotify.com/artist/7trvyUUXmPhi1StCNYHj4e"
-        }
-      ],
-      "duration_ms": 354066,
-      "name": "The First Glimmer of Wind",
-      "url": "https://open.spotify.com/track/0kQ1OXxdNx2mJfphbZ3K0c"
-    },
-    {
-      "added_at": "2023-09-29 15:52:17",
-      "album": {
         "name": "Maybe They Will Sing for Us Tomorrow",
         "url": "https://open.spotify.com/album/3N4fmmPCO3Vh6QTKCiDyob"
       },
@@ -239,6 +223,22 @@
       "duration_ms": 308906,
       "name": "Maybe They Will Sing for Us Tomorrow",
       "url": "https://open.spotify.com/track/3nWcjWALonQpDBsyRP5725"
+    },
+    {
+      "added_at": "2023-09-29 15:52:17",
+      "album": {
+        "name": "James",
+        "url": "https://open.spotify.com/album/7mHPviR5lgsokoGd2JxM2z"
+      },
+      "artists": [
+        {
+          "name": "Lowercase Noises",
+          "url": "https://open.spotify.com/artist/7trvyUUXmPhi1StCNYHj4e"
+        }
+      ],
+      "duration_ms": 354066,
+      "name": "The First Glimmer of Wind",
+      "url": "https://open.spotify.com/track/0kQ1OXxdNx2mJfphbZ3K0c"
     },
     {
       "added_at": "2023-09-29 15:52:17",
@@ -307,6 +307,22 @@
     {
       "added_at": "2023-09-29 15:52:17",
       "album": {
+        "name": "Oblivion Hymns",
+        "url": "https://open.spotify.com/album/0qlK9CvmHB659phHKCdJSn"
+      },
+      "artists": [
+        {
+          "name": "Hammock",
+          "url": "https://open.spotify.com/artist/0VOR7Ie9xUSb45fzIIVJQ1"
+        }
+      ],
+      "duration_ms": 403250,
+      "name": "Then the Quiet Explosion",
+      "url": "https://open.spotify.com/track/1e0dFIlrgHaD5a2ud2AXEQ"
+    },
+    {
+      "added_at": "2023-09-29 15:52:17",
+      "album": {
         "name": "Bloom",
         "url": "https://open.spotify.com/album/4N11Xw4rtuswjOeZjqKgay"
       },
@@ -319,22 +335,6 @@
       "duration_ms": 176373,
       "name": "Glaciers",
       "url": "https://open.spotify.com/track/2No1A7ZuMaBGxz45jmA9Gw"
-    },
-    {
-      "added_at": "2023-09-29 15:52:17",
-      "album": {
-        "name": "In a Safe Place",
-        "url": "https://open.spotify.com/album/1sZjWlyc9yL13U5q1nTQ8a"
-      },
-      "artists": [
-        {
-          "name": "The Album Leaf",
-          "url": "https://open.spotify.com/artist/02uPe16VFxPaiueQsPEDkE"
-        }
-      ],
-      "duration_ms": 340840,
-      "name": "Twentytwofourteen",
-      "url": "https://open.spotify.com/track/5pie01PYzPuRexCyFilLGU"
     },
     {
       "added_at": "2023-09-29 15:52:17",
@@ -355,18 +355,18 @@
     {
       "added_at": "2023-09-29 15:52:17",
       "album": {
-        "name": "Oblivion Hymns",
-        "url": "https://open.spotify.com/album/0qlK9CvmHB659phHKCdJSn"
+        "name": "In a Safe Place",
+        "url": "https://open.spotify.com/album/1sZjWlyc9yL13U5q1nTQ8a"
       },
       "artists": [
         {
-          "name": "Hammock",
-          "url": "https://open.spotify.com/artist/0VOR7Ie9xUSb45fzIIVJQ1"
+          "name": "The Album Leaf",
+          "url": "https://open.spotify.com/artist/02uPe16VFxPaiueQsPEDkE"
         }
       ],
-      "duration_ms": 403250,
-      "name": "Then the Quiet Explosion",
-      "url": "https://open.spotify.com/track/1e0dFIlrgHaD5a2ud2AXEQ"
+      "duration_ms": 340840,
+      "name": "Twentytwofourteen",
+      "url": "https://open.spotify.com/track/5pie01PYzPuRexCyFilLGU"
     },
     {
       "added_at": "2023-09-29 15:52:17",
@@ -419,22 +419,6 @@
     {
       "added_at": "2023-09-29 15:52:17",
       "album": {
-        "name": "Reanimation",
-        "url": "https://open.spotify.com/album/6L0fhAi5G9zXbmFelO96Zy"
-      },
-      "artists": [
-        {
-          "name": "Lights & Motion",
-          "url": "https://open.spotify.com/artist/3ff1CmU6qfTqRAmdrq8EEG"
-        }
-      ],
-      "duration_ms": 132472,
-      "name": "Requiem",
-      "url": "https://open.spotify.com/track/6M8tLLip6IdSyr8unJMFxP"
-    },
-    {
-      "added_at": "2023-09-29 15:52:17",
-      "album": {
         "name": "Signals",
         "url": "https://open.spotify.com/album/1z6YgGKHAEJ9FIV93LP4SI"
       },
@@ -447,22 +431,6 @@
       "duration_ms": 361760,
       "name": "A Citizen's Dream",
       "url": "https://open.spotify.com/track/2ehLNjSUtNeq82kVqDqC2F"
-    },
-    {
-      "added_at": "2023-09-29 15:52:17",
-      "album": {
-        "name": "Field Recordings",
-        "url": "https://open.spotify.com/album/0TNUVnjYHwbsilNnbweuZa"
-      },
-      "artists": [
-        {
-          "name": "The Echelon Effect",
-          "url": "https://open.spotify.com/artist/20lGLFmdtadbUYmqzFRcA2"
-        }
-      ],
-      "duration_ms": 468927,
-      "name": "Tracking Aeroplanes",
-      "url": "https://open.spotify.com/track/4J4yJ9VpPIIsRDf9w4cPG7"
     },
     {
       "added_at": "2023-09-29 15:52:17",
@@ -483,6 +451,22 @@
     {
       "added_at": "2023-09-29 15:52:17",
       "album": {
+        "name": "Field Recordings",
+        "url": "https://open.spotify.com/album/0TNUVnjYHwbsilNnbweuZa"
+      },
+      "artists": [
+        {
+          "name": "The Echelon Effect",
+          "url": "https://open.spotify.com/artist/20lGLFmdtadbUYmqzFRcA2"
+        }
+      ],
+      "duration_ms": 468927,
+      "name": "Tracking Aeroplanes",
+      "url": "https://open.spotify.com/track/4J4yJ9VpPIIsRDf9w4cPG7"
+    },
+    {
+      "added_at": "2023-09-29 15:52:17",
+      "album": {
         "name": "Cluster & Eno",
         "url": "https://open.spotify.com/album/0VSmGsL1RtyjE7bdAaSAvy"
       },
@@ -499,6 +483,22 @@
       "duration_ms": 311600,
       "name": "Ho Renomo",
       "url": "https://open.spotify.com/track/2nBtV4NSZJiarMBMpsn6UH"
+    },
+    {
+      "added_at": "2023-09-29 15:52:17",
+      "album": {
+        "name": "Reanimation",
+        "url": "https://open.spotify.com/album/6L0fhAi5G9zXbmFelO96Zy"
+      },
+      "artists": [
+        {
+          "name": "Lights & Motion",
+          "url": "https://open.spotify.com/artist/3ff1CmU6qfTqRAmdrq8EEG"
+        }
+      ],
+      "duration_ms": 132472,
+      "name": "Requiem",
+      "url": "https://open.spotify.com/track/6M8tLLip6IdSyr8unJMFxP"
     },
     {
       "added_at": "2023-09-29 15:52:17",
@@ -551,22 +551,6 @@
     {
       "added_at": "2023-09-29 15:52:17",
       "album": {
-        "name": "G_d's Pee AT STATE'S END!",
-        "url": "https://open.spotify.com/album/6gZsJeN8MdITXZMVDXrMk0"
-      },
-      "artists": [
-        {
-          "name": "Godspeed You! Black Emperor",
-          "url": "https://open.spotify.com/artist/4svpOyfmQKuWpHLjgy4cdK"
-        }
-      ],
-      "duration_ms": 358420,
-      "name": "Fire at Static Valley",
-      "url": "https://open.spotify.com/track/0r4MOhVw2anZScz5PTUrJk"
-    },
-    {
-      "added_at": "2023-09-29 15:52:17",
-      "album": {
         "name": "Mystik",
         "url": "https://open.spotify.com/album/03tqMIhiB0qSBTtuuZsOdU"
       },
@@ -579,6 +563,22 @@
       "duration_ms": 146117,
       "name": "Mystik",
       "url": "https://open.spotify.com/track/25HjqUZFeK2tgNuGHiXWCB"
+    },
+    {
+      "added_at": "2023-09-29 15:52:17",
+      "album": {
+        "name": "G_d's Pee AT STATE'S END!",
+        "url": "https://open.spotify.com/album/6gZsJeN8MdITXZMVDXrMk0"
+      },
+      "artists": [
+        {
+          "name": "Godspeed You! Black Emperor",
+          "url": "https://open.spotify.com/artist/4svpOyfmQKuWpHLjgy4cdK"
+        }
+      ],
+      "duration_ms": 358420,
+      "name": "Fire at Static Valley",
+      "url": "https://open.spotify.com/track/0r4MOhVw2anZScz5PTUrJk"
     },
     {
       "added_at": "2023-09-29 15:52:17",
@@ -635,22 +635,6 @@
     {
       "added_at": "2023-09-29 15:52:17",
       "album": {
-        "name": "Looking at the World Through a Window",
-        "url": "https://open.spotify.com/album/5uSadjfUdEaWhB1zs4m3TQ"
-      },
-      "artists": [
-        {
-          "name": "From Overseas",
-          "url": "https://open.spotify.com/artist/31PP2XORcCMGHAa8vzJEUV"
-        }
-      ],
-      "duration_ms": 385000,
-      "name": "Looking at the World Through a Window",
-      "url": "https://open.spotify.com/track/1bsSaYmy0vOUH8tux2hAYV"
-    },
-    {
-      "added_at": "2023-09-29 15:52:17",
-      "album": {
         "name": "Blowback",
         "url": "https://open.spotify.com/album/7qalD6mlYYh5lFxaEQ5qS5"
       },
@@ -679,6 +663,22 @@
       "duration_ms": 419333,
       "name": "Her Beating Wings",
       "url": "https://open.spotify.com/track/2FGsWazGl3pdFX1kNk2NY1"
+    },
+    {
+      "added_at": "2023-09-29 15:52:17",
+      "album": {
+        "name": "Looking at the World Through a Window",
+        "url": "https://open.spotify.com/album/5uSadjfUdEaWhB1zs4m3TQ"
+      },
+      "artists": [
+        {
+          "name": "From Overseas",
+          "url": "https://open.spotify.com/artist/31PP2XORcCMGHAa8vzJEUV"
+        }
+      ],
+      "duration_ms": 385000,
+      "name": "Looking at the World Through a Window",
+      "url": "https://open.spotify.com/track/1bsSaYmy0vOUH8tux2hAYV"
     },
     {
       "added_at": "2023-09-29 15:52:17",
@@ -715,22 +715,6 @@
     {
       "added_at": "2023-09-29 15:52:17",
       "album": {
-        "name": "G_d's Pee AT STATE'S END!",
-        "url": "https://open.spotify.com/album/6gZsJeN8MdITXZMVDXrMk0"
-      },
-      "artists": [
-        {
-          "name": "Godspeed You! Black Emperor",
-          "url": "https://open.spotify.com/artist/4svpOyfmQKuWpHLjgy4cdK"
-        }
-      ],
-      "duration_ms": 390080,
-      "name": "OUR SIDE HAS TO WIN (for D.H.)",
-      "url": "https://open.spotify.com/track/6AWgFM6ORRfr9bphIW25bB"
-    },
-    {
-      "added_at": "2023-09-29 15:52:17",
-      "album": {
         "name": "Feeling Everything but Lost",
         "url": "https://open.spotify.com/album/44TCjQ57NmQQD5BAkT6lqG"
       },
@@ -743,6 +727,22 @@
       "duration_ms": 295104,
       "name": "Feeling Everything but Lost",
       "url": "https://open.spotify.com/track/5OY253uETDSe8456oYvkS3"
+    },
+    {
+      "added_at": "2023-09-29 15:52:17",
+      "album": {
+        "name": "G_d's Pee AT STATE'S END!",
+        "url": "https://open.spotify.com/album/6gZsJeN8MdITXZMVDXrMk0"
+      },
+      "artists": [
+        {
+          "name": "Godspeed You! Black Emperor",
+          "url": "https://open.spotify.com/artist/4svpOyfmQKuWpHLjgy4cdK"
+        }
+      ],
+      "duration_ms": 390080,
+      "name": "OUR SIDE HAS TO WIN (for D.H.)",
+      "url": "https://open.spotify.com/track/6AWgFM6ORRfr9bphIW25bB"
     },
     {
       "added_at": "2023-09-29 15:52:17",
@@ -975,22 +975,6 @@
     {
       "added_at": "2023-09-29 15:52:17",
       "album": {
-        "name": "Nova",
-        "url": "https://open.spotify.com/album/442jVeJ7yvYb1EiTcrKc7f"
-      },
-      "artists": [
-        {
-          "name": "McLarnan",
-          "url": "https://open.spotify.com/artist/0SQZ2Dcu8oLoNZs6Pwqrwt"
-        }
-      ],
-      "duration_ms": 420330,
-      "name": "Nova",
-      "url": "https://open.spotify.com/track/5d24GkUJLwNLhmWC0MYNQP"
-    },
-    {
-      "added_at": "2023-09-29 15:52:17",
-      "album": {
         "name": "Enfold",
         "url": "https://open.spotify.com/album/3URn9GW2uXY7mTXLXs89oS"
       },
@@ -1007,34 +991,18 @@
     {
       "added_at": "2023-09-29 15:52:17",
       "album": {
-        "name": "Mockingbird Love",
-        "url": "https://open.spotify.com/album/78iqh8E1w21f5RxVUNXPuq"
+        "name": "Nova",
+        "url": "https://open.spotify.com/album/442jVeJ7yvYb1EiTcrKc7f"
       },
       "artists": [
         {
-          "name": "Robin Guthrie",
-          "url": "https://open.spotify.com/artist/3ZqRIzadY4WYQEg4Hj2vGC"
+          "name": "McLarnan",
+          "url": "https://open.spotify.com/artist/0SQZ2Dcu8oLoNZs6Pwqrwt"
         }
       ],
-      "duration_ms": 173853,
-      "name": "My Courtesan",
-      "url": "https://open.spotify.com/track/3Mpwsnfe7Q6AspY7aM7qvF"
-    },
-    {
-      "added_at": "2023-09-29 15:52:17",
-      "album": {
-        "name": "Dragoon",
-        "url": "https://open.spotify.com/album/4zZR5AnYdvyChSGy0aEGEp"
-      },
-      "artists": [
-        {
-          "name": "Amparo",
-          "url": "https://open.spotify.com/artist/55FRGLGEoc58o9fNM6gEdf"
-        }
-      ],
-      "duration_ms": 183050,
-      "name": "Dragoon",
-      "url": "https://open.spotify.com/track/6LGFTYASAcu8YMCcAwRG2g"
+      "duration_ms": 420330,
+      "name": "Nova",
+      "url": "https://open.spotify.com/track/5d24GkUJLwNLhmWC0MYNQP"
     },
     {
       "added_at": "2023-09-29 15:52:17",
@@ -1063,18 +1031,34 @@
     {
       "added_at": "2023-09-29 15:52:17",
       "album": {
-        "name": "Love in the Void",
-        "url": "https://open.spotify.com/album/1zlinQtrWot4RrBtxB4UTX"
+        "name": "Dragoon",
+        "url": "https://open.spotify.com/album/4zZR5AnYdvyChSGy0aEGEp"
       },
       "artists": [
         {
-          "name": "Hammock",
-          "url": "https://open.spotify.com/artist/0VOR7Ie9xUSb45fzIIVJQ1"
+          "name": "Amparo",
+          "url": "https://open.spotify.com/artist/55FRGLGEoc58o9fNM6gEdf"
         }
       ],
-      "duration_ms": 392374,
-      "name": "I Would Stare into the Sun with You Forever",
-      "url": "https://open.spotify.com/track/4KS0VLY87D2eHBhuvYoUDc"
+      "duration_ms": 183050,
+      "name": "Dragoon",
+      "url": "https://open.spotify.com/track/6LGFTYASAcu8YMCcAwRG2g"
+    },
+    {
+      "added_at": "2023-09-29 15:52:17",
+      "album": {
+        "name": "Mockingbird Love",
+        "url": "https://open.spotify.com/album/78iqh8E1w21f5RxVUNXPuq"
+      },
+      "artists": [
+        {
+          "name": "Robin Guthrie",
+          "url": "https://open.spotify.com/artist/3ZqRIzadY4WYQEg4Hj2vGC"
+        }
+      ],
+      "duration_ms": 173853,
+      "name": "My Courtesan",
+      "url": "https://open.spotify.com/track/3Mpwsnfe7Q6AspY7aM7qvF"
     },
     {
       "added_at": "2023-09-29 15:52:17",
@@ -1091,6 +1075,22 @@
       "duration_ms": 236000,
       "name": "Meteor Shower",
       "url": "https://open.spotify.com/track/2hzgNLpTcKF81lhU6SJz4E"
+    },
+    {
+      "added_at": "2023-09-29 15:52:17",
+      "album": {
+        "name": "Love in the Void",
+        "url": "https://open.spotify.com/album/1zlinQtrWot4RrBtxB4UTX"
+      },
+      "artists": [
+        {
+          "name": "Hammock",
+          "url": "https://open.spotify.com/artist/0VOR7Ie9xUSb45fzIIVJQ1"
+        }
+      ],
+      "duration_ms": 392374,
+      "name": "I Would Stare into the Sun with You Forever",
+      "url": "https://open.spotify.com/track/4KS0VLY87D2eHBhuvYoUDc"
     },
     {
       "added_at": "2023-09-29 15:52:17",
@@ -1211,22 +1211,6 @@
     {
       "added_at": "2023-09-29 15:52:17",
       "album": {
-        "name": "Reflection",
-        "url": "https://open.spotify.com/album/3NHWpKIN1ykhWepSyzBglP"
-      },
-      "artists": [
-        {
-          "name": "Interstellar Noise",
-          "url": "https://open.spotify.com/artist/3h9YFTlhixNcQHPWYrGXOT"
-        }
-      ],
-      "duration_ms": 227975,
-      "name": "Reflection",
-      "url": "https://open.spotify.com/track/4O7QRo5ZdHCSVbx6Nh4gLM"
-    },
-    {
-      "added_at": "2023-09-29 15:52:17",
-      "album": {
         "name": "Farewell, Stars (The American Dollar Rework)",
         "url": "https://open.spotify.com/album/7MNXIkzZJo7oNOezVyDTXW"
       },
@@ -1243,6 +1227,22 @@
       "duration_ms": 228973,
       "name": "Farewell, Stars - The American Dollar Rework",
       "url": "https://open.spotify.com/track/7oEKxSpVRJo4SgBMl6DAhR"
+    },
+    {
+      "added_at": "2023-09-29 15:52:17",
+      "album": {
+        "name": "Reflection",
+        "url": "https://open.spotify.com/album/3NHWpKIN1ykhWepSyzBglP"
+      },
+      "artists": [
+        {
+          "name": "Interstellar Noise",
+          "url": "https://open.spotify.com/artist/3h9YFTlhixNcQHPWYrGXOT"
+        }
+      ],
+      "duration_ms": 227975,
+      "name": "Reflection",
+      "url": "https://open.spotify.com/track/4O7QRo5ZdHCSVbx6Nh4gLM"
     },
     {
       "added_at": "2023-09-29 15:52:17",
@@ -1387,6 +1387,22 @@
     {
       "added_at": "2023-09-29 15:52:17",
       "album": {
+        "name": "(not) alone",
+        "url": "https://open.spotify.com/album/51dQuuCnhq9ofFbktytfSx"
+      },
+      "artists": [
+        {
+          "name": "Johannes Baumer",
+          "url": "https://open.spotify.com/artist/2UKaC09K4X0OpVUUAergSt"
+        }
+      ],
+      "duration_ms": 279197,
+      "name": "(not) alone",
+      "url": "https://open.spotify.com/track/5H160uvDJVx2e0kfVu4s9u"
+    },
+    {
+      "added_at": "2023-09-29 15:52:17",
+      "album": {
         "name": "Momentary Ghosts",
         "url": "https://open.spotify.com/album/7sAHthUnnbu2lpLkzDdqiI"
       },
@@ -1403,22 +1419,6 @@
       "duration_ms": 283200,
       "name": "A Letter from the Past",
       "url": "https://open.spotify.com/track/2Da5dLkBzADcZ0qcTOuiYk"
-    },
-    {
-      "added_at": "2023-09-29 15:52:17",
-      "album": {
-        "name": "(not) alone",
-        "url": "https://open.spotify.com/album/51dQuuCnhq9ofFbktytfSx"
-      },
-      "artists": [
-        {
-          "name": "Johannes Baumer",
-          "url": "https://open.spotify.com/artist/2UKaC09K4X0OpVUUAergSt"
-        }
-      ],
-      "duration_ms": 279197,
-      "name": "(not) alone",
-      "url": "https://open.spotify.com/track/5H160uvDJVx2e0kfVu4s9u"
     },
     {
       "added_at": "2023-09-29 15:52:17",
@@ -1519,22 +1519,6 @@
     {
       "added_at": "2023-09-29 15:52:17",
       "album": {
-        "name": "This Light",
-        "url": "https://open.spotify.com/album/6ccahDchi2b0LObfYsiQTT"
-      },
-      "artists": [
-        {
-          "name": "Stray Theories",
-          "url": "https://open.spotify.com/artist/6zrYVEFX8UvqKu99mWVOKs"
-        }
-      ],
-      "duration_ms": 346133,
-      "name": "Be the Light",
-      "url": "https://open.spotify.com/track/7lzOZfO08GlKkSBz7TPX6t"
-    },
-    {
-      "added_at": "2023-09-29 15:52:17",
-      "album": {
         "name": "Volcan",
         "url": "https://open.spotify.com/album/1oeoW3Ucs6A2zSMMgMS0UW"
       },
@@ -1599,6 +1583,22 @@
     {
       "added_at": "2023-09-29 15:52:17",
       "album": {
+        "name": "This Light",
+        "url": "https://open.spotify.com/album/6ccahDchi2b0LObfYsiQTT"
+      },
+      "artists": [
+        {
+          "name": "Stray Theories",
+          "url": "https://open.spotify.com/artist/6zrYVEFX8UvqKu99mWVOKs"
+        }
+      ],
+      "duration_ms": 346133,
+      "name": "Be the Light",
+      "url": "https://open.spotify.com/track/7lzOZfO08GlKkSBz7TPX6t"
+    },
+    {
+      "added_at": "2023-09-29 15:52:17",
+      "album": {
         "name": "I Wonder As I Wander",
         "url": "https://open.spotify.com/album/375PRwWW8KXDcpiNBJMVNg"
       },
@@ -1611,26 +1611,6 @@
       "duration_ms": 136846,
       "name": "I Wonder As I Wander",
       "url": "https://open.spotify.com/track/1WUI79LofTPndZDTs8r7dU"
-    },
-    {
-      "added_at": "2023-09-29 15:52:17",
-      "album": {
-        "name": "In a Sad Red Dusk, We Were Finally Leaving",
-        "url": "https://open.spotify.com/album/5kaGO4pw3kdASdMgve60vR"
-      },
-      "artists": [
-        {
-          "name": "Carlos Ferreira",
-          "url": "https://open.spotify.com/artist/7J6KXAg6cV2B2BKGYZJhEB"
-        },
-        {
-          "name": "deer meadow",
-          "url": "https://open.spotify.com/artist/7IjTtPufpIvS5zpffa9FXr"
-        }
-      ],
-      "duration_ms": 318240,
-      "name": "Secret Colours",
-      "url": "https://open.spotify.com/track/1NMCxRadb4KO7Kjosst5lA"
     },
     {
       "added_at": "2023-09-29 15:52:17",
@@ -1651,6 +1631,26 @@
       "duration_ms": 478853,
       "name": "Altar of Tammy",
       "url": "https://open.spotify.com/track/1ZXY4vBNHhaOwTQLjWKGkV"
+    },
+    {
+      "added_at": "2023-09-29 15:52:17",
+      "album": {
+        "name": "In a Sad Red Dusk, We Were Finally Leaving",
+        "url": "https://open.spotify.com/album/5kaGO4pw3kdASdMgve60vR"
+      },
+      "artists": [
+        {
+          "name": "Carlos Ferreira",
+          "url": "https://open.spotify.com/artist/7J6KXAg6cV2B2BKGYZJhEB"
+        },
+        {
+          "name": "deer meadow",
+          "url": "https://open.spotify.com/artist/7IjTtPufpIvS5zpffa9FXr"
+        }
+      ],
+      "duration_ms": 318240,
+      "name": "Secret Colours",
+      "url": "https://open.spotify.com/track/1NMCxRadb4KO7Kjosst5lA"
     },
     {
       "added_at": "2023-09-29 15:52:17",

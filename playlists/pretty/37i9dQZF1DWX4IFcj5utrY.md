@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX4IFcj5utrY.md) - [plain]
 
 > The best dance hits in South Africa and across the globe\. Cover: <a href="https://open.spotify.com/artist/479FU7Z02AG01paQ7HVs4s?si=NWgo6yJ\-Q1m9Jpl3XoVTLg">SVGO</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 66,716 likes - 51 songs - 4 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 66,766 likes - 51 songs - 4 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX4IFcj5utrY.md) - [plain]
 | 50 | [Indlela](https://open.spotify.com/track/1gINTM4XrnZ3Cke3KRvHYk) | [Drega](https://open.spotify.com/artist/1Gj6W2RfGpl6ebJGle93VG), [Sun\-El Musician](https://open.spotify.com/artist/0W8WpLB5WoXLgiA193LXk6), [Maline Aura](https://open.spotify.com/artist/1LcX3ZFNBeGKxkpfCIr4cP) | [Indlela](https://open.spotify.com/album/2WYDw5eFucNCiUKAZdUHPX) | 5:49 |
 | 51 | [Kingdoms](https://open.spotify.com/track/7k9zZSveLo1J6sikJZOlDB) | [!Sooks](https://open.spotify.com/artist/4JbbqXJHtza12SQPxlzuVI), [Atjazz](https://open.spotify.com/artist/5E1HWPplEsztsh2zh1c9mH) | [Kingdoms](https://open.spotify.com/album/0mDN7byFTJ48PYTaMCraIM) | 8:21 |
 
-Snapshot ID: `MCxmMDJmYmVjYjU3OTIwOTRkNzc2YzJjZTQ1YTQ1ZmU2OGM3MjI5NjA0`
+Snapshot ID: `MCw4YTE2YWEzYjhmMjk0Y2M0MDM3YjdjZGJmZmY4Mzk5NDRlM2QzNTIx`

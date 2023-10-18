@@ -4,7 +4,7 @@
 
 > Beautiful indie tracks from around the world\. Cover: beabadoobee.
 
-83 songs - 4 hr 34 min
+84 songs - 4 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -88,7 +88,8 @@
 | [We're Still Young](https://open.spotify.com/track/1RYzVm4glRGlTZw8kSZF32) | [Oak Glen](https://open.spotify.com/artist/2zS2pX7GUtR5voVkO2orYq) | [We're Still Young](https://open.spotify.com/album/4ZrmZ3ztJzEXtWfRDU38Fc) | 3:22 | 2022-11-30 |  |
 | [where I become someone](https://open.spotify.com/track/4MFA7lHHvfZk1dw3hLahxR) | [NEIL FRANCES](https://open.spotify.com/artist/587PA35pRGL1JwQr6idJbb), [Benny Sings](https://open.spotify.com/artist/4gHcu2JoaXJ0mV4aNPCd7N) | [There is no Neil Frances](https://open.spotify.com/album/4dIcsXIElacBzTpnDo3j3M) | 3:08 | 2022-11-30 |  |
 | [Your Other Life](https://open.spotify.com/track/4sWZVIOHuTrQOt6mqzMiBE) | [Lord Huron](https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25) | [Long Lost \(Deluxe Edition\)](https://open.spotify.com/album/6yEdJA4H2O4VOi4pk14GdS) | 4:40 | 2022-11-30 |  |
-| [‎can't ‎u ‎tell ‎?](https://open.spotify.com/track/1L2IdFAsssLzcv2oLTL1kn) | [maxime.](https://open.spotify.com/artist/4jd8Wp3Os5tXFV0NYm1570) | [‎can't ‎u ‎tell ‎?](https://open.spotify.com/album/6hLJGtNPcfDbOPQjGs5XMo) | 2:38 | 2022-11-30 |  |
+| [‎can't ‎u ‎tell ‎?](https://open.spotify.com/track/0DzmuigZNTpqOedCW3e6cb) | [maxime.](https://open.spotify.com/artist/4jd8Wp3Os5tXFV0NYm1570) | [‎rubber ‎checks](https://open.spotify.com/album/14JPvukY07RrXQSBAM31eF) | 2:38 | 2022-11-30 |  |
+| [‎can't ‎u ‎tell ‎?](https://open.spotify.com/track/1L2IdFAsssLzcv2oLTL1kn) | [maxime.](https://open.spotify.com/artist/4jd8Wp3Os5tXFV0NYm1570) | [‎can't ‎u ‎tell ‎?](https://open.spotify.com/album/6hLJGtNPcfDbOPQjGs5XMo) | 2:38 | 2022-11-30 | 2023-10-18 |
 | [你的樣子](https://open.spotify.com/track/1sMvq3uR6whC43orwSTHCz) | [Cosmos People](https://open.spotify.com/artist/0tNjyz75Px29Yuf1sjs25G) | [理想狀態](https://open.spotify.com/album/1cUvSBEiW9ZfRJycMHRCaY) | 4:01 | 2022-11-30 |  |
 | [踊り子](https://open.spotify.com/track/4UeWKazLR1ZwwSVnLw9Ir9) | [Vaundy](https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru) | [踊り子](https://open.spotify.com/album/3qDlmj2bxxsDO7EdVgwb7j) | 3:50 | 2022-11-30 | 2023-10-05 |
 

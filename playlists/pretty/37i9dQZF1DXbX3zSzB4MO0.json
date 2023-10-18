@@ -1,12 +1,12 @@
 {
   "description": "Club vibes wherever you are!",
-  "num_followers": 809491,
+  "num_followers": 810331,
   "original_name": "Club Beats",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmNzAzZmVhMGVjODMzNWQwZDFlYjIzNWMzZGIwNzZkYWIyMTUwMWFm",
+  "snapshot_id": "MCw0YWY5YjU4ZjQ4NWFiNDJlZDYzMTg2YzQ2M2MzNWM1Y2ZhZGM4YzNi",
   "tracks": [
     {
       "added_at": "2023-10-05 22:21:44",
@@ -27,22 +27,6 @@
     {
       "added_at": "2023-10-05 22:21:44",
       "album": {
-        "name": "Push Up (Main Edit)",
-        "url": "https://open.spotify.com/album/3v5BP6gPT1nNU9rjs57fF0"
-      },
-      "artists": [
-        {
-          "name": "Creeds",
-          "url": "https://open.spotify.com/artist/2gW0M5fn2r7Lo4Hn1r8HZ5"
-        }
-      ],
-      "duration_ms": 139300,
-      "name": "Push Up - Main Edit",
-      "url": "https://open.spotify.com/track/3AjSfp5FDvwtMU9XBsbS8j"
-    },
-    {
-      "added_at": "2023-10-05 22:21:44",
-      "album": {
         "name": "Give It To Me (Full Vocal Mix)",
         "url": "https://open.spotify.com/album/1jbRY71konakrKvDUiW7Rp"
       },
@@ -55,6 +39,22 @@
       "duration_ms": 102860,
       "name": "Give It To Me - Full Vocal Mix",
       "url": "https://open.spotify.com/track/5ZduaRci3iNUiDfJbBfAaf"
+    },
+    {
+      "added_at": "2023-10-05 22:21:44",
+      "album": {
+        "name": "Push Up (Main Edit)",
+        "url": "https://open.spotify.com/album/3v5BP6gPT1nNU9rjs57fF0"
+      },
+      "artists": [
+        {
+          "name": "Creeds",
+          "url": "https://open.spotify.com/artist/2gW0M5fn2r7Lo4Hn1r8HZ5"
+        }
+      ],
+      "duration_ms": 139300,
+      "name": "Push Up - Main Edit",
+      "url": "https://open.spotify.com/track/3AjSfp5FDvwtMU9XBsbS8j"
     },
     {
       "added_at": "2023-10-05 22:21:44",
@@ -135,22 +135,6 @@
     {
       "added_at": "2023-10-05 22:21:44",
       "album": {
-        "name": "Ascend",
-        "url": "https://open.spotify.com/album/4mAF3peOEA7768ugEsKNHk"
-      },
-      "artists": [
-        {
-          "name": "Dezko",
-          "url": "https://open.spotify.com/artist/4FAahCBNlbpgoAhVfuUHPD"
-        }
-      ],
-      "duration_ms": 200156,
-      "name": "Ascend",
-      "url": "https://open.spotify.com/track/199wv1uOJYZ1XyK8FTzwh2"
-    },
-    {
-      "added_at": "2023-10-05 22:21:44",
-      "album": {
         "name": "Atmosphere",
         "url": "https://open.spotify.com/album/3rGYf6tkyIJ4BE2O2k7o0d"
       },
@@ -167,6 +151,22 @@
       "duration_ms": 182857,
       "name": "Atmosphere",
       "url": "https://open.spotify.com/track/1aNUSKBe6UMyMk3pEu9ws7"
+    },
+    {
+      "added_at": "2023-10-05 22:21:44",
+      "album": {
+        "name": "Ascend",
+        "url": "https://open.spotify.com/album/4mAF3peOEA7768ugEsKNHk"
+      },
+      "artists": [
+        {
+          "name": "Dezko",
+          "url": "https://open.spotify.com/artist/4FAahCBNlbpgoAhVfuUHPD"
+        }
+      ],
+      "duration_ms": 200156,
+      "name": "Ascend",
+      "url": "https://open.spotify.com/track/199wv1uOJYZ1XyK8FTzwh2"
     },
     {
       "added_at": "2023-10-05 22:21:44",
@@ -223,42 +223,6 @@
     {
       "added_at": "2023-10-05 22:21:44",
       "album": {
-        "name": "Eat Your Man (with Nelly Furtado)",
-        "url": "https://open.spotify.com/album/6UC9oEbksP0m0Sfl1sgVEQ"
-      },
-      "artists": [
-        {
-          "name": "Dom Dolla",
-          "url": "https://open.spotify.com/artist/205i7E8fNVfojowcQSfK9m"
-        },
-        {
-          "name": "Nelly Furtado",
-          "url": "https://open.spotify.com/artist/2jw70GZXlAI8QzWeY2bgRc"
-        }
-      ],
-      "duration_ms": 197164,
-      "name": "Eat Your Man (with Nelly Furtado)",
-      "url": "https://open.spotify.com/track/6Ea2oEzysv4UECGNxL1IEW"
-    },
-    {
-      "added_at": "2023-10-05 22:21:44",
-      "album": {
-        "name": "Be The One",
-        "url": "https://open.spotify.com/album/03CJTIUvULKcMHjr0qjZtK"
-      },
-      "artists": [
-        {
-          "name": "Eli Brown",
-          "url": "https://open.spotify.com/artist/5lVNSw2GPci8kebrAQpZqU"
-        }
-      ],
-      "duration_ms": 169852,
-      "name": "Be The One",
-      "url": "https://open.spotify.com/track/1cQld05IcUDw3RCFt7uymW"
-    },
-    {
-      "added_at": "2023-10-05 22:21:44",
-      "album": {
         "name": "Praise The Lord (Da Shine) (feat. Skepta) [Durdenhauer Edit]",
         "url": "https://open.spotify.com/album/6uVc1jXybFsyaLi48p8zYu"
       },
@@ -279,6 +243,42 @@
       "duration_ms": 163515,
       "name": "Praise The Lord (Da Shine) (feat. Skepta) - Durdenhauer Edit",
       "url": "https://open.spotify.com/track/7jQkiAaa4XYYsPH3rcfcWo"
+    },
+    {
+      "added_at": "2023-10-05 22:21:44",
+      "album": {
+        "name": "Be The One",
+        "url": "https://open.spotify.com/album/03CJTIUvULKcMHjr0qjZtK"
+      },
+      "artists": [
+        {
+          "name": "Eli Brown",
+          "url": "https://open.spotify.com/artist/5lVNSw2GPci8kebrAQpZqU"
+        }
+      ],
+      "duration_ms": 169852,
+      "name": "Be The One",
+      "url": "https://open.spotify.com/track/1cQld05IcUDw3RCFt7uymW"
+    },
+    {
+      "added_at": "2023-10-05 22:21:44",
+      "album": {
+        "name": "Eat Your Man (with Nelly Furtado)",
+        "url": "https://open.spotify.com/album/6UC9oEbksP0m0Sfl1sgVEQ"
+      },
+      "artists": [
+        {
+          "name": "Dom Dolla",
+          "url": "https://open.spotify.com/artist/205i7E8fNVfojowcQSfK9m"
+        },
+        {
+          "name": "Nelly Furtado",
+          "url": "https://open.spotify.com/artist/2jw70GZXlAI8QzWeY2bgRc"
+        }
+      ],
+      "duration_ms": 197164,
+      "name": "Eat Your Man (with Nelly Furtado)",
+      "url": "https://open.spotify.com/track/6Ea2oEzysv4UECGNxL1IEW"
     },
     {
       "added_at": "2023-10-05 22:21:44",
@@ -327,6 +327,34 @@
     {
       "added_at": "2023-10-05 22:21:44",
       "album": {
+        "name": "Prada (feat. Valexus) [Valexus Remix]",
+        "url": "https://open.spotify.com/album/1kmVDYAYMwrVavfO1PYC6q"
+      },
+      "artists": [
+        {
+          "name": "cass\u00f6",
+          "url": "https://open.spotify.com/artist/5wCmhq5J2hPwL2r0eKurxn"
+        },
+        {
+          "name": "RAYE",
+          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
+        },
+        {
+          "name": "D-Block Europe",
+          "url": "https://open.spotify.com/artist/5VadK1havLhK1OpKYsXv9y"
+        },
+        {
+          "name": "Valexus",
+          "url": "https://open.spotify.com/artist/7bzKgx8PQw6TCVDSD43pc1"
+        }
+      ],
+      "duration_ms": 135125,
+      "name": "Prada (feat. Valexus) - Valexus Remix",
+      "url": "https://open.spotify.com/track/1hmI7H4W0ChPH6vfa9i2CQ"
+    },
+    {
+      "added_at": "2023-10-05 22:21:44",
+      "album": {
         "name": "Beggin'",
         "url": "https://open.spotify.com/album/4PCf8xkYY6ZlrQh48AQP1V"
       },
@@ -359,34 +387,6 @@
       "duration_ms": 164042,
       "name": "Edge of Seventeen",
       "url": "https://open.spotify.com/track/5IFSvSEeCAvvBEQ85poqKB"
-    },
-    {
-      "added_at": "2023-10-05 22:21:44",
-      "album": {
-        "name": "Prada (feat. Valexus) [Valexus Remix]",
-        "url": "https://open.spotify.com/album/1kmVDYAYMwrVavfO1PYC6q"
-      },
-      "artists": [
-        {
-          "name": "cass\u00f6",
-          "url": "https://open.spotify.com/artist/5wCmhq5J2hPwL2r0eKurxn"
-        },
-        {
-          "name": "RAYE",
-          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
-        },
-        {
-          "name": "D-Block Europe",
-          "url": "https://open.spotify.com/artist/5VadK1havLhK1OpKYsXv9y"
-        },
-        {
-          "name": "Valexus",
-          "url": "https://open.spotify.com/artist/7bzKgx8PQw6TCVDSD43pc1"
-        }
-      ],
-      "duration_ms": 135125,
-      "name": "Prada (feat. Valexus) - Valexus Remix",
-      "url": "https://open.spotify.com/track/1hmI7H4W0ChPH6vfa9i2CQ"
     },
     {
       "added_at": "2023-10-05 22:21:44",
@@ -559,26 +559,22 @@
     {
       "added_at": "2023-10-05 22:21:44",
       "album": {
-        "name": "Baby again..",
-        "url": "https://open.spotify.com/album/7J7redEXgOUEsUBXukhkUF"
+        "name": "More Baby",
+        "url": "https://open.spotify.com/album/1Pei7Y5MNZQvfkDWds5EWa"
       },
       "artists": [
         {
-          "name": "Fred again..",
-          "url": "https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe"
+          "name": "Chris Lake",
+          "url": "https://open.spotify.com/artist/5Igpc9iLZ3YGtKeYfSrrOE"
         },
         {
-          "name": "Skrillex",
-          "url": "https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX"
-        },
-        {
-          "name": "Four Tet",
-          "url": "https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh"
+          "name": "Aluna",
+          "url": "https://open.spotify.com/artist/5ITI6SEoUZMIXXkzCfr4oE"
         }
       ],
-      "duration_ms": 319963,
-      "name": "Baby again..",
-      "url": "https://open.spotify.com/track/4zlbKky2yA657Sk5rekZoR"
+      "duration_ms": 175856,
+      "name": "More Baby",
+      "url": "https://open.spotify.com/track/02QE4LsAj7DBjMRxolGE8a"
     },
     {
       "added_at": "2023-10-05 22:21:44",
@@ -603,46 +599,46 @@
     {
       "added_at": "2023-10-05 22:21:44",
       "album": {
-        "name": "More Baby",
-        "url": "https://open.spotify.com/album/1Pei7Y5MNZQvfkDWds5EWa"
+        "name": "Baby again..",
+        "url": "https://open.spotify.com/album/7J7redEXgOUEsUBXukhkUF"
       },
       "artists": [
         {
-          "name": "Chris Lake",
-          "url": "https://open.spotify.com/artist/5Igpc9iLZ3YGtKeYfSrrOE"
+          "name": "Fred again..",
+          "url": "https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe"
         },
         {
-          "name": "Aluna",
-          "url": "https://open.spotify.com/artist/5ITI6SEoUZMIXXkzCfr4oE"
+          "name": "Skrillex",
+          "url": "https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX"
+        },
+        {
+          "name": "Four Tet",
+          "url": "https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh"
         }
       ],
-      "duration_ms": 175856,
-      "name": "More Baby",
-      "url": "https://open.spotify.com/track/02QE4LsAj7DBjMRxolGE8a"
+      "duration_ms": 319963,
+      "name": "Baby again..",
+      "url": "https://open.spotify.com/track/4zlbKky2yA657Sk5rekZoR"
     },
     {
       "added_at": "2023-10-05 22:21:44",
       "album": {
-        "name": "On & On",
-        "url": "https://open.spotify.com/album/2R1IseXguOsELhULk1H60P"
+        "name": "My Gasoline",
+        "url": "https://open.spotify.com/album/0EaF9YPTmGw5K9ndExhQ7a"
       },
       "artists": [
         {
-          "name": "Armin van Buuren",
-          "url": "https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5"
+          "name": "Maddix",
+          "url": "https://open.spotify.com/artist/0RMeG9M8QFzss9bAbq99KA"
         },
         {
-          "name": "Punctual",
-          "url": "https://open.spotify.com/artist/1ocnIbhFWM9bSPrd7Hu4zF"
-        },
-        {
-          "name": "Alika",
-          "url": "https://open.spotify.com/artist/1U3n3wACHLjc8sS1obMEuf"
+          "name": "F\u0113l\u0113s",
+          "url": "https://open.spotify.com/artist/7akxhVMmCpSDFw152XqCu6"
         }
       ],
-      "duration_ms": 170578,
-      "name": "On & On",
-      "url": "https://open.spotify.com/track/19bua05ITWjFrk9iGxOA7r"
+      "duration_ms": 236999,
+      "name": "My Gasoline",
+      "url": "https://open.spotify.com/track/6dyfsauAoa5qN0tj9JKamE"
     },
     {
       "added_at": "2023-10-05 22:21:44",
@@ -687,6 +683,30 @@
     {
       "added_at": "2023-10-05 22:21:44",
       "album": {
+        "name": "On & On",
+        "url": "https://open.spotify.com/album/2R1IseXguOsELhULk1H60P"
+      },
+      "artists": [
+        {
+          "name": "Armin van Buuren",
+          "url": "https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5"
+        },
+        {
+          "name": "Punctual",
+          "url": "https://open.spotify.com/artist/1ocnIbhFWM9bSPrd7Hu4zF"
+        },
+        {
+          "name": "Alika",
+          "url": "https://open.spotify.com/artist/1U3n3wACHLjc8sS1obMEuf"
+        }
+      ],
+      "duration_ms": 170578,
+      "name": "On & On",
+      "url": "https://open.spotify.com/track/19bua05ITWjFrk9iGxOA7r"
+    },
+    {
+      "added_at": "2023-10-05 22:21:44",
+      "album": {
         "name": "Miracle Maker",
         "url": "https://open.spotify.com/album/3yQSxYbAj2jrwAx7W7MIAU"
       },
@@ -703,26 +723,6 @@
       "duration_ms": 188592,
       "name": "Miracle Maker",
       "url": "https://open.spotify.com/track/6txvQu0zUbiqG24A8XMLnK"
-    },
-    {
-      "added_at": "2023-10-05 22:21:44",
-      "album": {
-        "name": "My Gasoline",
-        "url": "https://open.spotify.com/album/0EaF9YPTmGw5K9ndExhQ7a"
-      },
-      "artists": [
-        {
-          "name": "Maddix",
-          "url": "https://open.spotify.com/artist/0RMeG9M8QFzss9bAbq99KA"
-        },
-        {
-          "name": "F\u0113l\u0113s",
-          "url": "https://open.spotify.com/artist/7akxhVMmCpSDFw152XqCu6"
-        }
-      ],
-      "duration_ms": 236999,
-      "name": "My Gasoline",
-      "url": "https://open.spotify.com/track/6dyfsauAoa5qN0tj9JKamE"
     },
     {
       "added_at": "2023-10-05 22:21:44",
@@ -847,6 +847,26 @@
     {
       "added_at": "2023-10-05 22:21:44",
       "album": {
+        "name": "Milkshake 20 (Alex Wann Remix)",
+        "url": "https://open.spotify.com/album/4B5VkayNwax1Z2ZDThsNt9"
+      },
+      "artists": [
+        {
+          "name": "Kelis",
+          "url": "https://open.spotify.com/artist/0IF46mUS8NXjgHabxk2MCM"
+        },
+        {
+          "name": "Alex Wann",
+          "url": "https://open.spotify.com/artist/6PTNNcLg90Kkl89JcEwKhT"
+        }
+      ],
+      "duration_ms": 176949,
+      "name": "Milkshake 20 - Alex Wann Remix",
+      "url": "https://open.spotify.com/track/39jBAaaSlgM9UdZBSKDd6F"
+    },
+    {
+      "added_at": "2023-10-05 22:21:44",
+      "album": {
         "name": "Rhyme Dust",
         "url": "https://open.spotify.com/album/53MYxcczbSWNjO6KIG5DuG"
       },
@@ -863,6 +883,22 @@
       "duration_ms": 181364,
       "name": "Rhyme Dust",
       "url": "https://open.spotify.com/track/5mKiwDDrwG22qKKVL6JZqF"
+    },
+    {
+      "added_at": "2023-10-05 22:21:44",
+      "album": {
+        "name": "Diamonds On My Mind",
+        "url": "https://open.spotify.com/album/4igCnwKUaJNezJWHlWv8Bs"
+      },
+      "artists": [
+        {
+          "name": "Eli Brown",
+          "url": "https://open.spotify.com/artist/5lVNSw2GPci8kebrAQpZqU"
+        }
+      ],
+      "duration_ms": 168529,
+      "name": "Diamonds On My Mind",
+      "url": "https://open.spotify.com/track/5AWGyFvWNof3Knq7QrN3jD"
     },
     {
       "added_at": "2023-10-05 22:21:44",
@@ -887,42 +923,6 @@
     {
       "added_at": "2023-10-05 22:21:44",
       "album": {
-        "name": "Diamonds On My Mind",
-        "url": "https://open.spotify.com/album/4igCnwKUaJNezJWHlWv8Bs"
-      },
-      "artists": [
-        {
-          "name": "Eli Brown",
-          "url": "https://open.spotify.com/artist/5lVNSw2GPci8kebrAQpZqU"
-        }
-      ],
-      "duration_ms": 168529,
-      "name": "Diamonds On My Mind",
-      "url": "https://open.spotify.com/track/5AWGyFvWNof3Knq7QrN3jD"
-    },
-    {
-      "added_at": "2023-10-05 22:21:44",
-      "album": {
-        "name": "Milkshake 20 (Alex Wann Remix)",
-        "url": "https://open.spotify.com/album/4B5VkayNwax1Z2ZDThsNt9"
-      },
-      "artists": [
-        {
-          "name": "Kelis",
-          "url": "https://open.spotify.com/artist/0IF46mUS8NXjgHabxk2MCM"
-        },
-        {
-          "name": "Alex Wann",
-          "url": "https://open.spotify.com/artist/6PTNNcLg90Kkl89JcEwKhT"
-        }
-      ],
-      "duration_ms": 176949,
-      "name": "Milkshake 20 - Alex Wann Remix",
-      "url": "https://open.spotify.com/track/39jBAaaSlgM9UdZBSKDd6F"
-    },
-    {
-      "added_at": "2023-10-05 22:21:44",
-      "album": {
         "name": "ACID",
         "url": "https://open.spotify.com/album/7LAUJxkEQOBf6rbS0MXUi6"
       },
@@ -943,6 +943,38 @@
       "duration_ms": 181333,
       "name": "ACID",
       "url": "https://open.spotify.com/track/6JkQb1qCCJDBV7kW5vJUAH"
+    },
+    {
+      "added_at": "2023-10-05 22:21:44",
+      "album": {
+        "name": "Hesitate",
+        "url": "https://open.spotify.com/album/1NphNEK4Twi2yrGmLkjym8"
+      },
+      "artists": [
+        {
+          "name": "Picco",
+          "url": "https://open.spotify.com/artist/6i1CBwvebApraHKXUhMHQK"
+        }
+      ],
+      "duration_ms": 170155,
+      "name": "Hesitate",
+      "url": "https://open.spotify.com/track/522LFdtOuvHkNQeYJrAvIC"
+    },
+    {
+      "added_at": "2023-10-05 22:21:44",
+      "album": {
+        "name": "UNTZ UNTZ",
+        "url": "https://open.spotify.com/album/2bxfjX4QcWh4gGUQYdP0z9"
+      },
+      "artists": [
+        {
+          "name": "INJI",
+          "url": "https://open.spotify.com/artist/0Z4Ir8usNVcAdCSQl0fQki"
+        }
+      ],
+      "duration_ms": 146736,
+      "name": "UNTZ UNTZ",
+      "url": "https://open.spotify.com/track/1jYQsPvg6A3UTEaxDYffDv"
     },
     {
       "added_at": "2023-10-05 22:21:44",
@@ -979,22 +1011,6 @@
     {
       "added_at": "2023-10-05 22:21:44",
       "album": {
-        "name": "Hesitate",
-        "url": "https://open.spotify.com/album/1NphNEK4Twi2yrGmLkjym8"
-      },
-      "artists": [
-        {
-          "name": "Picco",
-          "url": "https://open.spotify.com/artist/6i1CBwvebApraHKXUhMHQK"
-        }
-      ],
-      "duration_ms": 170155,
-      "name": "Hesitate",
-      "url": "https://open.spotify.com/track/522LFdtOuvHkNQeYJrAvIC"
-    },
-    {
-      "added_at": "2023-10-05 22:21:44",
-      "album": {
         "name": "Yeah The Girls",
         "url": "https://open.spotify.com/album/6yxWTg8P4cAJ0gyPHUqPfv"
       },
@@ -1015,18 +1031,18 @@
     {
       "added_at": "2023-10-05 22:21:44",
       "album": {
-        "name": "UNTZ UNTZ",
-        "url": "https://open.spotify.com/album/2bxfjX4QcWh4gGUQYdP0z9"
+        "name": "Ritmo",
+        "url": "https://open.spotify.com/album/40DTjrBkgfSD4pb1CnlCgl"
       },
       "artists": [
         {
-          "name": "INJI",
-          "url": "https://open.spotify.com/artist/0Z4Ir8usNVcAdCSQl0fQki"
+          "name": "Raffa Fl",
+          "url": "https://open.spotify.com/artist/0j4dGWeyGGE4GvrAzdZIZ5"
         }
       ],
-      "duration_ms": 146736,
-      "name": "UNTZ UNTZ",
-      "url": "https://open.spotify.com/track/1jYQsPvg6A3UTEaxDYffDv"
+      "duration_ms": 183810,
+      "name": "Ritmo",
+      "url": "https://open.spotify.com/track/4FHXsehfIbyPCJLP7fCnIF"
     },
     {
       "added_at": "2023-10-05 22:21:44",
@@ -1111,18 +1127,18 @@
     {
       "added_at": "2023-10-05 22:21:44",
       "album": {
-        "name": "All Night Long",
-        "url": "https://open.spotify.com/album/6v4ZkEMI1Q20fX4Yrg7d2v"
+        "name": "Talamanca",
+        "url": "https://open.spotify.com/album/1N66eMzBBNRHa3HFE6GCsW"
       },
       "artists": [
         {
-          "name": "Chris Stussy",
-          "url": "https://open.spotify.com/artist/3BxjasMelf9pKaE4f7Y0So"
+          "name": "BURNS",
+          "url": "https://open.spotify.com/artist/5eKqhPrKad0J9xGAtq3rW7"
         }
       ],
-      "duration_ms": 234525,
-      "name": "All Night Long",
-      "url": "https://open.spotify.com/track/7b4twDZXjQf8gyQGSvySZd"
+      "duration_ms": 186727,
+      "name": "Talamanca",
+      "url": "https://open.spotify.com/track/7dDLAQ1y0qOq3E4DhNh8FS"
     },
     {
       "added_at": "2023-10-05 22:21:44",
@@ -1147,18 +1163,18 @@
     {
       "added_at": "2023-10-05 22:21:44",
       "album": {
-        "name": "Talamanca",
-        "url": "https://open.spotify.com/album/1N66eMzBBNRHa3HFE6GCsW"
+        "name": "All Night Long",
+        "url": "https://open.spotify.com/album/6v4ZkEMI1Q20fX4Yrg7d2v"
       },
       "artists": [
         {
-          "name": "BURNS",
-          "url": "https://open.spotify.com/artist/5eKqhPrKad0J9xGAtq3rW7"
+          "name": "Chris Stussy",
+          "url": "https://open.spotify.com/artist/3BxjasMelf9pKaE4f7Y0So"
         }
       ],
-      "duration_ms": 186727,
-      "name": "Talamanca",
-      "url": "https://open.spotify.com/track/7dDLAQ1y0qOq3E4DhNh8FS"
+      "duration_ms": 234525,
+      "name": "All Night Long",
+      "url": "https://open.spotify.com/track/7b4twDZXjQf8gyQGSvySZd"
     },
     {
       "added_at": "2023-10-05 22:21:44",
@@ -1183,30 +1199,6 @@
     {
       "added_at": "2023-10-05 22:21:44",
       "album": {
-        "name": "Under Pressure",
-        "url": "https://open.spotify.com/album/22RgvmuvHeXfiXozVioC2Q"
-      },
-      "artists": [
-        {
-          "name": "MEDUZA",
-          "url": "https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu"
-        },
-        {
-          "name": "Vintage Culture",
-          "url": "https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts"
-        },
-        {
-          "name": "Ben Samama",
-          "url": "https://open.spotify.com/artist/3MICPvsOVZdedC4KnDT0S4"
-        }
-      ],
-      "duration_ms": 195121,
-      "name": "Under Pressure",
-      "url": "https://open.spotify.com/track/7q887Wj7xbhsSKhHct5xKM"
-    },
-    {
-      "added_at": "2023-10-05 22:21:44",
-      "album": {
         "name": "One By One",
         "url": "https://open.spotify.com/album/58AR5fqutmWyadTfOYoYA5"
       },
@@ -1227,22 +1219,6 @@
     {
       "added_at": "2023-10-05 22:21:44",
       "album": {
-        "name": "Ritmo",
-        "url": "https://open.spotify.com/album/40DTjrBkgfSD4pb1CnlCgl"
-      },
-      "artists": [
-        {
-          "name": "Raffa Fl",
-          "url": "https://open.spotify.com/artist/0j4dGWeyGGE4GvrAzdZIZ5"
-        }
-      ],
-      "duration_ms": 183810,
-      "name": "Ritmo",
-      "url": "https://open.spotify.com/track/4FHXsehfIbyPCJLP7fCnIF"
-    },
-    {
-      "added_at": "2023-10-05 22:21:44",
-      "album": {
         "name": "Dip It Low",
         "url": "https://open.spotify.com/album/6NSuHHPPZZ8d4849ndMqIv"
       },
@@ -1259,6 +1235,30 @@
       "duration_ms": 135656,
       "name": "Dip It Low",
       "url": "https://open.spotify.com/track/1JM6JF5IUWmggaC1rYDAiH"
+    },
+    {
+      "added_at": "2023-10-05 22:21:44",
+      "album": {
+        "name": "Under Pressure",
+        "url": "https://open.spotify.com/album/22RgvmuvHeXfiXozVioC2Q"
+      },
+      "artists": [
+        {
+          "name": "MEDUZA",
+          "url": "https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu"
+        },
+        {
+          "name": "Vintage Culture",
+          "url": "https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts"
+        },
+        {
+          "name": "Ben Samama",
+          "url": "https://open.spotify.com/artist/3MICPvsOVZdedC4KnDT0S4"
+        }
+      ],
+      "duration_ms": 195121,
+      "name": "Under Pressure",
+      "url": "https://open.spotify.com/track/7q887Wj7xbhsSKhHct5xKM"
     },
     {
       "added_at": "2023-10-05 22:21:44",
@@ -1411,6 +1411,26 @@
     {
       "added_at": "2023-10-05 22:21:44",
       "album": {
+        "name": "Satisfaction",
+        "url": "https://open.spotify.com/album/62hlQlBO241sKpVTPgwAOi"
+      },
+      "artists": [
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        },
+        {
+          "name": "Benny Benassi",
+          "url": "https://open.spotify.com/artist/4Ws2otunReOa6BbwxxpCt6"
+        }
+      ],
+      "duration_ms": 155676,
+      "name": "Satisfaction",
+      "url": "https://open.spotify.com/track/6k5DKQMC96daK6fSvAxdQv"
+    },
+    {
+      "added_at": "2023-10-05 22:21:44",
+      "album": {
         "name": "Cocoon (Martin Garrix & Space Ducks Remix)",
         "url": "https://open.spotify.com/album/11X8fP4LGagH6xsQI2aqaY"
       },
@@ -1431,26 +1451,6 @@
       "duration_ms": 202204,
       "name": "Cocoon - Martin Garrix & Space Ducks Remix",
       "url": "https://open.spotify.com/track/6IqVq76K6UuJdYwZFgXosQ"
-    },
-    {
-      "added_at": "2023-10-05 22:21:44",
-      "album": {
-        "name": "Satisfaction",
-        "url": "https://open.spotify.com/album/62hlQlBO241sKpVTPgwAOi"
-      },
-      "artists": [
-        {
-          "name": "David Guetta",
-          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
-        },
-        {
-          "name": "Benny Benassi",
-          "url": "https://open.spotify.com/artist/4Ws2otunReOa6BbwxxpCt6"
-        }
-      ],
-      "duration_ms": 155676,
-      "name": "Satisfaction",
-      "url": "https://open.spotify.com/track/6k5DKQMC96daK6fSvAxdQv"
     },
     {
       "added_at": "2023-10-05 22:21:44",

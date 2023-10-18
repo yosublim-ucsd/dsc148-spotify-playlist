@@ -451,6 +451,28 @@
     },
     {
       "album": {
+        "name": "3D : The Remixes",
+        "url": "https://open.spotify.com/album/0fJ0beklzFwoBv01U8792s"
+      },
+      "artists": [
+        {
+          "name": "Jung Kook",
+          "url": "https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc"
+        },
+        {
+          "name": "Jack Harlow",
+          "url": "https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ"
+        }
+      ],
+      "date_added": "2023-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201812,
+      "name": "3D (feat. Jack Harlow)",
+      "url": "https://open.spotify.com/track/01qFKNWq73UfEslI0GvumE"
+    },
+    {
+      "album": {
         "name": "7 Liga\u00e7\u00f5es",
         "url": "https://open.spotify.com/album/0evvuV0Q3BZKfLNwxJIRTL"
       },
@@ -1116,7 +1138,7 @@
       ],
       "date_added": "2023-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-18",
       "duration_ms": 265360,
       "name": "Agora Hills",
       "url": "https://open.spotify.com/track/5PyDJG7SQRgWXefgexqIge"
@@ -3000,7 +3022,7 @@
       ],
       "date_added": "2023-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-18",
       "duration_ms": 126303,
       "name": "AUTOMOTIVO MORRO DO SAPO",
       "url": "https://open.spotify.com/track/150zX7fhfeBsCOuiSuvwMo"
@@ -3584,6 +3606,40 @@
       "duration_ms": 251259,
       "name": "Baile de Favela - Remix",
       "url": "https://open.spotify.com/track/70v2lrNsFa38VeEEWKCjLP"
+    },
+    {
+      "album": {
+        "name": "Baile do Bruxo",
+        "url": "https://open.spotify.com/album/4gTpoHQozYg3jI7KTbFsfx"
+      },
+      "artists": [
+        {
+          "name": "Tropa do Bruxo",
+          "url": "https://open.spotify.com/artist/4s3lxX76LwxzMdQEAFYdzv"
+        },
+        {
+          "name": "DJ Ws da Igrejinha",
+          "url": "https://open.spotify.com/artist/0NB5wv4kn6A919CLHUKRmk"
+        },
+        {
+          "name": "SMU",
+          "url": "https://open.spotify.com/artist/2qATSoNFfzMaTEZFfJpG4c"
+        },
+        {
+          "name": "Triz",
+          "url": "https://open.spotify.com/artist/4ACGdFl6mPI3lntaYef1gc"
+        },
+        {
+          "name": "Mc Menor Thalis",
+          "url": "https://open.spotify.com/artist/3qjoOrsHcxhgKyBsh4ZOEn"
+        }
+      ],
+      "date_added": "2023-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221538,
+      "name": "Baile do Bruxo",
+      "url": "https://open.spotify.com/track/00ZKeP47bZtswtANkvxz2j"
     },
     {
       "album": {
@@ -6183,6 +6239,40 @@
     },
     {
       "album": {
+        "name": "Ascens\u00e3o do Cisne Negro",
+        "url": "https://open.spotify.com/album/5F6uYU6Gf5sFNDLEd17dpZ"
+      },
+      "artists": [
+        {
+          "name": "Rock Danger",
+          "url": "https://open.spotify.com/artist/1mjuRRMumbLmGmHmYvMDcb"
+        },
+        {
+          "name": "Major RD",
+          "url": "https://open.spotify.com/artist/76hYPcWML9NGEh8LashwT5"
+        },
+        {
+          "name": "Xam\u00e3",
+          "url": "https://open.spotify.com/artist/5YwzDz4RJfTiMHS4tdR5Lf"
+        },
+        {
+          "name": "Froid",
+          "url": "https://open.spotify.com/artist/45Yz90pqjzEdJzpEQg1eII"
+        },
+        {
+          "name": "Cynthia Luz",
+          "url": "https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu"
+        }
+      ],
+      "date_added": "2023-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193322,
+      "name": "Camisa P",
+      "url": "https://open.spotify.com/track/0DPjN6E1YtYIH42IPomCNM"
+    },
+    {
+      "album": {
         "name": "Esc\u00e2ndalo \u00cdntimo",
         "url": "https://open.spotify.com/album/5MGR1iBTBfsb28mHFSM5KV"
       },
@@ -6328,7 +6418,7 @@
       ],
       "date_added": "2023-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-18",
       "duration_ms": 124511,
       "name": "Canudinho - Ao Vivo",
       "url": "https://open.spotify.com/track/6AENBD8I0mDGglFqrRZGu7"
@@ -22180,7 +22270,7 @@
       ],
       "date_added": "2023-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-18",
       "duration_ms": 190293,
       "name": "MULHER SEGURA - Ao Vivo",
       "url": "https://open.spotify.com/track/0KhLYwYVhi13hMhxX73m55"
@@ -37458,6 +37548,24 @@
       "duration_ms": 174840,
       "name": "ZOOM",
       "url": "https://open.spotify.com/track/4IaxDf2FixiQXq0mW7key9"
+    },
+    {
+      "album": {
+        "name": "Vol.3",
+        "url": "https://open.spotify.com/album/2VruOJc7GNDH3k4FhCy5Fx"
+      },
+      "artists": [
+        {
+          "name": "Banda Encantu's",
+          "url": "https://open.spotify.com/artist/1f1sZAhZSx4WDTruYgzyJU"
+        }
+      ],
+      "date_added": "2023-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214243,
+      "name": "\u00c8 s\u00e9rio",
+      "url": "https://open.spotify.com/track/2zruWeqPLaeb9RFBHvFH3F"
     },
     {
       "album": {

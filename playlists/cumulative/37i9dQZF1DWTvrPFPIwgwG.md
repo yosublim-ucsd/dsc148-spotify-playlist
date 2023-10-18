@@ -4,7 +4,7 @@
 
 > Ouça as novidades e grandes louvores Pentecostais\. Foto: Eurice Diniz
 
-188 songs - 15 hr 54 min
+189 songs - 16 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -62,7 +62,8 @@
 | [Espírito Santo](https://open.spotify.com/track/35aohQYftq3TH3ogAZu8hw) | [Canção & Louvor](https://open.spotify.com/artist/5Oj5puFnNDLbUqyWtq5jJu) | [Espírito Santo](https://open.spotify.com/album/3ez7jPJBZfCvhUY1ULAnmB) | 4:47 | 2023-04-21 |  |
 | [Estou de Pé](https://open.spotify.com/track/74n8diqoZCaOrE4cPjH7bv) | [Virginia Arruda](https://open.spotify.com/artist/5RUMApncGMcAxDhgg7akQa), [Wilian Nascimento](https://open.spotify.com/artist/4PjjeofQKolTepWdilslSR) | [Estou de Pé](https://open.spotify.com/album/5zjKOh7uyhzm5KmWIwoFFK) | 3:59 | 2023-05-05 | 2023-05-13 |
 | [Estratégia](https://open.spotify.com/track/25JkALxjdPgDSpb9onSbao) | [Valesca Mayssa](https://open.spotify.com/artist/4K4fsuNkaAwysF3AxRPLNh) | [Estratégia](https://open.spotify.com/album/0AgmbghBFTxFKMmJcQohqr) | 6:04 | 2023-02-10 | 2023-03-04 |
-| [Está Tudo Bem](https://open.spotify.com/track/4Ey5FMSIs45TMBtW83U4DF) | [Kellen Byanca](https://open.spotify.com/artist/0aCN6JIKoXyhkzyL3LaCpI) | [Está Tudo Bem](https://open.spotify.com/album/7uIOAgQhpckyMK79LJGf9d) | 5:52 | 2022-09-09 |  |
+| [Está Tudo Bem](https://open.spotify.com/track/4Ey5FMSIs45TMBtW83U4DF) | [Kellen Byanca](https://open.spotify.com/artist/0aCN6JIKoXyhkzyL3LaCpI) | [Está Tudo Bem](https://open.spotify.com/album/7uIOAgQhpckyMK79LJGf9d) | 5:52 | 2022-09-09 | 2023-10-18 |
+| [Está Tudo Bem](https://open.spotify.com/track/27aah6LyyKTSI4Kpq51Jhf) | [Kellen Byanca](https://open.spotify.com/artist/0aCN6JIKoXyhkzyL3LaCpI), [Todah Music](https://open.spotify.com/artist/1A5kGvmKIVtX7NhcbtTZJY) | [Está Tudo Bem](https://open.spotify.com/album/1vP6Rril4XZA72ehbnFWZs) | 5:52 | 2023-10-13 |  |
 | [Eu Cheguei](https://open.spotify.com/track/2gKqsfw4nveTulCldaIcVZ) | [Eula Cris](https://open.spotify.com/artist/0XQgPT3Tn4phmgHSL7iwGt) | [Eu Cheguei](https://open.spotify.com/album/1hDhqOXfARkJ2v0ExAlgMW) | 3:56 | 2023-01-13 | 2023-02-11 |
 | [Eu Cuido de Tudo \- Ao vivo](https://open.spotify.com/track/14vIKDQWvBxxvHBo2FQ4O4) | [Sued Silva](https://open.spotify.com/artist/4EaUmdr2olpJ9n2OARYRJ2) | [Eu Cuido de Tudo](https://open.spotify.com/album/1HyBw2GRBlwaudGwFODrpJ) | 7:27 | 2022-09-09 |  |
 | [Eu Não Desisto](https://open.spotify.com/track/5uGArnuiyPbbMZXO3scXMM) | [Jessé Aguiar](https://open.spotify.com/artist/0g4xsygciHCrujQzdXUudC) | [Eu Não Desisto](https://open.spotify.com/album/6D3eEwIDgbIgoqJsBauwRq) | 4:30 | 2022-09-09 |  |

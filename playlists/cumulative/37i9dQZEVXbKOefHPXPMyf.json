@@ -249,6 +249,28 @@
     },
     {
       "album": {
+        "name": "3D : The Remixes",
+        "url": "https://open.spotify.com/album/0fJ0beklzFwoBv01U8792s"
+      },
+      "artists": [
+        {
+          "name": "Jung Kook",
+          "url": "https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc"
+        },
+        {
+          "name": "Jack Harlow",
+          "url": "https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ"
+        }
+      ],
+      "date_added": "2023-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201812,
+      "name": "3D (feat. Jack Harlow)",
+      "url": "https://open.spotify.com/track/01qFKNWq73UfEslI0GvumE"
+    },
+    {
+      "album": {
         "name": "KAYTRAMIN\u00c9",
         "url": "https://open.spotify.com/album/1plAqF2W8hwAhcpBAfGNsW"
       },
@@ -4105,6 +4127,24 @@
     },
     {
       "album": {
+        "name": "Brillan",
+        "url": "https://open.spotify.com/album/6zMKSeKh95EJXEu711CS3W"
+      },
+      "artists": [
+        {
+          "name": "Hades66",
+          "url": "https://open.spotify.com/artist/4CQdcx66F116k2db2Y0rjE"
+        }
+      ],
+      "date_added": "2023-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120000,
+      "name": "Brillan",
+      "url": "https://open.spotify.com/track/5fu9rbNq6GRsQcj4tWIoe2"
+    },
+    {
+      "album": {
         "name": "Nena Trampa (Deluxe Edition)",
         "url": "https://open.spotify.com/album/7ntr88BWCrwZGySZQlHgBM"
       },
@@ -4168,7 +4208,7 @@
       ],
       "date_added": "2023-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-18",
       "duration_ms": 228186,
       "name": "BUBALU",
       "url": "https://open.spotify.com/track/62xla8336vUnmxTWNzCfRt"
@@ -4526,6 +4566,24 @@
       "duration_ms": 192500,
       "name": "Cacique",
       "url": "https://open.spotify.com/track/2gjUoS13zCCQPuI8PzBZJq"
+    },
+    {
+      "album": {
+        "name": "Cactus",
+        "url": "https://open.spotify.com/album/5kL1tVuZuSNtfn9v4ZAdyY"
+      },
+      "artists": [
+        {
+          "name": "Nasa Histoires",
+          "url": "https://open.spotify.com/artist/2nAAvoxXJdXRyKH2srQ3qu"
+        }
+      ],
+      "date_added": "2023-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212430,
+      "name": "Cactus",
+      "url": "https://open.spotify.com/track/2UWoUC9m7nmewGGKujsJOs"
     },
     {
       "album": {
@@ -5526,7 +5584,7 @@
       ],
       "date_added": "2023-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-18",
       "duration_ms": 219333,
       "name": "Chulo pt.2",
       "url": "https://open.spotify.com/track/0J9g1MMJDhyvOb3NWckHMm"
@@ -6276,6 +6334,24 @@
       "duration_ms": 160535,
       "name": "CORAZ\u00d3N VAC\u00cdO",
       "url": "https://open.spotify.com/track/3oNnzH6hmqIGIhJ1NcHlrh"
+    },
+    {
+      "album": {
+        "name": "COSAS QUE NO TE DIJE",
+        "url": "https://open.spotify.com/album/52te2AyrVAYPc04onR1Lfy"
+      },
+      "artists": [
+        {
+          "name": "Saiko",
+          "url": "https://open.spotify.com/artist/2O8vbr4RYPpk6MRA4fio7u"
+        }
+      ],
+      "date_added": "2023-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224725,
+      "name": "COSAS QUE NO TE DIJE",
+      "url": "https://open.spotify.com/track/5xSt1wxZobFcLzHrFakv6z"
     },
     {
       "album": {
@@ -10128,6 +10204,24 @@
       "duration_ms": 216094,
       "name": "Family Line",
       "url": "https://open.spotify.com/track/0iNZGC211wst3VjtobNnC5"
+    },
+    {
+      "album": {
+        "name": "SET IT OFF",
+        "url": "https://open.spotify.com/album/1D1hLipjrdB6pnxurMtC3E"
+      },
+      "artists": [
+        {
+          "name": "Offset",
+          "url": "https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW"
+        }
+      ],
+      "date_added": "2023-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156306,
+      "name": "FAN",
+      "url": "https://open.spotify.com/track/41JN30LlL093JqC2YUJ0IW"
     },
     {
       "album": {
@@ -15046,7 +15140,7 @@
       ],
       "date_added": "2023-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-18",
       "duration_ms": 156345,
       "name": "La V\u00edctima",
       "url": "https://open.spotify.com/track/5XVdHRf4CAJ2Jm0uMIy5qY"
@@ -15378,7 +15472,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-18",
       "duration_ms": 134853,
       "name": "Le Monde - From Talk to Me",
       "url": "https://open.spotify.com/track/4mOMTUl8XiaqILHwh8zm4H"
@@ -16208,6 +16302,24 @@
       "duration_ms": 154516,
       "name": "love is embarrassing",
       "url": "https://open.spotify.com/track/26QLJMK8G0M06sk7h7Fkse"
+    },
+    {
+      "album": {
+        "name": "Colmillo De Leche Live Sessions (En Vivo)",
+        "url": "https://open.spotify.com/album/4lAoWJAGBqKpgCBMGGVTWz"
+      },
+      "artists": [
+        {
+          "name": "Carin Leon",
+          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+        }
+      ],
+      "date_added": "2023-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218357,
+      "name": "Love Like This - En Vivo",
+      "url": "https://open.spotify.com/track/3tVSavUm2ytulh0CWlknlH"
     },
     {
       "album": {
@@ -20718,7 +20830,7 @@
       ],
       "date_added": "2023-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-18",
       "duration_ms": 137778,
       "name": "older",
       "url": "https://open.spotify.com/track/75c2zaSdDBSX0A8Jyvm4fO"
@@ -20888,7 +21000,7 @@
       ],
       "date_added": "2023-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-18",
       "duration_ms": 208114,
       "name": "ONE MORE TIME",
       "url": "https://open.spotify.com/track/5VEnzMXc8ocZko4M4TqnR2"
@@ -22629,6 +22741,32 @@
     },
     {
       "album": {
+        "name": "ESQUINAS",
+        "url": "https://open.spotify.com/album/34Kj1LPZ7xhlskIb9qD6D6"
+      },
+      "artists": [
+        {
+          "name": "Becky G",
+          "url": "https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3"
+        },
+        {
+          "name": "\u00c1ngela Aguilar",
+          "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
+        },
+        {
+          "name": "Leonardo Aguilar",
+          "url": "https://open.spotify.com/artist/1QgrwYywvDuC43MDtR8cqq"
+        }
+      ],
+      "date_added": "2023-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185207,
+      "name": "POR EL CONTRARIO (with Angela Aguilar & Leonardo Aguilar)",
+      "url": "https://open.spotify.com/track/6VsqdsaY4oV06NODea0L0J"
+    },
+    {
+      "album": {
         "name": "Por el Resto de Tu Vida",
         "url": "https://open.spotify.com/album/3S6ouKQPLDuO7Nxli1F2Lm"
       },
@@ -22680,7 +22818,7 @@
       ],
       "date_added": "2023-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-18",
       "duration_ms": 166285,
       "name": "Por si quieres volver",
       "url": "https://open.spotify.com/track/0Y66CEujNdMDXKPAxuHK0s"
@@ -23412,7 +23550,7 @@
       ],
       "date_added": "2023-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-18",
       "duration_ms": 240047,
       "name": "Querer Querernos",
       "url": "https://open.spotify.com/track/6d3q0F9VNtdxQUTVlRcet6"
@@ -30168,6 +30306,24 @@
       "duration_ms": 162500,
       "name": "Un Finde | CROSSOVER #2",
       "url": "https://open.spotify.com/track/3tiJUOfAEqIrLFRQgGgdoY"
+    },
+    {
+      "album": {
+        "name": "nadie sabe lo que va a pasar ma\u00f1ana",
+        "url": "https://open.spotify.com/album/4FftCsAcXXD1nFO9RFUNFO"
+      },
+      "artists": [
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        }
+      ],
+      "date_added": "2023-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165582,
+      "name": "UN PREVIEW",
+      "url": "https://open.spotify.com/track/5ixdmTpCmH5diBA1j154wN"
     },
     {
       "album": {

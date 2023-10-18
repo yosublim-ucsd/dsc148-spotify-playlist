@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVYs6zNzJ0ci.md) - [plain]
 
 > Vibraciones rastafari en español\. Foto: Rawayana
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,240,983 likes - 100 songs - 6 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,241,048 likes - 100 songs - 6 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVYs6zNzJ0ci.md) - [plain]
 | 99 | [Entre Sombras](https://open.spotify.com/track/18XRuFvjFZYWMqDt4NHuvZ) | [Fyahbwoy](https://open.spotify.com/artist/6uFTGm4t8Z6tXyCm22sLQM), [Killah Man](https://open.spotify.com/artist/4P2v08fHwV1eqMrDsBOw0W) | [Entre Sombras](https://open.spotify.com/album/0CQdBhtZ3tgxueUZRTn8qD) | 3:18 |
 | 100 | [Besos Para Ti](https://open.spotify.com/track/0AM2PfqCT9Qj7B47Zld57W) | [Los Afro Brothers](https://open.spotify.com/artist/7asyO9hw31DnRSekSfu9Bq) | [Dejando Huella](https://open.spotify.com/album/7EqfRs662QaBqWfpqYiWYa) | 3:03 |
 
-Snapshot ID: `MCw0NDVhYmVkZjY0NWEyMTg5Mjc0ZTBkMzVjYmQ0MmE4NmRjZjE1MjZi`
+Snapshot ID: `MCw0NTY3OTNhOGM1YTE4MzE5ZDQ4NDkxYmRkNWQzNmRlYzI1NjQ2MzVl`

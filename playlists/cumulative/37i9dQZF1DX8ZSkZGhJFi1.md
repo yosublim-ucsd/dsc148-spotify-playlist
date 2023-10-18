@@ -4,13 +4,14 @@
 
 > Beats instrumentais para te ajudar a focar mantendo o ânimo.
 
-619 songs - 1 day 1 hr 13 min
+620 songs - 1 day 1 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [!Sunshine!](https://open.spotify.com/track/5v4j4LiqW49SnYAwnJugw5) | [Camden Clown](https://open.spotify.com/artist/56yn1U5TaMjH6ENhDdlWfM) | [Seven Hours](https://open.spotify.com/album/35tjstca6Mawcst5DoeXMN) | 3:03 | 2023-09-08 |  |
 | [1 Step Ahead](https://open.spotify.com/track/0UkpfwUKYe6uzYxhH3KnIB) | [Oyh!](https://open.spotify.com/artist/3md8n0ymZHbXmwbLocvzuJ) | [1 Step Ahead](https://open.spotify.com/album/2dP3R7ovDc4shHmI4ALjiR) | 2:00 | 2023-09-08 |  |
 | [2](https://open.spotify.com/track/6NSnzxpvIvORdC3EsTIdd2) | [squeezy X](https://open.spotify.com/artist/6H015tYdaj2rRNR9YOX5b9) | [Aphro Deezy](https://open.spotify.com/album/6ODZgjrMDeXErOdsmhgYPG) | 3:14 | 2022-02-17 | 2023-09-09 |
+| [4you to just love](https://open.spotify.com/track/2u7BaomZDkHMx1xfth3d5s) | [The Easy Breeze](https://open.spotify.com/artist/5MpwtWtFfapulpKEjAeU81) | [4you to just love](https://open.spotify.com/album/7yMLFLuzDknKgARBtrIQqq) | 2:34 | 2023-10-13 |  |
 | [8th grade high](https://open.spotify.com/track/7bnOjrsU23UQk9lof4OLTg) | [junyii.](https://open.spotify.com/artist/5V9nIniPnGHfOIEQrPiAre), [Chill Children](https://open.spotify.com/artist/1HIUSy6Z18XvHfvsGPSWYx) | [8th grade high](https://open.spotify.com/album/7v0ygWKnudUMhHGa0kcnm3) | 1:32 | 2023-09-08 |  |
 | [A Few Days Ahead](https://open.spotify.com/track/29Piig79HQpigQuUtxshPv) | [uniqlesse](https://open.spotify.com/artist/4EQ0a6RygiHzb95fmQYc72) | [A Few Days Ahead](https://open.spotify.com/album/5mtJbn2mK0qS0iInJ9tmIt) | 2:22 | 2023-09-08 |  |
 | [A Lot Of Noise For Nothing](https://open.spotify.com/track/3Vj6A1u4JYh5aVNYFJOFPZ) | [NxxxxxS](https://open.spotify.com/artist/36r4ltZmLqtiDBdAs9XSqn) | [A Lot Of Noise For Nothing](https://open.spotify.com/album/1lEegQJdCxDf3Cq3e49jsh) | 2:00 | 2022-02-17 | 2023-09-09 |
@@ -259,7 +260,7 @@
 | [Justified](https://open.spotify.com/track/5B3o3dGWUneZVJovkXP6Gd) | [Sonny TK](https://open.spotify.com/artist/3PQjywXKA1AkREjMitjvLN) | [Justified](https://open.spotify.com/album/1IsoRdugxMdtAHVvM1Ytxn) | 3:04 | 2022-02-17 | 2023-09-09 |
 | [Keen](https://open.spotify.com/track/51Ie5gtGGban5Lff22PCzX) | [Gas Lab](https://open.spotify.com/artist/2oJeeqyPBtkQJgsZgjFboN) | [Jazz Cats](https://open.spotify.com/album/2GgAaiOoYwlpXsEnCLzaNv) | 2:56 | 2023-09-08 |  |
 | [Kefee](https://open.spotify.com/track/3u2oG4972XhEOlperXGRH3) | [Mindeliq](https://open.spotify.com/artist/33FKoUeAEFuzVHGBd9IhcL) | [Kefee](https://open.spotify.com/album/51yJIB1fdoRc67Y1kDIAYO) | 2:48 | 2023-09-08 |  |
-| [Kickflip](https://open.spotify.com/track/30Viqy8zblL4VuZLSFaEGL) | [SPEECHLESS](https://open.spotify.com/artist/0RUwm9ukhlW1oXDzXxj3C0) | [Kickflip](https://open.spotify.com/album/7lD2UGzFinJkFF7IpS3Vjl) | 1:50 | 2023-09-08 |  |
+| [Kickflip](https://open.spotify.com/track/30Viqy8zblL4VuZLSFaEGL) | [SPEECHLESS](https://open.spotify.com/artist/0RUwm9ukhlW1oXDzXxj3C0) | [Kickflip](https://open.spotify.com/album/7lD2UGzFinJkFF7IpS3Vjl) | 1:50 | 2023-09-08 | 2023-10-18 |
 | [Knox U](https://open.spotify.com/track/4STt3ABfGPhaT0OhKRKanc) | [Dip Lewis](https://open.spotify.com/artist/1WJVNwZkJiTU9YRr6vEGx0) | [Knox U](https://open.spotify.com/album/2OIOLhlLiMhZM0YHnTfTpy) | 2:40 | 2023-09-08 |  |
 | [KOI FISH](https://open.spotify.com/track/5X4Wk6FiOu74JG3PNxX3LB) | [Boba Ti](https://open.spotify.com/artist/6K8Fm7RrcIfdnemnDklnD7) | [KOI FISH](https://open.spotify.com/album/3sgn6a1a43LZzkznOWo5Lt) | 2:08 | 2023-09-08 | 2023-10-15 |
 | [Kopo](https://open.spotify.com/track/5OleafVdjWJZXpgH0xogCQ) | [ShoPaRo](https://open.spotify.com/artist/2GkroNSOCAW3rYkMfZyfdn), [Karma Kush](https://open.spotify.com/artist/46c7S778Q0SzgxgdPQriL0), [Meraki99](https://open.spotify.com/artist/1Ahnk99UWwxfK79NVSjcnI) | [Kopo](https://open.spotify.com/album/6FL1U7mZv2170IdhZuXduy) | 1:53 | 2023-09-08 | 2023-09-23 |
@@ -279,7 +280,7 @@
 | [less\-than\-flattering](https://open.spotify.com/track/7ay42oCBar4ZtjwlvqyKyt) | [Slow Bounce](https://open.spotify.com/artist/6M8SiopuBvx9go6myWNjfS) | [less\-than\-flattering](https://open.spotify.com/album/1ETVGZXDwls6QNfhhil7aj) | 2:07 | 2023-10-13 |  |
 | [Let It Love](https://open.spotify.com/track/4PThACYdVkpvTevBsLQh4X) | [KOHEI YOSHII](https://open.spotify.com/artist/3uO4RRkSXyaak1AaakNvsG), [Japanolofi Records](https://open.spotify.com/artist/3hpBOomrnPaXG3xfma7CUM) | [Let It Love](https://open.spotify.com/album/7uFQKLLBDOj3C4SzaDZJMt) | 2:24 | 2023-09-08 |  |
 | [Lets meet soon](https://open.spotify.com/track/29rrd6Sg1lAmLzflVCrejq) | [RINZ.](https://open.spotify.com/artist/1qc48l4N7tBU8sMOuIAa82), [Early Garden](https://open.spotify.com/artist/6UFQmSPDWaWReDLcCrPyNL) | [Lets meet soon](https://open.spotify.com/album/0NTIuafaplcYS4BsuTXSFs) | 2:12 | 2023-09-08 |  |
-| [Let’s Talk](https://open.spotify.com/track/3PDYzBV9MDoceVJT05doMe) | [Matt Large](https://open.spotify.com/artist/107WzwlsOTR6Nxnw2kPHd3) | [Jackson Heights](https://open.spotify.com/album/0jwgd46SErxE9SXsRWzpf6) | 3:25 | 2023-09-22 | 2023-10-16 |
+| [Let’s Talk](https://open.spotify.com/track/3PDYzBV9MDoceVJT05doMe) | [Matt Large](https://open.spotify.com/artist/107WzwlsOTR6Nxnw2kPHd3) | [Jackson Heights](https://open.spotify.com/album/0jwgd46SErxE9SXsRWzpf6) | 3:25 | 2023-09-22 |  |
 | [Life on Hold](https://open.spotify.com/track/5BLgn3YW4egzpgV1q5oPTP) | [Lo\-Fi Eamonn](https://open.spotify.com/artist/2mh6iITVGFPDa7NxvcDzxy) | [Life on Hold](https://open.spotify.com/album/49uY4hBP3tRDggvjz8RiYp) | 2:20 | 2022-06-24 | 2023-09-09 |
 | [life on hold](https://open.spotify.com/track/5maOt1lIkCrS5r2DB2nfyr) | [Lo\-Fi Eamonn](https://open.spotify.com/artist/2mh6iITVGFPDa7NxvcDzxy) | [life on hold](https://open.spotify.com/album/7u7z7WwHVTeY19UMQQCFhb) | 2:20 | 2022-02-17 | 2022-07-29 |
 | [Light Colors](https://open.spotify.com/track/57icLTnAu0LHPOsdmfOhjF) | [IntoVerted](https://open.spotify.com/artist/7KPMTEva2Ul6kWl0ddz7kT) | [Light Colors](https://open.spotify.com/album/5myEgExIXQPG6fKTGbd0On) | 2:48 | 2022-02-17 | 2023-09-09 |
@@ -487,7 +488,7 @@
 | [Sounds From The Park](https://open.spotify.com/track/55uqa2dZDFoy45LNi2c0Da) | [Byz Playground](https://open.spotify.com/artist/0BMwJwRVDIJwATictkQzky) | [Sounds From The Park](https://open.spotify.com/album/1hZjugixYJQrlemnJEwnLE) | 1:54 | 2023-09-08 |  |
 | [Soundtrack the World!](https://open.spotify.com/track/2ORTnfqcHyGGzlZ14wpqrT) | [DJ DENZ The Rooster](https://open.spotify.com/artist/05OAH9fFWOKINDaeJ9N3Pd) | [New Elevations](https://open.spotify.com/album/4q0Mu1FbIzqKqqgPBuAnWa) | 3:16 | 2022-02-17 | 2023-09-09 |
 | [Space Ride](https://open.spotify.com/track/0nvoFTmrfqVMjlTvhx1Sl5) | [Sless Praismo](https://open.spotify.com/artist/2T7UwxWIrk7NjU3BDRjtrt), [Frogman](https://open.spotify.com/artist/6yctnLGapq1IRKYFxvXHbI) | [Space Ride](https://open.spotify.com/album/1Vj9dgQZ3GUR1ju2D7jBeC) | 2:42 | 2023-09-08 |  |
-| [Space Whale](https://open.spotify.com/track/5EIM4pAvU17vH3hs00Q5Z2) | [MyceliumBug](https://open.spotify.com/artist/4Ck1JIZA91251fV2hyHGHK), [aitlofi](https://open.spotify.com/artist/2LhvxbUfc5pT3NRKkO3UMH) | [Space Whale](https://open.spotify.com/album/0UaSTg34G9s1EaNED2VDXc) | 2:03 | 2023-09-08 |  |
+| [Space Whale](https://open.spotify.com/track/5EIM4pAvU17vH3hs00Q5Z2) | [MyceliumBug](https://open.spotify.com/artist/4Ck1JIZA91251fV2hyHGHK), [aitlofi](https://open.spotify.com/artist/2LhvxbUfc5pT3NRKkO3UMH) | [Space Whale](https://open.spotify.com/album/0UaSTg34G9s1EaNED2VDXc) | 2:03 | 2023-09-08 | 2023-10-18 |
 | [Sparkling](https://open.spotify.com/track/2G9BBEiDmuFfd2TTFootms) | [Jam'addict](https://open.spotify.com/artist/0VzXnkUTwKDYznbgEvn3Ca) | [Sparkling](https://open.spotify.com/album/4BeEaHo85oLeYjUPTnEHSA) | 2:17 | 2023-09-08 |  |
 | [Spiderweb](https://open.spotify.com/track/7rQvmg0QWCtF8FHEsS9WTV) | [Ballpoint](https://open.spotify.com/artist/5vbgY6zVUKz1haJv618QvC) | [Spiderweb](https://open.spotify.com/album/4Y1pdVWhJp634aCRW9nG7i) | 2:18 | 2022-02-17 | 2023-09-09 |
 | [Spin Free](https://open.spotify.com/track/3XfWLX7rsb5AptnfdY63iv) | [Duos On Mars](https://open.spotify.com/artist/22xfcNHhnZQfa6BWd209Az) | [Spin Free](https://open.spotify.com/album/3mgmSjsfe7MZcPSAlG6PuH) | 2:20 | 2023-09-08 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8HxJlVUR3HN.md) - [plain]
 
 > Les meilleures nouveautés de la scène rock française\. Photo : Droïd Fantôm
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,023 likes - 50 songs - 3 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,034 likes - 50 songs - 3 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8HxJlVUR3HN.md) - [plain]
 | 49 | [SOLO](https://open.spotify.com/track/6Qq8s0eASiHcvgbzsMTTo6) | [Sunborn](https://open.spotify.com/artist/39bLxLnMXWV7LMinf717gS) | [SOLO](https://open.spotify.com/album/0HboLHFNlLE9YKjvaKzDQQ) | 3:41 |
 | 50 | [Moonbow](https://open.spotify.com/track/6y3PeSuZqsfk30d7Pbs8dv) | [Stinky](https://open.spotify.com/artist/1k3zNkpgeygyoc27mNoAsp) | [Moonbow](https://open.spotify.com/album/0zBYVaDpGfIbIxPNs46WIH) | 4:01 |
 
-Snapshot ID: `MCw5YjZiMDc0MWZmNDJmOGQ1NzcwMmUzNjc3N2Y0OGVkZDA5ZGMyMTIz`
+Snapshot ID: `MCw5ZjgxYjU0NzU3M2EwYjUxNmE0NThjYmFhMjU4MTgwZjNkZjIzNDg1`

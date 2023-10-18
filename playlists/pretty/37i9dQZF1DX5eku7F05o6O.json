@@ -1,12 +1,12 @@
 {
   "description": "Le plus beau, le plus triste. Photo: Alexandra Streliski",
-  "num_followers": 3665,
+  "num_followers": 3664,
   "original_name": "Tout doux",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlNTNmYTIwZjBmODc3NGFkNjg2NDhmNjU3Nzk1NWY4NTIzZDU2YzY2",
+  "snapshot_id": "MCwzODY5YjM3N2Q0ODc2YzZhYmFjNDIwYTU3MmZlYWI3OWU5ZjY5Yzky",
   "tracks": [
     {
       "added_at": "2021-02-06 03:12:40",
@@ -519,22 +519,6 @@
     {
       "added_at": "2021-02-06 03:12:40",
       "album": {
-        "name": "Astronomie",
-        "url": "https://open.spotify.com/album/2BqchQyOThcNvM6Sx1lvnc"
-      },
-      "artists": [
-        {
-          "name": "Avec pas d'casque",
-          "url": "https://open.spotify.com/artist/2B8PoAfMwmcONoQTgiLzgn"
-        }
-      ],
-      "duration_ms": 249346,
-      "name": "Intuition #1",
-      "url": "https://open.spotify.com/track/7k6npoTeYlr65vcgjCo7XV"
-    },
-    {
-      "added_at": "2021-02-06 03:12:40",
-      "album": {
         "name": "4488 de l'amour",
         "url": "https://open.spotify.com/album/159Jn9npXR9HeDl0WoWVTa"
       },
@@ -547,6 +531,22 @@
       "duration_ms": 165693,
       "name": "Pri\u00e8re",
       "url": "https://open.spotify.com/track/2SrsbMuDf8ruS3r0DZT0mk"
+    },
+    {
+      "added_at": "2021-02-06 03:12:40",
+      "album": {
+        "name": "Astronomie",
+        "url": "https://open.spotify.com/album/2BqchQyOThcNvM6Sx1lvnc"
+      },
+      "artists": [
+        {
+          "name": "Avec pas d'casque",
+          "url": "https://open.spotify.com/artist/2B8PoAfMwmcONoQTgiLzgn"
+        }
+      ],
+      "duration_ms": 249346,
+      "name": "Intuition #1",
+      "url": "https://open.spotify.com/track/7k6npoTeYlr65vcgjCo7XV"
     },
     {
       "added_at": "2021-02-06 03:12:40",
@@ -815,6 +815,22 @@
     {
       "added_at": "2021-02-06 03:12:40",
       "album": {
+        "name": "Dire combien je t'aime",
+        "url": "https://open.spotify.com/album/1LMHYa88eFjdK4s9aYvUFf"
+      },
+      "artists": [
+        {
+          "name": "Luce Dufault",
+          "url": "https://open.spotify.com/artist/5FXcHIUubTQhOvzOFT8k7v"
+        }
+      ],
+      "duration_ms": 247692,
+      "name": "Le c\u0153ur de l'oc\u00e9an",
+      "url": "https://open.spotify.com/track/5tKlcROrtIMfKul9x4Uxzd"
+    },
+    {
+      "added_at": "2021-02-06 03:12:40",
+      "album": {
         "name": "Elles",
         "url": "https://open.spotify.com/album/0KNqhfKtNUKjQFiZFKR0Fp"
       },
@@ -831,22 +847,6 @@
       "duration_ms": 253124,
       "name": "Elles",
       "url": "https://open.spotify.com/track/2f1aeMuXIJDlI4YbaihQ4e"
-    },
-    {
-      "added_at": "2021-02-06 03:12:40",
-      "album": {
-        "name": "Dire combien je t'aime",
-        "url": "https://open.spotify.com/album/1LMHYa88eFjdK4s9aYvUFf"
-      },
-      "artists": [
-        {
-          "name": "Luce Dufault",
-          "url": "https://open.spotify.com/artist/5FXcHIUubTQhOvzOFT8k7v"
-        }
-      ],
-      "duration_ms": 247692,
-      "name": "Le c\u0153ur de l'oc\u00e9an",
-      "url": "https://open.spotify.com/track/5tKlcROrtIMfKul9x4Uxzd"
     },
     {
       "added_at": "2021-02-06 03:12:40",
@@ -995,22 +995,6 @@
     {
       "added_at": "2021-02-06 03:12:40",
       "album": {
-        "name": "Sentiments humains",
-        "url": "https://open.spotify.com/album/6iExYO8AbDltsJz1Tre3qS"
-      },
-      "artists": [
-        {
-          "name": "Pierre Lapointe",
-          "url": "https://open.spotify.com/artist/6zmMGBnFE2DCkAxaCVULRP"
-        }
-      ],
-      "duration_ms": 237200,
-      "name": "Nous restions l\u00e0",
-      "url": "https://open.spotify.com/track/24PaQVwM1wwWuyoKLDTrXg"
-    },
-    {
-      "added_at": "2021-02-06 03:12:40",
-      "album": {
         "name": "And The Boys",
         "url": "https://open.spotify.com/album/29j3QuJ0u2TAflB5oOzRCu"
       },
@@ -1023,6 +1007,22 @@
       "duration_ms": 250240,
       "name": "And The Boys - French Version",
       "url": "https://open.spotify.com/track/4EYhacL135vKV7bujL7pRs"
+    },
+    {
+      "added_at": "2021-02-06 03:12:40",
+      "album": {
+        "name": "Sentiments humains",
+        "url": "https://open.spotify.com/album/6iExYO8AbDltsJz1Tre3qS"
+      },
+      "artists": [
+        {
+          "name": "Pierre Lapointe",
+          "url": "https://open.spotify.com/artist/6zmMGBnFE2DCkAxaCVULRP"
+        }
+      ],
+      "duration_ms": 237200,
+      "name": "Nous restions l\u00e0",
+      "url": "https://open.spotify.com/track/24PaQVwM1wwWuyoKLDTrXg"
     },
     {
       "added_at": "2021-02-06 03:12:40",
@@ -1175,22 +1175,6 @@
     {
       "added_at": "2021-02-06 03:12:40",
       "album": {
-        "name": "Des feux pour voir",
-        "url": "https://open.spotify.com/album/2sQho2MsHKvdsDtwtnV3kd"
-      },
-      "artists": [
-        {
-          "name": "Marie-Pierre Arthur",
-          "url": "https://open.spotify.com/artist/2IAG8mcBKZoIc5VbcPgNNc"
-        }
-      ],
-      "duration_ms": 190718,
-      "name": "Puits de lumi\u00e8re",
-      "url": "https://open.spotify.com/track/3LENs8SNsDnxpMYgdHFcQY"
-    },
-    {
-      "added_at": "2021-02-06 03:12:40",
-      "album": {
         "name": "Apprentie guerri\u00e8re",
         "url": "https://open.spotify.com/album/1BiCOs55mWk2IA9PyeONfq"
       },
@@ -1203,6 +1187,22 @@
       "duration_ms": 168173,
       "name": "Shit",
       "url": "https://open.spotify.com/track/7KtGK4TQN4EeOm7nPxSOKq"
+    },
+    {
+      "added_at": "2021-02-06 03:12:40",
+      "album": {
+        "name": "Des feux pour voir",
+        "url": "https://open.spotify.com/album/2sQho2MsHKvdsDtwtnV3kd"
+      },
+      "artists": [
+        {
+          "name": "Marie-Pierre Arthur",
+          "url": "https://open.spotify.com/artist/2IAG8mcBKZoIc5VbcPgNNc"
+        }
+      ],
+      "duration_ms": 190718,
+      "name": "Puits de lumi\u00e8re",
+      "url": "https://open.spotify.com/track/3LENs8SNsDnxpMYgdHFcQY"
     },
     {
       "added_at": "2021-02-06 03:12:40",
@@ -1287,22 +1287,6 @@
     {
       "added_at": "2021-02-06 03:12:40",
       "album": {
-        "name": "Marie-Pierre Arthur",
-        "url": "https://open.spotify.com/album/24zKTvO9WBhCj9meQWEqnJ"
-      },
-      "artists": [
-        {
-          "name": "Marie-Pierre Arthur",
-          "url": "https://open.spotify.com/artist/2IAG8mcBKZoIc5VbcPgNNc"
-        }
-      ],
-      "duration_ms": 253145,
-      "name": "Le vent m\u2019appelle par mon pr\u00e9nom",
-      "url": "https://open.spotify.com/track/68ImzFuf1GPwyhy4VrFi2k"
-    },
-    {
-      "added_at": "2021-02-06 03:12:40",
-      "album": {
         "name": "Parades",
         "url": "https://open.spotify.com/album/68gezXq5hixi4zYIow8L22"
       },
@@ -1315,6 +1299,22 @@
       "duration_ms": 213106,
       "name": "Je sais",
       "url": "https://open.spotify.com/track/3LDuDSAyLuICLyhieUy6v0"
+    },
+    {
+      "added_at": "2021-02-06 03:12:40",
+      "album": {
+        "name": "Marie-Pierre Arthur",
+        "url": "https://open.spotify.com/album/24zKTvO9WBhCj9meQWEqnJ"
+      },
+      "artists": [
+        {
+          "name": "Marie-Pierre Arthur",
+          "url": "https://open.spotify.com/artist/2IAG8mcBKZoIc5VbcPgNNc"
+        }
+      ],
+      "duration_ms": 253145,
+      "name": "Le vent m\u2019appelle par mon pr\u00e9nom",
+      "url": "https://open.spotify.com/track/68ImzFuf1GPwyhy4VrFi2k"
     },
     {
       "added_at": "2021-02-06 03:12:40",
@@ -1383,22 +1383,6 @@
     {
       "added_at": "2021-02-06 03:12:40",
       "album": {
-        "name": "Volcano",
-        "url": "https://open.spotify.com/album/73oXR17DzYPHanskHxY0Tj"
-      },
-      "artists": [
-        {
-          "name": "Jason Bajada",
-          "url": "https://open.spotify.com/artist/6yzmiHzZ0TIQTGyxqga04p"
-        }
-      ],
-      "duration_ms": 285026,
-      "name": "Pour Le Reste De Ma Vie",
-      "url": "https://open.spotify.com/track/1PcEPxGGLAVS1kAmt548Zi"
-    },
-    {
-      "added_at": "2021-02-06 03:12:40",
-      "album": {
         "name": "EP de malade",
         "url": "https://open.spotify.com/album/6cHm4D6a3fOhQ9veQVgXBH"
       },
@@ -1411,6 +1395,22 @@
       "duration_ms": 206693,
       "name": "Madame (Version douce)",
       "url": "https://open.spotify.com/track/70rWuK3787LF5UE2Xe6YJS"
+    },
+    {
+      "added_at": "2021-02-06 03:12:40",
+      "album": {
+        "name": "Volcano",
+        "url": "https://open.spotify.com/album/73oXR17DzYPHanskHxY0Tj"
+      },
+      "artists": [
+        {
+          "name": "Jason Bajada",
+          "url": "https://open.spotify.com/artist/6yzmiHzZ0TIQTGyxqga04p"
+        }
+      ],
+      "duration_ms": 285026,
+      "name": "Pour Le Reste De Ma Vie",
+      "url": "https://open.spotify.com/track/1PcEPxGGLAVS1kAmt548Zi"
     },
     {
       "added_at": "2021-02-06 03:12:40",
@@ -1479,22 +1479,6 @@
     {
       "added_at": "2021-02-06 03:12:40",
       "album": {
-        "name": "Le courant",
-        "url": "https://open.spotify.com/album/18fIvNQnnJHX3eYrx38lwr"
-      },
-      "artists": [
-        {
-          "name": "Claudelle",
-          "url": "https://open.spotify.com/artist/4XHSoFPfPVLnCEwiFVLLhD"
-        }
-      ],
-      "duration_ms": 194042,
-      "name": "Le courant",
-      "url": "https://open.spotify.com/track/2tWRlqt2xme7IoJaaKjTvW"
-    },
-    {
-      "added_at": "2021-02-06 03:12:40",
-      "album": {
         "name": "Politesses",
         "url": "https://open.spotify.com/album/3iCs4w50p4r4PY9ZKF9800"
       },
@@ -1515,18 +1499,18 @@
     {
       "added_at": "2021-02-06 03:12:40",
       "album": {
-        "name": "Et toi, tu fais quoi?",
-        "url": "https://open.spotify.com/album/2DcbZ4lcUpvrnorUuiAXZX"
+        "name": "Le courant",
+        "url": "https://open.spotify.com/album/18fIvNQnnJHX3eYrx38lwr"
       },
       "artists": [
         {
-          "name": "Jo\u00eblle Saint-Pierre",
-          "url": "https://open.spotify.com/artist/2zRlXq6hJhad1sQiqAZjl7"
+          "name": "Claudelle",
+          "url": "https://open.spotify.com/artist/4XHSoFPfPVLnCEwiFVLLhD"
         }
       ],
-      "duration_ms": 189586,
-      "name": "Jamais seule",
-      "url": "https://open.spotify.com/track/6NrmySVZbHNk5vBbZeYOop"
+      "duration_ms": 194042,
+      "name": "Le courant",
+      "url": "https://open.spotify.com/track/2tWRlqt2xme7IoJaaKjTvW"
     },
     {
       "added_at": "2021-02-06 03:12:40",
@@ -1543,6 +1527,22 @@
       "duration_ms": 256361,
       "name": "Dactylo",
       "url": "https://open.spotify.com/track/4XX69muE4DKyvFKZ6I6K7m"
+    },
+    {
+      "added_at": "2021-02-06 03:12:40",
+      "album": {
+        "name": "Et toi, tu fais quoi?",
+        "url": "https://open.spotify.com/album/2DcbZ4lcUpvrnorUuiAXZX"
+      },
+      "artists": [
+        {
+          "name": "Jo\u00eblle Saint-Pierre",
+          "url": "https://open.spotify.com/artist/2zRlXq6hJhad1sQiqAZjl7"
+        }
+      ],
+      "duration_ms": 189586,
+      "name": "Jamais seule",
+      "url": "https://open.spotify.com/track/6NrmySVZbHNk5vBbZeYOop"
     },
     {
       "added_at": "2021-02-06 03:12:40",

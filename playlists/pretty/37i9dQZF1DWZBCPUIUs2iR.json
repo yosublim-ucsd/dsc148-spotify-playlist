@@ -1,12 +1,12 @@
 {
   "description": "A compilation of the all-time biggest hits in Country Music. Cover: Dolly Parton",
-  "num_followers": 574827,
+  "num_followers": 575235,
   "original_name": "Country's Greatest Hits",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2ZTlmMmM2MTBkOWFkNDBlYmYwZjRjNTZlZmM2M2JjNjE5OGJlZmVi",
+  "snapshot_id": "MCw2NWY1M2I2ZmRmYzQ1NWU0Yzk3MTdhMDU2ZTJjMWNhM2RmNDVkZWI5",
   "tracks": [
     {
       "added_at": "2023-02-14 19:26:52",
@@ -699,18 +699,18 @@
     {
       "added_at": "2023-02-14 19:26:52",
       "album": {
-        "name": "Some Gave All",
-        "url": "https://open.spotify.com/album/2Rh2JyaBjJwPMFR9Dl60nV"
+        "name": "Hunter Hayes (Encore)",
+        "url": "https://open.spotify.com/album/5hVo5O3pGkc1VibXveW8gx"
       },
       "artists": [
         {
-          "name": "Billy Ray Cyrus",
-          "url": "https://open.spotify.com/artist/60rpJ9SgigSd16DOAG7GSa"
+          "name": "Hunter Hayes",
+          "url": "https://open.spotify.com/artist/7H6dkUChT5EoOQtUVMg4cN"
         }
       ],
-      "duration_ms": 203373,
-      "name": "Achy Breaky Heart",
-      "url": "https://open.spotify.com/track/2EoIt9vdgFRNW03u5IvFsQ"
+      "duration_ms": 228840,
+      "name": "Wanted",
+      "url": "https://open.spotify.com/track/0p1BcEcYVO3uk4KDf3gzkY"
     },
     {
       "added_at": "2023-02-14 19:26:52",
@@ -747,18 +747,18 @@
     {
       "added_at": "2023-02-14 19:26:52",
       "album": {
-        "name": "Hunter Hayes (Encore)",
-        "url": "https://open.spotify.com/album/5hVo5O3pGkc1VibXveW8gx"
+        "name": "Some Gave All",
+        "url": "https://open.spotify.com/album/2Rh2JyaBjJwPMFR9Dl60nV"
       },
       "artists": [
         {
-          "name": "Hunter Hayes",
-          "url": "https://open.spotify.com/artist/7H6dkUChT5EoOQtUVMg4cN"
+          "name": "Billy Ray Cyrus",
+          "url": "https://open.spotify.com/artist/60rpJ9SgigSd16DOAG7GSa"
         }
       ],
-      "duration_ms": 228840,
-      "name": "Wanted",
-      "url": "https://open.spotify.com/track/0p1BcEcYVO3uk4KDf3gzkY"
+      "duration_ms": 203373,
+      "name": "Achy Breaky Heart",
+      "url": "https://open.spotify.com/track/2EoIt9vdgFRNW03u5IvFsQ"
     },
     {
       "added_at": "2023-02-14 19:26:52",
@@ -875,22 +875,6 @@
     {
       "added_at": "2023-02-14 19:26:52",
       "album": {
-        "name": "Rose Garden",
-        "url": "https://open.spotify.com/album/2JItlMgM1n2GfKOmqYr8af"
-      },
-      "artists": [
-        {
-          "name": "Lynn Anderson",
-          "url": "https://open.spotify.com/artist/502FY8XQYRxClWgolQ3Hf2"
-        }
-      ],
-      "duration_ms": 175866,
-      "name": "Rose Garden",
-      "url": "https://open.spotify.com/track/5YwgJ6lpZ3SiAQwBEpjqey"
-    },
-    {
-      "added_at": "2023-02-14 19:26:52",
-      "album": {
         "name": "We Must Believe In Magic",
         "url": "https://open.spotify.com/album/57FGUcDejZqr816U3ZkMT8"
       },
@@ -903,6 +887,22 @@
       "duration_ms": 157653,
       "name": "Don't It Make My Brown Eyes Blue",
       "url": "https://open.spotify.com/track/7Jpclr7tZ6aQXjoKzWXUJV"
+    },
+    {
+      "added_at": "2023-02-14 19:26:52",
+      "album": {
+        "name": "Rose Garden",
+        "url": "https://open.spotify.com/album/2JItlMgM1n2GfKOmqYr8af"
+      },
+      "artists": [
+        {
+          "name": "Lynn Anderson",
+          "url": "https://open.spotify.com/artist/502FY8XQYRxClWgolQ3Hf2"
+        }
+      ],
+      "duration_ms": 175866,
+      "name": "Rose Garden",
+      "url": "https://open.spotify.com/track/5YwgJ6lpZ3SiAQwBEpjqey"
     },
     {
       "added_at": "2023-02-14 19:26:52",
@@ -1343,22 +1343,6 @@
     {
       "added_at": "2023-02-14 19:26:52",
       "album": {
-        "name": "Ultimate Clint Black",
-        "url": "https://open.spotify.com/album/3fsGT85qu4Jhvs9htCgygz"
-      },
-      "artists": [
-        {
-          "name": "Clint Black",
-          "url": "https://open.spotify.com/artist/3Ay15wt0QChT4Kapsuw5Jt"
-        }
-      ],
-      "duration_ms": 168000,
-      "name": "Killin' Time",
-      "url": "https://open.spotify.com/track/4H2TRR9FjnnIwxGnIt9stO"
-    },
-    {
-      "added_at": "2023-02-14 19:26:52",
-      "album": {
         "name": "Number One Hits",
         "url": "https://open.spotify.com/album/6QkVGhAnrjHauwCSYuTuI8"
       },
@@ -1371,6 +1355,22 @@
       "duration_ms": 171653,
       "name": "Every Which Way but Loose - 2009 Remaster",
       "url": "https://open.spotify.com/track/73xcnqBwjnGwAlrfBomLP3"
+    },
+    {
+      "added_at": "2023-02-14 19:26:52",
+      "album": {
+        "name": "Ultimate Clint Black",
+        "url": "https://open.spotify.com/album/3fsGT85qu4Jhvs9htCgygz"
+      },
+      "artists": [
+        {
+          "name": "Clint Black",
+          "url": "https://open.spotify.com/artist/3Ay15wt0QChT4Kapsuw5Jt"
+        }
+      ],
+      "duration_ms": 168000,
+      "name": "Killin' Time",
+      "url": "https://open.spotify.com/track/4H2TRR9FjnnIwxGnIt9stO"
     },
     {
       "added_at": "2023-02-14 19:26:52",
@@ -1423,22 +1423,6 @@
     {
       "added_at": "2023-02-14 19:26:52",
       "album": {
-        "name": "Greatest Hits",
-        "url": "https://open.spotify.com/album/43KDShB3LKQv7r6Lq2OR9u"
-      },
-      "artists": [
-        {
-          "name": "Toby Keith",
-          "url": "https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8"
-        }
-      ],
-      "duration_ms": 209866,
-      "name": "Should've Been A Cowboy",
-      "url": "https://open.spotify.com/track/4EDBgrYqYQ6b50yhJWKsHp"
-    },
-    {
-      "added_at": "2023-02-14 19:26:52",
-      "album": {
         "name": "Fightin' Side Of Me",
         "url": "https://open.spotify.com/album/6GBldLBO5gMbjpLCnLiv2B"
       },
@@ -1451,6 +1435,22 @@
       "duration_ms": 170706,
       "name": "Fightin' Side of Me",
       "url": "https://open.spotify.com/track/32ogrBiK5QBeMwidTdnMoq"
+    },
+    {
+      "added_at": "2023-02-14 19:26:52",
+      "album": {
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/43KDShB3LKQv7r6Lq2OR9u"
+      },
+      "artists": [
+        {
+          "name": "Toby Keith",
+          "url": "https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8"
+        }
+      ],
+      "duration_ms": 209866,
+      "name": "Should've Been A Cowboy",
+      "url": "https://open.spotify.com/track/4EDBgrYqYQ6b50yhJWKsHp"
     },
     {
       "added_at": "2023-02-14 19:26:52",

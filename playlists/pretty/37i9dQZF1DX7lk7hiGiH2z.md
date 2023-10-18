@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7lk7hiGiH2z.md) - [plain]
 
 > Süßes sonst gibt's Saures! 🎃
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,048 likes - 45 songs - 2 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,171 likes - 45 songs - 2 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,4 +54,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7lk7hiGiH2z.md) - [plain]
 | 44 | [Drei kleine Hexen](https://open.spotify.com/track/7prmyyJSIZbY7ZwlczWG0T) | [Rainer Wenzel](https://open.spotify.com/artist/0Pqj7d09m594nU0ckKJ9vh) | [Au Backe!](https://open.spotify.com/album/15TCbswxpNzD23AJJIG78I) | 2:48 |
 | 45 | [Der Vampir](https://open.spotify.com/track/4FlV1Nn9kpVEJ3qprLc6Gx) | [Eddi & Dän](https://open.spotify.com/artist/16bEAeEFFLi2M6zQuI439D) | [Eddi & Dän singen neue Kinderlieder a cappella, Vol\. 2](https://open.spotify.com/album/7oeEW2bXn0HN2AzoPEIGiv) | 2:36 |
 
-Snapshot ID: `MCxmYzAzY2ZmYzBhNzIzN2MxYTE4OTdkNmZlZmM4OTM0YzgyNjBjNmMx`
+Snapshot ID: `MCxiYWNlMjc1NjFhM2I4ZTZlNDkzZTg3MTFhNjgzMTA5YTdmYzk4YjU4`

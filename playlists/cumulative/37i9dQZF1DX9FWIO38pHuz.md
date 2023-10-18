@@ -4,7 +4,7 @@
 
 > Funk favorites from 2022\. Cover: Cory Henry \#SpotifyWrapped
 
-85 songs - 5 hr 6 min
+86 songs - 5 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -88,8 +88,9 @@
 | [Trust Me](https://open.spotify.com/track/7qF4PloG6zW4ILra7Ucquf) | [Sly Johnson](https://open.spotify.com/artist/24k5M16PEcrJudqAYEoLB7) | [55.4](https://open.spotify.com/album/4Do6w3L42ArC191q8GOCom) | 3:05 | 2022-11-30 |  |
 | [Until I Get Back](https://open.spotify.com/track/0TtuQC6hcnBHK1Z9CR9shk) | [Swatkins](https://open.spotify.com/artist/0HnF3y5xRlNr6eGQmFZgjP) | [Friends And Other Necessities](https://open.spotify.com/album/5ECnPA9o4D8IlJRBBaC1fe) | 4:33 | 2022-11-30 |  |
 | [Wagmi Express](https://open.spotify.com/track/6i8fTrSzxLV9fEGZnOog8P) | [Gramatik](https://open.spotify.com/artist/179BpmLkQCRIoU68Co80f5), [Stehreo](https://open.spotify.com/artist/6qhjbzRuF6DGatHeFiDAS9) | [Water 4 The Soul II](https://open.spotify.com/album/7AjqMjfxFB7r5ZX1UyEMU9) | 3:35 | 2022-11-30 |  |
-| [When You Call Me](https://open.spotify.com/track/7HHqo2poglaM14fmx3E9NV) | [STR4TA](https://open.spotify.com/artist/5HintvHxi0uDBgNaRKWZOt) | [STR4TASFEAR](https://open.spotify.com/album/4diEdVKAn68wu9BY0awQIM) | 4:54 | 2022-11-30 |  |
+| [When You Call Me](https://open.spotify.com/track/7HHqo2poglaM14fmx3E9NV) | [STR4TA](https://open.spotify.com/artist/5HintvHxi0uDBgNaRKWZOt) | [STR4TASFEAR](https://open.spotify.com/album/4diEdVKAn68wu9BY0awQIM) | 4:54 | 2022-11-30 | 2023-10-18 |
 | [When You Call Me](https://open.spotify.com/track/5IcvEVloSW4hZVVOlgKq3Y) | [STR4TA](https://open.spotify.com/artist/5HintvHxi0uDBgNaRKWZOt) | [STR4TASFEAR](https://open.spotify.com/album/7mMTBm5ktIU92g85RoYLdX) | 4:55 | 2022-11-30 | 2023-04-30 |
+| [When You Call Me](https://open.spotify.com/track/6nubhK0CsIhmCnjuMVUfvj) | [STR4TA](https://open.spotify.com/artist/5HintvHxi0uDBgNaRKWZOt) | [STR4TASFEAR](https://open.spotify.com/album/2CSRlL4oubFZsnNxQoaR6p) | 4:55 | 2022-11-30 |  |
 | [Wicked Karma](https://open.spotify.com/track/1euxBryXMch8Oq4OD4GbWt) | [Orgone](https://open.spotify.com/artist/4WmMnGO1nLIsE85XwcBAZE) | [Lost Knights](https://open.spotify.com/album/06wmF4jhsHKfmqhKdAZfvi) | 3:53 | 2022-11-30 |  |
 | [You Gotta Respect Yourself!](https://open.spotify.com/track/4cJiGpB3ucbvuN5F8wwXLb) | [Dylan Chambers](https://open.spotify.com/artist/2jP4GO0BDgY15BqUcUVhG9), [Cory Wong](https://open.spotify.com/artist/6xt9sJmmyYwWkJv8A6ssiU) | [You Gotta Respect Yourself!](https://open.spotify.com/album/1iHoBVCieyC3vOQA6RZkvd) | 3:11 | 2022-11-30 |  |
 | [You Not Me \- Remix](https://open.spotify.com/track/6qmZKSHiYJCV09bSToTm3y) | [Baegod](https://open.spotify.com/artist/1F03cvxw1p5NzqkLnwDpcL), [XL Middleton](https://open.spotify.com/artist/6jvRzmQ1J8Kr2QEi6JzQmh) | [You Not Me \(Remix\)](https://open.spotify.com/album/5nCT2rB99boTMRmYIvky0d) | 2:34 | 2022-11-30 |  |

@@ -270,7 +270,7 @@
       ],
       "date_added": "2021-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-18",
       "duration_ms": 325933,
       "name": "Aao Milo Chalo",
       "url": "https://open.spotify.com/track/6ocOeSjnWPcSTaSsi0zIdY"
@@ -1706,7 +1706,7 @@
       ],
       "date_added": "2023-02-08",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-14",
+      "date_removed": null,
       "duration_ms": 323053,
       "name": "Dil Dil Nazar",
       "url": "https://open.spotify.com/track/1ZpsPt7Ayxhd35QXHdLGEY"
@@ -2245,6 +2245,36 @@
     },
     {
       "album": {
+        "name": "Tashan",
+        "url": "https://open.spotify.com/album/59p4XN8mbKxNCoY5nQJyN5"
+      },
+      "artists": [
+        {
+          "name": "Vishal-Shekhar",
+          "url": "https://open.spotify.com/artist/6Mv8GjQa7LKUGCAqa9qqdb"
+        },
+        {
+          "name": "Udit Narayan",
+          "url": "https://open.spotify.com/artist/70B80Lwx2sxti0M1Ng9e8K"
+        },
+        {
+          "name": "Mahalakshmi Iyer",
+          "url": "https://open.spotify.com/artist/0Yb0T3wUUNiIvHjqnfkbuH"
+        },
+        {
+          "name": "Kausar Munir",
+          "url": "https://open.spotify.com/artist/3GBSge8pq7mpezUQl0GAOA"
+        }
+      ],
+      "date_added": "2023-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 356179,
+      "name": "Falak Tak",
+      "url": "https://open.spotify.com/track/0IudGhdeJZwJ0Ps6ndtQDt"
+    },
+    {
+      "album": {
         "name": "Paap",
         "url": "https://open.spotify.com/album/6ZtaO3graLTvGff04zJp5k"
       },
@@ -2530,7 +2560,7 @@
       ],
       "date_added": "2021-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-18",
       "duration_ms": 397026,
       "name": "In Dino",
       "url": "https://open.spotify.com/track/6YycppSAeGtSvwmu8qCcr2"
@@ -3392,7 +3422,7 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-18",
       "duration_ms": 223373,
       "name": "Kiss Me Baby",
       "url": "https://open.spotify.com/track/4gNGi2Mr26me7wGKd8TQSF"
@@ -4384,6 +4414,10 @@
       },
       "artists": [
         {
+          "name": "Pritam",
+          "url": "https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU"
+        },
+        {
           "name": "Sonu Nigam",
           "url": "https://open.spotify.com/artist/1dVygo6tRFXC8CSWURQJq2"
         },
@@ -4476,7 +4510,7 @@
       ],
       "date_added": "2023-04-19",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-15",
+      "date_removed": null,
       "duration_ms": 368840,
       "name": "No Entry: Ishq Di Galli Vich",
       "url": "https://open.spotify.com/track/0BTq3SmPRKdTrJXHAtq2S5"
@@ -4738,6 +4772,28 @@
       "duration_ms": 238074,
       "name": "Pardesi",
       "url": "https://open.spotify.com/track/12cK3COq4z4MwaZyjc51zX"
+    },
+    {
+      "album": {
+        "name": "Race (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/5ZA52EwvGmwTQvHaLujhry"
+      },
+      "artists": [
+        {
+          "name": "Atif Aslam",
+          "url": "https://open.spotify.com/artist/2oSONSC9zQ4UonDKnLqksx"
+        },
+        {
+          "name": "Pritam",
+          "url": "https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU"
+        }
+      ],
+      "date_added": "2023-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 312892,
+      "name": "Pehli Nazar Mein",
+      "url": "https://open.spotify.com/track/17opN752ZQpNuoptelsNQ1"
     },
     {
       "album": {
@@ -5776,7 +5832,7 @@
       ],
       "date_added": "2023-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-18",
       "duration_ms": 368546,
       "name": "Tu Aashiqui Hai",
       "url": "https://open.spotify.com/track/2vuhZrEHS25D8xNQTSvuuj"
@@ -6208,10 +6264,28 @@
       ],
       "date_added": "2021-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-18",
       "duration_ms": 280974,
       "name": "Ye Ishq Hai",
       "url": "https://open.spotify.com/track/4BiPsAV070dg3eLSVf727A"
+    },
+    {
+      "album": {
+        "name": "Rock On",
+        "url": "https://open.spotify.com/album/43Fh1hMumKDCcax2JOWEmR"
+      },
+      "artists": [
+        {
+          "name": "Dominique",
+          "url": "https://open.spotify.com/artist/4iKhzZlW5dpmbF2LWnNlPr"
+        }
+      ],
+      "date_added": "2023-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 324057,
+      "name": "Ye Tumhari Meri Baatein",
+      "url": "https://open.spotify.com/track/1xaj4bm3GMthtoZHUfepl1"
     },
     {
       "album": {

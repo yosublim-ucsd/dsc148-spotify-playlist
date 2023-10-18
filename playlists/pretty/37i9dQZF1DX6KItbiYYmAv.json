@@ -1,12 +1,12 @@
 {
   "description": "Hol dir dein Lieblingscaf\u00e9 nach Hause.",
-  "num_followers": 727490,
+  "num_followers": 727593,
   "original_name": "Kaffeehausmusik",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4YzE3MGU3YWI3ZDFiMzRiODdlYzE1ZDA5YjJiYzNkMDg3N2ZkZjM1",
+  "snapshot_id": "MCw5YWM1ODk2ODc4OTRhY2Q5YThmZGEwYjJjY2Q1MzRhOWVlMzI2MzE5",
   "tracks": [
     {
       "added_at": "2023-09-25 14:18:15",
@@ -759,38 +759,6 @@
     {
       "added_at": "2023-09-25 14:18:15",
       "album": {
-        "name": "If You Could Read My Mind",
-        "url": "https://open.spotify.com/album/6bzqUICBtzct7TiQC8if9s"
-      },
-      "artists": [
-        {
-          "name": "Gordon Lightfoot",
-          "url": "https://open.spotify.com/artist/23rleGXVOVVgTk3xgtmfE4"
-        }
-      ],
-      "duration_ms": 228840,
-      "name": "If You Could Read My Mind",
-      "url": "https://open.spotify.com/track/57ct8jKi6trntXiRV0NnXi"
-    },
-    {
-      "added_at": "2023-09-25 14:18:15",
-      "album": {
-        "name": "Time After Time",
-        "url": "https://open.spotify.com/album/5NovnTHEYZjadICACf4yPo"
-      },
-      "artists": [
-        {
-          "name": "Iron & Wine",
-          "url": "https://open.spotify.com/artist/4M5nCE77Qaxayuhp3fVn4V"
-        }
-      ],
-      "duration_ms": 170216,
-      "name": "Time After Time",
-      "url": "https://open.spotify.com/track/5JEM7lT9uSyhUsKFXwGfSm"
-    },
-    {
-      "added_at": "2023-09-25 14:18:15",
-      "album": {
         "name": "boygenius",
         "url": "https://open.spotify.com/album/6RjlLIuDFC8Dw91yRAdPz9"
       },
@@ -815,6 +783,38 @@
       "duration_ms": 212467,
       "name": "Souvenir",
       "url": "https://open.spotify.com/track/21JL0gpeAYgbSUmzhgSPJz"
+    },
+    {
+      "added_at": "2023-09-25 14:18:15",
+      "album": {
+        "name": "Time After Time",
+        "url": "https://open.spotify.com/album/5NovnTHEYZjadICACf4yPo"
+      },
+      "artists": [
+        {
+          "name": "Iron & Wine",
+          "url": "https://open.spotify.com/artist/4M5nCE77Qaxayuhp3fVn4V"
+        }
+      ],
+      "duration_ms": 170216,
+      "name": "Time After Time",
+      "url": "https://open.spotify.com/track/5JEM7lT9uSyhUsKFXwGfSm"
+    },
+    {
+      "added_at": "2023-09-25 14:18:15",
+      "album": {
+        "name": "If You Could Read My Mind",
+        "url": "https://open.spotify.com/album/6bzqUICBtzct7TiQC8if9s"
+      },
+      "artists": [
+        {
+          "name": "Gordon Lightfoot",
+          "url": "https://open.spotify.com/artist/23rleGXVOVVgTk3xgtmfE4"
+        }
+      ],
+      "duration_ms": 228840,
+      "name": "If You Could Read My Mind",
+      "url": "https://open.spotify.com/track/57ct8jKi6trntXiRV0NnXi"
     },
     {
       "added_at": "2023-09-25 14:18:15",
@@ -1287,22 +1287,6 @@
     {
       "added_at": "2023-09-25 14:18:15",
       "album": {
-        "name": "On the Train Ride Home",
-        "url": "https://open.spotify.com/album/4amdDYo23aSOrv7hSZrCMT"
-      },
-      "artists": [
-        {
-          "name": "The Paper Kites",
-          "url": "https://open.spotify.com/artist/79hrYiudVcFyyxyJW0ipTy"
-        }
-      ],
-      "duration_ms": 203560,
-      "name": "Arms",
-      "url": "https://open.spotify.com/track/4EXvl9cypQrKVYwabqd1EY"
-    },
-    {
-      "added_at": "2023-09-25 14:18:15",
-      "album": {
         "name": "Bathing Beach",
         "url": "https://open.spotify.com/album/4vGuMdwnxc6X8izbVS6MTN"
       },
@@ -1315,6 +1299,22 @@
       "duration_ms": 228164,
       "name": "Colourway",
       "url": "https://open.spotify.com/track/2oa53bhiNPCz2CGh26AYxi"
+    },
+    {
+      "added_at": "2023-09-25 14:18:15",
+      "album": {
+        "name": "On the Train Ride Home",
+        "url": "https://open.spotify.com/album/4amdDYo23aSOrv7hSZrCMT"
+      },
+      "artists": [
+        {
+          "name": "The Paper Kites",
+          "url": "https://open.spotify.com/artist/79hrYiudVcFyyxyJW0ipTy"
+        }
+      ],
+      "duration_ms": 203560,
+      "name": "Arms",
+      "url": "https://open.spotify.com/track/4EXvl9cypQrKVYwabqd1EY"
     },
     {
       "added_at": "2023-09-25 14:18:15",
@@ -1807,6 +1807,22 @@
     {
       "added_at": "2023-09-25 14:18:15",
       "album": {
+        "name": "Linger",
+        "url": "https://open.spotify.com/album/44rvrZI6NG38wyyoXQMsVx"
+      },
+      "artists": [
+        {
+          "name": "Freedom Fry",
+          "url": "https://open.spotify.com/artist/195hFqaTDENqLCcG8uGtM7"
+        }
+      ],
+      "duration_ms": 201136,
+      "name": "Linger",
+      "url": "https://open.spotify.com/track/3rcVJVqhuuKbVppaLXrxD5"
+    },
+    {
+      "added_at": "2023-09-25 14:18:15",
+      "album": {
         "name": "The Secret Life Of Walter Mitty (Music From And Inspired By The Motion Picture)",
         "url": "https://open.spotify.com/album/4zSB5nqKVh9jQcRByMUcMG"
       },
@@ -1823,22 +1839,6 @@
       "duration_ms": 199426,
       "name": "Don't You Want Me",
       "url": "https://open.spotify.com/track/0bmDpMruiJpzV5eQ92W0Lq"
-    },
-    {
-      "added_at": "2023-09-25 14:18:15",
-      "album": {
-        "name": "Linger",
-        "url": "https://open.spotify.com/album/44rvrZI6NG38wyyoXQMsVx"
-      },
-      "artists": [
-        {
-          "name": "Freedom Fry",
-          "url": "https://open.spotify.com/artist/195hFqaTDENqLCcG8uGtM7"
-        }
-      ],
-      "duration_ms": 201136,
-      "name": "Linger",
-      "url": "https://open.spotify.com/track/3rcVJVqhuuKbVppaLXrxD5"
     },
     {
       "added_at": "2023-09-25 14:18:15",
@@ -1875,22 +1875,6 @@
     {
       "added_at": "2023-09-25 14:18:15",
       "album": {
-        "name": "Welcome To The Cruel World",
-        "url": "https://open.spotify.com/album/4funkfmn2DKDsr3pRxMJTP"
-      },
-      "artists": [
-        {
-          "name": "Ben Harper",
-          "url": "https://open.spotify.com/artist/45lorWzrKLxfKlWpV7r9CN"
-        }
-      ],
-      "duration_ms": 204360,
-      "name": "Forever",
-      "url": "https://open.spotify.com/track/7x8OcAzBWvSgw4TBqBeAHM"
-    },
-    {
-      "added_at": "2023-09-25 14:18:15",
-      "album": {
         "name": "Change It All",
         "url": "https://open.spotify.com/album/0dkUKtlAdUxzlhmvS4BVmU"
       },
@@ -1907,18 +1891,18 @@
     {
       "added_at": "2023-09-25 14:18:15",
       "album": {
-        "name": "You and Me for Now",
-        "url": "https://open.spotify.com/album/5KPl7k36JzLxe4bisDG8S4"
+        "name": "Welcome To The Cruel World",
+        "url": "https://open.spotify.com/album/4funkfmn2DKDsr3pRxMJTP"
       },
       "artists": [
         {
-          "name": "Austin Basham",
-          "url": "https://open.spotify.com/artist/3Dd1WVQvZUgyi9XEqOIPhA"
+          "name": "Ben Harper",
+          "url": "https://open.spotify.com/artist/45lorWzrKLxfKlWpV7r9CN"
         }
       ],
-      "duration_ms": 256680,
-      "name": "All Is Well",
-      "url": "https://open.spotify.com/track/3KAQ4xe2sR6IiltZw8HSA5"
+      "duration_ms": 204360,
+      "name": "Forever",
+      "url": "https://open.spotify.com/track/7x8OcAzBWvSgw4TBqBeAHM"
     },
     {
       "added_at": "2023-09-25 14:18:15",
@@ -1935,6 +1919,22 @@
       "duration_ms": 244120,
       "name": "Our Remains",
       "url": "https://open.spotify.com/track/3GLMvFjzOgJ3XGphEEVEPv"
+    },
+    {
+      "added_at": "2023-09-25 14:18:15",
+      "album": {
+        "name": "You and Me for Now",
+        "url": "https://open.spotify.com/album/5KPl7k36JzLxe4bisDG8S4"
+      },
+      "artists": [
+        {
+          "name": "Austin Basham",
+          "url": "https://open.spotify.com/artist/3Dd1WVQvZUgyi9XEqOIPhA"
+        }
+      ],
+      "duration_ms": 256680,
+      "name": "All Is Well",
+      "url": "https://open.spotify.com/track/3KAQ4xe2sR6IiltZw8HSA5"
     },
     {
       "added_at": "2023-09-25 14:18:15",
@@ -1971,22 +1971,6 @@
     {
       "added_at": "2023-09-25 14:18:15",
       "album": {
-        "name": "In Deepest Blue (Bonus Track Version)",
-        "url": "https://open.spotify.com/album/6xWGNnipxLJCfRPPB9e9Iy"
-      },
-      "artists": [
-        {
-          "name": "Joshua Hyslop",
-          "url": "https://open.spotify.com/artist/1I7oHjCjMrMUz66v67yJJu"
-        }
-      ],
-      "duration_ms": 261640,
-      "name": "The Flood",
-      "url": "https://open.spotify.com/track/5wQci5VCUjdbKnRD61XYwu"
-    },
-    {
-      "added_at": "2023-09-25 14:18:15",
-      "album": {
         "name": "Magnetised (Acoustic)",
         "url": "https://open.spotify.com/album/2UQjNLTufvDV6PKx2Kn8v2"
       },
@@ -1999,6 +1983,22 @@
       "duration_ms": 292186,
       "name": "Magnetised - Acoustic",
       "url": "https://open.spotify.com/track/5baXzOMmD0sf26hayRqfqI"
+    },
+    {
+      "added_at": "2023-09-25 14:18:15",
+      "album": {
+        "name": "In Deepest Blue (Bonus Track Version)",
+        "url": "https://open.spotify.com/album/6xWGNnipxLJCfRPPB9e9Iy"
+      },
+      "artists": [
+        {
+          "name": "Joshua Hyslop",
+          "url": "https://open.spotify.com/artist/1I7oHjCjMrMUz66v67yJJu"
+        }
+      ],
+      "duration_ms": 261640,
+      "name": "The Flood",
+      "url": "https://open.spotify.com/track/5wQci5VCUjdbKnRD61XYwu"
     },
     {
       "added_at": "2023-09-25 14:18:15",
@@ -2067,22 +2067,6 @@
     {
       "added_at": "2023-09-25 14:18:15",
       "album": {
-        "name": "69 Love Songs",
-        "url": "https://open.spotify.com/album/2GuROKcqyHdpIDcgxml1C7"
-      },
-      "artists": [
-        {
-          "name": "The Magnetic Fields",
-          "url": "https://open.spotify.com/artist/6RWjTQqILL7a1tQ0VapyLK"
-        }
-      ],
-      "duration_ms": 162413,
-      "name": "The Book of Love",
-      "url": "https://open.spotify.com/track/62ZYyXIsHVX5xVUj80arVu"
-    },
-    {
-      "added_at": "2023-09-25 14:18:15",
-      "album": {
         "name": "It Aint me (Acoustic)",
         "url": "https://open.spotify.com/album/0yXs7bd41x7RHD8cbLDpbV"
       },
@@ -2095,6 +2079,22 @@
       "duration_ms": 192545,
       "name": "It Aint me - Acoustic",
       "url": "https://open.spotify.com/track/18ZK9RiSZdZVTkzVFw0yin"
+    },
+    {
+      "added_at": "2023-09-25 14:18:15",
+      "album": {
+        "name": "69 Love Songs",
+        "url": "https://open.spotify.com/album/2GuROKcqyHdpIDcgxml1C7"
+      },
+      "artists": [
+        {
+          "name": "The Magnetic Fields",
+          "url": "https://open.spotify.com/artist/6RWjTQqILL7a1tQ0VapyLK"
+        }
+      ],
+      "duration_ms": 162413,
+      "name": "The Book of Love",
+      "url": "https://open.spotify.com/track/62ZYyXIsHVX5xVUj80arVu"
     },
     {
       "added_at": "2023-09-25 14:18:15",
@@ -2163,22 +2163,6 @@
     {
       "added_at": "2023-09-25 14:18:15",
       "album": {
-        "name": "Fisherman's Woman",
-        "url": "https://open.spotify.com/album/5fPGV2BBurhFEE2d5AAWaq"
-      },
-      "artists": [
-        {
-          "name": "Emil\u00edana Torrini",
-          "url": "https://open.spotify.com/artist/08j69Ndyx1P7RLO3Janb5P"
-        }
-      ],
-      "duration_ms": 184533,
-      "name": "Sunny Road",
-      "url": "https://open.spotify.com/track/1QhN6ZjGqeRO6cDuE1H76q"
-    },
-    {
-      "added_at": "2023-09-25 14:18:15",
-      "album": {
         "name": "Darling Arithmetic",
         "url": "https://open.spotify.com/album/1hrv3F7Fbi9gMPkkcwCxRG"
       },
@@ -2191,6 +2175,22 @@
       "duration_ms": 199773,
       "name": "Dawning On Me",
       "url": "https://open.spotify.com/track/1widQ9TODdm2HQT95lgfQg"
+    },
+    {
+      "added_at": "2023-09-25 14:18:15",
+      "album": {
+        "name": "Fisherman's Woman",
+        "url": "https://open.spotify.com/album/5fPGV2BBurhFEE2d5AAWaq"
+      },
+      "artists": [
+        {
+          "name": "Emil\u00edana Torrini",
+          "url": "https://open.spotify.com/artist/08j69Ndyx1P7RLO3Janb5P"
+        }
+      ],
+      "duration_ms": 184533,
+      "name": "Sunny Road",
+      "url": "https://open.spotify.com/track/1QhN6ZjGqeRO6cDuE1H76q"
     },
     {
       "added_at": "2023-09-25 14:18:15",
@@ -2387,18 +2387,18 @@
     {
       "added_at": "2023-09-25 14:18:15",
       "album": {
-        "name": "EPs 2014 - 2016",
-        "url": "https://open.spotify.com/album/3rrSdYF171Zwh3uKUIHuvk"
+        "name": "Brutally",
+        "url": "https://open.spotify.com/album/1EffBpw7DW3vrOBCox9l0R"
       },
       "artists": [
         {
-          "name": "Charlie Cunningham",
-          "url": "https://open.spotify.com/artist/78CiW0UJbHspFaVuVexOK6"
+          "name": "Suki Waterhouse",
+          "url": "https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL"
         }
       ],
-      "duration_ms": 233084,
-      "name": "Lights Off",
-      "url": "https://open.spotify.com/track/0kmm2zTSQZoNuNd1lZ0Sbl"
+      "duration_ms": 208105,
+      "name": "Brutally",
+      "url": "https://open.spotify.com/track/4z6qtN4iZ7MPVZYCtiSgsM"
     },
     {
       "added_at": "2023-09-25 14:18:15",
@@ -2419,18 +2419,18 @@
     {
       "added_at": "2023-09-25 14:18:15",
       "album": {
-        "name": "Brutally",
-        "url": "https://open.spotify.com/album/1EffBpw7DW3vrOBCox9l0R"
+        "name": "EPs 2014 - 2016",
+        "url": "https://open.spotify.com/album/3rrSdYF171Zwh3uKUIHuvk"
       },
       "artists": [
         {
-          "name": "Suki Waterhouse",
-          "url": "https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL"
+          "name": "Charlie Cunningham",
+          "url": "https://open.spotify.com/artist/78CiW0UJbHspFaVuVexOK6"
         }
       ],
-      "duration_ms": 208105,
-      "name": "Brutally",
-      "url": "https://open.spotify.com/track/4z6qtN4iZ7MPVZYCtiSgsM"
+      "duration_ms": 233084,
+      "name": "Lights Off",
+      "url": "https://open.spotify.com/track/0kmm2zTSQZoNuNd1lZ0Sbl"
     },
     {
       "added_at": "2023-09-25 14:18:15",

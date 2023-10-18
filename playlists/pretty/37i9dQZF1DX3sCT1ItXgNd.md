@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3sCT1ItXgNd.md) - [plain]
 
 > Lo mejor del pop en español\. Foto: Ana Mena
 
-[Spotify](https://open.spotify.com/user/spotify) - 986,678 likes - 53 songs - 2 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 986,744 likes - 53 songs - 2 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,14 +39,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3sCT1ItXgNd.md) - [plain]
 | 29 | [El Olor De Tu Pelo](https://open.spotify.com/track/0XKYeF1y231Lr16dcZDYlK) | [Pole.](https://open.spotify.com/artist/7D62OQfwvslnxJn9DkZm2F) | [El Olor De Tu Pelo](https://open.spotify.com/album/72hkK8DcshHwWV8gJREaF1) | 2:43 |
 | 30 | [PORTARSE MAL](https://open.spotify.com/track/20EnydkCy1x6OZsITbWQre) | [Álvaro De Luna](https://open.spotify.com/artist/5N3YDBGT2gUzXgLDTwPRi5) | [PORTARSE MAL](https://open.spotify.com/album/3X0mM0p3c8LhRw6T64svoe) | 3:12 |
 | 31 | [Como Ayer](https://open.spotify.com/track/3MWReEPNS9G3tFp8wN9aNY) | [Cali Y El Dandee](https://open.spotify.com/artist/5DUlefCLzVRzNWaNURTFpK) | [Como Ayer](https://open.spotify.com/album/2H7jkIiLaVmNeKYqMHyJYe) | 2:37 |
-| 32 | [Copita Champagne](https://open.spotify.com/track/3xvnCTCFA6Ntd5gKLfKnmW) | [Mireya Rivas](https://open.spotify.com/artist/2eYwxBc6FsGFC45eWrEgps), [Chema Rivas](https://open.spotify.com/artist/1tMWkquIkQtVD6vaZlDbSQ) | [Copita Champagne](https://open.spotify.com/album/6u333hTQgleC2pzoNvBKcU) | 2:43 |
+| 32 | [COBARDE](https://open.spotify.com/track/2IEhUsa1s1seGFAySt3zh7) | [Sofía Reyes](https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2), [Beéle](https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7) | [COBARDE](https://open.spotify.com/album/5OZzcXlWpCUFz5sNa09zy6) | 2:46 |
 | 33 | [cuando salto me duele](https://open.spotify.com/track/5Z7mpQCwr8Ydr5WNQgO8Dd) | [Pol Granch](https://open.spotify.com/artist/1aMt4A5jrQHxDYyC7rXgV0) | [cuando salto me duele](https://open.spotify.com/album/2MTsy6zxZYxcmm1VYkYySR) | 3:09 |
-| 34 | [Estoy aquí \(feat\. La Pegatina\)](https://open.spotify.com/track/6BZyZKGieV83gE9IZcNZCz) | [Despistaos](https://open.spotify.com/artist/0QE9iXPzgSaBq34OqIZ4n2), [La Pegatina](https://open.spotify.com/artist/4xvB67czbtvemGVXGa81oK) | [Estoy aquí \(feat\. La Pegatina\)](https://open.spotify.com/album/2XFhxf774ufp6QdJasM2rL) | 2:56 |
-| 35 | [La Tortura \- Spotify Singles](https://open.spotify.com/track/5WW6WJUxZsfHF7Na5wwE02) | [Judeline](https://open.spotify.com/artist/1H6X7yhnXZg73f9bssaj1Q) | [Spotify Singles](https://open.spotify.com/album/3ALicRgy6brNAYjFQPOFli) | 2:31 |
-| 36 | [Canción de pop](https://open.spotify.com/track/3rnQohmD9nBKD6mMX6QQJD) | [Funzo & Baby Loud](https://open.spotify.com/artist/1nwjHzOUQZsNYX8xoWiGVC) | [Canción de pop](https://open.spotify.com/album/0GonIhSgK1AuasYbr8xbYH) | 2:19 |
+| 34 | [Copita Champagne](https://open.spotify.com/track/3xvnCTCFA6Ntd5gKLfKnmW) | [Mireya Rivas](https://open.spotify.com/artist/2eYwxBc6FsGFC45eWrEgps), [Chema Rivas](https://open.spotify.com/artist/1tMWkquIkQtVD6vaZlDbSQ) | [Copita Champagne](https://open.spotify.com/album/6u333hTQgleC2pzoNvBKcU) | 2:43 |
+| 35 | [Estoy aquí \(feat\. La Pegatina\)](https://open.spotify.com/track/6BZyZKGieV83gE9IZcNZCz) | [Despistaos](https://open.spotify.com/artist/0QE9iXPzgSaBq34OqIZ4n2), [La Pegatina](https://open.spotify.com/artist/4xvB67czbtvemGVXGa81oK) | [Estoy aquí \(feat\. La Pegatina\)](https://open.spotify.com/album/2XFhxf774ufp6QdJasM2rL) | 2:56 |
+| 36 | [La Tortura \- Spotify Singles](https://open.spotify.com/track/5WW6WJUxZsfHF7Na5wwE02) | [Judeline](https://open.spotify.com/artist/1H6X7yhnXZg73f9bssaj1Q) | [Spotify Singles](https://open.spotify.com/album/3ALicRgy6brNAYjFQPOFli) | 2:31 |
 | 37 | [SUPERHÉROES](https://open.spotify.com/track/3qMpbW78QlPZM2bEdtD1YD) | [Beret](https://open.spotify.com/artist/0ZHPrnImGh4re3TbSNkoZl), [Mr.Rain](https://open.spotify.com/artist/59MLbXG0jLVwJup3KAd6m1) | [SUPERHÉROES](https://open.spotify.com/album/5GbT5hePpbTYqlx61G7ggt) | 3:20 |
-| 38 | [Me Enamoro](https://open.spotify.com/track/7JTqqfnDlXxkhtQnf4bsKp) | [Ana Mena](https://open.spotify.com/artist/6k8mwkKJKKjBILo7ypBspl) | [bellodrama](https://open.spotify.com/album/3Bk95OiIUpFX417h8OFnrb) | 2:44 |
-| 39 | [COBARDE](https://open.spotify.com/track/2IEhUsa1s1seGFAySt3zh7) | [Sofía Reyes](https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2), [Beéle](https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7) | [COBARDE](https://open.spotify.com/album/5OZzcXlWpCUFz5sNa09zy6) | 2:46 |
+| 38 | [Canción de pop](https://open.spotify.com/track/3rnQohmD9nBKD6mMX6QQJD) | [Funzo & Baby Loud](https://open.spotify.com/artist/1nwjHzOUQZsNYX8xoWiGVC) | [Canción de pop](https://open.spotify.com/album/0GonIhSgK1AuasYbr8xbYH) | 2:19 |
+| 39 | [Me Enamoro](https://open.spotify.com/track/7JTqqfnDlXxkhtQnf4bsKp) | [Ana Mena](https://open.spotify.com/artist/6k8mwkKJKKjBILo7ypBspl) | [bellodrama](https://open.spotify.com/album/3Bk95OiIUpFX417h8OFnrb) | 2:44 |
 | 40 | [RESPIRAR](https://open.spotify.com/track/4WSrc5DozzVTtZcGafsVvf) | [Juan Magán](https://open.spotify.com/artist/1ackd5XprZEkH3McKbQD51), [Miranda!](https://open.spotify.com/artist/2eEmsgWmUFMbtU7agJpnjY), [Uri](https://open.spotify.com/artist/1Sdn8kqQIdeQBjwMiwyNNN), [Rodridi](https://open.spotify.com/artist/6ASGA8HXm5wcYHk0dBteDv) | [RESPIRAR](https://open.spotify.com/album/2mdpPhNB6O4BDobUFxI7ai) | 2:25 |
 | 41 | [PIDE UN DESEO](https://open.spotify.com/track/1GBf0EYr9qC7KAPbrOHaf8) | [Enol](https://open.spotify.com/artist/5f7z2thkqWrA4vp5Hh476O) | [PIDE UN DESEO](https://open.spotify.com/album/62ClhtV0bdAzAJkvBGKx26) | 3:10 |
 | 42 | [Un Rato pa Siempre](https://open.spotify.com/track/3rEBrW8QTAq0lZiZX8LNBL) | [Lérica](https://open.spotify.com/artist/4d3kmfoZBTuUPSUjgP45uo), [El Taiger](https://open.spotify.com/artist/4PFgfReja3r59JaekHpeuf) | [Un Rato pa Siempre](https://open.spotify.com/album/6VkLEGEcb8GBrHPbpVC21m) | 2:43 |
@@ -58,8 +58,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3sCT1ItXgNd.md) - [plain]
 | 48 | [Si Supieran](https://open.spotify.com/track/0wpMKiXORO28u3C439Qj5C) | [Serko](https://open.spotify.com/artist/2mHURFmt3SwlrBWImZwYoq), [Dilas](https://open.spotify.com/artist/28UGYcxxUBg3GeQdTvi5t4) | [Si Supieran](https://open.spotify.com/album/0T8lt5lLQi5bB9s7yLQiFW) | 3:40 |
 | 49 | [Que se caiga el cielo](https://open.spotify.com/track/5hpOWFyKa1hvE5DnCoGV2A) | [Marlon](https://open.spotify.com/artist/1RTZXV2Txeij9hW1C88mfs) | [Que se caiga el cielo](https://open.spotify.com/album/3OS2rIj6cyb2K34ATaVh2t) | 3:47 |
 | 50 | [TE TRAJE FLORES](https://open.spotify.com/track/4SRojgjWd8Vqc40sicAEC8) | [Enol](https://open.spotify.com/artist/5f7z2thkqWrA4vp5Hh476O) | [TE TRAJE FLORES](https://open.spotify.com/album/4dzuTa3xJlpktfUcbp5i83) | 3:04 |
-| 51 | [iPHONE AZUL](https://open.spotify.com/track/5zLDQe46BgMWYeACNvW4Pv) | [Funzo & Baby Loud](https://open.spotify.com/artist/1nwjHzOUQZsNYX8xoWiGVC) | [iPHONE AZUL](https://open.spotify.com/album/4PyEEGtGEPCZwLlSjq5VEg) | 2:49 |
-| 52 | [de mi pa ti](https://open.spotify.com/track/5VUiGfYomtEI1dP8wDdQSW) | [Marc Seguí](https://open.spotify.com/artist/5FQ8tBUtIamA2hRtatrYUF) | [de mi pa ti](https://open.spotify.com/album/7gq4G8BuMxSeLAePv3r30l) | 3:26 |
+| 51 | [de mi pa ti](https://open.spotify.com/track/5VUiGfYomtEI1dP8wDdQSW) | [Marc Seguí](https://open.spotify.com/artist/5FQ8tBUtIamA2hRtatrYUF) | [de mi pa ti](https://open.spotify.com/album/7gq4G8BuMxSeLAePv3r30l) | 3:26 |
+| 52 | [iPHONE AZUL](https://open.spotify.com/track/5zLDQe46BgMWYeACNvW4Pv) | [Funzo & Baby Loud](https://open.spotify.com/artist/1nwjHzOUQZsNYX8xoWiGVC) | [iPHONE AZUL](https://open.spotify.com/album/4PyEEGtGEPCZwLlSjq5VEg) | 2:49 |
 | 53 | [Buffet](https://open.spotify.com/track/2B7QcLIE1VlnVwIeCGzR7V) | [Andrés Koi](https://open.spotify.com/artist/52nf6FtXCWlUMJP1GVhiN2) | [Buffet](https://open.spotify.com/album/0isPHpy36TvbD5vNeKKk5q) | 2:44 |
 
-Snapshot ID: `MCxkOGY4YjAxMjNjNzcyZDBhZDFiZGZiYzUzOWM4ZTEyMGEyYWNlYWI4`
+Snapshot ID: `MCxjNGNjYzVmYzE0NzhkYWFlNzdhNWFmOTRhNTMwZTdiY2I3ODQwZjQz`

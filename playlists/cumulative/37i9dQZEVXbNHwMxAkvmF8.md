@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Hungary.
 
-918 songs - 1 day 23 hr 58 min
+919 songs - 2 day 0 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -229,7 +229,7 @@
 | [egy kanapén](https://open.spotify.com/track/2K3Q6ESaFPoGjGnpjDnTJK) | [gyuris](https://open.spotify.com/artist/19w3KViMCX0eq1UjNic2W9) | [úton](https://open.spotify.com/album/6RuuMs24vFydEgnyX7nA61) | 3:06 | 2023-01-07 | 2023-01-09 |
 | [Egyedül \- Megb\*sztam ezt a kis gádzsit](https://open.spotify.com/track/7tSHeWlKv2nO5fFhLjRZWk) | [Bsw](https://open.spotify.com/artist/5Zwlr28h134D0OzxzUfVCA) | [Sex, Love, Rock & Roll](https://open.spotify.com/album/4GNuuLaPJMC3KPPn5laNva) | 3:27 | 2022-11-23 | 2022-11-28 |
 | [Egyedül \- Megb\*sztam ezt a kis gádzsit](https://open.spotify.com/track/7iH7aaTtLCZ9OdFkGAv7MB) | [Bsw](https://open.spotify.com/artist/5Zwlr28h134D0OzxzUfVCA) | [Egyedül \(Megb\*sztam ezt a kis gádzsit\)](https://open.spotify.com/album/2MWWqs5R9FC90KM60BJjoj) | 3:29 | 2022-02-18 | 2022-08-08 |
-| [El Barto](https://open.spotify.com/track/5HiMjc8jz0OeTnUQgp15FP) | [Azahriah](https://open.spotify.com/artist/6EIriUxo7vznEgJtTDlXpq), [DESH](https://open.spotify.com/artist/4dqqy9z09htrVsRiJpoQmw) | [El Barto](https://open.spotify.com/album/6rn3HMu7W4Wtii1Tven89X) | 2:58 | 2021-07-16 |  |
+| [El Barto](https://open.spotify.com/track/5HiMjc8jz0OeTnUQgp15FP) | [Azahriah](https://open.spotify.com/artist/6EIriUxo7vznEgJtTDlXpq), [DESH](https://open.spotify.com/artist/4dqqy9z09htrVsRiJpoQmw) | [El Barto](https://open.spotify.com/album/6rn3HMu7W4Wtii1Tven89X) | 2:58 | 2021-07-16 | 2023-10-18 |
 | [Elhagyott](https://open.spotify.com/track/0TbhapWcm8UxFS4wU27Ooa) | [Tóth Andi](https://open.spotify.com/artist/3jsS2HaBW5WphHabBDxtQu) | [Last album](https://open.spotify.com/album/1osdtqNJcPB5VLothrDKIp) | 2:39 | 2023-04-15 | 2023-05-18 |
 | [Eltaszít](https://open.spotify.com/track/1IFm1QxtgTNBoH862C2RkB) | [frendz](https://open.spotify.com/artist/46FikWa1LeRNYWghTarcKi), [Sofi](https://open.spotify.com/artist/6Ng4zfUKTRC1ZLMCQcsBrK), [Manuel](https://open.spotify.com/artist/3HLb9k75O3qP4GklxUGn7s) | [Eltaszít](https://open.spotify.com/album/58qXk031iAL5NoRmN6xfWF) | 3:18 | 2021-09-21 | 2022-02-12 |
 | [Elvonás](https://open.spotify.com/track/1ftdyZAgbz0y6MPO5uMYRv) | [Pogány Induló](https://open.spotify.com/artist/7JOS2dpikWR1qxVZfLbKju), [Ótvar Pestis](https://open.spotify.com/artist/1AyF8iJgMe4LMNe8bUM1Yo) | [Megáll Az Idő](https://open.spotify.com/album/5t7s3WL4RH53iFIJT5RPwg) | 1:51 | 2023-03-02 | 2023-03-12 |
@@ -846,6 +846,7 @@
 | [valami amerikai](https://open.spotify.com/track/4MQDC8hquSlvTBq8gMoPPo) | [Azahriah](https://open.spotify.com/artist/6EIriUxo7vznEgJtTDlXpq) | [valami amerikai](https://open.spotify.com/album/1bP0ww7Dq2vnYkzryXtet8) | 3:40 | 2023-09-27 |  |
 | [Valamiben](https://open.spotify.com/track/7zO3NJ7ZLzbVbPA1VRE4IV) | [ByeAlex és a Slepp](https://open.spotify.com/artist/2dmFGufs1lJpgKnb5NyPNS) | [Valamiben](https://open.spotify.com/album/17JPyIdvqw7SdzkFG7rHLk) | 2:56 | 2023-07-20 | 2023-07-29 |
 | [Valencia](https://open.spotify.com/track/7kIn3HrqM432chtEydQgMb) | [Tomi](https://open.spotify.com/artist/3T7cPgj4vAIoSdypl7cNH8), [VALMAR](https://open.spotify.com/artist/0EQbKeNi7GXjfN2LndmReh) | [Valencia](https://open.spotify.com/album/0sVF7F2neNBn9D3pRtqlH9) | 2:55 | 2023-09-24 |  |
+| [Valentino](https://open.spotify.com/track/2xUsq60SijcWEWzPDoh5cL) | [Mihályfi Luca](https://open.spotify.com/artist/0D6r3l2qcIowUMJ2Odb9ot), [Csoky](https://open.spotify.com/artist/6RmLQbwTEDQrpIveY6gqtV) | [Valentino](https://open.spotify.com/album/6hkPsrKhq8562TpqqqosVB) | 2:21 | 2023-10-17 |  |
 | [vampire](https://open.spotify.com/track/1kuGVB7EU95pJObxwvfwKS) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [GUTS](https://open.spotify.com/album/1xJHno7SmdVtZAtXbdbDZp) | 3:39 | 2023-09-09 | 2023-09-14 |
 | [vampire](https://open.spotify.com/track/3k79jB4aGmMDUQzEwa46Rz) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [vampire](https://open.spotify.com/album/5kqfR7EuGbyp8x27Pr1kY9) | 3:39 | 2023-07-01 | 2023-07-20 |
 | [Vezetői Engedély](https://open.spotify.com/track/0fY8YdsEhwdE2VdYc8tRlN) | [Carson Coma](https://open.spotify.com/artist/1q7g5SBAxtjizS3Vcof6Y6) | [Digitális/Analóg](https://open.spotify.com/album/3Esc3QxtrJhGTB1CWvl2sA) | 3:10 | 2022-03-12 | 2022-03-15 |

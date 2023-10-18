@@ -732,7 +732,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-18",
       "duration_ms": 158260,
       "name": "Characters",
       "url": "https://open.spotify.com/track/5b7BWs4nsatS4m72uaWRNi"
@@ -998,7 +998,7 @@
       ],
       "date_added": "2023-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-18",
       "duration_ms": 130434,
       "name": "DND",
       "url": "https://open.spotify.com/track/2jPpmBisn0pKsFyW6mGrIV"
@@ -1506,7 +1506,7 @@
       ],
       "date_added": "2023-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-18",
       "duration_ms": 211930,
       "name": "Gaadi Kaali",
       "url": "https://open.spotify.com/track/67RCAK7VJ9LPL1nKbO0lQM"
@@ -4135,6 +4135,28 @@
     },
     {
       "album": {
+        "name": "Tere Yaar Ne",
+        "url": "https://open.spotify.com/album/0QLNdHhsyM906pyniBfQTU"
+      },
+      "artists": [
+        {
+          "name": "Karan Randhawa",
+          "url": "https://open.spotify.com/artist/3mnR9SJ3hfV6EcrGKH44H9"
+        },
+        {
+          "name": "Deepak Dhillon",
+          "url": "https://open.spotify.com/artist/647Ivke8w05hNzKHs68ZSY"
+        }
+      ],
+      "date_added": "2023-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167240,
+      "name": "Tere Yaar Ne",
+      "url": "https://open.spotify.com/track/52W48mihhI2hsmlVkCsVGI"
+    },
+    {
+      "album": {
         "name": "Thaa",
         "url": "https://open.spotify.com/album/6u5RdRVp5HBStyPRWvHcgm"
       },
@@ -4553,6 +4575,36 @@
     },
     {
       "album": {
+        "name": "What's Beef (feat. Inderpal Moga)",
+        "url": "https://open.spotify.com/album/5yHCpPgd6ejBh3rHRZ5WSK"
+      },
+      "artists": [
+        {
+          "name": "AR Paisley",
+          "url": "https://open.spotify.com/artist/4CqzwlyoNSvoGeMk7NiMhd"
+        },
+        {
+          "name": "Chani Nattan",
+          "url": "https://open.spotify.com/artist/1sSYaQBOI71QZDZ9OWW3hp"
+        },
+        {
+          "name": "Jay Trak",
+          "url": "https://open.spotify.com/artist/47SaOSOqcrxSJNZUuqpLuu"
+        },
+        {
+          "name": "Inderpal Moga",
+          "url": "https://open.spotify.com/artist/4Lk9Mory8nRTolPO1TMMcN"
+        }
+      ],
+      "date_added": "2023-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160159,
+      "name": "What's Beef (feat. Inderpal Moga)",
+      "url": "https://open.spotify.com/track/08XzbojBXDW2GOGKQXt1ga"
+    },
+    {
+      "album": {
         "name": "Ghost",
         "url": "https://open.spotify.com/album/1d1FYLFpu2NITI6ilVaHDd"
       },
@@ -4638,7 +4690,7 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-18",
       "duration_ms": 131791,
       "name": "Who's Who",
       "url": "https://open.spotify.com/track/5w3Ali1DzhSM2EZXRdemJR"

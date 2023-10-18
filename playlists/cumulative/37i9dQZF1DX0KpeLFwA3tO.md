@@ -4,7 +4,7 @@
 
 > The best new music from the wide world of punk\. Cover: Free Throw
 
-1,382 songs - 2 day 21 hr 1 min
+1,383 songs - 2 day 21 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -989,7 +989,8 @@
 | [respawn.](https://open.spotify.com/track/6N54fTcYiQH3gSoFChO7NS) | [LATE 90s](https://open.spotify.com/artist/6nm6POBqf0Jt9TDorqIrAJ) | [respawn.](https://open.spotify.com/album/6HKEsegEdDUp45zIn3OPAr) | 2:55 | 2023-08-24 | 2023-10-13 |
 | [Reverse the Curse](https://open.spotify.com/track/0618dwZ3KXzP71tuGsVhq0) | [Alexisonfire](https://open.spotify.com/artist/53RsXctnNmj9oKXvcbvzI2) | [Reverse the Curse](https://open.spotify.com/album/5IlyN5Kvcomt1cR5Kv43Oo) | 3:54 | 2022-04-21 | 2022-06-03 |
 | [Riddley Scott Walker](https://open.spotify.com/track/3Gt4U6B3TcaR93j7IE844s) | [JOHN \(TIMESTWO\)](https://open.spotify.com/artist/1zeT022vOyMGqBCTSs9qiI) | [Riddley Scott Walker](https://open.spotify.com/album/7AHvFHz9RhgaLVAGJZbdlB) | 3:31 | 2023-08-24 | 2023-09-22 |
-| [ring in ur ear](https://open.spotify.com/track/0pQudbYpkDgp5NvivZeTTy) | [HUNNY](https://open.spotify.com/artist/5rebfYbZVIhbRVcRKWVOAh), [Motion City Soundtrack](https://open.spotify.com/artist/19zqV9DV3txjMUjHvltl2D) | [ring in ur ear](https://open.spotify.com/album/6FJfmpnSI7zEuAlWYRR0kT) | 3:18 | 2023-10-06 |  |
+| [ring in ur ear](https://open.spotify.com/track/0pQudbYpkDgp5NvivZeTTy) | [HUNNY](https://open.spotify.com/artist/5rebfYbZVIhbRVcRKWVOAh), [Motion City Soundtrack](https://open.spotify.com/artist/19zqV9DV3txjMUjHvltl2D) | [ring in ur ear](https://open.spotify.com/album/6FJfmpnSI7zEuAlWYRR0kT) | 3:18 | 2023-10-06 | 2023-10-18 |
+| [ring in ur ear](https://open.spotify.com/track/2iWGSNrMCPAebDQ78YmHGt) | [HUNNY](https://open.spotify.com/artist/5rebfYbZVIhbRVcRKWVOAh), [Motion City Soundtrack](https://open.spotify.com/artist/19zqV9DV3txjMUjHvltl2D) | [new planet heaven](https://open.spotify.com/album/2yLcWY0KENr1OAQ7ZAL7vD) | 3:18 | 2023-10-13 |  |
 | [Riot](https://open.spotify.com/track/04ozu87GNHVPVgd8qhBUJU) | [Daisy Grenade](https://open.spotify.com/artist/3Pj6dfWTnH3sYHctX0EZMH) | [Cult Classic](https://open.spotify.com/album/4ktqy9EW0cDMzcJjLguyk3) | 2:17 | 2023-06-22 | 2023-09-02 |
 | [Rip It Out](https://open.spotify.com/track/6FPIh5TqPtYNFUbNN4aJ4R) | [HotWax](https://open.spotify.com/artist/237mvWGlQNJJhc9b8pSawZ) | [Rip It Out](https://open.spotify.com/album/5jJ05vdKJTQCd6QMsevIEg) | 3:15 | 2023-05-18 | 2023-07-14 |
 | [Rise](https://open.spotify.com/track/4tHLpL9O5fxa2scH2yXNvb) | [Nuha Ruby Ra](https://open.spotify.com/artist/6tqTRVcajCVWmibmempM9m) | [Machine Like Me](https://open.spotify.com/album/4x2GpmhAYeqG0kQ6mkHt76) | 5:39 | 2023-03-17 | 2023-05-05 |

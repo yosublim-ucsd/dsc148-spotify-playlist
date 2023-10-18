@@ -4,7 +4,7 @@
 
 > The magical world map! Play it in shuffle ☀️
 
-2,136 songs - 6 day 0 hr 14 min
+2,137 songs - 6 day 0 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1360,7 +1360,8 @@
 | [Mista President](https://open.spotify.com/track/3SZ0jVBSzaRSL3YLm3xtfr) | [The Souljazz Orchestra](https://open.spotify.com/artist/0MiCOT2cVYso39XSskiUUo) | [Freedom No Go Die](https://open.spotify.com/album/5HFMttSfbbtCfipgHRB6DJ) | 6:36 | 2022-07-12 | 2022-07-29 |
 | [Mista President \(Remastered\)](https://open.spotify.com/track/5pQ677KR8eS6U4jUd6OJUY) | [The Souljazz Orchestra](https://open.spotify.com/artist/0MiCOT2cVYso39XSskiUUo) | [Freedom No Go Die \(Remastered\)](https://open.spotify.com/album/70j8zJSXZm56lTCwAcwgh3) | 6:36 | 2022-07-27 |  |
 | [Misterioso](https://open.spotify.com/track/6qzCGtAi9QO0z8Zgp9YF1y) | [Etoile De Dakar](https://open.spotify.com/artist/0ZEIBXEWSSTDLhheAO9Wyk) | [Star Band de Dakar: Psicodelia Afro\-Cubana de Senegal](https://open.spotify.com/album/0bjOzinhlC7MLmkB2VChey) | 4:33 | 2022-07-12 |  |
-| [Mitamiyo](https://open.spotify.com/track/2q9SWGXBh3VE7ZmERLEbYS) | [Mendes & Mendes](https://open.spotify.com/artist/4Bh3bsbrB7fnChSdZZEHvf) | [Mendes & Mendes](https://open.spotify.com/album/4UqjJ3DpAQRa78hPNJhqB4) | 5:29 | 2022-06-09 |  |
+| [Mitamiyo](https://open.spotify.com/track/6xGWndvNAR8wgpSiyPy9OH) | [Mendes & Mendes](https://open.spotify.com/artist/4Bh3bsbrB7fnChSdZZEHvf) | [Radio Verde \(Compiled by Arp Frique & Americo Brito\)](https://open.spotify.com/album/1rNRvenOKQOzgjXme9O6s9) | 5:25 | 2023-10-06 |  |
+| [Mitamiyo](https://open.spotify.com/track/2q9SWGXBh3VE7ZmERLEbYS) | [Mendes & Mendes](https://open.spotify.com/artist/4Bh3bsbrB7fnChSdZZEHvf) | [Mendes & Mendes](https://open.spotify.com/album/4UqjJ3DpAQRa78hPNJhqB4) | 5:29 | 2022-06-09 | 2023-10-18 |
 | [Mitote](https://open.spotify.com/track/0zvroenSiNJjuociuVDlVE) | [Cochemea](https://open.spotify.com/artist/5Kv477c3fjT3ifEOm1Kh0A) | [All My Relations](https://open.spotify.com/album/6zsgLiL7S1vbqmKX0uJvUH) | 3:33 | 2022-07-27 | 2023-04-30 |
 | [Mitote](https://open.spotify.com/track/29gMQnQMV6Q2rVS6rgjjRh) | [Cochemea](https://open.spotify.com/artist/5Kv477c3fjT3ifEOm1Kh0A) | [All My Relations](https://open.spotify.com/album/6nAsIGnrUrYrOojbveDfH9) | 3:33 | 2023-03-17 |  |
 | [Mitote](https://open.spotify.com/track/4JHlp5SIDqhgEkzEN3AU4m) | [Cochemea](https://open.spotify.com/artist/5Kv477c3fjT3ifEOm1Kh0A) | [All My Relations](https://open.spotify.com/album/70Zipd63VKhmjY3yKDQi45) | 3:33 | 2022-06-09 | 2022-07-29 |

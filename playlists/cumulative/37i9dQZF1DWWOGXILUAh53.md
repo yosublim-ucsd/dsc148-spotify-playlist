@@ -4,7 +4,7 @@
 
 > The hottest new pop with all the drops\. Cover: Rita Ora
 
-725 songs - 1 day 11 hr 52 min
+726 songs - 1 day 11 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -295,7 +295,7 @@
 | [I Hope That It Hurts](https://open.spotify.com/track/7xi3mpdF9tC1SLrbkossDu) | [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg), [Norma Jean Martine](https://open.spotify.com/artist/2fsk4VlJdNF6G8cCMDrrzB) | [I Hope That It Hurts](https://open.spotify.com/album/46qNOQ9GrhScSpo6JStrck) | 2:40 | 2022-08-12 | 2022-10-15 |
 | [I Just Want Your Touch](https://open.spotify.com/track/6HZAjfGnfhrly4dI23vjOH) | [Jolyon Petch](https://open.spotify.com/artist/00Ja3YjvU4DYCHWt6cPs42), [Starley](https://open.spotify.com/artist/02A3cEvlLLCbIMVDrK2GHV) | [I Just Want Your Touch](https://open.spotify.com/album/5D0gIehKqW8DqGlr3l9oLc) | 2:56 | 2022-08-19 | 2022-11-19 |
 | [I like u](https://open.spotify.com/track/7H6TvLL3dyoY2XtrUKp3wK) | [Tove Lo](https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK) | [I like u](https://open.spotify.com/album/4CD20ta8qwSZV5iqSDzo7w) | 3:10 | 2023-06-02 | 2023-08-19 |
-| [I Love Hollywood!](https://open.spotify.com/track/2Pjv8xp8CKSQRR57s17mHN) | [Slayyyter](https://open.spotify.com/artist/4QM5QCHicznALtX885CnZC) | [STARFUCKER](https://open.spotify.com/album/5sjBJH8HZKiBGEa4guEHcL) | 3:04 | 2023-09-22 |  |
+| [I Love Hollywood!](https://open.spotify.com/track/2Pjv8xp8CKSQRR57s17mHN) | [Slayyyter](https://open.spotify.com/artist/4QM5QCHicznALtX885CnZC) | [STARFUCKER](https://open.spotify.com/album/5sjBJH8HZKiBGEa4guEHcL) | 3:04 | 2023-09-22 | 2023-10-18 |
 | [I Love The Weekend](https://open.spotify.com/track/0j8EuXcXXZq2NIhNhRxhja) | [Betta Lemme](https://open.spotify.com/artist/1WZLagiBdNltn918sr8kkw) | [Ready For The Weekend EP](https://open.spotify.com/album/7Msjq8szWdR6aPvrs5QZeD) | 2:42 | 2021-11-12 | 2022-01-22 |
 | [I Love U](https://open.spotify.com/track/3MJE5DoCeAWP7cDbW9Hgm5) | [The Chainsmokers](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp) | [So Far So Good](https://open.spotify.com/album/1CxCEPIZbaE28qUDW4wN0t) | 3:05 | 2022-05-13 | 2022-05-18 |
 | [I Remember](https://open.spotify.com/track/5e2ZOmiFEAOFEgXNj1mHEk) | [Cheat Codes](https://open.spotify.com/artist/7DMveApC7UnC2NPfPvlHSU), [Russell Dickerson](https://open.spotify.com/artist/1E2AEtxaFaJtH0lO7kgNKw) | [I Remember](https://open.spotify.com/album/2sb91FS5wPmcPf1GSgeAwF) | 2:48 | 2022-08-26 | 2022-12-24 |
@@ -408,6 +408,7 @@
 | [Miss U More Than U Know \(with R3HAB\)](https://open.spotify.com/track/7s61Kg0qZhhFj5MQW7DDIB) | [Sofia Carson](https://open.spotify.com/artist/7bp2lSdh12wcA8LyB1srfJ), [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ) | [Miss U More Than U Know \(with R3HAB\)](https://open.spotify.com/album/2bl8B6G1wit5BFNtAwkX51) | 2:36 | 2021-12-03 | 2022-04-23 |
 | [Miss You](https://open.spotify.com/track/73vIOb4Q7YN6HeJTbscRx5) | [Oliver Tree](https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe), [Robin Schulz](https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S) | [Miss You](https://open.spotify.com/album/32G4vFNwLJQjpzkOoGEUUo) | 3:26 | 2022-10-14 | 2022-12-24 |
 | [MONEY ON THE DASH](https://open.spotify.com/track/1p0jBDjxORjYNJyAphBRpE) | [Elley Duhé](https://open.spotify.com/artist/67MNhiAICFY6Pwc2YxCO0K), [Whethan](https://open.spotify.com/artist/0vqJkZ0RpLZixt3lTmD8vP) | [MONEY ON THE DASH](https://open.spotify.com/album/1nlaLDMPSzXL8G5LPBDhwd) | 2:25 | 2023-01-20 | 2023-06-03 |
+| [Monster \- Spotify Singles](https://open.spotify.com/track/2EYDqen8Pftl3ENvqOs6fE) | [Slayyyter](https://open.spotify.com/artist/4QM5QCHicznALtX885CnZC) | [Monster \(Spotify Singles\)](https://open.spotify.com/album/62iTVhERPubeRu59a3HRqF) | 3:57 | 2023-10-17 |  |
 | [Moonlight](https://open.spotify.com/track/5QWWWBAkC6sDuCLlKubuYi) | [Madison Rose](https://open.spotify.com/artist/4XgL05GiIZGJev3EwBnbsE) | [TECHNICOLOR](https://open.spotify.com/album/1B65FjcrhMSeAK719d2Jz2) | 3:10 | 2022-05-27 | 2022-11-12 |
 | [more than friends](https://open.spotify.com/track/3QwlKiTMoOzXvOpzvCMUH6) | [Isabel LaRosa](https://open.spotify.com/artist/5arKwJZEvT5uKq4o0JfqR4) | [YOU FEAR THE GOD THAT LOVES YOU](https://open.spotify.com/album/3O0sAN2kHcVQ5QqfQL8cyB) | 2:27 | 2023-03-24 | 2023-05-20 |
 | [More Than Yesterday \(feat\. Russell Dickerson\)](https://open.spotify.com/track/0VNb0HzD2oxJ9zyRbv7xFH) | [Two Friends](https://open.spotify.com/artist/44Ewva5aHOX00EwaX2D2mh), [Russell Dickerson](https://open.spotify.com/artist/1E2AEtxaFaJtH0lO7kgNKw) | [More Than Yesterday \(feat\. Russell Dickerson\)](https://open.spotify.com/album/4Guul13nGTNGzV05VTMwqC) | 3:07 | 2023-05-12 | 2023-06-24 |

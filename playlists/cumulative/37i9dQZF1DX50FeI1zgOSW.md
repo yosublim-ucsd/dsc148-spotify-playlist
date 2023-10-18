@@ -4,7 +4,7 @@
 
 > Featuring up\-and\-coming Tamil artists from the Indie scene<br/>Cover : Martin Kartenjer
 
-154 songs - 8 hr 46 min
+155 songs - 8 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -148,6 +148,7 @@
 | [Tiku Tiku](https://open.spotify.com/track/2zkaNq1IKAMj6ZJtrnJ8QS) | [Kaviisai Vallavan](https://open.spotify.com/artist/0Eour79zyRHEZLexWRu2Z3), [Semma Beatz](https://open.spotify.com/artist/4tsBTuI0pVEH7tcFVf2AT0) | [Tiku Tiku](https://open.spotify.com/album/6RgQLkX8shhcr54Ptc2lJ0) | 2:33 | 2023-08-31 | 2023-10-07 |
 | [Un Kaadhalaal \(From "MM Originals"\) \(Original Soundtrack\)](https://open.spotify.com/track/5jXXPxjxHz3jElEhThuf4h) | [Santhosh Balaji](https://open.spotify.com/artist/3DvjtASVI8Czc44WMEn3js), [Amina Rafiq](https://open.spotify.com/artist/5MeaQZAAyaP41gzU4FOGMu), [Aravind Karneeswaran](https://open.spotify.com/artist/6WhCmwXKt1znjtpjt9Xcvi), [Ziya Hadhijath](https://open.spotify.com/artist/1sxG5QLaWGQgod5F65vloL) | [Un Kaadhalaal \(From "MM Originals"\) \(Original Soundtrack\)](https://open.spotify.com/album/1hVP6zvpF7uwYodfGhy3os) | 3:44 | 2023-08-04 |  |
 | [Unakae](https://open.spotify.com/track/7BWRT8MEZc1jlwuDHvpmnN) | [Prasad S.N](https://open.spotify.com/artist/1deQgLe6eU8iiEwkRZDdc4), [Reshma Shyam](https://open.spotify.com/artist/6gLyEME6OfBcqYtrDt1JlB) | [Unakae](https://open.spotify.com/album/2F9itCoOPrrMvj18OiDr6F) | 3:37 | 2023-09-08 |  |
+| [Unnai Arindhen](https://open.spotify.com/track/0Ftrt53lcsdxMuEpKBOqUE) | [Manoj Krishna](https://open.spotify.com/artist/6QtC2T2DmsEmFBQHkP1YkM), [Rashmi Anand](https://open.spotify.com/artist/3fiP4MnI0ghnBS61q1VK7T) | [Unnai Arindhen](https://open.spotify.com/album/3q0Hlndf5sExAByNRrMruK) | 3:01 | 2023-10-17 |  |
 | [Vaa Poola](https://open.spotify.com/track/6dv0QIadLzgOYN2KY3ScAt) | [JAXK](https://open.spotify.com/artist/534u9oSsp7SDPju0QdH9wq) | [Vaa Poola](https://open.spotify.com/album/5zmj9MOy7GegpfEyoivwcv) | 2:35 | 2023-05-08 | 2023-07-25 |
 | [Vaadi Nenjukulla](https://open.spotify.com/track/38n3uNqlKbqSVfMUmRgi08) | [Ajees](https://open.spotify.com/artist/0KmDf97GDps7NgF7TXFrO1), [John Robins](https://open.spotify.com/artist/4vrGxEyhSmRkywIlWp8Xqc) | [Vaadi Nenjukulla](https://open.spotify.com/album/4w8PnoaGOk64ocgSLKl9sW) | 4:10 | 2023-08-11 |  |
 | [Vaanam Ellaye](https://open.spotify.com/track/5jNV9LJs8MeaN8d5sO4Fes) | [John Kennady](https://open.spotify.com/artist/3o6tDaMkBF30McTajB5d3W) | [Vaanam Ellaye](https://open.spotify.com/album/6ehc5mD4YXCrWpJYNpnXFy) | 3:30 | 2023-04-03 | 2023-06-24 |

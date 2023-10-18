@@ -941,6 +941,24 @@
     },
     {
       "album": {
+        "name": "Black Eye",
+        "url": "https://open.spotify.com/album/5va7T2m57yj457ywVCRo93"
+      },
+      "artists": [
+        {
+          "name": "Allie X",
+          "url": "https://open.spotify.com/artist/0wnYgCeP013HkKoOyC5V32"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272796,
+      "name": "Black Eye",
+      "url": "https://open.spotify.com/track/28GReZcMRd0N2Ns1bJ3HzR"
+    },
+    {
+      "album": {
         "name": "Black Hole",
         "url": "https://open.spotify.com/album/4LuctFz5ZmuGWKhIetADRr"
       },
@@ -1904,7 +1922,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-18",
       "duration_ms": 162066,
       "name": "Crashland",
       "url": "https://open.spotify.com/track/2niHo9G2lJz09Rt5tAFwTp"
@@ -2788,7 +2806,7 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-18",
       "duration_ms": 143618,
       "name": "Erotic Electronic",
       "url": "https://open.spotify.com/track/0TEoYWl2RLGbmsbB2Aoaa4"
@@ -3944,10 +3962,28 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-18",
       "duration_ms": 198448,
       "name": "Got Me Started",
       "url": "https://open.spotify.com/track/2Rn2ocU7jk8BqFoh6zwf1Y"
+    },
+    {
+      "album": {
+        "name": "Something To Give Each Other",
+        "url": "https://open.spotify.com/album/5UcGyEltve5psjxSRsHx8E"
+      },
+      "artists": [
+        {
+          "name": "Troye Sivan",
+          "url": "https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198448,
+      "name": "Got Me Started",
+      "url": "https://open.spotify.com/track/31MNHKE86sEXzIglbGQ6mu"
     },
     {
       "album": {
@@ -4762,6 +4798,24 @@
       "duration_ms": 180266,
       "name": "I F*cking Love You",
       "url": "https://open.spotify.com/track/7lYjepjDeboEus0v2nSqu5"
+    },
+    {
+      "album": {
+        "name": "i feel like crying",
+        "url": "https://open.spotify.com/album/06wNk8U8HI4EUcUEYPbDBf"
+      },
+      "artists": [
+        {
+          "name": "44phantom",
+          "url": "https://open.spotify.com/artist/1vwwjIPFeYoRfAUCqqO6cZ"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157080,
+      "name": "i feel like crying",
+      "url": "https://open.spotify.com/track/1ADARW8WLk5DuZQcPXc57Z"
     },
     {
       "album": {
@@ -6501,6 +6555,24 @@
     },
     {
       "album": {
+        "name": "Monster (Spotify Singles)",
+        "url": "https://open.spotify.com/album/62iTVhERPubeRu59a3HRqF"
+      },
+      "artists": [
+        {
+          "name": "Slayyyter",
+          "url": "https://open.spotify.com/artist/4QM5QCHicznALtX885CnZC"
+        }
+      ],
+      "date_added": "2023-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237989,
+      "name": "Monster - Spotify Singles",
+      "url": "https://open.spotify.com/track/2EYDqen8Pftl3ENvqOs6fE"
+    },
+    {
+      "album": {
         "name": "YOU FEAR THE GOD THAT LOVES YOU",
         "url": "https://open.spotify.com/album/3O0sAN2kHcVQ5QqfQL8cyB"
       },
@@ -6808,7 +6880,7 @@
       ],
       "date_added": "2023-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-18",
       "duration_ms": 202160,
       "name": "Nicer",
       "url": "https://open.spotify.com/track/2OtR9U0vsPfTeuVnvGRdo8"
@@ -7198,6 +7270,24 @@
       "duration_ms": 137778,
       "name": "older",
       "url": "https://open.spotify.com/track/75c2zaSdDBSX0A8Jyvm4fO"
+    },
+    {
+      "album": {
+        "name": "Something To Give Each Other",
+        "url": "https://open.spotify.com/album/5PsQkSZdGgr9jnuSKzSi5s"
+      },
+      "artists": [
+        {
+          "name": "Troye Sivan",
+          "url": "https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181481,
+      "name": "One Of Your Girls",
+      "url": "https://open.spotify.com/track/1Fav4xZn60uGM3XmiHJmvT"
     },
     {
       "album": {
@@ -8572,7 +8662,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-18",
       "duration_ms": 183861,
       "name": "So Hot You're Hurting My Feelings",
       "url": "https://open.spotify.com/track/5B6Kjha6RRIMWGN7zGsAaT"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZSDaI0ox0Nq.md) - [plain]
 
 > Mujeres que escriben la historia del Tango\. Foto: Julieta Laso.
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,391 likes - 55 songs - 3 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,400 likes - 55 songs - 3 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,4 +64,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZSDaI0ox0Nq.md) - [plain]
 | 54 | [La canción de Buenos Aires](https://open.spotify.com/track/4t2Ow4sdp8p8OVfpu2e1Ey) | [Azucena Maizani](https://open.spotify.com/artist/0B2RE6SzZ4QsCRkl1nMz1n), [Nelly Omar](https://open.spotify.com/artist/6IyGH3tMgXudiE41XE6Y8f), [Orestes Cufaro](https://open.spotify.com/artist/3WXc29391Id6Tmh37E7gdm) | [Vintage Argentine Tangos \(1928 \- 1954\), Vol\. 2](https://open.spotify.com/album/4anYze0tSqlzugbsDrbcAz) | 2:45 |
 | 55 | [Nunca Tuvo Novio](https://open.spotify.com/track/2zaCDm7hyv35FUxA2nGueu) | [Rita Cortese](https://open.spotify.com/artist/6tWIoufIHPpvUk8NEiwwp3) | [El Amor Ese Loco Berretin](https://open.spotify.com/album/7rzG340MhMBiAhIdCGiZdj) | 3:38 |
 
-Snapshot ID: `MCw2OTcwMDI5MzY1MzBmMDdmYWE3YTBiNjY0ODYwZjc0NTIzODhkNmQ4`
+Snapshot ID: `MCxhZTA0MGI1YTg0NmU3MjlhNzRhN2E4MDQ0YWY1MmY4NzE4ZWY4OTFh`

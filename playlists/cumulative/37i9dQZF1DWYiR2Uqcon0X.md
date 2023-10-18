@@ -4,7 +4,7 @@
 
 > The Country Coffeehouse is open! Grab a cup and lean back to some low\-key country.
 
-122 songs - 7 hr 24 min
+123 songs - 7 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -96,6 +96,7 @@
 | [St\. Louis](https://open.spotify.com/track/6Sd0b842UWw6WrZ9Kf4lF5) | [David Nail](https://open.spotify.com/artist/4DZGvSv2oMkBUnPz67E6z6) | [St\. Louis](https://open.spotify.com/album/60cDIqNOMARdhyDdoc4oU3) | 4:34 | 2021-10-08 | 2022-07-29 |
 | [Suitcase Heart](https://open.spotify.com/track/2gc3SzQnjK11ToTGbQHqli) | [Tyler Cain](https://open.spotify.com/artist/7xmVA0jnh2yjM3S642J1Bd) | [Suitcase Heart](https://open.spotify.com/album/6Dmyz5XQEUBvtHMO2E6AfC) | 2:44 | 2021-04-30 | 2022-07-29 |
 | [Suitcase Heart](https://open.spotify.com/track/49pwoHqxTI3xI52w883fkO) | [Tyler Cain](https://open.spotify.com/artist/7xmVA0jnh2yjM3S642J1Bd) | [This Is All There Is, Vol\. 1](https://open.spotify.com/album/6LZ2ATHpoFHve0CvBwHb4v) | 2:44 | 2021-04-30 | 2022-11-13 |
+| [Suitcase Heart](https://open.spotify.com/track/4GpT0HK2Gwuu4qiNlWW78L) | [Tyler Cain](https://open.spotify.com/artist/7xmVA0jnh2yjM3S642J1Bd) | [This Is All There Is, Vol\. 1](https://open.spotify.com/album/5kgGb6g5RjjB3n1F04eOvq) | 2:44 | 2023-09-22 |  |
 | [Sunday Best \(Acoustic\)](https://open.spotify.com/track/3vqPa56C3wzRFjGZMprVr4) | [Smithfield](https://open.spotify.com/artist/1aPmWgDU4JXEWg1d2BwH5M) | [Sunday Best \(Acoustic\)](https://open.spotify.com/album/3AoKAkeiqbsUAolQLEPlL5) | 2:47 | 2021-04-30 | 2022-07-29 |
 | [Sunday Best \- Acoustic](https://open.spotify.com/track/05MAs5o6TxAmADc3JJmkv9) | [Smithfield](https://open.spotify.com/artist/1aPmWgDU4JXEWg1d2BwH5M) | [Sunday Best \(Acoustic\)](https://open.spotify.com/album/59oCat0Wfu0qZyUV1AqcA4) | 2:47 | 2021-04-30 |  |
 | [Sunday Drive](https://open.spotify.com/track/2TIdEu4aruzo33MTEUDGcf) | [Brett Eldredge](https://open.spotify.com/artist/0qSX3s5pJnAlSsgsCne8Cz) | [Sunday Drive](https://open.spotify.com/album/5am18BIdjp6lOvt9KjKbSd) | 4:53 | 2021-04-30 |  |
@@ -117,7 +118,7 @@
 | [Waves \(Live\)](https://open.spotify.com/track/1W1o7dl3G44SlN07pNNFFf) | [Sarah Darling](https://open.spotify.com/artist/4WCpgJFxAdAsm4FSD9CAfX) | [Live from Layman](https://open.spotify.com/album/15VQUz44I4pCUmf0QEQ0lL) | 4:20 | 2022-08-26 | 2022-08-30 |
 | [what do i](https://open.spotify.com/track/2LTKYNBYZMOcyQNtRXUUxl) | [Emily James](https://open.spotify.com/artist/7FxEy78P0oIVEVxdaL9npy) | [what do i](https://open.spotify.com/album/0ohO8xT0avwVSfMqaOzoMq) | 3:43 | 2021-04-30 | 2022-07-29 |
 | [what do i](https://open.spotify.com/track/2qG34SPqlVutAZwWe3q6iF) | [Emily James](https://open.spotify.com/artist/7FxEy78P0oIVEVxdaL9npy) | [Moments that mattered](https://open.spotify.com/album/4fjTSlU3zj9tH4Doq38C3S) | 3:43 | 2021-04-30 | 2022-10-13 |
-| [what do i](https://open.spotify.com/track/2rtdxI8tTfBfPk6D28YSUv) | [Emily James](https://open.spotify.com/artist/7FxEy78P0oIVEVxdaL9npy) | [Moments that mattered](https://open.spotify.com/album/1FFVMjftTGqNyNGkDBMOaS) | 3:43 | 2022-10-12 |  |
+| [what do i](https://open.spotify.com/track/2rtdxI8tTfBfPk6D28YSUv) | [Emily James](https://open.spotify.com/artist/7FxEy78P0oIVEVxdaL9npy) | [Moments that mattered](https://open.spotify.com/album/1FFVMjftTGqNyNGkDBMOaS) | 3:43 | 2022-10-12 | 2023-10-18 |
 | [WHAT I HAVE](https://open.spotify.com/track/3MAsvuKpI0k45dWmaYKSnl) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF) | [WHAT I HAVE](https://open.spotify.com/album/6oWk4jEBd7ndcZDHFvzxAC) | 2:58 | 2022-09-02 |  |
 | [Where the Heart Is](https://open.spotify.com/track/4qaBHFw6eN6Oxa7gBXOvxv) | [Brett Eldredge](https://open.spotify.com/artist/0qSX3s5pJnAlSsgsCne8Cz) | [Sunday Drive](https://open.spotify.com/album/5am18BIdjp6lOvt9KjKbSd) | 4:07 | 2021-04-30 |  |
 | [Where You Are \- Acoustic](https://open.spotify.com/track/4OrDWRw53W0rp1Lps64OFb) | [Tenille Townes](https://open.spotify.com/artist/3TyeX0lk4B7k56ukfzEE0z) | [Living Room Worktapes](https://open.spotify.com/album/4tqIQcOp7So49ZKF4Mzvp3) | 4:03 | 2021-04-30 |  |

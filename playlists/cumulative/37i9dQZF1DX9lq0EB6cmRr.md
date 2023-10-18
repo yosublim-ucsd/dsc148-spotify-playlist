@@ -2,9 +2,9 @@
 
 ### [K:lassical](https://open.spotify.com/playlist/37i9dQZF1DX9lq0EB6cmRr)
 
-> Listen hot and new Korean classical & new age  music in here! \(Cover: Yekwon Sunwoo\(선우예권\)\) 한국 클래식 음악 핫 & 최신 트랙들을 만나보세요!
+> Listen hot and new Korean classical & new age  music in here! \(Cover: Kim Jeong Won\(김정원\)\) 한국 클래식 음악 핫 & 최신 트랙들을 만나보세요!
 
-92 songs - 7 hr 40 min
+93 songs - 7 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,6 +17,7 @@
 | [Ave Maria "Tanti anni prima" \(Arr\. for Violin and Piano by Cho Yoonseung\)](https://open.spotify.com/track/6M1P67H2GXqqhEb5XbQLob) | [Astor Piazzolla](https://open.spotify.com/artist/7dsugSamBB7enWE2IrlbFg), [대니 구\(Danny Koo\)](https://open.spotify.com/artist/4M76P0tK97Ia9zTOz8wWOn) | [Connected](https://open.spotify.com/album/1omw0PdB8y3wQpPffwWDMw) | 4:49 | 2023-09-13 |  |
 | [Bach: Arioso \(Arr\. Cortot After Harpsichord Concerto No\. 5 in F Minor, BWV 1056\)](https://open.spotify.com/track/5xfujtIVvNc4ieq441J8NJ) | [Johann Sebastian Bach](https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408), [Dong Hyek Lim](https://open.spotify.com/artist/3Iu4Pq63V1WcBWrNNthgPP) | [Bach: Arioso \(Arr\. Cortot After Harpsichord Concerto No\. 5 in F Minor, BWV 1056\)](https://open.spotify.com/album/4HgNY10OgAjf7mKvcLPRDA) | 2:54 | 2023-09-13 |  |
 | [Ballade No\. 3 in A Flat Major, Op\. 47](https://open.spotify.com/track/6J1aj3bVh1cEgMniGSGRGZ) | [Frédéric Chopin](https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4), [Seong\-Jin Cho](https://open.spotify.com/artist/1p0J5PXJQMVqk5uVV4T1ja) | [Chopin \- Winter Vibes](https://open.spotify.com/album/7nGjRnha8kq63mnUGQx9sj) | 7:49 | 2023-09-13 |  |
+| [Barcarolle in F\-Sharp Major, Op\. 60](https://open.spotify.com/track/4D5c2O7jJiKMk0e2csRWrH) | [Frédéric Chopin](https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4), [Julius\-Jeongwon Kim](https://open.spotify.com/artist/3O1hTgR3rPbh2wf8Qq0N01) | [Chopin's Last Piano Works](https://open.spotify.com/album/5HhegDEp8Pp7nlaptGL5Hn) | 8:22 | 2023-10-17 |  |
 | [Black Mamba \- Orchestra Version](https://open.spotify.com/track/7y4hxkpH5y72ajZW6aei1x) | [Seoul Philharmonic Orchestra](https://open.spotify.com/artist/4jeL1MqtTmuyNb04ZuzGR7) | [Black Mamba \(Orchestra Version\)](https://open.spotify.com/album/7raxRqTuTKeGvd4faGxkFO) | 4:50 | 2023-09-13 |  |
 | [Blooming](https://open.spotify.com/track/3CHPzAuqAM2UBSSN42RSW3) | [Hong Jin Ho](https://open.spotify.com/artist/7tcubelUDbviHoBqVGeEQ3) | [Modern Cello](https://open.spotify.com/album/4ofOUfKLp3RsIH9fdpgXL4) | 3:04 | 2023-09-13 |  |
 | [Blossom of Flower](https://open.spotify.com/track/5Li6TVmxOA4k7LEpxKU3Um) | [Hyungjoo Lim](https://open.spotify.com/artist/7pvsiQmwTwKk08q7IIxAcG) | [Lost In Memory](https://open.spotify.com/album/4rGJEKeExXYuP5lCajYPwj) | 4:09 | 2023-09-13 |  |

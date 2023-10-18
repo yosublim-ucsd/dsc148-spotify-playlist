@@ -2,7 +2,7 @@
 
 ### [Fresh Finds Türkiye](https://open.spotify.com/playlist/37i9dQZF1DX1RLKir9EDRO)
 
-> Bağımsız yerli sahneden en taze keşifler\. Kapak: M Lisa
+> Bağımsız yerli sahneden en taze keşifler\. Kapak: Serenad Bayraktar
 
 475 songs - 1 day 3 hr 21 min
 

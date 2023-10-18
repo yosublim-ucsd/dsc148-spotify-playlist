@@ -1,12 +1,12 @@
 {
   "description": "K'ID = Korean ID. Welcome to the K-Rock anthem! (Cover: Xdinary Heros) (\ud56b\ud55c \uad6d\ub0b4 \ub85d \uc74c\uc545\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!)",
-  "num_followers": 225763,
+  "num_followers": 225818,
   "original_name": "Cool K'IDs Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzZjA5M2Y1MzBmNjNmNTViNmY4YWI3MGZlMWYxODhlMGE4NGI5NGFl",
+  "snapshot_id": "MCw1NzA3MmEyODU1MzU2MjBjYTk1NmFkMDgxZjAxZjhmNmI0M2EzMjlj",
   "tracks": [
     {
       "added_at": "2023-10-16 07:47:39",
@@ -683,22 +683,6 @@
     {
       "added_at": "2023-10-16 07:47:39",
       "album": {
-        "name": "She",
-        "url": "https://open.spotify.com/album/3LwTiul097ARDdI02bgKO9"
-      },
-      "artists": [
-        {
-          "name": "JANNABI",
-          "url": "https://open.spotify.com/artist/2SY6OktZyMLdOnscX3DCyS"
-        }
-      ],
-      "duration_ms": 194000,
-      "name": "She",
-      "url": "https://open.spotify.com/track/57rt6Jj7woE21ae3Ml2vw8"
-    },
-    {
-      "added_at": "2023-10-16 07:47:39",
-      "album": {
         "name": "The Book of Us : Gluon - Nothing can tear us apart",
         "url": "https://open.spotify.com/album/56gHPBARXATKcgK97NCvKq"
       },
@@ -711,6 +695,22 @@
       "duration_ms": 257752,
       "name": "Where the sea sleeps",
       "url": "https://open.spotify.com/track/6zJRgVg9A2EzkZRRzLx3eB"
+    },
+    {
+      "added_at": "2023-10-16 07:47:39",
+      "album": {
+        "name": "She",
+        "url": "https://open.spotify.com/album/3LwTiul097ARDdI02bgKO9"
+      },
+      "artists": [
+        {
+          "name": "JANNABI",
+          "url": "https://open.spotify.com/artist/2SY6OktZyMLdOnscX3DCyS"
+        }
+      ],
+      "duration_ms": 194000,
+      "name": "She",
+      "url": "https://open.spotify.com/track/57rt6Jj7woE21ae3Ml2vw8"
     },
     {
       "added_at": "2023-10-16 07:47:39",

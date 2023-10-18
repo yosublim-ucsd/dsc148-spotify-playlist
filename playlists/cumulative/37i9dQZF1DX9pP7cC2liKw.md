@@ -4,7 +4,7 @@
 
 > Immerse yourself in the mysticism of Tulum!
 
-306 songs - 21 hr 27 min
+307 songs - 21 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -235,6 +235,7 @@
 | [Reflections](https://open.spotify.com/track/5sufZ6bBLwUekeeZXNq5Wg) | [Rubinskee](https://open.spotify.com/artist/3p8u3rTGbQtGpx7Pw4gqRu) | [Beach Planet Vol\. 1](https://open.spotify.com/album/1v4t4StpwOvJhiaHPWxpjp) | 6:37 | 2022-01-06 | 2022-07-24 |
 | [Regresar \(Vibes4YourSoul Remix\)](https://open.spotify.com/track/2Rzt5D3eOg7I12ZWozGX4w) | [Plano](https://open.spotify.com/artist/0yeQVsx3NrVR2TCLyvTWG1), [Vibes4YourSoul](https://open.spotify.com/artist/2z0Od7adlbPJRlM6pyFZZV) | [Regresar \(Vibes4YourSoul Remix\)](https://open.spotify.com/album/2ek84DXerG63Z5QhSz79lA) | 4:11 | 2023-03-01 | 2023-03-18 |
 | [Relato](https://open.spotify.com/track/0633GnMObUml98aYLCUmEg) | [CERO39](https://open.spotify.com/artist/1B6UFfDLZPbLl1rpOmHmi0), [Buendia](https://open.spotify.com/artist/4DgmNZDjpk4Zj547a2bfcH) | [6](https://open.spotify.com/album/5T31xBzocjWeu9JDn4Sinj) | 3:48 | 2022-01-04 | 2023-09-21 |
+| [Relato](https://open.spotify.com/track/6igYafJjuXcq87DLZJyXzW) | [CERO39](https://open.spotify.com/artist/1B6UFfDLZPbLl1rpOmHmi0), [Buendia](https://open.spotify.com/artist/4DgmNZDjpk4Zj547a2bfcH) | [6](https://open.spotify.com/album/45ezkv6t2ypiXuqLd1nez7) | 3:48 | 2022-06-15 |  |
 | [Ritual](https://open.spotify.com/track/5SX476xr9e2Xq2xn2hg1Ih) | [Kaleema](https://open.spotify.com/artist/7o5v2sjfFaMOgUKtfMQRWW) | [Confluencias II: Montaña](https://open.spotify.com/album/59OxHbwWRRJ20ZGENMwRSq) | 3:19 | 2022-01-04 | 2022-06-06 |
 | [Riviera Maya](https://open.spotify.com/track/3Ny7QoCSLbOMUGQLE9uhpQ) | [Ouska](https://open.spotify.com/artist/1BhytEyR0LxnxXoeQPxGVV) | [Riviera Maya](https://open.spotify.com/album/3Y53io7boMQYIjfxAf7BSC) | 2:25 | 2022-03-11 | 2022-08-15 |
 | [Rúmbala](https://open.spotify.com/track/0YjGcWlFaksNtsCIxfrmur) | [Eva de Marce](https://open.spotify.com/artist/1UgwU7ChXfMkwH9t6ivW2E) | [Rúmbala](https://open.spotify.com/album/4yf3TyT75f33sAq1o1ORuR) | 2:58 | 2022-01-04 |  |
@@ -293,7 +294,7 @@
 | [Todo Cambia](https://open.spotify.com/track/2f3mTJUP0bhLf9q9jgfIeQ) | [Son de Aquí](https://open.spotify.com/artist/1LY5S6drcTyXaGRQSuv3mJ) | [Al Otro Lado del Mar](https://open.spotify.com/album/1cMLf2f5pP1TDA5z0sGi8G) | 4:18 | 2022-09-03 | 2022-11-17 |
 | [Towards The Mountain](https://open.spotify.com/track/4Wp7sd3BXs68y8qhEl2Ixa) | [Pachyman](https://open.spotify.com/artist/515f4vsvg0JQWrmt7qpR6l) | [El Sonido Nuevo de](https://open.spotify.com/album/1UHFfBD2kb9JeUcnQqsOUh) | 3:20 | 2022-03-30 | 2022-07-27 |
 | [Trago Coqueto](https://open.spotify.com/track/5t4rndvpGfblr16xsSZCZ2) | [Pachyman](https://open.spotify.com/artist/515f4vsvg0JQWrmt7qpR6l) | [Switched\-On](https://open.spotify.com/album/3hwjbzlHMrrc4ul4tGo4jD) | 3:02 | 2023-10-10 |  |
-| [Tropical Gypsy](https://open.spotify.com/track/2NT4Qm591F5sel8OupNhWp) | [DJ Cam](https://open.spotify.com/artist/1hwAhXzyuEUjug2pyNVSvg) | [Tropical Gypsy](https://open.spotify.com/album/57y7GwBbU7iWlVt3fO4yQA) | 3:01 | 2022-02-14 |  |
+| [Tropical Gypsy](https://open.spotify.com/track/2NT4Qm591F5sel8OupNhWp) | [DJ Cam](https://open.spotify.com/artist/1hwAhXzyuEUjug2pyNVSvg) | [Tropical Gypsy](https://open.spotify.com/album/57y7GwBbU7iWlVt3fO4yQA) | 3:01 | 2022-02-14 | 2023-10-18 |
 | [Tune Rider](https://open.spotify.com/track/4HBz7gmSjQ143OiMoFFKJu) | [Tunkuy](https://open.spotify.com/artist/66E1mdKk5XT2HUZ3hkKEX0), [German I](https://open.spotify.com/artist/0cGJK3i9jWhsjvY7svZas3) | [Tune Rider](https://open.spotify.com/album/1AOe1eOT8UamKJwpkHV110) | 3:50 | 2022-01-04 | 2022-07-26 |
 | [Turn Around](https://open.spotify.com/track/3C8jZgiUP0pP1l58837NzH) | [Rampue](https://open.spotify.com/artist/3YRLUjgMJ1xg1TIcknIxlv) | [Turn Around](https://open.spotify.com/album/7LiFR5PvKfWfQ7qzYpU25u) | 7:17 | 2022-06-15 | 2023-02-05 |
 | [Tuyo \- Original Mix](https://open.spotify.com/track/3ZcjaZ8kqimC1lgQ3662U0) | [Supernova](https://open.spotify.com/artist/1vpJBCwcAMbetCwtn2KPEG), [Cardellino](https://open.spotify.com/artist/7HFja6X48hWE58m3pQnGV0) | [Tuyo](https://open.spotify.com/album/0mNt37lNYCqm2EN6LCLwml) | 6:34 | 2022-06-15 | 2023-02-13 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWvHBEQLnV1N.md) - [plain]
 
 > Get excited with these festive favourites alongside some of the newest holiday releases.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,021,784 likes - 62 songs - 3 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,022,077 likes - 62 songs - 3 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -71,4 +71,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWvHBEQLnV1N.md) - [plain]
 | 61 | [I Need You Christmas](https://open.spotify.com/track/0viGbbEJ9xV6qNJsTaXruz) | [Jonas Brothers](https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD) | [I Need You Christmas](https://open.spotify.com/album/6ag1TA7jYSh8NjFtBL9bFR) | 3:26 |
 | 62 | [It's Not Christmas Till Somebody Cries](https://open.spotify.com/track/18J9Wt6fBBFjkQciPsxa3g) | [Carly Rae Jepsen](https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju) | [It's Not Christmas Till Somebody Cries](https://open.spotify.com/album/1kmXMD3SJfTEt4NmrSKRhe) | 2:52 |
 
-Snapshot ID: `MCw4M2YxMWEwNTVlMDBmYmE4MjFhNzRkMjM1YjI4MGRlZjc2YmE4MWFl`
+Snapshot ID: `MCxjOWIwMDJkNzNlNjAxNzEyMzhhYTc0MDYxMGM2YTYxYjQyN2Y1MDI4`

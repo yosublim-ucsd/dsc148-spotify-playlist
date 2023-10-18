@@ -1,12 +1,12 @@
 {
   "description": "Come alive with this progressive & melodic house selection.",
-  "num_followers": 166434,
+  "num_followers": 166511,
   "original_name": "Melodic & Euphoric",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzMzlmNzc1NjAzMDg1Nzk2MGIzNWZhNmY1YWY2NmEzZDE5MTI0MTY0",
+  "snapshot_id": "MCxiMzBhOGFmNjRkMThiYTg4Nzg4ZWY3MWI1YmJkNGQ1MTNiZDRmMzk2",
   "tracks": [
     {
       "added_at": "2022-11-25 16:56:36",
@@ -515,6 +515,22 @@
     {
       "added_at": "2022-11-25 16:56:36",
       "album": {
+        "name": "Was It the Wind That Stirred The Trees",
+        "url": "https://open.spotify.com/album/0e9kIrv9PyjGWubMLQXJyY"
+      },
+      "artists": [
+        {
+          "name": "Boy North",
+          "url": "https://open.spotify.com/artist/5RWTv1TLAxHSP7N33pFJfN"
+        }
+      ],
+      "duration_ms": 228387,
+      "name": "Was It the Wind That Stirred The Trees",
+      "url": "https://open.spotify.com/track/444nE6DEGBPTjLgR39BjdT"
+    },
+    {
+      "added_at": "2022-11-25 16:56:36",
+      "album": {
         "name": "No Judgement (K\u00f6lsch Remix Edit)",
         "url": "https://open.spotify.com/album/6cUbkloy5dDTZ9muvMLiOo"
       },
@@ -535,22 +551,6 @@
       "duration_ms": 257006,
       "name": "No Judgement - K\u00f6lsch Remix Edit",
       "url": "https://open.spotify.com/track/0Dwb20y4Y174GDvLw0Dr51"
-    },
-    {
-      "added_at": "2022-11-25 16:56:36",
-      "album": {
-        "name": "Was It the Wind That Stirred The Trees",
-        "url": "https://open.spotify.com/album/0e9kIrv9PyjGWubMLQXJyY"
-      },
-      "artists": [
-        {
-          "name": "Boy North",
-          "url": "https://open.spotify.com/artist/5RWTv1TLAxHSP7N33pFJfN"
-        }
-      ],
-      "duration_ms": 228387,
-      "name": "Was It the Wind That Stirred The Trees",
-      "url": "https://open.spotify.com/track/444nE6DEGBPTjLgR39BjdT"
     },
     {
       "added_at": "2022-11-25 16:56:36",
@@ -863,6 +863,22 @@
     {
       "added_at": "2022-11-25 16:56:36",
       "album": {
+        "name": "Vivi",
+        "url": "https://open.spotify.com/album/7rxnh6BRTnmhUaIqGCJbjy"
+      },
+      "artists": [
+        {
+          "name": "Elevven",
+          "url": "https://open.spotify.com/artist/1x72oeaWJ5kdXMXZoq0Icu"
+        }
+      ],
+      "duration_ms": 236000,
+      "name": "Vivi",
+      "url": "https://open.spotify.com/track/3v8HGq086dJh7UX7ixE3A1"
+    },
+    {
+      "added_at": "2022-11-25 16:56:36",
+      "album": {
         "name": "I Saw Good",
         "url": "https://open.spotify.com/album/6LTbiiZ7tfWtDTVxsDzWKU"
       },
@@ -891,22 +907,6 @@
       "duration_ms": 247862,
       "name": "Calling",
       "url": "https://open.spotify.com/track/5NrecJDB0DefSkXKERjTFF"
-    },
-    {
-      "added_at": "2022-11-25 16:56:36",
-      "album": {
-        "name": "Vivi",
-        "url": "https://open.spotify.com/album/7rxnh6BRTnmhUaIqGCJbjy"
-      },
-      "artists": [
-        {
-          "name": "Elevven",
-          "url": "https://open.spotify.com/artist/1x72oeaWJ5kdXMXZoq0Icu"
-        }
-      ],
-      "duration_ms": 236000,
-      "name": "Vivi",
-      "url": "https://open.spotify.com/track/3v8HGq086dJh7UX7ixE3A1"
     },
     {
       "added_at": "2022-11-25 16:56:36",

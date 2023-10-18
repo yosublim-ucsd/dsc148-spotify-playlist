@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5LYxFep0J7E.md) - [plain]
 
 > Jazz favorites from 2022\. Cover: Makaya McCraven \#SpotifyWrapped
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,800 likes - 75 songs - 6 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,815 likes - 75 songs - 6 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5LYxFep0J7E.md) - [plain]
 | 5 | [Gift Of The Moon](https://open.spotify.com/track/4FRz9yGVMIdeFHwdToHE0t) | [Julius Rodriguez](https://open.spotify.com/artist/50qPbhYR2iMZzD3iz0eBMF) | [Let Sound Tell All](https://open.spotify.com/album/7niCvulg9SvnrLRg7frS3L) | 2:58 |
 | 6 | [CODE](https://open.spotify.com/track/7mf1jqnFX2jgZg9bgK8V6r) | [The Comet Is Coming](https://open.spotify.com/artist/0Z5FMozvx15nUSUA6a9kkU) | [Hyper\-Dimensional Expansion Beam](https://open.spotify.com/album/1XPsJnIVMjOt04rczMWVO4) | 4:15 |
 | 7 | [The Avenues](https://open.spotify.com/track/6PGT8EQWGVzmZO3bcP9xff) | [Adrian Younge](https://open.spotify.com/artist/4aMeIY7MkJoZg7O91cmDDd), [Ali Shaheed Muhammad](https://open.spotify.com/artist/6adBZwsyxZuWDoty0Tg0lt), [Katalyst](https://open.spotify.com/artist/5yAyZa2e9KTHLsxSOMDmrC) | [Jazz Is Dead 011](https://open.spotify.com/album/71nw1gY5lcvXslicrAfooi) | 4:17 |
-| 8 | [Something's Going On](https://open.spotify.com/track/7e9ReVRPkkpBGG4R1as4xI) | [Kokoroko](https://open.spotify.com/artist/3u9rbdcmA6CxjxOAkjaeFr) | [Could We Be More](https://open.spotify.com/album/5pJXka0Joj77KqooPlQwFu) | 5:12 |
+| 8 | [Something's Going On](https://open.spotify.com/track/0eiBn1fZZ95gdFz3wfKjCY) | [Kokoroko](https://open.spotify.com/artist/3u9rbdcmA6CxjxOAkjaeFr) | [Could We Be More](https://open.spotify.com/album/48e8LFqiVUxumlXDIVyNYl) | 5:12 |
 | 9 | [Reload](https://open.spotify.com/track/2t6CjjlQr9rBrXUiZgDR5M) | [Marialy Pacheco](https://open.spotify.com/artist/6C5pk86oEQTxDahuLStCt1), [Sebastian Nickoll](https://open.spotify.com/artist/5X0A5rhXQiwexwwUuhDFmT) | [Reload](https://open.spotify.com/album/1GTq1eZBdETTBtWbZmh7hI) | 7:26 |
 | 10 | [Trinity](https://open.spotify.com/track/1mO6jUnWeWtVYRXGoGFI70) | [Snarky Puppy](https://open.spotify.com/artist/7ENzCHnmJUr20nUjoZ0zZ1) | [Empire Central](https://open.spotify.com/album/17sDfQwRab5dr2aVsgu1IA) | 7:54 |
 | 11 | [Warp](https://open.spotify.com/track/0U9hekAvk594eG77ipTLDR) | [Blue Lab Beats](https://open.spotify.com/artist/4YLUMAgNyttwx4hUHgtBtR), [Jackson Mathod](https://open.spotify.com/artist/6RvLMgatQu3kdjDpYyQnTx), [Kaidi Akinnibi](https://open.spotify.com/artist/37dGQu2K8lXncPDUxfuhEJ) | [Motherland Journey](https://open.spotify.com/album/1Ot6KlRfnV6vGwcQPpr6eg) | 4:25 |
@@ -52,7 +52,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5LYxFep0J7E.md) - [plain]
 | 42 | [Joy Road](https://open.spotify.com/track/0Bh4RCRlTcWUDNCu3CPgW6) | [Jazzanova](https://open.spotify.com/artist/0nTErwSOllrcUWt3knOG2T) | [Strata Records \- the Sound of Detroit \- Reimagined by Jazzanova](https://open.spotify.com/album/4YLG5PwYbMJQeQe3NyVUP3) | 3:53 |
 | 43 | [MB \(for Ma’Khia Bryant\)](https://open.spotify.com/track/0cc5stQwKk9CXIkYQhod8n) | [Braxton Cook](https://open.spotify.com/artist/60k4atxgEIMFz4DWHp0le1) | [Who Are You When No One is Watching?](https://open.spotify.com/album/3p2GVM0RupOOyqtEqyjXtl) | 5:33 |
 | 44 | [Auditorium](https://open.spotify.com/track/4JvovpjvPhVNOCwSzLxueY) | [Julian Lage](https://open.spotify.com/artist/2TSuAchdgVzsAa9wDK1IeT) | [View With A Room](https://open.spotify.com/album/0bxXAO9Vxpx20fidIJc4va) | 4:28 |
-| 45 | [Times](https://open.spotify.com/track/0YW0ZJEtFvmnbx8RWbYvTp) | [DoomCannon](https://open.spotify.com/artist/1EKCFythC6ga1G4x4jYDwy), [Lex Amor](https://open.spotify.com/artist/0IKVDL3N8vpYgeNOV6np14) | [Renaissance](https://open.spotify.com/album/0hYN0KbQdnB1zFzSHqWr8R) | 6:12 |
+| 45 | [Times \(feat\. Lex Amor\)](https://open.spotify.com/track/5Ga0y2pc3M5nGLK6Pdmo70) | [DoomCannon](https://open.spotify.com/artist/1EKCFythC6ga1G4x4jYDwy), [Lex Amor](https://open.spotify.com/artist/0IKVDL3N8vpYgeNOV6np14) | [Renaissance](https://open.spotify.com/album/36ViqkFmLJGdZuBVq9euD0) | 6:12 |
 | 46 | [Nature Boy](https://open.spotify.com/track/6wWQOQk8NmLaOJH7xuKnY4) | [David Hazeltine](https://open.spotify.com/artist/5mQGacj97PLCoX9YOEGf0Q) | [Life's Love Songs](https://open.spotify.com/album/0QBv4SvRec1C306sITPlTW) | 6:12 |
 | 47 | [Mystics \- Live](https://open.spotify.com/track/6oQa3e5vox8Izx1EQkKFEV) | [Yussef Dayes](https://open.spotify.com/artist/2rspptKP0lPBdlJJAJHqht), [Venna](https://open.spotify.com/artist/7qKJMpPZfyGHHwPgsjgFCP) | [The Yussef Dayes Experience Live at Joshua Tree \(Presented by Soulection\)](https://open.spotify.com/album/4T8tt0NgcFY8DcRXo5rp4I) | 3:47 |
 | 48 | [Someday We'll Fly](https://open.spotify.com/track/4k98hsTy9dAhsckyUAQa0u) | [Jazztronik](https://open.spotify.com/artist/3TMLgJUsDIxI4CShGh8vYM) | [Universal Language \-Self Translation\-](https://open.spotify.com/album/0P1EngtSVs7KhUBFMqSzKm) | 8:24 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5LYxFep0J7E.md) - [plain]
 | 74 | [Long Way From Home \(feat\. Eric Harland\)](https://open.spotify.com/track/4LvTgaYf1iMvkBPh9YMK54) | [Gilad Hekselman](https://open.spotify.com/artist/5oNJNBpUU3zRyC8xHwCnQL), [Eric Harland](https://open.spotify.com/artist/0wTdAqanDZiEonTBUmBSQh) | [Far Star](https://open.spotify.com/album/1AIF7npFznwVA8tnlSNock) | 5:17 |
 | 75 | [Words Left Unspoken](https://open.spotify.com/track/2b7mhgBdpvDCLYGK8nRfMX) | [Jasmine Myra](https://open.spotify.com/artist/3OOAxdMJCLi7iAurDghYyK) | [Horizons](https://open.spotify.com/album/0f3k4tF3PXSsRKnklbiKKe) | 6:40 |
 
-Snapshot ID: `MCxmMmQxNGFlZjI2NGJjODIxZjg5YTU4YTkwNzFkZTQxNTZlZGRlYzY4`
+Snapshot ID: `MCxkZWVkNzQyNDgzZDBlMDFjYzNkN2NiODRjNmExZTUzNjEzZTcwNTNm`

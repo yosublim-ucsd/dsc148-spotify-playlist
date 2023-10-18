@@ -1,12 +1,12 @@
 {
   "description": "Grab your dancing shoes and strut your stuff with these upbeat blues numbers.",
-  "num_followers": 54244,
+  "num_followers": 54267,
   "original_name": "Upbeat Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlYjVjMjM0OTc3MGUxYTZiYTZmOWU0ODZlMDY0YTc1ZTVlMzNkZGFh",
+  "snapshot_id": "MCw1MTc4MDI4NzM5Mjg1OTU4NGYyNWJiYzQxYTMzMzY4ZDZhM2U0MDg5",
   "tracks": [
     {
       "added_at": "2023-10-13 00:01:00",
@@ -379,22 +379,6 @@
     {
       "added_at": "2023-10-13 00:01:00",
       "album": {
-        "name": "Crossroads (Original Sountrack)",
-        "url": "https://open.spotify.com/album/77UqIYxZhslPXUTiq4vDrE"
-      },
-      "artists": [
-        {
-          "name": "Ry Cooder",
-          "url": "https://open.spotify.com/artist/1CPwHx5lgVxv0rfcp7UXLx"
-        }
-      ],
-      "duration_ms": 264200,
-      "name": "Crossroads - 2008 Remaster",
-      "url": "https://open.spotify.com/track/6mGy6bzPJ6hrgPnVJZCEd4"
-    },
-    {
-      "added_at": "2023-10-13 00:01:00",
-      "album": {
         "name": "This Is... Huey 'Piano' Smith",
         "url": "https://open.spotify.com/album/2O3iFb9B97JGcQt1IxvEfD"
       },
@@ -407,6 +391,22 @@
       "duration_ms": 154440,
       "name": "Don't You Just Know It",
       "url": "https://open.spotify.com/track/1Ufhe0CbCnDLC7LvycY4t4"
+    },
+    {
+      "added_at": "2023-10-13 00:01:00",
+      "album": {
+        "name": "Crossroads (Original Sountrack)",
+        "url": "https://open.spotify.com/album/77UqIYxZhslPXUTiq4vDrE"
+      },
+      "artists": [
+        {
+          "name": "Ry Cooder",
+          "url": "https://open.spotify.com/artist/1CPwHx5lgVxv0rfcp7UXLx"
+        }
+      ],
+      "duration_ms": 264200,
+      "name": "Crossroads - 2008 Remaster",
+      "url": "https://open.spotify.com/track/6mGy6bzPJ6hrgPnVJZCEd4"
     },
     {
       "added_at": "2023-10-13 00:01:00",
@@ -427,22 +427,6 @@
     {
       "added_at": "2023-10-13 00:01:00",
       "album": {
-        "name": "Presenting Ike Turner",
-        "url": "https://open.spotify.com/album/72uPVZB2T541kI9nT4khgC"
-      },
-      "artists": [
-        {
-          "name": "Ike Turner",
-          "url": "https://open.spotify.com/artist/0FAxkBiT0g3jKF2AaKEipb"
-        }
-      ],
-      "duration_ms": 169613,
-      "name": "Rocket 88",
-      "url": "https://open.spotify.com/track/4IiEsxrgzIMdqoN3dwxk6g"
-    },
-    {
-      "added_at": "2023-10-13 00:01:00",
-      "album": {
         "name": "Alligator Records 50 Years Of Genuine Houserockin' Music",
         "url": "https://open.spotify.com/album/30aecilbP86mA0dVdWcFp0"
       },
@@ -455,6 +439,22 @@
       "duration_ms": 214520,
       "name": "Give Me Back My Wig - Remastered",
       "url": "https://open.spotify.com/track/3kkCpDqhrOEBf0eOR2igEE"
+    },
+    {
+      "added_at": "2023-10-13 00:01:00",
+      "album": {
+        "name": "Presenting Ike Turner",
+        "url": "https://open.spotify.com/album/72uPVZB2T541kI9nT4khgC"
+      },
+      "artists": [
+        {
+          "name": "Ike Turner",
+          "url": "https://open.spotify.com/artist/0FAxkBiT0g3jKF2AaKEipb"
+        }
+      ],
+      "duration_ms": 169613,
+      "name": "Rocket 88",
+      "url": "https://open.spotify.com/track/4IiEsxrgzIMdqoN3dwxk6g"
     },
     {
       "added_at": "2023-10-13 00:01:00",
@@ -967,6 +967,22 @@
     {
       "added_at": "2023-10-13 00:01:00",
       "album": {
+        "name": "Black Magic",
+        "url": "https://open.spotify.com/album/2AfgpZdbs8CI1MvjFaus2A"
+      },
+      "artists": [
+        {
+          "name": "Joanne Shaw Taylor",
+          "url": "https://open.spotify.com/artist/3FmTlY1F9dQyRursrsUaU7"
+        }
+      ],
+      "duration_ms": 265720,
+      "name": "Black Magic",
+      "url": "https://open.spotify.com/track/4GuQf92xMVo9FYRYnj37OL"
+    },
+    {
+      "added_at": "2023-10-13 00:01:00",
+      "album": {
         "name": "Real Gone",
         "url": "https://open.spotify.com/album/5Y3BKzJMHKfPlGb24weYXe"
       },
@@ -999,22 +1015,6 @@
       "duration_ms": 162000,
       "name": "Trouble No More",
       "url": "https://open.spotify.com/track/3wFXuJfiiQYZquZmNnH3m6"
-    },
-    {
-      "added_at": "2023-10-13 00:01:00",
-      "album": {
-        "name": "The Blues Album",
-        "url": "https://open.spotify.com/album/4Oi6hTkomUsifP4dqmKZlS"
-      },
-      "artists": [
-        {
-          "name": "Joanne Shaw Taylor",
-          "url": "https://open.spotify.com/artist/3FmTlY1F9dQyRursrsUaU7"
-        }
-      ],
-      "duration_ms": 217333,
-      "name": "Stop Messin' Round",
-      "url": "https://open.spotify.com/track/1sHmkDWe8U8SDqMZKfgTLO"
     },
     {
       "added_at": "2023-10-13 00:01:00",
@@ -1083,22 +1083,6 @@
     {
       "added_at": "2023-10-13 00:01:00",
       "album": {
-        "name": "Black Magic",
-        "url": "https://open.spotify.com/album/2AfgpZdbs8CI1MvjFaus2A"
-      },
-      "artists": [
-        {
-          "name": "Joanne Shaw Taylor",
-          "url": "https://open.spotify.com/artist/3FmTlY1F9dQyRursrsUaU7"
-        }
-      ],
-      "duration_ms": 265720,
-      "name": "Black Magic",
-      "url": "https://open.spotify.com/track/4GuQf92xMVo9FYRYnj37OL"
-    },
-    {
-      "added_at": "2023-10-13 00:01:00",
-      "album": {
         "name": "Rumpshaker",
         "url": "https://open.spotify.com/album/2TAatpkEA5nQcZkh9AiW6g"
       },
@@ -1115,22 +1099,18 @@
     {
       "added_at": "2023-10-13 00:01:00",
       "album": {
-        "name": "Take It Back",
-        "url": "https://open.spotify.com/album/0gM5G6j0lWaxk1GOv0nfbL"
+        "name": "The Blues Album",
+        "url": "https://open.spotify.com/album/4Oi6hTkomUsifP4dqmKZlS"
       },
       "artists": [
         {
-          "name": "Dion",
-          "url": "https://open.spotify.com/artist/15FyiY3ChN0QRspHIQYq0W"
-        },
-        {
-          "name": "Joe Bonamassa",
-          "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
+          "name": "Joanne Shaw Taylor",
+          "url": "https://open.spotify.com/artist/3FmTlY1F9dQyRursrsUaU7"
         }
       ],
-      "duration_ms": 335226,
-      "name": "Take It Back",
-      "url": "https://open.spotify.com/track/0EBCSoTMmj0Gf0aOkZ6Hx1"
+      "duration_ms": 217333,
+      "name": "Stop Messin' Round",
+      "url": "https://open.spotify.com/track/1sHmkDWe8U8SDqMZKfgTLO"
     },
     {
       "added_at": "2023-10-13 00:01:00",
@@ -1151,6 +1131,26 @@
       "duration_ms": 231800,
       "name": "Get Right Before You Get Left",
       "url": "https://open.spotify.com/track/3C0kKoOwndJkF07oweozpz"
+    },
+    {
+      "added_at": "2023-10-13 00:01:00",
+      "album": {
+        "name": "Take It Back",
+        "url": "https://open.spotify.com/album/0gM5G6j0lWaxk1GOv0nfbL"
+      },
+      "artists": [
+        {
+          "name": "Dion",
+          "url": "https://open.spotify.com/artist/15FyiY3ChN0QRspHIQYq0W"
+        },
+        {
+          "name": "Joe Bonamassa",
+          "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
+        }
+      ],
+      "duration_ms": 335226,
+      "name": "Take It Back",
+      "url": "https://open.spotify.com/track/0EBCSoTMmj0Gf0aOkZ6Hx1"
     },
     {
       "added_at": "2023-10-13 00:01:00",
@@ -1223,6 +1223,22 @@
     {
       "added_at": "2023-10-13 00:01:00",
       "album": {
+        "name": "Keep on Lovin' the Blues",
+        "url": "https://open.spotify.com/album/1tMXPwrzgheCnI2QGY5Ypm"
+      },
+      "artists": [
+        {
+          "name": "John Primer",
+          "url": "https://open.spotify.com/artist/1CePnHlc38UfIQovWgyzKP"
+        }
+      ],
+      "duration_ms": 232200,
+      "name": "Pay the Price",
+      "url": "https://open.spotify.com/track/7wWH5g020mkyhjo0zzL3ty"
+    },
+    {
+      "added_at": "2023-10-13 00:01:00",
+      "album": {
         "name": "The Real Folk Blues",
         "url": "https://open.spotify.com/album/1q9Zi4GCAuso7SetyHHaXg"
       },
@@ -1235,22 +1251,6 @@
       "duration_ms": 157000,
       "name": "Peach Tree - Mono Version",
       "url": "https://open.spotify.com/track/5K78KRl57O0mzqj4Ea722D"
-    },
-    {
-      "added_at": "2023-10-13 00:01:00",
-      "album": {
-        "name": "Too Old To Grow Up",
-        "url": "https://open.spotify.com/album/6FZBWcc2y78V60f9XVGqMH"
-      },
-      "artists": [
-        {
-          "name": "Albert Cummings",
-          "url": "https://open.spotify.com/artist/1YYXyn4etM5oe9RnJe3Mvg"
-        }
-      ],
-      "duration_ms": 201237,
-      "name": "Too Old To Grow Up",
-      "url": "https://open.spotify.com/track/7IWs4fsSfmfI559uW6GxDr"
     },
     {
       "added_at": "2023-10-13 00:01:00",
@@ -1271,18 +1271,18 @@
     {
       "added_at": "2023-10-13 00:01:00",
       "album": {
-        "name": "Keep on Lovin' the Blues",
-        "url": "https://open.spotify.com/album/1tMXPwrzgheCnI2QGY5Ypm"
+        "name": "Too Old To Grow Up",
+        "url": "https://open.spotify.com/album/6FZBWcc2y78V60f9XVGqMH"
       },
       "artists": [
         {
-          "name": "John Primer",
-          "url": "https://open.spotify.com/artist/1CePnHlc38UfIQovWgyzKP"
+          "name": "Albert Cummings",
+          "url": "https://open.spotify.com/artist/1YYXyn4etM5oe9RnJe3Mvg"
         }
       ],
-      "duration_ms": 232200,
-      "name": "Pay the Price",
-      "url": "https://open.spotify.com/track/7wWH5g020mkyhjo0zzL3ty"
+      "duration_ms": 201237,
+      "name": "Too Old To Grow Up",
+      "url": "https://open.spotify.com/track/7IWs4fsSfmfI559uW6GxDr"
     },
     {
       "added_at": "2023-10-13 00:01:00",
@@ -1391,22 +1391,6 @@
     {
       "added_at": "2023-10-13 00:01:00",
       "album": {
-        "name": "The Paul Butterfield Blues Band",
-        "url": "https://open.spotify.com/album/785WNIAl2zC3OZ6XHjFaIG"
-      },
-      "artists": [
-        {
-          "name": "The Paul Butterfield Blues Band",
-          "url": "https://open.spotify.com/artist/6kz7WuPaUa4QVreP27I33i"
-        }
-      ],
-      "duration_ms": 171040,
-      "name": "Mellow Down Easy",
-      "url": "https://open.spotify.com/track/3w7JOstC58U7VxTQcm7GIN"
-    },
-    {
-      "added_at": "2023-10-13 00:01:00",
-      "album": {
         "name": "Packing My Bags",
         "url": "https://open.spotify.com/album/6os5LkCeAmF2N1XalMURcb"
       },
@@ -1419,6 +1403,22 @@
       "duration_ms": 241678,
       "name": "Break Em' Down",
       "url": "https://open.spotify.com/track/1YziwYBC0cVkWQ9JWcji5Q"
+    },
+    {
+      "added_at": "2023-10-13 00:01:00",
+      "album": {
+        "name": "The Paul Butterfield Blues Band",
+        "url": "https://open.spotify.com/album/785WNIAl2zC3OZ6XHjFaIG"
+      },
+      "artists": [
+        {
+          "name": "The Paul Butterfield Blues Band",
+          "url": "https://open.spotify.com/artist/6kz7WuPaUa4QVreP27I33i"
+        }
+      ],
+      "duration_ms": 171040,
+      "name": "Mellow Down Easy",
+      "url": "https://open.spotify.com/track/3w7JOstC58U7VxTQcm7GIN"
     },
     {
       "added_at": "2023-10-13 00:01:00",
@@ -1479,22 +1479,6 @@
     {
       "added_at": "2023-10-13 00:01:00",
       "album": {
-        "name": "TEN",
-        "url": "https://open.spotify.com/album/7BOpTMhSI7AJl81BbePXcO"
-      },
-      "artists": [
-        {
-          "name": "Albert Cummings",
-          "url": "https://open.spotify.com/artist/1YYXyn4etM5oe9RnJe3Mvg"
-        }
-      ],
-      "duration_ms": 250970,
-      "name": "Sounds Like The Road",
-      "url": "https://open.spotify.com/track/3sMTG1l0htXEgzf7vaQEOY"
-    },
-    {
-      "added_at": "2023-10-13 00:01:00",
-      "album": {
         "name": "No Sleep Blues",
         "url": "https://open.spotify.com/album/7JP7FEGR6XE6mYUTMsoYqQ"
       },
@@ -1507,6 +1491,22 @@
       "duration_ms": 209368,
       "name": "No Sleep Blues",
       "url": "https://open.spotify.com/track/4ttmYxuXXcJR4aFzpEzXOB"
+    },
+    {
+      "added_at": "2023-10-13 00:01:00",
+      "album": {
+        "name": "TEN",
+        "url": "https://open.spotify.com/album/7BOpTMhSI7AJl81BbePXcO"
+      },
+      "artists": [
+        {
+          "name": "Albert Cummings",
+          "url": "https://open.spotify.com/artist/1YYXyn4etM5oe9RnJe3Mvg"
+        }
+      ],
+      "duration_ms": 250970,
+      "name": "Sounds Like The Road",
+      "url": "https://open.spotify.com/track/3sMTG1l0htXEgzf7vaQEOY"
     },
     {
       "added_at": "2023-10-13 00:01:00",
@@ -1547,22 +1547,6 @@
     {
       "added_at": "2023-10-13 00:01:00",
       "album": {
-        "name": "Ooh Poo Pah Do",
-        "url": "https://open.spotify.com/album/0nPsjgUeJCi31GD8yJggXL"
-      },
-      "artists": [
-        {
-          "name": "Jessie Hill",
-          "url": "https://open.spotify.com/artist/0LeecN3yVUDsHFFzrTLp5v"
-        }
-      ],
-      "duration_ms": 137627,
-      "name": "Ooh Poo Pah Do (Pt. 1)",
-      "url": "https://open.spotify.com/track/02v6Ie89lZ4bArlzp9MKzi"
-    },
-    {
-      "added_at": "2023-10-13 00:01:00",
-      "album": {
         "name": "Mighty Love",
         "url": "https://open.spotify.com/album/7IeOJ8Oy6bgQFEn317r0Sy"
       },
@@ -1579,6 +1563,38 @@
       "duration_ms": 227213,
       "name": "Mighty Love",
       "url": "https://open.spotify.com/track/0uGMmiAC2eLxS8o7rQj6ga"
+    },
+    {
+      "added_at": "2023-10-13 00:01:00",
+      "album": {
+        "name": "Ooh Poo Pah Do",
+        "url": "https://open.spotify.com/album/0nPsjgUeJCi31GD8yJggXL"
+      },
+      "artists": [
+        {
+          "name": "Jessie Hill",
+          "url": "https://open.spotify.com/artist/0LeecN3yVUDsHFFzrTLp5v"
+        }
+      ],
+      "duration_ms": 137627,
+      "name": "Ooh Poo Pah Do (Pt. 1)",
+      "url": "https://open.spotify.com/track/02v6Ie89lZ4bArlzp9MKzi"
+    },
+    {
+      "added_at": "2023-10-13 00:01:00",
+      "album": {
+        "name": "Home Sweet Home",
+        "url": "https://open.spotify.com/album/67kl2wY1aV6HVoUT5OlIkM"
+      },
+      "artists": [
+        {
+          "name": "Joe Flip",
+          "url": "https://open.spotify.com/artist/7I0jia2wrhNWpDzqpjam1k"
+        }
+      ],
+      "duration_ms": 217213,
+      "name": "Just Friends",
+      "url": "https://open.spotify.com/track/2oGjkwyqqZmp4BERyVekFI"
     },
     {
       "added_at": "2023-10-13 00:01:00",
@@ -1615,18 +1631,18 @@
     {
       "added_at": "2023-10-13 00:01:00",
       "album": {
-        "name": "Home Sweet Home",
-        "url": "https://open.spotify.com/album/67kl2wY1aV6HVoUT5OlIkM"
+        "name": "Old Habits",
+        "url": "https://open.spotify.com/album/4YXrI2ePBrOXvATQ8qLd8y"
       },
       "artists": [
         {
-          "name": "Joe Flip",
-          "url": "https://open.spotify.com/artist/7I0jia2wrhNWpDzqpjam1k"
+          "name": "The Deadbeat Cousins",
+          "url": "https://open.spotify.com/artist/1NLpUEmI57tHPTH9GSDA40"
         }
       ],
-      "duration_ms": 217213,
-      "name": "Just Friends",
-      "url": "https://open.spotify.com/track/2oGjkwyqqZmp4BERyVekFI"
+      "duration_ms": 250711,
+      "name": "Reverse Engineer",
+      "url": "https://open.spotify.com/track/07PQv121zSIpQRlUqZZdRO"
     },
     {
       "added_at": "2023-10-13 00:01:00",
@@ -1647,18 +1663,18 @@
     {
       "added_at": "2023-10-13 00:01:00",
       "album": {
-        "name": "Old Habits",
-        "url": "https://open.spotify.com/album/4YXrI2ePBrOXvATQ8qLd8y"
+        "name": "Proud Disturber of the Peace",
+        "url": "https://open.spotify.com/album/2cIAXqoRWFfKAZxfR5ervI"
       },
       "artists": [
         {
-          "name": "The Deadbeat Cousins",
-          "url": "https://open.spotify.com/artist/1NLpUEmI57tHPTH9GSDA40"
+          "name": "William The Conqueror",
+          "url": "https://open.spotify.com/artist/1r3usFuloWo113ldctoDnX"
         }
       ],
-      "duration_ms": 250711,
-      "name": "Reverse Engineer",
-      "url": "https://open.spotify.com/track/07PQv121zSIpQRlUqZZdRO"
+      "duration_ms": 221373,
+      "name": "Mind Keeps Changing",
+      "url": "https://open.spotify.com/track/5LmnECs0CjogD3qLbMNUf9"
     },
     {
       "added_at": "2023-10-13 00:01:00",
@@ -1715,22 +1731,6 @@
     {
       "added_at": "2023-10-13 00:01:00",
       "album": {
-        "name": "Last of the Blues Shouters",
-        "url": "https://open.spotify.com/album/3r0loF6keIGuDG7n6YQ1t0"
-      },
-      "artists": [
-        {
-          "name": "Big Miller",
-          "url": "https://open.spotify.com/artist/4c8m7LzbeEJdqVMfNAW2xn"
-        }
-      ],
-      "duration_ms": 249840,
-      "name": "Hello Little Girl",
-      "url": "https://open.spotify.com/track/2nof4LgSAxUeJPiwLAvkND"
-    },
-    {
-      "added_at": "2023-10-13 00:01:00",
-      "album": {
         "name": "Lucille",
         "url": "https://open.spotify.com/album/5aowahjEeRgbLALRPb9a2s"
       },
@@ -1747,18 +1747,18 @@
     {
       "added_at": "2023-10-13 00:01:00",
       "album": {
-        "name": "Proud Disturber of the Peace",
-        "url": "https://open.spotify.com/album/2cIAXqoRWFfKAZxfR5ervI"
+        "name": "Last of the Blues Shouters",
+        "url": "https://open.spotify.com/album/3r0loF6keIGuDG7n6YQ1t0"
       },
       "artists": [
         {
-          "name": "William The Conqueror",
-          "url": "https://open.spotify.com/artist/1r3usFuloWo113ldctoDnX"
+          "name": "Big Miller",
+          "url": "https://open.spotify.com/artist/4c8m7LzbeEJdqVMfNAW2xn"
         }
       ],
-      "duration_ms": 221373,
-      "name": "Mind Keeps Changing",
-      "url": "https://open.spotify.com/track/5LmnECs0CjogD3qLbMNUf9"
+      "duration_ms": 249840,
+      "name": "Hello Little Girl",
+      "url": "https://open.spotify.com/track/2nof4LgSAxUeJPiwLAvkND"
     },
     {
       "added_at": "2023-10-13 00:01:00",
@@ -1927,22 +1927,6 @@
     {
       "added_at": "2023-10-13 00:01:00",
       "album": {
-        "name": "Down At The Railway",
-        "url": "https://open.spotify.com/album/2HvqgtyVEJX3G3eZxkfonX"
-      },
-      "artists": [
-        {
-          "name": "Smokestack Blues Band",
-          "url": "https://open.spotify.com/artist/0ImMr2pKH8DaYvhB6gtV5s"
-        }
-      ],
-      "duration_ms": 196115,
-      "name": "Pack Fair and Square",
-      "url": "https://open.spotify.com/track/3QhDPahbCLsXCNXwjrsySw"
-    },
-    {
-      "added_at": "2023-10-13 00:01:00",
-      "album": {
         "name": "Let It Rock (Live from Blueberry Hill)",
         "url": "https://open.spotify.com/album/5foGuU81PM8iNTwQBFlA9P"
       },
@@ -1955,6 +1939,22 @@
       "duration_ms": 208253,
       "name": "Let It Rock (Live from Blueberry Hill)",
       "url": "https://open.spotify.com/track/6tc69oV0eeSgoQvGAzP7a1"
+    },
+    {
+      "added_at": "2023-10-13 00:01:00",
+      "album": {
+        "name": "Down At The Railway",
+        "url": "https://open.spotify.com/album/2HvqgtyVEJX3G3eZxkfonX"
+      },
+      "artists": [
+        {
+          "name": "Smokestack Blues Band",
+          "url": "https://open.spotify.com/artist/0ImMr2pKH8DaYvhB6gtV5s"
+        }
+      ],
+      "duration_ms": 196115,
+      "name": "Pack Fair and Square",
+      "url": "https://open.spotify.com/track/3QhDPahbCLsXCNXwjrsySw"
     },
     {
       "added_at": "2023-10-13 00:01:00",
@@ -2023,22 +2023,6 @@
     {
       "added_at": "2023-10-13 00:01:00",
       "album": {
-        "name": "Who Is He?",
-        "url": "https://open.spotify.com/album/0NhSm5EghvrjBuHtg0mZ6e"
-      },
-      "artists": [
-        {
-          "name": "Dylan Triplett",
-          "url": "https://open.spotify.com/artist/3hCmpGNTSpLH1Dj74VLNJN"
-        }
-      ],
-      "duration_ms": 210946,
-      "name": "Feels Good Doin' Bad",
-      "url": "https://open.spotify.com/track/3xtSEgKwfAwuHLyEGmmgHX"
-    },
-    {
-      "added_at": "2023-10-13 00:01:00",
-      "album": {
         "name": "Fat Man in the Bathtub (Live at The Rainbow, London, England, 8/2/77)",
         "url": "https://open.spotify.com/album/5wG3OiBqX45j3xvIMwq6a7"
       },
@@ -2051,6 +2035,22 @@
       "duration_ms": 304466,
       "name": "Fat Man in the Bathtub (Live at The Rainbow, London, England, 8/2/77)",
       "url": "https://open.spotify.com/track/70HkPi6r1kKd2qBCn4dmsL"
+    },
+    {
+      "added_at": "2023-10-13 00:01:00",
+      "album": {
+        "name": "Who Is He?",
+        "url": "https://open.spotify.com/album/0NhSm5EghvrjBuHtg0mZ6e"
+      },
+      "artists": [
+        {
+          "name": "Dylan Triplett",
+          "url": "https://open.spotify.com/artist/3hCmpGNTSpLH1Dj74VLNJN"
+        }
+      ],
+      "duration_ms": 210946,
+      "name": "Feels Good Doin' Bad",
+      "url": "https://open.spotify.com/track/3xtSEgKwfAwuHLyEGmmgHX"
     },
     {
       "added_at": "2023-10-13 00:01:00",
@@ -2267,22 +2267,6 @@
     {
       "added_at": "2023-10-13 00:01:00",
       "album": {
-        "name": "The Original Lost Elektra Sessions",
-        "url": "https://open.spotify.com/album/1cJp20pcnm5tM2eeBhIbMz"
-      },
-      "artists": [
-        {
-          "name": "The Paul Butterfield Blues Band",
-          "url": "https://open.spotify.com/artist/6kz7WuPaUa4QVreP27I33i"
-        }
-      ],
-      "duration_ms": 274693,
-      "name": "Hate to See You Go",
-      "url": "https://open.spotify.com/track/57Paxn9MrW8d8FmFyndLKj"
-    },
-    {
-      "added_at": "2023-10-13 00:01:00",
-      "album": {
         "name": "I'm Just Getting Started!",
         "url": "https://open.spotify.com/album/3PdVX86oO0mDnceN43LKPr"
       },
@@ -2299,6 +2283,22 @@
       "duration_ms": 236693,
       "name": "Leavin Trunk",
       "url": "https://open.spotify.com/track/78dp9ik3tgXCVmbOoqo0YS"
+    },
+    {
+      "added_at": "2023-10-13 00:01:00",
+      "album": {
+        "name": "The Original Lost Elektra Sessions",
+        "url": "https://open.spotify.com/album/1cJp20pcnm5tM2eeBhIbMz"
+      },
+      "artists": [
+        {
+          "name": "The Paul Butterfield Blues Band",
+          "url": "https://open.spotify.com/artist/6kz7WuPaUa4QVreP27I33i"
+        }
+      ],
+      "duration_ms": 274693,
+      "name": "Hate to See You Go",
+      "url": "https://open.spotify.com/track/57Paxn9MrW8d8FmFyndLKj"
     },
     {
       "added_at": "2023-10-13 00:01:00",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYLUQ5WYaArq.md) - [plain]
 
 > Take a moment to relax with the ultimate chill throwbacks\. Cover: Matt Corby
 
-[Spotify](https://open.spotify.com/user/spotify) - 363,731 likes - 60 songs - 4 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 363,737 likes - 60 songs - 4 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYLUQ5WYaArq.md) - [plain]
 | 59 | [So True](https://open.spotify.com/track/14hWOhIOzVTvbyWpyycCKV) | [The Black Seeds](https://open.spotify.com/artist/0Q35wRRhdsU8EbsJ1eouCY) | [On the Sun](https://open.spotify.com/album/6dCt6lj7XmPTFJ0edW4CLP) | 3:54 |
 | 60 | [Bathe in the River](https://open.spotify.com/track/3VKlTdnQghO9FQbgSg3lxc) | [The Mt Raskil Preservation Society](https://open.spotify.com/artist/0S5qiKqhN3Ili9ElJvtDmy), [Hollie Smith](https://open.spotify.com/artist/4cIp9eVnE7FyqDf0Eqfzcr) | [Birds of Paradise](https://open.spotify.com/album/2LniqkKhjbdV012AtOCffz) | 4:24 |
 
-Snapshot ID: `MCxhODU1YTQ1ZDNhY2YyNzE2ZjY5NjQ5M2U2MDg5NDBmNDYzNTVkNzRm`
+Snapshot ID: `MCwzYjYyZDE4MDI2NTVjN2U2ZmNlYzZlMzA1NzY4ODIyM2Q5NTgzMDgy`

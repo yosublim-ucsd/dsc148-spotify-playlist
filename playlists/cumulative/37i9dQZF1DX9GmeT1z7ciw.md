@@ -4,11 +4,12 @@
 
 > 時には、思いっきりラウドな音に感情を乗せてシャウト。 Shout your heart out with these loud tracks.
 
-62 songs - 3 hr 28 min
+63 songs - 3 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [A Ghost Of Walls](https://open.spotify.com/track/2nxd5HFwfplk247PJWNozD) | [SHADOWS](https://open.spotify.com/artist/0VyVlaKyEJ2NFJnxxYgyt3) | [A Ghost Of Walls](https://open.spotify.com/album/3i9lYUXLCZLuXPl9pF5ZT2) | 3:27 | 2023-09-07 | 2023-10-04 |
+| [About Face](https://open.spotify.com/track/4UtVrX1mjZZVlCqNAgc2z4) | [TRUE FIGHT](https://open.spotify.com/artist/4ZmXWMtBQWqaB8dq5fusNN) | [About Face](https://open.spotify.com/album/1LpsAWfPqXfS4kPPIsOAkD) | 1:22 | 2023-10-17 |  |
 | [ANGRY ANGRY](https://open.spotify.com/track/63yTYB5K8F740zeamXxfqR) | [HARU NEMURI](https://open.spotify.com/artist/3cn7Ujrlj3rdyuqmOYhBJT), [Jaguar Jonze](https://open.spotify.com/artist/0QClnkSUCnc9chv8MLyTaR) | [ANGRY ANGRY](https://open.spotify.com/album/0FhARxlWLGbY3vVXczowGe) | 2:16 | 2023-09-07 |  |
 | [AREA PD](https://open.spotify.com/track/2vdO4HCh3Ya4B6U044UdCh) | [Paledusk](https://open.spotify.com/artist/2GWuBfYdmPB91krBNQavHa) | [AREA PD](https://open.spotify.com/album/4QC4o5bDLPMDLPk4Hs2M22) | 2:57 | 2023-09-07 |  |
 | [Bloody Power Fame](https://open.spotify.com/track/6oshufDccwvnIwKCvKayb6) | [coldrain](https://open.spotify.com/artist/4pCVGaLWxDe4d8bsjsnmUM) | [Bloody Power Fame](https://open.spotify.com/album/4H9aESabZLTv3U8FEAxvsI) | 3:58 | 2023-09-07 |  |
@@ -25,10 +26,10 @@
 | [eat acid, see god\. \(feat\. Paledusk\)](https://open.spotify.com/track/3160hDliIYzBqceX8gTjwH) | [CVLTE](https://open.spotify.com/artist/3IVZ4DbJgnhOtXQruNdomA), [Paledusk](https://open.spotify.com/artist/2GWuBfYdmPB91krBNQavHa) | [HEDONIST](https://open.spotify.com/album/2hJqttVXOCMHCGrfqkkuRl) | 2:57 | 2023-09-07 |  |
 | [EXiSTENCE](https://open.spotify.com/track/4NOO855YQh16AF5FhhO41L) | [SiM](https://open.spotify.com/artist/2BM933ADIluGGrPBOhPgIt) | [THE BEAUTiFUL PEOPLE](https://open.spotify.com/album/5GZMmsnK1viNAVvxIBB98A) | 4:04 | 2023-09-07 |  |
 | [GIANT KILLING](https://open.spotify.com/track/33vKlMcJhRU005TOkOJENe) | [ASH DA HERO](https://open.spotify.com/artist/2XKXvzE0lpnqHcqu5l2lyT) | [GIANT KILLING](https://open.spotify.com/album/47tD9GEsmupZendBdQChlz) | 3:28 | 2023-09-07 | 2023-09-15 |
-| [GIANT KILLING](https://open.spotify.com/track/5B2dUopTUbPBD9Q0Zgfysf) | [ASH DA HERO](https://open.spotify.com/artist/2XKXvzE0lpnqHcqu5l2lyT) | [HUMAN](https://open.spotify.com/album/4qSxXHpKqiVSlrpXY5Vj1l) | 3:28 | 2023-09-07 |  |
+| [GIANT KILLING](https://open.spotify.com/track/5B2dUopTUbPBD9Q0Zgfysf) | [ASH DA HERO](https://open.spotify.com/artist/2XKXvzE0lpnqHcqu5l2lyT) | [HUMAN](https://open.spotify.com/album/4qSxXHpKqiVSlrpXY5Vj1l) | 3:28 | 2023-09-07 | 2023-10-18 |
 | [GODBLAST](https://open.spotify.com/track/7DQ5JwO0oEwm9IjYfaQGfB) | [Earthists.](https://open.spotify.com/artist/2fW1q3e7jiCe9l55PlIcNE) | [GODBLAST](https://open.spotify.com/album/1neW5Xgp9wEk3xZHDFq13s) | 3:06 | 2023-09-07 |  |
 | [Home](https://open.spotify.com/track/1YhaeT8EygMA6OaUVwrow4) | [MY FIRST STORY](https://open.spotify.com/artist/6cutt8thPFUICMfxaYerWd) | [ANTITHESE](https://open.spotify.com/album/1brsSK66B0UZYqyLjvG9kK) | 4:01 | 2023-09-07 |  |
-| [Hunter or Prey](https://open.spotify.com/track/1mSzEhQw7CH50j9e97un0V) | [NOISEMAKER](https://open.spotify.com/artist/02usiGXga5g4aQteRySLXQ) | [AXIS](https://open.spotify.com/album/3qKwhlHo13SRpExp9et5eQ) | 3:44 | 2023-09-07 |  |
+| [Hunter or Prey](https://open.spotify.com/track/1mSzEhQw7CH50j9e97un0V) | [NOISEMAKER](https://open.spotify.com/artist/02usiGXga5g4aQteRySLXQ) | [AXIS](https://open.spotify.com/album/3qKwhlHo13SRpExp9et5eQ) | 3:44 | 2023-09-07 | 2023-10-18 |
 | [Hyperhell](https://open.spotify.com/track/1NgQvI5UhPKnqSS2f5eQoF) | [Earthists.](https://open.spotify.com/artist/2fW1q3e7jiCe9l55PlIcNE) | [Hyperhell](https://open.spotify.com/album/7FwB8j1LLXMbkoYxfy3TuN) | 2:41 | 2023-09-07 | 2023-10-04 |
 | [I don't know](https://open.spotify.com/track/3qh01ZvWwxt1GV5bzOaUIC) | [Number Girl](https://open.spotify.com/artist/0FXxQ0TEYtebM8gGg0xdoC) | [OMOIDE IN MY HEAD 1 \~BEST & B\-SIDES\~](https://open.spotify.com/album/6ZVISn3PfMoymy86TllKg5) | 3:19 | 2023-09-07 |  |
 | [i don't wanna be](https://open.spotify.com/track/5cEBCMlHGGoShjfmmtfjJg) | [MY FIRST STORY](https://open.spotify.com/artist/6cutt8thPFUICMfxaYerWd) | [i don't wanna be](https://open.spotify.com/album/5D0iizWvM5gdeduQST36rh) | 3:36 | 2023-10-03 |  |
@@ -52,7 +53,7 @@
 | [Rave\-up Tonight](https://open.spotify.com/track/4a6UFsB5YKrGYwC50RK5im) | [Fear, and Loathing in Las Vegas](https://open.spotify.com/artist/5iZSZ19Lnt6iQTDITRF7Mn) | [PHASE 2](https://open.spotify.com/album/5NvvNBuNHN9iDy1MdNYDrK) | 3:22 | 2023-09-07 |  |
 | [RUMBLE](https://open.spotify.com/track/5TJii7hQr93G7yYdgO5RAU) | [Paledusk](https://open.spotify.com/artist/2GWuBfYdmPB91krBNQavHa), [Masato](https://open.spotify.com/artist/11xDXwn09ERXhnM1wZgywo) | [RUMBLE](https://open.spotify.com/album/1q3QicMrnFJ4RrdFcVyvig) | 4:41 | 2023-10-03 |  |
 | [Save Yourself](https://open.spotify.com/track/5D5fiDX8MhK3lfHJmZZmpt) | [ONE OK ROCK](https://open.spotify.com/artist/7k73EtZwoPs516ZxE72KsO) | [Luxury Disease](https://open.spotify.com/album/7bR908SDBENoC7rqC0k4h4) | 3:17 | 2023-09-07 |  |
-| [scorpion.](https://open.spotify.com/track/3JGeI4YN3Luqsvo0EXjXND) | [CVLTE](https://open.spotify.com/artist/3IVZ4DbJgnhOtXQruNdomA) | [scorpion.](https://open.spotify.com/album/572kvsrM2Jb4EmO93m65Om) | 2:43 | 2023-10-03 | 2023-10-08 |
+| [scorpion.](https://open.spotify.com/track/3JGeI4YN3Luqsvo0EXjXND) | [CVLTE](https://open.spotify.com/artist/3IVZ4DbJgnhOtXQruNdomA) | [scorpion.](https://open.spotify.com/album/572kvsrM2Jb4EmO93m65Om) | 2:43 | 2023-10-03 |  |
 | [Shambles](https://open.spotify.com/track/590KvwnYag62VRzmXM7dOk) | [BAND\-MAID](https://open.spotify.com/artist/5Wh3G01Xfxn2zzEZNpuYHH) | [Shambles](https://open.spotify.com/album/4hhkj6li1ULllYOZJHFt7w) | 3:22 | 2023-09-07 |  |
 | [Shinra Dark Pop](https://open.spotify.com/track/1EcQCDJGRTbUyGHhAvyRvT) | [星熊南巫](https://open.spotify.com/artist/4QHRf4j0MXjcghBBXhKE2U) | [Shinra Dark Pop](https://open.spotify.com/album/1pD3UcDc6DNbzkYNl9yehf) | 2:10 | 2023-09-07 |  |
 | [STARS](https://open.spotify.com/track/0mMikRupn84z6woeMHccz1) | [w.o.d.](https://open.spotify.com/artist/06sqnZl2EzpyIamhM1u3eO) | [STARS](https://open.spotify.com/album/758HaOSUUneTb9qVyurf3x) | 3:33 | 2023-09-07 |  |

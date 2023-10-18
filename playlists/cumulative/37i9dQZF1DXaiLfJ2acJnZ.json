@@ -171,6 +171,24 @@
     },
     {
       "album": {
+        "name": "All The Boys",
+        "url": "https://open.spotify.com/album/1sDb15lhCdE9wI8yTP7w6i"
+      },
+      "artists": [
+        {
+          "name": "Bea and her Business",
+          "url": "https://open.spotify.com/artist/6Jl6Xw5FnzQqmKNodwbKym"
+        }
+      ],
+      "date_added": "2023-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151906,
+      "name": "All The Boys",
+      "url": "https://open.spotify.com/track/09mqylqFZIQprBxExnZ5Xr"
+    },
+    {
+      "album": {
         "name": "Amelia",
         "url": "https://open.spotify.com/album/0tqx2yq6GywrCBUMSfev3D"
       },
@@ -280,7 +298,7 @@
       ],
       "date_added": "2023-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-18",
       "duration_ms": 224429,
       "name": "Are You Awake?",
       "url": "https://open.spotify.com/track/6liAgoBoFdFbKW4ai28HIE"
@@ -716,7 +734,7 @@
       ],
       "date_added": "2023-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-18",
       "duration_ms": 190045,
       "name": "Bulletproof",
       "url": "https://open.spotify.com/track/0p44iWv9aQIxAhozDpfBW6"
@@ -972,7 +990,7 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-04",
+      "date_removed": null,
       "duration_ms": 215617,
       "name": "Common People",
       "url": "https://open.spotify.com/track/2TQ0cuDK170Tz73DSHY0iI"
@@ -1008,7 +1026,7 @@
       ],
       "date_added": "2023-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-18",
       "duration_ms": 159239,
       "name": "Crash",
       "url": "https://open.spotify.com/track/5zZ0Nn7XsH0lxmGMxLsagd"
@@ -2318,7 +2336,7 @@
       ],
       "date_added": "2023-06-16",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-06",
+      "date_removed": null,
       "duration_ms": 165423,
       "name": "Hold On Me",
       "url": "https://open.spotify.com/track/5oNHxV8Ls8wlnQbi5BGOk0"
@@ -2676,6 +2694,24 @@
       "duration_ms": 164202,
       "name": "imagine",
       "url": "https://open.spotify.com/track/716eVtciaJCtTcaknS3QXr"
+    },
+    {
+      "album": {
+        "name": "Paint My Bedroom Black",
+        "url": "https://open.spotify.com/album/0o9lEiGZLsVcfTwl6z77oB"
+      },
+      "artists": [
+        {
+          "name": "Holly Humberstone",
+          "url": "https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx"
+        }
+      ],
+      "date_added": "2023-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209787,
+      "name": "Into Your Room",
+      "url": "https://open.spotify.com/track/6fseCeuOF8hFsuYiVkg69J"
     },
     {
       "album": {
@@ -3331,6 +3367,24 @@
     },
     {
       "album": {
+        "name": "More to me",
+        "url": "https://open.spotify.com/album/5feSG8uVsqlDWrMrzIrInL"
+      },
+      "artists": [
+        {
+          "name": "dexter in the newsagent",
+          "url": "https://open.spotify.com/artist/3bAdh9KH0kxlwrfz7Uh5Aa"
+        }
+      ],
+      "date_added": "2023-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135256,
+      "name": "More to me",
+      "url": "https://open.spotify.com/track/0J1qkBgPKmgAY3M3BPe1QR"
+    },
+    {
+      "album": {
         "name": "Mountain",
         "url": "https://open.spotify.com/album/3iRiuWFQaB6J31fqTl0oiw"
       },
@@ -3498,7 +3552,7 @@
       ],
       "date_added": "2023-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-18",
       "duration_ms": 225789,
       "name": "Never Gonna Not Dance Again",
       "url": "https://open.spotify.com/track/6sZo5nJIsFWXefRCCexpx0"
@@ -3855,6 +3909,24 @@
     },
     {
       "album": {
+        "name": "Paint My Bedroom Black",
+        "url": "https://open.spotify.com/album/0o9lEiGZLsVcfTwl6z77oB"
+      },
+      "artists": [
+        {
+          "name": "Holly Humberstone",
+          "url": "https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx"
+        }
+      ],
+      "date_added": "2023-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229713,
+      "name": "Paint My Bedroom Black",
+      "url": "https://open.spotify.com/track/7cK2XNWfStvxYg6NOfFLoe"
+    },
+    {
+      "album": {
         "name": "Portraits",
         "url": "https://open.spotify.com/album/0ntTitta8btOS93RiM3TrO"
       },
@@ -3949,6 +4021,24 @@
     },
     {
       "album": {
+        "name": "pink dress",
+        "url": "https://open.spotify.com/album/2By8efmDvVvtVaWyJdyx0s"
+      },
+      "artists": [
+        {
+          "name": "Humble the Great",
+          "url": "https://open.spotify.com/artist/2mt0DSoD1Lc8halPyRTVHP"
+        }
+      ],
+      "date_added": "2023-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173329,
+      "name": "pink dress",
+      "url": "https://open.spotify.com/track/2MBuWN9LjsJSKyGlWSJOXo"
+    },
+    {
+      "album": {
         "name": "Heartbeat Changes (Part 1)",
         "url": "https://open.spotify.com/album/6tSDdE4ynfCuAPjjcIvc87"
       },
@@ -3996,7 +4086,7 @@
       ],
       "date_added": "2023-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-18",
       "duration_ms": 203786,
       "name": "Popcorn and a Smoothie",
       "url": "https://open.spotify.com/track/217lMAhuyxm8Smz7OeSiJ7"
@@ -4018,6 +4108,28 @@
       "duration_ms": 204907,
       "name": "Pretty Face",
       "url": "https://open.spotify.com/track/76FIWDl9FJBphuJhjPkYtr"
+    },
+    {
+      "album": {
+        "name": "Pretty Girl (with Rema)",
+        "url": "https://open.spotify.com/album/4IjqbyZZsfaNHnxV92CFuH"
+      },
+      "artists": [
+        {
+          "name": "Ice Spice",
+          "url": "https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf"
+        },
+        {
+          "name": "Rema",
+          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
+        }
+      ],
+      "date_added": "2023-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137907,
+      "name": "Pretty Girl (with Rema)",
+      "url": "https://open.spotify.com/track/1p5GikXPiCkw5T2VrSPrO1"
     },
     {
       "album": {
@@ -4050,7 +4162,7 @@
       ],
       "date_added": "2023-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-18",
       "duration_ms": 234266,
       "name": "Promise",
       "url": "https://open.spotify.com/track/08PdFBcXzpkn1cWNgmKqhn"
@@ -4458,7 +4570,7 @@
       ],
       "date_added": "2023-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-18",
       "duration_ms": 141648,
       "name": "Self-Portrait",
       "url": "https://open.spotify.com/track/0vcCSUW0GskE8uN2xdj60f"
@@ -5472,7 +5584,7 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-18",
       "duration_ms": 204106,
       "name": "Want You Back",
       "url": "https://open.spotify.com/track/4ZGC3yb7ObpkN2rj3t7l9N"

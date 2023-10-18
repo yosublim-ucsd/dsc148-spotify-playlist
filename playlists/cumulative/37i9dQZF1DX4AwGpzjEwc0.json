@@ -4038,7 +4038,7 @@
       ],
       "date_added": "2023-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-18",
       "duration_ms": 185875,
       "name": "North of the Stars",
       "url": "https://open.spotify.com/track/1aH6uE9Clag7vlhBv4PQ9d"
@@ -4132,6 +4132,24 @@
       "duration_ms": 187004,
       "name": "Once Upon A Time",
       "url": "https://open.spotify.com/track/1z7EOsEf4wCOCsqHep43pf"
+    },
+    {
+      "album": {
+        "name": "Open Wings To Fly",
+        "url": "https://open.spotify.com/album/5Jv2ENPuHQZ2d5Eq8w6FIF"
+      },
+      "artists": [
+        {
+          "name": "Antoine Di Luzio",
+          "url": "https://open.spotify.com/artist/0nvI5DwMokXVsbHH7sBuwv"
+        }
+      ],
+      "date_added": "2023-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138492,
+      "name": "Open Wings To Fly",
+      "url": "https://open.spotify.com/track/4cYaNAmm0gtwTVAZKmANUF"
     },
     {
       "album": {
@@ -4690,6 +4708,24 @@
       "duration_ms": 136000,
       "name": "Remembrance",
       "url": "https://open.spotify.com/track/3yZHqhElpkIWaHA1yUFCIH"
+    },
+    {
+      "album": {
+        "name": "Reminder",
+        "url": "https://open.spotify.com/album/1Z7r4T5wjvImk7BOaSZtf2"
+      },
+      "artists": [
+        {
+          "name": "Geir Gudmundson",
+          "url": "https://open.spotify.com/artist/6Y1fkM0GSMtbOYT8iNjup5"
+        }
+      ],
+      "date_added": "2023-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248139,
+      "name": "Reminder",
+      "url": "https://open.spotify.com/track/5nRqY2Ujz9GkqbZRx8oiU6"
     },
     {
       "album": {
@@ -6380,7 +6416,7 @@
       ],
       "date_added": "2023-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-18",
       "duration_ms": 157250,
       "name": "Tout ira bien",
       "url": "https://open.spotify.com/track/27PKnZV5onvCSCHEViDuJN"

@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Lo m\u00e1s fresco del hip-hop en espa\u00f1ol! Tino el Ping\u00fcino en portada. ",
-  "num_followers": 11583,
+  "num_followers": 11585,
   "original_name": "Rimas Frescas ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiNDMxOWVmMDA2ZjY5YzViZjlkMTI2ZWYwYjg3ZDM0NDk5ODIwZjdj",
+  "snapshot_id": "MCw1ZDFjNzI5ZDI3YWEzOTY3N2IyOGU3MDUzOTE3Njc1MGI2NTE4OGYy",
   "tracks": [
     {
       "added_at": "2023-10-13 06:00:00",
@@ -455,30 +455,6 @@
     {
       "added_at": "2023-10-13 06:00:00",
       "album": {
-        "name": "400 Estrellas",
-        "url": "https://open.spotify.com/album/64jUlMiRacXh6dgXaA4Zfr"
-      },
-      "artists": [
-        {
-          "name": "Charles Ans",
-          "url": "https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL"
-        },
-        {
-          "name": "Sharif",
-          "url": "https://open.spotify.com/artist/5pIapcAHb6WV4fUjfQchMf"
-        },
-        {
-          "name": "Caztro",
-          "url": "https://open.spotify.com/artist/1YvkzmaJLVRHSJ8J5YzoaW"
-        }
-      ],
-      "duration_ms": 223875,
-      "name": "400 Estrellas",
-      "url": "https://open.spotify.com/track/7KoRTkn1EfYjEdmo0GbUOE"
-    },
-    {
-      "added_at": "2023-10-13 06:00:00",
-      "album": {
         "name": "T\u00fa Tienes el Son",
         "url": "https://open.spotify.com/album/0YVNvh5zedGZ2cOmC6tD3E"
       },
@@ -499,6 +475,30 @@
       "duration_ms": 181418,
       "name": "T\u00fa Tienes el Son",
       "url": "https://open.spotify.com/track/5UBSfqsnxc2GW86eHEsuA2"
+    },
+    {
+      "added_at": "2023-10-13 06:00:00",
+      "album": {
+        "name": "400 Estrellas",
+        "url": "https://open.spotify.com/album/64jUlMiRacXh6dgXaA4Zfr"
+      },
+      "artists": [
+        {
+          "name": "Charles Ans",
+          "url": "https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL"
+        },
+        {
+          "name": "Sharif",
+          "url": "https://open.spotify.com/artist/5pIapcAHb6WV4fUjfQchMf"
+        },
+        {
+          "name": "Caztro",
+          "url": "https://open.spotify.com/artist/1YvkzmaJLVRHSJ8J5YzoaW"
+        }
+      ],
+      "duration_ms": 223875,
+      "name": "400 Estrellas",
+      "url": "https://open.spotify.com/track/7KoRTkn1EfYjEdmo0GbUOE"
     },
     {
       "added_at": "2023-10-13 06:00:00",
@@ -959,26 +959,6 @@
     {
       "added_at": "2023-10-13 06:00:00",
       "album": {
-        "name": "Tranquilo",
-        "url": "https://open.spotify.com/album/6YRiaULjOY1hjYBaEjQy8Y"
-      },
-      "artists": [
-        {
-          "name": "El Pinche Mara",
-          "url": "https://open.spotify.com/artist/3L7OHIT4kfdcDSnnGM0TKN"
-        },
-        {
-          "name": "Teo LB",
-          "url": "https://open.spotify.com/artist/0HwtulWF8xZD2g2IMhNXwo"
-        }
-      ],
-      "duration_ms": 227702,
-      "name": "Tranquilo",
-      "url": "https://open.spotify.com/track/35K0LpLwLnV8XVlwMHu1yA"
-    },
-    {
-      "added_at": "2023-10-13 06:00:00",
-      "album": {
         "name": "Hu\u00e9spedes",
         "url": "https://open.spotify.com/album/1w7kDlcGPcwLgX4BnrExmk"
       },
@@ -995,6 +975,26 @@
       "duration_ms": 276752,
       "name": "Hu\u00e9spedes",
       "url": "https://open.spotify.com/track/1mPF3G23BgqdNjHdXtyX9i"
+    },
+    {
+      "added_at": "2023-10-13 06:00:00",
+      "album": {
+        "name": "Tranquilo",
+        "url": "https://open.spotify.com/album/6YRiaULjOY1hjYBaEjQy8Y"
+      },
+      "artists": [
+        {
+          "name": "El Pinche Mara",
+          "url": "https://open.spotify.com/artist/3L7OHIT4kfdcDSnnGM0TKN"
+        },
+        {
+          "name": "Teo LB",
+          "url": "https://open.spotify.com/artist/0HwtulWF8xZD2g2IMhNXwo"
+        }
+      ],
+      "duration_ms": 227702,
+      "name": "Tranquilo",
+      "url": "https://open.spotify.com/track/35K0LpLwLnV8XVlwMHu1yA"
     },
     {
       "added_at": "2023-10-13 06:00:00",
@@ -1087,26 +1087,6 @@
     {
       "added_at": "2023-10-13 06:00:00",
       "album": {
-        "name": "El Callej\u00f3n",
-        "url": "https://open.spotify.com/album/0UwpMqSIC8OLScazUEkLaW"
-      },
-      "artists": [
-        {
-          "name": "Jorge Carmona",
-          "url": "https://open.spotify.com/artist/1cyJ1lO4GCV0npo5vyg3xX"
-        },
-        {
-          "name": "Sipo One",
-          "url": "https://open.spotify.com/artist/76V5aARZFI750zk1BglDV2"
-        }
-      ],
-      "duration_ms": 256049,
-      "name": "El Callej\u00f3n",
-      "url": "https://open.spotify.com/track/65mTGc1h4zh40PExo9BXfI"
-    },
-    {
-      "added_at": "2023-10-13 06:00:00",
-      "album": {
         "name": "Enrolemos uno",
         "url": "https://open.spotify.com/album/5gaExTOw8xJLQdZkDwEqRE"
       },
@@ -1151,6 +1131,26 @@
       "duration_ms": 237453,
       "name": "La Hora Es\u2026",
       "url": "https://open.spotify.com/track/31to9V2JYareFfkoLQsEd6"
+    },
+    {
+      "added_at": "2023-10-13 06:00:00",
+      "album": {
+        "name": "El Callej\u00f3n",
+        "url": "https://open.spotify.com/album/0UwpMqSIC8OLScazUEkLaW"
+      },
+      "artists": [
+        {
+          "name": "Jorge Carmona",
+          "url": "https://open.spotify.com/artist/1cyJ1lO4GCV0npo5vyg3xX"
+        },
+        {
+          "name": "Sipo One",
+          "url": "https://open.spotify.com/artist/76V5aARZFI750zk1BglDV2"
+        }
+      ],
+      "duration_ms": 256049,
+      "name": "El Callej\u00f3n",
+      "url": "https://open.spotify.com/track/65mTGc1h4zh40PExo9BXfI"
     },
     {
       "added_at": "2023-10-13 06:00:00",
@@ -1323,22 +1323,6 @@
     {
       "added_at": "2023-10-13 06:00:00",
       "album": {
-        "name": "El Orfanato",
-        "url": "https://open.spotify.com/album/7CtW9Y0W2Sxo8BX8GY5gxo"
-      },
-      "artists": [
-        {
-          "name": "Al2 El Aldeano",
-          "url": "https://open.spotify.com/artist/6lYSDSFhJyUV6CtNix2fBA"
-        }
-      ],
-      "duration_ms": 325107,
-      "name": "El Orfanato",
-      "url": "https://open.spotify.com/track/2qz8xEfDz2RARPMZdgk4FV"
-    },
-    {
-      "added_at": "2023-10-13 06:00:00",
-      "album": {
         "name": "M\u00e1s de Ti",
         "url": "https://open.spotify.com/album/72ct55HUoVEWCeWpogQHeT"
       },
@@ -1359,6 +1343,22 @@
     {
       "added_at": "2023-10-13 06:00:00",
       "album": {
+        "name": "El Orfanato",
+        "url": "https://open.spotify.com/album/7CtW9Y0W2Sxo8BX8GY5gxo"
+      },
+      "artists": [
+        {
+          "name": "Al2 El Aldeano",
+          "url": "https://open.spotify.com/artist/6lYSDSFhJyUV6CtNix2fBA"
+        }
+      ],
+      "duration_ms": 325107,
+      "name": "El Orfanato",
+      "url": "https://open.spotify.com/track/2qz8xEfDz2RARPMZdgk4FV"
+    },
+    {
+      "added_at": "2023-10-13 06:00:00",
+      "album": {
         "name": "Ajena",
         "url": "https://open.spotify.com/album/3NDt4OnBp1HAdFy0jOEC5t"
       },
@@ -1375,22 +1375,6 @@
     {
       "added_at": "2023-10-13 06:00:00",
       "album": {
-        "name": "Celos",
-        "url": "https://open.spotify.com/album/2mK8A5KVsMA9Fh7fP0770B"
-      },
-      "artists": [
-        {
-          "name": "Luck",
-          "url": "https://open.spotify.com/artist/7zwitdSes97HTlglggSPoj"
-        }
-      ],
-      "duration_ms": 149052,
-      "name": "Celos",
-      "url": "https://open.spotify.com/track/0lqYJX9XoHCsJKKCZ4hk60"
-    },
-    {
-      "added_at": "2023-10-13 06:00:00",
-      "album": {
         "name": "Arte",
         "url": "https://open.spotify.com/album/5SsyubVb6ry1L845ARB5x2"
       },
@@ -1403,6 +1387,22 @@
       "duration_ms": 229093,
       "name": "Arte",
       "url": "https://open.spotify.com/track/2AocneguErlK5cs3OrmZXb"
+    },
+    {
+      "added_at": "2023-10-13 06:00:00",
+      "album": {
+        "name": "Celos",
+        "url": "https://open.spotify.com/album/2mK8A5KVsMA9Fh7fP0770B"
+      },
+      "artists": [
+        {
+          "name": "Luck",
+          "url": "https://open.spotify.com/artist/7zwitdSes97HTlglggSPoj"
+        }
+      ],
+      "duration_ms": 149052,
+      "name": "Celos",
+      "url": "https://open.spotify.com/track/0lqYJX9XoHCsJKKCZ4hk60"
     },
     {
       "added_at": "2023-10-13 06:00:00",
@@ -1591,6 +1591,26 @@
     {
       "added_at": "2023-10-13 06:00:00",
       "album": {
+        "name": "Zoom",
+        "url": "https://open.spotify.com/album/0rDGF0mOdH57KIKRFy6dFq"
+      },
+      "artists": [
+        {
+          "name": "Lasser",
+          "url": "https://open.spotify.com/artist/5AlWoe0Tl7mmeNMdJCHRhj"
+        },
+        {
+          "name": "Amber Window",
+          "url": "https://open.spotify.com/artist/066Vam5XGA8T8NNl1sroAg"
+        }
+      ],
+      "duration_ms": 156891,
+      "name": "Nike 95",
+      "url": "https://open.spotify.com/track/4r2frsl6BuWbYUZLybprKa"
+    },
+    {
+      "added_at": "2023-10-13 06:00:00",
+      "album": {
         "name": "En Abril",
         "url": "https://open.spotify.com/album/4oyJfVyRMFrXc6DPFlDoiB"
       },
@@ -1631,26 +1651,6 @@
     {
       "added_at": "2023-10-13 06:00:00",
       "album": {
-        "name": "Zoom",
-        "url": "https://open.spotify.com/album/0rDGF0mOdH57KIKRFy6dFq"
-      },
-      "artists": [
-        {
-          "name": "Lasser",
-          "url": "https://open.spotify.com/artist/5AlWoe0Tl7mmeNMdJCHRhj"
-        },
-        {
-          "name": "Amber Window",
-          "url": "https://open.spotify.com/artist/066Vam5XGA8T8NNl1sroAg"
-        }
-      ],
-      "duration_ms": 156891,
-      "name": "Nike 95",
-      "url": "https://open.spotify.com/track/4r2frsl6BuWbYUZLybprKa"
-    },
-    {
-      "added_at": "2023-10-13 06:00:00",
-      "album": {
         "name": "La \u00daltima Canci\u00f3n",
         "url": "https://open.spotify.com/album/4ATSnu0qKCqM0U1Lw1qE0g"
       },
@@ -1663,6 +1663,22 @@
       "duration_ms": 181947,
       "name": "La \u00daltima Canci\u00f3n",
       "url": "https://open.spotify.com/track/6s6xMMFGXLntUYlgcKn0bD"
+    },
+    {
+      "added_at": "2023-10-13 06:00:00",
+      "album": {
+        "name": "Ni Familia Ni Amigos",
+        "url": "https://open.spotify.com/album/0W99Tp0kMrn1akzvvRiqag"
+      },
+      "artists": [
+        {
+          "name": "Afaz Natural",
+          "url": "https://open.spotify.com/artist/6wcHZUQ0rNcvv35os6xUQA"
+        }
+      ],
+      "duration_ms": 187586,
+      "name": "Ni Familia Ni Amigos",
+      "url": "https://open.spotify.com/track/1tkkPOjiF8rZOZYq66htDf"
     },
     {
       "added_at": "2023-10-13 06:00:00",
@@ -1695,22 +1711,6 @@
       "duration_ms": 219512,
       "name": "BARRA",
       "url": "https://open.spotify.com/track/5YsPLqZshBiKDzhOotNPqh"
-    },
-    {
-      "added_at": "2023-10-13 06:00:00",
-      "album": {
-        "name": "Ni Familia Ni Amigos",
-        "url": "https://open.spotify.com/album/0W99Tp0kMrn1akzvvRiqag"
-      },
-      "artists": [
-        {
-          "name": "Afaz Natural",
-          "url": "https://open.spotify.com/artist/6wcHZUQ0rNcvv35os6xUQA"
-        }
-      ],
-      "duration_ms": 187586,
-      "name": "Ni Familia Ni Amigos",
-      "url": "https://open.spotify.com/track/1tkkPOjiF8rZOZYq66htDf"
     },
     {
       "added_at": "2023-10-13 06:00:00",
@@ -1807,6 +1807,26 @@
     {
       "added_at": "2023-10-13 06:00:00",
       "album": {
+        "name": "Otra Ma\u00f1ana",
+        "url": "https://open.spotify.com/album/29brObp9wWNYkMmKJBRUgR"
+      },
+      "artists": [
+        {
+          "name": "JCKC",
+          "url": "https://open.spotify.com/artist/6Sf9Y7eQWVeAioiBobktSu"
+        },
+        {
+          "name": "Deyco",
+          "url": "https://open.spotify.com/artist/7bp6cKqrM7NIxhGxDKY0Lp"
+        }
+      ],
+      "duration_ms": 161832,
+      "name": "Otra Ma\u00f1ana",
+      "url": "https://open.spotify.com/track/61PqBSVrQj731y4fIEBd4l"
+    },
+    {
+      "added_at": "2023-10-13 06:00:00",
+      "album": {
         "name": "Planta",
         "url": "https://open.spotify.com/album/1kFWfmFolsdSRibvt85wzh"
       },
@@ -1863,26 +1883,6 @@
     {
       "added_at": "2023-10-13 06:00:00",
       "album": {
-        "name": "Otra Ma\u00f1ana",
-        "url": "https://open.spotify.com/album/29brObp9wWNYkMmKJBRUgR"
-      },
-      "artists": [
-        {
-          "name": "JCKC",
-          "url": "https://open.spotify.com/artist/6Sf9Y7eQWVeAioiBobktSu"
-        },
-        {
-          "name": "Deyco",
-          "url": "https://open.spotify.com/artist/7bp6cKqrM7NIxhGxDKY0Lp"
-        }
-      ],
-      "duration_ms": 161832,
-      "name": "Otra Ma\u00f1ana",
-      "url": "https://open.spotify.com/track/61PqBSVrQj731y4fIEBd4l"
-    },
-    {
-      "added_at": "2023-10-13 06:00:00",
-      "album": {
         "name": "LUFTHANSA",
         "url": "https://open.spotify.com/album/72nC9E2MjdwbSgwIYuzsMW"
       },
@@ -1895,38 +1895,6 @@
       "duration_ms": 187756,
       "name": "LUFTHANSA",
       "url": "https://open.spotify.com/track/4dsyAcNuZq2N8HsVB0xQa2"
-    },
-    {
-      "added_at": "2023-10-13 06:00:00",
-      "album": {
-        "name": "Pa Mis Loc@S",
-        "url": "https://open.spotify.com/album/2A7APHdcThRiDd6l5h27Pm"
-      },
-      "artists": [
-        {
-          "name": "Bipo Montana",
-          "url": "https://open.spotify.com/artist/6JG2QQcaQBzinELNvu9PRk"
-        }
-      ],
-      "duration_ms": 181100,
-      "name": "Pa Mis Loc@S",
-      "url": "https://open.spotify.com/track/2xHFsQtP81f7mGfhw8Svjl"
-    },
-    {
-      "added_at": "2023-10-13 06:00:00",
-      "album": {
-        "name": "Regar",
-        "url": "https://open.spotify.com/album/0asM9LNFjIzieexFwxzMAi"
-      },
-      "artists": [
-        {
-          "name": "Horus",
-          "url": "https://open.spotify.com/artist/4DO3YOE8E3NS1chgm6ZKxf"
-        }
-      ],
-      "duration_ms": 91114,
-      "name": "Regar",
-      "url": "https://open.spotify.com/track/7HInwQabVqKucZomXgeQe5"
     },
     {
       "added_at": "2023-10-13 06:00:00",
@@ -1955,6 +1923,22 @@
     {
       "added_at": "2023-10-13 06:00:00",
       "album": {
+        "name": "Pa Mis Loc@S",
+        "url": "https://open.spotify.com/album/2A7APHdcThRiDd6l5h27Pm"
+      },
+      "artists": [
+        {
+          "name": "Bipo Montana",
+          "url": "https://open.spotify.com/artist/6JG2QQcaQBzinELNvu9PRk"
+        }
+      ],
+      "duration_ms": 181100,
+      "name": "Pa Mis Loc@S",
+      "url": "https://open.spotify.com/track/2xHFsQtP81f7mGfhw8Svjl"
+    },
+    {
+      "added_at": "2023-10-13 06:00:00",
+      "album": {
         "name": "Merca Fina",
         "url": "https://open.spotify.com/album/38SRE2yA5N9HEzxfzGemFW"
       },
@@ -1975,6 +1959,22 @@
       "duration_ms": 170054,
       "name": "Merca Fina",
       "url": "https://open.spotify.com/track/25r3SrosSfuUCRfgZoiUvS"
+    },
+    {
+      "added_at": "2023-10-13 06:00:00",
+      "album": {
+        "name": "Regar",
+        "url": "https://open.spotify.com/album/0asM9LNFjIzieexFwxzMAi"
+      },
+      "artists": [
+        {
+          "name": "Horus",
+          "url": "https://open.spotify.com/artist/4DO3YOE8E3NS1chgm6ZKxf"
+        }
+      ],
+      "duration_ms": 91114,
+      "name": "Regar",
+      "url": "https://open.spotify.com/track/7HInwQabVqKucZomXgeQe5"
     },
     {
       "added_at": "2023-10-13 06:00:00",
@@ -2031,6 +2031,26 @@
     {
       "added_at": "2023-10-13 06:00:00",
       "album": {
+        "name": "B\u00fascame",
+        "url": "https://open.spotify.com/album/11NTTKfT7MWt8g8na0JZ06"
+      },
+      "artists": [
+        {
+          "name": "Kris Alaniz",
+          "url": "https://open.spotify.com/artist/2BBJWIcxT5ermErEg2LbWB"
+        },
+        {
+          "name": "La Bruja Salguero",
+          "url": "https://open.spotify.com/artist/1PvGlWWeeIvW3xeTjAZxda"
+        }
+      ],
+      "duration_ms": 224078,
+      "name": "B\u00fascame",
+      "url": "https://open.spotify.com/track/4ciKkwEp9mnBmXh1eY8KZk"
+    },
+    {
+      "added_at": "2023-10-13 06:00:00",
+      "album": {
         "name": "Lunes 12 B",
         "url": "https://open.spotify.com/album/5To2vorHQZA87w0PSrRqoD"
       },
@@ -2047,42 +2067,6 @@
       "duration_ms": 91669,
       "name": "Lunes 12 B",
       "url": "https://open.spotify.com/track/3t8cVVppZQYfHhfwHIk3yT"
-    },
-    {
-      "added_at": "2023-10-13 06:00:00",
-      "album": {
-        "name": "La Calle Llora",
-        "url": "https://open.spotify.com/album/7ikJ4foUE0oHwoJdASOwlC"
-      },
-      "artists": [
-        {
-          "name": "Made X La Calle",
-          "url": "https://open.spotify.com/artist/65XnSO2UIDvG0zQIjcrFAJ"
-        },
-        {
-          "name": "Sid MSC",
-          "url": "https://open.spotify.com/artist/60ltkiwaQfISsFpwwktCcb"
-        },
-        {
-          "name": "Alexis Linares",
-          "url": "https://open.spotify.com/artist/0mJWgWivNI3ioDcrlz5jy4"
-        },
-        {
-          "name": "Nueve Siete",
-          "url": "https://open.spotify.com/artist/7fzZKj3Tr03xohWrfinjBI"
-        },
-        {
-          "name": "Kush",
-          "url": "https://open.spotify.com/artist/7oScaVlu12AMNd8miidieh"
-        },
-        {
-          "name": "Skubby.V",
-          "url": "https://open.spotify.com/artist/6oHOsV3QP5gYuCqcPdSO9m"
-        }
-      ],
-      "duration_ms": 290397,
-      "name": "La Calle Llora",
-      "url": "https://open.spotify.com/track/0YxCHyRniH8traBWNtmgoB"
     }
   ],
   "unique_name": "Rimas Frescas ",

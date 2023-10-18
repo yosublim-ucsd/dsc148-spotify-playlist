@@ -4,7 +4,7 @@
 
 > Find what's fresh & buzzing in Christian & Gospel music right here!  Cover:  K\-Anthony
 
-210 songs - 13 hr 42 min
+211 songs - 13 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,6 +30,7 @@
 | [Build a Boat](https://open.spotify.com/track/4JVzoYdjh1LJZ4IGZyOHWF) | [Colton Dixon](https://open.spotify.com/artist/52oVYHQ99ORZzeig2YGo4R) | [Canvas](https://open.spotify.com/album/2l2BPv4eVYXFY3Es8mvFui) | 2:50 | 2022-10-29 |  |
 | [Build a Boat](https://open.spotify.com/track/4S5n7jpEICqOQupHEB43g6) | [Colton Dixon](https://open.spotify.com/artist/52oVYHQ99ORZzeig2YGo4R) | [Let It Snow](https://open.spotify.com/album/6BgmTvXhhGIYXW7EbPdtUV) | 2:50 | 2022-10-29 | 2023-07-14 |
 | [Burial](https://open.spotify.com/track/1VWktOJAGIbNzqmtCK8BHp) | [Mitch Wong](https://open.spotify.com/artist/0NmuD3IXcEGYAEX5hZxu39) | [Burial](https://open.spotify.com/album/0VzooohUIg7b3lgU9nwp7G) | 4:38 | 2022-10-29 |  |
+| [But God](https://open.spotify.com/track/2cRcWaw2Xg0RY7s5ZgrTZ3) | [Evvie McKinney](https://open.spotify.com/artist/7G7JWOsGhDMily2HtfzcIZ) | [Love, Evvie McKinney](https://open.spotify.com/album/19TJHZlE3D6OZ6lNSYGMQb) | 3:50 | 2022-10-29 |  |
 | [But the Cross](https://open.spotify.com/track/0NaNbWaGY87JEfdgB3bf1B) | [Ben Fuller](https://open.spotify.com/artist/57zYbDb1zNVoTYNUGmv45d) | [Who I Am](https://open.spotify.com/album/2AQpfAuGzzPvarUVlKjjTO) | 3:19 | 2022-10-29 |  |
 | [By Faith](https://open.spotify.com/track/2X8yEmE9roYNGM0QLlVM6R) | [7eventh Time Down](https://open.spotify.com/artist/15JWT0b1GY8dOBjVtrHaca) | [By Faith](https://open.spotify.com/album/6NNRsx24cGGrLZ3p3A9AmP) | 3:21 | 2022-10-29 | 2023-10-14 |
 | [Church](https://open.spotify.com/track/5c5Cn75uLZbYsGHVbDHVHD) | [Evvie McKinney](https://open.spotify.com/artist/7G7JWOsGhDMily2HtfzcIZ) | [Church](https://open.spotify.com/album/30cPB00t2FzvXPQLtSNJF8) | 2:49 | 2022-05-27 | 2022-10-30 |
@@ -53,7 +54,7 @@
 | [For the Love of God](https://open.spotify.com/track/5OrJhxKDfqRsikTH1SaWp7) | [Andrew Ripp](https://open.spotify.com/artist/7oAskcd3mX9ZzxMPFHYqoN) | [For the Love of God](https://open.spotify.com/album/0PXAm9ob71rL4Cyi4gQTq2) | 3:48 | 2022-10-29 |  |
 | [FOUGHT 4 LOVE](https://open.spotify.com/track/4Sor9OP41KfK7AB9uJYYM1) | [Vision of Leo](https://open.spotify.com/artist/21HnuUEkcsr902YIGJRL2e), [Joe L Barnes](https://open.spotify.com/artist/5nO7Yt0Jon48sqKR6VME4T) | [FOUGHT 4 LOVE](https://open.spotify.com/album/0rGLBwhYzI5VfXWztSKFHx) | 2:30 | 2022-10-29 |  |
 | [Free At Last](https://open.spotify.com/track/05PxyIJgvQSOtwWGymgsNj) | [Jason Crabb](https://open.spotify.com/artist/61SFRZAmfyJhcffwR2Ijuq) | [Free At Last](https://open.spotify.com/album/2IBcv1U7JHj4stGwDTInUG) | 3:46 | 2022-10-29 | 2023-04-30 |
-| [Free at Last](https://open.spotify.com/track/1lFEeSgKosaysClXoe0u8Y) | [Jason Crabb](https://open.spotify.com/artist/61SFRZAmfyJhcffwR2Ijuq) | [Free at Last](https://open.spotify.com/album/2lUN6K8o3TdUDusJbBK5Or) | 3:46 | 2022-10-29 |  |
+| [Free at Last](https://open.spotify.com/track/1lFEeSgKosaysClXoe0u8Y) | [Jason Crabb](https://open.spotify.com/artist/61SFRZAmfyJhcffwR2Ijuq) | [Free at Last](https://open.spotify.com/album/2lUN6K8o3TdUDusJbBK5Or) | 3:46 | 2022-10-29 | 2023-10-18 |
 | [Future](https://open.spotify.com/track/1vvQwgin7rkd3PSzS0vPrE) | [WE ARE ONE](https://open.spotify.com/artist/3c45wqHSEIsm43MNvb5Ifd) | [Future](https://open.spotify.com/album/250asL6HXVThavIF7t9rBc) | 3:25 | 2022-05-27 |  |
 | [God Is On The Throne](https://open.spotify.com/track/0YPnmywL8MvJpZhxeCrnC9) | [We The Kingdom](https://open.spotify.com/artist/5Ye2QWN2Wl9zTn947eaest) | [God Is On The Throne](https://open.spotify.com/album/3YxfTJzZ7P82a96RE2TzfZ) | 4:44 | 2022-10-29 |  |
 | [God Really Loves Us](https://open.spotify.com/track/6SoXCKgKyM8sAn246k1m6E) | [Travis Cottrell](https://open.spotify.com/artist/4q7PS6zi0CyrEo23orQCkW), [Hannah Kerr](https://open.spotify.com/artist/5FxshnB3eJ2YDn8xN8zDKq) | [The Kindness Of The Cross](https://open.spotify.com/album/1ry4KqnjXvicjKN5pjN7Pm) | 4:46 | 2022-10-29 |  |

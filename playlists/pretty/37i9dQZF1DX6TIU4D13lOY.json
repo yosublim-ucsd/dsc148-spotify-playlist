@@ -1,12 +1,12 @@
 {
   "description": "Classic soft rock for a nice and easy drive.",
-  "num_followers": 239173,
+  "num_followers": 239260,
   "original_name": "Soft Rock Drive",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmNTE0MzFkZjJmYWVlNTkyNTk5OWJlOWM3MWYyNjU3OWI0ZDVlYTNk",
+  "snapshot_id": "MCxkOTcxYTZiM2FhNjk5YTUxZDUxMmY3NDM0Njg3YTI5NzM4OGZkNzU1",
   "tracks": [
     {
       "added_at": "2020-01-07 15:31:11",
@@ -91,22 +91,6 @@
     {
       "added_at": "2020-01-07 15:31:11",
       "album": {
-        "name": "Minute by Minute",
-        "url": "https://open.spotify.com/album/7je2uv9QBH65HhADDZitbB"
-      },
-      "artists": [
-        {
-          "name": "The Doobie Brothers",
-          "url": "https://open.spotify.com/artist/39T6qqI0jDtSWWioX8eGJz"
-        }
-      ],
-      "duration_ms": 223866,
-      "name": "What a Fool Believes",
-      "url": "https://open.spotify.com/track/2yBVeksU2EtrPJbTu4ZslK"
-    },
-    {
-      "added_at": "2020-01-07 15:31:11",
-      "album": {
         "name": "Eye In The Sky (Expanded Edition)",
         "url": "https://open.spotify.com/album/4BGd9BmpePqeSfHLeYiCDr"
       },
@@ -119,6 +103,22 @@
       "duration_ms": 276280,
       "name": "Eye In The Sky",
       "url": "https://open.spotify.com/track/39qYD4J4BKvZMQgxfXl5bv"
+    },
+    {
+      "added_at": "2020-01-07 15:31:11",
+      "album": {
+        "name": "Minute by Minute",
+        "url": "https://open.spotify.com/album/7je2uv9QBH65HhADDZitbB"
+      },
+      "artists": [
+        {
+          "name": "The Doobie Brothers",
+          "url": "https://open.spotify.com/artist/39T6qqI0jDtSWWioX8eGJz"
+        }
+      ],
+      "duration_ms": 223866,
+      "name": "What a Fool Believes",
+      "url": "https://open.spotify.com/track/2yBVeksU2EtrPJbTu4ZslK"
     },
     {
       "added_at": "2020-01-07 15:31:11",
@@ -1131,22 +1131,6 @@
     {
       "added_at": "2020-01-07 15:31:11",
       "album": {
-        "name": "Dialogue",
-        "url": "https://open.spotify.com/album/1DxnK2IpTzpxiDWLZ1xNdK"
-      },
-      "artists": [
-        {
-          "name": "Michael Johnson",
-          "url": "https://open.spotify.com/artist/2XKBOnP3qXHP2FpzKplAYh"
-        }
-      ],
-      "duration_ms": 241266,
-      "name": "This Night Won't Last Forever",
-      "url": "https://open.spotify.com/track/3u9g38eyqu5eJxU4Mhhzam"
-    },
-    {
-      "added_at": "2020-01-07 15:31:11",
-      "album": {
         "name": "Maria Muldaur",
         "url": "https://open.spotify.com/album/63Yg3UQS5VcHutEskCmFPC"
       },
@@ -1159,6 +1143,22 @@
       "duration_ms": 229506,
       "name": "Midnight at the Oasis",
       "url": "https://open.spotify.com/track/5VBcEJ4mtXTmVEJtc7hx2g"
+    },
+    {
+      "added_at": "2020-01-07 15:31:11",
+      "album": {
+        "name": "Dialogue",
+        "url": "https://open.spotify.com/album/1DxnK2IpTzpxiDWLZ1xNdK"
+      },
+      "artists": [
+        {
+          "name": "Michael Johnson",
+          "url": "https://open.spotify.com/artist/2XKBOnP3qXHP2FpzKplAYh"
+        }
+      ],
+      "duration_ms": 241266,
+      "name": "This Night Won't Last Forever",
+      "url": "https://open.spotify.com/track/3u9g38eyqu5eJxU4Mhhzam"
     },
     {
       "added_at": "2020-01-07 15:31:11",

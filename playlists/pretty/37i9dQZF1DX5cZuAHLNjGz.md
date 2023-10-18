@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5cZuAHLNjGz.md) - [plain]
 
 > Ultimate 101 Punjabi Hits with Diljit Dosanjh
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,107,657 likes - 101 songs - 5 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,108,330 likes - 101 songs - 5 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5cZuAHLNjGz.md) - [plain]
 | 6 | [Jatt Vailly](https://open.spotify.com/track/18kRElgBSIAsd3DHPUajuI) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR), [thiarajxtt](https://open.spotify.com/artist/54BjV0qctcWp8xOip7uaJD) | [Ghost](https://open.spotify.com/album/1d1FYLFpu2NITI6ilVaHDd) | 2:31 |
 | 7 | [Daku](https://open.spotify.com/track/3wz2vWhYnnBoFmgMkqtzLy) | [Chani Nattan](https://open.spotify.com/artist/1sSYaQBOI71QZDZ9OWW3hp), [Inderpal Moga](https://open.spotify.com/artist/4Lk9Mory8nRTolPO1TMMcN) | [Daku](https://open.spotify.com/album/3RaIXDlIRvziryGLXm8lBR) | 2:11 |
 | 8 | [With You](https://open.spotify.com/track/0xIuPDzJSnJywALez8dwKR) | [AP Dhillon](https://open.spotify.com/artist/6LEG9Ld1aLImEFEVHdWNSB) | [With You](https://open.spotify.com/album/30eM1PJ8qLZJeEykhcje0j) | 2:34 |
-| 9 | [Dhundle Dhundle](https://open.spotify.com/track/4JU4kP0LBnUJg4qMQjGF0H) | [Bunny Johal](https://open.spotify.com/artist/0jdnMCU1yJPwoIErT6a4OS) | [Dhundle Dhundle](https://open.spotify.com/album/1mazw25I3H3UlGaw8a7tiO) | 4:03 |
+| 9 | [Dhundle Dhundle](https://open.spotify.com/track/4JU4kP0LBnUJg4qMQjGF0H) | [Bunny Johal](https://open.spotify.com/artist/0jdnMCU1yJPwoIErT6a4OS), [Black Virus](https://open.spotify.com/artist/3baDngVJ6Eof0PzTWf42lU) | [Dhundle Dhundle](https://open.spotify.com/album/1mazw25I3H3UlGaw8a7tiO) | 4:03 |
 | 10 | [Cheques](https://open.spotify.com/track/4eBvRhTJ2AcxCsbfTUjoRp) | [Shubh](https://open.spotify.com/artist/5r3wPya2PpeTTsXsGhQU8O) | [Still Rollin](https://open.spotify.com/album/5AivaZj0CiQJoDWqVH2pbh) | 3:03 |
 | 11 | [Try Me](https://open.spotify.com/track/5RaK2eqyHaBSyjEtI27w3T) | [Karan Aujla](https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ), [Ikky](https://open.spotify.com/artist/3nqS8jzqmsPKFJTp0BOIel) | [Making Memories](https://open.spotify.com/album/3BGU0BqGwBkYDHpfCWFm7I) | 3:15 |
 | 12 | [Malwain](https://open.spotify.com/track/2BW6LkyuZjrSgRsCOLL45B) | [Pari Pandher](https://open.spotify.com/artist/5FacpiPeQOaDKcKXm1UcyA) | [1996](https://open.spotify.com/album/7ebGqKGjGg7aaBs5OTOnbM) | 2:35 |
@@ -110,4 +110,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5cZuAHLNjGz.md) - [plain]
 | 100 | [Gustakhiyan](https://open.spotify.com/track/3X3BiiDYiPVIn5gEpO9HiF) | [The Landers](https://open.spotify.com/artist/7KEQQy9VJpx2xaojUu2VTp) | [Gustakhiyan](https://open.spotify.com/album/4KCsudLqml0Z2T0OWGzLuC) | 2:32 |
 | 101 | [Born to Shine](https://open.spotify.com/track/4XxfOvudrnBRdlgzEaq1sd) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR) | [G.O.A.T.](https://open.spotify.com/album/0wkGNaTXbbxaD9QjvxlNGE) | 3:33 |
 
-Snapshot ID: `MCwyMjc2NGI4MThjNTQzNGYxNzE5MGNiYTc3NTY2MWFmMDM3ZmRkNzE3`
+Snapshot ID: `MCxjNGQwYjViMzM0ZDdhZWU5YmIxMmJlYjg1OGE1ZDVjN2ZlZjYwMTZm`

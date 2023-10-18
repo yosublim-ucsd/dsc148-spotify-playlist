@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8ZMwsPgxIOs.md) - [plain]
 
 > Techno is a state of mind\. Cover: Rebūke
 
-[Spotify](https://open.spotify.com/user/spotify) - 114,573 likes - 80 songs - 5 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 114,616 likes - 80 songs - 5 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8ZMwsPgxIOs.md) - [plain]
 | 17 | [Wolks Vagon](https://open.spotify.com/track/6T1DlbSvRKOtksXS7gVtel) | [Sasha](https://open.spotify.com/artist/6u4jLGLPuarS3i2XWHVxoS) | [Wolks Vagon](https://open.spotify.com/album/2PmVbQyu5unpOOweO8l6D1) | 7:41 |
 | 18 | [Blind Date](https://open.spotify.com/track/0UNzzZBuQfZwNJ3mk2PYbm) | [Joy Orbison](https://open.spotify.com/artist/0aIpJqqTLf683ojWREc5lg), [Overmono](https://open.spotify.com/artist/01PnN11ovfen6xUOHfNpn3), [ABRA](https://open.spotify.com/artist/3ZJxEmjYZd5VOqZ8o3aXiL) | [Blind Date](https://open.spotify.com/album/1ZDktqQTTWUktZ0ivTA06P) | 4:05 |
 | 19 | [Time](https://open.spotify.com/track/6WuhWyOHhhXGSHOtNrJ3Is) | [Space 92](https://open.spotify.com/artist/6TVdVlY6irsNPkMHT2HkfD) | [Time](https://open.spotify.com/album/1j8z4qXWHnME4XD5gt9E2s) | 4:14 |
-| 20 | [Nocturnal \- Rebuke Edit](https://open.spotify.com/track/6S6NVm1rjajtGhZpBv2L9i) | [Cox and Coe](https://open.spotify.com/artist/03GSrqz7SauxZR5JXQvgp7), [Carl Cox](https://open.spotify.com/artist/19SmlbABtI4bXz864MLqOS), [Rebūke](https://open.spotify.com/artist/113reBz1jA6rVxbXl55mlj) | [Mindset \(The Rebuke Edits\)](https://open.spotify.com/album/2cdMahFloyLuCPKzRDpfCw) | 6:27 |
+| 20 | [Nocturnal \- Rebuke Edit](https://open.spotify.com/track/6S6NVm1rjajtGhZpBv2L9i) | [Cox and Coe](https://open.spotify.com/artist/03GSrqz7SauxZR5JXQvgp7), [Carl Cox](https://open.spotify.com/artist/19SmlbABtI4bXz864MLqOS), [Rebūke](https://open.spotify.com/artist/113reBz1jA6rVxbXl55mlj), [Christopher Coe](https://open.spotify.com/artist/3LLc5jMIE1UHX5eF2cN8rP) | [Mindset \(The Rebuke Edits\)](https://open.spotify.com/album/2cdMahFloyLuCPKzRDpfCw) | 6:27 |
 | 21 | [Pillow Princess \- TAAHLIAH Remix](https://open.spotify.com/track/6mEYqfF76mM7tCcvuYpL4Z) | [Manni Dee](https://open.spotify.com/artist/3WKDW1ASiWSa1T1nX01dUr), [TAAHLIAH](https://open.spotify.com/artist/2pGARcnqDa3WoicxemVeqU) | [Pillow Princess Remixes I](https://open.spotify.com/album/0qealHFPGDb0uG4dBrW6qR) | 2:48 |
 | 22 | [Intentionally](https://open.spotify.com/track/4REuw9Oum1mUaSuzEycj4Q) | [Nicole Moudaber](https://open.spotify.com/artist/7ixDtqtITfqx5lZQGh5gKe) | [Intentionally](https://open.spotify.com/album/6BZvZr6rHBJEOFABiAjqxz) | 6:16 |
 | 23 | [30th Street](https://open.spotify.com/track/3dhr44L6QDTLt021EMtp62) | [Jackie Hollander](https://open.spotify.com/artist/5ykY9Uweo3gl5VFpb6z6pQ) | [30th Street](https://open.spotify.com/album/78aLK8BkDtY4ko5QtSTfiY) | 3:35 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8ZMwsPgxIOs.md) - [plain]
 | 79 | [Cruising In My Herse](https://open.spotify.com/track/5NoVq4jZJkdVMvRlWFCEMk) | [Alt8](https://open.spotify.com/artist/7uS4z6GqvIIdZbVq327Ak9) | [Cruising In My Herse](https://open.spotify.com/album/7pzQwVl5jIciRHLLg9hmeQ) | 5:35 |
 | 80 | [Eternity Of Echoes](https://open.spotify.com/track/0NXejdY0rXJfMkocRP1osb) | [Shiken Hanzo](https://open.spotify.com/artist/3lttA5nBNjUeWtLqvOnncr) | [Eternity Of Echoes](https://open.spotify.com/album/4b41tw2qshMUH0F5H6m485) | 5:18 |
 
-Snapshot ID: `MCxhZWZiOTg4YjM5ZjIzNDdiYWE3NTY1NzZkYWUyMzYxZWU0NTFlYTM5`
+Snapshot ID: `MCwxMDI3ZDc1YWIxYWI5YWUyOGZhYmE3ZWQwMDQ0YjVjY2UyMDdkNDJm`

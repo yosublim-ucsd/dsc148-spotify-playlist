@@ -4,7 +4,7 @@
 
 > Listen to Indian women, at full volume\. Cover \- Kavita Seth
 
-237 songs - 13 hr 47 min
+238 songs - 13 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -139,6 +139,7 @@
 | [Mera Yaar](https://open.spotify.com/track/64jOyhiu4UPPnkSbG0t489) | [Dhvani Bhanushali](https://open.spotify.com/artist/1OPqAyxsQc8mcRmoNBAnVk), [Ash King](https://open.spotify.com/artist/1cfG7UM0OD4O1II1nd15Qo) | [Mera Yaar](https://open.spotify.com/album/3d01wHpz2Wvm9sJ1qwZGG2) | 3:12 | 2021-12-10 | 2023-01-04 |
 | [Mere Sohneya](https://open.spotify.com/track/7sJQv0LRPgM2xCkkdWOlyj) | [Sachet Tandon](https://open.spotify.com/artist/6WOdPJmexxFINcKMkP2jMG), [Parampara Tandon](https://open.spotify.com/artist/1E6arsXf5Fgsnv9YpSzjpE) | [Kabir Singh](https://open.spotify.com/album/3uuu6u13U0KeVQsZ3CZKK4) | 3:13 | 2022-02-01 | 2022-05-05 |
 | [Mere Sohneya \(From "Kabir Singh"\)](https://open.spotify.com/track/2IoZMG3RqiTmsy7Li3zGFg) | [Sachet Tandon](https://open.spotify.com/artist/6WOdPJmexxFINcKMkP2jMG), [Parampara Tandon](https://open.spotify.com/artist/1E6arsXf5Fgsnv9YpSzjpE), [Sachet\-Parampara](https://open.spotify.com/artist/1SyKki7JI1AZNKwgNMkn25) | [Mere Sohneya \(From "Kabir Singh"\)](https://open.spotify.com/album/4Vyb6DpCBuDYJFgnByGq3A) | 3:13 | 2022-11-30 | 2023-01-04 |
+| [Meri Jaan](https://open.spotify.com/track/7KunOacBzaPJitn25oWKYy) | [Mithoon](https://open.spotify.com/artist/09UmIX92EUH9hAK4bxvHx6), [Asees Kaur](https://open.spotify.com/artist/1sVmXkzX2ukc6QvasrDBES), [Abdul Rashid Hafiz](https://open.spotify.com/artist/2b7NGjYG1FRerFRrYT8SlM) | [Meri Jaan](https://open.spotify.com/album/7LbxG7fQBDbuAGRqdm0eYC) | 5:12 | 2023-10-17 |  |
 | [Meri Jaan](https://open.spotify.com/track/5u6OYth22u9NM4tYGcr97I) | [Neeti Mohan](https://open.spotify.com/artist/3ZxZ03fj3tXBZHZWzvaLSM) | [Gangubai Kathiawadi \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6W3CcM7fj236axX7Vp7Txu) | 3:58 | 2022-11-09 | 2022-11-13 |
 | [Meri Jaan](https://open.spotify.com/track/080Snoc5O7MuKyu5TkH4TD) | [Neeti Mohan](https://open.spotify.com/artist/3ZxZ03fj3tXBZHZWzvaLSM) | [Gangubai Kathiawadi \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3kT50JTcaeVQMIh0NUNjyM) | 3:58 | 2022-07-06 |  |
 | [Meri Jaan](https://open.spotify.com/track/4iEGv5Ne6HuCkFCjzxdWQK) | [Neeti Mohan](https://open.spotify.com/artist/3ZxZ03fj3tXBZHZWzvaLSM), [Sanjay Leela Bhansali](https://open.spotify.com/artist/5eWpthiGD66CLD4bQjvIBp) | [Gangubai Kathiawadi](https://open.spotify.com/album/1ewtD7ykSg3j31ARf0VN0b) | 3:58 | 2022-03-08 | 2022-07-29 |
@@ -191,7 +192,7 @@
 | [Running Away](https://open.spotify.com/track/7oiKXUoA3Lu6AkU2OaYlSu) | [Bindu Anirudhan](https://open.spotify.com/artist/40yIKIP4JwrsB1OL3dKau9), [6091](https://open.spotify.com/artist/0kkM6OpHU2UkpKIvPT05WZ) | [Running Away](https://open.spotify.com/album/7GUNvDLNFE4jtd8ADvWmOA) | 2:57 | 2022-01-04 | 2022-02-02 |
 | [Saadi Yaad](https://open.spotify.com/track/2lQKUDOOg4TELqOacnHwDt) | [Sunanda Sharma](https://open.spotify.com/artist/7AKO4PWJ6ToZVUfA5xmsIY) | [Saadi Yaad](https://open.spotify.com/album/4y0IjnVoYUKqJIr2uhtff6) | 2:40 | 2022-03-07 | 2023-01-04 |
 | [Saami Saami](https://open.spotify.com/track/4ZUxhQNRCzlh6alqBHPNRC) | [Mounika Yadav](https://open.spotify.com/artist/2oLVeyUyYNFELwC93iZWGG) | [Pushpa \- The Rise](https://open.spotify.com/album/4EP0PqETB5XNtJT9vOIfnu) | 3:43 | 2021-12-10 | 2022-02-02 |
-| [Saami Saami \(From "Pushpa The Rise Part \- 01"\)](https://open.spotify.com/track/1GjRIaC1VRaPw8cl5CAjuF) | [Sunidhi Chauhan](https://open.spotify.com/artist/3eDT9fwXKuHWFvgZaaYC5v), [Devi Sri Prasad](https://open.spotify.com/artist/5sSzCxHtgL82pYDvx2QyEU) | [Saami Saami \(From "Pushpa The Rise Part \- 01"\)](https://open.spotify.com/album/02tXOv9v8wSngJjB1i3E7z) | 3:47 | 2022-03-08 |  |
+| [Saami Saami \(From "Pushpa The Rise Part \- 01"\)](https://open.spotify.com/track/1GjRIaC1VRaPw8cl5CAjuF) | [Sunidhi Chauhan](https://open.spotify.com/artist/3eDT9fwXKuHWFvgZaaYC5v), [Devi Sri Prasad](https://open.spotify.com/artist/5sSzCxHtgL82pYDvx2QyEU) | [Saami Saami \(From "Pushpa The Rise Part \- 01"\)](https://open.spotify.com/album/02tXOv9v8wSngJjB1i3E7z) | 3:47 | 2022-03-08 | 2023-10-18 |
 | [Saamna](https://open.spotify.com/track/0lhk4r9QgUs4prcgnKdatB) | [AKASA](https://open.spotify.com/artist/4mRPyvdSBxARQIFeXXM13s) | [Saamna](https://open.spotify.com/album/3OnWdkTf2gg6DaZWsSSoOA) | 3:53 | 2022-04-05 | 2023-01-04 |
 | [Saanjh](https://open.spotify.com/track/5nrhIgDiO6TppbdLxUDqHs) | [Utsavi Jha](https://open.spotify.com/artist/51pcy004juIDA1mruOZJCX) | [Saanjh](https://open.spotify.com/album/6lzFKrN8dJifMdpDBNuOw8) | 4:42 | 2023-03-02 | 2023-08-01 |
 | [Saanware Aijaiyo](https://open.spotify.com/track/2uDeh0ImYtWkYSPjrX77gb) | [Kavita Seth](https://open.spotify.com/artist/3nQ125TJobosBH446Dsvvv), [Kanishk Seth](https://open.spotify.com/artist/4hGFNXuWut4b2sfJCJJNEo) | [Saanware Aijaiyo](https://open.spotify.com/album/5k7KeArB1J9JPCRC12Xz7j) | 3:54 | 2023-09-14 |  |

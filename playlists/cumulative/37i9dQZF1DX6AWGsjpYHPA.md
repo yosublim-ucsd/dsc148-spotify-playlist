@@ -4,7 +4,7 @@
 
 > Hand\-curated cuts from the vault, no record player required.
 
-264 songs - 19 hr 17 min
+266 songs - 19 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,11 +12,12 @@
 | [6000 Ft.](https://open.spotify.com/track/5VDnV2q6OrlrPsHsDZtIP1) | [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb), [Totally Enormous Extinct Dinosaurs](https://open.spotify.com/artist/0g3NiCRhEv7M4SEDMrpItN) | [Heartbreak / 6000 Ft.](https://open.spotify.com/album/1IjSVLxs6dO3BmZ1adf6lt) | 5:36 | 2021-12-03 | 2023-06-02 |
 | [A Call For All Demons](https://open.spotify.com/track/75ShahS35yl5k6qGckNVay) | [Bitchin Bajas](https://open.spotify.com/artist/57ZB0kMmW6JLQAIaCzMG7I) | [Switched On Ra](https://open.spotify.com/album/2q3htL7CiskaRfbmV1xXnn) | 5:36 | 2021-12-03 | 2022-04-25 |
 | [A Moment Of Mystery \(feat\. Toro y Moi\)](https://open.spotify.com/track/28y750mmZ90J6ss2RLQNK7) | [FKJ](https://open.spotify.com/artist/2FwDTncULUnmANIh7qKa5z), [Toro y Moi](https://open.spotify.com/artist/6O4EGCCb6DoIiR6B1QCQgp) | [A Moment Of Mystery \(feat\. Toro y Moi\)](https://open.spotify.com/album/4uclvwR2Rro2n4jCm7kR3C) | 3:25 | 2022-05-20 | 2022-07-29 |
-| [A Moment Of Mystery \(feat\. Toro y Moi\)](https://open.spotify.com/track/5OmzLQz8dsXSvEcZ2gSsQ4) | [FKJ](https://open.spotify.com/artist/2FwDTncULUnmANIh7qKa5z), [Toro y Moi](https://open.spotify.com/artist/6O4EGCCb6DoIiR6B1QCQgp) | [V I N C E N T](https://open.spotify.com/album/5OUJEZppb5mHHwR5Uw0rzw) | 3:25 | 2022-06-24 |  |
+| [A Moment Of Mystery \(feat\. Toro y Moi\)](https://open.spotify.com/track/5OmzLQz8dsXSvEcZ2gSsQ4) | [FKJ](https://open.spotify.com/artist/2FwDTncULUnmANIh7qKa5z), [Toro y Moi](https://open.spotify.com/artist/6O4EGCCb6DoIiR6B1QCQgp) | [V I N C E N T](https://open.spotify.com/album/5OUJEZppb5mHHwR5Uw0rzw) | 3:25 | 2022-06-24 | 2023-10-18 |
 | [A Rã](https://open.spotify.com/track/7wpy0PpiuOgscZTF1cMTUB) | [João Donato](https://open.spotify.com/artist/17wDxPR2GcU3r1dpCoCiUi) | [The Bossa Nova Wave \- Digital](https://open.spotify.com/album/77kDc58h08n9qKEy6OxlLW) | 2:32 | 2021-12-03 | 2022-06-24 |
 | [A Walk in the Park](https://open.spotify.com/track/3n8TM8osvrpkm7IddlaO4Q) | [DJ Minx](https://open.spotify.com/artist/4PTQtiKISN5iGNpbRVv02B) | [A Walk in the Park](https://open.spotify.com/album/3N0p2BtGWPMdz86ZiTc6ZI) | 5:25 | 2022-09-15 | 2023-06-02 |
 | [Action Line](https://open.spotify.com/track/1TZQO0HgZq6jj6P9GgD2xS) | [Dorothy Ashby](https://open.spotify.com/artist/0dAZ2slrElfR0Y5flcoSPt) | [Afro\-Harping](https://open.spotify.com/album/1XEPKavl3nlI2qVt8HuA5n) | 3:41 | 2022-02-25 |  |
 | [Age Of Ascent](https://open.spotify.com/track/4xFOvGNluJ08G3JM73rwbU) | [Kokoroko](https://open.spotify.com/artist/3u9rbdcmA6CxjxOAkjaeFr) | [Age Of Ascent](https://open.spotify.com/album/1Nd4fQbsxZQUnLjSCLc4ud) | 4:58 | 2022-06-24 | 2022-07-29 |
+| [Age Of Ascent](https://open.spotify.com/track/5BOkALb3jw3m6SONNtBYRR) | [Kokoroko](https://open.spotify.com/artist/3u9rbdcmA6CxjxOAkjaeFr) | [Could We Be More](https://open.spotify.com/album/48e8LFqiVUxumlXDIVyNYl) | 4:58 | 2023-07-18 |  |
 | [All Very Hush Hush](https://open.spotify.com/track/4uQWRd4rBrfAvLpB7Ko9lu) | [Mosca](https://open.spotify.com/artist/09w4rprrROhfc0yevxXCGg) | [All Very Hush Hush](https://open.spotify.com/album/0aiLVnRli26t5BibveAXXt) | 6:22 | 2021-12-03 | 2022-03-17 |
 | [Amaya](https://open.spotify.com/track/7F4dTMrS9rmtUqaXR5zBdQ) | [Jacana People](https://open.spotify.com/artist/2f0w048dh1LH5QPDvwKECY) | [Amaya](https://open.spotify.com/album/0R78EHws9OL6UhtFqZ4joz) | 4:42 | 2021-12-03 | 2022-07-25 |
 | [And Groove \- Edit](https://open.spotify.com/track/3flV2wHEamgIEu3nUkHnH6) | [I\. JORDAN](https://open.spotify.com/artist/5RMLpCv3ic2KtGnqJ7eMG4) | [And Groove](https://open.spotify.com/album/4GhTjZLhittgWgSzN65sYt) | 3:25 | 2022-06-24 | 2022-12-18 |
@@ -104,7 +105,7 @@
 | [HT Conundrum](https://open.spotify.com/track/0F4En5vStNYYkbYc0pZPnr) | [Route 94](https://open.spotify.com/artist/1dgdvbogmctybPrGEcnYf6) | [Bada / HT Conundrum](https://open.spotify.com/album/2IvgrdkO0p6bbwHBi7wdQn) | 6:39 | 2021-12-03 | 2022-03-06 |
 | [Human Race](https://open.spotify.com/track/2pLqaNLScfyPB76HX0cnL4) | [Human Race](https://open.spotify.com/artist/3xPRqzkCilihoKpF9OzzRn) | [Human Race b/w Grey Boy](https://open.spotify.com/album/4OEpX9POaZfSKJ63c8lcZM) | 3:05 | 2021-12-03 | 2022-07-28 |
 | [Human Shape](https://open.spotify.com/track/6bUchdGcZj2k1iLjTHm6kR) | [Mindchatter](https://open.spotify.com/artist/1He0ZKninbT4FMEV9hUZKn) | [DREAM SOUP](https://open.spotify.com/album/4rDFEnOjCq5M7JGCd2KIPP) | 3:26 | 2022-07-21 |  |
-| [I Am in Love](https://open.spotify.com/track/2c00tSu4BVT2XueXbkCcsK) | [Jennifer Lara](https://open.spotify.com/artist/5GgX23TgqGxu7hCm6qVDo4) | [Studio One Presents Jennifer Lara](https://open.spotify.com/album/3QE9DNEj6FFXEHfmhrdnon) | 5:18 | 2023-06-01 |  |
+| [I Am in Love](https://open.spotify.com/track/2c00tSu4BVT2XueXbkCcsK) | [Jennifer Lara](https://open.spotify.com/artist/5GgX23TgqGxu7hCm6qVDo4) | [Studio One Presents Jennifer Lara](https://open.spotify.com/album/3QE9DNEj6FFXEHfmhrdnon) | 5:18 | 2023-06-01 | 2023-10-18 |
 | [I Am in Love](https://open.spotify.com/track/56a6ouGQikCaY8bMQj6wXN) | [Jennifer Lara](https://open.spotify.com/artist/5GgX23TgqGxu7hCm6qVDo4) | [Studio One Presents Jennifer Lara](https://open.spotify.com/album/3sxMFNKFEfkwtrv8xINaZW) | 5:18 | 2021-12-03 | 2022-07-27 |
 | [I Got The..\. \- 2006 Remaster](https://open.spotify.com/track/20VuO95A8RxUPlShnfYArW) | [Labi Siffre](https://open.spotify.com/artist/5CzlICF8GCY0pRC82MKrhX) | [Remember My Song](https://open.spotify.com/album/1wTqD7FSQ8XgKPy8xBUaEV) | 6:35 | 2021-12-03 |  |
 | [I Heard the Voice of Music Say](https://open.spotify.com/track/16eL3Zw084d3CjDTaP8Xdf) | [Sunbear](https://open.spotify.com/artist/6PR1LVsphqrgunxIxhn3c9) | [Sunbear](https://open.spotify.com/album/3qXzp3FxW9nHlvEoJKij8R) | 5:03 | 2021-12-03 | 2022-03-03 |
@@ -264,6 +265,7 @@
 | [Water No Get Enemy](https://open.spotify.com/track/2oWex6rYoQ7Bl2D9zG8d3F) | [Fela Kuti](https://open.spotify.com/artist/5CG9X521RDFWCuAhlo6QoR) | [The Best of the Black President](https://open.spotify.com/album/7I42wZ3TW926k1DXrotD1M) | 9:51 | 2023-07-18 |  |
 | [Water No Get Enemy \- Edit](https://open.spotify.com/track/43ile6cBzr9uaC4bJf6J3N) | [Fela Kuti](https://open.spotify.com/artist/5CG9X521RDFWCuAhlo6QoR) | [Best of The Black President](https://open.spotify.com/album/7325GfKum2hDK231i3LqA7) | 9:51 | 2021-12-03 | 2023-09-22 |
 | [We Give Thanks](https://open.spotify.com/track/1jcd0ZDms179eAAohF6IVz) | [Kokoroko](https://open.spotify.com/artist/3u9rbdcmA6CxjxOAkjaeFr) | [We Give Thanks](https://open.spotify.com/album/0Z5523HDV8PzT0Ea3I2IDb) | 3:40 | 2022-05-20 | 2022-07-29 |
+| [We Give Thanks](https://open.spotify.com/track/1whO1RzuS19yG358T4d8G6) | [Kokoroko](https://open.spotify.com/artist/3u9rbdcmA6CxjxOAkjaeFr) | [Could We Be More](https://open.spotify.com/album/48e8LFqiVUxumlXDIVyNYl) | 3:40 | 2023-07-18 |  |
 | [We Go Again](https://open.spotify.com/track/1ZuM7USvEryCw7eDwAvhTw) | [Theon Cross](https://open.spotify.com/artist/0IFabaHypEH0hMgkx0Gw56) | [We Go Again](https://open.spotify.com/album/4MKG9oZywXfTaITZ9swOB1) | 4:22 | 2021-12-03 | 2022-05-03 |
 | [Where Are We Going?](https://open.spotify.com/track/7poaDTqWgJQDG5gqvobqXu) | [Marvin Gaye](https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA) | [Gold](https://open.spotify.com/album/5GMKwvQ8GL9d92tQzzRDM9) | 3:55 | 2021-12-03 |  |
 | [White Picket Fence](https://open.spotify.com/track/1S9N0MuXeSajQo0EcGgM3A) | [Koreless](https://open.spotify.com/artist/3TsEEdpuuCN1G0dPxV4uOA) | [White Picket Fence](https://open.spotify.com/album/1AHfQkKelaUKhCXXn9kr1C) | 2:58 | 2021-12-03 | 2022-03-06 |

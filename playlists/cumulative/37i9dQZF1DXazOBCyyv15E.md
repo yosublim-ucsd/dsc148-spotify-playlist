@@ -4,7 +4,7 @@
 
 > The home of the best new alternative music\. Cover: boygenius
 
-1,809 songs - 4 day 11 hr 32 min
+1,811 songs - 4 day 11 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1200,6 +1200,7 @@
 | [Play Pretend \(feat\. spill tab\)](https://open.spotify.com/track/5ik2LWJMCmr7BGtHvXxPzw) | [Mac Wetha](https://open.spotify.com/artist/4q1qItmjb9INKQM0F82StP), [spill tab](https://open.spotify.com/artist/3qqkHeEhezlIaNj1vFYH2r) | [Play Pretend \(feat\. spill tab\)](https://open.spotify.com/album/1TQYlfvFr9wSSM4p05wFP0) | 2:29 | 2022-09-29 | 2023-01-27 |
 | [Player Of Games](https://open.spotify.com/track/1aL6wkVeoR41DqDpVN7Gl2) | [Grimes](https://open.spotify.com/artist/053q0ukIDRgzwTr4vNSwab) | [Player Of Games](https://open.spotify.com/album/1WdV2sVtRWpiaPAxyvq51r) | 4:05 | 2021-12-03 | 2022-02-04 |
 | [PLAYGOD](https://open.spotify.com/track/5H9NsCxxAnLQhT2usGd35N) | [Poppy Ajudha](https://open.spotify.com/artist/6oPQiSj92N4mk5jXLtX1bl) | [PLAYGOD](https://open.spotify.com/album/0ie2yzXuB8Uu2TIefJfzao) | 4:03 | 2022-03-18 | 2022-04-23 |
+| [Please Don't Die](https://open.spotify.com/track/3XiSW0lJAJdDKQoEayLXv5) | [The Rhythm Method](https://open.spotify.com/artist/6kcYJnJl7asHdgQdrviOFb) | [Please Don't Die](https://open.spotify.com/album/4Tm166tOLlMl3SQdIdQhRF) | 3:53 | 2023-10-13 |  |
 | [Please Don't Make Me Cry](https://open.spotify.com/track/46LXErxjs0JgFiaUshrSBI) | [Lianne La Havas](https://open.spotify.com/artist/2RP4pPHTXlQpDnO9LvR7Yt) | [Lianne La Havas](https://open.spotify.com/album/6JwtB0zzNYy4qANDrJtrJy) | 5:14 | 2020-09-29\* | 2020-10-16 |
 | [Ploys](https://open.spotify.com/track/3HxbfoLwJ2pBqGMtZJqOYQ) | [Working Men's Club](https://open.spotify.com/artist/7cCi9XoRu8Y1SyJ9c94fhc) | [Ploys](https://open.spotify.com/album/76FKqzmi4E4BO7PCqD4AdW) | 2:58 | 2022-06-02 | 2022-08-19 |
 | [PNE](https://open.spotify.com/track/583BT5xWjMlnyJm6MuzK8h) | [Master Peace](https://open.spotify.com/artist/4GNHtO2iEJ09r4JNTlqnO9) | [PNE](https://open.spotify.com/album/5Pukj80wQycC1be8WTuLl4) | 3:11 | 2020-10-02 | 2021-01-23 |
@@ -1671,7 +1672,8 @@
 | [Turbines/Pigs \- Live at Bush Hall](https://open.spotify.com/track/626DiLKaEAoQfJ7YLdjcaF) | [Black Country, New Road](https://open.spotify.com/artist/3PP6ghmOlDl2jaKaH0avUN) | [Live at Bush Hall](https://open.spotify.com/album/1w7YBHqXz6UfLrVur8JAcW) | 9:46 | 2023-03-24 | 2023-05-26 |
 | [TV Bra™️ \- Radio Edit](https://open.spotify.com/track/4WQcB4g7DC7V99wcL7z49I) | [Voka Gentle](https://open.spotify.com/artist/4VyQOLH3ixMP5lrxhSeqKx) | [TV Bra™️ \(Radio Edit\)](https://open.spotify.com/album/1WjAUFSM187ugznOYNNgkX) | 4:03 | 2021-10-08 | 2021-10-29 |
 | [TV in the Gas Pump](https://open.spotify.com/track/2C3YgXBZpZx0FoguTk0fbj) | [Wednesday](https://open.spotify.com/artist/4j7DrazfBZLLD0OrVoAtEe) | [TV in the Gas Pump](https://open.spotify.com/album/1KCYvFcQ0eLIx9Kpmr4WgX) | 2:22 | 2023-03-24 | 2023-04-21 |
-| [Two Years](https://open.spotify.com/track/2Z4KsUvMCgK5lL9OLU0Vbz) | [Maple Glider](https://open.spotify.com/artist/1Y3IqLN3JkfppIbJG2IWHk) | [Two Years](https://open.spotify.com/album/7oZXGk0hj8oVfBjFBUWgYF) | 3:29 | 2023-09-14 |  |
+| [Two Years](https://open.spotify.com/track/2TgaPR6Tm4a50KqdiQ7eRa) | [Maple Glider](https://open.spotify.com/artist/1Y3IqLN3JkfppIbJG2IWHk) | [I Get Into Trouble](https://open.spotify.com/album/3O5mTnbeK3XcovZV49vOAd) | 3:29 | 2023-10-13 |  |
+| [Two Years](https://open.spotify.com/track/2Z4KsUvMCgK5lL9OLU0Vbz) | [Maple Glider](https://open.spotify.com/artist/1Y3IqLN3JkfppIbJG2IWHk) | [Two Years](https://open.spotify.com/album/7oZXGk0hj8oVfBjFBUWgYF) | 3:29 | 2023-09-14 | 2023-10-18 |
 | [Typical Love](https://open.spotify.com/track/34WHYUktlNEQjcySYBpiJJ) | [Cate Le Bon](https://open.spotify.com/artist/0LZac5VicY19QLaIUvIB0G) | [Typical Love](https://open.spotify.com/album/6fMBVjvDsH5aLLyOpiCxzS) | 3:51 | 2022-09-15 | 2022-09-23 |
 | [U GET HIGH / I GET NOTHING](https://open.spotify.com/track/6nNQXXB2VWGDp6zl5MwK6F) | [SPIDER](https://open.spotify.com/artist/4SKFiKjEPLdlpXSOQZhlsi) | [C.O.A](https://open.spotify.com/album/54VyL93wDi5j7mtplRRAMB) | 3:44 | 2022-03-25 | 2022-05-20 |
 | [U SAID!](https://open.spotify.com/track/3S2FcwSlUhob3FAdHgDwWc) | [Ray Laurél](https://open.spotify.com/artist/7gW3GsnBSoT6q9YQUstlzA) | [TEMPTRESS](https://open.spotify.com/album/1M6P5oEDwt2pcnnWVsxGPo) | 2:07 | 2023-05-18 | 2023-08-04 |

@@ -4,7 +4,7 @@
 
 > Groovy sounds from around the world.
 
-601 songs - 1 day 19 hr 30 min
+602 songs - 1 day 19 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,7 +20,8 @@
 | [Afro Golden Line](https://open.spotify.com/track/5GkhEe5eRuOS1AyJmNLZyH) | [Amir Bresler](https://open.spotify.com/artist/0YkHSziGnJb3civlSaKWk1) | [Afro Golden Line](https://open.spotify.com/album/6OxiSffhQKRAgVQbzJhRyj) | 3:59 | 2023-08-07 |  |
 | [Afro Golden Line \(feat\. Sefi Zisling, Uzi Ramirez & Rejoicer\)](https://open.spotify.com/track/1ijV5N3fvoaTO1BXqKH9Kq) | [Amir Bresler](https://open.spotify.com/artist/0YkHSziGnJb3civlSaKWk1), [Sefi Zisling](https://open.spotify.com/artist/5EctF8sY4mgGmG2II0rw9H), [Uzi Ramirez](https://open.spotify.com/artist/3lTo1RLFeLDQeytnn94IUm), [Rejoicer](https://open.spotify.com/artist/1N5ZTU16lJJL9hbPAMvGnk) | [Afro Golden Line](https://open.spotify.com/album/79bwYwWXiRLGSdPGfRbMo5) | 3:59 | 2021-10-06 | 2022-07-27 |
 | [Agboju Logun](https://open.spotify.com/track/0urbfRnnXk7raHj8B0SWDu) | [Shina Williams & His African Percussionists](https://open.spotify.com/artist/3LMmWHeU0PGvCcD5gelFfe) | [Nigeria 70 \- Funky Lagos](https://open.spotify.com/album/6vbhwiICICM9vQiUK62Me0) | 11:33 | 2021-10-06 | 2023-10-15 |
-| [Age Of Ascent](https://open.spotify.com/track/73sqtnhstOOj2fiqVGCA4X) | [Kokoroko](https://open.spotify.com/artist/3u9rbdcmA6CxjxOAkjaeFr) | [Could We Be More](https://open.spotify.com/album/5pJXka0Joj77KqooPlQwFu) | 4:58 | 2023-08-31 |  |
+| [Age Of Ascent](https://open.spotify.com/track/5BOkALb3jw3m6SONNtBYRR) | [Kokoroko](https://open.spotify.com/artist/3u9rbdcmA6CxjxOAkjaeFr) | [Could We Be More](https://open.spotify.com/album/48e8LFqiVUxumlXDIVyNYl) | 4:58 | 2023-10-05 |  |
+| [Age Of Ascent](https://open.spotify.com/track/73sqtnhstOOj2fiqVGCA4X) | [Kokoroko](https://open.spotify.com/artist/3u9rbdcmA6CxjxOAkjaeFr) | [Could We Be More](https://open.spotify.com/album/5pJXka0Joj77KqooPlQwFu) | 4:58 | 2023-08-31 | 2023-10-18 |
 | [Agua fría](https://open.spotify.com/track/7CSebbAAlgMqngWpEkhBl5) | [The Bongo Hop](https://open.spotify.com/artist/0vIM6xovGnCeWUNYR42Zsk), [Laurene P Magnani](https://open.spotify.com/artist/0DdaH7M6V1DWkqJpAbHDuE) | [Satingarona, Pt\. 2](https://open.spotify.com/album/1dZQRZHQUDcXHwZpKwZHF2) | 4:54 | 2021-10-06 |  |
 | [Agua Viva](https://open.spotify.com/track/5qQviPvlrLAezMa8EzmZev) | [iZem](https://open.spotify.com/artist/2dJpwMtmOBr9ad4D7vRf2r), [Nina Miranda](https://open.spotify.com/artist/3AXxvXhECGeTQCUU0Lj3ln) | [Hafa](https://open.spotify.com/album/2kv0GcPQvtQgDnUpTmlDSI) | 4:09 | 2022-04-12 | 2022-07-26 |
 | [Aguacero Tropical](https://open.spotify.com/track/5mhYs8LilsurjSLIibxCgn) | [Pahua](https://open.spotify.com/artist/4sZh7ibWAOiuDkEStJxHch), [MOÜGLI](https://open.spotify.com/artist/786qoKu8y9vQHdegoxNJn9), [WX//CLTV](https://open.spotify.com/artist/0m4sYqkyOznjEKxEEeLLkL) | [Aguacero Tropical](https://open.spotify.com/album/5v2hEZH52HxulMloCJDY8A) | 3:45 | 2022-01-21 | 2022-04-21 |

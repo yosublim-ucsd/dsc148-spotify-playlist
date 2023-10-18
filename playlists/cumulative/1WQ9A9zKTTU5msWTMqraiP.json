@@ -41,6 +41,24 @@
     },
     {
       "album": {
+        "name": "Cry for Inspiration",
+        "url": "https://open.spotify.com/album/4LyYASNLEnSlMFamVJA6c3"
+      },
+      "artists": [
+        {
+          "name": "Blacks0n",
+          "url": "https://open.spotify.com/artist/50kiZmpRIqA5otYPDCyB0U"
+        }
+      ],
+      "date_added": "2023-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226222,
+      "name": "A Forbidden Pleasure",
+      "url": "https://open.spotify.com/track/7DkGXkeoAntsrrk6R1BXvs"
+    },
+    {
+      "album": {
         "name": "A Plague",
         "url": "https://open.spotify.com/album/1A2X5gwjWtJug5Q9knlhMO"
       },
@@ -2050,6 +2068,24 @@
       "duration_ms": 269386,
       "name": "Grimoire",
       "url": "https://open.spotify.com/track/3J4lFsZ835wxMbrRIUliRU"
+    },
+    {
+      "album": {
+        "name": "Grotesque Throne",
+        "url": "https://open.spotify.com/album/2Ks6NiNSzoasDtb1xLKnQD"
+      },
+      "artists": [
+        {
+          "name": "No Signs of Life",
+          "url": "https://open.spotify.com/artist/03t9WHYJRG1swfSu9VS5EZ"
+        }
+      ],
+      "date_added": "2023-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 342194,
+      "name": "Grotesque Throne",
+      "url": "https://open.spotify.com/track/58hSyNtXJ9KBZ6f7nGQyJx"
     },
     {
       "album": {

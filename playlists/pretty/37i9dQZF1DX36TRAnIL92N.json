@@ -1,12 +1,12 @@
 {
   "description": "High energy Techno to boost your workout.",
-  "num_followers": 231423,
+  "num_followers": 231863,
   "original_name": "Techno Workout",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3ZDY5ZjY3NDM1MDM0MzNhMDdhZjVmZjMyYTdlN2ZlYTljZDY4OGVk",
+  "snapshot_id": "MCxkNWY4OTE5YTIxODE5NTQ1NjE4M2VlYjVhMDA3OWNhOGI5Mjg5Nzk3",
   "tracks": [
     {
       "added_at": "2023-10-13 08:11:02",
@@ -355,22 +355,6 @@
     {
       "added_at": "2023-10-13 08:11:02",
       "album": {
-        "name": "Gravity",
-        "url": "https://open.spotify.com/album/45hEdeNHcpC2FIvgDMlaCP"
-      },
-      "artists": [
-        {
-          "name": "Space 92",
-          "url": "https://open.spotify.com/artist/6TVdVlY6irsNPkMHT2HkfD"
-        }
-      ],
-      "duration_ms": 365568,
-      "name": "Gravity",
-      "url": "https://open.spotify.com/track/0VTnsXnW2kuMFlwdKSTSBy"
-    },
-    {
-      "added_at": "2023-10-13 08:11:02",
-      "album": {
         "name": "A-Sides, Vol. 6",
         "url": "https://open.spotify.com/album/4sHJ8SyHgP6CCJ4PGfiUk9"
       },
@@ -383,22 +367,6 @@
       "duration_ms": 393740,
       "name": "In Silence",
       "url": "https://open.spotify.com/track/7sovMMhuknCR0PHianjiEq"
-    },
-    {
-      "added_at": "2023-10-13 08:11:02",
-      "album": {
-        "name": "MNML",
-        "url": "https://open.spotify.com/album/6p6LLo0tfRX8DqozS9n6E8"
-      },
-      "artists": [
-        {
-          "name": "Deborah de Luca",
-          "url": "https://open.spotify.com/artist/144HzhpLjcR9k37w5Ico9B"
-        }
-      ],
-      "duration_ms": 390447,
-      "name": "Minimal",
-      "url": "https://open.spotify.com/track/333mKnEIccxUgOwQCCTPD8"
     },
     {
       "added_at": "2023-10-13 08:11:02",
@@ -423,6 +391,22 @@
       "duration_ms": 237157,
       "name": "WANNA GO BANG",
       "url": "https://open.spotify.com/track/0PfCECNGl8Udewv4b7wOCs"
+    },
+    {
+      "added_at": "2023-10-13 08:11:02",
+      "album": {
+        "name": "MNML",
+        "url": "https://open.spotify.com/album/6p6LLo0tfRX8DqozS9n6E8"
+      },
+      "artists": [
+        {
+          "name": "Deborah de Luca",
+          "url": "https://open.spotify.com/artist/144HzhpLjcR9k37w5Ico9B"
+        }
+      ],
+      "duration_ms": 390447,
+      "name": "Minimal",
+      "url": "https://open.spotify.com/track/333mKnEIccxUgOwQCCTPD8"
     },
     {
       "added_at": "2023-10-13 08:11:02",
@@ -579,6 +563,26 @@
     {
       "added_at": "2023-10-13 08:11:02",
       "album": {
+        "name": "The Seduction EP",
+        "url": "https://open.spotify.com/album/0o4acAEnhuhzFfOKfNk6vh"
+      },
+      "artists": [
+        {
+          "name": "Hardwell",
+          "url": "https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174"
+        },
+        {
+          "name": "Olly James",
+          "url": "https://open.spotify.com/artist/04Ze9i5w3NXno5DdMNpJZC"
+        }
+      ],
+      "duration_ms": 191641,
+      "name": "Seduction",
+      "url": "https://open.spotify.com/track/47JBICKenLcZ2mukYVxDXx"
+    },
+    {
+      "added_at": "2023-10-13 08:11:02",
+      "album": {
         "name": "Injection (Original Mix)",
         "url": "https://open.spotify.com/album/7tq0Eni5FK1nm27dqXGWyr"
       },
@@ -627,26 +631,6 @@
       "duration_ms": 220488,
       "name": "Deep Down",
       "url": "https://open.spotify.com/track/2gyh8uqnB5jkZQT9norbkW"
-    },
-    {
-      "added_at": "2023-10-13 08:11:02",
-      "album": {
-        "name": "The Seduction EP",
-        "url": "https://open.spotify.com/album/0o4acAEnhuhzFfOKfNk6vh"
-      },
-      "artists": [
-        {
-          "name": "Hardwell",
-          "url": "https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174"
-        },
-        {
-          "name": "Olly James",
-          "url": "https://open.spotify.com/artist/04Ze9i5w3NXno5DdMNpJZC"
-        }
-      ],
-      "duration_ms": 191641,
-      "name": "Seduction",
-      "url": "https://open.spotify.com/track/47JBICKenLcZ2mukYVxDXx"
     },
     {
       "added_at": "2023-10-13 08:11:02",
@@ -767,6 +751,30 @@
       "duration_ms": 348444,
       "name": "Experience",
       "url": "https://open.spotify.com/track/6ewzsniysRplwdDRA7eNdn"
+    },
+    {
+      "added_at": "2023-10-13 08:11:02",
+      "album": {
+        "name": "Mercury",
+        "url": "https://open.spotify.com/album/5PrEi7aLxDosgWfIa3eegg"
+      },
+      "artists": [
+        {
+          "name": "HI-LO",
+          "url": "https://open.spotify.com/artist/0ETJQforv5OXgDgidQv9qd"
+        },
+        {
+          "name": "Space 92",
+          "url": "https://open.spotify.com/artist/6TVdVlY6irsNPkMHT2HkfD"
+        },
+        {
+          "name": "Oliver Heldens",
+          "url": "https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p"
+        }
+      ],
+      "duration_ms": 225346,
+      "name": "Mercury",
+      "url": "https://open.spotify.com/track/3NWMxXgzWvtO3j8o9eFkOi"
     },
     {
       "added_at": "2023-10-13 08:11:02",

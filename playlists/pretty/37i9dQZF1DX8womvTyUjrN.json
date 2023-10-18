@@ -1,12 +1,12 @@
 {
   "description": "Fresh Latin pop on the rise. Cover: Marc Segu\u00ed",
-  "num_followers": 284578,
+  "num_followers": 284609,
   "original_name": "el nuevo pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmYmJiODYyZTAzZGNkNjRiMDc5NTEzZDVlYjRkMmZjNjlkMmZhMjli",
+  "snapshot_id": "MCwyYmI0MjgyYzg3YWUxMmFkNmM3NzZhOTUwYzBkOWI5Zjg5ODAwNTQ5",
   "tracks": [
     {
       "added_at": "2023-10-13 04:00:00",
@@ -183,26 +183,6 @@
     {
       "added_at": "2023-10-13 04:00:00",
       "album": {
-        "name": "miamor",
-        "url": "https://open.spotify.com/album/6kgmi1PshVXk6ENMvQicAz"
-      },
-      "artists": [
-        {
-          "name": "Aitana",
-          "url": "https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25"
-        },
-        {
-          "name": "Rels B",
-          "url": "https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8"
-        }
-      ],
-      "duration_ms": 159360,
-      "name": "miamor",
-      "url": "https://open.spotify.com/track/1zTzz7nUxA2UxE6NhNTWSF"
-    },
-    {
-      "added_at": "2023-10-13 04:00:00",
-      "album": {
         "name": "ELLA TIENE",
         "url": "https://open.spotify.com/album/0VSnZVbjbufIZYKwy3Rafu"
       },
@@ -219,6 +199,26 @@
       "duration_ms": 196800,
       "name": "ELLA TIENE",
       "url": "https://open.spotify.com/track/31YHWv22Lyv9iKBepk3guM"
+    },
+    {
+      "added_at": "2023-10-13 04:00:00",
+      "album": {
+        "name": "miamor",
+        "url": "https://open.spotify.com/album/6kgmi1PshVXk6ENMvQicAz"
+      },
+      "artists": [
+        {
+          "name": "Aitana",
+          "url": "https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25"
+        },
+        {
+          "name": "Rels B",
+          "url": "https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8"
+        }
+      ],
+      "duration_ms": 159360,
+      "name": "miamor",
+      "url": "https://open.spotify.com/track/1zTzz7nUxA2UxE6NhNTWSF"
     },
     {
       "added_at": "2023-10-13 04:00:00",
@@ -747,6 +747,22 @@
     {
       "added_at": "2023-10-13 04:00:00",
       "album": {
+        "name": "en el pasado",
+        "url": "https://open.spotify.com/album/78EFQKhgET0w845QMun4na"
+      },
+      "artists": [
+        {
+          "name": "Alex Ponce",
+          "url": "https://open.spotify.com/artist/2rtnKY7iQJHIEBnOd66DCO"
+        }
+      ],
+      "duration_ms": 223124,
+      "name": "en el pasado",
+      "url": "https://open.spotify.com/track/5yaLbxJA06rXg1W3jI7M5Q"
+    },
+    {
+      "added_at": "2023-10-13 04:00:00",
+      "album": {
         "name": "Demasiado",
         "url": "https://open.spotify.com/album/1JFyrOT7y6kSLBO7r7XZlx"
       },
@@ -767,18 +783,18 @@
     {
       "added_at": "2023-10-13 04:00:00",
       "album": {
-        "name": "en el pasado",
-        "url": "https://open.spotify.com/album/78EFQKhgET0w845QMun4na"
+        "name": "LOTO",
+        "url": "https://open.spotify.com/album/69ejRbPjsusOcKQm6ZwsSg"
       },
       "artists": [
         {
-          "name": "Alex Ponce",
-          "url": "https://open.spotify.com/artist/2rtnKY7iQJHIEBnOd66DCO"
+          "name": "rusowsky",
+          "url": "https://open.spotify.com/artist/1XEVu7gdRFfzEFqsPrancH"
         }
       ],
-      "duration_ms": 223124,
-      "name": "en el pasado",
-      "url": "https://open.spotify.com/track/5yaLbxJA06rXg1W3jI7M5Q"
+      "duration_ms": 166493,
+      "name": "LOTO",
+      "url": "https://open.spotify.com/track/01c2emv4rHsA4KZ5gBTLhv"
     },
     {
       "added_at": "2023-10-13 04:00:00",
@@ -799,22 +815,6 @@
       "duration_ms": 173226,
       "name": "B\u00f3rrame",
       "url": "https://open.spotify.com/track/28C9fie2Nw8g84LIyKXryW"
-    },
-    {
-      "added_at": "2023-10-13 04:00:00",
-      "album": {
-        "name": "LOTO",
-        "url": "https://open.spotify.com/album/69ejRbPjsusOcKQm6ZwsSg"
-      },
-      "artists": [
-        {
-          "name": "rusowsky",
-          "url": "https://open.spotify.com/artist/1XEVu7gdRFfzEFqsPrancH"
-        }
-      ],
-      "duration_ms": 166493,
-      "name": "LOTO",
-      "url": "https://open.spotify.com/track/01c2emv4rHsA4KZ5gBTLhv"
     },
     {
       "added_at": "2023-10-13 04:00:00",

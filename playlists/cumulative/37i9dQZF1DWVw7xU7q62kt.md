@@ -4,7 +4,7 @@
 
 > Beats with a flavour of Jazz\. Cover: James Francis
 
-130 songs - 7 hr 10 min
+131 songs - 7 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -50,7 +50,7 @@
 | [folding edges](https://open.spotify.com/track/5n5y0n7equo0sYNbjN6kg4) | [betahost](https://open.spotify.com/artist/1vGlmIKLKgaYfgAcSKhd4W) | [folding edges](https://open.spotify.com/album/0LrIgQ8ru1dhWY00oPms5p) | 2:21 | 2023-08-22 |  |
 | [Fork In The Rhodes](https://open.spotify.com/track/3x5ZyzDcGUHVTfpKJXoevK) | [SGJAZZ](https://open.spotify.com/artist/4u8H7IRVIRQTRH5JrAmK2G), [Dr\. Dundiff](https://open.spotify.com/artist/6T2NShr7SAArhtegdIpHHN) | [SGJAZZ, Vol\. 2](https://open.spotify.com/album/0A7nQz0OVtaozlGtWNQYKB) | 3:58 | 2023-08-22 |  |
 | [fugla](https://open.spotify.com/track/38tYOR0HDj5UA2hev4YZvJ) | [Flughand](https://open.spotify.com/artist/6x5HLaMcoxaULXpgN0NJbb), [steichi](https://open.spotify.com/artist/6KjHEB4Dy7zHFoOMClXKQl) | [fugla](https://open.spotify.com/album/2MyxEuKVIJgT2RHpK2HpUO) | 2:10 | 2023-08-22 |  |
-| [Futuristic Earth](https://open.spotify.com/track/53crbk8yg8EblYm5WVtp9t) | [The Stance Brothers](https://open.spotify.com/artist/1AEh6OX55KCjPJX0Lzkjy1) | [Futuristic Earth](https://open.spotify.com/album/65B4vUhJSJ8ZqVpszxFJ2h) | 3:29 | 2023-10-13 |  |
+| [Futuristic Earth](https://open.spotify.com/track/53crbk8yg8EblYm5WVtp9t) | [The Stance Brothers](https://open.spotify.com/artist/1AEh6OX55KCjPJX0Lzkjy1) | [Futuristic Earth](https://open.spotify.com/album/65B4vUhJSJ8ZqVpszxFJ2h) | 3:29 | 2023-10-13 | 2023-10-18 |
 | [Goldfoil](https://open.spotify.com/track/0SVgLGkpkGz8PI6fdQbMeO) | [lophiile](https://open.spotify.com/artist/5g5eVr2vAQnd12Q1XCJD7R) | [Goldfoil](https://open.spotify.com/album/7zOVyVUPJZXiE9vYAwoiuC) | 2:34 | 2023-08-25 |  |
 | [Hejdå Kalvsnäs](https://open.spotify.com/track/1w3sKSxr3tYfapEOijOMkp) | [Ivan Blomqvist](https://open.spotify.com/artist/2oUbOThqfFheldf9E8JXqm) | [Bror](https://open.spotify.com/album/6DWVse4ijyv7htxjpnGiU9) | 6:59 | 2023-08-22 |  |
 | [Heyoka](https://open.spotify.com/track/3NCnbcbwC9mO8DnHGFMShE) | [Pachakuti](https://open.spotify.com/artist/2pQzPOCdgQgaUpWG3WEcYr), [young.vishnu](https://open.spotify.com/artist/13ktebtZo4NRbX3uThOmP2) | [Dédalo](https://open.spotify.com/album/3VG63zwDBrNHX52aWzDxFA) | 3:09 | 2023-08-22 |  |
@@ -89,6 +89,7 @@
 | [Night Swim](https://open.spotify.com/track/0COa6aw2qYulXlzsraUqCk) | [SGJAZZ](https://open.spotify.com/artist/4u8H7IRVIRQTRH5JrAmK2G), [Dr\. Dundiff](https://open.spotify.com/artist/6T2NShr7SAArhtegdIpHHN) | [SGJAZZ, Vol\. 2](https://open.spotify.com/album/0A7nQz0OVtaozlGtWNQYKB) | 1:30 | 2023-08-22 |  |
 | [No Chaser](https://open.spotify.com/track/6VdJXwynCKFcPU76NRJUb3) | [Soul Food Horns](https://open.spotify.com/artist/42gnrsSSKKNNmfAJ0o3oyN), [Søren Søstrom](https://open.spotify.com/artist/2F5B5YgPDinjL9x35lkkke), [Slug](https://open.spotify.com/artist/2E14TlP0N4RU8X3Y2i2Pq3) | [Black Tea EP](https://open.spotify.com/album/6fsSRJ7H3RGJ5nvzQJh28f) | 2:56 | 2023-08-22 |  |
 | [no, regrets](https://open.spotify.com/track/2npDMSs7eYvQl81VEKMRKX) | [Rob Araujo](https://open.spotify.com/artist/6mWAKV1AAFvzxQr7uztRE9) | [Digilog I](https://open.spotify.com/album/0aLKKlg3Ax9BGfaDv7LQ3V) | 2:47 | 2023-08-22 |  |
+| [Not Water But Rest](https://open.spotify.com/track/5M7ZhcrCafzjLN18pHokNA) | [Shake Stew](https://open.spotify.com/artist/6RoD5V5SDApmcG8Iiw8SS6), [Precious Nnebedum](https://open.spotify.com/artist/5mnjbLL5Lpi3LW9Wnzir2O) | [Lila](https://open.spotify.com/album/6UjzxcdveHA76f4W4K71Uf) | 5:56 | 2023-10-13 |  |
 | [Old Royalty](https://open.spotify.com/track/2DcG3Xwrjv0XRLQVlJjXqM) | [DESH](https://open.spotify.com/artist/6nJ2MPazBFrwU07sGCpdcO), [Slug](https://open.spotify.com/artist/2E14TlP0N4RU8X3Y2i2Pq3), [delaney.](https://open.spotify.com/artist/33mF58EgWRWcLJWIddSH7h), [Howden](https://open.spotify.com/artist/5ij6GPX5uLZaxY5tttP8Vi) | [Old Royalty](https://open.spotify.com/album/1CcGRi6bwh4NQjSZmJhkzg) | 2:33 | 2023-08-22 |  |
 | [OLDRICH](https://open.spotify.com/track/7qeKWyg3a01pG6NeppeuUx) | [Tamotsu LeftGroove](https://open.spotify.com/artist/5M46qXuGk8gGVaGhZ2hVDx) | [OLDRICH](https://open.spotify.com/album/74LtG7zlykNAZ9O5B8AlBl) | 2:21 | 2023-08-22 |  |
 | [out and about with my love at the weekend](https://open.spotify.com/track/3ik0mKAt5Hq76jXPZYOI0Z) | [Akassia](https://open.spotify.com/artist/6ricu3j0F0VOuEOR08jGw5), [Samuel Williams](https://open.spotify.com/artist/08QnqhAnx6UeOtHjxdk2bv) | [out and about with my love at the weekend](https://open.spotify.com/album/6K8UbVR79JVTMD5blpendd) | 2:19 | 2023-08-22 |  |

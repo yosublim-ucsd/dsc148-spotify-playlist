@@ -4,7 +4,7 @@
 
 > selects from music we've been listening to @ Moving Castle\. Manila Killa's album, Dusk drops July 21st!
 
-531 songs - 1 day 5 hr 55 min
+532 songs - 1 day 5 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -389,6 +389,7 @@
 | [RIDE](https://open.spotify.com/track/2mBYXhbvd9HN1IJtwGARJn) | [R.C.D.](https://open.spotify.com/artist/0FrdFfkE81gnXdYbf5Do3Q) | [SARINE QUAZAR](https://open.spotify.com/album/6WQaXDhkwu1AuvMQxOTb9l) | 3:35 | 2022-03-11 | 2022-04-19 |
 | [Rings of Saturn](https://open.spotify.com/track/6B2smPDLlM2Ms59jSB4pVH) | [Alann8h](https://open.spotify.com/artist/1PG2FugIT1iF2CWnzjw0We) | [Apollo 8](https://open.spotify.com/album/6ktVSiT3MwRj9z5CJjC2df) | 2:53 | 2021-11-19 | 2022-01-08 |
 | [Riot \- Chahine Remix](https://open.spotify.com/track/1wDB8a4bZlnkbUmhJm0OE3) | [Khamsin](https://open.spotify.com/artist/3SArT8JtWehqNmycXIZren), [Chahine](https://open.spotify.com/artist/0ffZOUG03CN6pw4ry7CJY9) | [Riot \(Chahine Remix\)](https://open.spotify.com/album/0QQaemw9727t0MirfAj56x) | 3:08 | 2022-03-09 | 2023-07-20 |
+| [Ripple \(feat\. grandpa julie\)](https://open.spotify.com/track/2SqlWDESCdIb0QKNP0sByv) | [juuku](https://open.spotify.com/artist/2ixBQngmF4ZFXYHi8sJTfl), [grandpa julie](https://open.spotify.com/artist/6P38Kx1SGQCgAQHqv0LjAs) | [Ripple \(feat\. grandpa julie\)](https://open.spotify.com/album/0quSSIvZNfb6kxR8JcMRgM) | 3:03 | 2023-10-18 |  |
 | [RUN IT](https://open.spotify.com/track/7FM239I0HJpFFw7VFevY2Z) | [Dot](https://open.spotify.com/artist/1A18QbMmejwewRn5hfEFMT) | [FUTURE SHOCK](https://open.spotify.com/album/52AomiipSkezQWqHY1bx4t) | 3:02 | 2023-08-16 | 2023-09-26 |
 | [RUN IT](https://open.spotify.com/track/0kn18ll6yY25PIx2TMXnlX) | [Dot](https://open.spotify.com/artist/1A18QbMmejwewRn5hfEFMT), [AOBeats](https://open.spotify.com/artist/2tfyKNBwTB41ArvliXX1zA) | [RUN IT](https://open.spotify.com/album/7cxNAaXTPIRRwwIPRYeFGS) | 3:02 | 2023-07-10 |  |
 | [Running \(in my mind\)](https://open.spotify.com/track/5gqb9NkwpxZtm8Zxi6BBLX) | [Klo](https://open.spotify.com/artist/2QlABGwVVmqOu8SHMyyZMq) | [Running \(in my mind\)](https://open.spotify.com/album/5voibYsjdA4piZu58wTbkC) | 3:03 | 2023-10-05 |  |

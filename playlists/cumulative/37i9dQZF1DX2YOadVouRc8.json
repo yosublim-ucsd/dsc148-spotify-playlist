@@ -38,7 +38,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-13",
+      "date_removed": null,
       "duration_ms": 156734,
       "name": "2 Bad",
       "url": "https://open.spotify.com/track/43b1Jo8h0yrl1PtBU6eb8R"
@@ -64,6 +64,28 @@
       "duration_ms": 145892,
       "name": "21",
       "url": "https://open.spotify.com/track/11inTV2Wu4nScwljCX5Bxp"
+    },
+    {
+      "album": {
+        "name": "Asylum",
+        "url": "https://open.spotify.com/album/3XOj6M8MfJPr6BGpOuI9ho"
+      },
+      "artists": [
+        {
+          "name": "KAESTYLE",
+          "url": "https://open.spotify.com/artist/0o4t6y0LBJWs76vvuuzg50"
+        },
+        {
+          "name": "LeriQ",
+          "url": "https://open.spotify.com/artist/18wUkq9ZzqAVgDfxnYhLTl"
+        }
+      ],
+      "date_added": "2023-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145892,
+      "name": "21",
+      "url": "https://open.spotify.com/track/6pZggWHbaEqA3d3WVVT35u"
     },
     {
       "album": {
@@ -202,7 +224,7 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-18",
       "duration_ms": 149387,
       "name": "Alinko",
       "url": "https://open.spotify.com/track/0aUYRTlB5OkYf2MIpjWVgm"
@@ -1102,7 +1124,7 @@
       ],
       "date_added": "2023-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-18",
       "duration_ms": 142135,
       "name": "Cheers To Life",
       "url": "https://open.spotify.com/track/35APZC4TisJJihjSDtgn3C"
@@ -1270,7 +1292,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-18",
       "duration_ms": 216000,
       "name": "Comforter (feat. Ayra Starr)",
       "url": "https://open.spotify.com/track/2Vr7Qvt5a9f6W9m6ifke4K"
@@ -1288,7 +1310,7 @@
       ],
       "date_added": "2023-05-11",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-21",
+      "date_removed": null,
       "duration_ms": 160862,
       "name": "Complete",
       "url": "https://open.spotify.com/track/5JTSPWFJqK2T0ys6LWZcGN"
@@ -1306,7 +1328,7 @@
       ],
       "date_added": "2022-11-18",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-19",
+      "date_removed": null,
       "duration_ms": 160879,
       "name": "Confess",
       "url": "https://open.spotify.com/track/0YYvexuLnGWjD8iUwirzoW"
@@ -1588,7 +1610,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-18",
       "duration_ms": 166642,
       "name": "emiliana",
       "url": "https://open.spotify.com/track/6bW7YnPQQffit1iwule5Vv"
@@ -1700,7 +1722,7 @@
       ],
       "date_added": "2022-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-18",
       "duration_ms": 156771,
       "name": "Eye to Eye",
       "url": "https://open.spotify.com/track/6la2yQPbuFKD6I1vEaS2bz"
@@ -2242,7 +2264,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-18",
       "duration_ms": 187206,
       "name": "In The Morning",
       "url": "https://open.spotify.com/track/6ujpgpRiy9MKpae941OGrq"
@@ -2564,7 +2586,7 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-03",
+      "date_removed": null,
       "duration_ms": 136666,
       "name": "Labadi",
       "url": "https://open.spotify.com/track/0UP371eP3lmySxTUF79jLK"
@@ -3022,7 +3044,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-03",
+      "date_removed": null,
       "duration_ms": 158400,
       "name": "Mayana",
       "url": "https://open.spotify.com/track/0SVGaPNKJYl3JtVoScM7tF"
@@ -3048,7 +3070,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-13",
+      "date_removed": null,
       "duration_ms": 237346,
       "name": "MEDITATE",
       "url": "https://open.spotify.com/track/3luCfdUPwws6omTEmIUKXX"
@@ -3070,7 +3092,7 @@
       ],
       "date_added": "2023-08-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-18",
       "duration_ms": 255160,
       "name": "Meridian",
       "url": "https://open.spotify.com/track/73LBcJygFdRAiJfWkpnf2G"
@@ -3250,7 +3272,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-04",
+      "date_removed": null,
       "duration_ms": 162352,
       "name": "Naked Wire",
       "url": "https://open.spotify.com/track/5sFwnVasc8RuDlatiNHOXN"
@@ -3316,7 +3338,7 @@
       ],
       "date_added": "2023-05-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-18",
       "duration_ms": 155141,
       "name": "No Stress",
       "url": "https://open.spotify.com/track/4MB9KjYBDN1EsXFGDXVdfC"
@@ -3464,7 +3486,7 @@
       ],
       "date_added": "2023-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-18",
       "duration_ms": 186678,
       "name": "On My Mama",
       "url": "https://open.spotify.com/track/1o8Z7GD1CeOaVBEyuzu4HO"
@@ -3690,7 +3712,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-18",
       "duration_ms": 137907,
       "name": "Pretty Girl (with Rema)",
       "url": "https://open.spotify.com/track/1p5GikXPiCkw5T2VrSPrO1"
@@ -3730,6 +3752,28 @@
       "duration_ms": 161632,
       "name": "Quick Question",
       "url": "https://open.spotify.com/track/34iCDXDpWVR6ET2aBRiAqb"
+    },
+    {
+      "album": {
+        "name": "Sincerely, Benson",
+        "url": "https://open.spotify.com/album/3dctFKCiGPizmylLp0SN0a"
+      },
+      "artists": [
+        {
+          "name": "Bnxn",
+          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
+        },
+        {
+          "name": "taves",
+          "url": "https://open.spotify.com/artist/0wrGpASMlUo7TK5v61ArjA"
+        }
+      ],
+      "date_added": "2023-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133564,
+      "name": "Realize (feat. taves)",
+      "url": "https://open.spotify.com/track/5odFUgF0MS8DAnvlJpYdUd"
     },
     {
       "album": {
@@ -3788,7 +3832,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-06",
+      "date_removed": null,
       "duration_ms": 176058,
       "name": "Reckless",
       "url": "https://open.spotify.com/track/3QUVHCwlFqJoSrXHW2fxnC"
@@ -4164,7 +4208,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-18",
       "duration_ms": 174117,
       "name": "Sinner",
       "url": "https://open.spotify.com/track/3k6Y1ESBwF1low4hHsY4wu"
@@ -4548,7 +4592,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-18",
       "duration_ms": 203026,
       "name": "Steady",
       "url": "https://open.spotify.com/track/6mAdcIFP25eb37HjkzglSh"
@@ -4772,7 +4816,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-14",
+      "date_removed": null,
       "duration_ms": 204444,
       "name": "Tales By Moonlight (Ft Amaarae)",
       "url": "https://open.spotify.com/track/53JGRDnTAbXozbVusHa5ht"
@@ -4930,7 +4974,7 @@
       ],
       "date_added": "2022-07-28",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-12",
+      "date_removed": null,
       "duration_ms": 232021,
       "name": "That's Alright",
       "url": "https://open.spotify.com/track/2mJ1Ll9RgQt6k51gg4Ed0k"
@@ -5044,7 +5088,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-13",
+      "date_removed": null,
       "duration_ms": 242026,
       "name": "Trobul",
       "url": "https://open.spotify.com/track/3mitop70iyN03AreLNsit4"
@@ -5726,7 +5770,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-18",
       "duration_ms": 160000,
       "name": "Your Love (Mogbe)",
       "url": "https://open.spotify.com/track/6WDgwgR3fAu9UfLXz1iHCz"

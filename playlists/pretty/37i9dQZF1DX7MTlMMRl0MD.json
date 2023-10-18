@@ -1,12 +1,12 @@
 {
   "description": "Tu lista favorita de Bachata \u2764\ufe0f Cover: Enrique Iglesias y Maria Becerra",
-  "num_followers": 1899289,
+  "num_followers": 1899403,
   "original_name": "Bachata Lovers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5NjFmMTAzNTkxZDFjMzE2N2EyMTc5MWI3NWMwNTc2NWE2ODM4MjBm",
+  "snapshot_id": "MCxmMjMxMDMxNjRiMWZjZDA5OGY5NjQ4YjY2ZWJkMzIxOWExODViM2Mw",
   "tracks": [
     {
       "added_at": "2023-10-06 04:00:00",
@@ -1147,22 +1147,6 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
-        "name": "KITSUNE",
-        "url": "https://open.spotify.com/album/3XAOgyv86vI7q0vVnDeOY8"
-      },
-      "artists": [
-        {
-          "name": "Ingratax",
-          "url": "https://open.spotify.com/artist/62YF0FglEltB3CnVIjoko8"
-        }
-      ],
-      "duration_ms": 169418,
-      "name": "AMNESIA",
-      "url": "https://open.spotify.com/track/6KjbyUdtrLdlBJx6883aO0"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
         "name": "Haciendo Historia",
         "url": "https://open.spotify.com/album/0VLSRZj2zucgdtve2EvH4D"
       },
@@ -1175,6 +1159,22 @@
       "duration_ms": 185333,
       "name": "Ad\u00f3nde Se Fue ?",
       "url": "https://open.spotify.com/track/6hj4B44W9LzsFJFNHpmFTw"
+    },
+    {
+      "added_at": "2023-10-06 04:00:00",
+      "album": {
+        "name": "KITSUNE",
+        "url": "https://open.spotify.com/album/3XAOgyv86vI7q0vVnDeOY8"
+      },
+      "artists": [
+        {
+          "name": "Ingratax",
+          "url": "https://open.spotify.com/artist/62YF0FglEltB3CnVIjoko8"
+        }
+      ],
+      "duration_ms": 169418,
+      "name": "AMNESIA",
+      "url": "https://open.spotify.com/track/6KjbyUdtrLdlBJx6883aO0"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -1432,9 +1432,9 @@
           "url": "https://open.spotify.com/artist/3EVZsBWq5KqdtS6eVNHN8d"
         }
       ],
-      "duration_ms": 229032,
-      "name": "En Todo Fuiste la Mejor",
-      "url": "https://open.spotify.com/track/3nGuOrT9PqwVYQWamSryIA"
+      "duration_ms": 237998,
+      "name": "With or Without You",
+      "url": "https://open.spotify.com/track/4oByhbsmy68c2V7GUEMr22"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -1560,9 +1560,9 @@
           "url": "https://open.spotify.com/artist/3EVZsBWq5KqdtS6eVNHN8d"
         }
       ],
-      "duration_ms": 237998,
-      "name": "With or Without You",
-      "url": "https://open.spotify.com/track/4oByhbsmy68c2V7GUEMr22"
+      "duration_ms": 229032,
+      "name": "En Todo Fuiste la Mejor",
+      "url": "https://open.spotify.com/track/3nGuOrT9PqwVYQWamSryIA"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -1615,18 +1615,18 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
-        "name": "A World Tour",
-        "url": "https://open.spotify.com/album/7M4TBKECznxg5dPL0tgI3U"
+        "name": "Todav\u00eda Me Amas: Lo Mejor de Aventura",
+        "url": "https://open.spotify.com/album/4rncYwFMKLyhdd0yYQH19k"
       },
       "artists": [
         {
-          "name": "Optimo",
-          "url": "https://open.spotify.com/artist/37tpydsl5wICltyf0U7iHM"
+          "name": "Aventura",
+          "url": "https://open.spotify.com/artist/1qto4hHid1P71emI6Fd8xi"
         }
       ],
-      "duration_ms": 221760,
-      "name": "El Cuchillo",
-      "url": "https://open.spotify.com/track/51sf8K5TcoLvuMF24c84Lv"
+      "duration_ms": 257186,
+      "name": "Los Infieles",
+      "url": "https://open.spotify.com/track/6IBrFNHdmwP244yzpRLetH"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -1647,6 +1647,22 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
+        "name": "A World Tour",
+        "url": "https://open.spotify.com/album/7M4TBKECznxg5dPL0tgI3U"
+      },
+      "artists": [
+        {
+          "name": "Optimo",
+          "url": "https://open.spotify.com/artist/37tpydsl5wICltyf0U7iHM"
+        }
+      ],
+      "duration_ms": 221760,
+      "name": "El Cuchillo",
+      "url": "https://open.spotify.com/track/51sf8K5TcoLvuMF24c84Lv"
+    },
+    {
+      "added_at": "2023-10-06 04:00:00",
+      "album": {
         "name": "Soy Yo",
         "url": "https://open.spotify.com/album/6WtVPPM7gYHQtH3rTo7MXU"
       },
@@ -1659,22 +1675,6 @@
       "duration_ms": 229369,
       "name": "Soy Yo",
       "url": "https://open.spotify.com/track/3K2UhwxyWdtnukemG2yiP0"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
-        "name": "Todav\u00eda Me Amas: Lo Mejor de Aventura",
-        "url": "https://open.spotify.com/album/4rncYwFMKLyhdd0yYQH19k"
-      },
-      "artists": [
-        {
-          "name": "Aventura",
-          "url": "https://open.spotify.com/artist/1qto4hHid1P71emI6Fd8xi"
-        }
-      ],
-      "duration_ms": 257186,
-      "name": "Los Infieles",
-      "url": "https://open.spotify.com/track/6IBrFNHdmwP244yzpRLetH"
     },
     {
       "added_at": "2023-10-06 04:00:00",

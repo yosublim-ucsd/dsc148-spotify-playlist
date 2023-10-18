@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX55uyETlpZlJ.md) - [plain]
 
 > Catch up with the Indie Songs from 'namma ooru'<br/>Cover : All OK
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,905 likes - 79 songs - 4 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,912 likes - 79 songs - 4 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,7 +58,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX55uyETlpZlJ.md) - [plain]
 | 48 | [FLYHIGH](https://open.spotify.com/track/4xcu2aYgGXrcI8N9JBzh1j) | [Krishna Tejasvi](https://open.spotify.com/artist/1Eg5wFfEYY6DsiGelBYi4q) | [FLYHIGH \- Kannada](https://open.spotify.com/album/5I7FRC3Hy9Eg6CqKE29fvL) | 3:55 |
 | 49 | [Ex Girlfriend](https://open.spotify.com/track/7luftFuLr8YjPPeXRz7jiq) | [BroGowda](https://open.spotify.com/artist/7bj1UtwFuY9v9GwHUlKT63), [Niveditha Gowda](https://open.spotify.com/artist/25waAm5irwNDoboeQT8C4C) | [Ex Girlfriend](https://open.spotify.com/album/5rFwvht6Lm25x9M7Q93hMt) | 3:12 |
 | 50 | [Kaanada Manasige](https://open.spotify.com/track/7mtZbE8zeSCUtwXpqtO70N) | [Törk](https://open.spotify.com/artist/7xGyFtxJOldAjiu2bvDAsy), [AKSH](https://open.spotify.com/artist/4XuG5Czd9PgDg9GF87E137) | [Ninagaagi](https://open.spotify.com/album/4ua8AMfcoC231SEaTtJgsl) | 3:39 |
-| 51 | [Zari Zari Panche Uttu DJ](https://open.spotify.com/track/6ijmugaN1k88ZQNxCQsCtf) | [Ananya Bhat](https://open.spotify.com/artist/4JczWHls9n9VpTHnqO2IG8), [Naveen Sajju](https://open.spotify.com/artist/2PxwriIRRPcrUf2YHU7Wzx), [Spoorthi Jithender](https://open.spotify.com/artist/5ugSzRux2CJD4YuXJNcxad), [Lasya](https://open.spotify.com/artist/3nFDEpKawzTa38sZ6XXuFx), [Tony Kick](https://open.spotify.com/artist/5dmuoctzzOKykZWLw1n5Wu), [Dj Srinu](https://open.spotify.com/artist/0kHjYVT8TNPF5PFf6rJrNz) | [Zari Zari Panche Uttu DJ](https://open.spotify.com/album/3OP4xJCLZPC3uiqjGFVzP0) | 3:52 |
+| 51 | [Zari Zari Panche Uttu DJ \- DJ Version](https://open.spotify.com/track/6ijmugaN1k88ZQNxCQsCtf) | [Ananya Bhat](https://open.spotify.com/artist/4JczWHls9n9VpTHnqO2IG8), [Naveen Sajju](https://open.spotify.com/artist/2PxwriIRRPcrUf2YHU7Wzx), [Spoorthi Jithender](https://open.spotify.com/artist/5ugSzRux2CJD4YuXJNcxad), [Lasya](https://open.spotify.com/artist/3nFDEpKawzTa38sZ6XXuFx), [Tony Kick](https://open.spotify.com/artist/5dmuoctzzOKykZWLw1n5Wu), [Dj Srinu](https://open.spotify.com/artist/0kHjYVT8TNPF5PFf6rJrNz) | [Zari Zari Panche Uttu DJ \(DJ Version\)](https://open.spotify.com/album/3OP4xJCLZPC3uiqjGFVzP0) | 3:52 |
 | 52 | [Neene Nanna Dilruba](https://open.spotify.com/track/30TLwuKugPfrnMGJUyOpCX) | [Sneha P](https://open.spotify.com/artist/7a340nNpfXGVZrWSrJeZ1x), [Ashwin G](https://open.spotify.com/artist/7rY02n29nmQUH6J1sTs6lK) | [Neene Nanna Dilruba](https://open.spotify.com/album/12mK3U7Mre8X8KnDzdbHfj) | 3:06 |
 | 53 | [Haaralu](https://open.spotify.com/track/75EX7KicIHR8oJeJsnhFOv) | [Karna](https://open.spotify.com/artist/5emr0hDfZPtMhi0u5wywDQ), [Dheemusix](https://open.spotify.com/artist/3vJ12GL0X2a48lbZYd3cjo) | [Haaralu](https://open.spotify.com/album/45lp8EknJduEep8k5wrb6Z) | 2:57 |
 | 54 | [Yaake Ni Heege?](https://open.spotify.com/track/4OeTmbpN23HcBQUxk8CBAX) | [Dheemusix](https://open.spotify.com/artist/3vJ12GL0X2a48lbZYd3cjo), [Asher Mendonca](https://open.spotify.com/artist/7vT1RnB74vnPFxhjnPC4Rr) | [Yaake Ni Heege?](https://open.spotify.com/album/55RCaTpiNeCcpcGk6CwQRG) | 2:59 |
@@ -88,4 +88,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX55uyETlpZlJ.md) - [plain]
 | 78 | [Nenapaagiru](https://open.spotify.com/track/72hwWV8M33IeJaYjKnR2JJ) | [Aakash Hebbar](https://open.spotify.com/artist/64hwvgmt8sru0GvBV5VMMJ), [Chethan Shrinivas](https://open.spotify.com/artist/0DxpPOSRAbFBkESXzM4yId) | [Nenapaagiru](https://open.spotify.com/album/1h8A3OYCcs2dLGRljWGwgj) | 3:44 |
 | 79 | [Ninnane Bayaside](https://open.spotify.com/track/2gVeV88YIQzA5zO0rTiyzu) | [Satvik C S](https://open.spotify.com/artist/5nqsLJcHlqXLCvvWjdEIoR) | [Ninnane Bayaside](https://open.spotify.com/album/65X3c2WdqKnrralQy9ccEm) | 2:52 |
 
-Snapshot ID: `MCw4NWVhOTFmNzEzZTU5OWYzNmQ2NTYyMDI5NzAyNzc3YjM0NzdmODEw`
+Snapshot ID: `MCw5NzYxMGUyMDQxZmQ0ZDYyZjYxYTQ5NTIxNDRmYjg2NGM4NmE1M2U3`

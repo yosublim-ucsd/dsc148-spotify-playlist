@@ -1,12 +1,12 @@
 {
   "description": "The cool sound of West coast Jazz. Cover: Gerry Mulligan",
-  "num_followers": 20147,
+  "num_followers": 20165,
   "original_name": "West Coast Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkMzkzMmRhNjgxOWYwMjIyNzY4Y2NjMWZiODdlZGViZjZmZTU0OWI4",
+  "snapshot_id": "MCxiNDNhNTQyMjgwNzEwMDBjYjhmZWE1NWI0MTE4MWQyMDY3MTJiNjI3",
   "tracks": [
     {
       "added_at": "2023-08-31 12:17:23",
@@ -407,18 +407,22 @@
     {
       "added_at": "2023-08-31 12:17:23",
       "album": {
-        "name": "Coolin'",
-        "url": "https://open.spotify.com/album/5JK0dCS5Tzymtjvt3DsvA2"
+        "name": "Presenting Bud Shank",
+        "url": "https://open.spotify.com/album/1bEeCmIuAjwiC3ZOUBSvNP"
       },
       "artists": [
         {
-          "name": "Teddy Charles",
-          "url": "https://open.spotify.com/artist/2LQeYKxQ99Y844Y2fxCGQn"
+          "name": "Bud Shank",
+          "url": "https://open.spotify.com/artist/2UuKUaomk3bZ0nHM3Y3FdW"
+        },
+        {
+          "name": "Bill Perkins",
+          "url": "https://open.spotify.com/artist/3hszaXRiD1mC582INBUhOL"
         }
       ],
-      "duration_ms": 463346,
-      "name": "The Eagle Flies",
-      "url": "https://open.spotify.com/track/0L8PnNpkT1o7Mi9uK3doo5"
+      "duration_ms": 200253,
+      "name": "A Sinner Kissed an Angel",
+      "url": "https://open.spotify.com/track/4Ns7MifKhkJwdDa0eNPZIu"
     },
     {
       "added_at": "2023-08-31 12:17:23",
@@ -439,22 +443,18 @@
     {
       "added_at": "2023-08-31 12:17:23",
       "album": {
-        "name": "Presenting Bud Shank",
-        "url": "https://open.spotify.com/album/1bEeCmIuAjwiC3ZOUBSvNP"
+        "name": "Coolin'",
+        "url": "https://open.spotify.com/album/5JK0dCS5Tzymtjvt3DsvA2"
       },
       "artists": [
         {
-          "name": "Bud Shank",
-          "url": "https://open.spotify.com/artist/2UuKUaomk3bZ0nHM3Y3FdW"
-        },
-        {
-          "name": "Bill Perkins",
-          "url": "https://open.spotify.com/artist/3hszaXRiD1mC582INBUhOL"
+          "name": "Teddy Charles",
+          "url": "https://open.spotify.com/artist/2LQeYKxQ99Y844Y2fxCGQn"
         }
       ],
-      "duration_ms": 200253,
-      "name": "A Sinner Kissed an Angel",
-      "url": "https://open.spotify.com/track/4Ns7MifKhkJwdDa0eNPZIu"
+      "duration_ms": 463346,
+      "name": "The Eagle Flies",
+      "url": "https://open.spotify.com/track/0L8PnNpkT1o7Mi9uK3doo5"
     },
     {
       "added_at": "2023-08-31 12:17:23",
@@ -855,18 +855,18 @@
     {
       "added_at": "2023-08-31 12:17:23",
       "album": {
-        "name": "Verve Jazz Masters 52: Maynard Ferguson",
-        "url": "https://open.spotify.com/album/4quQi9QInfe4JWEpyu31vI"
+        "name": "Monterey Concerts",
+        "url": "https://open.spotify.com/album/1nIZG4Rb0iAzzqo5UgcF2t"
       },
       "artists": [
         {
-          "name": "Maynard Ferguson",
-          "url": "https://open.spotify.com/artist/6T4kUHIlszpj944ZXR3yNw"
+          "name": "Cal Tjader",
+          "url": "https://open.spotify.com/artist/3XOVABzceOUTbR3iEz0ImO"
         }
       ],
-      "duration_ms": 185493,
-      "name": "Willie Nillie",
-      "url": "https://open.spotify.com/track/2UixOYLt51ybhwhkT0QHnS"
+      "duration_ms": 605400,
+      "name": "Walkin' With Wally - live",
+      "url": "https://open.spotify.com/track/2jrutFIbGBJqT8FdSRisuJ"
     }
   ],
   "unique_name": "West Coast Jazz",

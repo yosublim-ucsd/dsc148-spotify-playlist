@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Morocco.
 
-1,211 songs - 2 day 18 hr 53 min
+1,212 songs - 2 day 18 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -43,6 +43,7 @@
 | [7elmet ado 6](https://open.spotify.com/track/5isvUTOCs9UNdwBR8e8oGE) | [ElGrandeToto](https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx) | [7elmet ado 6](https://open.spotify.com/album/5RgB11Zv214PJXaI37jYrU) | 7:43 | 2023-01-10 | 2023-05-01 |
 | [7elmetAdo 6](https://open.spotify.com/track/3zwyy5k02gQJ6QjA2S78qE) | [GOGOXBEAT](https://open.spotify.com/artist/24qc7pA7CzpmLAY7rr09kf) | [7elmetAdo 6](https://open.spotify.com/album/7taTjootisSbnt336bke3d) | 7:42 | 2023-01-01 | 2023-01-10 |
 | [7jab](https://open.spotify.com/track/6kyMIEOOPOb9NAbHid5I5B) | [Diib](https://open.spotify.com/artist/1PAFc1G2WeoQ4DeGKETVdi), [Moro](https://open.spotify.com/artist/1akll7SRGZblDrbCF5eqYW) | [Immortal](https://open.spotify.com/album/6DIp3xw3tPfwQx9jHCoSLV) | 3:04 | 2022-05-28 | 2022-05-30 |
+| [7YATI](https://open.spotify.com/track/2P9o39lTzv5Ot1rmRaVMrs) | [Ridouane.officiel1](https://open.spotify.com/artist/6CWdfBwZpsPKVYzIZucTKG) | [7YATI](https://open.spotify.com/album/6jeqpxMp1ODiZ6hdZXpeGk) | 2:35 | 2023-10-17 |  |
 | [999](https://open.spotify.com/track/1z5GERONTAixk3yYhxMyg3) | [7ari](https://open.spotify.com/artist/292jMVlKq180yzi8WRaVU6) | [Omerta](https://open.spotify.com/album/4DjuD48lhHAsL3tOklxQrC) | 2:14 | 2023-01-07 | 2023-01-19 |
 | [999](https://open.spotify.com/track/6byhaAmWs8DEL8veyvFXnO) | [GOGOXBEAT](https://open.spotify.com/artist/24qc7pA7CzpmLAY7rr09kf) | [OMERTA](https://open.spotify.com/album/1eS2XzJ1XwWNTky6LZJxVX) | 2:14 | 2023-01-08 | 2023-01-10 |
 | [9lil L7ya](https://open.spotify.com/track/72xRdkNgXfWTetqFPRxY7j) | [Figoshin](https://open.spotify.com/artist/7vg7wkmGzMEM7p2ZkMPHJS) | [9lil L7ya](https://open.spotify.com/album/3VaV1gAZfolzxzGGcZQ0zV) | 2:52 | 2021-10-18 | 2021-10-21 |
@@ -264,7 +265,7 @@
 | [D'Kover \- Darja Darja \- درجة درجة](https://open.spotify.com/track/6AqTrSMEkIN0jiRYWLnBlx) | [DKB](https://open.spotify.com/artist/4Ozq4urgB1jcYw0VzXpj2X), [Amine SEMMA](https://open.spotify.com/artist/187xRinFfEj83kQ9KpgqKA) | [D'Kover](https://open.spotify.com/album/5jAZJlyawkAJarExM8HjKC) | 2:24 | 2022-06-01 | 2022-06-03 |
 | [Daliyou](https://open.spotify.com/track/7nrCax5vsQsQGt59NiW1S2) | [LFERDA](https://open.spotify.com/artist/0bmKQDkU4J3gUykZS8tb6v), [Dollypran](https://open.spotify.com/artist/16S0vhZYtrfR4kksycV4NS) | [Cagoulé](https://open.spotify.com/album/1qD0LUxHxbr5UPw7Rz99C0) | 2:56 | 2022-05-28 | 2022-06-10 |
 | [Dancefloor](https://open.spotify.com/track/00RNbgdVedLwwP9kXKc6Vh) | [ISSAM](https://open.spotify.com/artist/37lslcg6zP6eAQAONiYvWN) | [Crystal](https://open.spotify.com/album/5DaSVXmnpAJDsXl7AJxYyO) | 1:25 | 2021-05-08 | 2021-05-15 |
-| [DARBA 9ADIYA](https://open.spotify.com/track/0WCiCbdRB54GMzlRGs3Fa4) | [Moha K](https://open.spotify.com/artist/6o5sl0TGublDPXyMHdMq1E), [DYSTINCT](https://open.spotify.com/artist/1cKyknhftNKXCjMBd2hDrG), [YAM](https://open.spotify.com/artist/7KpyU32bL0qN4pY9wNSu7E) | [DARBA 9ADIYA](https://open.spotify.com/album/0A32UfWq7bigKFdXJ0o2LW) | 2:29 | 2023-04-29 |  |
+| [DARBA 9ADIYA](https://open.spotify.com/track/0WCiCbdRB54GMzlRGs3Fa4) | [Moha K](https://open.spotify.com/artist/6o5sl0TGublDPXyMHdMq1E), [DYSTINCT](https://open.spotify.com/artist/1cKyknhftNKXCjMBd2hDrG), [YAM](https://open.spotify.com/artist/7KpyU32bL0qN4pY9wNSu7E) | [DARBA 9ADIYA](https://open.spotify.com/album/0A32UfWq7bigKFdXJ0o2LW) | 2:29 | 2023-04-29 | 2023-10-18 |
 | [Darja](https://open.spotify.com/track/3QqKJXiqBkgMM2prOdByeC) | [Snor](https://open.spotify.com/artist/7LC7LQ1f1CzaRLobFcblZN) | [Darja](https://open.spotify.com/album/5oJb0Ei8LzkAbAJBT9S8iq) | 2:14 | 2021-03-27\* | 2021-03-27 |
 | [Dark side of the moon](https://open.spotify.com/track/1kRE2K3GeNFD9LgVEOBCR8) | [8ird](https://open.spotify.com/artist/3QmZDh7Hz0zasHGHK6NZkw), [Anys](https://open.spotify.com/artist/1YjFEw5PirL57vHDoCMkhw) | [Dark side of the moon](https://open.spotify.com/album/4ORIHnOoJZQ4ZWEJKTUfke) | 3:30 | 2022-02-24 | 2022-02-26 |
 | [Dark Tunnel](https://open.spotify.com/track/71F9PIi9jrLhfeg9CCjBq5) | [Raste](https://open.spotify.com/artist/7hblKQxMowm5BZpxUjcYQT) | [Regalo](https://open.spotify.com/album/6QYA0gxCZ0mRO4XgpNPmTf) | 3:31 | 2022-01-04 | 2022-01-07 |

@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwZWY3MWZkZmU4MmVhMzBlMzVkNjQxOWU3MGNjYTlmZjJiYmUxNjJm",
+  "snapshot_id": "MCxiN2IyMzZhZGZhYjE4MDRkNTA4ZmM2MzUyYzAzMTYwM2M3OTBjMmMz",
   "tracks": [
     {
       "added_at": "2023-03-21 00:56:25",
@@ -732,22 +732,6 @@
       "added_at": "2023-03-21 00:56:25",
       "album": {
         "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/5W98NMXBBTBjrAQMY9lyAZ"
-      },
-      "artists": [
-        {
-          "name": "Anitta",
-          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
-        }
-      ],
-      "duration_ms": 217058,
-      "name": "thank u, next - Recorded At Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/1bmixG6Y4C1T8CXyE3nFDF"
-    },
-    {
-      "added_at": "2023-03-21 00:56:25",
-      "album": {
-        "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/1pBRAyTNXs1QRRAFRZ4Ygs"
       },
       "artists": [
@@ -763,6 +747,22 @@
       "duration_ms": 210353,
       "name": "Kyoto - Spotify Singles",
       "url": "https://open.spotify.com/track/1w2gRlZvcIkuJHYr9Y0cE4"
+    },
+    {
+      "added_at": "2023-03-21 00:56:25",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/5W98NMXBBTBjrAQMY9lyAZ"
+      },
+      "artists": [
+        {
+          "name": "Anitta",
+          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
+        }
+      ],
+      "duration_ms": 217058,
+      "name": "thank u, next - Recorded At Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/1bmixG6Y4C1T8CXyE3nFDF"
     },
     {
       "added_at": "2023-03-21 00:56:25",
@@ -880,22 +880,6 @@
       "added_at": "2023-03-21 00:56:25",
       "album": {
         "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/7KKRDqdnhfBV61qQ1EVxY2"
-      },
-      "artists": [
-        {
-          "name": "Chloe x Halle",
-          "url": "https://open.spotify.com/artist/0AsThoR4KZSVktALiNcQwW"
-        }
-      ],
-      "duration_ms": 173206,
-      "name": "Sending My Love - Spotify Singles",
-      "url": "https://open.spotify.com/track/1KFHD2MK0wQADYddeed7Qf"
-    },
-    {
-      "added_at": "2023-03-21 00:56:25",
-      "album": {
-        "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/0hrz3cyWU6nXSVihQi4ew9"
       },
       "artists": [
@@ -907,6 +891,22 @@
       "duration_ms": 149607,
       "name": "Stanley Park (Recorded at Spotify Studios NYC)",
       "url": "https://open.spotify.com/track/1bFbUtdoecQddVMfSGoxsA"
+    },
+    {
+      "added_at": "2023-03-21 00:56:25",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/7KKRDqdnhfBV61qQ1EVxY2"
+      },
+      "artists": [
+        {
+          "name": "Chloe x Halle",
+          "url": "https://open.spotify.com/artist/0AsThoR4KZSVktALiNcQwW"
+        }
+      ],
+      "duration_ms": 173206,
+      "name": "Sending My Love - Spotify Singles",
+      "url": "https://open.spotify.com/track/1KFHD2MK0wQADYddeed7Qf"
     },
     {
       "added_at": "2023-03-21 00:56:25",
@@ -1108,22 +1108,6 @@
       "added_at": "2023-03-21 00:56:25",
       "album": {
         "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/2BCVpECjDXm3bfpbU88AGO"
-      },
-      "artists": [
-        {
-          "name": "Laura Marling",
-          "url": "https://open.spotify.com/artist/7B2edU3Q7btJoNsoHCNohM"
-        }
-      ],
-      "duration_ms": 164509,
-      "name": "Kathy\u2019s Song - Recorded at Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/5VTAeRB21LBZHqk6qKBQXz"
-    },
-    {
-      "added_at": "2023-03-21 00:56:25",
-      "album": {
-        "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/7xPNSOtnXFMOsTnvQrLeXH"
       },
       "artists": [
@@ -1135,6 +1119,22 @@
       "duration_ms": 251498,
       "name": "Stayaway - Recorded at Electric Lady Studios NYC",
       "url": "https://open.spotify.com/track/38TDGceS2vVyOxIdU4n9ZU"
+    },
+    {
+      "added_at": "2023-03-21 00:56:25",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/2BCVpECjDXm3bfpbU88AGO"
+      },
+      "artists": [
+        {
+          "name": "Laura Marling",
+          "url": "https://open.spotify.com/artist/7B2edU3Q7btJoNsoHCNohM"
+        }
+      ],
+      "duration_ms": 164509,
+      "name": "Kathy\u2019s Song - Recorded at Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/5VTAeRB21LBZHqk6qKBQXz"
     },
     {
       "added_at": "2023-03-21 00:56:25",
@@ -1640,22 +1640,6 @@
       "added_at": "2023-03-21 00:56:25",
       "album": {
         "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/0Y808JJyzRr0gXTNNDL2bA"
-      },
-      "artists": [
-        {
-          "name": "Jennifer Lopez",
-          "url": "https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR"
-        }
-      ],
-      "duration_ms": 237551,
-      "name": "Vivir Mi Vida - Recorded at Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/2fonqgmRhs64TBxzTPlA9w"
-    },
-    {
-      "added_at": "2023-03-21 00:56:25",
-      "album": {
-        "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/4e1KPKRbxwbrHnysHvve8j"
       },
       "artists": [
@@ -1667,6 +1651,22 @@
       "duration_ms": 232706,
       "name": "Out Of Love - Recorded at Spotify Studios NYC",
       "url": "https://open.spotify.com/track/4Zjy63iyu5vYQk8AwDyxmI"
+    },
+    {
+      "added_at": "2023-03-21 00:56:25",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/0Y808JJyzRr0gXTNNDL2bA"
+      },
+      "artists": [
+        {
+          "name": "Jennifer Lopez",
+          "url": "https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR"
+        }
+      ],
+      "duration_ms": 237551,
+      "name": "Vivir Mi Vida - Recorded at Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/2fonqgmRhs64TBxzTPlA9w"
     },
     {
       "added_at": "2023-03-21 00:56:25",
@@ -2420,22 +2420,6 @@
       "added_at": "2023-03-21 00:56:25",
       "album": {
         "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/7vgE9gYasOiF92O5bN5usf"
-      },
-      "artists": [
-        {
-          "name": "Janelle Kroll",
-          "url": "https://open.spotify.com/artist/50bLYJ4e3ZR2chodK8oMW9"
-        }
-      ],
-      "duration_ms": 262987,
-      "name": "Ivy - Recorded at Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/4Db88sMdYMNETPXIZyJdwk"
-    },
-    {
-      "added_at": "2023-03-21 00:56:25",
-      "album": {
-        "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/1SMUYWhPwuZzNR7Q0PGz8o"
       },
       "artists": [
@@ -2463,6 +2447,22 @@
       "duration_ms": 158048,
       "name": "Nothing Scares Me - Spotify Singles",
       "url": "https://open.spotify.com/track/1s2MMnIR3TYcujFBpNwVQ6"
+    },
+    {
+      "added_at": "2023-03-21 00:56:25",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/7vgE9gYasOiF92O5bN5usf"
+      },
+      "artists": [
+        {
+          "name": "Janelle Kroll",
+          "url": "https://open.spotify.com/artist/50bLYJ4e3ZR2chodK8oMW9"
+        }
+      ],
+      "duration_ms": 262987,
+      "name": "Ivy - Recorded at Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/4Db88sMdYMNETPXIZyJdwk"
     },
     {
       "added_at": "2023-03-21 00:56:25",
@@ -2856,22 +2856,6 @@
       "added_at": "2023-03-21 00:56:25",
       "album": {
         "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/3NSkcqmYRTEb2sPICYWT1T"
-      },
-      "artists": [
-        {
-          "name": "Kelly Clarkson",
-          "url": "https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX"
-        }
-      ],
-      "duration_ms": 174128,
-      "name": "Love So Soft - Recorded at Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/6rz4aPhhNM6PFh3Ar2n07X"
-    },
-    {
-      "added_at": "2023-03-21 00:56:25",
-      "album": {
-        "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/3ai4BSQG7yNVzcChdPCFK0"
       },
       "artists": [
@@ -2883,6 +2867,22 @@
       "duration_ms": 224016,
       "name": "Why Her Not Me - Recorded At RAK Studios, London",
       "url": "https://open.spotify.com/track/7whdwj322sXuwBjVykxW1w"
+    },
+    {
+      "added_at": "2023-03-21 00:56:25",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/3NSkcqmYRTEb2sPICYWT1T"
+      },
+      "artists": [
+        {
+          "name": "Kelly Clarkson",
+          "url": "https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX"
+        }
+      ],
+      "duration_ms": 174128,
+      "name": "Love So Soft - Recorded at Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/6rz4aPhhNM6PFh3Ar2n07X"
     },
     {
       "added_at": "2023-03-21 00:56:25",
@@ -3016,22 +3016,6 @@
       "added_at": "2023-03-21 00:56:25",
       "album": {
         "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/4deTc6TA47HuQPM9xnZCsL"
-      },
-      "artists": [
-        {
-          "name": "Joan Jett & the Blackhearts",
-          "url": "https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K"
-        }
-      ],
-      "duration_ms": 175080,
-      "name": "Androgynous - Recorded at Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/1moVuTTH3Kh1FLMAJoriAz"
-    },
-    {
-      "added_at": "2023-03-21 00:56:25",
-      "album": {
-        "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/2BCVpECjDXm3bfpbU88AGO"
       },
       "artists": [
@@ -3059,6 +3043,22 @@
       "duration_ms": 312586,
       "name": "One More Try - Recorded at Spotify Studios Nyc",
       "url": "https://open.spotify.com/track/5qoey0nfhko0BZh5w1Xq0y"
+    },
+    {
+      "added_at": "2023-03-21 00:56:25",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/4deTc6TA47HuQPM9xnZCsL"
+      },
+      "artists": [
+        {
+          "name": "Joan Jett & the Blackhearts",
+          "url": "https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K"
+        }
+      ],
+      "duration_ms": 175080,
+      "name": "Androgynous - Recorded at Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/1moVuTTH3Kh1FLMAJoriAz"
     },
     {
       "added_at": "2023-03-21 00:56:25",

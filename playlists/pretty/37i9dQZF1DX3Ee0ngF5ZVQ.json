@@ -1,12 +1,12 @@
 {
   "description": "New and trending tracks from Texas Country icons and rising stars. Cover: Randy Rogers and Wade Bowen",
-  "num_followers": 418187,
+  "num_followers": 418250,
   "original_name": "Texas Country Now",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkYTU0ZTcyOTQ1MDNmYzMzYWVkZjFjYTNkMmI1Y2NjNjg0ZTkwZjk2",
+  "snapshot_id": "MCw2MThlZTgyMTEyN2I0M2ZiYjM2NGMwYThlOTkxMTc2MGY5ZGZiY2Jl",
   "tracks": [
     {
       "added_at": "2023-10-13 04:00:00",
@@ -703,8 +703,8 @@
     {
       "added_at": "2023-10-13 04:00:00",
       "album": {
-        "name": "Who I Am",
-        "url": "https://open.spotify.com/album/4dVQwZMN2B0tfKjPWs3ayY"
+        "name": "Last Goodbye",
+        "url": "https://open.spotify.com/album/0WXyQUyDdTimxIhieDQIlA"
       },
       "artists": [
         {
@@ -712,9 +712,9 @@
           "url": "https://open.spotify.com/artist/1ZGVS1OWpdvELiQyx3vkO7"
         }
       ],
-      "duration_ms": 257146,
-      "name": "Who I Am",
-      "url": "https://open.spotify.com/track/41kIX5NAx8HXFpZx8XJghd"
+      "duration_ms": 212946,
+      "name": "Last Goodbye",
+      "url": "https://open.spotify.com/track/4G3alzPjLhRcm7rxsSHMkp"
     },
     {
       "added_at": "2023-10-13 04:00:00",
@@ -835,8 +835,8 @@
     {
       "added_at": "2023-10-13 04:00:00",
       "album": {
-        "name": "Last Goodbye",
-        "url": "https://open.spotify.com/album/0WXyQUyDdTimxIhieDQIlA"
+        "name": "Who I Am",
+        "url": "https://open.spotify.com/album/4dVQwZMN2B0tfKjPWs3ayY"
       },
       "artists": [
         {
@@ -844,9 +844,9 @@
           "url": "https://open.spotify.com/artist/1ZGVS1OWpdvELiQyx3vkO7"
         }
       ],
-      "duration_ms": 212946,
-      "name": "Last Goodbye",
-      "url": "https://open.spotify.com/track/4G3alzPjLhRcm7rxsSHMkp"
+      "duration_ms": 257146,
+      "name": "Who I Am",
+      "url": "https://open.spotify.com/track/41kIX5NAx8HXFpZx8XJghd"
     },
     {
       "added_at": "2023-10-13 04:00:00",
@@ -1131,22 +1131,6 @@
     {
       "added_at": "2023-10-13 04:00:00",
       "album": {
-        "name": "Heartfelt",
-        "url": "https://open.spotify.com/album/5sCBCyGbNmMg4PzIg674ge"
-      },
-      "artists": [
-        {
-          "name": "Troy Cartwright",
-          "url": "https://open.spotify.com/artist/24I45QsPZf5Gr7aVlVmTfr"
-        }
-      ],
-      "duration_ms": 195123,
-      "name": "Heartfelt",
-      "url": "https://open.spotify.com/track/0OGcW962TOINe5X95LeAhl"
-    },
-    {
-      "added_at": "2023-10-13 04:00:00",
-      "album": {
         "name": "Love Talking",
         "url": "https://open.spotify.com/album/0bflVbQQISnuMdv5KjVPHB"
       },
@@ -1159,6 +1143,22 @@
       "duration_ms": 173131,
       "name": "Love Talking",
       "url": "https://open.spotify.com/track/5kFLWyiAXjYrecLHnR7bTk"
+    },
+    {
+      "added_at": "2023-10-13 04:00:00",
+      "album": {
+        "name": "Heartfelt",
+        "url": "https://open.spotify.com/album/5sCBCyGbNmMg4PzIg674ge"
+      },
+      "artists": [
+        {
+          "name": "Troy Cartwright",
+          "url": "https://open.spotify.com/artist/24I45QsPZf5Gr7aVlVmTfr"
+        }
+      ],
+      "duration_ms": 195123,
+      "name": "Heartfelt",
+      "url": "https://open.spotify.com/track/0OGcW962TOINe5X95LeAhl"
     },
     {
       "added_at": "2023-10-13 04:00:00",
@@ -1247,22 +1247,18 @@
     {
       "added_at": "2023-10-13 04:00:00",
       "album": {
-        "name": "Pancho and Lefty",
-        "url": "https://open.spotify.com/album/6Pv3AMeGAbaucnS8aeatwX"
+        "name": "blood",
+        "url": "https://open.spotify.com/album/4ttXGpNxsIaxGtsV2M3unU"
       },
       "artists": [
         {
-          "name": "Shane Smith & the Saints",
-          "url": "https://open.spotify.com/artist/4pLxUMyDrijXynrUP59whJ"
-        },
-        {
-          "name": "Hayes Carll",
-          "url": "https://open.spotify.com/artist/6UWifcscEdbjPgmbevBxZV"
+          "name": "Kaitlin Butts",
+          "url": "https://open.spotify.com/artist/6QmSTo72BYMATkQVOV1axD"
         }
       ],
-      "duration_ms": 309510,
-      "name": "Pancho and Lefty",
-      "url": "https://open.spotify.com/track/6j3GYmozEYsyunxO0RH2Wg"
+      "duration_ms": 298906,
+      "name": "blood",
+      "url": "https://open.spotify.com/track/2YqZCQhkuQpPUb5M9wptBq"
     },
     {
       "added_at": "2023-10-13 04:00:00",
@@ -1283,18 +1279,18 @@
     {
       "added_at": "2023-10-13 04:00:00",
       "album": {
-        "name": "blood",
-        "url": "https://open.spotify.com/album/4ttXGpNxsIaxGtsV2M3unU"
+        "name": "Dancin' With The Devil",
+        "url": "https://open.spotify.com/album/2lyRkU6hBSaV6TciIe7kP4"
       },
       "artists": [
         {
-          "name": "Kaitlin Butts",
-          "url": "https://open.spotify.com/artist/6QmSTo72BYMATkQVOV1axD"
+          "name": "Josh Ward",
+          "url": "https://open.spotify.com/artist/0K3gUcawlzf0s7WE9umkgd"
         }
       ],
-      "duration_ms": 298906,
-      "name": "blood",
-      "url": "https://open.spotify.com/track/2YqZCQhkuQpPUb5M9wptBq"
+      "duration_ms": 178848,
+      "name": "Dancin' With The Devil",
+      "url": "https://open.spotify.com/track/2NZnlBkPCFaWvtEkifGZIB"
     },
     {
       "added_at": "2023-10-13 04:00:00",
@@ -1331,18 +1327,22 @@
     {
       "added_at": "2023-10-13 04:00:00",
       "album": {
-        "name": "Dancin' With The Devil",
-        "url": "https://open.spotify.com/album/2lyRkU6hBSaV6TciIe7kP4"
+        "name": "Pancho and Lefty",
+        "url": "https://open.spotify.com/album/6Pv3AMeGAbaucnS8aeatwX"
       },
       "artists": [
         {
-          "name": "Josh Ward",
-          "url": "https://open.spotify.com/artist/0K3gUcawlzf0s7WE9umkgd"
+          "name": "Shane Smith & the Saints",
+          "url": "https://open.spotify.com/artist/4pLxUMyDrijXynrUP59whJ"
+        },
+        {
+          "name": "Hayes Carll",
+          "url": "https://open.spotify.com/artist/6UWifcscEdbjPgmbevBxZV"
         }
       ],
-      "duration_ms": 178848,
-      "name": "Dancin' With The Devil",
-      "url": "https://open.spotify.com/track/2NZnlBkPCFaWvtEkifGZIB"
+      "duration_ms": 309510,
+      "name": "Pancho and Lefty",
+      "url": "https://open.spotify.com/track/6j3GYmozEYsyunxO0RH2Wg"
     },
     {
       "added_at": "2023-10-13 04:00:00",

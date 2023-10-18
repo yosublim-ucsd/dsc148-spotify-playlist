@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2RxBh64BHjQ.md) - [plain]
 
 > The official voice of the next generation\. Cover: <a href="spotify:artist:3DbwFQlvLxRSi2uX8mf81A">Sexyy Red</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,784,858 likes - 100 songs - 4 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,785,045 likes - 100 songs - 4 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2RxBh64BHjQ.md) - [plain]
 | 99 | [Cowboy Killer](https://open.spotify.com/track/5SGWCqheDXPlYnv9aQs795) | [That Mexican OT](https://open.spotify.com/artist/3BAgmPNIK5IJl7zMK1wvMA) | [Lonestar Luchador](https://open.spotify.com/album/1tX0d5OqKOCkif6yja3TpK) | 2:22 |
 | 100 | [2021 Vibes](https://open.spotify.com/track/6TJaoJX8VhptZ0DkcsjWaR) | [LUCKI](https://open.spotify.com/artist/5tQMB0cuNXdCtzovGt55uD) | [s\*x m\*ney dr\*gs](https://open.spotify.com/album/6vKVBLTsQW5wXOzmOIkPVZ) | 2:04 |
 
-Snapshot ID: `MCw3ZDg0YWNlYTA2ZjM5MjQ3OGJlMmM5OTIzNWNkN2IwZWM3MmU2Yjhl`
+Snapshot ID: `MCw3ZjBlMDFmYmQwYTNhYmE0YTI4ZGNkODJmZTU0ODQyYjU4OTA4ZDQ2`

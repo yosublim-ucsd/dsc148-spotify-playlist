@@ -1,12 +1,12 @@
 {
   "description": "Laid back cratedigger hip-hop from around the world.",
-  "num_followers": 1183635,
+  "num_followers": 1184052,
   "original_name": "Jazz Rap",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhNTk5Yjk2NWMzMDE5MTBlYWE0MTljNzM1YWIwZTQ1MjUzYzExZDg2",
+  "snapshot_id": "MCxjMzczYWIwNjA4MjI5MTExNjNjNzc4MzA3MmJjYTEyNjkwZjNjNDkz",
   "tracks": [
     {
       "added_at": "2023-09-21 22:00:00",
@@ -243,6 +243,22 @@
     {
       "added_at": "2023-09-21 22:00:00",
       "album": {
+        "name": "Buhloone Mindstate",
+        "url": "https://open.spotify.com/album/4ajtfXfaqumfNlJDTVjhOd"
+      },
+      "artists": [
+        {
+          "name": "De La Soul",
+          "url": "https://open.spotify.com/artist/1Z8ODXyhEBi3WynYw0Rya6"
+        }
+      ],
+      "duration_ms": 255008,
+      "name": "Breakadawn",
+      "url": "https://open.spotify.com/track/2WyLyygONxNBVtXCRLMjFY"
+    },
+    {
+      "added_at": "2023-09-21 22:00:00",
+      "album": {
         "name": "Smoke Break-Dance (feat. JID)",
         "url": "https://open.spotify.com/album/28glrS4PZTYh2VfqX1mP6H"
       },
@@ -259,22 +275,6 @@
       "duration_ms": 167500,
       "name": "Smoke Break-Dance (feat. JID)",
       "url": "https://open.spotify.com/track/1Dm5maHjhhmcdqS5hK61Ut"
-    },
-    {
-      "added_at": "2023-09-21 22:00:00",
-      "album": {
-        "name": "Buhloone Mindstate",
-        "url": "https://open.spotify.com/album/4ajtfXfaqumfNlJDTVjhOd"
-      },
-      "artists": [
-        {
-          "name": "De La Soul",
-          "url": "https://open.spotify.com/artist/1Z8ODXyhEBi3WynYw0Rya6"
-        }
-      ],
-      "duration_ms": 255008,
-      "name": "Breakadawn",
-      "url": "https://open.spotify.com/track/2WyLyygONxNBVtXCRLMjFY"
     },
     {
       "added_at": "2023-09-21 22:00:00",
@@ -331,6 +331,26 @@
     {
       "added_at": "2023-09-21 22:00:00",
       "album": {
+        "name": "and the Anonymous Nobody...",
+        "url": "https://open.spotify.com/album/73USNxSgFncLAsOAWfIA4J"
+      },
+      "artists": [
+        {
+          "name": "De La Soul",
+          "url": "https://open.spotify.com/artist/1Z8ODXyhEBi3WynYw0Rya6"
+        },
+        {
+          "name": "Snoop Dogg",
+          "url": "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
+        }
+      ],
+      "duration_ms": 279754,
+      "name": "Pain",
+      "url": "https://open.spotify.com/track/6eLSYGoJhXsR6ZhQEtTC3o"
+    },
+    {
+      "added_at": "2023-09-21 22:00:00",
+      "album": {
         "name": "Nobody Cares Till Everybody Does",
         "url": "https://open.spotify.com/album/0TpMAy5WPGObUkL5LPuuMc"
       },
@@ -371,26 +391,6 @@
       "duration_ms": 194293,
       "name": "City Lights (feat. Pase Rock & Substantial)",
       "url": "https://open.spotify.com/track/0fbnqrpTlUdy0PUwMdU8Pl"
-    },
-    {
-      "added_at": "2023-09-21 22:00:00",
-      "album": {
-        "name": "and the Anonymous Nobody...",
-        "url": "https://open.spotify.com/album/73USNxSgFncLAsOAWfIA4J"
-      },
-      "artists": [
-        {
-          "name": "De La Soul",
-          "url": "https://open.spotify.com/artist/1Z8ODXyhEBi3WynYw0Rya6"
-        },
-        {
-          "name": "Snoop Dogg",
-          "url": "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
-        }
-      ],
-      "duration_ms": 279754,
-      "name": "Pain",
-      "url": "https://open.spotify.com/track/6eLSYGoJhXsR6ZhQEtTC3o"
     },
     {
       "added_at": "2023-09-21 22:00:00",
@@ -539,30 +539,6 @@
     {
       "added_at": "2023-09-21 22:00:00",
       "album": {
-        "name": "Metaphorical Music",
-        "url": "https://open.spotify.com/album/5FrjDW96mCYw9ECc74c637"
-      },
-      "artists": [
-        {
-          "name": "Nujabes",
-          "url": "https://open.spotify.com/artist/3Rq3YOF9YG9YfCWD4D56RZ"
-        },
-        {
-          "name": "Substantial",
-          "url": "https://open.spotify.com/artist/5FmThJ74ycmeBdQnu4Cfcw"
-        },
-        {
-          "name": "Pase Rock",
-          "url": "https://open.spotify.com/artist/7DziQHfQYLS6Iv018KLOVo"
-        }
-      ],
-      "duration_ms": 203706,
-      "name": "Blessing It -remix (feat. Substantial & Pase Rock from Five Deez)",
-      "url": "https://open.spotify.com/track/4MbUcaX58NkUmKXe6FuBaV"
-    },
-    {
-      "added_at": "2023-09-21 22:00:00",
-      "album": {
         "name": "Do You Want More?!!!??!",
         "url": "https://open.spotify.com/album/3N0wHnD5Rd8jnTUvNqOXGz"
       },
@@ -591,6 +567,30 @@
       "duration_ms": 271373,
       "name": "Pacifics - From The Original Motion Picture Soundtrack \u201cN.Y. Is Red Hot\"",
       "url": "https://open.spotify.com/track/5esVkhazOeanQVdlJUkNpY"
+    },
+    {
+      "added_at": "2023-09-21 22:00:00",
+      "album": {
+        "name": "Metaphorical Music",
+        "url": "https://open.spotify.com/album/5FrjDW96mCYw9ECc74c637"
+      },
+      "artists": [
+        {
+          "name": "Nujabes",
+          "url": "https://open.spotify.com/artist/3Rq3YOF9YG9YfCWD4D56RZ"
+        },
+        {
+          "name": "Substantial",
+          "url": "https://open.spotify.com/artist/5FmThJ74ycmeBdQnu4Cfcw"
+        },
+        {
+          "name": "Pase Rock",
+          "url": "https://open.spotify.com/artist/7DziQHfQYLS6Iv018KLOVo"
+        }
+      ],
+      "duration_ms": 203706,
+      "name": "Blessing It -remix (feat. Substantial & Pase Rock from Five Deez)",
+      "url": "https://open.spotify.com/track/4MbUcaX58NkUmKXe6FuBaV"
     },
     {
       "added_at": "2023-09-21 22:00:00",
@@ -979,26 +979,22 @@
     {
       "added_at": "2023-09-21 22:00:00",
       "album": {
-        "name": "Jagged Tooth Crook",
-        "url": "https://open.spotify.com/album/192hNpxnuWIEaWZiIJmkNV"
+        "name": "Phoenix",
+        "url": "https://open.spotify.com/album/3Vjb7MVaReVbjw4yXbMp5j"
       },
       "artists": [
         {
-          "name": "The Mouse Outfit",
-          "url": "https://open.spotify.com/artist/3fZgTHf9UHEA1oLYLEhnk2"
+          "name": "Lord Apex",
+          "url": "https://open.spotify.com/artist/052uglZ4PgpVs8YxEOViXz"
         },
         {
-          "name": "IAMDDB",
-          "url": "https://open.spotify.com/artist/7za6M9P94wuMsOVCHopTsI"
-        },
-        {
-          "name": "KinKai",
-          "url": "https://open.spotify.com/artist/2v3z0sSTauju6TA1GMqiQj"
+          "name": "Freddie Gibbs",
+          "url": "https://open.spotify.com/artist/0Y4inQK6OespitzD6ijMwb"
         }
       ],
-      "duration_ms": 224374,
-      "name": "Feeling High",
-      "url": "https://open.spotify.com/track/1aBettOr79Ze27sceoL6U9"
+      "duration_ms": 213940,
+      "name": "Phoenix",
+      "url": "https://open.spotify.com/track/4SDtLLn8LmbOStJeL9Vhkk"
     },
     {
       "added_at": "2023-09-21 22:00:00",
@@ -1023,6 +1019,30 @@
       "duration_ms": 256613,
       "name": "Egyptian Luvr",
       "url": "https://open.spotify.com/track/48Co4cbgmgcAGch0mZoJuJ"
+    },
+    {
+      "added_at": "2023-09-21 22:00:00",
+      "album": {
+        "name": "Jagged Tooth Crook",
+        "url": "https://open.spotify.com/album/192hNpxnuWIEaWZiIJmkNV"
+      },
+      "artists": [
+        {
+          "name": "The Mouse Outfit",
+          "url": "https://open.spotify.com/artist/3fZgTHf9UHEA1oLYLEhnk2"
+        },
+        {
+          "name": "IAMDDB",
+          "url": "https://open.spotify.com/artist/7za6M9P94wuMsOVCHopTsI"
+        },
+        {
+          "name": "KinKai",
+          "url": "https://open.spotify.com/artist/2v3z0sSTauju6TA1GMqiQj"
+        }
+      ],
+      "duration_ms": 224374,
+      "name": "Feeling High",
+      "url": "https://open.spotify.com/track/1aBettOr79Ze27sceoL6U9"
     },
     {
       "added_at": "2023-09-21 22:00:00",
@@ -1071,26 +1091,6 @@
       "duration_ms": 179463,
       "name": "The Feeling",
       "url": "https://open.spotify.com/track/2GUVzvrOhwAwTsDrZcyPQU"
-    },
-    {
-      "added_at": "2023-09-21 22:00:00",
-      "album": {
-        "name": "Phoenix",
-        "url": "https://open.spotify.com/album/3Vjb7MVaReVbjw4yXbMp5j"
-      },
-      "artists": [
-        {
-          "name": "Lord Apex",
-          "url": "https://open.spotify.com/artist/052uglZ4PgpVs8YxEOViXz"
-        },
-        {
-          "name": "Freddie Gibbs",
-          "url": "https://open.spotify.com/artist/0Y4inQK6OespitzD6ijMwb"
-        }
-      ],
-      "duration_ms": 213940,
-      "name": "Phoenix",
-      "url": "https://open.spotify.com/track/4SDtLLn8LmbOStJeL9Vhkk"
     },
     {
       "added_at": "2023-09-21 22:00:00",
@@ -1471,6 +1471,22 @@
     {
       "added_at": "2023-09-21 22:00:00",
       "album": {
+        "name": "LONERWRLD, vol 1",
+        "url": "https://open.spotify.com/album/64dj5UzR5GQHQFy3ZjL1ah"
+      },
+      "artists": [
+        {
+          "name": "jev.",
+          "url": "https://open.spotify.com/artist/6OmxkansdRyVTvo6BpZzKF"
+        }
+      ],
+      "duration_ms": 130742,
+      "name": "Fly god manners",
+      "url": "https://open.spotify.com/track/0hLYU06I6ppGIhqiJ4uZom"
+    },
+    {
+      "added_at": "2023-09-21 22:00:00",
+      "album": {
         "name": "Head Highs",
         "url": "https://open.spotify.com/album/6r1uf6dIkqkQvqFb24zZwS"
       },
@@ -1487,22 +1503,6 @@
       "duration_ms": 155346,
       "name": "Head Highs",
       "url": "https://open.spotify.com/track/3oib1sfr5xfi3Hklnyspq8"
-    },
-    {
-      "added_at": "2023-09-21 22:00:00",
-      "album": {
-        "name": "LONERWRLD, vol 1",
-        "url": "https://open.spotify.com/album/64dj5UzR5GQHQFy3ZjL1ah"
-      },
-      "artists": [
-        {
-          "name": "jev.",
-          "url": "https://open.spotify.com/artist/6OmxkansdRyVTvo6BpZzKF"
-        }
-      ],
-      "duration_ms": 130742,
-      "name": "Fly god manners",
-      "url": "https://open.spotify.com/track/0hLYU06I6ppGIhqiJ4uZom"
     },
     {
       "added_at": "2023-09-21 22:00:00",
@@ -1675,6 +1675,22 @@
     {
       "added_at": "2023-09-21 22:00:00",
       "album": {
+        "name": "Call You?",
+        "url": "https://open.spotify.com/album/1lvz5NIWxdePTu1h8vhLxC"
+      },
+      "artists": [
+        {
+          "name": "ArmstrongWW",
+          "url": "https://open.spotify.com/artist/6mlFpVUy70axjkS4iOZlPn"
+        }
+      ],
+      "duration_ms": 205865,
+      "name": "Call You?",
+      "url": "https://open.spotify.com/track/6FyDzOGcMClZZylQ44JQWl"
+    },
+    {
+      "added_at": "2023-09-21 22:00:00",
+      "album": {
         "name": "It's Nice Outside",
         "url": "https://open.spotify.com/album/74Ovprbg1YGQ9fzhQT089g"
       },
@@ -1691,22 +1707,6 @@
       "duration_ms": 135529,
       "name": "It's Nice Outside",
       "url": "https://open.spotify.com/track/41H7ayURsGvzBWj77ZddWt"
-    },
-    {
-      "added_at": "2023-09-21 22:00:00",
-      "album": {
-        "name": "Call You?",
-        "url": "https://open.spotify.com/album/1lvz5NIWxdePTu1h8vhLxC"
-      },
-      "artists": [
-        {
-          "name": "ArmstrongWW",
-          "url": "https://open.spotify.com/artist/6mlFpVUy70axjkS4iOZlPn"
-        }
-      ],
-      "duration_ms": 205865,
-      "name": "Call You?",
-      "url": "https://open.spotify.com/track/6FyDzOGcMClZZylQ44JQWl"
     },
     {
       "added_at": "2023-09-21 22:00:00",

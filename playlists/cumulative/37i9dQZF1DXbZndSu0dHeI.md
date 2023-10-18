@@ -4,7 +4,7 @@
 
 > Sometimes it's nice to be nice, you know.
 
-395 songs - 23 hr 54 min
+396 songs - 23 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -52,6 +52,7 @@
 | [Blouse](https://open.spotify.com/track/34q8siON3Dxf5HFVt3pynf) | [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [Blouse](https://open.spotify.com/album/1t9GLJU4I8KOrXM86qGJCo) | 3:15 | 2021-11-12 |  |
 | [Blue](https://open.spotify.com/track/5XOmmOQZFpzeHnWcsFAEiX) | [NewDad](https://open.spotify.com/artist/1yz8XixOiIJJ9IxjbnfYV6) | [Blue](https://open.spotify.com/album/6yO5bLMCpNJAlIjkL59KE6) | 3:18 | 2023-01-26 | 2023-01-27 |
 | [Booster Seat](https://open.spotify.com/track/72RC6Kw32QfJi6RzlDKNxs) | [Spacey Jane](https://open.spotify.com/artist/6V70yeZQCoSR2M3fyW8qiA) | [Sunlight](https://open.spotify.com/album/3zZi1vy6CnNZX7lbcRJtXo) | 4:28 | 2023-01-26 | 2023-01-27 |
+| [Broadview](https://open.spotify.com/track/1hTbH1tGOQ2sqVav7iDHfQ) | [Slow Pulp](https://open.spotify.com/artist/2JFTRDi5v7JtqoouVe1z5D) | [Yard](https://open.spotify.com/album/1KHEiLyeBq82jCqzllcXu9) | 4:05 | 2023-09-29 |  |
 | [Broadview](https://open.spotify.com/track/4cT18W9YXAJEVfc7sNJvRe) | [Slow Pulp](https://open.spotify.com/artist/2JFTRDi5v7JtqoouVe1z5D) | [Broadview](https://open.spotify.com/album/0eHcS12QA8Xm0V87yqvrOK) | 4:05 | 2023-09-29 | 2023-10-08 |
 | [Cadillac](https://open.spotify.com/track/16vuy4pwheYCxp2Pyv3YRy) | [Sophie May](https://open.spotify.com/artist/20je656lhatFVl4EoaNupn) | [You Do Not Have To Be Good](https://open.spotify.com/album/4eikHhG2WppVJiTkTuTtzN) | 2:51 | 2022-08-05 | 2022-11-29 |
 | [california dreamin](https://open.spotify.com/track/4mZvaHRlXLgGIIO9fh7yZ1) | [Me Not You](https://open.spotify.com/artist/0vqILHF92UEDMJ5vjViLID) | [california dreamin](https://open.spotify.com/album/1onl7ZfaMgW9n5uQGFq9Km) | 3:39 | 2022-03-19 | 2022-04-25 |
@@ -242,7 +243,7 @@
 | [Never Get To Heaven](https://open.spotify.com/track/5kkhWGz5KROF6sLWiaX8jg) | [Flyte](https://open.spotify.com/artist/3ZKyADicHqelBDeADLutiu) | [Never Get To Heaven](https://open.spotify.com/album/4JWTqF24ayVaJFXnDZC3U5) | 2:38 | 2021-11-12 | 2022-07-29 |
 | [Never Going Home](https://open.spotify.com/track/1ACoIKisvdebLOKPNuZCuS) | [Hazel English](https://open.spotify.com/artist/1nEGjL7aMVdNQzsfQPKdGr) | [Just Give In / Never Going Home](https://open.spotify.com/album/4IRuILZcd12uRAgVvXRPxT) | 3:55 | 2021-11-12 | 2022-07-23 |
 | [Nights to Forget](https://open.spotify.com/track/6Z05hHg9RgzYpxotv3rwSE) | [Martha Ffion](https://open.spotify.com/artist/5Hfe2K074kukMOuccDN5Lc) | [Nights To Forget](https://open.spotify.com/album/7d7o9pC00r4gbHivcpPJ0j) | 3:56 | 2022-03-19 | 2022-04-15 |
-| [No Caffeine](https://open.spotify.com/track/4if3aJ01ZXMajhwZctU06a) | [Marika Hackman](https://open.spotify.com/artist/5DGJC3n9DS0Y9eY5ul9y0O) | [No Caffeine](https://open.spotify.com/album/37fWX21foAwqgvhdFvm3KX) | 3:11 | 2023-09-29 |  |
+| [No Caffeine](https://open.spotify.com/track/4if3aJ01ZXMajhwZctU06a) | [Marika Hackman](https://open.spotify.com/artist/5DGJC3n9DS0Y9eY5ul9y0O) | [No Caffeine](https://open.spotify.com/album/37fWX21foAwqgvhdFvm3KX) | 3:11 | 2023-09-29 | 2023-10-18 |
 | [No Long Grass](https://open.spotify.com/track/78IzjV6We03PL9q6L1El3r) | [Blackaby](https://open.spotify.com/artist/1Wo9pV7JNPzVzDbVbPJQwE) | [No Long Grass](https://open.spotify.com/album/3aMbKGq1gY7ko5DBcpgiWk) | 3:04 | 2022-03-19 | 2022-04-16 |
 | [No Reason](https://open.spotify.com/track/0V6whmxgRbeeJpijQXUbDN) | [Big Thief](https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ) | [No Reason / Spud Infinity](https://open.spotify.com/album/13lNwYutq39VEtYK5nJ617) | 3:47 | 2022-02-04 | 2022-07-29 |
 | [No Reason](https://open.spotify.com/track/2mdaMDbjFxmxQPO90PxT5w) | [Big Thief](https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ) | [Dragon New Warm Mountain I Believe In You](https://open.spotify.com/album/7Ln81p86r5cCsesd3KBWIY) | 3:47 | 2022-06-22 | 2023-05-19 |

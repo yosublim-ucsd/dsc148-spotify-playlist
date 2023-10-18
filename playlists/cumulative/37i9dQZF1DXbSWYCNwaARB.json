@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2020-10-13",
-  "description": "All your girl crushes(\uac78\ud06c\ub7ec\uc26c) in one place. Cover: Lee Hyori (\uc774\ud6a8\ub9ac)",
+  "description": "All your girl crushes(\uac78\ud06c\ub7ec\uc26c) in one place. Cover: SUNMI (\uc120\ubbf8)",
   "name": "Girl Krush",
   "tracks": [
     {
@@ -508,6 +508,24 @@
       "duration_ms": 154988,
       "name": "BAD SAD AND MAD",
       "url": "https://open.spotify.com/track/0zPbUxvYRlCGwruakkXPLI"
+    },
+    {
+      "album": {
+        "name": "I'VE MINE",
+        "url": "https://open.spotify.com/album/5J7VAdKdGZGme6wymgopbp"
+      },
+      "artists": [
+        {
+          "name": "IVE",
+          "url": "https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ"
+        }
+      ],
+      "date_added": "2023-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154360,
+      "name": "Baddie",
+      "url": "https://open.spotify.com/track/7uyeEbG6hyApgXuEypGcsZ"
     },
     {
       "album": {
@@ -2748,7 +2766,7 @@
       ],
       "date_added": "2023-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-18",
       "duration_ms": 189973,
       "name": "HOODIE E BANBAJI",
       "url": "https://open.spotify.com/track/3VNlscYTSeZqbREFoOe3KE"
@@ -2878,7 +2896,7 @@
       ],
       "date_added": "2020-11-09",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-13",
+      "date_removed": null,
       "duration_ms": 205493,
       "name": "I CAN'T STOP ME",
       "url": "https://open.spotify.com/track/37ZtpRBkHcaq6hHy0X98zn"
@@ -3120,7 +3138,7 @@
       ],
       "date_added": "2023-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-18",
       "duration_ms": 168800,
       "name": "In The Mood",
       "url": "https://open.spotify.com/track/1f7WTvoghCDULXgxMrwXAY"
@@ -5823,6 +5841,24 @@
     },
     {
       "album": {
+        "name": "STRANGER",
+        "url": "https://open.spotify.com/album/5QUzffclUFjjFFZ1HmaB6X"
+      },
+      "artists": [
+        {
+          "name": "SUNMI",
+          "url": "https://open.spotify.com/artist/6MoXcK2GyGg7FIyxPU5yW6"
+        }
+      ],
+      "date_added": "2023-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166560,
+      "name": "STRANGER",
+      "url": "https://open.spotify.com/track/3SifPlW12FRs8OQP2VkXSi"
+    },
+    {
+      "album": {
         "name": "NewJeans 2nd EP 'Get Up'",
         "url": "https://open.spotify.com/album/4N1fROq2oeyLGAlQ1C1j18"
       },
@@ -5834,7 +5870,7 @@
       ],
       "date_added": "2023-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-18",
       "duration_ms": 154666,
       "name": "Super Shy",
       "url": "https://open.spotify.com/track/0kwrPQkiGVE8KTHalH1uMo"
@@ -6480,7 +6516,7 @@
       ],
       "date_added": "2022-07-25",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-13",
+      "date_removed": null,
       "duration_ms": 191242,
       "name": "WANNABE",
       "url": "https://open.spotify.com/track/4pspYVQGFHLPEFgQPD1J7e"

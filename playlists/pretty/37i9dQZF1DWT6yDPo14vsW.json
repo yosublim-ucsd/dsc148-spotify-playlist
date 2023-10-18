@@ -1,12 +1,12 @@
 {
   "description": "\u00bfQu\u00e9 es lo que est\u00e1 pasando? \u00bfAmor o Desamor?",
-  "num_followers": 312720,
+  "num_followers": 312849,
   "original_name": "Amor y Desamor",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmY2ZmZWE4YTYzZjdkNjViNjM0ZTkxMDUyOTY3YmE0MGRkOWMzNmY2",
+  "snapshot_id": "MCxhMjI5ZmQ2YzQ4MjVmNzlmMzBkM2JkMWQzOThjZjA0NWZiNTQzZjE5",
   "tracks": [
     {
       "added_at": "2023-10-13 03:00:00",
@@ -539,22 +539,6 @@
     {
       "added_at": "2023-10-13 03:00:00",
       "album": {
-        "name": "Coraz\u00f3n Profundo (Versi\u00f3n Deluxe)",
-        "url": "https://open.spotify.com/album/5aYaYsDnVXSvVTP7KTHmSl"
-      },
-      "artists": [
-        {
-          "name": "Carlos Vives",
-          "url": "https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr"
-        }
-      ],
-      "duration_ms": 222213,
-      "name": "Volv\u00ed a Nacer",
-      "url": "https://open.spotify.com/track/6Al0Kpd4VrRZ0Z4kTThNPa"
-    },
-    {
-      "added_at": "2023-10-13 03:00:00",
-      "album": {
         "name": "Pecado Original",
         "url": "https://open.spotify.com/album/5JRGlJtz53p6P1qlfrcPxe"
       },
@@ -567,6 +551,22 @@
       "duration_ms": 201040,
       "name": "\u00a1Ay Amor!",
       "url": "https://open.spotify.com/track/0fC6Szw2CX8XZYsydOLmVC"
+    },
+    {
+      "added_at": "2023-10-13 03:00:00",
+      "album": {
+        "name": "Coraz\u00f3n Profundo (Versi\u00f3n Deluxe)",
+        "url": "https://open.spotify.com/album/5aYaYsDnVXSvVTP7KTHmSl"
+      },
+      "artists": [
+        {
+          "name": "Carlos Vives",
+          "url": "https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr"
+        }
+      ],
+      "duration_ms": 222213,
+      "name": "Volv\u00ed a Nacer",
+      "url": "https://open.spotify.com/track/6Al0Kpd4VrRZ0Z4kTThNPa"
     },
     {
       "added_at": "2023-10-13 03:00:00",
@@ -787,22 +787,6 @@
     {
       "added_at": "2023-10-13 03:00:00",
       "album": {
-        "name": "Todo Historias",
-        "url": "https://open.spotify.com/album/6nWZLgTAuIgulKZcJxgsg4"
-      },
-      "artists": [
-        {
-          "name": "Eros Ramazzotti",
-          "url": "https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX"
-        }
-      ],
-      "duration_ms": 288986,
-      "name": "Cosas De La Vida",
-      "url": "https://open.spotify.com/track/0z3Voyxi0FH0SQBc7c4wri"
-    },
-    {
-      "added_at": "2023-10-13 03:00:00",
-      "album": {
         "name": "Dejarte De Amar",
         "url": "https://open.spotify.com/album/0MPMiyavAbARflBlNGjIA6"
       },
@@ -815,6 +799,22 @@
       "duration_ms": 252293,
       "name": "B\u00e9same",
       "url": "https://open.spotify.com/track/4LjyEL2sAQU7QZPC6GuTf6"
+    },
+    {
+      "added_at": "2023-10-13 03:00:00",
+      "album": {
+        "name": "Todo Historias",
+        "url": "https://open.spotify.com/album/6nWZLgTAuIgulKZcJxgsg4"
+      },
+      "artists": [
+        {
+          "name": "Eros Ramazzotti",
+          "url": "https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX"
+        }
+      ],
+      "duration_ms": 288986,
+      "name": "Cosas De La Vida",
+      "url": "https://open.spotify.com/track/0z3Voyxi0FH0SQBc7c4wri"
     },
     {
       "added_at": "2023-10-13 03:00:00",
@@ -1095,6 +1095,26 @@
       "duration_ms": 364959,
       "name": "La Complicidad",
       "url": "https://open.spotify.com/track/0yAc7tMrxA3KwdVpVDe402"
+    },
+    {
+      "added_at": "2023-10-13 03:00:00",
+      "album": {
+        "name": "A Ver Amor (Remix)",
+        "url": "https://open.spotify.com/album/0uSdEQyGlwSTl9ueKm5rLX"
+      },
+      "artists": [
+        {
+          "name": "Adriel Yanel",
+          "url": "https://open.spotify.com/artist/0bGxh7uCSE5iAmtcPQZk9y"
+        },
+        {
+          "name": "Mart\u00edn Daniel Di Lacio",
+          "url": "https://open.spotify.com/artist/02Jt9Wovlq0deCsEt9GU9p"
+        }
+      ],
+      "duration_ms": 189576,
+      "name": "A Ver Amor (Remix)",
+      "url": "https://open.spotify.com/track/3Oabf0e2q7LwW9KILJ3AQx"
     },
     {
       "added_at": "2023-10-13 03:00:00",

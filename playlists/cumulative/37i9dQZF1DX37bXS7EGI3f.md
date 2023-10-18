@@ -4,7 +4,7 @@
 
 > Epic and melodic metal\. Cover: Within Temptation
 
-548 songs - 1 day 18 hr 5 min
+549 songs - 1 day 18 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -75,7 +75,7 @@
 | [Burial](https://open.spotify.com/track/39OK2v0ZYohVbvqg4X4uDE) | [God Is An Astronaut](https://open.spotify.com/artist/079svMEXkbT5nGU2kfoqO2) | [Ghost Tapes \#10](https://open.spotify.com/album/19Jy4bfbeWkmKAy7qA97oR) | 6:04 | 2022-07-13 | 2022-07-30 |
 | [Call My Name](https://open.spotify.com/track/0dHrBbmoftbULEKvNawKSe) | [Beyond The Black](https://open.spotify.com/artist/6swnqiL41Bd4gO2fnAXXrf) | [Call My Name](https://open.spotify.com/album/4OSwoYZStFewvoB9RYM3XO) | 4:21 | 2023-07-28 |  |
 | [Call My Name](https://open.spotify.com/track/3FkMke69v3NF3oufwhMygY) | [Sleeping Romance](https://open.spotify.com/artist/0ppFjJOvd6dhcpKktp6heM) | [Call My Name](https://open.spotify.com/album/69FOJK2zUuEdfdpLc3D7pl) | 4:27 | 2022-07-08 | 2023-04-16 |
-| [Call of the North](https://open.spotify.com/track/4BS6jSRHgqNjL1eSlokBBd) | [Frozen Crown](https://open.spotify.com/artist/6hbGneO1qRnmz6xflK4n8E) | [Call of the North](https://open.spotify.com/album/4w7w5ZXaUSAqY6qot06f5t) | 6:24 | 2022-12-16 |  |
+| [Call of the North](https://open.spotify.com/track/4BS6jSRHgqNjL1eSlokBBd) | [Frozen Crown](https://open.spotify.com/artist/6hbGneO1qRnmz6xflK4n8E) | [Call of the North](https://open.spotify.com/album/4w7w5ZXaUSAqY6qot06f5t) | 6:24 | 2022-12-16 | 2023-10-18 |
 | [Call out the Dark](https://open.spotify.com/track/5IqvKkwIqeqc2s8DF0avei) | [Evergrey](https://open.spotify.com/artist/4S0foX2r0RlC12KBW8u73D) | [A Heartless Portrait \(The Orphéan Testament\)](https://open.spotify.com/album/7ks1taIwddDv4bjFrujxn2) | 4:23 | 2022-05-20 |  |
 | [Catalyst 2.0 \- Instrumental](https://open.spotify.com/track/4jXpPRxmokNuSFS5u3GWrM) | [IAMONE](https://open.spotify.com/artist/3fhSDZ3YSUfbYQGTzlolkx) | [Catalyst 2.0 \(Instrumental\)](https://open.spotify.com/album/2gKCHN1nWT0o6E26bqaZB0) | 5:24 | 2022-07-13 | 2022-07-28 |
 | [Celestial](https://open.spotify.com/track/6JmLarU3CA1ewRprzgqBdT) | [Andromida](https://open.spotify.com/artist/4MRGrA70WS54oeDLbIWrTr) | [Celestial](https://open.spotify.com/album/1pv35RTBxb3cAN3Bs3C6Q0) | 4:17 | 2022-07-13 | 2022-07-30 |
@@ -172,6 +172,7 @@
 | [Farewell](https://open.spotify.com/track/3aiqdK6P4HrbMuKEm81wm4) | [Thaehan](https://open.spotify.com/artist/2n0sjgdrfHYJT6B39cdvWW) | [Alaiho](https://open.spotify.com/album/2FyeVxOQLQyZeHbm7cRjQq) | 3:00 | 2021-04-10 | 2021-12-11 |
 | [Fate of Man](https://open.spotify.com/track/6qWw5KhqblmmqA7APdpqmk) | [Arjen Anthony Lucassen's Star One](https://open.spotify.com/artist/1W5pfX7IGyw9wCmfARg1pi) | [Fate of Man](https://open.spotify.com/album/4lvGV04Suxogp8e6tryPQf) | 5:29 | 2021-11-20 | 2022-06-18 |
 | [Fear of the Fallen](https://open.spotify.com/track/6sKD7OL6nPhkY8VcQuYdai) | [Helloween](https://open.spotify.com/artist/4pQN0GB0fNEEOfQCaWotsY) | [Fear of the Fallen](https://open.spotify.com/album/4FOtnQvfbsMo5kEaXQ59Kg) | 5:38 | 2021-05-21 | 2021-06-19 |
+| [Fears Don't Matter](https://open.spotify.com/track/6gWMxaJw6PBE1Bw1lud6zm) | [Blame Me!](https://open.spotify.com/artist/5VPpA30LO6fGV6ZYycAn9T) | [Fears Don't Matter](https://open.spotify.com/album/0vWuMEMFKAPlkyO27hAV9n) | 3:44 | 2023-05-19 |  |
 | [Fears Don't Matter](https://open.spotify.com/track/7KnvDg0LKjSfWdWE3fOkfL) | [Blame Me!](https://open.spotify.com/artist/5VPpA30LO6fGV6ZYycAn9T) | [Fears Don't Matter](https://open.spotify.com/album/552oU2gbQGqZmmleLFLOeQ) | 3:44 | 2022-01-21 | 2023-07-16 |
 | [Feed the Fire](https://open.spotify.com/track/6k6HxyqO3OgyVcydZZXmfI) | [Crimson Sun](https://open.spotify.com/artist/6swg1JhIcRgZCqAHi3MDp9) | [Feed the Fire](https://open.spotify.com/album/0Xu2uCpy0kL15O5iC3t7iP) | 3:19 | 2022-04-29 |  |
 | [Fellows of the Hammer](https://open.spotify.com/track/2RyG06POk4ybd4B0CZC02k) | [Wind Rose](https://open.spotify.com/artist/67ps5pbKVO7V9Fcb4lTIXz) | [Warfront](https://open.spotify.com/album/5Jf1NavkE0nEpzo2rnjMrL) | 6:15 | 2022-07-08 |  |

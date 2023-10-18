@@ -795,6 +795,24 @@
     },
     {
       "album": {
+        "name": "Birth4000",
+        "url": "https://open.spotify.com/album/5jWraquGLoS4pFefyUytmx"
+      },
+      "artists": [
+        {
+          "name": "Floating Points",
+          "url": "https://open.spotify.com/artist/2AR42Ur9PcchQDtEdwkv4L"
+        }
+      ],
+      "date_added": "2023-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 286274,
+      "name": "Birth4000",
+      "url": "https://open.spotify.com/track/0ULiCJAR2lmaHrXvs3exRm"
+    },
+    {
+      "album": {
         "name": "Blackbox Life Recorder 21f",
         "url": "https://open.spotify.com/album/3LIBbRYQgXY8ARKlSl6TJX"
       },
@@ -2405,6 +2423,24 @@
     },
     {
       "album": {
+        "name": "Rascal",
+        "url": "https://open.spotify.com/album/0vVjA9jq1NQF76dtyy7S6y"
+      },
+      "artists": [
+        {
+          "name": "Mall Grab",
+          "url": "https://open.spotify.com/artist/7yF6JnFPDzgml2Ytkyl5D7"
+        }
+      ],
+      "date_added": "2023-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 332571,
+      "name": "Everything",
+      "url": "https://open.spotify.com/track/06AbpLxu17SbYQ6R3ZFAoL"
+    },
+    {
+      "album": {
         "name": "Everything",
         "url": "https://open.spotify.com/album/0L1fZgjQTboP65QTburanO"
       },
@@ -2416,7 +2452,7 @@
       ],
       "date_added": "2023-08-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-18",
       "duration_ms": 332571,
       "name": "Everything",
       "url": "https://open.spotify.com/track/5qK203gDYDkCqRf80DE3f6"
@@ -6568,6 +6604,10 @@
         {
           "name": "Mura Masa",
           "url": "https://open.spotify.com/artist/5Q81rlcTFh3k6DQJXPdsot"
+        },
+        {
+          "name": "NADIAH",
+          "url": "https://open.spotify.com/artist/1xMTtv502Ls5oN1xMEJele"
         }
       ],
       "date_added": "2023-10-12",
@@ -7719,7 +7759,7 @@
       "date_added": "2023-10-12",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 182013,
+      "duration_ms": 181545,
       "name": "ten",
       "url": "https://open.spotify.com/track/5QOBT97OmYCZo1W5u7tRrB"
     },

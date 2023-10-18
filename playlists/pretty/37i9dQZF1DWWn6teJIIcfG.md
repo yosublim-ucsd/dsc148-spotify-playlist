@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWn6teJIIcfG.md) - [plain]
 
 > Get your creative juices flowing with these instrumental masterpieces.
 
-[Spotify](https://open.spotify.com/user/spotify) - 180,664 likes - 60 songs - 2 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 180,728 likes - 60 songs - 2 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWn6teJIIcfG.md) - [plain]
 | 59 | [Walton: Henry V: Touch Her Soft Lips and Part](https://open.spotify.com/track/1XdFVaI2UjsZ46bBpIeG6e) | [William Walton](https://open.spotify.com/artist/6RsX7qYw5KVKiOjS8BxjL5), [Academy of St\. Martin in the Fields](https://open.spotify.com/artist/77CaCn32H4mOMQA7UElzfF), [Sir Neville Marriner](https://open.spotify.com/artist/6NUhQz7eAEsZvjEHTKHux9) | [The Lark Ascending collection](https://open.spotify.com/album/5kTtD1xA5yYPrwjEYWk5uy) | 1:46 |
 | 60 | [Saman](https://open.spotify.com/track/0ZZR7yshyNORje3HH1yxUX) | [Ólafur Arnalds](https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia), [Lavinia Meijer](https://open.spotify.com/artist/1QpDFI4PxPwdv2E3iS6pCp) | [Are You Still Somewhere?](https://open.spotify.com/album/36xU7Hq8G8QbsRrl59TyxD) | 2:26 |
 
-Snapshot ID: `MCw4NTcyMmI1ZmYwMWIwNWFlNzZiOTczNmMwYzUzOTU2YzgwYjBhMjlh`
+Snapshot ID: `MCw5MWE2Y2MyYzg1NDk0MDM2NzZjNjdiNzBhOTRhYzI1NTRmY2QwMjVl`

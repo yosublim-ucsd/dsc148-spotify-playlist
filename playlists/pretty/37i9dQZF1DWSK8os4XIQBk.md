@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSK8os4XIQBk.md) - [plain]
 
 > Nothing but the best in modern country music\. Cover: Dustin Lynch
 
-[Spotify](https://open.spotify.com/user/spotify) - 529,568 likes - 75 songs - 4 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 529,673 likes - 75 songs - 4 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSK8os4XIQBk.md) - [plain]
 | 74 | [Psychopath](https://open.spotify.com/track/1pxzWiOrRbpXQkk4n0HRs3) | [Morgan Wade](https://open.spotify.com/artist/4eYE8Z6cfEHEdG22lTyucP) | [Psychopath](https://open.spotify.com/album/03nIJUuv47IXsP1oooCxPe) | 3:28 |
 | 75 | [Yee To The Haw](https://open.spotify.com/track/0NhKoIFQ1JDKgKoUvYAZQF) | [Tim Hicks](https://open.spotify.com/artist/05kfnkzu8HdqnCdHHkJeci) | [Yee To The Haw](https://open.spotify.com/album/7m40cmB2CHChqaLtwHrW9Y) | 2:35 |
 
-Snapshot ID: `MCwxMTgxZDc2MTE0NzRjNjllMmJlMWIxYjIzMTVlMzAyNGEwZmJhMDI4`
+Snapshot ID: `MCwyNTRlNmRiOTUzNjM0OTQ1YmM4YmVhN2YxYjFkMDVlNTkzZGIxYzk4`

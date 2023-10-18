@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6RdbnCxVh4a.md) - [plain]
 
 > Mode lecture aléatoire obligatoire.
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,913 likes - 50 songs - 2 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,958 likes - 50 songs - 2 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6RdbnCxVh4a.md) - [plain]
 | 49 | [Kamikaze](https://open.spotify.com/track/0JpQfoBOdJ2ftUi7VGj6dx) | [Connie Constance](https://open.spotify.com/artist/4RB2kk5dmocmMiHFBlmOEt) | [Miss Power](https://open.spotify.com/album/37pi6A0dr6Puse1u2xHkdD) | 2:17 |
 | 50 | [Je suis Cendrillon](https://open.spotify.com/track/1BEWLPnXcv2ecWzx3mqCse) | [Zed Yun Pavarotti](https://open.spotify.com/artist/2TM7WyJwjfD5wKyX9OtIWJ) | [Encore](https://open.spotify.com/album/5g010EGj82UnGrOTxaHveU) | 2:49 |
 
-Snapshot ID: `MCw2Zjg2NDk0NzBiZTAzNTBlOThiYWJhYmQwMjRkOWNkOWMyZTkwZDRl`
+Snapshot ID: `MCxkYzU5YWRhNjZmNTA0NDcwYzI0NGE3OGU5ZjFjNGY5NWFkNDAwYTcz`

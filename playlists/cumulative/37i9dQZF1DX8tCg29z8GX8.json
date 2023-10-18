@@ -169,6 +169,32 @@
     },
     {
       "album": {
+        "name": "All In",
+        "url": "https://open.spotify.com/album/5tgwOWxriOGrApV0GEe32i"
+      },
+      "artists": [
+        {
+          "name": "GuiltyBeatz",
+          "url": "https://open.spotify.com/artist/5DCdWXQ0QHQYlok4KK97em"
+        },
+        {
+          "name": "LADIPOE",
+          "url": "https://open.spotify.com/artist/379IT6Szv0zgnw4xrdu4mu"
+        },
+        {
+          "name": "NESTA",
+          "url": "https://open.spotify.com/artist/0TWVX68OyQscge2TZzChPx"
+        }
+      ],
+      "date_added": "2023-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212307,
+      "name": "All In",
+      "url": "https://open.spotify.com/track/2VSX6yoH66zYjEbLieZMnl"
+    },
+    {
+      "album": {
         "name": "All On Me (Spotify Singles)",
         "url": "https://open.spotify.com/album/4SFKBjTmLEGFDle3ojroE7"
       },
@@ -1286,7 +1312,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-13",
+      "date_removed": null,
       "duration_ms": 148374,
       "name": "Celebrate",
       "url": "https://open.spotify.com/track/0UUczvIt4oAghLNuY8WSEA"
@@ -2056,7 +2082,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-18",
       "duration_ms": 185362,
       "name": "First Sermon",
       "url": "https://open.spotify.com/track/1eJ1pgxRJWi0LYPbS9CxS3"
@@ -2326,7 +2352,7 @@
       ],
       "date_added": "2023-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-18",
       "duration_ms": 171764,
       "name": "Gimme Love",
       "url": "https://open.spotify.com/track/7eKpBgv8NhnHQe3rRinuyr"
@@ -3136,7 +3162,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-18",
       "duration_ms": 148116,
       "name": "Kai Me",
       "url": "https://open.spotify.com/track/0rJa955M9QtlA6tNOSBDzy"
@@ -3886,6 +3912,32 @@
       "duration_ms": 198362,
       "name": "Mapuka",
       "url": "https://open.spotify.com/track/2OwWSctJ0S8Nd44gBzmQQC"
+    },
+    {
+      "album": {
+        "name": "Masesa",
+        "url": "https://open.spotify.com/album/3F2RjwQ9FAkP8gs6eGos0S"
+      },
+      "artists": [
+        {
+          "name": "Jay Bahd",
+          "url": "https://open.spotify.com/artist/0Q7yvULFrthrEzwtn5hRcw"
+        },
+        {
+          "name": "Skyface SDW",
+          "url": "https://open.spotify.com/artist/4R4KEZSjfEuuLyyqTiTVtG"
+        },
+        {
+          "name": "Kwaku DMC",
+          "url": "https://open.spotify.com/artist/4gP93834jVbocef9R42gQz"
+        }
+      ],
+      "date_added": "2023-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172000,
+      "name": "Masesa",
+      "url": "https://open.spotify.com/track/0h6KxX4VJVRUL2lQhCmMFE"
     },
     {
       "album": {
@@ -5836,7 +5888,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-16",
+      "date_removed": null,
       "duration_ms": 177373,
       "name": "Slow Down",
       "url": "https://open.spotify.com/track/06NG4AQXXeWnnODyUCC6ZU"
@@ -6924,7 +6976,7 @@
       ],
       "date_added": "2023-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-18",
       "duration_ms": 160407,
       "name": "Who Is Your Guy?",
       "url": "https://open.spotify.com/track/1kyYCsP2NRZEKkBg9wcF2c"

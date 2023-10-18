@@ -1,12 +1,12 @@
 {
   "description": "Chillout to the coolest Korean folk/acoustic tunes. (Cover: Lee Seol Ah(\uc774\uc124\uc544)) (\uac10\ubbf8\ub86d\uace0 \ubd80\ub4dc\ub7ec\uc6b4 \ud55c\uad6d \ud3ec\ud06c/\uc5b4\ucfe0\uc2a4\ud2f1 \uc74c\uc545\uacfc \ud568\uaed8\ud558\uc138\uc694.)",
-  "num_followers": 278960,
+  "num_followers": 279036,
   "original_name": "K-Folk/Acoustic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjZTc1ZGRhMTM1YTZmNjNmY2VhNDg1Mzc1NDQ5ZDFlNDg0ODU0ZmNl",
+  "snapshot_id": "MCw3NzkxYzc2YTM1ZmMyNmY1MzM3YjA3MmUyZDljY2UyNzA2NjkyMTAy",
   "tracks": [
     {
       "added_at": "2023-10-16 07:46:31",
@@ -243,6 +243,22 @@
     {
       "added_at": "2023-10-16 07:46:31",
       "album": {
+        "name": "20",
+        "url": "https://open.spotify.com/album/6bzkEKKOMT3I3jaIrUtEaO"
+      },
+      "artists": [
+        {
+          "name": "HYUKOH",
+          "url": "https://open.spotify.com/artist/57okaLdCtv3nVBSn5otJkp"
+        }
+      ],
+      "duration_ms": 194866,
+      "name": "Wi Ing Wi Ing",
+      "url": "https://open.spotify.com/track/66UcQu5LBo2A7AC0A5r0lI"
+    },
+    {
+      "added_at": "2023-10-16 07:46:31",
+      "album": {
         "name": "Modern Times \u2013 Epilogue",
         "url": "https://open.spotify.com/album/56MqewtCUq5bplrqEYTVL0"
       },
@@ -259,22 +275,6 @@
       "duration_ms": 217129,
       "name": "Friday (feat.Jang Yi-jeong)",
       "url": "https://open.spotify.com/track/0GsRx0gPft6RmijIwMsKmG"
-    },
-    {
-      "added_at": "2023-10-16 07:46:31",
-      "album": {
-        "name": "20",
-        "url": "https://open.spotify.com/album/6bzkEKKOMT3I3jaIrUtEaO"
-      },
-      "artists": [
-        {
-          "name": "HYUKOH",
-          "url": "https://open.spotify.com/artist/57okaLdCtv3nVBSn5otJkp"
-        }
-      ],
-      "duration_ms": 194866,
-      "name": "Wi Ing Wi Ing",
-      "url": "https://open.spotify.com/track/66UcQu5LBo2A7AC0A5r0lI"
     },
     {
       "added_at": "2023-10-16 07:46:31",
@@ -851,18 +851,18 @@
     {
       "added_at": "2023-10-16 07:46:31",
       "album": {
-        "name": "I AM SAM",
-        "url": "https://open.spotify.com/album/6iV30nbNl5Gmm2jG7Ej44D"
+        "name": "Destined with You (Original Television Soundtrack), Pt.2",
+        "url": "https://open.spotify.com/album/14gtejc7d8d85MVpb8mL2E"
       },
       "artists": [
         {
-          "name": "Sam Kim",
-          "url": "https://open.spotify.com/artist/4BBN286rBKyCWsSPq2cxYO"
+          "name": "\ud6c8\uc815\uc591",
+          "url": "https://open.spotify.com/artist/4dv6MuOGWS4Y6tt7IbTnfp"
         }
       ],
-      "duration_ms": 258961,
-      "name": "YOUR SONG (With Lee Jin Ah, Jung Seung Hwan, Kwon Jin Ah)",
-      "url": "https://open.spotify.com/track/610IckJdwTyY8nez5v64DH"
+      "duration_ms": 206253,
+      "name": "Can I Be Me",
+      "url": "https://open.spotify.com/track/6EUtGHQUEvqH1LzaitgSXw"
     },
     {
       "added_at": "2023-10-16 07:46:31",
@@ -887,18 +887,18 @@
     {
       "added_at": "2023-10-16 07:46:31",
       "album": {
-        "name": "Destined with You (Original Television Soundtrack), Pt.2",
-        "url": "https://open.spotify.com/album/14gtejc7d8d85MVpb8mL2E"
+        "name": "I AM SAM",
+        "url": "https://open.spotify.com/album/6iV30nbNl5Gmm2jG7Ej44D"
       },
       "artists": [
         {
-          "name": "\ud6c8\uc815\uc591",
-          "url": "https://open.spotify.com/artist/4dv6MuOGWS4Y6tt7IbTnfp"
+          "name": "Sam Kim",
+          "url": "https://open.spotify.com/artist/4BBN286rBKyCWsSPq2cxYO"
         }
       ],
-      "duration_ms": 206253,
-      "name": "Can I Be Me",
-      "url": "https://open.spotify.com/track/6EUtGHQUEvqH1LzaitgSXw"
+      "duration_ms": 258961,
+      "name": "YOUR SONG (With Lee Jin Ah, Jung Seung Hwan, Kwon Jin Ah)",
+      "url": "https://open.spotify.com/track/610IckJdwTyY8nez5v64DH"
     }
   ],
   "unique_name": "K-Folk/Acoustic",

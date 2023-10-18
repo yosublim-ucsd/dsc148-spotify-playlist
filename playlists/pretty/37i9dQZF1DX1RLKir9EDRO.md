@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1RLKir9EDRO.md) - [plain]
 
 ### [Fresh Finds Türkiye](https://open.spotify.com/playlist/37i9dQZF1DX1RLKir9EDRO)
 
-> Bağımsız yerli sahneden en taze keşifler\. Kapak: M Lisa
+> Bağımsız yerli sahneden en taze keşifler\. Kapak: Serenad Bayraktar
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,572 likes - 70 songs - 3 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 30,573 likes - 70 songs - 3 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,12 +12,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1RLKir9EDRO.md) - [plain]
 | 2 | [Bir Yaz Daha Bitti](https://open.spotify.com/track/2MdwHKxuaezmyn0JUcYQqv) | [Yangın](https://open.spotify.com/artist/69f7h8xhiJTOmZyCN6wtrD) | [Bir Yaz Daha Bitti](https://open.spotify.com/album/55QowivNGJxGY0TnkeEFHa) | 2:43 |
 | 3 | [Gülü Seven](https://open.spotify.com/track/5qcknII6vUK6F3yPjAnXf8) | [Yiğitcan](https://open.spotify.com/artist/35GN1nKO0s3BoJPzOIOas2) | [Gülü Seven](https://open.spotify.com/album/3SFPt321T2KcHbPppeALoM) | 3:01 |
 | 4 | [Başkası Olsam](https://open.spotify.com/track/3mRLnGgOGhH7D7AfS0BIB2) | [Lâl](https://open.spotify.com/artist/1Sb3hrERO6VTMsdQWoapBh), [Idil](https://open.spotify.com/artist/0zNz4hmI6mCNUdj4BngitI) | [Başkası Olsam](https://open.spotify.com/album/4dY9ZsdwfbiRGYu4JgqiEg) | 2:13 |
-| 5 | [Aşkım N'aptın Bana](https://open.spotify.com/track/4XHISzxmPzDZsCusShMWiQ) | [Ezgi Işık](https://open.spotify.com/artist/7tVZ6gxN0xi1pvekZzzkEG) | [Aşkım N’aptın Bana](https://open.spotify.com/album/7oC68GCuTdYttZaAdHPhor) | 3:23 |
-| 6 | [Gidelim](https://open.spotify.com/track/7h2gsdJZnjhboAsYnaYOpT) | [Seren Saraç](https://open.spotify.com/artist/4IXnbOSFQHiaauIudnoqYP) | [Gidelim](https://open.spotify.com/album/32et7pO7bPoOGx6ydr1QgJ) | 3:58 |
-| 7 | [Ah Bebeğim](https://open.spotify.com/track/3pOFjvC3NrodCMS7ozjZ7D) | [Cavlas](https://open.spotify.com/artist/0ZZtPjnzPZQ07whvWAIMo6) | [Ah Bebeğim](https://open.spotify.com/album/3pfr0vIporwrZ87fygkrxH) | 3:09 |
-| 8 | [Kalmalısın Yanımda](https://open.spotify.com/track/1zuSQlQFdiscIE7PMiDml4) | [Ömer Yener](https://open.spotify.com/artist/6Vm2xDADRuOlKgAWriAuf4) | [Kalmalısın Yanımda](https://open.spotify.com/album/6mvB5qP314ezpagc46Cajf) | 3:00 |
-| 9 | [Bu Ben Miyim](https://open.spotify.com/track/1kVXPFHPh1cov4CCu0EsWZ) | [Tunç Aydoğmuş, Co.](https://open.spotify.com/artist/4WSDsWARENCdh6lkJDwdYL) | [Bu Ben Miyim](https://open.spotify.com/album/6KU7szPmBu6n9N5Yb8i6Ce) | 3:25 |
-| 10 | [Gece Kal](https://open.spotify.com/track/7oQmMYl1XCeUcDxstnWBbw) | [Serenad Bayraktar](https://open.spotify.com/artist/3qWtoHeuQh2uzY7e7FQPzW) | [Gece Kal](https://open.spotify.com/album/6YOuhbpjklmP2QBbEgSagE) | 2:26 |
+| 5 | [Gece Kal](https://open.spotify.com/track/7oQmMYl1XCeUcDxstnWBbw) | [Serenad Bayraktar](https://open.spotify.com/artist/3qWtoHeuQh2uzY7e7FQPzW) | [Gece Kal](https://open.spotify.com/album/6YOuhbpjklmP2QBbEgSagE) | 2:26 |
+| 6 | [Aşkım N'aptın Bana](https://open.spotify.com/track/4XHISzxmPzDZsCusShMWiQ) | [Ezgi Işık](https://open.spotify.com/artist/7tVZ6gxN0xi1pvekZzzkEG) | [Aşkım N’aptın Bana](https://open.spotify.com/album/7oC68GCuTdYttZaAdHPhor) | 3:23 |
+| 7 | [Gidelim](https://open.spotify.com/track/7h2gsdJZnjhboAsYnaYOpT) | [Seren Saraç](https://open.spotify.com/artist/4IXnbOSFQHiaauIudnoqYP) | [Gidelim](https://open.spotify.com/album/32et7pO7bPoOGx6ydr1QgJ) | 3:58 |
+| 8 | [Bu Ben Miyim](https://open.spotify.com/track/1kVXPFHPh1cov4CCu0EsWZ) | [Tunç Aydoğmuş, Co.](https://open.spotify.com/artist/4WSDsWARENCdh6lkJDwdYL) | [Bu Ben Miyim](https://open.spotify.com/album/6KU7szPmBu6n9N5Yb8i6Ce) | 3:25 |
+| 9 | [Ah Bebeğim](https://open.spotify.com/track/3pOFjvC3NrodCMS7ozjZ7D) | [Cavlas](https://open.spotify.com/artist/0ZZtPjnzPZQ07whvWAIMo6) | [Ah Bebeğim](https://open.spotify.com/album/3pfr0vIporwrZ87fygkrxH) | 3:09 |
+| 10 | [Kalmalısın Yanımda](https://open.spotify.com/track/1zuSQlQFdiscIE7PMiDml4) | [Ömer Yener](https://open.spotify.com/artist/6Vm2xDADRuOlKgAWriAuf4) | [Kalmalısın Yanımda](https://open.spotify.com/album/6mvB5qP314ezpagc46Cajf) | 3:00 |
 | 11 | [Yasemin](https://open.spotify.com/track/1TJ6Ve4ddV3oE6LPidhACl) | [Frapan](https://open.spotify.com/artist/7ykkGTwXWbWwBVjV3C4Bx4) | [Yasemin](https://open.spotify.com/album/5BNDr1n4pICYYPD204OWVD) | 3:28 |
 | 12 | [Bu kafa böyle geçer mi?](https://open.spotify.com/track/2CFiJnHnECoEbBxqqBHzA2) | [Serbest Radikal](https://open.spotify.com/artist/6WZfzPA83dHUpmQr1ecXhZ), [Aynı Adam](https://open.spotify.com/artist/3W6D582x4U5QBcf5j6Ivwy) | [Bu kafa böyle geçer mi?](https://open.spotify.com/album/2PP2XJgd1utbKJXzwypQZ9) | 3:52 |
 | 13 | [Aniden](https://open.spotify.com/track/7zO4Sm9KLUOeLA3aHQ6h9l) | [Baturalp](https://open.spotify.com/artist/2B5MD2M0PLg4BhVBgqkTAQ) | [Aniden](https://open.spotify.com/album/2oSpqj3wC0J4saxh2A1nzc) | 2:59 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1RLKir9EDRO.md) - [plain]
 | 69 | [Hiçliğin Ortasında](https://open.spotify.com/track/6YymsWNxufSgwBmsXKWZbU) | [radyologos](https://open.spotify.com/artist/2mA7vZSBZ1MZcOKtMkEJRS) | [Hiçliğin Ortasında](https://open.spotify.com/album/0mo6icblQAYmaJ5RmJNZSl) | 3:30 |
 | 70 | [Yalnız Kalp](https://open.spotify.com/track/5z59q3cc83RZg10UTFkP1c) | [Başak Çalık](https://open.spotify.com/artist/7rmp4C7dbpPmlf3Uyt4rAm) | [Yalnız Kalp](https://open.spotify.com/album/4kd4kTictkNvos8A50MRg1) | 4:21 |
 
-Snapshot ID: `MCxiODMwYjQ0NGNlYzllNzBhZDQ0ZjRmZWY4YjY2MjU3YmQyYzRmNTAx`
+Snapshot ID: `MCxiZTkwMmEzNzE3NDIwNjRjMjY3YjQyZTcyNTU0OTJjMzUwOWFmNmY3`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVYgpMbMPJMz.md) - [plain]
 
 > No need to wait!  Experience today's best Worship music right here, right now, on Spotify\.  Cover: <a href="spotify:artist:0289SkqAn0iOohwm0pIHv3">Pat Barrett</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 980,326 likes - 100 songs - 9 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 980,414 likes - 100 songs - 9 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,7 +49,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVYgpMbMPJMz.md) - [plain]
 | 39 | [Gratitude \- LIVE from Miracle Nights](https://open.spotify.com/track/0SnTTASsZDaKXH7ryveq7C) | [Brandon Lake](https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v) | [Gratitude \- LIVE from Miracle Nights](https://open.spotify.com/album/5lOQm2QnGMxJMchHrn8W0Q) | 6:58 |
 | 40 | [Show Me Your Ways](https://open.spotify.com/track/0izRgQi5DUGHIQB2EweMWh) | [Thrive Worship](https://open.spotify.com/artist/76mPLB1kgBIInKSrvuEb72), [Leeland](https://open.spotify.com/artist/6j1fmLreVuAay7k6Gudfa2) | [Show Me Your Ways](https://open.spotify.com/album/763ptOvXfTbOeQRDbaAuHJ) | 6:27 |
 | 41 | [No Longer Slaves \- 2023 Short Edit / Live](https://open.spotify.com/track/32gGuYwdqL240eut4kXgoX) | [Tasha Cobbs Leonard](https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx) | [10 Years of Tasha](https://open.spotify.com/album/1NNOae3g7uXGyiBaxGuwUR) | 6:58 |
-| 42 | [Thank You for What You've Done \(feat\. The Band Table\)](https://open.spotify.com/track/6QQstj40hrBqzmz6yIOsoL) | [Cliff Preston](https://open.spotify.com/artist/3wIWw1KUDe4DDgbsuQidCS), [Jonathan Lee McElhenny](https://open.spotify.com/artist/4NZ5d4nF4zB40LPYiiZJiF), [People & Songs](https://open.spotify.com/artist/0DLoqaxhfWU5litFyzLqn8), [The Band Table](https://open.spotify.com/artist/67IX3oYVot7E779xGELk4L) | [Thank You for What You've Done \(feat\. The Band Table\)](https://open.spotify.com/album/0clx0dPMrLJKyF8O1vbEtq) | 4:45 |
+| 42 | [Thank You for What You've Done \(feat\. The Band Table\)](https://open.spotify.com/track/6QQstj40hrBqzmz6yIOsoL) | [Cliff Preston](https://open.spotify.com/artist/3wIWw1KUDe4DDgbsuQidCS), [Jonathan Lee McElhenny](https://open.spotify.com/artist/08vxD3roX2JckYwjZZVjr2), [People & Songs](https://open.spotify.com/artist/0DLoqaxhfWU5litFyzLqn8), [The Band Table](https://open.spotify.com/artist/67IX3oYVot7E779xGELk4L) | [Thank You for What You've Done \(feat\. The Band Table\)](https://open.spotify.com/album/0clx0dPMrLJKyF8O1vbEtq) | 4:45 |
 | 43 | [All Creatures \(Sing the Harmony\) \- Live](https://open.spotify.com/track/4Z70URI5AhohYZRp96AYwa) | [Shane & Shane](https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied), [Davy Flowers](https://open.spotify.com/artist/36Jk5sBdoGWR9iP4GX49EU) | [Psalms, Hymns, and Spiritual Songs \(Live\)](https://open.spotify.com/album/5HQ1DoBSvOsNK0hTw0NvPv) | 3:59 |
 | 44 | [Rescue \(feat\. Tiffany Hudson\)](https://open.spotify.com/track/1qA19MGPhY4VXJw4RywdWM) | [Jordan St\. Cyr](https://open.spotify.com/artist/4RbkVdTJEHZEfppvxBD6Il), [Tiffany Hudson](https://open.spotify.com/artist/0F58iilfZWiLrxyhsVOdQV) | [Rescue](https://open.spotify.com/album/01Bdh6eWt3Vp6pjyVf3qFk) | 3:41 |
 | 45 | [You Will Be Saved](https://open.spotify.com/track/5qZfyZ194ueTEHYTkGNA6f) | [ELEVATION RHYTHM](https://open.spotify.com/artist/0qZ8aSF0iMCQI99AAXikF8) | [You Will Be Saved](https://open.spotify.com/album/5vWSZtMuoAs4LImacMCKbk) | 6:14 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVYgpMbMPJMz.md) - [plain]
 | 99 | [To Be Loved](https://open.spotify.com/track/4hCyhlDZteeEkLzllLq9ur) | [Local Sound](https://open.spotify.com/artist/2cXyPSMdJcGw3t9yNhwTN2) | [This Is My Local](https://open.spotify.com/album/6mwSaLjGyeZ8FQUXOpW590) | 4:39 |
 | 100 | [Light a Fire](https://open.spotify.com/track/1SLA0ToZqK1uZfBF6HZ2yG) | [David Leonard](https://open.spotify.com/artist/2r9qoFx4EhGP8RYFQ4eMIE) | [Light a Fire](https://open.spotify.com/album/7hs4utpVxiSYgJoyM6Pne8) | 4:54 |
 
-Snapshot ID: `MCw1OTQ3OWFlNmU2ODQ0OWY4YWI2ODQ3M2E0NWQ0ZTJlMTlmMDZhZmZj`
+Snapshot ID: `MCxlODA3NTViNTliNjczZTQ5NGExNmY2Y2FhMTI2Y2E4NzNmMmVhOGM5`

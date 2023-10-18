@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaqIZ7YXxc6o.md) - [plain]
 
 > Future Dance hits\. Cover: PNAU, Empire of the Sun
 
-[Spotify](https://open.spotify.com/user/spotify) - 137,106 likes - 103 songs - 5 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 137,174 likes - 103 songs - 5 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

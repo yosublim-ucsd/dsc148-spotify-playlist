@@ -523,6 +523,28 @@
     },
     {
       "album": {
+        "name": "SCRAPYARD I",
+        "url": "https://open.spotify.com/album/0EVBIlbbAPSiXj2tRH5nE4"
+      },
+      "artists": [
+        {
+          "name": "Quadeca",
+          "url": "https://open.spotify.com/artist/3zz52ViyCBcplK0ftEVPSS"
+        },
+        {
+          "name": "brakence",
+          "url": "https://open.spotify.com/artist/4kqFrZkeqDfOIEqTWqbOOV"
+        }
+      ],
+      "date_added": "2023-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181915,
+      "name": "A LA CARTE",
+      "url": "https://open.spotify.com/track/5L6F6siaHwwpuR1exuZPnH"
+    },
+    {
+      "album": {
         "name": "a million messages",
         "url": "https://open.spotify.com/album/4VUpB2haaJ2duXy2CaHhB8"
       },
@@ -24474,6 +24496,28 @@
       "duration_ms": 170413,
       "name": "Sweet & Spice",
       "url": "https://open.spotify.com/track/0fp2T3VVFl1lhvGQYMCAlj"
+    },
+    {
+      "album": {
+        "name": "How Do You Sleep At Night?",
+        "url": "https://open.spotify.com/album/2zm0qaBZaaH4zAaCCqU2cF"
+      },
+      "artists": [
+        {
+          "name": "Teezo Touchdown",
+          "url": "https://open.spotify.com/artist/0fGcIStdT1OpFFhOC7Wp36"
+        },
+        {
+          "name": "Foushe\u00e9",
+          "url": "https://open.spotify.com/artist/6trIghKwHRUyxwvm66HLHH"
+        }
+      ],
+      "date_added": "2023-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132786,
+      "name": "Sweet (feat. Foushe\u00e9)",
+      "url": "https://open.spotify.com/track/2X3noddA1Gi8OmJVRP4eYC"
     },
     {
       "album": {

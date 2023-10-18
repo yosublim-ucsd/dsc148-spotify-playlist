@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaXeq4HFmqQR.md) - [plain]
 
 > Mujeres a todo volumen\. Foto: Marineros.
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,840 likes - 50 songs - 2 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,850 likes - 50 songs - 2 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,8 +16,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaXeq4HFmqQR.md) - [plain]
 | 6 | [Qué Más Quieres de Mí](https://open.spotify.com/track/4ja24P4mH0J8YijrErAQAh) | [Rosario Alfonso](https://open.spotify.com/artist/7mirwC8eaTt7tswix93TFZ) | [De Canciones Tristes y Otras Sutilezas](https://open.spotify.com/album/4pYSsYWtj0fPzTXF5tES60) | 5:10 |
 | 7 | [Antes Que](https://open.spotify.com/track/3WPrnwpxefLYwGejFCpP7W) | [SOULFIA](https://open.spotify.com/artist/1Q9Sx5tOmwems0qwLJZ5Cy) | [Antes Que](https://open.spotify.com/album/3nxTxqohB4uES4GJxnBG6c) | 2:27 |
 | 8 | [Me Atrapo](https://open.spotify.com/track/5mb7wNPBlEzCnZmEYYk4wy) | [Yorka](https://open.spotify.com/artist/71bG6LIwKMYALxV8WuIezn), [Shirel](https://open.spotify.com/artist/5fNV5ubt46GqUpyP7Mh4Ln), [FEMI](https://open.spotify.com/artist/0Zq7qMNo2UXDat3Tzf0x2s) | [Chao](https://open.spotify.com/album/50NOVmSzpApZluUtVSv1Tz) | 4:10 |
-| 9 | [Ganas de Dejarte](https://open.spotify.com/track/1lrZCQZiW8WFph4TlLqEwT) | [Olivia García](https://open.spotify.com/artist/5ZLOSt2DZOG4V3nG0kDoh3) | [Ganas de Dejarte](https://open.spotify.com/album/3iikqJogxGgONOMVfzI5za) | 2:19 |
-| 10 | [Tu Olor](https://open.spotify.com/track/3cNzf5t9uQbLIwfWEOfpTF) | [Rubio](https://open.spotify.com/artist/79YjWaAoD88XGLETIsnnQV) | [Tu Olor](https://open.spotify.com/album/0zUXB3xuiKMQRlY8xHyyH3) | 3:06 |
+| 9 | [Tu Olor](https://open.spotify.com/track/3cNzf5t9uQbLIwfWEOfpTF) | [Rubio](https://open.spotify.com/artist/79YjWaAoD88XGLETIsnnQV) | [Tu Olor](https://open.spotify.com/album/0zUXB3xuiKMQRlY8xHyyH3) | 3:06 |
+| 10 | [Ganas de Dejarte](https://open.spotify.com/track/1lrZCQZiW8WFph4TlLqEwT) | [Olivia García](https://open.spotify.com/artist/5ZLOSt2DZOG4V3nG0kDoh3) | [Ganas de Dejarte](https://open.spotify.com/album/3iikqJogxGgONOMVfzI5za) | 2:19 |
 | 11 | [La Mariposa](https://open.spotify.com/track/3k8diAty8oozYqQV8j7v0R) | [Pascuala Ilabaca y Fauna](https://open.spotify.com/artist/6nf17XGXCx2PSgkhPYjSIA), [Mora Lucay](https://open.spotify.com/artist/3gjqD5j7NaOCr4kLULEV0L) | [La Mariposa](https://open.spotify.com/album/0c6di7PysBHM3aaqyhC5BO) | 1:49 |
 | 12 | [Pequeñas Esperanzas](https://open.spotify.com/track/4uEpJGZaCOtjNtz4VEUpPr) | [Niña Tormenta](https://open.spotify.com/artist/0KJEHAoNtPaopqOHD6UIkY) | [Pequeñas Esperanzas](https://open.spotify.com/album/2aEF1ElCdYn9fGLRkFAi5K) | 3:20 |
 | 13 | [te amo y te odio </3](https://open.spotify.com/track/0aUJ7041QzwRa11tfnbtah) | [Princesa Alba](https://open.spotify.com/artist/3hvDAraTidCTjQHIc4m8P3) | [besitos, cuídate \(Deluxe\)](https://open.spotify.com/album/78jevg3CxuDBUeZeDT5yEE) | 3:11 |
@@ -27,9 +27,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaXeq4HFmqQR.md) - [plain]
 | 17 | [1999](https://open.spotify.com/track/0HBuytvVquWcI2j7Rhz8SS) | [KMC](https://open.spotify.com/artist/6XRepE59HrVuIQgfWXdBJ4) | [1999](https://open.spotify.com/album/5kvOK1CHAKbfPOkYhAowFu) | 2:56 |
 | 18 | [Decidí](https://open.spotify.com/track/526Et8BPKtXBTIctZsrm3Z) | [Cancamusa](https://open.spotify.com/artist/6GSnSFc0O2JMkPkGcBFsNc) | [AMOR MINIMAL](https://open.spotify.com/album/5tydxQ3vJc63ORNQQsH8Fq) | 3:26 |
 | 19 | [perfecta](https://open.spotify.com/track/2D7iqf6lQMJbkVynbFv07S) | [gabriela arcos](https://open.spotify.com/artist/3SdRPRuSNLp9lj06iZuQlx) | [perfecta](https://open.spotify.com/album/6be5PkRtr6n5UURCX3hvoK) | 2:40 |
-| 20 | [Misericordia](https://open.spotify.com/track/05xaOXkSjjALluPQDgYlhP) | [Luta Cruz](https://open.spotify.com/artist/6Fzbkrh3lrfCZYK8xzZLm7) | [Primera Mujer](https://open.spotify.com/album/5Y4PCUyOZ643BqblohiBjE) | 4:07 |
-| 21 | [y las flores? \(en bruto 1/2\)](https://open.spotify.com/track/7f5jzJFTBifZHuJTkOrLyt) | [J18](https://open.spotify.com/artist/0DAA1By7FZlx94U5BO4d6Q) | [travesía](https://open.spotify.com/album/6rYhu4elCJMNgreuzQfK4H) | 2:36 |
-| 22 | [Amarte así](https://open.spotify.com/track/7KV3kUktIYB0dCnZCzHQac) | [Marineros](https://open.spotify.com/artist/6EwwcDTg6CKzsuWq7Xbd7D) | [Al calor de un sol que acaba de morir](https://open.spotify.com/album/79A9O0BwOk9aExtfjehAB9) | 3:35 |
+| 20 | [Amarte así](https://open.spotify.com/track/7KV3kUktIYB0dCnZCzHQac) | [Marineros](https://open.spotify.com/artist/6EwwcDTg6CKzsuWq7Xbd7D) | [Al calor de un sol que acaba de morir](https://open.spotify.com/album/79A9O0BwOk9aExtfjehAB9) | 3:35 |
+| 21 | [Misericordia](https://open.spotify.com/track/05xaOXkSjjALluPQDgYlhP) | [Luta Cruz](https://open.spotify.com/artist/6Fzbkrh3lrfCZYK8xzZLm7) | [Primera Mujer](https://open.spotify.com/album/5Y4PCUyOZ643BqblohiBjE) | 4:07 |
+| 22 | [y las flores? \(en bruto 1/2\)](https://open.spotify.com/track/7f5jzJFTBifZHuJTkOrLyt) | [J18](https://open.spotify.com/artist/0DAA1By7FZlx94U5BO4d6Q) | [travesía](https://open.spotify.com/album/6rYhu4elCJMNgreuzQfK4H) | 2:36 |
 | 23 | [Dream Love](https://open.spotify.com/track/6vStWiIMErT2VNSGnpfXaj) | [Vlntna B](https://open.spotify.com/artist/5leFwWpTacAWLAom8B2JbS) | [Dream Love](https://open.spotify.com/album/7fgGpLBb7ujLOECT2x5svf) | 2:55 |
 | 24 | [Flor De Azucena](https://open.spotify.com/track/5YdQ2kntFxlQGsAKdnwS4n) | [Denise Rosenthal](https://open.spotify.com/artist/73SBwOgH6mrS09OyFHdR62) | [Todas Seremos Reinas](https://open.spotify.com/album/3xpcyIxuRq6Zngha1LAqNd) | 3:31 |
 | 25 | [Hacerlo Mejor](https://open.spotify.com/track/5iynCs4hZitCbgHuW53yX5) | [Glo Herrera](https://open.spotify.com/artist/01Tt4JZxiEUvzPnOBNEG57), [Masquemusica](https://open.spotify.com/artist/38WvNBHvqwUXnwkWIioPxo), [Macree](https://open.spotify.com/artist/2ug0FuyOBDhxMovvNYBXGg) | [Hacerlo Mejor](https://open.spotify.com/album/6fdXfuTQQrBnpNTz8pXiJk) | 3:03 |
@@ -53,10 +53,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaXeq4HFmqQR.md) - [plain]
 | 43 | [SUFICIENTE](https://open.spotify.com/track/6TtsnJTv8MVf4oHwITp1C5) | [Casandra Paz](https://open.spotify.com/artist/09uLTF7iK7cR3WsyhGJCoQ) | [SUFICIENTE](https://open.spotify.com/album/4jHEmbxbpHFiv62IwoGSyO) | 3:21 |
 | 44 | [Tarde](https://open.spotify.com/track/7AB2GfTdJKMt2NGYsGbYj1) | [Denisse Malebrán](https://open.spotify.com/artist/34JOOFEs2qzslbI0YAGBXr) | [Tarde](https://open.spotify.com/album/5lzETSRR6bvofqCfW4VIuS) | 3:52 |
 | 45 | [Temores](https://open.spotify.com/track/7L2dPSItNwM0gJIovdNWWS) | [Martina Lluvias](https://open.spotify.com/artist/5x24CqyDaYbM6OUjxLYkUo) | [Temores](https://open.spotify.com/album/5xiXFDgbaJhenJSuP5Rx2N) | 4:14 |
-| 46 | [Soltera \- Remix](https://open.spotify.com/track/73IXhWTLFCycLmvuAk33mY) | [Juanita La O](https://open.spotify.com/artist/4E7BbNhnHWRifH0LUUsQoT), [quediostesalve](https://open.spotify.com/artist/1CuvaTSsQNjeHU0abOUOZI) | [Soltera \(Remix\)](https://open.spotify.com/album/6oduJOhQOBYZ8gnfSyUMvn) | 3:23 |
-| 47 | [Luz](https://open.spotify.com/track/1VCR3tKkne22xzGKH3jQzb) | [Emaflu](https://open.spotify.com/artist/5PS09CXdU7Lze7eAk2z3Yy), [Camila Bañados](https://open.spotify.com/artist/70PLmIOAULXzPlvKP8Zliq) | [EP Agua](https://open.spotify.com/album/4PCgmB23blDBm7y8orvLpk) | 3:50 |
+| 46 | [Luz](https://open.spotify.com/track/1VCR3tKkne22xzGKH3jQzb) | [Emaflu](https://open.spotify.com/artist/5PS09CXdU7Lze7eAk2z3Yy), [Camila Bañados](https://open.spotify.com/artist/70PLmIOAULXzPlvKP8Zliq) | [EP Agua](https://open.spotify.com/album/4PCgmB23blDBm7y8orvLpk) | 3:50 |
+| 47 | [Soltera \- Remix](https://open.spotify.com/track/73IXhWTLFCycLmvuAk33mY) | [Juanita La O](https://open.spotify.com/artist/4E7BbNhnHWRifH0LUUsQoT), [quediostesalve](https://open.spotify.com/artist/1CuvaTSsQNjeHU0abOUOZI) | [Soltera \(Remix\)](https://open.spotify.com/album/6oduJOhQOBYZ8gnfSyUMvn) | 3:23 |
 | 48 | [Tenkō](https://open.spotify.com/track/7x0gw63e2KKC5C1ZQNkLYY) | [Celeste Shaw](https://open.spotify.com/artist/6rqnfwOhPniuJF1OxvMdYj) | [Tenkō](https://open.spotify.com/album/5cGVWjWvCUcc91HuAxv5pR) | 2:51 |
 | 49 | [No Resultó](https://open.spotify.com/track/5b1iIkqkzCFRgpaTAB29do) | [Carolina Nissen](https://open.spotify.com/artist/1DqfzBVRtZaQXS63wWCYMM) | [No Resultó](https://open.spotify.com/album/5Xu25GHIBlSxtOzSBAKCPm) | 3:24 |
 | 50 | [correr](https://open.spotify.com/track/6QjfzTIZ50ut9SqjnX4xu6) | [Vicenta](https://open.spotify.com/artist/0fMFxEzzksKzDMk4bFZodo), [Cabiria](https://open.spotify.com/artist/2y7OtEBQuQCeFh2a8bYZVC) | [virgen suicida](https://open.spotify.com/album/5cGNxuYfProCoCfmSFSdsH) | 2:53 |
 
-Snapshot ID: `MCxjZDA3NjI2NmNiNTI1ODY4OTc1YjNlNWNlNGM2NDY3YjU5MGRkYmZm`
+Snapshot ID: `MCwwZjVlYTU5NTA3ODcwMmZkNGRkOTdkNjdmNmQ0YmM3Mjc0NDc0YTcw`

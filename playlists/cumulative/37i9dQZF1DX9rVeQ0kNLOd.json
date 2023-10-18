@@ -216,7 +216,7 @@
       ],
       "date_added": "2023-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-18",
       "duration_ms": 211266,
       "name": "bathroom",
       "url": "https://open.spotify.com/track/2lNJGoEJX2FpJDUGZRIuu0"
@@ -314,7 +314,7 @@
       ],
       "date_added": "2023-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-18",
       "duration_ms": 216015,
       "name": "BUDDY feat. PUNPEE",
       "url": "https://open.spotify.com/track/6bMSF3fC1jVEhJr5h0riXq"
@@ -3315,6 +3315,24 @@
     },
     {
       "album": {
+        "name": "\u30d1\u30ec\u30c3\u30c8\u306f\u900f\u660e",
+        "url": "https://open.spotify.com/album/23xlWGbhuph9wClaYZqbPg"
+      },
+      "artists": [
+        {
+          "name": "yama",
+          "url": "https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv"
+        }
+      ],
+      "date_added": "2023-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197500,
+      "name": "\u30d1\u30ec\u30c3\u30c8\u306f\u900f\u660e",
+      "url": "https://open.spotify.com/track/25e3Pxxt0G1KGvMbYelQMG"
+    },
+    {
+      "album": {
         "name": "\u30d6\u30e9\u30a6\u30cb\u30fc",
         "url": "https://open.spotify.com/album/5lDjj72VfeaRqvKJ3UYZGG"
       },
@@ -4006,7 +4024,7 @@
       ],
       "date_added": "2022-10-20",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-17",
+      "date_removed": null,
       "duration_ms": 177813,
       "name": "\u6e9c\u3081\u606f",
       "url": "https://open.spotify.com/track/4PKIhZHuWGlELcxyvV8Oxb"

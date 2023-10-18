@@ -1,12 +1,12 @@
 {
   "description": "Descubra Abbot e novos talentos brasileiros no horizonte.",
-  "num_followers": 419528,
+  "num_followers": 419517,
   "original_name": "RADAR Brasil",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwZTE5YWU1MzU5NjBlNGFmZDQwMWQ3ODFlNzZkYzhkNjY3YjU3ZmQz",
+  "snapshot_id": "MCxhN2QwYWViNjAwZmQ1MGRhMTk1ZmFhNzk1MmQzODk3MWFhMjM0N2Vj",
   "tracks": [
     {
       "added_at": "2023-10-05 08:00:00",
@@ -475,6 +475,30 @@
     {
       "added_at": "2023-10-05 08:00:00",
       "album": {
+        "name": "Tiro Foto, Mas N\u00e3o Posto",
+        "url": "https://open.spotify.com/album/2F5juQtLZImwXCTtCWFMeS"
+      },
+      "artists": [
+        {
+          "name": "Danzo",
+          "url": "https://open.spotify.com/artist/5ZyT4ZJtpQdihQ7MTMTluE"
+        },
+        {
+          "name": "Greezy",
+          "url": "https://open.spotify.com/artist/3exY81LSlWqpL03GFPTEgB"
+        },
+        {
+          "name": "Labbel Rec",
+          "url": "https://open.spotify.com/artist/4tfQzFEhNTBnKUrYueeLKX"
+        }
+      ],
+      "duration_ms": 144761,
+      "name": "Tiro Foto, Mas N\u00e3o Posto",
+      "url": "https://open.spotify.com/track/2zytQKmpGW9dvhEGnXiBTP"
+    },
+    {
+      "added_at": "2023-10-05 08:00:00",
+      "album": {
         "name": "O Justo N\u00e3o Treme",
         "url": "https://open.spotify.com/album/6aBT64xdKe8JcurjpmJTzA"
       },
@@ -495,6 +519,30 @@
       "duration_ms": 169057,
       "name": "O Justo N\u00e3o Treme",
       "url": "https://open.spotify.com/track/032k6qsKSvNfdBndLe4rCD"
+    },
+    {
+      "added_at": "2023-10-05 08:00:00",
+      "album": {
+        "name": "Doce Veneno",
+        "url": "https://open.spotify.com/album/04GVjCszesD4CSwLqyKkFl"
+      },
+      "artists": [
+        {
+          "name": "Mc Paiva ZS",
+          "url": "https://open.spotify.com/artist/0gHj4MPwwcZ8Zl9CY0hqT5"
+        },
+        {
+          "name": "Love Funk",
+          "url": "https://open.spotify.com/artist/64DTkZLH6KkkMwZEEZ5VWC"
+        },
+        {
+          "name": "Kotim",
+          "url": "https://open.spotify.com/artist/210Sy1oGhvPu929TKoSVcN"
+        }
+      ],
+      "duration_ms": 208941,
+      "name": "Doce Veneno",
+      "url": "https://open.spotify.com/track/7woVi4HBuv0rsO98Ox2Fcq"
     },
     {
       "added_at": "2023-10-05 08:00:00",
@@ -527,54 +575,6 @@
       "duration_ms": 158400,
       "name": "Ritmo de Copa",
       "url": "https://open.spotify.com/track/61BxiY7A9V9FC2IL7llA76"
-    },
-    {
-      "added_at": "2023-10-05 08:00:00",
-      "album": {
-        "name": "Doce Veneno",
-        "url": "https://open.spotify.com/album/04GVjCszesD4CSwLqyKkFl"
-      },
-      "artists": [
-        {
-          "name": "Mc Paiva ZS",
-          "url": "https://open.spotify.com/artist/0gHj4MPwwcZ8Zl9CY0hqT5"
-        },
-        {
-          "name": "Love Funk",
-          "url": "https://open.spotify.com/artist/64DTkZLH6KkkMwZEEZ5VWC"
-        },
-        {
-          "name": "Kotim",
-          "url": "https://open.spotify.com/artist/210Sy1oGhvPu929TKoSVcN"
-        }
-      ],
-      "duration_ms": 208941,
-      "name": "Doce Veneno",
-      "url": "https://open.spotify.com/track/7woVi4HBuv0rsO98Ox2Fcq"
-    },
-    {
-      "added_at": "2023-10-05 08:00:00",
-      "album": {
-        "name": "Tiro Foto, Mas N\u00e3o Posto",
-        "url": "https://open.spotify.com/album/2F5juQtLZImwXCTtCWFMeS"
-      },
-      "artists": [
-        {
-          "name": "Danzo",
-          "url": "https://open.spotify.com/artist/5ZyT4ZJtpQdihQ7MTMTluE"
-        },
-        {
-          "name": "Greezy",
-          "url": "https://open.spotify.com/artist/3exY81LSlWqpL03GFPTEgB"
-        },
-        {
-          "name": "Labbel Rec",
-          "url": "https://open.spotify.com/artist/4tfQzFEhNTBnKUrYueeLKX"
-        }
-      ],
-      "duration_ms": 144761,
-      "name": "Tiro Foto, Mas N\u00e3o Posto",
-      "url": "https://open.spotify.com/track/2zytQKmpGW9dvhEGnXiBTP"
     },
     {
       "added_at": "2023-10-05 08:00:00",
@@ -983,26 +983,6 @@
     {
       "added_at": "2023-10-05 08:00:00",
       "album": {
-        "name": "Favelinha",
-        "url": "https://open.spotify.com/album/46iB1eRPEXsHE2IqPr1qHd"
-      },
-      "artists": [
-        {
-          "name": "Jovem MK",
-          "url": "https://open.spotify.com/artist/01APkKC04vJYFKyYVxSZWR"
-        },
-        {
-          "name": "Mu540",
-          "url": "https://open.spotify.com/artist/13yQqjPy4Esq0Ru3R1fipU"
-        }
-      ],
-      "duration_ms": 102958,
-      "name": "Favelinha",
-      "url": "https://open.spotify.com/track/3qjjTCINpvCRG22lFWUeod"
-    },
-    {
-      "added_at": "2023-10-05 08:00:00",
-      "album": {
         "name": "Me liga",
         "url": "https://open.spotify.com/album/3VeZjOr9TbplcmNHzZ9xG7"
       },
@@ -1023,6 +1003,26 @@
       "duration_ms": 150857,
       "name": "Me liga",
       "url": "https://open.spotify.com/track/4ia06gVwN3wMDpZXRMFcX6"
+    },
+    {
+      "added_at": "2023-10-05 08:00:00",
+      "album": {
+        "name": "Favelinha",
+        "url": "https://open.spotify.com/album/46iB1eRPEXsHE2IqPr1qHd"
+      },
+      "artists": [
+        {
+          "name": "Jovem MK",
+          "url": "https://open.spotify.com/artist/01APkKC04vJYFKyYVxSZWR"
+        },
+        {
+          "name": "Mu540",
+          "url": "https://open.spotify.com/artist/13yQqjPy4Esq0Ru3R1fipU"
+        }
+      ],
+      "duration_ms": 102958,
+      "name": "Favelinha",
+      "url": "https://open.spotify.com/track/3qjjTCINpvCRG22lFWUeod"
     },
     {
       "added_at": "2023-10-05 08:00:00",
@@ -1231,6 +1231,30 @@
     {
       "added_at": "2023-10-05 08:00:00",
       "album": {
+        "name": "24K o Spotify Que Paga",
+        "url": "https://open.spotify.com/album/36xMrm390G9SD1R6e1jtfR"
+      },
+      "artists": [
+        {
+          "name": "Mc Kanhoto",
+          "url": "https://open.spotify.com/artist/3bpbNht7qJCmPo8sjVF3tA"
+        },
+        {
+          "name": "Mc Neg\u00e3o Original",
+          "url": "https://open.spotify.com/artist/4LHTgACY32k94VDjenF0nP"
+        },
+        {
+          "name": "DJ Guh Mix",
+          "url": "https://open.spotify.com/artist/3zG4hHVlA4xIX5jwvOa2KD"
+        }
+      ],
+      "duration_ms": 180000,
+      "name": "24K o Spotify Que Paga",
+      "url": "https://open.spotify.com/track/7x0begSPdxT8KgFgwG3XaQ"
+    },
+    {
+      "added_at": "2023-10-05 08:00:00",
+      "album": {
         "name": "Ver\u00e3o 021",
         "url": "https://open.spotify.com/album/0YEmY36nlVtX7odjfKFasc"
       },
@@ -1263,30 +1287,6 @@
       "duration_ms": 182526,
       "name": "Ver\u00e3o 021",
       "url": "https://open.spotify.com/track/74uMkyhm8QY9XDjOou0t9i"
-    },
-    {
-      "added_at": "2023-10-05 08:00:00",
-      "album": {
-        "name": "24K o Spotify Que Paga",
-        "url": "https://open.spotify.com/album/36xMrm390G9SD1R6e1jtfR"
-      },
-      "artists": [
-        {
-          "name": "Mc Kanhoto",
-          "url": "https://open.spotify.com/artist/3bpbNht7qJCmPo8sjVF3tA"
-        },
-        {
-          "name": "Mc Neg\u00e3o Original",
-          "url": "https://open.spotify.com/artist/4LHTgACY32k94VDjenF0nP"
-        },
-        {
-          "name": "DJ Guh Mix",
-          "url": "https://open.spotify.com/artist/3zG4hHVlA4xIX5jwvOa2KD"
-        }
-      ],
-      "duration_ms": 180000,
-      "name": "24K o Spotify Que Paga",
-      "url": "https://open.spotify.com/track/7x0begSPdxT8KgFgwG3XaQ"
     },
     {
       "added_at": "2023-10-05 08:00:00",
@@ -1515,26 +1515,6 @@
     {
       "added_at": "2023-10-05 08:00:00",
       "album": {
-        "name": "Trem Bala",
-        "url": "https://open.spotify.com/album/6YZ5ViirT28npvybtFtx42"
-      },
-      "artists": [
-        {
-          "name": "Btrem",
-          "url": "https://open.spotify.com/artist/5XJ6pt7QwPKJ5X9kFvEagw"
-        },
-        {
-          "name": "Eldorado Music",
-          "url": "https://open.spotify.com/artist/1lwFarWDLOruW7UiLwhvv8"
-        }
-      ],
-      "duration_ms": 116571,
-      "name": "Trem Bala",
-      "url": "https://open.spotify.com/track/1IJvvl30UCU5pwqiQ6ESFL"
-    },
-    {
-      "added_at": "2023-10-05 08:00:00",
-      "album": {
         "name": "Vai Com Calma",
         "url": "https://open.spotify.com/album/5ZaAnTOSuwFfbslG3rhZQQ"
       },
@@ -1551,6 +1531,26 @@
       "duration_ms": 136289,
       "name": "Vai Com Calma",
       "url": "https://open.spotify.com/track/4AN6cNIdzN87leIjzcYHE7"
+    },
+    {
+      "added_at": "2023-10-05 08:00:00",
+      "album": {
+        "name": "Trem Bala",
+        "url": "https://open.spotify.com/album/6YZ5ViirT28npvybtFtx42"
+      },
+      "artists": [
+        {
+          "name": "Btrem",
+          "url": "https://open.spotify.com/artist/5XJ6pt7QwPKJ5X9kFvEagw"
+        },
+        {
+          "name": "Eldorado Music",
+          "url": "https://open.spotify.com/artist/1lwFarWDLOruW7UiLwhvv8"
+        }
+      ],
+      "duration_ms": 116571,
+      "name": "Trem Bala",
+      "url": "https://open.spotify.com/track/1IJvvl30UCU5pwqiQ6ESFL"
     },
     {
       "added_at": "2023-10-05 08:00:00",

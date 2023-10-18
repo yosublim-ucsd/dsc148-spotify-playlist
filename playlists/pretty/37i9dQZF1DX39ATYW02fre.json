@@ -1,12 +1,12 @@
 {
   "description": "Beautiful electronic music for melancholy moments.",
-  "num_followers": 142003,
+  "num_followers": 142111,
   "original_name": "Melantronic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1YmY0YTY3MjFiMDEyOWU4ZjQyN2I3OGNiNGI4NzhhYmYwOTc0Y2Q4",
+  "snapshot_id": "MCw1NGQwNGE3OTkwZjUzN2QxN2VlYmMxNzFlNDc4Zjc4Y2RjYTk1YTJi",
   "tracks": [
     {
       "added_at": "2022-11-25 16:48:26",
@@ -867,22 +867,18 @@
     {
       "added_at": "2022-11-25 16:48:26",
       "album": {
-        "name": "Dark",
-        "url": "https://open.spotify.com/album/1y30DpERmej6O4v9wOYYla"
+        "name": "Dawn",
+        "url": "https://open.spotify.com/album/0DvauBOn2G8RIEQR54Cmiv"
       },
       "artists": [
         {
-          "name": "SG Lewis",
-          "url": "https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG"
-        },
-        {
-          "name": "Bruno Major",
-          "url": "https://open.spotify.com/artist/0hDjKSKjl1DC7ovYTDJHe8"
+          "name": "RY X",
+          "url": "https://open.spotify.com/artist/2KjAo6wVc9d2WcxdxSArpV"
         }
       ],
-      "duration_ms": 233009,
-      "name": "Dreaming (feat. Bruno Major)",
-      "url": "https://open.spotify.com/track/6S9f7k7SeqwkId3qaALw0r"
+      "duration_ms": 309590,
+      "name": "Howling",
+      "url": "https://open.spotify.com/track/34hMOtKwf5nm8tjvkGV0Dk"
     }
   ],
   "unique_name": "Melantronic",

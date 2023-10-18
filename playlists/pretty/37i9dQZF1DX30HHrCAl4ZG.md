@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX30HHrCAl4ZG.md) - [plain]
 
 > Explore all things indie rock right now\. Featuring new music by Slow Pulp
 
-[Spotify](https://open.spotify.com/user/spotify) - 844,350 likes - 100 songs - 5 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 844,362 likes - 100 songs - 5 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX30HHrCAl4ZG.md) - [plain]
 | 99 | [Tora](https://open.spotify.com/track/2RdTAjuyXApYuZhQh7kypm) | [Ra Ra Viper](https://open.spotify.com/artist/0YkVmTUYQdhgxE8vek7GId) | [Pound For Pound](https://open.spotify.com/album/7HW83aQ4OFpMsg6W8hmROw) | 3:02 |
 | 100 | [Lookin' Out](https://open.spotify.com/track/21xQGFDvSeCi2deid5YtaJ) | [King Stingray](https://open.spotify.com/artist/3hA0yUEuLvjqvxtMlqznDb) | [Lookin' Out](https://open.spotify.com/album/6sAuAVVo9Wi7K9eecv4txq) | 3:47 |
 
-Snapshot ID: `MCxkYzQ5OGVlYTEwNTViOWUwNWRkZDVhMjAxOWI0ZDE4ODE0NzhkMDY2`
+Snapshot ID: `MCw4MDg5NDYxODY4MjdkYzY2MDYwZGU4ZTVmNDczMGRmODcwZjEwMmRj`

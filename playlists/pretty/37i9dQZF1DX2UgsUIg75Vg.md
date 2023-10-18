@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2UgsUIg75Vg.md) - [plain]
 
 > Chilled R&B jams for your most relaxed moods\. Cover: Naomi Sharon
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,355,017 likes - 150 songs - 7 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,355,341 likes - 150 songs - 7 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -70,7 +70,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2UgsUIg75Vg.md) - [plain]
 | 60 | [Keep Me In Love](https://open.spotify.com/track/7j8mf8Qrvmhjl8Yr13iFr7) | [Alina Baraz](https://open.spotify.com/artist/6hfwwpXqZPRC9CsKI7qtv1) | [Keep Me In Love](https://open.spotify.com/album/7ETOuFfahxfhuMlKPYbFPt) | 2:36 |
 | 61 | [Clarity \(feat\. Lucky Daye\)](https://open.spotify.com/track/3KGvzl1vguT4QLEXsplga2) | [Maeta](https://open.spotify.com/artist/2EwyKG76iX4Pp5HhAD6SKO), [Lucky Daye](https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J) | [When I Hear Your Name](https://open.spotify.com/album/4iJiu3yFSwRNPe7dJBwtPM) | 1:49 |
 | 62 | [Like Me](https://open.spotify.com/track/1qcK3L590ZCyLu1UPtTb5o) | [Jozzy](https://open.spotify.com/artist/6Ja6zFB5d7XRihhfMo6KzY) | [Songs For Women, Free Game For Niggas \(Deluxe Edition\)](https://open.spotify.com/album/1IjQ0pJkd3F5w7OSylMaJY) | 2:52 |
-| 63 | [OUTTA CONTROL](https://open.spotify.com/track/6Vuas3LiStIwzv3iG2WZV3) | [DESTIN CONRAD](https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ) | [OUTTA CONTROL](https://open.spotify.com/album/3SOrMCFaErYHw8BDd1XxYi) | 3:27 |
+| 63 | [OUTTA CONTROL](https://open.spotify.com/track/6Vuas3LiStIwzv3iG2WZV3) | [DESTIN CONRAD](https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ) | [OUTTA CONTROL](https://open.spotify.com/album/3SOrMCFaErYHw8BDd1XxYi) | 3:25 |
 | 64 | [Doin Yo Stuff](https://open.spotify.com/track/1VEPKq5jNdUyemcq29h5ki) | [Blxst](https://open.spotify.com/artist/4qXC0i02bSFstECuXP2ZpL), [Bino Rideaux](https://open.spotify.com/artist/3pcerTbRFAPvWWtAfySFWB) | [Sixtape 3](https://open.spotify.com/album/40eNoJ2ryZfFNb5iyhKoiX) | 2:36 |
 | 65 | [I Need You](https://open.spotify.com/track/5G39HqNTankm28Qo3JFWU8) | [Tone Stith](https://open.spotify.com/artist/756t7CBmWLNYsshVtS6P44) | [I Need You](https://open.spotify.com/album/4YDxEOAH9hQjNMTPqWHcxk) | 3:02 |
 | 66 | [Fantasy \(Give It All\)](https://open.spotify.com/track/29dLm7RhrSMQi6niCNRCut) | [Dende](https://open.spotify.com/artist/0xq4TZno4XwBzkbLnBAhlF), [Sebastian Kamae](https://open.spotify.com/artist/7GsvnIE0bUBu6WZXO3ryJe), [Hoofy Baby](https://open.spotify.com/artist/5Bb8NSase0poSD0lXSyBSp) | [Fantasy \(Give It All\)](https://open.spotify.com/album/7exmvMCbKRJUDrjNxxIyF9) | 2:57 |
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2UgsUIg75Vg.md) - [plain]
 | 149 | [Where I Go \(feat\. H.E.R.\)](https://open.spotify.com/track/3MlQPB0wJuopo3NTZGlMpI) | [NxWorries](https://open.spotify.com/artist/6PEMFpe3PTOksdV4ZXUpbE), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa), [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os), [Knxwledge](https://open.spotify.com/artist/17Zu03OgBVxgLxWmRUyNOJ) | [Where I Go \(feat\. H.E.R.\)](https://open.spotify.com/album/1o8zUe3QYHV42SHSsg6ffu) | 3:21 |
 | 150 | [Sensually](https://open.spotify.com/track/4Wb8NdNKT7kjeHIs8IMRUK) | [Dende](https://open.spotify.com/artist/0xq4TZno4XwBzkbLnBAhlF) | [Before We Crash](https://open.spotify.com/album/0cIv8DfxokTzEUJAwlsyfP) | 2:51 |
 
-Snapshot ID: `MCwyYWQxOWM5ZGQzODgzNzdiZjE5Zjg3M2VjMjU4MzQ1YWMyMTM4NTFi`
+Snapshot ID: `MCxmODgxYWNkMDE0NmU5ZWM5ODI2YTNiMjY3NzkyYmUzZTZhMTMxNWYz`

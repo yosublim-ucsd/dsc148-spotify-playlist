@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1WQ9A9zKTTU5msWTMqraiP.md) - [plain]
 
 > Deathcore Playlist
 
-[Hafitz](https://open.spotify.com/user/7wxw9ydcqjc4ta495h73jpcjf) - 18 likes - 246 songs - 17 hr 5 min
+[Hafitz](https://open.spotify.com/user/7wxw9ydcqjc4ta495h73jpcjf) - 18 likes - 248 songs - 17 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -254,5 +254,7 @@ pretty - [cumulative](/playlists/cumulative/1WQ9A9zKTTU5msWTMqraiP.md) - [plain]
 | 244 | [The Curse](https://open.spotify.com/track/4nZtrosAnW8gZWZiwClKBr) | [It Comes at Night](https://open.spotify.com/artist/0BmwjZW5Ksdz1uRs70IRLl) | [The Curse](https://open.spotify.com/album/3qZp5YQttKPPljhc0uLWnY) | 3:38 |
 | 245 | [Bound in Misery](https://open.spotify.com/track/6dDqwJT8ILra6LVsNb8qc6) | [Impuritan](https://open.spotify.com/artist/6WPUYW0KEbNPqs7Ipxl1jJ) | [Wrath](https://open.spotify.com/album/2i9pSs1QY4rFJ2ETZoORH0) | 3:31 |
 | 246 | [A Flicker Of Life](https://open.spotify.com/track/06eKum3DRo2saJdTZk4cV1) | [The Voynich Code](https://open.spotify.com/artist/7I2a6G196mt3zp1Qs0EAkj) | [A Flicker Of Life](https://open.spotify.com/album/14Nhh0lXISxvBoPegtnnk3) | 4:21 |
+| 247 | [Grotesque Throne](https://open.spotify.com/track/58hSyNtXJ9KBZ6f7nGQyJx) | [No Signs of Life](https://open.spotify.com/artist/03t9WHYJRG1swfSu9VS5EZ) | [Grotesque Throne](https://open.spotify.com/album/2Ks6NiNSzoasDtb1xLKnQD) | 5:42 |
+| 248 | [A Forbidden Pleasure](https://open.spotify.com/track/7DkGXkeoAntsrrk6R1BXvs) | [Blacks0n](https://open.spotify.com/artist/50kiZmpRIqA5otYPDCyB0U) | [Cry for Inspiration](https://open.spotify.com/album/4LyYASNLEnSlMFamVJA6c3) | 3:46 |
 
-Snapshot ID: `MzUzLGIxNjA2Mjk5ZTc1OGVmNmM3ODQyOWZhNTZlN2JlMTMxZDlkNGU0M2E=`
+Snapshot ID: `MzU1LGUzN2JkZWNkN2M2NjQ2YTVhM2NlMjVhMmI2N2I3NzM3MTZkYzBiMWY=`

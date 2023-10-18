@@ -4,7 +4,7 @@
 
 > أحدث الأغاني المصرية هنا🤩 الغلاف:<a href="https://open.spotify.com/artist/2KJgliIl1dMyeOMyCcnYv7?si=3qmWiryeQw2ebI\-jOFrEVA"> بهاء سلطان </a>
 
-680 songs - 1 day 14 hr 30 min
+681 songs - 1 day 14 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -136,6 +136,7 @@
 | [Eish'ha B Afia](https://open.spotify.com/track/0VoGUSTCDyz5855v4S278P) | [Hassan El Shafei](https://open.spotify.com/artist/62HptqyCczb1325UIjFF7x), [Nancy Ajram](https://open.spotify.com/artist/0LnHdW6HMPoOlNdhG3DHjE), [Marwan Pablo](https://open.spotify.com/artist/56chSp36PsMhpQvUn1kdR3) | [Eish'ha B Afia](https://open.spotify.com/album/3qgIRDfNgnyxHi0YykyrWW) | 3:18 | 2022-08-12 | 2022-11-04 |
 | [Ekhtary](https://open.spotify.com/track/2V3E17nHsmFLpuV3aswZKn) | [Rawan Bin Hussain](https://open.spotify.com/artist/2EwH8s2tM7Oxp45dIW6oNQ) | [اختاري](https://open.spotify.com/album/3ty4b0EddF0sWH4FyMtYpi) | 3:20 | 2022-09-26 | 2022-12-24 |
 | [El Alb Galo Hoboot](https://open.spotify.com/track/1moe9UH2JUoBYes6RzrUk6) | [Ahmed Sheba](https://open.spotify.com/artist/7BugP3twaHMfVgDlgiEvLc) | [El Alb Galo Hoboot](https://open.spotify.com/album/1qqhyewwExUUhz98GwuWPa) | 4:43 | 2021-12-23 | 2022-03-10 |
+| [El Amal We El Noor Fe Eedak](https://open.spotify.com/track/0R9RoVQip12AW82kNNX9UF) | [Hany Mehanna](https://open.spotify.com/artist/3h9X1RMf1TfyNGntWJZdJ2), [Ehab Yunis](https://open.spotify.com/artist/3UmYYEQUym9QNV5mWCV2Gp) | [Red Bull Sika](https://open.spotify.com/album/6HsfsZfT4XutmUQFvHM3Rz) | 3:58 | 2023-10-17 |  |
 | [El Ashkhas El Ghalat](https://open.spotify.com/track/1cVZZhxBVFBjkDOwuNdxro) | [Fadel Chaker](https://open.spotify.com/artist/1LljnS3oumQ36wdBhkPKrs) | [El Ashkhas El Ghalat](https://open.spotify.com/album/0K8IbRnIP3S6RCv1Enu8LF) | 3:04 | 2023-08-23 |  |
 | [El Baghdada](https://open.spotify.com/track/3yDim9SxoE7Pdy6kTncHdl) | [Joseph Attieh](https://open.spotify.com/artist/5DPb3SKW8QZFwkRlmt7Gvo) | [El Baghdada](https://open.spotify.com/album/5GyhSegrimrOsUJQXWMuif) | 3:21 | 2023-05-30 | 2023-07-14 |
 | [El Dalaa](https://open.spotify.com/track/7wue5LasVYYkXBBmblfavk) | [Bahaa Sultan](https://open.spotify.com/artist/2KJgliIl1dMyeOMyCcnYv7) | [El Dalaa](https://open.spotify.com/album/2FdayiAJ0mgrFNERd5AOx5) | 2:46 | 2023-07-18 | 2023-09-29 |
@@ -149,7 +150,7 @@
 | [El Halazona](https://open.spotify.com/track/69yrkIjdgcPmdTQZPhLw1p) | [Mohammad Assaf](https://open.spotify.com/artist/0IjIdnhlsKfAfOl5ph5TsE) | [El Halazona](https://open.spotify.com/album/4s3leAWo7u3Ml5DhRvCmWi) | 3:48 | 2021-12-23 | 2021-12-30 |
 | [El Haraka de](https://open.spotify.com/track/1IhGkxXcW4vFBR9dHP5To9) | [Ahmed Helmy](https://open.spotify.com/artist/6weFHq6TU2aoz3eb6JNSbB) | [El Haraka de](https://open.spotify.com/album/4xoAvWYktjyTSA8lBuFIxJ) | 2:58 | 2022-05-05 | 2022-08-23 |
 | [El Kol Aleek Bynim](https://open.spotify.com/track/1UxUEJLNktXHDMzMJwbre9) | [Mahmoud El Esseily](https://open.spotify.com/artist/7MGFOSQK8O3im8YslR3DLB) | [El Kol Aleek Bynim](https://open.spotify.com/album/0nkHFkycDoIT3u5N2ugM6q) | 2:52 | 2023-08-09 | 2023-09-26 |
-| [El Lawlabeya](https://open.spotify.com/track/6aD8DGu8n2ssx7mbfYyOwR) | [Sandy](https://open.spotify.com/artist/2YvRrakSWfzyWwv8JCeeC5) | [El Lawlabeya](https://open.spotify.com/album/4jo5qM0siknAtHaJBgtpCy) | 2:47 | 2023-08-28 |  |
+| [El Lawlabeya](https://open.spotify.com/track/6aD8DGu8n2ssx7mbfYyOwR) | [Sandy](https://open.spotify.com/artist/2YvRrakSWfzyWwv8JCeeC5) | [El Lawlabeya](https://open.spotify.com/album/4jo5qM0siknAtHaJBgtpCy) | 2:47 | 2023-08-28 | 2023-10-18 |
 | [El Leila Eid](https://open.spotify.com/track/1v6xHWH5koUiYp1PYYDjGS) | [Hakim](https://open.spotify.com/artist/1xCRJ0XrcQKEkjk50ILWbt) | [El Leila Eid](https://open.spotify.com/album/3Vao3BYiDmnLLtoLJa8HoU) | 3:08 | 2022-05-01 | 2022-08-09 |
 | [El Mawdou3](https://open.spotify.com/track/2s4nQbVCaFH2m12kzddHCL) | [Sherif ElBahey](https://open.spotify.com/artist/72S98nXzuQTo3LYFo2utSo) | [El Mawdou3](https://open.spotify.com/album/5vvr3pRUrFgc17NVbyCBFh) | 4:00 | 2021-12-23 | 2021-12-31 |
 | [El Nafseya](https://open.spotify.com/track/5NdVyOLoXDVQaaDHcJRI8S) | [Ahmed Saad](https://open.spotify.com/artist/5D2ui1KD49TfyCDb35zf5V) | [El Nafseya](https://open.spotify.com/album/2e14G407cbG5rCgRVzgiSh) | 4:52 | 2022-03-11 | 2022-07-07 |

@@ -1,12 +1,12 @@
 {
   "description": "Hardcore and uptempo to get you pumped",
-  "num_followers": 61440,
+  "num_followers": 61568,
   "original_name": "Hardcore Rage 2023",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5OGUxYWRiYzcyN2I3NmFlNTIwMDNlOTFlYjVjNWNjYmI3MGI0OTk1",
+  "snapshot_id": "MCwyNTBmYzcyY2E4YzI5MjA1MmU3MDYxYzc1NzQzOTEzYjFkN2Q5MzUw",
   "tracks": [
     {
       "added_at": "2023-10-16 16:16:08",
@@ -359,6 +359,22 @@
     {
       "added_at": "2023-10-16 16:16:08",
       "album": {
+        "name": "Bring It Hardcore",
+        "url": "https://open.spotify.com/album/6Rpr2axSXD0r9B66J6WOYc"
+      },
+      "artists": [
+        {
+          "name": "D-Ceptor",
+          "url": "https://open.spotify.com/artist/5s7xFwsoYphyICMHiXSJ0L"
+        }
+      ],
+      "duration_ms": 284494,
+      "name": "Bring It Hardcore",
+      "url": "https://open.spotify.com/track/3s3TQQciJdZ6ZlKJoZjdHp"
+    },
+    {
+      "added_at": "2023-10-16 16:16:08",
+      "album": {
         "name": "Killing No More",
         "url": "https://open.spotify.com/album/1LhYCeq7pzu6QWlLVfk169"
       },
@@ -375,22 +391,6 @@
       "duration_ms": 156979,
       "name": "Killing No More",
       "url": "https://open.spotify.com/track/7LSbuUA9AtvZqec21ajsfQ"
-    },
-    {
-      "added_at": "2023-10-16 16:16:08",
-      "album": {
-        "name": "Bring It Hardcore",
-        "url": "https://open.spotify.com/album/6Rpr2axSXD0r9B66J6WOYc"
-      },
-      "artists": [
-        {
-          "name": "D-Ceptor",
-          "url": "https://open.spotify.com/artist/5s7xFwsoYphyICMHiXSJ0L"
-        }
-      ],
-      "duration_ms": 284494,
-      "name": "Bring It Hardcore",
-      "url": "https://open.spotify.com/track/3s3TQQciJdZ6ZlKJoZjdHp"
     },
     {
       "added_at": "2023-10-16 16:16:08",
@@ -435,22 +435,6 @@
     {
       "added_at": "2023-10-16 16:16:08",
       "album": {
-        "name": "M.D.E.",
-        "url": "https://open.spotify.com/album/0rfp7y1AKvJ4fJbK2VFtqM"
-      },
-      "artists": [
-        {
-          "name": "The Straikerz",
-          "url": "https://open.spotify.com/artist/23YqfnxHhNcTMAkU4hxl1l"
-        }
-      ],
-      "duration_ms": 152253,
-      "name": "M.D.E.",
-      "url": "https://open.spotify.com/track/4KO7NEzBt47IkcV5MdgICy"
-    },
-    {
-      "added_at": "2023-10-16 16:16:08",
-      "album": {
         "name": "The Chop Game",
         "url": "https://open.spotify.com/album/77fohbVi79RssB18lmWX1S"
       },
@@ -463,6 +447,22 @@
       "duration_ms": 187200,
       "name": "The Chop Game",
       "url": "https://open.spotify.com/track/4jp0Z4REkbEeGmSgTlf18C"
+    },
+    {
+      "added_at": "2023-10-16 16:16:08",
+      "album": {
+        "name": "M.D.E.",
+        "url": "https://open.spotify.com/album/0rfp7y1AKvJ4fJbK2VFtqM"
+      },
+      "artists": [
+        {
+          "name": "The Straikerz",
+          "url": "https://open.spotify.com/artist/23YqfnxHhNcTMAkU4hxl1l"
+        }
+      ],
+      "duration_ms": 152253,
+      "name": "M.D.E.",
+      "url": "https://open.spotify.com/track/4KO7NEzBt47IkcV5MdgICy"
     },
     {
       "added_at": "2023-10-16 16:16:08",
@@ -983,22 +983,6 @@
     {
       "added_at": "2023-10-16 16:16:08",
       "album": {
-        "name": "Without Respect",
-        "url": "https://open.spotify.com/album/1HchmgP9OViO0fwt5IJGhw"
-      },
-      "artists": [
-        {
-          "name": "System of Fury",
-          "url": "https://open.spotify.com/artist/6Qzf4osFUb1YZBMynU2FmN"
-        }
-      ],
-      "duration_ms": 205000,
-      "name": "Without Respect",
-      "url": "https://open.spotify.com/track/4jnzaXsBg7Y938Q7Po9LFd"
-    },
-    {
-      "added_at": "2023-10-16 16:16:08",
-      "album": {
         "name": "Not Afraid to Fall",
         "url": "https://open.spotify.com/album/45XBkkNEnLzgSQJFWMqo92"
       },
@@ -1011,6 +995,22 @@
       "duration_ms": 185230,
       "name": "Not Afraid to Fall",
       "url": "https://open.spotify.com/track/6YLTwVpwO2OwuKPq5MC5oe"
+    },
+    {
+      "added_at": "2023-10-16 16:16:08",
+      "album": {
+        "name": "Without Respect",
+        "url": "https://open.spotify.com/album/1HchmgP9OViO0fwt5IJGhw"
+      },
+      "artists": [
+        {
+          "name": "System of Fury",
+          "url": "https://open.spotify.com/artist/6Qzf4osFUb1YZBMynU2FmN"
+        }
+      ],
+      "duration_ms": 205000,
+      "name": "Without Respect",
+      "url": "https://open.spotify.com/track/4jnzaXsBg7Y938Q7Po9LFd"
     },
     {
       "added_at": "2023-10-16 16:16:08",
@@ -1167,22 +1167,6 @@
     {
       "added_at": "2023-10-16 16:16:08",
       "album": {
-        "name": "Beastmode",
-        "url": "https://open.spotify.com/album/4SX8CfWWnB4zeUnvhG1WKY"
-      },
-      "artists": [
-        {
-          "name": "Evil Activities",
-          "url": "https://open.spotify.com/artist/1Y1sNScqx8BPZceaO7LjTO"
-        }
-      ],
-      "duration_ms": 241333,
-      "name": "Beastmode",
-      "url": "https://open.spotify.com/track/2NRNiUqKzAAt2CQL1FWSMU"
-    },
-    {
-      "added_at": "2023-10-16 16:16:08",
-      "album": {
         "name": "Mutilate",
         "url": "https://open.spotify.com/album/1N5ZJaQFOrT6GJnqUW2c6b"
       },
@@ -1199,6 +1183,22 @@
       "duration_ms": 230281,
       "name": "Mutilate",
       "url": "https://open.spotify.com/track/5Th8O9vWzImhIqb1kO8TLE"
+    },
+    {
+      "added_at": "2023-10-16 16:16:08",
+      "album": {
+        "name": "Beastmode",
+        "url": "https://open.spotify.com/album/4SX8CfWWnB4zeUnvhG1WKY"
+      },
+      "artists": [
+        {
+          "name": "Evil Activities",
+          "url": "https://open.spotify.com/artist/1Y1sNScqx8BPZceaO7LjTO"
+        }
+      ],
+      "duration_ms": 241333,
+      "name": "Beastmode",
+      "url": "https://open.spotify.com/track/2NRNiUqKzAAt2CQL1FWSMU"
     },
     {
       "added_at": "2023-10-16 16:16:08",
@@ -1331,6 +1331,22 @@
     {
       "added_at": "2023-10-16 16:16:08",
       "album": {
+        "name": "Adrenaline Kicks",
+        "url": "https://open.spotify.com/album/0CydGc9RB0mcPrEYEVOhoN"
+      },
+      "artists": [
+        {
+          "name": "Jur Terreur",
+          "url": "https://open.spotify.com/artist/1NNaj24msWMhbVRbLxga0u"
+        }
+      ],
+      "duration_ms": 160390,
+      "name": "Adrenaline Kicks",
+      "url": "https://open.spotify.com/track/5pgQRiuJ0dKnimS6wkpNfA"
+    },
+    {
+      "added_at": "2023-10-16 16:16:08",
+      "album": {
         "name": "READY 4 WAR",
         "url": "https://open.spotify.com/album/3KX00M9fI6G2H1mlFzvPKi"
       },
@@ -1347,22 +1363,6 @@
       "duration_ms": 172729,
       "name": "READY 4 WAR",
       "url": "https://open.spotify.com/track/2eDDUox0c2zSscKUq3ePFK"
-    },
-    {
-      "added_at": "2023-10-16 16:16:08",
-      "album": {
-        "name": "Adrenaline Kicks",
-        "url": "https://open.spotify.com/album/0CydGc9RB0mcPrEYEVOhoN"
-      },
-      "artists": [
-        {
-          "name": "Jur Terreur",
-          "url": "https://open.spotify.com/artist/1NNaj24msWMhbVRbLxga0u"
-        }
-      ],
-      "duration_ms": 160390,
-      "name": "Adrenaline Kicks",
-      "url": "https://open.spotify.com/track/5pgQRiuJ0dKnimS6wkpNfA"
     },
     {
       "added_at": "2023-10-16 16:16:08",
@@ -1479,6 +1479,22 @@
     {
       "added_at": "2023-10-16 16:16:08",
       "album": {
+        "name": "BOW DOWN",
+        "url": "https://open.spotify.com/album/10RoPitNvB3vJHJtUs2ZSv"
+      },
+      "artists": [
+        {
+          "name": "DEEZL",
+          "url": "https://open.spotify.com/artist/5Gmt205UikGABaRkBaTX5L"
+        }
+      ],
+      "duration_ms": 179240,
+      "name": "BOW DOWN",
+      "url": "https://open.spotify.com/track/2K4gRuinu1DlimC30iJLNb"
+    },
+    {
+      "added_at": "2023-10-16 16:16:08",
+      "album": {
         "name": "Adrenaline (Never Surrender Remix)",
         "url": "https://open.spotify.com/album/6P4DBRI39lfKRvfXMqBrh9"
       },
@@ -1495,22 +1511,6 @@
       "duration_ms": 167996,
       "name": "Adrenaline - Never Surrender Remix",
       "url": "https://open.spotify.com/track/03pFdMTSGSDtCKlzUfD0Q5"
-    },
-    {
-      "added_at": "2023-10-16 16:16:08",
-      "album": {
-        "name": "BOW DOWN",
-        "url": "https://open.spotify.com/album/10RoPitNvB3vJHJtUs2ZSv"
-      },
-      "artists": [
-        {
-          "name": "DEEZL",
-          "url": "https://open.spotify.com/artist/5Gmt205UikGABaRkBaTX5L"
-        }
-      ],
-      "duration_ms": 179240,
-      "name": "BOW DOWN",
-      "url": "https://open.spotify.com/track/2K4gRuinu1DlimC30iJLNb"
     },
     {
       "added_at": "2023-10-16 16:16:08",
@@ -1795,22 +1795,6 @@
     {
       "added_at": "2023-10-16 16:16:08",
       "album": {
-        "name": "Ruthless For Life",
-        "url": "https://open.spotify.com/album/3rhZ9GJY55O4BxfxX0RP5i"
-      },
-      "artists": [
-        {
-          "name": "Chaos Project",
-          "url": "https://open.spotify.com/artist/31yN9ocbPndhIWUxTIQArT"
-        }
-      ],
-      "duration_ms": 168600,
-      "name": "Ruthless For Life",
-      "url": "https://open.spotify.com/track/5nw5bT4RGTpXsqSISwQKuS"
-    },
-    {
-      "added_at": "2023-10-16 16:16:08",
-      "album": {
         "name": "TH3 FL0W",
         "url": "https://open.spotify.com/album/11ykfjfk1g4ZJjsx7tEM9J"
       },
@@ -1823,6 +1807,22 @@
       "duration_ms": 154272,
       "name": "TH3 FL0W",
       "url": "https://open.spotify.com/track/67pe3dZk02n1cXjtPbXuHh"
+    },
+    {
+      "added_at": "2023-10-16 16:16:08",
+      "album": {
+        "name": "Ruthless For Life",
+        "url": "https://open.spotify.com/album/3rhZ9GJY55O4BxfxX0RP5i"
+      },
+      "artists": [
+        {
+          "name": "Chaos Project",
+          "url": "https://open.spotify.com/artist/31yN9ocbPndhIWUxTIQArT"
+        }
+      ],
+      "duration_ms": 168600,
+      "name": "Ruthless For Life",
+      "url": "https://open.spotify.com/track/5nw5bT4RGTpXsqSISwQKuS"
     },
     {
       "added_at": "2023-10-16 16:16:08",

@@ -6908,7 +6908,7 @@
       ],
       "date_added": "2023-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-18",
       "duration_ms": 147743,
       "name": "GAS",
       "url": "https://open.spotify.com/track/22Uq8APwbxC5vTuQaxswfJ"
@@ -12320,6 +12320,24 @@
       "duration_ms": 178920,
       "name": "Monster",
       "url": "https://open.spotify.com/track/6RwiFA2a6b8xICdSi4wUqk"
+    },
+    {
+      "album": {
+        "name": "Monster (Spotify Singles)",
+        "url": "https://open.spotify.com/album/62iTVhERPubeRu59a3HRqF"
+      },
+      "artists": [
+        {
+          "name": "Slayyyter",
+          "url": "https://open.spotify.com/artist/4QM5QCHicznALtX885CnZC"
+        }
+      ],
+      "date_added": "2023-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237989,
+      "name": "Monster - Spotify Singles",
+      "url": "https://open.spotify.com/track/2EYDqen8Pftl3ENvqOs6fE"
     },
     {
       "album": {

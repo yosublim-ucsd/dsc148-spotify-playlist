@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8mW4CDSm4pA.md) - [plain]
 
 > Sophisticated palates only\. Curated by: <a href="https://www.instagram.com/domfishback/">Dominique Fishback</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 335 likes - 50 songs - 3 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 336 likes - 50 songs - 3 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Self Control](https://open.spotify.com/track/5GUYJTQap5F3RDQiCOJhrS) | [Frank Ocean](https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM) | [Blonde](https://open.spotify.com/album/3mH6qwIy9crq0I9YQbOuDf) | 4:09 |
 | 2 | [Changes](https://open.spotify.com/track/1ofhfV90EnYhEr7Un2fWiv) | [2Pac](https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh), [Talent](https://open.spotify.com/artist/33JfM2NgTRFT9wMoQvcv6T) | [Greatest Hits](https://open.spotify.com/album/1WBZyULtlANBKed7Zf9cDP) | 4:28 |
-| 3 | [Show Me Love](https://open.spotify.com/track/4t0UsYzmmmZRMTWn77jiGF) | [Robin S](https://open.spotify.com/artist/2WvLeseDGPX1slhmxI59G3) | [Show Me Love](https://open.spotify.com/album/2xpjgSvZVYjzdlWxeAJFy8) | 4:12 |
-| 4 | [Ultralight Beam](https://open.spotify.com/track/1eQBEelI2NCy7AUTerX0KS) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [The Life Of Pablo](https://open.spotify.com/album/7gsWAHLeT0w7es6FofOXk1) | 5:20 |
+| 3 | [Ultralight Beam](https://open.spotify.com/track/1eQBEelI2NCy7AUTerX0KS) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [The Life Of Pablo](https://open.spotify.com/album/7gsWAHLeT0w7es6FofOXk1) | 5:20 |
+| 4 | [Show Me Love](https://open.spotify.com/track/4t0UsYzmmmZRMTWn77jiGF) | [Robin S](https://open.spotify.com/artist/2WvLeseDGPX1slhmxI59G3) | [Show Me Love](https://open.spotify.com/album/2xpjgSvZVYjzdlWxeAJFy8) | 4:12 |
 | 5 | [CUFF IT \- WETTER REMIX](https://open.spotify.com/track/7eQpbVg3tjHmtdOlAHxaTr) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [CUFF IT](https://open.spotify.com/album/7BJjZgzGzpll0t8CEzjILs) | 4:09 |
 | 6 | [Agape](https://open.spotify.com/track/2IvnDjlgH8yy70Nz99UdcJ) | [Nicholas Britell](https://open.spotify.com/artist/18oYqNtcLUHrqO7LfX7qni) | [If Beale Street Could Talk \(Original Motion Picture Score\)](https://open.spotify.com/album/0fJDCdcog8975mFnYSCKZT) | 2:55 |
 | 7 | [The Tracks Of My Tears](https://open.spotify.com/track/6QyQmdvQ1ywNccYa0pwLNQ) | [Smokey Robinson & The Miracles](https://open.spotify.com/artist/6TKOZZDd5uV5KnyC5G4MUt) | [Going To A Go\-Go](https://open.spotify.com/album/2NT1Pc0MXlXORHLBkHyKQW) | 2:54 |
@@ -53,10 +53,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8mW4CDSm4pA.md) - [plain]
 | 43 | [Gold](https://open.spotify.com/track/5dAD6gxUH9Bo9nwsKNHRo0) | [Joseph Solomon](https://open.spotify.com/artist/0hZEO1Bl2QRGUaeeSLWDYN) | [Find Me](https://open.spotify.com/album/78Kr4ruzKsm21euYuovY7C) | 3:27 |
 | 44 | [I Loves You, Porgy](https://open.spotify.com/track/2g3C9WXJ33RPdW18ZZGFlD) | [Nina Simone](https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO) | [Nina with Strings](https://open.spotify.com/album/1wAn07zcivIIKWKAg2xIry) | 4:03 |
 | 45 | [Mean](https://open.spotify.com/track/54FJsCzX921AbmHchPluHd) | [Isea](https://open.spotify.com/artist/6zXvAqkCxo8BPDdLHhJQHI), [Chris Oliver](https://open.spotify.com/artist/6NtlujLazDbrVqvm2YRtOS), [Shep](https://open.spotify.com/artist/4FrUg4jMTAlZHhBsOIYGJV) | [Universe Ready](https://open.spotify.com/album/1ZY5SeMoAOtQ9G1n1s13Gl) | 2:21 |
-| 46 | [Burning in Birmingham](https://open.spotify.com/track/0IAXIvpoVgk4QWxZ3iazyr) | [AMYRA](https://open.spotify.com/artist/6xIk8My2lEjdywaDBeN5qC) | [Something Melancholy](https://open.spotify.com/album/6IyDksveIfiFQqNyTq25Xy) | 6:32 |
+| 46 | [Blame](https://open.spotify.com/track/7mQpC4igq6LyBjoNMiaXpm) | [Dhuwii](https://open.spotify.com/artist/4K99Xrq0vBtnKg1AAkSSxC) | [Blame](https://open.spotify.com/album/71DZFJCQscYip43tFMaWbN) | 3:11 |
 | 47 | [Selah](https://open.spotify.com/track/5HKjmf29Oym6yAUASbKtOs) | [Ms\. Lauryn Hill](https://open.spotify.com/artist/2Mu5NfyYm8n5iTomuKAEHl) | [Divine Secrets Of The Ya\-Ya Sisterhood \- Music From The Motion Picture](https://open.spotify.com/album/5N7fdHkKj57D2dmFEIDdgJ) | 5:54 |
-| 48 | [Blame](https://open.spotify.com/track/7mQpC4igq6LyBjoNMiaXpm) | [Dhuwii](https://open.spotify.com/artist/4K99Xrq0vBtnKg1AAkSSxC) | [Blame](https://open.spotify.com/album/71DZFJCQscYip43tFMaWbN) | 3:11 |
+| 48 | [Burning in Birmingham](https://open.spotify.com/track/4SAGhPbeUoYH2w2BP85AK2) | [AMYRA](https://open.spotify.com/artist/6xIk8My2lEjdywaDBeN5qC) | [Something Melancholy](https://open.spotify.com/album/5vjsx7xcvF3WA7UbNZRPqK) | 6:32 |
 | 49 | [The Passion](https://open.spotify.com/track/1j1SEf9cpBQ0azBl7qKnGm) | [Ms\. Lauryn Hill](https://open.spotify.com/artist/2Mu5NfyYm8n5iTomuKAEHl) | [The Passion Of The Christ: Songs](https://open.spotify.com/album/5DmO1nHehQ5oS3FXPQuZTF) | 5:45 |
 | 50 | [Bitter Sweet](https://open.spotify.com/track/5oZWMoyco56vs88S9GbWwU) | [Isea](https://open.spotify.com/artist/6zXvAqkCxo8BPDdLHhJQHI) | [Universe Ready](https://open.spotify.com/album/1ZY5SeMoAOtQ9G1n1s13Gl) | 2:26 |
 
-Snapshot ID: `MCxkYmRmNmU1N2M0NDYyMDdiZTNmNWFmZjk3Y2RjNWQzYjk1YzFiMDRh`
+Snapshot ID: `MCwyYWMwMThjNGIzZTYwMjFhZGI1YzJmZDE3OWNiNzQzNzU5ZDJjODYy`

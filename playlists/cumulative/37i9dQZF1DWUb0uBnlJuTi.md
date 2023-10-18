@@ -4,7 +4,7 @@
 
 > Jazz\. But funky\. Cover: Takuya Kuroda
 
-357 songs - 1 day 3 hr 31 min
+358 songs - 1 day 3 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -341,8 +341,9 @@
 | [V Neck Sweater](https://open.spotify.com/track/2QdcIeRxcBbTQk3B6fng25) | [The Greyboy Allstars](https://open.spotify.com/artist/3G8x1XQX8nCXYouEfMrP07) | [What Happened To Television?](https://open.spotify.com/album/6y4pGQRe2Nipa05NbGwsCq) | 2:35 | 2020-10-09 | 2022-07-04 |
 | [V\-Neck Sweater](https://open.spotify.com/track/5K5NAQrHIX5OdHdGgAVfIx) | [The Greyboy Allstars](https://open.spotify.com/artist/3G8x1XQX8nCXYouEfMrP07) | [What Happened to Television?](https://open.spotify.com/album/2guvIXBJ1DeKg1c85D8j6C) | 2:35 | 2020-10-09 | 2023-03-11 |
 | [Voyager One \(feat\. Nate Smith & Bobby Sparks II\)](https://open.spotify.com/track/29p9C7pmhax5CCrfR1SD5m) | [Mark Lettieri](https://open.spotify.com/artist/3USL7r0FYOWUiTPQGz3HpP), [Bobby Sparks II](https://open.spotify.com/artist/230coKMlIqckCdCumrrCkG), [Nate Smith](https://open.spotify.com/artist/3C1TdpEowpf6AMf7PycuWy) | [Deep: The Baritone Sessions, Vol\. 2](https://open.spotify.com/album/695G3vOrMvFhQw2DXkPnOu) | 5:53 | 2021-04-16 |  |
-| [War Dance](https://open.spotify.com/track/2tEEhDH6gxSAAzj0aJzpWO) | [Kokoroko](https://open.spotify.com/artist/3u9rbdcmA6CxjxOAkjaeFr) | [Could We Be More](https://open.spotify.com/album/5pJXka0Joj77KqooPlQwFu) | 5:38 | 2022-08-12 |  |
+| [War Dance](https://open.spotify.com/track/2tEEhDH6gxSAAzj0aJzpWO) | [Kokoroko](https://open.spotify.com/artist/3u9rbdcmA6CxjxOAkjaeFr) | [Could We Be More](https://open.spotify.com/album/5pJXka0Joj77KqooPlQwFu) | 5:38 | 2022-08-12 | 2023-10-18 |
 | [War Dance](https://open.spotify.com/track/3b86b9BbVcFY307DXiiaP8) | [Kokoroko](https://open.spotify.com/artist/3u9rbdcmA6CxjxOAkjaeFr) | [Could We Be More](https://open.spotify.com/album/2EN95hEamtoztxIF6WATgZ) | 5:38 | 2022-08-05 | 2023-04-30 |
+| [War Dance](https://open.spotify.com/track/56CKIlaRH80QcLHEuU1tUE) | [Kokoroko](https://open.spotify.com/artist/3u9rbdcmA6CxjxOAkjaeFr) | [Could We Be More](https://open.spotify.com/album/48e8LFqiVUxumlXDIVyNYl) | 5:38 | 2022-08-12 |  |
 | [Watermelon Man](https://open.spotify.com/track/2zQl59dZMzwhrmeSBEgiXY) | [Herbie Hancock](https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW) | [Head Hunters](https://open.spotify.com/album/5fmIolILp5NAtNYiRPjhzA) | 6:28 | 2020-10-09 |  |
 | [We Change \- Part I](https://open.spotify.com/track/3FbfmIk5HTatLxCrGH22z5) | [Brandon Coleman](https://open.spotify.com/artist/1bCEhVC3192xS5WteIaXOs), [Kamasi Washington](https://open.spotify.com/artist/6HQYnRM4OzToCYPpVBInuU) | [Interstellar Black Space](https://open.spotify.com/album/4hwDNOEvEfPSKCsByLpapO) | 4:54 | 2022-05-20 |  |
 | [We Gettin' Down](https://open.spotify.com/track/4bJtIjDIOlY5z7GweNcGq3) | [Nautilus](https://open.spotify.com/artist/4BkWJqgQzg2M6iVG8u8mPA) | [We Gettin' Down / Nautical Table](https://open.spotify.com/album/3eOTsQqf3meYH8xlv9PYgH) | 4:08 | 2022-11-04 | 2023-05-06 |

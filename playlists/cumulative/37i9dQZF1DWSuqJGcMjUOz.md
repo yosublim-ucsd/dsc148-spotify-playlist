@@ -4,7 +4,7 @@
 
 > La liste de lecture officielle de l’édition 2023 des Francos de Montréal!
 
-315 songs - 18 hr 6 min
+316 songs - 18 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -219,7 +219,8 @@
 | [Nouveau monde](https://open.spotify.com/track/0OSJ5W0WTd6zfUn3fi2zFt) | [Corneille](https://open.spotify.com/artist/2GBDOaCl73BVUs2RerIme7) | [Encre rose](https://open.spotify.com/album/0Qsu1nA0ajaW7wbRCoywq2) | 3:24 | 2022-05-25 | 2023-04-13 |
 | [Nouveau monde](https://open.spotify.com/track/2njmoIaPd0hKIlCFtyGHUZ) | [Corneille](https://open.spotify.com/artist/2GBDOaCl73BVUs2RerIme7) | [Nouveau monde](https://open.spotify.com/album/0RB3ssBIsJwmBeLezYBCXv) | 3:24 | 2022-05-25 | 2022-11-14 |
 | [Nouveau monde](https://open.spotify.com/track/53w4qhPHp6g8xwEgRv75sh) | [Corneille](https://open.spotify.com/artist/2GBDOaCl73BVUs2RerIme7) | [Encre rose](https://open.spotify.com/album/5ISpNfD59uJPss5CRqRl6o) | 3:24 | 2022-05-25 | 2022-07-29 |
-| [Nouvelle administration](https://open.spotify.com/track/3bh1iLjPXYSzeNRfnobnpu) | [Philippe B](https://open.spotify.com/artist/7FvBLeBeCiWR09phkPyyrf) | [Nouvelle administration](https://open.spotify.com/album/1PYQvFT5MWMb12M1EAKY7u) | 3:18 | 2023-04-12 |  |
+| [Nouvelle administration](https://open.spotify.com/track/3bh1iLjPXYSzeNRfnobnpu) | [Philippe B](https://open.spotify.com/artist/7FvBLeBeCiWR09phkPyyrf) | [Nouvelle administration](https://open.spotify.com/album/1PYQvFT5MWMb12M1EAKY7u) | 3:18 | 2023-04-12 | 2023-10-18 |
+| [Nouvelle administration](https://open.spotify.com/track/5zKfgwMZ96rJuLESVrucMW) | [Philippe B](https://open.spotify.com/artist/7FvBLeBeCiWR09phkPyyrf) | [Nouvelle administration](https://open.spotify.com/album/6TwsW9yNX4nRdcLE29dykh) | 3:18 | 2023-05-25 |  |
 | [On part au soleil](https://open.spotify.com/track/5yikl00UMH0xOi20EZbseB) | [Mort Rose](https://open.spotify.com/artist/1JmY8VAvHw5VxpjXQATbiu) | [Au revoir cowboys](https://open.spotify.com/album/2witoCBGvoGR7a8NDCHWgH) | 4:51 | 2022-05-25 | 2022-07-29 |
 | [Opium](https://open.spotify.com/track/1W325J3EXLqppfS7l8kX8g) | [B.B\. Jacques](https://open.spotify.com/artist/3Op4g1wmQJxGTmeFSQ8z52) | [Poésie d'une pulsion](https://open.spotify.com/album/5QInkfw4rXZuKb0lyThqlb) | 3:26 | 2023-05-24 |  |
 | [Or](https://open.spotify.com/track/6kVJIh50Nw8zDXCQEWAkBT) | [Parazar](https://open.spotify.com/artist/6f0kSez71CExbBGe7WkonD), [OneNessa](https://open.spotify.com/artist/72oaCcX2X3nBhyhZGEjnFK) | [Or](https://open.spotify.com/album/7baidwdjs0YAGX4eKVMK7e) | 3:27 | 2023-05-25 |  |

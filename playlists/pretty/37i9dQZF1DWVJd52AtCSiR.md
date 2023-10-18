@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVJd52AtCSiR.md) - [plain]
 
 > Discover the classical side of your favourite Disney soundtracks.
 
-[Spotify](https://open.spotify.com/user/spotify) - 318,320 likes - 65 songs - 3 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 318,475 likes - 65 songs - 3 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVJd52AtCSiR.md) - [plain]
 | 8 | [How Far I'll Go \- From "Moana"](https://open.spotify.com/track/6VChVf3NAbBtJzvSVEwqJ3) | [Royal Philharmonic Orchestra](https://open.spotify.com/artist/0MvSBMGRQJY3mRwIbJsqF1) | [Disney Goes Classical](https://open.spotify.com/album/3HXbORoFcvwasbK11FdfKg) | 2:48 |
 | 9 | [Let It Go \- From "Frozen"](https://open.spotify.com/track/0mQzAOKpgaG0h85AGjuFuA) | [Royal Philharmonic Orchestra](https://open.spotify.com/artist/0MvSBMGRQJY3mRwIbJsqF1), [Christian Li](https://open.spotify.com/artist/06h3rv6B0pED0LXjFgODBR) | [Disney Goes Classical](https://open.spotify.com/album/3HXbORoFcvwasbK11FdfKg) | 3:43 |
 | 10 | [Under the Stars \- From "The Lion King"/Score](https://open.spotify.com/track/37lotBTQcBbYI7vEoGsOfg) | [Hans Zimmer](https://open.spotify.com/artist/0YC192cP3KPCRWx8zr8MfZ), [Lebo M.](https://open.spotify.com/artist/0zp9qNDSeYi3QEodhcKAAA) | [The Lion King](https://open.spotify.com/album/3YA5DdB3wSz4pdfEXoMyRd) | 3:45 |
-| 11 | [Reflection \- From "Mulan" \(Feat\. Guo Gan\)](https://open.spotify.com/track/6zKNTyScKmZLxsIhh8HcdW) | [Lang Lang](https://open.spotify.com/artist/1YZhNFBxkEB5UKTgMDvot4), [Guo Gan](https://open.spotify.com/artist/4tOUzNaDtg982MvZhzSoAL), [Royal Philharmonic Orchestra](https://open.spotify.com/artist/0MvSBMGRQJY3mRwIbJsqF1), [Robert Ziegler](https://open.spotify.com/artist/6c3mMiMnHQtu4mGWN87CFx) | [The Disney Book \(Deluxe Edition\)](https://open.spotify.com/album/5ADhBk8zOQYwKhiPbGKSH1) | 4:14 |
+| 11 | [Reflection \- From "Mulan" \(Feat\. Guo Gan\)](https://open.spotify.com/track/6zKNTyScKmZLxsIhh8HcdW) | [Lang Lang](https://open.spotify.com/artist/1YZhNFBxkEB5UKTgMDvot4), [Guo Gan \- Chinese Erhu Master](https://open.spotify.com/artist/4tOUzNaDtg982MvZhzSoAL), [Royal Philharmonic Orchestra](https://open.spotify.com/artist/0MvSBMGRQJY3mRwIbJsqF1), [Robert Ziegler](https://open.spotify.com/artist/6c3mMiMnHQtu4mGWN87CFx) | [The Disney Book \(Deluxe Edition\)](https://open.spotify.com/album/5ADhBk8zOQYwKhiPbGKSH1) | 4:14 |
 | 12 | [Vuelie \- From "Frozen"/Score](https://open.spotify.com/track/7tHKjzBYfMZvprnfyHcOK0) | [Christophe Beck](https://open.spotify.com/artist/1GjWNGbMtHDQ7CNYf2d7cw), [Frode Fjellheim](https://open.spotify.com/artist/6dN5CHba8uE3KUZtgzDjGa), [Cantus](https://open.spotify.com/artist/13tmEptE5NPMTxY29lVoEf) | [Frozen \(Original Score\)](https://open.spotify.com/album/7o2waKdsh4gVGgb0KgQlc0) | 1:35 |
 | 13 | [A Dream Is a Wish Your Heart Makes \- Instrumental Version](https://open.spotify.com/track/42qmKRitmeSCKCW3PVPNcQ) | [Mack David](https://open.spotify.com/artist/4tMrFa88Ah85DwbtjQjohF), [Al Hoffman](https://open.spotify.com/artist/2bOYhu5rjw0HUYzJC9Plv7), [Jerry Livingston](https://open.spotify.com/artist/7wRCKMWe6GQPUDr8CauOmf) | [Cinderella \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4MaXQAzgpi1UGNNia9r7fx) | 2:01 |
 | 14 | [The Bell Tower](https://open.spotify.com/track/1Dc6Mb9u2az5sQOvqfOqX7) | [Alan Menken](https://open.spotify.com/artist/5sy77gt4bfsLcSQ8GIe4ZZ) | [The Hunchback Of Notre Dame \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7btQeUDTIIfnh2iCQ8Pfhq) | 3:05 |
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVJd52AtCSiR.md) - [plain]
 | 64 | [Abre Los Ojos](https://open.spotify.com/track/06H5BeXjWXqjslelYiLuB7) | [Germaine Franco](https://open.spotify.com/artist/5NTEjLv3GEX1Vx0ITx9Pxe) | [Encanto \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/25L8ck3KGcmCo3901ztPzR) | 3:16 |
 | 65 | [Finding Dory \(Main Title\)](https://open.spotify.com/track/354K3xQPgALQEOiIYzAMat) | [Thomas Newman](https://open.spotify.com/artist/1csBgT42N4pPPs1HJhxXIK) | [Finding Dory \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1S27vSJrXuHXiBOolInF0j) | 0:55 |
 
-Snapshot ID: `MCwxZTlhYzE0ODAwM2UxMjk5MWU4ZmExZDUwZjUwMWViYTk2MGYwM2Iz`
+Snapshot ID: `MCw2MWZhNTdlOGM2MjA3Y2RhZDU1ODZkMmVjNmI4Nzk2MjNjYmU3ZTNk`

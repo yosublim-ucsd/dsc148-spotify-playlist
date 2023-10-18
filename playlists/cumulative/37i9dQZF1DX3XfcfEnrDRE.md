@@ -4,7 +4,7 @@
 
 > The ever\-evolving sound of Alt! Cover: Gable Price and Friends
 
-173 songs - 11 hr 6 min
+174 songs - 11 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -41,7 +41,7 @@
 | [Conversation](https://open.spotify.com/track/0HgPrONoZRbbsRxsTJgtg3) | [Grace Graber](https://open.spotify.com/artist/5zKLAqfSLwj61spd5ereRK) | [Conversation](https://open.spotify.com/album/5waJx72B7sI3cYPhVDfd7F) | 3:24 | 2022-07-17 |  |
 | [Cornerstone \(feat\. Zach Williams\)](https://open.spotify.com/track/56GZHQ4E3i9w9xgRkzitd4) | [TobyMac](https://open.spotify.com/artist/5VX8hxrcfJWwaTLiqGUHG3), [Zach Williams](https://open.spotify.com/artist/6g10GEtmIVqIQBhPZh4ScQ) | [Life After Death](https://open.spotify.com/album/1WImPglJycAdHQ79c8yRH8) | 3:39 | 2022-12-16 |  |
 | [Crisis Of Faith](https://open.spotify.com/track/6f6nJ6rTSOkv2FRFmUk6ha) | [The War Within](https://open.spotify.com/artist/0OYG29hioeFTMAf8rYSJPh) | [Crisis Of Faith](https://open.spotify.com/album/1WUw7XicfoxqSif4iiFXOi) | 3:48 | 2022-02-27 |  |
-| [DANGEROUS](https://open.spotify.com/track/7j0iPwOZJoqO3J66UbPX6l) | [Anchor & Braille](https://open.spotify.com/artist/0ofu3spkMmDV3INNoMtXbM) | [DANGEROUS](https://open.spotify.com/album/4bQ7tfvG5eQSbSoMoWlZ7G) | 3:42 | 2022-02-27 |  |
+| [DANGEROUS](https://open.spotify.com/track/7j0iPwOZJoqO3J66UbPX6l) | [Anchor & Braille](https://open.spotify.com/artist/0ofu3spkMmDV3INNoMtXbM) | [DANGEROUS](https://open.spotify.com/album/4bQ7tfvG5eQSbSoMoWlZ7G) | 3:42 | 2022-02-27 | 2023-10-18 |
 | [Destiny](https://open.spotify.com/track/7l35PR5pQl5w3QjpBROEl3) | [Skillet](https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8) | [Dominion](https://open.spotify.com/album/1ZUW7enyVvaUZgkcWXk6wG) | 4:02 | 2022-02-27 | 2022-07-18 |
 | [Don't Know If I Believe It](https://open.spotify.com/track/66UdVUAmxmLFSkJQ5PF7Oe) | [JUDAH.](https://open.spotify.com/artist/5LnlX7FdPg0ocmyBzOzDQW), [Jon Foreman](https://open.spotify.com/artist/5D3h9ZoobhetjXw3dKhcaq) | [Don't Know If I Believe It](https://open.spotify.com/album/5gmMOFwX9TofF3zqYMs3Ur) | 4:51 | 2022-02-27 | 2022-03-12 |
 | [Epic](https://open.spotify.com/track/7BqLZYzL8gWa27PsUdqRvp) | [S.O.](https://open.spotify.com/artist/6nELoJ6eMXfYHX5xocKf33) | [Epic](https://open.spotify.com/album/1hoF5ONBHFFxNjOifxbJbz) | 3:37 | 2022-07-17 | 2022-12-17 |
@@ -167,6 +167,7 @@
 | [War Going On](https://open.spotify.com/track/6cIBuZ98m0KM51HOx18AcB) | [Port Duo](https://open.spotify.com/artist/2dmTeILyALVCUMdrPQSMnP) | [War Going On](https://open.spotify.com/album/0qxSyQTMLkMIktzp62IZaJ) | 4:22 | 2022-02-27 |  |
 | [Way, Truth, Life](https://open.spotify.com/track/5INCnWloUf354udWzwGgYs) | [Jonny Henninger](https://open.spotify.com/artist/1L9zhXcitRv35NwUZmwBZ4), [Naomi Mae](https://open.spotify.com/artist/7vNoVbs242w1vl2kaeOfdK) | [Way, Truth, Life](https://open.spotify.com/album/34FQy01AMCNmDh2NJ4ustB) | 2:53 | 2022-02-27 |  |
 | [We Won't Bow](https://open.spotify.com/track/040Nak0IKPUFSDMiqL37b5) | [Kamban](https://open.spotify.com/artist/0mBDRW65svvamuKzjyB5uP) | [We Won't Bow](https://open.spotify.com/album/536bwdqrKaKDLKH0LZgSfE) | 2:52 | 2022-02-27 | 2023-09-28 |
+| [We Won't Bow](https://open.spotify.com/track/4ojRBPB2zTHdEN1k7Xjf2U) | [Kamban](https://open.spotify.com/artist/0mBDRW65svvamuKzjyB5uP) | [We Won't Bow](https://open.spotify.com/album/6uVhZExWu73pEfcx9TDXew) | 2:52 | 2022-12-16 |  |
 | [Where To Find Me](https://open.spotify.com/track/5CxUClSpwnM0bu7CnBky2k) | [Jet Trouble](https://open.spotify.com/artist/6W2lyFO79SNpk3ZpF0A2s9) | [Where To Find Me](https://open.spotify.com/album/5QVDdRmn9AEfo8z1ZD8vrb) | 2:18 | 2022-04-15 |  |
 | [whisper](https://open.spotify.com/track/5iCW4em6gVLIiSnbyUlzPF) | [Sam Bowman](https://open.spotify.com/artist/4cRZTgXsG1S8tR5vtkUqxP) | [whisper](https://open.spotify.com/album/0NhDwb4S51VP84jfOJXxM6) | 2:31 | 2022-12-16 |  |
 | [Who Am I](https://open.spotify.com/track/4qxZb7aRiaqeQaRtwZe3S4) | [NEEDTOBREATHE](https://open.spotify.com/artist/610EjgFatGvVPtib97jQ8G) | [Out of Body](https://open.spotify.com/album/5qg6SgN6aJGLWuv1QU27LC) | 3:27 | 2022-02-27 | 2022-07-18 |

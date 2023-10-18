@@ -1,12 +1,12 @@
 {
   "description": "todo un mood. ",
-  "num_followers": 676063,
+  "num_followers": 676207,
   "original_name": "suave",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxMWE0Mzc0NjFjMTBkZWVhMTJjYzJiNzI4ZmM5MjgxNzZlMWE4MjA0",
+  "snapshot_id": "MCw3Y2E5MmFjMTc3ZDAzY2Y0MTFjYmM3ZGZlZmNlMTM3Y2M3NGI2MWZl",
   "tracks": [
     {
       "added_at": "2023-09-20 16:28:42",
@@ -731,6 +731,22 @@
     {
       "added_at": "2023-09-20 16:28:42",
       "album": {
+        "name": "23 Preguntas",
+        "url": "https://open.spotify.com/album/0iLhDl4hlkoBXLtsfhUg56"
+      },
+      "artists": [
+        {
+          "name": "Anuel AA",
+          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
+        }
+      ],
+      "duration_ms": 251221,
+      "name": "23 Preguntas",
+      "url": "https://open.spotify.com/track/5ANkjNH7elrxzggidjnH9v"
+    },
+    {
+      "added_at": "2023-09-20 16:28:42",
+      "album": {
         "name": "ESTRELLA",
         "url": "https://open.spotify.com/album/0SoJvPHbKVhvmVJOp3kzp3"
       },
@@ -747,22 +763,6 @@
       "duration_ms": 207903,
       "name": "PIDE",
       "url": "https://open.spotify.com/track/2tAwNLAIBtgXdzQOtVq6mL"
-    },
-    {
-      "added_at": "2023-09-20 16:28:42",
-      "album": {
-        "name": "23 Preguntas",
-        "url": "https://open.spotify.com/album/0iLhDl4hlkoBXLtsfhUg56"
-      },
-      "artists": [
-        {
-          "name": "Anuel AA",
-          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
-        }
-      ],
-      "duration_ms": 251221,
-      "name": "23 Preguntas",
-      "url": "https://open.spotify.com/track/5ANkjNH7elrxzggidjnH9v"
     },
     {
       "added_at": "2023-09-20 16:28:42",
@@ -1427,26 +1427,6 @@
     {
       "added_at": "2023-09-20 16:28:42",
       "album": {
-        "name": "NASTU",
-        "url": "https://open.spotify.com/album/6wl31M47YdcV6eNyfXCjCk"
-      },
-      "artists": [
-        {
-          "name": "Rvfv",
-          "url": "https://open.spotify.com/artist/2CCgb0KApjfQDuTppovpf8"
-        },
-        {
-          "name": "Pablo Mas",
-          "url": "https://open.spotify.com/artist/2f6TzIGIIxEuwp6o7kEbhy"
-        }
-      ],
-      "duration_ms": 168367,
-      "name": "Mami",
-      "url": "https://open.spotify.com/track/4FjkjrvfbB3C4eUqWlw3vB"
-    },
-    {
-      "added_at": "2023-09-20 16:28:42",
-      "album": {
         "name": "Vete Pal Carajo",
         "url": "https://open.spotify.com/album/6h1BJzZHeHkAg5jknF3fwD"
       },
@@ -1467,6 +1447,26 @@
       "duration_ms": 176146,
       "name": "Vete Pal Carajo",
       "url": "https://open.spotify.com/track/1mrQYY0NATPCe7WOYcCKf1"
+    },
+    {
+      "added_at": "2023-09-20 16:28:42",
+      "album": {
+        "name": "NASTU",
+        "url": "https://open.spotify.com/album/6wl31M47YdcV6eNyfXCjCk"
+      },
+      "artists": [
+        {
+          "name": "Rvfv",
+          "url": "https://open.spotify.com/artist/2CCgb0KApjfQDuTppovpf8"
+        },
+        {
+          "name": "Pablo Mas",
+          "url": "https://open.spotify.com/artist/2f6TzIGIIxEuwp6o7kEbhy"
+        }
+      ],
+      "duration_ms": 168367,
+      "name": "Mami",
+      "url": "https://open.spotify.com/track/4FjkjrvfbB3C4eUqWlw3vB"
     },
     {
       "added_at": "2023-09-20 16:28:42",
@@ -1931,6 +1931,22 @@
     {
       "added_at": "2023-09-20 16:28:42",
       "album": {
+        "name": "Fing\u00edas",
+        "url": "https://open.spotify.com/album/1V2sg9XB2TP29Ys4ER3fLn"
+      },
+      "artists": [
+        {
+          "name": "Paloma Mami",
+          "url": "https://open.spotify.com/artist/7rOlQwf8OuFLFQp4aydjBt"
+        }
+      ],
+      "duration_ms": 225373,
+      "name": "Fing\u00edas",
+      "url": "https://open.spotify.com/track/7o0oY5wRcoV7oPuDhD2J1z"
+    },
+    {
+      "added_at": "2023-09-20 16:28:42",
+      "album": {
         "name": "Infiel (Remix)",
         "url": "https://open.spotify.com/album/0WHbGKLr25jT5mXcs2nHKf"
       },
@@ -1963,22 +1979,6 @@
       "duration_ms": 297760,
       "name": "Infiel - Remix",
       "url": "https://open.spotify.com/track/5Xe78U9cUwnWOuWbgYvAKZ"
-    },
-    {
-      "added_at": "2023-09-20 16:28:42",
-      "album": {
-        "name": "Fing\u00edas",
-        "url": "https://open.spotify.com/album/1V2sg9XB2TP29Ys4ER3fLn"
-      },
-      "artists": [
-        {
-          "name": "Paloma Mami",
-          "url": "https://open.spotify.com/artist/7rOlQwf8OuFLFQp4aydjBt"
-        }
-      ],
-      "duration_ms": 225373,
-      "name": "Fing\u00edas",
-      "url": "https://open.spotify.com/track/7o0oY5wRcoV7oPuDhD2J1z"
     },
     {
       "added_at": "2023-09-20 16:28:42",
@@ -2099,22 +2099,18 @@
     {
       "added_at": "2023-09-20 16:28:42",
       "album": {
-        "name": "Copas",
-        "url": "https://open.spotify.com/album/3ePBOZm5uPk39Gm1SLAaGs"
+        "name": "Bonita",
+        "url": "https://open.spotify.com/album/1Kuk5x41I3h7f1gKwytNjM"
       },
       "artists": [
         {
-          "name": "Jowell & Randy",
-          "url": "https://open.spotify.com/artist/4IMAo2UQchVFyPH24PAjUs"
-        },
-        {
-          "name": "Maluma",
-          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
+          "name": "Jeeiph",
+          "url": "https://open.spotify.com/artist/6ZtLRqHEkAXPWVw0eRbDac"
         }
       ],
-      "duration_ms": 237388,
-      "name": "Copas",
-      "url": "https://open.spotify.com/track/0YHmnEkFZMrZgryi6yQfJh"
+      "duration_ms": 187428,
+      "name": "Bonita",
+      "url": "https://open.spotify.com/track/7EUvcSFkyVB73zrblhQmEL"
     }
   ],
   "unique_name": "suave",

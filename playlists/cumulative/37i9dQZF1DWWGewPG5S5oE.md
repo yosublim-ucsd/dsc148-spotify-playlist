@@ -2,9 +2,9 @@
 
 ### [Modern Jazz Japan](https://open.spotify.com/playlist/37i9dQZF1DWWGewPG5S5oE)
 
-> 日本の現代ジャズシーンで活躍するアーティストをピックアップ。 cover: Kazumi Tateishi Trio
+> 日本の現代ジャズシーンで活躍するアーティストをピックアップ。 cover: 賽
 
-217 songs - 17 hr 43 min
+219 songs - 17 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,7 +14,7 @@
 | [500 Miles High](https://open.spotify.com/track/1l5B1beJKVDv39E828gCTF) | [石川紅奈](https://open.spotify.com/artist/3UPdKdHrWLHKDMWIMVk5kz) | [Kurena](https://open.spotify.com/album/12ASEzXbr664jCgcU4coZl) | 4:55 | 2023-03-21 |  |
 | [83](https://open.spotify.com/track/75R36NibuUqvqaksKHAhLn) | [THE BED ROOM TAPE](https://open.spotify.com/artist/6FQe8UCJgRKmFoInsr0Sjk) | [83](https://open.spotify.com/album/5Y9LSZnzVuGGW61KdcYdI4) | 3:27 | 2022-09-06 | 2022-11-23 |
 | [A Midsummer Night's Dream](https://open.spotify.com/track/14Ggh4Zw5ry2N1VJhP5La7) | [Ryosuke Kojima](https://open.spotify.com/artist/1RvRcyEoFhC2hxNJ182Vi2) | [A Midsummer Night's Dream](https://open.spotify.com/album/4zrSXhqiZDjPrUEmq924vY) | 4:04 | 2023-08-22 |  |
-| [A Monk In Ascending And Descending](https://open.spotify.com/track/6zl6yzOjSebyndp1FwzHWV) | [Miho Hazama](https://open.spotify.com/artist/2CCeO3wscYC4zDJ0jbrkvV) | [A Monk In Ascending and Descending](https://open.spotify.com/album/7y6OoPAJOs8ddYeWQ6wtFU) | 8:44 | 2023-07-18 |  |
+| [A Monk In Ascending And Descending](https://open.spotify.com/track/6zl6yzOjSebyndp1FwzHWV) | [Miho Hazama](https://open.spotify.com/artist/2CCeO3wscYC4zDJ0jbrkvV) | [A Monk In Ascending and Descending](https://open.spotify.com/album/7y6OoPAJOs8ddYeWQ6wtFU) | 8:44 | 2023-07-18 | 2023-10-18 |
 | [A moving scenery](https://open.spotify.com/track/12Kde7WQLNBuhRbhYLKsMe) | [jizue](https://open.spotify.com/artist/6RuS4udHwx3C9ysk4KXtNw) | [A moving scenery](https://open.spotify.com/album/1omDBH79EAdDBFMMS1ZSvH) | 5:43 | 2023-06-13 | 2023-07-08 |
 | [A moving scenery](https://open.spotify.com/track/6VXtbmnkPAHlx9bdPppdiz) | [jizue](https://open.spotify.com/artist/6RuS4udHwx3C9ysk4KXtNw) | [biotop](https://open.spotify.com/album/1ZUWSB1pe8FbgVF9ACoa3c) | 5:43 | 2023-07-04 | 2023-09-06 |
 | [A moving scenery](https://open.spotify.com/track/6oi7kSSHFeZakUH8kn117V) | [jizue](https://open.spotify.com/artist/6RuS4udHwx3C9ysk4KXtNw) | [A moving scenery](https://open.spotify.com/album/0otxDrqWUcgfEOCz5UInSJ) | 5:43 | 2023-06-13 | 2023-06-15 |
@@ -77,6 +77,7 @@
 | [Hey Ya!](https://open.spotify.com/track/4e6RFlmSuhmluhZBBhdvu2) | [fox capture plan](https://open.spotify.com/artist/7sEmXHrnEnX7PScoJAvSvo) | [Hey Ya!](https://open.spotify.com/album/4oXsNBEkclwgGjX4zKRiDv) | 4:34 | 2023-03-07 | 2023-04-04 |
 | [I Am, Because You Are](https://open.spotify.com/track/1wj3FHoR0swq6HCWxiGyeS) | [海野 雅威](https://open.spotify.com/artist/21xCR4SZh2XrwLsloXp6vx) | [I Am, Because You Are](https://open.spotify.com/album/0iuOHpxqkPyAzEokYTpge5) | 6:49 | 2023-05-23 | 2023-07-12 |
 | [If Sea Could Sing](https://open.spotify.com/track/2NGtsSSgjvq2ZbFxDDnAUT) | [Okada Takuro](https://open.spotify.com/artist/4d4VL0LIBWkVXAq4YZ07wm) | [Betsu No Jikan](https://open.spotify.com/album/6osbGxXryMZUWTlysq7Tcu) | 5:45 | 2022-09-06 | 2022-10-02 |
+| [ILa](https://open.spotify.com/track/4rfNk6NKqmof6v3MvSm2JL) | [賽](https://open.spotify.com/artist/4SnEXsyTXJi4auNP46cr7b) | [ILa](https://open.spotify.com/album/1fgM8l7SrpH7f9qG6iK6kk) | 3:11 | 2023-10-17 |  |
 | [Ishonsho Abe](https://open.spotify.com/track/7tPh9tj8JNZITMuEN8iDOK) | [Martha Kato](https://open.spotify.com/artist/3NvIawjJlIxAqZlfCyodcY) | [Ishonsho Abe](https://open.spotify.com/album/62Io1sWPF4COlD4jBApYk5) | 5:48 | 2022-09-06 | 2023-01-25 |
 | [It's just love](https://open.spotify.com/track/4yqpJakTlgryUCYpgkl8qv) | [MISIA](https://open.spotify.com/artist/3uyDATzOGjbGCts7v2eszk) | [MISIA SOUL JAZZ SESSION](https://open.spotify.com/album/0lAWJPnLw3LQYqPV86qKhd) | 5:50 | 2022-09-06 |  |
 | [Itoshi no Butterfly](https://open.spotify.com/track/41u98WRbYwgUcVtwxCzMC6) | [JiLL\-Decoy association](https://open.spotify.com/artist/4j0lMBCAWtaFqEboLZp8Xe) | [Itoshi no Butterfly](https://open.spotify.com/album/5TTh7b99JHNjfB5Wh0Q6uN) | 5:24 | 2023-07-25 | 2023-08-07 |
@@ -125,7 +126,7 @@
 | [resketch](https://open.spotify.com/track/08TJVPBVXL871ukrtwfIs5) | [PIANO SHIFT](https://open.spotify.com/artist/2NgVrbppUOWDrRtFqxiLgi) | [resketch](https://open.spotify.com/album/6wLcbgKD8OFqSqFieK4Guf) | 3:43 | 2023-06-13 | 2023-08-02 |
 | [Retro Back Summer Action](https://open.spotify.com/track/6AKBzcm7FhGSBWGloW8PIr) | [H ZETTRIO](https://open.spotify.com/artist/5Ga4ie7tlXW9Fc6ObLbSCY) | [Retro Back Summer Action](https://open.spotify.com/album/2T7ZXlKJvux74171KivHr2) | 4:18 | 2023-07-04 | 2023-08-24 |
 | [Rhapsody in Summer](https://open.spotify.com/track/23qk2CJ5m5Qw4X5xWAC3E6) | [Schroeder\-Headz](https://open.spotify.com/artist/3o6lq0SLgILHWwI4dTwsfo) | [Rhapsody in Summer](https://open.spotify.com/album/0yBpvv6qLzwKglmzNs8iPw) | 4:18 | 2023-06-27 | 2023-06-29 |
-| [Rhapsody in Summer](https://open.spotify.com/track/6fAbEe45pqlP4p99UULOyS) | [Schroeder\-Headz](https://open.spotify.com/artist/3o6lq0SLgILHWwI4dTwsfo) | [Rhapsody in Summer](https://open.spotify.com/album/2niNBQtovVrAXXS4hixZhU) | 4:18 | 2023-06-27 |  |
+| [Rhapsody in Summer](https://open.spotify.com/track/6fAbEe45pqlP4p99UULOyS) | [Schroeder\-Headz](https://open.spotify.com/artist/3o6lq0SLgILHWwI4dTwsfo) | [Rhapsody in Summer](https://open.spotify.com/album/2niNBQtovVrAXXS4hixZhU) | 4:18 | 2023-06-27 | 2023-10-18 |
 | [Run&Gun](https://open.spotify.com/track/0BouwM0LLXksQIeoNxHUbr) | [Gecko&Tokage Parade](https://open.spotify.com/artist/1fTpExgFwmHdgnUPZXohFF) | [Run&Gun](https://open.spotify.com/album/3iHVZqJeO5pzwTK00S8tTT) | 3:00 | 2022-12-20 | 2023-01-18 |
 | [S.K.O.](https://open.spotify.com/track/0aT0RypXmcyq56WDJ50nTh) | [4Aces](https://open.spotify.com/artist/0cGZA2kMIfhG2EJ4O6cIoL) | [4Aces](https://open.spotify.com/album/5Oo8yuKWgsWDufeEiolwSN) | 5:26 | 2023-04-25 |  |
 | [SAMURAI \- 2022 version](https://open.spotify.com/track/3lr6p7ELCMXMfxGJgh3FBu) | [Jazztronik](https://open.spotify.com/artist/3TMLgJUsDIxI4CShGh8vYM) | [SAMURAI](https://open.spotify.com/album/5QbYqorcvgyLIGjKcsm02e) | 11:56 | 2022-09-06 | 2023-05-04 |
@@ -190,6 +191,7 @@
 | [When A Man Loves A Woman](https://open.spotify.com/track/5BiOhaS9NGbRPDV2AKzvwZ) | [Massimo Faraò Trio](https://open.spotify.com/artist/58dTi4Xr0bd6yd8XKgimAr) | [Beauty And Funky](https://open.spotify.com/album/3UihgxiHq3bvjCRvcP3hgJ) | 7:45 | 2023-05-23 | 2023-05-31 |
 | [White Runway](https://open.spotify.com/track/6zuiGe5T1RW45DsUzO1c3V) | [EXOTIC SKATES](https://open.spotify.com/artist/0Gmp3J9ioTkaKxeynbZ9CP), [MONKY](https://open.spotify.com/artist/2NFTxb149zkG83xRLkRv4O) | [White Runway](https://open.spotify.com/album/2P0laiKlcFWjr8WUIbiXCe) | 4:42 | 2023-05-30 | 2023-06-13 |
 | [Wind Loop Case](https://open.spotify.com/track/6OYXXJAqJhTlFwr7rrJIdV) | [Yusuke Shima](https://open.spotify.com/artist/0pJNX3A4a4Q6KuMLXgOfa8), [杉浦睦](https://open.spotify.com/artist/7AUgYo9pZu8ijMfRbnlo5G) | [Wind Loop Case](https://open.spotify.com/album/5V0lIK6rdfCCJl8ZxPRml0) | 3:41 | 2022-09-27 | 2023-03-01 |
+| [xii\. Pig](https://open.spotify.com/track/6iLZBega4IaCrxa6qMRxrm) | [市川空](https://open.spotify.com/artist/6r1gCeT5yIWmtnerBQpAmZ) | [84 BPM ZODIAC](https://open.spotify.com/album/1clsgSKtxE8dTLvSYhiRbr) | 1:00 | 2023-10-17 |  |
 | [くちばしにチェリー](https://open.spotify.com/track/5qSOiMOIJ7e6YdRciPafef) | [EGO\-WRAPPIN’](https://open.spotify.com/artist/133lXHKraE97JysMPVLgOX) | [ROUTE 20 HIT THE ROAD](https://open.spotify.com/album/5EQ4i1sBwc4LKmFwqQt8jT) | 4:18 | 2022-09-06 |  |
 | [つつみ込むように・・・](https://open.spotify.com/track/7IP0GZG0CNmqunn2fNduey) | [Udagawa Bekkan Band](https://open.spotify.com/artist/16zommf1ayPqidEsjaJfsh) | [つつみ込むように・・・](https://open.spotify.com/album/246NTHn3VjUlum8XUYKdj2) | 5:10 | 2023-05-16 | 2023-05-18 |
 | [ほとり](https://open.spotify.com/track/0pxQ9OIN7NLZiZAX2C5B7H) | [賽](https://open.spotify.com/artist/4SnEXsyTXJi4auNP46cr7b) | [ほとり](https://open.spotify.com/album/6gpUCKIj7g6zGXlzkJcWBj) | 5:09 | 2022-09-06 | 2022-11-20 |

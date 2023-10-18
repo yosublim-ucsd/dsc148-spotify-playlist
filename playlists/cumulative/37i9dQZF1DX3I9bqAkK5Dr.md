@@ -4,7 +4,7 @@
 
 > Check out the emerging Independent Artists in Telugu.<br/>Cover : Damini Bhatla, Krishna Tejasvi
 
-164 songs - 9 hr 55 min
+165 songs - 9 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,6 +24,7 @@
 | [Cheliya](https://open.spotify.com/track/2jiVEfxgGsN4Q1oQ2f2QFy) | [The Fantasia Men](https://open.spotify.com/artist/5IbZwIG4wFy8JgdIDR76kk) | [Cheliya](https://open.spotify.com/album/5FpUAQhHUYOCDxWwLrrBnL) | 4:35 | 2023-04-26 | 2023-07-04 |
 | [Chilipi Ga](https://open.spotify.com/track/3O4y18Hpe3xMCrZPXGw57n) | [Mejjo Josseph](https://open.spotify.com/artist/0VhJQH4iwGSdo7MbZUGVW9), [K\. S\. Harisankar](https://open.spotify.com/artist/4JXqxFqi9dxlsiXKZhKvzB), [Harshavardhan Reddy](https://open.spotify.com/artist/732gQZFV5HqIwx7LGFnJjQ) | [Nachinavadu](https://open.spotify.com/album/3GHdDuRboogBcfpDCwrtOy) | 3:21 | 2023-05-16 |  |
 | [Chilipi Gnapakam](https://open.spotify.com/track/0fOP4QWtRFAL0tze8ensBC) | [Kishan D'Souza](https://open.spotify.com/artist/0MuPLm7QDoBgAKaxtJeyU6) | [Chilipi Gnapakam](https://open.spotify.com/album/2FfHQomoZy33NCV5DT4TKL) | 3:58 | 2023-10-09 |  |
+| [Chilipi Gnapakam Female Version](https://open.spotify.com/track/6OpwxZxIW10ir69O7VKlED) | [Pragathi Kanadamane](https://open.spotify.com/artist/1hw5AMlFZLM4aLkPl8v7zl) | [Chilipi Gnapakam Female Version](https://open.spotify.com/album/5lfL6nkYydI20rYyHn22Sj) | 4:00 | 2023-10-17 |  |
 | [Chinnari Chinnari](https://open.spotify.com/track/0utRRwGdq6bLJrHTjx4MMJ) | [Anudeep Dev](https://open.spotify.com/artist/11bBHpkCZPkktTsrXAZyql), [P V N S Rohit](https://open.spotify.com/artist/4nSNFU2sKcxxiaPWnmT6JZ) | [Chinnari Chinnari](https://open.spotify.com/album/76QF9hI6MKq9WymR4MknN7) | 3:25 | 2023-02-17 | 2023-05-23 |
 | [Choosthunna Choosthunna](https://open.spotify.com/track/1KSM8nh7qcMk9DC9BxyMKt) | [Anudeep Dev](https://open.spotify.com/artist/11bBHpkCZPkktTsrXAZyql), [Ramya Behara](https://open.spotify.com/artist/4svvMm4TQnkphZJfhLCzzv) | [From The Bottom of My Heart](https://open.spotify.com/album/5uLM5Pxs42aenO0tcqoYNP) | 3:17 | 2023-03-01 | 2023-06-20 |
 | [Chusaane Eevele](https://open.spotify.com/track/46Um0yvfG4sTaqZMGZdVq6) | [Aditya Bheemathati](https://open.spotify.com/artist/7otWOYhWeNnAhMyetbaMws), [Harsha Prawin](https://open.spotify.com/artist/5S7CryoJO91PcKhXVcxQV1) | [Chusaane Eevele](https://open.spotify.com/album/5khSYBDWpdAiglRtrMCIba) | 3:07 | 2023-05-08 |  |
@@ -122,7 +123,7 @@
 | [Panipuri Anthem](https://open.spotify.com/track/0zBSq5bRDfTCu9p8XWjBbg) | [Pranav Chaganty](https://open.spotify.com/artist/3qMXirOtsqGAITRcMp8Dpo) | [Panipuri Anthem](https://open.spotify.com/album/1qRNd3zrxt7fyVzuxy6FwB) | 1:57 | 2023-02-11 |  |
 | [Pedavi Pilichina](https://open.spotify.com/track/2zXqqPBkjIlDvPUgPqCSPN) | [Aditi Bhavaraju](https://open.spotify.com/artist/35LFDqRu6EmXgUqEWeh2j6), [Siddiq Ansari](https://open.spotify.com/artist/5P0itn2JRIjugxZgkORwmu) | [Pedavi Pilichina](https://open.spotify.com/album/3F9xcIaNEgIVQUcBWJvu2e) | 3:49 | 2023-08-25 | 2023-09-21 |
 | [People](https://open.spotify.com/track/0iXylfvuzZEE6mT4Y56ZvP) | [TES](https://open.spotify.com/artist/45bO8rTZ9fQrxXPWBvGiwZ), [EDWRLDMUSICK](https://open.spotify.com/artist/0GvRLozNftPCJkoE2DTrF5) | [People](https://open.spotify.com/album/0wTFhT4m7lLa5ti4p26iiW) | 2:25 | 2023-03-31 | 2023-05-23 |
-| [Po Ve Po Ve](https://open.spotify.com/track/2ULcLS1AhtAvTwSPEw2VHu) | [Aditya Bheemathati](https://open.spotify.com/artist/7otWOYhWeNnAhMyetbaMws) | [Po Ve Po Ve](https://open.spotify.com/album/5Eg6NDwFXJ4NjnnWMjlorN) | 3:18 | 2023-09-20 |  |
+| [Po Ve Po Ve](https://open.spotify.com/track/2ULcLS1AhtAvTwSPEw2VHu) | [Aditya Bheemathati](https://open.spotify.com/artist/7otWOYhWeNnAhMyetbaMws) | [Po Ve Po Ve](https://open.spotify.com/album/5Eg6NDwFXJ4NjnnWMjlorN) | 3:18 | 2023-09-20 | 2023-10-18 |
 | [Podhe Vallipothunde](https://open.spotify.com/track/1ARdPomFAk2WwsauwNFw7t) | [Harsha Prawin](https://open.spotify.com/artist/5S7CryoJO91PcKhXVcxQV1), [Venkata Chaitanya](https://open.spotify.com/artist/39N69padIY95ql4Q4kQgKD) | [Podhe Vallipothunde](https://open.spotify.com/album/5IS01NVb2O8VRO1roXOleu) | 3:21 | 2023-07-08 | 2023-08-19 |
 | [Pogachure](https://open.spotify.com/track/0pBh8kUlaRDWFxl8E88ozl) | [John Kennady](https://open.spotify.com/artist/3o6tDaMkBF30McTajB5d3W), [Kishan D'Souza](https://open.spotify.com/artist/0MuPLm7QDoBgAKaxtJeyU6), [Vijaya Chandra](https://open.spotify.com/artist/4lQmxDaI0u0L1qlor7O2oC) | [Pogachure](https://open.spotify.com/album/1C5OW4HkbAZWLvYhFpctzd) | 4:04 | 2023-08-18 |  |
 | [Poovanti Andham](https://open.spotify.com/track/012VlQmlFXaSFhiAtzVZCW) | [Kishan D'Souza](https://open.spotify.com/artist/0MuPLm7QDoBgAKaxtJeyU6), [Vijaya Chandra](https://open.spotify.com/artist/4lQmxDaI0u0L1qlor7O2oC), [John Kennady](https://open.spotify.com/artist/3o6tDaMkBF30McTajB5d3W) | [Poovanti Andham](https://open.spotify.com/album/5V1m9SYh8IiBJIO2qdAzI1) | 3:32 | 2023-03-13 |  |

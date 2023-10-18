@@ -4,7 +4,7 @@
 
 > 2001年バンドSound Scheduleのメンバーとしてデビュー。ソロ名義「オーイシマサヨシ」およびユニットOxTでは、アニメ音楽シーンの立役者として知られる作曲家/アーティスト。
 
-143 songs - 9 hr 24 min
+144 songs - 9 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -65,6 +65,7 @@
 | [Onegai Muscle \- from CrosSing](https://open.spotify.com/track/4mqOfJPqfhkznL4UZuEiOj) | [Masayoshi Oishi](https://open.spotify.com/artist/2NmgIfLAFl1DD1FZOY4YqC) | [Onegai Muscle \- from CrosSing](https://open.spotify.com/album/5Bt7BoV1R7s5Ihkv5D7Cf5) | 3:42 | 2022-08-09 |  |
 | [Otomodachi Film \- Live](https://open.spotify.com/track/6YMWAFs84TJWbW0zBZAhQQ) | [Masayoshi Oishi](https://open.spotify.com/artist/2NmgIfLAFl1DD1FZOY4YqC) | [Masayoshi Oishi One\-Man Live Entertainer](https://open.spotify.com/album/4TQelLZa9wM5cW9OdWIdLM) | 3:33 | 2022-07-26 |  |
 | [Petenshi no Yuuutsu](https://open.spotify.com/track/7aY5JhCXFCwy5Di77tODbW) | [Utsuki Chikage \(CV: Wataru Hatano\)](https://open.spotify.com/artist/2mJEBOqW95SK373lnenYtj) | [A3! Vivid Spring EP](https://open.spotify.com/album/7JnNNAbW1Li5QiBMoyjb8t) | 3:07 | 2022-07-26 |  |
+| [Princess' Happy Ending](https://open.spotify.com/track/5q1Kl4azsGJXk6N8wLMQdI) | [Sumire Uesaka](https://open.spotify.com/artist/4hRg5l2hXQl3lAzffFF8P8) | [Princess' Happy Ending](https://open.spotify.com/album/3Mug6SQYCxcd0CtlLVqd4O) | 3:28 | 2023-10-17 |  |
 | [Rakuen Toshi](https://open.spotify.com/track/3HmBK3OpEwgEZufskRq5UY) | [Masayoshi Oishi](https://open.spotify.com/artist/2NmgIfLAFl1DD1FZOY4YqC) | [Entertainer](https://open.spotify.com/album/4Xe4P2qe5ob7xiyl0apWFm) | 3:46 | 2022-08-16 | 2022-11-13 |
 | [Rakuen Toshi](https://open.spotify.com/track/2vOTY8M4Hb2gy72iI2ywSc) | [Masayoshi Oishi](https://open.spotify.com/artist/2NmgIfLAFl1DD1FZOY4YqC) | [Rakuen Toshi](https://open.spotify.com/album/11sAMfCkGSjIgHl4aKacKD) | 3:46 | 2022-07-26 |  |
 | [Role Playing](https://open.spotify.com/track/3j43VMghE6nhgQ8rDFerhf) | [Masayoshi Oishi](https://open.spotify.com/artist/2NmgIfLAFl1DD1FZOY4YqC) | [Entertainer](https://open.spotify.com/album/0ZUMizpUDJ7FPhCY7ImpRu) | 3:39 | 2022-08-16 | 2022-11-13 |

@@ -1,12 +1,12 @@
 {
   "description": "Les plus belles ballades de la chanson fran\u00e7aise.",
-  "num_followers": 64115,
+  "num_followers": 64196,
   "original_name": "Douce France",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyY2U0MDgyNWQ1N2JiZGU3NDU0OTNjNjE2YTViMDUxOWY3MzYxOTdh",
+  "snapshot_id": "MCwzYzAwNDczNjliOTk0MjQyZWMwZTAyZTUwNWRhMWI0OGJmZWZlN2Iy",
   "tracks": [
     {
       "added_at": "2023-08-24 12:53:30",
@@ -863,6 +863,22 @@
     {
       "added_at": "2023-08-24 12:53:30",
       "album": {
+        "name": "Jours Heureux",
+        "url": "https://open.spotify.com/album/7jUVoBb0xFVgnqoBOVuvxX"
+      },
+      "artists": [
+        {
+          "name": "Volo",
+          "url": "https://open.spotify.com/artist/11T4vCBbGWjL5boJmWeiw9"
+        }
+      ],
+      "duration_ms": 149000,
+      "name": "T'es Belle",
+      "url": "https://open.spotify.com/track/3SnAZtodqwylc35c3tP0wZ"
+    },
+    {
+      "added_at": "2023-08-24 12:53:30",
+      "album": {
         "name": "Best Of & Variations",
         "url": "https://open.spotify.com/album/0wg9EB4O6kCJJJkrH25Vgh"
       },
@@ -879,22 +895,6 @@
       "duration_ms": 179240,
       "name": "Le tourbillon de la vie",
       "url": "https://open.spotify.com/track/5vLnGZWyrMu5S1792Xzh8l"
-    },
-    {
-      "added_at": "2023-08-24 12:53:30",
-      "album": {
-        "name": "Jours Heureux",
-        "url": "https://open.spotify.com/album/7jUVoBb0xFVgnqoBOVuvxX"
-      },
-      "artists": [
-        {
-          "name": "Volo",
-          "url": "https://open.spotify.com/artist/11T4vCBbGWjL5boJmWeiw9"
-        }
-      ],
-      "duration_ms": 149000,
-      "name": "T'es Belle",
-      "url": "https://open.spotify.com/track/3SnAZtodqwylc35c3tP0wZ"
     },
     {
       "added_at": "2023-08-24 12:53:30",

@@ -1431,6 +1431,24 @@
     },
     {
       "album": {
+        "name": "Coming Home",
+        "url": "https://open.spotify.com/album/3Gi20dWoDXkD68d73yiM6S"
+      },
+      "artists": [
+        {
+          "name": "Catherine Peterson",
+          "url": "https://open.spotify.com/artist/4w0JSW4wf4K5yYsruCZEbV"
+        }
+      ],
+      "date_added": "2023-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155750,
+      "name": "Coming Home",
+      "url": "https://open.spotify.com/track/71m2wUi0w4bQHDqloMQg5c"
+    },
+    {
+      "album": {
         "name": "Confession",
         "url": "https://open.spotify.com/album/7CSswOSFP7HjwUzXWhZYiT"
       },
@@ -2324,7 +2342,7 @@
       ],
       "date_added": "2022-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-18",
       "duration_ms": 190632,
       "name": "Erinnerungen",
       "url": "https://open.spotify.com/track/0mXVKfTSOA5wdLx1COKyLc"
@@ -3779,6 +3797,24 @@
     },
     {
       "album": {
+        "name": "Insignia",
+        "url": "https://open.spotify.com/album/6KljnSEKSgk32JLRN4Vd9H"
+      },
+      "artists": [
+        {
+          "name": "Aron Edwards",
+          "url": "https://open.spotify.com/artist/3HVOv7Lm5kDzwbpGibjL4W"
+        }
+      ],
+      "date_added": "2023-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178743,
+      "name": "Insignia",
+      "url": "https://open.spotify.com/track/17moSSyt9oOxVHyewjXLav"
+    },
+    {
+      "album": {
         "name": "Intermedanos",
         "url": "https://open.spotify.com/album/39KxecFN1USX9DDlAU8ITO"
       },
@@ -3916,7 +3952,7 @@
       ],
       "date_added": "2023-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-18",
       "duration_ms": 122832,
       "name": "kawaguchiko",
       "url": "https://open.spotify.com/track/3lGHx6NLMzkhwcCmO7gwBY"
@@ -4960,7 +4996,7 @@
       ],
       "date_added": "2022-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-18",
       "duration_ms": 176187,
       "name": "Melopedie",
       "url": "https://open.spotify.com/track/7kAf6Xha70vAio4LsIhJqT"
@@ -5324,6 +5360,24 @@
       "duration_ms": 143571,
       "name": "My Promise To You",
       "url": "https://open.spotify.com/track/4ZvOrYWUCgIRRQ4xwrFbRI"
+    },
+    {
+      "album": {
+        "name": "My Solace My Home",
+        "url": "https://open.spotify.com/album/5eV8QRBAGsHmGiJuaHjlEh"
+      },
+      "artists": [
+        {
+          "name": "Ryley Moss",
+          "url": "https://open.spotify.com/artist/0qWu3rMcE5Hp0gcAUjPPAG"
+        }
+      ],
+      "date_added": "2023-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146125,
+      "name": "My Solace My Home",
+      "url": "https://open.spotify.com/track/0mD5cqe5rW4rPjlEBpRqUK"
     },
     {
       "album": {
@@ -5954,6 +6008,24 @@
       "duration_ms": 137083,
       "name": "Passing Time",
       "url": "https://open.spotify.com/track/4dVCVkwJFhuLlY3mNia5uk"
+    },
+    {
+      "album": {
+        "name": "Paths",
+        "url": "https://open.spotify.com/album/5mo02zw7os9mLxLZtANHlC"
+      },
+      "artists": [
+        {
+          "name": "Silje M\u00f8rk",
+          "url": "https://open.spotify.com/artist/3Th7uQxL5iOFrWHZ4GZIzP"
+        }
+      ],
+      "date_added": "2023-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172595,
+      "name": "Paths",
+      "url": "https://open.spotify.com/track/3JWltf5Em6j7uhJhSNFneD"
     },
     {
       "album": {
@@ -9616,7 +9688,7 @@
       ],
       "date_added": "2022-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-18",
       "duration_ms": 211814,
       "name": "Vanishing",
       "url": "https://open.spotify.com/track/0EFseo68EYQE7wptYPTuMG"

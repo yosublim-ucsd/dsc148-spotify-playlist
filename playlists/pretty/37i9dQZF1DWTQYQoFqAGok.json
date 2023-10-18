@@ -1,12 +1,12 @@
 {
   "description": "Descubre la escena del jazz en M\u00e9xico en la curadur\u00eda de los expertos Mariana P\u00e9rez,  Juan Carlos Reyes, Erik Montenegro y Jos\u00e9 Enrique Fern\u00e1ndez.",
-  "num_followers": 57993,
+  "num_followers": 57994,
   "original_name": "Jazz en M\u00e9xico",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjYzU3MDgxZGM5YTVlNDc2ZTJkYzY4NTg2NDRhM2NhMWVmZWE1YTVi",
+  "snapshot_id": "MCw2MDMyMzdjODhlZDIxZWRjMDY5N2U4YzQzNTQwYTg2Y2Y2NDYzNGM0",
   "tracks": [
     {
       "added_at": "2021-07-28 16:44:28",
@@ -511,26 +511,6 @@
     {
       "added_at": "2021-07-28 16:44:28",
       "album": {
-        "name": "Paisaje Gris",
-        "url": "https://open.spotify.com/album/4WAskgkj1leGkHgXXobvRG"
-      },
-      "artists": [
-        {
-          "name": "Jenny Beaujean",
-          "url": "https://open.spotify.com/artist/6ex3zdLBHsbn07VkD3Nnq3"
-        },
-        {
-          "name": "Benjam\u00edn Garc\u00eda",
-          "url": "https://open.spotify.com/artist/25pBtHDlplMjQ9FrFoMcuE"
-        }
-      ],
-      "duration_ms": 259133,
-      "name": "Paisaje Gris",
-      "url": "https://open.spotify.com/track/7Fo5vh8oUOsw8LsziLXe60"
-    },
-    {
-      "added_at": "2021-07-28 16:44:28",
-      "album": {
         "name": "Fulgor",
         "url": "https://open.spotify.com/album/3hHdb3FvT0zU1eXrKmQOgS"
       },
@@ -555,6 +535,26 @@
       "duration_ms": 246539,
       "name": "Aquel Incendio",
       "url": "https://open.spotify.com/track/21B1SsKnsjcUTkzRAAUJqy"
+    },
+    {
+      "added_at": "2021-07-28 16:44:28",
+      "album": {
+        "name": "Paisaje Gris",
+        "url": "https://open.spotify.com/album/4WAskgkj1leGkHgXXobvRG"
+      },
+      "artists": [
+        {
+          "name": "Jenny Beaujean",
+          "url": "https://open.spotify.com/artist/6ex3zdLBHsbn07VkD3Nnq3"
+        },
+        {
+          "name": "Benjam\u00edn Garc\u00eda",
+          "url": "https://open.spotify.com/artist/25pBtHDlplMjQ9FrFoMcuE"
+        }
+      ],
+      "duration_ms": 259133,
+      "name": "Paisaje Gris",
+      "url": "https://open.spotify.com/track/7Fo5vh8oUOsw8LsziLXe60"
     },
     {
       "added_at": "2021-07-28 16:44:28",
@@ -651,22 +651,6 @@
     {
       "added_at": "2021-07-28 16:44:28",
       "album": {
-        "name": "Pavel Loaria Big Band, Vol. 1",
-        "url": "https://open.spotify.com/album/0nQiE3rJ7zfl10ki3mM7Ff"
-      },
-      "artists": [
-        {
-          "name": "Pavel Loaria Big Band",
-          "url": "https://open.spotify.com/artist/2JrCiD3IZIa2ds3vl6bqkX"
-        }
-      ],
-      "duration_ms": 233306,
-      "name": "The Pink Panther",
-      "url": "https://open.spotify.com/track/7MBf3mXChOZJW5ZZ8CI9at"
-    },
-    {
-      "added_at": "2021-07-28 16:44:28",
-      "album": {
         "name": "Nos Toca",
         "url": "https://open.spotify.com/album/4GpJkM3MWkQLGw7zeS5v8d"
       },
@@ -679,6 +663,22 @@
       "duration_ms": 353320,
       "name": "Az\u00facar",
       "url": "https://open.spotify.com/track/3IxNO8WmhEaxweYAzdd9pL"
+    },
+    {
+      "added_at": "2021-07-28 16:44:28",
+      "album": {
+        "name": "Pavel Loaria Big Band, Vol. 1",
+        "url": "https://open.spotify.com/album/0nQiE3rJ7zfl10ki3mM7Ff"
+      },
+      "artists": [
+        {
+          "name": "Pavel Loaria Big Band",
+          "url": "https://open.spotify.com/artist/2JrCiD3IZIa2ds3vl6bqkX"
+        }
+      ],
+      "duration_ms": 233306,
+      "name": "The Pink Panther",
+      "url": "https://open.spotify.com/track/7MBf3mXChOZJW5ZZ8CI9at"
     },
     {
       "added_at": "2021-07-28 16:44:28",
@@ -845,20 +845,24 @@
       "url": "https://open.spotify.com/track/4utJIPfz1GOEnp3KNWkW1J"
     },
     {
-      "added_at": "2021-07-28 16:44:28",
+      "added_at": "2022-03-30 03:01:09",
       "album": {
-        "name": "Frente A Frente: Mexican Jazz Jam",
-        "url": "https://open.spotify.com/album/3hF6IXgJlQ0gEwHJzVl9fr"
+        "name": "Kumoi",
+        "url": "https://open.spotify.com/album/2qLAtuAVOqy3KXRhLb7bsU"
       },
       "artists": [
         {
-          "name": "Tino Contreras",
-          "url": "https://open.spotify.com/artist/48kCMQ00lfjWnQZCUPOYrX"
+          "name": "Nacho Maldonado",
+          "url": "https://open.spotify.com/artist/4K6VsMmNzvyjrkVFdncNRH"
+        },
+        {
+          "name": "Guillaume Pouget",
+          "url": "https://open.spotify.com/artist/68aVRNEtPd31Qmo77iGojE"
         }
       ],
-      "duration_ms": 204800,
-      "name": "Safo (La Sacerdotiza Del Amor)",
-      "url": "https://open.spotify.com/track/7FohOjzp6xDJQ14BxlDI9T"
+      "duration_ms": 127240,
+      "name": "Suite Yusef Lateef",
+      "url": "https://open.spotify.com/track/0AkwnLhfQNazmhFaWQ9unK"
     }
   ],
   "unique_name": "Jazz en M\u00e9xico",

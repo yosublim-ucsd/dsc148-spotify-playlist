@@ -1,12 +1,12 @@
 {
   "description": "Pushing the envelope; musicians at the forefront of modular synthesis.  ",
-  "num_followers": 47950,
+  "num_followers": 47973,
   "original_name": "Modular Synths",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1MzIyNWMyMTExN2EzYTMyMWQxZTY1MThhMTZhNTcyOTU1NDM0NTJh",
+  "snapshot_id": "MCw5MTc0MjhjMTZjYTdiYWYxM2RiZWY3OTUzOWM5YmIyZDhjMmMzNGMw",
   "tracks": [
     {
       "added_at": "2023-10-02 13:18:34",
@@ -479,22 +479,6 @@
     {
       "added_at": "2023-10-02 13:18:34",
       "album": {
-        "name": "Cascade Symmetry",
-        "url": "https://open.spotify.com/album/0EmUM5rTciCKU8fVl5Kt92"
-      },
-      "artists": [
-        {
-          "name": "r beny",
-          "url": "https://open.spotify.com/artist/1J8H4wufuy6qxfdRbJr5xG"
-        }
-      ],
-      "duration_ms": 204353,
-      "name": "Cascade Symmetry",
-      "url": "https://open.spotify.com/track/385Oid3inOxoC8Jpgax6Au"
-    },
-    {
-      "added_at": "2023-10-02 13:18:34",
-      "album": {
         "name": "Clara",
         "url": "https://open.spotify.com/album/1QU235rCtednzHCJgperwb"
       },
@@ -507,6 +491,22 @@
       "duration_ms": 372930,
       "name": "Lumina",
       "url": "https://open.spotify.com/track/0Jz2bcpl0lpLfASL2mrUTx"
+    },
+    {
+      "added_at": "2023-10-02 13:18:34",
+      "album": {
+        "name": "Cascade Symmetry",
+        "url": "https://open.spotify.com/album/0EmUM5rTciCKU8fVl5Kt92"
+      },
+      "artists": [
+        {
+          "name": "r beny",
+          "url": "https://open.spotify.com/artist/1J8H4wufuy6qxfdRbJr5xG"
+        }
+      ],
+      "duration_ms": 204353,
+      "name": "Cascade Symmetry",
+      "url": "https://open.spotify.com/track/385Oid3inOxoC8Jpgax6Au"
     },
     {
       "added_at": "2023-10-02 13:18:34",
@@ -563,22 +563,6 @@
     {
       "added_at": "2023-10-02 13:18:34",
       "album": {
-        "name": "Wander Into",
-        "url": "https://open.spotify.com/album/2znnC4ARtEUM54724LlMoa"
-      },
-      "artists": [
-        {
-          "name": "Ann Annie",
-          "url": "https://open.spotify.com/artist/48BPwCMBASOwyaLkrgkBSG"
-        }
-      ],
-      "duration_ms": 353000,
-      "name": "Wander Into",
-      "url": "https://open.spotify.com/track/5xOv6ER7scPxk1LIIYFoLv"
-    },
-    {
-      "added_at": "2023-10-02 13:18:34",
-      "album": {
         "name": "Amygdala",
         "url": "https://open.spotify.com/album/1MuIg8soW5Fhfg9i1BT6wZ"
       },
@@ -591,6 +575,22 @@
       "duration_ms": 319047,
       "name": "Amygdala",
       "url": "https://open.spotify.com/track/4Di1dq49uG26tIHEsAxaQy"
+    },
+    {
+      "added_at": "2023-10-02 13:18:34",
+      "album": {
+        "name": "Wander Into",
+        "url": "https://open.spotify.com/album/2znnC4ARtEUM54724LlMoa"
+      },
+      "artists": [
+        {
+          "name": "Ann Annie",
+          "url": "https://open.spotify.com/artist/48BPwCMBASOwyaLkrgkBSG"
+        }
+      ],
+      "duration_ms": 353000,
+      "name": "Wander Into",
+      "url": "https://open.spotify.com/track/5xOv6ER7scPxk1LIIYFoLv"
     },
     {
       "added_at": "2023-10-02 13:18:34",
@@ -683,18 +683,18 @@
     {
       "added_at": "2023-10-02 13:18:34",
       "album": {
-        "name": "Open Space Volume 1",
-        "url": "https://open.spotify.com/album/4P7MM9wLkv3pZIeA79ti8N"
+        "name": "The Last Wave",
+        "url": "https://open.spotify.com/album/6Gm4Rualh1DmQD8MmbkSib"
       },
       "artists": [
         {
-          "name": "JakoJako",
-          "url": "https://open.spotify.com/artist/2ROWhaqtdj8ztIxWekIW4E"
+          "name": "Ibukun Sunday",
+          "url": "https://open.spotify.com/artist/1XhXRpXu0NntjkqENGveoI"
         }
       ],
-      "duration_ms": 316786,
-      "name": "Deine Augen",
-      "url": "https://open.spotify.com/track/0NUhOwhK0N6M0bVa8OSHbc"
+      "duration_ms": 139041,
+      "name": "Last Earth",
+      "url": "https://open.spotify.com/track/553pFfksyASLhP9Px67yNv"
     },
     {
       "added_at": "2023-10-02 13:18:34",
@@ -715,18 +715,34 @@
     {
       "added_at": "2023-10-02 13:18:34",
       "album": {
-        "name": "The Last Wave",
-        "url": "https://open.spotify.com/album/6Gm4Rualh1DmQD8MmbkSib"
+        "name": "Open Space Volume 1",
+        "url": "https://open.spotify.com/album/4P7MM9wLkv3pZIeA79ti8N"
       },
       "artists": [
         {
-          "name": "Ibukun Sunday",
-          "url": "https://open.spotify.com/artist/1XhXRpXu0NntjkqENGveoI"
+          "name": "JakoJako",
+          "url": "https://open.spotify.com/artist/2ROWhaqtdj8ztIxWekIW4E"
         }
       ],
-      "duration_ms": 139041,
-      "name": "Last Earth",
-      "url": "https://open.spotify.com/track/553pFfksyASLhP9Px67yNv"
+      "duration_ms": 316786,
+      "name": "Deine Augen",
+      "url": "https://open.spotify.com/track/0NUhOwhK0N6M0bVa8OSHbc"
+    },
+    {
+      "added_at": "2023-10-02 13:18:34",
+      "album": {
+        "name": "Sollbruchstelle 1-3",
+        "url": "https://open.spotify.com/album/2Y0rzl9PGZQ8JYPDCkBFmo"
+      },
+      "artists": [
+        {
+          "name": "Jas Shaw",
+          "url": "https://open.spotify.com/artist/1iYfEUKXzyy3bE2elxuipV"
+        }
+      ],
+      "duration_ms": 311548,
+      "name": "A man with two watches",
+      "url": "https://open.spotify.com/track/4nYjHsCzPjRd3TWBEOABRu"
     },
     {
       "added_at": "2023-10-02 13:18:34",
@@ -783,22 +799,6 @@
     {
       "added_at": "2023-10-02 13:18:34",
       "album": {
-        "name": "Sollbruchstelle 1-3",
-        "url": "https://open.spotify.com/album/2Y0rzl9PGZQ8JYPDCkBFmo"
-      },
-      "artists": [
-        {
-          "name": "Jas Shaw",
-          "url": "https://open.spotify.com/artist/1iYfEUKXzyy3bE2elxuipV"
-        }
-      ],
-      "duration_ms": 311548,
-      "name": "A man with two watches",
-      "url": "https://open.spotify.com/track/4nYjHsCzPjRd3TWBEOABRu"
-    },
-    {
-      "added_at": "2023-10-02 13:18:34",
-      "album": {
         "name": "Comma",
         "url": "https://open.spotify.com/album/48WQXkdyIVTEek2TTwXVkt"
       },
@@ -831,6 +831,22 @@
     {
       "added_at": "2023-10-02 13:18:34",
       "album": {
+        "name": "Journey To The Underworld EP",
+        "url": "https://open.spotify.com/album/4EJWa7yqX5QKTBMqxugtgB"
+      },
+      "artists": [
+        {
+          "name": "ANNA",
+          "url": "https://open.spotify.com/artist/3wkaDi2HJV3eCaBJ4iH6om"
+        }
+      ],
+      "duration_ms": 389000,
+      "name": "Dissolution",
+      "url": "https://open.spotify.com/track/2MivKHQd95CJN1jTl7KksN"
+    },
+    {
+      "added_at": "2023-10-02 13:18:34",
+      "album": {
         "name": "Sonic Winds",
         "url": "https://open.spotify.com/album/0vO5XNRwzAfUmGcgjgg75Z"
       },
@@ -851,22 +867,6 @@
       "duration_ms": 166965,
       "name": "Sonic Winds",
       "url": "https://open.spotify.com/track/7irEa6Ho06a8jzFHiaeMVY"
-    },
-    {
-      "added_at": "2023-10-02 13:18:34",
-      "album": {
-        "name": "Journey To The Underworld EP",
-        "url": "https://open.spotify.com/album/4EJWa7yqX5QKTBMqxugtgB"
-      },
-      "artists": [
-        {
-          "name": "ANNA",
-          "url": "https://open.spotify.com/artist/3wkaDi2HJV3eCaBJ4iH6om"
-        }
-      ],
-      "duration_ms": 389000,
-      "name": "Dissolution",
-      "url": "https://open.spotify.com/track/2MivKHQd95CJN1jTl7KksN"
     },
     {
       "added_at": "2023-10-02 13:18:34",
@@ -963,6 +963,22 @@
       "duration_ms": 165925,
       "name": "Orange Blue Green",
       "url": "https://open.spotify.com/track/1nAGVg9aGh00zL74giYTIH"
+    },
+    {
+      "added_at": "2023-10-02 13:18:34",
+      "album": {
+        "name": "Pax Aurora",
+        "url": "https://open.spotify.com/album/5taSxE1CYEDgJhm6iYFzML"
+      },
+      "artists": [
+        {
+          "name": "Nadia Struiwigh",
+          "url": "https://open.spotify.com/artist/4iQwTFjXjNOKncBABz0FAQ"
+        }
+      ],
+      "duration_ms": 418064,
+      "name": "Organic",
+      "url": "https://open.spotify.com/track/194j607XLGLXSFe8Higlac"
     },
     {
       "added_at": "2023-10-02 13:18:34",
@@ -1087,22 +1103,6 @@
     {
       "added_at": "2023-10-02 13:18:34",
       "album": {
-        "name": "Mirror Ensemble",
-        "url": "https://open.spotify.com/album/23mBqaNaTe05zZM8oQXtag"
-      },
-      "artists": [
-        {
-          "name": "Brett Naucke",
-          "url": "https://open.spotify.com/artist/2MFjLlkCkf3kmSqBT0q5vs"
-        }
-      ],
-      "duration_ms": 235000,
-      "name": "Rose Water",
-      "url": "https://open.spotify.com/track/6AEXBSliph7nngKCqahlV5"
-    },
-    {
-      "added_at": "2023-10-02 13:18:34",
-      "album": {
         "name": "Kosmic Headroom",
         "url": "https://open.spotify.com/album/6i2yC85nR4HqDkgwOgmnIj"
       },
@@ -1115,6 +1115,22 @@
       "duration_ms": 253047,
       "name": "Kosmic Headroom",
       "url": "https://open.spotify.com/track/1hk6pw8B55XmbL8MkeNmva"
+    },
+    {
+      "added_at": "2023-10-02 13:18:34",
+      "album": {
+        "name": "Mirror Ensemble",
+        "url": "https://open.spotify.com/album/23mBqaNaTe05zZM8oQXtag"
+      },
+      "artists": [
+        {
+          "name": "Brett Naucke",
+          "url": "https://open.spotify.com/artist/2MFjLlkCkf3kmSqBT0q5vs"
+        }
+      ],
+      "duration_ms": 235000,
+      "name": "Rose Water",
+      "url": "https://open.spotify.com/track/6AEXBSliph7nngKCqahlV5"
     },
     {
       "added_at": "2023-10-02 13:18:34",
@@ -1159,18 +1175,18 @@
     {
       "added_at": "2023-10-02 13:18:34",
       "album": {
-        "name": "Pax Aurora",
-        "url": "https://open.spotify.com/album/5taSxE1CYEDgJhm6iYFzML"
+        "name": "Wing Pinger",
+        "url": "https://open.spotify.com/album/6faDBvP6e2Uej2TDl1xSha"
       },
       "artists": [
         {
-          "name": "Nadia Struiwigh",
-          "url": "https://open.spotify.com/artist/4iQwTFjXjNOKncBABz0FAQ"
+          "name": "Scanner",
+          "url": "https://open.spotify.com/artist/7FEmduuEjfoagq6Qrgviji"
         }
       ],
-      "duration_ms": 418064,
-      "name": "Organic",
-      "url": "https://open.spotify.com/track/194j607XLGLXSFe8Higlac"
+      "duration_ms": 511730,
+      "name": "Wing Pinger 01",
+      "url": "https://open.spotify.com/track/47TiKrNev9micS2sZDzoNJ"
     },
     {
       "added_at": "2023-10-02 13:18:34",
@@ -1191,22 +1207,6 @@
     {
       "added_at": "2023-10-02 13:18:34",
       "album": {
-        "name": "The Sparrow",
-        "url": "https://open.spotify.com/album/2DLMVaEDhrEeAmhV9JCytt"
-      },
-      "artists": [
-        {
-          "name": "Sam Prekop",
-          "url": "https://open.spotify.com/artist/4Vtlz5IfA9y4EBwmp20wwk"
-        }
-      ],
-      "duration_ms": 357906,
-      "name": "Every Night",
-      "url": "https://open.spotify.com/track/0uNy3DnZuVajMHDMDcFrIG"
-    },
-    {
-      "added_at": "2023-10-02 13:18:34",
-      "album": {
         "name": "Wrecked Exotic",
         "url": "https://open.spotify.com/album/7CRIEFkHlGxpkQtoAkZuBz"
       },
@@ -1223,18 +1223,18 @@
     {
       "added_at": "2023-10-02 13:18:34",
       "album": {
-        "name": "Wing Pinger",
-        "url": "https://open.spotify.com/album/6faDBvP6e2Uej2TDl1xSha"
+        "name": "The Sparrow",
+        "url": "https://open.spotify.com/album/2DLMVaEDhrEeAmhV9JCytt"
       },
       "artists": [
         {
-          "name": "Scanner",
-          "url": "https://open.spotify.com/artist/7FEmduuEjfoagq6Qrgviji"
+          "name": "Sam Prekop",
+          "url": "https://open.spotify.com/artist/4Vtlz5IfA9y4EBwmp20wwk"
         }
       ],
-      "duration_ms": 511730,
-      "name": "Wing Pinger 01",
-      "url": "https://open.spotify.com/track/47TiKrNev9micS2sZDzoNJ"
+      "duration_ms": 357906,
+      "name": "Every Night",
+      "url": "https://open.spotify.com/track/0uNy3DnZuVajMHDMDcFrIG"
     },
     {
       "added_at": "2023-10-02 13:18:34",

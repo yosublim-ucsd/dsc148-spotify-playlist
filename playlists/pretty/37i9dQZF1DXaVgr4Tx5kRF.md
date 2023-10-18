@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaVgr4Tx5kRF.md) - [plain]
 
 > The songs that defined a golden era of British indie.
 
-[Spotify](https://open.spotify.com/user/spotify) - 633,891 likes - 65 songs - 4 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 634,026 likes - 65 songs - 4 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaVgr4Tx5kRF.md) - [plain]
 | 64 | [Mulder and Scully](https://open.spotify.com/track/4RAD0ENNSFiT31DoqT9HDm) | [Catatonia](https://open.spotify.com/artist/4Bgfzia8wyaGaTn42egzTv) | [International Velvet](https://open.spotify.com/album/5JKgetvj4148279DoZG7XE) | 4:11 |
 | 65 | [You Stole The Sun From My Heart](https://open.spotify.com/track/2couS7LmXsbTaTJWVzk1KS) | [Manic Street Preachers](https://open.spotify.com/artist/2uH0RyPcX7fnCcT90HFDQX) | [This Is My Truth Tell Me Yours](https://open.spotify.com/album/7CCkQQvhSAUjuzLQAV8S5a) | 4:20 |
 
-Snapshot ID: `MCxiZjNhOWI5MWI2NmRjMDg3NDk0NDBjOWYzZmQ2Y2EwNTVmODRhNGJl`
+Snapshot ID: `MCw0YzYzNzFiMGZhZWVkM2FhY2RiNjk4MWVlMDNlNTJmYWM2OThiYzFj`

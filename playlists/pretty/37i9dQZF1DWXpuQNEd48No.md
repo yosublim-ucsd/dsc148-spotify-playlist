@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXpuQNEd48No.md) - [plain]
 
 > Yo Hai Haryanvi Hip\-Hop! Cover: MC SQUARE
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,858 likes - 50 songs - 2 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,915 likes - 50 songs - 2 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,8 +28,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXpuQNEd48No.md) - [plain]
 | 18 | [Goli](https://open.spotify.com/track/5Eg7UwkwmvZ6klpm26opBD) | [Sahil Dhull](https://open.spotify.com/artist/1YhZbHSLY4DwUzlennljq8), [Nonu Rana](https://open.spotify.com/artist/5apXJg5GUrFPVqRe4prxKh), [VJ Paul](https://open.spotify.com/artist/7znLEJV5gqErkQT4xd8yOn) | [Goli](https://open.spotify.com/album/1x72UEEAlwx8Idzm6buZd8) | 2:34 |
 | 19 | [Jhotte](https://open.spotify.com/track/5AbkBdjwjALBd3h4rNgJeX) | [Ndee Kundu](https://open.spotify.com/artist/61P6g4b3TgZ9m2caJlXS4K), [KD DESIROCK](https://open.spotify.com/artist/4Pq2LW79qotJK4YAMFwlO0) | [Jhotte](https://open.spotify.com/album/0UCnUqid4KKnDXIlpwyy4U) | 3:37 |
 | 20 | [Mucha Aale Tag](https://open.spotify.com/track/3AcqkjDa0WTD0IlmALWiB6) | [Khasa Aala Chahar](https://open.spotify.com/artist/3yOHCFUZRsaHUu1yefR8ck) | [Mucha Aale Tag](https://open.spotify.com/album/1voI6OoJtnFjfPQrwnLM4W) | 3:23 |
-| 21 | [Chore Haryana Aale](https://open.spotify.com/track/1bbbcdT3UhWkSIXH0FzipI) | [Candy Sheoran](https://open.spotify.com/artist/5Gv7YQyjnnTxplUzBuKSUY), [The LeKhak](https://open.spotify.com/artist/4mXXjQa72yzGxqboQMSqiT) | [Chore Haryana Aale](https://open.spotify.com/album/4uH6nJZ7YA3GpeaBZccaCC) | 2:58 |
-| 22 | [12 Bore](https://open.spotify.com/track/45BRHFObplu7mg7PAOUB0M) | [Rahul Kadyan](https://open.spotify.com/artist/4Clvkor0pUXm35Gdz0fbJt) | [12 Bore](https://open.spotify.com/album/04nAiiHzOLmmCG6zT12e7g) | 3:21 |
+| 21 | [12 Bore](https://open.spotify.com/track/45BRHFObplu7mg7PAOUB0M) | [Rahul Kadyan](https://open.spotify.com/artist/4Clvkor0pUXm35Gdz0fbJt) | [12 Bore](https://open.spotify.com/album/04nAiiHzOLmmCG6zT12e7g) | 3:21 |
+| 22 | [Chore Haryana Aale](https://open.spotify.com/track/1bbbcdT3UhWkSIXH0FzipI) | [Candy Sheoran](https://open.spotify.com/artist/5Gv7YQyjnnTxplUzBuKSUY), [The LeKhak](https://open.spotify.com/artist/4mXXjQa72yzGxqboQMSqiT) | [Chore Haryana Aale](https://open.spotify.com/album/4uH6nJZ7YA3GpeaBZccaCC) | 2:58 |
 | 23 | [Bonjour](https://open.spotify.com/track/1X0uwEHBqPZiXnpFT1hZDm) | [Dhanda Nyoliwala](https://open.spotify.com/artist/2rN8LHqK4TBI7y3d9POvJb) | [Bonjour](https://open.spotify.com/album/7EGPSrVw9GfbFOzEs46T2b) | 2:53 |
 | 24 | [Meter Khench Ke](https://open.spotify.com/track/5nvzggXBYnjxp4Vvhl1EEF) | [R Cruze](https://open.spotify.com/artist/3KvTpIp5PcyoMTKRmi2H4s), [Elvish Yadav](https://open.spotify.com/artist/7IBZqnYGLR2eOTP3YJ1asp), [VIRTUAL\_AF](https://open.spotify.com/artist/1Ik6g05IoSfFmpqi4Jg7Kc), [Love Kataria](https://open.spotify.com/artist/68Zi4yF7GdesbYgTEEZPDZ), [Fiza Choudhary](https://open.spotify.com/artist/2mMUQGaKHQGZieMXnJpHiB) | [Meter Khench Ke](https://open.spotify.com/album/1iipktugZewHMt2zpdT1wc) | 2:57 |
 | 25 | [Naina Ki Talwar](https://open.spotify.com/track/0o26gLFYauwW6oBwtHZFZZ) | [MC SQUARE](https://open.spotify.com/artist/5WZViOJ21095FUcGPMpKFF) | [Mtv Hustle 2.0](https://open.spotify.com/album/2WbTyQKy64ReQPkxN4pR8R) | 2:43 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXpuQNEd48No.md) - [plain]
 | 49 | [Jaat Warriors](https://open.spotify.com/track/6oWxnsiYG5bj2tqhDcdlRY) | [BigMoney](https://open.spotify.com/artist/1cRdqU4s5nAUZecL49dXPE), [PRNCE SIDHU](https://open.spotify.com/artist/1qRoIdvXPOUe0Omn4NsFp4) | [Jaat Warriors](https://open.spotify.com/album/0XMUkwivt9uRvZtVhrSk4J) | 2:43 |
 | 50 | [Rao Sahab Drill](https://open.spotify.com/track/1m5GbHeEUhvCgpuVb1q4Z4) | [Vkey](https://open.spotify.com/artist/0xTf08e7MLw7TnnCNKXoBv), [SDEE](https://open.spotify.com/artist/302ztHnZGveCVIu1cW9awZ) | [Rao Sahab Drill](https://open.spotify.com/album/7rF3h3c0Eyj6xXMCZgQyvf) | 3:31 |
 
-Snapshot ID: `MCxiMmVjYzEwY2Y0YTg5N2JjMjc2NjYwNDkzOWYzMWQ3Y2M0MDNkYjc0`
+Snapshot ID: `MCxkZTlhYjhhY2ZiOGNlYjcwNzMzMGZmNTQ3YzdiOGI3MjMyMTZmNWZi`

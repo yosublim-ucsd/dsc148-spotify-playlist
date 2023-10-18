@@ -1,12 +1,12 @@
 {
   "description": "The smoothest jazz of the 2000s. Cover: Rick Braun",
-  "num_followers": 56109,
+  "num_followers": 56141,
   "original_name": "Smooth Jazz 2000",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhYmQxOTdjZWM4NDFlNmFiYTZiMWM0NmQ1MjE1ODVlN2M0OGRjMmFj",
+  "snapshot_id": "MCxmMWNhZjMwZGUzNDgyYWE0M2RmOGI1ZDEyYTg5MTJjMDBkOWUwNmM3",
   "tracks": [
     {
       "added_at": "2020-08-19 19:15:51",
@@ -123,22 +123,6 @@
     {
       "added_at": "2020-08-19 19:15:51",
       "album": {
-        "name": "Just Doing What I do",
-        "url": "https://open.spotify.com/album/7meHD0fPbZ8AZKOSlpKnCn"
-      },
-      "artists": [
-        {
-          "name": "Marcus Johnson",
-          "url": "https://open.spotify.com/artist/5BrGYYrfP3agYhqDUFcSSM"
-        }
-      ],
-      "duration_ms": 210773,
-      "name": "18th & M",
-      "url": "https://open.spotify.com/track/4jZCaGd8dbeuPy707up4g2"
-    },
-    {
-      "added_at": "2020-08-19 19:15:51",
-      "album": {
         "name": "Soul To Souls",
         "url": "https://open.spotify.com/album/2rzjVifrHIbbSEvBIGavtb"
       },
@@ -151,6 +135,22 @@
       "duration_ms": 333880,
       "name": "City Lights",
       "url": "https://open.spotify.com/track/5kmQaaHOzgnzJmDpHJVtQY"
+    },
+    {
+      "added_at": "2020-08-19 19:15:51",
+      "album": {
+        "name": "Just Doing What I do",
+        "url": "https://open.spotify.com/album/7meHD0fPbZ8AZKOSlpKnCn"
+      },
+      "artists": [
+        {
+          "name": "Marcus Johnson",
+          "url": "https://open.spotify.com/artist/5BrGYYrfP3agYhqDUFcSSM"
+        }
+      ],
+      "duration_ms": 210773,
+      "name": "18th & M",
+      "url": "https://open.spotify.com/track/4jZCaGd8dbeuPy707up4g2"
     },
     {
       "added_at": "2020-08-19 19:15:51",
@@ -235,22 +235,6 @@
     {
       "added_at": "2020-08-19 19:15:51",
       "album": {
-        "name": "Keepin' It Cool",
-        "url": "https://open.spotify.com/album/3w9dctOHUxIF5YRVKycZD7"
-      },
-      "artists": [
-        {
-          "name": "Nick Colionne",
-          "url": "https://open.spotify.com/artist/2sCtM9BmF4hSfiwEwiAm5l"
-        }
-      ],
-      "duration_ms": 214986,
-      "name": "Keepin' It Cool",
-      "url": "https://open.spotify.com/track/6rKan5MDdzwXHUy90RYn26"
-    },
-    {
-      "added_at": "2020-08-19 19:15:51",
-      "album": {
         "name": "The Sax Pack",
         "url": "https://open.spotify.com/album/6V9VLkQrUVKlSRxVdA8wDN"
       },
@@ -263,6 +247,22 @@
       "duration_ms": 214986,
       "name": "The Sax Pack",
       "url": "https://open.spotify.com/track/15m7BNAMsBE5rxwpwfN0bB"
+    },
+    {
+      "added_at": "2020-08-19 19:15:51",
+      "album": {
+        "name": "Keepin' It Cool",
+        "url": "https://open.spotify.com/album/3w9dctOHUxIF5YRVKycZD7"
+      },
+      "artists": [
+        {
+          "name": "Nick Colionne",
+          "url": "https://open.spotify.com/artist/2sCtM9BmF4hSfiwEwiAm5l"
+        }
+      ],
+      "duration_ms": 214986,
+      "name": "Keepin' It Cool",
+      "url": "https://open.spotify.com/track/6rKan5MDdzwXHUy90RYn26"
     },
     {
       "added_at": "2020-08-19 19:15:51",
@@ -551,22 +551,6 @@
     {
       "added_at": "2020-08-19 19:15:51",
       "album": {
-        "name": "Just Chillin'",
-        "url": "https://open.spotify.com/album/7K2ByqRePgiW7yQAE3dsjt"
-      },
-      "artists": [
-        {
-          "name": "Norman Brown",
-          "url": "https://open.spotify.com/artist/79kOOyVKcrCOKDnzcDHsia"
-        }
-      ],
-      "duration_ms": 239333,
-      "name": "I Still Believe",
-      "url": "https://open.spotify.com/track/6dcNq7ZdQMG5ucQeuTZcWd"
-    },
-    {
-      "added_at": "2020-08-19 19:15:51",
-      "album": {
         "name": "Soul Express",
         "url": "https://open.spotify.com/album/69nPaDqMk2Nyy5V77STGdH"
       },
@@ -579,6 +563,22 @@
       "duration_ms": 282506,
       "name": "Kaleidoscope",
       "url": "https://open.spotify.com/track/0qD9zBjyp5GRhdkXxFFSVQ"
+    },
+    {
+      "added_at": "2020-08-19 19:15:51",
+      "album": {
+        "name": "Just Chillin'",
+        "url": "https://open.spotify.com/album/7K2ByqRePgiW7yQAE3dsjt"
+      },
+      "artists": [
+        {
+          "name": "Norman Brown",
+          "url": "https://open.spotify.com/artist/79kOOyVKcrCOKDnzcDHsia"
+        }
+      ],
+      "duration_ms": 239333,
+      "name": "I Still Believe",
+      "url": "https://open.spotify.com/track/6dcNq7ZdQMG5ucQeuTZcWd"
     },
     {
       "added_at": "2020-08-19 19:15:51",

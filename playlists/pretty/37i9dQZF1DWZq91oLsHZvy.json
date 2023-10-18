@@ -1,12 +1,12 @@
 {
   "description": "Let's go!",
-  "num_followers": 327526,
+  "num_followers": 327779,
   "original_name": "Indie x Running",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1NDhkZWJjZmI4YjIxZWQxMGY0NWZkMThjZDZmZTBkZmE1NmNhYTM3",
+  "snapshot_id": "MCwyNzM0ZmU4MzliOTE3NGFjM2NkNjFhODIyNTgzNjk4MDFmNzQyMTZh",
   "tracks": [
     {
       "added_at": "2023-01-20 11:00:00",
@@ -611,6 +611,22 @@
     {
       "added_at": "2023-05-17 13:32:35",
       "album": {
+        "name": "Next Exit",
+        "url": "https://open.spotify.com/album/4UfayZRNyvNRmayWpf2z7H"
+      },
+      "artists": [
+        {
+          "name": "Vacations",
+          "url": "https://open.spotify.com/artist/0U7iI0Dk4Ojvi17nZboNO4"
+        }
+      ],
+      "duration_ms": 201000,
+      "name": "Next Exit",
+      "url": "https://open.spotify.com/track/0xkSfBYxRMTLgrinRJlzfz"
+    },
+    {
+      "added_at": "2023-05-17 13:32:35",
+      "album": {
         "name": "After Midnight (feat. Clairo)",
         "url": "https://open.spotify.com/album/6xsvkBbeMsrk6HPDBsJEwS"
       },
@@ -627,22 +643,6 @@
       "duration_ms": 188000,
       "name": "After Midnight (feat. Clairo)",
       "url": "https://open.spotify.com/track/0KIpuVYhKUUUpjo6H5NvBY"
-    },
-    {
-      "added_at": "2023-05-17 13:32:35",
-      "album": {
-        "name": "Next Exit",
-        "url": "https://open.spotify.com/album/4UfayZRNyvNRmayWpf2z7H"
-      },
-      "artists": [
-        {
-          "name": "Vacations",
-          "url": "https://open.spotify.com/artist/0U7iI0Dk4Ojvi17nZboNO4"
-        }
-      ],
-      "duration_ms": 201000,
-      "name": "Next Exit",
-      "url": "https://open.spotify.com/track/0xkSfBYxRMTLgrinRJlzfz"
     },
     {
       "added_at": "2023-01-20 11:00:00",
@@ -1155,22 +1155,6 @@
     {
       "added_at": "2023-01-20 11:00:00",
       "album": {
-        "name": "Is This What It Feels Like to Feel Like This? (Myd Remix)",
-        "url": "https://open.spotify.com/album/5ntFw6kOzBWC6xXf5SS5Q6"
-      },
-      "artists": [
-        {
-          "name": "The Wombats",
-          "url": "https://open.spotify.com/artist/0Ya43ZKWHTKkAbkoJJkwIB"
-        }
-      ],
-      "duration_ms": 165666,
-      "name": "Is This What It Feels Like to Feel Like This?",
-      "url": "https://open.spotify.com/track/6LTVD3zeHqAAiSqyKDhNEH"
-    },
-    {
-      "added_at": "2023-01-20 11:00:00",
-      "album": {
         "name": "Matter",
         "url": "https://open.spotify.com/album/4qH5TQZxM5v7tKT0E09WAK"
       },
@@ -1183,6 +1167,22 @@
       "duration_ms": 246333,
       "name": "Dancing On Glass",
       "url": "https://open.spotify.com/track/0aersVHlGGXcHeRvHtuaSt"
+    },
+    {
+      "added_at": "2023-01-20 11:00:00",
+      "album": {
+        "name": "Is This What It Feels Like to Feel Like This? (Myd Remix)",
+        "url": "https://open.spotify.com/album/5ntFw6kOzBWC6xXf5SS5Q6"
+      },
+      "artists": [
+        {
+          "name": "The Wombats",
+          "url": "https://open.spotify.com/artist/0Ya43ZKWHTKkAbkoJJkwIB"
+        }
+      ],
+      "duration_ms": 165666,
+      "name": "Is This What It Feels Like to Feel Like This?",
+      "url": "https://open.spotify.com/track/6LTVD3zeHqAAiSqyKDhNEH"
     },
     {
       "added_at": "2023-05-17 13:32:35",
@@ -1423,18 +1423,18 @@
     {
       "added_at": "2023-01-20 11:00:00",
       "album": {
-        "name": "Lost In The Dream",
-        "url": "https://open.spotify.com/album/51VxHZphGLsI7aUPqIkJaz"
+        "name": "The Gods We Can Touch",
+        "url": "https://open.spotify.com/album/5z1xjvymitc0DJETtvVmaX"
       },
       "artists": [
         {
-          "name": "The War On Drugs",
-          "url": "https://open.spotify.com/artist/6g0mn3tzAds6aVeUYRsryU"
+          "name": "AURORA",
+          "url": "https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N"
         }
       ],
-      "duration_ms": 348226,
-      "name": "Burning",
-      "url": "https://open.spotify.com/track/2S2nmmJAS5efQ5fVrvYAQj"
+      "duration_ms": 203066,
+      "name": "A Temporary High",
+      "url": "https://open.spotify.com/track/02SgwZdog41hbpKX9aHA0c"
     },
     {
       "added_at": "2023-01-20 11:00:00",
@@ -1455,18 +1455,18 @@
     {
       "added_at": "2023-01-20 11:00:00",
       "album": {
-        "name": "The Gods We Can Touch",
-        "url": "https://open.spotify.com/album/5z1xjvymitc0DJETtvVmaX"
+        "name": "Lost In The Dream",
+        "url": "https://open.spotify.com/album/51VxHZphGLsI7aUPqIkJaz"
       },
       "artists": [
         {
-          "name": "AURORA",
-          "url": "https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N"
+          "name": "The War On Drugs",
+          "url": "https://open.spotify.com/artist/6g0mn3tzAds6aVeUYRsryU"
         }
       ],
-      "duration_ms": 203066,
-      "name": "A Temporary High",
-      "url": "https://open.spotify.com/track/02SgwZdog41hbpKX9aHA0c"
+      "duration_ms": 348226,
+      "name": "Burning",
+      "url": "https://open.spotify.com/track/2S2nmmJAS5efQ5fVrvYAQj"
     },
     {
       "added_at": "2023-05-16 12:08:08",
@@ -1533,22 +1533,6 @@
       "url": "https://open.spotify.com/track/52pWggDlN5mVeX111i06PP"
     },
     {
-      "added_at": "2023-01-20 11:00:00",
-      "album": {
-        "name": "Dawn Of The Freak",
-        "url": "https://open.spotify.com/album/0lty86qoHmycjkzvf4gZNX"
-      },
-      "artists": [
-        {
-          "name": "The Haunted Youth",
-          "url": "https://open.spotify.com/artist/2BJzRLleDH2jTAArbI4Xod"
-        }
-      ],
-      "duration_ms": 285000,
-      "name": "Broken",
-      "url": "https://open.spotify.com/track/5n4mNEN0wnFOvoob4VVx4W"
-    },
-    {
       "added_at": "2023-05-17 13:32:35",
       "album": {
         "name": "Redlight (feat. Teezo Touchdown)",
@@ -1567,6 +1551,22 @@
       "duration_ms": 173720,
       "name": "Redlight (feat. Teezo Touchdown)",
       "url": "https://open.spotify.com/track/7mcYosmfRFxXJN3hwwNXnL"
+    },
+    {
+      "added_at": "2023-01-20 11:00:00",
+      "album": {
+        "name": "Dawn Of The Freak",
+        "url": "https://open.spotify.com/album/0lty86qoHmycjkzvf4gZNX"
+      },
+      "artists": [
+        {
+          "name": "The Haunted Youth",
+          "url": "https://open.spotify.com/artist/2BJzRLleDH2jTAArbI4Xod"
+        }
+      ],
+      "duration_ms": 285000,
+      "name": "Broken",
+      "url": "https://open.spotify.com/track/5n4mNEN0wnFOvoob4VVx4W"
     },
     {
       "added_at": "2023-01-20 11:00:00",

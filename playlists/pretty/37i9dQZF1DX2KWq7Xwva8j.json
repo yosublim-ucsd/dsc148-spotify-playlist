@@ -1,12 +1,12 @@
 {
   "description": "El futuro est\u00e1 aqu\u00ed. Foto: Yarea",
-  "num_followers": 24173,
+  "num_followers": 24196,
   "original_name": "RADAR Espa\u00f1a",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlZDUxMWQ1NzExNmUyY2M5MjlmOGM3YzNhY2Y0OTcxZWRmODFiZTFj",
+  "snapshot_id": "MCxlMTFhMGFhZGQxYjMxZTU2ZmQ5NzNiYWI0NTg5Y2IzMjNjYWVhOGY1",
   "tracks": [
     {
       "added_at": "2023-10-13 09:57:11",
@@ -203,22 +203,22 @@
     {
       "added_at": "2023-10-13 09:57:11",
       "album": {
-        "name": "De Charco En Charco",
-        "url": "https://open.spotify.com/album/3FTwA6nTjoLwzGzVtuJkqN"
+        "name": "Reventar la Ciudad",
+        "url": "https://open.spotify.com/album/6FKa1U17suTGjxEBhY7IW1"
       },
       "artists": [
         {
-          "name": "Samura\u00ef",
-          "url": "https://open.spotify.com/artist/0BovidHLtM9n55WXWkApK9"
+          "name": "Walls",
+          "url": "https://open.spotify.com/artist/6tvDaHOPNWfkc9Q8IghqSR"
         },
         {
-          "name": "Bel\u00e9n Aguilera",
-          "url": "https://open.spotify.com/artist/5fmYDIdgEkSgLdL6esxgfp"
+          "name": "Funzo & Baby Loud",
+          "url": "https://open.spotify.com/artist/1nwjHzOUQZsNYX8xoWiGVC"
         }
       ],
-      "duration_ms": 160589,
-      "name": "De Charco En Charco",
-      "url": "https://open.spotify.com/track/72nJMBop58qf4xbNwZD0qO"
+      "duration_ms": 209271,
+      "name": "Reventar la Ciudad",
+      "url": "https://open.spotify.com/track/5y6IQMVfYfa9rxfiHKz5hz"
     },
     {
       "added_at": "2023-10-13 09:57:11",
@@ -239,22 +239,22 @@
     {
       "added_at": "2023-10-13 09:57:11",
       "album": {
-        "name": "Reventar la Ciudad",
-        "url": "https://open.spotify.com/album/6FKa1U17suTGjxEBhY7IW1"
+        "name": "De Charco En Charco",
+        "url": "https://open.spotify.com/album/3FTwA6nTjoLwzGzVtuJkqN"
       },
       "artists": [
         {
-          "name": "Walls",
-          "url": "https://open.spotify.com/artist/6tvDaHOPNWfkc9Q8IghqSR"
+          "name": "Samura\u00ef",
+          "url": "https://open.spotify.com/artist/0BovidHLtM9n55WXWkApK9"
         },
         {
-          "name": "Funzo & Baby Loud",
-          "url": "https://open.spotify.com/artist/1nwjHzOUQZsNYX8xoWiGVC"
+          "name": "Bel\u00e9n Aguilera",
+          "url": "https://open.spotify.com/artist/5fmYDIdgEkSgLdL6esxgfp"
         }
       ],
-      "duration_ms": 209271,
-      "name": "Reventar la Ciudad",
-      "url": "https://open.spotify.com/track/5y6IQMVfYfa9rxfiHKz5hz"
+      "duration_ms": 160589,
+      "name": "De Charco En Charco",
+      "url": "https://open.spotify.com/track/72nJMBop58qf4xbNwZD0qO"
     },
     {
       "added_at": "2023-10-13 09:57:11",
@@ -327,6 +327,26 @@
     {
       "added_at": "2023-10-13 09:57:11",
       "album": {
+        "name": "Agua al dolor",
+        "url": "https://open.spotify.com/album/6GET4E1rNMJVSENvXiKBBh"
+      },
+      "artists": [
+        {
+          "name": "Xavibo",
+          "url": "https://open.spotify.com/artist/3v2sYzsuZVd0gAhMWgl9I7"
+        },
+        {
+          "name": "Leo Rizzi",
+          "url": "https://open.spotify.com/artist/2281RSmb2cN6knnt0Iarb2"
+        }
+      ],
+      "duration_ms": 208372,
+      "name": "Agua al dolor",
+      "url": "https://open.spotify.com/track/4gJob9AR3tWEh1OfGtVj1h"
+    },
+    {
+      "added_at": "2023-10-13 09:57:11",
+      "album": {
         "name": "Tiro Al Aire",
         "url": "https://open.spotify.com/album/0EDo43ixdWe188OqliIIVk"
       },
@@ -355,26 +375,6 @@
       "duration_ms": 167311,
       "name": "Soy El \u00danico - Spotify Singles",
       "url": "https://open.spotify.com/track/7J6AQy64vqI4DYx5oJfgfi"
-    },
-    {
-      "added_at": "2023-10-13 09:57:11",
-      "album": {
-        "name": "Agua al dolor",
-        "url": "https://open.spotify.com/album/6GET4E1rNMJVSENvXiKBBh"
-      },
-      "artists": [
-        {
-          "name": "Xavibo",
-          "url": "https://open.spotify.com/artist/3v2sYzsuZVd0gAhMWgl9I7"
-        },
-        {
-          "name": "Leo Rizzi",
-          "url": "https://open.spotify.com/artist/2281RSmb2cN6knnt0Iarb2"
-        }
-      ],
-      "duration_ms": 208372,
-      "name": "Agua al dolor",
-      "url": "https://open.spotify.com/track/4gJob9AR3tWEh1OfGtVj1h"
     },
     {
       "added_at": "2023-10-13 09:57:11",
@@ -471,6 +471,22 @@
     {
       "added_at": "2023-10-13 09:57:11",
       "album": {
+        "name": "Roma No Es Amor",
+        "url": "https://open.spotify.com/album/2a5oe58vecdwg1cnZMOrlD"
+      },
+      "artists": [
+        {
+          "name": "DePol",
+          "url": "https://open.spotify.com/artist/16t23tANCHuuAN0yPqBbA0"
+        }
+      ],
+      "duration_ms": 193243,
+      "name": "Roma No Es Amor",
+      "url": "https://open.spotify.com/track/4QqLQBX0znVE999hnKLXXm"
+    },
+    {
+      "added_at": "2023-10-13 09:57:11",
+      "album": {
         "name": "Desastre de persona",
         "url": "https://open.spotify.com/album/4D7T5I3sdw74iq3TNI1pCo"
       },
@@ -487,22 +503,6 @@
       "duration_ms": 173721,
       "name": "Desastre de persona",
       "url": "https://open.spotify.com/track/5yd3BRajiHuZaPgyud145b"
-    },
-    {
-      "added_at": "2023-10-13 09:57:11",
-      "album": {
-        "name": "Roma No Es Amor",
-        "url": "https://open.spotify.com/album/2a5oe58vecdwg1cnZMOrlD"
-      },
-      "artists": [
-        {
-          "name": "DePol",
-          "url": "https://open.spotify.com/artist/16t23tANCHuuAN0yPqBbA0"
-        }
-      ],
-      "duration_ms": 193243,
-      "name": "Roma No Es Amor",
-      "url": "https://open.spotify.com/track/4QqLQBX0znVE999hnKLXXm"
     },
     {
       "added_at": "2023-10-13 09:57:11",

@@ -2,9 +2,9 @@
 
 ### [This Is ITZY](https://open.spotify.com/playlist/37i9dQZF1DX7ZHn4SQHDIn)
 
-> All in us! ITZY is here to take their CAKE!
+> All in us! ITZY is back with their first Japanese album!
 
-125 songs - 6 hr 38 min
+128 songs - 6 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,6 +27,7 @@
 | [Break Ice](https://open.spotify.com/track/4iEeJKOE5zjsRbWBGkj9lS) | [Second Aunt KimDaVi](https://open.spotify.com/artist/2XrCYhwuq6x15QFddD1gQv), [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [Break Ice](https://open.spotify.com/album/3OzSEoUPp5sNGtzXftotKm) | 2:56 | 2022-04-20 |  |
 | [Break My Heart Myself \(feat\. YEJI & RYUJIN of ITZY\)](https://open.spotify.com/track/5Av4jZOAbtY8STz7KPsNDB) | [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb), [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3), [YEJI & RYUJIN of ITZY](https://open.spotify.com/artist/4TYswX6bKUjM9rbEL7CMBH) | [Break My Heart Myself \(feat\. YEJI & RYUJIN of ITZY\)](https://open.spotify.com/album/6nHECY2OnWXVmd4QjGhJEm) | 2:42 | 2022-08-03 |  |
 | [CAKE](https://open.spotify.com/track/3syxwxJqX5jpgjNYmvzdW6) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [KILL MY DOUBT](https://open.spotify.com/album/6P01cKb7sdwfnNpuMLNEik) | 3:18 | 2023-07-31 |  |
+| [Can't tie me down](https://open.spotify.com/track/0dUmImUrt3AnbItexrt6wi) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [Blah Blah Blah](https://open.spotify.com/album/3xDuIhFckdZPrS38dSr5Cl) | 3:03 | 2023-10-17 |  |
 | [CHERRY](https://open.spotify.com/track/0w63dfnXnMUEjHTH3dGcLQ) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [IT'z ICY](https://open.spotify.com/album/5Xb03XAF2LoaMqbM38H9eB) | 3:10 | 2022-07-22 |  |
 | [CHERRY](https://open.spotify.com/track/3Ef2Sr4U0oehtcozO23yUN) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [IT'z ICY](https://open.spotify.com/album/2y2Nuvvw5xNDYOunTSsgf1) | 3:10 | 2022-04-20 | 2022-07-29 |
 | [Cheshire](https://open.spotify.com/track/7ixVW7RobslvMrvlzHYLha) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [CHESHIRE](https://open.spotify.com/album/2a1ezg7hE6Dyuymv1aCnkm) | 3:02 | 2022-11-30 |  |
@@ -84,6 +85,7 @@
 | [Not Shy \- English Ver.](https://open.spotify.com/track/7tEE2ICgZzdrCblRl7eLdV) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [Not Shy \(English Ver.\)](https://open.spotify.com/album/3cNffd0CRxT7nxYuq7PHfL) | 2:57 | 2022-04-20 | 2022-07-29 |
 | [Not Shy \- Japanese ver.](https://open.spotify.com/track/0odXyiHUGaXGewarou0KV6) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [IT'z ITZY \(Japanese ver.\)](https://open.spotify.com/album/1VvOaePbpheLTFGUlOb2yE) | 2:57 | 2022-04-20 |  |
 | [One Hundred Love](https://open.spotify.com/track/4tyvvXI34H0YILQctQr0N6) | [LIA \(ITZY\)](https://open.spotify.com/artist/19Io533x1pKQu6ZuisGek5) | [Romantic Doctor 3 OST Part.5](https://open.spotify.com/album/3tbF7tfZeQa9WnXmpclfiF) | 3:56 | 2023-05-28 |  |
+| [Playlist](https://open.spotify.com/track/0fDeofONl8z64x8zlrLgWR) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [RINGO](https://open.spotify.com/album/1kRAzoCTDLqwU6nX2I2Nmc) | 3:44 | 2023-10-17 |  |
 | [Psychic Lover](https://open.spotify.com/track/5Xik9Cid9UnaLMOyaDYO8F) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [KILL MY DOUBT](https://open.spotify.com/album/6P01cKb7sdwfnNpuMLNEik) | 2:44 | 2023-07-31 |  |
 | [RACER](https://open.spotify.com/track/5v15IF9D4nKZbto4US7Ar1) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [CHECKMATE](https://open.spotify.com/album/64EGnoCD5NuC41OqQ3E7UK) | 3:12 | 2022-07-22 |  |
 | [RACER](https://open.spotify.com/track/7cY0T2qBQU9gKKD47lqpI0) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [CHECKMATE](https://open.spotify.com/album/5nBLYhCXF29PmdeqAtjhH2) | 3:12 | 2022-07-15 | 2022-07-29 |
@@ -100,6 +102,7 @@
 | [Sorry Not Sorry](https://open.spotify.com/track/4BV9bZOeH869aewS9lwTtM) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [GUESS WHO](https://open.spotify.com/album/4lS8nhX8cplsYPzKjvhw6G) | 3:09 | 2022-07-22 |  |
 | [Sorry Not Sorry](https://open.spotify.com/track/5QaqP49NaSt1geAPNgDxYE) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [GUESS WHO](https://open.spotify.com/album/1PKhKkeCqANY5E9RGcUWUX) | 3:09 | 2022-04-20 | 2022-07-29 |
 | [Spice](https://open.spotify.com/track/4mFwA8AtXjuriVlQiRyeWr) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [Voltage](https://open.spotify.com/album/6BhKPFeQDaBldGMl1vd28h) | 3:11 | 2022-04-20 |  |
+| [STYLE](https://open.spotify.com/track/0aZ8DSEdBJbBfrNtnqgJy3) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [RINGO](https://open.spotify.com/album/1kRAzoCTDLqwU6nX2I2Nmc) | 3:03 | 2023-10-17 |  |
 | [Sugar\-holic](https://open.spotify.com/track/47YvjyoCQpYwZbRj0Rs985) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [Sugar\-holic](https://open.spotify.com/album/1eFW6R2WJUCHWSHchYkLN2) | 3:03 | 2023-10-11 |  |
 | [SUPERPOWERS](https://open.spotify.com/track/2T0cn0hvGrG8vqqB8sK4zX) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [Strong Girl Nam\-soon \(Original Television Soundtrack\), Pt.1](https://open.spotify.com/album/1atx6ADNPFNf3PKvBiSa6l) | 2:55 | 2023-10-11 |  |
 | [SURF](https://open.spotify.com/track/5P8KNvNOdqp0dd5SnilkDZ) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [Not Shy](https://open.spotify.com/album/0aqu2V5ohKHVfWqVFE7Ila) | 3:13 | 2022-04-20 | 2022-07-29 |

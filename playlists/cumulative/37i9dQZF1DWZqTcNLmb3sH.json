@@ -5656,7 +5656,7 @@
       ],
       "date_added": "2023-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-18",
       "duration_ms": 208000,
       "name": "En Madbeku - From \"Suthradaari\"",
       "url": "https://open.spotify.com/track/63F1gfU8JKw2jitvvceLnA"
@@ -6470,7 +6470,7 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-18",
       "duration_ms": 231755,
       "name": "Gandarabai (From \"Skanda\")",
       "url": "https://open.spotify.com/track/3bcpehIolpCAuf9JYJn6Ei"
@@ -14603,6 +14603,28 @@
     },
     {
       "album": {
+        "name": "Nenapina Butthi (from \"Vasanthakalada Hoogalu\")",
+        "url": "https://open.spotify.com/album/0WABjnudlWngyLpkVC8B8p"
+      },
+      "artists": [
+        {
+          "name": "Pratham Bhat",
+          "url": "https://open.spotify.com/artist/6SNzptXtawfsytlPCNvv76"
+        },
+        {
+          "name": "Bharath Janardhan",
+          "url": "https://open.spotify.com/artist/1XahZIYu35FIpKehAg9nh5"
+        }
+      ],
+      "date_added": "2023-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198939,
+      "name": "Nenapina Butthi (from \"Vasanthakalada Hoogalu\")",
+      "url": "https://open.spotify.com/track/5MpATkYPz61er1KBPs2xod"
+    },
+    {
+      "album": {
         "name": "Nenapina Haadiyali Onti Payana",
         "url": "https://open.spotify.com/album/0CBWBe54BDxagI3hxq7Ezl"
       },
@@ -19478,6 +19500,28 @@
       "duration_ms": 212203,
       "name": "Thale Kettaga Onde Formula",
       "url": "https://open.spotify.com/track/416xO4d117dG2tB5vaVC2K"
+    },
+    {
+      "album": {
+        "name": "Bhavapoorna (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/1Fluq7hrgMb5nUKdqmrMAf"
+      },
+      "artists": [
+        {
+          "name": "M.D.Pallavi",
+          "url": "https://open.spotify.com/artist/5i1cicgbYw5bJeLBKdOJqX"
+        },
+        {
+          "name": "V. Manohar",
+          "url": "https://open.spotify.com/artist/2J5reHSIjjv6mtrbD9q1xN"
+        }
+      ],
+      "date_added": "2023-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200416,
+      "name": "Thandani Thandanino",
+      "url": "https://open.spotify.com/track/6gok0id67ERXliiTMqttVP"
     },
     {
       "album": {

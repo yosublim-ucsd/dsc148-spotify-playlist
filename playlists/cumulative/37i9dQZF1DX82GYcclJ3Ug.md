@@ -4,7 +4,7 @@
 
 > No rules or boundaries\. The very best new alternative tracks\. Cover: The Last Dinner Party
 
-1,410 songs - 3 day 3 hr 22 min
+1,411 songs - 3 day 3 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -986,7 +986,8 @@
 | [Rich Kids Ruin Everything](https://open.spotify.com/track/4ANzvISz338P5mRff2m63x) | [MOD SUN](https://open.spotify.com/artist/3u2R8st1bb6zfBqNWceRXG) | [Rich Kids Ruin Everything](https://open.spotify.com/album/0uNDijaQlIxf11ygtq6PCR) | 2:36 | 2022-03-11 | 2022-04-23 |
 | [Ride or Die](https://open.spotify.com/track/22uD6yBefgzRTLrohe4IZs) | [Hippo Campus](https://open.spotify.com/artist/1btWGBz4Uu1HozTwb2Lm8A) | [Ride or Die](https://open.spotify.com/album/1vMfrkDvP3CDkYGt19voDl) | 3:30 | 2022-01-14 | 2022-04-29 |
 | [Right Here, For Now](https://open.spotify.com/track/2mMU463xwCEiBKJJTlA3tc) | [Bakar](https://open.spotify.com/artist/3K2Srho6NCF3o9MswGR76H) | [Right Here, For Now](https://open.spotify.com/album/5eiR2EXJbe3N9QTzFJ4Jzi) | 3:00 | 2023-08-18 | 2023-09-23 |
-| [ring in ur ear](https://open.spotify.com/track/0pQudbYpkDgp5NvivZeTTy) | [HUNNY](https://open.spotify.com/artist/5rebfYbZVIhbRVcRKWVOAh), [Motion City Soundtrack](https://open.spotify.com/artist/19zqV9DV3txjMUjHvltl2D) | [ring in ur ear](https://open.spotify.com/album/6FJfmpnSI7zEuAlWYRR0kT) | 3:18 | 2023-10-06 |  |
+| [ring in ur ear](https://open.spotify.com/track/0pQudbYpkDgp5NvivZeTTy) | [HUNNY](https://open.spotify.com/artist/5rebfYbZVIhbRVcRKWVOAh), [Motion City Soundtrack](https://open.spotify.com/artist/19zqV9DV3txjMUjHvltl2D) | [ring in ur ear](https://open.spotify.com/album/6FJfmpnSI7zEuAlWYRR0kT) | 3:18 | 2023-10-06 | 2023-10-18 |
+| [ring in ur ear](https://open.spotify.com/track/2iWGSNrMCPAebDQ78YmHGt) | [HUNNY](https://open.spotify.com/artist/5rebfYbZVIhbRVcRKWVOAh), [Motion City Soundtrack](https://open.spotify.com/artist/19zqV9DV3txjMUjHvltl2D) | [new planet heaven](https://open.spotify.com/album/2yLcWY0KENr1OAQ7ZAL7vD) | 3:18 | 2023-10-13 |  |
 | [Riot](https://open.spotify.com/track/04ozu87GNHVPVgd8qhBUJU) | [Daisy Grenade](https://open.spotify.com/artist/3Pj6dfWTnH3sYHctX0EZMH) | [Cult Classic](https://open.spotify.com/album/4ktqy9EW0cDMzcJjLguyk3) | 2:17 | 2023-08-11 |  |
 | [Roadkill](https://open.spotify.com/track/10jugZSxm3weVkTSSO8LFR) | [Starcrawler](https://open.spotify.com/artist/0ZhtrY2Lt1s9klwm03lu8i) | [Roadkill](https://open.spotify.com/album/4kvhcTgta9vq0hsjVfrHVJ) | 2:22 | 2022-05-13 | 2022-08-27 |
 | [Robbery](https://open.spotify.com/track/2QwrcxUvwVxvNjk83Xsrf6) | [DREAMERS](https://open.spotify.com/artist/1FgsVeOhRYuSw2ghkIXV0A), [Sueco](https://open.spotify.com/artist/4iDroUFo89Y7YBsdDTBmTD) | [Robbery](https://open.spotify.com/album/2Grp2EjKlLzlZYZBHk9Q6h) | 2:28 | 2022-08-26 | 2023-01-28 |

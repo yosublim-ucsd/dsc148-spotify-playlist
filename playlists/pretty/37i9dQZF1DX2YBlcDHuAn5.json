@@ -1,12 +1,12 @@
 {
   "description": "De mooiste muziek: Americana | Country",
-  "num_followers": 4844,
+  "num_followers": 4866,
   "original_name": "Route Americana",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyY2E2N2NkYmFkOGE1ZjZhMjhhMDhhNDg4NTNhYWUzMDAyNWQwNjBj",
+  "snapshot_id": "MCwyM2I0ZTUwOGQxNDYwMTU5MTY3MDk5NmI2ZGIzODk1MWZjODY0NWRj",
   "tracks": [
     {
       "added_at": "2023-10-05 22:00:00",
@@ -835,18 +835,18 @@
     {
       "added_at": "2023-10-05 22:00:00",
       "album": {
-        "name": "Factory",
-        "url": "https://open.spotify.com/album/5qyjhFDGMggOa3rP493M7u"
+        "name": "In The Morning, When We Rise",
+        "url": "https://open.spotify.com/album/6qeEfohwybwm2zAPYLk2lM"
       },
       "artists": [
         {
-          "name": "Pieternel",
-          "url": "https://open.spotify.com/artist/5JzvmJdkliw2nERmKleDuS"
+          "name": "Christof van der Ven",
+          "url": "https://open.spotify.com/artist/4OmL1NFB2mS4Ipv9TAWC1F"
         }
       ],
-      "duration_ms": 200854,
-      "name": "Factory",
-      "url": "https://open.spotify.com/track/0P9JBppEaWN9m6yLW0wCBe"
+      "duration_ms": 232725,
+      "name": "Colours",
+      "url": "https://open.spotify.com/track/1bVBp6PpUcxrn9EjA3uI50"
     }
   ],
   "unique_name": "Route Americana",

@@ -1,12 +1,12 @@
 {
   "description": "Homegrown Ugandan hits in one playlist. Cover: Azawi",
-  "num_followers": 1844,
+  "num_followers": 1847,
   "original_name": "Made In Uganda",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwNjg2Mzc5YThhZDBiOTI2Yjg5ZjIzYWQ2ZWJjNjM2ODgwNTYzZmVi",
+  "snapshot_id": "MCw3ZDQxN2FjZmYzNDgxNzEwYjMxNzRkZjQ4NzM0ZTJjMjk3MTBjYjI2",
   "tracks": [
     {
       "added_at": "2023-10-12 20:59:00",
@@ -303,8 +303,8 @@
     {
       "added_at": "2023-10-12 20:59:00",
       "album": {
-        "name": "Nkujjukira",
-        "url": "https://open.spotify.com/album/57ag105JslVN8kfhARNrL3"
+        "name": "Nkwata Bulungi (Bailamos)",
+        "url": "https://open.spotify.com/album/5z0xDgKDEnZGSPUxIcikEV"
       },
       "artists": [
         {
@@ -312,9 +312,9 @@
           "url": "https://open.spotify.com/artist/7d2j0CA7B9ACGv8xu2NuUu"
         }
       ],
-      "duration_ms": 185217,
-      "name": "Nkujjukira",
-      "url": "https://open.spotify.com/track/4EoZIOo7vQYfWm9u3byBff"
+      "duration_ms": 187200,
+      "name": "Nkwata Bulungi (Bailamos)",
+      "url": "https://open.spotify.com/track/7ov7271CIF8N5V5r6IspKw"
     },
     {
       "added_at": "2023-10-12 20:59:00",
@@ -335,22 +335,6 @@
     {
       "added_at": "2023-10-12 20:59:00",
       "album": {
-        "name": "Sembera",
-        "url": "https://open.spotify.com/album/5waV4kXwhpQBV4Ws7d2Ppi"
-      },
-      "artists": [
-        {
-          "name": "Geosteady",
-          "url": "https://open.spotify.com/artist/7kam501AHBrZZvvuiku9VG"
-        }
-      ],
-      "duration_ms": 208988,
-      "name": "Sembera",
-      "url": "https://open.spotify.com/track/7vgMzmsgtspbBfMVpX9JSk"
-    },
-    {
-      "added_at": "2023-10-12 20:59:00",
-      "album": {
         "name": "Ability",
         "url": "https://open.spotify.com/album/7snzcqObYYgEgCzXPXCjqe"
       },
@@ -367,6 +351,22 @@
       "duration_ms": 174706,
       "name": "Ability",
       "url": "https://open.spotify.com/track/2WfykADENkOGFjTxL8I5Cs"
+    },
+    {
+      "added_at": "2023-10-12 20:59:00",
+      "album": {
+        "name": "Sembera",
+        "url": "https://open.spotify.com/album/5waV4kXwhpQBV4Ws7d2Ppi"
+      },
+      "artists": [
+        {
+          "name": "Geosteady",
+          "url": "https://open.spotify.com/artist/7kam501AHBrZZvvuiku9VG"
+        }
+      ],
+      "duration_ms": 208988,
+      "name": "Sembera",
+      "url": "https://open.spotify.com/track/7vgMzmsgtspbBfMVpX9JSk"
     },
     {
       "added_at": "2023-10-12 20:59:00",
@@ -443,8 +443,8 @@
     {
       "added_at": "2023-10-12 20:59:00",
       "album": {
-        "name": "Nkwata Bulungi (Bailamos)",
-        "url": "https://open.spotify.com/album/5z0xDgKDEnZGSPUxIcikEV"
+        "name": "Nkujjukira",
+        "url": "https://open.spotify.com/album/57ag105JslVN8kfhARNrL3"
       },
       "artists": [
         {
@@ -452,9 +452,25 @@
           "url": "https://open.spotify.com/artist/7d2j0CA7B9ACGv8xu2NuUu"
         }
       ],
-      "duration_ms": 187200,
-      "name": "Nkwata Bulungi (Bailamos)",
-      "url": "https://open.spotify.com/track/7ov7271CIF8N5V5r6IspKw"
+      "duration_ms": 185217,
+      "name": "Nkujjukira",
+      "url": "https://open.spotify.com/track/4EoZIOo7vQYfWm9u3byBff"
+    },
+    {
+      "added_at": "2023-10-12 20:59:00",
+      "album": {
+        "name": "Belinda",
+        "url": "https://open.spotify.com/album/5jHk9XRushK0QWe6yamCPW"
+      },
+      "artists": [
+        {
+          "name": "Joshua Baraka",
+          "url": "https://open.spotify.com/artist/3sjmAVaeka80SCvK69bedW"
+        }
+      ],
+      "duration_ms": 133537,
+      "name": "Belinda",
+      "url": "https://open.spotify.com/track/64C4vezOJyDbudIGxquW89"
     },
     {
       "added_at": "2023-10-12 20:59:00",
@@ -479,22 +495,6 @@
       "duration_ms": 190144,
       "name": "Sweat",
       "url": "https://open.spotify.com/track/7FIHui4Mu8rczCTtlQfc8G"
-    },
-    {
-      "added_at": "2023-10-12 20:59:00",
-      "album": {
-        "name": "Belinda",
-        "url": "https://open.spotify.com/album/5jHk9XRushK0QWe6yamCPW"
-      },
-      "artists": [
-        {
-          "name": "Joshua Baraka",
-          "url": "https://open.spotify.com/artist/3sjmAVaeka80SCvK69bedW"
-        }
-      ],
-      "duration_ms": 133537,
-      "name": "Belinda",
-      "url": "https://open.spotify.com/track/64C4vezOJyDbudIGxquW89"
     },
     {
       "added_at": "2023-10-12 20:59:00",
@@ -535,26 +535,6 @@
     {
       "added_at": "2023-10-12 20:59:00",
       "album": {
-        "name": "Singa",
-        "url": "https://open.spotify.com/album/5riKKBkN3da2gAB13Hh3B9"
-      },
-      "artists": [
-        {
-          "name": "John Blaq",
-          "url": "https://open.spotify.com/artist/4IbZQdYTpGIrF4EvUJcAEl"
-        },
-        {
-          "name": "Lydia Jazmine",
-          "url": "https://open.spotify.com/artist/3iIWxRdX4e7W4ZD2urn7WM"
-        }
-      ],
-      "duration_ms": 197052,
-      "name": "Singa",
-      "url": "https://open.spotify.com/track/0nnoC0HoYWuixdEfgMt0SB"
-    },
-    {
-      "added_at": "2023-10-12 20:59:00",
-      "album": {
         "name": "Enjoyment",
         "url": "https://open.spotify.com/album/2PhVNYUYi6uiCsZerHfds4"
       },
@@ -571,6 +551,22 @@
       "duration_ms": 193776,
       "name": "Enjoyment",
       "url": "https://open.spotify.com/track/5pf5ek4NcXQAsuoRhvO7A3"
+    },
+    {
+      "added_at": "2023-10-12 20:59:00",
+      "album": {
+        "name": "Chai Mata",
+        "url": "https://open.spotify.com/album/5ZvpAM99cjGQ4JboHey2Jw"
+      },
+      "artists": [
+        {
+          "name": "John Blaq",
+          "url": "https://open.spotify.com/artist/4IbZQdYTpGIrF4EvUJcAEl"
+        }
+      ],
+      "duration_ms": 175000,
+      "name": "Chai Mata",
+      "url": "https://open.spotify.com/track/0yB5G5Yd2wJvIZDpNXMWBl"
     },
     {
       "added_at": "2023-10-12 20:59:00",
@@ -699,22 +695,6 @@
     {
       "added_at": "2023-10-12 20:59:00",
       "album": {
-        "name": "Chai Mata",
-        "url": "https://open.spotify.com/album/5ZvpAM99cjGQ4JboHey2Jw"
-      },
-      "artists": [
-        {
-          "name": "John Blaq",
-          "url": "https://open.spotify.com/artist/4IbZQdYTpGIrF4EvUJcAEl"
-        }
-      ],
-      "duration_ms": 175000,
-      "name": "Chai Mata",
-      "url": "https://open.spotify.com/track/0yB5G5Yd2wJvIZDpNXMWBl"
-    },
-    {
-      "added_at": "2023-10-12 20:59:00",
-      "album": {
         "name": "Kitooke Kyagonja",
         "url": "https://open.spotify.com/album/6xb67bqLm01dcf4CrhxEPa"
       },
@@ -727,6 +707,26 @@
       "duration_ms": 190129,
       "name": "Kitooke Kyagonja",
       "url": "https://open.spotify.com/track/2b80GekCEE6WW8DeWZqxi7"
+    },
+    {
+      "added_at": "2023-10-12 20:59:00",
+      "album": {
+        "name": "Singa",
+        "url": "https://open.spotify.com/album/5riKKBkN3da2gAB13Hh3B9"
+      },
+      "artists": [
+        {
+          "name": "John Blaq",
+          "url": "https://open.spotify.com/artist/4IbZQdYTpGIrF4EvUJcAEl"
+        },
+        {
+          "name": "Lydia Jazmine",
+          "url": "https://open.spotify.com/artist/3iIWxRdX4e7W4ZD2urn7WM"
+        }
+      ],
+      "duration_ms": 197052,
+      "name": "Singa",
+      "url": "https://open.spotify.com/track/0nnoC0HoYWuixdEfgMt0SB"
     },
     {
       "added_at": "2023-10-12 20:59:00",
@@ -767,22 +767,6 @@
     {
       "added_at": "2023-10-12 20:59:00",
       "album": {
-        "name": "Kikole",
-        "url": "https://open.spotify.com/album/5VcNPGETJkezy0HloYdzaH"
-      },
-      "artists": [
-        {
-          "name": "Runbouy",
-          "url": "https://open.spotify.com/artist/1Lnuzv34AVDxXdZB7W5iR4"
-        }
-      ],
-      "duration_ms": 216058,
-      "name": "Kikole",
-      "url": "https://open.spotify.com/track/56Wzn5hzO5QPZoUiQ0XWHK"
-    },
-    {
-      "added_at": "2023-10-12 20:59:00",
-      "album": {
         "name": "On My Mind",
         "url": "https://open.spotify.com/album/45UPO8rL6RyzrtWJ80rrAr"
       },
@@ -815,6 +799,22 @@
       "duration_ms": 165283,
       "name": "Wanting Me",
       "url": "https://open.spotify.com/track/7Fx19asavIQFQgv4RoUdp0"
+    },
+    {
+      "added_at": "2023-10-12 20:59:00",
+      "album": {
+        "name": "Kikole",
+        "url": "https://open.spotify.com/album/5VcNPGETJkezy0HloYdzaH"
+      },
+      "artists": [
+        {
+          "name": "Runbouy",
+          "url": "https://open.spotify.com/artist/1Lnuzv34AVDxXdZB7W5iR4"
+        }
+      ],
+      "duration_ms": 216058,
+      "name": "Kikole",
+      "url": "https://open.spotify.com/track/56Wzn5hzO5QPZoUiQ0XWHK"
     },
     {
       "added_at": "2023-10-12 20:59:00",

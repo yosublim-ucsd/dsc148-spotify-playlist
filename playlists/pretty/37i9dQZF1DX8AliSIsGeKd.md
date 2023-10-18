@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8AliSIsGeKd.md) - [plain]
 
 > The best new electronic music\. Cover: Ben Böhmer, Felix Raphael
 
-[Spotify](https://open.spotify.com/user/spotify) - 616,552 likes - 90 songs - 7 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 616,606 likes - 90 songs - 7 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8AliSIsGeKd.md) - [plain]
 | 89 | [Deep Into The Vibe](https://open.spotify.com/track/4DxcbLpXAtNHUrocZv7HWg) | [Alinka](https://open.spotify.com/artist/3qBqW8kIRZbPxbSgAyP7ls) | [Deep Into The Vibe](https://open.spotify.com/album/3hDUuNQPeDgtPuVgNe7C8Y) | 4:17 |
 | 90 | [Silver Moon Dial](https://open.spotify.com/track/6tRFihAZXh56lxvhZv7SXM) | [Fantastic Twins](https://open.spotify.com/artist/6da8OOYjq640zH3b4e4wci) | [Two Is Not a Number](https://open.spotify.com/album/2ztx954HDf9gVZ4VpVQFYj) | 5:40 |
 
-Snapshot ID: `MCwwMjBhOWI3MWU0NjZhZDY4Zjc3MDkwMzU1ZjVlMTM4ZDE2MGM5MzQ3`
+Snapshot ID: `MCw1MjdhY2E5OTk4MWUxNDlmODE3NjY2ZGU3NDBiZGEyMzYzZjc2MjAx`

@@ -4840,7 +4840,7 @@
       ],
       "date_added": "2023-03-25",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-17",
+      "date_removed": null,
       "duration_ms": 194543,
       "name": "BESO",
       "url": "https://open.spotify.com/track/609E1JCInJncactoMmkDon"
@@ -8206,7 +8206,7 @@
       ],
       "date_added": "2023-08-19",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-22",
+      "date_removed": null,
       "duration_ms": 166000,
       "name": "Control",
       "url": "https://open.spotify.com/track/30AOgA7I2O46bc9AEDl5P8"
@@ -11646,7 +11646,7 @@
       ],
       "date_added": "2023-09-16",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-15",
+      "date_removed": null,
       "duration_ms": 96638,
       "name": "Enchant\u00e9",
       "url": "https://open.spotify.com/track/7Mn6Tisa1wVvYusahnvjE5"
@@ -12164,6 +12164,36 @@
       "duration_ms": 187057,
       "name": "Eurostar (feat. Central Cee)",
       "url": "https://open.spotify.com/track/3Iy4j2lCqW8BXGkFk21U6F"
+    },
+    {
+      "album": {
+        "name": "EVERYDAY (feat. Shiva, ANNA, Geolier)",
+        "url": "https://open.spotify.com/album/7qm8bQi1fUSQoo1jUjjLIs"
+      },
+      "artists": [
+        {
+          "name": "Takagi & Ketra",
+          "url": "https://open.spotify.com/artist/76UCIJTB0jcJvBaL0CdIqx"
+        },
+        {
+          "name": "Shiva",
+          "url": "https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS"
+        },
+        {
+          "name": "ANNA",
+          "url": "https://open.spotify.com/artist/7K80yOTC0Id95gRaOxDG5u"
+        },
+        {
+          "name": "Geolier",
+          "url": "https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s"
+        }
+      ],
+      "date_added": "2023-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190188,
+      "name": "EVERYDAY (feat. Shiva, ANNA, Geolier)",
+      "url": "https://open.spotify.com/track/20bTkdvyWZjO4ORHmzXQR4"
     },
     {
       "album": {
@@ -14192,7 +14222,7 @@
       ],
       "date_added": "2023-10-07",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-17",
+      "date_removed": null,
       "duration_ms": 133694,
       "name": "Gently (feat. Bad Bunny)",
       "url": "https://open.spotify.com/track/6ZprqcYFC6D9eIZaCoqrSn"
@@ -17902,7 +17932,7 @@
       ],
       "date_added": "2023-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-18",
       "duration_ms": 141318,
       "name": "In deinen Armen",
       "url": "https://open.spotify.com/track/6XVSsVuzVUZ2zgRWB5xwef"
@@ -31390,7 +31420,7 @@
       ],
       "date_added": "2023-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-18",
       "duration_ms": 204280,
       "name": "Riptide",
       "url": "https://open.spotify.com/track/3JvrhDOgAt6p7K8mDyZwRd"
@@ -35436,7 +35466,7 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-18",
       "duration_ms": 240400,
       "name": "Sweater Weather",
       "url": "https://open.spotify.com/track/2QjOHCTQ1Jl3zawyYOpxh6"
@@ -35600,7 +35630,7 @@
       ],
       "date_added": "2023-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-18",
       "duration_ms": 248135,
       "name": "Take Me Home",
       "url": "https://open.spotify.com/track/7bogXu2MBaZzG7yCPaze3v"
@@ -38414,7 +38444,7 @@
       ],
       "date_added": "2023-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-18",
       "duration_ms": 219724,
       "name": "vampire",
       "url": "https://open.spotify.com/track/1kuGVB7EU95pJObxwvfwKS"

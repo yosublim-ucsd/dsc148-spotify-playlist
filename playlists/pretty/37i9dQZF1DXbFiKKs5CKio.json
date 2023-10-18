@@ -1,6 +1,6 @@
 {
   "description": "Muito romance, groove suave e R&B feitos no Brasil. ",
-  "num_followers": 51170,
+  "num_followers": 51262,
   "original_name": "su\u00edte.",
   "owner": {
     "name": "Spotify",
@@ -175,6 +175,26 @@
     {
       "added_at": "2023-10-13 16:15:22",
       "album": {
+        "name": "Nunca Te Deixei",
+        "url": "https://open.spotify.com/album/0pF4py857zGGCEty1CeelF"
+      },
+      "artists": [
+        {
+          "name": "Jess\u00e9 Alcantara",
+          "url": "https://open.spotify.com/artist/5T7DnnHhIPE3aaftSLRJ0X"
+        },
+        {
+          "name": "Sulset Music",
+          "url": "https://open.spotify.com/artist/4QjHpxVGeol4deNW46UScs"
+        }
+      ],
+      "duration_ms": 226000,
+      "name": "Nunca Te Deixei",
+      "url": "https://open.spotify.com/track/6p1NbvGtfNKgsRsVU9eLDG"
+    },
+    {
+      "added_at": "2023-10-13 16:15:22",
+      "album": {
         "name": "Os Garotin Session",
         "url": "https://open.spotify.com/album/1TmShjmZqjOqvhCbma8B4s"
       },
@@ -207,26 +227,6 @@
       "duration_ms": 173677,
       "name": "Leve",
       "url": "https://open.spotify.com/track/5FPEUByLcA5J6bXqAW25ja"
-    },
-    {
-      "added_at": "2023-10-13 16:15:22",
-      "album": {
-        "name": "Nunca Te Deixei",
-        "url": "https://open.spotify.com/album/0pF4py857zGGCEty1CeelF"
-      },
-      "artists": [
-        {
-          "name": "Jess\u00e9 Alcantara",
-          "url": "https://open.spotify.com/artist/5T7DnnHhIPE3aaftSLRJ0X"
-        },
-        {
-          "name": "Sulset Music",
-          "url": "https://open.spotify.com/artist/4QjHpxVGeol4deNW46UScs"
-        }
-      ],
-      "duration_ms": 226000,
-      "name": "Nunca Te Deixei",
-      "url": "https://open.spotify.com/track/6p1NbvGtfNKgsRsVU9eLDG"
     },
     {
       "added_at": "2023-10-13 16:15:22",
@@ -267,22 +267,18 @@
     {
       "added_at": "2023-10-13 16:15:22",
       "album": {
-        "name": "Ouroboros",
-        "url": "https://open.spotify.com/album/32oVldbmEaDm7yGBqlqtLU"
+        "name": "Sinto a Sua Falta",
+        "url": "https://open.spotify.com/album/0RLUPsZSe4d88a1LZUShQL"
       },
       "artists": [
         {
-          "name": "Kanda Ent",
-          "url": "https://open.spotify.com/artist/64cxiqdS6yO0t11U99Lpze"
-        },
-        {
-          "name": "Diego Amani",
-          "url": "https://open.spotify.com/artist/7C4JFPMFLycKlz7m7KKfgu"
+          "name": "Kain",
+          "url": "https://open.spotify.com/artist/2FayqmwmL9Zxd4vErhPNgN"
         }
       ],
-      "duration_ms": 152706,
-      "name": "Doses",
-      "url": "https://open.spotify.com/track/2hNimeRJSfXUunq4gEsQGa"
+      "duration_ms": 201620,
+      "name": "Sinto a Sua Falta",
+      "url": "https://open.spotify.com/track/2dZqnl4olWllAOzQRmdO4n"
     },
     {
       "added_at": "2023-10-13 16:15:22",
@@ -327,18 +323,22 @@
     {
       "added_at": "2023-10-13 16:15:22",
       "album": {
-        "name": "Sinto a Sua Falta",
-        "url": "https://open.spotify.com/album/0RLUPsZSe4d88a1LZUShQL"
+        "name": "Ouroboros",
+        "url": "https://open.spotify.com/album/32oVldbmEaDm7yGBqlqtLU"
       },
       "artists": [
         {
-          "name": "Kain",
-          "url": "https://open.spotify.com/artist/2FayqmwmL9Zxd4vErhPNgN"
+          "name": "Kanda Ent",
+          "url": "https://open.spotify.com/artist/64cxiqdS6yO0t11U99Lpze"
+        },
+        {
+          "name": "Diego Amani",
+          "url": "https://open.spotify.com/artist/7C4JFPMFLycKlz7m7KKfgu"
         }
       ],
-      "duration_ms": 201620,
-      "name": "Sinto a Sua Falta",
-      "url": "https://open.spotify.com/track/2dZqnl4olWllAOzQRmdO4n"
+      "duration_ms": 152706,
+      "name": "Doses",
+      "url": "https://open.spotify.com/track/2hNimeRJSfXUunq4gEsQGa"
     },
     {
       "added_at": "2023-10-13 16:15:22",
@@ -399,6 +399,22 @@
     {
       "added_at": "2023-10-13 16:15:22",
       "album": {
+        "name": "Coisas De Amor",
+        "url": "https://open.spotify.com/album/5iOi8dqj4Pg7yz4IcH385v"
+      },
+      "artists": [
+        {
+          "name": "IZRRA",
+          "url": "https://open.spotify.com/artist/38m0QxjrBKOOEymSd33GzV"
+        }
+      ],
+      "duration_ms": 211005,
+      "name": "Me Esque\u00e7a Devagar",
+      "url": "https://open.spotify.com/track/74yArCzYnQuxpMeo68JYgd"
+    },
+    {
+      "added_at": "2023-10-13 16:15:22",
+      "album": {
         "name": "Mergulhei",
         "url": "https://open.spotify.com/album/4raO1hapwBztV4pxrNSzps"
       },
@@ -431,38 +447,6 @@
     {
       "added_at": "2023-10-13 16:15:22",
       "album": {
-        "name": "Aurora",
-        "url": "https://open.spotify.com/album/7lyl9H9Dz6pSqZ7do5UNOL"
-      },
-      "artists": [
-        {
-          "name": "Doug O.",
-          "url": "https://open.spotify.com/artist/1mj6W331lVCliU08OYyMg0"
-        }
-      ],
-      "duration_ms": 151578,
-      "name": "Aurora",
-      "url": "https://open.spotify.com/track/1IurzB42M5kCAuk0Otp36V"
-    },
-    {
-      "added_at": "2023-10-13 16:15:22",
-      "album": {
-        "name": "Coisas De Amor",
-        "url": "https://open.spotify.com/album/5iOi8dqj4Pg7yz4IcH385v"
-      },
-      "artists": [
-        {
-          "name": "IZRRA",
-          "url": "https://open.spotify.com/artist/38m0QxjrBKOOEymSd33GzV"
-        }
-      ],
-      "duration_ms": 211005,
-      "name": "Me Esque\u00e7a Devagar",
-      "url": "https://open.spotify.com/track/74yArCzYnQuxpMeo68JYgd"
-    },
-    {
-      "added_at": "2023-10-13 16:15:22",
-      "album": {
         "name": "Hip Hop Machine #13",
         "url": "https://open.spotify.com/album/6NHVEU2tX4VYNs6t9aFBkP"
       },
@@ -487,6 +471,22 @@
     {
       "added_at": "2023-10-13 16:15:22",
       "album": {
+        "name": "Aurora",
+        "url": "https://open.spotify.com/album/7lyl9H9Dz6pSqZ7do5UNOL"
+      },
+      "artists": [
+        {
+          "name": "Doug O.",
+          "url": "https://open.spotify.com/artist/1mj6W331lVCliU08OYyMg0"
+        }
+      ],
+      "duration_ms": 151578,
+      "name": "Aurora",
+      "url": "https://open.spotify.com/track/1IurzB42M5kCAuk0Otp36V"
+    },
+    {
+      "added_at": "2023-10-13 16:15:22",
+      "album": {
         "name": "93",
         "url": "https://open.spotify.com/album/2sbYShIsSsFnm62JKjTqUJ"
       },
@@ -499,26 +499,6 @@
       "duration_ms": 226073,
       "name": "Me Curar",
       "url": "https://open.spotify.com/track/0cS24SOojuYiP5OIP3ikxO"
-    },
-    {
-      "added_at": "2023-10-13 16:15:22",
-      "album": {
-        "name": "Dava Praia",
-        "url": "https://open.spotify.com/album/4s5wiro9Rxv3PNRw7LJMkT"
-      },
-      "artists": [
-        {
-          "name": "Guinu",
-          "url": "https://open.spotify.com/artist/5ofL9KZec6IUhmMT7uSmXl"
-        },
-        {
-          "name": "Juliane Gamboa",
-          "url": "https://open.spotify.com/artist/34Ew3QfjXTBeGWxylACsnA"
-        }
-      ],
-      "duration_ms": 163240,
-      "name": "Dava Praia",
-      "url": "https://open.spotify.com/track/1yBnU3fCQXflHioJWsdiDm"
     },
     {
       "added_at": "2023-10-13 16:15:22",
@@ -543,18 +523,22 @@
     {
       "added_at": "2023-10-13 16:15:22",
       "album": {
-        "name": "Carinho",
-        "url": "https://open.spotify.com/album/35LwHQVDtxMoYGM6tYEYLC"
+        "name": "Dava Praia",
+        "url": "https://open.spotify.com/album/4s5wiro9Rxv3PNRw7LJMkT"
       },
       "artists": [
         {
-          "name": "Doug O.",
-          "url": "https://open.spotify.com/artist/1mj6W331lVCliU08OYyMg0"
+          "name": "Guinu",
+          "url": "https://open.spotify.com/artist/5ofL9KZec6IUhmMT7uSmXl"
+        },
+        {
+          "name": "Juliane Gamboa",
+          "url": "https://open.spotify.com/artist/34Ew3QfjXTBeGWxylACsnA"
         }
       ],
-      "duration_ms": 178666,
-      "name": "Carinho",
-      "url": "https://open.spotify.com/track/18dRY86aWEyp7E2WzlhMLT"
+      "duration_ms": 163240,
+      "name": "Dava Praia",
+      "url": "https://open.spotify.com/track/1yBnU3fCQXflHioJWsdiDm"
     },
     {
       "added_at": "2023-10-13 16:15:22",
@@ -587,6 +571,26 @@
       "duration_ms": 173385,
       "name": "SHAWTY",
       "url": "https://open.spotify.com/track/27WkGbGW5pZ03Gm8Ly4r4b"
+    },
+    {
+      "added_at": "2023-10-13 16:15:22",
+      "album": {
+        "name": "Correria",
+        "url": "https://open.spotify.com/album/6IapQS07s6lMRIX0MTMEjQ"
+      },
+      "artists": [
+        {
+          "name": "Sarah Soul",
+          "url": "https://open.spotify.com/artist/1V1MSClQaA45C4QG3my6Xv"
+        },
+        {
+          "name": "Carol Terra",
+          "url": "https://open.spotify.com/artist/322TdXC5aJjj4jFTtmFiJp"
+        }
+      ],
+      "duration_ms": 146769,
+      "name": "Noite em Febre",
+      "url": "https://open.spotify.com/track/46T1WRW3KTm0kReMW0cCJZ"
     },
     {
       "added_at": "2023-10-13 16:15:22",
@@ -635,42 +639,6 @@
     {
       "added_at": "2023-10-13 16:15:22",
       "album": {
-        "name": "Correria",
-        "url": "https://open.spotify.com/album/6IapQS07s6lMRIX0MTMEjQ"
-      },
-      "artists": [
-        {
-          "name": "Sarah Soul",
-          "url": "https://open.spotify.com/artist/1V1MSClQaA45C4QG3my6Xv"
-        },
-        {
-          "name": "Carol Terra",
-          "url": "https://open.spotify.com/artist/322TdXC5aJjj4jFTtmFiJp"
-        }
-      ],
-      "duration_ms": 146769,
-      "name": "Noite em Febre",
-      "url": "https://open.spotify.com/track/46T1WRW3KTm0kReMW0cCJZ"
-    },
-    {
-      "added_at": "2023-10-13 16:15:22",
-      "album": {
-        "name": "Aeroporto",
-        "url": "https://open.spotify.com/album/5Iz6x9d8U6UNsM4T7wfQzq"
-      },
-      "artists": [
-        {
-          "name": "Doug O.",
-          "url": "https://open.spotify.com/artist/1mj6W331lVCliU08OYyMg0"
-        }
-      ],
-      "duration_ms": 209537,
-      "name": "Aeroporto",
-      "url": "https://open.spotify.com/track/1GHgaj9wk3SjRwmwr1fReW"
-    },
-    {
-      "added_at": "2023-10-13 16:15:22",
-      "album": {
         "name": "Me Faz Sentir",
         "url": "https://open.spotify.com/album/2Bpby9CAKbp5H9aSndSTs2"
       },
@@ -691,6 +659,22 @@
       "duration_ms": 231402,
       "name": "Me Faz Sentir",
       "url": "https://open.spotify.com/track/1wBQy5qESa8KhMMAWmJAOh"
+    },
+    {
+      "added_at": "2023-10-13 16:15:22",
+      "album": {
+        "name": "Carinho",
+        "url": "https://open.spotify.com/album/35LwHQVDtxMoYGM6tYEYLC"
+      },
+      "artists": [
+        {
+          "name": "Doug O.",
+          "url": "https://open.spotify.com/artist/1mj6W331lVCliU08OYyMg0"
+        }
+      ],
+      "duration_ms": 178666,
+      "name": "Carinho",
+      "url": "https://open.spotify.com/track/18dRY86aWEyp7E2WzlhMLT"
     },
     {
       "added_at": "2023-10-13 16:15:22",
@@ -723,6 +707,22 @@
       "duration_ms": 194137,
       "name": "\u00cdndigo (Te Venero)",
       "url": "https://open.spotify.com/track/73Yn2f5eGn3iG4bzTB98tl"
+    },
+    {
+      "added_at": "2023-10-13 16:15:22",
+      "album": {
+        "name": "S\u00f3 Vem",
+        "url": "https://open.spotify.com/album/2ZgqjH8t5uH1BbJGtyOjaC"
+      },
+      "artists": [
+        {
+          "name": "Leo Guima",
+          "url": "https://open.spotify.com/artist/4i6YMhe65eKTuSFRKq0X1d"
+        }
+      ],
+      "duration_ms": 188168,
+      "name": "Debochada",
+      "url": "https://open.spotify.com/track/429MZRfRYM5RWR5Lie3beS"
     },
     {
       "added_at": "2023-10-13 16:15:22",
@@ -799,22 +799,6 @@
     {
       "added_at": "2023-10-13 16:15:22",
       "album": {
-        "name": "S\u00f3 Vem",
-        "url": "https://open.spotify.com/album/2ZgqjH8t5uH1BbJGtyOjaC"
-      },
-      "artists": [
-        {
-          "name": "Leo Guima",
-          "url": "https://open.spotify.com/artist/4i6YMhe65eKTuSFRKq0X1d"
-        }
-      ],
-      "duration_ms": 188168,
-      "name": "Debochada",
-      "url": "https://open.spotify.com/track/429MZRfRYM5RWR5Lie3beS"
-    },
-    {
-      "added_at": "2023-10-13 16:15:22",
-      "album": {
         "name": "n \u00e9 vc, sou eu",
         "url": "https://open.spotify.com/album/2JPzzYmLqEEcOF3nHBpSJ3"
       },
@@ -851,6 +835,22 @@
       "duration_ms": 200281,
       "name": "Perfeita Demais",
       "url": "https://open.spotify.com/track/0iNOiUAd5TjdGTA60iiPCJ"
+    },
+    {
+      "added_at": "2023-10-13 16:15:22",
+      "album": {
+        "name": "Aeroporto",
+        "url": "https://open.spotify.com/album/5Iz6x9d8U6UNsM4T7wfQzq"
+      },
+      "artists": [
+        {
+          "name": "Doug O.",
+          "url": "https://open.spotify.com/artist/1mj6W331lVCliU08OYyMg0"
+        }
+      ],
+      "duration_ms": 209537,
+      "name": "Aeroporto",
+      "url": "https://open.spotify.com/track/1GHgaj9wk3SjRwmwr1fReW"
     },
     {
       "added_at": "2023-10-13 16:15:22",

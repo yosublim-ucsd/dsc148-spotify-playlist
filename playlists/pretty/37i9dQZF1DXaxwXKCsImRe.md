@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaxwXKCsImRe.md) - [plain]
 
 > A Spotify program to promote exciting artists! RADAR BNLX: Shermanology \(cover\), Siggy & D1ns, Kids With Buns, Pommelien Thijs, Haunted Youth & Zoë Tauran
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,929 likes - 34 songs - 1 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,930 likes - 34 songs - 1 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

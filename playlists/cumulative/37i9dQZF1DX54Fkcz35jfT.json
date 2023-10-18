@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-07-23",
-  "description": "\u56fd\u5185\u5916\u306e\u69d8\u3005\u306a\u30b7\u30fc\u30f3\u3068\u5171\u9cf4\u3059\u308b\u65e5\u672c\u306e\u30e9\u30a6\u30c9\u30fb\u30ed\u30c3\u30af\u3092\u7279\u96c6\u3002Cover: FZMZ",
+  "description": "\u56fd\u5185\u5916\u306e\u69d8\u3005\u306a\u30b7\u30fc\u30f3\u3068\u5171\u9cf4\u3059\u308b\u65e5\u672c\u306e\u30e9\u30a6\u30c9\u30fb\u30ed\u30c3\u30af\u3092\u7279\u96c6\u3002Cover: Age Factory",
   "name": "Loud Rock Japan",
   "tracks": [
     {
@@ -244,6 +244,24 @@
       "duration_ms": 227333,
       "name": "Black Jean Boogie",
       "url": "https://open.spotify.com/track/6ooCR2BIdsMSzddhiElEnp"
+    },
+    {
+      "album": {
+        "name": "Blood in blue",
+        "url": "https://open.spotify.com/album/0twJvdID2xF7NZvAb3K1Gx"
+      },
+      "artists": [
+        {
+          "name": "Age Factory",
+          "url": "https://open.spotify.com/artist/7pgRyTH4nTH4KoruoGuAQo"
+        }
+      ],
+      "date_added": "2023-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165368,
+      "name": "Blood in blue",
+      "url": "https://open.spotify.com/track/4qfi7sCX4w5dZiIltgkPHB"
     },
     {
       "album": {
@@ -936,7 +954,7 @@
       ],
       "date_added": "2023-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-18",
       "duration_ms": 193520,
       "name": "JUNGLE BUN DEM",
       "url": "https://open.spotify.com/track/3wWMqIeTZcC6eLmR0G5dcG"
@@ -1416,6 +1434,24 @@
       "duration_ms": 246518,
       "name": "Mountain Top",
       "url": "https://open.spotify.com/track/2VZsN0yEEVmEsohRi56wEm"
+    },
+    {
+      "album": {
+        "name": "My One Wish",
+        "url": "https://open.spotify.com/album/0LPc8YbGDUS4xkphNIQIbk"
+      },
+      "artists": [
+        {
+          "name": "Ken Yokoyama",
+          "url": "https://open.spotify.com/artist/4pPZ7nNH108ax8A1sjxfpX"
+        }
+      ],
+      "date_added": "2023-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172092,
+      "name": "My One Wish",
+      "url": "https://open.spotify.com/track/5TO9cofRiOhakgaMh3f75i"
     },
     {
       "album": {
@@ -2260,7 +2296,7 @@
       ],
       "date_added": "2023-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-18",
       "duration_ms": 140440,
       "name": "That's all enough.",
       "url": "https://open.spotify.com/track/2Th0tCO7TJfcAdh9Tu9TyP"
@@ -2394,7 +2430,7 @@
       ],
       "date_added": "2023-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-18",
       "duration_ms": 247472,
       "name": "Toxic",
       "url": "https://open.spotify.com/track/78i2d6aQU7ybQb09keIB88"
@@ -2668,7 +2704,7 @@
       ],
       "date_added": "2023-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-18",
       "duration_ms": 223458,
       "name": "\u30aa\u30ea\u30b8\u30ca\u30eb\u30b9\u30af\u30fc\u30d7",
       "url": "https://open.spotify.com/track/4XFDyEOJLCDYstSNPDqLnS"
@@ -2780,7 +2816,7 @@
       ],
       "date_added": "2023-07-20",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-11",
+      "date_removed": null,
       "duration_ms": 192506,
       "name": "\u30b9\u30c8\u30e9\u30c8\u30ad\u30e3\u30b9\u30bf\u30fc \u30b7\u30fc\u30b5\u30a4\u30c9",
       "url": "https://open.spotify.com/track/49du8muj1Z8rgQ79oSDzE7"
@@ -2852,7 +2888,7 @@
       ],
       "date_added": "2023-07-20",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-13",
+      "date_removed": null,
       "duration_ms": 222479,
       "name": "\u30d3\u30ad\u30cb\u30fb\u30b9\u30dd\u30fc\u30c4\u30fb\u30dd\u30f3\u30c1\u30f3",
       "url": "https://open.spotify.com/track/3cSfR5ePuViozu47qMhxNv"

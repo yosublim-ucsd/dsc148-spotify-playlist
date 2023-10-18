@@ -4,7 +4,7 @@
 
 > Keep your finger on the pulse of pop\. Cover: Clinton Kane
 
-398 songs - 20 hr 38 min
+399 songs - 20 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,7 +38,7 @@
 | [bad idea right?](https://open.spotify.com/track/2i8f4VnnBjy0yDqH2C452a) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [bad idea right?](https://open.spotify.com/album/3SHq2tBWWsAG6NEOMKZSj0) | 3:04 | 2023-08-10 | 2023-09-08 |
 | [Barbie Dreams \(feat\. Kaliii\) \[From Barbie The Album\]](https://open.spotify.com/track/7njDhlprmHJ1I9pM0rxMON) | [FIFTY FIFTY](https://open.spotify.com/artist/4GJ6xDCF5jaUqD6avOuQT6), [Kaliii](https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL) | [Barbie Dreams \(feat\. Kaliii\) \[From Barbie The Album\]](https://open.spotify.com/album/5x9fQvlmhZqWoifJs9dVVL) | 2:29 | 2023-07-06 | 2023-08-05 |
 | [Be More](https://open.spotify.com/track/4bp4kwe29qY9PBdrEgSa53) | [Stephen Sanchez](https://open.spotify.com/artist/5XKFrudbV4IiuE5WuTPRmT) | [Be More](https://open.spotify.com/album/3td8YUGhx5odYjMPV7HPNF) | 3:51 | 2023-08-04 | 2023-08-25 |
-| [be okay](https://open.spotify.com/track/7KIyjTDMad8HvLj5IKBffs) | [Yumi Zouma](https://open.spotify.com/artist/4tPyCwWrsvZ8OKYl7QRavL) | [be okay](https://open.spotify.com/album/00JQobZQO6vsc2vI2uknGK) | 3:56 | 2023-10-12 |  |
+| [be okay](https://open.spotify.com/track/7KIyjTDMad8HvLj5IKBffs) | [Yumi Zouma](https://open.spotify.com/artist/4tPyCwWrsvZ8OKYl7QRavL) | [be okay](https://open.spotify.com/album/00JQobZQO6vsc2vI2uknGK) | 3:56 | 2023-10-12 | 2023-10-18 |
 | [Be Your Man](https://open.spotify.com/track/0vUGBxV9t1nNkmdWYDhHOH) | [G Flip](https://open.spotify.com/artist/4SdIXLzfabqU61iK7SnKAU) | [Be Your Man](https://open.spotify.com/album/2FPHRWP6rXfchwyAZCJjAu) | 3:32 | 2023-06-15 | 2023-07-14 |
 | [Been Better](https://open.spotify.com/track/6FhR5krBQdAF8DbjqRp377) | [Seaforth](https://open.spotify.com/artist/1ryJB2bhfYjjIt8kqy4BoG) | [Been Better](https://open.spotify.com/album/0PVRY0As601uZ4anMvKxH2) | 2:50 | 2023-07-27 | 2023-09-08 |
 | [Before You](https://open.spotify.com/track/5WqkT4vHzLRsVvKCKUd8Pv) | [Tom Grennan](https://open.spotify.com/artist/5SHxzwjek1Pipl1Yk11UHv) | [What Ifs & Maybes](https://open.spotify.com/album/3CWP6u3BR6KmyodkIoyE6F) | 2:57 | 2023-06-15 | 2023-08-11 |
@@ -47,7 +47,7 @@
 | [Better Things](https://open.spotify.com/track/6zZWoHlF2zNSLUNLvx4GUl) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [Better Things](https://open.spotify.com/album/1SHLOv0DDdRecK60z86Lth) | 3:23 | 2023-09-07 | 2023-10-13 |
 | [Bigger Person](https://open.spotify.com/track/2Kqw2ECnErSCU9bxPSVgGx) | [Lauren Spencer Smith](https://open.spotify.com/artist/79AyR6ATpj2LTPxfb6FX50) | [Mirror](https://open.spotify.com/album/1nEJIdxjw5Y6LBlWLGJzzT) | 2:41 | 2023-07-13 | 2023-09-15 |
 | [BITTERSWEET](https://open.spotify.com/track/4Ap4XPfDknSxcqBTVbyEqp) | [Clinton Kane](https://open.spotify.com/artist/7okSU80WTrn4LXlyXYbX3P) | [BITTERSWEET](https://open.spotify.com/album/5aVRKxppPPFxvPYGXNerNX) | 2:38 | 2023-10-12 |  |
-| [Black Hole](https://open.spotify.com/track/07gbjddL6AZ4PYKaviVMOQ) | [boygenius](https://open.spotify.com/artist/1hLiboQ98IQWhpKeP9vRFw) | [the rest](https://open.spotify.com/album/1n0esOkFQdL74PwMwTVgtz) | 2:21 | 2023-10-12 |  |
+| [Black Hole](https://open.spotify.com/track/07gbjddL6AZ4PYKaviVMOQ) | [boygenius](https://open.spotify.com/artist/1hLiboQ98IQWhpKeP9vRFw) | [the rest](https://open.spotify.com/album/1n0esOkFQdL74PwMwTVgtz) | 2:21 | 2023-10-12 | 2023-10-18 |
 | [Blindside](https://open.spotify.com/track/5BPy4CFuroB7vFbZ6M9vES) | [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM) | [Blindside](https://open.spotify.com/album/1RvvpYObiXki55iPrP8EVQ) | 3:31 | 2023-08-04 | 2023-09-29 |
 | [Bloom](https://open.spotify.com/track/7LODrLEO3DzBUyxxCuA6Eo) | [Aidan Bissett](https://open.spotify.com/artist/4XQI4hyuy5xun1ou3SM8Oe) | [Bloom](https://open.spotify.com/album/4VQzqV4IQqtPlxvW7ZFfGq) | 3:33 | 2023-06-15 | 2023-07-07 |
 | [Body](https://open.spotify.com/track/1fl7OiMREgGebEZtqXi17j) | [Isla Noon](https://open.spotify.com/artist/14DaqRFdDOsSnbpw4cNhku) | [Body](https://open.spotify.com/album/5oonGFobUjrE4zPb1a8TFV) | 3:16 | 2023-09-21 |  |
@@ -63,6 +63,7 @@
 | [Buy Me A Dream](https://open.spotify.com/track/5L7VfKJtyDkBYX41ctKC5Y) | [Hattie Oates](https://open.spotify.com/artist/21XMngjCd7tTpvn2ruHB6R) | [Buy Me A Dream](https://open.spotify.com/album/4znFn1iWTnW4n5x3SrBaSB) | 2:39 | 2023-06-22 | 2023-08-05 |
 | [Can I Shower At Yours](https://open.spotify.com/track/4M5SqWR8LIgE9N3QzEJlyS) | [Amy Shark](https://open.spotify.com/artist/2DORQjKJVYZMx9uu82UGtT) | [Can I Shower At Yours](https://open.spotify.com/album/0fTLP9DCzyRXwn1un2prwj) | 1:54 | 2023-06-22 | 2023-08-18 |
 | [Capable of love](https://open.spotify.com/track/4bqDgEc3V9o0gle8mvgCgN) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t) | [Capable of love](https://open.spotify.com/album/0v71HfYxKmyN4kGA96Iwn2) | 3:43 | 2023-10-12 |  |
+| [Carousel](https://open.spotify.com/track/20TVG7Ne8zeV6LS3pGpFOO) | [Paige](https://open.spotify.com/artist/2hscsIIlxYGIUYsfarFCG7) | [King Clown](https://open.spotify.com/album/5ruCuWl2zADdyMIHE7wAYn) | 3:01 | 2023-10-17 |  |
 | [Caught Up On You](https://open.spotify.com/track/3QjAG3LVB0P5x251vwinVm) | [JP Saxe](https://open.spotify.com/artist/66W9LaWS0DPdL7Sz8iYGYe) | [Caught Up On You](https://open.spotify.com/album/6ICcS5WGbZr33DESzK9Xiq) | 3:26 | 2023-08-10 | 2023-08-25 |
 | [Changes](https://open.spotify.com/track/13CoTwU7uuvbnCfejIhH7n) | [Amila](https://open.spotify.com/artist/1aov4dgX0qVZVjIseA9LCh), [Rhys Rich](https://open.spotify.com/artist/5NUjwOnA599cEmrIpSSw7d) | [Changes](https://open.spotify.com/album/29MhV870Wmh41zik9fFSZK) | 3:07 | 2023-06-27 | 2023-08-18 |
 | [Chasing That Feeling](https://open.spotify.com/track/0ZPjVmof45INEERgYfadtv) | [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB) | [The Name Chapter: FREEFALL](https://open.spotify.com/album/63fWdGyeBj8VDjvHSUROx3) | 3:02 | 2023-10-12 |  |
@@ -241,7 +242,7 @@
 | [Meltdown](https://open.spotify.com/track/0hIDcUm3mJEn4gNo2ocLM5) | [Niall Horan](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4) | [The Show](https://open.spotify.com/album/7CwQcswdSnPsSwQtskEmT4) | 2:33 | 2023-06-15 | 2023-06-23 |
 | [Middle Ground](https://open.spotify.com/track/3xiccJ9jlTVwC8Yl66eGv5) | [Maroon 5](https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP) | [Middle Ground](https://open.spotify.com/album/5jmEjw5krglNmuEy45URZT) | 3:39 | 2023-06-15 | 2023-06-30 |
 | [Molly Sucks \(At Parties\) \[feat\. Chanel Loren\]](https://open.spotify.com/track/3boVjk1GSKD4mnJJbmdXf9) | [GAZAL](https://open.spotify.com/artist/6DJk0meRu8KvWmCngfBvDU), [Chanel Loren](https://open.spotify.com/artist/50D6HQtMzB5fH7eXFA3tJK) | [Molly Sucks \(At Parties\) \[feat\. Chanel Loren\]](https://open.spotify.com/album/7pETeC6zWXLdNGFGrdM6X8) | 3:13 | 2023-09-28 |  |
-| [MONACO](https://open.spotify.com/track/4MjDJD8cW7iVeWInc2Bdyj) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [nadie sabe lo que va a pasar mañana](https://open.spotify.com/album/4FftCsAcXXD1nFO9RFUNFO) | 4:27 | 2023-10-12 |  |
+| [MONACO](https://open.spotify.com/track/4MjDJD8cW7iVeWInc2Bdyj) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [nadie sabe lo que va a pasar mañana](https://open.spotify.com/album/4FftCsAcXXD1nFO9RFUNFO) | 4:27 | 2023-10-12 | 2023-10-18 |
 | [Monopoly](https://open.spotify.com/track/127bEznW7acmYrAHqsT2yF) | [Georgia Lines](https://open.spotify.com/artist/6mLG8h9CeWZ2QsuHIgka3c) | [Monopoly](https://open.spotify.com/album/4x6R4qgvQl6CMAXj4gzMKv) | 3:38 | 2023-06-15 | 2023-07-14 |
 | [Monster Brain](https://open.spotify.com/track/4TJbCoFd2cF2HOemoZ2WYG) | [Mia Wray](https://open.spotify.com/artist/3pol9num4gn7ifeZrENp2E) | [Monster Brain](https://open.spotify.com/album/5jU7sB2508KOa1gXnAtA7h) | 3:37 | 2023-06-15 | 2023-07-14 |
 | [Mosquito](https://open.spotify.com/track/0LzidBf7cUsnZnG34OUPSF) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t) | [Mosquito](https://open.spotify.com/album/4D4XpwlWhUNp8dOdYmuNIB) | 2:26 | 2023-09-28 |  |

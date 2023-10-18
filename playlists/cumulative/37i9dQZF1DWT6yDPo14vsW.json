@@ -59,6 +59,28 @@
     },
     {
       "album": {
+        "name": "A Ver Amor (Remix)",
+        "url": "https://open.spotify.com/album/0uSdEQyGlwSTl9ueKm5rLX"
+      },
+      "artists": [
+        {
+          "name": "Adriel Yanel",
+          "url": "https://open.spotify.com/artist/0bGxh7uCSE5iAmtcPQZk9y"
+        },
+        {
+          "name": "Mart\u00edn Daniel Di Lacio",
+          "url": "https://open.spotify.com/artist/02Jt9Wovlq0deCsEt9GU9p"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189576,
+      "name": "A Ver Amor (Remix)",
+      "url": "https://open.spotify.com/track/3Oabf0e2q7LwW9KILJ3AQx"
+    },
+    {
+      "album": {
         "name": "Todo Cambio",
         "url": "https://open.spotify.com/album/7dTSfhp5okEjaYXp38LwVf"
       },

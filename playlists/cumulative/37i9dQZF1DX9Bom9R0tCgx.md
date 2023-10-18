@@ -4,7 +4,7 @@
 
 > All the stuff that will blow your speakers!
 
-144 songs - 7 hr 26 min
+145 songs - 7 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -150,7 +150,8 @@
 | [Weekend Party](https://open.spotify.com/track/6l6qbSwlEAWRGfbL5sf8y8) | [Harris & Ford](https://open.spotify.com/artist/4FDj6mh458K7m9Txwyj2rt), [ItaloBrothers](https://open.spotify.com/artist/5nkYRuiIHg2xXHFC8bfosJ) | [Weekend Party](https://open.spotify.com/album/4iELrv5c4zQNNlzEZdLdo1) | 2:23 | 2023-08-31 |  |
 | [Welcome to the Club](https://open.spotify.com/track/6TvQn79IjdaQanfYK7ZDgo) | [Harris & Ford](https://open.spotify.com/artist/4FDj6mh458K7m9Txwyj2rt), [KYANU](https://open.spotify.com/artist/3VuZZ1n0XGacnz96Ys8mrZ), [DJ Gollum](https://open.spotify.com/artist/1wNmJCRRNn8WpJrRSTKKqT) | [Welcome to the Club](https://open.spotify.com/album/20oXdz9ix2ZGYlGvAIo7PZ) | 3:15 | 2023-08-31 |  |
 | [When We Come Alive](https://open.spotify.com/track/0g2XaTyNihXISfqnhuv7HH) | [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5), [Vini Vici](https://open.spotify.com/artist/29zsVzEH33dD5QqxeL8dvy), [ALBA](https://open.spotify.com/artist/5MKM7cNYL4SIuIe6q4Qd1p) | [When We Come Alive](https://open.spotify.com/album/3SLVzlIVvgjPdRqkc58WA1) | 3:00 | 2023-08-31 |  |
-| [WOLFGANG](https://open.spotify.com/track/7HG413xQYwoR6i8D3ADC7J) | [Timmy Trumpet](https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ), [Mariana BO](https://open.spotify.com/artist/2cFzYhiHqYS7o8ZIM9WD22), [Junkie Kid](https://open.spotify.com/artist/3CjPghA9sowRwFGSrU038J) | [Timmy Trumpet's SINPHONY No\. 1](https://open.spotify.com/album/1QRuYyPWkoxox6RY3bU4T5) | 2:48 | 2023-10-12 |  |
+| [WOLFGANG](https://open.spotify.com/track/7HG413xQYwoR6i8D3ADC7J) | [Timmy Trumpet](https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ), [Mariana BO](https://open.spotify.com/artist/2cFzYhiHqYS7o8ZIM9WD22), [Junkie Kid](https://open.spotify.com/artist/3CjPghA9sowRwFGSrU038J) | [Timmy Trumpet's SINPHONY No\. 1](https://open.spotify.com/album/1QRuYyPWkoxox6RY3bU4T5) | 2:48 | 2023-10-12 | 2023-10-18 |
+| [WOLFGANG](https://open.spotify.com/track/7fSxXydUV3O7B9v2EBQCS3) | [Timmy Trumpet](https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ), [Mariana BO](https://open.spotify.com/artist/2cFzYhiHqYS7o8ZIM9WD22), [Junkie Kid](https://open.spotify.com/artist/3CjPghA9sowRwFGSrU038J) | [Timmy Trumpet's SINPHONY No\. 1](https://open.spotify.com/album/4nRym2kzawfVrO1bHcw5zK) | 2:48 | 2023-10-12 |  |
 | [XTC](https://open.spotify.com/track/7yeMfRQjzbyUn3c9TV3KGh) | [Quickdrop](https://open.spotify.com/artist/5zwFj25Ky9akUZjQHuaDDa), [Verox](https://open.spotify.com/artist/1YxEjbsVeq02klNTE7PFFD) | [XTC](https://open.spotify.com/album/1tWFh0S0BpKy0Ozpm2fBj4) | 2:42 | 2023-10-05 |  |
 
 \*This playlist was first scraped on 2023-09-07. Prior content cannot be recovered.

@@ -1,12 +1,12 @@
 {
   "description": "Chill techno, melodic house and tech house.",
-  "num_followers": 908017,
+  "num_followers": 908197,
   "original_name": "Lowkey Tech",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlNjFjODgxYzZiYzVlMzM0MDg3ODQ3YmRmMThiM2Q3NGQ5NTFhZTUx",
+  "snapshot_id": "MCw3YTc1ODFlZDVkN2UwNTIxYWMxNTQwNTkxZTViMDJiNThlZjE3ODVi",
   "tracks": [
     {
       "added_at": "2023-09-19 17:00:00",
@@ -695,26 +695,6 @@
     {
       "added_at": "2023-09-19 17:00:00",
       "album": {
-        "name": "You Take My Hand",
-        "url": "https://open.spotify.com/album/3meERbSehneA03lgl071Io"
-      },
-      "artists": [
-        {
-          "name": "Tinlicker",
-          "url": "https://open.spotify.com/artist/5EmEZjq8eHEC6qFnT63Lza"
-        },
-        {
-          "name": "Jamie Irrepressible",
-          "url": "https://open.spotify.com/artist/1kq2ZvBA7AX9mdZTk9SkpU"
-        }
-      ],
-      "duration_ms": 315861,
-      "name": "You Take My Hand",
-      "url": "https://open.spotify.com/track/4Lq4TjaQWTNmo5viydoLLa"
-    },
-    {
-      "added_at": "2023-09-19 17:00:00",
-      "album": {
         "name": "Love Will Set U Free",
         "url": "https://open.spotify.com/album/2q1yFtPevPCNlp06WDzfFc"
       },
@@ -731,6 +711,26 @@
       "duration_ms": 329670,
       "name": "Gravity",
       "url": "https://open.spotify.com/track/5EGaUEnzZjoNiIlFzbyNK1"
+    },
+    {
+      "added_at": "2023-09-19 17:00:00",
+      "album": {
+        "name": "You Take My Hand",
+        "url": "https://open.spotify.com/album/3meERbSehneA03lgl071Io"
+      },
+      "artists": [
+        {
+          "name": "Tinlicker",
+          "url": "https://open.spotify.com/artist/5EmEZjq8eHEC6qFnT63Lza"
+        },
+        {
+          "name": "Jamie Irrepressible",
+          "url": "https://open.spotify.com/artist/1kq2ZvBA7AX9mdZTk9SkpU"
+        }
+      ],
+      "duration_ms": 315861,
+      "name": "You Take My Hand",
+      "url": "https://open.spotify.com/track/4Lq4TjaQWTNmo5viydoLLa"
     },
     {
       "added_at": "2023-09-19 17:00:00",
@@ -1083,18 +1083,26 @@
     {
       "added_at": "2023-09-19 17:00:00",
       "album": {
-        "name": "Lose Your Senses",
-        "url": "https://open.spotify.com/album/6yLyY2UFppJXFz2jVXTKUM"
+        "name": "Equal",
+        "url": "https://open.spotify.com/album/4PzxGlfoKM04nEQwscARba"
       },
       "artists": [
         {
-          "name": "Cubicolor",
-          "url": "https://open.spotify.com/artist/4nMIbZxtt1kWqUZ8VNKvjU"
+          "name": "biskuwi",
+          "url": "https://open.spotify.com/artist/2wdY7YDYVddKtVbbgh1fCT"
+        },
+        {
+          "name": "Jyll",
+          "url": "https://open.spotify.com/artist/255QhVPytbdcbgCbHJ5rNe"
+        },
+        {
+          "name": "Sylvie Miles",
+          "url": "https://open.spotify.com/artist/4uPM7QLSNGVm5MncolABqE"
         }
       ],
-      "duration_ms": 388000,
-      "name": "Lose Your Senses",
-      "url": "https://open.spotify.com/track/4UGtoN1j6i8gtMb64Y2cDY"
+      "duration_ms": 210000,
+      "name": "Wild Heart",
+      "url": "https://open.spotify.com/track/0jN80BUFLFsTY9W7OeWqu8"
     }
   ],
   "unique_name": "Lowkey Tech",

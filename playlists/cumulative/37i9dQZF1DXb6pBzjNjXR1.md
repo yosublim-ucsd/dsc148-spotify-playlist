@@ -4,7 +4,7 @@
 
 > Listen to the best in AfroTech that was born in South Africa, as it travels the world's dancefloors.
 
-111 songs - 11 hr 47 min
+112 songs - 11 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -59,7 +59,8 @@
 | [Maasai People](https://open.spotify.com/track/0L4oSGeTlpiZTzxIqhS4uT) | [Jabzz Dimitri](https://open.spotify.com/artist/4Eo18qlyb76spnDFlSc78c) | [Maasai People](https://open.spotify.com/album/340QILNvniBYbNO2cMOKsT) | 6:40 | 2023-04-20 |  |
 | [Mabebuza](https://open.spotify.com/track/3HPgwat1jJCtrbtDZYMUVL) | [Maline Aura](https://open.spotify.com/artist/1LcX3ZFNBeGKxkpfCIr4cP), [Drega](https://open.spotify.com/artist/3jHpCdnedWxpKOn8QuYy5r) | [Mabebuza](https://open.spotify.com/album/5MwJllAjpaGazBZfP8CtCd) | 5:02 | 2022-09-22 |  |
 | [Matasa](https://open.spotify.com/track/6G0od201NbSzN4Yutk2Ufc) | [Mobi Dixon](https://open.spotify.com/artist/5gVxephJtTx5uMF26ZVptW), [NaakMusiQ](https://open.spotify.com/artist/6xs8YWLAW2FdCpmzEE0loe), [Candy Man](https://open.spotify.com/artist/6jeexjc4jgw4TN9Ql7Ccor) | [Matasa](https://open.spotify.com/album/1r7Z8yvkt3sFRt7XK0jFR7) | 7:33 | 2022-09-15 |  |
-| [Maya](https://open.spotify.com/track/37aSg02eKxZMSueTi5qE89) | [Pierre Johnson](https://open.spotify.com/artist/2CUjvq6GOAGAMyN3zDyfXz) | [Maya](https://open.spotify.com/album/2hfNUwkRhfw7VjCWIQU4hZ) | 6:39 | 2022-11-10 |  |
+| [Maya](https://open.spotify.com/track/37aSg02eKxZMSueTi5qE89) | [Pierre Johnson](https://open.spotify.com/artist/2CUjvq6GOAGAMyN3zDyfXz) | [Maya](https://open.spotify.com/album/2hfNUwkRhfw7VjCWIQU4hZ) | 6:39 | 2022-11-10 | 2023-10-18 |
+| [Maya](https://open.spotify.com/track/4XMD1mr6aE5BnJ1yjhBhUz) | [Pierre Johnson](https://open.spotify.com/artist/2CUjvq6GOAGAMyN3zDyfXz) | [Maya](https://open.spotify.com/album/0icraFyyHdOz3pxh9o3UbH) | 6:39 | 2023-03-13 |  |
 | [Messiah \(feat\. Zipho Thusi\)](https://open.spotify.com/track/32s4M923qOhi5hWRbNqE80) | [DJ Tomer](https://open.spotify.com/artist/0hpl6679CBWX360qBPGIVj), [Ricardo](https://open.spotify.com/artist/1QFkERAzKnyz7FUo6GmlYL), [Cisco De Sol](https://open.spotify.com/artist/5hqEYWxLkwx6tFnsDcTGpQ), [Zipho Thusi](https://open.spotify.com/artist/3EmyyIj985nwu1TCgVVC4W) | [Messiah \(feat\. Zipho Thusi\)](https://open.spotify.com/album/66WdOqFm2emHM0EVE3gd8H) | 4:03 | 2023-03-16 |  |
 | [Misava](https://open.spotify.com/track/6BmD8tRPWDgGD2Y0pQY1Ll) | [Brenden Praise](https://open.spotify.com/artist/3jzpHftM6t86BxqayyUWiU), [Vanco](https://open.spotify.com/artist/2KShewLkb92FKEZ6N4cVP9), [Kasango](https://open.spotify.com/artist/3jteNJj8zf2v4qYMGDXa8r) | [MISAVA](https://open.spotify.com/album/6Qs01I9CWfP5gitMZrOQPd) | 4:08 | 2022-08-11 | 2023-04-21 |
 | [Muchationa](https://open.spotify.com/track/2g0e7qFlyovwNtaLntN83d) | [HALU!](https://open.spotify.com/artist/71zjmlom6VeFdwJsqLSl2z), [Tina Masawi](https://open.spotify.com/artist/1waGvYdujmgKc9cNid89US) | [Muchationa](https://open.spotify.com/album/4O8aonVNtRVG8lPAfmkLDs) | 5:25 | 2022-09-22 | 2022-12-03 |

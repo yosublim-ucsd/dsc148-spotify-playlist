@@ -4,7 +4,7 @@
 
 > Canciones instrumentales de guitarra.
 
-599 songs - 1 day 1 hr 24 min
+600 songs - 1 day 1 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -74,7 +74,7 @@
 | [Bloom](https://open.spotify.com/track/1ZF4Elt0Sxg8UrQ186jbXn) | [Dieter Huber](https://open.spotify.com/artist/2wdHPx6lvGu3MvTH61uvTi) | [Bloom](https://open.spotify.com/album/2VsnPobiX8U8SzIuII5hI8) | 2:46 | 2023-09-29 |  |
 | [Blue Bird](https://open.spotify.com/track/2QHSfJCTIE3xjA1zTPy5ka) | [Camilo Branca](https://open.spotify.com/artist/2jH6TryZOIvoPpQqb1hRmc) | [Blue Bird](https://open.spotify.com/album/5SXq73X3KJcrUIUU1t0JEa) | 2:44 | 2023-06-02 |  |
 | [Blue Bossa](https://open.spotify.com/track/2l9Qw5fzdAjUTlq3jGhuPt) | [Benjamin Wallace](https://open.spotify.com/artist/4HMISu0fTx7P2ScxS4v9bz) | [Jazz Standards for Acoustic Guitar vol 1](https://open.spotify.com/album/3re1thxefHKaK6gQPn9SIC) | 1:44 | 2022-10-07 | 2023-04-22 |
-| [Blue Something](https://open.spotify.com/track/0UmR5k7YxioGuU6V0XVPbZ) | [Agustín Amigó](https://open.spotify.com/artist/3hUFjtgMr2bvq6E6tY7yQB) | [Blue Something](https://open.spotify.com/album/5pnWzZFzYCFVcfDjx66JaC) | 3:04 | 2023-04-21 |  |
+| [Blue Something](https://open.spotify.com/track/0UmR5k7YxioGuU6V0XVPbZ) | [Agustín Amigó](https://open.spotify.com/artist/3hUFjtgMr2bvq6E6tY7yQB) | [Blue Something](https://open.spotify.com/album/5pnWzZFzYCFVcfDjx66JaC) | 3:04 | 2023-04-21 | 2023-10-18 |
 | [Boboli Gardens](https://open.spotify.com/track/6ol6xm2KcSn5Pr2biM7Ps0) | [Amma Lerato](https://open.spotify.com/artist/0fc9IdmPLh7Gn3TwWpOBcL) | [Boboli Gardens](https://open.spotify.com/album/1ZorAmdZHG1iTSsXHkWhFM) | 2:01 | 2023-04-21 |  |
 | [Bonding](https://open.spotify.com/track/3i8NiwSigTjsWm8ppEIski) | [Lo Larsen](https://open.spotify.com/artist/1RsZrWsACeuDkqAISdeFDi) | [Bonding](https://open.spotify.com/album/2B63zD64Wyonm1HBmsIaTh) | 3:33 | 2022-07-15 | 2023-04-22 |
 | [Bonheur](https://open.spotify.com/track/3eB5sR72EmZxK05v7vPZII) | [Leandra Costa](https://open.spotify.com/artist/4pan7mPpKbyrhcNLveAiKr) | [Bonheur](https://open.spotify.com/album/2G0OxirfcDmVCGYjeh6WOs) | 2:14 | 2023-04-21 |  |
@@ -451,6 +451,7 @@
 | [Sancy](https://open.spotify.com/track/7mBtZnqdWLJQbd2vIc3Urz) | [Oli Bloom](https://open.spotify.com/artist/7vlpBGqjj0b2Vmrf1i4Bpl) | [Sancy](https://open.spotify.com/album/4b4azFjmeRxMA0un2h196Z) | 2:23 | 2022-07-15 |  |
 | [Santa Fiora](https://open.spotify.com/track/48j6ZrDM8WaO8plMxxc4CO) | [Amma Lerato](https://open.spotify.com/artist/0fc9IdmPLh7Gn3TwWpOBcL) | [Santa Fiora](https://open.spotify.com/album/6k4IDURpsjao81eMH4LcHF) | 2:01 | 2023-04-21 |  |
 | [Santiago de Compostela](https://open.spotify.com/track/16kc1IAK0IYUvPoolUOOH6) | [Alex Van Hill](https://open.spotify.com/artist/0XGI6N0NlOJaDZqL96yJ1V) | [Burgundy](https://open.spotify.com/album/5nnD4FGclPCs3E3r1Kj2CH) | 2:40 | 2022-07-15 | 2023-04-22 |
+| [Santorini](https://open.spotify.com/track/0rx4tPhXaiVrpglMzVLVbj) | [Marino Calle](https://open.spotify.com/artist/7B5DgVnyn7BhJ3gWxIWCYJ) | [Santorini](https://open.spotify.com/album/0Ipg8tK3kvzke2pNfPVFSz) | 2:09 | 2023-10-13 |  |
 | [Sarita](https://open.spotify.com/track/6bT8FxJe2Bh27j9ZSt9HnP) | [Samuel Diz](https://open.spotify.com/artist/6I2XKIVhzU8o4RdwKIhMWN), [Tino Prados](https://open.spotify.com/artist/0xAFMHeKeXwNoxstUZsj0X) | [Músicas inéditas en casas literarias: Casa\-Museo Manuel María](https://open.spotify.com/album/2lnaksOr1ISSNvxPgR4qtb) | 2:07 | 2022-11-18 | 2023-04-22 |
 | [Sarria](https://open.spotify.com/track/3vOCjnzLDblPCm9kgQa9NL) | [Las Almas Nuevas](https://open.spotify.com/artist/5LSP2iBRUfSpFUY7xOislt) | [Sarria](https://open.spotify.com/album/1dvJ4IWBXAMSsWGQJ1F2eQ) | 3:49 | 2023-04-21 |  |
 | [Saudade](https://open.spotify.com/track/5ya9oJXawpEtTT64juebsM) | [Duncan Bowie](https://open.spotify.com/artist/5q6rc3smUDwHeGbrZqC1mm) | [Saudade](https://open.spotify.com/album/5Zh8cgGWYAc5qRLwTvPXcF) | 2:42 | 2023-06-08 |  |
@@ -500,7 +501,7 @@
 | [Springwood Ranch](https://open.spotify.com/track/1LxPHwvy8xUaZUXJoGHiaD) | [Damien Adams](https://open.spotify.com/artist/6owt3MMviloRYiDK8LDNMg) | [Springwood Ranch](https://open.spotify.com/album/2phvXSYBb8eODAavj4iplL) | 2:54 | 2023-08-10 |  |
 | [Stairs](https://open.spotify.com/track/6ufsRNZjLydBXfncTkZ9ut) | [Benjamins Friend](https://open.spotify.com/artist/54Pp9oG56ETWzr0DC65tld) | [Stairs](https://open.spotify.com/album/2mQcf2bqjYpNPbEfZw1ql5) | 2:40 | 2023-04-21 | 2023-06-03 |
 | [Stando Solo](https://open.spotify.com/track/2kPLnIedP1tABSr0zwJwL3) | [Lennox Lorenzo](https://open.spotify.com/artist/6t2AbQr1GudAPoxHZSsOTM) | [Stando Solo](https://open.spotify.com/album/5KXSQosrVZTcDVYf1N78G1) | 2:36 | 2023-04-21 |  |
-| [Stille Morgen](https://open.spotify.com/track/4pAiNoP7gIY4WcNftHGuHD) | [Gunni Møller](https://open.spotify.com/artist/1W3Msj0w5UgqoO24nOybtE) | [Stille Morgen](https://open.spotify.com/album/6kEivxJRru5Z2n0qTDD4xx) | 2:10 | 2023-04-21 |  |
+| [Stille Morgen](https://open.spotify.com/track/4pAiNoP7gIY4WcNftHGuHD) | [Gunni Møller](https://open.spotify.com/artist/1W3Msj0w5UgqoO24nOybtE) | [Stille Morgen](https://open.spotify.com/album/6kEivxJRru5Z2n0qTDD4xx) | 2:10 | 2023-04-21 | 2023-10-18 |
 | [Stockholm Waltz](https://open.spotify.com/track/4qH4Otl7cbyUjg7kshFzUr) | [Julian Vigil](https://open.spotify.com/artist/37iIAObpTKbDOZ9BjSrmMv) | [Stockholm Waltz](https://open.spotify.com/album/0Vl8Nl9s21QHz3fSk3U623) | 2:20 | 2022-09-16 | 2023-04-22 |
 | [Stolen Moments](https://open.spotify.com/track/1oEq1W6ChwTxUE87Jx9MFG) | [Philip Grass](https://open.spotify.com/artist/1P6oBwSLIpnKBsIObVaIj1) | [Stolen Moments](https://open.spotify.com/album/1VVynhg0E343qOHIlqfULV) | 2:42 | 2023-04-21 |  |
 | [Storyteller](https://open.spotify.com/track/7d9uanPShS0NVsESqcArCa) | [Kaspar Mann](https://open.spotify.com/artist/7hZPqfKfcyqVgLOQ5vOGk8) | [Storyteller](https://open.spotify.com/album/3Du4mTpGliNy0e7qAIdR3G) | 3:01 | 2023-06-08 |  |
@@ -599,7 +600,7 @@
 | [Winter is coming](https://open.spotify.com/track/2TVL32urlZnR6EBTRGUHEP) | [Moody Me](https://open.spotify.com/artist/195UO4AUwZfApowkBDD3i8) | [Winter is coming](https://open.spotify.com/album/33zjD4b9Oeab3uRFpcuZFw) | 2:32 | 2023-04-21 |  |
 | [Winterland](https://open.spotify.com/track/1gW3VKqi9qjRHLyBhg4IZO) | [Alexa Popov](https://open.spotify.com/artist/0qVJFO1tdBqdhHfwcBoHfE) | [Winterland](https://open.spotify.com/album/3Yvb1Wl1aDWwgEUM0vuM9L) | 2:11 | 2023-04-21 |  |
 | [Wishful Thinking](https://open.spotify.com/track/32jAfJ9rlQRGfFISloeh9m) | [Channing Spence](https://open.spotify.com/artist/7HHhJuGxvzmJzu0UOfrEEp) | [Wishful Thinking](https://open.spotify.com/album/23wAvlEfME0Hg9UYDRTgx2) | 2:28 | 2023-04-21 | 2023-10-03 |
-| [Wishing It Was So](https://open.spotify.com/track/144IEqxttGI6l5MKryGZsL) | [Mia Pandosa](https://open.spotify.com/artist/1bLfERJJqbxHMdNMdDtpAL) | [Wishing It Was So](https://open.spotify.com/album/1Gf2koBhgOt4z4QaWYVuAU) | 2:41 | 2023-04-21 | 2023-10-16 |
+| [Wishing It Was So](https://open.spotify.com/track/144IEqxttGI6l5MKryGZsL) | [Mia Pandosa](https://open.spotify.com/artist/1bLfERJJqbxHMdNMdDtpAL) | [Wishing It Was So](https://open.spotify.com/album/1Gf2koBhgOt4z4QaWYVuAU) | 2:41 | 2023-04-21 |  |
 | [wolkenlos](https://open.spotify.com/track/1GtvNtOFcgyapayFKdEPfn) | [Dieter Huber](https://open.spotify.com/artist/2wdHPx6lvGu3MvTH61uvTi) | [Waldspaziergang](https://open.spotify.com/album/12zVtMVg3VOEsVZ3nA4BdB) | 3:36 | 2022-07-15 | 2023-04-22 |
 | [Woods](https://open.spotify.com/track/4pqqF7B7YVFHidJ4kDybk2) | [Sergei Baronin](https://open.spotify.com/artist/43F9YqxW89cDIMwYv7Ruoy) | [Woods](https://open.spotify.com/album/6Bsv4F8PGSosuGjvqOn1Pu) | 1:53 | 2023-04-21 | 2023-06-03 |
 | [Yellow](https://open.spotify.com/track/27DodeB1seENJxnWojPa6G) | [Walter Penn](https://open.spotify.com/artist/2CWnlvisVPTCncNKI0k3U9) | [Yellow](https://open.spotify.com/album/6ogaGgYB25jgZmCo405fq6) | 2:31 | 2023-03-31 | 2023-04-22 |

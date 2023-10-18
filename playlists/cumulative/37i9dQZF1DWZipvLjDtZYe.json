@@ -1511,6 +1511,28 @@
     },
     {
       "album": {
+        "name": "\u30df\u30e9\u30a4\u3069\u3093\u306a\u3060\u308d\u3046",
+        "url": "https://open.spotify.com/album/7vowTD5xDgYuBSEm242RAL"
+      },
+      "artists": [
+        {
+          "name": "Mitchie M",
+          "url": "https://open.spotify.com/artist/2MRx5cgvkudCT0FHafXcPx"
+        },
+        {
+          "name": "Hatsune Miku",
+          "url": "https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl"
+        }
+      ],
+      "date_added": "2023-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209999,
+      "name": "\u30df\u30e9\u30a4\u3069\u3093\u306a\u3060\u308d\u3046 (feat. \u521d\u97f3\u30df\u30af)",
+      "url": "https://open.spotify.com/track/5Yi76YNCI6gav37aKqZugz"
+    },
+    {
+      "album": {
         "name": "Hatsune Miku 10th Anniversary Songs -\u30df\u30e9\u30af\u30eb\u30df\u30e9\u30a4-",
         "url": "https://open.spotify.com/album/3OxdPFUtuzEvhqqaWSr6vD"
       },

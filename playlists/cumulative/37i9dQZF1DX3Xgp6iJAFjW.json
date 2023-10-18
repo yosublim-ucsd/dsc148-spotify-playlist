@@ -1697,6 +1697,24 @@
     },
     {
       "album": {
+        "name": "Recordando a Pastor Lopez",
+        "url": "https://open.spotify.com/album/5tmSVevQNFdbxFKTFOHWAk"
+      },
+      "artists": [
+        {
+          "name": "Pastor L\u00f3pez",
+          "url": "https://open.spotify.com/artist/5eHNeUjS4GogffJdQ1vVN5"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199984,
+      "name": "Las Cale\u00f1as",
+      "url": "https://open.spotify.com/track/27ff9vLVD8uD44K0YTT1Mr"
+    },
+    {
+      "album": {
         "name": "Jerry Christmas",
         "url": "https://open.spotify.com/album/3rUqGxUgnf7MPugBN4oQa9"
       },
@@ -2194,7 +2212,7 @@
       ],
       "date_added": "2023-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-18",
       "duration_ms": 279280,
       "name": "Navidad",
       "url": "https://open.spotify.com/track/3JH8P81S1bWU4CDsIBDzYl"

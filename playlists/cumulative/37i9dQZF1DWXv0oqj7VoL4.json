@@ -955,6 +955,24 @@
     },
     {
       "album": {
+        "name": "\u597d\u304d\u306b\u3057\u306a\u3088",
+        "url": "https://open.spotify.com/album/0himSAZSz3XxBPhX5JWs6p"
+      },
+      "artists": [
+        {
+          "name": "Anly",
+          "url": "https://open.spotify.com/artist/5yJK9kmUG5wPAPDfaaandz"
+        }
+      ],
+      "date_added": "2023-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266693,
+      "name": "\u597d\u304d\u306b\u3057\u306a\u3088",
+      "url": "https://open.spotify.com/track/3Yyc0Ccj7lZ3VOgBFMlEQo"
+    },
+    {
+      "album": {
         "name": "\u697d\u5712",
         "url": "https://open.spotify.com/album/0Mr39HG5mzEClMKWpQGrGo"
       },

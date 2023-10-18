@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6AKLu0DKWt5.md) - [plain]
 
 > Music from TV shows and films nominated for the 80th Golden Globe Awards\. Watch Jan 10, 2023 on NBC.
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,731 likes - 32 songs - 1 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,732 likes - 32 songs - 1 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Hold My Hand](https://open.spotify.com/track/0oWraSo5ASJ0h1BEagTyEw) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [Hold My Hand \(Music From The Motion Picture "Top Gun: Maverick"\)](https://open.spotify.com/album/4o7oZoaZrwElXdNXfBXsqe) | 3:45 |
 | 2 | [Lift Me Up \- From Black Panther: Wakanda Forever \- Music From and Inspired By](https://open.spotify.com/track/6sCvvleqKbeyOkQDieBYgp) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) | [Black Panther: Wakanda Forever \- Music From and Inspired By](https://open.spotify.com/album/06RK0wX4GqHcxBtHlVoGH5) | 3:16 |
-| 3 | [Nothing Is Lost \(You Give Me Strength\)](https://open.spotify.com/track/1DzJbVkBELu6jDu6q0T0tk) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Avatar: The Way of Water \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4M2Mf4pmARKGVT9MLCe3HA) | 4:27 |
-| 4 | [Carolina \- From The Motion Picture “Where The Crawdads Sing”](https://open.spotify.com/track/4axSuOg3BqsowKjRpj59RU) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Carolina \(From The Motion Picture “Where The Crawdads Sing”\)](https://open.spotify.com/album/5Bwg2XxrjTlrNy6BC7KQZf) | 4:24 |
+| 3 | [Carolina \- From The Motion Picture “Where The Crawdads Sing”](https://open.spotify.com/track/4axSuOg3BqsowKjRpj59RU) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Carolina \(From The Motion Picture “Where The Crawdads Sing”\)](https://open.spotify.com/album/5Bwg2XxrjTlrNy6BC7KQZf) | 4:24 |
+| 4 | [Nothing Is Lost \(You Give Me Strength\)](https://open.spotify.com/track/1DzJbVkBELu6jDu6q0T0tk) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Avatar: The Way of Water \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4M2Mf4pmARKGVT9MLCe3HA) | 4:27 |
 | 5 | [I Ain't Worried](https://open.spotify.com/track/73PAbYaVbnFG0tQ4aBfxeN) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Top Gun: Maverick \(Music From The Motion Picture\)](https://open.spotify.com/album/3tjIKRAPBy5Qu4z8F5HmBz) | 2:28 |
 | 6 | [Naatu Naatu \(From "Rrr"\)](https://open.spotify.com/track/4iKGu3xtvm90eBw0EIPWJP) | [Rahul Sipligunj](https://open.spotify.com/artist/1H4ZvA2yyK7wCmbvEUWvPn), [Kala Bhairava](https://open.spotify.com/artist/4tejKImNVmDcORNBuZ1l14), [M\. M\. Keeravani](https://open.spotify.com/artist/12l1SqSNsg2mI2IcXpPWjR) | [Naatu Naatu \(From "Rrr"\)](https://open.spotify.com/album/78zqKU9guNUoZFs7mn7TUG) | 3:34 |
 | 7 | [Vegas](https://open.spotify.com/track/3FWwi61OP7vXEikwqhZCPZ) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [ELVIS \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/74g0V2gxEA5MCSaivAwZyb) | 3:03 |
@@ -41,4 +41,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6AKLu0DKWt5.md) - [plain]
 | 31 | [Main Title \(The Flight Attendant\)](https://open.spotify.com/track/2RyCnbRAwgxNi8D4MexzkF) | [Blake Neely](https://open.spotify.com/artist/4UOzqO0jZUrTiTunfBw4tp) | [The Flight Attendant: Season 2 \(Original Television Soundtrack\)](https://open.spotify.com/album/4eGTAHIWB70mIf3gwknjow) | 1:29 |
 | 32 | [Get Outta My Face \(feat\. Sebastian Stan\)](https://open.spotify.com/track/6o9NhaBfBJS4pCd2RjGb66) | [Isaac Carpenter](https://open.spotify.com/artist/4xbXNEpKqu2JcnjxaHAWpj), [Sebastian Stan](https://open.spotify.com/artist/0JX0HkJxazV5WddFlKp9JV) | [Pam & Tommy \(Original Series Soundtrack\)](https://open.spotify.com/album/3DLTFjUNq8cigCAqaU1ZOc) | 1:02 |
 
-Snapshot ID: `MCw5ZjFjZWI1ZDFhZjRmNzMxNDg2YWYwNWMwYjNiM2NkOWEzZGY4M2I0`
+Snapshot ID: `MCwzN2JkZWVmNDdmZjZjNzBkZTg5YWViYWZjN2RhMzAyM2QzNWE4M2Jm`

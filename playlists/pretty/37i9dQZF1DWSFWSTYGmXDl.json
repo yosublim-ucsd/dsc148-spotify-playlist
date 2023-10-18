@@ -1,13 +1,45 @@
 {
   "description": "Soft and warm Christmas songs from recent years. Cover: Gwen Stefani.",
-  "num_followers": 84569,
+  "num_followers": 84603,
   "original_name": "Cozy Christmas Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwYWQ4MjEyZWI1ZjA4ZTEzNTg5ZjAxYTUyNTEyYzgyNTQ2ZDc5ZTQ4",
+  "snapshot_id": "MCw4NjI2YTE0MGU0MDE0YjkxMTIwZDA5ZDhkN2QyNzE3Yjk2YmUyMzli",
   "tracks": [
+    {
+      "added_at": "2022-12-09 06:19:53",
+      "album": {
+        "name": "Under The Mistletoe (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/63MKT9hwmiMFFdFp5SdB1p"
+      },
+      "artists": [
+        {
+          "name": "Justin Bieber",
+          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+        }
+      ],
+      "duration_ms": 182946,
+      "name": "Mistletoe",
+      "url": "https://open.spotify.com/track/7xapw9Oy21WpfEcib2ErSA"
+    },
+    {
+      "added_at": "2022-12-09 06:19:53",
+      "album": {
+        "name": "I Need You Christmas",
+        "url": "https://open.spotify.com/album/6ag1TA7jYSh8NjFtBL9bFR"
+      },
+      "artists": [
+        {
+          "name": "Jonas Brothers",
+          "url": "https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD"
+        }
+      ],
+      "duration_ms": 206066,
+      "name": "I Need You Christmas",
+      "url": "https://open.spotify.com/track/0viGbbEJ9xV6qNJsTaXruz"
+    },
     {
       "added_at": "2022-12-09 06:19:53",
       "album": {
@@ -23,6 +55,22 @@
       "duration_ms": 170964,
       "name": "Have Yourself A Merry Little Christmas",
       "url": "https://open.spotify.com/track/1Qi2wh8fFgDV7tl4Sj3f2K"
+    },
+    {
+      "added_at": "2022-12-09 06:19:53",
+      "album": {
+        "name": "Snowman (Slowed Down & Snowed In Remix)",
+        "url": "https://open.spotify.com/album/7Ktba0IWwrAyFpoUNc0bL8"
+      },
+      "artists": [
+        {
+          "name": "Sia",
+          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
+        }
+      ],
+      "duration_ms": 180275,
+      "name": "Snowman - Slowed Down",
+      "url": "https://open.spotify.com/track/6Ob0vkoBVpja3yLQkjCdpK"
     },
     {
       "added_at": "2022-12-09 06:19:53",
@@ -43,18 +91,34 @@
     {
       "added_at": "2022-12-09 06:19:53",
       "album": {
-        "name": "Under The Mistletoe (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/63MKT9hwmiMFFdFp5SdB1p"
+        "name": "Christmas Kisses",
+        "url": "https://open.spotify.com/album/5MfeQZrrNfMqcaq03U9qOr"
       },
       "artists": [
         {
-          "name": "Justin Bieber",
-          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
         }
       ],
-      "duration_ms": 182946,
-      "name": "Mistletoe",
-      "url": "https://open.spotify.com/track/7xapw9Oy21WpfEcib2ErSA"
+      "duration_ms": 206373,
+      "name": "Snow In California",
+      "url": "https://open.spotify.com/track/6Uc4EHr3ktYmLfLDY7LifJ"
+    },
+    {
+      "added_at": "2022-12-09 06:19:53",
+      "album": {
+        "name": "Christmas Lights",
+        "url": "https://open.spotify.com/album/06CvxUVwS8h2aJYcCtApgy"
+      },
+      "artists": [
+        {
+          "name": "Coldplay",
+          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
+        }
+      ],
+      "duration_ms": 242495,
+      "name": "Christmas Lights",
+      "url": "https://open.spotify.com/track/4fzyvSu73BhGvi96p2zwjL"
     },
     {
       "added_at": "2022-12-09 06:19:53",
@@ -79,6 +143,22 @@
     {
       "added_at": "2022-12-09 06:19:53",
       "album": {
+        "name": "White Christmas (Spotify Singles - Christmas, Recorded at Sound Stage Studios Nashville)",
+        "url": "https://open.spotify.com/album/4khvhw7hfvRpSU1EokuED4"
+      },
+      "artists": [
+        {
+          "name": "Meghan Trainor",
+          "url": "https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz"
+        }
+      ],
+      "duration_ms": 194311,
+      "name": "White Christmas - Spotify Singles - Christmas, Recorded at Sound Stage Studios Nashville",
+      "url": "https://open.spotify.com/track/71azyw4EJDlGru5Uw6DGzT"
+    },
+    {
+      "added_at": "2022-12-09 06:19:53",
+      "album": {
         "name": "You Make It Feel Like Christmas",
         "url": "https://open.spotify.com/album/58qdMDlJaZBYleY7Bf0gNc"
       },
@@ -91,6 +171,26 @@
       "duration_ms": 172693,
       "name": "Santa Baby",
       "url": "https://open.spotify.com/track/4kqK1KMqRFQqPrli5mhl2M"
+    },
+    {
+      "added_at": "2022-12-09 06:19:53",
+      "album": {
+        "name": "The Kacey Musgraves Christmas Show",
+        "url": "https://open.spotify.com/album/0KY2QQMpqsy1tOyNhr4zxI"
+      },
+      "artists": [
+        {
+          "name": "Kacey Musgraves",
+          "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
+        },
+        {
+          "name": "Troye Sivan",
+          "url": "https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP"
+        }
+      ],
+      "duration_ms": 143467,
+      "name": "Glittery - From The Kacey Musgraves Christmas Show",
+      "url": "https://open.spotify.com/track/4dFtIGQBrYjiskk7fN5Wmx"
     },
     {
       "added_at": "2022-12-09 06:19:53",
@@ -111,54 +211,6 @@
       "duration_ms": 196254,
       "name": "The Christmas Song (Shawn Mendes & Camila Cabello)",
       "url": "https://open.spotify.com/track/0fwxmtpxpMmEMphmJbCAEx"
-    },
-    {
-      "added_at": "2022-12-09 06:19:53",
-      "album": {
-        "name": "Snowman (Slowed Down & Snowed In Remix)",
-        "url": "https://open.spotify.com/album/7Ktba0IWwrAyFpoUNc0bL8"
-      },
-      "artists": [
-        {
-          "name": "Sia",
-          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
-        }
-      ],
-      "duration_ms": 180275,
-      "name": "Snowman - Slowed Down",
-      "url": "https://open.spotify.com/track/6Ob0vkoBVpja3yLQkjCdpK"
-    },
-    {
-      "added_at": "2022-12-09 06:19:53",
-      "album": {
-        "name": "Christmas & Chill",
-        "url": "https://open.spotify.com/album/6yi7FjzeCHGVJJAdWRYAmk"
-      },
-      "artists": [
-        {
-          "name": "Ariana Grande",
-          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
-        }
-      ],
-      "duration_ms": 158720,
-      "name": "Winter Things",
-      "url": "https://open.spotify.com/track/1jhljxXlHw8K9rezXKrnow"
-    },
-    {
-      "added_at": "2022-12-09 06:19:53",
-      "album": {
-        "name": "Christmas Lights",
-        "url": "https://open.spotify.com/album/06CvxUVwS8h2aJYcCtApgy"
-      },
-      "artists": [
-        {
-          "name": "Coldplay",
-          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
-        }
-      ],
-      "duration_ms": 242495,
-      "name": "Christmas Lights",
-      "url": "https://open.spotify.com/track/4fzyvSu73BhGvi96p2zwjL"
     },
     {
       "added_at": "2022-12-09 06:19:53",
@@ -223,6 +275,22 @@
     {
       "added_at": "2022-12-09 06:19:53",
       "album": {
+        "name": "Christmas List",
+        "url": "https://open.spotify.com/album/1bm1rDiR9fPUVuLfovUeHn"
+      },
+      "artists": [
+        {
+          "name": "Anson Seabra",
+          "url": "https://open.spotify.com/artist/2jHp7gQArCQrlMvdrIVFCg"
+        }
+      ],
+      "duration_ms": 201251,
+      "name": "Christmas List",
+      "url": "https://open.spotify.com/track/3tIFJcxOORa8WkTZBrpxSn"
+    },
+    {
+      "added_at": "2022-12-09 06:19:53",
+      "album": {
         "name": "Naughty List (with Dixie)",
         "url": "https://open.spotify.com/album/2xvYb1xTCb5hhxzXub0RdM"
       },
@@ -243,8 +311,8 @@
     {
       "added_at": "2022-12-09 06:19:53",
       "album": {
-        "name": "Christmas Kisses",
-        "url": "https://open.spotify.com/album/5MfeQZrrNfMqcaq03U9qOr"
+        "name": "Christmas & Chill",
+        "url": "https://open.spotify.com/album/6yi7FjzeCHGVJJAdWRYAmk"
       },
       "artists": [
         {
@@ -252,9 +320,9 @@
           "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
         }
       ],
-      "duration_ms": 206373,
-      "name": "Snow In California",
-      "url": "https://open.spotify.com/track/6Uc4EHr3ktYmLfLDY7LifJ"
+      "duration_ms": 158720,
+      "name": "Winter Things",
+      "url": "https://open.spotify.com/track/1jhljxXlHw8K9rezXKrnow"
     },
     {
       "added_at": "2022-12-09 06:19:53",
@@ -325,6 +393,22 @@
       "url": "https://open.spotify.com/track/0COCpSTVUcD6UJI7vzqKJo"
     },
     {
+      "added_at": "2023-10-17 11:30:16",
+      "album": {
+        "name": "Please Come Home for Christmas",
+        "url": "https://open.spotify.com/album/6vRbT0SJ0jkIj66OT4yrs8"
+      },
+      "artists": [
+        {
+          "name": "Aqyila",
+          "url": "https://open.spotify.com/artist/4cXLEhsZ1W4T6qBiDYVih4"
+        }
+      ],
+      "duration_ms": 165320,
+      "name": "Please Come Home for Christmas",
+      "url": "https://open.spotify.com/track/3GZwaCUpDIOtZxZF7AbQLz"
+    },
+    {
       "added_at": "2022-12-09 06:19:53",
       "album": {
         "name": "Happy Xmas",
@@ -343,26 +427,6 @@
     {
       "added_at": "2022-12-09 06:19:53",
       "album": {
-        "name": "The Kacey Musgraves Christmas Show",
-        "url": "https://open.spotify.com/album/0KY2QQMpqsy1tOyNhr4zxI"
-      },
-      "artists": [
-        {
-          "name": "Kacey Musgraves",
-          "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
-        },
-        {
-          "name": "Troye Sivan",
-          "url": "https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP"
-        }
-      ],
-      "duration_ms": 143467,
-      "name": "Glittery - From The Kacey Musgraves Christmas Show",
-      "url": "https://open.spotify.com/track/4dFtIGQBrYjiskk7fN5Wmx"
-    },
-    {
-      "added_at": "2022-12-09 06:19:53",
-      "album": {
         "name": "A Very Trainor Christmas",
         "url": "https://open.spotify.com/album/2Mb2HvX9H2J98qOvZGdsFf"
       },
@@ -375,22 +439,6 @@
       "duration_ms": 138253,
       "name": "Winter Wonderland",
       "url": "https://open.spotify.com/track/0bfM3OhwHsqIJqF6m04En3"
-    },
-    {
-      "added_at": "2022-12-09 06:19:53",
-      "album": {
-        "name": "I Need You Christmas",
-        "url": "https://open.spotify.com/album/6ag1TA7jYSh8NjFtBL9bFR"
-      },
-      "artists": [
-        {
-          "name": "Jonas Brothers",
-          "url": "https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD"
-        }
-      ],
-      "duration_ms": 206066,
-      "name": "I Need You Christmas",
-      "url": "https://open.spotify.com/track/0viGbbEJ9xV6qNJsTaXruz"
     },
     {
       "added_at": "2022-12-09 06:19:53",
@@ -451,22 +499,6 @@
     {
       "added_at": "2022-12-09 06:19:53",
       "album": {
-        "name": "White Christmas (Spotify Singles - Christmas, Recorded at Sound Stage Studios Nashville)",
-        "url": "https://open.spotify.com/album/4khvhw7hfvRpSU1EokuED4"
-      },
-      "artists": [
-        {
-          "name": "Meghan Trainor",
-          "url": "https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz"
-        }
-      ],
-      "duration_ms": 194311,
-      "name": "White Christmas - Spotify Singles - Christmas, Recorded at Sound Stage Studios Nashville",
-      "url": "https://open.spotify.com/track/71azyw4EJDlGru5Uw6DGzT"
-    },
-    {
-      "added_at": "2022-12-09 06:19:53",
-      "album": {
         "name": "Christmas & Chill",
         "url": "https://open.spotify.com/album/6yi7FjzeCHGVJJAdWRYAmk"
       },
@@ -515,6 +547,22 @@
       "duration_ms": 215160,
       "name": "The Christmas Song (Chestnuts Roasting On An Open Fire)",
       "url": "https://open.spotify.com/track/3eYnKe0LhQA1B5HEkQaRTP"
+    },
+    {
+      "added_at": "2023-10-17 11:30:16",
+      "album": {
+        "name": "Christmas with The Tenors",
+        "url": "https://open.spotify.com/album/3KPvwbNGc4WL7IzvD0fP2V"
+      },
+      "artists": [
+        {
+          "name": "The Tenors",
+          "url": "https://open.spotify.com/artist/0IuE3Ne32K4i3BZBbr610a"
+        }
+      ],
+      "duration_ms": 151875,
+      "name": "I've Got My Love to Keep Me Warm",
+      "url": "https://open.spotify.com/track/4vpZ39U9F1jyw2bAHv1HUY"
     },
     {
       "added_at": "2022-12-09 06:19:53",
@@ -699,22 +747,6 @@
       "duration_ms": 213300,
       "name": "Silver Bells",
       "url": "https://open.spotify.com/track/07FpmgWdTUjWBiRP3ON6OJ"
-    },
-    {
-      "added_at": "2022-12-09 06:19:53",
-      "album": {
-        "name": "Christmas List",
-        "url": "https://open.spotify.com/album/1bm1rDiR9fPUVuLfovUeHn"
-      },
-      "artists": [
-        {
-          "name": "Anson Seabra",
-          "url": "https://open.spotify.com/artist/2jHp7gQArCQrlMvdrIVFCg"
-        }
-      ],
-      "duration_ms": 201251,
-      "name": "Christmas List",
-      "url": "https://open.spotify.com/track/3tIFJcxOORa8WkTZBrpxSn"
     },
     {
       "added_at": "2022-12-09 06:19:53",
@@ -1651,22 +1683,6 @@
     {
       "added_at": "2022-12-09 06:19:53",
       "album": {
-        "name": "a very merry perri christmas",
-        "url": "https://open.spotify.com/album/5noTFKbSGzGgXWxnEiuoK2"
-      },
-      "artists": [
-        {
-          "name": "Christina Perri",
-          "url": "https://open.spotify.com/artist/7H55rcKCfwqkyDFH9wpKM6"
-        }
-      ],
-      "duration_ms": 198640,
-      "name": "merry christmas darling",
-      "url": "https://open.spotify.com/track/6brLwOYFXw7rkGOcLntcPZ"
-    },
-    {
-      "added_at": "2022-12-09 06:19:53",
-      "album": {
         "name": "Loneliest Time Of Year",
         "url": "https://open.spotify.com/album/4AKesH5kCVXdZKeWuAHVUQ"
       },
@@ -1783,22 +1799,6 @@
       "duration_ms": 185590,
       "name": "Holidays",
       "url": "https://open.spotify.com/track/4WsvWaANExEQ5qx2m4TEmr"
-    },
-    {
-      "added_at": "2022-12-09 06:19:53",
-      "album": {
-        "name": "Under The Mistletoe (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/63MKT9hwmiMFFdFp5SdB1p"
-      },
-      "artists": [
-        {
-          "name": "Justin Bieber",
-          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
-        }
-      ],
-      "duration_ms": 223613,
-      "name": "Christmas Eve",
-      "url": "https://open.spotify.com/track/6Zztw1ERHqXAngHE8PfO6N"
     },
     {
       "added_at": "2022-12-09 06:19:53",

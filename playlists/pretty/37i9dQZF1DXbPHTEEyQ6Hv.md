@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbPHTEEyQ6Hv.md) - [plain]
 
 > A calm and relaxing Christmas piano soundtrack for the Holidays
 
-[Spotify](https://open.spotify.com/user/spotify) - 613,599 likes - 87 songs - 3 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 613,685 likes - 87 songs - 3 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -81,7 +81,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbPHTEEyQ6Hv.md) - [plain]
 | 71 | [Blue Christmas](https://open.spotify.com/track/4QUjJT6BWIhd8Kmoc9dwiz) | [A Whisper](https://open.spotify.com/artist/0Bkqn0CjFIb96nVfStI6dy) | [Auld Lang Syne](https://open.spotify.com/album/42kS1EvOT6rXXlXk4aFdOl) | 2:05 |
 | 72 | [The Coventry Carol](https://open.spotify.com/track/1qRLuNPkZL4NcTvhbrn6yI) | [Stian Jarrell](https://open.spotify.com/artist/7xbTF9Vk9lIWrYFwZgeX9v) | [Seven Joys Of Mary](https://open.spotify.com/album/5rkt6ySKd4ozKi1xXOWj3m) | 2:16 |
 | 73 | [Christmas Peace](https://open.spotify.com/track/5Jxv7KoYizZe91nA4PpaDY) | [Amy Yeager](https://open.spotify.com/artist/5xfWkvMNQZUL93sfFVRQqj) | [The Joy of Christmas](https://open.spotify.com/album/6wIKUnFppzUPdkXF4AvWiD) | 2:54 |
-| 74 | [The First Noel](https://open.spotify.com/track/2lzHOWyFnlG057YxwW4iYh) | [Traditional](https://open.spotify.com/artist/1U5zgr455OGyIkLNXvDdrf), [Alexis Ffrench](https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX) | [Christmas](https://open.spotify.com/album/4dZqm3SWryHNPXOPJ39AyP) | 2:03 |
+| 74 | [The First Noel](https://open.spotify.com/track/6NsZBLdyz1zYFns4QnoDrx) | [Traditional](https://open.spotify.com/artist/1U5zgr455OGyIkLNXvDdrf), [Alexis Ffrench](https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX) | [Christmas Piano with Alexis](https://open.spotify.com/album/2YymiUCe4WEr0GBJ0aSLFx) | 2:05 |
 | 75 | [I Heard The Bells On Christmas Day](https://open.spotify.com/track/0RcE3ty89FWkfv84lZewEH) | [Manny Heights](https://open.spotify.com/artist/3whru6xFIYhdqBRrDD12Wb) | [I Heard The Bells On Christmas Day](https://open.spotify.com/album/3GfMZyyP8eMXxsNrU9jFPA) | 2:08 |
 | 76 | [Good King Wenceslas](https://open.spotify.com/track/25vdlTYdZPJssQbXU8qUsg) | [Chris Beard](https://open.spotify.com/artist/7hTEeJAMokCNuBxW8GtFKp) | [We Three Kings](https://open.spotify.com/album/5Ppd2aIzY3YD2ug3FMI7sg) | 2:02 |
 | 77 | [Infant Holy, Infant Lowly](https://open.spotify.com/track/2l7i2L2XxBT0u6A2xXsIgk) | [Meghan Summers](https://open.spotify.com/artist/0SlKYnn4HjyPtY1A7wFxEF) | [Jolly Old Saint Nicholas](https://open.spotify.com/album/4GvTg3XYsZeCRicsntPr4U) | 2:11 |

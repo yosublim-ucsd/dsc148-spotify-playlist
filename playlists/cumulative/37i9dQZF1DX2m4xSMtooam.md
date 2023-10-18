@@ -4,7 +4,7 @@
 
 > Relax to the sweet and soothing sound of Bossa nova.
 
-243 songs - 15 hr 35 min
+244 songs - 15 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,7 +26,7 @@
 | [Baubles, Bangles and Beads](https://open.spotify.com/track/1vVm7i0MsbvRSGaX9SkyP0) | [Eliane Elias](https://open.spotify.com/artist/4qKIiUdFND09cgGOc5kfoR) | [Dreamer](https://open.spotify.com/album/5YfLvxcH8jCibShM4ogLUr) | 5:02 | 2022-06-28 |  |
 | [Besame Mucho](https://open.spotify.com/track/2RvRcb0PpVyDr6lnMBbwC5) | [Diana Krall](https://open.spotify.com/artist/5z1VAFwT35EVvCp1XlZZuL) | [The Look Of Love](https://open.spotify.com/album/4nmjBh2Td9I9x9JDncrQr3) | 6:40 | 2022-05-13 | 2023-02-03 |
 | [Black Orpheus](https://open.spotify.com/track/2gURzEbMFhxw1ujKV3v1HY) | [Paul Desmond](https://open.spotify.com/artist/68l2i6GeNtwQlhKS59u5bu) | [Black Orpheus](https://open.spotify.com/album/1uIZcgp7yorDXZFTY7Eh53) | 4:14 | 2022-05-13 | 2022-07-29 |
-| [Blue Bossa](https://open.spotify.com/track/30C4zBKFkScobGBxIPCuS1) | [Ana Caram](https://open.spotify.com/artist/6wo2wDOKUSRpTSB7c21DyV) | [Blue Bossa](https://open.spotify.com/album/6XF9UCkQSJoS581x2pdG81) | 4:27 | 2022-08-10 |  |
+| [Blue Bossa](https://open.spotify.com/track/30C4zBKFkScobGBxIPCuS1) | [Ana Caram](https://open.spotify.com/artist/6wo2wDOKUSRpTSB7c21DyV) | [Blue Bossa](https://open.spotify.com/album/6XF9UCkQSJoS581x2pdG81) | 4:27 | 2022-08-10 | 2023-10-18 |
 | [Blue Bossa](https://open.spotify.com/track/1fv0mJ9ZvWKJmxrsq6pxwe) | [Ana Caram](https://open.spotify.com/artist/6wo2wDOKUSRpTSB7c21DyV) | [Blue Bossa](https://open.spotify.com/album/3PKYPLuQpdIEunkqkE0fnO) | 4:27 | 2022-05-13 | 2022-07-29 |
 | [Blue Bossa \- Remastered](https://open.spotify.com/track/6qqK0oeBRapZn8f9hJJENw) | [Joe Henderson](https://open.spotify.com/artist/3BG0nwVh3Gc7cuT4XdsLtt) | [Page One](https://open.spotify.com/album/7mQGTuvmdp56DNz0AmMwWi) | 8:02 | 2022-05-13 | 2023-01-13 |
 | [Boomerang](https://open.spotify.com/track/04lqMwyxNNijODnl84A1Wq) | [Filip Benedetto](https://open.spotify.com/artist/1x6GlAVo5qvLhm45bgtlp7) | [Boomerang](https://open.spotify.com/album/2ii5yi8SZ42Aq4J0q2FoCb) | 3:27 | 2023-10-06 |  |
@@ -221,6 +221,7 @@
 | [The Shadow of Your Smile](https://open.spotify.com/track/7CkCIrM9MwcHjlp7DgeS73) | [Moonlight Jazz Trio](https://open.spotify.com/artist/6PQAkc79UJ2ngAy9uX7wbD) | [The Shadow Of Your Smile](https://open.spotify.com/album/5zH20F8OMipTtIaGPZwExZ) | 3:52 | 2023-01-13 |  |
 | [The Theme from "Black Orpheus"](https://open.spotify.com/track/0XBDgnZFhL27Y46oVknBPE) | [Paul Desmond](https://open.spotify.com/artist/68l2i6GeNtwQlhKS59u5bu) | [Take Ten](https://open.spotify.com/album/67OvvuGokycHO0Quc9HyKZ) | 4:13 | 2022-06-28 |  |
 | [The Waters Of March](https://open.spotify.com/track/2HDdFE3LzgZ2ZWVXS0jEQF) | [Susannah McCorkle](https://open.spotify.com/artist/0YmFjtGsr6KUo2XJOR9RSu) | [From Bessie To Brazil](https://open.spotify.com/album/7qUvlbKeYnFEfQqlosrm7L) | 3:57 | 2022-05-13 | 2022-09-15 |
+| [Time Passes By](https://open.spotify.com/track/2ZqQihrhkzoMTtf6x9wn2b) | [Gabriel Gonzalez](https://open.spotify.com/artist/5bL2hXMTtmocrHU3BqsZ4U) | [Time Passes By](https://open.spotify.com/album/3vbx6IdBvFjp0awFTBjA3u) | 2:31 | 2023-10-13 |  |
 | [Time Passing Slowly](https://open.spotify.com/track/1uEOB09ZF3Xt3WmtbneqMf) | [Southside Trio](https://open.spotify.com/artist/2XVJkKNBPA834yV4NKISBw) | [Time Passing Slowly](https://open.spotify.com/album/2UFNvSBbtLOxzaFXxNoeKv) | 3:38 | 2022-11-11 |  |
 | [Triste](https://open.spotify.com/track/0PHGV9pWYv91WCeCXhdWye) | [Elis Regina](https://open.spotify.com/artist/0yFvXd36g5sNKYDi0Kkvl8), [Antônio Carlos Jobim](https://open.spotify.com/artist/3pO5VjZ4wOHCMBXOvbMISG) | [Elis & Tom](https://open.spotify.com/album/3SE9n6EaVOJ81KA1KPLUWS) | 2:42 | 2022-05-13 |  |
 | [Un Petit Bossanova](https://open.spotify.com/track/52Ncl5sgFtBDBTHdN8wC3T) | [Leon Noel](https://open.spotify.com/artist/33HL5KjSpPc12d2m01u6qB), [Roy Altice](https://open.spotify.com/artist/4WbBlvI0I3igsnRaNFzjBb) | [Leon Noel & Roy Altice](https://open.spotify.com/album/1pSdcWvO67Ey07XOjUiuV2) | 3:13 | 2023-06-13 |  |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-10-12",
-  "description": "Listen hot and new Korean classical & new age  music in here! (Cover: Yekwon Sunwoo(\uc120\uc6b0\uc608\uad8c)) \ud55c\uad6d \ud074\ub798\uc2dd \uc74c\uc545 \ud56b & \ucd5c\uc2e0 \ud2b8\ub799\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!",
+  "description": "Listen hot and new Korean classical & new age  music in here! (Cover: Kim Jeong Won(\uae40\uc815\uc6d0)) \ud55c\uad6d \ud074\ub798\uc2dd \uc74c\uc545 \ud56b & \ucd5c\uc2e0 \ud2b8\ub799\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!",
   "name": "K:lassical",
   "tracks": [
     {
@@ -200,6 +200,28 @@
       "duration_ms": 469613,
       "name": "Ballade No. 3 in A Flat Major, Op. 47",
       "url": "https://open.spotify.com/track/6J1aj3bVh1cEgMniGSGRGZ"
+    },
+    {
+      "album": {
+        "name": "Chopin's Last Piano Works",
+        "url": "https://open.spotify.com/album/5HhegDEp8Pp7nlaptGL5Hn"
+      },
+      "artists": [
+        {
+          "name": "Fr\u00e9d\u00e9ric Chopin",
+          "url": "https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4"
+        },
+        {
+          "name": "Julius-Jeongwon Kim",
+          "url": "https://open.spotify.com/artist/3O1hTgR3rPbh2wf8Qq0N01"
+        }
+      ],
+      "date_added": "2023-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 502240,
+      "name": "Barcarolle in F-Sharp Major, Op. 60",
+      "url": "https://open.spotify.com/track/4D5c2O7jJiKMk0e2csRWrH"
     },
     {
       "album": {

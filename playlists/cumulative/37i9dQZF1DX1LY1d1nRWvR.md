@@ -4,7 +4,7 @@
 
 > Kick back  and soak up the warm and soothing tones of jazz and electronic.
 
-74 songs - 6 hr 36 min
+75 songs - 6 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,6 +14,7 @@
 | [Aletheia](https://open.spotify.com/track/1SMLoRfenhQJjL4fbimctZ) | [O'Flynn](https://open.spotify.com/artist/7LTSTQkL7iK7zndjFQgHQo) | [Aletheia](https://open.spotify.com/album/0RVj8aaUuoTOZ7pyGjll6b) | 5:46 | 2021-10-08 |  |
 | [Alfa](https://open.spotify.com/track/0Z3a7SIDVOUvZFgr73qq0V) | [Crackazat](https://open.spotify.com/artist/2PagBkTVHoKFjuxtCJp3As) | [Alfa](https://open.spotify.com/album/4uO8oJ4NuITPSvTnP33EfY) | 4:45 | 2021-10-08 |  |
 | [Alfa \- Original Mix](https://open.spotify.com/track/1UabDxiLk78adOCYuQzhpu) | [Crackazat](https://open.spotify.com/artist/2PagBkTVHoKFjuxtCJp3As) | [Alfa EP](https://open.spotify.com/album/6nHbGBXnZxCP0PAq2Wt4rd) | 4:45 | 2021-10-08 | 2023-03-09 |
+| [All My Troubles](https://open.spotify.com/track/3m8ilb2QT4RgsPJSh2g6UZ) | [Demuja](https://open.spotify.com/artist/1LfqhJiCiHfVzrBOVaBXc1) | [All My Troubles](https://open.spotify.com/album/599n6aMLqgGci5iScyb4nN) | 5:08 | 2021-10-08 |  |
 | [Another Story](https://open.spotify.com/track/0AW4hkKsAgn8pU7pGPnu9Y) | [Galcher Lustwerk](https://open.spotify.com/artist/1c7bxvBwJrMuZKwx4EDPHf) | [Information](https://open.spotify.com/album/5qMjQBgXiEDIoNFHatsaNA) | 4:06 | 2021-10-08 |  |
 | [Bamboo](https://open.spotify.com/track/0tj5lFNJMzGKoQMY5uafU2) | [Harvey Sutherland](https://open.spotify.com/artist/4CxFlJDif0atTK3gZebcEf) | [Brothers](https://open.spotify.com/album/5bwIx6VKlV0nrPtjEM09xo) | 6:16 | 2021-10-08 |  |
 | [Been A Long Night](https://open.spotify.com/track/6R1iUygNnqOmUBmMUsDM7I) | [Galcher Lustwerk](https://open.spotify.com/artist/1c7bxvBwJrMuZKwx4EDPHf) | [Information](https://open.spotify.com/album/5qMjQBgXiEDIoNFHatsaNA) | 4:32 | 2021-10-08 |  |
@@ -38,7 +39,7 @@
 | [Leaves](https://open.spotify.com/track/4lGXye7yRWuhEb8jyaAYc2) | [Move D](https://open.spotify.com/artist/3hwmrS8MSceZwnZYvZFf97), [Justin Carter](https://open.spotify.com/artist/5uPFbw1zCaZDbZFlmrA15x) | [To the Disco '77 \(Live Rework\)](https://open.spotify.com/album/6a5zxWkfXH3jcXrjmdGSn2) | 9:54 | 2021-10-08 |  |
 | [Lost Kingdoms](https://open.spotify.com/track/17YIpKXRkKKqvb8ZbzyOG1) | [Nubya Garcia](https://open.spotify.com/artist/6O5k8LLRfDK8v9jj1GazAQ) | [Nubya's 5ive](https://open.spotify.com/album/42X2Gyov8AhwjiHfGCfOC4) | 7:38 | 2021-10-08 |  |
 | [Make This Right \- Radio Edit](https://open.spotify.com/track/0ZhLu81Q05NbCHwsLRlW2N) | [Ruf Dug](https://open.spotify.com/artist/08Jin8iRNko0j3gewozB0T), [Lovescene](https://open.spotify.com/artist/7bovLS0s72xVbr3eZl9aLk) | [Make This Right](https://open.spotify.com/album/6Q24x3y5iDAUmdHx2lnvD7) | 3:17 | 2021-10-08 |  |
-| [Mind](https://open.spotify.com/track/5sfTya6OQoW2rDLKSVT2Qk) | [Fatima](https://open.spotify.com/artist/5uNCGgWH5Id1cW8kh9Sc67), [Floating Points](https://open.spotify.com/artist/2AR42Ur9PcchQDtEdwkv4L) | [Follow You EP \(feat\. Floating Points\)](https://open.spotify.com/album/5dt7lQjyinjDt7y0a8tzmw) | 4:27 | 2021-10-08 |  |
+| [Mind](https://open.spotify.com/track/5sfTya6OQoW2rDLKSVT2Qk) | [Fatima](https://open.spotify.com/artist/5uNCGgWH5Id1cW8kh9Sc67), [Floating Points](https://open.spotify.com/artist/2AR42Ur9PcchQDtEdwkv4L) | [Follow You EP \(feat\. Floating Points\)](https://open.spotify.com/album/5dt7lQjyinjDt7y0a8tzmw) | 4:27 | 2021-10-08 | 2023-10-18 |
 | [Mogeri](https://open.spotify.com/track/6Iq7a7HZ6eFpsAVW6Qfohp) | [Dan Kye](https://open.spotify.com/artist/05YrP00agTrYezUyAsukKf) | [Small Moments](https://open.spotify.com/album/75GwgzYvvgaJQS6DooqcIC) | 6:11 | 2021-10-08 | 2023-08-08 |
 | [Mother Theresa \- Original Mix](https://open.spotify.com/track/59IQ2oXNWFyoNJmISYjj7I) | [Auntie Flo](https://open.spotify.com/artist/6XYOjW5wxf5V9hwAR58o4d) | [Highlife World Series: Cuba](https://open.spotify.com/album/5H7bXAW9DD4rhFsVcFInkE) | 5:56 | 2021-10-08 |  |
 | [Move On](https://open.spotify.com/track/390VumD1uSnfGvyB0NmjKe) | [Charlotte Dos Santos](https://open.spotify.com/artist/0INatsTiEOX0EJimNTQjSM) | [Cleo](https://open.spotify.com/album/1peRsBvuNWGMgEcwj1lx0K) | 3:11 | 2021-10-08 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUNNEvaozpW5.md) - [plain]
 
 > Lo mejor del rock de aquí, como Los Zigarros.
 
-[Spotify](https://open.spotify.com/user/spotify) - 566,037 likes - 100 songs - 6 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 566,095 likes - 100 songs - 6 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,8 +62,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUNNEvaozpW5.md) - [plain]
 | 52 | [Rojitas](https://open.spotify.com/track/5Srks36XWpQoF47EYF7ExI) | [Extrechinato y Tu](https://open.spotify.com/artist/5qi25oEuARj6wUbqiMSj0w) | [Poesía Básica](https://open.spotify.com/album/4xhZ3vSDxAYlXCuorMDAbV) | 3:52 |
 | 53 | [Cadillac solitario](https://open.spotify.com/track/3VNxbWlw9oVvxSnSbeiCBb) | [Loquillo](https://open.spotify.com/artist/5Fv0DQ1ZBuc2DlidtOUCZr) | [Rock & Roll Star \- 30 años](https://open.spotify.com/album/24fPzeDiySM2lt3pvuLKGR) | 3:34 |
 | 54 | [Dulce condena](https://open.spotify.com/track/1J2XL5ciqUgCQ92TmFDAAZ) | [Los Rodriguez](https://open.spotify.com/artist/3XkJyJgJDxnjdQgH0zfT8K) | [¡Hasta luego!](https://open.spotify.com/album/26vh26M3hPs7BMelYSQ6iH) | 4:41 |
-| 55 | [El Limite](https://open.spotify.com/track/0NFcUhw2uKzX0zqH81tWOu) | [La Frontera](https://open.spotify.com/artist/4WeIMVqCUH09dxtBsstIw3) | [La Rosa De Los Vientos](https://open.spotify.com/album/51ohZ4F4nZ40R8eGyK7tZT) | 4:35 |
-| 56 | [Me Quedo Contigo \(Si Me Das A Elegir\) \- Live Baïonarena](https://open.spotify.com/track/6u9GgwXbMs5jJlA29zGHu5) | [Manu Chao](https://open.spotify.com/artist/6wH6iStAh4KIaWfuhf0NYM) | [Baïonarena \(Live\)](https://open.spotify.com/album/7i5eD0VAL2fdeUNO1IQBDj) | 4:48 |
+| 55 | [Me Quedo Contigo \(Si Me Das A Elegir\) \- Live Baïonarena](https://open.spotify.com/track/6u9GgwXbMs5jJlA29zGHu5) | [Manu Chao](https://open.spotify.com/artist/6wH6iStAh4KIaWfuhf0NYM) | [Baïonarena \(Live\)](https://open.spotify.com/album/7i5eD0VAL2fdeUNO1IQBDj) | 4:48 |
+| 56 | [El Limite](https://open.spotify.com/track/0NFcUhw2uKzX0zqH81tWOu) | [La Frontera](https://open.spotify.com/artist/4WeIMVqCUH09dxtBsstIw3) | [La Rosa De Los Vientos](https://open.spotify.com/album/51ohZ4F4nZ40R8eGyK7tZT) | 4:35 |
 | 57 | [Necesito Respirar](https://open.spotify.com/track/6uK6H8xkSQRA4Y2TfczXs0) | [Medina Azahara](https://open.spotify.com/artist/72XPmW6k6HZT6K2BaUUOhl) | [Sin Tiempo](https://open.spotify.com/album/1T5c9thHoIvpLBvNpH4wDn) | 4:29 |
 | 58 | [Serenade](https://open.spotify.com/track/4tzi4VV1vCTZsT4SEKQIKJ) | [Dover](https://open.spotify.com/artist/5kdLOinhQnlSk4su7U6lyW) | [Devil Came to Me](https://open.spotify.com/album/31cccvot053zKCeLHnnic1) | 3:54 |
 | 59 | [La senda del tiempo](https://open.spotify.com/track/6dMKB6nyxcg8hllDzPCvRc) | [Celtas Cortos](https://open.spotify.com/artist/3hIPQBm8PBt8B5aahP6cVP) | [Gente Impresentable](https://open.spotify.com/album/79gPRqLvpQu9Kc8MYNYfSD) | 4:30 |
@@ -96,8 +96,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUNNEvaozpW5.md) - [plain]
 | 86 | [Uróboros](https://open.spotify.com/track/5BYG5PsbPY8dYyXczRoSPX) | [Albertucho](https://open.spotify.com/artist/1kcjyRBcnuC94JVRshXjI6), [Kutxi Romero](https://open.spotify.com/artist/3nFnQg8Kav6UMFFjQ1dspY), [Marea](https://open.spotify.com/artist/5EBH204cwRkvAWknwTAjCQ) | [Uróboros](https://open.spotify.com/album/3VYt0Dcj9hPc9ztby9ykl9) | 3:37 |
 | 87 | [Calle Melancolía](https://open.spotify.com/track/3li6qqddV84LgSw9lgh0sG) | [Robe](https://open.spotify.com/artist/3WQRkINylwwkw1Ya07ToRK) | [Calle Melancolía](https://open.spotify.com/album/2RlCfIHnXz8h8sc76B8ACD) | 6:20 |
 | 88 | [Tu frialdad](https://open.spotify.com/track/2A3WfAbX9KHMQhewdpUiok) | [Triana](https://open.spotify.com/artist/5hlBb5u8K5D8yrL8jwZ7N9) | [Un Encuentro](https://open.spotify.com/album/3OQX2EwYNN3FVKuUVLkVOL) | 4:23 |
-| 89 | [Frío \(con Fito y Fitipaldis, Tarque y Rosendo\)](https://open.spotify.com/track/2CEDonzkAIXcNpXKXfcq57) | [El Drogas](https://open.spotify.com/artist/5jJWnRLQeU7fe9VaDjpIWK), [Tarque](https://open.spotify.com/artist/0bbgHE4QN1vDZhkGJw8n9p), [Fito y Fitipaldis](https://open.spotify.com/artist/1tZ99AnqyjgrmPwLfGU5eo), [Rosendo](https://open.spotify.com/artist/0P4FkbP57uc9XBnJ9aoA3N) | [Un día nada más](https://open.spotify.com/album/4f3OQ1DIzm3Oszv2rD5c3x) | 4:09 |
-| 90 | [Noviembre](https://open.spotify.com/track/3FVGNCVHynlBTqizeinqQS) | [Rulo y la contrabanda](https://open.spotify.com/artist/0ewtf5KcA50GVkF6FBXOcs) | [El doble de tu mitad](https://open.spotify.com/album/2S06GoLfAKn93qbHwL6b8u) | 4:00 |
+| 89 | [Noviembre](https://open.spotify.com/track/3FVGNCVHynlBTqizeinqQS) | [Rulo y la contrabanda](https://open.spotify.com/artist/0ewtf5KcA50GVkF6FBXOcs) | [El doble de tu mitad](https://open.spotify.com/album/2S06GoLfAKn93qbHwL6b8u) | 4:00 |
+| 90 | [Frío \(con Fito y Fitipaldis, Tarque y Rosendo\)](https://open.spotify.com/track/2CEDonzkAIXcNpXKXfcq57) | [El Drogas](https://open.spotify.com/artist/5jJWnRLQeU7fe9VaDjpIWK), [Tarque](https://open.spotify.com/artist/0bbgHE4QN1vDZhkGJw8n9p), [Fito y Fitipaldis](https://open.spotify.com/artist/1tZ99AnqyjgrmPwLfGU5eo), [Rosendo](https://open.spotify.com/artist/0P4FkbP57uc9XBnJ9aoA3N) | [Un día nada más](https://open.spotify.com/album/4f3OQ1DIzm3Oszv2rD5c3x) | 4:09 |
 | 91 | [Sorprendente](https://open.spotify.com/track/6Xueg8DmwhkU4xf0Q3xlWN) | [Leño](https://open.spotify.com/artist/5CA8MVh6ESzTlJcsB8wcFJ) | [Corre Corre](https://open.spotify.com/album/7ymYtcn91u3FY8P07QKO53) | 4:05 |
 | 92 | [Lejos de las leyes de los hombres \- Versión 2023](https://open.spotify.com/track/2bAUvzIsgE66UmGqADyGQg) | [El Último De La Fila](https://open.spotify.com/artist/2jMYTBTCSNYaCYy54mLc6I) | [Lejos de las leyes de los hombres \(Versión 2023\)](https://open.spotify.com/album/7u6hWylxNJin7RPnuTsxrI) | 3:21 |
 | 93 | [Rock and Roll Star \- 2017 Remaster](https://open.spotify.com/track/6UJZUMcCgKHi4uGozQc8EE) | [Loquillo](https://open.spotify.com/artist/5Fv0DQ1ZBuc2DlidtOUCZr) | [Rock and Roll Actitud \(1978\-2018\)](https://open.spotify.com/album/5UWflqGh9hNMGZQV3Jmn92) | 4:09 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUNNEvaozpW5.md) - [plain]
 | 99 | [Rock And Roll en la Plaza del Pueblo](https://open.spotify.com/track/5fCYRuYxc1ox7yWKcKD6tf) | [Tequila](https://open.spotify.com/artist/6stZWw6L5Sjy5m7OdUR3rO) | [Matricula De Honor/New Booklet](https://open.spotify.com/album/4ajHTO6YQLBIgfsF9MpKBv) | 3:00 |
 | 100 | [Como Si Fueras a Morir Mañana \- Madrid Nuclear \- En Directo](https://open.spotify.com/track/5LscAfMaxkC3ciH2kUZtOa) | [Leiva](https://open.spotify.com/artist/5Hsv8dUHHOdnn72q4XIVz7) | [Madrid Nuclear \- En Directo](https://open.spotify.com/album/0nfk8ZUr3ufktOOaiIGFB9) | 4:43 |
 
-Snapshot ID: `MCxmNjQ4NjY4ZThhMDAzYmY4MmI5OTE0N2VkMzVhM2I3YzA0YjU5NWE4`
+Snapshot ID: `MCw1NDYwNjMyMDg0MzRjZWU0OTEzZDZlMWJjOTJkNTBkMzk0YzJiZjVi`

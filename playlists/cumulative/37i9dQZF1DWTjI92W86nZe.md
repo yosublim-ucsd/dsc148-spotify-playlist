@@ -2,9 +2,9 @@
 
 ### [Corridos de la Muerte](https://open.spotify.com/playlist/37i9dQZF1DWTjI92W86nZe)
 
-> El que por su gusto muere, hasta la muerte la sabe\. Las historias de nuestro México 💀🪦💐
+> El que por su gusto muere, hasta la muerte la sabe\. Las historias de nuestro México con Alfredo Olivas 💀🪦💐
 
-60 songs - 3 hr 12 min
+61 songs - 3 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -55,7 +55,7 @@
 | [Nació Pa'Leyenda](https://open.spotify.com/track/7yjXLXGXtwMGDqsEbOXB46) | [Los Plebes del Rancho de Ariel Camacho](https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77) | [Nació Pa' Leyenda](https://open.spotify.com/album/2ASMMEp5nquYyVwAy3igBK) | 2:20 | 2022-10-24 | 2022-11-18 |
 | [Nadie Es Eterno](https://open.spotify.com/track/4nmYEaw0oVz3QKxUlrmFkh) | [Adan Chalino Sanchez](https://open.spotify.com/artist/2zyNL1jSCA6HH5m0BZZTgy) | [Amor Y Lágrimas](https://open.spotify.com/album/5AINE3154WldReklifyueS) | 3:16 | 2022-10-24 |  |
 | [Nomas las Mujeres Quedan \- En Vivo](https://open.spotify.com/track/3vKRkXyUCDs7mExHkcz9pg) | [Los Dos Carnales](https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3) | [En Vivo Desde las Cañas](https://open.spotify.com/album/55jSMGuJVYVcRV3TyIrNhx) | 3:29 | 2022-10-24 |  |
-| [Por Si Me Adelanto \- Banda](https://open.spotify.com/track/58fd41sZyZGnyS0XXwj8AO) | [Indalfer Ochoa](https://open.spotify.com/artist/32eMbHNJ7S17YKRycVbR80) | [De Corazón Cabal](https://open.spotify.com/album/0YmBUlD9ACR65vEp7SoqtY) | 3:24 | 2022-10-24 |  |
+| [Por Si Me Adelanto \- Banda](https://open.spotify.com/track/58fd41sZyZGnyS0XXwj8AO) | [Indalfer Ochoa](https://open.spotify.com/artist/32eMbHNJ7S17YKRycVbR80) | [De Corazón Cabal](https://open.spotify.com/album/0YmBUlD9ACR65vEp7SoqtY) | 3:24 | 2022-10-24 | 2023-10-18 |
 | [Que Me Entierren Cantando](https://open.spotify.com/track/5GaIwab0GIWICCSVzldmUY) | [Lupillo Rivera](https://open.spotify.com/artist/341CfLcUdaBGixB8IJjYwW), [Jenni Rivera](https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu) | [Borracho de Primera](https://open.spotify.com/album/1cjt1zBdNmoD4qi3s2meCy) | 3:51 | 2022-10-24 |  |
 | [Que Me Entierren Con la Banda](https://open.spotify.com/track/6Hcz9PRsiOpU051JQaHvz1) | [Pepe Aguilar](https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit), [Ángela Aguilar](https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH), [Leonardo Aguilar](https://open.spotify.com/artist/1QgrwYywvDuC43MDtR8cqq) | [Mexicano Hasta los Huesos](https://open.spotify.com/album/6IlYrSFtmY9o6Gdi49rTkm) | 2:58 | 2022-10-24 |  |
 | [Quiero Charlar Con La Muerte](https://open.spotify.com/track/7rkHACbUWdirRZ3lrHCxET) | [Valentín Elizalde](https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA) | [Soy Así](https://open.spotify.com/album/4SrvbBpwiAJf09kK7EvQsk) | 3:04 | 2022-10-24 |  |
@@ -64,6 +64,7 @@
 | [Somos Los Que Somos \- En Vivo](https://open.spotify.com/track/1Z04XN4pH2b8JfdiaIEkl5) | [Los 2 de la S](https://open.spotify.com/artist/4UqfXEVibVEPfoopm7Pduc), [Banda MS de Sergio Lizárraga](https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh) | [La Barda Me Volé](https://open.spotify.com/album/13SwxlksMXwzpK8iAafFDh) | 4:40 | 2022-10-24 |  |
 | [Trato De Muerte \(feat\. Los Buchones De Culiacan\)](https://open.spotify.com/track/1SNUI5uJQhPobHP7A4dnmH) | [El Komander](https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr) | [Y Seguimos La Borrachera](https://open.spotify.com/album/1Dtzxd3Dumtysst0Xk4HnD) | 3:19 | 2022-12-09 |  |
 | [Trato De Muerte \(feat\. Los Buchones De Culiacan\)](https://open.spotify.com/track/3Co7rxpt17f78kj4WSa1FZ) | [Los Buchones de Culiacan](https://open.spotify.com/artist/7J8LbpTbAh807es1ruPYNa) | [Y Seguimos La Borrachera](https://open.spotify.com/album/2DTHcZK8xkXi8zg2sFK2io) | 3:19 | 2022-10-24 | 2023-07-27 |
+| [Trece Cielos \(Con Cerveza Victoria\)](https://open.spotify.com/track/5lMgrfqMHikrPx0trUm5aT) | [Joaquín Coronel](https://open.spotify.com/artist/5NoHhsqkBw0TMQFfig7eLT) | [Trece Cielos \(Con Cerveza Victoria\)](https://open.spotify.com/album/4sLmrP60deEJ3qrU6S7fgQ) | 3:27 | 2023-10-17 |  |
 | [Un Dia a La Vez \- En Vivo](https://open.spotify.com/track/7KkFSB0Ikcg2ZAiaUx4yg3) | [Los 3 Del Norteño](https://open.spotify.com/artist/6E56D3DChYTAJTn65CiGDT) | [Tus Bellos Pechos \(En Vivo\)](https://open.spotify.com/album/5HssX8D6pvSMuyJFAM3bTy) | 3:24 | 2022-10-24 | 2023-01-14 |
 | [Veinte Mujeres De Negro](https://open.spotify.com/track/6dSDh142ee5UPeMnwh14pm) | [Los Huracanes del Norte](https://open.spotify.com/artist/2wmwGWrqRizLaSEYrm5dzZ) | [Norteño 2000](https://open.spotify.com/album/7tOJ88Jeuo8aOOwKMrsHdv) | 2:43 | 2022-10-24 |  |
 | [Vida Prestada](https://open.spotify.com/track/1pJvXwGDQCaYKErJfNL20j) | [Banda El Recodo](https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC) | [Exitos 10, Vol\. 1: Cumbias & Rancheras](https://open.spotify.com/album/41ZUMbfkl3CZWl4RX67RcU) | 2:44 | 2022-10-24 |  |

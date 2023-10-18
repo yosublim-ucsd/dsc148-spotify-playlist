@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYzQ2Vx5M6uV.md) - [plain]
 
 > Bringing you the hottest collaborations between Afro & Latin artists\. Cover: Feid & Rema
 
-[Spotify](https://open.spotify.com/user/spotify) - 114,295 likes - 70 songs - 3 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 114,308 likes - 70 songs - 3 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -72,11 +72,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYzQ2Vx5M6uV.md) - [plain]
 | 62 | [MAMACITA](https://open.spotify.com/track/7oTYzZLBjl9krOfHNNrV7n) | [Natalia Paris](https://open.spotify.com/artist/2XRXFHC8h6orLpqNySkeo0), [Zion & Lennox](https://open.spotify.com/artist/21451j1KhjAiaYKflxBjr1) | [MAMACITA](https://open.spotify.com/album/79T2dvhr64LX3IQM29QQyP) | 4:17 |
 | 63 | [Vámonos](https://open.spotify.com/track/2PkLYoUAu7a4Aa6Tek3htO) | [Oliver Kid](https://open.spotify.com/artist/2GAntPIbrC47uOoCNVnDPG) | [Vámonos](https://open.spotify.com/album/66fSW4LgnWuVk0SQwTwOjz) | 2:01 |
 | 64 | [Se Fue](https://open.spotify.com/track/00FmMXnkYZ0ymlNcacdB6O) | [Alejandro Santamaria](https://open.spotify.com/artist/7HXJp9OMIL5tdwZYleuBvy), [Ovy On The Drums](https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA), [ADSO](https://open.spotify.com/artist/29b16XDtyMXDrfo2hZ69wf) | [Se Fue](https://open.spotify.com/album/4j2DaQTBXSER398hI49Fkj) | 3:35 |
-| 65 | [Parcerita](https://open.spotify.com/track/6yXw5aGmUCTut8mpTqWRWK) | [Dahili](https://open.spotify.com/artist/6H8CeqAmIA9VtwSDSvrViE) | [Parcerita](https://open.spotify.com/album/0LbiIr1Wxs9wY2hTOMRJy9) | 2:46 |
-| 66 | [Cheza Kama Wewe](https://open.spotify.com/track/4NAhcKp6YtMDRAMH4UeUE5) | [Trio Mio](https://open.spotify.com/artist/1YSv5pS7iY49Ech2SfHryX), [Mejja](https://open.spotify.com/artist/5VnDOE1MEaJ0VOgSypOi3u), [Exray](https://open.spotify.com/artist/0jEAvweUh4N7mXYMDkRTQo), [Nellythegoon](https://open.spotify.com/artist/33ypECIxCzdSYfzysHmrH7) | [Son of the City](https://open.spotify.com/album/7sQ6TFEEb8N88lvV6NE8OS) | 5:34 |
+| 65 | [Cheza Kama Wewe](https://open.spotify.com/track/4NAhcKp6YtMDRAMH4UeUE5) | [Trio Mio](https://open.spotify.com/artist/1YSv5pS7iY49Ech2SfHryX), [Mejja](https://open.spotify.com/artist/5VnDOE1MEaJ0VOgSypOi3u), [Exray](https://open.spotify.com/artist/0jEAvweUh4N7mXYMDkRTQo), [Nellythegoon](https://open.spotify.com/artist/33ypECIxCzdSYfzysHmrH7) | [Son of the City](https://open.spotify.com/album/7sQ6TFEEb8N88lvV6NE8OS) | 5:34 |
+| 66 | [Parcerita](https://open.spotify.com/track/6yXw5aGmUCTut8mpTqWRWK) | [Dahili](https://open.spotify.com/artist/6H8CeqAmIA9VtwSDSvrViE) | [Parcerita](https://open.spotify.com/album/0LbiIr1Wxs9wY2hTOMRJy9) | 2:46 |
 | 67 | [Diggy Dee \- Remix](https://open.spotify.com/track/6WRoMvvjhKsJjWJHXNJxtq) | [Charly Black](https://open.spotify.com/artist/5sK8BsvyDl4TFA6KaBf8or), [Sak Noel](https://open.spotify.com/artist/15jrieCvf3EklAScnD9kKl), [Cali Y El Dandee](https://open.spotify.com/artist/5DUlefCLzVRzNWaNURTFpK), [Tarik Jazzy T Thompson](https://open.spotify.com/artist/6sFoObgl1BzplimWTBt6sD) | [Diggy Dee \(Remix\)](https://open.spotify.com/album/1gcCnNk1xuCmeHW0v62ZoN) | 3:16 |
 | 68 | [Prende](https://open.spotify.com/track/5GQfpkhixRA9U3LKINOjRH) | [LATENIGHTJIGGY](https://open.spotify.com/artist/34OTRVwyaE8DkOrGMQa7Ah), [Caleb Calloway](https://open.spotify.com/artist/11usEAQkFE6UJwsyAKkchi) | [Flavors 2](https://open.spotify.com/album/5cUTeXN3B75U1f7cmnyZB2) | 3:14 |
 | 69 | [Next To You Part II \(feat\. Rvssian & Davido\)](https://open.spotify.com/track/00yinrzqPZKA2vbnwnn3hS) | [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3), [Digital Farm Animals](https://open.spotify.com/artist/5fyDppLDl1juIu1BcUT5zh), [Rvssian](https://open.spotify.com/artist/1fctva4kpRbg2k3v7kwRuS), [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh) | [Next To You Part II \(feat\. Rvssian & Davido\)](https://open.spotify.com/album/67hfw7M0E3Rty5HntU1eC2) | 2:59 |
 | 70 | [Rover \(feat\. Piso 21\)](https://open.spotify.com/track/401WZ0HpjqSVtpCp6uVtij) | [S1mba](https://open.spotify.com/artist/71jSVPQ6yskfyvWeiwvT5s), [Piso 21](https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd) | [Rover \(feat\. Piso 21\)](https://open.spotify.com/album/3AKDxiGfoAbNFrEgi25vJV) | 3:31 |
 
-Snapshot ID: `MCwzODJkMzVlOTQ1OGQzYzdjNmEyOWVhYTE0OWUwODgyNDhiZGQxNmQ1`
+Snapshot ID: `MCxmMzYwYjA3M2ZlYTEzZDA1NGQ2ODJkYTlhNmMxN2VkZTUxMWRjYmJi`

@@ -22413,6 +22413,24 @@
     },
     {
       "album": {
+        "name": "Please Don't Die",
+        "url": "https://open.spotify.com/album/4Tm166tOLlMl3SQdIdQhRF"
+      },
+      "artists": [
+        {
+          "name": "The Rhythm Method",
+          "url": "https://open.spotify.com/artist/6kcYJnJl7asHdgQdrviOFb"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233178,
+      "name": "Please Don't Die",
+      "url": "https://open.spotify.com/track/3XiSW0lJAJdDKQoEayLXv5"
+    },
+    {
+      "album": {
         "name": "Lianne La Havas",
         "url": "https://open.spotify.com/album/6JwtB0zzNYy4qANDrJtrJy"
       },
@@ -31271,6 +31289,24 @@
     },
     {
       "album": {
+        "name": "I Get Into Trouble",
+        "url": "https://open.spotify.com/album/3O5mTnbeK3XcovZV49vOAd"
+      },
+      "artists": [
+        {
+          "name": "Maple Glider",
+          "url": "https://open.spotify.com/artist/1Y3IqLN3JkfppIbJG2IWHk"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209290,
+      "name": "Two Years",
+      "url": "https://open.spotify.com/track/2TgaPR6Tm4a50KqdiQ7eRa"
+    },
+    {
+      "album": {
         "name": "Two Years",
         "url": "https://open.spotify.com/album/7oZXGk0hj8oVfBjFBUWgYF"
       },
@@ -31282,7 +31318,7 @@
       ],
       "date_added": "2023-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-18",
       "duration_ms": 209290,
       "name": "Two Years",
       "url": "https://open.spotify.com/track/2Z4KsUvMCgK5lL9OLU0Vbz"

@@ -4,7 +4,7 @@
 
 > It's a main pop girl emergency 🆘  Cover: Troye Sivan
 
-696 songs - 1 day 11 hr 18 min
+697 songs - 1 day 11 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -428,8 +428,9 @@
 | [MIND YOUR BUSINESS](https://open.spotify.com/track/6SihMpwoVMy75GwvBXFxJ4) | [will.i.am](https://open.spotify.com/artist/085pc2PYOi8bGKj0PNjekA), [Britney Spears](https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4) | [MIND YOUR BUSINESS](https://open.spotify.com/album/3ecBg8wGhu2TrZxFmEFA7h) | 3:15 | 2023-07-21 |  |
 | [Miracle \(with Ellie Goulding\)](https://open.spotify.com/track/5eTaQYBE1yrActixMAeLcZ) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY), [Ellie Goulding](https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ) | [Miracle \(with Ellie Goulding\)](https://open.spotify.com/album/22UyygZceCIfoE0RhENgKx) | 3:06 | 2023-03-10 | 2023-04-09 |
 | [Mirrors \(2k22\)](https://open.spotify.com/track/4QI9orpnlZmSq7fU1hrxUB) | [SkiDropz](https://open.spotify.com/artist/0bEcPSC4CKrc8GwlwczpMa), [Natalia Kills](https://open.spotify.com/artist/6wdvERzX4CUCOXu6hSS95x) | [Mirrors \(2k22\)](https://open.spotify.com/album/69tJeCNDNHUSf4jP1PeJDU) | 3:24 | 2022-03-18 | 2022-05-20 |
-| [Miss Belladonna](https://open.spotify.com/track/3h4Xrayt7oyzdXWe6u14oK) | [Slayyyter](https://open.spotify.com/artist/4QM5QCHicznALtX885CnZC) | [Miss Belladonna](https://open.spotify.com/album/1Ne9xZgi6No2s4JpxBPyfC) | 3:04 | 2023-07-21 |  |
+| [Miss Belladonna](https://open.spotify.com/track/3h4Xrayt7oyzdXWe6u14oK) | [Slayyyter](https://open.spotify.com/artist/4QM5QCHicznALtX885CnZC) | [Miss Belladonna](https://open.spotify.com/album/1Ne9xZgi6No2s4JpxBPyfC) | 3:04 | 2023-07-21 | 2023-10-18 |
 | [Mona Lisa](https://open.spotify.com/track/72lUoCaeg17uXhbfmsRRRt) | [Miles & Miles](https://open.spotify.com/artist/00hQm1Gj5PmmqpQPfKVP0U), [Alex Hosking](https://open.spotify.com/artist/5YCU9eHY4IYTyNa8XRFuw9) | [Mona Lisa](https://open.spotify.com/album/4L7Udo48s2YmvC0Oq2fFkF) | 2:57 | 2023-03-03 | 2023-08-12 |
+| [Monster \- Spotify Singles](https://open.spotify.com/track/2EYDqen8Pftl3ENvqOs6fE) | [Slayyyter](https://open.spotify.com/artist/4QM5QCHicznALtX885CnZC) | [Monster \(Spotify Singles\)](https://open.spotify.com/album/62iTVhERPubeRu59a3HRqF) | 3:57 | 2023-10-17 |  |
 | [Moonlight](https://open.spotify.com/track/5QWWWBAkC6sDuCLlKubuYi) | [Madison Rose](https://open.spotify.com/artist/4XgL05GiIZGJev3EwBnbsE) | [TECHNICOLOR](https://open.spotify.com/album/1B65FjcrhMSeAK719d2Jz2) | 3:10 | 2022-05-27 | 2023-01-28 |
 | [MOONLIGHT SUNRISE](https://open.spotify.com/track/5NcLyVjUgG0yfwHgr5t81w) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [MOONLIGHT SUNRISE](https://open.spotify.com/album/3Haj0Fa9S49LCeYcOiODcL) | 3:00 | 2023-01-20 | 2023-02-11 |
 | [Motorbike](https://open.spotify.com/track/2HYay9cjoX0v5mgOaQFufh) | [Poppy](https://open.spotify.com/artist/5mlbvTfWUOfDrUIK6dkNzv) | [Motorbike](https://open.spotify.com/album/6KuekGFTXLpJU73y7jXqG0) | 2:26 | 2023-09-15 |  |

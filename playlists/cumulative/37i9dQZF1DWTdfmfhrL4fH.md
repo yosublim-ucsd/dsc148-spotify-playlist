@@ -4,7 +4,7 @@
 
 > Any songs you forgot existed? Let's go deep into 2010s rock!  Cover: Papa Roach.
 
-551 songs - 1 day 10 hr 34 min
+552 songs - 1 day 10 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -49,6 +49,7 @@
 | [Bang Bang](https://open.spotify.com/track/278Ao6KQDxWGGszv24uvhI) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [Revolution Radio](https://open.spotify.com/album/5a3LqvNt2nv1B4aRKXmgOV) | 3:25 | 2022-05-25 |  |
 | [Bath Salts](https://open.spotify.com/track/252T5dAokvMiNzXZchojoH) | [Highly Suspect](https://open.spotify.com/artist/2pqd3HsfsvcBGtHvPOg6eg) | [Mister Asylum](https://open.spotify.com/album/7wGLeeJt18EBjc181FP2cM) | 3:59 | 2022-05-25 |  |
 | [Bath Salts](https://open.spotify.com/track/33k68xWHOnL25URDQoXPDU) | [Highly Suspect](https://open.spotify.com/artist/2pqd3HsfsvcBGtHvPOg6eg) | [Mister Asylum](https://open.spotify.com/album/3vqHU45940CTywg4uPCE27) | 3:59 | 2022-05-25 | 2022-07-29 |
+| [Battle Born](https://open.spotify.com/track/07rwiVsch7a9DhwnX1eFrT) | [Five Finger Death Punch](https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM) | [The Wrong Side of Heaven and the Righteous Side of Hell, Vol\. 2](https://open.spotify.com/album/7m0JmDshYPjYJAb1C4aPdH) | 3:43 | 2023-01-18 |  |
 | [Battle Born](https://open.spotify.com/track/3nRanAfF9K36yHWV9sIG9D) | [Five Finger Death Punch](https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM) | [The Wrong Side of Heaven and the Righteous Side of Hell, Vol\. 2](https://open.spotify.com/album/6cNLSrGEjnrEhV5valjcYD) | 3:43 | 2022-05-25 | 2023-08-20 |
 | [Battle Born](https://open.spotify.com/track/7x2gOLBT1ruFBNsxFmddWw) | [Five Finger Death Punch](https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM) | [The Wrong Side Of Heaven And The Righteous Side Of Hell, Volume 2](https://open.spotify.com/album/0RP9MT74WH7Yis10EO7tZS) | 3:43 | 2022-05-25 | 2022-07-29 |
 | [Battle Born](https://open.spotify.com/track/52IbZOn3hSl8OVDms3j78h) | [The Killers](https://open.spotify.com/artist/0C0XlULifJtAgn6ZNCW2eu) | [Battle Born](https://open.spotify.com/album/3bvS3DlTwV35j2qwFhDvxx) | 5:13 | 2022-05-25 | 2022-07-29 |
@@ -197,7 +198,7 @@
 | [Heart Of Fire](https://open.spotify.com/track/7ej1r1ngI0fAYBHfGtwi7Y) | [Black Veil Brides](https://open.spotify.com/artist/6O7MpKrY91vlCd4Osi6XKs) | [Black Veil Brides](https://open.spotify.com/album/4TZA3mmUxcMwinJFCg5M1H) | 3:21 | 2022-05-25 | 2022-07-29 |
 | [Heart Vs\. Mind](https://open.spotify.com/track/2BBwKogsgV6n2wxbC7MGFC) | [I Prevail](https://open.spotify.com/artist/3Uobr6LgQpBbk6k4QGAb3V) | [Heart Vs\. Mind](https://open.spotify.com/album/6bywSFiasl6HpfQLDvh0az) | 3:56 | 2022-05-25 | 2022-07-15 |
 | [Heart's All Gone](https://open.spotify.com/track/4jNa0b3UvRtMtFRDuBW3Fe) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [Neighborhoods \(Deluxe Explicit Version\)](https://open.spotify.com/album/0KjLbdlJYvtzXjGTwPy3lv) | 3:14 | 2022-05-25 | 2022-07-21 |
-| [Heat of the Summer](https://open.spotify.com/track/649o53ULWYN1y7V2OI5kgo) | [Young the Giant](https://open.spotify.com/artist/4j56EQDQu5XnL7R3E9iFJT) | [Mirror Master](https://open.spotify.com/album/6blMxezujKgPe8HjHNveuG) | 3:31 | 2022-05-25 |  |
+| [Heat of the Summer](https://open.spotify.com/track/649o53ULWYN1y7V2OI5kgo) | [Young the Giant](https://open.spotify.com/artist/4j56EQDQu5XnL7R3E9iFJT) | [Mirror Master](https://open.spotify.com/album/6blMxezujKgPe8HjHNveuG) | 3:31 | 2022-05-25 | 2023-10-18 |
 | [Heaven Don't Have a Name](https://open.spotify.com/track/7o16vFLr1pjSWLnEnFgeSe) | [Jeremy Renner](https://open.spotify.com/artist/3XlASyLS4HSUX3inS3tIc1) | [Heaven Don't Have a Name](https://open.spotify.com/album/41HXSu5glANXWCrqaIhKcG) | 3:16 | 2022-05-25 | 2022-07-25 |
 | [Heaven Nor Hell](https://open.spotify.com/track/2QKYfkH616UOHRQJlxWaVu) | [Volbeat](https://open.spotify.com/artist/0L5fC7Ogm2YwgqVCRcF1bT) | [Beyond Hell / Above Heaven](https://open.spotify.com/album/2gBziT8McYGmC7Vzf4BsK9) | 5:22 | 2022-05-25 | 2022-07-29 |
 | [Heaven Nor Hell](https://open.spotify.com/track/5Hgx4ssabqTTD1fmGFTmi2) | [Volbeat](https://open.spotify.com/artist/0L5fC7Ogm2YwgqVCRcF1bT) | [Beyond Hell / Above Heaven](https://open.spotify.com/album/3EwdtOKxIBnC8jJwsOvy2K) | 5:22 | 2022-05-25 |  |

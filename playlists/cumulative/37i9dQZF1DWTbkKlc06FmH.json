@@ -998,7 +998,7 @@
       ],
       "date_added": "2022-10-20",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-13",
+      "date_removed": null,
       "duration_ms": 174516,
       "name": "Better",
       "url": "https://open.spotify.com/track/1dLXLETYiZohIZWnse4ypG"
@@ -1450,7 +1450,7 @@
       ],
       "date_added": "2023-02-28",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-07",
+      "date_removed": null,
       "duration_ms": 150638,
       "name": "Cardboard Box - Happi Remix",
       "url": "https://open.spotify.com/track/3Y9cvPqBb5Dnpc2MpG6f3j"
@@ -1542,6 +1542,24 @@
       "duration_ms": 167533,
       "name": "celeste feat. \u6625\u91ce",
       "url": "https://open.spotify.com/track/1xD7JuI2jpGFFZYMtcmuC9"
+    },
+    {
+      "album": {
+        "name": "Carrossel Do Tempo",
+        "url": "https://open.spotify.com/album/65mUUfH7lL3pVvAM8BCQ90"
+      },
+      "artists": [
+        {
+          "name": "Polo & Pan",
+          "url": "https://open.spotify.com/artist/45yEuthJ9yq1rNXAOpBnqM"
+        }
+      ],
+      "date_added": "2023-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240013,
+      "name": "Chamallow",
+      "url": "https://open.spotify.com/track/6mdGfjrWlzVxcHcqbOVN3q"
     },
     {
       "album": {
@@ -1964,7 +1982,7 @@
       ],
       "date_added": "2023-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-18",
       "duration_ms": 312080,
       "name": "Deeper",
       "url": "https://open.spotify.com/track/3ShUS9A5HC0ZaO21Cnl3v8"
@@ -2564,7 +2582,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-18",
       "duration_ms": 205423,
       "name": "Everybody on the Floor",
       "url": "https://open.spotify.com/track/06WTMUixhsNAe8jbyxquee"
@@ -2658,6 +2676,28 @@
       "duration_ms": 260532,
       "name": "Fallin'",
       "url": "https://open.spotify.com/track/1pkK7kZtxGBoXb583vDS9E"
+    },
+    {
+      "album": {
+        "name": "Family Sale",
+        "url": "https://open.spotify.com/album/3JfuFVx4rgavnVvqXYqK3z"
+      },
+      "artists": [
+        {
+          "name": "PUNPEE",
+          "url": "https://open.spotify.com/artist/0mP8A1qIoufScrsxq18Cw6"
+        },
+        {
+          "name": "\u89aa\u7236",
+          "url": "https://open.spotify.com/artist/7tvsTkLL1lt0D5QU8yIvdI"
+        }
+      ],
+      "date_added": "2023-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240054,
+      "name": "Family Sale",
+      "url": "https://open.spotify.com/track/3sFhDmtCO39yZUzpk2o4Gs"
     },
     {
       "album": {
@@ -5346,7 +5386,7 @@
       ],
       "date_added": "2022-10-20",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-17",
+      "date_removed": null,
       "duration_ms": 148571,
       "name": "move",
       "url": "https://open.spotify.com/track/2Ryp5LkAWyJwRqoFd8N7Kk"
@@ -5444,7 +5484,7 @@
       ],
       "date_added": "2023-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-18",
       "duration_ms": 237115,
       "name": "n.o.y.b (feat. Furui Riho)",
       "url": "https://open.spotify.com/track/0znEN9HIkCXf4wZn16hVJD"
@@ -5898,7 +5938,7 @@
       ],
       "date_added": "2023-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-18",
       "duration_ms": 203863,
       "name": "Noidleap",
       "url": "https://open.spotify.com/track/6Frb0urydHcSQB8qGkp731"
@@ -5974,7 +6014,7 @@
       ],
       "date_added": "2023-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-18",
       "duration_ms": 147428,
       "name": "O.M.M (feat. Kenya Fujita)",
       "url": "https://open.spotify.com/track/5xuNygFHKubkXvqRMeNB8u"
@@ -6678,7 +6718,7 @@
       ],
       "date_added": "2023-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-18",
       "duration_ms": 152000,
       "name": "PRO",
       "url": "https://open.spotify.com/track/7q3HfHj3T7ix4BQ2oieOEG"
@@ -10662,6 +10702,24 @@
       "duration_ms": 225960,
       "name": "\u5e78\u305b\u306e\u307e\u308f\u308a\u9053",
       "url": "https://open.spotify.com/track/1OCvIuUDYIwnuv6lQzdoD7"
+    },
+    {
+      "album": {
+        "name": "\u5e7d\u970a",
+        "url": "https://open.spotify.com/album/1KW6vC2adbnG1XOvj20Lld"
+      },
+      "artists": [
+        {
+          "name": "odol",
+          "url": "https://open.spotify.com/artist/1JWciWrGdCTOWeycrjFWpS"
+        }
+      ],
+      "date_added": "2023-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235562,
+      "name": "\u5e7d\u970a",
+      "url": "https://open.spotify.com/track/4dKjOYrXQxuJ2C3VaoWZwJ"
     },
     {
       "album": {

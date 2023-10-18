@@ -4,7 +4,7 @@
 
 > The defining songs of the riot grrrl era, and the artists keeping their spirit alive\. Cover: Sleater\-Kinney
 
-145 songs - 7 hr 4 min
+147 songs - 7 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -74,6 +74,7 @@
 | [Half Girl Half Rant](https://open.spotify.com/track/7f1yOiKyYUasPVR4LvsCVT) | [Chloe Le Fay](https://open.spotify.com/artist/2t2MJihJl9u08jj4N6dV16) | [Riot Grrrls and Kinder Whores](https://open.spotify.com/album/7EHVHN11h03RcqnDUQ1Twp) | 2:27 | 2021-06-11 |  |
 | [Happier Still](https://open.spotify.com/track/3NSmfa5DmtEy27GgSPScdl) | [Big Joanie](https://open.spotify.com/artist/39cxr26gqrCiUgIkz4lA8j) | [Back Home](https://open.spotify.com/album/6hRU0VsRHXdlompg7pC79m) | 2:40 | 2023-06-09 |  |
 | [He's My Thing \- 2007 Remaster](https://open.spotify.com/track/5aMsCHy4nyk0LKJnk63aCr) | [Babes In Toyland ](https://open.spotify.com/artist/3Xdna5z74yNICNKqdaNX9z) | [Painkillers](https://open.spotify.com/album/3ym30rhJeAnjr7DHcYpqJa) | 2:55 | 2021-06-11 |  |
+| [Hell](https://open.spotify.com/track/44cwcFNclhaQm29UTexzDg) | [Sleater\-Kinney](https://open.spotify.com/artist/4wLIbcoqmqI4WZHDiBxeCB) | [Hell](https://open.spotify.com/album/02zLqSxOwNG6OlppSNHvOK) | 3:13 | 2023-10-17 |  |
 | [Hey Heartbreaker](https://open.spotify.com/track/2U3DCTEnAF66pImTkso4Qo) | [Dream Wife](https://open.spotify.com/artist/2DaP4uXwKOXAaD77XokW9a) | [EP01](https://open.spotify.com/album/7n281LqWVqFX2D2hbBULgM) | 3:33 | 2021-06-11 | 2023-04-30 |
 | [Hey Heartbreaker](https://open.spotify.com/track/2m4EMioktuQ98TZbkHVmZy) | [Dream Wife](https://open.spotify.com/artist/2DaP4uXwKOXAaD77XokW9a) | [EP01](https://open.spotify.com/album/68VhZxHBW8rAwl0cD5D3hZ) | 3:33 | 2021-06-11 |  |
 | [Hey Heartbreaker](https://open.spotify.com/track/368gF4TWtcJduCfcR0uKPd) | [Dream Wife](https://open.spotify.com/artist/2DaP4uXwKOXAaD77XokW9a) | [EP01](https://open.spotify.com/album/5AaJfXlHtrlfQh8KfXiIZh) | 3:33 | 2021-06-11 | 2022-07-29 |
@@ -81,12 +82,13 @@
 | [High In The Grass](https://open.spotify.com/track/5Q6rxFg2Qu8Jno7tccIQYo) | [Sleater\-Kinney](https://open.spotify.com/artist/4wLIbcoqmqI4WZHDiBxeCB) | [Path of Wellness](https://open.spotify.com/album/2EQxYuMIrAs2SjeSZ4iwxA) | 4:05 | 2021-06-11 |  |
 | [High In The Grass](https://open.spotify.com/track/5nxjwpFLJiiWSIXZDPNQXH) | [Sleater\-Kinney](https://open.spotify.com/artist/4wLIbcoqmqI4WZHDiBxeCB) | [High In The Grass](https://open.spotify.com/album/2vHokUIMJPf1a3YOlS9Mjn) | 4:05 | 2021-06-11 | 2022-11-13 |
 | [I Don't Want You Anyway](https://open.spotify.com/track/5JdY3aB0msrkLZya4fEerb) | [Look Blue Go Purple](https://open.spotify.com/artist/1Yy0i6C3R2ubzz9CRM4JDv) | [Look Blue Go Purple Compilation](https://open.spotify.com/album/0l1n4dDAwKOpp5ZyOoTK00) | 2:57 | 2021-06-11 |  |
+| [I Got Heaven](https://open.spotify.com/track/3CsJjIyl2Y6jz08DUuMMz8) | [Mannequin Pussy](https://open.spotify.com/artist/33yje3hgpNfdXpqdJQcrt9) | [I Got Heaven](https://open.spotify.com/album/7AcTyeT0AnB9CmNdi0Tq3l) | 2:58 | 2023-10-17 |  |
 | [I Hate the Weekend](https://open.spotify.com/track/2lCStc28NuNBBIH4pLyYtb) | [Tacocat](https://open.spotify.com/artist/3h0MN1neFknEvlYKxFmSQW) | [Lost Time](https://open.spotify.com/album/0VYPxPMRu8D7PYvsCgwuRE) | 2:05 | 2021-06-11 | 2022-07-29 |
 | [I Hate the Weekend](https://open.spotify.com/track/4ve7zbGDOJ9WIlPiUoTtVp) | [Tacocat](https://open.spotify.com/artist/3h0MN1neFknEvlYKxFmSQW) | [Lost Time](https://open.spotify.com/album/62hqSIE4mKpvl9sCs8AaKh) | 2:05 | 2021-06-11 |  |
 | [I Live Off You](https://open.spotify.com/track/2FTyVNHJo99MI0Fsj9hC4T) | [X\-Ray Spex](https://open.spotify.com/artist/5BgWMOdEUJYdUBH3WXfMWt) | [Germ Free Adolescents: The Anthology](https://open.spotify.com/album/0eafkMUkZUVKr02M9F4te9) | 2:09 | 2021-06-11 | 2022-07-29 |
 | [I Live off You](https://open.spotify.com/track/13AjlzBBQUhU5j34e5LEyc) | [X\-Ray Spex](https://open.spotify.com/artist/5BgWMOdEUJYdUBH3WXfMWt) | [Germ Free Adolescents](https://open.spotify.com/album/7nZ0F572fluFD4tQCFf3z7) | 2:09 | 2021-06-11 |  |
 | [I Wanna Be Your Joey Ramone](https://open.spotify.com/track/17ICAeG7PWammUBEqexai8) | [Sleater\-Kinney](https://open.spotify.com/artist/4wLIbcoqmqI4WZHDiBxeCB) | [Call the Doctor \(Remastered\)](https://open.spotify.com/album/41ouIzBfFmNZGUlQgp3IGi) | 2:36 | 2021-06-11 | 2022-07-29 |
-| [I Wanna Be Your Joey Ramone](https://open.spotify.com/track/1WDqjH0PJ8ruWQXsp3bN2Z) | [Sleater\-Kinney](https://open.spotify.com/artist/4wLIbcoqmqI4WZHDiBxeCB) | [Call the Doctor \(Remastered\)](https://open.spotify.com/album/3ULIRcAOMyaT6K4gIhX8aJ) | 2:36 | 2021-06-11 |  |
+| [I Wanna Be Your Joey Ramone](https://open.spotify.com/track/1WDqjH0PJ8ruWQXsp3bN2Z) | [Sleater\-Kinney](https://open.spotify.com/artist/4wLIbcoqmqI4WZHDiBxeCB) | [Call the Doctor \(Remastered\)](https://open.spotify.com/album/3ULIRcAOMyaT6K4gIhX8aJ) | 2:36 | 2021-06-11 | 2023-10-18 |
 | [i'm not crying you're crying](https://open.spotify.com/track/7ChGmRrK8sWCGp3uWNV0vH) | [Pinkshift](https://open.spotify.com/artist/3bfSaJqEYosPcdoCN06G3P) | [Love Me Forever](https://open.spotify.com/album/5OmaMjzlejoRXpeKATzfLB) | 2:49 | 2023-09-08 |  |
 | [In the Summer](https://open.spotify.com/track/7lmvnE8oF7EhJNuLeUxTIf) | [Fastbacks](https://open.spotify.com/artist/2mlDM1k4J5XijZKXALxhDT) | [Very, Very Powerful Motor](https://open.spotify.com/album/069dipMFhPwUSC2SSufyxi) | 3:18 | 2021-06-11 |  |
 | [Let Go of the Past](https://open.spotify.com/track/1g3VugPUuNEtEvxpftReBJ) | [The Tuts](https://open.spotify.com/artist/034JSYadRJsXRgY61c7HSq) | [Update Your Brain](https://open.spotify.com/album/4yZJcVLLLqowccHbHg59ZD) | 3:14 | 2021-06-11 |  |
@@ -133,7 +135,7 @@
 | [Step Close Now](https://open.spotify.com/track/2MLvTgBG6p4VNgdA1edkQc) | [Dolly Mixture](https://open.spotify.com/artist/46mHImQWI9FD9f6QFH6whv) | [Demonstration Tapes](https://open.spotify.com/album/4Y1WtRvazalwwq6XwTR9SU) | 1:58 | 2021-06-11 |  |
 | [Strawberry Gashes](https://open.spotify.com/track/6BbUeBm35cYoGUy70rqsG8) | [Jack Off Jill](https://open.spotify.com/artist/5ybsLFsFrRFXgdklfMryWD) | [Clear Hearts Grey Flowers](https://open.spotify.com/album/7GmU3mfzXDwS68kpuFMczP) | 3:43 | 2021-06-11 |  |
 | [Super Crush](https://open.spotify.com/track/1rflg5WUTBLztF4xeFQTmh) | [Tiger Trap](https://open.spotify.com/artist/0hTUZPp1ELWpYFuSYoNPgB) | [Tiger Trap](https://open.spotify.com/album/6H872imO1XZ8Hner8kUa0M) | 2:12 | 2021-06-11 | 2022-07-29 |
-| [Super Crush](https://open.spotify.com/track/2u8rJwKu3r9P5M6ocsXKJW) | [Tiger Trap](https://open.spotify.com/artist/0hTUZPp1ELWpYFuSYoNPgB) | [Tiger Trap](https://open.spotify.com/album/5iSD3c3dhnsGdgKu0cPhQX) | 2:12 | 2021-06-11 |  |
+| [Super Crush](https://open.spotify.com/track/2u8rJwKu3r9P5M6ocsXKJW) | [Tiger Trap](https://open.spotify.com/artist/0hTUZPp1ELWpYFuSYoNPgB) | [Tiger Trap](https://open.spotify.com/album/5iSD3c3dhnsGdgKu0cPhQX) | 2:12 | 2021-06-11 | 2023-10-18 |
 | [superiority complex \(big noise\)](https://open.spotify.com/track/4RAPGBiC5HJN7sFr1B6EsG) | [illuminati hotties](https://open.spotify.com/artist/3ztRX1UoIOsFqpD7dB6R8O) | [FREE I.H: This Is Not the One You've Been Waiting For](https://open.spotify.com/album/2Epa4HydFeZJ6rxm8OZ7aw) | 1:34 | 2023-09-08 |  |
 | [Supermodel \- Superficial](https://open.spotify.com/track/54tgCeaVykmuV0Ood4KHvy) | [Voodoo Queens](https://open.spotify.com/artist/713dOrzih7UQvUmok0Hft4) | [Kenuwee Head](https://open.spotify.com/album/5gSgZywooEonjKhqCirXD7) | 3:20 | 2021-06-11 |  |
 | [Supermodel \- Superficial](https://open.spotify.com/track/7a6Dhd4897ZBnlkA9H6BYe) | [Voodoo Queens](https://open.spotify.com/artist/713dOrzih7UQvUmok0Hft4) | [Kenuwee Head](https://open.spotify.com/album/1OHILieJzT08QXlAvPXcKc) | 3:20 | 2021-06-11 | 2022-07-29 |
@@ -143,7 +145,7 @@
 | [Vagina Police](https://open.spotify.com/track/3P2LZ3iAWSWs2oW6gUzGkE) | [Dream Nails](https://open.spotify.com/artist/49xQzRRO1vI3fmCdbPTwBB) | [Double A Side](https://open.spotify.com/album/0ToQnPNr2oKEbtK9mA9XDO) | 1:35 | 2021-06-11 |  |
 | [Volcano Girls](https://open.spotify.com/track/6ifDwKH8OlIWPcXuWMyST2) | [Veruca Salt](https://open.spotify.com/artist/2QwJQuBekTA4qF7N7uLHDP) | [Eight Arms To Hold You](https://open.spotify.com/album/1hqpIXsb19ux5c0rXNlJbq) | 3:18 | 2021-06-11 | 2022-07-29 |
 | [Volcano Girls](https://open.spotify.com/track/3cMliO9emUSa4d1Ap2MbfW) | [Veruca Salt](https://open.spotify.com/artist/2QwJQuBekTA4qF7N7uLHDP) | [Eight Arms To Hold You](https://open.spotify.com/album/5ZqOSlcQ0fA7MZOgvpOJT5) | 3:18 | 2021-06-11 |  |
-| [We Don't Play Guitars](https://open.spotify.com/track/6gftydYIenhPZnox95KU7N) | [Chicks On Speed](https://open.spotify.com/artist/4EySud7Ww0GNvkwhRYZHLV) | [99 Cents](https://open.spotify.com/album/6BUmp9iDaIOCJZwZ5riq0q) | 3:55 | 2021-06-11 |  |
+| [We Don't Play Guitars](https://open.spotify.com/track/6gftydYIenhPZnox95KU7N) | [Chicks On Speed](https://open.spotify.com/artist/4EySud7Ww0GNvkwhRYZHLV) | [99 Cents](https://open.spotify.com/album/6BUmp9iDaIOCJZwZ5riq0q) | 3:55 | 2021-06-11 | 2023-10-18 |
 | [Where's My Wife](https://open.spotify.com/track/7MY32OSePqeLg5YPAqEkEc) | [Sloppy Jane](https://open.spotify.com/artist/0Vll0SNLozOGHbfHbjY4pv) | [Willow](https://open.spotify.com/album/27b5zGoTeu3YQO04wGTQg0) | 3:48 | 2023-09-08 |  |
 | [White Flag](https://open.spotify.com/track/3qlmCOHjmpGUISp5nXU9LJ) | [Slutever](https://open.spotify.com/artist/4TBQj88AvHlzsLhzP12GuD) | [White Flag](https://open.spotify.com/album/0yFMCvJNbUpkiWxzANvkzA) | 2:26 | 2021-06-11 |  |
 | [Worry With You](https://open.spotify.com/track/4wDQgrs6Ymm6Ufpu5qWb7N) | [Sleater\-Kinney](https://open.spotify.com/artist/4wLIbcoqmqI4WZHDiBxeCB) | [Path of Wellness](https://open.spotify.com/album/2EQxYuMIrAs2SjeSZ4iwxA) | 3:51 | 2021-06-11 | 2023-06-03 |

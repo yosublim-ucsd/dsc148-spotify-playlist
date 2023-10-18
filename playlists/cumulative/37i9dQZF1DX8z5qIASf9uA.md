@@ -2,7 +2,7 @@
 
 ### [Inmortales de la Música Mexicana](https://open.spotify.com/playlist/37i9dQZF1DX8z5qIASf9uA)
 
-> Honramos la memoria de las leyendas de nuestra Música Mexicana\. Ariel Camacho en portada.
+> Honramos la memoria de las leyendas de nuestra Música Mexicana\. Jenni Rivera en portada.
 
 94 songs - 5 hr 20 min
 

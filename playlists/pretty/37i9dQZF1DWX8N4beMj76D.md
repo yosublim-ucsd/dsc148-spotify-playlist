@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX8N4beMj76D.md) - [plain]
 
 > Speaking to us sweetly from a window in the Tower of Song, this collection includes the legend's own tributes\. Cover: <a href="spotify:artist:5l8VQNuIg0turYE1VtM9zV">Leonard Cohen</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,081 likes - 40 songs - 3 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,084 likes - 40 songs - 3 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,18 +12,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX8N4beMj76D.md) - [plain]
 | 2 | [Dance Me To The End Of Love](https://open.spotify.com/track/13zjNPZUyWvzZC2dlYjW0L) | [Madeleine Peyroux](https://open.spotify.com/artist/7nXyULtoL8k7wP9l6kg8Ef) | [Careless Love](https://open.spotify.com/album/4Kev9VMY5Ypfo19jRqK6bW) | 3:57 |
 | 3 | [Hallelujah](https://open.spotify.com/track/5S0pF13mOsTnYweFwFy4D0) | [k.d\. lang](https://open.spotify.com/artist/6W1BHDF0T4a4KYcSwzD586) | [Recollection](https://open.spotify.com/album/22TXLyA5GOT19O9hIdAHLE) | 5:08 |
 | 4 | [Dance Me to the End of Love \(Bonus\)](https://open.spotify.com/track/6WoJzSRQeROe5MNpf7cPDu) | [The Civil Wars](https://open.spotify.com/artist/6J7rw7NELJUCThPbAfyLIE) | [Barton Hollow](https://open.spotify.com/album/4uWgDFxGAp7XlVSHuVBv4E) | 3:05 |
-| 5 | [Save the Last Dance for Me \- Live in Dublin](https://open.spotify.com/track/4gF4435jcJGLXvQe7hovtp) | [Leonard Cohen](https://open.spotify.com/artist/5l8VQNuIg0turYE1VtM9zV) | [Live In Dublin](https://open.spotify.com/album/4CKs4nbhva7asiYqsZpMOi) | 4:09 |
-| 6 | [One of Us Cannot Be Wrong](https://open.spotify.com/track/2fmeEE8cOgVqUDU9foMVTj) | [Gregory Alan Isakov](https://open.spotify.com/artist/5sXaGoRLSpd7VeyZrLkKwt) | [This Empty Northern Hemisphere](https://open.spotify.com/album/06UoTVgpPiGnRPGjowrG3g) | 4:55 |
+| 5 | [One of Us Cannot Be Wrong](https://open.spotify.com/track/2fmeEE8cOgVqUDU9foMVTj) | [Gregory Alan Isakov](https://open.spotify.com/artist/5sXaGoRLSpd7VeyZrLkKwt) | [This Empty Northern Hemisphere](https://open.spotify.com/album/06UoTVgpPiGnRPGjowrG3g) | 4:55 |
+| 6 | [Save the Last Dance for Me \- Live in Dublin](https://open.spotify.com/track/4gF4435jcJGLXvQe7hovtp) | [Leonard Cohen](https://open.spotify.com/artist/5l8VQNuIg0turYE1VtM9zV) | [Live In Dublin](https://open.spotify.com/album/4CKs4nbhva7asiYqsZpMOi) | 4:09 |
 | 7 | [God Is Alive Magic Is Afoot](https://open.spotify.com/track/4K3glAui6GSMQfYWxC0qy9) | [Buffy Sainte\-Marie](https://open.spotify.com/artist/5exO2eW84QucBhrRhcK76x) | [Illuminations](https://open.spotify.com/album/2tvwygeYPGjkOaIBQCwqHh) | 4:51 |
 | 8 | [Hey, That's No Way to Say Goodbye](https://open.spotify.com/track/130dKZhza6XRe8WSBl1nsu) | [Roberta Flack](https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA) | [First Take](https://open.spotify.com/album/2ARWEOvaUgm4FSj25MpY6F) | 4:08 |
 | 9 | [If It Be Your Will \(feat\. Leonard Cohen\) \- Live in London](https://open.spotify.com/track/6MgxI462nuWQkMowINdZkw) | [The Webb Sisters](https://open.spotify.com/artist/5WVYK25IDrN0y1ExA69Lr7), [Leonard Cohen](https://open.spotify.com/artist/5l8VQNuIg0turYE1VtM9zV) | [Live In London](https://open.spotify.com/album/4rgYbbaJOr9fv0MdEcIkIY) | 5:22 |
 | 10 | [Chelsea Hotel No\. 2](https://open.spotify.com/track/7nlbvD4fO9D3aocMGkiYxq) | [Rufus Wainwright](https://open.spotify.com/artist/2PfBzriIMRsCXPDtSy9vg8) | [Leonard Cohen: I'm Your Man](https://open.spotify.com/album/1tz7sH3oRuXs7jNyWzdIQR) | 3:45 |
 | 11 | [Famous Blue Raincoat](https://open.spotify.com/track/7tfmLHlqGt3dHvCV6GlJxf) | [Marissa Nadler](https://open.spotify.com/artist/5zjaF8JUdylMWrA7AVo3hJ) | [Songs III: Bird on the Water](https://open.spotify.com/album/5Hij7PrKCR3aqxyhuYjFAI) | 4:23 |
 | 12 | [Pequeño Vals Vienés](https://open.spotify.com/track/2soekZOsm1ZBxt2SQgBNhx) | [Sílvia Pérez Cruz](https://open.spotify.com/artist/7qJXYbBDibZ1Zixi89aUnw), [Raül Refree](https://open.spotify.com/artist/5TPIp7TiaJOVn2sZ4s4JDy) | [Granada](https://open.spotify.com/album/27DidY2aLP9MtEcQ1EWA6Z) | 5:27 |
-| 13 | [Passing Through \- Live](https://open.spotify.com/track/28ToQqj0nuWMDPvGhCTL0I) | [Leonard Cohen](https://open.spotify.com/artist/5l8VQNuIg0turYE1VtM9zV) | [Live Songs](https://open.spotify.com/album/2E0441zcodrrkrNiffdEiC) | 4:05 |
+| 13 | [The Partisan \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/2xMzN3uUtCxyHpR5L8Tril) | [Henry Jamison](https://open.spotify.com/artist/2XdtmipGVPmA62ptDgX8QC) | [Spotify Singles](https://open.spotify.com/album/4jnG99bP9dsXWi49WeEKIr) | 3:09 |
 | 14 | [Bird On A Wire](https://open.spotify.com/track/0iBSH25UyYu5Wu3WZHOZMx) | [Johnny Cash](https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x) | [American Recordings](https://open.spotify.com/album/19rYWxZfMdEOxTDODFjLyb) | 4:01 |
-| 15 | [The Partisan \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/2xMzN3uUtCxyHpR5L8Tril) | [Henry Jamison](https://open.spotify.com/artist/2XdtmipGVPmA62ptDgX8QC) | [Spotify Singles](https://open.spotify.com/album/4jnG99bP9dsXWi49WeEKIr) | 3:09 |
-| 16 | [Tower Of Song](https://open.spotify.com/track/1NpNxgzZRCPIbtXHmWX9dV) | [Martha Wainwright](https://open.spotify.com/artist/67pQ8Yr09zDDzzwWw3EG9R) | [Leonard Cohen: I'm Your Man](https://open.spotify.com/album/1tz7sH3oRuXs7jNyWzdIQR) | 3:44 |
+| 15 | [Tower Of Song](https://open.spotify.com/track/1NpNxgzZRCPIbtXHmWX9dV) | [Martha Wainwright](https://open.spotify.com/artist/67pQ8Yr09zDDzzwWw3EG9R) | [Leonard Cohen: I'm Your Man](https://open.spotify.com/album/1tz7sH3oRuXs7jNyWzdIQR) | 3:44 |
+| 16 | [Passing Through \- Live](https://open.spotify.com/track/28ToQqj0nuWMDPvGhCTL0I) | [Leonard Cohen](https://open.spotify.com/artist/5l8VQNuIg0turYE1VtM9zV) | [Live Songs](https://open.spotify.com/album/2E0441zcodrrkrNiffdEiC) | 4:05 |
 | 17 | [Ain't No Cure For Love](https://open.spotify.com/track/4F6PiM255qHEw6CKRJTjPs) | [Ane Brun](https://open.spotify.com/artist/2L3kwZFd16zjHz9a5kEPAm) | [Rarities](https://open.spotify.com/album/1bvAlOqMbnWLwTcp65kSAP) | 4:33 |
 | 18 | [I'm Your Man \- Live](https://open.spotify.com/track/7En4Z5ngp4wYeFkq69BXry) | [Nick Cave](https://open.spotify.com/artist/1RM5gp0RFfjpJhCYFPB30p) | [Leonard Cohen: I'm Your Man](https://open.spotify.com/album/1tz7sH3oRuXs7jNyWzdIQR) | 4:31 |
 | 19 | [Bird on a Wire](https://open.spotify.com/track/53WJ6eGjiUvlqniOj6fsr2) | [k.d\. lang](https://open.spotify.com/artist/6W1BHDF0T4a4KYcSwzD586) | [Hymns of the 49th Parallel](https://open.spotify.com/album/7aTcKEqDqi1NoR2RggubbX) | 4:28 |
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX8N4beMj76D.md) - [plain]
 | 39 | [Ballad of the Absent Mare](https://open.spotify.com/track/7j82hjfoBR7CB8WlxpZxTC) | [Perla Batalla](https://open.spotify.com/artist/4WbqfrEOTC6kNYOeDMDVOd) | [Bird on the Wire: The Songs of Leonard Cohen](https://open.spotify.com/album/6YlhxSzPNNYIlErdM55joz) | 6:16 |
 | 40 | [Coming Back To You](https://open.spotify.com/track/20kWunnotqJfqz4NmdnleV) | [Martin Gore](https://open.spotify.com/artist/6KQQ6ka4Thwww3kjYqrG0F) | [Tower Of Song \- The Songs Of Leonard Cohen](https://open.spotify.com/album/2Gh98Zgs0pR0ZF5VuUOsXC) | 3:32 |
 
-Snapshot ID: `MCwzNGQ0NDcyYjg1NTYyMGIxNmQwNjlhOTdmMDNhMDJiYWNjMzU2NDdk`
+Snapshot ID: `MCwxYTZjYzYwMzE4NzUwYTA4NTgzYzA3MWYzNWM4NmE5MWM3YWU5OGU5`

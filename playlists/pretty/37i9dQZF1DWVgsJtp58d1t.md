@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVgsJtp58d1t.md) - [plain]
 
 > New music each and every Friday\.   Cover: <a href="spotify:artist:3LZZPxNDGDFVSIPqf4JuEf">Ice Spice</a> and <a href="spotify:artist:46pWGuE3dSwY3bMMXGBvVS">Rema</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,002,553 likes - 109 songs - 5 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,002,557 likes - 109 songs - 5 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,7 +51,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVgsJtp58d1t.md) - [plain]
 | 41 | [Spicy](https://open.spotify.com/track/5jsXDTkZnlbFT4aSTCOn1y) | [No Guidnce](https://open.spotify.com/artist/4jE1yavE4c5IR1hhM4wHhY) | [Spicy EP](https://open.spotify.com/album/0udQAFBK4sp46uxle2mcv9) | 2:48 |
 | 42 | [Good Guys](https://open.spotify.com/track/33qepYPIBzWlDVJtpV2oAK) | [chlothegod](https://open.spotify.com/artist/10YC7gfEVGGez94KMAJoLx) | [Nearly Straight](https://open.spotify.com/album/2aViIw8MflAIHHsPK5hXX9) | 2:36 |
 | 43 | [Red Light](https://open.spotify.com/track/7gV7gStLkm7ybb2WZhhksp) | [Amaal Nuux](https://open.spotify.com/artist/785y6F5AHHafGaFaRdpMtz) | [Red Light](https://open.spotify.com/album/1w0t2M46PMA76fvR5rMEbo) | 2:28 |
-| 44 | [LUV N DEVOTION](https://open.spotify.com/track/2C2KmQyeGfMVULfrdMVs8i) | [DESTIN CONRAD](https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ) | [LUV N DEVOTION](https://open.spotify.com/album/5R8TDNyNfrrh9PprKnl8Ig) | 3:03 |
+| 44 | [LUV N DEVOTION](https://open.spotify.com/track/2C2KmQyeGfMVULfrdMVs8i) | [DESTIN CONRAD](https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ) | [LUV N DEVOTION](https://open.spotify.com/album/5R8TDNyNfrrh9PprKnl8Ig) | 3:01 |
 | 45 | [Unfortunately](https://open.spotify.com/track/6vvZsgPWTtMqfCPPwz2fDP) | [Juls](https://open.spotify.com/artist/7BIkk865pwBrSZetA8Izic), [R2Bees](https://open.spotify.com/artist/0LFsP7WPfu5inz9a1amcE4), [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8), [KiDi](https://open.spotify.com/artist/14PimM6ohO2gYftuwTam9V) | [PALMWINE DIARIES VOL.1](https://open.spotify.com/album/4ehet3qgwyHG62UNZpgD5N) | 4:00 |
 | 46 | [Sister Wives](https://open.spotify.com/track/2m1GCnwvUjyjIZp3WXjOoU) | [SadBoi](https://open.spotify.com/artist/7kpAW7boBJFRFCMydZpjUd) | [Sister Wives](https://open.spotify.com/album/4mLU0rGW0GooTEbWEaLNLt) | 3:18 |
 | 47 | [Number 9 \(feat\. Lil Yachty\)](https://open.spotify.com/track/6cU5urANuL1UYaBg5DNre4) | [Miguel](https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK), [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw) | [Number 9 \(feat\. Lil Yachty\)](https://open.spotify.com/album/0J6bZG0J9hhW3SijDBKw1B) | 3:12 |
@@ -118,4 +118,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVgsJtp58d1t.md) - [plain]
 | 108 | [Rush](https://open.spotify.com/track/5KWamIPJw0yIM5AO2acHfy) | [Hamzaa](https://open.spotify.com/artist/3TXjnAw0sg1VVdnR9fGdBs), [1SRAEL](https://open.spotify.com/artist/1y02diTxNa2t9KTLm5S7bb) | [RUSH](https://open.spotify.com/album/6qXJvv0V4AOJN3EHQS0YIl) | 3:40 |
 | 109 | [Water](https://open.spotify.com/track/5aIVCx5tnk0ntmdiinnYvw) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [Water](https://open.spotify.com/album/22sXXkKgjEuawIFL1e1tRw) | 3:20 |
 
-Snapshot ID: `MCxkYWFiZjZjMDIwNTlmM2Y4ZjY5MjZkNjExMGQ2ZTI1MmIxOTM3MDcy`
+Snapshot ID: `MCw1ZjA5ZjMzY2IwOWE4OTc4YTY1N2E5YWY3ODNmZGU5Yzk5MmY5YmY5`

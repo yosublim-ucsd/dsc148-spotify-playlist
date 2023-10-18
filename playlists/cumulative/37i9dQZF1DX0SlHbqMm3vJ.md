@@ -4,7 +4,7 @@
 
 > A collection R&B and Afropop cuts from West Africa’s finest artists\. Cover: Boj & Ajebutter22
 
-443 songs - 22 hr 23 min
+444 songs - 22 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -157,7 +157,7 @@
 | [For My Hand \(feat\. Ed Sheeran\)](https://open.spotify.com/track/4N7AXHRMQYh9GHQd5hE6NP) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa), [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Love, Damini](https://open.spotify.com/album/1xaHgMftad2egI7Q4DX7Bc) | 2:39 | 2022-07-07 | 2022-07-29 |
 | [Foreigner](https://open.spotify.com/track/1nIhLChEGB8Y2dP7CHt3PN) | [Nonso Amadi](https://open.spotify.com/artist/6pOz4M7D8ENqfLSFvciEuV) | [Foreigner](https://open.spotify.com/album/4JUUgaTGiFYaZmA4mXlieZ) | 3:54 | 2022-02-24 | 2023-05-20 |
 | [Forever](https://open.spotify.com/track/6huU6cSsMC2ragy2ohSo3l) | [Gyakie](https://open.spotify.com/artist/1zO1FWFxxNUCqUuGATxZQZ) | [Seed \- EP](https://open.spotify.com/album/3E4G6wybYqXVpxipFZmLGK) | 3:16 | 2021-10-14 | 2023-07-20 |
-| [Free Mind](https://open.spotify.com/track/2mzM4Y0Rnx2BDZqRnhQ5Q6) | [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [For Broken Ears](https://open.spotify.com/album/2sU8ByeYc5BOBFNDr58CGV) | 4:07 | 2023-09-29 |  |
+| [Free Mind](https://open.spotify.com/track/2mzM4Y0Rnx2BDZqRnhQ5Q6) | [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [For Broken Ears](https://open.spotify.com/album/2sU8ByeYc5BOBFNDr58CGV) | 4:07 | 2023-09-29 | 2023-10-18 |
 | [Game Over](https://open.spotify.com/track/6i6wVdyqlRmFCTkNxSzxQz) | [M.anifest](https://open.spotify.com/artist/1DHw3LmhwuCZUaHtMhMpGX), [Adekunle Gold](https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s) | [Madina to the Universe](https://open.spotify.com/album/4q2dTArxnUt4hiWxXK0xPW) | 3:18 | 2021-11-18 | 2022-03-23 |
 | [Game Over](https://open.spotify.com/track/7ERJJ8c4gxANECZgSBAdBm) | [Michaël Brun](https://open.spotify.com/artist/1HcAkAeL4xf02wzAnl7mIV), [Joeboy](https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF) | [Game Over](https://open.spotify.com/album/5O0jQrdJ5K8wo1feyiZy88) | 2:22 | 2023-08-03 |  |
 | [Gbese](https://open.spotify.com/track/41DLxR8Dt5Fh6LpqBjAnnJ) | [Majeeed](https://open.spotify.com/artist/3xBgAZIqiYzRh0Du0uXFAk), [Tiwa Savage](https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc) | [Gbese](https://open.spotify.com/album/0BKZkxzh5KPV9CKQiQ23mC) | 2:42 | 2023-02-23 | 2023-09-15 |
@@ -321,6 +321,7 @@
 | [Pure Addiction](https://open.spotify.com/track/5oZcubd8fQ1hL0z9aZ2mXz) | [C Natty](https://open.spotify.com/artist/0g4GWaSMj5jwBHltATPXzX) | [Pure Addiction](https://open.spotify.com/album/5nwzBIrwY5wftCq6jLKr6j) | 3:15 | 2022-04-07 | 2022-04-21 |
 | [Quick Question](https://open.spotify.com/track/34iCDXDpWVR6ET2aBRiAqb) | [Babyboy AV](https://open.spotify.com/artist/5p1CMGIDFgalZneW5P1EwX) | [Quick Question](https://open.spotify.com/album/2syIcbjNfLGDh7HV9jr7N5) | 2:41 | 2023-06-22 | 2023-08-04 |
 | [Real Love](https://open.spotify.com/track/1cM0KjvbAjvSOZakmOK2NA) | [TOME](https://open.spotify.com/artist/2aRiWRO2A7xUI2sqZyJJmX) | [Real Love](https://open.spotify.com/album/12flURqPmncSp4H3RgI71k) | 2:52 | 2022-09-16 | 2022-10-29 |
+| [Realize \(feat\. taves\)](https://open.spotify.com/track/5odFUgF0MS8DAnvlJpYdUd) | [Bnxn](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x), [taves](https://open.spotify.com/artist/0wrGpASMlUo7TK5v61ArjA) | [Sincerely, Benson](https://open.spotify.com/album/3dctFKCiGPizmylLp0SN0a) | 2:13 | 2023-10-17 |  |
 | [Reason You](https://open.spotify.com/track/6FPXNqKGnd7l61nYZz8EFu) | [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [Holiday / Reason You](https://open.spotify.com/album/1NbIj94iC99QFhVA1nBuGX) | 3:26 | 2023-02-20 | 2023-05-01 |
 | [Reckless & Sweet](https://open.spotify.com/track/0YF4MF77Kw8CMkZkfDFtlj) | [Amaarae](https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS) | [Reckless & Sweet](https://open.spotify.com/album/61txqqf1NJIql5AnkSNdNz) | 2:39 | 2023-03-16 | 2023-09-15 |
 | [Red Wine](https://open.spotify.com/track/3apid5UMNNRrjjtmVW1zFA) | [Preyé](https://open.spotify.com/artist/6dbTmlL5brq9B2fkUj2MQD) | [Red Wine](https://open.spotify.com/album/10HjmKJgNyzSuJ8SzRLjJ7) | 3:15 | 2022-02-10 | 2022-03-12 |

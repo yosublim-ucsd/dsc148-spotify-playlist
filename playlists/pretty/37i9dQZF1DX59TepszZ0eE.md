@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59TepszZ0eE.md) - [plain]
 
 > Proudly South African gospel goodness\. Cover: <a href="https://open.spotify.com/artist/2Bjh5lfBvG5Oy6gCtpSGy2?si=\-9JFuiccQya\_Jl9YM4qbQQ">Benjamin Dube</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 37,692 likes - 78 songs - 8 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 37,810 likes - 78 songs - 8 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -87,4 +87,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59TepszZ0eE.md) - [plain]
 | 77 | [Hold On \(Live\)](https://open.spotify.com/track/3g6sGNlPxe6dPn1jMUQkVO) | [Sibusiso Nzima](https://open.spotify.com/artist/6AtfG1qMpauT1Z4JXcaJ8b), [Bobo Jay Nzima](https://open.spotify.com/artist/02A9pWLktquvrirqhv0jt1) | [Hold On \(Live\)](https://open.spotify.com/album/0vZ05bOnla5UbYCdWAkgmS) | 6:45 |
 | 78 | [Zonke](https://open.spotify.com/track/16WWnfjYPxZ8vPAFGZkeeQ) | [Shaik Omar](https://open.spotify.com/artist/6uyYHSi3xlCzb4222Ywd7p), [Dr Thulz](https://open.spotify.com/artist/7IYCnKAJvGLnnZvHuLbSf4) | [Zonke](https://open.spotify.com/album/33eNdn70pZjbv8CsRKomtm) | 4:13 |
 
-Snapshot ID: `MCw2YzM0NDMwMjIzODg3ODA4MjA0MzZkODRlODM0ODEzOGM2MTY2N2Zm`
+Snapshot ID: `MCw2YjI2NWFiYjllMTJlOTRlMDQzMmNkZjBhYWFlNGQyN2Y0N2E4YmRl`

@@ -1,12 +1,12 @@
 {
   "description": "Grab your leg warmers and spandex: let's get physical!",
-  "num_followers": 417113,
+  "num_followers": 417402,
   "original_name": "80s Workout",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlNmU3ZjkzOTM0ZTkzNGExMWY0MzEwNDliNTMyYmQ1MDA3ODhhY2Ix",
+  "snapshot_id": "MCwwNmE2YjVhOGIwYTlkNjg3ZDUzNmRlMWU4ZWQwZTAyZDg4Yzk2ODZj",
   "tracks": [
     {
       "added_at": "2021-12-22 16:16:43",
@@ -899,18 +899,18 @@
     {
       "added_at": "2021-12-22 16:16:43",
       "album": {
-        "name": "Tiffany",
-        "url": "https://open.spotify.com/album/0ORrRtBqjERyBBZWSsSw9C"
+        "name": "Somebody\u2019s Watching Me (Sped Up)",
+        "url": "https://open.spotify.com/album/1xoC74ySN2wlcOishb1gvT"
       },
       "artists": [
         {
-          "name": "Tiffany",
-          "url": "https://open.spotify.com/artist/4C3uGP8vRDzxrhJxZiOjTe"
+          "name": "Rockwell",
+          "url": "https://open.spotify.com/artist/3xs0LEzcPXtgNfMNcHzLIP"
         }
       ],
-      "duration_ms": 228840,
-      "name": "I Think We're Alone Now",
-      "url": "https://open.spotify.com/track/4uvjOKsp7mSjrDhWdkLPBY"
+      "duration_ms": 238786,
+      "name": "Somebody's Watching Me - Single Version",
+      "url": "https://open.spotify.com/track/2QN9zL3SzXdGqqmXO68gFp"
     },
     {
       "added_at": "2021-12-22 16:16:43",
@@ -931,6 +931,22 @@
     {
       "added_at": "2021-12-22 16:16:43",
       "album": {
+        "name": "Tiffany",
+        "url": "https://open.spotify.com/album/0ORrRtBqjERyBBZWSsSw9C"
+      },
+      "artists": [
+        {
+          "name": "Tiffany",
+          "url": "https://open.spotify.com/artist/4C3uGP8vRDzxrhJxZiOjTe"
+        }
+      ],
+      "duration_ms": 228840,
+      "name": "I Think We're Alone Now",
+      "url": "https://open.spotify.com/track/4uvjOKsp7mSjrDhWdkLPBY"
+    },
+    {
+      "added_at": "2021-12-22 16:16:43",
+      "album": {
         "name": "Let's Dance (2018 Remaster)",
         "url": "https://open.spotify.com/album/4NwG11AsDJluT732lSjMrV"
       },
@@ -943,22 +959,6 @@
       "duration_ms": 457675,
       "name": "Let's Dance - 2018 Remaster",
       "url": "https://open.spotify.com/track/3ix6K4wZY29bCujrSznwFZ"
-    },
-    {
-      "added_at": "2021-12-22 16:16:43",
-      "album": {
-        "name": "Somebody\u2019s Watching Me (Sped Up)",
-        "url": "https://open.spotify.com/album/1xoC74ySN2wlcOishb1gvT"
-      },
-      "artists": [
-        {
-          "name": "Rockwell",
-          "url": "https://open.spotify.com/artist/3xs0LEzcPXtgNfMNcHzLIP"
-        }
-      ],
-      "duration_ms": 238786,
-      "name": "Somebody's Watching Me - Single Version",
-      "url": "https://open.spotify.com/track/2QN9zL3SzXdGqqmXO68gFp"
     },
     {
       "added_at": "2021-12-22 16:16:43",
@@ -1299,18 +1299,18 @@
     {
       "added_at": "2021-12-22 16:16:43",
       "album": {
-        "name": "Collected",
-        "url": "https://open.spotify.com/album/2vBpHUDhVTInqSLxkw9Kx2"
+        "name": "Heaven On Earth (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/34SBayfOPJb9ztyCTvS3no"
       },
       "artists": [
         {
-          "name": "Kool & The Gang",
-          "url": "https://open.spotify.com/artist/3VNITwohbvU5Wuy5PC6dsI"
+          "name": "Belinda Carlisle",
+          "url": "https://open.spotify.com/artist/7xkAwz0bQTGDSbkofyQt3U"
         }
       ],
-      "duration_ms": 218786,
-      "name": "Celebration - Single Version",
-      "url": "https://open.spotify.com/track/6HIVJXpdvp1C1ubfnkFnz8"
+      "duration_ms": 233666,
+      "name": "Heaven Is A Place On Earth - Promo 7\" Edit",
+      "url": "https://open.spotify.com/track/3EvpaRZkKWxsgDIO2zMH7g"
     }
   ],
   "unique_name": "80s Workout",

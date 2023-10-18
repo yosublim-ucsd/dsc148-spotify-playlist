@@ -1,12 +1,12 @@
 {
   "description": "Glitch and giggle with these whimsically warped bouncy bops \ud83e\udd16",
-  "num_followers": 7760,
+  "num_followers": 7821,
   "original_name": "Quirktronica",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhYmY3MmI5NmZkMmEwM2I5MjQ1ZDEyM2I3ODAzNTRlMmFkNzU4ZjA2",
+  "snapshot_id": "MCwwNDg0YTc2ZGEzN2Q1MzM4ZGI0Y2VkOWQwNjZjZGJhYzEyMTYwYmEz",
   "tracks": [
     {
       "added_at": "2023-02-17 01:10:22",
@@ -127,22 +127,6 @@
     {
       "added_at": "2023-02-17 02:19:05",
       "album": {
-        "name": "Monument",
-        "url": "https://open.spotify.com/album/5Q45lNUhaH40wPqhUgjJNC"
-      },
-      "artists": [
-        {
-          "name": "Portico Quartet",
-          "url": "https://open.spotify.com/artist/7sYipTRgDXS2JVOPEhRutx"
-        }
-      ],
-      "duration_ms": 224946,
-      "name": "Impressions",
-      "url": "https://open.spotify.com/track/4l6gl1xs2TQx5SwBNdWEsv"
-    },
-    {
-      "added_at": "2023-02-17 02:19:05",
-      "album": {
         "name": "Parallel",
         "url": "https://open.spotify.com/album/1xrXrgQDQzTlGrDYhX8ikT"
       },
@@ -155,6 +139,22 @@
       "duration_ms": 306970,
       "name": "Parallel 6",
       "url": "https://open.spotify.com/track/3rI6J22xq3t8RDpxIOBo1C"
+    },
+    {
+      "added_at": "2023-02-17 02:19:05",
+      "album": {
+        "name": "Monument",
+        "url": "https://open.spotify.com/album/5Q45lNUhaH40wPqhUgjJNC"
+      },
+      "artists": [
+        {
+          "name": "Portico Quartet",
+          "url": "https://open.spotify.com/artist/7sYipTRgDXS2JVOPEhRutx"
+        }
+      ],
+      "duration_ms": 224946,
+      "name": "Impressions",
+      "url": "https://open.spotify.com/track/4l6gl1xs2TQx5SwBNdWEsv"
     },
     {
       "added_at": "2023-02-17 01:10:22",
@@ -237,22 +237,6 @@
       "url": "https://open.spotify.com/track/08EgS4Nqe1jPkI9tx9Dq3S"
     },
     {
-      "added_at": "2023-02-17 02:19:05",
-      "album": {
-        "name": "Extended",
-        "url": "https://open.spotify.com/album/3wYpn2JP8z3VqlzyIwiGHC"
-      },
-      "artists": [
-        {
-          "name": "Modeselektor",
-          "url": "https://open.spotify.com/artist/2jYMYP2SVifgmzNRQJx3SJ"
-        }
-      ],
-      "duration_ms": 200389,
-      "name": "Tacken",
-      "url": "https://open.spotify.com/track/6XMQh62uwtY3gcxi5NiY2k"
-    },
-    {
       "added_at": "2023-05-09 02:40:07",
       "album": {
         "name": "Three Drums",
@@ -267,6 +251,22 @@
       "duration_ms": 495858,
       "name": "Three Drums",
       "url": "https://open.spotify.com/track/2FRIWWs5xxPoQrk5pMmsQN"
+    },
+    {
+      "added_at": "2023-02-17 02:19:05",
+      "album": {
+        "name": "Extended",
+        "url": "https://open.spotify.com/album/3wYpn2JP8z3VqlzyIwiGHC"
+      },
+      "artists": [
+        {
+          "name": "Modeselektor",
+          "url": "https://open.spotify.com/artist/2jYMYP2SVifgmzNRQJx3SJ"
+        }
+      ],
+      "duration_ms": 200389,
+      "name": "Tacken",
+      "url": "https://open.spotify.com/track/6XMQh62uwtY3gcxi5NiY2k"
     },
     {
       "added_at": "2023-02-17 01:53:11",
@@ -589,6 +589,22 @@
       "url": "https://open.spotify.com/track/4b4HuNGu6nNAsyNwID91nb"
     },
     {
+      "added_at": "2023-02-17 02:19:05",
+      "album": {
+        "name": "Bright Serpent",
+        "url": "https://open.spotify.com/album/1VukT3w77oaLOgkQWkznwu"
+      },
+      "artists": [
+        {
+          "name": "Inwards",
+          "url": "https://open.spotify.com/artist/542nHHjo4wRmP3AbeJWkse"
+        }
+      ],
+      "duration_ms": 232960,
+      "name": "At Height",
+      "url": "https://open.spotify.com/track/4n7Cl2IPm0wQpJq63moUKc"
+    },
+    {
       "added_at": "2023-02-17 01:29:01",
       "album": {
         "name": "Moog Indigo",
@@ -611,34 +627,18 @@
     {
       "added_at": "2023-02-17 02:19:05",
       "album": {
-        "name": "Bright Serpent",
-        "url": "https://open.spotify.com/album/1VukT3w77oaLOgkQWkznwu"
+        "name": "Sakura",
+        "url": "https://open.spotify.com/album/2BRedpXNmL3NkN2eutmXZ2"
       },
       "artists": [
         {
-          "name": "Inwards",
-          "url": "https://open.spotify.com/artist/542nHHjo4wRmP3AbeJWkse"
+          "name": "Susumu Yokota",
+          "url": "https://open.spotify.com/artist/3ND5NWoKzlelYDDyWqSQpQ"
         }
       ],
-      "duration_ms": 232960,
-      "name": "At Height",
-      "url": "https://open.spotify.com/track/4n7Cl2IPm0wQpJq63moUKc"
-    },
-    {
-      "added_at": "2023-02-17 01:10:22",
-      "album": {
-        "name": "Kelly Lee Owens",
-        "url": "https://open.spotify.com/album/0aol42apbylFf2POjiAOeP"
-      },
-      "artists": [
-        {
-          "name": "Kelly Lee Owens",
-          "url": "https://open.spotify.com/artist/5eitAUlYmlha3LLWg7aBn5"
-        }
-      ],
-      "duration_ms": 315266,
-      "name": "Bird",
-      "url": "https://open.spotify.com/track/2278Bt6LM1PRIrHdJAwRII"
+      "duration_ms": 246706,
+      "name": "Kodomotachi",
+      "url": "https://open.spotify.com/track/4Q15uJ0IAUhLmbfMBx4X5c"
     },
     {
       "added_at": "2023-02-17 01:10:22",
@@ -659,6 +659,22 @@
     {
       "added_at": "2023-02-17 01:10:22",
       "album": {
+        "name": "Kelly Lee Owens",
+        "url": "https://open.spotify.com/album/0aol42apbylFf2POjiAOeP"
+      },
+      "artists": [
+        {
+          "name": "Kelly Lee Owens",
+          "url": "https://open.spotify.com/artist/5eitAUlYmlha3LLWg7aBn5"
+        }
+      ],
+      "duration_ms": 315266,
+      "name": "Bird",
+      "url": "https://open.spotify.com/track/2278Bt6LM1PRIrHdJAwRII"
+    },
+    {
+      "added_at": "2023-02-17 01:10:22",
+      "album": {
         "name": "21 Again Collaborations, Pt. 1",
         "url": "https://open.spotify.com/album/3bPdgAKQZRbPa9ESQGUsqr"
       },
@@ -675,22 +691,6 @@
       "duration_ms": 170040,
       "name": "Fertilized",
       "url": "https://open.spotify.com/track/25INV7gnl2B502qCvxrluh"
-    },
-    {
-      "added_at": "2023-02-17 02:19:05",
-      "album": {
-        "name": "Sakura",
-        "url": "https://open.spotify.com/album/2BRedpXNmL3NkN2eutmXZ2"
-      },
-      "artists": [
-        {
-          "name": "Susumu Yokota",
-          "url": "https://open.spotify.com/artist/3ND5NWoKzlelYDDyWqSQpQ"
-        }
-      ],
-      "duration_ms": 246706,
-      "name": "Kodomotachi",
-      "url": "https://open.spotify.com/track/4Q15uJ0IAUhLmbfMBx4X5c"
     },
     {
       "added_at": "2023-02-17 02:19:05",
@@ -825,6 +825,22 @@
       "url": "https://open.spotify.com/track/61y9vPnl8sdCcitbzjZBr3"
     },
     {
+      "added_at": "2023-02-17 01:10:22",
+      "album": {
+        "name": "Midi Sans Frontieres (Avec Batterie)",
+        "url": "https://open.spotify.com/album/7iQOhrCFffaBpHnKm7url0"
+      },
+      "artists": [
+        {
+          "name": "Squarepusher",
+          "url": "https://open.spotify.com/artist/4mtHSXwIHihO6MWNq5Qoko"
+        }
+      ],
+      "duration_ms": 360690,
+      "name": "Midi Sans Frontieres (Avec Batterie)",
+      "url": "https://open.spotify.com/track/62OTU01ZBggT2ETgT1ju6i"
+    },
+    {
       "added_at": "2023-02-17 01:53:11",
       "album": {
         "name": "sol",
@@ -843,22 +859,6 @@
       "duration_ms": 119649,
       "name": "sol",
       "url": "https://open.spotify.com/track/77hF3X4YebUOpYoqY7s9xj"
-    },
-    {
-      "added_at": "2023-02-17 01:10:22",
-      "album": {
-        "name": "Midi Sans Frontieres (Avec Batterie)",
-        "url": "https://open.spotify.com/album/7iQOhrCFffaBpHnKm7url0"
-      },
-      "artists": [
-        {
-          "name": "Squarepusher",
-          "url": "https://open.spotify.com/artist/4mtHSXwIHihO6MWNq5Qoko"
-        }
-      ],
-      "duration_ms": 360690,
-      "name": "Midi Sans Frontieres (Avec Batterie)",
-      "url": "https://open.spotify.com/track/62OTU01ZBggT2ETgT1ju6i"
     },
     {
       "added_at": "2023-02-17 01:10:22",
@@ -883,22 +883,6 @@
     {
       "added_at": "2023-02-17 02:19:05",
       "album": {
-        "name": "Oasis Sky",
-        "url": "https://open.spotify.com/album/1fMJt0hbDIaB4RAQNODv10"
-      },
-      "artists": [
-        {
-          "name": "Tor",
-          "url": "https://open.spotify.com/artist/4dktzc5hWsQPqmovObGZIG"
-        }
-      ],
-      "duration_ms": 224570,
-      "name": "City 66",
-      "url": "https://open.spotify.com/track/0LoinP9A7yG0Irl0evvU2b"
-    },
-    {
-      "added_at": "2023-02-17 02:19:05",
-      "album": {
         "name": "Green",
         "url": "https://open.spotify.com/album/07KJ48Y7pbXvz3Q4H44GZl"
       },
@@ -915,6 +899,22 @@
     {
       "added_at": "2023-02-17 02:19:05",
       "album": {
+        "name": "Oasis Sky",
+        "url": "https://open.spotify.com/album/1fMJt0hbDIaB4RAQNODv10"
+      },
+      "artists": [
+        {
+          "name": "Tor",
+          "url": "https://open.spotify.com/artist/4dktzc5hWsQPqmovObGZIG"
+        }
+      ],
+      "duration_ms": 224570,
+      "name": "City 66",
+      "url": "https://open.spotify.com/track/0LoinP9A7yG0Irl0evvU2b"
+    },
+    {
+      "added_at": "2023-02-17 02:19:05",
+      "album": {
         "name": "Why She Is Hiding in the Other Man's Eyes",
         "url": "https://open.spotify.com/album/3PGnyvLbxElUQ6wx30UBG0"
       },
@@ -927,6 +927,22 @@
       "duration_ms": 304390,
       "name": "Why She Is Hiding in the Other Man's Eyes",
       "url": "https://open.spotify.com/track/0CFeLYd2oDWNFONwZSo65G"
+    },
+    {
+      "added_at": "2023-02-17 01:53:11",
+      "album": {
+        "name": "Windowlicker",
+        "url": "https://open.spotify.com/album/59wyQv8zUfLulyPYefI8vh"
+      },
+      "artists": [
+        {
+          "name": "Aphex Twin",
+          "url": "https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG"
+        }
+      ],
+      "duration_ms": 255773,
+      "name": "Nannou",
+      "url": "https://open.spotify.com/track/6VVeCK61NH0eXUYjwYy0MP"
     },
     {
       "added_at": "2023-02-17 01:53:11",
@@ -951,22 +967,6 @@
       "duration_ms": 196355,
       "name": "Mahi Mahi",
       "url": "https://open.spotify.com/track/2NUTRCnkJOycn9NR81MeZU"
-    },
-    {
-      "added_at": "2023-02-17 01:53:11",
-      "album": {
-        "name": "Windowlicker",
-        "url": "https://open.spotify.com/album/59wyQv8zUfLulyPYefI8vh"
-      },
-      "artists": [
-        {
-          "name": "Aphex Twin",
-          "url": "https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG"
-        }
-      ],
-      "duration_ms": 255773,
-      "name": "Nannou",
-      "url": "https://open.spotify.com/track/6VVeCK61NH0eXUYjwYy0MP"
     },
     {
       "added_at": "2023-02-17 01:10:22",
@@ -1033,6 +1033,22 @@
       "url": "https://open.spotify.com/track/258BvHGOVi8YbchiORbR52"
     },
     {
+      "added_at": "2023-02-17 01:10:22",
+      "album": {
+        "name": "Good Places",
+        "url": "https://open.spotify.com/album/6HaJzUt3sFd53OmlzOT2P8"
+      },
+      "artists": [
+        {
+          "name": "RUMTUM",
+          "url": "https://open.spotify.com/artist/6RnzEFYNyKinHv6r86yeBI"
+        }
+      ],
+      "duration_ms": 266526,
+      "name": "Good Places",
+      "url": "https://open.spotify.com/track/1Apv5AFp7kIsRwKJYCCY2g"
+    },
+    {
       "added_at": "2023-02-17 01:53:11",
       "album": {
         "name": "Haku (RUMTUM Remix)",
@@ -1051,22 +1067,6 @@
       "duration_ms": 341346,
       "name": "Haku - RUMTUM Remix",
       "url": "https://open.spotify.com/track/4bbC2PWt5QDvICHQBUXyj4"
-    },
-    {
-      "added_at": "2023-02-17 01:10:22",
-      "album": {
-        "name": "Good Places",
-        "url": "https://open.spotify.com/album/6HaJzUt3sFd53OmlzOT2P8"
-      },
-      "artists": [
-        {
-          "name": "RUMTUM",
-          "url": "https://open.spotify.com/artist/6RnzEFYNyKinHv6r86yeBI"
-        }
-      ],
-      "duration_ms": 266526,
-      "name": "Good Places",
-      "url": "https://open.spotify.com/track/1Apv5AFp7kIsRwKJYCCY2g"
     },
     {
       "added_at": "2023-03-03 04:31:38",
@@ -1179,18 +1179,18 @@
     {
       "added_at": "2023-02-17 02:19:05",
       "album": {
-        "name": "Ikiru",
-        "url": "https://open.spotify.com/album/18fNJzLNa7AJfp96UnWZgj"
+        "name": "Truffles Sprinkles",
+        "url": "https://open.spotify.com/album/1UtC4DLLQyHEFPHO7AM0hS"
       },
       "artists": [
         {
-          "name": "Thoma",
-          "url": "https://open.spotify.com/artist/4e8ExN8iJrXnycI51N1Cxb"
+          "name": "Salamanda",
+          "url": "https://open.spotify.com/artist/2ABEVwxsESCBsCBjN6qFru"
         }
       ],
-      "duration_ms": 223375,
-      "name": "Ikiru",
-      "url": "https://open.spotify.com/track/4DoD7xxnOmsxNyH57jue9y"
+      "duration_ms": 251333,
+      "name": "Truffles Sprinkles",
+      "url": "https://open.spotify.com/track/6IcvrVg1YFoLGH6mcuZtZL"
     },
     {
       "added_at": "2023-02-17 01:10:22",
@@ -1211,18 +1211,18 @@
     {
       "added_at": "2023-02-17 02:19:05",
       "album": {
-        "name": "Truffles Sprinkles",
-        "url": "https://open.spotify.com/album/1UtC4DLLQyHEFPHO7AM0hS"
+        "name": "Ikiru",
+        "url": "https://open.spotify.com/album/18fNJzLNa7AJfp96UnWZgj"
       },
       "artists": [
         {
-          "name": "Salamanda",
-          "url": "https://open.spotify.com/artist/2ABEVwxsESCBsCBjN6qFru"
+          "name": "Thoma",
+          "url": "https://open.spotify.com/artist/4e8ExN8iJrXnycI51N1Cxb"
         }
       ],
-      "duration_ms": 251333,
-      "name": "Truffles Sprinkles",
-      "url": "https://open.spotify.com/track/6IcvrVg1YFoLGH6mcuZtZL"
+      "duration_ms": 223375,
+      "name": "Ikiru",
+      "url": "https://open.spotify.com/track/4DoD7xxnOmsxNyH57jue9y"
     },
     {
       "added_at": "2023-02-17 02:19:05",
@@ -1243,22 +1243,6 @@
     {
       "added_at": "2023-02-17 01:10:22",
       "album": {
-        "name": "Star City",
-        "url": "https://open.spotify.com/album/7LEryTdY6kYDS0Pm3xTyrb"
-      },
-      "artists": [
-        {
-          "name": "Solomon Fesshaye",
-          "url": "https://open.spotify.com/artist/7vqayKdoqPQsxLcwGANPX4"
-        }
-      ],
-      "duration_ms": 263630,
-      "name": "Star City",
-      "url": "https://open.spotify.com/track/4p6enMEejlz6hcigMPdNh6"
-    },
-    {
-      "added_at": "2023-02-17 01:10:22",
-      "album": {
         "name": "The Red Line",
         "url": "https://open.spotify.com/album/4x3TyH5d8USGNgLowZ1n9w"
       },
@@ -1271,6 +1255,22 @@
       "duration_ms": 158620,
       "name": "The Red Line",
       "url": "https://open.spotify.com/track/49d3Ukzxtx0lyYCztnY1Y4"
+    },
+    {
+      "added_at": "2023-02-17 01:10:22",
+      "album": {
+        "name": "Star City",
+        "url": "https://open.spotify.com/album/7LEryTdY6kYDS0Pm3xTyrb"
+      },
+      "artists": [
+        {
+          "name": "Solomon Fesshaye",
+          "url": "https://open.spotify.com/artist/7vqayKdoqPQsxLcwGANPX4"
+        }
+      ],
+      "duration_ms": 263630,
+      "name": "Star City",
+      "url": "https://open.spotify.com/track/4p6enMEejlz6hcigMPdNh6"
     },
     {
       "added_at": "2023-02-17 01:10:22",
@@ -1357,6 +1357,22 @@
       "url": "https://open.spotify.com/track/0z8i5oCBPR9MLFrvxO2JpI"
     },
     {
+      "added_at": "2023-02-17 01:10:22",
+      "album": {
+        "name": "Green (SFX Version)",
+        "url": "https://open.spotify.com/album/6viDcqQjEZbYDCxomxO18w"
+      },
+      "artists": [
+        {
+          "name": "Hiroshi Yoshimura",
+          "url": "https://open.spotify.com/artist/1DGpHnPOpMYY780hcQHmPB"
+        }
+      ],
+      "duration_ms": 321666,
+      "name": "GREEN",
+      "url": "https://open.spotify.com/track/4MoCSvcnlRpfMXUAd65LAB"
+    },
+    {
       "added_at": "2023-07-28 21:27:55",
       "album": {
         "name": "Zero to Sixty",
@@ -1375,22 +1391,6 @@
       "duration_ms": 288000,
       "name": "Zero to Sixty",
       "url": "https://open.spotify.com/track/0WSMGjQGf1WJvAPpbx1Efn"
-    },
-    {
-      "added_at": "2023-02-17 01:10:22",
-      "album": {
-        "name": "Green (SFX Version)",
-        "url": "https://open.spotify.com/album/6viDcqQjEZbYDCxomxO18w"
-      },
-      "artists": [
-        {
-          "name": "Hiroshi Yoshimura",
-          "url": "https://open.spotify.com/artist/1DGpHnPOpMYY780hcQHmPB"
-        }
-      ],
-      "duration_ms": 321666,
-      "name": "GREEN",
-      "url": "https://open.spotify.com/track/4MoCSvcnlRpfMXUAd65LAB"
     },
     {
       "added_at": "2023-02-17 02:19:05",
@@ -1425,6 +1425,22 @@
       "url": "https://open.spotify.com/track/2mVKgtDpXmtrx2mBePRwLc"
     },
     {
+      "added_at": "2023-02-17 01:53:11",
+      "album": {
+        "name": "Body Riddle",
+        "url": "https://open.spotify.com/album/3ofEXRsMidOzWed9dZsqfg"
+      },
+      "artists": [
+        {
+          "name": "Clark",
+          "url": "https://open.spotify.com/artist/6kic5bCjlohhDn9KzXbOta"
+        }
+      ],
+      "duration_ms": 234400,
+      "name": "Herr Bar",
+      "url": "https://open.spotify.com/track/1t86Aqm7uk30h9vVOl5c9h"
+    },
+    {
       "added_at": "2023-02-17 01:10:22",
       "album": {
         "name": "Between Voids",
@@ -1443,18 +1459,18 @@
     {
       "added_at": "2023-02-17 01:53:11",
       "album": {
-        "name": "Body Riddle",
-        "url": "https://open.spotify.com/album/3ofEXRsMidOzWed9dZsqfg"
+        "name": "Drunken Clouds",
+        "url": "https://open.spotify.com/album/7zq2EKERswJ5whwvT9frrR"
       },
       "artists": [
         {
-          "name": "Clark",
-          "url": "https://open.spotify.com/artist/6kic5bCjlohhDn9KzXbOta"
+          "name": "rRoxymore",
+          "url": "https://open.spotify.com/artist/559oW3wcVAW5tcL1DQniyf"
         }
       ],
-      "duration_ms": 234400,
-      "name": "Herr Bar",
-      "url": "https://open.spotify.com/track/1t86Aqm7uk30h9vVOl5c9h"
+      "duration_ms": 253701,
+      "name": "Drunken Clouds",
+      "url": "https://open.spotify.com/track/0JF3Ju6TpQjwnnH10B9kpu"
     },
     {
       "added_at": "2023-02-17 01:53:11",
@@ -1471,22 +1487,6 @@
       "duration_ms": 413384,
       "name": "Mr. Frosty",
       "url": "https://open.spotify.com/track/0dl9NcB987SNb5bUqHQsxG"
-    },
-    {
-      "added_at": "2023-02-17 01:53:11",
-      "album": {
-        "name": "Drunken Clouds",
-        "url": "https://open.spotify.com/album/7zq2EKERswJ5whwvT9frrR"
-      },
-      "artists": [
-        {
-          "name": "rRoxymore",
-          "url": "https://open.spotify.com/artist/559oW3wcVAW5tcL1DQniyf"
-        }
-      ],
-      "duration_ms": 253701,
-      "name": "Drunken Clouds",
-      "url": "https://open.spotify.com/track/0JF3Ju6TpQjwnnH10B9kpu"
     },
     {
       "added_at": "2023-02-17 02:19:05",
@@ -1521,22 +1521,6 @@
       "url": "https://open.spotify.com/track/4macbsL1U1qhQD9Ixj5OVa"
     },
     {
-      "added_at": "2023-02-17 01:53:11",
-      "album": {
-        "name": "Tanz Mit Mir",
-        "url": "https://open.spotify.com/album/4vNzlHsH4NHckL127Tu6tn"
-      },
-      "artists": [
-        {
-          "name": "Datassette",
-          "url": "https://open.spotify.com/artist/5bTaUOrBY8IWCwW12jCU5U"
-        }
-      ],
-      "duration_ms": 343158,
-      "name": "Tanz Mit Mir",
-      "url": "https://open.spotify.com/track/1FBJbDjXg2rfih1ITZoqUP"
-    },
-    {
       "added_at": "2023-02-17 02:19:05",
       "album": {
         "name": "Treat Em Right (Boards Of Canada Remix)",
@@ -1555,6 +1539,22 @@
       "duration_ms": 269987,
       "name": "Treat Em Right - Boards of Canada Remix Instrumental",
       "url": "https://open.spotify.com/track/3AETAMXWqZTE1ezv2G8bzG"
+    },
+    {
+      "added_at": "2023-02-17 01:53:11",
+      "album": {
+        "name": "Tanz Mit Mir",
+        "url": "https://open.spotify.com/album/4vNzlHsH4NHckL127Tu6tn"
+      },
+      "artists": [
+        {
+          "name": "Datassette",
+          "url": "https://open.spotify.com/artist/5bTaUOrBY8IWCwW12jCU5U"
+        }
+      ],
+      "duration_ms": 343158,
+      "name": "Tanz Mit Mir",
+      "url": "https://open.spotify.com/track/1FBJbDjXg2rfih1ITZoqUP"
     },
     {
       "added_at": "2023-02-17 01:10:22",
@@ -1605,22 +1605,6 @@
       "url": "https://open.spotify.com/track/60HCwP0zHfb2NjXplszK2J"
     },
     {
-      "added_at": "2023-02-17 02:19:05",
-      "album": {
-        "name": "Harmonic Frequencies",
-        "url": "https://open.spotify.com/album/0xk9jsZcE6LAl9jNEqBQz7"
-      },
-      "artists": [
-        {
-          "name": "Elkka",
-          "url": "https://open.spotify.com/artist/5Ly0z60jjgsY4rkmjRFtPS"
-        }
-      ],
-      "duration_ms": 383899,
-      "name": "Music To Heal To",
-      "url": "https://open.spotify.com/track/2KvkzuYVnHaGEYbY5gfF8R"
-    },
-    {
       "added_at": "2023-02-17 01:10:22",
       "album": {
         "name": "Homescreen Glow",
@@ -1635,6 +1619,22 @@
       "duration_ms": 326829,
       "name": "Soft Gaiden",
       "url": "https://open.spotify.com/track/3I6IMWZJ9FkTcUCKBrzlkh"
+    },
+    {
+      "added_at": "2023-02-17 02:19:05",
+      "album": {
+        "name": "Harmonic Frequencies",
+        "url": "https://open.spotify.com/album/0xk9jsZcE6LAl9jNEqBQz7"
+      },
+      "artists": [
+        {
+          "name": "Elkka",
+          "url": "https://open.spotify.com/artist/5Ly0z60jjgsY4rkmjRFtPS"
+        }
+      ],
+      "duration_ms": 383899,
+      "name": "Music To Heal To",
+      "url": "https://open.spotify.com/track/2KvkzuYVnHaGEYbY5gfF8R"
     },
     {
       "added_at": "2023-02-17 02:19:05",
@@ -1805,22 +1805,6 @@
       "url": "https://open.spotify.com/track/1LUCSMbcv43ZhcCz9LwVHz"
     },
     {
-      "added_at": "2023-02-17 02:19:05",
-      "album": {
-        "name": "Body Control",
-        "url": "https://open.spotify.com/album/7ivvUoNWI6OjpfQfjm1gYi"
-      },
-      "artists": [
-        {
-          "name": "Lauren Flax",
-          "url": "https://open.spotify.com/artist/1LUYSrytHIC78JbMgFBIG7"
-        }
-      ],
-      "duration_ms": 402024,
-      "name": "Body Control",
-      "url": "https://open.spotify.com/track/761ln8LuN4gus7oR2EGN7K"
-    },
-    {
       "added_at": "2023-02-17 01:10:22",
       "album": {
         "name": "\u061e\u09e2\u061e\u0616\u061e\u09e2\u061e\u0616\u061e\u09e2\u061e\u0616\u061e\u09e2\u061e\u0616\u061e\u09e2\u061e\u0616\u061e\u09e2\u061e\u0616\u061e\u09e2\u061e\u0616\u061e\u09e2\u061e\u0616\u061e\u09e2\u061e\u0616\u061e\u09e2\u061e\u0616\u061e\u09e2\u061e\u0616\u061e\u09e2\u061e\u0616\u061e\u09e2\u061e\u0616",
@@ -1837,22 +1821,6 @@
       "url": "https://open.spotify.com/track/2HvrDBDvUg3GD6f1z6OTAG"
     },
     {
-      "added_at": "2023-02-17 02:19:05",
-      "album": {
-        "name": "Elaenia",
-        "url": "https://open.spotify.com/album/51QBkcL7S3KYdXSSA0zM9R"
-      },
-      "artists": [
-        {
-          "name": "Floating Points",
-          "url": "https://open.spotify.com/artist/2AR42Ur9PcchQDtEdwkv4L"
-        }
-      ],
-      "duration_ms": 642653,
-      "name": "Silhouettes (I, II, III)",
-      "url": "https://open.spotify.com/track/2D4VTAyHTFegKvcw9oRZhX"
-    },
-    {
       "added_at": "2023-02-17 01:53:11",
       "album": {
         "name": "Put Your Head Above The Parakeets",
@@ -1867,6 +1835,22 @@
       "duration_ms": 436052,
       "name": "Head Above The Parakeets",
       "url": "https://open.spotify.com/track/1F7wFVvXwazyZdy4jq3Bj8"
+    },
+    {
+      "added_at": "2023-02-17 02:19:05",
+      "album": {
+        "name": "Elaenia",
+        "url": "https://open.spotify.com/album/51QBkcL7S3KYdXSSA0zM9R"
+      },
+      "artists": [
+        {
+          "name": "Floating Points",
+          "url": "https://open.spotify.com/artist/2AR42Ur9PcchQDtEdwkv4L"
+        }
+      ],
+      "duration_ms": 642653,
+      "name": "Silhouettes (I, II, III)",
+      "url": "https://open.spotify.com/track/2D4VTAyHTFegKvcw9oRZhX"
     },
     {
       "added_at": "2023-02-17 01:10:22",
@@ -1991,6 +1975,22 @@
     {
       "added_at": "2023-02-17 02:19:05",
       "album": {
+        "name": "Calming Signals",
+        "url": "https://open.spotify.com/album/3N2laGpXXnE29bfqpERjsR"
+      },
+      "artists": [
+        {
+          "name": "Rich Ruth",
+          "url": "https://open.spotify.com/artist/3fzSa1ee522CjcS8Fdo7dl"
+        }
+      ],
+      "duration_ms": 306013,
+      "name": "Haynes Manor",
+      "url": "https://open.spotify.com/track/1kcv0g6lPgGBGOPUSofwxq"
+    },
+    {
+      "added_at": "2023-02-17 02:19:05",
+      "album": {
         "name": "Elaenia",
         "url": "https://open.spotify.com/album/51QBkcL7S3KYdXSSA0zM9R"
       },
@@ -2003,6 +2003,22 @@
       "duration_ms": 346586,
       "name": "For Marmish",
       "url": "https://open.spotify.com/track/5fxl9rZa5KyzDdw8LDKbTb"
+    },
+    {
+      "added_at": "2023-02-17 01:53:11",
+      "album": {
+        "name": "Rounds (Special Anniversary Edition)",
+        "url": "https://open.spotify.com/album/6ebN0Gkim6B1SDSp2ZbwI1"
+      },
+      "artists": [
+        {
+          "name": "Four Tet",
+          "url": "https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh"
+        }
+      ],
+      "duration_ms": 281933,
+      "name": "She Moves She",
+      "url": "https://open.spotify.com/track/5nHG7C56sxZIlply71VbcO"
     },
     {
       "added_at": "2023-02-17 01:10:22",
@@ -2019,22 +2035,6 @@
       "duration_ms": 400160,
       "name": "Doing The Beeston Bump",
       "url": "https://open.spotify.com/track/3RBhQ7D3w60wUdt98R7SUB"
-    },
-    {
-      "added_at": "2023-02-17 02:19:05",
-      "album": {
-        "name": "Calming Signals",
-        "url": "https://open.spotify.com/album/3N2laGpXXnE29bfqpERjsR"
-      },
-      "artists": [
-        {
-          "name": "Rich Ruth",
-          "url": "https://open.spotify.com/artist/3fzSa1ee522CjcS8Fdo7dl"
-        }
-      ],
-      "duration_ms": 306013,
-      "name": "Haynes Manor",
-      "url": "https://open.spotify.com/track/1kcv0g6lPgGBGOPUSofwxq"
     },
     {
       "added_at": "2023-02-17 01:10:22",
@@ -2067,22 +2067,6 @@
       "duration_ms": 266179,
       "name": "Too Far",
       "url": "https://open.spotify.com/track/4bXwtTkkedf9RHndi65kcC"
-    },
-    {
-      "added_at": "2023-02-17 01:53:11",
-      "album": {
-        "name": "Rounds (Special Anniversary Edition)",
-        "url": "https://open.spotify.com/album/6ebN0Gkim6B1SDSp2ZbwI1"
-      },
-      "artists": [
-        {
-          "name": "Four Tet",
-          "url": "https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh"
-        }
-      ],
-      "duration_ms": 281933,
-      "name": "She Moves She",
-      "url": "https://open.spotify.com/track/5nHG7C56sxZIlply71VbcO"
     },
     {
       "added_at": "2023-02-17 02:19:05",
@@ -2275,6 +2259,30 @@
     {
       "added_at": "2023-02-17 01:10:22",
       "album": {
+        "name": "SEIM",
+        "url": "https://open.spotify.com/album/2417iYb0cUeCNgshb6wTz8"
+      },
+      "artists": [
+        {
+          "name": "QUINQUIS",
+          "url": "https://open.spotify.com/artist/10FKxn7w2iNuFkI0uKm9KH"
+        },
+        {
+          "name": "Gareth Jones",
+          "url": "https://open.spotify.com/artist/1W9zmk9JQsQaKSpphFHkUV"
+        },
+        {
+          "name": "\u00d3lavur J\u00e1kupsson",
+          "url": "https://open.spotify.com/artist/0gfdV2BOENhfosiHzk0MCG"
+        }
+      ],
+      "duration_ms": 311533,
+      "name": "Run (feat. Gareth Jones & \u00d3lavur J\u00e1kupsson)",
+      "url": "https://open.spotify.com/track/0JOiqhfNPuIsNUBJpsPdPy"
+    },
+    {
+      "added_at": "2023-02-17 01:10:22",
+      "album": {
         "name": "Tommy",
         "url": "https://open.spotify.com/album/7MvAvnrcS8LfjuGWddaodU"
       },
@@ -2305,46 +2313,6 @@
       "url": "https://open.spotify.com/track/0nMswZQeNQF96yypz93dwE"
     },
     {
-      "added_at": "2023-02-17 01:10:22",
-      "album": {
-        "name": "SEIM",
-        "url": "https://open.spotify.com/album/2417iYb0cUeCNgshb6wTz8"
-      },
-      "artists": [
-        {
-          "name": "QUINQUIS",
-          "url": "https://open.spotify.com/artist/10FKxn7w2iNuFkI0uKm9KH"
-        },
-        {
-          "name": "Gareth Jones",
-          "url": "https://open.spotify.com/artist/1W9zmk9JQsQaKSpphFHkUV"
-        },
-        {
-          "name": "\u00d3lavur J\u00e1kupsson",
-          "url": "https://open.spotify.com/artist/0gfdV2BOENhfosiHzk0MCG"
-        }
-      ],
-      "duration_ms": 311533,
-      "name": "Run (feat. Gareth Jones & \u00d3lavur J\u00e1kupsson)",
-      "url": "https://open.spotify.com/track/0JOiqhfNPuIsNUBJpsPdPy"
-    },
-    {
-      "added_at": "2023-02-17 01:10:22",
-      "album": {
-        "name": "Rest Proof Clockwork",
-        "url": "https://open.spotify.com/album/7hNRZdGoYVlncy3qXImdR7"
-      },
-      "artists": [
-        {
-          "name": "Plaid",
-          "url": "https://open.spotify.com/artist/5akVqMzdZOdbMYbE4vNZWD"
-        }
-      ],
-      "duration_ms": 237653,
-      "name": "Dang Spot",
-      "url": "https://open.spotify.com/track/7Dh7aGZq9NLryhqqKYr1fB"
-    },
-    {
       "added_at": "2023-02-17 01:53:11",
       "album": {
         "name": "Body Riddle (Remastered)",
@@ -2361,20 +2329,20 @@
       "url": "https://open.spotify.com/track/3IjaYRvTNhDP48KFGtBldN"
     },
     {
-      "added_at": "2023-02-17 01:10:22",
+      "added_at": "2023-02-17 01:53:11",
       "album": {
-        "name": "First Lesson",
-        "url": "https://open.spotify.com/album/40nSeTMuFMiMHvwIwncgQG"
+        "name": "Autoditacker",
+        "url": "https://open.spotify.com/album/5P9DDpnB41FCcYQG3YkqQl"
       },
       "artists": [
         {
-          "name": "Bur\u0113ku",
-          "url": "https://open.spotify.com/artist/4ZROS5RylFIQnzi4SRTHVH"
+          "name": "Mouse On Mars",
+          "url": "https://open.spotify.com/artist/4ZgIWfyg9BkcqnJJ2xVR3f"
         }
       ],
-      "duration_ms": 135529,
-      "name": "Cat Friend",
-      "url": "https://open.spotify.com/track/5KqCoQucFcqcUCzpA2MveP"
+      "duration_ms": 312800,
+      "name": "Sui Shop",
+      "url": "https://open.spotify.com/track/5LWSgShNUgKx8qSafzP7Hz"
     },
     {
       "added_at": "2023-02-17 01:10:22",
@@ -2393,20 +2361,36 @@
       "url": "https://open.spotify.com/track/0iJDit15B3kgxEvuSEzqK5"
     },
     {
-      "added_at": "2023-02-17 01:53:11",
+      "added_at": "2023-02-17 01:10:22",
       "album": {
-        "name": "Autoditacker",
-        "url": "https://open.spotify.com/album/5P9DDpnB41FCcYQG3YkqQl"
+        "name": "Rest Proof Clockwork",
+        "url": "https://open.spotify.com/album/7hNRZdGoYVlncy3qXImdR7"
       },
       "artists": [
         {
-          "name": "Mouse On Mars",
-          "url": "https://open.spotify.com/artist/4ZgIWfyg9BkcqnJJ2xVR3f"
+          "name": "Plaid",
+          "url": "https://open.spotify.com/artist/5akVqMzdZOdbMYbE4vNZWD"
         }
       ],
-      "duration_ms": 312800,
-      "name": "Sui Shop",
-      "url": "https://open.spotify.com/track/5LWSgShNUgKx8qSafzP7Hz"
+      "duration_ms": 237653,
+      "name": "Dang Spot",
+      "url": "https://open.spotify.com/track/7Dh7aGZq9NLryhqqKYr1fB"
+    },
+    {
+      "added_at": "2023-02-17 01:10:22",
+      "album": {
+        "name": "First Lesson",
+        "url": "https://open.spotify.com/album/40nSeTMuFMiMHvwIwncgQG"
+      },
+      "artists": [
+        {
+          "name": "Bur\u0113ku",
+          "url": "https://open.spotify.com/artist/4ZROS5RylFIQnzi4SRTHVH"
+        }
+      ],
+      "duration_ms": 135529,
+      "name": "Cat Friend",
+      "url": "https://open.spotify.com/track/5KqCoQucFcqcUCzpA2MveP"
     },
     {
       "added_at": "2023-02-17 01:10:22",
@@ -2443,8 +2427,8 @@
     {
       "added_at": "2023-02-17 01:10:22",
       "album": {
-        "name": "We Are Reasonable People",
-        "url": "https://open.spotify.com/album/3uuoa0fvvb93KoORCTpPko"
+        "name": "For Beginner Piano",
+        "url": "https://open.spotify.com/album/2mdkf39z60lelr7zulBMky"
       },
       "artists": [
         {
@@ -2452,9 +2436,9 @@
           "url": "https://open.spotify.com/artist/28HqZ2RaUbI3uewbxWDW41"
         }
       ],
-      "duration_ms": 254800,
-      "name": "Plaything",
-      "url": "https://open.spotify.com/track/0VEU0lalfqxjwezz7M1YaI"
+      "duration_ms": 229826,
+      "name": "Marbles",
+      "url": "https://open.spotify.com/track/54WZSly8s7E08NsP1twRU2"
     },
     {
       "added_at": "2023-02-17 01:10:22",
@@ -2507,6 +2491,22 @@
       "duration_ms": 266284,
       "name": "Bubbles",
       "url": "https://open.spotify.com/track/7s7vBGH4EDmq2WUAQPOOM8"
+    },
+    {
+      "added_at": "2023-02-17 01:10:22",
+      "album": {
+        "name": "Iaora Tahiti",
+        "url": "https://open.spotify.com/album/1SyTP3tlVWLNc7FPUaEQii"
+      },
+      "artists": [
+        {
+          "name": "Mouse On Mars",
+          "url": "https://open.spotify.com/artist/4ZgIWfyg9BkcqnJJ2xVR3f"
+        }
+      ],
+      "duration_ms": 278493,
+      "name": "Stereomission",
+      "url": "https://open.spotify.com/track/2bEFcAISP2KpoWCiWI6Pzc"
     }
   ],
   "unique_name": "Quirktronica",

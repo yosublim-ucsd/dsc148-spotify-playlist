@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8xfQRRX1PDm.md) - [plain]
 
 > Party\-ready, biggest Bollywood dance tracks of last 10 years\. Cover \- Satyameva Jayate
 
-[Spotify](https://open.spotify.com/user/spotify) - 595,731 likes - 75 songs - 4 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 596,500 likes - 75 songs - 4 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8xfQRRX1PDm.md) - [plain]
 | 74 | [Deedar De](https://open.spotify.com/track/6ZWcxZH3Kp1eUX4imF1Oc6) | [Asees Kaur](https://open.spotify.com/artist/1sVmXkzX2ukc6QvasrDBES), [Dev Negi](https://open.spotify.com/artist/04FsFHujpuqonrPXZrEJlK) | [Chhalaang](https://open.spotify.com/album/2iDf7ItgmdUJbErUMz1CLM) | 3:04 |
 | 75 | [Do You Love Me](https://open.spotify.com/track/3neht9bfnLvQwV9jXIWVK9) | [Nikhita Gandhi](https://open.spotify.com/artist/3tPQOjkxO3mrYrrgkTeXgH) | [Baaghi 3](https://open.spotify.com/album/5ZnhEAXHIt3lomWlfswwnv) | 2:42 |
 
-Snapshot ID: `MCw0ZGE1NWU4OGM4N2E4YWExODA2NjhkZmI0MWQwMjE0YjMzMjUxZGNk`
+Snapshot ID: `MCwzMDhkOWNhMDgyNjc1OGU3OTZhM2NmY2RiMmU1NWFlMzE4MjJlMzI0`

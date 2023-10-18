@@ -1,12 +1,12 @@
 {
   "description": "Descubre lo m\u00e1s nuevo del movimiento. Cover: Blessd, Ryan Castro & Bryant Myers ",
-  "num_followers": 519348,
+  "num_followers": 519391,
   "original_name": "el nuevo urbano",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwOGQ3YTY3YWRlMWQ2OWE1Y2E1Yzc0ZTJkZWU1MGFmMGE1NDMzY2E4",
+  "snapshot_id": "MCw3ZDI5OTQ5YzY0NjZkMzA1NTZkMTc4MWRjNDVkZGY5ZmVmYmQwNTNj",
   "tracks": [
     {
       "added_at": "2023-10-13 04:00:00",
@@ -471,26 +471,6 @@
     {
       "added_at": "2023-10-13 04:00:00",
       "album": {
-        "name": "X ESO BB",
-        "url": "https://open.spotify.com/album/6ZHA8suZlg8RaZSRpdirfu"
-      },
-      "artists": [
-        {
-          "name": "Jere Klein",
-          "url": "https://open.spotify.com/artist/35oGZihZclGoTVuICPXRP9"
-        },
-        {
-          "name": "Nicki Nicole",
-          "url": "https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y"
-        }
-      ],
-      "duration_ms": 193835,
-      "name": "X ESO BB",
-      "url": "https://open.spotify.com/track/3nr6dW6yGOd6UX3KOpkbMZ"
-    },
-    {
-      "added_at": "2023-10-13 04:00:00",
-      "album": {
         "name": "en dormir sin Madrid",
         "url": "https://open.spotify.com/album/4NMv3cMkDwkkR6EdLloQDB"
       },
@@ -507,6 +487,26 @@
       "duration_ms": 189901,
       "name": "Milo J: Bzrp Music Sessions, Vol. 57",
       "url": "https://open.spotify.com/track/2QM5gBm9Q8VZ7UamMIMLb1"
+    },
+    {
+      "added_at": "2023-10-13 04:00:00",
+      "album": {
+        "name": "X ESO BB",
+        "url": "https://open.spotify.com/album/6ZHA8suZlg8RaZSRpdirfu"
+      },
+      "artists": [
+        {
+          "name": "Jere Klein",
+          "url": "https://open.spotify.com/artist/35oGZihZclGoTVuICPXRP9"
+        },
+        {
+          "name": "Nicki Nicole",
+          "url": "https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y"
+        }
+      ],
+      "duration_ms": 193835,
+      "name": "X ESO BB",
+      "url": "https://open.spotify.com/track/3nr6dW6yGOd6UX3KOpkbMZ"
     },
     {
       "added_at": "2023-10-13 04:00:00",
@@ -611,6 +611,22 @@
     {
       "added_at": "2023-10-13 04:00:00",
       "album": {
+        "name": "MOR, No Le Temas a La Oscuridad",
+        "url": "https://open.spotify.com/album/16ScBmKm5WA3RwvTqiQlJd"
+      },
+      "artists": [
+        {
+          "name": "Feid",
+          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
+        }
+      ],
+      "duration_ms": 173760,
+      "name": "FERXXO 30",
+      "url": "https://open.spotify.com/track/2LWM5Ft0TdX24GeSq1u6PV"
+    },
+    {
+      "added_at": "2023-10-13 04:00:00",
+      "album": {
         "name": "Te Menti",
         "url": "https://open.spotify.com/album/0ucVAnzaNBmu2fQIF459tl"
       },
@@ -631,22 +647,6 @@
       "duration_ms": 187129,
       "name": "Te Menti",
       "url": "https://open.spotify.com/track/1QtKYyXEw9tSMIlK4RfA8B"
-    },
-    {
-      "added_at": "2023-10-13 04:00:00",
-      "album": {
-        "name": "MOR, No Le Temas a La Oscuridad",
-        "url": "https://open.spotify.com/album/16ScBmKm5WA3RwvTqiQlJd"
-      },
-      "artists": [
-        {
-          "name": "Feid",
-          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
-        }
-      ],
-      "duration_ms": 173760,
-      "name": "FERXXO 30",
-      "url": "https://open.spotify.com/track/2LWM5Ft0TdX24GeSq1u6PV"
     },
     {
       "added_at": "2023-10-13 04:00:00",
@@ -711,6 +711,26 @@
     {
       "added_at": "2023-10-13 04:00:00",
       "album": {
+        "name": "Cora Roto",
+        "url": "https://open.spotify.com/album/0kuwC399JZDrmSjbGa6nCl"
+      },
+      "artists": [
+        {
+          "name": "Pablo Chill-E",
+          "url": "https://open.spotify.com/artist/2XcZshqzPKm3iZcmt73R8D"
+        },
+        {
+          "name": "Pailita",
+          "url": "https://open.spotify.com/artist/4yxLYO2imECxGYTTV7RQKb"
+        }
+      ],
+      "duration_ms": 217610,
+      "name": "Cora Roto",
+      "url": "https://open.spotify.com/track/35fSKiaVknkbEBJxvqKuHU"
+    },
+    {
+      "added_at": "2023-10-13 04:00:00",
+      "album": {
         "name": "Cafe Malib\u00fa",
         "url": "https://open.spotify.com/album/68Qm7k0mDa6ta4mbVD9d2n"
       },
@@ -731,26 +751,6 @@
       "duration_ms": 260307,
       "name": "Cafe Malib\u00fa",
       "url": "https://open.spotify.com/track/5uxIvoAHL2QOnRP2olOxzb"
-    },
-    {
-      "added_at": "2023-10-13 04:00:00",
-      "album": {
-        "name": "Cora Roto",
-        "url": "https://open.spotify.com/album/0kuwC399JZDrmSjbGa6nCl"
-      },
-      "artists": [
-        {
-          "name": "Pablo Chill-E",
-          "url": "https://open.spotify.com/artist/2XcZshqzPKm3iZcmt73R8D"
-        },
-        {
-          "name": "Pailita",
-          "url": "https://open.spotify.com/artist/4yxLYO2imECxGYTTV7RQKb"
-        }
-      ],
-      "duration_ms": 217610,
-      "name": "Cora Roto",
-      "url": "https://open.spotify.com/track/35fSKiaVknkbEBJxvqKuHU"
     },
     {
       "added_at": "2023-10-13 04:00:00",
@@ -855,26 +855,6 @@
     {
       "added_at": "2023-10-13 04:00:00",
       "album": {
-        "name": "Trofeo",
-        "url": "https://open.spotify.com/album/4BrK3QOclSE0bAumHy1Lz7"
-      },
-      "artists": [
-        {
-          "name": "Maluma",
-          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
-        },
-        {
-          "name": "Yandel",
-          "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
-        }
-      ],
-      "duration_ms": 222333,
-      "name": "Trofeo",
-      "url": "https://open.spotify.com/track/4ajAhp58D3zWqtpGJFG2NB"
-    },
-    {
-      "added_at": "2023-10-13 04:00:00",
-      "album": {
         "name": "NO PARE (REMIX)",
         "url": "https://open.spotify.com/album/4pyrlTwGbdl8NXHVSNty1k"
       },
@@ -915,6 +895,26 @@
       "duration_ms": 161379,
       "name": "GHETTO PRINCESS",
       "url": "https://open.spotify.com/track/6GgpoeDugrrXl06NIsE1Bo"
+    },
+    {
+      "added_at": "2023-10-13 04:00:00",
+      "album": {
+        "name": "Trofeo",
+        "url": "https://open.spotify.com/album/4BrK3QOclSE0bAumHy1Lz7"
+      },
+      "artists": [
+        {
+          "name": "Maluma",
+          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
+        },
+        {
+          "name": "Yandel",
+          "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
+        }
+      ],
+      "duration_ms": 222333,
+      "name": "Trofeo",
+      "url": "https://open.spotify.com/track/4ajAhp58D3zWqtpGJFG2NB"
     },
     {
       "added_at": "2023-10-13 04:00:00",
@@ -971,6 +971,22 @@
     {
       "added_at": "2023-10-13 04:00:00",
       "album": {
+        "name": "La Verde",
+        "url": "https://open.spotify.com/album/05d4pEdbkJIdAtMy9xIokx"
+      },
+      "artists": [
+        {
+          "name": "Justin Quiles",
+          "url": "https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP"
+        }
+      ],
+      "duration_ms": 181342,
+      "name": "La Verde",
+      "url": "https://open.spotify.com/track/73oBnvPUnuTmQxvbhXfZJ1"
+    },
+    {
+      "added_at": "2023-10-13 04:00:00",
+      "album": {
         "name": "Pa Casa",
         "url": "https://open.spotify.com/album/2TcClZORswUT3AReMz3AR4"
       },
@@ -995,18 +1011,22 @@
     {
       "added_at": "2023-10-13 04:00:00",
       "album": {
-        "name": "La Verde",
-        "url": "https://open.spotify.com/album/05d4pEdbkJIdAtMy9xIokx"
+        "name": "MOR, No Le Temas a La Oscuridad",
+        "url": "https://open.spotify.com/album/16ScBmKm5WA3RwvTqiQlJd"
       },
       "artists": [
         {
-          "name": "Justin Quiles",
-          "url": "https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP"
+          "name": "Feid",
+          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
+        },
+        {
+          "name": "\u00d1engo Flow",
+          "url": "https://open.spotify.com/artist/12vb80Km0Ew53ABfJOepVz"
         }
       ],
-      "duration_ms": 181342,
-      "name": "La Verde",
-      "url": "https://open.spotify.com/track/73oBnvPUnuTmQxvbhXfZJ1"
+      "duration_ms": 170640,
+      "name": "GANGSTERS Y PISTOLAS",
+      "url": "https://open.spotify.com/track/2GOnlLJqDMvlXlEqD8AQqn"
     },
     {
       "added_at": "2023-10-13 04:00:00",
@@ -1063,26 +1083,6 @@
       "duration_ms": 165386,
       "name": "PLN",
       "url": "https://open.spotify.com/track/5nUQvg3l33BKuyU42ai7eN"
-    },
-    {
-      "added_at": "2023-10-13 04:00:00",
-      "album": {
-        "name": "MOR, No Le Temas a La Oscuridad",
-        "url": "https://open.spotify.com/album/16ScBmKm5WA3RwvTqiQlJd"
-      },
-      "artists": [
-        {
-          "name": "Feid",
-          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
-        },
-        {
-          "name": "\u00d1engo Flow",
-          "url": "https://open.spotify.com/artist/12vb80Km0Ew53ABfJOepVz"
-        }
-      ],
-      "duration_ms": 170640,
-      "name": "GANGSTERS Y PISTOLAS",
-      "url": "https://open.spotify.com/track/2GOnlLJqDMvlXlEqD8AQqn"
     },
     {
       "added_at": "2023-10-13 04:00:00",
@@ -1347,26 +1347,6 @@
     {
       "added_at": "2023-10-13 04:00:00",
       "album": {
-        "name": "GANAS",
-        "url": "https://open.spotify.com/album/5WojaFxkR4saLIwiyUBAnX"
-      },
-      "artists": [
-        {
-          "name": "Polim\u00e1 Westcoast",
-          "url": "https://open.spotify.com/artist/768O5GliF0bqscyghggrbE"
-        },
-        {
-          "name": "Nicky Jam",
-          "url": "https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT"
-        }
-      ],
-      "duration_ms": 169651,
-      "name": "GANAS",
-      "url": "https://open.spotify.com/track/4WBJO0asHRwWh7yyFHzABq"
-    },
-    {
-      "added_at": "2023-10-13 04:00:00",
-      "album": {
         "name": "Not\u00f3n",
         "url": "https://open.spotify.com/album/1mtxVEwAaB45BHSCpST8px"
       },
@@ -1383,6 +1363,26 @@
       "duration_ms": 166360,
       "name": "Not\u00f3n",
       "url": "https://open.spotify.com/track/6A3pjEOJ9gWGIeRdOHPRNO"
+    },
+    {
+      "added_at": "2023-10-13 04:00:00",
+      "album": {
+        "name": "GANAS",
+        "url": "https://open.spotify.com/album/5WojaFxkR4saLIwiyUBAnX"
+      },
+      "artists": [
+        {
+          "name": "Polim\u00e1 Westcoast",
+          "url": "https://open.spotify.com/artist/768O5GliF0bqscyghggrbE"
+        },
+        {
+          "name": "Nicky Jam",
+          "url": "https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT"
+        }
+      ],
+      "duration_ms": 169651,
+      "name": "GANAS",
+      "url": "https://open.spotify.com/track/4WBJO0asHRwWh7yyFHzABq"
     },
     {
       "added_at": "2023-10-13 04:00:00",
@@ -1531,26 +1531,22 @@
     {
       "added_at": "2023-10-13 04:00:00",
       "album": {
-        "name": "Romperte",
-        "url": "https://open.spotify.com/album/545h3hKTymVcMJUOJ2VsIl"
+        "name": "ALTER EGO",
+        "url": "https://open.spotify.com/album/0ghlpJtcN9O9Sk72voIHJm"
       },
       "artists": [
         {
-          "name": "Conep",
-          "url": "https://open.spotify.com/artist/5kCv5opFav2P7nPl8FiEQx"
+          "name": "Chesca",
+          "url": "https://open.spotify.com/artist/7DgpPXntG6DkNR4hCi4PjP"
         },
         {
-          "name": "Jay Wheeler",
-          "url": "https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g"
-        },
-        {
-          "name": "Brytiago",
-          "url": "https://open.spotify.com/artist/00XhexlJEXQstHimpZN910"
+          "name": "Farina",
+          "url": "https://open.spotify.com/artist/7cYik4OyfBXYV5Z2TI7p90"
         }
       ],
-      "duration_ms": 251034,
-      "name": "Romperte",
-      "url": "https://open.spotify.com/track/0jY1gqvXgX54bfuzgULjHW"
+      "duration_ms": 175907,
+      "name": "Blam Blam",
+      "url": "https://open.spotify.com/track/6Yi0H0gVNT3fGPWn3ZVZ3a"
     },
     {
       "added_at": "2023-10-13 04:00:00",
@@ -1571,22 +1567,26 @@
     {
       "added_at": "2023-10-13 04:00:00",
       "album": {
-        "name": "ALTER EGO",
-        "url": "https://open.spotify.com/album/0ghlpJtcN9O9Sk72voIHJm"
+        "name": "Romperte",
+        "url": "https://open.spotify.com/album/545h3hKTymVcMJUOJ2VsIl"
       },
       "artists": [
         {
-          "name": "Chesca",
-          "url": "https://open.spotify.com/artist/7DgpPXntG6DkNR4hCi4PjP"
+          "name": "Conep",
+          "url": "https://open.spotify.com/artist/5kCv5opFav2P7nPl8FiEQx"
         },
         {
-          "name": "Farina",
-          "url": "https://open.spotify.com/artist/7cYik4OyfBXYV5Z2TI7p90"
+          "name": "Jay Wheeler",
+          "url": "https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g"
+        },
+        {
+          "name": "Brytiago",
+          "url": "https://open.spotify.com/artist/00XhexlJEXQstHimpZN910"
         }
       ],
-      "duration_ms": 175907,
-      "name": "Blam Blam",
-      "url": "https://open.spotify.com/track/6Yi0H0gVNT3fGPWn3ZVZ3a"
+      "duration_ms": 251034,
+      "name": "Romperte",
+      "url": "https://open.spotify.com/track/0jY1gqvXgX54bfuzgULjHW"
     },
     {
       "added_at": "2023-10-13 04:00:00",
@@ -1675,26 +1675,6 @@
     {
       "added_at": "2023-10-13 04:00:00",
       "album": {
-        "name": "Del Calent\u00f3n",
-        "url": "https://open.spotify.com/album/7F06bRtzV1MXHU7vW3bjqn"
-      },
-      "artists": [
-        {
-          "name": "Ovi",
-          "url": "https://open.spotify.com/artist/4o0NtnL2m0lzZmEdRas1qv"
-        },
-        {
-          "name": "Mont",
-          "url": "https://open.spotify.com/artist/41gFAk6ZyYdt7Q1Ir4cbH0"
-        }
-      ],
-      "duration_ms": 197351,
-      "name": "Del Calent\u00f3n",
-      "url": "https://open.spotify.com/track/31eIRKr5BbbugXOKNnpPXK"
-    },
-    {
-      "added_at": "2023-10-13 04:00:00",
-      "album": {
         "name": "WEEKENES",
         "url": "https://open.spotify.com/album/5LEnwMeuUp1PxqnilPqseD"
       },
@@ -1711,6 +1691,26 @@
       "duration_ms": 175862,
       "name": "WEEKENES",
       "url": "https://open.spotify.com/track/4VaxDAbOqzCANkwLUIK1WW"
+    },
+    {
+      "added_at": "2023-10-13 04:00:00",
+      "album": {
+        "name": "Del Calent\u00f3n",
+        "url": "https://open.spotify.com/album/7F06bRtzV1MXHU7vW3bjqn"
+      },
+      "artists": [
+        {
+          "name": "Ovi",
+          "url": "https://open.spotify.com/artist/4o0NtnL2m0lzZmEdRas1qv"
+        },
+        {
+          "name": "Mont",
+          "url": "https://open.spotify.com/artist/41gFAk6ZyYdt7Q1Ir4cbH0"
+        }
+      ],
+      "duration_ms": 197351,
+      "name": "Del Calent\u00f3n",
+      "url": "https://open.spotify.com/track/31eIRKr5BbbugXOKNnpPXK"
     },
     {
       "added_at": "2023-10-13 04:00:00",
@@ -1751,6 +1751,22 @@
     {
       "added_at": "2023-10-13 04:00:00",
       "album": {
+        "name": "Te Acuerdas",
+        "url": "https://open.spotify.com/album/2PGYv66qvNvkj9bHwJPzfg"
+      },
+      "artists": [
+        {
+          "name": "Armez",
+          "url": "https://open.spotify.com/artist/5SETXxt4h3XsZONZRoodOz"
+        }
+      ],
+      "duration_ms": 194666,
+      "name": "Te Acuerdas",
+      "url": "https://open.spotify.com/track/1ETPrordns62g0uNKJmTre"
+    },
+    {
+      "added_at": "2023-10-13 04:00:00",
+      "album": {
         "name": "Poderes",
         "url": "https://open.spotify.com/album/7n0Ws1K2eNeSyWXesuIc8t"
       },
@@ -1767,22 +1783,6 @@
       "duration_ms": 228705,
       "name": "Poderes",
       "url": "https://open.spotify.com/track/1CsAAeTHONoV6rt3TRM5RP"
-    },
-    {
-      "added_at": "2023-10-13 04:00:00",
-      "album": {
-        "name": "Te Acuerdas",
-        "url": "https://open.spotify.com/album/2PGYv66qvNvkj9bHwJPzfg"
-      },
-      "artists": [
-        {
-          "name": "Armez",
-          "url": "https://open.spotify.com/artist/5SETXxt4h3XsZONZRoodOz"
-        }
-      ],
-      "duration_ms": 194666,
-      "name": "Te Acuerdas",
-      "url": "https://open.spotify.com/track/1ETPrordns62g0uNKJmTre"
     },
     {
       "added_at": "2023-10-13 04:00:00",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb2RUUTjIk3t.md) - [plain]
 
 > Beautiful indie tracks from around the world\. Cover: beabadoobee.
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,665 likes - 75 songs - 4 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,688 likes - 75 songs - 4 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,7 +79,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb2RUUTjIk3t.md) - [plain]
 | 69 | [let me hold you](https://open.spotify.com/track/66k75vZNgRnOuJosuAFNeY) | [lofi.samurai](https://open.spotify.com/artist/6NLqFFCoVnFwbXzoIB5Col), [Insowmya](https://open.spotify.com/artist/3DbDp2eOPCBKqQiuVhlQVC) | [oldies](https://open.spotify.com/album/2qFWwW20dcp45bEFEgSAc1) | 1:25 |
 | 70 | [Make You Mine](https://open.spotify.com/track/2KQehm3y77ahO2RXhH2iIe) | [The Walters](https://open.spotify.com/artist/027TpXKGwdXP7iwbjUSpV8) | [Try Again](https://open.spotify.com/album/2hBQFSGwy9HlBTeKFIug9M) | 2:29 |
 | 71 | [Terminal](https://open.spotify.com/track/40wkW3SBJMhemcvtzKjxkO) | [Marci](https://open.spotify.com/artist/2YvVKe1MfcslinaPCv402E) | [Marci](https://open.spotify.com/album/4A8z3O9t9mhH0rIBZ1Et7e) | 3:22 |
-| 72 | [‎can't ‎u ‎tell ‎?](https://open.spotify.com/track/1L2IdFAsssLzcv2oLTL1kn) | [maxime.](https://open.spotify.com/artist/4jd8Wp3Os5tXFV0NYm1570) | [‎can't ‎u ‎tell ‎?](https://open.spotify.com/album/6hLJGtNPcfDbOPQjGs5XMo) | 2:38 |
+| 72 | [‎can't ‎u ‎tell ‎?](https://open.spotify.com/track/0DzmuigZNTpqOedCW3e6cb) | [maxime.](https://open.spotify.com/artist/4jd8Wp3Os5tXFV0NYm1570) | [‎rubber ‎checks](https://open.spotify.com/album/14JPvukY07RrXQSBAM31eF) | 2:38 |
 | 73 | [Paracas Cavernas](https://open.spotify.com/track/5iEzYvaLSLUU7pU4miiVE5) | [La Lá](https://open.spotify.com/artist/7nZ3e67Mo4DLU1RC81KX8H), [Tessa Ia](https://open.spotify.com/artist/2Bo0gW1bqWSjD27xOcVtjg) | [Paracas Cavernas](https://open.spotify.com/album/0rYpO9guHXOLfNeuNPTqgk) | 4:28 |
 | 74 | [Doing Really Well Thanks](https://open.spotify.com/track/5RKsUNisanWVAvmg1BO7f5) | [Ellie Bleach](https://open.spotify.com/artist/5ahGL7pdoC2nvzna5z5Fz3) | [Doing Really Well Thanks](https://open.spotify.com/album/3m0pmKEVZHRUo2AIMKau6q) | 4:43 |
 | 75 | [Dusty Issues](https://open.spotify.com/track/27Kcb2Hslz0lSplnxVmmQk) | [Samuel Petra](https://open.spotify.com/artist/4nU8lYVaehPFBOgeZcIZr3) | [Dusty Issues](https://open.spotify.com/album/1kBh2A0rSYYbNVoCaNsjdQ) | 2:04 |

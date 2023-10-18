@@ -4,7 +4,7 @@
 
 > A pangea of ethnic/futuristic sounds inspired by Brian Eno and Jon Hassell's 'Fourth World Vol 1 \- Possible Musics'.
 
-147 songs - 15 hr 22 min
+148 songs - 15 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -94,6 +94,7 @@
 | [Mirrored Solitude](https://open.spotify.com/track/52vNlD5YZT1yUmZUnukAbT) | [Kalia Vandever](https://open.spotify.com/artist/2eFIJMz1OPMcyyqxVbh8tL) | [Mirrored Solitude](https://open.spotify.com/album/4bd0O6ioCKu3uh3d89rtpB) | 3:26 | 2023-03-07 | 2023-09-01 |
 | [Moon Ferns](https://open.spotify.com/track/7raBJIEGLI5fCtIwrpVDOo) | [Galdre Visions](https://open.spotify.com/artist/1DZHAnQ0cxXnnj246MlewC), [Green\-House](https://open.spotify.com/artist/0M6QGBKWICr8dxhh3UJW45), [Nailah Hunter](https://open.spotify.com/artist/6j9xL4IBj8sZNjRiQhx8oF), [Yialmelic Frequencies](https://open.spotify.com/artist/3mYAVgwagzb6jfMY4nMjHQ), [Ami Dang](https://open.spotify.com/artist/1DAqw4sYHPmgHQ6gzOVDig) | [Galdre Visions](https://open.spotify.com/album/4RcWdr6mjTF2s7qt9sNm7q) | 4:15 | 2021-10-20 | 2022-07-29 |
 | [Mouthfeel 2](https://open.spotify.com/track/42dJxpG0YNmPDs1G6TlNNh) | [Sam Gendel](https://open.spotify.com/artist/3luuQQRuSBuDNnrkYvatnk), [Josiah Steinbrick](https://open.spotify.com/artist/2t1feKJJZgzieczJ0oDmiP) | [Mouthfeel / Serene](https://open.spotify.com/album/6FRipfCiwuxPvdaagJUg3P) | 3:36 | 2021-10-20 | 2023-05-15 |
+| [Mouthfeel 2](https://open.spotify.com/track/7pTlUKueEmeT2CMFkaETAi) | [Sam Gendel](https://open.spotify.com/artist/3luuQQRuSBuDNnrkYvatnk), [Josiah Steinbrick](https://open.spotify.com/artist/2t1feKJJZgzieczJ0oDmiP) | [Mouthfeel / Serene](https://open.spotify.com/album/6nYVmyI2ZsMoFQJyB9bz1x) | 3:36 | 2021-10-20 |  |
 | [My Gull](https://open.spotify.com/track/3onLhReyQTuzAERoiEpj2j) | [Wilson Tanner](https://open.spotify.com/artist/1SSQKcEQdGmpu9MQRXcJ9i) | [II](https://open.spotify.com/album/6TWWXuC6WOvznLVPvDqTFI) | 2:10 | 2021-10-20 |  |
 | [Música Esporádica](https://open.spotify.com/track/6CCEAanczgKqsVi1pskvNs) | [Música Esporádica](https://open.spotify.com/artist/0h71X1g6FJuanP96HHvGmg), [Suso Saiz](https://open.spotify.com/artist/5gdvIKIFREcJmy3LV6yhBh), [Orquesta de las Nubes](https://open.spotify.com/artist/7CqUn7HsQQ3OrCyMvBnwRS) | [Música Esporádica](https://open.spotify.com/album/7dnlyE1XLw84eNn4UJSU0j) | 12:38 | 2021-10-20 | 2022-07-29 |
 | [Nexus On The Beach](https://open.spotify.com/track/6LMAeSiM6YiiGsfE1G4jUD) | [Roberto Musci](https://open.spotify.com/artist/1HSz5qiRNcs8eJ0Sp2LOxw) | [Tower of Silence](https://open.spotify.com/album/0emZeMYklVE3LS97rGKN8S) | 6:09 | 2021-10-20 |  |
@@ -127,7 +128,7 @@
 | [The Blue of Distance](https://open.spotify.com/track/25IdOChfpxF8r7KkNG3EdI) | [Elori Saxl](https://open.spotify.com/artist/6ToGjPfiUS10Zds9xirvm0) | [The Blue of Distance](https://open.spotify.com/album/0l75LSipQXsxxlOAKvI3iW) | 7:05 | 2021-10-20 | 2022-07-29 |
 | [The Blue of Distance](https://open.spotify.com/track/6ZWKWSVd57ofFsgEez8aI6) | [Elori Saxl](https://open.spotify.com/artist/6ToGjPfiUS10Zds9xirvm0) | [The Blue of Distance](https://open.spotify.com/album/2fgYV6cTjFeqb0yPbj4piy) | 7:05 | 2021-10-20 |  |
 | [The Brook](https://open.spotify.com/track/1ZGoURXFfkQ9STyFXtqsIu) | [Oils](https://open.spotify.com/artist/3Q2M9TPSdCOUOw0IStqvdI) | [Noodles](https://open.spotify.com/album/2osw99nWs2Ksyccj99sZ60) | 5:26 | 2021-10-20 |  |
-| [The Clearing Pt\. 2](https://open.spotify.com/track/2SCFCNIvWuup7rGr9pUa1C) | [Hans Berg](https://open.spotify.com/artist/3HtBPJEDYVtAbTGSpaJ3Hk) | [Waypoints](https://open.spotify.com/album/7niveWSY99Oij26h1PjjBR) | 5:54 | 2022-09-21 |  |
+| [The Clearing Pt\. 2](https://open.spotify.com/track/2SCFCNIvWuup7rGr9pUa1C) | [Hans Berg](https://open.spotify.com/artist/3HtBPJEDYVtAbTGSpaJ3Hk) | [Waypoints](https://open.spotify.com/album/7niveWSY99Oij26h1PjjBR) | 5:54 | 2022-09-21 | 2023-10-18 |
 | [The Loss of Wilderness](https://open.spotify.com/track/04tFCehRHa8mbwhXu00StW) | [ILUITEQ](https://open.spotify.com/artist/1J6vVQgVSsWTwVhPz1wQmq) | [The Loss of Wilderness](https://open.spotify.com/album/4BRp0FYalzuIdl2TBOQWB7) | 5:57 | 2022-01-11 |  |
 | [The Loss of Wilderness](https://open.spotify.com/track/4VAcyWI2N7uVBSKtpElawe) | [ILUITEQ](https://open.spotify.com/artist/1J6vVQgVSsWTwVhPz1wQmq) | [The Loss of Wilderness](https://open.spotify.com/album/7lMF8u1HdnWqwd1AaWVXzl) | 5:57 | 2022-01-11 | 2023-04-30 |
 | [The Protester](https://open.spotify.com/track/6IgAKh5Oix3jLoCQyrfy9b) | [Aaron Cupples](https://open.spotify.com/artist/3OGQFxVzdGQPrvPJXozi8h) | [Island of the Hungry Ghosts \(OST\)](https://open.spotify.com/album/0o8P0i2Ljyt2KVV7LH6wAT) | 4:14 | 2021-10-20 | 2022-07-29 |

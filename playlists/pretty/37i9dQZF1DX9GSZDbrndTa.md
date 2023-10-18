@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9GSZDbrndTa.md) - [plain]
 
 > The bluesy side of jazz
 
-[Spotify](https://open.spotify.com/user/spotify) - 91,965 likes - 50 songs - 5 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 92,029 likes - 50 songs - 5 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,8 +37,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9GSZDbrndTa.md) - [plain]
 | 27 | [Senor Blues](https://open.spotify.com/track/3MiHG7FiEk56qiHNuWaZiz) | [Horace Silver](https://open.spotify.com/artist/5ZATfKurLqflrBhv2FLht5) | [The Very Best](https://open.spotify.com/album/4xuegUilqM4eMcAH9FdxRR) | 7:01 |
 | 28 | [Trane's Blues](https://open.spotify.com/track/2jArAY0sRtdIN8r9oS0ryO) | [Miles Davis Quintet](https://open.spotify.com/artist/71Ur25Abq58vksqJINpGdx) | [Workin' With The Miles Davis Quintet](https://open.spotify.com/album/7buLIJn2VuqsVORghMEvli) | 8:32 |
 | 29 | [Cheryl](https://open.spotify.com/track/1AMqC4GiDjbfwpl40kEWpX) | [Charlie Parker](https://open.spotify.com/artist/4Ww5mwS7BWYjoZTUIrMHfC), [Miles Davis](https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4) | [The Savoy 10\-inch LP Collection](https://open.spotify.com/album/6hwIz13Z6GkWOdhQFgDQJ4) | 3:00 |
-| 30 | [Birks' Works](https://open.spotify.com/track/189Ut7anuQjKNbiHIHBOaa) | [Dizzy Gillespie](https://open.spotify.com/artist/5RzjqfPS0Bu4bUMkyNNDpn) | [Verve Jazz Masters 10: Dizzy Gillespie](https://open.spotify.com/album/1nhJMRUIhJhSl6vshTJvGH) | 4:57 |
-| 31 | [Sonnymoon For Two](https://open.spotify.com/track/58auzrd6rwCLuWleG4bCAy) | [Sonny Rollins](https://open.spotify.com/artist/1VEzN9lxvG6KPR3QQGsebR) | [The Freelance Years](https://open.spotify.com/album/7DcaNJJvSm4m9POLPopa8x) | 9:06 |
+| 30 | [Sonnymoon For Two](https://open.spotify.com/track/58auzrd6rwCLuWleG4bCAy) | [Sonny Rollins](https://open.spotify.com/artist/1VEzN9lxvG6KPR3QQGsebR) | [The Freelance Years](https://open.spotify.com/album/7DcaNJJvSm4m9POLPopa8x) | 9:06 |
+| 31 | [Birks' Works](https://open.spotify.com/track/189Ut7anuQjKNbiHIHBOaa) | [Dizzy Gillespie](https://open.spotify.com/artist/5RzjqfPS0Bu4bUMkyNNDpn) | [Verve Jazz Masters 10: Dizzy Gillespie](https://open.spotify.com/album/1nhJMRUIhJhSl6vshTJvGH) | 4:57 |
 | 32 | [Ralph J\. Gleason Blues](https://open.spotify.com/track/3qfsuszc9cwvUI56OdCbqR) | [Red Garland](https://open.spotify.com/artist/35iymrFS4VnsKn35ebHKX9) | [Red's Blues](https://open.spotify.com/album/560iFUlNMIk2FHleBEkbNS) | 6:40 |
 | 33 | [Doodlin' \- Remastered](https://open.spotify.com/track/5TMVNGCCHS01ub7oOLzyFW) | [Horace Silver](https://open.spotify.com/artist/5ZATfKurLqflrBhv2FLht5) | [Horace Silver And The Jazz Messengers](https://open.spotify.com/album/6ChBNNT405wL5eQz8be9Q9) | 6:45 |
 | 34 | [Well You Needn't](https://open.spotify.com/track/6UR3pf66R1zloruniAFkp1) | [Thelonious Monk Septet](https://open.spotify.com/artist/56koGOp6EpWHZYOfuTTxRB) | [Monk's Music](https://open.spotify.com/album/5VTHqe7GnSKHRqq9qF8O5G) | 11:22 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9GSZDbrndTa.md) - [plain]
 | 49 | [Chi Chi](https://open.spotify.com/track/5FzhjFoN3ND1tvndL6rAOj) | [Charlie Parker Quartet](https://open.spotify.com/artist/5GBe2GMfPm3IFagD5XuKKs) | [Bird 100](https://open.spotify.com/album/28J5TDJB3TLEh9fCCzXHWW) | 3:02 |
 | 50 | [Kelly Blue](https://open.spotify.com/track/2w2S61Es3uLMVHE41u1pev) | [Wynton Kelly](https://open.spotify.com/artist/5ncBRFyyylFng7kQJaRXN0) | [Kelly Blue \(Keepnews Collection\)](https://open.spotify.com/album/0mgUrEyxaymxq5hCKqNQ9B) | 10:50 |
 
-Snapshot ID: `MCw0NDk0MTQ1Mjc4OWQyMjNjZWUxNjg5YzQxYmE3MTIzYjc2YWM3NGEy`
+Snapshot ID: `MCxmNTMxNWY1M2M0OGY4YWUyZGJlZjdjYzE3ZTdiOGU4NGIwNTFiMzVl`

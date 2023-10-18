@@ -4,11 +4,12 @@
 
 > <a href="spotify:artist:34iHrE61AX1yx8uAqNOCyU">Cosmicat</a>'s favorite tracks\. Updated regularly\. Curated by Cosmicat\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-78 songs - 7 hr 23 min
+79 songs - 7 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [Around You \- OC & Verde Remix](https://open.spotify.com/track/2IF60kSZBtBpbfNjLHVNui) | [Eli & Fur](https://open.spotify.com/artist/5CkVLGKUJkIc1pmSk10QP4), [The Black 80s](https://open.spotify.com/artist/5cYxob4Dt5P2jCTKvZULxW), [OC & Verde](https://open.spotify.com/artist/6wdPgZR2SnhEJ6DJ8L37lc) | [Around You](https://open.spotify.com/album/1nxUMRWZAJJdh02imPEa6r) | 7:27 | 2022-10-14 |  |
+| [Around You \(OC & Verde Remix\)](https://open.spotify.com/track/7ze837rnYknc1H2sp5SVBa) | [Eli & Fur](https://open.spotify.com/artist/5CkVLGKUJkIc1pmSk10QP4), [The Black 80s](https://open.spotify.com/artist/5cYxob4Dt5P2jCTKvZULxW), [OC & Verde](https://open.spotify.com/artist/6wdPgZR2SnhEJ6DJ8L37lc) | [Around You](https://open.spotify.com/album/4WXDzP3ghM5W5k3G6t9kCr) | 7:27 | 2023-07-13 |  |
+| [Around You \- OC & Verde Remix](https://open.spotify.com/track/2IF60kSZBtBpbfNjLHVNui) | [Eli & Fur](https://open.spotify.com/artist/5CkVLGKUJkIc1pmSk10QP4), [The Black 80s](https://open.spotify.com/artist/5cYxob4Dt5P2jCTKvZULxW), [OC & Verde](https://open.spotify.com/artist/6wdPgZR2SnhEJ6DJ8L37lc) | [Around You](https://open.spotify.com/album/1nxUMRWZAJJdh02imPEa6r) | 7:27 | 2022-10-14 | 2023-10-18 |
 | [Awake](https://open.spotify.com/track/0VQcfWi6k4kLOXyOW7YcJO) | [Neither](https://open.spotify.com/artist/7HBVMS57dTJTvNbg6VZ0Nd) | [Exposure](https://open.spotify.com/album/7CdyCtnFb6zI5RIZDaF6yH) | 7:10 | 2022-10-14 |  |
 | [Baby](https://open.spotify.com/track/2abJ4AhREoCVBPkMBOkhth) | [Cosmicat](https://open.spotify.com/artist/34iHrE61AX1yx8uAqNOCyU) | [Baby](https://open.spotify.com/album/0ZCmZFWdYvHRgqZGB6ItD6) | 3:27 | 2023-02-08 |  |
 | [Bind](https://open.spotify.com/track/5SKQlsVC41xO7KLmAqqoij) | [Howling](https://open.spotify.com/artist/3WTWOrIS77vY3hkCFqTyIw), [RY X](https://open.spotify.com/artist/2KjAo6wVc9d2WcxdxSArpV), [Frank Wiedemann](https://open.spotify.com/artist/1gbnoyNZEf6K9HytIv1D94) | [Colure](https://open.spotify.com/album/1Lca0I1wv9awAPe6DNHOal) | 4:12 | 2022-10-14 |  |

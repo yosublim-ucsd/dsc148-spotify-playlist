@@ -615,6 +615,28 @@
     },
     {
       "album": {
+        "name": "A Different Kind of Blues",
+        "url": "https://open.spotify.com/album/0Xw89z1Kmx2dt5q21N11CJ"
+      },
+      "artists": [
+        {
+          "name": "IAMJJ",
+          "url": "https://open.spotify.com/artist/5IXAoFwq3CLAMjvWorc6WJ"
+        },
+        {
+          "name": "Baker Grace",
+          "url": "https://open.spotify.com/artist/70RgxMmZhLLWxRlbUFQKR2"
+        }
+      ],
+      "date_added": "2023-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198043,
+      "name": "A Different Kind of Blues",
+      "url": "https://open.spotify.com/track/6ZG7EV2sV2M1MI9XxANAdF"
+    },
+    {
+      "album": {
         "name": "A&W",
         "url": "https://open.spotify.com/album/46XKgCOOHTZkQTdiMsBxHS"
       },
@@ -7104,7 +7126,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-18",
       "duration_ms": 128015,
       "name": "METAMORPHOSIS 3",
       "url": "https://open.spotify.com/track/3J5y9v6vK5ginTnMroJ1Nn"
@@ -18324,7 +18346,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-18",
       "duration_ms": 150384,
       "name": "\u041c\u043e\u043b\u043e\u0434\u0456\u0441\u0442\u044c",
       "url": "https://open.spotify.com/track/0wpkj8A7T1CjIul0XQtkqK"
@@ -19384,7 +19406,7 @@
       ],
       "date_added": "2023-09-23",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-17",
+      "date_removed": null,
       "duration_ms": 189000,
       "name": "\u041d\u0456\u0447\u0435\u043d\u044c\u043a\u0430",
       "url": "https://open.spotify.com/track/1GpsHzQa7FEHInzmtALUk9"

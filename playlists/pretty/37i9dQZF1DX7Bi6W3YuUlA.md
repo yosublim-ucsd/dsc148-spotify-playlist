@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7Bi6W3YuUlA.md) - [plain]
 
 > Songs of positivity from some of today's leading inspiring artists\. Cover:  Tobe Nwigwe
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,756 likes - 100 songs - 4 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 30,834 likes - 100 songs - 4 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -77,15 +77,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7Bi6W3YuUlA.md) - [plain]
 | 67 | [No Loss](https://open.spotify.com/track/5MFx3nX3rO7H49RomWdKl7) | [Canon](https://open.spotify.com/artist/1dIjbaW9JTTQQ7ufrQnGsq) | [No Loss](https://open.spotify.com/album/4OvpLNfVIOiJmn2H20okwN) | 2:55 |
 | 68 | [Backslide](https://open.spotify.com/track/0xSmgLMebPwho7od9B4Jsw) | [Red Tips](https://open.spotify.com/artist/0e6JPJ634Hw3I95aKMEaD7) | [Backslide](https://open.spotify.com/album/22XnIqlTbgEse4XimFOS3F) | 2:30 |
 | 69 | [I Can't Fail](https://open.spotify.com/track/3Ngil1du8DDdROkk5MZKa3) | [Social Club Misfits](https://open.spotify.com/artist/0wnsM0ziqToBwQeEbH0akL) | [Everyone Loves A Comeback Story](https://open.spotify.com/album/5RjwtLy4rECKCcqF5Cbs20) | 3:22 |
-| 70 | [Your Word My Mind](https://open.spotify.com/track/1PK1IQm9ic0aiRIc4qVkz7) | [Caleb Gordon](https://open.spotify.com/artist/6s3XaJkcT7464G4oII9V41) | [Your Word My Mind](https://open.spotify.com/album/2sCzqIjKBqX0gnZBxak8Z6) | 2:29 |
-| 71 | [Pray](https://open.spotify.com/track/21SWInttXP3DP6bqxmoZI9) | [Sam Rivera](https://open.spotify.com/artist/4BuHGiGgKtUUHqthu6Ze5x), [Aaron Cole](https://open.spotify.com/artist/0OQ8y7heASb1vEX5WXvjCr) | [Pray](https://open.spotify.com/album/6yhfureGMC38z0FDckHp2V) | 2:56 |
+| 70 | [Pray](https://open.spotify.com/track/21SWInttXP3DP6bqxmoZI9) | [Sam Rivera](https://open.spotify.com/artist/4BuHGiGgKtUUHqthu6Ze5x), [Aaron Cole](https://open.spotify.com/artist/0OQ8y7heASb1vEX5WXvjCr) | [Pray](https://open.spotify.com/album/6yhfureGMC38z0FDckHp2V) | 2:56 |
+| 71 | [Your Word My Mind](https://open.spotify.com/track/1PK1IQm9ic0aiRIc4qVkz7) | [Caleb Gordon](https://open.spotify.com/artist/6s3XaJkcT7464G4oII9V41) | [Your Word My Mind](https://open.spotify.com/album/2sCzqIjKBqX0gnZBxak8Z6) | 2:29 |
 | 72 | [Bloom](https://open.spotify.com/track/1Il0XFrv9AL3u6cpgvRvSF) | [Mitch Wong](https://open.spotify.com/artist/0NmuD3IXcEGYAEX5hZxu39), [Lindy Cofer](https://open.spotify.com/artist/643zIYUXOTyNvxKia2i27I) | [Bloom](https://open.spotify.com/album/4OigF874NcgVswGDcQ85WG) | 3:06 |
 | 73 | [Holy](https://open.spotify.com/track/5BiDQrKv72yjGNB0zUSBwO) | [Gabby Callwood](https://open.spotify.com/artist/7uggI2dtxS9l9fSUPp9ebG), [J1W](https://open.spotify.com/artist/1rinkeYozGduW14ex0aiuM) | [Holy](https://open.spotify.com/album/444xhOTpphGpSrqG7uSLwP) | 2:29 |
 | 74 | [Praise](https://open.spotify.com/track/6wbvE1aVv9d112MiP6sGkE) | [Lj the Messenger](https://open.spotify.com/artist/1wxZ1Mv6pAQbaqh30Nq6hB), [Hyper Fenton](https://open.spotify.com/artist/2q5QIs6iibW6xyHZZRSeh2) | [Praise](https://open.spotify.com/album/7w5z53GPI298MihIj0CDZ3) | 2:03 |
 | 75 | [It Could Be Worse](https://open.spotify.com/track/1pn9N05evZd09npQBnsC31) | [Andy Mineo](https://open.spotify.com/artist/1TMrnxBwZfmfRxsGzkNIHw) | [It Could Be Worse](https://open.spotify.com/album/4hhMSsLW0rRcNmXFF9qWPw) | 2:24 |
 | 76 | [Pray 2 God](https://open.spotify.com/track/5fKmS8idOTmtI3x9hWbHhk) | [2'Live Bre](https://open.spotify.com/artist/5dmGhAaINwsrzTyzQbDg0F) | [Pray 2 God](https://open.spotify.com/album/5Wl3TpMmeWfY47wOWdbaec) | 2:36 |
-| 77 | [Everyday](https://open.spotify.com/track/1fsIS1oqTTr7CJvAkelrXc) | [Lecrae](https://open.spotify.com/artist/1CFCsEqKrCyvAFKOATQHiW), [Jidenna](https://open.spotify.com/artist/4TsHKU8l8Wq7n7OPVikirn), [Limoblaze](https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT) | [Everyday](https://open.spotify.com/album/641i12iK07r1ALlCWq1xW3) | 3:04 |
-| 78 | [HUMAN](https://open.spotify.com/track/0JYHhhrkbLDqqV6qZBMwjb) | [WHATUPRG](https://open.spotify.com/artist/6YgYm3f9ifsz4OwQt8jql7), [Rhomar Jessy](https://open.spotify.com/artist/1jqR1m20qbEMSLfigWG6jT) | [NEW HOLLYWOOD](https://open.spotify.com/album/7BVSP15gMNXLl3DnJkyyjc) | 4:07 |
+| 77 | [HUMAN](https://open.spotify.com/track/0JYHhhrkbLDqqV6qZBMwjb) | [WHATUPRG](https://open.spotify.com/artist/6YgYm3f9ifsz4OwQt8jql7), [Rhomar Jessy](https://open.spotify.com/artist/1jqR1m20qbEMSLfigWG6jT) | [NEW HOLLYWOOD](https://open.spotify.com/album/7BVSP15gMNXLl3DnJkyyjc) | 4:07 |
+| 78 | [Everyday](https://open.spotify.com/track/1fsIS1oqTTr7CJvAkelrXc) | [Lecrae](https://open.spotify.com/artist/1CFCsEqKrCyvAFKOATQHiW), [Jidenna](https://open.spotify.com/artist/4TsHKU8l8Wq7n7OPVikirn), [Limoblaze](https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT) | [Everyday](https://open.spotify.com/album/641i12iK07r1ALlCWq1xW3) | 3:04 |
 | 79 | [Catch These Hands \- Remix](https://open.spotify.com/track/3K7zvRw4Wg9afWGfnDU7vM) | [JIMMY ROCK](https://open.spotify.com/artist/6YN7TGi4ZlsAy38fZVPvkN), [KJ\-52](https://open.spotify.com/artist/0kSHocNBxQeP9pr25l1scP), [Pettidee](https://open.spotify.com/artist/0qehlCsv0Di0jyb9tWOmvO) | [Catch These Hands \(Remix\)](https://open.spotify.com/album/7APamlqElimCKW62z0yKFf) | 2:24 |
 | 80 | [Ficky Ficky](https://open.spotify.com/track/0GDBvTELLm5ujaYzAqZebd) | [Mike Teezy](https://open.spotify.com/artist/6tO2zQcTIRfR2Xdsm9XnL7) | [Ficky Ficky](https://open.spotify.com/album/7udGdBV98HP5C7vvtKDnKF) | 1:44 |
 | 81 | [Hold Me Back](https://open.spotify.com/track/4pa4ssdqt8rqWAlz3YiCBZ) | [Canon](https://open.spotify.com/artist/1dIjbaW9JTTQQ7ufrQnGsq), [Derek Minor](https://open.spotify.com/artist/3fn8lZLy7Q61AXCWWPYC4B) | [Hold Me Back](https://open.spotify.com/album/7j3AwRPzTy00HODBozut4E) | 3:07 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7Bi6W3YuUlA.md) - [plain]
 | 99 | [97](https://open.spotify.com/track/3Wy25k1tXhCJ7HVOItXief) | [Jon Keith](https://open.spotify.com/artist/0PUc1lwaZpPJaMr0v4Gdvo) | [97](https://open.spotify.com/album/4M0bzRbUTj6CFzE7zPgJtM) | 2:55 |
 | 100 | [Red Light Green Light](https://open.spotify.com/track/7vhLO7AIWYlMjLk2aAED7x) | [Steven Malcolm](https://open.spotify.com/artist/5yqWHaDl8ZrYgeKANLyIv8), [Ty Brasel](https://open.spotify.com/artist/419NjKezGEJOVPtiymCp2p), [Jay\-Way](https://open.spotify.com/artist/1RDbE3dM2bNNSTh88R4MQ7) | [Tree](https://open.spotify.com/album/54wHmXPZMHh54mWa1cHHgY) | 4:02 |
 
-Snapshot ID: `MCxkNGE1Y2Q0OWE1ZDk3Mzc3M2YxZmU4NzAyMGY2NDRkYjA4ZjhlZGFk`
+Snapshot ID: `MCxmOTdhYjlkZGYwYTQxZWVlMGM0YmFiODQ4ZWI4YWZmODhlMzgwZDcw`

@@ -1336,7 +1336,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-18",
       "duration_ms": 223477,
       "name": "Cuando Estemos Juntos",
       "url": "https://open.spotify.com/track/1p79WfRuI5Ov4rHXxPHMS1"
@@ -1884,7 +1884,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-10",
+      "date_removed": null,
       "duration_ms": 274533,
       "name": "Donde Est\u00e9s, Con Quien Est\u00e9s",
       "url": "https://open.spotify.com/track/6kAM3ltjQyditY5GhZytJP"
@@ -2248,6 +2248,24 @@
       "duration_ms": 235200,
       "name": "El Recuento de los Da\u00f1os",
       "url": "https://open.spotify.com/track/65e7BhKBuKYl6UfCzYVRGT"
+    },
+    {
+      "album": {
+        "name": "Irresistible",
+        "url": "https://open.spotify.com/album/5yVadaDycmO1SVxxCb2BPh"
+      },
+      "artists": [
+        {
+          "name": "Pablo Ruiz",
+          "url": "https://open.spotify.com/artist/5BLxach4cxTAK3Pg0Nu2r2"
+        }
+      ],
+      "date_added": "2021-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219926,
+      "name": "El Rinc\u00f3n Prohibido",
+      "url": "https://open.spotify.com/track/4voKImUd9neMT6ON1GVLG4"
     },
     {
       "album": {
@@ -3616,7 +3634,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-18",
       "duration_ms": 168466,
       "name": "Llueve Sobre Mojado",
       "url": "https://open.spotify.com/track/3PDLKMueFy9va2zRQynuWK"

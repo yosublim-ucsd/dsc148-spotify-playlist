@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O2z77nfMgH.md) - [plain]
 
 > Lanzamientos de la semana\. Música nueva de toda la región\. Foto: Bad Bunny
 
-[Spotify](https://open.spotify.com/user/spotify) - 929,232 likes - 56 songs - 3 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 929,238 likes - 56 songs - 3 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,7 +36,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O2z77nfMgH.md) - [plain]
 | 26 | [X MÁS QUE TE QUERÍA](https://open.spotify.com/track/2nUo1RZRh32O3R27UZpA2d) | [Itzza Primera](https://open.spotify.com/artist/0PlTbBrPOOOmJzprmZ4cdM) | [X MÁS QUE TE QUERÍA](https://open.spotify.com/album/2bMFKkz5qP10PsgLWkFeUT) | 2:30 |
 | 27 | [NEXT IN LINE: JEFENU](https://open.spotify.com/track/5TX3mvKZ4XHQccRaJsnkIT) | [Cheztom](https://open.spotify.com/artist/5DJQ2mf4W5JFyjLt4KdEQn), [Rayo & Toby](https://open.spotify.com/artist/2xmhyxkjpGNBeWXVMeVWHb) | [NEXT IN LINE](https://open.spotify.com/album/2BSSbBCPfva8UKrFQcaalR) | 3:21 |
 | 28 | [SIN MIRAR \(feat\. CLUBZ\)](https://open.spotify.com/track/0xdYSnHZ8nYLxk6Cf72ZbV) | [Solo Fernández](https://open.spotify.com/artist/0bvP91QlkYvAFP71Cw6PkM), [CLUBZ](https://open.spotify.com/artist/6MoZZABXeQwEmzmcwICxwK) | [SIN MIRAR \(feat\. CLUBZ\)](https://open.spotify.com/album/0kgmX1KIPiZBBa16LhYZJM) | 4:17 |
-| 29 | [La vida es un carnaval \(Tributo a Celia Cruz\)](https://open.spotify.com/track/1MXMAR25PhMIf0rdgGutTh) | [Combinacion De La Habana](https://open.spotify.com/artist/3hfczsQRbhO3io1UwQFM1y), [Tania Pantoja](https://open.spotify.com/artist/3PechyuYiSVduLF5JD6MAB), [El Jean](https://open.spotify.com/artist/4jsfPs9ADxi4kUzQUbVg29), [EL DEY](https://open.spotify.com/artist/3WzQYqbFJ40FsLCFYwZxeF) | [La vida es un carnaval \(Tributo a Celia Cruz\)](https://open.spotify.com/album/0xAViUpder6nr3W1qZCAyR) | 3:50 |
+| 29 | [La vida es un carnaval \(Tributo a Celia Cruz\)](https://open.spotify.com/track/1MXMAR25PhMIf0rdgGutTh) | [Combinacion De La Habana](https://open.spotify.com/artist/3hfczsQRbhO3io1UwQFM1y), [Tania Pantoja](https://open.spotify.com/artist/3PechyuYiSVduLF5JD6MAB), [EL DEY](https://open.spotify.com/artist/3WzQYqbFJ40FsLCFYwZxeF), [El Jean](https://open.spotify.com/artist/4jsfPs9ADxi4kUzQUbVg29) | [La vida es un carnaval \(Tributo a Celia Cruz\)](https://open.spotify.com/album/0xAViUpder6nr3W1qZCAyR) | 3:50 |
 | 30 | [Una Cumbia Triste](https://open.spotify.com/track/0aZTEC8uIFXLJpkYRby45Y) | [La Receta](https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD), [La Autorización](https://open.spotify.com/artist/1V9705vd14WxDwXeTp2TYJ) | [Una Cumbia Triste](https://open.spotify.com/album/5HmM3U9Y5OIoloBfHAbza6) | 3:35 |
 | 31 | [Esta Vez Fui Yo](https://open.spotify.com/track/57KSIZ2Sl7XyWySNlBbTdP) | [El Frizian](https://open.spotify.com/artist/2Oc5k5AzcBOoH470jTgZzp), [Angel Cervantes](https://open.spotify.com/artist/3cbOif2nNznwEiNw9Ty8NJ) | [Esta Vez Fui Yo](https://open.spotify.com/album/0Ph4RL3sjcTOzPzM2MDr8W) | 2:57 |
 | 32 | [hola bb](https://open.spotify.com/track/5x33Y41pVO5zJT8eAgS35u) | [Valentina](https://open.spotify.com/artist/3ins7Wpq5xVFJi8wZdBAFI) | [hola bb](https://open.spotify.com/album/1fkR4uAUXPeTpiZ2lECvNc) | 1:54 |
@@ -65,4 +65,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O2z77nfMgH.md) - [plain]
 | 55 | [tú no](https://open.spotify.com/track/1yo6ROQQqWAHNb6alahCoY) | [AKRIILA](https://open.spotify.com/artist/39hfuTf4PHfnHgIl0QBDGL) | [tú no](https://open.spotify.com/album/3QnYvMHXIl3CM7u9f6IX5d) | 2:57 |
 | 56 | [5 da manhã](https://open.spotify.com/track/2fdfXYtk4zUgTxv3jwSqTp) | [Djonga](https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY) | [Inocente "Demotape"](https://open.spotify.com/album/0buVrEIwifWoGnpQ7fhZgk) | 2:53 |
 
-Snapshot ID: `MCwwZWRjYzY1ZTE4MTg0ZTkyNjRiNmM3MGEyNWE4MTk3ZTZhOTEwMGFh`
+Snapshot ID: `MCxmZWI2MDMyZjZlNjhiNTIxNzRkMDg0ZDAxODg0ZGZiMmJmNDNjMzYy`

@@ -1,12 +1,12 @@
 {
   "description": "This is the Latin soundtrack of the 70s! Cover:  Jos\u00e9 Jos\u00e9",
-  "num_followers": 46216,
+  "num_followers": 46256,
   "original_name": "70s Latino",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0N2NiNjU1MDM4YmVjN2M1NmI1ZDQyN2FhOGRiYWU2MWY4ZGM3NWQ0",
+  "snapshot_id": "MCxmNTRlODdkN2JiMzQxMzIwZGNlOGYxZDkzMGE5Zjg4ZmRhODg3Nzdl",
   "tracks": [
     {
       "added_at": "2023-02-17 20:59:31",
@@ -1003,22 +1003,6 @@
     {
       "added_at": "2023-02-17 20:59:31",
       "album": {
-        "name": "La Mas Completa Coleccion",
-        "url": "https://open.spotify.com/album/6ie8SesJgc1UflnOl42NHB"
-      },
-      "artists": [
-        {
-          "name": "Pablo Milan\u00e9s",
-          "url": "https://open.spotify.com/artist/4vOfKh5wz7lTcdqB3EwsC5"
-        }
-      ],
-      "duration_ms": 284240,
-      "name": "Yolanda",
-      "url": "https://open.spotify.com/track/1EgnAsCvnFg6AgMV28xApT"
-    },
-    {
-      "added_at": "2023-02-17 20:59:31",
-      "album": {
         "name": "Celia & Johnny",
         "url": "https://open.spotify.com/album/416lPCtckkTOPYQslZ6QH1"
       },
@@ -1035,6 +1019,22 @@
       "duration_ms": 195360,
       "name": "Vieja Luna",
       "url": "https://open.spotify.com/track/2NafN7tmTGpqOJeEvQ9DZU"
+    },
+    {
+      "added_at": "2023-02-17 20:59:31",
+      "album": {
+        "name": "La Mas Completa Coleccion",
+        "url": "https://open.spotify.com/album/6ie8SesJgc1UflnOl42NHB"
+      },
+      "artists": [
+        {
+          "name": "Pablo Milan\u00e9s",
+          "url": "https://open.spotify.com/artist/4vOfKh5wz7lTcdqB3EwsC5"
+        }
+      ],
+      "duration_ms": 284240,
+      "name": "Yolanda",
+      "url": "https://open.spotify.com/track/1EgnAsCvnFg6AgMV28xApT"
     },
     {
       "added_at": "2023-02-17 20:59:31",
@@ -1175,22 +1175,6 @@
     {
       "added_at": "2023-02-17 20:59:31",
       "album": {
-        "name": "La Gran Coleccion Del 60 Aniversario CBS - Pedro Fernandez",
-        "url": "https://open.spotify.com/album/352knvMHml1CF221Etuqnw"
-      },
-      "artists": [
-        {
-          "name": "Pedrito Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/4Vqref81u7WVsS0OhbJwDk"
-        }
-      ],
-      "duration_ms": 167893,
-      "name": "La de la Mochila Azul - Tema Remasterizado",
-      "url": "https://open.spotify.com/track/7mAJhTUR86m8za71QGYIMK"
-    },
-    {
-      "added_at": "2023-02-17 20:59:31",
-      "album": {
         "name": "Serie de Autores - Vol. II, Manuel Alejandro",
         "url": "https://open.spotify.com/album/4pRW2FxKY2Ir5sNqSPwh5g"
       },
@@ -1203,6 +1187,22 @@
       "duration_ms": 319293,
       "name": "Voy a Perder la Cabeza por Tu Amor",
       "url": "https://open.spotify.com/track/6aOHV5MoVmS5UeHEhXIXtT"
+    },
+    {
+      "added_at": "2023-02-17 20:59:31",
+      "album": {
+        "name": "La Gran Coleccion Del 60 Aniversario CBS - Pedro Fernandez",
+        "url": "https://open.spotify.com/album/352knvMHml1CF221Etuqnw"
+      },
+      "artists": [
+        {
+          "name": "Pedrito Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/4Vqref81u7WVsS0OhbJwDk"
+        }
+      ],
+      "duration_ms": 167893,
+      "name": "La de la Mochila Azul - Tema Remasterizado",
+      "url": "https://open.spotify.com/track/7mAJhTUR86m8za71QGYIMK"
     },
     {
       "added_at": "2023-02-17 20:59:31",

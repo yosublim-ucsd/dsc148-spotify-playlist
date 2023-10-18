@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVzZlRWgqAGH.md) - [plain]
 
 > Smooth joints\. Cover: Bakar
 
-[Spotify](https://open.spotify.com/user/spotify) - 791,694 likes - 100 songs - 5 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 791,750 likes - 100 songs - 5 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVzZlRWgqAGH.md) - [plain]
 | 2 | [Regardless](https://open.spotify.com/track/1lkG393ntU03g6Y2pNKTj6) | [Naomi Sharon](https://open.spotify.com/artist/27WVFBOddxovimxMmBN4fb) | [Regardless](https://open.spotify.com/album/3kf4QtJyUo1YGs9eNJLOD7) | 3:09 |
 | 3 | [Someone I Knew](https://open.spotify.com/track/1fbgXK7wcdKu42CI5l0dTP) | [TOBi](https://open.spotify.com/artist/0P54cVemq1DCHUfUMlWAoN) | [Someone I Knew](https://open.spotify.com/album/2WpilJ7vktkFimmAKuuAay) | 4:28 |
 | 4 | [Self](https://open.spotify.com/track/0J9uaeOd7GZi9MTybtqAD4) | [Cleo Sol](https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq) | [Heaven](https://open.spotify.com/album/6aWsHOGYXoEY1kxnxGMLwU) | 3:19 |
-| 5 | [LUV N DEVOTION](https://open.spotify.com/track/2C2KmQyeGfMVULfrdMVs8i) | [DESTIN CONRAD](https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ) | [LUV N DEVOTION](https://open.spotify.com/album/5R8TDNyNfrrh9PprKnl8Ig) | 3:03 |
+| 5 | [LUV N DEVOTION](https://open.spotify.com/track/2C2KmQyeGfMVULfrdMVs8i) | [DESTIN CONRAD](https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ) | [LUV N DEVOTION](https://open.spotify.com/album/5R8TDNyNfrrh9PprKnl8Ig) | 3:01 |
 | 6 | [Waiting For You \(feat\. Naomi Sharon\)](https://open.spotify.com/track/6Dae6DNW72nLZ6KGyE7aeH) | [Majid Jordan](https://open.spotify.com/artist/4HzKw8XcD0piJmDrrPRCYk), [Naomi Sharon](https://open.spotify.com/artist/27WVFBOddxovimxMmBN4fb) | [Waiting For You \(feat\. Naomi Sharon\)](https://open.spotify.com/album/09l5EnCPP1AKIqaozUT6LQ) | 3:39 |
 | 7 | [311!](https://open.spotify.com/track/4tQPhI1lvsqsyqT7AOwwdG) | [Gallant](https://open.spotify.com/artist/7wFDo161xYdeaiLz3KIHoM), [sneek](https://open.spotify.com/artist/6O4EoU7wO1VU8yAEhbIii5), [Terrace Martin](https://open.spotify.com/artist/7MNEVabc4cs19CbzAFZmXz), [Robert Glasper & Keyon Harrold](https://open.spotify.com/artist/0PWMzZR4AE7UW9ypDiXVbJ) | [311!](https://open.spotify.com/album/0FW36xz6JNy9uIFx9TOWs3) | 3:26 |
 | 8 | [Rora](https://open.spotify.com/track/5Qj74EnGXZ0V2TGzUKlZuq) | [Boj](https://open.spotify.com/artist/4qYpTEJThZ8FC8KzyFrSWW), [Ajebutter22](https://open.spotify.com/artist/36gl2NBJNRaQakdS4fTKGW) | [Rora](https://open.spotify.com/album/1uZCXiwB6JKI6Z9bSejdzC) | 2:23 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVzZlRWgqAGH.md) - [plain]
 | 99 | [Road Of The Lonely Ones](https://open.spotify.com/track/4VaICpePVA67Wqvv8SryFr) | [Madlib](https://open.spotify.com/artist/5LhTec3c7dcqBvpLRWbMcf) | [Road Of The Lonely Ones](https://open.spotify.com/album/28MiwOX8Od693aOkUnEgsf) | 3:38 |
 | 100 | [World In My Hands](https://open.spotify.com/track/4c2HeCpHJ3VzN8RyEoULTW) | [LAVI$H](https://open.spotify.com/artist/5E4159ttrOB57XW0YdLT32) | [World In My Hands](https://open.spotify.com/album/4VbYBboyCVdKFJ0eh9ATfT) | 3:14 |
 
-Snapshot ID: `MCxiMTZhNTYwMDYwZTEwYjQ3MGM2YmEwODU3YjUyYmM3MjFlODk2ZThm`
+Snapshot ID: `MCwxNGM3MTBlODA1ODBiODA5YWYxYWYxMTIzOGFkYTVjNTk0OGNmZjUz`

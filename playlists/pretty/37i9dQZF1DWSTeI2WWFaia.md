@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSTeI2WWFaia.md) - [plain]
 
 > Lyrical, lo\-fi, and lowlife raps\. Cover: Earl Sweatshirt
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,617,284 likes - 50 songs - 2 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,617,264 likes - 50 songs - 2 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,11 +52,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSTeI2WWFaia.md) - [plain]
 | 42 | [Dangerous Daringer](https://open.spotify.com/track/1w2xoRbbcADDTkGnYzVUwK) | [Sauce Walka](https://open.spotify.com/artist/42yf4QkiE9a252krn9OUCb), [Conway the Machine](https://open.spotify.com/artist/67gqUXxHedeUGDTxwBzdjS) | [Dangerous Daringer](https://open.spotify.com/album/23XUd1b01eLd9v4IczWdvI) | 4:09 |
 | 43 | [ALL 4 YOU](https://open.spotify.com/track/6PTEIszOGU733zIulViPjo) | [Mike Dimes](https://open.spotify.com/artist/6rIaHuCIUu32uj2CjlEBN3) | [TEXAS BOY](https://open.spotify.com/album/3MtKbdsPYG1uJWwk16qAVH) | 2:54 |
 | 44 | [FromTheProjects \(feat\. Raekwon & Westside Gunn\)](https://open.spotify.com/track/5BKde6HGrLmsGCOIwYwhwY) | [Nappyhigh](https://open.spotify.com/artist/4MnQuPFIfAFg50h0RmnH0q), [Raekwon](https://open.spotify.com/artist/2yQf6b8hxahZaT5dHlWaB1), [Westside Gunn](https://open.spotify.com/artist/0ABk515kENDyATUdpCKVfW) | [FromTheProjects \(feat\. Raekwon & Westside Gunn\)](https://open.spotify.com/album/1gBwiVRUudP3d2z5ti1oUB) | 2:35 |
-| 45 | [Passion](https://open.spotify.com/track/6oVLxrogWL86DNet6SR6y2) | [Millyz](https://open.spotify.com/artist/7dDYME7Y3GoEQotd8gUvQg) | [Passion](https://open.spotify.com/album/3AFkefqinn7Jz7DuvuvLoe) | 3:05 |
+| 45 | [Phoenix](https://open.spotify.com/track/4SDtLLn8LmbOStJeL9Vhkk) | [Lord Apex](https://open.spotify.com/artist/052uglZ4PgpVs8YxEOViXz), [Freddie Gibbs](https://open.spotify.com/artist/0Y4inQK6OespitzD6ijMwb) | [Phoenix](https://open.spotify.com/album/3Vjb7MVaReVbjw4yXbMp5j) | 3:33 |
 | 46 | [Bless \(feat\. MIKE & Sideshow\)](https://open.spotify.com/track/2iPfam65gH9PWFplrBXwDW) | [The Alchemist](https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu), [MIKE](https://open.spotify.com/artist/1wlzPS1hSNrkriIIwLFTmU), [Sideshow](https://open.spotify.com/artist/53xeKWbSRuGgTxViJTAZKC) | [Flying High](https://open.spotify.com/album/3mn50bgjlejMFXVaOig2Pz) | 2:59 |
 | 47 | [beauty supply](https://open.spotify.com/track/4oevXziJVFARkGMty2HdFF) | [Noname](https://open.spotify.com/artist/1EpyA68dKpjf7jXmQL88Hy) | [Sundial](https://open.spotify.com/album/1RThtoZbeE7OQHMBzaBCJt) | 3:13 |
-| 48 | [What This All Really Means](https://open.spotify.com/track/6IkrEMj1yTPyZr5bk8PmGF) | [Nas](https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q) | [Magic 2](https://open.spotify.com/album/2TcGsG6Ht4iMbEQ0u62Rbz) | 3:00 |
-| 49 | [Phoenix](https://open.spotify.com/track/4SDtLLn8LmbOStJeL9Vhkk) | [Lord Apex](https://open.spotify.com/artist/052uglZ4PgpVs8YxEOViXz), [Freddie Gibbs](https://open.spotify.com/artist/0Y4inQK6OespitzD6ijMwb) | [Phoenix](https://open.spotify.com/album/3Vjb7MVaReVbjw4yXbMp5j) | 3:33 |
+| 48 | [Passion](https://open.spotify.com/track/6oVLxrogWL86DNet6SR6y2) | [Millyz](https://open.spotify.com/artist/7dDYME7Y3GoEQotd8gUvQg) | [Passion](https://open.spotify.com/album/3AFkefqinn7Jz7DuvuvLoe) | 3:05 |
+| 49 | [What This All Really Means](https://open.spotify.com/track/6IkrEMj1yTPyZr5bk8PmGF) | [Nas](https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q) | [Magic 2](https://open.spotify.com/album/2TcGsG6Ht4iMbEQ0u62Rbz) | 3:00 |
 | 50 | [Life & Times](https://open.spotify.com/track/72yDZnVtbbtfWLYWvonF9f) | [Statik Selektah](https://open.spotify.com/artist/5v0XTlB9FqNvfBfnw8n5b0), [Joey Bada$$](https://open.spotify.com/artist/2P5sC9cVZDToPxyomzF1UH) | [Round Trip](https://open.spotify.com/album/0PQ4npF4hXGSfNnwkxmEQ9) | 3:14 |
 
-Snapshot ID: `MCxhZDI1ZTliYzhiYmVjNmM4NjgzZGE5ZjIxNmMyNzU1ZWU2MGRkY2I2`
+Snapshot ID: `MCxmOTIyMDJmNWQ3Nzc2Yjc5NzYxMzNhZDgwMzdiMDRjODdlNWI5NjU1`

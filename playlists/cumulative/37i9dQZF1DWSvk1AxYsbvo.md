@@ -4,7 +4,7 @@
 
 > 이불 안 속처럼 포근하고 편안한 음악들과 함께 폭신한 기분을 만끽하세요.
 
-164 songs - 9 hr 40 min
+165 songs - 9 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -58,6 +58,7 @@
 | [How did you \(feat\. Baek Yerin\)](https://open.spotify.com/track/2mVb3RIBLffHQsauvkHBuf) | [Ku One Chan](https://open.spotify.com/artist/6ClAFFqc8VEOKSGTrvy8V5), [Yerin Baek](https://open.spotify.com/artist/6dhfy4ByARPJdPtMyrUYJK) | [How did you \(feat\. Baek Yerin\)](https://open.spotify.com/album/1QAenbdPhvPmioXem29cTV) | 4:09 | 2022-05-03 |  |
 | [i and i](https://open.spotify.com/track/33PhGGthxOh1gmUCW28gMB) | [NavyQuokka](https://open.spotify.com/artist/0NboRG7IHfknCcdBSdIrxW) | [i and i](https://open.spotify.com/album/6DnaYS5enLDhJwz5KbQwrU) | 2:58 | 2022-06-18 |  |
 | [I Wanna Be With You](https://open.spotify.com/track/4BRllgokpqghTc6b52mDMa) | [kimujoo](https://open.spotify.com/artist/73uqvuVKEZuS1oWupN2Btf) | [When I'm With You](https://open.spotify.com/album/08tAEJdZVHvS1I9RzZZaxp) | 3:24 | 2022-05-03 | 2022-12-30 |
+| [I Wanna Be With You](https://open.spotify.com/track/5MePbEuuuTGWDJi6UbNFgb) | [kimujoo](https://open.spotify.com/artist/73uqvuVKEZuS1oWupN2Btf) | [When I'm With You](https://open.spotify.com/album/0WBqQSi54g3khAPyVTGHhv) | 3:24 | 2023-10-16 |  |
 | [I'm not drunken](https://open.spotify.com/track/1MP9FZTsFYapBGdgJWVcNO) | [이층버스](https://open.spotify.com/artist/7wF8XnangErTa3w9hILf13) | [Can you hear my heart](https://open.spotify.com/album/40KoO74KTCRxeegC2q78y2) | 3:38 | 2022-05-03 | 2022-07-21 |
 | [If](https://open.spotify.com/track/3go56fUuNPhwvZifMuTnpJ) | [Standing Egg](https://open.spotify.com/artist/6a3Mfrn2XBR1DfPg1QGa1d) | [If](https://open.spotify.com/album/5M7zOeOjBLJDQaSkDotiH5) | 4:11 | 2022-08-09 |  |
 | [iMessage \(feat\. Yeongene\)](https://open.spotify.com/track/3UASE6XnUUZnajVFc8DgBm) | [Uaieo](https://open.spotify.com/artist/1l7VfnSmASgvPvDKbDPXFf), [Yeongene](https://open.spotify.com/artist/6EIodgHkqbx8zdgFCE06CL) | [iMessage](https://open.spotify.com/album/1dKIGupdr1iOs4cIqPK1JW) | 3:18 | 2022-06-18 | 2022-07-28 |
@@ -81,7 +82,7 @@
 | [Mm Mm \- Acoustic Version](https://open.spotify.com/track/428iUXlTZHt72HsrP0FbVX) | [SOLE](https://open.spotify.com/artist/6naXFodImN2DwRmKCQHAUt) | [Mm Mm](https://open.spotify.com/album/0NS9viwwEi04L7H8ObWJMD) | 2:54 | 2022-05-03 | 2022-07-29 |
 | [Monologue](https://open.spotify.com/track/7fNmFxnGqipleYaNDnnVHj) | [김수영 Kim Suyoung](https://open.spotify.com/artist/7nj9JLgGDx7CRNUKzptaCj) | [Don't Know](https://open.spotify.com/album/5jnvJERFgLcdXTtlaY8yMI) | 3:30 | 2022-05-03 | 2022-07-29 |
 | [Monologue \(unplugged.\)](https://open.spotify.com/track/6jq9HQzudzT17QuXfH4Ebv) | [Shin Ji Hoon](https://open.spotify.com/artist/0RpcAXbMHCcEEurjyHvuyg) | [youth](https://open.spotify.com/album/2qyRTNUHodWjs2FrP7tAYv) | 2:52 | 2022-05-03 | 2022-07-24 |
-| [moon river \(2021\)](https://open.spotify.com/track/3PdER8czrfvUUjtEbvynjp) | [Shin Ji Hoon](https://open.spotify.com/artist/0RpcAXbMHCcEEurjyHvuyg) | [A story that will turn into a poem](https://open.spotify.com/album/4pwFaLkL7sfjhD1O6IZPqF) | 3:13 | 2022-05-03 |  |
+| [moon river \(2021\)](https://open.spotify.com/track/3PdER8czrfvUUjtEbvynjp) | [Shin Ji Hoon](https://open.spotify.com/artist/0RpcAXbMHCcEEurjyHvuyg) | [A story that will turn into a poem](https://open.spotify.com/album/4pwFaLkL7sfjhD1O6IZPqF) | 3:13 | 2022-05-03 | 2023-10-18 |
 | [Moontanroad \- solo version](https://open.spotify.com/track/2jmaU2iOeMaQ4cM9wYS1Cb) | [D.no](https://open.spotify.com/artist/65XxCQXyj2MZ99bQmxgavW) | [d'motive](https://open.spotify.com/album/7agoIZYuOrEpnhIobnqZfO) | 3:30 | 2022-05-03 | 2022-07-19 |
 | [More](https://open.spotify.com/track/6RLU0sBE445FdnxoXr7kYT) | [Around](https://open.spotify.com/artist/30imnk1KS3eh6441SlwbGt) | [More](https://open.spotify.com/album/5jJdbTjdiwPyjVCJjOQbKY) | 2:36 | 2022-07-04 | 2022-07-06 |
 | [Moving](https://open.spotify.com/track/4jzNb4SziJCRL7K7dVimn7) | [Krr](https://open.spotify.com/artist/2wCEpu2tMAildqH0BrJNT7) | [Moving](https://open.spotify.com/album/0T2md2tJWwA35Wl2EFHbiH) | 3:22 | 2022-05-03 | 2023-09-03 |

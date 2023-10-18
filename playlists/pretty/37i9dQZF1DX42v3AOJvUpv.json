@@ -1,12 +1,12 @@
 {
   "description": "Entre peinados, maquillajes y vestimentas ex\u00f3ticas, la est\u00e9tica domin\u00f3 la escena musical de los a\u00f1os \u201980. Foto:<a href=\"spotify:user:spotify:playlist:37i9dQZF1DWThxX36B17XL\"> Soda Stereo</a>",
-  "num_followers": 39555,
+  "num_followers": 39578,
   "original_name": "Jet Set",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzNmQ4YjFmZjIxOTAyZjlkNjQzNjFjOGZlZmNmNTdlYWUxMjAxMDZh",
+  "snapshot_id": "MCwzNjYzNWViNzVlNzM1YWJiZDY3MDVmYWQ4MzU5YmZiYTk3ZDE0N2M0",
   "tracks": [
     {
       "added_at": "2020-03-16 16:12:42",
@@ -655,22 +655,6 @@
     {
       "added_at": "2020-03-16 16:12:42",
       "album": {
-        "name": "Ritual De Los Pericos",
-        "url": "https://open.spotify.com/album/0BLRRSjs02ejUyDDIfYRSb"
-      },
-      "artists": [
-        {
-          "name": "Los Pericos",
-          "url": "https://open.spotify.com/artist/7FnZWGw9lwOr7WzieTKEPR"
-        }
-      ],
-      "duration_ms": 219960,
-      "name": "El Ritual De La Banana",
-      "url": "https://open.spotify.com/track/1LeGL6sChxxaQbFhKknOcG"
-    },
-    {
-      "added_at": "2020-03-16 16:12:42",
-      "album": {
         "name": "Heroes / Antologia 1986 - 1988",
         "url": "https://open.spotify.com/album/5hTIPpvzJIy2Os07sMSWP5"
       },
@@ -683,6 +667,22 @@
       "duration_ms": 379866,
       "name": "H\u00e9roes",
       "url": "https://open.spotify.com/track/0tj6CJdNcyU7L8hc61KXAE"
+    },
+    {
+      "added_at": "2020-03-16 16:12:42",
+      "album": {
+        "name": "Ritual De Los Pericos",
+        "url": "https://open.spotify.com/album/0BLRRSjs02ejUyDDIfYRSb"
+      },
+      "artists": [
+        {
+          "name": "Los Pericos",
+          "url": "https://open.spotify.com/artist/7FnZWGw9lwOr7WzieTKEPR"
+        }
+      ],
+      "duration_ms": 219960,
+      "name": "El Ritual De La Banana",
+      "url": "https://open.spotify.com/track/1LeGL6sChxxaQbFhKknOcG"
     },
     {
       "added_at": "2020-03-16 16:12:42",

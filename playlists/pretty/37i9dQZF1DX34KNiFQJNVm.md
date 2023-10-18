@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 
 > Os lançamentos dessa semana incluem Ana Castela, Djonga, Mc Davi, Di Propósito, Avine Vinny e João Gomes e muito mais
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,918,943 likes - 98 songs - 4 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,919,213 likes - 98 songs - 4 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -107,4 +107,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 | 97 | [1,2 Joga de Ladinho](https://open.spotify.com/track/0sDYgMAbERBwwPFWVLWHej) | [Mc Arizinho](https://open.spotify.com/artist/61pcuATJNEvZCXhO2DqC1F), [DJ TAK VADIÃO](https://open.spotify.com/artist/4U3o74Io4hwQPsm6iIj4fu), [Doug Hits](https://open.spotify.com/artist/11rNmgKeDd6wHHvvhzPHH9) | [1,2 Joga de Ladinho](https://open.spotify.com/album/1HnwLLEn4H7N8CRddjNpck) | 2:42 |
 | 98 | [Tamanho G Grandão](https://open.spotify.com/track/3Br8QpyeJxVbSPZHbGkqvq) | [MC Durrony](https://open.spotify.com/artist/2s1GtomGAJ3fnqQBkUXbIL) | [Tamanho G Grandão](https://open.spotify.com/album/2KrIHAFNcBO4ZLWsuGMHJD) | 3:08 |
 
-Snapshot ID: `MCwzNWMzZTg5YWY0YTZlZmEyYjQxNzZiNzRkOTlkMjlhMzk0Yjk3Y2Yw`
+Snapshot ID: `MCw2ZjQzMWVkMGQ3ZmEyZTNhOWEwYjA0NGI4OWI3ZmRlZjYxYjllZGMy`

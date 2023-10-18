@@ -68,6 +68,28 @@
     {
       "album": {
         "name": "7 de febrero",
+        "url": "https://open.spotify.com/album/3drXdjre1aVmmXy43XDvbs"
+      },
+      "artists": [
+        {
+          "name": "Yara",
+          "url": "https://open.spotify.com/artist/4Yy7BNU597L8XTM2qjwgPv"
+        },
+        {
+          "name": "Yorkinson",
+          "url": "https://open.spotify.com/artist/5a34fiAtb9hOllbTqKUvSK"
+        }
+      ],
+      "date_added": "2023-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193953,
+      "name": "7 de febrero",
+      "url": "https://open.spotify.com/track/2S0RpAiBKgdVyelIjFDc0L"
+    },
+    {
+      "album": {
+        "name": "7 de febrero",
         "url": "https://open.spotify.com/album/0zxVXD6oNCN1u6JxljLQfo"
       },
       "artists": [
@@ -3224,7 +3246,7 @@
       ],
       "date_added": "2023-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-18",
       "duration_ms": 200283,
       "name": "Perderme",
       "url": "https://open.spotify.com/track/5m1QnfGXl5gNqZ5tp48GyT"

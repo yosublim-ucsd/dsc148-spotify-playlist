@@ -1,12 +1,12 @@
 {
   "description": "The ever-evolving sound of Alt! Cover: Gable Price and Friends",
-  "num_followers": 234574,
+  "num_followers": 234636,
   "original_name": "Ultimate Christian Alternative",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4M2I3MzczMjFlNjgyMmJkNGQwY2NkYTc5M2Y2MTU5YzBkNmI0YTA0",
+  "snapshot_id": "MCw4NDBmZjBkNzFmZGY1NDA3NWZmYzI2ZjM3ODE2YTkxMjFhNDUzMGU4",
   "tracks": [
     {
       "added_at": "2022-12-16 05:02:00",
@@ -551,22 +551,6 @@
     {
       "added_at": "2022-12-16 05:02:00",
       "album": {
-        "name": "Leave What's Lost Behind",
-        "url": "https://open.spotify.com/album/7aYN3ImZcHkloKR4LGvHcV"
-      },
-      "artists": [
-        {
-          "name": "Colony House",
-          "url": "https://open.spotify.com/artist/6R664N4cEza3eORSqKSgO4"
-        }
-      ],
-      "duration_ms": 249386,
-      "name": "The Hope Inside",
-      "url": "https://open.spotify.com/track/4ayryg0lW8w3FIibi0UcWb"
-    },
-    {
-      "added_at": "2022-12-16 05:02:00",
-      "album": {
         "name": "Where The Winter Was",
         "url": "https://open.spotify.com/album/5aHds2df6eKrOirRI9895D"
       },
@@ -579,6 +563,22 @@
       "duration_ms": 210586,
       "name": "Not So Sure",
       "url": "https://open.spotify.com/track/50l0btNM2EyBEXJbAIri9U"
+    },
+    {
+      "added_at": "2022-12-16 05:02:00",
+      "album": {
+        "name": "Leave What's Lost Behind",
+        "url": "https://open.spotify.com/album/7aYN3ImZcHkloKR4LGvHcV"
+      },
+      "artists": [
+        {
+          "name": "Colony House",
+          "url": "https://open.spotify.com/artist/6R664N4cEza3eORSqKSgO4"
+        }
+      ],
+      "duration_ms": 249386,
+      "name": "The Hope Inside",
+      "url": "https://open.spotify.com/track/4ayryg0lW8w3FIibi0UcWb"
     },
     {
       "added_at": "2022-12-16 05:02:00",
@@ -703,26 +703,6 @@
     {
       "added_at": "2022-12-16 05:02:00",
       "album": {
-        "name": "Nothing To Buy",
-        "url": "https://open.spotify.com/album/36XduRuhm8VvFCWAgdr8zl"
-      },
-      "artists": [
-        {
-          "name": "Rita Springer",
-          "url": "https://open.spotify.com/artist/0XnterAMV09fuPjq4joR0c"
-        },
-        {
-          "name": "kalley",
-          "url": "https://open.spotify.com/artist/1VfUR2Su5Ags5Im3mZGnPo"
-        }
-      ],
-      "duration_ms": 267106,
-      "name": "Nothing To Buy",
-      "url": "https://open.spotify.com/track/3EuZbohxMO9P7C8UbkEpaT"
-    },
-    {
-      "added_at": "2022-12-16 05:02:00",
-      "album": {
         "name": "Twenty",
         "url": "https://open.spotify.com/album/05Lk7Ave4ANejifje8LKCZ"
       },
@@ -735,22 +715,6 @@
       "duration_ms": 262254,
       "name": "Run - Twenty Version",
       "url": "https://open.spotify.com/track/6Qg4obUZBQ0R8M1Q3Lg6mN"
-    },
-    {
-      "added_at": "2022-12-16 05:02:00",
-      "album": {
-        "name": "Hold On",
-        "url": "https://open.spotify.com/album/0WP1SzAIHrXKAaNbCG8fYV"
-      },
-      "artists": [
-        {
-          "name": "Corey Voss",
-          "url": "https://open.spotify.com/artist/1eqQW3Oj7MHXK05b8O5RHa"
-        }
-      ],
-      "duration_ms": 249495,
-      "name": "Hold On",
-      "url": "https://open.spotify.com/track/23VrO89DkfhYigoLPvEnm7"
     },
     {
       "added_at": "2022-12-16 05:02:00",
@@ -775,6 +739,42 @@
       "duration_ms": 183000,
       "name": "WILD THINGS",
       "url": "https://open.spotify.com/track/1l6q0BU9csN5AEvVBdyc2l"
+    },
+    {
+      "added_at": "2022-12-16 05:02:00",
+      "album": {
+        "name": "Hold On",
+        "url": "https://open.spotify.com/album/0WP1SzAIHrXKAaNbCG8fYV"
+      },
+      "artists": [
+        {
+          "name": "Corey Voss",
+          "url": "https://open.spotify.com/artist/1eqQW3Oj7MHXK05b8O5RHa"
+        }
+      ],
+      "duration_ms": 249495,
+      "name": "Hold On",
+      "url": "https://open.spotify.com/track/23VrO89DkfhYigoLPvEnm7"
+    },
+    {
+      "added_at": "2022-12-16 05:02:00",
+      "album": {
+        "name": "Nothing To Buy",
+        "url": "https://open.spotify.com/album/36XduRuhm8VvFCWAgdr8zl"
+      },
+      "artists": [
+        {
+          "name": "Rita Springer",
+          "url": "https://open.spotify.com/artist/0XnterAMV09fuPjq4joR0c"
+        },
+        {
+          "name": "kalley",
+          "url": "https://open.spotify.com/artist/1VfUR2Su5Ags5Im3mZGnPo"
+        }
+      ],
+      "duration_ms": 267106,
+      "name": "Nothing To Buy",
+      "url": "https://open.spotify.com/track/3EuZbohxMO9P7C8UbkEpaT"
     },
     {
       "added_at": "2022-12-16 05:02:00",
@@ -1531,6 +1531,22 @@
     {
       "added_at": "2022-12-16 05:02:00",
       "album": {
+        "name": "Coming Clean",
+        "url": "https://open.spotify.com/album/0caMEZCVkxxyhcmYLlxt31"
+      },
+      "artists": [
+        {
+          "name": "Spencer Annis",
+          "url": "https://open.spotify.com/artist/3PcnAVq9b3HyDUkNFTvyUu"
+        }
+      ],
+      "duration_ms": 183066,
+      "name": "Coming Clean",
+      "url": "https://open.spotify.com/track/3k9ULygUi36i85Nr0jw6aR"
+    },
+    {
+      "added_at": "2022-12-16 05:02:00",
+      "album": {
         "name": "Father",
         "url": "https://open.spotify.com/album/5LhlgmewVgxyWbYUfGxk9b"
       },
@@ -1551,22 +1567,6 @@
     {
       "added_at": "2022-12-16 05:02:00",
       "album": {
-        "name": "Coming Clean",
-        "url": "https://open.spotify.com/album/0caMEZCVkxxyhcmYLlxt31"
-      },
-      "artists": [
-        {
-          "name": "Spencer Annis",
-          "url": "https://open.spotify.com/artist/3PcnAVq9b3HyDUkNFTvyUu"
-        }
-      ],
-      "duration_ms": 183066,
-      "name": "Coming Clean",
-      "url": "https://open.spotify.com/track/3k9ULygUi36i85Nr0jw6aR"
-    },
-    {
-      "added_at": "2022-12-16 05:02:00",
-      "album": {
         "name": "Conversation",
         "url": "https://open.spotify.com/album/5waJx72B7sI3cYPhVDfd7F"
       },
@@ -1583,22 +1583,6 @@
     {
       "added_at": "2022-12-16 05:02:00",
       "album": {
-        "name": "Between The Joy And The Sorrow - Part 2",
-        "url": "https://open.spotify.com/album/6wUCazGhDr64fdK4cYogNZ"
-      },
-      "artists": [
-        {
-          "name": "Ian Yates",
-          "url": "https://open.spotify.com/artist/1f4Ai5lRAeK0wameps1zqU"
-        }
-      ],
-      "duration_ms": 202000,
-      "name": "Between The Joy And The Sorrow",
-      "url": "https://open.spotify.com/track/5jxbNNre9WDXom2hyJeE2e"
-    },
-    {
-      "added_at": "2022-12-16 05:02:00",
-      "album": {
         "name": "Praise",
         "url": "https://open.spotify.com/album/1w5KYaGwCBN3w6lYo8JFqY"
       },
@@ -1611,6 +1595,22 @@
       "duration_ms": 232703,
       "name": "Here We Are",
       "url": "https://open.spotify.com/track/0OP39BJAaQ2129up8OxmWO"
+    },
+    {
+      "added_at": "2022-12-16 05:02:00",
+      "album": {
+        "name": "Between The Joy And The Sorrow - Part 2",
+        "url": "https://open.spotify.com/album/6wUCazGhDr64fdK4cYogNZ"
+      },
+      "artists": [
+        {
+          "name": "Ian Yates",
+          "url": "https://open.spotify.com/artist/1f4Ai5lRAeK0wameps1zqU"
+        }
+      ],
+      "duration_ms": 202000,
+      "name": "Between The Joy And The Sorrow",
+      "url": "https://open.spotify.com/track/5jxbNNre9WDXom2hyJeE2e"
     },
     {
       "added_at": "2022-12-16 05:02:00",
@@ -1695,6 +1695,22 @@
     {
       "added_at": "2022-12-16 05:02:00",
       "album": {
+        "name": "We Won't Bow",
+        "url": "https://open.spotify.com/album/6uVhZExWu73pEfcx9TDXew"
+      },
+      "artists": [
+        {
+          "name": "Kamban",
+          "url": "https://open.spotify.com/artist/0mBDRW65svvamuKzjyB5uP"
+        }
+      ],
+      "duration_ms": 172552,
+      "name": "We Won't Bow",
+      "url": "https://open.spotify.com/track/4ojRBPB2zTHdEN1k7Xjf2U"
+    },
+    {
+      "added_at": "2022-12-16 05:02:00",
+      "album": {
         "name": "Somebody You Knew",
         "url": "https://open.spotify.com/album/3V2XutQhnbyGFH8FSfqw5E"
       },
@@ -1711,22 +1727,6 @@
       "duration_ms": 198997,
       "name": "Hey Jesus",
       "url": "https://open.spotify.com/track/2Uo4QoDPsHkpUNSVJyJYts"
-    },
-    {
-      "added_at": "2022-12-16 05:02:00",
-      "album": {
-        "name": "DANGEROUS",
-        "url": "https://open.spotify.com/album/4bQ7tfvG5eQSbSoMoWlZ7G"
-      },
-      "artists": [
-        {
-          "name": "Anchor & Braille",
-          "url": "https://open.spotify.com/artist/0ofu3spkMmDV3INNoMtXbM"
-        }
-      ],
-      "duration_ms": 222922,
-      "name": "DANGEROUS",
-      "url": "https://open.spotify.com/track/7j0iPwOZJoqO3J66UbPX6l"
     }
   ],
   "unique_name": "Ultimate Christian Alternative",

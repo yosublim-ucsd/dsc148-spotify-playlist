@@ -1,12 +1,12 @@
 {
   "description": "Ingenting peppar en under ett tr\u00e4ningspass som riktigt bra musik.",
-  "num_followers": 5563,
+  "num_followers": 5578,
   "original_name": "Peppl\u00e5tar till tr\u00e4ningspasset",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyNjNlYjA4YmIwNTA1ZTQyOTE5YWQzZTQ2ODJlZThmMzdiMTUyMGRk",
+  "snapshot_id": "MCw5ZjVlNGY2YWMyZGYwYzE3ZGQxYzMxMzlhZTMwMzJmNTRhNGRiOTM1",
   "tracks": [
     {
       "added_at": "2023-10-12 22:00:00",
@@ -903,6 +903,22 @@
     {
       "added_at": "2023-10-12 22:00:00",
       "album": {
+        "name": "Nirvana",
+        "url": "https://open.spotify.com/album/4VrGw3dww2O6U0hZTXOHae"
+      },
+      "artists": [
+        {
+          "name": "A7S",
+          "url": "https://open.spotify.com/artist/5Wg2b4Mp42gicxEeDNawf7"
+        }
+      ],
+      "duration_ms": 157910,
+      "name": "Nirvana",
+      "url": "https://open.spotify.com/track/5zEAGm4yKQ8NMemN0m3rW1"
+    },
+    {
+      "added_at": "2023-10-12 22:00:00",
+      "album": {
         "name": "Never Love You Again",
         "url": "https://open.spotify.com/album/7eWg7UKU6LsRSvXthmlmZZ"
       },
@@ -923,22 +939,6 @@
       "duration_ms": 191329,
       "name": "Never Love You Again",
       "url": "https://open.spotify.com/track/676tQQmFrilCR8L7kxRcGd"
-    },
-    {
-      "added_at": "2023-10-12 22:00:00",
-      "album": {
-        "name": "Nirvana",
-        "url": "https://open.spotify.com/album/4VrGw3dww2O6U0hZTXOHae"
-      },
-      "artists": [
-        {
-          "name": "A7S",
-          "url": "https://open.spotify.com/artist/5Wg2b4Mp42gicxEeDNawf7"
-        }
-      ],
-      "duration_ms": 157910,
-      "name": "Nirvana",
-      "url": "https://open.spotify.com/track/5zEAGm4yKQ8NMemN0m3rW1"
     },
     {
       "added_at": "2023-10-12 22:00:00",
@@ -1015,22 +1015,6 @@
     {
       "added_at": "2023-10-12 22:00:00",
       "album": {
-        "name": "Dumb",
-        "url": "https://open.spotify.com/album/3DmtKnIJ7d7OJlLe3eHHmz"
-      },
-      "artists": [
-        {
-          "name": "A7S",
-          "url": "https://open.spotify.com/artist/5Wg2b4Mp42gicxEeDNawf7"
-        }
-      ],
-      "duration_ms": 149653,
-      "name": "Dumb",
-      "url": "https://open.spotify.com/track/5ij0EuOJmqzwBqVIzBAXbb"
-    },
-    {
-      "added_at": "2023-10-12 22:00:00",
-      "album": {
         "name": "1 Day 2 Nights",
         "url": "https://open.spotify.com/album/4QKRzndxnaFsUKGLAQb4Ou"
       },
@@ -1043,6 +1027,22 @@
       "duration_ms": 138200,
       "name": "1 Day 2 Nights",
       "url": "https://open.spotify.com/track/2LAtELE0xGyMKcvNlxiyF3"
+    },
+    {
+      "added_at": "2023-10-12 22:00:00",
+      "album": {
+        "name": "Dumb",
+        "url": "https://open.spotify.com/album/3DmtKnIJ7d7OJlLe3eHHmz"
+      },
+      "artists": [
+        {
+          "name": "A7S",
+          "url": "https://open.spotify.com/artist/5Wg2b4Mp42gicxEeDNawf7"
+        }
+      ],
+      "duration_ms": 149653,
+      "name": "Dumb",
+      "url": "https://open.spotify.com/track/5ij0EuOJmqzwBqVIzBAXbb"
     },
     {
       "added_at": "2023-10-12 22:00:00",
@@ -1243,6 +1243,22 @@
     {
       "added_at": "2023-10-12 22:00:00",
       "album": {
+        "name": "Heartbreakmiljon\u00e4r",
+        "url": "https://open.spotify.com/album/0b4MV4Nget3iV9y2vi7Ewz"
+      },
+      "artists": [
+        {
+          "name": "Oscar Zia",
+          "url": "https://open.spotify.com/artist/42TbHQxJ8d94CD93vAoDgl"
+        }
+      ],
+      "duration_ms": 193703,
+      "name": "Heartbreakmiljon\u00e4r",
+      "url": "https://open.spotify.com/track/2li3Mf9nEwOkvQ43QUNh0j"
+    },
+    {
+      "added_at": "2023-10-12 22:00:00",
+      "album": {
         "name": "Year of the Young",
         "url": "https://open.spotify.com/album/0WNXPe1PeWAhFMfsXj1iPi"
       },
@@ -1291,22 +1307,6 @@
       "duration_ms": 153442,
       "name": "Smells Like Teen Spirit",
       "url": "https://open.spotify.com/track/01T0m32L0lgGS8EJTbN26x"
-    },
-    {
-      "added_at": "2023-10-12 22:00:00",
-      "album": {
-        "name": "Heartbreakmiljon\u00e4r",
-        "url": "https://open.spotify.com/album/0b4MV4Nget3iV9y2vi7Ewz"
-      },
-      "artists": [
-        {
-          "name": "Oscar Zia",
-          "url": "https://open.spotify.com/artist/42TbHQxJ8d94CD93vAoDgl"
-        }
-      ],
-      "duration_ms": 193703,
-      "name": "Heartbreakmiljon\u00e4r",
-      "url": "https://open.spotify.com/track/2li3Mf9nEwOkvQ43QUNh0j"
     },
     {
       "added_at": "2023-10-12 22:00:00",
@@ -1559,6 +1559,26 @@
     {
       "added_at": "2023-10-12 22:00:00",
       "album": {
+        "name": "Tequila",
+        "url": "https://open.spotify.com/album/7IxBfo8uxIpu8GHslBHikQ"
+      },
+      "artists": [
+        {
+          "name": "Dimitri Vangelis & Wyman",
+          "url": "https://open.spotify.com/artist/10hGPIDZi33LRaYRIq3Bh4"
+        },
+        {
+          "name": "Sidmer",
+          "url": "https://open.spotify.com/artist/6SsaokMkJuefE4Fg3ZXGOY"
+        }
+      ],
+      "duration_ms": 175195,
+      "name": "Tequila",
+      "url": "https://open.spotify.com/track/3MVNXhRlsGAPALmUzkFxNd"
+    },
+    {
+      "added_at": "2023-10-12 22:00:00",
+      "album": {
         "name": "Rathana Club",
         "url": "https://open.spotify.com/album/25S91oeTVaNfdmvSuk17Vw"
       },
@@ -1587,26 +1607,6 @@
       "duration_ms": 197078,
       "name": "Noise Cancellation",
       "url": "https://open.spotify.com/track/6rFaGfDRVRXlVdUVgBz0Ho"
-    },
-    {
-      "added_at": "2023-10-12 22:00:00",
-      "album": {
-        "name": "Straight From The Heart (feat. N\u00f8rskov)",
-        "url": "https://open.spotify.com/album/4O0gBwGRlHkhsgWNBvtCZX"
-      },
-      "artists": [
-        {
-          "name": "Rudimental",
-          "url": "https://open.spotify.com/artist/4WN5naL3ofxrVBgFpguzKo"
-        },
-        {
-          "name": "N\u00f8rskov",
-          "url": "https://open.spotify.com/artist/5iC6qaicSqv8Wd7Q6dW0BH"
-        }
-      ],
-      "duration_ms": 208555,
-      "name": "Straight From the Heart (feat. N\u00f8rskov)",
-      "url": "https://open.spotify.com/track/4AqyqhDduUCYzwXcFIrhWL"
     }
   ],
   "unique_name": "Peppl\u00e5tar till tr\u00e4ningspasset",

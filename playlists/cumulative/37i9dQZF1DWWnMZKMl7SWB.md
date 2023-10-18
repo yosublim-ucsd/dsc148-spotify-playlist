@@ -4,7 +4,7 @@
 
 > Bases suaves para inspirarte mientras trabajas.
 
-1,208 songs - 2 day 5 hr 46 min
+1,210 songs - 2 day 5 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,6 +22,7 @@
 | [1am in nyc](https://open.spotify.com/track/5BIwDSCZB1DVt7CJJn6UAa) | [oh, the joy.](https://open.spotify.com/artist/6kqOxJqJ4r4cIlbYR4GbP4) | [1am in nyc](https://open.spotify.com/album/3wImABsinR6BGpjMt9XUGn) | 2:24 | 2022-04-12 | 2022-07-29 |
 | [2day](https://open.spotify.com/track/1dQFJczFI9rVXbDXvavD03) | [crackle n bop](https://open.spotify.com/artist/7geWyYxsW6YdSKLBjB6mir) | [2day](https://open.spotify.com/album/5j9RWutbmSJQ8bHo9bOlL7) | 1:49 | 2023-01-06 | 2023-09-09 |
 | [40 Love](https://open.spotify.com/track/3HCoyY47D7po1xC1y7HsBU) | [Ooyy](https://open.spotify.com/artist/0xe3AMjZeR6z3g4O6Vppjq) | [40 Love](https://open.spotify.com/album/69geYIK32L6nCd4Btqdeh6) | 3:00 | 2022-04-12 | 2023-09-09 |
+| [4you to just love](https://open.spotify.com/track/2u7BaomZDkHMx1xfth3d5s) | [The Easy Breeze](https://open.spotify.com/artist/5MpwtWtFfapulpKEjAeU81) | [4you to just love](https://open.spotify.com/album/7yMLFLuzDknKgARBtrIQqq) | 2:34 | 2023-10-13 |  |
 | [6 AM](https://open.spotify.com/track/4q9LTp6HB2OKDlbNgrLn39) | [Screen Jazzmaster](https://open.spotify.com/artist/0ccv58yNhOu5FERx9Kpvgt), [flowless](https://open.spotify.com/artist/71dR4Sjwy1ikQyYIcCWvxS), [Zmeyev](https://open.spotify.com/artist/3VXe7BcibISROhxRdPuRNL) | [6 AM](https://open.spotify.com/album/1jNJxQaep23GkcDFnXZdXx) | 1:55 | 2023-09-22 |  |
 | [6pm Freedom](https://open.spotify.com/track/78wa13XBguLAx0c5pzqZDI) | [Arlos](https://open.spotify.com/artist/5PU5cwPems7pVldrGo4Bs5) | [Easy Breathing & 6pm Freedom](https://open.spotify.com/album/3jO0ts2BPgfBWKms1D5H2x) | 3:00 | 2023-09-22 |  |
 | [74 miles from you](https://open.spotify.com/track/3RsPo4nBGUTbQYtT3CGyIC) | [DonLear](https://open.spotify.com/artist/2XFmnlp2flbDWWn4lYJGls), [Kanimayo](https://open.spotify.com/artist/4SVWzWmrg2LqMlVrt0ZZq1) | [74 miles from you](https://open.spotify.com/album/1ufrpkBIwxk5eZMaBgocUT) | 1:51 | 2023-09-22 |  |
@@ -256,6 +257,7 @@
 | [Coming Home](https://open.spotify.com/track/7EN48mPO2AJD1iKOItQgUk) | [Juliette](https://open.spotify.com/artist/2A9ozO2R5liuK6dMrhJwnQ) | [Coming Home](https://open.spotify.com/album/1NXR10O0pSgK506mnnzXpA) | 2:13 | 2023-09-22 |  |
 | [Commes Des Garcon](https://open.spotify.com/track/4IXqR1jOqmBSXKhwkYyjL6) | [Hit Ropes](https://open.spotify.com/artist/58z4Qnl7rsu6egD2pMMWcG) | [Day Trip](https://open.spotify.com/album/6MFyOBoHdsSY8npqKydG1a) | 4:11 | 2023-09-08 |  |
 | [Commuter](https://open.spotify.com/track/4Rf27qELU6XDQx8DtFHU4Q) | [Giorgio Robertini](https://open.spotify.com/artist/3CfYXa3IM5nDW2rzaVRQRV) | [Commuter](https://open.spotify.com/album/73ddBbDKMzEiLWqA3VDXi0) | 2:00 | 2023-09-08 |  |
+| [Con Bajo Fidelidad](https://open.spotify.com/track/0Ti4yQxF7IyyhK3rIT1cdw) | [The Fly Guy Five](https://open.spotify.com/artist/7D5flI7hB9nzew9W2KnKm8) | [Con Bajo Fidelidad](https://open.spotify.com/album/48DVavFPcUDBx8p5pN0YFg) | 2:10 | 2023-10-13 |  |
 | [connected](https://open.spotify.com/track/68vVjEdFknL2cKq8OgdvKc) | [Wolf Schranze](https://open.spotify.com/artist/4MtvBs0l4svT0L3QQLwPMM) | [connected](https://open.spotify.com/album/7LsAX2zlDtauYV8KlGJuCZ) | 1:34 | 2023-09-22 |  |
 | [Cori](https://open.spotify.com/track/5LuIRsHiCp81kisjIs1JXh) | [damaa.beats](https://open.spotify.com/artist/4zSHueBRkrGzbb5p9J74dY), [Otaam](https://open.spotify.com/artist/0yABOXFZ5fJ1KyoXXgj5B0) | [Cori](https://open.spotify.com/album/0mxgpWbS9upZFCTaIHroMZ) | 2:15 | 2023-09-22 |  |
 | [Cornerstone](https://open.spotify.com/track/7AhuBIZcgICxPKWHGWPvRU) | [RINZ.](https://open.spotify.com/artist/1qc48l4N7tBU8sMOuIAa82) | [Cornerstone](https://open.spotify.com/album/63uMc211thP27HfNYHzXtP) | 2:32 | 2023-09-22 |  |
@@ -392,7 +394,7 @@
 | [Fly With Me](https://open.spotify.com/track/0utlMloUqhPm1sHdRbRX0d) | [Zen Park](https://open.spotify.com/artist/3XSqByZe2kuUAquw8seGD6) | [Fly With Me](https://open.spotify.com/album/4Yg9AcZjDJvg7UbhebX2vY) | 1:44 | 2023-09-22 |  |
 | [Flying](https://open.spotify.com/track/6wm9hYs3yKMUmlKEQS6t7Z) | [TAX VRKT](https://open.spotify.com/artist/5LfSaYsGTL3HkaV5a2qHBD) | [Flying](https://open.spotify.com/album/0QZqNu6wlgnLCLqGEkXZQ4) | 2:13 | 2023-09-22 |  |
 | [Flying Away](https://open.spotify.com/track/7zckDVftCAoW2NeuEp9Qvc) | [twuan](https://open.spotify.com/artist/5T0wPeBVC0F7uEbIr8JKE5) | [Flying Away](https://open.spotify.com/album/6HybhwMgx3nwXFk5qEoNhG) | 1:39 | 2023-09-08 |  |
-| [Flying Lofi Bugs](https://open.spotify.com/track/4cGt0bobV5aGn3d55XMPKv) | [ikioma](https://open.spotify.com/artist/2rThuiJzp3Df9CyvquCEYd) | [Flying Lofi Bugs](https://open.spotify.com/album/5Fc5UIAHLFfCdkdd8HhLo2) | 1:39 | 2023-09-08 |  |
+| [Flying Lofi Bugs](https://open.spotify.com/track/4cGt0bobV5aGn3d55XMPKv) | [ikioma](https://open.spotify.com/artist/2rThuiJzp3Df9CyvquCEYd) | [Flying Lofi Bugs](https://open.spotify.com/album/5Fc5UIAHLFfCdkdd8HhLo2) | 1:39 | 2023-09-08 | 2023-10-18 |
 | [Follow the maze](https://open.spotify.com/track/2cqoll9mqMTlaJRIgoK3ko) | [Calm Like Carl](https://open.spotify.com/artist/4yliz9yN6pHtswgNVEjiw0) | [Printers' Alley](https://open.spotify.com/album/2PpIz8xsJOjiFTO4REzthj) | 2:40 | 2023-09-22 |  |
 | [Food For Thought](https://open.spotify.com/track/6nzxcUtxye4HMz8v8iYnlg) | [Pat Laine](https://open.spotify.com/artist/4ayEtUqC4VtbghdfnMjW9g) | [Food For Thought](https://open.spotify.com/album/2Wp5mKY2BUDd7g5MsdLxYR) | 2:22 | 2023-09-22 |  |
 | [For My Pet](https://open.spotify.com/track/4LzJRk3q2gHWtlvZn4XbbQ) | [Juliette](https://open.spotify.com/artist/2A9ozO2R5liuK6dMrhJwnQ) | [For My Pet](https://open.spotify.com/album/3XNNQdiFEYB5p1ccBisEKM) | 1:42 | 2023-09-22 |  |
@@ -1076,7 +1078,7 @@
 | [till the morning](https://open.spotify.com/track/1U20PKesBLfYS0mwnZI89Z) | [fluffy](https://open.spotify.com/artist/4OqfSWELqg0RW8Ab9blfaA) | [till the morning](https://open.spotify.com/album/0tYSTPNkyYaegXf9HBRKtk) | 2:48 | 2023-09-22 |  |
 | [Time and Time Again](https://open.spotify.com/track/5aMyRc257zukcKz1IKYVqj) | [Vacant Clinic](https://open.spotify.com/artist/069LYwxcFj7gaqBl2cEUGS) | [Time and Time Again](https://open.spotify.com/album/5rQ9mNwMeqR4a8tJ3OohTU) | 3:11 | 2023-09-22 |  |
 | [Time Traveler](https://open.spotify.com/track/7MH56weRw2uMcFaTAWgHUE) | [mennasa](https://open.spotify.com/artist/3J5F3p73CQAPPPbQzlLHUk) | [Time Traveler](https://open.spotify.com/album/7azHzF2Y0ZP7zX22WdSAld) | 3:01 | 2023-09-22 |  |
-| [Time Warp](https://open.spotify.com/track/1nTb8o7S4rmm1ipygYSQBp) | [skyswimming](https://open.spotify.com/artist/1VAupbjOIpMJk71kFmXrKy), [Fred Paci](https://open.spotify.com/artist/24snO5m4Z01DjKf5gtl14T) | [Time Warp](https://open.spotify.com/album/1bMyRFws3t5vZnViRyj0sD) | 2:03 | 2023-09-08 |  |
+| [Time Warp](https://open.spotify.com/track/1nTb8o7S4rmm1ipygYSQBp) | [skyswimming](https://open.spotify.com/artist/1VAupbjOIpMJk71kFmXrKy), [Fred Paci](https://open.spotify.com/artist/24snO5m4Z01DjKf5gtl14T) | [Time Warp](https://open.spotify.com/album/1bMyRFws3t5vZnViRyj0sD) | 2:03 | 2023-09-08 | 2023-10-18 |
 | [Timeless](https://open.spotify.com/track/29fn9cpQP5bXvTOQiJrUfq) | [Jost Esser](https://open.spotify.com/artist/6g67HuwuliYaN3y0I3C3o8), [skrn](https://open.spotify.com/artist/1k29Ytv2zKdGrYGadr9etJ) | [Timeless](https://open.spotify.com/album/3GhCdZi59qYMUNbHTvDdsp) | 2:21 | 2023-09-22 |  |
 | [Timeline](https://open.spotify.com/track/1NYYl3iu6mMt8yEWaN7GLX) | [Cyan\_95](https://open.spotify.com/artist/2F0ArRuBoD4jl4bM8fNyiU) | [Timeline](https://open.spotify.com/album/12ONIy1jPZtYfyi30EwEA6) | 2:40 | 2023-09-22 |  |
 | [Timing](https://open.spotify.com/track/6XdulSZx2waNFqtpZE1hL3) | [Jorick](https://open.spotify.com/artist/0GE8ydB4Bg776B35TRKm52) | [Timing](https://open.spotify.com/album/23dtHzD8bRAg4oN58li4Hp) | 2:21 | 2023-09-22 |  |

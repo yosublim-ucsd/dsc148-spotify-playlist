@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTL4zPbYeMFs.md) - [plain]
 
 > A perfect mix for your Mehendi ceremony.
 
-[Spotify](https://open.spotify.com/user/spotify) - 29,544 likes - 50 songs - 3 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 29,592 likes - 50 songs - 3 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,7 +32,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTL4zPbYeMFs.md) - [plain]
 | 22 | [Banarasiya](https://open.spotify.com/track/5h6O8kOSivahcPg4Rlgp15) | [A.R\. Rahman](https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG), [Shreya Ghoshal](https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy) | [Raanjhanaa \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/24C47633GRlozws7WBth7t) | 4:49 |
 | 23 | [Wedding Mashup](https://open.spotify.com/track/1CJv2VY3VYGKtUXifClgXU) | [Namita Choudhary](https://open.spotify.com/artist/3OzUySgSF8QxZScB0RxDCB) | [Wedding Mashup](https://open.spotify.com/album/7eBcg17oRERBT6Swk0UT0K) | 1:45 |
 | 24 | [Madhaniyan](https://open.spotify.com/track/6y3jAgOVnzVuq75OdlNUqy) | [Neha Bhasin](https://open.spotify.com/artist/4E5oyNFcB3uXLkLdjYmP9Z) | [Madhaniyan](https://open.spotify.com/album/2qSzP3ckFfhXMUpzDGY3T4) | 4:15 |
-| 25 | [Sajh Dhaj Ke](https://open.spotify.com/track/5HJGzB7sZleFrrDvr0pRo4) | [Mika Singh](https://open.spotify.com/artist/5T2I75UlGBcWd5nVyfmL13), [Pankaj Kapur](https://open.spotify.com/artist/2o8YweTDrUygJuPWOFDN62) | [Mausam](https://open.spotify.com/album/6IXC7pxtf6QKK7BVQUvIxP) | 4:52 |
+| 25 | [Sajh Dhaj Ke](https://open.spotify.com/track/5HJGzB7sZleFrrDvr0pRo4) | [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU), [Mika Singh](https://open.spotify.com/artist/5T2I75UlGBcWd5nVyfmL13), [Pankaj Kapur](https://open.spotify.com/artist/2o8YweTDrUygJuPWOFDN62) | [Mausam](https://open.spotify.com/album/6IXC7pxtf6QKK7BVQUvIxP) | 4:52 |
 | 26 | [Din Shagna Da](https://open.spotify.com/track/20rwogC6aE369YsxFb5aRp) | [Jasleen Royal](https://open.spotify.com/artist/74OaRjmyh0XyRZsQQQ5l7c) | [Phillauri](https://open.spotify.com/album/0VcufnK1aFnUCIQR2j9cFE) | 3:35 |
 | 27 | [Mehndi Rach Gayi](https://open.spotify.com/track/4r2fV0KNndCU7txcDtozPp) | [Rahul Vaidya](https://open.spotify.com/artist/6XypcJDBmfuRjq52PFUVwd), [Priya Mallick](https://open.spotify.com/artist/7sRTObHviBKE6HTIHV9nUw), [Raghav](https://open.spotify.com/artist/3eU2hgCTO4RdLni6qYMEtr) | [Mehndi Rach Gayi](https://open.spotify.com/album/1QWCGnoYkQ1nHH31CMIxbs) | 3:48 |
 | 28 | [Banno \(From "Tannu Weds Manu Returns"\)](https://open.spotify.com/track/78LZUVqzZzsuNfT6G782pP) | [Brijesh Shandilya](https://open.spotify.com/artist/3gdKEsvYBUHdtLMmECIN4q), [Swati Sharma](https://open.spotify.com/artist/6nvNh0jV10gc2aYFALNahg) | [Tanu Weds Manu Returns \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/66GxOwfWVlbVRPwoi5dbhd) | 3:16 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTL4zPbYeMFs.md) - [plain]
 | 49 | [Charda Siyaal](https://open.spotify.com/track/1olfUQXZoaqITRxmBq1Y1F) | [Mankirt Aulakh](https://open.spotify.com/artist/3uHUKCspaCzAab9A3LlGAr) | [Charda Siyaal \- Single](https://open.spotify.com/album/1pSrIo84dlxz8U2fyLEolg) | 3:20 |
 | 50 | [Mehndi Ki Raat](https://open.spotify.com/track/6yyC676TchwgOyhVfOykxA) | [Models](https://open.spotify.com/artist/7rH3S7xMKRVSr0JrpqTUIZ) | [Jaana Hai Bollywood](https://open.spotify.com/album/1ZhKxioBc0HF6CDGYHXMpx) | 4:23 |
 
-Snapshot ID: `MCxjOWYyYzQxZmRhNzVlOWIzMjllZjM0NzVhZTNmYTI0ZmM5N2E5Zjdk`
+Snapshot ID: `MCwyZGI0NWU2ZDIxMGU5MzVhOTEzZDRmZGRmMzkwMGIzMWUzMTVhZDhj`

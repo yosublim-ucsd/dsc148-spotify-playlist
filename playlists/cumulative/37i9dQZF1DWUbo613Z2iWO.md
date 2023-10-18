@@ -4,7 +4,7 @@
 
 > R&B of the moment by the artists of the future\. Cover: Destin Conrad
 
-689 songs - 1 day 11 hr 32 min
+690 songs - 1 day 11 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -380,7 +380,7 @@
 | [Low Profile](https://open.spotify.com/track/0iyUSMsn7Qve6WotFA77Tr) | [Nakkia Gold](https://open.spotify.com/artist/2kPJ3uWBBRjfh0dZNEW7ET) | [Low Profile](https://open.spotify.com/album/6pWyGg9oyQJWaDOsBopf9N) | 2:44 | 2022-05-13 | 2022-07-10 |
 | [Lullaby](https://open.spotify.com/track/4YMuvI6faoxGj5bJur1dpy) | [Alicia Moffet](https://open.spotify.com/artist/5ph9A8j6xyDlLNZTqYgNV1) | [Lullaby](https://open.spotify.com/album/703gnSo3ZsJkpEIpkQCkLX) | 3:42 | 2022-03-25 | 2022-04-16 |
 | [Lullaby \(feat\. Syd\)](https://open.spotify.com/track/56cPHHY51YpcD4OwU42GS3) | [Amaal](https://open.spotify.com/artist/785y6F5AHHafGaFaRdpMtz), [Syd](https://open.spotify.com/artist/3jk39CGeaaSO3FPKNx1RUx) | [Milly](https://open.spotify.com/album/0ybPRt9okiivYSRzyyv1Yd) | 2:31 | 2022-04-29 | 2022-06-25 |
-| [LUV N DEVOTION](https://open.spotify.com/track/2C2KmQyeGfMVULfrdMVs8i) | [DESTIN CONRAD](https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ) | [LUV N DEVOTION](https://open.spotify.com/album/5R8TDNyNfrrh9PprKnl8Ig) | 3:03 | 2023-10-13 |  |
+| [LUV N DEVOTION](https://open.spotify.com/track/2C2KmQyeGfMVULfrdMVs8i) | [DESTIN CONRAD](https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ) | [LUV N DEVOTION](https://open.spotify.com/album/5R8TDNyNfrrh9PprKnl8Ig) | 3:01 | 2023-10-13 |  |
 | [Luv Songs \(Unruly\)](https://open.spotify.com/track/0puWG0IhM981IsC1hd2640) | [PHABO](https://open.spotify.com/artist/5FdZDr2bMbEcnsEKRgO3rn) | [Don't Get Too Cozy](https://open.spotify.com/album/3fGURvjAC7mZz3nMfPRRBI) | 2:55 | 2023-06-16 |  |
 | [Mad At Fire](https://open.spotify.com/track/3PqLsRd5qvGGYllBy1IWII) | [Elmiene](https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL) | [Mad At Fire](https://open.spotify.com/album/42wSOecTzWrjEUke9JPLYz) | 3:51 | 2023-06-30 |  |
 | [Maddest Hoes](https://open.spotify.com/track/2JOAClTouRjLpemnmAutOV) | [Nippa](https://open.spotify.com/artist/4EnRRIOfqBmNcsTj4tReXq), [SHOW N PROVE](https://open.spotify.com/artist/0w2Ehjy06vmXNTs3e3NQIU) | [Maddest Hoes](https://open.spotify.com/album/0zXtM0yyZaWZh2gYu0GFwU) | 2:34 | 2023-05-05 | 2023-07-08 |
@@ -429,6 +429,7 @@
 | [Nowhere But Up](https://open.spotify.com/track/1eSaEAjIt2OOVbvLqtZG6i) | [Phony Ppl](https://open.spotify.com/artist/0oBsnAC3fzYkTHF3bkfNx6) | [Nowhere But Up](https://open.spotify.com/album/1acFeY7OrZMzmCiAnYWmKU) | 3:55 | 2022-09-23 | 2022-11-28 |
 | [O.M.L\. \(feat\. DESTIN CONRAD\)](https://open.spotify.com/track/6ntO3pnXicVNsAhW67BW0S) | [Mack Keane](https://open.spotify.com/artist/7fNI5DhplKeFCErRvzRCVO), [ESTA.](https://open.spotify.com/artist/4KZmpaIhanIo46eaQimtgO), [DESTIN CONRAD](https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ) | [O.M.L\. \(feat\. DESTIN CONRAD\)](https://open.spotify.com/album/6nKwjfkh8zFW2JQo1FYjq0) | 2:45 | 2022-07-15 | 2023-07-15 |
 | [Obsession](https://open.spotify.com/track/3thdkIE4oHaFmSwZNLdFAJ) | [Eric Bellinger](https://open.spotify.com/artist/7ibAWtDtmEfaVhc1FJ3Vl9) | [Obsession](https://open.spotify.com/album/5ILqDCabfFQrBHHJ4yVfT6) | 3:21 | 2022-10-21 | 2023-01-21 |
+| [Ocean Drive](https://open.spotify.com/track/2n7RgVuhj9oT6iaAZN0Oa2) | [Nippa](https://open.spotify.com/artist/4EnRRIOfqBmNcsTj4tReXq) | [Ocean Drive](https://open.spotify.com/album/0UZ64CPmniIULvZDBrM4iI) | 2:18 | 2023-10-13 |  |
 | [Offline](https://open.spotify.com/track/02MtATIEnBgyzvoQqlH5hG) | [Bri Feel](https://open.spotify.com/artist/2bFe43J9gVry0s8sNN8Jet) | [Offline](https://open.spotify.com/album/0ZWNoe1pGWvequQRiBw7mu) | 3:01 | 2022-02-12 | 2022-03-26 |
 | [OH MY GOD](https://open.spotify.com/track/7u0nMMBCsmZUFLZwIv6jKO) | [Niels](https://open.spotify.com/artist/67Aux8pNOScNMgB0cA2Gwg) | [OH MY GOD](https://open.spotify.com/album/0CqwF4JgIAVpJgIvqoKjoF) | 3:06 | 2022-05-06 | 2022-06-25 |
 | [On God!](https://open.spotify.com/track/3AcH92WhF4cBsbUvoDgu30) | [Tiana Major9](https://open.spotify.com/artist/1Naqgo0HMRoumRP0e2MXD9) | [Fool Me Once](https://open.spotify.com/album/15moNc4Pg5E1qXrXHM2WNl) | 3:21 | 2022-03-18 | 2022-04-16 |

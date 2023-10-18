@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1L8JuK0yhgO.md) - [plain]
 
 > 音楽メディア<a href="http://spincoaster.com/">Spincoaster</a>が厳選したホットな新曲を毎週月曜日にお届け！
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,919 likes - 60 songs - 3 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,918 likes - 60 songs - 3 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,7 +41,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1L8JuK0yhgO.md) - [plain]
 | 31 | [6WHYZ](https://open.spotify.com/track/1FNJgu0YwPEPPoK9N2tGbw) | [ExWHYZ](https://open.spotify.com/artist/0xOkccCl0pVdhuLBpcHDJx) | [HOW HIGH?](https://open.spotify.com/album/20U0MsdLs2UvDfA8jC7Nx9) | 2:57 |
 | 32 | [道端にネギ](https://open.spotify.com/track/1GT7OUZA9c7iW3Ng7pGc8t) | [xiangyu](https://open.spotify.com/artist/4YHFvbGOXo06pcFXOQszkB), [Gimgigam](https://open.spotify.com/artist/1LHF7KKnogex2qYTumsGiY) | [道端にネギ](https://open.spotify.com/album/5k6uRLEaYdlNxxbPBbJ4dm) | 3:57 |
 | 33 | [Max Princess II](https://open.spotify.com/track/0d767dWHBLKCgN6LTs8Hia) | [Haruko Tajima](https://open.spotify.com/artist/2wKUmawKpq9H4jhcnugog2) | [Max Princess II](https://open.spotify.com/album/52myC8kbt7Y6emjUWck7NS) | 3:12 |
-| 34 | [river relief \- PASOCOM MUSIC CLUB remix](https://open.spotify.com/track/1zEuOr9iggmPIfkbyT9YxK) | [PAS TASTA](https://open.spotify.com/artist/38XISC5BMSTkAuKwniV2AS), [Soushi Sakiyama](https://open.spotify.com/artist/1IEretLePzJKj8R6KCEaBA), [パソコン音楽クラブ](https://open.spotify.com/artist/5FiN9o11xTdr071qwSHyye) | [GOOD POP REMIXES](https://open.spotify.com/album/1CxF69zNhAqSkVbzh2Y8pR) | 3:46 |
+| 34 | [river relief \- PASOCOM MUSIC CLUB remix](https://open.spotify.com/track/22eGXzZpChW3GU8tgSpAnF) | [PAS TASTA](https://open.spotify.com/artist/38XISC5BMSTkAuKwniV2AS), [Soushi Sakiyama](https://open.spotify.com/artist/1IEretLePzJKj8R6KCEaBA), [パソコン音楽クラブ](https://open.spotify.com/artist/5FiN9o11xTdr071qwSHyye) | [GOOD POP THE REMIXES](https://open.spotify.com/album/1cgU39ZANyFjxvV122QN2E) | 3:46 |
 | 35 | [yeah is back](https://open.spotify.com/track/0w6AJnuSm7783gvVZBPPgI) | [AOTO](https://open.spotify.com/artist/3hcgrXE2f4dTzHc1WS4JGs) | [yeah is back](https://open.spotify.com/album/16xFvBkmVeIhTLU8w1i8dz) | 2:27 |
 | 36 | [HARIBO](https://open.spotify.com/track/4xpDp5F28AKBaAjyzKe6uL) | [v3geboy](https://open.spotify.com/artist/6o5b0gyvclyErlTzoECnJ8), [ibu](https://open.spotify.com/artist/7wES4DtZ2ftjwynm0bqyJG) | [HARIBO](https://open.spotify.com/album/5PFd8bmkrEo317ITytpZza) | 1:56 |
 | 37 | [skin](https://open.spotify.com/track/37iATd9LbwFi6dcZpQvhxW) | [suL](https://open.spotify.com/artist/73fjcRCtc5eAzmKahfvi16) | [skin](https://open.spotify.com/album/0PAHkxRkvFvBY8i7yvKBhg) | 3:14 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1L8JuK0yhgO.md) - [plain]
 | 59 | [angel+](https://open.spotify.com/track/0dpeV3gXHYJ2ZUo6742Oru) | [Lilniina](https://open.spotify.com/artist/2sQQn4m6eLqk0wt3TOkaGw), [i9bonsai](https://open.spotify.com/artist/7dqb1363wqRxJw9RfgQeo3) | [onyx](https://open.spotify.com/album/0r6b0HvvL2XV1sR0RdDLjn) | 3:04 |
 | 60 | [shapes](https://open.spotify.com/track/2LxtlsKZutqGWrlw2k46Gb) | [lazydoll](https://open.spotify.com/artist/7D7a6cnpitkgKgz4bJDYy6) | [plant + pixel](https://open.spotify.com/album/4cG79mzNYUUbAiCPEecPAZ) | 2:03 |
 
-Snapshot ID: `MCxiZmNjZjljNmVjYjM2OTI1NjIyZjRkMzZhMTdiNmQ1YTVjNzY1YzEy`
+Snapshot ID: `MCxjMGEwNTRkNGJkOTE0NjA1NTQ3MDM1NWIzYTgzODk3OTc2NTcwYjBh`

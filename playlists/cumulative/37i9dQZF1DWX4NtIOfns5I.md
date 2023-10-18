@@ -4,7 +4,7 @@
 
 > where folk flowers bloom\. cover: Noah Kahan
 
-96 songs - 5 hr 32 min
+102 songs - 5 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,6 +24,7 @@
 | [Cool About It](https://open.spotify.com/track/5PJH1U5Iie893v48Fl9yaC) | [boygenius](https://open.spotify.com/artist/1hLiboQ98IQWhpKeP9vRFw), [Julien Baker](https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip), [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG), [Lucy Dacus](https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP) | [the record](https://open.spotify.com/album/0e9GjrztzBw8oMC6n2CDeI) | 3:00 | 2023-10-06 |  |
 | [Crop Circles](https://open.spotify.com/track/2VOrYcyK0rqa9gZ0gUL0fI) | [Odie Leigh](https://open.spotify.com/artist/7AgbNZPRrvTpWjVbbPoUmU) | [Crop Circles](https://open.spotify.com/album/6o8QongKZ7ZPCgy6EYghhC) | 3:46 | 2023-10-06 |  |
 | [Crux](https://open.spotify.com/track/4RjJYMYRPsJMVeLqjRNgWR) | [Wallker](https://open.spotify.com/artist/63D2ytMsspeVC2z9qrfQLI) | [Gray and Sour, Morning Hush](https://open.spotify.com/album/0baXYOoDgSLcra7tWPNMC1) | 2:48 | 2023-10-06 |  |
+| [Curl up & Die](https://open.spotify.com/track/0mDn9q0XZBVI3xICivkTY1) | [Matt Maltese](https://open.spotify.com/artist/12j6dJrPXanCBwY599pZxf) | [Krystal](https://open.spotify.com/album/0DMKZZanrzK36YjFyI5nfF) | 3:22 | 2023-10-17 |  |
 | [Day Plan](https://open.spotify.com/track/0erC8baMqhTGIHIGjvrxXD) | [Izzy Heltai](https://open.spotify.com/artist/609L5isoR1bZrX1oB0y6dF) | [Day Plan](https://open.spotify.com/album/5pgIguDeta2y82ccJTWK3w) | 3:46 | 2023-10-06 |  |
 | [Dead Man](https://open.spotify.com/track/6I3q5qBAa1DpzfcdIq21DD) | [David Kushner](https://open.spotify.com/artist/33NVpKoXjItPwUJTMZIOiY) | [Dead Man + Daylight](https://open.spotify.com/album/2CjolbvXx5qRclGGGGdacx) | 4:34 | 2023-10-06 |  |
 | [Dial Drunk](https://open.spotify.com/track/0caJ2wkqp4UmXBwdR2JvB5) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [Stick Season \(We'll All Be Here Forever\)](https://open.spotify.com/album/1pb3je8gXTs5dpRRTKhHRC) | 3:33 | 2023-10-06 |  |
@@ -32,14 +33,17 @@
 | [Dream Dating](https://open.spotify.com/track/0ikubwVXWkOeYH3HFhXMfK) | [Superviolet](https://open.spotify.com/artist/49B8mk1ywQNFmIYthC2p8P) | [Infinite Spring](https://open.spotify.com/album/4SzsXZYL0FRUgwLYmqTUbC) | 3:47 | 2023-10-06 |  |
 | [Dream Song](https://open.spotify.com/track/6ojor4w0aY3Nl101vyidbH) | [Shallow Alcove](https://open.spotify.com/artist/2hEZUJYO26jhMzfw0ZzrCj) | [Dream Song](https://open.spotify.com/album/6NlSEYD0tosjRfVAUqBSLb) | 2:43 | 2023-10-06 |  |
 | [Eidolon](https://open.spotify.com/track/5ttu0jY3rOQuaW3D2AN6OU) | [Tapir!](https://open.spotify.com/artist/7dYpljfleToKnSmBFqjqkd) | [Act 2 \(Their God\)](https://open.spotify.com/album/20tEagJfooo80QqJND3FMR) | 3:30 | 2023-10-06 |  |
+| [Euphor](https://open.spotify.com/track/4CiqKccFFYGmFPz7HVTjfW) | [Novo Amor](https://open.spotify.com/artist/0rZp7G3gIH6WkyeXbrZnGi), [Lowswimmer](https://open.spotify.com/artist/7FW2qwsY0zLV9GppWatQ5P) | [Heiress](https://open.spotify.com/album/4poxm3vY9nKdqcyeWv5h0a) | 4:03 | 2023-10-17 |  |
 | [Evergreen](https://open.spotify.com/track/6me7F0aaZjwDo6RJ5MrfBD) | [Richy Mitch & The Coal Miners](https://open.spotify.com/artist/4qU7IJSReZnsLy5907Mtau) | [RMCM](https://open.spotify.com/album/2weOG4ZiOjfxiuFMsHm9JQ) | 1:27 | 2023-10-06 |  |
 | [Everything We Need](https://open.spotify.com/track/6lmJ5Nn7CrAmZkuMejx8YZ) | [Wilfred](https://open.spotify.com/artist/7dZa7l5PsnUBItVQFPp6ym) | [Everything We Need](https://open.spotify.com/album/5gDSgkqX0dEzmOyVKANv7M) | 3:33 | 2023-10-06 |  |
 | [First Date Conversations \(For the Healthy Young Professional\)](https://open.spotify.com/track/7E3gvkRgBkjsGQr2N4bjIq) | [Jake Bardin](https://open.spotify.com/artist/6au2CHviUD4hfqI9UAPLgo) | [First Date Conversations \(For the Healthy Young Professional\)](https://open.spotify.com/album/4v1cJPYanw5ODSVbsC9Oum) | 3:09 | 2023-10-06 |  |
 | [For a While](https://open.spotify.com/track/0dOqNypDARpu7J5G9VAJTj) | [Sam Johnston](https://open.spotify.com/artist/2r9XQHlnMp4d7VdIAw0Iyl), [Emma Klein](https://open.spotify.com/artist/7hbsjraQ0ce8UcmoWVoIe8) | [Cannonball](https://open.spotify.com/album/68zFieWNa4ExhAaW7aANn0) | 4:33 | 2023-10-06 |  |
 | [For Now](https://open.spotify.com/track/5Ae8XyRIcY4mJML4BuKtYQ) | [Lutalo](https://open.spotify.com/artist/0gSmzBSSMT1yJanwTK16Ln) | [Once Now, Then Again](https://open.spotify.com/album/072DMJuHvH3wZ6cb7trjHz) | 4:19 | 2023-10-06 |  |
 | [For You I'll Wait](https://open.spotify.com/track/6ju4VPjmZhm3F64pfEdi4U) | [harf.](https://open.spotify.com/artist/12dcW7121xWHkU7xCBvyUX) | [For You I'll Wait](https://open.spotify.com/album/1H5gH4CAQceNqKpVZeVdG0) | 3:55 | 2023-10-06 |  |
+| [Found](https://open.spotify.com/track/4IeGLYWTUvuqaLjBWGxix2) | [Zach Webb](https://open.spotify.com/artist/7xY48N1Fs8R9DDKcUrevke) | [Found](https://open.spotify.com/album/1mx8fRTJbyrN8MUZu8Zlg1) | 5:11 | 2023-10-17 |  |
 | [Foundry](https://open.spotify.com/track/1CjRmbOw9rR7AiH4s8xa32) | [Laney Esper](https://open.spotify.com/artist/7FcC6gSlV7ONLxNUYVFiBO) | [Foundry](https://open.spotify.com/album/0Gx7vzTl7o7ZMmM15EWbe9) | 3:05 | 2023-10-06 |  |
 | [from here on out](https://open.spotify.com/track/01wyoN3xlUf3k3jWSewMoB) | [lighthearted](https://open.spotify.com/artist/6bIM8yCfbkBSVS40TP5gCf) | [from here on out](https://open.spotify.com/album/0fC2Pfh9vQetDVO7phh1jM) | 4:31 | 2023-10-06 |  |
+| [Funny](https://open.spotify.com/track/0rcaFqednwwedMu68xpKlj) | [Searows](https://open.spotify.com/artist/0nugNBwdWaptgIAsEtx1It) | [Funny](https://open.spotify.com/album/7h9nhXGtNLJAoueYKkmcv2) | 5:02 | 2023-10-17 |  |
 | [Good Morning, Al](https://open.spotify.com/track/0rNWtiBcJh8T6gXtIAIJIJ) | [Ally Evenson](https://open.spotify.com/artist/6UzwpF9cqjxgxXb2N6mb7y) | [Good Morning, Al](https://open.spotify.com/album/66Z431cNHK8eTDjzSZhlR7) | 2:39 | 2023-10-06 |  |
 | [Grace](https://open.spotify.com/track/2LF1EjI7vMM37yRUzEWk8s) | [Henrik](https://open.spotify.com/artist/7osFcSwjlRPwxZdVALIOuC) | [Grace](https://open.spotify.com/album/2SLgmMY9hC8pM6qPwNRBWK) | 3:20 | 2023-10-13 |  |
 | [handgun](https://open.spotify.com/track/5ScV9dmyjpNeQp7UwIKwTM) | [jake minch](https://open.spotify.com/artist/7Lfq2a2cpwQBdDzo7SW1HC) | [handgun](https://open.spotify.com/album/2ybvSMYSgIh1fKcFGD2XTL) | 2:53 | 2023-10-06 |  |
@@ -63,6 +67,7 @@
 | [Maria](https://open.spotify.com/track/0c8yjevkeywoScoAcURgU7) | [Greg Mendez](https://open.spotify.com/artist/3pGNoAJX3UVctU6X8eG55h) | [Greg Mendez](https://open.spotify.com/album/2jbgzfwZf1821YjhhSPrik) | 1:58 | 2023-10-06 |  |
 | [Millionaire](https://open.spotify.com/track/3NTgl4lHbIJw8p3bDanEa0) | [Girl Scout](https://open.spotify.com/artist/4CbghtwTo6bvxk5QacvRrE) | [Granny Music](https://open.spotify.com/album/725p6TJKBuQ5CPK6pT9S2Q) | 3:34 | 2023-10-06 |  |
 | [Mom & Dad](https://open.spotify.com/track/0wW8h0pLHZwNFv2v2e3KHw) | [Darren Kiely](https://open.spotify.com/artist/15Cdd3Wai5nQZATxnbEtK9) | [Mom & Dad](https://open.spotify.com/album/0VfH1xz9pcm8RkjXN0INmn) | 3:23 | 2023-10-06 |  |
+| [My Ego Dies At The End](https://open.spotify.com/track/2qpmDv8xnUxULb5TlDk9yS) | [Jensen McRae](https://open.spotify.com/artist/11dABkjSoOjcP9p3TFSNRj) | [Are You Happy Now?](https://open.spotify.com/album/5NaLnnKsTGdzPuSZceQpa9) | 4:02 | 2023-10-17 |  |
 | [My Love Mine All Mine](https://open.spotify.com/track/3vkCueOmm7xQDoJ17W1Pm3) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [The Land Is Inhospitable and So Are We](https://open.spotify.com/album/2Cn1d2KgbkAqbZCJ1RzdkA) | 2:17 | 2023-10-06 |  |
 | [Need 2](https://open.spotify.com/track/3kQfBtkQqgN1fAMfhks8TU) | [Pinegrove](https://open.spotify.com/artist/2gbT6GPXMis0OAkZbEQCYB) | [Everything So Far](https://open.spotify.com/album/7zlf5gmgcFBUSLZpVsh9EE) | 3:11 | 2023-10-06 |  |
 | [Never Learned To Dance](https://open.spotify.com/track/3u6qjHq0y3rmXRQa4iz9OD) | [Medium Build](https://open.spotify.com/artist/3C6wmSgnZuqxVQyBWujBsn) | [Never Learned To Dance](https://open.spotify.com/album/5ms3VD6BeAQjId7vGPPznI) | 3:44 | 2023-10-06 |  |
@@ -99,6 +104,7 @@
 | [Unknown / Nth](https://open.spotify.com/track/1ptwL6lZNLc654XAaHqcHb) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Unreal Unearth](https://open.spotify.com/album/3gF9KIynrJaC80HbVayPMx) | 4:40 | 2023-10-06 |  |
 | [Vampire Empire](https://open.spotify.com/track/0ToG55iJZCOzZkcpWbXxpW) | [Big Thief](https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ) | [Vampire Empire](https://open.spotify.com/album/2Msefc9DYHFMTNY6zuCOIm) | 3:12 | 2023-10-06 |  |
 | [very overdue goodbye](https://open.spotify.com/track/2OVZqrdQ6QgaYPvm7L4EYD) | [runo plum](https://open.spotify.com/artist/0pouttXEXIHvguV90fhB39) | [very overdue goodbye](https://open.spotify.com/album/0wuatDVylahYnftpjrD1Gy) | 3:36 | 2023-10-06 |  |
+| [Voyager](https://open.spotify.com/track/6Xl18Edf3v9Z2FLw1H69cr) | [boygenius](https://open.spotify.com/artist/1hLiboQ98IQWhpKeP9vRFw) | [the rest](https://open.spotify.com/album/1n0esOkFQdL74PwMwTVgtz) | 2:48 | 2023-10-17 |  |
 | [Whole](https://open.spotify.com/track/26nQglIAtzdWhpe0wa7R7V) | [Sunny War](https://open.spotify.com/artist/01GKiTphQwz4guZQntMha8) | [Anarchist Gospel](https://open.spotify.com/album/1clekgjwj7TdXgYjQjm1BJ) | 3:19 | 2023-10-06 |  |
 | [Willows](https://open.spotify.com/track/0skYZXWfbJtGlmRRRvQI4A) | [Hans Williams](https://open.spotify.com/artist/3SEkDN2vusR7CIyehzfJaj) | [Willows](https://open.spotify.com/album/1a1XOILeamqVZsPpUL2D6P) | 3:41 | 2023-10-06 |  |
 | [Yeehoo!](https://open.spotify.com/track/7CturcmN3XAaQhl32n5Pm2) | [Lauren Juzang](https://open.spotify.com/artist/2HCsMc18MHvpDACmNhbpQ5) | [Yeehoo!](https://open.spotify.com/album/425NhcK8beUulJGrT4duTL) | 3:28 | 2023-10-06 |  |

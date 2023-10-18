@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbiYDjc6fn8m.md) - [plain]
 
 > Hora de dançar com os grandes hits da música eletrônica/dance! Foto: Calvin Harris
 
-[Spotify](https://open.spotify.com/user/spotify) - 109,529 likes - 70 songs - 4 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 109,701 likes - 70 songs - 4 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,7 +32,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbiYDjc6fn8m.md) - [plain]
 | 22 | [Lean On](https://open.spotify.com/track/1Lim1Py7xBgbAkAys3AGAG) | [Major Lazer](https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp), [MØ](https://open.spotify.com/artist/0bdfiayQAKewqEvaU6rXCv), [DJ Snake](https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4) | [Peace Is The Mission \(Extended\)](https://open.spotify.com/album/4pCLlUxlKj3pNVdBtFyhrU) | 2:56 |
 | 23 | [Adagio For Strings \- Radio Edit](https://open.spotify.com/track/0yMoJXVP6hFLV71DRVxRTk) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z) | [Magikal Journey \-The Hits Collection 1998 \- 2008](https://open.spotify.com/album/4MKq1Buhkx4Ksu0ngWHhr3) | 3:25 |
 | 24 | [One \(Your Name\) \- Radio Edit](https://open.spotify.com/track/6iznpTNBnljkbP0WtAfn50) | [Swedish House Mafia](https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs), [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8) | [One \(Your Name\)](https://open.spotify.com/album/5aLY2ivPGXvFX770ihBnmd) | 2:43 |
-| 25 | [Darker Than Blood \(feat\. Linkin Park\)](https://open.spotify.com/track/6ebOVdkIO3G7XLWQUlKCyc) | [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs), [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [Neon Future II](https://open.spotify.com/album/4Bx8NxZeTAC53GjxVxXp2W) | 5:12 |
+| 25 | [Darker Than Blood \(feat\. Linkin Park\)](https://open.spotify.com/track/6uH0XTIjQSumL8sWGZWNlT) | [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs), [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [Darker Than Blood \(feat\. Linkin Park\)](https://open.spotify.com/album/24fA2PIGG6mstE6MIjg8RL) | 5:12 |
 | 26 | [You're Free](https://open.spotify.com/track/3nmaQ5PCaFdVxXcxXstacj) | [Yomanda](https://open.spotify.com/artist/1PyczlWcgtczHvUkXtUFdL) | [You're Free](https://open.spotify.com/album/1vdarhY6N9wjYjYexyLyjV) | 3:09 |
 | 27 | [I Wish](https://open.spotify.com/track/5sdDzzl866nMO5HQaNWrUH) | [Infected Mushroom](https://open.spotify.com/artist/6S2tas4z6DyIklBajDqJxI) | [Converting Vegetarians](https://open.spotify.com/album/3LbcBylGvC80f5OTeQaVuM) | 3:00 |
 | 28 | [Everytime We Touch](https://open.spotify.com/track/5YJtMNWKe55yr49cyJgxva) | [Cascada](https://open.spotify.com/artist/0N0d3kjwdY2h7UVuTdJGfp) | [Everytime We Touch \(Premium Edition\)](https://open.spotify.com/album/2unbJ7dUr9mITQiMwWFqQD) | 3:17 |
@@ -67,7 +67,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbiYDjc6fn8m.md) - [plain]
 | 57 | [Party Rock Anthem](https://open.spotify.com/track/0IkKz2J93C94Ei4BvDop7P) | [LMFAO](https://open.spotify.com/artist/3sgFRtyBnxXD5ESfmbK4dl), [Lauren Bennett](https://open.spotify.com/artist/2jLE4BoXHriQ96JagEtiDP), [GoonRock](https://open.spotify.com/artist/53sIBaVjXQhfH89Vu6nEGh) | [Sorry For Party Rocking](https://open.spotify.com/album/1MbBSfcqLg2OjkeZ1RMSIq) | 4:22 |
 | 58 | [One Love \(feat\. Estelle\)](https://open.spotify.com/track/5uoNPeaYIKxOolXqVjzz0G) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai) | [One Love](https://open.spotify.com/album/3nhLswvAYWwg4wOXBltMbI) | 3:59 |
 | 59 | [The Sun Is Coming out \(Chanson Du Soleil\)](https://open.spotify.com/track/2MotSRq6KaVulLIZzxaF7H) | [DJ Meme](https://open.spotify.com/artist/4dXyuP5DZURgEyaBEas4H9), [Gavin Bradley](https://open.spotify.com/artist/32ZOdfgJaA3VI9YeQK5I5H) | [The Sun Is Coming out \(Chanson Du Soleil\)](https://open.spotify.com/album/011UzLpw33J2xUbAXpSLaW) | 3:44 |
-| 60 | [Call on Me \- Radio Mix](https://open.spotify.com/track/1xNcBAoUw8Hz6LqK2jt4Ff) | [Eric Prydz](https://open.spotify.com/artist/5sm0jQ1mq0dusiLtDJ2b4R) | [Call on Me \(Radio Mix\)](https://open.spotify.com/album/7thKR3tw162CqNqIRdwZ3z) | 2:51 |
+| 60 | [Call On Me \- Radio Edit](https://open.spotify.com/track/6E0dc82Da4W5QWXR8ktoGT) | [Eric Prydz](https://open.spotify.com/artist/5sm0jQ1mq0dusiLtDJ2b4R) | [Call On Me](https://open.spotify.com/album/5mqwlg4T5XrpKj77J6g587) | 2:49 |
 | 61 | [The Man With the Red Face \- Video Edit](https://open.spotify.com/track/2TNAP0cq2IZkeSUx2Zbzrw) | [Laurent Garnier](https://open.spotify.com/artist/3y1SoTOdrmRNTBVph5T0VZ) | [The Man With the Red Face](https://open.spotify.com/album/2z7OqIfgvL7xrOtYAj2Qzl) | 9:10 |
 | 62 | [Pump Up The Jam \- Edit](https://open.spotify.com/track/0UAEHlFR79k9CJvknSGUNf) | [Technotronic](https://open.spotify.com/artist/2Cd98zHVdZeOCisc6Gi2sB), [Felly](https://open.spotify.com/artist/1pvibpCqTQG4mnbZ7vVSDj) | [Best Of](https://open.spotify.com/album/5uuAdNhG4ruMYRFPVCW8gL) | 3:35 |
 | 63 | [The Rockafeller Skank \- Short Edit](https://open.spotify.com/track/6QuBlKmaadzwQn21IUTPPX) | [Fatboy Slim](https://open.spotify.com/artist/4Y7tXHSEejGu1vQ9bwDdXW) | [The Rockafeller Skank](https://open.spotify.com/album/3Q4pPaHsv4Dy5v3Y0AQXdK) | 4:01 |
@@ -75,8 +75,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbiYDjc6fn8m.md) - [plain]
 | 65 | [Kernkraft 400 \- DJ Gius Mix, Radio Edit](https://open.spotify.com/track/7g8cjrj0sXScNE727685JE) | [Zombie Nation](https://open.spotify.com/artist/7vFpNLbCXbBFs4kFBUlkSl) | [Kernkraft 400 Single Mixes](https://open.spotify.com/album/2qmrRoUZQemrKFr9PBMDHd) | 3:27 |
 | 66 | [\#SELFIE](https://open.spotify.com/track/1HOlb9rdNOmy9b1Fakicjo) | [The Chainsmokers](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp) | [\#SELFIE](https://open.spotify.com/album/3OeA4rJ9XJNAygyNyTc2sI) | 3:03 |
 | 67 | [Sun & Moon \- Original Mix](https://open.spotify.com/track/4rfhAoZjGwraqwX1w47uij) | [Above & Beyond](https://open.spotify.com/artist/10gzBoINW3cLJfZUka8Zoe), [Richard Bedford](https://open.spotify.com/artist/5JbD3IL6449LrMT8ct6KTB) | [Group Therapy](https://open.spotify.com/album/2I6sty06i8pXtu175kAfHa) | 5:26 |
-| 68 | [I Found U \- Remode Radio Edit](https://open.spotify.com/track/4brtBQaAKwan97CyLNIG6t) | [Axwell](https://open.spotify.com/artist/1xNmvlEiICkRlRGqlNFZ43) | [I Found U](https://open.spotify.com/album/1WoQtItFeo0FGesGkDHDv8) | 2:51 |
+| 68 | [I Found U \- Radio Edit](https://open.spotify.com/track/1zzae0EZDDYYzoAplr5ldV) | [Axwell](https://open.spotify.com/artist/1xNmvlEiICkRlRGqlNFZ43) | [I Found U](https://open.spotify.com/album/4wP9UvfCSFH8Z95rCt1UjB) | 2:51 |
 | 69 | [Play Hard \(feat\. Ne\-Yo & Akon\)](https://open.spotify.com/track/2QD4C6RRHgRNRAyrfnoeAo) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Ne\-Yo](https://open.spotify.com/artist/21E3waRsmPlU7jZsS13rcj), [Akon](https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV) | [Nothing but the Beat 2.0](https://open.spotify.com/album/5aprcHwM1KJhaY9Kbxkfkn) | 3:21 |
 | 70 | [Harder, Better, Faster, Stronger](https://open.spotify.com/track/2cJz1loJp5EZM6shmQpLZN) | [Daft Punk](https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi) | [Harder, Better, Faster, Stronger](https://open.spotify.com/album/0A88p2r8PWnWGvWjzAnUrV) | 3:46 |
 
-Snapshot ID: `MCxlYzE1MzhmMDM4ZjZiYzg0ZjYxNWZjNGNhMTYzNTZmMDdkMTQ1NTJi`
+Snapshot ID: `MCw3NGU2N2NhM2RiMzQzZThiZmViMTZiYTRmMDNmMDhmZTRhZGVlZDY4`

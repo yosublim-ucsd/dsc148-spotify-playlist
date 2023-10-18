@@ -1,6 +1,6 @@
 {
   "description": "Let's mix it. Cover: Landon Barker",
-  "num_followers": 124778,
+  "num_followers": 124982,
   "original_name": "Pop Rock",
   "owner": {
     "name": "Spotify",
@@ -351,18 +351,18 @@
     {
       "added_at": "2023-09-08 04:00:00",
       "album": {
-        "name": "Back To Me / Alive",
-        "url": "https://open.spotify.com/album/7uAydPIaSI5OmH4e8WY0Eo"
+        "name": "sTraNgeRs",
+        "url": "https://open.spotify.com/album/55LIhZNcBHzrjNZ89I0IRc"
       },
       "artists": [
         {
-          "name": "The Rose",
-          "url": "https://open.spotify.com/artist/5na1LmEmK2VzNLje9snJYW"
+          "name": "Bring Me The Horizon",
+          "url": "https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF"
         }
       ],
-      "duration_ms": 224968,
-      "name": "Back To Me",
-      "url": "https://open.spotify.com/track/4eZpe6SMJQIqAU9VJI84oD"
+      "duration_ms": 195747,
+      "name": "sTraNgeRs",
+      "url": "https://open.spotify.com/track/5fpq1wF8xa5tSSlcKHdmGQ"
     },
     {
       "added_at": "2023-09-08 04:00:00",
@@ -431,34 +431,18 @@
     {
       "added_at": "2023-09-08 04:00:00",
       "album": {
-        "name": "sTraNgeRs",
-        "url": "https://open.spotify.com/album/55LIhZNcBHzrjNZ89I0IRc"
+        "name": "Back To Me / Alive",
+        "url": "https://open.spotify.com/album/7uAydPIaSI5OmH4e8WY0Eo"
       },
       "artists": [
         {
-          "name": "Bring Me The Horizon",
-          "url": "https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF"
+          "name": "The Rose",
+          "url": "https://open.spotify.com/artist/5na1LmEmK2VzNLje9snJYW"
         }
       ],
-      "duration_ms": 195747,
-      "name": "sTraNgeRs",
-      "url": "https://open.spotify.com/track/5fpq1wF8xa5tSSlcKHdmGQ"
-    },
-    {
-      "added_at": "2023-09-08 04:00:00",
-      "album": {
-        "name": "Sharks",
-        "url": "https://open.spotify.com/album/587Ykd8NOCdzRmaW4nlT4e"
-      },
-      "artists": [
-        {
-          "name": "Imagine Dragons",
-          "url": "https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q"
-        }
-      ],
-      "duration_ms": 190883,
-      "name": "Sharks",
-      "url": "https://open.spotify.com/track/0TyUOnU4H4GLqOcrH0auc8"
+      "duration_ms": 224968,
+      "name": "Back To Me",
+      "url": "https://open.spotify.com/track/4eZpe6SMJQIqAU9VJI84oD"
     },
     {
       "added_at": "2023-09-08 04:00:00",
@@ -495,6 +479,22 @@
       "duration_ms": 206772,
       "name": "she's all i wanna be",
       "url": "https://open.spotify.com/track/0IuVhCflrQPMGRrOyoY5RW"
+    },
+    {
+      "added_at": "2023-09-08 04:00:00",
+      "album": {
+        "name": "Sharks",
+        "url": "https://open.spotify.com/album/587Ykd8NOCdzRmaW4nlT4e"
+      },
+      "artists": [
+        {
+          "name": "Imagine Dragons",
+          "url": "https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q"
+        }
+      ],
+      "duration_ms": 190883,
+      "name": "Sharks",
+      "url": "https://open.spotify.com/track/0TyUOnU4H4GLqOcrH0auc8"
     },
     {
       "added_at": "2023-09-08 04:00:00",
@@ -619,6 +619,22 @@
     {
       "added_at": "2023-09-08 04:00:00",
       "album": {
+        "name": "dying on the inside",
+        "url": "https://open.spotify.com/album/67sFRrnPbvz9Te28kO6Ktu"
+      },
+      "artists": [
+        {
+          "name": "Nessa Barrett",
+          "url": "https://open.spotify.com/artist/7pwufEBGfggjoI8twqlsmQ"
+        }
+      ],
+      "duration_ms": 204847,
+      "name": "dying on the inside",
+      "url": "https://open.spotify.com/track/6h1s7cKnUtsbRpE5bwnUTf"
+    },
+    {
+      "added_at": "2023-09-08 04:00:00",
+      "album": {
         "name": "Bad Habits (feat. Bring Me The Horizon)",
         "url": "https://open.spotify.com/album/6YaoDGq5SqvjU4D9oMFj2d"
       },
@@ -635,22 +651,6 @@
       "duration_ms": 250763,
       "name": "Bad Habits (feat. Bring Me The Horizon)",
       "url": "https://open.spotify.com/track/7vrKEP66NdiQDPryPG6olO"
-    },
-    {
-      "added_at": "2023-09-08 04:00:00",
-      "album": {
-        "name": "dying on the inside",
-        "url": "https://open.spotify.com/album/67sFRrnPbvz9Te28kO6Ktu"
-      },
-      "artists": [
-        {
-          "name": "Nessa Barrett",
-          "url": "https://open.spotify.com/artist/7pwufEBGfggjoI8twqlsmQ"
-        }
-      ],
-      "duration_ms": 204847,
-      "name": "dying on the inside",
-      "url": "https://open.spotify.com/track/6h1s7cKnUtsbRpE5bwnUTf"
     },
     {
       "added_at": "2023-09-08 04:00:00",
@@ -799,22 +799,6 @@
     {
       "added_at": "2023-09-08 04:00:00",
       "album": {
-        "name": "mainstream sellout (life in pink deluxe)",
-        "url": "https://open.spotify.com/album/5mj5NblnMMm5G3n1cugGH7"
-      },
-      "artists": [
-        {
-          "name": "Machine Gun Kelly",
-          "url": "https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX"
-        }
-      ],
-      "duration_ms": 181496,
-      "name": "9 lives",
-      "url": "https://open.spotify.com/track/17XY1uAyl0lrFqiMp1aQXO"
-    },
-    {
-      "added_at": "2023-09-08 04:00:00",
-      "album": {
         "name": "In My Head",
         "url": "https://open.spotify.com/album/0fAeiVQKeMPvewBk7UXsSm"
       },
@@ -831,6 +815,38 @@
       "duration_ms": 172466,
       "name": "In My Head",
       "url": "https://open.spotify.com/track/3ryXl6OFAr9fzUpIjAnHIY"
+    },
+    {
+      "added_at": "2023-09-08 04:00:00",
+      "album": {
+        "name": "mainstream sellout (life in pink deluxe)",
+        "url": "https://open.spotify.com/album/5mj5NblnMMm5G3n1cugGH7"
+      },
+      "artists": [
+        {
+          "name": "Machine Gun Kelly",
+          "url": "https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX"
+        }
+      ],
+      "duration_ms": 181496,
+      "name": "9 lives",
+      "url": "https://open.spotify.com/track/17XY1uAyl0lrFqiMp1aQXO"
+    },
+    {
+      "added_at": "2023-09-08 04:00:00",
+      "album": {
+        "name": "u turn me on (but u give me depression)",
+        "url": "https://open.spotify.com/album/7tAEvWFVlVMoPWwyVcwKx8"
+      },
+      "artists": [
+        {
+          "name": "L\u00d8L\u00d8",
+          "url": "https://open.spotify.com/artist/5MjcGshMggPgIHinIUDaX0"
+        }
+      ],
+      "duration_ms": 147535,
+      "name": "u turn me on (but u give me depression)",
+      "url": "https://open.spotify.com/track/7MeP128gHh4GyTMoGUiZlt"
     },
     {
       "added_at": "2023-09-08 04:00:00",
@@ -855,22 +871,6 @@
       "duration_ms": 207280,
       "name": "Loved You A Little (with Taking Back Sunday and Charlotte Sands)",
       "url": "https://open.spotify.com/track/0IPKskRI33eRXjUhNUr9b5"
-    },
-    {
-      "added_at": "2023-09-08 04:00:00",
-      "album": {
-        "name": "u turn me on (but u give me depression)",
-        "url": "https://open.spotify.com/album/7tAEvWFVlVMoPWwyVcwKx8"
-      },
-      "artists": [
-        {
-          "name": "L\u00d8L\u00d8",
-          "url": "https://open.spotify.com/artist/5MjcGshMggPgIHinIUDaX0"
-        }
-      ],
-      "duration_ms": 147535,
-      "name": "u turn me on (but u give me depression)",
-      "url": "https://open.spotify.com/track/7MeP128gHh4GyTMoGUiZlt"
     },
     {
       "added_at": "2023-09-08 04:00:00",
@@ -995,22 +995,6 @@
     {
       "added_at": "2023-09-08 04:00:00",
       "album": {
-        "name": "29",
-        "url": "https://open.spotify.com/album/4SCO1XGo1Lv43OighlwqsL"
-      },
-      "artists": [
-        {
-          "name": "Demi Lovato",
-          "url": "https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp"
-        }
-      ],
-      "duration_ms": 163027,
-      "name": "29",
-      "url": "https://open.spotify.com/track/3gXWe15nwrjfhjYQ5RqLx7"
-    },
-    {
-      "added_at": "2023-09-08 04:00:00",
-      "album": {
         "name": "MUNA",
         "url": "https://open.spotify.com/album/4ndTvTrNwgUfRw4g1R2B4l"
       },
@@ -1023,6 +1007,22 @@
       "duration_ms": 213024,
       "name": "Anything But Me",
       "url": "https://open.spotify.com/track/0MtRE3z0MqQp9ZgYVW9s8u"
+    },
+    {
+      "added_at": "2023-09-08 04:00:00",
+      "album": {
+        "name": "29",
+        "url": "https://open.spotify.com/album/4SCO1XGo1Lv43OighlwqsL"
+      },
+      "artists": [
+        {
+          "name": "Demi Lovato",
+          "url": "https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp"
+        }
+      ],
+      "duration_ms": 163027,
+      "name": "29",
+      "url": "https://open.spotify.com/track/3gXWe15nwrjfhjYQ5RqLx7"
     },
     {
       "added_at": "2023-09-08 04:00:00",
@@ -1059,6 +1059,26 @@
       "duration_ms": 172375,
       "name": "FUCK ABOUT IT (feat. blackbear)",
       "url": "https://open.spotify.com/track/4e4htLKeAZFildRW8D2Itx"
+    },
+    {
+      "added_at": "2023-09-08 04:00:00",
+      "album": {
+        "name": "Love Sux",
+        "url": "https://open.spotify.com/album/7hH7rqTATIJ9DaYwWEdNLb"
+      },
+      "artists": [
+        {
+          "name": "Avril Lavigne",
+          "url": "https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j"
+        },
+        {
+          "name": "Machine Gun Kelly",
+          "url": "https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX"
+        }
+      ],
+      "duration_ms": 163321,
+      "name": "Bois Lie (feat. Machine Gun Kelly)",
+      "url": "https://open.spotify.com/track/2lHktSigIAZqf7BkA7NRS7"
     },
     {
       "added_at": "2023-09-08 04:00:00",
@@ -1111,26 +1131,6 @@
     {
       "added_at": "2023-09-08 04:00:00",
       "album": {
-        "name": "Love Sux",
-        "url": "https://open.spotify.com/album/7hH7rqTATIJ9DaYwWEdNLb"
-      },
-      "artists": [
-        {
-          "name": "Avril Lavigne",
-          "url": "https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j"
-        },
-        {
-          "name": "Machine Gun Kelly",
-          "url": "https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX"
-        }
-      ],
-      "duration_ms": 163321,
-      "name": "Bois Lie (feat. Machine Gun Kelly)",
-      "url": "https://open.spotify.com/track/2lHktSigIAZqf7BkA7NRS7"
-    },
-    {
-      "added_at": "2023-09-08 04:00:00",
-      "album": {
         "name": "cough drops",
         "url": "https://open.spotify.com/album/4gM0KEbTRLuejffBFA1kph"
       },
@@ -1163,22 +1163,18 @@
     {
       "added_at": "2023-09-08 04:00:00",
       "album": {
-        "name": "Year 3000 2.0",
-        "url": "https://open.spotify.com/album/5Ofq6KPqN8XUK5gaOSB5WC"
+        "name": "Still Alive (From the Original Motion Picture Scream VI)",
+        "url": "https://open.spotify.com/album/50Zsh8ekKxgClUUKoVQe9q"
       },
       "artists": [
         {
-          "name": "Busted",
-          "url": "https://open.spotify.com/artist/3Z6IRCo7umuk8K2XQy0ZDj"
-        },
-        {
-          "name": "Jonas Brothers",
-          "url": "https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD"
+          "name": "Demi Lovato",
+          "url": "https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp"
         }
       ],
-      "duration_ms": 197387,
-      "name": "Year 3000 2.0",
-      "url": "https://open.spotify.com/track/6GQER7cmMJ3goZa1U6VgPs"
+      "duration_ms": 185310,
+      "name": "Still Alive - From the Original Motion Picture Scream VI",
+      "url": "https://open.spotify.com/track/4Gnbk3CFlF1Qt0nTiz693B"
     },
     {
       "added_at": "2023-09-08 04:00:00",
@@ -1199,22 +1195,6 @@
     {
       "added_at": "2023-09-08 04:00:00",
       "album": {
-        "name": "Still Alive (From the Original Motion Picture Scream VI)",
-        "url": "https://open.spotify.com/album/50Zsh8ekKxgClUUKoVQe9q"
-      },
-      "artists": [
-        {
-          "name": "Demi Lovato",
-          "url": "https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp"
-        }
-      ],
-      "duration_ms": 185310,
-      "name": "Still Alive - From the Original Motion Picture Scream VI",
-      "url": "https://open.spotify.com/track/4Gnbk3CFlF1Qt0nTiz693B"
-    },
-    {
-      "added_at": "2023-09-08 04:00:00",
-      "album": {
         "name": "Cynical",
         "url": "https://open.spotify.com/album/357gbL6nwsDoNxTvZ5YWrm"
       },
@@ -1227,6 +1207,26 @@
       "duration_ms": 134582,
       "name": "Cynical",
       "url": "https://open.spotify.com/track/5DT396Bk4kxXH0Y8ADyyE3"
+    },
+    {
+      "added_at": "2023-09-08 04:00:00",
+      "album": {
+        "name": "Year 3000 2.0",
+        "url": "https://open.spotify.com/album/5Ofq6KPqN8XUK5gaOSB5WC"
+      },
+      "artists": [
+        {
+          "name": "Busted",
+          "url": "https://open.spotify.com/artist/3Z6IRCo7umuk8K2XQy0ZDj"
+        },
+        {
+          "name": "Jonas Brothers",
+          "url": "https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD"
+        }
+      ],
+      "duration_ms": 197387,
+      "name": "Year 3000 2.0",
+      "url": "https://open.spotify.com/track/6GQER7cmMJ3goZa1U6VgPs"
     },
     {
       "added_at": "2023-09-08 04:00:00",
@@ -1263,6 +1263,22 @@
     {
       "added_at": "2023-09-08 04:00:00",
       "album": {
+        "name": "only wanna dance",
+        "url": "https://open.spotify.com/album/0TKIG4zSRc1lLU7CJ5ythm"
+      },
+      "artists": [
+        {
+          "name": "almost monday",
+          "url": "https://open.spotify.com/artist/42FzVuyJH8YbkhzWSR2n8E"
+        }
+      ],
+      "duration_ms": 144391,
+      "name": "only wanna dance",
+      "url": "https://open.spotify.com/track/5unvfecPlWyn1NkFpf5YvA"
+    },
+    {
+      "added_at": "2023-09-08 04:00:00",
+      "album": {
         "name": "FUNERAL",
         "url": "https://open.spotify.com/album/1KQLkCFFcvA9BT0aGsmejd"
       },
@@ -1295,22 +1311,6 @@
     {
       "added_at": "2023-09-08 04:00:00",
       "album": {
-        "name": "only wanna dance",
-        "url": "https://open.spotify.com/album/0TKIG4zSRc1lLU7CJ5ythm"
-      },
-      "artists": [
-        {
-          "name": "almost monday",
-          "url": "https://open.spotify.com/artist/42FzVuyJH8YbkhzWSR2n8E"
-        }
-      ],
-      "duration_ms": 144391,
-      "name": "only wanna dance",
-      "url": "https://open.spotify.com/track/5unvfecPlWyn1NkFpf5YvA"
-    },
-    {
-      "added_at": "2023-09-08 04:00:00",
-      "album": {
         "name": "BANG BANG!",
         "url": "https://open.spotify.com/album/4YmjnqegnwZ18ruZjdJsIH"
       },
@@ -1323,38 +1323,6 @@
       "duration_ms": 136387,
       "name": "BANG BANG!",
       "url": "https://open.spotify.com/track/2YiQL9Aa4PmGF8oMFADzzA"
-    },
-    {
-      "added_at": "2023-09-08 04:00:00",
-      "album": {
-        "name": "Everknown",
-        "url": "https://open.spotify.com/album/1Y7aDjyMGak66mefhptdXx"
-      },
-      "artists": [
-        {
-          "name": "NEEDTOBREATHE",
-          "url": "https://open.spotify.com/artist/610EjgFatGvVPtib97jQ8G"
-        }
-      ],
-      "duration_ms": 265120,
-      "name": "Everknown",
-      "url": "https://open.spotify.com/track/00YQhkHze8n5oLQdCQdZ4V"
-    },
-    {
-      "added_at": "2023-09-08 04:00:00",
-      "album": {
-        "name": "Eye For An Eye (Single from John Wick: Chapter 4 Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/37KRITWJS6Awq8NmJOsXLG"
-      },
-      "artists": [
-        {
-          "name": "Rina Sawayama",
-          "url": "https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5"
-        }
-      ],
-      "duration_ms": 184281,
-      "name": "Eye For An Eye (Single from John Wick: Chapter 4 Original Motion Picture Soundtrack)",
-      "url": "https://open.spotify.com/track/5dEeT1r0H6uK0iIEpOBZOg"
     },
     {
       "added_at": "2023-09-08 04:00:00",
@@ -1375,6 +1343,38 @@
     {
       "added_at": "2023-09-08 04:00:00",
       "album": {
+        "name": "Eye For An Eye (Single from John Wick: Chapter 4 Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/37KRITWJS6Awq8NmJOsXLG"
+      },
+      "artists": [
+        {
+          "name": "Rina Sawayama",
+          "url": "https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5"
+        }
+      ],
+      "duration_ms": 184281,
+      "name": "Eye For An Eye (Single from John Wick: Chapter 4 Original Motion Picture Soundtrack)",
+      "url": "https://open.spotify.com/track/5dEeT1r0H6uK0iIEpOBZOg"
+    },
+    {
+      "added_at": "2023-09-08 04:00:00",
+      "album": {
+        "name": "Everknown",
+        "url": "https://open.spotify.com/album/1Y7aDjyMGak66mefhptdXx"
+      },
+      "artists": [
+        {
+          "name": "NEEDTOBREATHE",
+          "url": "https://open.spotify.com/artist/610EjgFatGvVPtib97jQ8G"
+        }
+      ],
+      "duration_ms": 265120,
+      "name": "Everknown",
+      "url": "https://open.spotify.com/track/00YQhkHze8n5oLQdCQdZ4V"
+    },
+    {
+      "added_at": "2023-09-08 04:00:00",
+      "album": {
         "name": "Further Joy",
         "url": "https://open.spotify.com/album/1rM5i5ofhPY3hdPA5wcozJ"
       },
@@ -1387,22 +1387,6 @@
       "duration_ms": 197040,
       "name": "Barely on My Mind",
       "url": "https://open.spotify.com/track/7LigIDzs63Y4uFlZvNzCZq"
-    },
-    {
-      "added_at": "2023-09-08 04:00:00",
-      "album": {
-        "name": "Be Your Man",
-        "url": "https://open.spotify.com/album/2FPHRWP6rXfchwyAZCJjAu"
-      },
-      "artists": [
-        {
-          "name": "G Flip",
-          "url": "https://open.spotify.com/artist/4SdIXLzfabqU61iK7SnKAU"
-        }
-      ],
-      "duration_ms": 212414,
-      "name": "Be Your Man",
-      "url": "https://open.spotify.com/track/0vUGBxV9t1nNkmdWYDhHOH"
     },
     {
       "added_at": "2023-09-08 04:00:00",
@@ -1423,6 +1407,22 @@
       "duration_ms": 155919,
       "name": "Memories (with WILLOW)",
       "url": "https://open.spotify.com/track/3LcMLFApeU9uCT8VCWEVjr"
+    },
+    {
+      "added_at": "2023-09-08 04:00:00",
+      "album": {
+        "name": "Be Your Man",
+        "url": "https://open.spotify.com/album/2FPHRWP6rXfchwyAZCJjAu"
+      },
+      "artists": [
+        {
+          "name": "G Flip",
+          "url": "https://open.spotify.com/artist/4SdIXLzfabqU61iK7SnKAU"
+        }
+      ],
+      "duration_ms": 212414,
+      "name": "Be Your Man",
+      "url": "https://open.spotify.com/track/0vUGBxV9t1nNkmdWYDhHOH"
     },
     {
       "added_at": "2023-09-08 04:00:00",
@@ -1491,6 +1491,22 @@
     {
       "added_at": "2023-09-08 04:00:00",
       "album": {
+        "name": "Out Of My System",
+        "url": "https://open.spotify.com/album/7jopIUIxL6FK9izKNhfVXb"
+      },
+      "artists": [
+        {
+          "name": "Louis Tomlinson",
+          "url": "https://open.spotify.com/artist/57WHJIHrjOE3iAxpihhMnp"
+        }
+      ],
+      "duration_ms": 137973,
+      "name": "Out Of My System",
+      "url": "https://open.spotify.com/track/4wDXilLhgq8qNnj4wiEp4F"
+    },
+    {
+      "added_at": "2023-09-08 04:00:00",
+      "album": {
         "name": "California Girl",
         "url": "https://open.spotify.com/album/7tT8MODPGpzEShsgFUBA6q"
       },
@@ -1507,18 +1523,18 @@
     {
       "added_at": "2023-09-08 04:00:00",
       "album": {
-        "name": "Out Of My System",
-        "url": "https://open.spotify.com/album/7jopIUIxL6FK9izKNhfVXb"
+        "name": "Twinkle Twinkle",
+        "url": "https://open.spotify.com/album/1ybrTFXVkVuSmFdS0twHzb"
       },
       "artists": [
         {
-          "name": "Louis Tomlinson",
-          "url": "https://open.spotify.com/artist/57WHJIHrjOE3iAxpihhMnp"
+          "name": "Leah Kate",
+          "url": "https://open.spotify.com/artist/6oWOHAOyBUn6aJlKIPJK9r"
         }
       ],
-      "duration_ms": 137973,
-      "name": "Out Of My System",
-      "url": "https://open.spotify.com/track/4wDXilLhgq8qNnj4wiEp4F"
+      "duration_ms": 156937,
+      "name": "Twinkle Twinkle",
+      "url": "https://open.spotify.com/track/6zBqlhWjEhNyH4Z8eUDzMT"
     },
     {
       "added_at": "2023-09-08 04:00:00",
@@ -1539,22 +1555,6 @@
       "duration_ms": 149142,
       "name": "FREAK",
       "url": "https://open.spotify.com/track/59QtD84KONsWuBFL7bwQrP"
-    },
-    {
-      "added_at": "2023-09-08 04:00:00",
-      "album": {
-        "name": "Twinkle Twinkle",
-        "url": "https://open.spotify.com/album/1ybrTFXVkVuSmFdS0twHzb"
-      },
-      "artists": [
-        {
-          "name": "Leah Kate",
-          "url": "https://open.spotify.com/artist/6oWOHAOyBUn6aJlKIPJK9r"
-        }
-      ],
-      "duration_ms": 156937,
-      "name": "Twinkle Twinkle",
-      "url": "https://open.spotify.com/track/6zBqlhWjEhNyH4Z8eUDzMT"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -1579,22 +1579,6 @@
     {
       "added_at": "2023-09-08 04:00:00",
       "album": {
-        "name": "Tissues",
-        "url": "https://open.spotify.com/album/1LIAp7pyElYRzvlP0mXSew"
-      },
-      "artists": [
-        {
-          "name": "YUNGBLUD",
-          "url": "https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW"
-        }
-      ],
-      "duration_ms": 215163,
-      "name": "Tissues",
-      "url": "https://open.spotify.com/track/0jRY4XO556pn1zHZAoY3ph"
-    },
-    {
-      "added_at": "2023-09-08 04:00:00",
-      "album": {
         "name": "Friends With Benefits",
         "url": "https://open.spotify.com/album/1V6UogSpYpLE8XYmCdjR5N"
       },
@@ -1607,6 +1591,22 @@
       "duration_ms": 187322,
       "name": "Friends With Benefits",
       "url": "https://open.spotify.com/track/3cubovyBMABNcWzSdbzMTP"
+    },
+    {
+      "added_at": "2023-09-08 04:00:00",
+      "album": {
+        "name": "Tissues",
+        "url": "https://open.spotify.com/album/1LIAp7pyElYRzvlP0mXSew"
+      },
+      "artists": [
+        {
+          "name": "YUNGBLUD",
+          "url": "https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW"
+        }
+      ],
+      "duration_ms": 215163,
+      "name": "Tissues",
+      "url": "https://open.spotify.com/track/0jRY4XO556pn1zHZAoY3ph"
     },
     {
       "added_at": "2023-09-08 04:00:00",
@@ -1655,22 +1655,6 @@
     {
       "added_at": "2023-09-08 04:00:00",
       "album": {
-        "name": "Love Of Mine (Night Visions Demo)",
-        "url": "https://open.spotify.com/album/3BAUn8SPQORLl49pDhR30l"
-      },
-      "artists": [
-        {
-          "name": "Imagine Dragons",
-          "url": "https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q"
-        }
-      ],
-      "duration_ms": 249995,
-      "name": "Love Of Mine - Night Visions Demo",
-      "url": "https://open.spotify.com/track/4C20SN2nzLbsZbS6A4idoA"
-    },
-    {
-      "added_at": "2023-09-08 04:00:00",
-      "album": {
         "name": "Nothing Else Matters",
         "url": "https://open.spotify.com/album/0aJexlAjIMTzRARD3KifWc"
       },
@@ -1703,6 +1687,22 @@
       "duration_ms": 395785,
       "name": "Nothing Else Matters",
       "url": "https://open.spotify.com/track/43YC4iYmSsYueViJR4dBGA"
+    },
+    {
+      "added_at": "2023-09-08 04:00:00",
+      "album": {
+        "name": "Love Of Mine (Night Visions Demo)",
+        "url": "https://open.spotify.com/album/3BAUn8SPQORLl49pDhR30l"
+      },
+      "artists": [
+        {
+          "name": "Imagine Dragons",
+          "url": "https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q"
+        }
+      ],
+      "duration_ms": 249995,
+      "name": "Love Of Mine - Night Visions Demo",
+      "url": "https://open.spotify.com/track/4C20SN2nzLbsZbS6A4idoA"
     },
     {
       "added_at": "2023-09-08 04:00:00",
@@ -1855,22 +1855,6 @@
     {
       "added_at": "2023-09-08 04:00:00",
       "album": {
-        "name": "wear your heart out",
-        "url": "https://open.spotify.com/album/4KOM21G440kOOadSRiTeEu"
-      },
-      "artists": [
-        {
-          "name": "Nightly",
-          "url": "https://open.spotify.com/artist/3qDMrpZHtZEtVl5i1l7hP3"
-        }
-      ],
-      "duration_ms": 191287,
-      "name": "the feeling",
-      "url": "https://open.spotify.com/track/0FZoGTWJNMUYCzcJRXe5ny"
-    },
-    {
-      "added_at": "2023-09-08 04:00:00",
-      "album": {
         "name": "I Love You, I\u2019m Trying",
         "url": "https://open.spotify.com/album/2BTddi3XyqAcset5mAYl2n"
       },
@@ -1887,18 +1871,18 @@
     {
       "added_at": "2023-09-08 04:00:00",
       "album": {
-        "name": "in loving memory",
-        "url": "https://open.spotify.com/album/0ZvU2iSXtYxBeR9QzvHQau"
+        "name": "wear your heart out",
+        "url": "https://open.spotify.com/album/4KOM21G440kOOadSRiTeEu"
       },
       "artists": [
         {
-          "name": "blackbear",
-          "url": "https://open.spotify.com/artist/2cFrymmkijnjDg9SS92EPM"
+          "name": "Nightly",
+          "url": "https://open.spotify.com/artist/3qDMrpZHtZEtVl5i1l7hP3"
         }
       ],
-      "duration_ms": 182792,
-      "name": "dead inside",
-      "url": "https://open.spotify.com/track/2Oo397nWzelAKMQBBIL8YI"
+      "duration_ms": 191287,
+      "name": "the feeling",
+      "url": "https://open.spotify.com/track/0FZoGTWJNMUYCzcJRXe5ny"
     },
     {
       "added_at": "2023-09-08 04:00:00",
@@ -1915,6 +1899,22 @@
       "duration_ms": 192748,
       "name": "Alive",
       "url": "https://open.spotify.com/track/2KoE7jhmorIAAqxBh3K7FI"
+    },
+    {
+      "added_at": "2023-09-08 04:00:00",
+      "album": {
+        "name": "in loving memory",
+        "url": "https://open.spotify.com/album/0ZvU2iSXtYxBeR9QzvHQau"
+      },
+      "artists": [
+        {
+          "name": "blackbear",
+          "url": "https://open.spotify.com/artist/2cFrymmkijnjDg9SS92EPM"
+        }
+      ],
+      "duration_ms": 182792,
+      "name": "dead inside",
+      "url": "https://open.spotify.com/track/2Oo397nWzelAKMQBBIL8YI"
     },
     {
       "added_at": "2023-09-08 04:00:00",
@@ -1951,22 +1951,6 @@
     {
       "added_at": "2023-09-08 04:00:00",
       "album": {
-        "name": "butterflies (From Barbie The Album)",
-        "url": "https://open.spotify.com/album/6vrh5MHwmmqW4WYZr4wWfg"
-      },
-      "artists": [
-        {
-          "name": "GAYLE",
-          "url": "https://open.spotify.com/artist/2VSHKHBTiXWplO8lxcnUC9"
-        }
-      ],
-      "duration_ms": 136200,
-      "name": "butterflies (From Barbie The Album)",
-      "url": "https://open.spotify.com/track/0awsZaKWdHDpbayAdfYY0p"
-    },
-    {
-      "added_at": "2023-09-08 04:00:00",
-      "album": {
         "name": "Viva Las Vengeance",
         "url": "https://open.spotify.com/album/25DhBz5cckEAFcivcSzSTo"
       },
@@ -1979,6 +1963,22 @@
       "duration_ms": 200037,
       "name": "Middle Of A Breakup",
       "url": "https://open.spotify.com/track/18Lvxsm4l6noRNjQW8nS4b"
+    },
+    {
+      "added_at": "2023-09-08 04:00:00",
+      "album": {
+        "name": "everybody hates me",
+        "url": "https://open.spotify.com/album/4IkWZIcTHndXokjUNG3B6q"
+      },
+      "artists": [
+        {
+          "name": "GAYLE",
+          "url": "https://open.spotify.com/artist/2VSHKHBTiXWplO8lxcnUC9"
+        }
+      ],
+      "duration_ms": 120287,
+      "name": "everybody hates me",
+      "url": "https://open.spotify.com/track/4vSgdsddL3qTemKDkscyjd"
     },
     {
       "added_at": "2023-09-08 04:00:00",
@@ -2079,38 +2079,6 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
-        "name": "Wishbone",
-        "url": "https://open.spotify.com/album/3epsVwCw6BGWKBa3kplHRr"
-      },
-      "artists": [
-        {
-          "name": "Julia Wolf",
-          "url": "https://open.spotify.com/artist/5yvGiZLSWJTPBlZpVbPnEZ"
-        }
-      ],
-      "duration_ms": 172153,
-      "name": "Wishbone",
-      "url": "https://open.spotify.com/track/5kmyEZWbvN68yERmQq3PM5"
-    },
-    {
-      "added_at": "2023-09-08 04:00:00",
-      "album": {
-        "name": "everybody hates me",
-        "url": "https://open.spotify.com/album/4IkWZIcTHndXokjUNG3B6q"
-      },
-      "artists": [
-        {
-          "name": "GAYLE",
-          "url": "https://open.spotify.com/artist/2VSHKHBTiXWplO8lxcnUC9"
-        }
-      ],
-      "duration_ms": 120287,
-      "name": "everybody hates me",
-      "url": "https://open.spotify.com/track/4vSgdsddL3qTemKDkscyjd"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
         "name": "Day Job",
         "url": "https://open.spotify.com/album/5p91Tw8x7pD9Y46xweBqPi"
       },
@@ -2127,6 +2095,22 @@
       "duration_ms": 158423,
       "name": "Day Job",
       "url": "https://open.spotify.com/track/0gQaeonQS76sGjcM7FXojN"
+    },
+    {
+      "added_at": "2023-10-06 04:00:00",
+      "album": {
+        "name": "Wishbone",
+        "url": "https://open.spotify.com/album/3epsVwCw6BGWKBa3kplHRr"
+      },
+      "artists": [
+        {
+          "name": "Julia Wolf",
+          "url": "https://open.spotify.com/artist/5yvGiZLSWJTPBlZpVbPnEZ"
+        }
+      ],
+      "duration_ms": 172153,
+      "name": "Wishbone",
+      "url": "https://open.spotify.com/track/5kmyEZWbvN68yERmQq3PM5"
     },
     {
       "added_at": "2023-09-08 04:00:00",
@@ -2159,6 +2143,22 @@
       "duration_ms": 147000,
       "name": "Red Lights",
       "url": "https://open.spotify.com/track/4AII0LddlsmuLEWBDRXurl"
+    },
+    {
+      "added_at": "2023-09-08 04:00:00",
+      "album": {
+        "name": "butterflies (From Barbie The Album)",
+        "url": "https://open.spotify.com/album/6vrh5MHwmmqW4WYZr4wWfg"
+      },
+      "artists": [
+        {
+          "name": "GAYLE",
+          "url": "https://open.spotify.com/artist/2VSHKHBTiXWplO8lxcnUC9"
+        }
+      ],
+      "duration_ms": 136200,
+      "name": "butterflies (From Barbie The Album)",
+      "url": "https://open.spotify.com/track/0awsZaKWdHDpbayAdfYY0p"
     }
   ],
   "unique_name": "Pop Rock",

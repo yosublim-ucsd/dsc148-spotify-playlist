@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX35UmSKx1jwI.md) - [plain]
 
 > Feel good, high energy beats to keep you motivated for that every day workout!
 
-[Spotify](https://open.spotify.com/user/spotify) - 107,735 likes - 60 songs - 3 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 107,880 likes - 60 songs - 3 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX35UmSKx1jwI.md) - [plain]
 | 59 | [Believe](https://open.spotify.com/track/2iRQKePYqxqXLW01HCVZzG) | [VINAI](https://open.spotify.com/artist/4mrBetqy378Jf1y6NLszlx), [Alexandra Stan](https://open.spotify.com/artist/0BmLNz4nSLfoWYW1cYsElL) | [Believe](https://open.spotify.com/album/6ZWhhiys8UVoTKSVQdklan) | 2:09 |
 | 60 | [One Last Dance](https://open.spotify.com/track/07B9SsrBhdpcVBGb7vOKYL) | [Imanbek](https://open.spotify.com/artist/5rGrDvrLOV2VV8SCFVGWlj), [Ali Gatie](https://open.spotify.com/artist/4rTv3Ejc7hKMtmoBOK1B4T) | [One Last Dance](https://open.spotify.com/album/4YYQxEE1F9q99lwD6HEzzJ) | 3:06 |
 
-Snapshot ID: `MCxkOTIyMzM4Y2FhOWYyZGMxYjJmMWM4MDkyODc1YmVmN2UzZTI3YzU1`
+Snapshot ID: `MCxkN2U3MWRjMDI0OGQxNjkwNWU3NjAwNWI4MmVjMjYyODY0OWZhZTI1`

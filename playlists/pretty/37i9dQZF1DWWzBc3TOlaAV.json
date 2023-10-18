@@ -1,12 +1,12 @@
 {
   "description": "These songs rocked the '60s. Cover: Jimi Hendrix",
-  "num_followers": 876778,
+  "num_followers": 876886,
   "original_name": "60s Rock Anthems",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0ODBkY2U2M2RiYmJhZThmZGEyY2RkZTVlYjY1NTk5OTM0ZDc2Yzhk",
+  "snapshot_id": "MCw4MTM0NDNjNGM3MDIwZmE0YWZjZWJlZTgwNTY5MGQwNTk1OTBmZDlh",
   "tracks": [
     {
       "added_at": "2023-01-18 21:00:56",
@@ -635,22 +635,6 @@
     {
       "added_at": "2023-01-18 21:00:56",
       "album": {
-        "name": "The Soft Parade",
-        "url": "https://open.spotify.com/album/75bLu4Ung5QbMdJYxx7wTI"
-      },
-      "artists": [
-        {
-          "name": "The Doors",
-          "url": "https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt"
-        }
-      ],
-      "duration_ms": 190253,
-      "name": "Touch Me",
-      "url": "https://open.spotify.com/track/4BVE5tIIpYabZcYCbephNW"
-    },
-    {
-      "added_at": "2023-01-18 21:00:56",
-      "album": {
         "name": "All Summer Long (Mono & Stereo)",
         "url": "https://open.spotify.com/album/6GnzWMUyNEETCq6eftD98v"
       },
@@ -663,6 +647,22 @@
       "duration_ms": 134386,
       "name": "I Get Around (Mono)",
       "url": "https://open.spotify.com/track/3v9xlH6BpmRbqL7hgNJhfT"
+    },
+    {
+      "added_at": "2023-01-18 21:00:56",
+      "album": {
+        "name": "The Soft Parade",
+        "url": "https://open.spotify.com/album/75bLu4Ung5QbMdJYxx7wTI"
+      },
+      "artists": [
+        {
+          "name": "The Doors",
+          "url": "https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt"
+        }
+      ],
+      "duration_ms": 190253,
+      "name": "Touch Me",
+      "url": "https://open.spotify.com/track/4BVE5tIIpYabZcYCbephNW"
     },
     {
       "added_at": "2023-01-18 21:00:56",
@@ -731,22 +731,6 @@
     {
       "added_at": "2023-01-18 21:00:56",
       "album": {
-        "name": "Hums Of The Lovin' Spoonful",
-        "url": "https://open.spotify.com/album/3enoBBhSA6i2pXEP8rjAWY"
-      },
-      "artists": [
-        {
-          "name": "The Lovin' Spoonful",
-          "url": "https://open.spotify.com/artist/7CCn4PFRRRZF127jtCBAUe"
-        }
-      ],
-      "duration_ms": 160306,
-      "name": "Summer in the City - Remastered",
-      "url": "https://open.spotify.com/track/7AzFID6u1b3zIWbd9pb8Dk"
-    },
-    {
-      "added_at": "2023-01-18 21:00:56",
-      "album": {
         "name": "Aftermath",
         "url": "https://open.spotify.com/album/72qrnM4yUNMDDlWiqKc8iY"
       },
@@ -759,6 +743,22 @@
       "duration_ms": 221533,
       "name": "Under My Thumb",
       "url": "https://open.spotify.com/track/5lmGgOaixbwKHtpTzjJoqx"
+    },
+    {
+      "added_at": "2023-01-18 21:00:56",
+      "album": {
+        "name": "Hums Of The Lovin' Spoonful",
+        "url": "https://open.spotify.com/album/3enoBBhSA6i2pXEP8rjAWY"
+      },
+      "artists": [
+        {
+          "name": "The Lovin' Spoonful",
+          "url": "https://open.spotify.com/artist/7CCn4PFRRRZF127jtCBAUe"
+        }
+      ],
+      "duration_ms": 160306,
+      "name": "Summer in the City - Remastered",
+      "url": "https://open.spotify.com/track/7AzFID6u1b3zIWbd9pb8Dk"
     },
     {
       "added_at": "2023-01-18 21:00:56",

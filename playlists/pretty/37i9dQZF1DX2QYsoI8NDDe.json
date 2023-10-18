@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Las poderosas, las reinas, las chacalosas! Estas son la mujeres quebrando barreras en la M\u00fasica Mexicana. Cover: Conexi\u00f3n Divina",
-  "num_followers": 500200,
+  "num_followers": 500183,
   "original_name": "Las Chacalosas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2NjQxZGVhYzdkN2RhMjI5M2NiMTQxZmJmNTg4NTQ2ZTg1N2U4YjQ3",
+  "snapshot_id": "MCw5YzEyMTQ4MWU2MTVjMWMyNGM3NTAyYTYxYWU5OTdmODViYmRkYjEz",
   "tracks": [
     {
       "added_at": "2023-08-21 17:42:45",
@@ -839,22 +839,6 @@
     {
       "added_at": "2023-08-21 17:42:45",
       "album": {
-        "name": "Ismael (En Vivo)",
-        "url": "https://open.spotify.com/album/5CJzX8xV9XeSlC22tWPJ4T"
-      },
-      "artists": [
-        {
-          "name": "Las Mar\u00edas",
-          "url": "https://open.spotify.com/artist/1BsFNAYZkEx6rvQJH4sN6w"
-        }
-      ],
-      "duration_ms": 163840,
-      "name": "Ismael (En Vivo)",
-      "url": "https://open.spotify.com/track/614Kdv71MWjSPwDK7pNyTy"
-    },
-    {
-      "added_at": "2023-08-21 17:42:45",
-      "album": {
         "name": "Soy Mala",
         "url": "https://open.spotify.com/album/2TyCJUAgD4OkU6zSrPWFpe"
       },
@@ -871,6 +855,22 @@
       "duration_ms": 166333,
       "name": "Sexo D\u00e9bil (TNMDQH)",
       "url": "https://open.spotify.com/track/0qMENPFhmwopv8R8JaYQxr"
+    },
+    {
+      "added_at": "2023-08-21 17:42:45",
+      "album": {
+        "name": "Ismael (En Vivo)",
+        "url": "https://open.spotify.com/album/5CJzX8xV9XeSlC22tWPJ4T"
+      },
+      "artists": [
+        {
+          "name": "Las Mar\u00edas",
+          "url": "https://open.spotify.com/artist/1BsFNAYZkEx6rvQJH4sN6w"
+        }
+      ],
+      "duration_ms": 163840,
+      "name": "Ismael (En Vivo)",
+      "url": "https://open.spotify.com/track/614Kdv71MWjSPwDK7pNyTy"
     },
     {
       "added_at": "2023-08-21 17:42:45",
@@ -1035,18 +1035,18 @@
     {
       "added_at": "2023-08-21 17:42:45",
       "album": {
-        "name": "Jodida En Este Bar (En Vivo)",
-        "url": "https://open.spotify.com/album/3DG4q22yxndkW3NH3UsHYw"
+        "name": "En Peligro De Extinci\u00f3n (En Vivo)",
+        "url": "https://open.spotify.com/album/4V9YaFkLZlJHOkyhsVeHTD"
       },
       "artists": [
         {
-          "name": "Erika Vidrio",
-          "url": "https://open.spotify.com/artist/4psSCgqhwgjY16plPhSw9P"
+          "name": "Grace Guill\u00e9n",
+          "url": "https://open.spotify.com/artist/04K92Tg6ryvoyNj1Xju6rD"
         }
       ],
-      "duration_ms": 172483,
-      "name": "Jodida En Este Bar - En Vivo",
-      "url": "https://open.spotify.com/track/6OzW9fvluUQq4Cal5Wiqn3"
+      "duration_ms": 212280,
+      "name": "En Peligro De Extinci\u00f3n - En Vivo",
+      "url": "https://open.spotify.com/track/1jnccQsTSqFpNFriKasQi2"
     },
     {
       "added_at": "2023-08-21 17:42:45",
@@ -1067,18 +1067,18 @@
     {
       "added_at": "2023-08-21 17:42:45",
       "album": {
-        "name": "En Peligro De Extinci\u00f3n (En Vivo)",
-        "url": "https://open.spotify.com/album/4V9YaFkLZlJHOkyhsVeHTD"
+        "name": "Jodida En Este Bar (En Vivo)",
+        "url": "https://open.spotify.com/album/3DG4q22yxndkW3NH3UsHYw"
       },
       "artists": [
         {
-          "name": "Grace Guill\u00e9n",
-          "url": "https://open.spotify.com/artist/04K92Tg6ryvoyNj1Xju6rD"
+          "name": "Erika Vidrio",
+          "url": "https://open.spotify.com/artist/4psSCgqhwgjY16plPhSw9P"
         }
       ],
-      "duration_ms": 212280,
-      "name": "En Peligro De Extinci\u00f3n - En Vivo",
-      "url": "https://open.spotify.com/track/1jnccQsTSqFpNFriKasQi2"
+      "duration_ms": 172483,
+      "name": "Jodida En Este Bar - En Vivo",
+      "url": "https://open.spotify.com/track/6OzW9fvluUQq4Cal5Wiqn3"
     },
     {
       "added_at": "2023-08-21 17:42:45",

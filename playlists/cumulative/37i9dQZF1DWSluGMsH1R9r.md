@@ -4,7 +4,7 @@
 
 > Calm piano music for enhanced concentration.
 
-593 songs - 1 day 1 hr 30 min
+597 songs - 1 day 1 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,7 +31,7 @@
 | [Aegean Fantaisie](https://open.spotify.com/track/3U7ITXsh5lsZXbYheMBpdY) | [Jase Moran](https://open.spotify.com/artist/54eoq0q1McIMaeoK4J3DdQ) | [Aegean Fantaisie](https://open.spotify.com/album/2fYGZxBGC5TghSIzo8iIzY) | 2:51 | 2021-12-07 | 2022-07-29 |
 | [After Dawn](https://open.spotify.com/track/1N62tCrFso6PZ8OfwsbH53) | [Herbert Campas](https://open.spotify.com/artist/4xviN6HgtlSmFSSoetwtMy) | [After Dawn](https://open.spotify.com/album/4ySd5ged3rmDZ2398Odkc6) | 2:00 | 2021-12-07 | 2023-08-06 |
 | [After The Rain](https://open.spotify.com/track/78FM8RL21qznI4xA2Yqtix) | [Dario Crisman](https://open.spotify.com/artist/3z9wB1A84KYedTTWy1ciHF) | [After The Rain](https://open.spotify.com/album/6UoUV4OYZsmo7CUPD7OW1k) | 2:29 | 2021-12-07 |  |
-| [Again](https://open.spotify.com/track/5d2oRIkm7wSJAVrwUmrM2B) | [Lucie Jean](https://open.spotify.com/artist/5jEOVhrMJqGw6notBTGuKn) | [Again](https://open.spotify.com/album/49C1JBmiZ27ltjFJU3WbcD) | 3:11 | 2022-04-07 |  |
+| [Again](https://open.spotify.com/track/5d2oRIkm7wSJAVrwUmrM2B) | [Lucie Jean](https://open.spotify.com/artist/5jEOVhrMJqGw6notBTGuKn) | [Again](https://open.spotify.com/album/49C1JBmiZ27ltjFJU3WbcD) | 3:11 | 2022-04-07 | 2023-10-18 |
 | [Airborne](https://open.spotify.com/track/2MdnNxK70QIHwW999cttyQ) | [Maria Novotna](https://open.spotify.com/artist/3Bg7pjZM9srpKAJj1qlgU6) | [Airborne](https://open.spotify.com/album/7tmews40tmF8GyBOqzCpYC) | 2:41 | 2021-12-07 | 2023-01-27 |
 | [Al Fin](https://open.spotify.com/track/0ERBIAjdSC3hfkG9FvHEiN) | [Vastos Trofeos](https://open.spotify.com/artist/6RXn3dP1ZlAmIrEv2zspvq) | [Al Fin](https://open.spotify.com/album/782vjRICRTGgUGa7uNRVIl) | 3:34 | 2022-09-14 |  |
 | [Alignment](https://open.spotify.com/track/3JRA65bOIayOI3nag2qqhI) | [Max Walltine](https://open.spotify.com/artist/1fjExu7rpJivThwzQp5fq5) | [Alignment](https://open.spotify.com/album/2ak75QxRASpMwY9OLj2gSn) | 1:53 | 2022-01-04 | 2023-07-25 |
@@ -97,6 +97,7 @@
 | [Chronostasis](https://open.spotify.com/track/4vLkjOq0df258sEL7zrtE0) | [Abel Laloux](https://open.spotify.com/artist/5gt4p9v2Omsd6MVkR5Tm54) | [Chronostasis](https://open.spotify.com/album/3mEjbYACVfAp3enzgHVyeM) | 2:34 | 2021-12-07 | 2022-07-16 |
 | [Chère Tante](https://open.spotify.com/track/5Hms3m02qVC3MCjaSTOEnA) | [Catherina Dafoe](https://open.spotify.com/artist/0JMmT09ZgpWQAIgO14wWsD) | [4](https://open.spotify.com/album/7ivdFtTeofiXLu1SyqeDeD) | 2:04 | 2021-12-07 | 2022-12-24 |
 | [City Prelude](https://open.spotify.com/track/7jCRVvGKxzAMWDqIiW2T53) | [Julius Nilsson](https://open.spotify.com/artist/6TldgZgNH66W2AGRLsqwPX) | [Preludes](https://open.spotify.com/album/39pSeV5BLaPnUAQUtx6ww1) | 2:19 | 2022-12-22 |  |
+| [Coming Home](https://open.spotify.com/track/71m2wUi0w4bQHDqloMQg5c) | [Catherine Peterson](https://open.spotify.com/artist/4w0JSW4wf4K5yYsruCZEbV) | [Coming Home](https://open.spotify.com/album/3Gi20dWoDXkD68d73yiM6S) | 2:35 | 2023-10-17 |  |
 | [Con Le Zampe](https://open.spotify.com/track/1Ypn8gv9pyrGVaVvbxfWWf) | [Pied\-à\-Terre](https://open.spotify.com/artist/3FChImdCbv0x9AYfNzGfvQ) | [Con Le Zampe](https://open.spotify.com/album/7GqLrlOGywYZNFSgOp1KZT) | 2:34 | 2021-12-07 |  |
 | [Contemplation](https://open.spotify.com/track/1CzzOIi8GHxhzCaovIHYz4) | [Melody of Sound](https://open.spotify.com/artist/1jbj3bUyRhQ8FqU55nERZ4) | [Contemplation](https://open.spotify.com/album/1bjQy5fBUfZI24oR9A7Ttx) | 2:24 | 2021-12-07 | 2022-12-24 |
 | [Cornélis](https://open.spotify.com/track/3gGFpTbVGM8M2T3ZmjKsvJ) | [Mathilda Skonare Karlsson](https://open.spotify.com/artist/3vX7jDlJLIsbGSLSVRHunP) | [Cornélis](https://open.spotify.com/album/4jlUnPvwnPdxwNwC6VU3Mf) | 2:28 | 2021-12-07 |  |
@@ -237,11 +238,12 @@
 | [Inmersion](https://open.spotify.com/track/2U5SDqmvtVPPV1RBKyaZH9) | [Emil Negri](https://open.spotify.com/artist/6PRz3C0udLohuqVbczkyL6) | [Inmersion](https://open.spotify.com/album/4UKB7Z0S4Qwy6SjYddkmk1) | 2:19 | 2023-06-20 |  |
 | [Inner Axis](https://open.spotify.com/track/1jd5fyqDAFheXyMkCB0AX7) | [Marco Caron](https://open.spotify.com/artist/1ukrMCaSMKpylie4DjbhNw) | [Inner Axis](https://open.spotify.com/album/2EpslSBwvpOzdt0kk9nO4U) | 2:35 | 2022-01-04 | 2023-08-16 |
 | [Innocent Pleasure](https://open.spotify.com/track/77mJp2S0dP7PITIBWBN9KE) | [Tiny Rhino](https://open.spotify.com/artist/7Ma0CST4j0LCd0IYNi5RK4) | [Innocent Pleasure](https://open.spotify.com/album/278QhSkHqoR0B0eNATZFd5) | 3:29 | 2021-12-07 |  |
+| [Insignia](https://open.spotify.com/track/17moSSyt9oOxVHyewjXLav) | [Aron Edwards](https://open.spotify.com/artist/3HVOv7Lm5kDzwbpGibjL4W) | [Insignia](https://open.spotify.com/album/6KljnSEKSgk32JLRN4Vd9H) | 2:58 | 2023-10-17 |  |
 | [Intermedanos](https://open.spotify.com/track/4XR0XV2Quru1vEYZvTyWEP) | [Hondos Rostros](https://open.spotify.com/artist/1GkARSHIynvDFV4eyUZvhC) | [Intermedanos](https://open.spotify.com/album/39KxecFN1USX9DDlAU8ITO) | 2:35 | 2022-02-01 | 2022-12-24 |
 | [Intermediate](https://open.spotify.com/track/1kaBf48DzOMZGZaW8RS0a6) | [Alain Pironi](https://open.spotify.com/artist/3eJuiAewsbEy5XAiGnQlhr) | [Intermediate](https://open.spotify.com/album/7zr0qB3NM8DbgKTdqTr7LU) | 2:30 | 2021-12-07 |  |
 | [Interstellar Seasons](https://open.spotify.com/track/7m6PhceApKOx7Z2hFM4fIX) | [Thalia Havenstein](https://open.spotify.com/artist/2SNA9lbI3oRV7mtnBTNEs7) | [Interstellar Seasons](https://open.spotify.com/album/3m11zDc4En223CSPDiw5cA) | 2:31 | 2021-12-07 |  |
 | [Intimita \- Futatabi](https://open.spotify.com/track/6tUBHCAKCnlqbyEqJjXJSo) | [Haru Kitamura](https://open.spotify.com/artist/6qjQ8iKIjHkc6x5wodNJiD) | [Intimita \- Futatabi](https://open.spotify.com/album/4JnQ9RJjw3BaE18z8fccAE) | 1:57 | 2021-12-07 | 2023-07-25 |
-| [Into the Subconscious](https://open.spotify.com/track/68WU8PnAO2EajCfL1s7TIL) | [Franco Robert](https://open.spotify.com/artist/3SmMFjYXeSKnh6JOJ1fpIx) | [Into the Subconscious](https://open.spotify.com/album/3RWMMRlWWlpEfBikCBpSLC) | 2:43 | 2022-05-20 |  |
+| [Into the Subconscious](https://open.spotify.com/track/68WU8PnAO2EajCfL1s7TIL) | [Franco Robert](https://open.spotify.com/artist/3SmMFjYXeSKnh6JOJ1fpIx) | [Into the Subconscious](https://open.spotify.com/album/3RWMMRlWWlpEfBikCBpSLC) | 2:43 | 2022-05-20 | 2023-10-18 |
 | [Irenic](https://open.spotify.com/track/6TOY3VJAAMb2uRfYLBvCXR) | [Davignon](https://open.spotify.com/artist/6X9fOKgbMi7PCa7ZuB7ktE) | [Irenic](https://open.spotify.com/album/3bFSZrJMYMzAh62F1ujuhx) | 2:57 | 2023-10-04 |  |
 | [Island](https://open.spotify.com/track/2qglfm0H0hUuL4SwQHtuWj) | [Dean Caplan](https://open.spotify.com/artist/5S8R73SrnsbicfhME9Ix5q) | [Island](https://open.spotify.com/album/6Tv48n5bgrkcAZNmtG8YYe) | 2:27 | 2021-12-07 |  |
 | [Jalousie](https://open.spotify.com/track/0EhY59G3z36qhZvRf4JLWi) | [Amy\-Leigh Williamson](https://open.spotify.com/artist/5rc29ZWhATx7oy7gk525xx) | [Jalousie](https://open.spotify.com/album/38V6f82x9xE1Tet8pItNnj) | 2:00 | 2022-01-04 |  |
@@ -381,6 +383,7 @@
 | [Paisible](https://open.spotify.com/track/1tmUqof1lj9IgHQoh4LjA7) | [Belle Margaux](https://open.spotify.com/artist/3WKsLlBJ9kQc0ccsuEuZdu) | [Paisible](https://open.spotify.com/album/2bYxwhnFN7tyW3FKu4BWWu) | 2:33 | 2021-12-07 | 2023-07-05 |
 | [Particle rise](https://open.spotify.com/track/0D1cenBb72xRFkD4CErjP3) | [Ama Hemmah](https://open.spotify.com/artist/6hTWxjJtaTM4iQQuOexVqY) | [Particle rise](https://open.spotify.com/album/1jeycRIxUrfUgKxTzDRrKR) | 2:32 | 2023-05-03 |  |
 | [Passage sombre](https://open.spotify.com/track/22wBRYNiY0W3Kl1Zk6hmAk) | [Chloé Aubrée](https://open.spotify.com/artist/7hNVE8EgE0njBXBgSEo7kT) | [Passage sombre](https://open.spotify.com/album/0QwnyoB5v0ZhhFThPZg3Y9) | 2:14 | 2022-01-18 |  |
+| [Paths](https://open.spotify.com/track/3JWltf5Em6j7uhJhSNFneD) | [Silje Mørk](https://open.spotify.com/artist/3Th7uQxL5iOFrWHZ4GZIzP) | [Paths](https://open.spotify.com/album/5mo02zw7os9mLxLZtANHlC) | 2:52 | 2023-10-17 |  |
 | [patience and fortitude](https://open.spotify.com/track/3EVyJJ54XT7cCJOdAoO5MC) | [lady piano](https://open.spotify.com/artist/1PSFYJJ2psCIar4J01bpy0) | [big sky](https://open.spotify.com/album/4Fsxc3VBsEYAUAuig3h4fU) | 2:26 | 2021-12-07 | 2023-05-20 |
 | [Peace Frame](https://open.spotify.com/track/1hEqY5WgZIpNgZKmuFGNax) | [Mauvais Roger](https://open.spotify.com/artist/3WywoFt9vF6tSIJGseVSTD) | [Peace Frame](https://open.spotify.com/album/0kSkprStyDhDvoZJwHd6wH) | 2:59 | 2022-03-01 |  |
 | [Peaceful Ignorance](https://open.spotify.com/track/5bGPLVJlI19XA1Oi4XtdEV) | [Evening Tales from the Stars](https://open.spotify.com/artist/4VftS6I87aCiaNvLRYhgBM) | [Peaceful Ignorance](https://open.spotify.com/album/6BGZkVmgfvJvsHGlK6Ri16) | 2:38 | 2023-09-05 |  |
@@ -463,7 +466,7 @@
 | [Silverfog](https://open.spotify.com/track/6nEtaXKHUnrcbTjagD9mXC) | [Claudio Polle](https://open.spotify.com/artist/3rY7PNIAjKRRzRyZvwFLBv) | [Silverfog](https://open.spotify.com/album/4lvsDfnDzSQ5SbV8vAGMW9) | 2:36 | 2022-01-04 |  |
 | [Simple Beauty](https://open.spotify.com/track/6r5txGtAi1qZDRt93OJrcF) | [Jon Hailey](https://open.spotify.com/artist/0Kr5kE9OFqjufb7gRkDBz0) | [Simple Beauty](https://open.spotify.com/album/70rVMRRBihLgLnJimjHGZ3) | 2:48 | 2023-09-05 |  |
 | [simplified](https://open.spotify.com/track/0eCVi3Gu6YwE6Zh0ukFFvo) | [Lyle Shattler](https://open.spotify.com/artist/6b9XvfnznB6bPK95vnhO0k) | [simplified](https://open.spotify.com/album/2DS1bD4i7ywzL5vlVSFhuS) | 2:32 | 2021-12-07 | 2022-12-24 |
-| [Sincerely](https://open.spotify.com/track/4AvIQWGzD3YoYi2BEAxegJ) | [Deborah Fulmen](https://open.spotify.com/artist/3u1wiRKUBM08aAzGxjNwZb) | [Sincerely](https://open.spotify.com/album/23rm68zt8EUysobz9LTR9B) | 3:15 | 2022-04-20 |  |
+| [Sincerely](https://open.spotify.com/track/4AvIQWGzD3YoYi2BEAxegJ) | [Deborah Fulmen](https://open.spotify.com/artist/3u1wiRKUBM08aAzGxjNwZb) | [Sincerely](https://open.spotify.com/album/23rm68zt8EUysobz9LTR9B) | 3:15 | 2022-04-20 | 2023-10-18 |
 | [Sinkadus](https://open.spotify.com/track/0dLptfXupd4zsgppQgrvVO) | [Alfred Mizzi](https://open.spotify.com/artist/2Uf5jsbEf7DrgnCTRSJDXp) | [Sinkadus](https://open.spotify.com/album/54JglKkD4WG2OzwhmXUv9M) | 2:32 | 2021-12-07 | 2022-07-16 |
 | [Sketches](https://open.spotify.com/track/4g7wXitUwsMOjZMA9m1vy6) | [Ever So Blue](https://open.spotify.com/artist/6LwcYWG1molG0KW2xwnPd2) | [Sketches](https://open.spotify.com/album/11g6l4agw2isqnalKB9bbS) | 2:37 | 2022-04-20 |  |
 | [Skärgård](https://open.spotify.com/track/5WHAPNyWoUYm8TB13lAVTX) | [Albin Svensson](https://open.spotify.com/artist/6H6czwdkHT6pD0mdiMxroP) | [Skärgård](https://open.spotify.com/album/3HTVIw9HK66IcYjS5Z4QuV) | 2:19 | 2021-12-07 | 2023-05-04 |
@@ -562,7 +565,7 @@
 | [Vessel](https://open.spotify.com/track/1HTWodzZfG7Vjaq9XDZGbM) | [Crimson Memoirs](https://open.spotify.com/artist/1jPw7hSDKuDDUqZE3DZYLF) | [Vessel](https://open.spotify.com/album/2OA3pmK5XlAP9h1mq56Uy8) | 2:26 | 2022-05-20 | 2023-09-08 |
 | [Vibrio](https://open.spotify.com/track/41hbWopsUNj8lqbtOMDspW) | [Luna Bauer](https://open.spotify.com/artist/22YRwLt9mmQWkX8wst7Md1) | [Vibrio](https://open.spotify.com/album/7lUH5gqGaUT5P0jmaaPDD4) | 2:44 | 2021-12-07 | 2022-12-24 |
 | [Vierzylinder](https://open.spotify.com/track/3QI14HQnAH2BB5CffziKaF) | [Agnes Klein](https://open.spotify.com/artist/5ZxksGDvjeNLxyy7t4NSpV) | [Vierzylinder](https://open.spotify.com/album/5qYXPblYOuRH9V3d7MoJBg) | 2:49 | 2021-12-07 | 2022-07-16 |
-| [View from the Train](https://open.spotify.com/track/5vA4phoFUnQ5hqpKbDmDVt) | [Riley Houser](https://open.spotify.com/artist/2PxJ8BAthpoiOo3XgIJnS2) | [View from the Train](https://open.spotify.com/album/1OgG1AP0mLif0vjZ6CEf2D) | 2:54 | 2021-12-07 |  |
+| [View from the Train](https://open.spotify.com/track/5vA4phoFUnQ5hqpKbDmDVt) | [Riley Houser](https://open.spotify.com/artist/2PxJ8BAthpoiOo3XgIJnS2) | [View from the Train](https://open.spotify.com/album/1OgG1AP0mLif0vjZ6CEf2D) | 2:54 | 2021-12-07 | 2023-10-18 |
 | [Vitality](https://open.spotify.com/track/10tC4GQIfS6saBeCfXda1h) | [Jamie Troy](https://open.spotify.com/artist/6NJWSp0xcJQQPzR375b8B3) | [Vitality](https://open.spotify.com/album/5FciHHdDCIuNUnI1jt24nr) | 2:06 | 2021-12-07 | 2022-04-21 |
 | [Volga](https://open.spotify.com/track/5GVo7iQPoQUDOX1xUadS1p) | [Ivan Vladusic](https://open.spotify.com/artist/6RIbBV3sHhVlLi2mPPMjbN) | [Volga](https://open.spotify.com/album/4E7hFmTDF1eyBIxdXyREiF) | 2:49 | 2022-01-18 |  |
 | [Voyage mélatonine](https://open.spotify.com/track/1qzF59VZ86OUV11slBwY7J) | [Jordane Tumarinson](https://open.spotify.com/artist/3MmklYESte8IJHUjXEqypw) | [Voyage mélatonine](https://open.spotify.com/album/29ZPBMyCGtYyqXEwiqHj6t) | 2:10 | 2021-12-07 | 2023-10-05 |
@@ -571,6 +574,7 @@
 | [Waiting for You](https://open.spotify.com/track/5ZWodvcCq8kTLjfy821dRO) | [Piotr Wiese](https://open.spotify.com/artist/3e4aLWouBXjJXSFwU7ilQA) | [Waiting for You](https://open.spotify.com/album/2bfBDIwzb9EFHIMhINCDLC) | 2:19 | 2021-12-07 |  |
 | [Waltz For Debby](https://open.spotify.com/track/4xyE5M2RHpqjRsn4Ar7JDQ) | [Madelene Olsson](https://open.spotify.com/artist/32zdWfzzE8XBuoOPEzJcS3) | [Waltz For Debby](https://open.spotify.com/album/7CMIowC09m2WbLegNSGBB0) | 3:29 | 2022-09-14 |  |
 | [Waltz in a Dream](https://open.spotify.com/track/7fFC24ppNibtsubi84bSwH) | [Polly Carter](https://open.spotify.com/artist/0GZHuvPr2iFDH4BQFLOrEp) | [Waltz in a Dream](https://open.spotify.com/album/2CcupVOPa2cwYlzWWbd4OE) | 2:29 | 2022-04-07 |  |
+| [Warm Embrace](https://open.spotify.com/track/6vmSs1vZTUYACBCW7udcnp) | [Ann Hildering](https://open.spotify.com/artist/6lWPmDlDmJS0YGQ8onTcBx) | [Warm Embrace](https://open.spotify.com/album/5TY47fQyAFrMzWLcsl08UY) | 2:43 | 2023-10-17 |  |
 | [We Will Last](https://open.spotify.com/track/37lSjTwceAafdpm011tsGb) | [Marta Lien](https://open.spotify.com/artist/0sUO8DtYY1h8PWvc2ymvuY) | [We Will Last](https://open.spotify.com/album/5S6G0M716lcPw7KHAFmUCJ) | 2:28 | 2022-04-07 | 2023-08-11 |
 | [Westwood](https://open.spotify.com/track/6sfddrMHU0zljVevQLa4dg) | [Peter Bach](https://open.spotify.com/artist/7uOP00uc0fjE4yEFecj0oL) | [Westwood](https://open.spotify.com/album/5G0SwN1Hn8Xz91PcE8UoGy) | 2:42 | 2021-12-07 | 2023-08-18 |
 | [What We Used To Say](https://open.spotify.com/track/43puambWzfUexLaMUVfR4H) | [Debra Goulet](https://open.spotify.com/artist/2S7w1Z4eNOuk8bam4aGJG4) | [What We Used To Say](https://open.spotify.com/album/6O6vtBUInq3QlBYRAK6IWj) | 2:16 | 2021-12-07 |  |

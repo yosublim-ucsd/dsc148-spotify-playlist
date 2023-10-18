@@ -1,12 +1,12 @@
 {
   "description": "HIPHOP 50!",
-  "num_followers": 319097,
+  "num_followers": 319105,
   "original_name": "100",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3MGI5ZmFhZGNkOTA1MzEzNzEwMmUyMGE1N2FiMjM3MGUwOTc2Mzcz",
+  "snapshot_id": "MCw2MjUyODIzNTkwOTk2ZTYyYjM4MTZkODFmNjgzOTkyMjQ5M2U0ZDk5",
   "tracks": [
     {
       "added_at": "2023-10-12 22:00:00",
@@ -39,6 +39,50 @@
       "duration_ms": 130666,
       "name": "Automatic",
       "url": "https://open.spotify.com/track/7Fjz93GKhU5LlTacFAO8ze"
+    },
+    {
+      "added_at": "2023-10-12 22:00:00",
+      "album": {
+        "name": "Konstn\u00e4rer",
+        "url": "https://open.spotify.com/album/4v8mqTXuAn0wc3wVdDORX4"
+      },
+      "artists": [
+        {
+          "name": "Asme",
+          "url": "https://open.spotify.com/artist/3M1eBsR4rSTcDAzYopumeG"
+        },
+        {
+          "name": "Shiro",
+          "url": "https://open.spotify.com/artist/2r9JAY6ISvp0VvZsT6cBJo"
+        }
+      ],
+      "duration_ms": 150040,
+      "name": "Konstn\u00e4rer",
+      "url": "https://open.spotify.com/track/42YORRVJuaCskxH8XbLb05"
+    },
+    {
+      "added_at": "2023-10-12 22:00:00",
+      "album": {
+        "name": "Dans fr\u00e5n dig",
+        "url": "https://open.spotify.com/album/0cVVi5pOnxXno0Krda4f8g"
+      },
+      "artists": [
+        {
+          "name": "Ein\u00e1r",
+          "url": "https://open.spotify.com/artist/0kKygNaCQjqVLrImIftRDJ"
+        },
+        {
+          "name": "Sara Kurt",
+          "url": "https://open.spotify.com/artist/0ap6IhwNQwrARwuwzTjKIh"
+        },
+        {
+          "name": "Le Winter",
+          "url": "https://open.spotify.com/artist/3dtPDEZGp9vvPpe8reKHUR"
+        }
+      ],
+      "duration_ms": 136666,
+      "name": "Dans fr\u00e5n dig",
+      "url": "https://open.spotify.com/track/2u85ptzhLjdL4iHV5pNUtb"
     },
     {
       "added_at": "2023-10-12 22:00:00",
@@ -79,26 +123,6 @@
     {
       "added_at": "2023-10-12 22:00:00",
       "album": {
-        "name": "Konstn\u00e4rer",
-        "url": "https://open.spotify.com/album/4v8mqTXuAn0wc3wVdDORX4"
-      },
-      "artists": [
-        {
-          "name": "Asme",
-          "url": "https://open.spotify.com/artist/3M1eBsR4rSTcDAzYopumeG"
-        },
-        {
-          "name": "Shiro",
-          "url": "https://open.spotify.com/artist/2r9JAY6ISvp0VvZsT6cBJo"
-        }
-      ],
-      "duration_ms": 150040,
-      "name": "Konstn\u00e4rer",
-      "url": "https://open.spotify.com/track/42YORRVJuaCskxH8XbLb05"
-    },
-    {
-      "added_at": "2023-10-12 22:00:00",
-      "album": {
         "name": "BLIND",
         "url": "https://open.spotify.com/album/50O2Oh66m9qVHkAnxipCOd"
       },
@@ -111,30 +135,6 @@
       "duration_ms": 148120,
       "name": "BLIND",
       "url": "https://open.spotify.com/track/5zO0y8TGj6NT0pFluvrllN"
-    },
-    {
-      "added_at": "2023-10-12 22:00:00",
-      "album": {
-        "name": "Dans fr\u00e5n dig",
-        "url": "https://open.spotify.com/album/0cVVi5pOnxXno0Krda4f8g"
-      },
-      "artists": [
-        {
-          "name": "Ein\u00e1r",
-          "url": "https://open.spotify.com/artist/0kKygNaCQjqVLrImIftRDJ"
-        },
-        {
-          "name": "Sara Kurt",
-          "url": "https://open.spotify.com/artist/0ap6IhwNQwrARwuwzTjKIh"
-        },
-        {
-          "name": "Le Winter",
-          "url": "https://open.spotify.com/artist/3dtPDEZGp9vvPpe8reKHUR"
-        }
-      ],
-      "duration_ms": 136666,
-      "name": "Dans fr\u00e5n dig",
-      "url": "https://open.spotify.com/track/2u85ptzhLjdL4iHV5pNUtb"
     },
     {
       "added_at": "2023-10-12 22:00:00",
@@ -171,42 +171,6 @@
     {
       "added_at": "2023-10-12 22:00:00",
       "album": {
-        "name": "Deja Vu",
-        "url": "https://open.spotify.com/album/1wpsPacRm2SljIFYtkZYtF"
-      },
-      "artists": [
-        {
-          "name": "Robin Kadir",
-          "url": "https://open.spotify.com/artist/4juMqlCDk4p6TrM7JXfSw2"
-        },
-        {
-          "name": "GULEED",
-          "url": "https://open.spotify.com/artist/1Mw40k757jZuiL0NIJpdO5"
-        }
-      ],
-      "duration_ms": 158830,
-      "name": "Action (feat. Guleed)",
-      "url": "https://open.spotify.com/track/5beUxQ0Hjyx3xUEzQpnKDY"
-    },
-    {
-      "added_at": "2023-10-12 22:00:00",
-      "album": {
-        "name": "1,2 & Mer",
-        "url": "https://open.spotify.com/album/60DB6Bg7sM4QjHsCV0ZBdF"
-      },
-      "artists": [
-        {
-          "name": "BABY MALA",
-          "url": "https://open.spotify.com/artist/1JkJKyvOzlac6pPlHO8LUl"
-        }
-      ],
-      "duration_ms": 157080,
-      "name": "1,2 & Mer",
-      "url": "https://open.spotify.com/track/6nphe8z73s7ijdY5Bxy5fk"
-    },
-    {
-      "added_at": "2023-10-12 22:00:00",
-      "album": {
         "name": "Dyra notor",
         "url": "https://open.spotify.com/album/39Gg9S1NoWi4hppTceMlGL"
       },
@@ -227,6 +191,62 @@
       "duration_ms": 142291,
       "name": "Dyra notor",
       "url": "https://open.spotify.com/track/70JfjKT0DGEmmlZ0Hrfun1"
+    },
+    {
+      "added_at": "2023-10-12 22:00:00",
+      "album": {
+        "name": "1,2 & Mer",
+        "url": "https://open.spotify.com/album/60DB6Bg7sM4QjHsCV0ZBdF"
+      },
+      "artists": [
+        {
+          "name": "BABY MALA",
+          "url": "https://open.spotify.com/artist/1JkJKyvOzlac6pPlHO8LUl"
+        }
+      ],
+      "duration_ms": 157080,
+      "name": "1,2 & Mer",
+      "url": "https://open.spotify.com/track/6nphe8z73s7ijdY5Bxy5fk"
+    },
+    {
+      "added_at": "2023-10-12 22:00:00",
+      "album": {
+        "name": "Deja Vu",
+        "url": "https://open.spotify.com/album/1wpsPacRm2SljIFYtkZYtF"
+      },
+      "artists": [
+        {
+          "name": "Robin Kadir",
+          "url": "https://open.spotify.com/artist/4juMqlCDk4p6TrM7JXfSw2"
+        },
+        {
+          "name": "GULEED",
+          "url": "https://open.spotify.com/artist/1Mw40k757jZuiL0NIJpdO5"
+        }
+      ],
+      "duration_ms": 158830,
+      "name": "Action (feat. Guleed)",
+      "url": "https://open.spotify.com/track/5beUxQ0Hjyx3xUEzQpnKDY"
+    },
+    {
+      "added_at": "2023-10-12 22:00:00",
+      "album": {
+        "name": "Tugga med demoner",
+        "url": "https://open.spotify.com/album/21oA2KidqX5yvAW4oNy9Lw"
+      },
+      "artists": [
+        {
+          "name": "CENTI",
+          "url": "https://open.spotify.com/artist/0nlla7bZRxb965OBsAmPEq"
+        },
+        {
+          "name": "LENN",
+          "url": "https://open.spotify.com/artist/4HHfUYBRiuWw4zy4BQU78G"
+        }
+      ],
+      "duration_ms": 159000,
+      "name": "Tugga med demoner",
+      "url": "https://open.spotify.com/track/68mX4diVsOZvhHOsZnco8u"
     },
     {
       "added_at": "2023-10-12 22:00:00",
@@ -267,26 +287,6 @@
     {
       "added_at": "2023-10-12 22:00:00",
       "album": {
-        "name": "Tugga med demoner",
-        "url": "https://open.spotify.com/album/21oA2KidqX5yvAW4oNy9Lw"
-      },
-      "artists": [
-        {
-          "name": "CENTI",
-          "url": "https://open.spotify.com/artist/0nlla7bZRxb965OBsAmPEq"
-        },
-        {
-          "name": "LENN",
-          "url": "https://open.spotify.com/artist/4HHfUYBRiuWw4zy4BQU78G"
-        }
-      ],
-      "duration_ms": 159000,
-      "name": "Tugga med demoner",
-      "url": "https://open.spotify.com/track/68mX4diVsOZvhHOsZnco8u"
-    },
-    {
-      "added_at": "2023-10-12 22:00:00",
-      "album": {
         "name": "Bonne Chance",
         "url": "https://open.spotify.com/album/0e722PKl6zvtleNzfm6PEE"
       },
@@ -323,26 +323,6 @@
     {
       "added_at": "2023-10-12 22:00:00",
       "album": {
-        "name": "TRAUMA PARANOIA",
-        "url": "https://open.spotify.com/album/4oOuea5rMrdRVfcLzqC0Nt"
-      },
-      "artists": [
-        {
-          "name": "1.Cuz",
-          "url": "https://open.spotify.com/artist/5uvOG0MwnD2ANrxNBUPtNr"
-        },
-        {
-          "name": "01an",
-          "url": "https://open.spotify.com/artist/74e6I2mEw224Rzo1VadSMY"
-        }
-      ],
-      "duration_ms": 153600,
-      "name": "TRAUMA PARANOIA",
-      "url": "https://open.spotify.com/track/4aBdVP0kcEedFO9C4OjwuM"
-    },
-    {
-      "added_at": "2023-10-12 22:00:00",
-      "album": {
         "name": "Soldat",
         "url": "https://open.spotify.com/album/30rq6uVi2lypmp6787cImE"
       },
@@ -363,6 +343,26 @@
       "duration_ms": 139071,
       "name": "Soldat",
       "url": "https://open.spotify.com/track/4c9lx29ADaRI0Hzy8ql69V"
+    },
+    {
+      "added_at": "2023-10-12 22:00:00",
+      "album": {
+        "name": "TRAUMA PARANOIA",
+        "url": "https://open.spotify.com/album/4oOuea5rMrdRVfcLzqC0Nt"
+      },
+      "artists": [
+        {
+          "name": "1.Cuz",
+          "url": "https://open.spotify.com/artist/5uvOG0MwnD2ANrxNBUPtNr"
+        },
+        {
+          "name": "01an",
+          "url": "https://open.spotify.com/artist/74e6I2mEw224Rzo1VadSMY"
+        }
+      ],
+      "duration_ms": 153600,
+      "name": "TRAUMA PARANOIA",
+      "url": "https://open.spotify.com/track/4aBdVP0kcEedFO9C4OjwuM"
     },
     {
       "added_at": "2023-10-12 22:00:00",

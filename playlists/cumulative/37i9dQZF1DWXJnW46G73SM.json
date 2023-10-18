@@ -2397,6 +2397,28 @@
     },
     {
       "album": {
+        "name": "Red Bull Sika",
+        "url": "https://open.spotify.com/album/6HsfsZfT4XutmUQFvHM3Rz"
+      },
+      "artists": [
+        {
+          "name": "Hany Mehanna",
+          "url": "https://open.spotify.com/artist/3h9X1RMf1TfyNGntWJZdJ2"
+        },
+        {
+          "name": "Ehab Yunis",
+          "url": "https://open.spotify.com/artist/3UmYYEQUym9QNV5mWCV2Gp"
+        }
+      ],
+      "date_added": "2023-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238695,
+      "name": "El Amal We El Noor Fe Eedak",
+      "url": "https://open.spotify.com/track/0R9RoVQip12AW82kNNX9UF"
+    },
+    {
+      "album": {
         "name": "El Ashkhas El Ghalat",
         "url": "https://open.spotify.com/album/0K8IbRnIP3S6RCv1Enu8LF"
       },
@@ -2646,7 +2668,7 @@
       ],
       "date_added": "2023-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-18",
       "duration_ms": 167800,
       "name": "El Lawlabeya",
       "url": "https://open.spotify.com/track/6aD8DGu8n2ssx7mbfYyOwR"

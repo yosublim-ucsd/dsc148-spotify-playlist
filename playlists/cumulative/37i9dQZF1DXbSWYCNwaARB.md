@@ -2,9 +2,9 @@
 
 ### [Girl Krush](https://open.spotify.com/playlist/37i9dQZF1DXbSWYCNwaARB)
 
-> All your girl crushes\(걸크러쉬\) in one place\. Cover: Lee Hyori \(이효리\)
+> All your girl crushes\(걸크러쉬\) in one place\. Cover: SUNMI \(선미\)
 
-397 songs - 21 hr 10 min
+399 songs - 21 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,6 +35,7 @@
 | [Bad Boy](https://open.spotify.com/track/5GKwq4sO5ZHKuWaDmdwMQc) | [Red Velvet](https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM) | [The Perfect Red Velvet \- The 2nd Album Repackage](https://open.spotify.com/album/0OkJThJls8FO1lutMzMDJ0) | 3:30 | 2020-10-20 | 2023-08-15 |
 | [BAD GIRL \(Prod\. Czaer\)](https://open.spotify.com/track/4yCQYX8eKL1XYJmGglSV1A) | [LACHICA](https://open.spotify.com/artist/0vqjEQRfmE1Sov92UQRJMp), [CHUNG HA](https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y) | [Street Woman Fighter\(SWF\) Special](https://open.spotify.com/album/3iW6rZmhiSLNveTOrX26z6) | 3:14 | 2021-11-10 | 2022-04-17 |
 | [BAD SAD AND MAD](https://open.spotify.com/track/0zPbUxvYRlCGwruakkXPLI) | [BIBI](https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9) | [Life is a Bi…](https://open.spotify.com/album/0VDb4oas0usbuPljrSZH5s) | 2:34 | 2021-04-30 | 2022-04-19 |
+| [Baddie](https://open.spotify.com/track/7uyeEbG6hyApgXuEypGcsZ) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [I'VE MINE](https://open.spotify.com/album/5J7VAdKdGZGme6wymgopbp) | 2:34 | 2023-10-17 |  |
 | [BARCODE](https://open.spotify.com/track/1ZThXKcKkKkZRQGYGd8UU4) | [lilli lilli](https://open.spotify.com/artist/5jPgE32O5ejQyRJXiiy52V) | [BARCODE](https://open.spotify.com/album/0IZZIwintx6HphavroWxdN) | 3:36 | 2021-11-14 | 2022-07-22 |
 | [BByong](https://open.spotify.com/track/5kVS7aNCn4N7X4zQ39auiK) | [Saturday](https://open.spotify.com/artist/4UeJgAodtmUXfxU1GoJUph) | [The 3rd Single Album 'IKYK'](https://open.spotify.com/album/2WWuzV3ig4U9SanbnkQWyM) | 3:29 | 2021-01-15 | 2022-04-18 |
 | [because I can not decide](https://open.spotify.com/track/3Vj6e7Fbyt0LqXiDxnd1qg) | [Jenyer](https://open.spotify.com/artist/05uheFGPahVh2nHIZK1KuB) | [the moment i loved](https://open.spotify.com/album/3KJwj3qcRvAXEiYDZ5IP88) | 3:27 | 2021-01-17 | 2022-04-21 |
@@ -156,14 +157,14 @@
 | [HONEY](https://open.spotify.com/track/7JDiC68AKimlvMCmZQuA9n) | [Solar](https://open.spotify.com/artist/5cYcI546S8Lf97m4mNdYLD) | [容 : FACE](https://open.spotify.com/album/6eSFX12WIqUtmGsD8UO3FT) | 2:47 | 2022-03-16 | 2022-07-28 |
 | [Honey Drop \(Feat\. Lil Cherry\)](https://open.spotify.com/track/6oDLaTN3k2g8n74Cyup2FO) | [Honey J](https://open.spotify.com/artist/7GLNucMzWyvNW8FAabALKi), [Lil Cherry](https://open.spotify.com/artist/523GImBnBoIvcq0n8BZIv4) | [Honey Drop](https://open.spotify.com/album/5kdXxKUQ3VaGOPEU8C3Hb5) | 2:38 | 2022-08-29 | 2022-09-17 |
 | [Hongdae R&B](https://open.spotify.com/track/5TIwTvdD7OpJBt0tqIWLH3) | [BIBI](https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9) | [Hongdae R&B](https://open.spotify.com/album/7v7uC2wkD1Jh95G9Y5gbJb) | 3:02 | 2023-09-01 | 2023-09-07 |
-| [HOODIE E BANBAJI](https://open.spotify.com/track/3VNlscYTSeZqbREFoOe3KE) | [Lee Hyori](https://open.spotify.com/artist/4FjoOJAndC0s9ZJUo6VGc5) | [HOODIE E BANBAJI](https://open.spotify.com/album/7k3M7ITqDwJwlMirEAL7SZ) | 3:09 | 2023-10-12 |  |
+| [HOODIE E BANBAJI](https://open.spotify.com/track/3VNlscYTSeZqbREFoOe3KE) | [Lee Hyori](https://open.spotify.com/artist/4FjoOJAndC0s9ZJUo6VGc5) | [HOODIE E BANBAJI](https://open.spotify.com/album/7k3M7ITqDwJwlMirEAL7SZ) | 3:09 | 2023-10-12 | 2023-10-18 |
 | [How To Twerk \(Prod\. Czaer\)](https://open.spotify.com/track/1ckjVyV85YJob7nFZlEHIo) | [MIYEON](https://open.spotify.com/artist/779v40cWIJUUoIDtC1IGaF), [YUQI](https://open.spotify.com/artist/22aCD8IrQZjcPgZw728QT6) | [Street Woman Fighter2 \(SWF2\) Class Mission](https://open.spotify.com/album/3fifgTm6PcVhHE9v72nlCb) | 2:56 | 2023-09-06 | 2023-10-13 |
 | [How You Like That](https://open.spotify.com/track/3vAn0qZzdyuHamcrpkfiX3) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [How You Like That](https://open.spotify.com/album/19LMUlWN7xU2NW80pZSeuH) | 3:01 | 2020-10-13\* | 2022-05-21 |
 | [How You Like That](https://open.spotify.com/track/4SFknyjLcyTLJFPKD2m96o) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [THE ALBUM](https://open.spotify.com/album/71O60S5gIJSIAhdnrDIh3N) | 3:02 | 2022-07-25 |  |
 | [HWAA](https://open.spotify.com/track/5FiXhM80sP4yg6tEnHkZZn) | [\(G\)I\-DLE](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) | [I burn](https://open.spotify.com/album/3ma5amx5s3l1NKoWNHaMYe) | 3:17 | 2021-01-18 | 2022-07-29 |
 | [Hype Boy](https://open.spotify.com/track/0a4MMyCrzT0En247IhqZbD) | [NewJeans](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) | [NewJeans 1st EP 'New Jeans'](https://open.spotify.com/album/1HMLpmZAnNyl9pxvOnTovV) | 2:59 | 2022-08-12 |  |
 | [I AM](https://open.spotify.com/track/70t7Q6AYG6ZgTYmJWcnkUM) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [I've IVE](https://open.spotify.com/album/38VzP4yWfHdHafITKKRHEB) | 3:03 | 2023-04-20 |  |
-| [I CAN'T STOP ME](https://open.spotify.com/track/37ZtpRBkHcaq6hHy0X98zn) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [Eyes Wide Open](https://open.spotify.com/album/33jypnU7WULxPaVrjj4RXH) | 3:25 | 2020-11-09 | 2023-10-13 |
+| [I CAN'T STOP ME](https://open.spotify.com/track/37ZtpRBkHcaq6hHy0X98zn) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [Eyes Wide Open](https://open.spotify.com/album/33jypnU7WULxPaVrjj4RXH) | 3:25 | 2020-11-09 |  |
 | [I DO](https://open.spotify.com/track/6SePnvTZkIXZznc8Ftc6vM) | [\(G\)I\-DLE](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) | [I DO](https://open.spotify.com/album/62lN1efwf3MajWlzsSlYFN) | 3:10 | 2023-07-14 |  |
 | [I Love My Body](https://open.spotify.com/track/0pHylQR53epYtRcVIhUSCh) | [HWASA](https://open.spotify.com/artist/7bmYpVgQub656uNTu6qGNQ) | [I Love My Body](https://open.spotify.com/album/7Lbc8drIJGlYLT4hdcBvre) | 2:30 | 2023-09-06 |  |
 | [I Love You](https://open.spotify.com/track/7n2HVHWqFsyAOs5HqmE1Dl) | [EXID](https://open.spotify.com/artist/1xs6WFotNQSXweo0GXrS0O) | [I Love You](https://open.spotify.com/album/0BePiDVdS09GVoBe30WMAd) | 3:14 | 2021-02-28 | 2022-07-15 |
@@ -176,7 +177,7 @@
 | [ICONS](https://open.spotify.com/track/0eYUPGR0tB6pP5YvE3zXaU) | [HOT ISSUE](https://open.spotify.com/artist/16C7FRln711ggylepawmpq) | [ICONS](https://open.spotify.com/album/4BuL7zE1QTDoSlij13X4XI) | 3:08 | 2021-10-01 | 2022-06-22 |
 | [ICY](https://open.spotify.com/track/7zFBtYAVURF3bUVqEQ6UUu) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [IT'z ICY](https://open.spotify.com/album/2y2Nuvvw5xNDYOunTSsgf1) | 3:11 | 2020-10-20 | 2022-07-13 |
 | [Illusion](https://open.spotify.com/track/5uFqjHOo3Sh0bVPCKf3DdH) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [Illusion](https://open.spotify.com/album/4r815m6eq8OXYzfqtk3FST) | 3:15 | 2022-06-01 | 2023-04-24 |
-| [In The Mood](https://open.spotify.com/track/1f7WTvoghCDULXgxMrwXAY) | [Whee In](https://open.spotify.com/artist/0BqRGrwqndrtNkojXiqIzL) | [IN the mood](https://open.spotify.com/album/1EABDeQeCq83PJMBYBSXet) | 2:48 | 2023-10-12 |  |
+| [In The Mood](https://open.spotify.com/track/1f7WTvoghCDULXgxMrwXAY) | [Whee In](https://open.spotify.com/artist/0BqRGrwqndrtNkojXiqIzL) | [IN the mood](https://open.spotify.com/album/1EABDeQeCq83PJMBYBSXet) | 2:48 | 2023-10-12 | 2023-10-18 |
 | [In the morning](https://open.spotify.com/track/2QdH0rKlV3d9Y6lWzcnlBH) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [GUESS WHO](https://open.spotify.com/album/1PKhKkeCqANY5E9RGcUWUX) | 2:52 | 2021-05-12 | 2022-07-29 |
 | [In the morning](https://open.spotify.com/track/1Wcr8zrKqbUX0zwN8Dbr16) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [GUESS WHO](https://open.spotify.com/album/4lS8nhX8cplsYPzKjvhw6G) | 2:52 | 2022-07-25 | 2023-01-17 |
 | [INVU](https://open.spotify.com/track/7rXcCpIAoOUCydkVDMcoPV) | [TAEYEON](https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu) | [INVU \- The 3rd Album](https://open.spotify.com/album/7i2YLTVQ0dyngRuUqtGmr9) | 3:24 | 2022-02-14 | 2023-06-25 |
@@ -325,7 +326,8 @@
 | [Stay Tonight](https://open.spotify.com/track/3As0OA5B06BxLfADvYyG8L) | [CHUNG HA](https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y) | [Stay Tonight](https://open.spotify.com/album/41rtmYpSvv0s6p4TJwTzrR) | 3:37 | 2020-10-13\* | 2022-05-17 |
 | [Step Back](https://open.spotify.com/track/3LCwQoTrdQgHsGJE5gGVqx) | [GOT the beat](https://open.spotify.com/artist/6uNxlIP5lzPFf0BHuELOuX) | [Step Back](https://open.spotify.com/album/3gwL04bGAX4Kc2D5Wd7NMk) | 3:48 | 2022-01-03 | 2023-04-12 |
 | [Step?](https://open.spotify.com/track/3fU8FWNIgHEOepLTidZWyq) | [BIBI](https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9) | [Step?](https://open.spotify.com/album/0BZbR4rNEd6R5t73qhF90D) | 3:11 | 2021-02-26 | 2021-03-02 |
-| [Super Shy](https://open.spotify.com/track/0kwrPQkiGVE8KTHalH1uMo) | [NewJeans](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) | [NewJeans 2nd EP 'Get Up'](https://open.spotify.com/album/4N1fROq2oeyLGAlQ1C1j18) | 2:34 | 2023-07-25 |  |
+| [STRANGER](https://open.spotify.com/track/3SifPlW12FRs8OQP2VkXSi) | [SUNMI](https://open.spotify.com/artist/6MoXcK2GyGg7FIyxPU5yW6) | [STRANGER](https://open.spotify.com/album/5QUzffclUFjjFFZ1HmaB6X) | 2:46 | 2023-10-17 |  |
+| [Super Shy](https://open.spotify.com/track/0kwrPQkiGVE8KTHalH1uMo) | [NewJeans](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) | [NewJeans 2nd EP 'Get Up'](https://open.spotify.com/album/4N1fROq2oeyLGAlQ1C1j18) | 2:34 | 2023-07-25 | 2023-10-18 |
 | [SURI SURI](https://open.spotify.com/track/62yqtESaVHGf8TW2Ckh0qp) | [Qri](https://open.spotify.com/artist/2VWjT8ARl0lzAQdyx843PZ) | [SURI SURI](https://open.spotify.com/album/4AvQ3aVomxUowwzig2xVAw) | 3:14 | 2021-10-02 | 2022-04-18 |
 | [Sweet Juice](https://open.spotify.com/track/2th6UWbfVz3hsSDzQAKqy2) | [PURPLE KISS](https://open.spotify.com/artist/62T5PGHWJ9sxP2SJq20IHq) | [Cabin Fever](https://open.spotify.com/album/4uIqXyViDoMKFuuw12kYMO) | 3:12 | 2023-02-16 | 2023-03-28 |
 | [SWIPE](https://open.spotify.com/track/5au5BF6e1TgZFrdoAz9p6x) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [CRAZY IN LOVE](https://open.spotify.com/album/5W75ifcHJzBAfHezBMfhPI) | 2:57 | 2021-09-25 | 2022-07-29 |
@@ -360,7 +362,7 @@
 | [Walking Through The Moon](https://open.spotify.com/track/4werDUuriHrRrTxZx1p029) | [Lee Su Jeong](https://open.spotify.com/artist/2Mq5D1zR3yQIQWhiXOAoeL) | [My Name](https://open.spotify.com/album/1s1c2che6OuIyA8Do2bkNE) | 3:32 | 2022-04-28 | 2022-05-18 |
 | [WANNA BE MYSELF](https://open.spotify.com/track/0VPBuXtEG16NtN5ZGYJ7lV) | [MAMAMOO](https://open.spotify.com/artist/0XATRDCYuuGhk0oE7C0o5G) | [WANNA BE MYSELF](https://open.spotify.com/album/0n62copUsWrST9M6AsYfZI) | 3:26 | 2020-10-13\* | 2021-03-17 |
 | [WANNA KNOW](https://open.spotify.com/track/6f6uBrvxzcLNat7Lgw4EeH) | [IRRIS](https://open.spotify.com/artist/6njhhu11av9aiIJF5N4z7P) | [WANNA KNOW](https://open.spotify.com/album/7L9zMKdcxGO36sTgI0vsqY) | 2:41 | 2022-07-07 | 2022-07-14 |
-| [WANNABE](https://open.spotify.com/track/4pspYVQGFHLPEFgQPD1J7e) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [IT'z ME](https://open.spotify.com/album/7ynKAohxfwPUZzvU8f1p1U) | 3:11 | 2022-07-25 | 2023-10-13 |
+| [WANNABE](https://open.spotify.com/track/4pspYVQGFHLPEFgQPD1J7e) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [IT'z ME](https://open.spotify.com/album/7ynKAohxfwPUZzvU8f1p1U) | 3:11 | 2022-07-25 |  |
 | [WANNABE](https://open.spotify.com/track/6tCssnvTUREcperDOUTqvA) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [It'z Me](https://open.spotify.com/album/2gertXS08whDTzBWfmewPO) | 3:11 | 2020-10-20 | 2022-07-29 |
 | [WANT IT?](https://open.spotify.com/track/2DvBbpZ9MjOQZs2HtN5Ake) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [IT'z Different](https://open.spotify.com/album/0fUJLlrsG1MpTHr3MxPN9C) | 3:20 | 2021-01-21 | 2022-04-18 |
 | [water color](https://open.spotify.com/track/2pNJ0TsgiRc4mGdYHazD5w) | [Whee In](https://open.spotify.com/artist/0BqRGrwqndrtNkojXiqIzL) | [Redd](https://open.spotify.com/album/32pXXle0zoKIFG03iefH2c) | 3:09 | 2021-04-29 | 2022-07-27 |

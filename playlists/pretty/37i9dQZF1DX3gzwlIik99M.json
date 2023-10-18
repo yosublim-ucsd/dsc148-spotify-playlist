@@ -1,12 +1,12 @@
 {
   "description": "Metal hecho en Iberoam\u00e9rica. Bandas que ya conoces y que est\u00e1s a punto de conocer. Foto: Sepultura",
-  "num_followers": 210559,
+  "num_followers": 210560,
   "original_name": "Metal del Nuestro",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiNjJiNzM0YWJmMWFhNmIwMTg0ZjNhNmExYTkxMTQxOWY2MzQyMzZl",
+  "snapshot_id": "MCw1ZGY4ODk5ZWFjOTQ1ODg4OTZkMWYyMjhlOTdkMDNjOGRiMWRlOTVi",
   "tracks": [
     {
       "added_at": "2023-04-28 03:00:00",
@@ -239,6 +239,22 @@
     {
       "added_at": "2023-04-28 03:00:00",
       "album": {
+        "name": "Subkonzziente",
+        "url": "https://open.spotify.com/album/3dNRIGq5OGwFB3UGxX4kCh"
+      },
+      "artists": [
+        {
+          "name": "Esp\u00e9cimen",
+          "url": "https://open.spotify.com/artist/5Mh3ytajhEkNUhgNEI4tvM"
+        }
+      ],
+      "duration_ms": 234666,
+      "name": "M\u00edstica",
+      "url": "https://open.spotify.com/track/4L30SyewCjkmJoX4qra9Ac"
+    },
+    {
+      "added_at": "2023-04-28 03:00:00",
+      "album": {
         "name": "A Toda Madre",
         "url": "https://open.spotify.com/album/51ANJ0vGG9eG8brTzy6Sxs"
       },
@@ -267,22 +283,6 @@
       "duration_ms": 267746,
       "name": "R\u00edo Extra\u00f1o",
       "url": "https://open.spotify.com/track/2BkoAPwO85Zb2IOJF0LMRv"
-    },
-    {
-      "added_at": "2023-04-28 03:00:00",
-      "album": {
-        "name": "Subkonzziente",
-        "url": "https://open.spotify.com/album/3dNRIGq5OGwFB3UGxX4kCh"
-      },
-      "artists": [
-        {
-          "name": "Esp\u00e9cimen",
-          "url": "https://open.spotify.com/artist/5Mh3ytajhEkNUhgNEI4tvM"
-        }
-      ],
-      "duration_ms": 234666,
-      "name": "M\u00edstica",
-      "url": "https://open.spotify.com/track/4L30SyewCjkmJoX4qra9Ac"
     },
     {
       "added_at": "2023-04-28 03:00:00",
@@ -575,18 +575,18 @@
     {
       "added_at": "2023-04-28 03:00:00",
       "album": {
-        "name": "Javhe Karma",
-        "url": "https://open.spotify.com/album/0yKtlTkM61fYXqKXybXVK1"
+        "name": "Plan Mundial Para La Destrucci\u00f3n",
+        "url": "https://open.spotify.com/album/7fBKqH6kZsrgY2RJWkaiC5"
       },
       "artists": [
         {
-          "name": "Kilcrops",
-          "url": "https://open.spotify.com/artist/35RQXAyUyPsRRcank3cohw"
+          "name": "Logos",
+          "url": "https://open.spotify.com/artist/4aCWTRWrh5lyIaZTVCP6ja"
         }
       ],
-      "duration_ms": 460813,
-      "name": "Infiel a Dos Mentiras \"Vida\"",
-      "url": "https://open.spotify.com/track/7mNdPmUqNmp7JqHQUBJPBa"
+      "duration_ms": 257773,
+      "name": "Darse Cuenta",
+      "url": "https://open.spotify.com/track/41ijCwVP2PQmGCRxwhKbkH"
     },
     {
       "added_at": "2023-04-28 03:00:00",
@@ -607,18 +607,18 @@
     {
       "added_at": "2023-04-28 03:00:00",
       "album": {
-        "name": "Plan Mundial Para La Destrucci\u00f3n",
-        "url": "https://open.spotify.com/album/7fBKqH6kZsrgY2RJWkaiC5"
+        "name": "Javhe Karma",
+        "url": "https://open.spotify.com/album/0yKtlTkM61fYXqKXybXVK1"
       },
       "artists": [
         {
-          "name": "Logos",
-          "url": "https://open.spotify.com/artist/4aCWTRWrh5lyIaZTVCP6ja"
+          "name": "Kilcrops",
+          "url": "https://open.spotify.com/artist/35RQXAyUyPsRRcank3cohw"
         }
       ],
-      "duration_ms": 257773,
-      "name": "Darse Cuenta",
-      "url": "https://open.spotify.com/track/41ijCwVP2PQmGCRxwhKbkH"
+      "duration_ms": 460813,
+      "name": "Infiel a Dos Mentiras \"Vida\"",
+      "url": "https://open.spotify.com/track/7mNdPmUqNmp7JqHQUBJPBa"
     },
     {
       "added_at": "2023-04-28 03:00:00",
@@ -655,22 +655,6 @@
     {
       "added_at": "2023-04-28 03:00:00",
       "album": {
-        "name": "Esp\u00edritu Combativo",
-        "url": "https://open.spotify.com/album/6lAJZDH8gDBDQjymjhZ6nz"
-      },
-      "artists": [
-        {
-          "name": "Malon",
-          "url": "https://open.spotify.com/artist/3MBsvBr8B6mfjO6txfT6uL"
-        }
-      ],
-      "duration_ms": 218729,
-      "name": "Castigador por Herencia",
-      "url": "https://open.spotify.com/track/50YRa66db8G4ASXnqww06C"
-    },
-    {
-      "added_at": "2023-04-28 03:00:00",
-      "album": {
         "name": "Bajo la Cruz",
         "url": "https://open.spotify.com/album/66dGx46zunw5g7zcaAJ2Fj"
       },
@@ -683,6 +667,22 @@
       "duration_ms": 295263,
       "name": "Vida Eterna",
       "url": "https://open.spotify.com/track/14nEPCQLWtMqV4uE1cRHFv"
+    },
+    {
+      "added_at": "2023-04-28 03:00:00",
+      "album": {
+        "name": "Esp\u00edritu Combativo",
+        "url": "https://open.spotify.com/album/6lAJZDH8gDBDQjymjhZ6nz"
+      },
+      "artists": [
+        {
+          "name": "Malon",
+          "url": "https://open.spotify.com/artist/3MBsvBr8B6mfjO6txfT6uL"
+        }
+      ],
+      "duration_ms": 218729,
+      "name": "Castigador por Herencia",
+      "url": "https://open.spotify.com/track/50YRa66db8G4ASXnqww06C"
     },
     {
       "added_at": "2023-04-28 03:00:00",

@@ -4,7 +4,7 @@
 
 > the beat of your drift
 
-597 songs - 22 hr 58 min
+598 songs - 23 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -348,7 +348,8 @@
 | [Mtg \- Coração](https://open.spotify.com/track/4nyMoK6gePLzCJybQl4O2F) | [Dj Samir](https://open.spotify.com/artist/6U0dJxYVB41L8WDZ02Nwuk), [Fyex](https://open.spotify.com/artist/7i7ddOIQP0uI3ktGxI0zkM) | [Mtg \- Coração](https://open.spotify.com/album/4LsthlcTRWkcsfRRn9yxYC) | 1:53 | 2023-09-01 |  |
 | [MTG \- PISTA TOMA](https://open.spotify.com/track/1r08AN9HcG09RsM5Ubf34W) | [RXDXVIL](https://open.spotify.com/artist/54HaZmktN1cmdL8Ygdrmzz), [DJ FKU](https://open.spotify.com/artist/3QMpCp3GHiHXgnX1LldXWe), [John Bis.T](https://open.spotify.com/artist/5LNzQAUKfB4tYoR1VcKkCx) | [MTG \- PISTA TOMA](https://open.spotify.com/album/0XfbMn9N6vzDybKtXBIKx0) | 2:16 | 2023-06-30 |  |
 | [MTG \- REBOLA NO MEU C4RALHO](https://open.spotify.com/track/6UsDf89sHDBewBBw7hc0Qc) | [DJ LA BEAT](https://open.spotify.com/artist/7x17bGSbbPvPv9YOhPhMch) | [MTG \- REBOLA NO MEU C4RALHO](https://open.spotify.com/album/63WfQxZlaM7RieVafWxH6p) | 3:27 | 2023-04-11 | 2023-10-14 |
-| [Mtg Ensurdecência Estelar 1.0](https://open.spotify.com/track/3tz2T3sjDeBffwnCZA3PGT) | [FR3ST](https://open.spotify.com/artist/2YXKTfoEjKVzCNI0J6rHbQ), [Mc Gw](https://open.spotify.com/artist/0f1IECbrVV952unZkzrsg2) | [Mtg Ensurdecência Estelar 1.0](https://open.spotify.com/album/367E0XjthTZ3hHVkN5ezJr) | 2:39 | 2023-09-15 |  |
+| [Mtg Ensurdecência Estelar 1.0](https://open.spotify.com/track/2X1cIpDWE6nyBCde1iUBVM) | [FR3ST](https://open.spotify.com/artist/2YXKTfoEjKVzCNI0J6rHbQ), [Mc Gw](https://open.spotify.com/artist/0f1IECbrVV952unZkzrsg2) | [Mtg Ensurdecência Estelar 1.0](https://open.spotify.com/album/42DolJPZfnWv0GYPjPDhMw) | 2:39 | 2023-09-15 |  |
+| [Mtg Ensurdecência Estelar 1.0](https://open.spotify.com/track/3tz2T3sjDeBffwnCZA3PGT) | [FR3ST](https://open.spotify.com/artist/2YXKTfoEjKVzCNI0J6rHbQ), [Mc Gw](https://open.spotify.com/artist/0f1IECbrVV952unZkzrsg2) | [Mtg Ensurdecência Estelar 1.0](https://open.spotify.com/album/367E0XjthTZ3hHVkN5ezJr) | 2:39 | 2023-09-15 | 2023-10-18 |
 | [MTG PATRONO](https://open.spotify.com/track/3NQOcWmMK1YDhcES2DRlQI) | [CHXSE WAVE](https://open.spotify.com/artist/6wmMB4J3qcm8KdKsjWXlWT) | [MTG PATRONO](https://open.spotify.com/album/1voYue1fOt5KXCqbxQsXCq) | 1:39 | 2023-10-06 | 2023-10-14 |
 | [Murder In My Mind](https://open.spotify.com/track/6qyS9qBy0mEk3qYaH8mPss) | [Kordhell](https://open.spotify.com/artist/2W6WP4pHQTFlbr2z9S4n54) | [Murder In My Mind](https://open.spotify.com/album/68GI09qAs2XLJmA3hj5K7y) | 2:25 | 2022-05-13 |  |
 | [MURDER PLOT](https://open.spotify.com/track/62ZAFyVwbc9f2M8qCW1qJr) | [Kordhell](https://open.spotify.com/artist/2W6WP4pHQTFlbr2z9S4n54) | [MURDER PLOT](https://open.spotify.com/album/55fBYJVENoSR8pMOr7Cmhv) | 2:06 | 2023-01-06 |  |

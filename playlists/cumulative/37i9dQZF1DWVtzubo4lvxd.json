@@ -1474,7 +1474,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-18",
       "duration_ms": 125217,
       "name": "Hills and Horizons",
       "url": "https://open.spotify.com/track/1MfeZZwkOZP5gpCfZCzKiJ"
@@ -2564,6 +2564,24 @@
       "duration_ms": 77571,
       "name": "Nostalgia",
       "url": "https://open.spotify.com/track/4iLL181gl7s9FELLkSUmEK"
+    },
+    {
+      "album": {
+        "name": "b4u.",
+        "url": "https://open.spotify.com/album/5hXOjdUD5thOFrwq6tSDsn"
+      },
+      "artists": [
+        {
+          "name": "halberd",
+          "url": "https://open.spotify.com/artist/7ow7nXWCZuMoU09aRki7GB"
+        }
+      ],
+      "date_added": "2022-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 88182,
+      "name": "nvm.",
+      "url": "https://open.spotify.com/track/7ljI7sHNpt5t940veMe5y4"
     },
     {
       "album": {

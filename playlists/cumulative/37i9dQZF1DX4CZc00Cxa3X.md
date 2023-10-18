@@ -4,13 +4,13 @@
 
 > Inspired by Listening Bars around the world, a finely chosen selection of Ambient to create your very own.
 
-373 songs - 1 day 7 hr 2 min
+374 songs - 1 day 7 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [01](https://open.spotify.com/track/3Ij5JfgKbiCF7h8J90TTpa) | [Giuseppe Ielasi](https://open.spotify.com/artist/7JqFxlbv8o0djCv6o1LWLL) | [Five Wooden Frames](https://open.spotify.com/album/6xQzhfDkGBLBRk2XrwHhkv) | 7:48 | 2023-09-22 | 2023-10-07 |
 | [2c](https://open.spotify.com/track/4vVCKY4vnslc7dfJmN3mZC) | [Kara\-Lis Coverdale](https://open.spotify.com/artist/5pHUdo5THDtmE9yu3iC2hA) | [Grafts \(Expanded Reissue\)](https://open.spotify.com/album/2sB7YlLZuBhoQjovV8bZTW) | 7:52 | 2022-03-17 | 2023-03-18 |
-| [310](https://open.spotify.com/track/2jdNVXrmEvEa16mLGsqCjB) | [Koiwa](https://open.spotify.com/artist/7cVHUQpOTXqA7tbHCkIQqS) | [310](https://open.spotify.com/album/6wHh9OpcjKM3mOObQkCGhG) | 5:32 | 2022-09-12 |  |
+| [310](https://open.spotify.com/track/2jdNVXrmEvEa16mLGsqCjB) | [Koiwa](https://open.spotify.com/artist/7cVHUQpOTXqA7tbHCkIQqS) | [310](https://open.spotify.com/album/6wHh9OpcjKM3mOObQkCGhG) | 5:32 | 2022-09-12 | 2023-10-18 |
 | [A Field of Night](https://open.spotify.com/track/0XhNhTydcNnkbwYguBsPt3) | [Chequerboard](https://open.spotify.com/artist/4xjrTN2tw4VsS7mlBdSCmr) | [The Unfolding](https://open.spotify.com/album/0gflF9tUooliM9pyoUx7BO) | 7:33 | 2023-04-21 |  |
 | [A Field of Night](https://open.spotify.com/track/0YeA95qfyzG5jhm8M5XTpp) | [Chequerboard](https://open.spotify.com/artist/4xjrTN2tw4VsS7mlBdSCmr) | [The Unfolding](https://open.spotify.com/album/6fePA0wognv8fQ9mPed4YQ) | 7:33 | 2022-09-20 | 2023-04-20 |
 | [A Spire \- 2022 Remaster](https://open.spotify.com/track/7207n5INusM5trHSwl2dh3) | [Tape](https://open.spotify.com/artist/3uSlMGXphiafjKQwbj4QwW) | [Rideau \(2022 remaster\)](https://open.spotify.com/album/1hQkKy7llnXI08TnEdPfiw) | 11:45 | 2023-08-18 | 2023-09-01 |
@@ -113,6 +113,7 @@
 | [Faded Earth](https://open.spotify.com/track/5d6YkxTsmw6isMtqsw8vzh) | [Deaf Center](https://open.spotify.com/artist/0GQJRlsTD8irKEDcClYiiA) | [Low Distance](https://open.spotify.com/album/7eA7lexsBpvgs17la5jRc0) | 3:47 | 2022-07-01 | 2023-01-21 |
 | [fall \(Hania Rani Rework\) \(feat\. Hania Rani\)](https://open.spotify.com/track/2Pdz8PtiGiZCHwGiuDVX2n) | [Hugar](https://open.spotify.com/artist/0bdJp8l3a1uJRKe2YaAcE9), [Hania Rani](https://open.spotify.com/artist/14YzutUdMwS9yTnI0IFBaD) | [fall \(Hania Rani Rework\) \(feat\. Hania Rani\)](https://open.spotify.com/album/0jT8y9vhDBCvtDLRM42Jlk) | 4:29 | 2023-05-19 | 2023-06-06 |
 | [Fantas Morbida](https://open.spotify.com/track/3EmimXCpHQ9PW6FN0ajDeU) | [Caterina Barbieri](https://open.spotify.com/artist/61WgG5fz5ilJrMne7tE1zu), [Kara\-Lis Coverdale](https://open.spotify.com/artist/5pHUdo5THDtmE9yu3iC2hA) | [Fantas Variations](https://open.spotify.com/album/7zytkfZ6AvjmCbvwqFgFWO) | 3:07 | 2022-03-17 | 2022-05-05 |
+| [Far Place](https://open.spotify.com/track/1cdpJK8uK7yx3nOZuE9GWx) | [Holland Andrews](https://open.spotify.com/artist/1J6SJabt5gQLn1mpQ0zp4g), [Ryan Lott](https://open.spotify.com/artist/0rLLyTr5rx0qYKb63MdVW9) | [Forgettings](https://open.spotify.com/album/2EDalGxtlykn9IQPSIV2Bg) | 3:15 | 2023-10-06 |  |
 | [Farewell](https://open.spotify.com/track/04Azta7QhSUXNODJmbvOui) | [Andrew Tasselmyer](https://open.spotify.com/artist/3vwXyo09sUewtbKz6Bwkjx) | [Home Normal](https://open.spotify.com/album/2oiQ6Ck93DZDl9DHDOqpS1) | 6:18 | 2022-03-30 | 2022-07-26 |
 | [Feather](https://open.spotify.com/track/3D31N4fyByXCIchCFRnVd5) | [Ludwig A.F.](https://open.spotify.com/artist/3Pxzo6Fhgswi6238OggzO5) | [Air](https://open.spotify.com/album/0mJuu5yMJ9R9IRVBFY2DkI) | 3:36 | 2022-10-14 |  |
 | [FEEL](https://open.spotify.com/track/2okdRYCtBKj28PXuaheRNS) | [Hiroshi Yoshimura](https://open.spotify.com/artist/1DGpHnPOpMYY780hcQHmPB) | [Green](https://open.spotify.com/album/07KJ48Y7pbXvz3Q4H44GZl) | 4:27 | 2023-06-30 | 2023-07-14 |

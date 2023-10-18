@@ -1,12 +1,12 @@
 {
   "description": "Lo mejor de octubre 2023",
-  "num_followers": 1536130,
+  "num_followers": 1536132,
   "original_name": "Lo mejor del mes",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmNGUyNzZjNTFhODczMTRkMjU5MzA2NmYyZTQ0MGRjYzY1OGQzMzk4",
+  "snapshot_id": "MCxiM2RiYjUxNDc2OTI4ZDZmYzc4YWE3ZjhjMzJkOTk1Mzg3ZTlkNmZl",
   "tracks": [
     {
       "added_at": "2023-10-12 21:24:35",
@@ -327,26 +327,6 @@
     {
       "added_at": "2023-10-12 21:24:35",
       "album": {
-        "name": "XQ Sigues Pasando :(",
-        "url": "https://open.spotify.com/album/5yupynAvNgH8LwQomVJEzz"
-      },
-      "artists": [
-        {
-          "name": "Abraham Mateo",
-          "url": "https://open.spotify.com/artist/2bxxlINUlcMQQb39K7IopR"
-        },
-        {
-          "name": "Sebastian Yatra",
-          "url": "https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW"
-        }
-      ],
-      "duration_ms": 214800,
-      "name": "XQ Sigues Pasando :(",
-      "url": "https://open.spotify.com/track/60WnyQpJMxndoCwfo3TbuE"
-    },
-    {
-      "added_at": "2023-10-12 21:24:35",
-      "album": {
         "name": "PUERTO ESCONDIDO",
         "url": "https://open.spotify.com/album/4lj7xDOBMMb76MrLKt9w8z"
       },
@@ -363,6 +343,26 @@
       "duration_ms": 208163,
       "name": "PUERTO ESCONDIDO",
       "url": "https://open.spotify.com/track/6p9lWmoGI6WNlh3MFNhYSU"
+    },
+    {
+      "added_at": "2023-10-12 21:24:35",
+      "album": {
+        "name": "XQ Sigues Pasando :(",
+        "url": "https://open.spotify.com/album/5yupynAvNgH8LwQomVJEzz"
+      },
+      "artists": [
+        {
+          "name": "Abraham Mateo",
+          "url": "https://open.spotify.com/artist/2bxxlINUlcMQQb39K7IopR"
+        },
+        {
+          "name": "Sebastian Yatra",
+          "url": "https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW"
+        }
+      ],
+      "duration_ms": 214800,
+      "name": "XQ Sigues Pasando :(",
+      "url": "https://open.spotify.com/track/60WnyQpJMxndoCwfo3TbuE"
     },
     {
       "added_at": "2023-10-12 21:24:35",
@@ -439,6 +439,22 @@
     {
       "added_at": "2023-10-12 21:24:35",
       "album": {
+        "name": "Vas a Destrozarme",
+        "url": "https://open.spotify.com/album/62SCTCXiiOVJWw7oxCoa4E"
+      },
+      "artists": [
+        {
+          "name": "Mau y Ricky",
+          "url": "https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU"
+        }
+      ],
+      "duration_ms": 174480,
+      "name": "Vas a Destrozarme",
+      "url": "https://open.spotify.com/track/0T58JhPBoafZ05W1rIYSKP"
+    },
+    {
+      "added_at": "2023-10-12 21:24:35",
+      "album": {
         "name": "LQMGDT",
         "url": "https://open.spotify.com/album/65vQZKZABBbYxV5fCtLtOb"
       },
@@ -471,22 +487,6 @@
       "duration_ms": 159397,
       "name": "Solo Que Lo Dudes",
       "url": "https://open.spotify.com/track/6K3Z9ZgPC236RMBIT1q2sx"
-    },
-    {
-      "added_at": "2023-10-12 21:24:35",
-      "album": {
-        "name": "Vas a Destrozarme",
-        "url": "https://open.spotify.com/album/62SCTCXiiOVJWw7oxCoa4E"
-      },
-      "artists": [
-        {
-          "name": "Mau y Ricky",
-          "url": "https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU"
-        }
-      ],
-      "duration_ms": 174480,
-      "name": "Vas a Destrozarme",
-      "url": "https://open.spotify.com/track/0T58JhPBoafZ05W1rIYSKP"
     },
     {
       "added_at": "2023-10-12 21:24:35",

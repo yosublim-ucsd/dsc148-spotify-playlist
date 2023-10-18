@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWURfu7Lk3xJ1.md) - [plain]
 
 > Focus the mind with these calming beats.
 
-[Spotify](https://open.spotify.com/user/spotify) - 80,176 likes - 201 songs - 7 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 80,357 likes - 201 songs - 7 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWURfu7Lk3xJ1.md) - [plain]
 | 8 | [shelter](https://open.spotify.com/track/2RyZjcwgW7X3eMm38hZ0zo) | [Kolorama](https://open.spotify.com/artist/7KYVAGDhdO4DJ4qyeTWpcC) | [shelter](https://open.spotify.com/album/2luq40AQDoOiR5hkbogFIc) | 2:05 |
 | 9 | [under water](https://open.spotify.com/track/1sQlZIzRvIakw7SIB4THi1) | [bax iv](https://open.spotify.com/artist/0JZZhhFnYFY5c4mDXTgj42) | [under water](https://open.spotify.com/album/5lMoCrsL2AheZithd3omCi) | 2:06 |
 | 10 | [I Dream of Perfection](https://open.spotify.com/track/6EmGurhkEkSoeO7iAXVWJz) | [Some Guy I Know](https://open.spotify.com/artist/04PHmOO2YEDLmkcuEM8vzP) | [Remember Perfection](https://open.spotify.com/album/0fjtcRYUOjcGh6bteSfaKl) | 1:22 |
-| 11 | [with mystery](https://open.spotify.com/track/7vnxmUifoN7CSMwWXgkj14) | [Midnight Moon](https://open.spotify.com/artist/2rAbGV9R426clLWzjOQhIB) | [with mystery](https://open.spotify.com/album/6jvTFpJd4BB2mpmufEDdP2) | 2:24 |
+| 11 | [with mystery](https://open.spotify.com/track/7vnxmUifoN7CSMwWXgkj14) | [Dancing Mittens](https://open.spotify.com/artist/0X1U4UpoYDcQKr28oNEgQe) | [with mystery](https://open.spotify.com/album/6jvTFpJd4BB2mpmufEDdP2) | 2:24 |
 | 12 | [Forrest](https://open.spotify.com/track/0t0jeNPpefsuhh31UPn1pK) | [Mr Davies](https://open.spotify.com/artist/2gLbE2Cr7iD5hNTTTFgY2K) | [Forrest](https://open.spotify.com/album/5O00VXNEsXB7F8XqZfWfSY) | 2:44 |
 | 13 | [flickering](https://open.spotify.com/track/6Hy8gKdI1iMLCqCaNMBjFf) | [foursite](https://open.spotify.com/artist/52zHyZn0uVtMXDhJXVIRma) | [flickering](https://open.spotify.com/album/2lyB3IJlYQ28yQJlJiMZSO) | 2:36 |
 | 14 | [Levitate](https://open.spotify.com/track/7dxp8lVzYsTLmXol1sAOKh) | [Convivial](https://open.spotify.com/artist/59HctYEqVbvHq6aJ766KPH) | [Levitate](https://open.spotify.com/album/7Ha54KNva8eRTES9LrnudX) | 2:11 |
@@ -210,4 +210,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWURfu7Lk3xJ1.md) - [plain]
 | 200 | [keep me waiting](https://open.spotify.com/track/4aYNLaGrC49TIf59hDFxGQ) | [tremolo](https://open.spotify.com/artist/02Kg8FUEOMP356Zpy6oZRz), [abovus](https://open.spotify.com/artist/5DXweVRKKbzWHYb4jgIafb) | [lonely place](https://open.spotify.com/album/4URtGeM6Vuo6j2zUEoOpOj) | 1:43 |
 | 201 | [Gentle](https://open.spotify.com/track/6SCNLaxZas2Hqalh4zeAGr) | [ARSD](https://open.spotify.com/artist/6fJceX9nO6HyXIlrdvNxAM) | [Gentle](https://open.spotify.com/album/5lx736CiAjCBRgrqgqF5dt) | 3:30 |
 
-Snapshot ID: `MCxiOTUzMDE0NWQ2ZDVlMTMzZDNjMzA5OGQ5YTI3M2IyZmVmMzZmYTZh`
+Snapshot ID: `MCw5ZGQyYmJmMWMzYjZiZjRjNWE5MGZjMzQwZDUxYjA4ZjgzOWVkZTM1`

@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyYTM4MmY5NjRkNDA1YjljM2QyMzRkN2ZjMjk2YjEyNjdhN2NiZWNm",
+  "snapshot_id": "MCxjOGRiMTA2N2E0MDcxY2RmMmJmMjRlZmE5MDIwZTY2MmFiYWI3NTUz",
   "tracks": [
     {
       "added_at": "2023-10-13 04:00:00",
@@ -811,22 +811,6 @@
     {
       "added_at": "2023-10-13 04:00:00",
       "album": {
-        "name": "Crimen",
-        "url": "https://open.spotify.com/album/0yproFmJufIWXkyXypQvAo"
-      },
-      "artists": [
-        {
-          "name": "Bruses",
-          "url": "https://open.spotify.com/artist/5bRLeMl4Tnozmg9wR1pY7y"
-        }
-      ],
-      "duration_ms": 187234,
-      "name": "Crimen",
-      "url": "https://open.spotify.com/track/2OM21ugwD24GvvNcLFnbfj"
-    },
-    {
-      "added_at": "2023-10-13 04:00:00",
-      "album": {
         "name": "Recuerdos Que Torturan",
         "url": "https://open.spotify.com/album/7K5xL0QYU1brmPwpWSYA2L"
       },
@@ -839,6 +823,22 @@
       "duration_ms": 210425,
       "name": "Recuerdos Que Torturan",
       "url": "https://open.spotify.com/track/6cZXekrGcyPkuTAUiyKzIW"
+    },
+    {
+      "added_at": "2023-10-13 04:00:00",
+      "album": {
+        "name": "Crimen",
+        "url": "https://open.spotify.com/album/0yproFmJufIWXkyXypQvAo"
+      },
+      "artists": [
+        {
+          "name": "Bruses",
+          "url": "https://open.spotify.com/artist/5bRLeMl4Tnozmg9wR1pY7y"
+        }
+      ],
+      "duration_ms": 187234,
+      "name": "Crimen",
+      "url": "https://open.spotify.com/track/2OM21ugwD24GvvNcLFnbfj"
     },
     {
       "added_at": "2023-10-13 04:00:00",
@@ -859,22 +859,6 @@
     {
       "added_at": "2023-10-13 04:00:00",
       "album": {
-        "name": "Leche de Tigre",
-        "url": "https://open.spotify.com/album/2jWdBKOz7I73GULBYQU0k8"
-      },
-      "artists": [
-        {
-          "name": "Diamante El\u00e9ctrico",
-          "url": "https://open.spotify.com/artist/4VAZ6unMJx5upeWn0aFYuo"
-        }
-      ],
-      "duration_ms": 226057,
-      "name": "Antes de Ti",
-      "url": "https://open.spotify.com/track/69YoHCogS3aJwhf9ntlPvq"
-    },
-    {
-      "added_at": "2023-10-13 04:00:00",
-      "album": {
         "name": "Mi vida en llamas (feat. Buscabulla)",
         "url": "https://open.spotify.com/album/7q70ajI1NZeBm8FIpLACy5"
       },
@@ -891,6 +875,22 @@
       "duration_ms": 288624,
       "name": "Mi vida en llamas (feat. Buscabulla)",
       "url": "https://open.spotify.com/track/79kbKtYtvrxWq2Zig0gtBK"
+    },
+    {
+      "added_at": "2023-10-13 04:00:00",
+      "album": {
+        "name": "Leche de Tigre",
+        "url": "https://open.spotify.com/album/2jWdBKOz7I73GULBYQU0k8"
+      },
+      "artists": [
+        {
+          "name": "Diamante El\u00e9ctrico",
+          "url": "https://open.spotify.com/artist/4VAZ6unMJx5upeWn0aFYuo"
+        }
+      ],
+      "duration_ms": 226057,
+      "name": "Antes de Ti",
+      "url": "https://open.spotify.com/track/69YoHCogS3aJwhf9ntlPvq"
     },
     {
       "added_at": "2023-10-13 04:00:00",
@@ -967,22 +967,6 @@
     {
       "added_at": "2023-10-13 04:00:00",
       "album": {
-        "name": "444/Ms. Moon",
-        "url": "https://open.spotify.com/album/4XQ2sccEi11cw5EZZMA97Z"
-      },
-      "artists": [
-        {
-          "name": "Ambar Lucid",
-          "url": "https://open.spotify.com/artist/4nzV0hThyodYzrwksnS86G"
-        }
-      ],
-      "duration_ms": 170805,
-      "name": "444",
-      "url": "https://open.spotify.com/track/4IsGVklAFcRYhQwY3CtsgB"
-    },
-    {
-      "added_at": "2023-10-13 04:00:00",
-      "album": {
         "name": "Mexico",
         "url": "https://open.spotify.com/album/7CgEURpwKsDNDDQ5NuFZgp"
       },
@@ -995,6 +979,22 @@
       "duration_ms": 220853,
       "name": "Mexico",
       "url": "https://open.spotify.com/track/4ix1Sthfg7xwrDwM0Zj53k"
+    },
+    {
+      "added_at": "2023-10-13 04:00:00",
+      "album": {
+        "name": "444/Ms. Moon",
+        "url": "https://open.spotify.com/album/4XQ2sccEi11cw5EZZMA97Z"
+      },
+      "artists": [
+        {
+          "name": "Ambar Lucid",
+          "url": "https://open.spotify.com/artist/4nzV0hThyodYzrwksnS86G"
+        }
+      ],
+      "duration_ms": 170805,
+      "name": "444",
+      "url": "https://open.spotify.com/track/4IsGVklAFcRYhQwY3CtsgB"
     },
     {
       "added_at": "2023-10-13 04:00:00",
@@ -1243,22 +1243,6 @@
     {
       "added_at": "2023-10-13 04:00:00",
       "album": {
-        "name": "MIMO",
-        "url": "https://open.spotify.com/album/3mx6ZABLIkj5RjODUtQY21"
-      },
-      "artists": [
-        {
-          "name": "SIMONA",
-          "url": "https://open.spotify.com/artist/7H7hLNfP9MzG8mt2A3s7nT"
-        }
-      ],
-      "duration_ms": 151207,
-      "name": "FRESH",
-      "url": "https://open.spotify.com/track/51O1GVKmV5xJhemFjotvSV"
-    },
-    {
-      "added_at": "2023-10-13 04:00:00",
-      "album": {
         "name": "Muerta de Fr\u00edo",
         "url": "https://open.spotify.com/album/1gbqdDkwfvEWirx6po0YtY"
       },
@@ -1275,6 +1259,22 @@
       "duration_ms": 258883,
       "name": "Muerta de Fr\u00edo",
       "url": "https://open.spotify.com/track/4jXfJMb6rEDc86zMC115pc"
+    },
+    {
+      "added_at": "2023-10-13 04:00:00",
+      "album": {
+        "name": "MIMO",
+        "url": "https://open.spotify.com/album/3mx6ZABLIkj5RjODUtQY21"
+      },
+      "artists": [
+        {
+          "name": "SIMONA",
+          "url": "https://open.spotify.com/artist/7H7hLNfP9MzG8mt2A3s7nT"
+        }
+      ],
+      "duration_ms": 151207,
+      "name": "FRESH",
+      "url": "https://open.spotify.com/track/51O1GVKmV5xJhemFjotvSV"
     },
     {
       "added_at": "2023-10-13 04:00:00",

@@ -1,12 +1,12 @@
 {
   "description": "Tesoros musicales del ayer.",
-  "num_followers": 719906,
+  "num_followers": 720259,
   "original_name": "Viejitas pero Bonitas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhZjBlOTY2OGU3ZjY2MzY3MTk0MjRkYmMxZGM4YzI5ODZlNDUwMWJl",
+  "snapshot_id": "MCw3OGY2ZjdjNGIyZjc3OWVjZmNiOWE5YjNmMTcwNTNjNjBkM2FiODNk",
   "tracks": [
     {
       "added_at": "2023-09-29 13:35:51",
@@ -475,22 +475,6 @@
     {
       "added_at": "2021-04-22 14:20:49",
       "album": {
-        "name": "Fuiste M\u00eda un Verano",
-        "url": "https://open.spotify.com/album/5f06LnwgFScMv0Z4WEyIPm"
-      },
-      "artists": [
-        {
-          "name": "Leonardo Favio",
-          "url": "https://open.spotify.com/artist/7JWJRzjFr2Qt5yB9ondmoq"
-        }
-      ],
-      "duration_ms": 223400,
-      "name": "Ella...Ella Ya Me Olvid\u00f3, Yo la Recuerdo Ahora",
-      "url": "https://open.spotify.com/track/2IG7Gl8zcAJiYcZBKMvdWD"
-    },
-    {
-      "added_at": "2021-04-22 14:20:49",
-      "album": {
         "name": "El Privilegio De Amar",
         "url": "https://open.spotify.com/album/6Gz4ADhuPTy6CeyL52Ks2f"
       },
@@ -503,6 +487,22 @@
       "duration_ms": 236493,
       "name": "El Privilegio De Amar",
       "url": "https://open.spotify.com/track/3NGG1do9lT815M5REcCzzm"
+    },
+    {
+      "added_at": "2021-04-22 14:20:49",
+      "album": {
+        "name": "Fuiste M\u00eda un Verano",
+        "url": "https://open.spotify.com/album/5f06LnwgFScMv0Z4WEyIPm"
+      },
+      "artists": [
+        {
+          "name": "Leonardo Favio",
+          "url": "https://open.spotify.com/artist/7JWJRzjFr2Qt5yB9ondmoq"
+        }
+      ],
+      "duration_ms": 223400,
+      "name": "Ella...Ella Ya Me Olvid\u00f3, Yo la Recuerdo Ahora",
+      "url": "https://open.spotify.com/track/2IG7Gl8zcAJiYcZBKMvdWD"
     },
     {
       "added_at": "2021-04-22 14:20:49",
@@ -543,6 +543,22 @@
     {
       "added_at": "2021-04-22 14:20:49",
       "album": {
+        "name": "Matamoros Querido",
+        "url": "https://open.spotify.com/album/3JhqydiRWszqD9YZ7xf4PR"
+      },
+      "artists": [
+        {
+          "name": "Rigo Tovar",
+          "url": "https://open.spotify.com/artist/5fKc00Wh60ggl0QptZ2aBx"
+        }
+      ],
+      "duration_ms": 195506,
+      "name": "Lamento De Amor",
+      "url": "https://open.spotify.com/track/6pYz8bkZvf84S49VWLRHah"
+    },
+    {
+      "added_at": "2021-04-22 14:20:49",
+      "album": {
         "name": "Serie Diamante (USA)",
         "url": "https://open.spotify.com/album/2fgUn3x6HujXAP2AXxMoer"
       },
@@ -555,6 +571,22 @@
       "duration_ms": 173506,
       "name": "Mi amor es para ti",
       "url": "https://open.spotify.com/track/7pVViW51vp66dqaBRkmAv7"
+    },
+    {
+      "added_at": "2021-04-22 14:20:49",
+      "album": {
+        "name": "De Piel Negra",
+        "url": "https://open.spotify.com/album/4i0eMiYUxt1ESu6SrHQpVg"
+      },
+      "artists": [
+        {
+          "name": "Alejandra Guzman",
+          "url": "https://open.spotify.com/artist/7Hf9AwMO37bSdxHb0FBGmO"
+        }
+      ],
+      "duration_ms": 278453,
+      "name": "Hacer El Amor Con Otro",
+      "url": "https://open.spotify.com/track/1MtVzUD3q6z3NmppCZcCDb"
     },
     {
       "added_at": "2021-04-22 14:20:49",
@@ -575,22 +607,6 @@
     {
       "added_at": "2021-04-22 14:20:49",
       "album": {
-        "name": "Matamoros Querido",
-        "url": "https://open.spotify.com/album/3JhqydiRWszqD9YZ7xf4PR"
-      },
-      "artists": [
-        {
-          "name": "Rigo Tovar",
-          "url": "https://open.spotify.com/artist/5fKc00Wh60ggl0QptZ2aBx"
-        }
-      ],
-      "duration_ms": 195506,
-      "name": "Lamento De Amor",
-      "url": "https://open.spotify.com/track/6pYz8bkZvf84S49VWLRHah"
-    },
-    {
-      "added_at": "2021-04-22 14:20:49",
-      "album": {
         "name": "Coleccion de Oro",
         "url": "https://open.spotify.com/album/03qbgosLANCuqg2jUgmI9V"
       },
@@ -603,22 +619,6 @@
       "duration_ms": 235572,
       "name": "Que Ganas de No Verte Nunca Mas",
       "url": "https://open.spotify.com/track/45k6YC7usGnU34FRz8peZd"
-    },
-    {
-      "added_at": "2021-04-22 14:20:49",
-      "album": {
-        "name": "De Piel Negra",
-        "url": "https://open.spotify.com/album/4i0eMiYUxt1ESu6SrHQpVg"
-      },
-      "artists": [
-        {
-          "name": "Alejandra Guzman",
-          "url": "https://open.spotify.com/artist/7Hf9AwMO37bSdxHb0FBGmO"
-        }
-      ],
-      "duration_ms": 278453,
-      "name": "Hacer El Amor Con Otro",
-      "url": "https://open.spotify.com/track/1MtVzUD3q6z3NmppCZcCDb"
     },
     {
       "added_at": "2021-04-22 14:20:49",
@@ -655,22 +655,6 @@
     {
       "added_at": "2021-04-22 14:20:49",
       "album": {
-        "name": "Palito Ortega y Sus Exitos",
-        "url": "https://open.spotify.com/album/7LqDl8hqvxYKVArJWWABtC"
-      },
-      "artists": [
-        {
-          "name": "Palito Ortega",
-          "url": "https://open.spotify.com/artist/4jCduxx9HzFKS0RrRAtVXD"
-        }
-      ],
-      "duration_ms": 202501,
-      "name": "Prometimos No Llorar",
-      "url": "https://open.spotify.com/track/3TSJgodP7iM95y0kODUSyp"
-    },
-    {
-      "added_at": "2021-04-22 14:20:49",
-      "album": {
         "name": "Originales - 20 Exitos",
         "url": "https://open.spotify.com/album/5xaZwiFGYT273Zk40sen9o"
       },
@@ -683,6 +667,22 @@
       "duration_ms": 207146,
       "name": "El Muchacho de los Ojos Tristes",
       "url": "https://open.spotify.com/track/41JBXtssxYuLMyiBwwlnY6"
+    },
+    {
+      "added_at": "2021-04-22 14:20:49",
+      "album": {
+        "name": "Palito Ortega y Sus Exitos",
+        "url": "https://open.spotify.com/album/7LqDl8hqvxYKVArJWWABtC"
+      },
+      "artists": [
+        {
+          "name": "Palito Ortega",
+          "url": "https://open.spotify.com/artist/4jCduxx9HzFKS0RrRAtVXD"
+        }
+      ],
+      "duration_ms": 202501,
+      "name": "Prometimos No Llorar",
+      "url": "https://open.spotify.com/track/3TSJgodP7iM95y0kODUSyp"
     },
     {
       "added_at": "2021-04-22 14:20:49",
@@ -1319,22 +1319,6 @@
     {
       "added_at": "2021-04-22 14:20:49",
       "album": {
-        "name": "Bienvenido al Club",
-        "url": "https://open.spotify.com/album/4AtWbdrwpxM0vpKc7X55Rv"
-      },
-      "artists": [
-        {
-          "name": "Dyango",
-          "url": "https://open.spotify.com/artist/0PbO1lSBsJPgyqdEypJJVb"
-        }
-      ],
-      "duration_ms": 241733,
-      "name": "Por volverte a ver",
-      "url": "https://open.spotify.com/track/2FcleEUIUJbhS5Lh6a94Gf"
-    },
-    {
-      "added_at": "2021-04-22 14:20:49",
-      "album": {
         "name": "Solo Para Ti",
         "url": "https://open.spotify.com/album/3LRXbYxa6LgY8W7jUHYNnk"
       },
@@ -1351,18 +1335,18 @@
     {
       "added_at": "2021-04-22 14:20:49",
       "album": {
-        "name": "Sandro de Am\u00e9rica",
-        "url": "https://open.spotify.com/album/5KWGSBbAvNO1ycytBsPiT9"
+        "name": "Bienvenido al Club",
+        "url": "https://open.spotify.com/album/4AtWbdrwpxM0vpKc7X55Rv"
       },
       "artists": [
         {
-          "name": "Sandro",
-          "url": "https://open.spotify.com/artist/5srsgtoePlsp0eQIXmta1O"
+          "name": "Dyango",
+          "url": "https://open.spotify.com/artist/0PbO1lSBsJPgyqdEypJJVb"
         }
       ],
-      "duration_ms": 153026,
-      "name": "Rosa... Rosa",
-      "url": "https://open.spotify.com/track/2xWNLtRPgcQwjTWjhncnJF"
+      "duration_ms": 241733,
+      "name": "Por volverte a ver",
+      "url": "https://open.spotify.com/track/2FcleEUIUJbhS5Lh6a94Gf"
     },
     {
       "added_at": "2022-07-14 15:59:59",
@@ -1379,6 +1363,22 @@
       "duration_ms": 213453,
       "name": "El Hombre Que Yo Amo",
       "url": "https://open.spotify.com/track/5OtonpNWhoAw9z3wRwM2TC"
+    },
+    {
+      "added_at": "2021-04-22 14:20:49",
+      "album": {
+        "name": "Sandro de Am\u00e9rica",
+        "url": "https://open.spotify.com/album/5KWGSBbAvNO1ycytBsPiT9"
+      },
+      "artists": [
+        {
+          "name": "Sandro",
+          "url": "https://open.spotify.com/artist/5srsgtoePlsp0eQIXmta1O"
+        }
+      ],
+      "duration_ms": 153026,
+      "name": "Rosa... Rosa",
+      "url": "https://open.spotify.com/track/2xWNLtRPgcQwjTWjhncnJF"
     },
     {
       "added_at": "2021-04-22 14:20:49",

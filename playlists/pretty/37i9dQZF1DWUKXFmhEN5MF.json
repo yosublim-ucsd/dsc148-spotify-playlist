@@ -1,12 +1,12 @@
 {
   "description": "Songs to make your Zumba workout extra fun.",
-  "num_followers": 51119,
+  "num_followers": 51134,
   "original_name": "Bollywood Zumba",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4MzhjYjdjMDBlYjdkYzNjNTUyZDM3N2YyYWM2NjdkMjY5YmFiMDU4",
+  "snapshot_id": "MCwyZWYxYjJmZTcyYzVlZmY2ZjE3YmY1NDc0OTNhOTI3OTUzM2U2YTEy",
   "tracks": [
     {
       "added_at": "2023-10-12 07:28:59",
@@ -820,6 +820,10 @@
       },
       "artists": [
         {
+          "name": "Pritam",
+          "url": "https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU"
+        },
+        {
           "name": "Mika Singh",
           "url": "https://open.spotify.com/artist/5T2I75UlGBcWd5nVyfmL13"
         },
@@ -1163,6 +1167,10 @@
         "url": "https://open.spotify.com/album/4OYdTHNgjhXzgVjbqsb0tO"
       },
       "artists": [
+        {
+          "name": "Pritam",
+          "url": "https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU"
+        },
         {
           "name": "Sonu Nigam",
           "url": "https://open.spotify.com/artist/1dVygo6tRFXC8CSWURQJq2"

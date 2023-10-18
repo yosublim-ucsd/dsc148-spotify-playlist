@@ -4,7 +4,7 @@
 
 > From Joburg and Lagos..\. to Chicago\. Get lost in the electro and bass vibes.
 
-120 songs - 11 hr 35 min
+121 songs - 11 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -70,7 +70,8 @@
 | [Lobela](https://open.spotify.com/track/195c6cDeMpBqYxaSQ65cwZ) | [Saint Evo](https://open.spotify.com/artist/08dNTAMCiCM61JnSslHFCE), [Lizwi](https://open.spotify.com/artist/70PnxFjOBPqfF4CZSt3A3X) | [Lobela](https://open.spotify.com/album/0CeY1p6mvixO7vDTeyIOWX) | 7:37 | 2023-02-09 |  |
 | [Makwande](https://open.spotify.com/track/2MpkUFQpd7zYRGZt4BQ8bz) | [Sun\-El Musician](https://open.spotify.com/artist/0W8WpLB5WoXLgiA193LXk6), [Fka Mash](https://open.spotify.com/artist/6tooLez7Cq2bgY60m3TJMq), [Ami Faku](https://open.spotify.com/artist/3flcjKgRCeBVZTR8n8iShE) | [AEDM: Interstellar](https://open.spotify.com/album/7bNztZqGIRCaALpnDsDB4W) | 5:52 | 2023-02-09 |  |
 | [Mama \(Da Capo's Touch\)](https://open.spotify.com/track/6BLMoJcHmJiYfFRPKWOaEw) | [Josiah De Disciple](https://open.spotify.com/artist/0Es1TBdBiQPIdwQWLJelte), [Boohle](https://open.spotify.com/artist/6fHE8xZBCxzwer9DIbOmv4), [Da Capo](https://open.spotify.com/artist/4YuviELTmYBvDR66ThrMy9) | [Mama \(Da Capo's Touch\)](https://open.spotify.com/album/3CRw6YSsrFJQLjD3kVjM1i) | 7:29 | 2021-10-14 | 2023-02-10 |
-| [Maya](https://open.spotify.com/track/37aSg02eKxZMSueTi5qE89) | [Pierre Johnson](https://open.spotify.com/artist/2CUjvq6GOAGAMyN3zDyfXz) | [Maya](https://open.spotify.com/album/2hfNUwkRhfw7VjCWIQU4hZ) | 6:39 | 2023-02-09 |  |
+| [Maya](https://open.spotify.com/track/37aSg02eKxZMSueTi5qE89) | [Pierre Johnson](https://open.spotify.com/artist/2CUjvq6GOAGAMyN3zDyfXz) | [Maya](https://open.spotify.com/album/2hfNUwkRhfw7VjCWIQU4hZ) | 6:39 | 2023-02-09 | 2023-10-18 |
+| [Maya](https://open.spotify.com/track/4XMD1mr6aE5BnJ1yjhBhUz) | [Pierre Johnson](https://open.spotify.com/artist/2CUjvq6GOAGAMyN3zDyfXz) | [Maya](https://open.spotify.com/album/0icraFyyHdOz3pxh9o3UbH) | 6:39 | 2023-09-21 |  |
 | [Mina Nawe](https://open.spotify.com/track/1y5eHXBYiLgNv00KoHXm4o) | [Soa Mattrix](https://open.spotify.com/artist/6zfTCQmxqOy0kBpHrse3ro), [Mashudu](https://open.spotify.com/artist/0vZNKz7Pn611D2LBHsSo3R), [Happy Jazzman](https://open.spotify.com/artist/2n6s9O552nTm98ThzFjB9C), [Emotionz DJ](https://open.spotify.com/artist/0GMM9vgCLkEfMle3KaJyxy) | [Mina Nawe](https://open.spotify.com/album/6vzPgfVVWTRHPCDfBWekGY) | 5:51 | 2023-02-09 |  |
 | [MOB TIES](https://open.spotify.com/track/6UqPgAXiEWQ6ufr6SsrYrn) | [TeraphoniQue](https://open.spotify.com/artist/04oIjchSi05edEVbMQr64m), [DNZL444](https://open.spotify.com/artist/1aBBAzFrklsARDCrA7Qpe9) | [MOB TIES](https://open.spotify.com/album/7qG3ybL5XDIzcbfr5DKHBj) | 7:06 | 2023-02-09 |  |
 | [Mohigan Sun](https://open.spotify.com/track/5U6zQqXCVZokE7UH4kdAB1) | [MÖRDA](https://open.spotify.com/artist/0M8NOvT5MTp13jYZ0bZZQp), [Oscar Mbo](https://open.spotify.com/artist/6rPG97md3RdzwNc1eJQQNX), [Murumba Pitch](https://open.spotify.com/artist/3cd7plsjSmDdQ0oHESYHC4) | [Asante](https://open.spotify.com/album/6JDD5mOfpytom3PFSySw8J) | 7:07 | 2023-02-09 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTcqUzwhNmKv.md) - [plain]
 
 > Spiritbox on top of the biggest Metal playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,454,354 likes - 75 songs - 5 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,454,505 likes - 75 songs - 5 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTcqUzwhNmKv.md) - [plain]
 | 74 | [Summoned for Sacrifice](https://open.spotify.com/track/3UKHl5blhmofaIl8aFHAN1) | [Cannibal Corpse](https://open.spotify.com/artist/0yLwGBQiBqhXOvmTfH2A7n) | [Chaos Horrific](https://open.spotify.com/album/2OsBHxwlW8kJx2YCnhH7rI) | 4:05 |
 | 75 | [Beholden to Clan](https://open.spotify.com/track/5LxBDSxTZH9hrNTMXnMEGT) | [Wolves In The Throne Room](https://open.spotify.com/artist/5lqyPWmAivV75tII5Vxpet) | [Crypt of Ancestral Knowledge](https://open.spotify.com/album/2gWPiPmcyw7Hdha3wR74g4) | 6:57 |
 
-Snapshot ID: `MCw2OTZmMWQ0Yjg0YmJkMjBmYWY4ODY4NzY2Y2ZkMWYyZjZjZTA0YjI0`
+Snapshot ID: `MCxjODNhYTQ1ZjY3ZGQ4ZDI5OGI4ZGE3NDg0MjNiZDVjODJmNWE2NmE2`

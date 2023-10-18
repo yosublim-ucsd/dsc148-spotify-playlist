@@ -4,7 +4,7 @@
 
 > ¡Nos vemos el 17, 18 y 19 de Febrero en Las Estacas para disfrutar juntos! ¿A quién no te vas a perder?
 
-68 songs - 5 hr 18 min
+69 songs - 5 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -67,7 +67,8 @@
 | [The Song](https://open.spotify.com/track/6VM1kODr0GOt0y5VirvXW2) | [Stimming](https://open.spotify.com/artist/2yPveJtn9DpeN0CgNJHvAQ) | [Window Shopping](https://open.spotify.com/album/70J7rIqqTeuNxIogrSii36) | 8:37 | 2023-02-03 |  |
 | [Ti\-de](https://open.spotify.com/track/4Hkcul01Ct8ToAZkc71Ktf) | [Kokoroko](https://open.spotify.com/artist/3u9rbdcmA6CxjxOAkjaeFr) | [KOKOROKO](https://open.spotify.com/album/7DEDf5W3DlySzcs4CQuiuF) | 6:12 | 2023-02-03 |  |
 | [Tiempo Perfecto](https://open.spotify.com/track/2gJ5HpHVVkFu5eQkw0eIt0) | [AQUIHAYAQUIHAY](https://open.spotify.com/artist/3zMBw1jxFritUP7Mpce68i) | [Tiempo Perfecto](https://open.spotify.com/album/3Wy3lKA5xLbmitR75IuhkI) | 4:59 | 2023-02-03 |  |
-| [Tojo](https://open.spotify.com/track/4Ihf287hDTQJ0Eo2G6bFcv) | [Kokoroko](https://open.spotify.com/artist/3u9rbdcmA6CxjxOAkjaeFr) | [Could We Be More](https://open.spotify.com/album/5pJXka0Joj77KqooPlQwFu) | 3:59 | 2023-02-03 |  |
+| [Tojo](https://open.spotify.com/track/4Ihf287hDTQJ0Eo2G6bFcv) | [Kokoroko](https://open.spotify.com/artist/3u9rbdcmA6CxjxOAkjaeFr) | [Could We Be More](https://open.spotify.com/album/5pJXka0Joj77KqooPlQwFu) | 3:59 | 2023-02-03 | 2023-10-18 |
+| [Tojo](https://open.spotify.com/track/5w3b1UFMnOqxeNSiJBLzqO) | [Kokoroko](https://open.spotify.com/artist/3u9rbdcmA6CxjxOAkjaeFr) | [Could We Be More](https://open.spotify.com/album/48e8LFqiVUxumlXDIVyNYl) | 3:59 | 2023-02-03 |  |
 | [Towards The Mountain](https://open.spotify.com/track/4CvfQTMaKGGD7eR5tIDrT7) | [Pachyman](https://open.spotify.com/artist/515f4vsvg0JQWrmt7qpR6l) | [El Sonido Nuevo de](https://open.spotify.com/album/5bp7bVrqq6t71CWU9KSmu5) | 3:20 | 2023-02-03 |  |
 | [Tu Color](https://open.spotify.com/track/51MQDiZAgOyUH8UXD3TTlY) | [BUDAYA](https://open.spotify.com/artist/1uLgN9ifDGflQ7RywGw67U) | [Tu Color](https://open.spotify.com/album/38DaQfytg4lkX9qupqzohm) | 3:46 | 2023-02-03 |  |
 | [U Feel Mi \- Kai Alce's New Feel](https://open.spotify.com/track/7kAWkF6EHSxR0lXmFJokYc) | [Mr\. G](https://open.spotify.com/artist/1xietQVw6iUIK01sfhmWSN), [Kai Alcé](https://open.spotify.com/artist/28okccoDb505PNOF3LeMTi) | [The Remixes EP](https://open.spotify.com/album/6HNu1M0z0dSVFTyA9WPGxQ) | 5:25 | 2023-02-03 |  |

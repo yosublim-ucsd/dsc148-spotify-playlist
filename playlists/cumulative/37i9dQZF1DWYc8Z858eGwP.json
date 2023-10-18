@@ -147,6 +147,24 @@
     },
     {
       "album": {
+        "name": "All the Noise",
+        "url": "https://open.spotify.com/album/7wi4SEBg116K9mEX5x4I2D"
+      },
+      "artists": [
+        {
+          "name": "Manana",
+          "url": "https://open.spotify.com/artist/6omm7OGZMQZ2XODf4JVKnQ"
+        }
+      ],
+      "date_added": "2023-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249520,
+      "name": "All the Noise",
+      "url": "https://open.spotify.com/track/4FEgeEyyW2zzdyoCk9sK2d"
+    },
+    {
+      "album": {
         "name": "Alone",
         "url": "https://open.spotify.com/album/3QNMOgAZ3fezFohWtYRMaw"
       },
@@ -3327,6 +3345,32 @@
     },
     {
       "album": {
+        "name": "Beautiful Lies",
+        "url": "https://open.spotify.com/album/2mPFn6vASk3VVP1M3nTeCM"
+      },
+      "artists": [
+        {
+          "name": "Runda",
+          "url": "https://open.spotify.com/artist/1ECPisHdyXxJzBSPaHCk0x"
+        },
+        {
+          "name": "Cheque",
+          "url": "https://open.spotify.com/artist/4oQyXxDBq8FBhsjjS7MbcM"
+        },
+        {
+          "name": "PsychoYP",
+          "url": "https://open.spotify.com/artist/4Hyl7QROvzELSzMO7OXdjr"
+        }
+      ],
+      "date_added": "2023-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196904,
+      "name": "Next to Me",
+      "url": "https://open.spotify.com/track/1dRcJH6gdBPnXKcvVU8SiB"
+    },
+    {
+      "album": {
         "name": "Trench to Triumph",
         "url": "https://open.spotify.com/album/60dzSRKqWPNVTunBR1aHal"
       },
@@ -3404,6 +3448,28 @@
       "duration_ms": 162285,
       "name": "No Wahala",
       "url": "https://open.spotify.com/track/4vHy2IHzf3EabEa7oMpUZB"
+    },
+    {
+      "album": {
+        "name": "Not God (Remix)",
+        "url": "https://open.spotify.com/album/05ruDWqO8oNBoz4L66xzG2"
+      },
+      "artists": [
+        {
+          "name": "Fameye",
+          "url": "https://open.spotify.com/artist/3qzyWumjTf8agsBgNTkx7L"
+        },
+        {
+          "name": "Stonebwoy",
+          "url": "https://open.spotify.com/artist/2ayt5jDUuTCpoTG7sHSvuq"
+        }
+      ],
+      "date_added": "2023-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215757,
+      "name": "Not God - Remix",
+      "url": "https://open.spotify.com/track/3WOjwhAJopm0H1d7Z804JP"
     },
     {
       "album": {
@@ -3504,6 +3570,28 @@
       "duration_ms": 151932,
       "name": "OLE",
       "url": "https://open.spotify.com/track/3ugqlQkSvdAckn4uNOlzQF"
+    },
+    {
+      "album": {
+        "name": "Ole",
+        "url": "https://open.spotify.com/album/1ob2YtI9F9r54JXKXt7lhX"
+      },
+      "artists": [
+        {
+          "name": "Qing Madi",
+          "url": "https://open.spotify.com/artist/0ZvsEkINadmEV4qzS4ollh"
+        },
+        {
+          "name": "Bnxn",
+          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
+        }
+      ],
+      "date_added": "2023-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170000,
+      "name": "Ole (feat. BNXN)",
+      "url": "https://open.spotify.com/track/7onM6Fbiu7ufnMQnbd5oZJ"
     },
     {
       "album": {
@@ -3827,6 +3915,28 @@
     },
     {
       "album": {
+        "name": "Rora",
+        "url": "https://open.spotify.com/album/1uZCXiwB6JKI6Z9bSejdzC"
+      },
+      "artists": [
+        {
+          "name": "Boj",
+          "url": "https://open.spotify.com/artist/4qYpTEJThZ8FC8KzyFrSWW"
+        },
+        {
+          "name": "Ajebutter22",
+          "url": "https://open.spotify.com/artist/36gl2NBJNRaQakdS4fTKGW"
+        }
+      ],
+      "date_added": "2023-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143762,
+      "name": "Rora",
+      "url": "https://open.spotify.com/track/5Qj74EnGXZ0V2TGzUKlZuq"
+    },
+    {
+      "album": {
         "name": "Ruger",
         "url": "https://open.spotify.com/album/6yzz9A35I5uLUmC71RTxtr"
       },
@@ -3980,7 +4090,7 @@
       ],
       "date_added": "2023-05-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-18",
       "duration_ms": 180000,
       "name": "See Finish",
       "url": "https://open.spotify.com/track/5ydzXyCRG9AUq9w8pIf0Uc"
@@ -4676,6 +4786,28 @@
       "duration_ms": 163653,
       "name": "Tight Condition",
       "url": "https://open.spotify.com/track/1sDAPYzFftbXW5fhMl0oKI"
+    },
+    {
+      "album": {
+        "name": "Tighter",
+        "url": "https://open.spotify.com/album/2bVycA3gdEqU51o5rILZUI"
+      },
+      "artists": [
+        {
+          "name": "Tim Lyre",
+          "url": "https://open.spotify.com/artist/4iYJ88IcQS4GFqLqWGE5yx"
+        },
+        {
+          "name": "Minz",
+          "url": "https://open.spotify.com/artist/2XNwtpu314ZSFziTt0ZqZT"
+        }
+      ],
+      "date_added": "2023-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210000,
+      "name": "Tighter",
+      "url": "https://open.spotify.com/track/2WRnCb0v84HQ8ZzGavDrXX"
     },
     {
       "album": {

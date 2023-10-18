@@ -1,12 +1,12 @@
 {
   "description": "Blissful indie for dreamers.",
-  "num_followers": 294863,
+  "num_followers": 294961,
   "original_name": "Dreampop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmNTg3M2UzZmZhMjNlMDFmZDFjMmI3OTlkZjY4Y2IyNTExMzgxMTUy",
+  "snapshot_id": "MCwxZTFmMzJmZTM0OTM4ZmI5ZTk0ZDg2NzczNDA3N2Q5ZDc3NTRiYjhh",
   "tracks": [
     {
       "added_at": "2023-07-21 10:37:28",
@@ -207,6 +207,22 @@
     {
       "added_at": "2023-07-21 10:37:28",
       "album": {
+        "name": "Radio",
+        "url": "https://open.spotify.com/album/1ZaigXPBR3ve70vpWaP1jB"
+      },
+      "artists": [
+        {
+          "name": "Freak Slug",
+          "url": "https://open.spotify.com/artist/5wk7sY8GIg5ihSI09EbWeS"
+        }
+      ],
+      "duration_ms": 191527,
+      "name": "Radio",
+      "url": "https://open.spotify.com/track/1gyIYA98zceKTnjISviYRz"
+    },
+    {
+      "added_at": "2023-07-21 10:37:28",
+      "album": {
         "name": "Chinatown",
         "url": "https://open.spotify.com/album/10fSu9RLAJlasIup4ylHPM"
       },
@@ -223,22 +239,6 @@
       "duration_ms": 247968,
       "name": "Chinatown",
       "url": "https://open.spotify.com/track/7IY2JF7AlVN5uvIUBVnSJd"
-    },
-    {
-      "added_at": "2023-07-21 10:37:28",
-      "album": {
-        "name": "Radio",
-        "url": "https://open.spotify.com/album/1ZaigXPBR3ve70vpWaP1jB"
-      },
-      "artists": [
-        {
-          "name": "Freak Slug",
-          "url": "https://open.spotify.com/artist/5wk7sY8GIg5ihSI09EbWeS"
-        }
-      ],
-      "duration_ms": 191527,
-      "name": "Radio",
-      "url": "https://open.spotify.com/track/1gyIYA98zceKTnjISviYRz"
     },
     {
       "added_at": "2023-07-21 10:37:28",
@@ -703,6 +703,22 @@
     {
       "added_at": "2023-07-21 10:37:28",
       "album": {
+        "name": "Euphories",
+        "url": "https://open.spotify.com/album/1WfIjwnJ0aHiWCSkeSSeuV"
+      },
+      "artists": [
+        {
+          "name": "Videoclub",
+          "url": "https://open.spotify.com/artist/3rp4f58JlRHkk8hpdLCer1"
+        }
+      ],
+      "duration_ms": 147400,
+      "name": "What Are You So Afraid Of",
+      "url": "https://open.spotify.com/track/3KSJSi4vJedNzN32HpzGBM"
+    },
+    {
+      "added_at": "2023-07-21 10:37:28",
+      "album": {
         "name": "Somebody Else",
         "url": "https://open.spotify.com/album/2E9oiMF3bUV1KVawNuKKQa"
       },
@@ -715,22 +731,6 @@
       "duration_ms": 331664,
       "name": "Somebody Else",
       "url": "https://open.spotify.com/track/3i9uLop8qSpPZ8g4yXXHTN"
-    },
-    {
-      "added_at": "2023-09-29 10:51:04",
-      "album": {
-        "name": "I Feel It",
-        "url": "https://open.spotify.com/album/379yDlK37waTY9OTYkixcR"
-      },
-      "artists": [
-        {
-          "name": "Jaguar Sun",
-          "url": "https://open.spotify.com/artist/4WQwU51LUtrVrw0K8BMpAC"
-        }
-      ],
-      "duration_ms": 185182,
-      "name": "I Feel It",
-      "url": "https://open.spotify.com/track/2iaFl4QUYV75nGVb2Eic8o"
     },
     {
       "added_at": "2023-07-21 10:37:28",
@@ -747,6 +747,22 @@
       "duration_ms": 239360,
       "name": "Space Between Us",
       "url": "https://open.spotify.com/track/0RuQddbj6LGbMq1CzzPgGj"
+    },
+    {
+      "added_at": "2023-09-29 10:51:04",
+      "album": {
+        "name": "I Feel It",
+        "url": "https://open.spotify.com/album/379yDlK37waTY9OTYkixcR"
+      },
+      "artists": [
+        {
+          "name": "Jaguar Sun",
+          "url": "https://open.spotify.com/artist/4WQwU51LUtrVrw0K8BMpAC"
+        }
+      ],
+      "duration_ms": 185182,
+      "name": "I Feel It",
+      "url": "https://open.spotify.com/track/2iaFl4QUYV75nGVb2Eic8o"
     },
     {
       "added_at": "2023-07-21 10:37:28",
@@ -867,18 +883,18 @@
     {
       "added_at": "2023-07-21 10:37:28",
       "album": {
-        "name": "Stay And Rest For A While",
-        "url": "https://open.spotify.com/album/1bSl8vFRJFYjLppddo8VrL"
+        "name": "Cellar",
+        "url": "https://open.spotify.com/album/3SYtJKO826EDWOwvZvhdb8"
       },
       "artists": [
         {
-          "name": "Good Dog",
-          "url": "https://open.spotify.com/artist/1oJPedap0VtK48hM9Wm6S1"
+          "name": "Sea Lemon",
+          "url": "https://open.spotify.com/artist/6Oy4STraI9APdMoCO5te6w"
         }
       ],
-      "duration_ms": 173259,
-      "name": "Stay And Rest For A While",
-      "url": "https://open.spotify.com/track/4tHWZg3t5LpOkdRd53gal2"
+      "duration_ms": 245998,
+      "name": "Cellar",
+      "url": "https://open.spotify.com/track/6PWjL98PtO7QBbMzBYszNY"
     },
     {
       "added_at": "2023-07-21 10:37:28",
@@ -899,34 +915,18 @@
     {
       "added_at": "2023-07-21 10:37:28",
       "album": {
-        "name": "Cellar",
-        "url": "https://open.spotify.com/album/3SYtJKO826EDWOwvZvhdb8"
+        "name": "Stay And Rest For A While",
+        "url": "https://open.spotify.com/album/1bSl8vFRJFYjLppddo8VrL"
       },
       "artists": [
         {
-          "name": "Sea Lemon",
-          "url": "https://open.spotify.com/artist/6Oy4STraI9APdMoCO5te6w"
+          "name": "Good Dog",
+          "url": "https://open.spotify.com/artist/1oJPedap0VtK48hM9Wm6S1"
         }
       ],
-      "duration_ms": 245998,
-      "name": "Cellar",
-      "url": "https://open.spotify.com/track/6PWjL98PtO7QBbMzBYszNY"
-    },
-    {
-      "added_at": "2023-07-21 10:37:28",
-      "album": {
-        "name": "What Are You so Afraid Of",
-        "url": "https://open.spotify.com/album/3MZSEI7ImutXhDjC7kS7T4"
-      },
-      "artists": [
-        {
-          "name": "Videoclub",
-          "url": "https://open.spotify.com/artist/3rp4f58JlRHkk8hpdLCer1"
-        }
-      ],
-      "duration_ms": 147573,
-      "name": "What Are You so Afraid Of",
-      "url": "https://open.spotify.com/track/5NwyQFaZbL6w8SaFcPFDn8"
+      "duration_ms": 173259,
+      "name": "Stay And Rest For A While",
+      "url": "https://open.spotify.com/track/4tHWZg3t5LpOkdRd53gal2"
     },
     {
       "added_at": "2023-07-21 10:37:28",
@@ -977,38 +977,6 @@
       "url": "https://open.spotify.com/track/0C2CSeNBBss4JSFG0xHy7z"
     },
     {
-      "added_at": "2023-09-29 10:51:04",
-      "album": {
-        "name": "Snowman",
-        "url": "https://open.spotify.com/album/7hniKkS2fAy2poyT6WYwbh"
-      },
-      "artists": [
-        {
-          "name": "Blonde Redhead",
-          "url": "https://open.spotify.com/artist/5isqImG0rLfAgBJSPMEVXF"
-        }
-      ],
-      "duration_ms": 315005,
-      "name": "Snowman",
-      "url": "https://open.spotify.com/track/4oGfVF3hKD6gJ39D6LIBG8"
-    },
-    {
-      "added_at": "2023-07-21 10:37:28",
-      "album": {
-        "name": "Valentine",
-        "url": "https://open.spotify.com/album/7McuqEFa5qOZZpGesSnRvg"
-      },
-      "artists": [
-        {
-          "name": "Cults",
-          "url": "https://open.spotify.com/artist/3Oim8XBPbznAa8Jj8QzNc8"
-        }
-      ],
-      "duration_ms": 202026,
-      "name": "Valentine",
-      "url": "https://open.spotify.com/track/28xKoto01psP4QaoISW5HY"
-    },
-    {
       "added_at": "2023-07-21 10:37:28",
       "album": {
         "name": "Memoria",
@@ -1031,18 +999,18 @@
     {
       "added_at": "2023-07-21 10:37:28",
       "album": {
-        "name": "Gloomy Girl",
-        "url": "https://open.spotify.com/album/4TzEXyEPMZZPXbjPPIdRWR"
+        "name": "Valentine",
+        "url": "https://open.spotify.com/album/7McuqEFa5qOZZpGesSnRvg"
       },
       "artists": [
         {
-          "name": "Softcult",
-          "url": "https://open.spotify.com/artist/13pYXGtaLO9d06VrXX4Aw0"
+          "name": "Cults",
+          "url": "https://open.spotify.com/artist/3Oim8XBPbznAa8Jj8QzNc8"
         }
       ],
-      "duration_ms": 186410,
-      "name": "Gloomy Girl",
-      "url": "https://open.spotify.com/track/62Zgaht9Dx6HReIOamFMdN"
+      "duration_ms": 202026,
+      "name": "Valentine",
+      "url": "https://open.spotify.com/track/28xKoto01psP4QaoISW5HY"
     },
     {
       "added_at": "2023-07-21 10:37:28",
@@ -1059,6 +1027,38 @@
       "duration_ms": 159032,
       "name": "number own",
       "url": "https://open.spotify.com/track/4RX4JxC2GZShiS8sqCRRuF"
+    },
+    {
+      "added_at": "2023-07-21 10:37:28",
+      "album": {
+        "name": "Gloomy Girl",
+        "url": "https://open.spotify.com/album/4TzEXyEPMZZPXbjPPIdRWR"
+      },
+      "artists": [
+        {
+          "name": "Softcult",
+          "url": "https://open.spotify.com/artist/13pYXGtaLO9d06VrXX4Aw0"
+        }
+      ],
+      "duration_ms": 186410,
+      "name": "Gloomy Girl",
+      "url": "https://open.spotify.com/track/62Zgaht9Dx6HReIOamFMdN"
+    },
+    {
+      "added_at": "2023-09-29 10:51:04",
+      "album": {
+        "name": "Snowman",
+        "url": "https://open.spotify.com/album/7hniKkS2fAy2poyT6WYwbh"
+      },
+      "artists": [
+        {
+          "name": "Blonde Redhead",
+          "url": "https://open.spotify.com/artist/5isqImG0rLfAgBJSPMEVXF"
+        }
+      ],
+      "duration_ms": 315005,
+      "name": "Snowman",
+      "url": "https://open.spotify.com/track/4oGfVF3hKD6gJ39D6LIBG8"
     },
     {
       "added_at": "2023-07-21 10:37:28",

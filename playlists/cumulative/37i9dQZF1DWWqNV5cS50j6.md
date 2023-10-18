@@ -4,7 +4,7 @@
 
 > Not NOT pop\. Cover: ericdoa
 
-1,536 songs - 3 day 2 hr 6 min
+1,538 songs - 3 day 2 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,6 +35,7 @@
 | [\[swiffer\]](https://open.spotify.com/track/2NkAY2jusfzCksQ8QD2awT) | [James Mantis](https://open.spotify.com/artist/0HzRhsDxi3nyKikga3GW5r), [Alysdare](https://open.spotify.com/artist/6yOBXIYRbIDaUgqa9frzxD) | [\[swiffer\]](https://open.spotify.com/album/4ePiQiVJMBua2tZhAhst7D) | 2:15 | 2023-05-19 | 2023-06-24 |
 | [A Bitch Curious \(feat\. Sam Truth\)](https://open.spotify.com/track/1e1HFMTEfxwdJh8cCQmtD4) | [AG Club](https://open.spotify.com/artist/22KyrgRdE2K6aB5wtZls3c), [Sam Truth](https://open.spotify.com/artist/6vyaBinA0tnzsoiX4GEboa) | [Fuck Your Expectations PT\. 1](https://open.spotify.com/album/5M25d4hSmTEN9WM1EtAsfv) | 4:04 | 2021-04-03 | 2021-10-12 |
 | [A Cosmic Yes](https://open.spotify.com/track/4yoi9XLOG48REmXtImAU5y) | [Bearcubs](https://open.spotify.com/artist/5iPtkyoEOCILhwFgl2a2d3) | [A Cosmic Yes](https://open.spotify.com/album/2oue0Dyi1nsDf3QAijrwtA) | 4:18 | 2022-03-03 | 2022-07-01 |
+| [A LA CARTE](https://open.spotify.com/track/5L6F6siaHwwpuR1exuZPnH) | [Quadeca](https://open.spotify.com/artist/3zz52ViyCBcplK0ftEVPSS), [brakence](https://open.spotify.com/artist/4kqFrZkeqDfOIEqTWqbOOV) | [SCRAPYARD I](https://open.spotify.com/album/0EVBIlbbAPSiXj2tRH5nE4) | 3:01 | 2023-10-17 |  |
 | [a million messages](https://open.spotify.com/track/2bzcI82YXck3xUFMGqqMTF) | [Nashon](https://open.spotify.com/artist/12X1zDSQlW0c6uRXGoOzHi) | [a million messages](https://open.spotify.com/album/4VUpB2haaJ2duXy2CaHhB8) | 3:27 | 2023-03-17 | 2023-07-22 |
 | [A Song About the Sun](https://open.spotify.com/track/2ylXMli4RzeVjIhRsjdoWn) | [Kurtis Wells](https://open.spotify.com/artist/2HOnhVnbETGW5Q9TVdZm0S) | [A Song About the Sun](https://open.spotify.com/album/1MlZPyYBHyNV8dDOlK3pyw) | 3:30 | 2021-07-13 | 2021-07-31 |
 | [Act Up](https://open.spotify.com/track/1Oqr9YhCi3JmuHcyHDBhf8) | [Terry Presume](https://open.spotify.com/artist/4JLuMu6NZUAU8gYhrzvOdX) | [What Box?](https://open.spotify.com/album/6zxHzgT0fKSMEgIi7BpoyQ) | 3:04 | 2021-10-15 | 2023-07-01 |
@@ -1284,6 +1285,7 @@
 | [Survive!](https://open.spotify.com/track/03W83WDgC2Zkzx4liPDyK4) | [Toni Sancho](https://open.spotify.com/artist/4SpaShKE14x1P5jTruqwIK) | [Survive!](https://open.spotify.com/album/1ac41OS72zPXCmvEiSo590) | 2:48 | 2021-09-24 | 2021-10-16 |
 | [SWEET](https://open.spotify.com/track/4ICjGWAFoZWXvRQta9UHuj) | [BROCKHAMPTON](https://open.spotify.com/artist/1Bl6wpkWCQ4KVgnASpvzzA) | [SWEET](https://open.spotify.com/album/1HUGoLeGEmtg1Csw88DeTs) | 4:34 | 2023-10-13 |  |
 | [Sweet & Spice](https://open.spotify.com/track/0fp2T3VVFl1lhvGQYMCAlj) | [Deb Never](https://open.spotify.com/artist/55EarwWraRQY9diMo9Oeul), [Jim\-E Stack](https://open.spotify.com/artist/4GmataFSHOSQWxuuUX57Bh) | [Sweet & Spice](https://open.spotify.com/album/4ucJZ3wTSXTZ3YUwzGcWwH) | 2:50 | 2021-08-14 | 2022-11-17 |
+| [Sweet \(feat\. Fousheé\)](https://open.spotify.com/track/2X3noddA1Gi8OmJVRP4eYC) | [Teezo Touchdown](https://open.spotify.com/artist/0fGcIStdT1OpFFhOC7Wp36), [Fousheé](https://open.spotify.com/artist/6trIghKwHRUyxwvm66HLHH) | [How Do You Sleep At Night?](https://open.spotify.com/album/2zm0qaBZaaH4zAaCCqU2cF) | 2:12 | 2023-10-17 |  |
 | [Sweet Tooth](https://open.spotify.com/track/683VMYf2AuBE9QoiaBCsEW) | [Sam Austins](https://open.spotify.com/artist/0zmnfFQX8LWVVZyRPHRx1V) | [Boy Toy](https://open.spotify.com/album/4y309EcmaqipImcRdFlX5s) | 3:35 | 2023-06-16 |  |
 | [SWEETBABYRAE](https://open.spotify.com/track/6MNTsxexrJEsDW4fSEAiXS) | [stoop lee](https://open.spotify.com/artist/5bk1VVOTnbEcJh0e8Py4WX) | [SWEETBABYRAE](https://open.spotify.com/album/5lM0nji3ybQGwNhHOoxIrJ) | 2:43 | 2021-08-07 | 2021-10-16 |
 | [Sweets](https://open.spotify.com/track/6e00JUwAfYnotIMLbNhTaE) | [Froogle](https://open.spotify.com/artist/1SoqIsFiUIuOm401HsEQso) | [Sweets](https://open.spotify.com/album/0SnyMBptlJ62tcEg3gMW1Z) | 2:45 | 2021-07-18 | 2021-10-16 |

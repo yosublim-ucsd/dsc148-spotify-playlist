@@ -1,12 +1,12 @@
 {
   "description": "Hot noise for those summer days. ",
-  "num_followers": 32323,
+  "num_followers": 32318,
   "original_name": "Summer Rock 2023",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwMjk0Mzg0NTk5ZWQzNjQ1NTNkY2UzYWU4NWFmZTgzNjBmZDU2OGE0",
+  "snapshot_id": "MCxhZjlkZGQ5NmY5MmY3YmUwYzgxYWQwM2Y1ZjQ1ZmNiOGNjNWFmM2E4",
   "tracks": [
     {
       "added_at": "2023-05-25 20:52:42",
@@ -539,22 +539,6 @@
     {
       "added_at": "2023-05-25 20:52:42",
       "album": {
-        "name": "GLOW ON",
-        "url": "https://open.spotify.com/album/2NrYPcMmQBlbBxopc2XlzS"
-      },
-      "artists": [
-        {
-          "name": "Turnstile",
-          "url": "https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x"
-        }
-      ],
-      "duration_ms": 155199,
-      "name": "MYSTERY",
-      "url": "https://open.spotify.com/track/5iXnD2VizcAbErpkcuNQ6I"
-    },
-    {
-      "added_at": "2023-05-25 20:52:42",
-      "album": {
         "name": "Why Would I Watch",
         "url": "https://open.spotify.com/album/0wLCmFQIAxudWGxUcxO1oQ"
       },
@@ -567,6 +551,22 @@
       "duration_ms": 164546,
       "name": "Shhhh! Golf is On",
       "url": "https://open.spotify.com/track/5r7vuSx8Z7j4dK9I4Q6wch"
+    },
+    {
+      "added_at": "2023-05-25 20:52:42",
+      "album": {
+        "name": "GLOW ON",
+        "url": "https://open.spotify.com/album/2NrYPcMmQBlbBxopc2XlzS"
+      },
+      "artists": [
+        {
+          "name": "Turnstile",
+          "url": "https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x"
+        }
+      ],
+      "duration_ms": 155199,
+      "name": "MYSTERY",
+      "url": "https://open.spotify.com/track/5iXnD2VizcAbErpkcuNQ6I"
     },
     {
       "added_at": "2023-05-25 20:52:42",
@@ -1181,22 +1181,6 @@
       "url": "https://open.spotify.com/track/3aMyQSDW0DJ7LTOkrd29hU"
     },
     {
-      "added_at": "2023-07-28 14:13:22",
-      "album": {
-        "name": "I Used To Be Fun",
-        "url": "https://open.spotify.com/album/5gpJSwcv4t4W5s9YAFxjlI"
-      },
-      "artists": [
-        {
-          "name": "Teen Jesus and the Jean Teasers",
-          "url": "https://open.spotify.com/artist/3KrgUUwoRQ6OQp4IOmqnSF"
-        }
-      ],
-      "duration_ms": 161445,
-      "name": "I Used To Be Fun",
-      "url": "https://open.spotify.com/track/7sCMZKSjZbx563QSkqxTqC"
-    },
-    {
       "added_at": "2023-05-25 20:52:42",
       "album": {
         "name": "estella//",
@@ -1231,6 +1215,22 @@
       "duration_ms": 193801,
       "name": "Childhood Eyes",
       "url": "https://open.spotify.com/track/2ttWOp5QoqdO6zkIJJ4bFh"
+    },
+    {
+      "added_at": "2023-07-28 14:13:22",
+      "album": {
+        "name": "I Used To Be Fun",
+        "url": "https://open.spotify.com/album/5gpJSwcv4t4W5s9YAFxjlI"
+      },
+      "artists": [
+        {
+          "name": "Teen Jesus and the Jean Teasers",
+          "url": "https://open.spotify.com/artist/3KrgUUwoRQ6OQp4IOmqnSF"
+        }
+      ],
+      "duration_ms": 161445,
+      "name": "I Used To Be Fun",
+      "url": "https://open.spotify.com/track/7sCMZKSjZbx563QSkqxTqC"
     },
     {
       "added_at": "2023-05-25 20:52:42",

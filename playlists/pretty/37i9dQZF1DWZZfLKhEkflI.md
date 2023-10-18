@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZZfLKhEkflI.md) - [plain]
 
 > Funky Jazz from the mid 1950s to the early 1960s\. Cover: Art Blakey
 
-[Spotify](https://open.spotify.com/user/spotify) - 65,542 likes - 75 songs - 8 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 65,560 likes - 75 songs - 8 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,9 +37,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZZfLKhEkflI.md) - [plain]
 | 27 | [Gary's Notebook \- Remastered 1999/Rudy Van Gelder Edition](https://open.spotify.com/track/00dDsLgxoPzhbPD3owDfwT) | [Lee Morgan](https://open.spotify.com/artist/38C3okxv3fyyOIQUVPCdGX) | [The Sidewinder \(The Rudy Van Gelder Edition\)](https://open.spotify.com/album/1n1trPeeY9Q5H4eLbbHHRg) | 6:10 |
 | 28 | [Backstage Sally \- Remastered 2003/Rudy Van Gelder Edition](https://open.spotify.com/track/69k61OD5QalC2EcDgzjA8f) | [Art Blakey & The Jazz Messengers](https://open.spotify.com/artist/6ykfXAed2KOLOMI3R0TZdz) | [Buhaina's Delight \(Rudy Van Gelder Edition / Remastered\)](https://open.spotify.com/album/1gGO3aUcdvI1dcANVs2qQ9) | 5:58 |
 | 29 | [Come On Home \- Rudy Van Gelder Edition / Remastered](https://open.spotify.com/track/5yz1LGqKaMSUqJBD3ZbP9v) | [Horace Silver Quintet](https://open.spotify.com/artist/4PNIQCDBeVCSSqKUhvkP8Y) | [Finger Poppin' \(The Rudy Van Gelder Edition\)](https://open.spotify.com/album/3buPlC7VvOytPdHoobl8on) | 5:30 |
-| 30 | [Blue Minor \- Remastered](https://open.spotify.com/track/6xdHoeioMerdgJ5fNDDcYy) | [Sonny Clark](https://open.spotify.com/artist/1Sc9ykJB728MAZab1Ocwy8) | [Cool Struttin’](https://open.spotify.com/album/2yWj7slAmHfBohXn40HKVU) | 10:17 |
+| 30 | [If I Love Again \- 2007 Digital Remaster/Rudy Van Gelder Edition](https://open.spotify.com/track/79G0U4pmuiCdxPdOym0REw) | [Thad Jones](https://open.spotify.com/artist/6DbqS0X8cSFOPGsvyze2yh) | [The Magnificent Thad Jones \(Remastered\)](https://open.spotify.com/album/5ZaHEBnWWXSD3zvfiY6pju) | 7:27 |
 | 31 | [Doodlin' \- Remastered](https://open.spotify.com/track/5TMVNGCCHS01ub7oOLzyFW) | [Horace Silver](https://open.spotify.com/artist/5ZATfKurLqflrBhv2FLht5) | [Horace Silver And The Jazz Messengers](https://open.spotify.com/album/6ChBNNT405wL5eQz8be9Q9) | 6:45 |
-| 32 | [If I Love Again \- 2007 Digital Remaster/Rudy Van Gelder Edition](https://open.spotify.com/track/79G0U4pmuiCdxPdOym0REw) | [Thad Jones](https://open.spotify.com/artist/6DbqS0X8cSFOPGsvyze2yh) | [The Magnificent Thad Jones \(Remastered\)](https://open.spotify.com/album/5ZaHEBnWWXSD3zvfiY6pju) | 7:27 |
+| 32 | [Blue Minor \- Remastered](https://open.spotify.com/track/6xdHoeioMerdgJ5fNDDcYy) | [Sonny Clark](https://open.spotify.com/artist/1Sc9ykJB728MAZab1Ocwy8) | [Cool Struttin’](https://open.spotify.com/album/2yWj7slAmHfBohXn40HKVU) | 10:17 |
 | 33 | [Sweet 'n' Sour](https://open.spotify.com/track/0rSAGnHJjXaWqPDBIJMwOZ) | [Art Blakey](https://open.spotify.com/artist/6QQuESLtKhAOcLW2TeWC2t) | [Caravan \[Keepnews Collection\]](https://open.spotify.com/album/35Ml0uRskKkYOFi8nBiGzq) | 5:31 |
 | 34 | [Funk\-Cosity \- Rudy Van Gelder Edition/2007 Remaster](https://open.spotify.com/track/4hme7npk4H6RFPaGtPnZIR) | [Kenny Drew](https://open.spotify.com/artist/65uKPt40QH8dMBLuoJHPVY) | [Undercurrent \(Rudy Van Gelder Edition/2007 Remaster\)](https://open.spotify.com/album/3dLsZ0Gv8OjgUyES2imXIK) | 8:25 |
 | 35 | [Up A Step \- Remastered 2000 / Rudy Van Gelder Edition](https://open.spotify.com/track/3ltk3yU2BcHXixu1ykWsCo) | [Hank Mobley](https://open.spotify.com/artist/5cbutZUQE7SUCA6MsEMbBv) | [No Room For Squares \(Remastered 2000 / Rudy Van Gelder Edition\)](https://open.spotify.com/album/3qer0IWDm6mSLUJy4ji0Oi) | 8:31 |
@@ -53,8 +53,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZZfLKhEkflI.md) - [plain]
 | 43 | [Camouflage \- Remastered 1998/Rudy Van Gelder Edition](https://open.spotify.com/track/3OANaB4dlcU6CjFE1geQhz) | [Horace Silver Quintet](https://open.spotify.com/artist/4PNIQCDBeVCSSqKUhvkP8Y) | [Six Pieces Of Silver](https://open.spotify.com/album/2p4ipY0YJS0JSDuc1uamxE) | 4:25 |
 | 44 | [Here I Am \- Rudy Van Gelder Edition/Remastered 2003](https://open.spotify.com/track/7iu2Oae1eI295Ay086GNFt) | [Donald Byrd](https://open.spotify.com/artist/3ZUZYvTkSr7kJQyAXVpqaL) | [Byrd In Hand](https://open.spotify.com/album/1hU1LRBWzIGkktFqskyI0a) | 8:25 |
 | 45 | [Johnny's Blue](https://open.spotify.com/track/0wegLTw4radMpYyw28dIVQ) | [Art Blakey & The Jazz Messengers](https://open.spotify.com/artist/6ykfXAed2KOLOMI3R0TZdz) | [Like Someone In Love](https://open.spotify.com/album/50nRFfP7eymMb2rfSffMr9) | 9:12 |
-| 46 | [Back To The Tracks](https://open.spotify.com/track/5HkIObvZo2mjjt3JMJRqGR) | [Tina Brooks](https://open.spotify.com/artist/4JgvfZeCWGzEPGR6yVaXuX) | [Back To The Tracks](https://open.spotify.com/album/1bMz9hj91rrk0lj8SbTdgE) | 8:03 |
-| 47 | [The Rake](https://open.spotify.com/track/4dR7kPaQ9U7fWHdwTHexkZ) | [Dizzy Reece](https://open.spotify.com/artist/748mYOdaWuFH4wXCvsvInR) | [Star Bright](https://open.spotify.com/album/3mVCxKC9Mco9NVcZYtOcn9) | 6:07 |
+| 46 | [The Rake](https://open.spotify.com/track/4dR7kPaQ9U7fWHdwTHexkZ) | [Dizzy Reece](https://open.spotify.com/artist/748mYOdaWuFH4wXCvsvInR) | [Star Bright](https://open.spotify.com/album/3mVCxKC9Mco9NVcZYtOcn9) | 6:07 |
+| 47 | [Back To The Tracks](https://open.spotify.com/track/5HkIObvZo2mjjt3JMJRqGR) | [Tina Brooks](https://open.spotify.com/artist/4JgvfZeCWGzEPGR6yVaXuX) | [Back To The Tracks](https://open.spotify.com/album/1bMz9hj91rrk0lj8SbTdgE) | 8:03 |
 | 48 | [Soulville \- Remastered 1999/Rudy Van Gelder Edition](https://open.spotify.com/track/7b3V9eMh7z0iucPQHwAVtm) | [Horace Silver](https://open.spotify.com/artist/5ZATfKurLqflrBhv2FLht5) | [The Stylings Of Silver \(The Rudy Van Gelder Edition\)](https://open.spotify.com/album/7qaTLsGB0H8AJPvUs98CcO) | 6:16 |
 | 49 | [Devilette](https://open.spotify.com/track/73lOUGQ1yBfNMvT7TWaGJF) | [Dexter Gordon](https://open.spotify.com/artist/3NUsiT2JSyaWAnWaXxDzhQ) | [Clubhouse](https://open.spotify.com/album/1RGm5IbgX801WBJjU7HLSo) | 7:05 |
 | 50 | [The Turnaround \- Remastered 2000/Rudy Van Gelder Edition](https://open.spotify.com/track/1TOx29jMSHZAJcqdHQRMXk) | [Hank Mobley](https://open.spotify.com/artist/5cbutZUQE7SUCA6MsEMbBv) | [The Turnaround](https://open.spotify.com/album/2FR2NZXhXDbCTCeUUdHEJr) | 8:15 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZZfLKhEkflI.md) - [plain]
 | 74 | [Preach Brother](https://open.spotify.com/track/0uv8D6XDElGNG96VnQA71v) | [Fred Jackson](https://open.spotify.com/artist/5QFpvP79VaxZ7sty3RyBPS) | [Hootin' 'N Tootin'](https://open.spotify.com/album/3vFV7kbe21nznNK87wrADV) | 5:45 |
 | 75 | [Petty Larceny](https://open.spotify.com/track/0EVGwICUNwPZolrklaiByV) | [Art Blakey & The Jazz Messengers](https://open.spotify.com/artist/6ykfXAed2KOLOMI3R0TZdz) | [The Freedom Rider](https://open.spotify.com/album/72jnQGrWRPB8eMGLRgV5Zp) | 6:16 |
 
-Snapshot ID: `MCxjY2RmMDM2ODUwNjRjNmIyNDgxM2E3MjMzMDVmNDkzYjBhYWY0NDk2`
+Snapshot ID: `MCxlODMzYjM4NWI2MTljZjk0ODU0ZTI3OTlkNjRkMmE0ZmQ5NTViMjE3`

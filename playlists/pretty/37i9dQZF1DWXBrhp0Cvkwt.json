@@ -1,12 +1,12 @@
 {
   "description": "soundtracking your ex calling/nothing's working/existential crisis",
-  "num_followers": 58611,
+  "num_followers": 58605,
   "original_name": "mercury in retrograde",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiZjBlMTljMzUxNDY1ZmNlODRkZmI1Zjg0ZmM3ODIxMmNhMmYyYThh",
+  "snapshot_id": "MCxlZTUxMTA1ZWE5ZWYwNDYxYzMwMjIyYWVlODE2YzkxNjI1Mjc1Yjhh",
   "tracks": [
     {
       "added_at": "2023-05-12 07:59:00",
@@ -491,22 +491,6 @@
     {
       "added_at": "2023-05-12 07:59:00",
       "album": {
-        "name": "Reckless",
-        "url": "https://open.spotify.com/album/5lVImnUah94yoxXy2H1qo7"
-      },
-      "artists": [
-        {
-          "name": "Madison Beer",
-          "url": "https://open.spotify.com/artist/2kRfqPViCqYdSGhYSM9R0Q"
-        }
-      ],
-      "duration_ms": 203384,
-      "name": "Reckless",
-      "url": "https://open.spotify.com/track/5ajjAnNRh8bxFvaVHzpPjh"
-    },
-    {
-      "added_at": "2023-05-12 07:59:00",
-      "album": {
         "name": "minor",
         "url": "https://open.spotify.com/album/2UZw04wDxLVceADw2Gi1Qy"
       },
@@ -523,18 +507,18 @@
     {
       "added_at": "2023-05-12 07:59:00",
       "album": {
-        "name": "Swimming",
-        "url": "https://open.spotify.com/album/5wtE5aLX5r7jOosmPhJhhk"
+        "name": "Reckless",
+        "url": "https://open.spotify.com/album/5lVImnUah94yoxXy2H1qo7"
       },
       "artists": [
         {
-          "name": "Mac Miller",
-          "url": "https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U"
+          "name": "Madison Beer",
+          "url": "https://open.spotify.com/artist/2kRfqPViCqYdSGhYSM9R0Q"
         }
       ],
-      "duration_ms": 345133,
-      "name": "Self Care",
-      "url": "https://open.spotify.com/track/5bJ1DrEM4hNCafcDd1oxHx"
+      "duration_ms": 203384,
+      "name": "Reckless",
+      "url": "https://open.spotify.com/track/5ajjAnNRh8bxFvaVHzpPjh"
     },
     {
       "added_at": "2023-05-12 07:59:00",
@@ -551,6 +535,22 @@
       "duration_ms": 272485,
       "name": "Happiness is a butterfly",
       "url": "https://open.spotify.com/track/3lG6OtGDsYAOALxEmubQQm"
+    },
+    {
+      "added_at": "2023-05-12 07:59:00",
+      "album": {
+        "name": "Swimming",
+        "url": "https://open.spotify.com/album/5wtE5aLX5r7jOosmPhJhhk"
+      },
+      "artists": [
+        {
+          "name": "Mac Miller",
+          "url": "https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U"
+        }
+      ],
+      "duration_ms": 345133,
+      "name": "Self Care",
+      "url": "https://open.spotify.com/track/5bJ1DrEM4hNCafcDd1oxHx"
     },
     {
       "added_at": "2023-05-12 07:59:00",
@@ -651,42 +651,6 @@
     {
       "added_at": "2023-05-12 07:59:00",
       "album": {
-        "name": "Red (Taylor's Version)",
-        "url": "https://open.spotify.com/album/6kZ42qRrzov54LcAk4onW9"
-      },
-      "artists": [
-        {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-        },
-        {
-          "name": "Phoebe Bridgers",
-          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
-        }
-      ],
-      "duration_ms": 258812,
-      "name": "Nothing New (feat. Phoebe Bridgers) (Taylor\u2019s Version) (From The Vault)",
-      "url": "https://open.spotify.com/track/01K4zKU104LyJ8gMb7227B"
-    },
-    {
-      "added_at": "2023-05-12 07:59:00",
-      "album": {
-        "name": "I Love You.",
-        "url": "https://open.spotify.com/album/4xkM0BwLM9H2IUcbYzpcBI"
-      },
-      "artists": [
-        {
-          "name": "The Neighbourhood",
-          "url": "https://open.spotify.com/artist/77SW9BnxLY8rJ0RciFqkHh"
-        }
-      ],
-      "duration_ms": 251186,
-      "name": "Afraid",
-      "url": "https://open.spotify.com/track/7brQHA2CgQpcMBiOlfiXYb"
-    },
-    {
-      "added_at": "2023-05-12 07:59:00",
-      "album": {
         "name": "Did you know that there's a tunnel under Ocean Blvd",
         "url": "https://open.spotify.com/album/5HOHne1wzItQlIYmLXLYfZ"
       },
@@ -707,6 +671,26 @@
     {
       "added_at": "2023-05-12 07:59:00",
       "album": {
+        "name": "Red (Taylor's Version)",
+        "url": "https://open.spotify.com/album/6kZ42qRrzov54LcAk4onW9"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        },
+        {
+          "name": "Phoebe Bridgers",
+          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
+        }
+      ],
+      "duration_ms": 258812,
+      "name": "Nothing New (feat. Phoebe Bridgers) (Taylor\u2019s Version) (From The Vault)",
+      "url": "https://open.spotify.com/track/01K4zKU104LyJ8gMb7227B"
+    },
+    {
+      "added_at": "2023-05-12 07:59:00",
+      "album": {
         "name": "Chanel",
         "url": "https://open.spotify.com/album/6OGzmhzHcjf0uN9j7dYvZH"
       },
@@ -719,6 +703,22 @@
       "duration_ms": 210285,
       "name": "Chanel",
       "url": "https://open.spotify.com/track/6Nle9hKrkL1wQpwNfEkxjh"
+    },
+    {
+      "added_at": "2023-05-12 07:59:00",
+      "album": {
+        "name": "I Love You.",
+        "url": "https://open.spotify.com/album/4xkM0BwLM9H2IUcbYzpcBI"
+      },
+      "artists": [
+        {
+          "name": "The Neighbourhood",
+          "url": "https://open.spotify.com/artist/77SW9BnxLY8rJ0RciFqkHh"
+        }
+      ],
+      "duration_ms": 251186,
+      "name": "Afraid",
+      "url": "https://open.spotify.com/track/7brQHA2CgQpcMBiOlfiXYb"
     },
     {
       "added_at": "2023-05-12 07:59:00",
@@ -803,22 +803,6 @@
     {
       "added_at": "2023-05-12 07:59:00",
       "album": {
-        "name": "5AM (Expanded Edition)",
-        "url": "https://open.spotify.com/album/05WTBdwkHAqk5Mg68ugD7L"
-      },
-      "artists": [
-        {
-          "name": "Amber Run",
-          "url": "https://open.spotify.com/artist/0MmnmsAuQKRFpo6vJElcaU"
-        }
-      ],
-      "duration_ms": 273000,
-      "name": "I Found",
-      "url": "https://open.spotify.com/track/5zT5cMnMKoyruPj13TQXGx"
-    },
-    {
-      "added_at": "2023-05-12 07:59:00",
-      "album": {
         "name": "Blonde",
         "url": "https://open.spotify.com/album/3mH6qwIy9crq0I9YQbOuDf"
       },
@@ -831,6 +815,22 @@
       "duration_ms": 249667,
       "name": "Self Control",
       "url": "https://open.spotify.com/track/5GUYJTQap5F3RDQiCOJhrS"
+    },
+    {
+      "added_at": "2023-05-12 07:59:00",
+      "album": {
+        "name": "5AM (Expanded Edition)",
+        "url": "https://open.spotify.com/album/05WTBdwkHAqk5Mg68ugD7L"
+      },
+      "artists": [
+        {
+          "name": "Amber Run",
+          "url": "https://open.spotify.com/artist/0MmnmsAuQKRFpo6vJElcaU"
+        }
+      ],
+      "duration_ms": 273000,
+      "name": "I Found",
+      "url": "https://open.spotify.com/track/5zT5cMnMKoyruPj13TQXGx"
     },
     {
       "added_at": "2023-05-12 07:59:00",
@@ -979,6 +979,22 @@
     {
       "added_at": "2023-05-12 07:59:00",
       "album": {
+        "name": "Nostalgia - EP",
+        "url": "https://open.spotify.com/album/08UrXWqpnupcAipNIRzoVW"
+      },
+      "artists": [
+        {
+          "name": "Chase Atlantic",
+          "url": "https://open.spotify.com/artist/7cYEt1pqMgXJdq00hAwVpT"
+        }
+      ],
+      "duration_ms": 230010,
+      "name": "Friends",
+      "url": "https://open.spotify.com/track/7LILABogx8SHeMPJbLBvBH"
+    },
+    {
+      "added_at": "2023-05-12 07:59:00",
+      "album": {
         "name": "THE REAPER",
         "url": "https://open.spotify.com/album/1hM5xkleU8wr2yOaY2gCMB"
       },
@@ -1011,22 +1027,6 @@
     {
       "added_at": "2023-05-12 07:59:00",
       "album": {
-        "name": "Nectar",
-        "url": "https://open.spotify.com/album/5EzDhyNZuO7kuaABHwbBKX"
-      },
-      "artists": [
-        {
-          "name": "Joji",
-          "url": "https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq"
-        }
-      ],
-      "duration_ms": 240294,
-      "name": "Like You Do",
-      "url": "https://open.spotify.com/track/1MONUudxAjEk76FJvzGhuD"
-    },
-    {
-      "added_at": "2023-05-12 07:59:00",
-      "album": {
         "name": "JAMIE",
         "url": "https://open.spotify.com/album/4StdgB0YaIYLGhhXBLuoWl"
       },
@@ -1043,18 +1043,18 @@
     {
       "added_at": "2023-05-12 07:59:00",
       "album": {
-        "name": "Nostalgia - EP",
-        "url": "https://open.spotify.com/album/08UrXWqpnupcAipNIRzoVW"
+        "name": "Nectar",
+        "url": "https://open.spotify.com/album/5EzDhyNZuO7kuaABHwbBKX"
       },
       "artists": [
         {
-          "name": "Chase Atlantic",
-          "url": "https://open.spotify.com/artist/7cYEt1pqMgXJdq00hAwVpT"
+          "name": "Joji",
+          "url": "https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq"
         }
       ],
-      "duration_ms": 230010,
-      "name": "Friends",
-      "url": "https://open.spotify.com/track/7LILABogx8SHeMPJbLBvBH"
+      "duration_ms": 240294,
+      "name": "Like You Do",
+      "url": "https://open.spotify.com/track/1MONUudxAjEk76FJvzGhuD"
     },
     {
       "added_at": "2023-05-12 07:59:00",
@@ -1139,22 +1139,6 @@
     {
       "added_at": "2023-05-12 07:59:00",
       "album": {
-        "name": "Twelve Carat Toothache (Deluxe)",
-        "url": "https://open.spotify.com/album/50MzJhO0pMjTsfpeOmZ1so"
-      },
-      "artists": [
-        {
-          "name": "Post Malone",
-          "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
-        }
-      ],
-      "duration_ms": 196986,
-      "name": "Waiting For Never",
-      "url": "https://open.spotify.com/track/753lkDSNs2u188xbl8Vrnx"
-    },
-    {
-      "added_at": "2023-05-12 07:59:00",
-      "album": {
         "name": "Astronomy",
         "url": "https://open.spotify.com/album/4vs2JiaS6RjyxMcl0MvxLk"
       },
@@ -1167,6 +1151,22 @@
       "duration_ms": 243907,
       "name": "Astronomy",
       "url": "https://open.spotify.com/track/0KmgJyW4GDgonqsoyx0CZ3"
+    },
+    {
+      "added_at": "2023-05-12 07:59:00",
+      "album": {
+        "name": "Twelve Carat Toothache (Deluxe)",
+        "url": "https://open.spotify.com/album/50MzJhO0pMjTsfpeOmZ1so"
+      },
+      "artists": [
+        {
+          "name": "Post Malone",
+          "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
+        }
+      ],
+      "duration_ms": 196986,
+      "name": "Waiting For Never",
+      "url": "https://open.spotify.com/track/753lkDSNs2u188xbl8Vrnx"
     },
     {
       "added_at": "2023-05-12 07:59:00",

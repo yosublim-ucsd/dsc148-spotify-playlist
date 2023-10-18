@@ -351,6 +351,28 @@
     },
     {
       "album": {
+        "name": "Allo",
+        "url": "https://open.spotify.com/album/1JcEpcqvv3IMdtcupUh0yD"
+      },
+      "artists": [
+        {
+          "name": "Moha K",
+          "url": "https://open.spotify.com/artist/6o5sl0TGublDPXyMHdMq1E"
+        },
+        {
+          "name": "Lyna Mahyem",
+          "url": "https://open.spotify.com/artist/0Yj3N31EWXHc6e3eDyJPLP"
+        }
+      ],
+      "date_added": "2023-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195375,
+      "name": "Allo",
+      "url": "https://open.spotify.com/track/3aeCyLTeN6ypImKPtdjYjZ"
+    },
+    {
+      "album": {
         "name": "Amazone",
         "url": "https://open.spotify.com/album/42rj17QXfTKr8YjAhUKZ28"
       },
@@ -3080,7 +3102,7 @@
       ],
       "date_added": "2022-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-18",
       "duration_ms": 190459,
       "name": "Toi & moi",
       "url": "https://open.spotify.com/track/4C9bUSwqwVZ8eu2jsnctm6"

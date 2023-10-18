@@ -4,7 +4,7 @@
 
 > Música serena de piano para dormir.
 
-213 songs - 9 hr 9 min
+216 songs - 9 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,6 +37,7 @@
 | [carried by the wind](https://open.spotify.com/track/2AGqmUvz4fieLGPE18R7OL) | [Rowan Guthrie](https://open.spotify.com/artist/5UZOjfjGjEFQ5v3HGf02YG) | [carried by the wind](https://open.spotify.com/album/2qLH8MhzGLGvSFs5QX2nzF) | 2:26 | 2023-04-03 |  |
 | [Ce Jour Là](https://open.spotify.com/track/6Y7GT4UuGkUFhYHxVLQ4bF) | [Eugène Arnaud](https://open.spotify.com/artist/41MsWLfnAsYZTlfNAllHa8) | [Ce Jour Là](https://open.spotify.com/album/2nQtY69UjbRQQYkjMHnqXB) | 2:48 | 2023-04-03 |  |
 | [Chuchotement](https://open.spotify.com/track/2NWOoi4HoSZFX0sySYIqVi) | [Derina Berger](https://open.spotify.com/artist/2WLjhCbRQU05hDnmU7DeIQ) | [Chuchotement](https://open.spotify.com/album/291s2oBqqd2yA0AmII2KTy) | 2:14 | 2023-07-03 |  |
+| [Clear And Calm](https://open.spotify.com/track/4Gn7QkFfIUdoJnRnmMBIZ7) | [Wolf Keller](https://open.spotify.com/artist/0nL3okOqVl6PvsOmtzWwkb) | [Clear And Calm](https://open.spotify.com/album/2JUNDwk1OCuOqTLdgbS8zv) | 2:10 | 2023-10-16 |  |
 | [Clear Day](https://open.spotify.com/track/3TFkBg4Ykbemy3QeIztw70) | [Ima Rayner](https://open.spotify.com/artist/5DN5SSVJ3DYAnbyzARxe6D) | [Clear Day](https://open.spotify.com/album/5HtvXqqcUvs57NdpHCPZwH) | 2:45 | 2023-04-03 |  |
 | [cold embrace](https://open.spotify.com/track/7edfdEV5G5gJUkiPP6g8AD) | [Gian Marco Castro](https://open.spotify.com/artist/3eKHhTJoTeSu0BNBls4ju6) | [cold embrace](https://open.spotify.com/album/6Bjg1HMdsEf532a4V3AHTF) | 2:57 | 2023-04-03 | 2023-08-02 |
 | [Collecting Coins](https://open.spotify.com/track/411YPKaT1EFNzLUKttpB1w) | [Jan Os](https://open.spotify.com/artist/2Mr2YOyJj0TQqVYH88gUwf) | [Collecting Coins](https://open.spotify.com/album/5kQBkssjm9tXTw6WInvHYx) | 2:28 | 2023-04-03 |  |
@@ -68,6 +69,7 @@
 | [First Farewell](https://open.spotify.com/track/3RMRrmCruSltU9pnzURb5F) | [Geir Gudmundson](https://open.spotify.com/artist/6Y1fkM0GSMtbOYT8iNjup5) | [Weightless](https://open.spotify.com/album/66LNQCSB1ZGGljErprVkVm) | 3:25 | 2023-04-03 |  |
 | [First Sunlight](https://open.spotify.com/track/7oVzg7PHNE9fepPdHJVq6f) | [Ros Gilman](https://open.spotify.com/artist/4encGefmC48XGvJod2eBr2) | [First Sunlight](https://open.spotify.com/album/2Lb2OqB6ghrhlnoOR3zNO6) | 2:28 | 2023-04-03 |  |
 | [Floating](https://open.spotify.com/track/1rtXR0fCnRVp27uFmckZJK) | [Gianluca Piacenza](https://open.spotify.com/artist/7qEuC0mCSgDPFzQQPp8RcS) | [Floating](https://open.spotify.com/album/4Zyls7QoH17wKZlR26b3gY) | 4:14 | 2023-04-03 |  |
+| [For A Moment](https://open.spotify.com/track/1mKHZDWICROPP1gmOg1mn2) | [Haley Morrison](https://open.spotify.com/artist/3OMlFyzbxE7bDYBg4GiwET) | [For A Moment](https://open.spotify.com/album/0uQtP6n33MGR13YOZz4pmO) | 3:21 | 2023-10-16 |  |
 | [For Catherine](https://open.spotify.com/track/7sthK300jq1FzpSvJXID1L) | [Chad Hammond](https://open.spotify.com/artist/2f57qlf6OXqVTlxymKxjEL) | [For Catherine](https://open.spotify.com/album/3B1c7bhs9De05jWPNjVnIX) | 2:18 | 2023-04-03 |  |
 | [For the Love of You](https://open.spotify.com/track/7hJHeX4A3TdI0cDElWu3Zk) | [Henriette Fleich](https://open.spotify.com/artist/4ISRfcCmH6Q4kBjXzBZPKi) | [For the Love of You](https://open.spotify.com/album/3IOVFUsrtTjyseXEaKNMvr) | 1:47 | 2023-04-18 | 2023-08-22 |
 | [Forget To Remember](https://open.spotify.com/track/28RcoqDaHTaUWqRPDdO5Mg) | [Tindra Rosenlind](https://open.spotify.com/artist/4JpM15j7tnB2O5mBqGo6E4) | [Forget To Remember](https://open.spotify.com/album/52ZvMtN75FSakuTF1LCl6O) | 2:22 | 2023-04-03 |  |
@@ -125,6 +127,7 @@
 | [Nefoedd](https://open.spotify.com/track/7fpv4K07BD9tUC852Mw5Lz) | [Chieloka](https://open.spotify.com/artist/3IBhxjT8AiBiz7DpMUEjEj) | [Nefoedd](https://open.spotify.com/album/78pQK6kW8RktRkQA0nqUkI) | 2:49 | 2023-04-03 |  |
 | [New Day](https://open.spotify.com/track/5p7DcsDqbHeMO02ZusP48R) | [Andrea Monet](https://open.spotify.com/artist/44OGVPM58fHybAAajAAHxk) | [New Day](https://open.spotify.com/album/0eYAsTv3fBqPMwY1FlbDvl) | 2:51 | 2023-04-03 |  |
 | [New Moon](https://open.spotify.com/track/4SWqlyQxKodNKeirLkcysT) | [Hakone](https://open.spotify.com/artist/21exwUEFwK59KTe51vTfjI) | [Beyond The Horizon](https://open.spotify.com/album/424n6K5q9ff7X0dUJooPZn) | 3:00 | 2023-04-03 |  |
+| [Night Clouds](https://open.spotify.com/track/0OpqhQTV2qBimQyFhQAuDF) | [Domi Nova](https://open.spotify.com/artist/1Ld0guzIxggCOIbkE319nz) | [Night Clouds](https://open.spotify.com/album/7lSnDLFVQkxKYmtPQWeFTd) | 2:52 | 2023-10-16 |  |
 | [Nocturne](https://open.spotify.com/track/0poBmYwvWSP2nZYJYbaOu6) | [Francesco Le Metre](https://open.spotify.com/artist/6LhB3BzQTnbX8DVi4GCmrs) | [Nocturne](https://open.spotify.com/album/1IP3Dd2jlEHljD9qw5CLj1) | 3:01 | 2023-04-03 |  |
 | [Nouvel Agneau](https://open.spotify.com/track/2CTRsFkCzXEafseF4MLRN9) | [Eric Badanti](https://open.spotify.com/artist/2KnoW7Kuw3lj3OKFK8EXQ7) | [Nouvel Agneau](https://open.spotify.com/album/2eJoenU9jJik7za0y7C02w) | 2:19 | 2023-04-03 |  |
 | [Now and Then](https://open.spotify.com/track/1U8o73TurMXghX2kqF99EG) | [Elliott Jack Sansom](https://open.spotify.com/artist/22WxwAyT9U9wWsKA7ToO7K), [Jacob David](https://open.spotify.com/artist/2ClAWj3iKUlyddnvR6faUP) | [Now and Then](https://open.spotify.com/album/36lDqENCszoOFIp063zOH7) | 2:21 | 2023-04-03 |  |

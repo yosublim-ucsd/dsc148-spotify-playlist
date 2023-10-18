@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2CLoLFwNFP1.md) - [plain]
 
 > 
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,213 likes - 100 songs - 6 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 30,244 likes - 100 songs - 6 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -107,6 +107,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2CLoLFwNFP1.md) - [plain]
 | 97 | [Million](https://open.spotify.com/track/7gw9EmECP4BXUvQdhY5HPq) | [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI) | [Ask Bout Me](https://open.spotify.com/album/6XlL7j4p0WXpm1y8HqnBmM) | 4:28 |
 | 98 | [Feature \(Feat\. Cha Cha Malone\)](https://open.spotify.com/track/4slKa6L7iKXdQSgGJxKe8S) | [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI), [Cha Cha Malone](https://open.spotify.com/artist/7632p5JJi58r3q9GfhqSyF) | [EVERYTHING YOU WANTED](https://open.spotify.com/album/0c4LKBzh0ufU36AyuzZRc2) | 3:50 |
 | 99 | [Alone Tonight \(Feat\. Sik\-K\)](https://open.spotify.com/track/1uzq7zOP5JNFPk4aDji01d) | [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI), [Sik\-K](https://open.spotify.com/artist/5DIi2JWfQPTKffaVBlIYRn) | [EVERYTHING YOU WANTED](https://open.spotify.com/album/0c4LKBzh0ufU36AyuzZRc2) | 4:11 |
-| 100 | [FSU \(feat\. GASHI & Rich The Kid\)](https://open.spotify.com/track/0nJnzVlIJV3vqckZ06PeaM) | [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI), [GASHI](https://open.spotify.com/artist/0JOxt5QOwq0czoJxvSc5hS), [Rich The Kid](https://open.spotify.com/artist/1pPmIToKXyGdsCF6LmqLmI) | [Ask Bout Me](https://open.spotify.com/album/6XlL7j4p0WXpm1y8HqnBmM) | 3:51 |
+| 100 | [WORLDWIDE](https://open.spotify.com/track/7vjHsRjCtkyzGkzFnZk2eY) | [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI), [Dok2](https://open.spotify.com/artist/0rW6fVd3yuW2CF2sLYWQtE), [The Quiett](https://open.spotify.com/artist/2qI1pO64eYqGUiv1XTw4cy) | [Worldwide](https://open.spotify.com/album/5vESroqrGYDxDPAwUceQxf) | 6:02 |
 
-Snapshot ID: `MCxiNGM1NTM1MDdjZGVmMjM0OWNkNDc5ZmI0YzdiNDhkM2NiMzI3M2Vl`
+Snapshot ID: `MCw3YjgxOGVlMzI5ZDc2Njk2M2QwNmI0ZDE0MTYwYjY5OGMyZjEzNzhl`

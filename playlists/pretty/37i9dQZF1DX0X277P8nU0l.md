@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0X277P8nU0l.md) - [plain]
 
 > Un café, un croissant et c‘est parti pour une bonne journée.
 
-[Spotify](https://open.spotify.com/user/spotify) - 213,833 likes - 50 songs - 2 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 213,876 likes - 50 songs - 2 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,7 +34,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0X277P8nU0l.md) - [plain]
 | 24 | [Astrology Poisoning](https://open.spotify.com/track/2vYd15dPYelxBESvyviVbf) | [Avalon Emerson](https://open.spotify.com/artist/4yrO1N273PlTaixa4BNwBz) | [& the Charm](https://open.spotify.com/album/6gRl7N6UQKKmXCv3nhYlMu) | 3:39 |
 | 25 | [Good Morning \(feat\. Susan Carol\)](https://open.spotify.com/track/6A4P5ehiWPgfTUjLVuWtEi) | [PJ Morton](https://open.spotify.com/artist/2FMOHE79X98yptp4RpPrt7), [Susan Carol](https://open.spotify.com/artist/7lkBIPB2g6tiQos6UF9plP) | [Good Morning \(feat\. Susan Carol\)](https://open.spotify.com/album/4AgLuqopjOtOC3qZxPGiAp) | 2:42 |
 | 26 | [My Simple Jeep \(feat\. Mac DeMarco\)](https://open.spotify.com/track/0ZpC3Exz0loDQahf1jPErB) | [Eyedress](https://open.spotify.com/artist/3XxNRirzbjfLdDli06zMaB), [Mac DeMarco](https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM) | [My Simple Jeep \(feat\. Mac DeMarco\)](https://open.spotify.com/album/3RiKNDu7x3qjRM4mhyBQc0) | 2:59 |
-| 27 | [There's a Storm a Comin'](https://open.spotify.com/track/4tNTYxKPa8yWpoxpBEueIF) | [Richard Hawley](https://open.spotify.com/artist/1ZsnHGOLYFg8CAHQQBc1ut) | [False Lights From the Land EP](https://open.spotify.com/album/2eswYuox4Rj1UKy40yUGDp) | 4:13 |
+| 27 | [Tonight the Streets Are Ours](https://open.spotify.com/track/4tNTYxKPa8yWpoxpBEueIF) | [Richard Hawley](https://open.spotify.com/artist/1ZsnHGOLYFg8CAHQQBc1ut) | [False Lights From the Land EP](https://open.spotify.com/album/2eswYuox4Rj1UKy40yUGDp) | 4:13 |
 | 28 | [Slow Dancing](https://open.spotify.com/track/5h1BN75CEh8wdSwE1xrbSe) | [V](https://open.spotify.com/artist/3JsHnjpbhX4SnySpvpa9DK) | [Layover](https://open.spotify.com/album/7ixOAT89NSsgUITYc5ByB5) | 3:07 |
 | 29 | [Back In Love](https://open.spotify.com/track/20aysL9kYxvNPuSWEzh8pl) | [LEISURE](https://open.spotify.com/artist/7b04D0yLktCUpvxQBhmG7R) | [Back In Love](https://open.spotify.com/album/6QqRF5zCtaC7QxClwaGUDf) | 4:41 |
 | 30 | [Little Things Mean A Lot](https://open.spotify.com/track/221XgJXCVkZ1ERPyfO3OlO) | [Bettye Swann](https://open.spotify.com/artist/0g3EsNvUCwgpsdkAiIC50W) | [Bettye Swann](https://open.spotify.com/album/1oHCwJLBDoKDOfdznsRjNs) | 3:43 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0X277P8nU0l.md) - [plain]
 | 49 | [Pegasus \(ft\. Phoebe Bridgers\)](https://open.spotify.com/track/2oZH5jrlSr0sFWoiIymVHh) | [Arlo Parks](https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx), [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [Pegasus \(ft\. Phoebe Bridgers\)](https://open.spotify.com/album/0gsw4flnfCrEqGr16ACAoQ) | 3:06 |
 | 50 | [Messy](https://open.spotify.com/track/2iq1qD2ifqpYS5J2I35u7h) | [Olivia Dean](https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW) | [Messy](https://open.spotify.com/album/5YlBA1tCY0M8DDs75RB2LY) | 3:43 |
 
-Snapshot ID: `MCw5OWJlZDhmZTQ5OTBlMGU5YzYyZTM4ODQxNWM2OTJkYjUyOTlmYzU5`
+Snapshot ID: `MCwwNTQxNjZiYWFkZWE3YjQ2MmMyOTVjNzhlM2NiYTM2ZjNhMDk4ZjJj`

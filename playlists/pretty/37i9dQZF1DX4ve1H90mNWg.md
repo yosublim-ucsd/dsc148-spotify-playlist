@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4ve1H90mNWg.md) - [plain]
 
 > Texas music breaking waves\. <br/> Cover:  <a href="https://open.spotify.com/artist/0fGcIStdT1OpFFhOC7Wp36?si=d14048b372484137">Teezo Touchdown</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,699 likes - 63 songs - 3 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,728 likes - 63 songs - 3 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -72,4 +72,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4ve1H90mNWg.md) - [plain]
 | 62 | [Nothing But The Blood](https://open.spotify.com/track/7jclwK9tMrEAbTskC7E4t3) | [Forrest Frank](https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ), [Lecrae](https://open.spotify.com/artist/1CFCsEqKrCyvAFKOATQHiW) | [Nothing But The Blood](https://open.spotify.com/album/2IJcWZ8vDouHlOD61LEb4b) | 3:07 |
 | 63 | [Boss Blues](https://open.spotify.com/track/2VAr6Z5n4pO3kI8m1ncYpb) | [Quin Nfn](https://open.spotify.com/artist/3M1quhETLChtt9NHKVaajX), [Sauce Walka](https://open.spotify.com/artist/42yf4QkiE9a252krn9OUCb) | [Boss Blues](https://open.spotify.com/album/7deP4NemY3eCBMgk3GmlWG) | 3:16 |
 
-Snapshot ID: `MCxhYWI3ZGIxZTJkZDY3MjU2MjU1NzQ2YWExNmE0YTBhNmQwZDlmMDMw`
+Snapshot ID: `MCw3NzkyNzNjMjQzNTRkZjg1ZDcxYjNkNjRiYWM0MDBiNmQ4YjFlMDM5`

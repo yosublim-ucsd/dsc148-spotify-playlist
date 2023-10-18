@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7NhGf24haor.md) - [plain]
 
 > The newest Hardstyle tracks \| 2023 Hardstyle\. Cover: Hard Driver
 
-[Spotify](https://open.spotify.com/user/spotify) - 142,458 likes - 77 songs - 4 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 142,575 likes - 77 songs - 4 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Enter the Void \(Qlimax 2023 Anthem\)](https://open.spotify.com/track/5fM9Ahqx99p0YCUxRkNBmL) | [Hard Driver](https://open.spotify.com/artist/1rpLzYzfrueWdkpcIunZQl) | [Enter the Void \(Qlimax 2023 Anthem\)](https://open.spotify.com/album/3fAgNIwcEKtuQXY8qo8vRp) | 5:27 |
-| 2 | [WOLFGANG](https://open.spotify.com/track/7HG413xQYwoR6i8D3ADC7J) | [Timmy Trumpet](https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ), [Mariana BO](https://open.spotify.com/artist/2cFzYhiHqYS7o8ZIM9WD22), [Junkie Kid](https://open.spotify.com/artist/3CjPghA9sowRwFGSrU038J) | [Timmy Trumpet's SINPHONY No\. 1](https://open.spotify.com/album/1QRuYyPWkoxox6RY3bU4T5) | 2:48 |
+| 2 | [WOLFGANG](https://open.spotify.com/track/7fSxXydUV3O7B9v2EBQCS3) | [Timmy Trumpet](https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ), [Mariana BO](https://open.spotify.com/artist/2cFzYhiHqYS7o8ZIM9WD22), [Junkie Kid](https://open.spotify.com/artist/3CjPghA9sowRwFGSrU038J) | [Timmy Trumpet's SINPHONY No\. 1](https://open.spotify.com/album/4nRym2kzawfVrO1bHcw5zK) | 2:48 |
 | 3 | [ALLERLAATSTE FEESTJE](https://open.spotify.com/track/647e5w5pkhyX0XTZHRJK4m) | [DIKKE BAAP](https://open.spotify.com/artist/1vYoGQIgamBW4S335Q0EHb), [Paul Elstak](https://open.spotify.com/artist/123hDJRbi4KtCdBaaKNHW6), [Jebroer](https://open.spotify.com/artist/7jp5R1aY7kmwBYX3jIu9yk) | [ALLERLAATSTE FEESTJE](https://open.spotify.com/album/7J7zRhFxdO4nSOOQK04Df3) | 3:03 |
 | 4 | [Solo](https://open.spotify.com/track/4j88dqy9AY39QhuRJir7xv) | [Brennan Heart](https://open.spotify.com/artist/5QySqc6yAFDx9m7fedFZmC), [SHWAY](https://open.spotify.com/artist/7ftmzL1fCW5daFyxl86nDN) | [Solo](https://open.spotify.com/album/2ne3g0bzIJTOrfEmi1pbB6) | 3:20 |
 | 5 | [Echoes of Euphoria](https://open.spotify.com/track/0mTcyjUnQwrI6WhepW7IJd) | [Frontliner](https://open.spotify.com/artist/7momuad2Twkv5O7MY3dODa) | [Echoes of Euphoria](https://open.spotify.com/album/01cPC0gzV4pGhZAxmHWxsB) | 3:39 |
@@ -86,4 +86,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7NhGf24haor.md) - [plain]
 | 76 | [Feed Your Soul](https://open.spotify.com/track/6pMSQuswOIzpjrUlhxHgYs) | [Toneshifterz](https://open.spotify.com/artist/4LBa6kTLaQHiONCfTfTaXV) | [Feed Your Soul](https://open.spotify.com/album/0RR0KChzbW7cHTcTUcVF6W) | 4:01 |
 | 77 | [Wildfire](https://open.spotify.com/track/3H6LR9VTflkGxkyrSM5xLW) | [Sephyx](https://open.spotify.com/artist/7MXzeG7zoG8pKpqKCOqcZL) | [Wildfire](https://open.spotify.com/album/1Aep8odjbmyTlCalwMJTUg) | 3:50 |
 
-Snapshot ID: `MCw1MDhhNDFlOTBiMjQwNDhjYjJhODMxYTYxMWFkMTMxMTA2YWFkOGI1`
+Snapshot ID: `MCxmNWJiZWNjN2Q2YzAzMGExYWEzYzU0YTc2ZjIwNTljZWFhNzU5OWYx`

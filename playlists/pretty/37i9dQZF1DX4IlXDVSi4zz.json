@@ -1,12 +1,12 @@
 {
   "description": "Dance the night away and just blame it on Tulum!",
-  "num_followers": 228330,
+  "num_followers": 228463,
   "original_name": "Tulum Party",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3ZDk5YjNkZDk5NDFlNjhhZGJlNzBmOGRkYzhmMDFhMWYzZGQzMGZj",
+  "snapshot_id": "MCwwMjMzYmM4NGNkZmJjYmYzNTcyYWQ1Nzg2NWVjZTUzMjQxNmQ0NzE0",
   "tracks": [
     {
       "added_at": "2022-10-12 15:41:51",
@@ -907,22 +907,6 @@
     {
       "added_at": "2022-10-12 15:41:51",
       "album": {
-        "name": "Summer Sol",
-        "url": "https://open.spotify.com/album/6iEbxNzIjuMk3oFWveulAn"
-      },
-      "artists": [
-        {
-          "name": "Rodrigo Gallardo",
-          "url": "https://open.spotify.com/artist/3fxdn6mfKvNFJ1Zx37On7W"
-        }
-      ],
-      "duration_ms": 390222,
-      "name": "Ay Que Sera Del Sol - Original",
-      "url": "https://open.spotify.com/track/2mDpaQWRfsXtymj7JhVOEE"
-    },
-    {
-      "added_at": "2022-10-12 15:41:51",
-      "album": {
         "name": "Bum Bum Tam Tam",
         "url": "https://open.spotify.com/album/22u9woa4SQXXsnyZhZAXM0"
       },
@@ -935,6 +919,22 @@
       "duration_ms": 170564,
       "name": "Bum Bum Tam Tam",
       "url": "https://open.spotify.com/track/5XQE6aJrjtzjQCfEhJ4NuL"
+    },
+    {
+      "added_at": "2022-10-12 15:41:51",
+      "album": {
+        "name": "Summer Sol",
+        "url": "https://open.spotify.com/album/6iEbxNzIjuMk3oFWveulAn"
+      },
+      "artists": [
+        {
+          "name": "Rodrigo Gallardo",
+          "url": "https://open.spotify.com/artist/3fxdn6mfKvNFJ1Zx37On7W"
+        }
+      ],
+      "duration_ms": 390222,
+      "name": "Ay Que Sera Del Sol - Original",
+      "url": "https://open.spotify.com/track/2mDpaQWRfsXtymj7JhVOEE"
     },
     {
       "added_at": "2022-10-12 15:41:51",

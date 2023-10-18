@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KpeLFwA3tO.md) - [plain]
 
 > The best new music from the wide world of punk\. Cover: Free Throw
 
-[Spotify](https://open.spotify.com/user/spotify) - 295,607 likes - 100 songs - 5 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 295,637 likes - 100 songs - 5 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,7 +29,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KpeLFwA3tO.md) - [plain]
 | 19 | [DANCE WITH ME](https://open.spotify.com/track/0FnuaL9AcJxAdzwGPcIHVr) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [DANCE WITH ME](https://open.spotify.com/album/3Uo59FndkcDDp0H7k9yJmh) | 3:08 |
 | 20 | [THE OUTSIDE \- OUTSIDERS VERSION](https://open.spotify.com/track/4iGlMhSSuRHUlNAknDjvT8) | [BOYS LIKE GIRLS](https://open.spotify.com/artist/0vWCyXMrrvMlCcepuOJaGI), [3OH!3](https://open.spotify.com/artist/0FWzNDaEu9jdgcYTbcOa4F), [State Champs](https://open.spotify.com/artist/1qqdO7xMptucPDMopsOdkr), [The Summer Set](https://open.spotify.com/artist/0pwyD6DhbFWn8uVSz2Fr0w), [The Ready Set](https://open.spotify.com/artist/2eRJjYEaWyGZbOBGYFLBoC) | [THE OUTSIDE \(OUTSIDERS VERSION\)](https://open.spotify.com/album/14kvTa7vi9xBLZqg6lc1Km) | 4:04 |
 | 21 | [Dysphoria Hoodie](https://open.spotify.com/track/4nchByjtPvq3iPYrgijp17) | [Laura Jane Grace](https://open.spotify.com/artist/4yfPiAauSgUfyc4k4WtwM9) | [Dysphoria Hoodie](https://open.spotify.com/album/2eRNpPskxaHcCWGhtojJi2) | 2:34 |
-| 22 | [ring in ur ear](https://open.spotify.com/track/0pQudbYpkDgp5NvivZeTTy) | [HUNNY](https://open.spotify.com/artist/5rebfYbZVIhbRVcRKWVOAh), [Motion City Soundtrack](https://open.spotify.com/artist/19zqV9DV3txjMUjHvltl2D) | [ring in ur ear](https://open.spotify.com/album/6FJfmpnSI7zEuAlWYRR0kT) | 3:18 |
+| 22 | [ring in ur ear](https://open.spotify.com/track/2iWGSNrMCPAebDQ78YmHGt) | [HUNNY](https://open.spotify.com/artist/5rebfYbZVIhbRVcRKWVOAh), [Motion City Soundtrack](https://open.spotify.com/artist/19zqV9DV3txjMUjHvltl2D) | [new planet heaven](https://open.spotify.com/album/2yLcWY0KENr1OAQ7ZAL7vD) | 3:18 |
 | 23 | [SSX Trickmont](https://open.spotify.com/track/7w13KZUxGmrPACC4s7NFRf) | [Belmont](https://open.spotify.com/artist/6hxiY0CFXTibGUtp8TdCxp) | [SSX Trickmont](https://open.spotify.com/album/1x3UEx1oKZ17ICrVAuC6Wn) | 3:18 |
 | 24 | [Weird Punx](https://open.spotify.com/track/0UsB58cZuu6C8x53SGdXId) | [Cancer Bats](https://open.spotify.com/artist/10YNQq86z4shHwDSymTyWc) | [Weird Punx](https://open.spotify.com/album/0BJ3CYCD7CIJyzVUNT8b54) | 2:34 |
 | 25 | [Would You Tell Picasso To Sell His Guitars?](https://open.spotify.com/track/3zw402HWF2JB4y7zvKCMvT) | [Ben Quad](https://open.spotify.com/artist/2FdTMoKlQiI4m0158FbrQE) | [Hand Signals](https://open.spotify.com/album/1ENMOKCLCw7F9Jozy3heUX) | 2:41 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KpeLFwA3tO.md) - [plain]
 | 99 | [Predator](https://open.spotify.com/track/5LT88wAiBchqnuM9ax4Jyf) | [Chelsea Manor](https://open.spotify.com/artist/6lcIRoW3WY9h7z0iqfghFc) | [Predator](https://open.spotify.com/album/2lCEjOo99WLMsxoGy4WeOv) | 3:13 |
 | 100 | [Enemy](https://open.spotify.com/track/6CgWLkFhymq6o4nvOuJrKC) | [WALWIN](https://open.spotify.com/artist/25I3ONjJhbX1mE62i57djG) | [Enemy](https://open.spotify.com/album/0O9aKBmu7LlWmlknQgI1Pz) | 3:22 |
 
-Snapshot ID: `MCw5ODUzNzliMzc2MTcxMzdiOGMzYTZmZjY2MjIzYjk1YzZlNGY5NDA4`
+Snapshot ID: `MCw0NTc4MzNhMGM0NTUzZjBiZGI0NDMyMjgyY2E5NWNkMzRlYjNiYjEy`

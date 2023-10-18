@@ -4,7 +4,7 @@
 
 > New funky songs with a classic funky sound\. Cover: Lettuce
 
-209 songs - 14 hr 38 min
+210 songs - 14 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -105,7 +105,8 @@
 | [Journey](https://open.spotify.com/track/17bXySNIfVmyYBZnXoxFm5) | [Secret Night Gang](https://open.spotify.com/artist/5h5gnysIprQOTY2HoM5ge0) | [Journey](https://open.spotify.com/album/6rXDUFPDscd0L9j8IG0lOq) | 5:32 | 2021-05-21 | 2022-07-29 |
 | [Journey](https://open.spotify.com/track/20N8EfIxLHDpp4Q5tt5w8O) | [Secret Night Gang](https://open.spotify.com/artist/5h5gnysIprQOTY2HoM5ge0) | [Journey](https://open.spotify.com/album/72QDuyY9xgPPCaeqFHkTao) | 5:32 | 2021-05-21 | 2022-11-13 |
 | [Journey](https://open.spotify.com/track/3BuDZacvKsLgiGk4zi6JKU) | [Secret Night Gang](https://open.spotify.com/artist/5h5gnysIprQOTY2HoM5ge0) | [Secret Night Gang](https://open.spotify.com/album/5NYdmamzON8sbPshgNcdty) | 5:32 | 2021-05-21 | 2023-04-29 |
-| [Journey](https://open.spotify.com/track/4GmkvW0KCKdB8U7X3rENvA) | [Secret Night Gang](https://open.spotify.com/artist/5h5gnysIprQOTY2HoM5ge0) | [Secret Night Gang](https://open.spotify.com/album/1UR25LC48tfVgHTKV3hFEm) | 5:32 | 2021-05-21 |  |
+| [Journey](https://open.spotify.com/track/4GmkvW0KCKdB8U7X3rENvA) | [Secret Night Gang](https://open.spotify.com/artist/5h5gnysIprQOTY2HoM5ge0) | [Secret Night Gang](https://open.spotify.com/album/1UR25LC48tfVgHTKV3hFEm) | 5:32 | 2021-05-21 | 2023-10-18 |
+| [Journey](https://open.spotify.com/track/7MuwpS5T9oCP94PHmylSqW) | [Secret Night Gang](https://open.spotify.com/artist/5h5gnysIprQOTY2HoM5ge0) | [Secret Night Gang](https://open.spotify.com/album/7nuulEx7Td5MdZ7WcjwBHt) | 5:32 | 2021-05-21 |  |
 | [Juice](https://open.spotify.com/track/4ID3iACsnvHL6F5ER140Oo) | [Thomas Atlas](https://open.spotify.com/artist/6JmjdmUmKCrzq0CqDt0vB6) | [Thomas Atlas](https://open.spotify.com/album/1hn0OhkwxNmIbdcjxy4aTv) | 2:51 | 2021-04-30 |  |
 | [Juice](https://open.spotify.com/track/5JJjXx0PCTGLabGrLDruap) | [Thomas Atlas](https://open.spotify.com/artist/6JmjdmUmKCrzq0CqDt0vB6) | [Thomas Atlas](https://open.spotify.com/album/2PB9nzvPkMH340fOB30fkm) | 2:51 | 2021-04-30 | 2022-07-29 |
 | [Just Say Nothing \(feat\. Vanessa Haynes\)](https://open.spotify.com/track/1XW9m112RR33Xud3BmdHvd) | [Incognito](https://open.spotify.com/artist/5moJNCJeiNwuQAhDLJXULs), [Vanessa Haynes](https://open.spotify.com/artist/0x1dqXqirpBR3KT3pdjyEf) | [In Search Of Better Days](https://open.spotify.com/album/6Y5Op4lKx403Tlq41zlA3x) | 4:41 | 2020-10-30 | 2022-04-09 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4DZAVUAwHMT.md) - [plain]
 
 > The UK's biggest rock playlist\. Cover: Bring Me The Horizon
 
-[Spotify](https://open.spotify.com/user/spotify) - 584,674 likes - 52 songs - 2 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 584,666 likes - 52 songs - 2 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,4 +61,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4DZAVUAwHMT.md) - [plain]
 | 51 | [This Isn't Me](https://open.spotify.com/track/2foKNLF3iIbX8cs0NyGMB2) | [Towa Bird](https://open.spotify.com/artist/1Yq3rS7K1SQKqjMOHXpqqt) | [This Isn't Me](https://open.spotify.com/album/7IOGKde0zgOWxGdImhJ0TN) | 3:37 |
 | 52 | [Resolution/Revolution](https://open.spotify.com/track/4Eu55UEC15GIYXr2CvISI5) | [The Linda Lindas](https://open.spotify.com/artist/13dTrWNNrnZ3AkgNyQNKP5) | [Resolution/Revolution](https://open.spotify.com/album/0vevdASAFEvU6TwqXFdZ9m) | 3:22 |
 
-Snapshot ID: `MCwxZjgxY2E3ZDhlOGZjOGQ3NmUxYTFmNWJjMDg2MzExYjg1ZjEyY2M1`
+Snapshot ID: `MCw4N2VmYzBkZDM2MWQ3ZmM0Njk5ZmZkYTIyZDI0ZDNiZTUxYWUwYjU5`

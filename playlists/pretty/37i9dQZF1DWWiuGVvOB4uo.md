@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWiuGVvOB4uo.md) - [plain]
 
 > Acoustic covers of all your favourite songs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 317,826 likes - 133 songs - 7 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 317,918 likes - 133 songs - 7 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -142,4 +142,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWiuGVvOB4uo.md) - [plain]
 | 132 | [Brandy \(You're a Fine Girl\)](https://open.spotify.com/track/3fORBfRj5nyTDvsCslufoH) | [Catey Shaw](https://open.spotify.com/artist/5nfow6tv4Dtm6K4WHzczBI) | [Brandy \(You're a Fine Girl\)](https://open.spotify.com/album/4MBX8MJkzfTltROCMA4FUy) | 3:28 |
 | 133 | [Heather \- Spotify Singles](https://open.spotify.com/track/2GSLoT7abyYGchSSDCpWEI) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [Spotify Singles](https://open.spotify.com/album/4xhcTm06KVa15xIpVk1hQt) | 3:10 |
 
-Snapshot ID: `MCxiOTAwZTkxYzQwMWNjYTAxZTQxZWIyYTNhMTc1MzQ2MDU5YzYxOTdj`
+Snapshot ID: `MCxlY2Y3MTkyZTA0MWNmZDlhYzY4ZTU4NThlZjE3NDQ0MjM3NDQxN2M2`

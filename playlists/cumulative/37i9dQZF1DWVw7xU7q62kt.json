@@ -916,7 +916,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-18",
       "duration_ms": 209000,
       "name": "Futuristic Earth",
       "url": "https://open.spotify.com/track/53crbk8yg8EblYm5WVtp9t"
@@ -1700,6 +1700,28 @@
       "duration_ms": 167710,
       "name": "no, regrets",
       "url": "https://open.spotify.com/track/2npDMSs7eYvQl81VEKMRKX"
+    },
+    {
+      "album": {
+        "name": "Lila",
+        "url": "https://open.spotify.com/album/6UjzxcdveHA76f4W4K71Uf"
+      },
+      "artists": [
+        {
+          "name": "Shake Stew",
+          "url": "https://open.spotify.com/artist/6RoD5V5SDApmcG8Iiw8SS6"
+        },
+        {
+          "name": "Precious Nnebedum",
+          "url": "https://open.spotify.com/artist/5mnjbLL5Lpi3LW9Wnzir2O"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 356642,
+      "name": "Not Water But Rest",
+      "url": "https://open.spotify.com/track/5M7ZhcrCafzjLN18pHokNA"
     },
     {
       "album": {

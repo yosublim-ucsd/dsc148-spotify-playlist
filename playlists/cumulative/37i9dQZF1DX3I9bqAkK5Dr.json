@@ -349,6 +349,24 @@
     },
     {
       "album": {
+        "name": "Chilipi Gnapakam Female Version",
+        "url": "https://open.spotify.com/album/5lfL6nkYydI20rYyHn22Sj"
+      },
+      "artists": [
+        {
+          "name": "Pragathi Kanadamane",
+          "url": "https://open.spotify.com/artist/1hw5AMlFZLM4aLkPl8v7zl"
+        }
+      ],
+      "date_added": "2023-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240407,
+      "name": "Chilipi Gnapakam Female Version",
+      "url": "https://open.spotify.com/track/6OpwxZxIW10ir69O7VKlED"
+    },
+    {
+      "album": {
         "name": "Chinnari Chinnari",
         "url": "https://open.spotify.com/album/76QF9hI6MKq9WymR4MknN7"
       },
@@ -2416,7 +2434,7 @@
       ],
       "date_added": "2023-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-18",
       "duration_ms": 198372,
       "name": "Po Ve Po Ve",
       "url": "https://open.spotify.com/track/2ULcLS1AhtAvTwSPEw2VHu"

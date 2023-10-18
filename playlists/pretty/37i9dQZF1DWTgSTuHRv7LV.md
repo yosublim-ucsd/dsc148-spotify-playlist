@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTgSTuHRv7LV.md) - [plain]
 
 > Lo mejor del Hip\-Hop y Rap en español\. Descansa en paz Lefty SM.
 
-[Spotify](https://open.spotify.com/user/spotify) - 491,737 likes - 100 songs - 5 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 491,917 likes - 100 songs - 5 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -98,8 +98,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTgSTuHRv7LV.md) - [plain]
 | 88 | [Whoopty \(Latin Mix\) \[feat\. Anuel AA and Ozuna\]](https://open.spotify.com/track/48MsdL5Med93EyIwINl5qY) | [CJ](https://open.spotify.com/artist/7arQA31aZVS8yS6zUveWzb), [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66), [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY) | [Whoopty \(Latin Mix\) \[feat\. Anuel AA and Ozuna\]](https://open.spotify.com/album/4NM6c7Q88osAJ4KoDQUvpo) | 3:33 |
 | 89 | [Pregúntale A Tu Papá Por Mi](https://open.spotify.com/track/0TiZ8GSp9bYyZRTA5h6biu) | [Vico C](https://open.spotify.com/artist/0GutRVONcyyBj1WduodFc6) | [Pregúntale A Tu Papá Por Mi](https://open.spotify.com/album/13W1KYMSvDSWOWOXYClSxO) | 5:28 |
 | 90 | [Stripper X](https://open.spotify.com/track/5UlAeEQEgkT8oVauCfbunJ) | [lil joujou](https://open.spotify.com/artist/6UhGN5pVzgbBYjpqkxKM5F), [Young Miko](https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB) | [Stripper X](https://open.spotify.com/album/5O3Z3LXXRc6QmdDerBMgaM) | 2:40 |
-| 91 | [obstáculo](https://open.spotify.com/track/0aNEvtr8iBURNCLr6naHfa) | [Tainy](https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB), [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [obstáculo](https://open.spotify.com/album/5jbm9uB1EjIdrSQKWZcori) | 2:15 |
-| 92 | [Woo](https://open.spotify.com/track/56ieMJZ6jvwiQgEJQSWGz9) | [Kidd Keo](https://open.spotify.com/artist/0VZrPa7mWAYXH4CwmYk8Km) | [Trap Bandicoot](https://open.spotify.com/album/4C0rxFMtSmialjEWZ5bLVq) | 2:39 |
+| 91 | [Woo](https://open.spotify.com/track/56ieMJZ6jvwiQgEJQSWGz9) | [Kidd Keo](https://open.spotify.com/artist/0VZrPa7mWAYXH4CwmYk8Km) | [Trap Bandicoot](https://open.spotify.com/album/4C0rxFMtSmialjEWZ5bLVq) | 2:39 |
+| 92 | [obstáculo](https://open.spotify.com/track/0aNEvtr8iBURNCLr6naHfa) | [Tainy](https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB), [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [obstáculo](https://open.spotify.com/album/5jbm9uB1EjIdrSQKWZcori) | 2:15 |
 | 93 | [Holy Shit \- Remix](https://open.spotify.com/track/1OzhsvZSKTMUZRjo4al9cA) | [Ankhal](https://open.spotify.com/artist/6NmMI7UnfmIpLRYoz8H9jm), [Jhayco](https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1) | [Holy Shit \(Remix\)](https://open.spotify.com/album/0IzxukhRLKI3fU3HIaSIC1) | 3:27 |
 | 94 | [FERRAGAMO](https://open.spotify.com/track/2OkMmFo9V7nAXhojd9QUPR) | [Mont](https://open.spotify.com/artist/41gFAk6ZyYdt7Q1Ir4cbH0), [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp) | [FERRAGAMO](https://open.spotify.com/album/5Rz59vfdoaxddW0kMuvV7X) | 3:38 |
 | 95 | [Trap Life](https://open.spotify.com/track/6y02ncrAPQazhXNJ3R8MMf) | [Neutro Shorty](https://open.spotify.com/artist/5wUO3A6DT4tO5UDz21kE2Y) | [Trap Life](https://open.spotify.com/album/1xCzLw3aPw7ouqduAdrXjh) | 3:09 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTgSTuHRv7LV.md) - [plain]
 | 99 | [100 TRACKS](https://open.spotify.com/track/2tS3MCvIoHw2m0iyYpsdRF) | [Rels B](https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8) | [SMILE BIX :\)](https://open.spotify.com/album/3svLfGfwUxt84cOTkyijl8) | 2:44 |
 | 100 | [PUFF](https://open.spotify.com/track/0A6nNAq5m3IqEAgTss3SM8) | [Bhavi](https://open.spotify.com/artist/7fT2Me47PQ8T7954PKrcwR), [Bizarrap](https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36) | [POCHOCLOS](https://open.spotify.com/album/6nL86gkh34yZ2vXjRXmHVP) | 2:20 |
 
-Snapshot ID: `MCwxOGVjMDhmNjgwZTMwODdjZTdiZGQ2MDA0YjEyMTE3MGJhZjYzODg2`
+Snapshot ID: `MCxhNmFjYWE0MTU1YzI5ZDkyOTg2ZDc4ODRlNGY1MDM1NTU3ZTgzMDlj`

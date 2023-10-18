@@ -1,12 +1,12 @@
 {
   "description": "Let's go! \ud83d\udcaa\u200a",
-  "num_followers": 711024,
+  "num_followers": 711303,
   "original_name": "Fit Beats ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzMDljNzY0OTMwNTQ5OGE0YjYyMjhjYjIyMmZjYmM5MmM1NWI4YjYw",
+  "snapshot_id": "MCxlMThhM2RhMjczYTg2YmFmZTk2NmNjMzFkMGVkNWMwODEzODgzMDc1",
   "tracks": [
     {
       "added_at": "2023-10-13 10:15:23",
@@ -635,6 +635,22 @@
     {
       "added_at": "2023-10-13 10:15:23",
       "album": {
+        "name": "Sweat",
+        "url": "https://open.spotify.com/album/0s6xr1TAPOzNXYNEmlHksU"
+      },
+      "artists": [
+        {
+          "name": "DJSM",
+          "url": "https://open.spotify.com/artist/13qjHQyFpjR48hBIbPrwMx"
+        }
+      ],
+      "duration_ms": 132700,
+      "name": "Sweat",
+      "url": "https://open.spotify.com/track/2uoaR6QNRYMB0zu0cUcM65"
+    },
+    {
+      "added_at": "2023-10-13 10:15:23",
+      "album": {
         "name": "Drinkin",
         "url": "https://open.spotify.com/album/2M4jhdsyvC0xpuXXc1SKWE"
       },
@@ -667,22 +683,6 @@
       "duration_ms": 135015,
       "name": "Bad Day",
       "url": "https://open.spotify.com/track/1hLjDjDukRRGLdqfseaNsa"
-    },
-    {
-      "added_at": "2023-10-13 10:15:23",
-      "album": {
-        "name": "Sweat",
-        "url": "https://open.spotify.com/album/0s6xr1TAPOzNXYNEmlHksU"
-      },
-      "artists": [
-        {
-          "name": "DJSM",
-          "url": "https://open.spotify.com/artist/13qjHQyFpjR48hBIbPrwMx"
-        }
-      ],
-      "duration_ms": 132700,
-      "name": "Sweat",
-      "url": "https://open.spotify.com/track/2uoaR6QNRYMB0zu0cUcM65"
     },
     {
       "added_at": "2023-10-13 10:15:23",
@@ -999,18 +999,18 @@
     {
       "added_at": "2023-10-13 10:15:23",
       "album": {
-        "name": "I Want You",
-        "url": "https://open.spotify.com/album/41pfq7q7EHjKjBIih3d3wn"
+        "name": "Make U SWEAT!",
+        "url": "https://open.spotify.com/album/0kHRNlcXwAsSJTlUYOtmg3"
       },
       "artists": [
         {
-          "name": "La Fuente",
-          "url": "https://open.spotify.com/artist/0vhJymgsCubfAfFjEGVsoD"
+          "name": "Knock2",
+          "url": "https://open.spotify.com/artist/6mmSS7itNWKbapgG2eZbIg"
         }
       ],
-      "duration_ms": 219401,
-      "name": "I Want You",
-      "url": "https://open.spotify.com/track/5ECWJFKkqePRH2SSlv8Ltq"
+      "duration_ms": 234285,
+      "name": "Make U SWEAT!",
+      "url": "https://open.spotify.com/track/5uh8m2Lna0Gfk8YGqYVb6d"
     }
   ],
   "unique_name": "Fit Beats ",

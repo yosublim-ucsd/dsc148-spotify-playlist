@@ -81,6 +81,28 @@
     },
     {
       "album": {
+        "name": "No More Idols",
+        "url": "https://open.spotify.com/album/245j9BaZFuEso2vfLRVnQr"
+      },
+      "artists": [
+        {
+          "name": "Chase & Status",
+          "url": "https://open.spotify.com/artist/3jNkaOXasoc7RsxdchvEVq"
+        },
+        {
+          "name": "Liam Bailey",
+          "url": "https://open.spotify.com/artist/022EiWsch2zvty0qBUksDO"
+        }
+      ],
+      "date_added": "2022-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233666,
+      "name": "Blind Faith",
+      "url": "https://open.spotify.com/track/04OxTCLGgDKfO0MMA2lcxv"
+    },
+    {
+      "album": {
         "name": "Tongue N' Cheek (Dirtee Deluxe Edition)",
         "url": "https://open.spotify.com/album/0tbxVYstYiHpBwA7qYL1hC"
       },
@@ -456,7 +478,7 @@
       ],
       "date_added": "2022-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-18",
       "duration_ms": 383546,
       "name": "Heads Will Roll - A-Trak Remix",
       "url": "https://open.spotify.com/track/2idmlkd8oUaQvYEtINpLBX"

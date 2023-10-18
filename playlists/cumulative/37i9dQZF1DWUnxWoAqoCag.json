@@ -113,6 +113,24 @@
     },
     {
       "album": {
+        "name": "BABY CHAOS",
+        "url": "https://open.spotify.com/album/5iE0UUNuhxeIUqRo8rrpKe"
+      },
+      "artists": [
+        {
+          "name": "GIRLS HERO",
+          "url": "https://open.spotify.com/artist/2MxT61zWTWlcqPTIuDWWzA"
+        }
+      ],
+      "date_added": "2023-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142741,
+      "name": "BABY CHAOS",
+      "url": "https://open.spotify.com/track/6ufv6uhkSARQyDDtglYpj9"
+    },
+    {
+      "album": {
         "name": "UTA'S SONGS ONE PIECE FILM RED",
         "url": "https://open.spotify.com/album/7Ixqxq13tWhrbnIabk3172"
       },
@@ -1529,6 +1547,24 @@
     },
     {
       "album": {
+        "name": "\u30db\u30e0\u30f3\u30af\u30eb\u30b9",
+        "url": "https://open.spotify.com/album/6r0PC1UIkeOvYBUWO79ohw"
+      },
+      "artists": [
+        {
+          "name": "Tele",
+          "url": "https://open.spotify.com/artist/2DesRdo7rppo0VC8cR3vsf"
+        }
+      ],
+      "date_added": "2023-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203011,
+      "name": "\u30db\u30e0\u30f3\u30af\u30eb\u30b9",
+      "url": "https://open.spotify.com/track/7KYZQay4ok85FWx1e5SweU"
+    },
+    {
+      "album": {
         "name": "\u30de\u30b8\u30c3\u30af\u30a2\u30ef\u30fc",
         "url": "https://open.spotify.com/album/1VV09JUhf3tWApPKwszd56"
       },
@@ -1850,7 +1886,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-18",
       "duration_ms": 307666,
       "name": "\u9006\u5922",
       "url": "https://open.spotify.com/track/6ZiEWet0uFRwWBCEKCQ8rY"
@@ -1868,7 +1904,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-18",
       "duration_ms": 217657,
       "name": "\u91d1\u661f",
       "url": "https://open.spotify.com/track/7x2HAt5GncMkvYI4dVrwpQ"

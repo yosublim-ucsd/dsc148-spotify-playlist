@@ -2,9 +2,9 @@
 
 ### [Hallyu Boy Bands](https://open.spotify.com/playlist/37i9dQZF1DX1gjl24GAQC0)
 
-> Is it your favorite oppa or dongsaeng? \(Cover: TOMORROW X TOGETHER\) \[당신의 최애 아이돌 보이 그룹은 어떤 그룹인가요?\]
+> Is it your favorite oppa or dongsaeng? \(Cover: YOUNITE\) \[당신의 최애 아이돌 보이 그룹은 어떤 그룹인가요?\]
 
-497 songs - 1 day 3 hr 53 min
+499 songs - 1 day 3 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -177,7 +177,7 @@
 | [Freeze \(KARTRIDER X LINE FRIENDS \[Original Game Soundtrack\], Pt\. 1\)](https://open.spotify.com/track/3qIuTjIdhQq8fEiYCQXcUl) | [NCT 127](https://open.spotify.com/artist/7f4ignuCJhLXfZ9giKT7rH) | [Freeze \(KARTRIDER X LINE FRIENDS \[Original Game Soundtrack\], Pt\. 1\)](https://open.spotify.com/album/3XrSErc5uByu9CygnAaGgY) | 2:58 | 2022-03-22 | 2022-07-17 |
 | [Freeze Tag](https://open.spotify.com/track/7CAZZTBrcyRj3PjENWOdBZ) | [TO1](https://open.spotify.com/artist/405HlkQ0VXP4NUYaGxsgsg) | [UP2U](https://open.spotify.com/album/5javnnBjbP0ObEZafZtc7k) | 3:02 | 2022-11-24 | 2022-12-01 |
 | [From Seoul](https://open.spotify.com/track/77J0atqdfc6NkcI1O2TJuV) | [Block B \- BASTARZ](https://open.spotify.com/artist/70ptvBQye3QMlbuTKrF1qb) | [I'm a mess.](https://open.spotify.com/album/5BA4WQunvYgNb3VLaziamV) | 3:46 | 2022-03-22 | 2022-04-17 |
-| [FULL METAL JACKET](https://open.spotify.com/track/3DdEFAs5UmTIYIoDXTjD5U) | [EPEX](https://open.spotify.com/artist/4e2umhzNHTSeQnSCWPN0uT) | [EPEX 6th EP Album Prelude of Anxiety Chapter 2\. ‘Can We Surrender?’](https://open.spotify.com/album/5D8L3qM4Q9GA1bPDqtS4oK) | 2:52 | 2023-10-04 |  |
+| [FULL METAL JACKET](https://open.spotify.com/track/3DdEFAs5UmTIYIoDXTjD5U) | [EPEX](https://open.spotify.com/artist/4e2umhzNHTSeQnSCWPN0uT) | [EPEX 6th EP Album Prelude of Anxiety Chapter 2\. ‘Can We Surrender?’](https://open.spotify.com/album/5D8L3qM4Q9GA1bPDqtS4oK) | 2:52 | 2023-10-04 | 2023-10-18 |
 | [Future Perfect \(Pass the MIC\)](https://open.spotify.com/track/6PRy17C5LiiN7VCLS6IA98) | [ENHYPEN](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9) | [MANIFESTO : DAY 1](https://open.spotify.com/album/5J8MNLLViH5zqM6VoGErz8) | 3:00 | 2022-07-04 | 2023-07-28 |
 | [GAMBLER](https://open.spotify.com/track/1Zsy7gMUcHDhxC0bbyZmC2) | [Monsta X](https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz) | [One of a Kind](https://open.spotify.com/album/2Zuovdo5g1RhfbHniwZ8yI) | 3:33 | 2022-03-22 | 2022-04-11 |
 | [Gas Pedal](https://open.spotify.com/track/0IYOm3308cQ6drkr4M92WE) | [CRAVITY](https://open.spotify.com/artist/6FkhUhUwSPl3mGB6mmE8wn) | [CRAVITY 1ST ALBUM PART 1 \[The Awakening: Written In The Stars\]](https://open.spotify.com/album/7CtpVv2DV2DXiZxjsf6jEo) | 3:17 | 2022-02-15 | 2022-07-19 |
@@ -187,6 +187,7 @@
 | [Ghost Town](https://open.spotify.com/track/11zk9584jNu1WoxWEeMWWj) | [MOONBIN&SANHA\(ASTRO\)](https://open.spotify.com/artist/2jrwm2knXPMawr5p8FuC2h) | [Ghost Town](https://open.spotify.com/album/04UAzxqWOm1fb63qG1G1Ng) | 3:09 | 2022-02-15 | 2022-07-18 |
 | [Give me dat](https://open.spotify.com/track/78NOZVTo3ReedJSCqXIpSL) | [ARGON](https://open.spotify.com/artist/2dKmshZuLaQQfr55dankVK) | [GO FORWARD : Wide Dream](https://open.spotify.com/album/6iHktUGzL43RMOx84i0Hu4) | 3:08 | 2022-03-31 | 2022-04-16 |
 | [Give me more \(feat\. De La Ghetto & Play\-N\-Skillz\)](https://open.spotify.com/track/2aQuh8h6DArZ9bcPigj5nf) | [VAV](https://open.spotify.com/artist/3riGN5iBVBk5naQxUDr5fk), [De La Ghetto](https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb), [Play\-N\-Skillz](https://open.spotify.com/artist/7MP4jhYmFEgb0AtiOkw55s) | [GIVE ME MORE](https://open.spotify.com/album/6xHcIcLAX9tShQKWICklhj) | 3:54 | 2022-03-30 | 2022-04-20 |
+| [Give You My All](https://open.spotify.com/track/5qnEx0iZtcFoUXPlY8iQhk) | [HIGHLIGHT](https://open.spotify.com/artist/3T0fMfxYBU3q9oAUAdPIsr) | [Give You My All](https://open.spotify.com/album/7492V3qcwPAToQhe9KXo1A) | 2:45 | 2023-10-17 |  |
 | [Given\-Taken](https://open.spotify.com/track/69WpV0U7OMNFGyq8I63dcC) | [ENHYPEN](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9) | [BORDER : DAY ONE](https://open.spotify.com/album/3YxF7jTnpdNepWbO42f8lH) | 3:03 | 2021-12-08 |  |
 | [Glitch Mode](https://open.spotify.com/track/5b1PngLlxc7hj3fJXrE2Zm) | [NCT DREAM](https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02) | [Glitch Mode \- The 2nd Album](https://open.spotify.com/album/4cAcTMGFjTBufC7Eu0FizU) | 3:27 | 2022-04-12 | 2023-01-10 |
 | [God’s Menu](https://open.spotify.com/track/0RzT9tBLcQhofW2TNiHP9B) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [GO LIVE](https://open.spotify.com/album/7B3Rmyws1KcAxQfYPoInEZ) | 2:47 | 2021-12-08 | 2022-07-29 |
@@ -272,6 +273,7 @@
 | [LOSER](https://open.spotify.com/track/2jSKhV7zSImRqT4jBCFnEE) | [AB6IX](https://open.spotify.com/artist/4y0wFJ5jmCUNRLZfsw1I7g) | [THE FUTURE IS OURS: LOST](https://open.spotify.com/album/0YXbjMgswczPCUdRsM19Ni) | 3:30 | 2023-05-30 | 2023-06-10 |
 | [Louder](https://open.spotify.com/track/6btX7akvoYxoh1zKXQHs2e) | [TAN](https://open.spotify.com/artist/34Ecdzh8yGKt2YvPG37PKu) | [W SERIES ‘2TAN’\(wish ver\)](https://open.spotify.com/album/3YskOywYWBcztpX1k4SBS1) | 3:18 | 2022-06-21 | 2022-07-08 |
 | [Love Effect](https://open.spotify.com/track/5jBdF52105JBOQN4HyBCW5) | [ONF](https://open.spotify.com/artist/0eEhOgZ2x6kv8kLz77WO7b) | [LOVE EFFECT](https://open.spotify.com/album/1TtgaKSwHIh4KPtwSD3Kwz) | 2:52 | 2023-10-13 |  |
+| [Love it](https://open.spotify.com/track/574gYm7iFWEUO4DbF5NGEF) | [YOUNITE](https://open.spotify.com/artist/4l4eMvpA4K7X02j08cbkNV) | [BIT Part.2](https://open.spotify.com/album/3nnadaRtvxQl3Rchqp672S) | 3:22 | 2023-10-17 |  |
 | [Love Killa](https://open.spotify.com/track/4hxNs73449mNhfLIvAC9zz) | [Monsta X](https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz) | [Fatal Love](https://open.spotify.com/album/3x2BuKhzRIRjU4jm1WxFo3) | 3:02 | 2022-03-22 | 2022-04-19 |
 | [Love Line](https://open.spotify.com/track/1RYjkjc7Wck0psjCl5OcTr) | [TVXQ!](https://open.spotify.com/artist/6nVMMEywS5Y4tsHPKx1nIo) | [New Chapter \#1: The Chance of Love \- The 8th Album](https://open.spotify.com/album/3n3HTIorktWHS2mOo2G8jp) | 3:15 | 2022-03-22 | 2022-04-19 |
 | [LOVE ME](https://open.spotify.com/track/04zAq5UmMGJyRC3KfyWnYb) | [NU'EST](https://open.spotify.com/artist/1iQfn1B8V25iQoolQakyAZ) | [The Table](https://open.spotify.com/album/5ugI8wGwbbFYLS8VDy4XUr) | 3:03 | 2022-03-22 | 2022-04-11 |
@@ -457,7 +459,7 @@
 | [Trauma](https://open.spotify.com/track/1kvcWkI3m8L6F7EFheV8lM) | [SF9](https://open.spotify.com/artist/7LOmc7gyMVMOWF8qwEdn2X) | [RUMINATION](https://open.spotify.com/album/23F2thvLl5vJvxD5fG4yRm) | 3:21 | 2022-03-22 | 2022-06-06 |
 | [TRICKY HOUSE](https://open.spotify.com/track/2MeEPaL5HsW9njvrtP0Agj) | [xikers](https://open.spotify.com/artist/6QHP8St0MzfNDqjKpwtMht) | [HOUSE OF TRICKY : Doorbell Ringing](https://open.spotify.com/album/6AO0SV6HUmKSu85OECxtYK) | 3:04 | 2023-03-30 | 2023-04-12 |
 | [TRIGGER](https://open.spotify.com/track/2GNSBV3MLrT5vSEwfgSCpG) | [VERIVERY](https://open.spotify.com/artist/1fWUcRSok57yRm8gPKj1Fc) | [SERIES 'O' \[ROUND 2 : HOLE\]](https://open.spotify.com/album/6JUF0SnjI6ZUeQQUdZmdP9) | 3:01 | 2022-01-27 | 2022-04-11 |
-| [TROUBLE](https://open.spotify.com/track/6MSRu5wksC0Esn63XOgmI3) | [EVNNE](https://open.spotify.com/artist/6SYJFHPxXkr4SZJR8aLEml) | [Target: ME](https://open.spotify.com/album/3zgfK7IBAPDcroAqxzzMOy) | 3:26 | 2023-09-27 |  |
+| [TROUBLE](https://open.spotify.com/track/6MSRu5wksC0Esn63XOgmI3) | [EVNNE](https://open.spotify.com/artist/6SYJFHPxXkr4SZJR8aLEml) | [Target: ME](https://open.spotify.com/album/3zgfK7IBAPDcroAqxzzMOy) | 3:26 | 2023-09-27 | 2023-10-18 |
 | [Tulips](https://open.spotify.com/track/1qISta7z0s8B6zc1awcCVU) | [SNUPER](https://open.spotify.com/artist/3RkN2CENR9zgHLKn2H3hcI) | [BLOSSOM](https://open.spotify.com/album/7beQFEkNFuQ8q39fp2psKX) | 3:09 | 2022-03-31 | 2022-04-13 |
 | [Twilight](https://open.spotify.com/track/5DG7DFtTUyTPyg5hTVtTtQ) | [ONEUS](https://open.spotify.com/artist/3CVYSpM7nfHFG5qCTW7Ht9) | [RAISE US](https://open.spotify.com/album/4SKt8BtRB2nr6YAyH2Iy1n) | 3:37 | 2022-03-22 | 2022-04-21 |
 | [U](https://open.spotify.com/track/4LKcNaDtBhpTN4rUVuRj0B) | [iKON](https://open.spotify.com/artist/5qRSs6mvI17zrkJpOHkCoM) | [TAKE OFF](https://open.spotify.com/album/0oynVErCTSSApUkhqn4gy1) | 3:19 | 2023-05-09 | 2023-06-10 |
@@ -466,7 +468,7 @@
 | [ULlala: Poisoning](https://open.spotify.com/track/2KRW7vfIQXiuXchn8O1ISy) | [IN2IT](https://open.spotify.com/artist/43GYq8c6nVEgaEyg0qtzJd) | [PUZZLE](https://open.spotify.com/album/1qc2j0eoYT8fOYmtvnrE0U) | 3:12 | 2022-03-22 | 2022-04-04 |
 | [Valkyrie](https://open.spotify.com/track/0oNFVyzwK6TFdFHSsD1dmC) | [ONEUS](https://open.spotify.com/artist/3CVYSpM7nfHFG5qCTW7Ht9) | [LIGHT US](https://open.spotify.com/album/6tSOZb6wWFG8EZdcxXDyli) | 3:27 | 2022-04-04 | 2022-05-10 |
 | [VAMOS](https://open.spotify.com/track/3JNgIY0WqPk3qgQapkFumz) | [OMEGA X](https://open.spotify.com/artist/2FJYWlqgtoiBtXpOy9GGIF) | [1st Mini Album 'VAMOS'](https://open.spotify.com/album/1RUIMYrQC6RBohtz83WP7a) | 3:30 | 2022-03-31 | 2022-04-12 |
-| [VERY NICE](https://open.spotify.com/track/1Rrj7KyS2R6SP9CQMDJW1w) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [Love&Letter repackage album](https://open.spotify.com/album/7mP7AFehQDonPKEQiXvpvB) | 3:12 | 2022-04-04 | 2023-10-17 |
+| [VERY NICE](https://open.spotify.com/track/1Rrj7KyS2R6SP9CQMDJW1w) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [Love&Letter repackage album](https://open.spotify.com/album/7mP7AFehQDonPKEQiXvpvB) | 3:12 | 2022-04-04 |  |
 | [VIBE \(feat\. Jimin of BTS\)](https://open.spotify.com/track/4NIe9Is7bN5JWyTeCW2ahK) | [TAEYANG](https://open.spotify.com/artist/6udveWUgX4vu75FF0DTrXV), [Jimin](https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY) | [Down to Earth](https://open.spotify.com/album/6uMu4poce5OdMd1HYglZux) | 2:55 | 2023-05-09 |  |
 | [VIBE \(feat\. Jimin of BTS\)](https://open.spotify.com/track/61AZsmFB3VoJdmraMk5ZSn) | [TAEYANG](https://open.spotify.com/artist/6udveWUgX4vu75FF0DTrXV), [Jimin](https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY) | [VIBE \(feat\. Jimin of BTS\)](https://open.spotify.com/album/3qUOk1Se3Oopu5pUlHTjVJ) | 2:55 | 2023-01-13 | 2023-05-01 |
 | [View](https://open.spotify.com/track/46E1ic6n099e76t5J1TbHn) | [SHINee](https://open.spotify.com/artist/2hRQKC0gqlZGPrmUKbcchR) | [Odd \- The 4th Album](https://open.spotify.com/album/47zSQLQWjPLmiEbCpOOEJa) | 3:10 | 2022-03-22 | 2022-04-14 |
@@ -489,7 +491,7 @@
 | [Wild Heart](https://open.spotify.com/track/3GXLBTk7l1Bc7bZp18sqZD) | [LUN8](https://open.spotify.com/artist/5LkLwB6VSZLQiFkJa9SPOn) | [CONTINUE?](https://open.spotify.com/album/38naOKNOPofTwerOOejf2N) | 2:59 | 2023-06-15 | 2023-06-30 |
 | [Will Make a Mistake](https://open.spotify.com/track/0jdT8lnzPWFKjI5iuIxDjQ) | [BLITZERS](https://open.spotify.com/artist/3Exoh42YMeqnUvYahAGgUE) | [SEAT\-BELT](https://open.spotify.com/album/1Z1nMx8QglGa8tQFerndsg) | 3:18 | 2022-03-22 | 2022-07-01 |
 | [Will you be my girlfriend? \(Original Mix\)](https://open.spotify.com/track/2dt2Q03hG4P3EcK5DRcKWZ) | [M.O.N.T](https://open.spotify.com/artist/205HvlOEb4EZFrBHXv8kLZ) | [Going up](https://open.spotify.com/album/2hjadltOHAImuoZzUQJwvr) | 3:02 | 2022-03-22 | 2022-04-03 |
-| [With UNIVERSE](https://open.spotify.com/track/1GCYF6dKEpdC7GFn4Kmrd8) | [PENTAGON](https://open.spotify.com/artist/1wKpMkucynaTfG8lyPprYV) | [With UNIVERSE](https://open.spotify.com/album/2m8cxPDIlH371sLuivEWMI) | 2:59 | 2023-10-13 |  |
+| [With UNIVERSE](https://open.spotify.com/track/1GCYF6dKEpdC7GFn4Kmrd8) | [PENTAGON](https://open.spotify.com/artist/1wKpMkucynaTfG8lyPprYV) | [With UNIVERSE](https://open.spotify.com/album/2m8cxPDIlH371sLuivEWMI) | 2:59 | 2023-10-13 | 2023-10-18 |
 | [With Us](https://open.spotify.com/track/7JxGvCpgu60COzVsmavYv9) | [VERIVERY](https://open.spotify.com/artist/1fWUcRSok57yRm8gPKj1Fc) | [ITAEWON CLASS \(Original Television Soundtrack\) Pt\. 9](https://open.spotify.com/album/5hJ1mbfea5r20mjtT6oHON) | 4:17 | 2022-03-22 | 2022-04-21 |
 | [Wolf](https://open.spotify.com/track/7n0D1iLva5zp4JcnlIMeVa) | [EXO](https://open.spotify.com/artist/3cjEqqelV9zb4BYE3qDQ4O) | [The 1st Album 'XOXO' \(Repackage\)](https://open.spotify.com/album/4qduCvpyBL5hGYdBvCvcDA) | 3:50 | 2023-04-30 | 2023-05-10 |
 | [WONDERLAND](https://open.spotify.com/track/6k67RdkVjTZj79c1cRz7IQ) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [TREASURE EP.FIN: All To Action](https://open.spotify.com/album/4HGhzqQEY1X6WWZw6MhjlO) | 3:19 | 2021-12-08 | 2023-04-22 |

@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5qjSia2PLFP.md) - [plain]
 
 > New music breaking waves\.  Cover:   <a href="spotify:artist:4UodukR17NIQfNu5uaqm9B">Jamila Woods</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 91,912 likes - 100 songs - 5 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 91,927 likes - 100 songs - 5 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Tiny Garden](https://open.spotify.com/track/40ke1BOmv6yyUrfbchPr3P) | [Jamila Woods](https://open.spotify.com/artist/4UodukR17NIQfNu5uaqm9B), [duendita](https://open.spotify.com/artist/4vZBqD3QXrKiE3mZ6zHr22) | [Tiny Garden](https://open.spotify.com/album/6auEC4yc0x3xoYv580Dbke) | 4:11 |
 | 2 | [Good Guys](https://open.spotify.com/track/33qepYPIBzWlDVJtpV2oAK) | [chlothegod](https://open.spotify.com/artist/10YC7gfEVGGez94KMAJoLx) | [Nearly Straight](https://open.spotify.com/album/2aViIw8MflAIHHsPK5hXX9) | 2:36 |
-| 3 | [LUV N DEVOTION](https://open.spotify.com/track/2C2KmQyeGfMVULfrdMVs8i) | [DESTIN CONRAD](https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ) | [LUV N DEVOTION](https://open.spotify.com/album/5R8TDNyNfrrh9PprKnl8Ig) | 3:03 |
+| 3 | [LUV N DEVOTION](https://open.spotify.com/track/2C2KmQyeGfMVULfrdMVs8i) | [DESTIN CONRAD](https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ) | [LUV N DEVOTION](https://open.spotify.com/album/5R8TDNyNfrrh9PprKnl8Ig) | 3:01 |
 | 4 | [Everything We Did](https://open.spotify.com/track/7jbc6jkT3r6POZgNIcypPZ) | [femdot.](https://open.spotify.com/artist/7aGhkUVp7V3klWfTFe7AHS) | [Free Samples, Vol\. 2](https://open.spotify.com/album/1WCxL49gWJL2TxE2sPVhL8) | 3:31 |
 | 5 | [Wait So Long](https://open.spotify.com/track/3nHLmfDuvY5LK3lCV1LHju) | [Arin Ray](https://open.spotify.com/artist/6TvjXbopXg71XRM9OZWqUc) | [Wait So Long](https://open.spotify.com/album/0AaPqe9tkDP6LKf7uEf5mw) | 2:28 |
 | 6 | [Self](https://open.spotify.com/track/0J9uaeOd7GZi9MTybtqAD4) | [Cleo Sol](https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq) | [Heaven](https://open.spotify.com/album/6aWsHOGYXoEY1kxnxGMLwU) | 3:19 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5qjSia2PLFP.md) - [plain]
 | 99 | [Holding On](https://open.spotify.com/track/0ltnKNT48JxlcXuWyQ9cu4) | [Lucid Ecstasy](https://open.spotify.com/artist/0grjMzZum71lxVC4bpHQtn) | [Holding On](https://open.spotify.com/album/2Vb6XOlcPWmt17qNYit1C2) | 2:14 |
 | 100 | [Glow On You](https://open.spotify.com/track/3P7OYztpK2xfSRKkGARXgg) | [Street Symphony](https://open.spotify.com/artist/3VqgsVyCuUFy3qEDvn0HXP), [Soda Supreme](https://open.spotify.com/artist/5rM4XqyUmGzH9h5MHqj2o4), [YOURSNDTRK](https://open.spotify.com/artist/3mK9cYGDMSXkuP8wcvYKYF) | [Glow On You](https://open.spotify.com/album/65Xi21sXH49fkVEs4a74z9) | 2:53 |
 
-Snapshot ID: `MCw3Njk1ZDdlNzBkYTI4MWEzYTJjN2ZiOWE4NjRiYTRjY2EwNjE5Njli`
+Snapshot ID: `MCwxNzEwZDY5MWVjMmQ3NjdkZTgzNWZjNjg1YTU2ZjI2NDYxN2VjNjRh`

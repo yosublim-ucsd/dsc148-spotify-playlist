@@ -4,7 +4,7 @@
 
 > Escucha la música de las seis temporadas de Élite.
 
-377 songs - 23 hr 59 min
+378 songs - 1 day 0 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -200,7 +200,8 @@
 | [Juanita](https://open.spotify.com/track/1Ik5g1Fkqdi9S4qxanHfn9) | [Gecko Turner](https://open.spotify.com/artist/3vGEIjEdCD0TeZDOMkoaFg) | [That Place by the Thing with the Cool Name](https://open.spotify.com/album/3hrJBKVG1BaNyW7HLXKCok) | 3:21 | 2021-09-01 |  |
 | [Karmaya](https://open.spotify.com/track/1877JIUu7Rc8HtLU4AdyNi) | [Lucas Vidal](https://open.spotify.com/artist/6MerhqnpjjeEbjZydltdlS) | [KARMA](https://open.spotify.com/album/2YnfwVZPfAsr1kOwTv2fne) | 3:42 | 2022-04-08 |  |
 | [Kind of Love](https://open.spotify.com/track/1V028kR7hQgxkibAYOMntP) | [Rat City](https://open.spotify.com/artist/6VSMAVF00xwG8Adoqnbqy6), [Isak Heim](https://open.spotify.com/artist/3noOJBzljbPMoifF6wY12v) | [Kind of Love \(feat\. Isak Heim\)](https://open.spotify.com/album/2n32yXbJfmXJHF28laEV7j) | 3:22 | 2021-09-01 |  |
-| [Kiska \(киска\)](https://open.spotify.com/track/5VkZXhdpIKFSHICfdlqObU) | [Kedr Livanskiy](https://open.spotify.com/artist/7deuX0YejjlcB4uLcdgEDW) | [Your Need](https://open.spotify.com/album/5ijVr4vWC2EappNFNYA3q3) | 3:46 | 2021-09-01 |  |
+| [Kiska \(киска\)](https://open.spotify.com/track/5VkZXhdpIKFSHICfdlqObU) | [Kedr Livanskiy](https://open.spotify.com/artist/7deuX0YejjlcB4uLcdgEDW) | [Your Need](https://open.spotify.com/album/5ijVr4vWC2EappNFNYA3q3) | 3:46 | 2021-09-01 | 2023-10-18 |
+| [Kiska \(киска\)](https://open.spotify.com/track/66TlXNFnwQjixtcLE2t0MJ) | [Kedr Livanskiy](https://open.spotify.com/artist/7deuX0YejjlcB4uLcdgEDW) | [Your Need](https://open.spotify.com/album/2c6FcKInAkAqZI0yNQXa9C) | 3:46 | 2021-09-01 |  |
 | [Kith](https://open.spotify.com/track/7aHdqt74mSDldMC6pbQcNv) | [Hilary Woods](https://open.spotify.com/artist/4S05GVttpg3rjOte0SX749) | [Colt](https://open.spotify.com/album/29JeAsTyeysxFx6v21v8N8) | 5:36 | 2022-11-24 |  |
 | [Knife](https://open.spotify.com/track/7zJez9dgwuDp2K0SodHXqE) | [SOLEDAD VÉLEZ](https://open.spotify.com/artist/4e7wEeokf7skRInd805EVH) | [Knife](https://open.spotify.com/album/3zwswJSHvyf20opVthp5vc) | 4:23 | 2021-09-01 |  |
 | [Kuyayki](https://open.spotify.com/track/25eJ7HWISJUYZ0tM9393c6) | [Klik & Frik](https://open.spotify.com/artist/56P5wn7V6w46OyYV9vS5jC), [Chancha Via Circuito](https://open.spotify.com/artist/6E8vZ5lkpXbXlkgHhbVJSl) | [Telepat](https://open.spotify.com/album/4kBlPYtTcXYt4xfLFmWUOe) | 3:32 | 2021-09-01 |  |

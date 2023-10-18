@@ -1,15 +1,15 @@
 {
   "description": "La playlist urban pi\u00f9 grande d'Italia \ud83d\udd25 Cover: Boro, Artie 5ive",
-  "num_followers": 890245,
+  "num_followers": 890660,
   "original_name": "Plus Ultra",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5YTRlNDUxZDE4ZjUzZTcwMmZmNWYxNTY4NTI3M2FmMzY0NzQxYjkz",
+  "snapshot_id": "MCw4NmQyNGZiNzQwZWQ3MzBhMDM3ZDYzNTk1NTA5MzAyODE2YTMwZjhi",
   "tracks": [
     {
-      "added_at": "2023-10-12 22:01:00",
+      "added_at": "2023-10-17 13:56:12",
       "album": {
         "name": "EVERYDAY (feat. Shiva, ANNA, Geolier)",
         "url": "https://open.spotify.com/album/7qm8bQi1fUSQoo1jUjjLIs"
@@ -37,7 +37,7 @@
       "url": "https://open.spotify.com/track/20bTkdvyWZjO4ORHmzXQR4"
     },
     {
-      "added_at": "2023-10-12 22:01:00",
+      "added_at": "2023-10-17 13:56:12",
       "album": {
         "name": "Cadillac (feat. Artie 5ive)",
         "url": "https://open.spotify.com/album/3mG2cIIIftDcBHTtfQrMMz"
@@ -61,7 +61,7 @@
       "url": "https://open.spotify.com/track/7IpsNYgP87QkLCSnctxSif"
     },
     {
-      "added_at": "2023-10-12 22:01:00",
+      "added_at": "2023-10-17 13:56:12",
       "album": {
         "name": "Papaya",
         "url": "https://open.spotify.com/album/4elBzZLFdhXTNqEvRxqSzQ"
@@ -77,103 +77,7 @@
       "url": "https://open.spotify.com/track/4nyRpOBvLUhwMVNAQ7rZwf"
     },
     {
-      "added_at": "2023-10-12 22:01:00",
-      "album": {
-        "name": "ABC (feat. Bello Figo)",
-        "url": "https://open.spotify.com/album/5N2chCw2KvN4O0CNZTkXzR"
-      },
-      "artists": [
-        {
-          "name": "Slings",
-          "url": "https://open.spotify.com/artist/0XMi14343o5LtUKVdKmMUj"
-        },
-        {
-          "name": "Bello Figo",
-          "url": "https://open.spotify.com/artist/59rqdbDiB9oXuZggah1syh"
-        }
-      ],
-      "duration_ms": 143424,
-      "name": "ABC (feat. Bello Figo)",
-      "url": "https://open.spotify.com/track/50qPOMP2Kw8qOD1dsExaKQ"
-    },
-    {
-      "added_at": "2023-10-12 22:01:00",
-      "album": {
-        "name": "INNOCENTE",
-        "url": "https://open.spotify.com/album/7CIpLH395MhKKJ7WyUzm58"
-      },
-      "artists": [
-        {
-          "name": "Baby Gang",
-          "url": "https://open.spotify.com/artist/3LvwPiJQJ0da0GurKMToV0"
-        },
-        {
-          "name": "Bobo",
-          "url": "https://open.spotify.com/artist/4W6DLx1j8rZzzcbMuUd42J"
-        }
-      ],
-      "duration_ms": 183840,
-      "name": "Que Lo Ke",
-      "url": "https://open.spotify.com/track/7wj8OXiqdAfNsnWm2zRV9e"
-    },
-    {
-      "added_at": "2023-10-12 22:01:00",
-      "album": {
-        "name": "Nato Per Questo",
-        "url": "https://open.spotify.com/album/3nrUsKXZlLAEKE5HUeoc0v"
-      },
-      "artists": [
-        {
-          "name": "Capo Plaza",
-          "url": "https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n"
-        }
-      ],
-      "duration_ms": 167076,
-      "name": "Nato Per Questo",
-      "url": "https://open.spotify.com/track/2YQx1HsasbXKv8nVvXKidO"
-    },
-    {
-      "added_at": "2023-10-12 22:01:00",
-      "album": {
-        "name": "ASPETTANDO LA BELLA VITA",
-        "url": "https://open.spotify.com/album/7kPBwGRrSCDXGUuxcD6AWb"
-      },
-      "artists": [
-        {
-          "name": "Artie 5ive",
-          "url": "https://open.spotify.com/artist/2R4kNOwHUUsuDYhKsESVbF"
-        },
-        {
-          "name": "Sacky",
-          "url": "https://open.spotify.com/artist/1sybJwRGo9WiiqcZLzzAbS"
-        }
-      ],
-      "duration_ms": 220255,
-      "name": "TOP G (feat. Sacky)",
-      "url": "https://open.spotify.com/track/7w3M35YQ9VD91c4Lpos8Zz"
-    },
-    {
-      "added_at": "2023-10-12 22:01:00",
-      "album": {
-        "name": "Santeria",
-        "url": "https://open.spotify.com/album/2LLWEWdoQPndFp7cqwQYhV"
-      },
-      "artists": [
-        {
-          "name": "Marracash",
-          "url": "https://open.spotify.com/artist/5AZuEF0feCXMkUCwQiQlW7"
-        },
-        {
-          "name": "Gu\u00e8",
-          "url": "https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27"
-        }
-      ],
-      "duration_ms": 206805,
-      "name": "Insta Lova",
-      "url": "https://open.spotify.com/track/1w91YxaRwTShkKe4apYf3r"
-    },
-    {
-      "added_at": "2023-10-12 22:01:00",
+      "added_at": "2023-10-17 13:56:12",
       "album": {
         "name": "REALLY HER (INTL DELUXE)",
         "url": "https://open.spotify.com/album/28Yvo0JYp7oZe1fsNsh7H2"
@@ -197,7 +101,103 @@
       "url": "https://open.spotify.com/track/79gZiOMkdqpBquK2tClkbn"
     },
     {
-      "added_at": "2023-10-12 22:01:00",
+      "added_at": "2023-10-17 13:56:12",
+      "album": {
+        "name": "Santeria",
+        "url": "https://open.spotify.com/album/2LLWEWdoQPndFp7cqwQYhV"
+      },
+      "artists": [
+        {
+          "name": "Marracash",
+          "url": "https://open.spotify.com/artist/5AZuEF0feCXMkUCwQiQlW7"
+        },
+        {
+          "name": "Gu\u00e8",
+          "url": "https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27"
+        }
+      ],
+      "duration_ms": 206805,
+      "name": "Insta Lova",
+      "url": "https://open.spotify.com/track/1w91YxaRwTShkKe4apYf3r"
+    },
+    {
+      "added_at": "2023-10-17 13:56:12",
+      "album": {
+        "name": "ABC (feat. Bello Figo)",
+        "url": "https://open.spotify.com/album/5N2chCw2KvN4O0CNZTkXzR"
+      },
+      "artists": [
+        {
+          "name": "Slings",
+          "url": "https://open.spotify.com/artist/0XMi14343o5LtUKVdKmMUj"
+        },
+        {
+          "name": "Bello Figo",
+          "url": "https://open.spotify.com/artist/59rqdbDiB9oXuZggah1syh"
+        }
+      ],
+      "duration_ms": 143424,
+      "name": "ABC (feat. Bello Figo)",
+      "url": "https://open.spotify.com/track/50qPOMP2Kw8qOD1dsExaKQ"
+    },
+    {
+      "added_at": "2023-10-17 13:56:12",
+      "album": {
+        "name": "INNOCENTE",
+        "url": "https://open.spotify.com/album/7CIpLH395MhKKJ7WyUzm58"
+      },
+      "artists": [
+        {
+          "name": "Baby Gang",
+          "url": "https://open.spotify.com/artist/3LvwPiJQJ0da0GurKMToV0"
+        },
+        {
+          "name": "Bobo",
+          "url": "https://open.spotify.com/artist/4W6DLx1j8rZzzcbMuUd42J"
+        }
+      ],
+      "duration_ms": 183840,
+      "name": "Que Lo Ke",
+      "url": "https://open.spotify.com/track/7wj8OXiqdAfNsnWm2zRV9e"
+    },
+    {
+      "added_at": "2023-10-17 13:56:12",
+      "album": {
+        "name": "Nato Per Questo",
+        "url": "https://open.spotify.com/album/3nrUsKXZlLAEKE5HUeoc0v"
+      },
+      "artists": [
+        {
+          "name": "Capo Plaza",
+          "url": "https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n"
+        }
+      ],
+      "duration_ms": 167076,
+      "name": "Nato Per Questo",
+      "url": "https://open.spotify.com/track/2YQx1HsasbXKv8nVvXKidO"
+    },
+    {
+      "added_at": "2023-10-17 13:56:12",
+      "album": {
+        "name": "ASPETTANDO LA BELLA VITA",
+        "url": "https://open.spotify.com/album/7kPBwGRrSCDXGUuxcD6AWb"
+      },
+      "artists": [
+        {
+          "name": "Artie 5ive",
+          "url": "https://open.spotify.com/artist/2R4kNOwHUUsuDYhKsESVbF"
+        },
+        {
+          "name": "Sacky",
+          "url": "https://open.spotify.com/artist/1sybJwRGo9WiiqcZLzzAbS"
+        }
+      ],
+      "duration_ms": 220255,
+      "name": "TOP G (feat. Sacky)",
+      "url": "https://open.spotify.com/track/7w3M35YQ9VD91c4Lpos8Zz"
+    },
+    {
+      "added_at": "2023-10-17 13:56:12",
       "album": {
         "name": "HOTEL MONTANA",
         "url": "https://open.spotify.com/album/1Fw2ymkiHpvnmJi8gjyZNG"
@@ -217,7 +217,7 @@
       "url": "https://open.spotify.com/track/34YxYcGtsAzI1K0SNAWMn1"
     },
     {
-      "added_at": "2023-10-12 22:01:00",
+      "added_at": "2023-10-17 13:56:12",
       "album": {
         "name": "Syrup",
         "url": "https://open.spotify.com/album/5S1n1Vxz7yyKPhwGzy2d37"
@@ -233,7 +233,7 @@
       "url": "https://open.spotify.com/track/1CVw4Qr8LTapyiovASUpff"
     },
     {
-      "added_at": "2023-10-12 22:01:00",
+      "added_at": "2023-10-17 13:56:12",
       "album": {
         "name": "ASPETTANDO LA BELLA VITA",
         "url": "https://open.spotify.com/album/7kPBwGRrSCDXGUuxcD6AWb"
@@ -253,7 +253,7 @@
       "url": "https://open.spotify.com/track/0YI32qkEhhUjoGVMGXDm8b"
     },
     {
-      "added_at": "2023-10-12 22:01:00",
+      "added_at": "2023-10-17 13:56:12",
       "album": {
         "name": "La Divina Commedia",
         "url": "https://open.spotify.com/album/4ir7AIjfrMVHTxZhnfzhWl"
@@ -277,7 +277,7 @@
       "url": "https://open.spotify.com/track/5omIW7YOPhA6CULhkdz6jE"
     },
     {
-      "added_at": "2023-10-12 22:01:00",
+      "added_at": "2023-10-17 13:56:12",
       "album": {
         "name": "FEDE",
         "url": "https://open.spotify.com/album/5y2UTfhxtOcFE1v5S585kK"
@@ -297,7 +297,7 @@
       "url": "https://open.spotify.com/track/14ZxYiB4WZvbma2Jr15MeP"
     },
     {
-      "added_at": "2023-10-12 22:01:00",
+      "added_at": "2023-10-17 13:56:12",
       "album": {
         "name": "Umile",
         "url": "https://open.spotify.com/album/1ewXxOuO1Oi9F8Wan0gEi9"
@@ -317,23 +317,27 @@
       "url": "https://open.spotify.com/track/1r5WCFulDtvAdCNmJfH1wA"
     },
     {
-      "added_at": "2023-10-12 22:01:00",
+      "added_at": "2023-10-17 13:56:12",
       "album": {
-        "name": "TAF TAF",
-        "url": "https://open.spotify.com/album/7zC0Ei12gFL8TnHgEgmu6u"
+        "name": "LEVANTE (feat. Paky)",
+        "url": "https://open.spotify.com/album/3eZqA45DiafIF7obBL69jg"
       },
       "artists": [
         {
           "name": "Simba La Rue",
           "url": "https://open.spotify.com/artist/2PEMswqQspTSsAltdeF5kO"
+        },
+        {
+          "name": "Paky",
+          "url": "https://open.spotify.com/artist/1KQJOTeIMbixtnSWY4sYs2"
         }
       ],
-      "duration_ms": 183095,
-      "name": "TAF TAF",
-      "url": "https://open.spotify.com/track/6eJIQo4C9LR9sACJI5fP7O"
+      "duration_ms": 139610,
+      "name": "LEVANTE (feat. Paky)",
+      "url": "https://open.spotify.com/track/5J40VCMOSuXZZAGJZeFzQJ"
     },
     {
-      "added_at": "2023-10-12 22:01:00",
+      "added_at": "2023-10-17 13:56:12",
       "album": {
         "name": "ALBV",
         "url": "https://open.spotify.com/album/7CIlHDEtln2cbqATa3uRoF"
@@ -349,7 +353,27 @@
       "url": "https://open.spotify.com/track/11CLbFT3tm8UTU2b0XNd79"
     },
     {
-      "added_at": "2023-10-12 22:01:00",
+      "added_at": "2023-10-17 13:56:12",
+      "album": {
+        "name": "DOV'ERI? (feat. Baby Gang)",
+        "url": "https://open.spotify.com/album/1pITHFIU30Kt38axjWvvwY"
+      },
+      "artists": [
+        {
+          "name": "Sacky",
+          "url": "https://open.spotify.com/artist/1sybJwRGo9WiiqcZLzzAbS"
+        },
+        {
+          "name": "Baby Gang",
+          "url": "https://open.spotify.com/artist/3LvwPiJQJ0da0GurKMToV0"
+        }
+      ],
+      "duration_ms": 181894,
+      "name": "DOV'ERI? (feat. Baby Gang)",
+      "url": "https://open.spotify.com/track/1ayxvCxpk0oFaL8lbx88on"
+    },
+    {
+      "added_at": "2023-10-17 13:56:12",
       "album": {
         "name": "Freddy Krueger Freestyle",
         "url": "https://open.spotify.com/album/6h801PlffuLHaO7tcmvz3y"
@@ -365,7 +389,7 @@
       "url": "https://open.spotify.com/track/6TbFOSCtOicAETFf0DxHFt"
     },
     {
-      "added_at": "2023-10-12 22:01:00",
+      "added_at": "2023-10-17 13:56:12",
       "album": {
         "name": "BELLA",
         "url": "https://open.spotify.com/album/66RYsaXoAIodtHYI7iKFZP"
@@ -385,7 +409,7 @@
       "url": "https://open.spotify.com/track/3vdJE5XWVax2kVs6OTJzWM"
     },
     {
-      "added_at": "2023-10-12 22:01:00",
+      "added_at": "2023-10-17 13:56:12",
       "album": {
         "name": "INNOCENTE (Deluxe Edition)",
         "url": "https://open.spotify.com/album/2YFcUMTsjVjOx4tdp3MmH3"
@@ -409,7 +433,7 @@
       "url": "https://open.spotify.com/track/4H8mFU6lQDvHVi4pIqrvku"
     },
     {
-      "added_at": "2023-10-12 22:01:00",
+      "added_at": "2023-10-17 13:56:12",
       "album": {
         "name": "1 MESSAGGIO",
         "url": "https://open.spotify.com/album/4ckePFG01HSFnIDOtG9ZjS"
@@ -425,7 +449,7 @@
       "url": "https://open.spotify.com/track/3GsSmGgMELKhaYSj3QTShu"
     },
     {
-      "added_at": "2023-10-12 22:01:00",
+      "added_at": "2023-10-17 13:56:12",
       "album": {
         "name": "Too late",
         "url": "https://open.spotify.com/album/2wI2mYdlA9BmjRWATm1fjD"
@@ -445,7 +469,7 @@
       "url": "https://open.spotify.com/track/2UKH7wJBVt2tF5JINtOPmZ"
     },
     {
-      "added_at": "2023-10-12 22:01:00",
+      "added_at": "2023-10-17 13:56:12",
       "album": {
         "name": "La Divina Commedia",
         "url": "https://open.spotify.com/album/4ir7AIjfrMVHTxZhnfzhWl"
@@ -465,27 +489,7 @@
       "url": "https://open.spotify.com/track/3VtGh8xE9qRsFyY2Uj1WG3"
     },
     {
-      "added_at": "2023-10-12 22:01:00",
-      "album": {
-        "name": "DOV'ERI? (feat. Baby Gang)",
-        "url": "https://open.spotify.com/album/1pITHFIU30Kt38axjWvvwY"
-      },
-      "artists": [
-        {
-          "name": "Sacky",
-          "url": "https://open.spotify.com/artist/1sybJwRGo9WiiqcZLzzAbS"
-        },
-        {
-          "name": "Baby Gang",
-          "url": "https://open.spotify.com/artist/3LvwPiJQJ0da0GurKMToV0"
-        }
-      ],
-      "duration_ms": 181894,
-      "name": "DOV'ERI? (feat. Baby Gang)",
-      "url": "https://open.spotify.com/track/1ayxvCxpk0oFaL8lbx88on"
-    },
-    {
-      "added_at": "2023-10-12 22:01:00",
+      "added_at": "2023-10-17 13:56:12",
       "album": {
         "name": "VETRI NERI",
         "url": "https://open.spotify.com/album/1vU1ePx8IOwsYRo5nh63nn"
@@ -509,7 +513,7 @@
       "url": "https://open.spotify.com/track/1K9qAxGT4cWUicf2OezSen"
     },
     {
-      "added_at": "2023-10-12 22:01:00",
+      "added_at": "2023-10-17 13:56:12",
       "album": {
         "name": "INNOCENTE",
         "url": "https://open.spotify.com/album/7CIpLH395MhKKJ7WyUzm58"
@@ -529,7 +533,7 @@
       "url": "https://open.spotify.com/track/4Vguuo2E1onl5knqW1X3fH"
     },
     {
-      "added_at": "2023-10-12 22:01:00",
+      "added_at": "2023-10-17 13:56:12",
       "album": {
         "name": "10",
         "url": "https://open.spotify.com/album/4buUBHrLMnqUFtwWCfq1pb"
@@ -561,7 +565,7 @@
       "url": "https://open.spotify.com/track/6tP2AFUZkz4PuUfssawUBn"
     },
     {
-      "added_at": "2023-10-12 22:01:00",
+      "added_at": "2023-10-17 13:56:12",
       "album": {
         "name": "Ancora",
         "url": "https://open.spotify.com/album/6ZEXxjoXce42TAPSQtzCs6"
@@ -577,7 +581,23 @@
       "url": "https://open.spotify.com/track/7kvQDzIegURcWHLC0fZfrQ"
     },
     {
-      "added_at": "2023-10-12 22:01:00",
+      "added_at": "2023-10-17 13:56:12",
+      "album": {
+        "name": "TAF TAF",
+        "url": "https://open.spotify.com/album/7zC0Ei12gFL8TnHgEgmu6u"
+      },
+      "artists": [
+        {
+          "name": "Simba La Rue",
+          "url": "https://open.spotify.com/artist/2PEMswqQspTSsAltdeF5kO"
+        }
+      ],
+      "duration_ms": 183095,
+      "name": "TAF TAF",
+      "url": "https://open.spotify.com/track/6eJIQo4C9LR9sACJI5fP7O"
+    },
+    {
+      "added_at": "2023-10-17 13:56:12",
       "album": {
         "name": "IL CORAGGIO DEI BAMBINI",
         "url": "https://open.spotify.com/album/5FAlSQMZ4j8pPa4sp0ZB4K"
@@ -597,7 +617,7 @@
       "url": "https://open.spotify.com/track/2E32Pv8w20r6ZH4oFecxOf"
     },
     {
-      "added_at": "2023-10-12 22:01:00",
+      "added_at": "2023-10-17 13:56:12",
       "album": {
         "name": "Vegeta (feat. N\u00e9za)",
         "url": "https://open.spotify.com/album/0kqfgJpLsbN2pysxJoNIfg"
@@ -617,7 +637,7 @@
       "url": "https://open.spotify.com/track/73TYUZ7vZ6hFP0p5NXin0g"
     },
     {
-      "added_at": "2023-10-12 22:01:00",
+      "added_at": "2023-10-17 13:56:12",
       "album": {
         "name": "Santana Season",
         "url": "https://open.spotify.com/album/4oUqxRcUDEwAPqpYgOYuUG"
@@ -637,23 +657,7 @@
       "url": "https://open.spotify.com/track/6gs7AIeuNkpktUbwZcES2Y"
     },
     {
-      "added_at": "2023-10-12 22:01:00",
-      "album": {
-        "name": "Seconda Generazione",
-        "url": "https://open.spotify.com/album/24IVSn11Caw7nz7bbIAkFa"
-      },
-      "artists": [
-        {
-          "name": "Baby Gang",
-          "url": "https://open.spotify.com/artist/3LvwPiJQJ0da0GurKMToV0"
-        }
-      ],
-      "duration_ms": 137079,
-      "name": "Seconda Generazione",
-      "url": "https://open.spotify.com/track/5JynzqA5qFHXs28M078yl6"
-    },
-    {
-      "added_at": "2023-10-12 22:01:00",
+      "added_at": "2023-10-17 13:56:12",
       "album": {
         "name": "Shawty (feat. ANNA)",
         "url": "https://open.spotify.com/album/0Lk62qOfyMoDWD4iIpNZjy"
@@ -673,7 +677,7 @@
       "url": "https://open.spotify.com/track/2FSyRgYesfoqC0xGVmHgeH"
     },
     {
-      "added_at": "2023-10-12 22:01:00",
+      "added_at": "2023-10-17 13:56:12",
       "album": {
         "name": "VIDA LOCA (feat. Medy)",
         "url": "https://open.spotify.com/album/060HF45et7bfm9rkxtLPBP"
@@ -693,7 +697,7 @@
       "url": "https://open.spotify.com/track/12zyH8VBFJiu3SOR1FMiYv"
     },
     {
-      "added_at": "2023-10-12 22:01:00",
+      "added_at": "2023-10-17 13:56:12",
       "album": {
         "name": "IL CORAGGIO DEI BAMBINI",
         "url": "https://open.spotify.com/album/5FAlSQMZ4j8pPa4sp0ZB4K"
@@ -709,27 +713,7 @@
       "url": "https://open.spotify.com/track/5x9LonDyHxGUO2VzfHJHLE"
     },
     {
-      "added_at": "2023-10-12 22:01:00",
-      "album": {
-        "name": "LEVANTE (feat. Paky)",
-        "url": "https://open.spotify.com/album/3eZqA45DiafIF7obBL69jg"
-      },
-      "artists": [
-        {
-          "name": "Simba La Rue",
-          "url": "https://open.spotify.com/artist/2PEMswqQspTSsAltdeF5kO"
-        },
-        {
-          "name": "Paky",
-          "url": "https://open.spotify.com/artist/1KQJOTeIMbixtnSWY4sYs2"
-        }
-      ],
-      "duration_ms": 139610,
-      "name": "LEVANTE (feat. Paky)",
-      "url": "https://open.spotify.com/track/5J40VCMOSuXZZAGJZeFzQJ"
-    },
-    {
-      "added_at": "2023-10-12 22:01:00",
+      "added_at": "2023-10-17 13:56:12",
       "album": {
         "name": "10",
         "url": "https://open.spotify.com/album/0wseGI0Yw53Ys8W7QGX36a"
@@ -761,7 +745,23 @@
       "url": "https://open.spotify.com/track/3wld38PU9xGmtSbO5elWSt"
     },
     {
-      "added_at": "2023-10-12 22:01:00",
+      "added_at": "2023-10-17 13:56:12",
+      "album": {
+        "name": "Seconda Generazione",
+        "url": "https://open.spotify.com/album/24IVSn11Caw7nz7bbIAkFa"
+      },
+      "artists": [
+        {
+          "name": "Baby Gang",
+          "url": "https://open.spotify.com/artist/3LvwPiJQJ0da0GurKMToV0"
+        }
+      ],
+      "duration_ms": 137079,
+      "name": "Seconda Generazione",
+      "url": "https://open.spotify.com/track/5JynzqA5qFHXs28M078yl6"
+    },
+    {
+      "added_at": "2023-10-17 13:56:12",
       "album": {
         "name": "Milano Demons",
         "url": "https://open.spotify.com/album/202T8cUT1c3oQarCOJBy6m"
@@ -781,7 +781,7 @@
       "url": "https://open.spotify.com/track/0AbDjrdgKTXzGzvQ1drgQl"
     },
     {
-      "added_at": "2023-10-12 22:01:00",
+      "added_at": "2023-10-17 13:56:12",
       "album": {
         "name": "Lovebars",
         "url": "https://open.spotify.com/album/37uJcI0dW70M5Hbg1WearN"
@@ -801,7 +801,7 @@
       "url": "https://open.spotify.com/track/6O7pAOsUm3d9R37vYdQnG5"
     },
     {
-      "added_at": "2023-10-12 22:01:00",
+      "added_at": "2023-10-17 13:56:12",
       "album": {
         "name": "Stylist (feat. Gu\u00e8)",
         "url": "https://open.spotify.com/album/51AjDPkrqMcW3WnXUiWJX5"
@@ -821,7 +821,7 @@
       "url": "https://open.spotify.com/track/7IGBoOaXAd5IbNZLv5rZFT"
     },
     {
-      "added_at": "2023-10-12 22:01:00",
+      "added_at": "2023-10-17 13:56:12",
       "album": {
         "name": "Baby Mama",
         "url": "https://open.spotify.com/album/3P40qeC2k4oGbF89ppRUJO"
@@ -837,7 +837,27 @@
       "url": "https://open.spotify.com/track/4Y60H8heDsEpQ2hin2g6V5"
     },
     {
-      "added_at": "2023-10-12 22:01:00",
+      "added_at": "2023-10-17 13:56:12",
+      "album": {
+        "name": "La Divina Commedia",
+        "url": "https://open.spotify.com/album/4ir7AIjfrMVHTxZhnfzhWl"
+      },
+      "artists": [
+        {
+          "name": "Tedua",
+          "url": "https://open.spotify.com/artist/1AgAVqo74e2q4FVvg0xpT7"
+        },
+        {
+          "name": "Lazza",
+          "url": "https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM"
+        }
+      ],
+      "duration_ms": 148367,
+      "name": "Volgare (feat. Lazza)",
+      "url": "https://open.spotify.com/track/708IwQiqAhZMMpLQr41YkD"
+    },
+    {
+      "added_at": "2023-10-17 13:56:12",
       "album": {
         "name": "ASPETTANDO LA BELLA VITA - Before and After",
         "url": "https://open.spotify.com/album/2Ai4mlifU1ng53CBXc93L5"
@@ -853,7 +873,7 @@
       "url": "https://open.spotify.com/track/3UAqmfO3U40eRAM8Cy8dbR"
     },
     {
-      "added_at": "2023-10-12 22:01:00",
+      "added_at": "2023-10-17 13:56:12",
       "album": {
         "name": "Caramelo",
         "url": "https://open.spotify.com/album/3hxUAd6Nbyz4hGOOq3iwfk"
@@ -877,27 +897,7 @@
       "url": "https://open.spotify.com/track/12DTLo6iqsIhzLZ53CPMf4"
     },
     {
-      "added_at": "2023-10-12 22:01:00",
-      "album": {
-        "name": "La Divina Commedia",
-        "url": "https://open.spotify.com/album/4ir7AIjfrMVHTxZhnfzhWl"
-      },
-      "artists": [
-        {
-          "name": "Tedua",
-          "url": "https://open.spotify.com/artist/1AgAVqo74e2q4FVvg0xpT7"
-        },
-        {
-          "name": "Lazza",
-          "url": "https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM"
-        }
-      ],
-      "duration_ms": 148367,
-      "name": "Volgare (feat. Lazza)",
-      "url": "https://open.spotify.com/track/708IwQiqAhZMMpLQr41YkD"
-    },
-    {
-      "added_at": "2023-10-12 22:01:00",
+      "added_at": "2023-10-17 13:56:12",
       "album": {
         "name": "IL CORAGGIO DEI BAMBINI - ATTO II",
         "url": "https://open.spotify.com/album/0aGXQkS5LTFhYswwXJ8vJ6"
@@ -917,7 +917,7 @@
       "url": "https://open.spotify.com/track/7Da5kjy5GByLHE5OPQ4tpg"
     },
     {
-      "added_at": "2023-10-12 22:01:00",
+      "added_at": "2023-10-17 13:56:12",
       "album": {
         "name": "The Globe",
         "url": "https://open.spotify.com/album/0Wp32iRbmSA3VvGZmAYjDv"
@@ -933,7 +933,7 @@
       "url": "https://open.spotify.com/track/0QZYznuUxIPXs7gY8CPvS4"
     },
     {
-      "added_at": "2023-10-12 22:01:00",
+      "added_at": "2023-10-17 13:56:12",
       "album": {
         "name": "TAXI SULLA LUNA",
         "url": "https://open.spotify.com/album/1Q2gs2NTXULiFqwCiv5JdG"
@@ -957,7 +957,7 @@
       "url": "https://open.spotify.com/track/0JONs2ETXIHvYVxNris8Bf"
     },
     {
-      "added_at": "2023-10-12 22:01:00",
+      "added_at": "2023-10-17 13:56:12",
       "album": {
         "name": "Radio Gotham",
         "url": "https://open.spotify.com/album/6hGUJpYzwN9DPqVUC2onlU"
@@ -977,7 +977,7 @@
       "url": "https://open.spotify.com/track/0uXDSAM6q44glALKnQQyqW"
     },
     {
-      "added_at": "2023-10-12 22:01:00",
+      "added_at": "2023-10-17 13:56:12",
       "album": {
         "name": "La Divina Commedia",
         "url": "https://open.spotify.com/album/4ir7AIjfrMVHTxZhnfzhWl"
@@ -993,7 +993,7 @@
       "url": "https://open.spotify.com/track/3myPe2jZvDbPoNXY7v2TU0"
     },
     {
-      "added_at": "2023-10-12 22:01:00",
+      "added_at": "2023-10-17 13:56:12",
       "album": {
         "name": "Maltempo",
         "url": "https://open.spotify.com/album/1Jopcn1DSXFQzDvj53uDpw"

@@ -4,7 +4,7 @@
 
 > Soft and cozy vocal and instrumental Jazz\. Cover: Melody Gardot
 
-307 songs - 23 hr 3 min
+308 songs - 23 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -85,7 +85,7 @@
 | [Even in the Evenin'](https://open.spotify.com/track/6YbbXubrxAnXsJLZSJnb7l) | [Rachael & Vilray](https://open.spotify.com/artist/3UHyuBA5qay3xcxFr3Z1Y9) | [I Love A Love Song!](https://open.spotify.com/album/0j551HTufOYW6EJ9CQwNrD) | 3:47 | 2023-01-19 |  |
 | [Everybody Knows](https://open.spotify.com/track/0Jfz8rtw11v3Mixr4yTorQ) | [Karen Souza](https://open.spotify.com/artist/2d5lQo9YQ1DkAsBKTRp7Iu) | [Everybody Knows](https://open.spotify.com/album/3VBajOBgjfC2BSlonO8KwT) | 2:48 | 2021-12-17 |  |
 | [Everybody's Talkin'](https://open.spotify.com/track/4yjJYX9BZrkbUoF82cYJ9T) | [Madeleine Peyroux](https://open.spotify.com/artist/7nXyULtoL8k7wP9l6kg8Ef) | [Half The Perfect World](https://open.spotify.com/album/3KniUiE1O3h7CWWJ6eByiY) | 5:09 | 2021-12-17 | 2022-07-21 |
-| [Everybody's Talkin'](https://open.spotify.com/track/0sIzgvwRYgOwAJIKIQ35mo) | [Madeleine Peyroux](https://open.spotify.com/artist/7nXyULtoL8k7wP9l6kg8Ef) | [Half The Perfect World](https://open.spotify.com/album/6krx8ZgiDPDVTKDoZGwevx) | 5:10 | 2022-08-11 |  |
+| [Everybody's Talkin'](https://open.spotify.com/track/0sIzgvwRYgOwAJIKIQ35mo) | [Madeleine Peyroux](https://open.spotify.com/artist/7nXyULtoL8k7wP9l6kg8Ef) | [Half The Perfect World](https://open.spotify.com/album/6krx8ZgiDPDVTKDoZGwevx) | 5:10 | 2022-08-11 | 2023-10-18 |
 | [Everything Happens to Me](https://open.spotify.com/track/7vBeurhHC4d7lQ0MIvCKcP) | [Connie Lansberg](https://open.spotify.com/artist/4qLq0MatI5KT1xG49JK84A), [Mark Fitzgibbon](https://open.spotify.com/artist/6pGS8ODz3Vpeg4b6XOj2jB), [Ben Hanlon](https://open.spotify.com/artist/5wmOjwX4DBUnoS9Qz9A1WY), [Peter Hodges](https://open.spotify.com/artist/6R24JW8eOgeuOMGkehKfYh) | [Everything Happens to Me](https://open.spotify.com/album/52WQ5RrOAA9BgZ6MiXxSDZ) | 6:19 | 2023-01-25 |  |
 | [Everytime We Say Goodbye](https://open.spotify.com/track/1Bh6O68WlWPtnm7aFIJBHL) | [Karrin Allyson](https://open.spotify.com/artist/118jMO6hdUQeoDOv0XiLIs) | [Ballads](https://open.spotify.com/album/0ZIJ91AiwAbFte9hDDgvQs) | 6:01 | 2021-12-17 |  |
 | [Five Feet Tall](https://open.spotify.com/track/3Td12QdISvxCc924l70f8n) | [Lady Blackbird](https://open.spotify.com/artist/0CcvfJAMRa28MnCnujCdXQ) | [Black Acid Soul](https://open.spotify.com/album/50rbF4FiainFjqW5wWIASV) | 3:20 | 2022-02-18 | 2023-04-27 |
@@ -299,6 +299,7 @@
 | [What Love Will Do to You](https://open.spotify.com/track/4bOsrHAmfULYx4PmkLV7nr) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Everything I Know About Love](https://open.spotify.com/album/3t4SFDwWJlt7A3RQS2YT1c) | 2:51 | 2022-08-30 | 2022-10-13 |
 | [What'll I Do](https://open.spotify.com/track/3XKJb8TvplQ7iZcr4dfA2J) | [Connie Lansberg](https://open.spotify.com/artist/4qLq0MatI5KT1xG49JK84A), [Mark Fitzgibbon](https://open.spotify.com/artist/6pGS8ODz3Vpeg4b6XOj2jB), [Ben Hanlon](https://open.spotify.com/artist/5wmOjwX4DBUnoS9Qz9A1WY), [Peter Hodges](https://open.spotify.com/artist/6R24JW8eOgeuOMGkehKfYh) | [What'll I Do](https://open.spotify.com/album/5Kr5XbBJCKgQEYkCki7Ddz) | 4:05 | 2021-12-17 |  |
 | [When I Grow Too Old To Dream \- Remastered 1999](https://open.spotify.com/track/1CANiqTKDkdkLklQnvGjvf) | [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7) | [After Midnight: The Complete Session](https://open.spotify.com/album/47jpunMpghKYwZPtXWVE81) | 3:34 | 2021-12-17 | 2022-05-03 |
+| [When Sunny Gets Blue](https://open.spotify.com/track/2ttCdSWedaPtOltZLPZVAT) | [Stína Ágústsdóttir](https://open.spotify.com/artist/7tn2NxdUjOm9WuvEXQNhLi), [Carl Bagge](https://open.spotify.com/artist/052RNZarYkMsvs3jzWLtIF) | [When Sunny Gets Blue](https://open.spotify.com/album/2tcBjPtxrfZLep0WKsdVAR) | 4:24 | 2023-10-13 |  |
 | [When The World Was Young](https://open.spotify.com/track/041C0yfThCF0m5dKdrO3zZ) | [Anita O'Day](https://open.spotify.com/artist/5QGnprJtpZmk3OiDqspPlB), [The Three Sounds](https://open.spotify.com/artist/5wVeG4RM2VXsFwyylF8vXi) | [Anita O'Day And The Three Sounds](https://open.spotify.com/album/7FocJoTkE5a9i9ngXe4xCX) | 3:29 | 2021-12-17 |  |
 | [Where Are You?](https://open.spotify.com/track/4yJgdugXPQIzvWBwFUJbS4) | [Joshua Redman](https://open.spotify.com/artist/3uaHfXYx9Fh4HjqMbrWn5S), [Gabrielle Cavassa](https://open.spotify.com/artist/6V9mKint0pfZjIbeFF9vQk) | [where are we](https://open.spotify.com/album/6lI2Db6atrpRHt0l76DQCl) | 5:10 | 2023-09-15 |  |
 | [Where or When](https://open.spotify.com/track/1rHik9ppPQRXSSu1oUr4bR) | [Harry Connick, Jr.](https://open.spotify.com/artist/6u17YlWtW4oqFF5Hn9UU79) | [When Harry Met Sally..\. Music From The Motion Picture](https://open.spotify.com/album/3ENgsXeS6nDq8F5YtSmiMv) | 3:50 | 2022-09-27 |  |

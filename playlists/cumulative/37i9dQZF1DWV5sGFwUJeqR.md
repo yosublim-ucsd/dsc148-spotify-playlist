@@ -4,7 +4,7 @@
 
 > El género cubano cantable y bailable por excelencia.
 
-96 songs - 6 hr 59 min
+97 songs - 7 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -71,8 +71,9 @@
 | [Mamá, Son de la Loma \- Remastered](https://open.spotify.com/track/2LWnouovxMRFloLrQauYuq) | [Trio Matamoros](https://open.spotify.com/artist/49J2FQGwlcwdE3AHT2PSOW) | [Canciones Escogidas Vol\. 1 \(Remastered\)](https://open.spotify.com/album/5PeiOUjHjxim33esgympO8) | 3:35 | 2022-03-31 | 2022-11-13 |
 | [Maria Cristina](https://open.spotify.com/track/6R9jgcolWRwvk6WLqzp27A) | [Vieja Trova Santiaguera](https://open.spotify.com/artist/2t7ndReOwR0bTqTaDxYa9G) | [La Manigua](https://open.spotify.com/album/0pTHZMeercs65EFh1FVvkh) | 3:35 | 2020-04-30 |  |
 | [María Cristina](https://open.spotify.com/track/4Xv4uk1GgiXmGzYwL0epmp) | [Eliades Ochoa](https://open.spotify.com/artist/0hXHTWhBUEpkyHJ0GnghEH) | [A la Casa de la Trova](https://open.spotify.com/album/5cljr3Hz3IcPhAkiatbqzH) | 4:19 | 2022-03-31 | 2022-11-13 |
+| [María Cristina](https://open.spotify.com/track/5pVvjk5idRFnXDqce0arzB) | [Eliades Ochoa](https://open.spotify.com/artist/0hXHTWhBUEpkyHJ0GnghEH) | [A la Casa de la Trova](https://open.spotify.com/album/6atv4MQGvzTXqoZqP8bzkB) | 4:20 | 2022-03-31 |  |
 | [María Cristina](https://open.spotify.com/track/279TPEj1lcIEBaRQ4DH6IX) | [Eliades Ochoa](https://open.spotify.com/artist/0hXHTWhBUEpkyHJ0GnghEH), [Cuarteto Patria](https://open.spotify.com/artist/4Ui5j0V10gw9x6KF7yiGSG) | [Grandes Éxitos](https://open.spotify.com/album/0MLWqckYFaqCJ0bHe5BTL1) | 4:18 | 2020-04-30 | 2022-07-29 |
-| [María Cristina \- Remasterizado](https://open.spotify.com/track/7kdvfkBv1j9PbzsQNny0lu) | [Eliades Ochoa](https://open.spotify.com/artist/0hXHTWhBUEpkyHJ0GnghEH), [Cuarteto Patria](https://open.spotify.com/artist/4Ui5j0V10gw9x6KF7yiGSG) | [The Real Cuban Music \(Remasterizado\)](https://open.spotify.com/album/6s2UJLlcl1vN8FafWsbcHT) | 4:20 | 2022-03-31 |  |
+| [María Cristina \- Remasterizado](https://open.spotify.com/track/7kdvfkBv1j9PbzsQNny0lu) | [Eliades Ochoa](https://open.spotify.com/artist/0hXHTWhBUEpkyHJ0GnghEH), [Cuarteto Patria](https://open.spotify.com/artist/4Ui5j0V10gw9x6KF7yiGSG) | [The Real Cuban Music \(Remasterizado\)](https://open.spotify.com/album/6s2UJLlcl1vN8FafWsbcHT) | 4:20 | 2022-03-31 | 2023-10-18 |
 | [Mishugia Mambo](https://open.spotify.com/track/2tadAdX8nId1fdu4Re6gDE) | [La Playa Sextet](https://open.spotify.com/artist/2sOjbVJo60mStZl19NDcUn) | [Latin Gold Collection](https://open.spotify.com/album/2O8OijldTY0tq1lQSjg7xP) | 2:50 | 2022-03-31 | 2023-09-15 |
 | [Mishugina Mambo](https://open.spotify.com/track/4tblDuwg3we3mNlReAVnpp) | [La Plata Sextette](https://open.spotify.com/artist/03WWStprwg54aetkrwgt6A) | [Latin Gold Collection](https://open.spotify.com/album/2pzdf0dvm1GWlLwNzCFUik) | 2:50 | 2020-04-30 | 2022-07-29 |
 | [Mishugina Mambo](https://open.spotify.com/track/6SEud1Q0cdFU3ANs8GJORg) | [La Plata Sextette](https://open.spotify.com/artist/03WWStprwg54aetkrwgt6A) | [The la Plata Sextette Swings](https://open.spotify.com/album/6eucUr99VUgZ7aseMfiNUP) | 2:50 | 2022-03-31 |  |

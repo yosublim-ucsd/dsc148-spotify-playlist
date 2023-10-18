@@ -1187,6 +1187,24 @@
     },
     {
       "album": {
+        "name": "A la Casa de la Trova",
+        "url": "https://open.spotify.com/album/6atv4MQGvzTXqoZqP8bzkB"
+      },
+      "artists": [
+        {
+          "name": "Eliades Ochoa",
+          "url": "https://open.spotify.com/artist/0hXHTWhBUEpkyHJ0GnghEH"
+        }
+      ],
+      "date_added": "2022-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260640,
+      "name": "Mar\u00eda Cristina",
+      "url": "https://open.spotify.com/track/5pVvjk5idRFnXDqce0arzB"
+    },
+    {
+      "album": {
         "name": "Grandes \u00c9xitos",
         "url": "https://open.spotify.com/album/0MLWqckYFaqCJ0bHe5BTL1"
       },
@@ -1224,7 +1242,7 @@
       ],
       "date_added": "2022-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-18",
       "duration_ms": 260266,
       "name": "Mar\u00eda Cristina - Remasterizado",
       "url": "https://open.spotify.com/track/7kdvfkBv1j9PbzsQNny0lu"

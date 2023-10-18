@@ -1,12 +1,12 @@
 {
   "description": "Al coraz\u00f3n! Foto: Karina.",
-  "num_followers": 187567,
+  "num_followers": 187677,
   "original_name": "Cumbia y Romance",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhNzhlMDE4NTAzYTBjYjhiNjZhMjM5YzZmMmQwYWJhYWZjNDBkYWNk",
+  "snapshot_id": "MCw5ZWE1Mjc5MWNjNDgxOWE3NjZlMmZjNTk0OGI4Yzc5NDMxN2I5YjU4",
   "tracks": [
     {
       "added_at": "2023-10-06 03:00:00",
@@ -535,22 +535,6 @@
     {
       "added_at": "2023-10-06 03:00:00",
       "album": {
-        "name": "El Color De Tu Coraz\u00f3n",
-        "url": "https://open.spotify.com/album/4i5dZPh3Yu4S4F4CAu0LRv"
-      },
-      "artists": [
-        {
-          "name": "Grupo Red",
-          "url": "https://open.spotify.com/artist/7zGKMkRT4IMLgAJmFhf5cz"
-        }
-      ],
-      "duration_ms": 195586,
-      "name": "No Podre Olvidarme",
-      "url": "https://open.spotify.com/track/3tl8h7FZbALLLTGk5MPeHL"
-    },
-    {
-      "added_at": "2023-10-06 03:00:00",
-      "album": {
         "name": "Es Tan Grande Este Amor",
         "url": "https://open.spotify.com/album/2zJ3aQpwT8EmleuSKUEsdD"
       },
@@ -563,6 +547,22 @@
       "duration_ms": 194177,
       "name": "Es Tan Grande Este Amor",
       "url": "https://open.spotify.com/track/0Nl0IAfEDsrk2jPxxR4ZEx"
+    },
+    {
+      "added_at": "2023-10-06 03:00:00",
+      "album": {
+        "name": "El Color De Tu Coraz\u00f3n",
+        "url": "https://open.spotify.com/album/4i5dZPh3Yu4S4F4CAu0LRv"
+      },
+      "artists": [
+        {
+          "name": "Grupo Red",
+          "url": "https://open.spotify.com/artist/7zGKMkRT4IMLgAJmFhf5cz"
+        }
+      ],
+      "duration_ms": 195586,
+      "name": "No Podre Olvidarme",
+      "url": "https://open.spotify.com/track/3tl8h7FZbALLLTGk5MPeHL"
     },
     {
       "added_at": "2023-10-06 03:00:00",
@@ -1247,6 +1247,22 @@
     {
       "added_at": "2023-10-06 03:00:00",
       "album": {
+        "name": "Mensajeros del Amor",
+        "url": "https://open.spotify.com/album/2yD6FFYH2YGoaRCOcdfsR6"
+      },
+      "artists": [
+        {
+          "name": "Mensajeros del Amor",
+          "url": "https://open.spotify.com/artist/3IbAQiPGvV3aSwvYBMo3o3"
+        }
+      ],
+      "duration_ms": 192120,
+      "name": "El Soy Yo",
+      "url": "https://open.spotify.com/track/3GYyjWrmZF5GVKDs4iUkh0"
+    },
+    {
+      "added_at": "2023-10-06 03:00:00",
+      "album": {
         "name": "Tu Marca",
         "url": "https://open.spotify.com/album/7eAmdtMfLjpeRoam6fzHVc"
       },
@@ -1263,22 +1279,6 @@
       "duration_ms": 210236,
       "name": "Tu Marca",
       "url": "https://open.spotify.com/track/4kdEmhRyZcLbwhSTqjc4vH"
-    },
-    {
-      "added_at": "2023-10-06 03:00:00",
-      "album": {
-        "name": "Mensajeros del Amor",
-        "url": "https://open.spotify.com/album/2yD6FFYH2YGoaRCOcdfsR6"
-      },
-      "artists": [
-        {
-          "name": "Mensajeros del Amor",
-          "url": "https://open.spotify.com/artist/3IbAQiPGvV3aSwvYBMo3o3"
-        }
-      ],
-      "duration_ms": 192120,
-      "name": "El Soy Yo",
-      "url": "https://open.spotify.com/track/3GYyjWrmZF5GVKDs4iUkh0"
     },
     {
       "added_at": "2023-10-06 03:00:00",
@@ -1347,18 +1347,22 @@
     {
       "added_at": "2023-10-06 03:00:00",
       "album": {
-        "name": "20 Grandes \u00c9xitos",
-        "url": "https://open.spotify.com/album/3iNy7btWJcxCSAOIBEU8v6"
+        "name": "Lo Mejor del Amor",
+        "url": "https://open.spotify.com/album/5vEQgXaLtCU2bozKTWOx6t"
       },
       "artists": [
         {
-          "name": "Leo Mattioli",
-          "url": "https://open.spotify.com/artist/2Mu8h5sFkOziL0Rfn7FXIA"
+          "name": "Rodrigo",
+          "url": "https://open.spotify.com/artist/235Vf4hkmwvxjVEMuCbRxm"
+        },
+        {
+          "name": "The La Planta",
+          "url": "https://open.spotify.com/artist/4oZolC0sCwCAKqsNXfRlVS"
         }
       ],
-      "duration_ms": 209133,
-      "name": "Yo Que Te Am\u00e9",
-      "url": "https://open.spotify.com/track/2DHJHxgnQZwkcmwvANdiui"
+      "duration_ms": 167600,
+      "name": "Lo Mejor del Amor",
+      "url": "https://open.spotify.com/track/6kQXTmUGWXtzw40zxv1yUz"
     },
     {
       "added_at": "2023-10-06 03:00:00",
@@ -1379,22 +1383,18 @@
     {
       "added_at": "2023-10-06 03:00:00",
       "album": {
-        "name": "Lo Mejor del Amor",
-        "url": "https://open.spotify.com/album/5vEQgXaLtCU2bozKTWOx6t"
+        "name": "20 Grandes \u00c9xitos",
+        "url": "https://open.spotify.com/album/3iNy7btWJcxCSAOIBEU8v6"
       },
       "artists": [
         {
-          "name": "Rodrigo",
-          "url": "https://open.spotify.com/artist/235Vf4hkmwvxjVEMuCbRxm"
-        },
-        {
-          "name": "The La Planta",
-          "url": "https://open.spotify.com/artist/4oZolC0sCwCAKqsNXfRlVS"
+          "name": "Leo Mattioli",
+          "url": "https://open.spotify.com/artist/2Mu8h5sFkOziL0Rfn7FXIA"
         }
       ],
-      "duration_ms": 167600,
-      "name": "Lo Mejor del Amor",
-      "url": "https://open.spotify.com/track/6kQXTmUGWXtzw40zxv1yUz"
+      "duration_ms": 209133,
+      "name": "Yo Que Te Am\u00e9",
+      "url": "https://open.spotify.com/track/2DHJHxgnQZwkcmwvANdiui"
     },
     {
       "added_at": "2023-10-06 03:00:00",
@@ -1435,22 +1435,6 @@
     {
       "added_at": "2023-10-06 03:00:00",
       "album": {
-        "name": "La Gata",
-        "url": "https://open.spotify.com/album/2HCzXSG2VU7NJ4NabIHYEU"
-      },
-      "artists": [
-        {
-          "name": "Antonio Rios",
-          "url": "https://open.spotify.com/artist/7s652lD4v77szrPEfgMTBi"
-        }
-      ],
-      "duration_ms": 231466,
-      "name": "Yo Me Estoy Enamorando",
-      "url": "https://open.spotify.com/track/2HlkWajTgCkjW8VxAdZCYN"
-    },
-    {
-      "added_at": "2023-10-06 03:00:00",
-      "album": {
         "name": "Olv\u00eddame Si Puedes",
         "url": "https://open.spotify.com/album/07k20XjUo2eH3ehAjTNZ7H"
       },
@@ -1463,6 +1447,22 @@
       "duration_ms": 231880,
       "name": "Me Extra\u00f1ar\u00e1s",
       "url": "https://open.spotify.com/track/4s0uLfMAgXbPgmPgOVG7qe"
+    },
+    {
+      "added_at": "2023-10-06 03:00:00",
+      "album": {
+        "name": "La Gata",
+        "url": "https://open.spotify.com/album/2HCzXSG2VU7NJ4NabIHYEU"
+      },
+      "artists": [
+        {
+          "name": "Antonio Rios",
+          "url": "https://open.spotify.com/artist/7s652lD4v77szrPEfgMTBi"
+        }
+      ],
+      "duration_ms": 231466,
+      "name": "Yo Me Estoy Enamorando",
+      "url": "https://open.spotify.com/track/2HlkWajTgCkjW8VxAdZCYN"
     },
     {
       "added_at": "2023-10-06 03:00:00",

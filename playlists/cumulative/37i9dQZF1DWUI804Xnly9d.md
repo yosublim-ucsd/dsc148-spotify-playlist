@@ -4,7 +4,7 @@
 
 > Magic of acoustic poured into your Chai
 
-197 songs - 11 hr 7 min
+198 songs - 11 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -89,7 +89,7 @@
 | [Kaisi Jadugari](https://open.spotify.com/track/6gkf7KZtpXHSRDuAyIkEMA) | [Shashwat Sachdev](https://open.spotify.com/artist/465OXuCU8YZNmVG1leLwQ9), [Prateek Kuhad](https://open.spotify.com/artist/0tC995Rfn9k2l7nqgCZsV7) | [Kaisi Jadugari](https://open.spotify.com/album/157Zl2ubrkwXp4w73P1uhL) | 4:27 | 2023-05-17 |  |
 | [Kajal](https://open.spotify.com/track/0YVpNFgaEt2NFBAcUBiZU0) | [Munawar Faruqui](https://open.spotify.com/artist/7yLGN6pQ3Fll8eWpjJwwQl) | [Madari](https://open.spotify.com/album/44VVN1lOB0mYZFEMDv5yX8) | 2:41 | 2023-06-09 | 2023-08-04 |
 | [Karen Kya](https://open.spotify.com/track/0ufrMgjMiBMuu7TnAnJSdZ) | [Rochak Kohli](https://open.spotify.com/artist/3dN9MQpjIyNxyeRfz4EDZe), [Dr Akhtar Shumaar](https://open.spotify.com/artist/4ojgUUCvN7XHnSfWfwhjKe) | [Karen Kya](https://open.spotify.com/album/6HFLQ3jFCkbqPkM2XanILd) | 3:26 | 2023-05-17 |  |
-| [Kasam Se](https://open.spotify.com/track/53XRfIgocnwDCIkpCEyqbU) | [Armaan Malik](https://open.spotify.com/artist/4IKVDbCSBTxBeAsMKjAuTs), [Amaal Mallik](https://open.spotify.com/artist/76fuWYgIf3TVIopTs3vaJ6) | [Kasam Se](https://open.spotify.com/album/6HnM6hiRAbIahYlLkguthy) | 3:05 | 2023-09-01 |  |
+| [Kasam Se](https://open.spotify.com/track/53XRfIgocnwDCIkpCEyqbU) | [Armaan Malik](https://open.spotify.com/artist/4IKVDbCSBTxBeAsMKjAuTs), [Amaal Mallik](https://open.spotify.com/artist/76fuWYgIf3TVIopTs3vaJ6) | [Kasam Se](https://open.spotify.com/album/6HnM6hiRAbIahYlLkguthy) | 3:05 | 2023-09-01 | 2023-10-18 |
 | [Kasoor \- Acoustic](https://open.spotify.com/track/117gRrOjnRkMCgWxNtDNSv) | [Prateek Kuhad](https://open.spotify.com/artist/0tC995Rfn9k2l7nqgCZsV7) | [Shehron Ke Raaz](https://open.spotify.com/album/0OU05VmEgCYZE5JxpD07BZ) | 3:33 | 2023-05-17 |  |
 | [Kehedo Sanam](https://open.spotify.com/track/5oJgaEPgb8n6oG6E7rlL5T) | [Kumar Sanu](https://open.spotify.com/artist/4K6blSRoklNdpw4mzLxwfn) | [Kehedo Sanam](https://open.spotify.com/album/36vvhudUd2zaFouRIIaltH) | 4:49 | 2023-07-24 | 2023-08-31 |
 | [Khaali Panne](https://open.spotify.com/track/0uylAfhVFCGKdq6HkZimDX) | [Meghna Mishra](https://open.spotify.com/artist/3vJxJcGRIPwNnWnZwO4vmq), [Varun Jain](https://open.spotify.com/artist/4gzrZDyL5gYiROkv27pYKx), [Avinash Chouhan](https://open.spotify.com/artist/0uwbmn6SWX4kujbrDTnjaj) | [Milaap](https://open.spotify.com/album/4jDgpwtnRuQ0JEj4pPG5of) | 3:46 | 2023-07-17 |  |
@@ -117,6 +117,7 @@
 | [KYUN](https://open.spotify.com/track/14cov9USWeOHrxA6eBeLpz) | [Siddharth Slathia](https://open.spotify.com/artist/3DYqdRwHGB8fjVO0JqAgN7) | [KYUN](https://open.spotify.com/album/3P3ouKXe5GLU8oVmpHmOnZ) | 3:56 | 2023-06-02 | 2023-07-14 |
 | [Kyun Dhunde](https://open.spotify.com/track/5leuT90qq5V4glfgAs651F) | [Vilen](https://open.spotify.com/artist/5gVozagAcRKYCeAVnlC3Nk) | [Kyun Dhunde](https://open.spotify.com/album/0YRCWHHUxmIfBpHvgCt52R) | 3:33 | 2023-05-17 |  |
 | [Lamhon/ Sadiyon](https://open.spotify.com/track/4jmLlG2c1rvAmKmuMKvwO9) | [Keshuv Huria](https://open.spotify.com/artist/43uO9cJvNgdhonRDXdRjsa), [Madhubanti Bagchi](https://open.spotify.com/artist/4ojkMVHjuDZgDXSJy5qs2h) | [Lamhon/ Sadiyon](https://open.spotify.com/album/5XyWfUVBUQIhFDD31UdvJJ) | 3:23 | 2023-05-17 | 2023-06-03 |
+| [Laut Aa Na Yaar](https://open.spotify.com/track/6k8e52Z0tZulQRDi6koqNj) | [OMVEE](https://open.spotify.com/artist/1RiPd3VdkxY8ypQ8QcJUTe) | [Laut Aa Na Yaar](https://open.spotify.com/album/7laVy6jsedBGBRHYEcpr9o) | 3:15 | 2023-10-17 |  |
 | [Le Aaunga \(From "Satyaprem Ki Katha"\)](https://open.spotify.com/track/2cz4qH4fCauVA93JHkUMad) | [Tanishk Bagchi](https://open.spotify.com/artist/4f7KfxeHq9BiylGmyXepGt), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw) | [Le Aaunga \(From "Satyaprem Ki Katha"\)](https://open.spotify.com/album/55AiBuh1Ljke5dd9kEby1b) | 4:03 | 2023-07-01 |  |
 | [Mahiye Jinna Sohna Unplugged](https://open.spotify.com/track/7k8g09FNAw41bJatQuR6K9) | [Darshan Raval](https://open.spotify.com/artist/2GoeZ0qOTt6kjsWW4eA6LS) | [Dard](https://open.spotify.com/album/0YzF0ImdBeODiCWejSDndM) | 2:27 | 2023-08-09 |  |
 | [Malang Sa \- Acoustic](https://open.spotify.com/track/2Eai5asMu911MtRd4eyHHF) | [Vasuda Sharma](https://open.spotify.com/artist/2ED6kjY3EyIRkxM2HAbrCL) | [Malang Sa \(Acoustic\)](https://open.spotify.com/album/2Rzu58Cx0ajSRkqcDPNGap) | 2:54 | 2023-05-17 | 2023-07-08 |

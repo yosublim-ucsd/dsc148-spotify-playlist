@@ -4,7 +4,7 @@
 
 > Our editorial picks for Folk's best of 2021 in Canada\. Cover: Ocie Elliott
 
-142 songs - 8 hr 53 min
+143 songs - 8 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -124,7 +124,8 @@
 | [Sword from the Stone](https://open.spotify.com/track/5v6Ymyfe9zPlwqzJQzpa5T) | [Passenger](https://open.spotify.com/artist/0gadJ2b9A4SKsB1RFkBb66) | [Sword from the Stone \(Gingerbread Mix\)](https://open.spotify.com/album/0egB2HPIM6cjBA6ustouKs) | 3:21 | 2021-12-01 | 2022-11-13 |
 | [that'd be alright](https://open.spotify.com/track/058OqhzpJJMM3q90Skvg2r) | [Emily James](https://open.spotify.com/artist/7FxEy78P0oIVEVxdaL9npy) | [Wanted You to Know](https://open.spotify.com/album/5MPkrXngz7F6LzCxNsmAZ4) | 2:57 | 2021-12-01 | 2022-10-14 |
 | [that'd be alright](https://open.spotify.com/track/2MuIQnJTw4dEGntnK6MSNn) | [Emily James](https://open.spotify.com/artist/7FxEy78P0oIVEVxdaL9npy) | [that'd be alright](https://open.spotify.com/album/3Itg7NVVyUe4fUJ8Jt56vP) | 2:57 | 2021-12-01 | 2022-07-29 |
-| [that'd be alright](https://open.spotify.com/track/0XQhs9ovprk2yw0QkDjevN) | [Emily James](https://open.spotify.com/artist/7FxEy78P0oIVEVxdaL9npy) | [Wanted You to Know](https://open.spotify.com/album/6uXhW6yZWHxBMeLlYTEpa6) | 2:58 | 2021-12-01 |  |
+| [that'd be alright](https://open.spotify.com/track/0XQhs9ovprk2yw0QkDjevN) | [Emily James](https://open.spotify.com/artist/7FxEy78P0oIVEVxdaL9npy) | [Wanted You to Know](https://open.spotify.com/album/6uXhW6yZWHxBMeLlYTEpa6) | 2:58 | 2021-12-01 | 2023-10-18 |
+| [that'd be alright](https://open.spotify.com/track/3rm4a3WFvyx71gXPGXsrsd) | [Emily James](https://open.spotify.com/artist/7FxEy78P0oIVEVxdaL9npy) | [Wanted You to Know](https://open.spotify.com/album/1lgJadT4fW7KnNRKHfAymy) | 2:58 | 2021-12-01 |  |
 | [The Captain Is Drunk](https://open.spotify.com/track/5z9VyMWkBCHB8iSVaLq3jk) | [Jack Johnson](https://open.spotify.com/artist/3GBPw9NK25X1Wt2OUvOwY3) | [The Captain Is Drunk](https://open.spotify.com/album/06CC7BEzIgw7a9zkKQKsOE) | 3:07 | 2021-12-01 |  |
 | [The Dark](https://open.spotify.com/track/3s5IOxoe3yc0UINOcZs6n8) | [SYML](https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0) | [The Dark](https://open.spotify.com/album/0vthbGW16gu7KsSkEeVDIh) | 4:58 | 2021-12-01 |  |
 | [The Dark](https://open.spotify.com/track/4zfdaZxEFXgZDrGP8UWq10) | [SYML](https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0) | [The Dark](https://open.spotify.com/album/0eAHJ8R9M3X1GYeBotCPVV) | 4:58 | 2021-12-01 | 2022-07-29 |

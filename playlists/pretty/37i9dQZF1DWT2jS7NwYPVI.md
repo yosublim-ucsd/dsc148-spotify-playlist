@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2jS7NwYPVI.md) - [plain]
 
 > Your cheat sheet for everything on the rise in the rock/alt world\. Cover: Beauty School Dropout
 
-[Spotify](https://open.spotify.com/user/spotify) - 433,275 likes - 125 songs - 6 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 433,302 likes - 125 songs - 6 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2jS7NwYPVI.md) - [plain]
 | 7 | [I Was Alive](https://open.spotify.com/track/7Csk3CTefKI9mEZvwNCjNX) | [Beartooth](https://open.spotify.com/artist/6vwjIs0tbIiseJMR3pqwiL) | [The Surface](https://open.spotify.com/album/5WmbnLQhy8ndx8S7puEolG) | 3:18 |
 | 8 | [By The Time You're Reading This](https://open.spotify.com/track/0uuxAXS1X7kH0WjC0nD6q9) | [YONAKA](https://open.spotify.com/artist/3Wcyta3gkOdQ4TfY0WyZpu) | [Welcome To My House](https://open.spotify.com/album/0ImZVp5Lh6vnyMUkQtnQIw) | 3:10 |
 | 9 | [It Won't Be Like This Forever](https://open.spotify.com/track/748NBl59GV0pfENbadjSxE) | [Neck Deep](https://open.spotify.com/artist/2TM0qnbJH4QPhGMCdPt7fH) | [It Won't Be Like This Forever](https://open.spotify.com/album/4iwi5cpXPASmSueTCcLPkc) | 3:27 |
-| 10 | [ring in ur ear](https://open.spotify.com/track/0pQudbYpkDgp5NvivZeTTy) | [HUNNY](https://open.spotify.com/artist/5rebfYbZVIhbRVcRKWVOAh), [Motion City Soundtrack](https://open.spotify.com/artist/19zqV9DV3txjMUjHvltl2D) | [ring in ur ear](https://open.spotify.com/album/6FJfmpnSI7zEuAlWYRR0kT) | 3:18 |
+| 10 | [ring in ur ear](https://open.spotify.com/track/2iWGSNrMCPAebDQ78YmHGt) | [HUNNY](https://open.spotify.com/artist/5rebfYbZVIhbRVcRKWVOAh), [Motion City Soundtrack](https://open.spotify.com/artist/19zqV9DV3txjMUjHvltl2D) | [new planet heaven](https://open.spotify.com/album/2yLcWY0KENr1OAQ7ZAL7vD) | 3:18 |
 | 11 | [THE OUTSIDE \- OUTSIDERS VERSION](https://open.spotify.com/track/4iGlMhSSuRHUlNAknDjvT8) | [BOYS LIKE GIRLS](https://open.spotify.com/artist/0vWCyXMrrvMlCcepuOJaGI), [3OH!3](https://open.spotify.com/artist/0FWzNDaEu9jdgcYTbcOa4F), [State Champs](https://open.spotify.com/artist/1qqdO7xMptucPDMopsOdkr), [The Summer Set](https://open.spotify.com/artist/0pwyD6DhbFWn8uVSz2Fr0w), [The Ready Set](https://open.spotify.com/artist/2eRJjYEaWyGZbOBGYFLBoC) | [THE OUTSIDE \(OUTSIDERS VERSION\)](https://open.spotify.com/album/14kvTa7vi9xBLZqg6lc1Km) | 4:04 |
 | 12 | [Young In America](https://open.spotify.com/track/0Ef2EJ0YndF0GZMQHsrOvt) | [Barns Courtney](https://open.spotify.com/artist/5tFRohaO5yEsuJxmMnlCO9) | [Young In America](https://open.spotify.com/album/1ZIQTACUeZjcf9xHHvCpQp) | 3:44 |
 | 13 | [Already Over](https://open.spotify.com/track/4Akq61SpQYUE8IuE7hHNH8) | [Mike Shinoda](https://open.spotify.com/artist/6xBZgSMsnKVmaAxzWEwMSD) | [Already Over](https://open.spotify.com/album/3c2fbU1EH35iSMWlTRqLih) | 2:40 |
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2jS7NwYPVI.md) - [plain]
 | 124 | [BATSHIT](https://open.spotify.com/track/0xA47Wk9UfpBcqSvLkfHuI) | [LOLA](https://open.spotify.com/artist/0cD96GFyKaDX2LdpHpyT7d) | [BATSHIT](https://open.spotify.com/album/6wM6nmqkAArmrS1U5pkELi) | 4:11 |
 | 125 | [My Own Hell](https://open.spotify.com/track/3FiRWP4QJ1Di59fGDOYQAR) | [JULES IS DEAD](https://open.spotify.com/artist/5inrtHsPByV845LcC1mDmM) | [My Own Hell](https://open.spotify.com/album/3MHaxJDs6Z9Z9iwVtZt8ip) | 3:25 |
 
-Snapshot ID: `MCxkOWY3YTY5NTU5NjEzODFiZjQzMWZkOTIyMTNjODk2ODRjYjkzM2U2`
+Snapshot ID: `MCw1YzIyMWEyNjkyZmZkZGQyOGI5ZTg5YTk0MGUzN2U1NjgwNWExNmVh`

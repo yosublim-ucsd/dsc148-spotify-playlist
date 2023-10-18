@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZK99LPvBBfP.md) - [plain]
 
 > Club classics from the homeland of dance music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 232,371 likes - 80 songs - 6 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 232,510 likes - 80 songs - 6 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -80,8 +80,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZK99LPvBBfP.md) - [plain]
 | 70 | [Destination Calabria \- Extended Mix](https://open.spotify.com/track/5FLHMNGjvwvvyk2gx5rNue) | [Alex Gaudino](https://open.spotify.com/artist/7vb7VLDqpLTlAy1ctTMR5d), [Crystal Waters](https://open.spotify.com/artist/2sd9Q3r0Jhqpe3w9WVuG43) | [Destination Calabria](https://open.spotify.com/album/4sRexfGVnXMBJ1k5RW5WT8) | 6:56 |
 | 71 | [Alone \- Paradise](https://open.spotify.com/track/2kZdKCN82ds6hIhBRtmHox) | [Don Carlos](https://open.spotify.com/artist/5WF9UkgNk1JGU2C76UayUq) | [Mediterraneo \(Club Favourites Collection '90/98\)](https://open.spotify.com/album/0IypwuzkXm0mIhY3ZHEn9s) | 6:46 |
 | 72 | [Another Chance \(Radio Edit\)](https://open.spotify.com/track/46WVWDw8SubxyzQUXRBWt4) | [Roger Sanchez](https://open.spotify.com/artist/1HT9k1ZSUL9IczSstOAgWJ) | [Another Chance](https://open.spotify.com/album/1KyaCwJ2Hcz1M5g7qQcmue) | 3:30 |
-| 73 | [Sueno Latino \- Paradise Version](https://open.spotify.com/track/0LsmbSRu39mBwEw4cTMpYW) | [Sueño Latino](https://open.spotify.com/artist/3E8tZZM4XEt5CBNcXDryTQ) | [Sueno Latino](https://open.spotify.com/album/4QTx2kmdAMu29VYZponTp7) | 10:34 |
-| 74 | [Little Fluffy Clouds](https://open.spotify.com/track/7H8OEVxkCgIvAvWp1MZBxw) | [The Orb](https://open.spotify.com/artist/5HAtRoEPUvGSA7ziTGB1cF) | [Adventures Beyond The Ultraworld](https://open.spotify.com/album/3IQGG1m7Pa6DAopVyxGmlL) | 4:27 |
+| 73 | [Little Fluffy Clouds](https://open.spotify.com/track/7H8OEVxkCgIvAvWp1MZBxw) | [The Orb](https://open.spotify.com/artist/5HAtRoEPUvGSA7ziTGB1cF) | [Adventures Beyond The Ultraworld](https://open.spotify.com/album/3IQGG1m7Pa6DAopVyxGmlL) | 4:27 |
+| 74 | [Sueno Latino \- Paradise Version](https://open.spotify.com/track/0LsmbSRu39mBwEw4cTMpYW) | [Sueño Latino](https://open.spotify.com/artist/3E8tZZM4XEt5CBNcXDryTQ) | [Sueno Latino](https://open.spotify.com/album/4QTx2kmdAMu29VYZponTp7) | 10:34 |
 | 75 | [Maybe The Sunset](https://open.spotify.com/track/00CQJXwhMPdoyXRlITsoBT) | [José Padilla](https://open.spotify.com/artist/7rDHusYGKfhI7ZNIGeUibU), [Lydmor](https://open.spotify.com/artist/5aubywQASFk4xdR0fVTxFR) | [So Many Colours](https://open.spotify.com/album/4WlD2i4Eb75fNj9VukkEB8) | 6:04 |
 | 76 | [Hideaway \- Deep Dish Radio Edit](https://open.spotify.com/track/2bpmisazTQ49QpLMGZGp1X) | [De'Lacy](https://open.spotify.com/artist/3PAtCGZK9u5tIBERu4y5ho) | [Hideaway / That Look \- Single](https://open.spotify.com/album/3bOj4oy7pdxaVlNYUIfHdk) | 3:31 |
 | 77 | [Stop Bajon \- Club Mix](https://open.spotify.com/track/0WRWjlZ4R7b9Jz3CVzKz4B) | [Tullio De Piscopo](https://open.spotify.com/artist/677NtrMPiyPumrSUs8lBKk) | [Acqua E Viento](https://open.spotify.com/album/7tg26RTYMYqwep1civ4E0g) | 7:14 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZK99LPvBBfP.md) - [plain]
 | 79 | [E Samba \- Club Mix](https://open.spotify.com/track/0piWS6CqL9AqUp62YmdhPV) | [Junior Jack](https://open.spotify.com/artist/583EYzsIVCz1HsEKZbuJ1k) | [Defected Presents House Masters \- Junior Jack](https://open.spotify.com/album/6R5BuoO5JiRKNM8N8OY4bw) | 7:13 |
 | 80 | [Jibaro \(Enrolle\)](https://open.spotify.com/track/39qNshURj4X8qghle1JSXq) | [Elkin & Nelson](https://open.spotify.com/artist/2B6jLXMjMSW7Jf8yBM6rVJ) | [Angeles y demonios](https://open.spotify.com/album/2w7OWXr7uD2QPYZM2qYEso) | 7:30 |
 
-Snapshot ID: `MCw0MTNhYzJhOTQ4MWI3NjY1ZDU2MzllODlmYWZmNDJmMjkxMDE5NDJk`
+Snapshot ID: `MCxlYmVmYzM5MDQzNjg1NTIwMzJkNGIxM2JjZDhmNTZlYTBmZmI1ODY4`

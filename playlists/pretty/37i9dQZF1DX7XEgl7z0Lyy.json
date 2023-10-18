@@ -1,13 +1,29 @@
 {
   "description": "music from the underworld",
-  "num_followers": 168060,
+  "num_followers": 169892,
   "original_name": "sigilkore",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1NDhlMWQ4M2Q4ZmJhZjExOWRkZDE5ZGZlMTBjZTYyODE3YjhkZWNj",
+  "snapshot_id": "MCw0MzgxNTM3NTllODM1M2MxYWQ4Y2EzYzMzYWQ2NjgwYzI1YzFkYjll",
   "tracks": [
+    {
+      "added_at": "2023-10-17 13:46:24",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/1fCKaE5RLL5N26iReqbVPp"
+      },
+      "artists": [
+        {
+          "name": "Odetari",
+          "url": "https://open.spotify.com/artist/7ITMCzIU9uII8gwRg8JAhc"
+        }
+      ],
+      "duration_ms": 129445,
+      "name": "GREEN GOBLIN - Spotify Singles",
+      "url": "https://open.spotify.com/track/1OiiHxQFLMftJpw5C8Vrar"
+    },
     {
       "added_at": "2023-09-26 15:59:33",
       "album": {
@@ -67,26 +83,6 @@
     {
       "added_at": "2023-09-22 04:00:00",
       "album": {
-        "name": "ON THE FLOOR!",
-        "url": "https://open.spotify.com/album/4Xbo3AY9xw4yTi1OpFXQDI"
-      },
-      "artists": [
-        {
-          "name": "removeface",
-          "url": "https://open.spotify.com/artist/4V83nubSLv0NZBo69fz8PF"
-        },
-        {
-          "name": "kyszenn",
-          "url": "https://open.spotify.com/artist/15OPFLuXXC5OKEavps9ukY"
-        }
-      ],
-      "duration_ms": 119895,
-      "name": "ON THE FLOOR",
-      "url": "https://open.spotify.com/track/3j9Ivwkg9sYcaR9mlnjsAX"
-    },
-    {
-      "added_at": "2023-09-22 04:00:00",
-      "album": {
         "name": "LET ME SEE YA MOVE!",
         "url": "https://open.spotify.com/album/3264fH7RgsN1aubvVgT0ny"
       },
@@ -103,6 +99,26 @@
       "duration_ms": 121734,
       "name": "LET ME SEE YA MOVE!",
       "url": "https://open.spotify.com/track/5z6IuFSIc3OrZGDC2Q9icP"
+    },
+    {
+      "added_at": "2023-09-22 04:00:00",
+      "album": {
+        "name": "ON THE FLOOR!",
+        "url": "https://open.spotify.com/album/4Xbo3AY9xw4yTi1OpFXQDI"
+      },
+      "artists": [
+        {
+          "name": "removeface",
+          "url": "https://open.spotify.com/artist/4V83nubSLv0NZBo69fz8PF"
+        },
+        {
+          "name": "kyszenn",
+          "url": "https://open.spotify.com/artist/15OPFLuXXC5OKEavps9ukY"
+        }
+      ],
+      "duration_ms": 119895,
+      "name": "ON THE FLOOR",
+      "url": "https://open.spotify.com/track/3j9Ivwkg9sYcaR9mlnjsAX"
     },
     {
       "added_at": "2023-09-22 04:00:00",
@@ -171,6 +187,22 @@
       "duration_ms": 212000,
       "name": "Sleepwalker",
       "url": "https://open.spotify.com/track/1IPHnu3hVkawJMzkP97tcm"
+    },
+    {
+      "added_at": "2023-10-17 13:51:28",
+      "album": {
+        "name": "PARTY ALL NIGHT!",
+        "url": "https://open.spotify.com/album/3R7c7RQHgK0a7lMyIwq0Km"
+      },
+      "artists": [
+        {
+          "name": "Lumi Athena",
+          "url": "https://open.spotify.com/artist/1TTHC3GlNDaE5eVoC3BVxm"
+        }
+      ],
+      "duration_ms": 107975,
+      "name": "PARTY ALL NIGHT!",
+      "url": "https://open.spotify.com/track/3IV3qgNIzvlf2dmeXX6ADw"
     },
     {
       "added_at": "2023-10-06 15:16:25",
@@ -296,7 +328,7 @@
       "added_at": "2023-09-22 04:00:00",
       "album": {
         "name": "party addict",
-        "url": "https://open.spotify.com/album/0asjbwtUwjHskzsK3nQf6A"
+        "url": "https://open.spotify.com/album/52zsEp1nlqjnzxBFRN9TCm"
       },
       "artists": [
         {
@@ -314,7 +346,7 @@
       ],
       "duration_ms": 125861,
       "name": "party addict",
-      "url": "https://open.spotify.com/track/1fp1tsLHqwy1Aj40GVyqVX"
+      "url": "https://open.spotify.com/track/0i5Lv2pnFSqZopukoniHcv"
     },
     {
       "added_at": "2023-09-22 04:00:00",
@@ -415,6 +447,26 @@
       "duration_ms": 114716,
       "name": "rock that body shawty",
       "url": "https://open.spotify.com/track/4jJRFxeC9ubCvs9F3phcJL"
+    },
+    {
+      "added_at": "2023-10-17 13:51:28",
+      "album": {
+        "name": "BREAKING BAD (feat. 9lives)",
+        "url": "https://open.spotify.com/album/6Zm6n9JULZtKsl2csQ8Emz"
+      },
+      "artists": [
+        {
+          "name": "removeface",
+          "url": "https://open.spotify.com/artist/4V83nubSLv0NZBo69fz8PF"
+        },
+        {
+          "name": "9lives",
+          "url": "https://open.spotify.com/artist/2MQN1o9W3ULxdT38vj8g4Q"
+        }
+      ],
+      "duration_ms": 124735,
+      "name": "BREAKING BAD (feat. 9lives)",
+      "url": "https://open.spotify.com/track/0ntFxM0eD0OMz4rCgRSoLO"
     },
     {
       "added_at": "2023-09-22 04:00:00",

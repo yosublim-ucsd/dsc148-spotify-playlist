@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXatk5BgNhCd7.md) - [plain]
 
 > Nuevos temas de géneros tropicales\. Foto: Sofía Reyes & Beéle.
 
-[Spotify](https://open.spotify.com/user/spotify) - 49,675 likes - 50 songs - 2 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 49,727 likes - 50 songs - 2 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXatk5BgNhCd7.md) - [plain]
 | 8 | [Es Ilegal](https://open.spotify.com/track/5qw1YRbS8qjPHrPlo5vSgJ) | [Repiola](https://open.spotify.com/artist/14rsSkmuSkij7q3SNsZSHQ) | [Es Ilegal](https://open.spotify.com/album/1yG3iQzIuAYKu9i9DRIcpY) | 3:02 |
 | 9 | [Tu Cepillo](https://open.spotify.com/track/1dLTxHGSlLtB5OEjVHCWWo) | [Daniel Santacruz](https://open.spotify.com/artist/4tLUnrSgMM7tT0zVs3wX61) | [Tu Cepillo](https://open.spotify.com/album/0e1Iu9QVXL9mgOimmGEDXr) | 3:04 |
 | 10 | [Rosa Jaguar](https://open.spotify.com/track/2Di3e6XoC6LOZ1bP0vcJlT) | [Denise Rosenthal](https://open.spotify.com/artist/73SBwOgH6mrS09OyFHdR62), [Loyaltty](https://open.spotify.com/artist/5DDpDYLDv4xasIBS6kp2wf), [Goyo](https://open.spotify.com/artist/2ECiXSK7umi1luAaQyrCUX) | [Rosa Jaguar](https://open.spotify.com/album/4AVYqLbOTTkUFEesXGcxJ8) | 3:03 |
-| 11 | [La vida es un carnaval \(Tributo a Celia Cruz\)](https://open.spotify.com/track/1MXMAR25PhMIf0rdgGutTh) | [Combinacion De La Habana](https://open.spotify.com/artist/3hfczsQRbhO3io1UwQFM1y), [Tania Pantoja](https://open.spotify.com/artist/3PechyuYiSVduLF5JD6MAB), [El Jean](https://open.spotify.com/artist/4jsfPs9ADxi4kUzQUbVg29), [EL DEY](https://open.spotify.com/artist/3WzQYqbFJ40FsLCFYwZxeF) | [La vida es un carnaval \(Tributo a Celia Cruz\)](https://open.spotify.com/album/0xAViUpder6nr3W1qZCAyR) | 3:50 |
+| 11 | [La vida es un carnaval \(Tributo a Celia Cruz\)](https://open.spotify.com/track/1MXMAR25PhMIf0rdgGutTh) | [Combinacion De La Habana](https://open.spotify.com/artist/3hfczsQRbhO3io1UwQFM1y), [Tania Pantoja](https://open.spotify.com/artist/3PechyuYiSVduLF5JD6MAB), [EL DEY](https://open.spotify.com/artist/3WzQYqbFJ40FsLCFYwZxeF), [El Jean](https://open.spotify.com/artist/4jsfPs9ADxi4kUzQUbVg29) | [La vida es un carnaval \(Tributo a Celia Cruz\)](https://open.spotify.com/album/0xAViUpder6nr3W1qZCAyR) | 3:50 |
 | 12 | [Si Esta Botella Hablara](https://open.spotify.com/track/0Vf0rzokgiMVrJtoyZ7hlv) | [Ralphy Dreamz](https://open.spotify.com/artist/5elxYg57OGXnqXm6wZDmvm) | [Si Esta Botella Hablara](https://open.spotify.com/album/3EhRpfxnTI4id5G7ynJapR) | 3:24 |
 | 13 | [EL SECRETO](https://open.spotify.com/track/65w96pwciZmFjg5p5amJuE) | [Los Lirios De Santa Fe](https://open.spotify.com/artist/75ykMrcaF4136KUIbcxBP7) | [EL SECRETO](https://open.spotify.com/album/4pleRvhfnS7L5sbDzp7Drm) | 3:17 |
 | 14 | [Cuidao Con El Romo](https://open.spotify.com/track/6DlmDTDBjFKVclmrQXUdnD) | [La Banda Gorda](https://open.spotify.com/artist/6biY6yyLVZzisjmFLx0AP1), [Juan El Talento](https://open.spotify.com/artist/3OBDyIa2m6xN9oERqSqph6) | [Cuidao Con El Romo](https://open.spotify.com/album/630qvL2B2LC9Sd5heQWxtF) | 2:58 |

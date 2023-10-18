@@ -265,6 +265,24 @@
     },
     {
       "album": {
+        "name": "4you to just love",
+        "url": "https://open.spotify.com/album/7yMLFLuzDknKgARBtrIQqq"
+      },
+      "artists": [
+        {
+          "name": "The Easy Breeze",
+          "url": "https://open.spotify.com/artist/5MpwtWtFfapulpKEjAeU81"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154105,
+      "name": "4you to just love",
+      "url": "https://open.spotify.com/track/2u7BaomZDkHMx1xfth3d5s"
+    },
+    {
+      "album": {
         "name": "6 AM",
         "url": "https://open.spotify.com/album/1jNJxQaep23GkcDFnXZdXx"
       },
@@ -4701,6 +4719,24 @@
     },
     {
       "album": {
+        "name": "Con Bajo Fidelidad",
+        "url": "https://open.spotify.com/album/48DVavFPcUDBx8p5pN0YFg"
+      },
+      "artists": [
+        {
+          "name": "The Fly Guy Five",
+          "url": "https://open.spotify.com/artist/7D5flI7hB9nzew9W2KnKm8"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130978,
+      "name": "Con Bajo Fidelidad",
+      "url": "https://open.spotify.com/track/0Ti4yQxF7IyyhK3rIT1cdw"
+    },
+    {
+      "album": {
         "name": "connected",
         "url": "https://open.spotify.com/album/7LsAX2zlDtauYV8KlGJuCZ"
       },
@@ -7260,7 +7296,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-18",
       "duration_ms": 99428,
       "name": "Flying Lofi Bugs",
       "url": "https://open.spotify.com/track/4cGt0bobV5aGn3d55XMPKv"
@@ -20084,7 +20120,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-18",
       "duration_ms": 123658,
       "name": "Time Warp",
       "url": "https://open.spotify.com/track/1nTb8o7S4rmm1ipygYSQBp"

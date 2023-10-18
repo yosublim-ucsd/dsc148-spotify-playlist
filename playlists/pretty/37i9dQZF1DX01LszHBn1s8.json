@@ -1,12 +1,12 @@
 {
   "description": "it's officially october and you know what that means....... \ud83c\udf41",
-  "num_followers": 227471,
+  "num_followers": 227621,
   "original_name": "pov",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3ODBlY2UxNjA2NmY5M2E5OGVhMDJkN2ZhMDg0MDQzZTI5MDI1Mjg0",
+  "snapshot_id": "MCxiNDk4YjEzMDVhNWIxMmJmMWIyZjNkNzExNTUzOThlNWYyYWE4MDhj",
   "tracks": [
     {
       "added_at": "2023-09-28 22:00:00",
@@ -43,6 +43,22 @@
     {
       "added_at": "2023-10-04 22:00:00",
       "album": {
+        "name": "Automatic",
+        "url": "https://open.spotify.com/album/6WABR1ifGFXjlVoK54LA3P"
+      },
+      "artists": [
+        {
+          "name": "C.Gambino",
+          "url": "https://open.spotify.com/artist/6eWjyO1r0QlvsIuIIcgGxI"
+        }
+      ],
+      "duration_ms": 130666,
+      "name": "Automatic",
+      "url": "https://open.spotify.com/track/7Fjz93GKhU5LlTacFAO8ze"
+    },
+    {
+      "added_at": "2023-10-04 22:00:00",
+      "album": {
         "name": "Si No Est\u00e1s",
         "url": "https://open.spotify.com/album/66k6EGkPtYoN44anGIsEPW"
       },
@@ -57,20 +73,20 @@
       "url": "https://open.spotify.com/track/2HafqoJbgXdtjwCOvNEF14"
     },
     {
-      "added_at": "2023-10-04 22:00:00",
+      "added_at": "2023-10-17 11:37:12",
       "album": {
-        "name": "Automatic",
-        "url": "https://open.spotify.com/album/6WABR1ifGFXjlVoK54LA3P"
+        "name": "Something To Give Each Other",
+        "url": "https://open.spotify.com/album/5UcGyEltve5psjxSRsHx8E"
       },
       "artists": [
         {
-          "name": "C.Gambino",
-          "url": "https://open.spotify.com/artist/6eWjyO1r0QlvsIuIIcgGxI"
+          "name": "Troye Sivan",
+          "url": "https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP"
         }
       ],
-      "duration_ms": 130666,
-      "name": "Automatic",
-      "url": "https://open.spotify.com/track/7Fjz93GKhU5LlTacFAO8ze"
+      "duration_ms": 181481,
+      "name": "One Of Your Girls",
+      "url": "https://open.spotify.com/track/5Eh1nj7IjV9lwpcKAkidyY"
     },
     {
       "added_at": "2023-09-28 22:00:00",
@@ -540,7 +556,7 @@
       "added_at": "2023-09-28 22:00:00",
       "album": {
         "name": "Euphories",
-        "url": "https://open.spotify.com/album/7qRGZrr36qgz0hhJKgvIvg"
+        "url": "https://open.spotify.com/album/1WfIjwnJ0aHiWCSkeSSeuV"
       },
       "artists": [
         {
@@ -556,9 +572,9 @@
           "url": "https://open.spotify.com/artist/3bFokK6zCab3bPwSjktEVF"
         }
       ],
-      "duration_ms": 227026,
+      "duration_ms": 225040,
       "name": "Amour plastique",
-      "url": "https://open.spotify.com/track/0HDO6JFfplYPrSWuufUosZ"
+      "url": "https://open.spotify.com/track/269XSeQhDrWEotMALJaACW"
     },
     {
       "added_at": "2023-09-28 22:00:00",

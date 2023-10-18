@@ -31,4 +31,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU1ArdWOMZjR.md) - [plain]
 | 21 | [Blue \(Armed with Love\)](https://open.spotify.com/track/22rrsoGa6pChGr2S5CPQA8) | [Wham!](https://open.spotify.com/artist/5lpH0xAS4fVfLkACg9DAuM) | [The Singles: Echoes from the Edge of Heaven \(Expanded\)](https://open.spotify.com/album/1iq5Vk9BsERGNNw7NGIpD4) | 3:55 |
 | 22 | [Last Christmas \- Single Version](https://open.spotify.com/track/4bKOmJyV4cLwaRwfJdscwG) | [Wham!](https://open.spotify.com/artist/5lpH0xAS4fVfLkACg9DAuM) | [The Singles: Echoes from the Edge of Heaven \(Expanded\)](https://open.spotify.com/album/1iq5Vk9BsERGNNw7NGIpD4) | 4:25 |
 
-Snapshot ID: `MCxjZTI3MmM3MzUzNDlkZWY0MTAzNTU5ZTg1ZmI0OTQyZmU4ODJhNDBl`
+Snapshot ID: `MCxmODk1MmE4ZDAwZjY1YzYyOGI5NmEzOWE5MDRhN2UyNjNhMjQ0NTM5`

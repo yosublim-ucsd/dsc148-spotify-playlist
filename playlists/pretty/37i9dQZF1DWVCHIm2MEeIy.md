@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVCHIm2MEeIy.md) - [plain]
 
 > The dancefloor is the place to be 🪩
 
-[Spotify](https://open.spotify.com/user/spotify) - 847,784 likes - 70 songs - 5 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 847,901 likes - 70 songs - 5 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,8 +38,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVCHIm2MEeIy.md) - [plain]
 | 28 | [Looking at Your Pager](https://open.spotify.com/track/0y6CoVW1ZSBqRmPbyfhFQs) | [KH](https://open.spotify.com/artist/7nwdEDnfgNpPhWQCXX3KSx) | [Looking at Your Pager](https://open.spotify.com/album/5ZiFsbS4RLFZVyJRN3Bmvz) | 2:54 |
 | 29 | [Elamy](https://open.spotify.com/track/6jdaBz780wecXanS9elu68) | [Miss Monique](https://open.spotify.com/artist/29TpNOsTNYbLb6Xa10H0PR) | [Elamy](https://open.spotify.com/album/6Kuuqtn0uf0kJ4r8fmSUi6) | 4:38 |
 | 30 | [El Tiempo](https://open.spotify.com/track/3gqn5ShJpp0VTnPNzpdfJi) | [Grigoré](https://open.spotify.com/artist/2RemyvxrdxNsB7ycf3rJHX) | [Combinations EP](https://open.spotify.com/album/7qrdnd3NoxZwClPen84lC9) | 6:11 |
-| 31 | [Change This Pain For Ecstasy](https://open.spotify.com/track/2o9XDwndOF3b3uQqoI6N53) | [Rex The Dog](https://open.spotify.com/artist/5zbQoW1WWTzvITE8w4ckoC) | [Change This Pain For Ecstasy](https://open.spotify.com/album/08xHiG90YhACt4w637oTqn) | 3:27 |
-| 32 | [Pont de la Caille](https://open.spotify.com/track/3jAPlfftOtKBgrJ722luE3) | [Hidden Empire](https://open.spotify.com/artist/44Ga1YqZthFOzZSTHiNWkC) | [Pont de la Caille](https://open.spotify.com/album/64dSfNdAExAwPFtjPmXm4M) | 5:13 |
+| 31 | [Pont de la Caille](https://open.spotify.com/track/3jAPlfftOtKBgrJ722luE3) | [Hidden Empire](https://open.spotify.com/artist/44Ga1YqZthFOzZSTHiNWkC) | [Pont de la Caille](https://open.spotify.com/album/64dSfNdAExAwPFtjPmXm4M) | 5:13 |
+| 32 | [Change This Pain For Ecstasy](https://open.spotify.com/track/2o9XDwndOF3b3uQqoI6N53) | [Rex The Dog](https://open.spotify.com/artist/5zbQoW1WWTzvITE8w4ckoC) | [Change This Pain For Ecstasy](https://open.spotify.com/album/08xHiG90YhACt4w637oTqn) | 3:27 |
 | 33 | [You Take My Hand](https://open.spotify.com/track/4Lq4TjaQWTNmo5viydoLLa) | [Tinlicker](https://open.spotify.com/artist/5EmEZjq8eHEC6qFnT63Lza), [Jamie Irrepressible](https://open.spotify.com/artist/1kq2ZvBA7AX9mdZTk9SkpU) | [You Take My Hand](https://open.spotify.com/album/3meERbSehneA03lgl071Io) | 5:15 |
 | 34 | [Freedom](https://open.spotify.com/track/2bHGHbsFmjQdmdE7hZSKr6) | [Stephan Jolk](https://open.spotify.com/artist/7w0ddx9rFndvpiqO1VOxJM) | [Freedom](https://open.spotify.com/album/4GPawXGx2GGTfN8dPKUBI9) | 4:00 |
 | 35 | [She Could!](https://open.spotify.com/track/1twqQpzBuaDtwfAU7CXH9d) | [Alfred Heinrichs](https://open.spotify.com/artist/6kzCLJOC7MU8mAbhIJNpIo) | [She Could!](https://open.spotify.com/album/1lrDC0vFrAASm3z1K3iTW5) | 7:04 |
@@ -52,8 +52,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVCHIm2MEeIy.md) - [plain]
 | 42 | [Luna](https://open.spotify.com/track/19nIwUJ2K8fSF2VUoOXEUM) | [Ann Clue](https://open.spotify.com/artist/5fasubnSIOTRYlIZA17ong) | [Luna](https://open.spotify.com/album/42RzcaAaTLCowXNlHAK1Du) | 3:50 |
 | 43 | [RIDERS ON THE STORM](https://open.spotify.com/track/6X9FcXuVtEUMaZrgcXING2) | [RUBACK](https://open.spotify.com/artist/2fdRphXxW7ncxOnkX4J3Pg), [Dubdogz](https://open.spotify.com/artist/4cdyqaBREB68H77QKCrKP1), [Sevenn](https://open.spotify.com/artist/7bNqXqIrIfwJnipx7oGeU4) | [RIDERS ON THE STORM](https://open.spotify.com/album/1NW9uJa0pdHCzueCxOFUQS) | 5:10 |
 | 44 | [Haute Definition](https://open.spotify.com/track/5ogJoH7CMHtyxIsxExxm4B) | [Vitalic](https://open.spotify.com/artist/4M84umUNRbZy1mJleyyRM9) | [Dissidænce Episode 1](https://open.spotify.com/album/3x4w1TdlWi3d81ibVmR4Lj) | 3:58 |
-| 45 | [Untold](https://open.spotify.com/track/5oWNQlLaRLALWkKz3JuTap) | [Stil & Bense](https://open.spotify.com/artist/5nuJOwgBqKBIWyCr0dQgEH), [Margret](https://open.spotify.com/artist/6tFdm9EEawUx8EUkpWQH4l) | [Untold](https://open.spotify.com/album/2U3a211EBDRSdPZfM4pukk) | 6:42 |
-| 46 | [Footprints](https://open.spotify.com/track/0pJFuImM8bxl1Oj9HW4oVt) | [Kaz James](https://open.spotify.com/artist/1XGHs7YFtpCbDGKaNdPPtA) | [Footprints](https://open.spotify.com/album/1r8Scfn2BamZqnc0wH72Ar) | 5:48 |
+| 45 | [Footprints](https://open.spotify.com/track/0pJFuImM8bxl1Oj9HW4oVt) | [Kaz James](https://open.spotify.com/artist/1XGHs7YFtpCbDGKaNdPPtA) | [Footprints](https://open.spotify.com/album/1r8Scfn2BamZqnc0wH72Ar) | 5:48 |
+| 46 | [Untold](https://open.spotify.com/track/5oWNQlLaRLALWkKz3JuTap) | [Stil & Bense](https://open.spotify.com/artist/5nuJOwgBqKBIWyCr0dQgEH), [Margret](https://open.spotify.com/artist/6tFdm9EEawUx8EUkpWQH4l) | [Untold](https://open.spotify.com/album/2U3a211EBDRSdPZfM4pukk) | 6:42 |
 | 47 | [My City's On Fire](https://open.spotify.com/track/74wq2mSE5UhoWzRTy1J93p) | [Jimi Jules](https://open.spotify.com/artist/6RsLLSkSTcL4YrvgRcBTQd) | [My City's On Fire](https://open.spotify.com/album/3euSt2OpPER3gjNEI0ATaz) | 3:07 |
 | 48 | [Paradise \- Âme Remix](https://open.spotify.com/track/6m1p8pNdASucv2yWqYeMOs) | [mOat](https://open.spotify.com/artist/5cwcCt2XL9QIC0yZy33Fds), [Âme](https://open.spotify.com/artist/5muFO8VqYRCRW13EkvX564) | [Paradise \(Âme Remix\)](https://open.spotify.com/album/5TeEwBih6CBovsO6sFYqtb) | 4:04 |
 | 49 | [Rise Of The 2nd Sun](https://open.spotify.com/track/12cknKcAEanf3PlwPOYvg5) | [Stereo Express](https://open.spotify.com/artist/3j2zB13syOvCyrkJIomEA2) | [Rise Of The 2nd Sun](https://open.spotify.com/album/2vcdcwvURyhYMkh8P0wfJT) | 7:05 |
@@ -65,8 +65,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVCHIm2MEeIy.md) - [plain]
 | 55 | [Can't Get Enough](https://open.spotify.com/track/3IvodZAm4vD1PM3bIEw9Ik) | [JOPLYN](https://open.spotify.com/artist/32Jt1AK733JbFR82hEZ0Ih) | [Fact & Fiction / Can't Get Enough](https://open.spotify.com/album/0nV7hufCHvKb7qEWH5WKOm) | 6:19 |
 | 56 | [Copal \- Super Flu Remix](https://open.spotify.com/track/2Eu5IxBvLxCd1HFVR4JbR4) | [Oliver Koletzki](https://open.spotify.com/artist/1WjBIvYAnZTkTh5UiZNwlR), [Super Flu](https://open.spotify.com/artist/1iZiG82D4w7FLHvOUUj4zW) | [Made of Wood Remixed](https://open.spotify.com/album/17vbriNfPim1tG9mGO6GGA) | 6:37 |
 | 57 | [Joy](https://open.spotify.com/track/17yYSZdxIfNNlI0Brpfvk0) | [Ann Clue](https://open.spotify.com/artist/5fasubnSIOTRYlIZA17ong) | [Joy](https://open.spotify.com/album/5KgoKcCyd2nI7oraUvbXWv) | 4:21 |
-| 58 | [Back In The Taxi \- AMÉMÉ Midnight Remix](https://open.spotify.com/track/7psofiqt8ta0d1q0l5YXGk) | [Jan Blomqvist](https://open.spotify.com/artist/5wMlMjOLeJfS5DfxqGfm83), [AMÉMÉ](https://open.spotify.com/artist/1txb9Qg5lJ3KATxPcIYyvO) | [Back In The Taxi \(AMÉMÉ Remix\)](https://open.spotify.com/album/2DfcKSHUivCRQupV5tFbw3) | 4:26 |
-| 59 | [Nova Two](https://open.spotify.com/track/2Pc744GTIafPnZrNGNdPUJ) | [Tale Of Us](https://open.spotify.com/artist/1UL813H5aj3e8ekE5RqWqc) | [Nova Two](https://open.spotify.com/album/7zeYcIdbaDuYYjiAmYCNjz) | 5:26 |
+| 58 | [Nova Two](https://open.spotify.com/track/2Pc744GTIafPnZrNGNdPUJ) | [Tale Of Us](https://open.spotify.com/artist/1UL813H5aj3e8ekE5RqWqc) | [Nova Two](https://open.spotify.com/album/7zeYcIdbaDuYYjiAmYCNjz) | 5:26 |
+| 59 | [Back In The Taxi \- AMÉMÉ Midnight Remix](https://open.spotify.com/track/7psofiqt8ta0d1q0l5YXGk) | [Jan Blomqvist](https://open.spotify.com/artist/5wMlMjOLeJfS5DfxqGfm83), [AMÉMÉ](https://open.spotify.com/artist/1txb9Qg5lJ3KATxPcIYyvO) | [Back In The Taxi \(AMÉMÉ Remix\)](https://open.spotify.com/album/2DfcKSHUivCRQupV5tFbw3) | 4:26 |
 | 60 | [NEON RATS](https://open.spotify.com/track/5qhytiPIn0IXQKs9XE98YN) | [Moderat](https://open.spotify.com/artist/2exkZbmNqMKnT8LRWuxWgy) | [MORE D4TA](https://open.spotify.com/album/7coOKcB1fDcYvLG1OTv4Dz) | 7:30 |
 | 61 | [Love Is What](https://open.spotify.com/track/0L7tuyMZF1V61SrXL1tvrI) | [Kollektiv Ost](https://open.spotify.com/artist/3G5wjUV0bhx9pIIUrGUabR) | [Love Is What](https://open.spotify.com/album/7IcQpBQ9z1iIlfCfTWBbOn) | 6:07 |
 | 62 | [Himmelblau](https://open.spotify.com/track/6ZRwn9JqdtRQyrHT0tKIgy) | [Boris Brejcha](https://open.spotify.com/artist/6caPJFLv1wesmM7gwK1ACy) | [Never Stop Dancing](https://open.spotify.com/album/6YoPT7n9LXQpOlvTjpQtCC) | 8:13 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVCHIm2MEeIy.md) - [plain]
 | 69 | [The Gates Of Babylonia](https://open.spotify.com/track/4JaCQuCXKEMo3jVDql5pqY) | [Stereo Express](https://open.spotify.com/artist/3j2zB13syOvCyrkJIomEA2) | [The Gates Of Babylonia](https://open.spotify.com/album/1WWuZ6jS4s45506fTQll3h) | 6:29 |
 | 70 | [Loving You Like Always \- Sainte Vie Remix](https://open.spotify.com/track/4wp5DGGbvBcalN7rq8Dn2d) | [NTO](https://open.spotify.com/artist/7ry8L53T4oJtSIogGYuioq), [Sainte Vie](https://open.spotify.com/artist/30oVwXZSlElygdNpcUIFBk), [Tricky](https://open.spotify.com/artist/6hhA8TKRNryM8FNzqCqdDO) | [Loving You Like Always \(Sainte Vie Remix\)](https://open.spotify.com/album/4qsf7fsxmloPBkIKTQxmJ0) | 6:52 |
 
-Snapshot ID: `MCxiNTYwYWM1YmEzOGU0ZmM3Yzg1OGNmNWMzZmQ1YTI2Zjk1ZDdhYWZl`
+Snapshot ID: `MCw0YmVhZjgwZGM2OWUxZWNkODI5M2E3YWVjODAxYjNlYzFhZTYxOGY0`

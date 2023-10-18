@@ -1,12 +1,12 @@
 {
   "description": "selects from music we've been listening to @ Moving Castle. Manila Killa's album, Dusk drops July 21st!",
-  "num_followers": 20915,
+  "num_followers": 20913,
   "original_name": "Moving Castle Monthly",
   "owner": {
     "name": "Moving Castle",
     "url": "https://open.spotify.com/user/moving-castle"
   },
-  "snapshot_id": "MTA1MzYsMTYwMTJmYmVlMmFhYzNiZDQ5MmIwMTc5NzFiZTYzMDVmZDgxYWYzZg==",
+  "snapshot_id": "MTA1MzcsMTRiMjM2MmUyY2Q4OTAyY2U2NTcxYzU2ZGZmM2NhN2FjYTg5M2FmNg==",
   "tracks": [
     {
       "added_at": "2023-10-06 14:55:50",
@@ -2175,6 +2175,26 @@
       "duration_ms": 202391,
       "name": "Moth Love",
       "url": "https://open.spotify.com/track/0lP6dtgyfTtVcxJ1GVmIyA"
+    },
+    {
+      "added_at": "2023-10-18 00:48:38",
+      "album": {
+        "name": "Ripple (feat. grandpa julie)",
+        "url": "https://open.spotify.com/album/0quSSIvZNfb6kxR8JcMRgM"
+      },
+      "artists": [
+        {
+          "name": "juuku",
+          "url": "https://open.spotify.com/artist/2ixBQngmF4ZFXYHi8sJTfl"
+        },
+        {
+          "name": "grandpa julie",
+          "url": "https://open.spotify.com/artist/6P38Kx1SGQCgAQHqv0LjAs"
+        }
+      ],
+      "duration_ms": 183428,
+      "name": "Ripple (feat. grandpa julie)",
+      "url": "https://open.spotify.com/track/2SqlWDESCdIb0QKNP0sByv"
     }
   ],
   "unique_name": "Moving Castle Monthly",

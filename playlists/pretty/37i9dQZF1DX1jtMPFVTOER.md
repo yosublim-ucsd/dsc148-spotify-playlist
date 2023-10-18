@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1jtMPFVTOER.md) - [plain]
 
 > Explore a genre bending universe centered around jazz\. Cover: Butcher Brown
 
-[Spotify](https://open.spotify.com/user/spotify) - 89,072 likes - 100 songs - 5 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 89,093 likes - 100 songs - 5 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1jtMPFVTOER.md) - [plain]
 | 4 | [Paradise](https://open.spotify.com/track/153ZcKdzrT4WjXc2mAaWdk) | [Terrace Martin](https://open.spotify.com/artist/7MNEVabc4cs19CbzAFZmXz), [Alex Isley](https://open.spotify.com/artist/7E2ioKxoxI2J94tUkIx6As) | [Paradise](https://open.spotify.com/album/5ckMdSLnCP1HEGe8clgU9B) | 3:38 |
 | 5 | [Focus](https://open.spotify.com/track/6c6Wle9do1ThhMpEQzpG1B) | [Relyae](https://open.spotify.com/artist/1XWIY6lvgEpKAIPNOK2CjO) | [Focus](https://open.spotify.com/album/6f8AOc82LrTGBKszpAJhzg) | 3:00 |
 | 6 | [Knocked Down](https://open.spotify.com/track/6eqB9nHqFg5lXl0R4KJOfn) | [The Silhouettes Project](https://open.spotify.com/artist/3CJEpzlVzfyLTpKJlpKdHw), [Asher Kosher](https://open.spotify.com/artist/7nTnkuOevyqxZXyWkzNDz6), [Nix Northwest](https://open.spotify.com/artist/1nJX9DZHvd27lKDx8NM8Rt), [Turt](https://open.spotify.com/artist/0VkwWpbd5pxXBYZu3ns9N0), [Paya](https://open.spotify.com/artist/4f7XN0Gqff52MXO79EFvJO), [Joe Beard](https://open.spotify.com/artist/4USph0kDFD7IlpU1SfIMfP) | [Knocked Down](https://open.spotify.com/album/7Aaay06Qqs7PTimOjKuIFC) | 3:35 |
-| 7 | [How it is](https://open.spotify.com/track/6WBKYXKT4elChnyfrBStOM) | [Nicole Brady](https://open.spotify.com/artist/57clVZKVIdtfcIn5MTMF0o), [Lydia Ainsworth](https://open.spotify.com/artist/7niNF3K2RlyrucFH7iZjWk), [Miles Mosley](https://open.spotify.com/artist/61s1uLqt9FobVIJirJo2gA), [Royal Scottish National Orchestra](https://open.spotify.com/artist/5xBSsPfZtPItmn72C2EHVf), [Mark Guiliana](https://open.spotify.com/artist/798TUNb6IfpsZzMkkzVGu1) | [How it is](https://open.spotify.com/album/22UxtvbRqaJx2SbjbzF7CB) | 2:41 |
+| 7 | [How it is](https://open.spotify.com/track/6WBKYXKT4elChnyfrBStOM) | [Nicole Brady](https://open.spotify.com/artist/57clVZKVIdtfcIn5MTMF0o), [Lydia Ainsworth](https://open.spotify.com/artist/7niNF3K2RlyrucFH7iZjWk), [Miles Mosley](https://open.spotify.com/artist/61s1uLqt9FobVIJirJo2gA), [Royal Scottish National Orchestra](https://open.spotify.com/artist/5xBSsPfZtPItmn72C2EHVf) | [How it is](https://open.spotify.com/album/22UxtvbRqaJx2SbjbzF7CB) | 2:41 |
 | 8 | [Makin Love](https://open.spotify.com/track/385L8vLvQHhPlEn2Plrk2C) | [La Felix](https://open.spotify.com/artist/3PoWaGWGbWmC3DrCOyGXOj) | [Makin Love](https://open.spotify.com/album/1lRuXmfbAfI4EpVXIT8ncA) | 2:58 |
 | 9 | [Pon di Plaza](https://open.spotify.com/track/3ARk4fak9pWhdV4gcHYTOR) | [Yussef Dayes](https://open.spotify.com/artist/2rspptKP0lPBdlJJAJHqht), [Chronixx](https://open.spotify.com/artist/2oZcMYiKpjaA2Et5mU3RPP) | [Pon di Plaza](https://open.spotify.com/album/2iGPfwsWb6AxlTIx2lnhNi) | 3:49 |
 | 10 | [MOTHERLESS \- Robert Glasper Rendition](https://open.spotify.com/track/1wefL4EqXv2WsHtjuAc1W7) | [Killer Mike](https://open.spotify.com/artist/2N4EYkIlG1kv25g6Wv8LGI), [Eryn Allen Kane](https://open.spotify.com/artist/5xI4mPixKfrCCspATqbpy3), [Robert Glasper](https://open.spotify.com/artist/5cM1PvItlR21WUyBnsdMcn) | [MOTHERLESS \[Feat\. Eryn Allen Kane\] \(Robert Glasper Rendition\)](https://open.spotify.com/album/2QGrs0tVKYw8uEkgr9tsSu) | 3:29 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1jtMPFVTOER.md) - [plain]
 | 99 | [Shine](https://open.spotify.com/track/4ZVNCrYStmGn546kpAS1I2) | [The Free Label](https://open.spotify.com/artist/4YOL2g6AwphwsB1dOZZSOr), [Braxton Cook](https://open.spotify.com/artist/60k4atxgEIMFz4DWHp0le1) | [Shine](https://open.spotify.com/album/6RefKEwQv3tidPWBr4mBQ0) | 3:38 |
 | 100 | [you said...](https://open.spotify.com/track/2T8gjOM7DTgu7YtwLC0ddf) | [Talibah Safiya](https://open.spotify.com/artist/1E0Fc2u5OrryrpF8JH8srS) | [you said...](https://open.spotify.com/album/77L359klVW9v2ODUWvNPF5) | 2:14 |
 
-Snapshot ID: `MCxjZjFjODQ2N2Y0MDZlNTdjZmYzOTg0ZGE1NTk3Mjk4ZjgxZGNjZmVj`
+Snapshot ID: `MCw3ZmRlYTU1NDkzNTI5NjRjNTg3MzMxNGQ5ZWVlNGNjZGZjNzY4YzZh`

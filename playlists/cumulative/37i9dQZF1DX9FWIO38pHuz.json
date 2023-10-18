@@ -1624,7 +1624,7 @@
       ],
       "date_added": "2022-11-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-18",
       "duration_ms": 294677,
       "name": "When You Call Me",
       "url": "https://open.spotify.com/track/7HHqo2poglaM14fmx3E9NV"
@@ -1646,6 +1646,24 @@
       "duration_ms": 295357,
       "name": "When You Call Me",
       "url": "https://open.spotify.com/track/5IcvEVloSW4hZVVOlgKq3Y"
+    },
+    {
+      "album": {
+        "name": "STR4TASFEAR",
+        "url": "https://open.spotify.com/album/2CSRlL4oubFZsnNxQoaR6p"
+      },
+      "artists": [
+        {
+          "name": "STR4TA",
+          "url": "https://open.spotify.com/artist/5HintvHxi0uDBgNaRKWZOt"
+        }
+      ],
+      "date_added": "2022-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 295357,
+      "name": "When You Call Me",
+      "url": "https://open.spotify.com/track/6nubhK0CsIhmCnjuMVUfvj"
     },
     {
       "album": {

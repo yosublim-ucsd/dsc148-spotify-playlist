@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6B14ULPIeoA.md) - [plain]
 
 > Con mucha dulzura y sabor para un momento de relax.
 
-[Spotify](https://open.spotify.com/user/spotify) - 48,056 likes - 100 songs - 5 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 48,071 likes - 100 songs - 5 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -81,8 +81,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6B14ULPIeoA.md) - [plain]
 | 71 | [Me Muero Sin Tus Besos](https://open.spotify.com/track/5A1XB9lNEvGHWNu1hkOpKT) | [Byron Brizz](https://open.spotify.com/artist/0PGmoSulvyPVKHDWyyMClJ), [David Peña](https://open.spotify.com/artist/4NMM9OaHOyncdIvuDks37i) | [Alma Mexicana](https://open.spotify.com/album/5q23NA34MBehDCwbbhfDBJ) | 2:25 |
 | 72 | [Si Nos Dejan](https://open.spotify.com/track/1Ph7ahP8j4viFmpXB4Krgj) | [Mariachi Premier](https://open.spotify.com/artist/3zUi6YMPFd66AglMtvVoea) | [Recuerdos De Mi Tierra](https://open.spotify.com/album/7qrXv6WJLfQF6msl1m4ZBe) | 2:29 |
 | 73 | [Brisas](https://open.spotify.com/track/2fnzfTG0Cg1nkI0tboLzzx) | [Gerardo Paz](https://open.spotify.com/artist/6lQrKlh4MrZ0XeTfFAt4Ik) | [Chacra](https://open.spotify.com/album/3RGUHtnUlNuS5Lp1ZqhCWx) | 2:07 |
-| 74 | [Tragos Amargos](https://open.spotify.com/track/1jhaFZpN6grqcweo0kUElQ) | [Nicole Morenno](https://open.spotify.com/artist/20qzlrLcHxylJGZUCH0M9T) | [Tragos Amargos](https://open.spotify.com/album/4rTSPDvuo9XFaNn0SioHJl) | 2:45 |
-| 75 | [Y Todo Para Que](https://open.spotify.com/track/1IqZNILZcGQDnEIueNMFgT) | [Nora Levario](https://open.spotify.com/artist/43F7L6jcGu1F0TpEmS27mw) | [Y Todo Para Que](https://open.spotify.com/album/4NZRI46AsgksuR6cCX2vFc) | 2:32 |
+| 74 | [Y Todo Para Que](https://open.spotify.com/track/1IqZNILZcGQDnEIueNMFgT) | [Nora Levario](https://open.spotify.com/artist/43F7L6jcGu1F0TpEmS27mw) | [Y Todo Para Que](https://open.spotify.com/album/4NZRI46AsgksuR6cCX2vFc) | 2:32 |
+| 75 | [Tragos Amargos](https://open.spotify.com/track/1jhaFZpN6grqcweo0kUElQ) | [Nicole Morenno](https://open.spotify.com/artist/20qzlrLcHxylJGZUCH0M9T) | [Tragos Amargos](https://open.spotify.com/album/4rTSPDvuo9XFaNn0SioHJl) | 2:45 |
 | 76 | [La media vuelta](https://open.spotify.com/track/03fXI8pVGMV7XnkTMTbmrW) | [Trio Azteca](https://open.spotify.com/artist/2TQbB9wIlP0BRpwdUBq0dY) | [Mexico: 20 Best Mariachi and Folk Songs](https://open.spotify.com/album/056QcfXOgyiTK2LKaeJ5Y9) | 2:18 |
 | 77 | [Pero Te Vas A Arrepentir](https://open.spotify.com/track/4YCBA1jE6wEbZNttfHHeTS) | [Astrud Bonfa](https://open.spotify.com/artist/0YYKO7hybCYf1mjeXDADA7) | [Pero Te Vas A Arrepentir](https://open.spotify.com/album/3n9BU9XWfMvoFoEjLD63Jp) | 4:26 |
 | 78 | [Una Vez Mas](https://open.spotify.com/track/7vXR4H9LE6bXMtwpb4iz46) | [Aurelia Goldspark](https://open.spotify.com/artist/23Vwx4SwKnBo2w3kAL32pW) | [Una Vez Mas](https://open.spotify.com/album/3J0EfavosSEhLq5BeZgtqw) | 3:50 |
@@ -91,8 +91,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6B14ULPIeoA.md) - [plain]
 | 81 | [Por Tu Maldito Amor](https://open.spotify.com/track/4NVnCLyMVCOBgCcB2LzZrR) | [Ferah Vargas](https://open.spotify.com/artist/7I2QqjVyk5dDrmPSiJgT1h) | [Por Tu Maldito Amor](https://open.spotify.com/album/7KdSJIQxy5XR92T6QIDQ0t) | 3:56 |
 | 82 | [Cuando Brille El Sol](https://open.spotify.com/track/1ySHobU6CwzjPlcBs54bWd) | [Byron Brizz](https://open.spotify.com/artist/0PGmoSulvyPVKHDWyyMClJ), [David Peña](https://open.spotify.com/artist/4NMM9OaHOyncdIvuDks37i) | [Alma Mexicana](https://open.spotify.com/album/5q23NA34MBehDCwbbhfDBJ) | 2:25 |
 | 83 | [Duele](https://open.spotify.com/track/2kyYCNAMtQSTik4L9ps1xH) | [Xochi Krausse](https://open.spotify.com/artist/36u61FnGDFJVllsyOZ4tQh) | [Duele](https://open.spotify.com/album/7J3hUdS1aHBvb2DQASIUhP) | 4:09 |
-| 84 | [Querida](https://open.spotify.com/track/5uL9Pog252Kip2o6g0IzJO) | [Donata Antoni](https://open.spotify.com/artist/1JTQHAw7cydv6H6suv2Qo4) | [Querida](https://open.spotify.com/album/1NpCzx1BzOg5dGtKRPdVx7) | 3:13 |
-| 85 | [No Me Conoces Aun](https://open.spotify.com/track/6HcczuR38XM8B5Mf0SnQdw) | [Jenny Thorn](https://open.spotify.com/artist/6lyyztZQV3gJ1ptg97K2y9) | [No Me Conoces Aun](https://open.spotify.com/album/0ptz54h0O1QdrkyJR5B6S0) | 3:50 |
+| 84 | [No Me Conoces Aun](https://open.spotify.com/track/6HcczuR38XM8B5Mf0SnQdw) | [Jenny Thorn](https://open.spotify.com/artist/6lyyztZQV3gJ1ptg97K2y9) | [No Me Conoces Aun](https://open.spotify.com/album/0ptz54h0O1QdrkyJR5B6S0) | 3:50 |
+| 85 | [Querida](https://open.spotify.com/track/5uL9Pog252Kip2o6g0IzJO) | [Donata Antoni](https://open.spotify.com/artist/1JTQHAw7cydv6H6suv2Qo4) | [Querida](https://open.spotify.com/album/1NpCzx1BzOg5dGtKRPdVx7) | 3:13 |
 | 86 | [La barca](https://open.spotify.com/track/2bKWGYLXfunIGqkSbVartz) | [Trio Azteca](https://open.spotify.com/artist/2TQbB9wIlP0BRpwdUBq0dY) | [Trio Azteca: Folk Songs and Ballads](https://open.spotify.com/album/2eUYqTiNxucqcl9BGyicbq) | 3:03 |
 | 87 | [Se Me Olvido Otra Vez](https://open.spotify.com/track/2BJXH3hopfuJy4dTrb1gwj) | [Mariachi Premier](https://open.spotify.com/artist/3zUi6YMPFd66AglMtvVoea) | [Recuerdos De Mi Tierra](https://open.spotify.com/album/7qrXv6WJLfQF6msl1m4ZBe) | 3:01 |
 | 88 | [Historia de un Amor](https://open.spotify.com/track/5d28IWEPL407fmx8TBHnrd) | [Fer González](https://open.spotify.com/artist/2D7rQgCTVUgJYwfFNK8f3P), [Adolfo Josafat Esquivel Martínez](https://open.spotify.com/artist/2no9PK9rt2pLRAUZagftpQ), [Armando Esquivel Martínez](https://open.spotify.com/artist/3Dr6YcK9ut2OzBAwDvF5po), [Juan Pablo Esquivel Martínez](https://open.spotify.com/artist/75NZOeqBctbXUDmSXohW0s), [Armando Jiménez Martínez](https://open.spotify.com/artist/54DjpA29Mltg7vDE8oBweE), [Jorge Jiménez Martínez](https://open.spotify.com/artist/6T08P1MBwQTcTP8ckrcmaG), [Rafael Guzman Navarro](https://open.spotify.com/artist/30RzId9OwIRGNH89Bx7xnb), [Arnulfo Muñoz Guzmán](https://open.spotify.com/artist/70F8fUluhWibIB0VuLVhrC), [Carlos Campos Iván](https://open.spotify.com/artist/0njnrM9b7uj4Rudd8lTT7w) | [Mariachi: Mi Nombre Es México](https://open.spotify.com/album/6kdd6Z3nAvWbxPZVpZlBgV) | 3:20 |
@@ -105,8 +105,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6B14ULPIeoA.md) - [plain]
 | 95 | [Prometiste](https://open.spotify.com/track/2oKl1hb8wbIqs2a38mWy7g) | [Nito Carval](https://open.spotify.com/artist/1UO58vaW6Nrk9Db2Llr912) | [Prometiste](https://open.spotify.com/album/4qCrSxdCIWD2gJZ8PauY8S) | 3:56 |
 | 96 | [De que manera te olvido](https://open.spotify.com/track/0wLGt0djSkPZRbd14eQTbx) | [Trio Azteca](https://open.spotify.com/artist/2TQbB9wIlP0BRpwdUBq0dY) | [Trio Azteca: Folk Songs and Ballads](https://open.spotify.com/album/2eUYqTiNxucqcl9BGyicbq) | 2:56 |
 | 97 | [Detrás De Los Cerros](https://open.spotify.com/track/5o7kBjb3R4RGsLxpa39T3A) | [Regina Costa](https://open.spotify.com/artist/5HTYfcxPnPgnplg9GvUIEr) | [Detrás De Los Cerros](https://open.spotify.com/album/1CKIzQI1dh2y1Cy6u0Uj67) | 4:31 |
-| 98 | [Dueles](https://open.spotify.com/track/6ekN22D0Amt0tqd2DAeKq4) | [Marta Jobim](https://open.spotify.com/artist/1mdSEV97zy0wyiCU8jfqwj) | [Dueles](https://open.spotify.com/album/72jZEsiUr3shNX6fxrhq8b) | 5:23 |
-| 99 | [Pa' Olvidarme De Ella](https://open.spotify.com/track/42jz4vxI3S9nZuYOEwCbAF) | [Kendra Soliz](https://open.spotify.com/artist/6FhgKnJWJrgcqfDwQHdSyZ) | [Pa' Olvidarme De Ella](https://open.spotify.com/album/4o5FlDxD26wrLQ5C0kLCk5) | 3:06 |
-| 100 | [No Es Pa Presumir](https://open.spotify.com/track/0VTPrUYq4wQCT9WoDBTqJ2) | [Aurelia Goldspark](https://open.spotify.com/artist/23Vwx4SwKnBo2w3kAL32pW) | [No Es Pa Presumir](https://open.spotify.com/album/1GKghImopTCi6bX7mDEFaZ) | 4:24 |
+| 98 | [Pa' Olvidarme De Ella](https://open.spotify.com/track/42jz4vxI3S9nZuYOEwCbAF) | [Kendra Soliz](https://open.spotify.com/artist/6FhgKnJWJrgcqfDwQHdSyZ) | [Pa' Olvidarme De Ella](https://open.spotify.com/album/4o5FlDxD26wrLQ5C0kLCk5) | 3:06 |
+| 99 | [Dueles](https://open.spotify.com/track/6ekN22D0Amt0tqd2DAeKq4) | [Marta Jobim](https://open.spotify.com/artist/1mdSEV97zy0wyiCU8jfqwj) | [Dueles](https://open.spotify.com/album/72jZEsiUr3shNX6fxrhq8b) | 5:23 |
+| 100 | [Agarra Tu Camino](https://open.spotify.com/track/2IYRUFK8T0tbJCueZoBj9u) | [Maribel Sur](https://open.spotify.com/artist/6RUOKxDTKgQE0baELaHJcf) | [Agarra Tu Camino](https://open.spotify.com/album/0q9c2AGlYqLPYBnLC7iCmw) | 3:52 |
 
-Snapshot ID: `MCwwMTFhZjgwZTc2MWVhZDllZjg5ZDU0MWExMmVmZDYxMTEwYWY0MzEw`
+Snapshot ID: `MCwzZDI3MTY5OWU1Y2JlOGFiMjI3OTRlMTU4NmQyMDk3NjQ1MzFmZGVl`

@@ -4,7 +4,7 @@
 
 > Blissful indie for dreamers.
 
-369 songs - 23 hr 24 min
+370 songs - 23 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -351,7 +351,8 @@
 | [Waitin' \- Edit](https://open.spotify.com/track/0kBAFAVajRjCX8kXneVsZI) | [Boy Azooga](https://open.spotify.com/artist/4S2f4BosAW2oF9AfGEK8ZL) | [Waitin' \(Edit\)](https://open.spotify.com/album/68aYjlcWtBfK47iXFa0QA0) | 3:25 | 2019-11-19\* | 2020-12-22 |
 | [Washing Machine Heart](https://open.spotify.com/track/4Ys8jQvZOISzmp34BsImRf) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [Be the Cowboy](https://open.spotify.com/album/653wRjqO0GOZPQPcXpeAXD) | 2:08 | 2020-08-09 | 2020-12-22 |
 | [Waste It](https://open.spotify.com/track/4jRG3f3af5Vk5fBSwUGCFD) | [Bathe Alone](https://open.spotify.com/artist/384r9G0NILqkGrQL8IPMkC) | [Waste It](https://open.spotify.com/album/1Msf7cAKWBLYbXHP4rkLwx) | 3:28 | 2022-04-01 | 2022-07-27 |
-| [What Are You so Afraid Of](https://open.spotify.com/track/5NwyQFaZbL6w8SaFcPFDn8) | [Videoclub](https://open.spotify.com/artist/3rp4f58JlRHkk8hpdLCer1) | [What Are You so Afraid Of](https://open.spotify.com/album/3MZSEI7ImutXhDjC7kS7T4) | 2:27 | 2020-12-22 |  |
+| [What Are You So Afraid Of](https://open.spotify.com/track/3KSJSi4vJedNzN32HpzGBM) | [Videoclub](https://open.spotify.com/artist/3rp4f58JlRHkk8hpdLCer1) | [Euphories](https://open.spotify.com/album/1WfIjwnJ0aHiWCSkeSSeuV) | 2:27 | 2023-07-21 |  |
+| [What Are You so Afraid Of](https://open.spotify.com/track/5NwyQFaZbL6w8SaFcPFDn8) | [Videoclub](https://open.spotify.com/artist/3rp4f58JlRHkk8hpdLCer1) | [What Are You so Afraid Of](https://open.spotify.com/album/3MZSEI7ImutXhDjC7kS7T4) | 2:27 | 2020-12-22 | 2023-10-18 |
 | [What Does It Mean To Me?](https://open.spotify.com/track/0fQMFvcUD9j1SBFRoTHxnL) | [Oberhofer](https://open.spotify.com/artist/5zb7wVUx1vTXLB6HX26EnX) | [Smothered](https://open.spotify.com/album/21zwExLy0H0BDbrIb0J2DC) | 2:46 | 2022-07-06 | 2023-10-17 |
 | [What Does It Mean To Me?](https://open.spotify.com/track/4kDqNIQiBwkqDs6jWWcHAM) | [Oberhofer](https://open.spotify.com/artist/5zb7wVUx1vTXLB6HX26EnX) | [What Does It Mean To Me?](https://open.spotify.com/album/40IbEerrh6DeFhhedn5DQx) | 2:46 | 2021-07-30 | 2022-07-29 |
 | [what if love isn't enough](https://open.spotify.com/track/3eIGb91cDxpyaGoDjflUoL) | [ellis](https://open.spotify.com/artist/7EQmY1hAAeuJLa0GUNpKNN) | [what if love isn't enough](https://open.spotify.com/album/3bOj7Y6H1q8TqqEoAIGjd0) | 3:48 | 2021-07-05 | 2023-01-07 |

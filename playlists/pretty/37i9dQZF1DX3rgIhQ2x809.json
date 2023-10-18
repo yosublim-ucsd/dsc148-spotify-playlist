@@ -1,12 +1,12 @@
 {
   "description": "De la isla, pa' el mundo! Representando la cultura con orgullo. Cover: Christian Alicea",
-  "num_followers": 69984,
+  "num_followers": 69986,
   "original_name": "Hecho en Puerto Rico",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxYjk4OTdhOTE5ZTAxM2EwYTYwNWI0NjczNmI5NmQxOWRmYjBhMGU5",
+  "snapshot_id": "MCwxMjhkYzJhZjI3NTMyMjllOWZiYTcxZTUxMmQxZmZmMDExYWNmY2E3",
   "tracks": [
     {
       "added_at": "2023-06-09 02:27:24",
@@ -403,26 +403,6 @@
     {
       "added_at": "2023-06-09 02:27:24",
       "album": {
-        "name": "SATURNO",
-        "url": "https://open.spotify.com/album/5AcRssiG0Zqu3lqYW7hMoM"
-      },
-      "artists": [
-        {
-          "name": "Rauw Alejandro",
-          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
-        },
-        {
-          "name": "Daddy Yankee",
-          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
-        }
-      ],
-      "duration_ms": 197383,
-      "name": "PANTIES Y BRASIERES",
-      "url": "https://open.spotify.com/track/4uVEdikP5eLUy8Dq6gjiPV"
-    },
-    {
-      "added_at": "2023-06-09 02:27:24",
-      "album": {
         "name": "Trending Remix (with Myke Towers)",
         "url": "https://open.spotify.com/album/0I0LtVW3UJjJtXkCJ7RPLO"
       },
@@ -439,6 +419,26 @@
       "duration_ms": 225154,
       "name": "Trending Remix (with Myke Towers)",
       "url": "https://open.spotify.com/track/7y8wfdPTJT94sIs6LnGDJC"
+    },
+    {
+      "added_at": "2023-06-09 02:27:24",
+      "album": {
+        "name": "SATURNO",
+        "url": "https://open.spotify.com/album/5AcRssiG0Zqu3lqYW7hMoM"
+      },
+      "artists": [
+        {
+          "name": "Rauw Alejandro",
+          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+        },
+        {
+          "name": "Daddy Yankee",
+          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
+        }
+      ],
+      "duration_ms": 197383,
+      "name": "PANTIES Y BRASIERES",
+      "url": "https://open.spotify.com/track/4uVEdikP5eLUy8Dq6gjiPV"
     },
     {
       "added_at": "2023-06-09 02:27:24",
@@ -515,6 +515,22 @@
       "duration_ms": 211840,
       "name": "G Spot",
       "url": "https://open.spotify.com/track/7qcG5K5O8XjmKT2DFdxWl4"
+    },
+    {
+      "added_at": "2023-06-09 02:27:24",
+      "album": {
+        "name": "Trending",
+        "url": "https://open.spotify.com/album/6eMP8CwxDJVxPJ9GjjQGbQ"
+      },
+      "artists": [
+        {
+          "name": "Dei V",
+          "url": "https://open.spotify.com/artist/2YRyPiW98bpkARAS4B3OQP"
+        }
+      ],
+      "duration_ms": 158350,
+      "name": "Trending",
+      "url": "https://open.spotify.com/track/5UBSlwB4Qm7TBzxdyyHr2p"
     },
     {
       "added_at": "2023-06-09 02:27:24",
@@ -623,22 +639,6 @@
       "duration_ms": 188737,
       "name": "Porche Carrera",
       "url": "https://open.spotify.com/track/7n8OimjXOqjwPeTkxBe3hF"
-    },
-    {
-      "added_at": "2023-06-09 02:27:24",
-      "album": {
-        "name": "Trending",
-        "url": "https://open.spotify.com/album/6eMP8CwxDJVxPJ9GjjQGbQ"
-      },
-      "artists": [
-        {
-          "name": "Dei V",
-          "url": "https://open.spotify.com/artist/2YRyPiW98bpkARAS4B3OQP"
-        }
-      ],
-      "duration_ms": 158350,
-      "name": "Trending",
-      "url": "https://open.spotify.com/track/5UBSlwB4Qm7TBzxdyyHr2p"
     },
     {
       "added_at": "2023-06-09 02:27:24",
@@ -815,6 +815,22 @@
     {
       "added_at": "2023-06-09 02:27:24",
       "album": {
+        "name": "L3tra 2",
+        "url": "https://open.spotify.com/album/5uhDPHXOesUiqGwIp8n5XJ"
+      },
+      "artists": [
+        {
+          "name": "Luar La L",
+          "url": "https://open.spotify.com/artist/4axKuDPr6WKcDCyh8vueTY"
+        }
+      ],
+      "duration_ms": 183428,
+      "name": "Mention",
+      "url": "https://open.spotify.com/track/3SooDD3ycCki4IMZCHM7OR"
+    },
+    {
+      "added_at": "2023-06-09 02:27:24",
+      "album": {
         "name": "T\u00fa Eres Loca?",
         "url": "https://open.spotify.com/album/6ygS8nXo9JLjrjxYIWRo9X"
       },
@@ -831,18 +847,18 @@
     {
       "added_at": "2023-06-09 02:27:24",
       "album": {
-        "name": "L3tra 2",
-        "url": "https://open.spotify.com/album/5uhDPHXOesUiqGwIp8n5XJ"
+        "name": "Bonnie and Clyde",
+        "url": "https://open.spotify.com/album/37xfmf71ctyktw4VCiFWc7"
       },
       "artists": [
         {
-          "name": "Luar La L",
-          "url": "https://open.spotify.com/artist/4axKuDPr6WKcDCyh8vueTY"
+          "name": "iZaak",
+          "url": "https://open.spotify.com/artist/4s6Xg38sbqh4xpf4OqhVUK"
         }
       ],
-      "duration_ms": 183428,
-      "name": "Mention",
-      "url": "https://open.spotify.com/track/3SooDD3ycCki4IMZCHM7OR"
+      "duration_ms": 209192,
+      "name": "Bonnie and Clyde",
+      "url": "https://open.spotify.com/track/06YfgRDoApwaMSQVHSCPMP"
     },
     {
       "added_at": "2023-06-09 02:27:24",
@@ -883,22 +899,6 @@
     {
       "added_at": "2023-06-09 02:27:24",
       "album": {
-        "name": "Bonnie and Clyde",
-        "url": "https://open.spotify.com/album/37xfmf71ctyktw4VCiFWc7"
-      },
-      "artists": [
-        {
-          "name": "iZaak",
-          "url": "https://open.spotify.com/artist/4s6Xg38sbqh4xpf4OqhVUK"
-        }
-      ],
-      "duration_ms": 209192,
-      "name": "Bonnie and Clyde",
-      "url": "https://open.spotify.com/track/06YfgRDoApwaMSQVHSCPMP"
-    },
-    {
-      "added_at": "2023-06-09 02:27:24",
-      "album": {
         "name": "Private Suite (Vol. 1)",
         "url": "https://open.spotify.com/album/2LWGIFtUcl0NxjjoyVv3ex"
       },
@@ -915,22 +915,6 @@
     {
       "added_at": "2023-06-09 02:27:24",
       "album": {
-        "name": "La Sustancia X",
-        "url": "https://open.spotify.com/album/3vNcWxeBpYQJ9OkAcm3ch3"
-      },
-      "artists": [
-        {
-          "name": "Villano Antillano",
-          "url": "https://open.spotify.com/artist/1pi7nGhOM7PTHR5YEgXVGq"
-        }
-      ],
-      "duration_ms": 190840,
-      "name": "Hedonismo",
-      "url": "https://open.spotify.com/track/7l6H2qBoaTETYgvYHSRQ9I"
-    },
-    {
-      "added_at": "2023-06-09 02:27:24",
-      "album": {
         "name": "Te La Dedico",
         "url": "https://open.spotify.com/album/7KGERR76ARYMU0z9AO1Z3Y"
       },
@@ -943,6 +927,22 @@
       "duration_ms": 231724,
       "name": "Te La Dedico",
       "url": "https://open.spotify.com/track/6z3IrUfL5HxmpH0Xt84Es8"
+    },
+    {
+      "added_at": "2023-06-09 02:27:24",
+      "album": {
+        "name": "La Sustancia X",
+        "url": "https://open.spotify.com/album/3vNcWxeBpYQJ9OkAcm3ch3"
+      },
+      "artists": [
+        {
+          "name": "Villano Antillano",
+          "url": "https://open.spotify.com/artist/1pi7nGhOM7PTHR5YEgXVGq"
+        }
+      ],
+      "duration_ms": 190840,
+      "name": "Hedonismo",
+      "url": "https://open.spotify.com/track/7l6H2qBoaTETYgvYHSRQ9I"
     },
     {
       "added_at": "2023-06-09 02:27:24",
@@ -1847,26 +1847,6 @@
     {
       "added_at": "2023-06-09 02:27:24",
       "album": {
-        "name": "Si Si",
-        "url": "https://open.spotify.com/album/7fJRgKViojIrwZFyrAl76b"
-      },
-      "artists": [
-        {
-          "name": "Osquel",
-          "url": "https://open.spotify.com/artist/2pG0eQLB8CbmmWWmjJi4yd"
-        },
-        {
-          "name": "Ankhal",
-          "url": "https://open.spotify.com/artist/6NmMI7UnfmIpLRYoz8H9jm"
-        }
-      ],
-      "duration_ms": 200362,
-      "name": "Si Si",
-      "url": "https://open.spotify.com/track/58C7oLoWmbVgBIR7r7A3Ao"
-    },
-    {
-      "added_at": "2023-06-09 02:27:24",
-      "album": {
         "name": "C\u00f3digos",
         "url": "https://open.spotify.com/album/04lH7i7S1sf9xDx2zbIQZd"
       },
@@ -1883,6 +1863,26 @@
       "duration_ms": 216521,
       "name": "En Mis Sue\u00f1os",
       "url": "https://open.spotify.com/track/0CyBQFxnc2OQIZ2AVxDxLy"
+    },
+    {
+      "added_at": "2023-06-09 02:27:24",
+      "album": {
+        "name": "Si Si",
+        "url": "https://open.spotify.com/album/7fJRgKViojIrwZFyrAl76b"
+      },
+      "artists": [
+        {
+          "name": "Osquel",
+          "url": "https://open.spotify.com/artist/2pG0eQLB8CbmmWWmjJi4yd"
+        },
+        {
+          "name": "Ankhal",
+          "url": "https://open.spotify.com/artist/6NmMI7UnfmIpLRYoz8H9jm"
+        }
+      ],
+      "duration_ms": 200362,
+      "name": "Si Si",
+      "url": "https://open.spotify.com/track/58C7oLoWmbVgBIR7r7A3Ao"
     }
   ],
   "unique_name": "Hecho en Puerto Rico",

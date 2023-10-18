@@ -4,7 +4,7 @@
 
 > The ultimate line\-up of Summer anthems, strap in !!!
 
-84 songs - 5 hr 0 min
+85 songs - 5 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,7 +14,8 @@
 | [All Summer Long](https://open.spotify.com/track/5rX6C5QVvvZB7XckETNych) | [Kid Rock](https://open.spotify.com/artist/7dOBabd5O4CvKrg4iriHTM) | [Rock n Roll Jesus](https://open.spotify.com/album/2xChdOg0PvxzHzE1BooUpI) | 4:57 | 2023-02-28 |  |
 | [Am I Wrong](https://open.spotify.com/track/1fidCEsYlaVE3pHwKCvpFZ) | [Nico & Vinz](https://open.spotify.com/artist/0awl5piYwO0CDTHEkCjUhn) | [Black Star Elephant](https://open.spotify.com/album/6zXb9FQMzawvY2Au8Kxky3) | 4:05 | 2023-02-28 |  |
 | [Another Chance \(Radio Edit\)](https://open.spotify.com/track/46WVWDw8SubxyzQUXRBWt4) | [Roger Sanchez](https://open.spotify.com/artist/1HT9k1ZSUL9IczSstOAgWJ) | [Another Chance](https://open.spotify.com/album/1KyaCwJ2Hcz1M5g7qQcmue) | 3:30 | 2023-02-28 |  |
-| [Are You With Me \- Radio Edit](https://open.spotify.com/track/62nhuooamoroYpJyqE0nLd) | [Lost Frequencies](https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7) | [Less Is More](https://open.spotify.com/album/5HXThyoACKMuMdRU5HosWH) | 2:18 | 2023-02-28 |  |
+| [Are You With Me \- Radio Edit](https://open.spotify.com/track/2glGP8kEfACgJdZ86kWxhN) | [Lost Frequencies](https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7) | [Less Is More](https://open.spotify.com/album/57AJ70IWVE0pmPwNYBa4PT) | 2:18 | 2023-02-28 |  |
+| [Are You With Me \- Radio Edit](https://open.spotify.com/track/62nhuooamoroYpJyqE0nLd) | [Lost Frequencies](https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7) | [Less Is More](https://open.spotify.com/album/5HXThyoACKMuMdRU5HosWH) | 2:18 | 2023-02-28 | 2023-10-18 |
 | [Babycakes](https://open.spotify.com/track/0dAn58pe2GWDTlqa2Th4mP) | [3 Of A Kind](https://open.spotify.com/artist/0WG74hoaVTaNb3hx3yRqb1) | [Babycakes](https://open.spotify.com/album/4sW39hh7uYqe8zDg7ylPAW) | 2:34 | 2023-02-28 |  |
 | [Beautiful Liar](https://open.spotify.com/track/2HWWNoWEEEECwZhAiLg7ib) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m), [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [B'Day Deluxe Edition](https://open.spotify.com/album/0Zd10MKN5j9KwUST0TdBBB) | 3:19 | 2023-02-28 |  |
 | [Black & Gold \- Radio Edit](https://open.spotify.com/track/1r9G1B0OJzb2O8NBPo4vLL) | [Sam Sparro](https://open.spotify.com/artist/0H0rBbf7vHXO3qh50Wap7y) | [Noughties Songs](https://open.spotify.com/album/1wD1MhNeYZT4RO9FE4Intf) | 3:30 | 2023-02-28 |  |

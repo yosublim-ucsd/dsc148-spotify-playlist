@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT5lkChsPmpy.md) - [plain]
 
 > Lounge and chill out music for your workday.
 
-[Spotify](https://open.spotify.com/user/spotify) - 368,476 likes - 198 songs - 8 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 368,593 likes - 198 songs - 8 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT5lkChsPmpy.md) - [plain]
 | 8 | [Il Mondriano](https://open.spotify.com/track/2ZibD5qD4jwNZop2b1Makp) | [papi.](https://open.spotify.com/artist/0zTABUBaGxFgQDVA8wPkqh) | [Il Mondriano](https://open.spotify.com/album/6kXz6KY2SuqFbq2O9qwnzG) | 3:27 |
 | 9 | [lighting](https://open.spotify.com/track/2MRALsAuVvzfUAHP0RT2er) | [Gramercy](https://open.spotify.com/artist/7tazsVXyiv13qgBbmDRtHI) | [lighting](https://open.spotify.com/album/5f3JBcC6rK8b7pieUCPHsE) | 2:54 |
 | 10 | [Frozen Memories](https://open.spotify.com/track/2ejgbXue8mMCqaVQSNVhzb) | [Pat Laine](https://open.spotify.com/artist/4ayEtUqC4VtbghdfnMjW9g) | [Frozen Memories](https://open.spotify.com/album/0LxcbKHPy8NiCDZTcUAFrV) | 2:15 |
-| 11 | [loving](https://open.spotify.com/track/6KlU7wdqB6FuYzdr2nG8tl) | [Midnight Moon](https://open.spotify.com/artist/2rAbGV9R426clLWzjOQhIB) | [loving](https://open.spotify.com/album/7bRrqZ9yNKXnd0uKhzlx9G) | 2:38 |
+| 11 | [loving](https://open.spotify.com/track/6KlU7wdqB6FuYzdr2nG8tl) | [Dancing Mittens](https://open.spotify.com/artist/0X1U4UpoYDcQKr28oNEgQe) | [loving](https://open.spotify.com/album/7bRrqZ9yNKXnd0uKhzlx9G) | 2:38 |
 | 12 | [All In](https://open.spotify.com/track/0J4GC21u9mvvZv6AS0f2dv) | [Deauxnuts](https://open.spotify.com/artist/4FCrhj46HBtMVt61k35zMB), [Glimlip](https://open.spotify.com/artist/5wEF5my54dE5vMMmSUz2q3) | [All In](https://open.spotify.com/album/0ypQJe3UArCxJJKP1DJWw8) | 2:37 |
 | 13 | [Levitate](https://open.spotify.com/track/7dxp8lVzYsTLmXol1sAOKh) | [Convivial](https://open.spotify.com/artist/59HctYEqVbvHq6aJ766KPH) | [Levitate](https://open.spotify.com/album/7Ha54KNva8eRTES9LrnudX) | 2:11 |
 | 14 | [Zodiac Interstellar](https://open.spotify.com/track/2lOa0pC5BbOchxyxWg9EPS) | [Mimimi](https://open.spotify.com/artist/5RE5W8McrdwFqlv0mG2Jet) | [Zodiac Interstellar](https://open.spotify.com/album/0U6GqcJAnfi8qr9KCwVzpJ) | 2:34 |
@@ -207,4 +207,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT5lkChsPmpy.md) - [plain]
 | 197 | [Torches to the Sky](https://open.spotify.com/track/5aIpECieH9BYbLdUt6iJI4) | [Lighter Days](https://open.spotify.com/artist/2ruDLZUYhNG7PMwQWEt0Pn) | [Torches to the Sky](https://open.spotify.com/album/0lHKzPVZAFbn3LXmtmcp6C) | 3:21 |
 | 198 | [Joseph's Well](https://open.spotify.com/track/1qfKWLhAOL9PBvZ5wsOhsU) | [Orange Roundabout](https://open.spotify.com/artist/5MLibyV1Zt03HCKOvJCHnB) | [Joseph's Well](https://open.spotify.com/album/7EZfQDTuKmTGircFR8XA9A) | 2:07 |
 
-Snapshot ID: `MCw5NWQ4YThiMjg1NzllZDU5MThlYTM2YjZiZWEzNWRiNzNkNTUxNjM3`
+Snapshot ID: `MCwwYzBjMTFhY2I4MTk2NzExNDMzNTIwN2ZjNjJkMzY3ZTcwNzQ4OTA5`

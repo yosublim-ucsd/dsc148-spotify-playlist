@@ -1,12 +1,12 @@
 {
   "description": "A feel-good soulful house  and disco selection.",
-  "num_followers": 348625,
+  "num_followers": 348638,
   "original_name": "Groove Theory",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjZWMzMGVlOTEzMTRkMDZkNTk5MTQ1YmEyNjk2ZDAxZjA4YjJiZGJm",
+  "snapshot_id": "MCwzNDNkYjZiMTBiNjllNzVhMzY0YTFiMjZjZWY1YTlhNDJlNDNmOTMz",
   "tracks": [
     {
       "added_at": "2023-08-25 14:04:15",
@@ -223,22 +223,6 @@
     {
       "added_at": "2023-08-25 14:04:15",
       "album": {
-        "name": "Something About",
-        "url": "https://open.spotify.com/album/3qlZd2dgippiunzkO8D0pM"
-      },
-      "artists": [
-        {
-          "name": "CRi",
-          "url": "https://open.spotify.com/artist/3NaMuUYTIGm6CC3YqTuTvi"
-        }
-      ],
-      "duration_ms": 224826,
-      "name": "Something About",
-      "url": "https://open.spotify.com/track/5z3Qr6kEyJiZhB0WHJSmCQ"
-    },
-    {
-      "added_at": "2023-08-25 14:04:15",
-      "album": {
         "name": "times",
         "url": "https://open.spotify.com/album/6WlRyrfOBZGYA5u5TmloKY"
       },
@@ -251,6 +235,22 @@
       "duration_ms": 259173,
       "name": "Time",
       "url": "https://open.spotify.com/track/2Oc5ez4PVPnIWAmYr8i99V"
+    },
+    {
+      "added_at": "2023-08-25 14:04:15",
+      "album": {
+        "name": "Something About",
+        "url": "https://open.spotify.com/album/3qlZd2dgippiunzkO8D0pM"
+      },
+      "artists": [
+        {
+          "name": "CRi",
+          "url": "https://open.spotify.com/artist/3NaMuUYTIGm6CC3YqTuTvi"
+        }
+      ],
+      "duration_ms": 224826,
+      "name": "Something About",
+      "url": "https://open.spotify.com/track/5z3Qr6kEyJiZhB0WHJSmCQ"
     },
     {
       "added_at": "2023-08-25 14:04:15",
@@ -447,26 +447,6 @@
     {
       "added_at": "2023-08-25 14:04:15",
       "album": {
-        "name": "Love Will Set U Free",
-        "url": "https://open.spotify.com/album/2q1yFtPevPCNlp06WDzfFc"
-      },
-      "artists": [
-        {
-          "name": "Monkey Safari",
-          "url": "https://open.spotify.com/artist/5zovXI5By2gUhdr7EByjLa"
-        },
-        {
-          "name": "DJ Island",
-          "url": "https://open.spotify.com/artist/0B8uvQRg70TpBi26MKtJxY"
-        }
-      ],
-      "duration_ms": 354365,
-      "name": "Sometimes",
-      "url": "https://open.spotify.com/track/7vApqfnpLqrKeR6VISh0wH"
-    },
-    {
-      "added_at": "2023-08-25 14:04:15",
-      "album": {
         "name": "My Own Way",
         "url": "https://open.spotify.com/album/6sgwScp59KuNiOPvexBNfA"
       },
@@ -483,6 +463,26 @@
       "duration_ms": 141000,
       "name": "My Own Way",
       "url": "https://open.spotify.com/track/7Csd6ozp0Ci3ZDfvRgzrWz"
+    },
+    {
+      "added_at": "2023-08-25 14:04:15",
+      "album": {
+        "name": "Love Will Set U Free",
+        "url": "https://open.spotify.com/album/2q1yFtPevPCNlp06WDzfFc"
+      },
+      "artists": [
+        {
+          "name": "Monkey Safari",
+          "url": "https://open.spotify.com/artist/5zovXI5By2gUhdr7EByjLa"
+        },
+        {
+          "name": "DJ Island",
+          "url": "https://open.spotify.com/artist/0B8uvQRg70TpBi26MKtJxY"
+        }
+      ],
+      "duration_ms": 354365,
+      "name": "Sometimes",
+      "url": "https://open.spotify.com/track/7vApqfnpLqrKeR6VISh0wH"
     },
     {
       "added_at": "2023-08-25 14:04:15",
@@ -947,6 +947,22 @@
     {
       "added_at": "2023-08-25 14:04:15",
       "album": {
+        "name": "Hope",
+        "url": "https://open.spotify.com/album/0P99ZtWpQyIFHAmHWDAXaL"
+      },
+      "artists": [
+        {
+          "name": "Friend Within",
+          "url": "https://open.spotify.com/artist/4FJPplt1JOVw8Q7NiwFmLv"
+        }
+      ],
+      "duration_ms": 182950,
+      "name": "Ghetto Rock",
+      "url": "https://open.spotify.com/track/0CPP8Ln8Rl87Fl96zm9il8"
+    },
+    {
+      "added_at": "2023-08-25 14:04:15",
+      "album": {
         "name": "Do you Feel Like I do?",
         "url": "https://open.spotify.com/album/7yKlkYxkKBk7dFZoexmJlb"
       },
@@ -963,22 +979,6 @@
       "duration_ms": 398095,
       "name": "Do you Feel Like I do?",
       "url": "https://open.spotify.com/track/5xbKD51JPTqbqLjWnvmnmF"
-    },
-    {
-      "added_at": "2023-08-25 14:04:15",
-      "album": {
-        "name": "Hope",
-        "url": "https://open.spotify.com/album/0P99ZtWpQyIFHAmHWDAXaL"
-      },
-      "artists": [
-        {
-          "name": "Friend Within",
-          "url": "https://open.spotify.com/artist/4FJPplt1JOVw8Q7NiwFmLv"
-        }
-      ],
-      "duration_ms": 182950,
-      "name": "Ghetto Rock",
-      "url": "https://open.spotify.com/track/0CPP8Ln8Rl87Fl96zm9il8"
     },
     {
       "added_at": "2023-08-25 14:04:15",
@@ -1047,26 +1047,6 @@
     {
       "added_at": "2023-08-25 14:04:15",
       "album": {
-        "name": "Second Chance (feat. Kimberly Davis)",
-        "url": "https://open.spotify.com/album/22pSFdjEFh3dbm3TCw8sXc"
-      },
-      "artists": [
-        {
-          "name": "The Shapeshifters",
-          "url": "https://open.spotify.com/artist/60FV7KyxIH9FH1uq7u8inP"
-        },
-        {
-          "name": "Kimberly Davis",
-          "url": "https://open.spotify.com/artist/1mQYmp7PviGfyjSb2oJ6gJ"
-        }
-      ],
-      "duration_ms": 204132,
-      "name": "Second Chance (feat. Kimberly Davis)",
-      "url": "https://open.spotify.com/track/1hx5zZoz6ARiIAss9hL7tz"
-    },
-    {
-      "added_at": "2023-08-25 14:04:15",
-      "album": {
         "name": "I Want",
         "url": "https://open.spotify.com/album/3EPYtjJznEmZMx7c5pW1Ro"
       },
@@ -1079,30 +1059,6 @@
       "duration_ms": 148000,
       "name": "I Want",
       "url": "https://open.spotify.com/track/2MRbbtbADstXAGGOO60Zav"
-    },
-    {
-      "added_at": "2023-08-25 14:04:15",
-      "album": {
-        "name": "It\u2019s Alright",
-        "url": "https://open.spotify.com/album/6iFgMXDNtmp5byEle3guZg"
-      },
-      "artists": [
-        {
-          "name": "Marshall Jefferson",
-          "url": "https://open.spotify.com/artist/2Di8r9df6xjyj6CVOqbGVz"
-        },
-        {
-          "name": "George Smeddles",
-          "url": "https://open.spotify.com/artist/5HT6hDqzq0B7EFlokN0hK2"
-        },
-        {
-          "name": "Paris Brightledge",
-          "url": "https://open.spotify.com/artist/0qYaFWcuXTF2AsQ49N6Kul"
-        }
-      ],
-      "duration_ms": 210181,
-      "name": "It\u2019s Alright",
-      "url": "https://open.spotify.com/track/3yilgLESv6zoBnGPsRM7Qh"
     },
     {
       "added_at": "2023-08-25 14:04:15",
@@ -1123,6 +1079,42 @@
       "duration_ms": 181500,
       "name": "Disco Hearts",
       "url": "https://open.spotify.com/track/5XZgARVFrnVsMThGk0CFTl"
+    },
+    {
+      "added_at": "2023-08-25 14:04:15",
+      "album": {
+        "name": "Second Chance (feat. Kimberly Davis)",
+        "url": "https://open.spotify.com/album/22pSFdjEFh3dbm3TCw8sXc"
+      },
+      "artists": [
+        {
+          "name": "The Shapeshifters",
+          "url": "https://open.spotify.com/artist/60FV7KyxIH9FH1uq7u8inP"
+        },
+        {
+          "name": "Kimberly Davis",
+          "url": "https://open.spotify.com/artist/1mQYmp7PviGfyjSb2oJ6gJ"
+        }
+      ],
+      "duration_ms": 204132,
+      "name": "Second Chance (feat. Kimberly Davis)",
+      "url": "https://open.spotify.com/track/1hx5zZoz6ARiIAss9hL7tz"
+    },
+    {
+      "added_at": "2023-08-25 14:04:15",
+      "album": {
+        "name": "Back Tae Ayr",
+        "url": "https://open.spotify.com/album/6YGqlfu2U6aUkzPSViek27"
+      },
+      "artists": [
+        {
+          "name": "Ewan McVicar",
+          "url": "https://open.spotify.com/artist/4d2NUjh9ZrzG1ZZdhpSDKH"
+        }
+      ],
+      "duration_ms": 332931,
+      "name": "Back Tae Ayr",
+      "url": "https://open.spotify.com/track/1AH6GkZnybM0R5WZZTj7GF"
     }
   ],
   "unique_name": "Groove Theory",

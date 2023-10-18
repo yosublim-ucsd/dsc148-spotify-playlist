@@ -1,12 +1,12 @@
 {
   "description": "Not NOT pop. Cover: ericdoa",
-  "num_followers": 696129,
+  "num_followers": 696150,
   "original_name": "anti pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2N2IwNDU2YmNkMWVmNmY1NDJjMTQyMjlmMzIzMzQyYmQyZDc2MDA0",
+  "snapshot_id": "MCw0YTJmOGUwZjdlOTY4MGRkYmY3NTliNGU0Nzg1MDY1MDhlZDYyMzMx",
   "tracks": [
     {
       "added_at": "2023-09-22 16:42:23",
@@ -23,6 +23,26 @@
       "duration_ms": 130207,
       "name": "kickstand",
       "url": "https://open.spotify.com/track/2T6D4elLJtJs5V1DHhrDi1"
+    },
+    {
+      "added_at": "2023-10-17 13:59:02",
+      "album": {
+        "name": "How Do You Sleep At Night?",
+        "url": "https://open.spotify.com/album/2zm0qaBZaaH4zAaCCqU2cF"
+      },
+      "artists": [
+        {
+          "name": "Teezo Touchdown",
+          "url": "https://open.spotify.com/artist/0fGcIStdT1OpFFhOC7Wp36"
+        },
+        {
+          "name": "Foushe\u00e9",
+          "url": "https://open.spotify.com/artist/6trIghKwHRUyxwvm66HLHH"
+        }
+      ],
+      "duration_ms": 132786,
+      "name": "Sweet (feat. Foushe\u00e9)",
+      "url": "https://open.spotify.com/track/2X3noddA1Gi8OmJVRP4eYC"
     },
     {
       "added_at": "2023-10-13 04:00:00",
@@ -151,6 +171,26 @@
       "duration_ms": 185105,
       "name": "my sweet caroline",
       "url": "https://open.spotify.com/track/41FPk5C1XcGEYIpTHVoCO5"
+    },
+    {
+      "added_at": "2023-10-17 19:44:13",
+      "album": {
+        "name": "SCRAPYARD I",
+        "url": "https://open.spotify.com/album/0EVBIlbbAPSiXj2tRH5nE4"
+      },
+      "artists": [
+        {
+          "name": "Quadeca",
+          "url": "https://open.spotify.com/artist/3zz52ViyCBcplK0ftEVPSS"
+        },
+        {
+          "name": "brakence",
+          "url": "https://open.spotify.com/artist/4kqFrZkeqDfOIEqTWqbOOV"
+        }
+      ],
+      "duration_ms": 181915,
+      "name": "A LA CARTE",
+      "url": "https://open.spotify.com/track/5L6F6siaHwwpuR1exuZPnH"
     },
     {
       "added_at": "2023-10-13 16:01:40",

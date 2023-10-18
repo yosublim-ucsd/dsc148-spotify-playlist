@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-15",
-  "description": "The legendary classics meet the newest cutting edge. This is Japanese punk. cover: HEY-SMITH",
+  "description": "The legendary classics meet the newest cutting edge. This is Japanese punk. cover: Ken Yokoyama",
   "name": "Punk Japan",
   "tracks": [
     {
@@ -618,7 +618,7 @@
       ],
       "date_added": "2022-05-12",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-16",
+      "date_removed": null,
       "duration_ms": 233879,
       "name": "Better Days",
       "url": "https://open.spotify.com/track/5UW8UdlVS8MGbfD2ULYcO3"
@@ -2290,7 +2290,7 @@
       ],
       "date_added": "2023-09-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-18",
       "duration_ms": 224669,
       "name": "FLY & DIVE",
       "url": "https://open.spotify.com/track/1GyJ9861V1V5xddnmDIRpx"
@@ -4406,6 +4406,24 @@
       "duration_ms": 191866,
       "name": "MY FIRST KISS",
       "url": "https://open.spotify.com/track/5KwK5Ojq91gC2gBEWuopOS"
+    },
+    {
+      "album": {
+        "name": "My One Wish",
+        "url": "https://open.spotify.com/album/0LPc8YbGDUS4xkphNIQIbk"
+      },
+      "artists": [
+        {
+          "name": "Ken Yokoyama",
+          "url": "https://open.spotify.com/artist/4pPZ7nNH108ax8A1sjxfpX"
+        }
+      ],
+      "date_added": "2023-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172092,
+      "name": "My One Wish",
+      "url": "https://open.spotify.com/track/5TO9cofRiOhakgaMh3f75i"
     },
     {
       "album": {
@@ -7250,7 +7268,7 @@
       ],
       "date_added": "2023-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-18",
       "duration_ms": 140440,
       "name": "That's all enough.",
       "url": "https://open.spotify.com/track/2Th0tCO7TJfcAdh9Tu9TyP"
@@ -7419,6 +7437,24 @@
     },
     {
       "album": {
+        "name": "My One Wish",
+        "url": "https://open.spotify.com/album/0LPc8YbGDUS4xkphNIQIbk"
+      },
+      "artists": [
+        {
+          "name": "Ken Yokoyama",
+          "url": "https://open.spotify.com/artist/4pPZ7nNH108ax8A1sjxfpX"
+        }
+      ],
+      "date_added": "2023-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143759,
+      "name": "Time Waits For No One",
+      "url": "https://open.spotify.com/track/2S9rqwwSSQejxj0sNnGxf5"
+    },
+    {
+      "album": {
         "name": "TOKOSHIENI",
         "url": "https://open.spotify.com/album/6EDHO33gg2AdhTBmTyScd3"
       },
@@ -7430,10 +7466,32 @@
       ],
       "date_added": "2023-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-18",
       "duration_ms": 246240,
       "name": "TOKOSHIENI",
       "url": "https://open.spotify.com/track/2rn0JaKCLzRymIeV6H4Nmf"
+    },
+    {
+      "album": {
+        "name": "My One Wish",
+        "url": "https://open.spotify.com/album/0LPc8YbGDUS4xkphNIQIbk"
+      },
+      "artists": [
+        {
+          "name": "Ken Yokoyama",
+          "url": "https://open.spotify.com/artist/4pPZ7nNH108ax8A1sjxfpX"
+        },
+        {
+          "name": "Kaela Kimura",
+          "url": "https://open.spotify.com/artist/56Eer6ASRcE4aJHJwejTuN"
+        }
+      ],
+      "date_added": "2023-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156159,
+      "name": "Tomorrow",
+      "url": "https://open.spotify.com/track/5iKomi6VipIbpiwOZtoBsh"
     },
     {
       "album": {
@@ -8122,7 +8180,7 @@
       ],
       "date_added": "2023-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-18",
       "duration_ms": 230093,
       "name": "Windy",
       "url": "https://open.spotify.com/track/7h2flq5JmLcAVgKak5dN2f"
@@ -10554,7 +10612,7 @@
       ],
       "date_added": "2023-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-18",
       "duration_ms": 209454,
       "name": "\u60a9\u3080\u306a\u5c11\u5e74\u3001\u5c11\u5973",
       "url": "https://open.spotify.com/track/7qIDZv7P3Ui8MWq3zMmQv6"
@@ -10828,8 +10886,8 @@
       ],
       "date_added": "2022-05-12",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-11",
-      "duration_ms": 221167,
+      "date_removed": null,
+      "duration_ms": 222125,
       "name": "\u66d6\u6627",
       "url": "https://open.spotify.com/track/46LzUNQbhoNBTcBNp0dtsH"
     },

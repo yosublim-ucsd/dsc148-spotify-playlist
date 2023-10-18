@@ -1,12 +1,12 @@
 {
   "description": "Uptempo jazz classics.",
-  "num_followers": 17739,
+  "num_followers": 17840,
   "original_name": "Upbeat Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3NzMzNGZhZTgyNGJiZjNhNDRkZWQ4NWUwN2U3NTkyNzVkOGU0YTMw",
+  "snapshot_id": "MCwzOTliZGI4NWU1NzQzMTlhNDk3MzY1ODFmYjkyOTg1MmM3ZjkyMDc3",
   "tracks": [
     {
       "added_at": "2023-10-12 11:27:50",
@@ -95,22 +95,6 @@
     {
       "added_at": "2023-10-12 11:27:50",
       "album": {
-        "name": "JuJu",
-        "url": "https://open.spotify.com/album/46VoobaZCtFPReElOHFEqq"
-      },
-      "artists": [
-        {
-          "name": "Wayne Shorter",
-          "url": "https://open.spotify.com/artist/0ZqhrTXYPA9DZR527ZnFdO"
-        }
-      ],
-      "duration_ms": 399466,
-      "name": "Yes Or No - Rudy Van Gelder 24 Bit Mastering/1999 Digital Remaster",
-      "url": "https://open.spotify.com/track/2PGjqrXgOBqP8G4R6EKmpR"
-    },
-    {
-      "added_at": "2023-10-12 11:27:50",
-      "album": {
         "name": "Mingus Ah Um",
         "url": "https://open.spotify.com/album/7pojWP7x9uEFSJgw765khA"
       },
@@ -123,6 +107,22 @@
       "duration_ms": 298960,
       "name": "Boogie Stop Shuffle",
       "url": "https://open.spotify.com/track/11cHTwgw5L3qrNcv5Ugv0O"
+    },
+    {
+      "added_at": "2023-10-12 11:27:50",
+      "album": {
+        "name": "JuJu",
+        "url": "https://open.spotify.com/album/46VoobaZCtFPReElOHFEqq"
+      },
+      "artists": [
+        {
+          "name": "Wayne Shorter",
+          "url": "https://open.spotify.com/artist/0ZqhrTXYPA9DZR527ZnFdO"
+        }
+      ],
+      "duration_ms": 399466,
+      "name": "Yes Or No - Rudy Van Gelder 24 Bit Mastering/1999 Digital Remaster",
+      "url": "https://open.spotify.com/track/2PGjqrXgOBqP8G4R6EKmpR"
     },
     {
       "added_at": "2023-10-12 11:27:50",
@@ -495,22 +495,6 @@
     {
       "added_at": "2023-10-12 11:27:50",
       "album": {
-        "name": "Cannonball Adderley Quintet In Chicago",
-        "url": "https://open.spotify.com/album/5XrBfIAn0HPSmeOvcmkNpk"
-      },
-      "artists": [
-        {
-          "name": "The Cannonball Adderley Quintet",
-          "url": "https://open.spotify.com/artist/2o346NHhUAlVxl5uXBVxK7"
-        }
-      ],
-      "duration_ms": 280226,
-      "name": "Limehouse Blues",
-      "url": "https://open.spotify.com/track/4CkdTvoBBvdSv5aAryGT3i"
-    },
-    {
-      "added_at": "2023-10-12 11:27:50",
-      "album": {
         "name": "Incredible Jazz Guitar",
         "url": "https://open.spotify.com/album/1junpO1JYOvWEcWOIt5PpP"
       },
@@ -523,6 +507,22 @@
       "duration_ms": 266666,
       "name": "Airegin",
       "url": "https://open.spotify.com/track/32mnjN5E4cGbaEogtZdHMh"
+    },
+    {
+      "added_at": "2023-10-12 11:27:50",
+      "album": {
+        "name": "Cannonball Adderley Quintet In Chicago",
+        "url": "https://open.spotify.com/album/5XrBfIAn0HPSmeOvcmkNpk"
+      },
+      "artists": [
+        {
+          "name": "The Cannonball Adderley Quintet",
+          "url": "https://open.spotify.com/artist/2o346NHhUAlVxl5uXBVxK7"
+        }
+      ],
+      "duration_ms": 280226,
+      "name": "Limehouse Blues",
+      "url": "https://open.spotify.com/track/4CkdTvoBBvdSv5aAryGT3i"
     },
     {
       "added_at": "2023-10-12 11:27:50",
@@ -607,6 +607,22 @@
     {
       "added_at": "2023-10-12 11:27:50",
       "album": {
+        "name": "Smokin' At The Half Note (Expanded Edition)",
+        "url": "https://open.spotify.com/album/2frSEIQat4tSS4nCcrW0Hy"
+      },
+      "artists": [
+        {
+          "name": "Wes Montgomery",
+          "url": "https://open.spotify.com/artist/03YhcM6fxypfwckPCQV8pQ"
+        }
+      ],
+      "duration_ms": 303333,
+      "name": "Impressions - Live At The Half Note /1965",
+      "url": "https://open.spotify.com/track/6UkSSoeVvxyUFBzDVtLiTe"
+    },
+    {
+      "added_at": "2023-10-12 11:27:50",
+      "album": {
         "name": "Stitt Plays Bird (Remastered Version)",
         "url": "https://open.spotify.com/album/1MXypNppCEPqKRxDhGbVxh"
       },
@@ -679,22 +695,6 @@
       "duration_ms": 306626,
       "name": "Toy",
       "url": "https://open.spotify.com/track/67oiijmAnyuUHAyM1k9vYW"
-    },
-    {
-      "added_at": "2023-10-12 11:27:50",
-      "album": {
-        "name": "Smokin' At The Half Note (Expanded Edition)",
-        "url": "https://open.spotify.com/album/2frSEIQat4tSS4nCcrW0Hy"
-      },
-      "artists": [
-        {
-          "name": "Wes Montgomery",
-          "url": "https://open.spotify.com/artist/03YhcM6fxypfwckPCQV8pQ"
-        }
-      ],
-      "duration_ms": 303333,
-      "name": "Impressions - Live At The Half Note /1965",
-      "url": "https://open.spotify.com/track/6UkSSoeVvxyUFBzDVtLiTe"
     },
     {
       "added_at": "2023-10-12 11:27:50",

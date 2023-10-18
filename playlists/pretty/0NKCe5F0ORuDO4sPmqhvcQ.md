@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0NKCe5F0ORuDO4sPmqhvcQ.md) - [plain]
 
 > selects from music we've been listening to @ Moving Castle\. Manila Killa's album, Dusk drops July 21st!
 
-[Moving Castle](https://open.spotify.com/user/moving-castle) - 20,915 likes - 117 songs - 6 hr 43 min
+[Moving Castle](https://open.spotify.com/user/moving-castle) - 20,913 likes - 118 songs - 6 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -125,5 +125,6 @@ pretty - [cumulative](/playlists/cumulative/0NKCe5F0ORuDO4sPmqhvcQ.md) - [plain]
 | 115 | [Strangers \(feat\. Linney\)](https://open.spotify.com/track/7wKCuyM3ePTmBtygQMqbDB) | [Young Bombs](https://open.spotify.com/artist/4LKB1IkCINDDjEX8iS7glI), [Linney](https://open.spotify.com/artist/0vomb9Zaob10lPzxBcIiNb) | [Strangers \(feat\. Linney\)](https://open.spotify.com/album/1xN5qOb2SI9zDM2u0UricP) | 3:15 |
 | 116 | [Fallin'](https://open.spotify.com/track/5S50KnoWF8B39yp0DziC7U) | [Late Night Therapy](https://open.spotify.com/artist/2mlllc3fdsSFJHJDBcg33I) | [Fallin'](https://open.spotify.com/album/5u0iectTVN6O01g7ca1yCt) | 4:32 |
 | 117 | [Moth Love](https://open.spotify.com/track/0lP6dtgyfTtVcxJ1GVmIyA) | [1tbsp](https://open.spotify.com/artist/6G01WYFYF91rjG5LtwMhY4) | [Moth Love](https://open.spotify.com/album/3TmRBALTpwplqDDM4ZRPMr) | 3:22 |
+| 118 | [Ripple \(feat\. grandpa julie\)](https://open.spotify.com/track/2SqlWDESCdIb0QKNP0sByv) | [juuku](https://open.spotify.com/artist/2ixBQngmF4ZFXYHi8sJTfl), [grandpa julie](https://open.spotify.com/artist/6P38Kx1SGQCgAQHqv0LjAs) | [Ripple \(feat\. grandpa julie\)](https://open.spotify.com/album/0quSSIvZNfb6kxR8JcMRgM) | 3:03 |
 
-Snapshot ID: `MTA1MzYsMTYwMTJmYmVlMmFhYzNiZDQ5MmIwMTc5NzFiZTYzMDVmZDgxYWYzZg==`
+Snapshot ID: `MTA1MzcsMTRiMjM2MmUyY2Q4OTAyY2U2NTcxYzU2ZGZmM2NhN2FjYTg5M2FmNg==`

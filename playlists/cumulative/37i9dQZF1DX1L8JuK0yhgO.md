@@ -4,7 +4,7 @@
 
 > 音楽メディア<a href="http://spincoaster.com/">Spincoaster</a>が厳選したホットな新曲を毎週月曜日にお届け！
 
-1,971 songs - 4 day 13 hr 9 min
+1,972 songs - 4 day 13 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1282,7 +1282,8 @@
 | [RIOT \(Rowdy Pipe'n\)](https://open.spotify.com/track/0B1xarnfKvUFWUoFdQnooq) | [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca), [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8) | [RIOT \(Rowdy Pipe'n\)](https://open.spotify.com/album/0GQJ1yZpVEzJjfzXbkD0Ui) | 3:09 | 2023-07-24 | 2023-07-31 |
 | [rise](https://open.spotify.com/track/6lPupLVOuRd3w31xqN8YxQ) | [Mura Masa](https://open.spotify.com/artist/5Q81rlcTFh3k6DQJXPdsot), [NADIAH](https://open.spotify.com/artist/1xMTtv502Ls5oN1xMEJele) | [rise / gimme](https://open.spotify.com/album/5Pft1X1BQUYtldphJ1QDNx) | 4:01 | 2023-10-16 |  |
 | [Risk It All](https://open.spotify.com/track/49vfJD1y6Adx5KW6ic2Any) | [aimi](https://open.spotify.com/artist/4YejPGH3QAUl4dj1ZZk6e7), [JASMINE](https://open.spotify.com/artist/76sRRqpyFhBYjdimBWjmfg), [Modesty Beats](https://open.spotify.com/artist/13FbrmsM0RLfPPbiqh7iCQ) | [Risk It All](https://open.spotify.com/album/4xuuZpVKRh1Wt6QdvygnFu) | 3:17 | 2023-07-16 | 2023-07-24 |
-| [river relief \- PASOCOM MUSIC CLUB remix](https://open.spotify.com/track/1zEuOr9iggmPIfkbyT9YxK) | [PAS TASTA](https://open.spotify.com/artist/38XISC5BMSTkAuKwniV2AS), [Soushi Sakiyama](https://open.spotify.com/artist/1IEretLePzJKj8R6KCEaBA), [パソコン音楽クラブ](https://open.spotify.com/artist/5FiN9o11xTdr071qwSHyye) | [GOOD POP REMIXES](https://open.spotify.com/album/1CxF69zNhAqSkVbzh2Y8pR) | 3:46 | 2023-10-16 |  |
+| [river relief \- PASOCOM MUSIC CLUB remix](https://open.spotify.com/track/1zEuOr9iggmPIfkbyT9YxK) | [PAS TASTA](https://open.spotify.com/artist/38XISC5BMSTkAuKwniV2AS), [Soushi Sakiyama](https://open.spotify.com/artist/1IEretLePzJKj8R6KCEaBA), [パソコン音楽クラブ](https://open.spotify.com/artist/5FiN9o11xTdr071qwSHyye) | [GOOD POP REMIXES](https://open.spotify.com/album/1CxF69zNhAqSkVbzh2Y8pR) | 3:46 | 2023-10-16 | 2023-10-18 |
+| [river relief \- PASOCOM MUSIC CLUB remix](https://open.spotify.com/track/22eGXzZpChW3GU8tgSpAnF) | [PAS TASTA](https://open.spotify.com/artist/38XISC5BMSTkAuKwniV2AS), [Soushi Sakiyama](https://open.spotify.com/artist/1IEretLePzJKj8R6KCEaBA), [パソコン音楽クラブ](https://open.spotify.com/artist/5FiN9o11xTdr071qwSHyye) | [GOOD POP THE REMIXES](https://open.spotify.com/album/1cgU39ZANyFjxvV122QN2E) | 3:46 | 2023-10-16 |  |
 | [RMN](https://open.spotify.com/track/7c8cllL27fyVGVfyRDiS2T) | [GENRE BNDR](https://open.spotify.com/artist/3Nocl1vnYFgGtCRkESyDMG), [Ry\-lax](https://open.spotify.com/artist/21kuCJU9cNE3jpy0LAEwpR), [YUTO](https://open.spotify.com/artist/0TAfkV5380gOIJjxMtU8dA), [DopeOnigiri](https://open.spotify.com/artist/3K2Hmv1k0CJjuSRk8NXluO) | [RMN](https://open.spotify.com/album/6H9AtyC3Vv7GX5eIVERme1) | 3:02 | 2023-08-06 | 2023-08-14 |
 | [ROBIN](https://open.spotify.com/track/3IrzYQR1XCfljSVqU3Koq6) | [guca owl](https://open.spotify.com/artist/4itoeqQ3NcIgbtec5B4GGf) | [ROBIN HOOD STREET](https://open.spotify.com/album/160Dp7uGHyAp4BBuxtbv3c) | 2:56 | 2023-04-09 | 2023-04-17 |
 | [ROCK STAR LIFE STYLE](https://open.spotify.com/track/3aENZiQShaKJPQtvusG3rO) | [vividboooy](https://open.spotify.com/artist/2HdFwTHtgBqm7EdJsViK6F), [JP THE WAVY](https://open.spotify.com/artist/0hBYSjDjcAaAuSZcpN8jk9) | [ROCK STAR LIFE STYLE](https://open.spotify.com/album/2zrdgjwDykA9YWHiHDTRje) | 3:06 | 2023-05-15 | 2023-05-23 |

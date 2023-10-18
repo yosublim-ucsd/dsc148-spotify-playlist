@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5LEXW9eXA0n.md) - [plain]
 
 > New & hot K\-Pop ballads\. \(Cover:LEE SEOK HOON\(이석훈\)\) \(가장 핫한 최신 국내 발라드를 만나보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 355,911 likes - 100 songs - 6 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 355,969 likes - 100 songs - 6 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -78,7 +78,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5LEXW9eXA0n.md) - [plain]
 | 68 | [Don’t Wanna Go Back \(Duet with Heize\)](https://open.spotify.com/track/2cxtmZSUIdiIahNTPjhggE) | [JIHYO](https://open.spotify.com/artist/7F1iAHRYxR3MY7yAEuFqgL), [HEIZE](https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo) | [ZONE](https://open.spotify.com/album/1GIkapvyAw5lwdNw66hI44) | 3:42 |
 | 69 | [It's You](https://open.spotify.com/track/3YP99J8wTzG55t1cFmd6iq) | [PARK WON](https://open.spotify.com/artist/1XujSdsxykPhP3dn6HaT4l) | [Destined with You \(Original Television Soundtrack\), Pt.1](https://open.spotify.com/album/45i3tB9z0dgJ33olyrsLUz) | 3:23 |
 | 70 | [Meant to be](https://open.spotify.com/track/2rH9qCs1Ok60cF0lOqn8Mk) | [Jo Hyun Ah](https://open.spotify.com/artist/7aVeZFWXIC3g4b0Tn68ZtI) | [Chabak\- Night of Murder and Romance, Pt\. 1 \(Original Soundtrack\)](https://open.spotify.com/album/1q7FUPWyrA2fjvFjcmUTc2) | 4:40 |
-| 71 | [Our Night is more beautiful than your Day](https://open.spotify.com/track/0SXsRcuTaWZAg6QyDhncpY) | [Chuu](https://open.spotify.com/artist/1q86WVZhETqii5kKjEwYuB) | [Our Night is more beautiful than your Day](https://open.spotify.com/album/5GQw3mn3wr4asTSR73VHTq) | 3:19 |
+| 71 | [Our Night is more beautiful than your Day](https://open.spotify.com/track/0SXsRcuTaWZAg6QyDhncpY) | [CHUU](https://open.spotify.com/artist/1q86WVZhETqii5kKjEwYuB) | [Our Night is more beautiful than your Day](https://open.spotify.com/album/5GQw3mn3wr4asTSR73VHTq) | 3:19 |
 | 72 | [Marry Me \(My love X Yang Da Il\)](https://open.spotify.com/track/6UrHnv2u6riHP1wSZdL7aP) | [Yang Da Il](https://open.spotify.com/artist/5DnjOSzLCfn4hDbLECq8pt) | [Marry Me \(My love X Yang Da Il\)](https://open.spotify.com/album/7aezS6OsSSjloT2u2xD4AN) | 4:16 |
 | 73 | [Ballad, Ryeoyo\_Roy Kim](https://open.spotify.com/track/6idTWd3WzBZlslTMmElNLz) | [Roy Kim](https://open.spotify.com/artist/3ErHVJMsxTq2lLSmnONBm9) | [Ballad, Ryeoyo\_Roy Kim](https://open.spotify.com/album/4x2si1Gvye6X3Jxhqy963K) | 0:05 |
 | 74 | [ANYWHERE \(Feat\. Huh\)](https://open.spotify.com/track/6XCypJVJa6FhFadgaGoON3) | [KyoungSeo](https://open.spotify.com/artist/4rxWm4OrS8IRQ3YxDUwnJA), [Huh](https://open.spotify.com/artist/30AghIfoMJrMo1YqoUkEMM) | [ANYWHERE \(Feat\. Huh\)](https://open.spotify.com/album/14fRptjW1ytSaP5USPXNDR) | 3:52 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5LEXW9eXA0n.md) - [plain]
 | 99 | [Forget Me Not](https://open.spotify.com/track/79KXSZofyFSDnG4AlRAUVf) | [SURAN](https://open.spotify.com/artist/1mORehSVEd7lcaT2d7Sl2K) | [Forget Me Not](https://open.spotify.com/album/1iKsKRRBBXUV2sD3n2kQZm) | 3:48 |
 | 100 | [Flower](https://open.spotify.com/track/7jnv33i1cWvBeSKJd6bVRt) | [Yang Da Il](https://open.spotify.com/artist/5DnjOSzLCfn4hDbLECq8pt) | [talks about blossoms](https://open.spotify.com/album/3oBveuOG0aDo51pjttETiP) | 3:38 |
 
-Snapshot ID: `MCw2NzRmMWI3ZWU5YWRmMGEzOWI2MWVkY2E5MjcyOTk4ZTk2MzIwZTVj`
+Snapshot ID: `MCw3MjJmNDFjM2E3MGU4ZTZkMDE5NDExNzlhODA2YzA0YzA1NWYxMWQy`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUb0uBnlJuTi.md) - [plain]
 
 > Jazz\. But funky\. Cover: Takuya Kuroda
 
-[Spotify](https://open.spotify.com/user/spotify) - 309,576 likes - 200 songs - 15 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 309,735 likes - 200 songs - 15 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -75,7 +75,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUb0uBnlJuTi.md) - [plain]
 | 65 | [Old World Monkeys](https://open.spotify.com/track/5uNCSQ78XR25TsBEb9lta3) | [The Seven Ups](https://open.spotify.com/artist/2ZRaLK1a4khCYr2t5HFjrp) | [Old World Monkeys](https://open.spotify.com/album/2TlwXYcBe0y2jUl0FMMjhM) | 4:43 |
 | 66 | [Spanish Joint](https://open.spotify.com/track/3yIMbncJrxUWoS5J1AlGLs) | [Sam Fribush](https://open.spotify.com/artist/0L7BpYTrKRXYKyNppykAEx), [Charlie Hunter](https://open.spotify.com/artist/0si9BxvM2C33fAIkr1pgUc), [Geoff Clapp](https://open.spotify.com/artist/5Ezil114d4umN4hJDu8teY) | [Sam Fribush Organ Trio, Vol\. I: Riverboat](https://open.spotify.com/album/4i0SSxtyDqXRF5YwtqRPWR) | 4:24 |
 | 67 | [Funky Snakefoot](https://open.spotify.com/track/5nXpfnX21d3Sed5bT68wln) | [Alphonse Mouzon](https://open.spotify.com/artist/0UXy6wqMmVQ7PIWFNSXqdk) | [Funky Snakefoot](https://open.spotify.com/album/6eSimOXS5PMUtWln4Lau2i) | 3:45 |
-| 68 | [War Dance](https://open.spotify.com/track/2tEEhDH6gxSAAzj0aJzpWO) | [Kokoroko](https://open.spotify.com/artist/3u9rbdcmA6CxjxOAkjaeFr) | [Could We Be More](https://open.spotify.com/album/5pJXka0Joj77KqooPlQwFu) | 5:38 |
+| 68 | [War Dance](https://open.spotify.com/track/56CKIlaRH80QcLHEuU1tUE) | [Kokoroko](https://open.spotify.com/artist/3u9rbdcmA6CxjxOAkjaeFr) | [Could We Be More](https://open.spotify.com/album/48e8LFqiVUxumlXDIVyNYl) | 5:38 |
 | 69 | [On The Avenue](https://open.spotify.com/track/60Rz7gneyvKj2yevlgVMbt) | [Ronnie Foster](https://open.spotify.com/artist/4B5XByhwtjsqGxs91fYMhZ) | [On The Avenue](https://open.spotify.com/album/2q14UlkorFTgVm7HzLIBRp) | 6:14 |
 | 70 | [Street Sweeper](https://open.spotify.com/track/6eTrGiHJS6kvmifI3sIkPn) | [Family Company](https://open.spotify.com/artist/68TMIdW3csuFrzKleLKrM0) | [Street Sweeper](https://open.spotify.com/album/12zuK73zE5d3pxYoqspSZB) | 3:54 |
 | 71 | [Regular](https://open.spotify.com/track/1CB6xP74LkZ9JuSf0Qsbfy) | [Wax](https://open.spotify.com/artist/5qbgtET7uO7gxnFW0qdO5b) | [MOLLO](https://open.spotify.com/album/24DWKZEAoDHxLLYaXgJ7SD) | 4:15 |
@@ -209,4 +209,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUb0uBnlJuTi.md) - [plain]
 | 199 | [The Hornet's Nest](https://open.spotify.com/track/6wtLyIUHbG3XfVGNDL7U7y) | [Eleven 76](https://open.spotify.com/artist/3mHGVYRvwf2YC27xqftGTz), [Golden Rules](https://open.spotify.com/artist/05aFzjXP3Btq6cAL1PM8gz) | [The Hornet's Nest](https://open.spotify.com/album/1ksnYmM1fPxOzbNEyyQTE8) | 2:16 |
 | 200 | [So Cold](https://open.spotify.com/track/3ftTujZJKBzxtDR5qId3Ge) | [Jackson Mathod](https://open.spotify.com/artist/6RvLMgatQu3kdjDpYyQnTx), [David Mrakpor](https://open.spotify.com/artist/7JNCmuOVO13j5XNE8s1Bvr) | [So Cold](https://open.spotify.com/album/6apEouE0HLqkoTSh1AFFtT) | 4:12 |
 
-Snapshot ID: `MCxmODJhNTY5ZTI0ZWFjNDRiOWM2MjQ2YzUyZjdhZGUxMDdmNjQ5MDcy`
+Snapshot ID: `MCw5MWRmZmVkODBmY2NjMzRiMWI4YTNlMTQ2ZjA0ZWI3MjY5NWVlNTFm`

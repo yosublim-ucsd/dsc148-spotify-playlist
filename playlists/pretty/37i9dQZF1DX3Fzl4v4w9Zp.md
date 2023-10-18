@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Fzl4v4w9Zp.md) - [plain]
 
 > Keep your finger on the pulse of Americana\. Cover: Allison Russell
 
-[Spotify](https://open.spotify.com/user/spotify) - 613,019 likes - 150 songs - 9 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 613,029 likes - 150 songs - 9 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Fzl4v4w9Zp.md) - [plain]
 | 149 | [The Downward Road](https://open.spotify.com/track/5C9y3R4oWlShFgvNqr6egt) | [Jake Blount](https://open.spotify.com/artist/63yfJDmaBbifNzvWUUdpv1), [Demeanor](https://open.spotify.com/artist/4HlLzCWkEJQvvWRkjt5J0r) | [The Downward Road](https://open.spotify.com/album/0v9Fn7MgEKL8tfprlJX5Ld) | 3:36 |
 | 150 | [Tumble and Fall](https://open.spotify.com/track/2Uh4NCdcI7sWNbWfhxw73Q) | [Daniel Tashian](https://open.spotify.com/artist/4RldQHPp4l6UV78DAvf5qz) | [Tumble and Fall](https://open.spotify.com/album/6PNfy7JIdJWbw8XXIETapU) | 3:26 |
 
-Snapshot ID: `MCwzYjRlMjA3ZmQ2NWMwMWUzZTA3YjNkYzU4OWRmNGQ2NzRjMzUwNThj`
+Snapshot ID: `MCxjOTM2ZTUxMmUyNDczOGQ5N2Y0NTRmMTkzOTI4MWVmYTJlMGNjYWE1`

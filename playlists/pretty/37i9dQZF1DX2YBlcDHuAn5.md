@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2YBlcDHuAn5.md) - [plain]
 
 > De mooiste muziek: Americana \| Country
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,844 likes - 50 songs - 3 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,866 likes - 50 songs - 3 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2YBlcDHuAn5.md) - [plain]
 | 47 | [Burlesque Desert Window](https://open.spotify.com/track/3wcayWWtzYs1DM6qu2p5nE) | [Trampled by Turtles](https://open.spotify.com/artist/3GjVVVcFmUgEJEAAsbGkf4) | [Burlesque Desert Window](https://open.spotify.com/album/4oUx1HJHLYrR89VrzjzHf4) | 2:59 |
 | 48 | [When Lovers Become Friends](https://open.spotify.com/track/20lnlhGmHmGwquzYCcRygq) | [Mattanja Joy Bradley](https://open.spotify.com/artist/6u9tyg6IXImKbuB5J12ush) | [When Lovers Become Friends](https://open.spotify.com/album/4fpgBmFlpiWb5Y8hpGQl7l) | 3:59 |
 | 49 | [Rollin' with the Punches](https://open.spotify.com/track/0n3dt5BM0wJm6kLvUfB7hK) | [Voltage](https://open.spotify.com/artist/5ipXUWgnE57t4sz9mfPRW1) | [Rollin' with the Punches](https://open.spotify.com/album/5VLNC9q4WqKqG3tOQsPKEw) | 4:13 |
-| 50 | [Factory](https://open.spotify.com/track/0P9JBppEaWN9m6yLW0wCBe) | [Pieternel](https://open.spotify.com/artist/5JzvmJdkliw2nERmKleDuS) | [Factory](https://open.spotify.com/album/5qyjhFDGMggOa3rP493M7u) | 3:20 |
+| 50 | [Colours](https://open.spotify.com/track/1bVBp6PpUcxrn9EjA3uI50) | [Christof van der Ven](https://open.spotify.com/artist/4OmL1NFB2mS4Ipv9TAWC1F) | [In The Morning, When We Rise](https://open.spotify.com/album/6qeEfohwybwm2zAPYLk2lM) | 3:52 |
 
-Snapshot ID: `MCwyY2E2N2NkYmFkOGE1ZjZhMjhhMDhhNDg4NTNhYWUzMDAyNWQwNjBj`
+Snapshot ID: `MCwyM2I0ZTUwOGQxNDYwMTU5MTY3MDk5NmI2ZGIzODk1MWZjODY0NWRj`

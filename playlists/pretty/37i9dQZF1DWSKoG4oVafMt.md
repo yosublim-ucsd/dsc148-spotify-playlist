@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSKoG4oVafMt.md) - [plain]
 
 > The very best of Punjabi romance featuring Jordan Sandhu
 
-[Spotify](https://open.spotify.com/user/spotify) - 150,414 likes - 75 songs - 4 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 150,588 likes - 75 songs - 4 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSKoG4oVafMt.md) - [plain]
 | 2 | [Mi Amor](https://open.spotify.com/track/24MMjyA3NLqCsDJfsn51eg) | [Sharn](https://open.spotify.com/artist/74RGMjbSsFv5RLj8wVx9Yv), [40k](https://open.spotify.com/artist/6nAMu7pGqdwUSsGMZPUvSk), [The Paul](https://open.spotify.com/artist/1i31OYo0s5VoMCaMRJFZkJ) | [Mi Amor](https://open.spotify.com/album/0azGrKHPYvl2MEKwQFfbV2) | 3:23 |
 | 3 | [Chann Sitare \(From "Oye Makhna"\)](https://open.spotify.com/track/4ZlAM2VoFpv0VyZjv34A4o) | [Ammy Virk](https://open.spotify.com/artist/2RlWC7XKizSOsZ8F3uGi59), [Avvy Sra](https://open.spotify.com/artist/1vKd2cgDOiLcV5YA5uy7GG), [Harmanjeet Singh](https://open.spotify.com/artist/5GKQZoriMz17iLIGdRp2Yt) | [Chann Sitare \(From "Oye Makhna"\) \- Single](https://open.spotify.com/album/78eSecjSVDN0T0KDylfVMf) | 3:07 |
 | 4 | [Das Mereya Dilbara](https://open.spotify.com/track/5Fq4Quuh64GxxeZVAtVeP4) | [Sofia Inder](https://open.spotify.com/artist/04T6LAjLQUxF7JCqclfr5F), [Jashan Inder](https://open.spotify.com/artist/0tGfv5UMyYeDwBwo86cat8) | [Das Mereya Dilbara](https://open.spotify.com/album/3161Pz8iLdtagTywFeM04k) | 2:34 |
-| 5 | [Dhundle Dhundle](https://open.spotify.com/track/4JU4kP0LBnUJg4qMQjGF0H) | [Bunny Johal](https://open.spotify.com/artist/0jdnMCU1yJPwoIErT6a4OS) | [Dhundle Dhundle](https://open.spotify.com/album/1mazw25I3H3UlGaw8a7tiO) | 4:03 |
+| 5 | [Dhundle Dhundle](https://open.spotify.com/track/4JU4kP0LBnUJg4qMQjGF0H) | [Bunny Johal](https://open.spotify.com/artist/0jdnMCU1yJPwoIErT6a4OS), [Black Virus](https://open.spotify.com/artist/3baDngVJ6Eof0PzTWf42lU) | [Dhundle Dhundle](https://open.spotify.com/album/1mazw25I3H3UlGaw8a7tiO) | 4:03 |
 | 6 | [9:45](https://open.spotify.com/track/6c4Po8zyQjB4cR5XgLhcGb) | [Prabh Singh](https://open.spotify.com/artist/0VAIiNSKG4DWkSaIy5qWz1), [Jay Trak](https://open.spotify.com/artist/47SaOSOqcrxSJNZUuqpLuu) | [9:45](https://open.spotify.com/album/5ITQeRYoVu4qRdo9TUTuuR) | 1:57 |
 | 7 | [TERE BINA](https://open.spotify.com/track/1lpICxQ99AvgSa3ubsqblS) | [Tegi Pannu](https://open.spotify.com/artist/78sIlhMniFgXlOrNWnPtIl), [Sukha](https://open.spotify.com/artist/6FDDxz6lYakINkmWPOlIZG), [Manni Sandhu](https://open.spotify.com/artist/3IzepIGEFUSFFnuIVGwZDS) | [SWITCHIN' LANES](https://open.spotify.com/album/6YCt9sL8Y6kphIOcUalaRl) | 2:16 |
 | 8 | [Suhagan](https://open.spotify.com/track/2UN5ayAAWWfdHI6I33eehA) | [Nimrat Khaira](https://open.spotify.com/artist/0ea0y5ZxnN5TbEDzNtx5Fk) | [Maanmatti](https://open.spotify.com/album/3ZlSPTVK5KbBHcOCDB3e8P) | 5:14 |
@@ -51,7 +51,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSKoG4oVafMt.md) - [plain]
 | 41 | [Distance Love](https://open.spotify.com/track/55nRhkhe7ckZhazYrv6ZOX) | [Zehr Vibe](https://open.spotify.com/artist/48cVwD5hffidwvlxLCc2pm) | [Distance Love](https://open.spotify.com/album/0FSTdbfd0XFtEjWK8VCjgY) | 3:30 |
 | 42 | [Sira E Hou](https://open.spotify.com/track/639CDARmxoRC57gK0nej6V) | [Amrit Maan](https://open.spotify.com/artist/7GgAwYJnBBFT1WogNWf0oj), [Nimrat Khaira](https://open.spotify.com/artist/0ea0y5ZxnN5TbEDzNtx5Fk) | [All Bamb](https://open.spotify.com/album/6VwfjmLseQZblxn1r7xDn2) | 3:20 |
 | 43 | [Akhiyaan](https://open.spotify.com/track/2l3dFxtoSMgMQVyRIUHjpz) | [Mitraz](https://open.spotify.com/artist/3iGhlvzpXc0UHBQ7klAItX) | [Akhiyaan](https://open.spotify.com/album/4MBCBnMZyFFv8Ch9elmLsL) | 3:11 |
-| 44 | [Ambran De Taare](https://open.spotify.com/track/6qRdYQIMhVBG9FtVC1lItU) | [Garry Sandhu](https://open.spotify.com/artist/7M3xY5iHSzEtoL3FpqOD75), [Rahul Sathu](https://open.spotify.com/artist/64UjPeMUmhyalooujVrEU3) | [Ambran De Taare](https://open.spotify.com/album/21eSHgrZHYjhYMVRNi4R4d) | 3:32 |
+| 44 | [Ambran De Taare](https://open.spotify.com/track/6qRdYQIMhVBG9FtVC1lItU) | [Garry Sandhu](https://open.spotify.com/artist/7M3xY5iHSzEtoL3FpqOD75) | [Ambran De Taare](https://open.spotify.com/album/21eSHgrZHYjhYMVRNi4R4d) | 3:32 |
 | 45 | [Pasoori](https://open.spotify.com/track/7lvDsmTRXFE3dK4OjvRiWB) | [Shae Gill](https://open.spotify.com/artist/3bWIy9AUrQdiNeS62Bp3OP), [Ali Sethi](https://open.spotify.com/artist/3NegWDGp038A3FIi3gSYzl) | [Pasoori](https://open.spotify.com/album/7wgrW5XyZdtk0K8PkW5A7h) | 3:44 |
 | 46 | [Ittar](https://open.spotify.com/track/3VwIFCFQ6HQNzlQPfJBrt7) | [Jasmine Sandlas](https://open.spotify.com/artist/0mJDQBWytBhOh5JB1DOQ1c), [B Praak](https://open.spotify.com/artist/56SjZARoEvag3RoKWIb16j) | [Ittar](https://open.spotify.com/album/1SXRKGIPXXWHlFH5FIh8iS) | 3:20 |
 | 47 | [Rutba](https://open.spotify.com/track/4EvaQx8uREbHOHM3SdCRCe) | [Satinder Sartaaj](https://open.spotify.com/artist/4rgw8A5vcYinpZLDKHrEdV) | [Kali Jotta \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/55iA8nuzIEjLxK82lzhgyi) | 6:44 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSKoG4oVafMt.md) - [plain]
 | 74 | [Guitar \- From the Album "XYZ"](https://open.spotify.com/track/76XQ1JrztUciUlQHYIXLl0) | [Karan Randhawa](https://open.spotify.com/artist/3mnR9SJ3hfV6EcrGKH44H9) | [Guitar](https://open.spotify.com/album/2cZavSlbZLnEpU938tCGuG) | 2:32 |
 | 75 | [Udd Gaya \- From "Lekh"](https://open.spotify.com/track/6aFKTWTMLEJA4VqGM3aPbw) | [B Praak](https://open.spotify.com/artist/56SjZARoEvag3RoKWIb16j) | [Udd Gaya \(From "Lekh"\)](https://open.spotify.com/album/3uVhhmevWrSzN4LUyQEvQq) | 4:03 |
 
-Snapshot ID: `MCw3ZTU2NDAxNWYxYmYzYjQ0NWJjN2RjMDJlZTVjZGRhMjE5NGZlODQy`
+Snapshot ID: `MCxlZDkzNDIwMzQ4OGZlMzU0ZTJjOGU4MzFhNTZkYWMzYzkyM2I1MWUw`

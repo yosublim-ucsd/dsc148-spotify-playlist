@@ -1,12 +1,12 @@
 {
   "description": "indie tunes to make you shine bby :)",
-  "num_followers": 453275,
+  "num_followers": 453273,
   "original_name": "indie feliz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyYjA3ZGFiNzQxYTQ1YzlhNThkZmYyMGNhOGYxZGY0MzU1MzA0M2Ix",
+  "snapshot_id": "MCxmNDQ5YTdiMzYwYzlkZTAyNWI2YTFjOTA5OGY3OTQ4MjQwYjAwMWVl",
   "tracks": [
     {
       "added_at": "2023-10-06 04:00:00",
@@ -159,6 +159,22 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
+        "name": "Hold It Together",
+        "url": "https://open.spotify.com/album/06ToGOGFYkUkABJgpx3Mbb"
+      },
+      "artists": [
+        {
+          "name": "The Mar\u00edas",
+          "url": "https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx"
+        }
+      ],
+      "duration_ms": 222021,
+      "name": "Hold It Together",
+      "url": "https://open.spotify.com/track/6gJ2H930mAD1zRqmoFiE4W"
+    },
+    {
+      "added_at": "2023-10-06 04:00:00",
+      "album": {
         "name": "Perreo Bonito",
         "url": "https://open.spotify.com/album/36mS7QJlFRmi3Pcw0yikxc"
       },
@@ -175,22 +191,6 @@
       "duration_ms": 187561,
       "name": "Perreo Bonito",
       "url": "https://open.spotify.com/track/7EGWnAJSDIfJRRsE78n7ea"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
-        "name": "Hold It Together",
-        "url": "https://open.spotify.com/album/06ToGOGFYkUkABJgpx3Mbb"
-      },
-      "artists": [
-        {
-          "name": "The Mar\u00edas",
-          "url": "https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx"
-        }
-      ],
-      "duration_ms": 222021,
-      "name": "Hold It Together",
-      "url": "https://open.spotify.com/track/6gJ2H930mAD1zRqmoFiE4W"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -299,22 +299,6 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
-        "name": "La Ternura",
-        "url": "https://open.spotify.com/album/6wuPsukvYhod97ouL3ZiZL"
-      },
-      "artists": [
-        {
-          "name": "Carlos Sadness",
-          "url": "https://open.spotify.com/artist/2LCcy9CZWwZ7Vvykt8IVVq"
-        }
-      ],
-      "duration_ms": 186065,
-      "name": "La Ternura",
-      "url": "https://open.spotify.com/track/54gV1iPCLMkGntWBj6P94O"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
         "name": "Un D\u00eda A La Vez",
         "url": "https://open.spotify.com/album/4kcxAdBocSXh8pz7fSqFXJ"
       },
@@ -367,6 +351,22 @@
       "duration_ms": 298809,
       "name": "Nada",
       "url": "https://open.spotify.com/track/5ihtr3hVJJ7GWgagDiyf1i"
+    },
+    {
+      "added_at": "2023-10-06 04:00:00",
+      "album": {
+        "name": "La Ternura",
+        "url": "https://open.spotify.com/album/6wuPsukvYhod97ouL3ZiZL"
+      },
+      "artists": [
+        {
+          "name": "Carlos Sadness",
+          "url": "https://open.spotify.com/artist/2LCcy9CZWwZ7Vvykt8IVVq"
+        }
+      ],
+      "duration_ms": 186065,
+      "name": "La Ternura",
+      "url": "https://open.spotify.com/track/54gV1iPCLMkGntWBj6P94O"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -471,22 +471,6 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
-        "name": "Corolla 94",
-        "url": "https://open.spotify.com/album/6tbVFYIDmco4NiEMxWEYsp"
-      },
-      "artists": [
-        {
-          "name": "Simon Grossmann",
-          "url": "https://open.spotify.com/artist/6t38N9HASTn9ca0PIxfReQ"
-        }
-      ],
-      "duration_ms": 201176,
-      "name": "Corolla 94",
-      "url": "https://open.spotify.com/track/1HUzDAJRiiyk35cSnPXPUG"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
         "name": "Morena",
         "url": "https://open.spotify.com/album/2pNKnE4bn2sLJuG2agLg7B"
       },
@@ -499,6 +483,22 @@
       "duration_ms": 271162,
       "name": "Morena",
       "url": "https://open.spotify.com/track/1UGwamQOTjQ0nnCYdX92Rn"
+    },
+    {
+      "added_at": "2023-10-06 04:00:00",
+      "album": {
+        "name": "Corolla 94",
+        "url": "https://open.spotify.com/album/6tbVFYIDmco4NiEMxWEYsp"
+      },
+      "artists": [
+        {
+          "name": "Simon Grossmann",
+          "url": "https://open.spotify.com/artist/6t38N9HASTn9ca0PIxfReQ"
+        }
+      ],
+      "duration_ms": 201176,
+      "name": "Corolla 94",
+      "url": "https://open.spotify.com/track/1HUzDAJRiiyk35cSnPXPUG"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -603,42 +603,6 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
-        "name": "Santo Domingo",
-        "url": "https://open.spotify.com/album/7MHtcxNInflrOkle3BVSSI"
-      },
-      "artists": [
-        {
-          "name": "The Change",
-          "url": "https://open.spotify.com/artist/0zIwbOKRX5V7rdUMsjX9dK"
-        }
-      ],
-      "duration_ms": 156623,
-      "name": "Santo Domingo",
-      "url": "https://open.spotify.com/track/0iLN9FL8qQNsd13N5TVPAX"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
-        "name": "Bichota \u2013 Spotify Singles",
-        "url": "https://open.spotify.com/album/5FdT0wz3QPts6r1aJoWDgq"
-      },
-      "artists": [
-        {
-          "name": "Bratty",
-          "url": "https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn"
-        },
-        {
-          "name": "RENEE",
-          "url": "https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR"
-        }
-      ],
-      "duration_ms": 157666,
-      "name": "Bichota - Spotify Singles",
-      "url": "https://open.spotify.com/track/7tlPDub0mJRBkGA2VdTSAS"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
         "name": "muero x ti",
         "url": "https://open.spotify.com/album/0PEkrVYDzkhAU5xk0gOqu4"
       },
@@ -675,6 +639,42 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
+        "name": "Santo Domingo",
+        "url": "https://open.spotify.com/album/7MHtcxNInflrOkle3BVSSI"
+      },
+      "artists": [
+        {
+          "name": "The Change",
+          "url": "https://open.spotify.com/artist/0zIwbOKRX5V7rdUMsjX9dK"
+        }
+      ],
+      "duration_ms": 156623,
+      "name": "Santo Domingo",
+      "url": "https://open.spotify.com/track/0iLN9FL8qQNsd13N5TVPAX"
+    },
+    {
+      "added_at": "2023-10-06 04:00:00",
+      "album": {
+        "name": "Bichota \u2013 Spotify Singles",
+        "url": "https://open.spotify.com/album/5FdT0wz3QPts6r1aJoWDgq"
+      },
+      "artists": [
+        {
+          "name": "Bratty",
+          "url": "https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn"
+        },
+        {
+          "name": "RENEE",
+          "url": "https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR"
+        }
+      ],
+      "duration_ms": 157666,
+      "name": "Bichota - Spotify Singles",
+      "url": "https://open.spotify.com/track/7tlPDub0mJRBkGA2VdTSAS"
+    },
+    {
+      "added_at": "2023-10-06 04:00:00",
+      "album": {
         "name": "cuatro veces 10",
         "url": "https://open.spotify.com/album/41aX0tVfd2qygS1LN570s1"
       },
@@ -687,22 +687,6 @@
       "duration_ms": 125849,
       "name": "haciendo discos",
       "url": "https://open.spotify.com/track/5ezQlaBRGmaFzYB9FtMiOd"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
-        "name": "Por qu\u00e9 te quiero tanto?",
-        "url": "https://open.spotify.com/album/2zzOpbnXDcj9myQf76Fcih"
-      },
-      "artists": [
-        {
-          "name": "Paz Carrara",
-          "url": "https://open.spotify.com/artist/09mGQqsZ1C5wVCsjycNaIg"
-        }
-      ],
-      "duration_ms": 231109,
-      "name": "Por qu\u00e9 te quiero tanto?",
-      "url": "https://open.spotify.com/track/5gTFFnnIds7moFhePvYToE"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -723,18 +707,18 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
-        "name": "555",
-        "url": "https://open.spotify.com/album/6H5jQW4yRjWAJeFVBmEQnP"
+        "name": "Por qu\u00e9 te quiero tanto?",
+        "url": "https://open.spotify.com/album/2zzOpbnXDcj9myQf76Fcih"
       },
       "artists": [
         {
-          "name": "The Change",
-          "url": "https://open.spotify.com/artist/0zIwbOKRX5V7rdUMsjX9dK"
+          "name": "Paz Carrara",
+          "url": "https://open.spotify.com/artist/09mGQqsZ1C5wVCsjycNaIg"
         }
       ],
-      "duration_ms": 148538,
-      "name": "Easy",
-      "url": "https://open.spotify.com/track/5idNzLXuETCpAYsrtHkl7g"
+      "duration_ms": 231109,
+      "name": "Por qu\u00e9 te quiero tanto?",
+      "url": "https://open.spotify.com/track/5gTFFnnIds7moFhePvYToE"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -755,6 +739,22 @@
       "duration_ms": 288624,
       "name": "Mi vida en llamas (feat. Buscabulla)",
       "url": "https://open.spotify.com/track/79kbKtYtvrxWq2Zig0gtBK"
+    },
+    {
+      "added_at": "2023-10-06 04:00:00",
+      "album": {
+        "name": "555",
+        "url": "https://open.spotify.com/album/6H5jQW4yRjWAJeFVBmEQnP"
+      },
+      "artists": [
+        {
+          "name": "The Change",
+          "url": "https://open.spotify.com/artist/0zIwbOKRX5V7rdUMsjX9dK"
+        }
+      ],
+      "duration_ms": 148538,
+      "name": "Easy",
+      "url": "https://open.spotify.com/track/5idNzLXuETCpAYsrtHkl7g"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -1323,22 +1323,6 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
-        "name": "CARISMA",
-        "url": "https://open.spotify.com/album/62TQ8Q7gaq5T4eUzYr3YXQ"
-      },
-      "artists": [
-        {
-          "name": "Salt Cathedral",
-          "url": "https://open.spotify.com/artist/1HhSYZFNNPTTZuOlSfZUJP"
-        }
-      ],
-      "duration_ms": 202519,
-      "name": "Te Quiero Olvidar",
-      "url": "https://open.spotify.com/track/3fQr5yEzrOis5U7klzyKql"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
         "name": "comoestasmiamor <3",
         "url": "https://open.spotify.com/album/20n5DASE7bldIUAxHlBCR1"
       },
@@ -1351,6 +1335,22 @@
       "duration_ms": 179491,
       "name": "comoestasmiamor <3",
       "url": "https://open.spotify.com/track/3Pd7klN2VLVpHXnN7TdGZW"
+    },
+    {
+      "added_at": "2023-10-06 04:00:00",
+      "album": {
+        "name": "CARISMA",
+        "url": "https://open.spotify.com/album/62TQ8Q7gaq5T4eUzYr3YXQ"
+      },
+      "artists": [
+        {
+          "name": "Salt Cathedral",
+          "url": "https://open.spotify.com/artist/1HhSYZFNNPTTZuOlSfZUJP"
+        }
+      ],
+      "duration_ms": 202519,
+      "name": "Te Quiero Olvidar",
+      "url": "https://open.spotify.com/track/3fQr5yEzrOis5U7klzyKql"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -1563,22 +1563,6 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
-        "name": "Tm\u00ed",
-        "url": "https://open.spotify.com/album/6BFTCcyxGLFBHocDnivQnY"
-      },
-      "artists": [
-        {
-          "name": "Katz\u00f9 Oso",
-          "url": "https://open.spotify.com/artist/4tSzEOfCj6LXhaf0jtk4XO"
-        }
-      ],
-      "duration_ms": 156862,
-      "name": "Better With You",
-      "url": "https://open.spotify.com/track/4mW0oRgTmwPGFmpuwbvLud"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
         "name": "Eres",
         "url": "https://open.spotify.com/album/5X4LwzmV4YI6ZgUSTrLzNs"
       },
@@ -1591,6 +1575,22 @@
       "duration_ms": 204166,
       "name": "Eres",
       "url": "https://open.spotify.com/track/2qKb3jyXEb4yqeZHlJaS3M"
+    },
+    {
+      "added_at": "2023-10-06 04:00:00",
+      "album": {
+        "name": "Tm\u00ed",
+        "url": "https://open.spotify.com/album/6BFTCcyxGLFBHocDnivQnY"
+      },
+      "artists": [
+        {
+          "name": "Katz\u00f9 Oso",
+          "url": "https://open.spotify.com/artist/4tSzEOfCj6LXhaf0jtk4XO"
+        }
+      ],
+      "duration_ms": 156862,
+      "name": "Better With You",
+      "url": "https://open.spotify.com/track/4mW0oRgTmwPGFmpuwbvLud"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -1611,26 +1611,6 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
-        "name": "inigualable",
-        "url": "https://open.spotify.com/album/3o1aaswVqoB6hrjtzqeptq"
-      },
-      "artists": [
-        {
-          "name": "Yorghaki",
-          "url": "https://open.spotify.com/artist/4eq1q0o9XPyNq9RG3fNDD1"
-        },
-        {
-          "name": "ALOISIO",
-          "url": "https://open.spotify.com/artist/5kY3nTdGsS4deOS46Auy6U"
-        }
-      ],
-      "duration_ms": 178645,
-      "name": "inigualable",
-      "url": "https://open.spotify.com/track/0dgiJjVATkBD3IYJr6lTI2"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
         "name": "Fuma",
         "url": "https://open.spotify.com/album/4hZ5N4HR23RStTtFKzvktM"
       },
@@ -1647,6 +1627,26 @@
       "duration_ms": 199200,
       "name": "Fuma",
       "url": "https://open.spotify.com/track/256iSpPtbeB473PZ9gtlsL"
+    },
+    {
+      "added_at": "2023-10-06 04:00:00",
+      "album": {
+        "name": "inigualable",
+        "url": "https://open.spotify.com/album/3o1aaswVqoB6hrjtzqeptq"
+      },
+      "artists": [
+        {
+          "name": "Yorghaki",
+          "url": "https://open.spotify.com/artist/4eq1q0o9XPyNq9RG3fNDD1"
+        },
+        {
+          "name": "ALOISIO",
+          "url": "https://open.spotify.com/artist/5kY3nTdGsS4deOS46Auy6U"
+        }
+      ],
+      "duration_ms": 178645,
+      "name": "inigualable",
+      "url": "https://open.spotify.com/track/0dgiJjVATkBD3IYJr6lTI2"
     },
     {
       "added_at": "2023-10-06 04:00:00",

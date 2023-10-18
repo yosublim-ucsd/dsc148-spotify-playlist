@@ -4,7 +4,7 @@
 
 > Leaders of the new school...Alternative R&B\. Cover: Che Ecru
 
-989 songs - 2 day 5 hr 2 min
+990 songs - 2 day 5 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -48,6 +48,7 @@
 | [All Made Up](https://open.spotify.com/track/71nnIbgnEsxPXyubrlNf6Z) | [Squidgenini](https://open.spotify.com/artist/0XLJ5ey68Qg726cnVNOc2r) | [All Made Up](https://open.spotify.com/album/4i764LNeqbQg0CIYamVkG1) | 4:10 | 2022-04-01 | 2022-04-15 |
 | [All Masks \[Feat\. Masego\]](https://open.spotify.com/track/7BaROUi0CXU9OA641Tf5en) | [Robert Glasper](https://open.spotify.com/artist/5cM1PvItlR21WUyBnsdMcn), [Masego](https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig) | [All Masks](https://open.spotify.com/album/55VodNSNlKHakwsAErxaQx) | 4:30 | 2022-07-29 | 2022-09-24 |
 | [all on me](https://open.spotify.com/track/7Bqk3RPCq9QJDWF8WR0vXP) | [kid apollo](https://open.spotify.com/artist/13aNIXsYtPJ8kUmv9VgU7u) | [all on me](https://open.spotify.com/album/0lNXXDUQyEWrpnQJXWuO8S) | 2:47 | 2022-08-19 | 2022-09-10 |
+| [All the Noise](https://open.spotify.com/track/4FEgeEyyW2zzdyoCk9sK2d) | [Manana](https://open.spotify.com/artist/6omm7OGZMQZ2XODf4JVKnQ) | [All the Noise](https://open.spotify.com/album/7wi4SEBg116K9mEX5x4I2D) | 4:09 | 2023-10-13 |  |
 | [All The Same](https://open.spotify.com/track/7mVDDe0DVooFn6G8dWdO85) | [Cisco Swank](https://open.spotify.com/artist/1LlKtmnluANdN9NzI1jsIp) | [All The Same](https://open.spotify.com/album/647eOV9vqw5QiTbbfYw5i5) | 3:28 | 2023-04-07 | 2023-08-15 |
 | [All They Wanna Do](https://open.spotify.com/track/1z3GRT22Vm8FWwadTqoxuq) | [Iman Omari](https://open.spotify.com/artist/1ySUvbTVNE9pyhdzcDxjg4) | [All They Wanna Do](https://open.spotify.com/album/10R0owBaqbjtUM5A8XeSYN) | 2:38 | 2022-06-10 | 2022-07-22 |
 | [All To Me](https://open.spotify.com/track/5JycxhApZmzbA4xSwvqh6k) | [Giveon](https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP) | [When It's All Said And Done..\. Take Time](https://open.spotify.com/album/1otOJAtgvO5VCBL4Gykrrd) | 2:07 | 2021-03-25 | 2022-06-28 |
@@ -58,7 +59,7 @@
 | [alright](https://open.spotify.com/track/1Krmuryy2a0MG3SQDlxM0T) | [Yaya Bey](https://open.spotify.com/artist/6tpaMMCs8X6o8j9H5OmWmT) | [alright](https://open.spotify.com/album/05ghgyljDtoTqeUupyeBfM) | 3:08 | 2022-06-10 | 2022-07-28 |
 | [altar](https://open.spotify.com/track/501mFwKeLnybf8JO3XL66O) | [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [altar](https://open.spotify.com/album/7aQ67hIkvYTPsXFEPL6CyI) | 4:03 | 2021-09-17 | 2022-07-23 |
 | [Always Be Mine](https://open.spotify.com/track/6flcRMKoeCsnhwBTBOOW1Q) | [Giift](https://open.spotify.com/artist/2uRyCr2a4iM7uEaz4oQE3p) | [Conditions](https://open.spotify.com/album/5dQyKXUD3YhvsESDAUX4iZ) | 2:35 | 2023-06-23 | 2023-07-09 |
-| [AM/FM & Blessed \- A COLORS SHOW](https://open.spotify.com/track/1n0XdG69mCrBG4ssLAFe1S) | [rum.gold](https://open.spotify.com/artist/4mErKO4g29SXtBwj4S80aB) | [AM/FM & Blessed \- A COLORS SHOW](https://open.spotify.com/album/40e6KofbEaCqosHBg0Saag) | 4:45 | 2023-06-23 |  |
+| [AM/FM & Blessed \- A COLORS SHOW](https://open.spotify.com/track/1n0XdG69mCrBG4ssLAFe1S) | [rum.gold](https://open.spotify.com/artist/4mErKO4g29SXtBwj4S80aB) | [AM/FM & Blessed \- A COLORS SHOW](https://open.spotify.com/album/40e6KofbEaCqosHBg0Saag) | 4:45 | 2023-06-23 | 2023-10-18 |
 | [Amber](https://open.spotify.com/track/3TZ1wHauKG6dMcn7LcQq6G) | [Unusual Demont](https://open.spotify.com/artist/5KpmWCJ5NqsY9meqhjwbxR) | [Amber](https://open.spotify.com/album/2eiDE2gC9XYRYtXnqZiKvw) | 3:34 | 2021-03-19 | 2022-07-23 |
 | [AMERICAN GURL](https://open.spotify.com/track/4wYmgjrDbHprid8pODwPq4) | [Kilo Kish](https://open.spotify.com/artist/7lsnwlX6puQ7lcpSEpJbZE) | [AMERICAN GURL](https://open.spotify.com/album/1onm247Cd6CExLh8CcnhVy) | 3:48 | 2022-04-01 | 2022-04-09 |
 | [AMINA](https://open.spotify.com/track/71nnieDlMZ21AhPQ8ySK5x) | [SuperJazzClub](https://open.spotify.com/artist/5CINjDZoikcuTmtw3wgPfp) | [AMINA](https://open.spotify.com/album/3Yj8pwMeifcSfO9ezAh4i5) | 2:52 | 2023-09-08 | 2023-09-30 |
@@ -402,7 +403,7 @@
 | [Higher Self](https://open.spotify.com/track/6QZvO5OvBNZSqfLDkMsOFK) | [Kurtis Wells](https://open.spotify.com/artist/2HOnhVnbETGW5Q9TVdZm0S) | [Higher Self](https://open.spotify.com/album/7tQKPWJuOifYCvqhRf2bn0) | 3:11 | 2023-05-26 | 2023-06-16 |
 | [HIT EM WHERE IT HURTS](https://open.spotify.com/track/7888F1QWPTn4cPbuknNV4T) | [PawPaw Rod](https://open.spotify.com/artist/23KIrX6iPiVOkx60F4bjNq) | [HIT EM WHERE IT HURTS](https://open.spotify.com/album/2w4bxNOt8ZLIBaKH2oi6ij) | 2:45 | 2022-04-01 | 2022-08-09 |
 | [Hold Me](https://open.spotify.com/track/6IwZZImA6kzAcLo0fobeFO) | [Hojean](https://open.spotify.com/artist/0ENnerFBtqPaVUcHadXU2w) | [Hold Me](https://open.spotify.com/album/7JTfcLHEOyg7aQTF16PGyA) | 2:43 | 2022-10-28 | 2023-02-11 |
-| [Hold My Hand](https://open.spotify.com/track/1E7ssTY1Eeb69pr6aVe6xM) | [Kenneth Whalum](https://open.spotify.com/artist/2lnrl1gyJvhaFtNIIRnB16) | [Hold My Hand](https://open.spotify.com/album/3517UY5CoDP3OQBa5QmsyP) | 3:32 | 2023-06-09 | 2023-10-15 |
+| [Hold My Hand](https://open.spotify.com/track/1E7ssTY1Eeb69pr6aVe6xM) | [Kenneth Whalum](https://open.spotify.com/artist/2lnrl1gyJvhaFtNIIRnB16) | [Hold My Hand](https://open.spotify.com/album/3517UY5CoDP3OQBa5QmsyP) | 3:32 | 2023-06-09 |  |
 | [HOLLOW.](https://open.spotify.com/track/0Sr5C8SEaELPY0Z4XyEP5U) | [Bibi Bourelly](https://open.spotify.com/artist/3jDtqAKltRxJi64svLZGj7), [Maureen Boyer](https://open.spotify.com/artist/2QwZNsarQSosx1QCFE0pYr), [SamTRax](https://open.spotify.com/artist/7oGdaJSr8Hz4w6DDPCBiW2) | [Solèy](https://open.spotify.com/album/2TdhamfEwgBXBrWexl2T3r) | 4:44 | 2022-02-25 | 2022-07-29 |
 | [Hologram](https://open.spotify.com/track/0F2zGnaOrsVCOD900FebJk) | [Forest Claudette](https://open.spotify.com/artist/4d26k6BPR9MhZyTj3g5yEM) | [Hologram](https://open.spotify.com/album/30ef2BpCTTCbxFFucsENZj) | 3:26 | 2022-09-02 | 2022-09-17 |
 | [Home Maker \(Edit\)](https://open.spotify.com/track/5rFtI5SpdK3VT7vmd0GAhs) | [Sudan Archives](https://open.spotify.com/artist/2MPHBxznH1fj59jbOWY38u) | [Home Maker](https://open.spotify.com/album/65DXmlrnWyJwqelAyE4JrU) | 3:52 | 2022-03-21 | 2022-12-09 |
@@ -566,7 +567,7 @@
 | [MiSS BEHAVE](https://open.spotify.com/track/5ShRfLOfpUdmDLGqLWrGKq) | [Jidenna](https://open.spotify.com/artist/4TsHKU8l8Wq7n7OPVikirn) | [ME YOU & GOD](https://open.spotify.com/album/3eZdxMaUii7OAahX0hFcJU) | 2:53 | 2023-05-05 |  |
 | [Miss Summer](https://open.spotify.com/track/58VNpcJpI5dEKxYByCkbXc) | [ODIE](https://open.spotify.com/artist/5aMIbwZQvP2MHPMVC5zCGj) | [Miss Summer](https://open.spotify.com/album/1LAFmzdHxA73B7QzzRhMco) | 2:42 | 2021-03-19 | 2022-07-30 |
 | [Missing Out](https://open.spotify.com/track/5vvn5HATa05iKVql6oYULV) | [Syd](https://open.spotify.com/artist/3jk39CGeaaSO3FPKNx1RUx) | [Missing Out](https://open.spotify.com/album/1WteYNWIkmmgTfquwV0Mc4) | 3:59 | 2021-03-19 | 2022-07-29 |
-| [Moderation](https://open.spotify.com/track/4wqBRSqEPrL4UjP00lZB1M) | [Col3trane](https://open.spotify.com/artist/4hTL3jOgvZwOqegEZTOrCc) | [Chekhov's Gun](https://open.spotify.com/album/5Ej0IOSmRQbb1o961TqMzG) | 2:03 | 2023-06-09 |  |
+| [Moderation](https://open.spotify.com/track/4wqBRSqEPrL4UjP00lZB1M) | [Col3trane](https://open.spotify.com/artist/4hTL3jOgvZwOqegEZTOrCc) | [Chekhov's Gun](https://open.spotify.com/album/5Ej0IOSmRQbb1o961TqMzG) | 2:03 | 2023-06-09 | 2023-10-18 |
 | [Moonlight](https://open.spotify.com/track/43XQxLhbUFqqCtRYiKCdCx) | [Conor Albert](https://open.spotify.com/artist/0zJjil03QRbxSliMkw230M), [Mac Ayres](https://open.spotify.com/artist/0fTav4sBLmYOAzKuJw0grL) | [Moonlight](https://open.spotify.com/album/4peKAwsBT7Tct2QcZqAXtG) | 3:25 | 2021-06-18 | 2022-04-15 |
 | [Moonlight](https://open.spotify.com/track/2i2gDpKKWjvnRTOZRhaPh2) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [Moonlight](https://open.spotify.com/album/1y8Yw0NDcP2qxbZufIXt7u) | 3:07 | 2023-02-24 | 2023-07-22 |
 | [moonlit room](https://open.spotify.com/track/5KzBH7THRVKCCmkMp1tazw) | [UMI](https://open.spotify.com/artist/4ClziihVpBeFXNyDH83Lde) | [moonlit room](https://open.spotify.com/album/4fNpiEQNMa4ehobympXbQi) | 4:10 | 2022-05-13 | 2023-02-04 |

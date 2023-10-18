@@ -1,12 +1,12 @@
 {
   "description": "Deep, dark, dramatic. Roots rock, folk, and Americana\u2014with a gothic soul.",
-  "num_followers": 583788,
+  "num_followers": 583921,
   "original_name": "Southern Gothic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyMTZiNzFmZjBhYWRjMzlmODMxODI0NmI3NzIzODFlMTJiYmQ1MTU2",
+  "snapshot_id": "MCw3NjlhNDcyYTcwZTA1ZmNhZTYwYWRhOTE5YTYxMDZkZThmOGU1N2Ez",
   "tracks": [
     {
       "added_at": "2023-10-06 04:00:00",
@@ -595,22 +595,6 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
-        "name": "Black Is the Color",
-        "url": "https://open.spotify.com/album/0Gx2t3sH5mQbHDLI5fuEXY"
-      },
-      "artists": [
-        {
-          "name": "Lucette",
-          "url": "https://open.spotify.com/artist/1OlzK1kHcdTcduXcdXHYXn"
-        }
-      ],
-      "duration_ms": 138440,
-      "name": "Bobby Reid",
-      "url": "https://open.spotify.com/track/10WBKR8tDk416oDMm6wshS"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
         "name": "The Angry River (feat. Father John Misty and S.I. Istwa) [Theme From the HBO Series True Detective]",
         "url": "https://open.spotify.com/album/795JPmab0nbSSraMlxBHF0"
       },
@@ -631,6 +615,22 @@
       "duration_ms": 175153,
       "name": "The Angry River (feat. Father John Misty and S.I. Istwa) [Theme From the HBO Series True Detective]",
       "url": "https://open.spotify.com/track/3tEL74JlN4OT9YPoNx5eRI"
+    },
+    {
+      "added_at": "2023-10-06 04:00:00",
+      "album": {
+        "name": "Black Is the Color",
+        "url": "https://open.spotify.com/album/0Gx2t3sH5mQbHDLI5fuEXY"
+      },
+      "artists": [
+        {
+          "name": "Lucette",
+          "url": "https://open.spotify.com/artist/1OlzK1kHcdTcduXcdXHYXn"
+        }
+      ],
+      "duration_ms": 138440,
+      "name": "Bobby Reid",
+      "url": "https://open.spotify.com/track/10WBKR8tDk416oDMm6wshS"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -719,22 +719,6 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
-        "name": "From Eden EP",
-        "url": "https://open.spotify.com/album/0FubRTC6GUFPUg4y2Xuxs0"
-      },
-      "artists": [
-        {
-          "name": "Hozier",
-          "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
-        }
-      ],
-      "duration_ms": 229666,
-      "name": "Work Song",
-      "url": "https://open.spotify.com/track/5szmwG86IFASvYrca21MEz"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
         "name": "Parker Millsap",
         "url": "https://open.spotify.com/album/3puqTC6ZIfItLMY4q0wr4e"
       },
@@ -747,6 +731,22 @@
       "duration_ms": 234000,
       "name": "Old Time Religion",
       "url": "https://open.spotify.com/track/4zm37YNRt5XrbFOTPk0jBp"
+    },
+    {
+      "added_at": "2023-10-06 04:00:00",
+      "album": {
+        "name": "From Eden EP",
+        "url": "https://open.spotify.com/album/0FubRTC6GUFPUg4y2Xuxs0"
+      },
+      "artists": [
+        {
+          "name": "Hozier",
+          "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
+        }
+      ],
+      "duration_ms": 229666,
+      "name": "Work Song",
+      "url": "https://open.spotify.com/track/5szmwG86IFASvYrca21MEz"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -979,22 +979,6 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
-        "name": "Folksinger Vol. 2",
-        "url": "https://open.spotify.com/album/2CBLeaL8ProyeOOhc1QFpb"
-      },
-      "artists": [
-        {
-          "name": "Willie Watson",
-          "url": "https://open.spotify.com/artist/5j9IEu1SEY0JslCPmfVsgq"
-        }
-      ],
-      "duration_ms": 246146,
-      "name": "Gallows Pole",
-      "url": "https://open.spotify.com/track/5L1BHZ2uApRTpP95yGykjv"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
         "name": "Nobody knows.",
         "url": "https://open.spotify.com/album/307byX8K0rtQ6vOJ4OEMm2"
       },
@@ -1007,6 +991,22 @@
       "duration_ms": 279733,
       "name": "Too Dry To Cry",
       "url": "https://open.spotify.com/track/5oG9KGz90VbBGNH25BFWYL"
+    },
+    {
+      "added_at": "2023-10-06 04:00:00",
+      "album": {
+        "name": "Folksinger Vol. 2",
+        "url": "https://open.spotify.com/album/2CBLeaL8ProyeOOhc1QFpb"
+      },
+      "artists": [
+        {
+          "name": "Willie Watson",
+          "url": "https://open.spotify.com/artist/5j9IEu1SEY0JslCPmfVsgq"
+        }
+      ],
+      "duration_ms": 246146,
+      "name": "Gallows Pole",
+      "url": "https://open.spotify.com/track/5L1BHZ2uApRTpP95yGykjv"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -1171,22 +1171,6 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
-        "name": "William Crighton",
-        "url": "https://open.spotify.com/album/11iygN0BADQ3dWcAwyp3QV"
-      },
-      "artists": [
-        {
-          "name": "William Crighton",
-          "url": "https://open.spotify.com/artist/4EVBuMQ6XVgxeqWKH09dBM"
-        }
-      ],
-      "duration_ms": 264937,
-      "name": "Priest",
-      "url": "https://open.spotify.com/track/1CzxPLi5K7pnT4ATkdLJ9T"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
         "name": "The Dark",
         "url": "https://open.spotify.com/album/5bYknjcVWXm5uGXvOeYJ2v"
       },
@@ -1199,6 +1183,22 @@
       "duration_ms": 180920,
       "name": "The Beast",
       "url": "https://open.spotify.com/track/3Ots0w8hKuBavNkhLjlJ79"
+    },
+    {
+      "added_at": "2023-10-06 04:00:00",
+      "album": {
+        "name": "William Crighton",
+        "url": "https://open.spotify.com/album/11iygN0BADQ3dWcAwyp3QV"
+      },
+      "artists": [
+        {
+          "name": "William Crighton",
+          "url": "https://open.spotify.com/artist/4EVBuMQ6XVgxeqWKH09dBM"
+        }
+      ],
+      "duration_ms": 264937,
+      "name": "Priest",
+      "url": "https://open.spotify.com/track/1CzxPLi5K7pnT4ATkdLJ9T"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -1219,22 +1219,6 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
-        "name": "Salt For Salt",
-        "url": "https://open.spotify.com/album/0SVsGgGApRYVXP466ywwsC"
-      },
-      "artists": [
-        {
-          "name": "Brown Bird",
-          "url": "https://open.spotify.com/artist/5zzbSFZMVpvxSlWAkqqtHP"
-        }
-      ],
-      "duration_ms": 198132,
-      "name": "Chairkickers",
-      "url": "https://open.spotify.com/track/0O0T1NHzuTa12tNZ1hZ7db"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
         "name": "War Brides",
         "url": "https://open.spotify.com/album/5hglONXTikY7aLfrWbkBjb"
       },
@@ -1247,6 +1231,22 @@
       "duration_ms": 144040,
       "name": "Devils",
       "url": "https://open.spotify.com/track/2cjlGKF1b3ZOMWdGJybQNs"
+    },
+    {
+      "added_at": "2023-10-06 04:00:00",
+      "album": {
+        "name": "Salt For Salt",
+        "url": "https://open.spotify.com/album/0SVsGgGApRYVXP466ywwsC"
+      },
+      "artists": [
+        {
+          "name": "Brown Bird",
+          "url": "https://open.spotify.com/artist/5zzbSFZMVpvxSlWAkqqtHP"
+        }
+      ],
+      "duration_ms": 198132,
+      "name": "Chairkickers",
+      "url": "https://open.spotify.com/track/0O0T1NHzuTa12tNZ1hZ7db"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -1267,22 +1267,6 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
-        "name": "Hymns For a Dark Horse",
-        "url": "https://open.spotify.com/album/1bmDSG41Kr8RQBcP9qCM0e"
-      },
-      "artists": [
-        {
-          "name": "Bowerbirds",
-          "url": "https://open.spotify.com/artist/4MoGkOmfK6oKi1Isc8Iv9m"
-        }
-      ],
-      "duration_ms": 233493,
-      "name": "In Our Talons",
-      "url": "https://open.spotify.com/track/32MfLc3XuxExc5XOgim5LB"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
         "name": "Lions And Lambs",
         "url": "https://open.spotify.com/album/5sUoqZHXyBK3dm0MR6uxaZ"
       },
@@ -1295,6 +1279,22 @@
       "duration_ms": 216840,
       "name": "Hell's Bells",
       "url": "https://open.spotify.com/track/50MNCojhSwCd4QkJ7O80E5"
+    },
+    {
+      "added_at": "2023-10-06 04:00:00",
+      "album": {
+        "name": "Hymns For a Dark Horse",
+        "url": "https://open.spotify.com/album/1bmDSG41Kr8RQBcP9qCM0e"
+      },
+      "artists": [
+        {
+          "name": "Bowerbirds",
+          "url": "https://open.spotify.com/artist/4MoGkOmfK6oKi1Isc8Iv9m"
+        }
+      ],
+      "duration_ms": 233493,
+      "name": "In Our Talons",
+      "url": "https://open.spotify.com/track/32MfLc3XuxExc5XOgim5LB"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -1555,22 +1555,6 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
-        "name": "Ribbon",
-        "url": "https://open.spotify.com/album/0BcwJa98MGRTBiHpmNqEHl"
-      },
-      "artists": [
-        {
-          "name": "Billie Marten",
-          "url": "https://open.spotify.com/artist/02YLJJnWC7YQVixkjEBRn7"
-        }
-      ],
-      "duration_ms": 216538,
-      "name": "Ribbon",
-      "url": "https://open.spotify.com/track/6CD7BVEDI5WpYVwAs30Opk"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
         "name": "Lungs",
         "url": "https://open.spotify.com/album/2gXXc2kHhKHtDpaXNi0M6g"
       },
@@ -1583,6 +1567,22 @@
       "duration_ms": 177359,
       "name": "Lungs",
       "url": "https://open.spotify.com/track/59yvm9n65pPkykLU3e0Kf0"
+    },
+    {
+      "added_at": "2023-10-06 04:00:00",
+      "album": {
+        "name": "Ribbon",
+        "url": "https://open.spotify.com/album/0BcwJa98MGRTBiHpmNqEHl"
+      },
+      "artists": [
+        {
+          "name": "Billie Marten",
+          "url": "https://open.spotify.com/artist/02YLJJnWC7YQVixkjEBRn7"
+        }
+      ],
+      "duration_ms": 216538,
+      "name": "Ribbon",
+      "url": "https://open.spotify.com/track/6CD7BVEDI5WpYVwAs30Opk"
     },
     {
       "added_at": "2023-10-06 04:00:00",

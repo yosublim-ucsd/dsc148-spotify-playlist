@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9vYRBO9gjDe.md) - [plain]
 
 > Spotify Japanのデイリー急上昇チャート。10月15日付。
 
-[Spotify](https://open.spotify.com/user/spotify) - 286,566 likes - 50 songs - 3 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 286,638 likes - 50 songs - 3 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9vYRBO9gjDe.md) - [plain]
 | 49 | [LEAP HIGH! 〜明日へ、めいっぱい〜](https://open.spotify.com/track/5M1sJDGYb2r1hT7TL0r59i) | [PRODUCE 101 JAPAN THE GIRLS](https://open.spotify.com/artist/2JT0j7bIpVTyhyv4h9aEOe) | [LEAP HIGH! 〜明日へ、めいっぱい〜](https://open.spotify.com/album/2mZWhBDmTToNUu0zz6YukM) | 3:27 |
 | 50 | [GODS](https://open.spotify.com/track/210JJAa9nJOgNa0YNrsT5g) | [League of Legends](https://open.spotify.com/artist/47mIJdHORyRerp4os813jD), [NewJeans](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) | [GODS](https://open.spotify.com/album/0rAaP1OBxVCn2cIUZNjGRs) | 3:40 |
 
-Snapshot ID: `MCxjNTgzNzAwN2QyNzQxZDVkODA5MzczYTIyZjZiNTAwZDAzMzcwMzJh`
+Snapshot ID: `MCwwOTlmNTQyMzlhMDMwNWRlMzUyMmJlN2E3MjUzMmJkMThhMzQ2YzZk`

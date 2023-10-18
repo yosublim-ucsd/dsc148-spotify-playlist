@@ -1,12 +1,12 @@
 {
   "description": "Descubre lo m\u00e1s fresco de la electr\u00f3nica mexicana. Dannylux en portada.",
-  "num_followers": 55043,
+  "num_followers": 55047,
   "original_name": "mint MX",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwZWMzOGY2ZTIxMDkwMTgxNTI3ZmJmNzYyMGVkZTEzNTA0NjgwNzdj",
+  "snapshot_id": "MCxmOWE5ZTNhZTZmNmM3YjhmMDkwODFkNGMwMDY1Nzg1M2Q1OTdhYTRm",
   "tracks": [
     {
       "added_at": "2023-10-06 06:00:00",
@@ -587,18 +587,18 @@
     {
       "added_at": "2023-10-06 06:00:00",
       "album": {
-        "name": "Petricor",
-        "url": "https://open.spotify.com/album/0IVYH4XuCGwV5Xdw6oL1nG"
+        "name": "Hanging Tree",
+        "url": "https://open.spotify.com/album/4ldIgsaqKxrv5s44HLJ28S"
       },
       "artists": [
         {
-          "name": "Sinego",
-          "url": "https://open.spotify.com/artist/3UlAQex8nw3vquHcmY8fpb"
+          "name": "Le Twins",
+          "url": "https://open.spotify.com/artist/52kfbBndpbamlOcoNPaurb"
         }
       ],
-      "duration_ms": 204427,
-      "name": "Petricor",
-      "url": "https://open.spotify.com/track/5d4DtQUmvFYubKmOhL0p7m"
+      "duration_ms": 173760,
+      "name": "Hanging Tree",
+      "url": "https://open.spotify.com/track/0BKgZjR0nB7zYXqlGvW4hQ"
     },
     {
       "added_at": "2023-10-06 06:00:00",
@@ -627,6 +627,22 @@
     {
       "added_at": "2023-10-06 06:00:00",
       "album": {
+        "name": "Petricor",
+        "url": "https://open.spotify.com/album/0IVYH4XuCGwV5Xdw6oL1nG"
+      },
+      "artists": [
+        {
+          "name": "Sinego",
+          "url": "https://open.spotify.com/artist/3UlAQex8nw3vquHcmY8fpb"
+        }
+      ],
+      "duration_ms": 204427,
+      "name": "Petricor",
+      "url": "https://open.spotify.com/track/5d4DtQUmvFYubKmOhL0p7m"
+    },
+    {
+      "added_at": "2023-10-06 06:00:00",
+      "album": {
         "name": "El Pana Dero",
         "url": "https://open.spotify.com/album/5HJNjbWyZqILeVwam3MV3I"
       },
@@ -639,22 +655,6 @@
       "duration_ms": 164160,
       "name": "El Pana Dero",
       "url": "https://open.spotify.com/track/0umJFQoaXdG6N8RhWdSElT"
-    },
-    {
-      "added_at": "2023-10-06 06:00:00",
-      "album": {
-        "name": "Hanging Tree",
-        "url": "https://open.spotify.com/album/4ldIgsaqKxrv5s44HLJ28S"
-      },
-      "artists": [
-        {
-          "name": "Le Twins",
-          "url": "https://open.spotify.com/artist/52kfbBndpbamlOcoNPaurb"
-        }
-      ],
-      "duration_ms": 173760,
-      "name": "Hanging Tree",
-      "url": "https://open.spotify.com/track/0BKgZjR0nB7zYXqlGvW4hQ"
     },
     {
       "added_at": "2023-10-06 06:00:00",
@@ -891,26 +891,6 @@
     {
       "added_at": "2023-10-06 06:00:00",
       "album": {
-        "name": "Pass The Dutch",
-        "url": "https://open.spotify.com/album/4jd1mPf6zBve7aMue5g4qj"
-      },
-      "artists": [
-        {
-          "name": "JADED",
-          "url": "https://open.spotify.com/artist/6tCJN1fQNdFCEaOa8Da9Wf"
-        },
-        {
-          "name": "Tom & Collins",
-          "url": "https://open.spotify.com/artist/1XU5MjR4kex9BGyY4UMtta"
-        }
-      ],
-      "duration_ms": 208125,
-      "name": "Pass The Dutch",
-      "url": "https://open.spotify.com/track/0Tk3EEE8mCTb8VaS5Phqc0"
-    },
-    {
-      "added_at": "2023-10-06 06:00:00",
-      "album": {
         "name": "Ojos (La Noche Mix)",
         "url": "https://open.spotify.com/album/6V1G5cBs5JILHRvoFfLQ45"
       },
@@ -931,6 +911,26 @@
     {
       "added_at": "2023-10-06 06:00:00",
       "album": {
+        "name": "Pass The Dutch",
+        "url": "https://open.spotify.com/album/4jd1mPf6zBve7aMue5g4qj"
+      },
+      "artists": [
+        {
+          "name": "JADED",
+          "url": "https://open.spotify.com/artist/6tCJN1fQNdFCEaOa8Da9Wf"
+        },
+        {
+          "name": "Tom & Collins",
+          "url": "https://open.spotify.com/artist/1XU5MjR4kex9BGyY4UMtta"
+        }
+      ],
+      "duration_ms": 208125,
+      "name": "Pass The Dutch",
+      "url": "https://open.spotify.com/track/0Tk3EEE8mCTb8VaS5Phqc0"
+    },
+    {
+      "added_at": "2023-10-06 06:00:00",
+      "album": {
         "name": "Weekend",
         "url": "https://open.spotify.com/album/7FtdIOpU66SkktCMbhraB7"
       },
@@ -947,6 +947,30 @@
       "duration_ms": 252579,
       "name": "Weekend",
       "url": "https://open.spotify.com/track/536cXZkxCVury8e0oEMaHW"
+    },
+    {
+      "added_at": "2023-10-06 06:00:00",
+      "album": {
+        "name": "Brake Test",
+        "url": "https://open.spotify.com/album/1sb9HqNdyxgAhBykc1FGZI"
+      },
+      "artists": [
+        {
+          "name": "Kevin Brand",
+          "url": "https://open.spotify.com/artist/37FEWLu0vHMvO4n1SHnWBS"
+        },
+        {
+          "name": "Guztavo MX",
+          "url": "https://open.spotify.com/artist/1WkYOyubVUMoS4YCIuqL9Q"
+        },
+        {
+          "name": "Nitai Charan",
+          "url": "https://open.spotify.com/artist/5R74FYSqMPIUYTHQs2TA6I"
+        }
+      ],
+      "duration_ms": 137812,
+      "name": "Brake Test",
+      "url": "https://open.spotify.com/track/09N5F30oo4lcyXu1XqkErN"
     },
     {
       "added_at": "2023-10-06 06:00:00",
@@ -975,30 +999,6 @@
       "duration_ms": 167666,
       "name": "\u00a1Bang Bang!",
       "url": "https://open.spotify.com/track/3jporpDKD12uIni94rIOjh"
-    },
-    {
-      "added_at": "2023-10-06 06:00:00",
-      "album": {
-        "name": "Brake Test",
-        "url": "https://open.spotify.com/album/1sb9HqNdyxgAhBykc1FGZI"
-      },
-      "artists": [
-        {
-          "name": "Kevin Brand",
-          "url": "https://open.spotify.com/artist/37FEWLu0vHMvO4n1SHnWBS"
-        },
-        {
-          "name": "Guztavo MX",
-          "url": "https://open.spotify.com/artist/1WkYOyubVUMoS4YCIuqL9Q"
-        },
-        {
-          "name": "Nitai Charan",
-          "url": "https://open.spotify.com/artist/5R74FYSqMPIUYTHQs2TA6I"
-        }
-      ],
-      "duration_ms": 137812,
-      "name": "Brake Test",
-      "url": "https://open.spotify.com/track/09N5F30oo4lcyXu1XqkErN"
     },
     {
       "added_at": "2023-10-06 06:00:00",

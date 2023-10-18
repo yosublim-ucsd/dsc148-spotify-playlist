@@ -1,12 +1,12 @@
 {
   "description": "New and classic Gospel songs to celebrate the Easter season.",
-  "num_followers": 53684,
+  "num_followers": 53679,
   "original_name": "Easter Gospel",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiZmVhOTNkZGFjZDYwMDA3YjdkM2YyODY1YzkzNzM0NWQ1MDRkZTE2",
+  "snapshot_id": "MCw4NTg5MjkyYWU2Y2MwYWUyNjI1YjFjY2NjMjg2ZDRkN2Q1OTRlMzI2",
   "tracks": [
     {
       "added_at": "2023-04-09 08:49:39",
@@ -207,22 +207,6 @@
     {
       "added_at": "2023-04-09 08:49:39",
       "album": {
-        "name": "Triumphant",
-        "url": "https://open.spotify.com/album/2WV2VbUUUSVRbjONFfWz1Y"
-      },
-      "artists": [
-        {
-          "name": "VaShawn Mitchell",
-          "url": "https://open.spotify.com/artist/1Agf8ZtreYoKAXgpeAd7GA"
-        }
-      ],
-      "duration_ms": 369160,
-      "name": "Nobody Greater",
-      "url": "https://open.spotify.com/track/0njT9NV9xsV4hLkgZ8yOUD"
-    },
-    {
-      "added_at": "2023-04-09 08:49:39",
-      "album": {
         "name": "Believe For It",
         "url": "https://open.spotify.com/album/2Wf09CJNp4sH4Oq9KZOzor"
       },
@@ -235,6 +219,22 @@
       "duration_ms": 502333,
       "name": "Believe For It - Live",
       "url": "https://open.spotify.com/track/2kSt5gqwUhufhV3mDP38JK"
+    },
+    {
+      "added_at": "2023-04-09 08:49:39",
+      "album": {
+        "name": "Triumphant",
+        "url": "https://open.spotify.com/album/2WV2VbUUUSVRbjONFfWz1Y"
+      },
+      "artists": [
+        {
+          "name": "VaShawn Mitchell",
+          "url": "https://open.spotify.com/artist/1Agf8ZtreYoKAXgpeAd7GA"
+        }
+      ],
+      "duration_ms": 369160,
+      "name": "Nobody Greater",
+      "url": "https://open.spotify.com/track/0njT9NV9xsV4hLkgZ8yOUD"
     },
     {
       "added_at": "2023-04-09 08:49:39",
@@ -551,22 +551,6 @@
     {
       "added_at": "2023-04-09 08:49:39",
       "album": {
-        "name": "Road to DeMaskUs",
-        "url": "https://open.spotify.com/album/6mLj2XS7RDNh9gyVxUSlT3"
-      },
-      "artists": [
-        {
-          "name": "Israel Houghton",
-          "url": "https://open.spotify.com/artist/7pUnaNwiKa3p27L1EwB4X6"
-        }
-      ],
-      "duration_ms": 322106,
-      "name": "Reckless Love",
-      "url": "https://open.spotify.com/track/6LSqdwX4xUzP619oYIJMH9"
-    },
-    {
-      "added_at": "2023-04-09 08:49:39",
-      "album": {
         "name": "Way Maker (Live)",
         "url": "https://open.spotify.com/album/5EbRkyqOEX6pXqypa5Eh65"
       },
@@ -579,6 +563,22 @@
       "duration_ms": 500453,
       "name": "Waymaker - Bonus Track, Live",
       "url": "https://open.spotify.com/track/4WBGWowkttFkVlxULnCWKP"
+    },
+    {
+      "added_at": "2023-04-09 08:49:39",
+      "album": {
+        "name": "Road to DeMaskUs",
+        "url": "https://open.spotify.com/album/6mLj2XS7RDNh9gyVxUSlT3"
+      },
+      "artists": [
+        {
+          "name": "Israel Houghton",
+          "url": "https://open.spotify.com/artist/7pUnaNwiKa3p27L1EwB4X6"
+        }
+      ],
+      "duration_ms": 322106,
+      "name": "Reckless Love",
+      "url": "https://open.spotify.com/track/6LSqdwX4xUzP619oYIJMH9"
     },
     {
       "added_at": "2023-04-09 08:49:39",
@@ -1771,22 +1771,6 @@
     {
       "added_at": "2023-04-09 08:49:39",
       "album": {
-        "name": "Family & Friends Choir III",
-        "url": "https://open.spotify.com/album/2HqJpxkdEf5FRDJsxkkZrj"
-      },
-      "artists": [
-        {
-          "name": "Ron Winans",
-          "url": "https://open.spotify.com/artist/67B5eSkw1ckwkAVi278b2s"
-        }
-      ],
-      "duration_ms": 325666,
-      "name": "He Proved His Love",
-      "url": "https://open.spotify.com/track/4OMAO6F57zBkgyakZjscTl"
-    },
-    {
-      "added_at": "2023-04-09 08:49:39",
-      "album": {
         "name": "Live: The Praise, the Worship",
         "url": "https://open.spotify.com/album/3emdtGEEnR69WhvkUeB8py"
       },
@@ -1799,6 +1783,22 @@
       "duration_ms": 329186,
       "name": "Oh Holy Lamb",
       "url": "https://open.spotify.com/track/2N6ccWkNTrKuIa3JqRzxhb"
+    },
+    {
+      "added_at": "2023-04-09 08:49:39",
+      "album": {
+        "name": "Family & Friends Choir III",
+        "url": "https://open.spotify.com/album/2HqJpxkdEf5FRDJsxkkZrj"
+      },
+      "artists": [
+        {
+          "name": "Ron Winans",
+          "url": "https://open.spotify.com/artist/67B5eSkw1ckwkAVi278b2s"
+        }
+      ],
+      "duration_ms": 325666,
+      "name": "He Proved His Love",
+      "url": "https://open.spotify.com/track/4OMAO6F57zBkgyakZjscTl"
     },
     {
       "added_at": "2023-04-09 08:49:39",
@@ -1819,18 +1819,18 @@
     {
       "added_at": "2023-04-09 08:49:39",
       "album": {
-        "name": "Beginnings",
-        "url": "https://open.spotify.com/album/1dWfCCgAXOSfOcyHEXbJYR"
+        "name": "Live In Detroit (Live)",
+        "url": "https://open.spotify.com/album/0uKzIXtrSUvzRCFHSOv1vv"
       },
       "artists": [
         {
-          "name": "Richard Smallwood",
-          "url": "https://open.spotify.com/artist/4WIRlLxuzmZciQ8JS2b3jP"
+          "name": "Rev. James Moore",
+          "url": "https://open.spotify.com/artist/2r7fA3DrMO5JXl3uoOLkaN"
         }
       ],
-      "duration_ms": 348773,
-      "name": "Calvary",
-      "url": "https://open.spotify.com/track/2kUwyQh2FseRy8UgboN9T0"
+      "duration_ms": 450840,
+      "name": "Cherish The Cross",
+      "url": "https://open.spotify.com/track/7BranHqbktqdiojkd0r07A"
     }
   ],
   "unique_name": "Easter Gospel",

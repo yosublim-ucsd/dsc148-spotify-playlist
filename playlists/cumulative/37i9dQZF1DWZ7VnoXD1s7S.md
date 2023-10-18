@@ -4,7 +4,7 @@
 
 > no\-clip out of reality
 
-153 songs - 7 hr 1 min
+155 songs - 7 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,7 +26,7 @@
 | [Beware The Friendly Stranger](https://open.spotify.com/track/3KflFtXKKX61Ljf3TQqXln) | [Boards of Canada](https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1) | [Geogaddi](https://open.spotify.com/album/7Lou3RDk6NswmbzBMhro24) | 0:37 | 2022-08-22 | 2023-01-05 |
 | [Bleached](https://open.spotify.com/track/7nTrgV4osUk3b5ZKgKEWlu) | [Video Days](https://open.spotify.com/artist/3kbxSeLvtQJkPCCh3ESKoe) | [sungazing](https://open.spotify.com/album/6LhN2ibtSczdogP7IrJIhM) | 1:23 | 2023-01-19 | 2023-08-17 |
 | [Bloom](https://open.spotify.com/track/26kPTDeIh5pTcyMuD6IonN) | [j^p^n](https://open.spotify.com/artist/6s3PbveUJMvMwZHyQUAPV4) | [Offering](https://open.spotify.com/album/5e8pMyCjkoreQfGFU58lRl) | 2:17 | 2022-08-22 |  |
-| [braincells](https://open.spotify.com/track/6aMk9gUq9pjZgmjsAm3FjS) | [tomcbumpz](https://open.spotify.com/artist/0klU31gyC6EZqKgLvVANCy) | [comfortable silence](https://open.spotify.com/album/1Mlp2X6DPCWVLoN6QqH25x) | 0:59 | 2023-02-09 |  |
+| [braincells](https://open.spotify.com/track/6aMk9gUq9pjZgmjsAm3FjS) | [tomcbumpz](https://open.spotify.com/artist/0klU31gyC6EZqKgLvVANCy) | [comfortable silence](https://open.spotify.com/album/1Mlp2X6DPCWVLoN6QqH25x) | 0:59 | 2023-02-09 | 2023-10-18 |
 | [Brian is the Most Beautiful](https://open.spotify.com/track/1YkMJr3IwSLmMpcsBI5KWS) | [Memo Boy](https://open.spotify.com/artist/2jwC7uml6QVgLBfx1Hbtek) | [Songs & Demos 2015\-2017](https://open.spotify.com/album/4Ei52mFcaEtc4yrQAPGS8w) | 3:45 | 2022-08-22 | 2023-02-02 |
 | [Brian is the Most Beautiful](https://open.spotify.com/track/3lhLML5eIwmPnw2xWKosZX) | [Memo Boy](https://open.spotify.com/artist/2jwC7uml6QVgLBfx1Hbtek) | [Songs & Demos 2015\-2017](https://open.spotify.com/album/0a0ftVkZr4K1QoOXcZF0V1) | 3:45 | 2022-09-06 |  |
 | [Brokendate](https://open.spotify.com/track/0XcY2bB4lectIINykHYYDa) | [Com Truise](https://open.spotify.com/artist/2wouN3QXejYa5tKetYdcVX) | [Galactic Melt](https://open.spotify.com/album/1PSr89gL5T8Ki87t4V5BGZ) | 5:08 | 2022-08-22 | 2022-08-24 |
@@ -50,6 +50,7 @@
 | [fika](https://open.spotify.com/track/3KaUlLTsN8V4dF67Kv1z7c) | [ciaffa](https://open.spotify.com/artist/40jlY1amdIaVtPMKjdBj7x) | [fika](https://open.spotify.com/album/3DARzLhVf5sjaMa0a5CZ7z) | 3:19 | 2023-08-30 |  |
 | [fika](https://open.spotify.com/track/7fiaW56axfs9xVhNcGPzkz) | [nyctophilia](https://open.spotify.com/artist/6EBztj9PNSjDwsJ7iO1nC6) | [fika](https://open.spotify.com/album/6rMfwZHGjgvwEIgdnuJ2pS) | 3:19 | 2023-08-16 | 2023-09-20 |
 | [Follow Don't Follow](https://open.spotify.com/track/2xIcaXci9tzQpEGC65ZBfo) | [orbit](https://open.spotify.com/artist/6aEgar707cpB5zzGyZlyRv) | [Follow Don't Follow](https://open.spotify.com/album/3brLe20KwQR42hcJJWcjfM) | 4:04 | 2023-03-24 |  |
+| [Goodnight Dad I Love You](https://open.spotify.com/track/013L1ZodWo9Ax2g9LejC9O) | [Wishing](https://open.spotify.com/artist/4SPlQqq2yxd4ynKRnkWqy7) | [None of This Was Your Fault](https://open.spotify.com/album/4daTdHnYUgzEWuMrOkLvvM) | 2:43 | 2023-10-17 |  |
 | [Great Mother In The Sky](https://open.spotify.com/track/0J69dD3yE5vo51vW8DRokI) | [Lionmilk](https://open.spotify.com/artist/0ssDUMMQsAhDLqKwBqEnGZ) | [I Hope You Are Well](https://open.spotify.com/album/07bQPrG1jSRCkd9SvBXsy4) | 5:57 | 2022-08-22 | 2023-07-30 |
 | [Great Mother In The Sky](https://open.spotify.com/track/6KsjZGtZKyjJmpHoCXC0LW) | [Lionmilk](https://open.spotify.com/artist/0ssDUMMQsAhDLqKwBqEnGZ) | [I Hope You Are Well](https://open.spotify.com/album/28ZgWDtVKZMYuI8GOiRSCe) | 5:57 | 2022-09-06 |  |
 | [green to blue \- slowed + reverbed](https://open.spotify.com/track/1MrSbSu9UNo7Aucwrf32WJ) | [daniel.mp3](https://open.spotify.com/artist/5OE8eZn0x45cNNc8GCpvmC) | [green to blue \(slowed + reverbed\)](https://open.spotify.com/album/0avfrXwfeSE0JWggiX288s) | 3:07 | 2023-01-17 | 2023-08-31 |
@@ -124,6 +125,7 @@
 | [QKThr](https://open.spotify.com/track/7vuYfz0siJY66fLEiDKnEh) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [Drukqs](https://open.spotify.com/album/1maoQPAmw44bbkNOxKlwsx) | 1:27 | 2023-01-23 | 2023-02-03 |
 | [Reflections](https://open.spotify.com/track/5Zf25eS8E1znm9mez4cGsm) | [Toshifumi Hinata](https://open.spotify.com/artist/08tfDO4dSrwxax35a3HIMC) | [ひとつぶの海](https://open.spotify.com/album/0k4j3uetJHFATIt4VxwCPz) | 2:10 | 2022-08-22 |  |
 | [retire \(final\)](https://open.spotify.com/track/3xO7yLHU8cTglvxXHFdrSc) | [Alvedon](https://open.spotify.com/artist/6nFwmnSA3mMtoePROXi5LT) | [hurry up mixtape](https://open.spotify.com/album/25XJBVmqWiNDVw9sqMQFBY) | 3:34 | 2022-11-11 | 2023-01-12 |
+| [Sands of time](https://open.spotify.com/track/1imR44eZxy8Qyu1icj7mcq) | [Qaett](https://open.spotify.com/artist/3Dk9H65sqM1rXOuQaErJpj) | [Sands of time](https://open.spotify.com/album/1MXYEhdDl8kvXIQh55LYj5) | 3:54 | 2023-10-17 |  |
 | [Sappy \- Early Demo](https://open.spotify.com/track/4le6DvrwMv2rpyN1SPeL0g) | [Kurt Cobain](https://open.spotify.com/artist/6pAuTi6FXi6qFQJ1dzMXQs) | [Montage Of Heck: The Home Recordings](https://open.spotify.com/album/5UlRowLBWdNDdO17os804M) | 2:28 | 2023-06-12 | 2023-07-22 |
 | [School Rooftop \- Slowed Down Version](https://open.spotify.com/track/6IaSUc4wx1rzo8lGs4KOot) | [Hisohkah](https://open.spotify.com/artist/72y6MZHIPEyS64ACSCtIq6), [WMD](https://open.spotify.com/artist/4huXijLHlm8VMzeob86QvD) | [School Rooftop \(Slowed Down Version\)](https://open.spotify.com/album/7irimAHIFr7vcR2IoJmOgZ) | 3:13 | 2022-08-22 |  |
 | [Serenity](https://open.spotify.com/track/14gmEW2jRMFzBnj3Fo8ZLZ) | [Capcom Sound Team](https://open.spotify.com/artist/3w1Q754jb31h5CXQCcnLNL) | [Resident Evil 4 Sound Collection](https://open.spotify.com/album/17E5tbNHce6M2Le73VpoUY) | 1:21 | 2023-03-24 | 2023-09-29 |
@@ -136,7 +138,7 @@
 | [Still Life](https://open.spotify.com/track/69PcaJEZMB3cCfCeRSibj2) | [Sitcom](https://open.spotify.com/artist/1AHWalyPZ4Zx1s7BampY8C) | [Be the One You Love](https://open.spotify.com/album/4vnVALee891bV599C0I6rI) | 3:22 | 2022-09-06 |  |
 | [Submersible](https://open.spotify.com/track/0qsVyB8EPHAlId8v3jqpcg) | [Oneohtrix Point Never](https://open.spotify.com/artist/2wPDbhaGXCqROrVmwDdCrK) | [Replica](https://open.spotify.com/album/4X5lHc7Fw8PPTbQAC37wvA) | 3:50 | 2023-01-04 |  |
 | [Submersible](https://open.spotify.com/track/2fJygKixDmVgmsYAjn9aNq) | [Oneohtrix Point Never](https://open.spotify.com/artist/2wPDbhaGXCqROrVmwDdCrK) | [Replica](https://open.spotify.com/album/4xgY6533C7VK4HEeojrgc1) | 3:50 | 2023-01-04 | 2023-04-30 |
-| [Swimmer](https://open.spotify.com/track/7gZbMIgWT6TWzCTlkGaiIq) | [Gold Panda](https://open.spotify.com/artist/6xS3zemJD9h94iueQvGqVk) | [The Work](https://open.spotify.com/album/6WgLRmwO5Kljv9GjDiRHnV) | 1:34 | 2023-02-09 |  |
+| [Swimmer](https://open.spotify.com/track/7gZbMIgWT6TWzCTlkGaiIq) | [Gold Panda](https://open.spotify.com/artist/6xS3zemJD9h94iueQvGqVk) | [The Work](https://open.spotify.com/album/6WgLRmwO5Kljv9GjDiRHnV) | 1:34 | 2023-02-09 | 2023-10-18 |
 | [Temptation Stairway \(Waltz Variation\)](https://open.spotify.com/track/0mlA1Y5ei8TNk4Fd1h4CJR) | [Metaroom](https://open.spotify.com/artist/72igsHCazmE9rlVm0c4I9d) | [Temptation Stairway \(Waltz Variation\)](https://open.spotify.com/album/3jEWqAIIlHymIW7oVbRCME) | 1:46 | 2022-08-22 |  |
 | [terrarium](https://open.spotify.com/track/0XPhX8Uaw9sx3HGqB629X1) | [Robinson's Village](https://open.spotify.com/artist/6Sgq1dL8uoxXhdKi1tZLIW) | [what i like? a dash of light.](https://open.spotify.com/album/3gfMbuc3ldbFWYr92tjKeS) | 5:40 | 2023-06-23 | 2023-07-29 |
 | [The descent](https://open.spotify.com/track/1kFU28jcVv35zbTWkzFtjV) | [Infinity Frequencies](https://open.spotify.com/artist/6XcJCz7dqlBOyZ0b57SyQp) | [Between Two Worlds](https://open.spotify.com/album/03nyYzVw4m1cM2EG0vk6hP) | 1:29 | 2022-08-22 |  |

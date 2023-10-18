@@ -4,7 +4,7 @@
 
 > Hottest indie sounds & the best new tracks from Asia\. Cover:  Lamp \(Japan\)
 
-1,020 songs - 2 day 13 hr 4 min
+1,021 songs - 2 day 13 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -803,7 +803,7 @@
 | [The Chorus Superstar](https://open.spotify.com/track/66pXN7akoC2e9RrPOSjBWc) | [Space Cubs](https://open.spotify.com/artist/3JOcvznPQ58nkKmyZ31ex0) | [The Chorus Superstar](https://open.spotify.com/album/2BnDqpwaFMaO1wOl5I7pv0) | 3:32 | 2023-09-29 |  |
 | [The Dark Prince \(feat\. Mac DeMarco\)](https://open.spotify.com/track/0B4U9FT1WaFwUiiCPOAak7) | [Eyedress](https://open.spotify.com/artist/3XxNRirzbjfLdDli06zMaB), [Mac DeMarco](https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM) | [The Dark Prince \(feat\. Mac DeMarco\)](https://open.spotify.com/album/2atjjBxU7IWXpHbFU8DWNd) | 3:34 | 2023-08-17 |  |
 | [The Forgotten Honeymoon](https://open.spotify.com/track/0tFc5y2jQXoPdkQ3AyxvXM) | [Daniel Ryn](https://open.spotify.com/artist/3lhyP7Pddt6ks3s0TL7blV) | [The Forgotten Honeymoon](https://open.spotify.com/album/6gM2GBC8CCzZa6TDcgo3xe) | 3:34 | 2023-05-11 | 2023-06-02 |
-| [The Man In The Mirror](https://open.spotify.com/track/4I63wEhh30DCcgKZjvvNjP) | [ikkubaru](https://open.spotify.com/artist/3jOVGGa69UVA6d1InnQabx) | [The Man In The Mirror](https://open.spotify.com/album/7IqiUPXlA1shnkGEx6ZZRj) | 4:26 | 2023-08-24 |  |
+| [The Man In The Mirror](https://open.spotify.com/track/4I63wEhh30DCcgKZjvvNjP) | [ikkubaru](https://open.spotify.com/artist/3jOVGGa69UVA6d1InnQabx) | [The Man In The Mirror](https://open.spotify.com/album/7IqiUPXlA1shnkGEx6ZZRj) | 4:26 | 2023-08-24 | 2023-10-18 |
 | [The Ones We Once Loved](https://open.spotify.com/track/6YjKd9oPXKqjLUVPo4Y0oi) | [Ben&Ben](https://open.spotify.com/artist/4DAcJXcjX0zlQAZAPAx4Zb) | [The Ones We Once Loved](https://open.spotify.com/album/0276LtRwBrOo2uoRlTOiPX) | 4:33 | 2022-08-25 | 2022-11-18 |
 | [The Pursuit of Emptiness](https://open.spotify.com/track/1kcJuKyN1WfmnUHvnxNQwT) | [Alpha Mortal Foxtrot](https://open.spotify.com/artist/47TRj4rb68FLE1RLa2X4gz) | [The Pursuit of Emptiness](https://open.spotify.com/album/2a37hZC9CWhSAuFc3KKz9L) | 5:57 | 2023-01-26 | 2023-03-25 |
 | [The Trip](https://open.spotify.com/track/0UUwjvjJpPglNiGjJzk5dn) | [liesl\-mae](https://open.spotify.com/artist/2PSBYmtNWEm9f8VOSCFFX0) | [The Trip](https://open.spotify.com/album/0OUuOt452BNPn74et9Iqnr) | 3:46 | 2022-06-23 | 2022-07-29 |
@@ -997,6 +997,7 @@
 | [愛想のないブレイク \- with FORDTRIO](https://open.spotify.com/track/2KQ2ha9Bb0IXiOX2rHlnBX) | [Helsinki Lambda Club](https://open.spotify.com/artist/3jpFXrTLWqYtXSAxboiiL5), [FORD TRIO](https://open.spotify.com/artist/0bZ5ScqjtPLTNfTLEFiJJN) | [ヘルシンキラムダクラブへようこそ](https://open.spotify.com/album/4fSoeCxtgOC96ooARXkJJE) | 4:06 | 2023-08-10 | 2023-08-18 |
 | [戀人絮語](https://open.spotify.com/track/4ibMCdl61oRFsUxHYic55o) | [moon tang](https://open.spotify.com/artist/51ZhiTtynrHq7tD4xfGZV7) | [戀人絮語](https://open.spotify.com/album/58yIKevLzgQoi1XBDAFCyz) | 3:40 | 2023-05-04 | 2023-06-13 |
 | [我毋是刁故意 \(馬崗漁村 Version\) \- WINDIE 收OUT!](https://open.spotify.com/track/1tJD2IVvz1wD5QvxKyvusv) | [青虫 aoi](https://open.spotify.com/artist/7ktAsKYEFwtaMgXZgYCfu5) | [我毋是刁故意 \(馬崗漁村 Version\) \- WINDIE 收OUT!](https://open.spotify.com/album/1aGF7rNcF1TSi3pf69PaSA) | 3:50 | 2022-05-19 | 2022-07-01 |
+| [房屋供應問題](https://open.spotify.com/track/5GOI8Z0pzra4ZJcERjTbFw) | [moon tang](https://open.spotify.com/artist/51ZhiTtynrHq7tD4xfGZV7) | [房屋供應問題](https://open.spotify.com/album/7ncE4lTIsZrWtoy1KuXRkp) | 2:10 | 2023-10-12 |  |
 | [房間](https://open.spotify.com/track/6EK4N31T47t96XHPIg1nr7) | [溫室雜草](https://open.spotify.com/artist/6DZ6tvZTWTDO1vEBvUYfbP) | [房間](https://open.spotify.com/album/05f9wEo5Xoi6YnXinMu7kK) | 3:58 | 2022-03-24 | 2022-05-07 |
 | [拉麵公子 Ramen Boy](https://open.spotify.com/track/6gn8E9FPBNbrrb6tKS14av) | [The Crane](https://open.spotify.com/artist/7naloiyHdmw1HsJd95OYDL) | [鶴園 Crane Garden](https://open.spotify.com/album/1g2jXMntes7PL3ruv7Ghrh) | 4:54 | 2022-03-24 | 2023-05-12 |
 | [擁擠的城市還開著燈](https://open.spotify.com/track/4w6NLBZwMAfexiPzF1upMY) | [緩緩 Huan Huan](https://open.spotify.com/artist/0JeQFUYo8H7c5K8VIICIIH) | [藍色的房間橘色的人](https://open.spotify.com/album/1qr8Dy3EM9qdMsoAIJEzUu) | 4:13 | 2022-08-18 | 2022-09-30 |

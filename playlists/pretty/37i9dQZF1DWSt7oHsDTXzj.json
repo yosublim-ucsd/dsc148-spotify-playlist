@@ -1,12 +1,12 @@
 {
   "description": "The ultimate seasonal (indie) playlist.",
-  "num_followers": 160191,
+  "num_followers": 160199,
   "original_name": "Indie Christmas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2MzZjMDkzYWI4ZTRiYTBkZTM2NDkyMjYxNzNhZWFmZWVkODNmNDNl",
+  "snapshot_id": "MCxmYzdiMjBiMWEyNDhiMTgyYWMxN2E5MTc0MDQyMGJmYTg4ZmU2MjJk",
   "tracks": [
     {
       "added_at": "2023-10-16 19:34:42",
@@ -767,22 +767,6 @@
     {
       "added_at": "2023-10-16 19:34:42",
       "album": {
-        "name": "Phrazes For The Young",
-        "url": "https://open.spotify.com/album/6IN7WBkcwRA1o87hVFaCa3"
-      },
-      "artists": [
-        {
-          "name": "Julian Casablancas",
-          "url": "https://open.spotify.com/artist/1rAv1GhTQ2rmG94p9lU3rB"
-        }
-      ],
-      "duration_ms": 191466,
-      "name": "Christmas Treat",
-      "url": "https://open.spotify.com/track/4Ie4u5mxn53KoPuEn928Gr"
-    },
-    {
-      "added_at": "2023-10-16 19:34:42",
-      "album": {
         "name": "Christmas Caller",
         "url": "https://open.spotify.com/album/69wSgjR0ZbyTxINqpsPbtv"
       },
@@ -795,6 +779,22 @@
       "duration_ms": 135020,
       "name": "Christmas Caller",
       "url": "https://open.spotify.com/track/4kFnYLxdx0OI5L4mEWvygm"
+    },
+    {
+      "added_at": "2023-10-16 19:34:42",
+      "album": {
+        "name": "Phrazes For The Young",
+        "url": "https://open.spotify.com/album/6IN7WBkcwRA1o87hVFaCa3"
+      },
+      "artists": [
+        {
+          "name": "Julian Casablancas",
+          "url": "https://open.spotify.com/artist/1rAv1GhTQ2rmG94p9lU3rB"
+        }
+      ],
+      "duration_ms": 191466,
+      "name": "Christmas Treat",
+      "url": "https://open.spotify.com/track/4Ie4u5mxn53KoPuEn928Gr"
     },
     {
       "added_at": "2023-10-16 19:34:42",
@@ -847,22 +847,6 @@
     {
       "added_at": "2023-10-16 19:34:42",
       "album": {
-        "name": "Walking in the Air",
-        "url": "https://open.spotify.com/album/5HeEv4JIJTpJ4hgxnBIUcH"
-      },
-      "artists": [
-        {
-          "name": "Mimicking Birds",
-          "url": "https://open.spotify.com/artist/5PifaykkaJRJlWbUz3H0od"
-        }
-      ],
-      "duration_ms": 257842,
-      "name": "Walking in the Air",
-      "url": "https://open.spotify.com/track/0TPoPWvaSaHEuEaDHyEMKf"
-    },
-    {
-      "added_at": "2023-10-16 19:34:42",
-      "album": {
         "name": "Home Alone, Too",
         "url": "https://open.spotify.com/album/4y57bVmY8Jj0BK0RxcLRXb"
       },
@@ -875,6 +859,22 @@
       "duration_ms": 240233,
       "name": "Home Alone, Too",
       "url": "https://open.spotify.com/track/0DspUQUTwLtKeUO3Bb7LKK"
+    },
+    {
+      "added_at": "2023-10-16 19:34:42",
+      "album": {
+        "name": "Walking in the Air",
+        "url": "https://open.spotify.com/album/5HeEv4JIJTpJ4hgxnBIUcH"
+      },
+      "artists": [
+        {
+          "name": "Mimicking Birds",
+          "url": "https://open.spotify.com/artist/5PifaykkaJRJlWbUz3H0od"
+        }
+      ],
+      "duration_ms": 257842,
+      "name": "Walking in the Air",
+      "url": "https://open.spotify.com/track/0TPoPWvaSaHEuEaDHyEMKf"
     },
     {
       "added_at": "2023-10-16 19:34:42",
@@ -931,22 +931,6 @@
     {
       "added_at": "2023-10-16 19:34:42",
       "album": {
-        "name": "baby jesus is nobody\u2019s baby now",
-        "url": "https://open.spotify.com/album/1x8xjOeUiVCRZkvIesrdWY"
-      },
-      "artists": [
-        {
-          "name": "Julia Jacklin",
-          "url": "https://open.spotify.com/artist/12fRkVfO2fUsz1QHgDAG3g"
-        }
-      ],
-      "duration_ms": 215065,
-      "name": "baby jesus is nobody\u2019s baby now",
-      "url": "https://open.spotify.com/track/6HwsLuTeG7W4BYeuvSPTsr"
-    },
-    {
-      "added_at": "2023-10-16 19:34:42",
-      "album": {
         "name": "Have Yourself A Merry Little Christmas",
         "url": "https://open.spotify.com/album/61AIHomKS1lF5ZgcXjvtFX"
       },
@@ -959,6 +943,22 @@
       "duration_ms": 128737,
       "name": "Have Yourself A Merry Little Christmas",
       "url": "https://open.spotify.com/track/6lsfG5fQhtkfIkqQIWfNns"
+    },
+    {
+      "added_at": "2023-10-16 19:34:42",
+      "album": {
+        "name": "baby jesus is nobody\u2019s baby now",
+        "url": "https://open.spotify.com/album/1x8xjOeUiVCRZkvIesrdWY"
+      },
+      "artists": [
+        {
+          "name": "Julia Jacklin",
+          "url": "https://open.spotify.com/artist/12fRkVfO2fUsz1QHgDAG3g"
+        }
+      ],
+      "duration_ms": 215065,
+      "name": "baby jesus is nobody\u2019s baby now",
+      "url": "https://open.spotify.com/track/6HwsLuTeG7W4BYeuvSPTsr"
     },
     {
       "added_at": "2023-10-16 19:34:42",
@@ -1091,22 +1091,6 @@
     {
       "added_at": "2023-10-16 19:34:42",
       "album": {
-        "name": "Creatures of an Hour",
-        "url": "https://open.spotify.com/album/7jD6Vz4DvhpjJ6x16oWv1y"
-      },
-      "artists": [
-        {
-          "name": "Still Corners",
-          "url": "https://open.spotify.com/artist/4zKYrXs8iN4AeHmO8ZxNqp"
-        }
-      ],
-      "duration_ms": 171293,
-      "name": "The White Season",
-      "url": "https://open.spotify.com/track/4xyJEjyU84bFQXmrYN3hGc"
-    },
-    {
-      "added_at": "2023-10-16 19:34:42",
-      "album": {
         "name": "Spotify Singles - Holiday",
         "url": "https://open.spotify.com/album/4NeHkZmteGriA9lEoa9Brp"
       },
@@ -1123,18 +1107,18 @@
     {
       "added_at": "2023-10-16 19:34:42",
       "album": {
-        "name": "thank you wisdom angel i love you",
-        "url": "https://open.spotify.com/album/7g2z1mqGxTwBeObnhVWppc"
+        "name": "Creatures of an Hour",
+        "url": "https://open.spotify.com/album/7jD6Vz4DvhpjJ6x16oWv1y"
       },
       "artists": [
         {
-          "name": "quinnie",
-          "url": "https://open.spotify.com/artist/4aEuFytRb43SAgjchJDk5e"
+          "name": "Still Corners",
+          "url": "https://open.spotify.com/artist/4zKYrXs8iN4AeHmO8ZxNqp"
         }
       ],
-      "duration_ms": 198208,
-      "name": "silver second",
-      "url": "https://open.spotify.com/track/30Aa66S7RfoyBnrLXXvsrK"
+      "duration_ms": 171293,
+      "name": "The White Season",
+      "url": "https://open.spotify.com/track/4xyJEjyU84bFQXmrYN3hGc"
     },
     {
       "added_at": "2023-10-16 19:34:42",
@@ -1155,6 +1139,22 @@
     {
       "added_at": "2023-10-16 19:34:42",
       "album": {
+        "name": "thank you wisdom angel i love you",
+        "url": "https://open.spotify.com/album/7g2z1mqGxTwBeObnhVWppc"
+      },
+      "artists": [
+        {
+          "name": "quinnie",
+          "url": "https://open.spotify.com/artist/4aEuFytRb43SAgjchJDk5e"
+        }
+      ],
+      "duration_ms": 198208,
+      "name": "silver second",
+      "url": "https://open.spotify.com/track/30Aa66S7RfoyBnrLXXvsrK"
+    },
+    {
+      "added_at": "2023-10-16 19:34:42",
+      "album": {
         "name": "Useless Trinkets-B Sides, Soundtracks, Rarieties and Unreleased 1996-2006",
         "url": "https://open.spotify.com/album/5tdxfCXrgvk8vj81QWh2tt"
       },
@@ -1167,22 +1167,6 @@
       "duration_ms": 177733,
       "name": "Christmas Is Going To The Dogs",
       "url": "https://open.spotify.com/track/01UBQgNn1jCFAnnvNJSjv0"
-    },
-    {
-      "added_at": "2023-10-16 19:34:42",
-      "album": {
-        "name": "Sometimes I Sit and Think, and Sometimes I Just Sit",
-        "url": "https://open.spotify.com/album/6PosCDToF5fOdEjTI5PsDX"
-      },
-      "artists": [
-        {
-          "name": "Courtney Barnett",
-          "url": "https://open.spotify.com/artist/4OOlG5eBXSkSAAEeKjJb5Y"
-        }
-      ],
-      "duration_ms": 182062,
-      "name": "Boxing Day Blues",
-      "url": "https://open.spotify.com/track/2jNQBuhta3lE0GFOqb4Eo9"
     },
     {
       "added_at": "2023-10-16 19:34:42",
@@ -1203,18 +1187,18 @@
     {
       "added_at": "2023-10-16 19:34:42",
       "album": {
-        "name": "I Dream Of Christmas (Extended)",
-        "url": "https://open.spotify.com/album/0Yn0lja0EAPbCZptiHw4Pj"
+        "name": "Sometimes I Sit and Think, and Sometimes I Just Sit",
+        "url": "https://open.spotify.com/album/6PosCDToF5fOdEjTI5PsDX"
       },
       "artists": [
         {
-          "name": "Norah Jones",
-          "url": "https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N"
+          "name": "Courtney Barnett",
+          "url": "https://open.spotify.com/artist/4OOlG5eBXSkSAAEeKjJb5Y"
         }
       ],
-      "duration_ms": 202903,
-      "name": "I Dream Of Christmas",
-      "url": "https://open.spotify.com/track/0OYglQniaQNazYF0fJblbV"
+      "duration_ms": 182062,
+      "name": "Boxing Day Blues",
+      "url": "https://open.spotify.com/track/2jNQBuhta3lE0GFOqb4Eo9"
     },
     {
       "added_at": "2023-10-16 19:34:42",
@@ -1231,6 +1215,22 @@
       "duration_ms": 173402,
       "name": "O\u2019Holy Night",
       "url": "https://open.spotify.com/track/4csQ5HPKp41UUaEdzpepRQ"
+    },
+    {
+      "added_at": "2023-10-16 19:34:42",
+      "album": {
+        "name": "I Dream Of Christmas (Extended)",
+        "url": "https://open.spotify.com/album/0Yn0lja0EAPbCZptiHw4Pj"
+      },
+      "artists": [
+        {
+          "name": "Norah Jones",
+          "url": "https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N"
+        }
+      ],
+      "duration_ms": 202903,
+      "name": "I Dream Of Christmas",
+      "url": "https://open.spotify.com/track/0OYglQniaQNazYF0fJblbV"
     },
     {
       "added_at": "2023-10-16 19:34:42",

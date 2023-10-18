@@ -1,12 +1,12 @@
 {
   "description": "Work or rest with these gems from the 80s.",
-  "num_followers": 215706,
+  "num_followers": 215822,
   "original_name": "Chilled 80s",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhZGJmMTRlZWY0MTlkMzhmNDVmYzM2YjNjNGI4OWFmZmE4MWMyYTY0",
+  "snapshot_id": "MCw5ZDQyZWE0YzZkN2ZiNmRlMGE4MGRkMWViMTAxOGM1YjUzNzU4YTk1",
   "tracks": [
     {
       "added_at": "2018-12-12 11:36:39",
@@ -383,22 +383,6 @@
     {
       "added_at": "2018-12-12 11:36:39",
       "album": {
-        "name": "Eye In The Sky (Expanded Edition)",
-        "url": "https://open.spotify.com/album/4BGd9BmpePqeSfHLeYiCDr"
-      },
-      "artists": [
-        {
-          "name": "The Alan Parsons Project",
-          "url": "https://open.spotify.com/artist/2m62cc253Xvd9qYQ8d2X3d"
-        }
-      ],
-      "duration_ms": 295253,
-      "name": "Old and Wise",
-      "url": "https://open.spotify.com/track/5Jt2AQv1c3RUF5ENtAYF1i"
-    },
-    {
-      "added_at": "2018-12-12 11:36:39",
-      "album": {
         "name": "Magical Ring",
         "url": "https://open.spotify.com/album/1HQJUZCAhN3e3LR43VVa5j"
       },
@@ -411,6 +395,22 @@
       "duration_ms": 149026,
       "name": "Theme from Harry's Game - Remastered",
       "url": "https://open.spotify.com/track/2hcxPnu5RljXH0eMOtctuF"
+    },
+    {
+      "added_at": "2018-12-12 11:36:39",
+      "album": {
+        "name": "Eye In The Sky (Expanded Edition)",
+        "url": "https://open.spotify.com/album/4BGd9BmpePqeSfHLeYiCDr"
+      },
+      "artists": [
+        {
+          "name": "The Alan Parsons Project",
+          "url": "https://open.spotify.com/artist/2m62cc253Xvd9qYQ8d2X3d"
+        }
+      ],
+      "duration_ms": 295253,
+      "name": "Old and Wise",
+      "url": "https://open.spotify.com/track/5Jt2AQv1c3RUF5ENtAYF1i"
     },
     {
       "added_at": "2018-12-12 11:36:39",
@@ -447,22 +447,6 @@
     {
       "added_at": "2018-12-12 11:36:39",
       "album": {
-        "name": "Fahrenheit",
-        "url": "https://open.spotify.com/album/2FsaIC8jrXvWGIfokVZ4Jg"
-      },
-      "artists": [
-        {
-          "name": "TOTO",
-          "url": "https://open.spotify.com/artist/0PFtn5NtBbbUNbU9EAmIWF"
-        }
-      ],
-      "duration_ms": 269706,
-      "name": "Lea",
-      "url": "https://open.spotify.com/track/5TGHpNdHeV5cqsJfkOO4Zd"
-    },
-    {
-      "added_at": "2018-12-12 11:36:39",
-      "album": {
         "name": "Stay on These Roads",
         "url": "https://open.spotify.com/album/6lka22PtQOmCt5ri8GPSZm"
       },
@@ -475,6 +459,22 @@
       "duration_ms": 171573,
       "name": "There's Never a Forever Thing",
       "url": "https://open.spotify.com/track/5OWV0zaieHKpIW5O2EbRjy"
+    },
+    {
+      "added_at": "2018-12-12 11:36:39",
+      "album": {
+        "name": "Fahrenheit",
+        "url": "https://open.spotify.com/album/2FsaIC8jrXvWGIfokVZ4Jg"
+      },
+      "artists": [
+        {
+          "name": "TOTO",
+          "url": "https://open.spotify.com/artist/0PFtn5NtBbbUNbU9EAmIWF"
+        }
+      ],
+      "duration_ms": 269706,
+      "name": "Lea",
+      "url": "https://open.spotify.com/track/5TGHpNdHeV5cqsJfkOO4Zd"
     },
     {
       "added_at": "2018-12-12 11:36:39",
@@ -495,22 +495,6 @@
     {
       "added_at": "2018-12-12 11:36:39",
       "album": {
-        "name": "Frontiers",
-        "url": "https://open.spotify.com/album/2EFUNYmwxe0AOGxBORrfaw"
-      },
-      "artists": [
-        {
-          "name": "Journey",
-          "url": "https://open.spotify.com/artist/0rvjqX7ttXeg3mTy8Xscbt"
-        }
-      ],
-      "duration_ms": 234546,
-      "name": "Send Her My Love",
-      "url": "https://open.spotify.com/track/48Wu7j5ANO17SOpjb3oVPC"
-    },
-    {
-      "added_at": "2018-12-12 11:36:39",
-      "album": {
         "name": "Architecture And Morality",
         "url": "https://open.spotify.com/album/6bR98XzGnklTORDvZ7Oc2i"
       },
@@ -523,6 +507,22 @@
       "duration_ms": 219506,
       "name": "Souvenir - Remastered 2003",
       "url": "https://open.spotify.com/track/4i4QN9Zs5s7OZRRLIYHMmP"
+    },
+    {
+      "added_at": "2018-12-12 11:36:39",
+      "album": {
+        "name": "Frontiers",
+        "url": "https://open.spotify.com/album/2EFUNYmwxe0AOGxBORrfaw"
+      },
+      "artists": [
+        {
+          "name": "Journey",
+          "url": "https://open.spotify.com/artist/0rvjqX7ttXeg3mTy8Xscbt"
+        }
+      ],
+      "duration_ms": 234546,
+      "name": "Send Her My Love",
+      "url": "https://open.spotify.com/track/48Wu7j5ANO17SOpjb3oVPC"
     },
     {
       "added_at": "2018-12-12 11:36:39",
@@ -719,22 +719,6 @@
     {
       "added_at": "2018-12-12 11:36:39",
       "album": {
-        "name": "Music for the Masses (2006 Remaster)",
-        "url": "https://open.spotify.com/album/4tPRXghD4ago6NYyyfrtES"
-      },
-      "artists": [
-        {
-          "name": "Depeche Mode",
-          "url": "https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX"
-        }
-      ],
-      "duration_ms": 239720,
-      "name": "The Things You Said - 2006 Remaster",
-      "url": "https://open.spotify.com/track/3i1Th1jZXXO0ZpGKhpTKWK"
-    },
-    {
-      "added_at": "2018-12-12 11:36:39",
-      "album": {
         "name": "Rock a Little",
         "url": "https://open.spotify.com/album/0guJSEAsHAQ1gXPC18u7hc"
       },
@@ -747,6 +731,22 @@
       "duration_ms": 279413,
       "name": "Has Anyone Ever Written Anything for You",
       "url": "https://open.spotify.com/track/1PAnGhRo2tHpM2DNibEEe6"
+    },
+    {
+      "added_at": "2018-12-12 11:36:39",
+      "album": {
+        "name": "Music for the Masses (2006 Remaster)",
+        "url": "https://open.spotify.com/album/4tPRXghD4ago6NYyyfrtES"
+      },
+      "artists": [
+        {
+          "name": "Depeche Mode",
+          "url": "https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX"
+        }
+      ],
+      "duration_ms": 239720,
+      "name": "The Things You Said - 2006 Remaster",
+      "url": "https://open.spotify.com/track/3i1Th1jZXXO0ZpGKhpTKWK"
     },
     {
       "added_at": "2018-12-12 11:36:39",
@@ -815,6 +815,22 @@
     {
       "added_at": "2018-12-12 11:36:39",
       "album": {
+        "name": "The Immaculate Collection",
+        "url": "https://open.spotify.com/album/5MzwGwnO9gkh0z6Nl4FF8h"
+      },
+      "artists": [
+        {
+          "name": "Madonna",
+          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
+        }
+      ],
+      "duration_ms": 318773,
+      "name": "Live to Tell",
+      "url": "https://open.spotify.com/track/4osrEm2iY3QcTUcQuFUtfW"
+    },
+    {
+      "added_at": "2018-12-12 11:36:39",
+      "album": {
         "name": "Merry Christmas, Mr. Lawrence",
         "url": "https://open.spotify.com/album/0BlM8Qd8rxj4wLd9ioGZZU"
       },
@@ -831,22 +847,6 @@
       "duration_ms": 282973,
       "name": "Forbidden Colors",
       "url": "https://open.spotify.com/track/5mvOFm7fHLFLyEQtusCmUf"
-    },
-    {
-      "added_at": "2018-12-12 11:36:39",
-      "album": {
-        "name": "The Immaculate Collection",
-        "url": "https://open.spotify.com/album/5MzwGwnO9gkh0z6Nl4FF8h"
-      },
-      "artists": [
-        {
-          "name": "Madonna",
-          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
-        }
-      ],
-      "duration_ms": 318773,
-      "name": "Live to Tell",
-      "url": "https://open.spotify.com/track/4osrEm2iY3QcTUcQuFUtfW"
     },
     {
       "added_at": "2018-12-12 11:36:39",
@@ -883,22 +883,6 @@
     {
       "added_at": "2018-12-12 11:36:39",
       "album": {
-        "name": "The Final",
-        "url": "https://open.spotify.com/album/6ZJD7uT643TvniNyAk90bd"
-      },
-      "artists": [
-        {
-          "name": "George Michael",
-          "url": "https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo"
-        }
-      ],
-      "duration_ms": 237866,
-      "name": "A Different Corner",
-      "url": "https://open.spotify.com/track/7njBQO43OYrfIqwXO6Gcyv"
-    },
-    {
-      "added_at": "2018-12-12 11:36:39",
-      "album": {
         "name": "Songs From The Big Chair",
         "url": "https://open.spotify.com/album/7y7459SFZReE5Wec4hejv5"
       },
@@ -911,6 +895,22 @@
       "duration_ms": 295093,
       "name": "I Believe",
       "url": "https://open.spotify.com/track/2iwXxZD87p1Q3ISveQteiJ"
+    },
+    {
+      "added_at": "2018-12-12 11:36:39",
+      "album": {
+        "name": "The Final",
+        "url": "https://open.spotify.com/album/6ZJD7uT643TvniNyAk90bd"
+      },
+      "artists": [
+        {
+          "name": "George Michael",
+          "url": "https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo"
+        }
+      ],
+      "duration_ms": 237866,
+      "name": "A Different Corner",
+      "url": "https://open.spotify.com/track/7njBQO43OYrfIqwXO6Gcyv"
     },
     {
       "added_at": "2018-12-12 11:36:39",
@@ -1223,22 +1223,6 @@
     {
       "added_at": "2018-12-12 11:36:39",
       "album": {
-        "name": "The Friends Of Mister Cairo (Remastered)",
-        "url": "https://open.spotify.com/album/5xqDwdauo7dizP38KurfOB"
-      },
-      "artists": [
-        {
-          "name": "Jon & Vangelis",
-          "url": "https://open.spotify.com/artist/5gS1uXayWA0WJPgcRqNIae"
-        }
-      ],
-      "duration_ms": 270666,
-      "name": "I'll Find My Way Home - Remastered",
-      "url": "https://open.spotify.com/track/2UUPd83rV19BPDbjlp0RU6"
-    },
-    {
-      "added_at": "2018-12-12 11:36:39",
-      "album": {
         "name": "Treasure",
         "url": "https://open.spotify.com/album/7pBPB9vwqCMLKNmUCK4k62"
       },
@@ -1251,6 +1235,22 @@
       "duration_ms": 244066,
       "name": "Otterley",
       "url": "https://open.spotify.com/track/5GO0qzKdvndy7g9r0iKEDz"
+    },
+    {
+      "added_at": "2018-12-12 11:36:39",
+      "album": {
+        "name": "The Friends Of Mister Cairo (Remastered)",
+        "url": "https://open.spotify.com/album/5xqDwdauo7dizP38KurfOB"
+      },
+      "artists": [
+        {
+          "name": "Jon & Vangelis",
+          "url": "https://open.spotify.com/artist/5gS1uXayWA0WJPgcRqNIae"
+        }
+      ],
+      "duration_ms": 270666,
+      "name": "I'll Find My Way Home - Remastered",
+      "url": "https://open.spotify.com/track/2UUPd83rV19BPDbjlp0RU6"
     },
     {
       "added_at": "2018-12-12 11:36:39",

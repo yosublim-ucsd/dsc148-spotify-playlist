@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8b58Aj6CDDT.md) - [plain]
 
 > Las canciones alternativas que definieron el 2022 en Hispanoamérica\. Marilina Bertoldi y Javiera Mena en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,276 likes - 50 songs - 2 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,283 likes - 50 songs - 2 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,15 +40,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8b58Aj6CDDT.md) - [plain]
 | 30 | [Charly García](https://open.spotify.com/track/1V3ZWPnKVDkNCP2nJNfYhP) | [Sexy Zebras](https://open.spotify.com/artist/2FN1YrHU65dhPZKl3GD7Vd) | [Charly García](https://open.spotify.com/album/7ERhEhcsKfABtn61YSBeYF) | 2:37 |
 | 31 | [Me lo kiero imaginar](https://open.spotify.com/track/155nd0V88H2vMmRXiXsaS9) | [Jimena Amarillo](https://open.spotify.com/artist/29cPgYFoxExwmptUrlnYmm), [Belicemanu](https://open.spotify.com/artist/4X0IYY2C5zrOmrYoSTRkJv) | [Mientras Ando](https://open.spotify.com/album/2aUAwTRu9AWdC5SjZUk7bN) | 3:18 |
 | 32 | [Bolero Triste](https://open.spotify.com/track/5w7o1kxfOP6SUNhaYRWlE3) | [Dali Mata](https://open.spotify.com/artist/5UeFBoZ5aFWt6MtINvwwxL) | [Bolero Triste](https://open.spotify.com/album/4U5TwT71ftkvWS9vJ2bQY0) | 4:00 |
-| 33 | [Viento](https://open.spotify.com/track/3FtjzxyG9fs1bKuT1E5DZn) | [Yorka](https://open.spotify.com/artist/71bG6LIwKMYALxV8WuIezn), [Gepe](https://open.spotify.com/artist/1fHGzTSloWCtrlKfbLNVhM), [Lido Pimienta](https://open.spotify.com/artist/1IdkKQ9CM1i0wygfxYV4Z3) | [Chao](https://open.spotify.com/album/50NOVmSzpApZluUtVSv1Tz) | 5:09 |
-| 34 | [XO](https://open.spotify.com/track/7Hv1cgxfZs6pswYKvh0tDJ) | [Divino Niño](https://open.spotify.com/artist/2O2KJngZ80ZTK71HamDNYi) | [Last Spa on Earth](https://open.spotify.com/album/0Wcevqdyy01R4lGtAYoleB) | 3:05 |
+| 33 | [XO](https://open.spotify.com/track/7Hv1cgxfZs6pswYKvh0tDJ) | [Divino Niño](https://open.spotify.com/artist/2O2KJngZ80ZTK71HamDNYi) | [Last Spa on Earth](https://open.spotify.com/album/0Wcevqdyy01R4lGtAYoleB) | 3:05 |
+| 34 | [Viento](https://open.spotify.com/track/3FtjzxyG9fs1bKuT1E5DZn) | [Yorka](https://open.spotify.com/artist/71bG6LIwKMYALxV8WuIezn), [Gepe](https://open.spotify.com/artist/1fHGzTSloWCtrlKfbLNVhM), [Lido Pimienta](https://open.spotify.com/artist/1IdkKQ9CM1i0wygfxYV4Z3) | [Chao](https://open.spotify.com/album/50NOVmSzpApZluUtVSv1Tz) | 5:09 |
 | 35 | [Lloro](https://open.spotify.com/track/2eEIKn5hRMjeTiHlwlpBqZ) | [Marion Raw](https://open.spotify.com/artist/1BRIIX1uolmIQV9PrcedGj) | [Ghost In The Machine](https://open.spotify.com/album/3Yc31Lta4Yr3Sn0UlsdSPi) | 3:24 |
 | 36 | [Aquí](https://open.spotify.com/track/6MBestQzTJ5XPvDM1afJid) | [Silvana Estrada](https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7) | [Abrazo](https://open.spotify.com/album/5sna0NuWWzxZsN8L14tXSx) | 2:52 |
 | 37 | [La Diferencia](https://open.spotify.com/track/1YErzz0pkMQCxZdYeUbNUC) | [Edu Requejo](https://open.spotify.com/artist/6ZNFH9pfiRpTSgJaKQBb8M) | [La Puerta Dorada](https://open.spotify.com/album/7IoX8WbxcqgD15fKTfwQiy) | 3:43 |
 | 38 | [Horas Contigo](https://open.spotify.com/track/5LsqbIej8JeVAMCD5mZKCJ) | [Cancamusa](https://open.spotify.com/artist/6GSnSFc0O2JMkPkGcBFsNc) | [Horas Contigo](https://open.spotify.com/album/0M2juBtEpeh1WRg3VmaNfe) | 2:39 |
-| 39 | [Running Up That Hill \- Spotify Singles](https://open.spotify.com/track/3mn8Noyehq8qn2aOIz4HNR) | [Neoma](https://open.spotify.com/artist/1rS9ZvNEWqnKY19g6uiqip) | [Running Up That Hill \- Spotify Singles](https://open.spotify.com/album/5yoGGNfGcVw8Eqlbg13a9v) | 3:40 |
-| 40 | [Otra Vez](https://open.spotify.com/track/0vA1RgkV2GqrwpkSiINgKR) | [Petite Amie](https://open.spotify.com/artist/79C3hxvHZM7O041gO8YQmw) | [Otra Vez](https://open.spotify.com/album/3lnvmhXZWbfxH45nw7MvMp) | 6:26 |
-| 41 | [Matizando](https://open.spotify.com/track/7qBYuqHrm5AyA6J500vhoq) | [Ana Sanz](https://open.spotify.com/artist/1wFieEqzZtcjkSIHtVk2YD) | [Matizando](https://open.spotify.com/album/0GLE4CLio2Kj4fLoBrHOU4) | 3:34 |
+| 39 | [Matizando](https://open.spotify.com/track/7qBYuqHrm5AyA6J500vhoq) | [Ana Sanz](https://open.spotify.com/artist/1wFieEqzZtcjkSIHtVk2YD) | [Matizando](https://open.spotify.com/album/0GLE4CLio2Kj4fLoBrHOU4) | 3:34 |
+| 40 | [Running Up That Hill \- Spotify Singles](https://open.spotify.com/track/3mn8Noyehq8qn2aOIz4HNR) | [Neoma](https://open.spotify.com/artist/1rS9ZvNEWqnKY19g6uiqip) | [Running Up That Hill \- Spotify Singles](https://open.spotify.com/album/5yoGGNfGcVw8Eqlbg13a9v) | 3:40 |
+| 41 | [Otra Vez](https://open.spotify.com/track/0vA1RgkV2GqrwpkSiINgKR) | [Petite Amie](https://open.spotify.com/artist/79C3hxvHZM7O041gO8YQmw) | [Otra Vez](https://open.spotify.com/album/3lnvmhXZWbfxH45nw7MvMp) | 6:26 |
 | 42 | [MANTRA](https://open.spotify.com/track/5Y5Er1vwNsNIBaZikfprvg) | [Nani](https://open.spotify.com/artist/4csfMLGLT1ikinHV3FRTmL) | [MANTRA](https://open.spotify.com/album/2JV9QM9AuhNEA4kqqlZj6V) | 3:19 |
 | 43 | [Me Olvido / Te Sigo](https://open.spotify.com/track/3QRQMXFPLmtq2KzSREjnZs) | [Da Pawn](https://open.spotify.com/artist/3RkNjm33d6IZZ6gAjb6hXy) | [Me Olvido / Te Sigo](https://open.spotify.com/album/6qDykJWNBv8mXubUrWgAwP) | 3:38 |
 | 44 | [Tantas Cosas Buenas](https://open.spotify.com/track/5FNvmP6LSxwbyQM3Dc7PkK) | [El Mató a un Policía Motorizado](https://open.spotify.com/artist/5rLsN2LxYaEPLa1N7I2mPB) | [Súper Terror](https://open.spotify.com/album/7iOJ8uRQ1mylHA2ndpzYkS) | 3:58 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8b58Aj6CDDT.md) - [plain]
 | 49 | [Nada de Mí Vale Dinero](https://open.spotify.com/track/5imr697dT1gPajZWd376fL) | [Ronroneo](https://open.spotify.com/artist/77331RTjW3jOf5YdjRDCPK), [TIRAYA](https://open.spotify.com/artist/3VbXBoA7I3k5KURFPIajpy) | [Nada de Mí Vale Dinero](https://open.spotify.com/album/5FQLN0ZAIGh3o1Bb0ZK047) | 4:17 |
 | 50 | [Anhedonia](https://open.spotify.com/track/3l7XgSNNdnLEZ7Ipcj4Z1X) | [Mad Tree](https://open.spotify.com/artist/7ozAaEiZsgJUvQ8TDm6X1h) | [Anhedonia](https://open.spotify.com/album/4mFzkhis1q3DVpQ86GhJv9) | 3:44 |
 
-Snapshot ID: `MCw2MjBmNTQ4ODk1NTAyNGI3MDVlMmJiMTlmZDJlYjM5OGEyZGE5MmQ1`
+Snapshot ID: `MCw1YzRmZjc0ZmE2MTVlYzY0ZGYwNDkyODgxNDkyNGQ5NTIzNjA4ZTkx`

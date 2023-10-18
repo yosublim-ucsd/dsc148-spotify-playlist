@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSxF6XNtQ9Rg.md) - [plain]
 
 > Solo hit rap da ascoltare in loop\. Cover: Marra e Guè
 
-[Spotify](https://open.spotify.com/user/spotify) - 195,161 likes - 100 songs - 5 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 195,259 likes - 100 songs - 5 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -104,9 +104,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSxF6XNtQ9Rg.md) - [plain]
 | 94 | [Centro \(feat\. Coez\)](https://open.spotify.com/track/6DGl9TtxYTpMFrmZa1mwEz) | [MadMan](https://open.spotify.com/artist/3MkkSf3u5KU52Mb2iMrqeX), [Coez](https://open.spotify.com/artist/5dXlc7MnpaTeUIsHLVe3n4) | [Back Home](https://open.spotify.com/album/5b64UDoCcx1v1MSeAAz5We) | 3:04 |
 | 95 | [Narcos](https://open.spotify.com/track/1BdmcsFAODQR4x7eiOuRVf) | [Geolier](https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s) | [Emanuele](https://open.spotify.com/album/0ezPP4vUJkMXitFq8oWxyl) | 3:16 |
 | 96 | [Solletico \(feat\. Tedua & The Night Skinny\)](https://open.spotify.com/track/6gan8nbS78t2sUy0M9UpAX) | [Rkomi](https://open.spotify.com/artist/056KMTw6IztdQjBmFfVyO3), [Tedua](https://open.spotify.com/artist/1AgAVqo74e2q4FVvg0xpT7), [Night Skinny](https://open.spotify.com/artist/2E6AK3UPEGCvjnzuygCh2h) | [Ossigeno \- EP](https://open.spotify.com/album/0eAgD8ueJfUud98yLZ612P) | 3:06 |
-| 97 | [Pookie \(feat\. Capo Plaza\) \- Remix](https://open.spotify.com/track/1MtmXPxXP4ntSjfF5xnOyM) | [Aya Nakamura](https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg), [Capo Plaza](https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n) | [Pookie \(feat\. Capo Plaza\) \[Remix\]](https://open.spotify.com/album/75Y58W3tVyLOv1gOMXoNdq) | 3:08 |
+| 97 | [Cavallini \(feat\. Sfera Ebbasta\)](https://open.spotify.com/track/3StzACYDEYmfOOWNU83iRs) | [Dark Polo Gang](https://open.spotify.com/artist/4CuMwzDzEdlUJMEna38VQ0), [Sfera Ebbasta](https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz) | [Crack Musica](https://open.spotify.com/album/5jEMsm5dqdur3YKs8RL56B) | 4:11 |
 | 98 | [Habibi](https://open.spotify.com/track/2dyQYsU8cJLSGpVsbOy0CO) | [Ghali](https://open.spotify.com/artist/3egWSWp7Y4FyCKIyvXbw7L) | [Album](https://open.spotify.com/album/09wqWIOKWuS6RwjBrXe08B) | 3:04 |
-| 99 | [Cavallini \(feat\. Sfera Ebbasta\)](https://open.spotify.com/track/3StzACYDEYmfOOWNU83iRs) | [Dark Polo Gang](https://open.spotify.com/artist/4CuMwzDzEdlUJMEna38VQ0), [Sfera Ebbasta](https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz) | [Crack Musica](https://open.spotify.com/album/5jEMsm5dqdur3YKs8RL56B) | 4:11 |
+| 99 | [Pookie \(feat\. Capo Plaza\) \- Remix](https://open.spotify.com/track/1MtmXPxXP4ntSjfF5xnOyM) | [Aya Nakamura](https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg), [Capo Plaza](https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n) | [Pookie \(feat\. Capo Plaza\) \[Remix\]](https://open.spotify.com/album/75Y58W3tVyLOv1gOMXoNdq) | 3:08 |
 | 100 | [STAI ZITTO \(feat\. Fabri Fibra\)](https://open.spotify.com/track/2rgOAX5Cj3pk8JFnaPwJbd) | [Salmo](https://open.spotify.com/artist/3hBQ4zniNdQf1cqqo6hzuW), [Fabri Fibra](https://open.spotify.com/artist/7u710e44HW3K7A5eTnRqHC) | [Playlist](https://open.spotify.com/album/5F6r4JU7TdqI8YOWzj6Fyn) | 3:22 |
 
-Snapshot ID: `MCw0ZjllNjkyZDYzYzQ5YWViODdjNDNhMjA2MWQ0NmJiODQ5YTA0MTkx`
+Snapshot ID: `MCw1YmI5NTdkMTc4OTllZDI2ZTI2NThkOWQxMDBmODRmZDljMjJiY2Y4`

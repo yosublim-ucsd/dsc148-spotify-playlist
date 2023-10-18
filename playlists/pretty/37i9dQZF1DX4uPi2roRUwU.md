@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4uPi2roRUwU.md) - [plain]
 
 > Diese Beats machen garantiert gute Laune!
 
-[Spotify](https://open.spotify.com/user/spotify) - 973,806 likes - 60 songs - 2 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 973,951 likes - 60 songs - 2 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,12 +61,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4uPi2roRUwU.md) - [plain]
 | 51 | [Hurricane](https://open.spotify.com/track/0iVkWge9ytV4Scgy2hQ2za) | [Ofenbach](https://open.spotify.com/artist/4AKwRarlmsUlLjIwt38NLw), [Ella Henderson](https://open.spotify.com/artist/7nDsS0l5ZAzMedVRKPP8F1) | [Hurricane](https://open.spotify.com/album/06J9dABYtcM4blnT4cIpsS) | 2:27 |
 | 52 | [Ritmo De La Noche \(Vamos A La Playa\)](https://open.spotify.com/track/3APyTiWzqQtT8vd0kRz6lo) | [W&W](https://open.spotify.com/artist/2rTo8KIkBTFjQS7VvaKYQ4), [AXMO](https://open.spotify.com/artist/5QWt56OIzFSPRpD7VeRkbc) | [Ritmo De La Noche \(Vamos A La Playa\)](https://open.spotify.com/album/0cti2FC4fjKghKMv8JDPUj) | 2:51 |
 | 53 | [Heaven](https://open.spotify.com/track/6p8uRRGziFLcA3QDvWxEPM) | [Dimitri Vegas & Like Mike](https://open.spotify.com/artist/73jBynjsVtofjRpdpRAJGk), [Azteck](https://open.spotify.com/artist/13NpuESz6tlK819yBs0PuS), [Hayley May](https://open.spotify.com/artist/1WcwbtAnG5HWNbPPK84ued) | [Heaven](https://open.spotify.com/album/3L9kENKyJtn4kaPV6zP89y) | 2:58 |
-| 54 | [Baianá](https://open.spotify.com/track/3q9oTSo64CrjOiPwI4DbWE) | [Bakermat](https://open.spotify.com/artist/3MyFDtqB80WZvbtCZRsekM) | [The Ringmaster](https://open.spotify.com/album/6gVyolnWeV2RyvzxxFIvro) | 3:00 |
-| 55 | [Ritmo](https://open.spotify.com/track/4FHXsehfIbyPCJLP7fCnIF) | [Raffa Fl](https://open.spotify.com/artist/0j4dGWeyGGE4GvrAzdZIZ5) | [Ritmo](https://open.spotify.com/album/40DTjrBkgfSD4pb1CnlCgl) | 3:03 |
+| 54 | [Ritmo](https://open.spotify.com/track/4FHXsehfIbyPCJLP7fCnIF) | [Raffa Fl](https://open.spotify.com/artist/0j4dGWeyGGE4GvrAzdZIZ5) | [Ritmo](https://open.spotify.com/album/40DTjrBkgfSD4pb1CnlCgl) | 3:03 |
+| 55 | [Baianá](https://open.spotify.com/track/3q9oTSo64CrjOiPwI4DbWE) | [Bakermat](https://open.spotify.com/artist/3MyFDtqB80WZvbtCZRsekM) | [The Ringmaster](https://open.spotify.com/album/6gVyolnWeV2RyvzxxFIvro) | 3:00 |
 | 56 | [Weekend \(Party, Sleep, Repeat\)](https://open.spotify.com/track/5066WzFaeJhqmQmKjBmrr6) | [Mark Mendy](https://open.spotify.com/artist/7AgS2ycsLUG0NPTY1AAboT), [Paradigm](https://open.spotify.com/artist/6WamMeXO2jN9tUYxSBUclQ) | [Weekend \(Party, Sleep, Repeat\)](https://open.spotify.com/album/2rBpiaXs2GC7mPr6ckxfi3) | 2:18 |
 | 57 | [Don't You Hold Me Down](https://open.spotify.com/track/0d1ujEcFwTqA4kWliTSJim) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [Georgia Ku](https://open.spotify.com/artist/5mYakBbBzPMQTfkVMIgiDM) | [Don't You Hold Me Down](https://open.spotify.com/album/5KQgg5bFgzVeQeZ0E4mxSQ) | 2:12 |
 | 58 | [YEAH \(feat\. ClockClock\)](https://open.spotify.com/track/2OXvvdHQ9Q4KAqd152MTj2) | [Glockenbach](https://open.spotify.com/artist/7GZJ2POiwPZoW7UVYjNj8i), [Joel Corry](https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp), [Tenchi](https://open.spotify.com/artist/2fT7Qc9vG2ULsvZH7l1HqK), [ClockClock](https://open.spotify.com/artist/4NSzuIc0eGOftqr0tEOhJk) | [YEAH \(feat\. ClockClock\)](https://open.spotify.com/album/5CivJsN8TmERWIOMxCGAWs) | 2:38 |
 | 59 | [Superstar](https://open.spotify.com/track/79DFRI318iJU1hvZnPzA4K) | [Stefy De Cicco](https://open.spotify.com/artist/5v3JgLiZtNnw6ablRjjNKK), [Shibui](https://open.spotify.com/artist/3DgZk9TPxWee4QgbRpKGF4), [Andrea Zelletta](https://open.spotify.com/artist/2sSVegHvvHIOT1gVsqw8EW) | [Superstar](https://open.spotify.com/album/2VmclQK1Fsr8uhrtcrL7pl) | 2:52 |
 | 60 | [That Way \(feat\. Chris Crone\)](https://open.spotify.com/track/4M9HS9CMxVtQ7xK1MTHTFc) | [VINAI](https://open.spotify.com/artist/4mrBetqy378Jf1y6NLszlx), [VAMERO](https://open.spotify.com/artist/74GrV01oFcjJdLHCF9MWhr), [Chris Crone](https://open.spotify.com/artist/4GrH6djlMelZDucxke8WAk) | [That Way \(feat\. Chris Crone\)](https://open.spotify.com/album/7oExHqAK6BIj0gtwCRPU9K) | 2:26 |
 
-Snapshot ID: `MCxmMGI2ZjBhZTE1YzlhYTNiZjU2MDViNWRkZGEzMGE3MzIzODY0NWMy`
+Snapshot ID: `MCxkMmM1NTZkM2Q5NzNiZDBmY2I1ZWJkMjljY2MwMDEwNmE4NjM3ZDFi`

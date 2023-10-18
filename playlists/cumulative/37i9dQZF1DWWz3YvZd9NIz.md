@@ -4,7 +4,7 @@
 
 > The best remixes of popular tracks!
 
-161 songs - 8 hr 3 min
+162 songs - 8 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -166,7 +166,8 @@
 | [Weekend!](https://open.spotify.com/track/1lV8sXL01UVaw6g0fawtsC) | [Jordiz](https://open.spotify.com/artist/5xUW4ugFxRJtCe7RLIdKvV) | [Weekend!](https://open.spotify.com/album/5Gqc1Uoo4Zfmwhmx3ZnNYu) | 3:06 | 2023-09-27 |  |
 | [What's Up?](https://open.spotify.com/track/2Sdpn0xjNKuWdfdccdvFnl) | [Brennan Heart](https://open.spotify.com/artist/5QySqc6yAFDx9m7fedFZmC), [Tony Junior](https://open.spotify.com/artist/17esEoE9uEHFKuzkar2UL0) | [What's Up?](https://open.spotify.com/album/2KzqXQI4UMfDoVAoT9f26Z) | 3:12 | 2023-04-13 |  |
 | [Winter Wonderland](https://open.spotify.com/track/2XU4sTuAJ882jJnimHyvVZ) | [Zombic](https://open.spotify.com/artist/6t0ofV5WMAz84Iqu0YkmTV), [NIKSTER](https://open.spotify.com/artist/4lthXDxTc1gx0roDyIeaai) | [Winter Wonderland](https://open.spotify.com/album/1gOfnXRPhogf3nAiM8EGfr) | 2:44 | 2022-12-22 | 2022-12-29 |
-| [WOLFGANG](https://open.spotify.com/track/7HG413xQYwoR6i8D3ADC7J) | [Timmy Trumpet](https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ), [Mariana BO](https://open.spotify.com/artist/2cFzYhiHqYS7o8ZIM9WD22), [Junkie Kid](https://open.spotify.com/artist/3CjPghA9sowRwFGSrU038J) | [Timmy Trumpet's SINPHONY No\. 1](https://open.spotify.com/album/1QRuYyPWkoxox6RY3bU4T5) | 2:48 | 2023-10-16 |  |
+| [WOLFGANG](https://open.spotify.com/track/7HG413xQYwoR6i8D3ADC7J) | [Timmy Trumpet](https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ), [Mariana BO](https://open.spotify.com/artist/2cFzYhiHqYS7o8ZIM9WD22), [Junkie Kid](https://open.spotify.com/artist/3CjPghA9sowRwFGSrU038J) | [Timmy Trumpet's SINPHONY No\. 1](https://open.spotify.com/album/1QRuYyPWkoxox6RY3bU4T5) | 2:48 | 2023-10-16 | 2023-10-18 |
+| [WOLFGANG](https://open.spotify.com/track/7fSxXydUV3O7B9v2EBQCS3) | [Timmy Trumpet](https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ), [Mariana BO](https://open.spotify.com/artist/2cFzYhiHqYS7o8ZIM9WD22), [Junkie Kid](https://open.spotify.com/artist/3CjPghA9sowRwFGSrU038J) | [Timmy Trumpet's SINPHONY No\. 1](https://open.spotify.com/album/4nRym2kzawfVrO1bHcw5zK) | 2:48 | 2023-10-16 |  |
 | [Your Love \(Atmozfears & Sound Rush Remix\)](https://open.spotify.com/track/0drhA9z3U2NUoF3dM4WeQT) | [Topmodelz](https://open.spotify.com/artist/4SgbqL3dLr5BfCvBBBUucP), [Atmozfears](https://open.spotify.com/artist/0MBGxwmCdXdO26ojaNcT64), [Sound Rush](https://open.spotify.com/artist/7IFPeV5Ew63S7Hid0AjNgK) | [Your Love \(Atmozfears & Sound Rush Remix\)](https://open.spotify.com/album/2J1RBk0GRZbCekoI1E0fO4) | 3:22 | 2022-12-05 | 2023-06-09 |
 | [Zombie](https://open.spotify.com/track/1TwbzKMxFBExaDEUWqQ832) | [Ran\-D](https://open.spotify.com/artist/7IeovKzVkfcG9mIJGNzTcT) | [Zombie](https://open.spotify.com/album/2QIID9JrUSTyJpaMFaZYuH) | 4:49 | 2022-12-05 |  |
 

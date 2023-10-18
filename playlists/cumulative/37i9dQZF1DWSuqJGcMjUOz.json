@@ -3970,10 +3970,28 @@
       ],
       "date_added": "2023-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-18",
       "duration_ms": 198145,
       "name": "Nouvelle administration",
       "url": "https://open.spotify.com/track/3bh1iLjPXYSzeNRfnobnpu"
+    },
+    {
+      "album": {
+        "name": "Nouvelle administration",
+        "url": "https://open.spotify.com/album/6TwsW9yNX4nRdcLE29dykh"
+      },
+      "artists": [
+        {
+          "name": "Philippe B",
+          "url": "https://open.spotify.com/artist/7FvBLeBeCiWR09phkPyyrf"
+        }
+      ],
+      "date_added": "2023-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198145,
+      "name": "Nouvelle administration",
+      "url": "https://open.spotify.com/track/5zKfgwMZ96rJuLESVrucMW"
     },
     {
       "album": {

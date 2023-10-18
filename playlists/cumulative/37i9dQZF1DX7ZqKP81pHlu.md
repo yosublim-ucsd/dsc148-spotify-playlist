@@ -4,7 +4,7 @@
 
 > Les hits algériens du moment.
 
-177 songs - 10 hr 52 min
+178 songs - 10 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,6 +25,7 @@
 | [Adieu c'est fini](https://open.spotify.com/track/0dKRDmt9mpBhmhWsp1dpxU) | [Obeidmusic](https://open.spotify.com/artist/3kW6Vte9jUSL600uy9qsks), [Sofiane DMC](https://open.spotify.com/artist/77FoOrCfbaUzz92uI8U71u) | [Adieu c'est fini](https://open.spotify.com/album/4cWQhb83fr3KYK0sg99e3Q) | 6:32 | 2022-05-26 | 2022-08-20 |
 | [Adieu El Ouzoubia](https://open.spotify.com/track/141wlkya3OgLeIgPZNJat1) | [Bilal Sghir](https://open.spotify.com/artist/4iCrZzxACYPYcoS71DgjWW) | [Adieu El Ouzoubia](https://open.spotify.com/album/6TcDR4UqwJcPiXPThtA8pZ) | 4:02 | 2023-04-14 | 2023-05-28 |
 | [Alawah](https://open.spotify.com/track/2JcmtY1DEykgIxGJNSZtTB) | [Ihan](https://open.spotify.com/artist/0RVR0TMGf3tNszGwldUu6O), [Twelve](https://open.spotify.com/artist/5zQrcUTf7m5hTwoOdXuk6E), [Djam](https://open.spotify.com/artist/4MRARYtjkmg8TZRdtpLdPD) | [Alawah](https://open.spotify.com/album/2bkMtsolIrPNjjElDlsHgu) | 2:49 | 2023-08-16 |  |
+| [Allo](https://open.spotify.com/track/3aeCyLTeN6ypImKPtdjYjZ) | [Moha K](https://open.spotify.com/artist/6o5sl0TGublDPXyMHdMq1E), [Lyna Mahyem](https://open.spotify.com/artist/0Yj3N31EWXHc6e3eDyJPLP) | [Allo](https://open.spotify.com/album/1JcEpcqvv3IMdtcupUh0yD) | 3:15 | 2023-10-17 |  |
 | [Amazone](https://open.spotify.com/track/2MYKMHhMFIlmYKn05C9cV2) | [Kafon](https://open.spotify.com/artist/1g7CL458gLNv8UY3W2IFBw), [Didine Canon 16](https://open.spotify.com/artist/2aVPTWc4WYc7b384eatevF) | [Amazone](https://open.spotify.com/album/42rj17QXfTKr8YjAhUKZ28) | 3:20 | 2021-12-09 | 2023-02-07 |
 | [Ana & Rasi](https://open.spotify.com/track/5lEg43432gVU8BzwIJULVO) | [Islem\-23](https://open.spotify.com/artist/4fdscmamdruNB8lZ1nWrTd) | [Ana & Rasi](https://open.spotify.com/album/7F94Bil1ZSQviELlNzBtty) | 3:27 | 2021-12-09 | 2022-05-27 |
 | [Anta](https://open.spotify.com/track/3SaJambg6zRQ6MWf2pOAC9) | [Rima Yussef](https://open.spotify.com/artist/44AnhJxSH9AE3b6KpO5rZl), [Eljoee](https://open.spotify.com/artist/0Lgc9epqyn4wYEGm8fiaS7) | [Anta](https://open.spotify.com/album/4vPYDw5xJNhJwqFDDJXyfY) | 2:43 | 2022-09-01 | 2022-09-09 |
@@ -158,7 +159,7 @@
 | [Thatmet Lekdar](https://open.spotify.com/track/61vtgCYKGAiw75IoTnDCG1) | [Kami Phénoméne](https://open.spotify.com/artist/2BxA0WWffDANrGk2etCPfI) | [Bonita](https://open.spotify.com/album/6SV06bKUQ0zibdRafy5PSW) | 4:07 | 2021-12-09 | 2023-06-10 |
 | [Thugluv](https://open.spotify.com/track/0LmBTAeJkoVntKjuUqCQHb) | [Islem\-23](https://open.spotify.com/artist/4fdscmamdruNB8lZ1nWrTd) | [7or](https://open.spotify.com/album/1rvuk6HyweX9My7TiODYbN) | 3:05 | 2021-12-09 | 2023-02-07 |
 | [Tir Ellil](https://open.spotify.com/track/3le36Vlse8nzqBy2Wfylql) | [Didine Canon 16](https://open.spotify.com/artist/2aVPTWc4WYc7b384eatevF), [Larbi Maestro](https://open.spotify.com/artist/67jF59wuJe0V1ByZ2eiUqT) | [Tir Ellil](https://open.spotify.com/album/4Nrh8I9mYMikyioVf5Gwrq) | 4:06 | 2021-12-09 | 2022-11-08 |
-| [Toi & moi](https://open.spotify.com/track/4C9bUSwqwVZ8eu2jsnctm6) | [Mok Saib](https://open.spotify.com/artist/6jcvupTBm6vk5SMEEVpvSW), [Zaho](https://open.spotify.com/artist/0vN920jukdAbErvjo2OJ2o) | [Toi & moi](https://open.spotify.com/album/4qAOLbreEqTtzFgcGePfZL) | 3:10 | 2022-03-15 |  |
+| [Toi & moi](https://open.spotify.com/track/4C9bUSwqwVZ8eu2jsnctm6) | [Mok Saib](https://open.spotify.com/artist/6jcvupTBm6vk5SMEEVpvSW), [Zaho](https://open.spotify.com/artist/0vN920jukdAbErvjo2OJ2o) | [Toi & moi](https://open.spotify.com/album/4qAOLbreEqTtzFgcGePfZL) | 3:10 | 2022-03-15 | 2023-10-18 |
 | [Toi & moi \(feat\. Mok Saib\) \- version acoustique](https://open.spotify.com/track/0W4h9LlrLvqE6B9u7KWdBz) | [Zaho](https://open.spotify.com/artist/0vN920jukdAbErvjo2OJ2o), [Mok Saib](https://open.spotify.com/artist/6jcvupTBm6vk5SMEEVpvSW) | [Résilience](https://open.spotify.com/album/7pv5ansWsFSWQbN7uTJvQ2) | 3:19 | 2023-03-16 |  |
 | [Trigue Lycee \- Remix](https://open.spotify.com/track/2xQlFQeMuiyOEP3hNaAyfG) | [Khaled](https://open.spotify.com/artist/28ztjHIXceRRntmTUfnmUX), [DJ Snake](https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4) | [Trigue Lycee \(Remix\)](https://open.spotify.com/album/2ef5UugVMcYIGQCfLqk9cd) | 3:05 | 2022-08-05 | 2022-11-25 |
 | [Wahran](https://open.spotify.com/track/7xlrdBdz8TGSo0COvLHymc) | [RANDALL](https://open.spotify.com/artist/7EIEvxpeoLo0qpHFpSrxOr) | [Wahran](https://open.spotify.com/album/5d9W3fFbSK65pXg9Bv7VXl) | 3:51 | 2021-12-09 | 2022-02-08 |

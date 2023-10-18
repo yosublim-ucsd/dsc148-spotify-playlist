@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTQZRn97DpO8.md) - [plain]
 
 > Quand R&B francophone rime avec douceur 🍯\. Photo : Monsieur Nov
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,743 likes - 50 songs - 2 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,814 likes - 50 songs - 2 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTQZRn97DpO8.md) - [plain]
 | 49 | [Anémone](https://open.spotify.com/track/67sUBaW1oE1xD19STSAXgE) | [Vacra](https://open.spotify.com/artist/5OLkn5GT6EcMuJzjwgvQnu) | [Galatée](https://open.spotify.com/album/0fYC25oqs9YmPIa3V09feB) | 3:49 |
 | 50 | [Karma](https://open.spotify.com/track/3509Io3FyjSPoCMD1EUelJ) | [Akela](https://open.spotify.com/artist/16tQnVelLYMb0yWHxxXtEt) | [Genesis](https://open.spotify.com/album/0yC6cKV2omFGF9jXCWGIBc) | 2:35 |
 
-Snapshot ID: `MCxmNjg4NjU4NDA3M2I4M2RjZDIxNjQ3NzE2MGJkNzgxMWQ3YjQwNzU3`
+Snapshot ID: `MCxhNmFiZDJlODUzNTJmNjkwNzU4MjBiMDNiODIwYzg0ZDUwODRmYjc5`

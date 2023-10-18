@@ -1,13 +1,29 @@
 {
   "description": "Um pouco de folk, MPB e indie para acordar com o p\u00e9 na estrada.",
-  "num_followers": 100901,
+  "num_followers": 100973,
   "original_name": "Amanhecer na Estrada",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4OTUyMzAzODAyZTAyOGEwOGY3NGUxMTc3ZDY4MGUwYzg1YmYwZmIw",
+  "snapshot_id": "MCxjMzFjNjZhZGI5MDZiOWEwMWM4ZWJkZjA2YWU4ZTQwMGY5NTg4Mzdk",
   "tracks": [
+    {
+      "added_at": "2023-10-13 17:49:21",
+      "album": {
+        "name": "The Land Is Inhospitable and So Are We",
+        "url": "https://open.spotify.com/album/2Cn1d2KgbkAqbZCJ1RzdkA"
+      },
+      "artists": [
+        {
+          "name": "Mitski",
+          "url": "https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK"
+        }
+      ],
+      "duration_ms": 137773,
+      "name": "My Love Mine All Mine",
+      "url": "https://open.spotify.com/track/3vkCueOmm7xQDoJ17W1Pm3"
+    },
     {
       "added_at": "2023-10-13 17:49:21",
       "album": {
@@ -27,22 +43,6 @@
       "duration_ms": 227195,
       "name": "I Remember Everything (feat. Kacey Musgraves)",
       "url": "https://open.spotify.com/track/4KULAymBBJcPRpk1yO4dOG"
-    },
-    {
-      "added_at": "2023-10-13 17:49:21",
-      "album": {
-        "name": "The Land Is Inhospitable and So Are We",
-        "url": "https://open.spotify.com/album/2Cn1d2KgbkAqbZCJ1RzdkA"
-      },
-      "artists": [
-        {
-          "name": "Mitski",
-          "url": "https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK"
-        }
-      ],
-      "duration_ms": 137773,
-      "name": "My Love Mine All Mine",
-      "url": "https://open.spotify.com/track/3vkCueOmm7xQDoJ17W1Pm3"
     },
     {
       "added_at": "2023-10-13 17:49:21",
@@ -327,22 +327,6 @@
     {
       "added_at": "2023-10-13 17:49:21",
       "album": {
-        "name": "Blindside",
-        "url": "https://open.spotify.com/album/1RvvpYObiXki55iPrP8EVQ"
-      },
-      "artists": [
-        {
-          "name": "James Arthur",
-          "url": "https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM"
-        }
-      ],
-      "duration_ms": 211835,
-      "name": "Blindside",
-      "url": "https://open.spotify.com/track/5BPy4CFuroB7vFbZ6M9vES"
-    },
-    {
-      "added_at": "2023-10-13 17:49:21",
-      "album": {
         "name": "Pontos de Exclama\u00e7\u00e3o",
         "url": "https://open.spotify.com/album/6OMICpWuK1nwndfvZJuGyb"
       },
@@ -371,6 +355,22 @@
       "duration_ms": 264438,
       "name": "Carolina - From The Motion Picture \u201cWhere The Crawdads Sing\u201d",
       "url": "https://open.spotify.com/track/4axSuOg3BqsowKjRpj59RU"
+    },
+    {
+      "added_at": "2023-10-13 17:49:21",
+      "album": {
+        "name": "Blindside",
+        "url": "https://open.spotify.com/album/1RvvpYObiXki55iPrP8EVQ"
+      },
+      "artists": [
+        {
+          "name": "James Arthur",
+          "url": "https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM"
+        }
+      ],
+      "duration_ms": 211835,
+      "name": "Blindside",
+      "url": "https://open.spotify.com/track/5BPy4CFuroB7vFbZ6M9vES"
     },
     {
       "added_at": "2023-10-13 17:49:21",
@@ -831,22 +831,6 @@
     {
       "added_at": "2023-10-13 17:49:21",
       "album": {
-        "name": "Long Time Ago",
-        "url": "https://open.spotify.com/album/1SIKqNL4h5Pq6fvnDOlfdt"
-      },
-      "artists": [
-        {
-          "name": "Current Swell",
-          "url": "https://open.spotify.com/artist/1DCRoiKOntBEezKXznDca4"
-        }
-      ],
-      "duration_ms": 182040,
-      "name": "Long Time Ago",
-      "url": "https://open.spotify.com/track/5KkaczeDlUwo6cDTVaR6ca"
-    },
-    {
-      "added_at": "2023-10-13 17:49:21",
-      "album": {
         "name": "People Don't Change",
         "url": "https://open.spotify.com/album/3MCI7K9Qj3lAMADbHP4EaQ"
       },
@@ -863,6 +847,22 @@
       "duration_ms": 209813,
       "name": "The Worst Of You",
       "url": "https://open.spotify.com/track/06rX4GEEjsVTSbRBWycs2U"
+    },
+    {
+      "added_at": "2023-10-13 17:49:21",
+      "album": {
+        "name": "Long Time Ago",
+        "url": "https://open.spotify.com/album/1SIKqNL4h5Pq6fvnDOlfdt"
+      },
+      "artists": [
+        {
+          "name": "Current Swell",
+          "url": "https://open.spotify.com/artist/1DCRoiKOntBEezKXznDca4"
+        }
+      ],
+      "duration_ms": 182040,
+      "name": "Long Time Ago",
+      "url": "https://open.spotify.com/track/5KkaczeDlUwo6cDTVaR6ca"
     },
     {
       "added_at": "2023-10-13 17:49:21",

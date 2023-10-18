@@ -1,12 +1,12 @@
 {
   "description": "Today's Bluegrass and old time favorites. Cover: Willie Nelson",
-  "num_followers": 127439,
+  "num_followers": 127480,
   "original_name": "Grass Roots",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5ZjQ2YzU4MGVlZDFjOWQ4NDc1ZWNmMDkxZWI4Mzc0MDY5MmVjNWQw",
+  "snapshot_id": "MCw0MGMzY2IxOGM4YTQ3NTg1MWZjMDExMDc1NDI1N2YwYzdlMjdjZGM5",
   "tracks": [
     {
       "added_at": "2023-09-22 04:00:00",
@@ -855,22 +855,6 @@
     {
       "added_at": "2023-09-22 04:00:00",
       "album": {
-        "name": "Runaway",
-        "url": "https://open.spotify.com/album/552YmmarnFx3XxnzCaqGCo"
-      },
-      "artists": [
-        {
-          "name": "Yes Ma'am",
-          "url": "https://open.spotify.com/artist/2ImmXDgaacATNycVOulRZg"
-        }
-      ],
-      "duration_ms": 153968,
-      "name": "Tell Me",
-      "url": "https://open.spotify.com/track/7lLdVymMzVJxq6sl8VPDzJ"
-    },
-    {
-      "added_at": "2023-09-22 04:00:00",
-      "album": {
         "name": "Mount Royal",
         "url": "https://open.spotify.com/album/795pGXIkCO2lS7aNZ2joI0"
       },
@@ -883,6 +867,22 @@
       "duration_ms": 182293,
       "name": "Greener Grass",
       "url": "https://open.spotify.com/track/3ztXpLv0VLCcuqRVz0das3"
+    },
+    {
+      "added_at": "2023-09-22 04:00:00",
+      "album": {
+        "name": "Runaway",
+        "url": "https://open.spotify.com/album/552YmmarnFx3XxnzCaqGCo"
+      },
+      "artists": [
+        {
+          "name": "Yes Ma'am",
+          "url": "https://open.spotify.com/artist/2ImmXDgaacATNycVOulRZg"
+        }
+      ],
+      "duration_ms": 153968,
+      "name": "Tell Me",
+      "url": "https://open.spotify.com/track/7lLdVymMzVJxq6sl8VPDzJ"
     },
     {
       "added_at": "2023-09-22 04:00:00",
@@ -1323,6 +1323,22 @@
     {
       "added_at": "2023-09-22 04:00:00",
       "album": {
+        "name": "Black Cowboys",
+        "url": "https://open.spotify.com/album/7IGx8sUSRSMpcIUbTn6Hxw"
+      },
+      "artists": [
+        {
+          "name": "Dom Flemons",
+          "url": "https://open.spotify.com/artist/79ScU9PMzW9i0jw67b5kVb"
+        }
+      ],
+      "duration_ms": 162473,
+      "name": "Lonesome Old River Blues",
+      "url": "https://open.spotify.com/track/64pmv1IacCuTcea9rTELcc"
+    },
+    {
+      "added_at": "2023-09-22 04:00:00",
+      "album": {
         "name": "Grey Eagle / A Distant Land to Roam",
         "url": "https://open.spotify.com/album/0WVGCRxGwBwBWk6Jjrpa85"
       },
@@ -1375,22 +1391,6 @@
     {
       "added_at": "2023-09-22 04:00:00",
       "album": {
-        "name": "Black Cowboys",
-        "url": "https://open.spotify.com/album/7IGx8sUSRSMpcIUbTn6Hxw"
-      },
-      "artists": [
-        {
-          "name": "Dom Flemons",
-          "url": "https://open.spotify.com/artist/79ScU9PMzW9i0jw67b5kVb"
-        }
-      ],
-      "duration_ms": 162473,
-      "name": "Lonesome Old River Blues",
-      "url": "https://open.spotify.com/track/64pmv1IacCuTcea9rTELcc"
-    },
-    {
-      "added_at": "2023-09-22 04:00:00",
-      "album": {
         "name": "Sweet Spot",
         "url": "https://open.spotify.com/album/6Nt0b4ON7Q9AO9C4T8m4lV"
       },
@@ -1403,6 +1403,22 @@
       "duration_ms": 263662,
       "name": "Sweet Spot",
       "url": "https://open.spotify.com/track/2bnFgOomCWidOvd2PXFr9D"
+    },
+    {
+      "added_at": "2023-09-22 04:00:00",
+      "album": {
+        "name": "Live Sessions, Vol. 03",
+        "url": "https://open.spotify.com/album/3xaNzOGv8AH75st4le0u2i"
+      },
+      "artists": [
+        {
+          "name": "The Petersens",
+          "url": "https://open.spotify.com/artist/4w24LztUUIkgw11zx3KrQx"
+        }
+      ],
+      "duration_ms": 160525,
+      "name": "Falling for You",
+      "url": "https://open.spotify.com/track/5KZWEoFswLxFLATP5JnDJX"
     },
     {
       "added_at": "2023-09-22 04:00:00",
@@ -1423,22 +1439,6 @@
       "duration_ms": 188666,
       "name": "Blue Railroad Train",
       "url": "https://open.spotify.com/track/5xQF2S5p9hckklJLsTbNzq"
-    },
-    {
-      "added_at": "2023-09-22 04:00:00",
-      "album": {
-        "name": "Live Sessions, Vol. 03",
-        "url": "https://open.spotify.com/album/3xaNzOGv8AH75st4le0u2i"
-      },
-      "artists": [
-        {
-          "name": "The Petersens",
-          "url": "https://open.spotify.com/artist/4w24LztUUIkgw11zx3KrQx"
-        }
-      ],
-      "duration_ms": 160525,
-      "name": "Falling for You",
-      "url": "https://open.spotify.com/track/5KZWEoFswLxFLATP5JnDJX"
     },
     {
       "added_at": "2023-09-22 04:00:00",
@@ -1547,22 +1547,6 @@
     {
       "added_at": "2023-09-22 04:00:00",
       "album": {
-        "name": "Where the Long Line Leads",
-        "url": "https://open.spotify.com/album/14lpUo1KioAmaEksNyAyAC"
-      },
-      "artists": [
-        {
-          "name": "Nickel Creek",
-          "url": "https://open.spotify.com/artist/3bcLBxvaI7GsBzGp3WHnwQ"
-        }
-      ],
-      "duration_ms": 204618,
-      "name": "Where the Long Line Leads",
-      "url": "https://open.spotify.com/track/11U64nYtfHfPXpKmy8O29c"
-    },
-    {
-      "added_at": "2023-09-22 04:00:00",
-      "album": {
         "name": "Twisted Pine",
         "url": "https://open.spotify.com/album/0Wqmu0yvCdbcd9Vgsq3G3i"
       },
@@ -1575,6 +1559,22 @@
       "duration_ms": 252428,
       "name": "When I Called Your Name",
       "url": "https://open.spotify.com/track/5TqVxkKAbdoc4iyShy5tTq"
+    },
+    {
+      "added_at": "2023-09-22 04:00:00",
+      "album": {
+        "name": "Where the Long Line Leads",
+        "url": "https://open.spotify.com/album/14lpUo1KioAmaEksNyAyAC"
+      },
+      "artists": [
+        {
+          "name": "Nickel Creek",
+          "url": "https://open.spotify.com/artist/3bcLBxvaI7GsBzGp3WHnwQ"
+        }
+      ],
+      "duration_ms": 204618,
+      "name": "Where the Long Line Leads",
+      "url": "https://open.spotify.com/track/11U64nYtfHfPXpKmy8O29c"
     },
     {
       "added_at": "2023-09-22 04:00:00",
@@ -1595,6 +1595,22 @@
     {
       "added_at": "2023-09-22 04:00:00",
       "album": {
+        "name": "Places I've Been",
+        "url": "https://open.spotify.com/album/0kgijOwaBq1rAWv8lfqEqw"
+      },
+      "artists": [
+        {
+          "name": "The Mountain Grass Unit",
+          "url": "https://open.spotify.com/artist/0FWlJ725NEZpxqxjZG3yGl"
+        }
+      ],
+      "duration_ms": 188186,
+      "name": "Shays' Rebellion",
+      "url": "https://open.spotify.com/track/1DUfLULXb2XLJF3dFqRRy9"
+    },
+    {
+      "added_at": "2023-09-22 04:00:00",
+      "album": {
         "name": "White Freight Liner Blues (feat. Molly Tuttle)",
         "url": "https://open.spotify.com/album/6x0ueS4GGofC8q79ryKbR4"
       },
@@ -1611,22 +1627,6 @@
       "duration_ms": 256000,
       "name": "White Freight Liner Blues (feat. Molly Tuttle)",
       "url": "https://open.spotify.com/track/4pIsyjHTDweaJDyQl6dMrd"
-    },
-    {
-      "added_at": "2023-09-22 04:00:00",
-      "album": {
-        "name": "Places I've Been",
-        "url": "https://open.spotify.com/album/0kgijOwaBq1rAWv8lfqEqw"
-      },
-      "artists": [
-        {
-          "name": "The Mountain Grass Unit",
-          "url": "https://open.spotify.com/artist/0FWlJ725NEZpxqxjZG3yGl"
-        }
-      ],
-      "duration_ms": 188186,
-      "name": "Shays' Rebellion",
-      "url": "https://open.spotify.com/track/1DUfLULXb2XLJF3dFqRRy9"
     },
     {
       "added_at": "2023-09-22 04:00:00",
@@ -1663,26 +1663,6 @@
     {
       "added_at": "2023-09-22 04:00:00",
       "album": {
-        "name": "Rosa Lee McFall (Live)",
-        "url": "https://open.spotify.com/album/1v4qPxoqDppewSx1hzEVgk"
-      },
-      "artists": [
-        {
-          "name": "Black Mountain Boys",
-          "url": "https://open.spotify.com/artist/1sz2PAcIPFpZR6Hpb2JMRR"
-        },
-        {
-          "name": "Jerry Garcia",
-          "url": "https://open.spotify.com/artist/3QDaXfnxfQqqJQK5lSdjLN"
-        }
-      ],
-      "duration_ms": 150575,
-      "name": "Rosa Lee McFall - Live",
-      "url": "https://open.spotify.com/track/2w8khZ6OgCOUwrbkQ4GYAK"
-    },
-    {
-      "added_at": "2023-09-22 04:00:00",
-      "album": {
         "name": "Not Our First Goat Rodeo",
         "url": "https://open.spotify.com/album/4NDXeXypRq8YdFCKqg4sAn"
       },
@@ -1711,6 +1691,26 @@
       "duration_ms": 219826,
       "name": "The Trappings",
       "url": "https://open.spotify.com/track/0gzzJTHTrLcPl6dUwROF7Z"
+    },
+    {
+      "added_at": "2023-09-22 04:00:00",
+      "album": {
+        "name": "Rosa Lee McFall (Live)",
+        "url": "https://open.spotify.com/album/1v4qPxoqDppewSx1hzEVgk"
+      },
+      "artists": [
+        {
+          "name": "Black Mountain Boys",
+          "url": "https://open.spotify.com/artist/1sz2PAcIPFpZR6Hpb2JMRR"
+        },
+        {
+          "name": "Jerry Garcia",
+          "url": "https://open.spotify.com/artist/3QDaXfnxfQqqJQK5lSdjLN"
+        }
+      ],
+      "duration_ms": 150575,
+      "name": "Rosa Lee McFall - Live",
+      "url": "https://open.spotify.com/track/2w8khZ6OgCOUwrbkQ4GYAK"
     },
     {
       "added_at": "2023-09-22 04:00:00",
@@ -1747,18 +1747,22 @@
     {
       "added_at": "2023-09-22 04:00:00",
       "album": {
-        "name": "The Whole of the Moon",
-        "url": "https://open.spotify.com/album/6q6ny6rMWxwRnPWI3AScqC"
+        "name": "Nashville No More",
+        "url": "https://open.spotify.com/album/4p6qLQ2eKBQfwaMjzBRrSK"
       },
       "artists": [
         {
-          "name": "The Travelin' McCourys",
-          "url": "https://open.spotify.com/artist/68EkPt5iRraARf9QgW093I"
+          "name": "David Ferguson",
+          "url": "https://open.spotify.com/artist/4MHz2XUNNGuttl6Yj9OHeA"
+        },
+        {
+          "name": "Sierra Hull",
+          "url": "https://open.spotify.com/artist/0JGGxsAD1Eg4X9AcKNcxEB"
         }
       ],
-      "duration_ms": 282794,
-      "name": "The Whole of the Moon",
-      "url": "https://open.spotify.com/track/4TGWzN6QyzwIPAPCzgjjfs"
+      "duration_ms": 170386,
+      "name": "Hard Times Come Again No More",
+      "url": "https://open.spotify.com/track/6SBQvkVex8EiCuOhojVaVw"
     }
   ],
   "unique_name": "Grass Roots",

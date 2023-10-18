@@ -752,6 +752,24 @@
     {
       "album": {
         "name": "The Wrong Side of Heaven and the Righteous Side of Hell, Vol. 2",
+        "url": "https://open.spotify.com/album/7m0JmDshYPjYJAb1C4aPdH"
+      },
+      "artists": [
+        {
+          "name": "Five Finger Death Punch",
+          "url": "https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM"
+        }
+      ],
+      "date_added": "2023-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223766,
+      "name": "Battle Born",
+      "url": "https://open.spotify.com/track/07rwiVsch7a9DhwnX1eFrT"
+    },
+    {
+      "album": {
+        "name": "The Wrong Side of Heaven and the Righteous Side of Hell, Vol. 2",
         "url": "https://open.spotify.com/album/6cNLSrGEjnrEhV5valjcYD"
       },
       "artists": [
@@ -3462,7 +3480,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-18",
       "duration_ms": 211386,
       "name": "Heat of the Summer",
       "url": "https://open.spotify.com/track/649o53ULWYN1y7V2OI5kgo"

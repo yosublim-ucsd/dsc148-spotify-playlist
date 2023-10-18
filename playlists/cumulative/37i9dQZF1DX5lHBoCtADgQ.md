@@ -4,7 +4,7 @@
 
 > Enjoy the folk from Punjab\. Cover: Gurdas Maan & Salim Sulaiman
 
-81 songs - 5 hr 2 min
+82 songs - 5 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,6 +16,7 @@
 | [Akhiyan](https://open.spotify.com/track/6nWQzsV1tlApW5oVkqkXUu) | [Khanvict](https://open.spotify.com/artist/3XjXhRHZjamOXeraqTWff7) | [Akhiyan](https://open.spotify.com/album/6dK7TsanTfxj28TaFiQyPC) | 2:36 | 2022-05-09 |  |
 | [Akhiyan Ch Ton Wasda](https://open.spotify.com/track/1g0d3PK9XuCwUVpD45JFDw) | [Surinder Kaur](https://open.spotify.com/artist/5fucIZfxk9a3qSYc5nMkVC) | [Luti Heer Ve Gaman Ne](https://open.spotify.com/album/3o3F1DVHaw3L5xiODNHuyG) | 4:00 | 2022-07-16 |  |
 | [Akhiyan Ch Tu Vasda](https://open.spotify.com/track/6sPPCGilVdL9L3R3YCVjDX) | [Surinder Kaur](https://open.spotify.com/artist/5fucIZfxk9a3qSYc5nMkVC) | [Nightingale of Punjab: Surinder Kaur](https://open.spotify.com/album/2zavYk1CzXnTndGsGRNQhw) | 4:00 | 2021-11-03 | 2022-07-29 |
+| [Allah Di Namaaz](https://open.spotify.com/track/6MQQGDnDBC8qmf1ZtEiwXm) | [Kanwar Grewal](https://open.spotify.com/artist/406oFsSzz2qjU3FD6fozxu), [Gurnazar](https://open.spotify.com/artist/682M6cmwGHOyAB1ZmPv38W), [Kartik Dev](https://open.spotify.com/artist/3RP5G139xbMICwhskoljmz) | [Allah Di Namaaz](https://open.spotify.com/album/3n2eRfNBrG0qDjSwaVyW5p) | 4:33 | 2023-10-17 |  |
 | [Baajre Da Sitta](https://open.spotify.com/track/6iU9onGsKnw73AO53t9QL2) | [Supriya Soni](https://open.spotify.com/artist/3xhwrUOyG10YUOOnIaGH22), [Vanshika Joshi](https://open.spotify.com/artist/5rK16uUuwINIIbpIkQCDoE) | [Mitti \- Folk Vibes Of Punjab](https://open.spotify.com/album/18BOE2bd989ELKLbIcPSnj) | 1:57 | 2023-08-08 |  |
 | [Babul \(Live\)](https://open.spotify.com/track/0kwvNhB7n6og4rAM9DrQA4) | [Neha Bhasin](https://open.spotify.com/artist/4E5oyNFcB3uXLkLdjYmP9Z) | [Babul \(Live\) \- Single](https://open.spotify.com/album/1q77LT1cF0ZNMDsnYpeRTi) | 4:01 | 2021-11-03 | 2023-09-02 |
 | [Babul \(Live\)](https://open.spotify.com/track/7IiwtbLcUg8MawnwL62KgP) | [Neha Bhasin](https://open.spotify.com/artist/4E5oyNFcB3uXLkLdjYmP9Z) | [Babul \(Live\)](https://open.spotify.com/album/1gpYSSN7MeFeLZSHIEZzwV) | 4:01 | 2023-08-17 | 2023-10-11 |
@@ -47,7 +48,7 @@
 | [Ek Meri Akh Kashni](https://open.spotify.com/track/77B95qDRO4z5x4Rs1hYrO5) | [Surinder Kaur](https://open.spotify.com/artist/5fucIZfxk9a3qSYc5nMkVC) | [Hits of Surinder Kaur, Vol\. 1 & 2](https://open.spotify.com/album/0u8nU0LaB5vUHuEZ8jG9gI) | 3:26 | 2022-11-09 | 2022-11-13 |
 | [Ek Meri Akk Kaashni](https://open.spotify.com/track/3DdCB4DFq9m6vzU2mtI6CM) | [Surinder Kaur](https://open.spotify.com/artist/5fucIZfxk9a3qSYc5nMkVC), [Asa Singh Mastana](https://open.spotify.com/artist/5MjQby5pq8m4mANED6jFbA), [Hazara Singh Ramta](https://open.spotify.com/artist/7LbnqdejlXAPj3k6T7rY4b) | [Folk Music of Punjab, Vol\. 1](https://open.spotify.com/album/71vtvcxf58EwWSv8Nnpzf9) | 3:22 | 2022-07-16 |  |
 | [Ek Meri Akk Kaashni](https://open.spotify.com/track/7nSVPEAgUFEMq84e9yIDsA) | [Surinder Kaur](https://open.spotify.com/artist/5fucIZfxk9a3qSYc5nMkVC), [Asa Singh Mastana](https://open.spotify.com/artist/5MjQby5pq8m4mANED6jFbA), [Hazara Singh Ramta](https://open.spotify.com/artist/7LbnqdejlXAPj3k6T7rY4b) | [Folk Music Of Punjab,Vol\. 1](https://open.spotify.com/album/7DVAPTaRl06o1qEMTG7jIA) | 3:22 | 2021-11-03 | 2022-07-29 |
-| [Heer](https://open.spotify.com/track/4tNVxB3MDGlFupF1cWmfh0) | [Akriti Kakar](https://open.spotify.com/artist/0le3G5nxaIL8ecHpBA6LPW), [Shankar Mahadevan](https://open.spotify.com/artist/1SJOL9HJ08YOn92lFcYf8a) | [Big Band Theory Season2](https://open.spotify.com/album/5poVgYwr0JO5FDwJgxBUnb) | 4:07 | 2023-03-10 |  |
+| [Heer](https://open.spotify.com/track/4tNVxB3MDGlFupF1cWmfh0) | [Akriti Kakar](https://open.spotify.com/artist/0le3G5nxaIL8ecHpBA6LPW), [Shankar Mahadevan](https://open.spotify.com/artist/1SJOL9HJ08YOn92lFcYf8a) | [Big Band Theory Season2](https://open.spotify.com/album/5poVgYwr0JO5FDwJgxBUnb) | 4:07 | 2023-03-10 | 2023-10-18 |
 | [Heere Heere](https://open.spotify.com/track/2stPaiSWbATmVxci9KFxzq) | [Sona Mohapatra](https://open.spotify.com/artist/5bv6NvAYNuvd2Vq13nHdG3), [Ram Sampath](https://open.spotify.com/artist/3PpjqSKBer3obW6lDflOBx) | [Heere Heere](https://open.spotify.com/album/3XVXeXlPM2nTGIcdo7YFz2) | 3:21 | 2021-11-03 |  |
 | [Jugni](https://open.spotify.com/track/7GxCu2nL6ODGO2K9cAo0wl) | [Chakshu Kotwal](https://open.spotify.com/artist/0w3yzcroyJEGY9nzsseeam) | [Jugni](https://open.spotify.com/album/3D783nXYZzw8b0snc5dz9e) | 5:01 | 2022-03-03 |  |
 | [Jutti Kasuri](https://open.spotify.com/track/6FYMT994PoloaFGnSIXLMG) | [NAVNEET KAUR](https://open.spotify.com/artist/0pVcOoM3HxoF8dWLo2RXc5) | [Jutti Kasuri](https://open.spotify.com/album/6Be19hOUDqXvOqGWtzCqXd) | 3:26 | 2022-07-16 | 2023-10-11 |

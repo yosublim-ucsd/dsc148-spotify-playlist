@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJfnUiYjUKT.md) - [plain]
 
 > The very best in new music from around the world\. Cover: Bad Bunny
 
-[Spotify](https://open.spotify.com/user/spotify) - 383,729 likes - 100 songs - 5 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 383,732 likes - 100 songs - 5 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,7 +49,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJfnUiYjUKT.md) - [plain]
 | 39 | [DArkSide](https://open.spotify.com/track/19vHgVS1aukRiQWhTqfKnE) | [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [DArkSide](https://open.spotify.com/album/3E21iYJYv6lSkBkHBv3SKq) | 2:44 |
 | 40 | [HEAVEN'S GALAXY](https://open.spotify.com/track/1iUlclkUb1sXcmrDqfQkIH) | [Kid Cudi](https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu) | [HEAVEN'S GALAXY](https://open.spotify.com/album/68xRB3gmaXR0ja7HaBSi1B) | 6:17 |
 | 41 | [Someone I Used to Know](https://open.spotify.com/track/6JZD3cr8CTNOmZg205emdw) | [Morat](https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD), [James TW](https://open.spotify.com/artist/0B3N0ZINFWvizfa8bKiz4v) | [Someone I Used To Know](https://open.spotify.com/album/0jHmLiL2rX5R8KLQ5lNiBf) | 2:55 |
-| 42 | [LUV N DEVOTION](https://open.spotify.com/track/2C2KmQyeGfMVULfrdMVs8i) | [DESTIN CONRAD](https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ) | [LUV N DEVOTION](https://open.spotify.com/album/5R8TDNyNfrrh9PprKnl8Ig) | 3:03 |
+| 42 | [LUV N DEVOTION](https://open.spotify.com/track/2C2KmQyeGfMVULfrdMVs8i) | [DESTIN CONRAD](https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ) | [LUV N DEVOTION](https://open.spotify.com/album/5R8TDNyNfrrh9PprKnl8Ig) | 3:01 |
 | 43 | [Turn Red](https://open.spotify.com/track/0rayVRqTtVHVkFiYdI8QW2) | [Mali Velasquez](https://open.spotify.com/artist/2LNfVxxm5kfNQa95GS25xP) | [I'm Green](https://open.spotify.com/album/1upKvbsQau0k852Ol079dD) | 3:56 |
 | 44 | [Country Girl](https://open.spotify.com/track/6fg6itAftZMxdFW7TJN4ua) | [Kylie Morgan](https://open.spotify.com/artist/3g2yaL04Uapb5fxmwsUZgV) | [Making It Up As I Go](https://open.spotify.com/album/62oAAeAWGdz3KOk1UGzwiX) | 2:51 |
 | 45 | [Catch Me](https://open.spotify.com/track/74y856olp2UIUAs3E1EgVX) | [Mckenna Grace](https://open.spotify.com/artist/1ZjXhESKpjsv31L7ykuJBE) | [Autumn Leaves](https://open.spotify.com/album/6DGGxFMQTmxzUInGRbCiwR) | 3:33 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJfnUiYjUKT.md) - [plain]
 | 99 | [Something](https://open.spotify.com/track/5CsUqbdvslZWm1sk9gpu13) | [Layton Greene](https://open.spotify.com/artist/02ZtVIjKL1PYLlMmP1sz0h) | [Something](https://open.spotify.com/album/6klYqHjo5gUSBYu8f3GBvO) | 2:57 |
 | 100 | [Black Eye](https://open.spotify.com/track/28GReZcMRd0N2Ns1bJ3HzR) | [Allie X](https://open.spotify.com/artist/0wnYgCeP013HkKoOyC5V32) | [Black Eye](https://open.spotify.com/album/5va7T2m57yj457ywVCRo93) | 4:32 |
 
-Snapshot ID: `MCxiMTgwY2NmMjBjZjJjMTM0MGM5ZTQ2N2Q0ZTkyNGJhOGZkOGNjNTc5`
+Snapshot ID: `MCwxOGVlMGQ4ZjEyNGI4OWNiODM3MDk4Zjg1ZTBiYTFmODVmNGZlNjVi`

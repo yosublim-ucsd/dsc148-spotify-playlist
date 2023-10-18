@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZTjb5Ra7K9k.md) - [plain]
 
 > Hora de aumentar o som e cair na água!
 
-[Spotify](https://open.spotify.com/user/spotify) - 189,362 likes - 75 songs - 4 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 189,370 likes - 75 songs - 4 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,8 +60,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZTjb5Ra7K9k.md) - [plain]
 | 50 | [All Night](https://open.spotify.com/track/5V3fw7a3vubB9PzMNhGoPL) | [Damian Marley](https://open.spotify.com/artist/3QJzdZJYIAcoET1GcfpNGi), [Stephen Marley](https://open.spotify.com/artist/0CIwCGmQMqHqiblnZlFia1) | [Welcome to Jamrock](https://open.spotify.com/album/4Y0PrDckfFKxKaVXsscDLB) | 3:30 |
 | 51 | [Real Gold](https://open.spotify.com/track/4qQm3DuFEVsqp2GWjkNFli) | [Black Alien](https://open.spotify.com/artist/6aCbXH85qN6xo54C7atSMx) | [Real Gold](https://open.spotify.com/album/5PRS6zL5id8VsFjesEsaw3) | 3:17 |
 | 52 | [Family Tree](https://open.spotify.com/track/7FB4AMETSW8jALAPNRKw7Y) | [Kings of Leon](https://open.spotify.com/artist/2qk9voo8llSGYcZ6xrBzKx) | [Mechanical Bull \(Expanded Edition\)](https://open.spotify.com/album/0cRJKK0y1sfZEqWub4dK9v) | 3:50 |
-| 53 | [Clean The House](https://open.spotify.com/track/1lFau9QnLnI8Db1K2uxeQ8) | [Fat Freddy's Drop](https://open.spotify.com/artist/32lo0J8u6KZJTwBOIBrdYS) | [Blackbird](https://open.spotify.com/album/4ahnVMpkBpvPTFfw5O6P9p) | 4:14 |
-| 54 | [My Girl \- Remaster 2005](https://open.spotify.com/track/5ztnzBtXLZBSjZu5sk8fcI) | [Hoodoo Gurus](https://open.spotify.com/artist/7HZQqtnOYmjJl8XAB3Vg8y) | [Stoneage Romeos](https://open.spotify.com/album/4ukegur2dXKuIbuvb5cQIL) | 2:39 |
+| 53 | [My Girl \- Remaster 2005](https://open.spotify.com/track/5ztnzBtXLZBSjZu5sk8fcI) | [Hoodoo Gurus](https://open.spotify.com/artist/7HZQqtnOYmjJl8XAB3Vg8y) | [Stoneage Romeos](https://open.spotify.com/album/4ukegur2dXKuIbuvb5cQIL) | 2:39 |
+| 54 | [Clean The House](https://open.spotify.com/track/1lFau9QnLnI8Db1K2uxeQ8) | [Fat Freddy's Drop](https://open.spotify.com/artist/32lo0J8u6KZJTwBOIBrdYS) | [Blackbird](https://open.spotify.com/album/4ahnVMpkBpvPTFfw5O6P9p) | 4:14 |
 | 55 | [Feelin' The Feelings](https://open.spotify.com/track/52CthepepM1EP1vFtacb00) | [Kelly Slater](https://open.spotify.com/artist/3abAEbxycczGWKeL7EOXMm), [Karina Zeviani](https://open.spotify.com/artist/3SyRjJX3ux5gvcAgGBrJ79), [Pretinho da Serrinha](https://open.spotify.com/artist/4qDFGliScFrzPiFS9caqnw) | [Feelin' The Feelings](https://open.spotify.com/album/1p4AVuqLt0H6uedwycus6K) | 4:02 |
 | 56 | [California](https://open.spotify.com/track/08aMpsxjozNNQPVnnE1QaC) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [California](https://open.spotify.com/album/4wuYQ9hyF1EGmrtjMpgpE9) | 3:10 |
 | 57 | [Jah Work](https://open.spotify.com/track/0zWwD8Kr7NAhkVGaGDKpqs) | [Ben Harper](https://open.spotify.com/artist/45lorWzrKLxfKlWpV7r9CN) | [The Will To Live](https://open.spotify.com/album/0fTTM8BvDkPd2VJ8Km2lhK) | 4:54 |
@@ -72,8 +72,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZTjb5Ra7K9k.md) - [plain]
 | 62 | [Ma and Pa](https://open.spotify.com/track/7wotdNGMm6PrQ9xUXYQtVp) | [Fishbone](https://open.spotify.com/artist/2X3pNc13eRGofTO9Yt3sMi) | [The Essential Fishbone](https://open.spotify.com/album/5A34elKkckMgG5Y4tMAi2H) | 3:19 |
 | 63 | [Bad News](https://open.spotify.com/track/1qexQ5omdTZEY5W1YteopP) | [SOJA](https://open.spotify.com/artist/2vaWvC8suCFkRXejDOK7EE) | [Poetry In Motion](https://open.spotify.com/album/4Zf1Hm15ddDthWt93135aK) | 3:49 |
 | 64 | [Stoked \- Remastered 2001](https://open.spotify.com/track/3rxEuNCh8TJkbbVIGs7zBd) | [The Beach Boys](https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV) | [Surfin' USA \(Remastered\)](https://open.spotify.com/album/6u5tGarzvESDsQiIpC4SlI) | 2:01 |
-| 65 | [Drinkin' Tonight](https://open.spotify.com/track/2uIHbGPZtzNwHbj20lc1ZD) | [The Supervillains](https://open.spotify.com/artist/0LN8DYo6VtPVK0WQ3g6AXJ) | [Postcards from Paradise](https://open.spotify.com/album/4IPsLOsqfr9AROZ7r0u6ZG) | 3:05 |
-| 66 | [La Mar](https://open.spotify.com/track/2huEHt0QsyntjJyzFb9jkV) | [The Beautiful Girls](https://open.spotify.com/artist/0hDJSg859MdK4c9vqu1dS8) | [Water](https://open.spotify.com/album/5vtFTKi1A14L6JelNYKZvW) | 4:03 |
+| 65 | [La Mar](https://open.spotify.com/track/2huEHt0QsyntjJyzFb9jkV) | [The Beautiful Girls](https://open.spotify.com/artist/0hDJSg859MdK4c9vqu1dS8) | [Water](https://open.spotify.com/album/5vtFTKi1A14L6JelNYKZvW) | 4:03 |
+| 66 | [Drinkin' Tonight](https://open.spotify.com/track/2uIHbGPZtzNwHbj20lc1ZD) | [The Supervillains](https://open.spotify.com/artist/0LN8DYo6VtPVK0WQ3g6AXJ) | [Postcards from Paradise](https://open.spotify.com/album/4IPsLOsqfr9AROZ7r0u6ZG) | 3:05 |
 | 67 | [The Three Of Us](https://open.spotify.com/track/1VD8kfTLRwQErMZkLtHjcP) | [Ben Harper](https://open.spotify.com/artist/45lorWzrKLxfKlWpV7r9CN) | [Welcome To The Cruel World](https://open.spotify.com/album/4funkfmn2DKDsr3pRxMJTP) | 2:35 |
 | 68 | [Brother the Cloud](https://open.spotify.com/track/5anYF2hAddGXTmeHufKsHN) | [Eddie Vedder](https://open.spotify.com/artist/0mXTJETA4XUa12MmmXxZJh) | [Brother the Cloud](https://open.spotify.com/album/6vygZxPOmQG8x2vIDHUPaB) | 4:22 |
 | 69 | [Piloto Automático](https://open.spotify.com/track/739RpxxbLVj7YQz2wGJcE1) | [Gabriel Elias](https://open.spotify.com/artist/5M06IyTZgyRlWeNjazqsZK), [Supercombo](https://open.spotify.com/artist/73HkjgziMO6I83vFOS8mo1) | [Piloto Automático](https://open.spotify.com/album/5w5bBSJCBvUUy2VeOgPnzu) | 3:05 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZTjb5Ra7K9k.md) - [plain]
 | 74 | [Invincible](https://open.spotify.com/track/6NTaNlVIeigg3ERXef5wjM) | [Eddie Vedder](https://open.spotify.com/artist/0mXTJETA4XUa12MmmXxZJh) | [Earthling](https://open.spotify.com/album/7woWmF7vNQwAVNymD0UkbY) | 4:46 |
 | 75 | [What's My Scene](https://open.spotify.com/track/5Dpv08jVFM3UHvmY6zp7qi) | [Hoodoo Gurus](https://open.spotify.com/artist/7HZQqtnOYmjJl8XAB3Vg8y) | [Blow Your Cool](https://open.spotify.com/album/47CRqx6c9sIWmzpM5GXFYG) | 3:49 |
 
-Snapshot ID: `MCwyZGRhZTA4YTJiZDI3ODY5M2QxMGZkMmI2ZWU1ODk0M2ZhMTM3ZGU3`
+Snapshot ID: `MCxmOGM3NGRhNDIyMzU5MGJlMWZiMTQzODQ5Y2I4MWUwOWIyMzhmMDU1`

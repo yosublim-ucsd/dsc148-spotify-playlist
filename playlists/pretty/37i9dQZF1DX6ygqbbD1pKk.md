@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ygqbbD1pKk.md) - [plain]
 
 ### [Disney Hits Latino](https://open.spotify.com/playlist/37i9dQZF1DX6ygqbbD1pKk)
 
-> Todos tus éxitos favoritos de Disney, incluyendo canciones de La Sirenita, Encanto, Moana, Frozen y Enredados
+> Todos tus éxitos favoritos de Disney.
 
-[Spotify](https://open.spotify.com/user/spotify) - 165,337 likes - 99 songs - 5 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 165,378 likes - 99 songs - 5 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ygqbbD1pKk.md) - [plain]
 | 98 | [Vanessa's Trick](https://open.spotify.com/track/3tMQKPLplBCDdOgdsZn0SZ) | [Alan Menken](https://open.spotify.com/artist/5sy77gt4bfsLcSQ8GIe4ZZ) | [The Little Mermaid \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/40tsP3taBOC9HqNaLCZZKP) | 1:03 |
 | 99 | [A Dream Is a Wish Your Heart Makes](https://open.spotify.com/track/3s6nfqfT6kyLBT10vs0M4l) | [Lily James](https://open.spotify.com/artist/7gWjOPetXNCBqlVe6axl8K) | [Cinderella \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4MaXQAzgpi1UGNNia9r7fx) | 2:00 |
 
-Snapshot ID: `MCxkNjc3Y2E0ZTE1YmJlZDNjNDMxNDI2MTZlZTVlN2MyNGViNTQxMzgy`
+Snapshot ID: `MCxlNWI1ZjFlOTA4NDM5YTQ0YjMzODJjMjZiN2Y1NWUxYzZmOTc5ZTFj`

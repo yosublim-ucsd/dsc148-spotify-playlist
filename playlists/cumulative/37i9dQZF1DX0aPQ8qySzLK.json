@@ -2144,10 +2144,28 @@
       ],
       "date_added": "2021-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-18",
       "duration_ms": 178440,
       "name": "that'd be alright",
       "url": "https://open.spotify.com/track/0XQhs9ovprk2yw0QkDjevN"
+    },
+    {
+      "album": {
+        "name": "Wanted You to Know",
+        "url": "https://open.spotify.com/album/1lgJadT4fW7KnNRKHfAymy"
+      },
+      "artists": [
+        {
+          "name": "Emily James",
+          "url": "https://open.spotify.com/artist/7FxEy78P0oIVEVxdaL9npy"
+        }
+      ],
+      "date_added": "2021-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178440,
+      "name": "that'd be alright",
+      "url": "https://open.spotify.com/track/3rm4a3WFvyx71gXPGXsrsd"
     },
     {
       "album": {

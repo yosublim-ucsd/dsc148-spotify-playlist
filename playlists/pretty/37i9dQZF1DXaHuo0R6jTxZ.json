@@ -1,12 +1,12 @@
 {
   "description": "Ya Wailee! Get ready for some serious 90s nostalgia. Cover : Amr Diab",
-  "num_followers": 95575,
+  "num_followers": 95648,
   "original_name": "90s Arabic Hits",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0MjY1MTVlY2YwZWVhMDg3OGY3ZThjM2JkN2U1MzNjM2ZjYzlmNzUy",
+  "snapshot_id": "MCwxYTZhNTRlZjY2M2YyOTVjOWFlMmU2YjkwMmRjM2MxOWM1ODQwNDQ2",
   "tracks": [
     {
       "added_at": "2023-09-15 13:43:10",
@@ -207,22 +207,6 @@
     {
       "added_at": "2023-09-15 13:43:10",
       "album": {
-        "name": "Nour El Ein",
-        "url": "https://open.spotify.com/album/3qZ0kZ8d3F8EpvEyx0yemA"
-      },
-      "artists": [
-        {
-          "name": "Amr Diab",
-          "url": "https://open.spotify.com/artist/5abSRg0xN1NV3gLbuvX24M"
-        }
-      ],
-      "duration_ms": 320641,
-      "name": "Moush Hadaaf",
-      "url": "https://open.spotify.com/track/3pozehDmGhW7KSCbYbDW6j"
-    },
-    {
-      "added_at": "2023-09-15 13:43:10",
-      "album": {
         "name": "Ba'Ad Al Hob",
         "url": "https://open.spotify.com/album/2Ro807NACs4StaffbQUd8A"
       },
@@ -235,6 +219,22 @@
       "duration_ms": 349333,
       "name": "Kolak Ala Badhak - Remastered 2000",
       "url": "https://open.spotify.com/track/2sFFcde1ToI6DVCzvWwePM"
+    },
+    {
+      "added_at": "2023-09-15 13:43:10",
+      "album": {
+        "name": "Nour El Ein",
+        "url": "https://open.spotify.com/album/3qZ0kZ8d3F8EpvEyx0yemA"
+      },
+      "artists": [
+        {
+          "name": "Amr Diab",
+          "url": "https://open.spotify.com/artist/5abSRg0xN1NV3gLbuvX24M"
+        }
+      ],
+      "duration_ms": 320641,
+      "name": "Moush Hadaaf",
+      "url": "https://open.spotify.com/track/3pozehDmGhW7KSCbYbDW6j"
     },
     {
       "added_at": "2023-09-15 13:43:10",
@@ -479,22 +479,6 @@
     {
       "added_at": "2023-09-15 13:43:10",
       "album": {
-        "name": "Ya Leila",
-        "url": "https://open.spotify.com/album/651XwngqHNHNhwEsvOUL10"
-      },
-      "artists": [
-        {
-          "name": "Hisham Abbas",
-          "url": "https://open.spotify.com/artist/6OQ7sfN0G1E2pZMhYW9wjG"
-        }
-      ],
-      "duration_ms": 291383,
-      "name": "Layali El Shouq",
-      "url": "https://open.spotify.com/track/1qQzDpRp5r54W6qdCWW0VX"
-    },
-    {
-      "added_at": "2023-09-15 13:43:10",
-      "album": {
         "name": "\u0645\u0634\u064a\u0646\u0627",
         "url": "https://open.spotify.com/album/3KZuogULhgXrMIOvArGEC7"
       },
@@ -507,6 +491,22 @@
       "duration_ms": 257502,
       "name": "\u0645\u0648\u0627\u0639\u062f\u0627\u0646\u0649",
       "url": "https://open.spotify.com/track/6nLo8pZ7r5dPZnlEGBchip"
+    },
+    {
+      "added_at": "2023-09-15 13:43:10",
+      "album": {
+        "name": "Ya Leila",
+        "url": "https://open.spotify.com/album/651XwngqHNHNhwEsvOUL10"
+      },
+      "artists": [
+        {
+          "name": "Hisham Abbas",
+          "url": "https://open.spotify.com/artist/6OQ7sfN0G1E2pZMhYW9wjG"
+        }
+      ],
+      "duration_ms": 291383,
+      "name": "Layali El Shouq",
+      "url": "https://open.spotify.com/track/1qQzDpRp5r54W6qdCWW0VX"
     },
     {
       "added_at": "2023-09-15 13:43:10",
@@ -647,18 +647,18 @@
     {
       "added_at": "2023-09-15 13:43:10",
       "album": {
-        "name": "Ya Leila",
-        "url": "https://open.spotify.com/album/651XwngqHNHNhwEsvOUL10"
+        "name": "Nubian Legends",
+        "url": "https://open.spotify.com/album/2tkQvpsJdhTkF11z83PPuf"
       },
       "artists": [
         {
-          "name": "Hisham Abbas",
-          "url": "https://open.spotify.com/artist/6OQ7sfN0G1E2pZMhYW9wjG"
+          "name": "Vicka",
+          "url": "https://open.spotify.com/artist/1DvYjKqpI2Y3xP0hsqt29n"
         }
       ],
-      "duration_ms": 260167,
-      "name": "Ya Leila Disco",
-      "url": "https://open.spotify.com/track/04IvZrvzumdtX3sH2AmHXG"
+      "duration_ms": 282253,
+      "name": "Keda Keda Ya Terella",
+      "url": "https://open.spotify.com/track/3wlbAd9KLt8UcaZk0Vq5XB"
     }
   ],
   "unique_name": "90s Arabic Hits",

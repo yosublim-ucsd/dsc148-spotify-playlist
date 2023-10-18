@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXjXJCPYoIua.md) - [plain]
 
 > Rimas finas para inspirarte en el jale.
 
-[Spotify](https://open.spotify.com/user/spotify) - 100,724 likes - 100 songs - 6 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 100,837 likes - 100 songs - 6 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -98,8 +98,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXjXJCPYoIua.md) - [plain]
 | 88 | [Sangre De Barrio](https://open.spotify.com/track/3WBmdLBkrl7K1W8CPIFrgX) | [Under Side 821](https://open.spotify.com/artist/2NtN73hhhgFt2NmbBOlFz1) | [Viviendo Recio](https://open.spotify.com/album/4Xnfrq4wc7We7YssTaarVB) | 5:06 |
 | 89 | [Kódigos](https://open.spotify.com/track/6kMOMMTx2xVeL949eA43ld) | [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp), [Tornillo](https://open.spotify.com/artist/5OGraDcSkO4oTWthkm77WL), [473 Music](https://open.spotify.com/artist/5RNHJe1xtJ3dKLb28DPT0V) | [Kódigos](https://open.spotify.com/album/0b5audVuKMeEU2EW1Dl4CS) | 3:47 |
 | 90 | [Ya Te la Cypress](https://open.spotify.com/track/45kftthTUcu0Ci2XW51jhE) | [Alemán](https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE) | [Rolemos Otro](https://open.spotify.com/album/01AooA3ywuIEk6EQaoWjh3) | 3:07 |
-| 91 | [Me Gustas](https://open.spotify.com/track/5p6S0LXowt9jTCJfCP9A5S) | [La Banda Baston](https://open.spotify.com/artist/3vV4Tf1iC8vEP9fLOLGUfP) | [Todo Bien](https://open.spotify.com/album/3ZDwja1a3VLSqjMAX8RxlJ) | 3:28 |
-| 92 | [Malvivientes](https://open.spotify.com/track/5xl0AxAVWP8Css33vu2j9P) | [Tornillo](https://open.spotify.com/artist/5OGraDcSkO4oTWthkm77WL), [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp), [Richard Ahumada](https://open.spotify.com/artist/4oR06FdpsOJTcTnOkSzUsC), [Karlos Loayzat](https://open.spotify.com/artist/3rfra93e0UicabkeHC9NNU) | [Malvivientes](https://open.spotify.com/album/5avfygcAoK3LQ0vGSXWrVI) | 4:54 |
+| 91 | [Malvivientes](https://open.spotify.com/track/5xl0AxAVWP8Css33vu2j9P) | [Tornillo](https://open.spotify.com/artist/5OGraDcSkO4oTWthkm77WL), [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp), [Richard Ahumada](https://open.spotify.com/artist/4oR06FdpsOJTcTnOkSzUsC), [Karlos Loayzat](https://open.spotify.com/artist/3rfra93e0UicabkeHC9NNU) | [Malvivientes](https://open.spotify.com/album/5avfygcAoK3LQ0vGSXWrVI) | 4:54 |
+| 92 | [Me Gustas](https://open.spotify.com/track/5p6S0LXowt9jTCJfCP9A5S) | [La Banda Baston](https://open.spotify.com/artist/3vV4Tf1iC8vEP9fLOLGUfP) | [Todo Bien](https://open.spotify.com/album/3ZDwja1a3VLSqjMAX8RxlJ) | 3:28 |
 | 93 | [Así Son Mis Días](https://open.spotify.com/track/4fb3Xk1LAfQoVk42LgD9Zn) | [Control Machete](https://open.spotify.com/artist/628gUkswCfCS1hIOOHmIpK) | [Mucho Barato](https://open.spotify.com/album/12Fkvf2oi1B6yjDwkMrUog) | 3:34 |
 | 94 | [La Raza](https://open.spotify.com/track/3zCg6CUmhxHukbUs0nd7ar) | [Kid Frost](https://open.spotify.com/artist/6OxjXk1y4QXXRUJyldFIIG) | [Hispanic Causing Panic](https://open.spotify.com/album/54du51RSgc4enNk2K2E2JX) | 3:29 |
 | 95 | [All My Life](https://open.spotify.com/track/2B4oDTNdmVGVplWTFoSwbx) | [MC Magic](https://open.spotify.com/artist/3cuVSUrq0yoSSP7gpvI6q1), [Nichole](https://open.spotify.com/artist/4NT0dR9aUV38ZdFwQ0knZZ) | [Magic City](https://open.spotify.com/album/7BlkHZxgF2tX7lk12c3DOa) | 3:43 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXjXJCPYoIua.md) - [plain]
 | 99 | [Hecho En Mexico](https://open.spotify.com/track/7kCp04jo6XWGVC3ZENX1vI) | [Kinto Sol](https://open.spotify.com/artist/0nOyxRsVicKeiBbB6zdIMu) | [Hecho En Mexico](https://open.spotify.com/album/5Vg2XD4nj01YO0knSICiir) | 4:22 |
 | 100 | [Mamacita](https://open.spotify.com/track/2NngcJXkyG5Mo6OO3775r0) | [Zimple](https://open.spotify.com/artist/0l1OSQn6GtjfEE1Cb8LE1t), [Smoky](https://open.spotify.com/artist/1P184E1yqU3hzj71d1oOzb) | [Sin Corte](https://open.spotify.com/album/6u1jmCdZsZTaLQywoAdVsZ) | 3:37 |
 
-Snapshot ID: `MCwwMGRmMTg5YjJjMWEzZjM3OTljOWZkMmI1MGE4NmUzMjRhNDAxNzg4`
+Snapshot ID: `MCwyNDM5OTI4NjNiYzgzMzNkMGQwMjM1YTM3NWY4YzQ0YjljNmVmY2Vl`

@@ -1,12 +1,12 @@
 {
   "description": "Un buffet de ritmos sabrositos para satisfacer tu paladar.",
-  "num_followers": 101796,
+  "num_followers": 101867,
   "original_name": "Taco Placero",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2ZmI1NzY4Y2U1MDE2YzVkOTVlNmUyMTdiZGMxM2I3OWE0ZjRiMDhl",
+  "snapshot_id": "MCw3YzZiODVmYzRjZjUyYmFmNjFmM2JjOTA4Y2JkNGMwNmU1YjhkN2Fl",
   "tracks": [
     {
       "added_at": "2022-01-25 19:05:16",
@@ -755,8 +755,8 @@
     {
       "added_at": "2022-01-25 19:05:16",
       "album": {
-        "name": "Nunca Te Olvidar\u00e9",
-        "url": "https://open.spotify.com/album/45zzHjXdJoNXKFLysKLj88"
+        "name": "Una Lluvia De Rosas",
+        "url": "https://open.spotify.com/album/3cwMyqMeTxBd26z6AjKGdv"
       },
       "artists": [
         {
@@ -764,9 +764,9 @@
           "url": "https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW"
         }
       ],
-      "duration_ms": 205333,
-      "name": "Ella Se Olvido De M\u00ed",
-      "url": "https://open.spotify.com/track/5eFByyYnqWv7euW1wTGUle"
+      "duration_ms": 224786,
+      "name": "Sin Ti No S\u00e9 Vivir",
+      "url": "https://open.spotify.com/track/2tkeEsJUjKLM1zKeWJ3RqU"
     },
     {
       "added_at": "2022-01-25 19:05:16",
@@ -1075,6 +1075,22 @@
     {
       "added_at": "2022-01-25 19:05:16",
       "album": {
+        "name": "Desde El Corazon",
+        "url": "https://open.spotify.com/album/6f0iQNDK9xsmaWfiuhFUj5"
+      },
+      "artists": [
+        {
+          "name": "Los Mier",
+          "url": "https://open.spotify.com/artist/2B8mbONjmLnXk4wpqF5UPQ"
+        }
+      ],
+      "duration_ms": 173626,
+      "name": "Notas de Sociedad",
+      "url": "https://open.spotify.com/track/1SZCsIFSRXG2m6J6GFqv4g"
+    },
+    {
+      "added_at": "2022-01-25 19:05:16",
+      "album": {
         "name": "A.B. Quintanilla III & Kumbia Kumbia Kings Present The Duets",
         "url": "https://open.spotify.com/album/05CvQnHFWD0JrII6bfM07e"
       },
@@ -1107,22 +1123,6 @@
       "duration_ms": 266200,
       "name": "Jugo De Pi\u00f1a",
       "url": "https://open.spotify.com/track/1bpxGmisHNZpDSaGfdIcyi"
-    },
-    {
-      "added_at": "2022-01-25 19:05:16",
-      "album": {
-        "name": "Desde El Corazon",
-        "url": "https://open.spotify.com/album/6f0iQNDK9xsmaWfiuhFUj5"
-      },
-      "artists": [
-        {
-          "name": "Los Mier",
-          "url": "https://open.spotify.com/artist/2B8mbONjmLnXk4wpqF5UPQ"
-        }
-      ],
-      "duration_ms": 173626,
-      "name": "Notas de Sociedad",
-      "url": "https://open.spotify.com/track/1SZCsIFSRXG2m6J6GFqv4g"
     },
     {
       "added_at": "2022-01-25 19:05:16",
@@ -1191,22 +1191,6 @@
     {
       "added_at": "2022-01-25 19:05:16",
       "album": {
-        "name": "Encuentro Rom\u00e1ntico",
-        "url": "https://open.spotify.com/album/4bujC3sYUCIghBbAX9egyk"
-      },
-      "artists": [
-        {
-          "name": "Abracadabra",
-          "url": "https://open.spotify.com/artist/1F10Dyz1RuRFkgHQ5Es3uZ"
-        }
-      ],
-      "duration_ms": 223466,
-      "name": "En realidad",
-      "url": "https://open.spotify.com/track/3I4kCERqFLTFNVwl5YCKo9"
-    },
-    {
-      "added_at": "2022-01-25 19:05:16",
-      "album": {
         "name": "THE BEST OF",
         "url": "https://open.spotify.com/album/4gqN1u9QLecW2piklO69l0"
       },
@@ -1227,6 +1211,22 @@
       "duration_ms": 227200,
       "name": "Sabes A Chocolate",
       "url": "https://open.spotify.com/track/1JxRbEr1CKM16m4ovHg2hz"
+    },
+    {
+      "added_at": "2022-01-25 19:05:16",
+      "album": {
+        "name": "Encuentro Rom\u00e1ntico",
+        "url": "https://open.spotify.com/album/4bujC3sYUCIghBbAX9egyk"
+      },
+      "artists": [
+        {
+          "name": "Abracadabra",
+          "url": "https://open.spotify.com/artist/1F10Dyz1RuRFkgHQ5Es3uZ"
+        }
+      ],
+      "duration_ms": 223466,
+      "name": "En realidad",
+      "url": "https://open.spotify.com/track/3I4kCERqFLTFNVwl5YCKo9"
     },
     {
       "added_at": "2022-01-25 19:05:16",
@@ -1955,8 +1955,8 @@
     {
       "added_at": "2022-01-25 19:05:16",
       "album": {
-        "name": "Una Lluvia De Rosas",
-        "url": "https://open.spotify.com/album/3cwMyqMeTxBd26z6AjKGdv"
+        "name": "Nunca Te Olvidar\u00e9",
+        "url": "https://open.spotify.com/album/45zzHjXdJoNXKFLysKLj88"
       },
       "artists": [
         {
@@ -1964,9 +1964,9 @@
           "url": "https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW"
         }
       ],
-      "duration_ms": 224786,
-      "name": "Sin Ti No S\u00e9 Vivir",
-      "url": "https://open.spotify.com/track/2tkeEsJUjKLM1zKeWJ3RqU"
+      "duration_ms": 205333,
+      "name": "Ella Se Olvido De M\u00ed",
+      "url": "https://open.spotify.com/track/5eFByyYnqWv7euW1wTGUle"
     },
     {
       "added_at": "2022-01-25 19:05:16",

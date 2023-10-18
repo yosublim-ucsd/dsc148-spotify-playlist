@@ -1,12 +1,12 @@
 {
   "description": "Chill tunes for mellow moods.",
-  "num_followers": 258299,
+  "num_followers": 258335,
   "original_name": "Mellow Mood",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxNWQwODlhYzlhM2E2NjJjZGUxN2Q4MmY3M2Q3MmIzODAzZmRiMDMw",
+  "snapshot_id": "MCxkZTkzY2JkYTQ5ZmYzYzRkZjYzNjZmM2RlNDM1MDQyMWY1MWQ1YTNj",
   "tracks": [
     {
       "added_at": "2018-12-11 21:12:31",
@@ -795,6 +795,22 @@
     {
       "added_at": "2018-12-11 21:12:31",
       "album": {
+        "name": "Canyon",
+        "url": "https://open.spotify.com/album/3wuICxTDIz3Mvg9qZ24WJT"
+      },
+      "artists": [
+        {
+          "name": "Glded",
+          "url": "https://open.spotify.com/artist/6LQHbUxsIOTU2vkzbUaXCH"
+        }
+      ],
+      "duration_ms": 189445,
+      "name": "Canyon",
+      "url": "https://open.spotify.com/track/6aVohiCJIKSl1KRprTMOHX"
+    },
+    {
+      "added_at": "2018-12-11 21:12:31",
+      "album": {
         "name": "Fleur",
         "url": "https://open.spotify.com/album/03TbEEt7j2I4NnSqOa2F44"
       },
@@ -815,22 +831,6 @@
     {
       "added_at": "2018-12-11 21:12:31",
       "album": {
-        "name": "Canyon",
-        "url": "https://open.spotify.com/album/3wuICxTDIz3Mvg9qZ24WJT"
-      },
-      "artists": [
-        {
-          "name": "Glded",
-          "url": "https://open.spotify.com/artist/6LQHbUxsIOTU2vkzbUaXCH"
-        }
-      ],
-      "duration_ms": 189445,
-      "name": "Canyon",
-      "url": "https://open.spotify.com/track/6aVohiCJIKSl1KRprTMOHX"
-    },
-    {
-      "added_at": "2018-12-11 21:12:31",
-      "album": {
         "name": "Small Clan",
         "url": "https://open.spotify.com/album/0b8dYZrXDD65hMekrzie9J"
       },
@@ -843,6 +843,26 @@
       "duration_ms": 232312,
       "name": "Yellow Dust",
       "url": "https://open.spotify.com/track/01JqaZsSE7IaIdxtI1FSvM"
+    },
+    {
+      "added_at": "2018-12-11 21:12:31",
+      "album": {
+        "name": "Home (feat. LEES)",
+        "url": "https://open.spotify.com/album/6HHTFLG0HLCh7a9q7hInxt"
+      },
+      "artists": [
+        {
+          "name": "Gaspar Narby",
+          "url": "https://open.spotify.com/artist/2j4vLZ1ZNKpYCPhk98FR2s"
+        },
+        {
+          "name": "LEES",
+          "url": "https://open.spotify.com/artist/7GS5zVk2C5Bt4Gnzl87py5"
+        }
+      ],
+      "duration_ms": 198776,
+      "name": "Home (feat. LEES)",
+      "url": "https://open.spotify.com/track/6OgN82jpQlTgVEBMbKzBpF"
     },
     {
       "added_at": "2019-05-24 08:01:00",
@@ -875,26 +895,6 @@
       "duration_ms": 168919,
       "name": "Frozen Away",
       "url": "https://open.spotify.com/track/39cop5xNx9C1u5ssGvuUYL"
-    },
-    {
-      "added_at": "2018-12-11 21:12:31",
-      "album": {
-        "name": "Home (feat. LEES)",
-        "url": "https://open.spotify.com/album/6HHTFLG0HLCh7a9q7hInxt"
-      },
-      "artists": [
-        {
-          "name": "Gaspar Narby",
-          "url": "https://open.spotify.com/artist/2j4vLZ1ZNKpYCPhk98FR2s"
-        },
-        {
-          "name": "LEES",
-          "url": "https://open.spotify.com/artist/7GS5zVk2C5Bt4Gnzl87py5"
-        }
-      ],
-      "duration_ms": 198776,
-      "name": "Home (feat. LEES)",
-      "url": "https://open.spotify.com/track/6OgN82jpQlTgVEBMbKzBpF"
     },
     {
       "added_at": "2018-12-11 21:12:31",

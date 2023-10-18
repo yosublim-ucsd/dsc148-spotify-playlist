@@ -4,7 +4,7 @@
 
 > Hypnotic melodic <a href="spotify:genre:house">house</a> and <a href="spotify:genre:techno">techno</a> to light up the night.
 
-514 songs - 2 day 2 hr 7 min
+515 songs - 2 day 2 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -133,7 +133,7 @@
 | [Drago \- Anja Schneider Remix](https://open.spotify.com/track/1Y0pKRDpyETJzoNEcl2i0v) | [Booka Shade](https://open.spotify.com/artist/2CKaDZ1Yo8YnWega9IeUzB), [Anja Schneider](https://open.spotify.com/artist/0f14r70OISSfJoyqYaHbgV) | [Drago \(Anja Schneider Remix\)](https://open.spotify.com/album/5ILrQRKvoVwGvuLxLVWIE0) | 6:22 | 2022-04-22 | 2022-07-29 |
 | [Drive](https://open.spotify.com/track/67aiZtmB5ZBCGxBN3pOL6C) | [Black Coffee](https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Delilah Montagu](https://open.spotify.com/artist/3WtrH1zNpzoPSz6XpwCh6y) | [Drive](https://open.spotify.com/album/0VMZ7bBIr5PxYsgYBBEEdE) | 4:43 | 2022-11-23 | 2023-04-01 |
 | [Drone Me Up, Flashy \- &ME Remix](https://open.spotify.com/track/6iNhl5IcRJfm3F42plOPA4) | [DJ Koze](https://open.spotify.com/artist/1kR99O4MgSTasyeJh8UFCg), [&ME](https://open.spotify.com/artist/5mIowAJMp7RKNheelruV5z), [Sophia Kennedy](https://open.spotify.com/artist/1bQat2UgYwJAsNOrZxcfa5) | [Knock Knock Remixes](https://open.spotify.com/album/2juRFnVLI1Zo3BlVXIa7T4) | 9:06 | 2022-04-08 |  |
-| [Duel](https://open.spotify.com/track/1qC3qRlsg8SiG3jhUtApKm) | [Tim Green](https://open.spotify.com/artist/68vO4fkFxLbWPxTSHosxsB), [Sébastien Léger](https://open.spotify.com/artist/17j0kFtqn9Fss3D916jSlp) | [Duel](https://open.spotify.com/album/4Rxndqv8kgOx0BfVdlSq3f) | 9:34 | 2022-05-20 |  |
+| [Duel](https://open.spotify.com/track/1qC3qRlsg8SiG3jhUtApKm) | [Tim Green](https://open.spotify.com/artist/68vO4fkFxLbWPxTSHosxsB), [Sébastien Léger](https://open.spotify.com/artist/17j0kFtqn9Fss3D916jSlp) | [Duel](https://open.spotify.com/album/4Rxndqv8kgOx0BfVdlSq3f) | 9:34 | 2022-05-20 | 2023-10-18 |
 | [Dvaraka](https://open.spotify.com/track/655xQvb0DNxJ8PUHjDnDYy) | [Morttagua](https://open.spotify.com/artist/1XVL802tNy6tucST8spKOv) | [Dvaraka](https://open.spotify.com/album/0G47sYDbrRXUDahMALCsBH) | 8:26 | 2021-05-07 | 2022-04-21 |
 | [Ederlezi](https://open.spotify.com/track/2ZQK68ctm8rFny71kyvnUc) | [Mahmut Orhan](https://open.spotify.com/artist/3t8WiyalpvnB9AObcMufiE) | [Ederlezi](https://open.spotify.com/album/7HMEPFeIAiSXriShJwUzb9) | 3:03 | 2023-07-28 | 2023-09-23 |
 | [Egyptian Sun](https://open.spotify.com/track/0Y3xTcu928EXNhF5yuPOvH) | [Francis Mercier](https://open.spotify.com/artist/44qAhQu52dYKcHOFQd3esf), [Kiesza](https://open.spotify.com/artist/4zxvC7CRGvggq9EWXOpwAo) | [Egyptian Sun](https://open.spotify.com/album/1S9zeICRVy9V9DxSH0XAaa) | 4:17 | 2023-05-26 |  |
@@ -152,6 +152,7 @@
 | [Ergot](https://open.spotify.com/track/1G6dyaNXhkx0HCM3ZcIJ22) | [Enamour](https://open.spotify.com/artist/6D1PUSzHf2Z4jTFIdhjJoO) | [Ergot EP](https://open.spotify.com/album/05c7P8PiH5Xv8E2R0S5Kg3) | 4:56 | 2022-05-13 | 2022-07-29 |
 | [Escape \- Original Mix](https://open.spotify.com/track/4jmk677LvOogO8LTOOWuP3) | [Atlant](https://open.spotify.com/artist/0pb7uFDJPjdCb4pCrstqnO) | [Escape](https://open.spotify.com/album/2QR8OzxVSnGISBgqTPBjAB) | 6:25 | 2022-04-22 | 2022-07-29 |
 | [Eternal Space](https://open.spotify.com/track/4gKS7a24xnVpIlpEoDvRbb) | [Denney](https://open.spotify.com/artist/7vm3musYjzfqoMloVCEF7v), [James Dexter](https://open.spotify.com/artist/7GwCNTWgIGOdOX5vXRsht4) | [Lucid Dreams](https://open.spotify.com/album/2C70R37EHf3JfsT0ByTGMg) | 6:40 | 2021-04-21 | 2022-07-19 |
+| [Ethos](https://open.spotify.com/track/61vtSOrJad1A4DIC1jhoXZ) | [Bonsaye](https://open.spotify.com/artist/1GL8uwuoUqjDP9Qs37FoFG) | [Ethos](https://open.spotify.com/album/4wjQEJULPMyZSlxtp53TGi) | 3:42 | 2023-10-13 |  |
 | [Eu Topos](https://open.spotify.com/track/4oAZrNEBTbpEggnXhSbi3l) | [Marsh](https://open.spotify.com/artist/1eucLGnPT27tdEh6MU29wp), [Mimi Page](https://open.spotify.com/artist/1USUeNBNJcg7Of34Ix74lM) | [Eu Topos EP](https://open.spotify.com/album/5XCivT6plqzOBxohhuM7CJ) | 4:04 | 2021-04-21 | 2022-05-15 |
 | [Eunoia \- Original Mix](https://open.spotify.com/track/26btt4R7IRda2CHmuidTLM) | [Matan Caspi](https://open.spotify.com/artist/0vgVqK5WmUVzi4lozaSKWd) | [Eunoia](https://open.spotify.com/album/10kcNu8TI8d966msyHYnS9) | 7:26 | 2021-10-01 | 2022-04-21 |
 | [Evening Fog](https://open.spotify.com/track/4P2z1eqevx8wCes6dBjstL) | [Modd](https://open.spotify.com/artist/57aX19q7mKEOq5Y6FrHoh2) | [A Winter Sampler](https://open.spotify.com/album/2MbQoYh4qL93LVjOYLOwt7) | 9:11 | 2021-04-21 | 2022-07-28 |

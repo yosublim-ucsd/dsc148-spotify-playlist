@@ -1,29 +1,13 @@
 {
   "description": "Life sucks...i need some rock!",
-  "num_followers": 289427,
+  "num_followers": 289647,
   "original_name": "Anger Management",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiYjU1OTU1ZDZhMWRhZWFjMDJiMjg2YzJiMTcxNzFhODM1YWQzOTEz",
+  "snapshot_id": "MCw4ZDQ3Mjg0Mzg5NGRlYTBjNjE2ODI4MzdkOTExM2U2YzI5ZDQ3Yjc0",
   "tracks": [
-    {
-      "added_at": "2023-09-28 07:33:18",
-      "album": {
-        "name": "From Under The Cork Tree",
-        "url": "https://open.spotify.com/album/5nkUSlIhtoJZMOUlB0sNCp"
-      },
-      "artists": [
-        {
-          "name": "Fall Out Boy",
-          "url": "https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX"
-        }
-      ],
-      "duration_ms": 229093,
-      "name": "Sugar, We're Goin Down",
-      "url": "https://open.spotify.com/track/2TfSHkHiFO4gRztVIkggkE"
-    },
     {
       "added_at": "2023-09-28 07:33:18",
       "album": {
@@ -39,6 +23,22 @@
       "duration_ms": 178000,
       "name": "When I Come Around",
       "url": "https://open.spotify.com/track/1Dr1fXbc2IxaK1Mu8P8Khz"
+    },
+    {
+      "added_at": "2023-09-28 07:33:18",
+      "album": {
+        "name": "From Under The Cork Tree",
+        "url": "https://open.spotify.com/album/5nkUSlIhtoJZMOUlB0sNCp"
+      },
+      "artists": [
+        {
+          "name": "Fall Out Boy",
+          "url": "https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX"
+        }
+      ],
+      "duration_ms": 229093,
+      "name": "Sugar, We're Goin Down",
+      "url": "https://open.spotify.com/track/2TfSHkHiFO4gRztVIkggkE"
     },
     {
       "added_at": "2023-09-28 07:33:18",
@@ -707,22 +707,6 @@
     {
       "added_at": "2023-09-28 07:33:18",
       "album": {
-        "name": "Infest",
-        "url": "https://open.spotify.com/album/0BHa0ePkvGAVKymB4FU58m"
-      },
-      "artists": [
-        {
-          "name": "Papa Roach",
-          "url": "https://open.spotify.com/artist/4RddZ3iHvSpGV4dvATac9X"
-        }
-      ],
-      "duration_ms": 213866,
-      "name": "Blood Brothers",
-      "url": "https://open.spotify.com/track/2Ll44WxlG2eiqL6NtEnf8M"
-    },
-    {
-      "added_at": "2023-09-28 07:33:18",
-      "album": {
         "name": "The Heroin Diaries Soundtrack",
         "url": "https://open.spotify.com/album/2sHrTFehGvpj3sLoZn9ZBy"
       },
@@ -735,6 +719,22 @@
       "duration_ms": 215000,
       "name": "Life is Beautiful",
       "url": "https://open.spotify.com/track/6zW2lcSvb5RDzJEauHZHPS"
+    },
+    {
+      "added_at": "2023-09-28 07:33:18",
+      "album": {
+        "name": "Infest",
+        "url": "https://open.spotify.com/album/0BHa0ePkvGAVKymB4FU58m"
+      },
+      "artists": [
+        {
+          "name": "Papa Roach",
+          "url": "https://open.spotify.com/artist/4RddZ3iHvSpGV4dvATac9X"
+        }
+      ],
+      "duration_ms": 213866,
+      "name": "Blood Brothers",
+      "url": "https://open.spotify.com/track/2Ll44WxlG2eiqL6NtEnf8M"
     },
     {
       "added_at": "2023-09-28 07:33:18",
@@ -1015,22 +1015,6 @@
     {
       "added_at": "2023-09-28 07:33:18",
       "album": {
-        "name": "Kill The Noise",
-        "url": "https://open.spotify.com/album/5Ob0D7DLOzpHe0KcZb67Ky"
-      },
-      "artists": [
-        {
-          "name": "Papa Roach",
-          "url": "https://open.spotify.com/artist/4RddZ3iHvSpGV4dvATac9X"
-        }
-      ],
-      "duration_ms": 188127,
-      "name": "Kill The Noise",
-      "url": "https://open.spotify.com/track/3xr0ZIYqXVKogVu00fJRBX"
-    },
-    {
-      "added_at": "2023-09-28 07:33:18",
-      "album": {
         "name": "kenopsia",
         "url": "https://open.spotify.com/album/72ilxCJIul1iivwSTAdoNp"
       },
@@ -1043,6 +1027,22 @@
       "duration_ms": 245346,
       "name": "snarky",
       "url": "https://open.spotify.com/track/1PSKMHBHkR0nbxMWNauF9r"
+    },
+    {
+      "added_at": "2023-09-28 07:33:18",
+      "album": {
+        "name": "Kill The Noise",
+        "url": "https://open.spotify.com/album/5Ob0D7DLOzpHe0KcZb67Ky"
+      },
+      "artists": [
+        {
+          "name": "Papa Roach",
+          "url": "https://open.spotify.com/artist/4RddZ3iHvSpGV4dvATac9X"
+        }
+      ],
+      "duration_ms": 188127,
+      "name": "Kill The Noise",
+      "url": "https://open.spotify.com/track/3xr0ZIYqXVKogVu00fJRBX"
     },
     {
       "added_at": "2023-09-28 07:33:18",
@@ -1371,22 +1371,6 @@
     {
       "added_at": "2023-09-28 07:33:18",
       "album": {
-        "name": "Head Up",
-        "url": "https://open.spotify.com/album/6NaV5Skx0kHFSzUSmFsDtc"
-      },
-      "artists": [
-        {
-          "name": "The Score",
-          "url": "https://open.spotify.com/artist/2q3GG88dVwuQPF4FmySr9I"
-        }
-      ],
-      "duration_ms": 169977,
-      "name": "Head Up",
-      "url": "https://open.spotify.com/track/0Di4xlEas5KZ4pF52Vb2tG"
-    },
-    {
-      "added_at": "2023-09-28 07:33:18",
-      "album": {
         "name": "Life Support / Ms. Supernova",
         "url": "https://open.spotify.com/album/7F8VcXy0BU3Q02MEQjE5jy"
       },
@@ -1403,18 +1387,18 @@
     {
       "added_at": "2023-09-28 07:33:18",
       "album": {
-        "name": "Handwritten",
-        "url": "https://open.spotify.com/album/1gsyJWUvwjnsNgYUxpOfLR"
+        "name": "Head Up",
+        "url": "https://open.spotify.com/album/6NaV5Skx0kHFSzUSmFsDtc"
       },
       "artists": [
         {
-          "name": "The Gaslight Anthem",
-          "url": "https://open.spotify.com/artist/7If8DXZN7mlGdQkLE2FaMo"
+          "name": "The Score",
+          "url": "https://open.spotify.com/artist/2q3GG88dVwuQPF4FmySr9I"
         }
       ],
-      "duration_ms": 202493,
-      "name": "\"45\"",
-      "url": "https://open.spotify.com/track/25Sd73fleKUVPNqITPZkn1"
+      "duration_ms": 169977,
+      "name": "Head Up",
+      "url": "https://open.spotify.com/track/0Di4xlEas5KZ4pF52Vb2tG"
     },
     {
       "added_at": "2023-09-28 07:33:18",
@@ -1431,6 +1415,22 @@
       "duration_ms": 187460,
       "name": "Love Abuser (Save Me)",
       "url": "https://open.spotify.com/track/6dS27nDWBxG9CHagUyq5j0"
+    },
+    {
+      "added_at": "2023-09-28 07:33:18",
+      "album": {
+        "name": "Handwritten",
+        "url": "https://open.spotify.com/album/1gsyJWUvwjnsNgYUxpOfLR"
+      },
+      "artists": [
+        {
+          "name": "The Gaslight Anthem",
+          "url": "https://open.spotify.com/artist/7If8DXZN7mlGdQkLE2FaMo"
+        }
+      ],
+      "duration_ms": 202493,
+      "name": "\"45\"",
+      "url": "https://open.spotify.com/track/25Sd73fleKUVPNqITPZkn1"
     },
     {
       "added_at": "2023-09-28 07:33:18",

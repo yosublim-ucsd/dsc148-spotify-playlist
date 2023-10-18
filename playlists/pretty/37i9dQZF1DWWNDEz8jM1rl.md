@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWNDEz8jM1rl.md) - [plain]
 
 > ¡Vamos a bailar con Dios!
 
-[Spotify](https://open.spotify.com/user/spotify) - 117,546 likes - 50 songs - 3 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 117,579 likes - 50 songs - 3 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,8 +32,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWNDEz8jM1rl.md) - [plain]
 | 22 | [Conmigo](https://open.spotify.com/track/7G6FUIGJigrZrDKYO3uhGG) | [Vaes](https://open.spotify.com/artist/7iOw6TIHh8GcNnaAFvXyTu), [Pescao Vivo](https://open.spotify.com/artist/5GlkVOsZJwtYsvY55B8ExI) | [Conmigo](https://open.spotify.com/album/46HG8FO29WHwKukGqGVrKs) | 2:50 |
 | 23 | [Largo Viaje](https://open.spotify.com/track/5RC9Wt1fdM8h1LzoHBeAZm) | [Ezequiel Colón](https://open.spotify.com/artist/44V8q3JGpAcyDho7d3dPvJ) | [Sólo Éxitos Tropicales](https://open.spotify.com/album/3WcAFQZcY6hVCbO4CiKNPH) | 3:29 |
 | 24 | [Una Señal](https://open.spotify.com/track/5l5MmlrPtEGxkhDttuAI8C) | [Banda Alternativa](https://open.spotify.com/artist/5pNLS31QCGDruKrezxNrpo), [Gabriel EMC](https://open.spotify.com/artist/0rOLLmeuTbBAx7YKcVEECH) | [Alegría y Gozo 2020](https://open.spotify.com/album/7eaEia0ipy3eub1E8Gf4Jx) | 3:49 |
-| 25 | [Vivo por Cristo](https://open.spotify.com/track/1uqbbNbQf2vpYEXeLR5W5d) | [Redimidos](https://open.spotify.com/artist/09J01ekgESe5aPS6Dgr2F7) | [Contigo Todo Es Posible](https://open.spotify.com/album/71ocNlRBhhM7EPMUxDX7g2) | 4:05 |
-| 26 | [Digan Lo Que Diga](https://open.spotify.com/track/0uWS9oivRA7qh4nexcZho3) | [Richard Cepeda](https://open.spotify.com/artist/5Ss0gsyIYSgFgt6l6hjcqq) | [Vivo Enamorado](https://open.spotify.com/album/5weYqhXk45tTuKTB5LRSJ5) | 4:04 |
+| 25 | [Digan Lo Que Diga](https://open.spotify.com/track/0uWS9oivRA7qh4nexcZho3) | [Richard Cepeda](https://open.spotify.com/artist/5Ss0gsyIYSgFgt6l6hjcqq) | [Vivo Enamorado](https://open.spotify.com/album/5weYqhXk45tTuKTB5LRSJ5) | 4:04 |
+| 26 | [Vivo por Cristo](https://open.spotify.com/track/1uqbbNbQf2vpYEXeLR5W5d) | [Redimidos](https://open.spotify.com/artist/09J01ekgESe5aPS6Dgr2F7) | [Contigo Todo Es Posible](https://open.spotify.com/album/71ocNlRBhhM7EPMUxDX7g2) | 4:05 |
 | 27 | [Paz En La Tormenta](https://open.spotify.com/track/0vEQ3fQREP0tIObiMfuScP) | [Ander](https://open.spotify.com/artist/5twxq8MG0kp3dWPN1UKMCm) | [30 Bachatas Cristianas Pegaditas](https://open.spotify.com/album/7kK9agRpkwjNHsiCVE4hKt) | 3:45 |
 | 28 | [Sinceridad](https://open.spotify.com/track/6N49H4sNWlPvytIiNmjVzB) | [Jhonny Rafael](https://open.spotify.com/artist/5ignJ7cAgLFhc8Rp1sNhJW) | [30 Bachatas Cristianas Pegaditas](https://open.spotify.com/album/7kK9agRpkwjNHsiCVE4hKt) | 4:28 |
 | 29 | [Salsa del Cielo](https://open.spotify.com/track/402sqB8gweQGnKTPEWsmJe) | [Jose "Papo" Rivera](https://open.spotify.com/artist/3lp74D745VvTN1w5ZH8IbY) | [Soy Sonero](https://open.spotify.com/album/2mJmN2QxAygva8MwukonqS) | 4:15 |
@@ -42,8 +42,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWNDEz8jM1rl.md) - [plain]
 | 32 | [Sana Nuestra Tierra](https://open.spotify.com/track/6ybmVFm0raojnGUrcHA6P7) | [Yan Rymond](https://open.spotify.com/artist/0Sopxx9Oh7GroU4m6aVa4j) | [Alegria Latina](https://open.spotify.com/album/72A2TVtTvR3QsqSzgUs0nR) | 3:59 |
 | 33 | [Estoy Contento](https://open.spotify.com/track/6jRFsF1AnnVWmJRzlX0a9s) | [Richard Cepeda](https://open.spotify.com/artist/5Ss0gsyIYSgFgt6l6hjcqq) | [Traigo Alabanza](https://open.spotify.com/album/4g3SmEvXmxDMVJa8iPKB8c) | 4:11 |
 | 34 | [Eternamente Amor](https://open.spotify.com/track/20TvKgvjIlkUpFPCXUOE46) | [Su Presencia](https://open.spotify.com/artist/2gaFnEQydJdWNkT17NLZm3), [Jotta A](https://open.spotify.com/artist/1q0fWAYirCJgGf8ysLla6y) | [Fragmentos Do Céu](https://open.spotify.com/album/6TSkaLuTf3krKOP6G9MQ0e) | 4:02 |
-| 35 | [Por Un Minuto Tu Presencia](https://open.spotify.com/track/0JNl9KUHsxHJYPBIXxacf8) | [Robert Felix](https://open.spotify.com/artist/5yGr7jNjfmBDVlOHPlsilG) | [30 Bachatas Cristianas Pegaditas](https://open.spotify.com/album/7kK9agRpkwjNHsiCVE4hKt) | 3:47 |
-| 36 | [Contigo](https://open.spotify.com/track/2AvucB3PF66vcQoQJ6nZ3H) | [Mr\. Don](https://open.spotify.com/artist/12YP3RGVLp3c36Zi6lFRtR) | [Deluxe](https://open.spotify.com/album/7DqUydQ4WODGbSdYLDte9I) | 3:43 |
+| 35 | [Contigo](https://open.spotify.com/track/2AvucB3PF66vcQoQJ6nZ3H) | [Mr\. Don](https://open.spotify.com/artist/12YP3RGVLp3c36Zi6lFRtR) | [Deluxe](https://open.spotify.com/album/7DqUydQ4WODGbSdYLDte9I) | 3:43 |
+| 36 | [Por Un Minuto Tu Presencia](https://open.spotify.com/track/0JNl9KUHsxHJYPBIXxacf8) | [Robert Felix](https://open.spotify.com/artist/5yGr7jNjfmBDVlOHPlsilG) | [30 Bachatas Cristianas Pegaditas](https://open.spotify.com/album/7kK9agRpkwjNHsiCVE4hKt) | 3:47 |
 | 37 | [Ante Tus Pies](https://open.spotify.com/track/2SVIzC2JLC8QZ2wt4Pyis2) | [Pablo Caldarelli](https://open.spotify.com/artist/3UNQgVdq9T2fM1FGjEVQyT), [Rodrigo Tapari](https://open.spotify.com/artist/1wkImvL5XLLhrNcmX7sVt4) | [Ante Tus Pies](https://open.spotify.com/album/6gkpLRy39wZf5xX8jGrZY3) | 3:32 |
 | 38 | [Agradecido Estoy](https://open.spotify.com/track/79AXaiRAYMxFEkMm0LDbT5) | [Nicold Frias](https://open.spotify.com/artist/2mWMcOU54bpKuJySMu6nGv) | [Los Éxitos de Jesús Adrian Romero en Bachata](https://open.spotify.com/album/6NUkdjifZOqPDWY8IFZAlB) | 4:10 |
 | 39 | [Espiritu De Dios](https://open.spotify.com/track/3PchABMkZW9CPTrKiS2IOV) | [Javier Maldonado](https://open.spotify.com/artist/773eYjENFwQa4WWsahVm76) | [No Hay Nada Imposible](https://open.spotify.com/album/3S7tVmHEPScYVF1gflAkI6) | 4:55 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWNDEz8jM1rl.md) - [plain]
 | 49 | [Dios Está en Control](https://open.spotify.com/track/65X1pjaVF89MNtR59GRMWW) | [La Banda Gorda](https://open.spotify.com/artist/6biY6yyLVZzisjmFLx0AP1) | [Dios Está en Control](https://open.spotify.com/album/1mOugK66Bd9AXwzsTuZI1y) | 4:18 |
 | 50 | [Jesucristo Me Toco \- En Vivo](https://open.spotify.com/track/3ykdbXSC9DYF3CXqlvCs3J) | [Os Almirantes](https://open.spotify.com/artist/74ReARocd6ltxnTFfPaEGL), [Los Rabanes](https://open.spotify.com/artist/3yYb4SmE7A3rpOTklSlpXO) | [Jesucristo Me Toco \(En Vivo\)](https://open.spotify.com/album/2NP0fYbcms52HQgQlticFX) | 3:39 |
 
-Snapshot ID: `MCxmYzdmMzBiOTYxZWVmNjgyMWQ4ZmU1ZjQ2ODU3M2VhYTZhNWM2Y2Ji`
+Snapshot ID: `MCxiOGVlYzUyMTllMzdjMjM4OTgxMTY0NTZiYzA0ZTc0NWNmOGQxZmU3`

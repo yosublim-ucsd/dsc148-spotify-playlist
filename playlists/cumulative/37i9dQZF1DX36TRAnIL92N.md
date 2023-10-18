@@ -4,7 +4,7 @@
 
 > High energy Techno to boost your workout.
 
-185 songs - 16 hr 51 min
+186 songs - 16 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -67,7 +67,7 @@
 | [Future Dust \- Original Mix](https://open.spotify.com/track/3dwDBE5AMcHLxemIAEp2xb) | [Enrico Sangiuliano](https://open.spotify.com/artist/1u7DsNFbakULvxnDGtMm90) | [Silence EP](https://open.spotify.com/album/0jk2PButBmv8Kqvu5x9Yys) | 8:29 | 2022-07-05 |  |
 | [Ghost To The Galaxy](https://open.spotify.com/track/1YhEfPqQq9Z0quKIUtEx5U) | [Cosmic Boys](https://open.spotify.com/artist/2jvTYwyzxK1FVYGEoKfZLQ) | [Ghost To The Galaxy](https://open.spotify.com/album/5hqSfFWaIknbKD1gJRDE1f) | 6:27 | 2023-02-01 | 2023-02-11 |
 | [Golden Door](https://open.spotify.com/track/5CssKUX7YWpZVJp3jYC4ri) | [Giorgia Angiuli](https://open.spotify.com/artist/4iHnLagnnmgiIwMSm1wuTq) | [Golden Door](https://open.spotify.com/album/153hNVE9Gd8KEaRUH72vgP) | 7:37 | 2023-02-01 | 2023-03-04 |
-| [Gravity](https://open.spotify.com/track/0VTnsXnW2kuMFlwdKSTSBy) | [Space 92](https://open.spotify.com/artist/6TVdVlY6irsNPkMHT2HkfD) | [Gravity](https://open.spotify.com/album/45hEdeNHcpC2FIvgDMlaCP) | 6:05 | 2023-03-29 |  |
+| [Gravity](https://open.spotify.com/track/0VTnsXnW2kuMFlwdKSTSBy) | [Space 92](https://open.spotify.com/artist/6TVdVlY6irsNPkMHT2HkfD) | [Gravity](https://open.spotify.com/album/45hEdeNHcpC2FIvgDMlaCP) | 6:05 | 2023-03-29 | 2023-10-18 |
 | [Hela](https://open.spotify.com/track/74BcMAMioDrbrdbAXYIrbk) | [biskuwi](https://open.spotify.com/artist/2wdY7YDYVddKtVbbgh1fCT) | [Hela](https://open.spotify.com/album/0adQoVV6Qbg358KdIy0Yqn) | 5:05 | 2022-07-05 | 2022-09-26 |
 | [Hercules](https://open.spotify.com/track/56fFmIpNTFTcQSrfCNxeyu) | [AKKI \(DE\)](https://open.spotify.com/artist/0hReHYoLJG38QBwYIZ8zKs) | [Hercules](https://open.spotify.com/album/4ovF2Pg29wZVZDPCSqYIRV) | 6:32 | 2022-07-05 | 2023-10-09 |
 | [Heute Nacht](https://open.spotify.com/track/1eMUGMEWrvTXYWrPobq2dH) | [Maddix](https://open.spotify.com/artist/0RMeG9M8QFzss9bAbq99KA) | [Heute Nacht](https://open.spotify.com/album/3hUV4shxjzrCGFtJgBOF82) | 3:24 | 2022-11-25 |  |
@@ -99,6 +99,7 @@
 | [Mental Cinema \- Dual DeStress Remix](https://open.spotify.com/track/11j9tefGImXpCegNSekVb9) | [Belocca](https://open.spotify.com/artist/3jcvzSheHd14vjraXHLGPN), [Dual DeStress](https://open.spotify.com/artist/3KechLB76uRdgrVi2d5pyM) | [Remixed 2022](https://open.spotify.com/album/6gUKd1vXmHzBnEaKefAtkd) | 7:00 | 2022-11-17 | 2022-12-08 |
 | [Mental Wall](https://open.spotify.com/track/13jLcyLqDBl4aWz8Lmbami) | [Julien Riess](https://open.spotify.com/artist/2qmoexIy9YzYFb0xmjzh4N) | [Mental Wall](https://open.spotify.com/album/6su07aveL7ZmTQCasR6w3t) | 6:11 | 2022-07-11 | 2022-07-26 |
 | [Mercury](https://open.spotify.com/track/25dFcH5EsCJLMSmFDDJLT3) | [HI\-LO](https://open.spotify.com/artist/0ETJQforv5OXgDgidQv9qd), [Space 92](https://open.spotify.com/artist/6TVdVlY6irsNPkMHT2HkfD), [Oliver Heldens](https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p) | [Mercury](https://open.spotify.com/album/5q2bsjSrluBoWf3F61Fofp) | 3:45 | 2022-08-26 | 2023-10-15 |
+| [Mercury](https://open.spotify.com/track/3NWMxXgzWvtO3j8o9eFkOi) | [HI\-LO](https://open.spotify.com/artist/0ETJQforv5OXgDgidQv9qd), [Space 92](https://open.spotify.com/artist/6TVdVlY6irsNPkMHT2HkfD), [Oliver Heldens](https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p) | [Mercury](https://open.spotify.com/album/5PrEi7aLxDosgWfIa3eegg) | 3:45 | 2023-10-13 |  |
 | [Minimal](https://open.spotify.com/track/333mKnEIccxUgOwQCCTPD8) | [Deborah de Luca](https://open.spotify.com/artist/144HzhpLjcR9k37w5Ico9B) | [MNML](https://open.spotify.com/album/6p6LLo0tfRX8DqozS9n6E8) | 6:30 | 2022-07-05 |  |
 | [Mirror Mirror](https://open.spotify.com/track/0Q3Pb5gMzpFKjIWs9s0inL) | [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs), [Showtek](https://open.spotify.com/artist/3gk0OYeLFWYupGFRHqLSR7), [Jem Cooke](https://open.spotify.com/artist/0AkL5tzM3UsDlWak9E0OwH) | [Mirror Mirror](https://open.spotify.com/album/4H7KW5AaytIv42LdVTzWKw) | 4:07 | 2023-08-09 | 2023-10-04 |
 | [Mood](https://open.spotify.com/track/7r83daOyAKc1oNh89zZoA4) | [Bultech](https://open.spotify.com/artist/4puCZElml9BwUDjZYDMqDr) | [Mood](https://open.spotify.com/album/7xbfEwjgUoecDW97keuwbT) | 5:35 | 2022-09-09 | 2022-10-01 |

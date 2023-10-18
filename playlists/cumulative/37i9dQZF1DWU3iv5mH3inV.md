@@ -4,7 +4,7 @@
 
 > Dembow dominicano to el día\. Foto: Tokischa
 
-408 songs - 22 hr 13 min
+409 songs - 22 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -238,7 +238,7 @@
 | [Me Subo Arriba](https://open.spotify.com/track/0rmJCeOoTH673NPxw4CiqM) | [La Insuperable](https://open.spotify.com/artist/1DnmGMN1A57wUR0KhxOnnu) | [Me Subo Arriba](https://open.spotify.com/album/2xUAOCkgUjzbLF98XTC2lT) | 3:28 | 2021-12-10 |  |
 | [Me Tienen Dema \(Golo Golo\)](https://open.spotify.com/track/6y9VN5ngWahRxk7xv7sQru) | [Pablo Piddy](https://open.spotify.com/artist/4ezBKqi9gOB2jt9OUw2cmc) | [Exitos](https://open.spotify.com/album/7p9lBLA0o9JnxOgosUZlLJ) | 3:19 | 2021-12-10 |  |
 | [Me Vale V3rg4](https://open.spotify.com/track/4NZ71AIKdrpxMsSVTvggDe) | [El Chombo](https://open.spotify.com/artist/6iSZjc4kOoKZKiBXK5HbwD), [El Tuox](https://open.spotify.com/artist/4eZ2kMjiiWQYOwTy497LBg), [Mozart La Para](https://open.spotify.com/artist/0odliLZMTk45CEVzF3Zocl) | [Me Vale V3rg4](https://open.spotify.com/album/12PjHJ65aOOicQRb6Zuslz) | 3:15 | 2023-02-18 |  |
-| [melacomo](https://open.spotify.com/track/6FUiZ86ucz8sn45kLfK2wD) | [Aleesha](https://open.spotify.com/artist/18qC8mrcJ9ZjChRDPvpadi), [Haraca Kiko](https://open.spotify.com/artist/4xe6s55EDjpRpyZsrFoiWh), [El Cherry Scom](https://open.spotify.com/artist/1tfhFc2Y8iplDKCteuXjCY) | [melacomo](https://open.spotify.com/album/5lEbFl8zV2BSTUwWDxYZBK) | 3:48 | 2022-08-19 |  |
+| [melacomo](https://open.spotify.com/track/6FUiZ86ucz8sn45kLfK2wD) | [Aleesha](https://open.spotify.com/artist/18qC8mrcJ9ZjChRDPvpadi), [Haraca Kiko](https://open.spotify.com/artist/4xe6s55EDjpRpyZsrFoiWh), [El Cherry Scom](https://open.spotify.com/artist/1tfhFc2Y8iplDKCteuXjCY) | [melacomo](https://open.spotify.com/album/5lEbFl8zV2BSTUwWDxYZBK) | 3:48 | 2022-08-19 | 2023-10-18 |
 | [Menea Tu Chapa](https://open.spotify.com/track/7G6dxux3uUjSfQY7MP9J5W) | [Wilo D New](https://open.spotify.com/artist/7Mj6zJyAtVisnooOp1hlWF) | [KlK Llego El Tipo the Album](https://open.spotify.com/album/3XHcqktZHNuuRjdLJqiGs0) | 2:55 | 2021-12-10 |  |
 | [Menor \- Official Remix](https://open.spotify.com/track/72I3Gk6PAetI8jzvOvDLkV) | [Lil Geremi](https://open.spotify.com/artist/3nHsN7Leho58wo1RveLfzZ), [BlackRoy](https://open.spotify.com/artist/7dHiLDmaaoJ7XwEqWCcIah), [El BAI](https://open.spotify.com/artist/2vnaEm73LHWfchNiQccNBa) | [Menor \(Official Remix\)](https://open.spotify.com/album/3C4hsNgfBR3AVuOKlWwX2e) | 4:54 | 2022-01-04 | 2022-06-30 |
 | [Mensaje Directo \(DM\)](https://open.spotify.com/track/7oJzEtK0F1FT0cFIPNOPY6) | [Shadow Blow](https://open.spotify.com/artist/53cVnpkm8dTmf20tssYSNF) | [Mensaje Directo \(DM\)](https://open.spotify.com/album/49xNNfmQRUICPKH1uX0yc9) | 3:40 | 2021-12-10 |  |
@@ -279,6 +279,7 @@
 | [Peine Caracol, Vol\. 2](https://open.spotify.com/track/5Gv6kUJV6yukwNfK8XikRp) | [El Futuro Fuera De Orbita](https://open.spotify.com/artist/7thOJx5gcuoJcEcaoHsPAk), [Pablo Chill\-E](https://open.spotify.com/artist/2XcZshqzPKm3iZcmt73R8D) | [Peine Caracol, Vol\. 2](https://open.spotify.com/album/0fCnAn6n7ioHrbQW2VGFRM) | 3:10 | 2022-10-14 | 2023-05-27 |
 | [Peine Caracol, Vol\. 2](https://open.spotify.com/track/0Ptd6RrquYjHgsGWy9l3L7) | [El Futuro Fuera De Orbita](https://open.spotify.com/artist/7thOJx5gcuoJcEcaoHsPAk), [Pablo Chill\-E](https://open.spotify.com/artist/2XcZshqzPKm3iZcmt73R8D) | [Peine Caracol, Vol\. 2](https://open.spotify.com/album/7EfoDjV4hNK5l5nE0MBRe8) | 3:10 | 2022-01-04 | 2022-07-16 |
 | [Pepe](https://open.spotify.com/track/6kkG9O8oKrZ7ETFFzbEtrk) | [Doble T y El Crok Los Pepes](https://open.spotify.com/artist/5nLePxVAY3VBwc4jv9Y8uW), [El Crok](https://open.spotify.com/artist/2rA5hybfOSoyc2lTHMLChj) | [Otro Formato](https://open.spotify.com/album/5PiUtsffoSQ9mdMj0Tno35) | 4:05 | 2022-11-21 | 2023-10-15 |
+| [Pepe](https://open.spotify.com/track/5A6aB3vKw5NqLZl9IXGvIm) | [Doble T y El Crok Los Pepes](https://open.spotify.com/artist/5nLePxVAY3VBwc4jv9Y8uW), [El Crok](https://open.spotify.com/artist/2rA5hybfOSoyc2lTHMLChj), [Doble T](https://open.spotify.com/artist/3S8OJpw3NUCTuTMS2hA3x1) | [Otro Formato](https://open.spotify.com/album/0axv0B6m5rgRoV9NSPyBha) | 4:05 | 2023-05-26 |  |
 | [Pepe \- Original](https://open.spotify.com/track/1uv33oIeP72uccwM5dJJQS) | [Doble T y El Crok Los Pepes](https://open.spotify.com/artist/5nLePxVAY3VBwc4jv9Y8uW) | [Otro Formato](https://open.spotify.com/album/42WCssqmsUOGtodLiwCv3R) | 4:05 | 2021-12-10 | 2022-07-29 |
 | [Perra](https://open.spotify.com/track/3xD6kwkNjCTEKvMT5zgHAx) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Tokischa](https://open.spotify.com/artist/2p4aN0Uxkk3iT3HK0cJ2cJ) | [Perra](https://open.spotify.com/album/1CXKTe16rgSx0qBxdbtRlh) | 2:38 | 2021-12-10 | 2022-03-12 |
 | [Perreo En Medellín](https://open.spotify.com/track/4c5vHBozEkaHz7fSdIcNVp) | [Potencia Lirical](https://open.spotify.com/artist/6fxEt6A7hRd7Iq4FnwSxVb), [Jay santana prod](https://open.spotify.com/artist/1SSTq9e8PhjyYzv6QOsAkb) | [Perreo En Medellín](https://open.spotify.com/album/220vEwP3o6nsBPUMQVaA8d) | 2:28 | 2022-04-20 | 2022-05-20 |

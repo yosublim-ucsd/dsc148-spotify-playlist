@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSeQli95cQHM.md) - [plain]
 
 > Na música eletrônica underground brasileira, nos vemos no front.
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,095 likes - 50 songs - 4 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,101 likes - 50 songs - 4 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,19 +27,19 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSeQli95cQHM.md) - [plain]
 | 17 | [VEM PRA ZONA LESTE](https://open.spotify.com/track/24orcxfAdgvrdnyLOnvuFQ) | [BADSISTA](https://open.spotify.com/artist/0KdLlx7p42yA7aftp3dgpb) | [GUETO CLUB](https://open.spotify.com/album/2wRH4MifoleaIAhevuOn0O) | 3:55 |
 | 18 | [Benzine](https://open.spotify.com/track/5Df2OdR13Gvj8hH05VkBG0) | [Renato Cohen](https://open.spotify.com/artist/7C26wQyStqkNFW94iutvVD) | [Benzine EP](https://open.spotify.com/album/2DibufkG06qMeScycqEsXE) | 6:46 |
 | 19 | [Shibuya](https://open.spotify.com/track/37a26nmggsuaojxP7TauTH) | [Zopelar](https://open.spotify.com/artist/0Qr2iLEeyLhd9rLHH1piYb) | [Charme](https://open.spotify.com/album/60cvpqPVesp2srVcNCFKJV) | 4:07 |
-| 20 | [Criptogramas](https://open.spotify.com/track/3DDPknKZvBbb98U1zEDN0w) | [Vermelho Wonder](https://open.spotify.com/artist/1uJaXZr3h2FXfMTzQmhHpu) | [Criptogramas](https://open.spotify.com/album/3VcGCItNhMLK3PG6bthKVu) | 5:33 |
-| 21 | [Moleque Vampiro](https://open.spotify.com/track/0ANjVkNiX2IqVS37GRwRLI) | [Nelson D](https://open.spotify.com/artist/3hSRbxpRL7fJ64PepWjCof) | [Parente Neon](https://open.spotify.com/album/6yOcynS1ksL44go3MjSuck) | 2:29 |
-| 22 | [Corpo Fechado](https://open.spotify.com/track/3JtseE56PXDVUvZUqwbx5K) | [Gezender](https://open.spotify.com/artist/1oNqcSKUrJbsXHri4XS31a), [Linn da Quebrada](https://open.spotify.com/artist/5gGBopc7iw8yLqwxfPIv3t) | [Corpo](https://open.spotify.com/album/3sRnGBAdriBmqGZH52snaz) | 5:03 |
+| 20 | [Moleque Vampiro](https://open.spotify.com/track/0ANjVkNiX2IqVS37GRwRLI) | [Nelson D](https://open.spotify.com/artist/3hSRbxpRL7fJ64PepWjCof) | [Parente Neon](https://open.spotify.com/album/6yOcynS1ksL44go3MjSuck) | 2:29 |
+| 21 | [Criptogramas](https://open.spotify.com/track/3DDPknKZvBbb98U1zEDN0w) | [Vermelho Wonder](https://open.spotify.com/artist/1uJaXZr3h2FXfMTzQmhHpu) | [Criptogramas](https://open.spotify.com/album/3VcGCItNhMLK3PG6bthKVu) | 5:33 |
+| 22 | [Sarrafando Em Você](https://open.spotify.com/track/6JZkMxPusCNSnC8LkqpnWD) | [Guillerrrmo](https://open.spotify.com/artist/1FdmCrzayGeU9HYI5KOrmy) | [Movimento Paralelo, Vol.1](https://open.spotify.com/album/5nf34ekw3ixtR4eZueJF76) | 4:08 |
 | 23 | [Geleia de Morango](https://open.spotify.com/track/7IwOA3TwfKMahyCvYGAujI) | [Noporn](https://open.spotify.com/artist/7h8xz8JZYUH9d2rDBnlyPQ) | [Geleia de Morango](https://open.spotify.com/album/2ELCWydR1EfR4GkBJmpFjD) | 5:49 |
-| 24 | [Sarrafando Em Você](https://open.spotify.com/track/6JZkMxPusCNSnC8LkqpnWD) | [Guillerrrmo](https://open.spotify.com/artist/1FdmCrzayGeU9HYI5KOrmy) | [Movimento Paralelo, Vol.1](https://open.spotify.com/album/5nf34ekw3ixtR4eZueJF76) | 4:08 |
+| 24 | [Corpo Fechado](https://open.spotify.com/track/3JtseE56PXDVUvZUqwbx5K) | [Gezender](https://open.spotify.com/artist/1oNqcSKUrJbsXHri4XS31a), [Linn da Quebrada](https://open.spotify.com/artist/5gGBopc7iw8yLqwxfPIv3t) | [Corpo](https://open.spotify.com/album/3sRnGBAdriBmqGZH52snaz) | 5:03 |
 | 25 | [De AK em Cima da CB1000](https://open.spotify.com/track/6fnPjo1Q1kkYoitZh2yP2U) | [CESRV](https://open.spotify.com/artist/1qJG1PpAGl1FnzYyCDU7x1) | [Paredão](https://open.spotify.com/album/6OvJhMF1Fu7LEoYCpIDptq) | 4:18 |
 | 26 | [Charme](https://open.spotify.com/track/6Zuy9QOueOYh8O4LcCRrgo) | [Zopelar](https://open.spotify.com/artist/0Qr2iLEeyLhd9rLHH1piYb) | [Charme](https://open.spotify.com/album/60cvpqPVesp2srVcNCFKJV) | 5:44 |
 | 27 | [House Aprovado Pelo Governo](https://open.spotify.com/track/1n35OSWuRXkXUUMyEAIUkS) | [Pessoas Que Eu Conheço](https://open.spotify.com/artist/4nSIg6TVVkOBCeWXBBrEFD) | [Ideologia Chinesa](https://open.spotify.com/album/3WpFpwEjnpbQ59ioemok1k) | 5:23 |
-| 28 | [Me Destrói \- Stroka Remix](https://open.spotify.com/track/0hBrepTEx9hxqs6xXeNh6R) | [Thiago Pethit](https://open.spotify.com/artist/11bqiv12xCing2jMbszqOD), [Stroka](https://open.spotify.com/artist/53DrlPptHzk8iT1xoJDYX5) | [Me Destrói \(Stroka Remix\)](https://open.spotify.com/album/0UqwQYgvQzQUPIFPAhrIgW) | 5:07 |
-| 29 | [SINA](https://open.spotify.com/track/2jC1cPEjIui4v96OfqbvIi) | [CyberKills](https://open.spotify.com/artist/0YYrMvekr8APmc9sIbIpx3) | [TRAVESSIA](https://open.spotify.com/album/6U6CxG7eUVvVMUDP4mxzRI) | 3:27 |
+| 28 | [SINA](https://open.spotify.com/track/2jC1cPEjIui4v96OfqbvIi) | [CyberKills](https://open.spotify.com/artist/0YYrMvekr8APmc9sIbIpx3) | [TRAVESSIA](https://open.spotify.com/album/6U6CxG7eUVvVMUDP4mxzRI) | 3:27 |
+| 29 | [Me Destrói \- Stroka Remix](https://open.spotify.com/track/0hBrepTEx9hxqs6xXeNh6R) | [Thiago Pethit](https://open.spotify.com/artist/11bqiv12xCing2jMbszqOD), [Stroka](https://open.spotify.com/artist/53DrlPptHzk8iT1xoJDYX5) | [Me Destrói \(Stroka Remix\)](https://open.spotify.com/album/0UqwQYgvQzQUPIFPAhrIgW) | 5:07 |
 | 30 | [Algo 2](https://open.spotify.com/track/7JukUaZAH26NHybv468QmK) | [L\_cio](https://open.spotify.com/artist/1bp9y0lyzSPhnB6Dk8CUaW), [BLANCAh](https://open.spotify.com/artist/2UlGQzanOYozGMseJ8qBRz) | [ALGO](https://open.spotify.com/album/4lYlRgyH0HzIhB5WBiCYxw) | 5:52 |
-| 31 | [Pó de Guaraná \(Caiporas e Armadilhas\)](https://open.spotify.com/track/2cYWtypetLoFznZbirS1dX) | [XAXIM](https://open.spotify.com/artist/2KcqD9l4cRXg6pXeOT1Zv3), [Laylah Arruda](https://open.spotify.com/artist/0o1Y8bazz3XXeUqerefrzo), [Dudu Marote](https://open.spotify.com/artist/4xFgfJU1EalypjsJWYh8S5), [Fabião Soares](https://open.spotify.com/artist/4g2rKx5EgDCFPtpPUiomkf) | [Pó de Guaraná \(Caiporas e Armadilhas\)](https://open.spotify.com/album/3PFFktM3VF29A9n0pPBBDJ) | 3:08 |
-| 32 | [Espinheira Santa](https://open.spotify.com/track/77vJvWKutipZ94F2QACjc2) | [Cashu](https://open.spotify.com/artist/7oNCVt3wMXXKwOQ672Ti6Q), [Mari Herzer](https://open.spotify.com/artist/3EZyY0T4MFZqjpqRODdtbw) | [Kengaral Eletrohits, Vol\. 2](https://open.spotify.com/album/3mZE3yhkIMY9dwZdJBWAPC) | 11:05 |
+| 31 | [Espinheira Santa](https://open.spotify.com/track/77vJvWKutipZ94F2QACjc2) | [Cashu](https://open.spotify.com/artist/7oNCVt3wMXXKwOQ672Ti6Q), [Mari Herzer](https://open.spotify.com/artist/3EZyY0T4MFZqjpqRODdtbw) | [Kengaral Eletrohits, Vol\. 2](https://open.spotify.com/album/3mZE3yhkIMY9dwZdJBWAPC) | 11:05 |
+| 32 | [Pó de Guaraná \(Caiporas e Armadilhas\)](https://open.spotify.com/track/2cYWtypetLoFznZbirS1dX) | [XAXIM](https://open.spotify.com/artist/2KcqD9l4cRXg6pXeOT1Zv3), [Laylah Arruda](https://open.spotify.com/artist/0o1Y8bazz3XXeUqerefrzo), [Dudu Marote](https://open.spotify.com/artist/4xFgfJU1EalypjsJWYh8S5), [Fabião Soares](https://open.spotify.com/artist/4g2rKx5EgDCFPtpPUiomkf) | [Pó de Guaraná \(Caiporas e Armadilhas\)](https://open.spotify.com/album/3PFFktM3VF29A9n0pPBBDJ) | 3:08 |
 | 33 | [Orange Sunlight](https://open.spotify.com/track/3DkKyCC7BJViCAkirE2kMP) | [Zopelar](https://open.spotify.com/artist/0Qr2iLEeyLhd9rLHH1piYb) | [Mensagem](https://open.spotify.com/album/2TQmM3zK1XuCRLAYmcPQhb) | 4:26 |
 | 34 | [Vou Pra Longe \(Floatin'\)](https://open.spotify.com/track/7KxarymbMmEiz8Cae7RwMZ) | [Carrot Green](https://open.spotify.com/artist/56LbkVrwiOOlCLoIPVeEhY) | [Bajolo Vol\. I](https://open.spotify.com/album/6fh8K2jIvzokVcWbr7kkhx) | 6:24 |
 | 35 | [Sem Sono](https://open.spotify.com/track/0tnTG94G8PnaWUUkX79zqx) | [Martinelli](https://open.spotify.com/artist/3iSJjv1yv9EwpaTIfiuJ4L) | [Sem Sono](https://open.spotify.com/album/1nHAqV2yyqPui5o8v13T5t) | 5:37 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSeQli95cQHM.md) - [plain]
 | 49 | [Autoconstrução](https://open.spotify.com/track/3JDNY92MkmvZUnMIu8zxaU) | [Mari Herzer](https://open.spotify.com/artist/3EZyY0T4MFZqjpqRODdtbw) | [Kengaral Eletrohits, Vol\. 1](https://open.spotify.com/album/2iN0VnUvrVr8VVsW9iiEgk) | 5:29 |
 | 50 | [Minguante](https://open.spotify.com/track/0F7pdPtwD1hAgYcgvE07P0) | [Kika Deeke](https://open.spotify.com/artist/2h4JqVoUA7Td1SqC5fHaAE) | [Quando o Tempo dá um Tempo](https://open.spotify.com/album/394surSicOxNpbQV6tMSDC) | 5:08 |
 
-Snapshot ID: `MCxhNmVkNDcwMTQ4NTM4ZTRkODhlZDA0OTExZTMzZWNlOTJhOGRjNzRi`
+Snapshot ID: `MCxjYjFmYjkxMjVmYjkzNjg3ODkwYWVhYmY1Y2QzNjgyNzA2YTljMDFh`

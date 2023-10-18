@@ -1,6 +1,6 @@
 {
   "description": "The best new music by independent artists and labels, featuring INE. Updates every Wednesday.",
-  "num_followers": 172291,
+  "num_followers": 172306,
   "original_name": "Fresh Finds Latin",
   "owner": {
     "name": "Spotify",
@@ -591,22 +591,6 @@
     {
       "added_at": "2023-10-11 06:00:00",
       "album": {
-        "name": "De Telenovela",
-        "url": "https://open.spotify.com/album/4C14PDwyvY4vNCrLW7qKLW"
-      },
-      "artists": [
-        {
-          "name": "Valentina Moreno",
-          "url": "https://open.spotify.com/artist/1srI7bnVw24WnHT6gV9V4p"
-        }
-      ],
-      "duration_ms": 172907,
-      "name": "De Telenovela",
-      "url": "https://open.spotify.com/track/1y5pN3mxbz9BRjLUliC6DP"
-    },
-    {
-      "added_at": "2023-10-11 06:00:00",
-      "album": {
         "name": "\u00bfy si se me olvida tu cara?",
         "url": "https://open.spotify.com/album/3PTUZK8mk8FidXT1ZbzlLM"
       },
@@ -623,6 +607,22 @@
       "duration_ms": 126176,
       "name": "\u00bfy si se me olvida tu cara?",
       "url": "https://open.spotify.com/track/2H2Y0NIQcStHip1k26o1nv"
+    },
+    {
+      "added_at": "2023-10-11 06:00:00",
+      "album": {
+        "name": "De Telenovela",
+        "url": "https://open.spotify.com/album/4C14PDwyvY4vNCrLW7qKLW"
+      },
+      "artists": [
+        {
+          "name": "Valentina Moreno",
+          "url": "https://open.spotify.com/artist/1srI7bnVw24WnHT6gV9V4p"
+        }
+      ],
+      "duration_ms": 172907,
+      "name": "De Telenovela",
+      "url": "https://open.spotify.com/track/1y5pN3mxbz9BRjLUliC6DP"
     },
     {
       "added_at": "2023-10-11 06:00:00",
@@ -659,22 +659,6 @@
     {
       "added_at": "2023-10-11 06:00:00",
       "album": {
-        "name": "Camino Dorado",
-        "url": "https://open.spotify.com/album/1jESRLrDw77dVGvIVVeKQl"
-      },
-      "artists": [
-        {
-          "name": "Lola Cobach",
-          "url": "https://open.spotify.com/artist/7iCmAFvjuryIN4uF5jPpRu"
-        }
-      ],
-      "duration_ms": 233488,
-      "name": "Pak\u00e9 - Bonus Track",
-      "url": "https://open.spotify.com/track/7GvLms1X8R24dewdrYcKTM"
-    },
-    {
-      "added_at": "2023-10-11 06:00:00",
-      "album": {
         "name": "Los Pies",
         "url": "https://open.spotify.com/album/6SetzynPD4KDzFopUTZ1yq"
       },
@@ -695,6 +679,22 @@
     {
       "added_at": "2023-10-11 06:00:00",
       "album": {
+        "name": "Camino Dorado",
+        "url": "https://open.spotify.com/album/1jESRLrDw77dVGvIVVeKQl"
+      },
+      "artists": [
+        {
+          "name": "Lola Cobach",
+          "url": "https://open.spotify.com/artist/7iCmAFvjuryIN4uF5jPpRu"
+        }
+      ],
+      "duration_ms": 233488,
+      "name": "Pak\u00e9 - Bonus Track",
+      "url": "https://open.spotify.com/track/7GvLms1X8R24dewdrYcKTM"
+    },
+    {
+      "added_at": "2023-10-11 06:00:00",
+      "album": {
         "name": "Altere",
         "url": "https://open.spotify.com/album/17g2ATN6HAZoV9QAweoyAf"
       },
@@ -711,22 +711,6 @@
       "duration_ms": 147096,
       "name": "Altere",
       "url": "https://open.spotify.com/track/1jR9yuE8VSHyigKajoR6Y1"
-    },
-    {
-      "added_at": "2023-10-11 06:00:00",
-      "album": {
-        "name": "La Ciencia de los Sue\u00f1os",
-        "url": "https://open.spotify.com/album/2wenU4wxBWVVl1F7W3mAYL"
-      },
-      "artists": [
-        {
-          "name": "Volc\u00e1n",
-          "url": "https://open.spotify.com/artist/1DIDvOLPitMH37cPk30xIY"
-        }
-      ],
-      "duration_ms": 253250,
-      "name": "La Ciencia de los Sue\u00f1os",
-      "url": "https://open.spotify.com/track/1ZXGGCmqMjLkjqcaxP27Vd"
     },
     {
       "added_at": "2023-10-11 06:00:00",
@@ -763,6 +747,22 @@
     {
       "added_at": "2023-10-11 06:00:00",
       "album": {
+        "name": "La Ciencia de los Sue\u00f1os",
+        "url": "https://open.spotify.com/album/2wenU4wxBWVVl1F7W3mAYL"
+      },
+      "artists": [
+        {
+          "name": "Volc\u00e1n",
+          "url": "https://open.spotify.com/artist/1DIDvOLPitMH37cPk30xIY"
+        }
+      ],
+      "duration_ms": 253250,
+      "name": "La Ciencia de los Sue\u00f1os",
+      "url": "https://open.spotify.com/track/1ZXGGCmqMjLkjqcaxP27Vd"
+    },
+    {
+      "added_at": "2023-10-11 06:00:00",
+      "album": {
         "name": "T\u00fa - El Borde de Mi Arista",
         "url": "https://open.spotify.com/album/5ipCvqlgLBDcpJLpCcYYok"
       },
@@ -775,6 +775,22 @@
       "duration_ms": 286000,
       "name": "T\u00fa - El Borde de Mi Arista",
       "url": "https://open.spotify.com/track/5iipDltANtNDLCBKhNxxX7"
+    },
+    {
+      "added_at": "2023-10-11 06:00:00",
+      "album": {
+        "name": "Hipnotizado",
+        "url": "https://open.spotify.com/album/0VKUaQ4Y8qAbbCFE4LLlH9"
+      },
+      "artists": [
+        {
+          "name": "Emyl Rusev",
+          "url": "https://open.spotify.com/artist/6nlEU8dj964UFSPfojvK5L"
+        }
+      ],
+      "duration_ms": 136050,
+      "name": "Hipnotizado",
+      "url": "https://open.spotify.com/track/7os13mKds81NvwtSMz7kqw"
     },
     {
       "added_at": "2023-10-11 06:00:00",
@@ -795,22 +811,6 @@
       "duration_ms": 196246,
       "name": "Amanecer",
       "url": "https://open.spotify.com/track/0GPtTtncJBCsj960GfMSXy"
-    },
-    {
-      "added_at": "2023-10-11 06:00:00",
-      "album": {
-        "name": "Hipnotizado",
-        "url": "https://open.spotify.com/album/0VKUaQ4Y8qAbbCFE4LLlH9"
-      },
-      "artists": [
-        {
-          "name": "Emyl Rusev",
-          "url": "https://open.spotify.com/artist/6nlEU8dj964UFSPfojvK5L"
-        }
-      ],
-      "duration_ms": 136050,
-      "name": "Hipnotizado",
-      "url": "https://open.spotify.com/track/7os13mKds81NvwtSMz7kqw"
     },
     {
       "added_at": "2023-10-11 06:00:00",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 
 > This week's top new releases\. Cover: Takagi & Ketra, Shiva, ANNA, Geolier
 
-[Spotify](https://open.spotify.com/user/spotify) - 38,230 likes - 107 songs - 5 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 38,231 likes - 107 songs - 5 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,7 +42,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 | 32 | [Hands On Me \(feat\. Meghan Trainor\)](https://open.spotify.com/track/1TXbPx0WUaJM0fjDVs4wCD) | [Jason Derulo](https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y), [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [Hands On Me \(feat\. Meghan Trainor\)](https://open.spotify.com/album/7tm57crYhN6WvRfB51A7Up) | 3:03 |
 | 33 | [Autoreflet](https://open.spotify.com/track/2j3sASiYw3Vp9Hc3rgoUaO) | [Grand Corps Malade](https://open.spotify.com/artist/3PsyPWjsftbfeXGorZv4AM) | [Autoreflet](https://open.spotify.com/album/1E08TcOZkPhY0YotbjXdd3) | 4:49 |
 | 34 | [FELL IN LOVE](https://open.spotify.com/track/0rc6gtN1L7i0TacdfxhiND) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [FELL IN LOVE](https://open.spotify.com/album/3inphIxOlFnDL3CD3wkMe6) | 2:18 |
-| 35 | [Glücklich](https://open.spotify.com/track/3mHj8g9Dp0anu2ZofvrmvQ) | [Tom Twers](https://open.spotify.com/artist/6Vg9ZTblAIMeOiRCgyzJzO) | [Glücklich](https://open.spotify.com/album/4YtSLkxMmm3smlrqVenbMV) | 2:17 |
+| 35 | [Glücklich](https://open.spotify.com/track/3mHj8g9Dp0anu2ZofvrmvQ) | [Tom Twers](https://open.spotify.com/artist/6Vg9ZTblAIMeOiRCgyzJzO) | [Glücklich](https://open.spotify.com/album/4YtSLkxMmm3smlrqVenbMV) | 2:18 |
 | 36 | [Can't Play Myself \(A Tribute To Amy\)](https://open.spotify.com/track/6GrLwf1LdBCmkBOsmOcbPp) | [Skepta](https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN), [Amy Winehouse](https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR) | [Can't Play Myself \(A Tribute To Amy\)](https://open.spotify.com/album/4dIIRxQJD8krCBjlEBDX35) | 2:54 |
 | 37 | [Paint My Bedroom Black](https://open.spotify.com/track/3gA9Y5RsXBUKkr1IP6v4g3) | [Holly Humberstone](https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx) | [Paint My Bedroom Black](https://open.spotify.com/album/7xpV6gsna8TzskCRjmSxLE) | 3:49 |
 | 38 | [In The Business](https://open.spotify.com/track/5wBeqF4IpiPFyUZf347KfG) | [Novaa](https://open.spotify.com/artist/3PMqVecYp6tFBk7d7SDlPm), [Louane](https://open.spotify.com/artist/7wjeXCtRND2ZdKfMJFu6JC) | [SUPER NOVAA](https://open.spotify.com/album/3eKmwCRUPW3KapM3iIlQsJ) | 3:34 |
@@ -116,4 +116,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 | 106 | [Bite Marks](https://open.spotify.com/track/2iFoEIA2RSH1wt4i1LRiia) | [Ari Abdul](https://open.spotify.com/artist/25jJ6vyXwTRa0e6XCcdR6U) | [CCTV](https://open.spotify.com/album/6pLPp1De6DXPHhFry71Dn0) | 2:41 |
 | 107 | [TK421](https://open.spotify.com/track/58d6jpiFmElbSX36MnnGFO) | [Lenny Kravitz](https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7) | [TK421](https://open.spotify.com/album/7IncAEknANwQthqiwWySBP) | 3:15 |
 
-Snapshot ID: `MCxhY2ZmZTY2OTk5ZmQ0ZGMyMzRmNmFkYjIyYzZjNTA0NGVjMzkwYTVj`
+Snapshot ID: `MCxiYzg5ZWVkZTk3OTNhODM3NTgxMTlhMjNlZGI2Y2E5MjM4ZDcxNzQ1`

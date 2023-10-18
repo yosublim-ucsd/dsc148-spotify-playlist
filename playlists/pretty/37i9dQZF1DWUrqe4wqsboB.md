@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUrqe4wqsboB.md) - [plain]
 
 > Indie, pop, alternativo..\. y un poco más allá\. Cover: Buscabulla
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,642 likes - 50 songs - 2 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,656 likes - 50 songs - 2 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,8 +33,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUrqe4wqsboB.md) - [plain]
 | 23 | [Calma](https://open.spotify.com/track/0SPr1VZrc4sQ0IWz3iXkr6) | [Los Wálters](https://open.spotify.com/artist/0joND3Z9boBeX6EOu66rAY) | [Caramelo](https://open.spotify.com/album/43ouDVkgCx8hfZ7UbSYpoB) | 4:24 |
 | 24 | [Llévame](https://open.spotify.com/track/79yN85jSmZsQVkcovCOv3o) | [Bebo Dumont](https://open.spotify.com/artist/1K3l8XdgOtySWPTvBfhgYe), [Gabo Lugo](https://open.spotify.com/artist/7N1J7Ba9vb440S6pSs2qEo) | [Llévame](https://open.spotify.com/album/4MUmKDn5xEfGpBo2ihzTJM) | 4:18 |
 | 25 | [Agua](https://open.spotify.com/track/2hzyzFA7VZrtvFaWIYxynR) | [Pj Sin Suela](https://open.spotify.com/artist/0AdjzZxHJ4MfbImx2rD0Df), [Bebo Dumont](https://open.spotify.com/artist/1K3l8XdgOtySWPTvBfhgYe) | [De Vuelta a Casa](https://open.spotify.com/album/5cWQZRUiVsVMK35FPJnNN0) | 3:58 |
-| 26 | [Que Te Vaya Bien](https://open.spotify.com/track/0B96PPohQ9YmlvHFkGEfob) | [Chesca](https://open.spotify.com/artist/7DgpPXntG6DkNR4hCi4PjP) | [Que Te Vaya Bien](https://open.spotify.com/album/6C5Q7Ot0hYpCuIeV6v9jgB) | 2:50 |
-| 27 | [La Mitad](https://open.spotify.com/track/2NoqbmRul942IxBxlE0IDE) | [GALE](https://open.spotify.com/artist/04pH6pkJugHJ7g3DTCQBVM) | [Lo Que No Te Dije](https://open.spotify.com/album/0KrPRk1FK1ToydnMvBZ315) | 2:56 |
+| 26 | [La Mitad](https://open.spotify.com/track/2NoqbmRul942IxBxlE0IDE) | [GALE](https://open.spotify.com/artist/04pH6pkJugHJ7g3DTCQBVM) | [Lo Que No Te Dije](https://open.spotify.com/album/0KrPRk1FK1ToydnMvBZ315) | 2:56 |
+| 27 | [Que Te Vaya Bien](https://open.spotify.com/track/0B96PPohQ9YmlvHFkGEfob) | [Chesca](https://open.spotify.com/artist/7DgpPXntG6DkNR4hCi4PjP) | [Que Te Vaya Bien](https://open.spotify.com/album/6C5Q7Ot0hYpCuIeV6v9jgB) | 2:50 |
 | 28 | [Desastre Comunal](https://open.spotify.com/track/4zT2HDqXcnXDfHZpNWgq1T) | [Los Wálters](https://open.spotify.com/artist/0joND3Z9boBeX6EOu66rAY) | [Miss Universos](https://open.spotify.com/album/1Ss9TprLiCLzubn8S549gl) | 3:05 |
 | 29 | [Otra Noche en L.A.](https://open.spotify.com/track/2CqqG67J2dUvM6BmlZKWiD) | [Ricky Martin](https://open.spotify.com/artist/7slfeZO9LsJbWgpkIoXBUJ) | [PLAY](https://open.spotify.com/album/5HUZHRFykvKm9v6Bf3alDC) | 3:31 |
 | 30 | [Tommy Bahama](https://open.spotify.com/track/0rAzw6N1msr3fNzqmOLLU9) | [Sebimor](https://open.spotify.com/artist/6p1OHsaiF7V8qCu80f9ROH) | [Tommy Bahama](https://open.spotify.com/album/28rGVwaeWzeUOlwaew40FW) | 3:49 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUrqe4wqsboB.md) - [plain]
 | 49 | [Miento](https://open.spotify.com/track/3zXnqU3s2bL6ScV8eh4XqF) | [Deiv](https://open.spotify.com/artist/6Z26q1zYyoHDTzO2SrVaX1) | [Miento](https://open.spotify.com/album/0AKbl4MBCdVIRCn1qQ2vne) | 2:49 |
 | 50 | [Dime Juan](https://open.spotify.com/track/7fgCxatCNdVd1zmQfzlJ0b) | [Dogos](https://open.spotify.com/artist/2DDsbJ39joV9Jx75Tb2aqc) | [Algo X Dentro](https://open.spotify.com/album/6PcvdxnAeRkgyqriORyrrN) | 3:18 |
 
-Snapshot ID: `MCw0NjY1MWFkZjY0ZDljNjZmMGJlNjY5OTc0MGIxNWM4N2Q2OWY1Y2Rl`
+Snapshot ID: `MCxhMzU2OGJhMTM0Njc3MDMzZDU4ZDFmMGMzY2I4NjFjOGNkNjBkYTMy`

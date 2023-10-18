@@ -1,12 +1,12 @@
 {
   "description": "African Praise music taking you all the way up!",
-  "num_followers": 7165,
+  "num_followers": 7210,
   "original_name": "Higher",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiMzBiMDViM2E2NjVjOWZkZGY0N2ZmYWI2NjA2ZjAwMmQ1YzA1MzQw",
+  "snapshot_id": "MCw1ZTRhNzUyNzgzNDg4NDk5OTEyMDc3NWI4NGJjZjY1NjY1YWZkM2Qw",
   "tracks": [
     {
       "added_at": "2023-09-29 00:01:00",
@@ -533,24 +533,24 @@
       "url": "https://open.spotify.com/track/67LzBqIKu1rHsT98euxpa7"
     },
     {
-      "added_at": "2023-09-29 00:01:00",
+      "added_at": "2023-10-13 00:01:00",
       "album": {
-        "name": "Confam",
-        "url": "https://open.spotify.com/album/7r0C7rE7lg3GjQX8Wuwzln"
+        "name": "Hallelujah (feat. Dunsin Oyekan) [Live]",
+        "url": "https://open.spotify.com/album/0ebuJYKuAn6Of3jD5nC8CV"
       },
       "artists": [
         {
-          "name": "Okey Sokay",
-          "url": "https://open.spotify.com/artist/5rH5wkuOiVee4XUNFwIQw1"
+          "name": "Joe Mettle",
+          "url": "https://open.spotify.com/artist/1An6gOOlZ9NITlQs2ZtBCb"
         },
         {
-          "name": "Hugo David",
-          "url": "https://open.spotify.com/artist/5msx4pkfuvJyauwGcRWQeo"
+          "name": "Dunsin Oyekan",
+          "url": "https://open.spotify.com/artist/49BZ6sJNhvubVBsomYuLFM"
         }
       ],
-      "duration_ms": 157826,
-      "name": "Confam",
-      "url": "https://open.spotify.com/track/1AgHIQMl64yK84dbCuddpz"
+      "duration_ms": 320902,
+      "name": "Hallelujah (feat. Dunsin Oyekan) - Live",
+      "url": "https://open.spotify.com/track/3OwXa5v85UzgmQBieUscvu"
     },
     {
       "added_at": "2023-09-29 00:01:00",
@@ -571,6 +571,26 @@
       "duration_ms": 222315,
       "name": "Taking Care - Remix",
       "url": "https://open.spotify.com/track/28BKMZMQzetbKzNPkSdIBe"
+    },
+    {
+      "added_at": "2023-09-29 00:01:00",
+      "album": {
+        "name": "Confam",
+        "url": "https://open.spotify.com/album/7r0C7rE7lg3GjQX8Wuwzln"
+      },
+      "artists": [
+        {
+          "name": "Okey Sokay",
+          "url": "https://open.spotify.com/artist/5rH5wkuOiVee4XUNFwIQw1"
+        },
+        {
+          "name": "Hugo David",
+          "url": "https://open.spotify.com/artist/5msx4pkfuvJyauwGcRWQeo"
+        }
+      ],
+      "duration_ms": 157826,
+      "name": "Confam",
+      "url": "https://open.spotify.com/track/1AgHIQMl64yK84dbCuddpz"
     },
     {
       "added_at": "2023-09-29 00:01:00",
@@ -643,6 +663,22 @@
     {
       "added_at": "2023-09-29 00:01:00",
       "album": {
+        "name": "Mo",
+        "url": "https://open.spotify.com/album/5KFaENnGwan5wdkO4UB1mK"
+      },
+      "artists": [
+        {
+          "name": "Piesie Esther",
+          "url": "https://open.spotify.com/artist/3yz5tcmMGPPxfy9Ilp4sft"
+        }
+      ],
+      "duration_ms": 212573,
+      "name": "Mo",
+      "url": "https://open.spotify.com/track/1qundmqhnpiVShjcvUIknJ"
+    },
+    {
+      "added_at": "2023-09-29 00:01:00",
+      "album": {
         "name": "Yesu (Jesus)",
         "url": "https://open.spotify.com/album/74jptpKQgDOKwRdNTMXToI"
       },
@@ -671,22 +707,6 @@
     {
       "added_at": "2023-09-29 00:01:00",
       "album": {
-        "name": "Mo",
-        "url": "https://open.spotify.com/album/5KFaENnGwan5wdkO4UB1mK"
-      },
-      "artists": [
-        {
-          "name": "Piesie Esther",
-          "url": "https://open.spotify.com/artist/3yz5tcmMGPPxfy9Ilp4sft"
-        }
-      ],
-      "duration_ms": 212573,
-      "name": "Mo",
-      "url": "https://open.spotify.com/track/1qundmqhnpiVShjcvUIknJ"
-    },
-    {
-      "added_at": "2023-09-29 00:01:00",
-      "album": {
         "name": "Halle",
         "url": "https://open.spotify.com/album/3mcjpEjMXLuhBeaVPhPoub"
       },
@@ -703,26 +723,6 @@
       "duration_ms": 140198,
       "name": "Halle",
       "url": "https://open.spotify.com/track/3jjIz7mRqYI8zXutJ9zwad"
-    },
-    {
-      "added_at": "2023-09-29 00:01:00",
-      "album": {
-        "name": "S. W. A. G (Saved with Amazing Grace)",
-        "url": "https://open.spotify.com/album/4e7jM4Ly4okAfuzhYmqasg"
-      },
-      "artists": [
-        {
-          "name": "Sammie Okposo",
-          "url": "https://open.spotify.com/artist/4qygDDItX42LbfJLQUedIJ"
-        },
-        {
-          "name": "Kike Mudiaga",
-          "url": "https://open.spotify.com/artist/5Xg68cQyFO6Cui07HB4oKF"
-        }
-      ],
-      "duration_ms": 242704,
-      "name": "Oluwa E Tobi",
-      "url": "https://open.spotify.com/track/0oaKmxWcHhhs4G382nd2Dh"
     },
     {
       "added_at": "2023-09-29 00:01:00",
@@ -747,6 +747,26 @@
       "duration_ms": 208575,
       "name": "Daddy Wey Dey Pamper - Gbedu Version",
       "url": "https://open.spotify.com/track/1TL5gkcrDrX5sOdNOzmCQ6"
+    },
+    {
+      "added_at": "2023-09-29 00:01:00",
+      "album": {
+        "name": "S. W. A. G (Saved with Amazing Grace)",
+        "url": "https://open.spotify.com/album/4e7jM4Ly4okAfuzhYmqasg"
+      },
+      "artists": [
+        {
+          "name": "Sammie Okposo",
+          "url": "https://open.spotify.com/artist/4qygDDItX42LbfJLQUedIJ"
+        },
+        {
+          "name": "Kike Mudiaga",
+          "url": "https://open.spotify.com/artist/5Xg68cQyFO6Cui07HB4oKF"
+        }
+      ],
+      "duration_ms": 242704,
+      "name": "Oluwa E Tobi",
+      "url": "https://open.spotify.com/track/0oaKmxWcHhhs4G382nd2Dh"
     },
     {
       "added_at": "2023-09-29 00:01:00",
@@ -819,6 +839,22 @@
     {
       "added_at": "2023-09-29 00:01:00",
       "album": {
+        "name": "Na You Dey Reign",
+        "url": "https://open.spotify.com/album/7EUG7ICDtR5G6FLseXjADm"
+      },
+      "artists": [
+        {
+          "name": "Mercy Chinwo",
+          "url": "https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp"
+        }
+      ],
+      "duration_ms": 267572,
+      "name": "Na You Dey Reign",
+      "url": "https://open.spotify.com/track/2cf0ayENplwaFuiG0aphAS"
+    },
+    {
+      "added_at": "2023-09-29 00:01:00",
+      "album": {
         "name": "The Birth of Revival",
         "url": "https://open.spotify.com/album/2Cglyux6VJ6U1fcLaDGtHH"
       },
@@ -831,6 +867,38 @@
       "duration_ms": 812470,
       "name": "When I See You",
       "url": "https://open.spotify.com/track/2s4m4TSn6vl0y2fdJZyUkG"
+    },
+    {
+      "added_at": "2023-09-29 00:01:00",
+      "album": {
+        "name": "Bianule",
+        "url": "https://open.spotify.com/album/6l7RCe4ohTuPzAdPBuvtdl"
+      },
+      "artists": [
+        {
+          "name": "Samsong",
+          "url": "https://open.spotify.com/artist/2vPVXxqaSgF7s5U5PrXNUS"
+        }
+      ],
+      "duration_ms": 284080,
+      "name": "Bianule",
+      "url": "https://open.spotify.com/track/1DMuaLKEiRKcGDiNhvIhOm"
+    },
+    {
+      "added_at": "2023-09-29 00:01:00",
+      "album": {
+        "name": "Selense",
+        "url": "https://open.spotify.com/album/1VGhyaldHyoIHpVv95pzcO"
+      },
+      "artists": [
+        {
+          "name": "Frank Edwards",
+          "url": "https://open.spotify.com/artist/5gOBGZay8Nt5orlQI8UDDg"
+        }
+      ],
+      "duration_ms": 225153,
+      "name": "Selense",
+      "url": "https://open.spotify.com/track/2acuY3pMC7B8FAsqB499uh"
     },
     {
       "added_at": "2023-09-29 00:01:00",
@@ -851,74 +919,6 @@
       "duration_ms": 152622,
       "name": "WINNING",
       "url": "https://open.spotify.com/track/3kVj87QG8Bc055xu5A9jcW"
-    },
-    {
-      "added_at": "2023-09-29 00:01:00",
-      "album": {
-        "name": "Bianule",
-        "url": "https://open.spotify.com/album/6l7RCe4ohTuPzAdPBuvtdl"
-      },
-      "artists": [
-        {
-          "name": "Samsong",
-          "url": "https://open.spotify.com/artist/2vPVXxqaSgF7s5U5PrXNUS"
-        }
-      ],
-      "duration_ms": 284080,
-      "name": "Bianule",
-      "url": "https://open.spotify.com/track/1DMuaLKEiRKcGDiNhvIhOm"
-    },
-    {
-      "added_at": "2023-10-13 00:01:00",
-      "album": {
-        "name": "Hallelujah (feat. Dunsin Oyekan) [Live]",
-        "url": "https://open.spotify.com/album/0ebuJYKuAn6Of3jD5nC8CV"
-      },
-      "artists": [
-        {
-          "name": "Joe Mettle",
-          "url": "https://open.spotify.com/artist/1An6gOOlZ9NITlQs2ZtBCb"
-        },
-        {
-          "name": "Dunsin Oyekan",
-          "url": "https://open.spotify.com/artist/49BZ6sJNhvubVBsomYuLFM"
-        }
-      ],
-      "duration_ms": 320902,
-      "name": "Hallelujah (feat. Dunsin Oyekan) - Live",
-      "url": "https://open.spotify.com/track/3OwXa5v85UzgmQBieUscvu"
-    },
-    {
-      "added_at": "2023-09-29 00:01:00",
-      "album": {
-        "name": "Na You Dey Reign",
-        "url": "https://open.spotify.com/album/7EUG7ICDtR5G6FLseXjADm"
-      },
-      "artists": [
-        {
-          "name": "Mercy Chinwo",
-          "url": "https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp"
-        }
-      ],
-      "duration_ms": 267572,
-      "name": "Na You Dey Reign",
-      "url": "https://open.spotify.com/track/2cf0ayENplwaFuiG0aphAS"
-    },
-    {
-      "added_at": "2023-09-29 00:01:00",
-      "album": {
-        "name": "Selense",
-        "url": "https://open.spotify.com/album/1VGhyaldHyoIHpVv95pzcO"
-      },
-      "artists": [
-        {
-          "name": "Frank Edwards",
-          "url": "https://open.spotify.com/artist/5gOBGZay8Nt5orlQI8UDDg"
-        }
-      ],
-      "duration_ms": 225153,
-      "name": "Selense",
-      "url": "https://open.spotify.com/track/2acuY3pMC7B8FAsqB499uh"
     },
     {
       "added_at": "2023-09-29 00:01:00",

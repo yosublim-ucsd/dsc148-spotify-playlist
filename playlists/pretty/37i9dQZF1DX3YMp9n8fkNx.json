@@ -1,12 +1,12 @@
 {
   "description": "The essential pop rock songs from the 1990s. Cover: Matchbox Twenty",
-  "num_followers": 1281438,
+  "num_followers": 1281600,
   "original_name": "90s Pop Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0Zjc0YjVhODIxMjA5ODlhNTljMWU1MGJmMmE0ZTY2ZmE3MzJkN2Iz",
+  "snapshot_id": "MCxhZDg2YjBmMzBlNzBhMWVhN2Y5Nzg4YjAzMzUxZmFiNDQ0OTk4YzFm",
   "tracks": [
     {
       "added_at": "2023-01-18 21:25:04",
@@ -1323,22 +1323,6 @@
     {
       "added_at": "2023-01-18 21:25:04",
       "album": {
-        "name": "Doubt",
-        "url": "https://open.spotify.com/album/7hKst6QIxeAcpOx3o2y6mi"
-      },
-      "artists": [
-        {
-          "name": "Jesus Jones",
-          "url": "https://open.spotify.com/artist/0roeI3yPusDWwWRzAqTopw"
-        }
-      ],
-      "duration_ms": 189293,
-      "name": "Right Here Right Now",
-      "url": "https://open.spotify.com/track/3fcGGP62sllcNEhuFJVYeC"
-    },
-    {
-      "added_at": "2023-01-18 21:25:04",
-      "album": {
         "name": "Elastica",
         "url": "https://open.spotify.com/album/00MAXeszCotk3g9q8KYJlZ"
       },
@@ -1355,18 +1339,34 @@
     {
       "added_at": "2023-01-18 21:25:04",
       "album": {
-        "name": "Mobile Estates",
-        "url": "https://open.spotify.com/album/74T4OTGbvmJWobgc4ABtMq"
+        "name": "Doubt",
+        "url": "https://open.spotify.com/album/7hKst6QIxeAcpOx3o2y6mi"
       },
       "artists": [
         {
-          "name": "Citizen King",
-          "url": "https://open.spotify.com/artist/2Ca9nb6MJ3lwyF7dRNJm3M"
+          "name": "Jesus Jones",
+          "url": "https://open.spotify.com/artist/0roeI3yPusDWwWRzAqTopw"
         }
       ],
-      "duration_ms": 207026,
-      "name": "Better Days (And the Bottom Drops Out)",
-      "url": "https://open.spotify.com/track/460Wn6Dq2uMviG5nPXtPnb"
+      "duration_ms": 189293,
+      "name": "Right Here Right Now",
+      "url": "https://open.spotify.com/track/3fcGGP62sllcNEhuFJVYeC"
+    },
+    {
+      "added_at": "2023-01-18 21:25:04",
+      "album": {
+        "name": "Transmissions From the Satellite Heart",
+        "url": "https://open.spotify.com/album/0rr668ZzoNDQa1yxhSpBAw"
+      },
+      "artists": [
+        {
+          "name": "The Flaming Lips",
+          "url": "https://open.spotify.com/artist/16eRpMNXSQ15wuJoeqguaB"
+        }
+      ],
+      "duration_ms": 222278,
+      "name": "She Don't Use Jelly",
+      "url": "https://open.spotify.com/track/1dJuteDIOkGfDSN7zPkzNv"
     },
     {
       "added_at": "2023-01-18 21:25:04",
@@ -1387,18 +1387,18 @@
     {
       "added_at": "2023-01-18 21:25:04",
       "album": {
-        "name": "Transmissions From the Satellite Heart",
-        "url": "https://open.spotify.com/album/0rr668ZzoNDQa1yxhSpBAw"
+        "name": "Mobile Estates",
+        "url": "https://open.spotify.com/album/74T4OTGbvmJWobgc4ABtMq"
       },
       "artists": [
         {
-          "name": "The Flaming Lips",
-          "url": "https://open.spotify.com/artist/16eRpMNXSQ15wuJoeqguaB"
+          "name": "Citizen King",
+          "url": "https://open.spotify.com/artist/2Ca9nb6MJ3lwyF7dRNJm3M"
         }
       ],
-      "duration_ms": 222278,
-      "name": "She Don't Use Jelly",
-      "url": "https://open.spotify.com/track/1dJuteDIOkGfDSN7zPkzNv"
+      "duration_ms": 207026,
+      "name": "Better Days (And the Bottom Drops Out)",
+      "url": "https://open.spotify.com/track/460Wn6Dq2uMviG5nPXtPnb"
     },
     {
       "added_at": "2023-01-18 21:25:04",

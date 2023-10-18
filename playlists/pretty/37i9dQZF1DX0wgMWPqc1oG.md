@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0wgMWPqc1oG.md) - [plain]
 
 > The essential recordings from the beginning of the Post Bop era\. Cover: Freddie Hubbard
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,331 likes - 100 songs - 12 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,348 likes - 100 songs - 12 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,8 +49,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0wgMWPqc1oG.md) - [plain]
 | 39 | [The Intrepid Fox](https://open.spotify.com/track/3SHWZGAvCDcAajSAw3KRU6) | [Freddie Hubbard](https://open.spotify.com/artist/0fTHKjepK5HWOrb2rkS5Em) | [Red Clay](https://open.spotify.com/album/1EKOKpUcbqvwxFcmek60Za) | 10:43 |
 | 40 | [Most Like Lee](https://open.spotify.com/track/3JfUaUogPIFkw0u0hdMnLd) | [Lee Morgan](https://open.spotify.com/artist/38C3okxv3fyyOIQUVPCdGX) | [Cornbread](https://open.spotify.com/album/5aY4PliFxsCd55sgU5A2KQ) | 6:49 |
 | 41 | [First Trip \- Remastered](https://open.spotify.com/track/1OYzVFN2Ydp3nywDL6RPe4) | [Herbie Hancock](https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW) | [Speak Like A Child \(Expanded Edition\)](https://open.spotify.com/album/5KnNC5kCRiEGk7dZMjr07r) | 6:01 |
-| 42 | [Theme From Mr\. Broadway](https://open.spotify.com/track/2HFdLKXIT03e3GZABHw7K3) | [Oliver Nelson](https://open.spotify.com/artist/2nQKUeZeleLGNsJj6WLUXN) | [More Blues And The Abstract Truth](https://open.spotify.com/album/1seITlhNRDbQbTEEDzdbie) | 5:43 |
-| 43 | [The Collector \- Remastered](https://open.spotify.com/track/7DWiFL8ynmBx6kaU0gLQcT) | [Wayne Shorter](https://open.spotify.com/artist/0ZqhrTXYPA9DZR527ZnFdO) | [Adam's Apple \(Rudy Van Gelder Edition\)](https://open.spotify.com/album/4sxvTow8IffB0lisGJWb6Z) | 6:54 |
+| 42 | [The Collector \- Remastered](https://open.spotify.com/track/7DWiFL8ynmBx6kaU0gLQcT) | [Wayne Shorter](https://open.spotify.com/artist/0ZqhrTXYPA9DZR527ZnFdO) | [Adam's Apple \(Rudy Van Gelder Edition\)](https://open.spotify.com/album/4sxvTow8IffB0lisGJWb6Z) | 6:54 |
+| 43 | [Theme From Mr\. Broadway](https://open.spotify.com/track/2HFdLKXIT03e3GZABHw7K3) | [Oliver Nelson](https://open.spotify.com/artist/2nQKUeZeleLGNsJj6WLUXN) | [More Blues And The Abstract Truth](https://open.spotify.com/album/1seITlhNRDbQbTEEDzdbie) | 5:43 |
 | 44 | [R.J.](https://open.spotify.com/track/3rBVE16rpR9d9KivCflGON) | [Miles Davis](https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4) | [E.S.P\. \(2022 Remaster\)](https://open.spotify.com/album/16l5pMsJoz1KoHrxvXREBs) | 4:03 |
 | 45 | [Suite Sioux](https://open.spotify.com/track/64rHDxDhz71GtHxs5QBsQ5) | [Freddie Hubbard](https://open.spotify.com/artist/0fTHKjepK5HWOrb2rkS5Em) | [Red Clay](https://open.spotify.com/album/1EKOKpUcbqvwxFcmek60Za) | 8:44 |
 | 46 | [Punjab \- Remastered 2003 / Rudy Van Gelder Edition](https://open.spotify.com/track/64EpFQnk4OlbMl3fitdrp6) | [Joe Henderson](https://open.spotify.com/artist/3BG0nwVh3Gc7cuT4XdsLtt) | [In 'N Out \(The Rudy Van Gelder Edition\)](https://open.spotify.com/album/4KI0kC5rANmc5YeXyNshDr) | 9:07 |
@@ -64,8 +64,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0wgMWPqc1oG.md) - [plain]
 | 54 | [Hand Jive](https://open.spotify.com/track/31W4cIsWpn6zubliC06BsN) | [Miles Davis](https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4) | [Nefertiti \(Expanded Edition\)](https://open.spotify.com/album/4ilAxtGR8aOj6M8X1HeHPY) | 8:54 |
 | 55 | [Rebirth](https://open.spotify.com/track/0CmhyVSciWqxDxw94eC6p5) | [McCoy Tyner](https://open.spotify.com/artist/2EsmKkHsXK0WMNGOtIhbxr) | [Sahara](https://open.spotify.com/album/0njsEE2XyDZFPXUWiMNrBl) | 5:18 |
 | 56 | [Mr\. Jin \- Remastered](https://open.spotify.com/track/4LH1EhRiBEDeb7TtMpNKAJ) | [Art Blakey](https://open.spotify.com/artist/6QQuESLtKhAOcLW2TeWC2t) | [Indestructible](https://open.spotify.com/album/4qMDshn0sMrt3bf7C0mmCx) | 7:04 |
-| 57 | [Hub\-Tones \- Remastered 1999/Rudy Van Gelder Edition](https://open.spotify.com/track/19naWBsLEkWKc61ERtQ3xm) | [Freddie Hubbard](https://open.spotify.com/artist/0fTHKjepK5HWOrb2rkS5Em) | [Hub\-Tones](https://open.spotify.com/album/6WXQu3KjFlb9Hjwzy3vyS5) | 8:24 |
-| 58 | [Long Wharf](https://open.spotify.com/track/6PzBd5u8T312lggGnoeRGp) | [Roy Haynes Quartet](https://open.spotify.com/artist/4Gtcxqk0DjMyqqvYBr1RWX) | [Out Of The Afternoon](https://open.spotify.com/album/3zH8JfREa9pne9mPeqptfu) | 4:42 |
+| 57 | [Long Wharf](https://open.spotify.com/track/6PzBd5u8T312lggGnoeRGp) | [Roy Haynes Quartet](https://open.spotify.com/artist/4Gtcxqk0DjMyqqvYBr1RWX) | [Out Of The Afternoon](https://open.spotify.com/album/3zH8JfREa9pne9mPeqptfu) | 4:42 |
+| 58 | [Hub\-Tones \- Remastered 1999/Rudy Van Gelder Edition](https://open.spotify.com/track/19naWBsLEkWKc61ERtQ3xm) | [Freddie Hubbard](https://open.spotify.com/artist/0fTHKjepK5HWOrb2rkS5Em) | [Hub\-Tones](https://open.spotify.com/album/6WXQu3KjFlb9Hjwzy3vyS5) | 8:24 |
 | 59 | [Blessing In Disguise](https://open.spotify.com/track/6AZl7WAq1CfMTbMfgvZLFn) | [Sonny Rollins](https://open.spotify.com/artist/1VEzN9lxvG6KPR3QQGsebR) | [East Broadway Run Down](https://open.spotify.com/album/6VFSJ5bKlJaZBbJaMPYTXQ) | 12:22 |
 | 60 | [Perception \- Remastered 2005/Rudy Van Gelder Edition](https://open.spotify.com/track/0ofvMRAUIFzkrHthNTbxRB) | [The Blue Mitchell Quintet](https://open.spotify.com/artist/4WQ2WF6X178A17JiHI4bWj) | [Down With It! \(Remastered 2005/Rudy Van Gelder Edition\)](https://open.spotify.com/album/4CFxKByN51JAogIYt94jMF) | 5:42 |
 | 61 | [Pumpkin](https://open.spotify.com/track/6DLJbVq8dibC5xl46lxmj9) | [Andrew Hill](https://open.spotify.com/artist/4ORSNkNYSzva169PBZCzvy) | [Black Fire](https://open.spotify.com/album/5eTLd8qlHh0QHW6IF7Bi3J) | 5:23 |
@@ -88,8 +88,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0wgMWPqc1oG.md) - [plain]
 | 78 | [Off My Back Jack](https://open.spotify.com/track/3AtuHU0gxC9210nu0wK3tU) | [Max Roach](https://open.spotify.com/artist/6jrlNnS5B830kpi40j3S6g) | [The Max Roach Trio, Featuring The Legendary Hasaan Ibn Ali](https://open.spotify.com/album/5PRPdUdfuX532COPYP5AUX) | 5:13 |
 | 79 | [Idle While \- Remastered 2002/Rudy Van Gelder Edition](https://open.spotify.com/track/2SmyY2bDv75ogpDUqXEvL8) | [Bobby Hutcherson](https://open.spotify.com/artist/3uO6HG2JwyP744sg4PMmg5) | [Dialogue](https://open.spotify.com/album/5142jRc6IrvsI7F6V7tUy2) | 6:37 |
 | 80 | [Omega \- Rudy Van Gelder Edition; 2003 Digital Remaster; 24 Bit Mastering](https://open.spotify.com/track/6v9Dj4ouMavS8IAcRtvf9l) | [Jackie McLean](https://open.spotify.com/artist/1lB7KbOr9xdPK1CuasxmeA) | [Let Freedom Ring \(Rudy Van Gelder Edition\)](https://open.spotify.com/album/7cDdrBZaImUjYGqkir7bVw) | 8:30 |
-| 81 | [Bartók: Thumb Under](https://open.spotify.com/track/02lmMdDTxH58UIwpQ60PK8) | [Lee Konitz Quintet](https://open.spotify.com/artist/58qZcMEA6JYKQ1QHtBUkz2) | [Peacemeal](https://open.spotify.com/album/7dvmPixFQk7VT64HfSfIuh) | 3:14 |
-| 82 | [Chasin' The Trane \- Live At The Village Vanguard, 1961](https://open.spotify.com/track/1B8Wgwl8jM0k75FjDSy5SX) | [John Coltrane Quartet](https://open.spotify.com/artist/67PZTxaHKMZBFRUh8wIzCy) | [Live At The Village Vanguard](https://open.spotify.com/album/4EXNLdBIHvX40boSdW7dc5) | 16:11 |
+| 81 | [Chasin' The Trane \- Live At The Village Vanguard, 1961](https://open.spotify.com/track/1B8Wgwl8jM0k75FjDSy5SX) | [John Coltrane Quartet](https://open.spotify.com/artist/67PZTxaHKMZBFRUh8wIzCy) | [Live At The Village Vanguard](https://open.spotify.com/album/4EXNLdBIHvX40boSdW7dc5) | 16:11 |
+| 82 | [Bartók: Thumb Under](https://open.spotify.com/track/02lmMdDTxH58UIwpQ60PK8) | [Lee Konitz Quintet](https://open.spotify.com/artist/58qZcMEA6JYKQ1QHtBUkz2) | [Peacemeal](https://open.spotify.com/album/7dvmPixFQk7VT64HfSfIuh) | 3:14 |
 | 83 | [One Shirt \- Remastered 2005/Rudy Van Gelder Edition](https://open.spotify.com/track/6JmgSVF28ADJ3S8KWODQuk) | [The Blue Mitchell Quintet](https://open.spotify.com/artist/4WQ2WF6X178A17JiHI4bWj) | [Down With It! \(Remastered 2005/Rudy Van Gelder Edition\)](https://open.spotify.com/album/4CFxKByN51JAogIYt94jMF) | 7:30 |
 | 84 | [Black Fire \- Remastered 2003/Rudy Van Gelder Edition](https://open.spotify.com/track/3hVs1j5bcQaTdmOaby65RL) | [Andrew Hill](https://open.spotify.com/artist/4ORSNkNYSzva169PBZCzvy) | [Black Fire](https://open.spotify.com/album/2XOQztLkohDDWZH8DEECkQ) | 6:56 |
 | 85 | [In The Truth](https://open.spotify.com/track/2QdzdWDxxwG1XJdL4iAX4U) | [Elvin Jones](https://open.spotify.com/artist/4dUMhhUjQ2YcNTvab29hYF) | [The Ultimate](https://open.spotify.com/album/2ppTwBc53nvo0GEtQ53XSp) | 5:02 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0wgMWPqc1oG.md) - [plain]
 | 99 | [Breaking Point \- Remastered 2004](https://open.spotify.com/track/45wnqKMg6CEL48lWMqCvQt) | [Freddie Hubbard](https://open.spotify.com/artist/0fTHKjepK5HWOrb2rkS5Em) | [Breaking Point](https://open.spotify.com/album/0FeZbhuzIoD7E5ru2eDpIH) | 10:19 |
 | 100 | [Consequence \- Remastered](https://open.spotify.com/track/0wl0WUMMe94DuZhc4qKe7X) | [Jackie McLean](https://open.spotify.com/artist/1lB7KbOr9xdPK1CuasxmeA) | [Consequence](https://open.spotify.com/album/1fIhToDoSSkcQa0L0DK2Dx) | 5:32 |
 
-Snapshot ID: `MCxmYTZhMzAxYzIzYmM5YWU0YzBlYTNjOTVhMTUwNzc1NTQ0ZWM5NmNj`
+Snapshot ID: `MCwwMDlkMjM4NTdmOWRlZGFiN2ViZmE5MGMzNzkyYjMxNTFlMWJmZWM2`

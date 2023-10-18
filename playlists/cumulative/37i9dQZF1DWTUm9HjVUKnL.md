@@ -4,7 +4,7 @@
 
 > The full collection of Spotify Singles recordings\. Cover: Bad Snacks.<br/>Feeling inspired? Check out Bad Snacks' exclusive sound pack for <a href=“https://www.soundtrap.com/”>Soundtrap, </a>  Spotify’s online music studio for songwriters and beat makers.
 
-1,100 songs - 2 day 19 hr 8 min
+1,102 songs - 2 day 19 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -363,6 +363,7 @@
 | [Goodpain \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/2ldb6EW2R2aiSlYOK2kOLy) | [Yoke Lore](https://open.spotify.com/artist/7FU0xCgmSYQEiBeevUqQ4S) | [Spotify Singles](https://open.spotify.com/album/1MIrKfOLcpv4bBLRJg8AnH) | 4:21 | 2022-01-19 | 2022-07-29 |
 | [Gotta Push On \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/2kYH333mwLsMlZsRERqOMK) | [GRiZ](https://open.spotify.com/artist/25oLRSUjJk4YHNUsQXk7Ut), [Eric Krasno](https://open.spotify.com/artist/6tQIsqw6DrDfdoPwOrOD6k) | [Spotify Singles](https://open.spotify.com/album/4ma8f0czTWlb6WKXpsuykT) | 4:11 | 2022-01-19 |  |
 | [Green Eyes \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/3cjElM51VC09D0pMM2Ue9E) | [Aubrie Sellers](https://open.spotify.com/artist/27IiEYV6p8fs5j8n39Pk1u) | [Spotify Singles](https://open.spotify.com/album/6zKsXG7Q3k2HFLHY4i3tGU) | 4:38 | 2022-01-19 |  |
+| [GREEN GOBLIN \- Spotify Singles](https://open.spotify.com/track/1OiiHxQFLMftJpw5C8Vrar) | [Odetari](https://open.spotify.com/artist/7ITMCzIU9uII8gwRg8JAhc) | [Spotify Singles](https://open.spotify.com/album/1fCKaE5RLL5N26iReqbVPp) | 2:09 | 2023-10-17 |  |
 | [Green Lights \- Recorded At Spotify Studios NYC](https://open.spotify.com/track/2SYZVSHVz8tpnjjnM5ZsZs) | [Sarah Jarosz](https://open.spotify.com/artist/6nFBonVf7Lqaj05R0v5VGJ) | [Spotify Singles](https://open.spotify.com/album/1fL8ABOXukxK8fbjLLNcBk) | 3:34 | 2022-01-19 |  |
 | [Green Wine](https://open.spotify.com/track/0zlj031DreL4yX72vk7Ib5) | [Andrew Bird](https://open.spotify.com/artist/4uSftVc3FPWe6RJuMZNEe9) | [Spotify Singles](https://open.spotify.com/album/5o5o3S9tQZN6jWgCdOk0d2) | 3:34 | 2022-01-19 |  |
 | [Guess Who I Saw Today \- Spotify Singles](https://open.spotify.com/track/4y8HI6WI29umdAguVPwFpu) | [Samara Joy](https://open.spotify.com/artist/5LkbTSqXfMBjFSGi9LOGjq) | [Spotify Singles](https://open.spotify.com/album/6nsgXwSLcvYXr4RF2JiN7z) | 6:08 | 2023-02-01 |  |
@@ -656,6 +657,7 @@
 | [Miss Independent \- Spotify Singles](https://open.spotify.com/track/3gbeY1MzOJ5X7SWItYD0jk) | [Meet Me @ The Altar](https://open.spotify.com/artist/4bzfsZhaLW6VWHLh1sqcrK) | [Spotify Singles](https://open.spotify.com/album/62LIDyIEMgZU8c7oyGHAhL) | 3:32 | 2023-06-14 |  |
 | [Miss Me More \- Recorded at Sound Stage Studios Nashville](https://open.spotify.com/track/7oR9f1oXlG40AgSkwfxf3M) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF) | [Spotify Singles](https://open.spotify.com/album/0FbO77jrZy4CcXbtR0hqIE) | 3:13 | 2022-01-19 |  |
 | [Misty \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/034ZKE6KJpa8yVpAPQ9AMT) | [Sam Barsh](https://open.spotify.com/artist/4vVYohuzsd1OIOpYw2FuER), [The Deli](https://open.spotify.com/artist/1EJzWKVDeysgbyuZGfEFde) | [Spotify Singles \(Recorded at Spotify Studios NYC\)](https://open.spotify.com/album/6JxnS1pZVWSZW4qtr2gfEu) | 1:38 | 2022-01-19 |  |
+| [Monster \- Spotify Singles](https://open.spotify.com/track/2EYDqen8Pftl3ENvqOs6fE) | [Slayyyter](https://open.spotify.com/artist/4QM5QCHicznALtX885CnZC) | [Monster \(Spotify Singles\)](https://open.spotify.com/album/62iTVhERPubeRu59a3HRqF) | 3:57 | 2023-10-17 |  |
 | [More Than Words \- Spotify Singles](https://open.spotify.com/track/6OOTtXpBTXSJYCgKf6zjae) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Spotify Singles](https://open.spotify.com/album/0lVcgikFRVzcHtmNCZfgT1) | 3:33 | 2022-01-19 |  |
 | [More Than You Know \- Recorded at Metropolis Studios, London](https://open.spotify.com/track/05ONwzNSWzywHG4wRT8V7o) | [Fenne Lily](https://open.spotify.com/artist/7iPH2BRBF9wKa6ljxvdext) | [Spotify Singles](https://open.spotify.com/album/1SMUYWhPwuZzNR7Q0PGz8o) | 3:40 | 2022-07-05 |  |
 | [More Than You Know \- Recorded at Metropolis Studios, London](https://open.spotify.com/track/0IBjwCuG1fEjk5OenvuL6B) | [Fenne Lily](https://open.spotify.com/artist/7iPH2BRBF9wKa6ljxvdext) | [Spotify Singles](https://open.spotify.com/album/0iFbPnngmZnbKKeOR9r18P) | 3:40 | 2022-01-19 | 2022-07-29 |

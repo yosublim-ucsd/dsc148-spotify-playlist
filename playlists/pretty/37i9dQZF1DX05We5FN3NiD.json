@@ -1,12 +1,12 @@
 {
   "description": "2019 highlights from the home of indie music.",
-  "num_followers": 40830,
+  "num_followers": 40838,
   "original_name": "Best of Indie 2019",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiYmMwMmQ4MTRhNjY4MDNiMTdhYTZmOTNlNzAyOTVjYmQ0ZWJhMDEy",
+  "snapshot_id": "MCxmZjg2YTJhYzFkZTc5OGM0NDg1MzVjYWZkMTlmZGI3YzZlMGQwMzkx",
   "tracks": [
     {
       "added_at": "2022-09-16 04:53:36",
@@ -535,22 +535,6 @@
     {
       "added_at": "2022-09-16 04:53:36",
       "album": {
-        "name": "Now and Then",
-        "url": "https://open.spotify.com/album/4rfUHJjRb1Ywh0Gg8SEUcA"
-      },
-      "artists": [
-        {
-          "name": "khai dreams",
-          "url": "https://open.spotify.com/artist/0lawSNBxNgJFQYJnQzLH8c"
-        }
-      ],
-      "duration_ms": 126464,
-      "name": "Sunkissed",
-      "url": "https://open.spotify.com/track/34RmzDXMv0ELSQTK4pNvX3"
-    },
-    {
-      "added_at": "2022-09-16 04:53:36",
-      "album": {
         "name": "i'll die anyway.",
         "url": "https://open.spotify.com/album/4Zt3XT3vADR97nZGrFoSOY"
       },
@@ -563,6 +547,22 @@
       "duration_ms": 192612,
       "name": "i'll die anyway.",
       "url": "https://open.spotify.com/track/14tud1FLjpHMYHpD2c7NbO"
+    },
+    {
+      "added_at": "2022-09-16 04:53:36",
+      "album": {
+        "name": "Now and Then",
+        "url": "https://open.spotify.com/album/4rfUHJjRb1Ywh0Gg8SEUcA"
+      },
+      "artists": [
+        {
+          "name": "khai dreams",
+          "url": "https://open.spotify.com/artist/0lawSNBxNgJFQYJnQzLH8c"
+        }
+      ],
+      "duration_ms": 126464,
+      "name": "Sunkissed",
+      "url": "https://open.spotify.com/track/34RmzDXMv0ELSQTK4pNvX3"
     },
     {
       "added_at": "2022-09-16 04:53:36",
@@ -879,22 +879,6 @@
     {
       "added_at": "2022-09-16 04:53:36",
       "album": {
-        "name": "Father of the Bride",
-        "url": "https://open.spotify.com/album/1A3nVEWRJ8yvlPzawHI1pQ"
-      },
-      "artists": [
-        {
-          "name": "Vampire Weekend",
-          "url": "https://open.spotify.com/artist/5BvJzeQpmsdsFp4HGUYUEx"
-        }
-      ],
-      "duration_ms": 308733,
-      "name": "Harmony Hall",
-      "url": "https://open.spotify.com/track/39exKIvycQDgs4T6uXdyu0"
-    },
-    {
-      "added_at": "2022-09-16 04:53:36",
-      "album": {
         "name": "MAGDALENE",
         "url": "https://open.spotify.com/album/3DMR3yM5crnt1dG9lLaMTZ"
       },
@@ -907,6 +891,22 @@
       "duration_ms": 204066,
       "name": "cellophane",
       "url": "https://open.spotify.com/track/7x8pIrhMu9FCmqqHNyuH0P"
+    },
+    {
+      "added_at": "2022-09-16 04:53:36",
+      "album": {
+        "name": "Pony",
+        "url": "https://open.spotify.com/album/5CNckxfLf4TCoMOoxgAU8l"
+      },
+      "artists": [
+        {
+          "name": "Rex Orange County",
+          "url": "https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL"
+        }
+      ],
+      "duration_ms": 146093,
+      "name": "10/10",
+      "url": "https://open.spotify.com/track/4tVphly4D1PB8tJC9gHMcJ"
     },
     {
       "added_at": "2022-09-16 04:53:36",
@@ -927,6 +927,22 @@
     {
       "added_at": "2022-09-16 04:53:36",
       "album": {
+        "name": "Father of the Bride",
+        "url": "https://open.spotify.com/album/1A3nVEWRJ8yvlPzawHI1pQ"
+      },
+      "artists": [
+        {
+          "name": "Vampire Weekend",
+          "url": "https://open.spotify.com/artist/5BvJzeQpmsdsFp4HGUYUEx"
+        }
+      ],
+      "duration_ms": 308733,
+      "name": "Harmony Hall",
+      "url": "https://open.spotify.com/track/39exKIvycQDgs4T6uXdyu0"
+    },
+    {
+      "added_at": "2022-09-16 04:53:36",
+      "album": {
         "name": "Everything Else Has Gone Wrong",
         "url": "https://open.spotify.com/album/11yHtE6IzOk6elh9cJzldJ"
       },
@@ -939,22 +955,6 @@
       "duration_ms": 219893,
       "name": "Eat, Sleep, Wake (Nothing But You)",
       "url": "https://open.spotify.com/track/3nClCcBmn9NnrRQkQTkx1J"
-    },
-    {
-      "added_at": "2022-09-16 04:53:36",
-      "album": {
-        "name": "Pony",
-        "url": "https://open.spotify.com/album/5CNckxfLf4TCoMOoxgAU8l"
-      },
-      "artists": [
-        {
-          "name": "Rex Orange County",
-          "url": "https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL"
-        }
-      ],
-      "duration_ms": 146093,
-      "name": "10/10",
-      "url": "https://open.spotify.com/track/4tVphly4D1PB8tJC9gHMcJ"
     },
     {
       "added_at": "2022-09-16 04:53:36",
@@ -1027,22 +1027,6 @@
     {
       "added_at": "2022-09-16 04:53:36",
       "album": {
-        "name": "Pony",
-        "url": "https://open.spotify.com/album/5CNckxfLf4TCoMOoxgAU8l"
-      },
-      "artists": [
-        {
-          "name": "Rex Orange County",
-          "url": "https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL"
-        }
-      ],
-      "duration_ms": 219800,
-      "name": "Face to Face",
-      "url": "https://open.spotify.com/track/0YdIIMb2MHuxoUudkAY9gS"
-    },
-    {
-      "added_at": "2022-09-16 04:53:36",
-      "album": {
         "name": "She Plays Bass",
         "url": "https://open.spotify.com/album/6aSy1zAuCiFQxUFITf3ymw"
       },
@@ -1075,6 +1059,22 @@
     {
       "added_at": "2022-09-16 04:53:36",
       "album": {
+        "name": "Pony",
+        "url": "https://open.spotify.com/album/5CNckxfLf4TCoMOoxgAU8l"
+      },
+      "artists": [
+        {
+          "name": "Rex Orange County",
+          "url": "https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL"
+        }
+      ],
+      "duration_ms": 219800,
+      "name": "Face to Face",
+      "url": "https://open.spotify.com/track/0YdIIMb2MHuxoUudkAY9gS"
+    },
+    {
+      "added_at": "2022-09-16 04:53:36",
+      "album": {
         "name": "Let You Know",
         "url": "https://open.spotify.com/album/0JWZvxiJLvRQwqKL2IhcD0"
       },
@@ -1095,22 +1095,6 @@
     {
       "added_at": "2022-09-16 04:53:36",
       "album": {
-        "name": "Women In Music Pt. III",
-        "url": "https://open.spotify.com/album/396EJBtUzseofX2YCBJVvM"
-      },
-      "artists": [
-        {
-          "name": "HAIM",
-          "url": "https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE"
-        }
-      ],
-      "duration_ms": 204280,
-      "name": "Now I'm In It - Bonus Track",
-      "url": "https://open.spotify.com/track/5T8OICEqdqbx8Uz7L5abkH"
-    },
-    {
-      "added_at": "2022-09-16 04:53:36",
-      "album": {
         "name": "Jenny of Oldstones (Game of Thrones)",
         "url": "https://open.spotify.com/album/1R6GYgEbpObUZC2btPQlqB"
       },
@@ -1123,6 +1107,22 @@
       "duration_ms": 188638,
       "name": "Jenny of Oldstones (Game of Thrones)",
       "url": "https://open.spotify.com/track/1u0THw5xaGd7sYzJEh48Lt"
+    },
+    {
+      "added_at": "2022-09-16 04:53:36",
+      "album": {
+        "name": "Women In Music Pt. III",
+        "url": "https://open.spotify.com/album/396EJBtUzseofX2YCBJVvM"
+      },
+      "artists": [
+        {
+          "name": "HAIM",
+          "url": "https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE"
+        }
+      ],
+      "duration_ms": 204280,
+      "name": "Now I'm In It - Bonus Track",
+      "url": "https://open.spotify.com/track/5T8OICEqdqbx8Uz7L5abkH"
     },
     {
       "added_at": "2022-09-16 04:53:36",
@@ -1211,22 +1211,6 @@
     {
       "added_at": "2022-09-16 04:53:36",
       "album": {
-        "name": "Outer Peace",
-        "url": "https://open.spotify.com/album/4kacwUKxOLBmawdgRg2Xri"
-      },
-      "artists": [
-        {
-          "name": "Toro y Moi",
-          "url": "https://open.spotify.com/artist/6O4EGCCb6DoIiR6B1QCQgp"
-        }
-      ],
-      "duration_ms": 183752,
-      "name": "Ordinary Pleasure",
-      "url": "https://open.spotify.com/track/0Dh7LsAuAyaaucEMD5ULHV"
-    },
-    {
-      "added_at": "2022-09-16 04:53:36",
-      "album": {
         "name": "Fuzzybrain",
         "url": "https://open.spotify.com/album/7GYzQIMfdDWo2XC4BDLHPk"
       },
@@ -1239,6 +1223,22 @@
       "duration_ms": 219428,
       "name": "Fuzzybrain",
       "url": "https://open.spotify.com/track/5sVXCez77vrBgDoeJKfv4U"
+    },
+    {
+      "added_at": "2022-09-16 04:53:36",
+      "album": {
+        "name": "Outer Peace",
+        "url": "https://open.spotify.com/album/4kacwUKxOLBmawdgRg2Xri"
+      },
+      "artists": [
+        {
+          "name": "Toro y Moi",
+          "url": "https://open.spotify.com/artist/6O4EGCCb6DoIiR6B1QCQgp"
+        }
+      ],
+      "duration_ms": 183752,
+      "name": "Ordinary Pleasure",
+      "url": "https://open.spotify.com/track/0Dh7LsAuAyaaucEMD5ULHV"
     },
     {
       "added_at": "2022-09-16 04:53:36",

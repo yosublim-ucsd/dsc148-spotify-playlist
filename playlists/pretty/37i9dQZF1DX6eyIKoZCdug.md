@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6eyIKoZCdug.md) - [plain]
 
 > From Joburg and Lagos..\. to Chicago\. Get lost in the electro and bass vibes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 129,158 likes - 52 songs - 5 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 129,200 likes - 52 songs - 5 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,7 +34,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6eyIKoZCdug.md) - [plain]
 | 24 | [Nkanyezi](https://open.spotify.com/track/16qkCa4zVqLCEYSMWcQHG5) | [Oscar Mbo](https://open.spotify.com/artist/6rPG97md3RdzwNc1eJQQNX), [DJ LESOUL](https://open.spotify.com/artist/5C6dZk6xmSCgrYWjje5zPm), [Simmy](https://open.spotify.com/artist/3MjlXVCfmLdY9QQ2GCd7iA) | [My Story](https://open.spotify.com/album/4VK04E5cKOGEQHnpE6ysge) | 5:04 |
 | 25 | [Winyo Nungo](https://open.spotify.com/track/0EUOQmN7T9RdEBSAycGKPf) | [Coco Em](https://open.spotify.com/artist/3FahF8OhHNaw7OJRfEPy9x), [MC Sharon](https://open.spotify.com/artist/1v0VhEUG0iYPL5tPSnevwU), [Wuod Baba](https://open.spotify.com/artist/4rAirvviydqi31uAzrPz96) | [Winyo Nungo](https://open.spotify.com/album/53y3fTWp5plW1BIk3Wh3qA) | 2:57 |
 | 26 | [JAGERMEISTER](https://open.spotify.com/track/3VBwoaePYGdOmG1YHgGOHi) | [Ice Beats Slide](https://open.spotify.com/artist/6ynMrlCLJfmijr0XFdtvH5), [Sbuda Maleather](https://open.spotify.com/artist/0vOrz3mJAqpGuC53lbEOeq), [2woBunnies](https://open.spotify.com/artist/45c90J0Hvj1PMIFtm0b1ML) | [JAGERMEISTER](https://open.spotify.com/album/5Tk2uNjYtHL9V0uEhSQAYx) | 5:27 |
-| 27 | [Maya](https://open.spotify.com/track/37aSg02eKxZMSueTi5qE89) | [Pierre Johnson](https://open.spotify.com/artist/2CUjvq6GOAGAMyN3zDyfXz) | [Maya](https://open.spotify.com/album/2hfNUwkRhfw7VjCWIQU4hZ) | 6:39 |
+| 27 | [Maya](https://open.spotify.com/track/4XMD1mr6aE5BnJ1yjhBhUz) | [Pierre Johnson](https://open.spotify.com/artist/2CUjvq6GOAGAMyN3zDyfXz) | [Maya](https://open.spotify.com/album/0icraFyyHdOz3pxh9o3UbH) | 6:39 |
 | 28 | [Khala Zome \(feat\. Mbuso Khoza\) \- \[Lemon & Herb Remix\]](https://open.spotify.com/track/2WEHnvmu4vbOe1AXeNzG5Y) | [KingSfiso](https://open.spotify.com/artist/3xAufCvmDKxcXZOE3p9lSH), [Mbuso Khoza](https://open.spotify.com/artist/0IqdIwmnDCHg3LogqhJvpW), [Lemon & Herb](https://open.spotify.com/artist/0YbodxZ8dsnWW002EWS51w) | [Khala Zome \(feat\. Mbuso Khoza\) \[Lemon & Herb Remix\]](https://open.spotify.com/album/0uOvmhT2t99UemSCTGNynk) | 7:36 |
 | 29 | [uMgqibelo](https://open.spotify.com/track/6oOESqnGfjidIGm9hvczPZ) | [DJ Sandiso](https://open.spotify.com/artist/2o7oc7fiP2eeLgKzKROgVg), [Yanga Chief](https://open.spotify.com/artist/30WlMKuvwN6RrMeLARZeqk), [QUE DJ](https://open.spotify.com/artist/6ZKszbUwWSNSc0VydBBAka), [Dee Traits](https://open.spotify.com/artist/78WiGrXy247kAziQ7GATKv), [Omagoqa](https://open.spotify.com/artist/1oCjN8hhziP39N373DqmQn) | [Nande 2.0](https://open.spotify.com/album/4Z7cviz5RPiOFwke0SQ8NH) | 5:09 |
 | 30 | [Saliya Dub](https://open.spotify.com/track/2B8nRDOXsRrH2bQIw8DUr5) | [Razoof](https://open.spotify.com/artist/6roDS2aXza80gIF5OoTrfE), [Pa Bobo Jobarteh](https://open.spotify.com/artist/4t31Axj26clQ33oNA56Ata) | [Saliya Dub](https://open.spotify.com/album/1TBsYfDBweAsVNtnPJFWOW) | 5:36 |
@@ -61,4 +61,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6eyIKoZCdug.md) - [plain]
 | 51 | [Monomotapa](https://open.spotify.com/track/0MD5Buq17s57F0nVl0RTmL) | [Alexsir](https://open.spotify.com/artist/4FLRxCAmG1oFet1kpYpyGV), [Trust SA](https://open.spotify.com/artist/173xrrCL3L2xcLYY4hLG9I) | [Next Generation](https://open.spotify.com/album/5NoiK1Ficn4j116VmnpaKb) | 5:42 |
 | 52 | [Xelela Abazali](https://open.spotify.com/track/2URYteekU6AYCIuEYxHJXk) | [Deep Sen](https://open.spotify.com/artist/4Ld6Rt2l5Fmd2G39BeZeIv), [KingTalkzin](https://open.spotify.com/artist/4Wj3cC5wZc8XTXz1mn4bMa), [KnightSA](https://open.spotify.com/artist/0Zn2gTUEoVSwXsuZ3v2aoq), [Russell Zuma](https://open.spotify.com/artist/0juy2RagFC1qDPlMhEkepe) | [Xelela Abazali](https://open.spotify.com/album/3Ud3F9eyj8if4o7TSbtZHA) | 6:34 |
 
-Snapshot ID: `MCwyYWQwZGU2YjZhOTRlODAwYzNjOGMwNDhhOWEyN2IwZmY2NTM0YzAz`
+Snapshot ID: `MCw4MmY3ZTY4OTk4ODhhMzIzMzAwMDU3ZmQzMmNhNmVjODc1NWZiYjg4`

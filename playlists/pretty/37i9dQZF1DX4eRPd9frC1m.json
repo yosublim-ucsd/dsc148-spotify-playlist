@@ -1,12 +1,12 @@
 {
   "description": "Aggressive trap and bass for the <a href=\"spotify:genre:edm_dance\">gym</a>.",
-  "num_followers": 2581049,
+  "num_followers": 2581276,
   "original_name": "Hype",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkNzExYjk2NjQwMmE5ZWVmYzViMDQ5OWNkNDU0MWYzZmZmNWZmZWQ3",
+  "snapshot_id": "MCwwZWQwZDVmZTUyM2M0YzEwNjc5ZGZhMTJkZDU1ZmZjZDI5OWQ1YjQy",
   "tracks": [
     {
       "added_at": "2023-10-13 04:00:00",
@@ -427,22 +427,22 @@
     {
       "added_at": "2023-10-13 04:00:00",
       "album": {
-        "name": "BRAVE",
-        "url": "https://open.spotify.com/album/5brsR3l3zFhJ4jGXh0wfF7"
+        "name": "Fight Back",
+        "url": "https://open.spotify.com/album/4iTii2lDbEYYnZJBkU9p75"
       },
       "artists": [
         {
-          "name": "JOYRYDE",
-          "url": "https://open.spotify.com/artist/24neLwyYRyj4ItaGnFeIT0"
+          "name": "EBEN",
+          "url": "https://open.spotify.com/artist/02J7bo06ZZ1XmSGochlWak"
         },
         {
-          "name": "Freddie Gibbs",
-          "url": "https://open.spotify.com/artist/0Y4inQK6OespitzD6ijMwb"
+          "name": "Godmode",
+          "url": "https://open.spotify.com/artist/3R4VCoPt7V1poOWpdU43X8"
         }
       ],
-      "duration_ms": 220839,
-      "name": "DAMN",
-      "url": "https://open.spotify.com/track/3sI0ekqQTE7NxdZhNFqF93"
+      "duration_ms": 182580,
+      "name": "Fight Back",
+      "url": "https://open.spotify.com/track/3vcX4GCAbXAkCJtwNqyeHv"
     },
     {
       "added_at": "2023-10-13 04:00:00",
@@ -467,22 +467,22 @@
     {
       "added_at": "2023-10-13 04:00:00",
       "album": {
-        "name": "Fight Back",
-        "url": "https://open.spotify.com/album/4iTii2lDbEYYnZJBkU9p75"
+        "name": "BRAVE",
+        "url": "https://open.spotify.com/album/5brsR3l3zFhJ4jGXh0wfF7"
       },
       "artists": [
         {
-          "name": "EBEN",
-          "url": "https://open.spotify.com/artist/02J7bo06ZZ1XmSGochlWak"
+          "name": "JOYRYDE",
+          "url": "https://open.spotify.com/artist/24neLwyYRyj4ItaGnFeIT0"
         },
         {
-          "name": "Godmode",
-          "url": "https://open.spotify.com/artist/3R4VCoPt7V1poOWpdU43X8"
+          "name": "Freddie Gibbs",
+          "url": "https://open.spotify.com/artist/0Y4inQK6OespitzD6ijMwb"
         }
       ],
-      "duration_ms": 182580,
-      "name": "Fight Back",
-      "url": "https://open.spotify.com/track/3vcX4GCAbXAkCJtwNqyeHv"
+      "duration_ms": 220839,
+      "name": "DAMN",
+      "url": "https://open.spotify.com/track/3sI0ekqQTE7NxdZhNFqF93"
     },
     {
       "added_at": "2023-10-13 04:00:00",
@@ -671,6 +671,26 @@
       "duration_ms": 139805,
       "name": "Old School",
       "url": "https://open.spotify.com/track/6ctmKiHf2CcHQLwT7g4jpc"
+    },
+    {
+      "added_at": "2023-10-13 04:00:00",
+      "album": {
+        "name": "Flip It",
+        "url": "https://open.spotify.com/album/6pdKC8JtPq2fbz8er190xE"
+      },
+      "artists": [
+        {
+          "name": "Levity",
+          "url": "https://open.spotify.com/artist/1PbO7aQiVeKbGp8GYWDL9C"
+        },
+        {
+          "name": "Dem Jointz",
+          "url": "https://open.spotify.com/artist/2AUT4fNQ2QC0e2f5pIxOCd"
+        }
+      ],
+      "duration_ms": 135000,
+      "name": "Flip It",
+      "url": "https://open.spotify.com/track/4NDhaxAmbKXM8LKrOPNxsy"
     },
     {
       "added_at": "2023-10-13 04:00:00",
@@ -875,46 +895,6 @@
     {
       "added_at": "2023-10-13 04:00:00",
       "album": {
-        "name": "Flip It",
-        "url": "https://open.spotify.com/album/6pdKC8JtPq2fbz8er190xE"
-      },
-      "artists": [
-        {
-          "name": "Levity",
-          "url": "https://open.spotify.com/artist/1PbO7aQiVeKbGp8GYWDL9C"
-        },
-        {
-          "name": "Dem Jointz",
-          "url": "https://open.spotify.com/artist/2AUT4fNQ2QC0e2f5pIxOCd"
-        }
-      ],
-      "duration_ms": 135000,
-      "name": "Flip It",
-      "url": "https://open.spotify.com/track/4NDhaxAmbKXM8LKrOPNxsy"
-    },
-    {
-      "added_at": "2023-10-13 04:00:00",
-      "album": {
-        "name": "Breach",
-        "url": "https://open.spotify.com/album/5AHBWAHdJuIY5K6nIcHgJE"
-      },
-      "artists": [
-        {
-          "name": "RL Grime",
-          "url": "https://open.spotify.com/artist/5eIbEEQnDM8yuDVB0bimSP"
-        },
-        {
-          "name": "Juelz",
-          "url": "https://open.spotify.com/artist/04p1jV00pBnrmh2rKl0jnT"
-        }
-      ],
-      "duration_ms": 249090,
-      "name": "Breach",
-      "url": "https://open.spotify.com/track/3vSYtWxpOfhp54VGGxCZrn"
-    },
-    {
-      "added_at": "2023-10-13 04:00:00",
-      "album": {
         "name": "Wake Up",
         "url": "https://open.spotify.com/album/6XksTsraziHCTkhT141Qsw"
       },
@@ -951,6 +931,26 @@
       "duration_ms": 182000,
       "name": "Sacrificial",
       "url": "https://open.spotify.com/track/5YvYKEQEYJp4orh4z3Dnpk"
+    },
+    {
+      "added_at": "2023-10-13 04:00:00",
+      "album": {
+        "name": "Breach",
+        "url": "https://open.spotify.com/album/5AHBWAHdJuIY5K6nIcHgJE"
+      },
+      "artists": [
+        {
+          "name": "RL Grime",
+          "url": "https://open.spotify.com/artist/5eIbEEQnDM8yuDVB0bimSP"
+        },
+        {
+          "name": "Juelz",
+          "url": "https://open.spotify.com/artist/04p1jV00pBnrmh2rKl0jnT"
+        }
+      ],
+      "duration_ms": 249090,
+      "name": "Breach",
+      "url": "https://open.spotify.com/track/3vSYtWxpOfhp54VGGxCZrn"
     },
     {
       "added_at": "2023-10-13 04:00:00",
@@ -1011,6 +1011,22 @@
     {
       "added_at": "2023-10-13 04:00:00",
       "album": {
+        "name": "Vibe Check",
+        "url": "https://open.spotify.com/album/4kUGKsVNrxh8ckruujWaaJ"
+      },
+      "artists": [
+        {
+          "name": "GRiZ",
+          "url": "https://open.spotify.com/artist/25oLRSUjJk4YHNUsQXk7Ut"
+        }
+      ],
+      "duration_ms": 169600,
+      "name": "Vibe Check",
+      "url": "https://open.spotify.com/track/6e2kwYm4qe4hFbOkLm4nbF"
+    },
+    {
+      "added_at": "2023-10-13 04:00:00",
+      "album": {
         "name": "GORILLA WARFARE",
         "url": "https://open.spotify.com/album/5T8GgvkUuurpkaYsoTA1Dx"
       },
@@ -1031,22 +1047,6 @@
       "duration_ms": 156800,
       "name": "WARFARE",
       "url": "https://open.spotify.com/track/6lKOsX2JpmCcOf1ja3Xu6g"
-    },
-    {
-      "added_at": "2023-10-13 04:00:00",
-      "album": {
-        "name": "Vibe Check",
-        "url": "https://open.spotify.com/album/4kUGKsVNrxh8ckruujWaaJ"
-      },
-      "artists": [
-        {
-          "name": "GRiZ",
-          "url": "https://open.spotify.com/artist/25oLRSUjJk4YHNUsQXk7Ut"
-        }
-      ],
-      "duration_ms": 169600,
-      "name": "Vibe Check",
-      "url": "https://open.spotify.com/track/6e2kwYm4qe4hFbOkLm4nbF"
     },
     {
       "added_at": "2023-10-13 04:00:00",

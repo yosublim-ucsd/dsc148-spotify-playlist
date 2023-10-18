@@ -4,7 +4,7 @@
 
 > The original chill instrumental beats playlist.
 
-3,698 songs - 5 day 21 hr 41 min
+3,699 songs - 5 day 21 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -759,7 +759,7 @@
 | [Delphi](https://open.spotify.com/track/6kH87MfY5Duj8C4naY63CG) | [Civin](https://open.spotify.com/artist/05PE7U7GPUq687RB2ZJdFW) | [Delphi](https://open.spotify.com/album/0Ozhb25LzLP3fQ8rbTMJzz) | 1:50 | 2021-10-29 | 2022-01-28 |
 | [Demora](https://open.spotify.com/track/2j254ZZ7vyIkGYCTxwa7ic) | [Lito Akari](https://open.spotify.com/artist/4ATIy1cxe2gE276vbRv2Hu), [Smoke Trees](https://open.spotify.com/artist/6cN5TvotJoRbhYHoCHw8BI) | [Demora](https://open.spotify.com/album/6M7ldET7eGMjI0E4ij7L4o) | 1:44 | 2022-11-03 | 2022-12-02 |
 | [Departure](https://open.spotify.com/track/3iW7Or24Xsi0gQadZzYIyq) | [Hoffy Beats](https://open.spotify.com/artist/2z92TjllsDfZLyBjp0SDuq), [Saï T](https://open.spotify.com/artist/0ngA3xgG8zkQ6PV2mqtPJA) | [Departure](https://open.spotify.com/album/3CNZJt5ZrqFVhozEzVZFnw) | 2:03 | 2021-11-19 | 2022-01-14 |
-| [Desert](https://open.spotify.com/track/1GtQfguspD7y2DNPTk8Z0c) | [No Spirit](https://open.spotify.com/artist/4XbnhifKeOnyfTsCInrQsX), [Sátyr](https://open.spotify.com/artist/5D6V4Z6oPz4waooiuBaWIf), [Phlocalyst](https://open.spotify.com/artist/5xJ9q1lHwa8AShRof94oIt), [Otaam](https://open.spotify.com/artist/0yABOXFZ5fJ1KyoXXgj5B0) | [Desert](https://open.spotify.com/album/1SkdEtCzK6ptDnuTvM3QJW) | 3:33 | 2023-10-12 |  |
+| [Desert](https://open.spotify.com/track/1GtQfguspD7y2DNPTk8Z0c) | [No Spirit](https://open.spotify.com/artist/4XbnhifKeOnyfTsCInrQsX), [Sátyr](https://open.spotify.com/artist/5D6V4Z6oPz4waooiuBaWIf), [Phlocalyst](https://open.spotify.com/artist/5xJ9q1lHwa8AShRof94oIt), [Otaam](https://open.spotify.com/artist/0yABOXFZ5fJ1KyoXXgj5B0) | [Desert](https://open.spotify.com/album/1SkdEtCzK6ptDnuTvM3QJW) | 3:33 | 2023-10-12 | 2023-10-18 |
 | [Desert Flower](https://open.spotify.com/track/1v3XvU16bA9lJlTBcRwrIG) | [Jost Esser](https://open.spotify.com/artist/6g67HuwuliYaN3y0I3C3o8), [Golden Ticket Tapes](https://open.spotify.com/artist/1XHE2jFO11NVGUBv25uDVZ) | [Desert Flower](https://open.spotify.com/album/1ynhVVz70nNaAWoebAnOZG) | 2:20 | 2021-06-18 | 2022-06-17 |
 | [Desert Flowers](https://open.spotify.com/track/1EEw7is3DEYdxUcrSlFtOf) | [JIM](https://open.spotify.com/artist/6Oe3h56XEcbobLLuyIyCNQ) | [Desert Flowers](https://open.spotify.com/album/6IOe9f5sN6PqFABK66jymw) | 2:32 | 2021-07-30 | 2021-08-24 |
 | [Desert World](https://open.spotify.com/track/2IvvlVgA9dFSkq3hx1kk33) | [LostiFi](https://open.spotify.com/artist/1KW7HtHJz11rhGJ6WtgqXR) | [Desert World](https://open.spotify.com/album/4lAECfw3YtjpD9oyREY4AZ) | 1:54 | 2021-05-31 | 2021-07-02 |
@@ -1744,6 +1744,7 @@
 | [Les Nuits de La Peine Lune](https://open.spotify.com/track/3qcYburY65T4bQZ7S0SvLx) | [Koralle](https://open.spotify.com/artist/3OW3qK7Wl9ESAGLvjVOw2h) | [Les Nuits de La Peine Lune](https://open.spotify.com/album/50a1GXpdNfxUgxqkGGBuoR) | 2:04 | 2021-12-04 | 2021-12-22 |
 | [Let Go](https://open.spotify.com/track/1yc2BnCP1tp00PvcV4EegD) | [Juliàn](https://open.spotify.com/artist/2SJLGPoAJhy9Id6N8oAftk) | [Let Go](https://open.spotify.com/album/6OaTwwVhhmuYq3vkAc6dCE) | 2:40 | 2023-06-29 |  |
 | [Let It Go](https://open.spotify.com/track/5pxobGXCruENjAcWxv1jiC) | [SwuM](https://open.spotify.com/artist/2Fc1UZXKRmPpWWx1sxcb9m) | [Aries](https://open.spotify.com/album/3yAYcSRhepTyvOblkWqERO) | 2:08 | 2020-04-24 | 2020-07-01 |
+| [Let Me Go](https://open.spotify.com/track/2c1Xtc9pFHCycx7A8MejXk) | [Shierro](https://open.spotify.com/artist/7EVtRX3E2y1wcAwd2YituJ) | [Let Me Go](https://open.spotify.com/album/1Dh0kSMYQAaRjUM5KWRAen) | 2:40 | 2023-10-12 |  |
 | [Let Us Meet on Monday](https://open.spotify.com/track/2Nkh3JyGgZNr60tYTzVmy4) | [Don Philippe](https://open.spotify.com/artist/0oer0EPMRrosfCF2tUt2jU), [Rzuma](https://open.spotify.com/artist/0qOz7pDm5732P4fdEjHrI8) | [Let Us Meet on Monday](https://open.spotify.com/album/0rgdi3871uTaQsyHHWw7Ct) | 1:47 | 2019-11-08 | 2020-03-25 |
 | [Let's Talk](https://open.spotify.com/track/0UAeDhY1dbWSqRKWtGo7S7) | [7&Nine](https://open.spotify.com/artist/3KrbWefSRojrufNTqBI1wy), [Saï T](https://open.spotify.com/artist/0ngA3xgG8zkQ6PV2mqtPJA), [Otaam](https://open.spotify.com/artist/0yABOXFZ5fJ1KyoXXgj5B0) | [Let's Talk](https://open.spotify.com/album/7sXEE4OmyeVM5EH5k3Kkh7) | 2:39 | 2021-07-29 | 2021-09-24 |
 | [Letsoh](https://open.spotify.com/track/21pwwr8rzDnfgEoWIRTMtS) | [FloFilz](https://open.spotify.com/artist/39ZQx0618UYVBgGTDOJ2ds), [digitalluc](https://open.spotify.com/artist/4WT5TNNUvgRLjAiWce3K5z) | [Letsoh](https://open.spotify.com/album/6NmKmqKIi8sxTueRKovKro) | 2:22 | 2021-01-15 | 2021-02-20 |

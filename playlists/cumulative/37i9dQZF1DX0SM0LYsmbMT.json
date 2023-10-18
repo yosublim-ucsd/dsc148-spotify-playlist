@@ -15014,7 +15014,7 @@
       ],
       "date_added": "2023-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-18",
       "duration_ms": 213813,
       "name": "Desert",
       "url": "https://open.spotify.com/track/1GtQfguspD7y2DNPTk8Z0c"
@@ -34874,6 +34874,24 @@
       "duration_ms": 128600,
       "name": "Let It Go",
       "url": "https://open.spotify.com/track/5pxobGXCruENjAcWxv1jiC"
+    },
+    {
+      "album": {
+        "name": "Let Me Go",
+        "url": "https://open.spotify.com/album/1Dh0kSMYQAaRjUM5KWRAen"
+      },
+      "artists": [
+        {
+          "name": "Shierro",
+          "url": "https://open.spotify.com/artist/7EVtRX3E2y1wcAwd2YituJ"
+        }
+      ],
+      "date_added": "2023-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160984,
+      "name": "Let Me Go",
+      "url": "https://open.spotify.com/track/2c1Xtc9pFHCycx7A8MejXk"
     },
     {
       "album": {

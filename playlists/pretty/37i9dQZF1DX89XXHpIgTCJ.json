@@ -1,12 +1,12 @@
 {
   "description": "When Rock meets Rap: covers, collabs, mashups and everything that rhymes.",
-  "num_followers": 289168,
+  "num_followers": 289433,
   "original_name": "Rap 'n' Roll",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmNzc1ZmFmYzE1ZGYxZmVlNjRlOTM2MzgwY2Y4NGNjNmRjODY4ZmE1",
+  "snapshot_id": "MCwwNzk5MTM1NjVmMTBhMmM3NzdmYzg1MzQ0MjEyYjU5MmQwNGNlZGEy",
   "tracks": [
     {
       "added_at": "2023-10-01 21:11:39",
@@ -515,18 +515,22 @@
     {
       "added_at": "2023-10-01 21:11:39",
       "album": {
-        "name": "The Moment (Digital Deluxe)",
-        "url": "https://open.spotify.com/album/3qEFmt0o13JEKWOEkqDs4u"
+        "name": "Life Is Peachy",
+        "url": "https://open.spotify.com/album/2b813fSxxzp9lcOfnLrrTH"
       },
       "artists": [
         {
-          "name": "Framing Hanley",
-          "url": "https://open.spotify.com/artist/3niqfoc7C6lIeCNVz8iZYE"
+          "name": "Korn",
+          "url": "https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD"
+        },
+        {
+          "name": "Chino Moreno",
+          "url": "https://open.spotify.com/artist/0Wfo0pd0KC47vx7uUEVOQ9"
         }
       ],
-      "duration_ms": 187906,
-      "name": "Lollipop",
-      "url": "https://open.spotify.com/track/49dFv4gH1SeY90FySDOwCE"
+      "duration_ms": 240546,
+      "name": "Wicked (feat. Chino Moreno)",
+      "url": "https://open.spotify.com/track/2PeLrcfqn5agneKc3S2HMu"
     },
     {
       "added_at": "2023-10-01 21:11:39",
@@ -551,22 +555,18 @@
     {
       "added_at": "2023-10-01 21:11:39",
       "album": {
-        "name": "Life Is Peachy",
-        "url": "https://open.spotify.com/album/2b813fSxxzp9lcOfnLrrTH"
+        "name": "The Moment (Digital Deluxe)",
+        "url": "https://open.spotify.com/album/3qEFmt0o13JEKWOEkqDs4u"
       },
       "artists": [
         {
-          "name": "Korn",
-          "url": "https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD"
-        },
-        {
-          "name": "Chino Moreno",
-          "url": "https://open.spotify.com/artist/0Wfo0pd0KC47vx7uUEVOQ9"
+          "name": "Framing Hanley",
+          "url": "https://open.spotify.com/artist/3niqfoc7C6lIeCNVz8iZYE"
         }
       ],
-      "duration_ms": 240546,
-      "name": "Wicked (feat. Chino Moreno)",
-      "url": "https://open.spotify.com/track/2PeLrcfqn5agneKc3S2HMu"
+      "duration_ms": 187906,
+      "name": "Lollipop",
+      "url": "https://open.spotify.com/track/49dFv4gH1SeY90FySDOwCE"
     },
     {
       "added_at": "2023-10-01 21:11:39",
@@ -671,6 +671,26 @@
     {
       "added_at": "2023-10-01 21:11:39",
       "album": {
+        "name": "Follow The Leader",
+        "url": "https://open.spotify.com/album/0gsiszk6JWYwAyGvaTTud4"
+      },
+      "artists": [
+        {
+          "name": "Korn",
+          "url": "https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD"
+        },
+        {
+          "name": "Ice Cube",
+          "url": "https://open.spotify.com/artist/3Mcii5XWf6E0lrY3Uky4cA"
+        }
+      ],
+      "duration_ms": 232600,
+      "name": "Children of the Korn (feat. Ice Cube)",
+      "url": "https://open.spotify.com/track/72ZarLfZuVXLa2VN1jzAWk"
+    },
+    {
+      "added_at": "2023-10-01 21:11:39",
+      "album": {
         "name": "Give The Drummer Some (Deluxe)",
         "url": "https://open.spotify.com/album/6t4AZ1h46ksEZiKLjh7oes"
       },
@@ -719,26 +739,6 @@
       "duration_ms": 194826,
       "name": "Fallout",
       "url": "https://open.spotify.com/track/2JBk2XZLjS0N4x3mFHINM6"
-    },
-    {
-      "added_at": "2023-10-01 21:11:39",
-      "album": {
-        "name": "Follow The Leader",
-        "url": "https://open.spotify.com/album/0gsiszk6JWYwAyGvaTTud4"
-      },
-      "artists": [
-        {
-          "name": "Korn",
-          "url": "https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD"
-        },
-        {
-          "name": "Ice Cube",
-          "url": "https://open.spotify.com/artist/3Mcii5XWf6E0lrY3Uky4cA"
-        }
-      ],
-      "duration_ms": 232600,
-      "name": "Children of the Korn (feat. Ice Cube)",
-      "url": "https://open.spotify.com/track/72ZarLfZuVXLa2VN1jzAWk"
     },
     {
       "added_at": "2023-10-01 21:11:39",
@@ -875,26 +875,6 @@
     {
       "added_at": "2023-10-01 21:11:39",
       "album": {
-        "name": "War & Peace Vol. 1 (The War Disc)",
-        "url": "https://open.spotify.com/album/3WZoJdkb9NSvZqkUShSKv4"
-      },
-      "artists": [
-        {
-          "name": "Ice Cube",
-          "url": "https://open.spotify.com/artist/3Mcii5XWf6E0lrY3Uky4cA"
-        },
-        {
-          "name": "Korn",
-          "url": "https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD"
-        }
-      ],
-      "duration_ms": 243506,
-      "name": "Fuck Dying",
-      "url": "https://open.spotify.com/track/2Qq2O47kcBU3FksKmDSiPn"
-    },
-    {
-      "added_at": "2023-10-01 21:11:39",
-      "album": {
         "name": "Built From Scratch",
         "url": "https://open.spotify.com/album/5kBmiH0tgepv6N0PROaEXv"
       },
@@ -915,6 +895,26 @@
       "duration_ms": 248266,
       "name": "It's Goin' Down (feat. Mike Shinoda & Mr. Hahn)",
       "url": "https://open.spotify.com/track/7qFEFcjmSAtODGtLYqraCq"
+    },
+    {
+      "added_at": "2023-10-01 21:11:39",
+      "album": {
+        "name": "War & Peace Vol. 1 (The War Disc)",
+        "url": "https://open.spotify.com/album/3WZoJdkb9NSvZqkUShSKv4"
+      },
+      "artists": [
+        {
+          "name": "Ice Cube",
+          "url": "https://open.spotify.com/artist/3Mcii5XWf6E0lrY3Uky4cA"
+        },
+        {
+          "name": "Korn",
+          "url": "https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD"
+        }
+      ],
+      "duration_ms": 243506,
+      "name": "Fuck Dying",
+      "url": "https://open.spotify.com/track/2Qq2O47kcBU3FksKmDSiPn"
     },
     {
       "added_at": "2023-10-01 21:11:39",
@@ -1023,6 +1023,22 @@
     {
       "added_at": "2023-10-01 21:11:39",
       "album": {
+        "name": "Radio",
+        "url": "https://open.spotify.com/album/4sevefzBUFvJYAzijVBQ2a"
+      },
+      "artists": [
+        {
+          "name": "LL COOL J",
+          "url": "https://open.spotify.com/artist/1P8IfcNKwrkQP5xJWuhaOC"
+        }
+      ],
+      "duration_ms": 240493,
+      "name": "Rock The Bells",
+      "url": "https://open.spotify.com/track/4F4neui0edP1ozygvFiCi7"
+    },
+    {
+      "added_at": "2023-10-01 21:11:39",
+      "album": {
         "name": "Loud Rocks",
         "url": "https://open.spotify.com/album/5PIDHpTCc6iT5WM2JZzFKu"
       },
@@ -1043,22 +1059,6 @@
       "duration_ms": 232906,
       "name": "Wu-Tang Clan Ain't Nothing Ta F**K Wit",
       "url": "https://open.spotify.com/track/66ZZ9lN9KKiA8zplDXM7GX"
-    },
-    {
-      "added_at": "2023-10-01 21:11:39",
-      "album": {
-        "name": "Radio",
-        "url": "https://open.spotify.com/album/4sevefzBUFvJYAzijVBQ2a"
-      },
-      "artists": [
-        {
-          "name": "LL COOL J",
-          "url": "https://open.spotify.com/artist/1P8IfcNKwrkQP5xJWuhaOC"
-        }
-      ],
-      "duration_ms": 240493,
-      "name": "Rock The Bells",
-      "url": "https://open.spotify.com/track/4F4neui0edP1ozygvFiCi7"
     },
     {
       "added_at": "2023-10-01 21:11:39",

@@ -4,7 +4,7 @@
 
 > いろいろあるかも知れないけれど、ちょっと休憩しませんか？チルな楽曲でゆったりまったりなひと時を。Illustration by <a href="https://twitter.com/hoshieri7">北村英理</a>\(Eri Kitamura\)
 
-227 songs - 13 hr 57 min
+228 songs - 14 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,12 +18,12 @@
 | [ALONE](https://open.spotify.com/track/1ES7kph925ytu5O7lJhtav) | [3House](https://open.spotify.com/artist/5hnSOpUeldFZV2lzs8TP1w) | [SWING A SOUL](https://open.spotify.com/album/0HHc2bE8BCfMlqeijJZJLV) | 1:46 | 2023-06-22 | 2023-07-12 |
 | [Amber \- DJ Mitsu the Beats Remix](https://open.spotify.com/track/5qTzeMG3WMLV0Q77gROV1B) | [salasa](https://open.spotify.com/artist/5WcurhZ9M2BpSQWhUC4oPc), [DJ Mitsu The Beats](https://open.spotify.com/artist/4F8O7axjzw3z0xVPRG8JFS) | [Amber \(DJ Mitsu the Beats Remix\)](https://open.spotify.com/album/4cSDPs6LlsuAViLRHaovGR) | 3:26 | 2022-10-20 | 2022-12-14 |
 | [apart](https://open.spotify.com/track/0xXsJc6dz9YT4NMRnNAiry) | [DURDN](https://open.spotify.com/artist/5u1MCRvQ3cA2Y9BpLSZIeg) | [apart](https://open.spotify.com/album/4L00KfJ0AfJ0lUEUNW0AGr) | 2:56 | 2023-04-04 |  |
-| [bathroom](https://open.spotify.com/track/2lNJGoEJX2FpJDUGZRIuu0) | [MAISONdes](https://open.spotify.com/artist/7LTiBdByoaUd329wCpmMcM), [れん](https://open.spotify.com/artist/2Hf3gzOBTpBaL0SqyPjX8m), [maeshima soshi](https://open.spotify.com/artist/4O49GHbECmNppFvzK0WZXf) | [bathroom](https://open.spotify.com/album/2fKpk83eEE5bozCQDk84z0) | 3:31 | 2023-09-26 |  |
+| [bathroom](https://open.spotify.com/track/2lNJGoEJX2FpJDUGZRIuu0) | [MAISONdes](https://open.spotify.com/artist/7LTiBdByoaUd329wCpmMcM), [れん](https://open.spotify.com/artist/2Hf3gzOBTpBaL0SqyPjX8m), [maeshima soshi](https://open.spotify.com/artist/4O49GHbECmNppFvzK0WZXf) | [bathroom](https://open.spotify.com/album/2fKpk83eEE5bozCQDk84z0) | 3:31 | 2023-09-26 | 2023-10-18 |
 | [BE MY BABY](https://open.spotify.com/track/0YlpoSZnQJT2Yz52JT8YwA) | [Miliyah](https://open.spotify.com/artist/29D4iRqjepAsZt6o5hccND), [Yo\-Sea](https://open.spotify.com/artist/0ayU6CR43tInomJqB9JfRw) | [BE MY BABY](https://open.spotify.com/album/6nQNbDEhVWM81pdcb5CSjb) | 2:51 | 2022-10-20 | 2023-01-03 |
 | [Beyond the mirage](https://open.spotify.com/track/5qmD8to3Qoajb9WBCXtvFf) | [Hannah Warm](https://open.spotify.com/artist/3NpwE88TR2nUKcmg87MeL7) | [Beyond the mirage](https://open.spotify.com/album/72Ij6AYsePnNuOBAwmBauM) | 4:14 | 2022-12-13 | 2023-03-14 |
 | [Bidan](https://open.spotify.com/track/0fJ3AlXNydfMNIBA5OuqiI) | [yangskinny](https://open.spotify.com/artist/3VVMRDGpbQR2SK9nHX3DW5) | [Utanishiteshimaeba,Donnakotodemoyurusarerutoomotteita](https://open.spotify.com/album/7dj8tTCDJt5KRM9rqCsPbb) | 4:50 | 2023-03-14 |  |
 | [BLUE](https://open.spotify.com/track/6KrRLTu0znn13IY3HD6bdr) | [3House](https://open.spotify.com/artist/5hnSOpUeldFZV2lzs8TP1w) | [BLUE](https://open.spotify.com/album/5dPtTMKOCj18R2tapTWMDx) | 2:30 | 2023-06-15 | 2023-06-28 |
-| [BUDDY feat\. PUNPEE](https://open.spotify.com/track/6bMSF3fC1jVEhJr5h0riXq) | [BIM](https://open.spotify.com/artist/704gz1q9ieRxZfTkhPlZGG), [PUNPEE](https://open.spotify.com/artist/0mP8A1qIoufScrsxq18Cw6) | [The Beam](https://open.spotify.com/album/0NT8BKRHuR95nYb8M0Z3Gh) | 3:36 | 2023-03-14 |  |
+| [BUDDY feat\. PUNPEE](https://open.spotify.com/track/6bMSF3fC1jVEhJr5h0riXq) | [BIM](https://open.spotify.com/artist/704gz1q9ieRxZfTkhPlZGG), [PUNPEE](https://open.spotify.com/artist/0mP8A1qIoufScrsxq18Cw6) | [The Beam](https://open.spotify.com/album/0NT8BKRHuR95nYb8M0Z3Gh) | 3:36 | 2023-03-14 | 2023-10-18 |
 | [Burning Friday Night](https://open.spotify.com/track/1NlkoYEA1ndLQIKzXTPh9V) | [Lucky Kilimanjaro](https://open.spotify.com/artist/2V8UZPMR1EbkXhzvEGBTrV) | [FULLCOLOR](https://open.spotify.com/album/1rDLRueueI2ILXOyZE5qWd) | 4:15 | 2023-03-14 |  |
 | [BURU](https://open.spotify.com/track/1pJPzYGmUJF92NRelGfyIn) | [4na](https://open.spotify.com/artist/4oFbU35Y1ezMvUlB6B5MTF) | [Buru](https://open.spotify.com/album/0hXRW6dvSRdOt2OHcQOjh6) | 4:07 | 2022-10-20 | 2022-11-23 |
 | [Bus Stop](https://open.spotify.com/track/6FEXVKbPtuW2D7Q1EbAFyo) | [RAq](https://open.spotify.com/artist/0I6KWC4h8huHA3Mgj2NaqZ) | [Bus Stop](https://open.spotify.com/album/0ChQDwCuMzeh0jXTs2vPyG) | 2:40 | 2022-10-20 | 2022-12-14 |
@@ -177,6 +177,7 @@
 | [タイムマシーン](https://open.spotify.com/track/6VVdhvbvGJZdm8f2f6ZKYo) | [CHIAKI SATO](https://open.spotify.com/artist/7fD1pCIsnPsUt6mHizHGnt) | [TIME LEAP](https://open.spotify.com/album/1LSdYXveZ1weRohT3cAW9B) | 3:52 | 2023-01-31 | 2023-03-25 |
 | [ネオンライト](https://open.spotify.com/track/781vNvG3W7WiPogwzTXcXN) | [vuefloor](https://open.spotify.com/artist/4ut8eVBaW8x99Ibio3pfVe), [flasstain](https://open.spotify.com/artist/2qFyNfuQKunvAjpdGAF8ds) | [ネオンライト](https://open.spotify.com/album/5J32C1Lw9j23n0VO2YmycW) | 3:52 | 2022-11-23 | 2023-02-01 |
 | [ネオンライトに呼ばれて](https://open.spotify.com/track/5lsAPbv57oSWetUqP8OKq4) | [Higuchi Ai](https://open.spotify.com/artist/4GxWcui9BlMJH9VOOK5wav) | [ネオンライトに呼ばれて](https://open.spotify.com/album/203EvrZNm2ngyllHX7PqHQ) | 3:25 | 2022-11-23 | 2022-11-24 |
+| [パレットは透明](https://open.spotify.com/track/25e3Pxxt0G1KGvMbYelQMG) | [yama](https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv) | [パレットは透明](https://open.spotify.com/album/23xlWGbhuph9wClaYZqbPg) | 3:17 | 2023-10-17 |  |
 | [ブラウニー](https://open.spotify.com/track/2R6xQVJCCk1u8rPrxD5SmC) | [和ぬか](https://open.spotify.com/artist/6LesPuO1nhgJ2acJ4MjyBI) | [ブラウニー](https://open.spotify.com/album/5lDjj72VfeaRqvKJ3UYZGG) | 3:30 | 2023-03-14 | 2023-05-09 |
 | [メロウ](https://open.spotify.com/track/5Q5r5pGb9l0maFA8RPQW8x) | [moeki](https://open.spotify.com/artist/6fR38gpMfHJIKnbWNcQqfM) | [メロウ](https://open.spotify.com/album/61fCCjJSfGbgL3yAbES3hD) | 3:26 | 2023-10-03 |  |
 | [リンジュー・ラヴ](https://open.spotify.com/track/4InoeTKoMnvrcKOAuvbUeT) | [Macaroni Empitsu](https://open.spotify.com/artist/1t17z3vfuc82cxSDMrvryJ) | [wheel of life](https://open.spotify.com/album/23V4MjO0LO5wMfDg0Al29s) | 3:06 | 2023-03-25 | 2023-04-12 |
@@ -213,7 +214,7 @@
 | [気分](https://open.spotify.com/track/22X9d8YK3C96OgQ487Kuf1) | [Kaneko Ayano](https://open.spotify.com/artist/4XKIIegkRbSJft0PmMv9NB) | [気分](https://open.spotify.com/album/0jxHgo5jqgV81FmoyWfJEk) | 5:05 | 2022-12-06 | 2023-02-25 |
 | [気分のせいさ](https://open.spotify.com/track/4IrpbZVOnMUAK7JGpnYfJH) | [KUKIKODAN](https://open.spotify.com/artist/7mzrWoSNJn8MaPPBPNr9yS) | [気分のせいさ](https://open.spotify.com/album/67YmrIEOI0VFdV0wfKl99d) | 4:38 | 2023-08-17 | 2023-09-20 |
 | [泣きたい夜](https://open.spotify.com/track/6LjHLHz1boefkLI41mfc5R) | [AYANE](https://open.spotify.com/artist/3fYxdxiuKlZYMW9Pma6UBM) | [泣きたい夜](https://open.spotify.com/album/7qBDJmSURz5gb8EhJ3bBD0) | 3:20 | 2022-10-20 | 2023-06-02 |
-| [溜め息](https://open.spotify.com/track/4PKIhZHuWGlELcxyvV8Oxb) | [HENTAI SHINSHI CLUB](https://open.spotify.com/artist/4vN78fN1iEh83Pgaesw2jU) | [舌打](https://open.spotify.com/album/5SxgjWfTuZEd3eqscDMU1v) | 2:57 | 2022-10-20 | 2023-10-17 |
+| [溜め息](https://open.spotify.com/track/4PKIhZHuWGlELcxyvV8Oxb) | [HENTAI SHINSHI CLUB](https://open.spotify.com/artist/4vN78fN1iEh83Pgaesw2jU) | [舌打](https://open.spotify.com/album/5SxgjWfTuZEd3eqscDMU1v) | 2:57 | 2022-10-20 |  |
 | [灯火](https://open.spotify.com/track/03kdTvI72t9uFwrcgKHgON) | [Yuga](https://open.spotify.com/artist/2QPqMxppznwSxghh3R8WrT) | [灯火](https://open.spotify.com/album/23A0oqlZ1VCZd7PrVwTcDM) | 3:39 | 2022-10-20 | 2023-03-25 |
 | [点描の唄](https://open.spotify.com/track/1sIIlVrnPhrvmTrHtzM7tV) | [Mrs\. GREEN APPLE](https://open.spotify.com/artist/4QvgGvpgzgyUOo8Yp8LDm9), [Sonoko Inoue](https://open.spotify.com/artist/71hQB5jxdNiHk5gzZRhicQ) | [青と夏](https://open.spotify.com/album/5enxwo7c4D5mhXp5f56OLy) | 5:07 | 2023-03-25 |  |
 | [焦がれNight](https://open.spotify.com/track/4tcU2rCJGCERolNoWf1EGG) | [yonawo](https://open.spotify.com/artist/61VsO6rn8khCQDSRp8tTeZ) | [焦がれNight](https://open.spotify.com/album/5KrrC445nlotY96Ifz3gA2) | 3:55 | 2023-07-11 | 2023-08-23 |

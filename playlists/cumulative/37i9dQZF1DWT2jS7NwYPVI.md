@@ -4,7 +4,7 @@
 
 > Your cheat sheet for everything on the rise in the rock/alt world\. Cover: Beauty School Dropout
 
-1,878 songs - 4 day 2 hr 51 min
+1,879 songs - 4 day 2 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1335,7 +1335,8 @@
 | [RICH$$$](https://open.spotify.com/track/0WJqGFXhuSV7UxjrvbcLdY) | [MONOWHALES](https://open.spotify.com/artist/6Ok8AIUj7YYGC981xWCbgQ) | [RICH$$$](https://open.spotify.com/album/5LPNhMtx4YfvNzZzHyv8YF) | 2:59 | 2022-08-12 | 2022-10-15 |
 | [Ricochet](https://open.spotify.com/track/0JlqCj8qRtUSUsrMvVpszW) | [New Friends](https://open.spotify.com/artist/7aHNy2bjgGqOeFqUZ1shgb) | [Ricochet](https://open.spotify.com/album/6DxrVhCsvW24hSrP94FZLQ) | 2:57 | 2022-12-02 | 2023-02-18 |
 | [Right Time](https://open.spotify.com/track/6ShMhtk1om88amkkiUrpS9) | [overpass](https://open.spotify.com/artist/2y3PEaAgTdxYfbyeSXORv8) | [Right Time](https://open.spotify.com/album/1VsVEFWRQdn1MtFcjrTUXW) | 4:00 | 2023-05-19 | 2023-07-01 |
-| [ring in ur ear](https://open.spotify.com/track/0pQudbYpkDgp5NvivZeTTy) | [HUNNY](https://open.spotify.com/artist/5rebfYbZVIhbRVcRKWVOAh), [Motion City Soundtrack](https://open.spotify.com/artist/19zqV9DV3txjMUjHvltl2D) | [ring in ur ear](https://open.spotify.com/album/6FJfmpnSI7zEuAlWYRR0kT) | 3:18 | 2023-10-06 |  |
+| [ring in ur ear](https://open.spotify.com/track/0pQudbYpkDgp5NvivZeTTy) | [HUNNY](https://open.spotify.com/artist/5rebfYbZVIhbRVcRKWVOAh), [Motion City Soundtrack](https://open.spotify.com/artist/19zqV9DV3txjMUjHvltl2D) | [ring in ur ear](https://open.spotify.com/album/6FJfmpnSI7zEuAlWYRR0kT) | 3:18 | 2023-10-06 | 2023-10-18 |
+| [ring in ur ear](https://open.spotify.com/track/2iWGSNrMCPAebDQ78YmHGt) | [HUNNY](https://open.spotify.com/artist/5rebfYbZVIhbRVcRKWVOAh), [Motion City Soundtrack](https://open.spotify.com/artist/19zqV9DV3txjMUjHvltl2D) | [new planet heaven](https://open.spotify.com/album/2yLcWY0KENr1OAQ7ZAL7vD) | 3:18 | 2023-10-13 |  |
 | [Riot](https://open.spotify.com/track/04ozu87GNHVPVgd8qhBUJU) | [Daisy Grenade](https://open.spotify.com/artist/3Pj6dfWTnH3sYHctX0EZMH) | [Cult Classic](https://open.spotify.com/album/4ktqy9EW0cDMzcJjLguyk3) | 2:17 | 2023-06-23 |  |
 | [Riptide](https://open.spotify.com/track/6FqBQIRLJMluO10YtDbETv) | [Beartooth](https://open.spotify.com/artist/6vwjIs0tbIiseJMR3pqwiL) | [Riptide](https://open.spotify.com/album/5pq4qSf7QPmEu7F1IhhVmn) | 3:31 | 2022-07-15 | 2022-09-24 |
 | [RISK, RISK, RISK!](https://open.spotify.com/track/2FgFvtSuBAECcN7SJU5xMB) | [Jhariah](https://open.spotify.com/artist/5iMYu8Sj8dZEDsWJxSFwPP) | [RISK, RISK, RISK!](https://open.spotify.com/album/4c0WVlK8VGkZ0PBfSSiGoQ) | 3:21 | 2023-09-01 | 2023-09-23 |

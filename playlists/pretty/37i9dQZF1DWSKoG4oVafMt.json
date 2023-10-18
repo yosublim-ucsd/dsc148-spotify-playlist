@@ -1,12 +1,12 @@
 {
   "description": "The very best of Punjabi romance featuring Jordan Sandhu",
-  "num_followers": 150414,
+  "num_followers": 150588,
   "original_name": "Punjabi Pyar",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3ZTU2NDAxNWYxYmYzYjQ0NWJjN2RjMDJlZTVjZGRhMjE5NGZlODQy",
+  "snapshot_id": "MCxlZDkzNDIwMzQ4OGZlMzU0ZTJjOGU4MzFhNTZkYWMzYzkyM2I1MWUw",
   "tracks": [
     {
       "added_at": "2023-10-13 09:56:13",
@@ -106,6 +106,10 @@
         {
           "name": "Bunny Johal",
           "url": "https://open.spotify.com/artist/0jdnMCU1yJPwoIErT6a4OS"
+        },
+        {
+          "name": "Black Virus",
+          "url": "https://open.spotify.com/artist/3baDngVJ6Eof0PzTWf42lU"
         }
       ],
       "duration_ms": 243592,
@@ -854,10 +858,6 @@
         {
           "name": "Garry Sandhu",
           "url": "https://open.spotify.com/artist/7M3xY5iHSzEtoL3FpqOD75"
-        },
-        {
-          "name": "Rahul Sathu",
-          "url": "https://open.spotify.com/artist/64UjPeMUmhyalooujVrEU3"
         }
       ],
       "duration_ms": 212692,

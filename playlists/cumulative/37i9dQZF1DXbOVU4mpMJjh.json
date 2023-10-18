@@ -561,6 +561,24 @@
     },
     {
       "album": {
+        "name": "Adagio",
+        "url": "https://open.spotify.com/album/2pY74KxhJHuvFtI3QXlrtE"
+      },
+      "artists": [
+        {
+          "name": "Kristian Hart Trio",
+          "url": "https://open.spotify.com/artist/6qAas9yPupFktSVPPYebnU"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176150,
+      "name": "Adagio",
+      "url": "https://open.spotify.com/track/52wEWSEvL2a08E7wRXSrbY"
+    },
+    {
+      "album": {
         "name": "Adrian Rambling Shoreditch",
         "url": "https://open.spotify.com/album/6yN34Eva80vNLBrGvzbLJ9"
       },
@@ -9010,7 +9028,7 @@
       ],
       "date_added": "2023-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-18",
       "duration_ms": 225707,
       "name": "Love Is in the Air",
       "url": "https://open.spotify.com/track/1W0WiHXopNzkDW5bqXpbmn"
@@ -10579,6 +10597,32 @@
     },
     {
       "album": {
+        "name": "Never Let Me Go",
+        "url": "https://open.spotify.com/album/5VrAw3xklXBNIGVelKK2pG"
+      },
+      "artists": [
+        {
+          "name": "Copenhagen Jazzexperience",
+          "url": "https://open.spotify.com/artist/4JEWCpMIrw4HJgsAlkblBo"
+        },
+        {
+          "name": "Jacob Christoffersen",
+          "url": "https://open.spotify.com/artist/3ljK3UprmcWotHs686486V"
+        },
+        {
+          "name": "Claus Waidtl\u00f8w",
+          "url": "https://open.spotify.com/artist/3dz5vxw8WxPgcbD2HIVN5D"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 323184,
+      "name": "Never Let Me Go",
+      "url": "https://open.spotify.com/track/6VC6di6QOdHb4D9nxrufra"
+    },
+    {
+      "album": {
         "name": "Breakfast on the Morning Tram",
         "url": "https://open.spotify.com/album/5RwBI4pEinXbIiUhWzAMbX"
       },
@@ -10898,7 +10942,7 @@
       ],
       "date_added": "2022-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-18",
       "duration_ms": 287914,
       "name": "Not Too Hot",
       "url": "https://open.spotify.com/track/0FoNYyoLC8Jj12GQggux8T"

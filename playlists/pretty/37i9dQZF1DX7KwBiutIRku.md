@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7KwBiutIRku.md) - [plain]
 
 > Southern boogie, swinging blues rock and classic boogie rock\. Cover: ZZ Top
 
-[Spotify](https://open.spotify.com/user/spotify) - 73,877 likes - 50 songs - 3 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 73,968 likes - 50 songs - 3 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,8 +35,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7KwBiutIRku.md) - [plain]
 | 25 | [Spinning Wheel Blues](https://open.spotify.com/track/0KX5tEsBMLQRmUgYJniMtm) | [Status Quo](https://open.spotify.com/artist/4gIdjgLlvgEOz7MexDZzpM) | [Down the Dustpipe](https://open.spotify.com/album/4D2lzYrLn7Jg8tIuuSF36L) | 3:19 |
 | 26 | [Dear Landlord](https://open.spotify.com/track/6N3B6vyRO5V5JwjxJHcZjG) | [Joe Cocker](https://open.spotify.com/artist/3pFCERyEiP5xeN2EsPXhjI) | [Joe Cocker!](https://open.spotify.com/album/3MoIn4co8ZN5vhLNekUqnc) | 3:25 |
 | 27 | [Charming Mess](https://open.spotify.com/track/494fTnltxTwiZYqACtCzWU) | [The Black Crowes](https://open.spotify.com/artist/5krkohEVJYw0qoB5VWwxaC) | [Charming Mess](https://open.spotify.com/album/1kOPsSIDcQ3cegRouSgx7W) | 3:33 |
-| 28 | [Maggie's Farm \- Remastered](https://open.spotify.com/track/2TsY408zarh6FNtc7YsMGf) | [The Blues Band](https://open.spotify.com/artist/68GsFZshoiZmFCfcCv9ArW) | [The Blues Band \- Ready \(Remastered\)](https://open.spotify.com/album/79vGUrA1yoXpJ8FSyhbxKs) | 3:17 |
-| 29 | [Floyd's Hotel](https://open.spotify.com/track/2feQ7CyRZOUeqsct3zwDtn) | [The J\. Geils Band](https://open.spotify.com/artist/69Mj3u4FTUrpyeGNSIaU6F) | [The Morning After](https://open.spotify.com/album/26PQ24bOMADaGXHApdAsR8) | 3:09 |
+| 28 | [Floyd's Hotel](https://open.spotify.com/track/2feQ7CyRZOUeqsct3zwDtn) | [The J\. Geils Band](https://open.spotify.com/artist/69Mj3u4FTUrpyeGNSIaU6F) | [The Morning After](https://open.spotify.com/album/26PQ24bOMADaGXHApdAsR8) | 3:09 |
+| 29 | [Maggie's Farm \- Remastered](https://open.spotify.com/track/2TsY408zarh6FNtc7YsMGf) | [The Blues Band](https://open.spotify.com/artist/68GsFZshoiZmFCfcCv9ArW) | [The Blues Band \- Ready \(Remastered\)](https://open.spotify.com/album/79vGUrA1yoXpJ8FSyhbxKs) | 3:17 |
 | 30 | [Borstal Boys](https://open.spotify.com/track/47rwchB6ebPHAY0CaBINZG) | [Faces](https://open.spotify.com/artist/3v4feUQnU3VEUqFrjmtekL) | [Ooh La La](https://open.spotify.com/album/4eTVgxB6wm5eGvesA4cUN5) | 2:53 |
 | 31 | [Don't Start Me Talkin' \- Jinx Session / 1982](https://open.spotify.com/track/6lDxaHITMuytL0amkRLvT2) | [Rory Gallagher](https://open.spotify.com/artist/1kcWyDvrlPUbyxkIoM6pAV) | [Blues](https://open.spotify.com/album/1oKWgM9Td5XbgUweHSRGXB) | 3:33 |
 | 32 | [Lower On Your List Of Priorities](https://open.spotify.com/track/0y9jJpx0LZyD7Jz3Yaawvz) | [Roomful Of Blues](https://open.spotify.com/artist/2ngCOxUAUuIwjkl4qYX51L) | [Raisin' A Ruckus](https://open.spotify.com/album/35Sf6tKVBsBvRcdJhDVkoo) | 3:20 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7KwBiutIRku.md) - [plain]
 | 49 | [Keep Playin' That Rock 'n' Roll](https://open.spotify.com/track/0rQf7arPF7Fob1ewkKicL1) | [Edgar Winter's White Trash](https://open.spotify.com/artist/4uOdVRRuTWjJVkcN0LXxwL) | [The Essential Edgar Winter](https://open.spotify.com/album/3a27WqEqhsikCfuxVSq2vW) | 3:44 |
 | 50 | [Midnight To Six Man](https://open.spotify.com/track/7bsZBxsGS4heYtLdBXj6VU) | [The Pretty Things](https://open.spotify.com/artist/5U16QlMnlSAhkQxBZpLyLO) | [Get The Picture?](https://open.spotify.com/album/2FUn94ad2pFHpPCpBJnP1E) | 2:19 |
 
-Snapshot ID: `MCw2MmNjMTYyMjE3NjVjYzhmNmM4MDg3NTRlMmRhNGM0Y2M3NjY2OGM4`
+Snapshot ID: `MCw2MWEwNjAyYmE5ZWJlMGMxNTk4MmZkNzgyYmQ5NjlkY2RjYWJmOTY2`

@@ -1,12 +1,12 @@
 {
   "description": "Sapphic songs that defined your music taste as \"yearning.\" ",
-  "num_followers": 1444089,
+  "num_followers": 1444690,
   "original_name": "sad girl starter pack",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlNTIyMTBiMTcwMWVmZjFiODVlODRhZTAyMzFmYjkwM2MxNDJkNmI5",
+  "snapshot_id": "MCxlMWE2NzRlZWFmYjVjNDc2YzY1ZjQ3ZWJlNzA4MzY2YTI2MjgzODMy",
   "tracks": [
     {
       "added_at": "2023-10-13 04:00:00",
@@ -1059,6 +1059,22 @@
     {
       "added_at": "2023-10-13 04:00:00",
       "album": {
+        "name": "The Rise and Fall of a Midwest Princess",
+        "url": "https://open.spotify.com/album/0EiI8ylL0FmWWpgHVTsZjZ"
+      },
+      "artists": [
+        {
+          "name": "Chappell Roan",
+          "url": "https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN"
+        }
+      ],
+      "duration_ms": 232796,
+      "name": "Casual",
+      "url": "https://open.spotify.com/track/3WSOUb3U7tqURbBSgZTrZX"
+    },
+    {
+      "added_at": "2023-10-13 04:00:00",
+      "album": {
         "name": "Next Thing",
         "url": "https://open.spotify.com/album/0vhRTvVCv9O5orRMgFjxT1"
       },
@@ -1075,18 +1091,18 @@
     {
       "added_at": "2023-10-13 04:00:00",
       "album": {
-        "name": "The Rise and Fall of a Midwest Princess",
-        "url": "https://open.spotify.com/album/0EiI8ylL0FmWWpgHVTsZjZ"
+        "name": "I Need to Start a Garden",
+        "url": "https://open.spotify.com/album/4I8BEAiq1kPqRRlvWLTo5B"
       },
       "artists": [
         {
-          "name": "Chappell Roan",
-          "url": "https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN"
+          "name": "Haley Heynderickx",
+          "url": "https://open.spotify.com/artist/73MDShZzdL4vUGMkmXOG6X"
         }
       ],
-      "duration_ms": 232796,
-      "name": "Casual",
-      "url": "https://open.spotify.com/track/3WSOUb3U7tqURbBSgZTrZX"
+      "duration_ms": 116483,
+      "name": "No Face",
+      "url": "https://open.spotify.com/track/0uLlFekr8nKMj960xHKPYx"
     },
     {
       "added_at": "2023-10-13 04:00:00",
@@ -1119,22 +1135,6 @@
       "duration_ms": 200304,
       "name": "i saw you in a dream",
       "url": "https://open.spotify.com/track/0ltmioOsLQsL0OFgcPbdVi"
-    },
-    {
-      "added_at": "2023-10-13 04:00:00",
-      "album": {
-        "name": "I Need to Start a Garden",
-        "url": "https://open.spotify.com/album/4I8BEAiq1kPqRRlvWLTo5B"
-      },
-      "artists": [
-        {
-          "name": "Haley Heynderickx",
-          "url": "https://open.spotify.com/artist/73MDShZzdL4vUGMkmXOG6X"
-        }
-      ],
-      "duration_ms": 116483,
-      "name": "No Face",
-      "url": "https://open.spotify.com/track/0uLlFekr8nKMj960xHKPYx"
     },
     {
       "added_at": "2023-10-13 04:00:00",

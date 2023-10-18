@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaxIqwkEGFEh.md) - [plain]
 
 > Strictly for the streets\. Cover: Lil Durk
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,186,809 likes - 99 songs - 4 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,187,097 likes - 99 songs - 4 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

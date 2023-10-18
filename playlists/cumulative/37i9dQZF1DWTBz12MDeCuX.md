@@ -4,7 +4,7 @@
 
 > Die Playlist, die dich fühlt\. Cover: Kenya Grace
 
-1,317 songs - 2 day 14 hr 26 min
+1,318 songs - 2 day 14 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -77,7 +77,8 @@
 | [AMERICAN HORROR SHOW](https://open.spotify.com/track/38RLObegC9ggpKPRVQDc1g) | [SNOW WIFE](https://open.spotify.com/artist/7CV3dQkhJB2dEqb85ICD33) | [AMERICAN HORROR SHOW](https://open.spotify.com/album/5JyHQrBtMytztLaqG8czrG) | 2:29 | 2023-08-16 | 2023-08-25 |
 | [Amore](https://open.spotify.com/track/48IT0MtChP0Luq54eB292Y) | [Domiziana](https://open.spotify.com/artist/3XZewrXpRQqqCMuUMAIhvN), [Miksu / Macloud](https://open.spotify.com/artist/76dRoxKtDwYkgCQePok9cU) | [Amore](https://open.spotify.com/album/7INZHjsCTF2x3pb6wdMqCF) | 2:44 | 2023-09-07 | 2023-10-13 |
 | [amore çok](https://open.spotify.com/track/3N2RPZQ1R5GpRR1noHSNww) | [ALCATRAZ](https://open.spotify.com/artist/1HLQrKy2EhoJdADW105gfR), [Pashanim](https://open.spotify.com/artist/34LetYSjEuG2fBb4Z8PwPg) | [amore çok](https://open.spotify.com/album/1P5A16v9Kx4KmextODP4tl) | 3:33 | 2023-03-06 | 2023-06-23 |
-| [Amour plastique](https://open.spotify.com/track/7M3HuQRRAm1QD4kftmq0bb) | [Videoclub](https://open.spotify.com/artist/3rp4f58JlRHkk8hpdLCer1), [Adèle Castillon](https://open.spotify.com/artist/4ueh4hmRvt62k4BgP8dIS0), [Mattyeux](https://open.spotify.com/artist/3bFokK6zCab3bPwSjktEVF) | [Amour plastique](https://open.spotify.com/album/3wcUR4eM3Ccp8uZ0lBXCGJ) | 3:47 | 2023-09-28 |  |
+| [Amour plastique](https://open.spotify.com/track/269XSeQhDrWEotMALJaACW) | [Videoclub](https://open.spotify.com/artist/3rp4f58JlRHkk8hpdLCer1), [Adèle Castillon](https://open.spotify.com/artist/4ueh4hmRvt62k4BgP8dIS0), [Mattyeux](https://open.spotify.com/artist/3bFokK6zCab3bPwSjktEVF) | [Euphories](https://open.spotify.com/album/1WfIjwnJ0aHiWCSkeSSeuV) | 3:45 | 2023-10-12 |  |
+| [Amour plastique](https://open.spotify.com/track/7M3HuQRRAm1QD4kftmq0bb) | [Videoclub](https://open.spotify.com/artist/3rp4f58JlRHkk8hpdLCer1), [Adèle Castillon](https://open.spotify.com/artist/4ueh4hmRvt62k4BgP8dIS0), [Mattyeux](https://open.spotify.com/artist/3bFokK6zCab3bPwSjktEVF) | [Amour plastique](https://open.spotify.com/album/3wcUR4eM3Ccp8uZ0lBXCGJ) | 3:47 | 2023-09-28 | 2023-10-18 |
 | [Anders](https://open.spotify.com/track/5TYmnScjaRecWuBqEaA7S5) | [01099](https://open.spotify.com/artist/3Z3aTg9PwJ37e8xeO0aUC9), [Paul](https://open.spotify.com/artist/2SRd7Kx7xWkZjoaFKgEreg), [Ski Aggu](https://open.spotify.com/artist/6CP5wWvO8oIxedESJNCN4H) | [Anders](https://open.spotify.com/album/5AXp6zh5m2lyBV5OTH5iwq) | 2:35 | 2023-04-21 | 2023-08-15 |
 | [anders](https://open.spotify.com/track/3BOV00do1gP13wjcqsNDBg) | [Akutkarl](https://open.spotify.com/artist/2vPC9V7lUTVG0iGwztvWWz), [DJ Testö](https://open.spotify.com/artist/5IDfYJZqdTt1pnOyol6JIJ) | [anders](https://open.spotify.com/album/1fRIrXlLIbq948KMqIIGg0) | 2:38 | 2023-05-04 | 2023-05-12 |
 | [Angel \(From Barbie The Album\)](https://open.spotify.com/track/0CpfO9VNiW0OGIaZO6zO3n) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t) | [Angel \(From Barbie The Album\)](https://open.spotify.com/album/7zSG5WWbS0P7pXbk90gn5V) | 2:03 | 2023-06-08 | 2023-06-30 |

@@ -1,12 +1,12 @@
 {
   "description": "The melancholic and soft sound of Jazz.",
-  "num_followers": 107263,
+  "num_followers": 107374,
   "original_name": "Jazz Noir",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzOGVkNWY4YTJkMDZlNDhjZjU0OGUyNTEyZDgwMWZjNmViZDFlZDM2",
+  "snapshot_id": "MCxjMWUwNmUwYzNjYzQ5ODlkNjM5Zjk5MGQyNmRlNTRhMmVhNmVkODA3",
   "tracks": [
     {
       "added_at": "2023-10-05 06:55:37",
@@ -383,22 +383,6 @@
     {
       "added_at": "2023-10-05 06:55:37",
       "album": {
-        "name": "Introducing Johnny Griffin (Rudy Van Gelder Edition / Remastered)",
-        "url": "https://open.spotify.com/album/2gxZYG5TEl9kZyyxIQqIAd"
-      },
-      "artists": [
-        {
-          "name": "Johnny Griffin",
-          "url": "https://open.spotify.com/artist/52cM6vrM4MJ8g4H7Ibo5fZ"
-        }
-      ],
-      "duration_ms": 473386,
-      "name": "Lover Man - Remastered 2006/Rudy Van Gelder Edition",
-      "url": "https://open.spotify.com/track/5PfcpDnzz8VdUoziFWnhrU"
-    },
-    {
-      "added_at": "2023-10-05 06:55:37",
-      "album": {
         "name": "Song For My Father",
         "url": "https://open.spotify.com/album/4LEnATSqKeANOJ0mLUAuCE"
       },
@@ -411,6 +395,22 @@
       "duration_ms": 422933,
       "name": "Lonely Woman - Remastered 1999/Rudy Van Gelder Edition",
       "url": "https://open.spotify.com/track/23VGdNEZzKVCpIazC3ZHK6"
+    },
+    {
+      "added_at": "2023-10-05 06:55:37",
+      "album": {
+        "name": "Introducing Johnny Griffin (Rudy Van Gelder Edition / Remastered)",
+        "url": "https://open.spotify.com/album/2gxZYG5TEl9kZyyxIQqIAd"
+      },
+      "artists": [
+        {
+          "name": "Johnny Griffin",
+          "url": "https://open.spotify.com/artist/52cM6vrM4MJ8g4H7Ibo5fZ"
+        }
+      ],
+      "duration_ms": 473386,
+      "name": "Lover Man - Remastered 2006/Rudy Van Gelder Edition",
+      "url": "https://open.spotify.com/track/5PfcpDnzz8VdUoziFWnhrU"
     },
     {
       "added_at": "2023-10-05 06:55:37",
@@ -939,22 +939,6 @@
     {
       "added_at": "2023-10-05 06:55:37",
       "album": {
-        "name": "Profile",
-        "url": "https://open.spotify.com/album/1cde7Qcv0eKPegg7uVxgkG"
-      },
-      "artists": [
-        {
-          "name": "Duke Pearson",
-          "url": "https://open.spotify.com/artist/2SZ1e7QHN5jon9tpSpQl44"
-        }
-      ],
-      "duration_ms": 271946,
-      "name": "Black Coffee",
-      "url": "https://open.spotify.com/track/6zoe2w8ubQOTM7XFGU2tUE"
-    },
-    {
-      "added_at": "2023-10-05 06:55:37",
-      "album": {
         "name": "Cannonball Takes Charge",
         "url": "https://open.spotify.com/album/2nrR6HvGvjglD7umMvdj66"
       },
@@ -967,6 +951,22 @@
       "duration_ms": 334626,
       "name": "I Guess I'll Hang My Tears Out To Dry",
       "url": "https://open.spotify.com/track/3uPR8dQXnM4DhBFfiBEDmh"
+    },
+    {
+      "added_at": "2023-10-05 06:55:37",
+      "album": {
+        "name": "Profile",
+        "url": "https://open.spotify.com/album/1cde7Qcv0eKPegg7uVxgkG"
+      },
+      "artists": [
+        {
+          "name": "Duke Pearson",
+          "url": "https://open.spotify.com/artist/2SZ1e7QHN5jon9tpSpQl44"
+        }
+      ],
+      "duration_ms": 271946,
+      "name": "Black Coffee",
+      "url": "https://open.spotify.com/track/6zoe2w8ubQOTM7XFGU2tUE"
     },
     {
       "added_at": "2023-10-05 06:55:37",
@@ -1079,6 +1079,22 @@
     {
       "added_at": "2023-10-05 06:55:37",
       "album": {
+        "name": "Candy (Remastered)",
+        "url": "https://open.spotify.com/album/4GfUYw8hn5RPQHkRCcU2aL"
+      },
+      "artists": [
+        {
+          "name": "Lee Morgan",
+          "url": "https://open.spotify.com/artist/38C3okxv3fyyOIQUVPCdGX"
+        }
+      ],
+      "duration_ms": 447173,
+      "name": "All The Way - Rudy Van Gelder Edition / 2007 / Digital Remaster",
+      "url": "https://open.spotify.com/track/5Vwv04kuzOG41a1v8RgZ8O"
+    },
+    {
+      "added_at": "2023-10-05 06:55:37",
+      "album": {
         "name": "Blues In The Night",
         "url": "https://open.spotify.com/album/5nk9X6TfebDzuEdy59w817"
       },
@@ -1095,18 +1111,18 @@
     {
       "added_at": "2023-10-05 06:55:37",
       "album": {
-        "name": "Candy (Remastered)",
-        "url": "https://open.spotify.com/album/4GfUYw8hn5RPQHkRCcU2aL"
+        "name": "Inner Urge (The Rudy Van Gelder Edition)",
+        "url": "https://open.spotify.com/album/2Amg9J3U9jEUUJUxCW5OgI"
       },
       "artists": [
         {
-          "name": "Lee Morgan",
-          "url": "https://open.spotify.com/artist/38C3okxv3fyyOIQUVPCdGX"
+          "name": "Joe Henderson",
+          "url": "https://open.spotify.com/artist/3BG0nwVh3Gc7cuT4XdsLtt"
         }
       ],
-      "duration_ms": 447173,
-      "name": "All The Way - Rudy Van Gelder Edition / 2007 / Digital Remaster",
-      "url": "https://open.spotify.com/track/5Vwv04kuzOG41a1v8RgZ8O"
+      "duration_ms": 442200,
+      "name": "You Know I Care - Rudy Van Gelder Edition / 2004 Digital Remaster",
+      "url": "https://open.spotify.com/track/7eHpseL2CAKKtZmM56SiGV"
     },
     {
       "added_at": "2023-10-05 06:55:37",
@@ -1127,22 +1143,6 @@
       "duration_ms": 321400,
       "name": "Soultrane - Rudy Van Gelder Remaster",
       "url": "https://open.spotify.com/track/1hSoJlHi3q3jGaFcGrtCtB"
-    },
-    {
-      "added_at": "2023-10-05 06:55:37",
-      "album": {
-        "name": "Inner Urge (The Rudy Van Gelder Edition)",
-        "url": "https://open.spotify.com/album/2Amg9J3U9jEUUJUxCW5OgI"
-      },
-      "artists": [
-        {
-          "name": "Joe Henderson",
-          "url": "https://open.spotify.com/artist/3BG0nwVh3Gc7cuT4XdsLtt"
-        }
-      ],
-      "duration_ms": 442200,
-      "name": "You Know I Care - Rudy Van Gelder Edition / 2004 Digital Remaster",
-      "url": "https://open.spotify.com/track/7eHpseL2CAKKtZmM56SiGV"
     },
     {
       "added_at": "2023-10-05 06:55:37",

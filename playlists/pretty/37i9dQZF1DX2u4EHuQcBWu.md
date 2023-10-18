@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2u4EHuQcBWu.md) - [plain]
 
 > Himnos de Resistencia: Somos un pueblo fuerte que no se calla.
 
-[Spotify](https://open.spotify.com/user/spotify) - 181,234 likes - 100 songs - 6 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 181,299 likes - 100 songs - 6 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,8 +64,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2u4EHuQcBWu.md) - [plain]
 | 54 | [La Tierra](https://open.spotify.com/track/5R5BUvAO23Z83xvL5wXVOj) | [Ekhymosis](https://open.spotify.com/artist/4gOoiVWzfjPtXK3ohuEy0M) | [Ekhymosis](https://open.spotify.com/album/4EhPQamyGb7l1PnpkBHpjB) | 3:45 |
 | 55 | [que lo que](https://open.spotify.com/track/4FZOE9zQMqeWPxXqrIubmO) | [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj) | [que lo que](https://open.spotify.com/album/1pO9CYRWj5oJYJsIzFHYDu) | 2:04 |
 | 56 | [En Paro](https://open.spotify.com/track/32RmkzFIiN9XDtYLUFfiNU) | [Makiza](https://open.spotify.com/artist/3XaUjViDzB8N9bPqPeoWk5) | [Aerolineas Makiza](https://open.spotify.com/album/7MJTCxyETh3TbASUm8QGJQ) | 4:32 |
-| 57 | [El Corrido de Milo Vela](https://open.spotify.com/track/3zwBVTTefiTWLRerxC2fts) | [Vivir Quintana](https://open.spotify.com/artist/3Z3OTfxYdBnJKMXFbRjmU2) | [El Corrido de Milo Vela](https://open.spotify.com/album/0TkqWGLLhKA7Izw3sPpIq8) | 3:30 |
-| 58 | [Patria y Vida](https://open.spotify.com/track/1jOF5X4zw27t9LQltutz9f) | [Yotuel](https://open.spotify.com/artist/3IzFiozYX6N0Qoz0drX8w8), [Gente De Zona](https://open.spotify.com/artist/2cy1zPcrFcXAJTP0APWewL), [Descemer Bueno](https://open.spotify.com/artist/5luyt0SUvGkDMY4ILP6Qhl), [Maykel Osorbo](https://open.spotify.com/artist/5UrnIgOA6WZvJnDmFd4G2u), [El Funky](https://open.spotify.com/artist/2dHyenXNc5AXYDCdSfROhm) | [Patria y Vida](https://open.spotify.com/album/11KmjqP7jS1tb7caxTPYHa) | 4:05 |
+| 57 | [Patria y Vida](https://open.spotify.com/track/1jOF5X4zw27t9LQltutz9f) | [Yotuel](https://open.spotify.com/artist/3IzFiozYX6N0Qoz0drX8w8), [Gente De Zona](https://open.spotify.com/artist/2cy1zPcrFcXAJTP0APWewL), [Descemer Bueno](https://open.spotify.com/artist/5luyt0SUvGkDMY4ILP6Qhl), [Maykel Osorbo](https://open.spotify.com/artist/5UrnIgOA6WZvJnDmFd4G2u), [El Funky](https://open.spotify.com/artist/2dHyenXNc5AXYDCdSfROhm) | [Patria y Vida](https://open.spotify.com/album/11KmjqP7jS1tb7caxTPYHa) | 4:05 |
+| 58 | [El Corrido de Milo Vela](https://open.spotify.com/track/3zwBVTTefiTWLRerxC2fts) | [Vivir Quintana](https://open.spotify.com/artist/3Z3OTfxYdBnJKMXFbRjmU2) | [El Corrido de Milo Vela](https://open.spotify.com/album/0TkqWGLLhKA7Izw3sPpIq8) | 3:30 |
 | 59 | [Más Poder](https://open.spotify.com/track/3oF7I6xfM2ALb4rJ6d3mTt) | [La Sarita](https://open.spotify.com/artist/4FclbIRVpHDYM9RaQpQHCR) | [Más Poder](https://open.spotify.com/album/6q5z4VFO2RvUcFs7v7msYN) | 4:15 |
 | 60 | [La Muralla](https://open.spotify.com/track/7xTdDHBepVRqP9BqobHI75) | [Quilapayún](https://open.spotify.com/artist/76sZcEL2ZXBTqNeFJAhlup) | [La Nueva Cancion Chilena, Vol\. 1](https://open.spotify.com/album/6lXAQ5Gozo845iSrcQEvfI) | 4:39 |
 | 61 | [Somos Sur](https://open.spotify.com/track/7Ke2pX91o8sYw220ZY0whv) | [Ana Tijoux](https://open.spotify.com/artist/40JMTpVRUw90SrN4pFA6Mz), [Shadia Mansour](https://open.spotify.com/artist/3PaRWHJX1nnmN4kffMGm93) | [Vengo](https://open.spotify.com/album/4AvYh9UIRwjZJYI9X7p8ua) | 3:46 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2u4EHuQcBWu.md) - [plain]
 | 99 | [Paco Vampiro](https://open.spotify.com/track/1d8izQZm0HT6s49oOm235o) | [Alex Anwandter](https://open.spotify.com/artist/0M8uC0u1YRUGCieOKmQF02) | [Paco Vampiro](https://open.spotify.com/album/71wsgoCJ3gvOV7zh9sjbLX) | 3:21 |
 | 100 | [Grita Tierra](https://open.spotify.com/track/1TbUrLorDczVuZuPz0U5lZ) | [UN Live](https://open.spotify.com/artist/598aN61ejdgFL6RzTmphnJ), [Catalina García](https://open.spotify.com/artist/2eWiATMtcOCS8vAjRJp9iY), [Roco Pachukote](https://open.spotify.com/artist/2ODbtFkjehgsWGLhybegVA), [Sandesh Manuel](https://open.spotify.com/artist/1FP9jgHKP3F3gojPpPZMH1), [Conector](https://open.spotify.com/artist/07911i0JpJbxQyDEHDgkbT), [Daniel Roa](https://open.spotify.com/artist/3dPJfVYIqsjDsBRA5z8vKF), [Hna Nidia Macías](https://open.spotify.com/artist/2BbhmRWi28bLVgHBClCdEp) | [Grita Tierra](https://open.spotify.com/album/16xnx1BIx96nDG1T20MF3z) | 4:35 |
 
-Snapshot ID: `MCw4ZDYyYWI5MzYxOWY0ZWI1ZThjOTVhNjIzNTgxYTllZGJkZDU5NTQx`
+Snapshot ID: `MCxhM2RiNWUzNDEwNDk5YWVhN2VlNmZiYzQ4MzVmYmE5ZTE5MTBiOWJl`

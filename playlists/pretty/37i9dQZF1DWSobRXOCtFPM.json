@@ -1,12 +1,12 @@
 {
   "description": "Listen to  <a href=\"spotify:artist:19SmlbABtI4bXz864MLqOS\">Carl Cox</a>' favorite tracks. Updated regularly. More track IDs <a href=\"spotify:genre:track_id\">here</a>.",
-  "num_followers": 119924,
+  "num_followers": 119955,
   "original_name": "Carl Cox' track IDs",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5ZWMxNzBiNzQ4NzkwZDBkYzY0NDM3NTcwM2Q0NTJmMzJiYWNmZjE0",
+  "snapshot_id": "MCw5ZWRjZjZlNWQyY2M5NDk4NWFkNGIyNjI3NzNiZjhkZmQxOTIwMzVi",
   "tracks": [
     {
       "added_at": "2023-10-06 15:02:58",
@@ -26,6 +26,10 @@
         {
           "name": "Reb\u016bke",
           "url": "https://open.spotify.com/artist/113reBz1jA6rVxbXl55mlj"
+        },
+        {
+          "name": "Christopher Coe",
+          "url": "https://open.spotify.com/artist/3LLc5jMIE1UHX5eF2cN8rP"
         }
       ],
       "duration_ms": 387688,
@@ -50,6 +54,10 @@
         {
           "name": "Reb\u016bke",
           "url": "https://open.spotify.com/artist/113reBz1jA6rVxbXl55mlj"
+        },
+        {
+          "name": "Christopher Coe",
+          "url": "https://open.spotify.com/artist/3LLc5jMIE1UHX5eF2cN8rP"
         }
       ],
       "duration_ms": 324930,
@@ -74,6 +82,10 @@
         {
           "name": "Reb\u016bke",
           "url": "https://open.spotify.com/artist/113reBz1jA6rVxbXl55mlj"
+        },
+        {
+          "name": "Christopher Coe",
+          "url": "https://open.spotify.com/artist/3LLc5jMIE1UHX5eF2cN8rP"
         }
       ],
       "duration_ms": 258459,

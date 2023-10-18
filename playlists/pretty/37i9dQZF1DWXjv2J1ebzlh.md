@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXjv2J1ebzlh.md) - [plain]
 
 > The magical world map! Play it in shuffle ☀️
 
-[Spotify](https://open.spotify.com/user/spotify) - 103,922 likes - 1,190 songs - 3 day 6 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 103,953 likes - 1,190 songs - 3 day 6 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -781,7 +781,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXjv2J1ebzlh.md) - [plain]
 | 771 | [คุณไม่รักทำไมไม่บอก](https://open.spotify.com/track/7MpiaPAs6v5cNIpEJrU4gX) | [พุ่มพวง ดวงจันทร์](https://open.spotify.com/artist/7bssbqY8HKop2WbQs7meR6) | [ตะวันลับฟ้า \(Orignal Vinyl Sound\)](https://open.spotify.com/album/08xJSYxG3AUcRN06QMRCSR) | 3:09 |
 | 772 | [Timida serenata](https://open.spotify.com/track/0yWAeUs9UxuCE6PWFf7Jai) | [Gloria Christian](https://open.spotify.com/artist/1tGvCnveV3FhhNIjjGEPPI) | [Successi da Sanremo](https://open.spotify.com/album/2WO9YgLUBVKkBCrMhSlKqZ) | 3:03 |
 | 773 | [Jó](https://open.spotify.com/track/3B6m9uuLo4QiO69UdJ3b4a) | [Os Tincoãs](https://open.spotify.com/artist/2rnJUBfFhgXBrywGEQ8zC7) | [O Africanto dos Tincoãs](https://open.spotify.com/album/2W7LAYpSOcthmexwlrxfdL) | 3:07 |
-| 774 | [Mitamiyo](https://open.spotify.com/track/2q9SWGXBh3VE7ZmERLEbYS) | [Mendes & Mendes](https://open.spotify.com/artist/4Bh3bsbrB7fnChSdZZEHvf) | [Mendes & Mendes](https://open.spotify.com/album/4UqjJ3DpAQRa78hPNJhqB4) | 5:29 |
+| 774 | [Mitamiyo](https://open.spotify.com/track/6xGWndvNAR8wgpSiyPy9OH) | [Mendes & Mendes](https://open.spotify.com/artist/4Bh3bsbrB7fnChSdZZEHvf) | [Radio Verde \(Compiled by Arp Frique & Americo Brito\)](https://open.spotify.com/album/1rNRvenOKQOzgjXme9O6s9) | 5:25 |
 | 775 | [Dance Maria](https://open.spotify.com/track/26s4mCZ2Plz0ucEZJboRQf) | [Agepê](https://open.spotify.com/artist/5T2UOU9fV8RcUgLH3b6TTN) | [Canto de Esperança](https://open.spotify.com/album/06USmj4AVPJAbYj2di4k8v) | 3:00 |
 | 776 | [Cumbia Del Monte](https://open.spotify.com/track/05VYy9wCmhvywOgDI3qfv7) | [Carmen Rivero Y Su Conjunto](https://open.spotify.com/artist/4xtmYfec6gCSbTiZv4NRp6) | [La Gran Coleccion Del 60 Aniversario CBS \- Carmen Rivero Y Su Conjunto / Linda Vera](https://open.spotify.com/album/6uecN4Frh5DSbib4ryYId6) | 3:12 |
 | 777 | [Tau Special](https://open.spotify.com/track/34APgpzbIv9kkd2mM7kHUs) | [The Movers](https://open.spotify.com/artist/2X07VlWN9IlypdVxQqtwY6) | [The Movers \- Vol\. 1 \- 1970\-1976 \(Analog Africa No.35\)](https://open.spotify.com/album/7I0Gekl9NNLzgs5EGU6jjW) | 2:51 |
@@ -1199,4 +1199,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXjv2J1ebzlh.md) - [plain]
 | 1189 | [Ponta De Lança Africano](https://open.spotify.com/track/3LcGqv91NIBQaUmnNbsKu8) | [Jorge Ben Jor](https://open.spotify.com/artist/5JYtpnUKxAzXfHEYpOeeit) | [Africa Brasil](https://open.spotify.com/album/0esHQqYklDPje00NUNq6py) | 3:52 |
 | 1190 | [La burrita mocha](https://open.spotify.com/track/5ZUDABVqjta6rM9CaWw3w9) | [Esther Forero](https://open.spotify.com/artist/5MzgBKlIxqLzznQoRyfvKq) | [La burrita mocha](https://open.spotify.com/album/1aCtz9EtWc1OXFeG8Io9kv) | 2:44 |
 
-Snapshot ID: `MCw4YjQzNjBjODU5ZTYzODVkM2EzODUxYjQxODY0OThjZmQ2MDUxZTc1`
+Snapshot ID: `MCw4OTA2MmY5NjgzYzczMWQxNzYyZTRkZDcwZThiNzI0NDA2NDNhZDY0`

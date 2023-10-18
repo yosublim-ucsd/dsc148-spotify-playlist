@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-11",
-  "description": "The biggest rock bands/artists in Japan right now! Cover: Sambomaster(\u30b5\u30f3\u30dc\u30de\u30b9\u30bf\u30fc)",
+  "description": "The biggest rock bands/artists in Japan right now! Cover: 04 Limited Sazabys",
   "name": "Big in Japan",
   "tracks": [
     {
@@ -1156,7 +1156,7 @@
       ],
       "date_added": "2023-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-18",
       "duration_ms": 206081,
       "name": "BRING BACK HOME",
       "url": "https://open.spotify.com/track/1dGdfrWDJZpHx8GsDRyTx3"
@@ -2654,7 +2654,7 @@
       ],
       "date_added": "2023-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-18",
       "duration_ms": 195750,
       "name": "GET BACK",
       "url": "https://open.spotify.com/track/7wWybh1ChBRIf1UgljRZoR"
@@ -2730,6 +2730,24 @@
       "duration_ms": 163898,
       "name": "Getmeee!",
       "url": "https://open.spotify.com/track/4pnjJjg97zROrEz6x37H5N"
+    },
+    {
+      "album": {
+        "name": "GHOST SUMMER",
+        "url": "https://open.spotify.com/album/5T3NyX1UJKBw9v26whRoXv"
+      },
+      "artists": [
+        {
+          "name": "the band apart (naked)",
+          "url": "https://open.spotify.com/artist/6jXhrERTGFVSiffzV8iwBg"
+        }
+      ],
+      "date_added": "2023-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262945,
+      "name": "GHOST SUMMER",
+      "url": "https://open.spotify.com/track/4z5rrFnhA8Agb3yGjjBItv"
     },
     {
       "album": {
@@ -3348,7 +3366,7 @@
       ],
       "date_added": "2023-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-18",
       "duration_ms": 227093,
       "name": "In a Black Out",
       "url": "https://open.spotify.com/track/4Jb9qPgIOtVmUQJoRDvKwl"
@@ -5211,6 +5229,24 @@
     },
     {
       "album": {
+        "name": "My One Wish",
+        "url": "https://open.spotify.com/album/0LPc8YbGDUS4xkphNIQIbk"
+      },
+      "artists": [
+        {
+          "name": "Ken Yokoyama",
+          "url": "https://open.spotify.com/artist/4pPZ7nNH108ax8A1sjxfpX"
+        }
+      ],
+      "date_added": "2023-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172092,
+      "name": "My One Wish",
+      "url": "https://open.spotify.com/track/5TO9cofRiOhakgaMh3f75i"
+    },
+    {
+      "album": {
         "name": "MY SWEET ALIEN",
         "url": "https://open.spotify.com/album/5eNieYTWHDBYYmr47OgSgp"
       },
@@ -5550,6 +5586,28 @@
       "duration_ms": 271245,
       "name": "Nowhere",
       "url": "https://open.spotify.com/track/3dqh1uFzMF44p7yjSkxXIm"
+    },
+    {
+      "album": {
+        "name": "O.T.S.S.",
+        "url": "https://open.spotify.com/album/1prN09WZiCP2TOZuNLBgxQ"
+      },
+      "artists": [
+        {
+          "name": "SBK",
+          "url": "https://open.spotify.com/artist/2zHoXYzIEiq5t25A4dqMDD"
+        },
+        {
+          "name": "\u30e9\u30c3\u30d1\u6211\u30ea\u30e4",
+          "url": "https://open.spotify.com/artist/0rNAEraQzDXHYQdurLutVe"
+        }
+      ],
+      "date_added": "2023-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205653,
+      "name": "O.T.S.S.",
+      "url": "https://open.spotify.com/track/1xp4xPXKoWHkB6yWxfJaNT"
     },
     {
       "album": {
@@ -6214,6 +6272,24 @@
       "duration_ms": 203666,
       "name": "Re-monolith",
       "url": "https://open.spotify.com/track/2P406Mp2LZ8Iqai7WAUDs3"
+    },
+    {
+      "album": {
+        "name": "Re-Birth",
+        "url": "https://open.spotify.com/album/7ISkjyWyY2TfNj5JyMv98c"
+      },
+      "artists": [
+        {
+          "name": "04 Limited Sazabys",
+          "url": "https://open.spotify.com/artist/6Gem5Nh6gd9PCtWdzR7Odh"
+        }
+      ],
+      "date_added": "2023-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248280,
+      "name": "Re-swim",
+      "url": "https://open.spotify.com/track/4mOpM9lKBtokiyhFHubxWm"
     },
     {
       "album": {
@@ -7734,7 +7810,7 @@
       ],
       "date_added": "2023-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-18",
       "duration_ms": 242135,
       "name": "Super Loud",
       "url": "https://open.spotify.com/track/7Btt53bVQzP6LWm1bD7NLi"
@@ -9530,7 +9606,7 @@
       ],
       "date_added": "2023-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-18",
       "duration_ms": 208965,
       "name": "\u3042\u306a\u305f\u304c\u6bce\u65e5\u76f4\u9762\u3057\u3066\u3044\u308b \u4e16\u754c\u306e\u6182\u9b31",
       "url": "https://open.spotify.com/track/6IcwVnM9zRuibPqH1aFnTm"
@@ -11596,7 +11672,7 @@
       ],
       "date_added": "2023-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-18",
       "duration_ms": 211315,
       "name": "\u30cd\u30a4\u30d3\u30fc\u30aa\u30ec\u30f3\u30b8(AI VOCAL)",
       "url": "https://open.spotify.com/track/4JIU603Pf3TVBB2SFBBFUi"
@@ -12234,6 +12310,24 @@
       "duration_ms": 176106,
       "name": "\u4e09\u53c9\u8def\u306e\u3075\u305f\u308a",
       "url": "https://open.spotify.com/track/2dxI9SqqEO00D4RyHeCKEz"
+    },
+    {
+      "album": {
+        "name": "\u4e0b\u3092\u5411\u3044\u3066\u6b69\u3053\u3046",
+        "url": "https://open.spotify.com/album/17UUaCzdhyI4M9lXWP5qUK"
+      },
+      "artists": [
+        {
+          "name": "amazarashi",
+          "url": "https://open.spotify.com/artist/6T4K8YuFc0JPDrYgABbxao"
+        }
+      ],
+      "date_added": "2023-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 302786,
+      "name": "\u4e0b\u3092\u5411\u3044\u3066\u6b69\u3053\u3046",
+      "url": "https://open.spotify.com/track/1asktHGEURdlQRGFGWLpi9"
     },
     {
       "album": {
@@ -14606,7 +14700,7 @@
       ],
       "date_added": "2023-09-05",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-11",
+      "date_removed": null,
       "duration_ms": 253413,
       "name": "\u7a81\u7834\u53e3",
       "url": "https://open.spotify.com/track/2JNl3zf7dLaK3ceN12RTOW"

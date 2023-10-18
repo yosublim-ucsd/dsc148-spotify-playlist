@@ -1,12 +1,12 @@
 {
   "description": "Music from TV shows and films nominated for the 80th Golden Globe Awards. Watch Jan 10, 2023 on NBC.",
-  "num_followers": 5731,
+  "num_followers": 5732,
   "original_name": "Golden Globes",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5ZjFjZWI1ZDFhZjRmNzMxNDg2YWYwNWMwYjNiM2NkOWEzZGY4M2I0",
+  "snapshot_id": "MCwzN2JkZWVmNDdmZjZjNzBkZTg5YWViYWZjN2RhMzAyM2QzNWE4M2Jm",
   "tracks": [
     {
       "added_at": "2022-12-21 17:45:34",
@@ -43,22 +43,6 @@
     {
       "added_at": "2022-12-21 17:45:34",
       "album": {
-        "name": "Avatar: The Way of Water (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/4M2Mf4pmARKGVT9MLCe3HA"
-      },
-      "artists": [
-        {
-          "name": "The Weeknd",
-          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
-        }
-      ],
-      "duration_ms": 267504,
-      "name": "Nothing Is Lost (You Give Me Strength)",
-      "url": "https://open.spotify.com/track/1DzJbVkBELu6jDu6q0T0tk"
-    },
-    {
-      "added_at": "2022-12-21 17:45:34",
-      "album": {
         "name": "Carolina (From The Motion Picture \u201cWhere The Crawdads Sing\u201d)",
         "url": "https://open.spotify.com/album/5Bwg2XxrjTlrNy6BC7KQZf"
       },
@@ -71,6 +55,22 @@
       "duration_ms": 264438,
       "name": "Carolina - From The Motion Picture \u201cWhere The Crawdads Sing\u201d",
       "url": "https://open.spotify.com/track/4axSuOg3BqsowKjRpj59RU"
+    },
+    {
+      "added_at": "2022-12-21 17:45:34",
+      "album": {
+        "name": "Avatar: The Way of Water (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/4M2Mf4pmARKGVT9MLCe3HA"
+      },
+      "artists": [
+        {
+          "name": "The Weeknd",
+          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
+        }
+      ],
+      "duration_ms": 267504,
+      "name": "Nothing Is Lost (You Give Me Strength)",
+      "url": "https://open.spotify.com/track/1DzJbVkBELu6jDu6q0T0tk"
     },
     {
       "added_at": "2022-12-21 17:45:34",

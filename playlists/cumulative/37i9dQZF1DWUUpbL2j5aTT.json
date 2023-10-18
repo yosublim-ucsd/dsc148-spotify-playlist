@@ -1166,6 +1166,24 @@
     {
       "album": {
         "name": "Party's",
+        "url": "https://open.spotify.com/album/4OPafueLQGpYy67sc0k4Yk"
+      },
+      "artists": [
+        {
+          "name": "Visage Music",
+          "url": "https://open.spotify.com/artist/05WcfGPdzCMKpdGc17cUko"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201791,
+      "name": "Party's",
+      "url": "https://open.spotify.com/track/3bKPFB4avIGVnq2LBILy8J"
+    },
+    {
+      "album": {
+        "name": "Party's",
         "url": "https://open.spotify.com/album/3EHgyrm221LFExQlMuJOmx"
       },
       "artists": [
@@ -1176,7 +1194,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-18",
       "duration_ms": 201791,
       "name": "Party's",
       "url": "https://open.spotify.com/track/5CFPtKrjcZrOjrZRZiH58P"

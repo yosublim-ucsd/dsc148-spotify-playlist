@@ -4,7 +4,7 @@
 
 > The newest Hardstyle tracks \| 2023 Hardstyle\. Cover: Hard Driver
 
-607 songs - 1 day 9 hr 22 min
+608 songs - 1 day 9 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -608,7 +608,8 @@
 | [With You](https://open.spotify.com/track/2qR8jsXwHJccStxQUQFXyx) | [MYST](https://open.spotify.com/artist/18UStRMkfnMhX5Qxzhylej) | [With You](https://open.spotify.com/album/3kHnXUrJmc696tghdqE2d5) | 3:18 | 2022-12-08 | 2023-02-24 |
 | [Without Me](https://open.spotify.com/track/7kNx3Ok9JW0UC1v9tFBQHr) | [Zombic](https://open.spotify.com/artist/6t0ofV5WMAz84Iqu0YkmTV), [Lawstylez](https://open.spotify.com/artist/6VBSwCRUCT6b3igxW6VfJZ) | [Without Me](https://open.spotify.com/album/4h583bX8E1H63JQ385UTky) | 3:19 | 2023-05-25 | 2023-09-08 |
 | [WKND!](https://open.spotify.com/track/76e9eoJxKRoQhutO5CvDqX) | [Brennan Heart](https://open.spotify.com/artist/5QySqc6yAFDx9m7fedFZmC), [Wildstylez](https://open.spotify.com/artist/0wr85NuJuAYZsRzP1lJgiV) | [WKND!](https://open.spotify.com/album/60ghuelB3S5nXjgOXn8Gh0) | 3:55 | 2023-06-18 | 2023-06-26 |
-| [WOLFGANG](https://open.spotify.com/track/7HG413xQYwoR6i8D3ADC7J) | [Timmy Trumpet](https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ), [Mariana BO](https://open.spotify.com/artist/2cFzYhiHqYS7o8ZIM9WD22), [Junkie Kid](https://open.spotify.com/artist/3CjPghA9sowRwFGSrU038J) | [Timmy Trumpet's SINPHONY No\. 1](https://open.spotify.com/album/1QRuYyPWkoxox6RY3bU4T5) | 2:48 | 2023-10-12 |  |
+| [WOLFGANG](https://open.spotify.com/track/7HG413xQYwoR6i8D3ADC7J) | [Timmy Trumpet](https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ), [Mariana BO](https://open.spotify.com/artist/2cFzYhiHqYS7o8ZIM9WD22), [Junkie Kid](https://open.spotify.com/artist/3CjPghA9sowRwFGSrU038J) | [Timmy Trumpet's SINPHONY No\. 1](https://open.spotify.com/album/1QRuYyPWkoxox6RY3bU4T5) | 2:48 | 2023-10-12 | 2023-10-18 |
+| [WOLFGANG](https://open.spotify.com/track/7fSxXydUV3O7B9v2EBQCS3) | [Timmy Trumpet](https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ), [Mariana BO](https://open.spotify.com/artist/2cFzYhiHqYS7o8ZIM9WD22), [Junkie Kid](https://open.spotify.com/artist/3CjPghA9sowRwFGSrU038J) | [Timmy Trumpet's SINPHONY No\. 1](https://open.spotify.com/album/4nRym2kzawfVrO1bHcw5zK) | 2:48 | 2023-10-16 |  |
 | [Work My Body](https://open.spotify.com/track/7qo3ijgvEpDGZgGaqPID0X) | [Dr Rude](https://open.spotify.com/artist/5akubyqg9eYtnCtDEeJz2s) | [Work My Body](https://open.spotify.com/album/5hXObVDSKOYxhs3KHmpFXr) | 3:53 | 2023-06-30 | 2023-09-29 |
 | [XTC](https://open.spotify.com/track/4e6IeyAH5IxXM2XsyusvIb) | [Kronos](https://open.spotify.com/artist/2B3mYtzGes0f92Yfn4mVQD), [Unresolved](https://open.spotify.com/artist/6glAHKAPvBPUQ4HQcYXxpr) | [XTC](https://open.spotify.com/album/6i3w3ojtW5s8gz15CWd1rj) | 2:39 | 2023-05-18 | 2023-07-01 |
 | [XTC](https://open.spotify.com/track/7yeMfRQjzbyUn3c9TV3KGh) | [Quickdrop](https://open.spotify.com/artist/5zwFj25Ky9akUZjQHuaDDa), [Verox](https://open.spotify.com/artist/1YxEjbsVeq02klNTE7PFFD) | [XTC](https://open.spotify.com/album/1tWFh0S0BpKy0Ozpm2fBj4) | 2:42 | 2023-10-06 |  |

@@ -1,6 +1,6 @@
 {
   "description": "'80s New Wave, New Romantic and Post-punk.",
-  "num_followers": 990389,
+  "num_followers": 990951,
   "original_name": "'80s All Lined Up",
   "owner": {
     "name": "Spotify",
@@ -99,30 +99,6 @@
     {
       "added_at": "2023-05-03 07:47:14",
       "album": {
-        "name": "Sweet Dreams (Are Made Of This)",
-        "url": "https://open.spotify.com/album/5jNDWA19BJbE24x1UUJGRY"
-      },
-      "artists": [
-        {
-          "name": "Eurythmics",
-          "url": "https://open.spotify.com/artist/0NKDgy9j66h3DLnN8qu1bB"
-        },
-        {
-          "name": "Annie Lennox",
-          "url": "https://open.spotify.com/artist/5MspMQqdVbdwP6ax3GXqum"
-        },
-        {
-          "name": "Dave Stewart",
-          "url": "https://open.spotify.com/artist/7gcCQIlkkfbul5Mt0jBQkg"
-        }
-      ],
-      "duration_ms": 216933,
-      "name": "Sweet Dreams (Are Made of This) - Remastered",
-      "url": "https://open.spotify.com/track/1TfqLAPs4K3s2rJMoCokcS"
-    },
-    {
-      "added_at": "2023-05-03 07:47:14",
-      "album": {
         "name": "Billy Idol",
         "url": "https://open.spotify.com/album/5ebh0MxkqELmk50xHj2b4k"
       },
@@ -155,34 +131,26 @@
     {
       "added_at": "2023-05-03 07:47:14",
       "album": {
-        "name": "Love Will Tear Us Apart",
-        "url": "https://open.spotify.com/album/0u0CJa9zwFbGSU8JWQYS5G"
+        "name": "Sweet Dreams (Are Made Of This)",
+        "url": "https://open.spotify.com/album/5jNDWA19BJbE24x1UUJGRY"
       },
       "artists": [
         {
-          "name": "Joy Division",
-          "url": "https://open.spotify.com/artist/432R46LaYsJZV2Gmc4jUV5"
-        }
-      ],
-      "duration_ms": 208453,
-      "name": "Love Will Tear Us Apart - 2020 Remaster",
-      "url": "https://open.spotify.com/track/34iOH7LY3vme5rQxsVILZ4"
-    },
-    {
-      "added_at": "2023-05-03 07:47:14",
-      "album": {
-        "name": "It's My Life",
-        "url": "https://open.spotify.com/album/152Hw6E0tNz3EQNq9c1CDf"
-      },
-      "artists": [
+          "name": "Eurythmics",
+          "url": "https://open.spotify.com/artist/0NKDgy9j66h3DLnN8qu1bB"
+        },
         {
-          "name": "Talk Talk",
-          "url": "https://open.spotify.com/artist/7Fo8TAyGJr4VmhE68QamMf"
+          "name": "Annie Lennox",
+          "url": "https://open.spotify.com/artist/5MspMQqdVbdwP6ax3GXqum"
+        },
+        {
+          "name": "Dave Stewart",
+          "url": "https://open.spotify.com/artist/7gcCQIlkkfbul5Mt0jBQkg"
         }
       ],
-      "duration_ms": 232400,
-      "name": "It's My Life - 1997 Remaster",
-      "url": "https://open.spotify.com/track/4jhsuQCUCJKA5f0bXb6XdJ"
+      "duration_ms": 216933,
+      "name": "Sweet Dreams (Are Made of This) - Remastered",
+      "url": "https://open.spotify.com/track/1TfqLAPs4K3s2rJMoCokcS"
     },
     {
       "added_at": "2023-05-03 07:47:14",
@@ -203,6 +171,22 @@
     {
       "added_at": "2023-05-03 07:47:14",
       "album": {
+        "name": "Love Will Tear Us Apart",
+        "url": "https://open.spotify.com/album/0u0CJa9zwFbGSU8JWQYS5G"
+      },
+      "artists": [
+        {
+          "name": "Joy Division",
+          "url": "https://open.spotify.com/artist/432R46LaYsJZV2Gmc4jUV5"
+        }
+      ],
+      "duration_ms": 208453,
+      "name": "Love Will Tear Us Apart - 2020 Remaster",
+      "url": "https://open.spotify.com/track/34iOH7LY3vme5rQxsVILZ4"
+    },
+    {
+      "added_at": "2023-05-03 07:47:14",
+      "album": {
         "name": "Forever Young (Super Deluxe Edition; 2019 Remaster)",
         "url": "https://open.spotify.com/album/1BAmE3bdBnxej0umzyHQ5x"
       },
@@ -215,6 +199,22 @@
       "duration_ms": 226000,
       "name": "Forever Young - 2019 Remaster",
       "url": "https://open.spotify.com/track/6XHNIbru8xGohLzHNgxQvF"
+    },
+    {
+      "added_at": "2023-05-03 07:47:14",
+      "album": {
+        "name": "It's My Life",
+        "url": "https://open.spotify.com/album/152Hw6E0tNz3EQNq9c1CDf"
+      },
+      "artists": [
+        {
+          "name": "Talk Talk",
+          "url": "https://open.spotify.com/artist/7Fo8TAyGJr4VmhE68QamMf"
+        }
+      ],
+      "duration_ms": 232400,
+      "name": "It's My Life - 1997 Remaster",
+      "url": "https://open.spotify.com/track/4jhsuQCUCJKA5f0bXb6XdJ"
     },
     {
       "added_at": "2023-05-03 07:47:14",
@@ -315,22 +315,6 @@
     {
       "added_at": "2023-05-03 07:47:14",
       "album": {
-        "name": "Document (R.E.M. No. 5)",
-        "url": "https://open.spotify.com/album/6gMv3MgFlieOM6Uz5GZBzy"
-      },
-      "artists": [
-        {
-          "name": "R.E.M.",
-          "url": "https://open.spotify.com/artist/4KWTAlx2RvbpseOGMEmROg"
-        }
-      ],
-      "duration_ms": 246933,
-      "name": "It's The End Of The World As We Know It (And I Feel Fine)",
-      "url": "https://open.spotify.com/track/2oSpQ7QtIKTNFfA08Cy0ku"
-    },
-    {
-      "added_at": "2023-05-03 07:47:14",
-      "album": {
         "name": "Hatful of Hollow",
         "url": "https://open.spotify.com/album/1j57Q5ntVi7crpibb0h4sv"
       },
@@ -343,6 +327,22 @@
       "duration_ms": 215760,
       "name": "Heaven Knows I'm Miserable Now - 2011 Remaster",
       "url": "https://open.spotify.com/track/1xaTREM89RbIxkcjlpf4Uw"
+    },
+    {
+      "added_at": "2023-05-03 07:47:14",
+      "album": {
+        "name": "Document (R.E.M. No. 5)",
+        "url": "https://open.spotify.com/album/6gMv3MgFlieOM6Uz5GZBzy"
+      },
+      "artists": [
+        {
+          "name": "R.E.M.",
+          "url": "https://open.spotify.com/artist/4KWTAlx2RvbpseOGMEmROg"
+        }
+      ],
+      "duration_ms": 246933,
+      "name": "It's The End Of The World As We Know It (And I Feel Fine)",
+      "url": "https://open.spotify.com/track/2oSpQ7QtIKTNFfA08Cy0ku"
     },
     {
       "added_at": "2023-05-03 07:47:14",
@@ -443,22 +443,6 @@
     {
       "added_at": "2023-05-03 07:47:14",
       "album": {
-        "name": "The Queen Is Dead",
-        "url": "https://open.spotify.com/album/5Y0p2XCgRRIjna91aQE8q7"
-      },
-      "artists": [
-        {
-          "name": "The Smiths",
-          "url": "https://open.spotify.com/artist/3yY2gUcIsjMr8hjo51PoJ8"
-        }
-      ],
-      "duration_ms": 193320,
-      "name": "Bigmouth Strikes Again - 2011 Remaster",
-      "url": "https://open.spotify.com/track/2OErSh4oVVAUll0vHxdr6p"
-    },
-    {
-      "added_at": "2023-05-03 07:47:14",
-      "album": {
         "name": "The Gift",
         "url": "https://open.spotify.com/album/71OyKSCFX7DGsJc6qAhhQG"
       },
@@ -475,18 +459,18 @@
     {
       "added_at": "2023-05-03 07:47:14",
       "album": {
-        "name": "Document - 25th Anniversary Edition",
-        "url": "https://open.spotify.com/album/65kIVEdb93smbnC7k4aie7"
+        "name": "The Queen Is Dead",
+        "url": "https://open.spotify.com/album/5Y0p2XCgRRIjna91aQE8q7"
       },
       "artists": [
         {
-          "name": "R.E.M.",
-          "url": "https://open.spotify.com/artist/4KWTAlx2RvbpseOGMEmROg"
+          "name": "The Smiths",
+          "url": "https://open.spotify.com/artist/3yY2gUcIsjMr8hjo51PoJ8"
         }
       ],
-      "duration_ms": 197800,
-      "name": "The One I Love - Remastered 2012",
-      "url": "https://open.spotify.com/track/2fdfsGuqb6SBX5ocoBWHUd"
+      "duration_ms": 193320,
+      "name": "Bigmouth Strikes Again - 2011 Remaster",
+      "url": "https://open.spotify.com/track/2OErSh4oVVAUll0vHxdr6p"
     },
     {
       "added_at": "2023-05-03 07:47:14",
@@ -507,6 +491,22 @@
     {
       "added_at": "2023-05-03 07:47:14",
       "album": {
+        "name": "Document - 25th Anniversary Edition",
+        "url": "https://open.spotify.com/album/65kIVEdb93smbnC7k4aie7"
+      },
+      "artists": [
+        {
+          "name": "R.E.M.",
+          "url": "https://open.spotify.com/artist/4KWTAlx2RvbpseOGMEmROg"
+        }
+      ],
+      "duration_ms": 197800,
+      "name": "The One I Love - Remastered 2012",
+      "url": "https://open.spotify.com/track/2fdfsGuqb6SBX5ocoBWHUd"
+    },
+    {
+      "added_at": "2023-05-03 07:47:14",
+      "album": {
         "name": "This Is the Sea (Deluxe Version)",
         "url": "https://open.spotify.com/album/0LoiHiWrQr7b0a4wlYVqSh"
       },
@@ -519,6 +519,22 @@
       "duration_ms": 302826,
       "name": "The Whole of the Moon - 2004 Remaster",
       "url": "https://open.spotify.com/track/1LzFh1VZ0FLeUesOFEuhyl"
+    },
+    {
+      "added_at": "2023-05-03 07:47:14",
+      "album": {
+        "name": "Disintegration (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/6vQB3ZBxnQPP3jQcGV2qzg"
+      },
+      "artists": [
+        {
+          "name": "The Cure",
+          "url": "https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s"
+        }
+      ],
+      "duration_ms": 209573,
+      "name": "Lovesong - 2010 Remaster",
+      "url": "https://open.spotify.com/track/0X5C4WjQNubRysTkHOubz3"
     },
     {
       "added_at": "2023-05-03 07:47:14",
@@ -539,22 +555,6 @@
     {
       "added_at": "2023-05-03 07:47:14",
       "album": {
-        "name": "Hatful of Hollow",
-        "url": "https://open.spotify.com/album/1j57Q5ntVi7crpibb0h4sv"
-      },
-      "artists": [
-        {
-          "name": "The Smiths",
-          "url": "https://open.spotify.com/artist/3yY2gUcIsjMr8hjo51PoJ8"
-        }
-      ],
-      "duration_ms": 408173,
-      "name": "How Soon Is Now? - 2011 Remaster",
-      "url": "https://open.spotify.com/track/1YrnDTqvcnUKxAIeXyaEmU"
-    },
-    {
-      "added_at": "2023-05-03 07:47:14",
-      "album": {
         "name": "Freedom of Choice",
         "url": "https://open.spotify.com/album/6UsP4NQ9K4L4Nqxj0Qis41"
       },
@@ -567,22 +567,6 @@
       "duration_ms": 161133,
       "name": "Whip It",
       "url": "https://open.spotify.com/track/4sscDOZCkbLSlDqcCgUJnX"
-    },
-    {
-      "added_at": "2023-05-03 07:47:14",
-      "album": {
-        "name": "Disintegration (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/6vQB3ZBxnQPP3jQcGV2qzg"
-      },
-      "artists": [
-        {
-          "name": "The Cure",
-          "url": "https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s"
-        }
-      ],
-      "duration_ms": 209573,
-      "name": "Lovesong - 2010 Remaster",
-      "url": "https://open.spotify.com/track/0X5C4WjQNubRysTkHOubz3"
     },
     {
       "added_at": "2023-05-03 07:47:14",
@@ -631,6 +615,22 @@
       "duration_ms": 266160,
       "name": "Ashes to Ashes - 2017 Remaster",
       "url": "https://open.spotify.com/track/37CRPk0L5ZpfPeePEPwE0t"
+    },
+    {
+      "added_at": "2023-05-03 07:47:14",
+      "album": {
+        "name": "Hatful of Hollow",
+        "url": "https://open.spotify.com/album/1j57Q5ntVi7crpibb0h4sv"
+      },
+      "artists": [
+        {
+          "name": "The Smiths",
+          "url": "https://open.spotify.com/artist/3yY2gUcIsjMr8hjo51PoJ8"
+        }
+      ],
+      "duration_ms": 408173,
+      "name": "How Soon Is Now? - 2011 Remaster",
+      "url": "https://open.spotify.com/track/1YrnDTqvcnUKxAIeXyaEmU"
     },
     {
       "added_at": "2023-05-03 07:47:14",
@@ -699,22 +699,6 @@
     {
       "added_at": "2023-05-03 07:47:14",
       "album": {
-        "name": "The Pleasure Principle",
-        "url": "https://open.spotify.com/album/5xFlkqLDx3wbgqtvrez1n0"
-      },
-      "artists": [
-        {
-          "name": "Gary Numan",
-          "url": "https://open.spotify.com/artist/5KQMtyPE8DCQNUzoNqlEsE"
-        }
-      ],
-      "duration_ms": 238906,
-      "name": "Cars",
-      "url": "https://open.spotify.com/track/4QQEzkxcONBthDLfzqIh9S"
-    },
-    {
-      "added_at": "2023-05-03 07:47:14",
-      "album": {
         "name": "The Head on the Door",
         "url": "https://open.spotify.com/album/6HhpmJekzDCRu2K64ZbWqw"
       },
@@ -743,6 +727,22 @@
       "duration_ms": 333816,
       "name": "China Girl - 2018 Remaster",
       "url": "https://open.spotify.com/track/5Ei9o2fHEnfHb84YrPuz4v"
+    },
+    {
+      "added_at": "2023-05-03 07:47:14",
+      "album": {
+        "name": "The Pleasure Principle",
+        "url": "https://open.spotify.com/album/5xFlkqLDx3wbgqtvrez1n0"
+      },
+      "artists": [
+        {
+          "name": "Gary Numan",
+          "url": "https://open.spotify.com/artist/5KQMtyPE8DCQNUzoNqlEsE"
+        }
+      ],
+      "duration_ms": 238906,
+      "name": "Cars",
+      "url": "https://open.spotify.com/track/4QQEzkxcONBthDLfzqIh9S"
     },
     {
       "added_at": "2023-05-03 07:47:14",
@@ -843,22 +843,6 @@
     {
       "added_at": "2023-05-03 07:47:14",
       "album": {
-        "name": "Lion and the Cobra",
-        "url": "https://open.spotify.com/album/5dVe3a5ld9uJC4VlpAXoJ6"
-      },
-      "artists": [
-        {
-          "name": "Sin\u00e9ad O'Connor",
-          "url": "https://open.spotify.com/artist/4sD9znwiVFx9cgRPZ42aQ1"
-        }
-      ],
-      "duration_ms": 323133,
-      "name": "Drink Before the War",
-      "url": "https://open.spotify.com/track/5Bmc87iF3wRWGyDbzcMrG3"
-    },
-    {
-      "added_at": "2023-05-03 07:47:14",
-      "album": {
         "name": "Daydream Nation (Deluxe Edition)",
         "url": "https://open.spotify.com/album/23O4F21GDWiGd33tFN3ZgI"
       },
@@ -871,6 +855,22 @@
       "duration_ms": 417800,
       "name": "Teen Age Riot (Album Version)",
       "url": "https://open.spotify.com/track/0WIbzDVEpmOyBnqqdtqIL9"
+    },
+    {
+      "added_at": "2023-05-03 07:47:14",
+      "album": {
+        "name": "Lion and the Cobra",
+        "url": "https://open.spotify.com/album/5dVe3a5ld9uJC4VlpAXoJ6"
+      },
+      "artists": [
+        {
+          "name": "Sin\u00e9ad O'Connor",
+          "url": "https://open.spotify.com/artist/4sD9znwiVFx9cgRPZ42aQ1"
+        }
+      ],
+      "duration_ms": 323133,
+      "name": "Drink Before the War",
+      "url": "https://open.spotify.com/track/5Bmc87iF3wRWGyDbzcMrG3"
     },
     {
       "added_at": "2023-05-03 07:47:14",
@@ -923,22 +923,6 @@
     {
       "added_at": "2023-05-03 07:47:14",
       "album": {
-        "name": "The Stone Roses",
-        "url": "https://open.spotify.com/album/0um9FI6BLBldL5POP4D4Cw"
-      },
-      "artists": [
-        {
-          "name": "The Stone Roses",
-          "url": "https://open.spotify.com/artist/1lYT0A0LV5DUfxr6doRP3d"
-        }
-      ],
-      "duration_ms": 594453,
-      "name": "Fools Gold - Remastered",
-      "url": "https://open.spotify.com/track/2mv6GY70UsHiTCGQZ4JfgC"
-    },
-    {
-      "added_at": "2023-05-03 07:47:14",
-      "album": {
         "name": "Love",
         "url": "https://open.spotify.com/album/2hallpchkYldMa5lGGf1Ko"
       },
@@ -983,6 +967,22 @@
       "duration_ms": 220533,
       "name": "The Model - 2009 Remaster",
       "url": "https://open.spotify.com/track/1FL9DHDSED6lxNMDJUJQvB"
+    },
+    {
+      "added_at": "2023-05-03 07:47:14",
+      "album": {
+        "name": "The Stone Roses",
+        "url": "https://open.spotify.com/album/0um9FI6BLBldL5POP4D4Cw"
+      },
+      "artists": [
+        {
+          "name": "The Stone Roses",
+          "url": "https://open.spotify.com/artist/1lYT0A0LV5DUfxr6doRP3d"
+        }
+      ],
+      "duration_ms": 594453,
+      "name": "Fools Gold - Remastered",
+      "url": "https://open.spotify.com/track/2mv6GY70UsHiTCGQZ4JfgC"
     },
     {
       "added_at": "2023-05-03 07:47:14",
@@ -1275,22 +1275,6 @@
     {
       "added_at": "2023-05-03 07:47:14",
       "album": {
-        "name": "Upstairs At Eric's",
-        "url": "https://open.spotify.com/album/47FOg0GaQDPGTbBTHDXg9V"
-      },
-      "artists": [
-        {
-          "name": "Yazoo",
-          "url": "https://open.spotify.com/artist/1G1mX30GpUJqOr1QU2eBSs"
-        }
-      ],
-      "duration_ms": 191306,
-      "name": "Don't Go",
-      "url": "https://open.spotify.com/track/3KuAa8Y79xlfJgYtBKbynY"
-    },
-    {
-      "added_at": "2023-05-03 07:47:14",
-      "album": {
         "name": "Night Time",
         "url": "https://open.spotify.com/album/5VLAt18707WnG1UlJH7Z2f"
       },
@@ -1303,6 +1287,22 @@
       "duration_ms": 239280,
       "name": "Eighties - 2007 Digital Remaster",
       "url": "https://open.spotify.com/track/0BUCVTLKMipDJDRiv6118M"
+    },
+    {
+      "added_at": "2023-05-03 07:47:14",
+      "album": {
+        "name": "Upstairs At Eric's",
+        "url": "https://open.spotify.com/album/47FOg0GaQDPGTbBTHDXg9V"
+      },
+      "artists": [
+        {
+          "name": "Yazoo",
+          "url": "https://open.spotify.com/artist/1G1mX30GpUJqOr1QU2eBSs"
+        }
+      ],
+      "duration_ms": 191306,
+      "name": "Don't Go",
+      "url": "https://open.spotify.com/track/3KuAa8Y79xlfJgYtBKbynY"
     },
     {
       "added_at": "2023-05-03 07:47:14",
@@ -1339,22 +1339,6 @@
     {
       "added_at": "2023-05-03 07:47:14",
       "album": {
-        "name": "Replicas",
-        "url": "https://open.spotify.com/album/14chsctrt7Rx38fQUbfqFz"
-      },
-      "artists": [
-        {
-          "name": "Tubeway Army",
-          "url": "https://open.spotify.com/artist/6SXZyMIzYNNfZ3NFQc3vtv"
-        }
-      ],
-      "duration_ms": 323133,
-      "name": "Are 'Friends' Electric?",
-      "url": "https://open.spotify.com/track/3xfOF1wyjUZocifZ5WLeFx"
-    },
-    {
-      "added_at": "2023-05-03 07:47:14",
-      "album": {
         "name": "It'll End In Tears (Remastered)",
         "url": "https://open.spotify.com/album/5gMiiXVgUFVUIHKXC57a0j"
       },
@@ -1371,18 +1355,18 @@
     {
       "added_at": "2023-05-03 07:47:14",
       "album": {
-        "name": "In Your Room",
-        "url": "https://open.spotify.com/album/5YlCHiZn44igfoWNFjP48v"
+        "name": "Replicas",
+        "url": "https://open.spotify.com/album/14chsctrt7Rx38fQUbfqFz"
       },
       "artists": [
         {
-          "name": "Yazoo",
-          "url": "https://open.spotify.com/artist/1G1mX30GpUJqOr1QU2eBSs"
+          "name": "Tubeway Army",
+          "url": "https://open.spotify.com/artist/6SXZyMIzYNNfZ3NFQc3vtv"
         }
       ],
-      "duration_ms": 144133,
-      "name": "Situation - 2008 Remastered Version",
-      "url": "https://open.spotify.com/track/0Az5nx6qYZ2n54rh1sgvcB"
+      "duration_ms": 323133,
+      "name": "Are 'Friends' Electric?",
+      "url": "https://open.spotify.com/track/3xfOF1wyjUZocifZ5WLeFx"
     },
     {
       "added_at": "2023-05-03 07:47:14",
@@ -1463,6 +1447,22 @@
       "duration_ms": 220093,
       "name": "The Lovecats",
       "url": "https://open.spotify.com/track/5rzr3lYGJiw3OXEg8imWgH"
+    },
+    {
+      "added_at": "2023-05-03 07:47:14",
+      "album": {
+        "name": "In Your Room",
+        "url": "https://open.spotify.com/album/5YlCHiZn44igfoWNFjP48v"
+      },
+      "artists": [
+        {
+          "name": "Yazoo",
+          "url": "https://open.spotify.com/artist/1G1mX30GpUJqOr1QU2eBSs"
+        }
+      ],
+      "duration_ms": 144133,
+      "name": "Situation - 2008 Remastered Version",
+      "url": "https://open.spotify.com/track/0Az5nx6qYZ2n54rh1sgvcB"
     },
     {
       "added_at": "2023-05-03 07:47:14",
@@ -1707,22 +1707,6 @@
     {
       "added_at": "2023-05-03 07:47:14",
       "album": {
-        "name": "ESP: The 808 State Effect",
-        "url": "https://open.spotify.com/album/0mwlWFUpsVDeDw5kkUlDzV"
-      },
-      "artists": [
-        {
-          "name": "808 State",
-          "url": "https://open.spotify.com/artist/7hFdUW64G4iU1tz46ITRfN"
-        }
-      ],
-      "duration_ms": 351400,
-      "name": "Pacific State",
-      "url": "https://open.spotify.com/track/2h7w0KHwHbx4WbG6WxjO7U"
-    },
-    {
-      "added_at": "2023-05-03 07:47:14",
-      "album": {
         "name": "Pelican West Plus",
         "url": "https://open.spotify.com/album/6VIiHu2RCwWo4151YCG7ND"
       },
@@ -1739,6 +1723,22 @@
     {
       "added_at": "2023-05-03 07:47:14",
       "album": {
+        "name": "ESP: The 808 State Effect",
+        "url": "https://open.spotify.com/album/0mwlWFUpsVDeDw5kkUlDzV"
+      },
+      "artists": [
+        {
+          "name": "808 State",
+          "url": "https://open.spotify.com/artist/7hFdUW64G4iU1tz46ITRfN"
+        }
+      ],
+      "duration_ms": 351400,
+      "name": "Pacific State",
+      "url": "https://open.spotify.com/track/2h7w0KHwHbx4WbG6WxjO7U"
+    },
+    {
+      "added_at": "2023-05-03 07:47:14",
+      "album": {
         "name": "New Clear Days",
         "url": "https://open.spotify.com/album/0vAu0PT8xKotNhKDzYXJHA"
       },
@@ -1751,6 +1751,22 @@
       "duration_ms": 224106,
       "name": "Turning Japanese - Non Stop Edit",
       "url": "https://open.spotify.com/track/1MANhf0nwr6gFwsRJMeDbr"
+    },
+    {
+      "added_at": "2023-05-03 07:47:14",
+      "album": {
+        "name": "Viva Hate (2014 Remaster)",
+        "url": "https://open.spotify.com/album/0s5wo4mTZ5bJAgqiPBO3ou"
+      },
+      "artists": [
+        {
+          "name": "Morrissey",
+          "url": "https://open.spotify.com/artist/3iTsJGG39nMg9YiolUgLMQ"
+        }
+      ],
+      "duration_ms": 215266,
+      "name": "Everyday Is Like Sunday - 2011 Remaster",
+      "url": "https://open.spotify.com/track/0lVdukU9ejbFQwZIhg47hx"
     },
     {
       "added_at": "2023-05-03 07:47:14",
@@ -1815,22 +1831,6 @@
       "duration_ms": 264933,
       "name": "Psycho Killer - Live",
       "url": "https://open.spotify.com/track/2t8GBp5kQEXVamVq4Odwe2"
-    },
-    {
-      "added_at": "2023-05-03 07:47:14",
-      "album": {
-        "name": "Viva Hate (2014 Remaster)",
-        "url": "https://open.spotify.com/album/0s5wo4mTZ5bJAgqiPBO3ou"
-      },
-      "artists": [
-        {
-          "name": "Morrissey",
-          "url": "https://open.spotify.com/artist/3iTsJGG39nMg9YiolUgLMQ"
-        }
-      ],
-      "duration_ms": 215266,
-      "name": "Everyday Is Like Sunday - 2011 Remaster",
-      "url": "https://open.spotify.com/track/0lVdukU9ejbFQwZIhg47hx"
     },
     {
       "added_at": "2023-05-03 07:47:14",
@@ -1947,6 +1947,22 @@
     {
       "added_at": "2023-05-03 07:47:14",
       "album": {
+        "name": "Some Girls Wander by Mistake",
+        "url": "https://open.spotify.com/album/42HVWb7R8TxLHgVjc2OOIV"
+      },
+      "artists": [
+        {
+          "name": "Sisters of Mercy",
+          "url": "https://open.spotify.com/artist/4HxBVyHaUa60eCSsJWxwWR"
+        }
+      ],
+      "duration_ms": 214935,
+      "name": "Alice",
+      "url": "https://open.spotify.com/track/4PbxSwW7CxxYIFINPjuTnd"
+    },
+    {
+      "added_at": "2023-05-03 07:47:14",
+      "album": {
         "name": "English Settlement",
         "url": "https://open.spotify.com/album/2fDm6GpssR8S6uQnDE4MKM"
       },
@@ -1979,22 +1995,6 @@
     {
       "added_at": "2023-05-03 07:47:14",
       "album": {
-        "name": "Some Girls Wander by Mistake",
-        "url": "https://open.spotify.com/album/42HVWb7R8TxLHgVjc2OOIV"
-      },
-      "artists": [
-        {
-          "name": "Sisters of Mercy",
-          "url": "https://open.spotify.com/artist/4HxBVyHaUa60eCSsJWxwWR"
-        }
-      ],
-      "duration_ms": 214935,
-      "name": "Alice",
-      "url": "https://open.spotify.com/track/4PbxSwW7CxxYIFINPjuTnd"
-    },
-    {
-      "added_at": "2023-05-03 07:47:14",
-      "album": {
         "name": "The Pink Opaque",
         "url": "https://open.spotify.com/album/7ssrkaAkcmqRno7FUADrA3"
       },
@@ -2007,6 +2007,22 @@
       "duration_ms": 250800,
       "name": "Pearly-Dewdrops' Drops - 7\" Version",
       "url": "https://open.spotify.com/track/0mxe1uof85IOstFsn2l2da"
+    },
+    {
+      "added_at": "2023-05-03 07:47:14",
+      "album": {
+        "name": "Vienna (Remastered Definitive Edition)",
+        "url": "https://open.spotify.com/album/57UuXCYkx1wZW7gfl8hvjB"
+      },
+      "artists": [
+        {
+          "name": "Ultravox",
+          "url": "https://open.spotify.com/artist/3iUjRVvYCsMfz7tuAQtBDI"
+        }
+      ],
+      "duration_ms": 296160,
+      "name": "Vienna - 2008 Remaster",
+      "url": "https://open.spotify.com/track/7ioy6ppmN9Rn8Pm5axNzUP"
     },
     {
       "added_at": "2023-05-03 07:47:14",
@@ -2075,22 +2091,6 @@
     {
       "added_at": "2023-05-03 07:47:14",
       "album": {
-        "name": "Spike",
-        "url": "https://open.spotify.com/album/6WCPlKBxKr7yV26WA4GuSr"
-      },
-      "artists": [
-        {
-          "name": "Elvis Costello",
-          "url": "https://open.spotify.com/artist/2BGRfQgtzikz1pzAD0kaEn"
-        }
-      ],
-      "duration_ms": 189506,
-      "name": "Veronica",
-      "url": "https://open.spotify.com/track/5zHgT1ibsBrSOEnQwZapto"
-    },
-    {
-      "added_at": "2023-05-03 07:47:14",
-      "album": {
         "name": "Sparkle In The Rain",
         "url": "https://open.spotify.com/album/2fuGLrZ4Ju22UpWqGg5cDW"
       },
@@ -2103,6 +2103,22 @@
       "duration_ms": 289920,
       "name": "Waterfront - Remastered 2002",
       "url": "https://open.spotify.com/track/3Mw3lZoplwJrVE5Qz7XRUx"
+    },
+    {
+      "added_at": "2023-05-03 07:47:14",
+      "album": {
+        "name": "Spike",
+        "url": "https://open.spotify.com/album/6WCPlKBxKr7yV26WA4GuSr"
+      },
+      "artists": [
+        {
+          "name": "Elvis Costello",
+          "url": "https://open.spotify.com/artist/2BGRfQgtzikz1pzAD0kaEn"
+        }
+      ],
+      "duration_ms": 189506,
+      "name": "Veronica",
+      "url": "https://open.spotify.com/track/5zHgT1ibsBrSOEnQwZapto"
     },
     {
       "added_at": "2023-05-03 07:47:14",
@@ -2123,22 +2139,6 @@
       "duration_ms": 245906,
       "name": "When Love Breaks Down - 2007 Remastered Version",
       "url": "https://open.spotify.com/track/7bRcgBFPDgWhVuopP5x6MW"
-    },
-    {
-      "added_at": "2023-05-03 07:47:14",
-      "album": {
-        "name": "Black Celebration",
-        "url": "https://open.spotify.com/album/0JSOfVzxVTpyvxzXggc8rG"
-      },
-      "artists": [
-        {
-          "name": "Depeche Mode",
-          "url": "https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX"
-        }
-      ],
-      "duration_ms": 269000,
-      "name": "A Question of Lust",
-      "url": "https://open.spotify.com/track/4bYJ2lYZKYriZDWFeAnyj8"
     },
     {
       "added_at": "2023-05-03 07:47:14",
@@ -2167,18 +2167,18 @@
     {
       "added_at": "2023-05-03 07:47:14",
       "album": {
-        "name": "Vienna (Remastered Definitive Edition)",
-        "url": "https://open.spotify.com/album/57UuXCYkx1wZW7gfl8hvjB"
+        "name": "Black Celebration",
+        "url": "https://open.spotify.com/album/0JSOfVzxVTpyvxzXggc8rG"
       },
       "artists": [
         {
-          "name": "Ultravox",
-          "url": "https://open.spotify.com/artist/3iUjRVvYCsMfz7tuAQtBDI"
+          "name": "Depeche Mode",
+          "url": "https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX"
         }
       ],
-      "duration_ms": 296160,
-      "name": "Vienna - 2008 Remaster",
-      "url": "https://open.spotify.com/track/7ioy6ppmN9Rn8Pm5axNzUP"
+      "duration_ms": 269000,
+      "name": "A Question of Lust",
+      "url": "https://open.spotify.com/track/4bYJ2lYZKYriZDWFeAnyj8"
     },
     {
       "added_at": "2023-05-03 07:47:14",
@@ -2231,6 +2231,22 @@
     {
       "added_at": "2023-05-03 07:47:14",
       "album": {
+        "name": "The Golden Age Of Wireless",
+        "url": "https://open.spotify.com/album/3V177EgHtR65iBY1NHZxp4"
+      },
+      "artists": [
+        {
+          "name": "Thomas Dolby",
+          "url": "https://open.spotify.com/artist/2Uz58cSxlJgefDaSikxYQ7"
+        }
+      ],
+      "duration_ms": 221266,
+      "name": "She Blinded Me With Science",
+      "url": "https://open.spotify.com/track/6HYf9ZEZKuxy581QVmYA6c"
+    },
+    {
+      "added_at": "2023-05-03 07:47:14",
+      "album": {
         "name": "Collection",
         "url": "https://open.spotify.com/album/0P9q63bMtm9s8VDQp6cJSK"
       },
@@ -2247,18 +2263,18 @@
     {
       "added_at": "2023-05-03 07:47:14",
       "album": {
-        "name": "The Golden Age Of Wireless",
-        "url": "https://open.spotify.com/album/3V177EgHtR65iBY1NHZxp4"
+        "name": "The Best Of...",
+        "url": "https://open.spotify.com/album/7AfRVBG3Kgmo9TkX4pChPX"
       },
       "artists": [
         {
-          "name": "Thomas Dolby",
-          "url": "https://open.spotify.com/artist/2Uz58cSxlJgefDaSikxYQ7"
+          "name": "Siouxsie and the Banshees",
+          "url": "https://open.spotify.com/artist/1n65zfwYIj5kKEtNgxUlWb"
         }
       ],
-      "duration_ms": 221266,
-      "name": "She Blinded Me With Science",
-      "url": "https://open.spotify.com/track/6HYf9ZEZKuxy581QVmYA6c"
+      "duration_ms": 243800,
+      "name": "Cities In Dust - Single Version",
+      "url": "https://open.spotify.com/track/0LvH53IYMdkQ2VHanpCiBi"
     },
     {
       "added_at": "2023-05-03 07:47:14",
@@ -2283,18 +2299,18 @@
     {
       "added_at": "2023-05-03 07:47:14",
       "album": {
-        "name": "The Best Of...",
-        "url": "https://open.spotify.com/album/7AfRVBG3Kgmo9TkX4pChPX"
+        "name": "Today",
+        "url": "https://open.spotify.com/album/5vNKHuz5SeL0bOLtha1xQJ"
       },
       "artists": [
         {
-          "name": "Siouxsie and the Banshees",
-          "url": "https://open.spotify.com/artist/1n65zfwYIj5kKEtNgxUlWb"
+          "name": "Galaxie 500",
+          "url": "https://open.spotify.com/artist/6guTJsgPymDUVfqDJyz5UG"
         }
       ],
-      "duration_ms": 243800,
-      "name": "Cities In Dust - Single Version",
-      "url": "https://open.spotify.com/track/0LvH53IYMdkQ2VHanpCiBi"
+      "duration_ms": 236933,
+      "name": "Tugboat",
+      "url": "https://open.spotify.com/track/2wSmwBjoS5skbNYAMBi5qG"
     },
     {
       "added_at": "2023-05-03 07:47:14",
@@ -2315,22 +2331,6 @@
     {
       "added_at": "2023-05-03 07:47:14",
       "album": {
-        "name": "Today",
-        "url": "https://open.spotify.com/album/5vNKHuz5SeL0bOLtha1xQJ"
-      },
-      "artists": [
-        {
-          "name": "Galaxie 500",
-          "url": "https://open.spotify.com/artist/6guTJsgPymDUVfqDJyz5UG"
-        }
-      ],
-      "duration_ms": 236933,
-      "name": "Tugboat",
-      "url": "https://open.spotify.com/track/2wSmwBjoS5skbNYAMBi5qG"
-    },
-    {
-      "added_at": "2023-05-03 07:47:14",
-      "album": {
         "name": "A Secret Wish (Analogue Sequence)",
         "url": "https://open.spotify.com/album/4W0pFYAaKVuJwY9ZMTmsUW"
       },
@@ -2347,18 +2347,18 @@
     {
       "added_at": "2023-05-03 07:47:14",
       "album": {
-        "name": "Murmur",
-        "url": "https://open.spotify.com/album/4Mw9Gcu1LT7JaipXdwrq1Q"
+        "name": "Playlist: The Very Best of A Flock of Seagulls",
+        "url": "https://open.spotify.com/album/6cphBfn6beKzazlp3xjftb"
       },
       "artists": [
         {
-          "name": "R.E.M.",
-          "url": "https://open.spotify.com/artist/4KWTAlx2RvbpseOGMEmROg"
+          "name": "A Flock Of Seagulls",
+          "url": "https://open.spotify.com/artist/0uAjBatvB4ubpd4kCfjmNt"
         }
       ],
-      "duration_ms": 245200,
-      "name": "Radio Free Europe",
-      "url": "https://open.spotify.com/track/46dGFTD918NMz1IP1rPJXO"
+      "duration_ms": 330426,
+      "name": "Wishing (If I Had a Photograph of You)",
+      "url": "https://open.spotify.com/track/2mwdSJZlzXOJqTQ37rpIbv"
     },
     {
       "added_at": "2023-05-03 07:47:14",
@@ -2379,18 +2379,18 @@
     {
       "added_at": "2023-05-03 07:47:14",
       "album": {
-        "name": "Playlist: The Very Best of A Flock of Seagulls",
-        "url": "https://open.spotify.com/album/6cphBfn6beKzazlp3xjftb"
+        "name": "Murmur",
+        "url": "https://open.spotify.com/album/4Mw9Gcu1LT7JaipXdwrq1Q"
       },
       "artists": [
         {
-          "name": "A Flock Of Seagulls",
-          "url": "https://open.spotify.com/artist/0uAjBatvB4ubpd4kCfjmNt"
+          "name": "R.E.M.",
+          "url": "https://open.spotify.com/artist/4KWTAlx2RvbpseOGMEmROg"
         }
       ],
-      "duration_ms": 330426,
-      "name": "Wishing (If I Had a Photograph of You)",
-      "url": "https://open.spotify.com/track/2mwdSJZlzXOJqTQ37rpIbv"
+      "duration_ms": 245200,
+      "name": "Radio Free Europe",
+      "url": "https://open.spotify.com/track/46dGFTD918NMz1IP1rPJXO"
     },
     {
       "added_at": "2023-05-03 07:47:14",
@@ -2431,18 +2431,18 @@
     {
       "added_at": "2023-05-03 07:47:14",
       "album": {
-        "name": "Dig That Groove Baby",
-        "url": "https://open.spotify.com/album/2G4Qadfi3LHuQSaZ60rFCP"
+        "name": "Life's Too Good",
+        "url": "https://open.spotify.com/album/0UQGKhImc5hgh2SxYAA3Jp"
       },
       "artists": [
         {
-          "name": "The Toy Dolls",
-          "url": "https://open.spotify.com/artist/747P2pvOwW22iRcFS9zQDv"
+          "name": "The Sugarcubes",
+          "url": "https://open.spotify.com/artist/1G0Xwj8mza6b03iYkVdzDP"
         }
       ],
-      "duration_ms": 207480,
-      "name": "Nellie the Elephant",
-      "url": "https://open.spotify.com/track/00MmJraiM6d7AINTYB5Xid"
+      "duration_ms": 239533,
+      "name": "Birthday",
+      "url": "https://open.spotify.com/track/55MEbqyxZphjB0beZ7YT0f"
     }
   ],
   "unique_name": "'80s All Lined Up",

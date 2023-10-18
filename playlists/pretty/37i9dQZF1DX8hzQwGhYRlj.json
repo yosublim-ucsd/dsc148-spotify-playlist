@@ -1,12 +1,12 @@
 {
   "description": "A collection of Grieg's finest songs, symphonies and suites.",
-  "num_followers": 33531,
+  "num_followers": 33540,
   "original_name": "This Is Grieg",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxY2U5OWY2MTZhNGQzNjE2YjBhNjc4ODU2ZDg0OGM3MTgwZGJjZmJj",
+  "snapshot_id": "MCwxZGI1M2Q0MjExNzVkODkwM2ZkMGVmZGIxMDY2ZDg0MTNmZjk5YWE2",
   "tracks": [
     {
       "added_at": "2022-09-30 04:01:00",
@@ -503,6 +503,26 @@
     {
       "added_at": "2022-09-30 04:01:00",
       "album": {
+        "name": "Grieg: Piano Concerto; Lyric Pieces",
+        "url": "https://open.spotify.com/album/5HokgmfmgFExUbbVgkvz3n"
+      },
+      "artists": [
+        {
+          "name": "Edvard Grieg",
+          "url": "https://open.spotify.com/artist/5ihY290YPGc3aY2xTyx7Gy"
+        },
+        {
+          "name": "Javier Perianes",
+          "url": "https://open.spotify.com/artist/5sYNU2X0Fvw3iAqWTqwWjz"
+        }
+      ],
+      "duration_ms": 300560,
+      "name": "Lyric Pieces, Op. 38, Book II: VIII. Kanon (Allegretto con moto)",
+      "url": "https://open.spotify.com/track/2EBUOAXr3ViEWUXLlEvTFT"
+    },
+    {
+      "added_at": "2022-09-30 04:01:00",
+      "album": {
         "name": "Franck, Grieg, Dvorak: Sonatas for violin & piano",
         "url": "https://open.spotify.com/album/4uV6IfyA4Chwo8pRxyQkoB"
       },
@@ -523,26 +543,6 @@
       "duration_ms": 362716,
       "name": "Grieg: Violin Sonata No. 3 in C Minor, Op. 45: II. Allegretto espressivo alla romanza",
       "url": "https://open.spotify.com/track/26IsOkbxM5eh9CTS2FvxTm"
-    },
-    {
-      "added_at": "2022-09-30 04:01:00",
-      "album": {
-        "name": "Grieg: Piano Concerto; Lyric Pieces",
-        "url": "https://open.spotify.com/album/5HokgmfmgFExUbbVgkvz3n"
-      },
-      "artists": [
-        {
-          "name": "Edvard Grieg",
-          "url": "https://open.spotify.com/artist/5ihY290YPGc3aY2xTyx7Gy"
-        },
-        {
-          "name": "Javier Perianes",
-          "url": "https://open.spotify.com/artist/5sYNU2X0Fvw3iAqWTqwWjz"
-        }
-      ],
-      "duration_ms": 300560,
-      "name": "Lyric Pieces, Op. 38, Book II: VIII. Kanon (Allegretto con moto)",
-      "url": "https://open.spotify.com/track/2EBUOAXr3ViEWUXLlEvTFT"
     },
     {
       "added_at": "2022-09-30 04:01:00",
@@ -747,26 +747,6 @@
     {
       "added_at": "2022-09-30 04:01:00",
       "album": {
-        "name": "Schumann: Piano Concerto in A Minor, Op. 54",
-        "url": "https://open.spotify.com/album/0CjRmvLs8eDLbAQ89nlwtl"
-      },
-      "artists": [
-        {
-          "name": "Edvard Grieg",
-          "url": "https://open.spotify.com/artist/5ihY290YPGc3aY2xTyx7Gy"
-        },
-        {
-          "name": "Evgeny Kissin",
-          "url": "https://open.spotify.com/artist/71kYWgqr6eHLOZj6u3JTuJ"
-        }
-      ],
-      "duration_ms": 155026,
-      "name": "Piano Transcriptions of Songs, Op. 41: No. 3, Jeg elsker dig",
-      "url": "https://open.spotify.com/track/5H2fooY77jr8VaAyfxvqh1"
-    },
-    {
-      "added_at": "2022-09-30 04:01:00",
-      "album": {
         "name": "Wonderland - Edvard Grieg: Piano Concerto, Lyric Pieces",
         "url": "https://open.spotify.com/album/675zFvCNg3trc61Wm3YRW1"
       },
@@ -783,6 +763,26 @@
       "duration_ms": 209520,
       "name": "Lyric Pieces Book VIII, Op. 65: No. 5 Ballad",
       "url": "https://open.spotify.com/track/77v5gEBdiW29He3ey69tls"
+    },
+    {
+      "added_at": "2022-09-30 04:01:00",
+      "album": {
+        "name": "Schumann: Piano Concerto in A Minor, Op. 54",
+        "url": "https://open.spotify.com/album/0CjRmvLs8eDLbAQ89nlwtl"
+      },
+      "artists": [
+        {
+          "name": "Edvard Grieg",
+          "url": "https://open.spotify.com/artist/5ihY290YPGc3aY2xTyx7Gy"
+        },
+        {
+          "name": "Evgeny Kissin",
+          "url": "https://open.spotify.com/artist/71kYWgqr6eHLOZj6u3JTuJ"
+        }
+      ],
+      "duration_ms": 155026,
+      "name": "Piano Transcriptions of Songs, Op. 41: No. 3, Jeg elsker dig",
+      "url": "https://open.spotify.com/track/5H2fooY77jr8VaAyfxvqh1"
     },
     {
       "added_at": "2022-09-30 04:01:00",
@@ -1143,6 +1143,26 @@
     {
       "added_at": "2022-09-30 04:01:00",
       "album": {
+        "name": "Grieg: Lyric Pieces; Sonata; Fugues",
+        "url": "https://open.spotify.com/album/17YxMaI0YHCEWsmoslhZt8"
+      },
+      "artists": [
+        {
+          "name": "Edvard Grieg",
+          "url": "https://open.spotify.com/artist/5ihY290YPGc3aY2xTyx7Gy"
+        },
+        {
+          "name": "Mikhail Pletnev",
+          "url": "https://open.spotify.com/artist/2YdRnOqBXCl9g8xCLcGh8C"
+        }
+      ],
+      "duration_ms": 188000,
+      "name": "Lyric Pieces Book V, Op. 54: VI. Bellringing",
+      "url": "https://open.spotify.com/track/5qcM4MqtNkPQZoKncxM4NW"
+    },
+    {
+      "added_at": "2022-09-30 04:01:00",
+      "album": {
         "name": "Grieg: Piano, Orchestral & Vocal Works, Chamber Music",
         "url": "https://open.spotify.com/album/37zUluscLmlk6u8RqrO6Cl"
       },
@@ -1163,26 +1183,6 @@
       "duration_ms": 390200,
       "name": "Grieg: Cello Sonata in A Minor, Op. 36: II. Andante molto tranquillo",
       "url": "https://open.spotify.com/track/1dQcZRGntODNgU5Pj7tgHO"
-    },
-    {
-      "added_at": "2022-09-30 04:01:00",
-      "album": {
-        "name": "Grieg: Lyric Pieces; Sonata; Fugues",
-        "url": "https://open.spotify.com/album/17YxMaI0YHCEWsmoslhZt8"
-      },
-      "artists": [
-        {
-          "name": "Edvard Grieg",
-          "url": "https://open.spotify.com/artist/5ihY290YPGc3aY2xTyx7Gy"
-        },
-        {
-          "name": "Mikhail Pletnev",
-          "url": "https://open.spotify.com/artist/2YdRnOqBXCl9g8xCLcGh8C"
-        }
-      ],
-      "duration_ms": 188000,
-      "name": "Lyric Pieces Book V, Op. 54: VI. Bellringing",
-      "url": "https://open.spotify.com/track/5qcM4MqtNkPQZoKncxM4NW"
     },
     {
       "added_at": "2022-09-30 04:01:00",

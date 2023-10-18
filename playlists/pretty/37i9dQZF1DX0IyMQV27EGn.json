@@ -1,12 +1,12 @@
 {
   "description": "sultry and seductive feminine energy \ud83d\udd2a cover: Marilyn Monroe",
-  "num_followers": 760024,
+  "num_followers": 762865,
   "original_name": "Femme Fatale",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmNWJjYzk5MjU0ZTliZDJkYTE3MTc3NWQwNTlhMzE1YjMxMDMzODkw",
+  "snapshot_id": "MCw3YTZjMGI5ZTkzYWVhMjU0Yzg4ZDI0YmQwNjkyZjg2NjY4MTI5Njkx",
   "tracks": [
     {
       "added_at": "2023-09-18 21:42:19",
@@ -315,22 +315,6 @@
     {
       "added_at": "2023-09-18 21:42:19",
       "album": {
-        "name": "Time",
-        "url": "https://open.spotify.com/album/63TYyeXlBYoYKNvE6rT3hI"
-      },
-      "artists": [
-        {
-          "name": "Mr.Kitty",
-          "url": "https://open.spotify.com/artist/0pWwt5vGNzezEhfAcc420Y"
-        }
-      ],
-      "duration_ms": 259146,
-      "name": "After Dark",
-      "url": "https://open.spotify.com/track/2LKOHdMsL0K9KwcPRlJK2v"
-    },
-    {
-      "added_at": "2023-09-18 21:42:19",
-      "album": {
         "name": "Let's Skip to the Wedding",
         "url": "https://open.spotify.com/album/04uOXDWUgZmTps35RqDBg4"
       },
@@ -343,6 +327,22 @@
       "duration_ms": 86739,
       "name": "Romantic Lover",
       "url": "https://open.spotify.com/track/7s5VQqrjBtrBgZL4pEa46S"
+    },
+    {
+      "added_at": "2023-09-18 21:42:19",
+      "album": {
+        "name": "Time",
+        "url": "https://open.spotify.com/album/63TYyeXlBYoYKNvE6rT3hI"
+      },
+      "artists": [
+        {
+          "name": "Mr.Kitty",
+          "url": "https://open.spotify.com/artist/0pWwt5vGNzezEhfAcc420Y"
+        }
+      ],
+      "duration_ms": 259146,
+      "name": "After Dark",
+      "url": "https://open.spotify.com/track/2LKOHdMsL0K9KwcPRlJK2v"
     },
     {
       "added_at": "2023-09-18 21:42:19",
@@ -1123,18 +1123,18 @@
     {
       "added_at": "2023-09-18 21:42:19",
       "album": {
-        "name": "Three. Two. One.",
-        "url": "https://open.spotify.com/album/3nP0DOBWPfEToiDGMXZCAb"
+        "name": "Inbred",
+        "url": "https://open.spotify.com/album/013WXRAOja0kZ6gnlTCwJ5"
       },
       "artists": [
         {
-          "name": "Lennon Stella",
-          "url": "https://open.spotify.com/artist/1cZQSpDsxgKIX2yW5OR9Ot"
+          "name": "Ethel Cain",
+          "url": "https://open.spotify.com/artist/0avMDS4HyoCEP6RqZJWpY2"
         }
       ],
-      "duration_ms": 188133,
-      "name": "Pretty Boy",
-      "url": "https://open.spotify.com/track/5mTNGUXYjJGVyjh3efRFY0"
+      "duration_ms": 204317,
+      "name": "Crush",
+      "url": "https://open.spotify.com/track/0nsIevK1SeDfZzDOi6Si75"
     }
   ],
   "unique_name": "Femme Fatale",

@@ -7739,6 +7739,28 @@
     },
     {
       "album": {
+        "name": "Ripple (feat. grandpa julie)",
+        "url": "https://open.spotify.com/album/0quSSIvZNfb6kxR8JcMRgM"
+      },
+      "artists": [
+        {
+          "name": "juuku",
+          "url": "https://open.spotify.com/artist/2ixBQngmF4ZFXYHi8sJTfl"
+        },
+        {
+          "name": "grandpa julie",
+          "url": "https://open.spotify.com/artist/6P38Kx1SGQCgAQHqv0LjAs"
+        }
+      ],
+      "date_added": "2023-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183428,
+      "name": "Ripple (feat. grandpa julie)",
+      "url": "https://open.spotify.com/track/2SqlWDESCdIb0QKNP0sByv"
+    },
+    {
+      "album": {
         "name": "FUTURE SHOCK",
         "url": "https://open.spotify.com/album/52AomiipSkezQWqHY1bx4t"
       },

@@ -1,12 +1,12 @@
 {
   "description": "R&B sensual para una apasionada noche en excelente compa\u00f1\u00eda.",
-  "num_followers": 144019,
+  "num_followers": 144154,
   "original_name": "Texteo de Medianoche",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkMzM0MzhhYzlkMDYwODc1MmQ3OGE0NzVlMDdhMWEwZTk5MGFlMGZj",
+  "snapshot_id": "MCxlZmVmZDc4Y2I4MWJjZWQ2YzNlMTgxZmM3MmY3ODBkMjgzOWM3M2M5",
   "tracks": [
     {
       "added_at": "2023-09-08 23:16:15",
@@ -303,6 +303,26 @@
     {
       "added_at": "2023-09-08 23:16:15",
       "album": {
+        "name": "Ctrl",
+        "url": "https://open.spotify.com/album/76290XdXVF9rPzGdNRWdCh"
+      },
+      "artists": [
+        {
+          "name": "SZA",
+          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
+        },
+        {
+          "name": "Travis Scott",
+          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
+        }
+      ],
+      "duration_ms": 275080,
+      "name": "Love Galore (feat. Travis Scott)",
+      "url": "https://open.spotify.com/track/0q75NwOoFiARAVp4EXU4Bs"
+    },
+    {
+      "added_at": "2023-09-08 23:16:15",
+      "album": {
         "name": "No digas nada",
         "url": "https://open.spotify.com/album/2g2B9rwO0VmWNKrdpeAmf3"
       },
@@ -331,26 +351,6 @@
       "duration_ms": 164810,
       "name": "Rinc\u00f3n",
       "url": "https://open.spotify.com/track/4PMi46eDFyLmHKKtVTrDGb"
-    },
-    {
-      "added_at": "2023-09-08 23:16:15",
-      "album": {
-        "name": "Ctrl",
-        "url": "https://open.spotify.com/album/76290XdXVF9rPzGdNRWdCh"
-      },
-      "artists": [
-        {
-          "name": "SZA",
-          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
-        },
-        {
-          "name": "Travis Scott",
-          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
-        }
-      ],
-      "duration_ms": 275080,
-      "name": "Love Galore (feat. Travis Scott)",
-      "url": "https://open.spotify.com/track/0q75NwOoFiARAVp4EXU4Bs"
     },
     {
       "added_at": "2023-09-08 23:16:15",
@@ -411,6 +411,22 @@
     {
       "added_at": "2023-09-08 23:16:15",
       "album": {
+        "name": "Ctrl",
+        "url": "https://open.spotify.com/album/76290XdXVF9rPzGdNRWdCh"
+      },
+      "artists": [
+        {
+          "name": "SZA",
+          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
+        }
+      ],
+      "duration_ms": 272186,
+      "name": "The Weekend",
+      "url": "https://open.spotify.com/track/6gU9OKjOE7ghfEd55oRO57"
+    },
+    {
+      "added_at": "2023-09-08 23:16:15",
+      "album": {
         "name": "Late Nights: The Album",
         "url": "https://open.spotify.com/album/7DMyQuDPe8xzjC0UDSDa96"
       },
@@ -467,22 +483,6 @@
       "duration_ms": 220000,
       "name": "Mi Nena Remix",
       "url": "https://open.spotify.com/track/7q1KFoWUNYudhKW8RYJFsZ"
-    },
-    {
-      "added_at": "2023-09-08 23:16:15",
-      "album": {
-        "name": "Ctrl",
-        "url": "https://open.spotify.com/album/76290XdXVF9rPzGdNRWdCh"
-      },
-      "artists": [
-        {
-          "name": "SZA",
-          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
-        }
-      ],
-      "duration_ms": 272186,
-      "name": "The Weekend",
-      "url": "https://open.spotify.com/track/6gU9OKjOE7ghfEd55oRO57"
     },
     {
       "added_at": "2023-09-08 23:16:15",
@@ -567,22 +567,6 @@
     {
       "added_at": "2023-09-08 23:16:15",
       "album": {
-        "name": "Chanel",
-        "url": "https://open.spotify.com/album/6OGzmhzHcjf0uN9j7dYvZH"
-      },
-      "artists": [
-        {
-          "name": "Frank Ocean",
-          "url": "https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM"
-        }
-      ],
-      "duration_ms": 210285,
-      "name": "Chanel",
-      "url": "https://open.spotify.com/track/6Nle9hKrkL1wQpwNfEkxjh"
-    },
-    {
-      "added_at": "2023-09-08 23:16:15",
-      "album": {
         "name": "LQMGDT",
         "url": "https://open.spotify.com/album/65vQZKZABBbYxV5fCtLtOb"
       },
@@ -595,6 +579,22 @@
       "duration_ms": 207946,
       "name": "Weeknd<3",
       "url": "https://open.spotify.com/track/6FVq1MqAOeNLUYOiIOj4Rw"
+    },
+    {
+      "added_at": "2023-09-08 23:16:15",
+      "album": {
+        "name": "Chanel",
+        "url": "https://open.spotify.com/album/6OGzmhzHcjf0uN9j7dYvZH"
+      },
+      "artists": [
+        {
+          "name": "Frank Ocean",
+          "url": "https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM"
+        }
+      ],
+      "duration_ms": 210285,
+      "name": "Chanel",
+      "url": "https://open.spotify.com/track/6Nle9hKrkL1wQpwNfEkxjh"
     },
     {
       "added_at": "2023-09-08 23:16:15",
@@ -739,38 +739,6 @@
     {
       "added_at": "2023-09-08 23:16:15",
       "album": {
-        "name": "Only",
-        "url": "https://open.spotify.com/album/5j6tntLYUoaz0S0pwDQNgE"
-      },
-      "artists": [
-        {
-          "name": "Sampha",
-          "url": "https://open.spotify.com/artist/2WoVwexZuODvclzULjPQtm"
-        }
-      ],
-      "duration_ms": 169590,
-      "name": "Only",
-      "url": "https://open.spotify.com/track/3XiIO5kw2UxoY6Aph8Tcd5"
-    },
-    {
-      "added_at": "2023-09-08 23:16:15",
-      "album": {
-        "name": "Por Vida",
-        "url": "https://open.spotify.com/album/6f5gAJpM85TE6aQ81h46T5"
-      },
-      "artists": [
-        {
-          "name": "Kali Uchis",
-          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
-        }
-      ],
-      "duration_ms": 212000,
-      "name": "Loner",
-      "url": "https://open.spotify.com/track/6m6R6O2BOZDCNymhJ45spI"
-    },
-    {
-      "added_at": "2023-09-08 23:16:15",
-      "album": {
         "name": "When I Get Home",
         "url": "https://open.spotify.com/album/4WF4HvVT7VjGnVjxjoCR6w"
       },
@@ -783,6 +751,22 @@
       "duration_ms": 175706,
       "name": "Stay Flo",
       "url": "https://open.spotify.com/track/6GCIYIWUBSLontW6divqsw"
+    },
+    {
+      "added_at": "2023-09-08 23:16:15",
+      "album": {
+        "name": "Only",
+        "url": "https://open.spotify.com/album/5j6tntLYUoaz0S0pwDQNgE"
+      },
+      "artists": [
+        {
+          "name": "Sampha",
+          "url": "https://open.spotify.com/artist/2WoVwexZuODvclzULjPQtm"
+        }
+      ],
+      "duration_ms": 169590,
+      "name": "Only",
+      "url": "https://open.spotify.com/track/3XiIO5kw2UxoY6Aph8Tcd5"
     },
     {
       "added_at": "2023-09-08 23:16:15",
@@ -807,6 +791,22 @@
       "duration_ms": 301304,
       "name": "Wasting Time ( feat. Drake & The Neptunes )",
       "url": "https://open.spotify.com/track/48WidxP9CqyYtk97pwGZ3c"
+    },
+    {
+      "added_at": "2023-09-08 23:16:15",
+      "album": {
+        "name": "Por Vida",
+        "url": "https://open.spotify.com/album/6f5gAJpM85TE6aQ81h46T5"
+      },
+      "artists": [
+        {
+          "name": "Kali Uchis",
+          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
+        }
+      ],
+      "duration_ms": 212000,
+      "name": "Loner",
+      "url": "https://open.spotify.com/track/6m6R6O2BOZDCNymhJ45spI"
     },
     {
       "added_at": "2023-09-08 23:16:15",
@@ -871,22 +871,6 @@
     {
       "added_at": "2023-09-08 23:16:15",
       "album": {
-        "name": "BEYONC\u00c9 [Platinum Edition]",
-        "url": "https://open.spotify.com/album/2UJwKSBUz6rtW4QLK74kQu"
-      },
-      "artists": [
-        {
-          "name": "Beyonc\u00e9",
-          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
-        }
-      ],
-      "duration_ms": 391906,
-      "name": "Rocket",
-      "url": "https://open.spotify.com/track/0755vnFQZLSgHHWbR1qCjY"
-    },
-    {
-      "added_at": "2023-09-08 23:16:15",
-      "album": {
         "name": "Spirit 2.0",
         "url": "https://open.spotify.com/album/6idz4m2nMbiHsx3QjHhdcv"
       },
@@ -899,6 +883,22 @@
       "duration_ms": 289962,
       "name": "Spirit 2.0",
       "url": "https://open.spotify.com/track/3JKRuo3KhL39T6XWAXPohj"
+    },
+    {
+      "added_at": "2023-09-08 23:16:15",
+      "album": {
+        "name": "BEYONC\u00c9 [Platinum Edition]",
+        "url": "https://open.spotify.com/album/2UJwKSBUz6rtW4QLK74kQu"
+      },
+      "artists": [
+        {
+          "name": "Beyonc\u00e9",
+          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
+        }
+      ],
+      "duration_ms": 391906,
+      "name": "Rocket",
+      "url": "https://open.spotify.com/track/0755vnFQZLSgHHWbR1qCjY"
     },
     {
       "added_at": "2023-09-08 23:16:15",
@@ -1043,26 +1043,6 @@
     {
       "added_at": "2023-09-08 23:16:15",
       "album": {
-        "name": "EN EL GHETTO #3 (Par de cosas)",
-        "url": "https://open.spotify.com/album/125WpnuPZ1Ito6zRhQT0ji"
-      },
-      "artists": [
-        {
-          "name": "Ghetto Kids",
-          "url": "https://open.spotify.com/artist/6XvKTz2XRPwlry0UdjqoKq"
-        },
-        {
-          "name": "Nsqk",
-          "url": "https://open.spotify.com/artist/1jtvmXiemNFkPO11NMdjfu"
-        }
-      ],
-      "duration_ms": 215000,
-      "name": "EN EL GHETTO #3 (Par de cosas)",
-      "url": "https://open.spotify.com/track/1sMZcWb0Ve9OYw4srIC4z3"
-    },
-    {
-      "added_at": "2023-09-08 23:16:15",
-      "album": {
         "name": "A Muse In Her Feelings",
         "url": "https://open.spotify.com/album/1Rz09ebNJFh3ZNrvLRSfIa"
       },
@@ -1079,6 +1059,26 @@
       "duration_ms": 183750,
       "name": "Between Us (feat. Snoh Aalegra)",
       "url": "https://open.spotify.com/track/759KqKQyDmTWJape4odo21"
+    },
+    {
+      "added_at": "2023-09-08 23:16:15",
+      "album": {
+        "name": "EN EL GHETTO #3 (Par de cosas)",
+        "url": "https://open.spotify.com/album/125WpnuPZ1Ito6zRhQT0ji"
+      },
+      "artists": [
+        {
+          "name": "Ghetto Kids",
+          "url": "https://open.spotify.com/artist/6XvKTz2XRPwlry0UdjqoKq"
+        },
+        {
+          "name": "Nsqk",
+          "url": "https://open.spotify.com/artist/1jtvmXiemNFkPO11NMdjfu"
+        }
+      ],
+      "duration_ms": 215000,
+      "name": "EN EL GHETTO #3 (Par de cosas)",
+      "url": "https://open.spotify.com/track/1sMZcWb0Ve9OYw4srIC4z3"
     },
     {
       "added_at": "2023-09-08 23:16:15",
@@ -1303,22 +1303,6 @@
     {
       "added_at": "2023-09-08 23:16:15",
       "album": {
-        "name": "LA B\u00daSQUEDA",
-        "url": "https://open.spotify.com/album/2FH6oshOadbZFFNHsdy1uE"
-      },
-      "artists": [
-        {
-          "name": "RMAND",
-          "url": "https://open.spotify.com/artist/168fXFOgXniYN0j9XVMdOK"
-        }
-      ],
-      "duration_ms": 103520,
-      "name": "X Tu Casa",
-      "url": "https://open.spotify.com/track/2w8mK5E51BICF0MCerzYkS"
-    },
-    {
-      "added_at": "2023-09-08 23:16:15",
-      "album": {
         "name": "daydreaming",
         "url": "https://open.spotify.com/album/1zsf05JNT2seWKnDbwQzfn"
       },
@@ -1331,6 +1315,22 @@
       "duration_ms": 162421,
       "name": "daydreaming",
       "url": "https://open.spotify.com/track/77TNJhVDMPwRYxeMOED5Bl"
+    },
+    {
+      "added_at": "2023-09-08 23:16:15",
+      "album": {
+        "name": "LA B\u00daSQUEDA",
+        "url": "https://open.spotify.com/album/2FH6oshOadbZFFNHsdy1uE"
+      },
+      "artists": [
+        {
+          "name": "RMAND",
+          "url": "https://open.spotify.com/artist/168fXFOgXniYN0j9XVMdOK"
+        }
+      ],
+      "duration_ms": 103520,
+      "name": "X Tu Casa",
+      "url": "https://open.spotify.com/track/2w8mK5E51BICF0MCerzYkS"
     },
     {
       "added_at": "2023-09-08 23:16:15",
@@ -1471,8 +1471,8 @@
     {
       "added_at": "2023-09-08 23:16:15",
       "album": {
-        "name": "Mi Fantasma",
-        "url": "https://open.spotify.com/album/3SiJHkv9exQ6WsYAecHFB1"
+        "name": "Not The One",
+        "url": "https://open.spotify.com/album/1p2anSkCqxuOvoDoZka7ih"
       },
       "artists": [
         {
@@ -1480,9 +1480,25 @@
           "url": "https://open.spotify.com/artist/4ejqWoCUdomzmXtgNJvXbl"
         }
       ],
-      "duration_ms": 162391,
-      "name": "Mi Fantasma",
-      "url": "https://open.spotify.com/track/0Ak2hIEf2BWD8H7Mw1aFmj"
+      "duration_ms": 144901,
+      "name": "Not The One",
+      "url": "https://open.spotify.com/track/34OTrVKZbPuSIy7uDASKVQ"
+    },
+    {
+      "added_at": "2023-09-08 23:16:15",
+      "album": {
+        "name": "WM (Wifey Material)",
+        "url": "https://open.spotify.com/album/1cOMZJ5XiWwPL2eDTo3IUT"
+      },
+      "artists": [
+        {
+          "name": "Immasoul",
+          "url": "https://open.spotify.com/artist/21neefJLiFuSR6sQlHDblG"
+        }
+      ],
+      "duration_ms": 161500,
+      "name": "WM (Wifey Material)",
+      "url": "https://open.spotify.com/track/4QOgJKWvxw48Q97ETW7T6G"
     },
     {
       "added_at": "2023-09-08 23:16:15",
@@ -1547,22 +1563,6 @@
     {
       "added_at": "2023-09-08 23:16:15",
       "album": {
-        "name": "WM (Wifey Material)",
-        "url": "https://open.spotify.com/album/1cOMZJ5XiWwPL2eDTo3IUT"
-      },
-      "artists": [
-        {
-          "name": "Immasoul",
-          "url": "https://open.spotify.com/artist/21neefJLiFuSR6sQlHDblG"
-        }
-      ],
-      "duration_ms": 161500,
-      "name": "WM (Wifey Material)",
-      "url": "https://open.spotify.com/track/4QOgJKWvxw48Q97ETW7T6G"
-    },
-    {
-      "added_at": "2023-09-08 23:16:15",
-      "album": {
         "name": "ESQUE T\u00da",
         "url": "https://open.spotify.com/album/7iqzuLGUTuOXua0oKK9MP8"
       },
@@ -1603,18 +1603,22 @@
     {
       "added_at": "2023-09-08 23:16:15",
       "album": {
-        "name": "Not The One",
-        "url": "https://open.spotify.com/album/1p2anSkCqxuOvoDoZka7ih"
+        "name": "Mabiland Hotline: Cobuz & Bustta",
+        "url": "https://open.spotify.com/album/3f51kZQ3Lygk8MCcEqCwZz"
       },
       "artists": [
         {
-          "name": "Z\u00f6elle",
-          "url": "https://open.spotify.com/artist/4ejqWoCUdomzmXtgNJvXbl"
+          "name": "Cobuz & Bustta",
+          "url": "https://open.spotify.com/artist/3IpCt5oIfvR2qlkuoCoGYU"
+        },
+        {
+          "name": "Mabiland",
+          "url": "https://open.spotify.com/artist/2oXKVuZqDv85M1ynjVMp3J"
         }
       ],
-      "duration_ms": 144901,
-      "name": "Not The One",
-      "url": "https://open.spotify.com/track/34OTrVKZbPuSIy7uDASKVQ"
+      "duration_ms": 169090,
+      "name": "Mabiland Hotline: Cobuz & Bustta",
+      "url": "https://open.spotify.com/track/343PbZqiWOFGS629yyTD9J"
     }
   ],
   "unique_name": "Texteo de Medianoche",

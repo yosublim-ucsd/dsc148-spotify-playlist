@@ -4,7 +4,7 @@
 
 > 
 
-370 songs - 19 hr 33 min
+371 songs - 19 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -100,6 +100,7 @@
 | [Falling In Love With Love](https://open.spotify.com/track/0ydPwnqqLcnUkJpZ7tfYiu) | [Ray Horne](https://open.spotify.com/artist/0ZHEC4FJWEfjvOsRwETzkS) | [Falling In Love With Love](https://open.spotify.com/album/3OxWfxfTgrO0oiOmmFY9qL) | 2:58 | 2023-03-23 |  |
 | [Figured Out](https://open.spotify.com/track/03xzKObUNNpLWE4VhYkgOV) | [Jimmy Udonis](https://open.spotify.com/artist/4GqHV4WkSR2W6K3llEOf4X) | [Figured Out](https://open.spotify.com/album/2YYkG47uGuKWyhcUW6VclR) | 3:04 | 2023-08-31 |  |
 | [Fine And Dandy](https://open.spotify.com/track/4RunbgDCYZnbNRrjVkioGK) | [Carl Dwight](https://open.spotify.com/artist/3Vhd8Gg0oT6hpsl8bnxZ2Y) | [Fine And Dandy](https://open.spotify.com/album/0UEOR08g3eEEDoI4v6UJjY) | 2:07 | 2023-05-11 |  |
+| [First Steps](https://open.spotify.com/track/38bC7Ca64SP0ea8bqBXpGT) | [Southside Players](https://open.spotify.com/artist/2uQxsyKZGF2T1q5j0NI4fh) | [First Steps](https://open.spotify.com/album/4ZsRYhlJzvIpSNucb51GvA) | 3:20 | 2023-10-13 |  |
 | [First\-rate](https://open.spotify.com/track/3MJfmq7LwGPkzmFm0BBcph) | [Tim Walker\-Price](https://open.spotify.com/artist/3rRxzD0o5wUqEFkCwaKiI9) | [First\-rate](https://open.spotify.com/album/6P8l5ZJ9uktJb9Shz2lnTM) | 3:14 | 2023-06-22 |  |
 | [Flaming Katy](https://open.spotify.com/track/4QX3pL1js2TmgU0TmkHbV5) | [Valentine Summers](https://open.spotify.com/artist/20rl2utHmZk0IPSLeyB7Fs) | [Flaming Katy](https://open.spotify.com/album/3mlH54JsUWAjDCqUf2us5J) | 3:21 | 2023-09-22 |  |
 | [Flowers In Your Hair](https://open.spotify.com/track/6HuOt4gKn3RL8WuvGjjpcq) | [Alfredo Evans](https://open.spotify.com/artist/6E0oDTO8ChQDFTsHLuUlNL) | [Flowers In Your Hair](https://open.spotify.com/album/4QpiWdylsl910WJGVIBRku) | 2:24 | 2023-06-08 |  |
@@ -231,7 +232,7 @@
 | [New Light](https://open.spotify.com/track/6ghT3bOc0eKBxvHf4FzLr9) | [Jaden Cohen](https://open.spotify.com/artist/5FDFlNDmnGwmTB0broI9MA) | [New Light](https://open.spotify.com/album/6zoQTTmNgvGwjIcWC2whcH) | 2:06 | 2023-09-22 |  |
 | [Next to Nothing](https://open.spotify.com/track/3NSUJkVYfauEwgNlhJinXF) | [Jacob De La Rose](https://open.spotify.com/artist/4fe6kAGXzfd9qBI1z4cwjj) | [Next to Nothing](https://open.spotify.com/album/0aUgCD4UfCBXhuz0uBtT5z) | 3:27 | 2023-03-23 |  |
 | [Night Mood](https://open.spotify.com/track/1zQJVpcXpaXJRETpADpD5f) | [Franz Gordon](https://open.spotify.com/artist/6c9mrV72IOeJ5imCUK281g) | [Night Mood](https://open.spotify.com/album/1Xsdw8DS23e5QULFLFqfRF) | 2:51 | 2023-03-23 |  |
-| [Nightfall](https://open.spotify.com/track/2u0BcOivuEWkzdS12lKQDx) | [Elsa Gifford](https://open.spotify.com/artist/2WkJQ6rsCVeyNuVidqTaoW) | [Nightfall](https://open.spotify.com/album/0xDTqheOH1HbPRb8Bi4K3U) | 2:00 | 2023-05-25 |  |
+| [Nightfall](https://open.spotify.com/track/2u0BcOivuEWkzdS12lKQDx) | [Elsa Gifford](https://open.spotify.com/artist/2WkJQ6rsCVeyNuVidqTaoW) | [Nightfall](https://open.spotify.com/album/0xDTqheOH1HbPRb8Bi4K3U) | 2:00 | 2023-05-25 | 2023-10-18 |
 | [Nordic Dreams](https://open.spotify.com/track/1XRHb1rYnhKxoF0SzCgVjH) | [Ron de Lauren](https://open.spotify.com/artist/5P9IE3snjc1rSoMKPIjzod) | [Nordic Dreams](https://open.spotify.com/album/0VjnDOivugjQtCXeUEmW8H) | 3:46 | 2023-06-08 |  |
 | [Now\-empty](https://open.spotify.com/track/5Tfz82TMmH7gaqH7cvBXzJ) | [Graydon Poole](https://open.spotify.com/artist/3CXnbwsLsa3i13StMUzT37) | [Now\-empty](https://open.spotify.com/album/15nWsQs6zRJDlM58O9XF3t) | 1:49 | 2023-06-08 | 2023-09-14 |
 | [Oceans](https://open.spotify.com/track/2NN1eF0zkuC3ag0ILFNA7f) | [Jonathán Bridges](https://open.spotify.com/artist/2dQCJiivYdK2HuhoUKcerS) | [Oceans](https://open.spotify.com/album/2he7TH3cwJVKipwDjFPkR7) | 2:40 | 2023-09-22 |  |

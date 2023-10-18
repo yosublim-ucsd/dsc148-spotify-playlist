@@ -4,7 +4,7 @@
 
 > Listen to women at full volume\. Cover:  <a href=“spotify:artist:5GGJosGMs08YEmKTZJe1fL”>Suki Waterhouse</a>
 
-1,141 songs - 2 day 13 hr 0 min
+1,142 songs - 2 day 13 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -374,7 +374,7 @@
 | [Future Moon](https://open.spotify.com/track/3lKPd9VjyaNbdCa6HoB1CC) | [Mary Droppinz](https://open.spotify.com/artist/4tPVnr7VB15UA9TRsie3cS), [SCHROEDS](https://open.spotify.com/artist/6nzLqJhQSGwQkExfjapL3o) | [5 Years of FV \- Disc 2](https://open.spotify.com/album/56QBYhr06M8QWU7HsWZMWl) | 5:00 | 2022-02-02 | 2022-03-09 |
 | [Gangster of Love](https://open.spotify.com/track/1XXNLuG4TNBUiIM9QF3XLF) | [Aiyana\-Lee](https://open.spotify.com/artist/2IZXxSIGhFtkHJyMh6UTln) | [Gangster of Love](https://open.spotify.com/album/59C8kAHMHnBRR0S3i0JhTU) | 3:47 | 2022-01-05 | 2022-02-03 |
 | [Garden \- SIDE A](https://open.spotify.com/track/4pGnWlr2Lk5MDPI6zgG972) | [RIZA](https://open.spotify.com/artist/710CMv31X4B1WF2nruibK1) | [Miracle](https://open.spotify.com/album/11mzVM4ZtpOUxescgnFUsN) | 1:12 | 2023-09-06 | 2023-10-05 |
-| [GAS](https://open.spotify.com/track/22Uq8APwbxC5vTuQaxswfJ) | [Poe Leos](https://open.spotify.com/artist/6E4v4lnsSuO5SaQ4FNOWSA) | [GAS](https://open.spotify.com/album/1E9i3K2aDCotq9DN9D3ZWB) | 2:27 | 2023-10-04 |  |
+| [GAS](https://open.spotify.com/track/22Uq8APwbxC5vTuQaxswfJ) | [Poe Leos](https://open.spotify.com/artist/6E4v4lnsSuO5SaQ4FNOWSA) | [GAS](https://open.spotify.com/album/1E9i3K2aDCotq9DN9D3ZWB) | 2:27 | 2023-10-04 | 2023-10-18 |
 | [Gas Station](https://open.spotify.com/track/2TgbS4ZzDWdhxga5HImDJ7) | [TiaCorine](https://open.spotify.com/artist/39i5B6umzWzkfMe12JrMwW) | [Gas Station](https://open.spotify.com/album/25TQQsMRr7E9CZQyANX2k1) | 2:15 | 2022-06-01 | 2022-07-07 |
 | [Gatita](https://open.spotify.com/track/4ilZV1WNjL7IxwE81OnaRY) | [Bellakath](https://open.spotify.com/artist/4yjm4SvYqC5FFuLbB6TyHr) | [Gatita](https://open.spotify.com/album/6264ANGNsltdE7SYjKMTKs) | 2:33 | 2023-01-04 | 2023-02-02 |
 | [Gator Season](https://open.spotify.com/track/0B0kOrauoAebBdoax6C0Y4) | [Lola Brooke](https://open.spotify.com/artist/2Ggj5XNlIb4Lnbqe307FyB) | [Gator Season](https://open.spotify.com/album/5ypYJLK29dHLVKXSB32AIK) | 1:41 | 2022-10-05 | 2022-11-03 |
@@ -663,6 +663,7 @@
 | [Mommy](https://open.spotify.com/track/13qSIkriq6c8jWFLv6Lt7z) | [Betta Lemme](https://open.spotify.com/artist/1WZLagiBdNltn918sr8kkw) | [Mommy](https://open.spotify.com/album/5q0eJFO2tBIPXovoQoWudO) | 2:34 | 2022-02-02 | 2022-03-09 |
 | [Monotonía](https://open.spotify.com/track/6G12ZafqofSq7YtrMqUm76) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp), [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY) | [Monotonía](https://open.spotify.com/album/5pJtcJojr98hbb6KF0ImMe) | 2:38 | 2022-11-02 | 2022-12-01 |
 | [Monster](https://open.spotify.com/track/6RwiFA2a6b8xICdSi4wUqk) | [PVRIS](https://open.spotify.com/artist/6oFs3qk4VepIVFdoD4jmsy) | [Monster](https://open.spotify.com/album/6amlnVgJTGqQNnAwP7fOfL) | 2:58 | 2021-12-01 | 2023-01-05 |
+| [Monster \- Spotify Singles](https://open.spotify.com/track/2EYDqen8Pftl3ENvqOs6fE) | [Slayyyter](https://open.spotify.com/artist/4QM5QCHicznALtX885CnZC) | [Monster \(Spotify Singles\)](https://open.spotify.com/album/62iTVhERPubeRu59a3HRqF) | 3:57 | 2023-10-17 |  |
 | [Moon Tattoo](https://open.spotify.com/track/32vTUJEp1t0Y106kFtge8r) | [Sofi Tukker](https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q) | [Soft Animals](https://open.spotify.com/album/37Tazx3nMYc8ajIdsFgW7G) | 5:47 | 2022-02-02 | 2022-03-09 |
 | [Moongazing](https://open.spotify.com/track/373i9Ia7L1JzxYAiWxeFqO) | [Drea D'Nur](https://open.spotify.com/artist/1ishecY9209KBuuH7UKmzy) | [Goodbye](https://open.spotify.com/album/2OPdaQNJmjKRTHNq9JmDLd) | 8:36 | 2022-08-03 | 2022-09-09 |
 | [Moonlight](https://open.spotify.com/track/0JmnkIqdlnUzPaf8sqBRs3) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [Red Moon In Venus](https://open.spotify.com/album/5OZ44LaqZbpP3m9B3oT8br) | 3:07 | 2023-05-03 | 2023-06-08 |

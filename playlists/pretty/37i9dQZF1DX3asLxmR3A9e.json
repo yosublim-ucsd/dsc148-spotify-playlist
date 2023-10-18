@@ -1,12 +1,12 @@
 {
   "description": "2014 highlights from the home of indie music.",
-  "num_followers": 50281,
+  "num_followers": 50300,
   "original_name": "Best of Indie 2014",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2ZGFjZjcyNGZlZjFmOTFjYTg4NzUwOWJlM2Y2ODMzNmU2MjY0YWZh",
+  "snapshot_id": "MCw2ZWUxYjU5M2E2MjMzMzdkYjBjYWExNWE5NmM5ZWJiZTA0NzFkODgx",
   "tracks": [
     {
       "added_at": "2021-09-03 05:42:37",
@@ -875,22 +875,6 @@
     {
       "added_at": "2021-09-03 05:42:37",
       "album": {
-        "name": "Chapter Of The Forest",
-        "url": "https://open.spotify.com/album/0Tt5WHP4RdkQemDgD1QItP"
-      },
-      "artists": [
-        {
-          "name": "Trevor Hall",
-          "url": "https://open.spotify.com/artist/3RMHexittaAZkf8zukkZB8"
-        }
-      ],
-      "duration_ms": 274632,
-      "name": "Green Mountain State",
-      "url": "https://open.spotify.com/track/0c7iF5fSBYxCuwsAv2z4iI"
-    },
-    {
-      "added_at": "2021-09-03 05:42:37",
-      "album": {
         "name": "Awake",
         "url": "https://open.spotify.com/album/0GjrPTT00KWsalUi8jnpR9"
       },
@@ -903,6 +887,22 @@
       "duration_ms": 283636,
       "name": "Awake",
       "url": "https://open.spotify.com/track/5MhMXTuVODDF234VDvSxQx"
+    },
+    {
+      "added_at": "2021-09-03 05:42:37",
+      "album": {
+        "name": "Chapter Of The Forest",
+        "url": "https://open.spotify.com/album/0Tt5WHP4RdkQemDgD1QItP"
+      },
+      "artists": [
+        {
+          "name": "Trevor Hall",
+          "url": "https://open.spotify.com/artist/3RMHexittaAZkf8zukkZB8"
+        }
+      ],
+      "duration_ms": 274632,
+      "name": "Green Mountain State",
+      "url": "https://open.spotify.com/track/0c7iF5fSBYxCuwsAv2z4iI"
     },
     {
       "added_at": "2021-09-03 05:42:37",
@@ -1495,22 +1495,6 @@
     {
       "added_at": "2021-09-03 05:42:37",
       "album": {
-        "name": "They Want My Soul",
-        "url": "https://open.spotify.com/album/55TZx6GWm1hlEbRgkGRjma"
-      },
-      "artists": [
-        {
-          "name": "Spoon",
-          "url": "https://open.spotify.com/artist/0K1q0nXQ8is36PzOKAMbNe"
-        }
-      ],
-      "duration_ms": 212653,
-      "name": "Do You",
-      "url": "https://open.spotify.com/track/08a6PhXyXeN3lv1DCKW9qY"
-    },
-    {
-      "added_at": "2021-09-03 05:42:37",
-      "album": {
         "name": "I Never Learn",
         "url": "https://open.spotify.com/album/4fGqfyineAZmulNxgitERh"
       },
@@ -1523,6 +1507,22 @@
       "duration_ms": 222718,
       "name": "No Rest for the Wicked",
       "url": "https://open.spotify.com/track/2gCvWjrHt6PVJjIN1amlje"
+    },
+    {
+      "added_at": "2021-09-03 05:42:37",
+      "album": {
+        "name": "They Want My Soul",
+        "url": "https://open.spotify.com/album/55TZx6GWm1hlEbRgkGRjma"
+      },
+      "artists": [
+        {
+          "name": "Spoon",
+          "url": "https://open.spotify.com/artist/0K1q0nXQ8is36PzOKAMbNe"
+        }
+      ],
+      "duration_ms": 212653,
+      "name": "Do You",
+      "url": "https://open.spotify.com/track/08a6PhXyXeN3lv1DCKW9qY"
     },
     {
       "added_at": "2021-09-03 05:42:37",

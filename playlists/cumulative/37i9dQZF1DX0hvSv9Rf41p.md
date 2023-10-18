@@ -4,7 +4,7 @@
 
 > All things <a href="spotify:genre:bass">bass</a> with GRiZ
 
-622 songs - 1 day 11 hr 53 min
+623 songs - 1 day 11 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,6 +35,7 @@
 | [As Above So Below](https://open.spotify.com/track/5ZYi0t2DmjYEIvANnvHYKN) | [Kill The Noise](https://open.spotify.com/artist/3qnMl4DHT4gndzFAcG4FlM), [Tasha Baxter](https://open.spotify.com/artist/7sLv4bED064cYa2XhF85og), [Bro Safari](https://open.spotify.com/artist/6d9SnuHI2bRer7c76d8sLq), [Macky](https://open.spotify.com/artist/6HkeW3Skr3NaxC6uWXw2lJ) | [As Above So Below](https://open.spotify.com/album/0XXmZS61tYClRAcJU5oXHG) | 2:16 | 2022-01-28 | 2022-08-06 |
 | [Asteroid](https://open.spotify.com/track/3twU0ngWzakD9k07Kb5eoV) | [Subtronics](https://open.spotify.com/artist/3NJ94iuAmmMjbszODYT6pO), [Excision](https://open.spotify.com/artist/5FKchcZpQOkqFvXBj1aCvb) | [Asteroid](https://open.spotify.com/album/1cyTofD8lQzZb4KkE4VsKf) | 4:03 | 2023-09-15 |  |
 | [Astro Funk](https://open.spotify.com/track/7wRzUAw0Npu4CalkDIFHJE) | [GRiZ](https://open.spotify.com/artist/25oLRSUjJk4YHNUsQXk7Ut) | [Astro Funk](https://open.spotify.com/album/7CwvlQ2z7T2OG4BQ7rBXnF) | 3:15 | 2021-12-17 | 2022-02-19 |
+| [At All](https://open.spotify.com/track/6rJHOYjFFn0zSr5woZwQka) | [12th Planet](https://open.spotify.com/artist/3V1h3kAdiVDBiwlY2i6dJz), [Palmer Reed](https://open.spotify.com/artist/4ulmcIhz563rmr5AOwStju) | [At All](https://open.spotify.com/album/0x6XvRRRXlTDPElalyXRHr) | 3:44 | 2023-10-13 |  |
 | [Aurora](https://open.spotify.com/track/5tp6gaGhCCWHaqwuXVFuLk) | [Blanke](https://open.spotify.com/artist/59Yq0xrABEihHANsfo9QMT) | [ÆON:TWO](https://open.spotify.com/album/6EJ9Vyo8NAzOLy3BhwQc4w) | 3:18 | 2022-08-05 | 2022-12-03 |
 | [Aurora](https://open.spotify.com/track/34enNnTqxTFXEp5BFpgD5l) | [DROELOE](https://open.spotify.com/artist/0u18Cq5stIQLUoIaULzDmA) | [Aurora](https://open.spotify.com/album/7g4mFu5vX4VZT5CVeXDKOe) | 4:30 | 2022-04-08 | 2022-09-03 |
 | [Awaken](https://open.spotify.com/track/6cXUM8nvtbs9rsn1IPVtZB) | [Au5](https://open.spotify.com/artist/40WIa01eubnEVkxUHeDZyF), [NOHC](https://open.spotify.com/artist/4UkPjMAJX3pG27D7uaubXG) | [Awaken](https://open.spotify.com/album/2umbvECEkmXv27TTDi1z0B) | 6:27 | 2021-12-17 | 2022-03-12 |
@@ -128,7 +129,7 @@
 | [dashstar\* \- Yellow Claw Trap Edit](https://open.spotify.com/track/0fQlqbTeuXiUZnkmqTurOc) | [Knock2](https://open.spotify.com/artist/6mmSS7itNWKbapgG2eZbIg), [Yellow Claw](https://open.spotify.com/artist/47z7ZrgFoBvVpCnElCE3Zh) | [dashstar\* \(Yellow Claw Trap Edit\)](https://open.spotify.com/album/2WGGdPokwClK08HMWXgh62) | 2:32 | 2023-01-06 | 2023-07-29 |
 | [Dawn Of The Dead \- Radio Edit](https://open.spotify.com/track/6pFjkMjATusw4VfpxZ6tAy) | [Soltan](https://open.spotify.com/artist/6wIbmO0mcpIyQ6CFXIJmIy), [Shaquille O'Neal](https://open.spotify.com/artist/67RWyN1fDOu7WuSTIi5hE7) | [Dawn Of The Dead](https://open.spotify.com/album/4YTS70K2HHCXNdekQAgHDV) | 3:42 | 2022-04-01 | 2022-09-03 |
 | [DAYTONS](https://open.spotify.com/track/3qOQF98C8xvlpdzD7LZHHu) | [SuperAve.](https://open.spotify.com/artist/1jZuVcvrLxmzjg9K0TU53g) | [The Streets Hear Everything](https://open.spotify.com/album/3QWjr2YbklfsFDTNocoGk3) | 2:55 | 2021-12-17 | 2022-03-12 |
-| [Dead Meat](https://open.spotify.com/track/3wkkZI6VWRJW3SvbzhwDEE) | [Esseks](https://open.spotify.com/artist/27mChCxMpfmLnXhdD07DLZ), [tiedye ky](https://open.spotify.com/artist/7cLPkazOF3m109B7KBT37x) | [Dead Meat](https://open.spotify.com/album/4z176xDdgu7rn2pP2WwfIZ) | 2:45 | 2023-08-11 |  |
+| [Dead Meat](https://open.spotify.com/track/3wkkZI6VWRJW3SvbzhwDEE) | [Esseks](https://open.spotify.com/artist/27mChCxMpfmLnXhdD07DLZ), [tiedye ky](https://open.spotify.com/artist/7cLPkazOF3m109B7KBT37x) | [Dead Meat](https://open.spotify.com/album/4z176xDdgu7rn2pP2WwfIZ) | 2:45 | 2023-08-11 | 2023-10-18 |
 | [Death of Me](https://open.spotify.com/track/1KUYxwsFpCgpwygaWQu4JL) | [Whales](https://open.spotify.com/artist/5zId1SmYy46E9v2KQsSTFR), [Shiah Maisel](https://open.spotify.com/artist/7wGFrLo9v8FKS2iWyYx75t) | [Death of Me](https://open.spotify.com/album/4EbiGYs39cMzzpm3U21f50) | 2:48 | 2022-07-01 | 2022-08-06 |
 | [Deathstalker](https://open.spotify.com/track/3jToiObyGXOLaK5Xo15GZc) | [Black Tiger Sex Machine](https://open.spotify.com/artist/0o9qzOHuHkGZ3xMFKpMFkC), [YOOKiE](https://open.spotify.com/artist/26RHyTSsP5JoS4udf8txU5) | [Once Upon A Time In Cyberworld](https://open.spotify.com/album/7lKY2k6pNBzNlC19WIHXxS) | 3:45 | 2022-01-28 | 2023-01-04 |
 | [Deep \(with DJ Snake & Yung Felix\)](https://open.spotify.com/track/0hSdx0sbSmYRVJzZTuspu0) | [Malaa](https://open.spotify.com/artist/7w1eTNePApzDk8XtgykCPS), [DJ Snake](https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4), [Yung Felix](https://open.spotify.com/artist/6J2bFI9tQDWfPHjoKHKrOu) | [Deep \(with DJ Snake & Yung Felix\)](https://open.spotify.com/album/3WpS9W69UKt59YFj744I0u) | 3:33 | 2022-09-23 | 2023-04-01 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYrgs30Ir8ow.md) - [plain]
 
 > Altijd fris in Fresh Hits\. Cover: Tems
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,776 likes - 35 songs - 1 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,790 likes - 35 songs - 1 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,4 +44,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYrgs30Ir8ow.md) - [plain]
 | 34 | [Lil Boo Thang](https://open.spotify.com/track/0cVyQfDyRnMJ0V3rjjdlU3) | [Paul Russell](https://open.spotify.com/artist/4zoRNhOhsGX3w8yBAnFSQ8) | [Lil Boo Thang](https://open.spotify.com/album/1j5AROUr8rq5xb2CXDIH1c) | 1:54 |
 | 35 | [Cuff It](https://open.spotify.com/track/4aklcHyOrgB2t4iXNgpvk9) | [Idaly](https://open.spotify.com/artist/1EYdbYpGAuJy6uZo4sVMoM) | [Cuff It](https://open.spotify.com/album/3ujSj1tKnkjg9V3d7WREoD) | 3:31 |
 
-Snapshot ID: `MCw1NzdmNTIzZmY2ODIzOTA2ZmFiNmNkY2QxZTExN2NiYWZhZjU1ZjU0`
+Snapshot ID: `MCw5ZGY1N2I4OTNmNDJhNTYzYmI5MzBhOGIwYTY3MTJmNGFiNTdlYTQ5`

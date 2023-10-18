@@ -4,13 +4,14 @@
 
 > Get the chill vibes going and flowing ✨ Las vibras tranqui que ocupas en tu vida.
 
-232 songs - 12 hr 29 min
+233 songs - 12 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [17 \(feat\. Giulia Be\)](https://open.spotify.com/track/6HzoyVSUu5MSYZikhYQ8u7) | [Pink Sweat$](https://open.spotify.com/artist/1W7FNibLa0O0b572tB2w7t), [GIULIA BE](https://open.spotify.com/artist/0kjGPGtoyKwKVOZAKmv5K6) | [17 \(feat\. Giulia Be\)](https://open.spotify.com/album/4wDCjWGkL360hLUkiBadgC) | 2:40 | 2022-05-20 |  |
 | [2 almas](https://open.spotify.com/track/3x8wse8y39pB0hhu4MeEql) | [Greta Ela](https://open.spotify.com/artist/5c8L3nGznkMGwbmyMKVIl8), [Nana Mendoza](https://open.spotify.com/artist/0f5pXcaEX3mou3QLNTdVaA) | [2 almas](https://open.spotify.com/album/3yxy66R5JTr8IjKUxlZn7T) | 3:21 | 2022-05-20 | 2023-01-07 |
 | [50ft.](https://open.spotify.com/track/1wiphSU5URcMkpMoGK5mFO) | [Lauren Jauregui](https://open.spotify.com/artist/3J0BpFVUc9LeOIVeN5uNhU) | [50ft.](https://open.spotify.com/album/029JHv262PSXojxqywHDwr) | 3:05 | 2022-05-20 | 2022-10-28 |
+| [7 de febrero](https://open.spotify.com/track/2S0RpAiBKgdVyelIjFDc0L) | [Yara](https://open.spotify.com/artist/4Yy7BNU597L8XTM2qjwgPv), [Yorkinson](https://open.spotify.com/artist/5a34fiAtb9hOllbTqKUvSK) | [7 de febrero](https://open.spotify.com/album/3drXdjre1aVmmXy43XDvbs) | 3:13 | 2023-10-12 |  |
 | [7 de febrero](https://open.spotify.com/track/3pT3Hel5mso2yNefImHIwb) | [Yara](https://open.spotify.com/artist/4Yy7BNU597L8XTM2qjwgPv), [Yorkinson](https://open.spotify.com/artist/5a34fiAtb9hOllbTqKUvSK) | [7 de febrero](https://open.spotify.com/album/0zxVXD6oNCN1u6JxljLQfo) | 3:13 | 2022-05-20 | 2023-08-26 |
 | [A la Mitad \(Suceso 1\)](https://open.spotify.com/track/6nrLzFpL4xUclXvJfTaVgN) | [Sofia Thompson](https://open.spotify.com/artist/20OEbPt9V1o5T7jo1ZLGdK) | [Roxanne](https://open.spotify.com/album/0FG7jxl8cTYpORVr4d5MVo) | 3:33 | 2022-05-20 |  |
 | [Acércate](https://open.spotify.com/track/26lQpQ4qsnVrH6QjDwrzUZ) | [Beruti](https://open.spotify.com/artist/4Ozcco9RkNmJtg7qkCy8zI), [Immasoul](https://open.spotify.com/artist/21neefJLiFuSR6sQlHDblG) | [Acércate](https://open.spotify.com/album/5d8ygrapgzsFXavPw9Snkl) | 2:47 | 2022-05-20 |  |
@@ -172,7 +173,7 @@
 | [Paraíso](https://open.spotify.com/track/0YqJFO4bUZn1chzZ6KR9l9) | [Monogem](https://open.spotify.com/artist/4rNzwpjkFq8A7SeCMKBkEV) | [Paraíso](https://open.spotify.com/album/4X61CX0485026hU97ZPc57) | 3:52 | 2022-05-20 | 2022-10-14 |
 | [Paraíso](https://open.spotify.com/track/1jqV2HDLwXJD8NbuzwsgSF) | [Monogem](https://open.spotify.com/artist/4rNzwpjkFq8A7SeCMKBkEV) | [Gardenia](https://open.spotify.com/album/0vetA0VXGOhBjzaKO8DasX) | 3:52 | 2022-09-06 | 2022-10-28 |
 | [Pastelitos De Guayaba](https://open.spotify.com/track/11gz6Jgn8aAOmAmBnnIqYF) | [Lilly Yan](https://open.spotify.com/artist/5FBHMcTg26VVGLJz5mqU5C) | [Pastelitos De Guayaba](https://open.spotify.com/album/2B473fEmZA1zsQhhrBe0bZ) | 3:11 | 2022-05-20 |  |
-| [Perderme](https://open.spotify.com/track/5m1QnfGXl5gNqZ5tp48GyT) | [Juan Pablo Vega](https://open.spotify.com/artist/2PfyKA4qhjkxUVkerTCxz0) | [Despídeme De Todxs](https://open.spotify.com/album/11rGeM6nycLMTfKwcZ3dVl) | 3:20 | 2023-05-12 |  |
+| [Perderme](https://open.spotify.com/track/5m1QnfGXl5gNqZ5tp48GyT) | [Juan Pablo Vega](https://open.spotify.com/artist/2PfyKA4qhjkxUVkerTCxz0) | [Despídeme De Todxs](https://open.spotify.com/album/11rGeM6nycLMTfKwcZ3dVl) | 3:20 | 2023-05-12 | 2023-10-18 |
 | [Perdida](https://open.spotify.com/track/3GAOWYNUBehaZD7FhBjgdW) | [Biig Piig](https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M) | [Big Fan of the Sesh, Vol\. 1](https://open.spotify.com/album/7fdySfgM7DstRy1bCZB1w8) | 3:00 | 2022-05-20 | 2022-10-20 |
 | [Perdida](https://open.spotify.com/track/7dIlxKSQKC2ND5ortIfAxM) | [Biig Piig](https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M) | [Big Fan of the Sesh, Vol\. 1](https://open.spotify.com/album/2oD72e7o7hvjaxRI75foFR) | 3:00 | 2022-09-06 | 2022-10-28 |
 | [Phone Sex](https://open.spotify.com/track/0SbwmVySMhXR47pGy9F5BA) | [st\. Pedro](https://open.spotify.com/artist/6jbd3DVthY6pIVjjCnNDRK) | [Phone Sex](https://open.spotify.com/album/7uPEOCp4fZcA83suKA39b3) | 3:13 | 2022-05-20 | 2023-01-07 |

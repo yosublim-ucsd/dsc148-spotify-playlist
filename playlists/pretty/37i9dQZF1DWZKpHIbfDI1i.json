@@ -1,12 +1,12 @@
 {
   "description": "La playlist con los m\u00e1s grandes \u00e9xitos de nuestrxs artistas mexicanxs. Bellakath en portada.",
-  "num_followers": 606353,
+  "num_followers": 606518,
   "original_name": "Top M\u00e9xico",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjMmUxMzlmMjMyZTQ0NGZhMjgxNjE0OThmZmMyMWI3YWQ1MTYxZmE3",
+  "snapshot_id": "MCw4NWIxYjExN2YwYjI3MmFiYTBmMzJhODhlOGEyYjQ3NDg2MTU1YmM3",
   "tracks": [
     {
       "added_at": "2023-10-06 06:00:00",
@@ -775,46 +775,6 @@
     {
       "added_at": "2023-09-29 06:00:00",
       "album": {
-        "name": "La Tierra del Corrido - Spotify Singles",
-        "url": "https://open.spotify.com/album/0ZbkzVai25cBAjmy7uoUkW"
-      },
-      "artists": [
-        {
-          "name": "Fuerza Regida",
-          "url": "https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt"
-        },
-        {
-          "name": "Los Tucanes De Tijuana",
-          "url": "https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK"
-        },
-        {
-          "name": "Eden Mu\u00f1oz",
-          "url": "https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV"
-        }
-      ],
-      "duration_ms": 211472,
-      "name": "La Tierra del Corrido - Spotify Singles",
-      "url": "https://open.spotify.com/track/1oZqJaE23GEn4SOFQcnTPB"
-    },
-    {
-      "added_at": "2023-09-29 06:00:00",
-      "album": {
-        "name": "Nata Montana",
-        "url": "https://open.spotify.com/album/507VZINfvVEAyrcPbJuOVU"
-      },
-      "artists": [
-        {
-          "name": "Natanael Cano",
-          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
-        }
-      ],
-      "duration_ms": 193333,
-      "name": "Mas Altas Que Bajadas",
-      "url": "https://open.spotify.com/track/4Zx0yrZwW4uNpd1FhIrOV5"
-    },
-    {
-      "added_at": "2023-09-29 06:00:00",
-      "album": {
         "name": "DEMBOW B\u00c9LICO",
         "url": "https://open.spotify.com/album/0tBIOtAGyBryVpVVU4umOL"
       },
@@ -839,18 +799,42 @@
     {
       "added_at": "2023-09-29 06:00:00",
       "album": {
-        "name": "Julieta",
-        "url": "https://open.spotify.com/album/7aVTkuM4X00Q3fyWynNYxE"
+        "name": "Nata Montana",
+        "url": "https://open.spotify.com/album/507VZINfvVEAyrcPbJuOVU"
       },
       "artists": [
         {
-          "name": "LATIN MAFIA",
-          "url": "https://open.spotify.com/artist/6XTGKOV9jceQ6f67lnhpbF"
+          "name": "Natanael Cano",
+          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
         }
       ],
-      "duration_ms": 210413,
-      "name": "Julieta",
-      "url": "https://open.spotify.com/track/1QgY3dbddC41h8cBm9lxKd"
+      "duration_ms": 193333,
+      "name": "Mas Altas Que Bajadas",
+      "url": "https://open.spotify.com/track/4Zx0yrZwW4uNpd1FhIrOV5"
+    },
+    {
+      "added_at": "2023-09-29 06:00:00",
+      "album": {
+        "name": "La Tierra del Corrido - Spotify Singles",
+        "url": "https://open.spotify.com/album/0ZbkzVai25cBAjmy7uoUkW"
+      },
+      "artists": [
+        {
+          "name": "Fuerza Regida",
+          "url": "https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt"
+        },
+        {
+          "name": "Los Tucanes De Tijuana",
+          "url": "https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK"
+        },
+        {
+          "name": "Eden Mu\u00f1oz",
+          "url": "https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV"
+        }
+      ],
+      "duration_ms": 211472,
+      "name": "La Tierra del Corrido - Spotify Singles",
+      "url": "https://open.spotify.com/track/1oZqJaE23GEn4SOFQcnTPB"
     },
     {
       "added_at": "2023-10-06 06:00:00",
@@ -871,6 +855,22 @@
       "duration_ms": 156040,
       "name": "Poco A Poco",
       "url": "https://open.spotify.com/track/4loIMejzvt11s97SGVEat8"
+    },
+    {
+      "added_at": "2023-09-29 06:00:00",
+      "album": {
+        "name": "Julieta",
+        "url": "https://open.spotify.com/album/7aVTkuM4X00Q3fyWynNYxE"
+      },
+      "artists": [
+        {
+          "name": "LATIN MAFIA",
+          "url": "https://open.spotify.com/artist/6XTGKOV9jceQ6f67lnhpbF"
+        }
+      ],
+      "duration_ms": 210413,
+      "name": "Julieta",
+      "url": "https://open.spotify.com/track/1QgY3dbddC41h8cBm9lxKd"
     },
     {
       "added_at": "2023-09-29 06:00:00",
@@ -1095,6 +1095,22 @@
     {
       "added_at": "2023-09-29 06:00:00",
       "album": {
+        "name": "Colmillo De Leche Live Sessions (En Vivo)",
+        "url": "https://open.spotify.com/album/4lAoWJAGBqKpgCBMGGVTWz"
+      },
+      "artists": [
+        {
+          "name": "Carin Leon",
+          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+        }
+      ],
+      "duration_ms": 218357,
+      "name": "Love Like This - En Vivo",
+      "url": "https://open.spotify.com/track/3tVSavUm2ytulh0CWlknlH"
+    },
+    {
+      "added_at": "2023-09-29 06:00:00",
+      "album": {
         "name": "Fuego de Noche, Nieve de D\u00eda",
         "url": "https://open.spotify.com/album/5MPWqO3tZLzTjCXYK74Sos"
       },
@@ -1111,22 +1127,6 @@
       "duration_ms": 282565,
       "name": "Fuego de Noche, Nieve de D\u00eda",
       "url": "https://open.spotify.com/track/4zdKE0VFQ0su2GpZMBCwUM"
-    },
-    {
-      "added_at": "2023-09-29 06:00:00",
-      "album": {
-        "name": "Colmillo De Leche Live Sessions (En Vivo)",
-        "url": "https://open.spotify.com/album/4lAoWJAGBqKpgCBMGGVTWz"
-      },
-      "artists": [
-        {
-          "name": "Carin Leon",
-          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
-        }
-      ],
-      "duration_ms": 218357,
-      "name": "Love Like This - En Vivo",
-      "url": "https://open.spotify.com/track/3tVSavUm2ytulh0CWlknlH"
     },
     {
       "added_at": "2023-09-29 06:00:00",
@@ -1311,22 +1311,22 @@
     {
       "added_at": "2023-09-29 06:00:00",
       "album": {
-        "name": "Tres Veces Te Enga\u00f1\u00e9 (En Vivo)",
-        "url": "https://open.spotify.com/album/67cz8x4lTBKle18uAhzeRa"
+        "name": "Cuando Alguien Me Amaba",
+        "url": "https://open.spotify.com/album/4ndAvuct7VatXCVLItLSzj"
       },
       "artists": [
         {
-          "name": "Enigma Norte\u00f1o",
-          "url": "https://open.spotify.com/artist/3441uYrkzgTWwjXLd13R0U"
+          "name": "El Frizian",
+          "url": "https://open.spotify.com/artist/2Oc5k5AzcBOoH470jTgZzp"
         },
         {
-          "name": "Carin Leon",
-          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+          "name": "La Receta",
+          "url": "https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD"
         }
       ],
-      "duration_ms": 256733,
-      "name": "Tres Veces Te Enga\u00f1\u00e9 - En Vivo",
-      "url": "https://open.spotify.com/track/2mDtpjFCkc94ZBGPNFUCRB"
+      "duration_ms": 144514,
+      "name": "Cuando Alguien Me Amaba",
+      "url": "https://open.spotify.com/track/5gmL61qk3Y3oAc7lswe70j"
     },
     {
       "added_at": "2023-09-29 06:00:00",
@@ -1371,22 +1371,22 @@
     {
       "added_at": "2023-09-29 06:00:00",
       "album": {
-        "name": "Cuando Alguien Me Amaba",
-        "url": "https://open.spotify.com/album/4ndAvuct7VatXCVLItLSzj"
+        "name": "Tres Veces Te Enga\u00f1\u00e9 (En Vivo)",
+        "url": "https://open.spotify.com/album/67cz8x4lTBKle18uAhzeRa"
       },
       "artists": [
         {
-          "name": "El Frizian",
-          "url": "https://open.spotify.com/artist/2Oc5k5AzcBOoH470jTgZzp"
+          "name": "Enigma Norte\u00f1o",
+          "url": "https://open.spotify.com/artist/3441uYrkzgTWwjXLd13R0U"
         },
         {
-          "name": "La Receta",
-          "url": "https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD"
+          "name": "Carin Leon",
+          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
         }
       ],
-      "duration_ms": 144514,
-      "name": "Cuando Alguien Me Amaba",
-      "url": "https://open.spotify.com/track/5gmL61qk3Y3oAc7lswe70j"
+      "duration_ms": 256733,
+      "name": "Tres Veces Te Enga\u00f1\u00e9 - En Vivo",
+      "url": "https://open.spotify.com/track/2mDtpjFCkc94ZBGPNFUCRB"
     },
     {
       "added_at": "2023-09-29 06:00:00",
@@ -1411,6 +1411,22 @@
     {
       "added_at": "2023-09-29 06:00:00",
       "album": {
+        "name": "Dif\u00edcil Tu Caso",
+        "url": "https://open.spotify.com/album/4toyhAt9fgtGec8ZacJerj"
+      },
+      "artists": [
+        {
+          "name": "Alejandro Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9"
+        }
+      ],
+      "duration_ms": 160386,
+      "name": "Dif\u00edcil Tu Caso",
+      "url": "https://open.spotify.com/track/6QAQyyDoacQPvSm1BfJtv2"
+    },
+    {
+      "added_at": "2023-09-29 06:00:00",
+      "album": {
         "name": "SI T\u00da ME LLAMAS",
         "url": "https://open.spotify.com/album/1FuG5aVjhS1mnmcArhYqFv"
       },
@@ -1431,22 +1447,6 @@
       "duration_ms": 182608,
       "name": "SI T\u00da ME LLAMAS",
       "url": "https://open.spotify.com/track/70BfpMR5l7JIFGpBJ9CZIe"
-    },
-    {
-      "added_at": "2023-09-29 06:00:00",
-      "album": {
-        "name": "Dif\u00edcil Tu Caso",
-        "url": "https://open.spotify.com/album/4toyhAt9fgtGec8ZacJerj"
-      },
-      "artists": [
-        {
-          "name": "Alejandro Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9"
-        }
-      ],
-      "duration_ms": 160386,
-      "name": "Dif\u00edcil Tu Caso",
-      "url": "https://open.spotify.com/track/6QAQyyDoacQPvSm1BfJtv2"
     },
     {
       "added_at": "2023-09-29 06:00:00",

@@ -1598,7 +1598,7 @@
       ],
       "date_added": "2022-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-18",
       "duration_ms": 310746,
       "name": "Everybody's Talkin'",
       "url": "https://open.spotify.com/track/0sIzgvwRYgOwAJIKIQ35mo"
@@ -5892,6 +5892,28 @@
       "duration_ms": 214000,
       "name": "When I Grow Too Old To Dream - Remastered 1999",
       "url": "https://open.spotify.com/track/1CANiqTKDkdkLklQnvGjvf"
+    },
+    {
+      "album": {
+        "name": "When Sunny Gets Blue",
+        "url": "https://open.spotify.com/album/2tcBjPtxrfZLep0WKsdVAR"
+      },
+      "artists": [
+        {
+          "name": "St\u00edna \u00c1g\u00fastsd\u00f3ttir",
+          "url": "https://open.spotify.com/artist/7tn2NxdUjOm9WuvEXQNhLi"
+        },
+        {
+          "name": "Carl Bagge",
+          "url": "https://open.spotify.com/artist/052RNZarYkMsvs3jzWLtIF"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264617,
+      "name": "When Sunny Gets Blue",
+      "url": "https://open.spotify.com/track/2ttCdSWedaPtOltZLPZVAT"
     },
     {
       "album": {

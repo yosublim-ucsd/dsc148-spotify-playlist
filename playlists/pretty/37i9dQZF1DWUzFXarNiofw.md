@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUzFXarNiofw.md) - [plain]
 
 > The newest r&b drops, every week\. Cover: Mariah The Scientist
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,025,493 likes - 174 songs - 9 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,025,575 likes - 174 songs - 9 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [From A Woman](https://open.spotify.com/track/6x4z51Q0PBhSs8NoGbJ5wk) | [Mariah the Scientist](https://open.spotify.com/artist/7HO5fOXE4gh3lzZn64tX2E) | [From A Woman](https://open.spotify.com/album/41EnEbv52wuUZLFOdXH1d8) | 3:02 |
 | 2 | [Crash & Burn \(feat\. Blxst\)](https://open.spotify.com/track/1swquvjyuVbDP4QYMFhZ8d) | [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb), [Blxst](https://open.spotify.com/artist/4qXC0i02bSFstECuXP2ZpL) | [Crash & Burn \(feat\. Blxst\)](https://open.spotify.com/album/3jAriMle4Wj0L0CKXHQRF7) | 2:27 |
 | 3 | [Regardless](https://open.spotify.com/track/1lkG393ntU03g6Y2pNKTj6) | [Naomi Sharon](https://open.spotify.com/artist/27WVFBOddxovimxMmBN4fb) | [Regardless](https://open.spotify.com/album/3kf4QtJyUo1YGs9eNJLOD7) | 3:09 |
-| 4 | [LUV N DEVOTION](https://open.spotify.com/track/2C2KmQyeGfMVULfrdMVs8i) | [DESTIN CONRAD](https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ) | [LUV N DEVOTION](https://open.spotify.com/album/5R8TDNyNfrrh9PprKnl8Ig) | 3:03 |
+| 4 | [LUV N DEVOTION](https://open.spotify.com/track/2C2KmQyeGfMVULfrdMVs8i) | [DESTIN CONRAD](https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ) | [LUV N DEVOTION](https://open.spotify.com/album/5R8TDNyNfrrh9PprKnl8Ig) | 3:01 |
 | 5 | [Call My Name](https://open.spotify.com/track/6PvlwHIjZKFjEvCyZbb86i) | [Jordin Sparks](https://open.spotify.com/artist/2AQjGvtT0pFYfxR3neFcvz) | [Call My Name](https://open.spotify.com/album/1tdzxoaEx4CBftJrZ06X8B) | 3:37 |
 | 6 | [311!](https://open.spotify.com/track/4tQPhI1lvsqsyqT7AOwwdG) | [Gallant](https://open.spotify.com/artist/7wFDo161xYdeaiLz3KIHoM), [sneek](https://open.spotify.com/artist/6O4EoU7wO1VU8yAEhbIii5), [Terrace Martin](https://open.spotify.com/artist/7MNEVabc4cs19CbzAFZmXz), [Robert Glasper & Keyon Harrold](https://open.spotify.com/artist/0PWMzZR4AE7UW9ypDiXVbJ) | [311!](https://open.spotify.com/album/0FW36xz6JNy9uIFx9TOWs3) | 3:26 |
 | 7 | [Never Had This](https://open.spotify.com/track/3rM4wmlPiJuEV1ElZec8NA) | [Chxrry22](https://open.spotify.com/artist/0SVd0yQpJ6xcZ3vTKXUaro), [Vory](https://open.spotify.com/artist/0GeeIVcvGA8GSlWsoY1dkG) | [Never Had This](https://open.spotify.com/album/046O76yD1wXsucGcnhY2BT) | 2:53 |
@@ -183,4 +183,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUzFXarNiofw.md) - [plain]
 | 173 | [Energy](https://open.spotify.com/track/4Zghtgj5NOb3wqlBuat3FI) | [RAAHiiM](https://open.spotify.com/artist/5Bo5WRNdz8ZOSVA6nJs5M9) | [BUT IF iiM HONEST](https://open.spotify.com/album/4z8EfEYVvJwlSb0wcPBHjl) | 4:10 |
 | 174 | [Fantasy \(Give It All\)](https://open.spotify.com/track/29dLm7RhrSMQi6niCNRCut) | [Dende](https://open.spotify.com/artist/0xq4TZno4XwBzkbLnBAhlF), [Sebastian Kamae](https://open.spotify.com/artist/7GsvnIE0bUBu6WZXO3ryJe), [Hoofy Baby](https://open.spotify.com/artist/5Bb8NSase0poSD0lXSyBSp) | [Fantasy \(Give It All\)](https://open.spotify.com/album/7exmvMCbKRJUDrjNxxIyF9) | 2:57 |
 
-Snapshot ID: `MCw2ZDJiMzdjMzVkYmUxZDNhMjFhZjY2NTdiNTM1OGNkNjg2ZDBmOGVk`
+Snapshot ID: `MCw0ZTI1MTc4MTdhMDllYmRjOThkMTIzOTQ4ZmYwNzkyMzEyZGQ5M2Uy`

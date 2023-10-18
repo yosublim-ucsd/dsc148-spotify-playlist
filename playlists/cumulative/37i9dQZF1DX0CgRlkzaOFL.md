@@ -2,7 +2,7 @@
 
 ### [Anime Classical](https://open.spotify.com/playlist/37i9dQZF1DX0CgRlkzaOFL)
 
-> Discover the classical side of anime with these orchestral soundtracks and classical masterpieces\. アニメ作品に登場するクラシック音楽と象徴的なサウンドトラックを1つのプレイリストで。cover: 原田 蒼\(はらだ そう\)　 ©阿久井真／小学館／NHK・NEP・日本アニメーション
+> Discover the classical side of anime with these orchestral soundtracks and classical masterpieces\. アニメ作品に登場するクラシック音楽と象徴的なサウンドトラックを1つのプレイリストで。Illustration by <a href="https://kazuhisauragami.com/"> Kazuhisa Uragami</a>
 
 78 songs - 4 hr 33 min
 

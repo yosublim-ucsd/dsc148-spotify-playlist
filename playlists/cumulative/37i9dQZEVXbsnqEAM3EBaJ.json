@@ -12481,6 +12481,28 @@
     },
     {
       "album": {
+        "name": "Reunion (25th Anniversary Expanded Edition)",
+        "url": "https://open.spotify.com/album/0LKOlxflzwKoZerUQLtSmJ"
+      },
+      "artists": [
+        {
+          "name": "Black Sabbath",
+          "url": "https://open.spotify.com/artist/5M52tdBnJaKSvOpJGz8mfZ"
+        },
+        {
+          "name": "Danny Saber",
+          "url": "https://open.spotify.com/artist/4eo7PD1XBcDdceWaVH6f4w"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 351621,
+      "name": "Psycho Man - Danny Saber Remix",
+      "url": "https://open.spotify.com/track/6qU0kmk2Xs3Vnqn4LMAGQF"
+    },
+    {
+      "album": {
         "name": "VSQ Performs Prince",
         "url": "https://open.spotify.com/album/1ar4vW8uFoF3r9dJAQSpe6"
       },
@@ -13277,6 +13299,24 @@
     },
     {
       "album": {
+        "name": "Lights Out In Babenhausen - Live 1993",
+        "url": "https://open.spotify.com/album/3g7OdGValzoYKgVTbXH0bF"
+      },
+      "artists": [
+        {
+          "name": "UFO",
+          "url": "https://open.spotify.com/artist/2Omy3P5hFZym7FKum1JA1s"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 575353,
+      "name": "Rock Bottom - Live 1993",
+      "url": "https://open.spotify.com/track/50V5bDewypUvgDSPfRz5JG"
+    },
+    {
+      "album": {
         "name": "Asphalt Meadows (Acoustic)",
         "url": "https://open.spotify.com/album/6hRYTGSMlOgLU4KxcHFMJK"
       },
@@ -13770,7 +13810,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-18",
       "duration_ms": 209774,
       "name": "Selling My Soul - Danny Saber Remix",
       "url": "https://open.spotify.com/track/5soAf86M7IS91HacoojI9H"
@@ -16648,7 +16688,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-18",
       "duration_ms": 232659,
       "name": "Too Hot To Handle - Live",
       "url": "https://open.spotify.com/track/6oWLyJUheP4wzEmsRXzqeK"

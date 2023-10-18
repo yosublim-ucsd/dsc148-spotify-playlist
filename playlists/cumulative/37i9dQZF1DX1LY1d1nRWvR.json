@@ -129,6 +129,24 @@
     },
     {
       "album": {
+        "name": "All My Troubles",
+        "url": "https://open.spotify.com/album/599n6aMLqgGci5iScyb4nN"
+      },
+      "artists": [
+        {
+          "name": "Demuja",
+          "url": "https://open.spotify.com/artist/1LfqhJiCiHfVzrBOVaBXc1"
+        }
+      ],
+      "date_added": "2021-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 308000,
+      "name": "All My Troubles",
+      "url": "https://open.spotify.com/track/3m8ilb2QT4RgsPJSh2g6UZ"
+    },
+    {
+      "album": {
         "name": "Information",
         "url": "https://open.spotify.com/album/5qMjQBgXiEDIoNFHatsaNA"
       },
@@ -640,7 +658,7 @@
       ],
       "date_added": "2021-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-18",
       "duration_ms": 267520,
       "name": "Mind",
       "url": "https://open.spotify.com/track/5sfTya6OQoW2rDLKSVT2Qk"

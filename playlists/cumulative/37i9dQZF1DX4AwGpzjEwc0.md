@@ -4,7 +4,7 @@
 
 > Un suave trasfondo musical para mantener el foco en tus tareas.
 
-401 songs - 17 hr 32 min
+403 songs - 17 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -231,12 +231,13 @@
 | [Nomae](https://open.spotify.com/track/3EhHWAEZpRI78OtJEPoabw) | [Lara Di Umbra](https://open.spotify.com/artist/26Js1EtYSgTosRfHYbEpZG) | [Arctica](https://open.spotify.com/album/3BTmQFkuJ96ZlpeRNXerBd) | 3:09 | 2023-10-09 |  |
 | [Nordic Dream](https://open.spotify.com/track/6MvXF1lmeCrBpG75Tz8l9W) | [Anders Linros](https://open.spotify.com/artist/7LP66e9QcCrSWAFDyyueTv) | [Nordic Dream](https://open.spotify.com/album/78BOpLaVvh5eA8jjH5dzQJ) | 2:22 | 2023-10-09 |  |
 | [Normandy](https://open.spotify.com/track/1YNaLcWs5k4sEZ8qmROYg0) | [Frerick Den Haan](https://open.spotify.com/artist/0TBTYt8ytHV9fqmQmXQZs5) | [Normandy](https://open.spotify.com/album/6ViCKz30p0TBntZVTR7WPr) | 3:04 | 2023-10-09 |  |
-| [North of the Stars](https://open.spotify.com/track/1aH6uE9Clag7vlhBv4PQ9d) | [Danielle Parsons](https://open.spotify.com/artist/5XthsvmqhamMtyTi86i0Sl) | [Red Skies](https://open.spotify.com/album/25memd8Jin6rksxq4KPMc6) | 3:05 | 2023-10-09 |  |
+| [North of the Stars](https://open.spotify.com/track/1aH6uE9Clag7vlhBv4PQ9d) | [Danielle Parsons](https://open.spotify.com/artist/5XthsvmqhamMtyTi86i0Sl) | [Red Skies](https://open.spotify.com/album/25memd8Jin6rksxq4KPMc6) | 3:05 | 2023-10-09 | 2023-10-18 |
 | [Nuageux](https://open.spotify.com/track/6SxecKjiavy2JnHSo3THF8) | [Petit Lilou](https://open.spotify.com/artist/6TjSQf8b2FKQ0iLI9F1l1v) | [Nuageux](https://open.spotify.com/album/4rOvg6YTNHv64HpShaU0lq) | 2:55 | 2023-10-09 |  |
 | [Ocean](https://open.spotify.com/track/3mLVz3Hbb4wD3TV7eY5W4z) | [Lux Tigon](https://open.spotify.com/artist/759EMezWm078OWxpbGzRNM) | [High Above](https://open.spotify.com/album/4yTnXjn15IjnI96CX4KSUP) | 2:11 | 2023-10-09 |  |
 | [Ojalá](https://open.spotify.com/track/73Cydqs0F5L35I3Qowtluk) | [Naia Lambert](https://open.spotify.com/artist/0zo7bpOTP4vsR9ar1yoNgb) | [Ojalá](https://open.spotify.com/album/5PiftqbGdgKeIhH1liJ3iM) | 2:32 | 2023-10-09 |  |
 | [On the Bright Side](https://open.spotify.com/track/76LnyzbX3ZKGapQP0MENm8) | [Stanley Lloyd](https://open.spotify.com/artist/32BtOzjlmKXKmYpKFIX6OY) | [On the Bright Side](https://open.spotify.com/album/6XZnOiB4lD1zTdblZj6hcE) | 2:52 | 2023-10-09 |  |
 | [Once Upon A Time](https://open.spotify.com/track/1z7EOsEf4wCOCsqHep43pf) | [Fredrik Lundberg](https://open.spotify.com/artist/1WFoHIANaCtKQ1jrzPl3C3) | [Once Upon A Time](https://open.spotify.com/album/0zmErcaHoz3lrtKMklzrT3) | 3:07 | 2023-10-09 |  |
+| [Open Wings To Fly](https://open.spotify.com/track/4cYaNAmm0gtwTVAZKmANUF) | [Antoine Di Luzio](https://open.spotify.com/artist/0nvI5DwMokXVsbHH7sBuwv) | [Open Wings To Fly](https://open.spotify.com/album/5Jv2ENPuHQZ2d5Eq8w6FIF) | 2:18 | 2023-10-16 |  |
 | [Opportunity Knocks](https://open.spotify.com/track/1T81HdwFZ2bzZYBFZ6tc13) | [John Deigen](https://open.spotify.com/artist/15uysw3q7CD404iYaCUxs3) | [Opportunity Knocks](https://open.spotify.com/album/1FU0Aw1hWxy8SHBsMV5zd2) | 2:29 | 2023-10-09 |  |
 | [Ouroboros](https://open.spotify.com/track/5HakEOiwgnYFz0LCuFtYx5) | [Jonas Holmes](https://open.spotify.com/artist/1ktaC9yb8R0mC5KSPjENLl) | [Winter Sessions By The Lake](https://open.spotify.com/album/4pwxYdiYntZbLCuyJQnadA) | 2:05 | 2023-10-09 |  |
 | [Paisible](https://open.spotify.com/track/1tmUqof1lj9IgHQoh4LjA7) | [Belle Margaux](https://open.spotify.com/artist/3WKsLlBJ9kQc0ccsuEuZdu) | [Paisible](https://open.spotify.com/album/2bYxwhnFN7tyW3FKu4BWWu) | 2:33 | 2023-10-09 |  |
@@ -268,6 +269,7 @@
 | [Reisida](https://open.spotify.com/track/39ObnHa9VOJIwR1nULLXJI) | [Jan Thiel](https://open.spotify.com/artist/2WrpycwxpswRBTsSnNMWCb) | [Seeme](https://open.spotify.com/album/5kvsE2Ojo0YkXeOa0A35bI) | 2:55 | 2023-10-09 |  |
 | [Release from silence](https://open.spotify.com/track/2t9Fi5LCyFyha1EfaPqVD9) | [Patrick Buote](https://open.spotify.com/artist/7ICIWajOxziHTqP1yzsz74) | [Release from silence](https://open.spotify.com/album/3CFaQNYtGUK5Y669NHFBgQ) | 2:17 | 2023-10-09 |  |
 | [Remembrance](https://open.spotify.com/track/3yZHqhElpkIWaHA1yUFCIH) | [Maybelle Watson](https://open.spotify.com/artist/0r0MT1SFBOA04mUgXA5PzX) | [Remembrance](https://open.spotify.com/album/5QEo0jbi1JBt4ghGJ0qIHz) | 2:16 | 2023-10-09 |  |
+| [Reminder](https://open.spotify.com/track/5nRqY2Ujz9GkqbZRx8oiU6) | [Geir Gudmundson](https://open.spotify.com/artist/6Y1fkM0GSMtbOYT8iNjup5) | [Reminder](https://open.spotify.com/album/1Z7r4T5wjvImk7BOaSZtf2) | 4:08 | 2023-10-16 |  |
 | [Resist](https://open.spotify.com/track/6niE7nOFrS1i5BTpBtj6eL) | [Ella Lane](https://open.spotify.com/artist/1GRXfpE9TyN0LxM1h9h39T) | [Resist](https://open.spotify.com/album/0scuNyeJAF2iD1btrd46ah) | 2:10 | 2023-10-09 |  |
 | [Rest](https://open.spotify.com/track/6qetTUm5h5LvvHCsALacJt) | [Leona Boyd](https://open.spotify.com/artist/7jEJ0zKV57ryzZm5tEVGJe) | [Rest](https://open.spotify.com/album/0xawmcCxkH1qHBiFYwyVYU) | 2:47 | 2023-10-09 |  |
 | [Restzeit](https://open.spotify.com/track/6LTRQ62pQFSr1OmmDYyzVy) | [Raoul Panzinger](https://open.spotify.com/artist/7BIiSEdSySWVsnOOIrohEP) | [Restzeit](https://open.spotify.com/album/6YnTVreiPfr0Ve4LlJkv3Z) | 2:03 | 2023-10-09 |  |
@@ -360,7 +362,7 @@
 | [Toivoa](https://open.spotify.com/track/3lbo5NWbt8k2xqncCsMB7q) | [Josh Kramer](https://open.spotify.com/artist/2stOL2fH4SxcTNg7RXo9AG) | [Toivoa](https://open.spotify.com/album/0hMgtsmdSuDVDsk3W5Q2ug) | 2:01 | 2023-10-09 |  |
 | [Tomorrow](https://open.spotify.com/track/1uoWQRwh5Oa6XP7Sbgo933) | [HILLEVI](https://open.spotify.com/artist/7602awgZjH5sJDrf8qlwZ6) | [Shooting star](https://open.spotify.com/album/6cHrmMSz6fxBy4SUShsxCK) | 2:45 | 2023-10-09 |  |
 | [Toruń](https://open.spotify.com/track/1Qc0WMGqchtXtdWTAfDUGm) | [Juliusz Borkowska](https://open.spotify.com/artist/6jwKQMPX4P5iKJCjhMSD1z) | [Toruń](https://open.spotify.com/album/0To9frFAZTVtsAxx2smerL) | 2:35 | 2023-10-09 |  |
-| [Tout ira bien](https://open.spotify.com/track/27PKnZV5onvCSCHEViDuJN) | [Dagmar Collier](https://open.spotify.com/artist/7GMPam14aifoeTdBmapBTj) | [Tout ira bien](https://open.spotify.com/album/6CRUMiI3y064famEBvmoc5) | 2:37 | 2023-10-09 |  |
+| [Tout ira bien](https://open.spotify.com/track/27PKnZV5onvCSCHEViDuJN) | [Dagmar Collier](https://open.spotify.com/artist/7GMPam14aifoeTdBmapBTj) | [Tout ira bien](https://open.spotify.com/album/6CRUMiI3y064famEBvmoc5) | 2:37 | 2023-10-09 | 2023-10-18 |
 | [Tracing the Sky](https://open.spotify.com/track/7DuRtVOXIo2EKXUmcMMKgx) | [Ren Lockhart](https://open.spotify.com/artist/2o6Pj478mXZrEZbEFnAbXp) | [Without Words](https://open.spotify.com/album/57pvjTiZ2itUqiYHMg9cUq) | 3:50 | 2023-10-09 |  |
 | [Trails In The Sand](https://open.spotify.com/track/2kNdebYESPkIXVcTxlNWMi) | [Marius Notar](https://open.spotify.com/artist/2XBVOEAwFri2h8RpBa2nqT) | [Trails In The Sand](https://open.spotify.com/album/3JDPEQbjLKJy86z3OkKk3H) | 2:31 | 2023-10-09 |  |
 | [Tree Angels](https://open.spotify.com/track/7hzvYJMRKjJas7foTUrO1J) | [Taylor Driskell](https://open.spotify.com/artist/2uWS8QQitbOr23trHrGTgZ) | [Stretch of Clouds](https://open.spotify.com/album/7yjLciUuoGvy7qSSv6KOPg) | 2:50 | 2023-10-09 |  |

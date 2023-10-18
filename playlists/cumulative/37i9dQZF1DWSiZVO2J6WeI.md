@@ -4,7 +4,7 @@
 
 > Hypnotic bliss.
 
-261 songs - 13 hr 41 min
+262 songs - 13 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -58,6 +58,7 @@
 | [Chapters](https://open.spotify.com/track/0vXj9LXojFSwXXKkSjzuNB) | [Zen Wuan](https://open.spotify.com/artist/214ZCbh6xfCOu7LunRBdBY) | [Yoga Meditation](https://open.spotify.com/album/3Ef1x3Iy3qS8fAXFTGBDdo) | 2:43 | 2022-02-18 |  |
 | [Cloudbed](https://open.spotify.com/track/70mSPwqD1Eomu03nAMA7v6) | [Ceri Rocha](https://open.spotify.com/artist/5clH6r1ZxRb7fYJ3StNDxP) | [Cloudbed](https://open.spotify.com/album/08x5iDmr1p2Zz1BsdS6riL) | 2:43 | 2022-12-09 |  |
 | [Collide](https://open.spotify.com/track/2QrdvFIYMJtrAOXYaQi4vZ) | [Lulu Helensworth](https://open.spotify.com/artist/43qsbkyR2EgZ14k6eJXd3j) | [Collide](https://open.spotify.com/album/1OeaLoXQqjva3gV0HcH9cx) | 3:13 | 2022-02-01 |  |
+| [Compassion](https://open.spotify.com/track/7dE78NM9rSNYkRWkj66QNT) | [Johanna Frid](https://open.spotify.com/artist/7wik4zcVVjCv1eOp5yOSYW) | [Compassion](https://open.spotify.com/album/2TIvzUtfG9bbDTN60kM15E) | 2:24 | 2023-10-13 |  |
 | [Continuum](https://open.spotify.com/track/47SCFkfGQMmdewkOywWxqC) | [Jaime Jacobs](https://open.spotify.com/artist/0V7UyntvztxPiZ1GrxMsUx) | [Continuum](https://open.spotify.com/album/2DeTdg5j8vYfMQuAoE98Lu) | 2:45 | 2022-01-12 | 2023-03-15 |
 | [Cool Air](https://open.spotify.com/track/02tUBBShoCFZE2RB1sANKl) | [Lily Augustadt](https://open.spotify.com/artist/1Jl25mzgeWgkMQmfvpH4p6) | [Cool Air](https://open.spotify.com/album/24ERw8DNZYHnejbmdTCjXA) | 3:06 | 2022-01-12 | 2023-07-29 |
 | [Crystalline](https://open.spotify.com/track/6s3ZhNJV4B4ayF99A1NyaR) | [Sweet Daylight](https://open.spotify.com/artist/4E4Gm63yUEsOZeL5iU4aH6) | [Crystalline](https://open.spotify.com/album/4izNnu9jPwIVw1ppeAKJuI) | 3:44 | 2022-01-12 | 2023-03-15 |
@@ -103,7 +104,7 @@
 | [Everything Shall Pass](https://open.spotify.com/track/1MZD1xymIhOOcS6GyPkfz4) | [Abe Hathot](https://open.spotify.com/artist/40tqIiKClGVYgzgxL4YoQw) | [Everything Shall Pass](https://open.spotify.com/album/0wjXJtRyhXb7ZM5TNqgjJ3) | 3:28 | 2022-01-12 | 2023-03-15 |
 | [Evolving](https://open.spotify.com/track/3unVls9LCPxpXOOKcVzGBA) | [Astral Wonder](https://open.spotify.com/artist/24JkKS4b8yp9usUXPL0I3G) | [Evolving](https://open.spotify.com/album/0owGtGnRMtKo3SbbQoungc) | 3:14 | 2022-12-09 |  |
 | [Evolving Dreams](https://open.spotify.com/track/6S7jmC7dXIyguhgUWsQBzI) | [Life Flows](https://open.spotify.com/artist/5YqVHlI6MomKuf0q8XUnhE) | [Deep Sleep](https://open.spotify.com/album/7Df9gsUsfzFNqTxwEpTUhg) | 3:36 | 2022-01-12 | 2023-07-29 |
-| [Falleg](https://open.spotify.com/track/7Bbe8uzyDk0116JNAQchFN) | [Arnkatla](https://open.spotify.com/artist/66neAkEGsYZ4onMSMHMSbC) | [Falleg](https://open.spotify.com/album/3JJ73fI9i4yPREvaTcvPiv) | 2:15 | 2023-07-28 |  |
+| [Falleg](https://open.spotify.com/track/7Bbe8uzyDk0116JNAQchFN) | [Arnkatla](https://open.spotify.com/artist/66neAkEGsYZ4onMSMHMSbC) | [Falleg](https://open.spotify.com/album/3JJ73fI9i4yPREvaTcvPiv) | 2:15 | 2023-07-28 | 2023-10-18 |
 | [Fantastical](https://open.spotify.com/track/1QX9Fz6OXoTjHxs3hkwNkw) | [Rainbow Rise](https://open.spotify.com/artist/7nqV0p65fl1bNXeSuTQxOd) | [Majestic](https://open.spotify.com/album/624aXTR4dUoP9dVfUAoryG) | 4:05 | 2022-01-12 |  |
 | [Faust](https://open.spotify.com/track/6hGXKSiC1vB11654kyEI5Z) | [Smith/Hill](https://open.spotify.com/artist/7HBGJDqgtjAhCnoFpZzFDS) | [Faust](https://open.spotify.com/album/4oxmPdY5YNv6BBIlsYZ4vo) | 2:18 | 2022-04-13 | 2023-07-13 |
 | [Fèath](https://open.spotify.com/track/52dScVRoybs6acPSkmK6jc) | [Andy Kamman](https://open.spotify.com/artist/2bI9xKlbtS0cPS3rQ8x87y) | [Fèath](https://open.spotify.com/album/1uPNzg4SM9YYcclHGewiyC) | 3:26 | 2022-01-12 | 2022-02-02 |

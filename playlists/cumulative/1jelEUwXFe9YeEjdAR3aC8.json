@@ -304,7 +304,7 @@
       ],
       "date_added": "2023-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-18",
       "duration_ms": 181250,
       "name": "Adore You - Acoustic",
       "url": "https://open.spotify.com/track/0JTjvbwGOoo7YIWlaAs03u"
@@ -1087,6 +1087,24 @@
     },
     {
       "album": {
+        "name": "Proof Of Life (Deluxe)",
+        "url": "https://open.spotify.com/album/30lZLey3bIVaqxlkAnKrg4"
+      },
+      "artists": [
+        {
+          "name": "Joy Oladokun",
+          "url": "https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9"
+        }
+      ],
+      "date_added": "2023-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171700,
+      "name": "Black Car",
+      "url": "https://open.spotify.com/track/14mxkRSXKwq5vsx1xPUdau"
+    },
+    {
+      "album": {
         "name": "Black Friday",
         "url": "https://open.spotify.com/album/0BdmqjXLz0L6gF78ldUYHp"
       },
@@ -1102,6 +1120,24 @@
       "duration_ms": 221510,
       "name": "Black Friday",
       "url": "https://open.spotify.com/track/1XTY6rA7XQosc0ynkkE9kN"
+    },
+    {
+      "album": {
+        "name": "the rest",
+        "url": "https://open.spotify.com/album/1n0esOkFQdL74PwMwTVgtz"
+      },
+      "artists": [
+        {
+          "name": "boygenius",
+          "url": "https://open.spotify.com/artist/1hLiboQ98IQWhpKeP9vRFw"
+        }
+      ],
+      "date_added": "2023-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141390,
+      "name": "Black Hole",
+      "url": "https://open.spotify.com/track/07gbjddL6AZ4PYKaviVMOQ"
     },
     {
       "album": {
@@ -1629,6 +1665,24 @@
     },
     {
       "album": {
+        "name": "Autumn Leaves",
+        "url": "https://open.spotify.com/album/6DGGxFMQTmxzUInGRbCiwR"
+      },
+      "artists": [
+        {
+          "name": "Mckenna Grace",
+          "url": "https://open.spotify.com/artist/1ZjXhESKpjsv31L7ykuJBE"
+        }
+      ],
+      "date_added": "2023-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213394,
+      "name": "Catch Me",
+      "url": "https://open.spotify.com/track/74y856olp2UIUAs3E1EgVX"
+    },
+    {
+      "album": {
         "name": "Changes",
         "url": "https://open.spotify.com/album/2Q8EuF1l9sDpbVAmRRiW7e"
       },
@@ -1694,7 +1748,7 @@
       ],
       "date_added": "2023-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-18",
       "duration_ms": 273882,
       "name": "Cleanup Dive",
       "url": "https://open.spotify.com/track/1MlTuNCsKVdJQLUOGnuX3B"
@@ -1871,6 +1925,24 @@
     },
     {
       "album": {
+        "name": "Columbus & 89th",
+        "url": "https://open.spotify.com/album/35aTodKr8A3bp4k0LJBV51"
+      },
+      "artists": [
+        {
+          "name": "Sarah Jarosz",
+          "url": "https://open.spotify.com/artist/6nFBonVf7Lqaj05R0v5VGJ"
+        }
+      ],
+      "date_added": "2023-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255207,
+      "name": "Columbus & 89th",
+      "url": "https://open.spotify.com/track/0sPG1vCeyLzUmWTwbu46X3"
+    },
+    {
+      "album": {
         "name": "come into my arms",
         "url": "https://open.spotify.com/album/3dti8UcnsGhwppSO3k4frr"
       },
@@ -2024,10 +2096,28 @@
       ],
       "date_added": "2023-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-18",
       "duration_ms": 180000,
       "name": "Cool About It",
       "url": "https://open.spotify.com/track/5PJH1U5Iie893v48Fl9yaC"
+    },
+    {
+      "album": {
+        "name": "Cranberry",
+        "url": "https://open.spotify.com/album/5SQy6olKLvKRxaCF76c9Ys"
+      },
+      "artists": [
+        {
+          "name": "Charlie Houston",
+          "url": "https://open.spotify.com/artist/6BkSTbIWZrLZZK0sa2GehR"
+        }
+      ],
+      "date_added": "2023-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185604,
+      "name": "Cranberry",
+      "url": "https://open.spotify.com/track/7eE5ShNk4bIooVT9VS6BXU"
     },
     {
       "album": {
@@ -3471,6 +3561,24 @@
     },
     {
       "album": {
+        "name": "Growing Up",
+        "url": "https://open.spotify.com/album/41lQz4mfRXFpFahncrnHYj"
+      },
+      "artists": [
+        {
+          "name": "Cyn",
+          "url": "https://open.spotify.com/artist/0lPhSdyfILTWuDUWJRyAk7"
+        }
+      ],
+      "date_added": "2023-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172459,
+      "name": "Growing Up",
+      "url": "https://open.spotify.com/track/1IMddxeEULFmNe5GG8NEK8"
+    },
+    {
+      "album": {
         "name": "Guess I'm Going To Hell",
         "url": "https://open.spotify.com/album/6K8XkU7IREanr9fx3vjbxD"
       },
@@ -3720,7 +3828,7 @@
       ],
       "date_added": "2023-07-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-18",
       "duration_ms": 183167,
       "name": "Hey",
       "url": "https://open.spotify.com/track/5fT5VGOaMKOurY1ckmIXLo"
@@ -5944,7 +6052,7 @@
       ],
       "date_added": "2023-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-18",
       "duration_ms": 211310,
       "name": "Matchbox",
       "url": "https://open.spotify.com/track/0wXFG6Mp60kQn4MA5DdBrw"
@@ -7122,7 +7230,7 @@
       ],
       "date_added": "2023-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-18",
       "duration_ms": 154335,
       "name": "Party For Two",
       "url": "https://open.spotify.com/track/3fYmOVujWs11kmEO5SWpQ8"
@@ -7162,6 +7270,24 @@
       "duration_ms": 213313,
       "name": "Paul Revere",
       "url": "https://open.spotify.com/track/1dHtMSJ1Ozg2Ja6GX4McAO"
+    },
+    {
+      "album": {
+        "name": "Pedestal",
+        "url": "https://open.spotify.com/album/5KRQkpYEeyfXX4gF9kWV7I"
+      },
+      "artists": [
+        {
+          "name": "Em Beihold",
+          "url": "https://open.spotify.com/artist/7o2ZQYM7nTsaVdkXY38UAA"
+        }
+      ],
+      "date_added": "2023-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191555,
+      "name": "Pedestal",
+      "url": "https://open.spotify.com/track/3C8Z6rLzMjQiDSkZxpRHxV"
     },
     {
       "album": {
@@ -7212,7 +7338,7 @@
       ],
       "date_added": "2023-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-18",
       "duration_ms": 173329,
       "name": "pink dress",
       "url": "https://open.spotify.com/track/2MBuWN9LjsJSKyGlWSJOXo"
@@ -7450,7 +7576,7 @@
       ],
       "date_added": "2023-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-18",
       "duration_ms": 239814,
       "name": "Rabid Dog",
       "url": "https://open.spotify.com/track/4DhufpFtJhDjlCI3vYNXRo"
@@ -7826,6 +7952,24 @@
       "duration_ms": 158400,
       "name": "Sad Cactus",
       "url": "https://open.spotify.com/track/7HKlZHGgTLtAdLZX8E82Aa"
+    },
+    {
+      "album": {
+        "name": "Mirror (Deluxe)",
+        "url": "https://open.spotify.com/album/5mm7YZkfxMlprJTOJEWfxq"
+      },
+      "artists": [
+        {
+          "name": "Lauren Spencer Smith",
+          "url": "https://open.spotify.com/artist/79AyR6ATpj2LTPxfb6FX50"
+        }
+      ],
+      "date_added": "2023-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175550,
+      "name": "Sad Forever",
+      "url": "https://open.spotify.com/track/63jCeAYGLcRL21xm0jKlgn"
     },
     {
       "album": {
@@ -8371,6 +8515,24 @@
     },
     {
       "album": {
+        "name": "Somebody Else",
+        "url": "https://open.spotify.com/album/3SFFWh2ceqIpRvUnZ7Q28o"
+      },
+      "artists": [
+        {
+          "name": "Tom Odell",
+          "url": "https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX"
+        }
+      ],
+      "date_added": "2023-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203324,
+      "name": "Somebody Else",
+      "url": "https://open.spotify.com/track/3oKrYP7f3Q1J5hxKX2Rkvi"
+    },
+    {
+      "album": {
         "name": "somebody to lose",
         "url": "https://open.spotify.com/album/6tXEF52m2XHHI51Pv3qr7M"
       },
@@ -8490,7 +8652,7 @@
       ],
       "date_added": "2023-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-18",
       "duration_ms": 217754,
       "name": "Starting Over",
       "url": "https://open.spotify.com/track/4VWVtPsN2r56U1rkYelNpp"
@@ -9169,6 +9331,24 @@
     },
     {
       "album": {
+        "name": "The Good Tears",
+        "url": "https://open.spotify.com/album/5JfmEck0oHgJxoOQy68485"
+      },
+      "artists": [
+        {
+          "name": "Dylan Dunlap",
+          "url": "https://open.spotify.com/artist/7CanUos0itnFLMrCiT839W"
+        }
+      ],
+      "date_added": "2023-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244804,
+      "name": "The Good Tears",
+      "url": "https://open.spotify.com/track/7hc0QRnFDaxu8YI4K8i18L"
+    },
+    {
+      "album": {
         "name": "The Hardest Part",
         "url": "https://open.spotify.com/album/1URmuEjZuBuXuLegkhvQr0"
       },
@@ -9556,7 +9736,7 @@
       ],
       "date_added": "2023-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-18",
       "duration_ms": 199853,
       "name": "Traveling Alone",
       "url": "https://open.spotify.com/track/3PCevhEUKqALzjB2hAI4zk"

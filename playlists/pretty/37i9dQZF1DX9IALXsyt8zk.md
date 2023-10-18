@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9IALXsyt8zk.md) - [plain]
 
 > Unearthing up\-and\-coming Korean acts\. Cover: NMIXX
 
-[Spotify](https://open.spotify.com/user/spotify) - 108,235 likes - 53 songs - 2 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 108,260 likes - 53 songs - 2 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,7 +59,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9IALXsyt8zk.md) - [plain]
 | 49 | [The Flash](https://open.spotify.com/track/43k24mAEnmPjVUDyOK27Ca) | [KWON EUNBI](https://open.spotify.com/artist/0qr7Rhj0yU7BPySYecNUlm) | [The Flash](https://open.spotify.com/album/10NFGCJ5fzJwMadKyBcqfr) | 3:33 |
 | 50 | [DO or DIE](https://open.spotify.com/track/6brb7SXjhqHOxsj0jkyQVH) | [xikers](https://open.spotify.com/artist/6QHP8St0MzfNDqjKpwtMht) | [HOUSE OF TRICKY : HOW TO PLAY](https://open.spotify.com/album/4JoVx1AssR7dcAZrtwFVfW) | 3:30 |
 | 51 | [WE GO](https://open.spotify.com/track/5M5vy3SaNUIHArzt7YONva) | [The Wind](https://open.spotify.com/artist/3q4h0WRGyR0Qcx88vwyzkd) | [Ready : Summer vacation](https://open.spotify.com/album/1lQHKvoXfIUo7QKS7YYBdy) | 3:04 |
-| 52 | [Our Night is more beautiful than your Day](https://open.spotify.com/track/0SXsRcuTaWZAg6QyDhncpY) | [Chuu](https://open.spotify.com/artist/1q86WVZhETqii5kKjEwYuB) | [Our Night is more beautiful than your Day](https://open.spotify.com/album/5GQw3mn3wr4asTSR73VHTq) | 3:19 |
+| 52 | [Our Night is more beautiful than your Day](https://open.spotify.com/track/0SXsRcuTaWZAg6QyDhncpY) | [CHUU](https://open.spotify.com/artist/1q86WVZhETqii5kKjEwYuB) | [Our Night is more beautiful than your Day](https://open.spotify.com/album/5GQw3mn3wr4asTSR73VHTq) | 3:19 |
 | 53 | [HDYF \(Feat\. Hash Swan\)](https://open.spotify.com/track/32dRFUzFQND2iuWeCnWdx8) | [Huh](https://open.spotify.com/artist/30AghIfoMJrMo1YqoUkEMM), [Hash Swan](https://open.spotify.com/artist/3yVEZNS0ateVfoj8FuazKg) | [Midnight law](https://open.spotify.com/album/0AoUsMZkciETOGsxubJX77) | 3:05 |
 
-Snapshot ID: `MCxhODJjNzZmYzJlOGY3NTY2M2Y5MGUxODVmN2UyMDhmMWEzM2EzMGJk`
+Snapshot ID: `MCw0ZTZlYWFiNDAwNzkzOGE5Mjg3MGQ5NDY3OGRlZjJiODIyNzk5YzM5`

@@ -1,12 +1,12 @@
 {
   "description": "For the pain, tears and heartbreak.",
-  "num_followers": 15520,
+  "num_followers": 15590,
   "original_name": "End in Tears ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2MGRmNDViNzQyNDIzZTY1NDliZjc0Yzk1MjkyNDRiYzRkNDYyZWJl",
+  "snapshot_id": "MCw0NWE4ZGQ5MWFiYzJmZDNjZjYzYjA0NDBkNzdiZDgxMzk3OGIyMmYx",
   "tracks": [
     {
       "added_at": "2023-09-29 00:01:00",
@@ -231,22 +231,6 @@
     {
       "added_at": "2023-09-29 00:01:00",
       "album": {
-        "name": "Bad To Me",
-        "url": "https://open.spotify.com/album/15hz0gTEdD5H9taOgDdrfJ"
-      },
-      "artists": [
-        {
-          "name": "Wizkid",
-          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
-        }
-      ],
-      "duration_ms": 176850,
-      "name": "Bad To Me",
-      "url": "https://open.spotify.com/track/2pUlBBWq8R10ylbBvZJV9j"
-    },
-    {
-      "added_at": "2023-09-29 00:01:00",
-      "album": {
         "name": "19 & Dangerous",
         "url": "https://open.spotify.com/album/0AjdvP8p42lwSzmN0PpwJv"
       },
@@ -267,6 +251,22 @@
     {
       "added_at": "2023-09-29 00:01:00",
       "album": {
+        "name": "Bad To Me",
+        "url": "https://open.spotify.com/album/15hz0gTEdD5H9taOgDdrfJ"
+      },
+      "artists": [
+        {
+          "name": "Wizkid",
+          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
+        }
+      ],
+      "duration_ms": 176850,
+      "name": "Bad To Me",
+      "url": "https://open.spotify.com/track/2pUlBBWq8R10ylbBvZJV9j"
+    },
+    {
+      "added_at": "2023-09-29 00:01:00",
+      "album": {
         "name": "Relationship",
         "url": "https://open.spotify.com/album/6O0aLo7VWNZPkkBC4TfQ8F"
       },
@@ -283,18 +283,22 @@
     {
       "added_at": "2023-09-29 00:01:00",
       "album": {
-        "name": "EX BOYFRIEND",
-        "url": "https://open.spotify.com/album/1OVZQ2AGHb6fQM0CFAviQq"
+        "name": "Gentility (feat. Wande Coal)",
+        "url": "https://open.spotify.com/album/6v8LdWReU2z42hUXe7VdMg"
       },
       "artists": [
         {
-          "name": "Raybekah",
-          "url": "https://open.spotify.com/artist/0SwPkNmxB2YGHWVJMI8kpW"
+          "name": "melvitto",
+          "url": "https://open.spotify.com/artist/4Xj0nxVO4r7PLEaw7LRiBa"
+        },
+        {
+          "name": "Wande Coal",
+          "url": "https://open.spotify.com/artist/1fYVmAFB7sC7eDoF3mJXla"
         }
       ],
-      "duration_ms": 134546,
-      "name": "EX BOYFRIEND",
-      "url": "https://open.spotify.com/track/3pcITc6cPAvj5JtOnXiB1X"
+      "duration_ms": 225729,
+      "name": "Gentility",
+      "url": "https://open.spotify.com/track/3vXFxsPqMgw4SYP7fkWicM"
     },
     {
       "added_at": "2023-09-29 00:01:00",
@@ -319,22 +323,18 @@
     {
       "added_at": "2023-09-29 00:01:00",
       "album": {
-        "name": "Gentility (feat. Wande Coal)",
-        "url": "https://open.spotify.com/album/6v8LdWReU2z42hUXe7VdMg"
+        "name": "EX BOYFRIEND",
+        "url": "https://open.spotify.com/album/1OVZQ2AGHb6fQM0CFAviQq"
       },
       "artists": [
         {
-          "name": "melvitto",
-          "url": "https://open.spotify.com/artist/4Xj0nxVO4r7PLEaw7LRiBa"
-        },
-        {
-          "name": "Wande Coal",
-          "url": "https://open.spotify.com/artist/1fYVmAFB7sC7eDoF3mJXla"
+          "name": "Raybekah",
+          "url": "https://open.spotify.com/artist/0SwPkNmxB2YGHWVJMI8kpW"
         }
       ],
-      "duration_ms": 225729,
-      "name": "Gentility",
-      "url": "https://open.spotify.com/track/3vXFxsPqMgw4SYP7fkWicM"
+      "duration_ms": 134546,
+      "name": "EX BOYFRIEND",
+      "url": "https://open.spotify.com/track/3pcITc6cPAvj5JtOnXiB1X"
     },
     {
       "added_at": "2023-09-29 00:01:00",

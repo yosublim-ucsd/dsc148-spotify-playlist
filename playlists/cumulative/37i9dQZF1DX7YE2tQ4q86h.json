@@ -8028,7 +8028,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-18",
       "duration_ms": 184652,
       "name": "Miss Belladonna",
       "url": "https://open.spotify.com/track/3h4Xrayt7oyzdXWe6u14oK"
@@ -8054,6 +8054,24 @@
       "duration_ms": 177847,
       "name": "Mona Lisa",
       "url": "https://open.spotify.com/track/72lUoCaeg17uXhbfmsRRRt"
+    },
+    {
+      "album": {
+        "name": "Monster (Spotify Singles)",
+        "url": "https://open.spotify.com/album/62iTVhERPubeRu59a3HRqF"
+      },
+      "artists": [
+        {
+          "name": "Slayyyter",
+          "url": "https://open.spotify.com/artist/4QM5QCHicznALtX885CnZC"
+        }
+      ],
+      "date_added": "2023-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237989,
+      "name": "Monster - Spotify Singles",
+      "url": "https://open.spotify.com/track/2EYDqen8Pftl3ENvqOs6fE"
     },
     {
       "album": {

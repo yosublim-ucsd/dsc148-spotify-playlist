@@ -1154,10 +1154,28 @@
       ],
       "date_added": "2023-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-18",
       "duration_ms": 239786,
       "name": "Tojo",
       "url": "https://open.spotify.com/track/4Ihf287hDTQJ0Eo2G6bFcv"
+    },
+    {
+      "album": {
+        "name": "Could We Be More",
+        "url": "https://open.spotify.com/album/48e8LFqiVUxumlXDIVyNYl"
+      },
+      "artists": [
+        {
+          "name": "Kokoroko",
+          "url": "https://open.spotify.com/artist/3u9rbdcmA6CxjxOAkjaeFr"
+        }
+      ],
+      "date_added": "2023-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239786,
+      "name": "Tojo",
+      "url": "https://open.spotify.com/track/5w3b1UFMnOqxeNSiJBLzqO"
     },
     {
       "album": {

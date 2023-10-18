@@ -1,12 +1,12 @@
 {
   "description": "sonidos en constante mutaci\u00f3n \ud83e\udd8b\ud83c\udf44\u2728 feat. Rakky Ripper & Rizha",
-  "num_followers": 121938,
+  "num_followers": 121989,
   "original_name": "helium",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyOTNkNTYwMDA1OGU5ZDVhMzRmMThhNDMzNjBkZDFkNjUyMzgxZGM0",
+  "snapshot_id": "MCxmYTdiMGI4NGMyZmRjMjU0MzY0YzRhYzk5OTY1N2Y3ZGI1OTYxMWM5",
   "tracks": [
     {
       "added_at": "2023-10-13 06:00:00",
@@ -643,6 +643,26 @@
     {
       "added_at": "2023-10-13 06:00:00",
       "album": {
+        "name": "ESPINAS",
+        "url": "https://open.spotify.com/album/3lGBmbcL5HhyBZOLdVvnSO"
+      },
+      "artists": [
+        {
+          "name": "STRANGEL0VE",
+          "url": "https://open.spotify.com/artist/6IsXcpSH7ewL9FTTqSPFfP"
+        },
+        {
+          "name": "Safree",
+          "url": "https://open.spotify.com/artist/11u8AlYmK5fmocR0s8qGgL"
+        }
+      ],
+      "duration_ms": 153666,
+      "name": "ESPINAS",
+      "url": "https://open.spotify.com/track/3kcIQKnSLJP0KUWumNsDfb"
+    },
+    {
+      "added_at": "2023-10-13 06:00:00",
+      "album": {
         "name": "Gand\u00eda Shore",
         "url": "https://open.spotify.com/album/1xjyoUdG9nqrd6LS5WP4bl"
       },
@@ -679,26 +699,6 @@
       "duration_ms": 149230,
       "name": "SUPERBETA",
       "url": "https://open.spotify.com/track/3eLGreGXBaAtBqvJnJg44E"
-    },
-    {
-      "added_at": "2023-10-13 06:00:00",
-      "album": {
-        "name": "ESPINAS",
-        "url": "https://open.spotify.com/album/3lGBmbcL5HhyBZOLdVvnSO"
-      },
-      "artists": [
-        {
-          "name": "STRANGEL0VE",
-          "url": "https://open.spotify.com/artist/6IsXcpSH7ewL9FTTqSPFfP"
-        },
-        {
-          "name": "Safree",
-          "url": "https://open.spotify.com/artist/11u8AlYmK5fmocR0s8qGgL"
-        }
-      ],
-      "duration_ms": 153666,
-      "name": "ESPINAS",
-      "url": "https://open.spotify.com/track/3kcIQKnSLJP0KUWumNsDfb"
     },
     {
       "added_at": "2023-10-13 06:00:00",
@@ -1095,22 +1095,6 @@
     {
       "added_at": "2023-10-13 06:00:00",
       "album": {
-        "name": "PLUSH",
-        "url": "https://open.spotify.com/album/10mhRKgJ8ZMUAvnXANmzXN"
-      },
-      "artists": [
-        {
-          "name": "SIMONA",
-          "url": "https://open.spotify.com/artist/7H7hLNfP9MzG8mt2A3s7nT"
-        }
-      ],
-      "duration_ms": 181888,
-      "name": "PLUSH",
-      "url": "https://open.spotify.com/track/5xhqoMCMBBuuwnjnTL3p9d"
-    },
-    {
-      "added_at": "2023-10-13 06:00:00",
-      "album": {
         "name": "ARWEN",
         "url": "https://open.spotify.com/album/3YBy4zaRjLOUlzom4mUiWV"
       },
@@ -1123,6 +1107,22 @@
       "duration_ms": 126005,
       "name": "ARWEN",
       "url": "https://open.spotify.com/track/6MS393S7DtXayYQF8XDWp8"
+    },
+    {
+      "added_at": "2023-10-13 06:00:00",
+      "album": {
+        "name": "PLUSH",
+        "url": "https://open.spotify.com/album/10mhRKgJ8ZMUAvnXANmzXN"
+      },
+      "artists": [
+        {
+          "name": "SIMONA",
+          "url": "https://open.spotify.com/artist/7H7hLNfP9MzG8mt2A3s7nT"
+        }
+      ],
+      "duration_ms": 181888,
+      "name": "PLUSH",
+      "url": "https://open.spotify.com/track/5xhqoMCMBBuuwnjnTL3p9d"
     },
     {
       "added_at": "2023-10-13 06:00:00",
@@ -1291,6 +1291,22 @@
     {
       "added_at": "2023-10-13 06:00:00",
       "album": {
+        "name": "EP1 \u00b7 (\u0482\u25e1_\u25e1)",
+        "url": "https://open.spotify.com/album/0FwBzeTyAxzcTT9ov81hjo"
+      },
+      "artists": [
+        {
+          "name": "Guayaba",
+          "url": "https://open.spotify.com/artist/5MOE8DFWAHa51a5gKzz78m"
+        }
+      ],
+      "duration_ms": 160500,
+      "name": "dondestas tu? (\u256f\u00b0\u25a1\u00b0\uff09\u256f\ufe35 \u253b\u2501\u253b",
+      "url": "https://open.spotify.com/track/5Wd5tZzpUOoIUcfxwLEKbi"
+    },
+    {
+      "added_at": "2023-10-13 06:00:00",
+      "album": {
         "name": "#Killaocore 2",
         "url": "https://open.spotify.com/album/4CtwI2YxtVF5Lb318YpdND"
       },
@@ -1387,6 +1403,26 @@
     {
       "added_at": "2023-10-13 06:00:00",
       "album": {
+        "name": "POP!",
+        "url": "https://open.spotify.com/album/4lKQ0RdVuigNY5a77Py44t"
+      },
+      "artists": [
+        {
+          "name": "pobre lucca",
+          "url": "https://open.spotify.com/artist/4JbQJha6cddW2i4dyS7UkA"
+        },
+        {
+          "name": "Talla",
+          "url": "https://open.spotify.com/artist/0xt6sVefZnVDysMgz4RzHI"
+        }
+      ],
+      "duration_ms": 147682,
+      "name": "HOY ES UN MAL D\u00cdA",
+      "url": "https://open.spotify.com/track/2AyF7X6ZwS1001Z5qGsYDw"
+    },
+    {
+      "added_at": "2023-10-13 06:00:00",
+      "album": {
         "name": "oniria",
         "url": "https://open.spotify.com/album/1Btj0VH3tWjhuIMilXh4qJ"
       },
@@ -1415,38 +1451,26 @@
     {
       "added_at": "2023-10-13 06:00:00",
       "album": {
-        "name": "POP!",
-        "url": "https://open.spotify.com/album/4lKQ0RdVuigNY5a77Py44t"
+        "name": "LUN\u00c1TICO",
+        "url": "https://open.spotify.com/album/1tONyQuLXb7ZyD0kNLZEe0"
       },
       "artists": [
         {
-          "name": "pobre lucca",
-          "url": "https://open.spotify.com/artist/4JbQJha6cddW2i4dyS7UkA"
+          "name": "Ghost1con",
+          "url": "https://open.spotify.com/artist/0Sltrc8Nz9djarwLKIuNdE"
         },
         {
-          "name": "Talla",
-          "url": "https://open.spotify.com/artist/0xt6sVefZnVDysMgz4RzHI"
-        }
-      ],
-      "duration_ms": 147682,
-      "name": "HOY ES UN MAL D\u00cdA",
-      "url": "https://open.spotify.com/track/2AyF7X6ZwS1001Z5qGsYDw"
-    },
-    {
-      "added_at": "2023-10-13 06:00:00",
-      "album": {
-        "name": "EP1 \u00b7 (\u0482\u25e1_\u25e1)",
-        "url": "https://open.spotify.com/album/0FwBzeTyAxzcTT9ov81hjo"
-      },
-      "artists": [
+          "name": "Reyes",
+          "url": "https://open.spotify.com/artist/58gLRwLRWH3Op38dhYc5f3"
+        },
         {
-          "name": "Guayaba",
-          "url": "https://open.spotify.com/artist/5MOE8DFWAHa51a5gKzz78m"
+          "name": "Skleiclop",
+          "url": "https://open.spotify.com/artist/0za1EmNgLLGmsbhvyGekfw"
         }
       ],
-      "duration_ms": 160500,
-      "name": "dondestas tu? (\u256f\u00b0\u25a1\u00b0\uff09\u256f\ufe35 \u253b\u2501\u253b",
-      "url": "https://open.spotify.com/track/5Wd5tZzpUOoIUcfxwLEKbi"
+      "duration_ms": 120000,
+      "name": "LUN\u00c1TICO",
+      "url": "https://open.spotify.com/track/0NEPa7pOruKTGKY5d34spg"
     },
     {
       "added_at": "2023-10-13 06:00:00",
@@ -1471,26 +1495,6 @@
     {
       "added_at": "2023-10-13 06:00:00",
       "album": {
-        "name": "b\u00e1goas de cocodrilo (Galician Army) [Remix]",
-        "url": "https://open.spotify.com/album/6ShoJ2YTxOT0mYEVK77MwN"
-      },
-      "artists": [
-        {
-          "name": "Berto",
-          "url": "https://open.spotify.com/artist/7AKh8HXKj8nJqm8xUcJJAy"
-        },
-        {
-          "name": "Galician Army",
-          "url": "https://open.spotify.com/artist/1uryf2kVKqQP54Kb9EsN2x"
-        }
-      ],
-      "duration_ms": 277500,
-      "name": "b\u00e1goas de cocodrilo (Galician Army) - Remix",
-      "url": "https://open.spotify.com/track/5gll3DVfSHPwso3oH0Ummw"
-    },
-    {
-      "added_at": "2023-10-13 06:00:00",
-      "album": {
         "name": "Lun\u00e1tico",
         "url": "https://open.spotify.com/album/71icODq6GLIj9NQpU5XJWx"
       },
@@ -1507,26 +1511,22 @@
     {
       "added_at": "2023-10-13 06:00:00",
       "album": {
-        "name": "LUN\u00c1TICO",
-        "url": "https://open.spotify.com/album/1tONyQuLXb7ZyD0kNLZEe0"
+        "name": "b\u00e1goas de cocodrilo (Galician Army) [Remix]",
+        "url": "https://open.spotify.com/album/6ShoJ2YTxOT0mYEVK77MwN"
       },
       "artists": [
         {
-          "name": "Ghost1con",
-          "url": "https://open.spotify.com/artist/0Sltrc8Nz9djarwLKIuNdE"
+          "name": "Berto",
+          "url": "https://open.spotify.com/artist/7AKh8HXKj8nJqm8xUcJJAy"
         },
         {
-          "name": "Reyes",
-          "url": "https://open.spotify.com/artist/58gLRwLRWH3Op38dhYc5f3"
-        },
-        {
-          "name": "Skleiclop",
-          "url": "https://open.spotify.com/artist/0za1EmNgLLGmsbhvyGekfw"
+          "name": "Galician Army",
+          "url": "https://open.spotify.com/artist/1uryf2kVKqQP54Kb9EsN2x"
         }
       ],
-      "duration_ms": 120000,
-      "name": "LUNATICO",
-      "url": "https://open.spotify.com/track/0NEPa7pOruKTGKY5d34spg"
+      "duration_ms": 277500,
+      "name": "b\u00e1goas de cocodrilo (Galician Army) - Remix",
+      "url": "https://open.spotify.com/track/5gll3DVfSHPwso3oH0Ummw"
     },
     {
       "added_at": "2023-10-13 06:00:00",
@@ -1551,22 +1551,6 @@
     {
       "added_at": "2023-10-13 06:00:00",
       "album": {
-        "name": "no lo volver\u00e9 a hacer",
-        "url": "https://open.spotify.com/album/6PSAYNmG1mMnHK4R9erHwl"
-      },
-      "artists": [
-        {
-          "name": "Carlo Frio",
-          "url": "https://open.spotify.com/artist/2ZkSJkvuz5kzvPe4ff1jqc"
-        }
-      ],
-      "duration_ms": 120284,
-      "name": "no lo volver\u00e9 a hacer",
-      "url": "https://open.spotify.com/track/61tr8wG7cG1NaB6NQRb7li"
-    },
-    {
-      "added_at": "2023-10-13 06:00:00",
-      "album": {
         "name": "EL TRUCO",
         "url": "https://open.spotify.com/album/1Xp2oUvdcyeb4KTIErNh37"
       },
@@ -1583,6 +1567,58 @@
       "duration_ms": 114081,
       "name": "Un Grito",
       "url": "https://open.spotify.com/track/6y4rsutCVbl9hJbWDwNYA5"
+    },
+    {
+      "added_at": "2023-10-13 06:00:00",
+      "album": {
+        "name": "no lo volver\u00e9 a hacer",
+        "url": "https://open.spotify.com/album/6PSAYNmG1mMnHK4R9erHwl"
+      },
+      "artists": [
+        {
+          "name": "Carlo Frio",
+          "url": "https://open.spotify.com/artist/2ZkSJkvuz5kzvPe4ff1jqc"
+        }
+      ],
+      "duration_ms": 120284,
+      "name": "no lo volver\u00e9 a hacer",
+      "url": "https://open.spotify.com/track/61tr8wG7cG1NaB6NQRb7li"
+    },
+    {
+      "added_at": "2023-10-13 06:00:00",
+      "album": {
+        "name": "Anesthesia",
+        "url": "https://open.spotify.com/album/32Q7r3heHX8qo2DQIisRcN"
+      },
+      "artists": [
+        {
+          "name": "Eflexx",
+          "url": "https://open.spotify.com/artist/1Hn4pH541qMOF6J8F3jprI"
+        },
+        {
+          "name": "Paul Rox",
+          "url": "https://open.spotify.com/artist/69ewH3fCLlLLsA6RaqJPP4"
+        }
+      ],
+      "duration_ms": 144000,
+      "name": "Anesthesia",
+      "url": "https://open.spotify.com/track/4bUJAlDGjmIuyJAJbXabPo"
+    },
+    {
+      "added_at": "2023-10-13 06:00:00",
+      "album": {
+        "name": "El Terror Solo Es Amor",
+        "url": "https://open.spotify.com/album/7tnWwDwWDTg1SdPJPIjmbe"
+      },
+      "artists": [
+        {
+          "name": "MU\u00d1EKI77A",
+          "url": "https://open.spotify.com/artist/4vPj1iAE8l3VAQNenIOGt8"
+        }
+      ],
+      "duration_ms": 155912,
+      "name": "Dementores",
+      "url": "https://open.spotify.com/track/1Jwykvx2g4P2gSHUxho7bp"
     },
     {
       "added_at": "2023-10-13 06:00:00",
@@ -1623,22 +1659,6 @@
     {
       "added_at": "2023-10-13 06:00:00",
       "album": {
-        "name": "El Terror Solo Es Amor",
-        "url": "https://open.spotify.com/album/7tnWwDwWDTg1SdPJPIjmbe"
-      },
-      "artists": [
-        {
-          "name": "MU\u00d1EKI77A",
-          "url": "https://open.spotify.com/artist/4vPj1iAE8l3VAQNenIOGt8"
-        }
-      ],
-      "duration_ms": 155912,
-      "name": "Dementores",
-      "url": "https://open.spotify.com/track/1Jwykvx2g4P2gSHUxho7bp"
-    },
-    {
-      "added_at": "2023-10-13 06:00:00",
-      "album": {
         "name": "PINTEREST CRUSH",
         "url": "https://open.spotify.com/album/2Jap1w2j0RoVoEsPiB3bDb"
       },
@@ -1655,26 +1675,6 @@
       "duration_ms": 154298,
       "name": "PINTEREST CRUSH",
       "url": "https://open.spotify.com/track/10kdBtdf7g4SYGCTvc7pKq"
-    },
-    {
-      "added_at": "2023-10-13 06:00:00",
-      "album": {
-        "name": "Anesthesia",
-        "url": "https://open.spotify.com/album/32Q7r3heHX8qo2DQIisRcN"
-      },
-      "artists": [
-        {
-          "name": "Eflexx",
-          "url": "https://open.spotify.com/artist/1Hn4pH541qMOF6J8F3jprI"
-        },
-        {
-          "name": "Paul Rox",
-          "url": "https://open.spotify.com/artist/69ewH3fCLlLLsA6RaqJPP4"
-        }
-      ],
-      "duration_ms": 144000,
-      "name": "Anesthesia",
-      "url": "https://open.spotify.com/track/4bUJAlDGjmIuyJAJbXabPo"
     },
     {
       "added_at": "2023-10-13 06:00:00",
@@ -1707,6 +1707,26 @@
       "duration_ms": 105230,
       "name": "Dolce",
       "url": "https://open.spotify.com/track/22NIRkAMSUybFzHnmVTPq2"
+    },
+    {
+      "added_at": "2023-10-13 06:00:00",
+      "album": {
+        "name": "2035",
+        "url": "https://open.spotify.com/album/7xcHmGc4ctuRjSQn54hZst"
+      },
+      "artists": [
+        {
+          "name": "Hadren",
+          "url": "https://open.spotify.com/artist/1jSFbCOAXXkFUk3UA2J8ln"
+        },
+        {
+          "name": "Nina Emocional",
+          "url": "https://open.spotify.com/artist/6Dqvme3Uru6IJaryxBgknz"
+        }
+      ],
+      "duration_ms": 112428,
+      "name": "2035",
+      "url": "https://open.spotify.com/track/3nbCRULrZIFo4prDNzOZ75"
     },
     {
       "added_at": "2023-10-13 06:00:00",
@@ -1799,26 +1819,6 @@
     {
       "added_at": "2023-10-13 06:00:00",
       "album": {
-        "name": "2035",
-        "url": "https://open.spotify.com/album/7xcHmGc4ctuRjSQn54hZst"
-      },
-      "artists": [
-        {
-          "name": "Hadren",
-          "url": "https://open.spotify.com/artist/1jSFbCOAXXkFUk3UA2J8ln"
-        },
-        {
-          "name": "Nina Emocional",
-          "url": "https://open.spotify.com/artist/6Dqvme3Uru6IJaryxBgknz"
-        }
-      ],
-      "duration_ms": 112428,
-      "name": "2035",
-      "url": "https://open.spotify.com/track/3nbCRULrZIFo4prDNzOZ75"
-    },
-    {
-      "added_at": "2023-10-13 06:00:00",
-      "album": {
         "name": "Sigues Tu (Remixes)",
         "url": "https://open.spotify.com/album/16GqJSH659Gu6sGJt32aLB"
       },
@@ -1879,6 +1879,22 @@
     {
       "added_at": "2023-10-13 06:00:00",
       "album": {
+        "name": "Beat Me (Remix Explosivo)",
+        "url": "https://open.spotify.com/album/7hcPupYHbFXVOpttQVxacH"
+      },
+      "artists": [
+        {
+          "name": "Hadren",
+          "url": "https://open.spotify.com/artist/1jSFbCOAXXkFUk3UA2J8ln"
+        }
+      ],
+      "duration_ms": 118600,
+      "name": "Beat Me (Remix Explosivo)",
+      "url": "https://open.spotify.com/track/3pLEWYyaNw7Hp4WyevTjtY"
+    },
+    {
+      "added_at": "2023-10-13 06:00:00",
+      "album": {
         "name": "Entre Tanta Gente",
         "url": "https://open.spotify.com/album/45F6t9OxN6HekLxQtEbRXo"
       },
@@ -1911,22 +1927,6 @@
       "duration_ms": 171428,
       "name": "X Siempre",
       "url": "https://open.spotify.com/track/7bMcgJ2lc3h0nuByItkANE"
-    },
-    {
-      "added_at": "2023-10-13 06:00:00",
-      "album": {
-        "name": "Beat Me (Remix Explosivo)",
-        "url": "https://open.spotify.com/album/7hcPupYHbFXVOpttQVxacH"
-      },
-      "artists": [
-        {
-          "name": "Hadren",
-          "url": "https://open.spotify.com/artist/1jSFbCOAXXkFUk3UA2J8ln"
-        }
-      ],
-      "duration_ms": 118600,
-      "name": "Beat Me (Remix Explosivo)",
-      "url": "https://open.spotify.com/track/3pLEWYyaNw7Hp4WyevTjtY"
     },
     {
       "added_at": "2023-10-13 06:00:00",

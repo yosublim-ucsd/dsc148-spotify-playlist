@@ -1,12 +1,12 @@
 {
   "description": "Anda pa'lante galopante con los grandes del g\u00e9nero rom\u00e1ntico. Los Temerarios en portada. ",
-  "num_followers": 370615,
+  "num_followers": 370957,
   "original_name": "Romance Grupero",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmYmY5ODA5NjBjYTNiZGVmYzVjN2FlMmUzNjBjZmE4MTY0YzJmZWRm",
+  "snapshot_id": "MCw0ZTdhYjI2YzgyNzZhMGQwODUzMWQ1YmQyMTA0Y2E2YjExMzlkZTY1",
   "tracks": [
     {
       "added_at": "2023-09-05 19:24:08",
@@ -895,6 +895,22 @@
     {
       "added_at": "2023-09-05 19:24:08",
       "album": {
+        "name": "Desde El Corazon",
+        "url": "https://open.spotify.com/album/6f0iQNDK9xsmaWfiuhFUj5"
+      },
+      "artists": [
+        {
+          "name": "Los Mier",
+          "url": "https://open.spotify.com/artist/2B8mbONjmLnXk4wpqF5UPQ"
+        }
+      ],
+      "duration_ms": 173626,
+      "name": "Notas de Sociedad",
+      "url": "https://open.spotify.com/track/1SZCsIFSRXG2m6J6GFqv4g"
+    },
+    {
+      "added_at": "2023-09-05 19:24:08",
+      "album": {
         "name": "A.B. Quintanilla III & Kumbia Kumbia Kings Present The Duets",
         "url": "https://open.spotify.com/album/05CvQnHFWD0JrII6bfM07e"
       },
@@ -911,22 +927,6 @@
       "duration_ms": 198213,
       "name": "Fuiste Mala",
       "url": "https://open.spotify.com/track/5LNYnwMBaqUkNmTiPbRsoY"
-    },
-    {
-      "added_at": "2023-09-05 19:24:08",
-      "album": {
-        "name": "Desde El Corazon",
-        "url": "https://open.spotify.com/album/6f0iQNDK9xsmaWfiuhFUj5"
-      },
-      "artists": [
-        {
-          "name": "Los Mier",
-          "url": "https://open.spotify.com/artist/2B8mbONjmLnXk4wpqF5UPQ"
-        }
-      ],
-      "duration_ms": 173626,
-      "name": "Notas de Sociedad",
-      "url": "https://open.spotify.com/track/1SZCsIFSRXG2m6J6GFqv4g"
     },
     {
       "added_at": "2023-09-05 19:24:08",

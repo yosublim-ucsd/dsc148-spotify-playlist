@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4O0AdBo80OE.md) - [plain]
 
 > Rimas cremosas, tan necesarias como tu café\. Sabino en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 67,641 likes - 100 songs - 5 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 67,698 likes - 100 songs - 5 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4O0AdBo80OE.md) - [plain]
 | 99 | [El Puente](https://open.spotify.com/track/0AEE29MR3wWP5KHo3wIJiu) | [Eric Vasquez,Jesse Manuel Hernadez,Julian Mireles Jr.](https://open.spotify.com/artist/0rAVxTEmScGnf5A0XSl7iG) | [Hecho en Mexico: Traditional Sounds and Modern Latin Grooves](https://open.spotify.com/album/3VGQQzs6CiziWT37YApV7z) | 2:27 |
 | 100 | [Ketamina](https://open.spotify.com/track/10o75EKGhYVNpJ4Zt766Dv) | [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4) | [Ketamina](https://open.spotify.com/album/3hLqUbXDXsVp4lERpmYgD8) | 2:51 |
 
-Snapshot ID: `MCw0YTExZGEyNjc1NjQ5MTA4MGZlZDVhNzU0NTgxNzAyNWI3YzU1YmQ4`
+Snapshot ID: `MCwxNzkyNGRhYzUxMjQxZDExYmEyZjUwNGRhMTljZmNiYzI0Mzc4Mzk4`

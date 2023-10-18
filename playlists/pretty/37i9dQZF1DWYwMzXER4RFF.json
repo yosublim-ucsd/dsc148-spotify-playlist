@@ -1,12 +1,12 @@
 {
   "description": "New no wave, post-punk, and anything else. Cover: Squid",
-  "num_followers": 277115,
+  "num_followers": 277203,
   "original_name": "Post Punk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5NmMwNzIyODkxZDk0MDE5NmY3ZmRiYmZmNjg0YjdiYmM0ZTA4NWY2",
+  "snapshot_id": "MCw4ZmE2NzczMjViMGUyNGY4MWJmNmFiZWZkMmM5ZWRiZmUxNjlmYmI2",
   "tracks": [
     {
       "added_at": "2023-02-24 00:00:00",
@@ -487,22 +487,6 @@
     {
       "added_at": "2023-02-24 00:00:00",
       "album": {
-        "name": "Flower of Devotion",
-        "url": "https://open.spotify.com/album/3K8xEI9zVLy7QqAHQZ4d7N"
-      },
-      "artists": [
-        {
-          "name": "Dehd",
-          "url": "https://open.spotify.com/artist/6yzuBFtT6dK2aQMZJZtcB1"
-        }
-      ],
-      "duration_ms": 226678,
-      "name": "Flying",
-      "url": "https://open.spotify.com/track/3E6gxfPW3xIYJ6hgprIlIb"
-    },
-    {
-      "added_at": "2023-02-24 00:00:00",
-      "album": {
         "name": "Hunger for a Way Out",
         "url": "https://open.spotify.com/album/0Cwh78WfxUMb1P8a7tIxYm"
       },
@@ -515,6 +499,22 @@
       "duration_ms": 141000,
       "name": "Hunger for a Way Out",
       "url": "https://open.spotify.com/track/4bXsXIRPbTk783vfyA2oRe"
+    },
+    {
+      "added_at": "2023-02-24 00:00:00",
+      "album": {
+        "name": "Flower of Devotion",
+        "url": "https://open.spotify.com/album/3K8xEI9zVLy7QqAHQZ4d7N"
+      },
+      "artists": [
+        {
+          "name": "Dehd",
+          "url": "https://open.spotify.com/artist/6yzuBFtT6dK2aQMZJZtcB1"
+        }
+      ],
+      "duration_ms": 226678,
+      "name": "Flying",
+      "url": "https://open.spotify.com/track/3E6gxfPW3xIYJ6hgprIlIb"
     },
     {
       "added_at": "2023-02-24 00:00:00",
@@ -827,22 +827,6 @@
     {
       "added_at": "2023-02-24 00:00:00",
       "album": {
-        "name": "Holding Hands with Jamie",
-        "url": "https://open.spotify.com/album/0DDiLP8SYopzwGArJ3GUi9"
-      },
-      "artists": [
-        {
-          "name": "Gilla Band",
-          "url": "https://open.spotify.com/artist/7IdPmzvB3PugXieZE9vS4S"
-        }
-      ],
-      "duration_ms": 413721,
-      "name": "Paul",
-      "url": "https://open.spotify.com/track/1GRGCIaRlqSCR6ljUmZpv0"
-    },
-    {
-      "added_at": "2023-02-24 00:00:00",
-      "album": {
         "name": "It's a Myth",
         "url": "https://open.spotify.com/album/4RgV6eObleITuJIV0cfF6k"
       },
@@ -855,6 +839,22 @@
       "duration_ms": 197613,
       "name": "Look Like That",
       "url": "https://open.spotify.com/track/7aW0CpzMvI4MjptzitR24G"
+    },
+    {
+      "added_at": "2023-02-24 00:00:00",
+      "album": {
+        "name": "Holding Hands with Jamie",
+        "url": "https://open.spotify.com/album/0DDiLP8SYopzwGArJ3GUi9"
+      },
+      "artists": [
+        {
+          "name": "Gilla Band",
+          "url": "https://open.spotify.com/artist/7IdPmzvB3PugXieZE9vS4S"
+        }
+      ],
+      "duration_ms": 413721,
+      "name": "Paul",
+      "url": "https://open.spotify.com/track/1GRGCIaRlqSCR6ljUmZpv0"
     },
     {
       "added_at": "2023-02-24 00:00:00",

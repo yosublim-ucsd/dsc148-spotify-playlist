@@ -1,12 +1,12 @@
 {
   "description": "The sound and soul that keeps Mauritius jamming",
-  "num_followers": 1804,
+  "num_followers": 1816,
   "original_name": "Sega Hitlist",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiZmJjMzM1NDUzNzZjZTZhZDk4NDk2NmM3ZWVjNTU5NzU4ZjI2N2U0",
+  "snapshot_id": "MCwxZjAwZWUwOGVjYTBjYWNhZThkNDlhM2U0NGRiMmY2NjE0M2NhYzFk",
   "tracks": [
     {
       "added_at": "2022-08-11 10:05:16",
@@ -775,22 +775,6 @@
     {
       "added_at": "2022-08-11 10:05:16",
       "album": {
-        "name": "Revival",
-        "url": "https://open.spotify.com/album/0BUWn7vu3qy8aaq3pyhqpd"
-      },
-      "artists": [
-        {
-          "name": "Zotsa",
-          "url": "https://open.spotify.com/artist/0vkxsGGUsyNJBxLQcavGr8"
-        }
-      ],
-      "duration_ms": 213531,
-      "name": "To Kontan Koze",
-      "url": "https://open.spotify.com/track/1kJAI7Qd3v25lsfHWr5Lxr"
-    },
-    {
-      "added_at": "2022-08-11 10:05:16",
-      "album": {
         "name": "Coul\u00e8r M\u00e9lanz\u00e9",
         "url": "https://open.spotify.com/album/4BmxLIj92iDtmHAuOnAiiB"
       },
@@ -803,6 +787,22 @@
       "duration_ms": 262976,
       "name": "Mo ti poule",
       "url": "https://open.spotify.com/track/7AONWpNhMoNmpkr6RSNn9P"
+    },
+    {
+      "added_at": "2022-08-11 10:05:16",
+      "album": {
+        "name": "Revival",
+        "url": "https://open.spotify.com/album/0BUWn7vu3qy8aaq3pyhqpd"
+      },
+      "artists": [
+        {
+          "name": "Zotsa",
+          "url": "https://open.spotify.com/artist/0vkxsGGUsyNJBxLQcavGr8"
+        }
+      ],
+      "duration_ms": 213531,
+      "name": "To Kontan Koze",
+      "url": "https://open.spotify.com/track/1kJAI7Qd3v25lsfHWr5Lxr"
     },
     {
       "added_at": "2022-08-11 10:05:16",

@@ -1,12 +1,12 @@
 {
   "description": "No tags, no labels - just free form. Cover: Sainte & Cash Cobain",
-  "num_followers": 155163,
+  "num_followers": 155233,
   "original_name": "Free Form",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxN2FlMmNhM2Y1YjUxNTdiZmRiZGZiYWU5NzQ4YzRlNTYyOTk4NGMz",
+  "snapshot_id": "MCxjZWQwZTU0MmQ0OTQ1MjEwMTFlMmM2Yjc0Nzc5YjdiZWJkZGM3ZWU3",
   "tracks": [
     {
       "added_at": "2023-08-18 08:12:16",
@@ -363,22 +363,6 @@
     {
       "added_at": "2023-08-18 08:12:16",
       "album": {
-        "name": "Need Me",
-        "url": "https://open.spotify.com/album/453LC2RXr0Yv6M86esUdqm"
-      },
-      "artists": [
-        {
-          "name": "Lil Tecca",
-          "url": "https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo"
-        }
-      ],
-      "duration_ms": 140659,
-      "name": "Need Me",
-      "url": "https://open.spotify.com/track/7a636g0dl8a487foiAcoCM"
-    },
-    {
-      "added_at": "2023-08-18 08:12:16",
-      "album": {
         "name": "Energy",
         "url": "https://open.spotify.com/album/4Mp9Bl0tEW4uvhai8cMhmD"
       },
@@ -391,6 +375,22 @@
       "duration_ms": 176666,
       "name": "Energy",
       "url": "https://open.spotify.com/track/1ubY35d8LtYvMHsgPo8pMc"
+    },
+    {
+      "added_at": "2023-08-18 08:12:16",
+      "album": {
+        "name": "Need Me",
+        "url": "https://open.spotify.com/album/453LC2RXr0Yv6M86esUdqm"
+      },
+      "artists": [
+        {
+          "name": "Lil Tecca",
+          "url": "https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo"
+        }
+      ],
+      "duration_ms": 140659,
+      "name": "Need Me",
+      "url": "https://open.spotify.com/track/7a636g0dl8a487foiAcoCM"
     },
     {
       "added_at": "2023-08-18 08:12:16",
@@ -683,26 +683,22 @@
     {
       "added_at": "2023-08-18 08:12:16",
       "album": {
-        "name": "On My Soul",
-        "url": "https://open.spotify.com/album/1I5QGY6wFJp0LjgDvbfV87"
+        "name": "Lotto",
+        "url": "https://open.spotify.com/album/6trpH2gOheocHdjxeotCNZ"
       },
       "artists": [
         {
-          "name": "Tobe Nwigwe",
-          "url": "https://open.spotify.com/artist/3Qh89pgJeZq6d8uM1bTot3"
+          "name": "Bad Boy Timz",
+          "url": "https://open.spotify.com/artist/68R39izwNAztATrXMOqkJS"
         },
         {
-          "name": "Nas",
-          "url": "https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q"
-        },
-        {
-          "name": "Jacob Banks",
-          "url": "https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV"
+          "name": "Mixtape Madness",
+          "url": "https://open.spotify.com/artist/4ocdD0Bi1syVqLs1GiHqQ9"
         }
       ],
-      "duration_ms": 160000,
-      "name": "On My Soul",
-      "url": "https://open.spotify.com/track/2xLrkO5wPNzl5cNjLoPeNW"
+      "duration_ms": 185142,
+      "name": "Lotto",
+      "url": "https://open.spotify.com/track/4BWX21Z66fCp2y7IxZjJOW"
     },
     {
       "added_at": "2023-08-18 08:12:16",
@@ -723,22 +719,26 @@
     {
       "added_at": "2023-08-18 08:12:16",
       "album": {
-        "name": "Lotto",
-        "url": "https://open.spotify.com/album/6trpH2gOheocHdjxeotCNZ"
+        "name": "On My Soul",
+        "url": "https://open.spotify.com/album/1I5QGY6wFJp0LjgDvbfV87"
       },
       "artists": [
         {
-          "name": "Bad Boy Timz",
-          "url": "https://open.spotify.com/artist/68R39izwNAztATrXMOqkJS"
+          "name": "Tobe Nwigwe",
+          "url": "https://open.spotify.com/artist/3Qh89pgJeZq6d8uM1bTot3"
         },
         {
-          "name": "Mixtape Madness",
-          "url": "https://open.spotify.com/artist/4ocdD0Bi1syVqLs1GiHqQ9"
+          "name": "Nas",
+          "url": "https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q"
+        },
+        {
+          "name": "Jacob Banks",
+          "url": "https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV"
         }
       ],
-      "duration_ms": 185142,
-      "name": "Lotto",
-      "url": "https://open.spotify.com/track/4BWX21Z66fCp2y7IxZjJOW"
+      "duration_ms": 160000,
+      "name": "On My Soul",
+      "url": "https://open.spotify.com/track/2xLrkO5wPNzl5cNjLoPeNW"
     },
     {
       "added_at": "2023-08-18 08:12:16",

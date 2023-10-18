@@ -4,7 +4,7 @@
 
 > Cool vibes from the African continent.
 
-251 songs - 14 hr 20 min
+252 songs - 14 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,6 +24,7 @@
 | [Amanda Pressure](https://open.spotify.com/track/0YEbAeUwfjVnJ7XHB32eEg) | [Fancy Fingers](https://open.spotify.com/artist/6GKFK8rXiyBshmwi6CMm0y), [Nyashinski](https://open.spotify.com/artist/7KY9NaOVRmptl8vlpVomi6) | [Amanda Pressure](https://open.spotify.com/album/79nzFswc8DosSGcWkYxb4J) | 3:50 | 2021-12-02 | 2022-04-01 |
 | [Amantombazane](https://open.spotify.com/track/1RqcDJwjeSGIODmbiEaEKo) | [DJ Maphorisa](https://open.spotify.com/artist/0mMqD2uqwvCjFvlzo6ayGi), [Kabza De Small](https://open.spotify.com/artist/1bNjWBFWsAAzZSR59lRdpR), [Samthing Soweto](https://open.spotify.com/artist/6HwxMgE895sejjGFin9Gvm), [Mfr Souls](https://open.spotify.com/artist/6oVuIgUWHJFOGb26gVuGsX) | [Scorpion Kings](https://open.spotify.com/album/2DLpZOdmIA3uvM4EqM67hd) | 5:55 | 2021-10-11 | 2023-03-04 |
 | [Amantombazane](https://open.spotify.com/track/5TV5x7u5Tnx2i47ccKXVex) | [DJ Maphorisa](https://open.spotify.com/artist/0mMqD2uqwvCjFvlzo6ayGi), [Kabza De Small](https://open.spotify.com/artist/1bNjWBFWsAAzZSR59lRdpR), [Samthing Soweto](https://open.spotify.com/artist/6HwxMgE895sejjGFin9Gvm), [Mfr Souls](https://open.spotify.com/artist/6oVuIgUWHJFOGb26gVuGsX) | [Scorpion Kings](https://open.spotify.com/album/5viCi5vgq2zu2FCjmDJpjn) | 5:55 | 2021-10-11 | 2022-07-29 |
+| [ANCESTRAL CALL](https://open.spotify.com/track/5HowYlbTc3sSkpqj1mhcZ7) | [ANATII](https://open.spotify.com/artist/6dX1EJC9XFlM8Ql1wGHC55), [Ladysmith Black Mambazo](https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d) | [ANCESTRAL CALL](https://open.spotify.com/album/3HFjhGuXbIuZIML0Q49h0l) | 2:46 | 2023-10-17 |  |
 | [Angel](https://open.spotify.com/track/48nJHYsJXzgukHvc7Hy7Sj) | [Ric Hassani](https://open.spotify.com/artist/5twTCOm58CXYCqCny4gYcQ) | [Angel](https://open.spotify.com/album/5A7tIwdkNl4LsFjtYSPYcX) | 3:17 | 2022-01-20 | 2022-08-27 |
 | [Anybody](https://open.spotify.com/track/44SSviC4R1TkAdsyptjDpE) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [African Giant](https://open.spotify.com/album/34vlTd4355ddD4q9pPsoqF) | 3:08 | 2021-10-11 | 2023-04-21 |
 | [Anybody](https://open.spotify.com/track/59m6kW2uMfVN2htib54Z7b) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Happy Hits](https://open.spotify.com/album/2SGaiEBfGSAdJYgvsDLTuY) | 3:08 | 2021-10-11 | 2022-11-14 |

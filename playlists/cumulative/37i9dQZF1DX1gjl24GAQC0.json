@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Is it your favorite oppa or dongsaeng? (Cover: TOMORROW X TOGETHER) [\ub2f9\uc2e0\uc758 \ucd5c\uc560 \uc544\uc774\ub3cc \ubcf4\uc774 \uadf8\ub8f9\uc740 \uc5b4\ub5a4 \uadf8\ub8f9\uc778\uac00\uc694?]",
+  "description": "Is it your favorite oppa or dongsaeng? (Cover: YOUNITE) [\ub2f9\uc2e0\uc758 \ucd5c\uc560 \uc544\uc774\ub3cc \ubcf4\uc774 \uadf8\ub8f9\uc740 \uc5b4\ub5a4 \uadf8\ub8f9\uc778\uac00\uc694?]",
   "name": "Hallyu Boy Bands",
   "tracks": [
     {
@@ -3098,7 +3098,7 @@
       ],
       "date_added": "2023-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-18",
       "duration_ms": 172773,
       "name": "FULL METAL JACKET",
       "url": "https://open.spotify.com/track/3DdEFAs5UmTIYIoDXTjD5U"
@@ -3272,6 +3272,24 @@
       "duration_ms": 234653,
       "name": "Give me more (feat. De La Ghetto & Play-N-Skillz)",
       "url": "https://open.spotify.com/track/2aQuh8h6DArZ9bcPigj5nf"
+    },
+    {
+      "album": {
+        "name": "Give You My All",
+        "url": "https://open.spotify.com/album/7492V3qcwPAToQhe9KXo1A"
+      },
+      "artists": [
+        {
+          "name": "HIGHLIGHT",
+          "url": "https://open.spotify.com/artist/3T0fMfxYBU3q9oAUAdPIsr"
+        }
+      ],
+      "date_added": "2023-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165266,
+      "name": "Give You My All",
+      "url": "https://open.spotify.com/track/5qnEx0iZtcFoUXPlY8iQhk"
     },
     {
       "album": {
@@ -4822,6 +4840,24 @@
       "duration_ms": 172293,
       "name": "Love Effect",
       "url": "https://open.spotify.com/track/5jBdF52105JBOQN4HyBCW5"
+    },
+    {
+      "album": {
+        "name": "BIT Part.2",
+        "url": "https://open.spotify.com/album/3nnadaRtvxQl3Rchqp672S"
+      },
+      "artists": [
+        {
+          "name": "YOUNITE",
+          "url": "https://open.spotify.com/artist/4l4eMvpA4K7X02j08cbkNV"
+        }
+      ],
+      "date_added": "2023-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202873,
+      "name": "Love it",
+      "url": "https://open.spotify.com/track/574gYm7iFWEUO4DbF5NGEF"
     },
     {
       "album": {
@@ -8186,7 +8222,7 @@
       ],
       "date_added": "2023-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-18",
       "duration_ms": 206946,
       "name": "TROUBLE",
       "url": "https://open.spotify.com/track/6MSRu5wksC0Esn63XOgmI3"
@@ -8348,7 +8384,7 @@
       ],
       "date_added": "2022-04-04",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-17",
+      "date_removed": null,
       "duration_ms": 192092,
       "name": "VERY NICE",
       "url": "https://open.spotify.com/track/1Rrj7KyS2R6SP9CQMDJW1w"
@@ -8770,7 +8806,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-18",
       "duration_ms": 179826,
       "name": "With UNIVERSE",
       "url": "https://open.spotify.com/track/1GCYF6dKEpdC7GFn4Kmrd8"

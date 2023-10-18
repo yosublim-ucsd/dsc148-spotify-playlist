@@ -1,12 +1,12 @@
 {
   "description": "Vocals and keys, front and center. Cover: Adele",
-  "num_followers": 1763516,
+  "num_followers": 1764014,
   "original_name": "Piano Ballads",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4NjcyOTAyZjBhMDk2ZjYwOWJmZmQ4OGRlNmFmYWMyN2YyZmQzNWJi",
+  "snapshot_id": "MCw1NDYxMzM0YTY0YjlhYWE4MzZiZWIxMzliYzVlYWZhMTkyOTdiZDNm",
   "tracks": [
     {
       "added_at": "2023-09-22 20:43:07",
@@ -691,22 +691,6 @@
     {
       "added_at": "2023-09-22 20:43:07",
       "album": {
-        "name": "I GUESS I'M IN LOVE",
-        "url": "https://open.spotify.com/album/56meo2KJ9tRlaGUHSGfTpP"
-      },
-      "artists": [
-        {
-          "name": "Clinton Kane",
-          "url": "https://open.spotify.com/artist/7okSU80WTrn4LXlyXYbX3P"
-        }
-      ],
-      "duration_ms": 204093,
-      "name": "I GUESS I'M IN LOVE",
-      "url": "https://open.spotify.com/track/1is8gU4RVcN4J8xItxWoOY"
-    },
-    {
-      "added_at": "2023-09-22 20:43:07",
-      "album": {
         "name": "5AM (Expanded Edition)",
         "url": "https://open.spotify.com/album/05WTBdwkHAqk5Mg68ugD7L"
       },
@@ -719,6 +703,22 @@
       "duration_ms": 273000,
       "name": "I Found",
       "url": "https://open.spotify.com/track/5zT5cMnMKoyruPj13TQXGx"
+    },
+    {
+      "added_at": "2023-09-22 20:43:07",
+      "album": {
+        "name": "I GUESS I'M IN LOVE",
+        "url": "https://open.spotify.com/album/56meo2KJ9tRlaGUHSGfTpP"
+      },
+      "artists": [
+        {
+          "name": "Clinton Kane",
+          "url": "https://open.spotify.com/artist/7okSU80WTrn4LXlyXYbX3P"
+        }
+      ],
+      "duration_ms": 204093,
+      "name": "I GUESS I'M IN LOVE",
+      "url": "https://open.spotify.com/track/1is8gU4RVcN4J8xItxWoOY"
     },
     {
       "added_at": "2023-09-22 20:43:07",
@@ -1139,22 +1139,6 @@
     {
       "added_at": "2023-09-22 20:43:07",
       "album": {
-        "name": "Once Upon a Mind",
-        "url": "https://open.spotify.com/album/4gkWfdUgz4jWrGx4sKQpb4"
-      },
-      "artists": [
-        {
-          "name": "James Blunt",
-          "url": "https://open.spotify.com/artist/7KMqksf0UMdyA0UCf4R3ux"
-        }
-      ],
-      "duration_ms": 259991,
-      "name": "Monsters",
-      "url": "https://open.spotify.com/track/4SykS8RWkF6eK6xeua7XLP"
-    },
-    {
-      "added_at": "2023-09-22 20:43:07",
-      "album": {
         "name": "Freya Ridings",
         "url": "https://open.spotify.com/album/3dcenoRctm8OAnqoCrQrLd"
       },
@@ -1167,6 +1151,22 @@
       "duration_ms": 225853,
       "name": "Lost Without You",
       "url": "https://open.spotify.com/track/3cWI6Hj9LQ0MfMuhw9uSMc"
+    },
+    {
+      "added_at": "2023-09-22 20:43:07",
+      "album": {
+        "name": "Once Upon a Mind",
+        "url": "https://open.spotify.com/album/4gkWfdUgz4jWrGx4sKQpb4"
+      },
+      "artists": [
+        {
+          "name": "James Blunt",
+          "url": "https://open.spotify.com/artist/7KMqksf0UMdyA0UCf4R3ux"
+        }
+      ],
+      "duration_ms": 259991,
+      "name": "Monsters",
+      "url": "https://open.spotify.com/track/4SykS8RWkF6eK6xeua7XLP"
     },
     {
       "added_at": "2023-09-22 20:43:07",

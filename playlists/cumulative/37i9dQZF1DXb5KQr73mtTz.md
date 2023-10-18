@@ -4,7 +4,7 @@
 
 > 이별, 슬픔, 공허함\. 나의 우울에 공감해보세요
 
-233 songs - 15 hr 18 min
+234 songs - 15 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,7 +30,7 @@
 | [Can't Go](https://open.spotify.com/track/6uXeXVyxeZOj7pkKZPY1qW) | [BEN](https://open.spotify.com/artist/0bDdOBGVCFVt0f8N9ldW1k) | [Because This Is My First Life \(Original Television Soundtrack\), Pt\. 8](https://open.spotify.com/album/3K4xblWPSv7iK1who1GoWp) | 3:31 | 2022-05-11 |  |
 | [Childhood](https://open.spotify.com/track/0YD0nPpSx4DSHoL1EGJ5Lj) | [SUNMI](https://open.spotify.com/artist/6MoXcK2GyGg7FIyxPU5yW6) | [Heart Burn](https://open.spotify.com/album/0ahb3lp7jXxKUx3beS7AVu) | 3:15 | 2022-07-04 | 2022-09-06 |
 | [Clean one's memory](https://open.spotify.com/track/5GUMM036S9oUGz8CYjkpHV) | [Juho](https://open.spotify.com/artist/4iVd8OOKGx0eT2Uo2nEpfH) | [Clean one's memory](https://open.spotify.com/album/0dx7RuSLGAC52CtUaIgKNC) | 3:56 | 2022-05-11 | 2022-06-01 |
-| [Clockwork](https://open.spotify.com/track/09SIbdUVr34sBd7Uwwt63J) | [TAEMIN](https://open.spotify.com/artist/13rF01aOogvnkuQXOlgTW8) | [Never Gonna Dance Again : Act 1 \- The 3rd Album](https://open.spotify.com/album/6YfGgOaUnhs0A9brMqjpHf) | 3:47 | 2022-05-11 |  |
+| [Clockwork](https://open.spotify.com/track/09SIbdUVr34sBd7Uwwt63J) | [TAEMIN](https://open.spotify.com/artist/13rF01aOogvnkuQXOlgTW8) | [Never Gonna Dance Again : Act 1 \- The 3rd Album](https://open.spotify.com/album/6YfGgOaUnhs0A9brMqjpHf) | 3:47 | 2022-05-11 | 2023-10-18 |
 | [Close My Eyes](https://open.spotify.com/track/0uhRzFqvR7gR4WIAPf1CsC) | [Hajin](https://open.spotify.com/artist/7KZnYmjUlqcJ8Hozbg64Lu) | [Strangers Again, Pt\. 4 \(Original Television Soundtrack\)](https://open.spotify.com/album/6N8MuFv8LwKBQ3dIDqqdoa) | 4:13 | 2023-02-28 | 2023-06-19 |
 | [Common Regret](https://open.spotify.com/track/56guunK8Kb6rtwTiYZAxwJ) | [JERO](https://open.spotify.com/artist/4ZT4Uk077lxYVzmVQhMLE9) | [Monthly magazine home \(Original Television Soundtrack\) Pt.6](https://open.spotify.com/album/6botCjfBk16Z9AjJL1jv9U) | 4:17 | 2022-05-11 | 2022-07-29 |
 | [Days without you](https://open.spotify.com/track/14xiv5uhzoRdqd3cxHiBbw) | [DAVICHI](https://open.spotify.com/artist/4z6yrDz5GfKXkeQZjOaZdq) | [&10](https://open.spotify.com/album/1LO8EUUBv1ZdacxIx1KoWF) | 4:33 | 2022-05-11 |  |
@@ -183,6 +183,7 @@
 | [Someday](https://open.spotify.com/track/5W3SrNE55U2N5kg2ygA1lx) | [KIM JAE HWAN](https://open.spotify.com/artist/7LdZwtnhfB1GoC9SE9tvyb) | [Crash Landing on You \(Original Television Soundtrack\), Pt\. 5](https://open.spotify.com/album/685mm3HkTIAFJYRSpGJul8) | 4:18 | 2022-07-08 |  |
 | [Someday](https://open.spotify.com/track/37ftzk7n72Ptu9GCaGJvjV) | [KIM JAE HWAN](https://open.spotify.com/artist/7LdZwtnhfB1GoC9SE9tvyb) | [Crash Landing on You \(Original Television Soundtrack\), Pt\. 5](https://open.spotify.com/album/3X76n6xJw1e18AUp96SFa2) | 4:18 | 2022-05-11 | 2022-07-21 |
 | [Something Like That](https://open.spotify.com/track/4hS3Ojb0MQUcLbud06tclD) | [BANHANA](https://open.spotify.com/artist/6RvPayywUEsk1MMK0Magpy) | [Something Like That](https://open.spotify.com/album/2De8ePlJ94yLK21qEIAmRg) | 4:19 | 2022-06-13 | 2022-06-28 |
+| [Star \(Feat\. 10CM\)](https://open.spotify.com/track/42LBHPwYS9g5lDbLxk0LCg) | [DAWN 던](https://open.spotify.com/artist/7DxCK6bwfQC3F2ajZ02R2F), [10cm](https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp) | [Narcissus](https://open.spotify.com/album/3fJW2iurWA0QBCMc3qrFwh) | 3:15 | 2023-10-16 |  |
 | [Starlight](https://open.spotify.com/track/60qrOUUJdPwH7ofxPMRZ11) | [We Young](https://open.spotify.com/artist/2KWA8WGIcCPLNX6HnPMnS4) | [Starlight](https://open.spotify.com/album/0D0h30fTGAWlzKwxPfY2PX) | 3:43 | 2022-05-11 | 2022-06-02 |
 | [Stay](https://open.spotify.com/track/7LETz5EPzwbgh92VSOPBA6) | [Ways](https://open.spotify.com/artist/6IjY9gwwbF1bFVMJHMKRjP) | [Stay](https://open.spotify.com/album/0rWN85pSXc2ikHlRlHkL8X) | 3:47 | 2022-05-11 | 2022-07-12 |
 | [Stay With Me](https://open.spotify.com/track/1ZIV3CqxbSvtR3IvAlSiOt) | [JUNGKEY](https://open.spotify.com/artist/6fTEkjuuZ3hH6fdeBxxbA2), [YOOK SUNGJAE](https://open.spotify.com/artist/7mFGOWJEkdlJBCXcJ5EWi9) | [RETRO](https://open.spotify.com/album/4SeP6ESUtWAfAXNKJPqt8N) | 4:41 | 2022-05-11 | 2022-07-29 |

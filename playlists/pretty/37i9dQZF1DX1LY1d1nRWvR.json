@@ -1,12 +1,12 @@
 {
   "description": "Kick back  and soak up the warm and soothing tones of jazz and electronic.",
-  "num_followers": 30928,
+  "num_followers": 30962,
   "original_name": "lush",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmNmU1OGUyMjRiODEzZTE4ODI0YWYyNDI0M2NhYjYyY2RmMjU3ZmUy",
+  "snapshot_id": "MCwxZmY0ZDNkYzg5MGRmY2E3MTlhNWRhODQ1NzVjNzE4MmQ0NWFmMTlj",
   "tracks": [
     {
       "added_at": "2021-10-08 17:36:35",
@@ -663,22 +663,6 @@
     {
       "added_at": "2021-10-08 17:36:35",
       "album": {
-        "name": "Moodymann",
-        "url": "https://open.spotify.com/album/61sGO58ljdDgD4Mn6Bcj3P"
-      },
-      "artists": [
-        {
-          "name": "Moodymann",
-          "url": "https://open.spotify.com/artist/6pohviZSNRueSX7uNu63ZX"
-        }
-      ],
-      "duration_ms": 708706,
-      "name": "Sloppy Cosmic",
-      "url": "https://open.spotify.com/track/2E8EbnfOycV8BaUzbCsGqa"
-    },
-    {
-      "added_at": "2021-10-08 17:36:35",
-      "album": {
         "name": "Black Focus",
         "url": "https://open.spotify.com/album/7HH2nntfXgLHCwjy6Xee79"
       },
@@ -695,18 +679,18 @@
     {
       "added_at": "2021-10-08 17:36:35",
       "album": {
-        "name": "The Jerusalem EP's",
-        "url": "https://open.spotify.com/album/4C7ElGvtR8zpI19ixN8Y8G"
+        "name": "Moodymann",
+        "url": "https://open.spotify.com/album/61sGO58ljdDgD4Mn6Bcj3P"
       },
       "artists": [
         {
-          "name": "Glenn Underground",
-          "url": "https://open.spotify.com/artist/1ZdinLDX0e8r5dIlWLpmAc"
+          "name": "Moodymann",
+          "url": "https://open.spotify.com/artist/6pohviZSNRueSX7uNu63ZX"
         }
       ],
-      "duration_ms": 407893,
-      "name": "Servants Jaz House",
-      "url": "https://open.spotify.com/track/3fmlNzB27d8Y5GW9lum3aT"
+      "duration_ms": 708706,
+      "name": "Sloppy Cosmic",
+      "url": "https://open.spotify.com/track/2E8EbnfOycV8BaUzbCsGqa"
     },
     {
       "added_at": "2021-10-08 17:36:35",
@@ -723,6 +707,22 @@
       "duration_ms": 224500,
       "name": "A Place With A View - Edit",
       "url": "https://open.spotify.com/track/1IhvRUOUbCK3RAyj2zCgYM"
+    },
+    {
+      "added_at": "2021-10-08 17:36:35",
+      "album": {
+        "name": "The Jerusalem EP's",
+        "url": "https://open.spotify.com/album/4C7ElGvtR8zpI19ixN8Y8G"
+      },
+      "artists": [
+        {
+          "name": "Glenn Underground",
+          "url": "https://open.spotify.com/artist/1ZdinLDX0e8r5dIlWLpmAc"
+        }
+      ],
+      "duration_ms": 407893,
+      "name": "Servants Jaz House",
+      "url": "https://open.spotify.com/track/3fmlNzB27d8Y5GW9lum3aT"
     },
     {
       "added_at": "2021-10-08 17:36:35",
@@ -859,6 +859,22 @@
     {
       "added_at": "2021-10-08 17:36:35",
       "album": {
+        "name": "All My Troubles",
+        "url": "https://open.spotify.com/album/599n6aMLqgGci5iScyb4nN"
+      },
+      "artists": [
+        {
+          "name": "Demuja",
+          "url": "https://open.spotify.com/artist/1LfqhJiCiHfVzrBOVaBXc1"
+        }
+      ],
+      "duration_ms": 308000,
+      "name": "All My Troubles",
+      "url": "https://open.spotify.com/track/3m8ilb2QT4RgsPJSh2g6UZ"
+    },
+    {
+      "added_at": "2021-10-08 17:36:35",
+      "album": {
         "name": "New Tab",
         "url": "https://open.spotify.com/album/4sSEUm4dCycVP7EXTmd4SP"
       },
@@ -903,26 +919,6 @@
       "duration_ms": 409173,
       "name": "The Sapiens (Original Mix) [Mixed]",
       "url": "https://open.spotify.com/track/0g7DrfLCjrhogkP8cIAHm3"
-    },
-    {
-      "added_at": "2021-10-08 17:36:35",
-      "album": {
-        "name": "Follow You EP (feat. Floating Points)",
-        "url": "https://open.spotify.com/album/5dt7lQjyinjDt7y0a8tzmw"
-      },
-      "artists": [
-        {
-          "name": "Fatima",
-          "url": "https://open.spotify.com/artist/5uNCGgWH5Id1cW8kh9Sc67"
-        },
-        {
-          "name": "Floating Points",
-          "url": "https://open.spotify.com/artist/2AR42Ur9PcchQDtEdwkv4L"
-        }
-      ],
-      "duration_ms": 267520,
-      "name": "Mind",
-      "url": "https://open.spotify.com/track/5sfTya6OQoW2rDLKSVT2Qk"
     }
   ],
   "unique_name": "lush",

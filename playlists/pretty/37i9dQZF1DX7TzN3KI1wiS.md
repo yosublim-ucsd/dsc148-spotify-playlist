@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7TzN3KI1wiS.md) - [plain]
 
 > <a href="spotify:artist:34iHrE61AX1yx8uAqNOCyU">Cosmicat</a>'s favorite tracks\. Updated regularly\. Curated by Cosmicat\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,773 likes - 72 songs - 6 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,793 likes - 72 songs - 6 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7TzN3KI1wiS.md) - [plain]
 | 9 | [The Space In Between \- Ben Böhmer Remix](https://open.spotify.com/track/6QcU4iwfLjjsrW7zsqyc1D) | [Jan Blomqvist](https://open.spotify.com/artist/5wMlMjOLeJfS5DfxqGfm83), [Ben Böhmer](https://open.spotify.com/artist/5tDjiBYUsTqzd0RkTZxK7u) | [The Space In Between \(Ben Böhmer Remix\)](https://open.spotify.com/album/3ZUWJDZMPXc7e3UArYU357) | 4:13 |
 | 10 | [Skinny Cat Feat\. Forrest \- Original Mix](https://open.spotify.com/track/2tkxOb7MHFbZjHs0mZI0VS) | [Kaiserdisco](https://open.spotify.com/artist/2lPXenWgbh51R950CMdk6i), [Forrest](https://open.spotify.com/artist/1lQ4MIAHlKeAEKEJXfOZN3) | [Skinny Cat EP](https://open.spotify.com/album/4lLxXV5iDr2iUvjzK1bCHR) | 7:26 |
 | 11 | [Tell Me Are We](https://open.spotify.com/track/7q8xVdmpBJHNOA6pZq1Hhw) | [Rampa](https://open.spotify.com/artist/08jywfUS0hp8XYlYs0cvz8), [WhoMadeWho](https://open.spotify.com/artist/50Lr1puweM1hFsF1LpIZLM) | [They Will EP](https://open.spotify.com/album/0Q774PS7DkrMtDIAs27cWQ) | 6:53 |
-| 12 | [Around You \- OC & Verde Remix](https://open.spotify.com/track/2IF60kSZBtBpbfNjLHVNui) | [Eli & Fur](https://open.spotify.com/artist/5CkVLGKUJkIc1pmSk10QP4), [The Black 80s](https://open.spotify.com/artist/5cYxob4Dt5P2jCTKvZULxW), [OC & Verde](https://open.spotify.com/artist/6wdPgZR2SnhEJ6DJ8L37lc) | [Around You](https://open.spotify.com/album/1nxUMRWZAJJdh02imPEa6r) | 7:27 |
+| 12 | [Around You \(OC & Verde Remix\)](https://open.spotify.com/track/7ze837rnYknc1H2sp5SVBa) | [Eli & Fur](https://open.spotify.com/artist/5CkVLGKUJkIc1pmSk10QP4), [The Black 80s](https://open.spotify.com/artist/5cYxob4Dt5P2jCTKvZULxW), [OC & Verde](https://open.spotify.com/artist/6wdPgZR2SnhEJ6DJ8L37lc) | [Around You](https://open.spotify.com/album/4WXDzP3ghM5W5k3G6t9kCr) | 7:27 |
 | 13 | [Can You Feel](https://open.spotify.com/track/4YPs1fsVW9KKJoPxSdRe5V) | [Cosmicat](https://open.spotify.com/artist/34iHrE61AX1yx8uAqNOCyU) | [Can You Feel](https://open.spotify.com/album/1w5YChnFdQVK4bmKNQMFfh) | 3:40 |
 | 14 | [Complex Arguments](https://open.spotify.com/track/3ZggU826FUTTtULnRK8Jxh) | [DesertF!sh](https://open.spotify.com/artist/29X0HFICNL1YoQJmrWZwOL) | [Complex Arguments](https://open.spotify.com/album/6AGVrf6jDZ7SNhNE6TNDSZ) | 7:44 |
 | 15 | [Shoft Alhala \- Radio Edit](https://open.spotify.com/track/6nlJi5I96yMdToZZ7vfKdf) | [Vinyl Mode](https://open.spotify.com/artist/5Hk1jxKs1Qxg8uQY3SrAAv), [Moayad](https://open.spotify.com/artist/6DutMGme3677e88ZM0THXu) | [Shoft Alhala](https://open.spotify.com/album/2h0QwgH6vNBvECQEmTxeH8) | 3:46 |
@@ -81,4 +81,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7TzN3KI1wiS.md) - [plain]
 | 71 | [BREAK MY SOUL](https://open.spotify.com/track/5pyoxDZ1PX0KxBxiRVxA4U) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [RENAISSANCE](https://open.spotify.com/album/6FJxoadUE4JNVwWHghBwnb) | 4:38 |
 | 72 | [Breathe](https://open.spotify.com/track/6TR0FGw4zhlGbQALN065AI) | [CamelPhat](https://open.spotify.com/artist/240wlM8vDrf6S4zCyzGj2W), [Cristoph](https://open.spotify.com/artist/532SqCIYmJyXEdEiCJLgYG), [Jem Cooke](https://open.spotify.com/artist/0AkL5tzM3UsDlWak9E0OwH) | [Breathe](https://open.spotify.com/album/7c4A33WznTkdnqBEmLsWWF) | 3:14 |
 
-Snapshot ID: `MCw2ODUyOTg5ZmEzOGZkNDkwYjFkNWQ4MmM4MWNmMTIwMzBlNzNlNWMw`
+Snapshot ID: `MCw0MmRjY2VmOTZiMDk3NTdmYjRlZGM3NTBmNjYyZDIwMjI4N2YwMWE4`

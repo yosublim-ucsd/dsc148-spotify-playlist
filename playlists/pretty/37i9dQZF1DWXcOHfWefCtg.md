@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXcOHfWefCtg.md) - [plain]
 
 > Soulful takes on all your Holiday favorites\. Cover: James Brown
 
-[Spotify](https://open.spotify.com/user/spotify) - 62,674 likes - 60 songs - 3 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 62,673 likes - 60 songs - 3 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXcOHfWefCtg.md) - [plain]
 | 59 | [Santa's Got a Brand New Bag](https://open.spotify.com/track/3gyxI5fCcil5xNy5RL9DPo) | [Gary Walker](https://open.spotify.com/artist/1SiS31gWN3auJDxLU1CGCL), [The Boogie Kings](https://open.spotify.com/artist/02FT4qRWquTbmIJSSSp5c8) | [Louisiana Christmas](https://open.spotify.com/album/75mbpdrEZKAXVxvXPCkCjF) | 3:09 |
 | 60 | [Merry Christmas Baby](https://open.spotify.com/track/7ooQiumdRcTkymVcekm4U1) | [Vernon Garrett](https://open.spotify.com/artist/40QepulV493VVhpCsBL6Uu) | [Merry Christmas Baby](https://open.spotify.com/album/6cVHfWKMVcKKc3VChVI9C6) | 2:48 |
 
-Snapshot ID: `MCwwODY5MTA0YWVkNTRkNzdiMjM4MjUzY2ZiY2FmYmRmZjFmOWI0ZjU4`
+Snapshot ID: `MCw3MGM1ZGQ2OWM5YmE4ZGVlMmY5ZWQzMjRjZDUwZmM5ZjkwZjJjZTkz`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJnyndhASBe.md) - [plain]
 
 > Największe rapowe kawałki w tej chwili\. Cover: Mata
 
-[Spotify](https://open.spotify.com/user/spotify) - 486,728 likes - 50 songs - 2 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 486,867 likes - 50 songs - 2 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJnyndhASBe.md) - [plain]
 | 49 | [nóż motylkowy](https://open.spotify.com/track/2xCSrx8a1gZllp0jSFzsP2) | [Chivas](https://open.spotify.com/artist/1fZAAHNWdSM5gqbi9o5iEA), [White 2115](https://open.spotify.com/artist/4nPxrGG7k7aEKmNLsfX4cd) | [nóż motylkowy](https://open.spotify.com/album/2rAT9XqHZFhEWgLfQeN50j) | 2:54 |
 | 50 | [OSTATNIE DNI WAKACJI](https://open.spotify.com/track/3SfSjHnPaYIVxVIsVb7pZV) | [Qry](https://open.spotify.com/artist/3Mnrb43jb3hiASpyCvaZpy), [Przemek.pro](https://open.spotify.com/artist/0c5F4dAWCo7429DSHz0IhE), [Bartek Kubicki](https://open.spotify.com/artist/02Yk29Tllx7M1saf5PiAPo), [Trzech Króli](https://open.spotify.com/artist/12RbToPJopBHcXGKez6EDQ) | [OSTATNIE DNI WAKACJI](https://open.spotify.com/album/1Wp5YjQxj45NyE0swmTRQq) | 2:43 |
 
-Snapshot ID: `MCw1NWFkYTgxMWVmMzc5N2QzZWY2ZDIxMjQ4OTU4NWVhOWFiMTAyNWFj`
+Snapshot ID: `MCxhNjViMTRmNGIwYTY0MTdmMjU3MDgzYjlmNGFkNDFiMzI3MmU4NDM1`

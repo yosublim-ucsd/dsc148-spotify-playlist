@@ -4296,7 +4296,7 @@
       ],
       "date_added": "2023-10-14",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-16",
+      "date_removed": null,
       "duration_ms": 198806,
       "name": "Danser For Mig Selv",
       "url": "https://open.spotify.com/track/5hYKVNA29m8lOTLQOjKExN"
@@ -13180,7 +13180,7 @@
       ],
       "date_added": "2023-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-18",
       "duration_ms": 160217,
       "name": "Laid To Rest",
       "url": "https://open.spotify.com/track/60MTTx420mJYSCgNBF3qXH"
@@ -16980,6 +16980,24 @@
       "duration_ms": 214846,
       "name": "One Kiss (with Dua Lipa)",
       "url": "https://open.spotify.com/track/7ef4DlsgrMEH11cDZd32M6"
+    },
+    {
+      "album": {
+        "name": "Something To Give Each Other",
+        "url": "https://open.spotify.com/album/5UcGyEltve5psjxSRsHx8E"
+      },
+      "artists": [
+        {
+          "name": "Troye Sivan",
+          "url": "https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP"
+        }
+      ],
+      "date_added": "2023-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181481,
+      "name": "One Of Your Girls",
+      "url": "https://open.spotify.com/track/5Eh1nj7IjV9lwpcKAkidyY"
     },
     {
       "album": {
@@ -20888,7 +20906,7 @@
       ],
       "date_added": "2023-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-18",
       "duration_ms": 170681,
       "name": "Stempler i Passet",
       "url": "https://open.spotify.com/track/1uculYVPwNGKh6fv1iYnxR"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3xuDGW6ByRP.md) - [plain]
 
 > as novas de pop rock br / Foto: Lou Garcia
 
-[Spotify](https://open.spotify.com/user/spotify) - 41,632 likes - 80 songs - 3 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 41,692 likes - 80 songs - 3 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,13 +39,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3xuDGW6ByRP.md) - [plain]
 | 29 | [Still Alive \- From the Original Motion Picture Scream VI](https://open.spotify.com/track/4Gnbk3CFlF1Qt0nTiz693B) | [Demi Lovato](https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp) | [Still Alive \(From the Original Motion Picture Scream VI\)](https://open.spotify.com/album/50Zsh8ekKxgClUUKoVQe9q) | 3:05 |
 | 30 | [Keep It Tucked](https://open.spotify.com/track/7zr6ktZGXoKSLblWKG5B2x) | [ThxSoMch](https://open.spotify.com/artist/4MvZhE1iuzttcoyepkpfdF) | [Keep It Tucked](https://open.spotify.com/album/2MFy7yt1ss5IBTreQ4WzgY) | 2:53 |
 | 31 | [Anestesiado](https://open.spotify.com/track/148IPSNoDbIEVdfwIIsxHx) | [Bruno Gadiol](https://open.spotify.com/artist/0UlEgLbUMrAuiWGptQzCJ3) | [Anestesiado](https://open.spotify.com/album/4o3Aga2Oc5GbQNNE6dJySZ) | 2:54 |
-| 32 | [Direitos Autorais](https://open.spotify.com/track/5Q1eeOx96R2xG6ErEZLKeo) | [Isa Buzzi](https://open.spotify.com/artist/1upZO7ZfMNrTqqrjx4blBP) | [Direitos Autorais](https://open.spotify.com/album/3W3tNGlAHMISLuM6x8BbOa) | 2:28 |
+| 32 | [Vilã](https://open.spotify.com/track/6gHv2hEqyAgBvgnBr2DWs8) | [Isa Buzzi](https://open.spotify.com/artist/1upZO7ZfMNrTqqrjx4blBP) | [Vilã](https://open.spotify.com/album/2W6EWkkAkkmMxQyeePtMTE) | 2:28 |
 | 33 | [MÁSCARA \- AO VIVO](https://open.spotify.com/track/5pXQo3mH6JWxa3HXN4VwLX) | [Gloria Groove](https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw), [Pitty](https://open.spotify.com/artist/2dmQ0vMD3THLMcz7DsvfaT) | [LADY LESTE \(AO VIVO\)](https://open.spotify.com/album/3M76dR9f8pjvLVL31Xw28d) | 3:38 |
 | 34 | [curious/furious](https://open.spotify.com/track/27dTFzAAiUrJ2C2hxRcCd5) | [WILLOW](https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF) | [curious/furious](https://open.spotify.com/album/5hlxPdHRPznZIxBna01A9Z) | 3:04 |
 | 35 | [Caso Perdido](https://open.spotify.com/track/11syf5T1UaTLXwyc9qtbbo) | [Ananda](https://open.spotify.com/artist/2TqXAXuNUnnzzCTuAs5DX5) | [Caso Perdido](https://open.spotify.com/album/1Bh1BwozSOtx66aBUYSykv) | 3:19 |
 | 36 | [CINZEIRO](https://open.spotify.com/track/5NBf1xo9YYuG0zPZDQ1Yca) | [DAY LIMNS](https://open.spotify.com/artist/1x1qM3ZqHhJOn11m42svnc), [Froid](https://open.spotify.com/artist/45Yz90pqjzEdJzpEQg1eII) | [CINZEIRO](https://open.spotify.com/album/1PGgZ935Sqb7fKIZKyuMjQ) | 2:26 |
 | 37 | [o maior otário da cidade](https://open.spotify.com/track/7cxlbR75XRyHr9PbjqBfSc) | [TINN](https://open.spotify.com/artist/36I80iG1HUNzgtpM34yJlq) | [o maior otário da cidade](https://open.spotify.com/album/7rcO22U358g8jL6dGkIEuj) | 2:48 |
-| 38 | [Vilã](https://open.spotify.com/track/6gHv2hEqyAgBvgnBr2DWs8) | [Isa Buzzi](https://open.spotify.com/artist/1upZO7ZfMNrTqqrjx4blBP) | [Vilã](https://open.spotify.com/album/2W6EWkkAkkmMxQyeePtMTE) | 2:28 |
+| 38 | [Direitos Autorais](https://open.spotify.com/track/5Q1eeOx96R2xG6ErEZLKeo) | [Isa Buzzi](https://open.spotify.com/artist/1upZO7ZfMNrTqqrjx4blBP) | [Direitos Autorais](https://open.spotify.com/album/3W3tNGlAHMISLuM6x8BbOa) | 2:28 |
 | 39 | [Viciado em Mentir](https://open.spotify.com/track/6e2aPJbVJw9L8QDd421zNY) | [Ariah](https://open.spotify.com/artist/0lJcsdoL52xDTf1cGEwfD8) | [Viciado em Mentir](https://open.spotify.com/album/2TJ1ZwEFlLzhDPXmfCligh) | 2:25 |
 | 40 | [snow angels](https://open.spotify.com/track/4tyD9sivpD8NGM8KEEabAl) | [GAYLE](https://open.spotify.com/artist/2VSHKHBTiXWplO8lxcnUC9) | [a study of the human experience volume two](https://open.spotify.com/album/4k9Mz7WO4U1rx3JIRF3iFz) | 3:30 |
 | 41 | [Fiz 18](https://open.spotify.com/track/5n1AS1Oea32B0HyXrEGArz) | [Ananda](https://open.spotify.com/artist/2TqXAXuNUnnzzCTuAs5DX5) | [Fiz 18](https://open.spotify.com/album/3B803upCKgO5My70u4J7sK) | 3:14 |
@@ -80,13 +80,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3xuDGW6ByRP.md) - [plain]
 | 70 | [Castelo De Areia](https://open.spotify.com/track/3KqYVVEQL5g5bhIV1rr8vV) | [DAY LIMNS](https://open.spotify.com/artist/1x1qM3ZqHhJOn11m42svnc), [Bullet Bane](https://open.spotify.com/artist/78B9QufospnmmneH4UbHK0) | [Castelo De Areia](https://open.spotify.com/album/4cH0cWRb9RsTZWO7v7gu1S) | 2:56 |
 | 71 | [Coocoocrazy](https://open.spotify.com/track/4BliVo1uZWjMDu6iP1S4Gy) | [Karen Jonz](https://open.spotify.com/artist/2Pq5MMGyujBoU9C9Ax9n5C), [CSS](https://open.spotify.com/artist/2K13AVg3bFpHSxDM1vJ0qA) | [Coocoocrazy](https://open.spotify.com/album/3rRVEwcZU3BTbu2X7AmEPp) | 2:06 |
 | 72 | [Conto de Falhas](https://open.spotify.com/track/4zCTi9gNDEDkgpknH0cfCy) | [lalalaura](https://open.spotify.com/artist/0xzFVGq4LIQxHwcTkUZACD) | [Conto de Falhas](https://open.spotify.com/album/4MaY416cpeCv9hmnGBfVzl) | 2:36 |
-| 73 | [Grito](https://open.spotify.com/track/5haGoQ0rTaulltDB7Tw14C) | [Mayra](https://open.spotify.com/artist/3XSWVsSggcTo6Bv8pcDqnt) | [Grito](https://open.spotify.com/album/00HuLKm9ktQQO7vdoPYbmu) | 2:37 |
-| 74 | [Maria](https://open.spotify.com/track/7yEOFcyCeH9HYxC9EmJsIA) | [CHADY](https://open.spotify.com/artist/61cC0qxfveBuryvFL2y1l8) | [Maria](https://open.spotify.com/album/5w9jRpGEp94tsWJdmolcVF) | 2:41 |
+| 73 | [Maria](https://open.spotify.com/track/7yEOFcyCeH9HYxC9EmJsIA) | [CHADY](https://open.spotify.com/artist/61cC0qxfveBuryvFL2y1l8) | [Maria](https://open.spotify.com/album/5w9jRpGEp94tsWJdmolcVF) | 2:41 |
+| 74 | [Grito](https://open.spotify.com/track/5haGoQ0rTaulltDB7Tw14C) | [Mayra](https://open.spotify.com/artist/3XSWVsSggcTo6Bv8pcDqnt) | [Grito](https://open.spotify.com/album/00HuLKm9ktQQO7vdoPYbmu) | 2:37 |
 | 75 | [VAN GOGH DALTÔNICO](https://open.spotify.com/track/7EdThdy6efxJiYnpchEDLx) | [Edu4rd](https://open.spotify.com/artist/4QgUQWIl94bx29Hl3rBMui) | [VAN GOGH DALTÔNICO](https://open.spotify.com/album/1fzHOiM0bMDRYFEbMaPeXl) | 2:40 |
 | 76 | [Não Valemos + Nada](https://open.spotify.com/track/4QuNbNry81en6UZ24wiX0i) | [K o d a](https://open.spotify.com/artist/0d39uPZOBEBNEai4P6eKoC), [Kyu](https://open.spotify.com/artist/6n5UPx3F2aWUgQImMclIgE) | [Não Valemos + Nada](https://open.spotify.com/album/2PtDpSKpVXzAc5xK7F9kKE) | 2:38 |
 | 77 | [Mete o Pé](https://open.spotify.com/track/3Vl9ta4Cyr58nDn2XAJEjF) | [Marô](https://open.spotify.com/artist/7EFHe9IRYS8gKgtrGCV14u) | [Mete o Pé](https://open.spotify.com/album/1d9bZ6LXQ38biZ5U4ELM3n) | 2:22 |
-| 78 | [A Cura](https://open.spotify.com/track/4xawu6VJn17igipPIGayeU) | [Mayra](https://open.spotify.com/artist/3XSWVsSggcTo6Bv8pcDqnt) | [A Cura](https://open.spotify.com/album/2kpzLThPuJZYuZSLTX6w6c) | 3:27 |
-| 79 | [Talvez o Problema Seja Eu](https://open.spotify.com/track/5TsG8Dd14xcMcQ8Ze3U0t9) | [lalalaura](https://open.spotify.com/artist/0xzFVGq4LIQxHwcTkUZACD) | [Talvez o Problema Seja Eu](https://open.spotify.com/album/4Wx7IxNpv0caspljzbFMKL) | 2:35 |
+| 78 | [Talvez o Problema Seja Eu](https://open.spotify.com/track/5TsG8Dd14xcMcQ8Ze3U0t9) | [lalalaura](https://open.spotify.com/artist/0xzFVGq4LIQxHwcTkUZACD) | [Talvez o Problema Seja Eu](https://open.spotify.com/album/4Wx7IxNpv0caspljzbFMKL) | 2:35 |
+| 79 | [A Cura](https://open.spotify.com/track/4xawu6VJn17igipPIGayeU) | [Mayra](https://open.spotify.com/artist/3XSWVsSggcTo6Bv8pcDqnt) | [A Cura](https://open.spotify.com/album/2kpzLThPuJZYuZSLTX6w6c) | 3:27 |
 | 80 | [Modo Avião](https://open.spotify.com/track/4ySYEyfeDzgnWLosAGlLQ6) | [Mayra](https://open.spotify.com/artist/3XSWVsSggcTo6Bv8pcDqnt) | [Modo Avião](https://open.spotify.com/album/7wht9U41LSGB2ni7dR9mek) | 2:55 |
 
-Snapshot ID: `MCxjYWVhY2E0N2JkZDU3YzUxNDJiYTc3NDYzOTc0N2RlZDM1MzM1ZDFj`
+Snapshot ID: `MCxmMGMyMTE5YWUzNTAyNTViMWEzYzRjNTI4ZDhiNjA5YTFiMGRmYWMz`

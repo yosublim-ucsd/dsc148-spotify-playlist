@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUzcqvqvxPQA.md) - [plain]
 
 > Check out these inspired hits to keep your Summer fun and upbeat!
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,948 likes - 100 songs - 5 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,945 likes - 100 songs - 5 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,13 +59,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUzcqvqvxPQA.md) - [plain]
 | 49 | [i don't know if we can be friends](https://open.spotify.com/track/5ldNf0PbjXkxadKws2Rgkt) | [Hollyn](https://open.spotify.com/artist/2E6Nnh7AAOVajEHHRDALav) | [bye, sad girl.](https://open.spotify.com/album/2Lr9QDoRTlW8CKp4q3A6JJ) | 3:01 |
 | 50 | [Who Says?](https://open.spotify.com/track/5Uo7sAqSplr4OebYQmmkM7) | [Joshua Micah](https://open.spotify.com/artist/6pLDSW3de0uRB6cP30krKv) | [Who Says?](https://open.spotify.com/album/60mgib427tgTcQiBP5na0y) | 4:06 |
 | 51 | [Just Want You](https://open.spotify.com/track/0jm6UoOxeX1rtYKLrG7pnj) | [Sarah Reeves](https://open.spotify.com/artist/2vGA5qCDLZGW6exRQgKfLL) | [Easy Never Needed You](https://open.spotify.com/album/0osacoD5uOk9ogjVxHbjUF) | 4:32 |
-| 52 | [Fearless \- Live](https://open.spotify.com/track/5rp9r3rFr45bPTsgi18tQB) | [Jesus Culture](https://open.spotify.com/artist/0Onvkz1Nbs4wHXXUwOIGk8), [Kim Walker\-Smith](https://open.spotify.com/artist/4leTWyczsXYGlzUh8sFGSz) | [Fearless / Fill Up The Sky \(Live\)](https://open.spotify.com/album/0FJOaqUeh18LeJMqFx9k1A) | 4:40 |
-| 53 | [Let It Be Love](https://open.spotify.com/track/0BMFvzRTxSgh4qkskMJqYV) | [The Color](https://open.spotify.com/artist/5Zrsjw80yCENGwI7YJaT4d) | [Let It Be Love](https://open.spotify.com/album/2WaFXJRZ9X7rjbfqwBss5t) | 2:57 |
+| 52 | [Let It Be Love](https://open.spotify.com/track/0BMFvzRTxSgh4qkskMJqYV) | [The Color](https://open.spotify.com/artist/5Zrsjw80yCENGwI7YJaT4d) | [Let It Be Love](https://open.spotify.com/album/2WaFXJRZ9X7rjbfqwBss5t) | 2:57 |
+| 53 | [Fearless \- Live](https://open.spotify.com/track/5rp9r3rFr45bPTsgi18tQB) | [Jesus Culture](https://open.spotify.com/artist/0Onvkz1Nbs4wHXXUwOIGk8), [Kim Walker\-Smith](https://open.spotify.com/artist/4leTWyczsXYGlzUh8sFGSz) | [Fearless / Fill Up The Sky \(Live\)](https://open.spotify.com/album/0FJOaqUeh18LeJMqFx9k1A) | 4:40 |
 | 54 | [Anchor](https://open.spotify.com/track/2gCATN5nBgcwOGG2BE19u7) | [Hulvey](https://open.spotify.com/artist/3zSrc5vUlUxyDdS0KrxFJO) | [BRKNHRT.](https://open.spotify.com/album/53rq2pHU4MZCWYKGfbLola) | 3:33 |
 | 55 | [WaveWalker](https://open.spotify.com/track/1y0Fq8z3sVmQ9bHbT3r5Zy) | [Citizen Way](https://open.spotify.com/artist/7o9BrJpGzDJxWSGpAViJu4), [Bart Millard](https://open.spotify.com/artist/6l0FgdMZNMgMjph2DdwKP9) | [WaveWalker](https://open.spotify.com/album/6CViRKQjb2VqUGnNCWo9X1) | 3:13 |
 | 56 | [Till I Found You](https://open.spotify.com/track/1var9mNP1RLTlu8qVDji0F) | [Phil Wickham](https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu) | [Till I Found You](https://open.spotify.com/album/5i8yKKrI71gqHdXxYafYAo) | 4:00 |
-| 57 | [Inside Out](https://open.spotify.com/track/3hZBRLzeM0u4YKQ9mj7fy7) | [Bonray](https://open.spotify.com/artist/0FR1DkepvHaDMQnmJF4fVg) | [Inside Out](https://open.spotify.com/album/2hgLM7tz6g8wNk3I5SPj8U) | 3:13 |
-| 58 | [THIS MOMENT](https://open.spotify.com/track/1uEUj9f1Rv6Bk420cg0AMS) | [ELEVATION RHYTHM](https://open.spotify.com/artist/0qZ8aSF0iMCQI99AAXikF8) | [THIS MOMENT](https://open.spotify.com/album/5VXM9tBUk5oboBP6yCJAx9) | 2:56 |
+| 57 | [THIS MOMENT](https://open.spotify.com/track/1uEUj9f1Rv6Bk420cg0AMS) | [ELEVATION RHYTHM](https://open.spotify.com/artist/0qZ8aSF0iMCQI99AAXikF8) | [THIS MOMENT](https://open.spotify.com/album/5VXM9tBUk5oboBP6yCJAx9) | 2:56 |
+| 58 | [Inside Out](https://open.spotify.com/track/3hZBRLzeM0u4YKQ9mj7fy7) | [Bonray](https://open.spotify.com/artist/0FR1DkepvHaDMQnmJF4fVg) | [Inside Out](https://open.spotify.com/album/2hgLM7tz6g8wNk3I5SPj8U) | 3:13 |
 | 59 | [Love](https://open.spotify.com/track/2peHyuWwcc2Jtg6h9Xomu1) | [We Are Messengers](https://open.spotify.com/artist/5WcisvYoq6332gCUX039Jd) | [Love / Home](https://open.spotify.com/album/6FN2OXacVXH97RLonyWVrl) | 2:57 |
 | 60 | [Follow Me](https://open.spotify.com/track/6O8Q77DLdXZTdciVeU2Aak) | [Shonlock](https://open.spotify.com/artist/0Fs18mA7TFMvYVRNX4dNTt) | [Follow Me](https://open.spotify.com/album/46jicEgCHc3Zxh4TKaRuCN) | 3:48 |
 | 61 | [Never Far \(House Church\)](https://open.spotify.com/track/5Z72BdPMGtQ6TGKxKO4Lwa) | [Local Sound](https://open.spotify.com/artist/2cXyPSMdJcGw3t9yNhwTN2) | [Never Far \(House Church\)](https://open.spotify.com/album/51FsVOFCZmAwrRvvQl3H72) | 3:51 |
@@ -104,9 +104,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUzcqvqvxPQA.md) - [plain]
 | 94 | [Light of Your Grace](https://open.spotify.com/track/0VjZsR8TQBaUn9f4tND4J6) | [Citizens](https://open.spotify.com/artist/3e7KVnSiZjsBkReSv0L6db) | [Light of Your Grace](https://open.spotify.com/album/5sxF80CaSq5Y2buTMXx3eD) | 3:09 |
 | 95 | [HAPPY](https://open.spotify.com/track/1bJk8jsglnHtLvUMrOV6qR) | [Wande](https://open.spotify.com/artist/0GdzQJqgRL5SHp7kXOKba0) | [HAPPY](https://open.spotify.com/album/0kjySvgUUcHW64OxmHPSWj) | 2:04 |
 | 96 | [Paid For It](https://open.spotify.com/track/012SkEI8fzg3pKAKNygn5c) | [Ty Brasel](https://open.spotify.com/artist/419NjKezGEJOVPtiymCp2p), [Jay\-Way](https://open.spotify.com/artist/1RDbE3dM2bNNSTh88R4MQ7), [Brianna Catrice](https://open.spotify.com/artist/2zT458SceFHdoOiokYSleQ) | [The Divine Storm](https://open.spotify.com/album/5FviCI60k4C6DI0bxFqfDe) | 3:01 |
-| 97 | [City Lights \(feat\. Mitch Wong\)](https://open.spotify.com/track/7I88hIH03Z3px9khXQZDob) | [Neon Feather](https://open.spotify.com/artist/2gKOyAK7jvza3CP58EcLKD), [Mitch Wong](https://open.spotify.com/artist/0NmuD3IXcEGYAEX5hZxu39) | [City Lights \(feat\. Mitch Wong\)](https://open.spotify.com/album/1L1lD9JwiIAK06qIG6DSI9) | 3:58 |
-| 98 | [The One](https://open.spotify.com/track/0YohiWDcWliS7bDrnjlXHp) | [Sajan Nauriyal](https://open.spotify.com/artist/2gJudBgAFdkmKegrBl0yT6), [Licy\-Be](https://open.spotify.com/artist/7m7GQd520oNXZWZzcYDdVA) | [The One](https://open.spotify.com/album/0gj39YFZRHyyle5Z19z5bx) | 2:44 |
+| 97 | [The One](https://open.spotify.com/track/0YohiWDcWliS7bDrnjlXHp) | [Sajan Nauriyal](https://open.spotify.com/artist/2gJudBgAFdkmKegrBl0yT6), [Licy\-Be](https://open.spotify.com/artist/7m7GQd520oNXZWZzcYDdVA) | [The One](https://open.spotify.com/album/0gj39YFZRHyyle5Z19z5bx) | 2:44 |
+| 98 | [City Lights \(feat\. Mitch Wong\)](https://open.spotify.com/track/7I88hIH03Z3px9khXQZDob) | [Neon Feather](https://open.spotify.com/artist/2gKOyAK7jvza3CP58EcLKD), [Mitch Wong](https://open.spotify.com/artist/0NmuD3IXcEGYAEX5hZxu39) | [City Lights \(feat\. Mitch Wong\)](https://open.spotify.com/album/1L1lD9JwiIAK06qIG6DSI9) | 3:58 |
 | 99 | [Give It All](https://open.spotify.com/track/1jeTXQnC2f5rpY4T01MrYa) | [Blanca](https://open.spotify.com/artist/0GMSpOzEVXA4kboHiyvddO), [Redimi2](https://open.spotify.com/artist/0WZOmdnCln6FK6GM9e2tGm) | [Shattered](https://open.spotify.com/album/5rrpgUyAmIR68i3pSv5Uhm) | 3:04 |
 | 100 | [Whatever It Takes](https://open.spotify.com/track/7dZSnaAGuBSgi69OWCTQcL) | [Manwell](https://open.spotify.com/artist/3HWMxHfbtrP3H39BnsquW8), [Sarah Reeves](https://open.spotify.com/artist/2vGA5qCDLZGW6exRQgKfLL) | [Whatever It Takes](https://open.spotify.com/album/6zSIkly50OdBZGydPYA9JR) | 3:29 |
 
-Snapshot ID: `MCwxNzYxMDQ2MzllNDZlM2M1MTNmNGRiNmZhNDIzOTgwODQ0ODdiYWU4`
+Snapshot ID: `MCwwNGIyYzFmZWY3ZTg5Njg2MThhZWFlMmE2ZWUxOTkwM2ZkMGFiMjgw`

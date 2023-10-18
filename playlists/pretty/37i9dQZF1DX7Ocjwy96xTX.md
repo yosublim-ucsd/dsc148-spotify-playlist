@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7Ocjwy96xTX.md) - [plain]
 
 > dark & dreamy for night creatures
 
-[Spotify](https://open.spotify.com/user/spotify) - 185,932 likes - 59 songs - 3 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 186,494 likes - 59 songs - 3 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -68,4 +68,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7Ocjwy96xTX.md) - [plain]
 | 58 | [Lithium](https://open.spotify.com/track/3ofiQMPt5OZZTzzsCewZBU) | [Labyrinth Ear](https://open.spotify.com/artist/51kDu9CfyGBpcgMwy8MlEd) | [Oak](https://open.spotify.com/album/6qNK3qCiPEzjpVBtYaDfSr) | 3:27 |
 | 59 | [Clouds](https://open.spotify.com/track/5fr0ocIee7TpDCRWaK0002) | [Pastel Ghost](https://open.spotify.com/artist/06O23tLg0or676h8EEzH7W) | [Abyss](https://open.spotify.com/album/0RItfbXPf5eDzwdsgK9rKV) | 4:07 |
 
-Snapshot ID: `MCwxMDg1MjkzMTQwMWI4NDBmYzU3MjBlZTQ1MjZmNGMyZWZhYWZkMjQ4`
+Snapshot ID: `MCw1NjAwN2Y3YWUwMDVhNWU1NDNlYjQwMTM4NmYxYmFlY2NlZGVhY2Y3`

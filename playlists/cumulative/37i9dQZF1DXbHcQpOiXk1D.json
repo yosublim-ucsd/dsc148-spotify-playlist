@@ -404,6 +404,24 @@
     {
       "album": {
         "name": "Could We Be More",
+        "url": "https://open.spotify.com/album/48e8LFqiVUxumlXDIVyNYl"
+      },
+      "artists": [
+        {
+          "name": "Kokoroko",
+          "url": "https://open.spotify.com/artist/3u9rbdcmA6CxjxOAkjaeFr"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 298533,
+      "name": "Age Of Ascent",
+      "url": "https://open.spotify.com/track/5BOkALb3jw3m6SONNtBYRR"
+    },
+    {
+      "album": {
+        "name": "Could We Be More",
         "url": "https://open.spotify.com/album/5pJXka0Joj77KqooPlQwFu"
       },
       "artists": [
@@ -414,7 +432,7 @@
       ],
       "date_added": "2023-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-18",
       "duration_ms": 298533,
       "name": "Age Of Ascent",
       "url": "https://open.spotify.com/track/73sqtnhstOOj2fiqVGCA4X"
@@ -4024,7 +4042,7 @@
       ],
       "date_added": "2023-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-18",
       "duration_ms": 214062,
       "name": "ina crueler",
       "url": "https://open.spotify.com/track/435lsRWOBWySRYcJ03DX4X"
@@ -8988,7 +9006,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-18",
       "duration_ms": 172732,
       "name": "Too Much",
       "url": "https://open.spotify.com/track/74lXEOR1jwNlqIRGXdcIn7"
@@ -9297,6 +9315,24 @@
     },
     {
       "album": {
+        "name": "Could We Be More",
+        "url": "https://open.spotify.com/album/48e8LFqiVUxumlXDIVyNYl"
+      },
+      "artists": [
+        {
+          "name": "Kokoroko",
+          "url": "https://open.spotify.com/artist/3u9rbdcmA6CxjxOAkjaeFr"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 338506,
+      "name": "War Dance",
+      "url": "https://open.spotify.com/track/56CKIlaRH80QcLHEuU1tUE"
+    },
+    {
+      "album": {
         "name": "Monument",
         "url": "https://open.spotify.com/album/5Q45lNUhaH40wPqhUgjJNC"
       },
@@ -9388,6 +9424,24 @@
       "duration_ms": 220853,
       "name": "We Give Thanks",
       "url": "https://open.spotify.com/track/1jcd0ZDms179eAAohF6IVz"
+    },
+    {
+      "album": {
+        "name": "Could We Be More",
+        "url": "https://open.spotify.com/album/48e8LFqiVUxumlXDIVyNYl"
+      },
+      "artists": [
+        {
+          "name": "Kokoroko",
+          "url": "https://open.spotify.com/artist/3u9rbdcmA6CxjxOAkjaeFr"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220853,
+      "name": "We Give Thanks",
+      "url": "https://open.spotify.com/track/1whO1RzuS19yG358T4d8G6"
     },
     {
       "album": {

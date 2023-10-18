@@ -146,10 +146,28 @@
       ],
       "date_added": "2023-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-18",
       "duration_ms": 392808,
       "name": "Burning in Birmingham",
       "url": "https://open.spotify.com/track/0IAXIvpoVgk4QWxZ3iazyr"
+    },
+    {
+      "album": {
+        "name": "Something Melancholy",
+        "url": "https://open.spotify.com/album/5vjsx7xcvF3WA7UbNZRPqK"
+      },
+      "artists": [
+        {
+          "name": "AMYRA",
+          "url": "https://open.spotify.com/artist/6xIk8My2lEjdywaDBeN5qC"
+        }
+      ],
+      "date_added": "2023-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 392808,
+      "name": "Burning in Birmingham",
+      "url": "https://open.spotify.com/track/4SAGhPbeUoYH2w2BP85AK2"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYMroOc5KTTh.md) - [plain]
 
 > 100% good vibes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 441,452 likes - 50 songs - 3 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 441,712 likes - 50 songs - 3 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYMroOc5KTTh.md) - [plain]
 | 49 | [Diana \(You Don't Even Know\)](https://open.spotify.com/track/2j8aMIzFC5QhzyMOx7Sbj6) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe) | [Diana \(You Don't Even Know\)](https://open.spotify.com/album/2FR8tMHuRmAqxrZChfSyZI) | 3:24 |
 | 50 | [Something About Your Love](https://open.spotify.com/track/7cujJQPxdHeDz5mKLmv0bu) | [SG Lewis](https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG) | [Missing You / Something About Your Love](https://open.spotify.com/album/0p5utqJGqhCnRCk2gMGHUA) | 5:23 |
 
-Snapshot ID: `MCwzYTNiZjVhZDU4MjM3NDE4MGUxYTRiYjU2MTRiY2ZmY2UxMTA2NWRj`
+Snapshot ID: `MCxhNTEyMWJiMDI4NDI3OWU2YTM2MzVlNDU3NTE3NzIzMTExYWM0M2M1`

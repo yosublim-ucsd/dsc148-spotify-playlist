@@ -2,7 +2,7 @@
 
 ### [Disney Hits Latino](https://open.spotify.com/playlist/37i9dQZF1DX6ygqbbD1pKk)
 
-> Todos tus éxitos favoritos de Disney, incluyendo canciones de La Sirenita, Encanto, Moana, Frozen y Enredados
+> Todos tus éxitos favoritos de Disney.
 
 99 songs - 5 hr 7 min
 

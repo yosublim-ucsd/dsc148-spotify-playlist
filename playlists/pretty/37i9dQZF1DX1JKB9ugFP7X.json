@@ -1,12 +1,12 @@
 {
   "description": "Escucha lo mejor del pop electr\u00f3nico en espa\u00f1ol.",
-  "num_followers": 23606,
+  "num_followers": 23608,
   "original_name": "ElectroPop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1YjM3ZTAyNmY3MjE5ZDM0ZGQ3YWUwNmY4YjljYTM2YmViODJhYzRm",
+  "snapshot_id": "MCwyZDEyYmRjMGZhNjRkZGU3MTI3NWJlOTIzMjA4YjZhMjBiODM2ZDdi",
   "tracks": [
     {
       "added_at": "2023-09-08 03:00:00",
@@ -431,22 +431,6 @@
     {
       "added_at": "2023-09-08 03:00:00",
       "album": {
-        "name": "MOTIVEISHON",
-        "url": "https://open.spotify.com/album/0g59CBu6GWWJO8QGWS2uhD"
-      },
-      "artists": [
-        {
-          "name": "Lali",
-          "url": "https://open.spotify.com/artist/22P1OY4TRFRwhP0q29loQ8"
-        }
-      ],
-      "duration_ms": 158035,
-      "name": "MOTIVEISHON",
-      "url": "https://open.spotify.com/track/35bxOftuO0ljnk35fJCbCY"
-    },
-    {
-      "added_at": "2023-09-08 03:00:00",
-      "album": {
         "name": "CHROME",
         "url": "https://open.spotify.com/album/4bZaL9GsAnNFPJ1y10JIbG"
       },
@@ -467,6 +451,22 @@
       "duration_ms": 160149,
       "name": "CHROME",
       "url": "https://open.spotify.com/track/3ufGWBFuPdZ2ckUF7hLIL8"
+    },
+    {
+      "added_at": "2023-09-08 03:00:00",
+      "album": {
+        "name": "MOTIVEISHON",
+        "url": "https://open.spotify.com/album/0g59CBu6GWWJO8QGWS2uhD"
+      },
+      "artists": [
+        {
+          "name": "Lali",
+          "url": "https://open.spotify.com/artist/22P1OY4TRFRwhP0q29loQ8"
+        }
+      ],
+      "duration_ms": 158035,
+      "name": "MOTIVEISHON",
+      "url": "https://open.spotify.com/track/35bxOftuO0ljnk35fJCbCY"
     },
     {
       "added_at": "2023-09-08 03:00:00",
@@ -635,6 +635,22 @@
     {
       "added_at": "2023-09-08 03:00:00",
       "album": {
+        "name": "MAL NECESARIO",
+        "url": "https://open.spotify.com/album/2N7E8e5LmRFUv7yRnYazyB"
+      },
+      "artists": [
+        {
+          "name": "Anto Segovia",
+          "url": "https://open.spotify.com/artist/3ZDlV4860jpcqhmIincWHF"
+        }
+      ],
+      "duration_ms": 174826,
+      "name": "MAL NECESARIO",
+      "url": "https://open.spotify.com/track/55M73tEx2Db51y2hXvkaY9"
+    },
+    {
+      "added_at": "2023-09-08 03:00:00",
+      "album": {
         "name": "Qui\u00e9n Me Escucha",
         "url": "https://open.spotify.com/album/0ZFJQ8aL8E9kxKapcZSN2V"
       },
@@ -655,22 +671,6 @@
       "duration_ms": 198149,
       "name": "Qui\u00e9n Me Escucha",
       "url": "https://open.spotify.com/track/19e0zVRwZdpid0bGdYXxGi"
-    },
-    {
-      "added_at": "2023-09-08 03:00:00",
-      "album": {
-        "name": "MAL NECESARIO",
-        "url": "https://open.spotify.com/album/2N7E8e5LmRFUv7yRnYazyB"
-      },
-      "artists": [
-        {
-          "name": "Anto Segovia",
-          "url": "https://open.spotify.com/artist/3ZDlV4860jpcqhmIincWHF"
-        }
-      ],
-      "duration_ms": 174826,
-      "name": "MAL NECESARIO",
-      "url": "https://open.spotify.com/track/55M73tEx2Db51y2hXvkaY9"
     },
     {
       "added_at": "2023-09-08 03:00:00",
@@ -1347,22 +1347,6 @@
     {
       "added_at": "2023-09-08 03:00:00",
       "album": {
-        "name": "Cu\u00e1nto Falta",
-        "url": "https://open.spotify.com/album/1R7xH7A6kvLXbm3tLktAiD"
-      },
-      "artists": [
-        {
-          "name": "Ziberia",
-          "url": "https://open.spotify.com/artist/3QF7pmiRCZmlvnTzFtCuDH"
-        }
-      ],
-      "duration_ms": 240050,
-      "name": "Cu\u00e1nto Falta",
-      "url": "https://open.spotify.com/track/0ewr3hASTWqJK6hSpKWRdj"
-    },
-    {
-      "added_at": "2023-09-08 03:00:00",
-      "album": {
         "name": "Luc\u00eda",
         "url": "https://open.spotify.com/album/4Ni2gs4GGSo6NmJjvKL0NH"
       },
@@ -1375,6 +1359,22 @@
       "duration_ms": 289333,
       "name": "Luc\u00eda",
       "url": "https://open.spotify.com/track/2IKC7XhiH7ZVVESFYmW1Ru"
+    },
+    {
+      "added_at": "2023-09-08 03:00:00",
+      "album": {
+        "name": "Cu\u00e1nto Falta",
+        "url": "https://open.spotify.com/album/1R7xH7A6kvLXbm3tLktAiD"
+      },
+      "artists": [
+        {
+          "name": "Ziberia",
+          "url": "https://open.spotify.com/artist/3QF7pmiRCZmlvnTzFtCuDH"
+        }
+      ],
+      "duration_ms": 240050,
+      "name": "Cu\u00e1nto Falta",
+      "url": "https://open.spotify.com/track/0ewr3hASTWqJK6hSpKWRdj"
     },
     {
       "added_at": "2023-09-08 03:00:00",
@@ -1451,22 +1451,6 @@
     {
       "added_at": "2023-09-08 03:00:00",
       "album": {
-        "name": "Peces Raros (Vivo Buenos Aires)",
-        "url": "https://open.spotify.com/album/4JeBmwhPxwCmyT7nCjO5yZ"
-      },
-      "artists": [
-        {
-          "name": "Peces Raros",
-          "url": "https://open.spotify.com/artist/5UI7HXsBEfRSsf0T4t48Q9"
-        }
-      ],
-      "duration_ms": 310890,
-      "name": "Sombras en la Pared - Vivo Buenos Aires",
-      "url": "https://open.spotify.com/track/22y9nKZDxQu7tgPwkeHPqW"
-    },
-    {
-      "added_at": "2023-09-08 03:00:00",
-      "album": {
         "name": "Delight",
         "url": "https://open.spotify.com/album/1DNqh53UJJWkRg5Tk9ysWc"
       },
@@ -1483,22 +1467,18 @@
     {
       "added_at": "2023-09-08 03:00:00",
       "album": {
-        "name": "Alta Magia (Reversi\u00f3n 10 a\u00f1os)",
-        "url": "https://open.spotify.com/album/1a8CMgCRNBYvJCLogVuMVl"
+        "name": "Peces Raros (Vivo Buenos Aires)",
+        "url": "https://open.spotify.com/album/4JeBmwhPxwCmyT7nCjO5yZ"
       },
       "artists": [
         {
-          "name": "Rumbo Tumba",
-          "url": "https://open.spotify.com/artist/7rure1hFRz36lJv4LSTXxH"
-        },
-        {
-          "name": "Barrio Lindo",
-          "url": "https://open.spotify.com/artist/6AHDMBhI1OTokvO5DkBB9p"
+          "name": "Peces Raros",
+          "url": "https://open.spotify.com/artist/5UI7HXsBEfRSsf0T4t48Q9"
         }
       ],
-      "duration_ms": 357200,
-      "name": "Alta Magia - Reversi\u00f3n 10 a\u00f1os",
-      "url": "https://open.spotify.com/track/5i7zmthWP0dImjaFZvzHDj"
+      "duration_ms": 310890,
+      "name": "Sombras en la Pared - Vivo Buenos Aires",
+      "url": "https://open.spotify.com/track/22y9nKZDxQu7tgPwkeHPqW"
     },
     {
       "added_at": "2023-09-08 03:00:00",
@@ -1519,6 +1499,26 @@
       "duration_ms": 225173,
       "name": "Flaps",
       "url": "https://open.spotify.com/track/1KulHWqJTFq3tKAXJxDASc"
+    },
+    {
+      "added_at": "2023-09-08 03:00:00",
+      "album": {
+        "name": "Alta Magia (Reversi\u00f3n 10 a\u00f1os)",
+        "url": "https://open.spotify.com/album/1a8CMgCRNBYvJCLogVuMVl"
+      },
+      "artists": [
+        {
+          "name": "Rumbo Tumba",
+          "url": "https://open.spotify.com/artist/7rure1hFRz36lJv4LSTXxH"
+        },
+        {
+          "name": "Barrio Lindo",
+          "url": "https://open.spotify.com/artist/6AHDMBhI1OTokvO5DkBB9p"
+        }
+      ],
+      "duration_ms": 357200,
+      "name": "Alta Magia - Reversi\u00f3n 10 a\u00f1os",
+      "url": "https://open.spotify.com/track/5i7zmthWP0dImjaFZvzHDj"
     },
     {
       "added_at": "2023-09-08 03:00:00",
@@ -1571,6 +1571,22 @@
       "duration_ms": 347000,
       "name": "Dejarte de Querer - Nico Castro Remix",
       "url": "https://open.spotify.com/track/6PXKYJVbtpfZuOTmiIgJC2"
+    },
+    {
+      "added_at": "2023-09-08 03:00:00",
+      "album": {
+        "name": "Compa\u00f1era",
+        "url": "https://open.spotify.com/album/4CiDkn8I1gRm8VQmffzhW4"
+      },
+      "artists": [
+        {
+          "name": "Fonosida",
+          "url": "https://open.spotify.com/artist/6HXJR7OM92v2ncgjL8gVkX"
+        }
+      ],
+      "duration_ms": 273337,
+      "name": "Compa\u00f1erx",
+      "url": "https://open.spotify.com/track/1fzGUsPb2RAXOZDHzKXN5Q"
     },
     {
       "added_at": "2023-09-08 03:00:00",
@@ -1635,18 +1651,22 @@
     {
       "added_at": "2023-09-08 03:00:00",
       "album": {
-        "name": "Compa\u00f1era",
-        "url": "https://open.spotify.com/album/4CiDkn8I1gRm8VQmffzhW4"
+        "name": "Todas las Luces (Remix)",
+        "url": "https://open.spotify.com/album/5Fr5IOMBv1NOgi1WNyr5J0"
       },
       "artists": [
         {
-          "name": "Fonosida",
-          "url": "https://open.spotify.com/artist/6HXJR7OM92v2ncgjL8gVkX"
+          "name": "Nadar de Noche",
+          "url": "https://open.spotify.com/artist/4XnY6XFP4XOowCR7184get"
+        },
+        {
+          "name": "Disonar",
+          "url": "https://open.spotify.com/artist/5l1T9yWFAtznVgMMwhdnXM"
         }
       ],
-      "duration_ms": 273337,
-      "name": "Compa\u00f1erx",
-      "url": "https://open.spotify.com/track/1fzGUsPb2RAXOZDHzKXN5Q"
+      "duration_ms": 220000,
+      "name": "Todas las Luces - Remix",
+      "url": "https://open.spotify.com/track/0qAKOBaiohXNTHgQU6NfvR"
     },
     {
       "added_at": "2023-09-08 03:00:00",
@@ -1675,26 +1695,6 @@
     {
       "added_at": "2023-09-08 03:00:00",
       "album": {
-        "name": "Todas las Luces (Remix)",
-        "url": "https://open.spotify.com/album/5Fr5IOMBv1NOgi1WNyr5J0"
-      },
-      "artists": [
-        {
-          "name": "Nadar de Noche",
-          "url": "https://open.spotify.com/artist/4XnY6XFP4XOowCR7184get"
-        },
-        {
-          "name": "Disonar",
-          "url": "https://open.spotify.com/artist/5l1T9yWFAtznVgMMwhdnXM"
-        }
-      ],
-      "duration_ms": 220000,
-      "name": "Todas las Luces - Remix",
-      "url": "https://open.spotify.com/track/0qAKOBaiohXNTHgQU6NfvR"
-    },
-    {
-      "added_at": "2023-09-08 03:00:00",
-      "album": {
         "name": "Nft",
         "url": "https://open.spotify.com/album/6K8hkoBWggnzNWvkbRdxim"
       },
@@ -1711,22 +1711,6 @@
       "duration_ms": 221711,
       "name": "Nft",
       "url": "https://open.spotify.com/track/3PPacFl0rmIS8P2eUtigwo"
-    },
-    {
-      "added_at": "2023-09-08 03:00:00",
-      "album": {
-        "name": "Bum (Chocamos un Auto)",
-        "url": "https://open.spotify.com/album/5Ue6SRM0qUS7IbcftUxhT6"
-      },
-      "artists": [
-        {
-          "name": "Laika Perra Rusa",
-          "url": "https://open.spotify.com/artist/1ENwhswPVedRKPgabgGxsb"
-        }
-      ],
-      "duration_ms": 226250,
-      "name": "Bum (Chocamos un Auto)",
-      "url": "https://open.spotify.com/track/0qQ4psSUWzjDeifzNIVMmv"
     },
     {
       "added_at": "2023-09-08 03:00:00",
@@ -1751,6 +1735,22 @@
       "duration_ms": 205238,
       "name": "Entender la luz",
       "url": "https://open.spotify.com/track/6BF2d8f9xm8ws6orycS1cZ"
+    },
+    {
+      "added_at": "2023-09-08 03:00:00",
+      "album": {
+        "name": "Bum (Chocamos un Auto)",
+        "url": "https://open.spotify.com/album/5Ue6SRM0qUS7IbcftUxhT6"
+      },
+      "artists": [
+        {
+          "name": "Laika Perra Rusa",
+          "url": "https://open.spotify.com/artist/1ENwhswPVedRKPgabgGxsb"
+        }
+      ],
+      "duration_ms": 226250,
+      "name": "Bum (Chocamos un Auto)",
+      "url": "https://open.spotify.com/track/0qQ4psSUWzjDeifzNIVMmv"
     }
   ],
   "unique_name": "ElectroPop",

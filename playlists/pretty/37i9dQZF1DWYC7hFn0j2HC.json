@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Lo mejor de los charros cantores! Vicente Fern\u00e1ndez en portada.",
-  "num_followers": 186965,
+  "num_followers": 187091,
   "original_name": "Charros de Oro",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5NjBlZmNmZjEwMGM0NjNlZTk4MDNlZjQzYTJiYjhjZDI4ZGMyMTFi",
+  "snapshot_id": "MCxhNzRmODkzMTUxMjEyODAyZTg2ZTE1NjA0MDNiZTM2MWM3YzNmOTkx",
   "tracks": [
     {
       "added_at": "2022-01-25 23:38:31",
@@ -559,8 +559,8 @@
     {
       "added_at": "2022-01-25 23:38:31",
       "album": {
-        "name": "M\u00e9xico Gran Colecci\u00f3n Ranchera: Jorge Negrete",
-        "url": "https://open.spotify.com/album/6e2PGumvEHWGwC0xqDo9qW"
+        "name": "Coleccion Original",
+        "url": "https://open.spotify.com/album/28wthJnyrnWWG8UkwJ2LiK"
       },
       "artists": [
         {
@@ -568,9 +568,9 @@
           "url": "https://open.spotify.com/artist/4W5RbLZybsLfAzE7QqdibE"
         }
       ],
-      "duration_ms": 135418,
-      "name": "Alla en el Rancho Grande",
-      "url": "https://open.spotify.com/track/5kxOvMsJ2XwXNBNnZupxJs"
+      "duration_ms": 169626,
+      "name": "La Que Se Fue",
+      "url": "https://open.spotify.com/track/6J9WTHBcgGL7pjnGT6vvS6"
     },
     {
       "added_at": "2022-01-25 23:38:31",
@@ -975,8 +975,8 @@
     {
       "added_at": "2022-01-25 23:38:31",
       "album": {
-        "name": "Coleccion Original",
-        "url": "https://open.spotify.com/album/28wthJnyrnWWG8UkwJ2LiK"
+        "name": "M\u00e9xico Gran Colecci\u00f3n Ranchera: Jorge Negrete",
+        "url": "https://open.spotify.com/album/6e2PGumvEHWGwC0xqDo9qW"
       },
       "artists": [
         {
@@ -984,9 +984,9 @@
           "url": "https://open.spotify.com/artist/4W5RbLZybsLfAzE7QqdibE"
         }
       ],
-      "duration_ms": 169626,
-      "name": "La Que Se Fue",
-      "url": "https://open.spotify.com/track/6J9WTHBcgGL7pjnGT6vvS6"
+      "duration_ms": 135418,
+      "name": "Alla en el Rancho Grande",
+      "url": "https://open.spotify.com/track/5kxOvMsJ2XwXNBNnZupxJs"
     },
     {
       "added_at": "2022-01-25 23:38:31",
@@ -1023,22 +1023,6 @@
     {
       "added_at": "2022-01-25 23:38:31",
       "album": {
-        "name": "Amigo Organillero",
-        "url": "https://open.spotify.com/album/2Rv1ejNPg23IdQQhlZxdOQ"
-      },
-      "artists": [
-        {
-          "name": "Javier Sol\u00eds",
-          "url": "https://open.spotify.com/artist/7jerD1mbWgyDukHAmCvdCj"
-        }
-      ],
-      "duration_ms": 189773,
-      "name": "Amigo Organillero",
-      "url": "https://open.spotify.com/track/0wAvcx3s0npmQdQRkBnUso"
-    },
-    {
-      "added_at": "2022-01-25 23:38:31",
-      "album": {
         "name": "Sombras",
         "url": "https://open.spotify.com/album/38BNQJvYJ4KPOmAT9dEq9B"
       },
@@ -1051,6 +1035,22 @@
       "duration_ms": 176706,
       "name": "Sombras Nada M\u00e1s",
       "url": "https://open.spotify.com/track/6lTpm4j7o24t3aQGo3uZLc"
+    },
+    {
+      "added_at": "2022-01-25 23:38:31",
+      "album": {
+        "name": "Amigo Organillero",
+        "url": "https://open.spotify.com/album/2Rv1ejNPg23IdQQhlZxdOQ"
+      },
+      "artists": [
+        {
+          "name": "Javier Sol\u00eds",
+          "url": "https://open.spotify.com/artist/7jerD1mbWgyDukHAmCvdCj"
+        }
+      ],
+      "duration_ms": 189773,
+      "name": "Amigo Organillero",
+      "url": "https://open.spotify.com/track/0wAvcx3s0npmQdQRkBnUso"
     },
     {
       "added_at": "2022-01-25 23:38:31",

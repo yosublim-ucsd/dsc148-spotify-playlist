@@ -2,9 +2,9 @@
 
 ### [K\-Pop Fresh](https://open.spotify.com/playlist/37i9dQZF1DX1LU4UHKqdtg)
 
-> The freshest K\-Pop of today!  //最先端のK\-Popをピックアップ！ Cover: \(G\)I\-DLE
+> The freshest K\-Pop of today!  //最先端のK\-Popをピックアップ！ Cover: ITZY
 
-778 songs - 1 day 18 hr 35 min
+781 songs - 1 day 18 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -371,6 +371,7 @@
 | [Killing Me](https://open.spotify.com/track/3QD0Y1tTngihByjdWC99lG) | [CHUNG HA](https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y) | [Killing Me](https://open.spotify.com/album/21jf5kUkK5nHYTuZ5GRZVW) | 2:44 | 2021-12-23 | 2022-02-22 |
 | [Killin’ Me Good](https://open.spotify.com/track/4Cyf87ul1le0xTWRFBoYd7) | [JIHYO](https://open.spotify.com/artist/7F1iAHRYxR3MY7yAEuFqgL) | [ZONE](https://open.spotify.com/album/1GIkapvyAw5lwdNw66hI44) | 3:05 | 2023-08-18 |  |
 | [KISS](https://open.spotify.com/track/7MONmJafc7senaIZE3ulWv) | [TRI.BE](https://open.spotify.com/artist/6BgYuNomEs12UIrnxhWE9a) | [LEVIOSA](https://open.spotify.com/album/6ORQnWLnQLERhWhA3ON2Z5) | 3:05 | 2022-08-09 | 2022-10-19 |
+| [Kiss me Baby](https://open.spotify.com/track/4j9oSggZykTGFCNqJ3PNRm) | [E'LAST](https://open.spotify.com/artist/0NztgA9b1KEJLjLVqMwd9y) | [iDENTIFICATION](https://open.spotify.com/album/0gnFa9WBs7N50tOtNMRi5Z) | 3:19 | 2023-10-17 |  |
 | [Kitsch](https://open.spotify.com/track/4hbU7BVioG3WnoRNEy5YUf) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [Kitsch](https://open.spotify.com/album/7KgFOJg5QAU9Ex9L2oTy67) | 3:15 | 2023-03-27 | 2023-05-10 |
 | [Knock On My Door](https://open.spotify.com/track/0hAvf6Lzo1rYcq7aOtdohj) | [ONEW](https://open.spotify.com/artist/7sZ5ipSoboWdqXkdj6AXHo) | [Knock On My Door](https://open.spotify.com/album/1cNekjNeCf2CaHdiJk0S44) | 2:25 | 2023-03-21 | 2023-05-10 |
 | [La Vida Loca](https://open.spotify.com/track/5YazeJ15q1Mypr9ZYLJaT9) | [NIK](https://open.spotify.com/artist/69SEqE4oh5qoU6hHbebPvg) | [La Vida Loca](https://open.spotify.com/album/7v5WJg3N0QQYC9BIlDnB0Z) | 3:07 | 2022-08-09 | 2022-10-12 |
@@ -596,7 +597,7 @@
 | [SNEAKERS](https://open.spotify.com/track/1nX1b7kRg5a6XKAq7uQOpr) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [CHECKMATE](https://open.spotify.com/album/5nBLYhCXF29PmdeqAtjhH2) | 2:59 | 2022-07-15 | 2022-07-29 |
 | [SNEAKERS](https://open.spotify.com/track/2WoluqyWzsgRmFCeHeGlnm) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [CHECKMATE](https://open.spotify.com/album/64EGnoCD5NuC41OqQ3E7UK) | 2:59 | 2022-07-28 | 2022-11-18 |
 | [SO GOOD](https://open.spotify.com/track/0fasNMnIi1u8tNMV9r5IEh) | [DRIPPIN](https://open.spotify.com/artist/5IVacR5tKgTu9HotcG8kkl) | [SO GOOD](https://open.spotify.com/album/09lXzBFEEydz06FInbZ6ub) | 3:27 | 2022-04-21 | 2022-07-07 |
-| [So I Danced](https://open.spotify.com/track/6OXq1P3P8Z8ky2x8dDtHSH) | [DPR IAN](https://open.spotify.com/artist/2o8gT0fQmFxGNbowbdgeZe) | [So I Danced](https://open.spotify.com/album/64wAIYcs6KRlXKWwPdgiLW) | 2:53 | 2023-09-14 |  |
+| [So I Danced](https://open.spotify.com/track/6OXq1P3P8Z8ky2x8dDtHSH) | [DPR IAN](https://open.spotify.com/artist/2o8gT0fQmFxGNbowbdgeZe) | [So I Danced](https://open.spotify.com/album/64wAIYcs6KRlXKWwPdgiLW) | 2:53 | 2023-09-14 | 2023-10-18 |
 | [So Right \(feat\. Yuna\)](https://open.spotify.com/track/4oNDmDKZyn3TdJtZHbZNsj) | [SHAUN](https://open.spotify.com/artist/72nLe76yBFSlP6VBzME358), [Yuna](https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1) | [So Right \(feat\. Yuna\)](https://open.spotify.com/album/0ysgkoEbvhX06YfnR5lwJk) | 3:08 | 2022-02-24 | 2022-04-22 |
 | [Social Path](https://open.spotify.com/track/0fkL0fOhEzRK8WFe2ixt2d) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE), [LiSA](https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv) | [Social Path](https://open.spotify.com/album/69mwX2uyO8FKCc8KkRMHw7) | 3:18 | 2023-08-29 |  |
 | [Sour & Sweet](https://open.spotify.com/track/3bcLtU0Z3MuUhhQHIVSSX2) | [BamBam](https://open.spotify.com/artist/2p48L95TwEaYkSdn6R7LOr) | [Sour & Sweet](https://open.spotify.com/album/7kLnuncjYJPmSHM2aLjyET) | 2:27 | 2023-03-28 | 2023-06-07 |
@@ -615,7 +616,9 @@
 | [Step Back](https://open.spotify.com/track/3LCwQoTrdQgHsGJE5gGVqx) | [GOT the beat](https://open.spotify.com/artist/6uNxlIP5lzPFf0BHuELOuX) | [Step Back](https://open.spotify.com/album/3gwL04bGAX4Kc2D5Wd7NMk) | 3:48 | 2022-01-04 | 2022-04-29 |
 | [Sticker \- Will Not Fear Remix](https://open.spotify.com/track/1X4hW7NBxflvlNPlJnN6vQ) | [NCT 127](https://open.spotify.com/artist/7f4ignuCJhLXfZ9giKT7rH), [Will Not Fear](https://open.spotify.com/artist/3zQf6Ogadb67LzdBTHaZ0N) | [iScreaM Vol.13 : Sticker Remixes](https://open.spotify.com/album/0p4f9Nw20DLlu1cWzrToB8) | 3:24 | 2022-01-03 | 2022-02-09 |
 | [Still Life](https://open.spotify.com/track/4ba6mmxFtg8kRyqQ4PaAi4) | [BIGBANG](https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX) | [Still Life](https://open.spotify.com/album/0StZAtafrYrNtHULz4n3iS) | 3:08 | 2022-04-05 | 2022-07-01 |
+| [STRANGER](https://open.spotify.com/track/3SifPlW12FRs8OQP2VkXSi) | [SUNMI](https://open.spotify.com/artist/6MoXcK2GyGg7FIyxPU5yW6) | [STRANGER](https://open.spotify.com/album/5QUzffclUFjjFFZ1HmaB6X) | 2:46 | 2023-10-17 |  |
 | [Stupid O'clock](https://open.spotify.com/track/01ef1c362EzKpoTNLwI5Eb) | [VICTON](https://open.spotify.com/artist/0ziR2zN0NFcB4x1G3P8cW3) | [Chaos](https://open.spotify.com/album/7bCJBM9raTjf0vyiCwfiqO) | 3:05 | 2022-05-31 | 2022-07-29 |
+| [STYLE](https://open.spotify.com/track/0aZ8DSEdBJbBfrNtnqgJy3) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [RINGO](https://open.spotify.com/album/1kRAzoCTDLqwU6nX2I2Nmc) | 3:03 | 2023-10-17 |  |
 | [SUGAR](https://open.spotify.com/track/4WFTVcLuQuQlzzO8aS4iRM) | [Youngjae](https://open.spotify.com/artist/5qUAtC3NwSLYme4JqjlGfQ) | [SUGAR](https://open.spotify.com/album/5kmy3uN2XugLp8DLoL48ef) | 3:06 | 2022-06-21 | 2022-08-04 |
 | [Sugar Rush](https://open.spotify.com/track/3nEUtYp1LdZCTVtbtXY5kx) | [Kep1er](https://open.spotify.com/artist/5R7AMwDeroq6Ls0COQYpS4) | [Sugar Rush](https://open.spotify.com/album/4kSMLX83HO83zyNs1GVf2P) | 2:57 | 2022-09-22 | 2023-01-11 |
 | [Sugar Rush Ride](https://open.spotify.com/track/0rhI6gvOeCKA502RdJAbfs) | [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB) | [The Name Chapter: TEMPTATION](https://open.spotify.com/album/7gkb4MxKe9rnoR3wxbJXJg) | 3:06 | 2023-01-27 | 2023-10-13 |
@@ -680,7 +683,7 @@
 | [Trauma \- Japanese ver.](https://open.spotify.com/track/43SlfBxQYLok9kDveezSvg) | [SF9](https://open.spotify.com/artist/7LOmc7gyMVMOWF8qwEdn2X) | [THE BEST \~Dear Fantasy\~](https://open.spotify.com/album/4q3eFS7zlv7ko0k5MjmM7P) | 3:22 | 2022-06-28 | 2022-08-12 |
 | [TRIGGER](https://open.spotify.com/track/2VhmgfllXg5YGG9blUJ3YZ) | [CNBLUE](https://open.spotify.com/artist/6dCz3spfpIvqqqsIoP6wXi) | [TRIGGER](https://open.spotify.com/album/75MbAlPMa5vekilWtXzVGo) | 2:47 | 2022-10-13 | 2022-12-03 |
 | [TROUBLE](https://open.spotify.com/track/6MSRu5wksC0Esn63XOgmI3) | [EVNNE](https://open.spotify.com/artist/6SYJFHPxXkr4SZJR8aLEml) | [Target: ME](https://open.spotify.com/album/3zgfK7IBAPDcroAqxzzMOy) | 3:26 | 2023-09-20 |  |
-| [Trust Me \(MIDZY\) \- Japanese ver.](https://open.spotify.com/track/0wVLk4dLdgNwrIy1yhghFy) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [Trust Me \(MIDZY\) \[Japanese ver.\]](https://open.spotify.com/album/60NlQsbRpTiScK1lrslOUf) | 3:41 | 2023-08-29 |  |
+| [Trust Me \(MIDZY\) \- Japanese ver.](https://open.spotify.com/track/0wVLk4dLdgNwrIy1yhghFy) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [Trust Me \(MIDZY\) \[Japanese ver.\]](https://open.spotify.com/album/60NlQsbRpTiScK1lrslOUf) | 3:41 | 2023-08-29 | 2023-10-18 |
 | [Twinkle, Twinkle](https://open.spotify.com/track/5RonLpKNWLO6lXmt7R07W8) | [ILY:1](https://open.spotify.com/artist/3FvFhUWP00xtwBrHtby3v8) | [A Dream Of ILY:1](https://open.spotify.com/album/142c1ICdvzVtOftdswYEaG) | 3:21 | 2023-01-09 | 2023-03-15 |
 | [U](https://open.spotify.com/track/0Qk13Xgp0glz8I875TuJRl) | [TREASURE](https://open.spotify.com/artist/3KonOYiLsU53m4yT7gNotP) | [THE SECOND STEP : CHAPTER ONE](https://open.spotify.com/album/3xHLRJDP7M05Gnt4VE1TwT) | 2:46 | 2022-03-29 | 2022-06-29 |
 | [U&Iverse](https://open.spotify.com/track/67VGnMGkTYQu0eGhvcEXuS) | [ASTRO](https://open.spotify.com/artist/4pz4uzOMpJQyV8UTsDy4H8) | [U&Iverse](https://open.spotify.com/album/13QtsOvK9KOmQBQglnbsQo) | 3:24 | 2022-07-22 | 2022-09-21 |
@@ -737,7 +740,7 @@
 | [Wind And Wish](https://open.spotify.com/track/0feBL3YZOwuLcVjTZhMjRZ) | [BTOB](https://open.spotify.com/artist/2hcsKca6hCfFMwwdbFvenJ) | [WIND AND WISH](https://open.spotify.com/album/3NDkiQHCequvqMRAYPoJWs) | 3:41 | 2023-05-02 | 2023-06-27 |
 | [Wing Wing](https://open.spotify.com/track/1aWBbJI4wxnDNqQjbsaPFd) | [Kep1er](https://open.spotify.com/artist/5R7AMwDeroq6Ls0COQYpS4) | [<FLY\-UP> \- Special Edition \-](https://open.spotify.com/album/2vVvnTCd3Nazq9eC7RKMHL) | 3:15 | 2022-09-06 | 2023-01-13 |
 | [Wing Wing](https://open.spotify.com/track/1uKI4JKUIUJC0aXJqKCl6y) | [Kep1er](https://open.spotify.com/artist/5R7AMwDeroq6Ls0COQYpS4) | [Wing Wing](https://open.spotify.com/album/4SJ6tb6ajzNrmLY5w92XyD) | 3:15 | 2022-08-03 | 2022-09-07 |
-| [With UNIVERSE](https://open.spotify.com/track/1GCYF6dKEpdC7GFn4Kmrd8) | [PENTAGON](https://open.spotify.com/artist/1wKpMkucynaTfG8lyPprYV) | [With UNIVERSE](https://open.spotify.com/album/2m8cxPDIlH371sLuivEWMI) | 2:59 | 2023-10-12 |  |
+| [With UNIVERSE](https://open.spotify.com/track/1GCYF6dKEpdC7GFn4Kmrd8) | [PENTAGON](https://open.spotify.com/artist/1wKpMkucynaTfG8lyPprYV) | [With UNIVERSE](https://open.spotify.com/album/2m8cxPDIlH371sLuivEWMI) | 2:59 | 2023-10-12 | 2023-10-18 |
 | [With You](https://open.spotify.com/track/0O53SxVLSJ7v2xWOwZiS9w) | [B/ue](https://open.spotify.com/artist/6Hcc2Fny1noBc4YGVMQTze) | [With You](https://open.spotify.com/album/2Nw4hG9JHeAaj8AkFSBPYG) | 3:15 | 2021-12-23 | 2022-01-22 |
 | [With you](https://open.spotify.com/track/2gzhQaCTeNgxpeB2TPllyY) | [Jimin](https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY), [HA SUNG WOON](https://open.spotify.com/artist/3OBkZ9NG8F0Fn4oNpg0yuU) | [Our Blues, Pt\. 4 \(Original Television Soundtrack\)](https://open.spotify.com/album/3Zu8uym76sjmYEGTFsXnSy) | 3:21 | 2022-05-02 | 2022-07-20 |
 | [Wonderful Day](https://open.spotify.com/track/75wtNse2szKx7YT2WKhiTL) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [Doughnut](https://open.spotify.com/album/1eIMbbLLxejimwwLW4Rdl8) | 3:31 | 2021-12-23 | 2022-03-02 |
@@ -760,7 +763,7 @@
 | [ZERO](https://open.spotify.com/track/7pWYbXXcXaDenC0yQylDmQ) | [SUPER JUNIOR\-D&E](https://open.spotify.com/artist/3EfnKIG9827OXkcQQT7HEI) | [COUNTDOWN \- The 1st Album](https://open.spotify.com/album/7yNv0QElHZXnh6wMac0cx3) | 3:26 | 2021-12-23 | 2022-01-07 |
 | [ZOOM ZOOM](https://open.spotify.com/track/3DZwsHxTYjCcMUTcSkATPl) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [ZOOM ZOOM](https://open.spotify.com/album/1A6g2ZDdb7ggiiTXUbEuMP) | 3:12 | 2023-10-06 |  |
 | [あいのちから](https://open.spotify.com/track/3I5W8iA8iZAyO62UVceK3F) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [あいのちから](https://open.spotify.com/album/3fqYnHqWRVePkZzPQpxclM) | 3:50 | 2021-12-23 | 2022-01-26 |
-| [あなたがいることで](https://open.spotify.com/track/1KRiLcsOgWg5B2Og97VqCj) | [J\-JUN](https://open.spotify.com/artist/2x4LoC3la2S3aUHxaP8w1T) | [あなたがいることで](https://open.spotify.com/album/0N5eCVXJi53QdpnD3AjsdA) | 5:14 | 2023-10-10 |  |
+| [あなたがいることで](https://open.spotify.com/track/1KRiLcsOgWg5B2Og97VqCj) | [J\-JUN](https://open.spotify.com/artist/2x4LoC3la2S3aUHxaP8w1T) | [あなたがいることで](https://open.spotify.com/album/0N5eCVXJi53QdpnD3AjsdA) | 5:14 | 2023-10-10 | 2023-10-18 |
 | [そのままで](https://open.spotify.com/track/18tA7kbV5ovO6SBhnjU6ii) | [KIM SUNGJE](https://open.spotify.com/artist/6A3d5kFeyRjzOk74cwJVHX) | [RESTART](https://open.spotify.com/album/33NzoMoBwLN8rxCchuklJs) | 4:23 | 2023-04-11 | 2023-05-10 |
 | [キラキラ](https://open.spotify.com/track/7zQmhvdL0yYxjDWB4cyBXw) | [ONEW](https://open.spotify.com/artist/7sZ5ipSoboWdqXkdj6AXHo) | [キラキラ](https://open.spotify.com/album/5w6SgYM7VoSYC46Okga5Fw) | 4:53 | 2022-05-17 | 2022-07-16 |
 | [コノヨノシルシ \- The Greatest Ver.](https://open.spotify.com/track/4f6DAWSMBmGaGQgkELrfpn) | [BoA](https://open.spotify.com/artist/4muJrGMndyYWqZtfk8OWy4) | [コノヨノシルシ \(The Greatest Ver.\)](https://open.spotify.com/album/5ekQOic7CVj3uO6BcpN6aP) | 3:59 | 2022-04-19 | 2022-06-22 |

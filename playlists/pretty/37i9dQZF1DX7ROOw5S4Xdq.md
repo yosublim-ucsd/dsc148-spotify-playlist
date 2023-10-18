@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ROOw5S4Xdq.md) - [plain]
 
 > Ouça os últimos lançamentos da música Cristã\. Foto: Ton Carfi
 
-[Spotify](https://open.spotify.com/user/spotify) - 251,353 likes - 50 songs - 3 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 251,423 likes - 50 songs - 3 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ROOw5S4Xdq.md) - [plain]
 | 4 | [Nada Mais Será Igual \(Ao Vivo\)](https://open.spotify.com/track/0lINGdR92RntRrkpkUQ6Gh) | [Bruna Karla](https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR) | [Nada Mais Será Igual \(Ao Vivo\)](https://open.spotify.com/album/0iyu4WKKT4CU62Z0E5sHBm) | 5:28 |
 | 5 | [Sala De Estar \- Ao Vivo](https://open.spotify.com/track/0yNgKCiVR2GHwgv2qIU6hq) | [Eli Soares](https://open.spotify.com/artist/5zblJYkCzvB51Jh29FB07V), [Késia Soares](https://open.spotify.com/artist/1kFQW1pOLiBkqK9Lu8Wook) | [Sala De Estar \(Ao Vivo\)](https://open.spotify.com/album/3nHyV7DRqfVWaM4gD6v1SJ) | 4:20 |
 | 6 | [Nada Além do Sangue \- Ao Vivo](https://open.spotify.com/track/1wAAKfuuvSZQaXhHtPAzko) | [Isaias Saad](https://open.spotify.com/artist/1THj0JI7zld7YDsWERcSUz), [Fernandinho](https://open.spotify.com/artist/6iAY2AyUZLSX3PWLIAfFZY), [Paula Santos](https://open.spotify.com/artist/35DMyN0d5YWOdfJLyLZcSi) | [Nada Além do Sangue \(Ao Vivo\)](https://open.spotify.com/album/4x1x5UjNbzoKb3yfDTevRv) | 8:17 |
-| 7 | [Lugar Seguro \(Ao Vivo\)](https://open.spotify.com/track/6m3kAA9pzw4HZOf0SAC58j) | [Delino Marçal](https://open.spotify.com/artist/0MGbmpBm2Gzvy6ENd9D1qv), [Paulo Neto](https://open.spotify.com/artist/24lc8iaQY0UHitOufmSGko), [Francielli Santos](https://open.spotify.com/artist/3bt3h21BpFV0Wx9jH4tZca), [Anderson Freire](https://open.spotify.com/artist/1HxtfSGL8pWUwAyVgpbU5B) | [Acústico Estações Inverno \- Fé \(Ao Vivo\)](https://open.spotify.com/album/4u5dOMPNeav7i285vF5YPP) | 4:58 |
+| 7 | [Lugar Seguro \(Ao Vivo\)](https://open.spotify.com/track/6m3kAA9pzw4HZOf0SAC58j) | [Various Artists](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of), [Delino Marçal](https://open.spotify.com/artist/0MGbmpBm2Gzvy6ENd9D1qv), [Paulo Neto](https://open.spotify.com/artist/24lc8iaQY0UHitOufmSGko), [Francielli Santos](https://open.spotify.com/artist/3bt3h21BpFV0Wx9jH4tZca), [Anderson Freire](https://open.spotify.com/artist/1HxtfSGL8pWUwAyVgpbU5B) | [Acústico Estações Inverno \- Fé \(Ao Vivo\)](https://open.spotify.com/album/4u5dOMPNeav7i285vF5YPP) | 4:58 |
 | 8 | [Como Não Te Adorar \- Ao Vivo](https://open.spotify.com/track/0Wd7GcT9YDAKddGR2nz72n) | [Kellen Byanca](https://open.spotify.com/artist/0aCN6JIKoXyhkzyL3LaCpI), [Todah Music](https://open.spotify.com/artist/1A5kGvmKIVtX7NhcbtTZJY) | [Como Não Te Adorar \(Ao Vivo\)](https://open.spotify.com/album/4uYjlQQM5rZiobFQS8tXM3) | 6:20 |
 | 9 | [Que Ele Cresça \- Ao Vivo](https://open.spotify.com/track/297lnlXZD2tFe8wotWyaA8) | [Nívea Soares](https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk), [Nathanael Brito](https://open.spotify.com/artist/09Ls1rANRO31oG4naDyNJK) | [Que Ele Cresça \(Ao Vivo\)](https://open.spotify.com/album/2vpNnPQpLDEZxDktUxb8sJ) | 10:02 |
 | 10 | [Jesus Cristo Basta \(Jesucristo Basta\) \- Ao Vivo](https://open.spotify.com/track/5ftGbElbGveJXoB8tgqHDH) | [Mari Borges](https://open.spotify.com/artist/0p2zpsFX6FVVOWOVQ9SSa6), [Aline Barros](https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo) | [Jesus Cristo Basta \(Jesucristo Basta\) \[Ao Vivo\]](https://open.spotify.com/album/2YCQ0X6FLsq1F9B1dFV2xw) | 4:47 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ROOw5S4Xdq.md) - [plain]
 | 49 | [Jesus Me Ajudou](https://open.spotify.com/track/5exZFiTyhQb26GpVGDWi41) | [Banda Gratidão](https://open.spotify.com/artist/4ri0muoRAKGbHu6JU86SdV), [Messias Santos](https://open.spotify.com/artist/6JfxRWqFwIAoWOMKZdJ6MY) | [Jesus Me Ajudou](https://open.spotify.com/album/25i3XaPgwB0b1DtY456W9U) | 3:33 |
 | 50 | [Coragem](https://open.spotify.com/track/283sfNgc1WnakpHwISkwNc) | [Célia Bueno](https://open.spotify.com/artist/7GWzRK6e1esN02UDMZLhpz) | [Coragem](https://open.spotify.com/album/6wi7jVvX2AjSJKadYczWN8) | 3:58 |
 
-Snapshot ID: `MCw2YjJiNDk1NWQ2YTM2NzJhYzVlNDA1ZTBjZmY0YTE1ODE2NTMyYTA4`
+Snapshot ID: `MCxlNDE5ZTA0YTY0ODk3ZTBkNjgxMzkzYjY1YWJmMzRjYjZhYjhjNWVi`

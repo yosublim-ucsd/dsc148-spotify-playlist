@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSzHEab3T1o1.md) - [plain]
 
 > El junte entre las estrellas del dance global y del urbano latino\. Foto: Ghetto Kids, Major Lazer, Guaynaa, Tavo Rayo
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,532 likes - 45 songs - 2 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,531 likes - 45 songs - 2 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,9 +49,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSzHEab3T1o1.md) - [plain]
 | 39 | [Buscando Huellas](https://open.spotify.com/track/1i2bRNCJEBdJxbFDi4B8WQ) | [Major Lazer](https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp), [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Sean Paul](https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9) | [Know No Better](https://open.spotify.com/album/0NYAre99G6yH7OzKOVt4KC) | 2:53 |
 | 40 | [Algo Mágico \- R3HAB Remix](https://open.spotify.com/track/0AKJnGrZazPQbEoGamsQT9) | [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq), [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ) | [Algo Mágico \(R3HAB Remix\)](https://open.spotify.com/album/1UC5jCthGQNO7vgtdLau7R) | 2:47 |
 | 41 | [Bum Bum Tam Tam \- Jax Jones Remix](https://open.spotify.com/track/5NOuNThafeyeuqjD4q6fzt) | [MC Fioti](https://open.spotify.com/artist/2W6kbe0nm96COrHzNmfLLd), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Stefflon Don](https://open.spotify.com/artist/2ExGrw6XpbtUAJHTLtUXUD), [Juan Magán](https://open.spotify.com/artist/1ackd5XprZEkH3McKbQD51), [Jax Jones](https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr) | [Bum Bum Tam Tam \(Jax Jones Remix\)](https://open.spotify.com/album/4k1O7oGOEruYk3pkYl5XRv) | 3:28 |
-| 42 | [All Night](https://open.spotify.com/track/1hpXAtEeEpiQXHMwbDtGdp) | [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs), [Lauren Jauregui](https://open.spotify.com/artist/3J0BpFVUc9LeOIVeN5uNhU) | [Neon Future III](https://open.spotify.com/album/2XLdhcA2xQy2Iw74Cly9QL) | 3:25 |
-| 43 | [Napoleona](https://open.spotify.com/track/4hlK5ALDOCVvGE22II5Wbb) | [Deorro](https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR), [Elvis Crespo](https://open.spotify.com/artist/1c22GXH30ijlOfXhfLz9Df), [IAmChino](https://open.spotify.com/artist/0b2GL7Y02vu50qieoQmw1w) | [Napoleona](https://open.spotify.com/album/0gMknkywDezGJrrCdyKHYb) | 2:52 |
+| 42 | [Napoleona](https://open.spotify.com/track/4hlK5ALDOCVvGE22II5Wbb) | [Deorro](https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR), [Elvis Crespo](https://open.spotify.com/artist/1c22GXH30ijlOfXhfLz9Df), [IAmChino](https://open.spotify.com/artist/0b2GL7Y02vu50qieoQmw1w) | [Napoleona](https://open.spotify.com/album/0gMknkywDezGJrrCdyKHYb) | 2:52 |
+| 43 | [All Night](https://open.spotify.com/track/1hpXAtEeEpiQXHMwbDtGdp) | [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs), [Lauren Jauregui](https://open.spotify.com/artist/3J0BpFVUc9LeOIVeN5uNhU) | [Neon Future III](https://open.spotify.com/album/2XLdhcA2xQy2Iw74Cly9QL) | 3:25 |
 | 44 | [No Te Enamores \- Alan Walker Remix](https://open.spotify.com/track/2tfvxvWE1EwdHR6rAUTzGa) | [Milly](https://open.spotify.com/artist/7kXCcNRLEnblbTAppPraBp), [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [Jay Wheeler](https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g), [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO), [Nio Garcia](https://open.spotify.com/artist/5hdhHgpxyniooUiQVaPxQ0), [Amenazzy](https://open.spotify.com/artist/6kq4GHwUcUojGIu0ziSNXf) | [No Te Enamores \(Alan Walker Remix\)](https://open.spotify.com/album/6e1L4cAZHKtG7AcbnkE6g4) | 4:43 |
 | 45 | [Pues \(with Luis Fonsi & Sean Paul\)](https://open.spotify.com/track/0H4olUjRf0vXXuQkpKnJmr) | [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ), [Luis Fonsi](https://open.spotify.com/artist/4V8Sr092TqfHkfAA5fXXqG), [Sean Paul](https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9) | [Pues \(with Luis Fonsi & Sean Paul\)](https://open.spotify.com/album/03HdtkcGhFu7BdOGdFV3Hf) | 2:07 |
 
-Snapshot ID: `MCwwYzQyNzIwNDMyZDMxNjE0ODM2NWVlY2EyNjQ1MzI1YWMzOWJiY2Vj`
+Snapshot ID: `MCxmNzFkMDgwOGQ3ZmIxNGQ2NDVlNWY5MWZkNjUxZmY2ZjM1MWQyM2Yx`

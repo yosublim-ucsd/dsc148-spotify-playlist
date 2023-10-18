@@ -4,13 +4,14 @@
 
 > Soothing ASMR whispers to help you drift off to sleep\. Slow, soft and calming.
 
-80 songs - 7 hr 8 min
+81 songs - 7 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [7 Terrific Triggers, Pt\. 1](https://open.spotify.com/track/1kmBYv7Hw8zH2CaxTvzzii) | [TheOneLilium ASMR](https://open.spotify.com/artist/7qOvhKuza5UPfivHA3yyQa) | [7 Terrific Triggers](https://open.spotify.com/album/5hkatDJDbc75G83lu0nEX6) | 3:36 | 2023-09-08 |  |
 | [7 Terrific Triggers, Pt\. 1](https://open.spotify.com/track/4W30PQEyGVnNaqZEGWwUyK) | [TheOneLilium ASMR](https://open.spotify.com/artist/7qOvhKuza5UPfivHA3yyQa) | [7 Terrific Triggers](https://open.spotify.com/album/26e7G71fAzD7hywVvHW0Z3) | 3:36 | 2021-11-12 | 2023-09-10 |
 | [8D Mic Scratching with Spoolie and Slow Whispering, Pt\. 4](https://open.spotify.com/track/2WOAXC3ITSWMdQPcw28cHb) | [ASMR Art of Sound](https://open.spotify.com/artist/0M5HJZlCxSmeQUESaJ7up3) | [ASMR 8D Mic Scratching w/Spoolie and Slow Whispering](https://open.spotify.com/album/2wODYftW2n2Z4agWpBNsRc) | 3:26 | 2021-11-12 | 2023-09-17 |
+| [8D Mic Scratching with Spoolie and Slow Whispering, Pt\. 4](https://open.spotify.com/track/57fRbdbk9bPW5DJV508GBL) | [ASMR Art of Sound](https://open.spotify.com/artist/0M5HJZlCxSmeQUESaJ7up3) | [ASMR 8D Mic Scratching w/Spoolie and Slow Whispering](https://open.spotify.com/album/7xwDBNS7i2d09hJUwOhrEP) | 3:26 | 2023-09-08 |  |
 | [Alphabet Revision, Pt\. 1](https://open.spotify.com/track/2MfNCtM55FPi6tYA9uaYfc) | [iPad ASMR](https://open.spotify.com/artist/3oZZNdRaWl8HYAnwcbPYbN) | [Russian Language Revision \- Cyrillic Alphabet](https://open.spotify.com/album/2pTKiaP8dOQ11Q8G88JMzh) | 3:29 | 2021-11-12 | 2023-09-16 |
 | [Alphabet Revision, Pt\. 1](https://open.spotify.com/track/4Jg7i26bxbojqoo1QxCA8u) | [iPad ASMR](https://open.spotify.com/artist/3oZZNdRaWl8HYAnwcbPYbN) | [Russian Language Revision \- Cyrillic Alphabet](https://open.spotify.com/album/3sLOxB7tgQQBOc614YUoGT) | 3:29 | 2023-09-08 |  |
 | [Anticipatory Ear to Ear Whispers Pt.1](https://open.spotify.com/track/1WKMPkedR3z44hL8QifjOT) | [Slight Sounds ASMR](https://open.spotify.com/artist/3T3Ygd1CAqQdgzphPcs6ts) | [Anticipatory Ear to Ear Whisepers](https://open.spotify.com/album/5lqSEu356oV96g0VZXYFTL) | 5:22 | 2021-11-12 |  |
@@ -62,7 +63,7 @@
 | [Reassuring Whispers 2 Asmr](https://open.spotify.com/track/3Cid1Ne9qWeFJiU2Z6bhIx) | [DianaDewAsmr](https://open.spotify.com/artist/0pukN4AZfFrKqNDWwJ3oNu) | [July Tingly Studio Sounds Special](https://open.spotify.com/album/3jgCOz5dDHSVBCHRwwqizz) | 5:07 | 2021-11-12 |  |
 | [Reassuring Whispers Asmr](https://open.spotify.com/track/48yZMCOxznAnwEuqyiX1Cg) | [DianaDewAsmr](https://open.spotify.com/artist/0pukN4AZfFrKqNDWwJ3oNu) | [July Tingly Studio Sounds Special](https://open.spotify.com/album/3jgCOz5dDHSVBCHRwwqizz) | 3:46 | 2021-11-12 |  |
 | [Red Candle Whisper Description](https://open.spotify.com/track/3nu8DD1G3gPw3qtkzOVkdh) | [ASMR Whisperers](https://open.spotify.com/artist/6izg9i3QPbbZliH6dcs86s) | [Binaural ASMR Descriptions](https://open.spotify.com/album/6mYajfeaMCGhviyvdaKjo0) | 2:46 | 2022-07-14 |  |
-| [Relax and Close Your Eyes](https://open.spotify.com/track/3CmSxwPQVQ9sYR4SLgJR94) | [ASMR Leedah](https://open.spotify.com/artist/0XQbeslDTzykLqIp5PzQiS) | [Step\-Sis Takes Care Of You](https://open.spotify.com/album/3tjYY9HmKxoKV0dmAaM6VZ) | 7:00 | 2023-09-08 |  |
+| [Relax and Close Your Eyes](https://open.spotify.com/track/3CmSxwPQVQ9sYR4SLgJR94) | [ASMR Leedah](https://open.spotify.com/artist/0XQbeslDTzykLqIp5PzQiS) | [Step\-Sis Takes Care Of You](https://open.spotify.com/album/3tjYY9HmKxoKV0dmAaM6VZ) | 7:00 | 2023-09-08 | 2023-10-18 |
 | [Relax and Close Your Eyes](https://open.spotify.com/track/3ejyzJpCraPR613IbUrnaL) | [ASMR Leedah](https://open.spotify.com/artist/0XQbeslDTzykLqIp5PzQiS) | [Step\-Sis Takes Care Of You](https://open.spotify.com/album/0Bfxpvxe19ojYWQ8ZgCF8A) | 7:00 | 2021-11-12 | 2023-09-06 |
 | [Relaxing You HEAD to TOE Pt.5](https://open.spotify.com/track/6Ult8KyCkQMVqhGWqxjZBy) | [Alana ASMR](https://open.spotify.com/artist/48DAnk1KeJX11nFUNH8CyM) | [Relaxing You HEAD to TOE](https://open.spotify.com/album/7rR9BrOUJew20POht76Dzg) | 4:05 | 2021-11-12 |  |
 | [Removing Negative Energy](https://open.spotify.com/track/24NTw0iCE8kjgY5BGKIqmh) | [LunaRexx ASMR](https://open.spotify.com/artist/1gN9pIv8jnrIYJV3S88I6D) | [May I Touch You?](https://open.spotify.com/album/3bnzZw0jzoa7AYlZDYTxPw) | 4:54 | 2021-11-12 | 2023-09-09 |

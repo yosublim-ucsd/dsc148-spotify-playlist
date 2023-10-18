@@ -4,7 +4,7 @@
 
 > killer songs from badass artists\. Cover: Haley Blais
 
-369 songs - 22 hr 25 min
+370 songs - 22 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -300,6 +300,7 @@
 | [Spike The Punch](https://open.spotify.com/track/2gzhJCWgQ9MxKXiIWP1BfB) | [Alex Lahey](https://open.spotify.com/artist/5kdYrM3h2sB1Eid5tDf6Hk) | [Spike The Punch](https://open.spotify.com/album/3S2fNUJkRiyB3SrgkixKRG) | 3:01 | 2021-11-14 | 2022-07-20 |
 | [stabilise](https://open.spotify.com/track/3JlNvjlxIlaQ4iQsnxPGct) | [Nilüfer Yanya](https://open.spotify.com/artist/09kXLeOXRyfNQMXRaDO4qA) | [PAINLESS](https://open.spotify.com/album/2IVL0vnFIe9uHWW1TAocC7) | 3:32 | 2022-04-01 | 2023-03-22 |
 | [Stop Speaking](https://open.spotify.com/track/6GVVo5kj1eCZHmwnSXoZYA) | [jennylee](https://open.spotify.com/artist/0YJbZA7Ci73cEk1Ylcukgt), [Dave Gahan](https://open.spotify.com/artist/7hKXTmrq3ZppBx881yBbOr) | [Stop Speaking / In Awe Of](https://open.spotify.com/album/0gxmomjwcF5Idl68FdikJk) | 3:42 | 2022-04-01 | 2022-04-16 |
+| [Subtitles](https://open.spotify.com/track/5eC8NnYiXta8Tv8dgbcLjq) | [Madison Cunningham](https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL) | [Subtitles](https://open.spotify.com/album/21azpaO61GZG0Xq0fNXXj0) | 4:05 | 2023-10-13 |  |
 | [Suburbia](https://open.spotify.com/track/5e6F64qyjBbXiPmktOax3t) | [NoSo](https://open.spotify.com/artist/09Wl9YiRr5l1rChWktQD4o) | [Stay Proud of Me](https://open.spotify.com/album/1aGsUoZnjToggqsjIK84nc) | 3:35 | 2023-09-15 |  |
 | [Suburbia](https://open.spotify.com/track/5my2GN5y6i1KhOYfOByJEn) | [NoSo](https://open.spotify.com/artist/09Wl9YiRr5l1rChWktQD4o) | [Suburbia](https://open.spotify.com/album/3EKorAn8NIq138RN9W6XaC) | 3:35 | 2021-11-14 | 2022-07-29 |
 | [Sucker](https://open.spotify.com/track/0KAW820FoYhpDe3lsgMRaC) | [Madeline Kenney](https://open.spotify.com/artist/2mirb9SKAm6IUHtPwreoqN) | [Sucker](https://open.spotify.com/album/5LzeVIZgtEHrbLYwsBRalD) | 4:43 | 2021-11-14 | 2022-07-29 |
@@ -365,7 +366,7 @@
 | [Who Am I But Someone](https://open.spotify.com/track/5lnl3Ssiu8aYTDTmgdcItA) | [Kate Bollinger](https://open.spotify.com/artist/4eArh1v6UwBbKkjdgHCned) | [Who Am I But Someone](https://open.spotify.com/album/6oDjID3EJnQpLQayVnXu43) | 2:42 | 2022-04-01 | 2022-10-15 |
 | [Wisdom Tooth](https://open.spotify.com/track/4L7LSrveE3uOM57YxtD2eS) | [Wallice](https://open.spotify.com/artist/6d6ts87Fxm1EdULf4CaLw4) | [Wisdom Tooth](https://open.spotify.com/album/2jYjKxGdqTg4kiz8MTLmd5) | 2:36 | 2021-12-08 | 2022-04-14 |
 | [Woman](https://open.spotify.com/track/60GM1mA58L7SYD1bLQXBho) | [Little Simz](https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI), [Cleo Sol](https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq) | [Sometimes I Might Be Introvert](https://open.spotify.com/album/4nOym5RKE8Opauf3rMxPAW) | 4:29 | 2023-01-27 |  |
-| [Woman on Fire](https://open.spotify.com/track/1UVKKR5tN9KfKYng30e1dx) | [BEL](https://open.spotify.com/artist/2ts6M8dSQ1GYdVF2ZeCyy6) | [Woman on Fire](https://open.spotify.com/album/3tyDFxumq69ziGnO9DzNRV) | 2:58 | 2023-03-31 |  |
+| [Woman on Fire](https://open.spotify.com/track/1UVKKR5tN9KfKYng30e1dx) | [BEL](https://open.spotify.com/artist/2ts6M8dSQ1GYdVF2ZeCyy6) | [Woman on Fire](https://open.spotify.com/album/3tyDFxumq69ziGnO9DzNRV) | 2:58 | 2023-03-31 | 2023-10-18 |
 | [Wonder](https://open.spotify.com/track/51kze9dPhittQFgS6kc2wb) | [Lomelda](https://open.spotify.com/artist/6zcDLZ62JsbVM1nLrQMzi4) | [Wonder](https://open.spotify.com/album/4aOPrkSRPB7HmDYmgrvZAa) | 2:11 | 2021-11-14 | 2022-07-27 |
 | [Wonder](https://open.spotify.com/track/5lVuIYjYS8Xh7tJ7UwWrmE) | [Lomelda](https://open.spotify.com/artist/6zcDLZ62JsbVM1nLrQMzi4) | [Hannah](https://open.spotify.com/album/0xKBSA1TCEAauJkd3s6gfY) | 2:11 | 2023-05-19 |  |
 | [Working for the Knife](https://open.spotify.com/track/2ORVHijyYA8bAOCVaIbmdS) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [Laurel Hell](https://open.spotify.com/album/4rcinMUHEWOxpIwJo2sf22) | 2:38 | 2023-06-23 |  |

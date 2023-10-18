@@ -4,7 +4,7 @@
 
 > heartbreak feels good in a place like this Cover: Holly Humberstone
 
-592 songs - 1 day 8 hr 38 min
+593 songs - 1 day 8 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -362,6 +362,7 @@
 | [Love You More](https://open.spotify.com/track/6yaskcE6j8qsypsSxMSaeL) | [Ashley Kutcher](https://open.spotify.com/artist/1Zi1c8sWZTy5rDiN3lAuEj) | [Love You More](https://open.spotify.com/album/1VX1XP7NjGCE5KQS6utxac) | 2:49 | 2022-02-25 | 2022-10-22 |
 | [Love's The Worst](https://open.spotify.com/track/6ETjGrxmdsUESckxPGCpKN) | [Florence Arman](https://open.spotify.com/artist/2OTqocUdUt52tEuCd1sJ15) | [Love's The Worst EP](https://open.spotify.com/album/5eeijGABYrckBfojHf6zio) | 2:56 | 2023-10-06 |  |
 | [lovebomb](https://open.spotify.com/track/6g5ToBz8mGURaauPqfyYvU) | [Nessa Barrett](https://open.spotify.com/artist/7pwufEBGfggjoI8twqlsmQ) | [young forever](https://open.spotify.com/album/4uoeBpJ631QyWNHw9GqTEn) | 3:09 | 2022-10-28 | 2023-02-18 |
+| [Loved By You](https://open.spotify.com/track/5MFUxQJGj5KrcCX6Gnphgh) | [Chelsea Cutler](https://open.spotify.com/artist/5JMLG56F1X5mFmWNmS0iAp) | [Stellaria](https://open.spotify.com/album/5UHVVt48bKChmsZNguXZIu) | 2:58 | 2023-10-13 |  |
 | [Magazines](https://open.spotify.com/track/5WBJ8Cds7nAFH6olYdHbqY) | [slimdan](https://open.spotify.com/artist/4rBmgPisz2KuN6czxDpIcu) | [to anyone who cares](https://open.spotify.com/album/4Y0MTpdftG5fN5RKV2Idwv) | 3:12 | 2022-04-01 | 2022-04-21 |
 | [Make It To Me](https://open.spotify.com/track/13CHIxzN5Z4mbjjADGplNT) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [In The Lonely Hour \(Drowning Shadows Edition\)](https://open.spotify.com/album/0f8RtEC5UUqMX2cveYlylg) | 2:42 | 2023-09-29 |  |
 | [Make It To Me](https://open.spotify.com/track/2uCMaUojwuqr8CRGsLoPa6) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [In The Lonely Hour \(Drowning Shadows Edition\)](https://open.spotify.com/album/0vrWqbRQEMKqhTGcDLQK7x) | 2:42 | 2021-12-17 | 2023-10-04 |
@@ -599,6 +600,6 @@
 | [you were in my dream](https://open.spotify.com/track/0Lg3v086REgQTLexgvfWDE) | [Laur Elle](https://open.spotify.com/artist/5DQPhXyByXuh4DxLjHm7UH) | [you were in my dream](https://open.spotify.com/album/3Kq9ayCMlcTr6dpm77qNwM) | 3:26 | 2022-05-20 | 2022-05-28 |
 | [you'd never know](https://open.spotify.com/track/1I2zZtHCrBkoTgfwxnNKZ9) | [BLÜ EYES](https://open.spotify.com/artist/2gI1WfmpFmmgSRojy4Jup2) | [you'd never know](https://open.spotify.com/album/7lv1W2OS7elIXJ8whpCYJW) | 3:05 | 2022-09-16 | 2023-04-01 |
 | [Young & Sad](https://open.spotify.com/track/0gySkOOewOdZtHG8stPEB8) | [Noah Cyrus](https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW) | [THE END OF EVERYTHING](https://open.spotify.com/album/6ZLlJLTscXUJIMwpwSAcOm) | 3:10 | 2021-12-17 | 2022-12-17 |
-| [Yours](https://open.spotify.com/track/7BpqydHSxMviDR0DNTne6J) | [Conan Gray](https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea) | [Yours](https://open.spotify.com/album/2i4vxgeB2Sn97KeBs2vYtO) | 3:24 | 2022-05-20 |  |
+| [Yours](https://open.spotify.com/track/7BpqydHSxMviDR0DNTne6J) | [Conan Gray](https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea) | [Yours](https://open.spotify.com/album/2i4vxgeB2Sn97KeBs2vYtO) | 3:24 | 2022-05-20 | 2023-10-18 |
 
 \*This playlist was first scraped on 2021-12-21. Prior content cannot be recovered.

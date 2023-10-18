@@ -275,6 +275,28 @@
     },
     {
       "album": {
+        "name": "BREAKING BAD (feat. 9lives)",
+        "url": "https://open.spotify.com/album/6Zm6n9JULZtKsl2csQ8Emz"
+      },
+      "artists": [
+        {
+          "name": "removeface",
+          "url": "https://open.spotify.com/artist/4V83nubSLv0NZBo69fz8PF"
+        },
+        {
+          "name": "9lives",
+          "url": "https://open.spotify.com/artist/2MQN1o9W3ULxdT38vj8g4Q"
+        }
+      ],
+      "date_added": "2023-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124735,
+      "name": "BREAKING BAD (feat. 9lives)",
+      "url": "https://open.spotify.com/track/0ntFxM0eD0OMz4rCgRSoLO"
+    },
+    {
+      "album": {
         "name": "change",
         "url": "https://open.spotify.com/album/1EwCoJPEovnbePAjomvhp1"
       },
@@ -650,6 +672,24 @@
       "duration_ms": 102556,
       "name": "GOOD LOYAL THOTS",
       "url": "https://open.spotify.com/track/06tNJ27nVxbDwhiQMChWyr"
+    },
+    {
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/1fCKaE5RLL5N26iReqbVPp"
+      },
+      "artists": [
+        {
+          "name": "Odetari",
+          "url": "https://open.spotify.com/artist/7ITMCzIU9uII8gwRg8JAhc"
+        }
+      ],
+      "date_added": "2023-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129445,
+      "name": "GREEN GOBLIN - Spotify Singles",
+      "url": "https://open.spotify.com/track/1OiiHxQFLMftJpw5C8Vrar"
     },
     {
       "album": {
@@ -1450,6 +1490,32 @@
     {
       "album": {
         "name": "party addict",
+        "url": "https://open.spotify.com/album/52zsEp1nlqjnzxBFRN9TCm"
+      },
+      "artists": [
+        {
+          "name": "kets4eki",
+          "url": "https://open.spotify.com/artist/4waORdvuFnffJPrj784KeG"
+        },
+        {
+          "name": "Nosgov",
+          "url": "https://open.spotify.com/artist/6FK0azeTwe5RwhUAkpkhnh"
+        },
+        {
+          "name": "kojo",
+          "url": "https://open.spotify.com/artist/18AWDR2N9U6HkTZ6wgmbRV"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125861,
+      "name": "party addict",
+      "url": "https://open.spotify.com/track/0i5Lv2pnFSqZopukoniHcv"
+    },
+    {
+      "album": {
+        "name": "party addict",
         "url": "https://open.spotify.com/album/0asjbwtUwjHskzsK3nQf6A"
       },
       "artists": [
@@ -1468,10 +1534,28 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-18",
       "duration_ms": 125861,
       "name": "party addict",
       "url": "https://open.spotify.com/track/1fp1tsLHqwy1Aj40GVyqVX"
+    },
+    {
+      "album": {
+        "name": "PARTY ALL NIGHT!",
+        "url": "https://open.spotify.com/album/3R7c7RQHgK0a7lMyIwq0Km"
+      },
+      "artists": [
+        {
+          "name": "Lumi Athena",
+          "url": "https://open.spotify.com/artist/1TTHC3GlNDaE5eVoC3BVxm"
+        }
+      ],
+      "date_added": "2023-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 107975,
+      "name": "PARTY ALL NIGHT!",
+      "url": "https://open.spotify.com/track/3IV3qgNIzvlf2dmeXX6ADw"
     },
     {
       "album": {

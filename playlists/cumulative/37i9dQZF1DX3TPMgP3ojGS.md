@@ -4,7 +4,7 @@
 
 > Soft \(the quietest of them all\), subtle, no words needed\. Take a sip and enjoy the music of composers from around the world.
 
-1,755 songs - 3 day 6 hr 38 min
+1,758 songs - 3 day 6 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -116,6 +116,7 @@
 | [Anthem](https://open.spotify.com/track/4Jr7u74eojtjjxJUsTMOWX) | [Benny Andersson](https://open.spotify.com/artist/0kV0e99xlTJcLKSu8KrLyp) | [Piano](https://open.spotify.com/album/4YOjURreqzf0lbn1HyJzle) | 3:19 | 2021-05-18 | 2021-05-19 |
 | [Anthem](https://open.spotify.com/track/2pQyIi1mMMRPDjFPkgtfSn) | [Dmitry Evgrafov](https://open.spotify.com/artist/5gO6Qun6lW2PILwqcvEug8) | [Pereehali](https://open.spotify.com/album/6PV6VSijaovsQ3eSVaIYsp) | 3:03 | 2021-03-19 | 2022-04-14 |
 | [Anticipation](https://open.spotify.com/track/3fFCNT0I1D5jTG27em7hAQ) | [Layla Frost](https://open.spotify.com/artist/3cu49Fsi3kJLjRbO5kmHTx) | [Layla Frost](https://open.spotify.com/album/2vpyn9Uhp6eEu0P2jpft7V) | 3:09 | 2021-12-18 | 2021-12-19 |
+| [Aono & Akine](https://open.spotify.com/track/4J4K9tVp3A0VLux2S92Lzc) | [Akira Kosemura](https://open.spotify.com/artist/4n1lW38WKgyPEIZowQ3AND) | [Aono ＆ Akine \(From "Blue Orchestra" Original Soundtrack\)](https://open.spotify.com/album/6bc3Y0oULpmOEZQlwDzq6x) | 2:37 | 2023-10-17 |  |
 | [Aoyama Bochi](https://open.spotify.com/track/6aLLf5UU8GivpvjLxdOog1) | [Saeko Seki](https://open.spotify.com/artist/2g4F9tXkfjvy3BH3CTYBfe) | [Aoyama Bochi](https://open.spotify.com/album/0zhU9dYWdB6AzvShqe2uy2) | 2:03 | 2021-03-06\* | 2021-03-07 |
 | [Approaching Haumea](https://open.spotify.com/track/6mwVh9GJeesKKE0OJWHrMt) | [Mauvais Roger](https://open.spotify.com/artist/3WywoFt9vF6tSIJGseVSTD) | [Approaching Haumea](https://open.spotify.com/album/0j6t12qqfzwHpVvKeSwz9k) | 2:51 | 2022-01-26 | 2022-04-01 |
 | [Approaching Storm](https://open.spotify.com/track/02vL85IGFIt1mhLWbdjgHU) | [Pam Caddis](https://open.spotify.com/artist/4NXMKJ8RnRhNjka9Uw3C4a) | [Approaching Storm](https://open.spotify.com/album/3gd7A70I0tacaMtQaJJrOQ) | 3:02 | 2022-03-29 | 2022-04-07 |
@@ -483,6 +484,7 @@
 | [Fade away](https://open.spotify.com/track/2kBKYE62rFAbdrr9KllA2v) | [Finn Lenoir](https://open.spotify.com/artist/34O50Wu6XLsShNKbJiNi9d) | [Fade away](https://open.spotify.com/album/6jQTgfNl2JUJm2IwVlwvI7) | 2:11 | 2022-07-27 | 2022-12-24 |
 | [Fade Out](https://open.spotify.com/track/7HejS7pys1bgc200NQYhp9) | [Layla Frost](https://open.spotify.com/artist/3cu49Fsi3kJLjRbO5kmHTx) | [Layla Frost](https://open.spotify.com/album/2vpyn9Uhp6eEu0P2jpft7V) | 1:21 | 2021-05-13 | 2022-04-19 |
 | [Faded Dreams](https://open.spotify.com/track/5jxBweBbPFg53Ozudm6HrC) | [Aaron Lansing](https://open.spotify.com/artist/2AiqANCe9znkfFsN5qIOyV) | [Faded Dreams](https://open.spotify.com/album/7uJDbp3T5CNAnUq3VZI3fj) | 1:51 | 2021-05-05 | 2022-04-02 |
+| [Faded Photograph](https://open.spotify.com/track/5awfs1AwFMFjyBlcesY7wm) | [Sonic Abodes](https://open.spotify.com/artist/3rzgt7XlVxEmuSp8o1Md0x) | [Faded Photograph](https://open.spotify.com/album/2WFzTYgHoG7pGwgUDO0xCm) | 2:27 | 2023-10-17 |  |
 | [fading memories](https://open.spotify.com/track/7ICvQYp6hiVSslX92o91Pw) | [Jose Garcia](https://open.spotify.com/artist/5bwWMpXFa16RzsnAeaxttA) | [fading memories](https://open.spotify.com/album/2hUqUrgwvgD7Syr8wdNcar) | 3:26 | 2021-03-14 | 2022-03-31 |
 | [Fairytale](https://open.spotify.com/track/0171THBJUjWNcMYH6Ls7KE) | [Lihua Zhao](https://open.spotify.com/artist/7dsYrsCwrZat4t33c7RXPe) | [Familiar Grounds](https://open.spotify.com/album/1mnr05Zq0I3QtYuxziqGjj) | 3:28 | 2021-09-25 | 2022-07-27 |
 | [Fairytale](https://open.spotify.com/track/3InuCiZ2PhLlZ11eYaL9z2) | [Monique Galant](https://open.spotify.com/artist/0mARSwZm3oDeE9whx4bk9i) | [Fairytale](https://open.spotify.com/album/29zpr3gaVAwMwDklkhGYxv) | 2:31 | 2021-10-11 | 2021-10-12 |
@@ -1043,7 +1045,7 @@
 | [Nouvelles Tentatives](https://open.spotify.com/track/6rvmhiAd5jtT5CzLIcnj4p) | [Zander Shaelyn](https://open.spotify.com/artist/4MCqLBL3gv1AadG3HzOOKy) | [Nouvelles Tentatives](https://open.spotify.com/album/2jX2hklmnGPweXvdcy0j4d) | 2:00 | 2022-12-22 |  |
 | [November Birdie](https://open.spotify.com/track/3N79AZhe7FiBgF7leqGhHt) | [El Pianista Manco](https://open.spotify.com/artist/01E7DBTYoklq6FeDxgRk36) | [November Birdie](https://open.spotify.com/album/3Fm1JbS2MGWoABmIZV6KJZ) | 2:42 | 2022-12-22 | 2023-04-26 |
 | [Now and Then](https://open.spotify.com/track/3flrE9SDAQj4hP2kKzcHOG) | [Carluccio](https://open.spotify.com/artist/06bxyT4bXPZaKsInaJ75UL) | [Divisio](https://open.spotify.com/album/0B869lAIypL8bHSo2SAr34) | 2:27 | 2021-03-23 | 2022-07-29 |
-| [Nowesind](https://open.spotify.com/track/2p5THyuNwpJ9c7ex3TN383) | [Jacob David](https://open.spotify.com/artist/2ClAWj3iKUlyddnvR6faUP) | [Nowesind](https://open.spotify.com/album/0nz4s5aDqAOYKdbogoo15X) | 1:59 | 2022-12-22 |  |
+| [Nowesind](https://open.spotify.com/track/2p5THyuNwpJ9c7ex3TN383) | [Jacob David](https://open.spotify.com/artist/2ClAWj3iKUlyddnvR6faUP) | [Nowesind](https://open.spotify.com/album/0nz4s5aDqAOYKdbogoo15X) | 1:59 | 2022-12-22 | 2023-10-18 |
 | [Nuvem](https://open.spotify.com/track/0ZsKOPylr7Q81ltsE9a3rJ) | [Karolin Fiedler](https://open.spotify.com/artist/6rhQQ3l6vAFGdFRyNj1UbO) | [Nuvem](https://open.spotify.com/album/2c6dlGVRcOyk7OLEXhN12S) | 2:13 | 2021-12-13 | 2022-04-20 |
 | [Nuvole bianche](https://open.spotify.com/track/3aLof1zmaQ0GLcAc9YQ3Fq) | [Ludovico Einaudi](https://open.spotify.com/artist/2uFUBdaVGtyMqckSeCl0Qj) | [Una Mattina](https://open.spotify.com/album/4aSt14A98gEpCUpKecrl4V) | 5:57 | 2021-05-24 | 2022-04-17 |
 | [Nuvole Bianche](https://open.spotify.com/track/3weNRklVDqb4Rr5MhKBR3D) | [Ludovico Einaudi](https://open.spotify.com/artist/2uFUBdaVGtyMqckSeCl0Qj) | [Una Mattina](https://open.spotify.com/album/0Ryad9M1b1MxSjgXdHCh1c) | 5:57 | 2022-07-27 |  |
@@ -1346,7 +1348,7 @@
 | [Softly](https://open.spotify.com/track/0mLgBPyBT5R9Kde744lDqc) | [Tidals](https://open.spotify.com/artist/6c6xHmDZwxP3QUxXw9RFlK) | [Softly](https://open.spotify.com/album/46m4KPQ2M68RrOdaHqtBsb) | 2:05 | 2021-03-23 | 2022-07-22 |
 | [Soirée Chorale](https://open.spotify.com/track/58IwKBN3bFuJwub5Z5TaGO) | [Neil Mansella](https://open.spotify.com/artist/6R6OzpQPL5Mh9ulcQy6CET) | [Soirée Chorale](https://open.spotify.com/album/2aIxLvoCk2Br7q9kPCSkY6) | 2:16 | 2022-06-14 | 2022-07-08 |
 | [Sol Lucet](https://open.spotify.com/track/5xK6Cl0JX7aKAuNEzFhyRn) | [Melanie Brown](https://open.spotify.com/artist/5pxml4hhSFevcsonpJOIgp) | [Sol Lucet](https://open.spotify.com/album/2Cgbz7Tw2GWOMtkoPPz2p7) | 3:48 | 2022-04-14 | 2022-04-16 |
-| [Solace](https://open.spotify.com/track/0c3pAQGKjwHKo9ilC8i8c5) | [Armando Bauer](https://open.spotify.com/artist/1pIK8qkorRfrjvr4Idrm9W) | [Solace](https://open.spotify.com/album/5ECVYCYDwCfXed8eeJuIIj) | 1:57 | 2022-12-22 |  |
+| [Solace](https://open.spotify.com/track/0c3pAQGKjwHKo9ilC8i8c5) | [Armando Bauer](https://open.spotify.com/artist/1pIK8qkorRfrjvr4Idrm9W) | [Solace](https://open.spotify.com/album/5ECVYCYDwCfXed8eeJuIIj) | 1:57 | 2022-12-22 | 2023-10-18 |
 | [Solace](https://open.spotify.com/track/6axlKJ7OnW6zxM16Hxwbb0) | [Claire Lerdier](https://open.spotify.com/artist/4qp7WWCDH2089pH1yOHX1k) | [Solace](https://open.spotify.com/album/1ZwWzrEoQskuYYnN9bMXgB) | 2:31 | 2022-12-22 |  |
 | [Solemn Resolve](https://open.spotify.com/track/1wDBNwgv9WWqJIdZ6bIv8Z) | [Simon Vouet](https://open.spotify.com/artist/4lj4RXgWmv0T5xx561yT1b) | [Solemn Resolve](https://open.spotify.com/album/2AC4nZdkODSXUiQAX8UbIM) | 2:18 | 2022-02-01 | 2022-02-06 |
 | [Solitaire](https://open.spotify.com/track/4YMvriirsclBSASn6serSA) | [Auguste Léon](https://open.spotify.com/artist/5bGNRY7ynJDYPD22BWT05Q) | [Solitaire](https://open.spotify.com/album/3Ji3wmlRwoq8eCnOR8uXpS) | 3:04 | 2021-03-16 | 2021-03-17 |
@@ -1609,7 +1611,7 @@
 | [Tuning the Picture](https://open.spotify.com/track/16bkyOOqnn6SDXjpQyqBhh) | [Allison Stuart](https://open.spotify.com/artist/16ZEUWmdIWUGPIuYKDb9MV) | [Tuning the Picture](https://open.spotify.com/album/1H0yb40JbDayKijQBsjKu0) | 2:56 | 2021-10-14 | 2021-10-16 |
 | [Turn](https://open.spotify.com/track/0y7I045qDUH1carkgTB2UG) | [Hideyuki Hashimoto](https://open.spotify.com/artist/3NMfMCA11Xo7RUc91o64Og) | [Under](https://open.spotify.com/album/0tVEjAfGFPBdtvql2BUHKs) | 2:39 | 2023-07-06 |  |
 | [Turn Left](https://open.spotify.com/track/6LBWoasSTImUnGUoweyXL5) | [Cisum](https://open.spotify.com/artist/467kFA1pXD8TMuXyyGKUYi) | [Focus Your Brain \- Deep Ambient Soundscapes Vol 1](https://open.spotify.com/album/6EK5AiyrCaxi8Hlp7UfMgr) | 3:29 | 2021-03-16 | 2021-05-14 |
-| [Twilights](https://open.spotify.com/track/10qZCmeusg6BbdHDTMADpr) | [Mirta da Silva](https://open.spotify.com/artist/0lQPyV27qv4l2vBbFJsImj) | [Twilights](https://open.spotify.com/album/5gjIbZAtznmk77DLADIGFY) | 2:17 | 2023-04-15 |  |
+| [Twilights](https://open.spotify.com/track/10qZCmeusg6BbdHDTMADpr) | [Mirta da Silva](https://open.spotify.com/artist/0lQPyV27qv4l2vBbFJsImj) | [Twilights](https://open.spotify.com/album/5gjIbZAtznmk77DLADIGFY) | 2:17 | 2023-04-15 | 2023-10-18 |
 | [Twinkling Star](https://open.spotify.com/track/15ZnW0rCGJvb0fV2N3nN1r) | [Clark Ingram](https://open.spotify.com/artist/7KRZnmd0jO9gxrxNxJYK8X) | [Sleepy Baby Piano](https://open.spotify.com/album/4F64kqOUZucHOwcfftBJ5u) | 2:50 | 2021-04-23 | 2022-04-17 |
 | [Two By Two](https://open.spotify.com/track/2dZXwYe7bHnLN7vHXIiGRB) | [Martin Greenbaum](https://open.spotify.com/artist/2OaV087psXxou4fTQOpfdh) | [Folk Dances](https://open.spotify.com/album/32CyfCvWsvfa17HsxAoodi) | 2:03 | 2022-03-29 | 2022-04-11 |
 | [Two Dogs](https://open.spotify.com/track/1Tdur1cMW2Lz1D9nWWEJQ9) | [Tim Tulsa](https://open.spotify.com/artist/3Y0NNIhUZN9aOR4Y0J39hI) | [A Quiet House](https://open.spotify.com/album/5TGFFhvBnZN4tVcWqsmmDJ) | 2:03 | 2021-03-17 | 2022-07-28 |
@@ -1718,6 +1720,7 @@
 | [Whole Breaths](https://open.spotify.com/track/2kUno3T4aQEZcX96iRWxTO) | [Genevieve Harding](https://open.spotify.com/artist/5bQclaUyw221JG0BsDceAS) | [Whole Breaths](https://open.spotify.com/album/2qHWi9gDsue0bh7C490ENt) | 2:58 | 2021-05-24 | 2021-05-25 |
 | [Willow](https://open.spotify.com/track/7vGB0te1eym1Gf8NJlXKF7) | [Herbert Campas](https://open.spotify.com/artist/4xviN6HgtlSmFSSoetwtMy) | [Willow](https://open.spotify.com/album/0Dj4cbCUpaInhC1CfukTwT) | 2:06 | 2021-03-09 | 2022-07-27 |
 | [Windmills](https://open.spotify.com/track/1vMhhdVx2OF1F6WS2y1S0n) | [Ossie Woods](https://open.spotify.com/artist/2RNWon12U1hD0DZNKPwXVl) | [Windmills](https://open.spotify.com/album/642yKB6e6rCEUuzke950pq) | 3:10 | 2021-05-17 | 2021-05-18 |
+| [Window Seat](https://open.spotify.com/track/6GRjlkZ7MxKtRC4jsJzQxv) | [Dwight Rivera](https://open.spotify.com/artist/418rmHL9Xl5t9hCYF1Wgyl) | [Window Seat](https://open.spotify.com/album/7qaaLpJ9QuQzAwbsZOd6PF) | 2:25 | 2023-10-17 |  |
 | [Windspiel](https://open.spotify.com/track/5UvdAChDs1Rr0GYEkUMZma) | [Dario Lessing](https://open.spotify.com/artist/0EocooOvTYLsjqSSQdqiyi), [Kris Steininger](https://open.spotify.com/artist/0GJwTqQAbBrHQ44tXTJ1Sb) | [Windspiel](https://open.spotify.com/album/4eeDKOvHgtYecnij6AtgI7) | 3:01 | 2022-12-22 | 2023-04-16 |
 | [Windswept](https://open.spotify.com/track/716WusJfauRzjUjNEKs4Cd) | [Aimee Fleur](https://open.spotify.com/artist/6nI0MtO93pTNhec5pbP43B) | [Windswept](https://open.spotify.com/album/4GXv9uCvk3MF3c37pLWfxz) | 2:26 | 2021-05-04 | 2021-05-22 |
 | [Wings](https://open.spotify.com/track/5gzB9qeItbkEUsa3aWixGA) | [Saga Rosen](https://open.spotify.com/artist/1L5M0TJ4t90azMZieWzJAx) | [Wings](https://open.spotify.com/album/73t4hMXjX9rIeW2zOCkElS) | 3:01 | 2021-03-17 | 2022-04-11 |

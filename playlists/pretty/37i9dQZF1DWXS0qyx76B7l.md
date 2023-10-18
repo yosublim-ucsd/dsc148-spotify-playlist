@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXS0qyx76B7l.md) - [plain]
 
 > Songs about the iconic city\. Welcome to the Big Apple!
 
-[Spotify](https://open.spotify.com/user/spotify) - 127,548 likes - 50 songs - 3 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 127,629 likes - 50 songs - 3 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXS0qyx76B7l.md) - [plain]
 | 49 | [The Rising](https://open.spotify.com/track/2czBvzOv3TvnyoW7Ozo7fP) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [The Rising](https://open.spotify.com/album/23vzCh5cDn0LzdGmGWrT1d) | 4:47 |
 | 50 | [Downtown Train \- 2023 Remaster](https://open.spotify.com/track/1kQToxrczVpLtYdssdOsrr) | [Tom Waits](https://open.spotify.com/artist/7x83XhcMbOTl1UdYsPTuZM) | [Rain Dogs \(2023 Remaster\)](https://open.spotify.com/album/51CvLH7MxsLuFgTwVvzApx) | 3:52 |
 
-Snapshot ID: `MCwwNjQ1ZTJiYmUxZDhmNjgyOGMzM2Y1ZTNkMDU5Y2QxZTc5YTViMDk5`
+Snapshot ID: `MCw0ODUxMTFhYjU3YWVkYzIzMjE5NDI3NmZkN2YxNjg2YzMwZWJlMDI0`

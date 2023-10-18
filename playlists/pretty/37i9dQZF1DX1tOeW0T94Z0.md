@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1tOeW0T94Z0.md) - [plain]
 
 > Nothing but precious sounds from the 90s & 2000s\. Cover: Maestro Fresh Wes
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,605 likes - 75 songs - 4 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,612 likes - 75 songs - 4 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1tOeW0T94Z0.md) - [plain]
 | 74 | [Rewind](https://open.spotify.com/track/1PHtMv7FD30owJuNl2N1tE) | [Andreena](https://open.spotify.com/artist/6Yj9DHVH5JLhPFQMlhG28v), [Saukrates](https://open.spotify.com/artist/4xvUHg4mIFbXo2caP0PO73) | [Rewind](https://open.spotify.com/album/0aEQ1YQNcx2bWHCukaefna) | 3:31 |
 | 75 | [The Radio Edit](https://open.spotify.com/track/3LucZMivE3CYFWGFgdao1Q) | [Sugar Jones](https://open.spotify.com/artist/3PDXxxiHRyqwU2GLg6zJHT), [Justin Grey For Big Boom Entertainment](https://open.spotify.com/artist/05JfwFiagvihkfnK64VP9g) | [Days Like That](https://open.spotify.com/album/3MCI6hWXIU3ViGaITU6yz3) | 3:49 |
 
-Snapshot ID: `MCw1NjY5YzJhMDU1YTg5YWM5OTlhYWM5MmIwNTUwNjhhZWQ3MmUwZWU5`
+Snapshot ID: `MCw5ZGExZjU1Y2RhNmYwZDI2MTlmOGMzMDE1ZDc3MmFhMTc3NTZjZjBj`

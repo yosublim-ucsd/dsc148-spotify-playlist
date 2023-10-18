@@ -4,7 +4,7 @@
 
 > The ocean, the sun, your friends, the music.
 
-580 songs - 1 day 7 hr 11 min
+581 songs - 1 day 7 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,7 +33,8 @@
 | [Another Chance \- Radio Edit](https://open.spotify.com/track/0EvphKjVl4hVGvvAFYoJt1) | [Roger Sanchez](https://open.spotify.com/artist/1HT9k1ZSUL9IczSstOAgWJ) | [Dance Floor Anthems](https://open.spotify.com/album/7yhnBLWv6EZ5BRY8oYLdYC) | 3:27 | 2021-04-09 | 2022-07-29 |
 | [Anti\-Hero \- Kungs Remix](https://open.spotify.com/track/1h0GRtSo5NeVVb1vqb5Uh1) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02), [Kungs](https://open.spotify.com/artist/7keGfmQR4X5w0two1xKZ7d) | [Anti\-Hero \(Remixes\)](https://open.spotify.com/album/1UPhbHGeoVyk7RSbfjJMOA) | 3:14 | 2023-08-07 |  |
 | [Anywhere](https://open.spotify.com/track/1sgOeFTCjl8Mi2bLZOMqIY) | [Lucas & Steve](https://open.spotify.com/artist/5wwneIFdawNgQ7GvKK29Z3) | [Anywhere](https://open.spotify.com/album/3LTKHTy7Gx5nATPKAojNyo) | 2:56 | 2022-03-29 | 2023-03-03 |
-| [Are You With Me \- Radio Edit](https://open.spotify.com/track/62nhuooamoroYpJyqE0nLd) | [Lost Frequencies](https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7) | [Less Is More](https://open.spotify.com/album/5HXThyoACKMuMdRU5HosWH) | 2:18 | 2022-03-29 |  |
+| [Are You With Me \- Radio Edit](https://open.spotify.com/track/2glGP8kEfACgJdZ86kWxhN) | [Lost Frequencies](https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7) | [Less Is More](https://open.spotify.com/album/57AJ70IWVE0pmPwNYBa4PT) | 2:18 | 2023-08-07 |  |
+| [Are You With Me \- Radio Edit](https://open.spotify.com/track/62nhuooamoroYpJyqE0nLd) | [Lost Frequencies](https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7) | [Less Is More](https://open.spotify.com/album/5HXThyoACKMuMdRU5HosWH) | 2:18 | 2022-03-29 | 2023-10-18 |
 | [Are You With Me \- Radio Edit](https://open.spotify.com/track/477daPpd3DnneaHhvjM35l) | [Lost Frequencies](https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7) | [Are You With Me](https://open.spotify.com/album/2Kbo8nu3JuyamYBZoO5ltG) | 2:18 | 2021-04-09 | 2022-07-29 |
 | [As It Was](https://open.spotify.com/track/4Dvkj6JhhA12EX05fT7y2e) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Harry's House](https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h) | 2:47 | 2023-03-02 |  |
 | [Astronaut In The Ocean](https://open.spotify.com/track/1xOgDZRSKEHZXAdVkT0GJE) | [Crystal Rock](https://open.spotify.com/artist/7eehGkMnqCS6Hp7HJIXH9e), [Felix Schorn](https://open.spotify.com/artist/5Y3LAQBJps65m6FDjYimC4), [NOTSOBAD](https://open.spotify.com/artist/2aLLYZ0sdqweMEPFUyYIXJ), [Citycreed](https://open.spotify.com/artist/1t6HSm0c9XHmo2uM37JPCc) | [Astronaut In The Ocean](https://open.spotify.com/album/6AR7qwFFcW7UIAvunTIgMg) | 2:13 | 2021-07-23 | 2023-05-16 |

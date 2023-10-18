@@ -1,13 +1,45 @@
 {
   "description": "The full collection of Spotify Singles recordings. Cover: Bad Snacks.\nFeeling inspired? Check out Bad Snacks' exclusive sound pack for <a href=\u201chttps://www.soundtrap.com/\u201d>Soundtrap, </a>  Spotify\u2019s online music studio for songwriters and beat makers. \n",
-  "num_followers": 217738,
+  "num_followers": 217749,
   "original_name": "Spotify Singles: Complete Collection",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzZDE5Mjk3YzM0NjgwNDJjYWViZDg0NTY3OGQxM2RjOWZiYTY1Zjg3",
+  "snapshot_id": "MCw3YTU1MTIwYjdlOWM5NzQ1MzQ4MDM3ZDgxOWE5YzRkMjM4M2YxMTIz",
   "tracks": [
+    {
+      "added_at": "2023-10-17 18:36:45",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/1fCKaE5RLL5N26iReqbVPp"
+      },
+      "artists": [
+        {
+          "name": "Odetari",
+          "url": "https://open.spotify.com/artist/7ITMCzIU9uII8gwRg8JAhc"
+        }
+      ],
+      "duration_ms": 129445,
+      "name": "GREEN GOBLIN - Spotify Singles",
+      "url": "https://open.spotify.com/track/1OiiHxQFLMftJpw5C8Vrar"
+    },
+    {
+      "added_at": "2023-10-17 18:36:45",
+      "album": {
+        "name": "Monster (Spotify Singles)",
+        "url": "https://open.spotify.com/album/62iTVhERPubeRu59a3HRqF"
+      },
+      "artists": [
+        {
+          "name": "Slayyyter",
+          "url": "https://open.spotify.com/artist/4QM5QCHicznALtX885CnZC"
+        }
+      ],
+      "duration_ms": 237989,
+      "name": "Monster - Spotify Singles",
+      "url": "https://open.spotify.com/track/2EYDqen8Pftl3ENvqOs6fE"
+    },
     {
       "added_at": "2023-10-02 17:57:02",
       "album": {

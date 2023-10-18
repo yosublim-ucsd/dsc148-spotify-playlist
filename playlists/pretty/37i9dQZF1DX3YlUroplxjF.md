@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3YlUroplxjF.md) - [plain]
 
 > A heavy collision of punk, hardcore and everything in between\. Cover: Knocked Loose
 
-[Spotify](https://open.spotify.com/user/spotify) - 466,937 likes - 100 songs - 5 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 467,053 likes - 100 songs - 5 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,15 +38,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3YlUroplxjF.md) - [plain]
 | 28 | [BLURRY \(out of place\)](https://open.spotify.com/track/14uAFiZ94iMTeEpXq1cLCi) | [Crown The Empire](https://open.spotify.com/artist/2vKiJjsgjgqIECUyYeIVvO) | [Sudden Sky](https://open.spotify.com/album/2L6KNKYHaXNPj4lXHSp5vb) | 3:20 |
 | 29 | [Call Me Little Sunshine](https://open.spotify.com/track/4W6MuwB3D4fjc0kLlUKZEl) | [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D) | [Call Me Little Sunshine](https://open.spotify.com/album/0K1mTbmQQ6pcVLoxgk6WMq) | 4:44 |
 | 30 | [Like a Shadow](https://open.spotify.com/track/5AEMIxJzEsZhdJMWattYUq) | [Holding Absence](https://open.spotify.com/artist/2tl280wIokrLjabzrSKTgU) | [Holding Absence](https://open.spotify.com/album/6xEQWs9XbaJBGAy4Jv7piM) | 3:55 |
-| 31 | [Son of Robot](https://open.spotify.com/track/3ZH8mv5AfnCUY7pxbO52uu) | [Dance Gavin Dance](https://open.spotify.com/artist/6guC9FqvlVboSKTI77NG2k) | [Artificial Selection](https://open.spotify.com/album/6rBnEJJUih41OU4AemGs4y) | 3:58 |
-| 32 | [High Horse](https://open.spotify.com/track/5ebWSNwQKrnZzx4jvoGX6W) | [Wage War](https://open.spotify.com/artist/6bu7CtcOMWcS0BMq7snHW6) | [Manic](https://open.spotify.com/album/2gSVPsycPerzCuSd67ENuF) | 2:48 |
+| 31 | [High Horse](https://open.spotify.com/track/5ebWSNwQKrnZzx4jvoGX6W) | [Wage War](https://open.spotify.com/artist/6bu7CtcOMWcS0BMq7snHW6) | [Manic](https://open.spotify.com/album/2gSVPsycPerzCuSd67ENuF) | 2:48 |
+| 32 | [Son of Robot](https://open.spotify.com/track/3ZH8mv5AfnCUY7pxbO52uu) | [Dance Gavin Dance](https://open.spotify.com/artist/6guC9FqvlVboSKTI77NG2k) | [Artificial Selection](https://open.spotify.com/album/6rBnEJJUih41OU4AemGs4y) | 3:58 |
 | 33 | [Holding Me Down](https://open.spotify.com/track/3RsrKzD7rntAYMbiBt7tM0) | [Picturesque](https://open.spotify.com/artist/412BedlPBwXH6Dz6xetzGI) | [Do You Feel O.K?](https://open.spotify.com/album/1CWHxErIR0tuKkVf6rZt4X) | 3:29 |
 | 34 | [Forgotten](https://open.spotify.com/track/00BBwHjAf8WWq4HcOtEJO1) | [Korn](https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD) | [Requiem](https://open.spotify.com/album/7J0BUlxogdpZAtuZnhomb0) | 3:17 |
 | 35 | [Bury a Lie](https://open.spotify.com/track/1RNS0ntWy01bZpPkrjJAyt) | [Rain City Drive](https://open.spotify.com/artist/4rMxZovfLSDjEL9eI2pKo7) | [To Better Days](https://open.spotify.com/album/0R8nkP9bWyoCi6NuetVq5p) | 3:16 |
 | 36 | [Monochrome](https://open.spotify.com/track/2Rw6wkd0q3LXx5xsdjLs1P) | [BABYMETAL](https://open.spotify.com/artist/630wzNP2OL7fl4Xl0GnMWq) | [Monochrome](https://open.spotify.com/album/6IoOqdEHdwLgfUONXeYvoI) | 3:57 |
 | 37 | [Instability](https://open.spotify.com/track/0hNgeS6kzIC4Rtdz4L0jsN) | [Dragged Under](https://open.spotify.com/artist/3D1uNqaasEWzallSxKo1cH) | [The World Is In Your Way \(Deluxe Edition\)](https://open.spotify.com/album/46U6TW57g10lUujKjyzZiG) | 3:45 |
-| 38 | [Lyrics Lie](https://open.spotify.com/track/46IUSULlL2SAmyyHHpXQJz) | [Dance Gavin Dance](https://open.spotify.com/artist/6guC9FqvlVboSKTI77NG2k) | [Afterburner](https://open.spotify.com/album/7MfryRchXoNRwG5YbbDL1S) | 3:56 |
-| 39 | [when we were young](https://open.spotify.com/track/5wTfzzRW8ddRdgW2kASbox) | [Architects](https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv) | [when we were young](https://open.spotify.com/album/2ZGOqvkbQFLEayRqXxGjc9) | 3:13 |
+| 38 | [when we were young](https://open.spotify.com/track/5wTfzzRW8ddRdgW2kASbox) | [Architects](https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv) | [when we were young](https://open.spotify.com/album/2ZGOqvkbQFLEayRqXxGjc9) | 3:13 |
+| 39 | [Lyrics Lie](https://open.spotify.com/track/46IUSULlL2SAmyyHHpXQJz) | [Dance Gavin Dance](https://open.spotify.com/artist/6guC9FqvlVboSKTI77NG2k) | [Afterburner](https://open.spotify.com/album/7MfryRchXoNRwG5YbbDL1S) | 3:56 |
 | 40 | [New England Palm Trees](https://open.spotify.com/track/7sxEeJ4ers4gOZ1W3YEnPP) | [Wind Walkers](https://open.spotify.com/artist/2K2bsaNeuQAFkuVwrrlJe0) | [The Lost Boys](https://open.spotify.com/album/5SAwCFrq2Is2UWzfXwjBlL) | 3:31 |
 | 41 | [Mother](https://open.spotify.com/track/7klLTLP8zff6I83OK0AMgO) | [IDLES](https://open.spotify.com/artist/75mafsNqNE1WSEVxIKuY5C) | [Brutalism](https://open.spotify.com/album/5qag6esZLv5ySuCpzh7CE6) | 3:27 |
 | 42 | [NO WAY OUT](https://open.spotify.com/track/7oib44NmCMvGNWnDDJjv5C) | [The Word Alive](https://open.spotify.com/artist/1CF8aEN939swnuIZGFI7Hk) | [MONOMANIA](https://open.spotify.com/album/2FxbVATTBMwI7ytSsYMp6f) | 3:35 |
@@ -81,12 +81,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3YlUroplxjF.md) - [plain]
 | 71 | [DEATH \(Ever Colder\)](https://open.spotify.com/track/7tAUrb26TuIeZlVVvn9XdJ) | [Bury Tomorrow](https://open.spotify.com/artist/6BD4lgmnh4vy6kkCaZRDWt) | [DEATH \(Ever Colder\)](https://open.spotify.com/album/312yRj61uGSmld6RIl9zl4) | 4:47 |
 | 72 | [Pick Me Up](https://open.spotify.com/track/0u6WZr90OXffdCGY6xer1r) | [Too Close To Touch](https://open.spotify.com/artist/2XziUthG3Ug3eiWuE5KRsp) | [I'm Hard To Love, But So Are You, Vol\. 4](https://open.spotify.com/album/3DyfZShpkj7K8kt1tt77mE) | 3:23 |
 | 73 | [Domino](https://open.spotify.com/track/6rYBRpj2tKN3pTnrugVuZF) | [Hail The Sun](https://open.spotify.com/artist/0XblvrTo6mnHOxWIP1t5T6) | [New Age Filth](https://open.spotify.com/album/5DGfTPWaXmfdiwlUOBzZdh) | 4:24 |
-| 74 | [Blue](https://open.spotify.com/track/2BJ0Mc3zhb4tmcERvbXKTw) | [Savage Hands](https://open.spotify.com/artist/3z1C31NkSQPWEFGkXCp3zx) | [The Truth in Your Eyes](https://open.spotify.com/album/5oybwxacDqLiTEkSyILpNm) | 3:47 |
-| 75 | [Were You Nervous?](https://open.spotify.com/track/0NbSknyxXKyeodt8udVDI0) | [Speech Patterns](https://open.spotify.com/artist/5dIfnkclImFkRSKrSVLt3e) | [Were You Nervous?](https://open.spotify.com/album/4QZSzjWjWwLVklcNmPuK5Q) | 3:28 |
+| 74 | [Were You Nervous?](https://open.spotify.com/track/0NbSknyxXKyeodt8udVDI0) | [Speech Patterns](https://open.spotify.com/artist/5dIfnkclImFkRSKrSVLt3e) | [Were You Nervous?](https://open.spotify.com/album/4QZSzjWjWwLVklcNmPuK5Q) | 3:28 |
+| 75 | [Blue](https://open.spotify.com/track/2BJ0Mc3zhb4tmcERvbXKTw) | [Savage Hands](https://open.spotify.com/artist/3z1C31NkSQPWEFGkXCp3zx) | [The Truth in Your Eyes](https://open.spotify.com/album/5oybwxacDqLiTEkSyILpNm) | 3:47 |
 | 76 | [Signs](https://open.spotify.com/track/7v6YqvhuUAJXn08bOT9JBs) | [Caskets](https://open.spotify.com/artist/2XIbOWDT5vZPW7jNyzdfcK) | [Ghost Like You](https://open.spotify.com/album/5IHiJ6cpup8qShT8s3rUJG) | 4:28 |
 | 77 | [In Our Wake](https://open.spotify.com/track/5CSBjkNvlyaDcYlbTuHZHP) | [Atreyu](https://open.spotify.com/artist/3LkSiHbjqOHCKCqBfEZOTv) | [In Our Wake](https://open.spotify.com/album/1DXYDky3yWmlZyfknW5UT8) | 3:13 |
-| 78 | [Drop Dead](https://open.spotify.com/track/1tUcwqSoPi1b9xDxietEjy) | [Driveways](https://open.spotify.com/artist/4OuSiJSnuRsK0dTM0dtm1R) | [Night Terrors](https://open.spotify.com/album/4hAHQH6gtwj1eEN49xhpe5) | 3:33 |
-| 79 | [It's Over](https://open.spotify.com/track/1pShlPEW4nhGQeomZLCXtL) | [Silverstein](https://open.spotify.com/artist/1Tsag5J854qxeOo2apszug) | [It's Over](https://open.spotify.com/album/1yA0gGywa2o2KnHnvLUMq9) | 3:23 |
+| 78 | [It's Over](https://open.spotify.com/track/1pShlPEW4nhGQeomZLCXtL) | [Silverstein](https://open.spotify.com/artist/1Tsag5J854qxeOo2apszug) | [It's Over](https://open.spotify.com/album/1yA0gGywa2o2KnHnvLUMq9) | 3:23 |
+| 79 | [Drop Dead](https://open.spotify.com/track/1tUcwqSoPi1b9xDxietEjy) | [Driveways](https://open.spotify.com/artist/4OuSiJSnuRsK0dTM0dtm1R) | [Night Terrors](https://open.spotify.com/album/4hAHQH6gtwj1eEN49xhpe5) | 3:33 |
 | 80 | [Moonlit](https://open.spotify.com/track/41pMAwF1Z0Z7OhxGfPMDwb) | [Rivals](https://open.spotify.com/artist/5YKh4YDHFhZd987g6rn3oR) | [Damned Soul](https://open.spotify.com/album/29VUzmhLK0zvxyKCPU6AUe) | 3:37 |
 | 81 | [Break Me Down](https://open.spotify.com/track/6hUEwiltS9W4UdO3h2NCsK) | [Sleeping With Sirens](https://open.spotify.com/artist/3N8Hy6xQnQv1F1XCiyGQqA) | [How It Feels to Be Lost \(Deluxe\)](https://open.spotify.com/album/3L0vJbE2mnyvXbixErax8B) | 3:10 |
 | 82 | [Feel It](https://open.spotify.com/track/2UoHSNo1rTOoSH5KBHYvFe) | [Dragged Under](https://open.spotify.com/artist/3D1uNqaasEWzallSxKo1cH) | [The World Is In Your Way \(Deluxe Edition\)](https://open.spotify.com/album/46U6TW57g10lUujKjyzZiG) | 2:54 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3YlUroplxjF.md) - [plain]
 | 99 | [Stand Up](https://open.spotify.com/track/5UbS0IXeN6JCXFfFrAvBF0) | [Papa Roach](https://open.spotify.com/artist/4RddZ3iHvSpGV4dvATac9X) | [Stand Up](https://open.spotify.com/album/7A65ASxK8FMdNEFMQvRKG5) | 3:48 |
 | 100 | [Sweet Dreams of Otherness](https://open.spotify.com/track/02AtE63KsG9iYLaznzv2aM) | [Alexisonfire](https://open.spotify.com/artist/53RsXctnNmj9oKXvcbvzI2) | [Sweet Dreams of Otherness](https://open.spotify.com/album/5z9liNsv9Mnuhj7HSNWv1g) | 4:44 |
 
-Snapshot ID: `MCwwMTUwOTYzYjE4Y2Y2NDdkODk1ODE0ZDAwMjhmNDU5NDZmNjhhODhk`
+Snapshot ID: `MCw4OTFkNTM1ZWI0YWZhZTRhOGVjM2Q0YWU0NjFlNTdiNTliNjI2NTAx`

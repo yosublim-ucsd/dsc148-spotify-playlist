@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTBz12MDeCuX.md) - [plain]
 
 > Die Playlist, die dich fühlt\. Cover: Kenya Grace
 
-[Spotify](https://open.spotify.com/user/spotify) - 439,516 likes - 100 songs - 4 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 439,674 likes - 100 songs - 4 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -86,7 +86,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTBz12MDeCuX.md) - [plain]
 | 76 | [Rich Baby Daddy \(feat\. Sexyy Red & SZA\)](https://open.spotify.com/track/1yeB8MUNeLo9Ek1UEpsyz6) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A), [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [For All The Dogs](https://open.spotify.com/album/4czdORdCWP9umpbhFXK2fW) | 5:19 |
 | 77 | [Küss mich](https://open.spotify.com/track/5cKOROElbZXQHLdKKlJ7eJ) | [Ivo Martin](https://open.spotify.com/artist/4bId6MR2fskVKIeCSEmktg) | [Küss mich](https://open.spotify.com/album/0nDMvmUFg8KMRn1EYXH2eR) | 2:43 |
 | 78 | [Jung & dumm](https://open.spotify.com/track/04HhklbQjA1Z5ijLXNTeH6) | [Miksu / Macloud](https://open.spotify.com/artist/76dRoxKtDwYkgCQePok9cU), [Maikel](https://open.spotify.com/artist/2T1zM7AtA0Cd9u1m3PBFEY), [TYM](https://open.spotify.com/artist/70Rt4lMiib6ya5azoVK51v) | [Teil vom Ganzen](https://open.spotify.com/album/46WYDWDIojRYafGPTAsoTn) | 2:53 |
-| 79 | [Amour plastique](https://open.spotify.com/track/7M3HuQRRAm1QD4kftmq0bb) | [Videoclub](https://open.spotify.com/artist/3rp4f58JlRHkk8hpdLCer1), [Adèle Castillon](https://open.spotify.com/artist/4ueh4hmRvt62k4BgP8dIS0), [Mattyeux](https://open.spotify.com/artist/3bFokK6zCab3bPwSjktEVF) | [Amour plastique](https://open.spotify.com/album/3wcUR4eM3Ccp8uZ0lBXCGJ) | 3:47 |
+| 79 | [Amour plastique](https://open.spotify.com/track/269XSeQhDrWEotMALJaACW) | [Videoclub](https://open.spotify.com/artist/3rp4f58JlRHkk8hpdLCer1), [Adèle Castillon](https://open.spotify.com/artist/4ueh4hmRvt62k4BgP8dIS0), [Mattyeux](https://open.spotify.com/artist/3bFokK6zCab3bPwSjktEVF) | [Euphories](https://open.spotify.com/album/1WfIjwnJ0aHiWCSkeSSeuV) | 3:45 |
 | 80 | [Time](https://open.spotify.com/track/6MxMqCgqmekcr0VwSU7AVH) | [NF](https://open.spotify.com/artist/6fOMl44jA4Sp5b9PpYCkzz) | [The Search](https://open.spotify.com/album/46xdC4Qcvscfs3Ai2RIHcv) | 4:00 |
 | 81 | [viel zu lang her](https://open.spotify.com/track/5A3yKMksw7mdA1dXetlKaA) | [$ubria](https://open.spotify.com/artist/6qI5OaCAenX62HTorD3VRN) | [viel zu lang her](https://open.spotify.com/album/5VfLnRKVfzX3QhWhvpV9Oi) | 3:13 |
 | 82 | [zeit zu gehen](https://open.spotify.com/track/1kcOpvFgvMrjZqYyBNrXRJ) | [t\-low](https://open.spotify.com/artist/3tQzzidoPfVifoURnDfgmD), [LEX](https://open.spotify.com/artist/4sihWBudLgIj87L6PRfrpT) | [zeit zu gehen](https://open.spotify.com/album/7vZGGclFuHe3KxqSXUnjq9) | 3:54 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTBz12MDeCuX.md) - [plain]
 | 99 | [All Good Things](https://open.spotify.com/track/5Dc2buMJO2gcCrc7v4sqIr) | [$ONO$ CLIQ](https://open.spotify.com/artist/2p0GGGDaJg2xsfwSFBfxWI), [Jonko2x](https://open.spotify.com/artist/6chEDyQBsFDKtHLRLIU4Ke), [Radrik Gee](https://open.spotify.com/artist/4L8VUCcp2bL2swKEBigiaF) | [All Good Things](https://open.spotify.com/album/2jCBcS6QDRON8UxqdXBkBK) | 2:58 |
 | 100 | [No Diggity](https://open.spotify.com/track/6MdqqkQ8sSC0WB4i8PyRuQ) | [Blackstreet](https://open.spotify.com/artist/2P3cjUru4H3fhSXXNxE9kA), [Dr\. Dre](https://open.spotify.com/artist/6DPYiyq5kWVQS4RGwxzPC7), [Queen Pen](https://open.spotify.com/artist/0VbIlorLz3I5SEtIsc5vAr) | [Another Level](https://open.spotify.com/album/2zGZLQiFl9UubtrVmtIkbi) | 5:04 |
 
-Snapshot ID: `MCw5MmM0N2Y2Yzc3NzFmYWRiZTUxM2Q4NTBiYzRkZTAzY2RjZDIyMTJi`
+Snapshot ID: `MCxkNDc5NmU4ZDVmZTE4ZWU5ZjkxZTYyNzNjZmExMmUxOTQ2ODVkNzRm`

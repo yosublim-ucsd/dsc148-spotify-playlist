@@ -1,12 +1,12 @@
 {
   "description": "Left of center indie/alternative LGBTQIA+ artists. Cover: The Japanese House",
-  "num_followers": 140820,
+  "num_followers": 140915,
   "original_name": "Alternative Pride",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxNDg1NzUyNmRmYTYxYWJjYjMxOWU4NWIzYjdlYzEzNzY5YTA0MmU1",
+  "snapshot_id": "MCw2YjRhOWQ1MjkwMWNkNjRjZTdiZmNjZTY2ZjE3NjI5Zjc1MjZhYWFk",
   "tracks": [
     {
       "added_at": "2023-06-01 04:00:00",
@@ -533,6 +533,22 @@
       "url": "https://open.spotify.com/track/7D0q9XQg10KdlrjdDrrHph"
     },
     {
+      "added_at": "2023-03-07 19:29:41",
+      "album": {
+        "name": "Got Weird",
+        "url": "https://open.spotify.com/album/2NBdHnQrggzuLN3FgeO9Om"
+      },
+      "artists": [
+        {
+          "name": "dodie",
+          "url": "https://open.spotify.com/artist/21TinSsF5ytwsfdyz5VSVS"
+        }
+      ],
+      "duration_ms": 202435,
+      "name": "Got Weird",
+      "url": "https://open.spotify.com/track/5z1KeOpL9n1b3iFAJk91iu"
+    },
+    {
       "added_at": "2023-06-01 04:00:00",
       "album": {
         "name": "To Be Yours",
@@ -551,22 +567,6 @@
       "duration_ms": 211782,
       "name": "To Be Yours",
       "url": "https://open.spotify.com/track/3lNBpsW30g2xSngVw2l1U7"
-    },
-    {
-      "added_at": "2023-03-07 19:29:41",
-      "album": {
-        "name": "Got Weird",
-        "url": "https://open.spotify.com/album/2NBdHnQrggzuLN3FgeO9Om"
-      },
-      "artists": [
-        {
-          "name": "dodie",
-          "url": "https://open.spotify.com/artist/21TinSsF5ytwsfdyz5VSVS"
-        }
-      ],
-      "duration_ms": 202435,
-      "name": "Got Weird",
-      "url": "https://open.spotify.com/track/5z1KeOpL9n1b3iFAJk91iu"
     },
     {
       "added_at": "2023-06-01 04:00:00",
@@ -601,22 +601,6 @@
       "url": "https://open.spotify.com/track/6xlO0KbxxktH6OnY56wkwF"
     },
     {
-      "added_at": "2023-06-01 04:00:00",
-      "album": {
-        "name": "sulky baby",
-        "url": "https://open.spotify.com/album/3MvISUCBgt0rFXGhuxJ7IJ"
-      },
-      "artists": [
-        {
-          "name": "yeule",
-          "url": "https://open.spotify.com/artist/1WZarnZpWEv7dDtjAETt4X"
-        }
-      ],
-      "duration_ms": 278998,
-      "name": "sulky baby",
-      "url": "https://open.spotify.com/track/3GnahtjoeFUWAu6vEYQnzH"
-    },
-    {
       "added_at": "2023-03-07 19:29:41",
       "album": {
         "name": "Set My Heart On Fire Immediately",
@@ -631,6 +615,22 @@
       "duration_ms": 303600,
       "name": "On the Floor",
       "url": "https://open.spotify.com/track/05HElY3EVth4SMuOJOGusl"
+    },
+    {
+      "added_at": "2023-06-01 04:00:00",
+      "album": {
+        "name": "sulky baby",
+        "url": "https://open.spotify.com/album/3MvISUCBgt0rFXGhuxJ7IJ"
+      },
+      "artists": [
+        {
+          "name": "yeule",
+          "url": "https://open.spotify.com/artist/1WZarnZpWEv7dDtjAETt4X"
+        }
+      ],
+      "duration_ms": 278998,
+      "name": "sulky baby",
+      "url": "https://open.spotify.com/track/3GnahtjoeFUWAu6vEYQnzH"
     },
     {
       "added_at": "2023-03-07 19:29:41",
@@ -733,22 +733,6 @@
       "url": "https://open.spotify.com/track/1cP1tHCWCiiOJRJtSvESbu"
     },
     {
-      "added_at": "2023-06-30 04:00:00",
-      "album": {
-        "name": "INDUSTRY GAMES",
-        "url": "https://open.spotify.com/album/0tTGA5SQN17ewHMpisb0n0"
-      },
-      "artists": [
-        {
-          "name": "CHIKA",
-          "url": "https://open.spotify.com/artist/6UtYvUtXnmg5EtllDFlWp8"
-        }
-      ],
-      "duration_ms": 241612,
-      "name": "SONGS ABOUT YOU",
-      "url": "https://open.spotify.com/track/2Fxly6AusNFtTf8ZBaVWnh"
-    },
-    {
       "added_at": "2023-03-07 19:29:41",
       "album": {
         "name": "My Friend Mica",
@@ -763,6 +747,22 @@
       "duration_ms": 173905,
       "name": "Legs",
       "url": "https://open.spotify.com/track/4uP0hLJCQCm8PkXXCLw9Js"
+    },
+    {
+      "added_at": "2023-06-30 04:00:00",
+      "album": {
+        "name": "INDUSTRY GAMES",
+        "url": "https://open.spotify.com/album/0tTGA5SQN17ewHMpisb0n0"
+      },
+      "artists": [
+        {
+          "name": "CHIKA",
+          "url": "https://open.spotify.com/artist/6UtYvUtXnmg5EtllDFlWp8"
+        }
+      ],
+      "duration_ms": 241612,
+      "name": "SONGS ABOUT YOU",
+      "url": "https://open.spotify.com/track/2Fxly6AusNFtTf8ZBaVWnh"
     },
     {
       "added_at": "2023-06-01 04:00:00",
@@ -1025,22 +1025,6 @@
       "url": "https://open.spotify.com/track/47UhZ9fjTEIOjOe4gktZN9"
     },
     {
-      "added_at": "2023-03-07 19:29:41",
-      "album": {
-        "name": "DEACON",
-        "url": "https://open.spotify.com/album/7dHEw1ug6SGPnGa74DQMxV"
-      },
-      "artists": [
-        {
-          "name": "serpentwithfeet",
-          "url": "https://open.spotify.com/artist/1O9iHQjrVuiAYOJFCBeFSl"
-        }
-      ],
-      "duration_ms": 219320,
-      "name": "Fellowship",
-      "url": "https://open.spotify.com/track/1gVB71qZLk0eGwZGaVIUcM"
-    },
-    {
       "added_at": "2023-06-01 04:00:00",
       "album": {
         "name": "Humor",
@@ -1055,6 +1039,22 @@
       "duration_ms": 136119,
       "name": "Basil Noodles",
       "url": "https://open.spotify.com/track/4dmDoUAL9cFrHkE5En0RPH"
+    },
+    {
+      "added_at": "2023-03-07 19:29:41",
+      "album": {
+        "name": "DEACON",
+        "url": "https://open.spotify.com/album/7dHEw1ug6SGPnGa74DQMxV"
+      },
+      "artists": [
+        {
+          "name": "serpentwithfeet",
+          "url": "https://open.spotify.com/artist/1O9iHQjrVuiAYOJFCBeFSl"
+        }
+      ],
+      "duration_ms": 219320,
+      "name": "Fellowship",
+      "url": "https://open.spotify.com/track/1gVB71qZLk0eGwZGaVIUcM"
     },
     {
       "added_at": "2023-03-07 19:29:41",
@@ -1123,22 +1123,6 @@
     {
       "added_at": "2023-03-07 19:29:41",
       "album": {
-        "name": "Pretty Lady",
-        "url": "https://open.spotify.com/album/6GvxhHWo3EyQLW94ftqtoz"
-      },
-      "artists": [
-        {
-          "name": "Tash Sultana",
-          "url": "https://open.spotify.com/artist/6zVFRTB0Y1whWyH7ZNmywf"
-        }
-      ],
-      "duration_ms": 277908,
-      "name": "Pretty Lady",
-      "url": "https://open.spotify.com/track/4o21k4S4YoueaUfiKkImea"
-    },
-    {
-      "added_at": "2023-03-07 19:29:41",
-      "album": {
         "name": "Someone Else",
         "url": "https://open.spotify.com/album/4Hu3O4jVEImkIqYmvq2KUk"
       },
@@ -1151,6 +1135,22 @@
       "duration_ms": 207946,
       "name": "Someone Else",
       "url": "https://open.spotify.com/track/43tQOLiTfoVwURdx5Ei7yr"
+    },
+    {
+      "added_at": "2023-03-07 19:29:41",
+      "album": {
+        "name": "Pretty Lady",
+        "url": "https://open.spotify.com/album/6GvxhHWo3EyQLW94ftqtoz"
+      },
+      "artists": [
+        {
+          "name": "Tash Sultana",
+          "url": "https://open.spotify.com/artist/6zVFRTB0Y1whWyH7ZNmywf"
+        }
+      ],
+      "duration_ms": 277908,
+      "name": "Pretty Lady",
+      "url": "https://open.spotify.com/track/4o21k4S4YoueaUfiKkImea"
     },
     {
       "added_at": "2023-06-01 04:00:00",

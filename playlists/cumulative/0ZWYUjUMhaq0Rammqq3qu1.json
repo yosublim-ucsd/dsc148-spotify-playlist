@@ -2212,7 +2212,7 @@
       ],
       "date_added": "2023-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-18",
       "duration_ms": 155544,
       "name": "I Don't Wanna Work",
       "url": "https://open.spotify.com/track/5pfvr2T90tLuAFyJC2VSxv"
@@ -2264,6 +2264,28 @@
       "duration_ms": 160214,
       "name": "I Hope That It Hurts",
       "url": "https://open.spotify.com/track/7xi3mpdF9tC1SLrbkossDu"
+    },
+    {
+      "album": {
+        "name": "I'm My Only Friend",
+        "url": "https://open.spotify.com/album/00Z6vze8Xtk9rGTRTBrpXz"
+      },
+      "artists": [
+        {
+          "name": "Dillon Francis",
+          "url": "https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf"
+        },
+        {
+          "name": "Arden Jones",
+          "url": "https://open.spotify.com/artist/3mMogqf2JyBUQZxFZlC79w"
+        }
+      ],
+      "date_added": "2023-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192016,
+      "name": "I'm My Only Friend (feat. Arden Jones)",
+      "url": "https://open.spotify.com/track/7gOxYYw4HKBa89vAAagh9q"
     },
     {
       "album": {
@@ -2498,7 +2520,7 @@
       ],
       "date_added": "2023-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-18",
       "duration_ms": 174222,
       "name": "Keep Going Up (with Nelly Furtado & Justin Timberlake)",
       "url": "https://open.spotify.com/track/0MBRKCgePXewM1iBQiPn7Q"
@@ -4258,7 +4280,7 @@
       ],
       "date_added": "2023-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-18",
       "duration_ms": 192604,
       "name": "Run",
       "url": "https://open.spotify.com/track/3UIBmd8J87KiTBuALIXeGL"
@@ -4294,7 +4316,7 @@
       ],
       "date_added": "2023-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-18",
       "duration_ms": 156391,
       "name": "Rush",
       "url": "https://open.spotify.com/track/3xIMkM5LgbVDkpO74O3Np3"
@@ -4794,7 +4816,7 @@
       ],
       "date_added": "2023-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-18",
       "duration_ms": 159925,
       "name": "Still Missing You",
       "url": "https://open.spotify.com/track/2INYl74n0iihKABKs3s1Na"
@@ -5067,6 +5089,28 @@
     },
     {
       "album": {
+        "name": "Telephone Line",
+        "url": "https://open.spotify.com/album/1WF5kYD5BIbBKHYIyeekeG"
+      },
+      "artists": [
+        {
+          "name": "Touch Sensitive",
+          "url": "https://open.spotify.com/artist/2OC53Inn0G9QwWM7CM0G5Z"
+        },
+        {
+          "name": "Your Smith",
+          "url": "https://open.spotify.com/artist/2kTZfKGZEj8R76z3ooKOF1"
+        }
+      ],
+      "date_added": "2023-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211797,
+      "name": "Telephone Line",
+      "url": "https://open.spotify.com/track/602hMiOBUq8jmSnZxEyNdP"
+    },
+    {
+      "album": {
         "name": "2001",
         "url": "https://open.spotify.com/album/7q2B4M5EiBkqrlsNW8lB7N"
       },
@@ -5134,6 +5178,28 @@
       "duration_ms": 194939,
       "name": "The Way I Love You",
       "url": "https://open.spotify.com/track/3yXYyOqrDdRni2NwgDrADD"
+    },
+    {
+      "album": {
+        "name": "This Is The Life",
+        "url": "https://open.spotify.com/album/5hFY0oK1Ow8h9xIAtliOvp"
+      },
+      "artists": [
+        {
+          "name": "LIZOT",
+          "url": "https://open.spotify.com/artist/12A83CWwFiyXy90ScLWPIe"
+        },
+        {
+          "name": "KYANU",
+          "url": "https://open.spotify.com/artist/3VuZZ1n0XGacnz96Ys8mrZ"
+        }
+      ],
+      "date_added": "2023-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131388,
+      "name": "This Is The Life",
+      "url": "https://open.spotify.com/track/3Me5bYXeDXqjBVgug53Ula"
     },
     {
       "album": {

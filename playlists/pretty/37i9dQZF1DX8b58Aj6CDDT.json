@@ -1,12 +1,12 @@
 {
   "description": "Las canciones alternativas que definieron el 2022 en Hispanoam\u00e9rica. Marilina Bertoldi y Javiera Mena en portada.",
-  "num_followers": 3276,
+  "num_followers": 3283,
   "original_name": "Lo mejor del Indie y Rock 2022",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2MjBmNTQ4ODk1NTAyNGI3MDVlMmJiMTlmZDJlYjM5OGEyZGE5MmQ1",
+  "snapshot_id": "MCw1YzRmZjc0ZmE2MTVlYzY0ZGYwNDkyODgxNDkyNGQ5NTIzNjA4ZTkx",
   "tracks": [
     {
       "added_at": "2022-11-30 14:18:55",
@@ -567,6 +567,22 @@
     {
       "added_at": "2022-11-30 14:18:55",
       "album": {
+        "name": "Last Spa on Earth",
+        "url": "https://open.spotify.com/album/0Wcevqdyy01R4lGtAYoleB"
+      },
+      "artists": [
+        {
+          "name": "Divino Ni\u00f1o",
+          "url": "https://open.spotify.com/artist/2O2KJngZ80ZTK71HamDNYi"
+        }
+      ],
+      "duration_ms": 185350,
+      "name": "XO",
+      "url": "https://open.spotify.com/track/7Hv1cgxfZs6pswYKvh0tDJ"
+    },
+    {
+      "added_at": "2022-11-30 14:18:55",
+      "album": {
         "name": "Chao",
         "url": "https://open.spotify.com/album/50NOVmSzpApZluUtVSv1Tz"
       },
@@ -587,22 +603,6 @@
       "duration_ms": 309221,
       "name": "Viento",
       "url": "https://open.spotify.com/track/3FtjzxyG9fs1bKuT1E5DZn"
-    },
-    {
-      "added_at": "2022-11-30 14:18:55",
-      "album": {
-        "name": "Last Spa on Earth",
-        "url": "https://open.spotify.com/album/0Wcevqdyy01R4lGtAYoleB"
-      },
-      "artists": [
-        {
-          "name": "Divino Ni\u00f1o",
-          "url": "https://open.spotify.com/artist/2O2KJngZ80ZTK71HamDNYi"
-        }
-      ],
-      "duration_ms": 185350,
-      "name": "XO",
-      "url": "https://open.spotify.com/track/7Hv1cgxfZs6pswYKvh0tDJ"
     },
     {
       "added_at": "2022-11-30 14:18:55",
@@ -671,6 +671,22 @@
     {
       "added_at": "2022-11-30 14:18:55",
       "album": {
+        "name": "Matizando",
+        "url": "https://open.spotify.com/album/0GLE4CLio2Kj4fLoBrHOU4"
+      },
+      "artists": [
+        {
+          "name": "Ana Sanz",
+          "url": "https://open.spotify.com/artist/1wFieEqzZtcjkSIHtVk2YD"
+        }
+      ],
+      "duration_ms": 214069,
+      "name": "Matizando",
+      "url": "https://open.spotify.com/track/7qBYuqHrm5AyA6J500vhoq"
+    },
+    {
+      "added_at": "2022-11-30 14:18:55",
+      "album": {
         "name": "Running Up That Hill - Spotify Singles",
         "url": "https://open.spotify.com/album/5yoGGNfGcVw8Eqlbg13a9v"
       },
@@ -699,22 +715,6 @@
       "duration_ms": 386604,
       "name": "Otra Vez",
       "url": "https://open.spotify.com/track/0vA1RgkV2GqrwpkSiINgKR"
-    },
-    {
-      "added_at": "2022-11-30 14:18:55",
-      "album": {
-        "name": "Matizando",
-        "url": "https://open.spotify.com/album/0GLE4CLio2Kj4fLoBrHOU4"
-      },
-      "artists": [
-        {
-          "name": "Ana Sanz",
-          "url": "https://open.spotify.com/artist/1wFieEqzZtcjkSIHtVk2YD"
-        }
-      ],
-      "duration_ms": 214069,
-      "name": "Matizando",
-      "url": "https://open.spotify.com/track/7qBYuqHrm5AyA6J500vhoq"
     },
     {
       "added_at": "2022-11-30 14:18:55",

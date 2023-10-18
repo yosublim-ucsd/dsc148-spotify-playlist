@@ -1953,6 +1953,24 @@
     },
     {
       "album": {
+        "name": "We Are Messengers",
+        "url": "https://open.spotify.com/album/2SMUGFTP3NPh8eVDmUNDiL"
+      },
+      "artists": [
+        {
+          "name": "We Are Messengers",
+          "url": "https://open.spotify.com/artist/5WcisvYoq6332gCUX039Jd"
+        }
+      ],
+      "date_added": "2023-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208626,
+      "name": "Magnify",
+      "url": "https://open.spotify.com/track/3wlpaljKzcvj0YYJAMIwXy"
+    },
+    {
+      "album": {
         "name": "Make Room",
         "url": "https://open.spotify.com/album/6D8do4E6Ye8NaYVCEUQ1uI"
       },
@@ -3602,7 +3620,7 @@
       ],
       "date_added": "2020-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-18",
       "duration_ms": 226293,
       "name": "You",
       "url": "https://open.spotify.com/track/45W0GYB7YQO5wq6ePZPA4F"

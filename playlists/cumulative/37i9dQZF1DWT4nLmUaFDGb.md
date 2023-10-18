@@ -4,7 +4,7 @@
 
 > The easy listening sound of Jazz\. Cover: Norah Jones
 
-235 songs - 15 hr 8 min
+236 songs - 15 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -86,6 +86,7 @@
 | [Hommage](https://open.spotify.com/track/7auTBZlMspqWjyqB1Mj5J9) | [Marek Johnson](https://open.spotify.com/artist/4y9tl1SgxrEhYnDN40Ls8T) | [At Home Again, Singing](https://open.spotify.com/album/1Qe9Sg7RkVoFEG3D5Wt9rG) | 3:34 | 2022-11-10 |  |
 | [How Insensitive](https://open.spotify.com/track/7zTPGoqzsHv4hnYib1jP8e) | [Stacey Kent](https://open.spotify.com/artist/03EYBMnqSchCMp5D9qmFXi), [Jim Tomlinson](https://open.spotify.com/artist/5L3fIRSYQCR3EJwQICfyRq), [Graham Harvey](https://open.spotify.com/artist/1x7a6AcM8lS9mfpkzfIgAt), [Jeremy Brown](https://open.spotify.com/artist/2GryQVS8rv0VqHUGN4Ua3v), [Matt Home](https://open.spotify.com/artist/6sYQ9bCdEmdHHY1TBQXe80) | [The Changing Lights \(Bonus Edition\)](https://open.spotify.com/album/1pPiNmApPW6E2yPCGth1RA) | 4:04 | 2021-12-21 |  |
 | [I Belong to You](https://open.spotify.com/track/7FqvieB7KLTInMvfieRq5a) | [Emilia Mitiku](https://open.spotify.com/artist/65RLNrrTTS9ztKiuK0fZg2) | [I Belong To You](https://open.spotify.com/album/4abZmMGlhSgaf9SDL1m70d) | 3:16 | 2022-08-19 |  |
+| [I Can’t Make You Love Me](https://open.spotify.com/track/3qFYOX9Rmu5OsEiqGLZva0) | [Joey Alexander](https://open.spotify.com/artist/0FcNSKwWZJb98ry9M2qEII) | [I Can’t Make You Love Me](https://open.spotify.com/album/1sn4P6Jxru5Yph7lNqXLoz) | 5:03 | 2023-10-17 |  |
 | [I Need Your Love](https://open.spotify.com/track/68uxsEa7j2Y4c0bj9aITND) | [Ellen Andrea Wang](https://open.spotify.com/artist/3EpohDnrFdsgQj03BOsPUf) | [I Need Your Love](https://open.spotify.com/album/7FiZVylKJmgNbDXsz5VBav) | 4:20 | 2023-10-04 |  |
 | [I Only Have Eyes For You](https://open.spotify.com/track/7JiRVbyQC6P4tiP4ODmrXo) | [Chris Weeks](https://open.spotify.com/artist/1L1rPFMZ3V9GktNny7JkVO) | [I Only Have Eyes For You](https://open.spotify.com/album/131VG5VwoQVANxBMPQ5fZF) | 4:10 | 2023-08-18 |  |
 | [I Only Want To Be With You](https://open.spotify.com/track/1oAs44xVvu4QaZpX9033S5) | [Shelby Lynne](https://open.spotify.com/artist/3xx17YXYvPl9PBx6Jzalk4) | [Just A Little Lovin'](https://open.spotify.com/album/1Qp047VBGL9d1PkHWKuqG5) | 3:50 | 2022-08-19 |  |
@@ -160,7 +161,7 @@
 | [One Day I Fly Away](https://open.spotify.com/track/5G4mD6dNtV9V30npBbAj0i) | [Joe Sample](https://open.spotify.com/artist/4H2b90USTVSstPktwUsDZE), [Nils Landgren](https://open.spotify.com/artist/6B3ZWSop1mrJd71rwFozVP) | [Creole Love Call](https://open.spotify.com/album/1aV2jCH2ntuiZTpcrPcQvn) | 4:00 | 2021-12-21 |  |
 | [One Flight Down](https://open.spotify.com/track/211h8RfsBkSrbwXUP8EnsZ) | [Crystal Kay](https://open.spotify.com/artist/3yzQHdj9G34CVZ5rVUDrOM) | [Start Again EP](https://open.spotify.com/album/4u4ua2KI0WX92XsIKTvKAK) | 3:07 | 2023-05-18 |  |
 | [One for My Baby \(And One More for the Road\)](https://open.spotify.com/track/1c4oqyJGptLz2Yt7LLheX8) | [Tony Bennett](https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV), [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14) | [Duets II](https://open.spotify.com/album/5ktAYFq8wJ1hcWHaxl6AQf) | 2:56 | 2021-12-21 |  |
-| [Out of the Blue](https://open.spotify.com/track/4vgJoEztJ2uXCgU5fXxxGW) | [Eudald Payés](https://open.spotify.com/artist/72atXcV9ekLP3iDmLD0BDc), [Rita Payés](https://open.spotify.com/artist/1XSmez9xyCCPpOZp0uImwM) | [Out of the Blue](https://open.spotify.com/album/1g7TW3FbyhPzxBLLGSNFkd) | 3:36 | 2023-10-11 |  |
+| [Out of the Blue](https://open.spotify.com/track/4vgJoEztJ2uXCgU5fXxxGW) | [Eudald Payés](https://open.spotify.com/artist/72atXcV9ekLP3iDmLD0BDc), [Rita Payés](https://open.spotify.com/artist/1XSmez9xyCCPpOZp0uImwM) | [Out of the Blue](https://open.spotify.com/album/1g7TW3FbyhPzxBLLGSNFkd) | 3:36 | 2023-10-11 | 2023-10-18 |
 | [Over the Rainbow](https://open.spotify.com/track/5V2PNLZpdSO3ZyOr5aMZJL) | [Emilie\-Claire Barlow](https://open.spotify.com/artist/4doI7TR51c6DTaveTwpIkg) | [Over the Rainbow](https://open.spotify.com/album/1s1IYPYEgbPw42kMzZujWo) | 4:11 | 2023-05-18 |  |
 | [Over the Rainbow \(from "The Wizard of Oz"\)](https://open.spotify.com/track/5F71PfO0UhvqRYkJNNuLI5) | [Josh Groban](https://open.spotify.com/artist/6cXMpsP9x0SH4kFfMyVezF) | [Stages \(Deluxe\)](https://open.spotify.com/album/7bpNb4BzAwWAVzKOlzJZDU) | 4:26 | 2021-12-21 | 2022-04-24 |
 | [Peace](https://open.spotify.com/track/7tXeeUCuvSrGnnscIT58iv) | [Norah Jones](https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N) | [Come Away With Me \(Deluxe Edition\)](https://open.spotify.com/album/6PguISnE2nz7CuhnIAWhQF) | 3:52 | 2021-12-21 | 2022-07-29 |

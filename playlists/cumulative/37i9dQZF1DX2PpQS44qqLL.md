@@ -4,7 +4,7 @@
 
 > Siempre espectaculares\. Foto: Vicente Fernández
 
-426 songs - 1 day 4 hr 16 min
+427 songs - 1 day 4 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -80,7 +80,7 @@
 | [Costumbres](https://open.spotify.com/track/28ANj8vuad6phtclxhmPYO) | [Rocío Dúrcal](https://open.spotify.com/artist/2uyweLa0mvPZH6eRzDddeB) | [Amor Eterno](https://open.spotify.com/album/0UuQzzrlyxMseEttP9hL3C) | 4:32 | 2021-12-21 |  |
 | [Cuando Baja La Marea](https://open.spotify.com/track/0HgwO0T0c6PKrog2ENJN2y) | [Yuri](https://open.spotify.com/artist/4OgNARLQSC4yy7Dsa5cqxx) | [Baladas 80's 90's](https://open.spotify.com/album/41wjuEye85NHNrEhVn02H7) | 3:57 | 2021-12-21 |  |
 | [Cuando Calienta El Sol](https://open.spotify.com/track/3hVaK0zn3sVWWY8TvN1Te5) | [Luis Miguel](https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW) | [Soy Como Quiero Ser](https://open.spotify.com/album/2dJCC5WZDKqQbXmUJeLe9Z) | 3:56 | 2021-12-21 |  |
-| [Cuando Estemos Juntos](https://open.spotify.com/track/1p79WfRuI5Ov4rHXxPHMS1) | [Tatiana y Johnny](https://open.spotify.com/artist/3hWYqGI2MA8NWKxWuTcuvm) | [Tatiana y Johnny](https://open.spotify.com/album/7MctcX1XsSRfudnAyihmSi) | 3:43 | 2021-12-21 |  |
+| [Cuando Estemos Juntos](https://open.spotify.com/track/1p79WfRuI5Ov4rHXxPHMS1) | [Tatiana y Johnny](https://open.spotify.com/artist/3hWYqGI2MA8NWKxWuTcuvm) | [Tatiana y Johnny](https://open.spotify.com/album/7MctcX1XsSRfudnAyihmSi) | 3:43 | 2021-12-21 | 2023-10-18 |
 | [Cuando me vaya de tu lado \- A Thousand Miles](https://open.spotify.com/track/3Qz066m45Ak9MOQ30hMaVj) | [Lorenzo Antonio](https://open.spotify.com/artist/4oYvz8seCf2B2JEyB0GIX4) | [Mi tributo a Juan Gabriel](https://open.spotify.com/album/4sCg0lGKCsg6qGbNm5X8q3) | 5:04 | 2021-12-21 | 2022-07-24 |
 | [Cuando No Estás Conmigo](https://open.spotify.com/track/6R1V5zSzuLVTc41hUMHohP) | [Pandora](https://open.spotify.com/artist/44nb9BaqV2jVvxKCaXHwlP) | [Locas Por La Música](https://open.spotify.com/album/5skXUuGQ0Pg7H07k6NywN5) | 2:58 | 2021-12-21 | 2023-09-22 |
 | [Cuando Regreses](https://open.spotify.com/track/6WoNr1cuIx6qWvAfxcCh4k) | [Beatriz Adriana](https://open.spotify.com/artist/20DKdVZd4yxzm472iHRXzQ) | [La Mas Completa Coleccion \(Disco 1\)](https://open.spotify.com/album/4yODt1oF4zoyhu0FiagLtF) | 3:23 | 2021-12-21 | 2022-07-17 |
@@ -110,7 +110,7 @@
 | [Doce Rosas](https://open.spotify.com/track/7cGgfuTFHDRA0b7zdzEg6R) | [Lorenzo Antonio](https://open.spotify.com/artist/4oYvz8seCf2B2JEyB0GIX4) | [Doce Rosas](https://open.spotify.com/album/4QRBCtIJVQDK6k8fJ9jUFh) | 3:49 | 2021-12-21 |  |
 | [Donde Estaras](https://open.spotify.com/track/48kQ9dT6e0yexYR791ar4I) | [Ricchi E Poveri](https://open.spotify.com/artist/5BwOOeKayeMZXa5SSaiRxv) | [Exclusive Ricchi E Poveri \- 15 Exitos](https://open.spotify.com/album/3MfTllqbkiNWZuaxoenGhC) | 2:56 | 2021-12-21 |  |
 | [Donde Estés, Con Quien Estés](https://open.spotify.com/track/5We0lIvVyfdl9uYacDwB6F) | [Camilo Sesto](https://open.spotify.com/artist/2Cy7KBSkqu7otJfuMTWT7Y) | [Camilo 70](https://open.spotify.com/album/5M1966wGVaH8uq4O6CT3PY) | 4:31 | 2021-12-21 | 2022-07-29 |
-| [Donde Estés, Con Quien Estés](https://open.spotify.com/track/6kAM3ltjQyditY5GhZytJP) | [Camilo Sesto](https://open.spotify.com/artist/2Cy7KBSkqu7otJfuMTWT7Y) | [15 Grandes Exitos Vol\. I \- A Peticion Del Publico](https://open.spotify.com/album/3gg0VgB89SEzsLefAstENY) | 4:34 | 2021-12-21 | 2023-07-10 |
+| [Donde Estés, Con Quien Estés](https://open.spotify.com/track/6kAM3ltjQyditY5GhZytJP) | [Camilo Sesto](https://open.spotify.com/artist/2Cy7KBSkqu7otJfuMTWT7Y) | [15 Grandes Exitos Vol\. I \- A Peticion Del Publico](https://open.spotify.com/album/3gg0VgB89SEzsLefAstENY) | 4:34 | 2021-12-21 |  |
 | [Dudas](https://open.spotify.com/track/7EtOFVnHpg6Czxb7pwG2j0) | [Amanda Miguel](https://open.spotify.com/artist/3v8mFhjLFa50QK8zDvAMYN) | [El Sonido Vol\. 3](https://open.spotify.com/album/3K9Lx3MCERuTQswKy5tMQ7) | 3:37 | 2021-12-21 |  |
 | [Dueño de Nada](https://open.spotify.com/track/1yYrWdoONx6UyXLH0A3QMW) | [José Luis Rodríguez](https://open.spotify.com/artist/15YnmlNukYCFvwaFnoDwwV) | [La Historia del Puma](https://open.spotify.com/album/0a7n1tbZkr87slBdcFPFkY) | 5:13 | 2021-12-21 |  |
 | [Dueño de Nada](https://open.spotify.com/track/01U3wUHEeqYtj3vPk08AC9) | [José Luis Rodríguez](https://open.spotify.com/artist/15YnmlNukYCFvwaFnoDwwV) | [Dos Clásicos](https://open.spotify.com/album/6VMoDyNQKAKPLrEnhnLKU2) | 5:16 | 2021-12-21 | 2022-07-29 |
@@ -131,6 +131,7 @@
 | [El Muchacho de los Ojos Tristes](https://open.spotify.com/track/3DWkS3HT9Z0kE4z1tMGxaJ) | [Jeanette](https://open.spotify.com/artist/2Asr5Otk5aKK272pK4ocG2) | [15 Canciones Favoritas](https://open.spotify.com/album/1lDKPKdPnDIAiNw5T3Lp8C) | 3:28 | 2021-12-21 | 2022-11-13 |
 | [El Pecador](https://open.spotify.com/track/1lDx45n8dnAU1v9yct5bxU) | [Alberto Vazquez](https://open.spotify.com/artist/3vYC7LFneIpmJRSgrYy6dc) | [16 Éxitos: Baladas](https://open.spotify.com/album/16koZGZZYztvCEShPLndCv) | 3:20 | 2021-12-21 |  |
 | [El Recuento de los Daños](https://open.spotify.com/track/65e7BhKBuKYl6UfCzYVRGT) | [Gloria Trevi](https://open.spotify.com/artist/1Db5GsIoVWYktPoD2nnPZZ) | [Mas Turbada Que Nunca](https://open.spotify.com/album/1w13BP16RNkn6JNSsxlJTh) | 3:55 | 2021-12-21 |  |
+| [El Rincón Prohibido](https://open.spotify.com/track/4voKImUd9neMT6ON1GVLG4) | [Pablo Ruiz](https://open.spotify.com/artist/5BLxach4cxTAK3Pg0Nu2r2) | [Irresistible](https://open.spotify.com/album/5yVadaDycmO1SVxxCb2BPh) | 3:39 | 2021-12-21 |  |
 | [El Rincón Prohibido](https://open.spotify.com/track/5kwU3RDg045GpeXtYp6zdF) | [Pablo Ruiz](https://open.spotify.com/artist/5BLxach4cxTAK3Pg0Nu2r2) | [Irresistible](https://open.spotify.com/album/635yZYck6Jo1ajYqF88450) | 3:39 | 2021-12-21 | 2022-07-12 |
 | [El Triste](https://open.spotify.com/track/0aTMBEfPCCkKkneU6gLmDD) | [José José](https://open.spotify.com/artist/4mN0qcMxWX8oToqfDPM5yV) | [Jose Jose \(1\)](https://open.spotify.com/album/7wZCFbWRkh5mneWJfAK2LD) | 4:13 | 2021-12-21 | 2022-07-29 |
 | [Ella se llamaba Martha](https://open.spotify.com/track/4aaUww4CmxurtBTIVINXzy) | [José Maria Napoleón](https://open.spotify.com/artist/72v53CufRiSyqcQ78KUQ5p) | [Historia de Exitos Vol.1](https://open.spotify.com/album/0CEjIhEpUmL0Nx28w8uW0U) | 3:06 | 2021-12-21 | 2022-07-29 |
@@ -206,7 +207,7 @@
 | [Las Mil Y Una Noches](https://open.spotify.com/track/0b53GyMOfBCt5L6bh0CH3f) | [Flans](https://open.spotify.com/artist/4zbqGb99bANxJBsvwRr2zT) | [Luz Y Sombra](https://open.spotify.com/album/57M2J9XUqv52BtTCJ5FifM) | 4:40 | 2021-12-21 |  |
 | [Laura no està](https://open.spotify.com/track/10tzk7ZRjwnLKd3gjKLtTA) | [Nek](https://open.spotify.com/artist/5mXMQJHLLfym1KyNcDrhoZ) | [Nek \(spanish version\)](https://open.spotify.com/album/04HNYs9ilzC2h31dq7pVcP) | 3:45 | 2021-12-21 |  |
 | [Leona Dormida](https://open.spotify.com/track/5GVJtEbJm9Im1HrCdWR5JY) | [Lupita D'Alessio](https://open.spotify.com/artist/3mGyF5kXDjEkLlFypJ93en) | [Desde Mi Libertad](https://open.spotify.com/album/1aPoDyKO0htPsqlikRv9rM) | 4:53 | 2021-12-21 | 2022-07-27 |
-| [Llueve Sobre Mojado](https://open.spotify.com/track/3PDLKMueFy9va2zRQynuWK) | [Camilo Sesto](https://open.spotify.com/artist/2Cy7KBSkqu7otJfuMTWT7Y) | [Camilo](https://open.spotify.com/album/4AxRFDkSlRWzCpyaO107UJ) | 2:48 | 2021-12-21 |  |
+| [Llueve Sobre Mojado](https://open.spotify.com/track/3PDLKMueFy9va2zRQynuWK) | [Camilo Sesto](https://open.spotify.com/artist/2Cy7KBSkqu7otJfuMTWT7Y) | [Camilo](https://open.spotify.com/album/4AxRFDkSlRWzCpyaO107UJ) | 2:48 | 2021-12-21 | 2023-10-18 |
 | [Lo Dudo](https://open.spotify.com/track/65vU70CBDU0sQDfOWkwUEH) | [José José](https://open.spotify.com/artist/4mN0qcMxWX8oToqfDPM5yV) | [Secretos](https://open.spotify.com/album/1Bzdy4dRu2czCWd4bpCzUh) | 3:39 | 2021-12-21 |  |
 | [Lo Dudo \- Remasterizado](https://open.spotify.com/track/67WFZbVpcNl0xiRHJ7QNFH) | [José José](https://open.spotify.com/artist/4mN0qcMxWX8oToqfDPM5yV) | [José José \- Secretos 30 Aniversario](https://open.spotify.com/album/0ExU6HD9OWFwDtLu0eFqDY) | 3:36 | 2021-12-21 | 2022-07-29 |
 | [Lo Mejor de Mi](https://open.spotify.com/track/3deEKI2RwUPAvKEZrXJrD4) | [Cristian Castro](https://open.spotify.com/artist/2AZOALDIBORfbzKTuliwdJ) | [Lo Mejor De Mi](https://open.spotify.com/album/4k5g8lCMPYaAdjc7Urzz4Z) | 3:55 | 2021-12-21 | 2022-07-29 |

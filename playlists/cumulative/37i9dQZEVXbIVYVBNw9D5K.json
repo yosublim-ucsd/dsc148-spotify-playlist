@@ -1583,6 +1583,24 @@
     },
     {
       "album": {
+        "name": "B.",
+        "url": "https://open.spotify.com/album/6ZMfAa72rsLzLtjuRygUki"
+      },
+      "artists": [
+        {
+          "name": "An\u0131l Emre Daldal",
+          "url": "https://open.spotify.com/artist/5MHG3bmjGh0aqT8hS3nPzS"
+        }
+      ],
+      "date_added": "2023-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 287226,
+      "name": "B.",
+      "url": "https://open.spotify.com/track/64P8LehzuNRGQ5JhswIHNW"
+    },
+    {
+      "album": {
         "name": "BEGEFEND\u0130",
         "url": "https://open.spotify.com/album/5uNcIKJl8eyNoVoqqT5744"
       },
@@ -5878,7 +5896,7 @@
       ],
       "date_added": "2023-08-05",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-17",
+      "date_removed": null,
       "duration_ms": 192446,
       "name": "G\u00f6rmem B\u00f6ylesini",
       "url": "https://open.spotify.com/track/52EgkN1E6pqOJ0AL2YWxfs"
@@ -13329,7 +13347,7 @@
       "artists": [
         {
           "name": "Y\u00fczy\u00fczeyken Konu\u015furuz",
-          "url": "https://open.spotify.com/artist/7gobcoscOfsY0nOeqqFzvU"
+          "url": "https://open.spotify.com/artist/1dZp1XCxKlxFaIOlO2acji"
         }
       ],
       "date_added": "2023-08-20",
@@ -14048,7 +14066,7 @@
       ],
       "date_added": "2023-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-18",
       "duration_ms": 147905,
       "name": "Yana Yana",
       "url": "https://open.spotify.com/track/7p0ODIG60DRkcTiVlJPgck"
@@ -14602,7 +14620,7 @@
       ],
       "date_added": "2023-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-18",
       "duration_ms": 278133,
       "name": "Zalim",
       "url": "https://open.spotify.com/track/3HrH0tLPJHsweeAlw3leQO"

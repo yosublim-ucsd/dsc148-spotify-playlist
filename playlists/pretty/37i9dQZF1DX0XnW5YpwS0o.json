@@ -1,12 +1,12 @@
 {
   "description": "2016 highlights from the home of indie music.",
-  "num_followers": 80762,
+  "num_followers": 80778,
   "original_name": "Best of Indie 2016",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0YTk4YTMxOWQ5MmQ4MTJjZjlkOWFhZjcwYWM5YzQ0YjZhYmM5ZmU2",
+  "snapshot_id": "MCw4MWQ2NmIzMTIwMmRlMmExMDQ0ZGMxMTlkOTczMjFlMDNhYzJiY2Y1",
   "tracks": [
     {
       "added_at": "2021-09-22 14:36:46",
@@ -479,22 +479,6 @@
     {
       "added_at": "2021-09-22 14:36:46",
       "album": {
-        "name": "A/B",
-        "url": "https://open.spotify.com/album/4he4SQup02hEIQdwhZlZlk"
-      },
-      "artists": [
-        {
-          "name": "KALEO",
-          "url": "https://open.spotify.com/artist/7jdFEYD2LTYjfwxOdlVjmc"
-        }
-      ],
-      "duration_ms": 245960,
-      "name": "Broken Bones",
-      "url": "https://open.spotify.com/track/0lwUIYJfWGB8qUEAJtYfb6"
-    },
-    {
-      "added_at": "2021-09-22 14:36:46",
-      "album": {
         "name": "CDW",
         "url": "https://open.spotify.com/album/6gCycQSo1Yp503MXyvzSF9"
       },
@@ -507,6 +491,22 @@
       "duration_ms": 224481,
       "name": "Work",
       "url": "https://open.spotify.com/track/1knUACOt5yfNAYn7gnYQVt"
+    },
+    {
+      "added_at": "2021-09-22 14:36:46",
+      "album": {
+        "name": "A/B",
+        "url": "https://open.spotify.com/album/4he4SQup02hEIQdwhZlZlk"
+      },
+      "artists": [
+        {
+          "name": "KALEO",
+          "url": "https://open.spotify.com/artist/7jdFEYD2LTYjfwxOdlVjmc"
+        }
+      ],
+      "duration_ms": 245960,
+      "name": "Broken Bones",
+      "url": "https://open.spotify.com/track/0lwUIYJfWGB8qUEAJtYfb6"
     },
     {
       "added_at": "2021-09-22 14:36:46",
@@ -691,22 +691,6 @@
     {
       "added_at": "2021-09-22 14:36:46",
       "album": {
-        "name": "Sunlit Youth",
-        "url": "https://open.spotify.com/album/2qiPY1CqHGexT4yWrQ5uX0"
-      },
-      "artists": [
-        {
-          "name": "Local Natives",
-          "url": "https://open.spotify.com/artist/75dQReiBOHN37fQgWQrIAJ"
-        }
-      ],
-      "duration_ms": 180413,
-      "name": "Dark Days",
-      "url": "https://open.spotify.com/track/7LZN7FkxHZk6maiN6NdI2i"
-    },
-    {
-      "added_at": "2021-09-22 14:36:46",
-      "album": {
         "name": "Bcos U Will Never B Free",
         "url": "https://open.spotify.com/album/2PdLUS263cFyd7efyWH5B8"
       },
@@ -719,6 +703,22 @@
       "duration_ms": 136000,
       "name": "A Song About Being Sad",
       "url": "https://open.spotify.com/track/1phSI7mJzqlu2HE6gIwu7I"
+    },
+    {
+      "added_at": "2021-09-22 14:36:46",
+      "album": {
+        "name": "Sunlit Youth",
+        "url": "https://open.spotify.com/album/2qiPY1CqHGexT4yWrQ5uX0"
+      },
+      "artists": [
+        {
+          "name": "Local Natives",
+          "url": "https://open.spotify.com/artist/75dQReiBOHN37fQgWQrIAJ"
+        }
+      ],
+      "duration_ms": 180413,
+      "name": "Dark Days",
+      "url": "https://open.spotify.com/track/7LZN7FkxHZk6maiN6NdI2i"
     },
     {
       "added_at": "2021-09-22 14:36:46",
@@ -739,22 +739,6 @@
     {
       "added_at": "2021-09-22 14:36:46",
       "album": {
-        "name": "California",
-        "url": "https://open.spotify.com/album/4rX32NbzVfD94VvckCyNjc"
-      },
-      "artists": [
-        {
-          "name": "The Lagoons",
-          "url": "https://open.spotify.com/artist/3oK9o2DLbk1VEda7KOMotd"
-        }
-      ],
-      "duration_ms": 261773,
-      "name": "California",
-      "url": "https://open.spotify.com/track/35QAUfIbfIXT3p3cWhaKxZ"
-    },
-    {
-      "added_at": "2021-09-22 14:36:46",
-      "album": {
         "name": "Lessons in Love",
         "url": "https://open.spotify.com/album/3t5VFTO58tnYpZVeJYGQhD"
       },
@@ -771,6 +755,22 @@
       "duration_ms": 232490,
       "name": "If You Let Me",
       "url": "https://open.spotify.com/track/5T5b5ZLAUPjtGUTdaH8KLd"
+    },
+    {
+      "added_at": "2021-09-22 14:36:46",
+      "album": {
+        "name": "California",
+        "url": "https://open.spotify.com/album/4rX32NbzVfD94VvckCyNjc"
+      },
+      "artists": [
+        {
+          "name": "The Lagoons",
+          "url": "https://open.spotify.com/artist/3oK9o2DLbk1VEda7KOMotd"
+        }
+      ],
+      "duration_ms": 261773,
+      "name": "California",
+      "url": "https://open.spotify.com/track/35QAUfIbfIXT3p3cWhaKxZ"
     },
     {
       "added_at": "2021-09-22 14:36:46",
@@ -1035,6 +1035,22 @@
     {
       "added_at": "2021-09-22 14:36:46",
       "album": {
+        "name": "Uno",
+        "url": "https://open.spotify.com/album/6XpbhukKdSB6cnVPW7fgSR"
+      },
+      "artists": [
+        {
+          "name": "Rex Orange County",
+          "url": "https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL"
+        }
+      ],
+      "duration_ms": 171789,
+      "name": "Uno",
+      "url": "https://open.spotify.com/track/39GNDyrCTPMlXb9JHLAAm3"
+    },
+    {
+      "added_at": "2021-09-22 14:36:46",
+      "album": {
         "name": "99.9%",
         "url": "https://open.spotify.com/album/6JD4Qerb8IcaAzFgpFw0sa"
       },
@@ -1051,22 +1067,6 @@
       "duration_ms": 228146,
       "name": "GOT IT GOOD",
       "url": "https://open.spotify.com/track/7pttGrC2YJYQ997ZryXGCG"
-    },
-    {
-      "added_at": "2021-09-22 14:36:46",
-      "album": {
-        "name": "Uno",
-        "url": "https://open.spotify.com/album/6XpbhukKdSB6cnVPW7fgSR"
-      },
-      "artists": [
-        {
-          "name": "Rex Orange County",
-          "url": "https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL"
-        }
-      ],
-      "duration_ms": 171789,
-      "name": "Uno",
-      "url": "https://open.spotify.com/track/39GNDyrCTPMlXb9JHLAAm3"
     },
     {
       "added_at": "2021-09-22 14:36:46",
@@ -1135,22 +1135,6 @@
     {
       "added_at": "2021-09-22 14:36:46",
       "album": {
-        "name": "Home of the Strange",
-        "url": "https://open.spotify.com/album/3PYk8e7eo2t5CA1Y3AvhaG"
-      },
-      "artists": [
-        {
-          "name": "Young the Giant",
-          "url": "https://open.spotify.com/artist/4j56EQDQu5XnL7R3E9iFJT"
-        }
-      ],
-      "duration_ms": 228466,
-      "name": "Something to Believe In",
-      "url": "https://open.spotify.com/track/6L3VWDPDTQkQFkqvmpAUMU"
-    },
-    {
-      "added_at": "2021-09-22 14:36:46",
-      "album": {
         "name": "The Ride",
         "url": "https://open.spotify.com/album/07IHAhsG4FnnfHQSb3bbAZ"
       },
@@ -1179,6 +1163,22 @@
       "duration_ms": 213000,
       "name": "33 \u201cGOD\u201d",
       "url": "https://open.spotify.com/track/5sWF1EZGm727f3b620vkbC"
+    },
+    {
+      "added_at": "2021-09-22 14:36:46",
+      "album": {
+        "name": "Home of the Strange",
+        "url": "https://open.spotify.com/album/3PYk8e7eo2t5CA1Y3AvhaG"
+      },
+      "artists": [
+        {
+          "name": "Young the Giant",
+          "url": "https://open.spotify.com/artist/4j56EQDQu5XnL7R3E9iFJT"
+        }
+      ],
+      "duration_ms": 228466,
+      "name": "Something to Believe In",
+      "url": "https://open.spotify.com/track/6L3VWDPDTQkQFkqvmpAUMU"
     },
     {
       "added_at": "2021-09-22 14:36:46",
@@ -1215,22 +1215,6 @@
     {
       "added_at": "2021-09-22 14:36:46",
       "album": {
-        "name": "MY WOMAN",
-        "url": "https://open.spotify.com/album/3CHcldbsbrBOOlw8cnLpNm"
-      },
-      "artists": [
-        {
-          "name": "Angel Olsen",
-          "url": "https://open.spotify.com/artist/6mKqFxGMS5TGDZI3XkT5Rt"
-        }
-      ],
-      "duration_ms": 202200,
-      "name": "Shut Up Kiss Me",
-      "url": "https://open.spotify.com/track/3EEr6l5PYelwkrvvKX7N0X"
-    },
-    {
-      "added_at": "2021-09-22 14:36:46",
-      "album": {
         "name": "Shadowboxer",
         "url": "https://open.spotify.com/album/1lozs5nIWjppJZWFEnfGlV"
       },
@@ -1243,6 +1227,22 @@
       "duration_ms": 272680,
       "name": "Easier",
       "url": "https://open.spotify.com/track/59yTEzjOYeugvF9WKAvONs"
+    },
+    {
+      "added_at": "2021-09-22 14:36:46",
+      "album": {
+        "name": "MY WOMAN",
+        "url": "https://open.spotify.com/album/3CHcldbsbrBOOlw8cnLpNm"
+      },
+      "artists": [
+        {
+          "name": "Angel Olsen",
+          "url": "https://open.spotify.com/artist/6mKqFxGMS5TGDZI3XkT5Rt"
+        }
+      ],
+      "duration_ms": 202200,
+      "name": "Shut Up Kiss Me",
+      "url": "https://open.spotify.com/track/3EEr6l5PYelwkrvvKX7N0X"
     },
     {
       "added_at": "2021-09-22 14:36:46",
@@ -1299,22 +1299,6 @@
     {
       "added_at": "2021-09-22 14:36:46",
       "album": {
-        "name": "Psychopomp",
-        "url": "https://open.spotify.com/album/3CeBfyjSIfbWyf0RTNbq1G"
-      },
-      "artists": [
-        {
-          "name": "Japanese Breakfast",
-          "url": "https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw"
-        }
-      ],
-      "duration_ms": 132631,
-      "name": "Everybody Wants to Love You",
-      "url": "https://open.spotify.com/track/38OvTFIg5ZYRow2sA1jgKo"
-    },
-    {
-      "added_at": "2021-09-22 14:36:46",
-      "album": {
         "name": "The Ride",
         "url": "https://open.spotify.com/album/07IHAhsG4FnnfHQSb3bbAZ"
       },
@@ -1327,6 +1311,22 @@
       "duration_ms": 196946,
       "name": "Twice",
       "url": "https://open.spotify.com/track/2sewj0rFvlr3aEM3bGy12n"
+    },
+    {
+      "added_at": "2021-09-22 14:36:46",
+      "album": {
+        "name": "Psychopomp",
+        "url": "https://open.spotify.com/album/3CeBfyjSIfbWyf0RTNbq1G"
+      },
+      "artists": [
+        {
+          "name": "Japanese Breakfast",
+          "url": "https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw"
+        }
+      ],
+      "duration_ms": 132631,
+      "name": "Everybody Wants to Love You",
+      "url": "https://open.spotify.com/track/38OvTFIg5ZYRow2sA1jgKo"
     },
     {
       "added_at": "2021-09-22 14:36:46",
@@ -1399,22 +1399,6 @@
     {
       "added_at": "2021-09-22 14:36:46",
       "album": {
-        "name": "Die Trying",
-        "url": "https://open.spotify.com/album/3GtcNdfScg8xtLLbJNJbfm"
-      },
-      "artists": [
-        {
-          "name": "Michl",
-          "url": "https://open.spotify.com/artist/0qG3lxHmrUeKzL1BJJ7IBN"
-        }
-      ],
-      "duration_ms": 209536,
-      "name": "Die Trying",
-      "url": "https://open.spotify.com/track/5JTAGruCIDyRLhKLwFkTnS"
-    },
-    {
-      "added_at": "2021-09-22 14:36:46",
-      "album": {
         "name": "I Had a Dream That You Were Mine",
         "url": "https://open.spotify.com/album/6y1jBrHYQywxtQqkGrKsSG"
       },
@@ -1431,6 +1415,22 @@
       "duration_ms": 248360,
       "name": "A 1000 Times",
       "url": "https://open.spotify.com/track/7dfQNWgVxikbrdvEmsfPMA"
+    },
+    {
+      "added_at": "2021-09-22 14:36:46",
+      "album": {
+        "name": "Die Trying",
+        "url": "https://open.spotify.com/album/3GtcNdfScg8xtLLbJNJbfm"
+      },
+      "artists": [
+        {
+          "name": "Michl",
+          "url": "https://open.spotify.com/artist/0qG3lxHmrUeKzL1BJJ7IBN"
+        }
+      ],
+      "duration_ms": 209536,
+      "name": "Die Trying",
+      "url": "https://open.spotify.com/track/5JTAGruCIDyRLhKLwFkTnS"
     },
     {
       "added_at": "2021-09-22 14:36:46",
@@ -1467,22 +1467,6 @@
     {
       "added_at": "2021-09-22 14:36:46",
       "album": {
-        "name": "Flame",
-        "url": "https://open.spotify.com/album/1SzxwOqnQiILK4xlSzXWx4"
-      },
-      "artists": [
-        {
-          "name": "Sundara Karma",
-          "url": "https://open.spotify.com/artist/4fgXfJCQnK6c44u4KzAtQP"
-        }
-      ],
-      "duration_ms": 227366,
-      "name": "Flame",
-      "url": "https://open.spotify.com/track/3PVsWhlUR6mNxU9fk1BWca"
-    },
-    {
-      "added_at": "2021-09-22 14:36:46",
-      "album": {
         "name": "Coast Modern",
         "url": "https://open.spotify.com/album/7oU1JaPIxWfpCFyvIZyiZL"
       },
@@ -1495,6 +1479,22 @@
       "duration_ms": 204066,
       "name": "Guru",
       "url": "https://open.spotify.com/track/1bHEcHv3lUkLFAebNnaPNE"
+    },
+    {
+      "added_at": "2021-09-22 14:36:46",
+      "album": {
+        "name": "Flame",
+        "url": "https://open.spotify.com/album/1SzxwOqnQiILK4xlSzXWx4"
+      },
+      "artists": [
+        {
+          "name": "Sundara Karma",
+          "url": "https://open.spotify.com/artist/4fgXfJCQnK6c44u4KzAtQP"
+        }
+      ],
+      "duration_ms": 227366,
+      "name": "Flame",
+      "url": "https://open.spotify.com/track/3PVsWhlUR6mNxU9fk1BWca"
     },
     {
       "added_at": "2021-09-22 14:36:46",

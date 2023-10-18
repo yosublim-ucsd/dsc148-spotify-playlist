@@ -4,7 +4,7 @@
 
 > Concéntrate al máximo, sin distracciones.
 
-579 songs - 1 day 0 hr 38 min
+583 songs - 1 day 0 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -87,6 +87,7 @@
 | [Chère Tante](https://open.spotify.com/track/5Hms3m02qVC3MCjaSTOEnA) | [Catherina Dafoe](https://open.spotify.com/artist/0JMmT09ZgpWQAIgO14wWsD) | [4](https://open.spotify.com/album/7ivdFtTeofiXLu1SyqeDeD) | 2:04 | 2022-06-07 |  |
 | [City Prelude](https://open.spotify.com/track/7jCRVvGKxzAMWDqIiW2T53) | [Julius Nilsson](https://open.spotify.com/artist/6TldgZgNH66W2AGRLsqwPX) | [Preludes](https://open.spotify.com/album/39pSeV5BLaPnUAQUtx6ww1) | 2:19 | 2022-12-22 |  |
 | [Closer](https://open.spotify.com/track/7xB4ErvUJTglvf4dXx8MWL) | [Matt Stewart\-Evans](https://open.spotify.com/artist/7x67OgZ8Iu8FEYpvRAPuh7) | [Closer](https://open.spotify.com/album/6VzBJs7FDfaGi2MnFRQvYt) | 2:24 | 2022-06-07 | 2023-10-05 |
+| [Coming Home](https://open.spotify.com/track/71m2wUi0w4bQHDqloMQg5c) | [Catherine Peterson](https://open.spotify.com/artist/4w0JSW4wf4K5yYsruCZEbV) | [Coming Home](https://open.spotify.com/album/3Gi20dWoDXkD68d73yiM6S) | 2:35 | 2023-10-17 |  |
 | [Confession](https://open.spotify.com/track/7IhjDHQ2l4uRgyRNkWgbWt) | [Michael Frankenberger](https://open.spotify.com/artist/4LKXdZFgLqP1Yozo8I28jJ) | [Confession](https://open.spotify.com/album/7CSswOSFP7HjwUzXWhZYiT) | 2:29 | 2022-06-07 | 2022-09-15 |
 | [Consideratium](https://open.spotify.com/track/1pKCmEcXVbQD2D26TbdKTN) | [Guilliaume Om](https://open.spotify.com/artist/59TontIdB13G6OPjg6m7NN) | [Consideratium](https://open.spotify.com/album/6028ZgCsODgI11tMHXljGz) | 2:12 | 2022-06-07 | 2022-09-24 |
 | [Contemplation](https://open.spotify.com/track/1CzzOIi8GHxhzCaovIHYz4) | [Melody of Sound](https://open.spotify.com/artist/1jbj3bUyRhQ8FqU55nERZ4) | [Contemplation](https://open.spotify.com/album/1bjQy5fBUfZI24oR9A7Ttx) | 2:24 | 2022-06-07 | 2023-07-28 |
@@ -136,7 +137,7 @@
 | [Endings](https://open.spotify.com/track/1BOpxyhfyyHYjDYA4gEGZF) | [Vincent Sparro](https://open.spotify.com/artist/1fkVeQuRUagDehsQrRfh99) | [A Missing Piece](https://open.spotify.com/album/5N4as2iSANQpt1HIUa0wYv) | 1:37 | 2022-06-07 | 2023-03-12 |
 | [Enouement](https://open.spotify.com/track/2FGyZllOwDIALirU4HK6hZ) | [Josh Kramer](https://open.spotify.com/artist/2stOL2fH4SxcTNg7RXo9AG) | [Enouement](https://open.spotify.com/album/4dd6YuBtoc8bdxcQSiTlb7) | 2:14 | 2022-06-07 | 2022-09-15 |
 | [Epiphany](https://open.spotify.com/track/0DhwopSy06N6fkE0SycMQh) | [Aeyes Libe](https://open.spotify.com/artist/2PUFZI4SN9XsFMf0i7qEwv) | [Epiphany](https://open.spotify.com/album/67UkzWbELUNzNwUoayPLKR) | 3:20 | 2022-06-07 |  |
-| [Erinnerungen](https://open.spotify.com/track/0mXVKfTSOA5wdLx1COKyLc) | [Agnes Klein](https://open.spotify.com/artist/5ZxksGDvjeNLxyy7t4NSpV) | [Erinnerungen](https://open.spotify.com/album/52JKRxmZf174HBImkvwN2q) | 3:10 | 2022-06-07 |  |
+| [Erinnerungen](https://open.spotify.com/track/0mXVKfTSOA5wdLx1COKyLc) | [Agnes Klein](https://open.spotify.com/artist/5ZxksGDvjeNLxyy7t4NSpV) | [Erinnerungen](https://open.spotify.com/album/52JKRxmZf174HBImkvwN2q) | 3:10 | 2022-06-07 | 2023-10-18 |
 | [Eros](https://open.spotify.com/track/6S7DVL5a6gVfHCT93P2STO) | [Las Tinieblas](https://open.spotify.com/artist/3eY0YTyWNXA8z9zrWz1kYU) | [Eros](https://open.spotify.com/album/7hOhgHILlzIIjBziaqADKt) | 2:08 | 2022-06-07 |  |
 | [Estebania](https://open.spotify.com/track/7JovgYye2faHH2pvnV0EY4) | [David Sato](https://open.spotify.com/artist/0Xp27nG9qE8eLiqvx1UUj5) | [Estebania](https://open.spotify.com/album/1wNGh4oE2iPQ7CgnPrbq4K) | 2:51 | 2022-06-07 | 2023-08-08 |
 | [Esthetic](https://open.spotify.com/track/424kxlBHkHVxwwMkDlPp1s) | [Maru Gomes](https://open.spotify.com/artist/3c06rwhV9teHblfhGaUqdp) | [Esthetic](https://open.spotify.com/album/7JYclSv63BYa69okll9GKk) | 2:27 | 2022-06-07 | 2022-07-20 |
@@ -217,6 +218,7 @@
 | [Ingénue](https://open.spotify.com/track/3eh0aTbpVViZatOcCnSTMW) | [Nino Carl](https://open.spotify.com/artist/3V1leSurIPtt6YdrfnJNo2) | [Ingénue](https://open.spotify.com/album/4VSETamjgx6cwFsdba8N7b) | 2:27 | 2023-08-15 |  |
 | [Inmersion](https://open.spotify.com/track/2U5SDqmvtVPPV1RBKyaZH9) | [Emil Negri](https://open.spotify.com/artist/6PRz3C0udLohuqVbczkyL6) | [Inmersion](https://open.spotify.com/album/4UKB7Z0S4Qwy6SjYddkmk1) | 2:19 | 2023-06-20 |  |
 | [Inner Axis](https://open.spotify.com/track/1jd5fyqDAFheXyMkCB0AX7) | [Marco Caron](https://open.spotify.com/artist/1ukrMCaSMKpylie4DjbhNw) | [Inner Axis](https://open.spotify.com/album/2EpslSBwvpOzdt0kk9nO4U) | 2:35 | 2022-06-07 |  |
+| [Insignia](https://open.spotify.com/track/17moSSyt9oOxVHyewjXLav) | [Aron Edwards](https://open.spotify.com/artist/3HVOv7Lm5kDzwbpGibjL4W) | [Insignia](https://open.spotify.com/album/6KljnSEKSgk32JLRN4Vd9H) | 2:58 | 2023-10-17 |  |
 | [Intermedanos](https://open.spotify.com/track/4XR0XV2Quru1vEYZvTyWEP) | [Hondos Rostros](https://open.spotify.com/artist/1GkARSHIynvDFV4eyUZvhC) | [Intermedanos](https://open.spotify.com/album/39KxecFN1USX9DDlAU8ITO) | 2:35 | 2022-06-07 | 2022-12-06 |
 | [Intermediate](https://open.spotify.com/track/1kaBf48DzOMZGZaW8RS0a6) | [Alain Pironi](https://open.spotify.com/artist/3eJuiAewsbEy5XAiGnQlhr) | [Intermediate](https://open.spotify.com/album/7zr0qB3NM8DbgKTdqTr7LU) | 2:30 | 2022-06-07 | 2023-08-16 |
 | [Interstellar Seasons](https://open.spotify.com/track/7m6PhceApKOx7Z2hFM4fIX) | [Thalia Havenstein](https://open.spotify.com/artist/2SNA9lbI3oRV7mtnBTNEs7) | [Interstellar Seasons](https://open.spotify.com/album/3m11zDc4En223CSPDiw5cA) | 2:31 | 2022-06-07 |  |
@@ -224,7 +226,7 @@
 | [Irenic](https://open.spotify.com/track/6TOY3VJAAMb2uRfYLBvCXR) | [Davignon](https://open.spotify.com/artist/6X9fOKgbMi7PCa7ZuB7ktE) | [Irenic](https://open.spotify.com/album/3bFSZrJMYMzAh62F1ujuhx) | 2:57 | 2023-10-04 |  |
 | [Jalousie](https://open.spotify.com/track/0EhY59G3z36qhZvRf4JLWi) | [Amy\-Leigh Williamson](https://open.spotify.com/artist/5rc29ZWhATx7oy7gk525xx) | [Jalousie](https://open.spotify.com/album/38V6f82x9xE1Tet8pItNnj) | 2:00 | 2022-06-07 | 2022-07-20 |
 | [Kardelen](https://open.spotify.com/track/3d7Tl14KLOVLGvTnzROcKh) | [Josh Kramer](https://open.spotify.com/artist/2stOL2fH4SxcTNg7RXo9AG) | [Kardelen](https://open.spotify.com/album/1JDuMQKNZHgURjACFtv0d8) | 2:47 | 2022-06-07 |  |
-| [kawaguchiko](https://open.spotify.com/track/3lGHx6NLMzkhwcCmO7gwBY) | [Valla](https://open.spotify.com/artist/1nrQ489GYy77LqrmBOmtfh) | [Wünderdoll](https://open.spotify.com/album/3VC8wOGv0ifbJyP5mEirn9) | 2:02 | 2023-03-14 |  |
+| [kawaguchiko](https://open.spotify.com/track/3lGHx6NLMzkhwcCmO7gwBY) | [Valla](https://open.spotify.com/artist/1nrQ489GYy77LqrmBOmtfh) | [Wünderdoll](https://open.spotify.com/album/3VC8wOGv0ifbJyP5mEirn9) | 2:02 | 2023-03-14 | 2023-10-18 |
 | [Kay's Recovery](https://open.spotify.com/track/6heseVBVY5E1zh6z4FyMDA) | [Joaquin Conor](https://open.spotify.com/artist/09O6u1o77QVzr1RI6zyZv7) | [Kay's Recovery](https://open.spotify.com/album/2Ugt7X6hGDE0C722Tpgot4) | 1:54 | 2023-05-19 | 2023-07-25 |
 | [Keep You Safe](https://open.spotify.com/track/6XwdGPFuIObAvlrgwTuFOC) | [Morunas](https://open.spotify.com/artist/36RxHbl3Duv6WNJjOGPhV4) | [Keep You Safe](https://open.spotify.com/album/7llQfYCqtcg0uXYQu2ZQOx) | 2:04 | 2022-06-07 |  |
 | [Kiriume](https://open.spotify.com/track/6VaWHjTTcKiPjWEkejHkMR) | [Arden Forest](https://open.spotify.com/artist/3LUa5res2UmvZ04kvlPMc7) | [Kiriume](https://open.spotify.com/album/63qOqv2FOkfpIUs2SKEuH6) | 2:24 | 2022-06-07 | 2023-06-22 |
@@ -282,7 +284,7 @@
 | [Matria](https://open.spotify.com/track/03wyufh9uNomZdlKIcQ0E4) | [Lara Di Umbra](https://open.spotify.com/artist/26Js1EtYSgTosRfHYbEpZG) | [Matria](https://open.spotify.com/album/0zy7lGbPXU48J64SMrhoqs) | 2:32 | 2022-06-07 | 2022-09-15 |
 | [Meandering](https://open.spotify.com/track/4jpRyLpvGSUPVSx8oO8xWo) | [JON](https://open.spotify.com/artist/7717ICSNEMAa0SC9LaXrGP) | [Meandering](https://open.spotify.com/album/2Q4TRJ0g4yMoOUcCciKZr9) | 2:53 | 2022-06-07 | 2023-09-12 |
 | [Melancholy](https://open.spotify.com/track/0nE4j0wkGn5ijBPguBbZau) | [Les Moray](https://open.spotify.com/artist/3oJtOPrahfYye5Ffs05pYR) | [Melancholy](https://open.spotify.com/album/7rrwtqNk6EUU4nVsCof0M3) | 3:34 | 2023-05-19 |  |
-| [Melopedie](https://open.spotify.com/track/7kAf6Xha70vAio4LsIhJqT) | [Petit Lilou](https://open.spotify.com/artist/6TjSQf8b2FKQ0iLI9F1l1v) | [Melopedie](https://open.spotify.com/album/5AbUGX4J4L3ppLWif6ZGKR) | 2:56 | 2022-06-07 |  |
+| [Melopedie](https://open.spotify.com/track/7kAf6Xha70vAio4LsIhJqT) | [Petit Lilou](https://open.spotify.com/artist/6TjSQf8b2FKQ0iLI9F1l1v) | [Melopedie](https://open.spotify.com/album/5AbUGX4J4L3ppLWif6ZGKR) | 2:56 | 2022-06-07 | 2023-10-18 |
 | [Memories Of Tomorrow](https://open.spotify.com/track/2wjGwI406tRO1upG6JuNtn) | [Catherine Peterson](https://open.spotify.com/artist/4w0JSW4wf4K5yYsruCZEbV) | [Memories Of Tomorrow](https://open.spotify.com/album/7s9RumNIGfCh4HBKEWBjPC) | 2:19 | 2022-06-07 | 2023-04-25 |
 | [Mer Noire](https://open.spotify.com/track/5iLMqDI5mRCdK2VSIQYf59) | [Jonathan Salmon](https://open.spotify.com/artist/3owpIJZNZCgXp7WLQJWObU) | [Mer Noire](https://open.spotify.com/album/7MFZbvPUX7G99LPMnyWZ4X) | 2:26 | 2022-06-07 |  |
 | [Metanoia](https://open.spotify.com/track/5fRCo9FZmnE92j7BnY3Win) | [Constance Lucas](https://open.spotify.com/artist/3xe11Jl7vdO7Py3udTGzWq) | [Metanoia](https://open.spotify.com/album/1CiQYlksvhi8cgPaFno6kl) | 2:21 | 2022-12-22 |  |
@@ -303,6 +305,7 @@
 | [My fellow creatures](https://open.spotify.com/track/1YcABWwgkfrOSw8VMgDWZU) | [Carlos Cipa](https://open.spotify.com/artist/23Yv6j1axUmPPo5M6u6erO) | [Correlations B\-Sides \(on Yamaha Upright, 1981\)](https://open.spotify.com/album/2G4IIha9htug2thniT54uy) | 3:25 | 2022-06-07 | 2022-07-20 |
 | [My Mind Made Up](https://open.spotify.com/track/28EEsmFKYr0HTeCxyEeeqO) | [Sarah Seing](https://open.spotify.com/artist/4Sw3vhjwiEgEuExPxm3vpl) | [My Mind Made Up](https://open.spotify.com/album/5gj3aLJleU4wkfTN2bttEO) | 3:35 | 2022-06-07 | 2022-09-24 |
 | [My Promise To You](https://open.spotify.com/track/4ZvOrYWUCgIRRQ4xwrFbRI) | [Maria Buehler](https://open.spotify.com/artist/414bu4YqVabs17TyYuWzbt) | [My Promise To You](https://open.spotify.com/album/732OE6JgjqVwEXCY6CqpaF) | 2:23 | 2022-06-07 | 2022-09-24 |
+| [My Solace My Home](https://open.spotify.com/track/0mD5cqe5rW4rPjlEBpRqUK) | [Ryley Moss](https://open.spotify.com/artist/0qWu3rMcE5Hp0gcAUjPPAG) | [My Solace My Home](https://open.spotify.com/album/5eV8QRBAGsHmGiJuaHjlEh) | 2:26 | 2023-10-17 |  |
 | [Mysa](https://open.spotify.com/track/4nXPDQcgsGu4DUKDsS93AA) | [Amity Fall](https://open.spotify.com/artist/6cGxRgjUNOdLJ1dJby1GmS) | [Mysa](https://open.spotify.com/album/4Bgu4hE3kSBRILnx0DXL0D) | 2:14 | 2022-06-07 | 2022-09-15 |
 | [Mère bien\-aimée](https://open.spotify.com/track/4iUW2jCsr1jofP9GQGuXPh) | [Céline Aubin](https://open.spotify.com/artist/1uJcXulhTLN9A0F6qrpWeT) | [Mère bien\-aimée](https://open.spotify.com/album/6l6nZMFvZ8SYslMUPvuOdr) | 2:16 | 2022-06-07 | 2022-07-20 |
 | [Naoko](https://open.spotify.com/track/69eVeuJn0NONg1vRdhLmmU) | [Emilija Grey](https://open.spotify.com/artist/3tv3uBF05Jt45Q3ZbXeCSI) | [Naoko](https://open.spotify.com/album/50eCW2CjWfy37vvKaWOoUE) | 2:27 | 2022-06-07 |  |
@@ -338,6 +341,7 @@
 | [Particle rise](https://open.spotify.com/track/0D1cenBb72xRFkD4CErjP3) | [Ama Hemmah](https://open.spotify.com/artist/6hTWxjJtaTM4iQQuOexVqY) | [Particle rise](https://open.spotify.com/album/1jeycRIxUrfUgKxTzDRrKR) | 2:32 | 2023-05-03 |  |
 | [Passage sombre](https://open.spotify.com/track/22wBRYNiY0W3Kl1Zk6hmAk) | [Chloé Aubrée](https://open.spotify.com/artist/7hNVE8EgE0njBXBgSEo7kT) | [Passage sombre](https://open.spotify.com/album/0QwnyoB5v0ZhhFThPZg3Y9) | 2:14 | 2022-06-07 |  |
 | [Passing Time](https://open.spotify.com/track/4dVCVkwJFhuLlY3mNia5uk) | [Kylian Rebour](https://open.spotify.com/artist/2po95mGJ6RRvZFtta9LUyX) | [Passing Time](https://open.spotify.com/album/0vHNtvr3HDKoi3lfPMiujH) | 2:17 | 2022-06-07 | 2022-09-24 |
+| [Paths](https://open.spotify.com/track/3JWltf5Em6j7uhJhSNFneD) | [Silje Mørk](https://open.spotify.com/artist/3Th7uQxL5iOFrWHZ4GZIzP) | [Paths](https://open.spotify.com/album/5mo02zw7os9mLxLZtANHlC) | 2:52 | 2023-10-17 |  |
 | [Peace Frame](https://open.spotify.com/track/1hEqY5WgZIpNgZKmuFGNax) | [Mauvais Roger](https://open.spotify.com/artist/3WywoFt9vF6tSIJGseVSTD) | [Peace Frame](https://open.spotify.com/album/0kSkprStyDhDvoZJwHd6wH) | 2:59 | 2022-06-07 |  |
 | [Peaceful Ignorance](https://open.spotify.com/track/5bGPLVJlI19XA1Oi4XtdEV) | [Evening Tales from the Stars](https://open.spotify.com/artist/4VftS6I87aCiaNvLRYhgBM) | [Peaceful Ignorance](https://open.spotify.com/album/6BGZkVmgfvJvsHGlK6Ri16) | 2:38 | 2023-09-05 |  |
 | [Peaceful Rebellion](https://open.spotify.com/track/55as6jfARR6xn5g0ZxChCA) | [Janet Redger](https://open.spotify.com/artist/7303TPICVC0WJvWy0FVstL) | [Peaceful Rebellion](https://open.spotify.com/album/57Pg8ejZM8WiXzduIW1SXI) | 2:19 | 2022-06-07 |  |
@@ -540,7 +544,7 @@
 | [Vaguely Reminiscent](https://open.spotify.com/track/3PJLOitvkwc2NXlqOYmd4C) | [Tomasz Kraal](https://open.spotify.com/artist/1XJ3PChclslYOOvJ7fJRkJ) | [Vaguely Reminiscent](https://open.spotify.com/album/2pnqRa2Xk7YBNGiqlM5xvQ) | 3:18 | 2022-06-07 | 2022-07-20 |
 | [Valverde](https://open.spotify.com/track/5G1xgH1zCwWF4f5aIOUksB) | [Jacques Ferrandi](https://open.spotify.com/artist/5ZHteW1wcQ0lo61nAFQPV7) | [Duality](https://open.spotify.com/album/3dE84iT1GkIHixshI0twdV) | 2:04 | 2022-06-07 | 2023-03-10 |
 | [Van Gogh](https://open.spotify.com/track/1r7u0P8riC2vByLBR9aTcl) | [Emma Czaplica](https://open.spotify.com/artist/6h7OQW56Ckjwk8kbA1cxqF) | [Van Gogh](https://open.spotify.com/album/3pdsKk5JDvyNzZM8nFeKup) | 2:58 | 2022-06-07 | 2022-07-20 |
-| [Vanishing](https://open.spotify.com/track/0EFseo68EYQE7wptYPTuMG) | [David Sato](https://open.spotify.com/artist/0Xp27nG9qE8eLiqvx1UUj5) | [Vanishing](https://open.spotify.com/album/7wzFXVYTTkez9YZSRPQBnm) | 3:31 | 2022-06-07 |  |
+| [Vanishing](https://open.spotify.com/track/0EFseo68EYQE7wptYPTuMG) | [David Sato](https://open.spotify.com/artist/0Xp27nG9qE8eLiqvx1UUj5) | [Vanishing](https://open.spotify.com/album/7wzFXVYTTkez9YZSRPQBnm) | 3:31 | 2022-06-07 | 2023-10-18 |
 | [Varazdin](https://open.spotify.com/track/4MbjcL460D3UHueKiREBPZ) | [Davorka Poljak](https://open.spotify.com/artist/4BBOdslZwXmnXLC4JUm3xg) | [Varazdin](https://open.spotify.com/album/4vYwpkP10mwLThSSeYpsoV) | 1:46 | 2022-07-19 | 2023-07-25 |
 | [Veleta](https://open.spotify.com/track/6S7OE2VPyGAEMVotv5jEz1) | [Torsten Hugo](https://open.spotify.com/artist/0tbvvo4GnJ1klnn3H4Mk9g) | [Veleta](https://open.spotify.com/album/5D0Nm6ZKoiVphuMUyuzyiA) | 3:51 | 2022-06-07 | 2022-09-15 |
 | [Verlorene Liebe](https://open.spotify.com/track/6NQqhCtPoQ544wmrmnYtYL) | [Jillian Wasser](https://open.spotify.com/artist/5eI8E7aI0efbASULeju84q) | [Verlorene Liebe](https://open.spotify.com/album/36MOUe0F7DpMC0MHG0h777) | 3:02 | 2022-06-07 |  |

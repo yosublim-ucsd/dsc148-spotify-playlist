@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWY64wDtewQt.md) - [plain]
 
 > the beat of your drift
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,785,430 likes - 100 songs - 3 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,793,024 likes - 100 songs - 3 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -105,8 +105,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWY64wDtewQt.md) - [plain]
 | 95 | [Why Not](https://open.spotify.com/track/4oMyggIzClkOcCTvotFLkP) | [Ghostface Playa](https://open.spotify.com/artist/5xegBBY3vjR75woVR9kiy7) | [Why Not](https://open.spotify.com/album/0Qj2wwdBRq690kG8hShuaR) | 2:45 |
 | 96 | [Own Paradise](https://open.spotify.com/track/0uLd2Bf1FBtBNQPsWIkpPG) | [LXAES](https://open.spotify.com/artist/5H0EvN3WxKB6HaRpH7OY0z) | [Own Paradise](https://open.spotify.com/album/5jh2KaX4hvRnEmPM8RM8HG) | 2:08 |
 | 97 | [Mtg \- Coração](https://open.spotify.com/track/4nyMoK6gePLzCJybQl4O2F) | [Dj Samir](https://open.spotify.com/artist/6U0dJxYVB41L8WDZ02Nwuk), [Fyex](https://open.spotify.com/artist/7i7ddOIQP0uI3ktGxI0zkM) | [Mtg \- Coração](https://open.spotify.com/album/4LsthlcTRWkcsfRRn9yxYC) | 1:53 |
-| 98 | [Mtg Ensurdecência Estelar 1.0](https://open.spotify.com/track/3tz2T3sjDeBffwnCZA3PGT) | [FR3ST](https://open.spotify.com/artist/2YXKTfoEjKVzCNI0J6rHbQ), [Mc Gw](https://open.spotify.com/artist/0f1IECbrVV952unZkzrsg2) | [Mtg Ensurdecência Estelar 1.0](https://open.spotify.com/album/367E0XjthTZ3hHVkN5ezJr) | 2:39 |
+| 98 | [Mtg Ensurdecência Estelar 1.0](https://open.spotify.com/track/2X1cIpDWE6nyBCde1iUBVM) | [FR3ST](https://open.spotify.com/artist/2YXKTfoEjKVzCNI0J6rHbQ), [Mc Gw](https://open.spotify.com/artist/0f1IECbrVV952unZkzrsg2) | [Mtg Ensurdecência Estelar 1.0](https://open.spotify.com/album/42DolJPZfnWv0GYPjPDhMw) | 2:39 |
 | 99 | [Scary Garry](https://open.spotify.com/track/658QJ4p8WcbT3O7iWLpO1D) | [Kaito Shoma](https://open.spotify.com/artist/3Tv1UzQAvn0v0hKTxisXnR), [DJ Paul](https://open.spotify.com/artist/2ledyuziz6YjLK5Dw483Oc), [Kingpin Skinny Pimp](https://open.spotify.com/artist/5kkVPwCLmdkqaSQpptZtXj) | [Scary Garry](https://open.spotify.com/album/04QDTmdKMoDHqqFaHEoDVP) | 1:39 |
 | 100 | [Phonk Bachi Bachi](https://open.spotify.com/track/4hx1w2XDXdS7w7cQ4NJxIj) | [DJ TOPO](https://open.spotify.com/artist/0xj9MJx9r0wO2o4aqdergP), [Mc Rd](https://open.spotify.com/artist/6ugw7JCu0AG7txRcRAxU8d) | [Phonk Bachi Bachi](https://open.spotify.com/album/6w26U8IiuMeNYdMAfX52W6) | 1:44 |
 
-Snapshot ID: `MCw4OWFkMjJkNjJmODBkOGUwZDkzOWI4MmMxM2FjYzAzM2Y3NWQxY2Jm`
+Snapshot ID: `MCwyNjg1ZjA5ZTIyMzk5MzMzZjhiOTJmYjM1MzllNzZiNjI4OWVjZmFk`

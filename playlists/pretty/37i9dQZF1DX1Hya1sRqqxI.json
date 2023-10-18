@@ -1,12 +1,12 @@
 {
   "description": "The biggest party hits of the 1970s. Cover: The Jacksons.",
-  "num_followers": 326648,
+  "num_followers": 326925,
   "original_name": "70s Party",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhNDNmNTI2MjcwZmQ0YWFhZjg3MDkwODk5YWY0NjRjMWQxNTYyYzU5",
+  "snapshot_id": "MCw4YTlkMDFkYzc5YTJlMGYxNGJlYjliM2UxYTMyNGVhNjU3ZjAwNjAy",
   "tracks": [
     {
       "added_at": "2021-03-22 14:18:04",
@@ -1067,18 +1067,18 @@
     {
       "added_at": "2021-09-08 13:31:49",
       "album": {
-        "name": "Bellamy Brothers",
-        "url": "https://open.spotify.com/album/77EM0wkGevYQcBo1AJt7B0"
+        "name": "Dance Vault Mixes - Copacabana (At The Copa)",
+        "url": "https://open.spotify.com/album/52Ho5XgGwrNrPARqqXhJ5P"
       },
       "artists": [
         {
-          "name": "The Bellamy Brothers",
-          "url": "https://open.spotify.com/artist/5iB5AWIa7qreioi0AF3Bxa"
+          "name": "Barry Manilow",
+          "url": "https://open.spotify.com/artist/3alW3LYQS8K29z8C8NSLIX"
         }
       ],
-      "duration_ms": 198760,
-      "name": "Let Your Love Flow",
-      "url": "https://open.spotify.com/track/064SVQsmWl5EF0zahmzkQk"
+      "duration_ms": 236760,
+      "name": "Copacabana (At the Copa)",
+      "url": "https://open.spotify.com/track/5FMXrphygZ4z3gVDHGWxgl"
     },
     {
       "added_at": "2021-03-22 14:18:04",
@@ -1095,6 +1095,22 @@
       "duration_ms": 190058,
       "name": "It's A Shame",
       "url": "https://open.spotify.com/track/1l1YTy9nJ0trwhsCGcimly"
+    },
+    {
+      "added_at": "2021-09-08 13:31:49",
+      "album": {
+        "name": "Bellamy Brothers",
+        "url": "https://open.spotify.com/album/77EM0wkGevYQcBo1AJt7B0"
+      },
+      "artists": [
+        {
+          "name": "The Bellamy Brothers",
+          "url": "https://open.spotify.com/artist/5iB5AWIa7qreioi0AF3Bxa"
+        }
+      ],
+      "duration_ms": 198760,
+      "name": "Let Your Love Flow",
+      "url": "https://open.spotify.com/track/064SVQsmWl5EF0zahmzkQk"
     },
     {
       "added_at": "2021-09-08 13:31:49",
@@ -1143,22 +1159,6 @@
       "duration_ms": 295466,
       "name": "Saturday Night\u2019s Alright (For Fighting) - Remastered 2014",
       "url": "https://open.spotify.com/track/12yHvSYFXI7PGzNecUvIDu"
-    },
-    {
-      "added_at": "2021-09-08 13:31:49",
-      "album": {
-        "name": "Dance Vault Mixes - Copacabana (At The Copa)",
-        "url": "https://open.spotify.com/album/52Ho5XgGwrNrPARqqXhJ5P"
-      },
-      "artists": [
-        {
-          "name": "Barry Manilow",
-          "url": "https://open.spotify.com/artist/3alW3LYQS8K29z8C8NSLIX"
-        }
-      ],
-      "duration_ms": 236760,
-      "name": "Copacabana (At the Copa)",
-      "url": "https://open.spotify.com/track/5FMXrphygZ4z3gVDHGWxgl"
     },
     {
       "added_at": "2021-03-22 14:18:04",
@@ -1503,22 +1503,6 @@
     {
       "added_at": "2021-09-08 13:31:49",
       "album": {
-        "name": "You Don't Mess Around With Jim",
-        "url": "https://open.spotify.com/album/3L9sVl5T7UpFK6tNeEiXdy"
-      },
-      "artists": [
-        {
-          "name": "Jim Croce",
-          "url": "https://open.spotify.com/artist/1R6Hx1tJ2VOUyodEpC12xM"
-        }
-      ],
-      "duration_ms": 184640,
-      "name": "You Don't Mess Around with Jim",
-      "url": "https://open.spotify.com/track/5yrsBzgHkfu2idkl2ILQis"
-    },
-    {
-      "added_at": "2021-09-08 13:31:49",
-      "album": {
         "name": "The Next Voice You Hear - The Best Of Jackson Browne",
         "url": "https://open.spotify.com/album/0B98S6H0OAGWHaXFpjhqKu"
       },
@@ -1531,6 +1515,22 @@
       "duration_ms": 199706,
       "name": "Doctor My Eyes - 1997 Remaster",
       "url": "https://open.spotify.com/track/5OuaAMBmGjjJMK7yXpaFAK"
+    },
+    {
+      "added_at": "2021-09-08 13:31:49",
+      "album": {
+        "name": "You Don't Mess Around With Jim",
+        "url": "https://open.spotify.com/album/3L9sVl5T7UpFK6tNeEiXdy"
+      },
+      "artists": [
+        {
+          "name": "Jim Croce",
+          "url": "https://open.spotify.com/artist/1R6Hx1tJ2VOUyodEpC12xM"
+        }
+      ],
+      "duration_ms": 184640,
+      "name": "You Don't Mess Around with Jim",
+      "url": "https://open.spotify.com/track/5yrsBzgHkfu2idkl2ILQis"
     },
     {
       "added_at": "2021-09-08 13:31:49",
@@ -1943,22 +1943,6 @@
     {
       "added_at": "2021-09-08 13:31:49",
       "album": {
-        "name": "Wild And Peaceful",
-        "url": "https://open.spotify.com/album/3MRgojA0LfPka4RG7aRjsI"
-      },
-      "artists": [
-        {
-          "name": "Kool & The Gang",
-          "url": "https://open.spotify.com/artist/3VNITwohbvU5Wuy5PC6dsI"
-        }
-      ],
-      "duration_ms": 279933,
-      "name": "Hollywood Swinging",
-      "url": "https://open.spotify.com/track/6igsoAR6Co9u7Rq3U7mlOD"
-    },
-    {
-      "added_at": "2021-09-08 13:31:49",
-      "album": {
         "name": "Silk Degrees (2023 Remaster)",
         "url": "https://open.spotify.com/album/1iIyo1JkpnNz83Mf4I9AiI"
       },
@@ -1971,6 +1955,22 @@
       "duration_ms": 317788,
       "name": "Lowdown (2023 Remaster)",
       "url": "https://open.spotify.com/track/5QhikAUv91oMAaFnfKz22u"
+    },
+    {
+      "added_at": "2021-09-08 13:31:49",
+      "album": {
+        "name": "Wild And Peaceful",
+        "url": "https://open.spotify.com/album/3MRgojA0LfPka4RG7aRjsI"
+      },
+      "artists": [
+        {
+          "name": "Kool & The Gang",
+          "url": "https://open.spotify.com/artist/3VNITwohbvU5Wuy5PC6dsI"
+        }
+      ],
+      "duration_ms": 279933,
+      "name": "Hollywood Swinging",
+      "url": "https://open.spotify.com/track/6igsoAR6Co9u7Rq3U7mlOD"
     },
     {
       "added_at": "2021-09-08 13:31:49",
@@ -2057,22 +2057,6 @@
       "url": "https://open.spotify.com/track/2wYKNcoqKW4IEcllj42xz1"
     },
     {
-      "added_at": "2021-09-08 13:31:49",
-      "album": {
-        "name": "Go West In the Navy",
-        "url": "https://open.spotify.com/album/3iF4amlNW1yd9DoZ9WOD1i"
-      },
-      "artists": [
-        {
-          "name": "Village People",
-          "url": "https://open.spotify.com/artist/0dCKce6tJJdHvlWnDMwzPW"
-        }
-      ],
-      "duration_ms": 339946,
-      "name": "In the Navy - Original Version 1979",
-      "url": "https://open.spotify.com/track/4mjFMScEvHeM72791mXRCW"
-    },
-    {
       "added_at": "2021-03-22 14:18:04",
       "album": {
         "name": "If You Knew Suzi\u2026 (2017 Remaster)",
@@ -2087,6 +2071,22 @@
       "duration_ms": 232994,
       "name": "If You Can't Give Me Love - 2017 Remaster",
       "url": "https://open.spotify.com/track/45JKOZUyOFoLhmEltJFEeW"
+    },
+    {
+      "added_at": "2021-09-08 13:31:49",
+      "album": {
+        "name": "Go West In the Navy",
+        "url": "https://open.spotify.com/album/3iF4amlNW1yd9DoZ9WOD1i"
+      },
+      "artists": [
+        {
+          "name": "Village People",
+          "url": "https://open.spotify.com/artist/0dCKce6tJJdHvlWnDMwzPW"
+        }
+      ],
+      "duration_ms": 339946,
+      "name": "In the Navy - Original Version 1979",
+      "url": "https://open.spotify.com/track/4mjFMScEvHeM72791mXRCW"
     },
     {
       "added_at": "2021-09-08 13:31:49",
@@ -2217,6 +2217,22 @@
       "url": "https://open.spotify.com/track/3O48gtvD20jxiNtT7tWr4C"
     },
     {
+      "added_at": "2021-03-22 14:18:04",
+      "album": {
+        "name": "Aja",
+        "url": "https://open.spotify.com/album/1hOK2ey9W76x9GnftSRgrw"
+      },
+      "artists": [
+        {
+          "name": "Steely Dan",
+          "url": "https://open.spotify.com/artist/6P7H3ai06vU1sGvdpBwDmE"
+        }
+      ],
+      "duration_ms": 237066,
+      "name": "Peg",
+      "url": "https://open.spotify.com/track/5emxp4RqsF6QoAWXW2Afrk"
+    },
+    {
       "added_at": "2021-09-08 13:31:49",
       "album": {
         "name": "Signature Box",
@@ -2251,22 +2267,6 @@
       "duration_ms": 355173,
       "name": "I Feel Love",
       "url": "https://open.spotify.com/track/1vCBk33l9HaWp5FOnhSGxk"
-    },
-    {
-      "added_at": "2021-03-22 14:18:04",
-      "album": {
-        "name": "Aja",
-        "url": "https://open.spotify.com/album/1hOK2ey9W76x9GnftSRgrw"
-      },
-      "artists": [
-        {
-          "name": "Steely Dan",
-          "url": "https://open.spotify.com/artist/6P7H3ai06vU1sGvdpBwDmE"
-        }
-      ],
-      "duration_ms": 237066,
-      "name": "Peg",
-      "url": "https://open.spotify.com/track/5emxp4RqsF6QoAWXW2Afrk"
     },
     {
       "added_at": "2021-09-08 13:31:49",
@@ -2429,20 +2429,20 @@
       "url": "https://open.spotify.com/track/3b9Cpi8jW9jNoyx72QbfRO"
     },
     {
-      "added_at": "2021-09-08 13:31:49",
+      "added_at": "2021-03-22 14:18:04",
       "album": {
-        "name": "Who Loves You",
-        "url": "https://open.spotify.com/album/7fbHVufa1ZvEWWpDppEXHU"
+        "name": "KC & the Sunshine Band, Pt. 3... and More",
+        "url": "https://open.spotify.com/album/1nxHfb1EerQyKdT1aLSXf6"
       },
       "artists": [
         {
-          "name": "Frankie Valli & The Four Seasons",
-          "url": "https://open.spotify.com/artist/6mcrZQmgzFGRWf7C0SObou"
+          "name": "KC & The Sunshine Band",
+          "url": "https://open.spotify.com/artist/3mQBpAOMWYqAZyxtyeo4Lo"
         }
       ],
-      "duration_ms": 255600,
-      "name": "Who Loves You",
-      "url": "https://open.spotify.com/track/5MjwNUe4SSzAzsHoBjlPOm"
+      "duration_ms": 186906,
+      "name": "(Shake, Shake, Shake) Shake Your Booty",
+      "url": "https://open.spotify.com/track/3Is0Nnz59rzbNZE491URlY"
     }
   ],
   "unique_name": "70s Party",

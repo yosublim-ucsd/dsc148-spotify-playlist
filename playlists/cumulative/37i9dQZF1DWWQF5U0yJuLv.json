@@ -284,7 +284,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-18",
       "duration_ms": 402024,
       "name": "Body Control",
       "url": "https://open.spotify.com/track/761ln8LuN4gus7oR2EGN7K"
@@ -1469,6 +1469,24 @@
     },
     {
       "album": {
+        "name": "For Beginner Piano",
+        "url": "https://open.spotify.com/album/2mdkf39z60lelr7zulBMky"
+      },
+      "artists": [
+        {
+          "name": "Plone",
+          "url": "https://open.spotify.com/artist/28HqZ2RaUbI3uewbxWDW41"
+        }
+      ],
+      "date_added": "2023-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229826,
+      "name": "Marbles",
+      "url": "https://open.spotify.com/track/54WZSly8s7E08NsP1twRU2"
+    },
+    {
+      "album": {
         "name": "Existenzmaximum - EP",
         "url": "https://open.spotify.com/album/3NWkkkqOSXEr0w7VS8oLyl"
       },
@@ -1786,7 +1804,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-18",
       "duration_ms": 254800,
       "name": "Plaything",
       "url": "https://open.spotify.com/track/0VEU0lalfqxjwezz7M1YaI"
@@ -2206,6 +2224,24 @@
       "duration_ms": 188802,
       "name": "STARS",
       "url": "https://open.spotify.com/track/0WSIufID4rzjlJaBneODBc"
+    },
+    {
+      "album": {
+        "name": "Iaora Tahiti",
+        "url": "https://open.spotify.com/album/1SyTP3tlVWLNc7FPUaEQii"
+      },
+      "artists": [
+        {
+          "name": "Mouse On Mars",
+          "url": "https://open.spotify.com/artist/4ZgIWfyg9BkcqnJJ2xVR3f"
+        }
+      ],
+      "date_added": "2023-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278493,
+      "name": "Stereomission",
+      "url": "https://open.spotify.com/track/2bEFcAISP2KpoWCiWI6Pzc"
     },
     {
       "album": {

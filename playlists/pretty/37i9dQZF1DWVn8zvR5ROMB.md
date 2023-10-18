@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVn8zvR5ROMB.md) - [plain]
 
 > All of the newest country music releases in one playlist! Featuring Kylie Morgan, Chris Stapleton, Riley Green and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 222,515 likes - 79 songs - 4 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 222,671 likes - 79 songs - 4 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -88,4 +88,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVn8zvR5ROMB.md) - [plain]
 | 78 | [I'm On the Whiskey](https://open.spotify.com/track/1NTGMWWIHteuQudgJXluU6) | [Chancey Williams](https://open.spotify.com/artist/6kaBU6Hz3GSkpRh6tfuA98) | [I'm On the Whiskey](https://open.spotify.com/album/0uUIJDaLtNuTSpuaAVGtUW) | 3:01 |
 | 79 | [Waiting on You](https://open.spotify.com/track/5iq3befM8pUkRt5CKrdM3F) | [Blake Henderson](https://open.spotify.com/artist/5ILg0WBOzkaN5ePByRuMw4) | [Waiting on You](https://open.spotify.com/album/41Ah3MmuW7QDVOQBogHnsC) | 3:43 |
 
-Snapshot ID: `MCwwYjk0ZGI0YTAwZjg2NzMyOTkyOWIwOTU4YWI4OWM4YjFhZGY0NDBj`
+Snapshot ID: `MCxkODA3MGI0ZTEzZGFiNDY5YjBkZTdjN2NhZGRkZmYyYTU1YTc0MTU4`

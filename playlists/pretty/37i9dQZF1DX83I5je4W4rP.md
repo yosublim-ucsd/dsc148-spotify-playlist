@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX83I5je4W4rP.md) - [plain]
 
 > Soak up these laid\-back jams.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,063,655 likes - 125 songs - 7 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,063,659 likes - 125 songs - 7 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -76,8 +76,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX83I5je4W4rP.md) - [plain]
 | 66 | [Lift Me Up](https://open.spotify.com/track/3UwL3cYpdTYNpYK512LkFj) | [Dirty Heads](https://open.spotify.com/artist/6GkJh85o22LfD2vgL9DP6f) | [Super Moon](https://open.spotify.com/album/1a8kasT2fbeOcjvFsuGnch) | 2:33 |
 | 67 | [Bang Bang](https://open.spotify.com/track/2yGoiZes2YcueNA4nGDmdS) | [DISPATCH](https://open.spotify.com/artist/6v4jPZO3UIDNJIgdxRxtr9) | [Bang Bang](https://open.spotify.com/album/0tN2TkilPoLmqN21UJBC77) | 4:27 |
 | 68 | [Where's The Love](https://open.spotify.com/track/1XShVicocgCeGOxDAtHSAN) | [Trevor Hall](https://open.spotify.com/artist/3RMHexittaAZkf8zukkZB8) | [Trevor Hall](https://open.spotify.com/album/34rT9ovQneEIUPtwPX9tDn) | 3:59 |
-| 69 | [Something to Believe In](https://open.spotify.com/track/0z1hoxTVVdZn1OxciNsRuw) | [Citizen Cope](https://open.spotify.com/artist/7enBrBojgBJuPPdqTq4Z5F) | [One Lovely Day](https://open.spotify.com/album/08H1gq5VICAZyVXf9XDJax) | 3:41 |
-| 70 | [Press Rewind](https://open.spotify.com/track/1Js26hznhkLlFeRoxCtyNq) | [SOJA](https://open.spotify.com/artist/2vaWvC8suCFkRXejDOK7EE), [J Boog](https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4), [Collie Buddz](https://open.spotify.com/artist/5Ayl2bJtN5mdCsxZoxs9n1) | [Beauty In The Silence](https://open.spotify.com/album/7A0gqTE9Jk3FwwADecN9w8) | 4:34 |
+| 69 | [Press Rewind](https://open.spotify.com/track/1Js26hznhkLlFeRoxCtyNq) | [SOJA](https://open.spotify.com/artist/2vaWvC8suCFkRXejDOK7EE), [J Boog](https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4), [Collie Buddz](https://open.spotify.com/artist/5Ayl2bJtN5mdCsxZoxs9n1) | [Beauty In The Silence](https://open.spotify.com/album/7A0gqTE9Jk3FwwADecN9w8) | 4:34 |
+| 70 | [Something to Believe In](https://open.spotify.com/track/0z1hoxTVVdZn1OxciNsRuw) | [Citizen Cope](https://open.spotify.com/artist/7enBrBojgBJuPPdqTq4Z5F) | [One Lovely Day](https://open.spotify.com/album/08H1gq5VICAZyVXf9XDJax) | 3:41 |
 | 71 | [Edge of the Ocean](https://open.spotify.com/track/0SctzStskP74wkmBBXlmEn) | [Stick Figure](https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R) | [Edge of the Ocean](https://open.spotify.com/album/29TmBre90Vd3iE2pu8cDP1) | 4:55 |
 | 72 | [Down With You](https://open.spotify.com/track/4hd7l6rGzpqVL4PwHRamrA) | [Katchafire](https://open.spotify.com/artist/786hGmAEXHUeCdKPAj3JIa) | [Down With You \- Single](https://open.spotify.com/album/3cSpydfTHQ3t8JXFFPTxaJ) | 3:30 |
 | 73 | [Good Feeling](https://open.spotify.com/track/1JQr89uc6xVkIwfS09ct8K) | [311](https://open.spotify.com/artist/41Q0HrwWBtuUkJc7C1Rp6K) | [Voyager](https://open.spotify.com/album/1OB4dJvhPDVtpEsGbUOZHJ) | 3:23 |
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX83I5je4W4rP.md) - [plain]
 | 124 | [My Wave](https://open.spotify.com/track/5nVJ4fHxEMDex4dDHeKpGj) | [DENM](https://open.spotify.com/artist/6hrOM3yfx3SEtARzDWMikb) | [My Wave](https://open.spotify.com/album/44HTufgjuhdq34g3rAu3PD) | 3:09 |
 | 125 | [Board Meeting](https://open.spotify.com/track/2xsH55uRuzapn3AtYqnEja) | [Wheeland Brothers](https://open.spotify.com/artist/5mabMBNdrC8AIPmjpiqvEq) | [Pacific Vibration](https://open.spotify.com/album/3kc0N4gkYRwUCcuuCbmDa4) | 3:19 |
 
-Snapshot ID: `MCw5ZTk1YmY1Yjk1YTQ1NzRhYjYyMTQxNmU2ODk2NDcwMjljZmQyYmMz`
+Snapshot ID: `MCw0YWJiNTNiZjUwY2E2OTI1OTc2ZWEyMWUyZDUyYTNlOWYyNDdkMzc0`

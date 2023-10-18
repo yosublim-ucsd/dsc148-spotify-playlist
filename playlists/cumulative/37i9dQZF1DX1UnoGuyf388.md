@@ -2,9 +2,9 @@
 
 ### [Pop Frequency](https://open.spotify.com/playlist/37i9dQZF1DX1UnoGuyf388)
 
-> Pop music driving the current, every week\.  Cover: Halle
+> Pop music driving the current, every week\.  Cover: Tinashe
 
-254 songs - 12 hr 52 min
+260 songs - 13 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -39,6 +39,7 @@
 | [Broke a Sweat](https://open.spotify.com/track/5taA6pnGkqh9LRvpRpcUgW) | [Billy Porter](https://open.spotify.com/artist/3sjUEh7eXUEL5oZLAEZXD4) | [Broke a Sweat](https://open.spotify.com/album/7zipQoqEskoBS1OGUG7xBh) | 2:50 | 2023-07-14 |  |
 | [Bubblegum](https://open.spotify.com/track/0amKnLMjFYK1cbsOLfUsQS) | [Dawn Richard](https://open.spotify.com/artist/6pSsE5y0uJMwYj83KrPyf9) | [Bubblegum](https://open.spotify.com/album/5ufzVnDin8kGSu1nl9qeEN) | 2:43 | 2023-04-21 |  |
 | [Buttercup](https://open.spotify.com/track/7oiGzkDfrxvgV1z1mP5muH) | [Kid Travis](https://open.spotify.com/artist/6UWui6Csqc1ywqnDzjOWnk) | [Buttercup](https://open.spotify.com/album/4XxBogi8mepTIkoNnB6Tez) | 3:29 | 2023-02-10 | 2023-07-22 |
+| [Capable of love](https://open.spotify.com/track/4bqDgEc3V9o0gle8mvgCgN) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t) | [Capable of love](https://open.spotify.com/album/0v71HfYxKmyN4kGA96Iwn2) | 3:43 | 2023-10-17 |  |
 | [Cardboard Box](https://open.spotify.com/track/2rf9i0Enr8cw1JRME8Rsvq) | [FLO](https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO) | [Cardboard Box](https://open.spotify.com/album/51OgsspyNulg111Dti5Sdj) | 2:41 | 2023-01-27 | 2023-03-25 |
 | [Changes](https://open.spotify.com/track/11pocbaq7T3ouJd4oa64Xn) | [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9) | [Changes](https://open.spotify.com/album/2Q8EuF1l9sDpbVAmRRiW7e) | 3:09 | 2023-02-17 | 2023-03-18 |
 | [Charm](https://open.spotify.com/track/1iBWjQ9af9NnUd5xnQDB3k) | [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [Rave & Roses Ultra](https://open.spotify.com/album/0nayxjaX54Frd7GsZq6Pbs) | 3:24 | 2023-04-28 |  |
@@ -103,6 +104,7 @@
 | [HOT HOT](https://open.spotify.com/track/3QBbRbF51EwVKeECZ1Hwy0) | [Bree Runway](https://open.spotify.com/artist/58hqTaCiqGrMsNmmm3qL7w) | [HOT HOT](https://open.spotify.com/album/6zMCVXb0hpn4SwVAGlhbYh) | 2:25 | 2022-02-04 | 2022-02-12 |
 | [Hot One](https://open.spotify.com/track/7fKF8XH5PkhbRcYC6h3AEL) | [Leyla Blue](https://open.spotify.com/artist/6HpIVA13SPof8sYuXRUfxj), [Baby Tate](https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4), [REI AMI](https://open.spotify.com/artist/6U1dV7aL68N7Gb0Naq34V5) | [Hot One](https://open.spotify.com/album/0eLCiZEois6hUbUao44vi9) | 2:56 | 2022-02-04 | 2023-01-28 |
 | [Hot Seat](https://open.spotify.com/track/5xukBu3xjGka7Q8bgj6nmE) | [JAHKOY](https://open.spotify.com/artist/1c5SlzViAqsaB0kXygfSjh) | [Tangible](https://open.spotify.com/album/0fvGi7uj6n88ZBSTVvrgDH) | 2:28 | 2022-02-04 | 2023-01-28 |
+| [Hotter Now](https://open.spotify.com/track/4BIyKFJ2pgh3eY7Hc4Ce0k) | [LU KALA](https://open.spotify.com/artist/5R1cUyk9ysrruOo4ErpGjg) | [Hotter Now](https://open.spotify.com/album/7yYUYzfzUGWPkqY1crWBlh) | 3:01 | 2023-10-17 |  |
 | [HUH?](https://open.spotify.com/track/2hWOnCuZo2Js7o0UbDa8m4) | [Dreamer Isioma](https://open.spotify.com/artist/6u6AbTVrbabv27DLcSrF8i) | [HUH?](https://open.spotify.com/album/5deDzBsXuhqGnI4eT0z05t) | 2:43 | 2022-02-04 | 2022-10-13 |
 | [HUH?](https://open.spotify.com/track/41q2qZ5ka6FX52EE3N5v9w) | [Dreamer Isioma](https://open.spotify.com/artist/6u6AbTVrbabv27DLcSrF8i) | [Goodnight Dreamer](https://open.spotify.com/album/6MNtr5YaBrg7Qw2gIFXYBN) | 2:43 | 2022-04-22 | 2023-01-28 |
 | [HUH?](https://open.spotify.com/track/51YAv7jAdOLFVzKSIry2Sw) | [Dreamer Isioma](https://open.spotify.com/artist/6u6AbTVrbabv27DLcSrF8i) | [Goodnight Dreamer](https://open.spotify.com/album/4N5BV2JlYBvLi1g3BSwMdi) | 2:43 | 2022-04-22 | 2022-12-01 |
@@ -136,6 +138,7 @@
 | [Make My Day \(with David Guetta\)](https://open.spotify.com/track/4f0i8ligJspqXf8qeAV1sS) | [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai) | [COI](https://open.spotify.com/album/3LnOoljW00eYKDbBD88eLJ) | 2:15 | 2023-06-23 |  |
 | [Make Up Your Mind](https://open.spotify.com/track/1pi9osnCVKgqMuMrVfAcBM) | [Cordae](https://open.spotify.com/artist/0huGjMyP507tBCARyzSkrv) | [Make Up Your Mind](https://open.spotify.com/album/1Fb1bL19kIPe24nhMcpE80) | 2:52 | 2023-08-04 |  |
 | [Mama's Eyes](https://open.spotify.com/track/3FSOP0KUsO3hv96E92CHsp) | [METTE](https://open.spotify.com/artist/6ukMeuNl2eHxb2z9mTFuKL) | [Mama's Eyes](https://open.spotify.com/album/6PsMjqA7kETWWJ2OJJRbkA) | 3:20 | 2023-02-03 | 2023-08-19 |
+| [Me & U](https://open.spotify.com/track/4nFrcGM7MY1mpoQCC7Kefj) | [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [Me & U](https://open.spotify.com/album/0D1Qm49Hq9cwYbRDeC1HGa) | 3:12 | 2023-10-17 |  |
 | [Middle Ground \(feat\. CHIKA\)](https://open.spotify.com/track/5nGpC4ho50ESHj30ocN3sV) | [Alessia Cara](https://open.spotify.com/artist/2wUjUUtkb5lvLKcGKsKqsR), [CHIKA](https://open.spotify.com/artist/6UtYvUtXnmg5EtllDFlWp8) | [In The Meantime](https://open.spotify.com/album/5reEg9or7xqpXy6XLVIoTE) | 3:43 | 2022-02-04 | 2023-01-28 |
 | [MONTERO \(Call Me By Your Name\)](https://open.spotify.com/track/1SC5rEoYDGUK4NfG82494W) | [Lil Nas X](https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq) | [MONTERO](https://open.spotify.com/album/6pOiDiuDQqrmo5DbG0ZubR) | 2:17 | 2022-04-22 | 2023-01-28 |
 | [MONTERO \(Call Me By Your Name\)](https://open.spotify.com/track/3BZEcbdtXQSo7OrvKRJ6mb) | [Lil Nas X](https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq) | [MONTERO \(Call Me By Your Name\)](https://open.spotify.com/album/5iZytG7j5DDp9RlsmkGI97) | 2:17 | 2022-02-04 | 2022-07-29 |
@@ -177,7 +180,8 @@
 | [Post Nut Clarity](https://open.spotify.com/track/6ZqYNVWAseR8ySw7oR8eId) | [Alemeda](https://open.spotify.com/artist/33Se8kMYeTPkeeM2LnsPF8) | [Post Nut Clarity](https://open.spotify.com/album/43pHwudMD8sBnNart82tfO) | 1:53 | 2022-04-22 | 2023-01-28 |
 | [Pray It Away](https://open.spotify.com/track/06dQ2rcBkq7z3AEZ4jhvc2) | [Chlöe](https://open.spotify.com/artist/1FtBEIWAwvw5ymBen5GICR) | [Pray It Away](https://open.spotify.com/album/2PcSkzIHOrVDhnsmVbfKOC) | 2:36 | 2023-01-27 | 2023-07-22 |
 | [Pressure](https://open.spotify.com/track/0MOFpFNTB8immc0cXindTo) | [Bree Runway](https://open.spotify.com/artist/58hqTaCiqGrMsNmmm3qL7w) | [Pressure](https://open.spotify.com/album/6wQtQ94jJW3yq35mQSBPzU) | 2:36 | 2022-02-11 | 2023-01-28 |
-| [Pretty Girl Era](https://open.spotify.com/track/3w6JB9UckmYZBn4Tsq2kpM) | [LU KALA](https://open.spotify.com/artist/5R1cUyk9ysrruOo4ErpGjg) | [Pretty Girl Era](https://open.spotify.com/album/6G32ymoo3YjIUKVMGIKJUY) | 2:35 | 2023-01-27 |  |
+| [Pretty Girl \(with Rema\)](https://open.spotify.com/track/1p5GikXPiCkw5T2VrSPrO1) | [Ice Spice](https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf), [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [Pretty Girl \(with Rema\)](https://open.spotify.com/album/4IjqbyZZsfaNHnxV92CFuH) | 2:17 | 2023-10-17 |  |
+| [Pretty Girl Era](https://open.spotify.com/track/3w6JB9UckmYZBn4Tsq2kpM) | [LU KALA](https://open.spotify.com/artist/5R1cUyk9ysrruOo4ErpGjg) | [Pretty Girl Era](https://open.spotify.com/album/6G32ymoo3YjIUKVMGIKJUY) | 2:35 | 2023-01-27 | 2023-10-18 |
 | [Questions](https://open.spotify.com/track/2rGAASBrTG770g8wx5NJOV) | [Maeta](https://open.spotify.com/artist/2EwyKG76iX4Pp5HhAD6SKO) | [When I Hear Your Name](https://open.spotify.com/album/4iJiu3yFSwRNPe7dJBwtPM) | 3:13 | 2023-08-04 |  |
 | [R U That \(feat\. 21 Savage\)](https://open.spotify.com/track/4G9ASa9c5scdal2puHntMR) | [Shenseea](https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [R U That \(feat\. 21 Savage\)](https://open.spotify.com/album/2R7eCne1bINTDfQpaQ0h8h) | 2:42 | 2022-02-18 | 2022-02-26 |
 | [Really, Really](https://open.spotify.com/track/4vvdcQqgTUbKOdp7j4s3pg) | [Dreamer Isioma](https://open.spotify.com/artist/6u6AbTVrbabv27DLcSrF8i) | [Crying In The Club](https://open.spotify.com/album/1H40oY3rVCgsN1vt0ytdLp) | 2:26 | 2022-02-04 | 2022-11-14 |
@@ -196,6 +200,7 @@
 | [Sandman](https://open.spotify.com/track/3iXH8nRdc945PO0GlbOroA) | [Tai Verdes](https://open.spotify.com/artist/2kCO8LXN1usaOPL3iEE28I) | [Sandman](https://open.spotify.com/album/0tdqSTY29oE3dMnk2A1PVc) | 3:32 | 2023-06-23 |  |
 | [Selfish](https://open.spotify.com/track/4y3jlIv1tEecRRmp3rUovX) | [Amaal](https://open.spotify.com/artist/785y6F5AHHafGaFaRdpMtz) | [Milly](https://open.spotify.com/album/5l7N5sEr1ALaHvBuMEZ5a0) | 2:41 | 2022-02-04 | 2022-03-12 |
 | [She Walk](https://open.spotify.com/track/1FbGqA9IavClqymKu6Xvk6) | [Todrick Hall](https://open.spotify.com/artist/0gBvuNzrFCOVaiyKexoYMH) | [She Walk](https://open.spotify.com/album/1ad5XWzjbGGc7yWGSgg91O) | 1:47 | 2023-04-21 | 2023-05-06 |
+| [SHUT UP AND KISS ME](https://open.spotify.com/track/69XM2hnoX1hVwqDGnnGZSq) | [Fefe Dobson](https://open.spotify.com/artist/0mzTssRDPIQVH5wSNzOdFZ) | [EMOTION SICKNESS](https://open.spotify.com/album/7qpJHu4q1taE6JOFvdm6YA) | 2:43 | 2023-10-17 |  |
 | [SMILE](https://open.spotify.com/track/1MTz7tNxEoNAePVS953aIu) | [Chris Goma](https://open.spotify.com/artist/4H1frcUKVjOlcXEZRiku5R) | [FREEDOM](https://open.spotify.com/album/1VKLG03tYFnypLNR2ITgk4) | 4:25 | 2022-02-04 | 2022-03-05 |
 | [Somebody Like Me](https://open.spotify.com/track/0uxLU5nNE35ZxNwoKm8XLq) | [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9) | [Proof Of Life](https://open.spotify.com/album/0F9RwW1ScEh2gNEADX67BO) | 3:56 | 2023-04-28 |  |
 | [Something In My Eye](https://open.spotify.com/track/2DW8K92zcLza0lsTlBg7Ld) | [Tayla Parx](https://open.spotify.com/artist/1LzWWI9v4UKdbBgz8fqi15) | [Something In My Eye](https://open.spotify.com/album/4b19y9VplmgR8kOXFpH3B1) | 2:44 | 2023-08-18 |  |
@@ -211,6 +216,7 @@
 | [SUMMER VIBES](https://open.spotify.com/track/6wwz6BVFrr31EHXoBpA7NC) | [Tyla Yaweh](https://open.spotify.com/artist/1MXZ0hsGic96dWRDKwAwdr) | [SUMMER VIBES](https://open.spotify.com/album/437rnm8NI94QYbp38sMYR2) | 2:26 | 2023-07-07 | 2023-09-16 |
 | [Super Freaky Girl](https://open.spotify.com/track/4C6Uex2ILwJi9sZXRdmqXp) | [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [Super Freaky Girl](https://open.spotify.com/album/0h5MuD9O9o1VoN07mQmwMQ) | 2:50 | 2023-01-27 | 2023-08-19 |
 | [Sweet Adetola](https://open.spotify.com/track/7hLyAxfA4obdEW8DXMsqpU) | [Falana](https://open.spotify.com/artist/1OzwSkNJ5OCaMAgdnBFguj) | [Rising](https://open.spotify.com/album/1HREWIDOSN2kOOq0FtPQVr) | 3:46 | 2022-02-04 | 2022-03-26 |
+| [Symphony](https://open.spotify.com/track/72SK3g6dMnNTttykalnyeb) | [Absolutely](https://open.spotify.com/artist/4ellgkPyhbJetngXmHX5Zh) | [Symphony](https://open.spotify.com/album/5AdRhol1OoCKxwg1Eg0Z7S) | 2:41 | 2023-10-17 |  |
 | [Syrup](https://open.spotify.com/track/1ocLSTOw9RNTMmHfxkhc7t) | [Tkay Maidza](https://open.spotify.com/artist/1kMPdZQVdUhMDKDWOJM5iK) | [Syrup](https://open.spotify.com/album/2BUrp7pIF6OTVS2Tu8JMpy) | 2:25 | 2022-02-04 | 2022-02-26 |
 | [Tainted Love](https://open.spotify.com/track/4ZGtGVsSemEMqVXU3cox7m) | [Isaac Dunbar](https://open.spotify.com/artist/2sBVpvpeQxK01FqIt5t816) | [Banish The Banshee](https://open.spotify.com/album/5G55JBphRFFY6DaYELM6Gk) | 3:21 | 2023-01-27 | 2023-06-24 |
 | [Take My Breath](https://open.spotify.com/track/2vgUijXOTRMnWXDtvgMp2b) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Dawn FM](https://open.spotify.com/album/2nLOHgzXzwFEpl62zAgCEC) | 5:39 | 2022-02-04 | 2022-04-16 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9iGsUcr0Bpa.md) - [plain]
 
 > Classics from trailblazing women in hip\-hop\. Cover: Salt\-N\-Pepa
 
-[Spotify](https://open.spotify.com/user/spotify) - 270,093 likes - 50 songs - 3 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 270,177 likes - 50 songs - 3 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9iGsUcr0Bpa.md) - [plain]
 | 49 | [Da Baddest Bitch](https://open.spotify.com/track/1rBittbf1aWwzeW28dI7Lv) | [Trina](https://open.spotify.com/artist/4PrinKSrmILmo0kERG0Ogn) | [Da Baddest Bitch](https://open.spotify.com/album/5tXpmutwVnXITJLptIssVU) | 3:15 |
 | 50 | [Mask 2 My Face](https://open.spotify.com/track/3j4yKzIaTnsruQDmfaw2kK) | [Gangsta Boo](https://open.spotify.com/artist/3ppZNqihWOzuH4A0f4KmeP) | [Both Worlds, \*69](https://open.spotify.com/album/6QH3lzZB4MIpYGhuCISHKt) | 4:10 |
 
-Snapshot ID: `MCwzM2VlNzUyYWQ1MjlkY2JhODFkYTAyYzk0NWE5ZmVmMWFlNjYzNGE2`
+Snapshot ID: `MCw3YjE0Njg2ODU3MWFjOWNhOTRkZGE1M2RkYTk5NDIyMjFhMDIxMTMy`

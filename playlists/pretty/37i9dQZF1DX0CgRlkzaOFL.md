@@ -2,17 +2,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0CgRlkzaOFL.md) - [plain]
 
 ### [Anime Classical](https://open.spotify.com/playlist/37i9dQZF1DX0CgRlkzaOFL)
 
-> Discover the classical side of anime with these orchestral soundtracks and classical masterpieces\. アニメ作品に登場するクラシック音楽と象徴的なサウンドトラックを1つのプレイリストで。cover: 原田 蒼\(はらだ そう\)　 ©阿久井真／小学館／NHK・NEP・日本アニメーション
+> Discover the classical side of anime with these orchestral soundtracks and classical masterpieces\. アニメ作品に登場するクラシック音楽と象徴的なサウンドトラックを1つのプレイリストで。Illustration by <a href="https://kazuhisauragami.com/"> Kazuhisa Uragami</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 124,432 likes - 59 songs - 3 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 124,595 likes - 59 songs - 3 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [The Four Seasons / Violin Concerto in E Major, RV 269 "Spring": I\. Allegro](https://open.spotify.com/track/1vPYvku7fpwbz1k6vYtw0p) | [Antonio Vivaldi](https://open.spotify.com/artist/2QOIawHpSlOwXDvSqQ9YJR), [María Dueñas](https://open.spotify.com/artist/3tzzRz6WvbIF021Ak4l2PE), [“青のオーケストラ” スペシャル弦楽合奏団](https://open.spotify.com/artist/7LrAZtywC6kUoYX2My4z4T), [マリア・ドゥエニャス](https://open.spotify.com/artist/4aKN6schPYwLphJuuq7KZZ) | [Blue Orchestra \- Premium Classic](https://open.spotify.com/album/2JHvqY7w2xaLqPSKUQNbi9) | 3:40 |
-| 2 | [Ask me why\(母の思い\)](https://open.spotify.com/track/1ej3rD4t8Fb2n6tZskXFIu) | [Joe Hisaishi](https://open.spotify.com/artist/7nzSoJISlVJsn7O0yTeMOB) | [君たちはどう生きるか　サウンドトラック](https://open.spotify.com/album/4OGf5cOhoHWaXEu0XnsF1t) | 1:48 |
-| 3 | [Merry\-Go\-Round of Life \- from 'Howl’s Moving Castle'](https://open.spotify.com/track/3jJzXe7sNKDRPhigSDb23s) | [Joe Hisaishi](https://open.spotify.com/artist/7nzSoJISlVJsn7O0yTeMOB), [Royal Philharmonic Orchestra](https://open.spotify.com/artist/0MvSBMGRQJY3mRwIbJsqF1) | [A Symphonic Celebration \- Music from the Studio Ghibli Films of Hayao Miyazaki](https://open.spotify.com/album/561qUZZO6f2sILHUMlXmlM) | 2:49 |
-| 4 | [One Summer Day](https://open.spotify.com/track/3gFQOMoUwlR6aUZj81gCzu) | [Joe Hisaishi](https://open.spotify.com/artist/7nzSoJISlVJsn7O0yTeMOB) | [Spirited Away Soundtrack](https://open.spotify.com/album/766a5fKJYFy9ii4Kz2bQy9) | 3:09 |
-| 5 | [La Parfum de Fleurs](https://open.spotify.com/track/5aAWl9sN7rffpfQnND78QO) | [松司馬拓指揮 Ensemble FOVE](https://open.spotify.com/artist/5KafCCJozxvzGwbHdX8TDq) | [Oh! スケトラ!!! ユーリ!!! on ICE/オリジナル・スケートソングCOLLECTION](https://open.spotify.com/album/7fSGa139Q2t6IgAgf1Cx7n) | 2:05 |
+| 1 | [Merry\-Go\-Round of Life \- from 'Howl’s Moving Castle'](https://open.spotify.com/track/3jJzXe7sNKDRPhigSDb23s) | [Joe Hisaishi](https://open.spotify.com/artist/7nzSoJISlVJsn7O0yTeMOB), [Royal Philharmonic Orchestra](https://open.spotify.com/artist/0MvSBMGRQJY3mRwIbJsqF1) | [A Symphonic Celebration \- Music from the Studio Ghibli Films of Hayao Miyazaki](https://open.spotify.com/album/561qUZZO6f2sILHUMlXmlM) | 2:49 |
+| 2 | [One Summer Day](https://open.spotify.com/track/3gFQOMoUwlR6aUZj81gCzu) | [Joe Hisaishi](https://open.spotify.com/artist/7nzSoJISlVJsn7O0yTeMOB) | [Spirited Away Soundtrack](https://open.spotify.com/album/766a5fKJYFy9ii4Kz2bQy9) | 3:09 |
+| 3 | [The Four Seasons / Violin Concerto in E Major, RV 269 "Spring": I\. Allegro](https://open.spotify.com/track/1vPYvku7fpwbz1k6vYtw0p) | [Antonio Vivaldi](https://open.spotify.com/artist/2QOIawHpSlOwXDvSqQ9YJR), [María Dueñas](https://open.spotify.com/artist/3tzzRz6WvbIF021Ak4l2PE), [“青のオーケストラ” スペシャル弦楽合奏団](https://open.spotify.com/artist/7LrAZtywC6kUoYX2My4z4T), [マリア・ドゥエニャス](https://open.spotify.com/artist/4aKN6schPYwLphJuuq7KZZ) | [Blue Orchestra \- Premium Classic](https://open.spotify.com/album/2JHvqY7w2xaLqPSKUQNbi9) | 3:40 |
+| 4 | [La Parfum de Fleurs](https://open.spotify.com/track/5aAWl9sN7rffpfQnND78QO) | [松司馬拓指揮 Ensemble FOVE](https://open.spotify.com/artist/5KafCCJozxvzGwbHdX8TDq) | [Oh! スケトラ!!! ユーリ!!! on ICE/オリジナル・スケートソングCOLLECTION](https://open.spotify.com/album/7fSGa139Q2t6IgAgf1Cx7n) | 2:05 |
+| 5 | [Ask me why\(母の思い\)](https://open.spotify.com/track/1ej3rD4t8Fb2n6tZskXFIu) | [Joe Hisaishi](https://open.spotify.com/artist/7nzSoJISlVJsn7O0yTeMOB) | [君たちはどう生きるか　サウンドトラック](https://open.spotify.com/album/4OGf5cOhoHWaXEu0XnsF1t) | 1:48 |
 | 6 | [Faces in the Rain](https://open.spotify.com/track/47glEWHDcFq99QJIG41uyF) | [中村佳穂](https://open.spotify.com/artist/0illCOhPkFBykngmCWos6u) | [Belle \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0Dh6RJv03InPzUWLwmpezp) | 2:22 |
 | 7 | [砂の星](https://open.spotify.com/track/7gz7GnLjMSKImEJBFPj8Ie) | [Tsuneo Imahori](https://open.spotify.com/artist/5pfYZjQ34Czl0aQcWxQSmp) | [トライガン THE 2nd Donut HAPPY PACK](https://open.spotify.com/album/0ySwOzWYkqaGrXQp8vJgId) | 3:23 |
 | 8 | [The Legend of Ashitaka \- from 'Princess Mononoke'](https://open.spotify.com/track/3ytMGJUOv7KvVpOSAow62b) | [Joe Hisaishi](https://open.spotify.com/artist/7nzSoJISlVJsn7O0yTeMOB), [Royal Philharmonic Orchestra](https://open.spotify.com/artist/0MvSBMGRQJY3mRwIbJsqF1) | [A Symphonic Celebration \- Music from the Studio Ghibli Films of Hayao Miyazaki](https://open.spotify.com/album/561qUZZO6f2sILHUMlXmlM) | 1:57 |
@@ -68,4 +68,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0CgRlkzaOFL.md) - [plain]
 | 58 | [L'isle joyeuse, L\. 106](https://open.spotify.com/track/4VTnc3rElZ3Ihcz5VM8mXa) | [Claude Debussy](https://open.spotify.com/artist/1Uff91EOsvd99rtAupatMP), [Seong\-Jin Cho](https://open.spotify.com/artist/1p0J5PXJQMVqk5uVV4T1ja) | [Debussy](https://open.spotify.com/album/4tYYPSmCZM2bmfrJvXAOfr) | 6:15 |
 | 59 | [where you are](https://open.spotify.com/track/3Yr8fFmMIW72uVPX9HnuaX) | [梶浦 由記](https://open.spotify.com/artist/0BLHMPWOZ2aTI0ZCCbtZem) | [.hack//SIGN ORIGINAL SOUND & SONG TRACK2](https://open.spotify.com/album/4kwNMHXCWOkqy1MmwqCV2y) | 1:26 |
 
-Snapshot ID: `MCw2NmRkNWFmMWJjOGMzODM2ZGM1N2U5NTU0NGQzYTc5Y2JhMTVkNDk4`
+Snapshot ID: `MCxhM2FlNjcxZDRlMWYyMWVjMTAwZDdmMjVmYzI0YzdiNTJhNzFkMzA5`

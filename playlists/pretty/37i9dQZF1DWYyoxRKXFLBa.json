@@ -1,12 +1,12 @@
 {
   "description": "Conoce a puras morras rifadas en La Marketa. \u00a1S\u00fabele al volumen, te esperamos el 6 de Agosto en Jard\u00edn Ju\u00e1rez! En portada: Now Girls Rule",
-  "num_followers": 8277,
+  "num_followers": 8280,
   "original_name": "Ruidosas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyZTcyZGVjNTMxYjg3MzgxYTg4YTVlODBlZmY5ZjA2NGE1MTQ2MWM0",
+  "snapshot_id": "MCxmZTM0ZmZmM2ExOTUxMDhmYWEyN2NhNTdmZDUzMDIxMzcwYmJkNzM1",
   "tracks": [
     {
       "added_at": "2023-07-28 20:39:17",
@@ -443,6 +443,22 @@
     {
       "added_at": "2023-07-28 20:39:17",
       "album": {
+        "name": "Soda de Uva",
+        "url": "https://open.spotify.com/album/54waWoWfW7gIfuZ4EvdrXc"
+      },
+      "artists": [
+        {
+          "name": "Pau Laggies",
+          "url": "https://open.spotify.com/artist/4yxXxMpC0bNGbc1LePew2t"
+        }
+      ],
+      "duration_ms": 154576,
+      "name": "\u00bfCu\u00e1ndo Pero Cu\u00e1ndo?",
+      "url": "https://open.spotify.com/track/3LV2ZZW474RFPJFJolaJLZ"
+    },
+    {
+      "added_at": "2023-07-28 20:39:17",
+      "album": {
         "name": "Locochona",
         "url": "https://open.spotify.com/album/6BzRhIEFVhtaKekLzRnxlX"
       },
@@ -459,22 +475,6 @@
       "duration_ms": 148338,
       "name": "Locochona",
       "url": "https://open.spotify.com/track/63huxKkkuUPoMzOyYJnEkV"
-    },
-    {
-      "added_at": "2023-07-28 20:39:17",
-      "album": {
-        "name": "Soda de Uva",
-        "url": "https://open.spotify.com/album/54waWoWfW7gIfuZ4EvdrXc"
-      },
-      "artists": [
-        {
-          "name": "Pau Laggies",
-          "url": "https://open.spotify.com/artist/4yxXxMpC0bNGbc1LePew2t"
-        }
-      ],
-      "duration_ms": 154576,
-      "name": "\u00bfCu\u00e1ndo Pero Cu\u00e1ndo?",
-      "url": "https://open.spotify.com/track/3LV2ZZW474RFPJFJolaJLZ"
     },
     {
       "added_at": "2023-07-28 20:39:17",
@@ -963,22 +963,6 @@
     {
       "added_at": "2023-07-28 20:39:17",
       "album": {
-        "name": "Deep Cuts",
-        "url": "https://open.spotify.com/album/7eZIU8RLDwDpHTEYwlbxyb"
-      },
-      "artists": [
-        {
-          "name": "Marion Raw",
-          "url": "https://open.spotify.com/artist/1BRIIX1uolmIQV9PrcedGj"
-        }
-      ],
-      "duration_ms": 190793,
-      "name": "Si No Te Hubieras Ido",
-      "url": "https://open.spotify.com/track/4b3ZcXUbkJu32F5xKJaXTz"
-    },
-    {
-      "added_at": "2023-07-28 20:39:17",
-      "album": {
         "name": "Art Collective",
         "url": "https://open.spotify.com/album/41jKiqVGALvP1u9L8VDGdu"
       },
@@ -991,6 +975,22 @@
       "duration_ms": 172923,
       "name": "Art Collective",
       "url": "https://open.spotify.com/track/5j5WM5gbUoSMY1gOIytv2T"
+    },
+    {
+      "added_at": "2023-07-28 20:39:17",
+      "album": {
+        "name": "Deep Cuts",
+        "url": "https://open.spotify.com/album/7eZIU8RLDwDpHTEYwlbxyb"
+      },
+      "artists": [
+        {
+          "name": "Marion Raw",
+          "url": "https://open.spotify.com/artist/1BRIIX1uolmIQV9PrcedGj"
+        }
+      ],
+      "duration_ms": 190793,
+      "name": "Si No Te Hubieras Ido",
+      "url": "https://open.spotify.com/track/4b3ZcXUbkJu32F5xKJaXTz"
     },
     {
       "added_at": "2023-07-28 20:39:17",
@@ -1187,22 +1187,6 @@
     {
       "added_at": "2023-07-28 20:39:17",
       "album": {
-        "name": "Esp\u00e9cimen Surf",
-        "url": "https://open.spotify.com/album/2MPyMDuNJvpjYXbtaW9PUT"
-      },
-      "artists": [
-        {
-          "name": "The Centellas",
-          "url": "https://open.spotify.com/artist/3JMSuFrEG6bMGn2gbyyIMD"
-        }
-      ],
-      "duration_ms": 149572,
-      "name": "Prisma Lunar",
-      "url": "https://open.spotify.com/track/3XquW4OssRBZXDG5kbN6re"
-    },
-    {
-      "added_at": "2023-07-28 20:39:17",
-      "album": {
         "name": "Flores Sobre las Piedras",
         "url": "https://open.spotify.com/album/2NDbkXbi16sS49LigcSd4n"
       },
@@ -1215,6 +1199,22 @@
       "duration_ms": 302000,
       "name": "Flores Sobre las Piedras",
       "url": "https://open.spotify.com/track/4WzYFb4DuCsBdSxwuc5AnZ"
+    },
+    {
+      "added_at": "2023-07-28 20:39:17",
+      "album": {
+        "name": "Esp\u00e9cimen Surf",
+        "url": "https://open.spotify.com/album/2MPyMDuNJvpjYXbtaW9PUT"
+      },
+      "artists": [
+        {
+          "name": "The Centellas",
+          "url": "https://open.spotify.com/artist/3JMSuFrEG6bMGn2gbyyIMD"
+        }
+      ],
+      "duration_ms": 149572,
+      "name": "Prisma Lunar",
+      "url": "https://open.spotify.com/track/3XquW4OssRBZXDG5kbN6re"
     },
     {
       "added_at": "2023-07-28 20:39:17",
@@ -1235,22 +1235,6 @@
     {
       "added_at": "2023-07-28 20:39:17",
       "album": {
-        "name": "La Era De Acuario",
-        "url": "https://open.spotify.com/album/2ISRlVYslwgJ1f3SO5Lwnb"
-      },
-      "artists": [
-        {
-          "name": "La Era de Acuario",
-          "url": "https://open.spotify.com/artist/5uM5pjFZqCgexfwJ0n7qQh"
-        }
-      ],
-      "duration_ms": 353000,
-      "name": "Om Ganesh",
-      "url": "https://open.spotify.com/track/0DzC2HDlOm8HZiDSZ4J7iU"
-    },
-    {
-      "added_at": "2023-07-28 20:39:17",
-      "album": {
         "name": "Fea",
         "url": "https://open.spotify.com/album/1XpjWRnp8kQoB2uRV2WvZl"
       },
@@ -1263,6 +1247,22 @@
       "duration_ms": 213333,
       "name": "Fea",
       "url": "https://open.spotify.com/track/2dCaAdHPetC80XV78kQ9a7"
+    },
+    {
+      "added_at": "2023-07-28 20:39:17",
+      "album": {
+        "name": "La Era De Acuario",
+        "url": "https://open.spotify.com/album/2ISRlVYslwgJ1f3SO5Lwnb"
+      },
+      "artists": [
+        {
+          "name": "La Era de Acuario",
+          "url": "https://open.spotify.com/artist/5uM5pjFZqCgexfwJ0n7qQh"
+        }
+      ],
+      "duration_ms": 353000,
+      "name": "Om Ganesh",
+      "url": "https://open.spotify.com/track/0DzC2HDlOm8HZiDSZ4J7iU"
     },
     {
       "added_at": "2023-07-28 20:39:17",

@@ -196,7 +196,7 @@
       ],
       "date_added": "2022-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-18",
       "duration_ms": 211786,
       "name": "Black Magic",
       "url": "https://open.spotify.com/track/6rmXhRIemCTPyMYZRDN7Qg"
@@ -1144,7 +1144,7 @@
       ],
       "date_added": "2021-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-18",
       "duration_ms": 248626,
       "name": "In For The Kill",
       "url": "https://open.spotify.com/track/6yRraj2ghJiIcVbQ6Vb59Q"
@@ -1612,6 +1612,24 @@
       "duration_ms": 378893,
       "name": "Monster",
       "url": "https://open.spotify.com/track/5jXNOgH5A7yI76BU9kaP6N"
+    },
+    {
+      "album": {
+        "name": "Monster (Spotify Singles)",
+        "url": "https://open.spotify.com/album/62iTVhERPubeRu59a3HRqF"
+      },
+      "artists": [
+        {
+          "name": "Slayyyter",
+          "url": "https://open.spotify.com/artist/4QM5QCHicznALtX885CnZC"
+        }
+      ],
+      "date_added": "2023-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237989,
+      "name": "Monster - Spotify Singles",
+      "url": "https://open.spotify.com/track/2EYDqen8Pftl3ENvqOs6fE"
     },
     {
       "album": {
@@ -2615,6 +2633,32 @@
     },
     {
       "album": {
+        "name": "The Phantom Of The Opera (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/1zwEN9cLtWg39zFJnj8brt"
+      },
+      "artists": [
+        {
+          "name": "Andrew Lloyd Webber",
+          "url": "https://open.spotify.com/artist/4aP1lp10BRYZO658B2NwkG"
+        },
+        {
+          "name": "Gerard Butler",
+          "url": "https://open.spotify.com/artist/7H25O93TTUoaZ0ZaFk318U"
+        },
+        {
+          "name": "Emmy Rossum",
+          "url": "https://open.spotify.com/artist/6JcDqt1rBKIWfnoPjXFYqc"
+        }
+      ],
+      "date_added": "2023-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216133,
+      "name": "The Phantom Of the Opera - From 'The Phantom Of The Opera' Motion Picture",
+      "url": "https://open.spotify.com/track/4EaBMhUIOfnFEbIgqCfKbi"
+    },
+    {
+      "album": {
         "name": "Spooky Scary Season",
         "url": "https://open.spotify.com/album/29pVR3HkKEhRnUuUIUvW7E"
       },
@@ -2662,7 +2706,7 @@
       ],
       "date_added": "2021-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-18",
       "duration_ms": 197651,
       "name": "There Will Be Blood",
       "url": "https://open.spotify.com/track/75HFFq9W7Em0dTBG8QeGcT"

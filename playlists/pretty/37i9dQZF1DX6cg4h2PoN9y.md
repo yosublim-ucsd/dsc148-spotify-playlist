@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6cg4h2PoN9y.md) - [plain]
 
 > All things Billie!
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,893,495 likes - 60 songs - 3 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,893,861 likes - 60 songs - 3 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6cg4h2PoN9y.md) - [plain]
 | 59 | [Six Feet Under \- Jerry Folk Remix](https://open.spotify.com/track/58nxGpcCfNDiqmFXklOslz) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH), [Jerry Folk](https://open.spotify.com/artist/356FCJoyYWyzONni54Dgrv) | [Six Feet Under \(The Remixes\)](https://open.spotify.com/album/7Chuv69qWaXuK5eCmZ8gCi) | 3:20 |
 | 60 | [Ocean Eyes \- GOLDHOUSE Remix](https://open.spotify.com/track/1JbuC7uZm0P1PyX7N7gDEM) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH), [GOLDHOUSE](https://open.spotify.com/artist/670UISOh9XV1zlq5z5IfoY) | [Ocean Eyes \(The Remixes\)](https://open.spotify.com/album/44OSkEmvHwdTFhPBCewIks) | 3:33 |
 
-Snapshot ID: `MCxhNDM3YWJmODEzNjE0ZTYzNTg3MDYxNTVmNTY2NGNmN2U3NDNhZWQw`
+Snapshot ID: `MCwzNGE5ZmE4YzBkYTBiYTIzMTVlZTdiYmE2MGM5OGI5YTMzYjU3Y2My`

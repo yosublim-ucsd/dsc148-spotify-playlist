@@ -801,6 +801,24 @@
     },
     {
       "album": {
+        "name": "Yard",
+        "url": "https://open.spotify.com/album/1KHEiLyeBq82jCqzllcXu9"
+      },
+      "artists": [
+        {
+          "name": "Slow Pulp",
+          "url": "https://open.spotify.com/artist/2JFTRDi5v7JtqoouVe1z5D"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245466,
+      "name": "Broadview",
+      "url": "https://open.spotify.com/track/1hTbH1tGOQ2sqVav7iDHfQ"
+    },
+    {
+      "album": {
         "name": "Broadview",
         "url": "https://open.spotify.com/album/0eHcS12QA8Xm0V87yqvrOK"
       },
@@ -4320,7 +4338,7 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-18",
       "duration_ms": 191786,
       "name": "No Caffeine",
       "url": "https://open.spotify.com/track/4if3aJ01ZXMajhwZctU06a"

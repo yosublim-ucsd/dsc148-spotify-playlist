@@ -4,7 +4,7 @@
 
 > ¡Dale buena onda cálida y frutal a tu día!
 
-484 songs - 1 day 5 hr 3 min
+485 songs - 1 day 5 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -69,7 +69,7 @@
 | [Baixi Baixi](https://open.spotify.com/track/4QoktJPw2SSKoIND51Haq8) | [Yeahman](https://open.spotify.com/artist/2IB9PgY9PMJklQlRQHDntA), [Aluna Project](https://open.spotify.com/artist/1TSrXgFaXo6Vd5lZle9XM8) | [Ostriconi](https://open.spotify.com/album/3jLWAXJ3NdQOoagDdia99w) | 3:39 | 2021-10-20 |  |
 | [Baixi Baixi](https://open.spotify.com/track/4mxNgL8s7GZdoTFHGYXdvE) | [Yeahman](https://open.spotify.com/artist/2IB9PgY9PMJklQlRQHDntA), [Aluna Project](https://open.spotify.com/artist/1TSrXgFaXo6Vd5lZle9XM8) | [Ostriconi](https://open.spotify.com/album/3SMp3cqUcv5x0GtKVyMAxd) | 3:39 | 2021-10-20 | 2023-04-30 |
 | [Batida do Amor](https://open.spotify.com/track/5KFdGVgTD4wLrlUesiWiVc) | [Francisca La Braza](https://open.spotify.com/artist/1m6KQa90x6qi9RJAZco74B), [Francisco, el Hombre](https://open.spotify.com/artist/317yGDHMNsNQMfjsNNPYUg), [BRAZA](https://open.spotify.com/artist/5F0iFhw7bZE7a8INjualJn) | [Francisca La Braza](https://open.spotify.com/album/6Xj8zgaUSBRrrDgmz4y4lS) | 3:54 | 2021-10-20 | 2023-05-26 |
-| [Bayamón](https://open.spotify.com/track/2WVAI8qLBdZlJUhdpNcXCQ) | [ELENA ROSE](https://open.spotify.com/artist/0zO8yNnw5GQgutcIyXfGBY) | [Bayamón](https://open.spotify.com/album/5ELcmaAt2qWGrwWs583awG) | 3:00 | 2023-03-16 |  |
+| [Bayamón](https://open.spotify.com/track/2WVAI8qLBdZlJUhdpNcXCQ) | [ELENA ROSE](https://open.spotify.com/artist/0zO8yNnw5GQgutcIyXfGBY) | [Bayamón](https://open.spotify.com/album/5ELcmaAt2qWGrwWs583awG) | 3:00 | 2023-03-16 | 2023-10-18 |
 | [Bichota \- Spotify Singles](https://open.spotify.com/track/7tlPDub0mJRBkGA2VdTSAS) | [Bratty](https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn), [RENEE](https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR) | [Bichota – Spotify Singles](https://open.spotify.com/album/5FdT0wz3QPts6r1aJoWDgq) | 2:37 | 2021-11-10 |  |
 | [Big Energy](https://open.spotify.com/track/2AjcrjatK9XbNMZdm42u0k) | [Pachyman](https://open.spotify.com/artist/515f4vsvg0JQWrmt7qpR6l) | [Big Energy](https://open.spotify.com/album/3s0DBiTaAmLHY1rxJ0J0W2) | 3:03 | 2021-10-20 | 2022-04-18 |
 | [Binikini](https://open.spotify.com/track/1Iy4dJWborISHY9FHWGKPD) | [Rawayana](https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2), [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj) | [Binikini](https://open.spotify.com/album/7jAzRi4PeWM3E2MJnBmedj) | 3:03 | 2023-04-12 |  |
@@ -300,8 +300,9 @@
 | [Mira Bien](https://open.spotify.com/track/0MBhNioCkdEUAusgm0FATa) | [Tonga Conga](https://open.spotify.com/artist/2p0241roffcxojfJcnmvsU), [Mula](https://open.spotify.com/artist/7bWZkUZ5drGDoGAFhGoYGE) | [Mira Bien](https://open.spotify.com/album/09TCMzRYLVe74o9uoEywaU) | 3:27 | 2022-02-01 | 2022-07-29 |
 | [Mis Amigos](https://open.spotify.com/track/78mspwUpeCM5W1AaA6ffiN) | [Los Rivera Destino](https://open.spotify.com/artist/7LQaY9LGXHzoJY8DvwpSid) | [Mis Amigos](https://open.spotify.com/album/2lftV3fcZKJnVMHXwZyDGg) | 3:00 | 2022-01-14 | 2023-02-09 |
 | [Mis Muertos](https://open.spotify.com/track/4f0MX5DNAc2qwP1pSI7YHT) | [Julieta Venegas](https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm) | [La Enamorada](https://open.spotify.com/album/6ZoGWwn54s7pE5Mv3H9PqD) | 2:21 | 2021-10-20 | 2022-04-19 |
+| [Mis Muertos](https://open.spotify.com/track/4D96nwMFxCAHAg7xAokRdi) | [Julieta Venegas](https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm) | [La Enamorada](https://open.spotify.com/album/0wixYeQxrkuwg0bzGDjtwu) | 2:21 | 2021-10-20 |  |
 | [Mis Muertos](https://open.spotify.com/track/7hHqwnpLHCILZxF9mmSSqI) | [Julieta Venegas](https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm) | [La Enamorada](https://open.spotify.com/album/3unTf9Fint6gmlFkgA17em) | 2:21 | 2021-10-20 | 2022-12-24 |
-| [Mojo](https://open.spotify.com/track/70NxnUV2P0uOus3V5eL9gs) | [Caztro](https://open.spotify.com/artist/1YvkzmaJLVRHSJ8J5YzoaW), [Marissa Mur](https://open.spotify.com/artist/5kt4v3JNtP8svtTI8PDFOT) | [Mojo](https://open.spotify.com/album/0SMSBq8yQiGXqultNvsRWy) | 3:26 | 2021-10-20 | 2023-06-02 |
+| [Mojo](https://open.spotify.com/track/70NxnUV2P0uOus3V5eL9gs) | [Caztro](https://open.spotify.com/artist/1YvkzmaJLVRHSJ8J5YzoaW), [Marissa Mur](https://open.spotify.com/artist/5kt4v3JNtP8svtTI8PDFOT) | [Mojo](https://open.spotify.com/album/0SMSBq8yQiGXqultNvsRWy) | 3:26 | 2021-10-20 |  |
 | [Moody Cumbia](https://open.spotify.com/track/0mmVZa825eh39NNtNcTrFg) | [Malphino](https://open.spotify.com/artist/1hWJbIVGfYRmwRgmM6HFij) | [Octopus](https://open.spotify.com/album/59Tec9qk49gfAkKhkniSOy) | 3:36 | 2023-03-28 | 2023-05-07 |
 | [Moody Cumbia](https://open.spotify.com/track/1Mfr0JkEfXR7rN8NUGjCr9) | [Malphino](https://open.spotify.com/artist/1hWJbIVGfYRmwRgmM6HFij) | [Strange Salsa](https://open.spotify.com/album/4VELiDWXsabtbzSRxDr7DC) | 3:36 | 2023-03-28 | 2023-04-14 |
 | [Moody Cumbia](https://open.spotify.com/track/5FCcgvZE7pUa6qKZasTbd7) | [Malphino](https://open.spotify.com/artist/1hWJbIVGfYRmwRgmM6HFij) | [Sueño EP](https://open.spotify.com/album/3Ss0rghY7VI1gFuzqEKhKR) | 3:36 | 2023-03-28 | 2023-05-09 |
@@ -356,7 +357,7 @@
 | [Peligrosa Mujer](https://open.spotify.com/track/3zaKc0uMw4GI7xHva4tjLa) | [Joaco Terán](https://open.spotify.com/artist/1cy3VfdlWVJIquPPSeJ81Z) | [Libres](https://open.spotify.com/album/2efyfAfCPx6O7BnVeg9D9p) | 3:02 | 2021-10-20 | 2022-04-19 |
 | [Pelota](https://open.spotify.com/track/39p88iz6Hzx5KN00QbLIdv) | [Khruangbin](https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk) | [Pelota](https://open.spotify.com/album/2zX0TMRVNyesrH6kciPrQZ) | 2:47 | 2021-10-20 | 2022-04-20 |
 | [Pelota](https://open.spotify.com/track/6FNdzxV9g4NaINrejBTPUi) | [Khruangbin](https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk) | [Mordechai](https://open.spotify.com/album/2IzUZlhtBvPQYs74KeG6fb) | 2:47 | 2021-10-20 |  |
-| [Penas con Pan](https://open.spotify.com/track/0va257dK5KpE35Gd2EHH7E) | [La Doña](https://open.spotify.com/artist/5eBVoDUYv0feTepoBSz4SJ) | [Penas con Pan](https://open.spotify.com/album/7nxJz9F14aEwdO7eyq7qmb) | 1:43 | 2022-03-11 |  |
+| [Penas con Pan](https://open.spotify.com/track/0va257dK5KpE35Gd2EHH7E) | [La Doña](https://open.spotify.com/artist/5eBVoDUYv0feTepoBSz4SJ) | [Penas con Pan](https://open.spotify.com/album/7nxJz9F14aEwdO7eyq7qmb) | 1:43 | 2022-03-11 | 2023-10-18 |
 | [Pensé \- Acústico](https://open.spotify.com/track/1yE83tAX81AJW3wkHm5SEg) | [Tony True and the Tijuana Tres](https://open.spotify.com/artist/0AvWuJUBynDr5nPSoXsLIp), [Flor Ramírez](https://open.spotify.com/artist/1o1zq9nsPVxHhIpnnKdWU3) | [Pensé \(Acústico\)](https://open.spotify.com/album/1GAfZYrYpKrQzDXDe9aGpd) | 4:07 | 2021-10-20 | 2022-04-17 |
 | [Pequeña Niña](https://open.spotify.com/track/6lCnlQ9f13pCokyCNfiT0I) | [Enio Silveti](https://open.spotify.com/artist/2Htqe7nKQ0kHayNSjrH4xr) | [Pequeña Niña](https://open.spotify.com/album/6ANlUv5kDUABEOTUKxdq0R) | 3:22 | 2021-10-20 | 2022-04-21 |
 | [PERLA](https://open.spotify.com/track/2Xr1RQQ15GeaJ7TFa8CTBj) | [Mitú](https://open.spotify.com/artist/3OlI3HjAc1LQUmd7wozF6k) | [TANDEM](https://open.spotify.com/album/1qm1yaOMS8Hhz4QS4aUB69) | 2:54 | 2021-10-20 | 2023-09-02 |

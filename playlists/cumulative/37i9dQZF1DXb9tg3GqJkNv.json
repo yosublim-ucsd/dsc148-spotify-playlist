@@ -675,6 +675,24 @@
     },
     {
       "album": {
+        "name": "All Time High",
+        "url": "https://open.spotify.com/album/5ptOOTLiiSnYMUCnAgUE3N"
+      },
+      "artists": [
+        {
+          "name": "Nate Husser",
+          "url": "https://open.spotify.com/artist/5o4gKYJ99ROV1yye1v9Sh4"
+        }
+      ],
+      "date_added": "2023-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130560,
+      "name": "Dwayne Carter Flow",
+      "url": "https://open.spotify.com/track/2B5QF7KSCv5jz2hIxyKic5"
+    },
+    {
+      "album": {
         "name": "Dwayne Carter Flow",
         "url": "https://open.spotify.com/album/0DN87LYvjreENZHFUCbk6d"
       },
@@ -1184,7 +1202,7 @@
       ],
       "date_added": "2023-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-18",
       "duration_ms": 197357,
       "name": "Made Me Everything",
       "url": "https://open.spotify.com/track/6SykBo6T7iX27cRWyQlmww"

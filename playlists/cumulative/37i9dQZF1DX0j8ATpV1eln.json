@@ -1111,6 +1111,24 @@
     },
     {
       "album": {
+        "name": "Princess' Happy Ending",
+        "url": "https://open.spotify.com/album/3Mug6SQYCxcd0CtlLVqd4O"
+      },
+      "artists": [
+        {
+          "name": "Sumire Uesaka",
+          "url": "https://open.spotify.com/artist/4hRg5l2hXQl3lAzffFF8P8"
+        }
+      ],
+      "date_added": "2023-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208346,
+      "name": "Princess' Happy Ending",
+      "url": "https://open.spotify.com/track/5q1Kl4azsGJXk6N8wLMQdI"
+    },
+    {
+      "album": {
         "name": "Entertainer",
         "url": "https://open.spotify.com/album/4Xe4P2qe5ob7xiyl0apWFm"
       },

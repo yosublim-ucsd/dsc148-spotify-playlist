@@ -1,12 +1,12 @@
 {
   "description": "The songs of the 1970s that will make you dance all summer long!",
-  "num_followers": 179910,
+  "num_followers": 180050,
   "original_name": "Summer Hits of the 70s",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2OTAzMmUwODA4OTJiZGVlMmQ0M2FjY2M3ODFhYjk4ZThhN2E1MTc3",
+  "snapshot_id": "MCxlZDQ5ODFjMTY1OTUzNDFhMWUzMDYyNmM5MGE5OTY5ODRjODhlYTAx",
   "tracks": [
     {
       "added_at": "2022-04-18 23:11:58",
@@ -607,6 +607,22 @@
     {
       "added_at": "2022-04-18 23:11:58",
       "album": {
+        "name": "Waterloo",
+        "url": "https://open.spotify.com/album/5gSBDA6ufk8UZejT4XR7av"
+      },
+      "artists": [
+        {
+          "name": "ABBA",
+          "url": "https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV"
+        }
+      ],
+      "duration_ms": 168960,
+      "name": "Waterloo",
+      "url": "https://open.spotify.com/track/3Dy4REq8O09IlgiwuHQ3sk"
+    },
+    {
+      "added_at": "2022-04-18 23:11:58",
+      "album": {
         "name": "Born to Be Alive (The Original)",
         "url": "https://open.spotify.com/album/0kVK9lFFTzhnEb4ETElbCD"
       },
@@ -623,18 +639,18 @@
     {
       "added_at": "2022-04-18 23:11:58",
       "album": {
-        "name": "Waterloo",
-        "url": "https://open.spotify.com/album/5gSBDA6ufk8UZejT4XR7av"
+        "name": "Love Tracks",
+        "url": "https://open.spotify.com/album/1F0umQ1PItuGiP8uJDdFoX"
       },
       "artists": [
         {
-          "name": "ABBA",
-          "url": "https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV"
+          "name": "Gloria Gaynor",
+          "url": "https://open.spotify.com/artist/6V6WCgi7waF55bJmylC4H5"
         }
       ],
-      "duration_ms": 168960,
-      "name": "Waterloo",
-      "url": "https://open.spotify.com/track/3Dy4REq8O09IlgiwuHQ3sk"
+      "duration_ms": 296106,
+      "name": "I Will Survive",
+      "url": "https://open.spotify.com/track/7rIovIsXE6kMn629b7kDig"
     },
     {
       "added_at": "2022-04-18 23:11:58",
@@ -655,22 +671,6 @@
       "duration_ms": 169266,
       "name": "You're The One That I Want - From \u201cGrease\u201d",
       "url": "https://open.spotify.com/track/0EvykocuR3aWthETr0OfFr"
-    },
-    {
-      "added_at": "2022-04-18 23:11:58",
-      "album": {
-        "name": "Love Tracks",
-        "url": "https://open.spotify.com/album/1F0umQ1PItuGiP8uJDdFoX"
-      },
-      "artists": [
-        {
-          "name": "Gloria Gaynor",
-          "url": "https://open.spotify.com/artist/6V6WCgi7waF55bJmylC4H5"
-        }
-      ],
-      "duration_ms": 296106,
-      "name": "I Will Survive",
-      "url": "https://open.spotify.com/track/7rIovIsXE6kMn629b7kDig"
     },
     {
       "added_at": "2022-04-18 23:11:58",

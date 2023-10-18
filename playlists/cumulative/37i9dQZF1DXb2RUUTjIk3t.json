@@ -1545,6 +1545,24 @@
     },
     {
       "album": {
+        "name": "\u200erubber \u200echecks",
+        "url": "https://open.spotify.com/album/14JPvukY07RrXQSBAM31eF"
+      },
+      "artists": [
+        {
+          "name": "maxime.",
+          "url": "https://open.spotify.com/artist/4jd8Wp3Os5tXFV0NYm1570"
+        }
+      ],
+      "date_added": "2022-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158769,
+      "name": "\u200ecan't \u200eu \u200etell \u200e?",
+      "url": "https://open.spotify.com/track/0DzmuigZNTpqOedCW3e6cb"
+    },
+    {
+      "album": {
         "name": "\u200ecan't \u200eu \u200etell \u200e?",
         "url": "https://open.spotify.com/album/6hLJGtNPcfDbOPQjGs5XMo"
       },
@@ -1556,7 +1574,7 @@
       ],
       "date_added": "2022-11-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-18",
       "duration_ms": 158769,
       "name": "\u200ecan't \u200eu \u200etell \u200e?",
       "url": "https://open.spotify.com/track/1L2IdFAsssLzcv2oLTL1kn"

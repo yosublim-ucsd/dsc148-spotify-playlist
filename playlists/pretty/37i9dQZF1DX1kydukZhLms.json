@@ -1,12 +1,12 @@
 {
   "description": "Throw your lighters in the air and wave them like you don't care. Cover: Guns N' Roses",
-  "num_followers": 1274049,
+  "num_followers": 1274600,
   "original_name": "Heavy Ballads",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0ZWU3ZTM0N2ZkYzhhYTg3OGZkYThjN2IwMGQzYTdhODVmMmQ0Yzk2",
+  "snapshot_id": "MCw2OTc4OTM1YzM3NTlkNWQ4NmE5NjY5MGM1NGJlMjE2ZDM3OWRjOGE1",
   "tracks": [
     {
       "added_at": "2023-02-06 10:03:23",
@@ -1151,22 +1151,6 @@
     {
       "added_at": "2023-02-06 10:03:23",
       "album": {
-        "name": "Whitesnake (2018 Remaster)",
-        "url": "https://open.spotify.com/album/5drgoLSnXSDIhNK4ms3P7I"
-      },
-      "artists": [
-        {
-          "name": "Whitesnake",
-          "url": "https://open.spotify.com/artist/3UbyYnvNIT5DFXU4WgiGpP"
-        }
-      ],
-      "duration_ms": 397768,
-      "name": "Still of the Night - 2018 Remaster",
-      "url": "https://open.spotify.com/track/40GS2O35HIqhOVCFZZTfFF"
-    },
-    {
-      "added_at": "2023-02-06 10:03:23",
-      "album": {
         "name": "The Sound of Perseverance - Reissue",
         "url": "https://open.spotify.com/album/0p6DxsQOhQ5qiBnUu9G1PB"
       },
@@ -1179,6 +1163,22 @@
       "duration_ms": 223933,
       "name": "Voice of the Soul",
       "url": "https://open.spotify.com/track/69Yia3qCLw6N9U80WhLwLn"
+    },
+    {
+      "added_at": "2023-02-06 10:03:23",
+      "album": {
+        "name": "Whitesnake (2018 Remaster)",
+        "url": "https://open.spotify.com/album/5drgoLSnXSDIhNK4ms3P7I"
+      },
+      "artists": [
+        {
+          "name": "Whitesnake",
+          "url": "https://open.spotify.com/artist/3UbyYnvNIT5DFXU4WgiGpP"
+        }
+      ],
+      "duration_ms": 397768,
+      "name": "Still of the Night - 2018 Remaster",
+      "url": "https://open.spotify.com/track/40GS2O35HIqhOVCFZZTfFF"
     },
     {
       "added_at": "2023-02-06 10:03:23",
@@ -1279,22 +1279,6 @@
     {
       "added_at": "2023-02-06 10:03:23",
       "album": {
-        "name": "The World Needs a Hero",
-        "url": "https://open.spotify.com/album/5YFrdrFUHGgAvK8iXFxULa"
-      },
-      "artists": [
-        {
-          "name": "Megadeth",
-          "url": "https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf"
-        }
-      ],
-      "duration_ms": 268706,
-      "name": "Promises",
-      "url": "https://open.spotify.com/track/0kAocIIQ0FP9NIKASAjVH5"
-    },
-    {
-      "added_at": "2023-02-06 10:03:23",
-      "album": {
         "name": "Hysteria (Super Deluxe)",
         "url": "https://open.spotify.com/album/31oeDyCOLhgeZyktfxo0pE"
       },
@@ -1307,6 +1291,22 @@
       "duration_ms": 354636,
       "name": "Hysteria - Remastered 2017",
       "url": "https://open.spotify.com/track/6EzSduIPnAmO3o41HY5V9d"
+    },
+    {
+      "added_at": "2023-02-06 10:03:23",
+      "album": {
+        "name": "The World Needs a Hero",
+        "url": "https://open.spotify.com/album/5YFrdrFUHGgAvK8iXFxULa"
+      },
+      "artists": [
+        {
+          "name": "Megadeth",
+          "url": "https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf"
+        }
+      ],
+      "duration_ms": 268706,
+      "name": "Promises",
+      "url": "https://open.spotify.com/track/0kAocIIQ0FP9NIKASAjVH5"
     },
     {
       "added_at": "2023-02-06 10:03:23",

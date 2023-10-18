@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZLhUfNQOQ1p.md) - [plain]
 
 > Musica da ascoltare con un Negroni in mano\. 🍹
 
-[Spotify](https://open.spotify.com/user/spotify) - 245,601 likes - 100 songs - 6 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 245,652 likes - 100 songs - 6 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -98,8 +98,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZLhUfNQOQ1p.md) - [plain]
 | 88 | [Mandala](https://open.spotify.com/track/2gSQxp5MPT7O25IZh8xcGO) | [Koralle](https://open.spotify.com/artist/3OW3qK7Wl9ESAGLvjVOw2h), [Pachakuti](https://open.spotify.com/artist/2pQzPOCdgQgaUpWG3WEcYr) | [Blunotte](https://open.spotify.com/album/5U5C9RGGsnUR5okigKTANF) | 3:01 |
 | 89 | [Leave My Home](https://open.spotify.com/track/6mp9DV7vsQtdqR35RYSpdz) | [FKJ](https://open.spotify.com/artist/2FwDTncULUnmANIh7qKa5z) | [Leave My Home](https://open.spotify.com/album/2WMV7jPy8XKRtchqqBCheP) | 3:41 |
 | 90 | [I Go \- Edit](https://open.spotify.com/track/5VCx6BsBizs11OJvSnqDG4) | [Peggy Gou](https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN) | [I Go](https://open.spotify.com/album/6BaEmgJe4ryoOHQa3BI9dz) | 3:44 |
-| 91 | [Poundland Anthem](https://open.spotify.com/track/6WR6Rd2dCpnwDda3ehLEPX) | [Folamour](https://open.spotify.com/artist/6pJY5At9SiMpAOBrw9YosS) | [Manifesto](https://open.spotify.com/album/20Xt1wX0TmekDqvzD0JSVY) | 5:55 |
-| 92 | [Never Come Back](https://open.spotify.com/track/2xxKJgIpgiancRpSup5dHU) | [Caribou](https://open.spotify.com/artist/4aEnNH9PuU1HF3TsZTru54) | [Suddenly](https://open.spotify.com/album/7Dl44V6YlpZ7apC87YAWnC) | 5:05 |
+| 91 | [Never Come Back](https://open.spotify.com/track/2xxKJgIpgiancRpSup5dHU) | [Caribou](https://open.spotify.com/artist/4aEnNH9PuU1HF3TsZTru54) | [Suddenly](https://open.spotify.com/album/7Dl44V6YlpZ7apC87YAWnC) | 5:05 |
+| 92 | [Poundland Anthem](https://open.spotify.com/track/6WR6Rd2dCpnwDda3ehLEPX) | [Folamour](https://open.spotify.com/artist/6pJY5At9SiMpAOBrw9YosS) | [Manifesto](https://open.spotify.com/album/20Xt1wX0TmekDqvzD0JSVY) | 5:55 |
 | 93 | [Mystery Lady \- Scorpion Kings Remix](https://open.spotify.com/track/0nx8uE4jpVqMF2kIRWW98W) | [Masego](https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig), [Kabza De Small](https://open.spotify.com/artist/1bNjWBFWsAAzZSR59lRdpR), [DJ Maphorisa](https://open.spotify.com/artist/0mMqD2uqwvCjFvlzo6ayGi), [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs) | [Mystery Lady \(Scorpion Kings Remix\)](https://open.spotify.com/album/4VGeapArZuyjTw7rcIXjmi) | 7:30 |
 | 94 | [Sometimes](https://open.spotify.com/track/04C4hilfrfIkaPiUNqWNox) | [Olivier Verhaeghe](https://open.spotify.com/artist/5ByRyadFsiEijaFBYlNxLs) | [Horchata](https://open.spotify.com/album/5iXzOVCrsnRMlZF7YBPMqh) | 5:22 |
 | 95 | [Estación Esperanza](https://open.spotify.com/track/1jGkLUJCl46NmXIM6rUghn) | [Sofia Kourtesis](https://open.spotify.com/artist/7wXTWO45lqpUejDkike0Gf), [Manu Chao](https://open.spotify.com/artist/6wH6iStAh4KIaWfuhf0NYM) | [Estación Esperanza](https://open.spotify.com/album/64q41JtvnThaB2VaVrqfpQ) | 5:16 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZLhUfNQOQ1p.md) - [plain]
 | 99 | [A Tune For Jack](https://open.spotify.com/track/1AKHclGKFc3fjv0V9qnZ3w) | [Lemon Jelly](https://open.spotify.com/artist/5uh8Bhewltd8j0TLZjNImc) | [LemonJelly.ky](https://open.spotify.com/album/6cugMaPzUNXXz60wNX3Amk) | 6:45 |
 | 100 | [Bad Weather Mates](https://open.spotify.com/track/23cRw4Pyt2rJQznlFEnPGs) | [Session Victim](https://open.spotify.com/artist/4Hl6TEQAFgH0XrZq4f8okX) | [Needledrop](https://open.spotify.com/album/0KynfLw1af32baSTI7UO6z) | 2:47 |
 
-Snapshot ID: `MCw1MDRiYjFjNDE3NTA2ZWE1ZjFjYTI5Njc5MWJhMDUyZTIxOTMwZjQz`
+Snapshot ID: `MCwxY2Y0MjJhNzE4Yzc5MGM1YjA2NDMyZWEwZTI1NTZjY2IyMzg1MGQw`

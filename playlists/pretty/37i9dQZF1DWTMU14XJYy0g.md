@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTMU14XJYy0g.md) - [plain]
 
 > Lo más potente del rock argentino, y algunos invitados de lujo\. Foto: Estelares
 
-[Spotify](https://open.spotify.com/user/spotify) - 504,481 likes - 67 songs - 4 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 504,577 likes - 67 songs - 4 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -76,4 +76,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTMU14XJYy0g.md) - [plain]
 | 66 | [Home Sweet Home](https://open.spotify.com/track/1moo4754JGB02h0XqUC6Jn) | [Bahiano](https://open.spotify.com/artist/3FXD2eQcHOiacO9qXENLUN), [Los Caligaris](https://open.spotify.com/artist/13wFTN72PGSUxzEHJP5Ljs) | [Home Sweet Home](https://open.spotify.com/album/1YR3ye2nVpjmXFSCHSsOdX) | 3:24 |
 | 67 | [Dame Rock](https://open.spotify.com/track/3QZZYSB4aafCmPe14ElQIM) | [C.R.O](https://open.spotify.com/artist/4puAp107dCehraE47QXVQX) | [Temor](https://open.spotify.com/album/3Wqm2Y41oWaFHODb2xTnn7) | 2:06 |
 
-Snapshot ID: `MCwzMmE5YjNjMmI5YTQ4NTg0NmYyM2RmNTVkOTAzYmNlYzM4ZmJjOTI3`
+Snapshot ID: `MCxhM2FlMzNlMjliYjc1NTliODA3M2RlMzM2MjlkMzE5NzA1OWI2MDYx`

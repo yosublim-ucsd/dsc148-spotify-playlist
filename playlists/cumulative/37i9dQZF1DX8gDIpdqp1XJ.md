@@ -4,7 +4,7 @@
 
 > The best of modern psychedelic rock,  neo\-psychedelic, and psychedelic indie.
 
-891 songs - 2 day 10 hr 22 min
+892 songs - 2 day 10 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -711,7 +711,8 @@
 | [St\. Leville](https://open.spotify.com/track/7GywQZS0rFVomHhGEp04lm) | [Haich Ber Na](https://open.spotify.com/artist/5W4B7OYk43jiH6qLcZ66Qd) | [St\. Leville](https://open.spotify.com/album/1knVOymkpCydLlTpGyXMt8) | 3:08 | 2022-06-17 |  |
 | [Starfruit](https://open.spotify.com/track/143YSRMmMxsSpw2uTIQhnS) | [Moon Panda](https://open.spotify.com/artist/2Ghddt4G7272vYt4xOyYWm) | [Starfruit](https://open.spotify.com/album/0uXYIewphqjuLxXKCh0Ix5) | 3:27 | 2023-04-21 |  |
 | [Starting Over](https://open.spotify.com/track/0KtiONnwQ1jQtLnHaXBSku) | [The Lazy Eyes](https://open.spotify.com/artist/5ZCOgPpZNvlJEBnUZnDqW8) | [Starting Over](https://open.spotify.com/album/3xcxPIPv0dYjPK9XwMRioq) | 3:25 | 2022-04-20 | 2022-06-28 |
-| [Steal The Air](https://open.spotify.com/track/2ALZSoAzibYD9AP5xkGjZz) | [Phantom Youth](https://open.spotify.com/artist/6R3Zn2xPFisfiGQIrp4sKd) | [Steal The Air](https://open.spotify.com/album/5OvfpBVGHG432h7qMnkcwj) | 3:34 | 2023-08-18 |  |
+| [Steal The Air](https://open.spotify.com/track/2ALZSoAzibYD9AP5xkGjZz) | [Phantom Youth](https://open.spotify.com/artist/6R3Zn2xPFisfiGQIrp4sKd) | [Steal The Air](https://open.spotify.com/album/5OvfpBVGHG432h7qMnkcwj) | 3:34 | 2023-08-18 | 2023-10-18 |
+| [Steal The Air](https://open.spotify.com/track/3uIdz7rkBAvKVQY1WC4R1U) | [Phantom Youth](https://open.spotify.com/artist/6R3Zn2xPFisfiGQIrp4sKd) | [Slide Back](https://open.spotify.com/album/3CvQz6P3BnFbPjOQa7cxQV) | 3:34 | 2023-10-10 |  |
 | [Steal This Mug](https://open.spotify.com/track/5AQ7urDH36Z0NobmIIlc2x) | [Meditations on Crime](https://open.spotify.com/artist/6ggsYambXUenZL9Y8HeWXB), [Ariel Pink](https://open.spotify.com/artist/5H0YoDsPDi9fObFmJtTjfN), [Harper Simon](https://open.spotify.com/artist/4fFL1ARvUJCoaZ3HK4SxdE) | [Meditations on Crime](https://open.spotify.com/album/2AUXeLSBLzeoFjN1eLFi5p) | 3:07 | 2022-10-24 | 2022-12-03 |
 | [STILL IN LOVE](https://open.spotify.com/track/2FNDyU7qtE3U4UGZTO1NCo) | [Eyedress](https://open.spotify.com/artist/3XxNRirzbjfLdDli06zMaB) | [STILL IN LOVE](https://open.spotify.com/album/5fOFmxmkcpTTdC1UloGZG6) | 2:38 | 2022-06-03 | 2022-06-18 |
 | [Stone Killer](https://open.spotify.com/track/0HTdp0zc8NELjhPTbEp7PR) | [26fix](https://open.spotify.com/artist/1HvnaxYOnYcLVvnOn2eb5e) | [Stone Killer](https://open.spotify.com/album/5g8JB0xHVPlp25BmuIci5L) | 3:28 | 2023-05-05 |  |

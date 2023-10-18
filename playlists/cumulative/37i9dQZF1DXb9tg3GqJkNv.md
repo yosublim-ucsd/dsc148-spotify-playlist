@@ -4,7 +4,7 @@
 
 > A collection of <a href="https://open.spotify.com/playlist/37i9dQZF1DX59ogDi1Z2XL?si=75c9bb9755f54283">Northern Bars</a>’ finest\. Cover: Charmaine
 
-100 songs - 5 hr 0 min
+101 songs - 5 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -39,6 +39,7 @@
 | [Dead Or Alive](https://open.spotify.com/track/6ekV6MGnPTuCOnjB4VcWGc) | [Jazz Cartier](https://open.spotify.com/artist/0sc5zYshOdiFD4ayqMrJbJ) | [Dead Or Alive](https://open.spotify.com/album/3TDEhWhq4igbjoquhj8NOp) | 3:14 | 2023-03-03 |  |
 | [DnF \(feat\. Drake & Future\)](https://open.spotify.com/track/5EMKS6mLi4JprJxy8IGdhT) | [Preme](https://open.spotify.com/artist/0bdJZl7TDeiymDYzMJnVh2), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [Dear America](https://open.spotify.com/album/4ph77Ne0Z4oktYiXHDSH3G) | 3:25 | 2023-03-03 |  |
 | [Don't Dance](https://open.spotify.com/track/5pPjRodJAYNwVXSRekq40W) | [Pengz](https://open.spotify.com/artist/6MtptleIGJ3C7lOpGf9Hxc) | [Don't Dance](https://open.spotify.com/album/20cF35OrxFwHvEnnJqvWCX) | 3:17 | 2023-03-17 | 2023-08-25 |
+| [Dwayne Carter Flow](https://open.spotify.com/track/2B5QF7KSCv5jz2hIxyKic5) | [Nate Husser](https://open.spotify.com/artist/5o4gKYJ99ROV1yye1v9Sh4) | [All Time High](https://open.spotify.com/album/5ptOOTLiiSnYMUCnAgUE3N) | 2:10 | 2023-10-06 |  |
 | [Dwayne Carter Flow](https://open.spotify.com/track/570V1YeIjY18g0OgQViBCg) | [Nate Husser](https://open.spotify.com/artist/5o4gKYJ99ROV1yye1v9Sh4) | [Dwayne Carter Flow](https://open.spotify.com/album/0DN87LYvjreENZHFUCbk6d) | 2:10 | 2023-03-03 | 2023-10-01 |
 | [Everywhere We Go](https://open.spotify.com/track/0vdbvgggS673fhvHdrU34E) | [SonReal](https://open.spotify.com/artist/2OlZK0VIzr7wQYSrj9bOvF) | [Everywhere We Go Single](https://open.spotify.com/album/69Vz9WpIGsDwUU8Czqapy2) | 3:18 | 2023-03-03 |  |
 | [Examples](https://open.spotify.com/track/44p4I5E6fECcUdbX53K8Ze) | [3MFrench](https://open.spotify.com/artist/7MPnGqTzCsarDScihWka1x), [T\-jin](https://open.spotify.com/artist/6rSB5wNriTJ9FOXwhkCNgN) | [Examples](https://open.spotify.com/album/3ZgKOfE40puoOrXkQK1Srq) | 2:36 | 2023-03-03 | 2023-08-02 |
@@ -64,7 +65,7 @@
 | [Life Is Good \(feat\. Drake\)](https://open.spotify.com/track/5yY9lUy8nbvjM1Uyo1Uqoc) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Life Is Good \(feat\. Drake\)](https://open.spotify.com/album/5uCEoLCj3ZZZ1EtzQdQWVl) | 3:57 | 2023-03-03 |  |
 | [Lil Boat](https://open.spotify.com/track/3Zcv9IeYgCvEhxFTfsduaQ) | [88GLAM](https://open.spotify.com/artist/2I9SLklAOG0vdMiUUMNxRl) | [88GLAM2](https://open.spotify.com/album/1BgPkFMgud3lmEc6enZsjd) | 3:00 | 2023-03-03 |  |
 | [Live Up to My Name](https://open.spotify.com/track/79KZAInFkxA0XLukZCGzvh) | [Baka Not Nice](https://open.spotify.com/artist/3yvCFkK57FXH7JIwZQ5CmU) | [4Milli](https://open.spotify.com/album/28vYZP2mGD54CUoY0lPUr2) | 3:00 | 2023-03-03 |  |
-| [Made Me Everything](https://open.spotify.com/track/6SykBo6T7iX27cRWyQlmww) | [TOBi](https://open.spotify.com/artist/0P54cVemq1DCHUfUMlWAoN) | [ELEMENTS Vol\. 1](https://open.spotify.com/album/1c39zRl2zcy9c4rZoLLEGm) | 3:17 | 2023-07-07 |  |
+| [Made Me Everything](https://open.spotify.com/track/6SykBo6T7iX27cRWyQlmww) | [TOBi](https://open.spotify.com/artist/0P54cVemq1DCHUfUMlWAoN) | [ELEMENTS Vol\. 1](https://open.spotify.com/album/1c39zRl2zcy9c4rZoLLEGm) | 3:17 | 2023-07-07 | 2023-10-18 |
 | [Man Listen](https://open.spotify.com/track/5GoGjEsPvr0McJQiGGCnws) | [Belly](https://open.spotify.com/artist/0FOWNUFHPnMy0vOw1siGqi) | [Man Listen](https://open.spotify.com/album/1AAaWeadQaRO6Vab1u3qyU) | 3:03 | 2023-03-03 |  |
 | [Mansion](https://open.spotify.com/track/7yWPBTrbUO3VmIsD6hLhGf) | [Pressa](https://open.spotify.com/artist/5olrQpDroHT7sjmYWMLivy), [Houdini](https://open.spotify.com/artist/2Ruhhm5oH4pxgsEUVZcaHm), [6ixbuzz](https://open.spotify.com/artist/0esldOhgJb5AkjUre9EgLk) | [Mansion](https://open.spotify.com/album/1nwyxrszUQuWwdwgIKw02E) | 2:46 | 2023-03-03 |  |
 | [Marathon](https://open.spotify.com/track/6TVqffNTpDAlfCtDIKyFbZ) | [Connor Price](https://open.spotify.com/artist/5zixe6AbgXPqt4c1uSl94L), [4Korners](https://open.spotify.com/artist/3OkT1SRceq0PfwGWmTvFab) | [Marathon](https://open.spotify.com/album/0kxzCodCyY6zf1KJMR8tCm) | 2:16 | 2023-03-03 |  |

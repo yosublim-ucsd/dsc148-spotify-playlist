@@ -4,7 +4,7 @@
 
 > If your mood is to Praise and Worship the Almighty God for what He has done, then this is the right playlist\. A mix of both African and International songs.
 
-221 songs - 20 hr 29 min
+222 songs - 20 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -80,6 +80,7 @@
 | [Green Land](https://open.spotify.com/track/40A974aVBeF7avQm8rvk3D) | [Ty Bello](https://open.spotify.com/artist/2iWK4awJAvQtgg1cUHaU9J), [Joseph Company](https://open.spotify.com/artist/5E43CXxhV0XWcnzNZEmKj3) | [Greenland](https://open.spotify.com/album/6i0kFsZupElRoGuECviIaK) | 4:18 | 2022-06-30 | 2023-06-04 |
 | [Hallelu](https://open.spotify.com/track/7kS7kiFLVZ0UZDpFyPusXG) | [Coblaze](https://open.spotify.com/artist/3kkZ1TtjCHg8xBvvfrsZfs) | [Hallelu](https://open.spotify.com/album/1ZFY1mPumRKVFzVBxv3lQM) | 2:36 | 2022-10-21 | 2023-01-20 |
 | [Hallelujah](https://open.spotify.com/track/5jqP4eqHNhIU2IEMy50moc) | [Celebrate Africa](https://open.spotify.com/artist/1DLPgNqNZFWY3n8Vp7Xyh8), [Kingdmusic](https://open.spotify.com/artist/3BJmyFO1PAwy3kW5YzdvQL) | [Hallelujah](https://open.spotify.com/album/22Y4oLdS0QPrzMmz8gQE6i) | 3:44 | 2022-09-30 | 2023-04-15 |
+| [Hallelujah \(feat\. Dunsin Oyekan\) \- Live](https://open.spotify.com/track/3OwXa5v85UzgmQBieUscvu) | [Joe Mettle](https://open.spotify.com/artist/1An6gOOlZ9NITlQs2ZtBCb), [Dunsin Oyekan](https://open.spotify.com/artist/49BZ6sJNhvubVBsomYuLFM) | [Hallelujah \(feat\. Dunsin Oyekan\) \[Live\]](https://open.spotify.com/album/0ebuJYKuAn6Of3jD5nC8CV) | 5:20 | 2023-10-13 |  |
 | [Hallow](https://open.spotify.com/track/2V9BiIYlcK7vvK864BusrG) | [Marizu](https://open.spotify.com/artist/4rwolwLHj97rPwbhyNSeU9) | [Hallow](https://open.spotify.com/album/1xa5PIPcWSV78KhlT8LZH6) | 2:38 | 2022-06-30 | 2023-01-20 |
 | [His Own \(Leave Me Alone\)](https://open.spotify.com/track/6t3of7F7zx2SwmDgRD5meQ) | [Oba Reengy](https://open.spotify.com/artist/2p8Rrwmp4CLigLFsClVDVC) | [His Own \(Leave Me Alone\)](https://open.spotify.com/album/2EJzFXvdGBLUaTrcILHbJw) | 2:51 | 2022-06-30 | 2023-04-21 |
 | [Hold It All](https://open.spotify.com/track/0VgZalgsvnTj9aXCzUsJUf) | [Allan Scott](https://open.spotify.com/artist/5bTp94uRj4N6iSyVo4sigW) | [Hold It All](https://open.spotify.com/album/2Mz5cqlXvTe6abwAHqdaGq) | 3:01 | 2022-06-30 | 2022-10-16 |
@@ -148,7 +149,7 @@
 | [Not Moved](https://open.spotify.com/track/0r8GJylbT4AOlgPjCO2HYX) | [Victor Thompson](https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas) | [Not Moved](https://open.spotify.com/album/2h24vz5sGNeNbxfcqH8a5z) | 4:33 | 2023-01-27 |  |
 | [Not Moved](https://open.spotify.com/track/6bvQPwpiGkvhwXq12f429q) | [Victor Thompson](https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas) | [Not Moved](https://open.spotify.com/album/11WIHYBbynfg1VwUlmHshG) | 4:33 | 2022-06-30 | 2023-02-15 |
 | [Oceans \(Where Feet May Fail\)](https://open.spotify.com/track/5Mw9bXG1dLNhbjofkVS2oR) | [Hillsong UNITED](https://open.spotify.com/artist/74cb3MG0x0BOnYNW1uXYnM), [TAYA](https://open.spotify.com/artist/3D04fb59z3ANxVaeHBfxtW) | [Zion \(Deluxe Edition\)](https://open.spotify.com/album/3A24aBx6jZCAgovIbZUubC) | 8:55 | 2023-06-30 |  |
-| [Oceans \(Where Feet May Fail\) \- Redux](https://open.spotify.com/track/4oxHDhN1my6y0Isk2k7GsV) | [Hillsong UNITED](https://open.spotify.com/artist/74cb3MG0x0BOnYNW1uXYnM), [TAYA](https://open.spotify.com/artist/3D04fb59z3ANxVaeHBfxtW) | [Zion \(X\)](https://open.spotify.com/album/2XKmrW38QMmkXJqn9SgBLR) | 8:11 | 2023-09-15 |  |
+| [Oceans \(Where Feet May Fail\) \- Redux](https://open.spotify.com/track/4oxHDhN1my6y0Isk2k7GsV) | [Hillsong UNITED](https://open.spotify.com/artist/74cb3MG0x0BOnYNW1uXYnM), [TAYA](https://open.spotify.com/artist/3D04fb59z3ANxVaeHBfxtW) | [Zion \(X\)](https://open.spotify.com/album/2XKmrW38QMmkXJqn9SgBLR) | 8:11 | 2023-09-15 | 2023-10-18 |
 | [Odo Kese](https://open.spotify.com/track/0LFf0DV7PObhqDRNMHC0RA) | [Joyce Blessing](https://open.spotify.com/artist/4ilNroq4d7QN2djHi3IVZI) | [Odo Kese](https://open.spotify.com/album/790ALtbGXPJ1W0BwLnWcks) | 4:41 | 2022-07-14 | 2022-11-19 |
 | [Ogo](https://open.spotify.com/track/74cYpHbbUTJfDgu1yETDZf) | [Eben](https://open.spotify.com/artist/5vJ3Jo3CZKmiYSUDdm6lpm), [Todd Dulaney](https://open.spotify.com/artist/41OAtBkqAXVdMlteKlhrZz) | [Ogo](https://open.spotify.com/album/0FR8yTV3mlUHExeORoCCWS) | 5:36 | 2022-06-30 | 2023-04-15 |
 | [Oh My Soul](https://open.spotify.com/track/0uQfatIe71HRJHJrBdtlNc) | [Casting Crowns](https://open.spotify.com/artist/6eJqAWJdd8JhAN1pQGie4r), [Katy Nichole](https://open.spotify.com/artist/4sdhhi6q1Ez9l5PagQsykC), [David Leonard](https://open.spotify.com/artist/2r9qoFx4EhGP8RYFQ4eMIE) | [Voice of Truth](https://open.spotify.com/album/5g3V6zzN6xNcdPzJOaak14) | 4:23 | 2023-09-01 |  |

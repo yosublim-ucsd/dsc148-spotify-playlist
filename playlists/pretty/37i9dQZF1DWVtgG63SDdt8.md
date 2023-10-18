@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 
 > The best new tracks of all genres of Christian, Gospel, Worship & Inspirational music\.  Cover: <a href="spotify:artist:1L9zhXcitRv35NwUZmwBZ4">Jonny Henninger</a> and <a href="spotify:artist:2PCl4hx9Qds8sjcnoWUdqp">Sondae</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 311,933 likes - 100 songs - 6 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 312,001 likes - 100 songs - 6 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -87,7 +87,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 | 77 | [In Christ Alone](https://open.spotify.com/track/6oS15LyQtAwYsRL7usnT2M) | [Natalie Grant](https://open.spotify.com/artist/6KVnMm856M8CHHBCw53Ihh) | [Seasons](https://open.spotify.com/album/0N7E7ssTnuxjKorNihxEXe) | 4:08 |
 | 78 | [Supernatural Love \- Live](https://open.spotify.com/track/1KrKAsdDbmvyBwqKST85hq) | [Planetshakers](https://open.spotify.com/artist/5A0SFJQSdSjFHGcndiGT1s) | [Supernatural Love \(Live At Chapel\)](https://open.spotify.com/album/3orusb2lMoBTqquDcdSFzr) | 4:57 |
 | 79 | [Scandal Of Grace \- Live At Red Rocks](https://open.spotify.com/track/2Xa7XYHeb62XLMRJShKr2L) | [Hillsong UNITED](https://open.spotify.com/artist/74cb3MG0x0BOnYNW1uXYnM), [Matt Crocker](https://open.spotify.com/artist/6vGCQS2VmikoQOsXgFN3Ec) | [Zion \(X\)](https://open.spotify.com/album/5cuXbASACaEmO4TmrKn5yV) | 4:16 |
-| 80 | [What Could Have Been](https://open.spotify.com/track/0mY8ZOtLOSZqTqSjP8dFu7) | [Jonathan Lee McElhenny](https://open.spotify.com/artist/4NZ5d4nF4zB40LPYiiZJiF), [The Band Table](https://open.spotify.com/artist/67IX3oYVot7E779xGELk4L), [People & Songs](https://open.spotify.com/artist/0DLoqaxhfWU5litFyzLqn8) | [What Could Have Been](https://open.spotify.com/album/3g3MPockadQ9eCj3UfVWJW) | 4:36 |
+| 80 | [What Could Have Been](https://open.spotify.com/track/0mY8ZOtLOSZqTqSjP8dFu7) | [Jonathan Lee McElhenny](https://open.spotify.com/artist/08vxD3roX2JckYwjZZVjr2), [The Band Table](https://open.spotify.com/artist/67IX3oYVot7E779xGELk4L), [People & Songs](https://open.spotify.com/artist/0DLoqaxhfWU5litFyzLqn8) | [What Could Have Been](https://open.spotify.com/album/3g3MPockadQ9eCj3UfVWJW) | 4:36 |
 | 81 | [Dangerous](https://open.spotify.com/track/54sLpxlhln5FWDy4nBfJK6) | [CCV Music](https://open.spotify.com/artist/70Gna7fVbm97TQzkkWai3e) | [Dangerous](https://open.spotify.com/album/7vLmZB0D3Q4X3GHuXBoO9w) | 4:22 |
 | 82 | [Trust You Again](https://open.spotify.com/track/6S1ba7g7dfOq4h4kWVpJO0) | [Rolling Hills Worship](https://open.spotify.com/artist/19dCe1rplp2csOVqXF6J0M), [Jordan St\. Cyr](https://open.spotify.com/artist/4RbkVdTJEHZEfppvxBD6Il) | [Trust You Again](https://open.spotify.com/album/3TqUs0FlzPLDw2f7YhTm2l) | 5:08 |
 | 83 | [Less Of Me & More Of You](https://open.spotify.com/track/7CQTxwRg8kKPA66FuqiOAN) | [Austin Stone Worship](https://open.spotify.com/artist/5B0gcQCmHJR2VznrIGKh4x) | [Less Of Me & More Of You](https://open.spotify.com/album/6rrMmHilNvkMk189tYVriL) | 4:30 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 | 99 | [Go Tell It](https://open.spotify.com/track/4wzFTSSj7cKpso1g9PIAEr) | [Forrest Frank](https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ) | [Go Tell It](https://open.spotify.com/album/7zxSymD8q1DYZ0S4CKleNZ) | 2:43 |
 | 100 | [Say So \(Broken Halo\)](https://open.spotify.com/track/5VOGsx6cUWLeuHil1t1GNN) | [Apollo LTD](https://open.spotify.com/artist/2H3EMYFS69dhMmrX9JTkZp) | [Say So \(Broken Halo\)](https://open.spotify.com/album/3xTTSloMnGebuLtayYFccC) | 2:38 |
 
-Snapshot ID: `MCw2YzE4MmM0ZmM2MTlkNWIyYmQ2ZTI4ZjkxMGU0YWM3ZjY4NmIyZDVj`
+Snapshot ID: `MCxiOWJlM2YxNGY4OGM0NGVmZGRmNmZhMzUxODI4YjkxYTliNTQxNGZk`

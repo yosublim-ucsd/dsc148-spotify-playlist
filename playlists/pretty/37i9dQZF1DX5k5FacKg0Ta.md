@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5k5FacKg0Ta.md) - [plain]
 
 > Valikoima tuoreita ja hieman vanhempiakin suomalaisia jazz\-helmiä.
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,272 likes - 78 songs - 6 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,295 likes - 78 songs - 6 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,15 +59,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5k5FacKg0Ta.md) - [plain]
 | 49 | [Decoration \- Alternative Version](https://open.spotify.com/track/2fQiesYvRRvU26T9yskrQd) | [Varre Vartiainen](https://open.spotify.com/artist/2XhdWDg4TZrfKrGb3dg3QG) | [Almost Standards \(Doctoral Edition\)](https://open.spotify.com/album/1ptiBUZkgEzYmt3nElJbdb) | 6:34 |
 | 50 | [Kelo](https://open.spotify.com/track/5MaNwKdorJTKEMzKr4cL3i) | [Eero Koivistoinen Quartet](https://open.spotify.com/artist/7q1zywOL5kaYleRWJORLGo) | [Diversity](https://open.spotify.com/album/2Z8qjhaLu9SYLtt7YuKNgD) | 5:12 |
 | 51 | [Myrskyn Jälkeen](https://open.spotify.com/track/40YB7af2XRxHzO8AYThAnQ) | [Eeppi Ursin](https://open.spotify.com/artist/4mZ1U29cyK5MkPefagHlzn) | [My Finnish Soul](https://open.spotify.com/album/6qiOxwnfwtnuVBgwU9NR9l) | 4:30 |
-| 52 | [Parade](https://open.spotify.com/track/2Ut23DFEzsvCywpleGYDXv) | [Kerkko Koskinen](https://open.spotify.com/artist/2UY9x8QKk1ZIRgNuBtzvxo), [Linda Fredriksson](https://open.spotify.com/artist/341VCWqMvdMnDP98GjaGYL), [UMO Helsinki Jazz Orchestra](https://open.spotify.com/artist/7wfO8pXRKhjRBFVKdSvdWq) | [Agatha 2](https://open.spotify.com/album/0Z0wyJ2AhSoqihYUpCCCvC) | 4:06 |
+| 52 | [Parade](https://open.spotify.com/track/3NI3SPBGKE1rOzIm28ory0) | [Kerkko Koskinen](https://open.spotify.com/artist/2UY9x8QKk1ZIRgNuBtzvxo), [Linda Fredriksson](https://open.spotify.com/artist/341VCWqMvdMnDP98GjaGYL), [UMO Helsinki Jazz Orchestra](https://open.spotify.com/artist/7wfO8pXRKhjRBFVKdSvdWq) | [Agatha 2](https://open.spotify.com/album/08nktqg0coNXQJK1xjBiuj) | 4:06 |
 | 53 | [Trial by Fire](https://open.spotify.com/track/37aSF6UCYfvPEXdCjHLvKY) | [Martti Vesala Soundpost Quintet](https://open.spotify.com/artist/4yfLJzuJhNaBEJlfe53KnO) | [Trial by Fire](https://open.spotify.com/album/4cF52bdDIreABU7AeK41yK) | 4:48 |
 | 54 | [Ask Me Now](https://open.spotify.com/track/1JRBmuvgDW9rcoJst2oJre) | [Teemu Viinikainen](https://open.spotify.com/artist/0OgaFFwXXVXsIpAaPS2EBR) | [Ask Me Now](https://open.spotify.com/album/0DBEAQOu9OhVK4BUE3tiJf) | 2:30 |
-| 55 | [Like Steel](https://open.spotify.com/track/0zvp0m468qwkERmjMPnVfB) | [Esa Pethman](https://open.spotify.com/artist/19tCGRoeUzAegnBcvMfLZg) | [In Belgium 1967](https://open.spotify.com/album/7K7ZPq67v0pdmlyQXhr4ph) | 5:07 |
+| 55 | [Like Steel](https://open.spotify.com/track/1LFUykhSDCqcmpDzs0WpvH) | [Esa Pethman](https://open.spotify.com/artist/19tCGRoeUzAegnBcvMfLZg) | [In Belgium 1967](https://open.spotify.com/album/4aakvcLyo3hy75L2R2w5jp) | 5:07 |
 | 56 | [Hiljainen](https://open.spotify.com/track/0zf7oA2yxkY0pf7FqJFBu8) | [Mikko Sarvanne Garden](https://open.spotify.com/artist/6BNkfqfvbnuPEVyBhANA39) | [Hiljainen](https://open.spotify.com/album/5lzBNkrexXp1rBeOJSIXi3) | 6:25 |
 | 57 | [Rag](https://open.spotify.com/track/1U2g56MOsv3yZ6g70OhwGk) | [Veera Syrén](https://open.spotify.com/artist/6eBDvwzuPtOwgr6wXLahsI) | [Rag](https://open.spotify.com/album/7mgH9Xu4xGvMaizxeTUeSf) | 4:10 |
 | 58 | [Ketunnokka](https://open.spotify.com/track/3YvK6bdj8mGao5f2CCVBdz) | [Kadi Vija Key Project](https://open.spotify.com/artist/3eQyWxtFpfGfVLPBgO9LY5) | [Ketunnokka](https://open.spotify.com/album/2592dCUKaQyPcmgUP4gszv) | 6:07 |
 | 59 | [Saami Rights](https://open.spotify.com/track/28KzeO7Wres2CmdmMjoXoi) | [Jani Malmi](https://open.spotify.com/artist/7riUWstfEMI59UAvTmIKbS) | [Saami Rights](https://open.spotify.com/album/2J9YdrWUDPck5CxKBXs92d) | 4:33 |
-| 60 | [In Place](https://open.spotify.com/track/3U7QS0oySVgb5vL3ZJsD3P) | [Joona Toivanen Trio](https://open.spotify.com/artist/7lkzHd6Tzt9hQJSnIYkVrl) | [Both Only](https://open.spotify.com/album/2e06pqph69m1CCBkKNiBQQ) | 5:08 |
+| 60 | [In Place](https://open.spotify.com/track/2EQ4o9Bxfi9R4Xw9pty8Ae) | [Joona Toivanen Trio](https://open.spotify.com/artist/7lkzHd6Tzt9hQJSnIYkVrl) | [Both Only](https://open.spotify.com/album/0ILAAcet8xZuw1h5LBgseA) | 5:08 |
 | 61 | [Karjalan Poikia](https://open.spotify.com/track/1QKRrMtm4qo22TGO5qjMF1) | [Hot Heros](https://open.spotify.com/artist/4Qwj56r88a95geCz7UF6KA) | [Karjalan Poikia](https://open.spotify.com/album/1txoN5voopFmu3MDID7MG8) | 4:20 |
 | 62 | [Hover](https://open.spotify.com/track/4L8MDfYP5EF61dDjkEtcat) | [Tapani Rinne](https://open.spotify.com/artist/3444FAqjOpZGe7qdyshHg1), [Juha Mäki\-Patola](https://open.spotify.com/artist/6UMvXeBrLr04seUgcTvlxK) | [Open](https://open.spotify.com/album/5W92tmMDBBOg4d30rMLPWu) | 3:51 |
 | 63 | [Vanhatie](https://open.spotify.com/track/1hLUkwJHzvVRhbPDkkhaWI) | [OK:KO](https://open.spotify.com/artist/4IKmn7iXDZUlmXShSemrrW) | [Vanhatie](https://open.spotify.com/album/2v4r8lY7yaGYP0TKJXpVZN) | 6:44 |
@@ -87,4 +87,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5k5FacKg0Ta.md) - [plain]
 | 77 | [Sgr A\*](https://open.spotify.com/track/5v0y5dl1jFmnLLjLsbRVlE) | [Ilmiliekki Quartet](https://open.spotify.com/artist/5lyAsOhlvbGujJCVQoDC1B), [Verneri Pohjola](https://open.spotify.com/artist/601yt0lWcEE1vS1bzAPwSX), [Tuomo Prättälä](https://open.spotify.com/artist/06xoCURLIPFP4LvhXi8aLx), [Antti Lötjönen](https://open.spotify.com/artist/6uEOkKRkGPB7Z274RWBiCR), [Olavi Louhivuori](https://open.spotify.com/artist/7MsLyr0nCXGN6OGoZgZqrT) | [Ilmiliekki Quartet](https://open.spotify.com/album/6STx4DRg71CIIy5w8mEiMC) | 5:49 |
 | 78 | [Pinetree Song](https://open.spotify.com/track/5d1Zu6beu4sUzj2j01eol0) | [Linda Fredriksson](https://open.spotify.com/artist/341VCWqMvdMnDP98GjaGYL) | [Pinetree Song](https://open.spotify.com/album/4SjXdNETKs0gfhElhsnWoZ) | 5:29 |
 
-Snapshot ID: `MCw3NTA2MmMzNGZiYmZhMDMzZWNlZTJhNTU2YTVhOTA0YTZkYThjMTk2`
+Snapshot ID: `MCxlM2M1ZDA1MDM2MGQyNzExNGVkNWMwMmM1ZWRiMWJiYTYzMzg4OTc3`

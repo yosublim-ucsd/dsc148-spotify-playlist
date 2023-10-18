@@ -1,12 +1,12 @@
 {
   "description": "Porque el coraz\u00f3n habla vallenato. \u00a1Ay ombe!",
-  "num_followers": 96504,
+  "num_followers": 96604,
   "original_name": "Vallenato Rom\u00e1ntico",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2ZmZjYmZkNmIyZGZkOGNkZjEzZWYyNjBlMTNjNzIzZjlhOTA5YWE4",
+  "snapshot_id": "MCxmNGZjNzNmMTk0MGQ0MTdiZTViMWVhM2JhMDc4ZjIwOGQ5N2VkZTQw",
   "tracks": [
     {
       "added_at": "2022-12-16 20:17:47",
@@ -635,18 +635,22 @@
     {
       "added_at": "2022-12-16 20:17:47",
       "album": {
-        "name": "Vallenato Fest",
-        "url": "https://open.spotify.com/album/0ewlJ0aYyI7OfcqICyuP06"
+        "name": "La 9a Batalla",
+        "url": "https://open.spotify.com/album/6AZfPn4isPsjmq9c6jnAMb"
       },
       "artists": [
         {
-          "name": "Grupo Vallenato",
-          "url": "https://open.spotify.com/artist/6JjHRZP5MEJocK6frtvrEE"
+          "name": "Silvestre Dangond",
+          "url": "https://open.spotify.com/artist/3OcvS8PzSGYMBvLdzY6g3e"
+        },
+        {
+          "name": "Rolando Ochoa",
+          "url": "https://open.spotify.com/artist/0VWoer2RDTKY4Sr9U93QTJ"
         }
       ],
-      "duration_ms": 316279,
-      "name": "Dime Que Me Quieres",
-      "url": "https://open.spotify.com/track/0GPCmhhe3HkJ6VVHOwJmZw"
+      "duration_ms": 214213,
+      "name": "Loco Paranoico",
+      "url": "https://open.spotify.com/track/6eyGmsEahNlvSUZBEa0rRw"
     },
     {
       "added_at": "2022-12-16 20:17:47",
@@ -671,22 +675,18 @@
     {
       "added_at": "2022-12-16 20:17:47",
       "album": {
-        "name": "La 9a Batalla",
-        "url": "https://open.spotify.com/album/6AZfPn4isPsjmq9c6jnAMb"
+        "name": "Vallenato Fest",
+        "url": "https://open.spotify.com/album/0ewlJ0aYyI7OfcqICyuP06"
       },
       "artists": [
         {
-          "name": "Silvestre Dangond",
-          "url": "https://open.spotify.com/artist/3OcvS8PzSGYMBvLdzY6g3e"
-        },
-        {
-          "name": "Rolando Ochoa",
-          "url": "https://open.spotify.com/artist/0VWoer2RDTKY4Sr9U93QTJ"
+          "name": "Grupo Vallenato",
+          "url": "https://open.spotify.com/artist/6JjHRZP5MEJocK6frtvrEE"
         }
       ],
-      "duration_ms": 214213,
-      "name": "Loco Paranoico",
-      "url": "https://open.spotify.com/track/6eyGmsEahNlvSUZBEa0rRw"
+      "duration_ms": 316279,
+      "name": "Dime Que Me Quieres",
+      "url": "https://open.spotify.com/track/0GPCmhhe3HkJ6VVHOwJmZw"
     },
     {
       "added_at": "2022-12-16 20:17:47",

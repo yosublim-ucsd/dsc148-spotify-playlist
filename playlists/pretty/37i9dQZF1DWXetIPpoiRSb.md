@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXetIPpoiRSb.md) - [plain]
 
 > The freshest pop sounds\. Cover: Ice Spice + Rema
 
-[Spotify](https://open.spotify.com/user/spotify) - 201,999 likes - 80 songs - 4 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 202,036 likes - 80 songs - 4 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXetIPpoiRSb.md) - [plain]
 | 79 | [The Greatest](https://open.spotify.com/track/0p4aS6c0Yva2WYrKNQQCnK) | [Tones And I](https://open.spotify.com/artist/2NjfBq1NflQcKSeiDooVjY) | [The Greatest](https://open.spotify.com/album/4ZrTFJ486SKULQTaWAGfLm) | 5:16 |
 | 80 | [eyes don't lie](https://open.spotify.com/track/2GWCZJWundoYi5IloWIgTX) | [Isabel LaRosa](https://open.spotify.com/artist/5arKwJZEvT5uKq4o0JfqR4) | [eyes don't lie](https://open.spotify.com/album/55XQzGrXvQgpVWAn7mL7CT) | 2:30 |
 
-Snapshot ID: `MCxhOGY5YmExM2ZmMGU3YWEzZTI3ZTQ3NjM4NDI1OGZkYjlmZmQwOTM5`
+Snapshot ID: `MCw4ODBiNWE3M2I5NzNiY2FhN2M0NDJkNzg4ZWI2NzM2MmJmNDY3MmM1`

@@ -4,7 +4,7 @@
 
 > Everyday\. Every time\.  These are the songs you can count on\. Always.
 
-194 songs - 14 hr 46 min
+195 songs - 14 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -110,6 +110,7 @@
 | [Lord, I Need You \- Live](https://open.spotify.com/track/0xGXCPSjxkHxElgi7kC5SZ) | [Passion](https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16), [Chris Tomlin](https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m) | [Passion: Here For You \(Live\)](https://open.spotify.com/album/0NGmtUx2BoGIxzfaCmLj4O) | 4:34 | 2020-08-26 |  |
 | [Love Broke Thru](https://open.spotify.com/track/1NZWiuy0mlnsrcYL2dhKt6) | [TobyMac](https://open.spotify.com/artist/5VX8hxrcfJWwaTLiqGUHG3) | [This Is Not A Test](https://open.spotify.com/album/5cv2FBz4B4x0WpAjMSI1UG) | 3:57 | 2020-08-26 |  |
 | [Love Lifting Me](https://open.spotify.com/track/7AM9qFih73AdSdKpBUZpdm) | [Tasha Layton](https://open.spotify.com/artist/3yCv2yloJueOb4Y3HEYgSq) | [Love Running Wild](https://open.spotify.com/album/23v4UqvRlMKeDz0XbrtBkS) | 3:19 | 2020-08-26 | 2022-07-29 |
+| [Magnify](https://open.spotify.com/track/3wlpaljKzcvj0YYJAMIwXy) | [We Are Messengers](https://open.spotify.com/artist/5WcisvYoq6332gCUX039Jd) | [We Are Messengers](https://open.spotify.com/album/2SMUGFTP3NPh8eVDmUNDiL) | 3:28 | 2023-02-18 |  |
 | [Make Room](https://open.spotify.com/track/3psx3u5uPAG6BH3k6l8gre) | [Jonathan McReynolds](https://open.spotify.com/artist/5ItTHwcEtFh6DEOBheMub9) | [Make Room](https://open.spotify.com/album/6D8do4E6Ye8NaYVCEUQ1uI) | 5:40 | 2020-08-26 | 2022-07-24 |
 | [Mercy Is A Song](https://open.spotify.com/track/1yNInj2X42ZqQG6PUE57QV) | [Matthew West](https://open.spotify.com/artist/6e8OTLDQpaz1Tl2GEaxsNj) | [All In](https://open.spotify.com/album/4Qb7av34wG5v22LIV5IN9g) | 3:45 | 2020-08-26 | 2023-06-27 |
 | [Mercy Is A Song](https://open.spotify.com/track/5hEbWH2PJzc19N83i04WyQ) | [Matthew West](https://open.spotify.com/artist/6e8OTLDQpaz1Tl2GEaxsNj) | [All In](https://open.spotify.com/album/5oGhtfRrxbMxbGIfCeOgwW) | 3:45 | 2020-08-26 | 2022-07-29 |
@@ -195,7 +196,7 @@
 | [World Needs Jesus](https://open.spotify.com/track/2v0uCwITNiWwuA8KdNUWL3) | [River Valley Worship](https://open.spotify.com/artist/1VXCIEol192OgSF9VzowGV) | [World Needs Jesus](https://open.spotify.com/album/6gedrEC4oPZ14s1DxwmA0r) | 5:47 | 2020-08-26 | 2022-07-24 |
 | [Yes And Amen](https://open.spotify.com/track/6xYHIXSrucTcC9AXoTBEoB) | [Chris Tomlin](https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m) | [Never Lose Sight \(Deluxe Edition\)](https://open.spotify.com/album/7BK26n0Gkw7bvAlAUdU53F) | 5:06 | 2020-08-26 | 2022-07-29 |
 | [Yes I Will](https://open.spotify.com/track/1sF4VadVaVTvp9WTEy79JT) | [Vertical Worship](https://open.spotify.com/artist/6N6Sk9XOoHsadAGYR44C2o) | [Bright Faith Bold Future](https://open.spotify.com/album/4jrX2w9Y3shbQNVhT43jbj) | 3:54 | 2020-08-26 |  |
-| [You](https://open.spotify.com/track/45W0GYB7YQO5wq6ePZPA4F) | [Apollo LTD](https://open.spotify.com/artist/2H3EMYFS69dhMmrX9JTkZp) | [Nothing is Ordinary\. Everything is Beautiful.](https://open.spotify.com/album/78lm2RBBywrBwkbxwIqL6P) | 3:46 | 2020-08-26 |  |
+| [You](https://open.spotify.com/track/45W0GYB7YQO5wq6ePZPA4F) | [Apollo LTD](https://open.spotify.com/artist/2H3EMYFS69dhMmrX9JTkZp) | [Nothing is Ordinary\. Everything is Beautiful.](https://open.spotify.com/album/78lm2RBBywrBwkbxwIqL6P) | 3:46 | 2020-08-26 | 2023-10-18 |
 | [You](https://open.spotify.com/track/6OW9DM0XwDzdiIlKcTuPD3) | [Apollo LTD](https://open.spotify.com/artist/2H3EMYFS69dhMmrX9JTkZp) | [You](https://open.spotify.com/album/2mgnhYvHdQQzVOM2LDkuXU) | 3:46 | 2020-08-26 | 2022-07-29 |
 | [You Are My All In All \- Top 50 Praise Songs Album Version](https://open.spotify.com/track/6Amw4fIfa7x6mQMrh2PIui) | [Maranatha! Music](https://open.spotify.com/artist/67OFzndMlzj7cDF2BqnwYe) | [Top 100 Praise & Worship Songs 2012 Edition](https://open.spotify.com/album/44uMUPRCz28305p2k2TU6N) | 4:11 | 2020-08-26 | 2022-07-29 |
 | [You Got This](https://open.spotify.com/track/1gibxiYQ2bDcnbYga7qXY7) | [Love & The Outcome](https://open.spotify.com/artist/1xU1V8I8pFrMOjtuSmjPBs) | [You Got This](https://open.spotify.com/album/1bqjdAockCikwMTVoncR8I) | 3:14 | 2020-08-26 | 2022-07-29 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWlW7KLhEhCZ.md) - [plain]
 
 > Lançamentos e novos nomes do trap nacional\. Foto: Mc Igu
 
-[Spotify](https://open.spotify.com/user/spotify) - 89,912 likes - 75 songs - 3 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 89,952 likes - 75 songs - 3 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWlW7KLhEhCZ.md) - [plain]
 | 74 | [Sonhos e Planos](https://open.spotify.com/track/3YVqPXziEBxLxl6te8hi1R) | [Stef](https://open.spotify.com/artist/1EMUjMLPKwHMe4tgY2szbF) | [Sonhos e Planos](https://open.spotify.com/album/5osXNDNx27cDbp9qi8dV6v) | 2:33 |
 | 75 | [Jhony Convida \#5 \- Confirma](https://open.spotify.com/track/4rEdstBdZqp7xpiPwvvXbE) | [CMK](https://open.spotify.com/artist/6QmnOxsr8M6iD5Zqpb2src), [Jhony Mc](https://open.spotify.com/artist/4hTGLEnPwUsmgakVoSo9Ww), [Menor do Chapa](https://open.spotify.com/artist/6i7MlW2ZdQRPi5sGOxXCH3), [Prado](https://open.spotify.com/artist/5I7db10XSG06FrAHzC36Wq), [Renanzin MC](https://open.spotify.com/artist/2BBd096qRspNHPWz3SCXLh), [Vitu](https://open.spotify.com/artist/7bTFBcrLK1YKjebr457Nrz) | [Jhony Convida \#5 \- Confirma](https://open.spotify.com/album/4KdYS9doYHGw4Mrv5E1sqN) | 5:01 |
 
-Snapshot ID: `MCxhMDU0MWRmYTEyOTNhNmNiNzhjNjFmOTU2MmU2ZDEwZjc1OWZiZGVm`
+Snapshot ID: `MCxjODEyZWM3ODUxYzRiYzc0MjYxZDgzZDgyNTgyMTYxMzcwZjYzMDlh`

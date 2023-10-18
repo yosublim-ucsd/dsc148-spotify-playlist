@@ -4,7 +4,7 @@
 
 > The best of Brazilian House\. Photo: Riro
 
-77 songs - 4 hr 48 min
+78 songs - 4 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -62,7 +62,8 @@
 | [One, Two](https://open.spotify.com/track/35X1aWkfdwvk8q4XQiZsPv) | [INDECK.](https://open.spotify.com/artist/0vkZ3GrLFGOe2rANGmmaYY) | [One, Two](https://open.spotify.com/album/4qVAFvHHHbf63rtlJ8mhJd) | 2:58 | 2023-07-21 |  |
 | [only1](https://open.spotify.com/track/6CA6Z9MkbNHcKmlSJMbGTx) | [Chediak](https://open.spotify.com/artist/0FALK05ICiGAQ1QZGkLnsK), [camoufly](https://open.spotify.com/artist/6ZmJg6NCjGmRgC2GEI86pQ) | [only1](https://open.spotify.com/album/0BOQ6In8Hw2u9oiAEUNexi) | 3:44 | 2023-07-21 |  |
 | [Overload](https://open.spotify.com/track/7eK8NnAGrCjNA76waOYENT) | [Kohen](https://open.spotify.com/artist/3Dkul6nShja7zaggvl66rB), [Mert Can](https://open.spotify.com/artist/049qisXXHEXKQSQqzbr14Q), [Garonzos](https://open.spotify.com/artist/251mxKacj3xUCn5AJwHH7A) | [Overload](https://open.spotify.com/album/2pMfkhLuAHNl2arl69LiGp) | 3:06 | 2023-07-21 |  |
-| [Party's](https://open.spotify.com/track/5CFPtKrjcZrOjrZRZiH58P) | [Visage Music](https://open.spotify.com/artist/05WcfGPdzCMKpdGc17cUko) | [Party's](https://open.spotify.com/album/3EHgyrm221LFExQlMuJOmx) | 3:21 | 2023-10-06 |  |
+| [Party's](https://open.spotify.com/track/3bKPFB4avIGVnq2LBILy8J) | [Visage Music](https://open.spotify.com/artist/05WcfGPdzCMKpdGc17cUko) | [Party's](https://open.spotify.com/album/4OPafueLQGpYy67sc0k4Yk) | 3:21 | 2023-10-13 |  |
+| [Party's](https://open.spotify.com/track/5CFPtKrjcZrOjrZRZiH58P) | [Visage Music](https://open.spotify.com/artist/05WcfGPdzCMKpdGc17cUko) | [Party's](https://open.spotify.com/album/3EHgyrm221LFExQlMuJOmx) | 3:21 | 2023-10-06 | 2023-10-18 |
 | [Pictures](https://open.spotify.com/track/7bd3YmFqevYO3Hi03sPbuN) | [Malive](https://open.spotify.com/artist/5JsnFhU4OqgEtNXs7Sq1Vm), [Linkage](https://open.spotify.com/artist/1ZvYE8yQ4j8dBKWNA9JW7R) | [Pictures](https://open.spotify.com/album/4HgB0bkbUEBeByio432MQE) | 5:07 | 2023-07-21 |  |
 | [Pirocada de Bandido](https://open.spotify.com/track/2PIpDDFcmIbOFyeETsVwC7) | [Breaking Beattz](https://open.spotify.com/artist/0eRxVzLBxZGMZcsSoMESfX), [Pedro Volt](https://open.spotify.com/artist/0ImcBMsud2nhrFVPsGQ2gu), [Mc Gw](https://open.spotify.com/artist/0f1IECbrVV952unZkzrsg2) | [Pirocada de Bandido](https://open.spotify.com/album/0C1ompkQr0a2JYRmeZqPGq) | 2:44 | 2023-07-21 |  |
 | [Positive Action](https://open.spotify.com/track/4M3bHvIPeQJnjBMVPr2tXW) | [BRN](https://open.spotify.com/artist/3yujwOo5L5DZDOcGj8K9fj) | [Positive Action](https://open.spotify.com/album/2ZG7uolsFqV6rJa9eqy8S4) | 2:52 | 2023-07-21 |  |

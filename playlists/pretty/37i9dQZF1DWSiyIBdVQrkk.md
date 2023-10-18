@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSiyIBdVQrkk.md) - [plain]
 
 > The best in old & new Reggae\. Cover: Bob Marley.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,107,387 likes - 110 songs - 7 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,107,610 likes - 110 songs - 7 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,8 +41,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSiyIBdVQrkk.md) - [plain]
 | 31 | [Cool Down The Pace](https://open.spotify.com/track/4llIZen1Cn4mi3DJm2Lqlz) | [Gregory Isaacs](https://open.spotify.com/artist/6QHu71f8LLeT8n0GzfbYFc) | [Night Nurse \(Expanded Edition\)](https://open.spotify.com/album/2HEXjNNUSOwBmhyaEXG5yx) | 5:17 |
 | 32 | [Here I Come](https://open.spotify.com/track/4abVwdCy5QUcyI3KS2lMJK) | [Barrington Levy](https://open.spotify.com/artist/5mMuiFhh7faS7qxnTLRA6u) | [Reggae Anthology: Sweet Reggae Music \(1979\-84\)](https://open.spotify.com/album/55FfXQVWDbB3tEC7L9lvzA) | 3:37 |
 | 33 | [Skankin' Sweet](https://open.spotify.com/track/5SQaQWvBDEAeug4EPyYEGE) | [Chronixx](https://open.spotify.com/artist/2oZcMYiKpjaA2Et5mU3RPP) | [Chronology](https://open.spotify.com/album/1w71axmi9UJfsKCdEqGdNm) | 4:12 |
-| 34 | [Living It Up](https://open.spotify.com/track/0Xd3LUIjRESt5rSAGzvAvA) | [Damian Marley](https://open.spotify.com/artist/3QJzdZJYIAcoET1GcfpNGi) | [Stony Hill](https://open.spotify.com/album/2P6QCxokMaNDkQcpVRi2f4) | 4:00 |
-| 35 | [Police In Helicopter](https://open.spotify.com/track/0mD19MC6H0OzHvEUADHypU) | [John Holt](https://open.spotify.com/artist/312pFk2xpEwYWLGPehc4Nu) | [Police In Helicopter](https://open.spotify.com/album/7naj9A5QZbYxYbj9Susywq) | 3:39 |
+| 34 | [Police In Helicopter](https://open.spotify.com/track/0mD19MC6H0OzHvEUADHypU) | [John Holt](https://open.spotify.com/artist/312pFk2xpEwYWLGPehc4Nu) | [Police In Helicopter](https://open.spotify.com/album/7naj9A5QZbYxYbj9Susywq) | 3:39 |
+| 35 | [Living It Up](https://open.spotify.com/track/0Xd3LUIjRESt5rSAGzvAvA) | [Damian Marley](https://open.spotify.com/artist/3QJzdZJYIAcoET1GcfpNGi) | [Stony Hill](https://open.spotify.com/album/2P6QCxokMaNDkQcpVRi2f4) | 4:00 |
 | 36 | [Morning Is Coming \(with Shaggy\)](https://open.spotify.com/track/1MIoqrkFISWV3q3JvifC4S) | [Sting](https://open.spotify.com/artist/0Ty63ceoRnnJKVEYP0VQpk), [Shaggy](https://open.spotify.com/artist/5EvFsr3kj42KNv97ZEnqij) | [44/876 \(Deluxe\)](https://open.spotify.com/album/1CoVw7saic0ozYSDTeQ26l) | 3:11 |
 | 37 | [Rasta Love Feat\. Ky\-Mani Marley](https://open.spotify.com/track/0cSkIGgh1uICEIcmEb1niw) | [Protoje](https://open.spotify.com/artist/7BGR8y1VZAWK2oR4zD9COr), [Ky\-Mani Marley](https://open.spotify.com/artist/1XTGADISSMRf8B4TcVGYUC) | [The Seven Year Itch](https://open.spotify.com/album/785pirNtohI84EfviUaGkq) | 3:05 |
 | 38 | [Slow Down](https://open.spotify.com/track/0jPEWByX9DZAQb5zyQ6eng) | [Skip Marley](https://open.spotify.com/artist/4ryoUS0W8qXokfMxrlJt6O), [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os) | [Higher Place](https://open.spotify.com/album/3LrRzezQmsqxC2eyqVvdAr) | 3:14 |
@@ -85,8 +85,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSiyIBdVQrkk.md) - [plain]
 | 75 | [Smile Jamaica](https://open.spotify.com/track/7KhQx2EJaZIPGsbMAjf4jg) | [Chronixx](https://open.spotify.com/artist/2oZcMYiKpjaA2Et5mU3RPP) | [Chronology](https://open.spotify.com/album/1w71axmi9UJfsKCdEqGdNm) | 3:33 |
 | 76 | [Mellow Mood](https://open.spotify.com/track/6r9KZ2g5dXZXXLF6vOHnet) | [Bunny Wailer](https://open.spotify.com/artist/389zc5Rwe0MPcE6mSF4AjC) | [Bunny Wailer Sings The Wailers](https://open.spotify.com/album/3D6W8G8ZtbZoeQeyBUUAhu) | 3:51 |
 | 77 | [Take Me Home, Country Roads](https://open.spotify.com/track/389R9arpxdfl0JA450Qn9m) | [Toots & The Maytals](https://open.spotify.com/artist/6ZFv3wQwwWPiVDWhv0mjQK) | [20th Century Masters: The Millennium Collection: Best Of Toots & The Maytals](https://open.spotify.com/album/4LqckZIG3vtFVGIeY3Q5Yz) | 3:21 |
-| 78 | [Don't Give Up](https://open.spotify.com/track/2C7V873vI6fomP10lVwcfm) | [Barrington Levy](https://open.spotify.com/artist/5mMuiFhh7faS7qxnTLRA6u) | [Poor Man Style](https://open.spotify.com/album/4aWOyq1s7lwbdLjCL7rG2H) | 3:18 |
-| 79 | [King Without a Crown \- Live at Stubb's, Austin, TX \- February 2005](https://open.spotify.com/track/6yalDzJGNoUQ2qSDlAdqU8) | [Matisyahu](https://open.spotify.com/artist/5eyMzR1hYiEZtN2c9ly2kw) | [Live at Stubb's](https://open.spotify.com/album/6kfMhZYXTwm9HGMJuLl7HO) | 4:48 |
+| 78 | [King Without a Crown \- Live at Stubb's, Austin, TX \- February 2005](https://open.spotify.com/track/6yalDzJGNoUQ2qSDlAdqU8) | [Matisyahu](https://open.spotify.com/artist/5eyMzR1hYiEZtN2c9ly2kw) | [Live at Stubb's](https://open.spotify.com/album/6kfMhZYXTwm9HGMJuLl7HO) | 4:48 |
+| 79 | [Don't Give Up](https://open.spotify.com/track/2C7V873vI6fomP10lVwcfm) | [Barrington Levy](https://open.spotify.com/artist/5mMuiFhh7faS7qxnTLRA6u) | [Poor Man Style](https://open.spotify.com/album/4aWOyq1s7lwbdLjCL7rG2H) | 3:18 |
 | 80 | [Kingston Town](https://open.spotify.com/track/3e7yziCpnpx2ujgvXqSLzp) | [UB40](https://open.spotify.com/artist/69MEO1AADKg1IZrq2XLzo5) | [Labour Of Love II](https://open.spotify.com/album/2jfea3275Ef5g1nUwnf1fg) | 3:48 |
 | 81 | [Mama](https://open.spotify.com/track/6YNKLxiWQhK2n06xI6gUg7) | [Christopher Martin](https://open.spotify.com/artist/3dXC1YPbnQPsfHPVkm1ipj) | [Perfect Key Riddim](https://open.spotify.com/album/1YyDLlEWKPAUCjUxWuTejl) | 3:25 |
 | 82 | [Hail H.I.M \- 2002 Remastered Version](https://open.spotify.com/track/155vJ1VsYZ87Gldi1gNss8) | [Burning Spear](https://open.spotify.com/artist/6qaKS0nzGP4hfjl4aFZmEU) | [Hail H.I.M](https://open.spotify.com/album/1bSUHJjoGnNvkDUjlD79Bg) | 4:15 |
@@ -119,4 +119,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSiyIBdVQrkk.md) - [plain]
 | 109 | [Murderer](https://open.spotify.com/track/3H9VcVDIdfgjZRj8Surw6s) | [Buju Banton](https://open.spotify.com/artist/4wLAjfeqAsV66AocWNcowA) | ['Til Shiloh \(25th Anniversary Edition\)](https://open.spotify.com/album/44TzM9HNKi898wWhkH8FNu) | 3:57 |
 | 110 | [Where I'm Coming From](https://open.spotify.com/track/2jQENRPVxXb8TcTAXW6wpQ) | [Lila Iké](https://open.spotify.com/artist/0uAUrmEQbwcDFzg0v7VicO) | [The ExPerience](https://open.spotify.com/album/3fijbBVRaz2CUyoWAV1ZlK) | 4:03 |
 
-Snapshot ID: `MCwzOTRlNzM1NDUyNjU1NzMwMWNkZDk2Y2I0YTRkZmM1OGU5NWM0YzRl`
+Snapshot ID: `MCw4ZDAwZjliZjE1M2UyYjk2NGVlOTgyMTY4N2RjOGYxMDViMWFiZWUx`

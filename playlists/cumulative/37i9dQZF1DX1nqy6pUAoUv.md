@@ -8,7 +8,7 @@
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [Age of a Man](https://open.spotify.com/track/5a7MZfX2tiMutNSeb9uPTF) | [Sunny War](https://open.spotify.com/artist/01GKiTphQwz4guZQntMha8) | [Age of a Man](https://open.spotify.com/album/4YkgnuMVviUv1MMp6w5gaU) | 3:39 | 2021-10-13 |  |
+| [Age of a Man](https://open.spotify.com/track/5a7MZfX2tiMutNSeb9uPTF) | [Sunny War](https://open.spotify.com/artist/01GKiTphQwz4guZQntMha8) | [Age of a Man](https://open.spotify.com/album/4YkgnuMVviUv1MMp6w5gaU) | 3:39 | 2021-10-13 | 2023-10-18 |
 | [American Flowers](https://open.spotify.com/track/1uSi1D1EzfqpEiA2cmdKbA) | [Birds of Chicago](https://open.spotify.com/artist/2nyv8yYjMSkvUr9OwEQhVf), [Allison Russell](https://open.spotify.com/artist/3JBmecDGXTll46ygrnGTM6), [JT Nero](https://open.spotify.com/artist/4KggKI2drVc4UIotyrOcvQ) | [American Flowers](https://open.spotify.com/album/1ySjZoIQXVfB2d8NO1bvOk) | 6:10 | 2021-10-13 | 2023-04-29 |
 | [Another Day](https://open.spotify.com/track/1uHFTt7HcnjLsgZXHYwhzm) | [Ordinary Elephant](https://open.spotify.com/artist/4KDRZ2NwxT9UZ0RyG8gHFs) | [Before I Go](https://open.spotify.com/album/1lLVbM1SXPFR4WeVcQ0KQP) | 4:55 | 2021-10-13 | 2022-07-21 |
 | [Answers \(Acoustic\)](https://open.spotify.com/track/28peZbGhHydhLLeZb1FUbz) | [Brooke Annibale](https://open.spotify.com/artist/1JojxxteIsItgolTdalOb3) | [Answers \(Acoustic\)](https://open.spotify.com/album/7dUwxuMBTGEprZv2i06YyN) | 3:10 | 2021-10-13 | 2021-12-30 |
@@ -180,7 +180,7 @@
 | [River](https://open.spotify.com/track/4B7iMBGmm5woNqs6Oj3GpT) | [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Mellow Summer](https://open.spotify.com/album/7rdNrR0gVmevOWDO0CO6Xl) | 3:58 | 2022-02-25 | 2022-11-14 |
 | [River](https://open.spotify.com/track/3hhbDnFUb2bicI2df6VurK) | [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Coming Home \(Deluxe\)](https://open.spotify.com/album/21KIagsx1ZvYcv0sVkEAWv) | 4:00 | 2022-02-25 |  |
 | [River Floor](https://open.spotify.com/track/1IFfxA7q1t1Pd06KFYrwQK) | [Joe Henry](https://open.spotify.com/artist/0TeVWuc8Sw05X4Qkl3AA5r) | [River Floor](https://open.spotify.com/album/7yBghFRECy1ZbyIu1PFRyX) | 4:34 | 2021-10-13 | 2022-07-28 |
-| [Rosey](https://open.spotify.com/track/6hQyok9o5eHVrOTrAnHKro) | [Bermuda Triangle](https://open.spotify.com/artist/7wPvbZRRBwR2rzVrxz6ixE) | [Rosey](https://open.spotify.com/album/3q96oj9JSBra41e2rCBPlG) | 3:45 | 2021-10-13 | 2023-10-15 |
+| [Rosey](https://open.spotify.com/track/6hQyok9o5eHVrOTrAnHKro) | [Bermuda Triangle](https://open.spotify.com/artist/7wPvbZRRBwR2rzVrxz6ixE) | [Rosey](https://open.spotify.com/album/3q96oj9JSBra41e2rCBPlG) | 3:45 | 2021-10-13 |  |
 | [Saint Elizabeth](https://open.spotify.com/track/0AXVGjlzkolKVm7ZnD6pqB) | [Kaia Kater](https://open.spotify.com/artist/3SIjUKYSRchIKIoFO9vBjm) | [Nine Pin](https://open.spotify.com/album/4an7nc1bshv75YnXbyp8bs) | 3:59 | 2021-10-13 |  |
 | [Sammi's Song](https://open.spotify.com/track/5yxGc3FatVpON8FM0lpIJU) | [Tré Burt](https://open.spotify.com/artist/5e5Zm5z8OPycf55hgDxKIc) | [You, Yeah, You](https://open.spotify.com/album/2iAobQN7dau5q1S83OXrvY) | 1:59 | 2021-10-13 |  |
 | [Save My Life \- Radio Edit](https://open.spotify.com/track/2s5QYW4Ls3GsxWKhEKGraJ) | [John Smith](https://open.spotify.com/artist/56GNqAFg9wJNTwcHsJhyS2) | [Save My Life \(Radio Edit\)](https://open.spotify.com/album/20BcK0UDu480rOworsrKLF) | 3:37 | 2021-10-13 |  |

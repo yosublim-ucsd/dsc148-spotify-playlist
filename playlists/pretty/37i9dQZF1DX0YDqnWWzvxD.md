@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0YDqnWWzvxD.md) - [plain]
 
 > Relax, heal and restore your energy
 
-[Spotify](https://open.spotify.com/user/spotify) - 80,325 likes - 100 songs - 9 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 80,518 likes - 100 songs - 9 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,14 +19,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0YDqnWWzvxD.md) - [plain]
 | 9 | [Grounded](https://open.spotify.com/track/7nEa5UaxVMkExsCpZtUouW) | [Sacred Earth](https://open.spotify.com/artist/6c4PFTwVucnE0A6l219i99) | [Breathing Space](https://open.spotify.com/album/659OTaUEYfTNdzx7F6mpj2) | 9:31 |
 | 10 | [The Southern Sea](https://open.spotify.com/track/13DDTT9eGK66diG2a4j5hE) | [Garth Stevenson](https://open.spotify.com/artist/0SFz7AVtevccdhXj6aeVka) | [Flying](https://open.spotify.com/album/4FViVwipetWhzoq8Topg0P) | 8:59 |
 | 11 | [Dawn Dusk Divinity](https://open.spotify.com/track/3Gs2uBopmgSkqI6Ww2IYnm) | [Devansh Tushar](https://open.spotify.com/artist/6A6XOlnYgaiM9qfRvSIHQL) | [Happy](https://open.spotify.com/album/6FXJ200cFy73fvSBZm0xfJ) | 2:59 |
-| 12 | [Conscious Jorney](https://open.spotify.com/track/5huIzPcRJkbL7UyyzViQPU) | [Benny Bernstein](https://open.spotify.com/artist/4iJdqHLAdAbYvCrB5hDnHM) | [Benny Bernstein](https://open.spotify.com/album/0H6fiGx3oWLzmtCvxhr2lM) | 2:34 |
-| 13 | [Pads of Redemption](https://open.spotify.com/track/5I3JZ3zvxKQMdp9rEcGkiR) | [Masala Roo](https://open.spotify.com/artist/3A81JSAePWWFgyybGr8zIE) | [Pads of Redemption](https://open.spotify.com/album/2XCWjHkbcCvT4WXFwnY253) | 2:48 |
+| 12 | [Pads of Redemption](https://open.spotify.com/track/5I3JZ3zvxKQMdp9rEcGkiR) | [Masala Roo](https://open.spotify.com/artist/3A81JSAePWWFgyybGr8zIE) | [Pads of Redemption](https://open.spotify.com/album/2XCWjHkbcCvT4WXFwnY253) | 2:48 |
+| 13 | [Conscious Jorney](https://open.spotify.com/track/5huIzPcRJkbL7UyyzViQPU) | [Benny Bernstein](https://open.spotify.com/artist/4iJdqHLAdAbYvCrB5hDnHM) | [Benny Bernstein](https://open.spotify.com/album/0H6fiGx3oWLzmtCvxhr2lM) | 2:34 |
 | 14 | [Closing Meditation](https://open.spotify.com/track/3iBMeAItDx4NNyg0keZ7Fm) | [Shantala](https://open.spotify.com/artist/6z6YXTlyMCY6fvT79yxDgi) | [Live In Love, Vol\. 2](https://open.spotify.com/album/7so4tfVsFKa0MCim0SQUna) | 6:00 |
 | 15 | [Voice of Eternity](https://open.spotify.com/track/75PdHrz9uyj9hIYT9xadZ3) | [Jane Winther](https://open.spotify.com/artist/0PO9NIghm5IGR1uIqCRJ1s), [Raman Marharjan](https://open.spotify.com/artist/6woWbiCbnSbegIEX4SDwls) | [Echoes of Silence](https://open.spotify.com/album/4i5kqpHHr4fjDNzusQeDuH) | 4:22 |
 | 16 | [Incantation](https://open.spotify.com/track/4bSme6KVdAamqx94sRuMJ4) | [Deva Premal](https://open.spotify.com/artist/2970BxpdOBQmkMit6i9kVF) | [Deva Premal Sings The Moola Mantra](https://open.spotify.com/album/6HlseZQWxd5ol3h5jfPLXy) | 2:54 |
 | 17 | [Falling Stars](https://open.spotify.com/track/6nx6oC4HgnZOxC4dgsPiIU) | [Delle Alpi](https://open.spotify.com/artist/6F3AbMb1nVGlPROQ0nQBqU) | [Falling Stars](https://open.spotify.com/album/54v5ne5y23CTRYnaU2yyQS) | 2:38 |
-| 18 | [Breathing In](https://open.spotify.com/track/3JdKepSqQszC0g7NIDDcFl) | [Alstad](https://open.spotify.com/artist/3WPVCzLStWkPPaGQKJMVkr), [Lydia Munchinsky](https://open.spotify.com/artist/4tgCwwHq7yPk3LIXjqfI7U) | [Breathing In](https://open.spotify.com/album/1WuIBoOzsSprBaSAz04bkz) | 2:30 |
-| 19 | [Atlas](https://open.spotify.com/track/1HNM54pHKFCSEflvDYZwGC) | [Benny Bernstein](https://open.spotify.com/artist/4iJdqHLAdAbYvCrB5hDnHM) | [Atlas](https://open.spotify.com/album/1TY41tXfNuiL4incf5pFLO) | 2:45 |
+| 18 | [Atlas](https://open.spotify.com/track/1HNM54pHKFCSEflvDYZwGC) | [Benny Bernstein](https://open.spotify.com/artist/4iJdqHLAdAbYvCrB5hDnHM) | [Atlas](https://open.spotify.com/album/1TY41tXfNuiL4incf5pFLO) | 2:45 |
+| 19 | [Breathing In](https://open.spotify.com/track/3JdKepSqQszC0g7NIDDcFl) | [Alstad](https://open.spotify.com/artist/3WPVCzLStWkPPaGQKJMVkr), [Lydia Munchinsky](https://open.spotify.com/artist/4tgCwwHq7yPk3LIXjqfI7U) | [Breathing In](https://open.spotify.com/album/1WuIBoOzsSprBaSAz04bkz) | 2:30 |
 | 20 | [Endless Sleep](https://open.spotify.com/track/62ZB9B4xjhcckPa2cgnRPj) | [Savasana](https://open.spotify.com/artist/5EvA844VMdq61U5M4Ds0Fk), [Yoga Savasana](https://open.spotify.com/artist/7JzaqHa1JiixMzAQsMNgEq), [Moon Tunes](https://open.spotify.com/artist/2CrKYctaeLX0vhSesbWyTD) | [Endless Meditation](https://open.spotify.com/album/3Ac4Q4OMQYRrlYKl3j7iuK) | 2:43 |
 | 21 | [For Elena](https://open.spotify.com/track/5ZQxDOeaSFNZZI3GQi8gNs) | [East Forest](https://open.spotify.com/artist/0okmfBroVgFuvvljnUbqPW) | [Music to Be Born To](https://open.spotify.com/album/2dvYfMDU4g8CavyhfVYeJs) | 6:22 |
 | 22 | [Gratitude at 432 Hz](https://open.spotify.com/track/210uN31E64RF58k4j6Gh4f) | [Rakesh Chaurasia](https://open.spotify.com/artist/10LLaI6A4jACT6M5ddEEFg) | [Reiki Healing Music \- at 432 Hz](https://open.spotify.com/album/7rLbPLK82F44CHtVwhV5uT) | 9:56 |
@@ -89,8 +89,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0YDqnWWzvxD.md) - [plain]
 | 79 | [Life of Birds](https://open.spotify.com/track/2HQaSnot7REe09dDN15fmB) | [Nature Sound Series](https://open.spotify.com/artist/3AsV51V7gZis4KfroWFhIE) | [Ambient Nature \- Sounds of Nature, Natural Pain Relief, Healing Nature Sounds](https://open.spotify.com/album/2mj9nbOdnnrWUJZxCQ8VDe) | 3:51 |
 | 80 | [Holistic Water](https://open.spotify.com/track/406MXMgqW4aHQ4G1rhCcF6) | [Tao Lounge](https://open.spotify.com/artist/7g6SFEhjnq2V2kpY8juNuD) | [The Wait](https://open.spotify.com/album/0XEsAcQHS96pDLpjoWmmJU) | 5:13 |
 | 81 | [Light and Color](https://open.spotify.com/track/5gu8xQISrwSLvJmcrkinIb) | [One Trybal](https://open.spotify.com/artist/6HF5xusdmwR1RDAsLFw3Zh) | [Yoga World Meditation Vol .1](https://open.spotify.com/album/1H7bQHH1mIJQSxSVRlPV2h) | 4:34 |
-| 82 | [Singing Wire](https://open.spotify.com/track/5iyaBre6AhiW8lia2oOols) | [Yoga Music](https://open.spotify.com/artist/6ppQ1vjjme5Jtz2ceBFcWY) | [\#Sereneyogaselection](https://open.spotify.com/album/4eeFNXX0zjGWU5c5edlzPw) | 6:58 |
-| 83 | [Healing](https://open.spotify.com/track/7H8JMDinIdUPYLWKBgcLJT) | [Meditation Savasana](https://open.spotify.com/artist/4c2vIe61nrWsTXAaLDH3e1), [Alpha Waves Savasana](https://open.spotify.com/artist/5E4z23WPHMFIWUTuI5ZBlw), [Deep Sleep Music Savasana](https://open.spotify.com/artist/6SFmzxv6uwcCbFhxvJU9ci) | [Yoga Music](https://open.spotify.com/album/13MrYs2p8gjLMnUMDbuipS) | 5:35 |
+| 82 | [Healing](https://open.spotify.com/track/7H8JMDinIdUPYLWKBgcLJT) | [Meditation Savasana](https://open.spotify.com/artist/4c2vIe61nrWsTXAaLDH3e1), [Alpha Waves Savasana](https://open.spotify.com/artist/5E4z23WPHMFIWUTuI5ZBlw), [Deep Sleep Music Savasana](https://open.spotify.com/artist/6SFmzxv6uwcCbFhxvJU9ci) | [Yoga Music](https://open.spotify.com/album/13MrYs2p8gjLMnUMDbuipS) | 5:35 |
+| 83 | [Singing Wire](https://open.spotify.com/track/5iyaBre6AhiW8lia2oOols) | [Yoga Music](https://open.spotify.com/artist/6ppQ1vjjme5Jtz2ceBFcWY) | [\#Sereneyogaselection](https://open.spotify.com/album/4eeFNXX0zjGWU5c5edlzPw) | 6:58 |
 | 84 | [Nature's Bed](https://open.spotify.com/track/5O0F8J3nnm418xPwFlCPpG) | [Soft Sky](https://open.spotify.com/artist/2S1pbxlltIuIDrRypd7zWi) | [Nature's Bed](https://open.spotify.com/album/60aObkIVavhW6QdXVevRT1) | 2:11 |
 | 85 | [Spheres Of The Angels](https://open.spotify.com/track/6ioQi5nd8gxD2RE3iZqik1) | [Shajan](https://open.spotify.com/artist/6gNMvkr78Olrxyw9tFa3Lv) | [The Healing Touch \- Music for Reiki and Meditation, Vol\. 2](https://open.spotify.com/album/69jtcMWOhK48aAPC52ZRwp) | 15:03 |
 | 86 | [Beauty of Hope](https://open.spotify.com/track/2FEewP7EII83tgFLNp6BuV) | [José Ramos](https://open.spotify.com/artist/2vdWaHPPPyxF2y41Pv6xEz) | [Beauty of Hope](https://open.spotify.com/album/3auSnGJcfyEVYm8U60Ch7D) | 2:40 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0YDqnWWzvxD.md) - [plain]
 | 99 | [REM Deep Sleep Inducing](https://open.spotify.com/track/3X1At2FYGBPDDvrAkWUXCZ) | [Yoga Nidra](https://open.spotify.com/artist/76xnzK5NDVM0C5inC2iqNL) | [Yoga Nidra \- Sleep Yoga Relaxation Songs, Sacred Oriental Music for Yoga Classes](https://open.spotify.com/album/34ZdFwqQzgWYqGmZmc7XFF) | 4:48 |
 | 100 | [Relaxing Native Flute](https://open.spotify.com/track/3Zt5D4DF4mSM149SowYRml) | [Natural Meditation Guru](https://open.spotify.com/artist/5P5aL4KyXUqoq9E327cqvN) | [Indian Music for Relaxation – Oriental Music, Music for Deep Meditation, Indian Flute, Native American Music, Sounds of Nature, Reiki Massage & Chakra Healing](https://open.spotify.com/album/6twkMgxOvXOxQsu9kBBCkW) | 3:41 |
 
-Snapshot ID: `MCxmZGUzZDJmZWMxYjhhYmExYmNlMGE3YTVjZTY0MGRhOTk0ZDk3NTMy`
+Snapshot ID: `MCw4ZWNiOWE0Njk3NzNmYmRlY2MwZTFjMTc5MjU3ZDA0ZTY2NjNhMDVm`

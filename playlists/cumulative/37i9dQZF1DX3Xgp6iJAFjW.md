@@ -4,7 +4,7 @@
 
 > Celebra con sazón\. A holiday playlist with tropical flavor.
 
-151 songs - 10 hr 18 min
+152 songs - 10 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -94,6 +94,7 @@
 | [La Vida Es Un Carnaval](https://open.spotify.com/track/1BwrMGGhPA6GarWIYaFrW8) | [Celia Cruz](https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U) | [Para La Eternidad](https://open.spotify.com/album/2MSP1JG7KflqYqAHtk7wlB) | 4:38 | 2022-11-25 |  |
 | [Lamento Jíbaro](https://open.spotify.com/track/03oKH38TtT7vfyRfgZVRBE) | [Gilberto Santa Rosa](https://open.spotify.com/artist/27vNK840zYq6IfDijHPsv1), [Charlie Aponte](https://open.spotify.com/artist/2fnP86vFqCtBZp6igjAgc7) | [Salsa Gorda..\. En Navidad](https://open.spotify.com/album/0cUdixbO0a8X22BfXiC9CF) | 3:16 | 2022-11-25 | 2023-01-07 |
 | [Las Calenas](https://open.spotify.com/track/2AlxpCmslhg3sBtcyZ6nh2) | [Pastor Lopez](https://open.spotify.com/artist/6Ud6RjvNXVe39mKiGUb7zE) | [Exito](https://open.spotify.com/album/47KNauaaXrTkZ6GcR1ggRF) | 3:22 | 2022-11-25 | 2023-10-16 |
+| [Las Caleñas](https://open.spotify.com/track/27ff9vLVD8uD44K0YTT1Mr) | [Pastor López](https://open.spotify.com/artist/5eHNeUjS4GogffJdQ1vVN5) | [Recordando a Pastor Lopez](https://open.spotify.com/album/5tmSVevQNFdbxFKTFOHWAk) | 3:19 | 2023-10-13 |  |
 | [Las Pascuas](https://open.spotify.com/track/2a3ZuVuGnY3izSvAb1VJrN) | [Jerry Rivera](https://open.spotify.com/artist/7wOZy3KdFVVINgNFFxkxwO) | [Jerry Christmas](https://open.spotify.com/album/3rUqGxUgnf7MPugBN4oQa9) | 3:53 | 2023-08-16 |  |
 | [Lechon, Lechon, Lechon](https://open.spotify.com/track/65FCTxPblQN5fJ8ucYWRGw) | [Víctor Manuelle](https://open.spotify.com/artist/4N5fp4zhTsVITZTVfsXpc2) | [Navidad a Mi Estilo](https://open.spotify.com/album/4ieRHjOfukQ0LNk7NNtzeE) | 4:14 | 2022-11-25 |  |
 | [Linda Parranda](https://open.spotify.com/track/6roVyEGav4GUvmX1FKbiA9) | [Jerry Rivera](https://open.spotify.com/artist/7wOZy3KdFVVINgNFFxkxwO) | [Jerry Christmas](https://open.spotify.com/album/3rUqGxUgnf7MPugBN4oQa9) | 3:23 | 2023-08-16 |  |
@@ -119,7 +120,7 @@
 | [Micaela](https://open.spotify.com/track/1m3paVx65imhvCjPx505Oy) | [Sonora Carruseles](https://open.spotify.com/artist/34qU0b0yRjEzRJtknerEDS), [Luis Florez](https://open.spotify.com/artist/125qXSgsP3irn2SEE6rpor) | [The Best](https://open.spotify.com/album/6HTMGKWidJzcm9IHP4iolu) | 4:44 | 2022-11-25 |  |
 | [Mistletoe](https://open.spotify.com/track/54OZxg4bsXWTfIZED7Xz3r) | [Ralphy Dreamz](https://open.spotify.com/artist/5elxYg57OGXnqXm6wZDmvm) | [Mistletoe](https://open.spotify.com/album/6Zhb3JG1qGQzxTG4lt38zv) | 3:18 | 2022-12-18 |  |
 | [Montados en Bicicleta](https://open.spotify.com/track/7vK2y43KQm04iH0C3DHI2T) | [Tito Nieves](https://open.spotify.com/artist/4vOycwLXdkMMzpZW04VW5m) | [Montados en Bicicleta](https://open.spotify.com/album/2Zih48eHIEcLOgJdZopLkS) | 4:00 | 2023-08-16 | 2023-09-17 |
-| [Navidad](https://open.spotify.com/track/3JH8P81S1bWU4CDsIBDzYl) | [Frank Reyes](https://open.spotify.com/artist/4vQV1LCGBdYAt5rIIPjSFZ) | [Bachatero En Navidad](https://open.spotify.com/album/700I6ALf2ZqgfZvquxrjFM) | 4:39 | 2023-08-16 |  |
+| [Navidad](https://open.spotify.com/track/3JH8P81S1bWU4CDsIBDzYl) | [Frank Reyes](https://open.spotify.com/artist/4vQV1LCGBdYAt5rIIPjSFZ) | [Bachatero En Navidad](https://open.spotify.com/album/700I6ALf2ZqgfZvquxrjFM) | 4:39 | 2023-08-16 | 2023-10-18 |
 | [Navidad](https://open.spotify.com/track/5nMYeNiglE4xYo8se1HejN) | [Guayacán Orquesta](https://open.spotify.com/artist/2pZ81eCkqxemIjqqfE1fhE) | [25 Aniversario, Vol\. 2](https://open.spotify.com/album/3dfbVFrxtpZyz4KNmOq7oe) | 5:05 | 2023-08-16 | 2023-09-03 |
 | [Navidad Con Mi Gente](https://open.spotify.com/track/4wHHRsP2Ifxnj0AhsjEyNQ) | [Los Hermanos Rosario](https://open.spotify.com/artist/40FzPNKgu0k9VMvvidiKCl) | [Navidad Con Mi Gente](https://open.spotify.com/album/0hnilJiSbfzm9EoTgeZQjl) | 3:45 | 2022-11-25 |  |
 | [Navidad en Mi Barrio](https://open.spotify.com/track/2p4NQR05RqzwHsUVXRTNeB) | [Víctor Manuelle](https://open.spotify.com/artist/4N5fp4zhTsVITZTVfsXpc2) | [Navidad a Mi Estilo](https://open.spotify.com/album/4ieRHjOfukQ0LNk7NNtzeE) | 5:18 | 2022-12-18 |  |

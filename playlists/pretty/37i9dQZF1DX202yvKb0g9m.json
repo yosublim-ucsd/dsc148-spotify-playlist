@@ -1,12 +1,12 @@
 {
   "description": "A collection of tracks produced with the legendary TB-303 rhythm composer. Cover: Richie Hawtin",
-  "num_followers": 105635,
+  "num_followers": 105688,
   "original_name": "303 Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5MzExM2VmNzFkNDcwYTFhMmVkM2UyNjEyZmI3ODQ4OWFkOTgwNmRj",
+  "snapshot_id": "MCxlMTg2YWI0NDlmNmQ4Mzg3MzBhY2QzMGE1YjgxN2QyNzhhMmYxYzc1",
   "tracks": [
     {
       "added_at": "2021-10-22 11:07:27",
@@ -547,6 +547,22 @@
     {
       "added_at": "2021-10-22 11:07:27",
       "album": {
+        "name": "The Big Cover-Up",
+        "url": "https://open.spotify.com/album/1p5C7xu6fz7z6IOVPWCIGt"
+      },
+      "artists": [
+        {
+          "name": "Todd Terje & The Olsens",
+          "url": "https://open.spotify.com/artist/6JClxoCdn17qYJRwYDWDqq"
+        }
+      ],
+      "duration_ms": 391222,
+      "name": "Firecracker",
+      "url": "https://open.spotify.com/track/61FZNafhhexdpEngWny5Wx"
+    },
+    {
+      "added_at": "2021-10-22 11:07:27",
+      "album": {
         "name": "Behaviour: Further Listening 1990 - 1991 (2018 Remaster)",
         "url": "https://open.spotify.com/album/52coGwksoCtU0ZfSjgGRET"
       },
@@ -591,22 +607,6 @@
       "duration_ms": 375013,
       "name": "What Time Is Love / Time Of Love",
       "url": "https://open.spotify.com/track/2zxLPxHy1VCVfjayfTEV3u"
-    },
-    {
-      "added_at": "2021-10-22 11:07:27",
-      "album": {
-        "name": "The Big Cover-Up",
-        "url": "https://open.spotify.com/album/1p5C7xu6fz7z6IOVPWCIGt"
-      },
-      "artists": [
-        {
-          "name": "Todd Terje & The Olsens",
-          "url": "https://open.spotify.com/artist/6JClxoCdn17qYJRwYDWDqq"
-        }
-      ],
-      "duration_ms": 391222,
-      "name": "Firecracker",
-      "url": "https://open.spotify.com/track/61FZNafhhexdpEngWny5Wx"
     },
     {
       "added_at": "2021-10-22 11:07:27",

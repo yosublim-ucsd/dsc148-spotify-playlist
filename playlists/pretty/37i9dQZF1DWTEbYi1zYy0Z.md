@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTEbYi1zYy0Z.md) - [plain]
 
 > So fresh, so smooth\. Cover: Jonathan Butler
 
-[Spotify](https://open.spotify.com/user/spotify) - 55,275 likes - 100 songs - 6 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 55,314 likes - 100 songs - 6 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,7 +43,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTEbYi1zYy0Z.md) - [plain]
 | 33 | [Nice and Easy \(Walter's Version\)](https://open.spotify.com/track/4KopqTSf6XxC3hHmQR7Vgx) | [Walter Beasley](https://open.spotify.com/artist/6tBzJqpqRAPyJFR4Rq0yBP), [Najee](https://open.spotify.com/artist/41F8cUV8LJGVDPNnj0ito3) | [Nice and Easy \(Walter's Version\)](https://open.spotify.com/album/2zVWak9gCSDkoCBPgMS4Zl) | 4:16 |
 | 34 | [Your Love Is Good](https://open.spotify.com/track/2Fc4A3KX4CHF7TC8JSvU6G) | [Greg Manning](https://open.spotify.com/artist/124ZXfDP304DWzmuOM6Jza) | [Your Love Is Good](https://open.spotify.com/album/4D6n2iAy5wcVGJ0u2bgPF5) | 4:16 |
 | 35 | [Sassified](https://open.spotify.com/track/1n202pWxQmYLuCtfpfFB8M) | [Lisa Addeo](https://open.spotify.com/artist/1Rkm8EM4Z0fYhkJ1k6D52U) | [Sassified](https://open.spotify.com/album/7cSySel65LwdFj7ZzUwLyt) | 4:22 |
-| 36 | [Do You Really Trust Yourself](https://open.spotify.com/track/5clox4JjNfESuyBpyZTXqx) | [Michael Benedikt](https://open.spotify.com/artist/0wPKETcuVAcrtFRpBF29WL) | [Do You Really Trust Yourself](https://open.spotify.com/album/3FIGKThoaQz1jLMcK2rap9) | 2:16 |
+| 36 | [Do You Really Trust Yourself](https://open.spotify.com/track/5clox4JjNfESuyBpyZTXqx) | [Michael Benedikt](https://open.spotify.com/artist/0wPKETcuVAcrtFRpBF29WL), [Lukas Thoeni](https://open.spotify.com/artist/0AkFAZapNk0NraCEB3YsP9) | [Do You Really Trust Yourself](https://open.spotify.com/album/3FIGKThoaQz1jLMcK2rap9) | 2:16 |
 | 37 | [Slo Jam](https://open.spotify.com/track/2YjGlENEEurq5Pd6mCl1tJ) | [kcvibes](https://open.spotify.com/artist/08jmaxbo2cTgTqQgBN7MQZ) | [Slo Jam](https://open.spotify.com/album/4SAoXnz4DCmySmIL3zdUy6) | 3:21 |
 | 38 | [Can You Stand the Rain](https://open.spotify.com/track/0yshM8ljTRo3H42dUlA5MR) | [Brian Lenair](https://open.spotify.com/artist/5yqmxKpOCtz0LAjPNlvf68) | [Can You Stand the Rain](https://open.spotify.com/album/0lIu2Rc7OdLodxbwCbsd3i) | 4:04 |
 | 39 | [Taboo](https://open.spotify.com/track/2RB3BwwCXlFEKO06jUL0Dr) | [Damien Escobar](https://open.spotify.com/artist/2GkMspzmKKkaeX62pwJZhG) | [Taboo](https://open.spotify.com/album/5CU4FiM0dodXZWKSW8vfdd) | 3:22 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTEbYi1zYy0Z.md) - [plain]
 | 99 | [Mama Smiles](https://open.spotify.com/track/6F0XssVvn2ePxP49sXLPZP) | [Michael Haggins](https://open.spotify.com/artist/6CKmfNuULyn3w1pMMHrHqx) | [Mama Smiles](https://open.spotify.com/album/4UOfNT5ngk0VXXBxSiH7hy) | 4:20 |
 | 100 | [Living in This House](https://open.spotify.com/track/5S2PbWaPKAsVf7D2cnzplv) | [Threestyle](https://open.spotify.com/artist/6Dj8bjGUnCYJddzoiTdJjX) | [Living in This House](https://open.spotify.com/album/2pz7mH3t10WshRh1P23qcP) | 3:54 |
 
-Snapshot ID: `MCw3MzEwMTYzOWM5M2FiMDMyMjEwM2FlMTVmODg3NTk3MmI0Y2Q5ODFl`
+Snapshot ID: `MCxmMDExYTY2MTNiOGU0NjQxMDNjYmUzMGNlMTNhMjZmYTcxZThiNWYy`

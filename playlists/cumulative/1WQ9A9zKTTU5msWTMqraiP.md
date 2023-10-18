@@ -4,12 +4,13 @@
 
 > Deathcore Playlist
 
-246 songs - 17 hr 5 min
+248 songs - 17 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [028 Hate](https://open.spotify.com/track/3KWrC3SPmV1VBpypRG8Ewh) | [Chamber Of Malice](https://open.spotify.com/artist/7jnmvaLEcIJPW9yraK1Q7z) | [ZEROTWENTYEIGHTHATE](https://open.spotify.com/album/3EcdSmX34jubB2E251aUo2) | 3:32 | 2018-07-22 |  |
 | [A Flicker Of Life](https://open.spotify.com/track/06eKum3DRo2saJdTZk4cV1) | [The Voynich Code](https://open.spotify.com/artist/7I2a6G196mt3zp1Qs0EAkj) | [A Flicker Of Life](https://open.spotify.com/album/14Nhh0lXISxvBoPegtnnk3) | 4:21 | 2023-10-05 |  |
+| [A Forbidden Pleasure](https://open.spotify.com/track/7DkGXkeoAntsrrk6R1BXvs) | [Blacks0n](https://open.spotify.com/artist/50kiZmpRIqA5otYPDCyB0U) | [Cry for Inspiration](https://open.spotify.com/album/4LyYASNLEnSlMFamVJA6c3) | 3:46 | 2023-10-17 |  |
 | [A Plague](https://open.spotify.com/track/7wxxMhZlxGkcxwB4KkhtLK) | [Carcosa](https://open.spotify.com/artist/2bhtSpyMNiPZJlkisy4T9G) | [A Plague](https://open.spotify.com/album/1A2X5gwjWtJug5Q9knlhMO) | 3:07 | 2020-07-02 |  |
 | [A Summoning](https://open.spotify.com/track/7DfFQy2iADhaqMszQrpUij) | [Salem Burning](https://open.spotify.com/artist/1NXCFGk5cmtx5ByORVtuCI) | [Pagan Moon](https://open.spotify.com/album/2Ed27Ubo2pb7f3qa3iZXgN) | 2:54 | 2020-08-23 |  |
 | [Al Wahn](https://open.spotify.com/track/4ZfSyO3oMHGHIt5BFCsHtH) | [Sonorous Grim](https://open.spotify.com/artist/4PoUBUSnk2clM6i6FtsBBK) | [Al Wahn](https://open.spotify.com/album/0MVYWjErq7rQ5RctbqCi2K) | 4:28 | 2021-03-29 |  |
@@ -110,6 +111,7 @@
 | [Gospel of the Kingdom](https://open.spotify.com/track/5xtOQHVlbmMD4D0fFfW98G) | [Walking Dead On Broadway](https://open.spotify.com/artist/3kpSjBJ7SSuQ4rzdieCWSb) | [Gospel of the Kingdom](https://open.spotify.com/album/3OnBlfrcfgzIi1eHTTEVGl) | 4:08 | 2018-10-06 |  |
 | [Gravemind](https://open.spotify.com/track/0c4sapweflNFS4eyWhX7gQ) | [Defect](https://open.spotify.com/artist/7Mi1Q2RuECOPEEJHFlZRMw) | [Gravemind](https://open.spotify.com/album/6e2QH1omg6J6exsfbP2gCl) | 3:03 | 2022-07-11 |  |
 | [Grimoire](https://open.spotify.com/track/3J4lFsZ835wxMbrRIUliRU) | [The Breathing Process](https://open.spotify.com/artist/6ngRmXLPP5slPvGsnQumJh) | [Odyssey \(un\) Dead](https://open.spotify.com/album/6lKaQ2XB1X65iSYCIb33Q4) | 4:29 | 2020-09-18 |  |
+| [Grotesque Throne](https://open.spotify.com/track/58hSyNtXJ9KBZ6f7nGQyJx) | [No Signs of Life](https://open.spotify.com/artist/03t9WHYJRG1swfSu9VS5EZ) | [Grotesque Throne](https://open.spotify.com/album/2Ks6NiNSzoasDtb1xLKnQD) | 5:42 | 2023-10-17 |  |
 | [Hate Circuit](https://open.spotify.com/track/2fUR2Ci3mDYzf5vhEmYYyi) | [Bound in Fear](https://open.spotify.com/artist/58P2qDnyWpUDoiCtfHvLTL) | [The Hand of Violence](https://open.spotify.com/album/40enXBgKJvinOAvduaD0n6) | 4:55 | 2020-10-15 |  |
 | [Hell](https://open.spotify.com/track/0Pa1xBSTDSSKlHM1sLfmgA) | [Slaughter to Prevail](https://open.spotify.com/artist/24Oiw7BlvO1BETecDLJt6m) | [Chapters of Misery \(EP\)](https://open.spotify.com/album/60N4uYuRY0ogXPocNGvVm4) | 4:25 | 2018-07-22 |  |
 | [Hell Can't Wait For Me](https://open.spotify.com/track/1szrHX4xnjLfXUQ58JqJCp) | [It Came From Beneath](https://open.spotify.com/artist/0n0BOyuQxqYYRnInx2pRoO) | [Hell Can't Wait For Me](https://open.spotify.com/album/6IXvgDUbaLxW80i9HpT97n) | 3:52 | 2022-04-03 |  |

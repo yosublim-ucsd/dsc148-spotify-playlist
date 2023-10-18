@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2PQDq3PdrHQ.md) - [plain]
 
 > Instrumental beats for a restful night's sleep.
 
-[Spotify](https://open.spotify.com/user/spotify) - 289,178 likes - 311 songs - 12 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 289,828 likes - 311 songs - 12 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,7 +74,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2PQDq3PdrHQ.md) - [plain]
 | 64 | [Fonnes](https://open.spotify.com/track/65UIzaDJ2rx4pITfzsBCp6) | [J Mariou](https://open.spotify.com/artist/0EtOuwnEN1iBz6miiq5NfW) | [Fonnes](https://open.spotify.com/album/04ImQ4X8Cf4mrs9jK4KOLB) | 2:14 |
 | 65 | [Tucked In](https://open.spotify.com/track/7q4rwIaWzCYAenldhgCY1Q) | [lofi stu](https://open.spotify.com/artist/42sa3ImS1Gv0LDCNS8jr2E) | [Tucked In](https://open.spotify.com/album/7Dk8IIu2bvqGxobk3DZlvG) | 2:00 |
 | 66 | [shaman dreams again](https://open.spotify.com/track/0ma4paR3UywyIlTzceEtOR) | [mr\_slace](https://open.spotify.com/artist/2XQmmMkdTIZ7diR6B3tduO), [Primer Dia](https://open.spotify.com/artist/5kXyMVyXSK2cHnjOja5hRJ) | [shaman dreams](https://open.spotify.com/album/4giCVmRIwtri9btlVcGLou) | 3:13 |
-| 67 | [sky high](https://open.spotify.com/track/4PHUBxrCkQkCHiG95e3zIS) | [OEUF](https://open.spotify.com/artist/4JDj3KtXnbTeh9tKZl9X0Y) | [sky high](https://open.spotify.com/album/6VVbh0xx467r5hHnDCR7dc) | 2:44 |
+| 67 | [sky high](https://open.spotify.com/track/4PHUBxrCkQkCHiG95e3zIS) | [Tempeh Beats](https://open.spotify.com/artist/2fLplIQ8J2rIdiiIwidU36) | [sky high](https://open.spotify.com/album/6VVbh0xx467r5hHnDCR7dc) | 2:44 |
 | 68 | [deep breathing](https://open.spotify.com/track/5in3QCqDmxFzI5ilDQPnmK) | [haki donzo](https://open.spotify.com/artist/7JCLpMzChs65N5MKKyup2b) | [deep breathing](https://open.spotify.com/album/2oBhIFVSPwfp1IA6nwn7OV) | 1:53 |
 | 69 | [Night Hour](https://open.spotify.com/track/3wuLf5VkBSE1jqLnY2t5o0) | [Reeve](https://open.spotify.com/artist/0OX3FCZUygSczPyekt9Ne3) | [Night Hour](https://open.spotify.com/album/0rB3sMpRkElz6MIgeGSBbb) | 2:54 |
 | 70 | [duplicated](https://open.spotify.com/track/58AWkT7R6szgzK9nin9oUv) | [gamuri shun](https://open.spotify.com/artist/3t8zcW41Vd0F7ddGBwUZ4N) | [duplicated](https://open.spotify.com/album/1M1MJjpxKpr3xC9fCbOATA) | 2:15 |
@@ -320,4 +320,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2PQDq3PdrHQ.md) - [plain]
 | 310 | [Fireflies](https://open.spotify.com/track/30RBPOOwjABC3G1k0QXsfj) | [wood.](https://open.spotify.com/artist/2mPJCIWr1F4EPuHC4qSGJi) | [Fireflies](https://open.spotify.com/album/4ZHqOdkFxvVhispfS44eKC) | 2:51 |
 | 311 | [Empyreal](https://open.spotify.com/track/1pvSMxjRqHzDDwSdjOwLbX) | [Dimension 32](https://open.spotify.com/artist/46RYzJ2442SuhtOTl281nz) | [Empyreal](https://open.spotify.com/album/75kTZInzYeaqpZstd13B0e) | 2:23 |
 
-Snapshot ID: `MCwxNGIyMzQ5NmViZjY2NTU0ZGJhMzczODczZWU3MWQ1OTYzYjRmM2Y4`
+Snapshot ID: `MCw2MTUwMWEyNTMxNGQ3MjkyZjdjNTc5ZTg0ZmVkNWQ1NmFiMjE1ZDcx`

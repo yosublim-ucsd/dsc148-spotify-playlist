@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-06-22",
-  "description": "Trending Sinhalese pop hits. Cover - La Signore",
+  "description": "Trending Sinhalese pop hits. Cover - DILU Beats",
   "name": "Sinhala Pop",
   "tracks": [
     {
@@ -42,7 +42,7 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-18",
       "duration_ms": 210040,
       "name": "Adara Mal Wala",
       "url": "https://open.spotify.com/track/0SnQXsOTmbVGOjvXj9IkTB"
@@ -246,7 +246,7 @@
       ],
       "date_added": "2023-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-18",
       "duration_ms": 216552,
       "name": "Ahi Dara Pawa",
       "url": "https://open.spotify.com/track/6GRJT8kJqFk8eac6YSIKcZ"
@@ -354,7 +354,7 @@
       ],
       "date_added": "2022-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-18",
       "duration_ms": 236769,
       "name": "Anawakiyak",
       "url": "https://open.spotify.com/track/1tfds8cHC1G2emUZjs7VHM"
@@ -1172,7 +1172,7 @@
       ],
       "date_added": "2023-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-18",
       "duration_ms": 282756,
       "name": "Digasiye",
       "url": "https://open.spotify.com/track/6Z7weASpfUhXomuROIlsKb"
@@ -1190,7 +1190,7 @@
       ],
       "date_added": "2023-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-18",
       "duration_ms": 199384,
       "name": "Diki Bonat",
       "url": "https://open.spotify.com/track/5zJZu3Oe57zy8dNNra9tf2"
@@ -1780,7 +1780,7 @@
       ],
       "date_added": "2023-07-24",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-04",
+      "date_removed": null,
       "duration_ms": 210000,
       "name": "Hith Ochcham",
       "url": "https://open.spotify.com/track/792WeaFnWJIIEed9JnnWLW"
@@ -2140,7 +2140,7 @@
       ],
       "date_added": "2023-07-24",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-13",
+      "date_removed": null,
       "duration_ms": 252521,
       "name": "Kalhara Mal",
       "url": "https://open.spotify.com/track/1nrGc9Ha15ZVvKRbIROwuv"
@@ -2210,7 +2210,7 @@
       ],
       "date_added": "2023-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-18",
       "duration_ms": 220363,
       "name": "Kandulu Podak Kandulu Bindak",
       "url": "https://open.spotify.com/track/5V13G1Ce60HdCI0J2yZLFY"
@@ -2444,7 +2444,7 @@
       ],
       "date_added": "2023-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-18",
       "duration_ms": 235578,
       "name": "Kurulu Bilindi",
       "url": "https://open.spotify.com/track/4DJ1GUxB4UCHvUlUi5p4u5"
@@ -2846,7 +2846,7 @@
       ],
       "date_added": "2023-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-18",
       "duration_ms": 183755,
       "name": "Mage Dangamalla",
       "url": "https://open.spotify.com/track/3rdFFWmrGky5pHp53n8Jzu"
@@ -3440,7 +3440,7 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-18",
       "duration_ms": 145972,
       "name": "Marunu Hithe (Ida Illa) - Unplugged Version",
       "url": "https://open.spotify.com/track/1FAQwbqWPPOD7IT3R3Y4wD"
@@ -3680,7 +3680,7 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-18",
       "duration_ms": 182000,
       "name": "Me Waare",
       "url": "https://open.spotify.com/track/565NrCOtLkrCJAA5GXDX6f"
@@ -3799,6 +3799,28 @@
     },
     {
       "album": {
+        "name": "Mukulu Kala",
+        "url": "https://open.spotify.com/album/2k7R0B6V0ZOEZTLbluOIb1"
+      },
+      "artists": [
+        {
+          "name": "Thiwanka Dilshan",
+          "url": "https://open.spotify.com/artist/3yvx0NGMRfcq8Gres1PUxx"
+        },
+        {
+          "name": "Chamath Sangeeth",
+          "url": "https://open.spotify.com/artist/3Bej6ikcqBylMRbkX1DKpu"
+        }
+      ],
+      "date_added": "2023-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169032,
+      "name": "Mukulu Kala",
+      "url": "https://open.spotify.com/track/7g5J1AaxoItl3JVSOyAELX"
+    },
+    {
+      "album": {
         "name": "Mulawe",
         "url": "https://open.spotify.com/album/4MMgRRBqvX28YQt00pENmc"
       },
@@ -3884,7 +3906,7 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-18",
       "duration_ms": 271194,
       "name": "Naadagam Geeya",
       "url": "https://open.spotify.com/track/2z1xxec9iMmanvQEYsuJUO"
@@ -3954,7 +3976,7 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-25",
+      "date_removed": null,
       "duration_ms": 224493,
       "name": "Namal mitak",
       "url": "https://open.spotify.com/track/19BNzTGIT1SXUHpjhixMUX"
@@ -4154,6 +4176,24 @@
       "duration_ms": 304772,
       "name": "Nira - From \"Takkar\"",
       "url": "https://open.spotify.com/track/1VxCdnd46iCgHP5zXGCXPe"
+    },
+    {
+      "album": {
+        "name": "Niwalanna Ma",
+        "url": "https://open.spotify.com/album/5RTJZBsccgHG34zaLaxq0t"
+      },
+      "artists": [
+        {
+          "name": "Dhanith Sri",
+          "url": "https://open.spotify.com/artist/25JFNpUo9kGJwGwMPUDBRs"
+        }
+      ],
+      "date_added": "2023-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190006,
+      "name": "Niwalanna Ma",
+      "url": "https://open.spotify.com/track/0Om3xlEutjVufVhmSd2XW0"
     },
     {
       "album": {
@@ -4433,6 +4473,28 @@
     },
     {
       "album": {
+        "name": "Oye Ojaye",
+        "url": "https://open.spotify.com/album/2p4Mg2AXaLJitxBxLkqxG8"
+      },
+      "artists": [
+        {
+          "name": "Arjun",
+          "url": "https://open.spotify.com/artist/5tvfyAT4aOIOkumo6vw1yL"
+        },
+        {
+          "name": "Piyal Perera",
+          "url": "https://open.spotify.com/artist/4sJhDEmVLptFJo1yMdUZfQ"
+        }
+      ],
+      "date_added": "2023-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209768,
+      "name": "Oye Ojaye",
+      "url": "https://open.spotify.com/track/4S5SuKbT4XnUy7A4z3FfDI"
+    },
+    {
+      "album": {
         "name": "Paalu Yaame",
         "url": "https://open.spotify.com/album/6AZvLGlTyTauElxYwANnj7"
       },
@@ -4605,6 +4667,28 @@
     },
     {
       "album": {
+        "name": "Paluwe Sathuta",
+        "url": "https://open.spotify.com/album/37jxBySqQ3CwWfFCsbH9wi"
+      },
+      "artists": [
+        {
+          "name": "Senanga Dissanayake",
+          "url": "https://open.spotify.com/artist/5r68YwgGItdBtZdTWQFQsJ"
+        },
+        {
+          "name": "Methun SK",
+          "url": "https://open.spotify.com/artist/321A10RJQEZo2P1nLnS84x"
+        }
+      ],
+      "date_added": "2023-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278643,
+      "name": "Paluwe Sathuta",
+      "url": "https://open.spotify.com/track/16f1xUbj37jdrqkqLCEEkB"
+    },
+    {
+      "album": {
         "name": "Pandama",
         "url": "https://open.spotify.com/album/2jTzaIGhYlWkS3bQjxNMan"
       },
@@ -4682,7 +4766,7 @@
       ],
       "date_added": "2022-11-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-18",
       "duration_ms": 237517,
       "name": "Pawela Kodu Akase",
       "url": "https://open.spotify.com/track/3IfseEvp5VAI6Bcc0NZWGe"
@@ -4774,7 +4858,7 @@
       ],
       "date_added": "2023-08-07",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-18",
+      "date_removed": null,
       "duration_ms": 203407,
       "name": "Peradaa",
       "url": "https://open.spotify.com/track/4OJnLf2MPlo1SbaLPAeoCq"
@@ -5517,6 +5601,28 @@
     },
     {
       "album": {
+        "name": "Sandhyawe Maa",
+        "url": "https://open.spotify.com/album/5dnsracfITU9wSLQDpKVyS"
+      },
+      "artists": [
+        {
+          "name": "Rashan Balasooriya",
+          "url": "https://open.spotify.com/artist/7y9m5o4dJ6jmxeUqYo9azF"
+        },
+        {
+          "name": "Mahiru Senarathne",
+          "url": "https://open.spotify.com/artist/3Od0SSFki2d6U1jnmoUaBC"
+        }
+      ],
+      "date_added": "2023-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209700,
+      "name": "Sandhyawe Maa",
+      "url": "https://open.spotify.com/track/6mMapCynFeK2VOVzK0G2fl"
+    },
+    {
+      "album": {
         "name": "Ridma Weerawardena",
         "url": "https://open.spotify.com/album/4D1eJLNw9dTUcB1pYDK3mt"
       },
@@ -5765,6 +5871,24 @@
     },
     {
       "album": {
+        "name": "Seethala Wassata",
+        "url": "https://open.spotify.com/album/5YW3x6R0qaYoJH76R9pjuH"
+      },
+      "artists": [
+        {
+          "name": "Dayabaran",
+          "url": "https://open.spotify.com/artist/4Yi45vBEAT4NOeyshnKZGG"
+        }
+      ],
+      "date_added": "2023-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177932,
+      "name": "Seethala Wassata",
+      "url": "https://open.spotify.com/track/12WvpNle2jYjrmYuGUx4DT"
+    },
+    {
+      "album": {
         "name": "Selawena Manasa",
         "url": "https://open.spotify.com/album/1xfo93k9PLnFMWu4BXa9J5"
       },
@@ -5980,6 +6104,24 @@
       "duration_ms": 158910,
       "name": "Single Daruwo",
       "url": "https://open.spotify.com/track/5NYRy2KD9K5G9HPem7Jocj"
+    },
+    {
+      "album": {
+        "name": "Adimthra Volume 01",
+        "url": "https://open.spotify.com/album/3isVgc5L7d9mPe4TZMGBBN"
+      },
+      "artists": [
+        {
+          "name": "Sarith and Surith",
+          "url": "https://open.spotify.com/artist/2iI5Jn0xAF2wVnvf1QbhjA"
+        }
+      ],
+      "date_added": "2023-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 304116,
+      "name": "Sinhala Punjabi Medley Vol2",
+      "url": "https://open.spotify.com/track/3DOlY8lh8UsLrx1VUxzopI"
     },
     {
       "album": {
@@ -6531,6 +6673,28 @@
     },
     {
       "album": {
+        "name": "Ummah",
+        "url": "https://open.spotify.com/album/4TRneLDGdT3T7DFX29uJ8C"
+      },
+      "artists": [
+        {
+          "name": "Chanuka Mora",
+          "url": "https://open.spotify.com/artist/6RC38fA9dGFORf48RRLPbl"
+        },
+        {
+          "name": "Dilo",
+          "url": "https://open.spotify.com/artist/7lrGPpmDUbhyg2DE8dD8cJ"
+        }
+      ],
+      "date_added": "2023-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192941,
+      "name": "Ummah",
+      "url": "https://open.spotify.com/track/5fvDzD89KQYEkKZFKYYxE1"
+    },
+    {
+      "album": {
         "name": "Unmada Prema Geeya",
         "url": "https://open.spotify.com/album/6wUgVuhCZTFxKFG3lfvLF6"
       },
@@ -6801,6 +6965,28 @@
     },
     {
       "album": {
+        "name": "Nimak Nathi Adarey",
+        "url": "https://open.spotify.com/album/5wB44S8eZyGiV29KLOGX0v"
+      },
+      "artists": [
+        {
+          "name": "Prihan,Natasha",
+          "url": "https://open.spotify.com/artist/6zTlleRTgCMvp7tbRo9tgr"
+        },
+        {
+          "name": "Natasha",
+          "url": "https://open.spotify.com/artist/7MBJMXAEJuzO754trRIuHu"
+        }
+      ],
+      "date_added": "2023-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234840,
+      "name": "Yaayata Paayana",
+      "url": "https://open.spotify.com/track/0SNQl1pqrpmMNbZGjgondb"
+    },
+    {
+      "album": {
         "name": "Yali Hamuwenne Kedhinadha Api",
         "url": "https://open.spotify.com/album/63486ST8UfeU8LPcRvNhc9"
       },
@@ -6848,7 +7034,7 @@
       ],
       "date_added": "2023-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-18",
       "duration_ms": 184653,
       "name": "Yashodara",
       "url": "https://open.spotify.com/track/3C6ba3oe3WYVk4G5tpSHvr"

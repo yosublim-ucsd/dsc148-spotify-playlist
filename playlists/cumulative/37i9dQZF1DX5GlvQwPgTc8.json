@@ -24,7 +24,7 @@
     {
       "album": {
         "name": "Less Is More",
-        "url": "https://open.spotify.com/album/5HXThyoACKMuMdRU5HosWH"
+        "url": "https://open.spotify.com/album/57AJ70IWVE0pmPwNYBa4PT"
       },
       "artists": [
         {
@@ -35,6 +35,24 @@
       "date_added": "2019-03-25",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 138013,
+      "name": "Are You With Me - Radio Edit",
+      "url": "https://open.spotify.com/track/2glGP8kEfACgJdZ86kWxhN"
+    },
+    {
+      "album": {
+        "name": "Less Is More",
+        "url": "https://open.spotify.com/album/5HXThyoACKMuMdRU5HosWH"
+      },
+      "artists": [
+        {
+          "name": "Lost Frequencies",
+          "url": "https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7"
+        }
+      ],
+      "date_added": "2019-03-25",
+      "date_added_asterisk": false,
+      "date_removed": "2023-10-18",
       "duration_ms": 138013,
       "name": "Are You With Me - Radio Edit",
       "url": "https://open.spotify.com/track/62nhuooamoroYpJyqE0nLd"

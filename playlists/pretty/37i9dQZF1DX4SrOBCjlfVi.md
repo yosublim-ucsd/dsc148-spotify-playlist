@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 
 > All the New Joints featuring Offset, Ice Spice, and more\. Cover: DaBaby
 
-[Spotify](https://open.spotify.com/user/spotify) - 235,965 likes - 49 songs - 2 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 236,106 likes - 49 songs - 2 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 | 48 | [Freak Like Me](https://open.spotify.com/track/55BTqAWXmsq6K3b3JxzEVT) | [Slimeroni](https://open.spotify.com/artist/1aSHAWLQKX1Ln5yoHh8mTq) | [Freak Like Me](https://open.spotify.com/album/78Mn2uFKnU5geMZzj5Yb59) | 2:01 |
 | 49 | [Faded Away](https://open.spotify.com/track/1fF9AiOcLSLV2aOklLOlaD) | [Pyrex Pryce](https://open.spotify.com/artist/7HkRWn9KQavVjW2lCTGi3K) | [Sweet Poison](https://open.spotify.com/album/0437tLp3MOu3UCpV1KKwTh) | 3:40 |
 
-Snapshot ID: `MCwzMWE1NGE3NGEwMzMwMzFkOTA0Zjc1MjU4NzkxN2MxYzYzYTBkYTYy`
+Snapshot ID: `MCw1MThjOTMyMDA1NmNhOTEwNTZiNTg5ZjYxYWE5NzBjYzc4MmVkMjFl`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaaU1AaHpZeu.md) - [plain]
 
 > Nuevos hallazgos de música indie latina\. Monsieur Periné y Bándalos Chinos en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 294,618 likes - 50 songs - 2 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 294,649 likes - 50 songs - 2 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaaU1AaHpZeu.md) - [plain]
 | 2 | [Te puedes ir, amor](https://open.spotify.com/track/3e3eeimc7V6oqZbcyDu0Ls) | [Francisco Victoria](https://open.spotify.com/artist/7IoWRnQriyj7YYLpvx00jv), [Rubio](https://open.spotify.com/artist/79YjWaAoD88XGLETIsnnQV) | [Te puedes ir, amor](https://open.spotify.com/album/3xTDzgJme7JW24tMfS1fUt) | 3:09 |
 | 3 | [bien hecho](https://open.spotify.com/track/2jMrMVUprU2f03AZYRpWfB) | [Humbe](https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL) | [bien hecho](https://open.spotify.com/album/5MNb2jx4ncbpNMimeEUczU) | 4:01 |
 | 4 | [Esta casa hace rato dejó de ser un hogar](https://open.spotify.com/track/63YbNqEhNmyTEkuKeN5wIE) | [Cristóbal Briceño](https://open.spotify.com/artist/0TE3FlkFJ5OgdyulXv99iX) | [Esta casa hace rato dejó de ser un hogar](https://open.spotify.com/album/3LA2gnmgO9iz2Jv7zj1nIY) | 3:29 |
-| 5 | [Llorando x 1](https://open.spotify.com/track/2pmdNnInTpDCoui6M8JK8n) | [Sen Senra](https://open.spotify.com/artist/5lWasZeo8uWQk6GD8czJLq), [Mc Dricka](https://open.spotify.com/artist/07V9aer4niIjqupy0WuB15) | [Llorando x 1](https://open.spotify.com/album/7hRErvNPgsqn5IAuv73qBX) | 2:30 |
+| 5 | [Llorando x 1](https://open.spotify.com/track/2pmdNnInTpDCoui6M8JK8n) | [Sen Senra](https://open.spotify.com/artist/5lWasZeo8uWQk6GD8czJLq), [Mc Dricka](https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q) | [Llorando x 1](https://open.spotify.com/album/7hRErvNPgsqn5IAuv73qBX) | 2:30 |
 | 6 | [Para Ti](https://open.spotify.com/track/2B9fz9WW4XRg1ExCZnfuAI) | [Pedrina](https://open.spotify.com/artist/7BdQWt4FjHEvmTH6jmaJd1), [Mi Sobrino Memo](https://open.spotify.com/artist/2ae7hwWgesyGJVI2vebofH) | [Para Ti](https://open.spotify.com/album/0F4Ex5ET5dBsPX2tAiYRvP) | 3:37 |
 | 7 | [Un Preámbulo](https://open.spotify.com/track/0VAwX3wYhvYrLojAl0Ld7f) | [Los Besos](https://open.spotify.com/artist/7nbOE0RhCrS1GrDEaVUVee), [Barbi Recanati](https://open.spotify.com/artist/4nwFiHgPXUpo0KgR1rZSAD) | [Un Preámbulo](https://open.spotify.com/album/4N4NgsGFXOaiAiQxk87lwZ) | 3:26 |
 | 8 | [Tele](https://open.spotify.com/track/5eagnWmjBiNdLovonN1gI4) | [Méne](https://open.spotify.com/artist/5r3DSRaJz8ckIw4XPH9Whd) | [Tele](https://open.spotify.com/album/1WGSsdUHw9DETdCD9VDqzZ) | 2:06 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaaU1AaHpZeu.md) - [plain]
 | 49 | [Me gustas todo el rato](https://open.spotify.com/track/4dhEkIrXa4RmKTgrlakOvG) | [Sidonie](https://open.spotify.com/artist/2pMVWkucVS130nJx59uAEa) | [Me gustas todo el rato](https://open.spotify.com/album/0trGskrROSp5ln0HTq0vHA) | 3:07 |
 | 50 | [Hablarte bien](https://open.spotify.com/track/1admULK3d8TTzvCzIq5YdY) | [Jimena Amarillo](https://open.spotify.com/artist/29cPgYFoxExwmptUrlnYmm), [Irenegarry](https://open.spotify.com/artist/5grzJI0lXUO8L4yMw6BwEB) | [Derretidas](https://open.spotify.com/album/5Yj24Szqw1qRzY164ldZgL) | 2:57 |
 
-Snapshot ID: `MCw2NjkxNjQwYTc0ZTFiNDUyZjk4YTdmNGMxMWE3OTkwZDcxN2MwMDQ0`
+Snapshot ID: `MCxkMjc3MjI2YjA0NjJjYTE3ZTkzNmIzYTE4ZGEzNDc3YjIxODYyZmMy`

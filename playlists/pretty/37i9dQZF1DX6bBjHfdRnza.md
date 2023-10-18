@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6bBjHfdRnza.md) - [plain]
 
 > The best new dance & electronic by independent artists and labels\. Cover: Matrefakt\. Artwork by Rewina Beshue.
 
-[Spotify](https://open.spotify.com/user/spotify) - 160,013 likes - 100 songs - 6 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 160,023 likes - 100 songs - 6 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6bBjHfdRnza.md) - [plain]
 | 99 | [Neon Bliss](https://open.spotify.com/track/6p7Xa2jRoOgcV5g0ZVuR4g) | [KARVA](https://open.spotify.com/artist/01IuZ5qGBbM7vc6IglCSLM) | [Neon Bliss](https://open.spotify.com/album/6hKsXj3CZ8YuyJfGd3oNuh) | 5:24 |
 | 100 | [Human Nature](https://open.spotify.com/track/5VYZmJjP3ihkgMJJVjAuAn) | [Yet More](https://open.spotify.com/artist/56brJyNkgCiv9ncSNkV99C) | [What EP](https://open.spotify.com/album/3MoBLdw08HUFji9FDx58l2) | 4:35 |
 
-Snapshot ID: `MCw5ZDdiODljYzIwODM2NGVhMTBmNDUyNjUzZjk4NWY5NmQzNTI1YTk1`
+Snapshot ID: `MCw5NmU5NjdkMGRmNDk0YTI2YTVmYjQwOWM2NGQ3NTcxMjFlNmRjOTIy`

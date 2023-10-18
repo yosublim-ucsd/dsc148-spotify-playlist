@@ -4,7 +4,7 @@
 
 > That bouncy, groovy, dancey sound.
 
-378 songs - 20 hr 40 min
+379 songs - 20 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -113,6 +113,7 @@
 | [Echoes \(feat\. Tony Duardo, Manana & Lusanda\)](https://open.spotify.com/track/7msMFkuYQdBaJhiav2UrM1) | [Uncle Waffles](https://open.spotify.com/artist/68McnNC9twEtiynOAJRRgZ), [Tony Duardo](https://open.spotify.com/artist/6qF0eiWwQF073J1MuVFs5z), [Manana](https://open.spotify.com/artist/6omm7OGZMQZ2XODf4JVKnQ), [Lusanda](https://open.spotify.com/artist/3WcXJ1FwSFJU88zc7vV9rz) | [Echoes \(feat\. Tony Duardo, Manana & Lusanda\)](https://open.spotify.com/album/6GPfETz7e4MYd3kU4CtLIK) | 4:05 | 2023-08-04 |  |
 | [EGO \- ESTA\. Remix](https://open.spotify.com/track/4krZyLAZUp2rjgd4yInA8Q) | [Josh Levi](https://open.spotify.com/artist/6NvsNA4Ea62yJh7ePTS8gz), [ESTA.](https://open.spotify.com/artist/4KZmpaIhanIo46eaQimtgO) | [EGO \- ESTA\. Remix](https://open.spotify.com/album/1uX8wUmCrfAwQOfAJS2fGO) | 2:44 | 2023-08-25 |  |
 | [Elohim](https://open.spotify.com/track/5Q4JduIFVtirezPnU9RggG) | [Sondae](https://open.spotify.com/artist/2PCl4hx9Qds8sjcnoWUdqp) | [By The Water](https://open.spotify.com/album/5uPncwBKPjbBEwNfBfS0vn) | 2:50 | 2023-06-30 | 2023-10-07 |
+| [Expectations \(feat\. Alex Isley\)](https://open.spotify.com/track/5iwvOYT81SMgPsj40QEzvv) | [Kenyon Dixon](https://open.spotify.com/artist/5AzjednUL6MFJP0dBic3be), [Alex Isley](https://open.spotify.com/artist/7E2ioKxoxI2J94tUkIx6As) | [Expectations](https://open.spotify.com/album/693vqIGvxvCds8k3VMMyUg) | 3:28 | 2022-07-30 |  |
 | [Fall In](https://open.spotify.com/track/76oTS246cR6Qnk9UznLk0K) | [Naomi Lareine](https://open.spotify.com/artist/0umAOumGRDuZ2elvqjaK3i) | [Fall In](https://open.spotify.com/album/14WXlgU3jPNSbkttpoWQsx) | 2:39 | 2022-09-09 | 2023-01-21 |
 | [Fallin' Apart](https://open.spotify.com/track/2qKmnm0cEXnvD82C6Sr2hs) | [Young Franco](https://open.spotify.com/artist/6mK0vAO13gT8jWYANyoXAl), [Denzel Curry](https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV), [Pell](https://open.spotify.com/artist/2O2dI9lY9PnWtAa4OlrgMi) | [Fallin' Apart](https://open.spotify.com/album/7LK33wpZ5LmLwWkCMxDXdp) | 2:04 | 2021-07-26 | 2022-08-06 |
 | [Fantasy](https://open.spotify.com/track/0dGFloLLIZyAbD6EjuBVFL) | [Kenyon Dixon](https://open.spotify.com/artist/5AzjednUL6MFJP0dBic3be), [Cozz](https://open.spotify.com/artist/5oFkj1qSlyBUmV5d6Edgtq) | [The R&B You Love](https://open.spotify.com/album/1IGcLVZl44MScNh7QFf9Xr) | 4:23 | 2023-10-06 |  |
@@ -379,7 +380,7 @@
 | [Worlds Away](https://open.spotify.com/track/2PUsRFtW68RSwpNr4XjjKa) | [Chxrry22](https://open.spotify.com/artist/0SVd0yQpJ6xcZ3vTKXUaro) | [Worlds Away](https://open.spotify.com/album/3PvGhm40m4E00G6hQiY4Q9) | 2:54 | 2023-05-26 |  |
 | [Xtasy](https://open.spotify.com/track/0jqJNqmrdryU1nnctIzu9n) | [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz) | [HYPNOS](https://open.spotify.com/album/5Y4hUd0FPvCed5lu7loMXZ) | 2:58 | 2022-07-30 |  |
 | [Xtasy \(Remix\) \[feat\. Doechii\]](https://open.spotify.com/track/610faOY46uYOBi3KXazpSj) | [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz), [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [Xtasy \(Remix\) \[feat\. Doechii\]](https://open.spotify.com/album/4Wofyf34UgjYpqwPAELW7n) | 4:30 | 2022-09-16 | 2023-10-07 |
-| [You](https://open.spotify.com/track/1RXm1hOSW6ITZOejiqiNEK) | [DWY](https://open.spotify.com/artist/6rKDNm4z67mZVwDwnE0WsX) | [Self\-Contained](https://open.spotify.com/album/5HOxi26ZvTMi8zW0iadJtT) | 3:37 | 2022-09-23 |  |
+| [You](https://open.spotify.com/track/1RXm1hOSW6ITZOejiqiNEK) | [DWY](https://open.spotify.com/artist/6rKDNm4z67mZVwDwnE0WsX) | [Self\-Contained](https://open.spotify.com/album/5HOxi26ZvTMi8zW0iadJtT) | 3:37 | 2022-09-23 | 2023-10-18 |
 | [You Don't Know](https://open.spotify.com/track/754QzXAquB4o7ydUUwjr4C) | [Bad Colours](https://open.spotify.com/artist/0x3KkCJuve7n51ThZGNAIX), [KAS](https://open.spotify.com/artist/4AUPalZalhZyyd6kwhBiL5), [Jarv Dee](https://open.spotify.com/artist/1sAKNLVFmAmxaurWLdmu1u), [JVDE](https://open.spotify.com/artist/5ZYuMuQ1dwCXIx6mULdrzg) | [Always With U](https://open.spotify.com/album/4Jz6wsYQnv5a4WJvzdbWxn) | 3:11 | 2022-10-14 | 2023-10-08 |
 | [You Don't Know](https://open.spotify.com/track/7nZnfJkaBnmmWUBw9jfhm3) | [Bad Colours](https://open.spotify.com/artist/0x3KkCJuve7n51ThZGNAIX), [KAS](https://open.spotify.com/artist/4AUPalZalhZyyd6kwhBiL5), [Jarv Dee](https://open.spotify.com/artist/1sAKNLVFmAmxaurWLdmu1u), [JVDE](https://open.spotify.com/artist/5ZYuMuQ1dwCXIx6mULdrzg) | [You Don't Know](https://open.spotify.com/album/7EI43wfKVyPabczkwpHeSA) | 3:11 | 2022-10-14 | 2022-11-19 |
 | [You're So Annoying](https://open.spotify.com/track/2QUbdB7i1CezjTEEVd5Fc3) | [Tep No](https://open.spotify.com/artist/7MlotYZhHjOlXcvmwrITj8) | [You're So Annoying](https://open.spotify.com/album/0yBn8kb95FKiIj8Y5kVhfL) | 3:14 | 2021-07-26 | 2022-04-21 |
