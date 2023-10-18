@@ -67,7 +67,7 @@ naming collisions when archiving personalized playlists, which have the
 same name for every user. To add an alias, add a single line
 containing the desired name to `playlists/registry/<playlist_id>`.
 
-## Playlists \(6888\)
+## Playlists \(6889\)
 
 - ["Suzume" & Songs from Makoto Shinkai's Movies \(\~2022\)](/playlists/pretty/37i9dQZF1DX0KA2LHWBFpC.md)
 - [\#FlashbackFriday](/playlists/pretty/2dWfCGZguakRQagX7wM6Mi.md)
@@ -6386,6 +6386,7 @@ containing the desired name to `playlists/registry/<playlist_id>`.
 - [Workout Twerkout](/playlists/pretty/37i9dQZF1DX0HRj9P7NxeE.md)
 - [World Folk](/playlists/pretty/0ByLkBLDx1AS5yXJuBTyCd.md)
 - [World's Best Dad](/playlists/pretty/37i9dQZF1DX3XHbM3c2ftZ.md)
+- [Worldly](/playlists/pretty/3a5epFDyqVvoo5wLyldV9d.md)
 - [Worship 2023](/playlists/pretty/61xuizm8At6DCwGHJZTmB7.md)
 - [Worship Wednesdays](/playlists/pretty/37i9dQZF1DWZ4eoHSGpAXu.md)
 - [WorshipNow](/playlists/pretty/37i9dQZF1DWVYgpMbMPJMz.md)
