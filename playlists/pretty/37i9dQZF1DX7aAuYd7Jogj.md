@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7aAuYd7Jogj.md) - [plain]
 
 > Música ambiental para un sueño profundo.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,769,012 likes - 301 songs - 14 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,769,305 likes - 301 songs - 14 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,7 +30,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7aAuYd7Jogj.md) - [plain]
 | 20 | [Before The Full Moon](https://open.spotify.com/track/6f9yi7FErSjPN4hWCJURLq) | [Isah Atkins](https://open.spotify.com/artist/6Cus1UHddFX9FPj4CoBEK4) | [Before The Full Moon.](https://open.spotify.com/album/1oRxGgmdb4IrBsbKEbU0Qf) | 3:18 |
 | 21 | [Liquid Rainbow](https://open.spotify.com/track/3ex8tsDC5KYifvmmoxc3il) | [Santana Ruiz](https://open.spotify.com/artist/3OswQADkQvdWSqFtNH2YqQ) | [Liquid Rainbow](https://open.spotify.com/album/0w6ObU4TyxzkVQNEHWd1JK) | 3:28 |
 | 22 | [Szeretet](https://open.spotify.com/track/2DSwyVUVFR80p19iJe1q3G) | [Csaba Vitez](https://open.spotify.com/artist/1DSUjK31Vgu7ejMVSxhJfL) | [Szeretet](https://open.spotify.com/album/1zKgegS1nwzcAR0mW1ACHZ) | 3:01 |
-| 23 | [Promised](https://open.spotify.com/track/1fSln3JhzB7Asdi83JTvPa) | [Macroix](https://open.spotify.com/artist/2HZBmRJ4fqmsOnYuhnn16Q) | [Promised](https://open.spotify.com/album/1kTofA1YT3X06ZU94dXJhN) | 2:33 |
+| 23 | [Promised](https://open.spotify.com/track/1fSln3JhzB7Asdi83JTvPa) | [Macroix](https://open.spotify.com/artist/3ooxJFdCXxyk6heox7EOPV) | [Promised](https://open.spotify.com/album/1kTofA1YT3X06ZU94dXJhN) | 2:33 |
 | 24 | [After Dark Ram](https://open.spotify.com/track/08CEcXp5nqHcv4d72cGJW3) | [Malviti](https://open.spotify.com/artist/7vJXWasyMwsr0wU5akcu2x) | [After Dark Ram](https://open.spotify.com/album/5rto44fN3emc6lQcC1KxOc) | 2:43 |
 | 25 | [Prosperum](https://open.spotify.com/track/1qoWYQ6l3g4b7D6eJhzkjt) | [Yara Blom](https://open.spotify.com/artist/45MwI8cnjr9zaf9BKwfoKr) | [Prosperum](https://open.spotify.com/album/3RKzmtRaGOKBt0Fn53r3au) | 2:40 |
 | 26 | [I Believe I Can Fly](https://open.spotify.com/track/6BLpFHyW0XELB7qh45o6cI) | [Cosmic Cloak](https://open.spotify.com/artist/2oQleEdjzH9yC8cfsR8e8j) | [Floating On Clouds](https://open.spotify.com/album/5blLnf493gd6RQGPreukch) | 3:14 |
@@ -310,4 +310,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7aAuYd7Jogj.md) - [plain]
 | 300 | [Soft Night](https://open.spotify.com/track/5hAsWMGQXBjDjYMoIlP9Ak) | [Elskavon](https://open.spotify.com/artist/5vDfVxwAH8ANpuIKKxfOeq) | [Traditions & Traitors](https://open.spotify.com/album/2exRntMmxw6A5AQoNiIG3f) | 2:35 |
 | 301 | [Ruhig](https://open.spotify.com/track/3zElUjNtIsgfRmC0r7ETgB) | [Phillipp Vogler](https://open.spotify.com/artist/2ocNI6hLYU6rqq6TT4YzNY) | [Ruhig](https://open.spotify.com/album/5Qon2Hkc9b73ZkWBfnYXYC) | 2:46 |
 
-Snapshot ID: `MCw2N2M4N2JjYTg3MDE2NGJjZDhhZTlkMTNmMGY2ZDRkMDQxODdlNDA2`
+Snapshot ID: `MCw3NmZmYzIxMWUxZjMxMzk0YjAxMzY5NDgxYzZlMmQ0ZDQ2YWUyOTdi`

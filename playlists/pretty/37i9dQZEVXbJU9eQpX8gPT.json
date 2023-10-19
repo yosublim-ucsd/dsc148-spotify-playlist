@@ -1,15 +1,15 @@
 {
   "description": "Your daily update of the most played tracks right now - Morocco.",
-  "num_followers": 44900,
+  "num_followers": 44945,
   "original_name": "Top 50 - Morocco",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "NzUwOTA3MjAwLDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDY1NmU=",
+  "snapshot_id": "NzUwOTkzNjAwLDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDY1NmU=",
   "tracks": [
     {
-      "added_at": "2023-10-17 08:54:25",
+      "added_at": "2023-10-18 09:31:39",
       "album": {
         "name": "3DABI",
         "url": "https://open.spotify.com/album/08ZFlBocogt3UFTyEN7Ob4"
@@ -25,7 +25,7 @@
       "url": "https://open.spotify.com/track/0e6eVGeec6asBnmE4gTYqA"
     },
     {
-      "added_at": "2023-10-17 08:54:25",
+      "added_at": "2023-10-18 09:31:39",
       "album": {
         "name": "ZIGZAG",
         "url": "https://open.spotify.com/album/00AGiSuiFx3kmEIbj0ENeK"
@@ -41,7 +41,7 @@
       "url": "https://open.spotify.com/track/2Pn4RjpmuYRMJTXWzTonXn"
     },
     {
-      "added_at": "2023-10-17 08:54:25",
+      "added_at": "2023-10-18 09:31:39",
       "album": {
         "name": "Dawk Lya",
         "url": "https://open.spotify.com/album/4vbm2Tj7L5fbzD1q5MmFrP"
@@ -57,43 +57,7 @@
       "url": "https://open.spotify.com/track/5OInx13SpghEifbS5bQmwq"
     },
     {
-      "added_at": "2023-10-17 08:54:25",
-      "album": {
-        "name": "Seven (feat. Latto)",
-        "url": "https://open.spotify.com/album/53985D8g3JcGBoULSOYYKX"
-      },
-      "artists": [
-        {
-          "name": "Jung Kook",
-          "url": "https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc"
-        },
-        {
-          "name": "Latto",
-          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
-        }
-      ],
-      "duration_ms": 184400,
-      "name": "Seven (feat. Latto) (Explicit Ver.)",
-      "url": "https://open.spotify.com/track/7x9aauaA9cu6tyfpHnqDLo"
-    },
-    {
-      "added_at": "2023-10-17 08:54:25",
-      "album": {
-        "name": "\u0645\u0627\u0645\u0627",
-        "url": "https://open.spotify.com/album/3o1uJGm5FWz1nZThS1xB8o"
-      },
-      "artists": [
-        {
-          "name": "Inkonnu",
-          "url": "https://open.spotify.com/artist/7ggM69yllqpMykcU8Tror4"
-        }
-      ],
-      "duration_ms": 226720,
-      "name": "\u0645\u0627\u0645\u0627",
-      "url": "https://open.spotify.com/track/02JOIeE385aLgrUrMvOjGh"
-    },
-    {
-      "added_at": "2023-10-17 08:54:25",
+      "added_at": "2023-10-18 09:31:39",
       "album": {
         "name": "LES DERNI\u00c8RES VOLONT\u00c9S DE MOZART (SYMPHONY)",
         "url": "https://open.spotify.com/album/3zIRFFMBelYsHN0ksstyWU"
@@ -117,7 +81,43 @@
       "url": "https://open.spotify.com/track/6JI15EdgbGuhUjm4tWyIco"
     },
     {
-      "added_at": "2023-10-17 08:54:25",
+      "added_at": "2023-10-18 09:31:39",
+      "album": {
+        "name": "\u0645\u0627\u0645\u0627",
+        "url": "https://open.spotify.com/album/3o1uJGm5FWz1nZThS1xB8o"
+      },
+      "artists": [
+        {
+          "name": "Inkonnu",
+          "url": "https://open.spotify.com/artist/7ggM69yllqpMykcU8Tror4"
+        }
+      ],
+      "duration_ms": 226720,
+      "name": "\u0645\u0627\u0645\u0627",
+      "url": "https://open.spotify.com/track/02JOIeE385aLgrUrMvOjGh"
+    },
+    {
+      "added_at": "2023-10-18 09:31:39",
+      "album": {
+        "name": "Seven (feat. Latto)",
+        "url": "https://open.spotify.com/album/53985D8g3JcGBoULSOYYKX"
+      },
+      "artists": [
+        {
+          "name": "Jung Kook",
+          "url": "https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc"
+        },
+        {
+          "name": "Latto",
+          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
+        }
+      ],
+      "duration_ms": 184400,
+      "name": "Seven (feat. Latto) (Explicit Ver.)",
+      "url": "https://open.spotify.com/track/7x9aauaA9cu6tyfpHnqDLo"
+    },
+    {
+      "added_at": "2023-10-18 09:31:39",
       "album": {
         "name": "Zarzour",
         "url": "https://open.spotify.com/album/49KXJUuZOIXZSi79qEP1Pe"
@@ -133,23 +133,7 @@
       "url": "https://open.spotify.com/track/7t4XOS9MpF1pC0OBLnMiDy"
     },
     {
-      "added_at": "2023-10-17 08:54:25",
-      "album": {
-        "name": "KIF KIF",
-        "url": "https://open.spotify.com/album/7DeGLtJG2R45QJrHW1NLLF"
-      },
-      "artists": [
-        {
-          "name": "Lbenj",
-          "url": "https://open.spotify.com/artist/1H0D7p5aN8tGG8DPLt0Nbv"
-        }
-      ],
-      "duration_ms": 227826,
-      "name": "KIF KIF",
-      "url": "https://open.spotify.com/track/23iRPid7TsITfNxKGL0toM"
-    },
-    {
-      "added_at": "2023-10-17 08:54:25",
+      "added_at": "2023-10-18 09:31:39",
       "album": {
         "name": "Layover",
         "url": "https://open.spotify.com/album/1ZBDI1LqnuAKdrePUF2D5m"
@@ -165,7 +149,23 @@
       "url": "https://open.spotify.com/track/2N0SPREDYqILVEFSsWF5N5"
     },
     {
-      "added_at": "2023-10-17 08:54:25",
+      "added_at": "2023-10-18 09:31:39",
+      "album": {
+        "name": "KIF KIF",
+        "url": "https://open.spotify.com/album/7DeGLtJG2R45QJrHW1NLLF"
+      },
+      "artists": [
+        {
+          "name": "Lbenj",
+          "url": "https://open.spotify.com/artist/1H0D7p5aN8tGG8DPLt0Nbv"
+        }
+      ],
+      "duration_ms": 227826,
+      "name": "KIF KIF",
+      "url": "https://open.spotify.com/track/23iRPid7TsITfNxKGL0toM"
+    },
+    {
+      "added_at": "2023-10-18 09:31:39",
       "album": {
         "name": "Still Alive",
         "url": "https://open.spotify.com/album/2cIgCkVC96J85POryxlhZc"
@@ -181,23 +181,7 @@
       "url": "https://open.spotify.com/track/0RNLOJuaBDGzg7oS4qS8OT"
     },
     {
-      "added_at": "2023-10-17 08:54:25",
-      "album": {
-        "name": "7YATI",
-        "url": "https://open.spotify.com/album/6jeqpxMp1ODiZ6hdZXpeGk"
-      },
-      "artists": [
-        {
-          "name": "Ridouane.officiel1",
-          "url": "https://open.spotify.com/artist/6CWdfBwZpsPKVYzIZucTKG"
-        }
-      ],
-      "duration_ms": 155037,
-      "name": "7YATI",
-      "url": "https://open.spotify.com/track/2P9o39lTzv5Ot1rmRaVMrs"
-    },
-    {
-      "added_at": "2023-10-17 08:54:25",
+      "added_at": "2023-10-18 09:31:39",
       "album": {
         "name": "Taulier",
         "url": "https://open.spotify.com/album/2mcTAfultyCrXKx1IE1XQZ"
@@ -217,23 +201,7 @@
       "url": "https://open.spotify.com/track/3ejjmzEsUfObGdmmQRVmM2"
     },
     {
-      "added_at": "2023-10-17 08:54:25",
-      "album": {
-        "name": "Rmadi",
-        "url": "https://open.spotify.com/album/0nRgtWj4KcY9ZMSWepds3P"
-      },
-      "artists": [
-        {
-          "name": "Muslim",
-          "url": "https://open.spotify.com/artist/6eQdvOOIyiwu6kfzdbUnxU"
-        }
-      ],
-      "duration_ms": 228559,
-      "name": "Rmadi",
-      "url": "https://open.spotify.com/track/0muYqG3zcO7STxOBSErQ7s"
-    },
-    {
-      "added_at": "2023-10-17 08:54:25",
+      "added_at": "2023-10-18 09:31:39",
       "album": {
         "name": "Talet Lghiba",
         "url": "https://open.spotify.com/album/27Kol8rD0EJsQsrkE7A0mJ"
@@ -249,27 +217,7 @@
       "url": "https://open.spotify.com/track/6vEtT2Vu5MprdI69pATbLm"
     },
     {
-      "added_at": "2023-10-17 08:54:25",
-      "album": {
-        "name": "Reinsertado",
-        "url": "https://open.spotify.com/album/6h5tdNdOnnFL6zbeMeeqdk"
-      },
-      "artists": [
-        {
-          "name": "Morad",
-          "url": "https://open.spotify.com/artist/4az97MtWmBQ5Db3GfDh9j9"
-        },
-        {
-          "name": "Jul",
-          "url": "https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy"
-        }
-      ],
-      "duration_ms": 259627,
-      "name": "Se Grita",
-      "url": "https://open.spotify.com/track/55Q180Og5mkW2XeGPjB7yn"
-    },
-    {
-      "added_at": "2023-10-17 08:54:25",
+      "added_at": "2023-10-18 09:31:39",
       "album": {
         "name": "INNOCENTE (Deluxe Edition)",
         "url": "https://open.spotify.com/album/2YFcUMTsjVjOx4tdp3MmH3"
@@ -289,7 +237,59 @@
       "url": "https://open.spotify.com/track/0r8Pe1yr2aw04IXFP00sC5"
     },
     {
-      "added_at": "2023-10-17 08:54:25",
+      "added_at": "2023-10-18 09:31:39",
+      "album": {
+        "name": "Rmadi",
+        "url": "https://open.spotify.com/album/0nRgtWj4KcY9ZMSWepds3P"
+      },
+      "artists": [
+        {
+          "name": "Muslim",
+          "url": "https://open.spotify.com/artist/6eQdvOOIyiwu6kfzdbUnxU"
+        }
+      ],
+      "duration_ms": 228559,
+      "name": "Rmadi",
+      "url": "https://open.spotify.com/track/0muYqG3zcO7STxOBSErQ7s"
+    },
+    {
+      "added_at": "2023-10-18 09:31:39",
+      "album": {
+        "name": "Hyati",
+        "url": "https://open.spotify.com/album/4YwFCbGREEY27uNJ7nxTEN"
+      },
+      "artists": [
+        {
+          "name": "Duke",
+          "url": "https://open.spotify.com/artist/6JLJjTC6pSfJousfGwdn6r"
+        }
+      ],
+      "duration_ms": 155280,
+      "name": "Hyati",
+      "url": "https://open.spotify.com/track/1bsoYydWFNmocIOD2eeWI5"
+    },
+    {
+      "added_at": "2023-10-18 09:31:39",
+      "album": {
+        "name": "Reinsertado",
+        "url": "https://open.spotify.com/album/6h5tdNdOnnFL6zbeMeeqdk"
+      },
+      "artists": [
+        {
+          "name": "Morad",
+          "url": "https://open.spotify.com/artist/4az97MtWmBQ5Db3GfDh9j9"
+        },
+        {
+          "name": "Jul",
+          "url": "https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy"
+        }
+      ],
+      "duration_ms": 259627,
+      "name": "Se Grita",
+      "url": "https://open.spotify.com/track/55Q180Og5mkW2XeGPjB7yn"
+    },
+    {
+      "added_at": "2023-10-18 09:31:39",
       "album": {
         "name": "Abala Ya Bali",
         "url": "https://open.spotify.com/album/50QN0SwbM2iAa5DylaLYN1"
@@ -305,51 +305,23 @@
       "url": "https://open.spotify.com/track/2a1dUbvOaZw7vrHNanpi3r"
     },
     {
-      "added_at": "2023-10-17 08:54:25",
+      "added_at": "2023-10-18 09:31:39",
       "album": {
-        "name": "3D : The Remixes",
-        "url": "https://open.spotify.com/album/0fJ0beklzFwoBv01U8792s"
+        "name": "Lovini",
+        "url": "https://open.spotify.com/album/6KACjn7mgZ0TKE154UZEES"
       },
       "artists": [
         {
-          "name": "Jung Kook",
-          "url": "https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc"
-        },
-        {
-          "name": "Jack Harlow",
-          "url": "https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ"
+          "name": "Mons",
+          "url": "https://open.spotify.com/artist/7douYKOyzk9ZRvGFu9UOnm"
         }
       ],
-      "duration_ms": 201812,
-      "name": "3D (feat. Jack Harlow)",
-      "url": "https://open.spotify.com/track/01qFKNWq73UfEslI0GvumE"
+      "duration_ms": 189692,
+      "name": "Lovini",
+      "url": "https://open.spotify.com/track/7f783hK2ilf4bwfayaNvdB"
     },
     {
-      "added_at": "2023-10-17 08:54:25",
-      "album": {
-        "name": "Chouwafat",
-        "url": "https://open.spotify.com/album/3h7c3KmNTk1OTdLEhKLBlp"
-      },
-      "artists": [
-        {
-          "name": "Houssainy",
-          "url": "https://open.spotify.com/artist/0Vd0wj4JUTJ6M4ts8Xhpko"
-        },
-        {
-          "name": "Mocci",
-          "url": "https://open.spotify.com/artist/14u942JWc8Zz1O9M4z2WO1"
-        },
-        {
-          "name": "kouz1",
-          "url": "https://open.spotify.com/artist/3siTsIx6IEreSUva7pVnZ8"
-        }
-      ],
-      "duration_ms": 204444,
-      "name": "Chouwafat",
-      "url": "https://open.spotify.com/track/6Ncxu0CAuY2C1WEZJFdMMk"
-    },
-    {
-      "added_at": "2023-10-17 08:54:25",
+      "added_at": "2023-10-18 09:31:39",
       "album": {
         "name": "Y Dor",
         "url": "https://open.spotify.com/album/5qfEAZy6hAgoH7uexHM8vR"
@@ -373,23 +345,23 @@
       "url": "https://open.spotify.com/track/4m4MwgqsswdG67P8SsQEii"
     },
     {
-      "added_at": "2023-10-17 08:54:25",
+      "added_at": "2023-10-18 09:31:39",
       "album": {
-        "name": "Lovini",
-        "url": "https://open.spotify.com/album/6KACjn7mgZ0TKE154UZEES"
+        "name": "SME3NI",
+        "url": "https://open.spotify.com/album/1rkTH3xM85MYdRXI9FDRGb"
       },
       "artists": [
         {
-          "name": "Mons",
-          "url": "https://open.spotify.com/artist/7douYKOyzk9ZRvGFu9UOnm"
+          "name": "Bo9al",
+          "url": "https://open.spotify.com/artist/0DF2Pcrc3dY80zqbmgKHCF"
         }
       ],
-      "duration_ms": 189692,
-      "name": "Lovini",
-      "url": "https://open.spotify.com/track/7f783hK2ilf4bwfayaNvdB"
+      "duration_ms": 182961,
+      "name": "SME3NI",
+      "url": "https://open.spotify.com/track/5ovEmtHmbmWmmN1jeoJAyP"
     },
     {
-      "added_at": "2023-10-17 08:54:25",
+      "added_at": "2023-10-18 09:31:39",
       "album": {
         "name": "Casanova",
         "url": "https://open.spotify.com/album/2m57s4b2rbxphb86w4LeeA"
@@ -409,23 +381,31 @@
       "url": "https://open.spotify.com/track/30D9x5LFgL2o9xidjX2wtE"
     },
     {
-      "added_at": "2023-10-17 08:54:25",
+      "added_at": "2023-10-18 09:31:39",
       "album": {
-        "name": "SME3NI",
-        "url": "https://open.spotify.com/album/1rkTH3xM85MYdRXI9FDRGb"
+        "name": "Chouwafat",
+        "url": "https://open.spotify.com/album/3h7c3KmNTk1OTdLEhKLBlp"
       },
       "artists": [
         {
-          "name": "Bo9al",
-          "url": "https://open.spotify.com/artist/0DF2Pcrc3dY80zqbmgKHCF"
+          "name": "Houssainy",
+          "url": "https://open.spotify.com/artist/0Vd0wj4JUTJ6M4ts8Xhpko"
+        },
+        {
+          "name": "Mocci",
+          "url": "https://open.spotify.com/artist/14u942JWc8Zz1O9M4z2WO1"
+        },
+        {
+          "name": "kouz1",
+          "url": "https://open.spotify.com/artist/3siTsIx6IEreSUva7pVnZ8"
         }
       ],
-      "duration_ms": 182961,
-      "name": "SME3NI",
-      "url": "https://open.spotify.com/track/5ovEmtHmbmWmmN1jeoJAyP"
+      "duration_ms": 204444,
+      "name": "Chouwafat",
+      "url": "https://open.spotify.com/track/6Ncxu0CAuY2C1WEZJFdMMk"
     },
     {
-      "added_at": "2023-10-17 08:54:25",
+      "added_at": "2023-10-18 09:31:39",
       "album": {
         "name": "WILI",
         "url": "https://open.spotify.com/album/1P0sKxBEPJqOiXTAUbu9f1"
@@ -441,7 +421,39 @@
       "url": "https://open.spotify.com/track/7AM2uga26rlhKu1a27MyFS"
     },
     {
-      "added_at": "2023-10-17 08:54:25",
+      "added_at": "2023-10-18 09:31:39",
+      "album": {
+        "name": "ZOK",
+        "url": "https://open.spotify.com/album/0OcUHEVDLg623PN70lnoxb"
+      },
+      "artists": [
+        {
+          "name": "Bo9al",
+          "url": "https://open.spotify.com/artist/0DF2Pcrc3dY80zqbmgKHCF"
+        }
+      ],
+      "duration_ms": 183878,
+      "name": "ZOK",
+      "url": "https://open.spotify.com/track/3loxaMcGfCeycbksSzhShU"
+    },
+    {
+      "added_at": "2023-10-18 09:31:39",
+      "album": {
+        "name": "BREDA",
+        "url": "https://open.spotify.com/album/6tuj2U86XeDObr6qayHusm"
+      },
+      "artists": [
+        {
+          "name": "Inkonnu",
+          "url": "https://open.spotify.com/artist/7ggM69yllqpMykcU8Tror4"
+        }
+      ],
+      "duration_ms": 112000,
+      "name": "BREDA",
+      "url": "https://open.spotify.com/track/6mKrkIikIDiBRC9ZqjbeNl"
+    },
+    {
+      "added_at": "2023-10-18 09:31:39",
       "album": {
         "name": "DELINQUENTE",
         "url": "https://open.spotify.com/album/2wcLZ4N9hLO19PXpmZFWNh"
@@ -465,39 +477,27 @@
       "url": "https://open.spotify.com/track/3n348I4uE5GZ3tprVdqzPO"
     },
     {
-      "added_at": "2023-10-17 08:54:25",
+      "added_at": "2023-10-18 09:31:39",
       "album": {
-        "name": "ZOK",
-        "url": "https://open.spotify.com/album/0OcUHEVDLg623PN70lnoxb"
+        "name": "3D : The Remixes",
+        "url": "https://open.spotify.com/album/0fJ0beklzFwoBv01U8792s"
       },
       "artists": [
         {
-          "name": "Bo9al",
-          "url": "https://open.spotify.com/artist/0DF2Pcrc3dY80zqbmgKHCF"
-        }
-      ],
-      "duration_ms": 183878,
-      "name": "ZOK",
-      "url": "https://open.spotify.com/track/3loxaMcGfCeycbksSzhShU"
-    },
-    {
-      "added_at": "2023-10-17 08:54:25",
-      "album": {
-        "name": "BREDA",
-        "url": "https://open.spotify.com/album/6tuj2U86XeDObr6qayHusm"
-      },
-      "artists": [
+          "name": "Jung Kook",
+          "url": "https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc"
+        },
         {
-          "name": "Inkonnu",
-          "url": "https://open.spotify.com/artist/7ggM69yllqpMykcU8Tror4"
+          "name": "Jack Harlow",
+          "url": "https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ"
         }
       ],
-      "duration_ms": 112000,
-      "name": "BREDA",
-      "url": "https://open.spotify.com/track/6mKrkIikIDiBRC9ZqjbeNl"
+      "duration_ms": 201812,
+      "name": "3D (feat. Jack Harlow)",
+      "url": "https://open.spotify.com/track/01qFKNWq73UfEslI0GvumE"
     },
     {
-      "added_at": "2023-10-17 08:54:25",
+      "added_at": "2023-10-18 09:31:39",
       "album": {
         "name": "Galbi Khasah Molah",
         "url": "https://open.spotify.com/album/3SPNmQhrvYytlwGUYhZ0KT"
@@ -513,23 +513,7 @@
       "url": "https://open.spotify.com/track/1sKCCDynLxGhHesdlLGT7s"
     },
     {
-      "added_at": "2023-10-17 08:54:25",
-      "album": {
-        "name": "\u0664in",
-        "url": "https://open.spotify.com/album/0JtymU6pdB083UYEXKwOS9"
-      },
-      "artists": [
-        {
-          "name": "Don Bigg",
-          "url": "https://open.spotify.com/artist/4h4gnapBHEWZMVzjeZ2Ywl"
-        }
-      ],
-      "duration_ms": 228518,
-      "name": "Arahmini",
-      "url": "https://open.spotify.com/track/4TCs0LTzW2xaW7SFeFDY7K"
-    },
-    {
-      "added_at": "2023-10-17 08:54:25",
+      "added_at": "2023-10-18 09:31:39",
       "album": {
         "name": "Si No Est\u00e1s",
         "url": "https://open.spotify.com/album/66k6EGkPtYoN44anGIsEPW"
@@ -545,7 +529,23 @@
       "url": "https://open.spotify.com/track/2HafqoJbgXdtjwCOvNEF14"
     },
     {
-      "added_at": "2023-10-17 08:54:25",
+      "added_at": "2023-10-18 09:31:39",
+      "album": {
+        "name": "\u0664in",
+        "url": "https://open.spotify.com/album/0JtymU6pdB083UYEXKwOS9"
+      },
+      "artists": [
+        {
+          "name": "Don Bigg",
+          "url": "https://open.spotify.com/artist/4h4gnapBHEWZMVzjeZ2Ywl"
+        }
+      ],
+      "duration_ms": 228518,
+      "name": "Arahmini",
+      "url": "https://open.spotify.com/track/4TCs0LTzW2xaW7SFeFDY7K"
+    },
+    {
+      "added_at": "2023-10-18 09:31:39",
       "album": {
         "name": "AJI TCHOUF",
         "url": "https://open.spotify.com/album/3QcLNHlCktUOE2d2QknP8K"
@@ -565,127 +565,7 @@
       "url": "https://open.spotify.com/track/75DWIaOCmyEP7licOYs9pl"
     },
     {
-      "added_at": "2023-10-17 08:54:25",
-      "album": {
-        "name": "Reinsertado",
-        "url": "https://open.spotify.com/album/6h5tdNdOnnFL6zbeMeeqdk"
-      },
-      "artists": [
-        {
-          "name": "Morad",
-          "url": "https://open.spotify.com/artist/4az97MtWmBQ5Db3GfDh9j9"
-        },
-        {
-          "name": "ElGrandeToto",
-          "url": "https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx"
-        }
-      ],
-      "duration_ms": 191615,
-      "name": "Ojos Sin Ver",
-      "url": "https://open.spotify.com/track/3l7ixTpHmRxjjH05OnWY6f"
-    },
-    {
-      "added_at": "2023-10-17 08:54:25",
-      "album": {
-        "name": "LAYALI",
-        "url": "https://open.spotify.com/album/6pgfUVqynLc5hZ0HyozHKp"
-      },
-      "artists": [
-        {
-          "name": "DYSTINCT",
-          "url": "https://open.spotify.com/artist/1cKyknhftNKXCjMBd2hDrG"
-        },
-        {
-          "name": "Naza",
-          "url": "https://open.spotify.com/artist/7xNYY1Zkb1vks5m9ATlJok"
-        }
-      ],
-      "duration_ms": 170435,
-      "name": "Business (feat. Naza)",
-      "url": "https://open.spotify.com/track/2Qzt61URbXBb9N2MSVDoDv"
-    },
-    {
-      "added_at": "2023-10-17 08:54:25",
-      "album": {
-        "name": "Strangers",
-        "url": "https://open.spotify.com/album/18ogtNq9F7DmMkNYO6Xb4k"
-      },
-      "artists": [
-        {
-          "name": "Kenya Grace",
-          "url": "https://open.spotify.com/artist/7uMDnSZyUYNBPLhPMNuaM2"
-        }
-      ],
-      "duration_ms": 172964,
-      "name": "Strangers",
-      "url": "https://open.spotify.com/track/5mjYQaktjmjcMKcUIcqz4s"
-    },
-    {
-      "added_at": "2023-10-17 08:54:25",
-      "album": {
-        "name": "Layover",
-        "url": "https://open.spotify.com/album/7ixOAT89NSsgUITYc5ByB5"
-      },
-      "artists": [
-        {
-          "name": "V",
-          "url": "https://open.spotify.com/artist/3JsHnjpbhX4SnySpvpa9DK"
-        }
-      ],
-      "duration_ms": 187026,
-      "name": "Slow Dancing",
-      "url": "https://open.spotify.com/track/5h1BN75CEh8wdSwE1xrbSe"
-    },
-    {
-      "added_at": "2023-10-17 08:54:25",
-      "album": {
-        "name": "greedy",
-        "url": "https://open.spotify.com/album/5TCVikuC7Npt0WOOWGxLs9"
-      },
-      "artists": [
-        {
-          "name": "Tate McRae",
-          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
-        }
-      ],
-      "duration_ms": 131872,
-      "name": "greedy",
-      "url": "https://open.spotify.com/track/1reEeZH9wNt4z1ePYLyC7p"
-    },
-    {
-      "added_at": "2023-10-17 08:54:25",
-      "album": {
-        "name": "Omri",
-        "url": "https://open.spotify.com/album/0SugmLl21ELoSvkZN3v3rp"
-      },
-      "artists": [
-        {
-          "name": "Hassa1",
-          "url": "https://open.spotify.com/artist/6g4L5CJkiMINgAzUQsb7fr"
-        }
-      ],
-      "duration_ms": 225230,
-      "name": "Omri",
-      "url": "https://open.spotify.com/track/4EwhShRVqFuVTdqPKM5yoj"
-    },
-    {
-      "added_at": "2023-10-17 08:54:25",
-      "album": {
-        "name": "Khssara",
-        "url": "https://open.spotify.com/album/46ePq8td3sKropIMIV3ahj"
-      },
-      "artists": [
-        {
-          "name": "Duke",
-          "url": "https://open.spotify.com/artist/6JLJjTC6pSfJousfGwdn6r"
-        }
-      ],
-      "duration_ms": 152590,
-      "name": "Khssara",
-      "url": "https://open.spotify.com/track/1GDHRaUxihjkGMFESApltm"
-    },
-    {
-      "added_at": "2023-10-17 08:54:25",
+      "added_at": "2023-10-18 09:31:39",
       "album": {
         "name": "Si tu savais",
         "url": "https://open.spotify.com/album/4eJ1pf1NnVRxCUu2sgasiC"
@@ -705,7 +585,91 @@
       "url": "https://open.spotify.com/track/2XoeD3lix5eVNEa40ZFtHW"
     },
     {
-      "added_at": "2023-10-17 08:54:25",
+      "added_at": "2023-10-18 09:31:39",
+      "album": {
+        "name": "Khssara",
+        "url": "https://open.spotify.com/album/46ePq8td3sKropIMIV3ahj"
+      },
+      "artists": [
+        {
+          "name": "Duke",
+          "url": "https://open.spotify.com/artist/6JLJjTC6pSfJousfGwdn6r"
+        }
+      ],
+      "duration_ms": 152590,
+      "name": "Khssara",
+      "url": "https://open.spotify.com/track/1GDHRaUxihjkGMFESApltm"
+    },
+    {
+      "added_at": "2023-10-18 09:31:39",
+      "album": {
+        "name": "Layover",
+        "url": "https://open.spotify.com/album/7ixOAT89NSsgUITYc5ByB5"
+      },
+      "artists": [
+        {
+          "name": "V",
+          "url": "https://open.spotify.com/artist/3JsHnjpbhX4SnySpvpa9DK"
+        }
+      ],
+      "duration_ms": 187026,
+      "name": "Slow Dancing",
+      "url": "https://open.spotify.com/track/5h1BN75CEh8wdSwE1xrbSe"
+    },
+    {
+      "added_at": "2023-10-18 09:31:39",
+      "album": {
+        "name": "Omri",
+        "url": "https://open.spotify.com/album/0SugmLl21ELoSvkZN3v3rp"
+      },
+      "artists": [
+        {
+          "name": "Hassa1",
+          "url": "https://open.spotify.com/artist/6g4L5CJkiMINgAzUQsb7fr"
+        }
+      ],
+      "duration_ms": 225230,
+      "name": "Omri",
+      "url": "https://open.spotify.com/track/4EwhShRVqFuVTdqPKM5yoj"
+    },
+    {
+      "added_at": "2023-10-18 09:31:39",
+      "album": {
+        "name": "LAYALI",
+        "url": "https://open.spotify.com/album/6pgfUVqynLc5hZ0HyozHKp"
+      },
+      "artists": [
+        {
+          "name": "DYSTINCT",
+          "url": "https://open.spotify.com/artist/1cKyknhftNKXCjMBd2hDrG"
+        },
+        {
+          "name": "Naza",
+          "url": "https://open.spotify.com/artist/7xNYY1Zkb1vks5m9ATlJok"
+        }
+      ],
+      "duration_ms": 170435,
+      "name": "Business (feat. Naza)",
+      "url": "https://open.spotify.com/track/2Qzt61URbXBb9N2MSVDoDv"
+    },
+    {
+      "added_at": "2023-10-18 09:31:39",
+      "album": {
+        "name": "Strangers",
+        "url": "https://open.spotify.com/album/18ogtNq9F7DmMkNYO6Xb4k"
+      },
+      "artists": [
+        {
+          "name": "Kenya Grace",
+          "url": "https://open.spotify.com/artist/7uMDnSZyUYNBPLhPMNuaM2"
+        }
+      ],
+      "duration_ms": 172964,
+      "name": "Strangers",
+      "url": "https://open.spotify.com/track/5mjYQaktjmjcMKcUIcqz4s"
+    },
+    {
+      "added_at": "2023-10-18 09:31:39",
       "album": {
         "name": "AFROBOY",
         "url": "https://open.spotify.com/album/1kjMaJivlo6PglDSbF9gK1"
@@ -721,7 +685,7 @@
       "url": "https://open.spotify.com/track/5zgOQGcG0oTDUQVc45q1BY"
     },
     {
-      "added_at": "2023-10-17 08:54:25",
+      "added_at": "2023-10-18 09:31:39",
       "album": {
         "name": "Gueule tap\u00e9e",
         "url": "https://open.spotify.com/album/1yfFlOQRzc88m1ba79InmM"
@@ -737,23 +701,43 @@
       "url": "https://open.spotify.com/track/6h8Q07MtQBabHOjObg1a57"
     },
     {
-      "added_at": "2023-10-17 08:54:25",
+      "added_at": "2023-10-18 09:31:39",
       "album": {
-        "name": "Scarlet",
-        "url": "https://open.spotify.com/album/1bBez9PNvkJPW08bU7NYta"
+        "name": "Reinsertado",
+        "url": "https://open.spotify.com/album/6h5tdNdOnnFL6zbeMeeqdk"
       },
       "artists": [
         {
-          "name": "Doja Cat",
-          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
+          "name": "Morad",
+          "url": "https://open.spotify.com/artist/4az97MtWmBQ5Db3GfDh9j9"
+        },
+        {
+          "name": "ElGrandeToto",
+          "url": "https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx"
         }
       ],
-      "duration_ms": 230480,
-      "name": "Paint The Town Red",
-      "url": "https://open.spotify.com/track/56y1jOTK0XSvJzVv9vHQBK"
+      "duration_ms": 191615,
+      "name": "Ojos Sin Ver",
+      "url": "https://open.spotify.com/track/3l7ixTpHmRxjjH05OnWY6f"
     },
     {
-      "added_at": "2023-10-17 08:54:25",
+      "added_at": "2023-10-18 09:31:39",
+      "album": {
+        "name": "greedy",
+        "url": "https://open.spotify.com/album/3UOV8XvCwMKaATRNXrYCjN"
+      },
+      "artists": [
+        {
+          "name": "Tate McRae",
+          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
+        }
+      ],
+      "duration_ms": 131872,
+      "name": "greedy",
+      "url": "https://open.spotify.com/track/3rUGC1vUpkDG9CZFHMur1t"
+    },
+    {
+      "added_at": "2023-10-18 09:31:39",
       "album": {
         "name": "1.6",
         "url": "https://open.spotify.com/album/69fpQmOdzFUjoEuGlk3HPf"
@@ -764,12 +748,12 @@
           "url": "https://open.spotify.com/artist/2NgTPluNpfsoYZnoeU2VsH"
         }
       ],
-      "duration_ms": 175304,
-      "name": "HINATA",
-      "url": "https://open.spotify.com/track/1TJyY6XPwaprBSFT2owEG6"
+      "duration_ms": 167747,
+      "name": "SHADOW BOXING",
+      "url": "https://open.spotify.com/track/2TqUQbVg1bgahl09szanuE"
     },
     {
-      "added_at": "2023-10-17 08:54:25",
+      "added_at": "2023-10-18 09:31:39",
       "album": {
         "name": "Nari",
         "url": "https://open.spotify.com/album/6UgGtOl72xC85rwXa8tZy5"
@@ -785,7 +769,55 @@
       "url": "https://open.spotify.com/track/1uApa4g1Fr87F4IAC2Xgc2"
     },
     {
-      "added_at": "2023-10-17 08:54:25",
+      "added_at": "2023-10-18 09:31:39",
+      "album": {
+        "name": "Scarlet",
+        "url": "https://open.spotify.com/album/1bBez9PNvkJPW08bU7NYta"
+      },
+      "artists": [
+        {
+          "name": "Doja Cat",
+          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
+        }
+      ],
+      "duration_ms": 230480,
+      "name": "Paint The Town Red",
+      "url": "https://open.spotify.com/track/56y1jOTK0XSvJzVv9vHQBK"
+    },
+    {
+      "added_at": "2023-10-18 09:31:39",
+      "album": {
+        "name": "1.6",
+        "url": "https://open.spotify.com/album/69fpQmOdzFUjoEuGlk3HPf"
+      },
+      "artists": [
+        {
+          "name": "TIF",
+          "url": "https://open.spotify.com/artist/2NgTPluNpfsoYZnoeU2VsH"
+        }
+      ],
+      "duration_ms": 175304,
+      "name": "HINATA",
+      "url": "https://open.spotify.com/track/1TJyY6XPwaprBSFT2owEG6"
+    },
+    {
+      "added_at": "2023-10-18 09:31:39",
+      "album": {
+        "name": "Ajini",
+        "url": "https://open.spotify.com/album/5cKUuxhE06AI8Mc5NfjCKf"
+      },
+      "artists": [
+        {
+          "name": "Mounim Slimani",
+          "url": "https://open.spotify.com/artist/2UaKdyrJWdpkRl9KbwcN38"
+        }
+      ],
+      "duration_ms": 168979,
+      "name": "Ajini",
+      "url": "https://open.spotify.com/track/2u2ZXCZLrm5lJcD8mi9GlG"
+    },
+    {
+      "added_at": "2023-10-18 09:31:39",
       "album": {
         "name": "Sprinter",
         "url": "https://open.spotify.com/album/5l0QlaI3wdZpE7ggoO5Rwg"
@@ -805,43 +837,7 @@
       "url": "https://open.spotify.com/track/2FDTHlrBguDzQkp7PVj16Q"
     },
     {
-      "added_at": "2023-10-17 08:54:25",
-      "album": {
-        "name": "LAYALI",
-        "url": "https://open.spotify.com/album/6pgfUVqynLc5hZ0HyozHKp"
-      },
-      "artists": [
-        {
-          "name": "DYSTINCT",
-          "url": "https://open.spotify.com/artist/1cKyknhftNKXCjMBd2hDrG"
-        },
-        {
-          "name": "MHD",
-          "url": "https://open.spotify.com/artist/4WnAHZz1pgl8hus8hidIRV"
-        }
-      ],
-      "duration_ms": 161506,
-      "name": "Tek Tek (feat. MHD)",
-      "url": "https://open.spotify.com/track/0UawmEzDkE7zISZkhOB678"
-    },
-    {
-      "added_at": "2023-10-17 08:54:25",
-      "album": {
-        "name": "Ajini",
-        "url": "https://open.spotify.com/album/5cKUuxhE06AI8Mc5NfjCKf"
-      },
-      "artists": [
-        {
-          "name": "Mounim Slimani",
-          "url": "https://open.spotify.com/artist/2UaKdyrJWdpkRl9KbwcN38"
-        }
-      ],
-      "duration_ms": 168979,
-      "name": "Ajini",
-      "url": "https://open.spotify.com/track/2u2ZXCZLrm5lJcD8mi9GlG"
-    },
-    {
-      "added_at": "2023-10-17 08:54:25",
+      "added_at": "2023-10-18 09:31:39",
       "album": {
         "name": "Comforter (feat. Ayra Starr)",
         "url": "https://open.spotify.com/album/2NmB4LzQtfkv88hY595YtL"
@@ -861,40 +857,40 @@
       "url": "https://open.spotify.com/track/2Vr7Qvt5a9f6W9m6ifke4K"
     },
     {
-      "added_at": "2023-10-17 08:54:25",
+      "added_at": "2023-10-18 09:31:39",
       "album": {
-        "name": "1.6",
-        "url": "https://open.spotify.com/album/69fpQmOdzFUjoEuGlk3HPf"
+        "name": "LAYALI",
+        "url": "https://open.spotify.com/album/6pgfUVqynLc5hZ0HyozHKp"
       },
       "artists": [
         {
-          "name": "TIF",
-          "url": "https://open.spotify.com/artist/2NgTPluNpfsoYZnoeU2VsH"
-        }
-      ],
-      "duration_ms": 167747,
-      "name": "SHADOW BOXING",
-      "url": "https://open.spotify.com/track/2TqUQbVg1bgahl09szanuE"
-    },
-    {
-      "added_at": "2023-10-17 08:54:25",
-      "album": {
-        "name": "For All The Dogs",
-        "url": "https://open.spotify.com/album/4czdORdCWP9umpbhFXK2fW"
-      },
-      "artists": [
-        {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+          "name": "DYSTINCT",
+          "url": "https://open.spotify.com/artist/1cKyknhftNKXCjMBd2hDrG"
         },
         {
-          "name": "Yeat",
-          "url": "https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx"
+          "name": "MHD",
+          "url": "https://open.spotify.com/artist/4WnAHZz1pgl8hus8hidIRV"
         }
       ],
-      "duration_ms": 260111,
-      "name": "IDGAF (feat. Yeat)",
-      "url": "https://open.spotify.com/track/2YSzYUF3jWqb9YP9VXmpjE"
+      "duration_ms": 161506,
+      "name": "Tek Tek (feat. MHD)",
+      "url": "https://open.spotify.com/track/0UawmEzDkE7zISZkhOB678"
+    },
+    {
+      "added_at": "2023-10-18 09:31:39",
+      "album": {
+        "name": "M3a L3echrane",
+        "url": "https://open.spotify.com/album/66iERpoTGbFoSgy7FY96mk"
+      },
+      "artists": [
+        {
+          "name": "Dizzy DROS",
+          "url": "https://open.spotify.com/artist/5eA2wbwYcQ2iOJ3uc8byIh"
+        }
+      ],
+      "duration_ms": 232727,
+      "name": "M3a L3echrane",
+      "url": "https://open.spotify.com/track/2L1MgWewnKsCx9MKykjZJw"
     }
   ],
   "unique_name": "Top 50 - Morocco",

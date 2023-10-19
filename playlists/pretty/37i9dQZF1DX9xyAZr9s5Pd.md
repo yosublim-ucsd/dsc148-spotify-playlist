@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9xyAZr9s5Pd.md) - [plain]
 
 > ¡Estos son los nombres que amplifican el sonido indie de los Andes! Foto: Loyal Lobos
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,449 likes - 60 songs - 3 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,457 likes - 60 songs - 3 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,7 +60,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9xyAZr9s5Pd.md) - [plain]
 | 50 | [Sólo Lo Bueno Quedará](https://open.spotify.com/track/11cMrX3bUlKx3nu68hoXb4) | [Duplat](https://open.spotify.com/artist/74Bgwc5zD9KyNHiMqy2QJO) | [Sólo Lo Bueno Quedará](https://open.spotify.com/album/49u9AqmZFz9U7RuoQRp5UV) | 2:32 |
 | 51 | [Nudos](https://open.spotify.com/track/2rMcMfA9vNbXBHMKKYBacM) | [Da Pawn](https://open.spotify.com/artist/3RkNjm33d6IZZ6gAjb6hXy) | [Residencia Azul](https://open.spotify.com/album/7a0NP5cqVBLSe6YofHXcGL) | 4:40 |
 | 52 | [Nunca Nunca](https://open.spotify.com/track/01RidTuR638AM20oXDqD1u) | [La Máquina Camaleón](https://open.spotify.com/artist/6NIyDDyPBRTyPZ6ggjE8Rj), [Neoma](https://open.spotify.com/artist/1rS9ZvNEWqnKY19g6uiqip) | [Nunca Nunca](https://open.spotify.com/album/6p7mLTPzEfaCvFTQXI5EL6) | 2:51 |
-| 53 | [No Tengo Tiempo](https://open.spotify.com/track/0J5PXybiNqoNQrethIsoDX) | [Armenia](https://open.spotify.com/artist/4FmrAtWfKHAIysakSpmatx) | [No Tengo Tiempo](https://open.spotify.com/album/3QYc5uXxdDb6NpSIl9FUyV) | 2:50 |
+| 53 | [No Tengo Tiempo](https://open.spotify.com/track/7hmvkFDZGMLaRyHMBySatI) | [Armenia](https://open.spotify.com/artist/4FmrAtWfKHAIysakSpmatx) | [ARMN](https://open.spotify.com/album/5ZKQlMu308fEdUEOYXUjIp) | 2:50 |
 | 54 | [Viento](https://open.spotify.com/track/10YxtMOKTJzbeNITBrgjTT) | [La Máquina Camaleón](https://open.spotify.com/artist/6NIyDDyPBRTyPZ6ggjE8Rj) | [Viento](https://open.spotify.com/album/4cat7GFdLkaz3H8oQ6KkY9) | 2:48 |
 | 55 | [Shorty 2](https://open.spotify.com/track/4PxNkl09m4T65wW7qqPh6J) | [Lolabúm](https://open.spotify.com/artist/1Smk5600sBY0IosFDG2zki), [Menino Gutto](https://open.spotify.com/artist/4eX5jYwqeLxnUZcBszdrws) | [Shorty 2](https://open.spotify.com/album/1YVcXIfifU15sAd7fIr7Dt) | 3:23 |
 | 56 | [Siempre Hago Lo Que Quiero](https://open.spotify.com/track/1vplR8zbm1rQWYskepMvtb) | [Clara Yolks](https://open.spotify.com/artist/7EGQpkwkyAgaJSgnRGHJ59), [Duplat](https://open.spotify.com/artist/74Bgwc5zD9KyNHiMqy2QJO) | [Siempre Hago Lo Que Quiero](https://open.spotify.com/album/0FOVQGRKiBAXNRc0nPg2Tt) | 3:44 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9xyAZr9s5Pd.md) - [plain]
 | 59 | [Máquina Del Tiempo](https://open.spotify.com/track/20YoweYFRfAUHKIIDleCQF) | [Vale](https://open.spotify.com/artist/22p8vOZwMABvl5qt2nZHWD), [Marco Mares](https://open.spotify.com/artist/5Eg5ZoZgXAa1Eit48sxoKQ) | [Máquina Del Tiempo](https://open.spotify.com/album/5XoNFY7hjKE1aM7u7mVArg) | 3:33 |
 | 60 | [Resurrección](https://open.spotify.com/track/5HqnE9PwuOuqg73YhX2bpZ) | [LaTorre](https://open.spotify.com/artist/1jiEzyMQwfYcQtp19fwOTZ), [Las Áñez](https://open.spotify.com/artist/1j2LXEgnuKC1ghy9ioDxl9) | [ORILLAS](https://open.spotify.com/album/3QK5vLsPeBj9oItoA5YkAo) | 4:50 |
 
-Snapshot ID: `MCw2ODFjYmJkYjhjZGE3NzA1ODhlMWNmM2U3YmJkMGU2NzI2NmRhNzFi`
+Snapshot ID: `MCwyMTYwNzM2NTVkZmVjN2ZiNTgyYjU5MzE2YWMwMjM0OWE5OWI2ZjYx`

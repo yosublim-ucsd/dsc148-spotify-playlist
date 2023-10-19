@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZVuIRLEh0tE.md) - [plain]
 
 > Los sonidos urbanos de RD, pa' lo tígueres de alta gama\. En portada: Dilon Baby
 
-[Spotify](https://open.spotify.com/user/spotify) - 223,503 likes - 90 songs - 4 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 223,561 likes - 90 songs - 4 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,7 +63,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZVuIRLEh0tE.md) - [plain]
 | 53 | [Literatura](https://open.spotify.com/track/7s6WDeU0hubQva4QoMkRfc) | [Kiubbah Malon](https://open.spotify.com/artist/0R4YpXgtQs80wg9EA2Z3pg), [Nico Clinico](https://open.spotify.com/artist/1mj4H8QF1OeBuMGHxGOcQv) | [Literatura](https://open.spotify.com/album/3UIEzvol2vqAdjCg45zXd3) | 3:33 |
 | 54 | [Vivo Por Palomo](https://open.spotify.com/track/74trikNmBL8OMjgBZwlJw9) | [Bulin 47](https://open.spotify.com/artist/4J0m1OquRGY8HYHxMocXfy), [Papaa Tyga](https://open.spotify.com/artist/7CE95BHNdEgoaQw0GPCHqC) | [Vivo Por Palomo](https://open.spotify.com/album/5G8vSgM0oZM6HIIiDQcf3f) | 3:26 |
 | 55 | [Unico](https://open.spotify.com/track/4zFYVWkN4GPexJ6qqGRVWR) | [Fran King](https://open.spotify.com/artist/3bwST4aDDIaTPwZiNhnx05), [Akapellah](https://open.spotify.com/artist/6fMZytDgX1Q9OV6ndSugym) | [Unico](https://open.spotify.com/album/1JpGUKWxxPfuEPl764m6rB) | 3:12 |
-| 56 | [Tan Quedao](https://open.spotify.com/track/252C5FtbrETqo6ZJE1vmyx) | [Briante](https://open.spotify.com/artist/7lrpjS4SyP3jdyB7i27Yf4), [Onguito Wa](https://open.spotify.com/artist/5gIa74oRT4LLG0AioLVn6F) | [Tan Quedao](https://open.spotify.com/album/3mSxOqShLIxTkePLdEDo8Q) | 2:22 |
+| 56 | [Tan Quedao](https://open.spotify.com/track/6IhKaUibbPr6XAh916LIKu) | [Briante](https://open.spotify.com/artist/7lrpjS4SyP3jdyB7i27Yf4), [Onguito Wa](https://open.spotify.com/artist/5gIa74oRT4LLG0AioLVn6F) | [Tan Quedao](https://open.spotify.com/album/7qAEfWnAVoOaUu2y0sE6WZ) | 2:22 |
 | 57 | [Perro que Ladra](https://open.spotify.com/track/3Iqzp0H9DWwaqfHMVQ6oHe) | [Marié](https://open.spotify.com/artist/4lRYotl47YWZ4otfWML8dX) | [Perro que Ladra](https://open.spotify.com/album/7wP67mFZbn91YFItADquX1) | 2:14 |
 | 58 | [Lo Tres Pasos](https://open.spotify.com/track/4e8L3fVKpmHQLRXzcokMol) | [Treintisiete](https://open.spotify.com/artist/1ZbuFVK9SeRYrZfQLkNzah), [Dilon Baby](https://open.spotify.com/artist/4ZIaiuKxYK6A6JwvvwqXoN) | [Lo Tres Pasos](https://open.spotify.com/album/4jAyVWddC3MhVWINaeyPb1) | 1:58 |
 | 59 | [En Mi Coro](https://open.spotify.com/track/7rkrrR738jFFDW0aewDVxI) | [Potencia Lirical](https://open.spotify.com/artist/6fxEt6A7hRd7Iq4FnwSxVb), [Eiden y Hacky](https://open.spotify.com/artist/2GZsR7HeNCAH0GeChpQto8) | [En Mi Coro](https://open.spotify.com/album/0EmHlJZFwYrcw6hqeeBpEA) | 3:55 |
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZVuIRLEh0tE.md) - [plain]
 | 89 | [El Toro](https://open.spotify.com/track/1vxryrqzNEJwIXFusC2U7t) | [Nino Freestyle](https://open.spotify.com/artist/1AACxWCwNIa3ecOBQJnXRV) | [El Toro](https://open.spotify.com/album/4YlZJyaLuOrjvaReHUvxCm) | 2:40 |
 | 90 | [Mira el 30](https://open.spotify.com/track/0jMDFipJeGgbXP36vh4l08) | [Treintisiete](https://open.spotify.com/artist/1ZbuFVK9SeRYrZfQLkNzah) | [Mira el 30](https://open.spotify.com/album/6JvPGRhspJ4MqBXBIIEE6D) | 2:09 |
 
-Snapshot ID: `MCw5NTcwN2I3Yzc1ZjRiN2I4MmZjNzk3OGQ3MDdjNTM5OGIzNWY1OWE4`
+Snapshot ID: `MCxkYjViOTYxYjdkZDFmOWI2ZTkyODRkYTk1MjllNTVjZjAxYzc2NWNl`

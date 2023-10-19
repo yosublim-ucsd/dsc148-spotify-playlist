@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-09",
-  "description": "The best new music by independent artists and labels, updated every Wednesday. Cover: Group Hug, Artwork: Isu Kim.\n",
+  "description": "The best new music by independent artists and labels, updated every Wednesday. Cover: Malumm\u00ed, Artwork: Isu Kim.\n",
   "name": "Fresh Finds GSA",
   "tracks": [
     {
@@ -764,7 +764,7 @@
       ],
       "date_added": "2023-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-19",
       "duration_ms": 160000,
       "name": "always",
       "url": "https://open.spotify.com/track/7AU2FTmWCZwnVSnhZW47sd"
@@ -1910,7 +1910,7 @@
       ],
       "date_added": "2023-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-19",
       "duration_ms": 263000,
       "name": "Blessing",
       "url": "https://open.spotify.com/track/5bwZZwlwLmCB2lf2WuFe9l"
@@ -2124,6 +2124,24 @@
       "duration_ms": 299210,
       "name": "Bobby",
       "url": "https://open.spotify.com/track/7AfzWYm0vklsPlSAanrIrF"
+    },
+    {
+      "album": {
+        "name": "Bones",
+        "url": "https://open.spotify.com/album/1KM11SEqWi4FbnhniDK3aY"
+      },
+      "artists": [
+        {
+          "name": "Malumm\u00ed",
+          "url": "https://open.spotify.com/artist/6dZYwSaKQKdDOro5lIHORl"
+        }
+      ],
+      "date_added": "2023-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175080,
+      "name": "Bones",
+      "url": "https://open.spotify.com/track/625IoBDUpFF70bw1XpoDeZ"
     },
     {
       "album": {
@@ -4633,6 +4651,24 @@
     },
     {
       "album": {
+        "name": "Eisen",
+        "url": "https://open.spotify.com/album/4r2yvJRoxD0xriyKopgvgU"
+      },
+      "artists": [
+        {
+          "name": "mo\u00e9",
+          "url": "https://open.spotify.com/artist/2Odi4EJdB2wFUTMWNCxJ7T"
+        }
+      ],
+      "date_added": "2023-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185000,
+      "name": "Eisen",
+      "url": "https://open.spotify.com/track/2S5EaTjKDKfjvFxAStd1yq"
+    },
+    {
+      "album": {
         "name": "eistee",
         "url": "https://open.spotify.com/album/26vtkAaXl1vOoJyVJNAKqI"
       },
@@ -5240,6 +5276,24 @@
       "duration_ms": 333875,
       "name": "Fertile",
       "url": "https://open.spotify.com/track/7cldmMjRtsrlxHd5v7wKpS"
+    },
+    {
+      "album": {
+        "name": "FETT",
+        "url": "https://open.spotify.com/album/4K69vpYG1qPJ6vtJpQksh6"
+      },
+      "artists": [
+        {
+          "name": "Liser",
+          "url": "https://open.spotify.com/artist/0NnzZzkMDO3cliiJugNoFl"
+        }
+      ],
+      "date_added": "2023-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183538,
+      "name": "FETT",
+      "url": "https://open.spotify.com/track/7obAinmmrrKX4Pk8j6GNHz"
     },
     {
       "album": {
@@ -6870,6 +6924,24 @@
       "duration_ms": 227500,
       "name": "Hi-Res",
       "url": "https://open.spotify.com/track/2kaDDLAjDyxne96vNv1Cbj"
+    },
+    {
+      "album": {
+        "name": "Hibernated Embrace",
+        "url": "https://open.spotify.com/album/1NcLiltIzsuUVjZ2ZiMP41"
+      },
+      "artists": [
+        {
+          "name": "Atomic Fruit",
+          "url": "https://open.spotify.com/artist/3uuRFQ0o6Iqa8mXe0gNjeB"
+        }
+      ],
+      "date_added": "2023-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 363946,
+      "name": "Hibernated Embrace",
+      "url": "https://open.spotify.com/track/5KfEUEeCusPQmxkmVOWg7T"
     },
     {
       "album": {
@@ -8958,7 +9030,7 @@
       ],
       "date_added": "2023-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-19",
       "duration_ms": 285000,
       "name": "Liar",
       "url": "https://open.spotify.com/track/4oOYJDT0D6cgHsIyoqQSXv"
@@ -13598,7 +13670,7 @@
       ],
       "date_added": "2023-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-19",
       "duration_ms": 208025,
       "name": "Sonne",
       "url": "https://open.spotify.com/track/7KbfjdioCBl72AMCxqJ86l"
@@ -14198,6 +14270,24 @@
       "duration_ms": 196506,
       "name": "Sun Signs",
       "url": "https://open.spotify.com/track/17npFuelMi67mMpYgTiJ92"
+    },
+    {
+      "album": {
+        "name": "sundown",
+        "url": "https://open.spotify.com/album/5Mmz0gqYUGzBdH74cNELNt"
+      },
+      "artists": [
+        {
+          "name": "melting reeds",
+          "url": "https://open.spotify.com/artist/4yOLXFtr2crwkV5v4QBQtO"
+        }
+      ],
+      "date_added": "2023-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 310600,
+      "name": "sundown",
+      "url": "https://open.spotify.com/track/1yVRDWtLuYGPje84qKQkqb"
     },
     {
       "album": {
@@ -15516,7 +15606,7 @@
       ],
       "date_added": "2023-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-19",
       "duration_ms": 357514,
       "name": "Under Water",
       "url": "https://open.spotify.com/track/3ZEQt1VMyvTTQgkamnFEgy"

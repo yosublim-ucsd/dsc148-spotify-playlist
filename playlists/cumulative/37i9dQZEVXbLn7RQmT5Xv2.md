@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Egypt.
 
-713 songs - 1 day 17 hr 20 min
+714 songs - 1 day 17 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -197,6 +197,7 @@
 | [Fokak](https://open.spotify.com/track/3VLykmyUx8XKraa9SWQgKO) | [Double Zuksh](https://open.spotify.com/artist/02T4vKIGje48LHpXmJoEwo), [3enba](https://open.spotify.com/artist/4U7K3Xm1CXe5FpBGYUcHUZ) | [Fokak](https://open.spotify.com/album/7GBa5aHSXE6ngfAme8oTkD) | 3:32 | 2021-03-27\* | 2021-07-25 |
 | [For Us](https://open.spotify.com/track/4HAOgAnILvXCbSODMoRnmD) | [V](https://open.spotify.com/artist/3JsHnjpbhX4SnySpvpa9DK) | [Layover](https://open.spotify.com/album/7ixOAT89NSsgUITYc5ByB5) | 2:51 | 2023-09-09 | 2023-09-11 |
 | [For Youth](https://open.spotify.com/track/4JzCFEc3O2UEdjKzevvFH5) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Proof](https://open.spotify.com/album/6al2VdKbb6FIz9d7lU7WRB) | 4:24 | 2022-06-11 | 2022-06-13 |
+| [Fouq](https://open.spotify.com/track/1CQzS4IBMOHRYGgEg3eZrz) | [Assala Nasri](https://open.spotify.com/artist/6MQnUjIjnIOfHDFzqBJOAl) | [Lehqt Nafsy](https://open.spotify.com/album/5Hy7i5IWXGVgnZ6EGYK5Oq) | 3:12 | 2023-10-18 |  |
 | [Free](https://open.spotify.com/track/6vRHVF61iN8TnMdoFBoE8f) | [Marwan Pablo](https://open.spotify.com/artist/56chSp36PsMhpQvUn1kdR3), [Molotof](https://open.spotify.com/artist/57UiSuUcw9m0MV4bC2DukM) | [Free](https://open.spotify.com/album/285ImEOPFTpPC7W4U8CAsP) | 3:38 | 2021-03-27\* | 2022-06-11 |
 | [Freedom Music: Scene Cypher 3](https://open.spotify.com/track/6J2LvJwmgpauEsaY6h06fW) | [Wingii](https://open.spotify.com/artist/3i5MnWpawRCC9SYhLIHP7W), [Lil Noby](https://open.spotify.com/artist/2kBJzh6V4KIom3bIhvMBHa), [Tommy](https://open.spotify.com/artist/4p5iysfn9zXM5SYAs0DZCZ), [FL EX](https://open.spotify.com/artist/4rACOXTxSYqwgynYKJJpDX), [Husayn](https://open.spotify.com/artist/388NKDhzE7FJ40ODmOr7aI) | [Freedom Music: Scene Cypher 3](https://open.spotify.com/album/74SKmLCMtqC9gR72yc9hM7) | 4:04 | 2023-01-04 | 2023-09-07 |
 | [Gamalha Estethnaey](https://open.spotify.com/track/3CYwmM56BETkTSpcr3LEiL) | [Mohamed Hamaki](https://open.spotify.com/artist/6bb9VI1PpPTEmdgcgjTppX) | [Gamalha Estethnaey](https://open.spotify.com/album/77LRIbp593ruGyVw5uQRBZ) | 3:07 | 2022-05-20 | 2022-05-22 |
@@ -227,7 +228,7 @@
 | [Happier Than Ever](https://open.spotify.com/track/4RVwu0g32PAqgUiJoXsdF8) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [Happier Than Ever](https://open.spotify.com/album/0JGOiO34nwfUdDrD612dOp) | 4:58 | 2021-08-01 | 2021-08-25 |
 | [HARAZEEK](https://open.spotify.com/track/4KkZaDtLIuCiCUH6Zwy0rx) | [Afroto](https://open.spotify.com/artist/7yBuSjd5Z3w7acodk51evR), [Amr Saad](https://open.spotify.com/artist/1hrucExvTdqEfvm2NSjMzv) | [HARAZEEK](https://open.spotify.com/album/0CGER7nFUzj3GFGKK3UJD0) | 2:38 | 2022-04-03 | 2022-07-08 |
 | [Hattatack Battatack](https://open.spotify.com/track/3RzrCMppvv3cYLmAI1KdGp) | [Wegz](https://open.spotify.com/artist/4BKC2HOGEqtYz2Xbgp9N1q), [PUBG MOBILE](https://open.spotify.com/artist/7q9bAXCK4bTiYigFMjvs3I) | [Hattatack Battatack](https://open.spotify.com/album/5KYIVbKwWrIyTlXfZr3bQs) | 2:25 | 2021-03-27\* | 2021-05-05 |
-| [Hatwhashna](https://open.spotify.com/track/3gAYSjeXZ5XbicBFX5G0Ya) | [Tamer Ashour](https://open.spotify.com/artist/5rCq30EbJ3DfZPKybGZj8F) | [Hatwhashna](https://open.spotify.com/album/2SpDaTDqpebKTgQyKtf51j) | 3:20 | 2022-11-11 |  |
+| [Hatwhashna](https://open.spotify.com/track/3gAYSjeXZ5XbicBFX5G0Ya) | [Tamer Ashour](https://open.spotify.com/artist/5rCq30EbJ3DfZPKybGZj8F) | [Hatwhashna](https://open.spotify.com/album/2SpDaTDqpebKTgQyKtf51j) | 3:20 | 2022-11-11 | 2023-10-19 |
 | [Hayatak Fi Sora](https://open.spotify.com/track/5v5DvfdykdjmzgA3t9pnGg) | [Mohamed Hamaki](https://open.spotify.com/artist/6bb9VI1PpPTEmdgcgjTppX) | [Hayatak Fi Sora](https://open.spotify.com/album/2LE4wOXSuqwPXyY22h1ad1) | 2:49 | 2021-03-27\* | 2021-04-11 |
 | [Hazina](https://open.spotify.com/track/3JLhpzsdRKu2XX40hWkAo0) | [Sharmoofers](https://open.spotify.com/artist/0qZ24TkLCHoE3ajCzGItJ1) | [Hazina](https://open.spotify.com/album/1YouEiz9p93Tp51juzplSP) | 3:57 | 2021-04-11 | 2021-04-13 |
 | [Heartbreak Anniversary](https://open.spotify.com/track/3FAJ6O0NOHQV8Mc5Ri6ENp) | [Giveon](https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP) | [TAKE TIME](https://open.spotify.com/album/1zHR48K6XtWYm6bhrw4J6C) | 3:18 | 2021-04-26 | 2021-04-28 |

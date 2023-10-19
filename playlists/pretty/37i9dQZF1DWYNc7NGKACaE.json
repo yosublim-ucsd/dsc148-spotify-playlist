@@ -1,12 +1,12 @@
 {
   "description": "essa \u00e9 s\u00f3 pra quem vive no 2.0x\n",
-  "num_followers": 69631,
+  "num_followers": 69715,
   "original_name": "speed BR",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3MGFlNWJiMDNhOGRjNmJiNmNmZjVkYWVkZmU1N2E3ZDNlN2QyNDI1",
+  "snapshot_id": "MCw5ZjgzNjEzNDRjYzM0YzlhMTljYjI0ZDE0MzRjMjBkZGU3OWFjMTg3",
   "tracks": [
     {
       "added_at": "2023-09-26 16:36:45",
@@ -223,26 +223,6 @@
     {
       "added_at": "2023-09-26 16:36:45",
       "album": {
-        "name": "Luq Speed Vision",
-        "url": "https://open.spotify.com/album/4i2Yfw0gb4BwMPgrA6sG9J"
-      },
-      "artists": [
-        {
-          "name": "luqeta",
-          "url": "https://open.spotify.com/artist/5yBdprfbFGKUg6ckI8gtSZ"
-        },
-        {
-          "name": "deadpeace",
-          "url": "https://open.spotify.com/artist/5GtEbRUFQN7CXSH9yZWfgA"
-        }
-      ],
-      "duration_ms": 102812,
-      "name": "Ta Tudo Bem Speedplug - Vers\u00e3o Alternativa",
-      "url": "https://open.spotify.com/track/50nCM4Diua1enzBmN8i11A"
-    },
-    {
-      "added_at": "2023-09-26 16:36:45",
-      "album": {
         "name": "Boa Noite, DEUS (Sped Up)",
         "url": "https://open.spotify.com/album/6vDMX7sjhMLyG4Bp2NTVyj"
       },
@@ -259,6 +239,26 @@
       "duration_ms": 168857,
       "name": "Boa Noite, DEUS (Sped Up)",
       "url": "https://open.spotify.com/track/6JcfaecQ8RsDQXTFqs7zJl"
+    },
+    {
+      "added_at": "2023-09-26 16:36:45",
+      "album": {
+        "name": "Luq Speed Vision",
+        "url": "https://open.spotify.com/album/4i2Yfw0gb4BwMPgrA6sG9J"
+      },
+      "artists": [
+        {
+          "name": "luqeta",
+          "url": "https://open.spotify.com/artist/5yBdprfbFGKUg6ckI8gtSZ"
+        },
+        {
+          "name": "deadpeace",
+          "url": "https://open.spotify.com/artist/5GtEbRUFQN7CXSH9yZWfgA"
+        }
+      ],
+      "duration_ms": 102812,
+      "name": "Ta Tudo Bem Speedplug - Vers\u00e3o Alternativa",
+      "url": "https://open.spotify.com/track/50nCM4Diua1enzBmN8i11A"
     },
     {
       "added_at": "2023-09-26 16:36:45",
@@ -503,26 +503,6 @@
     {
       "added_at": "2023-09-26 16:36:45",
       "album": {
-        "name": "Palha\u00e7ada Speed",
-        "url": "https://open.spotify.com/album/1fKdX1WUjbyGyeijMhZqBw"
-      },
-      "artists": [
-        {
-          "name": "Avelar Music",
-          "url": "https://open.spotify.com/artist/5AlccduhApCtX7ssks4AJ1"
-        },
-        {
-          "name": "Belim",
-          "url": "https://open.spotify.com/artist/6Cb97YqzKJbAxQuHzEDJnb"
-        }
-      ],
-      "duration_ms": 149170,
-      "name": "Palha\u00e7ada Speed",
-      "url": "https://open.spotify.com/track/0p3W8vsHX4OjaCHypFM3Hl"
-    },
-    {
-      "added_at": "2023-09-26 16:36:45",
-      "album": {
         "name": "Jesus Invadiu a Cena (Deluxe)",
         "url": "https://open.spotify.com/album/2i9A3MdMLm2DaslCoMZMKX"
       },
@@ -555,6 +535,26 @@
       "duration_ms": 163384,
       "name": "Amizade Colorida, \u00c9 QUE AGENTE TRANZA E NUNCA BRIGA",
       "url": "https://open.spotify.com/track/3JHUfpS7hQPeYwjBBZ690R"
+    },
+    {
+      "added_at": "2023-09-26 16:36:45",
+      "album": {
+        "name": "Palha\u00e7ada Speed",
+        "url": "https://open.spotify.com/album/1fKdX1WUjbyGyeijMhZqBw"
+      },
+      "artists": [
+        {
+          "name": "Avelar Music",
+          "url": "https://open.spotify.com/artist/5AlccduhApCtX7ssks4AJ1"
+        },
+        {
+          "name": "Belim",
+          "url": "https://open.spotify.com/artist/6Cb97YqzKJbAxQuHzEDJnb"
+        }
+      ],
+      "duration_ms": 149170,
+      "name": "Palha\u00e7ada Speed",
+      "url": "https://open.spotify.com/track/0p3W8vsHX4OjaCHypFM3Hl"
     },
     {
       "added_at": "2023-09-26 16:36:45",
@@ -663,6 +663,22 @@
     {
       "added_at": "2023-09-26 16:36:45",
       "album": {
+        "name": "F* F* M* - No Beat S\u00c9RIE GOLD",
+        "url": "https://open.spotify.com/album/3NMKPK8rfEoipLRik4fqwi"
+      },
+      "artists": [
+        {
+          "name": "Dj LD da Favelinha",
+          "url": "https://open.spotify.com/artist/2fwT8MEPRpyAnwFw7DSyb7"
+        }
+      ],
+      "duration_ms": 176538,
+      "name": "F* F* M* - No Beat S\u00c9RIE GOLD",
+      "url": "https://open.spotify.com/track/0s8402HaaJsq8IyzDFS7Cm"
+    },
+    {
+      "added_at": "2023-09-26 16:36:45",
+      "album": {
         "name": "Semblante de Criminoso Speed",
         "url": "https://open.spotify.com/album/4OapHKHJ62yQphWbquFKQt"
       },
@@ -679,22 +695,6 @@
       "duration_ms": 98475,
       "name": "Semblante de Criminoso Speed",
       "url": "https://open.spotify.com/track/4NXhoDZKkhtWfulsgqsmOa"
-    },
-    {
-      "added_at": "2023-09-26 16:36:45",
-      "album": {
-        "name": "F* F* M* - No Beat S\u00c9RIE GOLD",
-        "url": "https://open.spotify.com/album/3NMKPK8rfEoipLRik4fqwi"
-      },
-      "artists": [
-        {
-          "name": "Dj LD da Favelinha",
-          "url": "https://open.spotify.com/artist/2fwT8MEPRpyAnwFw7DSyb7"
-        }
-      ],
-      "duration_ms": 176538,
-      "name": "F* F* M* - No Beat S\u00c9RIE GOLD",
-      "url": "https://open.spotify.com/track/0s8402HaaJsq8IyzDFS7Cm"
     },
     {
       "added_at": "2023-09-26 16:36:45",
@@ -1035,6 +1035,22 @@
     {
       "added_at": "2023-09-26 16:36:45",
       "album": {
+        "name": "Florxs Speed Up",
+        "url": "https://open.spotify.com/album/5ZqrLDiksNLzdO5EVQ3lNW"
+      },
+      "artists": [
+        {
+          "name": "Thxuzz",
+          "url": "https://open.spotify.com/artist/6TsiOiUUPJYw90hx3aAb0q"
+        }
+      ],
+      "duration_ms": 176040,
+      "name": "Florxs Speed Up",
+      "url": "https://open.spotify.com/track/2rIcX0NTuATrrIFUcC5pdz"
+    },
+    {
+      "added_at": "2023-09-26 16:36:45",
+      "album": {
         "name": "Rede Social (Speed)",
         "url": "https://open.spotify.com/album/01iSILkAS9K13llC2AEWZJ"
       },
@@ -1051,22 +1067,6 @@
       "duration_ms": 154818,
       "name": "Rede Social - Speed",
       "url": "https://open.spotify.com/track/0FIjebtfvcayZNDzG993SH"
-    },
-    {
-      "added_at": "2023-09-26 16:36:45",
-      "album": {
-        "name": "Florxs Speed Up",
-        "url": "https://open.spotify.com/album/5ZqrLDiksNLzdO5EVQ3lNW"
-      },
-      "artists": [
-        {
-          "name": "Thxuzz",
-          "url": "https://open.spotify.com/artist/6TsiOiUUPJYw90hx3aAb0q"
-        }
-      ],
-      "duration_ms": 176040,
-      "name": "Florxs Speed Up",
-      "url": "https://open.spotify.com/track/2rIcX0NTuATrrIFUcC5pdz"
     },
     {
       "added_at": "2023-09-26 16:36:45",

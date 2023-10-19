@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZqUHC2tviPw.md) - [plain]
 
 > Instrumental beats to boost your weight lifting workout.
 
-[Spotify](https://open.spotify.com/user/spotify) - 193,954 likes - 155 songs - 6 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 194,020 likes - 155 songs - 6 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,7 +47,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZqUHC2tviPw.md) - [plain]
 | 37 | [Life I Live](https://open.spotify.com/track/6HsVc3Q5pBMWEgAVI4vBia) | [Cushy](https://open.spotify.com/artist/6L1Baujfn33sG3PXou8n1q) | [Sprinter](https://open.spotify.com/album/2d9dXXSS9PSMWOcMja9xgG) | 2:32 |
 | 38 | [Kylie](https://open.spotify.com/track/735lPgzrp5IrVURzjINTs6) | [Timmy Tee](https://open.spotify.com/artist/5mHEnE8FUpg9ZmYNrrCIcU) | [Kylie](https://open.spotify.com/album/516RC3OSfnSRoK2LQwmSfN) | 2:52 |
 | 39 | [The Riddle of the Record](https://open.spotify.com/track/0RYIUB2SNWbr9CEEWL9tVW) | [Dusty Decks](https://open.spotify.com/artist/5mWkhlLhHU9FKT8vU8lBIR) | [Soul Single Serenade](https://open.spotify.com/album/71zjHfvYVpew9IVpwXR5ve) | 2:18 |
-| 40 | [Edén](https://open.spotify.com/track/5HPE8nk9CE58K5sRuw6GY6) | [Nerso & Verse](https://open.spotify.com/artist/1jRF8rcj4TMuVQR9PWnpFm) | [Edén](https://open.spotify.com/album/3CoNv5qTB6GN0EzLbzweGK) | 3:35 |
+| 40 | [Edén](https://open.spotify.com/track/3ZjNl4bDL5yD82s8tR1g2L) | [Nerso & Verse](https://open.spotify.com/artist/1jRF8rcj4TMuVQR9PWnpFm) | [FMS Instrumentales 2022](https://open.spotify.com/album/6A7zSbHYZZquZNDqDtBMuE) | 3:35 |
 | 41 | [Maharajah](https://open.spotify.com/track/4NvKUG4KOeTmWvfAyEMDKM) | [Ava Low](https://open.spotify.com/artist/6uxfkZbF9fGUFlPgp9UqHd) | [You Can Not Lie](https://open.spotify.com/album/1FWE6gq1DJFypvb8u3BVwr) | 2:25 |
 | 42 | [Y2K](https://open.spotify.com/track/5sFrWbiYAfBkHmpgo3j9cV) | [BLUE STEEL](https://open.spotify.com/artist/41OiR6DTlbgJtrvqjKioMb) | [Y2K](https://open.spotify.com/album/5zgdMB01DgxhbQClYO9k8Y) | 2:16 |
 | 43 | [Must Be Lost](https://open.spotify.com/track/4IsPmMI03DndD2449l7Qay) | [Jharee](https://open.spotify.com/artist/1h8ZzbKCnh7wCxDH8Z3iJi) | [loosies](https://open.spotify.com/album/1mfHMn5kgpf1QC8CIE8ZNA) | 2:18 |
@@ -164,4 +164,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZqUHC2tviPw.md) - [plain]
 | 154 | [Theme](https://open.spotify.com/track/6LGzIiVow9pEHzSc7Z2NC5) | [Grand Moist](https://open.spotify.com/artist/7kBEPXj7Sz1SfO73MoFENO) | [Theme](https://open.spotify.com/album/7HWzZzrVY6lIhyoO2V9wL6) | 2:35 |
 | 155 | [Lunch Break](https://open.spotify.com/track/3MGkKTSuULSWZFdKgUqFG8) | [DJ DENZ The Rooster](https://open.spotify.com/artist/05OAH9fFWOKINDaeJ9N3Pd) | [No Justice No Peace](https://open.spotify.com/album/5QOaH71IIS6PFIZlqhl6FD) | 2:59 |
 
-Snapshot ID: `MCw0NjcyYmI3NTc0MTI3ZDM4ZWRhNjBkOTBiMDUwM2IxNWI2YWQ2OWIz`
+Snapshot ID: `MCw0NjY0YjgyZGVjNWJjMDUxYmU5ZTNiMjgyMTQ0MWNlZTI1OTk2M2Uz`

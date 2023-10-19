@@ -2,9 +2,9 @@
 
 ### [Arena Hip\-Hop](https://open.spotify.com/playlist/37i9dQZF1DWVFZbCNivv6B)
 
-> Aquí vive el hip\-hop mexicano\. El DHA y todo El Clan en la casa.
+> Aquí vive el hip\-hop mexicano\. Aczino el GOAT en la casa.
 
-432 songs - 1 day 1 hr 32 min
+433 songs - 1 day 1 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -255,7 +255,7 @@
 | [Na' de Na'](https://open.spotify.com/track/6FITNlNL1WhOxdLKomRn1P) | [Achepe](https://open.spotify.com/artist/1b170j0PpkgYWGHMPRsNEM), [Geassassin](https://open.spotify.com/artist/4V2V4PaSblStayYVWTGDbZ), [Iyhon Secuaz](https://open.spotify.com/artist/1zgxaHftgbxv06Bftdq7me) | [Na' de Na'](https://open.spotify.com/album/6ba27oDRVEiml1ECZCjtTy) | 4:20 | 2022-04-29 | 2022-06-18 |
 | [Nací Pa' Ganar](https://open.spotify.com/track/4ZhmkmypLDoBYffpsGdQoO) | [Faruz Feet](https://open.spotify.com/artist/6tJRAxu0HwB2GI9GueEj4l) | [Nací Pa' Ganar](https://open.spotify.com/album/1b6jdcCZrvxfGSGbzDK7lC) | 4:38 | 2023-01-27 | 2023-05-13 |
 | [Nací Para Ganar](https://open.spotify.com/track/40bSwqRfI4nR1kYLSfFmNz) | [Toser One](https://open.spotify.com/artist/1oHPSeQJBwNmpq0J52Wjn1) | [Nací Para Ganar](https://open.spotify.com/album/5PGB1jY5bnxqyHzLcA0oMf) | 3:56 | 2023-06-09 |  |
-| [Never Die](https://open.spotify.com/track/4omKvTBmle0hUJ8rJTBhCh) | [Toser One](https://open.spotify.com/artist/1oHPSeQJBwNmpq0J52Wjn1), [Reverie](https://open.spotify.com/artist/4K2C6TgREygMW8xo4jymq4) | [Never Die](https://open.spotify.com/album/69du1b7FFM6IdhbBW1M3zk) | 2:38 | 2022-09-09 |  |
+| [Never Die](https://open.spotify.com/track/4omKvTBmle0hUJ8rJTBhCh) | [Toser One](https://open.spotify.com/artist/1oHPSeQJBwNmpq0J52Wjn1), [Reverie](https://open.spotify.com/artist/4K2C6TgREygMW8xo4jymq4) | [Never Die](https://open.spotify.com/album/69du1b7FFM6IdhbBW1M3zk) | 2:38 | 2022-09-09 | 2023-10-19 |
 | [Ni Miedo Ni Piedad](https://open.spotify.com/track/2hs4FEIVUESVnnRw6xXdq8) | [Eme MalaFe](https://open.spotify.com/artist/4RFrAp13K0fHKH7IpSdKxi) | [Ni Miedo Ni Piedad](https://open.spotify.com/album/2YmBKaeneRkGmbfUWiiOzg) | 4:38 | 2023-02-08 |  |
 | [Ni Una Más](https://open.spotify.com/track/525kq9KtC58vnrAN8soFP6) | [Toser One](https://open.spotify.com/artist/1oHPSeQJBwNmpq0J52Wjn1), [Neto Peña](https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI), [Zxmyr](https://open.spotify.com/artist/7IUaYyqcGB3aU2Tm4s5JY8) | [Ni Una Más](https://open.spotify.com/album/6HHssxh9vYSne3MSswniGs) | 3:36 | 2022-01-28 | 2022-05-14 |
 | [Ninja](https://open.spotify.com/track/6uX301Hn5IdtoCE29rDKkz) | [Under Side 821](https://open.spotify.com/artist/2NtN73hhhgFt2NmbBOlFz1), [Toser One](https://open.spotify.com/artist/1oHPSeQJBwNmpq0J52Wjn1) | [Bitácoras Callejeras, Vol\. 3](https://open.spotify.com/album/322GH2BmRmyr47hZDevS4s) | 4:30 | 2022-12-16 | 2023-05-06 |
@@ -313,6 +313,7 @@
 | [Prendidos](https://open.spotify.com/track/0cuTI8LcUh9uADmQBTTQUg) | [Sauceda SM](https://open.spotify.com/artist/7ynMGDLyeUKVq7XuYapTJ2), [Lefty Sm](https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf) | [Prendidos](https://open.spotify.com/album/3N5jY3d2kmZ28RGL9j0l2y) | 3:42 | 2022-03-18 | 2022-10-15 |
 | [Primal](https://open.spotify.com/track/0W7azFwOemRVSNlrfDXl9B) | [Chuchú Bermudas](https://open.spotify.com/artist/6U7WIxAxxx1PLPfFH8AwHX), [Granuja](https://open.spotify.com/artist/5KBPxIED8ejHkvhs4KCzyS), [Drama Theme](https://open.spotify.com/artist/5UlItbkRcPTdmWC4AcKrk8) | [Primal](https://open.spotify.com/album/7DkYyWIA2CfVlW0TO1q5YJ) | 3:07 | 2023-02-10 | 2023-04-09 |
 | [Primer Corte](https://open.spotify.com/track/3fnfh96j22RDpBNQajdvf7) | [Eyou TV](https://open.spotify.com/artist/7vbUYl7KYbdEmDod2XhGhF), [Jony Beltran](https://open.spotify.com/artist/7nN4ORhj5Mi3tgU9IwQrFv), [Danny Brasco](https://open.spotify.com/artist/05BlA7vN6o1m2dsGOgaODY), [Skinny Ashe](https://open.spotify.com/artist/78hx08CsI286J9ate3Ows6), [MR](https://open.spotify.com/artist/4PnGbOSMJcMooesDjMnR1G), [Ache](https://open.spotify.com/artist/3CUNpEbFLEHzLuLzeLm6gZ), [Xhavez](https://open.spotify.com/artist/3To0ChiKOreRmnWCZ0D0Wb), [Damian SNK](https://open.spotify.com/artist/4s9FJCFmZjRA7EtGF79Wn0) | [Primer Corte](https://open.spotify.com/album/04z3A3xIQSOxiJEsPtxgHN) | 3:20 | 2023-03-31 | 2023-04-09 |
+| [Primero Lo Primero](https://open.spotify.com/track/4XyqGyQSLmBjmWgI2q8wFn) | [Aczino](https://open.spotify.com/artist/4r1ZDYKzPt3iIjuq8LbT6X) | [Primero Lo Primero](https://open.spotify.com/album/0ntC5RLzimcgYTPq0YavWM) | 2:49 | 2023-10-19 |  |
 | [Problemático](https://open.spotify.com/track/3D3ek5Ts78bkWEopL6zIjv) | [Gera MX](https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW), [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp) | [Problemático](https://open.spotify.com/album/490OSKw7jSVNmS31iOXXQc) | 4:22 | 2022-01-28 | 2022-03-18 |
 | [Prohibida](https://open.spotify.com/track/1ax1dPQHLGFZfIu1JdWdsm) | [Gera MX](https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW), [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG) | [Prohibida](https://open.spotify.com/album/5PMYtsW0XUpaPLGntAkOCD) | 3:26 | 2023-06-23 |  |
 | [Puesta a Punto](https://open.spotify.com/track/2s7PgpafvRvsBGOAgJN6Pd) | [Faruz Feet](https://open.spotify.com/artist/6tJRAxu0HwB2GI9GueEj4l) | [Puesta a Punto](https://open.spotify.com/album/1iZWwAhTs7yRvC29yIiX8r) | 2:12 | 2022-04-15 | 2022-05-14 |

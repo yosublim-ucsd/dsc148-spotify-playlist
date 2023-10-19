@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaqIZ7YXxc6o.md) - [plain]
 
 > Future Dance hits\. Cover: PNAU, Empire of the Sun
 
-[Spotify](https://open.spotify.com/user/spotify) - 137,174 likes - 103 songs - 5 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 137,234 likes - 103 songs - 5 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -112,4 +112,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaqIZ7YXxc6o.md) - [plain]
 | 102 | [Jackie \- James Alexandr Remix](https://open.spotify.com/track/4hkrVXdDXO7KjkLAFLLKlW) | [Supafly](https://open.spotify.com/artist/2uBSo6TqjuddKVUp5MVqfV), [James Alexandr](https://open.spotify.com/artist/7dBNlsD2vMoHenuE5Wuguc) | [Jackie \(James Alexandr Remix\)](https://open.spotify.com/album/5mFI8NhYoycwfdpFtnUQee) | 3:05 |
 | 103 | [Señor Tree Hand](https://open.spotify.com/track/25zG5MVoAqu2bMiCSPM98t) | [apltn](https://open.spotify.com/artist/1E2aNJTN7iOuPRJJIoOwbr), [Jadu Jadu](https://open.spotify.com/artist/2Oe3qtPntosByl21BCcUSc), [TAMBALA](https://open.spotify.com/artist/2ypQgMFGak7MXlYK0RyO1F), [Dwyer](https://open.spotify.com/artist/0hDO4d5eFDFevAkXTvN2Mv) | [Astro Beats & Galactic Treats](https://open.spotify.com/album/48hhLv2eBqppmqIaHSYYrO) | 1:58 |
 
-Snapshot ID: `MCxiOGNmOTViM2JlMWE0OWIyZDAxZTNlYWNlNTMyOThhZjIwM2FmZWE2`
+Snapshot ID: `MCwzOGFmYTM2YjBlZmE2NTcwNThjYWRlMDRlYzliYTllZTc1ODViYTFj`

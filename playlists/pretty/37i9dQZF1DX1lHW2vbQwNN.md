@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1lHW2vbQwNN.md) - [plain]
 
 > Taking it back to the 2000s\. Cover: Ja Rule
 
-[Spotify](https://open.spotify.com/user/spotify) - 121,976 likes - 100 songs - 6 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 122,163 likes - 100 songs - 6 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -87,8 +87,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1lHW2vbQwNN.md) - [plain]
 | 77 | [Bust It Baby, Pt\. 2 \(feat\. Ne\-Yo\)](https://open.spotify.com/track/0exb0K7vsjf5bXWLJJhAuF) | [Plies](https://open.spotify.com/artist/3jksrX4oBklxR78ft8gv3j), [Ne\-Yo](https://open.spotify.com/artist/21E3waRsmPlU7jZsS13rcj) | [Definition of Real](https://open.spotify.com/album/4XYeXtHzp0x7wzgUyasKBA) | 4:00 |
 | 78 | [My Neck, My Back \(Lick It\)](https://open.spotify.com/track/5r29mFrurlVBbqJzjr2XW6) | [Khia](https://open.spotify.com/artist/3q7isf09BuwXLyR2khBs60) | [Thug Misses \(Digitally Remastered\)](https://open.spotify.com/album/4Xa2dq99gQqzGj4vq0rGoV) | 3:42 |
 | 79 | [Make It Rain](https://open.spotify.com/track/4JPCdSaqs9dJd7RatFSHww) | [Fat Joe](https://open.spotify.com/artist/3ScY9CQxNLQei8Umvpx5g6), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865) | [Me, Myself & I](https://open.spotify.com/album/7L3ybS1mQpWwAiZm4FuNwn) | 4:07 |
-| 80 | [Hip\-Hop](https://open.spotify.com/track/2HoDr1yVksl19omOhc1zWy) | [Dead Prez](https://open.spotify.com/artist/2UBt0GWBuPVXlPisRvWzlD) | [Let's Get Free](https://open.spotify.com/album/7gXuElmegVReY7imkb5bf8) | 3:34 |
-| 81 | [Westside Story](https://open.spotify.com/track/0lOe1dR2TNkJMCjIcRuw6T) | [The Game](https://open.spotify.com/artist/0NbfKEOTQCcwd6o7wSDOHI), [50 Cent](https://open.spotify.com/artist/3q7HBObVc0L8jNeTe5Gofh) | [The Documentary](https://open.spotify.com/album/4PrPbmm0gKvaD3rerOXFg8) | 3:43 |
+| 80 | [Westside Story](https://open.spotify.com/track/0lOe1dR2TNkJMCjIcRuw6T) | [The Game](https://open.spotify.com/artist/0NbfKEOTQCcwd6o7wSDOHI), [50 Cent](https://open.spotify.com/artist/3q7HBObVc0L8jNeTe5Gofh) | [The Documentary](https://open.spotify.com/album/4PrPbmm0gKvaD3rerOXFg8) | 3:43 |
+| 81 | [Hip\-Hop](https://open.spotify.com/track/2HoDr1yVksl19omOhc1zWy) | [Dead Prez](https://open.spotify.com/artist/2UBt0GWBuPVXlPisRvWzlD) | [Let's Get Free](https://open.spotify.com/album/7gXuElmegVReY7imkb5bf8) | 3:34 |
 | 82 | [Lean Wit It, Rock Wit It](https://open.spotify.com/track/7cVmKBwzPsh4Fmb6SplfEm) | [Dem Franchize Boyz](https://open.spotify.com/artist/0VKTLKamj4IH8OfQbUL0kq), [Peanut](https://open.spotify.com/artist/5Q2iqZJMIZVSTEJWOYh4kP), [Charlay](https://open.spotify.com/artist/4FZBzAqTsS12zKdb9Gr2uz) | [On Top Of Our Game](https://open.spotify.com/album/0e0ks1xlvQBOsC3Gsw2EgA) | 3:49 |
 | 83 | [Izzo \(H.O.V.A.\)](https://open.spotify.com/track/4h5KBcltGefua73AUPYps7) | [JAY\-Z](https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB) | [The Blueprint \(Explicit Version\)](https://open.spotify.com/album/69CmkikTHkGKdkrUZTtyWl) | 4:00 |
 | 84 | [I Luv It](https://open.spotify.com/track/7qFxSPDUDMQNGBqTvK4aEj) | [Jeezy](https://open.spotify.com/artist/4yBK75WVCQXej1p04GWqxH) | [The Inspiration](https://open.spotify.com/album/4slt7bfeNHSJUOMVtuIdxP) | 4:00 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1lHW2vbQwNN.md) - [plain]
 | 99 | [Wait \(The Whisper Song\)](https://open.spotify.com/track/5Y78yINSOCW6xbOfGWNBg4) | [Ying Yang Twins](https://open.spotify.com/artist/44PA0rCQXikgOWbfY7Fq7m) | [U.S.A\. \(United State of Atlanta\)](https://open.spotify.com/album/0tkYbxsTPQ5kTVdrvj4S3f) | 2:59 |
 | 100 | [New York](https://open.spotify.com/track/7xXvPyOiFCsB5SSpio5g38) | [Ja Rule](https://open.spotify.com/artist/1J2VVASYAamtQ3Bt8wGgA6), [Fat Joe](https://open.spotify.com/artist/3ScY9CQxNLQei8Umvpx5g6), [Jadakiss](https://open.spotify.com/artist/5pnbUBPifNnlusY8kTBivi) | [R.U.L.E.](https://open.spotify.com/album/2gBIN9uSnZjf0mb3FjwEnb) | 4:18 |
 
-Snapshot ID: `MCw3NWVmNzIzODE5OGE1YTYxMTA5NTRjOWNjMmU2Y2FhZDc0YTIyM2Nk`
+Snapshot ID: `MCwxOTYzZWZiMTU0MTY1Y2RiZThiMmY2MmQzMmIxZTMzNGEyY2UxNDk2`

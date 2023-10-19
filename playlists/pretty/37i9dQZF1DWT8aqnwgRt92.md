@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT8aqnwgRt92.md) - [plain]
 
 > Hottest Anime tracks & best new sounds for all Anime fans! 最新アニメシーンの話題曲をまとめてお届け！Illustration by <a href="https://kazuhisauragami.com/"> Kazuhisa Uragami</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,357,935 likes - 85 songs - 5 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,358,361 likes - 85 songs - 5 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT8aqnwgRt92.md) - [plain]
 | 10 | [more than words](https://open.spotify.com/track/2ZT6eELxeETGamaiXu6vmk) | [Hitsujibungaku](https://open.spotify.com/artist/6S8w5rLsEwjN21jQeRES0n) | [more than words](https://open.spotify.com/album/6fdrt4Aa8bJIHb5L0GTn7V) | 4:49 |
 | 11 | [遥か](https://open.spotify.com/track/5DjOVg4mTlMHWsLREAHe7S) | [Ryujin Kiyoshi](https://open.spotify.com/artist/15c6wAJcxNMHjSZVjgE8VW) | [遥か](https://open.spotify.com/album/3YDS1skzsx5PZk0HspoEm9) | 3:01 |
 | 12 | [好きにしなよ](https://open.spotify.com/track/3Yyc0Ccj7lZ3VOgBFMlEQo) | [Anly](https://open.spotify.com/artist/5yJK9kmUG5wPAPDfaaandz) | [好きにしなよ](https://open.spotify.com/album/0himSAZSz3XxBPhX5JWs6p) | 4:26 |
-| 13 | [Realize \- from CrosSing](https://open.spotify.com/track/25grERy2w2raPd5qhWzyR7) | [小林裕介](https://open.spotify.com/artist/6M1QTTVszNGk2QR7DlsONZ) | [Realize \- from CrosSing](https://open.spotify.com/album/2tHSxRBFRdov3CW6oHC8L5) | 4:03 |
+| 13 | [Realize \- From CrosSing](https://open.spotify.com/track/45ERV2ib1M7bYkQaoma1I5) | [Yusuke Kobayashi](https://open.spotify.com/artist/6RmXHj7JiSCVZSvdsN5a10) | [Realize \- From CrosSing](https://open.spotify.com/album/7AUurGO9fs5WWPyl9B5QIH) | 4:03 |
 | 14 | [KUNOICHI](https://open.spotify.com/track/54oSb0hs2lyn13ZanbVUkW) | [BURNOUT SYNDROMES](https://open.spotify.com/artist/0Oazwl71qoHvXnbSxv0wOT), [ASCA](https://open.spotify.com/artist/5pjjlQXYjoMFWdjdKOre9s) | [KUNOICHI](https://open.spotify.com/album/1pVKX4UnCrRGGvwth0FyOI) | 3:39 |
 | 15 | [月光浴](https://open.spotify.com/track/6HyPxNFn7WcIIGVIPejiB1) | [ヨルシカ](https://open.spotify.com/artist/4UK2Lzi6fBfUi9rpDt6cik) | [月光浴](https://open.spotify.com/album/1I4xPMfCn7EWu1OBuQdZ6Q) | 4:08 |
 | 16 | [R.I.P.](https://open.spotify.com/track/4d4RL0VuwSA1JfRRXD9tXt) | [ReoNa](https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C) | [R.I.P.](https://open.spotify.com/album/4d5W6sksMk3FHYYmdd4u0E) | 3:22 |
@@ -57,7 +57,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT8aqnwgRt92.md) - [plain]
 | 47 | [REALiZE](https://open.spotify.com/track/4HFlBhRFp14CcbD8RReUB8) | [LiSA](https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv) | [REALiZE](https://open.spotify.com/album/5rA7l87Gxow5vfEU4tVMiG) | 3:10 |
 | 48 | [Nemurasareta Lineage](https://open.spotify.com/track/0yRoUHkP4ts76WpUhzybUd) | [JUNNA](https://open.spotify.com/artist/4l9mhLGvHBgUXIrDGUjy5d) | [Nemurasareta Lineage](https://open.spotify.com/album/1S4GpGs85seHZTLMaLyOE8) | 4:28 |
 | 49 | [BROKEN GAMES](https://open.spotify.com/track/77OLrw9sVVNHxnceM9q1i5) | [FZMZ](https://open.spotify.com/artist/0RrQBLmeSCUkYFs0vncrhb) | [BROKEN GAMES](https://open.spotify.com/album/4BFNnzdKzI39e29rNzeaEd) | 3:56 |
-| 50 | [JUNGLE FIRE \- feat\. MOTSU](https://open.spotify.com/track/4BL09VTi2ZyAbJMlyDIWFR) | [Yu Serizawa](https://open.spotify.com/artist/0TskwVXV9CO11Gjaf8mUuP), [motsu](https://open.spotify.com/artist/0pZo9IfX38NN78vI3ru3Lk) | [JUNGLE FIRE \(feat\. MOTSU\)](https://open.spotify.com/album/20trOmP1ollBDN40BlajRV) | 4:10 |
+| 50 | [JUNGLE FIRE \- feat\. MOTSU](https://open.spotify.com/track/2D8QxudJ7fEAijANn3UkQA) | [Yu Serizawa](https://open.spotify.com/artist/0TskwVXV9CO11Gjaf8mUuP), [motsu](https://open.spotify.com/artist/0pZo9IfX38NN78vI3ru3Lk) | [JUNGLE FIRE \(feat\. MOTSU\)](https://open.spotify.com/album/6xVTtIs5JaZnv6hMV1kuz8) | 4:10 |
 | 51 | [ドラマチックに恋したい](https://open.spotify.com/track/7p2htrKBL2mipLPAjBoSct) | [小玉ひかり](https://open.spotify.com/artist/6jRbqM1pnTraoN4Z122jza) | [ドラマチックに恋したい](https://open.spotify.com/album/01FwPLELlqqRlgHnPcc5j5) | 3:18 |
 | 52 | [Believe it leap](https://open.spotify.com/track/6Hfq3RH6KktAHBGzgc1PgV) | [杉本琢弥](https://open.spotify.com/artist/0cskwVqF25J07PVLTB2cuq) | [Believe it leap](https://open.spotify.com/album/2fh8EMh5KQHycf26aeags1) | 4:26 |
 | 53 | [Sukini Nattewa Ikenai Riyuu](https://open.spotify.com/track/6Hns4ZGJBGnqQtNBKg5QvI) | [藤川千愛](https://open.spotify.com/artist/4KtWUs76w4g6Ck12wskjeg) | [Sukini Nattewa Ikenai Riyuu](https://open.spotify.com/album/3l9BFzZXjw05UJa0BcfVxC) | 4:40 |
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT8aqnwgRt92.md) - [plain]
 | 84 | [Skyline](https://open.spotify.com/track/4eKbNMZEejC4lWxkRaDyan) | [Nulbarich](https://open.spotify.com/artist/2yPOqQXgXAw3TVjCNReIrD) | [Skyline](https://open.spotify.com/album/6MiQuUPf4xQK3QaVC2f7uO) | 3:57 |
 | 85 | [DRAW](https://open.spotify.com/track/68bacZy8OquMiXpmEUNi0L) | [XAAXAA](https://open.spotify.com/artist/0VcWUiBe3sJ7tqkZejkQvd) | [DRAW](https://open.spotify.com/album/1Xrw9J0zz0mYZxQRJUAlro) | 3:31 |
 
-Snapshot ID: `MCw4ZTM5MjJiMGY0MWViNzQxYjdmZTBmOGFjZDE5NGY5NzYyODBiOTkz`
+Snapshot ID: `MCw5NTE0MDdjYmE1YTNlNjFjY2ZjNGQzZjFlZjNkZjQ4ODI4Y2M3ZTI2`

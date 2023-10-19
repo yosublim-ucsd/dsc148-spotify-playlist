@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbR32Ldau7WM.md) - [plain]
 
 > The biggest rock bands/artists in Japan right now! Cover: 04 Limited Sazabys
 
-[Spotify](https://open.spotify.com/user/spotify) - 270,335 likes - 80 songs - 5 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 270,433 likes - 80 songs - 5 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,22 +50,22 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbR32Ldau7WM.md) - [plain]
 | 40 | [プラネタリア](https://open.spotify.com/track/1m0rRTBTKBCiXDkNdEKbYo) | [Fujifabric](https://open.spotify.com/artist/2QgdUzpKFNxey5IuwvsGBL) | [プラネタリア](https://open.spotify.com/album/17uYpGkXy9NB1RBzHVB7Ri) | 4:33 |
 | 41 | [Re:Re:](https://open.spotify.com/track/0WaaPFt4Qy8sVfxKz43bCD) | [ASIAN KUNG\-FU GENERATION](https://open.spotify.com/artist/0MK8l3nURwwQIjafvXoJJt) | [ソルファ](https://open.spotify.com/album/56xQzwz8VKC3LOtvrI4g04) | 3:48 |
 | 42 | [Aozora Brand New](https://open.spotify.com/track/1srFThaZmklInc18cbxlQb) | [flumpool](https://open.spotify.com/artist/5Kpt1mryjiwHa9goYPQG1o) | [The Best flumpool 2.0 \~ Blue\(2008\-2011\)& Red\(2019\-2023\) \~](https://open.spotify.com/album/1jUNCwNItivgFwAqqrAMNv) | 3:56 |
-| 43 | [儚くない](https://open.spotify.com/track/4oGe0AT9wDhwHfDTifSw0e) | [SUPER BEAVER](https://open.spotify.com/artist/0SMhG4gXGD4gzLMMz08cQU) | [儚くない](https://open.spotify.com/album/5EEjxpKogAFBEgzf8Kjlv2) | 5:10 |
+| 43 | [忘れられないの](https://open.spotify.com/track/7a3LbQFgp7NCuNcGlTgSsN) | [sakanaction](https://open.spotify.com/artist/0hCWVMGGQnRVfDgmhwLIxq) | [834.194](https://open.spotify.com/album/5pLmzFu2ienSbr1SxBJvwB) | 3:58 |
 | 44 | [Twilight Dance](https://open.spotify.com/track/7Ac59Y7c3ljeLyJQYiQufV) | [SHOW\-SKA](https://open.spotify.com/artist/7HHFBosCp3Dk045WaJPYwI), [GOW](https://open.spotify.com/artist/2bzaLDlrjCkdNlgiEmsIEV) | [TO THE INFINITY !!](https://open.spotify.com/album/7xl2EiHfvsnrvHFwsMHJNd) | 5:02 |
 | 45 | [シグナル](https://open.spotify.com/track/4Ybp3UvVXvraRNwOCWnrNq) | [WANIMA](https://open.spotify.com/artist/6YqdtpUutxodni6lUD4stM) | [Everybody!!](https://open.spotify.com/album/1spFHTdEd1oA8htGJxeIac) | 3:39 |
 | 46 | [Re\-monolith](https://open.spotify.com/track/2P406Mp2LZ8Iqai7WAUDs3) | [04 Limited Sazabys](https://open.spotify.com/artist/6Gem5Nh6gd9PCtWdzR7Odh) | [Re\-monolith](https://open.spotify.com/album/7AJtqR3thUCneHnGKgHAAa) | 3:23 |
 | 47 | [クロノスタシス](https://open.spotify.com/track/6Pd73yNBtoVpTRM6xLwOGp) | [BUMP OF CHICKEN](https://open.spotify.com/artist/0hSFeqPehe7FtCNWuQ6Bsy) | [クロノスタシス](https://open.spotify.com/album/4upctURy2F1F2rVfltc2P6) | 5:39 |
 | 48 | [O.T.S.S.](https://open.spotify.com/track/1xp4xPXKoWHkB6yWxfJaNT) | [SBK](https://open.spotify.com/artist/2zHoXYzIEiq5t25A4dqMDD), [ラッパ我リヤ](https://open.spotify.com/artist/0rNAEraQzDXHYQdurLutVe) | [O.T.S.S.](https://open.spotify.com/album/1prN09WZiCP2TOZuNLBgxQ) | 3:25 |
-| 49 | [忘れられないの](https://open.spotify.com/track/7a3LbQFgp7NCuNcGlTgSsN) | [sakanaction](https://open.spotify.com/artist/0hCWVMGGQnRVfDgmhwLIxq) | [834.194](https://open.spotify.com/album/5pLmzFu2ienSbr1SxBJvwB) | 3:58 |
+| 49 | [儚くない](https://open.spotify.com/track/4oGe0AT9wDhwHfDTifSw0e) | [SUPER BEAVER](https://open.spotify.com/artist/0SMhG4gXGD4gzLMMz08cQU) | [儚くない](https://open.spotify.com/album/5EEjxpKogAFBEgzf8Kjlv2) | 5:10 |
 | 50 | [GHOST SUMMER](https://open.spotify.com/track/4z5rrFnhA8Agb3yGjjBItv) | [the band apart \(naked\)](https://open.spotify.com/artist/6jXhrERTGFVSiffzV8iwBg) | [GHOST SUMMER](https://open.spotify.com/album/5T3NyX1UJKBw9v26whRoXv) | 4:22 |
 | 51 | [アフターダーク](https://open.spotify.com/track/6XsJTpZwPKMcG8QK8k14Z6) | [ASIAN KUNG\-FU GENERATION](https://open.spotify.com/artist/0MK8l3nURwwQIjafvXoJJt) | [ワールド ワールド ワールド](https://open.spotify.com/album/6ZcU0MGlWn9oc4dEhY1TEI) | 3:12 |
-| 52 | [ケモノミチ](https://open.spotify.com/track/4lpFErPc45W6HYnpoaxCdl) | [Mr.Children](https://open.spotify.com/artist/1qma7XhwZotCAucL7NHVLY) | [ケモノミチ](https://open.spotify.com/album/0klgJfPMllexvhss9c816Z) | 3:58 |
-| 53 | [Dark Crow](https://open.spotify.com/track/5aJg39ukLHsiCtCwoIHcF3) | [MAN WITH A MISSION](https://open.spotify.com/artist/3NTbOmzlj2cL86XFuDVFvZ) | [Dark Crow](https://open.spotify.com/album/1Rny5KOdByNfkZ9ww76NfT) | 4:38 |
-| 54 | [ひたむき](https://open.spotify.com/track/0JtDUkqOV5cRxTdHMXGP3t) | [SUPER BEAVER](https://open.spotify.com/artist/0SMhG4gXGD4gzLMMz08cQU) | [ひたむき](https://open.spotify.com/album/6Xot0ubHeYpeNjMelRHHnq) | 4:10 |
+| 52 | [Dark Crow](https://open.spotify.com/track/5aJg39ukLHsiCtCwoIHcF3) | [MAN WITH A MISSION](https://open.spotify.com/artist/3NTbOmzlj2cL86XFuDVFvZ) | [Dark Crow](https://open.spotify.com/album/1Rny5KOdByNfkZ9ww76NfT) | 4:38 |
+| 53 | [ケモノミチ](https://open.spotify.com/track/4lpFErPc45W6HYnpoaxCdl) | [Mr.Children](https://open.spotify.com/artist/1qma7XhwZotCAucL7NHVLY) | [ケモノミチ](https://open.spotify.com/album/0klgJfPMllexvhss9c816Z) | 3:58 |
+| 54 | [新宝島](https://open.spotify.com/track/4a48lWUd64bZgHUDx0GZlj) | [sakanaction](https://open.spotify.com/artist/0hCWVMGGQnRVfDgmhwLIxq) | [834.194](https://open.spotify.com/album/5pLmzFu2ienSbr1SxBJvwB) | 5:05 |
 | 55 | [I](https://open.spotify.com/track/2izrE4nmtn9fqyCMuxDafg) | [Creep Hyp](https://open.spotify.com/artist/6POfB0fHdzXFLWL3RHxLv8) | [I](https://open.spotify.com/album/2xHP2mMhaK2aIVS9vfLyYB) | 3:21 |
 | 56 | [Devil in Your Heart](https://open.spotify.com/track/3w8qOAwbHF6zYeYT7pj7DI) | [SiM](https://open.spotify.com/artist/2BM933ADIluGGrPBOhPgIt) | [THANK GOD, THERE ARE HUNDREDS OF WAYS TO KiLL ENEMiES](https://open.spotify.com/album/1NqQpcihfQEtMLJ3pz8Wi3) | 3:06 |
 | 57 | [アゲイン](https://open.spotify.com/track/1TdYXsTtYbud0IieSW5wbh) | [WANIMA](https://open.spotify.com/artist/6YqdtpUutxodni6lUD4stM) | [COMINATCHA!!](https://open.spotify.com/album/1R6DH3ahYHOQxqQUBFl3au) | 3:34 |
-| 58 | [新宝島](https://open.spotify.com/track/4a48lWUd64bZgHUDx0GZlj) | [sakanaction](https://open.spotify.com/artist/0hCWVMGGQnRVfDgmhwLIxq) | [834.194](https://open.spotify.com/album/5pLmzFu2ienSbr1SxBJvwB) | 5:05 |
+| 58 | [ひたむき](https://open.spotify.com/track/0JtDUkqOV5cRxTdHMXGP3t) | [SUPER BEAVER](https://open.spotify.com/artist/0SMhG4gXGD4gzLMMz08cQU) | [ひたむき](https://open.spotify.com/album/6Xot0ubHeYpeNjMelRHHnq) | 4:10 |
 | 59 | [能動的三分間](https://open.spotify.com/track/4veOvrYiK224LWEqHX39vv) | [Tokyo Incidents](https://open.spotify.com/artist/6KQWWzFLPQbqomJrieHAW5) | [スポーツ](https://open.spotify.com/album/5Gslq3e8XngG3BZfrpvhaU) | 3:00 |
 | 60 | [Fifty's map ～おとなの地図](https://open.spotify.com/track/5fNrWNdv7Qfj7EdCl31Rur) | [Mr.Children](https://open.spotify.com/artist/1qma7XhwZotCAucL7NHVLY) | [Fifty's map ～おとなの地図](https://open.spotify.com/album/2T1C7BX29tDn1rQNtYMnpn) | 4:50 |
 | 61 | [STARS](https://open.spotify.com/track/7nkujdHzJVWyNGs2oONiCw) | [B'z](https://open.spotify.com/artist/7i9bNUSGORP5MIgrii3cJc) | [STARS](https://open.spotify.com/album/5lrdC0MIt5wLoRGZ4wKmjE) | 3:55 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbR32Ldau7WM.md) - [plain]
 | 79 | [Kizukeyo Baby](https://open.spotify.com/track/3EEaEEltAaQAp0EhIwJEaK) | [THE ORAL CIGARETTES](https://open.spotify.com/artist/4rqJz9fE9prZvQd8WsQv6q) | [FIXION](https://open.spotify.com/album/7uy0IV2P1VxmeYcssedEq0) | 4:13 |
 | 80 | [平成ペイン](https://open.spotify.com/track/65mHu2GHtlQ8Fy3akl6hgX) | [go!go!vanillas](https://open.spotify.com/artist/0aqPTOZlKG6ltJHv7BNlsm) | [FOOLs](https://open.spotify.com/album/7sUJFlz84jJ2vbLFDePctW) | 3:56 |
 
-Snapshot ID: `MCw4MzgyZWU2MDczOGQ5ZjBmNzNmY2EyYTFjYzYzOTQ0NTRjYzkxOWVm`
+Snapshot ID: `MCw3YjZkYjUzYWNmOTRkN2RlYjU2MWQxN2RiNjIzNTYyY2Q0YTc3MGFh`

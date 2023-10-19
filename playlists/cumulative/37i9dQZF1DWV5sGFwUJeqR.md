@@ -4,7 +4,7 @@
 
 > El género cubano cantable y bailable por excelencia.
 
-97 songs - 7 hr 3 min
+98 songs - 7 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,7 +19,8 @@
 | [Amorosa Guajira](https://open.spotify.com/track/5fHVlc1CeEnZIY8H1dRJeH) | [Guillermo Portabales](https://open.spotify.com/artist/5tU4QY77fd3PavzBZvM3bJ) | [Perlas Cubanas: La Guajira de Salón](https://open.spotify.com/album/2Biey1UqsHvQtI3RnT1BrK) | 3:14 | 2020-04-30 |  |
 | [Apuntate Una Mi Social](https://open.spotify.com/track/6v7LUBe2Yzi7TWYZzuSKDC) | [Ibrahim Ferrer](https://open.spotify.com/artist/5dss7E1Ph0KxuF1ULfAx4D) | [Hecho en Cuba 2](https://open.spotify.com/album/0AanjTqmSLMEloTohF20qa) | 3:22 | 2022-03-31 | 2022-11-13 |
 | [Apúntame una, mi social](https://open.spotify.com/track/0iuQqUX7f1rFKx74XFQX9U) | [Ibrahim Ferrer](https://open.spotify.com/artist/5dss7E1Ph0KxuF1ULfAx4D) | [Buena Vista: More Havana Stars/ Mas Leyendas de La Habana](https://open.spotify.com/album/1xZevOPyaTojnTVzJfXyp2) | 3:22 | 2020-04-30 | 2022-07-29 |
-| [Apúntate Una Mi Social](https://open.spotify.com/track/6ipDuNIPhvJjr49imO4NAs) | [Ibrahim Ferrer](https://open.spotify.com/artist/5dss7E1Ph0KxuF1ULfAx4D) | [Ay, Candela](https://open.spotify.com/album/0rAH56MH8n2kDuJb8A7Hsr) | 3:22 | 2022-03-31 |  |
+| [Apúntate Una Mi Social](https://open.spotify.com/track/5IHL7T1DuPesNDJaGIQx8X) | [Ibrahim Ferrer](https://open.spotify.com/artist/5dss7E1Ph0KxuF1ULfAx4D) | [Ay, Candela](https://open.spotify.com/album/6Bx8Qxv38gSi05eeUGfsEo) | 3:22 | 2022-03-31 |  |
+| [Apúntate Una Mi Social](https://open.spotify.com/track/6ipDuNIPhvJjr49imO4NAs) | [Ibrahim Ferrer](https://open.spotify.com/artist/5dss7E1Ph0KxuF1ULfAx4D) | [Ay, Candela](https://open.spotify.com/album/0rAH56MH8n2kDuJb8A7Hsr) | 3:22 | 2022-03-31 | 2023-10-19 |
 | [Balcon de Santiago \- Remastered](https://open.spotify.com/track/2lGogaTTvs0Yp6W5qz7KEX) | [Compay Segundo](https://open.spotify.com/artist/2wpr4ILskkRzPBGodmbMs1) | [Balcon de Santiago \(Remastered\)](https://open.spotify.com/album/06UNPwH0HuHZqPjp3Cl8hw) | 2:53 | 2020-04-30 | 2022-07-29 |
 | [Balcón de Santiago \(Remastered\)](https://open.spotify.com/track/5f5a5E1XVqs6hrxonrKcV6) | [Compay Segundo](https://open.spotify.com/artist/2wpr4ILskkRzPBGodmbMs1) | [Salsita Cubana](https://open.spotify.com/album/7c7LG0NydYIuWV0aohal7f) | 2:55 | 2022-03-31 | 2022-11-13 |
 | [Balcón de Santiago \- Remasterizado](https://open.spotify.com/track/285lxlgZjoNevIhRJiHHQx) | [Compay Segundo](https://open.spotify.com/artist/2wpr4ILskkRzPBGodmbMs1) | [The Real Cuban Music \(Remasterizado\)](https://open.spotify.com/album/0pYYKEQfYNYbZg4s8ScUVu) | 2:53 | 2022-03-31 |  |

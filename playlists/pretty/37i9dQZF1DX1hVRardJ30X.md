@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 
 > All\-new releases by Latin artists! Cover: Ivan Cornejo
 
-[Spotify](https://open.spotify.com/user/spotify) - 581,277 likes - 50 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 581,341 likes - 50 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,7 +46,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 | 36 | [CNTRTE](https://open.spotify.com/track/6T1BqggkRJsqYDzdQs7boL) | [AQUIHAYAQUIHAY](https://open.spotify.com/artist/3zMBw1jxFritUP7Mpce68i) | [CNTRTE](https://open.spotify.com/album/2DbXHug7av6nbs0PQf7bwU) | 2:46 |
 | 37 | [Antisocial](https://open.spotify.com/track/1amyIqY3elpcAnL5cAmGxx) | [Javiielo](https://open.spotify.com/artist/3HH6yOn1yJNZo3RY5zEfy5), [Nekxum](https://open.spotify.com/artist/4gZwJrNP5NG3KGS2dRcS5c) | [Antisocial](https://open.spotify.com/album/6obUqXLtvZvbteEiCUYyq0) | 2:46 |
 | 38 | [Me Gusta Ese Lokito](https://open.spotify.com/track/0nArt1Dx0sI8WnBmXuh8FR) | [Aleesha](https://open.spotify.com/artist/18qC8mrcJ9ZjChRDPvpadi) | [Me Gusta Ese Lokito](https://open.spotify.com/album/7lmbsT7oWscPE7qr4fwOXU) | 2:47 |
-| 39 | [Joseador](https://open.spotify.com/track/2MkPpEEpiRNjssScVDZEqK) | [Wolf MIA](https://open.spotify.com/artist/3004nWNr1vK7anBcB3lFkb), [Midnvght](https://open.spotify.com/artist/2f0j8IhXgOli2Ub2amAiUZ), [daymebeats](https://open.spotify.com/artist/6Xv0YI3kclBBx9bFsticPd) | [Joseador](https://open.spotify.com/album/7hFazOzVmHkvZyJLAI7rUB) | 2:11 |
+| 39 | [Joseador](https://open.spotify.com/track/2MkPpEEpiRNjssScVDZEqK) | [Wolf MIA](https://open.spotify.com/artist/3004nWNr1vK7anBcB3lFkb), [Midnvght](https://open.spotify.com/artist/2f0j8IhXgOli2Ub2amAiUZ), [Dayme Beats](https://open.spotify.com/artist/0cARZSRkYfYAk37T5yFTHW) | [Joseador](https://open.spotify.com/album/7hFazOzVmHkvZyJLAI7rUB) | 2:11 |
 | 40 | [X MÁS QUE TE QUERÍA](https://open.spotify.com/track/2nUo1RZRh32O3R27UZpA2d) | [Itzza Primera](https://open.spotify.com/artist/0PlTbBrPOOOmJzprmZ4cdM) | [X MÁS QUE TE QUERÍA](https://open.spotify.com/album/2bMFKkz5qP10PsgLWkFeUT) | 2:30 |
 | 41 | [Me Enamoré Del Dinero](https://open.spotify.com/track/6HQlBVYUdkHJ5p425w5BYu) | [Rokero](https://open.spotify.com/artist/4LnMIW4aNwegikxZkUN4ir) | [Me Enamoré Del Dinero](https://open.spotify.com/album/7dCriCYIgsezgxc5cCW3nZ) | 2:44 |
 | 42 | [La Vibra](https://open.spotify.com/track/3rHfzFjnpq32jbOBVZrccO) | [Mimi Rose](https://open.spotify.com/artist/0gm0s1Jbc0lIuzDLHH1SYB), [Lenin Jr](https://open.spotify.com/artist/1aNKTI3XHHSU5gWavmse4m) | [La Vibra](https://open.spotify.com/album/1zxx5cy9wpdnuMaSg7XEk4) | 2:40 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 | 49 | [Una Vez Más](https://open.spotify.com/track/3mr30QQsPp1GrHKMVouolW) | [Astro Andy](https://open.spotify.com/artist/7Mx1mmKAtCnSUsemQwussI) | [Una Vez Más](https://open.spotify.com/album/50cY1PxotBkhDw3cOob6Me) | 3:00 |
 | 50 | [LADILLA](https://open.spotify.com/track/4M3koMnj680ydN4egdg1e8) | [Joa & Jalys](https://open.spotify.com/artist/4Qypd98pOg4Lp2kCxXBic9) | [LADILLA](https://open.spotify.com/album/1OeMWfABUKJbBe1WAhSela) | 2:31 |
 
-Snapshot ID: `MCxmODBmOGVmMWEyZTFiZDYzNWIxYjcyM2EwYTAwYmExYjk5NWY1YjBh`
+Snapshot ID: `MCxjMDU4ZGE4NzZhNzFhZWRkYjA2NjFmM2NlNDczZTUwOWI5OGZiZGRm`

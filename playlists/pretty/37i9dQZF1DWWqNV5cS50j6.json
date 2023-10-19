@@ -1,12 +1,12 @@
 {
   "description": "Not NOT pop. Cover: ericdoa",
-  "num_followers": 696150,
+  "num_followers": 696174,
   "original_name": "anti pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0YTJmOGUwZjdlOTY4MGRkYmY3NTliNGU0Nzg1MDY1MDhlZDYyMzMx",
+  "snapshot_id": "MCxjMTA5YTQ2MTQwNGI5ZGJkODc2YTA4NzVmMmI2OTBlZjY3OTZkNjFk",
   "tracks": [
     {
       "added_at": "2023-09-22 16:42:23",
@@ -93,6 +93,26 @@
       "url": "https://open.spotify.com/track/6EQLN1Fl8oy46k4FMwhxug"
     },
     {
+      "added_at": "2023-10-17 19:44:13",
+      "album": {
+        "name": "SCRAPYARD I",
+        "url": "https://open.spotify.com/album/0EVBIlbbAPSiXj2tRH5nE4"
+      },
+      "artists": [
+        {
+          "name": "Quadeca",
+          "url": "https://open.spotify.com/artist/3zz52ViyCBcplK0ftEVPSS"
+        },
+        {
+          "name": "brakence",
+          "url": "https://open.spotify.com/artist/4kqFrZkeqDfOIEqTWqbOOV"
+        }
+      ],
+      "duration_ms": 181915,
+      "name": "A LA CARTE",
+      "url": "https://open.spotify.com/track/5L6F6siaHwwpuR1exuZPnH"
+    },
+    {
       "added_at": "2023-10-05 23:05:46",
       "album": {
         "name": "Sad Night Dynamite",
@@ -123,6 +143,34 @@
       "duration_ms": 165499,
       "name": "HIT EM WHERE IT HURTS",
       "url": "https://open.spotify.com/track/7888F1QWPTn4cPbuknNV4T"
+    },
+    {
+      "added_at": "2023-10-18 18:54:01",
+      "album": {
+        "name": "WORLD STOP TURNING (feat. Warren Hue)",
+        "url": "https://open.spotify.com/album/73uv8IgpT6e22cr6ZRzH2x"
+      },
+      "artists": [
+        {
+          "name": "1999 WRITE THE FUTURE",
+          "url": "https://open.spotify.com/artist/33aS3DKsGRMWBwjM9ddhak"
+        },
+        {
+          "name": "Rich Brian",
+          "url": "https://open.spotify.com/artist/2IDLDx25HU1nQMKde4n61a"
+        },
+        {
+          "name": "Zion.T",
+          "url": "https://open.spotify.com/artist/5HenzRvMtSrgtvU16XAoby"
+        },
+        {
+          "name": "Warren Hue",
+          "url": "https://open.spotify.com/artist/4qcKNkdxUidhvUByB2eQ6g"
+        }
+      ],
+      "duration_ms": 248403,
+      "name": "WORLD STOP TURNING (feat. Warren Hue)",
+      "url": "https://open.spotify.com/track/4nrTZBPIBCmU4RDsXfNwp0"
     },
     {
       "added_at": "2023-10-13 16:01:40",
@@ -171,26 +219,6 @@
       "duration_ms": 185105,
       "name": "my sweet caroline",
       "url": "https://open.spotify.com/track/41FPk5C1XcGEYIpTHVoCO5"
-    },
-    {
-      "added_at": "2023-10-17 19:44:13",
-      "album": {
-        "name": "SCRAPYARD I",
-        "url": "https://open.spotify.com/album/0EVBIlbbAPSiXj2tRH5nE4"
-      },
-      "artists": [
-        {
-          "name": "Quadeca",
-          "url": "https://open.spotify.com/artist/3zz52ViyCBcplK0ftEVPSS"
-        },
-        {
-          "name": "brakence",
-          "url": "https://open.spotify.com/artist/4kqFrZkeqDfOIEqTWqbOOV"
-        }
-      ],
-      "duration_ms": 181915,
-      "name": "A LA CARTE",
-      "url": "https://open.spotify.com/track/5L6F6siaHwwpuR1exuZPnH"
     },
     {
       "added_at": "2023-10-13 16:01:40",

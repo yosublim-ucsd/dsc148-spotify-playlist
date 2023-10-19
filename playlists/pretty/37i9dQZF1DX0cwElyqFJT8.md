@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0cwElyqFJT8.md) - [plain]
 
 > Uplifting Ambient to bring on flow and connection.
 
-[Spotify](https://open.spotify.com/user/spotify) - 662 likes - 60 songs - 2 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 676 likes - 60 songs - 2 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0cwElyqFJT8.md) - [plain]
 | 11 | [Azure](https://open.spotify.com/track/5yhFMyyzQKl9w3D4oWXPPt) | [Jake Slumber](https://open.spotify.com/artist/5zXzDGnSdx0XqjZzuKNNYx) | [Highlights](https://open.spotify.com/album/2VR51P4HVXyUxmeBLCGx7q) | 2:47 |
 | 12 | [Secluded Silence](https://open.spotify.com/track/7gW4wwzkNAYdmzRxICUIFM) | [Adumbration](https://open.spotify.com/artist/5VWWftIdcTzXDWTicX5l0c) | [Secluded Silence](https://open.spotify.com/album/3kvU85FsotP9SIHx2RyDCQ) | 3:03 |
 | 13 | [Bliss](https://open.spotify.com/track/6CyhyoyReIuVataudR0uv8) | [Theodore Brim](https://open.spotify.com/artist/1qzetpI2OtTttg58OsZI0o) | [Elegance](https://open.spotify.com/album/3Jnn48sROmjLQe0hKqIa2P) | 3:02 |
-| 14 | [Promised](https://open.spotify.com/track/1fSln3JhzB7Asdi83JTvPa) | [Macroix](https://open.spotify.com/artist/2HZBmRJ4fqmsOnYuhnn16Q) | [Promised](https://open.spotify.com/album/1kTofA1YT3X06ZU94dXJhN) | 2:33 |
+| 14 | [Promised](https://open.spotify.com/track/1fSln3JhzB7Asdi83JTvPa) | [Macroix](https://open.spotify.com/artist/3ooxJFdCXxyk6heox7EOPV) | [Promised](https://open.spotify.com/album/1kTofA1YT3X06ZU94dXJhN) | 2:33 |
 | 15 | [Moonrise](https://open.spotify.com/track/2WnsWCi2HIpLTgr0iHpBKj) | [Asa Kora](https://open.spotify.com/artist/174Lkyx2f5M77yWd1Mofqj) | [Moonrise](https://open.spotify.com/album/7jXOtpLpgKAucnCpXJUkOg) | 3:28 |
 | 16 | [Serene Balance](https://open.spotify.com/track/2xKFUeL4g61DZnNzgCzw2k) | [ZIWA](https://open.spotify.com/artist/0b4CwcngfsLbUi3lNZ1WRf) | [Ethereal Echoes](https://open.spotify.com/album/7rd3MG2p63mwoS8aTPhc8k) | 3:29 |
 | 17 | [I Stillhet](https://open.spotify.com/track/6njvRx7CurDgY3G5TBdtkO) | [Mira Appelquist](https://open.spotify.com/artist/7duj1Wl88dFeqsgmXdxoDW) | [I Stillhet](https://open.spotify.com/album/7FdCOiTsknClP9umzLUb5c) | 2:53 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0cwElyqFJT8.md) - [plain]
 | 59 | [Fleur](https://open.spotify.com/track/1lGj3SVkZAbd4Flhv3QgDe) | [Tova Martin](https://open.spotify.com/artist/4JzWkUDHMAo4rmsgBGs3ua) | [Doux](https://open.spotify.com/album/6KLXeh39RYl1JBnCghcgRU) | 2:59 |
 | 60 | [Positive Thinking](https://open.spotify.com/track/66KL79kEj6c6iOz16ub3i7) | [Noor Alston](https://open.spotify.com/artist/7BfCHxx2f890fGirKuNbTI) | [Positive Thinking](https://open.spotify.com/album/6hjpo4AgZRiIRsjCQEwjM0) | 2:25 |
 
-Snapshot ID: `MCw5N2M1Yzg4NTA3Mjc4YjM5ZjhhZjM1ZTk0YmQ5OTIwYjA5OTE1NDgz`
+Snapshot ID: `MCw1Y2U3NThmYzJkZjJhYWM3MGJjOGMwMDBjZmY2YTVkOWE5YWEzMmNk`

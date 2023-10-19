@@ -4,7 +4,7 @@
 
 > Hora de dançar com os grandes hits da música eletrônica/dance! Foto: Calvin Harris
 
-73 songs - 4 hr 53 min
+74 songs - 4 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,7 +38,8 @@
 | [I Found U \- Remode Radio Edit](https://open.spotify.com/track/4brtBQaAKwan97CyLNIG6t) | [Axwell](https://open.spotify.com/artist/1xNmvlEiICkRlRGqlNFZ43) | [I Found U](https://open.spotify.com/album/1WoQtItFeo0FGesGkDHDv8) | 2:51 | 2020-04-29 | 2023-10-18 |
 | [I Remember \- Vocal Mix](https://open.spotify.com/track/6R3bajI4ZCrUfrPUhLakO1) | [deadmau5](https://open.spotify.com/artist/2CIMQHirSU0MQqyYHq0eOx) | [Random Album Title \(Unmixed Extended Versions\)](https://open.spotify.com/album/4SQc1Al4ilF0vCqtnjXEDk) | 9:53 | 2020-04-29 |  |
 | [I Wish](https://open.spotify.com/track/5sdDzzl866nMO5HQaNWrUH) | [Infected Mushroom](https://open.spotify.com/artist/6S2tas4z6DyIklBajDqJxI) | [Converting Vegetarians](https://open.spotify.com/album/3LbcBylGvC80f5OTeQaVuM) | 3:00 | 2020-04-29 |  |
-| [In The Dark \- Dirty South Remix](https://open.spotify.com/track/6s0mcs8CmXQlSrWW3Jq5An) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [Christian Burns](https://open.spotify.com/artist/1hu8RDN5gKsi2YYvWTOAqY) | [Elements Of Life \(Remixed\)](https://open.spotify.com/album/3jZZRjqznQ9uBJXkbfmxR3) | 5:46 | 2020-04-29 |  |
+| [In the Dark \- Dirty South Remix](https://open.spotify.com/track/6SDZjgocJSpDSIVng85avv) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z) | [Elements of Life \(Bonus Version\)](https://open.spotify.com/album/2GMSOwQAysOQSqs5i4CFOG) | 5:46 | 2020-04-29 |  |
+| [In The Dark \- Dirty South Remix](https://open.spotify.com/track/6s0mcs8CmXQlSrWW3Jq5An) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [Christian Burns](https://open.spotify.com/artist/1hu8RDN5gKsi2YYvWTOAqY) | [Elements Of Life \(Remixed\)](https://open.spotify.com/album/3jZZRjqznQ9uBJXkbfmxR3) | 5:46 | 2020-04-29 | 2023-10-19 |
 | [Infinity 2008 \- Klaas Vocal Edit](https://open.spotify.com/track/3aQz0z86zrKjd1mcZlonxE) | [Guru Josh Project](https://open.spotify.com/artist/4ME85YvMUi1hdqhbind7gy), [Klaas](https://open.spotify.com/artist/25sJFKMqDENdsTF7zRXoif) | [Infinity 2008](https://open.spotify.com/album/1uyF93NDsuRn4LqZIl3lyY) | 3:12 | 2020-04-29 |  |
 | [Kernkraft 400 \- DJ Gius Mix, Radio Edit](https://open.spotify.com/track/7g8cjrj0sXScNE727685JE) | [Zombie Nation](https://open.spotify.com/artist/7vFpNLbCXbBFs4kFBUlkSl) | [Kernkraft 400 Single Mixes](https://open.spotify.com/album/2qmrRoUZQemrKFr9PBMDHd) | 3:27 | 2020-04-29 |  |
 | [Lean On](https://open.spotify.com/track/1Lim1Py7xBgbAkAys3AGAG) | [Major Lazer](https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp), [MØ](https://open.spotify.com/artist/0bdfiayQAKewqEvaU6rXCv), [DJ Snake](https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4) | [Peace Is The Mission \(Extended\)](https://open.spotify.com/album/4pCLlUxlKj3pNVdBtFyhrU) | 2:56 | 2020-04-29 |  |

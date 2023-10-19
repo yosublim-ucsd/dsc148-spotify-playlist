@@ -1,12 +1,12 @@
 {
   "description": "Repeat-free hours of new and beloved indie folk. Cover: Mitski",
-  "num_followers": 803220,
+  "num_followers": 803296,
   "original_name": "Infinite Indie Folk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2M2YzYjRiOGM4MzA3NTdkYzI5NzMxMGFhNzA3MzczOWY0NTFhMDdj",
+  "snapshot_id": "MCw5MGM0MTIwMTI4YjRkZTJlMzc2Nzk4MDMyNDVlZDliYmFlMTYxMjRk",
   "tracks": [
     {
       "added_at": "2023-10-13 04:00:00",
@@ -379,18 +379,18 @@
     {
       "added_at": "2023-10-13 04:00:00",
       "album": {
-        "name": "Orange Blood",
-        "url": "https://open.spotify.com/album/3EP2uvI3t1m5UCCSA1iTtV"
+        "name": "Javelin",
+        "url": "https://open.spotify.com/album/2KqSL3vLfyVO7rrZJL9tUs"
       },
       "artists": [
         {
-          "name": "Mt. Joy",
-          "url": "https://open.spotify.com/artist/69tiO1fG8VWduDl3ji2qhI"
+          "name": "Sufjan Stevens",
+          "url": "https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c"
         }
       ],
-      "duration_ms": 188266,
-      "name": "Bathroom Light",
-      "url": "https://open.spotify.com/track/32xm5clCZkPPc7hdQRZjYQ"
+      "duration_ms": 289897,
+      "name": "So You Are Tired",
+      "url": "https://open.spotify.com/track/0pkm7xATstQUqHoitmE3ru"
     },
     {
       "added_at": "2023-10-13 04:00:00",
@@ -423,18 +423,18 @@
     {
       "added_at": "2023-10-13 04:00:00",
       "album": {
-        "name": "Javelin",
-        "url": "https://open.spotify.com/album/2KqSL3vLfyVO7rrZJL9tUs"
+        "name": "Orange Blood",
+        "url": "https://open.spotify.com/album/3EP2uvI3t1m5UCCSA1iTtV"
       },
       "artists": [
         {
-          "name": "Sufjan Stevens",
-          "url": "https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c"
+          "name": "Mt. Joy",
+          "url": "https://open.spotify.com/artist/69tiO1fG8VWduDl3ji2qhI"
         }
       ],
-      "duration_ms": 289897,
-      "name": "So You Are Tired",
-      "url": "https://open.spotify.com/track/0pkm7xATstQUqHoitmE3ru"
+      "duration_ms": 188266,
+      "name": "Bathroom Light",
+      "url": "https://open.spotify.com/track/32xm5clCZkPPc7hdQRZjYQ"
     },
     {
       "added_at": "2023-10-13 04:00:00",
@@ -1207,22 +1207,6 @@
     {
       "added_at": "2023-10-13 04:00:00",
       "album": {
-        "name": "Chlo\u00eb and the Next 20th Century",
-        "url": "https://open.spotify.com/album/2tfg6zi5pwuYeQ0IHYnOBz"
-      },
-      "artists": [
-        {
-          "name": "Father John Misty",
-          "url": "https://open.spotify.com/artist/2kGBy2WHvF0VdZyqiVCkDT"
-        }
-      ],
-      "duration_ms": 300240,
-      "name": "Goodbye Mr. Blue",
-      "url": "https://open.spotify.com/track/7ydJaSdC8Au68eYgspNznY"
-    },
-    {
-      "added_at": "2023-10-13 04:00:00",
-      "album": {
         "name": "Colors",
         "url": "https://open.spotify.com/album/0VfWB085G8pwOy6kpUhd0F"
       },
@@ -1239,6 +1223,22 @@
       "duration_ms": 116794,
       "name": "Colors",
       "url": "https://open.spotify.com/track/5t1h9peb8agz2mxvXtSlou"
+    },
+    {
+      "added_at": "2023-10-13 04:00:00",
+      "album": {
+        "name": "Chlo\u00eb and the Next 20th Century",
+        "url": "https://open.spotify.com/album/2tfg6zi5pwuYeQ0IHYnOBz"
+      },
+      "artists": [
+        {
+          "name": "Father John Misty",
+          "url": "https://open.spotify.com/artist/2kGBy2WHvF0VdZyqiVCkDT"
+        }
+      ],
+      "duration_ms": 300240,
+      "name": "Goodbye Mr. Blue",
+      "url": "https://open.spotify.com/track/7ydJaSdC8Au68eYgspNznY"
     },
     {
       "added_at": "2023-10-13 04:00:00",
@@ -1387,6 +1387,22 @@
     {
       "added_at": "2023-10-13 04:00:00",
       "album": {
+        "name": "Dark Corners and Alchemy",
+        "url": "https://open.spotify.com/album/3pcb6cs5ZquBAOiZXuQQRA"
+      },
+      "artists": [
+        {
+          "name": "mehro",
+          "url": "https://open.spotify.com/artist/1ZwhhTSUPr7EBZHd1GjOT7"
+        }
+      ],
+      "duration_ms": 191241,
+      "name": "pirate song",
+      "url": "https://open.spotify.com/track/4Lfp5tapFcY87K1z5s8d4E"
+    },
+    {
+      "added_at": "2023-10-13 04:00:00",
+      "album": {
         "name": "and we\u2019ll leave it there\u2026",
         "url": "https://open.spotify.com/album/1b7UmY5gAuMFrcotfQ8G6d"
       },
@@ -1403,22 +1419,6 @@
       "duration_ms": 219840,
       "name": "and we\u2019ll leave it there\u2026",
       "url": "https://open.spotify.com/track/55k261ZvchUvKnC62TYwK9"
-    },
-    {
-      "added_at": "2023-10-13 04:00:00",
-      "album": {
-        "name": "Dark Corners and Alchemy",
-        "url": "https://open.spotify.com/album/3pcb6cs5ZquBAOiZXuQQRA"
-      },
-      "artists": [
-        {
-          "name": "mehro",
-          "url": "https://open.spotify.com/artist/1ZwhhTSUPr7EBZHd1GjOT7"
-        }
-      ],
-      "duration_ms": 191241,
-      "name": "pirate song",
-      "url": "https://open.spotify.com/track/4Lfp5tapFcY87K1z5s8d4E"
     },
     {
       "added_at": "2023-10-13 04:00:00",
@@ -1487,22 +1487,6 @@
     {
       "added_at": "2023-10-13 04:00:00",
       "album": {
-        "name": "Motivational Speaking",
-        "url": "https://open.spotify.com/album/0XMWbprQxPKfQKU3i8AyAl"
-      },
-      "artists": [
-        {
-          "name": "Old Sea Brigade",
-          "url": "https://open.spotify.com/artist/6vUNwmljZAcn7tNtUoxG45"
-        }
-      ],
-      "duration_ms": 192453,
-      "name": "Day by Day",
-      "url": "https://open.spotify.com/track/1bDS3ktQSucD150gp86iFU"
-    },
-    {
-      "added_at": "2023-10-13 04:00:00",
-      "album": {
         "name": "Cerulean",
         "url": "https://open.spotify.com/album/6ItTL1YLeVn87SfJscm1KW"
       },
@@ -1519,6 +1503,22 @@
       "duration_ms": 240787,
       "name": "Consolation Prize",
       "url": "https://open.spotify.com/track/3QeznxbfXEQAy7BnYAqjGN"
+    },
+    {
+      "added_at": "2023-10-13 04:00:00",
+      "album": {
+        "name": "Motivational Speaking",
+        "url": "https://open.spotify.com/album/0XMWbprQxPKfQKU3i8AyAl"
+      },
+      "artists": [
+        {
+          "name": "Old Sea Brigade",
+          "url": "https://open.spotify.com/artist/6vUNwmljZAcn7tNtUoxG45"
+        }
+      ],
+      "duration_ms": 192453,
+      "name": "Day by Day",
+      "url": "https://open.spotify.com/track/1bDS3ktQSucD150gp86iFU"
     },
     {
       "added_at": "2023-10-13 04:00:00",
@@ -1835,6 +1835,22 @@
     {
       "added_at": "2023-10-13 04:00:00",
       "album": {
+        "name": "Cusp",
+        "url": "https://open.spotify.com/album/6jGsKEUE3weS6QBs5tR2M4"
+      },
+      "artists": [
+        {
+          "name": "Alela Diane",
+          "url": "https://open.spotify.com/artist/2QIHd0B2VIKlmLyoq4lUr7"
+        }
+      ],
+      "duration_ms": 191813,
+      "name": "\u00c9migr\u00e9",
+      "url": "https://open.spotify.com/track/3t9dQLtZPB8dXRu6QrQYLS"
+    },
+    {
+      "added_at": "2023-10-13 04:00:00",
+      "album": {
         "name": "Other\u2019s Melodies",
         "url": "https://open.spotify.com/album/3rkUjM57mjVjnqr2f2nvtA"
       },
@@ -1851,18 +1867,18 @@
     {
       "added_at": "2023-10-13 04:00:00",
       "album": {
-        "name": "Cusp",
-        "url": "https://open.spotify.com/album/6jGsKEUE3weS6QBs5tR2M4"
+        "name": "To Learn",
+        "url": "https://open.spotify.com/album/5k6lsjpZK4l4J9oMQmBR1l"
       },
       "artists": [
         {
-          "name": "Alela Diane",
-          "url": "https://open.spotify.com/artist/2QIHd0B2VIKlmLyoq4lUr7"
+          "name": "Leith Ross",
+          "url": "https://open.spotify.com/artist/4nxKz1dRYXnsGzN1lUURtG"
         }
       ],
-      "duration_ms": 191813,
-      "name": "\u00c9migr\u00e9",
-      "url": "https://open.spotify.com/track/3t9dQLtZPB8dXRu6QrQYLS"
+      "duration_ms": 137060,
+      "name": "To Learn",
+      "url": "https://open.spotify.com/track/63a0svve0p3CIiGx9a9DTy"
     },
     {
       "added_at": "2023-10-13 04:00:00",
@@ -1903,6 +1919,22 @@
     {
       "added_at": "2023-10-13 04:00:00",
       "album": {
+        "name": "A Month Or Two",
+        "url": "https://open.spotify.com/album/5nki9hMoIsCxIQeV4enHBh"
+      },
+      "artists": [
+        {
+          "name": "Odie Leigh",
+          "url": "https://open.spotify.com/artist/7AgbNZPRrvTpWjVbbPoUmU"
+        }
+      ],
+      "duration_ms": 191226,
+      "name": "A Month Or Two",
+      "url": "https://open.spotify.com/track/002nFT2kRsfvS0d17AwWsB"
+    },
+    {
+      "added_at": "2023-10-13 04:00:00",
+      "album": {
         "name": "Permanent Way",
         "url": "https://open.spotify.com/album/4SJv0ML9KXGtEk6YdPK9Sv"
       },
@@ -1931,38 +1963,6 @@
       "duration_ms": 248385,
       "name": "The Missing Road",
       "url": "https://open.spotify.com/track/1RBEBRUKdXKFKILSHkbQFa"
-    },
-    {
-      "added_at": "2023-10-13 04:00:00",
-      "album": {
-        "name": "A Month Or Two",
-        "url": "https://open.spotify.com/album/5nki9hMoIsCxIQeV4enHBh"
-      },
-      "artists": [
-        {
-          "name": "Odie Leigh",
-          "url": "https://open.spotify.com/artist/7AgbNZPRrvTpWjVbbPoUmU"
-        }
-      ],
-      "duration_ms": 191226,
-      "name": "A Month Or Two",
-      "url": "https://open.spotify.com/track/002nFT2kRsfvS0d17AwWsB"
-    },
-    {
-      "added_at": "2023-10-13 04:00:00",
-      "album": {
-        "name": "To Learn",
-        "url": "https://open.spotify.com/album/5k6lsjpZK4l4J9oMQmBR1l"
-      },
-      "artists": [
-        {
-          "name": "Leith Ross",
-          "url": "https://open.spotify.com/artist/4nxKz1dRYXnsGzN1lUURtG"
-        }
-      ],
-      "duration_ms": 137060,
-      "name": "To Learn",
-      "url": "https://open.spotify.com/track/63a0svve0p3CIiGx9a9DTy"
     },
     {
       "added_at": "2023-10-13 04:00:00",
@@ -2167,22 +2167,6 @@
     {
       "added_at": "2023-10-13 04:00:00",
       "album": {
-        "name": "Sleepless in Seattle",
-        "url": "https://open.spotify.com/album/1LY1O1GGbuH89FpOPqWaJL"
-      },
-      "artists": [
-        {
-          "name": "Noah Gundersen",
-          "url": "https://open.spotify.com/artist/34482S5nfxR441wcnVfrHi"
-        }
-      ],
-      "duration_ms": 240813,
-      "name": "Sleepless in Seattle",
-      "url": "https://open.spotify.com/track/1JEjCzwE9viGiRyewkcWy9"
-    },
-    {
-      "added_at": "2023-10-13 04:00:00",
-      "album": {
         "name": "Feel (with Kyson)",
         "url": "https://open.spotify.com/album/7ag6US432XEiupeaKuQIcD"
       },
@@ -2203,6 +2187,22 @@
     {
       "added_at": "2023-10-13 04:00:00",
       "album": {
+        "name": "Sleepless in Seattle",
+        "url": "https://open.spotify.com/album/1LY1O1GGbuH89FpOPqWaJL"
+      },
+      "artists": [
+        {
+          "name": "Noah Gundersen",
+          "url": "https://open.spotify.com/artist/34482S5nfxR441wcnVfrHi"
+        }
+      ],
+      "duration_ms": 240813,
+      "name": "Sleepless in Seattle",
+      "url": "https://open.spotify.com/track/1JEjCzwE9viGiRyewkcWy9"
+    },
+    {
+      "added_at": "2023-10-13 04:00:00",
+      "album": {
         "name": "Lemon [Feat. Sharon Van Etten]",
         "url": "https://open.spotify.com/album/5TQRtgQRRNiXb2fIah2lE4"
       },
@@ -2219,6 +2219,22 @@
       "duration_ms": 197880,
       "name": "Lemon [Feat. Sharon Van Etten]",
       "url": "https://open.spotify.com/track/2WphjSfmTbX4wZ48SzYwaH"
+    },
+    {
+      "added_at": "2023-10-13 04:00:00",
+      "album": {
+        "name": "Bad Moves",
+        "url": "https://open.spotify.com/album/6c2fkeEyjpOCqJqj5L6BTy"
+      },
+      "artists": [
+        {
+          "name": "The Bones of J.R. Jones",
+          "url": "https://open.spotify.com/artist/7sMcWECQxLm7EoKdRlSCAn"
+        }
+      ],
+      "duration_ms": 246800,
+      "name": "Bad Moves",
+      "url": "https://open.spotify.com/track/04LtT3aIQTrKUpVR9UG3OL"
     },
     {
       "added_at": "2023-10-13 04:00:00",
@@ -2263,22 +2279,6 @@
     {
       "added_at": "2023-10-13 04:00:00",
       "album": {
-        "name": "Bad Moves",
-        "url": "https://open.spotify.com/album/6c2fkeEyjpOCqJqj5L6BTy"
-      },
-      "artists": [
-        {
-          "name": "The Bones of J.R. Jones",
-          "url": "https://open.spotify.com/artist/7sMcWECQxLm7EoKdRlSCAn"
-        }
-      ],
-      "duration_ms": 246800,
-      "name": "Bad Moves",
-      "url": "https://open.spotify.com/track/04LtT3aIQTrKUpVR9UG3OL"
-    },
-    {
-      "added_at": "2023-10-13 04:00:00",
-      "album": {
         "name": "dirt",
         "url": "https://open.spotify.com/album/1cnrZ3t6GI4S6JIiiEkVuB"
       },
@@ -2311,22 +2311,6 @@
     {
       "added_at": "2023-10-13 04:00:00",
       "album": {
-        "name": "Henry St.",
-        "url": "https://open.spotify.com/album/6PawgZNtkuBH5uVY9qo2h9"
-      },
-      "artists": [
-        {
-          "name": "The Tallest Man On Earth",
-          "url": "https://open.spotify.com/artist/2BpAc5eK7Rz5GAwSp9UYXa"
-        }
-      ],
-      "duration_ms": 215280,
-      "name": "Looking For Love",
-      "url": "https://open.spotify.com/track/4HaVJ5EePm2ABB6CP2Ff5X"
-    },
-    {
-      "added_at": "2023-10-13 04:00:00",
-      "album": {
         "name": "The Weather Station",
         "url": "https://open.spotify.com/album/31zbZWJ5o51IijJaVjZDOQ"
       },
@@ -2339,6 +2323,22 @@
       "duration_ms": 220253,
       "name": "Thirty",
       "url": "https://open.spotify.com/track/2TQXJmPwCgmIXpAtz9dyCI"
+    },
+    {
+      "added_at": "2023-10-13 04:00:00",
+      "album": {
+        "name": "Henry St.",
+        "url": "https://open.spotify.com/album/6PawgZNtkuBH5uVY9qo2h9"
+      },
+      "artists": [
+        {
+          "name": "The Tallest Man On Earth",
+          "url": "https://open.spotify.com/artist/2BpAc5eK7Rz5GAwSp9UYXa"
+        }
+      ],
+      "duration_ms": 215280,
+      "name": "Looking For Love",
+      "url": "https://open.spotify.com/track/4HaVJ5EePm2ABB6CP2Ff5X"
     },
     {
       "added_at": "2023-10-13 04:00:00",
@@ -2359,22 +2359,6 @@
     {
       "added_at": "2023-10-13 04:00:00",
       "album": {
-        "name": "Bedouine (Deluxe)",
-        "url": "https://open.spotify.com/album/5xkDtosZAm6qiGyRFc6ocB"
-      },
-      "artists": [
-        {
-          "name": "Bedouine",
-          "url": "https://open.spotify.com/artist/6IiZemRMna678qNhiRkYI5"
-        }
-      ],
-      "duration_ms": 231066,
-      "name": "Nice and Quiet",
-      "url": "https://open.spotify.com/track/1BWOUFGSAbPzrhZxDMno2K"
-    },
-    {
-      "added_at": "2023-10-13 04:00:00",
-      "album": {
         "name": "Cool Dry Place",
         "url": "https://open.spotify.com/album/584CDFxeA55Hrr1dydGfQE"
       },
@@ -2387,6 +2371,22 @@
       "duration_ms": 300586,
       "name": "Cool Dry Place",
       "url": "https://open.spotify.com/track/6A1sSc1NFq5ZO9V0xGDe1L"
+    },
+    {
+      "added_at": "2023-10-13 04:00:00",
+      "album": {
+        "name": "Bedouine (Deluxe)",
+        "url": "https://open.spotify.com/album/5xkDtosZAm6qiGyRFc6ocB"
+      },
+      "artists": [
+        {
+          "name": "Bedouine",
+          "url": "https://open.spotify.com/artist/6IiZemRMna678qNhiRkYI5"
+        }
+      ],
+      "duration_ms": 231066,
+      "name": "Nice and Quiet",
+      "url": "https://open.spotify.com/track/1BWOUFGSAbPzrhZxDMno2K"
     },
     {
       "added_at": "2023-10-13 04:00:00",
@@ -2443,6 +2443,38 @@
     {
       "added_at": "2023-10-13 04:00:00",
       "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/2lGT7K0SQyk4c9jB1cddAM"
+      },
+      "artists": [
+        {
+          "name": "Madison Cunningham",
+          "url": "https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL"
+        }
+      ],
+      "duration_ms": 275662,
+      "name": "Life According To Raechel - Spotify Single",
+      "url": "https://open.spotify.com/track/3JfD2CejQKmTsqDHis7c2N"
+    },
+    {
+      "added_at": "2023-10-13 04:00:00",
+      "album": {
+        "name": "Big Picture",
+        "url": "https://open.spotify.com/album/08AEeRKieqKS9Z9tU8SnPr"
+      },
+      "artists": [
+        {
+          "name": "Fenne Lily",
+          "url": "https://open.spotify.com/artist/7iPH2BRBF9wKa6ljxvdext"
+        }
+      ],
+      "duration_ms": 165133,
+      "name": "Pick",
+      "url": "https://open.spotify.com/track/2opMGBCXLhtv94ffMd6vBf"
+    },
+    {
+      "added_at": "2023-10-13 04:00:00",
+      "album": {
         "name": "Witness Trees",
         "url": "https://open.spotify.com/album/5R2eVRMY8SSRPiq8EV4urI"
       },
@@ -2471,38 +2503,6 @@
       "duration_ms": 197386,
       "name": "Guess Again",
       "url": "https://open.spotify.com/track/6zz69yZsmztL9Zkp5U74Ju"
-    },
-    {
-      "added_at": "2023-10-13 04:00:00",
-      "album": {
-        "name": "Big Picture",
-        "url": "https://open.spotify.com/album/08AEeRKieqKS9Z9tU8SnPr"
-      },
-      "artists": [
-        {
-          "name": "Fenne Lily",
-          "url": "https://open.spotify.com/artist/7iPH2BRBF9wKa6ljxvdext"
-        }
-      ],
-      "duration_ms": 165133,
-      "name": "Pick",
-      "url": "https://open.spotify.com/track/2opMGBCXLhtv94ffMd6vBf"
-    },
-    {
-      "added_at": "2023-10-13 04:00:00",
-      "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/2lGT7K0SQyk4c9jB1cddAM"
-      },
-      "artists": [
-        {
-          "name": "Madison Cunningham",
-          "url": "https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL"
-        }
-      ],
-      "duration_ms": 275662,
-      "name": "Life According To Raechel - Spotify Single",
-      "url": "https://open.spotify.com/track/3JfD2CejQKmTsqDHis7c2N"
     },
     {
       "added_at": "2023-10-13 04:00:00",
@@ -2555,22 +2555,6 @@
     {
       "added_at": "2023-10-13 04:00:00",
       "album": {
-        "name": "At the Roadhouse",
-        "url": "https://open.spotify.com/album/2UpcMYFkeMbmD1LiBjvYn9"
-      },
-      "artists": [
-        {
-          "name": "The Paper Kites",
-          "url": "https://open.spotify.com/artist/79hrYiudVcFyyxyJW0ipTy"
-        }
-      ],
-      "duration_ms": 324000,
-      "name": "I Don't Want to Go That Way",
-      "url": "https://open.spotify.com/track/6Pn80kzsmTmXQP7pmF8dSM"
-    },
-    {
-      "added_at": "2023-10-13 04:00:00",
-      "album": {
         "name": "Leftovers",
         "url": "https://open.spotify.com/album/3sZSRQklzPHi3IY6fPi6FK"
       },
@@ -2583,6 +2567,26 @@
       "duration_ms": 158208,
       "name": "Dyan",
       "url": "https://open.spotify.com/track/0wsvEdXACQfdZDrDr7ZUWR"
+    },
+    {
+      "added_at": "2023-10-13 04:00:00",
+      "album": {
+        "name": "Habit",
+        "url": "https://open.spotify.com/album/55M9iNIkBo7cCYe17KcPD7"
+      },
+      "artists": [
+        {
+          "name": "Riley Pearce",
+          "url": "https://open.spotify.com/artist/0A3HlWZGV8WrCcqxKM2neg"
+        },
+        {
+          "name": "MADDY MAY",
+          "url": "https://open.spotify.com/artist/53ugKVVbmwpUEI42eNG9Mu"
+        }
+      ],
+      "duration_ms": 211994,
+      "name": "Habit",
+      "url": "https://open.spotify.com/track/7gssKF1R5EclIP8Izaxcle"
     }
   ],
   "unique_name": "Infinite Indie Folk",

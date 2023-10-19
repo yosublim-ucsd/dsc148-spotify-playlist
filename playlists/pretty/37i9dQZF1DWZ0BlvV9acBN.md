@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ0BlvV9acBN.md) - [plain]
 
 > Grandes sucessos e novidades do rock Cristão\. Foto: Trazendo a Arca
 
-[Spotify](https://open.spotify.com/user/spotify) - 130,399 likes - 70 songs - 5 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 130,456 likes - 70 songs - 5 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,8 +41,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ0BlvV9acBN.md) - [plain]
 | 31 | [Eu Vou Amanhecer \- Ao Vivo](https://open.spotify.com/track/7MUFfFp3Voeu9N8hBBm960) | [Fernandinho](https://open.spotify.com/artist/6iAY2AyUZLSX3PWLIAfFZY) | [Eu Vou Amanhecer \(ao Vivo\)](https://open.spotify.com/album/0puuCUbHqQAhodavAxZbkj) | 5:41 |
 | 32 | [O Meu Lugar](https://open.spotify.com/track/1qMRGu2SiEU0u9Lz1KXYP1) | [Judas O Outro](https://open.spotify.com/artist/0nxZKBNhQHUCsMFNoTZPpT), [PG](https://open.spotify.com/artist/5K2gAsDWIVqU9rlCyxp4jM) | [O Meu Lugar](https://open.spotify.com/album/7DKFhuhRDNz2BeLF1NvJH2) | 4:05 |
 | 33 | [A Vitória Da Cruz / Mais Que Vencedor \- Ao Vivo](https://open.spotify.com/track/7ynkuAtSuCtFWFZITYp6Nr) | [Israel Salazar](https://open.spotify.com/artist/5EkloP4VRw1NBP9NypZpDC) | [Salazar \(Ao Vivo\)](https://open.spotify.com/album/3rmdXtY0TwGeQvjOdljqqN) | 6:20 |
-| 34 | [Bartimeu](https://open.spotify.com/track/3Ym8Lc7IGOB59LJg9pWRLG) | [Banda LIV](https://open.spotify.com/artist/5UNECAhZ0Ih1H6INDhwK9k), [Marcos Miranda](https://open.spotify.com/artist/1Y4kBL8z3S14t91luqBy9F) | [Bartimeu](https://open.spotify.com/album/7BOTcVXmkt4fZaPEJpQXam) | 3:51 |
-| 35 | [ELE É EXALTADO](https://open.spotify.com/track/0xxfg8088Vi7oAhGpjbYII) | [PG](https://open.spotify.com/artist/5K2gAsDWIVqU9rlCyxp4jM) | [ELE É EXALTADO](https://open.spotify.com/album/103JMiPuCFhMwLccEbFiLZ) | 4:58 |
+| 34 | [ELE É EXALTADO](https://open.spotify.com/track/0xxfg8088Vi7oAhGpjbYII) | [PG](https://open.spotify.com/artist/5K2gAsDWIVqU9rlCyxp4jM) | [ELE É EXALTADO](https://open.spotify.com/album/103JMiPuCFhMwLccEbFiLZ) | 4:58 |
+| 35 | [Bartimeu](https://open.spotify.com/track/3Ym8Lc7IGOB59LJg9pWRLG) | [Banda LIV](https://open.spotify.com/artist/5UNECAhZ0Ih1H6INDhwK9k), [Marcos Miranda](https://open.spotify.com/artist/1Y4kBL8z3S14t91luqBy9F) | [Bartimeu](https://open.spotify.com/album/7BOTcVXmkt4fZaPEJpQXam) | 3:51 |
 | 36 | [Tudo é Teu / Nova Criatura / Rede ao Mar](https://open.spotify.com/track/4G2fqa20Hkj8uTDwMOzfrr) | [MORADA](https://open.spotify.com/artist/2tswayWsUGjUwpvN8KRwuN) | [Tudo é Teu / Nova Criatura / Rede ao Mar](https://open.spotify.com/album/4LNn5OkVpjCZv5c8aKc4N4) | 5:04 |
 | 37 | [Rookmaaker \- Ao Vivo](https://open.spotify.com/track/3pnxplHFEuyGnGEHVoKkPo) | [Palavrantiga](https://open.spotify.com/artist/6lt44Vvyv8XwLxX7jtQ92j) | [Palavrantiga Ao Vivo \(Pt\. 4\)](https://open.spotify.com/album/0zrjFPCQhd5XKGuQXEKswE) | 5:22 |
 | 38 | [Cantem os Anjos](https://open.spotify.com/track/6inrfYpzde4Izw9ZVzVcqs) | [Ministério M3](https://open.spotify.com/artist/7AsSQROc0YPjmh4cVPP8S6) | [Cantem os Anjos](https://open.spotify.com/album/3M0uJ7cTPCDAyaz6DXxviB) | 3:14 |
@@ -50,8 +50,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ0BlvV9acBN.md) - [plain]
 | 40 | [Escolho Ser Fiel](https://open.spotify.com/track/5z9gHODKZUYCsA5cxj14my) | [Mauro Henrique](https://open.spotify.com/artist/3KypZFGzCHTbqXAAhFuLwd) | [Mauro](https://open.spotify.com/album/7hEouc61wJMBhedf31Tonz) | 4:10 |
 | 41 | [Santo \- Ao Vivo](https://open.spotify.com/track/7AT3T3FM5Beh4zlD9rVTHQ) | [Fernandinho](https://open.spotify.com/artist/6iAY2AyUZLSX3PWLIAfFZY) | [Santo \(Ao Vivo\)](https://open.spotify.com/album/3ZvYugynlgc6iZbK0esYQP) | 8:56 |
 | 42 | [Me Fez Vivo \(feat\. Fernandinho\)](https://open.spotify.com/track/2HLKpvgRATKtf1KA9lrcGg) | [Arianne](https://open.spotify.com/artist/49gy3r9VM6fxS16a9R8eE1), [Fernandinho](https://open.spotify.com/artist/6iAY2AyUZLSX3PWLIAfFZY) | [Me Fez Vivo \(feat\. Fernandinho\)](https://open.spotify.com/album/5Yn06GwEq0Hw94wgPG0U8f) | 4:01 |
-| 43 | [Palavra Antiga \- Ao Vivo](https://open.spotify.com/track/4B9kNi47NnvwNjqQkpxCMH) | [Palavrantiga](https://open.spotify.com/artist/6lt44Vvyv8XwLxX7jtQ92j) | [Palavrantiga Ao Vivo \(Pt\. 3\)](https://open.spotify.com/album/0GlPY3Iv585YH09Np350yH) | 4:10 |
-| 44 | [Coração de Pedra](https://open.spotify.com/track/0ZqrbdSQrwCB523ggelHhu) | [Daniela Araújo](https://open.spotify.com/artist/0V3UPrVVcCxIxQU43xYDxC), [André Nine](https://open.spotify.com/artist/5cc7XCY3YdVmFDYw9LklMq), [Adriano Daga](https://open.spotify.com/artist/0b3DjFBA5CoBiW5Sz2zhbU) | [Catarse: Lado B](https://open.spotify.com/album/0VtThfRfXxZKzI1thF7PSt) | 3:42 |
+| 43 | [Coração de Pedra](https://open.spotify.com/track/0ZqrbdSQrwCB523ggelHhu) | [Daniela Araújo](https://open.spotify.com/artist/0V3UPrVVcCxIxQU43xYDxC), [André Nine](https://open.spotify.com/artist/5cc7XCY3YdVmFDYw9LklMq), [Adriano Daga](https://open.spotify.com/artist/0b3DjFBA5CoBiW5Sz2zhbU) | [Catarse: Lado B](https://open.spotify.com/album/0VtThfRfXxZKzI1thF7PSt) | 3:42 |
+| 44 | [Palavra Antiga \- Ao Vivo](https://open.spotify.com/track/4B9kNi47NnvwNjqQkpxCMH) | [Palavrantiga](https://open.spotify.com/artist/6lt44Vvyv8XwLxX7jtQ92j) | [Palavrantiga Ao Vivo \(Pt\. 3\)](https://open.spotify.com/album/0GlPY3Iv585YH09Np350yH) | 4:10 |
 | 45 | [As Sepulturas Se Abrirão \- Ao Vivo](https://open.spotify.com/track/2RE0vtoTP7U55ore8UUeTy) | [Palankin](https://open.spotify.com/artist/796gkD2e78sHPMakFcnqUJ), [Ana Rock](https://open.spotify.com/artist/7hh91Pi4y3ey6t0m8I0P5U) | [Na Terra Parte 2/3 \(Ao Vivo\)](https://open.spotify.com/album/2REZbS8CQZnhrBdEhmTZ1d) | 4:48 |
 | 46 | [Descanso](https://open.spotify.com/track/3QedBFF9E1St6Hkb2zWauL) | [Mauro Henrique](https://open.spotify.com/artist/3KypZFGzCHTbqXAAhFuLwd) | [Descanso](https://open.spotify.com/album/5MMYVvEPVmYHmvF4VZqzlH) | 6:43 |
 | 47 | [A Carta](https://open.spotify.com/track/6wKQ84PvskrEA0Oum0sUMn) | [Abel Junho](https://open.spotify.com/artist/3oI345jxR8FTbMegl0N1mn) | [A Carta](https://open.spotify.com/album/1uFoMEXuKx7EBN3IDSXpba) | 4:56 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ0BlvV9acBN.md) - [plain]
 | 69 | [A Estátua](https://open.spotify.com/track/5dV1WilekeFKNrDVqmgo0s) | [Mauro Henrique](https://open.spotify.com/artist/3KypZFGzCHTbqXAAhFuLwd), [Diego Rox](https://open.spotify.com/artist/1wrVWFQTN7fUh9cR0pUvJg) | [A Estátua](https://open.spotify.com/album/19cl5wWgzJsRjsPdyOBwpK) | 3:27 |
 | 70 | [Aonde Está Deus](https://open.spotify.com/track/5uFP9ZbZG1aqJx1jbaFNqF) | [Mauro Henrique](https://open.spotify.com/artist/3KypZFGzCHTbqXAAhFuLwd) | [Basic Session, Vol\. 1](https://open.spotify.com/album/2a0ofu5yp0e9WPLpYjUZN4) | 4:24 |
 
-Snapshot ID: `MCxlMjJiY2IyOTI5YTU2MDllNzlmMWYyM2E1MTE1NzljMDc2ZWZiN2Zl`
+Snapshot ID: `MCxlYTQxMmYwYTRkYzg3Nzc3NjNlZGUzZDcyNjRkZWRhZGJmOGQ4ZWM2`

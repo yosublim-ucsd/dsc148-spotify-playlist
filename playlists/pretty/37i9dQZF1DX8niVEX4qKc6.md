@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8niVEX4qKc6.md) - [plain]
 
 > Canciones desenchufadas, en la intimidad del estudio o en el fuego del escenario\. Foto: Silvina Moreno
 
-[Spotify](https://open.spotify.com/user/spotify) - 178,241 likes - 100 songs - 5 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 178,255 likes - 100 songs - 5 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,8 +47,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8niVEX4qKc6.md) - [plain]
 | 37 | [A Primera Vista](https://open.spotify.com/track/0vLTOf24syMlJDuaWZfihc) | [Pedro Aznar](https://open.spotify.com/artist/2FFrhWZS9vJsh2UvxYPRr6), [Abel Pintos](https://open.spotify.com/artist/6HTUcOExehqydqa7C3usAa) | [Mil Noches y un Instante](https://open.spotify.com/album/1kt07hQEw33OnXo80aFMgu) | 3:28 |
 | 38 | [Canción de Amor](https://open.spotify.com/track/3o0XX8BPjhtt1w9rOXhmyN) | [Lisandro Aristimuño](https://open.spotify.com/artist/0ovfSEcDqepf0vqJc811zQ) | [Azules Turquesas](https://open.spotify.com/album/0hJvlZtFQ8kTFpxKvewqmd) | 3:03 |
 | 39 | [Pasan las Horas \- En Vivo Acústico](https://open.spotify.com/track/4PZVup7z7oXGhwvzsygBMw) | [Guasones](https://open.spotify.com/artist/2wjmZuSHtRx96Qxb8HiP2o) | [Acústico Gran Rex](https://open.spotify.com/album/3RBBy6nRQ3BHhLjrJ7m86Q) | 4:36 |
-| 40 | [Desaprender](https://open.spotify.com/track/5CGzoPhT2u7P1yHge1f4iJ) | [Adrián Berra](https://open.spotify.com/artist/3w9xEAItKEIFjQoR88mtsO) | [Mundo Debajo del Mundo](https://open.spotify.com/album/5p3JWd7zmX6D1UQdtPtveJ) | 2:56 |
-| 41 | [Amapolas \- Acústico](https://open.spotify.com/track/3w7yklj80FkFG1e3QQBzGB) | [Leo Rizzi](https://open.spotify.com/artist/2281RSmb2cN6knnt0Iarb2) | [Canciones para escuchar en el río](https://open.spotify.com/album/1OSheaXw7vf5kvIF94qrTk) | 3:05 |
+| 40 | [Amapolas \- Acústico](https://open.spotify.com/track/3w7yklj80FkFG1e3QQBzGB) | [Leo Rizzi](https://open.spotify.com/artist/2281RSmb2cN6knnt0Iarb2) | [Canciones para escuchar en el río](https://open.spotify.com/album/1OSheaXw7vf5kvIF94qrTk) | 3:05 |
+| 41 | [Desaprender](https://open.spotify.com/track/5CGzoPhT2u7P1yHge1f4iJ) | [Adrián Berra](https://open.spotify.com/artist/3w9xEAItKEIFjQoR88mtsO) | [Mundo Debajo del Mundo](https://open.spotify.com/album/5p3JWd7zmX6D1UQdtPtveJ) | 2:56 |
 | 42 | [Ojitos de Md](https://open.spotify.com/track/0Pkc9prDMNlz3WhP9MkwMx) | [Axel Fiks](https://open.spotify.com/artist/6GEaxHZNiogI175zUr4KvH) | [Ojitos de Md](https://open.spotify.com/album/5CevLKYFXjNzjGl8hRi1lv) | 2:17 |
 | 43 | [Timidez \(feat\. Natalia Lafourcade\)](https://open.spotify.com/track/3Riytw4egMe357gWrANdAr) | [Gepe](https://open.spotify.com/artist/1fHGzTSloWCtrlKfbLNVhM), [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp) | [Timidez \(feat\. Natalia Lafourcade\)](https://open.spotify.com/album/2XaspQ17g3BU4Xkl2fDjV3) | 3:34 |
 | 44 | [Muchacha \(Ojos de Papel\)](https://open.spotify.com/track/1SXzI5Rnid2ApgNQPmROLm) | [Almendra](https://open.spotify.com/artist/7x2a9uyqlWbE9LwcoQWDTo) | [El 1er Álbum Más los Singles](https://open.spotify.com/album/2Syxpgpva5hDmqCZpmmJHp) | 3:07 |
@@ -61,8 +61,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8niVEX4qKc6.md) - [plain]
 | 51 | [El Callejón de los Milagros](https://open.spotify.com/track/0KAEdRme7EioqZPD2dQlj1) | [Indio Solari](https://open.spotify.com/artist/0nUGkxUncFeXt0Dr0hhrc4), [Los Fundamentalistas del Aire Acondicionado](https://open.spotify.com/artist/1SKA2QwV2fwGgoMlx16FXO) | [El Ruiseñor, el Amor y la Muerte](https://open.spotify.com/album/18XJ0o0XkXC6K9OZTilVfN) | 2:51 |
 | 52 | [Chica Acuario](https://open.spotify.com/track/5c9B03lTeTYbOVgtPS6Tj2) | [Axel Fiks](https://open.spotify.com/artist/6GEaxHZNiogI175zUr4KvH), [Goyo Degano](https://open.spotify.com/artist/2jdmT8GGcp6lWM58D0ROYf) | [Chica Acuario](https://open.spotify.com/album/1u7tofT5wIeYXa0GjGWkAn) | 3:27 |
 | 53 | [Susurrito](https://open.spotify.com/track/7btTCfo8fyFOhqFXFdMi7b) | [Feli Colina](https://open.spotify.com/artist/4EmjPNMuvvKSEAyx7ibGrs) | [Feroza](https://open.spotify.com/album/3Ear2Vze1ZV4JDk4ZfWp2A) | 2:58 |
-| 54 | [La Flor Azul](https://open.spotify.com/track/0BRtjY6BHMic4e901yeGil) | [Divididos](https://open.spotify.com/artist/6ZIgPKHzpcswB8zh7sRIhx) | [Amapola del 66](https://open.spotify.com/album/6folUtOTlV2d6FiczqCGYs) | 2:40 |
-| 55 | [Fin de Fiesta](https://open.spotify.com/track/0ZzNRgWM8LkgiHXbr3gfuq) | [Miau Trío](https://open.spotify.com/artist/0WIn93XS8EmNaLPG3AZpeL) | [Fin de Fiesta](https://open.spotify.com/album/4sui0UO1NPlOUeRC9zvKy5) | 1:41 |
+| 54 | [Fin de Fiesta](https://open.spotify.com/track/0ZzNRgWM8LkgiHXbr3gfuq) | [Miau Trío](https://open.spotify.com/artist/0WIn93XS8EmNaLPG3AZpeL) | [Fin de Fiesta](https://open.spotify.com/album/4sui0UO1NPlOUeRC9zvKy5) | 1:41 |
+| 55 | [La Flor Azul](https://open.spotify.com/track/0BRtjY6BHMic4e901yeGil) | [Divididos](https://open.spotify.com/artist/6ZIgPKHzpcswB8zh7sRIhx) | [Amapola del 66](https://open.spotify.com/album/6folUtOTlV2d6FiczqCGYs) | 2:40 |
 | 56 | [Besos, Limón y Miel](https://open.spotify.com/track/1HKQJgGPPmRYUjMiLyV3Uo) | [Santi Muk](https://open.spotify.com/artist/0IaiZRhsEDKT58KYfU5isz) | [Besos, Limón y Miel](https://open.spotify.com/album/7yp09zLBnvbOMaC41E3McT) | 3:47 |
 | 57 | [La Danza del Espacio Tiempo](https://open.spotify.com/track/5YFqhC4xMQWSbdiGPUynXP) | [Koino Yokan](https://open.spotify.com/artist/31kgZWvoPhxDcTKgVbgi3J) | [La Danza del Espacio Tiempo](https://open.spotify.com/album/6tSTVRRPOPq1TXqB8Wea0b) | 2:08 |
 | 58 | [Nunca Quise](https://open.spotify.com/track/6D9DeEzBK6sHfPyTd3p46l) | [Ainda](https://open.spotify.com/artist/3eZXi1et2XpXPD7PoUDDzE) | [Animal](https://open.spotify.com/album/4fsolZF2A6KMYokByMvOQs) | 3:16 |
@@ -100,8 +100,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8niVEX4qKc6.md) - [plain]
 | 90 | [Deja de Pedir Perdón \- MTV Unplugged](https://open.spotify.com/track/2pRfK1DH705B1NL48C31ka) | [Diego Torres](https://open.spotify.com/artist/0LALueHEQunQ2d61fXGeZh) | [MTV Unplugged](https://open.spotify.com/album/3xB3SzIEkry77YmregfUHZ) | 4:10 |
 | 91 | [Soldado Raso \- Versión Acústica](https://open.spotify.com/track/2UVD0QU951KBWGaACek9e0) | [Ricardo Arjona](https://open.spotify.com/artist/0h1zs4CTlU9D2QtgPxptUD) | [Hecho a la Antigua](https://open.spotify.com/album/5HnvoKpp1JTDYP3SNWvl2V) | 3:37 |
 | 92 | [Un Día Lo Encontré](https://open.spotify.com/track/6IPCxRPVXSXdfrubRNertw) | [Rosario Alfonso](https://open.spotify.com/artist/7mirwC8eaTt7tswix93TFZ), [Niña Tormenta](https://open.spotify.com/artist/0KJEHAoNtPaopqOHD6UIkY) | [Lo Primero](https://open.spotify.com/album/0uiItrX0S62V8IN88h0p3Q) | 3:00 |
-| 93 | [Oma](https://open.spotify.com/track/7xY0orsr2RKRoFtyvz1eJM) | [Lasso](https://open.spotify.com/artist/3SCOuAxngTC1yGjKMcIPEd) | [Oma](https://open.spotify.com/album/0lDDxLhbL9J5hLO1iFSRSX) | 3:18 |
-| 94 | [Flotando \(Acústico\)](https://open.spotify.com/track/1UmmEBHP4MKyExlob4MJbu) | [Francisca Valenzuela](https://open.spotify.com/artist/2piHiUbXwUNNIvYyIOIUKt) | [Flotando \(Acústico\)](https://open.spotify.com/album/6ESGXcMWl63n7PzIzPdtxh) | 4:16 |
+| 93 | [Flotando \(Acústico\)](https://open.spotify.com/track/1UmmEBHP4MKyExlob4MJbu) | [Francisca Valenzuela](https://open.spotify.com/artist/2piHiUbXwUNNIvYyIOIUKt) | [Flotando \(Acústico\)](https://open.spotify.com/album/6ESGXcMWl63n7PzIzPdtxh) | 4:16 |
+| 94 | [Oma](https://open.spotify.com/track/7xY0orsr2RKRoFtyvz1eJM) | [Lasso](https://open.spotify.com/artist/3SCOuAxngTC1yGjKMcIPEd) | [Oma](https://open.spotify.com/album/0lDDxLhbL9J5hLO1iFSRSX) | 3:18 |
 | 95 | [Fuji](https://open.spotify.com/track/6r4CEyVoLCE7oZ90pWut3Y) | [Loli Molina](https://open.spotify.com/artist/4mStQ3gsuRt6YDkloBov32) | [Frontera / Fuji](https://open.spotify.com/album/2Nyjvin6VFdxtRJGAgQ2yr) | 4:38 |
 | 96 | [No Te Puedo Decir Que No](https://open.spotify.com/track/2BB4nJnuMJnFy3jKGUWPni) | [Connie Isla](https://open.spotify.com/artist/3rRWzsERkCNBl27Nih029a), [Marki](https://open.spotify.com/artist/5wspxNfJ40p3YMUrwUaJ8J) | [No Te Puedo Decir Que No](https://open.spotify.com/album/0s4Yzgd1fDrjq05WBFSvvp) | 3:03 |
 | 97 | [Acuarela](https://open.spotify.com/track/5dC1LZin7IxDvzYx3cMhjc) | [Mariano Godoy](https://open.spotify.com/artist/7gpYDxVfirNyKXORQncECR) | [Primavera](https://open.spotify.com/album/20QbwxEHyGQbWzhfr6uUqP) | 4:02 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8niVEX4qKc6.md) - [plain]
 | 99 | [Sad Balada](https://open.spotify.com/track/5gVtKWi5x6U74LMJ6YjyHw) | [Malena Villa](https://open.spotify.com/artist/0RlibgJa8rtPvVn415J6WN) | [La Negación](https://open.spotify.com/album/6HVV8a7LZBFRoSdlMZjIu2) | 3:12 |
 | 100 | [Mágica](https://open.spotify.com/track/46rlf6zgGnGcHZG233h3Uf) | [Panther](https://open.spotify.com/artist/6bigFvZX5HdrC98srqxRLQ) | [Mágica](https://open.spotify.com/album/1dLbHPD9bGcsTAj9dA2GHQ) | 2:16 |
 
-Snapshot ID: `MCwyN2NjMmIxMTI2NWFjNDk2NjA0YTVjODQwYjg3NjNkMGZjMjVhZDJi`
+Snapshot ID: `MCwwZDc4MmRkNzQxMjdiNTk1MmVlNDEzZGIzZmRhY2Y0M2VjNzhjODQ4`

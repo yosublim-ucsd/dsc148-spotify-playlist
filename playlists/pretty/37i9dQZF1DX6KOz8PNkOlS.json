@@ -1,12 +1,12 @@
 {
   "description": "Transform your workspace into a cozy retreat with gentle tunes and warm vibes",
-  "num_followers": 411895,
+  "num_followers": 412167,
   "original_name": "Soft Office",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyZTQ3N2VmZmIwMTU0NTA5YmJhYzU4ZTJmNzI0NzBhNDMyNDJlZjQ0",
+  "snapshot_id": "MCw2ZDJhMzI5Y2VmYTE2MWI3NmQ3NjI4OGM4MDdhYTY2ODhjZDk5OWQ2",
   "tracks": [
     {
       "added_at": "2023-04-19 21:20:11",
@@ -63,8 +63,8 @@
     {
       "added_at": "2021-10-15 03:01:31",
       "album": {
-        "name": "Untitled (Black Is)",
-        "url": "https://open.spotify.com/album/0GPmuVuCdC5hCsiuy1wXle"
+        "name": "5",
+        "url": "https://open.spotify.com/album/57EkTny9UjqpLhFzMO4Hdb"
       },
       "artists": [
         {
@@ -72,9 +72,9 @@
           "url": "https://open.spotify.com/artist/1uRxRKC7d9zwYGSRflTKDR"
         }
       ],
-      "duration_ms": 206947,
-      "name": "Wildfires",
-      "url": "https://open.spotify.com/track/4Tzw9IdZbVyzmpWrvsGaNX"
+      "duration_ms": 238679,
+      "name": "Why Why Why Why Why",
+      "url": "https://open.spotify.com/track/4zwq3QUKgMNk0NSLl7fpbP"
     },
     {
       "added_at": "2023-09-25 02:25:33",
@@ -147,18 +147,22 @@
     {
       "added_at": "2021-10-15 03:01:31",
       "album": {
-        "name": "5",
-        "url": "https://open.spotify.com/album/57EkTny9UjqpLhFzMO4Hdb"
+        "name": "Oceans",
+        "url": "https://open.spotify.com/album/6kfKntjGEwjKUL7q43j5rO"
       },
       "artists": [
         {
-          "name": "SAULT",
-          "url": "https://open.spotify.com/artist/1uRxRKC7d9zwYGSRflTKDR"
+          "name": "RY X",
+          "url": "https://open.spotify.com/artist/2KjAo6wVc9d2WcxdxSArpV"
+        },
+        {
+          "name": "\u00d3lafur Arnalds",
+          "url": "https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia"
         }
       ],
-      "duration_ms": 238679,
-      "name": "Why Why Why Why Why",
-      "url": "https://open.spotify.com/track/4zwq3QUKgMNk0NSLl7fpbP"
+      "duration_ms": 279573,
+      "name": "Oceans",
+      "url": "https://open.spotify.com/track/2eVofaQRJvddSUBfcub7Gz"
     },
     {
       "added_at": "2023-09-13 16:09:15",
@@ -179,22 +183,18 @@
     {
       "added_at": "2021-10-15 03:01:31",
       "album": {
-        "name": "Oceans",
-        "url": "https://open.spotify.com/album/6kfKntjGEwjKUL7q43j5rO"
+        "name": "5",
+        "url": "https://open.spotify.com/album/57EkTny9UjqpLhFzMO4Hdb"
       },
       "artists": [
         {
-          "name": "RY X",
-          "url": "https://open.spotify.com/artist/2KjAo6wVc9d2WcxdxSArpV"
-        },
-        {
-          "name": "\u00d3lafur Arnalds",
-          "url": "https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia"
+          "name": "SAULT",
+          "url": "https://open.spotify.com/artist/1uRxRKC7d9zwYGSRflTKDR"
         }
       ],
-      "duration_ms": 279573,
-      "name": "Oceans",
-      "url": "https://open.spotify.com/track/2eVofaQRJvddSUBfcub7Gz"
+      "duration_ms": 344680,
+      "name": "Masterpiece",
+      "url": "https://open.spotify.com/track/07qj9w93jk1eA2TGAd6kxj"
     },
     {
       "added_at": "2023-09-25 02:40:58",
@@ -311,22 +311,6 @@
     {
       "added_at": "2021-10-15 03:01:31",
       "album": {
-        "name": "5",
-        "url": "https://open.spotify.com/album/57EkTny9UjqpLhFzMO4Hdb"
-      },
-      "artists": [
-        {
-          "name": "SAULT",
-          "url": "https://open.spotify.com/artist/1uRxRKC7d9zwYGSRflTKDR"
-        }
-      ],
-      "duration_ms": 344680,
-      "name": "Masterpiece",
-      "url": "https://open.spotify.com/track/07qj9w93jk1eA2TGAd6kxj"
-    },
-    {
-      "added_at": "2021-10-15 03:01:31",
-      "album": {
         "name": "Lianne La Havas",
         "url": "https://open.spotify.com/album/1CqNrKEv2fhF7mudTXrydV"
       },
@@ -339,22 +323,6 @@
       "duration_ms": 190560,
       "name": "Can't Fight",
       "url": "https://open.spotify.com/track/2gnvh9HRH5fCo5iDQXMvQN"
-    },
-    {
-      "added_at": "2023-08-24 19:26:39",
-      "album": {
-        "name": "Volcano",
-        "url": "https://open.spotify.com/album/5xnXOCf5aZgZ43DgGN4EDv"
-      },
-      "artists": [
-        {
-          "name": "Jungle",
-          "url": "https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071"
-        }
-      ],
-      "duration_ms": 209482,
-      "name": "Back On 74",
-      "url": "https://open.spotify.com/track/19kHhX6f6EfLU7rcO3RqjO"
     },
     {
       "added_at": "2021-10-15 03:01:31",
@@ -373,6 +341,38 @@
       "url": "https://open.spotify.com/track/778x5bolqJeICcrtSBNrko"
     },
     {
+      "added_at": "2023-08-24 19:26:39",
+      "album": {
+        "name": "Volcano",
+        "url": "https://open.spotify.com/album/5xnXOCf5aZgZ43DgGN4EDv"
+      },
+      "artists": [
+        {
+          "name": "Jungle",
+          "url": "https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071"
+        }
+      ],
+      "duration_ms": 209482,
+      "name": "Back On 74",
+      "url": "https://open.spotify.com/track/19kHhX6f6EfLU7rcO3RqjO"
+    },
+    {
+      "added_at": "2023-04-05 03:29:43",
+      "album": {
+        "name": "11",
+        "url": "https://open.spotify.com/album/0e5GuQaryu1bLZL9Gk3hS8"
+      },
+      "artists": [
+        {
+          "name": "SAULT",
+          "url": "https://open.spotify.com/artist/1uRxRKC7d9zwYGSRflTKDR"
+        }
+      ],
+      "duration_ms": 297717,
+      "name": "Fight for Love",
+      "url": "https://open.spotify.com/track/1LPQheJpIsG8rlUkCmZx2D"
+    },
+    {
       "added_at": "2023-04-14 00:36:48",
       "album": {
         "name": "Reckless & Sweet",
@@ -389,6 +389,22 @@
       "url": "https://open.spotify.com/track/0YF4MF77Kw8CMkZkfDFtlj"
     },
     {
+      "added_at": "2021-10-15 03:01:31",
+      "album": {
+        "name": "Hotel Surrender",
+        "url": "https://open.spotify.com/album/412GzW8zlkJYcQ7YT8u8dJ"
+      },
+      "artists": [
+        {
+          "name": "Chet Faker",
+          "url": "https://open.spotify.com/artist/6UcJxoeHWWWyT5HZP064om"
+        }
+      ],
+      "duration_ms": 274423,
+      "name": "Low",
+      "url": "https://open.spotify.com/track/3vDa2fcL7Ge1jQVKJ3uIOA"
+    },
+    {
       "added_at": "2023-06-07 16:18:58",
       "album": {
         "name": "Embrace",
@@ -403,22 +419,6 @@
       "duration_ms": 263349,
       "name": "Ordinary Love",
       "url": "https://open.spotify.com/track/2ZFY0GxSVogl6wppoUMiQp"
-    },
-    {
-      "added_at": "2021-10-15 03:01:31",
-      "album": {
-        "name": "Mood Valiant",
-        "url": "https://open.spotify.com/album/456WeVeZk38VJuqg2sL7QG"
-      },
-      "artists": [
-        {
-          "name": "Hiatus Kaiyote",
-          "url": "https://open.spotify.com/artist/43JlwunhXm1oqdKyOa2Z9Y"
-        }
-      ],
-      "duration_ms": 203266,
-      "name": "And We Go Gentle",
-      "url": "https://open.spotify.com/track/3PHgxKy3nKy0v9KvUtHl8g"
     },
     {
       "added_at": "2023-10-10 01:29:29",
@@ -439,6 +439,22 @@
       "duration_ms": 258120,
       "name": "Thin Line",
       "url": "https://open.spotify.com/track/1Vv16VYpddnreBUtCFy0AE"
+    },
+    {
+      "added_at": "2021-10-15 03:01:31",
+      "album": {
+        "name": "Mood Valiant",
+        "url": "https://open.spotify.com/album/456WeVeZk38VJuqg2sL7QG"
+      },
+      "artists": [
+        {
+          "name": "Hiatus Kaiyote",
+          "url": "https://open.spotify.com/artist/43JlwunhXm1oqdKyOa2Z9Y"
+        }
+      ],
+      "duration_ms": 203266,
+      "name": "And We Go Gentle",
+      "url": "https://open.spotify.com/track/3PHgxKy3nKy0v9KvUtHl8g"
     },
     {
       "added_at": "2021-10-15 03:01:31",
@@ -475,22 +491,6 @@
       "duration_ms": 164693,
       "name": "I Can Only Whisper (feat. BADBADNOTGOOD)",
       "url": "https://open.spotify.com/track/5qXwFOkT3lrEonTzsYCeZ1"
-    },
-    {
-      "added_at": "2023-04-05 03:29:43",
-      "album": {
-        "name": "11",
-        "url": "https://open.spotify.com/album/0e5GuQaryu1bLZL9Gk3hS8"
-      },
-      "artists": [
-        {
-          "name": "SAULT",
-          "url": "https://open.spotify.com/artist/1uRxRKC7d9zwYGSRflTKDR"
-        }
-      ],
-      "duration_ms": 297717,
-      "name": "Fight for Love",
-      "url": "https://open.spotify.com/track/1LPQheJpIsG8rlUkCmZx2D"
     },
     {
       "added_at": "2021-10-15 03:01:31",
@@ -831,22 +831,6 @@
     {
       "added_at": "2021-10-15 03:01:31",
       "album": {
-        "name": "Any Shape You Take",
-        "url": "https://open.spotify.com/album/7G7lPTcJta35qGZ8LMIJ4y"
-      },
-      "artists": [
-        {
-          "name": "Indigo De Souza",
-          "url": "https://open.spotify.com/artist/3ir2pF2mkiEWqyPenKTh5e"
-        }
-      ],
-      "duration_ms": 256664,
-      "name": "Hold U",
-      "url": "https://open.spotify.com/track/3LXWz3LTASiVb63HWc7Wa7"
-    },
-    {
-      "added_at": "2021-10-15 03:01:31",
-      "album": {
         "name": "Origin (Deluxe Edition)",
         "url": "https://open.spotify.com/album/6vlatUhYlcoUkMfNIvmtLE"
       },
@@ -859,6 +843,22 @@
       "duration_ms": 179693,
       "name": "Signs",
       "url": "https://open.spotify.com/track/0pPpkAXqt8UDVXBvSYI5pn"
+    },
+    {
+      "added_at": "2021-10-15 03:01:31",
+      "album": {
+        "name": "Any Shape You Take",
+        "url": "https://open.spotify.com/album/7G7lPTcJta35qGZ8LMIJ4y"
+      },
+      "artists": [
+        {
+          "name": "Indigo De Souza",
+          "url": "https://open.spotify.com/artist/3ir2pF2mkiEWqyPenKTh5e"
+        }
+      ],
+      "duration_ms": 256664,
+      "name": "Hold U",
+      "url": "https://open.spotify.com/track/3LXWz3LTASiVb63HWc7Wa7"
     },
     {
       "added_at": "2022-10-05 01:25:40",
@@ -1297,38 +1297,6 @@
       "url": "https://open.spotify.com/track/6GbOyB2RTcyFFp2EryEaPp"
     },
     {
-      "added_at": "2021-10-15 03:01:31",
-      "album": {
-        "name": "Hotel Surrender (Expanded Edition)",
-        "url": "https://open.spotify.com/album/6OlbbKp6Xdbj35dVieredT"
-      },
-      "artists": [
-        {
-          "name": "Chet Faker",
-          "url": "https://open.spotify.com/artist/6UcJxoeHWWWyT5HZP064om"
-        }
-      ],
-      "duration_ms": 274423,
-      "name": "Low",
-      "url": "https://open.spotify.com/track/5dnWJxXD0YOGVtjZmxkpZS"
-    },
-    {
-      "added_at": "2021-10-15 03:01:31",
-      "album": {
-        "name": "the masquerade",
-        "url": "https://open.spotify.com/album/5mNk0mLiGcJHLGiT0mjHmX"
-      },
-      "artists": [
-        {
-          "name": "mxmtoon",
-          "url": "https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1"
-        }
-      ],
-      "duration_ms": 209413,
-      "name": "blame game",
-      "url": "https://open.spotify.com/track/4s79MjBAL0LxmhrPM47G8F"
-    },
-    {
       "added_at": "2022-12-07 04:54:47",
       "album": {
         "name": "Eat You Alive",
@@ -1347,22 +1315,18 @@
     {
       "added_at": "2021-10-15 03:01:31",
       "album": {
-        "name": "Something Like A War",
-        "url": "https://open.spotify.com/album/74G1akk8NptEEoJgZHDYhz"
+        "name": "the masquerade",
+        "url": "https://open.spotify.com/album/5mNk0mLiGcJHLGiT0mjHmX"
       },
       "artists": [
         {
-          "name": "Kindness",
-          "url": "https://open.spotify.com/artist/6SYIsHAQ1sPokVxmzpaDBU"
-        },
-        {
-          "name": "Robyn",
-          "url": "https://open.spotify.com/artist/6UE7nl9mha6s8z0wFQFIZ2"
+          "name": "mxmtoon",
+          "url": "https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1"
         }
       ],
-      "duration_ms": 194946,
-      "name": "The Warning",
-      "url": "https://open.spotify.com/track/5h6RX4lJ9opFcpGycS2ckD"
+      "duration_ms": 209413,
+      "name": "blame game",
+      "url": "https://open.spotify.com/track/4s79MjBAL0LxmhrPM47G8F"
     },
     {
       "added_at": "2021-10-15 03:01:31",
@@ -1383,6 +1347,26 @@
       "duration_ms": 206820,
       "name": "Sweetness - Dub Mix by Andras",
       "url": "https://open.spotify.com/track/6h5SiRf0aOLRql4UGopHOu"
+    },
+    {
+      "added_at": "2021-10-15 03:01:31",
+      "album": {
+        "name": "Something Like A War",
+        "url": "https://open.spotify.com/album/74G1akk8NptEEoJgZHDYhz"
+      },
+      "artists": [
+        {
+          "name": "Kindness",
+          "url": "https://open.spotify.com/artist/6SYIsHAQ1sPokVxmzpaDBU"
+        },
+        {
+          "name": "Robyn",
+          "url": "https://open.spotify.com/artist/6UE7nl9mha6s8z0wFQFIZ2"
+        }
+      ],
+      "duration_ms": 194946,
+      "name": "The Warning",
+      "url": "https://open.spotify.com/track/5h6RX4lJ9opFcpGycS2ckD"
     },
     {
       "added_at": "2022-04-18 03:39:12",
@@ -1501,6 +1485,26 @@
       "url": "https://open.spotify.com/track/68ZJ3d1S6neNpzDMEDg1OT"
     },
     {
+      "added_at": "2022-01-12 18:14:24",
+      "album": {
+        "name": "ocean tales",
+        "url": "https://open.spotify.com/album/0ENr07q7h0vsydKinh36FM"
+      },
+      "artists": [
+        {
+          "name": "santpoort",
+          "url": "https://open.spotify.com/artist/7KtVS0f2RQoEhjxDcSGBtJ"
+        },
+        {
+          "name": "Little Green",
+          "url": "https://open.spotify.com/artist/0Kcz7AMOkHHye7xhLJUWTy"
+        }
+      ],
+      "duration_ms": 188951,
+      "name": "feather light",
+      "url": "https://open.spotify.com/track/3Xkc6ySTZoa4DPa3rrN2ni"
+    },
+    {
       "added_at": "2022-01-21 20:29:12",
       "album": {
         "name": "Shout Out! To Freedom...",
@@ -1523,26 +1527,6 @@
       "duration_ms": 392560,
       "name": "Wonder",
       "url": "https://open.spotify.com/track/7vMyUJeWiiF9CwMedCGCxF"
-    },
-    {
-      "added_at": "2022-01-12 18:14:24",
-      "album": {
-        "name": "ocean tales",
-        "url": "https://open.spotify.com/album/0ENr07q7h0vsydKinh36FM"
-      },
-      "artists": [
-        {
-          "name": "santpoort",
-          "url": "https://open.spotify.com/artist/7KtVS0f2RQoEhjxDcSGBtJ"
-        },
-        {
-          "name": "Little Green",
-          "url": "https://open.spotify.com/artist/0Kcz7AMOkHHye7xhLJUWTy"
-        }
-      ],
-      "duration_ms": 188951,
-      "name": "feather light",
-      "url": "https://open.spotify.com/track/3Xkc6ySTZoa4DPa3rrN2ni"
     },
     {
       "added_at": "2021-10-15 03:01:31",
@@ -1575,6 +1559,22 @@
       "duration_ms": 158314,
       "name": "Foreign Affair",
       "url": "https://open.spotify.com/track/6705wcrwrj3Z9QvvsCQpng"
+    },
+    {
+      "added_at": "2021-10-15 03:01:31",
+      "album": {
+        "name": "Hold On",
+        "url": "https://open.spotify.com/album/26TRY87O1WOXeGyq4oKacJ"
+      },
+      "artists": [
+        {
+          "name": "Little Dragon",
+          "url": "https://open.spotify.com/artist/6Tyzp9KzpiZ04DABQoedps"
+        }
+      ],
+      "duration_ms": 210922,
+      "name": "Hold On",
+      "url": "https://open.spotify.com/track/33mBfdwbMkOflInZGaLGJ2"
     },
     {
       "added_at": "2021-10-15 03:01:31",
@@ -1623,22 +1623,6 @@
       "duration_ms": 214897,
       "name": "Sounds Of Blue",
       "url": "https://open.spotify.com/track/45VVYckfngIzT5gg8IFu3F"
-    },
-    {
-      "added_at": "2021-10-15 03:01:31",
-      "album": {
-        "name": "Hold On",
-        "url": "https://open.spotify.com/album/26TRY87O1WOXeGyq4oKacJ"
-      },
-      "artists": [
-        {
-          "name": "Little Dragon",
-          "url": "https://open.spotify.com/artist/6Tyzp9KzpiZ04DABQoedps"
-        }
-      ],
-      "duration_ms": 210922,
-      "name": "Hold On",
-      "url": "https://open.spotify.com/track/33mBfdwbMkOflInZGaLGJ2"
     },
     {
       "added_at": "2021-10-15 03:01:31",
@@ -1709,6 +1693,22 @@
       "url": "https://open.spotify.com/track/3HkIHa7ajjxgCB2Ag25els"
     },
     {
+      "added_at": "2022-12-07 04:04:10",
+      "album": {
+        "name": "head down",
+        "url": "https://open.spotify.com/album/4nZeUiOozi6RueFN38jIyJ"
+      },
+      "artists": [
+        {
+          "name": "Habe",
+          "url": "https://open.spotify.com/artist/2BugRvdm3aasWYT3VthewW"
+        }
+      ],
+      "duration_ms": 148304,
+      "name": "head down",
+      "url": "https://open.spotify.com/track/39WOd2Pd0gaffvs6q347Xy"
+    },
+    {
       "added_at": "2021-10-15 03:01:31",
       "album": {
         "name": "Miss Universe",
@@ -1725,20 +1725,20 @@
       "url": "https://open.spotify.com/track/5TLMnMcFTlxa7on9ZltYzz"
     },
     {
-      "added_at": "2022-12-07 04:04:10",
+      "added_at": "2022-04-08 19:23:51",
       "album": {
-        "name": "head down",
-        "url": "https://open.spotify.com/album/4nZeUiOozi6RueFN38jIyJ"
+        "name": "Home for Now",
+        "url": "https://open.spotify.com/album/5lQ1jNr2gktMSkGpGVmFlN"
       },
       "artists": [
         {
-          "name": "Habe",
-          "url": "https://open.spotify.com/artist/2BugRvdm3aasWYT3VthewW"
+          "name": "Babeheaven",
+          "url": "https://open.spotify.com/artist/0RlWCq8bq0lJgR6ZTvcqjQ"
         }
       ],
-      "duration_ms": 148304,
-      "name": "head down",
-      "url": "https://open.spotify.com/track/39WOd2Pd0gaffvs6q347Xy"
+      "duration_ms": 222994,
+      "name": "Jalisco",
+      "url": "https://open.spotify.com/track/7gEvMdJjKAlvW68yG4ASSX"
     }
   ],
   "unique_name": "Soft Office",

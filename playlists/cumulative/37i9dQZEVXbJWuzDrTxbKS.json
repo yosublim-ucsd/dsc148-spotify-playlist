@@ -683,6 +683,24 @@
     },
     {
       "album": {
+        "name": "A Bit High",
+        "url": "https://open.spotify.com/album/6M5DIlgWbuWTGKK3luf2ZP"
+      },
+      "artists": [
+        {
+          "name": "NOT BAD BOY",
+          "url": "https://open.spotify.com/artist/5FQ2t3fQMz2VU681aAZBHH"
+        }
+      ],
+      "date_added": "2023-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170482,
+      "name": "A Bit High",
+      "url": "https://open.spotify.com/track/3CmeWai5fvSIvgOy8Nw6sc"
+    },
+    {
+      "album": {
         "name": "Space Between",
         "url": "https://open.spotify.com/album/3Y9rbjjVJUK1dFAVk1e90W"
       },
@@ -5430,7 +5448,7 @@
       ],
       "date_added": "2022-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-19",
       "duration_ms": 221520,
       "name": "Creepin' (with The Weeknd & 21 Savage)",
       "url": "https://open.spotify.com/track/2dHHgzDwk4BJdRwy9uXhTO"
@@ -5822,7 +5840,7 @@
       ],
       "date_added": "2022-10-12",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-11",
+      "date_removed": null,
       "duration_ms": 173104,
       "name": "Dark Red",
       "url": "https://open.spotify.com/track/3EaJDYHA0KnX88JvDhL9oa"
@@ -8974,7 +8992,7 @@
       ],
       "date_added": "2022-01-13",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-18",
+      "date_removed": null,
       "duration_ms": 91869,
       "name": "Formula",
       "url": "https://open.spotify.com/track/6EtKlIQmGPB9SX8UjDJG5s"
@@ -10060,7 +10078,7 @@
       ],
       "date_added": "2023-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-19",
       "duration_ms": 131872,
       "name": "greedy",
       "url": "https://open.spotify.com/track/1reEeZH9wNt4z1ePYLyC7p"
@@ -10078,7 +10096,7 @@
       ],
       "date_added": "2023-09-16",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-15",
+      "date_removed": null,
       "duration_ms": 131872,
       "name": "greedy",
       "url": "https://open.spotify.com/track/3rUGC1vUpkDG9CZFHMur1t"
@@ -15396,7 +15414,7 @@
       ],
       "date_added": "2023-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-19",
       "duration_ms": 157333,
       "name": "M11",
       "url": "https://open.spotify.com/track/12ZQQOVtIw6lwLsNiUTxk6"
@@ -22918,7 +22936,7 @@
       ],
       "date_added": "2023-03-04",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-18",
+      "date_removed": null,
       "duration_ms": 196784,
       "name": "Sex, Drugs, Etc.",
       "url": "https://open.spotify.com/track/7MlDNspYwfqnHxORufupwq"
@@ -23222,7 +23240,7 @@
       ],
       "date_added": "2022-11-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-19",
       "duration_ms": 164571,
       "name": "Shut up My Moms Calling",
       "url": "https://open.spotify.com/track/3hxIUxnT27p5WcmjGUXNwx"
@@ -26704,7 +26722,7 @@
       ],
       "date_added": "2022-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-19",
       "duration_ms": 199920,
       "name": "Too Many Nights (feat. Don Toliver & with Future)",
       "url": "https://open.spotify.com/track/2Hh3ETdQKrmSI3QS0hme7g"

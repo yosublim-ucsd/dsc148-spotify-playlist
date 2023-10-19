@@ -955,6 +955,24 @@
     },
     {
       "album": {
+        "name": "Love,Heartbreak, & Everything in Between",
+        "url": "https://open.spotify.com/album/478FbS6cYoaEYreO0H4YOx"
+      },
+      "artists": [
+        {
+          "name": "Tenille Arts",
+          "url": "https://open.spotify.com/artist/0gSAxSvAApQc71cTpoXDFu"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188853,
+      "name": "I Hate This",
+      "url": "https://open.spotify.com/track/6c90n39x5VKMsxOSTEeNRv"
+    },
+    {
+      "album": {
         "name": "Goldmine",
         "url": "https://open.spotify.com/album/4Iqfx63CZhFGGIHiAvLxXY"
       },
@@ -1634,7 +1652,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-19",
       "duration_ms": 189782,
       "name": "Second Guessing",
       "url": "https://open.spotify.com/track/0rrF82CbDxrY8y5nDVM7um"

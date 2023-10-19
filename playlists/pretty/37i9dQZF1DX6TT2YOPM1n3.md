@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6TT2YOPM1n3.md) - [plain]
 
 > Current Pakistani hits under one roof\. Cover: Adnan Dhool
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,199 likes - 50 songs - 2 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,283 likes - 50 songs - 2 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6TT2YOPM1n3.md) - [plain]
 | 10 | [Bikhra](https://open.spotify.com/track/0OdztoASgKBBNcAgtErk0X) | [Abdul Hannan](https://open.spotify.com/artist/5mWQT8CLTa4mAQAJdFjHb1), [Rovalio](https://open.spotify.com/artist/01pFDtbY3k5uOmy0Pbg93C) | [Bikhra](https://open.spotify.com/album/4yfjeaROize8h6IkgU5RBn) | 2:48 |
 | 11 | [Sukoon](https://open.spotify.com/track/0hOqMsscursarJjpcMgGgu) | [Hassan & Roshaan](https://open.spotify.com/artist/5hjVqhHwLYWW9ZIxuILJF7), [Shae Gill](https://open.spotify.com/artist/3bWIy9AUrQdiNeS62Bp3OP) | [Day 5](https://open.spotify.com/album/1IOyOJS5q1mLur1y0rSoyU) | 4:15 |
 | 12 | [Ik Lamha](https://open.spotify.com/track/70MVLulHguwdhGo7100hsU) | [Azaan Sami Khan](https://open.spotify.com/artist/6v5vYOydZ5MrA2qr6e4Lkc) | [Ik Lamha](https://open.spotify.com/album/6bmCb8UcDltIrFV0mCFaWR) | 4:18 |
-| 13 | [Tu hai kahan](https://open.spotify.com/track/4VhqKzBeAlhTjLYZr0oJx8) | [AUR](https://open.spotify.com/artist/4iDxMuThupamxFo4rqLZS0) | [Tu hai kahan](https://open.spotify.com/album/5V2IsZkQDhgRrgNhyCOJHf) | 4:23 |
+| 13 | [Tu hai kahan](https://open.spotify.com/track/4VhqKzBeAlhTjLYZr0oJx8) | [AUR](https://open.spotify.com/artist/2cjQTf2J5yCaNY8qHpW855) | [Tu hai kahan](https://open.spotify.com/album/5V2IsZkQDhgRrgNhyCOJHf) | 4:23 |
 | 14 | [Moonrise](https://open.spotify.com/track/0uSsibjt7ZjdRwHTJrqWOT) | [Atif Aslam](https://open.spotify.com/artist/2oSONSC9zQ4UonDKnLqksx) | [Moonrise](https://open.spotify.com/album/1Q48FsRM9uF3VvGYaji5bE) | 2:49 |
 | 15 | [Siyah](https://open.spotify.com/track/6xFWVY7hS55qaF7fXBEw7X) | [Abdul Hannan](https://open.spotify.com/artist/5mWQT8CLTa4mAQAJdFjHb1), [BAIG](https://open.spotify.com/artist/0IJYAmQhqf7gY8FkoSCSwZ) | [Siyah](https://open.spotify.com/album/0PedR8249zcLWFtNNkAEcZ) | 2:51 |
 | 16 | [Raabta](https://open.spotify.com/track/2nBdQVqfV2RFTSdcGfKsi7) | [Abdul Hannan](https://open.spotify.com/artist/5mWQT8CLTa4mAQAJdFjHb1), [Rovalio](https://open.spotify.com/artist/01pFDtbY3k5uOmy0Pbg93C) | [Raabta](https://open.spotify.com/album/4c8Wm3Dxq8BRrsPYEFF846) | 2:39 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6TT2YOPM1n3.md) - [plain]
 | 49 | [Kahani Suno 2.0](https://open.spotify.com/track/4VsP4Dm8gsibRxB5I2hEkw) | [Kaifi Khalil](https://open.spotify.com/artist/1n9EM0Y4A89vuRiA93gSS9) | [Kahani Suno 2.0](https://open.spotify.com/album/6BHlJhCk1vjCG6hqTG2SFV) | 2:53 |
 | 50 | [Jo Tu Na Mila x Habibi \(Mashup\)](https://open.spotify.com/track/2weDNfUaaHIy5ck06qCJ54) | [Asim Azhar](https://open.spotify.com/artist/1ZChN8G1Y7CJ0TXbrvblwS), [Arshman Naeem](https://open.spotify.com/artist/2WF847myArLiNE7Cjs9kgD) | [Jo Tu Na Mila x Habibi \(Mashup\)](https://open.spotify.com/album/3zbB8G3qBkAK74gobhZ3RB) | 3:09 |
 
-Snapshot ID: `MCwzZTJjZTYzZDZmNjRkNTQxZjJlZjBjY2IyYTU4Y2I3YWQwMDdkMTgw`
+Snapshot ID: `MCwxNmQ4Nzk5ZGEwMDcwZDhlY2ZiYjMwNGViMDJmMDk3MTFjMjNhNGM0`

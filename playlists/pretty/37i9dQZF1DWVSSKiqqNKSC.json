@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Lo mejor de la Salsa Cubana! Celia Cruz en portada.",
-  "num_followers": 228456,
+  "num_followers": 228513,
   "original_name": "Salsa Cubana",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlZThjYzI3MmQ1Mjc4YWFiNjg2OWVlOWZjMjUzYjlmNmMzZjU4OTQy",
+  "snapshot_id": "MCw1ZTM3OWVjMmQ1NzkxMTc2ZDdjOGY4OWY4MDM0ZDk4YmNlZjk3MWEx",
   "tracks": [
     {
       "added_at": "2022-12-30 18:20:45",
@@ -595,6 +595,22 @@
     {
       "added_at": "2022-12-30 18:20:45",
       "album": {
+        "name": "Live In The USA",
+        "url": "https://open.spotify.com/album/6MtMZryAJrkwQAavMO3JJi"
+      },
+      "artists": [
+        {
+          "name": "David Calzado y su Charanga Habanera",
+          "url": "https://open.spotify.com/artist/1AqDIElf5SS51c2fpG6WQw"
+        }
+      ],
+      "duration_ms": 476586,
+      "name": "Lola Lola",
+      "url": "https://open.spotify.com/track/6fHZOWvumsFiRgThPknxlj"
+    },
+    {
+      "added_at": "2022-12-30 18:20:45",
+      "album": {
         "name": "Visual\u00edzate",
         "url": "https://open.spotify.com/album/2HXRjHb2nbLJa5r70FBtdT"
       },
@@ -611,22 +627,6 @@
       "duration_ms": 240026,
       "name": "Traidora (feat. Marc Anthony) - Salsa Version",
       "url": "https://open.spotify.com/track/3jSCiNXdUOUdpmfG01evw9"
-    },
-    {
-      "added_at": "2022-12-30 18:20:45",
-      "album": {
-        "name": "Live In The USA",
-        "url": "https://open.spotify.com/album/6MtMZryAJrkwQAavMO3JJi"
-      },
-      "artists": [
-        {
-          "name": "David Calzado y su Charanga Habanera",
-          "url": "https://open.spotify.com/artist/1AqDIElf5SS51c2fpG6WQw"
-        }
-      ],
-      "duration_ms": 476586,
-      "name": "Lola Lola",
-      "url": "https://open.spotify.com/track/6fHZOWvumsFiRgThPknxlj"
     },
     {
       "added_at": "2022-12-30 18:20:45",
@@ -819,26 +819,6 @@
     {
       "added_at": "2022-12-30 18:20:45",
       "album": {
-        "name": "Los Amigos",
-        "url": "https://open.spotify.com/album/2ijH9wDqj60doCygkf1ieY"
-      },
-      "artists": [
-        {
-          "name": "Johnny Pacheco",
-          "url": "https://open.spotify.com/artist/09947uhj2ZwU9mFXK5v50o"
-        },
-        {
-          "name": "Hector Casanova",
-          "url": "https://open.spotify.com/artist/1xAyYU2KQcA4QaNvVqVdu4"
-        }
-      ],
-      "duration_ms": 382360,
-      "name": "Agua De Clavelito",
-      "url": "https://open.spotify.com/track/5AWbnZ1k5cMwUAJ3uIIdcl"
-    },
-    {
-      "added_at": "2022-12-30 18:20:45",
-      "album": {
         "name": "Latino 59 presenta: Bailando (Salsa Bachata Merengue Urbano Reggaeton Dembow Fitness)",
         "url": "https://open.spotify.com/album/3lHRgY0YptnHbpFjysFb7S"
       },
@@ -859,6 +839,26 @@
       "duration_ms": 273853,
       "name": "Bailando - Official Salsa Version",
       "url": "https://open.spotify.com/track/60rfRiqSdX2allhe9Qs4Qy"
+    },
+    {
+      "added_at": "2022-12-30 18:20:45",
+      "album": {
+        "name": "Los Amigos",
+        "url": "https://open.spotify.com/album/2ijH9wDqj60doCygkf1ieY"
+      },
+      "artists": [
+        {
+          "name": "Johnny Pacheco",
+          "url": "https://open.spotify.com/artist/09947uhj2ZwU9mFXK5v50o"
+        },
+        {
+          "name": "Hector Casanova",
+          "url": "https://open.spotify.com/artist/1xAyYU2KQcA4QaNvVqVdu4"
+        }
+      ],
+      "duration_ms": 382360,
+      "name": "Agua De Clavelito",
+      "url": "https://open.spotify.com/track/5AWbnZ1k5cMwUAJ3uIIdcl"
     }
   ],
   "unique_name": "Salsa Cubana",

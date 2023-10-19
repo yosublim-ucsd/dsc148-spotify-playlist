@@ -3048,10 +3048,28 @@
       ],
       "date_added": "2023-03-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-19",
       "duration_ms": 171322,
       "name": "Told You So",
       "url": "https://open.spotify.com/track/0xfMFT9G8Ekk7CEYtVabIm"
+    },
+    {
+      "album": {
+        "name": "The Dark",
+        "url": "https://open.spotify.com/album/6S2FI6xzGq3INs2WnlB9ou"
+      },
+      "artists": [
+        {
+          "name": "The Band CAMINO",
+          "url": "https://open.spotify.com/artist/6d4jrmreCmsenscuieJERc"
+        }
+      ],
+      "date_added": "2023-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171322,
+      "name": "Told You So",
+      "url": "https://open.spotify.com/track/2A1HJSm5Gqqb9oTv28U6dr"
     },
     {
       "album": {

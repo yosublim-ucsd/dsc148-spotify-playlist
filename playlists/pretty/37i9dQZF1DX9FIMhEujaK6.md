@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9FIMhEujaK6.md) - [plain]
 
 > The ultimate chilled soundtrack to bring your day to a close.
 
-[Spotify](https://open.spotify.com/user/spotify) - 362,806 likes - 50 songs - 3 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 362,872 likes - 50 songs - 3 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9FIMhEujaK6.md) - [plain]
 | 49 | [Truth Is Light](https://open.spotify.com/track/2XTfdMl5x2qgGl9ZVjmNhF) | [Joe Goddard](https://open.spotify.com/artist/380fnmlGnkyueBMqGWx2k5) | [Electric Lines \(Bonus Edition\)](https://open.spotify.com/album/3IbY6WzMWrPx7ZnqMfEkd6) | 3:59 |
 | 50 | [Talking Like That](https://open.spotify.com/track/2mO6cLDxTnT9NVnQ6iVfVF) | [Le Youth](https://open.spotify.com/artist/1Zz6NBe8UIZjm88TvehFtx), [EMME](https://open.spotify.com/artist/04zy0QJacNRBhI0H3WmkSs) | [Talking Like That](https://open.spotify.com/album/6NgQBkhn7gc9tcxdsORlgi) | 3:51 |
 
-Snapshot ID: `MCw0ZTI0ZWMxMmY2MzVjYjQ5MDcxM2Y5ZjI4ZjI2NmUxMGQ4ZjQ4ZjU0`
+Snapshot ID: `MCxiZmRiZDVlMjRjNDg2MTAyZGFiMjQ0YzMxNzI0NjUwOTk2MjMzMmE4`

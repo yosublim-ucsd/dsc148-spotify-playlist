@@ -4,7 +4,7 @@
 
 > Süßes sonst gibt's Saures! 🎃
 
-128 songs - 6 hr 8 min
+129 songs - 6 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,7 +29,7 @@
 | [Der Herbst ist da](https://open.spotify.com/track/3Opv4kjKgziQ8nePVtdpnf) | [Simone Sommerland](https://open.spotify.com/artist/04yr1h3maDSKvM08pgOezF), [Karsten Glück](https://open.spotify.com/artist/5Asmk7uzCjVJN77MLDnvma), [Die Kita\-Frösche](https://open.spotify.com/artist/2yOGWPXuL8wG3F1q5FWmep) | [Die 30 besten Herbstlieder für Kinder](https://open.spotify.com/album/3DB9WITlUNbkGWWHvj94fL) | 1:32 | 2023-08-31 | 2023-10-17 |
 | [Der Sommer muss gehen](https://open.spotify.com/track/4I0WyPnEmUKn74jFDZPvHi) | [Volker Rosin](https://open.spotify.com/artist/4LDZtk1nfyhIx4bzDDHoBf) | [Itzibitz die Liedermaus](https://open.spotify.com/album/5rfbCBwFt727Bjlz2ZC4pO) | 2:06 | 2023-08-31 | 2023-10-17 |
 | [Der Sommer sagt: "Auf Wiederseh'n!"](https://open.spotify.com/track/5D5apAAFmvWxHKYzV9fYoi) | [Liederkoffer](https://open.spotify.com/artist/4fs4NI8WUOYhMjjNzDf3f7) | [Der Sommer sagt: "Auf Wiederseh'n!"](https://open.spotify.com/album/6ZJoNJBigls3iiEatIYZKd) | 2:47 | 2023-08-31 | 2023-10-17 |
-| [Der Vampir](https://open.spotify.com/track/4FlV1Nn9kpVEJ3qprLc6Gx) | [Eddi & Dän](https://open.spotify.com/artist/16bEAeEFFLi2M6zQuI439D) | [Eddi & Dän singen neue Kinderlieder a cappella, Vol\. 2](https://open.spotify.com/album/7oeEW2bXn0HN2AzoPEIGiv) | 2:36 | 2023-10-16 |  |
+| [Der Vampir](https://open.spotify.com/track/4FlV1Nn9kpVEJ3qprLc6Gx) | [Eddi & Dän](https://open.spotify.com/artist/16bEAeEFFLi2M6zQuI439D) | [Eddi & Dän singen neue Kinderlieder a cappella, Vol\. 2](https://open.spotify.com/album/7oeEW2bXn0HN2AzoPEIGiv) | 2:36 | 2023-10-16 | 2023-10-19 |
 | [Dickie, der dicke Delfin](https://open.spotify.com/track/1bnwtnDox65Be81ol7TX1x) | [Simone Sommerland](https://open.spotify.com/artist/04yr1h3maDSKvM08pgOezF), [Karsten Glück](https://open.spotify.com/artist/5Asmk7uzCjVJN77MLDnvma), [Die Kita\-Frösche](https://open.spotify.com/artist/2yOGWPXuL8wG3F1q5FWmep) | [Die 30 besten Urlaubs\- und Sommerlieder](https://open.spotify.com/album/40g5LCz4YfxQof3b9JqCI6) | 2:10 | 2023-06-28 | 2023-09-02 |
 | [Die Biene maja](https://open.spotify.com/track/37Ya452sNHfucQVaKPM522) | [Karel Gott](https://open.spotify.com/artist/4zaslnpNr10iUFJGx0XqpM) | [Karel](https://open.spotify.com/album/4W2UDtKNsB7iGwKVFIDERR) | 2:39 | 2023-08-31 | 2023-10-17 |
 | [Die Herbstzeit ist da](https://open.spotify.com/track/2cjgPruvFDY3a29FgU8T4E) | [Stephen Janetzko](https://open.spotify.com/artist/0HC9OQdqPCCE1WNMetTTmG) | [Herbst ist da \- Die 25 schönsten Herbstlieder](https://open.spotify.com/album/3dOuVkISzkQo4jy2qNsBbg) | 3:29 | 2023-08-31 | 2023-10-17 |
@@ -111,6 +111,7 @@
 | [Sommertag](https://open.spotify.com/track/0t7JGT6MizSIbMGBGJCwd3) | [Lichterkinder](https://open.spotify.com/artist/5poyNTy0YyDwAMSYBJ7zgv) | [Sommertag](https://open.spotify.com/album/7MOstpjqCCqLl5QFufgSdf) | 2:08 | 2023-08-04 | 2023-09-01 |
 | [Sonnenkäferlied](https://open.spotify.com/track/0JO4ZvcJ1kGE84TH8C9YOV) | [Kalle Klang](https://open.spotify.com/artist/1OGb7SU2LprgqW6I11mdeM), [Die Flohtöne](https://open.spotify.com/artist/1udPbK2uKdBxyEfBpTl1mm), [Sing Kinderlieder](https://open.spotify.com/artist/0FaGQhzs7L0uIuUdjolB1n) | [Sing mit mir Kinderlieder 4](https://open.spotify.com/album/5SgiKSIJZIr6nhEoYNEIIY) | 2:23 | 2023-06-28 | 2023-09-01 |
 | [Spooky, Scary Skeletons](https://open.spotify.com/track/23V08GxMeaZNSf8Gy6KF6t) | [Andrew Gold](https://open.spotify.com/artist/5fmvGUlMVgmnCn45f1he7d) | [Halloween Howls: Fun & Scary Music](https://open.spotify.com/album/5RoMbNYEFVEJyE1OX7VYsW) | 2:07 | 2023-10-16 |  |
+| [Stopptanz \- Halloween Edition](https://open.spotify.com/track/3UmR01DSR8hhhM6QiwhJ9y) | [Der singende Bauernhof](https://open.spotify.com/artist/1phaLooaZs3k7XOl7mCKeo) | [Feste feiern auf dem singenden Bauernhof](https://open.spotify.com/album/4DhZY2INpjLXwEVkFFCTe9) | 2:09 | 2023-10-18 |  |
 | [Summ, summ, summ](https://open.spotify.com/track/0DLD4cVr5pGVY5dTzfo8QE) | [Kalle Klang](https://open.spotify.com/artist/1OGb7SU2LprgqW6I11mdeM), [Die Flohtöne](https://open.spotify.com/artist/1udPbK2uKdBxyEfBpTl1mm), [Sing Kinderlieder](https://open.spotify.com/artist/0FaGQhzs7L0uIuUdjolB1n) | [Sing mit mir Kinderlieder](https://open.spotify.com/album/4gDvWioaiyrWrSmAWxLf6t) | 2:16 | 2023-06-28 | 2023-08-23 |
 | [Süsses oder Saures \- Radio\-Version](https://open.spotify.com/track/732xb6Vy1NRw1KFucJwGMP) | [Peter Huber](https://open.spotify.com/artist/0c1eoPxXsq2jNyFi4lD7UK) | [Flieg, Drachen Flieg! Herbstlieder für Kinder inkl\. Halloween\-Hits](https://open.spotify.com/album/2bxwPzL6lGWBguNBeLgReD) | 2:15 | 2023-10-16 |  |
 | [Süßes oder Saures](https://open.spotify.com/track/0GyexL03XUTTS6ZTvA0yhE) | [Frank und seine Freunde](https://open.spotify.com/artist/3suvpngo1bNM6i7vh4hy7y), [Heaven](https://open.spotify.com/artist/1RK4OMEBHGTo020SOfEeUp) | [Beste Freunde](https://open.spotify.com/album/1lOIwXJTrg3ql9gA886XRn) | 4:34 | 2023-10-16 |  |

@@ -4,7 +4,7 @@
 
 > 100 Suomi 💯 Kannessa william.
 
-109 songs - 5 hr 12 min
+110 songs - 5 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -41,7 +41,7 @@
 | [Illegal \(feat\. LEWI\)](https://open.spotify.com/track/1Wyo0H22vOgKw94oII6h9h) | [El Migu](https://open.spotify.com/artist/52e3RF8S2V0QuVf3X1MNGq), [LEWI](https://open.spotify.com/artist/3Rw9RAezi1FGQrglVYoU4J) | [Illegal \(feat\. LEWI\)](https://open.spotify.com/album/4Ayswa4fpT3dTiu7LOrxJA) | 3:30 | 2023-09-21 |  |
 | [Joka puolella](https://open.spotify.com/track/7ML3SbztRWgCWrTnouitHj) | [Are](https://open.spotify.com/artist/16X4XStfwmDUkI98lVGj4Z) | [Kaiken Teoria](https://open.spotify.com/album/45zZcxEvcjIBXPmphAEkQf) | 3:23 | 2023-10-12 |  |
 | [Just sillee](https://open.spotify.com/track/1qmWhud8dSCh1WxZnwaR2P) | [AHTI](https://open.spotify.com/artist/2E93OTghhH2JKYUWt48gFK) | [Just sillee](https://open.spotify.com/album/2Dw5jml0SGkxUES45CrUFk) | 2:38 | 2023-10-05 |  |
-| [Jälkeekään](https://open.spotify.com/track/39RqJCSBMKkNGiNAnuUMH6) | [Gettomasa](https://open.spotify.com/artist/5sDIQrB2V7pRAdNM8dEc7g) | [Jälkeekään](https://open.spotify.com/album/25OOeOTmMYldufcaw5vnLY) | 2:36 | 2023-09-21 |  |
+| [Jälkeekään](https://open.spotify.com/track/39RqJCSBMKkNGiNAnuUMH6) | [Gettomasa](https://open.spotify.com/artist/5sDIQrB2V7pRAdNM8dEc7g) | [Jälkeekään](https://open.spotify.com/album/25OOeOTmMYldufcaw5vnLY) | 2:36 | 2023-09-21 | 2023-10-19 |
 | [Jäätä](https://open.spotify.com/track/1jK7MftDCrOhfaYlNWVOCR) | [Joa](https://open.spotify.com/artist/18dUO93In2TxH227yE4D8I), [WIL](https://open.spotify.com/artist/0u24i6ZS1dxwPzDPuM0qqT) | [Jäätä](https://open.spotify.com/album/711Po3MO1cRpHrumksNRgk) | 2:55 | 2023-09-21 |  |
 | [Kaikki mitä sanoit](https://open.spotify.com/track/74HITquM008p9aERYIGhBK) | [Koli\-C](https://open.spotify.com/artist/1PugsyLO87Xl7JbaLELlLP), [Färmy](https://open.spotify.com/artist/1VgwrLDy2Nte8B5g5nhcqi) | [Kaikki mitä sanoit](https://open.spotify.com/album/29zQ7m8gDBKVP87wfyxHTc) | 3:53 | 2023-09-21 | 2023-09-29 |
 | [KAPUT](https://open.spotify.com/track/2rQ7vdat1lnosFZ9qrs1Yp) | [Nebi](https://open.spotify.com/artist/0GFEJvcMqGLuhOUUZJavP4) | [KAPUT](https://open.spotify.com/album/0WTovyAkYlrsH7ul78gdA4) | 3:00 | 2023-09-21 |  |
@@ -55,6 +55,7 @@
 | [Kortteli \(feat\. Aste, EKI JA RAY & Becki\)](https://open.spotify.com/track/2mCYmOIJxf7CxRVn7Pn4Pz) | [Brädi](https://open.spotify.com/artist/7sffd21zAdar6cigY9A1b7), [Aste](https://open.spotify.com/artist/0FgPkjSOY3FoLQRXeNbkhL), [EKI JA RAY](https://open.spotify.com/artist/5kFA7hu270oNJDL55BDEEp), [Becki](https://open.spotify.com/artist/6510PIQYPEOlw19irLlFmK) | [Kortteli \(feat\. Aste, EKI JA RAY & Becki\)](https://open.spotify.com/album/2AOBCkwqdhf1W8NoIogJhb) | 3:55 | 2023-09-21 | 2023-09-29 |
 | [Kuka se on \(feat\. Isac Elliot\)](https://open.spotify.com/track/5rJrd2aw3iCaGD87Ztdo4c) | [Cledos](https://open.spotify.com/artist/0xbbe6a1x6g5eGBQfzjWSe), [Isac Elliot](https://open.spotify.com/artist/3aD9K1zaLQ3G7yp9XV5E4D) | [Kuka se on \(feat\. Isac Elliot\)](https://open.spotify.com/album/3Upc7moyLGcU372j9GGvfp) | 2:36 | 2023-10-05 |  |
 | [Kylmä \(feat\. Etta\)](https://open.spotify.com/track/6DZb09dWZhI7dF4wLRRxfz) | [Alina Burnet](https://open.spotify.com/artist/6pBVcV1vX0IUU9Rr1xtB2J), [Etta](https://open.spotify.com/artist/3Lc2yroP05lRK5z9NtQTkc) | [Kylmä \(feat\. Etta\)](https://open.spotify.com/album/5M96DNh1ylelY2dbFutcZb) | 2:33 | 2023-09-21 |  |
+| [käpy](https://open.spotify.com/track/62ta8BEEecanvSxeS3FldL) | [koira](https://open.spotify.com/artist/4rL7vju2zGQGrzqkpzkwOo) | [käpy](https://open.spotify.com/album/4dfL55wygzB20eJrboY838) | 2:57 | 2023-10-18 |  |
 | [Köyhä laulaa \(feat\. Diandra\)](https://open.spotify.com/track/3csvI7Z6Zi0uiQbbpUkvhE) | [Aste](https://open.spotify.com/artist/0FgPkjSOY3FoLQRXeNbkhL), [Diandra](https://open.spotify.com/artist/1Pk1wOWlZbizyfAptxFHxg) | [Köyhä laulaa \(feat\. Diandra\)](https://open.spotify.com/album/1qmiOUIRqSr0yytDlg1Hnw) | 2:43 | 2023-09-21 | 2023-10-13 |
 | [LACOSTE](https://open.spotify.com/track/2jZMZM4VRQ4ROgw8GnL9UC) | [Ax & Huligan](https://open.spotify.com/artist/3jwBl4QHMabizUrnfyKaaq) | [LACOSTE](https://open.spotify.com/album/6dsrYa4H5YG3rB9Y9P4JQT) | 2:43 | 2023-09-21 |  |
 | [Lambo \(feat\. VJ\)](https://open.spotify.com/track/0IJEnvu1p4OIzkY8UiQXCt) | [DAVI](https://open.spotify.com/artist/6SZyjpoIRcvW29wO1u0ouV), [VJ](https://open.spotify.com/artist/4JdNUmnUaGFg9kX947oHg2) | [Lambo \(feat\. VJ\)](https://open.spotify.com/album/0KpXeYkbN15bBnD3ITxnup) | 2:10 | 2023-09-21 |  |

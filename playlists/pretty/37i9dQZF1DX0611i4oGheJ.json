@@ -1,12 +1,12 @@
 {
   "description": "Sweet gems to help you slow down and savor your day.",
-  "num_followers": 423257,
+  "num_followers": 423445,
   "original_name": "Soft & Slow",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwMjhhOGQ1NTYwYmYzMmRhMjMxYjk2ZTIzMGZmMTI1NzlhMmFjYjcx",
+  "snapshot_id": "MCxiODYwMWZkNTBhNmRlYzBiNTcxOWRmNTlhOTY1MWM2NWY3ODI3NWMy",
   "tracks": [
     {
       "added_at": "2023-10-13 04:00:00",
@@ -483,22 +483,6 @@
     {
       "added_at": "2023-10-13 04:00:00",
       "album": {
-        "name": "In the Night",
-        "url": "https://open.spotify.com/album/79XBpEmfWK9in4maPa8Kuh"
-      },
-      "artists": [
-        {
-          "name": "Charley Crockett",
-          "url": "https://open.spotify.com/artist/3BJX1nYizKvWpZTY5HOAr4"
-        }
-      ],
-      "duration_ms": 164538,
-      "name": "I Am Not Afraid",
-      "url": "https://open.spotify.com/track/5pD6DyYeglUby2x5CXrqfA"
-    },
-    {
-      "added_at": "2023-10-13 04:00:00",
-      "album": {
         "name": "Front Porch",
         "url": "https://open.spotify.com/album/0vK1POb7cjZdlZkShnqEDu"
       },
@@ -511,6 +495,22 @@
       "duration_ms": 231813,
       "name": "Front Porch",
       "url": "https://open.spotify.com/track/5sVyefkGgQeYCgnqr4KslQ"
+    },
+    {
+      "added_at": "2023-10-13 04:00:00",
+      "album": {
+        "name": "In the Night",
+        "url": "https://open.spotify.com/album/79XBpEmfWK9in4maPa8Kuh"
+      },
+      "artists": [
+        {
+          "name": "Charley Crockett",
+          "url": "https://open.spotify.com/artist/3BJX1nYizKvWpZTY5HOAr4"
+        }
+      ],
+      "duration_ms": 164538,
+      "name": "I Am Not Afraid",
+      "url": "https://open.spotify.com/track/5pD6DyYeglUby2x5CXrqfA"
     },
     {
       "added_at": "2023-10-13 04:00:00",
@@ -631,6 +631,22 @@
     {
       "added_at": "2023-10-13 04:00:00",
       "album": {
+        "name": "Front Porch",
+        "url": "https://open.spotify.com/album/0vK1POb7cjZdlZkShnqEDu"
+      },
+      "artists": [
+        {
+          "name": "Joy Williams",
+          "url": "https://open.spotify.com/artist/4TCXgdDPm10ensLNCVnIYa"
+        }
+      ],
+      "duration_ms": 235586,
+      "name": "The Trouble with Wanting",
+      "url": "https://open.spotify.com/track/5ZUObJNpVt2l9GogUSfALc"
+    },
+    {
+      "added_at": "2023-10-13 04:00:00",
+      "album": {
         "name": "Th\u00e9r\u00e8se",
         "url": "https://open.spotify.com/album/1lbJOgLXOtyxQbvjt17eGT"
       },
@@ -659,22 +675,6 @@
       "duration_ms": 155352,
       "name": "Pharmakon",
       "url": "https://open.spotify.com/track/4gbWcPHqTZHoq5PrS0iBHq"
-    },
-    {
-      "added_at": "2023-10-13 04:00:00",
-      "album": {
-        "name": "Front Porch",
-        "url": "https://open.spotify.com/album/0vK1POb7cjZdlZkShnqEDu"
-      },
-      "artists": [
-        {
-          "name": "Joy Williams",
-          "url": "https://open.spotify.com/artist/4TCXgdDPm10ensLNCVnIYa"
-        }
-      ],
-      "duration_ms": 235586,
-      "name": "The Trouble with Wanting",
-      "url": "https://open.spotify.com/track/5ZUObJNpVt2l9GogUSfALc"
     },
     {
       "added_at": "2023-10-13 04:00:00",
@@ -735,22 +735,6 @@
     {
       "added_at": "2023-10-13 04:00:00",
       "album": {
-        "name": "Dying Star",
-        "url": "https://open.spotify.com/album/0HglC8wDUKL0VV5KI31bqU"
-      },
-      "artists": [
-        {
-          "name": "Ruston Kelly",
-          "url": "https://open.spotify.com/artist/5zuqnTZOeJzI0N0yQ7XA7I"
-        }
-      ],
-      "duration_ms": 277293,
-      "name": "Mockingbird",
-      "url": "https://open.spotify.com/track/6fS1CEMY4LlvQNWuUMoWEQ"
-    },
-    {
-      "added_at": "2023-10-13 04:00:00",
-      "album": {
         "name": "Idle Mind",
         "url": "https://open.spotify.com/album/5jz07RajgJtqxfBAwWULOW"
       },
@@ -763,6 +747,22 @@
       "duration_ms": 295265,
       "name": "Warped Window",
       "url": "https://open.spotify.com/track/7jd2h2mIeyKpqkFsrl5EHN"
+    },
+    {
+      "added_at": "2023-10-13 04:00:00",
+      "album": {
+        "name": "Dying Star",
+        "url": "https://open.spotify.com/album/0HglC8wDUKL0VV5KI31bqU"
+      },
+      "artists": [
+        {
+          "name": "Ruston Kelly",
+          "url": "https://open.spotify.com/artist/5zuqnTZOeJzI0N0yQ7XA7I"
+        }
+      ],
+      "duration_ms": 277293,
+      "name": "Mockingbird",
+      "url": "https://open.spotify.com/track/6fS1CEMY4LlvQNWuUMoWEQ"
     },
     {
       "added_at": "2023-10-13 04:00:00",
@@ -1127,22 +1127,6 @@
     {
       "added_at": "2023-10-13 04:00:00",
       "album": {
-        "name": "The Firewatcher's Daughter",
-        "url": "https://open.spotify.com/album/5ZpxRLVRkCZ2BXXW1KYbTB"
-      },
-      "artists": [
-        {
-          "name": "Brandi Carlile",
-          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
-        }
-      ],
-      "duration_ms": 211674,
-      "name": "The Eye",
-      "url": "https://open.spotify.com/track/0Plf9mewMoYkwEvncCjfxS"
-    },
-    {
-      "added_at": "2023-10-13 04:00:00",
-      "album": {
         "name": "All Remains",
         "url": "https://open.spotify.com/album/6duXVbHPuAjgyR5kHyoyLw"
       },
@@ -1155,6 +1139,22 @@
       "duration_ms": 227279,
       "name": "Our Remains - Acoustic",
       "url": "https://open.spotify.com/track/2ojNyfX7ioBiExsxKlDC7M"
+    },
+    {
+      "added_at": "2023-10-13 04:00:00",
+      "album": {
+        "name": "The Firewatcher's Daughter",
+        "url": "https://open.spotify.com/album/5ZpxRLVRkCZ2BXXW1KYbTB"
+      },
+      "artists": [
+        {
+          "name": "Brandi Carlile",
+          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
+        }
+      ],
+      "duration_ms": 211674,
+      "name": "The Eye",
+      "url": "https://open.spotify.com/track/0Plf9mewMoYkwEvncCjfxS"
     },
     {
       "added_at": "2023-10-13 04:00:00",
@@ -1275,22 +1275,6 @@
     {
       "added_at": "2023-10-13 04:00:00",
       "album": {
-        "name": "The Order Of Time",
-        "url": "https://open.spotify.com/album/4TVWSt83FpSfocgA3omB0k"
-      },
-      "artists": [
-        {
-          "name": "Valerie June",
-          "url": "https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM"
-        }
-      ],
-      "duration_ms": 218640,
-      "name": "Astral Plane",
-      "url": "https://open.spotify.com/track/1ISGSSgVnZhyiOGSI8itNa"
-    },
-    {
-      "added_at": "2023-10-13 04:00:00",
-      "album": {
         "name": "Party",
         "url": "https://open.spotify.com/album/6wPvhV9G6irAbzpLCADP3K"
       },
@@ -1323,6 +1307,22 @@
     {
       "added_at": "2023-10-13 04:00:00",
       "album": {
+        "name": "The Order Of Time",
+        "url": "https://open.spotify.com/album/4TVWSt83FpSfocgA3omB0k"
+      },
+      "artists": [
+        {
+          "name": "Valerie June",
+          "url": "https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM"
+        }
+      ],
+      "duration_ms": 218640,
+      "name": "Astral Plane",
+      "url": "https://open.spotify.com/track/1ISGSSgVnZhyiOGSI8itNa"
+    },
+    {
+      "added_at": "2023-10-13 04:00:00",
+      "album": {
         "name": "Young In All The Wrong Ways",
         "url": "https://open.spotify.com/album/5O41sFLk5rKN2S4eT8GgQR"
       },
@@ -1339,22 +1339,6 @@
     {
       "added_at": "2023-10-13 04:00:00",
       "album": {
-        "name": "Way I Go",
-        "url": "https://open.spotify.com/album/2BI8iTUQ5STaPPE8HowGNq"
-      },
-      "artists": [
-        {
-          "name": "Gordi",
-          "url": "https://open.spotify.com/artist/6UBMFaCTZnL1Hr1nTOEblM"
-        }
-      ],
-      "duration_ms": 247829,
-      "name": "Way I Go",
-      "url": "https://open.spotify.com/track/5fMTQPtPqEGNCI9gDGTruc"
-    },
-    {
-      "added_at": "2023-10-13 04:00:00",
-      "album": {
         "name": "The Tree",
         "url": "https://open.spotify.com/album/2Jv8rT6pudH0eIlgu90zKm"
       },
@@ -1367,6 +1351,22 @@
       "duration_ms": 222279,
       "name": "People Get Old",
       "url": "https://open.spotify.com/track/2Tm7nXWJouomHeRN9bT6IK"
+    },
+    {
+      "added_at": "2023-10-13 04:00:00",
+      "album": {
+        "name": "Way I Go",
+        "url": "https://open.spotify.com/album/2BI8iTUQ5STaPPE8HowGNq"
+      },
+      "artists": [
+        {
+          "name": "Gordi",
+          "url": "https://open.spotify.com/artist/6UBMFaCTZnL1Hr1nTOEblM"
+        }
+      ],
+      "duration_ms": 247829,
+      "name": "Way I Go",
+      "url": "https://open.spotify.com/track/5fMTQPtPqEGNCI9gDGTruc"
     },
     {
       "added_at": "2023-10-13 04:00:00",
@@ -1535,18 +1535,18 @@
     {
       "added_at": "2023-10-13 04:00:00",
       "album": {
-        "name": "A Sailor's Guide to Earth",
-        "url": "https://open.spotify.com/album/5I3UdCxtIh6hkQ7rMPUvA4"
+        "name": "To Learn",
+        "url": "https://open.spotify.com/album/5k6lsjpZK4l4J9oMQmBR1l"
       },
       "artists": [
         {
-          "name": "Sturgill Simpson",
-          "url": "https://open.spotify.com/artist/3vDpQbGnzRbRVirXlfQagB"
+          "name": "Leith Ross",
+          "url": "https://open.spotify.com/artist/4nxKz1dRYXnsGzN1lUURtG"
         }
       ],
-      "duration_ms": 212586,
-      "name": "Breakers Roar",
-      "url": "https://open.spotify.com/track/7rR5X9RKz5VprclstYOLb5"
+      "duration_ms": 137060,
+      "name": "To Learn",
+      "url": "https://open.spotify.com/track/63a0svve0p3CIiGx9a9DTy"
     },
     {
       "added_at": "2023-10-13 04:00:00",
@@ -1571,6 +1571,22 @@
     {
       "added_at": "2023-10-13 04:00:00",
       "album": {
+        "name": "A Sailor's Guide to Earth",
+        "url": "https://open.spotify.com/album/5I3UdCxtIh6hkQ7rMPUvA4"
+      },
+      "artists": [
+        {
+          "name": "Sturgill Simpson",
+          "url": "https://open.spotify.com/artist/3vDpQbGnzRbRVirXlfQagB"
+        }
+      ],
+      "duration_ms": 212586,
+      "name": "Breakers Roar",
+      "url": "https://open.spotify.com/track/7rR5X9RKz5VprclstYOLb5"
+    },
+    {
+      "added_at": "2023-10-13 04:00:00",
+      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/5biFYkYP5v0k9OavG4CCoK"
       },
@@ -1583,22 +1599,6 @@
       "duration_ms": 235579,
       "name": "What I Am - Recorded at Spotify Studios NYC",
       "url": "https://open.spotify.com/track/6EjU3Hev5VZZmpPjoyNZVX"
-    },
-    {
-      "added_at": "2023-10-13 04:00:00",
-      "album": {
-        "name": "To Learn",
-        "url": "https://open.spotify.com/album/5k6lsjpZK4l4J9oMQmBR1l"
-      },
-      "artists": [
-        {
-          "name": "Leith Ross",
-          "url": "https://open.spotify.com/artist/4nxKz1dRYXnsGzN1lUURtG"
-        }
-      ],
-      "duration_ms": 137060,
-      "name": "To Learn",
-      "url": "https://open.spotify.com/track/63a0svve0p3CIiGx9a9DTy"
     },
     {
       "added_at": "2023-10-13 04:00:00",
@@ -1871,26 +1871,6 @@
     {
       "added_at": "2023-10-13 04:00:00",
       "album": {
-        "name": "Helpless",
-        "url": "https://open.spotify.com/album/396OTSPq4V7Rxw6y8RmvGA"
-      },
-      "artists": [
-        {
-          "name": "Molly Tuttle",
-          "url": "https://open.spotify.com/artist/4LX0KCPnH7gvxEbVXqXmAE"
-        },
-        {
-          "name": "Old Crow Medicine Show",
-          "url": "https://open.spotify.com/artist/4DBi4EYXgiqbkxvWUXUzMi"
-        }
-      ],
-      "duration_ms": 265387,
-      "name": "Helpless",
-      "url": "https://open.spotify.com/track/3HqAL42mdJwmdjjUBh78ht"
-    },
-    {
-      "added_at": "2023-10-13 04:00:00",
-      "album": {
         "name": "Robert Ellis",
         "url": "https://open.spotify.com/album/1cOWI3gTpBWdPp9Rhv4Ezt"
       },
@@ -1919,6 +1899,26 @@
       "duration_ms": 307312,
       "name": "Golden (Acoustic)",
       "url": "https://open.spotify.com/track/3tsrOkDmaJg60XJMkEmYpp"
+    },
+    {
+      "added_at": "2023-10-13 04:00:00",
+      "album": {
+        "name": "Helpless",
+        "url": "https://open.spotify.com/album/396OTSPq4V7Rxw6y8RmvGA"
+      },
+      "artists": [
+        {
+          "name": "Molly Tuttle",
+          "url": "https://open.spotify.com/artist/4LX0KCPnH7gvxEbVXqXmAE"
+        },
+        {
+          "name": "Old Crow Medicine Show",
+          "url": "https://open.spotify.com/artist/4DBi4EYXgiqbkxvWUXUzMi"
+        }
+      ],
+      "duration_ms": 265387,
+      "name": "Helpless",
+      "url": "https://open.spotify.com/track/3HqAL42mdJwmdjjUBh78ht"
     },
     {
       "added_at": "2023-10-13 04:00:00",
@@ -1955,22 +1955,6 @@
     {
       "added_at": "2023-10-13 04:00:00",
       "album": {
-        "name": "Don't Let The Kids Win",
-        "url": "https://open.spotify.com/album/33C9uXgwL1Bee6gwdcFxSY"
-      },
-      "artists": [
-        {
-          "name": "Julia Jacklin",
-          "url": "https://open.spotify.com/artist/12fRkVfO2fUsz1QHgDAG3g"
-        }
-      ],
-      "duration_ms": 255692,
-      "name": "Pool Party",
-      "url": "https://open.spotify.com/track/7oLqKKca5rHLXCZjO0Os6A"
-    },
-    {
-      "added_at": "2023-10-13 04:00:00",
-      "album": {
         "name": "On Board",
         "url": "https://open.spotify.com/album/12aYaWsu8zUyxvdCPZH4hY"
       },
@@ -1987,6 +1971,22 @@
       "duration_ms": 310817,
       "name": "On Board",
       "url": "https://open.spotify.com/track/0ss3NIhmAPfWGpe7NR0kHA"
+    },
+    {
+      "added_at": "2023-10-13 04:00:00",
+      "album": {
+        "name": "Don't Let The Kids Win",
+        "url": "https://open.spotify.com/album/33C9uXgwL1Bee6gwdcFxSY"
+      },
+      "artists": [
+        {
+          "name": "Julia Jacklin",
+          "url": "https://open.spotify.com/artist/12fRkVfO2fUsz1QHgDAG3g"
+        }
+      ],
+      "duration_ms": 255692,
+      "name": "Pool Party",
+      "url": "https://open.spotify.com/track/7oLqKKca5rHLXCZjO0Os6A"
     },
     {
       "added_at": "2023-10-13 04:00:00",

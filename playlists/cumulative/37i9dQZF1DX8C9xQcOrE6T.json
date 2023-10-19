@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-04-19",
-  "description": "All your favorite Disney hits, including songs from Coco.",
+  "description": "All your favorite Disney hits, including songs from Wish.",
   "name": "Disney Hits",
   "tracks": [
     {
@@ -3118,6 +3118,28 @@
       "duration_ms": 196560,
       "name": "This Is Halloween",
       "url": "https://open.spotify.com/track/01YROQCnF1AQm7SCWJmD2o"
+    },
+    {
+      "album": {
+        "name": "This Wish (From \"Wish\")",
+        "url": "https://open.spotify.com/album/123gDnj9pBl8GNRLyOViC9"
+      },
+      "artists": [
+        {
+          "name": "Ariana DeBose",
+          "url": "https://open.spotify.com/artist/1Np9GsrPO7dlczjvdehBxs"
+        },
+        {
+          "name": "Disney",
+          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
+        }
+      ],
+      "date_added": "2023-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205480,
+      "name": "This Wish - From \"Wish\"",
+      "url": "https://open.spotify.com/track/5yvHjO06WHe7ETlgirLjbw"
     },
     {
       "album": {

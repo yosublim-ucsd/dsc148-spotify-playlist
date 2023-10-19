@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1ZtBovtTdHT.md) - [plain]
 
 > Legendary euro\- trance & progressive tracks  from the 90s and 00s.
 
-[Spotify](https://open.spotify.com/user/spotify) - 175,233 likes - 82 songs - 6 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 175,377 likes - 82 songs - 6 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -80,9 +80,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1ZtBovtTdHT.md) - [plain]
 | 70 | [Perfect World \- Richi's Single Version](https://open.spotify.com/track/1QhpilbZHay4zqXmx5TGS1) | [Richi M.](https://open.spotify.com/artist/2ebMpthf4U0DaF5G82G92b) | [Perfect World](https://open.spotify.com/album/7qcPuZtuCMxMwJLKeZZZlc) | 4:09 |
 | 71 | [In Silence \- Ron van den Beuken Remix](https://open.spotify.com/track/2iWHVKISSU9axCE6sncM0M) | [Randy Katana](https://open.spotify.com/artist/6XI9c9lZrduWlG80Kky8yr) | [In Silence \(Remixes\)](https://open.spotify.com/album/4raE2IqKCFUNF8KJwzhLXa) | 11:15 |
 | 72 | [Lift Me Up \- Barthezz Uplifting Remix](https://open.spotify.com/track/0twDKQyNGVsQ6uvIauUG2i) | [DJ Jean](https://open.spotify.com/artist/73MDPnjHtoqOexpBNe4FPl) | [Lift Me Up](https://open.spotify.com/album/4jXF49oY4Zm486fVk4Dd0U) | 8:44 |
-| 73 | [4 Elements](https://open.spotify.com/track/6RuojdtUR7zkIuJqMxaij5) | [GAIA](https://open.spotify.com/artist/3Jkc5q9qBSNOTf3IvAyJW9) | [A State Of Trance Classics, Vol.2](https://open.spotify.com/album/4MZ7o3YmVjt9QaTHJiSf80) | 7:02 |
-| 74 | [Turn the Tide](https://open.spotify.com/track/0LWxvlcuO2SLHOrwRVKdPZ) | [Sylver](https://open.spotify.com/artist/1i9NxPRrKcoW34XTMnvzJy) | [Summer Hitz: Throwback 4](https://open.spotify.com/album/50pU3YGVDmM9EVfjUG45eC) | 4:06 |
-| 75 | [Time Is The Healer \- Armin van Buuren Extended Remix](https://open.spotify.com/track/0nzQ03IlgnmjH2J1iBE5fO) | [Riva](https://open.spotify.com/artist/6iA15qGHQwya65ivTQXDzP), [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5) | [Time Is The Healer](https://open.spotify.com/album/3lpXIVTG57wXNuhpGu8CrY) | 7:56 |
+| 73 | [Turn the Tide](https://open.spotify.com/track/0LWxvlcuO2SLHOrwRVKdPZ) | [Sylver](https://open.spotify.com/artist/1i9NxPRrKcoW34XTMnvzJy) | [Summer Hitz: Throwback 4](https://open.spotify.com/album/50pU3YGVDmM9EVfjUG45eC) | 4:06 |
+| 74 | [4 Elements](https://open.spotify.com/track/6RuojdtUR7zkIuJqMxaij5) | [GAIA](https://open.spotify.com/artist/3Jkc5q9qBSNOTf3IvAyJW9) | [A State Of Trance Classics, Vol.2](https://open.spotify.com/album/4MZ7o3YmVjt9QaTHJiSf80) | 7:02 |
+| 75 | [Time Is The Healer \- Armin van Buuren Extended Remix](https://open.spotify.com/track/0nzQ03IlgnmjH2J1iBE5fO) | [Riva](https://open.spotify.com/artist/6iA15qGHQwya65ivTQXDzP), [Chocolate Puma](https://open.spotify.com/artist/5Aw0IGM5JS3FuTgtRsDWGA), [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5) | [Time Is The Healer](https://open.spotify.com/album/3lpXIVTG57wXNuhpGu8CrY) | 7:56 |
 | 76 | [Proximus \- Radio Edit](https://open.spotify.com/track/3u1MtZDbvPzfwOlXnC7kf0) | [Mauro Picotto](https://open.spotify.com/artist/0MNSDAOCHF7f2ZfAYxZ9bp) | [Trance Top 1000 \- 2013: The Best Of](https://open.spotify.com/album/1z9voFSLxtgBsvEYrodKWQ) | 3:31 |
 | 77 | [Barber's Adagio for Strings \- Ferry Corsten Remix](https://open.spotify.com/track/34I6VPdSlptoTmX6HcY7tv) | [William Orbit](https://open.spotify.com/artist/2AHGrNDMKFi8rHqQ8kJqfl) | [Visiones De Futuro: Electrónica Progresiva](https://open.spotify.com/album/0Q2wVtiz8sVR2zSk5sxL0e) | 6:35 |
 | 78 | [The Sound Of Goodbye \- Armin van Buuren presents Rising Star Remix](https://open.spotify.com/track/6i0XAILWMxXwjtDxGm6Wgu) | [Perpetuous Dreamer](https://open.spotify.com/artist/1J4lVvwCqmAwOJ5kqKamBy), [Rising Star](https://open.spotify.com/artist/3HYUBCT2pYtoo0JHztEsRJ), [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5) | [40 Best Trance Hits Ever, Vol\. 2 \(Extended Versions\)](https://open.spotify.com/album/6uN9PsLgmCmPPkrusFaAWL) | 10:49 |
@@ -91,4 +91,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1ZtBovtTdHT.md) - [plain]
 | 81 | [Good Time \- Original Mix](https://open.spotify.com/track/1wGjJcVAGual9ZkX3wefXV) | [Peran](https://open.spotify.com/artist/118Lw79OE3nCByRVzSGdD9) | [In Memory of Rr Recordings](https://open.spotify.com/album/1gIuXvgxDSaJozQjuwf84S) | 8:18 |
 | 82 | [Will I \(Extended Mix\)](https://open.spotify.com/track/1FLZTa9FqdMOAi3HL5q0SJ) | [Ian van Dahl](https://open.spotify.com/artist/27IuDZNaLuEtupD8QZftiZ) | [Cantaditas De Luxe Vol.2](https://open.spotify.com/album/0sW0as9QkiOIcN9VUrrgcI) | 6:30 |
 
-Snapshot ID: `MCxhNTZlNzk1ZTdlMTE4ZjlhZTM3NTEzNmNkNjIzZmVkMGNjM2Y3Mzlh`
+Snapshot ID: `MCw1YjNkNTZiYzMwMTJiMTNjZmNjYmRiNjk4ZWYyZjUwMjRlNGE5YTM1`

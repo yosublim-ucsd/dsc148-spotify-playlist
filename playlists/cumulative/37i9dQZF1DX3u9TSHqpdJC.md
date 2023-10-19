@@ -2,9 +2,9 @@
 
 ### [Fresh Finds Pop](https://open.spotify.com/playlist/37i9dQZF1DX3u9TSHqpdJC)
 
-> The best new music by independent artists and labels\. Updates every Wednesday\. Cover: NEEA RIVER
+> The best new music by independent artists and labels\. Updates every Wednesday\. Cover: Mike Taveira
 
-3,187 songs - 6 day 18 hr 8 min
+3,191 songs - 6 day 18 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -246,7 +246,7 @@
 | [Bandage](https://open.spotify.com/track/0bk37ffAvr9ILvj20IB1uZ) | [Anabella Paige](https://open.spotify.com/artist/3j5iqudGvWfmUxDIEgdYIa) | [Bandage](https://open.spotify.com/album/74t4wSLpqs8bBlietxX4Zj) | 3:42 | 2023-05-03 | 2023-07-20 |
 | [bandaid](https://open.spotify.com/track/1vLPFDoGHKHSaZB0mv8MsY) | [Preslea Elliott](https://open.spotify.com/artist/5mtC8vRuZNeS9iXARykYWi) | [bandaid](https://open.spotify.com/album/0QTxmwABQAK9Wp0209TRsA) | 3:37 | 2022-07-20 | 2022-08-25 |
 | [Bare Minimum](https://open.spotify.com/track/4un0t01UCQIolLI1ShnCp7) | [Madisyn Gifford](https://open.spotify.com/artist/1cNquoaU6Fzw8gbQTxBZ85) | [Bare Minimum](https://open.spotify.com/album/2caik0y7rEa2S5pnw2x7aM) | 3:36 | 2021-07-16 | 2021-09-02 |
-| [BASIC](https://open.spotify.com/track/1PvfZFdUhDIJAhWWgyqUxM) | [saywhen](https://open.spotify.com/artist/6ZsvRYS7gjFxkKu6d2Bl9v) | [BASIC](https://open.spotify.com/album/5wDW7r8nJTLZ1QCiw3JKet) | 2:40 | 2023-09-13 |  |
+| [BASIC](https://open.spotify.com/track/1PvfZFdUhDIJAhWWgyqUxM) | [saywhen](https://open.spotify.com/artist/6ZsvRYS7gjFxkKu6d2Bl9v) | [BASIC](https://open.spotify.com/album/5wDW7r8nJTLZ1QCiw3JKet) | 2:40 | 2023-09-13 | 2023-10-19 |
 | [Bbydoll](https://open.spotify.com/track/6icAGoPC9WT1yQYCm9llLb) | [Swordes](https://open.spotify.com/artist/7uMvaQWf3NvJ0sxnKhhWkb) | [Bbydoll](https://open.spotify.com/album/1TMq136QwGdMxvVN23MLOs) | 2:38 | 2022-08-24 | 2022-10-06 |
 | [BBZ](https://open.spotify.com/track/2Uzo8W2sVgOYT7LHMpuBKM) | [Claudia Bouvette](https://open.spotify.com/artist/3ppelsCZFOVBUny0HZS6nn) | [BBZ](https://open.spotify.com/album/5kxHscWqXQwyWylcBCCEr9) | 2:17 | 2021-10-21 | 2021-12-01 |
 | [Be Alright](https://open.spotify.com/track/5bHg9IGNlg3kc9sBbgeASE) | [Hunter Moreau](https://open.spotify.com/artist/18E7vRs277FpAIZelUzoCQ) | [Be Alright](https://open.spotify.com/album/6pVIHOBTCcdujAJiFiPSct) | 2:33 | 2022-08-24 | 2022-10-27 |
@@ -350,7 +350,7 @@
 | [Blue](https://open.spotify.com/track/2YSpZDK4tYNy9AS3rKDTZl) | [Kayla Rae](https://open.spotify.com/artist/0cz0uZX8a30POuEC2hDL9j) | [Blue](https://open.spotify.com/album/25WCGOw4Nj1YJsznFj9JgO) | 2:46 | 2023-02-01 | 2023-04-27 |
 | [Blue & White](https://open.spotify.com/track/41ggWVg4YpKXAktdR7hx5z) | [HYYTS](https://open.spotify.com/artist/14imaElr610tHxlaJpuQHq) | [Blue & White](https://open.spotify.com/album/7HFeekHPk68jIsqxm5ucg2) | 3:42 | 2021-04-15 | 2021-05-27 |
 | [Blue Escape](https://open.spotify.com/track/2HdJ8CcFR52iKnvoUm2I7I) | [BEA](https://open.spotify.com/artist/3Z3GDBp8qms6GCTWZlBA3M) | [Blue Escape](https://open.spotify.com/album/0RsioaII4X4rhcDGtpdM45) | 3:52 | 2021-07-29 | 2021-08-20 |
-| [Blue Eyed Boys](https://open.spotify.com/track/61AJ1nlhY5rcHakjNKov1w) | [YZMN](https://open.spotify.com/artist/5O9xKjqhaPD3Gpi8wC73d7) | [Therapy](https://open.spotify.com/album/70AjCGQSZnVua58B4u1zrI) | 3:25 | 2023-09-06 |  |
+| [Blue Eyed Boys](https://open.spotify.com/track/61AJ1nlhY5rcHakjNKov1w) | [YZMN](https://open.spotify.com/artist/5O9xKjqhaPD3Gpi8wC73d7) | [Therapy](https://open.spotify.com/album/70AjCGQSZnVua58B4u1zrI) | 3:25 | 2023-09-06 | 2023-10-19 |
 | [Blue Eyes](https://open.spotify.com/track/13LBez2L5eGKLuoWHyx8V2) | [JEWELS](https://open.spotify.com/artist/2puIo7Zz69PUcZbbQ5axLb) | [Blue Eyes](https://open.spotify.com/album/3wh2oQMi6XahXjqO9ERILp) | 3:24 | 2022-08-24 | 2022-10-06 |
 | [Blueberry Mojito](https://open.spotify.com/track/0ajLglsDN2MJlf4pX6EpaP) | [Elli Moore](https://open.spotify.com/artist/5qtgvemHd1Dl0WsgfpQIir) | [Drink Me](https://open.spotify.com/album/5UlTq1mAwoKZkSMmixCkou) | 3:21 | 2023-05-10 | 2023-08-10 |
 | [Bluebird](https://open.spotify.com/track/3UZQKylw0fLvlEqP18M99A) | [Victoria Bigelow](https://open.spotify.com/artist/3QcQHXrN1oIQO9kCihqNCU) | [Waves](https://open.spotify.com/album/36H0aED0yPq0gvQxdg6G99) | 2:45 | 2021-09-30 | 2022-01-13 |
@@ -668,6 +668,7 @@
 | [Dangerous](https://open.spotify.com/track/3GvbNdrhPriMoouVkjKG5l) | [DAY\_S](https://open.spotify.com/artist/1JvxXVFAnvaTUBDgX82vHS) | [Dangerous](https://open.spotify.com/album/76kHS9J1KYg3rxY9cNKeHp) | 2:37 | 2021-04-22 | 2021-05-27 |
 | [Dark Side](https://open.spotify.com/track/2vvMmPGdcZPOXZycjGEqja) | [EHLE](https://open.spotify.com/artist/2OaUwJcloDhX02J3qLPw7q) | [Dark Side](https://open.spotify.com/album/1QJaDupeRe0iuHCijci8f6) | 2:51 | 2022-01-12 | 2022-02-24 |
 | [Dark Thoughts About A Pretty Flower](https://open.spotify.com/track/3Xeu9u21qYeI0vlqzdHLSV) | [The Lovelines](https://open.spotify.com/artist/37CfY5gz2Mk6U8jWK4RYM2) | [Dark Thoughts About A Pretty Flower](https://open.spotify.com/album/6g0IHMPMy2e0VENropaA4b) | 3:07 | 2022-03-23 | 2022-04-14 |
+| [Date Myself](https://open.spotify.com/track/1FDOcBhoW0kubBBGZKWPax) | [Kayla DiVenere](https://open.spotify.com/artist/6LmymAfsFtt2CaJSj9hdCn) | [Date Myself](https://open.spotify.com/album/58LyoyGx3D24wX5wKUvtDh) | 2:37 | 2023-10-18 |  |
 | [day off](https://open.spotify.com/track/0i47KKjA7DDbTOsgE1afSN) | [Zamir](https://open.spotify.com/artist/069X32ooT7djUGNCcIhKFq), [planet girl](https://open.spotify.com/artist/40DgzqFfLrkIx2mas3Bpfv) | [day off](https://open.spotify.com/album/6bXQ7d0hchsEjpNAtRh2GF) | 2:51 | 2022-05-25 | 2022-07-21 |
 | [day&night](https://open.spotify.com/track/5ydXHGn98Gr9sW5YMKcEkj) | [Taylor Roche](https://open.spotify.com/artist/6YwDZ1txRytZuE9Zvx5Pl0) | [day&night](https://open.spotify.com/album/6Cs7wRAZ5t3ubnRVq9orLq) | 2:28 | 2022-08-24 | 2022-10-27 |
 | [Daydream](https://open.spotify.com/track/7CFPVdKn4FFkIm7rZYhNZQ) | [Lily Meola](https://open.spotify.com/artist/5WC6EbIrTO76x30w5LtzS6) | [Daydream](https://open.spotify.com/album/7N2QQisOFbQ0rWHDwIKd8O) | 3:09 | 2021-09-02 | 2021-10-07 |
@@ -904,7 +905,7 @@
 | [Fallin' Over](https://open.spotify.com/track/3X3zDYYdVvsi10HFZW7k6N) | [Ari James](https://open.spotify.com/artist/7MCWvWRXYD3YIJazLKUXsA) | [Fallin' Over](https://open.spotify.com/album/0Yyu9glq5r1SsD05xl6xYU) | 2:34 | 2022-02-09 | 2022-03-31 |
 | [falling easy](https://open.spotify.com/track/1LnXbsboootYwkXdZR93H1) | [sad face.](https://open.spotify.com/artist/3E9nbdWPIrVqkHoQeU003n) | [falling easy](https://open.spotify.com/album/62wsaMKXUjK8YMEYlxgCBH) | 4:00 | 2023-03-08 | 2023-04-27 |
 | [Falling Into You](https://open.spotify.com/track/0z6AuCoTK782Gb4d0JhALP) | [Blake Proehl](https://open.spotify.com/artist/1RgYPu8VR3b5sXupFPGMAO) | [Falling Into You](https://open.spotify.com/album/2OfF1GFffwahzKWrwwgsXq) | 3:26 | 2022-04-13 | 2022-05-18 |
-| [Falls and Doubts](https://open.spotify.com/track/41H03mM8yfOf7qh6qg2Vsb) | [Vlera](https://open.spotify.com/artist/23Zgo7EeFTaJ5XNtdpswvJ) | [Falls and Doubts](https://open.spotify.com/album/11hSd0aFwF59g2M2yyF9Fo) | 2:45 | 2023-02-01 |  |
+| [Falls and Doubts](https://open.spotify.com/track/41H03mM8yfOf7qh6qg2Vsb) | [Vlera](https://open.spotify.com/artist/23Zgo7EeFTaJ5XNtdpswvJ) | [Falls and Doubts](https://open.spotify.com/album/11hSd0aFwF59g2M2yyF9Fo) | 2:45 | 2023-02-01 | 2023-10-19 |
 | [False Idol](https://open.spotify.com/track/2ZtCpgZrWRZOZv9hpym5YU) | [MARIS](https://open.spotify.com/artist/4s4sHVaj6CRcClZ7SFSKzE) | [False Idol](https://open.spotify.com/album/1imUbzypSmVJn0nTJSEI6V) | 2:27 | 2023-02-08 | 2023-03-16 |
 | [famous](https://open.spotify.com/track/4wbAP2B2iN9cXV9coxtY9g) | [Annamarie Rosanio](https://open.spotify.com/artist/7LtYuMQ3wFY4fGX8Rvq6gD) | [famous](https://open.spotify.com/album/5USYleL9NRkqgtsmBXKw86) | 2:43 | 2021-08-05 | 2021-09-02 |
 | [Famous](https://open.spotify.com/track/7DsEHBwpYGPRU00Tx9dJgt) | [McCall](https://open.spotify.com/artist/229NvsczXKwdH0DkPg4uwT) | [Famous](https://open.spotify.com/album/3JUsKrOnWbcoe2jbhR43an) | 2:50 | 2022-03-09 | 2022-04-07 |
@@ -1101,7 +1102,7 @@
 | [gone 4 good](https://open.spotify.com/track/0h6abp4WGYAD6BV1sWDswu) | [cowboy blau](https://open.spotify.com/artist/18NU81JWl2SQle8QuKqy8n) | [gone 4 good](https://open.spotify.com/album/7wGfr0YKMwNxK0D9q6NDvu) | 2:14 | 2021-10-28 | 2021-12-01 |
 | [Gonna Get Over You](https://open.spotify.com/track/46xiqS8blL06iuufHUnNOC) | [Abigail Osborn](https://open.spotify.com/artist/5gv5fvzy1TWJmDj7jyMiLO) | [Gonna Get Over You](https://open.spotify.com/album/4Dm82oqd0MJ1nWiruKKpOq) | 3:14 | 2022-08-03 | 2023-01-12 |
 | [Good Again](https://open.spotify.com/track/2aoqTTOrZaLH5JBac28npQ) | [Sofia Quinn](https://open.spotify.com/artist/7aa9NIJCeJoYtpUL56UH6Q) | [Good Again](https://open.spotify.com/album/2Hdksrwt6VaheLdI2sdzTb) | 3:14 | 2022-03-16 | 2022-04-28 |
-| [Good As Gone](https://open.spotify.com/track/34gzVswsFZlvOZ9EMnOhpC) | [Hudson Ingram](https://open.spotify.com/artist/1BRxpuKTlqnqSofTbVx4oo) | [Good As Gone](https://open.spotify.com/album/2sV1jJuC8wYqiWtzF8C6xZ) | 2:43 | 2023-09-06 |  |
+| [Good As Gone](https://open.spotify.com/track/34gzVswsFZlvOZ9EMnOhpC) | [Hudson Ingram](https://open.spotify.com/artist/1BRxpuKTlqnqSofTbVx4oo) | [Good As Gone](https://open.spotify.com/album/2sV1jJuC8wYqiWtzF8C6xZ) | 2:43 | 2023-09-06 | 2023-10-19 |
 | [Good Day](https://open.spotify.com/track/0Lh2IsG4UXqP8KdmT2E3qJ) | [Lofsky](https://open.spotify.com/artist/2oQVpMQQJZIvR4UtlYaak4), [Lowdsound](https://open.spotify.com/artist/0cBxCAP8iwWGDrAAuJeuU9) | [Good Day](https://open.spotify.com/album/3vXJjQ3Hf8EfimMpfKg47l) | 2:18 | 2023-01-18 | 2023-02-23 |
 | [Good Die Young](https://open.spotify.com/track/1Ry80bwwTqnI4JkfoRPTm4) | [Marlhy](https://open.spotify.com/artist/1fvH6NeNDohKGKwvRiebRA) | [Good Die Young](https://open.spotify.com/album/1dG54hlpngLlPj5Ws7JGrq) | 3:40 | 2021-01-15 | 2021-02-17 |
 | [Good Enough](https://open.spotify.com/track/6FoxiBLupzGtCGnofFxUN9) | [Gia Lily](https://open.spotify.com/artist/5d7p9yDO6NSYQVbI9YNcHB) | [Good Enough](https://open.spotify.com/album/6HdDyMjLZDUQw0SoUGP0zM) | 3:10 | 2022-04-27 | 2022-05-26 |
@@ -1880,6 +1881,7 @@
 | [moodalert](https://open.spotify.com/track/2XmlazH9cqMDKWwrdCtAlS) | [Jack Omstead](https://open.spotify.com/artist/3o9Z1zKnJEIuPtu20rQ8Br) | [moodalert](https://open.spotify.com/album/1kunuzzBirfW5E1HwK854r) | 2:25 | 2023-06-07 | 2023-08-31 |
 | [moonless tale](https://open.spotify.com/track/0fsisXzAfZHz7SMIwkozX2) | [fil ricchiardi](https://open.spotify.com/artist/2Dgp0r5wvNCnj5XdvGaK7u) | [checkpoint](https://open.spotify.com/album/5qjnYjMMo1FuuoYlnWhFZM) | 2:42 | 2023-01-18 | 2023-02-23 |
 | [Moonshine](https://open.spotify.com/track/6DMYmNWSMNz75b0nsKC8SO) | [Elli Moore](https://open.spotify.com/artist/5qtgvemHd1Dl0WsgfpQIir) | [Moonshine](https://open.spotify.com/album/4HvnklGofC2PMkv3sfn4OF) | 3:15 | 2023-03-29 | 2023-05-18 |
+| [Morally Grey](https://open.spotify.com/track/0OKMe15oWhcOevZ2hggnrG) | [April Jai](https://open.spotify.com/artist/2TUSOcgYseNtC3VosDywhQ) | [Morally Grey](https://open.spotify.com/album/4YK4WI5ly7gIQDNF01iaFE) | 2:42 | 2023-10-18 |  |
 | [More Terrible](https://open.spotify.com/track/0cmanBbrlstarCf45VehfT) | [Bela Pierce](https://open.spotify.com/artist/4BivAtoth1xuBpYg2pMd86) | [More Terrible](https://open.spotify.com/album/3Ze3ou3xZXjARGXwv4LjIT) | 3:21 | 2022-10-05 | 2022-12-01 |
 | [More Than Friends](https://open.spotify.com/track/7rGd1xAX5A7fz5NDhgIq6X) | [Laura Gomes](https://open.spotify.com/artist/4otLEIeqdTrM0mgj9oPobm) | [More Than Friends](https://open.spotify.com/album/4Gz11cvWtWUZSVfHhaYY9T) | 3:18 | 2022-08-24 | 2022-10-27 |
 | [Morning](https://open.spotify.com/track/1xPYXQ677AtLALqqQM8jVR) | [Tennis Club](https://open.spotify.com/artist/6kVv3d4WEjR4gjHzAbOvNo) | [Morning](https://open.spotify.com/album/73eZyoV82Ht3Z884QL1q6J) | 4:01 | 2020-10-13\* | 2021-02-25 |
@@ -2501,6 +2503,7 @@
 | [SLUG SLUG SLUG](https://open.spotify.com/track/7IFqcJvqi9uf2GX8RxuZJC) | [blackwinterwells](https://open.spotify.com/artist/4tF39UYlbBLqTo5JK3qX1u) | [SLUG SLUG SLUG](https://open.spotify.com/album/3eo0sE7mor2Lzkz7M9xZTF) | 2:11 | 2020-10-13\* | 2020-10-29 |
 | [Sly](https://open.spotify.com/track/7G0zhkkOduzMy5X4Re3743) | [Saibh Skelly](https://open.spotify.com/artist/5W6LDY0Fa5qK8fbDTe58Kq) | [Sly](https://open.spotify.com/album/2fMsbU2mZHsA2kCwYQC9UA) | 2:48 | 2023-07-12 | 2023-09-07 |
 | [Small Doses](https://open.spotify.com/track/3U1zgAed3FGsfb4bE2GOtn) | [Camille](https://open.spotify.com/artist/2X1AUAAyXLbTxQGfnvsNL6) | [Small Doses](https://open.spotify.com/album/32dtZ5mPoCxJZRaSBmihPU) | 2:48 | 2023-02-08 | 2023-03-23 |
+| [Small Talk](https://open.spotify.com/track/0CbuTrHHaRCwmV8ZPr9LIO) | [Hana Lili](https://open.spotify.com/artist/6irpcuKNgvg9Zyy62yXC7p) | [Small Talk](https://open.spotify.com/album/4siVYOHg4ockCO1ahT9fpH) | 3:10 | 2023-10-18 |  |
 | [Small Talk](https://open.spotify.com/track/6ooMgHFDY9L67Wo2FQf62u) | [Soda Blonde](https://open.spotify.com/artist/665rcluWn9OCTGowMHNdS3) | [Small Talk](https://open.spotify.com/album/0n1GMdYHbiAwRU17H8rLRg) | 4:38 | 2021-04-01 | 2021-05-06 |
 | [Small Talks](https://open.spotify.com/track/5hrmGj3Tk3OS1TdJKwgXQo) | [Nightcars](https://open.spotify.com/artist/6tLxozROfaiZMoq2AL56d4) | [Small Talks](https://open.spotify.com/album/1tIL0phZRZlPUwYt3AoeCF) | 2:47 | 2023-04-26 | 2023-08-03 |
 | [So Bad Together](https://open.spotify.com/track/2S8YM7YkZuNrXuz84WqEoA) | [Tash Blake](https://open.spotify.com/artist/2BTuO9Djg1SvpQ6fupdlnB) | [So Bad Together](https://open.spotify.com/album/337cy5h4uKBBHzD7TBv8e1) | 2:56 | 2023-03-22 | 2023-05-04 |
@@ -2709,6 +2712,7 @@
 | [Talking Too Much](https://open.spotify.com/track/1aoPYlWgdqduzucCVKnaNk) | [Artifact Collective](https://open.spotify.com/artist/5ft2jGyvrwnS2ocaxXWZtR) | [Talking Too Much](https://open.spotify.com/album/3hg2PiGvkVXz7CtaSUixc5) | 3:48 | 2021-02-17 | 2021-03-18 |
 | [Tapping on Keys](https://open.spotify.com/track/6shZ9oOuXZdz27HKaPohn2) | [Eugene Deluxe](https://open.spotify.com/artist/7HfFZCRJO08hmr8zUKsRrf) | [Tapping on Keys](https://open.spotify.com/album/0pwDGjcnSix2psPdlPnLKB) | 2:18 | 2021-05-06 | 2021-05-20 |
 | [Taste for It](https://open.spotify.com/track/4D8U5CvNHF1LHrAxhT6Bsl) | [Fionn](https://open.spotify.com/artist/4bfOiCE7XrhrTa94KTwXxt) | [Candid Constellations](https://open.spotify.com/album/7xMCSiRKJZ6GktKOnAPVxl) | 2:37 | 2021-05-27 | 2021-06-18 |
+| [Taxes](https://open.spotify.com/track/7ieCAxT1AwjGIge6xv0GxZ) | [Celia](https://open.spotify.com/artist/2wCyYQ7ZZm89ylc7Ryryyl) | [Complete In Box](https://open.spotify.com/album/6jVRKAWfgTf7M1toxTi1VU) | 2:51 | 2023-10-18 |  |
 | [taxi nights](https://open.spotify.com/track/7FEOL8uewTcs8467fzMvx1) | [Jake Marsh](https://open.spotify.com/artist/5K6IfB5Ntc1cPrLY1WE9Ao) | [taxi nights](https://open.spotify.com/album/38gNX874GphRmO5fesiaY2) | 2:29 | 2021-08-27 | 2021-09-16 |
 | [taylor](https://open.spotify.com/track/5EsISNjHKK6AEuEK1tLt7Z) | [heartspace](https://open.spotify.com/artist/4TXauRyx1XUkg6hRkWdgrE) | [taylor](https://open.spotify.com/album/3YeTOayFFUWNOIpfDiWEnt) | 3:00 | 2022-10-05 | 2022-12-01 |
 | [tbh](https://open.spotify.com/track/3a4WQ3EeoKPmbyLNSpNXef) | [Bella DeNapoli](https://open.spotify.com/artist/5foJORZQ3Y1GA9he8RaitL) | [Three Letters](https://open.spotify.com/album/2CKD54NGdFMyJ8qivW1kvn) | 3:19 | 2022-05-18 | 2022-07-01 |

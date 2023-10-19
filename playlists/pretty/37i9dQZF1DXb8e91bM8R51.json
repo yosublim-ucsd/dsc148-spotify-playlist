@@ -1,12 +1,12 @@
 {
   "description": "Hip Hop pra fazer os corres da vida.",
-  "num_followers": 45701,
+  "num_followers": 45741,
   "original_name": "No corre",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3NzFmYjliMTQ3YjgwY2U4ZjJhZTM3ODdlNGQwNjFiM2JiNTVhYjRj",
+  "snapshot_id": "MCw0YjgxYTYxYjVmZmY5OGU0YzY4MDQ4YWQ0NjhjZDQ3ZTg2ODIxMDk2",
   "tracks": [
     {
       "added_at": "2023-10-06 13:02:53",
@@ -627,22 +627,6 @@
     {
       "added_at": "2023-10-06 13:02:53",
       "album": {
-        "name": "Balut",
-        "url": "https://open.spotify.com/album/3lCIdX7XZlrO6SbxAne7QG"
-      },
-      "artists": [
-        {
-          "name": "Doja Cat",
-          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
-        }
-      ],
-      "duration_ms": 207507,
-      "name": "Balut",
-      "url": "https://open.spotify.com/track/3PvChJcbDMKFCQppIRYQo9"
-    },
-    {
-      "added_at": "2023-10-06 13:02:53",
-      "album": {
         "name": "From The D 2 The LBC (with Snoop Dogg)",
         "url": "https://open.spotify.com/album/6F4ObGnJwwV5W4uLFHnNoT"
       },
@@ -659,6 +643,22 @@
       "duration_ms": 215120,
       "name": "From The D 2 The LBC (with Snoop Dogg)",
       "url": "https://open.spotify.com/track/7My9ca9QEIR8MvIOdIrTWA"
+    },
+    {
+      "added_at": "2023-10-06 13:02:53",
+      "album": {
+        "name": "Balut",
+        "url": "https://open.spotify.com/album/3lCIdX7XZlrO6SbxAne7QG"
+      },
+      "artists": [
+        {
+          "name": "Doja Cat",
+          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
+        }
+      ],
+      "duration_ms": 207507,
+      "name": "Balut",
+      "url": "https://open.spotify.com/track/3PvChJcbDMKFCQppIRYQo9"
     },
     {
       "added_at": "2023-10-06 13:02:53",
@@ -1127,26 +1127,6 @@
     {
       "added_at": "2023-10-06 13:02:53",
       "album": {
-        "name": "Magic 2",
-        "url": "https://open.spotify.com/album/2TcGsG6Ht4iMbEQ0u62Rbz"
-      },
-      "artists": [
-        {
-          "name": "Nas",
-          "url": "https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q"
-        },
-        {
-          "name": "50 Cent",
-          "url": "https://open.spotify.com/artist/3q7HBObVc0L8jNeTe5Gofh"
-        }
-      ],
-      "duration_ms": 232017,
-      "name": "Office Hours (feat. 50 Cent)",
-      "url": "https://open.spotify.com/track/7cXlDCmulkI5UWLCtSjhRF"
-    },
-    {
-      "added_at": "2023-10-06 13:02:53",
-      "album": {
         "name": "LOOK AT ME: THE ALBUM",
         "url": "https://open.spotify.com/album/7vNqlfthayItIbI0Ssmfoa"
       },
@@ -1163,6 +1143,26 @@
       "duration_ms": 160506,
       "name": "FUXK (feat. Ski Mask the Slump God)",
       "url": "https://open.spotify.com/track/2y55JzTDe2kFDChkBZUOUS"
+    },
+    {
+      "added_at": "2023-10-06 13:02:53",
+      "album": {
+        "name": "Magic 2",
+        "url": "https://open.spotify.com/album/2TcGsG6Ht4iMbEQ0u62Rbz"
+      },
+      "artists": [
+        {
+          "name": "Nas",
+          "url": "https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q"
+        },
+        {
+          "name": "50 Cent",
+          "url": "https://open.spotify.com/artist/3q7HBObVc0L8jNeTe5Gofh"
+        }
+      ],
+      "duration_ms": 232017,
+      "name": "Office Hours (feat. 50 Cent)",
+      "url": "https://open.spotify.com/track/7cXlDCmulkI5UWLCtSjhRF"
     },
     {
       "added_at": "2023-10-06 13:02:53",
@@ -1299,26 +1299,6 @@
     {
       "added_at": "2023-10-06 13:02:53",
       "album": {
-        "name": "Flatline",
-        "url": "https://open.spotify.com/album/7D2GAnlKHnfquzGKHSZSTx"
-      },
-      "artists": [
-        {
-          "name": "TOBi",
-          "url": "https://open.spotify.com/artist/0P54cVemq1DCHUfUMlWAoN"
-        },
-        {
-          "name": "Kenny Mason",
-          "url": "https://open.spotify.com/artist/4mwdnO2jZrMmMVrjcHsZBv"
-        }
-      ],
-      "duration_ms": 240080,
-      "name": "Flatline (feat. Kenny Mason)",
-      "url": "https://open.spotify.com/track/17wZ58uIxULAVELzhEURni"
-    },
-    {
-      "added_at": "2023-10-06 13:02:53",
-      "album": {
         "name": "Ain\u2019t Safe (feat. Don Toliver)",
         "url": "https://open.spotify.com/album/2XlxXuumhYX4lIU2nXoUXw"
       },
@@ -1335,6 +1315,26 @@
       "duration_ms": 166514,
       "name": "Ain\u2019t Safe (feat. Don Toliver)",
       "url": "https://open.spotify.com/track/6ja11GoXgF75QkEVqqAadn"
+    },
+    {
+      "added_at": "2023-10-06 13:02:53",
+      "album": {
+        "name": "Flatline",
+        "url": "https://open.spotify.com/album/7D2GAnlKHnfquzGKHSZSTx"
+      },
+      "artists": [
+        {
+          "name": "TOBi",
+          "url": "https://open.spotify.com/artist/0P54cVemq1DCHUfUMlWAoN"
+        },
+        {
+          "name": "Kenny Mason",
+          "url": "https://open.spotify.com/artist/4mwdnO2jZrMmMVrjcHsZBv"
+        }
+      ],
+      "duration_ms": 240080,
+      "name": "Flatline (feat. Kenny Mason)",
+      "url": "https://open.spotify.com/track/17wZ58uIxULAVELzhEURni"
     },
     {
       "added_at": "2023-10-06 13:02:53",
@@ -1379,22 +1379,6 @@
     {
       "added_at": "2023-10-06 13:02:53",
       "album": {
-        "name": "Do It Right",
-        "url": "https://open.spotify.com/album/6v0yp2gWW4rFao7LtIA8RR"
-      },
-      "artists": [
-        {
-          "name": "Don Toliver",
-          "url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
-        }
-      ],
-      "duration_ms": 174474,
-      "name": "Do It Right",
-      "url": "https://open.spotify.com/track/4ZevD501qZiFK7FY8DFn0V"
-    },
-    {
-      "added_at": "2023-10-06 13:02:53",
-      "album": {
         "name": "Kollage",
         "url": "https://open.spotify.com/album/4ioG1W3KU4WBhYlwEBp7BA"
       },
@@ -1407,6 +1391,22 @@
       "duration_ms": 214866,
       "name": "Uknowhowwedu",
       "url": "https://open.spotify.com/track/5KapB9KJnRsZrprzIAXycW"
+    },
+    {
+      "added_at": "2023-10-06 13:02:53",
+      "album": {
+        "name": "Do It Right",
+        "url": "https://open.spotify.com/album/6v0yp2gWW4rFao7LtIA8RR"
+      },
+      "artists": [
+        {
+          "name": "Don Toliver",
+          "url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
+        }
+      ],
+      "duration_ms": 174474,
+      "name": "Do It Right",
+      "url": "https://open.spotify.com/track/4ZevD501qZiFK7FY8DFn0V"
     },
     {
       "added_at": "2023-10-06 13:02:53",
@@ -1615,26 +1615,6 @@
     {
       "added_at": "2023-10-06 13:02:53",
       "album": {
-        "name": "Flowers (feat. MAVI)",
-        "url": "https://open.spotify.com/album/5BoyqCSSuqxD6ZXiVWnWaD"
-      },
-      "artists": [
-        {
-          "name": "TOBi",
-          "url": "https://open.spotify.com/artist/0P54cVemq1DCHUfUMlWAoN"
-        },
-        {
-          "name": "MAVI",
-          "url": "https://open.spotify.com/artist/1peoXq0RPx7czVoFjloeDQ"
-        }
-      ],
-      "duration_ms": 182201,
-      "name": "Flowers (feat. MAVI)",
-      "url": "https://open.spotify.com/track/2e8OPXNNk9onHe4pknBZhD"
-    },
-    {
-      "added_at": "2023-10-06 13:02:53",
-      "album": {
         "name": "Too Much (feat. Moneybagg Yo)",
         "url": "https://open.spotify.com/album/0R87OEh0NzfdjavsrmrGtj"
       },
@@ -1683,6 +1663,26 @@
       "duration_ms": 227234,
       "name": "Go Crazy (Remix) (feat. Young Thug, Future, Lil Durk & Latto)",
       "url": "https://open.spotify.com/track/1Jz1yhcPm1Yt6aoed3zact"
+    },
+    {
+      "added_at": "2023-10-06 13:02:53",
+      "album": {
+        "name": "Flowers (feat. MAVI)",
+        "url": "https://open.spotify.com/album/5BoyqCSSuqxD6ZXiVWnWaD"
+      },
+      "artists": [
+        {
+          "name": "TOBi",
+          "url": "https://open.spotify.com/artist/0P54cVemq1DCHUfUMlWAoN"
+        },
+        {
+          "name": "MAVI",
+          "url": "https://open.spotify.com/artist/1peoXq0RPx7czVoFjloeDQ"
+        }
+      ],
+      "duration_ms": 182201,
+      "name": "Flowers (feat. MAVI)",
+      "url": "https://open.spotify.com/track/2e8OPXNNk9onHe4pknBZhD"
     },
     {
       "added_at": "2023-10-06 13:02:53",
@@ -1939,22 +1939,6 @@
     {
       "added_at": "2023-10-06 13:02:53",
       "album": {
-        "name": "Fan-Tas-Tic, Vol. 2",
-        "url": "https://open.spotify.com/album/22IhsI5JpldSrE7vhidAja"
-      },
-      "artists": [
-        {
-          "name": "Slum Village",
-          "url": "https://open.spotify.com/artist/1020a42xVklY6c56imNcaa"
-        }
-      ],
-      "duration_ms": 211132,
-      "name": "Get Dis Money",
-      "url": "https://open.spotify.com/track/6xrjmQMIIYgLgjCOeq2dee"
-    },
-    {
-      "added_at": "2023-10-06 13:02:53",
-      "album": {
         "name": "NO M\u00c1S (feat. Quavo, J. Balvin, Anitta, and Pharrell)",
         "url": "https://open.spotify.com/album/1S9RtU8lIT4oTtaE4GFuNT"
       },
@@ -1983,6 +1967,22 @@
       "duration_ms": 196562,
       "name": "NO M\u00c1S (feat. Quavo, J. Balvin, Anitta, and Pharrell)",
       "url": "https://open.spotify.com/track/0ZWNQi6wgNjKFcQx6QuLm0"
+    },
+    {
+      "added_at": "2023-10-06 13:02:53",
+      "album": {
+        "name": "Fan-Tas-Tic, Vol. 2",
+        "url": "https://open.spotify.com/album/22IhsI5JpldSrE7vhidAja"
+      },
+      "artists": [
+        {
+          "name": "Slum Village",
+          "url": "https://open.spotify.com/artist/1020a42xVklY6c56imNcaa"
+        }
+      ],
+      "duration_ms": 211132,
+      "name": "Get Dis Money",
+      "url": "https://open.spotify.com/track/6xrjmQMIIYgLgjCOeq2dee"
     },
     {
       "added_at": "2023-10-06 13:02:53",

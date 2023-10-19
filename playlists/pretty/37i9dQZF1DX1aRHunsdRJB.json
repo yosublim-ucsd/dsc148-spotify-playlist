@@ -1,12 +1,12 @@
 {
   "description": "A playlist driven from the islands, take the front seat as Soca meets Bashment \n\n",
-  "num_followers": 10077,
+  "num_followers": 10081,
   "original_name": "Soca Bashment",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlZTQwNGM4NmMyNjVlZjQ1ZTA0ZTYwNWQ5NTM5ZDY2OWFkN2MyNTNh",
+  "snapshot_id": "MCxkN2Q0M2UwNThiMjExNGJmZTUwM2JmMGE5ZDY5ZDJjOWM0ZDNlNjQ4",
   "tracks": [
     {
       "added_at": "2022-02-24 18:00:00",
@@ -419,26 +419,6 @@
     {
       "added_at": "2022-02-24 18:00:00",
       "album": {
-        "name": "The Art of Flex",
-        "url": "https://open.spotify.com/album/7zecbPVfKMGdOj8wfvXNEL"
-      },
-      "artists": [
-        {
-          "name": "Nessa Preppy",
-          "url": "https://open.spotify.com/artist/17pN02mO1kZSkaic9K3ipT"
-        },
-        {
-          "name": "Travis World",
-          "url": "https://open.spotify.com/artist/5AVAzwpIu9f3H1oegupPCd"
-        }
-      ],
-      "duration_ms": 183875,
-      "name": "Issa Snack",
-      "url": "https://open.spotify.com/track/6eIdwZaZNpqvh61NudvQre"
-    },
-    {
-      "added_at": "2022-02-24 18:00:00",
-      "album": {
         "name": "Heaven Passport",
         "url": "https://open.spotify.com/album/2isP74vOyY08TNii3xoeaZ"
       },
@@ -459,22 +439,22 @@
     {
       "added_at": "2022-02-24 18:00:00",
       "album": {
-        "name": "Bottle over Head",
-        "url": "https://open.spotify.com/album/3FV3hpxusGhkEz6wQujnrK"
+        "name": "The Art of Flex",
+        "url": "https://open.spotify.com/album/7zecbPVfKMGdOj8wfvXNEL"
       },
       "artists": [
         {
-          "name": "Triniboi Joocie",
-          "url": "https://open.spotify.com/artist/7DjHO7cJNhHO5xTaXwgi7w"
+          "name": "Nessa Preppy",
+          "url": "https://open.spotify.com/artist/17pN02mO1kZSkaic9K3ipT"
         },
         {
-          "name": "Wetty Beatz",
-          "url": "https://open.spotify.com/artist/3cb9sULs9n1DMoBDQ7YaEC"
+          "name": "Travis World",
+          "url": "https://open.spotify.com/artist/5AVAzwpIu9f3H1oegupPCd"
         }
       ],
-      "duration_ms": 208615,
-      "name": "Bottle over Head",
-      "url": "https://open.spotify.com/track/4lZHw1UhWkYKqLlK7aZAf6"
+      "duration_ms": 183875,
+      "name": "Issa Snack",
+      "url": "https://open.spotify.com/track/6eIdwZaZNpqvh61NudvQre"
     },
     {
       "added_at": "2022-02-24 18:00:00",
@@ -491,6 +471,26 @@
       "duration_ms": 210806,
       "name": "Up Top Boss",
       "url": "https://open.spotify.com/track/1BgnrgG2lxAdkgwei4KiF7"
+    },
+    {
+      "added_at": "2022-02-24 18:00:00",
+      "album": {
+        "name": "Bottle over Head",
+        "url": "https://open.spotify.com/album/3FV3hpxusGhkEz6wQujnrK"
+      },
+      "artists": [
+        {
+          "name": "Triniboi Joocie",
+          "url": "https://open.spotify.com/artist/7DjHO7cJNhHO5xTaXwgi7w"
+        },
+        {
+          "name": "Wetty Beatz",
+          "url": "https://open.spotify.com/artist/3cb9sULs9n1DMoBDQ7YaEC"
+        }
+      ],
+      "duration_ms": 208615,
+      "name": "Bottle over Head",
+      "url": "https://open.spotify.com/track/4lZHw1UhWkYKqLlK7aZAf6"
     },
     {
       "added_at": "2022-02-24 18:00:00",

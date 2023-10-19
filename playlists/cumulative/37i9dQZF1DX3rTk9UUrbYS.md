@@ -4,7 +4,7 @@
 
 > Avant\-garde, experimental and free jazz.
 
-131 songs - 17 hr 9 min
+132 songs - 17 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -49,6 +49,7 @@
 | [Conduction No.186 \- Live](https://open.spotify.com/track/6A5tDkKTk3BMW5WmMUn7BS) | [Nublu Orchestra](https://open.spotify.com/artist/3kir4KuUljdyYGWpQ3tPX9), [Butch Morris](https://open.spotify.com/artist/180iBifQGB9dLM5dSelaAK) | [Live in Lisbon](https://open.spotify.com/album/67pCebpACpdf8YhxGji4Kj) | 43:14 | 2020-09-25 | 2023-04-30 |
 | [Crescent](https://open.spotify.com/track/4zg0iYZ0PM6iYLUDbvr76B) | [Alice Coltrane](https://open.spotify.com/artist/0oKYiTD5CdNbrofRvM1dIr) | [Anthology](https://open.spotify.com/album/0pTrvb720Q5pz4R4pnn9U5) | 6:22 | 2020-08-25 | 2022-07-26 |
 | [Crescent](https://open.spotify.com/track/5zRFHuczWKsSmtvMaLceXp) | [Alice Coltrane](https://open.spotify.com/artist/0oKYiTD5CdNbrofRvM1dIr) | [Translinear Light](https://open.spotify.com/album/3lJXKLvs6ZZrBDgje4cx8B) | 6:22 | 2020-08-25 |  |
+| [Decisions Have Already Been Made](https://open.spotify.com/track/4Onumx4fzG3PyhhcRfKX7e) | [East Axis](https://open.spotify.com/artist/0A9QoZUtf7eeT2aFWlNpr4) | [No Subject](https://open.spotify.com/album/2ovHJyY0S04AWDikBhgwna) | 10:17 | 2023-10-18 |  |
 | [Dub Ting](https://open.spotify.com/track/2DBwIY8YEXqTKjUWFEvKbg) | [AKU!](https://open.spotify.com/artist/4YL5YNoHnTi00OL2cXpUQM) | [Blind Fury](https://open.spotify.com/album/6kC17nZeXdCQooTRQSzX8a) | 6:09 | 2020-11-06 |  |
 | [Dub Ting](https://open.spotify.com/track/3gUPTbCLSLW2kIi5SP6hf4) | [AKU!](https://open.spotify.com/artist/4YL5YNoHnTi00OL2cXpUQM) | [Blind Fury](https://open.spotify.com/album/6SPMb5CgJ0vAxS3hUCUcaS) | 6:09 | 2020-11-06 | 2022-07-29 |
 | [EICNSCS para 6 músicos](https://open.spotify.com/track/22AcQY05lWhnW85VXoAkrn) | [Maurício Tagliari](https://open.spotify.com/artist/0QAhPl2A50QPWp1mJRu2ml), [Luca Raele](https://open.spotify.com/artist/0mciU04JoXZua4RVSLqyW3), [Christiano Lemgruber](https://open.spotify.com/artist/14ILd6QBfP5q0CE7ncyDR8), [Regis Damasceno](https://open.spotify.com/artist/2ogn0YEfeS21uvSrIwLNGu), [Andre Édipo](https://open.spotify.com/artist/41JRPt1CSTWaIkZZ7VUBxu), [Missionário José](https://open.spotify.com/artist/5GDpjPajWynDqA6NqjunGj) | [EICNSCS \(Experiência de Improvisação Coletiva Não Sincrônica Cumulativa Sequencial\)](https://open.spotify.com/album/6K0Vy8CuicDPa5uck0XPUU) | 8:03 | 2023-03-17 |  |

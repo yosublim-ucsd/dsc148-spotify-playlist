@@ -1,12 +1,12 @@
 {
   "description": "A collection of the world's best emotional songs. Cover: <a href=\"https://open.spotify.com/artist/75opyvDai90a20RL9VSa7D?si=X4txR82FSGuMTgat6fyXQw&dl_branch=1\">Djouher</a>",
-  "num_followers": 142342,
+  "num_followers": 142352,
   "original_name": "Ballads International",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyZWFmOWE1YThhNDdlYWEyNWVjODdlNzZlZjlmZGFhZDk2MDQ4OWVh",
+  "snapshot_id": "MCw2Y2E2OGExOWRkNTE0ZGU5ZjI0MWI3MTJhNTRiZGY4MmM4ZTE3NWM0",
   "tracks": [
     {
       "added_at": "2022-10-17 15:00:00",
@@ -351,22 +351,6 @@
     {
       "added_at": "2022-10-17 15:00:00",
       "album": {
-        "name": "Kabir Singh",
-        "url": "https://open.spotify.com/album/3uuu6u13U0KeVQsZ3CZKK4"
-      },
-      "artists": [
-        {
-          "name": "Arijit Singh",
-          "url": "https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw"
-        }
-      ],
-      "duration_ms": 284779,
-      "name": "Tujhe Kitna Chahne Lage",
-      "url": "https://open.spotify.com/track/5QtEFRYavs5S3GHtFEq7A4"
-    },
-    {
-      "added_at": "2022-10-17 15:00:00",
-      "album": {
         "name": "19",
         "url": "https://open.spotify.com/album/59ULskOkBMij4zL8pS7mi0"
       },
@@ -379,6 +363,22 @@
       "duration_ms": 212040,
       "name": "Make You Feel My Love",
       "url": "https://open.spotify.com/track/5FgPwJ7Nh2FVmIXviKl2VF"
+    },
+    {
+      "added_at": "2022-10-17 15:00:00",
+      "album": {
+        "name": "Kabir Singh",
+        "url": "https://open.spotify.com/album/3uuu6u13U0KeVQsZ3CZKK4"
+      },
+      "artists": [
+        {
+          "name": "Arijit Singh",
+          "url": "https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw"
+        }
+      ],
+      "duration_ms": 284779,
+      "name": "Tujhe Kitna Chahne Lage",
+      "url": "https://open.spotify.com/track/5QtEFRYavs5S3GHtFEq7A4"
     },
     {
       "added_at": "2022-10-17 15:00:00",
@@ -1039,22 +1039,6 @@
     {
       "added_at": "2022-10-17 15:00:00",
       "album": {
-        "name": "Mi Vida (Edition de No\u00ebl)",
-        "url": "https://open.spotify.com/album/6Rq5fjFsMh2iF4RCNo2PFk"
-      },
-      "artists": [
-        {
-          "name": "Kendji Girac",
-          "url": "https://open.spotify.com/artist/4IS4EyXNmiI2w5SRCjMtEF"
-        }
-      ],
-      "duration_ms": 237653,
-      "name": "Evidemment",
-      "url": "https://open.spotify.com/track/7yaAqQhgUFkcI9ap1qjqEy"
-    },
-    {
-      "added_at": "2022-10-17 15:00:00",
-      "album": {
         "name": "tere bina (Acoustic)",
         "url": "https://open.spotify.com/album/0DiiqwlK2RmAOq7MTlqEqW"
       },
@@ -1091,6 +1075,22 @@
       "duration_ms": 262597,
       "name": "\u5225\u52c9\u5f37",
       "url": "https://open.spotify.com/track/6tzOEJ2tqSiAxHw9CAT9Ru"
+    },
+    {
+      "added_at": "2022-10-17 15:00:00",
+      "album": {
+        "name": "Mi Vida (Edition de No\u00ebl)",
+        "url": "https://open.spotify.com/album/6Rq5fjFsMh2iF4RCNo2PFk"
+      },
+      "artists": [
+        {
+          "name": "Kendji Girac",
+          "url": "https://open.spotify.com/artist/4IS4EyXNmiI2w5SRCjMtEF"
+        }
+      ],
+      "duration_ms": 237653,
+      "name": "Evidemment",
+      "url": "https://open.spotify.com/track/7yaAqQhgUFkcI9ap1qjqEy"
     },
     {
       "added_at": "2022-10-17 15:00:00",
@@ -1339,6 +1339,22 @@
     {
       "added_at": "2022-10-17 15:00:00",
       "album": {
+        "name": "Maula",
+        "url": "https://open.spotify.com/album/1OIWkzjWFJuClJVm7DEry4"
+      },
+      "artists": [
+        {
+          "name": "Anuv Jain",
+          "url": "https://open.spotify.com/artist/4gdMJYnopf2nEUcanAwstx"
+        }
+      ],
+      "duration_ms": 238000,
+      "name": "Maula",
+      "url": "https://open.spotify.com/track/7pncFFzijtxIQtLpNwiAyO"
+    },
+    {
+      "added_at": "2022-10-17 15:00:00",
+      "album": {
         "name": "Hacia Adentro",
         "url": "https://open.spotify.com/album/3WtRGGEwF5ya96ND50zsIL"
       },
@@ -1399,22 +1415,6 @@
       "duration_ms": 181372,
       "name": "Stay Alive",
       "url": "https://open.spotify.com/track/4SwVWcia2JyWFTNHkFZ2tA"
-    },
-    {
-      "added_at": "2022-10-17 15:00:00",
-      "album": {
-        "name": "Maula",
-        "url": "https://open.spotify.com/album/1OIWkzjWFJuClJVm7DEry4"
-      },
-      "artists": [
-        {
-          "name": "Anuv Jain",
-          "url": "https://open.spotify.com/artist/4gdMJYnopf2nEUcanAwstx"
-        }
-      ],
-      "duration_ms": 238000,
-      "name": "Maula",
-      "url": "https://open.spotify.com/track/7pncFFzijtxIQtLpNwiAyO"
     },
     {
       "added_at": "2022-10-17 15:00:00",
@@ -1691,22 +1691,6 @@
     {
       "added_at": "2022-10-17 15:00:00",
       "album": {
-        "name": "7 (Part 2)",
-        "url": "https://open.spotify.com/album/1ls6wJRjbuR6QVKmb9p0Kl"
-      },
-      "artists": [
-        {
-          "name": "Artik & Asti",
-          "url": "https://open.spotify.com/artist/4ywf1iH1ruKEcfpCgfJvyA"
-        }
-      ],
-      "duration_ms": 210000,
-      "name": "\u041a\u0440\u044b\u043b\u044c\u044f",
-      "url": "https://open.spotify.com/track/2uPfnpMuL4poAmSKVx8QSy"
-    },
-    {
-      "added_at": "2022-10-17 15:00:00",
-      "album": {
         "name": "criminal",
         "url": "https://open.spotify.com/album/0zAzLgKV4ir3BjGE2YHKv5"
       },
@@ -1719,6 +1703,22 @@
       "duration_ms": 157186,
       "name": "criminal",
       "url": "https://open.spotify.com/track/54eh7OUaAuHzuiQ7w4Neej"
+    },
+    {
+      "added_at": "2022-10-17 15:00:00",
+      "album": {
+        "name": "7 (Part 2)",
+        "url": "https://open.spotify.com/album/1ls6wJRjbuR6QVKmb9p0Kl"
+      },
+      "artists": [
+        {
+          "name": "Artik & Asti",
+          "url": "https://open.spotify.com/artist/4ywf1iH1ruKEcfpCgfJvyA"
+        }
+      ],
+      "duration_ms": 210000,
+      "name": "\u041a\u0440\u044b\u043b\u044c\u044f",
+      "url": "https://open.spotify.com/track/2uPfnpMuL4poAmSKVx8QSy"
     },
     {
       "added_at": "2022-10-17 15:00:00",
@@ -2171,22 +2171,6 @@
     {
       "added_at": "2022-10-17 15:00:00",
       "album": {
-        "name": "\ud22c\uc720\ud504\ub85c\uc81d\ud2b8 - Sugar Man3 Episode.11",
-        "url": "https://open.spotify.com/album/7s8lSV6GRhbnQ8Oau9YTQB"
-      },
-      "artists": [
-        {
-          "name": "\uc801\uc7ac",
-          "url": "https://open.spotify.com/artist/4wP35nFKx9S9YVSbnteuOd"
-        }
-      ],
-      "duration_ms": 307500,
-      "name": "\uc0ac\ub791\uc758\uc778\uc0ac",
-      "url": "https://open.spotify.com/track/1E1G4Uj8kmiW9jlJ7uByxy"
-    },
-    {
-      "added_at": "2022-10-17 15:00:00",
-      "album": {
         "name": "DOCUMENTARY",
         "url": "https://open.spotify.com/album/05wCrGb6MIdMUp1j1h5BEt"
       },
@@ -2199,6 +2183,22 @@
       "duration_ms": 249545,
       "name": "Trapped",
       "url": "https://open.spotify.com/track/59hmZNrpXJZEwK8q9oizFm"
+    },
+    {
+      "added_at": "2022-10-17 15:00:00",
+      "album": {
+        "name": "\ud22c\uc720\ud504\ub85c\uc81d\ud2b8 - Sugar Man3 Episode.11",
+        "url": "https://open.spotify.com/album/7s8lSV6GRhbnQ8Oau9YTQB"
+      },
+      "artists": [
+        {
+          "name": "\uc801\uc7ac",
+          "url": "https://open.spotify.com/artist/4wP35nFKx9S9YVSbnteuOd"
+        }
+      ],
+      "duration_ms": 307500,
+      "name": "\uc0ac\ub791\uc758\uc778\uc0ac",
+      "url": "https://open.spotify.com/track/1E1G4Uj8kmiW9jlJ7uByxy"
     },
     {
       "added_at": "2022-10-17 15:00:00",
@@ -2219,42 +2219,6 @@
     {
       "added_at": "2022-10-17 15:00:00",
       "album": {
-        "name": "I mecht nur wissn wo du bist (I.U.E.)",
-        "url": "https://open.spotify.com/album/0UBZIrwAvTOqVty6DaeNR1"
-      },
-      "artists": [
-        {
-          "name": "Popwal",
-          "url": "https://open.spotify.com/artist/3MZS307A4x1ZFtD9MAeZhx"
-        }
-      ],
-      "duration_ms": 207920,
-      "name": "I mecht nur wissn wo du bist - I.U.E.",
-      "url": "https://open.spotify.com/track/2NFS0NEUZwJD7jmjOl9sGP"
-    },
-    {
-      "added_at": "2022-10-17 15:00:00",
-      "album": {
-        "name": "How Is This Love ?",
-        "url": "https://open.spotify.com/album/4aTc14CgoXenF4HPuJzA2T"
-      },
-      "artists": [
-        {
-          "name": "Djouher",
-          "url": "https://open.spotify.com/artist/75opyvDai90a20RL9VSa7D"
-        },
-        {
-          "name": "Dylan Longworth",
-          "url": "https://open.spotify.com/artist/41G8BJILf7hhwCit2mViIH"
-        }
-      ],
-      "duration_ms": 195273,
-      "name": "How Is This Love ?",
-      "url": "https://open.spotify.com/track/2lD4UJXfytonquvY7HQdGO"
-    },
-    {
-      "added_at": "2022-10-17 15:00:00",
-      "album": {
         "name": "I See The Dream (Badna Salam) [feat. Ali Gatie] [Acoustic]",
         "url": "https://open.spotify.com/album/0vVz5TFO0EWv7fvdSTK2T5"
       },
@@ -2271,6 +2235,42 @@
       "duration_ms": 163366,
       "name": "I See The Dream (Badna Salam) (feat. Ali Gatie) - Acoustic",
       "url": "https://open.spotify.com/track/00Uz6dZGLeIJxWV1FnsqgM"
+    },
+    {
+      "added_at": "2022-10-17 15:00:00",
+      "album": {
+        "name": "Stories",
+        "url": "https://open.spotify.com/album/2bnab6jju2LE7NyFGjykqI"
+      },
+      "artists": [
+        {
+          "name": "Djouher",
+          "url": "https://open.spotify.com/artist/75opyvDai90a20RL9VSa7D"
+        },
+        {
+          "name": "Belfa",
+          "url": "https://open.spotify.com/artist/6sBNAhdkb34YfSofjjZf9L"
+        }
+      ],
+      "duration_ms": 178906,
+      "name": "Stories",
+      "url": "https://open.spotify.com/track/5bwb4M1BhqVfjLmR3N1n6B"
+    },
+    {
+      "added_at": "2022-10-17 15:00:00",
+      "album": {
+        "name": "I mecht nur wissn wo du bist (I.U.E.)",
+        "url": "https://open.spotify.com/album/0UBZIrwAvTOqVty6DaeNR1"
+      },
+      "artists": [
+        {
+          "name": "Popwal",
+          "url": "https://open.spotify.com/artist/3MZS307A4x1ZFtD9MAeZhx"
+        }
+      ],
+      "duration_ms": 207920,
+      "name": "I mecht nur wissn wo du bist - I.U.E.",
+      "url": "https://open.spotify.com/track/2NFS0NEUZwJD7jmjOl9sGP"
     },
     {
       "added_at": "2022-10-17 15:00:00",
@@ -2403,8 +2403,8 @@
     {
       "added_at": "2022-10-17 15:00:00",
       "album": {
-        "name": "Stories",
-        "url": "https://open.spotify.com/album/2bnab6jju2LE7NyFGjykqI"
+        "name": "How Is This Love ?",
+        "url": "https://open.spotify.com/album/4aTc14CgoXenF4HPuJzA2T"
       },
       "artists": [
         {
@@ -2412,13 +2412,13 @@
           "url": "https://open.spotify.com/artist/75opyvDai90a20RL9VSa7D"
         },
         {
-          "name": "Belfa",
-          "url": "https://open.spotify.com/artist/6sBNAhdkb34YfSofjjZf9L"
+          "name": "Dylan Longworth",
+          "url": "https://open.spotify.com/artist/41G8BJILf7hhwCit2mViIH"
         }
       ],
-      "duration_ms": 178906,
-      "name": "Stories",
-      "url": "https://open.spotify.com/track/5bwb4M1BhqVfjLmR3N1n6B"
+      "duration_ms": 195273,
+      "name": "How Is This Love ?",
+      "url": "https://open.spotify.com/track/2lD4UJXfytonquvY7HQdGO"
     },
     {
       "added_at": "2022-10-17 15:00:00",

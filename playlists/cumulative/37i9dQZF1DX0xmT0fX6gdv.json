@@ -259,6 +259,24 @@
     },
     {
       "album": {
+        "name": "Surreality EP",
+        "url": "https://open.spotify.com/album/47WMJ2pCWJrdmb233OXQk9"
+      },
+      "artists": [
+        {
+          "name": "Jeku",
+          "url": "https://open.spotify.com/artist/0MAmlBljQL9Ch46khlSW0q"
+        }
+      ],
+      "date_added": "2023-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 389725,
+      "name": "Astral Dream",
+      "url": "https://open.spotify.com/track/3LrjnxTvGoJ6KvetI3o8P4"
+    },
+    {
+      "album": {
         "name": "Atfalouna",
         "url": "https://open.spotify.com/album/6NSmcQnAW5uDWAdCcQHPmn"
       },
@@ -292,7 +310,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-19",
       "duration_ms": 267520,
       "name": "Ayr\u0131l\u0131k - Bar\u0131\u015f K Edit",
       "url": "https://open.spotify.com/track/39UP7nQvZ3IqoMvASrf0x0"
@@ -386,7 +404,7 @@
       ],
       "date_added": "2022-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-19",
       "duration_ms": 266973,
       "name": "Bijli Bhari Hai",
       "url": "https://open.spotify.com/track/4O82bVgnUlHNmBPOLmyR4Q"
@@ -878,7 +896,7 @@
       ],
       "date_added": "2022-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-19",
       "duration_ms": 313333,
       "name": "E2-E4 Ruhige Nervosit\u00e4t 2 - Mixed",
       "url": "https://open.spotify.com/track/6HLwml8btjBXBHQ9L5T6QO"
@@ -900,7 +918,7 @@
       ],
       "date_added": "2022-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-19",
       "duration_ms": 519662,
       "name": "Efsun feat. Idil Mese",
       "url": "https://open.spotify.com/track/2GFXwJVlyTSKSAM5MVOlPg"
@@ -922,6 +940,24 @@
       "duration_ms": 279874,
       "name": "El Fen",
       "url": "https://open.spotify.com/track/7mxnjeb6R7jMyKbxGTaB9B"
+    },
+    {
+      "album": {
+        "name": "The Best of Moulay Ahmed El Hassani, Vol. 1: Yami Matbkich",
+        "url": "https://open.spotify.com/album/3tlaKjnbf7YOI1ywOtl1Ob"
+      },
+      "artists": [
+        {
+          "name": "Moulay Ahmed El Hassani",
+          "url": "https://open.spotify.com/artist/54GaqVAdW984eymwsJq1qE"
+        }
+      ],
+      "date_added": "2023-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 291586,
+      "name": "Elli briti dertih",
+      "url": "https://open.spotify.com/track/2qL4RpibGlU6TjYmszPbK8"
     },
     {
       "album": {
@@ -1147,6 +1183,28 @@
     },
     {
       "album": {
+        "name": "Gletscher (Mehmet Aslan Edit)",
+        "url": "https://open.spotify.com/album/02SlaJdlduuAgytmFKzEFr"
+      },
+      "artists": [
+        {
+          "name": "El Deux",
+          "url": "https://open.spotify.com/artist/58zEgBuEvB4kLJrIts4UPu"
+        },
+        {
+          "name": "Mehmet Aslan",
+          "url": "https://open.spotify.com/artist/4d8OiNWwKaA6MBPq0K06Xa"
+        }
+      ],
+      "date_added": "2023-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 399960,
+      "name": "Gletscher - Mehmet Aslan Edit",
+      "url": "https://open.spotify.com/track/4dP4bphE018oguBKvt4nDw"
+    },
+    {
+      "album": {
         "name": "Todas sus grabaciones en Hispavox (1966-1969) [Remastered 2015]",
         "url": "https://open.spotify.com/album/5mFdQz7Hq7GcprMgnJ2hvU"
       },
@@ -1212,7 +1270,7 @@
       ],
       "date_added": "2022-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-19",
       "duration_ms": 303360,
       "name": "Hearing Damage",
       "url": "https://open.spotify.com/track/1fTtPH0xGwFOXM5VlkxOX1"
@@ -1754,7 +1812,7 @@
       ],
       "date_added": "2022-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-19",
       "duration_ms": 237159,
       "name": "Maschinenland",
       "url": "https://open.spotify.com/track/5PKewyuFRrOEqY2WadQlNp"
@@ -1942,7 +2000,7 @@
       ],
       "date_added": "2023-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-19",
       "duration_ms": 154000,
       "name": "Mystery Boy - Vegyn Remix",
       "url": "https://open.spotify.com/track/2MKMdhHQeRujdPrEaZp8aa"
@@ -2008,6 +2066,24 @@
       "duration_ms": 311692,
       "name": "Nasnusa",
       "url": "https://open.spotify.com/track/25VsX5GaM7gjWnbgjQXk7o"
+    },
+    {
+      "album": {
+        "name": "Nine Minutes to Cairo (Techno long Mix)",
+        "url": "https://open.spotify.com/album/6tPufJx6EDoARuvxw6WlWM"
+      },
+      "artists": [
+        {
+          "name": "Nine Minutes to Cairo",
+          "url": "https://open.spotify.com/artist/57ebrlpZfPCmTF6PLLrYRw"
+        }
+      ],
+      "date_added": "2023-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 369452,
+      "name": "Nine Minutes to Cairo (Techno long Mix)",
+      "url": "https://open.spotify.com/track/3LKhGDelzcBRw7DPkPZAid"
     },
     {
       "album": {
@@ -2084,7 +2160,7 @@
       ],
       "date_added": "2022-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-19",
       "duration_ms": 237040,
       "name": "Not the News",
       "url": "https://open.spotify.com/track/3ejjAD15KNXGwRG1lQMFPI"
@@ -2236,7 +2312,7 @@
       ],
       "date_added": "2022-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-19",
       "duration_ms": 259544,
       "name": "Platonic",
       "url": "https://open.spotify.com/track/71KbmSekNWKilGpTNTp0ob"
@@ -2426,7 +2502,7 @@
       ],
       "date_added": "2023-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-19",
       "duration_ms": 145293,
       "name": "Rom",
       "url": "https://open.spotify.com/track/4q7asPOOgfRrh4TAUJDGWX"
@@ -2484,6 +2560,42 @@
       "duration_ms": 175680,
       "name": "Rumelaj",
       "url": "https://open.spotify.com/track/3BkR5hBVIVQHJ9MX4hRYBr"
+    },
+    {
+      "album": {
+        "name": "Odbrana I Poslednji Dani (Remaster 2022)",
+        "url": "https://open.spotify.com/album/2K5IO6y7in8JMKuu7GHsvm"
+      },
+      "artists": [
+        {
+          "name": "Idoli",
+          "url": "https://open.spotify.com/artist/4DA80eMApXUP7X5BCvUbdu"
+        }
+      ],
+      "date_added": "2023-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 309127,
+      "name": "Rusija (Remaster 2022)",
+      "url": "https://open.spotify.com/track/0x4c5aio3jxYbJLKcjNWwF"
+    },
+    {
+      "album": {
+        "name": "Aperitivo",
+        "url": "https://open.spotify.com/album/26ZtaiF2jnFUyWDWiGNZiX"
+      },
+      "artists": [
+        {
+          "name": "I Coccodrilli",
+          "url": "https://open.spotify.com/artist/5I5o3vDgR1eCtGcyW2IYZR"
+        }
+      ],
+      "date_added": "2023-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273240,
+      "name": "Sabato Italiano",
+      "url": "https://open.spotify.com/track/3eGaKntSr7YjqqhPUPcueJ"
     },
     {
       "album": {
@@ -2618,6 +2730,24 @@
       "duration_ms": 201453,
       "name": "Sigaras\u0131 Yald\u0131zl\u0131",
       "url": "https://open.spotify.com/track/3PAGmJCcncz6cVI84T5ATS"
+    },
+    {
+      "album": {
+        "name": "Popsicle Obstacle",
+        "url": "https://open.spotify.com/album/3oQkuW371JRV2E917TSXIL"
+      },
+      "artists": [
+        {
+          "name": "islandman",
+          "url": "https://open.spotify.com/artist/3So3vlAfrEh2FbpvG7sxO4"
+        }
+      ],
+      "date_added": "2023-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 295655,
+      "name": "Simple Man",
+      "url": "https://open.spotify.com/track/05TGV98024AT3XEJggbfUc"
     },
     {
       "album": {
@@ -2900,6 +3030,42 @@
       "duration_ms": 195000,
       "name": "Tha Sou Kano Kapsonaki",
       "url": "https://open.spotify.com/track/2NUoyRMIm58LC5y88KXqhN"
+    },
+    {
+      "album": {
+        "name": "HEAT SCALE",
+        "url": "https://open.spotify.com/album/60zahCAVNV1WD1vnuUZN7U"
+      },
+      "artists": [
+        {
+          "name": "\u30b5\u30f3\u30bb\u30c3\u30c4",
+          "url": "https://open.spotify.com/artist/7F0XVEpMkzwK3FKbqgJCC7"
+        }
+      ],
+      "date_added": "2023-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 294000,
+      "name": "THE EVE OF ADAM",
+      "url": "https://open.spotify.com/track/0DcTiTrYc379Yn6rjthKU6"
+    },
+    {
+      "album": {
+        "name": "Snacks",
+        "url": "https://open.spotify.com/album/6R3fQEUuUScosDtD57S97h"
+      },
+      "artists": [
+        {
+          "name": "UnknownmiX",
+          "url": "https://open.spotify.com/artist/5ETk7JcdYRmLleoRznIA8j"
+        }
+      ],
+      "date_added": "2023-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254880,
+      "name": "The Siren",
+      "url": "https://open.spotify.com/track/09MXjoZllISc6Zh3JhxZdo"
     },
     {
       "album": {
@@ -3340,6 +3506,24 @@
       "duration_ms": 217560,
       "name": "\u0160ta Je, Tu Je",
       "url": "https://open.spotify.com/track/4Z30YBD3OB9ta9fx1By67C"
+    },
+    {
+      "album": {
+        "name": "\u05de\u05e1\u05d0\u05dc\u05d4",
+        "url": "https://open.spotify.com/album/4XR2r6hcVp3GxbDnWDfPDx"
+      },
+      "artists": [
+        {
+          "name": "Ethnix",
+          "url": "https://open.spotify.com/artist/0rcuq0mzUaleXgXxuLFPPZ"
+        }
+      ],
+      "date_added": "2023-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 342840,
+      "name": "\u05e7\u05d8\u05d5\u05e8\u05e0\u05d4 \u05de\u05e1\u05d0\u05dc\u05d4",
+      "url": "https://open.spotify.com/track/5IjG5I04MpsRiXdqF2Dh4V"
     },
     {
       "album": {

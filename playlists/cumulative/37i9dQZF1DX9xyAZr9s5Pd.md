@@ -4,7 +4,7 @@
 
 > ¡Estos son los nombres que amplifican el sonido indie de los Andes! Foto: Loyal Lobos
 
-64 songs - 3 hr 37 min
+65 songs - 3 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -49,7 +49,8 @@
 | [Navego](https://open.spotify.com/track/5ADyMWZM9dBKvRjCrfbu7j) | [Ana Sanz](https://open.spotify.com/artist/1wFieEqzZtcjkSIHtVk2YD) | [Kinesis](https://open.spotify.com/album/5NmANPMiXncyAwoNXOW9tK) | 3:19 | 2023-09-22 |  |
 | [NIDI](https://open.spotify.com/track/1t8jiSCpgv7iPYTm1hT1Rc) | [Lolabúm](https://open.spotify.com/artist/1Smk5600sBY0IosFDG2zki) | [NIDI](https://open.spotify.com/album/1AwekDMwY8VRbcymgGeDJy) | 3:20 | 2023-09-22 |  |
 | [No Te Vayas Nunca](https://open.spotify.com/track/5FMfpa1gMxWPg3INPurOI4) | [Bella Álvarez](https://open.spotify.com/artist/6dqfuonDrw9UdawWJIAGjs) | [No Te Vayas Nunca](https://open.spotify.com/album/1UvWnU9UKjbxzKbLxk8Njx) | 3:21 | 2023-09-22 |  |
-| [No Tengo Tiempo](https://open.spotify.com/track/0J5PXybiNqoNQrethIsoDX) | [Armenia](https://open.spotify.com/artist/4FmrAtWfKHAIysakSpmatx) | [No Tengo Tiempo](https://open.spotify.com/album/3QYc5uXxdDb6NpSIl9FUyV) | 2:50 | 2023-09-22 |  |
+| [No Tengo Tiempo](https://open.spotify.com/track/0J5PXybiNqoNQrethIsoDX) | [Armenia](https://open.spotify.com/artist/4FmrAtWfKHAIysakSpmatx) | [No Tengo Tiempo](https://open.spotify.com/album/3QYc5uXxdDb6NpSIl9FUyV) | 2:50 | 2023-09-22 | 2023-10-19 |
+| [No Tengo Tiempo](https://open.spotify.com/track/7hmvkFDZGMLaRyHMBySatI) | [Armenia](https://open.spotify.com/artist/4FmrAtWfKHAIysakSpmatx) | [ARMN](https://open.spotify.com/album/5ZKQlMu308fEdUEOYXUjIp) | 2:50 | 2023-10-13 |  |
 | [Nublado](https://open.spotify.com/track/1JhzXJFe4rvHFVHmRb3bQS) | [Mitú](https://open.spotify.com/artist/3OlI3HjAc1LQUmd7wozF6k), [Loyal Lobos](https://open.spotify.com/artist/26BPVK55HCqiBNb32TXfBf) | [Nublado](https://open.spotify.com/album/1bqvDiNrpVCeI8RbsgayEb) | 3:50 | 2023-09-22 |  |
 | [Nudos](https://open.spotify.com/track/2rMcMfA9vNbXBHMKKYBacM) | [Da Pawn](https://open.spotify.com/artist/3RkNjm33d6IZZ6gAjb6hXy) | [Residencia Azul](https://open.spotify.com/album/7a0NP5cqVBLSe6YofHXcGL) | 4:40 | 2023-09-22 |  |
 | [Nunca Nunca](https://open.spotify.com/track/01RidTuR638AM20oXDqD1u) | [La Máquina Camaleón](https://open.spotify.com/artist/6NIyDDyPBRTyPZ6ggjE8Rj), [Neoma](https://open.spotify.com/artist/1rS9ZvNEWqnKY19g6uiqip) | [Nunca Nunca](https://open.spotify.com/album/6p7mLTPzEfaCvFTQXI5EL6) | 2:51 | 2023-09-22 |  |

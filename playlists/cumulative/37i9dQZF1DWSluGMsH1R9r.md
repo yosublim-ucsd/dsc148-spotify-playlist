@@ -4,7 +4,7 @@
 
 > Calm piano music for enhanced concentration.
 
-597 songs - 1 day 1 hr 41 min
+599 songs - 1 day 1 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,7 +33,7 @@
 | [After The Rain](https://open.spotify.com/track/78FM8RL21qznI4xA2Yqtix) | [Dario Crisman](https://open.spotify.com/artist/3z9wB1A84KYedTTWy1ciHF) | [After The Rain](https://open.spotify.com/album/6UoUV4OYZsmo7CUPD7OW1k) | 2:29 | 2021-12-07 |  |
 | [Again](https://open.spotify.com/track/5d2oRIkm7wSJAVrwUmrM2B) | [Lucie Jean](https://open.spotify.com/artist/5jEOVhrMJqGw6notBTGuKn) | [Again](https://open.spotify.com/album/49C1JBmiZ27ltjFJU3WbcD) | 3:11 | 2022-04-07 | 2023-10-18 |
 | [Airborne](https://open.spotify.com/track/2MdnNxK70QIHwW999cttyQ) | [Maria Novotna](https://open.spotify.com/artist/3Bg7pjZM9srpKAJj1qlgU6) | [Airborne](https://open.spotify.com/album/7tmews40tmF8GyBOqzCpYC) | 2:41 | 2021-12-07 | 2023-01-27 |
-| [Al Fin](https://open.spotify.com/track/0ERBIAjdSC3hfkG9FvHEiN) | [Vastos Trofeos](https://open.spotify.com/artist/6RXn3dP1ZlAmIrEv2zspvq) | [Al Fin](https://open.spotify.com/album/782vjRICRTGgUGa7uNRVIl) | 3:34 | 2022-09-14 |  |
+| [Al Fin](https://open.spotify.com/track/0ERBIAjdSC3hfkG9FvHEiN) | [Vastos Trofeos](https://open.spotify.com/artist/6RXn3dP1ZlAmIrEv2zspvq) | [Al Fin](https://open.spotify.com/album/782vjRICRTGgUGa7uNRVIl) | 3:34 | 2022-09-14 | 2023-10-19 |
 | [Alignment](https://open.spotify.com/track/3JRA65bOIayOI3nag2qqhI) | [Max Walltine](https://open.spotify.com/artist/1fjExu7rpJivThwzQp5fq5) | [Alignment](https://open.spotify.com/album/2ak75QxRASpMwY9OLj2gSn) | 1:53 | 2022-01-04 | 2023-07-25 |
 | [All The Way](https://open.spotify.com/track/70wQ4GEaLnFb1N3x6w9DD8) | [Thane Oliverson](https://open.spotify.com/artist/0AsFKDsc3IkADjvtPBEI5k) | [All The Way](https://open.spotify.com/album/0X7ZASZKFRhy6ANYCXl3RI) | 2:41 | 2021-12-07 |  |
 | [Always and Never](https://open.spotify.com/track/68VIEpxFC0LiJbHRb0LcE2) | [Rita Alezae](https://open.spotify.com/artist/2I8tbYezTkXcisNasm212v) | [Always and Never](https://open.spotify.com/album/7kSPSNQWISyJ9z0v9Kc2mD) | 2:28 | 2021-12-07 | 2022-07-16 |
@@ -342,6 +342,7 @@
 | [Mursejler](https://open.spotify.com/track/4WsMQ3rw3Y5JPHIgJcG8Qc) | [Jacob David](https://open.spotify.com/artist/2ClAWj3iKUlyddnvR6faUP) | [Mursejler](https://open.spotify.com/album/1NIXN7r0W9hiSVB4cw9bPa) | 2:58 | 2021-12-07 | 2022-07-29 |
 | [Must](https://open.spotify.com/track/5Z9LClwDtSCjaRoeaG7QmQ) | [Jonas Holmes](https://open.spotify.com/artist/1ktaC9yb8R0mC5KSPjENLl) | [Autumn Sessions Watching The Apple Tree](https://open.spotify.com/album/7Hxdu0dRtRXxf6lxFHHu1A) | 2:46 | 2021-12-07 |  |
 | [My Mind Made Up](https://open.spotify.com/track/28EEsmFKYr0HTeCxyEeeqO) | [Sarah Seing](https://open.spotify.com/artist/4Sw3vhjwiEgEuExPxm3vpl) | [My Mind Made Up](https://open.spotify.com/album/5gj3aLJleU4wkfTN2bttEO) | 3:35 | 2021-12-07 | 2023-01-27 |
+| [My Solace My Home](https://open.spotify.com/track/0mD5cqe5rW4rPjlEBpRqUK) | [Ryley Moss](https://open.spotify.com/artist/0qWu3rMcE5Hp0gcAUjPPAG) | [My Solace My Home](https://open.spotify.com/album/5eV8QRBAGsHmGiJuaHjlEh) | 2:26 | 2023-10-17 |  |
 | [Mysa](https://open.spotify.com/track/4nXPDQcgsGu4DUKDsS93AA) | [Amity Fall](https://open.spotify.com/artist/6cGxRgjUNOdLJ1dJby1GmS) | [Mysa](https://open.spotify.com/album/4Bgu4hE3kSBRILnx0DXL0D) | 2:14 | 2021-12-07 | 2022-07-16 |
 | [Mélange](https://open.spotify.com/track/2knwTrCOAR61eCReFMJ03z) | [Helena Roche](https://open.spotify.com/artist/5EJ97hGYe8LfBXYvX2Rfvt) | [Mélange](https://open.spotify.com/album/1p11b4Y3nK9bHNpLfiuC0x) | 1:55 | 2021-12-07 | 2023-07-25 |
 | [Ménuet Belmonte](https://open.spotify.com/track/5TKPsDdOCl2d78wM9TYNoP) | [Flavio Apicella](https://open.spotify.com/artist/2GnQro7OuaSjmhe1TGO14v) | [Ménuet Belmonte](https://open.spotify.com/album/5IzWBmyTiWM5R7CVMlPeY8) | 3:14 | 2023-01-26 |  |
@@ -373,11 +374,12 @@
 | [One Last Question](https://open.spotify.com/track/3PZcDjUs3yjBML8sDDvF8f) | [Vilma Holík](https://open.spotify.com/artist/4qhrLBBH9zCUWTNDLh5dJu) | [One Last Question](https://open.spotify.com/album/4flpCPlSP0b8EMrhwjakvF) | 2:11 | 2023-03-01 |  |
 | [Onironautas](https://open.spotify.com/track/6s76KH2PyYupeKvcz6hRgV) | [Lara Di Umbra](https://open.spotify.com/artist/26Js1EtYSgTosRfHYbEpZG) | [Onironautas](https://open.spotify.com/album/51UJxYKsEZqK7qtTHj2NBy) | 3:10 | 2021-12-07 |  |
 | [Op Die Fiets](https://open.spotify.com/track/7lkkpBe13UFrPIe9Ffn2cb) | [Margaretha van Baarle](https://open.spotify.com/artist/1I6amUXyzWrPtpPsLmYHp1) | [Op Die Fiets](https://open.spotify.com/album/7uyWIPr7QyFjo1bdSeQKls) | 2:21 | 2021-12-07 | 2023-07-05 |
+| [Open Wings To Fly](https://open.spotify.com/track/4cYaNAmm0gtwTVAZKmANUF) | [Antoine Di Luzio](https://open.spotify.com/artist/0nvI5DwMokXVsbHH7sBuwv) | [Open Wings To Fly](https://open.spotify.com/album/5Jv2ENPuHQZ2d5Eq8w6FIF) | 2:18 | 2023-10-17 |  |
 | [Opening Up](https://open.spotify.com/track/3qROrX6c2jW9lArTRnAKGf) | [Gideon Lewis](https://open.spotify.com/artist/1zvwcVO4fIwapze8BZl7nH) | [Opening Up](https://open.spotify.com/album/4tgCcjOjG3NsPnndyqrdLP) | 2:27 | 2021-12-07 | 2022-07-16 |
 | [Opportunity Knocks](https://open.spotify.com/track/1T81HdwFZ2bzZYBFZ6tc13) | [John Deigen](https://open.spotify.com/artist/15uysw3q7CD404iYaCUxs3) | [Opportunity Knocks](https://open.spotify.com/album/1FU0Aw1hWxy8SHBsMV5zd2) | 2:29 | 2021-12-07 | 2022-04-21 |
 | [Opus 5](https://open.spotify.com/track/3kkgprUeiPDV0nDQerhq9h) | [Karol Seifert](https://open.spotify.com/artist/3IQYEJG6lpSmC3r4NfWB9m) | [Opus 5](https://open.spotify.com/album/264MR7dpX3eMMMctQ26xRz) | 2:45 | 2022-02-15 |  |
 | [Our Time Will Come](https://open.spotify.com/track/1z4bpvqPgnfUg9fkykQp0D) | [Tim Karlsen](https://open.spotify.com/artist/3I0dZZLw0lTrptPX7nNc59) | [Our Time Will Come](https://open.spotify.com/album/2CrrbexAFC9h2NUTLveyt5) | 2:34 | 2023-09-18 |  |
-| [Over and over again](https://open.spotify.com/track/3xsVn4oDC1yAvquezhsGwr) | [NOIR](https://open.spotify.com/artist/1jd7mfHRsQszG278XirWDC) | [Over and over again](https://open.spotify.com/album/19EkqaFNdzEhPyF9YaGDG7) | 2:12 | 2023-01-26 |  |
+| [Over and over again](https://open.spotify.com/track/3xsVn4oDC1yAvquezhsGwr) | [NOIR](https://open.spotify.com/artist/1jd7mfHRsQszG278XirWDC) | [Over and over again](https://open.spotify.com/album/19EkqaFNdzEhPyF9YaGDG7) | 2:12 | 2023-01-26 | 2023-10-19 |
 | [Pagnossini](https://open.spotify.com/track/0rYtdfXg99nfq9ZUJS4LwY) | [Pietro Madigan](https://open.spotify.com/artist/3ilaXnCy8JNUWKNvF4GTwW) | [Pagnossini](https://open.spotify.com/album/1BMndjUepTnrweBlHNOQtr) | 2:26 | 2021-12-07 |  |
 | [Paintings](https://open.spotify.com/track/5ddcsw3fJkGjW67wjjtpu6) | [Esperanza](https://open.spotify.com/artist/24T5i2cT1QSUxliOi5KeJa) | [Paintings](https://open.spotify.com/album/3kwHT5PRLc3T1iHAln18Bi) | 2:35 | 2021-12-07 |  |
 | [Paisible](https://open.spotify.com/track/1tmUqof1lj9IgHQoh4LjA7) | [Belle Margaux](https://open.spotify.com/artist/3WKsLlBJ9kQc0ccsuEuZdu) | [Paisible](https://open.spotify.com/album/2bYxwhnFN7tyW3FKu4BWWu) | 2:33 | 2021-12-07 | 2023-07-05 |

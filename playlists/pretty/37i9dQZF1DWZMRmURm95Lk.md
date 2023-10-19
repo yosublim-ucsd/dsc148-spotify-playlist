@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZMRmURm95Lk.md) - [plain]
 
 > Beat e rime, oggi come una volta\. Nex Cassel e DJ Craim in cover.
 
-[Spotify](https://open.spotify.com/user/spotify) - 36,244 likes - 120 songs - 7 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 36,277 likes - 120 songs - 7 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,8 +59,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZMRmURm95Lk.md) - [plain]
 | 49 | [Più forte di me](https://open.spotify.com/track/0PCvuLxAe3BrJdECjoDCyv) | [Nerone](https://open.spotify.com/artist/7kG6A2lZMXeaD5YkubF5Kn), [Jake La Furia](https://open.spotify.com/artist/6JFRI91YaCXREGQYzHSnUH) | [Entertainer](https://open.spotify.com/album/1xtV3Th16lWgSybfJMdSD6) | 3:22 |
 | 50 | [Bolo By Night](https://open.spotify.com/track/44HlIYtlj3BL5IH5zbNA6t) | [DJ Shocca](https://open.spotify.com/artist/10qaAJjsY1PMDwPnNwHKMz), [Inoki](https://open.spotify.com/artist/0nKxW51VOD6px2uMM4ehfF), [Royal Mehdi](https://open.spotify.com/artist/0NbsRt4NSMynY7oHrywafZ) | [60 Hz](https://open.spotify.com/album/7wLbLRZ53GbV4FUysp4wdO) | 3:53 |
 | 51 | [Bugie Bianche](https://open.spotify.com/track/5YG4c1oIu9vOr8Wqoa05iH) | [En?gma](https://open.spotify.com/artist/5pbBGJlVCUzwmdfd1Q1tEX) | [Rebus](https://open.spotify.com/album/2w8DyIVdzfGyoKxWzNTgYz) | 3:13 |
-| 52 | [Rigurgito antifascista](https://open.spotify.com/track/6L2NXxAfU3SjTweQIjezO2) | [99 Posse](https://open.spotify.com/artist/0C47YN6zg3vCNA2gIScdgW) | [Curre curre guagliò](https://open.spotify.com/album/70lSpUqs8nPGcBflIls3DC) | 5:54 |
-| 53 | [Sindrome di Stendhal](https://open.spotify.com/track/6SaI3nXXwwn7ErkiWNiA3I) | [DJ Fastcut](https://open.spotify.com/artist/5wlZkgwhLD0Zbsj1sH99Dw), [Murubutu](https://open.spotify.com/artist/1UAY1hWd5x69hPVXMXIeri), [Mattak](https://open.spotify.com/artist/3hCo0MeLrjAvQxAzPknjhK) | [Dead Poets 3 \- Maledetti](https://open.spotify.com/album/3yCuWgWAGTPSAA4m52wP74) | 2:52 |
+| 52 | [Sindrome di Stendhal](https://open.spotify.com/track/6SaI3nXXwwn7ErkiWNiA3I) | [DJ Fastcut](https://open.spotify.com/artist/5wlZkgwhLD0Zbsj1sH99Dw), [Murubutu](https://open.spotify.com/artist/1UAY1hWd5x69hPVXMXIeri), [Mattak](https://open.spotify.com/artist/3hCo0MeLrjAvQxAzPknjhK) | [Dead Poets 3 \- Maledetti](https://open.spotify.com/album/3yCuWgWAGTPSAA4m52wP74) | 2:52 |
+| 53 | [Rigurgito antifascista](https://open.spotify.com/track/6L2NXxAfU3SjTweQIjezO2) | [99 Posse](https://open.spotify.com/artist/0C47YN6zg3vCNA2gIScdgW) | [Curre curre guagliò](https://open.spotify.com/album/70lSpUqs8nPGcBflIls3DC) | 5:54 |
 | 54 | [L'Anima Giusta](https://open.spotify.com/track/66LvacHJCJWy11UemxShz7) | [Mattak](https://open.spotify.com/artist/3hCo0MeLrjAvQxAzPknjhK) | [Riproduzione Vietata](https://open.spotify.com/album/1OXdDBqTdWwRRNDucLzYD0) | 4:13 |
 | 55 | [Cani sciolti](https://open.spotify.com/track/1gq9ZEr1v4Z9M169qDOUS0) | [Sangue Misto](https://open.spotify.com/artist/2aLBxDxa6Mt4i36cUY7lTL) | [SXM](https://open.spotify.com/album/0VpYT5ALiNjrPCjVI9GG3E) | 4:55 |
 | 56 | [Quando un giorno tornerai](https://open.spotify.com/track/2OwDaBDgiW6E6r1JguSbi9) | [Stokka & Madbuddy](https://open.spotify.com/artist/6U8aUHDeArzovgvZazAK0z) | [Blocknotes](https://open.spotify.com/album/3F57zSmT6EyCVv3kWmqi4p) | 4:07 |
@@ -129,4 +129,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZMRmURm95Lk.md) - [plain]
 | 119 | [B.U.F.](https://open.spotify.com/track/4wdow0OrNHyFJyAVG0knt3) | [Nerone](https://open.spotify.com/artist/7kG6A2lZMXeaD5YkubF5Kn), [Verano](https://open.spotify.com/artist/1UY14QmPtbYtJp41TBmquK) | [B.U.F.](https://open.spotify.com/album/3IuWUPJzVr63tXvAeyWRHp) | 2:56 |
 | 120 | [Black Rain, pt\. 2](https://open.spotify.com/track/6pLkFKiJerjGmtxXSWmMsF) | [Murubutu](https://open.spotify.com/artist/1UAY1hWd5x69hPVXMXIeri), [Mattak](https://open.spotify.com/artist/3hCo0MeLrjAvQxAzPknjhK), [Inoki](https://open.spotify.com/artist/0nKxW51VOD6px2uMM4ehfF), [DJ Fastcut](https://open.spotify.com/artist/5wlZkgwhLD0Zbsj1sH99Dw) | [Storie d'amore con pioggia e altri racconti di rovesci e temporali](https://open.spotify.com/album/03mKUpldVCEzMHeFlr8Dky) | 4:21 |
 
-Snapshot ID: `MCxjZGZiODljMzhmYWRlNWQzZDU2MDAyMGE0YTUyNDAxODBmZTUxYmMz`
+Snapshot ID: `MCxlYmJkZjlhYjc2Yjk5NWI0ZjQwYzg3YmM4MWI3MTFjZGE0NmQzMjY1`

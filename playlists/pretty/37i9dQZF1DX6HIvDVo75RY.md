@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6HIvDVo75RY.md) - [plain]
 
 > Thanks to everyone who came out and enjoyed Spotify House at Ole Red during CMA Fest with us!
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,453 likes - 120 songs - 6 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,450 likes - 120 songs - 6 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -122,11 +122,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6HIvDVo75RY.md) - [plain]
 | 112 | [That's What I Love About Sunday](https://open.spotify.com/track/1fmi1hOBtH8xfUiWz4LVtE) | [Craig Morgan](https://open.spotify.com/artist/6ktyNEnEukKzskQEiXgCFD) | [My Kind Of Livin'](https://open.spotify.com/album/4ovUdHrbzwtbtKMyU997Hl) | 3:21 |
 | 113 | [Front Row Seat](https://open.spotify.com/track/0vSVknC1QRWHmHDqgtOPfP) | [David Unlayao](https://open.spotify.com/artist/3OxjY9y8bls3YdSjGk7khk) | [Front Row Seat](https://open.spotify.com/album/7faCFyGekYkgwyYSN3cAW2) | 2:52 |
 | 114 | [On A Different Night](https://open.spotify.com/track/4cF4vuC7Ci29yhnbuoFRZx) | [Josh Ross](https://open.spotify.com/artist/1ZGTSMjK1D2HrpPTOh916U) | [On A Different Night](https://open.spotify.com/album/7e2cKmW21NqkGQUfbDyPdF) | 3:09 |
-| 115 | [Burn The House Down](https://open.spotify.com/track/1QWHZzdHL1smRptVT0tysB) | [Kimberly Perry](https://open.spotify.com/artist/3JFfODb5r2GSdBlweDQUE2) | [Bloom](https://open.spotify.com/album/3mEhKKTKee5PmL4UwCYpqo) | 3:34 |
+| 115 | [Burn The House Down](https://open.spotify.com/track/1QWHZzdHL1smRptVT0tysB) | [Kimberly Perry](https://open.spotify.com/artist/3JFfODb5r2GSdBlweDQUE2), [The Band Perry](https://open.spotify.com/artist/75FnCoo4FBxH5K1Rrx0k5A) | [Bloom](https://open.spotify.com/album/3mEhKKTKee5PmL4UwCYpqo) | 3:34 |
 | 116 | [Mary Jane & Chardonnay](https://open.spotify.com/track/1Oa10qvMw6KP7VYtJUcsLi) | [Meg McRee](https://open.spotify.com/artist/2XXRe7XAVLJZUUOjlEdssy) | [Is It Just Me?](https://open.spotify.com/album/0wlwXhATsyfP9ZjqOCkTqi) | 3:21 |
 | 117 | [Can't Nobody](https://open.spotify.com/track/3QjMxiTf0OBM729FA0AqZy) | [Mackenzie Carpenter](https://open.spotify.com/artist/1gYlQ5LjfQz9QPaCApCsDZ) | [Can't Nobody](https://open.spotify.com/album/29N9gvVvR2wiXR1hJR7M9R) | 3:23 |
 | 118 | [Tearin' Down Memories](https://open.spotify.com/track/0igwAvhpaRks5XJflwnDz8) | [Wyatt McCubbin](https://open.spotify.com/artist/4HxnSRFjP0vKzW7z21kuPf) | [Tearin' Down Memories](https://open.spotify.com/album/1kctAtzhAGO24Mhu3GrlFS) | 2:59 |
 | 119 | [Mockingbird](https://open.spotify.com/track/6fS1CEMY4LlvQNWuUMoWEQ) | [Ruston Kelly](https://open.spotify.com/artist/5zuqnTZOeJzI0N0yQ7XA7I) | [Dying Star](https://open.spotify.com/album/0HglC8wDUKL0VV5KI31bqU) | 4:37 |
 | 120 | [Bad Day To Be A Cold Beer](https://open.spotify.com/track/4uzPHLZaHi2r99YMo6GAeG) | [Chase Rice](https://open.spotify.com/artist/6pBNfggcZZDCmb0p92OnGn) | [I Hate Cowboys & All Dogs Go To Hell](https://open.spotify.com/album/1YKEpL3pNDCbYH2zW06u9i) | 3:03 |
 
-Snapshot ID: `MCw4MGVkYzIzNDgzZmQ5YzBkMWJlNDYzODI5YTRiMDgzNmFmZjkxMzVl`
+Snapshot ID: `MCwxMGY4ZDZkZjFiNmUxOTQzMDEzNzBlN2M4Y2FhNjVkZDljNmEzNDlh`

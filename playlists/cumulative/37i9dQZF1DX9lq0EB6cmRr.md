@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DX9lq0EB6cmRr.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX9lq0EB6cmRr) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX9lq0EB6cmRr)
 
-### [K:lassical](https://open.spotify.com/playlist/37i9dQZF1DX9lq0EB6cmRr)
+### [Classic+K](https://open.spotify.com/playlist/37i9dQZF1DX9lq0EB6cmRr)
 
 > Listen hot and new Korean classical & new age  music in here! \(Cover: Kim Jeong Won\(김정원\)\) 한국 클래식 음악 핫 & 최신 트랙들을 만나보세요!
 

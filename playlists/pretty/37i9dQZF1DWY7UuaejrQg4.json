@@ -1,12 +1,12 @@
 {
   "description": "2018 highlights from the home of indie music.",
-  "num_followers": 78905,
+  "num_followers": 78919,
   "original_name": "Best of Indie 2018",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhY2U1M2EwNzM0MzJkOTgxODdiZDAzNzA1ZWQwNWFhOWNmM2I1OWI3",
+  "snapshot_id": "MCw5ZDkwMWZjMmZhYTdjNTRkY2YyNjMzM2U5MDBlNTBkMzA0YWRmNGEx",
   "tracks": [
     {
       "added_at": "2022-03-08 15:07:06",
@@ -503,22 +503,6 @@
     {
       "added_at": "2022-03-08 15:07:06",
       "album": {
-        "name": "El Mal Querer",
-        "url": "https://open.spotify.com/album/355bjCHzRJztCzaG5Za4gq"
-      },
-      "artists": [
-        {
-          "name": "ROSAL\u00cdA",
-          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
-        }
-      ],
-      "duration_ms": 150027,
-      "name": "MALAMENTE - Cap.1: Augurio",
-      "url": "https://open.spotify.com/track/1B0BQaSRHxhI0AUlItY3LK"
-    },
-    {
-      "added_at": "2022-03-08 15:07:06",
-      "album": {
         "name": "For Ever",
         "url": "https://open.spotify.com/album/5gYCZgmXzzWXxOCb9fMfBm"
       },
@@ -531,6 +515,22 @@
       "duration_ms": 191529,
       "name": "Happy Man",
       "url": "https://open.spotify.com/track/1oSDiyNMslJoTCfUZBHNP2"
+    },
+    {
+      "added_at": "2022-03-08 15:07:06",
+      "album": {
+        "name": "El Mal Querer",
+        "url": "https://open.spotify.com/album/355bjCHzRJztCzaG5Za4gq"
+      },
+      "artists": [
+        {
+          "name": "ROSAL\u00cdA",
+          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
+        }
+      ],
+      "duration_ms": 150027,
+      "name": "MALAMENTE - Cap.1: Augurio",
+      "url": "https://open.spotify.com/track/1B0BQaSRHxhI0AUlItY3LK"
     },
     {
       "added_at": "2022-03-08 15:07:06",
@@ -1283,22 +1283,6 @@
     {
       "added_at": "2022-03-08 15:07:06",
       "album": {
-        "name": "Soy Pablo",
-        "url": "https://open.spotify.com/album/1lESM5Y1VAvrCLEgLmyfOw"
-      },
-      "artists": [
-        {
-          "name": "boy pablo",
-          "url": "https://open.spotify.com/artist/7wbkl3zgDZEoZer357mVIw"
-        }
-      ],
-      "duration_ms": 338000,
-      "name": "tkm",
-      "url": "https://open.spotify.com/track/7eAp42zD2PbKJMvHVcHHF8"
-    },
-    {
-      "added_at": "2022-03-08 15:07:06",
-      "album": {
         "name": "Clean",
         "url": "https://open.spotify.com/album/36NLDBi2kX7XRHnyLzLOS8"
       },
@@ -1311,6 +1295,22 @@
       "duration_ms": 194009,
       "name": "Your Dog",
       "url": "https://open.spotify.com/track/3BpUZB0tw4zNmG3Iw1mclL"
+    },
+    {
+      "added_at": "2022-03-08 15:07:06",
+      "album": {
+        "name": "Soy Pablo",
+        "url": "https://open.spotify.com/album/1lESM5Y1VAvrCLEgLmyfOw"
+      },
+      "artists": [
+        {
+          "name": "boy pablo",
+          "url": "https://open.spotify.com/artist/7wbkl3zgDZEoZer357mVIw"
+        }
+      ],
+      "duration_ms": 338000,
+      "name": "tkm",
+      "url": "https://open.spotify.com/track/7eAp42zD2PbKJMvHVcHHF8"
     },
     {
       "added_at": "2022-03-08 15:07:06",
@@ -1363,22 +1363,6 @@
     {
       "added_at": "2022-03-08 15:07:06",
       "album": {
-        "name": "Soy Pablo",
-        "url": "https://open.spotify.com/album/1lESM5Y1VAvrCLEgLmyfOw"
-      },
-      "artists": [
-        {
-          "name": "boy pablo",
-          "url": "https://open.spotify.com/artist/7wbkl3zgDZEoZer357mVIw"
-        }
-      ],
-      "duration_ms": 186681,
-      "name": "Losing You",
-      "url": "https://open.spotify.com/track/7mjOxXnZYbGtgjyX0hqaLs"
-    },
-    {
-      "added_at": "2022-03-08 15:07:06",
-      "album": {
         "name": "Bambi",
         "url": "https://open.spotify.com/album/6tGEWfRhonWuuQikgOnYhN"
       },
@@ -1407,6 +1391,22 @@
       "duration_ms": 201799,
       "name": "Quarter Past Midnight",
       "url": "https://open.spotify.com/track/1etiUDkISHELzQGMY79ryt"
+    },
+    {
+      "added_at": "2022-03-08 15:07:06",
+      "album": {
+        "name": "Soy Pablo",
+        "url": "https://open.spotify.com/album/1lESM5Y1VAvrCLEgLmyfOw"
+      },
+      "artists": [
+        {
+          "name": "boy pablo",
+          "url": "https://open.spotify.com/artist/7wbkl3zgDZEoZer357mVIw"
+        }
+      ],
+      "duration_ms": 186681,
+      "name": "Losing You",
+      "url": "https://open.spotify.com/track/7mjOxXnZYbGtgjyX0hqaLs"
     },
     {
       "added_at": "2022-03-08 15:07:06",

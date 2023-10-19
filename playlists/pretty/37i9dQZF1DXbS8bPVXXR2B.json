@@ -1,12 +1,12 @@
 {
   "description": "We just wanna rock you all night long.",
-  "num_followers": 220251,
+  "num_followers": 220322,
   "original_name": "Disco Hi-Life",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjMDU0ZjZmNjliODQ5YWI5MzA1YTU3MTNiNGVmNDEwZTkyNjVmZWZk",
+  "snapshot_id": "MCxmMDQwODRmZWQ5M2M3YjYzZjA3NWRkODczZjBkOGU4YmZiNmZiZjRh",
   "tracks": [
     {
       "added_at": "2022-09-05 16:54:43",
@@ -999,22 +999,6 @@
     {
       "added_at": "2022-09-05 16:54:43",
       "album": {
-        "name": "Disco Hi-Life",
-        "url": "https://open.spotify.com/album/7IK0j2EYruB6NZaI9EniYx"
-      },
-      "artists": [
-        {
-          "name": "Orlando Julius",
-          "url": "https://open.spotify.com/artist/5nmP3vKUqynlECpm2ura7L"
-        }
-      ],
-      "duration_ms": 540986,
-      "name": "Disco Hi - Life",
-      "url": "https://open.spotify.com/track/0kzZmpztpqxb4AA0M4ddyA"
-    },
-    {
-      "added_at": "2022-09-05 16:54:43",
-      "album": {
         "name": "Mysteries of the World",
         "url": "https://open.spotify.com/album/3HFASQCSrKTM9DSu3FevyN"
       },
@@ -1027,6 +1011,22 @@
       "duration_ms": 330080,
       "name": "Mysteries of the World",
       "url": "https://open.spotify.com/track/5WYzouzEJIKk0QJjNsiVue"
+    },
+    {
+      "added_at": "2022-09-05 16:54:43",
+      "album": {
+        "name": "Disco Hi-Life",
+        "url": "https://open.spotify.com/album/7IK0j2EYruB6NZaI9EniYx"
+      },
+      "artists": [
+        {
+          "name": "Orlando Julius",
+          "url": "https://open.spotify.com/artist/5nmP3vKUqynlECpm2ura7L"
+        }
+      ],
+      "duration_ms": 540986,
+      "name": "Disco Hi - Life",
+      "url": "https://open.spotify.com/track/0kzZmpztpqxb4AA0M4ddyA"
     },
     {
       "added_at": "2022-09-05 16:54:43",
@@ -1399,22 +1399,6 @@
     {
       "added_at": "2022-09-05 16:54:43",
       "album": {
-        "name": "Kiss Me Again",
-        "url": "https://open.spotify.com/album/1jDWFLM7HsGgVc4gh3ePbK"
-      },
-      "artists": [
-        {
-          "name": "Dinosaur",
-          "url": "https://open.spotify.com/artist/1DrIvq4XBoCgiQcv3w5tRu"
-        }
-      ],
-      "duration_ms": 181698,
-      "name": "Kiss Me Again - Mix Edit",
-      "url": "https://open.spotify.com/track/5BwqngWtzzZCL0XiuHcMeQ"
-    },
-    {
-      "added_at": "2022-09-05 16:54:43",
-      "album": {
         "name": "Agb'oju L'ogun",
         "url": "https://open.spotify.com/album/72S9ok10nlp6jIxzDNC5Rk"
       },
@@ -1427,6 +1411,22 @@
       "duration_ms": 702167,
       "name": "Agb'oju L'ogun - Original 12\" Version",
       "url": "https://open.spotify.com/track/0pmcA4lJnEjkqIFrotudmV"
+    },
+    {
+      "added_at": "2022-09-05 16:54:43",
+      "album": {
+        "name": "Kiss Me Again",
+        "url": "https://open.spotify.com/album/1jDWFLM7HsGgVc4gh3ePbK"
+      },
+      "artists": [
+        {
+          "name": "Dinosaur",
+          "url": "https://open.spotify.com/artist/1DrIvq4XBoCgiQcv3w5tRu"
+        }
+      ],
+      "duration_ms": 181698,
+      "name": "Kiss Me Again - Mix Edit",
+      "url": "https://open.spotify.com/track/5BwqngWtzzZCL0XiuHcMeQ"
     },
     {
       "added_at": "2022-09-05 16:54:43",

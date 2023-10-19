@@ -1,12 +1,12 @@
 {
   "description": "A collection of Grieg's finest songs, symphonies and suites.",
-  "num_followers": 33540,
+  "num_followers": 33562,
   "original_name": "This Is Grieg",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxZGI1M2Q0MjExNzVkODkwM2ZkMGVmZGIxMDY2ZDg0MTNmZjk5YWE2",
+  "snapshot_id": "MCwxY2U5OWY2MTZhNGQzNjE2YjBhNjc4ODU2ZDg0OGM3MTgwZGJjZmJj",
   "tracks": [
     {
       "added_at": "2022-09-30 04:01:00",
@@ -747,26 +747,6 @@
     {
       "added_at": "2022-09-30 04:01:00",
       "album": {
-        "name": "Wonderland - Edvard Grieg: Piano Concerto, Lyric Pieces",
-        "url": "https://open.spotify.com/album/675zFvCNg3trc61Wm3YRW1"
-      },
-      "artists": [
-        {
-          "name": "Edvard Grieg",
-          "url": "https://open.spotify.com/artist/5ihY290YPGc3aY2xTyx7Gy"
-        },
-        {
-          "name": "Alice Sara Ott",
-          "url": "https://open.spotify.com/artist/0d6alfZHUx3xoRnPjkTL7Q"
-        }
-      ],
-      "duration_ms": 209520,
-      "name": "Lyric Pieces Book VIII, Op. 65: No. 5 Ballad",
-      "url": "https://open.spotify.com/track/77v5gEBdiW29He3ey69tls"
-    },
-    {
-      "added_at": "2022-09-30 04:01:00",
-      "album": {
         "name": "Schumann: Piano Concerto in A Minor, Op. 54",
         "url": "https://open.spotify.com/album/0CjRmvLs8eDLbAQ89nlwtl"
       },
@@ -783,6 +763,26 @@
       "duration_ms": 155026,
       "name": "Piano Transcriptions of Songs, Op. 41: No. 3, Jeg elsker dig",
       "url": "https://open.spotify.com/track/5H2fooY77jr8VaAyfxvqh1"
+    },
+    {
+      "added_at": "2022-09-30 04:01:00",
+      "album": {
+        "name": "Wonderland - Edvard Grieg: Piano Concerto, Lyric Pieces",
+        "url": "https://open.spotify.com/album/675zFvCNg3trc61Wm3YRW1"
+      },
+      "artists": [
+        {
+          "name": "Edvard Grieg",
+          "url": "https://open.spotify.com/artist/5ihY290YPGc3aY2xTyx7Gy"
+        },
+        {
+          "name": "Alice Sara Ott",
+          "url": "https://open.spotify.com/artist/0d6alfZHUx3xoRnPjkTL7Q"
+        }
+      ],
+      "duration_ms": 209520,
+      "name": "Lyric Pieces Book VIII, Op. 65: No. 5 Ballad",
+      "url": "https://open.spotify.com/track/77v5gEBdiW29He3ey69tls"
     },
     {
       "added_at": "2022-09-30 04:01:00",
@@ -1019,30 +1019,6 @@
     {
       "added_at": "2022-09-30 04:01:00",
       "album": {
-        "name": "Grieg: Music for String Orchestra",
-        "url": "https://open.spotify.com/album/7c910A4HfOMLizy0El6vjc"
-      },
-      "artists": [
-        {
-          "name": "Edvard Grieg",
-          "url": "https://open.spotify.com/artist/5ihY290YPGc3aY2xTyx7Gy"
-        },
-        {
-          "name": "Malm\u00f6 Symphony Orchestra",
-          "url": "https://open.spotify.com/artist/24TyvSlEEO55MTNEJo5VFc"
-        },
-        {
-          "name": "Bjarte Engeset",
-          "url": "https://open.spotify.com/artist/52qpSzpo16ijYC3yO2PK1d"
-        }
-      ],
-      "duration_ms": 251653,
-      "name": "2 Melodies, Op. 53 (version for orchestra): No. 2. Det forste mode (The First Meeting)",
-      "url": "https://open.spotify.com/track/43fd9XWup3L9E2PtH3k5EK"
-    },
-    {
-      "added_at": "2022-09-30 04:01:00",
-      "album": {
         "name": "Grieg : Peer Gynt Suites 1, 2 & Symphonic Dances",
         "url": "https://open.spotify.com/album/0jDwimSa57C39bletgnvSa"
       },
@@ -1063,6 +1039,30 @@
       "duration_ms": 324026,
       "name": "Grieg: 4 Symphonic Dances, Op. 64: III. Allegro giocoso",
       "url": "https://open.spotify.com/track/4Fn04fcS5Xrkg5AGaEYA0B"
+    },
+    {
+      "added_at": "2022-09-30 04:01:00",
+      "album": {
+        "name": "Grieg: Music for String Orchestra",
+        "url": "https://open.spotify.com/album/7c910A4HfOMLizy0El6vjc"
+      },
+      "artists": [
+        {
+          "name": "Edvard Grieg",
+          "url": "https://open.spotify.com/artist/5ihY290YPGc3aY2xTyx7Gy"
+        },
+        {
+          "name": "Malm\u00f6 Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/24TyvSlEEO55MTNEJo5VFc"
+        },
+        {
+          "name": "Bjarte Engeset",
+          "url": "https://open.spotify.com/artist/52qpSzpo16ijYC3yO2PK1d"
+        }
+      ],
+      "duration_ms": 251653,
+      "name": "2 Melodies, Op. 53 (version for orchestra): No. 2. Det forste mode (The First Meeting)",
+      "url": "https://open.spotify.com/track/43fd9XWup3L9E2PtH3k5EK"
     },
     {
       "added_at": "2022-09-30 04:01:00",

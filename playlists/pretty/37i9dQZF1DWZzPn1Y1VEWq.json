@@ -1,12 +1,12 @@
 {
   "description": "100 canciones de la \u00e9poca nost\u00e1lgica m\u00e1s reciente.",
-  "num_followers": 356780,
+  "num_followers": 356840,
   "original_name": "Los 2000 Argentina",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwNGUzYmNkMTRmZTBlNWVhMTk0NTY0MWQxZDg2MmI0OWY2YWVmNDI2",
+  "snapshot_id": "MCxmZDk1YzlmMGI5YmMzMWU4YTBhZmNlZThiOWFlZWRiZDU1YzY3NTdj",
   "tracks": [
     {
       "added_at": "2022-07-06 19:59:10",
@@ -107,22 +107,6 @@
     {
       "added_at": "2022-07-06 19:59:10",
       "album": {
-        "name": "Lo Mejor de Lo Mejor",
-        "url": "https://open.spotify.com/album/3u2Re7BVZxzrKZIsVkKSHn"
-      },
-      "artists": [
-        {
-          "name": "Amar Azul",
-          "url": "https://open.spotify.com/artist/04TVfWdJWbfH0FOT2zA1Tg"
-        }
-      ],
-      "duration_ms": 161239,
-      "name": "Yo Tomo Licor",
-      "url": "https://open.spotify.com/track/32KF7V0vpeKalBGxt2quBe"
-    },
-    {
-      "added_at": "2022-07-06 19:59:10",
-      "album": {
         "name": "Sigue Tu Camino",
         "url": "https://open.spotify.com/album/0RvMRxxQUVQp2jb3CIbg5g"
       },
@@ -135,6 +119,22 @@
       "duration_ms": 247453,
       "name": "Un Osito de Peluche de Taiw\u00e1n",
       "url": "https://open.spotify.com/track/6iCnJkKswtMYoSmT58HmEn"
+    },
+    {
+      "added_at": "2022-07-06 19:59:10",
+      "album": {
+        "name": "Lo Mejor de Lo Mejor",
+        "url": "https://open.spotify.com/album/3u2Re7BVZxzrKZIsVkKSHn"
+      },
+      "artists": [
+        {
+          "name": "Amar Azul",
+          "url": "https://open.spotify.com/artist/04TVfWdJWbfH0FOT2zA1Tg"
+        }
+      ],
+      "duration_ms": 161239,
+      "name": "Yo Tomo Licor",
+      "url": "https://open.spotify.com/track/32KF7V0vpeKalBGxt2quBe"
     },
     {
       "added_at": "2022-07-06 19:59:10",
@@ -207,22 +207,6 @@
     {
       "added_at": "2022-07-06 19:59:10",
       "album": {
-        "name": "Sigo Por El Objetivo",
-        "url": "https://open.spotify.com/album/2mDUQf0t9BfK4niWwr3Mdx"
-      },
-      "artists": [
-        {
-          "name": "El Polaco",
-          "url": "https://open.spotify.com/artist/3ucYybVr1mTuB04HtoBDCc"
-        }
-      ],
-      "duration_ms": 146240,
-      "name": "Deja De Llorar",
-      "url": "https://open.spotify.com/track/3tddzXTgneWrkV2cYNUBZe"
-    },
-    {
-      "added_at": "2022-07-06 19:59:10",
-      "album": {
         "name": "Raro",
         "url": "https://open.spotify.com/album/6evTdl2CjuBbkiCaXOKUKW"
       },
@@ -235,6 +219,22 @@
       "duration_ms": 254106,
       "name": "Yendo a la Casa de Dami\u00e1n",
       "url": "https://open.spotify.com/track/3tUk2PzTp8KCIU4cxstJq1"
+    },
+    {
+      "added_at": "2022-07-06 19:59:10",
+      "album": {
+        "name": "Sigo Por El Objetivo",
+        "url": "https://open.spotify.com/album/2mDUQf0t9BfK4niWwr3Mdx"
+      },
+      "artists": [
+        {
+          "name": "El Polaco",
+          "url": "https://open.spotify.com/artist/3ucYybVr1mTuB04HtoBDCc"
+        }
+      ],
+      "duration_ms": 146240,
+      "name": "Deja De Llorar",
+      "url": "https://open.spotify.com/track/3tddzXTgneWrkV2cYNUBZe"
     },
     {
       "added_at": "2022-07-06 19:59:10",
@@ -727,22 +727,6 @@
     {
       "added_at": "2022-07-06 19:59:10",
       "album": {
-        "name": "Cumbia Villera",
-        "url": "https://open.spotify.com/album/42K3CKzIBfuN9YnIZgLzmd"
-      },
-      "artists": [
-        {
-          "name": "Yerba Brava",
-          "url": "https://open.spotify.com/artist/7JRxvyluWYJ3M3ssmZrVs6"
-        }
-      ],
-      "duration_ms": 218680,
-      "name": "Pibe Cantina",
-      "url": "https://open.spotify.com/track/3d7pveUZGAg7wSSeL5nwNG"
-    },
-    {
-      "added_at": "2022-07-06 19:59:10",
-      "album": {
         "name": "Blanco y Negro",
         "url": "https://open.spotify.com/album/6MXrSUvZmjNuSCqOmRRkDw"
       },
@@ -755,6 +739,22 @@
       "duration_ms": 197386,
       "name": "Amor de verano",
       "url": "https://open.spotify.com/track/7rocqOEREl0vp5CRYTeZFv"
+    },
+    {
+      "added_at": "2022-07-06 19:59:10",
+      "album": {
+        "name": "Cumbia Villera",
+        "url": "https://open.spotify.com/album/42K3CKzIBfuN9YnIZgLzmd"
+      },
+      "artists": [
+        {
+          "name": "Yerba Brava",
+          "url": "https://open.spotify.com/artist/7JRxvyluWYJ3M3ssmZrVs6"
+        }
+      ],
+      "duration_ms": 218680,
+      "name": "Pibe Cantina",
+      "url": "https://open.spotify.com/track/3d7pveUZGAg7wSSeL5nwNG"
     },
     {
       "added_at": "2022-07-06 19:59:10",
@@ -823,22 +823,6 @@
     {
       "added_at": "2022-07-06 19:59:10",
       "album": {
-        "name": "Detonador de Sue\u00f1os",
-        "url": "https://open.spotify.com/album/7hHY77bNkcPikVZpC91hvZ"
-      },
-      "artists": [
-        {
-          "name": "La Renga",
-          "url": "https://open.spotify.com/artist/30fEdZPXgWfC4sNttcyB3C"
-        }
-      ],
-      "duration_ms": 264838,
-      "name": "La Raz\u00f3n Que Te Demora",
-      "url": "https://open.spotify.com/track/0ljyHIWERJQp8O5LKgKm1l"
-    },
-    {
-      "added_at": "2022-07-06 19:59:10",
-      "album": {
         "name": "Esp\u00edritu",
         "url": "https://open.spotify.com/album/2ZG0Q9JOUIcQGyDOFTAKYm"
       },
@@ -851,6 +835,22 @@
       "duration_ms": 202360,
       "name": "Chino",
       "url": "https://open.spotify.com/track/3i22RR1yUia5ShKujgQcX3"
+    },
+    {
+      "added_at": "2022-07-06 19:59:10",
+      "album": {
+        "name": "Detonador de Sue\u00f1os",
+        "url": "https://open.spotify.com/album/7hHY77bNkcPikVZpC91hvZ"
+      },
+      "artists": [
+        {
+          "name": "La Renga",
+          "url": "https://open.spotify.com/artist/30fEdZPXgWfC4sNttcyB3C"
+        }
+      ],
+      "duration_ms": 264838,
+      "name": "La Raz\u00f3n Que Te Demora",
+      "url": "https://open.spotify.com/track/0ljyHIWERJQp8O5LKgKm1l"
     },
     {
       "added_at": "2022-07-06 19:59:10",
@@ -919,6 +919,22 @@
     {
       "added_at": "2022-07-06 19:59:10",
       "album": {
+        "name": "Despedazado Por Mil Partes",
+        "url": "https://open.spotify.com/album/0eH6ICTcUbNqjplgRISQEg"
+      },
+      "artists": [
+        {
+          "name": "La Renga",
+          "url": "https://open.spotify.com/artist/30fEdZPXgWfC4sNttcyB3C"
+        }
+      ],
+      "duration_ms": 248400,
+      "name": "Veneno",
+      "url": "https://open.spotify.com/track/3qSsdVel7dNcpW4khZejHa"
+    },
+    {
+      "added_at": "2022-07-06 19:59:10",
+      "album": {
         "name": "Un Fen\u00f3meno Natural",
         "url": "https://open.spotify.com/album/1kGqRwzx7Z0519BTQigZxy"
       },
@@ -963,22 +979,6 @@
       "duration_ms": 253933,
       "name": "El Farolito",
       "url": "https://open.spotify.com/track/5QpdTr2fHXLF0Oj8TcGHmV"
-    },
-    {
-      "added_at": "2022-07-06 19:59:10",
-      "album": {
-        "name": "Despedazado Por Mil Partes",
-        "url": "https://open.spotify.com/album/0eH6ICTcUbNqjplgRISQEg"
-      },
-      "artists": [
-        {
-          "name": "La Renga",
-          "url": "https://open.spotify.com/artist/30fEdZPXgWfC4sNttcyB3C"
-        }
-      ],
-      "duration_ms": 248400,
-      "name": "Veneno",
-      "url": "https://open.spotify.com/track/3qSsdVel7dNcpW4khZejHa"
     },
     {
       "added_at": "2022-07-06 19:59:10",
@@ -1127,22 +1127,6 @@
     {
       "added_at": "2022-07-06 19:59:10",
       "album": {
-        "name": "100% Negro Cumbiero",
-        "url": "https://open.spotify.com/album/1sbZFQTIJl41nnRvXYI4gf"
-      },
-      "artists": [
-        {
-          "name": "Damas Gratis",
-          "url": "https://open.spotify.com/artist/3YeBTR1Q1rUxKguz4jP6UV"
-        }
-      ],
-      "duration_ms": 212253,
-      "name": "El humo de mi fasito",
-      "url": "https://open.spotify.com/track/0afBIRqOPTLPNHzRMPLEf0"
-    },
-    {
-      "added_at": "2022-07-06 19:59:10",
-      "album": {
         "name": "De La Cabeza Con Bersuit Vergarabat (Live In Buenos Aires / 2001)",
         "url": "https://open.spotify.com/album/7xdsaV2y15dItFMlsoWTqu"
       },
@@ -1171,6 +1155,22 @@
       "duration_ms": 277318,
       "name": "Insisto",
       "url": "https://open.spotify.com/track/0yCKreevOzN7ekcw7e4PuS"
+    },
+    {
+      "added_at": "2022-07-06 19:59:10",
+      "album": {
+        "name": "100% Negro Cumbiero",
+        "url": "https://open.spotify.com/album/1sbZFQTIJl41nnRvXYI4gf"
+      },
+      "artists": [
+        {
+          "name": "Damas Gratis",
+          "url": "https://open.spotify.com/artist/3YeBTR1Q1rUxKguz4jP6UV"
+        }
+      ],
+      "duration_ms": 212253,
+      "name": "El humo de mi fasito",
+      "url": "https://open.spotify.com/track/0afBIRqOPTLPNHzRMPLEf0"
     },
     {
       "added_at": "2022-07-06 19:59:10",
@@ -1243,18 +1243,18 @@
     {
       "added_at": "2022-07-06 19:59:10",
       "album": {
-        "name": "Parulo",
-        "url": "https://open.spotify.com/album/00A8Fwcno8bR8PghDYmcv8"
+        "name": "El Bonaerense",
+        "url": "https://open.spotify.com/album/5A0jz6qj9yuxVpQxahbC0x"
       },
       "artists": [
         {
-          "name": "La Base",
-          "url": "https://open.spotify.com/artist/2WXllWJylpBWxIAHHcTEQ0"
+          "name": "Damas Gratis",
+          "url": "https://open.spotify.com/artist/3YeBTR1Q1rUxKguz4jP6UV"
         }
       ],
-      "duration_ms": 174053,
-      "name": "Sabros\u00f3n",
-      "url": "https://open.spotify.com/track/3i9RlCwMh2I0semxufRnyS"
+      "duration_ms": 263315,
+      "name": "Se Te Ve la Tanga",
+      "url": "https://open.spotify.com/track/3GUMMzUB7Kk0BSqxEDyieS"
     },
     {
       "added_at": "2022-07-06 19:59:10",
@@ -1275,22 +1275,6 @@
     {
       "added_at": "2022-07-06 19:59:10",
       "album": {
-        "name": "El Bonaerense",
-        "url": "https://open.spotify.com/album/5A0jz6qj9yuxVpQxahbC0x"
-      },
-      "artists": [
-        {
-          "name": "Damas Gratis",
-          "url": "https://open.spotify.com/artist/3YeBTR1Q1rUxKguz4jP6UV"
-        }
-      ],
-      "duration_ms": 263315,
-      "name": "Se Te Ve la Tanga",
-      "url": "https://open.spotify.com/track/3GUMMzUB7Kk0BSqxEDyieS"
-    },
-    {
-      "added_at": "2022-07-06 19:59:10",
-      "album": {
         "name": "Testosterona",
         "url": "https://open.spotify.com/album/4b9r4ceZWynWCxOtJGp6VC"
       },
@@ -1303,6 +1287,22 @@
       "duration_ms": 307306,
       "name": "Sencillamente",
       "url": "https://open.spotify.com/track/3tPGzLQOB9GnSisO0l4tGW"
+    },
+    {
+      "added_at": "2022-07-06 19:59:10",
+      "album": {
+        "name": "Parulo",
+        "url": "https://open.spotify.com/album/00A8Fwcno8bR8PghDYmcv8"
+      },
+      "artists": [
+        {
+          "name": "La Base",
+          "url": "https://open.spotify.com/artist/2WXllWJylpBWxIAHHcTEQ0"
+        }
+      ],
+      "duration_ms": 174053,
+      "name": "Sabros\u00f3n",
+      "url": "https://open.spotify.com/track/3i9RlCwMh2I0semxufRnyS"
     },
     {
       "added_at": "2022-07-06 19:59:10",
@@ -1483,22 +1483,6 @@
     {
       "added_at": "2022-07-06 19:59:10",
       "album": {
-        "name": "Pibes Chorros:Discograf\u00eda Completa Vol.1",
-        "url": "https://open.spotify.com/album/455BXTyu53QqEeFnStn2FP"
-      },
-      "artists": [
-        {
-          "name": "Los Pibes Chorros",
-          "url": "https://open.spotify.com/artist/3TINnlLcMBQA88OoalsvYR"
-        }
-      ],
-      "duration_ms": 308337,
-      "name": "Duraznito",
-      "url": "https://open.spotify.com/track/5tjqwBcn9WsaoaqS2oGJq2"
-    },
-    {
-      "added_at": "2022-07-06 19:59:10",
-      "album": {
         "name": "Jessico",
         "url": "https://open.spotify.com/album/2VMsGuuC4CDcyZ8qp7njWh"
       },
@@ -1511,6 +1495,22 @@
       "duration_ms": 225050,
       "name": "Rub\u00ed",
       "url": "https://open.spotify.com/track/2Dsv2vdCfLucFIoECqAK6U"
+    },
+    {
+      "added_at": "2022-07-06 19:59:10",
+      "album": {
+        "name": "Pibes Chorros:Discograf\u00eda Completa Vol.1",
+        "url": "https://open.spotify.com/album/455BXTyu53QqEeFnStn2FP"
+      },
+      "artists": [
+        {
+          "name": "Los Pibes Chorros",
+          "url": "https://open.spotify.com/artist/3TINnlLcMBQA88OoalsvYR"
+        }
+      ],
+      "duration_ms": 308337,
+      "name": "Duraznito",
+      "url": "https://open.spotify.com/track/5tjqwBcn9WsaoaqS2oGJq2"
     },
     {
       "added_at": "2022-07-06 19:59:10",
@@ -1595,22 +1595,6 @@
     {
       "added_at": "2022-07-06 19:59:10",
       "album": {
-        "name": "Pibes Chorros - Criando Cuervos",
-        "url": "https://open.spotify.com/album/4nMOd2K00P2kLWJj8FyFOs"
-      },
-      "artists": [
-        {
-          "name": "Los Pibes Chorros",
-          "url": "https://open.spotify.com/artist/3TINnlLcMBQA88OoalsvYR"
-        }
-      ],
-      "duration_ms": 193080,
-      "name": "La colorada",
-      "url": "https://open.spotify.com/track/6h7rsBRyWze6oa1idGeRrY"
-    },
-    {
-      "added_at": "2022-07-06 19:59:10",
-      "album": {
         "name": "Antihumano",
         "url": "https://open.spotify.com/album/3NsuNDcnIc0jAxpC9svIbz"
       },
@@ -1623,6 +1607,22 @@
       "duration_ms": 248386,
       "name": "Western",
       "url": "https://open.spotify.com/track/2UVXBlqRLUJD60L3unaMyS"
+    },
+    {
+      "added_at": "2022-07-06 19:59:10",
+      "album": {
+        "name": "Turfshow",
+        "url": "https://open.spotify.com/album/0znWJZ1tkHSKC94Ymxp2m7"
+      },
+      "artists": [
+        {
+          "name": "Turf",
+          "url": "https://open.spotify.com/artist/0Zncosr79q01riJYbSBNA1"
+        }
+      ],
+      "duration_ms": 224293,
+      "name": "Cuatro Personalidades",
+      "url": "https://open.spotify.com/track/1kTLi5AdnjOWyJg7oJmi52"
     }
   ],
   "unique_name": "Los 2000 Argentina",

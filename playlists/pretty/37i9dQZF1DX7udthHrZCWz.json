@@ -1,12 +1,12 @@
 {
   "description": "Unwind to these easy classics from the 2010s...",
-  "num_followers": 285301,
+  "num_followers": 285407,
   "original_name": "Easy 10s",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4MzllYjIyY2RhNzgwOWEzMGIxOTE3YTJlMTdhMjA5ZWRmYzIxY2Uw",
+  "snapshot_id": "MCw0ZTk5Nzc5MjNkZDhmNDY0YTM4NTk2Mzg0NTRmZmRhYzhmNWU2MmFj",
   "tracks": [
     {
       "added_at": "2023-10-17 15:51:21",
@@ -1111,6 +1111,22 @@
     {
       "added_at": "2023-10-17 15:51:21",
       "album": {
+        "name": "Politics of Living",
+        "url": "https://open.spotify.com/album/1ITjhViDumL9llxAJYdKiC"
+      },
+      "artists": [
+        {
+          "name": "Kodaline",
+          "url": "https://open.spotify.com/artist/4BxCuXFJrSWGi1KHcVqaU4"
+        }
+      ],
+      "duration_ms": 203186,
+      "name": "Brother",
+      "url": "https://open.spotify.com/track/65gLJGey4u4KFFqoC5fzFJ"
+    },
+    {
+      "added_at": "2023-10-17 15:51:21",
+      "album": {
         "name": "Some Nights",
         "url": "https://open.spotify.com/album/7iycyHwOW2plljYIK6I1Zo"
       },
@@ -1127,22 +1143,6 @@
       "duration_ms": 250626,
       "name": "We Are Young (feat. Janelle Mon\u00e1e)",
       "url": "https://open.spotify.com/track/7a86XRg84qjasly9f6bPSD"
-    },
-    {
-      "added_at": "2023-10-17 15:51:21",
-      "album": {
-        "name": "Politics of Living",
-        "url": "https://open.spotify.com/album/1ITjhViDumL9llxAJYdKiC"
-      },
-      "artists": [
-        {
-          "name": "Kodaline",
-          "url": "https://open.spotify.com/artist/4BxCuXFJrSWGi1KHcVqaU4"
-        }
-      ],
-      "duration_ms": 203186,
-      "name": "Brother",
-      "url": "https://open.spotify.com/track/65gLJGey4u4KFFqoC5fzFJ"
     },
     {
       "added_at": "2023-10-17 15:51:21",

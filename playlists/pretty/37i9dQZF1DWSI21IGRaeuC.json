@@ -1,12 +1,12 @@
 {
   "description": "Dive into the deep end of the tech house spectrum.",
-  "num_followers": 27277,
+  "num_followers": 27342,
   "original_name": "Minimal Tech",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwN2JkZDg1MmRmN2RjMmE2ODQwNTYxNzk5ZmIyMTYyNmI3MWZhZmY4",
+  "snapshot_id": "MCwxZmQ1MDNmMGY1NTU0Yjc4NWJhMGEyZjIwNWFjODFlN2FhZjQ5NjIx",
   "tracks": [
     {
       "added_at": "2023-10-13 04:00:00",
@@ -831,18 +831,18 @@
     {
       "added_at": "2023-10-13 04:00:00",
       "album": {
-        "name": "I Am Somebody",
-        "url": "https://open.spotify.com/album/1G3BKcXKXfUaZ3qz8lNsWv"
+        "name": "Rudeboi",
+        "url": "https://open.spotify.com/album/3aFcW1f1Deq9F7cwJDkbd5"
       },
       "artists": [
         {
-          "name": "Technasia",
-          "url": "https://open.spotify.com/artist/0rnKlPis7AQgoIe2NEVWa5"
+          "name": "Eli Brown",
+          "url": "https://open.spotify.com/artist/5lVNSw2GPci8kebrAQpZqU"
         }
       ],
-      "duration_ms": 417145,
-      "name": "I Am Somebody",
-      "url": "https://open.spotify.com/track/75EaT3OH1MdJxKT1ZUsNK0"
+      "duration_ms": 181054,
+      "name": "Rudeboi",
+      "url": "https://open.spotify.com/track/3oUkoGYPWVxt3NrohcoMHY"
     },
     {
       "added_at": "2023-10-13 04:00:00",
@@ -863,18 +863,18 @@
     {
       "added_at": "2023-10-13 04:00:00",
       "album": {
-        "name": "Rudeboi",
-        "url": "https://open.spotify.com/album/3aFcW1f1Deq9F7cwJDkbd5"
+        "name": "I Am Somebody",
+        "url": "https://open.spotify.com/album/1G3BKcXKXfUaZ3qz8lNsWv"
       },
       "artists": [
         {
-          "name": "Eli Brown",
-          "url": "https://open.spotify.com/artist/5lVNSw2GPci8kebrAQpZqU"
+          "name": "Technasia",
+          "url": "https://open.spotify.com/artist/0rnKlPis7AQgoIe2NEVWa5"
         }
       ],
-      "duration_ms": 181054,
-      "name": "Rudeboi",
-      "url": "https://open.spotify.com/track/3oUkoGYPWVxt3NrohcoMHY"
+      "duration_ms": 417145,
+      "name": "I Am Somebody",
+      "url": "https://open.spotify.com/track/75EaT3OH1MdJxKT1ZUsNK0"
     },
     {
       "added_at": "2023-10-13 04:00:00",
@@ -1035,22 +1035,6 @@
     {
       "added_at": "2023-10-13 04:00:00",
       "album": {
-        "name": "Club Vibes Part 01",
-        "url": "https://open.spotify.com/album/03zo0uqSccDlJjgWfUT5zk"
-      },
-      "artists": [
-        {
-          "name": "Boris Brejcha",
-          "url": "https://open.spotify.com/artist/6caPJFLv1wesmM7gwK1ACy"
-        }
-      ],
-      "duration_ms": 518400,
-      "name": "Geh\u00f6rschadengenerator",
-      "url": "https://open.spotify.com/track/3NfeXbPEafvsiPtwq5huQX"
-    },
-    {
-      "added_at": "2023-10-13 04:00:00",
-      "album": {
         "name": "take notes. EP",
         "url": "https://open.spotify.com/album/4d1zqT0iOuJUG5ZLDGRvJN"
       },
@@ -1071,6 +1055,22 @@
     {
       "added_at": "2023-10-13 04:00:00",
       "album": {
+        "name": "Club Vibes Part 01",
+        "url": "https://open.spotify.com/album/03zo0uqSccDlJjgWfUT5zk"
+      },
+      "artists": [
+        {
+          "name": "Boris Brejcha",
+          "url": "https://open.spotify.com/artist/6caPJFLv1wesmM7gwK1ACy"
+        }
+      ],
+      "duration_ms": 518400,
+      "name": "Geh\u00f6rschadengenerator",
+      "url": "https://open.spotify.com/track/3NfeXbPEafvsiPtwq5huQX"
+    },
+    {
+      "added_at": "2023-10-13 04:00:00",
+      "album": {
         "name": "Bliss",
         "url": "https://open.spotify.com/album/6t0gCJ3EsuUoIeAZJ7XfgS"
       },
@@ -1083,30 +1083,6 @@
       "duration_ms": 220957,
       "name": "Bliss",
       "url": "https://open.spotify.com/track/1Rrn1xTm9PP6bRWoCJ9CiG"
-    },
-    {
-      "added_at": "2023-10-13 04:00:00",
-      "album": {
-        "name": "Targa (Logic1000 Remix)",
-        "url": "https://open.spotify.com/album/6kpoHaj6R6DbN8Y2nSxZlo"
-      },
-      "artists": [
-        {
-          "name": "Niia",
-          "url": "https://open.spotify.com/artist/1KlUwB6uFECMC3zzvFvykx"
-        },
-        {
-          "name": "Ian Isiah",
-          "url": "https://open.spotify.com/artist/0ldPEI4BOt8w3oBG9zhEPI"
-        },
-        {
-          "name": "Logic1000",
-          "url": "https://open.spotify.com/artist/2EFsfh1zewsSWhDINv7j1I"
-        }
-      ],
-      "duration_ms": 215642,
-      "name": "Targa - Logic1000 Remix",
-      "url": "https://open.spotify.com/track/6Q9RgcT8pB3USUFjG9MY9s"
     },
     {
       "added_at": "2023-10-13 04:00:00",
@@ -1139,6 +1115,30 @@
       "duration_ms": 326357,
       "name": "Supermodel Thick",
       "url": "https://open.spotify.com/track/4czwcLS8x96vBcCDAFBeKv"
+    },
+    {
+      "added_at": "2023-10-13 04:00:00",
+      "album": {
+        "name": "Targa (Logic1000 Remix)",
+        "url": "https://open.spotify.com/album/6kpoHaj6R6DbN8Y2nSxZlo"
+      },
+      "artists": [
+        {
+          "name": "Niia",
+          "url": "https://open.spotify.com/artist/1KlUwB6uFECMC3zzvFvykx"
+        },
+        {
+          "name": "Ian Isiah",
+          "url": "https://open.spotify.com/artist/0ldPEI4BOt8w3oBG9zhEPI"
+        },
+        {
+          "name": "Logic1000",
+          "url": "https://open.spotify.com/artist/2EFsfh1zewsSWhDINv7j1I"
+        }
+      ],
+      "duration_ms": 215642,
+      "name": "Targa - Logic1000 Remix",
+      "url": "https://open.spotify.com/track/6Q9RgcT8pB3USUFjG9MY9s"
     },
     {
       "added_at": "2023-10-13 04:00:00",
@@ -1233,26 +1233,6 @@
       "url": "https://open.spotify.com/track/0aIY7EW39FmWoMugq4zGr0"
     },
     {
-      "added_at": "2023-10-13 04:00:00",
-      "album": {
-        "name": "Thrill Me (LO'99 Remix)",
-        "url": "https://open.spotify.com/album/3EK4iKouxMfsNlD8EXAUGj"
-      },
-      "artists": [
-        {
-          "name": "Junior Jack",
-          "url": "https://open.spotify.com/artist/583EYzsIVCz1HsEKZbuJ1k"
-        },
-        {
-          "name": "LO'99",
-          "url": "https://open.spotify.com/artist/1kk6o5FDlujcgz2d2iFXKy"
-        }
-      ],
-      "duration_ms": 186018,
-      "name": "Thrill Me - LO'99 Remix",
-      "url": "https://open.spotify.com/track/0AiLHyJny7YiQ0GT8jCbdR"
-    },
-    {
       "added_at": "2023-10-13 17:10:28",
       "album": {
         "name": "Take",
@@ -1283,6 +1263,26 @@
       "duration_ms": 344000,
       "name": "Picante",
       "url": "https://open.spotify.com/track/5xjNoD2MFDh3YdF0RrBai1"
+    },
+    {
+      "added_at": "2023-10-13 04:00:00",
+      "album": {
+        "name": "Thrill Me (LO'99 Remix)",
+        "url": "https://open.spotify.com/album/3EK4iKouxMfsNlD8EXAUGj"
+      },
+      "artists": [
+        {
+          "name": "Junior Jack",
+          "url": "https://open.spotify.com/artist/583EYzsIVCz1HsEKZbuJ1k"
+        },
+        {
+          "name": "LO'99",
+          "url": "https://open.spotify.com/artist/1kk6o5FDlujcgz2d2iFXKy"
+        }
+      ],
+      "duration_ms": 186018,
+      "name": "Thrill Me - LO'99 Remix",
+      "url": "https://open.spotify.com/track/0AiLHyJny7YiQ0GT8jCbdR"
     },
     {
       "added_at": "2023-10-13 04:00:00",
@@ -1343,22 +1343,6 @@
     {
       "added_at": "2023-10-13 04:00:00",
       "album": {
-        "name": "Gozar",
-        "url": "https://open.spotify.com/album/5AQeJCMWPNAPw8wPmZlqUW"
-      },
-      "artists": [
-        {
-          "name": "Paskman",
-          "url": "https://open.spotify.com/artist/70s7RdFqr3UEBlooMGUQdO"
-        }
-      ],
-      "duration_ms": 204384,
-      "name": "Gozar",
-      "url": "https://open.spotify.com/track/5pwPJceEvQK9B41jCZ7HD1"
-    },
-    {
-      "added_at": "2023-10-13 04:00:00",
-      "album": {
         "name": "Strung Up",
         "url": "https://open.spotify.com/album/66FblVKMFIsHhvIB6mRt5p"
       },
@@ -1371,6 +1355,22 @@
       "duration_ms": 200625,
       "name": "Strung Up",
       "url": "https://open.spotify.com/track/6vOr19HgqGzzCMv040ePVq"
+    },
+    {
+      "added_at": "2023-10-13 04:00:00",
+      "album": {
+        "name": "Gozar",
+        "url": "https://open.spotify.com/album/5AQeJCMWPNAPw8wPmZlqUW"
+      },
+      "artists": [
+        {
+          "name": "Paskman",
+          "url": "https://open.spotify.com/artist/70s7RdFqr3UEBlooMGUQdO"
+        }
+      ],
+      "duration_ms": 204384,
+      "name": "Gozar",
+      "url": "https://open.spotify.com/track/5pwPJceEvQK9B41jCZ7HD1"
     },
     {
       "added_at": "2023-10-13 04:00:00",
@@ -1523,6 +1523,22 @@
     {
       "added_at": "2023-10-13 04:00:00",
       "album": {
+        "name": "TRiPPPY",
+        "url": "https://open.spotify.com/album/5iRqBscsuyaj50XKN6xAvQ"
+      },
+      "artists": [
+        {
+          "name": "Cour T.",
+          "url": "https://open.spotify.com/artist/2800ldRznHIt29Q3cUdU5o"
+        }
+      ],
+      "duration_ms": 330000,
+      "name": "TRiPPPY",
+      "url": "https://open.spotify.com/track/7prJ30LIy445yr1uzsy9Lr"
+    },
+    {
+      "added_at": "2023-10-13 04:00:00",
+      "album": {
         "name": "Tears In Berghain EP",
         "url": "https://open.spotify.com/album/7ez8S0rG2f4hec5NIJOaWY"
       },
@@ -1543,22 +1559,6 @@
     {
       "added_at": "2023-10-13 04:00:00",
       "album": {
-        "name": "TRiPPPY",
-        "url": "https://open.spotify.com/album/5iRqBscsuyaj50XKN6xAvQ"
-      },
-      "artists": [
-        {
-          "name": "Cour T.",
-          "url": "https://open.spotify.com/artist/2800ldRznHIt29Q3cUdU5o"
-        }
-      ],
-      "duration_ms": 330000,
-      "name": "TRiPPPY",
-      "url": "https://open.spotify.com/track/7prJ30LIy445yr1uzsy9Lr"
-    },
-    {
-      "added_at": "2023-10-13 04:00:00",
-      "album": {
         "name": "Satellite",
         "url": "https://open.spotify.com/album/6oFLCjftoYaWOsNuXZW8xa"
       },
@@ -1575,18 +1575,18 @@
     {
       "added_at": "2023-10-13 04:00:00",
       "album": {
-        "name": "LOL",
-        "url": "https://open.spotify.com/album/5TnjkmrtNYmN4sURWdEGbX"
+        "name": "Hydroponic EP",
+        "url": "https://open.spotify.com/album/0wmLrDb6pibDQtAtWFvB4P"
       },
       "artists": [
         {
-          "name": "Marco Strous",
-          "url": "https://open.spotify.com/artist/56HtyYJoZvYc5aVdqDd94i"
+          "name": "Dennis Cruz",
+          "url": "https://open.spotify.com/artist/27mWOSZjlpmtoqsRjRwQyu"
         }
       ],
-      "duration_ms": 321818,
-      "name": "LOL",
-      "url": "https://open.spotify.com/track/4UneXzywX6fsUZv4v4pflY"
+      "duration_ms": 434000,
+      "name": "Hydroponic",
+      "url": "https://open.spotify.com/track/2DxIgWLfSqB8kfmPql4Hg8"
     },
     {
       "added_at": "2023-10-13 04:00:00",
@@ -1607,18 +1607,18 @@
     {
       "added_at": "2023-10-13 04:00:00",
       "album": {
-        "name": "Hydroponic EP",
-        "url": "https://open.spotify.com/album/0wmLrDb6pibDQtAtWFvB4P"
+        "name": "LOL",
+        "url": "https://open.spotify.com/album/5TnjkmrtNYmN4sURWdEGbX"
       },
       "artists": [
         {
-          "name": "Dennis Cruz",
-          "url": "https://open.spotify.com/artist/27mWOSZjlpmtoqsRjRwQyu"
+          "name": "Marco Strous",
+          "url": "https://open.spotify.com/artist/56HtyYJoZvYc5aVdqDd94i"
         }
       ],
-      "duration_ms": 434000,
-      "name": "Hydroponic",
-      "url": "https://open.spotify.com/track/2DxIgWLfSqB8kfmPql4Hg8"
+      "duration_ms": 321818,
+      "name": "LOL",
+      "url": "https://open.spotify.com/track/4UneXzywX6fsUZv4v4pflY"
     },
     {
       "added_at": "2023-10-13 04:00:00",
@@ -1671,6 +1671,22 @@
     {
       "added_at": "2023-10-13 04:00:00",
       "album": {
+        "name": "Rok The House",
+        "url": "https://open.spotify.com/album/03T4gaOwcdDyEkmznuaYq1"
+      },
+      "artists": [
+        {
+          "name": "Ben Sterling",
+          "url": "https://open.spotify.com/artist/79uJoLQkQ621xZy7MyH4uL"
+        }
+      ],
+      "duration_ms": 255000,
+      "name": "Rok The House",
+      "url": "https://open.spotify.com/track/1A6KKdSY4hpCBqJOmeQEWQ"
+    },
+    {
+      "added_at": "2023-10-13 04:00:00",
+      "album": {
         "name": "A Walk In The Park (Moodymann Remix)",
         "url": "https://open.spotify.com/album/17lrQ0gDXaJh5RvtFWlE6u"
       },
@@ -1687,22 +1703,6 @@
       "duration_ms": 322560,
       "name": "A Walk In The Park - Moodymann Remix",
       "url": "https://open.spotify.com/track/4L1cTkm5pw0OluxjVVYZF9"
-    },
-    {
-      "added_at": "2023-10-13 04:00:00",
-      "album": {
-        "name": "Rok The House",
-        "url": "https://open.spotify.com/album/03T4gaOwcdDyEkmznuaYq1"
-      },
-      "artists": [
-        {
-          "name": "Ben Sterling",
-          "url": "https://open.spotify.com/artist/79uJoLQkQ621xZy7MyH4uL"
-        }
-      ],
-      "duration_ms": 255000,
-      "name": "Rok The House",
-      "url": "https://open.spotify.com/track/1A6KKdSY4hpCBqJOmeQEWQ"
     },
     {
       "added_at": "2023-10-13 04:00:00",

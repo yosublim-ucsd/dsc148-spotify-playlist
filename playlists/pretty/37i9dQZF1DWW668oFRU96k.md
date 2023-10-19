@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW668oFRU96k.md) - [plain]
 
 > A selection of new, quality electro sounds from your favorite EDM acts! Cover: Robin Schulz x Rita Ora x Tiago PZK
 
-[Spotify](https://open.spotify.com/user/spotify) - 197,407 likes - 78 songs - 3 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 197,448 likes - 78 songs - 3 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -87,4 +87,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW668oFRU96k.md) - [plain]
 | 77 | [All The Things She Said](https://open.spotify.com/track/3a5VAKV2lXI2x2jQEgrX3B) | [Sam Feldt](https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf) | [All The Things She Said](https://open.spotify.com/album/6RaqLOaAQCJhhhn9xvTT9T) | 2:49 |
 | 78 | [Location](https://open.spotify.com/track/2FBTSfQJOLt4btsvhbC7NH) | [Cheat Codes](https://open.spotify.com/artist/7DMveApC7UnC2NPfPvlHSU), [A7S](https://open.spotify.com/artist/5Wg2b4Mp42gicxEeDNawf7) | [Location](https://open.spotify.com/album/6s94PA4PE2tymla2Jr8Q3O) | 2:22 |
 
-Snapshot ID: `MCxmYjUzY2FmNjQ4NTQ2NjNkOThmNTk0NzM1MTVkY2IwYjQyZTI5MTM4`
+Snapshot ID: `MCxiMjk3ODNlZDZkY2Y0ZmQwZDVjMTBkOGZjZjNlOGRhMmU5ZjkxYjA5`

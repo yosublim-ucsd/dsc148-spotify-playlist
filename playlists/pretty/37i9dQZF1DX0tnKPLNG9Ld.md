@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0tnKPLNG9Ld.md) - [plain]
 
 > Blue skies, nothing but blue skies\. Sun in your eyes and uplifting jazz in your ears on a sunny day.
 
-[Spotify](https://open.spotify.com/user/spotify) - 74,638 likes - 87 songs - 4 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 74,698 likes - 87 songs - 4 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,8 +35,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0tnKPLNG9Ld.md) - [plain]
 | 25 | [Beautiful Love](https://open.spotify.com/track/3lXgCSYCH9wCTHHLnpBzig) | [Anita O'Day](https://open.spotify.com/artist/5QGnprJtpZmk3OiDqspPlB) | [Anita](https://open.spotify.com/album/5ytkuJciMwGDXwQeLWbHCw) | 2:40 |
 | 26 | [You Couldn't Be Cuter](https://open.spotify.com/track/5wK0I2nGDosuttrhkVHZnO) | [Margaret Whiting](https://open.spotify.com/artist/5ZGDxHhju6eE8ja4IyGe87) | [Sings The Jerome Kern Song Book, Vol.1 & 2](https://open.spotify.com/album/7lK3JDdKHJGdKZcTFodGcd) | 2:02 |
 | 27 | [\(How Little It Matters\) How Little We Know](https://open.spotify.com/track/48SsJI70wRwQkndkebmLAd) | [Chris Connor](https://open.spotify.com/artist/5Q6PVXflC7LKN42bYupRJQ) | [Witchcraft](https://open.spotify.com/album/627o8XOKXILmclV1xIOXPH) | 2:36 |
-| 28 | [Alright, Okay, You Win](https://open.spotify.com/track/024nBbxvX3NpCbrw5XZW3B) | [Count Basie](https://open.spotify.com/artist/2jFZlvIea42ZvcCw4OeEdA), [Joe Williams](https://open.spotify.com/artist/7FMGtucexJvUxVz7scydEL) | [Count Basie Swings \- Joe Williams Sings](https://open.spotify.com/album/4ZNICkebqBbvXNZmBTUcq5) | 3:02 |
-| 29 | [Bossa Antigua](https://open.spotify.com/track/5kapVb34raTBsynt0Zj6qw) | [Paul Desmond](https://open.spotify.com/artist/68l2i6GeNtwQlhKS59u5bu) | [Bossa Antigua](https://open.spotify.com/album/620p4tcAC1PAmDUY8Vk5KT) | 4:42 |
+| 28 | [Bossa Antigua](https://open.spotify.com/track/5kapVb34raTBsynt0Zj6qw) | [Paul Desmond](https://open.spotify.com/artist/68l2i6GeNtwQlhKS59u5bu) | [Bossa Antigua](https://open.spotify.com/album/620p4tcAC1PAmDUY8Vk5KT) | 4:42 |
+| 29 | [Alright, Okay, You Win](https://open.spotify.com/track/024nBbxvX3NpCbrw5XZW3B) | [Count Basie](https://open.spotify.com/artist/2jFZlvIea42ZvcCw4OeEdA), [Joe Williams](https://open.spotify.com/artist/7FMGtucexJvUxVz7scydEL) | [Count Basie Swings \- Joe Williams Sings](https://open.spotify.com/album/4ZNICkebqBbvXNZmBTUcq5) | 3:02 |
 | 30 | [You Make Me Feel so Young](https://open.spotify.com/track/08RnPHoZRQr6BuD92JRvkk) | [Rosemary Clooney](https://open.spotify.com/artist/0NkyXWGxE3WTFixDSJ39PK) | [The Essential Rosemary Clooney](https://open.spotify.com/album/6IIfhQA1oHBvHGJQZnbXfP) | 2:52 |
 | 31 | [It's A Big Wide Wonderful World](https://open.spotify.com/track/7viOK0TULHr1y8RU1K0R0s) | [Betty Carter](https://open.spotify.com/artist/6HB1MchEEMg40EisSJuenZ) | [Inside Betty Carter](https://open.spotify.com/album/3rFnwsVrrSYZQsCGTkOT7W) | 1:50 |
 | 32 | [Cannonball](https://open.spotify.com/track/1jWOaHSKT7CUcBuLdIcOTp) | [Cannonball Adderley](https://open.spotify.com/artist/5v74mT11KGJqadf9sLw4dA) | [Julian "Cannonball" Adderley](https://open.spotify.com/album/18JHKcwCBtOfCGmOB7hXx8) | 4:14 |
@@ -82,8 +82,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0tnKPLNG9Ld.md) - [plain]
 | 72 | [People Will Say We're In Love](https://open.spotify.com/track/2aFhRDBzWZd1KG0OJ8caM4) | [Sammy Davis Jr.](https://open.spotify.com/artist/1NAWG3AngjBXyKbmPaz92D), [Carmen McRae](https://open.spotify.com/artist/2E3nXyfocf7qfHAIFNbBuj) | [Boy Meets Girl: Sammy Davis Jr\. And Carmen McRae On Decca](https://open.spotify.com/album/4UIxdcJmqo5Qnqs1tLC2Ge) | 3:16 |
 | 73 | [Between The Devil And The Deep Blue Sea](https://open.spotify.com/track/6INVoNpTuZ2Uqi588Y5Fi2) | [Blossom Dearie](https://open.spotify.com/artist/5bWApG9Vdshhd1J50UnNf6) | [Whisper For You](https://open.spotify.com/album/6bF3D6lN2SkAH0ZGaWccd7) | 2:26 |
 | 74 | [If I Were a Bell \- 2004 Remaster](https://open.spotify.com/track/6NbhLHh6FaSZJheJMdrKcF) | [Shirley Bassey](https://open.spotify.com/artist/090VebphoycdEyH165iMqc) | [Shirley / Let's Face the Music](https://open.spotify.com/album/0D5WPntQovwI7mfrteZan6) | 2:54 |
-| 75 | [I Walk With Music](https://open.spotify.com/track/42yWxIFQxJ4JMFxV0cq2IR) | [Bill Charlap](https://open.spotify.com/artist/2QX8yUROOnWTSLFg4sZ9Gg) | [Stardust: The Music Of Hoagy Carmichael](https://open.spotify.com/album/13m4PuHeRYI7FyfSGmnTiT) | 5:00 |
-| 76 | [Jive At Six](https://open.spotify.com/track/21UJyo1YGUlm0G8BpaljTf) | [Ben Webster](https://open.spotify.com/artist/34W7ZCX0LZeJd8q6boKGOk) | [King Of The Tenors](https://open.spotify.com/album/2Lqk81OEcLDPxcY5ZGmB4v) | 4:11 |
+| 75 | [Jive At Six](https://open.spotify.com/track/21UJyo1YGUlm0G8BpaljTf) | [Ben Webster](https://open.spotify.com/artist/34W7ZCX0LZeJd8q6boKGOk) | [King Of The Tenors](https://open.spotify.com/album/2Lqk81OEcLDPxcY5ZGmB4v) | 4:11 |
+| 76 | [I Walk With Music](https://open.spotify.com/track/42yWxIFQxJ4JMFxV0cq2IR) | [Bill Charlap](https://open.spotify.com/artist/2QX8yUROOnWTSLFg4sZ9Gg) | [Stardust: The Music Of Hoagy Carmichael](https://open.spotify.com/album/13m4PuHeRYI7FyfSGmnTiT) | 5:00 |
 | 77 | [From This Moment On](https://open.spotify.com/track/3ueTT5Puo99bD1gRzuhf6H) | [Rosemary Clooney](https://open.spotify.com/artist/0NkyXWGxE3WTFixDSJ39PK) | [The Essential Rosemary Clooney](https://open.spotify.com/album/6IIfhQA1oHBvHGJQZnbXfP) | 1:48 |
 | 78 | [Hey There](https://open.spotify.com/track/1GEiJecIBYuVyhMaWE7X1y) | [Sammy Davis Jr.](https://open.spotify.com/artist/1NAWG3AngjBXyKbmPaz92D) | [A Treasury Of Golden Hits](https://open.spotify.com/album/5mrfc7SCLpfQG5IvrBzrby) | 2:56 |
 | 79 | [Sometimes I'm Happy](https://open.spotify.com/track/1aNyLvKxlaRcHq8qswscdo) | [Quincy Jones](https://open.spotify.com/artist/3rxIQc9kWT6Ueg4BhnOwRK) | [Jazz Abroad](https://open.spotify.com/album/1DWLdf4OEK96kgNNozY1i0) | 5:51 |
@@ -96,4 +96,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0tnKPLNG9Ld.md) - [plain]
 | 86 | [Deed I Do](https://open.spotify.com/track/0RqNcBJILvtCJH82auUnKs) | [Bing Crosby](https://open.spotify.com/artist/6ZjFtWeHP9XN7FeKSUe80S), [Buddy Bregman](https://open.spotify.com/artist/6t6zRn7Wo4ctJPVLNJlhOs) | [Bing Sings Whilst Bregman Swings](https://open.spotify.com/album/73o2GaqcTroIzxh7bggyrY) | 2:49 |
 | 87 | [Lulu's Back in Town](https://open.spotify.com/track/5BaWh0PA2TqGv2WOj9VZgK) | [Mel Tormé](https://open.spotify.com/artist/4X8QFzZ1HqwPfwDfyjtwXC), [The Marty Paich Dek\-tette](https://open.spotify.com/artist/3LKTSEL1dpa0iAUVZmikcr) | [Mel Tormé with the Marty Paich Dek\-Tette \(Remastered 2013\)](https://open.spotify.com/album/7jburawWwnKP2O2kGIbYp8) | 3:05 |
 
-Snapshot ID: `MCxhNzEzOGViNTI0MzdkNTc3NDdlOWM2OTQ0YjI1M2Q3OGNiMDIxOTMx`
+Snapshot ID: `MCwyZDkwZmZkOTQ4M2U1NzJmZGI1M2M4MGMwNDlkMTkwZmM4ZjEzM2Q5`

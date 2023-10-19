@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVpWZiQLVZtt.md) - [plain]
 
 > Pop Latino de los 80 y 90\. Canciones que quedarán para siempre\. Foto: Luis Miguel
 
-[Spotify](https://open.spotify.com/user/spotify) - 686,715 likes - 132 songs - 9 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 687,175 likes - 132 songs - 9 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -119,15 +119,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVpWZiQLVZtt.md) - [plain]
 | 109 | [Cuando Vuelvas](https://open.spotify.com/track/52s1L7krzR2JL4L1Vi7V3X) | [Paty Cantú](https://open.spotify.com/artist/7K9rdoOJSiKXoVXPlSkGKT) | [Cuando Vuelvas](https://open.spotify.com/album/3CR8IuxBLpzBR1vjS9ONkJ) | 3:13 |
 | 110 | [Eternamente Bella](https://open.spotify.com/track/6lc9YFwer6DdhhripRREJU) | [Alejandra Guzman](https://open.spotify.com/artist/7Hf9AwMO37bSdxHb0FBGmO) | [90's Pop en español](https://open.spotify.com/album/6PDoBVYoSWXq0Wu1fBf3vx) | 3:25 |
 | 111 | [No Te Preocupes](https://open.spotify.com/track/3sU8d9i91CGeKRJR7WAHwk) | [El Simbolo](https://open.spotify.com/artist/276SjaOhqPfWqk3eDTDrz3) | [Éxitos](https://open.spotify.com/album/39823i6I0X4cFWoCQPZWOd) | 3:58 |
-| 112 | [Cuando amas a alguien](https://open.spotify.com/track/6y0WVExahfEUTcU02CUcsV) | [César "Banana" Pueyrredón](https://open.spotify.com/artist/7MLo24EMMZaRATfZKpLS2i) | [Veinte años](https://open.spotify.com/album/7fdNzbZUhcQhZvU44FXS9E) | 3:33 |
-| 113 | [Candela](https://open.spotify.com/track/1SkrlJrTEbMP0UF1zBMZ1J) | [Noelia](https://open.spotify.com/artist/0uMBj1TX0cktGnVzLlgWux) | [Noelia](https://open.spotify.com/album/2slvRFExgEeUIYzb55N0h9) | 3:55 |
+| 112 | [Candela](https://open.spotify.com/track/1SkrlJrTEbMP0UF1zBMZ1J) | [Noelia](https://open.spotify.com/artist/0uMBj1TX0cktGnVzLlgWux) | [Noelia](https://open.spotify.com/album/2slvRFExgEeUIYzb55N0h9) | 3:55 |
+| 113 | [Cuando amas a alguien](https://open.spotify.com/track/6y0WVExahfEUTcU02CUcsV) | [César "Banana" Pueyrredón](https://open.spotify.com/artist/7MLo24EMMZaRATfZKpLS2i) | [Veinte años](https://open.spotify.com/album/7fdNzbZUhcQhZvU44FXS9E) | 3:33 |
 | 114 | [Bella Señora](https://open.spotify.com/track/3x9gN89nlVEX4ApABJIzWn) | [Emmanuel](https://open.spotify.com/artist/2DmYtFBKcxb3ajwWWgA576) | [Lo Esencial](https://open.spotify.com/album/3408cffIYt6jHl7PbQHJGa) | 4:40 |
 | 115 | [Rosalinda](https://open.spotify.com/track/4KufWaE6epxrctKlrfVsQh) | [Thalia](https://open.spotify.com/artist/23wEWD21D4TPYiJugoXmYb) | [Arrasando](https://open.spotify.com/album/2PA0R3BGC5ZGCAR6G23sqO) | 3:52 |
 | 116 | [Estamos Juntos](https://open.spotify.com/track/4cqTzKCPsDSWnfL1NqABVu) | [Diego Torres](https://open.spotify.com/artist/0LALueHEQunQ2d61fXGeZh) | [Diego Torres](https://open.spotify.com/album/1iORUN5udfrSa98iKDzgqR) | 3:42 |
 | 117 | [El Amor de Mi Vida](https://open.spotify.com/track/4fKaFKHZOaVhq53y5XAKZw) | [Eddie Sierra](https://open.spotify.com/artist/4QILOFSgMcb9gUF8GEkD3V) | [Esta Todo Bien](https://open.spotify.com/album/4aMAf7Se1qyHoDmV72cmb0) | 4:41 |
 | 118 | [A Escondidas](https://open.spotify.com/track/4qURp3b9IvKvtcv5ZQahmG) | [Emanuel Ortega](https://open.spotify.com/artist/1DbNO9pwS4AzYbWX367Pvg) | [Momentos](https://open.spotify.com/album/0Hj4TxCCSedmboBADrHDSV) | 3:51 |
-| 119 | [Me Va A Extranar](https://open.spotify.com/track/5Ml0IYpDy6UEedeRjNrUKC) | [Ricardo Montaner](https://open.spotify.com/artist/4uoz4FUMvpeyGClFTTDBsD) | [Un Toque De Misterio](https://open.spotify.com/album/0PMcCZRXynocHn2Sw9fhXh) | 4:16 |
-| 120 | [Lloraré Las Penas](https://open.spotify.com/track/0nub3NxxIMUJ56bBtM1sJ4) | [David Bisbal](https://open.spotify.com/artist/5gOJTI4TusSENizxhcG7jB) | [2En1](https://open.spotify.com/album/6RshuQDgpUFzXUPyUMD9RZ) | 4:00 |
+| 119 | [Lloraré Las Penas](https://open.spotify.com/track/0nub3NxxIMUJ56bBtM1sJ4) | [David Bisbal](https://open.spotify.com/artist/5gOJTI4TusSENizxhcG7jB) | [2En1](https://open.spotify.com/album/6RshuQDgpUFzXUPyUMD9RZ) | 4:00 |
+| 120 | [Me Va A Extranar](https://open.spotify.com/track/5Ml0IYpDy6UEedeRjNrUKC) | [Ricardo Montaner](https://open.spotify.com/artist/4uoz4FUMvpeyGClFTTDBsD) | [Un Toque De Misterio](https://open.spotify.com/album/0PMcCZRXynocHn2Sw9fhXh) | 4:16 |
 | 121 | [Muñecos de Papel](https://open.spotify.com/track/1OeN1DxQCgN4aXzuDur3Jk) | [Muñecos de Papel](https://open.spotify.com/artist/0HUl0nTNKGFqg1xW2tkNfw), [Sasha](https://open.spotify.com/artist/1wgaVwZ7CMHJLePpz82m5w), [Angélica Rivera](https://open.spotify.com/artist/7tnsdQReolt8180VHZg4GQ), [Bibi Gaytan](https://open.spotify.com/artist/4JRQ9qtp3PXMQuMhjZ506i), [Ricky](https://open.spotify.com/artist/33AGmBUNUsCVrQQTcVnTKg), [Pedro Fernández](https://open.spotify.com/artist/24dYJ8P3YuFihvMcElFUWh), [Erik Rubin](https://open.spotify.com/artist/43hb5av90CTCWFldaaTp7n) | [Muñecos de Papel](https://open.spotify.com/album/6Zdu0HL3JrErgHkbphRffB) | 3:46 |
 | 122 | [Entrégate](https://open.spotify.com/track/5fj3zNkXfOlrJGVcZBId6D) | [Luis Miguel](https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW) | [20 Años](https://open.spotify.com/album/3D9NENGfg4DFmYJrEaxRHd) | 4:23 |
 | 123 | [Suave](https://open.spotify.com/track/4p7XH4NhQ25iGYrrbg93gt) | [Luis Miguel](https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW) | [Aries](https://open.spotify.com/album/6UFAOiLDzOOt75eJhrhFNC) | 4:49 |
@@ -141,4 +141,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVpWZiQLVZtt.md) - [plain]
 | 131 | [Fuego Contra Fuego](https://open.spotify.com/track/6Sbzcag4QwyIRhMSpRmlLW) | [Ricky Martin](https://open.spotify.com/artist/7slfeZO9LsJbWgpkIoXBUJ) | [Ricky Martin](https://open.spotify.com/album/2RUhYJK4Ho2uDNhyZSJsOg) | 4:14 |
 | 132 | [Me Amaras](https://open.spotify.com/track/5ovv05x6qsMfipkdutRKbD) | [Ricky Martin](https://open.spotify.com/artist/7slfeZO9LsJbWgpkIoXBUJ) | [Me Amaras](https://open.spotify.com/album/5CgOx7gxM9Xv90PcF5JuTH) | 4:27 |
 
-Snapshot ID: `MCw3YTM1ZDg4MGM1MGFiMmNhY2NkOGQxOWQwZDFkYWNhNTBkMGE0ODc3`
+Snapshot ID: `MCxhNjEyY2JiYjBhNDZhZWI1NzE5NDE1MjZiNzY1YWEwZTZlYzk0YTVm`

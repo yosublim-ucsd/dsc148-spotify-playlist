@@ -4,7 +4,7 @@
 
 > ¡Baila esta cumbia! Los éxitos de Latinoamérica en un solo lugar\. Foto: Los Ángeles Azules
 
-151 songs - 9 hr 42 min
+152 songs - 9 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,7 +32,7 @@
 | [Cumbia Valledupar](https://open.spotify.com/track/7r2W5f8W70eGz2DlOD7S5g) | [Celso Piña](https://open.spotify.com/artist/6PmfbeAL7jAauFPNyQ5UPi), [Ronda Bogotá](https://open.spotify.com/artist/7843pz6oKe2jtcPew109fr) | [Cumbia Valledupar](https://open.spotify.com/album/3GZ1KTKbHZ5QFAXx0Thjtp) | 4:18 | 2021-09-14 | 2022-08-03 |
 | [Cómo Te Voy A Olvidar](https://open.spotify.com/track/51dNexiESqcJLsGLrmg1Nv) | [Los Ángeles Azules](https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW) | [Inolvidables](https://open.spotify.com/album/1v2KdMb9X99cCsdahjRD8Y) | 4:27 | 2021-09-14 |  |
 | [De quen chon](https://open.spotify.com/track/65zdTPcK0TnGzg6T5Hd3AO) | [Chico Che](https://open.spotify.com/artist/0OTssa9UMMb9qf6NxI3Ysx), [La Crisis](https://open.spotify.com/artist/4tFlOZDZ7DPc0X2Vinjh5R) | [El Ritmo De Chico Che Y La Crisis](https://open.spotify.com/album/5vZud9R730Mke578pFH3fD) | 2:47 | 2021-09-14 | 2022-07-07 |
-| [Debería Odiarte](https://open.spotify.com/track/5VhWTN08ZA9rPNBGmCuu6N) | [Noche de Brujas](https://open.spotify.com/artist/1bwsprbGyKx2vBbPAwVebl) | [Desnudos](https://open.spotify.com/album/3bPO3lMoj5AdStRso5Q2bH) | 3:28 | 2021-09-14 |  |
+| [Debería Odiarte](https://open.spotify.com/track/5VhWTN08ZA9rPNBGmCuu6N) | [Noche de Brujas](https://open.spotify.com/artist/1bwsprbGyKx2vBbPAwVebl) | [Desnudos](https://open.spotify.com/album/3bPO3lMoj5AdStRso5Q2bH) | 3:28 | 2021-09-14 | 2023-10-19 |
 | [Destilando Amor](https://open.spotify.com/track/1VL6n94ZDAHk3nwyqIGgTp) | [Aaron Y Su Grupo Ilusion](https://open.spotify.com/artist/1zVxAFV8uL5V816dzdHvYQ), [Cristian Castro](https://open.spotify.com/artist/2AZOALDIBORfbzKTuliwdJ) | [Destilando Amor](https://open.spotify.com/album/0jXhlN1DHW662aZCXUGxYH) | 3:37 | 2021-09-14 | 2022-07-29 |
 | [Destilando Amor](https://open.spotify.com/track/4aeteklsGBPXRfZPKN4NS5) | [Aaron Y Su Grupo Ilusion](https://open.spotify.com/artist/1zVxAFV8uL5V816dzdHvYQ), [Cristian Castro](https://open.spotify.com/artist/2AZOALDIBORfbzKTuliwdJ) | [Piel A Piel](https://open.spotify.com/album/0wY4TCOxdgOSvWimtb3iRA) | 3:39 | 2022-04-22 | 2022-08-13 |
 | [Dr\. Psiquiatra](https://open.spotify.com/track/7lcEnkQEdNzjGGswqrZu6V) | [Los Ángeles Azules](https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW), [Gloria Trevi](https://open.spotify.com/artist/1Db5GsIoVWYktPoD2nnPZZ) | [Esto Sí Es Cumbia](https://open.spotify.com/album/1ezTrrYQHb4QAsjw7uHZwG) | 3:22 | 2021-09-14 | 2022-07-27 |
@@ -117,6 +117,7 @@
 | [Nunca Es Suficiente](https://open.spotify.com/track/0HlMshB5JmZjPNbOuOgFHN) | [Los Ángeles Azules](https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW), [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp) | [Esto Sí Es Cumbia](https://open.spotify.com/album/1ezTrrYQHb4QAsjw7uHZwG) | 4:26 | 2021-09-14 | 2022-07-29 |
 | [Nunca Es Suficiente](https://open.spotify.com/track/63USmok1OioBzKuWGW9wAg) | [Los Ángeles Azules](https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW), [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp) | [Esto Sí Es Cumbia](https://open.spotify.com/album/3m1T3n3PcjlOoo4GfLGgkY) | 4:26 | 2022-04-22 |  |
 | [Nunca me Faltes](https://open.spotify.com/track/3YCcsuRdJArE4rsAG5V3sW) | [Antonio Rios](https://open.spotify.com/artist/7s652lD4v77szrPEfgMTBi) | [El Maestro](https://open.spotify.com/album/4gSWFSdQ5JnM0PCBlNvNiI) | 4:10 | 2022-08-12 | 2023-01-25 |
+| [Nunca me faltes](https://open.spotify.com/track/5XzVdBQbbexpDXQbwzxADj) | [Antonio Rios](https://open.spotify.com/artist/7s652lD4v77szrPEfgMTBi) | [El Maestro](https://open.spotify.com/album/4YZVnqO9i0znF8nk7DI8zK) | 4:13 | 2023-06-09 |  |
 | [Oasis De Amor](https://open.spotify.com/track/5dKcpH68xBgZ4E5vkNzGqa) | [Simba Musical](https://open.spotify.com/artist/2lxLwYbYnQZv7wkubtAq3J) | [Cumbias Bailables](https://open.spotify.com/album/3cckqFeX5tVXMUbhqd5ggA) | 3:00 | 2021-09-14 | 2022-03-17 |
 | [Oye](https://open.spotify.com/track/38UG6ZFOLKr6RSSeIQqEZ6) | [Margarita](https://open.spotify.com/artist/71YnddE01cKmoLCVG3E4e4), [La Sonora Dinamita](https://open.spotify.com/artist/13or1Wf6ipcvSIiurZATvw) | [Historia Musical de la Sonora Dinamita](https://open.spotify.com/album/3Csad1BdWIKnjb5rxzFscE) | 3:08 | 2021-09-14 | 2022-07-29 |
 | [Oye Mujer](https://open.spotify.com/track/5aLELbBB0Pa7TlGJJyBJo9) | [Raymix](https://open.spotify.com/artist/0hHT2BH7XTm3ZdZb6CX064), [Juanes](https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7) | [Oye Mujer](https://open.spotify.com/album/61g9r3DhCVt25gpz2FD1DD) | 4:12 | 2021-09-14 | 2022-11-13 |

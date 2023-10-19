@@ -1,12 +1,12 @@
 {
   "description": "A mix of punk rock to get you through your workout.",
-  "num_followers": 540832,
+  "num_followers": 540878,
   "original_name": "Punk Rock Workout",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlNDIwYjA1NDFjYjQzNDI3ZWU5M2YwZWNhZmUyMzRlMTBkMzM2ZTNi",
+  "snapshot_id": "MCxjMWRjZjM2NzRjY2NhNTM0NWRlODEzNWEwZDc3ZDJkYjM1NDc1ZjVi",
   "tracks": [
     {
       "added_at": "2020-11-20 21:27:18",
@@ -1453,6 +1453,22 @@
       "url": "https://open.spotify.com/track/77Ht6FFAeyHgKl6X87mnTk"
     },
     {
+      "added_at": "2020-11-20 21:27:18",
+      "album": {
+        "name": "Retrograde",
+        "url": "https://open.spotify.com/album/6mJvmCxB01yqOeiccLE7QU"
+      },
+      "artists": [
+        {
+          "name": "Point North",
+          "url": "https://open.spotify.com/artist/5Vp7LqcfAtx2U1RfIX8i7r"
+        }
+      ],
+      "duration_ms": 196363,
+      "name": "Never Coming Home",
+      "url": "https://open.spotify.com/track/0yNBLz1uAyx4FCxkdkQcqf"
+    },
+    {
       "added_at": "2021-07-08 22:59:55",
       "album": {
         "name": "Sticky",
@@ -1475,22 +1491,6 @@
     {
       "added_at": "2020-11-20 21:27:18",
       "album": {
-        "name": "Crisis Of Faith",
-        "url": "https://open.spotify.com/album/0xwYNuGTVa31IWnADrA3tb"
-      },
-      "artists": [
-        {
-          "name": "Billy Talent",
-          "url": "https://open.spotify.com/artist/08yf5A2nS4XEeNvabDXqyg"
-        }
-      ],
-      "duration_ms": 204076,
-      "name": "Reckless Paradise",
-      "url": "https://open.spotify.com/track/5DyopyvTi9Lt4Hpe1JGbD2"
-    },
-    {
-      "added_at": "2020-11-20 21:27:18",
-      "album": {
         "name": "Shapeshifter",
         "url": "https://open.spotify.com/album/1ljgNdyFCcnQxAbzejZrax"
       },
@@ -1507,18 +1507,18 @@
     {
       "added_at": "2020-11-20 21:27:18",
       "album": {
-        "name": "Retrograde",
-        "url": "https://open.spotify.com/album/6mJvmCxB01yqOeiccLE7QU"
+        "name": "Crisis Of Faith",
+        "url": "https://open.spotify.com/album/0xwYNuGTVa31IWnADrA3tb"
       },
       "artists": [
         {
-          "name": "Point North",
-          "url": "https://open.spotify.com/artist/5Vp7LqcfAtx2U1RfIX8i7r"
+          "name": "Billy Talent",
+          "url": "https://open.spotify.com/artist/08yf5A2nS4XEeNvabDXqyg"
         }
       ],
-      "duration_ms": 196363,
-      "name": "Never Coming Home",
-      "url": "https://open.spotify.com/track/0yNBLz1uAyx4FCxkdkQcqf"
+      "duration_ms": 204076,
+      "name": "Reckless Paradise",
+      "url": "https://open.spotify.com/track/5DyopyvTi9Lt4Hpe1JGbD2"
     },
     {
       "added_at": "2020-11-20 21:27:18",

@@ -41,6 +41,24 @@
     },
     {
       "album": {
+        "name": "4u",
+        "url": "https://open.spotify.com/album/0RkWVWCivVaatlwqwErefx"
+      },
+      "artists": [
+        {
+          "name": "RB Slatt",
+          "url": "https://open.spotify.com/artist/1mp3obA5hrR8GjHx95Wlrk"
+        }
+      ],
+      "date_added": "2023-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218536,
+      "name": "4u",
+      "url": "https://open.spotify.com/track/5KzreODVITXVze4HkoMhhZ"
+    },
+    {
+      "album": {
         "name": "ALABAMBANG",
         "url": "https://open.spotify.com/album/5Wlq2jyxmMzh0RceGkqmTb"
       },
@@ -389,6 +407,46 @@
     },
     {
       "album": {
+        "name": "Flyshit",
+        "url": "https://open.spotify.com/album/3NLlRiJZVzSS1read9nb7w"
+      },
+      "artists": [
+        {
+          "name": "LON Daniel",
+          "url": "https://open.spotify.com/artist/2oBLRRTHdxf7AeYRlaogfx"
+        },
+        {
+          "name": "Costa Cashman",
+          "url": "https://open.spotify.com/artist/5JSTkYzbFkLcx1vDw1RYxI"
+        }
+      ],
+      "date_added": "2023-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141259,
+      "name": "Flyshit",
+      "url": "https://open.spotify.com/track/3NQpu0tBPbIcmN3MlY2Dlx"
+    },
+    {
+      "album": {
+        "name": "fouronezerothree",
+        "url": "https://open.spotify.com/album/7z5Din6w8cPFqHR4OwpOxz"
+      },
+      "artists": [
+        {
+          "name": "Calvin De Leon",
+          "url": "https://open.spotify.com/artist/3WyQJx169swY8v3htgAqaK"
+        }
+      ],
+      "date_added": "2023-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165714,
+      "name": "fouronezerothree",
+      "url": "https://open.spotify.com/track/3JdfX2AGZRuZvrDIaLCRyP"
+    },
+    {
+      "album": {
         "name": "FREESTYLE",
         "url": "https://open.spotify.com/album/0gb4iHpvS2Vc1HoCw0tt2m"
       },
@@ -506,7 +564,7 @@
       ],
       "date_added": "2023-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-19",
       "duration_ms": 230500,
       "name": "Ikaw Na Nga Yon",
       "url": "https://open.spotify.com/track/5Ue5JtL9UexTpaOd8BOwQC"
@@ -750,7 +808,7 @@
       ],
       "date_added": "2023-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-19",
       "duration_ms": 170103,
       "name": "Manila",
       "url": "https://open.spotify.com/track/7IxZrtE0lrlqLrAYfEKI4n"
@@ -906,7 +964,7 @@
       ],
       "date_added": "2023-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-19",
       "duration_ms": 172500,
       "name": "SEEN",
       "url": "https://open.spotify.com/track/6REJp8MTDJ5gv2MRkHNmtN"
@@ -975,6 +1033,24 @@
     },
     {
       "album": {
+        "name": "SOBRANG SWABE",
+        "url": "https://open.spotify.com/album/5bWsHEH7Nif5udLndhgTtU"
+      },
+      "artists": [
+        {
+          "name": "Luci J",
+          "url": "https://open.spotify.com/artist/0HrduboguaavTbDgpOflee"
+        }
+      ],
+      "date_added": "2023-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192452,
+      "name": "SOBRANG SWABE",
+      "url": "https://open.spotify.com/track/4hrAZsIRftQWgouKcVNpn5"
+    },
+    {
+      "album": {
         "name": "SONG 4 U",
         "url": "https://open.spotify.com/album/6f5sqRBMgqYNZVdjl0wDQE"
       },
@@ -998,7 +1074,7 @@
       ],
       "date_added": "2023-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-19",
       "duration_ms": 241700,
       "name": "SONG 4 U",
       "url": "https://open.spotify.com/track/5uNqALZBRhu9y8lQjwBWCG"

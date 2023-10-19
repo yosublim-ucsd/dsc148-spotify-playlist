@@ -4,7 +4,7 @@
 
 > Softer kinda <a href="spotify:genre:edm\_dance">dance</a>.
 
-1,532 songs - 4 day 9 hr 29 min
+1,533 songs - 4 day 9 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -794,7 +794,7 @@
 | [Loop 6](https://open.spotify.com/track/0V3FG3i1xL19Js9QFvKbkz) | [Funk Fiction](https://open.spotify.com/artist/12Rrb0zhWhcbaXJhVtrmXz) | [Loop 6](https://open.spotify.com/album/062ojkrN7GMCtGLS2gt2ow) | 4:12 | 2020-05-18 | 2021-01-11 |
 | [Looped](https://open.spotify.com/track/0J3BNRNxMxiLyWvG9hn3t6) | [Kiasmos](https://open.spotify.com/artist/6X8lhZ7YaRUBlOsOYimlyD) | [Faze \#45: Butch](https://open.spotify.com/album/4g5n57G6qWCAPxVeO14HAb) | 6:17 | 2020-05-18 | 2022-04-21 |
 | [Lose My Head](https://open.spotify.com/track/5HWQWYk7rgkRA9fJ68geNY) | [RÜFÜS DU SOL](https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj) | [Bloom](https://open.spotify.com/album/0gIAWTyvnOntQSd3yxyiW5) | 4:23 | 2020-05-18 | 2020-07-03 |
-| [Losing Focus](https://open.spotify.com/track/51vJGNySaVSxTmcPotlWrU) | [Shallou](https://open.spotify.com/artist/7C3Cbtr2PkH2l4tOGhtCsk) | [Losing Focus](https://open.spotify.com/album/63NN44IZSRCRevVrgP0EVE) | 3:34 | 2023-09-08 |  |
+| [Losing Focus](https://open.spotify.com/track/51vJGNySaVSxTmcPotlWrU) | [Shallou](https://open.spotify.com/artist/7C3Cbtr2PkH2l4tOGhtCsk) | [Losing Focus](https://open.spotify.com/album/63NN44IZSRCRevVrgP0EVE) | 3:34 | 2023-09-08 | 2023-10-19 |
 | [Losing Ground](https://open.spotify.com/track/7mXcMycQqLHzo60E7WkvvG) | [Sultan + Shepard](https://open.spotify.com/artist/14Tg9FvbNismPR1PJHxRau), [Tishmal](https://open.spotify.com/artist/5lzYtvETBVL9Rqen5RUpPu) | [Losing Ground](https://open.spotify.com/album/2CLaKRjhzUhuIu8tLysXZq) | 4:33 | 2022-12-09 | 2023-04-03 |
 | [Lost](https://open.spotify.com/track/3XYMybUYCtTKm3ZzoJmn8C) | [Deltium](https://open.spotify.com/artist/0QroI8p7Rd0bK54HCFtelN) | [Fields of White](https://open.spotify.com/album/6hNh6rAko5Z5dtcgoKRzve) | 4:19 | 2022-12-28 | 2023-01-06 |
 | [Lost](https://open.spotify.com/track/1ludJD4Vbpy7LRrHDStEkB) | [Dillistone](https://open.spotify.com/artist/7ypPN35cJ9wfF2Zs7aYS33) | [Lost](https://open.spotify.com/album/0bGbb6GedLfGM1fJqX3G8a) | 3:14 | 2023-07-21 |  |
@@ -908,6 +908,7 @@
 | [Must Be Dreaming](https://open.spotify.com/track/16ux7RA90OUcVqhgrad44r) | [anamē](https://open.spotify.com/artist/3sZvCZHU2V2idOYyUl3fBi), [Bien](https://open.spotify.com/artist/2uodbv2953Z7R1ipwucK2A) | [Must Be Dreaming](https://open.spotify.com/album/7bplOyFHY3tfZUgUr1KcCp) | 3:53 | 2023-09-08 | 2023-09-13 |
 | [My Beautiful Blue Sky](https://open.spotify.com/track/1GCpvGwduaJ8uDelrJAcLL) | [Moby](https://open.spotify.com/artist/3OsRAKCvk37zwYcnzRf5XF) | [Ambient](https://open.spotify.com/album/5mq5dYBCJO9AfSTylR2v6b) | 5:19 | 2020-05-24 | 2020-10-09 |
 | [My Breath](https://open.spotify.com/track/3TUErt7xP33VW48HHtfcOM) | [Dezza](https://open.spotify.com/artist/3p7y4jD6cIfONGyx6xaFik), [Dan Soleil](https://open.spotify.com/artist/2z0mmxKTw0KpO7Qnb6aB2r) | [My Breath](https://open.spotify.com/album/2rGwPVULt73kHrtB3rsIOs) | 3:01 | 2021-02-19 | 2022-12-29 |
+| [My Everything](https://open.spotify.com/track/75r1wc5lI6XCxGVBRSJ5lY) | [Nico de Andrea](https://open.spotify.com/artist/3h1aCZ3gZ4zIWxnsxcBrPD), [Darla Jade](https://open.spotify.com/artist/615ZycClQL8KQ8qzZiuP8T) | [My Everything](https://open.spotify.com/album/4tcOPBWRItn1GZFefCAOQd) | 3:48 | 2023-10-13 |  |
 | [My House \- Chill Mix](https://open.spotify.com/track/0TVMVtaGg7KUqWGlI9zwjs) | [Elderbrook](https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64) | [My House \(Chill Mix\)](https://open.spotify.com/album/4qZo3KMdvmsQNbtCsu3OcK) | 2:58 | 2020-08-06 | 2020-10-09 |
 | [My Kick](https://open.spotify.com/track/2RDiFlBlx0Df7YRfSDsmm0) | [Pretty Pink](https://open.spotify.com/artist/78GHS9zWXcj8tBke222g5N), [The Element](https://open.spotify.com/artist/4G1P9jyp1Qqj3NONg6zyuQ) | [My Kick](https://open.spotify.com/album/2ozuxSRKkk1v0nRo3nN40L) | 2:50 | 2020-05-18 | 2020-07-18 |
 | [My Life](https://open.spotify.com/track/2NDZ6i6UfOUSKgFiTQKbnv) | [ZHU](https://open.spotify.com/artist/28j8lBWDdDSHSSt5oPlsX2), [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [My Life](https://open.spotify.com/album/7mjgGNr0d9YXywp7luOqHh) | 4:54 | 2020-05-18 | 2020-07-18 |

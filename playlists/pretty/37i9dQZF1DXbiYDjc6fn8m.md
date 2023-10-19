@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbiYDjc6fn8m.md) - [plain]
 
 > Hora de dançar com os grandes hits da música eletrônica/dance! Foto: Calvin Harris
 
-[Spotify](https://open.spotify.com/user/spotify) - 109,701 likes - 70 songs - 4 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 109,738 likes - 70 songs - 4 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbiYDjc6fn8m.md) - [plain]
 | 5 | [Don't You Worry Child \- Radio Edit](https://open.spotify.com/track/2V65y3PX4DkRhy1djlxd9p) | [Swedish House Mafia](https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs), [John Martin](https://open.spotify.com/artist/2auikkNYqigWStoHWK1Grq) | [Don't You Worry Child](https://open.spotify.com/album/3RKhRsifs4RWrqvWV1YpPY) | 3:32 |
 | 6 | [Hear Me Now](https://open.spotify.com/track/39cmB3ZoTOLwOTq7tMNqKa) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [Zeeba](https://open.spotify.com/artist/7qPLO2XOUaRrRxkvLZ3AEK), [Bruno Martini](https://open.spotify.com/artist/5veVxxPm1vzgi6pO2iVA8L) | [Hear Me Now \(feat\. Zeeba\)](https://open.spotify.com/album/6fpsA5aYbVNLe6y3P49o2o) | 3:14 |
 | 7 | [One More Time](https://open.spotify.com/track/0DiWol3AO6WpXZgp0goxAV) | [Daft Punk](https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi) | [Discovery](https://open.spotify.com/album/2noRn2Aes5aoNVsU6iWThc) | 5:20 |
-| 8 | [In The Dark \- Dirty South Remix](https://open.spotify.com/track/6s0mcs8CmXQlSrWW3Jq5An) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [Christian Burns](https://open.spotify.com/artist/1hu8RDN5gKsi2YYvWTOAqY) | [Elements Of Life \(Remixed\)](https://open.spotify.com/album/3jZZRjqznQ9uBJXkbfmxR3) | 5:46 |
+| 8 | [In the Dark \- Dirty South Remix](https://open.spotify.com/track/6SDZjgocJSpDSIVng85avv) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z) | [Elements of Life \(Bonus Version\)](https://open.spotify.com/album/2GMSOwQAysOQSqs5i4CFOG) | 5:46 |
 | 9 | [Summer Jam \- Remake](https://open.spotify.com/track/5ANQcP9cHO6rC53lEWPnqq) | [Dubdogz](https://open.spotify.com/artist/4cdyqaBREB68H77QKCrKP1), [SUBB](https://open.spotify.com/artist/0Yjc1aaTwDoJy2KP5xS20r) | [Summer Jam \- Remake](https://open.spotify.com/album/6FFy8NzLR5YFGqwcwqbSNg) | 3:01 |
 | 10 | [Blame \(feat\. John Newman\)](https://open.spotify.com/track/07nH4ifBxUB4lZcsf44Brn) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY), [John Newman](https://open.spotify.com/artist/34v5MVKeQnIo0CWYMbbrPf) | [Motion](https://open.spotify.com/album/48zisMeiXniWLzOQghbPqS) | 3:32 |
 | 11 | [Animals \- Radio Edit](https://open.spotify.com/track/4g6m1iaAsgdgDqgxGtvY0C) | [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ) | [Animals](https://open.spotify.com/album/4Xs4NI3J2Nf9eSUqvW7GBn) | 2:56 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbiYDjc6fn8m.md) - [plain]
 | 69 | [Play Hard \(feat\. Ne\-Yo & Akon\)](https://open.spotify.com/track/2QD4C6RRHgRNRAyrfnoeAo) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Ne\-Yo](https://open.spotify.com/artist/21E3waRsmPlU7jZsS13rcj), [Akon](https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV) | [Nothing but the Beat 2.0](https://open.spotify.com/album/5aprcHwM1KJhaY9Kbxkfkn) | 3:21 |
 | 70 | [Harder, Better, Faster, Stronger](https://open.spotify.com/track/2cJz1loJp5EZM6shmQpLZN) | [Daft Punk](https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi) | [Harder, Better, Faster, Stronger](https://open.spotify.com/album/0A88p2r8PWnWGvWjzAnUrV) | 3:46 |
 
-Snapshot ID: `MCw3NGU2N2NhM2RiMzQzZThiZmViMTZiYTRmMDNmMDhmZTRhZGVlZDY4`
+Snapshot ID: `MCxlYzE1MzhmMDM4ZjZiYzg0ZjYxNWZjNGNhMTYzNTZmMDdkMTQ1NTJi`

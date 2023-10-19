@@ -1,12 +1,12 @@
 {
   "description": "You can dance or chill.",
-  "num_followers": 41208,
+  "num_followers": 41328,
   "original_name": "Dance Chill",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkYTEwMTFjOWMzZjA3YTZiM2IzMjkyZGM0MDMyNzRkYWZiYWYyMzg3",
+  "snapshot_id": "MCwzZjM3Zjc3MDIxZTY1YTE5M2VkMjA3ZDM3MmUwYWE3ZjAxZGU0M2Fl",
   "tracks": [
     {
       "added_at": "2023-10-02 12:14:32",
@@ -303,22 +303,6 @@
     {
       "added_at": "2023-10-02 12:14:32",
       "album": {
-        "name": "Eyes",
-        "url": "https://open.spotify.com/album/43ZD81KI1vdDZiPoKedtQA"
-      },
-      "artists": [
-        {
-          "name": "TWO LANES",
-          "url": "https://open.spotify.com/artist/7mnuMLgvXdCWzyB4sQCG7k"
-        }
-      ],
-      "duration_ms": 257500,
-      "name": "Eyes",
-      "url": "https://open.spotify.com/track/5TL0AtDGqqAN5djwMTm7RV"
-    },
-    {
-      "added_at": "2023-10-02 12:14:32",
-      "album": {
         "name": "Found It With You",
         "url": "https://open.spotify.com/album/6jqi6Ii1B5N7rODfX2RtlJ"
       },
@@ -343,22 +327,18 @@
     {
       "added_at": "2023-10-02 12:14:32",
       "album": {
-        "name": "Falling",
-        "url": "https://open.spotify.com/album/3s8ghNpqaH4O7Xk0BqAfnS"
+        "name": "Eyes",
+        "url": "https://open.spotify.com/album/43ZD81KI1vdDZiPoKedtQA"
       },
       "artists": [
         {
-          "name": "Chris Malinchak",
-          "url": "https://open.spotify.com/artist/5UVzX8pQe6bb5ueNdfViih"
-        },
-        {
-          "name": "KOLIDESCOPES",
-          "url": "https://open.spotify.com/artist/21ey6s5hEcTcVKDrF5MWby"
+          "name": "TWO LANES",
+          "url": "https://open.spotify.com/artist/7mnuMLgvXdCWzyB4sQCG7k"
         }
       ],
-      "duration_ms": 197739,
-      "name": "Falling",
-      "url": "https://open.spotify.com/track/3qomIBwYjMXzo0qDVfSYzc"
+      "duration_ms": 257500,
+      "name": "Eyes",
+      "url": "https://open.spotify.com/track/5TL0AtDGqqAN5djwMTm7RV"
     },
     {
       "added_at": "2023-10-02 12:14:32",
@@ -391,6 +371,26 @@
     {
       "added_at": "2023-10-02 12:14:32",
       "album": {
+        "name": "Falling",
+        "url": "https://open.spotify.com/album/3s8ghNpqaH4O7Xk0BqAfnS"
+      },
+      "artists": [
+        {
+          "name": "Chris Malinchak",
+          "url": "https://open.spotify.com/artist/5UVzX8pQe6bb5ueNdfViih"
+        },
+        {
+          "name": "KOLIDESCOPES",
+          "url": "https://open.spotify.com/artist/21ey6s5hEcTcVKDrF5MWby"
+        }
+      ],
+      "duration_ms": 197739,
+      "name": "Falling",
+      "url": "https://open.spotify.com/track/3qomIBwYjMXzo0qDVfSYzc"
+    },
+    {
+      "added_at": "2023-10-02 12:14:32",
+      "album": {
         "name": "Lost In The Sky",
         "url": "https://open.spotify.com/album/1Buz836gF1ikJN43NgQiNn"
       },
@@ -403,6 +403,22 @@
       "duration_ms": 160645,
       "name": "Lost In The Sky",
       "url": "https://open.spotify.com/track/5ZeGvfbXQC7WqEqnNoZMTQ"
+    },
+    {
+      "added_at": "2023-10-02 12:14:32",
+      "album": {
+        "name": "Easy On Me",
+        "url": "https://open.spotify.com/album/3O73IvF4b98mCzFXAbVUQg"
+      },
+      "artists": [
+        {
+          "name": "Cookie Crumble",
+          "url": "https://open.spotify.com/artist/4TwUyusgsQc4Pfr6GlEd5V"
+        }
+      ],
+      "duration_ms": 175169,
+      "name": "Easy On Me",
+      "url": "https://open.spotify.com/track/0AJFIWIHpC8W2YUvEFNoAS"
     },
     {
       "added_at": "2023-10-02 12:14:32",
@@ -423,22 +439,6 @@
       "duration_ms": 183460,
       "name": "Lights Go Down (with SIDEPIECE)",
       "url": "https://open.spotify.com/track/2Oz13asNMRrqP0oHH5Nq1l"
-    },
-    {
-      "added_at": "2023-10-02 12:14:32",
-      "album": {
-        "name": "Easy On Me",
-        "url": "https://open.spotify.com/album/3O73IvF4b98mCzFXAbVUQg"
-      },
-      "artists": [
-        {
-          "name": "Cookie Crumble",
-          "url": "https://open.spotify.com/artist/4TwUyusgsQc4Pfr6GlEd5V"
-        }
-      ],
-      "duration_ms": 175169,
-      "name": "Easy On Me",
-      "url": "https://open.spotify.com/track/0AJFIWIHpC8W2YUvEFNoAS"
     },
     {
       "added_at": "2023-10-02 12:14:32",
@@ -539,6 +539,26 @@
     {
       "added_at": "2023-10-02 12:14:32",
       "album": {
+        "name": "Lightning To Strike",
+        "url": "https://open.spotify.com/album/5ziGWAOle0QNNJw1iQRWgJ"
+      },
+      "artists": [
+        {
+          "name": "J. Worra",
+          "url": "https://open.spotify.com/artist/4q0N3EI67tVnAeeaXbNQIj"
+        },
+        {
+          "name": "Nathan Nicholson",
+          "url": "https://open.spotify.com/artist/4q8SjmBr5X7DUmVvrnNrsd"
+        }
+      ],
+      "duration_ms": 178721,
+      "name": "Lightning To Strike",
+      "url": "https://open.spotify.com/track/2MAjcMaiYJdwFT3oAYLo03"
+    },
+    {
+      "added_at": "2023-10-02 12:14:32",
+      "album": {
         "name": "Summer Jams",
         "url": "https://open.spotify.com/album/3joHydRaKKBO8Z6HRq3asQ"
       },
@@ -559,26 +579,6 @@
       "duration_ms": 137149,
       "name": "Summer Jams",
       "url": "https://open.spotify.com/track/3W3v72EKmAfAiuJm9BDi9b"
-    },
-    {
-      "added_at": "2023-10-02 12:14:32",
-      "album": {
-        "name": "Lightning To Strike",
-        "url": "https://open.spotify.com/album/5ziGWAOle0QNNJw1iQRWgJ"
-      },
-      "artists": [
-        {
-          "name": "J. Worra",
-          "url": "https://open.spotify.com/artist/4q0N3EI67tVnAeeaXbNQIj"
-        },
-        {
-          "name": "Nathan Nicholson",
-          "url": "https://open.spotify.com/artist/4q8SjmBr5X7DUmVvrnNrsd"
-        }
-      ],
-      "duration_ms": 178721,
-      "name": "Lightning To Strike",
-      "url": "https://open.spotify.com/track/2MAjcMaiYJdwFT3oAYLo03"
     },
     {
       "added_at": "2023-10-02 12:14:32",
@@ -779,30 +779,6 @@
     {
       "added_at": "2023-10-02 12:14:32",
       "album": {
-        "name": "Better Now",
-        "url": "https://open.spotify.com/album/223dHoItv1AL15XYaLYzjY"
-      },
-      "artists": [
-        {
-          "name": "Deepend",
-          "url": "https://open.spotify.com/artist/0uGApGjjFXKwUOAqYBeX7B"
-        },
-        {
-          "name": "Mathieu Koss",
-          "url": "https://open.spotify.com/artist/4W6fwRbqEy1dfEoE6OCyZu"
-        },
-        {
-          "name": "Janieck",
-          "url": "https://open.spotify.com/artist/1bZDq4po4dMIpN74Zendm0"
-        }
-      ],
-      "duration_ms": 169048,
-      "name": "Better Now",
-      "url": "https://open.spotify.com/track/74Hf2CrG7Y2dzCwPAXYugR"
-    },
-    {
-      "added_at": "2023-10-02 12:14:32",
-      "album": {
         "name": "Waiting All My Life",
         "url": "https://open.spotify.com/album/2o3P5r60y47AFc2QyuRA0O"
       },
@@ -831,6 +807,30 @@
       "duration_ms": 187377,
       "name": "Botanica",
       "url": "https://open.spotify.com/track/2kxCwxxJ44zd6yd8ha4tVs"
+    },
+    {
+      "added_at": "2023-10-02 12:14:32",
+      "album": {
+        "name": "Better Now",
+        "url": "https://open.spotify.com/album/223dHoItv1AL15XYaLYzjY"
+      },
+      "artists": [
+        {
+          "name": "Deepend",
+          "url": "https://open.spotify.com/artist/0uGApGjjFXKwUOAqYBeX7B"
+        },
+        {
+          "name": "Mathieu Koss",
+          "url": "https://open.spotify.com/artist/4W6fwRbqEy1dfEoE6OCyZu"
+        },
+        {
+          "name": "Janieck",
+          "url": "https://open.spotify.com/artist/1bZDq4po4dMIpN74Zendm0"
+        }
+      ],
+      "duration_ms": 169048,
+      "name": "Better Now",
+      "url": "https://open.spotify.com/track/74Hf2CrG7Y2dzCwPAXYugR"
     },
     {
       "added_at": "2023-10-02 12:14:32",
@@ -895,6 +895,22 @@
     {
       "added_at": "2023-10-02 12:14:32",
       "album": {
+        "name": "Stay A Little Longer",
+        "url": "https://open.spotify.com/album/7f6rguPHcD1bVXFT7snazF"
+      },
+      "artists": [
+        {
+          "name": "Madism",
+          "url": "https://open.spotify.com/artist/5UUdxfBMwm0hLlLgnZtBFv"
+        }
+      ],
+      "duration_ms": 129975,
+      "name": "Stay A Little Longer",
+      "url": "https://open.spotify.com/track/2ccjGxAs64dv32oh45iE91"
+    },
+    {
+      "added_at": "2023-10-02 12:14:32",
+      "album": {
         "name": "Apologize",
         "url": "https://open.spotify.com/album/6VJVnkUcj3AyOx6cRM2UqR"
       },
@@ -911,22 +927,6 @@
       "duration_ms": 159845,
       "name": "Apologize",
       "url": "https://open.spotify.com/track/3LAPe9NMRnWTFZNlFkzIME"
-    },
-    {
-      "added_at": "2023-10-02 12:14:32",
-      "album": {
-        "name": "Stay A Little Longer",
-        "url": "https://open.spotify.com/album/7f6rguPHcD1bVXFT7snazF"
-      },
-      "artists": [
-        {
-          "name": "Madism",
-          "url": "https://open.spotify.com/artist/5UUdxfBMwm0hLlLgnZtBFv"
-        }
-      ],
-      "duration_ms": 129975,
-      "name": "Stay A Little Longer",
-      "url": "https://open.spotify.com/track/2ccjGxAs64dv32oh45iE91"
     },
     {
       "added_at": "2023-10-02 12:14:32",
@@ -1091,18 +1091,18 @@
     {
       "added_at": "2023-10-02 12:14:32",
       "album": {
-        "name": "Drift",
-        "url": "https://open.spotify.com/album/56C5BBBjgrQrjUIvyLYI4J"
+        "name": "Light A Fire",
+        "url": "https://open.spotify.com/album/4j0tX0LsZGN3ZNtVAzGjBl"
       },
       "artists": [
         {
-          "name": "Syn Cole",
-          "url": "https://open.spotify.com/artist/6i1GVNJCyyssRwXmnaeEFH"
+          "name": "Marc Benjamin",
+          "url": "https://open.spotify.com/artist/05KjvP5zdwtEIgEazqblZw"
         }
       ],
-      "duration_ms": 164516,
-      "name": "Drift",
-      "url": "https://open.spotify.com/track/1nN4hImiv5VUApR5bnqrvS"
+      "duration_ms": 154500,
+      "name": "Light A Fire",
+      "url": "https://open.spotify.com/track/47Ahlfj3ZRc1MRf7np0jaf"
     },
     {
       "added_at": "2023-10-02 12:14:32",
@@ -1131,18 +1131,18 @@
     {
       "added_at": "2023-10-02 12:14:32",
       "album": {
-        "name": "Light A Fire",
-        "url": "https://open.spotify.com/album/4j0tX0LsZGN3ZNtVAzGjBl"
+        "name": "Drift",
+        "url": "https://open.spotify.com/album/56C5BBBjgrQrjUIvyLYI4J"
       },
       "artists": [
         {
-          "name": "Marc Benjamin",
-          "url": "https://open.spotify.com/artist/05KjvP5zdwtEIgEazqblZw"
+          "name": "Syn Cole",
+          "url": "https://open.spotify.com/artist/6i1GVNJCyyssRwXmnaeEFH"
         }
       ],
-      "duration_ms": 154500,
-      "name": "Light A Fire",
-      "url": "https://open.spotify.com/track/47Ahlfj3ZRc1MRf7np0jaf"
+      "duration_ms": 164516,
+      "name": "Drift",
+      "url": "https://open.spotify.com/track/1nN4hImiv5VUApR5bnqrvS"
     },
     {
       "added_at": "2023-10-02 12:14:32",
@@ -1223,6 +1223,22 @@
     {
       "added_at": "2023-10-02 12:14:32",
       "album": {
+        "name": "Summer Stars",
+        "url": "https://open.spotify.com/album/4sbmy9qzug63y1u8kX9UG3"
+      },
+      "artists": [
+        {
+          "name": "Mauve",
+          "url": "https://open.spotify.com/artist/4H6XYH7PhoJXhD45W93wkh"
+        }
+      ],
+      "duration_ms": 150394,
+      "name": "Summer Stars",
+      "url": "https://open.spotify.com/track/1mrRgtxikCZ9y8qdnhS3FD"
+    },
+    {
+      "added_at": "2023-10-02 12:14:32",
+      "album": {
         "name": "Dreams",
         "url": "https://open.spotify.com/album/0hPymjd6bx5kr8UQkRNAQZ"
       },
@@ -1239,22 +1255,6 @@
       "duration_ms": 189421,
       "name": "Dreams",
       "url": "https://open.spotify.com/track/0Zy6JoXzMdjEkLI48x3Fuy"
-    },
-    {
-      "added_at": "2023-10-02 12:14:32",
-      "album": {
-        "name": "Summer Stars",
-        "url": "https://open.spotify.com/album/4sbmy9qzug63y1u8kX9UG3"
-      },
-      "artists": [
-        {
-          "name": "Mauve",
-          "url": "https://open.spotify.com/artist/4H6XYH7PhoJXhD45W93wkh"
-        }
-      ],
-      "duration_ms": 150394,
-      "name": "Summer Stars",
-      "url": "https://open.spotify.com/track/1mrRgtxikCZ9y8qdnhS3FD"
     },
     {
       "added_at": "2023-10-02 12:14:32",
@@ -1443,6 +1443,22 @@
     {
       "added_at": "2023-10-02 12:14:32",
       "album": {
+        "name": "What You Do to Me",
+        "url": "https://open.spotify.com/album/33dz95maLS3wwFgdmdBOFO"
+      },
+      "artists": [
+        {
+          "name": "fwd/slash",
+          "url": "https://open.spotify.com/artist/6tFIXOQGf0Hld1gCjBkLaw"
+        }
+      ],
+      "duration_ms": 164388,
+      "name": "What You Do to Me",
+      "url": "https://open.spotify.com/track/44fvlfBmomFkyO0jC7vuWF"
+    },
+    {
+      "added_at": "2023-10-02 12:14:32",
+      "album": {
         "name": "Rooftop",
         "url": "https://open.spotify.com/album/2dxviQ3pceDaEjeVasmMFL"
       },
@@ -1459,22 +1475,6 @@
       "duration_ms": 199440,
       "name": "Rooftop",
       "url": "https://open.spotify.com/track/1eMWdrMNzPuGOwsAeKlXBW"
-    },
-    {
-      "added_at": "2023-10-02 12:14:32",
-      "album": {
-        "name": "What You Do to Me",
-        "url": "https://open.spotify.com/album/33dz95maLS3wwFgdmdBOFO"
-      },
-      "artists": [
-        {
-          "name": "fwd/slash",
-          "url": "https://open.spotify.com/artist/6tFIXOQGf0Hld1gCjBkLaw"
-        }
-      ],
-      "duration_ms": 164388,
-      "name": "What You Do to Me",
-      "url": "https://open.spotify.com/track/44fvlfBmomFkyO0jC7vuWF"
     },
     {
       "added_at": "2023-10-02 12:14:32",

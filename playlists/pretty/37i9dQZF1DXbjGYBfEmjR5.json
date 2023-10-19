@@ -1,12 +1,12 @@
 {
   "description": "Don't worry, we're back in the funk of it besties \u2728",
-  "num_followers": 298506,
+  "num_followers": 298649,
   "original_name": "Future Funk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyOTYxNTY2YTQ3YjZiZTBjMzZmMGY1NmJjOTQ3OWI3MDA4N2MwOTYy",
+  "snapshot_id": "MCw0MGNjMGE0OTA0ZmViMWRkODdiNTUyNjQ2ZDlkYWUyN2NkMzliMTc4",
   "tracks": [
     {
       "added_at": "2023-07-18 02:21:29",
@@ -995,22 +995,6 @@
     {
       "added_at": "2023-07-18 02:21:29",
       "album": {
-        "name": "Prom King",
-        "url": "https://open.spotify.com/album/4kB3NXXqZGTtehCAbyGar7"
-      },
-      "artists": [
-        {
-          "name": "Skylar Spence",
-          "url": "https://open.spotify.com/artist/0x0u0jCVf5Jf4DNh45XPXL"
-        }
-      ],
-      "duration_ms": 210586,
-      "name": "Bounce Is Back",
-      "url": "https://open.spotify.com/track/3Vw8ibvQbEfmUCwXpPeC6X"
-    },
-    {
-      "added_at": "2023-07-18 02:21:29",
-      "album": {
         "name": "Miki Matsubara Night Tempo Presents the Showa Groove",
         "url": "https://open.spotify.com/album/4zUIo4G8FTJoWN9zEW5NoR"
       },
@@ -1043,6 +1027,22 @@
       "duration_ms": 150004,
       "name": "love u!!",
       "url": "https://open.spotify.com/track/0JQkrkQIIoBYnEQ2lla9e0"
+    },
+    {
+      "added_at": "2023-07-18 02:21:29",
+      "album": {
+        "name": "Prom King",
+        "url": "https://open.spotify.com/album/4kB3NXXqZGTtehCAbyGar7"
+      },
+      "artists": [
+        {
+          "name": "Skylar Spence",
+          "url": "https://open.spotify.com/artist/0x0u0jCVf5Jf4DNh45XPXL"
+        }
+      ],
+      "duration_ms": 210586,
+      "name": "Bounce Is Back",
+      "url": "https://open.spotify.com/track/3Vw8ibvQbEfmUCwXpPeC6X"
     },
     {
       "added_at": "2023-07-18 02:21:29",
@@ -1131,6 +1131,22 @@
     {
       "added_at": "2023-07-18 02:21:29",
       "album": {
+        "name": "SUGAR RUSH",
+        "url": "https://open.spotify.com/album/1jNl2gbTUjvaBY8aQrWjhe"
+      },
+      "artists": [
+        {
+          "name": "Aests",
+          "url": "https://open.spotify.com/artist/3zYU33YUxJPzsPrYmpMMiu"
+        }
+      ],
+      "duration_ms": 142500,
+      "name": "DUCK GROOVE",
+      "url": "https://open.spotify.com/track/7hwlFB4fxou2GCHOVN9LFU"
+    },
+    {
+      "added_at": "2023-07-18 02:21:29",
+      "album": {
         "name": "Saturn St.",
         "url": "https://open.spotify.com/album/3zA540uSE3ht3kk2pcf4cW"
       },
@@ -1159,22 +1175,6 @@
       "duration_ms": 132485,
       "name": "Funk Dust",
       "url": "https://open.spotify.com/track/371tzdBYzISrNzCZJhzMnV"
-    },
-    {
-      "added_at": "2023-07-18 02:21:29",
-      "album": {
-        "name": "SUGAR RUSH",
-        "url": "https://open.spotify.com/album/1jNl2gbTUjvaBY8aQrWjhe"
-      },
-      "artists": [
-        {
-          "name": "Aests",
-          "url": "https://open.spotify.com/artist/3zYU33YUxJPzsPrYmpMMiu"
-        }
-      ],
-      "duration_ms": 142500,
-      "name": "DUCK GROOVE",
-      "url": "https://open.spotify.com/track/7hwlFB4fxou2GCHOVN9LFU"
     },
     {
       "added_at": "2023-07-18 02:21:29",
@@ -1263,6 +1263,22 @@
     {
       "added_at": "2023-07-18 02:21:29",
       "album": {
+        "name": "Sexy Times (3rd Anniversary Edition)",
+        "url": "https://open.spotify.com/album/1YKYKu69ByOZBTf0yqPwsd"
+      },
+      "artists": [
+        {
+          "name": "Skule Toyama",
+          "url": "https://open.spotify.com/artist/4o6MEsXazDf44QJ8iovnw2"
+        }
+      ],
+      "duration_ms": 225084,
+      "name": "Hot Chance",
+      "url": "https://open.spotify.com/track/2L0yofnQlwpiiELjKtUrXn"
+    },
+    {
+      "added_at": "2023-07-18 02:21:29",
+      "album": {
         "name": "Polygon Beach",
         "url": "https://open.spotify.com/album/7vg7mqEeZvoWaHtamxIG1c"
       },
@@ -1279,18 +1295,18 @@
     {
       "added_at": "2023-07-18 02:21:29",
       "album": {
-        "name": "Sexy Times (3rd Anniversary Edition)",
-        "url": "https://open.spotify.com/album/1YKYKu69ByOZBTf0yqPwsd"
+        "name": "City Lights",
+        "url": "https://open.spotify.com/album/27dA1TdxIKyh5ZOnsWTfEc"
       },
       "artists": [
         {
-          "name": "Skule Toyama",
-          "url": "https://open.spotify.com/artist/4o6MEsXazDf44QJ8iovnw2"
+          "name": "Uni Deluxe",
+          "url": "https://open.spotify.com/artist/7FgxkXK01FgVCTjQ7ChxcV"
         }
       ],
-      "duration_ms": 225084,
-      "name": "Hot Chance",
-      "url": "https://open.spotify.com/track/2L0yofnQlwpiiELjKtUrXn"
+      "duration_ms": 248447,
+      "name": "Together",
+      "url": "https://open.spotify.com/track/0gmJDqUuSU5pU0OD9DqFs0"
     },
     {
       "added_at": "2023-07-18 02:21:29",
@@ -1323,22 +1339,6 @@
       "duration_ms": 138666,
       "name": "keep down flyday",
       "url": "https://open.spotify.com/track/04XgDULx8qLzMVaTxXGI6c"
-    },
-    {
-      "added_at": "2023-07-18 02:21:29",
-      "album": {
-        "name": "City Lights",
-        "url": "https://open.spotify.com/album/27dA1TdxIKyh5ZOnsWTfEc"
-      },
-      "artists": [
-        {
-          "name": "Uni Deluxe",
-          "url": "https://open.spotify.com/artist/7FgxkXK01FgVCTjQ7ChxcV"
-        }
-      ],
-      "duration_ms": 248447,
-      "name": "Together",
-      "url": "https://open.spotify.com/track/0gmJDqUuSU5pU0OD9DqFs0"
     },
     {
       "added_at": "2023-07-18 02:21:29",
@@ -1459,6 +1459,22 @@
     {
       "added_at": "2023-07-18 02:21:29",
       "album": {
+        "name": "Stereo",
+        "url": "https://open.spotify.com/album/06IIGatctBNn3MQExq8dYc"
+      },
+      "artists": [
+        {
+          "name": "Skule Toyama",
+          "url": "https://open.spotify.com/artist/4o6MEsXazDf44QJ8iovnw2"
+        }
+      ],
+      "duration_ms": 269752,
+      "name": "Stereo",
+      "url": "https://open.spotify.com/track/6txXMN9d8uRhxt5oioa4JU"
+    },
+    {
+      "added_at": "2023-07-18 02:21:29",
+      "album": {
         "name": "Dance Tonite",
         "url": "https://open.spotify.com/album/0QZSdm43Tuj9adxJiTYcgW"
       },
@@ -1475,22 +1491,6 @@
       "duration_ms": 210731,
       "name": "Dance Tonite",
       "url": "https://open.spotify.com/track/0VPJHffNebAqAxnP2OJ6hu"
-    },
-    {
-      "added_at": "2023-07-18 02:21:29",
-      "album": {
-        "name": "Stereo",
-        "url": "https://open.spotify.com/album/06IIGatctBNn3MQExq8dYc"
-      },
-      "artists": [
-        {
-          "name": "Skule Toyama",
-          "url": "https://open.spotify.com/artist/4o6MEsXazDf44QJ8iovnw2"
-        }
-      ],
-      "duration_ms": 269752,
-      "name": "Stereo",
-      "url": "https://open.spotify.com/track/6txXMN9d8uRhxt5oioa4JU"
     },
     {
       "added_at": "2023-07-18 02:21:29",
@@ -1671,22 +1671,6 @@
     {
       "added_at": "2023-07-18 02:21:29",
       "album": {
-        "name": "Glimmer / Change",
-        "url": "https://open.spotify.com/album/2UcHAnp1OwIJXJAIu1QhBC"
-      },
-      "artists": [
-        {
-          "name": "AGST",
-          "url": "https://open.spotify.com/artist/0P5MXX9jXK95yuTDArYkDI"
-        }
-      ],
-      "duration_ms": 215125,
-      "name": "Glimmer",
-      "url": "https://open.spotify.com/track/6vWZUOcDySwffRBcxlIFNr"
-    },
-    {
-      "added_at": "2023-07-18 02:21:29",
-      "album": {
         "name": "SAILORSATURDAYS",
         "url": "https://open.spotify.com/album/3WIYClNXR4haWaAOQs6KVM"
       },
@@ -1699,6 +1683,22 @@
       "duration_ms": 240000,
       "name": "SAILORSATURDAYS",
       "url": "https://open.spotify.com/track/5bg67Ih7JzzmfrJZVx2zXC"
+    },
+    {
+      "added_at": "2023-07-18 02:21:29",
+      "album": {
+        "name": "Glimmer / Change",
+        "url": "https://open.spotify.com/album/2UcHAnp1OwIJXJAIu1QhBC"
+      },
+      "artists": [
+        {
+          "name": "AGST",
+          "url": "https://open.spotify.com/artist/0P5MXX9jXK95yuTDArYkDI"
+        }
+      ],
+      "duration_ms": 215125,
+      "name": "Glimmer",
+      "url": "https://open.spotify.com/track/6vWZUOcDySwffRBcxlIFNr"
     },
     {
       "added_at": "2023-07-18 02:21:29",

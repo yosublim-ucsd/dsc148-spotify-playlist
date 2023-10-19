@@ -1,12 +1,12 @@
 {
   "description": "Meet the vocalists representing Korea! (Cover:\bHYNN(\ubc15\ud61c\uc6d0)) (\ub300\ud55c\ubbfc\uad6d\uc744 \ub300\ud45c\ud558\ub294 \ubcf4\uceec\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!)",
-  "num_followers": 325513,
+  "num_followers": 325530,
   "original_name": "v o K a l",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1MjI5NjM5NTE1ODUxNjU3OWNjZTE0ZTllMTc1YTRlMTBlNGNmNGJl",
+  "snapshot_id": "MCxlYzE4ZTFjY2UzYWQ1NzJlZGM5MDY1NTA1YWRhMmJiNGMzMjgwNDA1",
   "tracks": [
     {
       "added_at": "2023-10-15 12:42:09",
@@ -459,22 +459,6 @@
     {
       "added_at": "2023-10-15 12:42:09",
       "album": {
-        "name": "180\u02da",
-        "url": "https://open.spotify.com/album/0oBH83eLqK72jLRzrbPBH6"
-      },
-      "artists": [
-        {
-          "name": "BEN",
-          "url": "https://open.spotify.com/artist/0bDdOBGVCFVt0f8N9ldW1k"
-        }
-      ],
-      "duration_ms": 229187,
-      "name": "180 Degree",
-      "url": "https://open.spotify.com/track/0O5bo4CqoUcXGyRPoeTHSB"
-    },
-    {
-      "added_at": "2023-10-15 12:42:09",
-      "album": {
         "name": "Jelly box Flower Way SEJEONG",
         "url": "https://open.spotify.com/album/32dL7nyPowMbiu8QFrAkIM"
       },
@@ -487,6 +471,22 @@
       "duration_ms": 239122,
       "name": "Flower Way (Prod. By ZICO)",
       "url": "https://open.spotify.com/track/1dOD5F2hX5TBtKdQlEseR7"
+    },
+    {
+      "added_at": "2023-10-15 12:42:09",
+      "album": {
+        "name": "180\u02da",
+        "url": "https://open.spotify.com/album/0oBH83eLqK72jLRzrbPBH6"
+      },
+      "artists": [
+        {
+          "name": "BEN",
+          "url": "https://open.spotify.com/artist/0bDdOBGVCFVt0f8N9ldW1k"
+        }
+      ],
+      "duration_ms": 229187,
+      "name": "180 Degree",
+      "url": "https://open.spotify.com/track/0O5bo4CqoUcXGyRPoeTHSB"
     },
     {
       "added_at": "2023-10-15 12:42:09",
@@ -651,18 +651,18 @@
     {
       "added_at": "2023-10-15 12:42:09",
       "album": {
-        "name": "A Love Supreme",
-        "url": "https://open.spotify.com/album/7Mcgv379kU4bRHl54JJqhi"
+        "name": "Think About You",
+        "url": "https://open.spotify.com/album/7FM73ppcpjWsYMMsyOeptQ"
       },
       "artists": [
         {
-          "name": "SOLE",
-          "url": "https://open.spotify.com/artist/6naXFodImN2DwRmKCQHAUt"
+          "name": "Joosiq",
+          "url": "https://open.spotify.com/artist/66pTbLwtaCUvT64JA8zXZh"
         }
       ],
-      "duration_ms": 210106,
-      "name": "I Want to Be Closer to You",
-      "url": "https://open.spotify.com/track/6QlCumx7Sow4nRgVt6tDms"
+      "duration_ms": 212608,
+      "name": "Think About You",
+      "url": "https://open.spotify.com/track/0rXtV4L8uQ7KHNxxKd2jGZ"
     },
     {
       "added_at": "2023-10-15 12:42:09",
@@ -683,18 +683,18 @@
     {
       "added_at": "2023-10-15 12:42:09",
       "album": {
-        "name": "Think About You",
-        "url": "https://open.spotify.com/album/7FM73ppcpjWsYMMsyOeptQ"
+        "name": "A Love Supreme",
+        "url": "https://open.spotify.com/album/7Mcgv379kU4bRHl54JJqhi"
       },
       "artists": [
         {
-          "name": "Joosiq",
-          "url": "https://open.spotify.com/artist/66pTbLwtaCUvT64JA8zXZh"
+          "name": "SOLE",
+          "url": "https://open.spotify.com/artist/6naXFodImN2DwRmKCQHAUt"
         }
       ],
-      "duration_ms": 212608,
-      "name": "Think About You",
-      "url": "https://open.spotify.com/track/0rXtV4L8uQ7KHNxxKd2jGZ"
+      "duration_ms": 210106,
+      "name": "I Want to Be Closer to You",
+      "url": "https://open.spotify.com/track/6QlCumx7Sow4nRgVt6tDms"
     },
     {
       "added_at": "2023-10-15 12:42:09",
@@ -731,22 +731,6 @@
     {
       "added_at": "2023-10-15 12:42:09",
       "album": {
-        "name": "Bye",
-        "url": "https://open.spotify.com/album/6IcBFF3yXklWuA44of4ATg"
-      },
-      "artists": [
-        {
-          "name": "Lim Changjung",
-          "url": "https://open.spotify.com/artist/4dB2XmMpzPxsMRnt62TbF5"
-        }
-      ],
-      "duration_ms": 290960,
-      "name": "Soju Hanjan",
-      "url": "https://open.spotify.com/track/10if3nqm7OS7qrV45v9GOg"
-    },
-    {
-      "added_at": "2023-10-15 12:42:09",
-      "album": {
         "name": "When it snows(Feat.Heize)",
         "url": "https://open.spotify.com/album/1d2YKQ02RQA97EyrB55ZcK"
       },
@@ -763,6 +747,22 @@
       "duration_ms": 232026,
       "name": "When it snows(Feat.Heize)",
       "url": "https://open.spotify.com/track/2vA5M8uXee4amGQajyUMFR"
+    },
+    {
+      "added_at": "2023-10-15 12:42:09",
+      "album": {
+        "name": "Bye",
+        "url": "https://open.spotify.com/album/6IcBFF3yXklWuA44of4ATg"
+      },
+      "artists": [
+        {
+          "name": "Lim Changjung",
+          "url": "https://open.spotify.com/artist/4dB2XmMpzPxsMRnt62TbF5"
+        }
+      ],
+      "duration_ms": 290960,
+      "name": "Soju Hanjan",
+      "url": "https://open.spotify.com/track/10if3nqm7OS7qrV45v9GOg"
     },
     {
       "added_at": "2023-10-15 12:42:09",
@@ -835,22 +835,6 @@
     {
       "added_at": "2023-10-15 12:42:09",
       "album": {
-        "name": "Spring Again",
-        "url": "https://open.spotify.com/album/1lyirN2uEAOt9M6CvkY9Rk"
-      },
-      "artists": [
-        {
-          "name": "Jung Seung Hwan",
-          "url": "https://open.spotify.com/artist/7l8rOFwZFQ3G0sgZ7gjGng"
-        }
-      ],
-      "duration_ms": 236071,
-      "name": "The Snowman",
-      "url": "https://open.spotify.com/track/6HgeeiHqVpxxFCB0bjBRT6"
-    },
-    {
-      "added_at": "2023-10-15 12:42:09",
-      "album": {
         "name": "Alchemy of Souls, Pt. 6 (Original Television Soundtrack)",
         "url": "https://open.spotify.com/album/6ORZQE6DlroG3iYfnv1kLa"
       },
@@ -863,6 +847,22 @@
       "duration_ms": 267280,
       "name": "Breath",
       "url": "https://open.spotify.com/track/3FduLmIal9YnzHZp2vTZKl"
+    },
+    {
+      "added_at": "2023-10-15 12:42:09",
+      "album": {
+        "name": "Spring Again",
+        "url": "https://open.spotify.com/album/1lyirN2uEAOt9M6CvkY9Rk"
+      },
+      "artists": [
+        {
+          "name": "Jung Seung Hwan",
+          "url": "https://open.spotify.com/artist/7l8rOFwZFQ3G0sgZ7gjGng"
+        }
+      ],
+      "duration_ms": 236071,
+      "name": "The Snowman",
+      "url": "https://open.spotify.com/track/6HgeeiHqVpxxFCB0bjBRT6"
     },
     {
       "added_at": "2023-10-15 12:42:09",
@@ -895,6 +895,22 @@
       "duration_ms": 217640,
       "name": "Myo (Cat)",
       "url": "https://open.spotify.com/track/2zlU79zIa3abFvGheZjI7Z"
+    },
+    {
+      "added_at": "2023-10-15 12:42:09",
+      "album": {
+        "name": "my life",
+        "url": "https://open.spotify.com/album/1JzvEZ8BtBvjwrqOj0OdLS"
+      },
+      "artists": [
+        {
+          "name": "Mark Tuan",
+          "url": "https://open.spotify.com/artist/4l1q0z9xeJcJw73Gxc6gCB"
+        }
+      ],
+      "duration_ms": 174990,
+      "name": "my life",
+      "url": "https://open.spotify.com/track/53Iv4XnDyFKnMXVaiiCcdv"
     },
     {
       "added_at": "2023-10-15 12:42:09",
@@ -939,18 +955,18 @@
     {
       "added_at": "2023-10-15 12:42:09",
       "album": {
-        "name": "my life",
-        "url": "https://open.spotify.com/album/1JzvEZ8BtBvjwrqOj0OdLS"
+        "name": "Story Of Two Years",
+        "url": "https://open.spotify.com/album/6jhAP6Gdtm8iTcH8OMkeVt"
       },
       "artists": [
         {
-          "name": "Mark Tuan",
-          "url": "https://open.spotify.com/artist/4l1q0z9xeJcJw73Gxc6gCB"
+          "name": "Lim Jae Beum",
+          "url": "https://open.spotify.com/artist/7cYFopPCh8aSpBHANLgLaV"
         }
       ],
-      "duration_ms": 174990,
-      "name": "my life",
-      "url": "https://open.spotify.com/track/53Iv4XnDyFKnMXVaiiCcdv"
+      "duration_ms": 246293,
+      "name": "\ub108\ub97c \uc704\ud574",
+      "url": "https://open.spotify.com/track/2yY6cliPDD0lyXgebWzhrr"
     },
     {
       "added_at": "2023-10-15 12:42:09",
@@ -975,22 +991,6 @@
     {
       "added_at": "2023-10-15 12:42:09",
       "album": {
-        "name": "Story Of Two Years",
-        "url": "https://open.spotify.com/album/6jhAP6Gdtm8iTcH8OMkeVt"
-      },
-      "artists": [
-        {
-          "name": "Lim Jae Beum",
-          "url": "https://open.spotify.com/artist/7cYFopPCh8aSpBHANLgLaV"
-        }
-      ],
-      "duration_ms": 246293,
-      "name": "\ub108\ub97c \uc704\ud574",
-      "url": "https://open.spotify.com/track/2yY6cliPDD0lyXgebWzhrr"
-    },
-    {
-      "added_at": "2023-10-15 12:42:09",
-      "album": {
         "name": "Because I am a woman",
         "url": "https://open.spotify.com/album/6hf7ETkQLEIW5rKkCks9Bl"
       },
@@ -1003,6 +1003,22 @@
       "duration_ms": 240773,
       "name": "Because I am a woman",
       "url": "https://open.spotify.com/track/0lsnhrK331ObO8FyyvN2iU"
+    },
+    {
+      "added_at": "2023-10-15 12:42:09",
+      "album": {
+        "name": "Go Back",
+        "url": "https://open.spotify.com/album/2CpY4FJ5OJlN1NAhQs5EsE"
+      },
+      "artists": [
+        {
+          "name": "MeloMance",
+          "url": "https://open.spotify.com/artist/6k4r73Wq8nhkCDoUsECL1e"
+        }
+      ],
+      "duration_ms": 234000,
+      "name": "Go Back",
+      "url": "https://open.spotify.com/track/4SQH8x0PnOqEWWgbAlXIXJ"
     },
     {
       "added_at": "2023-10-15 12:42:09",
@@ -1023,22 +1039,6 @@
       "duration_ms": 238853,
       "name": "Way",
       "url": "https://open.spotify.com/track/5jQRsJZzu8jicHgC3wgiY5"
-    },
-    {
-      "added_at": "2023-10-15 12:42:09",
-      "album": {
-        "name": "Go Back",
-        "url": "https://open.spotify.com/album/2CpY4FJ5OJlN1NAhQs5EsE"
-      },
-      "artists": [
-        {
-          "name": "MeloMance",
-          "url": "https://open.spotify.com/artist/6k4r73Wq8nhkCDoUsECL1e"
-        }
-      ],
-      "duration_ms": 234000,
-      "name": "Go Back",
-      "url": "https://open.spotify.com/track/4SQH8x0PnOqEWWgbAlXIXJ"
     },
     {
       "added_at": "2023-10-15 12:42:09",
@@ -1191,22 +1191,6 @@
     {
       "added_at": "2023-10-15 12:42:09",
       "album": {
-        "name": "Doctor Cha (Original Television Soundtrack) Pt. 4",
-        "url": "https://open.spotify.com/album/6hejnZLYkczl403CuzDnn4"
-      },
-      "artists": [
-        {
-          "name": "PARK MIN HYE",
-          "url": "https://open.spotify.com/artist/7jLmvmR5MEXHgBbPpfwAIJ"
-        }
-      ],
-      "duration_ms": 256320,
-      "name": "After this night",
-      "url": "https://open.spotify.com/track/3MAQWeovl3g5BGUiu7YJdj"
-    },
-    {
-      "added_at": "2023-10-15 12:42:09",
-      "album": {
         "name": "Back In Time (The Moon during the Day X K.will)",
         "url": "https://open.spotify.com/album/76XdJaCbVbGzUv2JyEmn0x"
       },
@@ -1219,6 +1203,22 @@
       "duration_ms": 225120,
       "name": "Back In Time (The Moon during the Day X K.will)",
       "url": "https://open.spotify.com/track/5rGMxvUu4su0Vg3BaV9BGe"
+    },
+    {
+      "added_at": "2023-10-15 12:42:09",
+      "album": {
+        "name": "Doctor Cha (Original Television Soundtrack) Pt. 4",
+        "url": "https://open.spotify.com/album/6hejnZLYkczl403CuzDnn4"
+      },
+      "artists": [
+        {
+          "name": "PARK MIN HYE",
+          "url": "https://open.spotify.com/artist/7jLmvmR5MEXHgBbPpfwAIJ"
+        }
+      ],
+      "duration_ms": 256320,
+      "name": "After this night",
+      "url": "https://open.spotify.com/track/3MAQWeovl3g5BGUiu7YJdj"
     },
     {
       "added_at": "2023-10-15 12:42:09",
@@ -1455,22 +1455,6 @@
     {
       "added_at": "2023-10-15 12:42:09",
       "album": {
-        "name": "You Were Beautiful (My love X Kim Min-seok (MeloMance))",
-        "url": "https://open.spotify.com/album/3iytrx0MJW1L1z3Bs5R6ie"
-      },
-      "artists": [
-        {
-          "name": "Kim Min-seok (MeloMance)",
-          "url": "https://open.spotify.com/artist/291PurnPPvBW3Kf1B5J4Mp"
-        }
-      ],
-      "duration_ms": 272946,
-      "name": "You Were Beautiful (My love X Kim Min-seok (MeloMance))",
-      "url": "https://open.spotify.com/track/5RrUPK9KuZcaVcO0aJwCdy"
-    },
-    {
-      "added_at": "2023-10-15 12:42:09",
-      "album": {
         "name": "Can Love Be Fair",
         "url": "https://open.spotify.com/album/6NRwI0v6TP5q8Pm8lCvTiK"
       },
@@ -1487,6 +1471,22 @@
       "duration_ms": 255746,
       "name": "Can Love Be Fair",
       "url": "https://open.spotify.com/track/0ZSgMcumYoRwVeFmFJWtmm"
+    },
+    {
+      "added_at": "2023-10-15 12:42:09",
+      "album": {
+        "name": "You Were Beautiful (My love X Kim Min-seok (MeloMance))",
+        "url": "https://open.spotify.com/album/3iytrx0MJW1L1z3Bs5R6ie"
+      },
+      "artists": [
+        {
+          "name": "Kim Min-seok (MeloMance)",
+          "url": "https://open.spotify.com/artist/291PurnPPvBW3Kf1B5J4Mp"
+        }
+      ],
+      "duration_ms": 272946,
+      "name": "You Were Beautiful (My love X Kim Min-seok (MeloMance))",
+      "url": "https://open.spotify.com/track/5RrUPK9KuZcaVcO0aJwCdy"
     },
     {
       "added_at": "2023-10-15 12:42:09",
@@ -1559,22 +1559,6 @@
     {
       "added_at": "2023-10-15 12:42:09",
       "album": {
-        "name": "Eternal",
-        "url": "https://open.spotify.com/album/7pH1aRaBcogrfEOrAKsUZF"
-      },
-      "artists": [
-        {
-          "name": "Young K",
-          "url": "https://open.spotify.com/artist/34HmvZztvxqAo2mBSAieRe"
-        }
-      ],
-      "duration_ms": 208649,
-      "name": "come as you are",
-      "url": "https://open.spotify.com/track/1B8rGBG1v6y6hdvJmw4z0O"
-    },
-    {
-      "added_at": "2023-10-15 12:42:09",
-      "album": {
         "name": "The Fairy Tale",
         "url": "https://open.spotify.com/album/76ASw7kgzeLbfGyei95zN1"
       },
@@ -1587,6 +1571,22 @@
       "duration_ms": 227054,
       "name": "Tale",
       "url": "https://open.spotify.com/track/3VtDqefAMMvUcg4x9Ma2LB"
+    },
+    {
+      "added_at": "2023-10-15 12:42:09",
+      "album": {
+        "name": "Eternal",
+        "url": "https://open.spotify.com/album/7pH1aRaBcogrfEOrAKsUZF"
+      },
+      "artists": [
+        {
+          "name": "Young K",
+          "url": "https://open.spotify.com/artist/34HmvZztvxqAo2mBSAieRe"
+        }
+      ],
+      "duration_ms": 208649,
+      "name": "come as you are",
+      "url": "https://open.spotify.com/track/1B8rGBG1v6y6hdvJmw4z0O"
     },
     {
       "added_at": "2023-10-15 12:42:09",
@@ -1663,22 +1663,6 @@
     {
       "added_at": "2023-10-15 12:42:09",
       "album": {
-        "name": "Cactus",
-        "url": "https://open.spotify.com/album/5dm1Wf0mTF0PwY3tXqohVI"
-      },
-      "artists": [
-        {
-          "name": "Jang Jane",
-          "url": "https://open.spotify.com/artist/41QP3s5kY0UroKcIeASAMY"
-        }
-      ],
-      "duration_ms": 214346,
-      "name": "Cactus",
-      "url": "https://open.spotify.com/track/6iLgcK64cgkctviVp6ne9i"
-    },
-    {
-      "added_at": "2023-10-15 12:42:09",
-      "album": {
         "name": "Burn Like A Star",
         "url": "https://open.spotify.com/album/36xIARKjnu1X4NijtbBpMQ"
       },
@@ -1695,6 +1679,22 @@
       "duration_ms": 188253,
       "name": "Burn Like A Star",
       "url": "https://open.spotify.com/track/0eB4NVRmmtO99SKfvBU56O"
+    },
+    {
+      "added_at": "2023-10-15 12:42:09",
+      "album": {
+        "name": "Cactus",
+        "url": "https://open.spotify.com/album/5dm1Wf0mTF0PwY3tXqohVI"
+      },
+      "artists": [
+        {
+          "name": "Jang Jane",
+          "url": "https://open.spotify.com/artist/41QP3s5kY0UroKcIeASAMY"
+        }
+      ],
+      "duration_ms": 214346,
+      "name": "Cactus",
+      "url": "https://open.spotify.com/track/6iLgcK64cgkctviVp6ne9i"
     }
   ],
   "unique_name": "v o K a l",

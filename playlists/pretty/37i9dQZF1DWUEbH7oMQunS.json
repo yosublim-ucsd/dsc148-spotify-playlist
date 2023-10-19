@@ -1,12 +1,12 @@
 {
   "description": "Enjoy this deep and meditative list  alone or with a friend and a good cup of coffee.",
-  "num_followers": 54832,
+  "num_followers": 54917,
   "original_name": "The Good Cup",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmZmY2MmE3MjE5NmViM2I4NWZlNmYyZmJlMWRiYWVlZmRlZTZhMzgy",
+  "snapshot_id": "MCwwZWI5ZWVlZDk3MWMxMDFmZDNhNzk4MGZjYjk0ZmYzNTY5Mzg2YzEz",
   "tracks": [
     {
       "added_at": "2023-07-28 04:02:00",
@@ -1011,22 +1011,6 @@
     {
       "added_at": "2023-07-28 04:02:00",
       "album": {
-        "name": "Hope Where There Was None",
-        "url": "https://open.spotify.com/album/0r8wBWtCnNlJP5YE0vPLO5"
-      },
-      "artists": [
-        {
-          "name": "Loud Harp",
-          "url": "https://open.spotify.com/artist/1Tzbi2wUUDgttZfg5u6Gqu"
-        }
-      ],
-      "duration_ms": 196040,
-      "name": "Weeping Mary",
-      "url": "https://open.spotify.com/track/3S96UVk0yav8F1MagcPYas"
-    },
-    {
-      "added_at": "2023-07-28 04:02:00",
-      "album": {
         "name": "Eternal Jetlag",
         "url": "https://open.spotify.com/album/19SWlFIVXqpsMypajm42Kk"
       },
@@ -1039,6 +1023,22 @@
       "duration_ms": 236172,
       "name": "I Go",
       "url": "https://open.spotify.com/track/46BDMbLdWkMvWoxrTDAe5D"
+    },
+    {
+      "added_at": "2023-07-28 04:02:00",
+      "album": {
+        "name": "Hope Where There Was None",
+        "url": "https://open.spotify.com/album/0r8wBWtCnNlJP5YE0vPLO5"
+      },
+      "artists": [
+        {
+          "name": "Loud Harp",
+          "url": "https://open.spotify.com/artist/1Tzbi2wUUDgttZfg5u6Gqu"
+        }
+      ],
+      "duration_ms": 196040,
+      "name": "Weeping Mary",
+      "url": "https://open.spotify.com/track/3S96UVk0yav8F1MagcPYas"
     },
     {
       "added_at": "2023-07-28 04:02:00",
@@ -1115,22 +1115,6 @@
     {
       "added_at": "2023-07-28 04:02:00",
       "album": {
-        "name": "The Universal Christ",
-        "url": "https://open.spotify.com/album/1RSAdj0a47u2IMyyoN364t"
-      },
-      "artists": [
-        {
-          "name": "Corey Kilgannon",
-          "url": "https://open.spotify.com/artist/0XuYkyliNor6szd1B6oBKk"
-        }
-      ],
-      "duration_ms": 231424,
-      "name": "Lord Have Mercy",
-      "url": "https://open.spotify.com/track/3PncNGSRsBsDXuSTSTtSv2"
-    },
-    {
-      "added_at": "2023-07-28 04:02:00",
-      "album": {
         "name": "How Much You Mean To Me",
         "url": "https://open.spotify.com/album/2vQD8zZ9aKcy4H9S6TSBk0"
       },
@@ -1143,6 +1127,22 @@
       "duration_ms": 218129,
       "name": "How Much You Mean To Me",
       "url": "https://open.spotify.com/track/1NdTUsv9MaS9YHUbkIhVPG"
+    },
+    {
+      "added_at": "2023-07-28 04:02:00",
+      "album": {
+        "name": "The Universal Christ",
+        "url": "https://open.spotify.com/album/1RSAdj0a47u2IMyyoN364t"
+      },
+      "artists": [
+        {
+          "name": "Corey Kilgannon",
+          "url": "https://open.spotify.com/artist/0XuYkyliNor6szd1B6oBKk"
+        }
+      ],
+      "duration_ms": 231424,
+      "name": "Lord Have Mercy",
+      "url": "https://open.spotify.com/track/3PncNGSRsBsDXuSTSTtSv2"
     },
     {
       "added_at": "2023-07-28 04:02:00",
@@ -1375,22 +1375,6 @@
     {
       "added_at": "2023-07-28 04:02:00",
       "album": {
-        "name": "Fields",
-        "url": "https://open.spotify.com/album/3i6D6F3708zUuNSA3zrf8s"
-      },
-      "artists": [
-        {
-          "name": "Carinthia",
-          "url": "https://open.spotify.com/artist/5EeqUStk4qDhsJk5RY2AQU"
-        }
-      ],
-      "duration_ms": 411933,
-      "name": "Every Mountain View",
-      "url": "https://open.spotify.com/track/0QRGDEAWr8NtuUMKRpDzMh"
-    },
-    {
-      "added_at": "2023-07-28 04:02:00",
-      "album": {
         "name": "Psalm 68",
         "url": "https://open.spotify.com/album/6dWGYR2VwkucY8CJgPFA3g"
       },
@@ -1403,6 +1387,22 @@
       "duration_ms": 252000,
       "name": "Psalm 68",
       "url": "https://open.spotify.com/track/6j0QBcktzAGf7n5lGEVhPJ"
+    },
+    {
+      "added_at": "2023-07-28 04:02:00",
+      "album": {
+        "name": "Fields",
+        "url": "https://open.spotify.com/album/3i6D6F3708zUuNSA3zrf8s"
+      },
+      "artists": [
+        {
+          "name": "Carinthia",
+          "url": "https://open.spotify.com/artist/5EeqUStk4qDhsJk5RY2AQU"
+        }
+      ],
+      "duration_ms": 411933,
+      "name": "Every Mountain View",
+      "url": "https://open.spotify.com/track/0QRGDEAWr8NtuUMKRpDzMh"
     },
     {
       "added_at": "2023-07-28 04:02:00",
@@ -1495,6 +1495,22 @@
     {
       "added_at": "2023-07-28 04:02:00",
       "album": {
+        "name": "Suddenly - EP",
+        "url": "https://open.spotify.com/album/34CL0SBwvESZpXED6Xy3vN"
+      },
+      "artists": [
+        {
+          "name": "Young Oceans",
+          "url": "https://open.spotify.com/artist/41crVXG3GeS8TmyWEaPZVr"
+        }
+      ],
+      "duration_ms": 289213,
+      "name": "Suddenly",
+      "url": "https://open.spotify.com/track/5hcTf54Yvz9DKpshg3DGnL"
+    },
+    {
+      "added_at": "2023-07-28 04:02:00",
+      "album": {
         "name": "Echoes Of Wonder",
         "url": "https://open.spotify.com/album/0DuV8V9ZQQ7LnD22evmLsd"
       },
@@ -1523,22 +1539,6 @@
       "duration_ms": 237481,
       "name": "Velveteen",
       "url": "https://open.spotify.com/track/4EqMffOPYDDgXlwPgYgbUy"
-    },
-    {
-      "added_at": "2023-07-28 04:02:00",
-      "album": {
-        "name": "Suddenly - EP",
-        "url": "https://open.spotify.com/album/34CL0SBwvESZpXED6Xy3vN"
-      },
-      "artists": [
-        {
-          "name": "Young Oceans",
-          "url": "https://open.spotify.com/artist/41crVXG3GeS8TmyWEaPZVr"
-        }
-      ],
-      "duration_ms": 289213,
-      "name": "Suddenly",
-      "url": "https://open.spotify.com/track/5hcTf54Yvz9DKpshg3DGnL"
     },
     {
       "added_at": "2023-07-28 04:02:00",

@@ -1,12 +1,12 @@
 {
   "description": "2012 highlights from the home of indie music.",
-  "num_followers": 78619,
+  "num_followers": 78660,
   "original_name": "Best of Indie 2012",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2NWQ3MDUxZjNjMmI5NWViNWQ1YWMzM2VjNmExNjhjOWExMWE4MzFk",
+  "snapshot_id": "MCxmZDllYTZiNTRmYTUyNmJiNGU1OWZlMTJlMWNmYjhkYTAyNzg0M2Qy",
   "tracks": [
     {
       "added_at": "2022-05-19 08:11:23",
@@ -695,22 +695,6 @@
     {
       "added_at": "2022-05-19 08:11:23",
       "album": {
-        "name": "Fear Fun",
-        "url": "https://open.spotify.com/album/2CXVonfqGwTQu8dgr2qkNS"
-      },
-      "artists": [
-        {
-          "name": "Father John Misty",
-          "url": "https://open.spotify.com/artist/2kGBy2WHvF0VdZyqiVCkDT"
-        }
-      ],
-      "duration_ms": 190613,
-      "name": "Hollywood Forever Cemetery Sings",
-      "url": "https://open.spotify.com/track/3O30ywyRk6EKT68sBvVqOP"
-    },
-    {
-      "added_at": "2022-05-19 08:11:23",
-      "album": {
         "name": "Jake Bugg",
         "url": "https://open.spotify.com/album/6b2BArDCfSvW3VFenLJatj"
       },
@@ -723,6 +707,22 @@
       "duration_ms": 144013,
       "name": "Lightning Bolt",
       "url": "https://open.spotify.com/track/79DO6dBi8936P6EShLB209"
+    },
+    {
+      "added_at": "2022-05-19 08:11:23",
+      "album": {
+        "name": "Fear Fun",
+        "url": "https://open.spotify.com/album/2CXVonfqGwTQu8dgr2qkNS"
+      },
+      "artists": [
+        {
+          "name": "Father John Misty",
+          "url": "https://open.spotify.com/artist/2kGBy2WHvF0VdZyqiVCkDT"
+        }
+      ],
+      "duration_ms": 190613,
+      "name": "Hollywood Forever Cemetery Sings",
+      "url": "https://open.spotify.com/track/3O30ywyRk6EKT68sBvVqOP"
     },
     {
       "added_at": "2022-05-19 08:11:23",
@@ -823,18 +823,18 @@
     {
       "added_at": "2022-05-19 08:11:23",
       "album": {
-        "name": "Jake Bugg",
-        "url": "https://open.spotify.com/album/6b2BArDCfSvW3VFenLJatj"
+        "name": "Heartthrob",
+        "url": "https://open.spotify.com/album/5IUJ6v408Z7pECC3BXUJxX"
       },
       "artists": [
         {
-          "name": "Jake Bugg",
-          "url": "https://open.spotify.com/artist/4hf3caW9H8uFwwbv5pFjcg"
+          "name": "Tegan and Sara",
+          "url": "https://open.spotify.com/artist/5e1BZulIiYWPRm8yogwUYH"
         }
       ],
-      "duration_ms": 195986,
-      "name": "Two Fingers",
-      "url": "https://open.spotify.com/track/582EVyAFKmKPa1bVPSDurJ"
+      "duration_ms": 209280,
+      "name": "Closer",
+      "url": "https://open.spotify.com/track/4dTVgHZFPlaq9nPbLVVLSG"
     },
     {
       "added_at": "2022-05-19 08:11:23",
@@ -855,18 +855,18 @@
     {
       "added_at": "2022-05-19 08:11:23",
       "album": {
-        "name": "Heartthrob",
-        "url": "https://open.spotify.com/album/5IUJ6v408Z7pECC3BXUJxX"
+        "name": "Jake Bugg",
+        "url": "https://open.spotify.com/album/6b2BArDCfSvW3VFenLJatj"
       },
       "artists": [
         {
-          "name": "Tegan and Sara",
-          "url": "https://open.spotify.com/artist/5e1BZulIiYWPRm8yogwUYH"
+          "name": "Jake Bugg",
+          "url": "https://open.spotify.com/artist/4hf3caW9H8uFwwbv5pFjcg"
         }
       ],
-      "duration_ms": 209280,
-      "name": "Closer",
-      "url": "https://open.spotify.com/track/4dTVgHZFPlaq9nPbLVVLSG"
+      "duration_ms": 195986,
+      "name": "Two Fingers",
+      "url": "https://open.spotify.com/track/582EVyAFKmKPa1bVPSDurJ"
     },
     {
       "added_at": "2022-05-19 08:11:23",
@@ -1051,22 +1051,6 @@
     {
       "added_at": "2022-05-19 08:11:23",
       "album": {
-        "name": "Oshin",
-        "url": "https://open.spotify.com/album/1OgEi1Ss26Aq9S5sK848fh"
-      },
-      "artists": [
-        {
-          "name": "DIIV",
-          "url": "https://open.spotify.com/artist/4OrizGCKhOrW6iDDJHN9xd"
-        }
-      ],
-      "duration_ms": 222973,
-      "name": "Doused",
-      "url": "https://open.spotify.com/track/30uvCVEYqgktyLfDcI76Hx"
-    },
-    {
-      "added_at": "2022-05-19 08:11:23",
-      "album": {
         "name": "Jake Bugg",
         "url": "https://open.spotify.com/album/6b2BArDCfSvW3VFenLJatj"
       },
@@ -1083,18 +1067,34 @@
     {
       "added_at": "2022-05-19 08:11:23",
       "album": {
-        "name": "Thinking In Textures",
-        "url": "https://open.spotify.com/album/47LO6P3JLMkV8QOMRdJc4M"
+        "name": "Arrow",
+        "url": "https://open.spotify.com/album/1mupITVP9mYqKBHjWWDN1W"
       },
       "artists": [
         {
-          "name": "Chet Faker",
-          "url": "https://open.spotify.com/artist/6UcJxoeHWWWyT5HZP064om"
+          "name": "Heartless Bastards",
+          "url": "https://open.spotify.com/artist/2wwMTLM2da1sa2JcJslf8W"
         }
       ],
-      "duration_ms": 221533,
-      "name": "No Diggity",
-      "url": "https://open.spotify.com/track/2u6IAPdDmvp3RPbrGdDX8U"
+      "duration_ms": 308066,
+      "name": "Only for You",
+      "url": "https://open.spotify.com/track/4KwvTXx3yR0FA4LGfxD4xP"
+    },
+    {
+      "added_at": "2022-05-19 08:11:23",
+      "album": {
+        "name": "Oshin",
+        "url": "https://open.spotify.com/album/1OgEi1Ss26Aq9S5sK848fh"
+      },
+      "artists": [
+        {
+          "name": "DIIV",
+          "url": "https://open.spotify.com/artist/4OrizGCKhOrW6iDDJHN9xd"
+        }
+      ],
+      "duration_ms": 222973,
+      "name": "Doused",
+      "url": "https://open.spotify.com/track/30uvCVEYqgktyLfDcI76Hx"
     },
     {
       "added_at": "2022-05-19 08:11:23",
@@ -1115,18 +1115,18 @@
     {
       "added_at": "2022-05-19 08:11:23",
       "album": {
-        "name": "Arrow",
-        "url": "https://open.spotify.com/album/1mupITVP9mYqKBHjWWDN1W"
+        "name": "Thinking In Textures",
+        "url": "https://open.spotify.com/album/47LO6P3JLMkV8QOMRdJc4M"
       },
       "artists": [
         {
-          "name": "Heartless Bastards",
-          "url": "https://open.spotify.com/artist/2wwMTLM2da1sa2JcJslf8W"
+          "name": "Chet Faker",
+          "url": "https://open.spotify.com/artist/6UcJxoeHWWWyT5HZP064om"
         }
       ],
-      "duration_ms": 308066,
-      "name": "Only for You",
-      "url": "https://open.spotify.com/track/4KwvTXx3yR0FA4LGfxD4xP"
+      "duration_ms": 221533,
+      "name": "No Diggity",
+      "url": "https://open.spotify.com/track/2u6IAPdDmvp3RPbrGdDX8U"
     },
     {
       "added_at": "2022-05-19 08:11:23",
@@ -1391,38 +1391,6 @@
     {
       "added_at": "2022-05-19 08:11:23",
       "album": {
-        "name": "Happy To You",
-        "url": "https://open.spotify.com/album/1ypgE8LXmgSdpBWCa5gTOF"
-      },
-      "artists": [
-        {
-          "name": "Miike Snow",
-          "url": "https://open.spotify.com/artist/4l1cKWYW591xnwEGxpUg3J"
-        }
-      ],
-      "duration_ms": 217960,
-      "name": "Paddling Out",
-      "url": "https://open.spotify.com/track/2egGsu9X7zdNJxU9Kftq6l"
-    },
-    {
-      "added_at": "2022-05-19 08:11:23",
-      "album": {
-        "name": "Flume: Deluxe Edition",
-        "url": "https://open.spotify.com/album/1yc3Ldus5BkJBVX9mSFMt4"
-      },
-      "artists": [
-        {
-          "name": "Flume",
-          "url": "https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer"
-        }
-      ],
-      "duration_ms": 209376,
-      "name": "Sleepless feat. Jezzabell Doran",
-      "url": "https://open.spotify.com/track/0XzyXP0E9jsoOwu5Rd7hTV"
-    },
-    {
-      "added_at": "2022-05-19 08:11:23",
-      "album": {
         "name": "II",
         "url": "https://open.spotify.com/album/1RHlOUoinOK5WZconLM6lp"
       },
@@ -1443,6 +1411,38 @@
       "duration_ms": 223840,
       "name": "Forest Whitaker",
       "url": "https://open.spotify.com/track/5S67wnJOMjuySVEu4ssCof"
+    },
+    {
+      "added_at": "2022-05-19 08:11:23",
+      "album": {
+        "name": "Flume: Deluxe Edition",
+        "url": "https://open.spotify.com/album/1yc3Ldus5BkJBVX9mSFMt4"
+      },
+      "artists": [
+        {
+          "name": "Flume",
+          "url": "https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer"
+        }
+      ],
+      "duration_ms": 209376,
+      "name": "Sleepless feat. Jezzabell Doran",
+      "url": "https://open.spotify.com/track/0XzyXP0E9jsoOwu5Rd7hTV"
+    },
+    {
+      "added_at": "2022-05-19 08:11:23",
+      "album": {
+        "name": "Happy To You",
+        "url": "https://open.spotify.com/album/1ypgE8LXmgSdpBWCa5gTOF"
+      },
+      "artists": [
+        {
+          "name": "Miike Snow",
+          "url": "https://open.spotify.com/artist/4l1cKWYW591xnwEGxpUg3J"
+        }
+      ],
+      "duration_ms": 217960,
+      "name": "Paddling Out",
+      "url": "https://open.spotify.com/track/2egGsu9X7zdNJxU9Kftq6l"
     },
     {
       "added_at": "2022-05-19 08:11:23",

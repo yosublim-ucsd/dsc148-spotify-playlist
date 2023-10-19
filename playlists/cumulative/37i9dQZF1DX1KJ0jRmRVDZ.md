@@ -4,7 +4,7 @@
 
 > インターネット・カルチャーから次々と出現するアーティストを特集。Check out artists of the new Internet age! Illustration by <a href="https://twitter.com/hoshieri7">北村英理</a>\(Eri Kitamura\)
 
-855 songs - 2 day 0 hr 52 min
+857 songs - 2 day 0 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -125,7 +125,8 @@
 | [Hex](https://open.spotify.com/track/6eIOTgdN2xHDkPgTr1LOyt) | [ユトレヒト](https://open.spotify.com/artist/0y3zz3pSjcGLwxaQvsd7uZ) | [Hex](https://open.spotify.com/album/24bCkzGthetSLGCeiT37YK) | 4:07 | 2023-03-08 | 2023-03-09 |
 | [Hibiranran.](https://open.spotify.com/track/2DqdszvU0Ue9A1zHAm33PG) | [Nakimushi](https://open.spotify.com/artist/2zv25U5N7QyNcn8I9kzZVn) | [Hibiranran.](https://open.spotify.com/album/0IpuDe5NRfYN1ICCyGf7OZ) | 3:04 | 2023-03-09 | 2023-04-12 |
 | [Himawari](https://open.spotify.com/track/4CEg2ZSlsQaO8zOCai89gA) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [Himawari](https://open.spotify.com/album/2w8Y2kdC21njltt0Wt6em9) | 4:19 | 2023-07-11 | 2023-10-13 |
-| [Hollow](https://open.spotify.com/track/6SKXnSDNAr1goHftuzjbeK) | [BIN](https://open.spotify.com/artist/7sDDtZP2I0BT5GwatnM0gk) | [Hollow](https://open.spotify.com/album/5a3IxGOeFt5mqZCKeDSDM5) | 3:19 | 2023-10-17 |  |
+| [Hollow](https://open.spotify.com/track/1shLOpBNrpV0RLO6gGcpiI) | [BIN](https://open.spotify.com/artist/7sDDtZP2I0BT5GwatnM0gk) | [Hollow](https://open.spotify.com/album/76gWkIByA75YJDWAJWGbWg) | 3:19 | 2023-10-17 |  |
+| [Hollow](https://open.spotify.com/track/6SKXnSDNAr1goHftuzjbeK) | [BIN](https://open.spotify.com/artist/7sDDtZP2I0BT5GwatnM0gk) | [Hollow](https://open.spotify.com/album/5a3IxGOeFt5mqZCKeDSDM5) | 3:19 | 2023-10-17 | 2023-10-19 |
 | [Hollow](https://open.spotify.com/track/4GfyY2ClRNnkI2PGsEFKFY) | [獅子志司](https://open.spotify.com/artist/6WuH4EcRO2y8v6z3lVsA4v) | [Hollow](https://open.spotify.com/album/1O0CAfNoYe79Xns7QEjajv) | 3:27 | 2022-12-27 | 2023-01-11 |
 | [Hollows...](https://open.spotify.com/track/6QqQqCg9dQdjAqIkw2CBTQ) | [whaledontsleep](https://open.spotify.com/artist/5lEzAveEBteB85UVvKTanp) | [Hollows...](https://open.spotify.com/album/4aP9Jc2UQfHnNKOBdmyUvR) | 3:28 | 2023-07-11 | 2023-07-26 |
 | [Honjitsu no Shotai](https://open.spotify.com/track/01ZBfQ4OjFODqWfvkgKn7y) | [NEE](https://open.spotify.com/artist/1gh7KnvnbRnc1gXEPuV8KH) | [Honjitsu no Shotai](https://open.spotify.com/album/1dXMQs6RfDHv6lgAPA1yxq) | 3:25 | 2022-09-27 | 2023-01-18 |
@@ -133,6 +134,7 @@
 | [hubble](https://open.spotify.com/track/5uWfOaIdE46AFbS5DEjgPo) | [Pedestrian](https://open.spotify.com/artist/6fIP2qKVhs77fnk8PqyzZg), [edda](https://open.spotify.com/artist/05fBrcz8TP0pSUMIE5fOIW) | [hubble](https://open.spotify.com/album/3AhCTrJKiuphbfVwdUZoBi) | 2:35 | 2022-06-13 | 2022-07-27 |
 | [I love](https://open.spotify.com/track/07VP4xggoHfRA8SlBzCVdf) | [リリぴ](https://open.spotify.com/artist/7mk9NIekDtJcmkHuW0YGeF) | [I love](https://open.spotify.com/album/4uphoezlkDioeHAEw5DICI) | 2:23 | 2022-09-14 | 2022-09-21 |
 | [I no rockstar](https://open.spotify.com/track/2j1fgBrVvypLpIOdwxzJnF) | [メガテラ・ゼロ](https://open.spotify.com/artist/4I7F7bTQ9tBnRI2razDP9B), [夢ノ結唱 ROSE](https://open.spotify.com/artist/1fkyVWtgEKb9epNQUD6UQ9) | [I no rockstar](https://open.spotify.com/album/7vQs1DuIeiwlwAfwVS0XTL) | 3:52 | 2023-06-08 | 2023-06-28 |
+| [I'm your hero](https://open.spotify.com/track/3mxwpuEFhRxKTryxKqDymy) | [After the Rain](https://open.spotify.com/artist/2v7nGZtRBqPyfcwcEYjDfX) | [I'm your hero](https://open.spotify.com/album/31KsChYG9kwMqcQNjxCsAG) | 4:19 | 2023-10-17 |  |
 | [ia](https://open.spotify.com/track/0Gh8WFwlECOD2v57zF15Nn) | [Kei Sugawara](https://open.spotify.com/artist/7xlTOxmnztZVNgoPlMV6YS) | [ia](https://open.spotify.com/album/3hfq2hcMkXGUl6tewG5yQT) | 4:14 | 2022-07-28 | 2022-08-17 |
 | [ia](https://open.spotify.com/track/2mnUQfzbAM5KLLL6vjhlpG) | [Kei Sugawara](https://open.spotify.com/artist/7xlTOxmnztZVNgoPlMV6YS) | [ia](https://open.spotify.com/album/61ON4UP1najrsFvPXTt7j8) | 4:14 | 2022-07-14 | 2022-07-29 |
 | [Ibara](https://open.spotify.com/track/3GOPpPhR2FYGvIE0WdZdeT) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [Ibara](https://open.spotify.com/album/5mTalfXdPFFP3M5VShajlw) | 4:21 | 2023-05-09 | 2023-07-14 |
@@ -379,7 +381,7 @@
 | [アイウエ](https://open.spotify.com/track/7rqYTYi70xZBqEMAtSVhXc) | [MAISONdes](https://open.spotify.com/artist/7LTiBdByoaUd329wCpmMcM), [美波](https://open.spotify.com/artist/1KXJUpTiNeMv93LrJbbm7G), [SAKURAmoti](https://open.spotify.com/artist/2raQe3AjMykp6K4Y890owO) | [アイウエ](https://open.spotify.com/album/1cWeuydo4eS8AwAID5YUGJ) | 3:42 | 2022-10-13 | 2023-08-28 |
 | [アイデンティティ](https://open.spotify.com/track/6XREfc9wtfsmrod7iHVyz4) | [yupsilon](https://open.spotify.com/artist/3Cl6y3KYs5OJnu7GHZJMY3) | [アイデンティティ](https://open.spotify.com/album/7ABk4YwEoiYyzrJJ85MHjF) | 2:41 | 2022-10-06 | 2022-10-08 |
 | [アイドル](https://open.spotify.com/track/7ovUcF5uHTBRzUpB6ZOmvt) | [YOASOBI](https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj) | [アイドル](https://open.spotify.com/album/7yMkS4NCpG0FH6NoaH3F0a) | 3:33 | 2023-04-11 |  |
-| [アイムユアヒーロー](https://open.spotify.com/track/3qLF8tsuoFkpVVqBQyTgM8) | [After the Rain](https://open.spotify.com/artist/2v7nGZtRBqPyfcwcEYjDfX) | [アイムユアヒーロー](https://open.spotify.com/album/59DatHJiCB1PXiHhHq1Fsu) | 4:19 | 2023-10-17 |  |
+| [アイムユアヒーロー](https://open.spotify.com/track/3qLF8tsuoFkpVVqBQyTgM8) | [After the Rain](https://open.spotify.com/artist/2v7nGZtRBqPyfcwcEYjDfX) | [アイムユアヒーロー](https://open.spotify.com/album/59DatHJiCB1PXiHhHq1Fsu) | 4:19 | 2023-10-17 | 2023-10-19 |
 | [アイロニー](https://open.spotify.com/track/1JoQ0Iyq02AT0H6QuOZL1j) | [SHIROIRO](https://open.spotify.com/artist/0m4yOZKtpZQZqJLeUunwW8) | [アイロニー](https://open.spotify.com/album/41PIdEyCaAZCIWn6nwUScI) | 2:53 | 2023-03-09 | 2023-03-25 |
 | [アイワナムチュー](https://open.spotify.com/track/21zl36W7QoaVy5MMxAvfcv) | [MAISONdes](https://open.spotify.com/artist/7LTiBdByoaUd329wCpmMcM), [asmi](https://open.spotify.com/artist/3UY1KK0iXeC0mpaK0ltFza), [すりぃ](https://open.spotify.com/artist/29XdcKZcwr9ikcmxud5UEa) | [アイワナムチュー](https://open.spotify.com/album/1JNzKXrtkaXgn5y96johqC) | 3:25 | 2023-01-05 |  |
 | [アイ独リ論 \-self cover\-](https://open.spotify.com/track/72SQo5lOWxjx0QmVR45kwv) | [ノラ](https://open.spotify.com/artist/0D1NT8IXN0I2wrbVOb1NNj) | [アイ独リ論 \-self cover\-](https://open.spotify.com/album/5fApnTEkwBPHQZKToboLqw) | 2:56 | 2022-06-28 | 2022-06-30 |

@@ -4,7 +4,7 @@
 
 > Canciones instrumentales de guitarra.
 
-600 songs - 1 day 1 hr 26 min
+601 songs - 1 day 1 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -248,7 +248,7 @@
 | [I Never Really Lost You](https://open.spotify.com/track/5ktW8oGQimLO9EE7mPdkrc) | [Penélope Diaz](https://open.spotify.com/artist/2LDBNTLWlHsBYpstmWFZth) | [I Never Really Lost You](https://open.spotify.com/album/5NB6PAUks28HbiKhYl09DI) | 3:37 | 2022-07-15 | 2023-03-11 |
 | [I Still Believe In You](https://open.spotify.com/track/0cRv6i0wB4WObSQxJriIea) | [Dean M Parker](https://open.spotify.com/artist/1QuHekBuKJTCJa4R0ZbzdT) | [I Still Believe In You](https://open.spotify.com/album/6BDHTLktaSrdqKvRD98VG4) | 2:36 | 2023-04-21 | 2023-05-13 |
 | [I Wanna Be Yours](https://open.spotify.com/track/6huxjr8XKFnhtXQD02LIJ7) | [Trevor Potts](https://open.spotify.com/artist/6fTOLvQf6rBdCas2UAAEEa) | [I Wanna Be Yours](https://open.spotify.com/album/0wwXoEiDEyHMwS6etJwYbR) | 2:36 | 2023-02-24 | 2023-04-22 |
-| [Icarus](https://open.spotify.com/track/6kTvM9JYiEriQHNRXhFUPs) | [Freda Barton](https://open.spotify.com/artist/0fylCOnl5ssW7QWnuMYPun) | [Icarus](https://open.spotify.com/album/6kefDAQzsl3jmFnt93Iaxz) | 2:43 | 2023-04-21 | 2023-10-15 |
+| [Icarus](https://open.spotify.com/track/6kTvM9JYiEriQHNRXhFUPs) | [Freda Barton](https://open.spotify.com/artist/0fylCOnl5ssW7QWnuMYPun) | [Icarus](https://open.spotify.com/album/6kefDAQzsl3jmFnt93Iaxz) | 2:43 | 2023-04-21 |  |
 | [If Only](https://open.spotify.com/track/0TzHkdetO52vNoFkf1bqyP) | [Vita Alexander](https://open.spotify.com/artist/02UYAhAK74cyfh0UU0yngz) | [If Only](https://open.spotify.com/album/4SkSg2UW1Tvw3sbbBniySM) | 2:44 | 2023-09-29 |  |
 | [Igueldo](https://open.spotify.com/track/4IN9TQVhu3Mzw1fEwblxGq) | [Rick Strauss](https://open.spotify.com/artist/5eZxnhbh1hSbnwiSBzlb5q) | [Silver Castle](https://open.spotify.com/album/60mfbInhL61D5iw97J0nE5) | 2:12 | 2022-07-15 | 2023-04-22 |
 | [Il Tramonto](https://open.spotify.com/track/1wHO9UPhBh1b7kg0JOBlSd) | [Enzo La Mattina](https://open.spotify.com/artist/6z7U7lNXziQtlaVlWbfJa9) | [Il Tramonto](https://open.spotify.com/album/2Qx4P5RKFaxEnakbDE531a) | 2:28 | 2023-04-21 |  |
@@ -353,6 +353,7 @@
 | [Moi, toi et elle](https://open.spotify.com/track/4SQWZnUxFl825pqhyWrKJd) | [Jourdain Hume](https://open.spotify.com/artist/60PchiK8jssOvwkHk8By6Q) | [Moi, toi et elle](https://open.spotify.com/album/6OSDdIhJhjaudk4cWncSG3) | 2:44 | 2023-04-21 | 2023-06-03 |
 | [Moments](https://open.spotify.com/track/5KscTL4V9Yz0hgH5aiJCLF) | [Steve D](https://open.spotify.com/artist/7JaeTu8xN4ZYcKyGrK6DBW) | [Moments](https://open.spotify.com/album/1pN9aYINmhUNUH1KFVDjHJ) | 1:39 | 2023-05-12 | 2023-08-26 |
 | [Mond Stille](https://open.spotify.com/track/4R5W9Oq91uYpal40VdTGTl) | [Camilo Branca](https://open.spotify.com/artist/2jH6TryZOIvoPpQqb1hRmc) | [Mond Stille](https://open.spotify.com/album/3Uil3hqZzTEUHRVZ9aBE9Y) | 2:51 | 2023-04-21 |  |
+| [Montes Claros](https://open.spotify.com/track/2DwZFuh7xnuEDvNwz4mAMi) | [Adeben](https://open.spotify.com/artist/5cSY1JVvW3EoDFLfjuEBkg) | [Montes Claros](https://open.spotify.com/album/4xouEO0NJWhJswiV2Qofy8) | 2:45 | 2023-10-13 |  |
 | [Montesinho](https://open.spotify.com/track/5AzYGfl2BlQS2xDy63NcoL) | [Roberto Cabello Jr.](https://open.spotify.com/artist/3wCRv2qzTQDamiPfSc2zPp) | [Montesinho](https://open.spotify.com/album/5DNcFeLsvdr047AGIDtdWA) | 2:15 | 2022-07-15 | 2023-03-11 |
 | [Monteverde](https://open.spotify.com/track/7x04qsGEUv26a7gaOE2BsB) | [Marino Calle](https://open.spotify.com/artist/7B5DgVnyn7BhJ3gWxIWCYJ) | [Monteverde](https://open.spotify.com/album/0fYsEA210VvjfSWxQbgLNb) | 2:11 | 2023-04-21 |  |
 | [Moon Hearts](https://open.spotify.com/track/6iC68UqmwcLfceDrhFdE69) | [Remy Simon](https://open.spotify.com/artist/0ExT57wmZSDy4h6wT1AGqs) | [Moon Hearts](https://open.spotify.com/album/4m6Vz7DuJL1u4ezzqHZbOt) | 2:48 | 2023-04-21 | 2023-09-01 |
@@ -419,7 +420,7 @@
 | [Quondam](https://open.spotify.com/track/3s2DgQijs4kj42NehQZnwG) | [Colibrí Acústico](https://open.spotify.com/artist/6aKYru6qh4nD6Ivcl3WjUB) | [Quercus](https://open.spotify.com/album/5UOtIQBUnWIYh40uPWNC2e) | 3:03 | 2022-07-15 | 2023-04-22 |
 | [Raconteur](https://open.spotify.com/track/7qzfZetxTQEZlFi3QB7zHx) | [Michèle Courbis](https://open.spotify.com/artist/2BEY2sCSB3h4dO65KU87pv) | [Raconteur](https://open.spotify.com/album/6zJrL7ptspQXKC1CaBkVBV) | 2:15 | 2023-04-21 |  |
 | [Raphaela](https://open.spotify.com/track/09eAG4nD5njEFBEhm2aQy9) | [Victor Manu](https://open.spotify.com/artist/2faFzPAZ0UYeY6TlerQmGK) | [Raphaela](https://open.spotify.com/album/2rHXOxttBdWZ45jSuMKgXv) | 3:00 | 2022-07-15 | 2023-05-13 |
-| [Rays in March](https://open.spotify.com/track/0dpDf1nbYcYhSDQLamQc2V) | [Yolanda Rae](https://open.spotify.com/artist/7hVOcrYbi7ru9tDmWqZnIx) | [Rays in March](https://open.spotify.com/album/6GWqI97c528sSrMwxIxnf1) | 2:15 | 2023-04-21 |  |
+| [Rays in March](https://open.spotify.com/track/0dpDf1nbYcYhSDQLamQc2V) | [Yolanda Rae](https://open.spotify.com/artist/7hVOcrYbi7ru9tDmWqZnIx) | [Rays in March](https://open.spotify.com/album/6GWqI97c528sSrMwxIxnf1) | 2:15 | 2023-04-21 | 2023-10-19 |
 | [Reminiscent Of Us](https://open.spotify.com/track/1CyUDJ44PxxDxKyNcS9n9H) | [Maria Isabel Ferrer](https://open.spotify.com/artist/2O25jw9AGamJtHPzUnCSz9) | [Reminiscent Of Us](https://open.spotify.com/album/7GZ9cChnV0Z267BDz8n4sg) | 2:33 | 2023-04-21 |  |
 | [Renacer](https://open.spotify.com/track/5RLG9xOJEFTjZjhmwWul7L) | [Ciara Lowry](https://open.spotify.com/artist/2tVmWsY4FJRSV3ciYlsW2S) | [Renacer](https://open.spotify.com/album/3bZKCf0hvKE8fj3ZgGlRlU) | 2:28 | 2023-04-21 |  |
 | [Repos profond](https://open.spotify.com/track/0FEsDGbGZ6lYqITAot0zeN) | [Pascal Desprez](https://open.spotify.com/artist/6ejWaGjAI1lJ3PcLJ6c3OW) | [Repos profond](https://open.spotify.com/album/5zZlYMoFYienIwLSKEHqUp) | 2:44 | 2023-04-21 |  |
@@ -600,7 +601,7 @@
 | [Winter is coming](https://open.spotify.com/track/2TVL32urlZnR6EBTRGUHEP) | [Moody Me](https://open.spotify.com/artist/195UO4AUwZfApowkBDD3i8) | [Winter is coming](https://open.spotify.com/album/33zjD4b9Oeab3uRFpcuZFw) | 2:32 | 2023-04-21 |  |
 | [Winterland](https://open.spotify.com/track/1gW3VKqi9qjRHLyBhg4IZO) | [Alexa Popov](https://open.spotify.com/artist/0qVJFO1tdBqdhHfwcBoHfE) | [Winterland](https://open.spotify.com/album/3Yvb1Wl1aDWwgEUM0vuM9L) | 2:11 | 2023-04-21 |  |
 | [Wishful Thinking](https://open.spotify.com/track/32jAfJ9rlQRGfFISloeh9m) | [Channing Spence](https://open.spotify.com/artist/7HHhJuGxvzmJzu0UOfrEEp) | [Wishful Thinking](https://open.spotify.com/album/23wAvlEfME0Hg9UYDRTgx2) | 2:28 | 2023-04-21 | 2023-10-03 |
-| [Wishing It Was So](https://open.spotify.com/track/144IEqxttGI6l5MKryGZsL) | [Mia Pandosa](https://open.spotify.com/artist/1bLfERJJqbxHMdNMdDtpAL) | [Wishing It Was So](https://open.spotify.com/album/1Gf2koBhgOt4z4QaWYVuAU) | 2:41 | 2023-04-21 |  |
+| [Wishing It Was So](https://open.spotify.com/track/144IEqxttGI6l5MKryGZsL) | [Mia Pandosa](https://open.spotify.com/artist/1bLfERJJqbxHMdNMdDtpAL) | [Wishing It Was So](https://open.spotify.com/album/1Gf2koBhgOt4z4QaWYVuAU) | 2:41 | 2023-04-21 | 2023-10-19 |
 | [wolkenlos](https://open.spotify.com/track/1GtvNtOFcgyapayFKdEPfn) | [Dieter Huber](https://open.spotify.com/artist/2wdHPx6lvGu3MvTH61uvTi) | [Waldspaziergang](https://open.spotify.com/album/12zVtMVg3VOEsVZ3nA4BdB) | 3:36 | 2022-07-15 | 2023-04-22 |
 | [Woods](https://open.spotify.com/track/4pqqF7B7YVFHidJ4kDybk2) | [Sergei Baronin](https://open.spotify.com/artist/43F9YqxW89cDIMwYv7Ruoy) | [Woods](https://open.spotify.com/album/6Bsv4F8PGSosuGjvqOn1Pu) | 1:53 | 2023-04-21 | 2023-06-03 |
 | [Yellow](https://open.spotify.com/track/27DodeB1seENJxnWojPa6G) | [Walter Penn](https://open.spotify.com/artist/2CWnlvisVPTCncNKI0k3U9) | [Yellow](https://open.spotify.com/album/6ogaGgYB25jgZmCo405fq6) | 2:31 | 2023-03-31 | 2023-04-22 |

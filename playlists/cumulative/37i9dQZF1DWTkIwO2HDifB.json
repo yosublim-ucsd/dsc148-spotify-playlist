@@ -109,6 +109,36 @@
     },
     {
       "album": {
+        "name": "Agudo M\u00e1gico 4",
+        "url": "https://open.spotify.com/album/3bJ9tlUgJ9DuXhZmije3Te"
+      },
+      "artists": [
+        {
+          "name": "Dj Aur\u00e9lio",
+          "url": "https://open.spotify.com/artist/2aBp5B1hhPlvVWbocbfA6x"
+        },
+        {
+          "name": "MC Lipivox",
+          "url": "https://open.spotify.com/artist/03R5vvmqjPsxS7Y5be6IAY"
+        },
+        {
+          "name": "Dj TG Beats",
+          "url": "https://open.spotify.com/artist/6Eni0bpQP6Z3G2CIN7VJRh"
+        },
+        {
+          "name": "MC Renatinho Falc\u00e3o",
+          "url": "https://open.spotify.com/artist/5ni5kHDqfUWwlJNpJcCdnO"
+        }
+      ],
+      "date_added": "2023-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184994,
+      "name": "Agudo M\u00e1gico 4",
+      "url": "https://open.spotify.com/track/1Mo0eByHXwKJRLHuNXlDJK"
+    },
+    {
+      "album": {
         "name": "Ai Preto",
         "url": "https://open.spotify.com/album/5Sfg1gKAk7zW9BK91HkKhQ"
       },
@@ -414,6 +444,40 @@
       "duration_ms": 124238,
       "name": "Bagulho Louco",
       "url": "https://open.spotify.com/track/04vzhKfl5HtPEgrdZJCZ7L"
+    },
+    {
+      "album": {
+        "name": "Baile do Bruxo",
+        "url": "https://open.spotify.com/album/4gTpoHQozYg3jI7KTbFsfx"
+      },
+      "artists": [
+        {
+          "name": "Tropa do Bruxo",
+          "url": "https://open.spotify.com/artist/4s3lxX76LwxzMdQEAFYdzv"
+        },
+        {
+          "name": "DJ Ws da Igrejinha",
+          "url": "https://open.spotify.com/artist/0NB5wv4kn6A919CLHUKRmk"
+        },
+        {
+          "name": "SMU",
+          "url": "https://open.spotify.com/artist/2qATSoNFfzMaTEZFfJpG4c"
+        },
+        {
+          "name": "Triz",
+          "url": "https://open.spotify.com/artist/4ACGdFl6mPI3lntaYef1gc"
+        },
+        {
+          "name": "Mc Menor Thalis",
+          "url": "https://open.spotify.com/artist/3qjoOrsHcxhgKyBsh4ZOEn"
+        }
+      ],
+      "date_added": "2023-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221538,
+      "name": "Baile do Bruxo",
+      "url": "https://open.spotify.com/track/00ZKeP47bZtswtANkvxz2j"
     },
     {
       "album": {
@@ -1318,7 +1382,7 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-19",
       "duration_ms": 186352,
       "name": "Dj Boy pra Presidente",
       "url": "https://open.spotify.com/track/63Z291WFcAEHPNENtVP1UG"
@@ -1862,7 +1926,7 @@
       ],
       "date_added": "2023-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-19",
       "duration_ms": 107076,
       "name": "Evoque Prata",
       "url": "https://open.spotify.com/track/0bBwi6ddYeTv5fXgHAdfiH"
@@ -2900,7 +2964,7 @@
       ],
       "date_added": "2021-12-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-19",
       "duration_ms": 164307,
       "name": "Ma\u00e7\u00e3 Verde",
       "url": "https://open.spotify.com/track/7lJoRyuNJtuiqTcKtuMuIR"
@@ -5282,6 +5346,32 @@
       "duration_ms": 123820,
       "name": "Vai Novinha Ah Ah Ah",
       "url": "https://open.spotify.com/track/3Nvzs0cJbLwhXPPlI8xzpC"
+    },
+    {
+      "album": {
+        "name": "Vem Quebrando",
+        "url": "https://open.spotify.com/album/0aQOJ7eiOSyP0Yf3mwIEdF"
+      },
+      "artists": [
+        {
+          "name": "Mc Danone",
+          "url": "https://open.spotify.com/artist/5AkhuEE9FYontxsHqqmtNQ"
+        },
+        {
+          "name": "DJ THG",
+          "url": "https://open.spotify.com/artist/2SvKC08nVN1betbwPtr3Lc"
+        },
+        {
+          "name": "Dj Hm Oliveira",
+          "url": "https://open.spotify.com/artist/0XLrjcXTNJmPJTF3ByHJfV"
+        }
+      ],
+      "date_added": "2023-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148615,
+      "name": "Vem Quebrando",
+      "url": "https://open.spotify.com/track/7Iq55toOSSBCEoGuXxQSa1"
     },
     {
       "album": {

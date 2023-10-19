@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUlTJaFU1ddx.md) - [plain]
 
 > The sweet sounds of Jordan.
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,355 likes - 60 songs - 3 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,368 likes - 60 songs - 3 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,8 +44,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUlTJaFU1ddx.md) - [plain]
 | 34 | [Zubalah](https://open.spotify.com/track/3AQMp7f6Pgm3gHUGoTqDyL) | [Hayajan](https://open.spotify.com/artist/0ezquZkJscWDhtBZwptcKT) | [Khusouf Al\-Ard](https://open.spotify.com/album/6RMRNXNTg12KwIUIxFcYay) | 3:48 |
 | 35 | [Tmaneet Ashofak](https://open.spotify.com/track/5dueytCp1DWHJizVwQ34va) | [Omar Alabdallat](https://open.spotify.com/artist/3zbimX3Z591csbDHH2Iuxc), [Salah Alakhfash](https://open.spotify.com/artist/7zBvvEkToHUjaOmdVHHJfQ) | [Tmaneet Ashofak](https://open.spotify.com/album/0FIEcX7gSEX1h8PqsQbWhu) | 4:58 |
 | 36 | [Waggif](https://open.spotify.com/track/01g5Dl95lH5qQyjjXucOPf) | [Aziz Maraka](https://open.spotify.com/artist/2qi698G7BphxwdPUbQgZMU) | [Waggif](https://open.spotify.com/album/0hLTpm3Xcac0uUsl1HfeQx) | 2:52 |
-| 37 | [Nasi](https://open.spotify.com/track/2c2by2xH5vEW142S9zZD7G) | [Hana Malhas](https://open.spotify.com/artist/0EQjOxeqpT2ebzA1NvT9Cu) | [Nasi](https://open.spotify.com/album/5LC6AvKrSmynyr7o50k5OM) | 3:44 |
-| 38 | [Hold Your Ground](https://open.spotify.com/track/0KmiXlCv8005j9o340PW4e) | [47SOUL](https://open.spotify.com/artist/5nxFmhSekt9Acn4tWZxGge), [Lowkey](https://open.spotify.com/artist/2ps77LMRMUCMl5N6uRWOTH) | [Hold Your Ground](https://open.spotify.com/album/6fxuBrz4h4iOuW5hVoiJmc) | 4:35 |
+| 37 | [Hold Your Ground](https://open.spotify.com/track/0KmiXlCv8005j9o340PW4e) | [47SOUL](https://open.spotify.com/artist/5nxFmhSekt9Acn4tWZxGge), [Lowkey](https://open.spotify.com/artist/2ps77LMRMUCMl5N6uRWOTH) | [Hold Your Ground](https://open.spotify.com/album/6fxuBrz4h4iOuW5hVoiJmc) | 4:35 |
+| 38 | [Nasi](https://open.spotify.com/track/2c2by2xH5vEW142S9zZD7G) | [Hana Malhas](https://open.spotify.com/artist/0EQjOxeqpT2ebzA1NvT9Cu) | [Nasi](https://open.spotify.com/album/5LC6AvKrSmynyr7o50k5OM) | 3:44 |
 | 39 | [انتي القدر](https://open.spotify.com/track/2qSOhlYYwnlmTh5MNlxv6T) | [MoJaNaD](https://open.spotify.com/artist/1LTJFwU5wuzqgYWzvkqBix) | [انتي القدر](https://open.spotify.com/album/3jm2Mw7iAV31QfoRverhwL) | 3:42 |
 | 40 | [Manama](https://open.spotify.com/track/3zOixogOi4v75PI7bkws2O) | [Dub Caravan](https://open.spotify.com/artist/7BhIlI9vRbaE1i1bYm81ZF), [Almukhtar](https://open.spotify.com/artist/7ekEnaplxNFP0jh9hiyeM8) | [Manama](https://open.spotify.com/album/3pnLlR5wQ08LWbyb93clqe) | 3:40 |
 | 41 | [Laysa](https://open.spotify.com/track/2miXa7bxd39RSSn1VvPs7o) | [Luay Hijazeen](https://open.spotify.com/artist/2a1uAKszGY1wTHnbT0Y9Y8) | [Laysa](https://open.spotify.com/album/59al6unEUgOFKSknNugus9) | 2:26 |
@@ -57,9 +57,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUlTJaFU1ddx.md) - [plain]
 | 47 | [7ai](https://open.spotify.com/track/7lx7KcCLJtHTCFglYQC12y) | [MoJaNaD](https://open.spotify.com/artist/1LTJFwU5wuzqgYWzvkqBix), [Bader Azem](https://open.spotify.com/artist/75hMrwzTIrdi0SvamLjY9D) | [Xvibe](https://open.spotify.com/album/6W7b9RFrdBE29953myz6b7) | 2:47 |
 | 48 | [OK 3adi](https://open.spotify.com/track/7uvT6cxtmmpLYED0uOaypM) | [Jaafar](https://open.spotify.com/artist/4Svx0xgoS8UA2ldqxmxG4L) | [OK 3adi](https://open.spotify.com/album/4KVKvjqBmoPlYMUsiW7O8v) | 2:46 |
 | 49 | [Nasheed Al Abtal](https://open.spotify.com/track/0NWhRdPRI06ABKoOeRSgrb) | [Hani Mitwasi](https://open.spotify.com/artist/5m8fc8h0xd4QfpJzcPI9NK) | [Nasheed Al Abtal](https://open.spotify.com/album/1h6ZfXJnDh0Vvlrv7mj7yh) | 3:07 |
-| 50 | [Mabsoot Bhali](https://open.spotify.com/track/6B1Fq1RpAW1dBTaCZ9WxQ2) | [Luay Hijazeen](https://open.spotify.com/artist/2a1uAKszGY1wTHnbT0Y9Y8) | [Mabsoot Bhali](https://open.spotify.com/album/3nm3ELWFVPTN7Iq6D7GWYj) | 3:19 |
+| 50 | [Affon Mennik](https://open.spotify.com/track/62tYV2LYspoAS5vvZKB1EL) | [Atef Malhas](https://open.spotify.com/artist/6gm05jmgIx3YvLtzl1GDas) | [Affon Mennik](https://open.spotify.com/album/3txVOVb4WHe4AzuvjMYrKn) | 3:20 |
 | 51 | [Pedazos de mi vida](https://open.spotify.com/track/5LXmGPStiy83Tnsq96G9V6) | [Farah Siraj](https://open.spotify.com/artist/0blZk3JXQG2roCiO6KCJWY) | [Nomad](https://open.spotify.com/album/0y5vb7o8uCKsA858HIG2dM) | 3:28 |
-| 52 | [Affon Mennik](https://open.spotify.com/track/62tYV2LYspoAS5vvZKB1EL) | [Atef Malhas](https://open.spotify.com/artist/6gm05jmgIx3YvLtzl1GDas) | [Affon Mennik](https://open.spotify.com/album/3txVOVb4WHe4AzuvjMYrKn) | 3:20 |
+| 52 | [Mabsoot Bhali](https://open.spotify.com/track/6B1Fq1RpAW1dBTaCZ9WxQ2) | [Luay Hijazeen](https://open.spotify.com/artist/2a1uAKszGY1wTHnbT0Y9Y8) | [Mabsoot Bhali](https://open.spotify.com/album/3nm3ELWFVPTN7Iq6D7GWYj) | 3:19 |
 | 53 | [دوامات](https://open.spotify.com/track/7ys7eUYsciH8LefcobJ4hQ) | [Almukhtar](https://open.spotify.com/artist/7ekEnaplxNFP0jh9hiyeM8) | [دوامات](https://open.spotify.com/album/2PbNvLR2MHgirCervbyo8n) | 4:20 |
 | 54 | [Howeh El Hob](https://open.spotify.com/track/7o0v7fQ8SJKQjjA1kzSabX) | [Adham Nabulsi](https://open.spotify.com/artist/2eQ5uR5wKDEQ5zKPQyLHC1) | [Howeh El Hob](https://open.spotify.com/album/7CboCx8gUJ67FJ3iB4U9h7) | 4:03 |
 | 55 | [Naskha Mennek](https://open.spotify.com/track/1QvPkpRLq07ps7S9izzQtK) | [Adham Nabulsi](https://open.spotify.com/artist/2eQ5uR5wKDEQ5zKPQyLHC1) | [Naskha Mennek](https://open.spotify.com/album/6vfo2SVprRnGs1hzo8cWiX) | 5:18 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUlTJaFU1ddx.md) - [plain]
 | 59 | [Hala O Ghala](https://open.spotify.com/track/1DJ2pwtprG3edEU2pbVVDi) | [Toni Qattan](https://open.spotify.com/artist/1IJJoAyxznu3orwXhlt3XO) | [Hala O Ghala](https://open.spotify.com/album/74vATKQHUWKVc4T7uYLK3n) | 3:31 |
 | 60 | [Ma Bdi Heb](https://open.spotify.com/track/54eiRWO1fHjuxWDptNftM8) | [Toni Qattan](https://open.spotify.com/artist/1IJJoAyxznu3orwXhlt3XO) | [Ma Bdi Heb](https://open.spotify.com/album/2mCEBE4YATciVhoaIWLc6Z) | 4:14 |
 
-Snapshot ID: `MCwyMzhkODEyNmE4YWU0Njc5MDM1YWM5YjU4MDNmMzY1YzRmZTM0ZmM5`
+Snapshot ID: `MCxmOWNlZGQ2YjVjMGYwZDkyOTA1MjU2ZWZlMDBhYWM0M2QxN2RmMWMy`

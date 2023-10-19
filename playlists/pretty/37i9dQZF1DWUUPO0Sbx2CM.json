@@ -1,12 +1,12 @@
 {
   "description": "A mix of EDM, Pop, Hip Hop, Worship, and remixes!  Discover songs from artists defining the sound of now and tomorrow!",
-  "num_followers": 178659,
+  "num_followers": 178825,
   "original_name": "Christian Dance Party",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwNTA3ZWU0YzYxMDI0YWIwMGQ4MWU2MmNjMjNiNWRjNGMzNDg4MWYz",
+  "snapshot_id": "MCwyNDgzNGQxNmJmZmJkZTNjYWVmYTRlYWJiMGNlZTJjMzNkMWFhMGE3",
   "tracks": [
     {
       "added_at": "2023-02-07 17:43:21",
@@ -431,22 +431,6 @@
     {
       "added_at": "2023-02-07 17:43:21",
       "album": {
-        "name": "Phenomena (DA DA) [Remixes]",
-        "url": "https://open.spotify.com/album/0KSjO02zeLGpamcAqL8QKy"
-      },
-      "artists": [
-        {
-          "name": "Hillsong Young & Free",
-          "url": "https://open.spotify.com/artist/7m4gF38CPATtHrk5HS42WZ"
-        }
-      ],
-      "duration_ms": 154385,
-      "name": "Freedom Is Coming - Reimagined",
-      "url": "https://open.spotify.com/track/3b8ovywNFzaiVpifmivkmU"
-    },
-    {
-      "added_at": "2023-02-07 17:43:21",
-      "album": {
         "name": "Love Me Back to Life",
         "url": "https://open.spotify.com/album/3HZqRpVyE10Z5PEJ3gXLbM"
       },
@@ -459,6 +443,22 @@
       "duration_ms": 167617,
       "name": "Love Me Back to Life",
       "url": "https://open.spotify.com/track/28ZTokxLv6KCdjjgqI0T5J"
+    },
+    {
+      "added_at": "2023-02-07 17:43:21",
+      "album": {
+        "name": "Phenomena (DA DA) [Remixes]",
+        "url": "https://open.spotify.com/album/0KSjO02zeLGpamcAqL8QKy"
+      },
+      "artists": [
+        {
+          "name": "Hillsong Young & Free",
+          "url": "https://open.spotify.com/artist/7m4gF38CPATtHrk5HS42WZ"
+        }
+      ],
+      "duration_ms": 154385,
+      "name": "Freedom Is Coming - Reimagined",
+      "url": "https://open.spotify.com/track/3b8ovywNFzaiVpifmivkmU"
     },
     {
       "added_at": "2023-02-07 17:43:21",
@@ -1191,26 +1191,6 @@
     {
       "added_at": "2023-02-07 17:43:21",
       "album": {
-        "name": "Never Too Far",
-        "url": "https://open.spotify.com/album/3IDbW2wbji3bIy74oNWcs8"
-      },
-      "artists": [
-        {
-          "name": "Blanca",
-          "url": "https://open.spotify.com/artist/0GMSpOzEVXA4kboHiyvddO"
-        },
-        {
-          "name": "Ty Brasel",
-          "url": "https://open.spotify.com/artist/419NjKezGEJOVPtiymCp2p"
-        }
-      ],
-      "duration_ms": 184901,
-      "name": "Never Too Far",
-      "url": "https://open.spotify.com/track/0jkjfzceNTh4lSxT2qMeh7"
-    },
-    {
-      "added_at": "2023-02-07 17:43:21",
-      "album": {
         "name": "Kyrie Eleison (It's Mercy We Need)",
         "url": "https://open.spotify.com/album/2mB4e81cL77ixkv9EJqFMF"
       },
@@ -1247,6 +1227,26 @@
       "duration_ms": 184012,
       "name": "Jireh - Reyer Remix",
       "url": "https://open.spotify.com/track/6eaKd2wId32qsCIxEA00Hg"
+    },
+    {
+      "added_at": "2023-02-07 17:43:21",
+      "album": {
+        "name": "Never Too Far",
+        "url": "https://open.spotify.com/album/3IDbW2wbji3bIy74oNWcs8"
+      },
+      "artists": [
+        {
+          "name": "Blanca",
+          "url": "https://open.spotify.com/artist/0GMSpOzEVXA4kboHiyvddO"
+        },
+        {
+          "name": "Ty Brasel",
+          "url": "https://open.spotify.com/artist/419NjKezGEJOVPtiymCp2p"
+        }
+      ],
+      "duration_ms": 184901,
+      "name": "Never Too Far",
+      "url": "https://open.spotify.com/track/0jkjfzceNTh4lSxT2qMeh7"
     },
     {
       "added_at": "2023-02-07 17:43:21",
@@ -1515,22 +1515,6 @@
     {
       "added_at": "2023-02-07 17:43:21",
       "album": {
-        "name": "I Will Follow You (Live)",
-        "url": "https://open.spotify.com/album/6cr9tcbIA8U3ZelOcClNR3"
-      },
-      "artists": [
-        {
-          "name": "planetboom",
-          "url": "https://open.spotify.com/artist/3xDe2V5Jo2zjAT6oemUeDj"
-        }
-      ],
-      "duration_ms": 231123,
-      "name": "I Will Follow You - Live",
-      "url": "https://open.spotify.com/track/3iYqdGDa5Si2ae9A0jEL66"
-    },
-    {
-      "added_at": "2023-02-07 17:43:21",
-      "album": {
         "name": "Known, Seen, Loved",
         "url": "https://open.spotify.com/album/2vyiLc8hSAi3nDNe11CoQn"
       },
@@ -1543,6 +1527,22 @@
       "duration_ms": 188138,
       "name": "Known, Seen, Loved",
       "url": "https://open.spotify.com/track/1XMyGFBaTkXKsypEZD1dmr"
+    },
+    {
+      "added_at": "2023-02-07 17:43:21",
+      "album": {
+        "name": "I Will Follow You (Live)",
+        "url": "https://open.spotify.com/album/6cr9tcbIA8U3ZelOcClNR3"
+      },
+      "artists": [
+        {
+          "name": "planetboom",
+          "url": "https://open.spotify.com/artist/3xDe2V5Jo2zjAT6oemUeDj"
+        }
+      ],
+      "duration_ms": 231123,
+      "name": "I Will Follow You - Live",
+      "url": "https://open.spotify.com/track/3iYqdGDa5Si2ae9A0jEL66"
     },
     {
       "added_at": "2023-02-07 17:43:21",
@@ -1719,6 +1719,26 @@
     {
       "added_at": "2023-02-07 17:43:21",
       "album": {
+        "name": "HEY GOD",
+        "url": "https://open.spotify.com/album/16dHro8vtYbycbNct69lmT"
+      },
+      "artists": [
+        {
+          "name": "KAYDEN",
+          "url": "https://open.spotify.com/artist/5Dq2DMerDcvcdlzPTmo6Jn"
+        },
+        {
+          "name": "David Ryan Cook",
+          "url": "https://open.spotify.com/artist/0rXE8A2EXq1Z0pZPA46z0T"
+        }
+      ],
+      "duration_ms": 174216,
+      "name": "HEY GOD",
+      "url": "https://open.spotify.com/track/4JehmSn8qjxB3BSQSHkiwr"
+    },
+    {
+      "added_at": "2023-02-07 17:43:21",
+      "album": {
         "name": "Won't Stop (Reyer Remix)",
         "url": "https://open.spotify.com/album/1c9Bj73lYl64W5Tp1HVNfh"
       },
@@ -1743,26 +1763,6 @@
       "duration_ms": 184335,
       "name": "Won't Stop - Reyer Remix",
       "url": "https://open.spotify.com/track/5scmtvav3joe03DAihMTd6"
-    },
-    {
-      "added_at": "2023-02-07 17:43:21",
-      "album": {
-        "name": "HEY GOD",
-        "url": "https://open.spotify.com/album/16dHro8vtYbycbNct69lmT"
-      },
-      "artists": [
-        {
-          "name": "KAYDEN",
-          "url": "https://open.spotify.com/artist/5Dq2DMerDcvcdlzPTmo6Jn"
-        },
-        {
-          "name": "David Ryan Cook",
-          "url": "https://open.spotify.com/artist/0rXE8A2EXq1Z0pZPA46z0T"
-        }
-      ],
-      "duration_ms": 174216,
-      "name": "HEY GOD",
-      "url": "https://open.spotify.com/track/4JehmSn8qjxB3BSQSHkiwr"
     }
   ],
   "unique_name": "Christian Dance Party",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW9tK1GiTdMf.md) - [plain]
 
 > canzoni che ti fanno ribaltare i tavoli \(╯°□°）╯︵ ┻━┻ Ëgo in cover!
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,545 likes - 80 songs - 3 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,548 likes - 80 songs - 3 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW9tK1GiTdMf.md) - [plain]
 | 79 | [Uomini e Topi \- IMAGE](https://open.spotify.com/track/784jdx0uTlGKZ76rpiltM3) | [Vipra](https://open.spotify.com/artist/6RubjTZ123VH3iDaGbi7hM) | [Musica dal Morto](https://open.spotify.com/album/0zgmJpBrqWzO9sjtDy45QA) | 2:35 |
 | 80 | [Dead Or Alive](https://open.spotify.com/track/2t4qXJ8xOup0zA34v07TX4) | [Jack Out](https://open.spotify.com/artist/7KFzz2W8u1HdZhX2XcZCXI), [Becko](https://open.spotify.com/artist/6Vu1oZl4ozrU6zqdidyCMU), [IN6N](https://open.spotify.com/artist/1ijW7A83I3DKVmVID7kjuE) | [X SALVARSI](https://open.spotify.com/album/4ToEwnAtv09o3oNfd48ziU) | 3:18 |
 
-Snapshot ID: `MCxjYTQxZTYxM2I1ZDc3MDE3ZjBhNmRiNzBjMWJlYzVkZjVmODMyODNm`
+Snapshot ID: `MCw2N2NjNmY5YmQzMDY5ZGIwMWRkYmI3ZDdmMjVmZjE0ZmQ3ZmM0M2My`

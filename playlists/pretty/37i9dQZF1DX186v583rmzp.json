@@ -1,12 +1,12 @@
 {
   "description": "Real rap music from the golden era.\n",
-  "num_followers": 8137874,
+  "num_followers": 8140137,
   "original_name": "I Love My '90s Hip-Hop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxMDMzNDYwNGJmYzBjYTUxMmM4MzIwZTAxNjlhMjFhYWM1ZThhYThm",
+  "snapshot_id": "MCwzZDMxZDkyY2U5YjIyOWM1NjhiNjc5MjMxOGY5ZTNkMDhkNmE3MDI5",
   "tracks": [
     {
       "added_at": "2023-10-11 12:50:50",
@@ -371,26 +371,6 @@
     {
       "added_at": "2023-10-11 12:50:50",
       "album": {
-        "name": "Regulate\u2026 G Funk Era",
-        "url": "https://open.spotify.com/album/2VMGv3inRLPM4GOMXf37qu"
-      },
-      "artists": [
-        {
-          "name": "Warren G",
-          "url": "https://open.spotify.com/artist/2B4ZHz4QDWJTXPFPgO5peE"
-        },
-        {
-          "name": "Nate Dogg",
-          "url": "https://open.spotify.com/artist/1Oa0bMld0A3u5OTYfMzp5h"
-        }
-      ],
-      "duration_ms": 248866,
-      "name": "Regulate",
-      "url": "https://open.spotify.com/track/7nYvUtkQMx1v80S2FH2s9J"
-    },
-    {
-      "added_at": "2023-10-11 12:50:50",
-      "album": {
         "name": "Operation Stackola",
         "url": "https://open.spotify.com/album/5pMShIZc6oWiEtcQvXsKfb"
       },
@@ -407,6 +387,26 @@
       "duration_ms": 253533,
       "name": "I Got 5 On It",
       "url": "https://open.spotify.com/track/4IYKjN1DrYzxKXt0umJqsG"
+    },
+    {
+      "added_at": "2023-10-11 12:50:50",
+      "album": {
+        "name": "Regulate\u2026 G Funk Era",
+        "url": "https://open.spotify.com/album/2VMGv3inRLPM4GOMXf37qu"
+      },
+      "artists": [
+        {
+          "name": "Warren G",
+          "url": "https://open.spotify.com/artist/2B4ZHz4QDWJTXPFPgO5peE"
+        },
+        {
+          "name": "Nate Dogg",
+          "url": "https://open.spotify.com/artist/1Oa0bMld0A3u5OTYfMzp5h"
+        }
+      ],
+      "duration_ms": 248866,
+      "name": "Regulate",
+      "url": "https://open.spotify.com/track/7nYvUtkQMx1v80S2FH2s9J"
     },
     {
       "added_at": "2023-10-11 12:50:50",
@@ -1683,22 +1683,6 @@
     {
       "added_at": "2023-10-11 12:50:50",
       "album": {
-        "name": "Hard To Earn",
-        "url": "https://open.spotify.com/album/67kl5m0df6Bn0aSe3g5Ea7"
-      },
-      "artists": [
-        {
-          "name": "Gang Starr",
-          "url": "https://open.spotify.com/artist/5cMgGlA1xGyeAB2ctYlRdZ"
-        }
-      ],
-      "duration_ms": 221026,
-      "name": "Mass Appeal",
-      "url": "https://open.spotify.com/track/3lGBvPUgO7MJltUnBlOpe9"
-    },
-    {
-      "added_at": "2023-10-11 12:50:50",
-      "album": {
         "name": "The Master",
         "url": "https://open.spotify.com/album/3mvWfqa4cceoGyA7qECPWH"
       },
@@ -1711,6 +1695,22 @@
       "duration_ms": 222933,
       "name": "When I B On Tha Mic",
       "url": "https://open.spotify.com/track/2p9sprAX27D6U5cuSE9NsM"
+    },
+    {
+      "added_at": "2023-10-11 12:50:50",
+      "album": {
+        "name": "Hard To Earn",
+        "url": "https://open.spotify.com/album/67kl5m0df6Bn0aSe3g5Ea7"
+      },
+      "artists": [
+        {
+          "name": "Gang Starr",
+          "url": "https://open.spotify.com/artist/5cMgGlA1xGyeAB2ctYlRdZ"
+        }
+      ],
+      "duration_ms": 221026,
+      "name": "Mass Appeal",
+      "url": "https://open.spotify.com/track/3lGBvPUgO7MJltUnBlOpe9"
     },
     {
       "added_at": "2023-10-11 12:50:50",
@@ -1767,6 +1767,22 @@
     {
       "added_at": "2023-10-11 12:50:50",
       "album": {
+        "name": "It's On (Dr. Dre) 187um Killa",
+        "url": "https://open.spotify.com/album/1SZNTl621XOcjFwOKtVy56"
+      },
+      "artists": [
+        {
+          "name": "Eazy-E",
+          "url": "https://open.spotify.com/artist/7B4hKK0S9QYnaoqa9OuwgX"
+        }
+      ],
+      "duration_ms": 332626,
+      "name": "Real Muthaphuckkin G's",
+      "url": "https://open.spotify.com/track/7q6lr1W6cmGWijl5kCv5RG"
+    },
+    {
+      "added_at": "2023-10-11 12:50:50",
+      "album": {
         "name": "Homebase",
         "url": "https://open.spotify.com/album/2ELLswCKdQXUWbWxhaAklh"
       },
@@ -1795,22 +1811,6 @@
       "duration_ms": 286693,
       "name": "They Reminisce Over You (T.R.O.Y.)",
       "url": "https://open.spotify.com/track/2Mb3zpobD0CvJGWv6NpsPy"
-    },
-    {
-      "added_at": "2023-10-11 12:50:50",
-      "album": {
-        "name": "It's On (Dr. Dre) 187um Killa",
-        "url": "https://open.spotify.com/album/1SZNTl621XOcjFwOKtVy56"
-      },
-      "artists": [
-        {
-          "name": "Eazy-E",
-          "url": "https://open.spotify.com/artist/7B4hKK0S9QYnaoqa9OuwgX"
-        }
-      ],
-      "duration_ms": 332626,
-      "name": "Real Muthaphuckkin G's",
-      "url": "https://open.spotify.com/track/7q6lr1W6cmGWijl5kCv5RG"
     },
     {
       "added_at": "2023-10-11 12:50:50",
@@ -1863,22 +1863,18 @@
     {
       "added_at": "2023-10-11 12:50:50",
       "album": {
-        "name": "Ill Na Na",
-        "url": "https://open.spotify.com/album/6qLC4weRVEetELyQQgkAMk"
+        "name": "One Day It'll All Make Sense",
+        "url": "https://open.spotify.com/album/6nXto9rlPmmhdoUmGMKbtE"
       },
       "artists": [
         {
-          "name": "Foxy Brown",
-          "url": "https://open.spotify.com/artist/1wvlC6NwleHt1iRD6d5X2C"
-        },
-        {
-          "name": "Blackstreet",
-          "url": "https://open.spotify.com/artist/2P3cjUru4H3fhSXXNxE9kA"
+          "name": "Common",
+          "url": "https://open.spotify.com/artist/2GHclqNVjqGuiE5mA7BEoc"
         }
       ],
-      "duration_ms": 229400,
-      "name": "Get Me Home",
-      "url": "https://open.spotify.com/track/6Xo9osN1HErsEJoqwj4eDg"
+      "duration_ms": 134040,
+      "name": "Invocation",
+      "url": "https://open.spotify.com/track/1zS4PMsHfkSXPkzrEkCkC6"
     }
   ],
   "unique_name": "I Love My '90s Hip-Hop",

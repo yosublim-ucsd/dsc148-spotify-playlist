@@ -1,12 +1,12 @@
 {
   "description": "The soundtrack to lazing around.",
-  "num_followers": 57374,
+  "num_followers": 57449,
   "original_name": "Lazy Afternoon",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhZTZkMDRjZWE4NjkwYWVlNGY1N2VmNzdhODYxNDY0ZDJlNmZkZmMw",
+  "snapshot_id": "MCw3ZTA4YjI1YmZjYTA5ODAyYjdhNWIyN2YwYjA4NWFlOTY1NDQzNzI5",
   "tracks": [
     {
       "added_at": "2023-10-13 04:21:17",
@@ -295,22 +295,6 @@
     {
       "added_at": "2023-10-13 04:21:17",
       "album": {
-        "name": "Overdrive",
-        "url": "https://open.spotify.com/album/4zHb7PAazMdVXw2sOCNJ1V"
-      },
-      "artists": [
-        {
-          "name": "Post Malone",
-          "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
-        }
-      ],
-      "duration_ms": 147679,
-      "name": "Overdrive",
-      "url": "https://open.spotify.com/track/3t0ic4mkhvhamrKDkulB8v"
-    },
-    {
-      "added_at": "2023-10-13 04:21:17",
-      "album": {
         "name": "Bluebird Days",
         "url": "https://open.spotify.com/album/6izHNYgyKzGdRpYwtYFaaG"
       },
@@ -323,6 +307,22 @@
       "duration_ms": 175226,
       "name": "Next Thing You Know",
       "url": "https://open.spotify.com/track/39OclE5hZematADrdfaWvE"
+    },
+    {
+      "added_at": "2023-10-13 04:21:17",
+      "album": {
+        "name": "Overdrive",
+        "url": "https://open.spotify.com/album/4zHb7PAazMdVXw2sOCNJ1V"
+      },
+      "artists": [
+        {
+          "name": "Post Malone",
+          "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
+        }
+      ],
+      "duration_ms": 147679,
+      "name": "Overdrive",
+      "url": "https://open.spotify.com/track/3t0ic4mkhvhamrKDkulB8v"
     },
     {
       "added_at": "2023-10-13 04:21:17",
@@ -427,6 +427,22 @@
     {
       "added_at": "2023-10-13 04:21:17",
       "album": {
+        "name": "October Passed Me By",
+        "url": "https://open.spotify.com/album/6XtlrNlPUFHcpLS7ImjG3E"
+      },
+      "artists": [
+        {
+          "name": "girl in red",
+          "url": "https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9"
+        }
+      ],
+      "duration_ms": 165746,
+      "name": "October Passed Me By",
+      "url": "https://open.spotify.com/track/0AjcdGri5vhJsmZnduCEqd"
+    },
+    {
+      "added_at": "2023-10-13 04:21:17",
+      "album": {
         "name": "Cold Little Heart (Radio Edit)",
         "url": "https://open.spotify.com/album/55A6d8TOuiAs6zDiKj2c3A"
       },
@@ -443,18 +459,18 @@
     {
       "added_at": "2023-10-13 04:21:17",
       "album": {
-        "name": "October Passed Me By",
-        "url": "https://open.spotify.com/album/6XtlrNlPUFHcpLS7ImjG3E"
+        "name": "Stick Season",
+        "url": "https://open.spotify.com/album/1fMRg0CNLKdnrXD0WPc2Ju"
       },
       "artists": [
         {
-          "name": "girl in red",
-          "url": "https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9"
+          "name": "Noah Kahan",
+          "url": "https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B"
         }
       ],
-      "duration_ms": 165746,
-      "name": "October Passed Me By",
-      "url": "https://open.spotify.com/track/0AjcdGri5vhJsmZnduCEqd"
+      "duration_ms": 182346,
+      "name": "Stick Season",
+      "url": "https://open.spotify.com/track/0GNVXNz7Jkicfk2mp5OyG5"
     },
     {
       "added_at": "2023-10-13 04:21:17",
@@ -487,22 +503,6 @@
       "duration_ms": 211933,
       "name": "Over the Rainbow",
       "url": "https://open.spotify.com/track/3oQomOPRNQ5NVFUmLJHbAV"
-    },
-    {
-      "added_at": "2023-10-13 04:21:17",
-      "album": {
-        "name": "Stick Season",
-        "url": "https://open.spotify.com/album/1fMRg0CNLKdnrXD0WPc2Ju"
-      },
-      "artists": [
-        {
-          "name": "Noah Kahan",
-          "url": "https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B"
-        }
-      ],
-      "duration_ms": 182346,
-      "name": "Stick Season",
-      "url": "https://open.spotify.com/track/0GNVXNz7Jkicfk2mp5OyG5"
     },
     {
       "added_at": "2023-10-13 04:21:17",
@@ -659,26 +659,6 @@
     {
       "added_at": "2023-10-13 04:21:17",
       "album": {
-        "name": "I Was / I Am",
-        "url": "https://open.spotify.com/album/0b693AisoJYg4Ilj10LkYG"
-      },
-      "artists": [
-        {
-          "name": "Noah Kahan",
-          "url": "https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B"
-        },
-        {
-          "name": "Joy Oladokun",
-          "url": "https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9"
-        }
-      ],
-      "duration_ms": 186552,
-      "name": "Someone Like You (feat. Joy Oladokun)",
-      "url": "https://open.spotify.com/track/0hiHNxqKGf3GZgVTIOAiiK"
-    },
-    {
-      "added_at": "2023-10-13 04:21:17",
-      "album": {
         "name": "Butterflies (feat. AURORA)",
         "url": "https://open.spotify.com/album/3399XMtHgSm7F0DClLiSsU"
       },
@@ -695,6 +675,26 @@
       "duration_ms": 130666,
       "name": "Butterflies (feat. AURORA)",
       "url": "https://open.spotify.com/track/1dWUBCoztAMZcqec1CAE6z"
+    },
+    {
+      "added_at": "2023-10-13 04:21:17",
+      "album": {
+        "name": "I Was / I Am",
+        "url": "https://open.spotify.com/album/0b693AisoJYg4Ilj10LkYG"
+      },
+      "artists": [
+        {
+          "name": "Noah Kahan",
+          "url": "https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B"
+        },
+        {
+          "name": "Joy Oladokun",
+          "url": "https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9"
+        }
+      ],
+      "duration_ms": 186552,
+      "name": "Someone Like You (feat. Joy Oladokun)",
+      "url": "https://open.spotify.com/track/0hiHNxqKGf3GZgVTIOAiiK"
     },
     {
       "added_at": "2023-10-13 04:21:17",
@@ -751,22 +751,6 @@
     {
       "added_at": "2023-10-13 04:21:17",
       "album": {
-        "name": "Silence Between Songs",
-        "url": "https://open.spotify.com/album/0Q0rJ81u7O4EFCpqkcwJJ2"
-      },
-      "artists": [
-        {
-          "name": "Madison Beer",
-          "url": "https://open.spotify.com/artist/2kRfqPViCqYdSGhYSM9R0Q"
-        }
-      ],
-      "duration_ms": 216960,
-      "name": "17",
-      "url": "https://open.spotify.com/track/5kxV0Tv6pbddmqqKJvlNtS"
-    },
-    {
-      "added_at": "2023-10-13 04:21:17",
-      "album": {
         "name": "The Way I Love You",
         "url": "https://open.spotify.com/album/5NW9Naf2BWbZFNVMY4mz3B"
       },
@@ -779,6 +763,22 @@
       "duration_ms": 152703,
       "name": "The Way I Love You",
       "url": "https://open.spotify.com/track/1lzvc17qKf2CyIOSWUEH4p"
+    },
+    {
+      "added_at": "2023-10-13 04:21:17",
+      "album": {
+        "name": "Silence Between Songs",
+        "url": "https://open.spotify.com/album/0Q0rJ81u7O4EFCpqkcwJJ2"
+      },
+      "artists": [
+        {
+          "name": "Madison Beer",
+          "url": "https://open.spotify.com/artist/2kRfqPViCqYdSGhYSM9R0Q"
+        }
+      ],
+      "duration_ms": 216960,
+      "name": "17",
+      "url": "https://open.spotify.com/track/5kxV0Tv6pbddmqqKJvlNtS"
     },
     {
       "added_at": "2023-10-13 04:21:17",
@@ -835,22 +835,6 @@
     {
       "added_at": "2023-10-13 04:21:17",
       "album": {
-        "name": "summer camp",
-        "url": "https://open.spotify.com/album/4mO5hcuCZYh8TyVgUjkIvi"
-      },
-      "artists": [
-        {
-          "name": "anees",
-          "url": "https://open.spotify.com/artist/2HPqVfdPh9JkBSlFG5hK6h"
-        }
-      ],
-      "duration_ms": 172354,
-      "name": "sunny day",
-      "url": "https://open.spotify.com/track/7dA3NRsBnVKtQZgjR5Lzf8"
-    },
-    {
-      "added_at": "2023-10-13 04:21:17",
-      "album": {
         "name": "Persuasion (Soundtrack from the Netflix Film)",
         "url": "https://open.spotify.com/album/4ZIW3ma2l44g1HhiyxNagv"
       },
@@ -863,6 +847,22 @@
       "duration_ms": 234156,
       "name": "Quietly Yours",
       "url": "https://open.spotify.com/track/7wRijQK8vRmGLK0RYW7Vr1"
+    },
+    {
+      "added_at": "2023-10-13 04:21:17",
+      "album": {
+        "name": "summer camp",
+        "url": "https://open.spotify.com/album/4mO5hcuCZYh8TyVgUjkIvi"
+      },
+      "artists": [
+        {
+          "name": "anees",
+          "url": "https://open.spotify.com/artist/2HPqVfdPh9JkBSlFG5hK6h"
+        }
+      ],
+      "duration_ms": 172354,
+      "name": "sunny day",
+      "url": "https://open.spotify.com/track/7dA3NRsBnVKtQZgjR5Lzf8"
     },
     {
       "added_at": "2023-10-13 04:21:17",

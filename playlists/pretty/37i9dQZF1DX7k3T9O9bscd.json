@@ -1,12 +1,12 @@
 {
   "description": "Psyched-out bands from the four corners of the world. Melody's Echo Chamber on cover.",
-  "num_followers": 390101,
+  "num_followers": 390219,
   "original_name": "Neo-Psychedelic Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4NGNkNWYwZjY0NjA5ODAzYjQzYTlhZjBhNGQ3NTU5ZTA3YjJlMzM1",
+  "snapshot_id": "MCw5ZTY0NzFmZDQzN2NkMjYxYWQyZjQ5NTc0ZDFlMTkzNDZhYjNjOGRj",
   "tracks": [
     {
       "added_at": "2023-08-02 16:20:29",
@@ -591,22 +591,6 @@
     {
       "added_at": "2023-08-02 16:20:29",
       "album": {
-        "name": "Naxatras",
-        "url": "https://open.spotify.com/album/4T297zbG0nk3U7ODkvYAuv"
-      },
-      "artists": [
-        {
-          "name": "Naxatras",
-          "url": "https://open.spotify.com/artist/6HN1s0JzLowapZ7nhOAJ71"
-        }
-      ],
-      "duration_ms": 440014,
-      "name": "Waves",
-      "url": "https://open.spotify.com/track/038gKq7MYQFa20Q7MdHySX"
-    },
-    {
-      "added_at": "2023-08-02 16:20:29",
-      "album": {
         "name": "World Music",
         "url": "https://open.spotify.com/album/6E80uDKNQDGjggp5isU2Mb"
       },
@@ -619,6 +603,22 @@
       "duration_ms": 170186,
       "name": "Golden Dawn",
       "url": "https://open.spotify.com/track/2Cf7tc4zGyhizmKnfL3vQ0"
+    },
+    {
+      "added_at": "2023-08-02 16:20:29",
+      "album": {
+        "name": "Naxatras",
+        "url": "https://open.spotify.com/album/4T297zbG0nk3U7ODkvYAuv"
+      },
+      "artists": [
+        {
+          "name": "Naxatras",
+          "url": "https://open.spotify.com/artist/6HN1s0JzLowapZ7nhOAJ71"
+        }
+      ],
+      "duration_ms": 440014,
+      "name": "Waves",
+      "url": "https://open.spotify.com/track/038gKq7MYQFa20Q7MdHySX"
     },
     {
       "added_at": "2023-08-02 16:20:29",
@@ -1039,6 +1039,22 @@
     {
       "added_at": "2023-08-02 16:20:29",
       "album": {
+        "name": "World Music",
+        "url": "https://open.spotify.com/album/6E80uDKNQDGjggp5isU2Mb"
+      },
+      "artists": [
+        {
+          "name": "Goat",
+          "url": "https://open.spotify.com/artist/6jP9Z7o6WlbYvKUOeO5SbP"
+        }
+      ],
+      "duration_ms": 176120,
+      "name": "Diarabi",
+      "url": "https://open.spotify.com/track/53yknEeyyDEHCqyu8pRGrR"
+    },
+    {
+      "added_at": "2023-08-02 16:20:29",
+      "album": {
         "name": "Sancocho Stereo",
         "url": "https://open.spotify.com/album/38Y2bvBgrjb4zyMrGlJjAq"
       },
@@ -1071,22 +1087,6 @@
     {
       "added_at": "2023-08-02 16:20:29",
       "album": {
-        "name": "World Music",
-        "url": "https://open.spotify.com/album/6E80uDKNQDGjggp5isU2Mb"
-      },
-      "artists": [
-        {
-          "name": "Goat",
-          "url": "https://open.spotify.com/artist/6jP9Z7o6WlbYvKUOeO5SbP"
-        }
-      ],
-      "duration_ms": 176120,
-      "name": "Diarabi",
-      "url": "https://open.spotify.com/track/53yknEeyyDEHCqyu8pRGrR"
-    },
-    {
-      "added_at": "2023-08-02 16:20:29",
-      "album": {
         "name": "V.",
         "url": "https://open.spotify.com/album/5KjpFRvPpExlRIuDQqwhNk"
       },
@@ -1099,6 +1099,22 @@
       "duration_ms": 383100,
       "name": "Eclipse",
       "url": "https://open.spotify.com/track/7ww3ZrwEJbZjWhmAac71Mk"
+    },
+    {
+      "added_at": "2023-08-02 16:20:29",
+      "album": {
+        "name": "Spin",
+        "url": "https://open.spotify.com/album/6GejDhVjHKAmQnPkyW6csf"
+      },
+      "artists": [
+        {
+          "name": "Triathalon",
+          "url": "https://open.spotify.com/artist/2SaIA1enj83vEmJikZdjQ3"
+        }
+      ],
+      "duration_ms": 212203,
+      "name": "Spin",
+      "url": "https://open.spotify.com/track/31MLGEYrKwoTmMoH50JDEw"
     },
     {
       "added_at": "2023-08-02 16:20:29",
@@ -1135,38 +1151,6 @@
     {
       "added_at": "2023-08-02 16:20:29",
       "album": {
-        "name": "Spin",
-        "url": "https://open.spotify.com/album/6GejDhVjHKAmQnPkyW6csf"
-      },
-      "artists": [
-        {
-          "name": "Triathalon",
-          "url": "https://open.spotify.com/artist/2SaIA1enj83vEmJikZdjQ3"
-        }
-      ],
-      "duration_ms": 212203,
-      "name": "Spin",
-      "url": "https://open.spotify.com/track/31MLGEYrKwoTmMoH50JDEw"
-    },
-    {
-      "added_at": "2023-08-02 16:20:29",
-      "album": {
-        "name": "humanus",
-        "url": "https://open.spotify.com/album/25EsLeJ28Rc2IyLxsYHsuN"
-      },
-      "artists": [
-        {
-          "name": "uh",
-          "url": "https://open.spotify.com/artist/4n7lSZu4GHj14pk4kPbPTu"
-        }
-      ],
-      "duration_ms": 425036,
-      "name": "attention",
-      "url": "https://open.spotify.com/track/48jMC9ZKe8SCCZqgg0MZnB"
-    },
-    {
-      "added_at": "2023-08-02 16:20:29",
-      "album": {
         "name": "Reap the Storm",
         "url": "https://open.spotify.com/album/2cjYFCwK1QT5gt90rGsEMS"
       },
@@ -1179,6 +1163,22 @@
       "duration_ms": 325015,
       "name": "The Rat Catcher",
       "url": "https://open.spotify.com/track/06GMFLjz0xowyKlmTbJyHZ"
+    },
+    {
+      "added_at": "2023-08-02 16:20:29",
+      "album": {
+        "name": "II",
+        "url": "https://open.spotify.com/album/3sH28pORiCQMqQNWuXweUv"
+      },
+      "artists": [
+        {
+          "name": "F\u00f6llakzoid",
+          "url": "https://open.spotify.com/artist/7djT11AqtEBzdME1OGFfxL"
+        }
+      ],
+      "duration_ms": 434989,
+      "name": "Trees",
+      "url": "https://open.spotify.com/track/6RTPhBy716vfQKcfCOVi3I"
     },
     {
       "added_at": "2023-08-02 16:20:29",
@@ -1199,18 +1199,18 @@
     {
       "added_at": "2023-08-02 16:20:29",
       "album": {
-        "name": "II",
-        "url": "https://open.spotify.com/album/3sH28pORiCQMqQNWuXweUv"
+        "name": "humanus",
+        "url": "https://open.spotify.com/album/25EsLeJ28Rc2IyLxsYHsuN"
       },
       "artists": [
         {
-          "name": "F\u00f6llakzoid",
-          "url": "https://open.spotify.com/artist/7djT11AqtEBzdME1OGFfxL"
+          "name": "uh",
+          "url": "https://open.spotify.com/artist/4n7lSZu4GHj14pk4kPbPTu"
         }
       ],
-      "duration_ms": 434989,
-      "name": "Trees",
-      "url": "https://open.spotify.com/track/6RTPhBy716vfQKcfCOVi3I"
+      "duration_ms": 425036,
+      "name": "attention",
+      "url": "https://open.spotify.com/track/48jMC9ZKe8SCCZqgg0MZnB"
     },
     {
       "added_at": "2023-08-02 16:20:29",
@@ -1359,6 +1359,22 @@
     {
       "added_at": "2023-08-02 16:20:29",
       "album": {
+        "name": "Sophomore",
+        "url": "https://open.spotify.com/album/63UEd4dz1EXqvzAUlrtV9n"
+      },
+      "artists": [
+        {
+          "name": "Speck Joliet",
+          "url": "https://open.spotify.com/artist/75VJR7AaBp0U36xbniOrws"
+        }
+      ],
+      "duration_ms": 332335,
+      "name": "Time Frame",
+      "url": "https://open.spotify.com/track/7AkEeczBj2IcPkS3109kHv"
+    },
+    {
+      "added_at": "2023-08-02 16:20:29",
+      "album": {
         "name": "Exotico",
         "url": "https://open.spotify.com/album/4rPbXiutTsGBMnkW9KESZQ"
       },
@@ -1387,22 +1403,6 @@
       "duration_ms": 220287,
       "name": "Marihuana",
       "url": "https://open.spotify.com/track/5dcFoEhpwbh4eNMzLjfOn5"
-    },
-    {
-      "added_at": "2023-08-02 16:20:29",
-      "album": {
-        "name": "Sophomore",
-        "url": "https://open.spotify.com/album/63UEd4dz1EXqvzAUlrtV9n"
-      },
-      "artists": [
-        {
-          "name": "Speck Joliet",
-          "url": "https://open.spotify.com/artist/75VJR7AaBp0U36xbniOrws"
-        }
-      ],
-      "duration_ms": 332335,
-      "name": "Time Frame",
-      "url": "https://open.spotify.com/track/7AkEeczBj2IcPkS3109kHv"
     },
     {
       "added_at": "2023-08-02 16:20:29",
@@ -1519,18 +1519,18 @@
     {
       "added_at": "2023-08-02 16:20:29",
       "album": {
-        "name": "Ghost Tapes #10",
-        "url": "https://open.spotify.com/album/19Jy4bfbeWkmKAy7qA97oR"
+        "name": "The Real Work",
+        "url": "https://open.spotify.com/album/2F5tmLKUwzhiIPdaUgIUIx"
       },
       "artists": [
         {
-          "name": "God Is An Astronaut",
-          "url": "https://open.spotify.com/artist/079svMEXkbT5nGU2kfoqO2"
+          "name": "Party Dozen",
+          "url": "https://open.spotify.com/artist/5LeiYFiAx31mpoPKxdOLOm"
         }
       ],
-      "duration_ms": 364048,
-      "name": "Burial",
-      "url": "https://open.spotify.com/track/39OK2v0ZYohVbvqg4X4uDE"
+      "duration_ms": 266737,
+      "name": "Risky Behaviour",
+      "url": "https://open.spotify.com/track/1ncZ5SwFLhrMzf9x6SsVKm"
     },
     {
       "added_at": "2023-08-02 16:20:29",
@@ -1551,6 +1551,22 @@
     {
       "added_at": "2023-08-02 16:20:29",
       "album": {
+        "name": "Ghost Tapes #10",
+        "url": "https://open.spotify.com/album/19Jy4bfbeWkmKAy7qA97oR"
+      },
+      "artists": [
+        {
+          "name": "God Is An Astronaut",
+          "url": "https://open.spotify.com/artist/079svMEXkbT5nGU2kfoqO2"
+        }
+      ],
+      "duration_ms": 364048,
+      "name": "Burial",
+      "url": "https://open.spotify.com/track/39OK2v0ZYohVbvqg4X4uDE"
+    },
+    {
+      "added_at": "2023-08-02 16:20:29",
+      "album": {
         "name": "Pascuales",
         "url": "https://open.spotify.com/album/4wOdqXvqgAWeUtGOyaTNNz"
       },
@@ -1567,18 +1583,18 @@
     {
       "added_at": "2023-08-02 16:20:29",
       "album": {
-        "name": "The Real Work",
-        "url": "https://open.spotify.com/album/2F5tmLKUwzhiIPdaUgIUIx"
+        "name": "Ghost Power",
+        "url": "https://open.spotify.com/album/0TdsBPpJLTRc9khFr4US5d"
       },
       "artists": [
         {
-          "name": "Party Dozen",
-          "url": "https://open.spotify.com/artist/5LeiYFiAx31mpoPKxdOLOm"
+          "name": "Ghost Power",
+          "url": "https://open.spotify.com/artist/6puuOMtH1u9d3nrCdwO4Y8"
         }
       ],
-      "duration_ms": 266737,
-      "name": "Risky Behaviour",
-      "url": "https://open.spotify.com/track/1ncZ5SwFLhrMzf9x6SsVKm"
+      "duration_ms": 221701,
+      "name": "Asteroid Witch",
+      "url": "https://open.spotify.com/track/2UYmc7jYu8TkUCGe5qsKsn"
     },
     {
       "added_at": "2023-08-02 16:20:29",
@@ -1611,22 +1627,6 @@
       "duration_ms": 397813,
       "name": "Space Camel",
       "url": "https://open.spotify.com/track/6RKoe7UCtdONhVdo6625Lt"
-    },
-    {
-      "added_at": "2023-08-02 16:20:29",
-      "album": {
-        "name": "Ghost Power",
-        "url": "https://open.spotify.com/album/0TdsBPpJLTRc9khFr4US5d"
-      },
-      "artists": [
-        {
-          "name": "Ghost Power",
-          "url": "https://open.spotify.com/artist/6puuOMtH1u9d3nrCdwO4Y8"
-        }
-      ],
-      "duration_ms": 221701,
-      "name": "Asteroid Witch",
-      "url": "https://open.spotify.com/track/2UYmc7jYu8TkUCGe5qsKsn"
     }
   ],
   "unique_name": "Neo-Psychedelic Rock",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaLvcwjNfHBR.md) - [plain]
 
 > Your new favourite songs! Cover: Paul Russell
 
-[Spotify](https://open.spotify.com/user/spotify) - 65,522 likes - 76 songs - 4 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 65,556 likes - 76 songs - 4 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -85,4 +85,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaLvcwjNfHBR.md) - [plain]
 | 75 | [Maria Maria \(feat\. The Product G&B\)](https://open.spotify.com/track/567UAkWoLBqZ709s3Qcbze) | [Santana](https://open.spotify.com/artist/6GI52t8N5F02MxU0g5U69P), [The Product G&B](https://open.spotify.com/artist/782IpIScTpnDhYb9hyxOu1) | [Supernatural \(Legacy Edition\)](https://open.spotify.com/album/1n12Kl9IoHSk65OcZDutSH) | 4:21 |
 | 76 | [Atmosphere](https://open.spotify.com/track/1aNUSKBe6UMyMk3pEu9ws7) | [FISHER](https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt), [Kita Alexander](https://open.spotify.com/artist/3CGuwWgoCYSO5Z72H5G2Ec) | [Atmosphere](https://open.spotify.com/album/3rGYf6tkyIJ4BE2O2k7o0d) | 3:02 |
 
-Snapshot ID: `MCxlMjM5ZTJiNTg3NmQ5MmFiOGQ1OGY0MWE4ZGZjZGY4ZDk5NTRkMmEz`
+Snapshot ID: `MCw4OTExOWNhOGEwOGE3ZjBmNThmYzYxMDc3ODc5ZTUzY2JkM2Q5MTU2`

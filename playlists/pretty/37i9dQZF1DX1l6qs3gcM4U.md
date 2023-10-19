@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1l6qs3gcM4U.md) - [plain]
 
 > Fall in love with the sensual sounds of Kizomba! Cover: Dj Black Spygo, Djodje and Chelsea Dinorath.
 
-[Spotify](https://open.spotify.com/user/spotify) - 186,828 likes - 100 songs - 6 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 186,927 likes - 100 songs - 6 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,8 +63,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1l6qs3gcM4U.md) - [plain]
 | 53 | [Mais Nada](https://open.spotify.com/track/2DDBR1QD9d9Qjg0a1hwOAJ) | [Cubita](https://open.spotify.com/artist/22uy6DyvpF9Vt2PMWSm5di) | [Mais Nada](https://open.spotify.com/album/4qUns8RK2Sjqz9lHKCbPhT) | 2:56 |
 | 54 | [Desculpa](https://open.spotify.com/track/0TuuZwRot3vVK6tqV8zh2q) | [Irina Barros](https://open.spotify.com/artist/1oXW86kOCopYzoAWOOc6gj) | [Desculpa](https://open.spotify.com/album/258S9L0PGKl7o0dRA1A27H) | 3:32 |
 | 55 | [Viagem](https://open.spotify.com/track/6IhsfuAwE81uKkeJnzAW2a) | [Damásio Brothers](https://open.spotify.com/artist/6FRydQu73AnR88FL2Pndtu), [Button Rose](https://open.spotify.com/artist/6K2uG6jS3G38wI9ue1ifiD), [Ney Chiqui](https://open.spotify.com/artist/56hCHYdCpPCLU1fzXAIObp), [Teo No Beat](https://open.spotify.com/artist/4HLRxCBJE5n6Mm0sTzUEv2) | [Viagem](https://open.spotify.com/album/1kvWCOAFrsGVljCwx5uXPO) | 3:57 |
-| 56 | [Felicidade](https://open.spotify.com/track/362ZNrWuatoPVRTI7AEAzb) | [Gerilson Insrael](https://open.spotify.com/artist/4VnA54lsQnc9ImvrEY34fO) | [Felicidade](https://open.spotify.com/album/2UDLD0fwPAfijkPBFuRo2i) | 2:46 |
-| 57 | [Benka Benka](https://open.spotify.com/track/1qyB67YZSNblHfX5hQ09Ko) | [Jennifer Dias](https://open.spotify.com/artist/45qwEAGFSoIAhlRJqYZIml), [SOS MUCCI](https://open.spotify.com/artist/21ocGsKFd81lXPoObBFoCU) | [Benka Benka](https://open.spotify.com/album/02hwY0hIvxe1FWcZgTk5Iy) | 3:00 |
+| 56 | [Benka Benka](https://open.spotify.com/track/1qyB67YZSNblHfX5hQ09Ko) | [Jennifer Dias](https://open.spotify.com/artist/45qwEAGFSoIAhlRJqYZIml), [SOS MUCCI](https://open.spotify.com/artist/21ocGsKFd81lXPoObBFoCU) | [Benka Benka](https://open.spotify.com/album/02hwY0hIvxe1FWcZgTk5Iy) | 3:00 |
+| 57 | [Felicidade](https://open.spotify.com/track/362ZNrWuatoPVRTI7AEAzb) | [Gerilson Insrael](https://open.spotify.com/artist/4VnA54lsQnc9ImvrEY34fO) | [Felicidade](https://open.spotify.com/album/2UDLD0fwPAfijkPBFuRo2i) | 2:46 |
 | 58 | [Nossas Coisas \(feat\. Ary\)](https://open.spotify.com/track/0ty1TRfXkmeQj8jIyYA1vE) | [C4 Pedro](https://open.spotify.com/artist/5IccCciXwIjKPROLcD1Qao), [Ary](https://open.spotify.com/artist/3POxlshfzeJs7SiHhl24ST) | [Nossas Coisas \(feat\. Ary\)](https://open.spotify.com/album/3VRpKagyNwZ57LGI4otjpw) | 3:20 |
 | 59 | [Safadeza](https://open.spotify.com/track/4py0bZESzc62qRBlwSWFrZ) | [Helio Baiano](https://open.spotify.com/artist/5i94XzGyw2f9Jv4m8y4BrB), [Anna Joyce](https://open.spotify.com/artist/0TFtGB2jsMA97sNDTLJ8QX) | [Safadeza](https://open.spotify.com/album/0uTQBBju3AaEIzAHIcZgBB) | 3:09 |
 | 60 | [Tudo de Novo](https://open.spotify.com/track/0xdYdzu9XSwKTRjOWWUEgS) | [Eva Rapdiva](https://open.spotify.com/artist/3aS15wWCmzXkFRIvbu2KUd), [Gerilson Insrael](https://open.spotify.com/artist/4VnA54lsQnc9ImvrEY34fO) | [Tudo de Novo](https://open.spotify.com/album/0EOvEnan4nHBtwRKQ0qyfz) | 4:19 |
@@ -104,9 +104,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1l6qs3gcM4U.md) - [plain]
 | 94 | [Do Teu Jeito](https://open.spotify.com/track/5CF09RgWw4dzYqCpiWljea) | [Josslyn](https://open.spotify.com/artist/7DaYWbVfmn3AtcUJua9yYF) | [Do Teu Jeito](https://open.spotify.com/album/2vBdOoAaFXejJio7jSoZdW) | 3:13 |
 | 95 | [Cara Trancada](https://open.spotify.com/track/1U07y8ugAZcUC2SMjasLoZ) | [KONSTANTINO](https://open.spotify.com/artist/4zdhRvYNGW2zd5f4yarhdJ) | [Cara Trancada](https://open.spotify.com/album/1K4ppTJiB80RfqNKA0B7rI) | 4:16 |
 | 96 | [Reagi](https://open.spotify.com/track/28TKKqjvFEzjdySF7xqLr9) | [Elsy](https://open.spotify.com/artist/0MQ5pkCrgpk3D9efPa4vSu) | [Reagi](https://open.spotify.com/album/5H2uPj4d6xWVUDZvrqFPtr) | 3:38 |
-| 97 | [Ser Feliz](https://open.spotify.com/track/4tb70HZ8PwboF7aGGVBl1I) | [Liriany](https://open.spotify.com/artist/7gsMzXapXdZ5XzVPJp4rBd), [Landrick](https://open.spotify.com/artist/0K7M2QEMiMcok8igQeSsRU) | [Ser Feliz](https://open.spotify.com/album/7uTQAEBWfbze3iYIfOqmdR) | 3:25 |
-| 98 | [Pele Negra](https://open.spotify.com/track/1Y2alA2MIN3Qpj8T6yAxJN) | [C4 Pedro](https://open.spotify.com/artist/5IccCciXwIjKPROLcD1Qao) | [Pele Negra](https://open.spotify.com/album/0f21KuFAIbz8Bw7ExD1koZ) | 4:05 |
+| 97 | [Pele Negra](https://open.spotify.com/track/1Y2alA2MIN3Qpj8T6yAxJN) | [C4 Pedro](https://open.spotify.com/artist/5IccCciXwIjKPROLcD1Qao) | [Pele Negra](https://open.spotify.com/album/0f21KuFAIbz8Bw7ExD1koZ) | 4:05 |
+| 98 | [Ser Feliz](https://open.spotify.com/track/4tb70HZ8PwboF7aGGVBl1I) | [Liriany](https://open.spotify.com/artist/7gsMzXapXdZ5XzVPJp4rBd), [Landrick](https://open.spotify.com/artist/0K7M2QEMiMcok8igQeSsRU) | [Ser Feliz](https://open.spotify.com/album/7uTQAEBWfbze3iYIfOqmdR) | 3:25 |
 | 99 | [Saudades](https://open.spotify.com/track/0AkkOR1hyR97eqGIHvdP27) | [Érica Boaventura](https://open.spotify.com/artist/1iCTkpYE0TcjFrlpX8LPYg) | [Saudades](https://open.spotify.com/album/0FwrB6QGCHO4KBkgJFfinO) | 4:09 |
 | 100 | [Novinha](https://open.spotify.com/track/3YgyXiZE0E68EYvWDQ2RZd) | [Tamyris Moiane](https://open.spotify.com/artist/0DcdMBubONMXpTlmcWui2g), [Nice Life](https://open.spotify.com/artist/3aItXxnatnsBD8y7r80GuZ) | [Novinha](https://open.spotify.com/album/4RgA2js3fUyRfOX9No2Xrs) | 3:30 |
 
-Snapshot ID: `MCw0NTkxNzNkNWFhYTMxNzEwYjg4Yjc4NzYxODQzODJkMjY0ZjA2ZjI3`
+Snapshot ID: `MCw2NzQ2MjBkNzhjOGQ1YzhlYjE3OTVjMTA0Y2FlM2QyMzkzNTUxYmFl`

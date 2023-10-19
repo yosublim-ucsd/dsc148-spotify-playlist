@@ -1591,6 +1591,28 @@
     },
     {
       "album": {
+        "name": "This Wish (From \"Wish\")",
+        "url": "https://open.spotify.com/album/123gDnj9pBl8GNRLyOViC9"
+      },
+      "artists": [
+        {
+          "name": "Ariana DeBose",
+          "url": "https://open.spotify.com/artist/1Np9GsrPO7dlczjvdehBxs"
+        },
+        {
+          "name": "Disney",
+          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
+        }
+      ],
+      "date_added": "2023-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205480,
+      "name": "This Wish - From \"Wish\"",
+      "url": "https://open.spotify.com/track/5yvHjO06WHe7ETlgirLjbw"
+    },
+    {
+      "album": {
         "name": "La Princesa y el sapo (Banda Sonora Original en Espa\u00f1ol)",
         "url": "https://open.spotify.com/album/6fn8DNr1k7mVD1yRHIrcoe"
       },

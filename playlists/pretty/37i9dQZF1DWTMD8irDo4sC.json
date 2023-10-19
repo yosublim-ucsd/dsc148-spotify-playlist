@@ -1,12 +1,12 @@
 {
   "description": "Chill to these acoustic songs from the Middle East and North Africa. Cover: Labess.",
-  "num_followers": 60612,
+  "num_followers": 60637,
   "original_name": "Acoustic Arabic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyMWEyYmJiOWUxODBjOTRjMjE5NzQ2ZDYzYzQxYzBmOGFmNzJlZWZi",
+  "snapshot_id": "MCw1ZjZhNDY4NDAxNzIwY2ZhMGE4MzQ0MzkwMWMwY2IyNjMxM2ZiYTY3",
   "tracks": [
     {
       "added_at": "2022-05-09 08:05:11",
@@ -163,18 +163,22 @@
     {
       "added_at": "2022-05-09 08:05:11",
       "album": {
-        "name": "\u0628\u062f\u064a \u0627\u062d\u0643\u064a\u0643",
-        "url": "https://open.spotify.com/album/24l1EZQGlN4iiE8qnowy0Q"
+        "name": "K'lma",
+        "url": "https://open.spotify.com/album/2XY4xSVrYpRDTuUbPkVo81"
       },
       "artists": [
         {
-          "name": "Ghaliaa",
-          "url": "https://open.spotify.com/artist/3FVonQ6pTMMbqYb0Rf7WE8"
+          "name": "Fay\u00e7al Azizi",
+          "url": "https://open.spotify.com/artist/1eoHwLV1bakKB2Jm2cLwhQ"
+        },
+        {
+          "name": "Sakina Lafdaili",
+          "url": "https://open.spotify.com/artist/4Vw07BA7nA6viX20DkLmpl"
         }
       ],
-      "duration_ms": 171922,
-      "name": "\u0628\u062f\u064a \u0627\u062d\u0643\u064a\u0643",
-      "url": "https://open.spotify.com/track/4LcxmnNWYr9EUeEJWwKT5e"
+      "duration_ms": 310000,
+      "name": "Warda Ala Warda",
+      "url": "https://open.spotify.com/track/5wvvAkLPVVwk1IZZEkjdeD"
     },
     {
       "added_at": "2022-05-09 08:05:11",
@@ -195,22 +199,18 @@
     {
       "added_at": "2022-05-09 08:05:11",
       "album": {
-        "name": "K'lma",
-        "url": "https://open.spotify.com/album/2XY4xSVrYpRDTuUbPkVo81"
+        "name": "\u0628\u062f\u064a \u0627\u062d\u0643\u064a\u0643",
+        "url": "https://open.spotify.com/album/24l1EZQGlN4iiE8qnowy0Q"
       },
       "artists": [
         {
-          "name": "Fay\u00e7al Azizi",
-          "url": "https://open.spotify.com/artist/1eoHwLV1bakKB2Jm2cLwhQ"
-        },
-        {
-          "name": "Sakina Lafdaili",
-          "url": "https://open.spotify.com/artist/4Vw07BA7nA6viX20DkLmpl"
+          "name": "Ghaliaa",
+          "url": "https://open.spotify.com/artist/3FVonQ6pTMMbqYb0Rf7WE8"
         }
       ],
-      "duration_ms": 310000,
-      "name": "Warda Ala Warda",
-      "url": "https://open.spotify.com/track/5wvvAkLPVVwk1IZZEkjdeD"
+      "duration_ms": 171922,
+      "name": "\u0628\u062f\u064a \u0627\u062d\u0643\u064a\u0643",
+      "url": "https://open.spotify.com/track/4LcxmnNWYr9EUeEJWwKT5e"
     },
     {
       "added_at": "2022-05-09 08:05:11",
@@ -627,26 +627,6 @@
     {
       "added_at": "2022-05-09 08:05:11",
       "album": {
-        "name": "\u064a\u0627\u0645\u0651\u0647 \u0645\u0648\u064a\u0644 \u0627\u0644\u0647\u0648\u0649 (feat. Frankly Jazz)",
-        "url": "https://open.spotify.com/album/0VGa2gazFA7invA9hBmv4J"
-      },
-      "artists": [
-        {
-          "name": "Hamza Namira",
-          "url": "https://open.spotify.com/artist/2N72bJ8IYB4KZmKmxz5Xkk"
-        },
-        {
-          "name": "Frankly Jazz",
-          "url": "https://open.spotify.com/artist/5K8Wf8G8YMy9EJ8w857rm9"
-        }
-      ],
-      "duration_ms": 188852,
-      "name": "\u064a\u0627\u0645\u0651\u0647 \u0645\u0648\u064a\u0644 \u0627\u0644\u0647\u0648\u0649 (feat. Frankly Jazz)",
-      "url": "https://open.spotify.com/track/2fndQayJ2sGLs2q0WDS9Dt"
-    },
-    {
-      "added_at": "2022-05-09 08:05:11",
-      "album": {
         "name": "Ici et ailleurs",
         "url": "https://open.spotify.com/album/5pFD8nwMcsalVTJp3fZQcd"
       },
@@ -663,6 +643,26 @@
       "duration_ms": 333200,
       "name": "La corrida (with Francis Cabrel)",
       "url": "https://open.spotify.com/track/1pg1FFCDl0wiDM0FBV6EZM"
+    },
+    {
+      "added_at": "2022-05-09 08:05:11",
+      "album": {
+        "name": "\u064a\u0627\u0645\u0651\u0647 \u0645\u0648\u064a\u0644 \u0627\u0644\u0647\u0648\u0649 (feat. Frankly Jazz)",
+        "url": "https://open.spotify.com/album/0VGa2gazFA7invA9hBmv4J"
+      },
+      "artists": [
+        {
+          "name": "Hamza Namira",
+          "url": "https://open.spotify.com/artist/2N72bJ8IYB4KZmKmxz5Xkk"
+        },
+        {
+          "name": "Frankly Jazz",
+          "url": "https://open.spotify.com/artist/5K8Wf8G8YMy9EJ8w857rm9"
+        }
+      ],
+      "duration_ms": 188852,
+      "name": "\u064a\u0627\u0645\u0651\u0647 \u0645\u0648\u064a\u0644 \u0627\u0644\u0647\u0648\u0649 (feat. Frankly Jazz)",
+      "url": "https://open.spotify.com/track/2fndQayJ2sGLs2q0WDS9Dt"
     },
     {
       "added_at": "2022-05-09 08:05:11",
@@ -703,22 +703,6 @@
     {
       "added_at": "2022-05-09 08:05:11",
       "album": {
-        "name": "Manakir",
-        "url": "https://open.spotify.com/album/2IaWV2qILK8ac0SZcpLaAY"
-      },
-      "artists": [
-        {
-          "name": "Haya Zaatry",
-          "url": "https://open.spotify.com/artist/7BbiOEvJs6qrSDp54s1EUB"
-        }
-      ],
-      "duration_ms": 184633,
-      "name": "Manakir",
-      "url": "https://open.spotify.com/track/3q1rNrHQoxvzbC0okaKt7C"
-    },
-    {
-      "added_at": "2022-05-09 08:05:11",
-      "album": {
         "name": "Between City Walls",
         "url": "https://open.spotify.com/album/0aUGJkdUCaTmBqlB2gD3I0"
       },
@@ -731,6 +715,22 @@
       "duration_ms": 221043,
       "name": "Enough",
       "url": "https://open.spotify.com/track/4CZ2wKpcjgoQDxGMQNUdqb"
+    },
+    {
+      "added_at": "2022-05-09 08:05:11",
+      "album": {
+        "name": "Manakir",
+        "url": "https://open.spotify.com/album/2IaWV2qILK8ac0SZcpLaAY"
+      },
+      "artists": [
+        {
+          "name": "Haya Zaatry",
+          "url": "https://open.spotify.com/artist/7BbiOEvJs6qrSDp54s1EUB"
+        }
+      ],
+      "duration_ms": 184633,
+      "name": "Manakir",
+      "url": "https://open.spotify.com/track/3q1rNrHQoxvzbC0okaKt7C"
     },
     {
       "added_at": "2022-05-09 08:05:11",
@@ -899,22 +899,6 @@
     {
       "added_at": "2022-05-09 08:05:11",
       "album": {
-        "name": "Bshi Yom",
-        "url": "https://open.spotify.com/album/5zkU8WxN7m7HbkgRusjQyN"
-      },
-      "artists": [
-        {
-          "name": "Yousef Kekhia",
-          "url": "https://open.spotify.com/artist/7EhcVdfydM4Hdfv5usdCRw"
-        }
-      ],
-      "duration_ms": 294402,
-      "name": "Bshi Yom",
-      "url": "https://open.spotify.com/track/11MX2DEBj06gcQZmSzIuZ5"
-    },
-    {
-      "added_at": "2022-05-09 08:05:11",
-      "album": {
         "name": "\u0645\u0641\u0631\u0642 48 (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/03J6HvXUohmOkWMmxFM05S"
       },
@@ -931,6 +915,22 @@
       "duration_ms": 164595,
       "name": "\u062a\u0639\u0627\u0644 \u0645\u0639\u064a",
       "url": "https://open.spotify.com/track/7c47NwOZisO6IEmdfFN4Qv"
+    },
+    {
+      "added_at": "2022-05-09 08:05:11",
+      "album": {
+        "name": "Bshi Yom",
+        "url": "https://open.spotify.com/album/5zkU8WxN7m7HbkgRusjQyN"
+      },
+      "artists": [
+        {
+          "name": "Yousef Kekhia",
+          "url": "https://open.spotify.com/artist/7EhcVdfydM4Hdfv5usdCRw"
+        }
+      ],
+      "duration_ms": 294402,
+      "name": "Bshi Yom",
+      "url": "https://open.spotify.com/track/11MX2DEBj06gcQZmSzIuZ5"
     },
     {
       "added_at": "2022-05-09 08:05:11",

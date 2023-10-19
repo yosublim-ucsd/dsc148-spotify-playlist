@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSSSls9eK29h.md) - [plain]
 
 > So smooth, so classic\. Cover: George Benson
 
-[Spotify](https://open.spotify.com/user/spotify) - 123,006 likes - 60 songs - 5 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 123,100 likes - 60 songs - 5 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Breezin'](https://open.spotify.com/track/1m3BAsNsQAaSNMD2M6vlKY) | [George Benson](https://open.spotify.com/artist/4N8BwYTEC6XqykGvXXlmfv) | [Breezin'](https://open.spotify.com/album/1ei5QjnfB7PHINJOH8Gft5) | 5:41 |
 | 2 | [Morning Dance](https://open.spotify.com/track/7oTaBk0IrTeO7dKlUIn1k1) | [Spyro Gyra](https://open.spotify.com/artist/1Be36RHAlqJpfUt3tsmUQD) | [Morning Dance](https://open.spotify.com/album/18qf7qvyrcaGFmCB5AblaG) | 3:56 |
-| 3 | [Just Between Us](https://open.spotify.com/track/4pa23KNAU2ul1REZDMJsAz) | [Norman Brown](https://open.spotify.com/artist/79kOOyVKcrCOKDnzcDHsia) | [Just Between Us](https://open.spotify.com/album/1nRaXHXH4pT2yfyHAhCsx5) | 5:08 |
-| 4 | [Where the Night Begins](https://open.spotify.com/track/1XWvnO1jAnW8izUOczEdZu) | [Steve Cole](https://open.spotify.com/artist/6rpOQ4XZKUz0ayWSMgvmWb) | [Stay Awhile](https://open.spotify.com/album/0BnQMPzjGWbmoAOPFs5Nsn) | 4:37 |
+| 3 | [Where the Night Begins](https://open.spotify.com/track/1XWvnO1jAnW8izUOczEdZu) | [Steve Cole](https://open.spotify.com/artist/6rpOQ4XZKUz0ayWSMgvmWb) | [Stay Awhile](https://open.spotify.com/album/0BnQMPzjGWbmoAOPFs5Nsn) | 4:37 |
+| 4 | [Just Between Us](https://open.spotify.com/track/4pa23KNAU2ul1REZDMJsAz) | [Norman Brown](https://open.spotify.com/artist/79kOOyVKcrCOKDnzcDHsia) | [Just Between Us](https://open.spotify.com/album/1nRaXHXH4pT2yfyHAhCsx5) | 5:08 |
 | 5 | [Seventh Heaven \(feat\. Jeff Golub\)](https://open.spotify.com/track/2ZZ6st5XTa8wDNqsE1bHa7) | [Avenue Blue \(Featuring Jeff Golub\)](https://open.spotify.com/artist/2TQGAlirZ6ePbgec2TvLK9) | [Nightlife](https://open.spotify.com/album/2EnhcAGKSkoGRFiY6xd1ke) | 5:10 |
 | 6 | [Deep Touch](https://open.spotify.com/track/6t7taWgrWVlV86UuxmMyLW) | [Richard Elliot](https://open.spotify.com/artist/6eLlZ44VYhHnvuRet0qTuH) | [Chill Factor](https://open.spotify.com/album/1DUAy4KMoe4R3R5eY5PTii) | 4:36 |
 | 7 | [Together Again](https://open.spotify.com/track/7igzgZaMWs7r1YVCC3orR0) | [Dave Koz](https://open.spotify.com/artist/0ZcJXldoq09BRIMl0Qh1Vm) | [The Dance](https://open.spotify.com/album/5GHzB4bwVYzl7Cbz17z8wb) | 4:15 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSSSls9eK29h.md) - [plain]
 | 59 | [Affair In San Miguel](https://open.spotify.com/track/5LdbDkRMKDEYKYZxj3TpW9) | [The Rippingtons](https://open.spotify.com/artist/6hjqP9annof75B2TNBE0rO), [Steve Reid](https://open.spotify.com/artist/4jQrVUOMWHpcwAj9CJB1f0), [Brandon Fields](https://open.spotify.com/artist/6m677bkJTyCYHZZa6h8PR5) | [The Best Of The Rippingtons](https://open.spotify.com/album/0nq9ESVd0F7vZTREx8GLHD) | 5:08 |
 | 60 | [Personal Touch](https://open.spotify.com/track/0NA50DOtbAqH4LDngxH3Xw) | [Paul Jackson, Jr.](https://open.spotify.com/artist/2OeN0JVfTWYog354hHhQ2S) | [I Came To Play](https://open.spotify.com/album/3281OsYyVze2o5TBGczWBO) | 5:55 |
 
-Snapshot ID: `MCxjNDcxYWQxMDJkMTMxZmE4MjQ0MjkzZDkyMTM1ZTBiNjZlOTZlOGVl`
+Snapshot ID: `MCw0Nzk5YzI4M2FiNDA3OWU5N2U0M2MwOTVmNGZiMGU2ZmViYjU1NTA3`

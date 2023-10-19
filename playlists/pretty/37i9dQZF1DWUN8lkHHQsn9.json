@@ -1,12 +1,12 @@
 {
   "description": "B\u0105d\u017a sob\u0105 \u2728 Pos\u0142uchaj g\u0142osu polskich artyst\u00f3w LGBTQIA+. Cover: <a href=\"spotify:artist:4GUR4UKtbNQiAV2h5qV2df\">Kamil Kempi\u0144ski</a>",
-  "num_followers": 6679,
+  "num_followers": 6680,
   "original_name": "GLOW Polska",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0MmM0NmQzYWM0YTg4ODRlMTM5Njk2ZTA0NWU5NmI0NWE5ZDc4NGVk",
+  "snapshot_id": "MCxkYTI4Y2E0ZGFlY2I0MjJiMmIzZmFmZDNiNjVmNzEzNjZhNzRlOWNl",
   "tracks": [
     {
       "added_at": "2023-10-09 22:00:00",
@@ -583,6 +583,22 @@
     {
       "added_at": "2023-10-09 22:00:00",
       "album": {
+        "name": "Le$bijka",
+        "url": "https://open.spotify.com/album/291wHa3fGrPsf32C8edkM2"
+      },
+      "artists": [
+        {
+          "name": "Aljas",
+          "url": "https://open.spotify.com/artist/6Vkhs9MXgzLQ88k1rMay1a"
+        }
+      ],
+      "duration_ms": 169759,
+      "name": "Le$bijka",
+      "url": "https://open.spotify.com/track/4YYk0IrDqrlEse7TB1RP8D"
+    },
+    {
+      "added_at": "2023-10-09 22:00:00",
+      "album": {
         "name": "Przekle\u0144stwa Niewinno\u015bci",
         "url": "https://open.spotify.com/album/5zBEDCmcK2SVgyTK8maiu5"
       },
@@ -599,22 +615,6 @@
       "duration_ms": 171379,
       "name": "Wiem, \u017ce Smakuj\u0119 Jak...",
       "url": "https://open.spotify.com/track/4GMIKtwsgJwa6zvA0krAS4"
-    },
-    {
-      "added_at": "2023-10-09 22:00:00",
-      "album": {
-        "name": "Le$bijka",
-        "url": "https://open.spotify.com/album/291wHa3fGrPsf32C8edkM2"
-      },
-      "artists": [
-        {
-          "name": "Aljas",
-          "url": "https://open.spotify.com/artist/6Vkhs9MXgzLQ88k1rMay1a"
-        }
-      ],
-      "duration_ms": 169759,
-      "name": "Le$bijka",
-      "url": "https://open.spotify.com/track/4YYk0IrDqrlEse7TB1RP8D"
     },
     {
       "added_at": "2023-10-09 22:00:00",
@@ -723,6 +723,22 @@
     {
       "added_at": "2023-10-09 22:00:00",
       "album": {
+        "name": "OLIMP",
+        "url": "https://open.spotify.com/album/0jR9aLfNRm2xWo7ymsxOEb"
+      },
+      "artists": [
+        {
+          "name": "NIEB\u00d8",
+          "url": "https://open.spotify.com/artist/3jLSR7Z9iOyhSFBwQeS7es"
+        }
+      ],
+      "duration_ms": 207732,
+      "name": "Jako\u015b To Przetrwamy",
+      "url": "https://open.spotify.com/track/29RGuw6jKWzMUBQvku0aoS"
+    },
+    {
+      "added_at": "2023-10-09 22:00:00",
+      "album": {
         "name": "OH WOW",
         "url": "https://open.spotify.com/album/0Z9kjE77CEY7cBz3oZ69hI"
       },
@@ -755,22 +771,6 @@
       "duration_ms": 143443,
       "name": "oddaj\u0119 Ci melodi\u0119",
       "url": "https://open.spotify.com/track/5zvfPxqXLOXEls3qME9Uz9"
-    },
-    {
-      "added_at": "2023-10-09 22:00:00",
-      "album": {
-        "name": "OLIMP",
-        "url": "https://open.spotify.com/album/0jR9aLfNRm2xWo7ymsxOEb"
-      },
-      "artists": [
-        {
-          "name": "NIEB\u00d8",
-          "url": "https://open.spotify.com/artist/3jLSR7Z9iOyhSFBwQeS7es"
-        }
-      ],
-      "duration_ms": 207732,
-      "name": "Jako\u015b To Przetrwamy",
-      "url": "https://open.spotify.com/track/29RGuw6jKWzMUBQvku0aoS"
     },
     {
       "added_at": "2023-10-09 22:00:00",
@@ -823,18 +823,34 @@
     {
       "added_at": "2023-10-09 22:00:00",
       "album": {
-        "name": "Diego M.",
-        "url": "https://open.spotify.com/album/0nSbH99Z1jWuqolGkPsvqM"
+        "name": "SLAY",
+        "url": "https://open.spotify.com/album/09pZiA20YaLGEHkqGqzC9m"
       },
       "artists": [
         {
-          "name": "sedguy",
-          "url": "https://open.spotify.com/artist/0dKVhjeQK0F1tqd32emoPf"
+          "name": "Shady Lady",
+          "url": "https://open.spotify.com/artist/1g0MOYlsQFn7If1Vp7o5L0"
         }
       ],
-      "duration_ms": 165991,
-      "name": "Diego M.",
-      "url": "https://open.spotify.com/track/0kEuKb2kutWzCbh4bi1h1U"
+      "duration_ms": 179000,
+      "name": "SLAY",
+      "url": "https://open.spotify.com/track/5inHdBzp49cEZ96hvpRug4"
+    },
+    {
+      "added_at": "2023-10-09 22:00:00",
+      "album": {
+        "name": "psychodynamiczne",
+        "url": "https://open.spotify.com/album/2Jp3mZywGkxMFB5Wu2p5s9"
+      },
+      "artists": [
+        {
+          "name": "thekayetan",
+          "url": "https://open.spotify.com/artist/66XpA1oaejl7wkkhTJ1GbP"
+        }
+      ],
+      "duration_ms": 190000,
+      "name": "priorytetem",
+      "url": "https://open.spotify.com/track/1AEjEwTDNB0nZkQFHtbZux"
     },
     {
       "added_at": "2023-10-09 22:00:00",
@@ -855,18 +871,34 @@
     {
       "added_at": "2023-10-09 22:00:00",
       "album": {
-        "name": "SLAY",
-        "url": "https://open.spotify.com/album/09pZiA20YaLGEHkqGqzC9m"
+        "name": "Diego M.",
+        "url": "https://open.spotify.com/album/0nSbH99Z1jWuqolGkPsvqM"
       },
       "artists": [
         {
-          "name": "Shady Lady",
-          "url": "https://open.spotify.com/artist/1g0MOYlsQFn7If1Vp7o5L0"
+          "name": "sedguy",
+          "url": "https://open.spotify.com/artist/0dKVhjeQK0F1tqd32emoPf"
         }
       ],
-      "duration_ms": 179000,
-      "name": "SLAY",
-      "url": "https://open.spotify.com/track/5inHdBzp49cEZ96hvpRug4"
+      "duration_ms": 165991,
+      "name": "Diego M.",
+      "url": "https://open.spotify.com/track/0kEuKb2kutWzCbh4bi1h1U"
+    },
+    {
+      "added_at": "2023-10-09 22:00:00",
+      "album": {
+        "name": "Przed siebie",
+        "url": "https://open.spotify.com/album/08met7OFAeiVa1eiwRUiHi"
+      },
+      "artists": [
+        {
+          "name": "Oskar Kucmann",
+          "url": "https://open.spotify.com/artist/6QCsE5n2rSQiqzKS2DSQJK"
+        }
+      ],
+      "duration_ms": 183178,
+      "name": "Przed siebie",
+      "url": "https://open.spotify.com/track/5hqohFoXOJt3KO05HqBhy7"
     },
     {
       "added_at": "2023-10-09 22:00:00",
@@ -891,70 +923,6 @@
     {
       "added_at": "2023-10-09 22:00:00",
       "album": {
-        "name": "psychodynamiczne",
-        "url": "https://open.spotify.com/album/2Jp3mZywGkxMFB5Wu2p5s9"
-      },
-      "artists": [
-        {
-          "name": "thekayetan",
-          "url": "https://open.spotify.com/artist/66XpA1oaejl7wkkhTJ1GbP"
-        }
-      ],
-      "duration_ms": 190000,
-      "name": "priorytetem",
-      "url": "https://open.spotify.com/track/1AEjEwTDNB0nZkQFHtbZux"
-    },
-    {
-      "added_at": "2023-10-09 22:00:00",
-      "album": {
-        "name": "Przed siebie",
-        "url": "https://open.spotify.com/album/08met7OFAeiVa1eiwRUiHi"
-      },
-      "artists": [
-        {
-          "name": "Oskar Kucmann",
-          "url": "https://open.spotify.com/artist/6QCsE5n2rSQiqzKS2DSQJK"
-        }
-      ],
-      "duration_ms": 183178,
-      "name": "Przed siebie",
-      "url": "https://open.spotify.com/track/5hqohFoXOJt3KO05HqBhy7"
-    },
-    {
-      "added_at": "2023-10-09 22:00:00",
-      "album": {
-        "name": "Przypadki",
-        "url": "https://open.spotify.com/album/3zTSTlliW1LwlJTQHvBuCG"
-      },
-      "artists": [
-        {
-          "name": "Zawadzki",
-          "url": "https://open.spotify.com/artist/5n9VtqOD2WpsEHeCdTCLKt"
-        }
-      ],
-      "duration_ms": 190443,
-      "name": "Przypadki",
-      "url": "https://open.spotify.com/track/2fPkzFLaLi7ejMidEakhw2"
-    },
-    {
-      "added_at": "2023-10-09 22:00:00",
-      "album": {
-        "name": "Nie ma",
-        "url": "https://open.spotify.com/album/51M4DQti8EHFtBk7vNmM1M"
-      },
-      "artists": [
-        {
-          "name": "Iwona Skv",
-          "url": "https://open.spotify.com/artist/5nGEwOuyd7RFe64eB0kWd8"
-        }
-      ],
-      "duration_ms": 202419,
-      "name": "Nie ma",
-      "url": "https://open.spotify.com/track/3MFmVJjXCv6gQq5LkbMnqT"
-    },
-    {
-      "added_at": "2023-10-09 22:00:00",
-      "album": {
         "name": "Pokussa Na Parkiecie",
         "url": "https://open.spotify.com/album/0rlVEb3I0UMhMGhPCmc0dv"
       },
@@ -975,6 +943,38 @@
     {
       "added_at": "2023-10-09 22:00:00",
       "album": {
+        "name": "Nie ma",
+        "url": "https://open.spotify.com/album/51M4DQti8EHFtBk7vNmM1M"
+      },
+      "artists": [
+        {
+          "name": "Iwona Skv",
+          "url": "https://open.spotify.com/artist/5nGEwOuyd7RFe64eB0kWd8"
+        }
+      ],
+      "duration_ms": 202419,
+      "name": "Nie ma",
+      "url": "https://open.spotify.com/track/3MFmVJjXCv6gQq5LkbMnqT"
+    },
+    {
+      "added_at": "2023-10-09 22:00:00",
+      "album": {
+        "name": "Przypadki",
+        "url": "https://open.spotify.com/album/3zTSTlliW1LwlJTQHvBuCG"
+      },
+      "artists": [
+        {
+          "name": "Zawadzki",
+          "url": "https://open.spotify.com/artist/5n9VtqOD2WpsEHeCdTCLKt"
+        }
+      ],
+      "duration_ms": 190443,
+      "name": "Przypadki",
+      "url": "https://open.spotify.com/track/2fPkzFLaLi7ejMidEakhw2"
+    },
+    {
+      "added_at": "2023-10-09 22:00:00",
+      "album": {
         "name": "Stamina",
         "url": "https://open.spotify.com/album/698CpODMEheVL58NRNUKUE"
       },
@@ -987,22 +987,6 @@
       "duration_ms": 225920,
       "name": "Tango",
       "url": "https://open.spotify.com/track/4a2OePCLrPoBzQdjpHrcq4"
-    },
-    {
-      "added_at": "2023-10-09 22:00:00",
-      "album": {
-        "name": "J\u0119zyk",
-        "url": "https://open.spotify.com/album/4jXACqJX7PjEVuHV8SvEJn"
-      },
-      "artists": [
-        {
-          "name": "sedguy",
-          "url": "https://open.spotify.com/artist/0dKVhjeQK0F1tqd32emoPf"
-        }
-      ],
-      "duration_ms": 186468,
-      "name": "J\u0119zyk",
-      "url": "https://open.spotify.com/track/5h5TrSLkar8aMAyVx07bi6"
     },
     {
       "added_at": "2023-10-09 22:00:00",
@@ -1023,6 +1007,22 @@
     {
       "added_at": "2023-10-09 22:00:00",
       "album": {
+        "name": "J\u0119zyk",
+        "url": "https://open.spotify.com/album/4jXACqJX7PjEVuHV8SvEJn"
+      },
+      "artists": [
+        {
+          "name": "sedguy",
+          "url": "https://open.spotify.com/artist/0dKVhjeQK0F1tqd32emoPf"
+        }
+      ],
+      "duration_ms": 186468,
+      "name": "J\u0119zyk",
+      "url": "https://open.spotify.com/track/5h5TrSLkar8aMAyVx07bi6"
+    },
+    {
+      "added_at": "2023-10-09 22:00:00",
+      "album": {
         "name": "DOM",
         "url": "https://open.spotify.com/album/2PGFxvrz2d9GixdQRL8ziH"
       },
@@ -1039,22 +1039,6 @@
     {
       "added_at": "2023-10-09 22:00:00",
       "album": {
-        "name": "Polska",
-        "url": "https://open.spotify.com/album/05iTzY6S2F3CVYL97LcnOR"
-      },
-      "artists": [
-        {
-          "name": "Raf Skowro\u0144ski",
-          "url": "https://open.spotify.com/artist/1alcdAcSxQfrx5GmgWAqGk"
-        }
-      ],
-      "duration_ms": 243062,
-      "name": "Polska",
-      "url": "https://open.spotify.com/track/4duqZuqKqtxW0KM0TtxA2L"
-    },
-    {
-      "added_at": "2023-10-09 22:00:00",
-      "album": {
         "name": "BSoD (Bluescreen)",
         "url": "https://open.spotify.com/album/2nUamr4mpMpj0ARF90cMag"
       },
@@ -1067,6 +1051,22 @@
       "duration_ms": 179986,
       "name": "BSoD (Bluescreen)",
       "url": "https://open.spotify.com/track/3Ry1yhZnlCYdwpiz3n2qat"
+    },
+    {
+      "added_at": "2023-10-09 22:00:00",
+      "album": {
+        "name": "Polska",
+        "url": "https://open.spotify.com/album/05iTzY6S2F3CVYL97LcnOR"
+      },
+      "artists": [
+        {
+          "name": "Raf Skowro\u0144ski",
+          "url": "https://open.spotify.com/artist/1alcdAcSxQfrx5GmgWAqGk"
+        }
+      ],
+      "duration_ms": 243062,
+      "name": "Polska",
+      "url": "https://open.spotify.com/track/4duqZuqKqtxW0KM0TtxA2L"
     },
     {
       "added_at": "2023-10-09 22:00:00",
@@ -1315,78 +1315,18 @@
     {
       "added_at": "2023-10-09 22:00:00",
       "album": {
-        "name": "DUEL 35 Chamber Orchestra",
-        "url": "https://open.spotify.com/album/2BH8azU0tqyYsxhTLt1sPd"
+        "name": "Parlez Vous Francais",
+        "url": "https://open.spotify.com/album/2M8QV57i0i2GKoWe8ziAXA"
       },
       "artists": [
         {
-          "name": "Zamilska",
-          "url": "https://open.spotify.com/artist/5spFDEIIv5V1yEHxIBStKH"
-        },
-        {
-          "name": "Patryk Pi\u0142asiewicz",
-          "url": "https://open.spotify.com/artist/2j4TBbXIHH6qGqx9G7bYJO"
-        },
-        {
-          "name": "Chamber Orchestra",
-          "url": "https://open.spotify.com/artist/1aMgsRyMOjklxOf80Ley9F"
-        },
-        {
-          "name": "Jan Cieszy\u0144ski",
-          "url": "https://open.spotify.com/artist/56SBcXfudvYb4rTdsXZKAo"
-        },
-        {
-          "name": "Agata Doszczak",
-          "url": "https://open.spotify.com/artist/6rEMWX1OnDhseavIt6HuvC"
-        },
-        {
-          "name": "Dominik Drewniak",
-          "url": "https://open.spotify.com/artist/59oImb1kKYMwjjexZxsFeJ"
-        },
-        {
-          "name": "Katarzyna Hejnowicz",
-          "url": "https://open.spotify.com/artist/1txje25nHpf9q0hLb0PCyj"
-        },
-        {
-          "name": "Filip Mikulski",
-          "url": "https://open.spotify.com/artist/0jcYHj9RFoNwx3in1eCeA5"
-        },
-        {
-          "name": "Kosma M\u00fcller",
-          "url": "https://open.spotify.com/artist/6pNH9U1BwU274C8fJCFsZN"
-        },
-        {
-          "name": "Julia Polowczyk",
-          "url": "https://open.spotify.com/artist/71MPlsVNg2hSRaNaKasfkT"
-        },
-        {
-          "name": "Beata Prus",
-          "url": "https://open.spotify.com/artist/5xjLU3UmwaigK4LeWeKzRI"
-        },
-        {
-          "name": "Barbara S\u0142omian",
-          "url": "https://open.spotify.com/artist/77URrQS0BIpNIcZO2Sgb81"
-        },
-        {
-          "name": "Weronika Stabrawa",
-          "url": "https://open.spotify.com/artist/7ekzgARFTMaUc7RKHKphFP"
-        },
-        {
-          "name": "Anna Zaryczna",
-          "url": "https://open.spotify.com/artist/7K1crcEXeirFg8HE7ab341"
-        },
-        {
-          "name": "Jakub Zo\u0144",
-          "url": "https://open.spotify.com/artist/36yxLwof16SmVab7auYzrx"
-        },
-        {
-          "name": "Weronika Bagniewska",
-          "url": "https://open.spotify.com/artist/6JfrZAtC5qgiX9DgYRYtb9"
+          "name": "Julia Bosski",
+          "url": "https://open.spotify.com/artist/38qVvJz4fyKJhg08RqHhL2"
         }
       ],
-      "duration_ms": 431721,
-      "name": "Duel 35 Chamber Orchestra",
-      "url": "https://open.spotify.com/track/3CMYL3nRaIIPN7kInmRZy5"
+      "duration_ms": 202666,
+      "name": "Parlez Vous Francais",
+      "url": "https://open.spotify.com/track/1xQkNNDv2MpPpVDNcnFx32"
     },
     {
       "added_at": "2023-10-09 22:00:00",

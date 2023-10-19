@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-09",
-  "description": " Emerging Indie artists on the rise, updated every Wednesday. Cover: Samad Khan , Artwork: Isu Kim",
+  "description": " Emerging Indie artists on the rise, updated every Wednesday. Cover: Whale In The Pond , Artwork: Isu Kim",
   "name": "Fresh Finds India",
   "tracks": [
     {
@@ -2668,7 +2668,7 @@
       ],
       "date_added": "2023-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-19",
       "duration_ms": 242307,
       "name": "Chal Chale",
       "url": "https://open.spotify.com/track/5OkmlqLdDiXxmvDC9t8JNY"
@@ -5299,6 +5299,28 @@
     },
     {
       "album": {
+        "name": "Gir Jane De",
+        "url": "https://open.spotify.com/album/3L5stbP9Dc2kM6a0Z5ue8C"
+      },
+      "artists": [
+        {
+          "name": "Prabhanjan",
+          "url": "https://open.spotify.com/artist/1G5ur1G4EQjPC5tP6sLYmY"
+        },
+        {
+          "name": "Riya Goley",
+          "url": "https://open.spotify.com/artist/4ySpRlOBEyFbpSla57Tm9B"
+        }
+      ],
+      "date_added": "2023-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129315,
+      "name": "Gir Jane De",
+      "url": "https://open.spotify.com/track/30JVqya4V2cuXMk2HbXewm"
+    },
+    {
+      "album": {
         "name": "Girl in the City",
         "url": "https://open.spotify.com/album/2ab7W7MqAdrD9lr6eA5WKY"
       },
@@ -5386,7 +5408,7 @@
       ],
       "date_added": "2023-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-19",
       "duration_ms": 165436,
       "name": "Gulabi",
       "url": "https://open.spotify.com/track/4NrYY6WUYdfSC8fZ2WVwAx"
@@ -5462,7 +5484,7 @@
       ],
       "date_added": "2023-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-19",
       "duration_ms": 145927,
       "name": "Gumsum",
       "url": "https://open.spotify.com/track/0v20x1Yig5Co1VZOCLJbU7"
@@ -6296,6 +6318,24 @@
       "duration_ms": 204000,
       "name": "I Just Wish That",
       "url": "https://open.spotify.com/track/5IJG4G9UTdHxkiY1GyM0KS"
+    },
+    {
+      "album": {
+        "name": "I met a boy",
+        "url": "https://open.spotify.com/album/3R6BJZrZ5jH98nu0JwNcpH"
+      },
+      "artists": [
+        {
+          "name": "Ishita Parakh",
+          "url": "https://open.spotify.com/artist/0Fb1hND25pyPt3JSQAjIIV"
+        }
+      ],
+      "date_added": "2023-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "I met a boy",
+      "url": "https://open.spotify.com/track/3fBodzlhvIfiyNN2Bka0rC"
     },
     {
       "album": {
@@ -7352,7 +7392,7 @@
       ],
       "date_added": "2023-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-19",
       "duration_ms": 224000,
       "name": "Jashn",
       "url": "https://open.spotify.com/track/5QTpBl1X9WFvntRYw1c6mA"
@@ -8280,7 +8320,7 @@
       ],
       "date_added": "2023-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-19",
       "duration_ms": 134857,
       "name": "Kaho na",
       "url": "https://open.spotify.com/track/5znUlfypbCVjEzqGvzy0Xw"
@@ -8332,6 +8372,28 @@
       "duration_ms": 184138,
       "name": "Kaise Kahein",
       "url": "https://open.spotify.com/track/4X5DgGXjlkHszdFcYlFzdY"
+    },
+    {
+      "album": {
+        "name": "Kaise Kahun Ke",
+        "url": "https://open.spotify.com/album/4rehKGs5XqckkCseB5ldUU"
+      },
+      "artists": [
+        {
+          "name": "Siddharth Rao",
+          "url": "https://open.spotify.com/artist/05C5PAyE5Lm2Z61zCpRz6n"
+        },
+        {
+          "name": "Siddharth Dixit",
+          "url": "https://open.spotify.com/artist/4ndFkmdRU4qLTlJbH0EqTi"
+        }
+      ],
+      "date_added": "2023-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236977,
+      "name": "Kaise Kahun Ke",
+      "url": "https://open.spotify.com/track/18PBbHr1o0N1nVqT77PzD0"
     },
     {
       "album": {
@@ -8482,6 +8544,24 @@
       "duration_ms": 208269,
       "name": "Kehne Do",
       "url": "https://open.spotify.com/track/2hXpu8Y2I772ooXum6sNHb"
+    },
+    {
+      "album": {
+        "name": "Kehte Hain",
+        "url": "https://open.spotify.com/album/44a8q1F9UD3mxEYDhbaPHv"
+      },
+      "artists": [
+        {
+          "name": "Bawari Basanti",
+          "url": "https://open.spotify.com/artist/4SroVVRKitVKrlYdV5Ulf8"
+        }
+      ],
+      "date_added": "2023-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229924,
+      "name": "Kehte Hain",
+      "url": "https://open.spotify.com/track/5W5SN076eSLD8VSAAEpeOq"
     },
     {
       "album": {
@@ -8981,6 +9061,28 @@
     },
     {
       "album": {
+        "name": "Koi Matlab Nahi",
+        "url": "https://open.spotify.com/album/2VDW1QYt24MvQL92aqP6hM"
+      },
+      "artists": [
+        {
+          "name": "Neyhal",
+          "url": "https://open.spotify.com/artist/58nYUsnl5ST7wD1VY49b31"
+        },
+        {
+          "name": "Doie",
+          "url": "https://open.spotify.com/artist/61WxZKiXbPoi7rMp1beJf6"
+        }
+      ],
+      "date_added": "2023-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177999,
+      "name": "Koi Matlab Nahi",
+      "url": "https://open.spotify.com/track/44UJTphbSUJX2K7Ba6KBtm"
+    },
+    {
+      "album": {
         "name": "Koi Tumsa Nahi",
         "url": "https://open.spotify.com/album/4h2uK5D43Q68jiwaQb4Tz0"
       },
@@ -9320,7 +9422,7 @@
       ],
       "date_added": "2023-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-19",
       "duration_ms": 258782,
       "name": "Lapata",
       "url": "https://open.spotify.com/track/2qpAjsUKXaTTfIdfdhbjqb"
@@ -9849,6 +9951,32 @@
     },
     {
       "album": {
+        "name": "Maan Ja Zara",
+        "url": "https://open.spotify.com/album/2OcDMXE7awTv723TUreSRG"
+      },
+      "artists": [
+        {
+          "name": "Yohan Marshall",
+          "url": "https://open.spotify.com/artist/69FVuMNh5n6YNPq6Qf42rD"
+        },
+        {
+          "name": "Riya Duggal",
+          "url": "https://open.spotify.com/artist/5goNlHuuRk93uDY86KcLET"
+        },
+        {
+          "name": "RUUH",
+          "url": "https://open.spotify.com/artist/70OyR3fSaGkXpkr1hMm9KQ"
+        }
+      ],
+      "date_added": "2023-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144705,
+      "name": "Maan Ja Zara",
+      "url": "https://open.spotify.com/track/6c3brBDVASgStziYbSJ66o"
+    },
+    {
+      "album": {
         "name": "Madeline",
         "url": "https://open.spotify.com/album/7LP4cIHMKod2Zvz8RDcFT0"
       },
@@ -10366,7 +10494,7 @@
       ],
       "date_added": "2023-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-19",
       "duration_ms": 173211,
       "name": "Mausam",
       "url": "https://open.spotify.com/track/0a1dfhDsY0yVKpbc41Jafr"
@@ -10793,6 +10921,24 @@
     },
     {
       "album": {
+        "name": "Midnight Falls",
+        "url": "https://open.spotify.com/album/3shZLNDbFWdPNJse3vAmDT"
+      },
+      "artists": [
+        {
+          "name": "Whale In The Pond",
+          "url": "https://open.spotify.com/artist/0pFUQn1X45qbmryuF6caQj"
+        }
+      ],
+      "date_added": "2023-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239508,
+      "name": "Midnight Falls",
+      "url": "https://open.spotify.com/track/5JoPklL29dDtg7CjwbvKy4"
+    },
+    {
+      "album": {
         "name": "Midnight Stories",
         "url": "https://open.spotify.com/album/2WtUrKjxctvXSCcXipQLZ0"
       },
@@ -10808,7 +10954,7 @@
       ],
       "date_added": "2023-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-19",
       "duration_ms": 293809,
       "name": "Midnight Stories",
       "url": "https://open.spotify.com/track/6b7z4doubf8s2y22VzKoRV"
@@ -11747,6 +11893,24 @@
     },
     {
       "album": {
+        "name": "On The Mend",
+        "url": "https://open.spotify.com/album/6a2pMBl8wk5ZPkkdz0nK5H"
+      },
+      "artists": [
+        {
+          "name": "Nikhil D Almeida",
+          "url": "https://open.spotify.com/artist/6qFyqRvBgi7lbJoD5Fr3j3"
+        }
+      ],
+      "date_added": "2023-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152727,
+      "name": "On The Mend",
+      "url": "https://open.spotify.com/track/3XqsS2DtLgZVHE8mqSvPcb"
+    },
+    {
+      "album": {
         "name": "On the wild side",
         "url": "https://open.spotify.com/album/0QWIDqLVkMAhsgUYxSofxn"
       },
@@ -12677,6 +12841,24 @@
     },
     {
       "album": {
+        "name": "Qareeb",
+        "url": "https://open.spotify.com/album/373PAzTNR258UYN6KNVKX7"
+      },
+      "artists": [
+        {
+          "name": "Gaurang Jhalani",
+          "url": "https://open.spotify.com/artist/7uIHPoefWztevk3VYRrBtw"
+        }
+      ],
+      "date_added": "2023-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248000,
+      "name": "Qareeb",
+      "url": "https://open.spotify.com/track/46BZNOFxbWjXYtel6YqXzJ"
+    },
+    {
+      "album": {
         "name": "Qisse",
         "url": "https://open.spotify.com/album/0yrjEtCZnaSU4XwrERreSu"
       },
@@ -12732,7 +12914,7 @@
       ],
       "date_added": "2023-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-19",
       "duration_ms": 292171,
       "name": "Raahein",
       "url": "https://open.spotify.com/track/5Ggp8fMRHqF7S3si6QsVBa"
@@ -13630,6 +13812,24 @@
       "duration_ms": 282391,
       "name": "Saanjh",
       "url": "https://open.spotify.com/track/5nrhIgDiO6TppbdLxUDqHs"
+    },
+    {
+      "album": {
+        "name": "Saansein",
+        "url": "https://open.spotify.com/album/6KSwR9LuHgQhlAJd2X7D1l"
+      },
+      "artists": [
+        {
+          "name": "Underground Authority",
+          "url": "https://open.spotify.com/artist/3J8yboH4lCQSwGjmqW9ggG"
+        }
+      ],
+      "date_added": "2023-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225142,
+      "name": "Saansein",
+      "url": "https://open.spotify.com/track/5L0tuFBJijhDF811yx6YAS"
     },
     {
       "album": {
@@ -14929,6 +15129,24 @@
     },
     {
       "album": {
+        "name": "STAY",
+        "url": "https://open.spotify.com/album/6qpJUOF7lxal38jMPZhpe6"
+      },
+      "artists": [
+        {
+          "name": "Mayur Sakhare",
+          "url": "https://open.spotify.com/artist/63FnhgfY9Skj2fulSx9tvI"
+        }
+      ],
+      "date_added": "2023-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173990,
+      "name": "STAY",
+      "url": "https://open.spotify.com/track/58Q8ZgJglsgPHeTTlRd4Uy"
+    },
+    {
+      "album": {
         "name": "Stay",
         "url": "https://open.spotify.com/album/0Yq6IjajAjXln0GVDtzoKb"
       },
@@ -15702,7 +15920,7 @@
       ],
       "date_added": "2023-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-19",
       "duration_ms": 194336,
       "name": "Tere Peeche Hum",
       "url": "https://open.spotify.com/track/266ywrPdv5oGrVyCTnypap"
@@ -16396,7 +16614,7 @@
       ],
       "date_added": "2023-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-19",
       "duration_ms": 145969,
       "name": "Touchscreen Lover",
       "url": "https://open.spotify.com/track/02qMvz8Xl8DhvA1JJXpVl3"
@@ -18220,7 +18438,7 @@
       ],
       "date_added": "2023-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-19",
       "duration_ms": 238581,
       "name": "Yaadein",
       "url": "https://open.spotify.com/track/5Cqpd71Xbk64x7u1dDoafK"
@@ -18326,6 +18544,32 @@
       "duration_ms": 169771,
       "name": "Ye Kaisa Sheher Hai",
       "url": "https://open.spotify.com/track/5DzgfCZFMlHxss6C9xkReN"
+    },
+    {
+      "album": {
+        "name": "Ye Shaamein",
+        "url": "https://open.spotify.com/album/5nGZZK1RhQT1J6tsdogrew"
+      },
+      "artists": [
+        {
+          "name": "Vikaas Vishwakarma",
+          "url": "https://open.spotify.com/artist/3MusGpFITCdtSHEeugBc6e"
+        },
+        {
+          "name": "Ram Chauhan",
+          "url": "https://open.spotify.com/artist/3uu3xaa9nGYPpd0hKS3UBd"
+        },
+        {
+          "name": "Pragati Shahi",
+          "url": "https://open.spotify.com/artist/72HKawCTohKafEmA1GEbzq"
+        }
+      ],
+      "date_added": "2023-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218689,
+      "name": "Ye Shaamein",
+      "url": "https://open.spotify.com/track/7g4qvUQ4URhFVf5h02RxvS"
     },
     {
       "album": {

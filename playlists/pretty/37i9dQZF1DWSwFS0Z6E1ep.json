@@ -1,12 +1,12 @@
 {
   "description": "The biggest party hits of the 1950s.",
-  "num_followers": 229517,
+  "num_followers": 229656,
   "original_name": "50s Party",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhOTlmYTY1MzQzZGM4NTViOGI1MTU4YWI5MTE3YjkwYTI2ZmJlODJi",
+  "snapshot_id": "MCw3YTE1Y2U2NWY2YWNjMjJlMzc3NjQ4NjUwYjI2ZGI4ODQzN2IzZTA5",
   "tracks": [
     {
       "added_at": "2022-06-07 05:25:13",
@@ -479,18 +479,22 @@
     {
       "added_at": "2022-06-07 05:25:13",
       "album": {
-        "name": "Shout!",
-        "url": "https://open.spotify.com/album/3TU9a0ngwVYr7YRe5fJPVH"
+        "name": "Sings Hank Williams",
+        "url": "https://open.spotify.com/album/0X7AlTPtEDf0Kv1QqYQwlU"
       },
       "artists": [
         {
-          "name": "The Isley Brothers",
-          "url": "https://open.spotify.com/artist/53QzNeFpzAaXYnrDBbDrIp"
+          "name": "Johnny Cash",
+          "url": "https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x"
+        },
+        {
+          "name": "The Tennessee Two",
+          "url": "https://open.spotify.com/artist/3iGdenNgbzOak86BHrx0Nt"
         }
       ],
-      "duration_ms": 268560,
-      "name": "Shout, Pts. 1 & 2",
-      "url": "https://open.spotify.com/track/2ZNTPtYmAhN9vCwnAgqKn1"
+      "duration_ms": 168554,
+      "name": "Folsom Prison Blues",
+      "url": "https://open.spotify.com/track/121sjkub4p4zcFNozkKnQD"
     },
     {
       "added_at": "2022-06-07 05:25:13",
@@ -527,22 +531,18 @@
     {
       "added_at": "2022-06-07 05:25:13",
       "album": {
-        "name": "Sings Hank Williams",
-        "url": "https://open.spotify.com/album/0X7AlTPtEDf0Kv1QqYQwlU"
+        "name": "Shout!",
+        "url": "https://open.spotify.com/album/3TU9a0ngwVYr7YRe5fJPVH"
       },
       "artists": [
         {
-          "name": "Johnny Cash",
-          "url": "https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x"
-        },
-        {
-          "name": "The Tennessee Two",
-          "url": "https://open.spotify.com/artist/3iGdenNgbzOak86BHrx0Nt"
+          "name": "The Isley Brothers",
+          "url": "https://open.spotify.com/artist/53QzNeFpzAaXYnrDBbDrIp"
         }
       ],
-      "duration_ms": 168554,
-      "name": "Folsom Prison Blues",
-      "url": "https://open.spotify.com/track/121sjkub4p4zcFNozkKnQD"
+      "duration_ms": 268560,
+      "name": "Shout, Pts. 1 & 2",
+      "url": "https://open.spotify.com/track/2ZNTPtYmAhN9vCwnAgqKn1"
     },
     {
       "added_at": "2022-06-07 05:25:13",
@@ -843,22 +843,6 @@
     {
       "added_at": "2022-06-07 05:25:13",
       "album": {
-        "name": "Come Go With Me: The Best Of The Del-Vikings",
-        "url": "https://open.spotify.com/album/35hzrbmJqylZoIRcatUfYx"
-      },
-      "artists": [
-        {
-          "name": "The Del-Vikings",
-          "url": "https://open.spotify.com/artist/10xLCBOlt2NhclsRmrOvX5"
-        }
-      ],
-      "duration_ms": 162293,
-      "name": "Come Go With Me",
-      "url": "https://open.spotify.com/track/4IYyGIbMS5ZkxDXGfPIrXr"
-    },
-    {
-      "added_at": "2022-06-07 05:25:13",
-      "album": {
         "name": "Greatest",
         "url": "https://open.spotify.com/album/1tfvwgjJHU9zYWy4qIHZsV"
       },
@@ -875,6 +859,22 @@
       "duration_ms": 132970,
       "name": "Get Rhythm",
       "url": "https://open.spotify.com/track/2aq1oBnP7Q176mZw5P6eUk"
+    },
+    {
+      "added_at": "2022-06-07 05:25:13",
+      "album": {
+        "name": "Come Go With Me: The Best Of The Del-Vikings",
+        "url": "https://open.spotify.com/album/35hzrbmJqylZoIRcatUfYx"
+      },
+      "artists": [
+        {
+          "name": "The Del-Vikings",
+          "url": "https://open.spotify.com/artist/10xLCBOlt2NhclsRmrOvX5"
+        }
+      ],
+      "duration_ms": 162293,
+      "name": "Come Go With Me",
+      "url": "https://open.spotify.com/track/4IYyGIbMS5ZkxDXGfPIrXr"
     },
     {
       "added_at": "2022-06-07 05:25:13",
@@ -1403,22 +1403,6 @@
     {
       "added_at": "2022-06-07 05:25:13",
       "album": {
-        "name": "Get a Job",
-        "url": "https://open.spotify.com/album/28pRA1gcndMkuHd0LI9EN9"
-      },
-      "artists": [
-        {
-          "name": "The Silhouettes",
-          "url": "https://open.spotify.com/artist/5LmehwqsJa7a4Ya5SaqXpx"
-        }
-      ],
-      "duration_ms": 169706,
-      "name": "Get a Job",
-      "url": "https://open.spotify.com/track/21NhrNOfIoakyWISXUMkFN"
-    },
-    {
-      "added_at": "2022-06-07 05:25:13",
-      "album": {
         "name": "Not Fade Away: The Complete Studio Recordings And More",
         "url": "https://open.spotify.com/album/23TDJiqtPfw3UcDhce8Q2x"
       },
@@ -1431,6 +1415,22 @@
       "duration_ms": 127680,
       "name": "Oh Boy! - Overdubbed Version",
       "url": "https://open.spotify.com/track/7s7Zu78CztOUFUyQ4BijBQ"
+    },
+    {
+      "added_at": "2022-06-07 05:25:13",
+      "album": {
+        "name": "Get a Job",
+        "url": "https://open.spotify.com/album/28pRA1gcndMkuHd0LI9EN9"
+      },
+      "artists": [
+        {
+          "name": "The Silhouettes",
+          "url": "https://open.spotify.com/artist/5LmehwqsJa7a4Ya5SaqXpx"
+        }
+      ],
+      "duration_ms": 169706,
+      "name": "Get a Job",
+      "url": "https://open.spotify.com/track/21NhrNOfIoakyWISXUMkFN"
     },
     {
       "added_at": "2022-06-07 05:25:13",
@@ -1519,22 +1519,6 @@
     {
       "added_at": "2022-06-07 05:25:13",
       "album": {
-        "name": "Presenting Ike Turner",
-        "url": "https://open.spotify.com/album/72uPVZB2T541kI9nT4khgC"
-      },
-      "artists": [
-        {
-          "name": "Ike Turner",
-          "url": "https://open.spotify.com/artist/0FAxkBiT0g3jKF2AaKEipb"
-        }
-      ],
-      "duration_ms": 169613,
-      "name": "Rocket 88",
-      "url": "https://open.spotify.com/track/4IiEsxrgzIMdqoN3dwxk6g"
-    },
-    {
-      "added_at": "2022-06-07 05:25:13",
-      "album": {
         "name": "The Sun Records Sound of Billy Lee Riley (20 Rockabilly Originals)",
         "url": "https://open.spotify.com/album/12nGZsto8BTrIMNIEr4JRk"
       },
@@ -1547,6 +1531,22 @@
       "duration_ms": 149584,
       "name": "Red Hot",
       "url": "https://open.spotify.com/track/31ajddT1F78QGsGLWonOaq"
+    },
+    {
+      "added_at": "2022-06-07 05:25:13",
+      "album": {
+        "name": "Presenting Ike Turner",
+        "url": "https://open.spotify.com/album/72uPVZB2T541kI9nT4khgC"
+      },
+      "artists": [
+        {
+          "name": "Ike Turner",
+          "url": "https://open.spotify.com/artist/0FAxkBiT0g3jKF2AaKEipb"
+        }
+      ],
+      "duration_ms": 169613,
+      "name": "Rocket 88",
+      "url": "https://open.spotify.com/track/4IiEsxrgzIMdqoN3dwxk6g"
     },
     {
       "added_at": "2022-06-07 05:25:13",
@@ -1651,22 +1651,6 @@
     {
       "added_at": "2022-06-07 05:25:13",
       "album": {
-        "name": "Flyin' Saucers Rock & Roll / I Want You Baby",
-        "url": "https://open.spotify.com/album/21VQE8cleE2is06r3F6dQS"
-      },
-      "artists": [
-        {
-          "name": "Billy Lee Riley",
-          "url": "https://open.spotify.com/artist/0a85EJEd3a9RGM9ops09rZ"
-        }
-      ],
-      "duration_ms": 122108,
-      "name": "Flyin' Saucers Rock & Roll",
-      "url": "https://open.spotify.com/track/61NxE9hAjnvplyUKdY6jKv"
-    },
-    {
-      "added_at": "2022-06-07 05:25:13",
-      "album": {
         "name": "Rockabilly Portrait",
         "url": "https://open.spotify.com/album/0O2LfyOYGw2sbFYt26NMse"
       },
@@ -1695,6 +1679,22 @@
       "duration_ms": 121414,
       "name": "Give Me some Love - Re-Recorded Version",
       "url": "https://open.spotify.com/track/17trqhqpoIxXQc3Rkri0W7"
+    },
+    {
+      "added_at": "2022-06-07 05:25:13",
+      "album": {
+        "name": "Flyin' Saucers Rock & Roll / I Want You Baby",
+        "url": "https://open.spotify.com/album/21VQE8cleE2is06r3F6dQS"
+      },
+      "artists": [
+        {
+          "name": "Billy Lee Riley",
+          "url": "https://open.spotify.com/artist/0a85EJEd3a9RGM9ops09rZ"
+        }
+      ],
+      "duration_ms": 122108,
+      "name": "Flyin' Saucers Rock & Roll",
+      "url": "https://open.spotify.com/track/61NxE9hAjnvplyUKdY6jKv"
     },
     {
       "added_at": "2022-06-07 05:25:13",
@@ -2075,22 +2075,6 @@
     {
       "added_at": "2022-06-07 05:25:13",
       "album": {
-        "name": "Sun Records Yearbook - 1958 part 2",
-        "url": "https://open.spotify.com/album/4o5IAd8PpTkQe825QG2Lhq"
-      },
-      "artists": [
-        {
-          "name": "Gene Simmons",
-          "url": "https://open.spotify.com/artist/5hF9nqYkULfy3LZnoYaRPD"
-        }
-      ],
-      "duration_ms": 141457,
-      "name": "I Done Told You",
-      "url": "https://open.spotify.com/track/5HpqVE9dPqR9D4XnCV5Wdm"
-    },
-    {
-      "added_at": "2022-06-07 05:25:13",
-      "album": {
         "name": "Cliff: Cliff Sings",
         "url": "https://open.spotify.com/album/0M87jlMkzGaQ4St3QPZ5er"
       },
@@ -2103,6 +2087,22 @@
       "duration_ms": 138133,
       "name": "Move It - Live; 1998 Remaster",
       "url": "https://open.spotify.com/track/0u5sJJNGHZUvckdMe96TkA"
+    },
+    {
+      "added_at": "2022-06-07 05:25:13",
+      "album": {
+        "name": "Sun Records Yearbook - 1958 part 2",
+        "url": "https://open.spotify.com/album/4o5IAd8PpTkQe825QG2Lhq"
+      },
+      "artists": [
+        {
+          "name": "Gene Simmons",
+          "url": "https://open.spotify.com/artist/5hF9nqYkULfy3LZnoYaRPD"
+        }
+      ],
+      "duration_ms": 141457,
+      "name": "I Done Told You",
+      "url": "https://open.spotify.com/track/5HpqVE9dPqR9D4XnCV5Wdm"
     },
     {
       "added_at": "2022-06-07 05:25:13",

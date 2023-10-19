@@ -1,13 +1,81 @@
 {
-  "description": "The full collection of Spotify Singles recordings. Cover: Bad Snacks.\nFeeling inspired? Check out Bad Snacks' exclusive sound pack for <a href=\u201chttps://www.soundtrap.com/\u201d>Soundtrap, </a>  Spotify\u2019s online music studio for songwriters and beat makers. \n",
-  "num_followers": 217749,
+  "description": "The full collection of Spotify Singles recordings. Cover: Sabrina Carpenter",
+  "num_followers": 217796,
   "original_name": "Spotify Singles: Complete Collection",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3YTU1MTIwYjdlOWM5NzQ1MzQ4MDM3ZDgxOWE5YzRkMjM4M2YxMTIz",
+  "snapshot_id": "MCwyNWNlMmI5ZGRmZmJiODU4OTQ5YjUxYTI3M2QxNmM4YTcxNjMxMjRi",
   "tracks": [
+    {
+      "added_at": "2023-10-18 18:22:29",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/2kJnIPJHIRZlfOx0TZEKBP"
+      },
+      "artists": [
+        {
+          "name": "Sabrina Carpenter",
+          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
+        }
+      ],
+      "duration_ms": 233617,
+      "name": "I Knew You Were Trouble - Spotify Singles",
+      "url": "https://open.spotify.com/track/30QYxvXOJZhGBF6DvpNb8w"
+    },
+    {
+      "added_at": "2023-10-18 18:22:29",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/2kJnIPJHIRZlfOx0TZEKBP"
+      },
+      "artists": [
+        {
+          "name": "Sabrina Carpenter",
+          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
+        }
+      ],
+      "duration_ms": 185452,
+      "name": "Feather - Spotify Singles",
+      "url": "https://open.spotify.com/track/2l6lCBL8egSBfL4ih4KtKk"
+    },
+    {
+      "added_at": "2023-10-18 18:23:37",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/2rIrWq7n4FrnDwEyIUlBpJ"
+      },
+      "artists": [
+        {
+          "name": "Allison Russell",
+          "url": "https://open.spotify.com/artist/3JBmecDGXTll46ygrnGTM6"
+        },
+        {
+          "name": "Resistance Revival Chorus",
+          "url": "https://open.spotify.com/artist/5GAZngXqtUrssaaExOGeT1"
+        }
+      ],
+      "duration_ms": 270264,
+      "name": "Take Me To Church - Spotify Singles",
+      "url": "https://open.spotify.com/track/0fVQEAJzB0WDLgS28zbECm"
+    },
+    {
+      "added_at": "2023-10-18 18:23:37",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/2rIrWq7n4FrnDwEyIUlBpJ"
+      },
+      "artists": [
+        {
+          "name": "Allison Russell",
+          "url": "https://open.spotify.com/artist/3JBmecDGXTll46ygrnGTM6"
+        }
+      ],
+      "duration_ms": 213149,
+      "name": "Stay Right Here - Spotify Singles",
+      "url": "https://open.spotify.com/track/0C8b1WyFkUFyHlztkWAGwq"
+    },
     {
       "added_at": "2023-10-17 18:36:45",
       "album": {
@@ -2515,8 +2583,8 @@
     {
       "added_at": "2023-10-02 17:57:02",
       "album": {
-        "name": "The View From Halfway Down - Spotify Singles",
-        "url": "https://open.spotify.com/album/1S08DnwybFOPu8wswBn5gj"
+        "name": "The View from Halfway Down - Spotify Singles",
+        "url": "https://open.spotify.com/album/3QkNtvuYPRwaDFyoRZpc4Z"
       },
       "artists": [
         {
@@ -2529,8 +2597,8 @@
         }
       ],
       "duration_ms": 230145,
-      "name": "The View From Halfway Down - Spotify Singles",
-      "url": "https://open.spotify.com/track/3E4gPkcqnyaAnv1nrdukwp"
+      "name": "The View from Halfway Down - Spotify Singles",
+      "url": "https://open.spotify.com/track/1fXMYWziD0nr4YbfT9bM7s"
     },
     {
       "added_at": "2023-10-02 17:57:02",

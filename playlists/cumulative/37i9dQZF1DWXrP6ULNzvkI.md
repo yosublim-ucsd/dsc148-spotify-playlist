@@ -4,7 +4,7 @@
 
 > Our editors' picks of the best Fresh Finds tracks from around the world this year\. Cover: Katherine Li \#SpotifyWrapped
 
-90 songs - 4 hr 45 min
+91 songs - 4 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,7 +35,8 @@
 | [Eve](https://open.spotify.com/track/4nwSwALkSaxA26bEANsi20) | [Avenoir](https://open.spotify.com/artist/3Z7onAknzpinUu3KtmgeZb) | [Eve](https://open.spotify.com/album/1O056siKSsHdDjlvIO0pJ5) | 2:43 | 2023-01-18 |  |
 | [Excuse the Mess](https://open.spotify.com/track/32Hy43xgxbFrv20GkhH0MI) | [Austin Snell](https://open.spotify.com/artist/6Hd5hSFd33CfhMqtG3fjtx) | [Excuse the Mess](https://open.spotify.com/album/2R4rXNiml3fuEmG76hWzyQ) | 2:51 | 2023-01-18 |  |
 | [F.N.F\. \(Let's Go\)](https://open.spotify.com/track/1vrFJDrysqmsNAgyjBzx4f) | [Hitkidd](https://open.spotify.com/artist/5pR1zWq3UPsOpW1pTWayLf), [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG) | [F.N.F\. \(Let's Go\)](https://open.spotify.com/album/1FkcZKerCfWg4nUItVHf9B) | 2:17 | 2023-01-18 |  |
-| [Flight of the Crows](https://open.spotify.com/track/0gW6KLC4W6vChWUHucb69N) | [Jhariah](https://open.spotify.com/artist/5iMYu8Sj8dZEDsWJxSFwPP) | [A BEGINNER'S GUIDE TO FAKING YOUR DEATH](https://open.spotify.com/album/6LLqwrFRS3rgwKVCRBYGYy) | 2:38 | 2023-01-18 |  |
+| [Flight of the Crows](https://open.spotify.com/track/0gW6KLC4W6vChWUHucb69N) | [Jhariah](https://open.spotify.com/artist/5iMYu8Sj8dZEDsWJxSFwPP) | [A BEGINNER'S GUIDE TO FAKING YOUR DEATH](https://open.spotify.com/album/6LLqwrFRS3rgwKVCRBYGYy) | 2:38 | 2023-01-18 | 2023-10-19 |
+| [Flight of the Crows](https://open.spotify.com/track/2SgpLPEfLGWDMkCT9nFAO6) | [Jhariah](https://open.spotify.com/artist/5iMYu8Sj8dZEDsWJxSFwPP) | [A BEGINNER'S GUIDE TO FAKING YOUR DEATH](https://open.spotify.com/album/4Xfd2a497pZksMAx2BHqrv) | 2:38 | 2023-01-18 |  |
 | [Front Row Seat](https://open.spotify.com/track/0vSVknC1QRWHmHDqgtOPfP) | [David Unlayao](https://open.spotify.com/artist/3OxjY9y8bls3YdSjGk7khk) | [Front Row Seat](https://open.spotify.com/album/7faCFyGekYkgwyYSN3cAW2) | 2:52 | 2023-01-18 |  |
 | [gimme all ur luv](https://open.spotify.com/track/1gaJMN7d2pSBnhx9oEQZbi) | [hemlocke springs](https://open.spotify.com/artist/52PdgUJOjvS6Mpmjy1SAlx) | [going...going...GONE!](https://open.spotify.com/album/6hnlO74dZkXLCk8dQNjLjf) | 2:52 | 2023-01-18 |  |
 | [gimme all ur luv](https://open.spotify.com/track/7bKMO3og5pWUJV5g6VtZwp) | [hemlocke springs](https://open.spotify.com/artist/52PdgUJOjvS6Mpmjy1SAlx) | [gimme all ur luv](https://open.spotify.com/album/16pAkASl0bdyOQrVyTvuBF) | 2:53 | 2023-01-18 | 2023-05-27 |

@@ -1,12 +1,12 @@
 {
   "description": "The playlist version of a warm hug",
-  "num_followers": 69418,
+  "num_followers": 69438,
   "original_name": "Sweater Weather",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzZTYwMzljOWM2MzczZjcxMTllOWIzNTQzZTFkYmM5NTNkNzk5NWNl",
+  "snapshot_id": "MCw2MTVkNzdlNjMzZTQxZTYxZTllYzAxZmRmZWY4NmJjZTU4NjcxOWE2",
   "tracks": [
     {
       "added_at": "2023-10-10 21:15:28",
@@ -991,22 +991,6 @@
     {
       "added_at": "2023-10-10 21:15:28",
       "album": {
-        "name": "Autumn Variations",
-        "url": "https://open.spotify.com/album/4JBIPXbjtBx7keWjTnGYeJ"
-      },
-      "artists": [
-        {
-          "name": "Ed Sheeran",
-          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
-        }
-      ],
-      "duration_ms": 206008,
-      "name": "Punchline",
-      "url": "https://open.spotify.com/track/5IUq1DyjOjej1u3U9gWaUa"
-    },
-    {
-      "added_at": "2023-10-10 21:15:28",
-      "album": {
         "name": "Home Again",
         "url": "https://open.spotify.com/album/79VDAdjzMMGoftIbw5feYN"
       },
@@ -1019,6 +1003,22 @@
       "duration_ms": 212373,
       "name": "Home Again",
       "url": "https://open.spotify.com/track/46EuzanXhKwIc7755wLAvS"
+    },
+    {
+      "added_at": "2023-10-10 21:15:28",
+      "album": {
+        "name": "Autumn Variations",
+        "url": "https://open.spotify.com/album/4JBIPXbjtBx7keWjTnGYeJ"
+      },
+      "artists": [
+        {
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        }
+      ],
+      "duration_ms": 206008,
+      "name": "Punchline",
+      "url": "https://open.spotify.com/track/5IUq1DyjOjej1u3U9gWaUa"
     },
     {
       "added_at": "2023-10-10 21:15:28",
@@ -1087,22 +1087,6 @@
     {
       "added_at": "2023-10-10 21:15:28",
       "album": {
-        "name": "Simply the Best (From \"Schitt's Creek\")",
-        "url": "https://open.spotify.com/album/3by1f21NPpyV2sxW4PkzRp"
-      },
-      "artists": [
-        {
-          "name": "Noah Reid",
-          "url": "https://open.spotify.com/artist/0h3ltaoCYAfisEeddUYDZT"
-        }
-      ],
-      "duration_ms": 177918,
-      "name": "Simply the Best (From \"Schitt's Creek\")",
-      "url": "https://open.spotify.com/track/1KFuLRUmWf0irn0CLclT2X"
-    },
-    {
-      "added_at": "2023-10-10 21:15:28",
-      "album": {
         "name": "Real Estate",
         "url": "https://open.spotify.com/album/6nViscFT0UsASEnVlpObPI"
       },
@@ -1115,6 +1099,22 @@
       "duration_ms": 216000,
       "name": "Real Estate",
       "url": "https://open.spotify.com/track/2VvTMIXG760UiG9OSiFt9j"
+    },
+    {
+      "added_at": "2023-10-10 21:15:28",
+      "album": {
+        "name": "Simply the Best (From \"Schitt's Creek\")",
+        "url": "https://open.spotify.com/album/3by1f21NPpyV2sxW4PkzRp"
+      },
+      "artists": [
+        {
+          "name": "Noah Reid",
+          "url": "https://open.spotify.com/artist/0h3ltaoCYAfisEeddUYDZT"
+        }
+      ],
+      "duration_ms": 177918,
+      "name": "Simply the Best (From \"Schitt's Creek\")",
+      "url": "https://open.spotify.com/track/1KFuLRUmWf0irn0CLclT2X"
     },
     {
       "added_at": "2023-10-10 21:15:28",
@@ -1199,6 +1199,22 @@
     {
       "added_at": "2023-10-10 21:15:28",
       "album": {
+        "name": "Call Me A Dreamer",
+        "url": "https://open.spotify.com/album/3zKpAuwGhuBpavexvu6ySj"
+      },
+      "artists": [
+        {
+          "name": "Kings Elliot",
+          "url": "https://open.spotify.com/artist/3iUGCPBBseYhEhwqCG7PNy"
+        }
+      ],
+      "duration_ms": 228798,
+      "name": "Call Me A Dreamer",
+      "url": "https://open.spotify.com/track/5PMp84lVFm0SWEWOx1aQsw"
+    },
+    {
+      "added_at": "2023-10-10 21:15:28",
+      "album": {
         "name": "Seventeen Going Under (Acoustic)",
         "url": "https://open.spotify.com/album/1fjmi1ythcL9bx9rhaGEYy"
       },
@@ -1215,22 +1231,6 @@
       "duration_ms": 270840,
       "name": "Seventeen Going Under - Acoustic",
       "url": "https://open.spotify.com/track/1vXmhTcKkv7Kck2gBap1fz"
-    },
-    {
-      "added_at": "2023-10-10 21:15:28",
-      "album": {
-        "name": "Call Me A Dreamer",
-        "url": "https://open.spotify.com/album/3zKpAuwGhuBpavexvu6ySj"
-      },
-      "artists": [
-        {
-          "name": "Kings Elliot",
-          "url": "https://open.spotify.com/artist/3iUGCPBBseYhEhwqCG7PNy"
-        }
-      ],
-      "duration_ms": 228798,
-      "name": "Call Me A Dreamer",
-      "url": "https://open.spotify.com/track/5PMp84lVFm0SWEWOx1aQsw"
     },
     {
       "added_at": "2023-10-10 21:15:28",
@@ -1499,22 +1499,6 @@
     {
       "added_at": "2023-10-10 21:15:28",
       "album": {
-        "name": "Melchor Lullaby Hotline Vol. 1",
-        "url": "https://open.spotify.com/album/1YRyAjsB08BYLAGB4oLPV2"
-      },
-      "artists": [
-        {
-          "name": "Adam Melchor",
-          "url": "https://open.spotify.com/artist/54tv11ndFfiqXiR03PwdlB"
-        }
-      ],
-      "duration_ms": 193972,
-      "name": "Last Time",
-      "url": "https://open.spotify.com/track/63msGdgRl82cT88247E2kz"
-    },
-    {
-      "added_at": "2023-10-10 21:15:28",
-      "album": {
         "name": "A Beginner's Mind",
         "url": "https://open.spotify.com/album/7AS9VaIdnYSR13T3vkVtu9"
       },
@@ -1531,6 +1515,22 @@
       "duration_ms": 147229,
       "name": "It\u2019s Your Own Body And Mind",
       "url": "https://open.spotify.com/track/6oNmSG8JbMa4jG5UQC5Fr2"
+    },
+    {
+      "added_at": "2023-10-10 21:15:28",
+      "album": {
+        "name": "Melchor Lullaby Hotline Vol. 1",
+        "url": "https://open.spotify.com/album/1YRyAjsB08BYLAGB4oLPV2"
+      },
+      "artists": [
+        {
+          "name": "Adam Melchor",
+          "url": "https://open.spotify.com/artist/54tv11ndFfiqXiR03PwdlB"
+        }
+      ],
+      "duration_ms": 193972,
+      "name": "Last Time",
+      "url": "https://open.spotify.com/track/63msGdgRl82cT88247E2kz"
     },
     {
       "added_at": "2023-10-10 21:15:28",

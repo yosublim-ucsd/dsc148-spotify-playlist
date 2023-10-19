@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbMnDeC4VENb.md) - [plain]
 
 > Una eufórica dosis de urbano romántico en español.
 
-[Spotify](https://open.spotify.com/user/spotify) - 159,934 likes - 100 songs - 5 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 160,006 likes - 100 songs - 5 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -86,16 +86,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbMnDeC4VENb.md) - [plain]
 | 76 | [Cada Día Te Quiero Más](https://open.spotify.com/track/3cj60CwhSsrMr0nxMRIGKP) | [Robot95](https://open.spotify.com/artist/30CTTIqrcr82nS6B40j975) | [Cada Día Te Quiero Más](https://open.spotify.com/album/5x4CBMHXg9zVY37KEZSS3J) | 3:12 |
 | 77 | [Cada Quien](https://open.spotify.com/track/4ayJaxA5MjPEopjWYNMAbr) | [Jona Camacho](https://open.spotify.com/artist/0t64OqoqDgnfJee9Z6IBOP), [Fntxy](https://open.spotify.com/artist/7I85Ma5xjAo6nlvqOCIiWx) | [Cada Quien](https://open.spotify.com/album/4QS3kIW0YTZAMZMkaJ1mLH) | 3:04 |
 | 78 | [Ella Es](https://open.spotify.com/track/4wNwmejbGQkgk8qIsqWRqy) | [Santa RM](https://open.spotify.com/artist/30BSBWLKnYJION1lCPugXc), [Smoky](https://open.spotify.com/artist/1P184E1yqU3hzj71d1oOzb) | [Ella Es](https://open.spotify.com/album/4FZHnZPGheiOd83ZGrTZ1P) | 3:49 |
-| 79 | [Me Haces Bien](https://open.spotify.com/track/4atv9K7c3t74jl9H7ZSdcu) | [Ms\. Ambar](https://open.spotify.com/artist/0jgJv4J29BJiJu1luw2SdA), [Samtwenty](https://open.spotify.com/artist/0TlO93nJUFn6FAGj0YugEO), [Desert Niños](https://open.spotify.com/artist/2Ch5zHsrWSpgq7g0WI2UFD), [Castellano](https://open.spotify.com/artist/6UO0OmWRTSoZCTmbpHRf91) | [Me Haces Bien](https://open.spotify.com/album/6Ruqdzq72gVxv0cwv1zdqC) | 3:27 |
-| 80 | [Quieres](https://open.spotify.com/track/5o6YxpVNGZ0lF0RyFksspd) | [Almanegra](https://open.spotify.com/artist/3IrTSci2J1v5SbMp75mX6j), [Zxmyr](https://open.spotify.com/artist/7IUaYyqcGB3aU2Tm4s5JY8) | [Quieres](https://open.spotify.com/album/3u4CFQKwkrcGCCM1VCmXsw) | 3:50 |
+| 79 | [Quieres](https://open.spotify.com/track/5o6YxpVNGZ0lF0RyFksspd) | [Almanegra](https://open.spotify.com/artist/3IrTSci2J1v5SbMp75mX6j), [Zxmyr](https://open.spotify.com/artist/7IUaYyqcGB3aU2Tm4s5JY8) | [Quieres](https://open.spotify.com/album/3u4CFQKwkrcGCCM1VCmXsw) | 3:50 |
+| 80 | [Me Haces Bien](https://open.spotify.com/track/4atv9K7c3t74jl9H7ZSdcu) | [Ms\. Ambar](https://open.spotify.com/artist/0jgJv4J29BJiJu1luw2SdA), [Samtwenty](https://open.spotify.com/artist/0TlO93nJUFn6FAGj0YugEO), [Desert Niños](https://open.spotify.com/artist/2Ch5zHsrWSpgq7g0WI2UFD), [Castellano](https://open.spotify.com/artist/6UO0OmWRTSoZCTmbpHRf91) | [Me Haces Bien](https://open.spotify.com/album/6Ruqdzq72gVxv0cwv1zdqC) | 3:27 |
 | 81 | [AFRODISIACO](https://open.spotify.com/track/2mB8alPfoXyO1cOzjxL5ng) | [Sharif](https://open.spotify.com/artist/5pIapcAHb6WV4fUjfQchMf), [Gordo del Funk](https://open.spotify.com/artist/5cvgau68BWnLZcjeX7Pdf3) | [FOTOS DE FAMILIA Vol\. 1](https://open.spotify.com/album/3JqqNRyCHjYOlFEhLDiV94) | 2:48 |
 | 82 | [Siempre Serás para Mí](https://open.spotify.com/track/6mwsIP2GDaEz4DoOkSVfJY) | [Achepe](https://open.spotify.com/artist/1b170j0PpkgYWGHMPRsNEM) | [Siempre Serás para Mí](https://open.spotify.com/album/7lhKv3VoTgd8cOpkJOkUwe) | 3:33 |
 | 83 | [Nunca Imaginé](https://open.spotify.com/track/6ecb4V91cxHT9aJquEMLun) | [Astrid Cruz](https://open.spotify.com/artist/1WhuV4MAbMhWKjYXojKN8i), [A.C.O](https://open.spotify.com/artist/0x2z4hugJaiGdTP0lzhxvO) | [Nunca Imaginé](https://open.spotify.com/album/55Nln3fDBB6t8qRphZuikc) | 3:25 |
 | 84 | [Nuestro Silencio](https://open.spotify.com/track/1zraV8Jxi9Srk1VN0rcPTn) | [Leonel García](https://open.spotify.com/artist/3t7UqWteBBmHXkcVhMSyay), [Neto Peña](https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI) | [Nuestro Silencio](https://open.spotify.com/album/7zNgzMXxxXMfhMjBkUUnhq) | 3:20 |
 | 85 | [Sin pistola](https://open.spotify.com/track/008gGt53LBG5eBo7rfganm) | [V.Rod](https://open.spotify.com/artist/1M178YgtiCeHDjjHFBQgWA), [Ervin River](https://open.spotify.com/artist/5FJ0JzZcNCGhquRX2zPmbL) | [Sin pistola](https://open.spotify.com/album/1HSPfrQ8Cz51hsc1ttXoHy) | 2:33 |
 | 86 | [Sonríes Como Nadie](https://open.spotify.com/track/35upFzxLHai3PhYbZlF90f) | [Neto Peña](https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI) | [Sonríes Como Nadie](https://open.spotify.com/album/3HPEQMPNdF7YdcdxECYBPy) | 3:16 |
-| 87 | [Que Mal Me Hacías](https://open.spotify.com/track/0pgXLwDXcq2hVxIlUD9XWU) | [EMJAY](https://open.spotify.com/artist/5TtCVmeuicGu9EIwiFQcyn) | [Que Mal Me Hacías](https://open.spotify.com/album/6as8gFrgGgyEPuu4PLR41M) | 2:20 |
-| 88 | [No te puedo olvidar](https://open.spotify.com/track/2AmhsW7krdAbX1jtN3azTP) | [Nuco](https://open.spotify.com/artist/2FCR4hKgXtEmNCRH8pyENS), [Sid MSC](https://open.spotify.com/artist/60ltkiwaQfISsFpwwktCcb) | [No te puedo olvidar](https://open.spotify.com/album/0SbmPCnt3bejnNrWaKqDtW) | 3:09 |
+| 87 | [No te puedo olvidar](https://open.spotify.com/track/2AmhsW7krdAbX1jtN3azTP) | [Nuco](https://open.spotify.com/artist/2FCR4hKgXtEmNCRH8pyENS), [Sid MSC](https://open.spotify.com/artist/60ltkiwaQfISsFpwwktCcb) | [No te puedo olvidar](https://open.spotify.com/album/0SbmPCnt3bejnNrWaKqDtW) | 3:09 |
+| 88 | [Que Mal Me Hacías](https://open.spotify.com/track/0pgXLwDXcq2hVxIlUD9XWU) | [EMJAY](https://open.spotify.com/artist/5TtCVmeuicGu9EIwiFQcyn) | [Que Mal Me Hacías](https://open.spotify.com/album/6as8gFrgGgyEPuu4PLR41M) | 2:20 |
 | 89 | [Borracho](https://open.spotify.com/track/3Q1vXXDsg2k6cgEbE18UuT) | [Stilo](https://open.spotify.com/artist/6nyqrmf9qc4W94YKtsPel9) | [Borracho](https://open.spotify.com/album/6VW9tAwq1pWd9V18jfKs8i) | 3:39 |
 | 90 | [Perdón, Perdón, Perdón](https://open.spotify.com/track/2XoSCR8M8zmK9iVrn4jedE) | [Achepe](https://open.spotify.com/artist/1b170j0PpkgYWGHMPRsNEM) | [Perdón, Perdón, Perdón](https://open.spotify.com/album/0pbO3t2gwiJzs9L1K5WfWi) | 3:02 |
 | 91 | [Entendí](https://open.spotify.com/track/1Irew14HVrUqhLJFt31NYr) | [Toser One](https://open.spotify.com/artist/1oHPSeQJBwNmpq0J52Wjn1) | [Entendí](https://open.spotify.com/album/60fBhH5X0kY5d8moClLTZg) | 2:56 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbMnDeC4VENb.md) - [plain]
 | 99 | [Maldito Romántico](https://open.spotify.com/track/00Lz6oOMNjlCthAaiQLsfr) | [Gera MX](https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW), [Jayrick](https://open.spotify.com/artist/0U8dIwzBn17JkhYxmznp6T), [Samantha Barrón](https://open.spotify.com/artist/0zfvfy9XlborSqXNRhi8Bk) | [444 Paradise "Encerrado, No Enterrado"](https://open.spotify.com/album/0SJjqErbyJDc46YKzV4ein) | 4:32 |
 | 100 | [Querida](https://open.spotify.com/track/5RyOeJHSAHUVZi2nAR2qlf) | [Gera MX](https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW), [HERNAN TREJO](https://open.spotify.com/artist/2JW58Zzu11HCWLaMou9UGD) | [Querida](https://open.spotify.com/album/66kffsd3bubXY3tEe7Mv6S) | 3:08 |
 
-Snapshot ID: `MCw0YTcxYWYyY2M5YmQ0YWUzMTE1MGVlNGEwODdkNWJlNzdmNmYyY2Qz`
+Snapshot ID: `MCxiMjI0MDg5MzljNTcyY2Q2ZTBjMjJhNmZlMDFmOTEyMDE4YWIyZjBj`

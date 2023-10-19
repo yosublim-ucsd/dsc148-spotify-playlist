@@ -1,12 +1,12 @@
 {
   "description": "New and classic Gospel songs to celebrate the Easter season.",
-  "num_followers": 53679,
+  "num_followers": 53678,
   "original_name": "Easter Gospel",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4NTg5MjkyYWU2Y2MwYWUyNjI1YjFjY2NjMjg2ZDRkN2Q1OTRlMzI2",
+  "snapshot_id": "MCxiZmVhOTNkZGFjZDYwMDA3YjdkM2YyODY1YzkzNzM0NWQ1MDRkZTE2",
   "tracks": [
     {
       "added_at": "2023-04-09 08:49:39",
@@ -1527,22 +1527,6 @@
     {
       "added_at": "2023-04-09 08:49:39",
       "album": {
-        "name": "Trip Down Memory Lane",
-        "url": "https://open.spotify.com/album/11OQ0AT4RDHJq8DqVQST9h"
-      },
-      "artists": [
-        {
-          "name": "James Hall Worship & Praise",
-          "url": "https://open.spotify.com/artist/4NjzfMUK1vMQUvY15RBFYB"
-        }
-      ],
-      "duration_ms": 443466,
-      "name": "The Blood",
-      "url": "https://open.spotify.com/track/46Iicv5lT8Z752kFlrQVWF"
-    },
-    {
-      "added_at": "2023-04-09 08:49:39",
-      "album": {
         "name": "Let My People Go",
         "url": "https://open.spotify.com/album/1atLcMxQ38OHicDxpEYR2t"
       },
@@ -1555,6 +1539,22 @@
       "duration_ms": 297040,
       "name": "Redeemed",
       "url": "https://open.spotify.com/track/49cFSBvl7J2okNWwK2uqxb"
+    },
+    {
+      "added_at": "2023-04-09 08:49:39",
+      "album": {
+        "name": "Trip Down Memory Lane",
+        "url": "https://open.spotify.com/album/11OQ0AT4RDHJq8DqVQST9h"
+      },
+      "artists": [
+        {
+          "name": "James Hall Worship & Praise",
+          "url": "https://open.spotify.com/artist/4NjzfMUK1vMQUvY15RBFYB"
+        }
+      ],
+      "duration_ms": 443466,
+      "name": "The Blood",
+      "url": "https://open.spotify.com/track/46Iicv5lT8Z752kFlrQVWF"
     },
     {
       "added_at": "2023-04-09 08:49:39",
@@ -1667,22 +1667,6 @@
     {
       "added_at": "2023-04-09 08:49:39",
       "album": {
-        "name": "Classic Gold: We're Waiting",
-        "url": "https://open.spotify.com/album/2UqMA74qWsJARd4OKMEgCt"
-      },
-      "artists": [
-        {
-          "name": "Sandra Crouch",
-          "url": "https://open.spotify.com/artist/2bE0f7DSV3s415TDqMypaW"
-        }
-      ],
-      "duration_ms": 266466,
-      "name": "Nothing But the Blood v1.1",
-      "url": "https://open.spotify.com/track/7EozkjVGGgfKvsShP3p5vz"
-    },
-    {
-      "added_at": "2023-04-09 08:49:39",
-      "album": {
         "name": "Live At Azusa 3",
         "url": "https://open.spotify.com/album/46cM0cBjpgC6Rwa3jD2DBj"
       },
@@ -1699,6 +1683,22 @@
       "duration_ms": 436960,
       "name": "He Lives - Live",
       "url": "https://open.spotify.com/track/3H0xO1g8BdlmZKXgnqiNzA"
+    },
+    {
+      "added_at": "2023-04-09 08:49:39",
+      "album": {
+        "name": "Classic Gold: We're Waiting",
+        "url": "https://open.spotify.com/album/2UqMA74qWsJARd4OKMEgCt"
+      },
+      "artists": [
+        {
+          "name": "Sandra Crouch",
+          "url": "https://open.spotify.com/artist/2bE0f7DSV3s415TDqMypaW"
+        }
+      ],
+      "duration_ms": 266466,
+      "name": "Nothing But the Blood v1.1",
+      "url": "https://open.spotify.com/track/7EozkjVGGgfKvsShP3p5vz"
     },
     {
       "added_at": "2023-04-09 08:49:39",
@@ -1819,18 +1819,18 @@
     {
       "added_at": "2023-04-09 08:49:39",
       "album": {
-        "name": "Live In Detroit (Live)",
-        "url": "https://open.spotify.com/album/0uKzIXtrSUvzRCFHSOv1vv"
+        "name": "Beginnings",
+        "url": "https://open.spotify.com/album/1dWfCCgAXOSfOcyHEXbJYR"
       },
       "artists": [
         {
-          "name": "Rev. James Moore",
-          "url": "https://open.spotify.com/artist/2r7fA3DrMO5JXl3uoOLkaN"
+          "name": "Richard Smallwood",
+          "url": "https://open.spotify.com/artist/4WIRlLxuzmZciQ8JS2b3jP"
         }
       ],
-      "duration_ms": 450840,
-      "name": "Cherish The Cross",
-      "url": "https://open.spotify.com/track/7BranHqbktqdiojkd0r07A"
+      "duration_ms": 348773,
+      "name": "Calvary",
+      "url": "https://open.spotify.com/track/2kUwyQh2FseRy8UgboN9T0"
     }
   ],
   "unique_name": "Easter Gospel",

@@ -2,9 +2,9 @@
 
 ### [Hip\-Hop Haryanvi](https://open.spotify.com/playlist/37i9dQZF1DWXpuQNEd48No)
 
-> Yo Hai Haryanvi Hip\-Hop! Cover: MC SQUARE
+> Yo Hai Haryanvi Hip\-Hop! Cover: Dhanda Nyoliwala & Raftaar
 
-126 songs - 6 hr 48 min
+128 songs - 6 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,9 +35,11 @@
 | [Bonjour](https://open.spotify.com/track/1X0uwEHBqPZiXnpFT1hZDm) | [Dhanda Nyoliwala](https://open.spotify.com/artist/2rN8LHqK4TBI7y3d9POvJb) | [Bonjour](https://open.spotify.com/album/7EGPSrVw9GfbFOzEs46T2b) | 2:53 | 2023-06-10 |  |
 | [Brownie](https://open.spotify.com/track/4seQ9Xo3qCKmM8Yt6PL2Hl) | [Kaka WRLD](https://open.spotify.com/artist/3U9BgfNjBB0CXWhrXdtdbv), [Dhruv Balyan](https://open.spotify.com/artist/1xG2KakaKLMD1hrVHryZTw) | [Brownie](https://open.spotify.com/album/4wW8unHhh5oJsGkjKAm2RV) | 2:44 | 2023-03-28 | 2023-04-11 |
 | [Chill Kre Fun Kre](https://open.spotify.com/track/27zl47Ing9ilnjgsHFpeMl) | [NJ Nindaniya](https://open.spotify.com/artist/1YDHNg4ktw5sY6bLsZ2L4V), [Kabira](https://open.spotify.com/artist/75BrljVmqRx34PtL0O8qxa) | [Chill Kre Fun Kre](https://open.spotify.com/album/4nNfkmli4p07UEY8uyObGD) | 3:08 | 2023-07-06 | 2023-08-24 |
+| [Chora Baba Ka](https://open.spotify.com/track/3fz747rKjbEa6mtclKacjf) | [Raftaar](https://open.spotify.com/artist/5UdFr0GeO7jKIaNIJgwB36), [Dhanda Nyoliwala](https://open.spotify.com/artist/2rN8LHqK4TBI7y3d9POvJb) | [Chora Baba Ka](https://open.spotify.com/album/6qW38JP4tbzrsZ5VtxUNUS) | 2:55 | 2023-10-18 |  |
 | [Chore Haryana Aale](https://open.spotify.com/track/1bbbcdT3UhWkSIXH0FzipI) | [Candy Sheoran](https://open.spotify.com/artist/5Gv7YQyjnnTxplUzBuKSUY), [The LeKhak](https://open.spotify.com/artist/4mXXjQa72yzGxqboQMSqiT) | [Chore Haryana Aale](https://open.spotify.com/album/4uH6nJZ7YA3GpeaBZccaCC) | 2:58 | 2023-09-27 |  |
 | [Chore Haryane Aale](https://open.spotify.com/track/2YTKohkHJHXgRCut4Ew0HS) | [Elvish Yadav](https://open.spotify.com/artist/7IBZqnYGLR2eOTP3YJ1asp), [DG IMMORTALS](https://open.spotify.com/artist/7jbG8tDQ5FmqBbTCj5dJdy), [VIRTUAL\_AF](https://open.spotify.com/artist/1Ik6g05IoSfFmpqi4Jg7Kc), [PINNOCIO](https://open.spotify.com/artist/6iNOTxWm3HgwNKL3MhFvzY), [Ankit Baiyanpuria](https://open.spotify.com/artist/1tYgxFs8KyYSXCfQGFsnsu) | [Chore Haryane Aale](https://open.spotify.com/album/7fd96zMwZ0cbsMCmxHyhLf) | 3:27 | 2023-10-09 |  |
 | [Circle](https://open.spotify.com/track/5d3cpUagWngKLiIwtHSLKV) | [BigMoney](https://open.spotify.com/artist/1cRdqU4s5nAUZecL49dXPE) | [Circle](https://open.spotify.com/album/6cEaAwxDU0JPzApMzVFcEZ) | 3:14 | 2023-08-30 | 2023-09-28 |
+| [Convoy](https://open.spotify.com/track/70ouErfLUxUY2WQwcQI2fO) | [Khasa Aala Chahar](https://open.spotify.com/artist/3yOHCFUZRsaHUu1yefR8ck), [KD DESIROCK](https://open.spotify.com/artist/4Pq2LW79qotJK4YAMFwlO0) | [Convoy](https://open.spotify.com/album/4ZcTQRJtPrN8azjI83NHNg) | 4:35 | 2023-10-18 |  |
 | [DAD](https://open.spotify.com/track/3gMWtZT62pIpVY6JZAmjrU) | [Amit Saini Rohtakiya](https://open.spotify.com/artist/4d8PlD50b5CG0eIBY6jm0b) | [DAD](https://open.spotify.com/album/46D35bKFH47ZVfaaTgQE3C) | 3:19 | 2023-03-28 | 2023-05-24 |
 | [Dad](https://open.spotify.com/track/1Ehci8oBSgx7n0fJ9R5dEl) | [Gulzaar Chhaniwala](https://open.spotify.com/artist/1LOB46pDsJhtIXW1nbHYZo) | [Dad](https://open.spotify.com/album/1a4MJT6IU0NeZkv6znNTM3) | 3:06 | 2023-04-10 | 2023-05-16 |
 | [Day By Day](https://open.spotify.com/track/76WnNlXWHy8kYtS6qJcW1B) | [Vikash Kashyap](https://open.spotify.com/artist/0aRUcCzk6K2cy4SsvsypQf), [Ranjan Assaniya](https://open.spotify.com/artist/5JKxDoTKlzy3lF2KiKQUq4) | [Day By Day](https://open.spotify.com/album/5SzLToKl72b5GspUW086PG) | 4:27 | 2023-04-03 | 2023-06-17 |
@@ -66,7 +68,7 @@
 | [Hurr Hurr](https://open.spotify.com/track/3TdDp6r78i2pISrgW2QH6c) | [RP Singh](https://open.spotify.com/artist/7pxBiDULrPympl9ppIewtZ) | [Hurr Hurr](https://open.spotify.com/album/1T94tZ0ONkKt3e8A7OfN0d) | 3:40 | 2023-04-18 | 2023-09-28 |
 | [Hustle](https://open.spotify.com/track/1fZ6ZXqgQOgnhVjgud8haG) | [Manni](https://open.spotify.com/artist/3xgot0UOXdbB02Nt7FXq1F) | [Hustle](https://open.spotify.com/album/0earK0NiGvRyupxyoXpusg) | 1:55 | 2023-03-28 | 2023-04-19 |
 | [Inform me](https://open.spotify.com/track/0ek0ApZzBwlLjhMDmxQG3N) | [Divesh Khatana](https://open.spotify.com/artist/3iKTund4Lk0ABArnhE53lX) | [Inform me](https://open.spotify.com/album/47srYYfK2BMfgAiHh66Ozh) | 3:30 | 2023-04-03 | 2023-04-29 |
-| [Jaat Warriors](https://open.spotify.com/track/6oWxnsiYG5bj2tqhDcdlRY) | [BigMoney](https://open.spotify.com/artist/1cRdqU4s5nAUZecL49dXPE), [PRNCE SIDHU](https://open.spotify.com/artist/1qRoIdvXPOUe0Omn4NsFp4) | [Jaat Warriors](https://open.spotify.com/album/0XMUkwivt9uRvZtVhrSk4J) | 2:43 | 2023-10-03 |  |
+| [Jaat Warriors](https://open.spotify.com/track/6oWxnsiYG5bj2tqhDcdlRY) | [BigMoney](https://open.spotify.com/artist/1cRdqU4s5nAUZecL49dXPE), [PRNCE SIDHU](https://open.spotify.com/artist/1qRoIdvXPOUe0Omn4NsFp4) | [Jaat Warriors](https://open.spotify.com/album/0XMUkwivt9uRvZtVhrSk4J) | 2:43 | 2023-10-03 | 2023-10-19 |
 | [JagPal](https://open.spotify.com/track/3VbmeN9oN1XK8xK8EtWjsE) | [MC SQUARE](https://open.spotify.com/artist/5WZViOJ21095FUcGPMpKFF) | [JagPal](https://open.spotify.com/album/067lRvGEDxtt6MwMSJyhpk) | 2:23 | 2023-03-28 | 2023-07-12 |
 | [Jalya Na Karo](https://open.spotify.com/track/2ja8pqhYArF0DmH3JmrCRV) | [Bintu Pabra](https://open.spotify.com/artist/74L1hcSZY4R6mo3yWNflRe) | [Jalya Na Karo](https://open.spotify.com/album/2tFI8HNfDtsfses9rm7jQP) | 3:42 | 2023-03-28 | 2023-09-28 |
 | [Jhotte](https://open.spotify.com/track/5AbkBdjwjALBd3h4rNgJeX) | [Ndee Kundu](https://open.spotify.com/artist/61P6g4b3TgZ9m2caJlXS4K), [KD DESIROCK](https://open.spotify.com/artist/4Pq2LW79qotJK4YAMFwlO0) | [Jhotte](https://open.spotify.com/album/0UCnUqid4KKnDXIlpwyy4U) | 3:37 | 2023-03-28 |  |
@@ -105,7 +107,7 @@
 | [Ram Ram](https://open.spotify.com/track/06EgOhKj59Jk0AUSzly2Jn) | [MC SQUARE](https://open.spotify.com/artist/5WZViOJ21095FUcGPMpKFF) | [Hustle 2.0](https://open.spotify.com/album/1IaOxCVpa6TckpUwp6LdXS) | 3:33 | 2023-03-28 | 2023-07-05 |
 | [Ram Ram \(From "Mtv Hustle 2.0"\)](https://open.spotify.com/track/3tCaIt2Hi9XHlrwK0hQXiF) | [MC SQUARE](https://open.spotify.com/artist/5WZViOJ21095FUcGPMpKFF), [Mtv Team](https://open.spotify.com/artist/0x4PRlY7pwZd6Er9vk9GX4) | [Ram Ram \(From "Mtv Hustle 2.0"\)](https://open.spotify.com/album/4lQSMBuJzNso8Osu2z5THu) | 3:29 | 2023-06-29 | 2023-07-16 |
 | [Rao Sahab](https://open.spotify.com/track/0DcgGCxSsVkjNcjUz8FyrJ) | [Amar Kharkiya](https://open.spotify.com/artist/2D0eJe0om5jkhQOR7jASIg), [Jaypee](https://open.spotify.com/artist/5QFr6gLagNVhYnLp48jD0m), [Elvish Yadav](https://open.spotify.com/artist/7IBZqnYGLR2eOTP3YJ1asp) | [Rao Sahab](https://open.spotify.com/album/2XrTANhCjtrvTuGuQc83Pj) | 2:36 | 2023-07-27 |  |
-| [Rao Sahab Drill](https://open.spotify.com/track/1m5GbHeEUhvCgpuVb1q4Z4) | [Vkey](https://open.spotify.com/artist/0xTf08e7MLw7TnnCNKXoBv), [SDEE](https://open.spotify.com/artist/302ztHnZGveCVIu1cW9awZ) | [Rao Sahab Drill](https://open.spotify.com/album/7rF3h3c0Eyj6xXMCZgQyvf) | 3:31 | 2023-08-30 |  |
+| [Rao Sahab Drill](https://open.spotify.com/track/1m5GbHeEUhvCgpuVb1q4Z4) | [Vkey](https://open.spotify.com/artist/0xTf08e7MLw7TnnCNKXoBv), [SDEE](https://open.spotify.com/artist/302ztHnZGveCVIu1cW9awZ) | [Rao Sahab Drill](https://open.spotify.com/album/7rF3h3c0Eyj6xXMCZgQyvf) | 3:31 | 2023-08-30 | 2023-10-19 |
 | [Raosahab](https://open.spotify.com/track/1OkSGjNN37znjSZd7LwrzB) | [Fazilpuria](https://open.spotify.com/artist/4oaJL0V5asQDh4sqplTVhX) | [Raosahab](https://open.spotify.com/album/64V6bH51CIBl9GLaxipZHK) | 2:52 | 2023-08-23 | 2023-09-14 |
 | [Rapgod](https://open.spotify.com/track/1qETjoaPp0O2eVqYPQ9PQc) | [RP Singh](https://open.spotify.com/artist/7pxBiDULrPympl9ppIewtZ) | [Rapgod](https://open.spotify.com/album/4AnkiReAouD2pfq7GtkeE7) | 4:05 | 2023-03-28 | 2023-09-01 |
 | [Rolex](https://open.spotify.com/track/4Ox61ir1wrVz4RWunkCkgL) | [Amar Kharkiya](https://open.spotify.com/artist/2D0eJe0om5jkhQOR7jASIg), [Jaypee](https://open.spotify.com/artist/1zHyfn1TTwcc2sebIchkMk) | [Rolex](https://open.spotify.com/album/7qJ2MwBYs1zEa0UWX9l5bE) | 2:20 | 2023-04-03 | 2023-04-29 |

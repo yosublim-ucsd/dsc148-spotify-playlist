@@ -4,7 +4,7 @@
 
 > happy \| vibes \| feel good \| music \| mood boost \| happy hits \| clean pop \| positive vibes \| dopamine \| serotonin \| high vibes \| happy summer \| positive affirmation \| upbeat \| drive \| windows down \| good vibes \| indie \| pop \| rock \| alternative \| feelin' good \| healing \| rise \| smile
 
-280 songs - 15 hr 39 min
+281 songs - 15 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -110,6 +110,7 @@
 | [Get On My Love](https://open.spotify.com/track/60REZmVNnLB2846rcsEoJJ) | [Picture This](https://open.spotify.com/artist/7jLSEPYCYQ5ssWU3BICqrW) | [Get On My Love](https://open.spotify.com/album/2O2RFVGO34vGbxo391JhdC) | 2:53 | 2023-01-09 | 2023-03-16 |
 | [Get Outta My Dreams, Get into My Car](https://open.spotify.com/track/0pBhA8yQ5FUKyQG13x2Qmh) | [Billy Ocean](https://open.spotify.com/artist/5IDs1CK15HegSAhGEbSYXo) | [Tear Down These Walls](https://open.spotify.com/album/1tIJAV6PAVmH4E1rRZ5lJj) | 5:34 | 2022-06-03 |  |
 | [Ghostbusters](https://open.spotify.com/track/3m0y8qLoznUYi73SUBP8GI) | [Ray Parker Jr.](https://open.spotify.com/artist/0NyzfcGDZZ6GM25EBG9BYK) | [Ghostbusters \(Original Motion Picture Soundtrack\) \[2016\]](https://open.spotify.com/album/0epcJ1L57tp3SF30aKyeWa) | 4:05 | 2022-10-14 | 2022-11-02 |
+| [Girlfriend](https://open.spotify.com/track/45hOioMDJktr86iKDHC8gr) | [Avril Lavigne](https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j) | [The Best Damn Thing \(Expanded Edition\)](https://open.spotify.com/album/6lqE05fiHWJVYYdMVJNj38) | 3:36 | 2023-10-18 |  |
 | [Girls Just Want to Have Fun](https://open.spotify.com/track/4y1LsJpmMti1PfRQV9AWWe) | [Cyndi Lauper](https://open.spotify.com/artist/2BTZIqw0ntH9MvilQ3ewNY) | [She's So Unusual](https://open.spotify.com/album/1FvdZ1oizXwF9bxogujoF0) | 3:58 | 2023-08-02 |  |
 | [Glory \(feat\. Mez, VanJess, ICECOLDBISHOP, Ginette Claudette & Gwen Bunn\)](https://open.spotify.com/track/5zYEMdgHeGvbdPgd3tOHcu) | [Keep Cool](https://open.spotify.com/artist/6YihZKGlCq75jYZbfRFrtt), [Mez](https://open.spotify.com/artist/30C5wgn4celhRP3Tytv7R6), [VanJess](https://open.spotify.com/artist/0Ek89uaJyo6NfWK22awFvI), [ICECOLDBISHOP](https://open.spotify.com/artist/04zbRSHjzlQYvV31SW7qZ4), [Ginette Claudette](https://open.spotify.com/artist/44FcajG2fONeWG1KEy0DBt), [Gwen Bunn](https://open.spotify.com/artist/6dPh96zLnVMZVHnr66WRjg) | [Glory \(feat\. Mez, VanJess, ICECOLDBISHOP, Ginette Claudette & Gwen Bunn\)](https://open.spotify.com/album/1ncBdR2WZhlTJbSC41vvBy) | 3:49 | 2022-06-03 | 2023-02-01 |
 | [Glory Days](https://open.spotify.com/track/2Y90nL1ohB4sgYELDs7uNx) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [Born In The U.S.A.](https://open.spotify.com/album/0PMasrHdpaoIRuHuhHp72O) | 4:14 | 2022-06-03 |  |

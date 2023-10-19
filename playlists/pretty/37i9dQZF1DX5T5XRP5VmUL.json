@@ -1,12 +1,12 @@
 {
   "description": "Dreaming of a white Christmas \u2728\u2744\ufe0f",
-  "num_followers": 132779,
+  "num_followers": 132778,
   "original_name": "White Christmas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmMDI0NGFjMTBjZWIwNWU5MTdhYThjYmJhMTYwZGYzMDUwMTY3YTli",
+  "snapshot_id": "MCw4ZGRjZmE2ZDE3NTE1N2NjNDc1ZDdlYzMwODFhMzRkZDU4ZTY2NDMy",
   "tracks": [
     {
       "added_at": "2023-10-13 22:14:44",
@@ -1423,6 +1423,22 @@
     {
       "added_at": "2023-10-13 22:14:44",
       "album": {
+        "name": "Christmas (Deluxe 10th Anniversary Edition)",
+        "url": "https://open.spotify.com/album/0FHpjWlnUmplF5ciL84Wpa"
+      },
+      "artists": [
+        {
+          "name": "Michael Bubl\u00e9",
+          "url": "https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3"
+        }
+      ],
+      "duration_ms": 223671,
+      "name": "The Christmas Sweater",
+      "url": "https://open.spotify.com/track/30QRKfHBopZn6UNqqSJQ9O"
+    },
+    {
+      "added_at": "2023-10-13 22:14:44",
+      "album": {
         "name": "A Different Christmas",
         "url": "https://open.spotify.com/album/52QMK9SFNjiuz3ipkuVVZu"
       },
@@ -1443,22 +1459,6 @@
       "duration_ms": 230577,
       "name": "lonely christmas (feat. Justin Bieber & Poo Bear)",
       "url": "https://open.spotify.com/track/5FZNkiHoC7fbc30acoRpfb"
-    },
-    {
-      "added_at": "2023-10-13 22:14:44",
-      "album": {
-        "name": "Christmas (Deluxe 10th Anniversary Edition)",
-        "url": "https://open.spotify.com/album/0FHpjWlnUmplF5ciL84Wpa"
-      },
-      "artists": [
-        {
-          "name": "Michael Bubl\u00e9",
-          "url": "https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3"
-        }
-      ],
-      "duration_ms": 223671,
-      "name": "The Christmas Sweater",
-      "url": "https://open.spotify.com/track/30QRKfHBopZn6UNqqSJQ9O"
     },
     {
       "added_at": "2023-10-13 22:14:44",

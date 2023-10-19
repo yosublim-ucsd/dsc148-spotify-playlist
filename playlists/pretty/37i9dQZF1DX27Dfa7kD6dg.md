@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX27Dfa7kD6dg.md) - [plain]
 
 > New York salsa...it's home.
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,237 likes - 115 songs - 8 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,299 likes - 115 songs - 8 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -73,8 +73,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX27Dfa7kD6dg.md) - [plain]
 | 63 | [La Hija De Lola](https://open.spotify.com/track/5xS8g8E2mPuIjCbxQj2Yx4) | [Charlie Palmieri](https://open.spotify.com/artist/1qNctKAgK8LDV3agmP8ukS) | [El Gigante del Teclado](https://open.spotify.com/album/6PjtSTcRAyMZ1k9xhvXEFp) | 4:32 |
 | 64 | [Ublabadú](https://open.spotify.com/track/3mHv2JoSRRIjYCcnG6mgJO) | [Fania All Stars](https://open.spotify.com/artist/1OdyhpUABf8avaZ9r8nI1u), [Héctor Lavoe](https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP) | [Commitment](https://open.spotify.com/album/3GEZV1mPQfeAyobbQ15U4x) | 5:51 |
 | 65 | [Llanto De Cocodrilo](https://open.spotify.com/track/5bDXe2wsNqx4ZOPhudNdWu) | [Ray Barretto](https://open.spotify.com/artist/2h4ndKS2vRWeFLpq8ARu0D) | [Indestructible](https://open.spotify.com/album/5ColFlrN4x7WcxDuxMrBsC) | 3:54 |
-| 66 | [Presidente Dante](https://open.spotify.com/track/2ttM5D84FTOVxiIESWL0zY) | [Larry Harlow](https://open.spotify.com/artist/2PGJmP6AvSCQ7pKBOjrg8J), [Frankie Dante & Orquesta Flamboyan](https://open.spotify.com/artist/27G5wNXY4nO0Ji2weHv9PR) | [Con Larry Harlow](https://open.spotify.com/album/2uiwRibXO2rTrXC7vvoBSn) | 4:07 |
-| 67 | [No Sirvo Pa' Queso](https://open.spotify.com/track/4Bzp72GCbS8tWfR5BT3HLa) | [La Maxima 79](https://open.spotify.com/artist/7AcdT1dXIJEStRkbKmwS94) | [Regresando al Guaguancò](https://open.spotify.com/album/6hu4s5s92lZdXscKK45aaX) | 4:00 |
+| 66 | [No Sirvo Pa' Queso](https://open.spotify.com/track/4Bzp72GCbS8tWfR5BT3HLa) | [La Maxima 79](https://open.spotify.com/artist/7AcdT1dXIJEStRkbKmwS94) | [Regresando al Guaguancò](https://open.spotify.com/album/6hu4s5s92lZdXscKK45aaX) | 4:00 |
+| 67 | [Presidente Dante](https://open.spotify.com/track/2ttM5D84FTOVxiIESWL0zY) | [Larry Harlow](https://open.spotify.com/artist/2PGJmP6AvSCQ7pKBOjrg8J), [Frankie Dante & Orquesta Flamboyan](https://open.spotify.com/artist/27G5wNXY4nO0Ji2weHv9PR) | [Con Larry Harlow](https://open.spotify.com/album/2uiwRibXO2rTrXC7vvoBSn) | 4:07 |
 | 68 | [Vaciló Con Tumbao](https://open.spotify.com/track/6YC0cl9aX5RENgJEJd39sr) | [Ismael Quintana](https://open.spotify.com/artist/0BM26r4eTvHRclFsKRH2zq) | [Dos Imagenes](https://open.spotify.com/album/3e2g32lpM8T4lTLa4mswzo) | 2:54 |
 | 69 | [Esta Pegao](https://open.spotify.com/track/0SQJvvvcSjlUgQjfk1i204) | [El Timba](https://open.spotify.com/artist/0O0OynmaAvfmXAsBwNHBwi), [Fabio Gianni](https://open.spotify.com/artist/0l8NVW6mW9GPWR43ueCYPu) | [Guaguamambo](https://open.spotify.com/album/0LVF4qB04lxxLeUlXhqZS9) | 4:38 |
 | 70 | [Cuídate Bién](https://open.spotify.com/track/6T5ITpAYsPK1CfNPhtBKZm) | [La Critica](https://open.spotify.com/artist/5poEGfCmeFo8HcoNaOLIo0) | [Colección De Oro: La Crítica Y Sus Cantantes, Vol\. 1](https://open.spotify.com/album/66AzgPZCCRROGy1N1DO9ix) | 3:35 |
@@ -101,8 +101,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX27Dfa7kD6dg.md) - [plain]
 | 91 | [Tumba La Caña Jibarito](https://open.spotify.com/track/3qiFFGj7QQ2XOFbO0NA56s) | [La Sonora Matancera](https://open.spotify.com/artist/01p7Homi0d4XxZ06f2NYYD), [Celia Cruz](https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U) | [La Dinámica!](https://open.spotify.com/album/0f3n5513x4jjxDMe8IvAaT) | 2:41 |
 | 92 | [Salsa Na' Ma'](https://open.spotify.com/track/2ltnuPephnEI9MTjcRfvto) | [Azuquita Y Su Orquesta Melao](https://open.spotify.com/artist/4DRX9H3y8WLxqYspsWHpFR) | [Pura Salsa](https://open.spotify.com/album/7riHCrKoLv3Y0Vg9tnDWg1) | 4:35 |
 | 93 | [Y Yo Ganga](https://open.spotify.com/track/5s9rrpkjzcRVo04hzzz8fw) | [Alegre All Stars](https://open.spotify.com/artist/0UI6s6uva6Ozm7VlICnFmc) | [Perdido](https://open.spotify.com/album/5LYY9AkRt5DewwnfQt63Dz) | 8:09 |
-| 94 | [Me Voy Pa Las Villas](https://open.spotify.com/track/5HCX01ucQXm6DQBO3z0aTh) | [La Playa Sextet](https://open.spotify.com/artist/2sOjbVJo60mStZl19NDcUn), [Tito Rodriguez](https://open.spotify.com/artist/10n4KkyM4UDt4pf9H4aDlS) | [Separala También! Cantando Tito Rodríguez](https://open.spotify.com/album/0NnMASskJ96x4sESAFpMCR) | 2:53 |
-| 95 | [El Que Se Fue \- Tributo A Tito Rodriguez](https://open.spotify.com/track/4Fy9sNCxSGGc8jxU8eAp3O) | [Gilberto Santa Rosa](https://open.spotify.com/artist/27vNK840zYq6IfDijHPsv1) | [A Dos Tiempos de un Tiempo](https://open.spotify.com/album/0d8wAwygZBtYPE8R21JSy9) | 4:52 |
+| 94 | [El Que Se Fue \- Tributo A Tito Rodriguez](https://open.spotify.com/track/4Fy9sNCxSGGc8jxU8eAp3O) | [Gilberto Santa Rosa](https://open.spotify.com/artist/27vNK840zYq6IfDijHPsv1) | [A Dos Tiempos de un Tiempo](https://open.spotify.com/album/0d8wAwygZBtYPE8R21JSy9) | 4:52 |
+| 95 | [Me Voy Pa Las Villas](https://open.spotify.com/track/5HCX01ucQXm6DQBO3z0aTh) | [La Playa Sextet](https://open.spotify.com/artist/2sOjbVJo60mStZl19NDcUn), [Tito Rodriguez](https://open.spotify.com/artist/10n4KkyM4UDt4pf9H4aDlS) | [Separala También! Cantando Tito Rodríguez](https://open.spotify.com/album/0NnMASskJ96x4sESAFpMCR) | 2:53 |
 | 96 | [Hecho Y Derecho](https://open.spotify.com/track/0wbgGX25FfDH0dpXeKwLRP) | [Joe Cuba Sextet](https://open.spotify.com/artist/7glnjTMVq4r8iNugFbuIqj) | [Hecho Y Derecho](https://open.spotify.com/album/6CqvcH88Hmn0VyD8KWCaDy) | 2:47 |
 | 97 | [Ran Kan Kan](https://open.spotify.com/track/69ulmthmmwP9CaSqVQldoE) | [The Mambo Express](https://open.spotify.com/artist/6MnbaNwCECXZ66BEGXlTkl) | [Mambo Mania Vol\. 3](https://open.spotify.com/album/7GRXwv2BXJlOTU9QKLd44m) | 2:59 |
 | 98 | [Mambo La Libertad](https://open.spotify.com/track/70HyvVQ5kdYxVQgqSAOtnz) | [Tito Rodriguez & His Orchestra](https://open.spotify.com/artist/67HW6PKDXtSXN6ANTEQemN) | [Mambo Madness](https://open.spotify.com/album/37adSaGjRerybXzNjcry13) | 3:05 |
@@ -124,4 +124,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX27Dfa7kD6dg.md) - [plain]
 | 114 | [El Cantante](https://open.spotify.com/track/3gIZxkCKjNP1tft5TynUED) | [Marc Anthony](https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6) | [Marc Anthony "El Cantante" OST](https://open.spotify.com/album/4MRdW6rlNSqpnCAZKGxqLC) | 6:47 |
 | 115 | [Insaciable](https://open.spotify.com/track/2NhpUxYubhTbFqn8PFNfwo) | [Eddie Santiago](https://open.spotify.com/artist/5Wg6XnPTp0xXxFCjywwR9I) | [Serie Millennium: Eddie Santiago](https://open.spotify.com/album/6trSesFexVgSw7P7eeSN6L) | 4:29 |
 
-Snapshot ID: `MCwzMGQ5YzVmNzg3M2EyZTgxOGYxNjBmMTdhOWY2NGE3MTJjZGViNWYz`
+Snapshot ID: `MCxiYjcxZmMwMWNkMzExMmFjYjBkNGY0M2ZmMWNhNzI5MTIzNGY5ZWMz`

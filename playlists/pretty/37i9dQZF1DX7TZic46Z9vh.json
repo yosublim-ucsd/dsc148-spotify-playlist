@@ -1,12 +1,12 @@
 {
   "description": "Celebrando el Festival de Av\u00e1ndaro, hito del rock mexicano. \u00a1Paz y amor! Portada: Los Dug Dug's.",
-  "num_followers": 41569,
+  "num_followers": 41583,
   "original_name": "Rock Mexicano Av\u00e1ndaro",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwMWQ0YWFjZmRjNThhZTU3ZTlmM2MzMTgxOTAyOTFkZTQ5M2U2MWE3",
+  "snapshot_id": "MCwwZTk2MGRjOTFhYTAxNTdjODcyNWFiY2MwZjNhMTZkYTY0OTRiNjA4",
   "tracks": [
     {
       "added_at": "2021-09-06 15:34:44",
@@ -431,22 +431,6 @@
     {
       "added_at": "2021-09-06 15:34:44",
       "album": {
-        "name": "Toncho Pilatos",
-        "url": "https://open.spotify.com/album/2GBWCqo2XWqqfNhhIRXSwK"
-      },
-      "artists": [
-        {
-          "name": "Toncho Pilatos",
-          "url": "https://open.spotify.com/artist/3RKNiMGSJ4dfDpizaqm9X3"
-        }
-      ],
-      "duration_ms": 230973,
-      "name": "Tommy Lyz",
-      "url": "https://open.spotify.com/track/2MWlye2Nga64EmS28igJs7"
-    },
-    {
-      "added_at": "2021-09-06 15:34:44",
-      "album": {
         "name": "Volumen I",
         "url": "https://open.spotify.com/album/645mFqD3c66EuYrYZg02Kk"
       },
@@ -459,6 +443,22 @@
       "duration_ms": 291786,
       "name": "El Hongo",
       "url": "https://open.spotify.com/track/11nP4a0rGP0UWyFWUpI70r"
+    },
+    {
+      "added_at": "2021-09-06 15:34:44",
+      "album": {
+        "name": "Toncho Pilatos",
+        "url": "https://open.spotify.com/album/2GBWCqo2XWqqfNhhIRXSwK"
+      },
+      "artists": [
+        {
+          "name": "Toncho Pilatos",
+          "url": "https://open.spotify.com/artist/3RKNiMGSJ4dfDpizaqm9X3"
+        }
+      ],
+      "duration_ms": 230973,
+      "name": "Tommy Lyz",
+      "url": "https://open.spotify.com/track/2MWlye2Nga64EmS28igJs7"
     },
     {
       "added_at": "2021-09-06 15:34:44",
@@ -639,18 +639,18 @@
     {
       "added_at": "2021-09-06 15:34:44",
       "album": {
-        "name": "Rock en Av\u00e1ndaro Valle de Bravo",
-        "url": "https://open.spotify.com/album/4YeKgMdvtyH6pLC0g4uqMT"
+        "name": "Rock Sound",
+        "url": "https://open.spotify.com/album/2Lln8tQqVPOM0hTxNwYmvq"
       },
       "artists": [
         {
-          "name": "Los Soul Master's",
-          "url": "https://open.spotify.com/artist/4dlWy5TRLwDd04nALLTWfe"
+          "name": "Enigma!",
+          "url": "https://open.spotify.com/artist/735Su6vORHKZEN8Hh8pM3H"
         }
       ],
-      "duration_ms": 163552,
-      "name": "Jenny My Love",
-      "url": "https://open.spotify.com/track/1g08fiULTx3C270CrHKDrM"
+      "duration_ms": 228080,
+      "name": "The Call of the Woman (El Llamado de la Hembra)",
+      "url": "https://open.spotify.com/track/5xDzHDSJy8kyVrr1WASR0N"
     },
     {
       "added_at": "2021-09-06 15:34:44",
@@ -671,18 +671,18 @@
     {
       "added_at": "2021-09-06 15:34:44",
       "album": {
-        "name": "Rock Sound",
-        "url": "https://open.spotify.com/album/2Lln8tQqVPOM0hTxNwYmvq"
+        "name": "Rock en Av\u00e1ndaro Valle de Bravo",
+        "url": "https://open.spotify.com/album/4YeKgMdvtyH6pLC0g4uqMT"
       },
       "artists": [
         {
-          "name": "Enigma!",
-          "url": "https://open.spotify.com/artist/735Su6vORHKZEN8Hh8pM3H"
+          "name": "Los Soul Master's",
+          "url": "https://open.spotify.com/artist/4dlWy5TRLwDd04nALLTWfe"
         }
       ],
-      "duration_ms": 228080,
-      "name": "The Call of the Woman (El Llamado de la Hembra)",
-      "url": "https://open.spotify.com/track/5xDzHDSJy8kyVrr1WASR0N"
+      "duration_ms": 163552,
+      "name": "Jenny My Love",
+      "url": "https://open.spotify.com/track/1g08fiULTx3C270CrHKDrM"
     },
     {
       "added_at": "2021-09-06 15:34:44",
@@ -772,22 +772,6 @@
       },
       "artists": [
         {
-          "name": "Los Soul Master's",
-          "url": "https://open.spotify.com/artist/4dlWy5TRLwDd04nALLTWfe"
-        }
-      ],
-      "duration_ms": 169665,
-      "name": "Libertad",
-      "url": "https://open.spotify.com/track/3oCXeYBiZODvdaXHranRHd"
-    },
-    {
-      "added_at": "2021-09-06 15:34:44",
-      "album": {
-        "name": "Rock en Av\u00e1ndaro Valle de Bravo",
-        "url": "https://open.spotify.com/album/4YeKgMdvtyH6pLC0g4uqMT"
-      },
-      "artists": [
-        {
           "name": "The Love Army",
           "url": "https://open.spotify.com/artist/3exRYG9uxjbexEWepSOt1S"
         }
@@ -811,6 +795,22 @@
       "duration_ms": 154720,
       "name": "Boom! Boom! Boom!",
       "url": "https://open.spotify.com/track/4BuMxDprV7PhLj5ykVwA9I"
+    },
+    {
+      "added_at": "2021-09-06 15:34:44",
+      "album": {
+        "name": "Rock en Av\u00e1ndaro Valle de Bravo",
+        "url": "https://open.spotify.com/album/4YeKgMdvtyH6pLC0g4uqMT"
+      },
+      "artists": [
+        {
+          "name": "Los Soul Master's",
+          "url": "https://open.spotify.com/artist/4dlWy5TRLwDd04nALLTWfe"
+        }
+      ],
+      "duration_ms": 169665,
+      "name": "Libertad",
+      "url": "https://open.spotify.com/track/3oCXeYBiZODvdaXHranRHd"
     }
   ],
   "unique_name": "Rock Mexicano Av\u00e1ndaro",

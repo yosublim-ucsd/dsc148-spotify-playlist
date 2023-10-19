@@ -4,7 +4,7 @@
 
 > slowed, reverbed, chopped and screwed.
 
-216 songs - 12 hr 18 min
+217 songs - 12 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -161,9 +161,10 @@
 | [prolly my spookiest beat \(slowed + reverb\)](https://open.spotify.com/track/0UYUdfqkHplLojTuEKMqtC) | [prodby668](https://open.spotify.com/artist/56g4P11Gxl7nROZBbm8X3F) | [prolly my spookiest beat \(slowed + reverb\)](https://open.spotify.com/album/5qB7QM6PhhJMZcg0zSRei1) | 2:21 | 2022-04-15 |  |
 | [psychic \(reverbed\)](https://open.spotify.com/track/6gcMjqMoz73UzHVquPHWt7) | [clutch lauren the schizo](https://open.spotify.com/artist/3Z3iS7eAInUvmGy8Gkhopn) | [psychic \(reverbed\)](https://open.spotify.com/album/3Oj65gGCNQBNVUEqrWetOG) | 1:23 | 2022-01-05 | 2022-05-20 |
 | [red sun in the sky // slowed + reverbed](https://open.spotify.com/track/5agRoJXYCAJIxJFZHiUMN7) | [sloved + reverbed club](https://open.spotify.com/artist/644tMFjAj4SpjOFK2I08Sd) | [red sun in the sky // slowed + reverbed](https://open.spotify.com/album/1YFDvEM44xB9FFJrrxJOIv) | 9:24 | 2022-01-05 | 2022-03-04 |
+| [Renegade \(Slowed + Reverb\)](https://open.spotify.com/track/04oETo69jP5j6Fs38t3rJV) | [Aaryan Shah](https://open.spotify.com/artist/4RzbexUO843fc5SLqKEQCr) | [The Arrival: Part I \(Slowed + Reverb\)](https://open.spotify.com/album/5iM9OEkJtQMUTWVLS7CiDA) | 4:39 | 2023-09-21 |  |
 | [Renegade \(Slowed + Reverb\)](https://open.spotify.com/track/7lCu7IgWLKeHBGcTR4HfgX) | [Aaryan Shah](https://open.spotify.com/artist/4RzbexUO843fc5SLqKEQCr) | [The Arrival: Part I \(Slowed + Reverb\)](https://open.spotify.com/album/4hGbyUnXkhjeGdzecA25H0) | 4:39 | 2022-07-22 | 2022-12-03 |
 | [Renegade \(Slowed + Reverb\)](https://open.spotify.com/track/0lOzjQKnffLWj7i6AqNMJG) | [Aaryan Shah](https://open.spotify.com/artist/4RzbexUO843fc5SLqKEQCr) | [The Arrival: Part I \(Slowed + Reverb\)](https://open.spotify.com/album/3WUbnzlQ2VJRicGZVqwIz5) | 4:39 | 2021-10-01 | 2022-07-29 |
-| [Renegade \- \(Slowed + Reverb\)](https://open.spotify.com/track/0hAoRx9cc7pcsqfE2BpF9Y) | [Aaryan Shah](https://open.spotify.com/artist/4RzbexUO843fc5SLqKEQCr) | [The Arrival: Part I \(Slowed + Reverb\)](https://open.spotify.com/album/015uRkdgy09DokRKmz0Scg) | 4:39 | 2023-01-12 |  |
+| [Renegade \- \(Slowed + Reverb\)](https://open.spotify.com/track/0hAoRx9cc7pcsqfE2BpF9Y) | [Aaryan Shah](https://open.spotify.com/artist/4RzbexUO843fc5SLqKEQCr) | [The Arrival: Part I \(Slowed + Reverb\)](https://open.spotify.com/album/015uRkdgy09DokRKmz0Scg) | 4:39 | 2023-01-12 | 2023-10-19 |
 | [Renegade \- \(Slowed + Reverb\)](https://open.spotify.com/track/5S74BaKFC7ELNsuhxzoPn4) | [Aaryan Shah](https://open.spotify.com/artist/4RzbexUO843fc5SLqKEQCr) | [The Arrival: Part I \(Slowed + Reverb\)](https://open.spotify.com/album/7e9NQmhOTt71S59d5NC5Zi) | 4:39 | 2022-10-07 | 2023-02-15 |
 | [Revenge](https://open.spotify.com/track/1fLHQ3KQtCQV5Ig0X3HVv2) | [Coldare](https://open.spotify.com/artist/2FHefNucZqH8nNdKcJX7tM) | [Revenge](https://open.spotify.com/album/0N7iF1ovuuKhVvNLorIt4N) | 2:11 | 2022-02-25 | 2022-08-22 |
 | [Revenge](https://open.spotify.com/track/7BXgUEEfz7SV4IPlozgmVt) | [kidolitx](https://open.spotify.com/artist/1RUHTffvKRhwvO1QtiUnKJ) | [Revenge](https://open.spotify.com/album/64dCGVdtuASuwRToxTPSta) | 2:11 | 2022-07-29 | 2022-08-11 |

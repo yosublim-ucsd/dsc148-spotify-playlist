@@ -1,12 +1,12 @@
 {
   "description": "Just vibes. Cover: Farruko, La Factoria & Eddy Lover. ",
-  "num_followers": 690279,
+  "num_followers": 690282,
   "original_name": "Vibras",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzYmVlMGZmOTQyNjk5MGFmODMxOTRmNDE3NTE2Nzc1NzYwZmI3Mjkz",
+  "snapshot_id": "MCxkMTM2MzMyOWM2ZGY4MWUwZDhkY2MyNDVjNDUyNWMxYmYxMGYzZjUz",
   "tracks": [
     {
       "added_at": "2023-10-06 04:00:00",
@@ -691,22 +691,6 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
-        "name": "Pasa_je_ro",
-        "url": "https://open.spotify.com/album/6iYDWq8eBZDw4Te0dOsnAI"
-      },
-      "artists": [
-        {
-          "name": "Farruko",
-          "url": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
-        }
-      ],
-      "duration_ms": 247280,
-      "name": "Pasa_je_ro",
-      "url": "https://open.spotify.com/track/5wPrJkHbugqIJuMQJN2qjp"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
         "name": "My Love",
         "url": "https://open.spotify.com/album/3XgtnIOpgE18deinVIUmBn"
       },
@@ -723,6 +707,22 @@
       "duration_ms": 214123,
       "name": "My Love",
       "url": "https://open.spotify.com/track/2f5jtBFBWGmthgLpte2u3q"
+    },
+    {
+      "added_at": "2023-10-06 04:00:00",
+      "album": {
+        "name": "Pasa_je_ro",
+        "url": "https://open.spotify.com/album/6iYDWq8eBZDw4Te0dOsnAI"
+      },
+      "artists": [
+        {
+          "name": "Farruko",
+          "url": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
+        }
+      ],
+      "duration_ms": 247280,
+      "name": "Pasa_je_ro",
+      "url": "https://open.spotify.com/track/5wPrJkHbugqIJuMQJN2qjp"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -1171,22 +1171,18 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
-        "name": "POKE FREESTYLE",
-        "url": "https://open.spotify.com/album/2GWvS2DZKb8ovA7HquXJQ3"
+        "name": "LA NENA DE ARGENTINA",
+        "url": "https://open.spotify.com/album/3iYC1GqtQVjnO63aYDs1nL"
       },
       "artists": [
         {
-          "name": "Alvaro Diaz",
-          "url": "https://open.spotify.com/artist/5J7rXWjtn5HzUkJ4Jet8Fr"
-        },
-        {
-          "name": "Papi Sousa",
-          "url": "https://open.spotify.com/artist/0zcP8lCmLxqRRIZJPSq8i7"
+          "name": "Maria Becerra",
+          "url": "https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG"
         }
       ],
-      "duration_ms": 203293,
-      "name": "POKE FREESTYLE",
-      "url": "https://open.spotify.com/track/44nurfcBvWwOI2bMBPRzZA"
+      "duration_ms": 169526,
+      "name": "P\u00cdDELO",
+      "url": "https://open.spotify.com/track/4evX4mo8KG2bJ3p6iJNfyK"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -1207,34 +1203,22 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
-        "name": "LA NENA DE ARGENTINA",
-        "url": "https://open.spotify.com/album/3iYC1GqtQVjnO63aYDs1nL"
+        "name": "POKE FREESTYLE",
+        "url": "https://open.spotify.com/album/2GWvS2DZKb8ovA7HquXJQ3"
       },
       "artists": [
         {
-          "name": "Maria Becerra",
-          "url": "https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG"
-        }
-      ],
-      "duration_ms": 169526,
-      "name": "P\u00cdDELO",
-      "url": "https://open.spotify.com/track/4evX4mo8KG2bJ3p6iJNfyK"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
-        "name": "Brindo",
-        "url": "https://open.spotify.com/album/12nEDX9e0eG6qu6056EPU5"
-      },
-      "artists": [
+          "name": "Alvaro Diaz",
+          "url": "https://open.spotify.com/artist/5J7rXWjtn5HzUkJ4Jet8Fr"
+        },
         {
-          "name": "Rawayana",
-          "url": "https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2"
+          "name": "Papi Sousa",
+          "url": "https://open.spotify.com/artist/0zcP8lCmLxqRRIZJPSq8i7"
         }
       ],
-      "duration_ms": 284492,
-      "name": "Brindo",
-      "url": "https://open.spotify.com/track/3CjxGKDPbeRaO8BLnCddyK"
+      "duration_ms": 203293,
+      "name": "POKE FREESTYLE",
+      "url": "https://open.spotify.com/track/44nurfcBvWwOI2bMBPRzZA"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -1251,6 +1235,22 @@
       "duration_ms": 147561,
       "name": "For Ya",
       "url": "https://open.spotify.com/track/02qrtIRuwbGgs2wCvdOFme"
+    },
+    {
+      "added_at": "2023-10-06 04:00:00",
+      "album": {
+        "name": "Brindo",
+        "url": "https://open.spotify.com/album/12nEDX9e0eG6qu6056EPU5"
+      },
+      "artists": [
+        {
+          "name": "Rawayana",
+          "url": "https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2"
+        }
+      ],
+      "duration_ms": 284492,
+      "name": "Brindo",
+      "url": "https://open.spotify.com/track/3CjxGKDPbeRaO8BLnCddyK"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -1335,26 +1335,6 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
-        "name": "CHRONOS",
-        "url": "https://open.spotify.com/album/39ZCda6u6x5gq6HkNA3D1n"
-      },
-      "artists": [
-        {
-          "name": "Jambene",
-          "url": "https://open.spotify.com/artist/4u1dsEB1FKbGcdG0EAvxP8"
-        },
-        {
-          "name": "Micro TDH",
-          "url": "https://open.spotify.com/artist/1aWJsBQa67l72j1VT3D6Ow"
-        }
-      ],
-      "duration_ms": 248703,
-      "name": "CHRONOS",
-      "url": "https://open.spotify.com/track/29eomS83SDqGWkRgdvOUFC"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
         "name": "JOSE",
         "url": "https://open.spotify.com/album/11GmvpYnbgK0rSryPaV5BP"
       },
@@ -1375,22 +1355,22 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
-        "name": "El Father",
-        "url": "https://open.spotify.com/album/7IRJnAHKeNS3QNqiALYpPb"
+        "name": "CHRONOS",
+        "url": "https://open.spotify.com/album/39ZCda6u6x5gq6HkNA3D1n"
       },
       "artists": [
         {
-          "name": "De La Ghetto",
-          "url": "https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb"
+          "name": "Jambene",
+          "url": "https://open.spotify.com/artist/4u1dsEB1FKbGcdG0EAvxP8"
         },
         {
-          "name": "H\u00e9ctor \"El Father\"",
-          "url": "https://open.spotify.com/artist/2TjgzYcbTdsZjbT9OItIeB"
+          "name": "Micro TDH",
+          "url": "https://open.spotify.com/artist/1aWJsBQa67l72j1VT3D6Ow"
         }
       ],
-      "duration_ms": 195873,
-      "name": "El Father",
-      "url": "https://open.spotify.com/track/3l1KMArNsKOR29ppTBhCzw"
+      "duration_ms": 248703,
+      "name": "CHRONOS",
+      "url": "https://open.spotify.com/track/29eomS83SDqGWkRgdvOUFC"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -1415,6 +1395,26 @@
       "duration_ms": 250082,
       "name": "Bonita",
       "url": "https://open.spotify.com/track/7p5s4J9dNNYpZdAgJIOH6Z"
+    },
+    {
+      "added_at": "2023-10-06 04:00:00",
+      "album": {
+        "name": "El Father",
+        "url": "https://open.spotify.com/album/7IRJnAHKeNS3QNqiALYpPb"
+      },
+      "artists": [
+        {
+          "name": "De La Ghetto",
+          "url": "https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb"
+        },
+        {
+          "name": "H\u00e9ctor \"El Father\"",
+          "url": "https://open.spotify.com/artist/2TjgzYcbTdsZjbT9OItIeB"
+        }
+      ],
+      "duration_ms": 195873,
+      "name": "El Father",
+      "url": "https://open.spotify.com/track/3l1KMArNsKOR29ppTBhCzw"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -1739,22 +1739,6 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
-        "name": "Insomnia",
-        "url": "https://open.spotify.com/album/5CfLWuM72hIF1dO4Rbhzhy"
-      },
-      "artists": [
-        {
-          "name": "Chris Palace",
-          "url": "https://open.spotify.com/artist/3z26llYP0dIzgnmUp2vSAw"
-        }
-      ],
-      "duration_ms": 204296,
-      "name": "Adelantah",
-      "url": "https://open.spotify.com/track/686vC4Xj5wFjFE0S8dW2mK"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
         "name": "Summer Nights",
         "url": "https://open.spotify.com/album/3noBkmNZz14QcgIRgIzAZQ"
       },
@@ -1767,6 +1751,22 @@
       "duration_ms": 151304,
       "name": "Summer Nights",
       "url": "https://open.spotify.com/track/2J6KEv2z0LWUsMc2bHBAOR"
+    },
+    {
+      "added_at": "2023-10-06 04:00:00",
+      "album": {
+        "name": "Insomnia",
+        "url": "https://open.spotify.com/album/5CfLWuM72hIF1dO4Rbhzhy"
+      },
+      "artists": [
+        {
+          "name": "Chris Palace",
+          "url": "https://open.spotify.com/artist/3z26llYP0dIzgnmUp2vSAw"
+        }
+      ],
+      "duration_ms": 204296,
+      "name": "Adelantah",
+      "url": "https://open.spotify.com/track/686vC4Xj5wFjFE0S8dW2mK"
     },
     {
       "added_at": "2023-10-06 04:00:00",

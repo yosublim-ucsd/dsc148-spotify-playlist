@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2VXwwgu0PzV.md) - [plain]
 
 > Music for when you've got your Jesus on and your swag up \. <br/>Cover: <a href="https://open.spotify.com/artist/2EmUjaYdA6kGxwZXzAGq7V?si=2Y6HUjH5QtC0OQgoy2TTWg">T Babz</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,936 likes - 115 songs - 7 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,021 likes - 115 songs - 7 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -124,4 +124,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2VXwwgu0PzV.md) - [plain]
 | 114 | [Father And Son \(True Love\)](https://open.spotify.com/track/1rC8W1I7Z3GJZkfBVZEIN9) | [Enakeno](https://open.spotify.com/artist/4TmyJqF1VO3ajOFLveUFWi) | [Father And Son \(True Love\)](https://open.spotify.com/album/3A6JBiraXswuLydv67EZJc) | 2:53 |
 | 115 | [Give It All](https://open.spotify.com/track/3RLooyMCFEuApU0JwzP2l9) | [TBabz](https://open.spotify.com/artist/2EmUjaYdA6kGxwZXzAGq7V), [Shirlvin Desir](https://open.spotify.com/artist/4Hbu64CrdG7DMOmKl57S0Y), [Still Blessed Music](https://open.spotify.com/artist/3QLVocBmoPCZGWar970isd) | [Give It All](https://open.spotify.com/album/5G2Oxhmi2AAWhl9OHzbH69) | 1:36 |
 
-Snapshot ID: `MCxiNjU3ZjFmOTQxYjAwM2E3M2ViNjFmNDMwNjgxYzBiNjUzOTkyMjdm`
+Snapshot ID: `MCxkYzE3NmNiNDFkN2Q2YjczYjEwOTJkZGEzOGEwMmNiNWU3ZjI3ZjA0`

@@ -1,12 +1,12 @@
 {
   "description": "iykyk",
-  "num_followers": 3633550,
+  "num_followers": 3635519,
   "original_name": "big on the internet",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkMTc1NzhjMWJhYmI4OGZjYTBjZGVhOWMyOTM3ZjZlNGZiMjc2NGMz",
+  "snapshot_id": "MCwxYWFmNzI4MmQxYWY0MTdhYzc0ZTRiZDYyZTc1MWRkZDFkZmU3MmZj",
   "tracks": [
     {
       "added_at": "2023-10-12 21:27:30",
@@ -347,6 +347,62 @@
     {
       "added_at": "2023-10-12 21:27:30",
       "album": {
+        "name": "Her Love Still Haunts Me Like a Ghost",
+        "url": "https://open.spotify.com/album/3q6BNwqgHKVzXzAv2ZV6tD"
+      },
+      "artists": [
+        {
+          "name": "Montell Fish",
+          "url": "https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2"
+        }
+      ],
+      "duration_ms": 208000,
+      "name": "Bathroom",
+      "url": "https://open.spotify.com/track/3sLTYBYs6lJsFK84t2X7wt"
+    },
+    {
+      "added_at": "2023-10-18 14:33:29",
+      "album": {
+        "name": "Scarlet",
+        "url": "https://open.spotify.com/album/6DmPNcfpkXBVRJsEIJY9tl"
+      },
+      "artists": [
+        {
+          "name": "Doja Cat",
+          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
+        }
+      ],
+      "duration_ms": 265360,
+      "name": "Agora Hills",
+      "url": "https://open.spotify.com/track/7dJYggqjKo71KI9sLzqCs8"
+    },
+    {
+      "added_at": "2023-10-12 21:27:30",
+      "album": {
+        "name": "Wake Up in the Sky",
+        "url": "https://open.spotify.com/album/7mkyc2BUahNfo0orKzqNGB"
+      },
+      "artists": [
+        {
+          "name": "Gucci Mane",
+          "url": "https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo"
+        },
+        {
+          "name": "Bruno Mars",
+          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
+        },
+        {
+          "name": "Kodak Black",
+          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
+        }
+      ],
+      "duration_ms": 204664,
+      "name": "Wake Up in the Sky",
+      "url": "https://open.spotify.com/track/0QIjsbm2fh1cJ45XO9eGqq"
+    },
+    {
+      "added_at": "2023-10-12 21:27:30",
+      "album": {
         "name": "Justified",
         "url": "https://open.spotify.com/album/6QPkyl04rXwTGlGlcYaRoW"
       },
@@ -395,30 +451,6 @@
     {
       "added_at": "2023-10-12 21:27:30",
       "album": {
-        "name": "Wake Up in the Sky",
-        "url": "https://open.spotify.com/album/7mkyc2BUahNfo0orKzqNGB"
-      },
-      "artists": [
-        {
-          "name": "Gucci Mane",
-          "url": "https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo"
-        },
-        {
-          "name": "Bruno Mars",
-          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
-        },
-        {
-          "name": "Kodak Black",
-          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
-        }
-      ],
-      "duration_ms": 204664,
-      "name": "Wake Up in the Sky",
-      "url": "https://open.spotify.com/track/0QIjsbm2fh1cJ45XO9eGqq"
-    },
-    {
-      "added_at": "2023-10-12 21:27:30",
-      "album": {
         "name": "Mama's Boy",
         "url": "https://open.spotify.com/album/6dgC3pUWlaKFLbm1sIQxGA"
       },
@@ -431,6 +463,22 @@
       "duration_ms": 155721,
       "name": "Mama's Boy",
       "url": "https://open.spotify.com/track/65leXqfkdViSssEVN23uYL"
+    },
+    {
+      "added_at": "2023-10-12 21:27:30",
+      "album": {
+        "name": "Barbie",
+        "url": "https://open.spotify.com/album/2YvG8ptg1hzWzX0pXA4bbg"
+      },
+      "artists": [
+        {
+          "name": "JaidynAlexis",
+          "url": "https://open.spotify.com/artist/1bu90rjktSmOd2wveQoIKi"
+        }
+      ],
+      "duration_ms": 128000,
+      "name": "Barbie",
+      "url": "https://open.spotify.com/track/0wnZP5KJSJ8xmTJmmjOqwr"
     },
     {
       "added_at": "2023-10-12 21:27:30",
@@ -497,6 +545,22 @@
       "url": "https://open.spotify.com/track/5Eh1nj7IjV9lwpcKAkidyY"
     },
     {
+      "added_at": "2023-10-18 14:33:29",
+      "album": {
+        "name": "500lbs",
+        "url": "https://open.spotify.com/album/2Ro9gydgq5JWy7b22zPty9"
+      },
+      "artists": [
+        {
+          "name": "Lil Tecca",
+          "url": "https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo"
+        }
+      ],
+      "duration_ms": 144390,
+      "name": "500lbs",
+      "url": "https://open.spotify.com/track/1xWkeSPhf3bZqHY7Ncz8vp"
+    },
+    {
       "added_at": "2023-10-12 21:27:30",
       "album": {
         "name": "UTOPIA",
@@ -537,6 +601,26 @@
       "url": "https://open.spotify.com/track/04hgBWsBDEyVP8pH0BCZbG"
     },
     {
+      "added_at": "2023-10-12 21:27:30",
+      "album": {
+        "name": "Rodeo (Remix)",
+        "url": "https://open.spotify.com/album/2grKiiEtU4ij4yPgvlBGTq"
+      },
+      "artists": [
+        {
+          "name": "Lah Pat",
+          "url": "https://open.spotify.com/artist/6dhd3wcal02KeLBk5wScfd"
+        },
+        {
+          "name": "Flo Milli",
+          "url": "https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd"
+        }
+      ],
+      "duration_ms": 245959,
+      "name": "Rodeo (Remix)",
+      "url": "https://open.spotify.com/track/035MzEbx4z2DxuRDymHXbv"
+    },
+    {
       "added_at": "2023-10-17 13:41:03",
       "album": {
         "name": "critical prosperity",
@@ -569,26 +653,6 @@
       "url": "https://open.spotify.com/track/52OWRufMrpxRcv3Sy97A42"
     },
     {
-      "added_at": "2023-10-12 21:27:30",
-      "album": {
-        "name": "Rodeo (Remix)",
-        "url": "https://open.spotify.com/album/2grKiiEtU4ij4yPgvlBGTq"
-      },
-      "artists": [
-        {
-          "name": "Lah Pat",
-          "url": "https://open.spotify.com/artist/6dhd3wcal02KeLBk5wScfd"
-        },
-        {
-          "name": "Flo Milli",
-          "url": "https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd"
-        }
-      ],
-      "duration_ms": 245959,
-      "name": "Rodeo (Remix)",
-      "url": "https://open.spotify.com/track/035MzEbx4z2DxuRDymHXbv"
-    },
-    {
       "added_at": "2023-10-17 02:08:45",
       "album": {
         "name": "For All The Dogs",
@@ -615,22 +679,6 @@
     {
       "added_at": "2023-10-12 21:27:30",
       "album": {
-        "name": "Barbie",
-        "url": "https://open.spotify.com/album/2YvG8ptg1hzWzX0pXA4bbg"
-      },
-      "artists": [
-        {
-          "name": "JaidynAlexis",
-          "url": "https://open.spotify.com/artist/1bu90rjktSmOd2wveQoIKi"
-        }
-      ],
-      "duration_ms": 128000,
-      "name": "Barbie",
-      "url": "https://open.spotify.com/track/0wnZP5KJSJ8xmTJmmjOqwr"
-    },
-    {
-      "added_at": "2023-10-12 21:27:30",
-      "album": {
         "name": "Flower Boy",
         "url": "https://open.spotify.com/album/2nkto6YNI4rUYTLqEwWJ3o"
       },
@@ -647,6 +695,22 @@
       "duration_ms": 180386,
       "name": "See You Again (feat. Kali Uchis)",
       "url": "https://open.spotify.com/track/7KA4W4McWYRpgf0fWsJZWB"
+    },
+    {
+      "added_at": "2023-10-12 21:27:30",
+      "album": {
+        "name": "Romance",
+        "url": "https://open.spotify.com/album/3Vsbl0diFGw8HNSjG8ue9m"
+      },
+      "artists": [
+        {
+          "name": "Camila Cabello",
+          "url": "https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF"
+        }
+      ],
+      "duration_ms": 219742,
+      "name": "Shameless",
+      "url": "https://open.spotify.com/track/2ogKhhoMClkFXek7ZgxAhN"
     },
     {
       "added_at": "2023-10-12 21:27:30",
@@ -715,6 +779,26 @@
       "duration_ms": 142334,
       "name": "Seg\u00fan Qui\u00e9n",
       "url": "https://open.spotify.com/track/4bw8mcDUSRWfQo63ZTYRnU"
+    },
+    {
+      "added_at": "2023-10-18 14:33:29",
+      "album": {
+        "name": "Kittyponeo",
+        "url": "https://open.spotify.com/album/2u2IVr3kVR13lr517rvcjM"
+      },
+      "artists": [
+        {
+          "name": "Bellakath",
+          "url": "https://open.spotify.com/artist/4yjm4SvYqC5FFuLbB6TyHr"
+        },
+        {
+          "name": "Dani Flow",
+          "url": "https://open.spotify.com/artist/1yX62RHdYysNcIrO33WQxJ"
+        }
+      ],
+      "duration_ms": 159170,
+      "name": "Reggaeton Champagne",
+      "url": "https://open.spotify.com/track/7yIIeKUxTpn36X6CFJhgEi"
     },
     {
       "added_at": "2023-10-12 21:27:30",
@@ -799,22 +883,6 @@
       "duration_ms": 164844,
       "name": "Normal People Things",
       "url": "https://open.spotify.com/track/1vJmd8YIIAz6XQ9GHlUr5p"
-    },
-    {
-      "added_at": "2023-10-12 21:27:30",
-      "album": {
-        "name": "Romance",
-        "url": "https://open.spotify.com/album/3Vsbl0diFGw8HNSjG8ue9m"
-      },
-      "artists": [
-        {
-          "name": "Camila Cabello",
-          "url": "https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF"
-        }
-      ],
-      "duration_ms": 219742,
-      "name": "Shameless",
-      "url": "https://open.spotify.com/track/2ogKhhoMClkFXek7ZgxAhN"
     },
     {
       "added_at": "2023-10-12 21:27:30",
@@ -1603,22 +1671,6 @@
       "duration_ms": 169573,
       "name": "From The Start",
       "url": "https://open.spotify.com/track/1Ukxccao1BlWrPhYkcXbwZ"
-    },
-    {
-      "added_at": "2023-10-12 21:27:30",
-      "album": {
-        "name": "Her Love Still Haunts Me Like a Ghost",
-        "url": "https://open.spotify.com/album/3q6BNwqgHKVzXzAv2ZV6tD"
-      },
-      "artists": [
-        {
-          "name": "Montell Fish",
-          "url": "https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2"
-        }
-      ],
-      "duration_ms": 208000,
-      "name": "Bathroom",
-      "url": "https://open.spotify.com/track/3sLTYBYs6lJsFK84t2X7wt"
     },
     {
       "added_at": "2023-10-12 21:27:30",

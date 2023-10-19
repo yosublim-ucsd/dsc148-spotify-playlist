@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX60xkhEfNtud.md) - [plain]
 
 > Whale song from the deep underwater world of the oceans
 
-[Spotify](https://open.spotify.com/user/spotify) - 163,460 likes - 50 songs - 2 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 163,557 likes - 50 songs - 2 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,8 +42,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX60xkhEfNtud.md) - [plain]
 | 32 | [Whales in the Sea I](https://open.spotify.com/track/4EurqEfun9u48PPN7IBUAC) | [Shoreline Sounds](https://open.spotify.com/artist/1AHEZC4lubUe98hmgYLxqw) | [Whales in the Sea](https://open.spotify.com/album/4Oo0VSZpJ0RjsaJf3oSQhW) | 3:12 |
 | 33 | [Whale Echoes](https://open.spotify.com/track/7spTUvcgwfHUAiBy5wBUJL) | [The Right Noises](https://open.spotify.com/artist/68HmrxxSwi1z5OvNg7ufJQ) | [Whale Echoes](https://open.spotify.com/album/0PmVS4rNzwKlxRLH7Cf2PV) | 2:26 |
 | 34 | [Binaural Whales Sound 2](https://open.spotify.com/track/0QQL2dGifMFHOpHRTjPuHB) | [Binaural reality](https://open.spotify.com/artist/3KpX5Ou0IqshHEM41e3AOn) | [Binaural Whales Sound](https://open.spotify.com/album/3xenWQBXBV8ONUKEW0ww0b) | 3:25 |
-| 35 | [Harmonious Woodscape](https://open.spotify.com/track/0qTQh91AxYQEf0fOgEkqD0) | [Nature Recordings](https://open.spotify.com/artist/4xE3NbWDeC7BEIlzQIjG5H) | [Harmonious Woodscape](https://open.spotify.com/album/43Jj479qaAzmeYgwiFr7l8) | 2:40 |
-| 36 | [Distant Underwater Whales Sounds](https://open.spotify.com/track/6JB3nlgWptOPom3PhaTxvj) | [Humpback Sounds](https://open.spotify.com/artist/5DCq6izASQ7Gzatgynkz5k) | [Ambient Whale Sounds](https://open.spotify.com/album/2pWbLGvbfu7tSMdSb4ACq7) | 2:13 |
+| 35 | [Distant Underwater Whales Sounds](https://open.spotify.com/track/6JB3nlgWptOPom3PhaTxvj) | [Humpback Sounds](https://open.spotify.com/artist/5DCq6izASQ7Gzatgynkz5k) | [Ambient Whale Sounds](https://open.spotify.com/album/2pWbLGvbfu7tSMdSb4ACq7) | 2:13 |
+| 36 | [Harmonious Woodscape](https://open.spotify.com/track/0qTQh91AxYQEf0fOgEkqD0) | [Nature Recordings](https://open.spotify.com/artist/4xE3NbWDeC7BEIlzQIjG5H) | [Harmonious Woodscape](https://open.spotify.com/album/43Jj479qaAzmeYgwiFr7l8) | 2:40 |
 | 37 | [Whale Song I](https://open.spotify.com/track/1200m91gtne5JWrxvRaslI) | [Underwater Sound](https://open.spotify.com/artist/2KJNQj4A21Hd22sjTEpTiq) | [Whale Songs](https://open.spotify.com/album/3Nc01wKpTZjhGhyvES5eNr) | 3:16 |
 | 38 | [Balaenoptera Musculus](https://open.spotify.com/track/2AxtKjQpaxjSpNDP8cvTAZ) | [ORCA](https://open.spotify.com/artist/59GmYZwizY9Xmk1CUsHpSq) | [Songs Of The Sea](https://open.spotify.com/album/5dGS7JyLoGnTlLs5f19oaM) | 3:00 |
 | 39 | [Underwater Orchestra](https://open.spotify.com/track/6WRf9XzUcFR9UUwPFkeaHe) | [The Marine Mammals](https://open.spotify.com/artist/1tkLiFoRextGEuUEjc5QcQ) | [Underwater Orchestra](https://open.spotify.com/album/6kx2CDWAq6wuT3dBPSe1XD) | 2:18 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX60xkhEfNtud.md) - [plain]
 | 49 | [Invisible Deep Whales II](https://open.spotify.com/track/62xI0FUSIEiSRHkTOYaOCq) | [Underwater Sound](https://open.spotify.com/artist/2KJNQj4A21Hd22sjTEpTiq) | [Invisible Deep Whales](https://open.spotify.com/album/0HVRCh8U2Z9BlSwZGDsHRu) | 3:06 |
 | 50 | [Restful Reverberations \(Whale Sounds\)](https://open.spotify.com/track/0bagLXr8538aOXIAjvwY7J) | [Underwater Sound](https://open.spotify.com/artist/2KJNQj4A21Hd22sjTEpTiq) | [Restful Reverberations \(Whale Sounds\)](https://open.spotify.com/album/3eL8asslMtf0HAMTgL2xQb) | 3:12 |
 
-Snapshot ID: `MCw4MDc5N2ZiOTg0YTFlN2Y3ZjczOGVkYWM4ZTE4NDBhZGQ1YjI5Nzg0`
+Snapshot ID: `MCwzZWExMDQxOTk3NDYwOWE4N2E2MmQyMDZkNmU3Mzk3ZTVjMmNjOGNm`

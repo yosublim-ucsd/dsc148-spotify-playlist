@@ -4,7 +4,7 @@
 
 > La orilla donde el indie se fusiona con la electrónica.
 
-119 songs - 7 hr 24 min
+120 songs - 7 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -89,7 +89,8 @@
 | [Nagano](https://open.spotify.com/track/5qTnlwbe18VRvDJQYAreGW) | [CLUBZ](https://open.spotify.com/artist/6MoZZABXeQwEmzmcwICxwK), [Ela Minus](https://open.spotify.com/artist/4rdJkXHNrMgowlwUdQAg8T) | [Destellos](https://open.spotify.com/album/2X4swA3UkpqAS8bbXYgP9k) | 3:03 | 2022-01-07 | 2023-03-11 |
 | [Navego](https://open.spotify.com/track/5ADyMWZM9dBKvRjCrfbu7j) | [Ana Sanz](https://open.spotify.com/artist/1wFieEqzZtcjkSIHtVk2YD) | [Kinesis](https://open.spotify.com/album/5NmANPMiXncyAwoNXOW9tK) | 3:19 | 2023-03-10 |  |
 | [No Holiday](https://open.spotify.com/track/6nE5K2tai7r95jyxYPqxv6) | [Digitalism](https://open.spotify.com/artist/2fBURuq7FrlH6z5F92mpOl) | [No Holiday](https://open.spotify.com/album/2WgX7bKVk0vYKBGMkJeO15) | 2:47 | 2022-01-07 | 2022-03-18 |
-| [No Tengo Tiempo](https://open.spotify.com/track/0J5PXybiNqoNQrethIsoDX) | [Armenia](https://open.spotify.com/artist/4FmrAtWfKHAIysakSpmatx) | [No Tengo Tiempo](https://open.spotify.com/album/3QYc5uXxdDb6NpSIl9FUyV) | 2:50 | 2023-03-10 |  |
+| [No Tengo Tiempo](https://open.spotify.com/track/0J5PXybiNqoNQrethIsoDX) | [Armenia](https://open.spotify.com/artist/4FmrAtWfKHAIysakSpmatx) | [No Tengo Tiempo](https://open.spotify.com/album/3QYc5uXxdDb6NpSIl9FUyV) | 2:50 | 2023-03-10 | 2023-10-19 |
+| [No Tengo Tiempo](https://open.spotify.com/track/7hmvkFDZGMLaRyHMBySatI) | [Armenia](https://open.spotify.com/artist/4FmrAtWfKHAIysakSpmatx) | [ARMN](https://open.spotify.com/album/5ZKQlMu308fEdUEOYXUjIp) | 2:50 | 2023-03-10 |  |
 | [Not Into You](https://open.spotify.com/track/4ZJwt3yb5gVCufioOQHBKS) | [Brooksie](https://open.spotify.com/artist/597h7tVXuB7UPU6uWKhRkO) | [Not Into You](https://open.spotify.com/album/0XXB3NjTAInL9dSZkMBVHI) | 2:37 | 2022-01-07 | 2022-01-22 |
 | [nu love](https://open.spotify.com/track/65ateMRfXeMudz8VLmUrir) | [Kirnbauer](https://open.spotify.com/artist/76KihzDzdR7li8RPVY50EA) | [nu love](https://open.spotify.com/album/14kHubdslzsNufp8qf7jgW) | 3:29 | 2022-01-07 |  |
 | [Nunca Nunca](https://open.spotify.com/track/01RidTuR638AM20oXDqD1u) | [La Máquina Camaleón](https://open.spotify.com/artist/6NIyDDyPBRTyPZ6ggjE8Rj), [Neoma](https://open.spotify.com/artist/1rS9ZvNEWqnKY19g6uiqip) | [Nunca Nunca](https://open.spotify.com/album/6p7mLTPzEfaCvFTQXI5EL6) | 2:51 | 2023-03-10 |  |

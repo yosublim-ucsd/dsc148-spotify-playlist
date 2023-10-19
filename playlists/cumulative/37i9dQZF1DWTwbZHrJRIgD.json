@@ -1928,7 +1928,7 @@
       ],
       "date_added": "2022-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-19",
       "duration_ms": 181176,
       "name": "Liggi",
       "url": "https://open.spotify.com/track/7tbzfR8ZvZzJEzy6v0d6el"
@@ -2458,6 +2458,24 @@
       "duration_ms": 178955,
       "name": "Pappi Jhappi",
       "url": "https://open.spotify.com/track/5tMipBSvSMeppvepjQnbex"
+    },
+    {
+      "album": {
+        "name": "Parinaam",
+        "url": "https://open.spotify.com/album/4cQvaQtUd2Vjq0M8SNzyRv"
+      },
+      "artists": [
+        {
+          "name": "Dorwin John",
+          "url": "https://open.spotify.com/artist/1WrRZqtc5zXX95BV270M1v"
+        }
+      ],
+      "date_added": "2023-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135150,
+      "name": "Parinaam",
+      "url": "https://open.spotify.com/track/3xJ0OLjMdcuvcYQiUAcGlz"
     },
     {
       "album": {

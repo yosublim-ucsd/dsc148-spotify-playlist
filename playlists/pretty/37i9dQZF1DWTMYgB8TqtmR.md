@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTMYgB8TqtmR.md) - [plain]
 
 > It's Hits – största och bästa hitsen just nu!
 
-[Spotify](https://open.spotify.com/user/spotify) - 731,613 likes - 50 songs - 2 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 731,635 likes - 50 songs - 2 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,8 +27,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTMYgB8TqtmR.md) - [plain]
 | 17 | [Saudade](https://open.spotify.com/track/1KB9MeVcnX2rjNGRYvP4aU) | [Hov1](https://open.spotify.com/artist/68dW5BU6sdVNf099EylxEt), [Håkan Hellström](https://open.spotify.com/artist/3H7Ez7cwaYw4L3ELy4v3Lc) | [Saudade](https://open.spotify.com/album/5ryLFHTIipAHhnxUVjmytI) | 3:17 |
 | 18 | [Water](https://open.spotify.com/track/5aIVCx5tnk0ntmdiinnYvw) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [Water](https://open.spotify.com/album/22sXXkKgjEuawIFL1e1tRw) | 3:20 |
 | 19 | [greedy](https://open.spotify.com/track/3rUGC1vUpkDG9CZFHMur1t) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [greedy](https://open.spotify.com/album/3UOV8XvCwMKaATRNXrYCjN) | 2:11 |
-| 20 | [Dans från dig](https://open.spotify.com/track/2u85ptzhLjdL4iHV5pNUtb) | [Einár](https://open.spotify.com/artist/0kKygNaCQjqVLrImIftRDJ), [Sara Kurt](https://open.spotify.com/artist/0ap6IhwNQwrARwuwzTjKIh), [Le Winter](https://open.spotify.com/artist/3dtPDEZGp9vvPpe8reKHUR) | [Dans från dig](https://open.spotify.com/album/0cVVi5pOnxXno0Krda4f8g) | 2:16 |
-| 21 | [Gently \(feat\. Bad Bunny\)](https://open.spotify.com/track/6ZprqcYFC6D9eIZaCoqrSn) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [For All The Dogs](https://open.spotify.com/album/4czdORdCWP9umpbhFXK2fW) | 2:13 |
+| 20 | [IDGAF \(feat\. Yeat\)](https://open.spotify.com/track/2YSzYUF3jWqb9YP9VXmpjE) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx) | [For All The Dogs](https://open.spotify.com/album/4czdORdCWP9umpbhFXK2fW) | 4:20 |
+| 21 | [Dans från dig](https://open.spotify.com/track/2u85ptzhLjdL4iHV5pNUtb) | [Einár](https://open.spotify.com/artist/0kKygNaCQjqVLrImIftRDJ), [Sara Kurt](https://open.spotify.com/artist/0ap6IhwNQwrARwuwzTjKIh), [Le Winter](https://open.spotify.com/artist/3dtPDEZGp9vvPpe8reKHUR) | [Dans från dig](https://open.spotify.com/album/0cVVi5pOnxXno0Krda4f8g) | 2:16 |
 | 22 | [Natten blir till dag](https://open.spotify.com/track/2cqyU75B4rXPHlU2X6WLCI) | [Victor Leksell](https://open.spotify.com/artist/6RJXSfbIkEMoCJ8GAg2dVO) | [Natten blir till dag](https://open.spotify.com/album/3AqAKMOt7dNZqbvPAhYzbZ) | 3:04 |
 | 23 | [20\-nånting](https://open.spotify.com/track/2xUPpHWbm8dCqhNqZtk7B6) | [estraden](https://open.spotify.com/artist/2Osj5g9VkHReOlZgfoEQao) | [20\-nånting](https://open.spotify.com/album/5bJi4q157OiMjxJJVzbQCL) | 3:19 |
 | 24 | [Strangers](https://open.spotify.com/track/5mjYQaktjmjcMKcUIcqz4s) | [Kenya Grace](https://open.spotify.com/artist/7uMDnSZyUYNBPLhPMNuaM2) | [Strangers](https://open.spotify.com/album/18ogtNq9F7DmMkNYO6Xb4k) | 2:52 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTMYgB8TqtmR.md) - [plain]
 | 49 | [Durackord](https://open.spotify.com/track/3GhXLFuS9GSzWqrrjlqRoX) | [Tjuvjakt](https://open.spotify.com/artist/0XDfNJsQy7B3q0GfsMHSkp), [ADAAM](https://open.spotify.com/artist/7zLm9op6LgPqKL62d1FzhO) | [Durackord](https://open.spotify.com/album/2XMFONFWIuKj3Uwjzc4t08) | 2:59 |
 | 50 | [Dance The Night \- From Barbie The Album](https://open.spotify.com/track/1vYXt7VSjH9JIM5oRRo7vA) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Dance The Night \(From Barbie The Album\)](https://open.spotify.com/album/5cH7FqB7JD5q1tJXJ7FHYu) | 2:56 |
 
-Snapshot ID: `MCw3MDRmM2E3NTU5MmE4ZjY5MzgwNDU4ZDJhNDgyNjlkMzY3Y2JmNGVm`
+Snapshot ID: `MCxmNDgyZDZmYjQyZWEwYzExZWYzNTFmNzQ0ZTEwNWM3NmZhMTE0NzRi`

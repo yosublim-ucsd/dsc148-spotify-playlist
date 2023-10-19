@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWY5glQ3K3VV.md) - [plain]
 
 > Canzoni rap per party fino al mattino! Cover: ANNA, Capo Plaza, AVA
 
-[Spotify](https://open.spotify.com/user/spotify) - 89,941 likes - 80 songs - 4 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 90,006 likes - 80 songs - 4 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,8 +63,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWY5glQ3K3VV.md) - [plain]
 | 53 | [Suave \(feat\. VillaBanks\)](https://open.spotify.com/track/4dswUsqTDCqWpmQlhFqedk) | [Mikush](https://open.spotify.com/artist/3eBlbhY21Q1L6xwbVMCQa1), [VillaBanks](https://open.spotify.com/artist/3ASAxVN1hNoYfoMcIkzZWL), [Timongothekeys](https://open.spotify.com/artist/1pXa6QH7HpQcw3FCP7MQQk), [Linch](https://open.spotify.com/artist/0NWr9rFOUD5cFtprFySf5p) | [Suave \(feat\. VillaBanks\)](https://open.spotify.com/album/2rILNUxABq3b74Ucczc1zV) | 3:17 |
 | 54 | [HO PAURA DI USCIRE 2 \- prod\. Mace](https://open.spotify.com/track/0nFCpnM7nistUWXRZpzOWM) | [MACHETE](https://open.spotify.com/artist/7Do8se3ZoaVqUt3woqqSrD), [Salmo](https://open.spotify.com/artist/3hBQ4zniNdQf1cqqo6hzuW), [Lazza](https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM) | [MACHETE MIXTAPE 4](https://open.spotify.com/album/5OOd2aAkgZJlYRqYlT1Axz) | 2:57 |
 | 55 | [ALYX \(feat\. Capo Plaza\)](https://open.spotify.com/track/5ifarM7jfplX1EqkqMHlDq) | [Lazza](https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM), [Capo Plaza](https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n) | [J](https://open.spotify.com/album/4vCqEvwOICd6NwnsuhWzUO) | 3:03 |
-| 56 | [Bossoli](https://open.spotify.com/track/5mn8bU8IjYqr8ZqTDmLtSO) | [Shiva](https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS) | [Bossoli](https://open.spotify.com/album/6DkNp8K9LeYR2xryLdW7Sq) | 2:58 |
-| 57 | [DIOSA \(feat\. Peppe Soks\) \- Remix](https://open.spotify.com/track/0ehq7roFoMrq58lI4Rdnys) | [Nathys](https://open.spotify.com/artist/4WEY1EtpUsTc7DkeqABuxf), [Peppe Soks](https://open.spotify.com/artist/2BNVHk103mhpIy5ytlCHTT) | [DIOSA \(feat\. Peppe Soks\) \[Remix\]](https://open.spotify.com/album/3l3aLZNlUQfhIMKApwHVVE) | 2:23 |
+| 56 | [DIOSA \(feat\. Peppe Soks\) \- Remix](https://open.spotify.com/track/0ehq7roFoMrq58lI4Rdnys) | [Nathys](https://open.spotify.com/artist/4WEY1EtpUsTc7DkeqABuxf), [Peppe Soks](https://open.spotify.com/artist/2BNVHk103mhpIy5ytlCHTT) | [DIOSA \(feat\. Peppe Soks\) \[Remix\]](https://open.spotify.com/album/3l3aLZNlUQfhIMKApwHVVE) | 2:23 |
+| 57 | [Bossoli](https://open.spotify.com/track/5mn8bU8IjYqr8ZqTDmLtSO) | [Shiva](https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS) | [Bossoli](https://open.spotify.com/album/6DkNp8K9LeYR2xryLdW7Sq) | 2:58 |
 | 58 | [Twerk \(con Boro\)](https://open.spotify.com/track/4jiCUUfjuJoG03gnw3jj1r) | [MamboLosco](https://open.spotify.com/artist/4BFn4jmfqSNaHtPWHTcy41), [Boro](https://open.spotify.com/artist/1hHYi4Vy83BGo6TqKd98hu) | [Arte](https://open.spotify.com/album/335zYmm0dgfHw5Ki2yyKXQ) | 2:32 |
 | 59 | [La zone \(feat\. Shiva\)](https://open.spotify.com/track/2Q1ICiLBk9lmLQz7GhMoWB) | [Rhove](https://open.spotify.com/artist/44DWomjW1oDuxIoBIRpmQ4), [Shiva](https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS) | [La zone \(feat\. Shiva\)](https://open.spotify.com/album/4zZrt7ZP0AmUCdxTJxBN6M) | 2:38 |
 | 60 | [SENZA RUMORE](https://open.spotify.com/track/2Z7sJKCxTH94KCRxJTd4O7) | [Lazza](https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM) | [SIRIO](https://open.spotify.com/album/2v7KXdLrb81rGL9G7jwcjF) | 3:49 |
@@ -85,8 +85,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWY5glQ3K3VV.md) - [plain]
 | 75 | [Candy](https://open.spotify.com/track/3a3EzSxWvDno8RpTMv7Xch) | [VillaBanks](https://open.spotify.com/artist/3ASAxVN1hNoYfoMcIkzZWL), [Vale Pain](https://open.spotify.com/artist/1ZDu0fOcpCIjDwyl2cvk08), [Linch](https://open.spotify.com/artist/0NWr9rFOUD5cFtprFySf5p), [Bovychulo](https://open.spotify.com/artist/6plozBCtFKJrw4g5Jo7MqI) | [Non Lo So](https://open.spotify.com/album/6Fet7iydk3JT8R6SPZYXfa) | 2:22 |
 | 76 | [No wallet \(feat\. Marracash\)](https://open.spotify.com/track/7EPJ1OFdXVw0eA5gvZziEv) | [Paky](https://open.spotify.com/artist/1KQJOTeIMbixtnSWY4sYs2), [Marracash](https://open.spotify.com/artist/5AZuEF0feCXMkUCwQiQlW7) | [Salvatore](https://open.spotify.com/album/5YMLvb4ZjBfVwJMf6dTKRZ) | 2:02 |
 | 77 | [No y No](https://open.spotify.com/track/2QyTXB4a7l7NBBceBhXt5e) | [Morad](https://open.spotify.com/artist/4az97MtWmBQ5Db3GfDh9j9) | [No y No](https://open.spotify.com/album/3SX1BaZrZ9mLBnwbj1MsJ4) | 4:15 |
-| 78 | [Porto Cervo](https://open.spotify.com/track/0TAt3c8KXb1D3sWT8ENar8) | [Lazza](https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM) | [Porto Cervo](https://open.spotify.com/album/1pNAKQCX4G0ckRX1uetoJZ) | 3:55 |
-| 79 | [Gli Occhi del Blocco \(feat\. Escomar\)](https://open.spotify.com/track/2dKfIsCs1XhlDZrLjuTbX5) | [Baby Gang](https://open.spotify.com/artist/3LvwPiJQJ0da0GurKMToV0), [Escomar](https://open.spotify.com/artist/6o4HwHVQqXnSxpHxII3KJw) | [EP1](https://open.spotify.com/album/3bZxXrtUV3uiT3Y3OOAvqP) | 2:55 |
+| 78 | [Gli Occhi del Blocco \(feat\. Escomar\)](https://open.spotify.com/track/2dKfIsCs1XhlDZrLjuTbX5) | [Baby Gang](https://open.spotify.com/artist/3LvwPiJQJ0da0GurKMToV0), [Escomar](https://open.spotify.com/artist/6o4HwHVQqXnSxpHxII3KJw) | [EP1](https://open.spotify.com/album/3bZxXrtUV3uiT3Y3OOAvqP) | 2:55 |
+| 79 | [Porto Cervo](https://open.spotify.com/track/0TAt3c8KXb1D3sWT8ENar8) | [Lazza](https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM) | [Porto Cervo](https://open.spotify.com/album/1pNAKQCX4G0ckRX1uetoJZ) | 3:55 |
 | 80 | [SPLASH \(feat\. Enzo Dong\)](https://open.spotify.com/track/0CjTQ01ADXx3BMO07LxpKx) | [MV Killa](https://open.spotify.com/artist/0QqmgpgI0C1DyyDk49vnxY), [Yung Snapp](https://open.spotify.com/artist/4y5lvMadZv6NAv8RgcCRem), [Enzo Dong](https://open.spotify.com/artist/7iCdyOeJYk06mKJ6nLrFQ6) | [HOURS](https://open.spotify.com/album/6wo9LoC6T6VWdsSR35SXlE) | 2:52 |
 
-Snapshot ID: `MCw1OGExMmM5YWJmNjUyOGFkZGZhNmRmZDQ4ZmQ4NWI0ZDI1NDYxZDM0`
+Snapshot ID: `MCxjNGFlMGI0NDBkMjQ5MjQ2NDk0OTg1MzhiNmRkZmQ4NWRlMmFlNjA5`

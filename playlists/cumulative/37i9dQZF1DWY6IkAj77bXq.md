@@ -4,11 +4,12 @@
 
 > Resonancias luminiscentes para llenar de paz tu alma.
 
-170 songs - 8 hr 32 min
+171 songs - 8 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [A Mind At Peace](https://open.spotify.com/track/6HreYBZASx5JJR82jvZCNs) | [Ramos Goya](https://open.spotify.com/artist/51ZB0MgNvM5OYR47z0wEDj) | [A Mind At Peace](https://open.spotify.com/album/3Uh5lwdmIItGFysG7thSkz) | 2:42 | 2022-11-11 |  |
+| [A New Day](https://open.spotify.com/track/4hI39WJTJdxfLZIxw1P4xZ) | [Oscar Sol](https://open.spotify.com/artist/47EU0ZJnqLxIpe8EwyDDce) | [A New Day](https://open.spotify.com/album/1iW2YQx2uFHUVVPwBCVBpW) | 2:36 | 2023-10-06 |  |
 | [A Silent Moon](https://open.spotify.com/track/4j4ZWRfaWnFou23po51hpn) | [Atmosferion](https://open.spotify.com/artist/0iwtwRDn1bcb5lbOsFfoFc) | [A Silent Moon](https://open.spotify.com/album/614CGNxEe7t1cwpRQjit8H) | 3:08 | 2022-11-11 |  |
 | [A Space Within a Space](https://open.spotify.com/track/37WWBXEkERdURM1S9SCuwW) | [Escape Gravity](https://open.spotify.com/artist/2CVd5odoymaLOr5rMix7js) | [A Space Within a Space](https://open.spotify.com/album/3EVxBEAzWfSUuVDRZ8Qync) | 3:11 | 2022-07-05 | 2022-07-29 |
 | [A Space Within a Space](https://open.spotify.com/track/5SDQFvu8ltjkYlsZOxAOxM) | [Escape Gravity](https://open.spotify.com/artist/2CVd5odoymaLOr5rMix7js) | [A Space Within a Space](https://open.spotify.com/album/7p6Ea9bHvmGuf5YD9WKMMp) | 3:11 | 2022-09-02 |  |
@@ -101,7 +102,7 @@
 | [Nature of Life](https://open.spotify.com/track/4EaHb0wumMJODjK2vsoqTI) | [Ozo Nakuru](https://open.spotify.com/artist/2HhQt5oH01WtYFmwM2yVo7) | [Nature of Life](https://open.spotify.com/album/6l6qwBSjrCfVaNrJE4r6DE) | 2:39 | 2022-10-14 |  |
 | [Nature's Embrace](https://open.spotify.com/track/7iASF4SyBJIHg7PM3rEpTR) | [David Tobin](https://open.spotify.com/artist/37WB1QgTG301CGchCHTQ5O), [Jeff Meegan](https://open.spotify.com/artist/2XS2MrkksPqxbs0jputTr8) | [Ambient Sleep Bliss](https://open.spotify.com/album/6N4hsBasKsW1LAuv2bPKNp) | 4:12 | 2023-04-28 |  |
 | [Nature's Embrace](https://open.spotify.com/track/5m3jRldCUrybs5M95MMoRb) | [Meditación Música Ambiente](https://open.spotify.com/artist/5LJBMRcPlMWzJeCILYD48q) | [Natural Essentials](https://open.spotify.com/album/3wNDHjotE7OuXmTmjXlmyS) | 4:12 | 2022-07-19 | 2022-07-29 |
-| [Niobe](https://open.spotify.com/track/0OEUIVHPNUXHoIgt4qxZW3) | [Hello Artemisia!](https://open.spotify.com/artist/5A05k3XjnB2j83Vw8Iigx3) | [Nebulae](https://open.spotify.com/album/6L1zv90N3x8xOzXASWr8jj) | 3:09 | 2023-10-04 |  |
+| [Niobe](https://open.spotify.com/track/0OEUIVHPNUXHoIgt4qxZW3) | [Hello Artemisia!](https://open.spotify.com/artist/5A05k3XjnB2j83Vw8Iigx3) | [Nebulae](https://open.spotify.com/album/6L1zv90N3x8xOzXASWr8jj) | 3:09 | 2023-10-04 | 2023-10-19 |
 | [No Stress](https://open.spotify.com/track/4x1rCoArznEyfhBqDKgG98) | [Sleeping Culture](https://open.spotify.com/artist/6wIHPaNyPH048cNyeskFH3), [Quiet Music Academy](https://open.spotify.com/artist/5tcoDKPUGotuCohyrYXvJ9) | [Sleep Better Tonight: Feeling Rested and Staying Healthy](https://open.spotify.com/album/2wXBlv9PFC9Mkw4DsuLR9I) | 5:39 | 2022-07-05 | 2022-07-29 |
 | [Oh so Quiet](https://open.spotify.com/track/4VRWsEwCyHInmiS7AV0hn9) | [The Silent Ocean](https://open.spotify.com/artist/2MJ2VZRWH4mMHW5S0dISxN) | [Oh so Quiet](https://open.spotify.com/album/7hA3Z4F90GoBPxsNz8DZj4) | 3:10 | 2022-07-05 |  |
 | [Orphic](https://open.spotify.com/track/6KyPQhcAuRJxeq0Rwab6Jk) | [The Nowhows](https://open.spotify.com/artist/0yv3AGgMUbIJR6DROh35j1) | [Orphic](https://open.spotify.com/album/0MrCJsyAgkx4K5aJmvfIMA) | 3:00 | 2022-09-13 |  |
@@ -113,7 +114,7 @@
 | [Pegasus](https://open.spotify.com/track/0N08dxkNnilnHjjRhCL9V1) | [Fleurs de Son](https://open.spotify.com/artist/4vlZU5f5zVuZsVk11MeDd3) | [Pegasus](https://open.spotify.com/album/45XW5GtxG6TdPEEgvA7Jul) | 3:31 | 2022-07-19 |  |
 | [Placebo](https://open.spotify.com/track/1a20QUimSwgqSjWYFFUF1G) | [Laura Dawson](https://open.spotify.com/artist/1IM8iJAfKOjMCKp7UJGAP9) | [Cloudy Texture](https://open.spotify.com/album/2dd61B0M71AQOsG7bKgcRE) | 3:09 | 2023-03-31 |  |
 | [Prieks](https://open.spotify.com/track/7pDVh7xNFhIBhF6tVSVDBB) | [Adelina Palm](https://open.spotify.com/artist/5EUJpZPU6Oo6v9E5I21qFe) | [Prieks](https://open.spotify.com/album/0ci5ILaulRbEQGxFMCHBrs) | 2:25 | 2023-02-17 |  |
-| [Promised](https://open.spotify.com/track/1fSln3JhzB7Asdi83JTvPa) | [Macroix](https://open.spotify.com/artist/2HZBmRJ4fqmsOnYuhnn16Q) | [Promised](https://open.spotify.com/album/1kTofA1YT3X06ZU94dXJhN) | 2:33 | 2023-06-23 |  |
+| [Promised](https://open.spotify.com/track/1fSln3JhzB7Asdi83JTvPa) | [Macroix](https://open.spotify.com/artist/3ooxJFdCXxyk6heox7EOPV) | [Promised](https://open.spotify.com/album/1kTofA1YT3X06ZU94dXJhN) | 2:33 | 2023-06-23 |  |
 | [Protection](https://open.spotify.com/track/7seUboMUYcCSjiuWfHRqkR) | [Arush Mandal](https://open.spotify.com/artist/5WSATrMjcuhKibg0jp4uHI) | [Pilgrimage](https://open.spotify.com/album/2XWMV5XBqmoPaPxOWLlJGq) | 2:57 | 2022-09-13 |  |
 | [Quiet Melodies](https://open.spotify.com/track/1GSVC5GkI5L1YbQIBZQHUh) | [Jolene Cedar](https://open.spotify.com/artist/41pIg33NrVsSkXuvOcG9Vs) | [Quiet Melodies](https://open.spotify.com/album/2IgwM3tlFn7HtNfvdO6Nmc) | 2:43 | 2022-11-11 |  |
 | [Quiet Stars](https://open.spotify.com/track/2NcRLIAKxwFPCdI8NoffL5) | [Language of Lyrics](https://open.spotify.com/artist/7l76D4b9qcmJjIO5Me5tlC) | [Quiet Stars](https://open.spotify.com/album/4kY0CmaPvEq48UR8W8NTt6) | 3:10 | 2022-11-11 |  |

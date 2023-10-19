@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbBvGj4yKFAG.md) - [plain]
 
 > may include sad indie rock songs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 65,566 likes - 105 songs - 5 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 65,744 likes - 105 songs - 5 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Hickory](https://open.spotify.com/track/5CbNVlWdXkBCu4IiGGz44L) | [Olivia O.](https://open.spotify.com/artist/3iyac4PtyadMKV4uaTgKYE) | [Hickory](https://open.spotify.com/album/7ECrhykJzsa5Mi9HtQYlBk) | 5:05 |
 | 2 | [Kids Driving The Elevator](https://open.spotify.com/track/2pzPC40SA14bElnW9tqgoI) | [Micah Preite](https://open.spotify.com/artist/2jx7boBXTsMt8NvBRH4gYg) | [Kids Driving The Elevator](https://open.spotify.com/album/11q7OSad2MdkC3eh2kEZlO) | 3:01 |
-| 3 | [sometimes](https://open.spotify.com/track/6ITkt5Tn8pOyFyFJROywbt) | [jos](https://open.spotify.com/artist/68eVkVxfqdv4S4NqNyPP3v) | [sometimes](https://open.spotify.com/album/6UcGOBVg7qTyRicxKQM6t7) | 2:28 |
+| 3 | [Sometimes](https://open.spotify.com/track/7d16ACNTVHWFLRAOGL3ZiI) | [alex\_g\_offline](https://open.spotify.com/artist/0bC6e2YtIRLbKx2txHFmEo) | [1234](https://open.spotify.com/album/1LsBYm2WOhgsqca4pxrvse) | 2:32 |
 | 4 | [I'm Always Here](https://open.spotify.com/track/485XGXNp7cvrPSaxJJbJ99) | [sign crushes motorist](https://open.spotify.com/artist/02vrwnrNEeDRV96o9iPSYP) | [Hurting](https://open.spotify.com/album/2iv4j11JOrhPnIz67C9UCT) | 3:20 |
 | 5 | [die](https://open.spotify.com/track/5Qfq800wAIq4iDWOJewzAf) | [Oyatan](https://open.spotify.com/artist/6aQQEOm7P00EQEIt8b13om), [Coffee Stain](https://open.spotify.com/artist/2sXLxDkHv449hp1ZnQIvLv) | [Wouldn’t It Be Easy?](https://open.spotify.com/album/5lSRQqXZTgiK1kYqXSOs9t) | 2:50 |
 | 6 | [never find u](https://open.spotify.com/track/3nnw0R0etFai60nEGMpBhK) | [sombr](https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S) | [never find u](https://open.spotify.com/album/5pgZ9HbqybhEsQ2SuOGZfG) | 2:46 |
@@ -114,4 +114,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbBvGj4yKFAG.md) - [plain]
 | 104 | [So Sweet](https://open.spotify.com/track/5dFkDkyoBw6RXV51zfdvE6) | [Trash Panda](https://open.spotify.com/artist/5D9DTI3Knr64lYa3zDCpB7) | [PANDAMONIUM!](https://open.spotify.com/album/4NyZbFQFYDehtNGYEVwnsU) | 3:24 |
 | 105 | [Tree](https://open.spotify.com/track/5rOpcoSV3iWfoMo3LOKMuJ) | [Richie Quake](https://open.spotify.com/artist/5RmZclxIWvmctw5DNBJyo6) | [Tree](https://open.spotify.com/album/2WFCybtwzBPm7HlUedTgXW) | 2:26 |
 
-Snapshot ID: `MCw0NmQ3NGMwNGQyMDRmNDg5ZjIwNmJiMjM5MzQ2ZDBkMzdlZTAzOWU1`
+Snapshot ID: `MCxhYWQ5N2ExMWYyNzdkZThmYThjMGViOTMwNjgyZjNhM2UwMDNmMDJk`

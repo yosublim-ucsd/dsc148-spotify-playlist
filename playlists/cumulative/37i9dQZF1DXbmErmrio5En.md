@@ -2,9 +2,9 @@
 
 ### [feedBack](https://open.spotify.com/playlist/37i9dQZF1DXbmErmrio5En)
 
-> cool music ft\. Riovaz
+> ft\. Riovaz
 
-320 songs - 14 hr 15 min
+324 songs - 14 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -114,8 +114,11 @@
 | [gluttony](https://open.spotify.com/track/6OCFifBlii2D7QN2upt6mg) | [aldrch](https://open.spotify.com/artist/3WYrAQad51Rnd8BqODF4Em), [Voda Fuji](https://open.spotify.com/artist/5jEpeMsWMRhprOFhAkIWIO) | [gluttony](https://open.spotify.com/album/3i0pG4o0WzP4qxYQ9wdlg7) | 1:57 | 2023-06-23 |  |
 | [gnaw](https://open.spotify.com/track/2tDo8TqJfrQGwtUHxRXP7A) | [heylog](https://open.spotify.com/artist/5Jf6pl4SGgueZHZ4pC313c), [biteki](https://open.spotify.com/artist/0pd6Sz8WXHG3txxWo0tr5K), [静的 Static](https://open.spotify.com/artist/6rEjEIfp3NSRteU3kJGSET), [nevrfall](https://open.spotify.com/artist/3mrAlpu2DUjw8JXhDJhaPm) | [gnaw](https://open.spotify.com/album/69Qlnxmui9wzJ1ZHjVtb4k) | 3:05 | 2023-06-23 | 2023-08-17 |
 | [Go!](https://open.spotify.com/track/6UcEK9qZjNnHLnkZRiKWLk) | [Deaton Chris Anthony](https://open.spotify.com/artist/1n8hLoV90OhFCYXLtCD659) | [SID THE KID](https://open.spotify.com/album/6lQoWpcquJkjgW1yZhNqlV) | 2:43 | 2022-12-04 | 2023-09-19 |
+| [GO! \(feat\. BENKRO\)](https://open.spotify.com/track/6tVghhzof1GBVNWTpJLaZV) | [WHOKILLEDXIX](https://open.spotify.com/artist/0RSogp4qeGu0ZM71JRTay3), [BENKRO](https://open.spotify.com/artist/73909hxACjd2Mk5REFdTGg) | [GO! \(feat\. BENKRO\)](https://open.spotify.com/album/0D8SmNwhP1DmoN2cOvOaE9) | 2:51 | 2023-10-13 |  |
 | [GOD](https://open.spotify.com/track/4iShoHVUGeSVT7jqyAVgnC) | [2hollis](https://open.spotify.com/artist/72NhFAGG5Pt91VbheJeEPG) | [2](https://open.spotify.com/album/2cwwBz019F7hQwggBShXCv) | 3:06 | 2023-06-23 |  |
 | [good things](https://open.spotify.com/track/2QwZiXrFmyPjgGh9akgfid) | [skaiwater](https://open.spotify.com/artist/1URVdcNYXigvk6Dj0fHYOM) | [good things](https://open.spotify.com/album/5mxrqF7BJ4vEKDBeG4iQS5) | 2:54 | 2023-09-15 |  |
+| [good things 2 \(with tana\)](https://open.spotify.com/track/6A8z1ijn6ttUSg9Hy4Y1nr) | [skaiwater](https://open.spotify.com/artist/1URVdcNYXigvk6Dj0fHYOM), [tana](https://open.spotify.com/artist/1xgl9yxqIVq8PEEMai38uV) | [good things 2 \(with tana\)](https://open.spotify.com/album/2N3S0h8qgKOpHAUkAcpNgY) | 2:54 | 2023-10-13 |  |
+| [gore](https://open.spotify.com/track/36LGcFW38H9iprSCl8K6Fa) | [Perto](https://open.spotify.com/artist/2mJFvqmuu604a4BwGllJQV) | [gore](https://open.spotify.com/album/09CS5w3dOSR6JXR3M3D8UR) | 3:00 | 2023-10-13 |  |
 | [harder than it looks softer than youd think](https://open.spotify.com/track/1FVnwCTrxcmukBmTk5XdkZ) | [familypet](https://open.spotify.com/artist/0qrKkQFiL3vftNOhGuIJEX) | [harder than it looks softer than youd think](https://open.spotify.com/album/13sdluulDSOsUuL1DgXOR6) | 2:40 | 2023-01-06 | 2023-02-18 |
 | [Hate.](https://open.spotify.com/track/2XynYulas10Wmef4Gqrxw9) | [ThxSoMch](https://open.spotify.com/artist/4MvZhE1iuzttcoyepkpfdF) | [Hate.](https://open.spotify.com/album/58Wux1agKhGHX31vtdmKsV) | 2:14 | 2023-04-14 |  |
 | [have you had enough?](https://open.spotify.com/track/5mUmnERjdOtCpXrk3acdQY) | [dylxn](https://open.spotify.com/artist/5UlvB9ajvjZf8TDhySUF0i) | [have you had enough?](https://open.spotify.com/album/1PXCNZP2ZdEDvKbXZ4O54Q) | 3:15 | 2023-03-24 | 2023-09-22 |
@@ -252,6 +255,7 @@
 | [SOS](https://open.spotify.com/track/6VadjsKC8hvS4E6FQGUKIc) | [Cybertrash](https://open.spotify.com/artist/6qKNO74t6cNcytBKSunEcW), [reefuh](https://open.spotify.com/artist/6ChAy6cuN28SDLsUecubQn) | [SOS](https://open.spotify.com/album/54jXnRNyDwbxJyGXiYUJDv) | 2:22 | 2023-06-23 |  |
 | [sos](https://open.spotify.com/track/1yIXLkLDBKV70WvEUOCR7u) | [re6ce](https://open.spotify.com/artist/4ULUpM5hJYKWhWdIViYrGK) | [sos](https://open.spotify.com/album/5GbZEpMjNPvk9ctHaAXevK) | 2:29 | 2022-12-09 | 2023-04-15 |
 | [Spiral](https://open.spotify.com/track/1IutoMzbuf3hVtP4KS9W37) | [ThxSoMch](https://open.spotify.com/artist/4MvZhE1iuzttcoyepkpfdF) | [Spiral](https://open.spotify.com/album/1VkpBOu4KIcL8u9tAkocie) | 2:48 | 2023-09-15 |  |
+| [spit](https://open.spotify.com/track/1ft9HRORvo0uMAoBwqkxgY) | [rouri404](https://open.spotify.com/artist/6lQsMKSDG7XdirlE6YImHa) | [spit](https://open.spotify.com/album/7hjfEMayKwXCohSb8rVV1C) | 2:19 | 2023-10-17 |  |
 | [SPIT IN MY FACE!](https://open.spotify.com/track/1N8TTK1Uoy7UvQNUazfUt5) | [ThxSoMch](https://open.spotify.com/artist/4MvZhE1iuzttcoyepkpfdF) | [SPIT IN MY FACE!](https://open.spotify.com/album/2XurGuugADHAwF8gEYjtMA) | 2:27 | 2022-12-04 | 2023-04-09 |
 | [SPIT IN MY FACE!](https://open.spotify.com/track/2jkyPVk1nbpsZD0KAS98Zw) | [ThxSoMch](https://open.spotify.com/artist/4MvZhE1iuzttcoyepkpfdF) | [SPIT IN MY FACE!](https://open.spotify.com/album/5wtEXxqlCbVuy7hxDsTX3K) | 2:27 | 2022-12-04 | 2022-12-10 |
 | [SPIT IN MY FACE!](https://open.spotify.com/track/7yBEKiv1LmO7GM4rOejhcW) | [ThxSoMch](https://open.spotify.com/artist/4MvZhE1iuzttcoyepkpfdF) | [SPIT IN MY FACE!](https://open.spotify.com/album/6UkTDMdhFiG9T1P7HCdc7o) | 2:27 | 2022-12-04 | 2022-12-25 |

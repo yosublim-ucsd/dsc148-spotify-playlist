@@ -1,12 +1,12 @@
 {
   "description": "Mujeres que escriben la historia del Tango. Foto: Julieta Laso.",
-  "num_followers": 17400,
+  "num_followers": 17408,
   "original_name": "Mujeres del Tango",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhZTA0MGI1YTg0NmU3MjlhNzRhN2E4MDQ0YWY1MmY4NzE4ZWY4OTFh",
+  "snapshot_id": "MCw2OTcwMDI5MzY1MzBmMDdmYWE3YTBiNjY0ODYwZjc0NTIzODhkNmQ4",
   "tracks": [
     {
       "added_at": "2023-08-11 14:55:17",
@@ -463,22 +463,6 @@
     {
       "added_at": "2023-08-11 14:55:17",
       "album": {
-        "name": "En El Underground",
-        "url": "https://open.spotify.com/album/6I123wp2nUkU8hiY0vzu7o"
-      },
-      "artists": [
-        {
-          "name": "Susana Rinaldi",
-          "url": "https://open.spotify.com/artist/44gwyR0NL3dALyIGaL9NFE"
-        }
-      ],
-      "duration_ms": 242826,
-      "name": "En Ese Ayer/Ventarr\u00f3n",
-      "url": "https://open.spotify.com/track/6yzikW529P1w3mwxAoMC3H"
-    },
-    {
-      "added_at": "2023-08-11 14:55:17",
-      "album": {
         "name": "Azsulado",
         "url": "https://open.spotify.com/album/3YZFCJZ5FkaEMD8GECpmlM"
       },
@@ -491,6 +475,22 @@
       "duration_ms": 196373,
       "name": "Mujer ni\u00f1a y amiga",
       "url": "https://open.spotify.com/track/5jgUP4aEL9GXBxIF7IqNt7"
+    },
+    {
+      "added_at": "2023-08-11 14:55:17",
+      "album": {
+        "name": "En El Underground",
+        "url": "https://open.spotify.com/album/6I123wp2nUkU8hiY0vzu7o"
+      },
+      "artists": [
+        {
+          "name": "Susana Rinaldi",
+          "url": "https://open.spotify.com/artist/44gwyR0NL3dALyIGaL9NFE"
+        }
+      ],
+      "duration_ms": 242826,
+      "name": "En Ese Ayer/Ventarr\u00f3n",
+      "url": "https://open.spotify.com/track/6yzikW529P1w3mwxAoMC3H"
     },
     {
       "added_at": "2023-08-11 14:55:17",
@@ -595,18 +595,22 @@
     {
       "added_at": "2023-08-11 14:55:17",
       "album": {
-        "name": "La Tana Con Todo",
-        "url": "https://open.spotify.com/album/3oGlLY8Hy4jFS8jAzos8X1"
+        "name": "Milonga del Desocupado",
+        "url": "https://open.spotify.com/album/3VvEy3CFcgyMe1iMt4bQ2X"
       },
       "artists": [
         {
-          "name": "Susana Rinaldi",
-          "url": "https://open.spotify.com/artist/44gwyR0NL3dALyIGaL9NFE"
+          "name": "Quinteto Bataraz",
+          "url": "https://open.spotify.com/artist/5wExxTg18OJstdwHUQDrAs"
+        },
+        {
+          "name": "Liliana Herrero",
+          "url": "https://open.spotify.com/artist/6iqeypk1XRa2zQVRcIVmlF"
         }
       ],
-      "duration_ms": 237226,
-      "name": "Malevaje",
-      "url": "https://open.spotify.com/track/4LVQ2CuYGgKgQA3vsI0NyG"
+      "duration_ms": 232930,
+      "name": "Milonga del Desocupado",
+      "url": "https://open.spotify.com/track/4drrlcTdFPZhbKoaZSCoMo"
     },
     {
       "added_at": "2023-08-11 14:55:17",
@@ -631,26 +635,6 @@
     {
       "added_at": "2023-08-11 14:55:17",
       "album": {
-        "name": "Milonga del Desocupado",
-        "url": "https://open.spotify.com/album/3VvEy3CFcgyMe1iMt4bQ2X"
-      },
-      "artists": [
-        {
-          "name": "Quinteto Bataraz",
-          "url": "https://open.spotify.com/artist/5wExxTg18OJstdwHUQDrAs"
-        },
-        {
-          "name": "Liliana Herrero",
-          "url": "https://open.spotify.com/artist/6iqeypk1XRa2zQVRcIVmlF"
-        }
-      ],
-      "duration_ms": 232930,
-      "name": "Milonga del Desocupado",
-      "url": "https://open.spotify.com/track/4drrlcTdFPZhbKoaZSCoMo"
-    },
-    {
-      "added_at": "2023-08-11 14:55:17",
-      "album": {
         "name": "Puro Verso",
         "url": "https://open.spotify.com/album/49rcqApxkF0v2eY0nKteFl"
       },
@@ -663,6 +647,22 @@
       "duration_ms": 258529,
       "name": "La \u00daltima Curda",
       "url": "https://open.spotify.com/track/6wTRZqGXcMRXCXYFUAqXL4"
+    },
+    {
+      "added_at": "2023-08-11 14:55:17",
+      "album": {
+        "name": "La Tana Con Todo",
+        "url": "https://open.spotify.com/album/3oGlLY8Hy4jFS8jAzos8X1"
+      },
+      "artists": [
+        {
+          "name": "Susana Rinaldi",
+          "url": "https://open.spotify.com/artist/44gwyR0NL3dALyIGaL9NFE"
+        }
+      ],
+      "duration_ms": 237226,
+      "name": "Malevaje",
+      "url": "https://open.spotify.com/track/4LVQ2CuYGgKgQA3vsI0NyG"
     },
     {
       "added_at": "2023-08-11 14:55:17",
@@ -715,22 +715,18 @@
     {
       "added_at": "2023-08-11 14:55:17",
       "album": {
-        "name": "Vos y yo",
-        "url": "https://open.spotify.com/album/7I5aFjFeNdfqWyISjPI2sw"
+        "name": "Lejos",
+        "url": "https://open.spotify.com/album/3Bejr5wnkAxczzVqZKYfSc"
       },
       "artists": [
         {
-          "name": "Susana Rinaldi",
-          "url": "https://open.spotify.com/artist/44gwyR0NL3dALyIGaL9NFE"
-        },
-        {
-          "name": "Leopoldo Federico",
-          "url": "https://open.spotify.com/artist/3RibY876FBPC7kuqm4YqzJ"
+          "name": "La Chicana",
+          "url": "https://open.spotify.com/artist/5G6S0tVzlQJD709dvAvOyQ"
         }
       ],
-      "duration_ms": 238852,
-      "name": "Malena",
-      "url": "https://open.spotify.com/track/24Reh2d2WR4lwweVsA1xxf"
+      "duration_ms": 245733,
+      "name": "La Mariposa",
+      "url": "https://open.spotify.com/track/17iPZmaID95A2XxcTDBXoh"
     },
     {
       "added_at": "2023-08-11 14:55:17",
@@ -751,22 +747,6 @@
       "duration_ms": 243893,
       "name": "El Coraz\u00f3n al Sur",
       "url": "https://open.spotify.com/track/5t0QIkUpZOoejnKXeZ8z2s"
-    },
-    {
-      "added_at": "2023-08-11 14:55:17",
-      "album": {
-        "name": "Lejos",
-        "url": "https://open.spotify.com/album/3Bejr5wnkAxczzVqZKYfSc"
-      },
-      "artists": [
-        {
-          "name": "La Chicana",
-          "url": "https://open.spotify.com/artist/5G6S0tVzlQJD709dvAvOyQ"
-        }
-      ],
-      "duration_ms": 245733,
-      "name": "La Mariposa",
-      "url": "https://open.spotify.com/track/17iPZmaID95A2XxcTDBXoh"
     },
     {
       "added_at": "2023-08-11 14:55:17",
@@ -839,6 +819,26 @@
     {
       "added_at": "2023-08-11 14:55:17",
       "album": {
+        "name": "Vos y yo",
+        "url": "https://open.spotify.com/album/7I5aFjFeNdfqWyISjPI2sw"
+      },
+      "artists": [
+        {
+          "name": "Susana Rinaldi",
+          "url": "https://open.spotify.com/artist/44gwyR0NL3dALyIGaL9NFE"
+        },
+        {
+          "name": "Leopoldo Federico",
+          "url": "https://open.spotify.com/artist/3RibY876FBPC7kuqm4YqzJ"
+        }
+      ],
+      "duration_ms": 238852,
+      "name": "Malena",
+      "url": "https://open.spotify.com/track/24Reh2d2WR4lwweVsA1xxf"
+    },
+    {
+      "added_at": "2023-08-11 14:55:17",
+      "album": {
         "name": "Martingala",
         "url": "https://open.spotify.com/album/5FgjV4G9WsnzSyRhnrneNc"
       },
@@ -875,22 +875,6 @@
     {
       "added_at": "2023-08-11 14:55:17",
       "album": {
-        "name": "Yo No Se Que Me Han Hecho Tus Ojos",
-        "url": "https://open.spotify.com/album/5TgkprMzhtnfMAEZFChOcy"
-      },
-      "artists": [
-        {
-          "name": "Ada Falc\u00f3n",
-          "url": "https://open.spotify.com/artist/1bshphZh29CbPD7uyWxxk3"
-        }
-      ],
-      "duration_ms": 208426,
-      "name": "Yo No Se Que Me Han Hecho Tus Ojos",
-      "url": "https://open.spotify.com/track/2yGGl2B3JT1NXdRpxFAZ0Z"
-    },
-    {
-      "added_at": "2023-08-11 14:55:17",
-      "album": {
         "name": "Tal Vez Ser\u00e1 Su Voz",
         "url": "https://open.spotify.com/album/21lhlABIcVCeYgPTGLLbnW"
       },
@@ -911,18 +895,18 @@
     {
       "added_at": "2023-08-11 14:55:17",
       "album": {
-        "name": "Tangos Famosos Cantados",
-        "url": "https://open.spotify.com/album/6e0npZfXXOvdAY8YulsfLo"
+        "name": "Yo No Se Que Me Han Hecho Tus Ojos",
+        "url": "https://open.spotify.com/album/5TgkprMzhtnfMAEZFChOcy"
       },
       "artists": [
         {
-          "name": "Susana Rinaldi",
-          "url": "https://open.spotify.com/artist/44gwyR0NL3dALyIGaL9NFE"
+          "name": "Ada Falc\u00f3n",
+          "url": "https://open.spotify.com/artist/1bshphZh29CbPD7uyWxxk3"
         }
       ],
-      "duration_ms": 198693,
-      "name": "Sur",
-      "url": "https://open.spotify.com/track/0I0bZlt1lW3HMCDiTBkbt3"
+      "duration_ms": 208426,
+      "name": "Yo No Se Que Me Han Hecho Tus Ojos",
+      "url": "https://open.spotify.com/track/2yGGl2B3JT1NXdRpxFAZ0Z"
     },
     {
       "added_at": "2023-08-11 14:55:17",
@@ -983,6 +967,22 @@
       "duration_ms": 218033,
       "name": "Nunca Tuvo Novio",
       "url": "https://open.spotify.com/track/2zaCDm7hyv35FUxA2nGueu"
+    },
+    {
+      "added_at": "2023-08-11 14:55:17",
+      "album": {
+        "name": "Tangos Famosos Cantados",
+        "url": "https://open.spotify.com/album/6e0npZfXXOvdAY8YulsfLo"
+      },
+      "artists": [
+        {
+          "name": "Susana Rinaldi",
+          "url": "https://open.spotify.com/artist/44gwyR0NL3dALyIGaL9NFE"
+        }
+      ],
+      "duration_ms": 198693,
+      "name": "Sur",
+      "url": "https://open.spotify.com/track/0I0bZlt1lW3HMCDiTBkbt3"
     }
   ],
   "unique_name": "Mujeres del Tango",

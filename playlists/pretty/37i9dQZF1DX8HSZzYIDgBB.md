@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8HSZzYIDgBB.md) - [plain]
 
 > Ritmos cálidos y alternativos para relajarte y tirarse bajo el sol \#IndieTropical 🌺☀️🌴🎶 Jarina De Marco en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,649 likes - 75 songs - 4 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,662 likes - 75 songs - 4 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,13 +60,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8HSZzYIDgBB.md) - [plain]
 | 50 | [Levante la Mano \(Tonga Conga Remix\)](https://open.spotify.com/track/631PEGUWU0kD8sNCh6AmOK) | [Centavrvs](https://open.spotify.com/artist/2hM7wQp7sHLgMTDpxteBWo), [Tonga Conga](https://open.spotify.com/artist/2p0241roffcxojfJcnmvsU) | [Levante la Mano \(Remixes\)](https://open.spotify.com/album/5sOze0dpm9v0UtFiRFW5HS) | 4:03 |
 | 51 | [Kristina](https://open.spotify.com/track/4uBAgsspUqFD9mzDebn7uV) | [Sanje](https://open.spotify.com/artist/5GpUWwhWjWHqGVbHMF6OPx) | [Kristina](https://open.spotify.com/album/5BCwHTPb0MVFbxsxtJtdIT) | 3:58 |
 | 52 | [Poco a Poco \- Remix](https://open.spotify.com/track/08qHgtCajTGcNWFbn0HQXT) | [Ilse Hendrix](https://open.spotify.com/artist/4nKY8xVK5R0lpdv2oDyraB), [Pahua](https://open.spotify.com/artist/4sZh7ibWAOiuDkEStJxHch) | [Poco a Poco \(Remix\)](https://open.spotify.com/album/4A0tvOTSvKJtMCt5T16KAW) | 2:57 |
-| 53 | [Flores](https://open.spotify.com/track/1XB0OXfVYNloMACdpwKckR) | [Battle of Santiago](https://open.spotify.com/artist/39Pu6fhvnHzWYqZlngV8dl) | [Flores](https://open.spotify.com/album/06zb5wzVXKeWRFQaI6XaV4) | 3:18 |
-| 54 | [Sal de Mar](https://open.spotify.com/track/42ji13UfpBT4Gntboni1HX) | [CERO39](https://open.spotify.com/artist/1B6UFfDLZPbLl1rpOmHmi0), [Eva de Marce](https://open.spotify.com/artist/1UgwU7ChXfMkwH9t6ivW2E), [Iusef](https://open.spotify.com/artist/7hxdYH7NvvQKn5ZcMTE52b) | [Sal de Mar](https://open.spotify.com/album/21NRPLtRhSOKiBXbPM3yRU) | 3:26 |
-| 55 | [la noche de ayer](https://open.spotify.com/track/7aSmfvPckOTRr0AJ3rmCCF) | [chicarica](https://open.spotify.com/artist/6FCUGgR9Bf7zx8q7Sog9dN) | [la noche de ayer](https://open.spotify.com/album/4e31Xo3NfTRxm9TdVgw4DR) | 4:15 |
+| 53 | [Sal de Mar](https://open.spotify.com/track/42ji13UfpBT4Gntboni1HX) | [CERO39](https://open.spotify.com/artist/1B6UFfDLZPbLl1rpOmHmi0), [Eva de Marce](https://open.spotify.com/artist/1UgwU7ChXfMkwH9t6ivW2E), [Iusef](https://open.spotify.com/artist/7hxdYH7NvvQKn5ZcMTE52b) | [Sal de Mar](https://open.spotify.com/album/21NRPLtRhSOKiBXbPM3yRU) | 3:26 |
+| 54 | [la noche de ayer](https://open.spotify.com/track/7aSmfvPckOTRr0AJ3rmCCF) | [chicarica](https://open.spotify.com/artist/6FCUGgR9Bf7zx8q7Sog9dN) | [la noche de ayer](https://open.spotify.com/album/4e31Xo3NfTRxm9TdVgw4DR) | 4:15 |
+| 55 | [Flores](https://open.spotify.com/track/1XB0OXfVYNloMACdpwKckR) | [Battle of Santiago](https://open.spotify.com/artist/39Pu6fhvnHzWYqZlngV8dl) | [Flores](https://open.spotify.com/album/06zb5wzVXKeWRFQaI6XaV4) | 3:18 |
 | 56 | [Sabe a Tu Nombre](https://open.spotify.com/track/4kPG4XKpeWVhBd4bfDYuyF) | [Cosmic Wacho](https://open.spotify.com/artist/6qVCBovVysB8MOf7a1mUKa) | [Sabe a Tu Nombre](https://open.spotify.com/album/5gkAUF7ohgE237sxZuIFaB) | 3:48 |
-| 57 | [Hoy Como Siempre](https://open.spotify.com/track/61Rc95MbrSSCaXqLcRRBu0) | [Acid Coco](https://open.spotify.com/artist/5UiKi49d0fbeffWl4aPWNW) | [Camino al Mar](https://open.spotify.com/album/1glNAkJudlAf1dNQUsr18G) | 4:12 |
-| 58 | [Dilo Como Yo \(Te Están Llamando\)](https://open.spotify.com/track/4wJF4rXSEidU6ZlZKp8Nre) | [Chico Mann](https://open.spotify.com/artist/2Wt6Q6ZHygCPVtMO3uxLGB) | [Manifest Tone EP](https://open.spotify.com/album/0rzUB5TzTLGYryGbry7YAE) | 4:15 |
-| 59 | [Sundown](https://open.spotify.com/track/3CGv4it1VeiRX7OaCjBmhW) | [Eddie Chacon](https://open.spotify.com/artist/7MSoMSIgrEtwDJ0iUCJwSD) | [Sundown](https://open.spotify.com/album/37OThjyGLpz8zQFtW0l4KM) | 4:48 |
+| 57 | [Dilo Como Yo \(Te Están Llamando\)](https://open.spotify.com/track/4wJF4rXSEidU6ZlZKp8Nre) | [Chico Mann](https://open.spotify.com/artist/2Wt6Q6ZHygCPVtMO3uxLGB) | [Manifest Tone EP](https://open.spotify.com/album/0rzUB5TzTLGYryGbry7YAE) | 4:15 |
+| 58 | [Sundown](https://open.spotify.com/track/3CGv4it1VeiRX7OaCjBmhW) | [Eddie Chacon](https://open.spotify.com/artist/7MSoMSIgrEtwDJ0iUCJwSD) | [Sundown](https://open.spotify.com/album/37OThjyGLpz8zQFtW0l4KM) | 4:48 |
+| 59 | [Hoy Como Siempre](https://open.spotify.com/track/61Rc95MbrSSCaXqLcRRBu0) | [Acid Coco](https://open.spotify.com/artist/5UiKi49d0fbeffWl4aPWNW) | [Camino al Mar](https://open.spotify.com/album/1glNAkJudlAf1dNQUsr18G) | 4:12 |
 | 60 | [Ven Vamos](https://open.spotify.com/track/0cHpCzglPxJodZNGM5DsRD) | [Mula](https://open.spotify.com/artist/7bWZkUZ5drGDoGAFhGoYGE) | [Ven Vamos](https://open.spotify.com/album/3E8idq0ECWEwgb8FpbZCdG) | 3:23 |
 | 61 | [Fuleamelo](https://open.spotify.com/track/7cGW3OvX5ERF8KUwrAEDP2) | [Macha Kiddo](https://open.spotify.com/artist/5sMMzzTjQpX6z7gKVOVlIv) | [Mala Crianza](https://open.spotify.com/album/2szxWyRwu1MyzrRaJsDehS) | 2:30 |
 | 62 | [Diablo](https://open.spotify.com/track/4cC3UZROu1UdjLyHzNjvdk) | [Tonga Conga](https://open.spotify.com/artist/2p0241roffcxojfJcnmvsU), [Mabiland](https://open.spotify.com/artist/2oXKVuZqDv85M1ynjVMp3J) | [Diablo](https://open.spotify.com/album/6wTBAa1tAJ5B0VulRrSNOI) | 2:52 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8HSZzYIDgBB.md) - [plain]
 | 74 | [Rainfalls](https://open.spotify.com/track/0YiZ0jbQg32CnsNplsYQeN) | [Mandale Mecha](https://open.spotify.com/artist/483XO10ZYxnxAqMkuOTJ2m) | [Rainfalls](https://open.spotify.com/album/0LPbgUDgVTriQISLJGTj5Y) | 3:36 |
 | 75 | [Acuario \- Solo San Remix](https://open.spotify.com/track/0jrvvsqJsh4ynhqqoanibZ) | [Disco Bahía](https://open.spotify.com/artist/31Wb354M8kymhMPAvwF7I4), [Solo San](https://open.spotify.com/artist/6P1mgZSQeztdWbWpJYy718) | [Acuario \(Solo San Remix\)](https://open.spotify.com/album/17ZVFGoiLYTGmhsRfNdmso) | 2:54 |
 
-Snapshot ID: `MCw5ZTk0NDBjNGQ5ZmE2MzIyOTY2MmFlNDkxNzIzZWRiZDI2NzJkYjIy`
+Snapshot ID: `MCxmOWYxZGQyMzIwMThiZTM5MTBmZWU1NWZhOGRjZGM3YzNhNzc5ZmZl`

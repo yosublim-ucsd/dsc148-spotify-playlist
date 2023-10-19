@@ -1,12 +1,12 @@
 {
   "description": "Where hip-hop and soul meets jazz. Cover: Digable Planets",
-  "num_followers": 312204,
+  "num_followers": 312383,
   "original_name": "Acid Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxNDY5YzBkNDA2MzVmOTBhOTExZmYwNzQyN2Y1MmRkY2FhYjg3YjRi",
+  "snapshot_id": "MCw2OGNiNzQzMTUzMTI1ZGU3ZGYzNzFlZTRkYWNjYTdkM2I3ODQ4N2Y0",
   "tracks": [
     {
       "added_at": "2022-07-14 19:24:43",
@@ -231,22 +231,6 @@
     {
       "added_at": "2022-07-14 19:24:43",
       "album": {
-        "name": "Love Approach (Bonus Track)",
-        "url": "https://open.spotify.com/album/7MKr7uOdenxSKTk0RCZ0mP"
-      },
-      "artists": [
-        {
-          "name": "Tom Browne",
-          "url": "https://open.spotify.com/artist/4Ytvi4r3WPIZmEw1Ndmkp9"
-        }
-      ],
-      "duration_ms": 282080,
-      "name": "Funkin' for Jamaica",
-      "url": "https://open.spotify.com/track/55xXj4qc4ByMxcVRb5Slc4"
-    },
-    {
-      "added_at": "2022-07-14 19:24:43",
-      "album": {
         "name": "Do You Want More?!!!??!",
         "url": "https://open.spotify.com/album/3N0wHnD5Rd8jnTUvNqOXGz"
       },
@@ -275,6 +259,22 @@
       "duration_ms": 237720,
       "name": "Bucktown",
       "url": "https://open.spotify.com/track/5fyRqeycMofUoGmDis5Gu6"
+    },
+    {
+      "added_at": "2022-07-14 19:24:43",
+      "album": {
+        "name": "Love Approach (Bonus Track)",
+        "url": "https://open.spotify.com/album/7MKr7uOdenxSKTk0RCZ0mP"
+      },
+      "artists": [
+        {
+          "name": "Tom Browne",
+          "url": "https://open.spotify.com/artist/4Ytvi4r3WPIZmEw1Ndmkp9"
+        }
+      ],
+      "duration_ms": 282080,
+      "name": "Funkin' for Jamaica",
+      "url": "https://open.spotify.com/track/55xXj4qc4ByMxcVRb5Slc4"
     },
     {
       "added_at": "2022-07-14 19:24:43",
@@ -443,22 +443,6 @@
     {
       "added_at": "2022-07-14 19:24:43",
       "album": {
-        "name": "Action",
-        "url": "https://open.spotify.com/album/6LhMkSPNs1AVrAjdrJue98"
-      },
-      "artists": [
-        {
-          "name": "The Blackbyrds",
-          "url": "https://open.spotify.com/artist/7uykqYYhDUugFJgKZWXIWq"
-        }
-      ],
-      "duration_ms": 352400,
-      "name": "Dreaming About You",
-      "url": "https://open.spotify.com/track/5voWjUklIhjnNQU5aZCIm4"
-    },
-    {
-      "added_at": "2022-07-14 19:24:43",
-      "album": {
         "name": "One for All",
         "url": "https://open.spotify.com/album/4KWNCJlJKaUY0sIO8oKmYq"
       },
@@ -471,6 +455,22 @@
       "duration_ms": 303040,
       "name": "Slow Down",
       "url": "https://open.spotify.com/track/19CybGYwC2L1aDiS2P6wQv"
+    },
+    {
+      "added_at": "2022-07-14 19:24:43",
+      "album": {
+        "name": "Action",
+        "url": "https://open.spotify.com/album/6LhMkSPNs1AVrAjdrJue98"
+      },
+      "artists": [
+        {
+          "name": "The Blackbyrds",
+          "url": "https://open.spotify.com/artist/7uykqYYhDUugFJgKZWXIWq"
+        }
+      ],
+      "duration_ms": 352400,
+      "name": "Dreaming About You",
+      "url": "https://open.spotify.com/track/5voWjUklIhjnNQU5aZCIm4"
     },
     {
       "added_at": "2022-07-14 19:24:43",
@@ -823,22 +823,6 @@
     {
       "added_at": "2022-07-14 19:24:43",
       "album": {
-        "name": "Expansions",
-        "url": "https://open.spotify.com/album/1tMUBZE5cSHtJCn0HT9FaW"
-      },
-      "artists": [
-        {
-          "name": "Bacao Rhythm & Steel Band",
-          "url": "https://open.spotify.com/artist/0sjhSgEkyVa8QRmkkuckJ0"
-        }
-      ],
-      "duration_ms": 151948,
-      "name": "Space",
-      "url": "https://open.spotify.com/track/6pnryYnhE5zBugXN1QxPBg"
-    },
-    {
-      "added_at": "2022-07-14 19:24:43",
-      "album": {
         "name": "Pass It On",
         "url": "https://open.spotify.com/album/789KsljLATC1ZZDAxBeK27"
       },
@@ -855,6 +839,22 @@
       "duration_ms": 253173,
       "name": "Be Thankful (feat. Erykah Badu)",
       "url": "https://open.spotify.com/track/20RTW1RVNY4B2uUo2MrFTg"
+    },
+    {
+      "added_at": "2022-07-14 19:24:43",
+      "album": {
+        "name": "Expansions",
+        "url": "https://open.spotify.com/album/1tMUBZE5cSHtJCn0HT9FaW"
+      },
+      "artists": [
+        {
+          "name": "Bacao Rhythm & Steel Band",
+          "url": "https://open.spotify.com/artist/0sjhSgEkyVa8QRmkkuckJ0"
+        }
+      ],
+      "duration_ms": 151948,
+      "name": "Space",
+      "url": "https://open.spotify.com/track/6pnryYnhE5zBugXN1QxPBg"
     },
     {
       "added_at": "2022-07-14 19:24:43",
@@ -927,22 +927,6 @@
     {
       "added_at": "2022-07-14 19:24:43",
       "album": {
-        "name": "And Now The Legacy Begins",
-        "url": "https://open.spotify.com/album/6AelbV20VsSWwnYhalKjdd"
-      },
-      "artists": [
-        {
-          "name": "Dream Warriors",
-          "url": "https://open.spotify.com/artist/4FrJKQblIjEyw8rbqYHNpU"
-        }
-      ],
-      "duration_ms": 220000,
-      "name": "Wash Your Face In My Sink",
-      "url": "https://open.spotify.com/track/33thSPOfzybaOuyZb3ZLpm"
-    },
-    {
-      "added_at": "2022-07-14 19:24:43",
-      "album": {
         "name": "Yellow",
         "url": "https://open.spotify.com/album/0JJaoV5WzQZVp71C6CkAJ5"
       },
@@ -955,6 +939,22 @@
       "duration_ms": 186521,
       "name": "Sun",
       "url": "https://open.spotify.com/track/1t0YQkR6LoRrzALweX2OL8"
+    },
+    {
+      "added_at": "2022-07-14 19:24:43",
+      "album": {
+        "name": "And Now The Legacy Begins",
+        "url": "https://open.spotify.com/album/6AelbV20VsSWwnYhalKjdd"
+      },
+      "artists": [
+        {
+          "name": "Dream Warriors",
+          "url": "https://open.spotify.com/artist/4FrJKQblIjEyw8rbqYHNpU"
+        }
+      ],
+      "duration_ms": 220000,
+      "name": "Wash Your Face In My Sink",
+      "url": "https://open.spotify.com/track/33thSPOfzybaOuyZb3ZLpm"
     },
     {
       "added_at": "2022-07-14 19:24:43",
@@ -1367,18 +1367,18 @@
     {
       "added_at": "2022-07-14 19:24:43",
       "album": {
-        "name": "Pizza Pie",
-        "url": "https://open.spotify.com/album/2LlVQ5iXALu8K2FwD55LlF"
+        "name": "Azymuth: Outubro",
+        "url": "https://open.spotify.com/album/6baaqatjoaHoivfzexDedw"
       },
       "artists": [
         {
-          "name": "Let Your Hair Down",
-          "url": "https://open.spotify.com/artist/2gNCOsrLPLraReGsXiBgtE"
+          "name": "Azymuth",
+          "url": "https://open.spotify.com/artist/5lYcr7Yue9FUB7MJDBtTJx"
         }
       ],
-      "duration_ms": 186324,
-      "name": "Pizza Pie",
-      "url": "https://open.spotify.com/track/4TJryQM96qMu04X4uvdBTm"
+      "duration_ms": 274600,
+      "name": "Dear Limmertz",
+      "url": "https://open.spotify.com/track/1dbvZy2hAtgDyL4oiSyyJ4"
     },
     {
       "added_at": "2022-07-14 19:24:43",
@@ -1399,18 +1399,18 @@
     {
       "added_at": "2022-07-14 19:24:43",
       "album": {
-        "name": "Azymuth: Outubro",
-        "url": "https://open.spotify.com/album/6baaqatjoaHoivfzexDedw"
+        "name": "Pizza Pie",
+        "url": "https://open.spotify.com/album/2LlVQ5iXALu8K2FwD55LlF"
       },
       "artists": [
         {
-          "name": "Azymuth",
-          "url": "https://open.spotify.com/artist/5lYcr7Yue9FUB7MJDBtTJx"
+          "name": "Let Your Hair Down",
+          "url": "https://open.spotify.com/artist/2gNCOsrLPLraReGsXiBgtE"
         }
       ],
-      "duration_ms": 274600,
-      "name": "Dear Limmertz",
-      "url": "https://open.spotify.com/track/1dbvZy2hAtgDyL4oiSyyJ4"
+      "duration_ms": 186324,
+      "name": "Pizza Pie",
+      "url": "https://open.spotify.com/track/4TJryQM96qMu04X4uvdBTm"
     },
     {
       "added_at": "2022-07-14 19:24:43",

@@ -4,7 +4,7 @@
 
 > アコースティック・メロディーズ。ゆったりとしたアコースティックサウンドと共に、爽やかな1日を迎えませんか？
 
-306 songs - 18 hr 18 min
+307 songs - 18 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -46,7 +46,7 @@
 | [Books of Fantasy](https://open.spotify.com/track/6sYTGXJE67xL22ZtkXxV1H) | [Mark Diamond](https://open.spotify.com/artist/7Il2FrLyoQt0JlyhJRDL1c) | [Books of Fantasy](https://open.spotify.com/album/3L536accWGgnKxWZOaBX1C) | 3:24 | 2023-09-12 |  |
 | [Boyfriends](https://open.spotify.com/track/6qj02zSeEJGWZ4c0dn5QzJ) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Harry's House](https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h) | 3:14 | 2022-10-20 |  |
 | [Brayford Odeon](https://open.spotify.com/track/3GaQZPrehbi2BCuBxNZPhI) | [The Rills](https://open.spotify.com/artist/2xOzJ4KDhvZrBLCvorstRR) | [After Taste](https://open.spotify.com/album/4u5fBdylG3BCuCI4tpnGEK) | 3:43 | 2023-03-16 | 2023-07-07 |
-| [Bug Like an Angel](https://open.spotify.com/track/7JXl7bdGiIuSlRKAVoZopE) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [Bug Like an Angel](https://open.spotify.com/album/6Nrv8yzcvGdKfmAcIxuV1A) | 3:32 | 2023-07-27 |  |
+| [Bug Like an Angel](https://open.spotify.com/track/7JXl7bdGiIuSlRKAVoZopE) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [Bug Like an Angel](https://open.spotify.com/album/6Nrv8yzcvGdKfmAcIxuV1A) | 3:32 | 2023-07-27 | 2023-10-19 |
 | [Can't Help Falling In Love](https://open.spotify.com/track/6lfxq3CG4xtTiEg7opyCyx) | [Kina Grannis](https://open.spotify.com/artist/7h4j9YTJJuAHzLCc3KCvYu) | [Crazy Rich Asians \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2wMz3oVNS1bMXaEWY6QWmA) | 3:21 | 2022-10-20 | 2023-05-03 |
 | [Can't Make You Stay](https://open.spotify.com/track/6cZ1Ld5ZJy1q8J0lBvVbki) | [John Keek](https://open.spotify.com/artist/5hWFMEirsZnlatYOIcySVL) | [Can't Make You Stay](https://open.spotify.com/album/3ly8GnWpiHjIwqxaWTM08c) | 2:16 | 2023-08-29 |  |
 | [Cardboard Box \- Acoustic](https://open.spotify.com/track/3k7E83vyhWu7UUl9FxPNRn) | [FLO](https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO) | [Cardboard Box \(Acoustic\)](https://open.spotify.com/album/1DWnard9ZSt1HfKIHJxQRp) | 2:53 | 2023-02-24 |  |
@@ -202,7 +202,7 @@
 | [Purple Rain \- Acoustic](https://open.spotify.com/track/1fjkAaYIIIn7dOxeln1NO1) | [Bailey Rushlow](https://open.spotify.com/artist/1tTQcokfKcsCxZaHF2pIhw) | [Purple Rain \(Acoustic\)](https://open.spotify.com/album/0PQzIMtIL8scwxiOXXap00) | 2:34 | 2023-02-16 | 2023-09-29 |
 | [Put A Little Love On Me](https://open.spotify.com/track/1hCTxutVVYvggAQcUUUZAT) | [Niall Horan](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4) | [Put A Little Love On Me](https://open.spotify.com/album/7dUgmUMDNnQAejhNLeIQWz) | 3:44 | 2023-04-13 | 2023-05-19 |
 | [Rainbow](https://open.spotify.com/track/5295DzrqA8A1zCgyESsDeD) | [gnash](https://open.spotify.com/artist/3iri9nBFs9e4wN7PLIetAw) | [four](https://open.spotify.com/album/5Ss7v0vKlKr4YJb8jJzFsP) | 3:44 | 2023-01-19 | 2023-02-17 |
-| [reckless driving](https://open.spotify.com/track/5GpEHUNI0T7L7H3DnAaBXh) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS), [Ben Kessler](https://open.spotify.com/artist/6Lx82nbEVfeTfEa4yT01Jo) | [five seconds flat](https://open.spotify.com/album/68L5xVV9wydotfDXEik7eD) | 3:09 | 2023-03-14 | 2023-10-06 |
+| [reckless driving](https://open.spotify.com/track/5GpEHUNI0T7L7H3DnAaBXh) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS), [Ben Kessler](https://open.spotify.com/artist/6Lx82nbEVfeTfEa4yT01Jo) | [five seconds flat](https://open.spotify.com/album/68L5xVV9wydotfDXEik7eD) | 3:09 | 2023-03-14 |  |
 | [Red Sky](https://open.spotify.com/track/4gJYghkBmE1Qgxqqg922sV) | [TAKURO](https://open.spotify.com/artist/0yAbl3KRQ4Jxjvb8DZq9pT), [Eru Matsumoto](https://open.spotify.com/artist/1kGOsNu6AxmCp0CQzbyVje) | [The Sound Of Life](https://open.spotify.com/album/5g7kYhSjvWLYyb6j0WuWiK) | 3:35 | 2022-12-13 | 2023-01-11 |
 | [Renegades](https://open.spotify.com/track/0fYVliAYKHuPmECRs1pbRf) | [X Ambassadors](https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB) | [VHS](https://open.spotify.com/album/7A8fZ2jjiu5heq7wNCutKN) | 3:15 | 2022-12-14 |  |
 | [Riptide](https://open.spotify.com/track/3JvrhDOgAt6p7K8mDyZwRd) | [Vance Joy](https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT) | [Dream Your Life Away \(Special Edition\)](https://open.spotify.com/album/5S9b8euumqMhQbMk0zzQdH) | 3:24 | 2022-10-20 |  |
@@ -254,6 +254,7 @@
 | [The Sound of Silence \- Acoustic Version](https://open.spotify.com/track/5y788ya4NvwhBznoDIcXwK) | [Simon & Garfunkel](https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE) | [Wednesday Morning, 3 A.M.](https://open.spotify.com/album/5pnJrocLlZ3FWEbcr2PTz0) | 3:05 | 2022-10-20 |  |
 | [the way things go](https://open.spotify.com/track/5sA3i6SGkILMiZW6Fhx4wv) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [the way things go](https://open.spotify.com/album/2rLVMQbIw1C8JHmad6H0Pk) | 3:07 | 2023-07-18 |  |
 | [The Way You Can](https://open.spotify.com/track/1WgNdsLpFXb7ycFcM9Cldk) | [Joshua Hyslop](https://open.spotify.com/artist/1I7oHjCjMrMUz66v67yJJu) | [The Way You Can](https://open.spotify.com/album/477iSTSOUFTAc2860g7x9L) | 4:24 | 2023-09-21 |  |
+| [These Days](https://open.spotify.com/track/2kJYJikUAu0l8DwGMMzS8t) | [Julie Byrne](https://open.spotify.com/artist/10duXbKJkvdGK5RgktEnxV), [Laugh Cry Laugh](https://open.spotify.com/artist/5uTkXOALKTyIBOffC3tJIi) | [These Days / Velocity! What About The Inertia!?](https://open.spotify.com/album/4rAM0kgT7oNRzFfnJWd8nE) | 3:33 | 2023-10-17 |  |
 | [Think I'm Gonna Love You](https://open.spotify.com/track/6BEP2k75mE8u8gHdvxV3mn) | [Michal Leah](https://open.spotify.com/artist/50AUL69nMKHvAFs20YXGqb), [Caleb Hearn](https://open.spotify.com/artist/0EiNdCUwM4B5GkTInLAyuj) | [Think I'm Gonna Love You](https://open.spotify.com/album/0kR1xeEz90V7N6w6R8RxN7) | 2:44 | 2023-08-03 |  |
 | [Thinking About You](https://open.spotify.com/track/5gTCp2dIRTLgJ8ZZllw0bR) | [Beck](https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS) | [Thinking About You](https://open.spotify.com/album/6Av9V14GQ4dIqQj9QLBhec) | 3:37 | 2023-02-09 | 2023-05-03 |
 | [This Song \-Planxty Irwin\-](https://open.spotify.com/track/0WHrBD9cachtyZRm9MDRER) | [OAU](https://open.spotify.com/artist/2S6PiNmAaVVGO0YePSN3FB) | [This Song \-Planxty Irwin\-](https://open.spotify.com/album/1UCyl9vDFUgWgKj7Rm393s) | 3:55 | 2023-02-21 | 2023-03-22 |

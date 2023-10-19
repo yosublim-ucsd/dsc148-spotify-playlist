@@ -4,7 +4,7 @@
 
 > 시원한 국내음악들과 드라이빙을 즐겨보세요! \(Tap your feet to the K\-Pop beats on your way through the driving moments.\)
 
-669 songs - 1 day 13 hr 2 min
+670 songs - 1 day 13 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -259,7 +259,7 @@
 | [Guerrilla](https://open.spotify.com/track/0tYZo2UhV1lrUez5CA0Iyw) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [THE WORLD EP.1 : MOVEMENT](https://open.spotify.com/album/3fgDrbflffzvV3H3plG9e6) | 3:27 | 2022-08-12 |  |
 | [GYOPO HAIRSTYLE](https://open.spotify.com/track/4pAas7JMUikN9utv8ul14H) | [Peakboy](https://open.spotify.com/artist/08LjovlGCVPQpTm9Olc45l) | [GYOPO HAIRSTYLE](https://open.spotify.com/album/1JVAKAJI0RwttgnhpYlH0o) | 2:39 | 2021-12-07 | 2022-07-20 |
 | [Happy Death Day](https://open.spotify.com/track/3a4VCqofc7Wf7cqfZYu2Ad) | [Xdinary Heroes](https://open.spotify.com/artist/1khChLj7REGqjM043PlYyn) | [Happy Death Day](https://open.spotify.com/album/3kA1SlUEM2Qt52prtDTuWr) | 3:40 | 2022-03-11 | 2023-06-07 |
-| [Happy Death Day](https://open.spotify.com/track/5tFkeXbut9UEYCRO6ngFb6) | [Xdinary Heroes](https://open.spotify.com/artist/1khChLj7REGqjM043PlYyn) | [Happy Death Day](https://open.spotify.com/album/3EWs6Dzq1O019JKq9A72KC) | 3:40 | 2023-07-20 |  |
+| [Happy Death Day](https://open.spotify.com/track/5tFkeXbut9UEYCRO6ngFb6) | [Xdinary Heroes](https://open.spotify.com/artist/1khChLj7REGqjM043PlYyn) | [Happy Death Day](https://open.spotify.com/album/3EWs6Dzq1O019JKq9A72KC) | 3:40 | 2023-07-20 | 2023-10-19 |
 | [Happy Ending](https://open.spotify.com/track/6VQQOTvD93iyfenRVV0StT) | [JUNGMO](https://open.spotify.com/artist/265utmyoXKhopQTAHBXByE) | [Happy Ending](https://open.spotify.com/album/23KVShovO2E1JbQDa9Kixa) | 4:24 | 2022-03-24 | 2022-04-21 |
 | [Haven](https://open.spotify.com/track/6w0NTevf0SB25ZYIInkcCN) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [IN LIFE](https://open.spotify.com/album/1fOJ6SHLXOLnsuuwiLyzft) | 3:19 | 2021-12-29 | 2022-07-26 |
 | [Heart Attack](https://open.spotify.com/track/76JA4ie9OkTaCXu909a93V) | [SHINee](https://open.spotify.com/artist/2hRQKC0gqlZGPrmUKbcchR) | [Don't Call Me \- The 7th Album](https://open.spotify.com/album/6bfcHf3khPey88qjiiw8V3) | 2:59 | 2022-01-03 | 2022-05-01 |
@@ -508,6 +508,7 @@
 | [Runner \(feat\. CHANGMO\)](https://open.spotify.com/track/5QwLHJDelqEuMEEOT4oLy9) | [T1](https://open.spotify.com/artist/4EilAKej00Ih2NLMbYqQyI), [Raiden](https://open.spotify.com/artist/4YXNoMVTHRt01jYaKXTumJ), [BAEKHYUN](https://open.spotify.com/artist/4ufh0WuMZh6y4Dmdnklvdl), [CHANGMO](https://open.spotify.com/artist/3hvinNZRzTLoREmqFiKr1b) | [Runner \(feat\. CHANGMO\)](https://open.spotify.com/album/5R1Tccp8xtfsvohFWvEPqi) | 2:51 | 2022-01-03 | 2022-04-21 |
 | [Runners](https://open.spotify.com/track/6VMxqM227Y8uKAbo6bqRXm) | [Skinny Brown](https://open.spotify.com/artist/0E0fq98DMHhkAgiXWpCViX), [Jayci yucca](https://open.spotify.com/artist/6yFuoRFCsxQLasjZqdwvAM), [TOIL](https://open.spotify.com/artist/698zn8fEOIr1OrfqG4283S) | [Tocca Brown : Highteen Rockstars](https://open.spotify.com/album/2LptDqL5Qvf5LsHxNksrub) | 2:52 | 2022-01-03 | 2022-04-13 |
 | [Running](https://open.spotify.com/track/3t0Dw9zYFXK4ezJxbM3rbj) | [Gaho](https://open.spotify.com/artist/3ybZTNrlK0QhL4rBxfLHOc) | [START\-UP \(Original Television Soundtrack\) Pt\. 5](https://open.spotify.com/album/49kRt17UwsJeOAekAn84Ib) | 3:29 | 2021-12-07 | 2023-01-11 |
+| [Running](https://open.spotify.com/track/6IcVM9iHTsX4sm0Xj54MBF) | [Gaho](https://open.spotify.com/artist/3ybZTNrlK0QhL4rBxfLHOc) | [START\-UP \(Original Television Soundtrack\) Pt\. 5](https://open.spotify.com/album/6S327htVJnBi9GGZjUInui) | 3:29 | 2023-08-23 |  |
 | [Rush Hour](https://open.spotify.com/track/1Goejji6m1d0s0cv4OnL7f) | [Monsta X](https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz) | [NO LIMIT](https://open.spotify.com/album/7C4wO7npFwUlVgNye4hbII) | 3:22 | 2022-02-14 | 2022-04-21 |
 | [S\-Class](https://open.spotify.com/track/3gTQwwDNJ42CCLo3Sf4JDd) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [5\-STAR](https://open.spotify.com/album/3Pel3gWsPxVpZVrciU0Fm6) | 3:15 | 2023-06-02 |  |
 | [SALUTE](https://open.spotify.com/track/6dZjwys4OGDogFFVh89MBY) | [AB6IX](https://open.spotify.com/artist/4y0wFJ5jmCUNRLZfsw1I7g) | [SALUTE](https://open.spotify.com/album/0rPtXoQoXvnGKk14lm9ghO) | 3:08 | 2022-03-24 | 2022-04-13 |

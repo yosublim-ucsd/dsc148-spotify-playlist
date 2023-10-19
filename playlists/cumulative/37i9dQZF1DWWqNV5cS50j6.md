@@ -4,7 +4,7 @@
 
 > Not NOT pop\. Cover: ericdoa
 
-1,538 songs - 3 day 2 hr 11 min
+1,539 songs - 3 day 2 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1503,6 +1503,7 @@
 | [WONDERLAND](https://open.spotify.com/track/4RH5H3lx8hNw1JkXMjMqx0) | [Frost Children](https://open.spotify.com/artist/6R1kfr0GIWnwxY4zW11Vag), [Blaketheman1000](https://open.spotify.com/artist/0QrLOWMTGOF7Vwb3SAhf3I), [May Rio](https://open.spotify.com/artist/1SlT1K1OULPzNSwmieTA2w) | [SPEED RUN](https://open.spotify.com/album/7qngj2U22AGXVoZB6QsZ51) | 3:32 | 2023-04-14 | 2023-09-09 |
 | [World Is Fucked](https://open.spotify.com/track/2pbjwvnOZv7poZfeGlCieM) | [WizTheMc](https://open.spotify.com/artist/3ebS2RuCq8QeLyndUDmgB5) | [World Is Fucked](https://open.spotify.com/album/2gHg7XQzxKz4sdlBs2P1Lc) | 2:52 | 2021-04-03 | 2022-02-26 |
 | [World On Silent](https://open.spotify.com/track/47SHWAPqS1k6GZmgouEPCE) | [Anoyd](https://open.spotify.com/artist/6zmyeByNsfskQHKnJT0F9L) | [World On Silent](https://open.spotify.com/album/0wsXqAbx6bnRtaBaO3xm3w) | 3:15 | 2021-01-09 | 2021-02-20 |
+| [WORLD STOP TURNING \(feat\. Warren Hue\)](https://open.spotify.com/track/4nrTZBPIBCmU4RDsXfNwp0) | [1999 WRITE THE FUTURE](https://open.spotify.com/artist/33aS3DKsGRMWBwjM9ddhak), [Rich Brian](https://open.spotify.com/artist/2IDLDx25HU1nQMKde4n61a), [Zion.T](https://open.spotify.com/artist/5HenzRvMtSrgtvU16XAoby), [Warren Hue](https://open.spotify.com/artist/4qcKNkdxUidhvUByB2eQ6g) | [WORLD STOP TURNING \(feat\. Warren Hue\)](https://open.spotify.com/album/73uv8IgpT6e22cr6ZRzH2x) | 4:08 | 2023-10-18 |  |
 | [Worry Bout Yourself](https://open.spotify.com/track/1ZyVOMmy5ZQILMha4JinSP) | [LAUNDRY DAY](https://open.spotify.com/artist/0SwK6bwzmGkViNoxSbJ5Mk) | [Worry Bout Yourself](https://open.spotify.com/album/7e5Gfrcr21LmwwI88FMf6C) | 3:48 | 2021-12-03 | 2022-02-26 |
 | [WORTH IT](https://open.spotify.com/track/0kP5ujl0Mbe2JDNmrVwglE) | [Jay Prince](https://open.spotify.com/artist/2TLYSzGyVYkxAgYSCqUnQj) | [SOL, VOL\. 3](https://open.spotify.com/album/1PPaJ4BYUrKU5XluPzDASe) | 3:46 | 2020-12-11 | 2021-03-26 |
 | [Would It Kill You At All](https://open.spotify.com/track/0MFpii15OtF6euR17upS7S) | [Dream, Ivory](https://open.spotify.com/artist/0qZyvjwZauLmrobrpJmvib) | [About A Boy](https://open.spotify.com/album/2Pz55SWZIQb3Y7uUbgPzVc) | 2:47 | 2022-10-25 | 2023-01-28 |

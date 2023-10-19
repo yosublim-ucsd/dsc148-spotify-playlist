@@ -1,12 +1,12 @@
 {
   "description": "Le plus beau, le plus triste. Photo: Alexandra Streliski",
-  "num_followers": 3664,
+  "num_followers": 3668,
   "original_name": "Tout doux",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzODY5YjM3N2Q0ODc2YzZhYmFjNDIwYTU3MmZlYWI3OWU5ZjY5Yzky",
+  "snapshot_id": "MCxlNTNmYTIwZjBmODc3NGFkNjg2NDhmNjU3Nzk1NWY4NTIzZDU2YzY2",
   "tracks": [
     {
       "added_at": "2021-02-06 03:12:40",
@@ -323,22 +323,6 @@
     {
       "added_at": "2021-02-06 03:12:40",
       "album": {
-        "name": "L'\u00e9t\u00e9",
-        "url": "https://open.spotify.com/album/6hZRVhMV2YLf4bQkAaLthC"
-      },
-      "artists": [
-        {
-          "name": "Phil\u00e9mon Cimon",
-          "url": "https://open.spotify.com/artist/7g1WpSVdiG70dbp3nuGU4h"
-        }
-      ],
-      "duration_ms": 268077,
-      "name": "Je veux de la lumi\u00e8re",
-      "url": "https://open.spotify.com/track/5W7sHs6RBdwjgHbw4svh50"
-    },
-    {
-      "added_at": "2021-02-06 03:12:40",
-      "album": {
         "name": "Le rep\u00e8re tranquille",
         "url": "https://open.spotify.com/album/7o5ciM3GFGniUcvpxHlG0O"
       },
@@ -351,6 +335,22 @@
       "duration_ms": 203666,
       "name": "Le rep\u00e8re tranquille",
       "url": "https://open.spotify.com/track/5LfohBLHNOqSCGEOKpsMFf"
+    },
+    {
+      "added_at": "2021-02-06 03:12:40",
+      "album": {
+        "name": "L'\u00e9t\u00e9",
+        "url": "https://open.spotify.com/album/6hZRVhMV2YLf4bQkAaLthC"
+      },
+      "artists": [
+        {
+          "name": "Phil\u00e9mon Cimon",
+          "url": "https://open.spotify.com/artist/7g1WpSVdiG70dbp3nuGU4h"
+        }
+      ],
+      "duration_ms": 268077,
+      "name": "Je veux de la lumi\u00e8re",
+      "url": "https://open.spotify.com/track/5W7sHs6RBdwjgHbw4svh50"
     },
     {
       "added_at": "2021-02-06 03:12:40",
@@ -435,22 +435,6 @@
     {
       "added_at": "2021-02-06 03:12:40",
       "album": {
-        "name": "Saratoga",
-        "url": "https://open.spotify.com/album/582dBlFn0Yuq8zMFir8t5s"
-      },
-      "artists": [
-        {
-          "name": "Saratoga",
-          "url": "https://open.spotify.com/artist/7cclLKr5Adggnygyq0ybOn"
-        }
-      ],
-      "duration_ms": 297133,
-      "name": "Oublie pas",
-      "url": "https://open.spotify.com/track/5O3B5KtjvwNWhvTvPAhASO"
-    },
-    {
-      "added_at": "2021-02-06 03:12:40",
-      "album": {
         "name": "Comme une odeur de d\u00e9clin",
         "url": "https://open.spotify.com/album/0B46PUCUbNH1lJJPVAmJ8s"
       },
@@ -467,6 +451,22 @@
       "duration_ms": 192653,
       "name": "Dans le ruisseau",
       "url": "https://open.spotify.com/track/0pP4TkjbnooOW2OQ4qamkO"
+    },
+    {
+      "added_at": "2021-02-06 03:12:40",
+      "album": {
+        "name": "Saratoga",
+        "url": "https://open.spotify.com/album/582dBlFn0Yuq8zMFir8t5s"
+      },
+      "artists": [
+        {
+          "name": "Saratoga",
+          "url": "https://open.spotify.com/artist/7cclLKr5Adggnygyq0ybOn"
+        }
+      ],
+      "duration_ms": 297133,
+      "name": "Oublie pas",
+      "url": "https://open.spotify.com/track/5O3B5KtjvwNWhvTvPAhASO"
     },
     {
       "added_at": "2021-02-06 03:12:40",
@@ -603,22 +603,6 @@
     {
       "added_at": "2021-02-06 03:12:40",
       "album": {
-        "name": "Ces mots simples",
-        "url": "https://open.spotify.com/album/2onsGEcbOmzE4RnWmIxXAI"
-      },
-      "artists": [
-        {
-          "name": "Vanessa Paradis",
-          "url": "https://open.spotify.com/artist/1FmxE030Xe2H8Bn9bdv6Pd"
-        }
-      ],
-      "duration_ms": 174573,
-      "name": "Ces mots simples",
-      "url": "https://open.spotify.com/track/66Y3cW9YjIR9PQaiAebr6e"
-    },
-    {
-      "added_at": "2021-02-06 03:12:40",
-      "album": {
         "name": "La science du c\u0153ur",
         "url": "https://open.spotify.com/album/0eT3LEaBjGYxLrodHdw5SR"
       },
@@ -631,6 +615,22 @@
       "duration_ms": 201440,
       "name": "Une lettre",
       "url": "https://open.spotify.com/track/2KX9orMuqVBhFiG3WdqpIH"
+    },
+    {
+      "added_at": "2021-02-06 03:12:40",
+      "album": {
+        "name": "Ces mots simples",
+        "url": "https://open.spotify.com/album/2onsGEcbOmzE4RnWmIxXAI"
+      },
+      "artists": [
+        {
+          "name": "Vanessa Paradis",
+          "url": "https://open.spotify.com/artist/1FmxE030Xe2H8Bn9bdv6Pd"
+        }
+      ],
+      "duration_ms": 174573,
+      "name": "Ces mots simples",
+      "url": "https://open.spotify.com/track/66Y3cW9YjIR9PQaiAebr6e"
     },
     {
       "added_at": "2021-02-06 03:12:40",
@@ -763,26 +763,6 @@
     {
       "added_at": "2021-02-06 03:12:40",
       "album": {
-        "name": "Silhouettes",
-        "url": "https://open.spotify.com/album/17JhlO2Y0kvAIJwML6jkzJ"
-      },
-      "artists": [
-        {
-          "name": "Simon P. Castonguay",
-          "url": "https://open.spotify.com/artist/0HKEAfhGGihNdbRX49bioD"
-        },
-        {
-          "name": "Tambour",
-          "url": "https://open.spotify.com/artist/4AiSaEOdhGLXyM1UGObDdi"
-        }
-      ],
-      "duration_ms": 456688,
-      "name": "Silhouettes",
-      "url": "https://open.spotify.com/track/6X9B7GfAc8Po0DyW3UA9m0"
-    },
-    {
-      "added_at": "2021-02-06 03:12:40",
-      "album": {
         "name": "Ce que je te donne ne dispara\u00eet pas",
         "url": "https://open.spotify.com/album/6cD91XtPpIgoAxFttrH3kJ"
       },
@@ -799,18 +779,22 @@
     {
       "added_at": "2021-02-06 03:12:40",
       "album": {
-        "name": "Le feu de chaque jour",
-        "url": "https://open.spotify.com/album/4j1nx0dlIVExJ9uxjkVPo8"
+        "name": "Silhouettes",
+        "url": "https://open.spotify.com/album/17JhlO2Y0kvAIJwML6jkzJ"
       },
       "artists": [
         {
-          "name": "Patrice Michaud",
-          "url": "https://open.spotify.com/artist/5qwQpqVBAApujajOflaRz1"
+          "name": "Simon P. Castonguay",
+          "url": "https://open.spotify.com/artist/0HKEAfhGGihNdbRX49bioD"
+        },
+        {
+          "name": "Tambour",
+          "url": "https://open.spotify.com/artist/4AiSaEOdhGLXyM1UGObDdi"
         }
       ],
-      "duration_ms": 271360,
-      "name": "Loin de Disneyland",
-      "url": "https://open.spotify.com/track/76CGTEQ17dXFWw6llOycSj"
+      "duration_ms": 456688,
+      "name": "Silhouettes",
+      "url": "https://open.spotify.com/track/6X9B7GfAc8Po0DyW3UA9m0"
     },
     {
       "added_at": "2021-02-06 03:12:40",
@@ -851,18 +835,18 @@
     {
       "added_at": "2021-02-06 03:12:40",
       "album": {
-        "name": "La Voix III",
-        "url": "https://open.spotify.com/album/5xfz4BxH9zxcCD42K0GpgK"
+        "name": "Le feu de chaque jour",
+        "url": "https://open.spotify.com/album/4j1nx0dlIVExJ9uxjkVPo8"
       },
       "artists": [
         {
-          "name": "Mathieu Holubowski",
-          "url": "https://open.spotify.com/artist/3eNjAR5L6dFBT9YMI1mYcT"
+          "name": "Patrice Michaud",
+          "url": "https://open.spotify.com/artist/5qwQpqVBAApujajOflaRz1"
         }
       ],
-      "duration_ms": 158280,
-      "name": "Feuille d'argent et feuille d'or",
-      "url": "https://open.spotify.com/track/43yPS3BdegZwA2x47ux291"
+      "duration_ms": 271360,
+      "name": "Loin de Disneyland",
+      "url": "https://open.spotify.com/track/76CGTEQ17dXFWw6llOycSj"
     },
     {
       "added_at": "2021-02-06 03:12:40",
@@ -879,6 +863,22 @@
       "duration_ms": 191853,
       "name": "Vers le sud",
       "url": "https://open.spotify.com/track/7k5JH3TPQppL1zZt40kIbz"
+    },
+    {
+      "added_at": "2021-02-06 03:12:40",
+      "album": {
+        "name": "La Voix III",
+        "url": "https://open.spotify.com/album/5xfz4BxH9zxcCD42K0GpgK"
+      },
+      "artists": [
+        {
+          "name": "Mathieu Holubowski",
+          "url": "https://open.spotify.com/artist/3eNjAR5L6dFBT9YMI1mYcT"
+        }
+      ],
+      "duration_ms": 158280,
+      "name": "Feuille d'argent et feuille d'or",
+      "url": "https://open.spotify.com/track/43yPS3BdegZwA2x47ux291"
     },
     {
       "added_at": "2021-02-06 03:12:40",
@@ -995,22 +995,6 @@
     {
       "added_at": "2021-02-06 03:12:40",
       "album": {
-        "name": "And The Boys",
-        "url": "https://open.spotify.com/album/29j3QuJ0u2TAflB5oOzRCu"
-      },
-      "artists": [
-        {
-          "name": "Angus & Julia Stone",
-          "url": "https://open.spotify.com/artist/4tvKz56Tr39bkhcQUTO0Xr"
-        }
-      ],
-      "duration_ms": 250240,
-      "name": "And The Boys - French Version",
-      "url": "https://open.spotify.com/track/4EYhacL135vKV7bujL7pRs"
-    },
-    {
-      "added_at": "2021-02-06 03:12:40",
-      "album": {
         "name": "Sentiments humains",
         "url": "https://open.spotify.com/album/6iExYO8AbDltsJz1Tre3qS"
       },
@@ -1027,18 +1011,18 @@
     {
       "added_at": "2021-02-06 03:12:40",
       "album": {
-        "name": "Himalaya mon amour",
-        "url": "https://open.spotify.com/album/6pr1J7ekJbaOIPELBTmGVb"
+        "name": "And The Boys",
+        "url": "https://open.spotify.com/album/29j3QuJ0u2TAflB5oOzRCu"
       },
       "artists": [
         {
-          "name": "Alex Nevsky",
-          "url": "https://open.spotify.com/artist/0SIFfM1SbfMzDXpzZZ8PVc"
+          "name": "Angus & Julia Stone",
+          "url": "https://open.spotify.com/artist/4tvKz56Tr39bkhcQUTO0Xr"
         }
       ],
-      "duration_ms": 164226,
-      "name": "Si tu restes",
-      "url": "https://open.spotify.com/track/47RDT6K7pUYnO1NWWCw1z7"
+      "duration_ms": 250240,
+      "name": "And The Boys - French Version",
+      "url": "https://open.spotify.com/track/4EYhacL135vKV7bujL7pRs"
     },
     {
       "added_at": "2021-02-06 03:12:40",
@@ -1055,6 +1039,22 @@
       "duration_ms": 188520,
       "name": "Le nouveau vocabulaire",
       "url": "https://open.spotify.com/track/5dhWyASbSFyAarXtYfovgH"
+    },
+    {
+      "added_at": "2021-02-06 03:12:40",
+      "album": {
+        "name": "Himalaya mon amour",
+        "url": "https://open.spotify.com/album/6pr1J7ekJbaOIPELBTmGVb"
+      },
+      "artists": [
+        {
+          "name": "Alex Nevsky",
+          "url": "https://open.spotify.com/artist/0SIFfM1SbfMzDXpzZZ8PVc"
+        }
+      ],
+      "duration_ms": 164226,
+      "name": "Si tu restes",
+      "url": "https://open.spotify.com/track/47RDT6K7pUYnO1NWWCw1z7"
     },
     {
       "added_at": "2021-02-06 03:12:40",
@@ -1159,22 +1159,6 @@
     {
       "added_at": "2021-02-06 03:12:40",
       "album": {
-        "name": "Habit",
-        "url": "https://open.spotify.com/album/47BeET8hEy09koztGMjD70"
-      },
-      "artists": [
-        {
-          "name": "Gabrielle Shonk",
-          "url": "https://open.spotify.com/artist/5Vj7LABYdzz3ZBt1EhDIoQ"
-        }
-      ],
-      "duration_ms": 196613,
-      "name": "Trop tard",
-      "url": "https://open.spotify.com/track/0kGlndxcDA7drOZwgt4eOd"
-    },
-    {
-      "added_at": "2021-02-06 03:12:40",
-      "album": {
         "name": "Apprentie guerri\u00e8re",
         "url": "https://open.spotify.com/album/1BiCOs55mWk2IA9PyeONfq"
       },
@@ -1187,6 +1171,22 @@
       "duration_ms": 168173,
       "name": "Shit",
       "url": "https://open.spotify.com/track/7KtGK4TQN4EeOm7nPxSOKq"
+    },
+    {
+      "added_at": "2021-02-06 03:12:40",
+      "album": {
+        "name": "Habit",
+        "url": "https://open.spotify.com/album/47BeET8hEy09koztGMjD70"
+      },
+      "artists": [
+        {
+          "name": "Gabrielle Shonk",
+          "url": "https://open.spotify.com/artist/5Vj7LABYdzz3ZBt1EhDIoQ"
+        }
+      ],
+      "duration_ms": 196613,
+      "name": "Trop tard",
+      "url": "https://open.spotify.com/track/0kGlndxcDA7drOZwgt4eOd"
     },
     {
       "added_at": "2021-02-06 03:12:40",
@@ -1447,6 +1447,22 @@
     {
       "added_at": "2021-02-06 03:12:40",
       "album": {
+        "name": "Alexe",
+        "url": "https://open.spotify.com/album/1tNKK4zgO1SlsWRsFppBpL"
+      },
+      "artists": [
+        {
+          "name": "Alexe",
+          "url": "https://open.spotify.com/artist/25OceRescHJwftJk284v8K"
+        }
+      ],
+      "duration_ms": 273473,
+      "name": "L'hiver",
+      "url": "https://open.spotify.com/track/4wK5JsT3ptA1cSX0Fvm5bh"
+    },
+    {
+      "added_at": "2021-02-06 03:12:40",
+      "album": {
         "name": "T\u00f6lt",
         "url": "https://open.spotify.com/album/59i042u1vXAmvrBJplD8pX"
       },
@@ -1463,18 +1479,18 @@
     {
       "added_at": "2021-02-06 03:12:40",
       "album": {
-        "name": "Alexe",
-        "url": "https://open.spotify.com/album/1tNKK4zgO1SlsWRsFppBpL"
+        "name": "Le courant",
+        "url": "https://open.spotify.com/album/18fIvNQnnJHX3eYrx38lwr"
       },
       "artists": [
         {
-          "name": "Alexe",
-          "url": "https://open.spotify.com/artist/25OceRescHJwftJk284v8K"
+          "name": "Claudelle",
+          "url": "https://open.spotify.com/artist/4XHSoFPfPVLnCEwiFVLLhD"
         }
       ],
-      "duration_ms": 273473,
-      "name": "L'hiver",
-      "url": "https://open.spotify.com/track/4wK5JsT3ptA1cSX0Fvm5bh"
+      "duration_ms": 194042,
+      "name": "Le courant",
+      "url": "https://open.spotify.com/track/2tWRlqt2xme7IoJaaKjTvW"
     },
     {
       "added_at": "2021-02-06 03:12:40",
@@ -1495,22 +1511,6 @@
       "duration_ms": 278653,
       "name": "Pour ce que valent tes larmes",
       "url": "https://open.spotify.com/track/3MWmd6jWckpNjW5PjJxHxA"
-    },
-    {
-      "added_at": "2021-02-06 03:12:40",
-      "album": {
-        "name": "Le courant",
-        "url": "https://open.spotify.com/album/18fIvNQnnJHX3eYrx38lwr"
-      },
-      "artists": [
-        {
-          "name": "Claudelle",
-          "url": "https://open.spotify.com/artist/4XHSoFPfPVLnCEwiFVLLhD"
-        }
-      ],
-      "duration_ms": 194042,
-      "name": "Le courant",
-      "url": "https://open.spotify.com/track/2tWRlqt2xme7IoJaaKjTvW"
     },
     {
       "added_at": "2021-02-06 03:12:40",
@@ -1579,22 +1579,6 @@
     {
       "added_at": "2021-02-06 03:12:40",
       "album": {
-        "name": "Vall\u00e9e d'argent",
-        "url": "https://open.spotify.com/album/09OUJmGawnX1zGiqZJFlLr"
-      },
-      "artists": [
-        {
-          "name": "Sarah Bourdon",
-          "url": "https://open.spotify.com/artist/4UaeNuHgR5vlCt35BhaKus"
-        }
-      ],
-      "duration_ms": 284000,
-      "name": "Samara",
-      "url": "https://open.spotify.com/track/2vCQXuLry4rrlGUS3tp3z5"
-    },
-    {
-      "added_at": "2021-02-06 03:12:40",
-      "album": {
         "name": "M\u00e9lodica",
         "url": "https://open.spotify.com/album/1KcXE7rEnsk3obnRtN28YO"
       },
@@ -1607,6 +1591,22 @@
       "duration_ms": 205026,
       "name": "Habiter l'avenir",
       "url": "https://open.spotify.com/track/7bREIWIo4GsjvWJDtUEDpg"
+    },
+    {
+      "added_at": "2021-02-06 03:12:40",
+      "album": {
+        "name": "Vall\u00e9e d'argent",
+        "url": "https://open.spotify.com/album/09OUJmGawnX1zGiqZJFlLr"
+      },
+      "artists": [
+        {
+          "name": "Sarah Bourdon",
+          "url": "https://open.spotify.com/artist/4UaeNuHgR5vlCt35BhaKus"
+        }
+      ],
+      "duration_ms": 284000,
+      "name": "Samara",
+      "url": "https://open.spotify.com/track/2vCQXuLry4rrlGUS3tp3z5"
     },
     {
       "added_at": "2021-02-06 03:12:40",

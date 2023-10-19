@@ -4,7 +4,7 @@
 
 > Songs of positivity from some of today's leading inspiring artists\. Cover:  Tobe Nwigwe
 
-365 songs - 18 hr 15 min
+366 songs - 18 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -278,9 +278,10 @@
 | [Quarantino](https://open.spotify.com/track/3LKmwpIWHicHZbVKEz1usZ) | [DaShawn Shauntá](https://open.spotify.com/artist/5c0sCqEmXd6T0uWWcAyis9) | [Quarantino](https://open.spotify.com/album/4B63Fl7bus1DEph97L9uQu) | 2:40 | 2021-12-11 | 2022-03-19 |
 | [Que Rica \(feat\. Rockie Fresh & Wes Writer\)](https://open.spotify.com/track/7yzKT78H8rYKCn2S6pDkhq) | [Shepherd](https://open.spotify.com/artist/0YHuTR40zc9yqfoSSArQxU), [Rockie Fresh](https://open.spotify.com/artist/5Joy3NHmxKQGEOnjxtaMz3), [Wes Writer](https://open.spotify.com/artist/4mqKTYiFfZKN9SI9QLzEE1) | [Que Rica \(feat\. Rockie Fresh & Wes Writer\)](https://open.spotify.com/album/7rlWZtosAzuvPIyxMoOu5f) | 2:53 | 2021-12-11 | 2022-03-17 |
 | [Ram in the Bush](https://open.spotify.com/track/1AE7szyIJmjyzMU7ocJqh2) | [Mike Teezy](https://open.spotify.com/artist/6tO2zQcTIRfR2Xdsm9XnL7) | [Ram in the Bush](https://open.spotify.com/album/3gG2gyb4kEHRLE7TKJqXGn) | 2:28 | 2022-05-28 |  |
+| [Reality Checks](https://open.spotify.com/track/0hgTeA5UfYmCzhf7z1uFlz) | [Dru Bex](https://open.spotify.com/artist/11hR4oPRwSDzaUMTPzYuoe) | [Reality Checks](https://open.spotify.com/album/2HhfhRKQym6KfjQdQAZ4Wo) | 3:10 | 2023-02-18 |  |
 | [Reasons](https://open.spotify.com/track/1JnLTx6HzwbLpslHe8WuAW) | [Hulvey](https://open.spotify.com/artist/3zSrc5vUlUxyDdS0KrxFJO), [Lecrae](https://open.spotify.com/artist/1CFCsEqKrCyvAFKOATQHiW), [SVRCINA](https://open.spotify.com/artist/3wRt3iJpZDOg73CTUkfv5C) | [Reasons](https://open.spotify.com/album/1MBqLO9XLipfFfYGbZx8mt) | 3:27 | 2021-12-11 | 2022-11-19 |
 | [Reborn](https://open.spotify.com/track/7IPD7tvVOxDasWX0ZTU8Gx) | [Evan Craft](https://open.spotify.com/artist/4vEpUOtKWtpotWkuv0Vlx4), [Redimi2](https://open.spotify.com/artist/0WZOmdnCln6FK6GM9e2tGm) | [Desesperado \(Español\)](https://open.spotify.com/album/3KkwQBbgUCdbStPTGEN8qQ) | 3:01 | 2021-12-11 | 2022-11-19 |
-| [Red Light Green Light](https://open.spotify.com/track/7vhLO7AIWYlMjLk2aAED7x) | [Steven Malcolm](https://open.spotify.com/artist/5yqWHaDl8ZrYgeKANLyIv8), [Ty Brasel](https://open.spotify.com/artist/419NjKezGEJOVPtiymCp2p), [Jay\-Way](https://open.spotify.com/artist/1RDbE3dM2bNNSTh88R4MQ7) | [Tree](https://open.spotify.com/album/54wHmXPZMHh54mWa1cHHgY) | 4:02 | 2022-11-18 |  |
+| [Red Light Green Light](https://open.spotify.com/track/7vhLO7AIWYlMjLk2aAED7x) | [Steven Malcolm](https://open.spotify.com/artist/5yqWHaDl8ZrYgeKANLyIv8), [Ty Brasel](https://open.spotify.com/artist/419NjKezGEJOVPtiymCp2p), [Jay\-Way](https://open.spotify.com/artist/1RDbE3dM2bNNSTh88R4MQ7) | [Tree](https://open.spotify.com/album/54wHmXPZMHh54mWa1cHHgY) | 4:02 | 2022-11-18 | 2023-10-19 |
 | [Rendezvous](https://open.spotify.com/track/0MxGwcdb4Ms0U7DvkJth2q) | [Social Club Misfits](https://open.spotify.com/artist/0wnsM0ziqToBwQeEbH0akL), [Torey D'Shaun](https://open.spotify.com/artist/78DvQP3rczGqfgEiLfFnCD) | [Rendezvous](https://open.spotify.com/album/1kLw0lTfdQ7Bcob66mxnSJ) | 3:18 | 2022-11-18 | 2023-09-21 |
 | [Respect My Team](https://open.spotify.com/track/1oEPa4o4yRCKNPVD0PVUkW) | [Tedashii](https://open.spotify.com/artist/4c6lhwoOrmgNWvl0GxHlW1), [Trip Lee](https://open.spotify.com/artist/12H1Dmi64fAmmARrsyVFzy), [Lecrae](https://open.spotify.com/artist/1CFCsEqKrCyvAFKOATQHiW) | [Respect My Team](https://open.spotify.com/album/1d7o2fV8QVIxvIDYGlRLxe) | 3:47 | 2022-11-18 |  |
 | [REST](https://open.spotify.com/track/0d0NpcKaUHchHs4sFYemL8) | [Not Klyde](https://open.spotify.com/artist/052Mwr5vCyfzG81pUr19Kw), [nobigdyl.](https://open.spotify.com/artist/2d8NsBa8O4C6bgQatFP5V4) | [HELLO KIZZY & COMPANY](https://open.spotify.com/album/6b3OghSed7wxLlejTFZKdO) | 3:07 | 2022-11-18 |  |

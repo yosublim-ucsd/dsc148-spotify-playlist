@@ -2100,7 +2100,7 @@
       ],
       "date_added": "2023-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-19",
       "duration_ms": 158373,
       "name": "Dolly Suite, Op. 56: I. Berceuse",
       "url": "https://open.spotify.com/track/0rTWmhqlac0DNHc5xXk1SW"
@@ -8674,7 +8674,7 @@
       ],
       "date_added": "2022-10-20",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-13",
+      "date_removed": null,
       "duration_ms": 278400,
       "name": "TREE",
       "url": "https://open.spotify.com/track/5nW41zamR8GqKYUxvxo12d"
@@ -9238,6 +9238,24 @@
       "duration_ms": 232433,
       "name": "Widmung, S. 566 (After R. Schumann)",
       "url": "https://open.spotify.com/track/6Lh6zaxc4P4grGdma3cAT0"
+    },
+    {
+      "album": {
+        "name": "Willie Crotty",
+        "url": "https://open.spotify.com/album/6XMhgT5cNXxRpqnJ2iPMwT"
+      },
+      "artists": [
+        {
+          "name": "John Francis Flynn",
+          "url": "https://open.spotify.com/artist/6Fk7AKTOKr4iB3Xth93KHX"
+        }
+      ],
+      "date_added": "2023-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 407815,
+      "name": "Willie Crotty",
+      "url": "https://open.spotify.com/track/6sbqaVExoAv3W98haxS9ot"
     },
     {
       "album": {

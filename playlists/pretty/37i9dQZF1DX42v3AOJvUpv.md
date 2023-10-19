@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX42v3AOJvUpv.md) - [plain]
 
 > Entre peinados, maquillajes y vestimentas exóticas, la estética dominó la escena musical de los años ’80\. Foto:<a href="spotify:user:spotify:playlist:37i9dQZF1DWThxX36B17XL"> Soda Stereo</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 39,578 likes - 50 songs - 3 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 39,606 likes - 50 songs - 3 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,9 +34,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX42v3AOJvUpv.md) - [plain]
 | 24 | [Bailando en las Veredas](https://open.spotify.com/track/2q4WF7KqM5yvVoQNCyHHZd) | [Raul Porchetto](https://open.spotify.com/artist/3WoxTj3fh8I58MpnwZyYyL) | [Noche y Día](https://open.spotify.com/album/0FWccOOClD62jDsDvqj6Gl) | 4:16 |
 | 25 | [Amor Descartable](https://open.spotify.com/track/46lIx69EL4rkLtlfqoomyw) | [Virus](https://open.spotify.com/artist/0G7A5LzQAs2egiQl7hO5tV) | [Relax](https://open.spotify.com/album/3JpFR1SeMvppqhUiXSsvT3) | 3:30 |
 | 26 | [Ella Vendrá \- Remastered](https://open.spotify.com/track/7Gl2RyA6Vn4KdgpacprbUg) | [Don Cornelio Y La Zona](https://open.spotify.com/artist/1wELOF6Lb5TckxS5EiiQZe) | [Don Cornelio y La Zona](https://open.spotify.com/album/0mgoxCZiBu6HPvv9Dk4wNz) | 4:11 |
-| 27 | [Menta y limón](https://open.spotify.com/track/6mFdDYmOzdE7suUpYi23Ie) | [Roque Narvaja \(F\)](https://open.spotify.com/artist/3zDNMwCfVORx1xwo6DGBlp) | [20 Grandes Canciones](https://open.spotify.com/album/0mdIXKbQrc2PlxyadOVO9o) | 4:18 |
+| 27 | [Lunes Por La Madrugada](https://open.spotify.com/track/0F9DOXIFk0rJW9AmDkUuSz) | [Los Abuelos De La Nada](https://open.spotify.com/artist/5R3NywPPOyhLfdvutgg0me) | [Los Abuelos De La Nada 1](https://open.spotify.com/album/2SoFsWPQgW2rSGiBmn1GMI) | 3:14 |
 | 28 | [Estallando Desde el Océano](https://open.spotify.com/track/7379uubtjZDDT6Phsj4nhj) | [Sumo](https://open.spotify.com/artist/10AzTrYMPVVmpKoBP5bX9W) | [Llegando Los Monos](https://open.spotify.com/album/2kn0EF90FuahMHtPpwVsX4) | 3:34 |
-| 29 | [Lunes Por La Madrugada](https://open.spotify.com/track/0F9DOXIFk0rJW9AmDkUuSz) | [Los Abuelos De La Nada](https://open.spotify.com/artist/5R3NywPPOyhLfdvutgg0me) | [Los Abuelos De La Nada 1](https://open.spotify.com/album/2SoFsWPQgW2rSGiBmn1GMI) | 3:14 |
+| 29 | [Menta y limón](https://open.spotify.com/track/6mFdDYmOzdE7suUpYi23Ie) | [Roque Narvaja \(F\)](https://open.spotify.com/artist/3zDNMwCfVORx1xwo6DGBlp) | [20 Grandes Canciones](https://open.spotify.com/album/0mdIXKbQrc2PlxyadOVO9o) | 4:18 |
 | 30 | [Mundo Agradable](https://open.spotify.com/track/1zMSZbxk4dDAHxBS5V07KT) | [Serú Girán](https://open.spotify.com/artist/6CrQKZeuSKNYgrE7PeYqJ1) | [Seru Giran 92](https://open.spotify.com/album/2RpzZJ2bn9gEtHzLsTejT4) | 4:11 |
 | 31 | [1\-2 Ultraviolento](https://open.spotify.com/track/3ZFfwUQxXspg5hhJXyFR8J) | [Los Violadores](https://open.spotify.com/artist/4EkrhlCS2DbFxvC3Uhq6p2) | [Lo Mejor De Los Violadores](https://open.spotify.com/album/5mabtHYSp09PBdcIvTut7i) | 4:18 |
 | 32 | [Amanece En La Ruta](https://open.spotify.com/track/29UOHJBpXY1L1QiWaZLY8o) | [Suéter](https://open.spotify.com/artist/6YbPwijYI1KH2v4aPzAORT) | [Completo](https://open.spotify.com/album/1kzbderno6TMQbGXYGLbtx) | 3:51 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX42v3AOJvUpv.md) - [plain]
 | 49 | [Himno De Mi Corazón](https://open.spotify.com/track/0Y7Fr8AG39QyLQ3TAb8uoX) | [Los Abuelos De La Nada](https://open.spotify.com/artist/5R3NywPPOyhLfdvutgg0me) | [Los Abuelos De La Nada 1](https://open.spotify.com/album/2SoFsWPQgW2rSGiBmn1GMI) | 5:05 |
 | 50 | [Conexión París](https://open.spotify.com/track/24X9r3zeRgB4VTLz75TRw9) | [Sobrecarga](https://open.spotify.com/artist/49UpIRD1s5bMEhbYYTnqUD) | [Sentidos Congelados](https://open.spotify.com/album/0wXerl0nWKYZYAaMj18oVQ) | 5:01 |
 
-Snapshot ID: `MCwzNjYzNWViNzVlNzM1YWJiZDY3MDVmYWQ4MzU5YmZiYTk3ZDE0N2M0`
+Snapshot ID: `MCwzNmQ4YjFmZjIxOTAyZjlkNjQzNjFjOGZlZmNmNTdlYWUxMjAxMDZh`

@@ -4,7 +4,7 @@
 
 > Las canciones alternativas que definieron el 2022 en Hispanoamérica\. Marilina Bertoldi y Javiera Mena en portada.
 
-53 songs - 3 hr 7 min
+54 songs - 3 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -51,7 +51,8 @@
 | [Sitting In The Corner \(feat\. Adriel Favela & Kacey Musgraves\)](https://open.spotify.com/track/1Cx5pTBRWI67JXVmMGJT23) | [Cuco](https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP), [Adriel Favela](https://open.spotify.com/artist/0PrhwIWbqYFYyY2ZrkIWgI), [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Fantasy Gateway](https://open.spotify.com/album/7JvjOgEBBcrLs9048x1QcM) | 3:52 | 2022-11-30 |  |
 | [Tantas Cosas Buenas](https://open.spotify.com/track/5FNvmP6LSxwbyQM3Dc7PkK) | [El Mató a un Policía Motorizado](https://open.spotify.com/artist/5rLsN2LxYaEPLa1N7I2mPB) | [Súper Terror](https://open.spotify.com/album/7iOJ8uRQ1mylHA2ndpzYkS) | 3:58 | 2022-11-30 |  |
 | [Tantas Cosas Buenas](https://open.spotify.com/track/6SOQ1rrcQL3UcGmsLOrXtd) | [El Mató a un Policía Motorizado](https://open.spotify.com/artist/5rLsN2LxYaEPLa1N7I2mPB) | [Tantas Cosas Buenas](https://open.spotify.com/album/3sGo39318ViQM2ZHNporVo) | 3:58 | 2022-11-30 | 2023-07-11 |
-| [Te Sigo Buscando](https://open.spotify.com/track/26XiKU35Cs3TnPKvX0Oamf) | [Armenia](https://open.spotify.com/artist/4FmrAtWfKHAIysakSpmatx) | [Te Sigo Buscando](https://open.spotify.com/album/0MxoRjinPNdShp76AEPGmo) | 4:01 | 2022-11-30 |  |
+| [Te Sigo Buscando](https://open.spotify.com/track/26XiKU35Cs3TnPKvX0Oamf) | [Armenia](https://open.spotify.com/artist/4FmrAtWfKHAIysakSpmatx) | [Te Sigo Buscando](https://open.spotify.com/album/0MxoRjinPNdShp76AEPGmo) | 4:01 | 2022-11-30 | 2023-10-19 |
+| [Te Sigo Buscando](https://open.spotify.com/track/38EyQNxJpINGtcWleiFcbw) | [Armenia](https://open.spotify.com/artist/4FmrAtWfKHAIysakSpmatx) | [Te Sigo Buscando](https://open.spotify.com/album/1Ado78HCrOHFmDNCo2F1Ao) | 4:01 | 2022-11-30 |  |
 | [Timeless](https://open.spotify.com/track/7KlW2RiPAWFNT75f216VgH) | [Ambar Lucid](https://open.spotify.com/artist/4nzV0hThyodYzrwksnS86G) | [Timeless](https://open.spotify.com/album/4LQTxLRClMkSo9df6X8S1g) | 3:38 | 2022-11-30 |  |
 | [TRASCENDER](https://open.spotify.com/track/4vqZefmXZYfnLM03gJQtPu) | [Vanessa Zamora](https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC) | [DAMALEONA, VOL\. 1](https://open.spotify.com/album/2oObvntvGhOHUcLr6JCQFi) | 4:15 | 2022-11-30 | 2023-03-02 |
 | [TRASCENDER](https://open.spotify.com/track/5xZq4873FHfXsT3gGhYY6K) | [Vanessa Zamora](https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC) | [DAMALEONA](https://open.spotify.com/album/4CtZOAq6nHz4nw6vKqeSkL) | 4:15 | 2022-11-30 |  |

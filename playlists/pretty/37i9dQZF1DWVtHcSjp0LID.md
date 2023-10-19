@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtHcSjp0LID.md) - [plain]
 
 > Deep beats to study to.
 
-[Spotify](https://open.spotify.com/user/spotify) - 62,850 likes - 50 songs - 4 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 62,914 likes - 50 songs - 4 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,12 +36,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtHcSjp0LID.md) - [plain]
 | 26 | [Dubmission \- Original](https://open.spotify.com/track/23AKDhAiWJSyLOdn5AB9Gs) | [Anja Schneider](https://open.spotify.com/artist/0f14r70OISSfJoyqYaHbgV) | [Dubmission \(Original Edit\)](https://open.spotify.com/album/3gMvOnZHnahNKmw1k5MqJ4) | 6:35 |
 | 27 | [Pacer](https://open.spotify.com/track/7edXzWL0NdmKOpGe6NKHyO) | [Jesper Ryom](https://open.spotify.com/artist/6QAXPFWafsrhltnhogrQ1P) | [Pacer](https://open.spotify.com/album/37phnoxKPcmDZ0rxmC5hZw) | 7:39 |
 | 28 | [Pay Phone](https://open.spotify.com/track/6udA6tzAZ2bolSfaSibQEV) | [Fantom '87](https://open.spotify.com/artist/2T4w33dLBJyXVZugL5ZrwU) | [Discovery](https://open.spotify.com/album/0Hnl1IyMwvwT3ieAqR1fSa) | 5:53 |
-| 29 | [Luscious Rain](https://open.spotify.com/track/5Cq74SxpiW6llWC4JfKbe3) | [Nora En Pure](https://open.spotify.com/artist/24DO0PijjITGIEWsO8XaPs) | [Luscious Rain](https://open.spotify.com/album/5X7TUEwe3dnQKeqN3qBQZv) | 3:09 |
-| 30 | [Zeit für Sommer](https://open.spotify.com/track/7jJUfG00mR9VtBeRdtU9H2) | [Herr Lang](https://open.spotify.com/artist/1QWAUgdcriLwIL5o0ZT0b5) | [Davon](https://open.spotify.com/album/2c0kuubSze3tSfrhDB1kbR) | 6:01 |
-| 31 | [Neverland \- Aparde Remix](https://open.spotify.com/track/6Z5NPPpYnWRxGHQyWz2bPx) | [Natascha Polké](https://open.spotify.com/artist/5FLN3H4PiuUQMmFzGmcQ96), [Aparde](https://open.spotify.com/artist/2EX6hgMIUZhPty734qcBaS) | [Stars Wrapped In Skin EP](https://open.spotify.com/album/493mL9Bv6rYSOjTj8CLFJr) | 6:27 |
+| 29 | [Zeit für Sommer](https://open.spotify.com/track/7jJUfG00mR9VtBeRdtU9H2) | [Herr Lang](https://open.spotify.com/artist/1QWAUgdcriLwIL5o0ZT0b5) | [Davon](https://open.spotify.com/album/2c0kuubSze3tSfrhDB1kbR) | 6:01 |
+| 30 | [Neverland \- Aparde Remix](https://open.spotify.com/track/6Z5NPPpYnWRxGHQyWz2bPx) | [Natascha Polké](https://open.spotify.com/artist/5FLN3H4PiuUQMmFzGmcQ96), [Aparde](https://open.spotify.com/artist/2EX6hgMIUZhPty734qcBaS) | [Stars Wrapped In Skin EP](https://open.spotify.com/album/493mL9Bv6rYSOjTj8CLFJr) | 6:27 |
+| 31 | [Luscious Rain](https://open.spotify.com/track/5Cq74SxpiW6llWC4JfKbe3) | [Nora En Pure](https://open.spotify.com/artist/24DO0PijjITGIEWsO8XaPs) | [Luscious Rain](https://open.spotify.com/album/5X7TUEwe3dnQKeqN3qBQZv) | 3:09 |
 | 32 | [The Only Way Out Is Through](https://open.spotify.com/track/35bAjRIbS6LGuxCR9aP92T) | [Pretty Girl](https://open.spotify.com/artist/6KkltYAOOGsCaW7dO9jF98) | [The Only Way Out Is Through](https://open.spotify.com/album/7xHkCvvUUAN7vDz9CrtJb5) | 8:14 |
-| 33 | [Youth](https://open.spotify.com/track/5DvG9PknutxGzDCFNJerg0) | [Holly North](https://open.spotify.com/artist/19NPr9xQ0jUnX9PpFmtl8p) | [Youth](https://open.spotify.com/album/4uD91vlM1D0VlFlAnZESC2) | 4:10 |
-| 34 | [Arterial](https://open.spotify.com/track/5G67YWTwKKRBkk1EH8aw3S) | [Lusine](https://open.spotify.com/artist/2fMe9lZs5HGGOwh8cMSIub) | [Arterial](https://open.spotify.com/album/11IULm1RrL6acmTm3qQzLH) | 4:14 |
+| 33 | [Arterial](https://open.spotify.com/track/5G67YWTwKKRBkk1EH8aw3S) | [Lusine](https://open.spotify.com/artist/2fMe9lZs5HGGOwh8cMSIub) | [Arterial](https://open.spotify.com/album/11IULm1RrL6acmTm3qQzLH) | 4:14 |
+| 34 | [Youth](https://open.spotify.com/track/5DvG9PknutxGzDCFNJerg0) | [Holly North](https://open.spotify.com/artist/19NPr9xQ0jUnX9PpFmtl8p) | [Youth](https://open.spotify.com/album/4uD91vlM1D0VlFlAnZESC2) | 4:10 |
 | 35 | [The Year After](https://open.spotify.com/track/7eeu7aUoOaK7j3w7Cb2eiY) | [French 79](https://open.spotify.com/artist/6MJKlN8ya42Agsw3iQZs6e) | [The Year After](https://open.spotify.com/album/07h9aRI5hbIbaF0ltioU2M) | 7:08 |
 | 36 | [Bluebird](https://open.spotify.com/track/1uBYrPtYmZ8cm3OYVBvSjk) | [Stil & Bense](https://open.spotify.com/artist/5nuJOwgBqKBIWyCr0dQgEH) | [Kopernikus EP](https://open.spotify.com/album/6AwDk7XTHtOa9jFY6CaAp8) | 7:20 |
 | 37 | [Nektar Leftie MIX \- Erdbeerschnitzel Remix](https://open.spotify.com/track/5yHjIzK4HlP9pmnpTyKiyQ) | [Iron Curtis](https://open.spotify.com/artist/3SxSMKGboN9d8DxDRIB7pH), [Johannes Albert](https://open.spotify.com/artist/5FMcKm7A4LRwIJnkzuKZFt), [Lisa Toh](https://open.spotify.com/artist/17oFlDwJ5mU3pfbUxArTCO), [Erdbeerschnitzel](https://open.spotify.com/artist/36VqKnfwNzccEtS4eiFkMx) | [Moon II Remixes Pt\. II](https://open.spotify.com/album/7xlT3P0bDwaphbAUhIYYpD) | 4:37 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtHcSjp0LID.md) - [plain]
 | 49 | [Ichika](https://open.spotify.com/track/1MRBa5AnDvmIoiT2NyyBoL) | [Jozef K](https://open.spotify.com/artist/30qZ701I6hThXcmPPkcrF0) | [Ichika](https://open.spotify.com/album/4lrJKMimi4yC5uGgUVNdgZ) | 8:05 |
 | 50 | [Cow Palace](https://open.spotify.com/track/3KOJFD2qK8pvcXMstA8Ss4) | [Session Victim](https://open.spotify.com/artist/4Hl6TEQAFgH0XrZq4f8okX) | [The Haunted House of House](https://open.spotify.com/album/2F0NkwRHdlAjnMIiYbjF1n) | 5:46 |
 
-Snapshot ID: `MCw1YTRkMTk2OWE5MzU1NDdiNGIzYTM0Y2RkY2Q4ODkxZmJmYWJjOGQ5`
+Snapshot ID: `MCwxNDY0NDQ5OTllYmZhN2M0YTg5YmU1Nzk0OWJhNmFmYTlkMTI5YzUx`

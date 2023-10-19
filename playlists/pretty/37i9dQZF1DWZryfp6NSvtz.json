@@ -1,12 +1,12 @@
 {
   "description": "The best new rock tracks every week. Cover: blink-182",
-  "num_followers": 427139,
+  "num_followers": 427353,
   "original_name": "All New Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxZGFhYjJiZDQwMTQ3YTViYTIzODFkNzQ2Zjg0NDhhODFiNmZkZTU2",
+  "snapshot_id": "MCw1MmEzZDY5ZDY0NWI1OWQyOGNhNjlmNGQ0Njg5N2M0MDU4NGZlNjI4",
   "tracks": [
     {
       "added_at": "2023-10-13 04:01:00",
@@ -419,22 +419,6 @@
     {
       "added_at": "2023-10-13 04:01:00",
       "album": {
-        "name": "Backbone",
-        "url": "https://open.spotify.com/album/6xX5k5pieb7GtDHdNv1lRv"
-      },
-      "artists": [
-        {
-          "name": "MONOWHALES",
-          "url": "https://open.spotify.com/artist/6Ok8AIUj7YYGC981xWCbgQ"
-        }
-      ],
-      "duration_ms": 193049,
-      "name": "Backbone",
-      "url": "https://open.spotify.com/track/7cl08gllA42WPESPRGUlqQ"
-    },
-    {
-      "added_at": "2023-10-13 04:01:00",
-      "album": {
         "name": "The Rot That Grows Inside My Chest",
         "url": "https://open.spotify.com/album/6Y0Gh7nGWrVw1CfA4fDWIV"
       },
@@ -447,6 +431,22 @@
       "duration_ms": 154142,
       "name": "Yoke",
       "url": "https://open.spotify.com/track/6AUifRe9r44yBbsF2SeuqK"
+    },
+    {
+      "added_at": "2023-10-13 04:01:00",
+      "album": {
+        "name": "Backbone",
+        "url": "https://open.spotify.com/album/6xX5k5pieb7GtDHdNv1lRv"
+      },
+      "artists": [
+        {
+          "name": "MONOWHALES",
+          "url": "https://open.spotify.com/artist/6Ok8AIUj7YYGC981xWCbgQ"
+        }
+      ],
+      "duration_ms": 193049,
+      "name": "Backbone",
+      "url": "https://open.spotify.com/track/7cl08gllA42WPESPRGUlqQ"
     },
     {
       "added_at": "2023-10-13 04:01:00",
@@ -479,22 +479,6 @@
       "duration_ms": 177176,
       "name": "Best Friend",
       "url": "https://open.spotify.com/track/6ZNlHegzWxt8Sm8meMRuu5"
-    },
-    {
-      "added_at": "2023-10-13 04:01:00",
-      "album": {
-        "name": "Playing With Fire / ELF",
-        "url": "https://open.spotify.com/album/5S0CnSM5Ni9l7W7xhdhhqF"
-      },
-      "artists": [
-        {
-          "name": "Feeder",
-          "url": "https://open.spotify.com/artist/0ZZr6Y49NZWRJc0uCwqpMR"
-        }
-      ],
-      "duration_ms": 238847,
-      "name": "ELF",
-      "url": "https://open.spotify.com/track/1gQjg72dJ4hMDQkRHLNxgH"
     },
     {
       "added_at": "2023-10-13 04:01:00",
@@ -543,6 +527,22 @@
       "duration_ms": 166500,
       "name": "Scared To Lose You",
       "url": "https://open.spotify.com/track/0UO5p0lbj3SfBG0HNKZjUl"
+    },
+    {
+      "added_at": "2023-10-13 04:01:00",
+      "album": {
+        "name": "Playing With Fire / ELF",
+        "url": "https://open.spotify.com/album/5S0CnSM5Ni9l7W7xhdhhqF"
+      },
+      "artists": [
+        {
+          "name": "Feeder",
+          "url": "https://open.spotify.com/artist/0ZZr6Y49NZWRJc0uCwqpMR"
+        }
+      ],
+      "duration_ms": 238847,
+      "name": "ELF",
+      "url": "https://open.spotify.com/track/1gQjg72dJ4hMDQkRHLNxgH"
     },
     {
       "added_at": "2023-10-13 04:01:00",
@@ -611,22 +611,6 @@
     {
       "added_at": "2023-10-13 04:01:00",
       "album": {
-        "name": "Super Bon Bon",
-        "url": "https://open.spotify.com/album/0tkRK3oBZDifplfC3HvqBx"
-      },
-      "artists": [
-        {
-          "name": "Sunfish",
-          "url": "https://open.spotify.com/artist/6pSYsLGxRDhv5iEBzZAI4J"
-        }
-      ],
-      "duration_ms": 235979,
-      "name": "Super Bon Bon",
-      "url": "https://open.spotify.com/track/4ALTgkMyedQIg1E9APkVdw"
-    },
-    {
-      "added_at": "2023-10-13 04:01:00",
-      "album": {
         "name": "Walken",
         "url": "https://open.spotify.com/album/5dweza6BYF5jgWvL4IkadL"
       },
@@ -655,6 +639,22 @@
       "duration_ms": 204000,
       "name": "Scumbag/Wetrag",
       "url": "https://open.spotify.com/track/4aN748ELJCyVQKZD2wsa6L"
+    },
+    {
+      "added_at": "2023-10-13 04:01:00",
+      "album": {
+        "name": "Super Bon Bon",
+        "url": "https://open.spotify.com/album/0tkRK3oBZDifplfC3HvqBx"
+      },
+      "artists": [
+        {
+          "name": "Sunfish",
+          "url": "https://open.spotify.com/artist/6pSYsLGxRDhv5iEBzZAI4J"
+        }
+      ],
+      "duration_ms": 235979,
+      "name": "Super Bon Bon",
+      "url": "https://open.spotify.com/track/4ALTgkMyedQIg1E9APkVdw"
     },
     {
       "added_at": "2023-10-13 04:01:00",
@@ -691,18 +691,18 @@
     {
       "added_at": "2023-10-13 04:01:00",
       "album": {
-        "name": "Accidental Doom",
-        "url": "https://open.spotify.com/album/3kZXb8vcfhNLKw58FyjbOr"
+        "name": "Gelled Water",
+        "url": "https://open.spotify.com/album/7cBhtxtvMTN8hwuS2qlATW"
       },
       "artists": [
         {
-          "name": "Pit Pony",
-          "url": "https://open.spotify.com/artist/1Tam6yeKCTZNKVah41Uv7j"
+          "name": "Dro\u00efd Fant\u00f4m",
+          "url": "https://open.spotify.com/artist/7HrozFN6zYmxYBLejkkZuz"
         }
       ],
-      "duration_ms": 253200,
-      "name": "Accidental Doom",
-      "url": "https://open.spotify.com/track/4RWRV4KKmBJevD1jSupSry"
+      "duration_ms": 226906,
+      "name": "Gelled Water",
+      "url": "https://open.spotify.com/track/1pdkMHkkctz1IlomRCzErR"
     },
     {
       "added_at": "2023-10-13 04:01:00",
@@ -723,18 +723,18 @@
     {
       "added_at": "2023-10-13 04:01:00",
       "album": {
-        "name": "Gelled Water",
-        "url": "https://open.spotify.com/album/7cBhtxtvMTN8hwuS2qlATW"
+        "name": "Accidental Doom",
+        "url": "https://open.spotify.com/album/3kZXb8vcfhNLKw58FyjbOr"
       },
       "artists": [
         {
-          "name": "Dro\u00efd Fant\u00f4m",
-          "url": "https://open.spotify.com/artist/7HrozFN6zYmxYBLejkkZuz"
+          "name": "Pit Pony",
+          "url": "https://open.spotify.com/artist/1Tam6yeKCTZNKVah41Uv7j"
         }
       ],
-      "duration_ms": 226906,
-      "name": "Gelled Water",
-      "url": "https://open.spotify.com/track/1pdkMHkkctz1IlomRCzErR"
+      "duration_ms": 253200,
+      "name": "Accidental Doom",
+      "url": "https://open.spotify.com/track/4RWRV4KKmBJevD1jSupSry"
     },
     {
       "added_at": "2023-10-13 04:01:00",

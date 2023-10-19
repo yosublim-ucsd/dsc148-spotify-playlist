@@ -1,12 +1,12 @@
 {
   "description": "Louder, faster! Kickass metal tracks to drive you forward.",
-  "num_followers": 556575,
+  "num_followers": 556786,
   "original_name": "Metal Charge",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhODBkYjkyN2NjMWU4N2MyYjIzYWMwMjQyNTc4MjI5ZTkwOGRlNTIx",
+  "snapshot_id": "MCw2MDI4YTc2M2JkOWI1YzRiYTI1NDYzZDUzYjRiYTJhMmY4ZTY3Mzk5",
   "tracks": [
     {
       "added_at": "2023-10-17 13:57:43",
@@ -571,18 +571,18 @@
     {
       "added_at": "2023-10-17 13:57:43",
       "album": {
-        "name": "Piece of Mind (2015 - Remaster)",
-        "url": "https://open.spotify.com/album/6iVSpex7UohpwPOYZEYmvm"
+        "name": "Repentless",
+        "url": "https://open.spotify.com/album/5QTGKCuJbyViaQQXjHOvjL"
       },
       "artists": [
         {
-          "name": "Iron Maiden",
-          "url": "https://open.spotify.com/artist/6mdiAmATAx73kdxrNrnlao"
+          "name": "Slayer",
+          "url": "https://open.spotify.com/artist/1IQ2e1buppatiN1bxUVkrk"
         }
       ],
-      "duration_ms": 252733,
-      "name": "The Trooper - 2015 Remaster",
-      "url": "https://open.spotify.com/track/1Ab3hhOw1TJWDgO10vlxNZ"
+      "duration_ms": 199866,
+      "name": "Repentless",
+      "url": "https://open.spotify.com/track/6W2KBpMMXW17r7dPyqi8Iu"
     },
     {
       "added_at": "2023-10-17 13:57:43",
@@ -603,18 +603,18 @@
     {
       "added_at": "2023-10-17 13:57:43",
       "album": {
-        "name": "Repentless",
-        "url": "https://open.spotify.com/album/5QTGKCuJbyViaQQXjHOvjL"
+        "name": "Piece of Mind (2015 - Remaster)",
+        "url": "https://open.spotify.com/album/6iVSpex7UohpwPOYZEYmvm"
       },
       "artists": [
         {
-          "name": "Slayer",
-          "url": "https://open.spotify.com/artist/1IQ2e1buppatiN1bxUVkrk"
+          "name": "Iron Maiden",
+          "url": "https://open.spotify.com/artist/6mdiAmATAx73kdxrNrnlao"
         }
       ],
-      "duration_ms": 199866,
-      "name": "Repentless",
-      "url": "https://open.spotify.com/track/6W2KBpMMXW17r7dPyqi8Iu"
+      "duration_ms": 252733,
+      "name": "The Trooper - 2015 Remaster",
+      "url": "https://open.spotify.com/track/1Ab3hhOw1TJWDgO10vlxNZ"
     },
     {
       "added_at": "2023-10-17 13:57:43",
@@ -1487,22 +1487,6 @@
     {
       "added_at": "2023-10-17 13:57:43",
       "album": {
-        "name": "Mother",
-        "url": "https://open.spotify.com/album/28IlwCwIt69Xh627BwUC8F"
-      },
-      "artists": [
-        {
-          "name": "In This Moment",
-          "url": "https://open.spotify.com/artist/6tbLPxj1uQ6vsRQZI2YFCT"
-        }
-      ],
-      "duration_ms": 249050,
-      "name": "As Above, So Below",
-      "url": "https://open.spotify.com/track/4pj2L6WbBAlevdxx6jgm32"
-    },
-    {
-      "added_at": "2023-10-17 13:57:43",
-      "album": {
         "name": "The Ghost Inside",
         "url": "https://open.spotify.com/album/6bPHoxDscsiPULJBJE0b4Z"
       },
@@ -1515,6 +1499,22 @@
       "duration_ms": 298825,
       "name": "Aftermath",
       "url": "https://open.spotify.com/track/6kjEZNcvRZZW1h4E6x8HJD"
+    },
+    {
+      "added_at": "2023-10-17 13:57:43",
+      "album": {
+        "name": "Mother",
+        "url": "https://open.spotify.com/album/28IlwCwIt69Xh627BwUC8F"
+      },
+      "artists": [
+        {
+          "name": "In This Moment",
+          "url": "https://open.spotify.com/artist/6tbLPxj1uQ6vsRQZI2YFCT"
+        }
+      ],
+      "duration_ms": 249050,
+      "name": "As Above, So Below",
+      "url": "https://open.spotify.com/track/4pj2L6WbBAlevdxx6jgm32"
     },
     {
       "added_at": "2023-10-17 13:57:43",

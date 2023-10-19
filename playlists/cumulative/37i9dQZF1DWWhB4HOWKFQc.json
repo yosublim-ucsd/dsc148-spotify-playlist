@@ -41,6 +41,28 @@
     },
     {
       "album": {
+        "name": "3D : The Remixes",
+        "url": "https://open.spotify.com/album/0fJ0beklzFwoBv01U8792s"
+      },
+      "artists": [
+        {
+          "name": "Jung Kook",
+          "url": "https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc"
+        },
+        {
+          "name": "Jack Harlow",
+          "url": "https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ"
+        }
+      ],
+      "date_added": "2023-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202045,
+      "name": "3D (feat. Jack Harlow) (Clean Ver.)",
+      "url": "https://open.spotify.com/track/0TaaG2kxjzSjVbmmiiSZEa"
+    },
+    {
+      "album": {
         "name": "A Piece of You",
         "url": "https://open.spotify.com/album/0AcubuOrOCfOtq27h2cudt"
       },
@@ -1121,6 +1143,24 @@
     },
     {
       "album": {
+        "name": "Denting",
+        "url": "https://open.spotify.com/album/1nZGplPUPFeiAxhJnl0Ajx"
+      },
+      "artists": [
+        {
+          "name": "Petra Sihombing",
+          "url": "https://open.spotify.com/artist/5TV9JhBjG6c2hHsoibBaIW"
+        }
+      ],
+      "date_added": "2023-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189416,
+      "name": "Denting",
+      "url": "https://open.spotify.com/track/4i7xD6pmEaV25wL6K7Pjd0"
+    },
+    {
+      "album": {
         "name": "Die For You (Remix)",
         "url": "https://open.spotify.com/album/6Exo0MYoL3XammoTDeihFy"
       },
@@ -1508,7 +1548,7 @@
       ],
       "date_added": "2023-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-19",
       "duration_ms": 131872,
       "name": "greedy",
       "url": "https://open.spotify.com/track/3rUGC1vUpkDG9CZFHMur1t"
@@ -3521,6 +3561,24 @@
     },
     {
       "album": {
+        "name": "Semua Aku Dirayakan",
+        "url": "https://open.spotify.com/album/36D5g0IFrPL3Rdzj3vARGZ"
+      },
+      "artists": [
+        {
+          "name": "Nadin Amizah",
+          "url": "https://open.spotify.com/artist/20zafXaLhm5IcXnSU93rNn"
+        }
+      ],
+      "date_added": "2023-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 310625,
+      "name": "Semua Aku Dirayakan",
+      "url": "https://open.spotify.com/track/2x3vwXWuecPrRqgEUuSUJA"
+    },
+    {
+      "album": {
         "name": "Seperti Seharusnya",
         "url": "https://open.spotify.com/album/4zQgXju45dVJACZosujFtw"
       },
@@ -4266,7 +4324,7 @@
       ],
       "date_added": "2023-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-19",
       "duration_ms": 255375,
       "name": "Tawa",
       "url": "https://open.spotify.com/track/2cUtg4hpCug4Gc9aibZIYV"

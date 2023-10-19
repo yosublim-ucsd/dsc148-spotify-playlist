@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX43pSb7XuvgU.md) - [plain]
 
 > Los grandes éxitos de José José y Juan Gabriel en un mismo lugar.
 
-[Spotify](https://open.spotify.com/user/spotify) - 125,455 likes - 100 songs - 6 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 125,629 likes - 100 songs - 6 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -83,8 +83,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX43pSb7XuvgU.md) - [plain]
 | 73 | [La Frontera](https://open.spotify.com/track/7HMBDmx3tDOzBpyUuaB24v) | [Juan Gabriel](https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq) | [Recuerdos](https://open.spotify.com/album/1m9I3KWRnaqOTGqptc1gT2) | 4:10 |
 | 74 | [Debo Hacerlo](https://open.spotify.com/track/0Vu6MvjQLu68rOkhhUqY7h) | [Juan Gabriel](https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq) | [Debo Hacerlo](https://open.spotify.com/album/0cccCLiFP4WGPmXdn823JG) | 9:39 |
 | 75 | [Te Llegará Mi Olvido](https://open.spotify.com/track/6UJAHl1NDh8Nroa27mIKDZ) | [Juan Gabriel](https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq) | [Te Llegará Mi Olvido](https://open.spotify.com/album/1wPQmJqHHgHe8dTuP1yTAQ) | 2:16 |
-| 76 | [Buenos Días Señor Sol](https://open.spotify.com/track/4AMwNq3toJIDjeCLhnK8DL) | [Juan Gabriel](https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq) | [Juan Gabriel \- 40 Aniversario](https://open.spotify.com/album/1Iofb00kc6shksa6a7wSah) | 2:42 |
-| 77 | [Have You Ever Seen The Rain? \(Gracias Al Sol\)](https://open.spotify.com/track/1o42lyL3IxECjsj5hVryhZ) | [Juan Gabriel](https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq) | [Have You Ever Seen The Rain? \(Gracias Al Sol\)](https://open.spotify.com/album/3X2YDyu4CldfyNrq293rjT) | 2:44 |
+| 76 | [Have You Ever Seen The Rain? \(Gracias Al Sol\)](https://open.spotify.com/track/1o42lyL3IxECjsj5hVryhZ) | [Juan Gabriel](https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq) | [Have You Ever Seen The Rain? \(Gracias Al Sol\)](https://open.spotify.com/album/3X2YDyu4CldfyNrq293rjT) | 2:44 |
+| 77 | [Buenos Días Señor Sol](https://open.spotify.com/track/4AMwNq3toJIDjeCLhnK8DL) | [Juan Gabriel](https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq) | [Juan Gabriel \- 40 Aniversario](https://open.spotify.com/album/1Iofb00kc6shksa6a7wSah) | 2:42 |
 | 78 | [Que Sea Mi Condena](https://open.spotify.com/track/6VBwBAHFJchFh9dtGvh4Zb) | [Juan Gabriel](https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq) | [Siempre Estoy Pensando En Ti](https://open.spotify.com/album/3GZBUlOokXQdZxBdby96bZ) | 3:12 |
 | 79 | [Mañana Te Acordaras](https://open.spotify.com/track/1Yo9idf6XM0rhPWSTIG1cP) | [Juan Gabriel](https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq) | [Con El Mariachi Vargas De Tecalitlan \(with El Mariachi Vargas de Tecalitlán\)](https://open.spotify.com/album/13NCFsw0EMj0JHwC9KaYwK) | 3:55 |
 | 80 | [La Muerte del Palomo](https://open.spotify.com/track/7rB942OGrgCnvgte3oItUe) | [Juan Gabriel](https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq) | [15 Anos De Exitos](https://open.spotify.com/album/0raOnVnK8S60UkiSpIzVIY) | 3:27 |
@@ -101,12 +101,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX43pSb7XuvgU.md) - [plain]
 | 91 | [Así Fue](https://open.spotify.com/track/7HGymGTKfdACYRI4g7H2Gu) | [Juan Gabriel](https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq), [Isabel Pantoja](https://open.spotify.com/artist/0G2qO3Wbj6WmCTFgcsJ1Eo) | [Los Dúo](https://open.spotify.com/album/2IlXnGyMzDixqs44RSUObZ) | 6:32 |
 | 92 | [Costumbres \- En Vivo \[Desde el Instituto Nacional de Bellas Artes\]](https://open.spotify.com/track/2F7podTOpnJDZxU9KMZK9a) | [Juan Gabriel](https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq) | [Lo Mejor en Bellas Artes \- 40 Aniversario](https://open.spotify.com/album/4hpY1ryuyFipmOovXGoT88) | 6:31 |
 | 93 | [Contigo en la Distancia \(with Carlos Cuevas\)](https://open.spotify.com/track/2DBD5WswXbHNUcrBU52cUP) | [José José](https://open.spotify.com/artist/4mN0qcMxWX8oToqfDPM5yV), [Carlos Cuevas](https://open.spotify.com/artist/5oyTT8C73YIMhLyuXYLtiL) | [José José Duetos Volumen 1](https://open.spotify.com/album/4ZFE0VVdjRY5fv41SFyPrT) | 3:48 |
-| 94 | [Siempre Estoy Pensando en Ti \(with El Mariachi México '70 de Pepe López\)](https://open.spotify.com/track/3I8DsEUbuONtbZmkwfz4Gp) | [Juan Gabriel](https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq), [Mariachi México 70 De Pepe López](https://open.spotify.com/artist/0ay6m3OlBxTuEwu1NFHlZI) | [Con Mariachi Vol.2 \(with El Mariachi México '70 de Pepe López\)](https://open.spotify.com/album/3pEHzLdkPor0RrnvSmvXmd) | 3:29 |
-| 95 | [Mi Vida](https://open.spotify.com/track/0eXhCBr3S9MlyUpW42aSyU) | [José José](https://open.spotify.com/artist/4mN0qcMxWX8oToqfDPM5yV) | [Musica Original De La Pelicula Gavilan O Paloma](https://open.spotify.com/album/1QiCz8Wjz3lJLZnK7PEVhy) | 4:06 |
-| 96 | [Almohada \- Revisitado](https://open.spotify.com/track/6IpLEAgmrhtbWwawz99r5u) | [José José](https://open.spotify.com/artist/4mN0qcMxWX8oToqfDPM5yV) | [José por Siempre José](https://open.spotify.com/album/20cSzDuNZl8JfbIz6csFuh) | 3:37 |
+| 94 | [Almohada \- Revisitado](https://open.spotify.com/track/6IpLEAgmrhtbWwawz99r5u) | [José José](https://open.spotify.com/artist/4mN0qcMxWX8oToqfDPM5yV) | [José por Siempre José](https://open.spotify.com/album/20cSzDuNZl8JfbIz6csFuh) | 3:37 |
+| 95 | [Siempre Estoy Pensando en Ti \(with El Mariachi México '70 de Pepe López\)](https://open.spotify.com/track/3I8DsEUbuONtbZmkwfz4Gp) | [Juan Gabriel](https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq), [Mariachi México 70 De Pepe López](https://open.spotify.com/artist/0ay6m3OlBxTuEwu1NFHlZI) | [Con Mariachi Vol.2 \(with El Mariachi México '70 de Pepe López\)](https://open.spotify.com/album/3pEHzLdkPor0RrnvSmvXmd) | 3:29 |
+| 96 | [Mi Vida](https://open.spotify.com/track/0eXhCBr3S9MlyUpW42aSyU) | [José José](https://open.spotify.com/artist/4mN0qcMxWX8oToqfDPM5yV) | [Musica Original De La Pelicula Gavilan O Paloma](https://open.spotify.com/album/1QiCz8Wjz3lJLZnK7PEVhy) | 4:06 |
 | 97 | [Tu Primera Vez](https://open.spotify.com/track/0ocXsGuBCyXZPOutMqx830) | [José José](https://open.spotify.com/artist/4mN0qcMxWX8oToqfDPM5yV) | [El Príncipe de la Canción](https://open.spotify.com/album/1qaiRe9m8bfAEdeCr1BGnB) | 4:25 |
 | 98 | [Vienes o Voy](https://open.spotify.com/track/7JholUL3Iv83zpEY8CsuZf) | [Juan Gabriel](https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq) | [Gracias por Esperar](https://open.spotify.com/album/4XZyy5120of00kdsqlG0uI) | 5:08 |
 | 99 | [Me Basta \(with Leonel García\)](https://open.spotify.com/track/3OEIHCmRGzhcG3BI8ybSNm) | [José José](https://open.spotify.com/artist/4mN0qcMxWX8oToqfDPM5yV), [Leonel García](https://open.spotify.com/artist/3t7UqWteBBmHXkcVhMSyay) | [José José Duetos Volumen 1](https://open.spotify.com/album/4ZFE0VVdjRY5fv41SFyPrT) | 4:02 |
 | 100 | [Me Gustas Mucho](https://open.spotify.com/track/3dUBc9jP4pXzHO8gYOnrhG) | [Juan Gabriel](https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq) | [Mis Mejores Momentos Con La Banda Sinaloense El Recodo De Cruz Lizarraga](https://open.spotify.com/album/0iD5chSyhCik10Ra0TcpaT) | 2:35 |
 
-Snapshot ID: `MCxjZmE0YmZmZTVlMjNiNTY3MzYzMWNjNjU3NjFiZjI5NmEyZDhkNGIx`
+Snapshot ID: `MCxhYjU3YmViZTg3NGYyMzE0NzNhOGU3YTk3ZmRmNjI5YjNlOTk2NjIx`

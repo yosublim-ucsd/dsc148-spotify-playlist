@@ -4,7 +4,7 @@
 
 > Your daily update of the most viral tracks right now \- Chile.
 
-1,409 songs - 3 day 4 hr 36 min
+1,410 songs - 3 day 4 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -146,7 +146,7 @@
 | [Bailando](https://open.spotify.com/track/0kRJ3rwE3rTDJGnGO4HmoD) | [El Jordan 23](https://open.spotify.com/artist/1fIJZfSmqQkuqfKNRmrS1V), [Standly](https://open.spotify.com/artist/0rjms710nwQTdrQheXHJfz) | [Bailando](https://open.spotify.com/album/15w28xIK85L1TcTjNjjTAI) | 3:44 | 2022-04-15 | 2022-05-11 |
 | [Bailando Bachata](https://open.spotify.com/track/0nKu6ysQjldXxABnxMu7kL) | [Chayanne](https://open.spotify.com/artist/1JbemQ1fPt2YmSLjAFhPBv) | [Bailando Bachata](https://open.spotify.com/album/6NthM7pMQaf9oO8KO4zrNe) | 2:50 | 2023-06-20 | 2023-07-05 |
 | [Bailemos Reggaeton](https://open.spotify.com/track/0YRgRpM2bdmQEkiI8bWDBA) | [Standly](https://open.spotify.com/artist/0rjms710nwQTdrQheXHJfz) | [Bailemos Reggaeton](https://open.spotify.com/album/22Suc9rycbfTgtCYqfIz5M) | 2:58 | 2022-04-19 | 2022-05-07 |
-| [BAIXO](https://open.spotify.com/track/0RVmg31gzlshCm356g0HF2) | [xxanteria](https://open.spotify.com/artist/4nl0CCx6PpEOOr2Z2ThPdp) | [BAIXO](https://open.spotify.com/album/2Osz2h7ZjKHOZh5grL7o6G) | 1:44 | 2023-10-10 |  |
+| [BAIXO](https://open.spotify.com/track/0RVmg31gzlshCm356g0HF2) | [xxanteria](https://open.spotify.com/artist/4nl0CCx6PpEOOr2Z2ThPdp) | [BAIXO](https://open.spotify.com/album/2Osz2h7ZjKHOZh5grL7o6G) | 1:44 | 2023-10-10 | 2023-10-19 |
 | [Bajo el Sombrero](https://open.spotify.com/track/41buW9gXHeIxw7KsXgDbAG) | [A los 4 Vientos](https://open.spotify.com/artist/4mawQ0P4WNPzCoktK0zuBD) | [Cuanto Quiero Que Me Quieras](https://open.spotify.com/album/2jVihPZkUwGX0mL8VoA4wZ) | 2:19 | 2022-09-19 | 2023-09-26 |
 | [Bakanisimo](https://open.spotify.com/track/4ovp1Q6WURMBWgw3cOHbxz) | [El Jordan 23](https://open.spotify.com/artist/1fIJZfSmqQkuqfKNRmrS1V) | [Bakanisimo](https://open.spotify.com/album/1ZvqP17VVjZirZ0I4ka0EP) | 2:44 | 2022-10-18 | 2022-10-31 |
 | [BALADINHA SINISTRA](https://open.spotify.com/track/6wntHk37oMHAqt71RrZOeF) | [$werve](https://open.spotify.com/artist/60vF1fLR6yzLxCQUlnAYYj), [$pidxrs?808](https://open.spotify.com/artist/17O62eZOtm0vgSiCwDHHeO), [Crazy Mano](https://open.spotify.com/artist/6QwlKB1hO357wh5oNuuInl) | [BALADINHA SINISTRA](https://open.spotify.com/album/4VtwEXsNAQ9n5dekSnzhsO) | 1:58 | 2023-06-07 | 2023-06-12 |
@@ -336,6 +336,7 @@
 | [Diggy Diggy Hole](https://open.spotify.com/track/4KUaNBVG2YRoIrg8ajzBaf) | [Wind Rose](https://open.spotify.com/artist/67ps5pbKVO7V9Fcb4lTIXz) | [Wintersaga](https://open.spotify.com/album/3jUF0J5D8AKLJyeabT8cVG) | 5:15 | 2023-04-27 | 2023-05-06 |
 | [Dilo Calladito](https://open.spotify.com/track/01rQpEJhFHckeSDr5c6ahY) | [Cecilia](https://open.spotify.com/artist/0K2U7B6n9Otcwn19m7tGzO) | [Tardes de Antaño](https://open.spotify.com/album/2gNXUNXJ4U3L4RUzbcOzuX) | 2:38 | 2023-07-26 | 2023-08-03 |
 | [Dime](https://open.spotify.com/track/2J9H3nKH2LFfR38WdX6Zue) | [Marcianeke](https://open.spotify.com/artist/5XQWXnMwsvuvCPMneXUbsy), [Jairo Vera](https://open.spotify.com/artist/5CAruGjgds3QlF5ICtEnnc) | [Dime](https://open.spotify.com/album/5xeXQ4Y5M2IsECrJCA6PcZ) | 2:51 | 2023-01-31 | 2023-02-08 |
+| [Dime Si Pa La Uni](https://open.spotify.com/track/7jR0KxHBcsRbwOmpcY7TmW) | [dsakata0](https://open.spotify.com/artist/5lgcdgRYbhtP3w8bgdFM9P) | [Dime Si Pa La Uni](https://open.spotify.com/album/6bkknKa6rmgLT5EToW9bKy) | 4:23 | 2023-10-18 |  |
 | [Dime Tú](https://open.spotify.com/track/4lLl2TEcaKFcP6m9Xzx3rI) | [Pailita](https://open.spotify.com/artist/4yxLYO2imECxGYTTV7RQKb), [Cris Mj](https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE), [Big Cvyu](https://open.spotify.com/artist/7tMukTswF8N6b0zI4rlCmg) | [Dime Tú](https://open.spotify.com/album/5RdU0FElotMIDYbY8zKiHx) | 3:45 | 2022-04-15 | 2022-05-12 |
 | [Diosito Mio](https://open.spotify.com/track/5FqIHBVNC7LqsxYzcRFBVA) | [Felipe el gitano](https://open.spotify.com/artist/5klBeFHVjmlauO3R00UsPH), [Yioordano Juan](https://open.spotify.com/artist/6bpQoEyWJk5kKjz9AxTySt), [El Chamakito](https://open.spotify.com/artist/1GOoRc2WpZnwTBfgvChl1U) | [Diosito Mio](https://open.spotify.com/album/0tHzqjQKwZWj836HU0G8c1) | 3:53 | 2023-10-13 |  |
 | [DISCULPE OFICIAL](https://open.spotify.com/track/4Ngtr8wWqF8wNanDkG5OhG) | [DobleP](https://open.spotify.com/artist/2eXWodjj5K1vVq2CSjl036), [PACOREMIX](https://open.spotify.com/artist/2EyZ2vRJWwVCAtR2VrL4Ju) | [DISCULPE OFICIAL](https://open.spotify.com/album/2tK3L7byFI4TF0q9OfoDKg) | 2:02 | 2023-08-04 | 2023-08-06 |
@@ -504,8 +505,8 @@
 | [Good Looking](https://open.spotify.com/track/5ZjV4yevHO1QhMw8AjyQbZ) | [Suki Waterhouse](https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL) | [Good Looking](https://open.spotify.com/album/59MoI7jSTPVw8udCpgbvw9) | 3:34 | 2022-05-11 | 2022-05-25 |
 | [GOOD LOYAL THOTS](https://open.spotify.com/track/06tNJ27nVxbDwhiQMChWyr) | [Odetari](https://open.spotify.com/artist/7ITMCzIU9uII8gwRg8JAhc) | [GOOD LOYAL THOTS](https://open.spotify.com/album/0uj4fkv8FHhc7sZyxMnAAw) | 1:42 | 2023-05-19 | 2023-06-28 |
 | [GOOD LOYAL THOTS](https://open.spotify.com/track/6PadQidABni2peo3kYKW0M) | [Odetari](https://open.spotify.com/artist/7ITMCzIU9uII8gwRg8JAhc) | [GOOD LOYAL THOTS](https://open.spotify.com/album/0x4bB3gflkfs2teiVIJ5t5) | 1:42 | 2023-05-13 | 2023-05-20 |
-| [greedy](https://open.spotify.com/track/1reEeZH9wNt4z1ePYLyC7p) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [greedy](https://open.spotify.com/album/5TCVikuC7Npt0WOOWGxLs9) | 2:11 | 2023-10-14 |  |
-| [greedy](https://open.spotify.com/track/3rUGC1vUpkDG9CZFHMur1t) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [greedy](https://open.spotify.com/album/3UOV8XvCwMKaATRNXrYCjN) | 2:11 | 2023-10-03 | 2023-10-15 |
+| [greedy](https://open.spotify.com/track/1reEeZH9wNt4z1ePYLyC7p) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [greedy](https://open.spotify.com/album/5TCVikuC7Npt0WOOWGxLs9) | 2:11 | 2023-10-14 | 2023-10-19 |
+| [greedy](https://open.spotify.com/track/3rUGC1vUpkDG9CZFHMur1t) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [greedy](https://open.spotify.com/album/3UOV8XvCwMKaATRNXrYCjN) | 2:11 | 2023-10-03 |  |
 | [Guaracha Sutra](https://open.spotify.com/track/4chneoFbvXmefJwCYw7Lpz) | [Maltrunks](https://open.spotify.com/artist/3Ov7H9pKlZjIweSur0zloG), [Ezenzial](https://open.spotify.com/artist/595gPAUozuf5zqAZrE2jbb) | [Guaracha Sutra](https://open.spotify.com/album/2IaNJlf1pL4bYMxcFA49ag) | 2:40 | 2022-08-09 | 2022-09-16 |
 | [Habit](https://open.spotify.com/track/2uMNMcjjUz8oNIxjIu20qE) | [SEKAI NO OWARI](https://open.spotify.com/artist/7HwzlRPa9Ad0I8rK0FPzzK) | [Habit](https://open.spotify.com/album/690rpRAbQW5LNPrbP27M9U) | 4:13 | 2022-06-02 | 2022-06-29 |
 | [HABLA](https://open.spotify.com/track/0eD8HwEktgTG5ZOeUxyCUx) | [Jairo Vera](https://open.spotify.com/artist/5CAruGjgds3QlF5ICtEnnc), [Darkiel](https://open.spotify.com/artist/4z19QMyPVRwbd4Fs2LisBa), [Gino Mella](https://open.spotify.com/artist/7HYJrA3HSTNDmkl5pylhaY) | [HABLA](https://open.spotify.com/album/15NtQavZZkldQlXrm4Ikkp) | 4:38 | 2023-04-25 | 2023-06-09 |

@@ -1,12 +1,12 @@
 {
   "description": "Altijd fris in Fresh Hits. Cover: Tems",
-  "num_followers": 20790,
+  "num_followers": 20803,
   "original_name": "Fresh Hits",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5ZGY1N2I4OTNmNDJhNTYzYmI5MzBhOGIwYTY3MTJmNGFiNTdlYTQ5",
+  "snapshot_id": "MCw1NzdmNTIzZmY2ODIzOTA2ZmFiNmNkY2QxZTExN2NiYWZhZjU1ZjU0",
   "tracks": [
     {
       "added_at": "2023-10-16 09:01:32",
@@ -80,12 +80,12 @@
           "url": "https://open.spotify.com/artist/3vGgjydudbzEp2r9PmqHc0"
         },
         {
-          "name": "ZANA",
-          "url": "https://open.spotify.com/artist/34lIancN28qj7jD4JxYOdE"
-        },
-        {
           "name": "Quinten Circle",
           "url": "https://open.spotify.com/artist/6dcF1Pcj5BlCkSK9FF96GG"
+        },
+        {
+          "name": "ZANA",
+          "url": "https://open.spotify.com/artist/34lIancN28qj7jD4JxYOdE"
         }
       ],
       "duration_ms": 147895,

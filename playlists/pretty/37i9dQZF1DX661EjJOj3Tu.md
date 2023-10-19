@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX661EjJOj3Tu.md) - [plain]
 
 > The irresistible rhythms of Latin jazz\. Cover: Tito Puente
 
-[Spotify](https://open.spotify.com/user/spotify) - 515,960 likes - 100 songs - 7 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 516,013 likes - 100 songs - 7 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -87,9 +87,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX661EjJOj3Tu.md) - [plain]
 | 77 | [Manteca Theme](https://open.spotify.com/track/6B7KCxP46cF2Fc28Dkcin9) | [Dizzy Gillespie](https://open.spotify.com/artist/5RzjqfPS0Bu4bUMkyNNDpn) | [Afro](https://open.spotify.com/album/0trcpUrMlHBGmOHvIvVGYF) | 4:10 |
 | 78 | [Que Bonita Bandera](https://open.spotify.com/track/6kp4npBzshDFMNDJhC0uRH) | [Stretch And Bobbito](https://open.spotify.com/artist/4gFujhX9cvrVpq2U5hOAQj), [The M19s Band](https://open.spotify.com/artist/4XjdMgBFds1IcaeshYjDgE), [Eddie Palmieri](https://open.spotify.com/artist/2VviFtXYreO6Zn9n8Ibk6C), [Danny Rivera](https://open.spotify.com/artist/3LZUHg9BIh2U5ol71qrVGL), [Jeimy Osorio](https://open.spotify.com/artist/7HNDChAMfH5OKlcFHUJrBv), [Mireya](https://open.spotify.com/artist/6nmhKuSX86VY9oD1rNPF06), [Chamir Bonano](https://open.spotify.com/artist/0n7fusANHiFjz3vTvMaBe0) | [Que Bonita Bandera](https://open.spotify.com/album/49hdJ2sefH3emVv9UHltI9) | 4:50 |
 | 79 | [Yo Sí Quiero](https://open.spotify.com/track/6KLC0zmNHvqTrQLsQlxw21) | [Pedrito Martinez](https://open.spotify.com/artist/3Ik2TovwBiWawoShYwa4Hh) | [Acertijos](https://open.spotify.com/album/5QdjpnZLDWDsSCzfgGADjF) | 6:04 |
-| 80 | [Seven Steps To Heaven](https://open.spotify.com/track/5JPGaCstRDwLekgNkgK9cK) | [Hilton Ruiz](https://open.spotify.com/artist/7uUrPQUnxCoQusOAh5I0D1) | [Enchantment](https://open.spotify.com/album/3NaX3LlcZvDgsUoscFGOfY) | 2:11 |
-| 81 | [Solo Esta Soledad](https://open.spotify.com/track/4Y30iXqao3OnzhSFQaBW7L) | [Arturo Sandoval](https://open.spotify.com/artist/0MGQZNEMaEICyku3cSDrnJ), [Josh Groban](https://open.spotify.com/artist/6cXMpsP9x0SH4kFfMyVezF) | [Ultimate Duets](https://open.spotify.com/album/28xn3zHQbQHtmAL8dptb4A) | 5:20 |
-| 82 | [Poinciana](https://open.spotify.com/track/1rxhAnn7mZAUwytVbBOLS3) | [Aaron Goldberg](https://open.spotify.com/artist/0BTfBwYC5Mw5ezDg91JBma) | [At the Edge of the World](https://open.spotify.com/album/3tRwejXlLIbZB8o6PHTM1n) | 5:47 |
+| 80 | [Poinciana](https://open.spotify.com/track/1rxhAnn7mZAUwytVbBOLS3) | [Aaron Goldberg](https://open.spotify.com/artist/0BTfBwYC5Mw5ezDg91JBma) | [At the Edge of the World](https://open.spotify.com/album/3tRwejXlLIbZB8o6PHTM1n) | 5:47 |
+| 81 | [Seven Steps To Heaven](https://open.spotify.com/track/5JPGaCstRDwLekgNkgK9cK) | [Hilton Ruiz](https://open.spotify.com/artist/7uUrPQUnxCoQusOAh5I0D1) | [Enchantment](https://open.spotify.com/album/3NaX3LlcZvDgsUoscFGOfY) | 2:11 |
+| 82 | [Solo Esta Soledad](https://open.spotify.com/track/4Y30iXqao3OnzhSFQaBW7L) | [Arturo Sandoval](https://open.spotify.com/artist/0MGQZNEMaEICyku3cSDrnJ), [Josh Groban](https://open.spotify.com/artist/6cXMpsP9x0SH4kFfMyVezF) | [Ultimate Duets](https://open.spotify.com/album/28xn3zHQbQHtmAL8dptb4A) | 5:20 |
 | 83 | [In Flight](https://open.spotify.com/track/3Mk8X0BQTypfytrfwMoVKM) | [Eddie Palmieri](https://open.spotify.com/artist/2VviFtXYreO6Zn9n8Ibk6C) | [Listen Here](https://open.spotify.com/album/07KdM1RxB17RPj7PY6o2Oi) | 5:41 |
 | 84 | [El Incomprendido \(feat\. Pedro Capó\)](https://open.spotify.com/track/5tOiB8UUOb6B2BzTDJL5IR) | [Negroni's Trio](https://open.spotify.com/artist/6clJrNFd1xD5dzc9UzxW7C), [Pedro Capó](https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy) | [New Era](https://open.spotify.com/album/5aUeMcCYLSc3HqFRPwfZya) | 4:10 |
 | 85 | [Reza](https://open.spotify.com/track/7sv2Y2vqr4IH8qEyomRjxf) | [Cal Tjader](https://open.spotify.com/artist/3XOVABzceOUTbR3iEz0ImO) | [Soul Bird: Whiffenpoof](https://open.spotify.com/album/5JZRDbjyuSbc5fvDzcn1iy) | 4:04 |
@@ -103,10 +103,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX661EjJOj3Tu.md) - [plain]
 | 93 | [Nocturnal](https://open.spotify.com/track/6RoOWROlTUfJ4jgz8ZuycE) | [Charlie Haden](https://open.spotify.com/artist/5Pqc0ZFA20Y9zGJZ3ojUin) | [Nocturne](https://open.spotify.com/album/1CwbHBZZktmDFhK2TDU8Bo) | 6:52 |
 | 94 | [Chucho’s Mood](https://open.spotify.com/track/2VACXzUf5uOvheUAztmM3P) | [Chucho Valdés](https://open.spotify.com/artist/27mRThsZ9K1BYmz0rioxwp) | [Jazz Batá 2](https://open.spotify.com/album/2qNItLdcFnSId2094fNe3A) | 7:12 |
 | 95 | [Descarga Entre Amigos \(feat\. Rubén Blades\)](https://open.spotify.com/track/2wDWb88s7POYtWg5757eiE) | [Carlos Henriquez](https://open.spotify.com/artist/7jDk9ohezXq697Zz5X2KPI), [Rubén Blades](https://open.spotify.com/artist/5BwMgvRwlq61SmknvsVIQj) | [The Bronx Pyramid](https://open.spotify.com/album/3tzUc7mPAuBZCWAM28Ithw) | 5:21 |
-| 96 | [Sweet Cherry Pie](https://open.spotify.com/track/2JzNBGnadj4bkVs3gzcdg5) | [Hilton Ruiz](https://open.spotify.com/artist/7uUrPQUnxCoQusOAh5I0D1) | [Enchantment](https://open.spotify.com/album/3NaX3LlcZvDgsUoscFGOfY) | 6:46 |
-| 97 | [Milonga gris](https://open.spotify.com/track/4MRLHLGa1bqOpH9K4QiKzL) | [Carlos Aguirre](https://open.spotify.com/artist/42aKOZOUTiO5DmS1FF4nVN) | [Caminos](https://open.spotify.com/album/6bbqvMNCUdRGHCebMMzXhI) | 3:58 |
+| 96 | [Milonga gris](https://open.spotify.com/track/4MRLHLGa1bqOpH9K4QiKzL) | [Carlos Aguirre](https://open.spotify.com/artist/42aKOZOUTiO5DmS1FF4nVN) | [Caminos](https://open.spotify.com/album/6bbqvMNCUdRGHCebMMzXhI) | 3:58 |
+| 97 | [Sweet Cherry Pie](https://open.spotify.com/track/2JzNBGnadj4bkVs3gzcdg5) | [Hilton Ruiz](https://open.spotify.com/artist/7uUrPQUnxCoQusOAh5I0D1) | [Enchantment](https://open.spotify.com/album/3NaX3LlcZvDgsUoscFGOfY) | 6:46 |
 | 98 | [Brazilian Love Affair](https://open.spotify.com/track/5CUvPHZF4c0gHeJuTG4lN1) | [Negroni's Trio](https://open.spotify.com/artist/6clJrNFd1xD5dzc9UzxW7C) | [New Era](https://open.spotify.com/album/5aUeMcCYLSc3HqFRPwfZya) | 4:27 |
 | 99 | [Cuadra 11](https://open.spotify.com/track/0LFUNTV7xNFurTxhF9IrWU) | [Afro\-Peruvian Jazz Orchestra](https://open.spotify.com/artist/0kaMzfrj9wlJYAr6VwzkAL), [Lorenzo Ferrero](https://open.spotify.com/artist/6br0HOs1Qp9CKJngm28FyG), [Anibal Seminario](https://open.spotify.com/artist/7n3f7wHCA7cB2bqrjjRD6p) | [Tradiciones](https://open.spotify.com/album/2iLgvf9Z92h7zQXTnjucmm) | 4:51 |
 | 100 | [Amarte](https://open.spotify.com/track/5aoMszskF65IOspLeZnmIC) | [Zenet](https://open.spotify.com/artist/2s7td67DdtSXTx2TGzs01i) | [Amarte](https://open.spotify.com/album/50p8cZ17O4af7kMBmgdF0u) | 4:03 |
 
-Snapshot ID: `MCxlMzY1OWI4NjhjNDUzOWFlZDAyNjQ3MGEwZjBmZTFkMTRhYzU4ODZi`
+Snapshot ID: `MCxhZGJhNmQzMGZjOTRlYmRiOWU2ZjEzMGY4OWE0Zjc0MGUxOTQyZWEw`

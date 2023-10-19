@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0CgRlkzaOFL.md) - [plain]
 
 > Discover the classical side of anime with these orchestral soundtracks and classical masterpieces\. アニメ作品に登場するクラシック音楽と象徴的なサウンドトラックを1つのプレイリストで。Illustration by <a href="https://kazuhisauragami.com/"> Kazuhisa Uragami</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 124,595 likes - 59 songs - 3 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 124,782 likes - 59 songs - 3 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,7 +40,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0CgRlkzaOFL.md) - [plain]
 | 30 | [Goldberg Variations, BWV 988: Aria](https://open.spotify.com/track/4FddKCeFq1J6ALw9ZZ2P8U) | [Johann Sebastian Bach](https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408), [Igor Levit](https://open.spotify.com/artist/0japPUWMmW3gxqjSB1VEVL) | [Goldberg Variations \- The Goldberg Variations, BWV 988](https://open.spotify.com/album/2qLOFrKy9CJjjQHfaDgw1R) | 4:24 |
 | 31 | [Free The Wind](https://open.spotify.com/track/0r3cg5Co9bAsNgLqcKVMlr) | [Masakatsu Takagi](https://open.spotify.com/artist/7kSP0XY1UueKCMOGJhIV9N) | [The Boy and The Beast \(Original Soundtrack Album\)](https://open.spotify.com/album/7Ahkr6PnLvSmrwJugM4Bue) | 2:53 |
 | 32 | [Ravel: Daphnis et Chloé, M\. 57, Pt\. 3: Lever du jour](https://open.spotify.com/track/0bHetlK2xHzhOEGPEdp1SI) | [Maurice Ravel](https://open.spotify.com/artist/17hR0sYHpx7VYTMRfFUOmY), [Philippe Jordan](https://open.spotify.com/artist/7oRn2Jv3j0f23EjcSSCR9W), [Choeur du Théatre National de l'Opéra de Paris](https://open.spotify.com/artist/2YZN9zFVhkAQFOggweug3X), [Orchestre de l'Opéra National de Paris](https://open.spotify.com/artist/1hro5WQTcOb7fRCEUQEZtK) | [Ravel : Daphnis & Chloé, La Valse](https://open.spotify.com/album/2HU1cvBMOFZNqofsWY9bQC) | 5:01 |
-| 33 | [緋色の瞳の哀歌](https://open.spotify.com/track/1irWWLOWtVG3c4GkB0lO4Q) | [Yoshihisa Hirano](https://open.spotify.com/artist/496DwthDgbHUwWycngajrJ) | [TVアニメ「HUNTER×HUNTER」オリジナル・サウンドトラック](https://open.spotify.com/album/2Dw87Ob66XprXiHKbhifJB) | 1:29 |
+| 33 | [Hiiro no Hitomi no Aika](https://open.spotify.com/track/4k8qWLE0P9L9y6ZTDeQk0k) | [Yoshihisa Hirano](https://open.spotify.com/artist/496DwthDgbHUwWycngajrJ) | [HUNTER x HUNTER Original Soundtrack](https://open.spotify.com/album/134vt3RPUDyjufgeUQyNPq) | 1:29 |
 | 34 | [Memory \(4th Movement: Itsukushimi no Senritsu no Kanata\)](https://open.spotify.com/track/4MGDnDRcBEsqi2k7AFxVuJ) | [London Symphony Orchestra](https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc), [Toshihiko Sahashi](https://open.spotify.com/artist/6G6SuCwKMHuGQKILKi7TC8) | [MOBILE SUIT GUNDAM SEED Symphony SEED](https://open.spotify.com/album/32NnCOfYPQyrA7OJjIviJI) | 3:35 |
 | 35 | [piece by ten](https://open.spotify.com/track/50R5pS4Ptd7tioFFaqo9F6) | [Yoko Kanno](https://open.spotify.com/artist/0lbYsAt8JNKNjttbncKg8i) | [「攻殻機動隊 STAND ALONE COMPLEX be Human」](https://open.spotify.com/album/4yXX0zQxFl88hAV7FauBZ7) | 2:45 |
 | 36 | [A Shooting Star](https://open.spotify.com/track/1CKgi1N9crZUuWdyJE25ME) | [Joe Hisaishi](https://open.spotify.com/artist/7nzSoJISlVJsn7O0yTeMOB) | [The Wind Rises Soundtrack](https://open.spotify.com/album/59U5FQ4kDEt11Q2UcFu1dK) | 1:37 |
@@ -48,7 +48,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0CgRlkzaOFL.md) - [plain]
 | 38 | [王様ランキング \-メインテーマ\-](https://open.spotify.com/track/1FrE0MDUawjQGqV4rTeOUj) | [MAYUKO](https://open.spotify.com/artist/0DaPPhbajdbIWfFVC8G1OL) | [王様ランキング オリジナルサウンドトラック](https://open.spotify.com/album/5uQAOc824R8ukjh6T1H4R6) | 2:06 |
 | 39 | [Piano Sonata No\. 16 in A Minor, D\. 845: I\. Moderato](https://open.spotify.com/track/69wjQMavWgK3aCEeVU5BwL) | [Franz Schubert](https://open.spotify.com/artist/2p0UyoPfYfI76PCStuXfOP), [Maria João Pires](https://open.spotify.com/artist/1hRLlo7ZGxEmc0ztMOKurs) | [Schubert](https://open.spotify.com/album/1krbiT1gkPdIzn1pSscOye) | 12:38 |
 | 40 | [best years in our lives](https://open.spotify.com/track/5xjtf6JDEk7e6NbUyBJvSO) | [梶浦 由記](https://open.spotify.com/artist/0BLHMPWOZ2aTI0ZCCbtZem) | [「ツバサ・クロニクル」オリジナル・サウンドトラック Future Soundscape I](https://open.spotify.com/album/5Z9SNaI38CG5mh8aiBEIBy) | 3:08 |
-| 41 | [Beyond the Seas](https://open.spotify.com/track/4931hN8zaVARMSVAFN4AC0) | [Yoshihisa Hirano](https://open.spotify.com/artist/496DwthDgbHUwWycngajrJ) | [TVアニメ「HUNTER×HUNTER」オリジナル・サウンドトラック](https://open.spotify.com/album/2Dw87Ob66XprXiHKbhifJB) | 1:30 |
+| 41 | [Beyond the Seas](https://open.spotify.com/track/53l5ZSocXsBoycSEQtK0os) | [Yoshihisa Hirano](https://open.spotify.com/artist/496DwthDgbHUwWycngajrJ) | [HUNTER x HUNTER Original Soundtrack](https://open.spotify.com/album/134vt3RPUDyjufgeUQyNPq) | 1:30 |
 | 42 | [ベートーヴェン:交響曲第7番イ長調作品92より 第1楽章・第4楽章 ドラマエディット](https://open.spotify.com/track/3SgWoIHhVPtTdPNyXjEtYD) | [Ludwig van Beethoven](https://open.spotify.com/artist/2wOqMjp9TyABvtHdOSOTUS), [のだめカンタービレ](https://open.spotify.com/artist/6nWWsbt4NZhcUKinYxZ8PN), [Toshiaki Umeda](https://open.spotify.com/artist/2EbzA6PvoBEiyjAcqhfKqQ) | [Best Classic Royal](https://open.spotify.com/album/61DaPuIXkng3zY9OvVRxZw) | 7:20 |
 | 43 | [Heiwa no Inori](https://open.spotify.com/track/7Gq8UpApEwJdOIf5K6XCJO) | [Toshihiko Sahashi](https://open.spotify.com/artist/6G6SuCwKMHuGQKILKi7TC8) | [MOBILE SUIT GUNDAM SEED Original Motion Picture Soundtrack 2](https://open.spotify.com/album/4wNiXmTGxZ4RcWKesDupIy) | 1:37 |
 | 44 | [7角:the1](https://open.spotify.com/track/30LuuTndVmwmQr6q1JMlPm) | [Hiroyuki Sawano](https://open.spotify.com/artist/0Riv2KnFcLZA3JSVryRg4y) | [七つの大罪 オリジナル・サウンドトラック](https://open.spotify.com/album/4OHuwh9kd4b38gyrP5YMmP) | 4:51 |
@@ -68,4 +68,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0CgRlkzaOFL.md) - [plain]
 | 58 | [L'isle joyeuse, L\. 106](https://open.spotify.com/track/4VTnc3rElZ3Ihcz5VM8mXa) | [Claude Debussy](https://open.spotify.com/artist/1Uff91EOsvd99rtAupatMP), [Seong\-Jin Cho](https://open.spotify.com/artist/1p0J5PXJQMVqk5uVV4T1ja) | [Debussy](https://open.spotify.com/album/4tYYPSmCZM2bmfrJvXAOfr) | 6:15 |
 | 59 | [where you are](https://open.spotify.com/track/3Yr8fFmMIW72uVPX9HnuaX) | [梶浦 由記](https://open.spotify.com/artist/0BLHMPWOZ2aTI0ZCCbtZem) | [.hack//SIGN ORIGINAL SOUND & SONG TRACK2](https://open.spotify.com/album/4kwNMHXCWOkqy1MmwqCV2y) | 1:26 |
 
-Snapshot ID: `MCxhM2FlNjcxZDRlMWYyMWVjMTAwZDdmMjVmYzI0YzdiNTJhNzFkMzA5`
+Snapshot ID: `MCwxYmE5N2JlOWI4NDM2ZjhkZWU5MDgzMGNiY2E1M2IyZDFhNDNlYzJk`

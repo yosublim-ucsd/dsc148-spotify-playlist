@@ -1,12 +1,12 @@
 {
   "description": "New makes old. Cover: Sierra Ferrell",
-  "num_followers": 287361,
+  "num_followers": 287441,
   "original_name": "Vintage Vibes",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmNjdhY2Q3MjVkYzkwNGRmNTA3ZjQ2ZmFhODIzY2JmNmRmNmUxYWI4",
+  "snapshot_id": "MCw1ZTY5MzU4YTMzZjBmMDQxN2NhNjQ0ZWQxMGY3NDk4NTEyNDY0YjFm",
   "tracks": [
     {
       "added_at": "2023-10-06 04:00:00",
@@ -671,6 +671,22 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
+        "name": "Cover Stories: Brandi Carlile Celebrates 10 Years of the Story (An Album to Benefit War Child)",
+        "url": "https://open.spotify.com/album/3eI5yt8PVoaONTDcHHTky7"
+      },
+      "artists": [
+        {
+          "name": "Dolly Parton",
+          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
+        }
+      ],
+      "duration_ms": 257372,
+      "name": "The Story",
+      "url": "https://open.spotify.com/track/4B5rqUfJXLCJl9WMXMHehx"
+    },
+    {
+      "added_at": "2023-10-06 04:00:00",
+      "album": {
         "name": "Interstate Gospel",
         "url": "https://open.spotify.com/album/0IXxmmlfSQxgJNWnNjHhgJ"
       },
@@ -695,22 +711,6 @@
       "duration_ms": 174253,
       "name": "Got My Name Changed Back",
       "url": "https://open.spotify.com/track/2WPE0Z7u5PafvN2aWk5pFl"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
-        "name": "Cover Stories: Brandi Carlile Celebrates 10 Years of the Story (An Album to Benefit War Child)",
-        "url": "https://open.spotify.com/album/3eI5yt8PVoaONTDcHHTky7"
-      },
-      "artists": [
-        {
-          "name": "Dolly Parton",
-          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
-        }
-      ],
-      "duration_ms": 257372,
-      "name": "The Story",
-      "url": "https://open.spotify.com/track/4B5rqUfJXLCJl9WMXMHehx"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -811,22 +811,6 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
-        "name": "You're Dreaming",
-        "url": "https://open.spotify.com/album/4qGvK6eH2aTvYIu1WmSSxG"
-      },
-      "artists": [
-        {
-          "name": "The Cactus Blossoms",
-          "url": "https://open.spotify.com/artist/7kWwQAe9JnYNMk4kuEe73S"
-        }
-      ],
-      "duration_ms": 241646,
-      "name": "Mississippi",
-      "url": "https://open.spotify.com/track/2MzuBHUg1YLezoTZqfBfVl"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
         "name": "For When It Hurts",
         "url": "https://open.spotify.com/album/4fyML49o9PKbI3jaTFA7gH"
       },
@@ -843,6 +827,22 @@
       "duration_ms": 182993,
       "name": "BROKEN PIECES",
       "url": "https://open.spotify.com/track/6oR93SbtqVEboBslSAMCS1"
+    },
+    {
+      "added_at": "2023-10-06 04:00:00",
+      "album": {
+        "name": "You're Dreaming",
+        "url": "https://open.spotify.com/album/4qGvK6eH2aTvYIu1WmSSxG"
+      },
+      "artists": [
+        {
+          "name": "The Cactus Blossoms",
+          "url": "https://open.spotify.com/artist/7kWwQAe9JnYNMk4kuEe73S"
+        }
+      ],
+      "duration_ms": 241646,
+      "name": "Mississippi",
+      "url": "https://open.spotify.com/track/2MzuBHUg1YLezoTZqfBfVl"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -911,6 +911,22 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
+        "name": "Easy Way",
+        "url": "https://open.spotify.com/album/28RycHmG72yoKVXZ7X3PEg"
+      },
+      "artists": [
+        {
+          "name": "The Cactus Blossoms",
+          "url": "https://open.spotify.com/artist/7kWwQAe9JnYNMk4kuEe73S"
+        }
+      ],
+      "duration_ms": 182826,
+      "name": "Got a Lotta Love",
+      "url": "https://open.spotify.com/track/0MIFQg8ak1p21EeHK2JrJg"
+    },
+    {
+      "added_at": "2023-10-06 04:00:00",
+      "album": {
         "name": "Make Way for Love",
         "url": "https://open.spotify.com/album/69wIdpWYSwdYMkYdn6iviH"
       },
@@ -939,22 +955,6 @@
       "duration_ms": 300895,
       "name": "Weather",
       "url": "https://open.spotify.com/track/1WwAqeweh8B5WVO041pRFf"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
-        "name": "Easy Way",
-        "url": "https://open.spotify.com/album/28RycHmG72yoKVXZ7X3PEg"
-      },
-      "artists": [
-        {
-          "name": "The Cactus Blossoms",
-          "url": "https://open.spotify.com/artist/7kWwQAe9JnYNMk4kuEe73S"
-        }
-      ],
-      "duration_ms": 182826,
-      "name": "Got a Lotta Love",
-      "url": "https://open.spotify.com/track/0MIFQg8ak1p21EeHK2JrJg"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -1039,22 +1039,6 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
-        "name": "Stranger to Me",
-        "url": "https://open.spotify.com/album/1LKG0NrEfPFaMP05vlwQzn"
-      },
-      "artists": [
-        {
-          "name": "The Black Lillies",
-          "url": "https://open.spotify.com/artist/06Y4yJmsrlzPrwIG46ce7X"
-        }
-      ],
-      "duration_ms": 201000,
-      "name": "Earthquake",
-      "url": "https://open.spotify.com/track/3tvlD4NK5C1bGjCu6GM76u"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
         "name": "Happy Man",
         "url": "https://open.spotify.com/album/1WoNRdaTdmRkLAmNk4QGWV"
       },
@@ -1067,6 +1051,22 @@
       "duration_ms": 179763,
       "name": "Happy Man",
       "url": "https://open.spotify.com/track/4CugKRfRaxkEDLMM7yyNfR"
+    },
+    {
+      "added_at": "2023-10-06 04:00:00",
+      "album": {
+        "name": "Stranger to Me",
+        "url": "https://open.spotify.com/album/1LKG0NrEfPFaMP05vlwQzn"
+      },
+      "artists": [
+        {
+          "name": "The Black Lillies",
+          "url": "https://open.spotify.com/artist/06Y4yJmsrlzPrwIG46ce7X"
+        }
+      ],
+      "duration_ms": 201000,
+      "name": "Earthquake",
+      "url": "https://open.spotify.com/track/3tvlD4NK5C1bGjCu6GM76u"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -1155,6 +1155,22 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
+        "name": "southwest serenade",
+        "url": "https://open.spotify.com/album/2JE0tvCz2i37PZIQhJqIdY"
+      },
+      "artists": [
+        {
+          "name": "Story Slaughter",
+          "url": "https://open.spotify.com/artist/5xAkUnkKTboVog0nTDtGZY"
+        }
+      ],
+      "duration_ms": 106250,
+      "name": "southwest serenade",
+      "url": "https://open.spotify.com/track/1E5QGnoIIwLprR6zOFWkCO"
+    },
+    {
+      "added_at": "2023-10-06 04:00:00",
+      "album": {
         "name": "Giddy Up",
         "url": "https://open.spotify.com/album/4PmXzKdrmohY9hqUenv2cl"
       },
@@ -1187,22 +1203,6 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
-        "name": "southwest serenade",
-        "url": "https://open.spotify.com/album/2JE0tvCz2i37PZIQhJqIdY"
-      },
-      "artists": [
-        {
-          "name": "Story Slaughter",
-          "url": "https://open.spotify.com/artist/5xAkUnkKTboVog0nTDtGZY"
-        }
-      ],
-      "duration_ms": 106250,
-      "name": "southwest serenade",
-      "url": "https://open.spotify.com/track/1E5QGnoIIwLprR6zOFWkCO"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
         "name": "With Me in the Summer",
         "url": "https://open.spotify.com/album/1d6S1Z19Ia7xJkVd6ZoOlk"
       },
@@ -1219,18 +1219,18 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
-        "name": "Goodnight Rhonda Lee",
-        "url": "https://open.spotify.com/album/4RcpHyy4rL1RrB89Di3HrJ"
+        "name": "The Weight of These Wings",
+        "url": "https://open.spotify.com/album/563h536tB6n8Dn62jr4RZG"
       },
       "artists": [
         {
-          "name": "Nicole Atkins",
-          "url": "https://open.spotify.com/artist/4ab2tQaaTr2TnairelOwvO"
+          "name": "Miranda Lambert",
+          "url": "https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0"
         }
       ],
-      "duration_ms": 153466,
-      "name": "Goodnight Rhonda Lee",
-      "url": "https://open.spotify.com/track/4QtKz1MwAZusR7fqdxov2f"
+      "duration_ms": 227893,
+      "name": "To Learn Her",
+      "url": "https://open.spotify.com/track/3l78vP424XB904B5MMmEdN"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -1251,18 +1251,18 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
-        "name": "The Weight of These Wings",
-        "url": "https://open.spotify.com/album/563h536tB6n8Dn62jr4RZG"
+        "name": "Goodnight Rhonda Lee",
+        "url": "https://open.spotify.com/album/4RcpHyy4rL1RrB89Di3HrJ"
       },
       "artists": [
         {
-          "name": "Miranda Lambert",
-          "url": "https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0"
+          "name": "Nicole Atkins",
+          "url": "https://open.spotify.com/artist/4ab2tQaaTr2TnairelOwvO"
         }
       ],
-      "duration_ms": 227893,
-      "name": "To Learn Her",
-      "url": "https://open.spotify.com/track/3l78vP424XB904B5MMmEdN"
+      "duration_ms": 153466,
+      "name": "Goodnight Rhonda Lee",
+      "url": "https://open.spotify.com/track/4QtKz1MwAZusR7fqdxov2f"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -1475,22 +1475,6 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
-        "name": "Trophy",
-        "url": "https://open.spotify.com/album/2Kz9ZpZpEZRvdBhdxcR45v"
-      },
-      "artists": [
-        {
-          "name": "Sunny Sweeney",
-          "url": "https://open.spotify.com/artist/3uBMhKEXqr2UtRlx7Jn9LL"
-        }
-      ],
-      "duration_ms": 228962,
-      "name": "I Feel Like Hank Williams Tonight",
-      "url": "https://open.spotify.com/track/56XOeHY9T4Mm686OttTeh5"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
         "name": "Family Reunion",
         "url": "https://open.spotify.com/album/2rAOtJeqLd0RvfqmHoaYZv"
       },
@@ -1503,6 +1487,22 @@
       "duration_ms": 162697,
       "name": "Dry Town",
       "url": "https://open.spotify.com/track/4ki94wKEhXYNW4ywgd4qLs"
+    },
+    {
+      "added_at": "2023-10-06 04:00:00",
+      "album": {
+        "name": "Trophy",
+        "url": "https://open.spotify.com/album/2Kz9ZpZpEZRvdBhdxcR45v"
+      },
+      "artists": [
+        {
+          "name": "Sunny Sweeney",
+          "url": "https://open.spotify.com/artist/3uBMhKEXqr2UtRlx7Jn9LL"
+        }
+      ],
+      "duration_ms": 228962,
+      "name": "I Feel Like Hank Williams Tonight",
+      "url": "https://open.spotify.com/track/56XOeHY9T4Mm686OttTeh5"
     },
     {
       "added_at": "2023-10-06 04:00:00",

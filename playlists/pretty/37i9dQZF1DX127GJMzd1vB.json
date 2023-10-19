@@ -1,12 +1,12 @@
 {
   "description": "\u00a1De amor y desamor! Las canciones que no pueden faltar a la hora de llevar gallo.",
-  "num_followers": 64659,
+  "num_followers": 64711,
   "original_name": "La Serenata",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2MTNhNWIyMmU4Zjg0N2VhNDU1ZjllMThkNDg2ZThjMGVjMjVlMmJj",
+  "snapshot_id": "MCw5NWUxNzMwOTZiNGQ0NjRlNmY2ZGRmNjFjZDY1YmZlYzE2NzFiMzkz",
   "tracks": [
     {
       "added_at": "2021-12-29 23:46:57",
@@ -821,22 +821,6 @@
       "url": "https://open.spotify.com/track/3YubPkIjza38KmXTIGdk91"
     },
     {
-      "added_at": "2023-01-04 22:41:14",
-      "album": {
-        "name": "Mi Buena Suerte",
-        "url": "https://open.spotify.com/album/3Ucu7Yp0cBJvikdVn5qsUA"
-      },
-      "artists": [
-        {
-          "name": "Los Tigres Del Norte",
-          "url": "https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy"
-        }
-      ],
-      "duration_ms": 189466,
-      "name": "Mi Buena Suerte",
-      "url": "https://open.spotify.com/track/1LD1RC3P9a1nYkxJ621M17"
-    },
-    {
       "added_at": "2021-12-29 23:46:57",
       "album": {
         "name": "No Paras de Hacerme Feliz",
@@ -851,6 +835,22 @@
       "duration_ms": 185296,
       "name": "No Paras de Hacerme Feliz",
       "url": "https://open.spotify.com/track/5bP1RCdGcUxkwASwKAbPHa"
+    },
+    {
+      "added_at": "2023-01-04 22:41:14",
+      "album": {
+        "name": "Mi Buena Suerte",
+        "url": "https://open.spotify.com/album/3Ucu7Yp0cBJvikdVn5qsUA"
+      },
+      "artists": [
+        {
+          "name": "Los Tigres Del Norte",
+          "url": "https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy"
+        }
+      ],
+      "duration_ms": 189466,
+      "name": "Mi Buena Suerte",
+      "url": "https://open.spotify.com/track/1LD1RC3P9a1nYkxJ621M17"
     },
     {
       "added_at": "2021-12-29 23:46:57",

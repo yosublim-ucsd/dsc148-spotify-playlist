@@ -1,12 +1,12 @@
 {
   "description": "Check out these inspired hits to keep your Summer fun and upbeat!",
-  "num_followers": 25945,
+  "num_followers": 25942,
   "original_name": "Rejoice for Summer",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwNGIyYzFmZWY3ZTg5Njg2MThhZWFlMmE2ZWUxOTkwM2ZkMGFiMjgw",
+  "snapshot_id": "MCwxNzYxMDQ2MzllNDZlM2M1MTNmNGRiNmZhNDIzOTgwODQ0ODdiYWU4",
   "tracks": [
     {
       "added_at": "2020-08-13 14:39:00",
@@ -27,22 +27,6 @@
     {
       "added_at": "2020-08-13 14:39:00",
       "album": {
-        "name": "Devil Is A Liar",
-        "url": "https://open.spotify.com/album/5kT3QNv411H3VlALarhLnC"
-      },
-      "artists": [
-        {
-          "name": "Colton Dixon",
-          "url": "https://open.spotify.com/artist/52oVYHQ99ORZzeig2YGo4R"
-        }
-      ],
-      "duration_ms": 174438,
-      "name": "Miracles",
-      "url": "https://open.spotify.com/track/7u67t6j872bK1tDbMUjnMz"
-    },
-    {
-      "added_at": "2020-08-13 14:39:00",
-      "album": {
         "name": "Saved",
         "url": "https://open.spotify.com/album/4vOtaNqFCeoNjj1lZcxqMi"
       },
@@ -55,6 +39,22 @@
       "duration_ms": 174285,
       "name": "Saved",
       "url": "https://open.spotify.com/track/4n5KoOsuEBe4NCTu0jbtKt"
+    },
+    {
+      "added_at": "2020-08-13 14:39:00",
+      "album": {
+        "name": "Devil Is A Liar",
+        "url": "https://open.spotify.com/album/5kT3QNv411H3VlALarhLnC"
+      },
+      "artists": [
+        {
+          "name": "Colton Dixon",
+          "url": "https://open.spotify.com/artist/52oVYHQ99ORZzeig2YGo4R"
+        }
+      ],
+      "duration_ms": 174438,
+      "name": "Miracles",
+      "url": "https://open.spotify.com/track/7u67t6j872bK1tDbMUjnMz"
     },
     {
       "added_at": "2020-08-13 14:39:00",
@@ -463,22 +463,18 @@
     {
       "added_at": "2020-08-13 14:39:00",
       "album": {
-        "name": "I\u2019ll Give Thanks",
-        "url": "https://open.spotify.com/album/6X7mF04HpAVdND0ODi4TDo"
+        "name": "Nothing is Ordinary. Everything is Beautiful.",
+        "url": "https://open.spotify.com/album/78lm2RBBywrBwkbxwIqL6P"
       },
       "artists": [
         {
-          "name": "Housefires",
-          "url": "https://open.spotify.com/artist/6egyCFgiJ1j941PaxKoWJD"
-        },
-        {
-          "name": "Kirby Kaple",
-          "url": "https://open.spotify.com/artist/54P5WwDNRFfSzPEZ7p6Io1"
+          "name": "Apollo LTD",
+          "url": "https://open.spotify.com/artist/2H3EMYFS69dhMmrX9JTkZp"
         }
       ],
-      "duration_ms": 232656,
-      "name": "I\u2019ll Give Thanks",
-      "url": "https://open.spotify.com/track/5iBYUI5N7zZzTkd7ychQ0P"
+      "duration_ms": 214866,
+      "name": "Patient",
+      "url": "https://open.spotify.com/track/1uUp4gXR9ZHiV4iHRbmQa3"
     },
     {
       "added_at": "2020-08-13 14:39:00",
@@ -499,18 +495,22 @@
     {
       "added_at": "2020-08-13 14:39:00",
       "album": {
-        "name": "Nothing is Ordinary. Everything is Beautiful.",
-        "url": "https://open.spotify.com/album/78lm2RBBywrBwkbxwIqL6P"
+        "name": "I\u2019ll Give Thanks",
+        "url": "https://open.spotify.com/album/6X7mF04HpAVdND0ODi4TDo"
       },
       "artists": [
         {
-          "name": "Apollo LTD",
-          "url": "https://open.spotify.com/artist/2H3EMYFS69dhMmrX9JTkZp"
+          "name": "Housefires",
+          "url": "https://open.spotify.com/artist/6egyCFgiJ1j941PaxKoWJD"
+        },
+        {
+          "name": "Kirby Kaple",
+          "url": "https://open.spotify.com/artist/54P5WwDNRFfSzPEZ7p6Io1"
         }
       ],
-      "duration_ms": 214866,
-      "name": "Patient",
-      "url": "https://open.spotify.com/track/1uUp4gXR9ZHiV4iHRbmQa3"
+      "duration_ms": 232656,
+      "name": "I\u2019ll Give Thanks",
+      "url": "https://open.spotify.com/track/5iBYUI5N7zZzTkd7ychQ0P"
     },
     {
       "added_at": "2020-08-13 14:39:00",
@@ -547,22 +547,6 @@
     {
       "added_at": "2020-08-13 14:39:00",
       "album": {
-        "name": "Don't Wanna Wake Up",
-        "url": "https://open.spotify.com/album/2aojIQzbgnZasTUk6PpGOj"
-      },
-      "artists": [
-        {
-          "name": "Capital Kings",
-          "url": "https://open.spotify.com/artist/3lTIrl4h1Vov8fDaNqXUof"
-        }
-      ],
-      "duration_ms": 227142,
-      "name": "Don't Wanna Wake Up",
-      "url": "https://open.spotify.com/track/0drXL2YqceYBs5gZmnOifQ"
-    },
-    {
-      "added_at": "2020-08-13 14:39:00",
-      "album": {
         "name": "neverfade",
         "url": "https://open.spotify.com/album/458fuUGnQiQai9nbOrMWi7"
       },
@@ -575,6 +559,22 @@
       "duration_ms": 179857,
       "name": "neverfade",
       "url": "https://open.spotify.com/track/7dxWG9qRCq2NyUsNES2inQ"
+    },
+    {
+      "added_at": "2020-08-13 14:39:00",
+      "album": {
+        "name": "Don't Wanna Wake Up",
+        "url": "https://open.spotify.com/album/2aojIQzbgnZasTUk6PpGOj"
+      },
+      "artists": [
+        {
+          "name": "Capital Kings",
+          "url": "https://open.spotify.com/artist/3lTIrl4h1Vov8fDaNqXUof"
+        }
+      ],
+      "duration_ms": 227142,
+      "name": "Don't Wanna Wake Up",
+      "url": "https://open.spotify.com/track/0drXL2YqceYBs5gZmnOifQ"
     },
     {
       "added_at": "2020-08-13 14:39:00",
@@ -1335,22 +1335,6 @@
     {
       "added_at": "2020-08-13 14:39:00",
       "album": {
-        "name": "Let Go",
-        "url": "https://open.spotify.com/album/1IzKxjCQN2dZYpUvTWTQBd"
-      },
-      "artists": [
-        {
-          "name": "Hillsong Young & Free",
-          "url": "https://open.spotify.com/artist/7m4gF38CPATtHrk5HS42WZ"
-        }
-      ],
-      "duration_ms": 231280,
-      "name": "Let Go",
-      "url": "https://open.spotify.com/track/0R8tMSvCvkHpiz7DjnBsAw"
-    },
-    {
-      "added_at": "2020-08-13 14:39:00",
-      "album": {
         "name": "Only U Forever",
         "url": "https://open.spotify.com/album/2WwxSsysxtBnwiP55XChDL"
       },
@@ -1367,6 +1351,22 @@
       "duration_ms": 202493,
       "name": "ONLY U (feat. Terrian)",
       "url": "https://open.spotify.com/track/1p9tNHBD4U8pVKFRhvOxJg"
+    },
+    {
+      "added_at": "2020-08-13 14:39:00",
+      "album": {
+        "name": "Let Go",
+        "url": "https://open.spotify.com/album/1IzKxjCQN2dZYpUvTWTQBd"
+      },
+      "artists": [
+        {
+          "name": "Hillsong Young & Free",
+          "url": "https://open.spotify.com/artist/7m4gF38CPATtHrk5HS42WZ"
+        }
+      ],
+      "duration_ms": 231280,
+      "name": "Let Go",
+      "url": "https://open.spotify.com/track/0R8tMSvCvkHpiz7DjnBsAw"
     },
     {
       "added_at": "2020-08-13 14:39:00",
@@ -1459,22 +1459,6 @@
     {
       "added_at": "2020-08-13 14:39:00",
       "album": {
-        "name": "\u00a1hola!",
-        "url": "https://open.spotify.com/album/0sUWrDj3EHzCQtXJF9rFTe"
-      },
-      "artists": [
-        {
-          "name": "Hollyn",
-          "url": "https://open.spotify.com/artist/2E6Nnh7AAOVajEHHRDALav"
-        }
-      ],
-      "duration_ms": 195944,
-      "name": "\u00a1hola!",
-      "url": "https://open.spotify.com/track/6vM0MZDQ3cjd5oR9IGNdIm"
-    },
-    {
-      "added_at": "2020-08-13 14:39:00",
-      "album": {
         "name": "Songs for Every Soul",
         "url": "https://open.spotify.com/album/494eVpr2xXEPkDxzk5kjbk"
       },
@@ -1491,6 +1475,22 @@
       "duration_ms": 257399,
       "name": "Mercy's Tree",
       "url": "https://open.spotify.com/track/3FTi0FOjEywikC2IkCRHPw"
+    },
+    {
+      "added_at": "2020-08-13 14:39:00",
+      "album": {
+        "name": "\u00a1hola!",
+        "url": "https://open.spotify.com/album/0sUWrDj3EHzCQtXJF9rFTe"
+      },
+      "artists": [
+        {
+          "name": "Hollyn",
+          "url": "https://open.spotify.com/artist/2E6Nnh7AAOVajEHHRDALav"
+        }
+      ],
+      "duration_ms": 195944,
+      "name": "\u00a1hola!",
+      "url": "https://open.spotify.com/track/6vM0MZDQ3cjd5oR9IGNdIm"
     },
     {
       "added_at": "2020-08-13 14:39:00",
@@ -1535,22 +1535,6 @@
     {
       "added_at": "2020-08-13 14:39:00",
       "album": {
-        "name": "Easy Never Needed You",
-        "url": "https://open.spotify.com/album/0osacoD5uOk9ogjVxHbjUF"
-      },
-      "artists": [
-        {
-          "name": "Sarah Reeves",
-          "url": "https://open.spotify.com/artist/2vGA5qCDLZGW6exRQgKfLL"
-        }
-      ],
-      "duration_ms": 199293,
-      "name": "Something About You",
-      "url": "https://open.spotify.com/track/5Ce0rF44ZaRjGVCv49ARNG"
-    },
-    {
-      "added_at": "2020-08-13 14:39:00",
-      "album": {
         "name": "Snapshot",
         "url": "https://open.spotify.com/album/1jqP8dTXqeMOCQtkTe5a4s"
       },
@@ -1567,6 +1551,22 @@
       "duration_ms": 208941,
       "name": "Snapshot",
       "url": "https://open.spotify.com/track/4hO0jaw7w3gF4JjdImHEyf"
+    },
+    {
+      "added_at": "2020-08-13 14:39:00",
+      "album": {
+        "name": "Easy Never Needed You",
+        "url": "https://open.spotify.com/album/0osacoD5uOk9ogjVxHbjUF"
+      },
+      "artists": [
+        {
+          "name": "Sarah Reeves",
+          "url": "https://open.spotify.com/artist/2vGA5qCDLZGW6exRQgKfLL"
+        }
+      ],
+      "duration_ms": 199293,
+      "name": "Something About You",
+      "url": "https://open.spotify.com/track/5Ce0rF44ZaRjGVCv49ARNG"
     },
     {
       "added_at": "2020-08-13 14:39:00",
@@ -1603,22 +1603,6 @@
     {
       "added_at": "2020-08-13 14:39:00",
       "album": {
-        "name": "Light of Your Grace",
-        "url": "https://open.spotify.com/album/5sxF80CaSq5Y2buTMXx3eD"
-      },
-      "artists": [
-        {
-          "name": "Citizens",
-          "url": "https://open.spotify.com/artist/3e7KVnSiZjsBkReSv0L6db"
-        }
-      ],
-      "duration_ms": 189307,
-      "name": "Light of Your Grace",
-      "url": "https://open.spotify.com/track/0VjZsR8TQBaUn9f4tND4J6"
-    },
-    {
-      "added_at": "2020-08-13 14:39:00",
-      "album": {
         "name": "HAPPY",
         "url": "https://open.spotify.com/album/0kjySvgUUcHW64OxmHPSWj"
       },
@@ -1631,6 +1615,22 @@
       "duration_ms": 124160,
       "name": "HAPPY",
       "url": "https://open.spotify.com/track/1bJk8jsglnHtLvUMrOV6qR"
+    },
+    {
+      "added_at": "2020-08-13 14:39:00",
+      "album": {
+        "name": "Light of Your Grace",
+        "url": "https://open.spotify.com/album/5sxF80CaSq5Y2buTMXx3eD"
+      },
+      "artists": [
+        {
+          "name": "Citizens",
+          "url": "https://open.spotify.com/artist/3e7KVnSiZjsBkReSv0L6db"
+        }
+      ],
+      "duration_ms": 189307,
+      "name": "Light of Your Grace",
+      "url": "https://open.spotify.com/track/0VjZsR8TQBaUn9f4tND4J6"
     },
     {
       "added_at": "2020-08-13 14:39:00",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4y8h9WqDPAE.md) - [plain]
 
 > Where R&B meets Hip\-Hop, Pop and everything in between !  Cover: Drake
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,784,874 likes - 150 songs - 7 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,784,914 likes - 150 songs - 7 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,7 +89,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4y8h9WqDPAE.md) - [plain]
 | 79 | [Hate \(feat\. Lojay & Highlyy\) \- Remix](https://open.spotify.com/track/3ZKSDLVZ8ciaMkNap7c7CS) | [Idman](https://open.spotify.com/artist/6N13mUTgkfYEUmW8R2GH0G), [Lojay](https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL), [Highlyy](https://open.spotify.com/artist/4JmaulM4hnNKJzvNgdxx3B), [WaveIQ](https://open.spotify.com/artist/5IhbkGKKSgqomquNJuT0oA) | [Risk: Reloaded](https://open.spotify.com/album/6f0V5FE0YzSkofS8DQztN7) | 3:32 |
 | 80 | [When It Comes To You](https://open.spotify.com/track/3JmmzgSs6VvBa3gQzcijsm) | [Fridayy](https://open.spotify.com/artist/7sP4SQ0WY6jfps1I19Ot7i) | [When It Comes To You](https://open.spotify.com/album/0somiwdLc587aSOGWsJhTi) | 2:48 |
 | 81 | [Hate Me \(feat\. Coi Leray\)](https://open.spotify.com/track/5xYprjqVnOkXDxjuGuqL6V) | [Roy Woods](https://open.spotify.com/artist/7mDU6nMUJnOSY2Hkjz5oqM), [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s) | [Mixed Emotions](https://open.spotify.com/album/4UADm8zx1jjPisT4Gnn0NJ) | 3:15 |
-| 82 | [So I Can Sleep Sound \(feat\. WSTRN\)](https://open.spotify.com/track/3rhCx6OugHgtsomfR4qbWJ) | [Trevis](https://open.spotify.com/artist/0Xp6VLfrZZlmrQsFn6He0I), [WSTRN](https://open.spotify.com/artist/5nSAh3wlH7VaqpnkiMjzDs) | [So I Can Sleep Sound \(feat\. WSTRN\)](https://open.spotify.com/album/0D6O7ATDmEyLC838Rix8fP) | 2:47 |
+| 82 | [So I Can Sleep Sound](https://open.spotify.com/track/3rhCx6OugHgtsomfR4qbWJ) | [Trevis](https://open.spotify.com/artist/0Xp6VLfrZZlmrQsFn6He0I), [WSTRN](https://open.spotify.com/artist/5nSAh3wlH7VaqpnkiMjzDs) | [So I Can Sleep Sound](https://open.spotify.com/album/0D6O7ATDmEyLC838Rix8fP) | 2:47 |
 | 83 | [My Baby \(feat\. Ayra Starr\) \[Remix\]](https://open.spotify.com/track/5eZ0obGIbQMMokxCzBzdMA) | [Bien](https://open.spotify.com/artist/2zhossaaVN2pXg5p8o101X), [Franglish](https://open.spotify.com/artist/4uJNQGa3L2frXDxwgouTIw), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [My Baby \(feat\. Ayra Starr\) \[Remix\]](https://open.spotify.com/album/7aWjCu9japCJ2x9Lci5ITj) | 3:17 |
 | 84 | [FIREGUN \(feat\. Fireboy DML\)](https://open.spotify.com/track/5VF45DoQu9oT7Se5ieLoZk) | [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy), [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY) | [EZIOKWU](https://open.spotify.com/album/6e1McsPwHgiySHVlpZRhFx) | 3:14 |
 | 85 | [Parade on Cleveland \(feat\. Drake\)](https://open.spotify.com/track/05CTjmZKjZoCKQvM1Ldq9M) | [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [BUSINESS IS BUSINESS](https://open.spotify.com/album/6qElaeK7SHsEzb8uV8eG3D) | 3:48 |
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4y8h9WqDPAE.md) - [plain]
 | 149 | [Low](https://open.spotify.com/track/2GAhgAjOhEmItWLfgisyOn) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [SOS](https://open.spotify.com/album/07w0rG5TETcyihsEIZR3qG) | 3:01 |
 | 150 | [Lay Low](https://open.spotify.com/track/1QrRuByqSfCxYS0JdZMlIf) | [BLK ODYSSY](https://open.spotify.com/artist/062tCT8GVioC9EMiI9jeOV), [Bnxn](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x) | [Lay Low](https://open.spotify.com/album/1khrykFtUgs38Ba0QA0Lq4) | 2:19 |
 
-Snapshot ID: `MCwyNDI4ZjUxYTE1YWE1OTgzMjlmMDgxYzEwOGNlYWUzMjMwNTkyYmMx`
+Snapshot ID: `MCxkZWZiNTQwYzk3ZTFmM2VkOWZmMDhhMjA1OWJhYjhjYWU5ZTFiNmE4`

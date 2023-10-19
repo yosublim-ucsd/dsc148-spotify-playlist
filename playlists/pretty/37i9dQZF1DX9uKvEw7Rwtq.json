@@ -1,12 +1,12 @@
 {
   "description": "Soaring soundscapes from the most epic Post-Rock artists.",
-  "num_followers": 82075,
+  "num_followers": 82176,
   "original_name": "Ambient Post-Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyNDFkYTBjYzdkNjk4NzJmNWUyNzRkOWEzNjI4YmMzODE3YTE4MGEx",
+  "snapshot_id": "MCw2NzkwMGNiZDg5YTlkZDBhNzc3NjM0OGZlNzVmNDA1OGU1MWI3YWU1",
   "tracks": [
     {
       "added_at": "2023-09-29 15:52:17",
@@ -43,22 +43,6 @@
     {
       "added_at": "2023-09-29 15:52:17",
       "album": {
-        "name": "The Earth Is Not a Cold Dead Place",
-        "url": "https://open.spotify.com/album/49buCcKCJwxvdl0R2dMoIU"
-      },
-      "artists": [
-        {
-          "name": "Explosions In The Sky",
-          "url": "https://open.spotify.com/artist/1uQWmt1OhuHGRKmZ2ZcL6p"
-        }
-      ],
-      "duration_ms": 496573,
-      "name": "Your Hand In Mine",
-      "url": "https://open.spotify.com/track/4sYn64V9gqP6bpkOGw5B9k"
-    },
-    {
-      "added_at": "2023-09-29 15:52:17",
-      "album": {
         "name": "Zero Gravity",
         "url": "https://open.spotify.com/album/7E8OVvnwnsAAhyiYrrRBox"
       },
@@ -79,6 +63,22 @@
       "duration_ms": 159818,
       "name": "Zero Gravity",
       "url": "https://open.spotify.com/track/4tfaUHGYBCMliBaOHM5vHX"
+    },
+    {
+      "added_at": "2023-09-29 15:52:17",
+      "album": {
+        "name": "The Earth Is Not a Cold Dead Place",
+        "url": "https://open.spotify.com/album/49buCcKCJwxvdl0R2dMoIU"
+      },
+      "artists": [
+        {
+          "name": "Explosions In The Sky",
+          "url": "https://open.spotify.com/artist/1uQWmt1OhuHGRKmZ2ZcL6p"
+        }
+      ],
+      "duration_ms": 496573,
+      "name": "Your Hand In Mine",
+      "url": "https://open.spotify.com/track/4sYn64V9gqP6bpkOGw5B9k"
     },
     {
       "added_at": "2023-09-29 15:52:17",
@@ -195,22 +195,6 @@
     {
       "added_at": "2023-09-29 15:52:17",
       "album": {
-        "name": "Lone Survivor (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/30KqtKSWR8OQe0mB4EdepA"
-      },
-      "artists": [
-        {
-          "name": "Explosions In The Sky",
-          "url": "https://open.spotify.com/artist/1uQWmt1OhuHGRKmZ2ZcL6p"
-        }
-      ],
-      "duration_ms": 290871,
-      "name": "Waking Up",
-      "url": "https://open.spotify.com/track/3CSO9mXOUtOzIM6Eqq9QlF"
-    },
-    {
-      "added_at": "2023-09-29 15:52:17",
-      "album": {
         "name": "Maybe They Will Sing for Us Tomorrow",
         "url": "https://open.spotify.com/album/3N4fmmPCO3Vh6QTKCiDyob"
       },
@@ -227,22 +211,6 @@
     {
       "added_at": "2023-09-29 15:52:17",
       "album": {
-        "name": "James",
-        "url": "https://open.spotify.com/album/7mHPviR5lgsokoGd2JxM2z"
-      },
-      "artists": [
-        {
-          "name": "Lowercase Noises",
-          "url": "https://open.spotify.com/artist/7trvyUUXmPhi1StCNYHj4e"
-        }
-      ],
-      "duration_ms": 354066,
-      "name": "The First Glimmer of Wind",
-      "url": "https://open.spotify.com/track/0kQ1OXxdNx2mJfphbZ3K0c"
-    },
-    {
-      "added_at": "2023-09-29 15:52:17",
-      "album": {
         "name": "Moiety",
         "url": "https://open.spotify.com/album/6jeWLcfk7qZoreG79zMf7g"
       },
@@ -255,6 +223,38 @@
       "duration_ms": 287520,
       "name": "Nothing It Can",
       "url": "https://open.spotify.com/track/3OiltpO4AcqtXGUpfcYho2"
+    },
+    {
+      "added_at": "2023-09-29 15:52:17",
+      "album": {
+        "name": "Lone Survivor (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/30KqtKSWR8OQe0mB4EdepA"
+      },
+      "artists": [
+        {
+          "name": "Explosions In The Sky",
+          "url": "https://open.spotify.com/artist/1uQWmt1OhuHGRKmZ2ZcL6p"
+        }
+      ],
+      "duration_ms": 290871,
+      "name": "Waking Up",
+      "url": "https://open.spotify.com/track/3CSO9mXOUtOzIM6Eqq9QlF"
+    },
+    {
+      "added_at": "2023-09-29 15:52:17",
+      "album": {
+        "name": "James",
+        "url": "https://open.spotify.com/album/7mHPviR5lgsokoGd2JxM2z"
+      },
+      "artists": [
+        {
+          "name": "Lowercase Noises",
+          "url": "https://open.spotify.com/artist/7trvyUUXmPhi1StCNYHj4e"
+        }
+      ],
+      "duration_ms": 354066,
+      "name": "The First Glimmer of Wind",
+      "url": "https://open.spotify.com/track/0kQ1OXxdNx2mJfphbZ3K0c"
     },
     {
       "added_at": "2023-09-29 15:52:17",
@@ -307,6 +307,22 @@
     {
       "added_at": "2023-09-29 15:52:17",
       "album": {
+        "name": "Veriditas",
+        "url": "https://open.spotify.com/album/3QTsU264hhPO4cEOrHrZC0"
+      },
+      "artists": [
+        {
+          "name": "Helios",
+          "url": "https://open.spotify.com/artist/592TFYwu9Qb0RC1hKDbX2w"
+        }
+      ],
+      "duration_ms": 155866,
+      "name": "Seeming",
+      "url": "https://open.spotify.com/track/1AzBMkqhcv8KKyCYc2A1C2"
+    },
+    {
+      "added_at": "2023-09-29 15:52:17",
+      "album": {
         "name": "Oblivion Hymns",
         "url": "https://open.spotify.com/album/0qlK9CvmHB659phHKCdJSn"
       },
@@ -335,22 +351,6 @@
       "duration_ms": 176373,
       "name": "Glaciers",
       "url": "https://open.spotify.com/track/2No1A7ZuMaBGxz45jmA9Gw"
-    },
-    {
-      "added_at": "2023-09-29 15:52:17",
-      "album": {
-        "name": "Veriditas",
-        "url": "https://open.spotify.com/album/3QTsU264hhPO4cEOrHrZC0"
-      },
-      "artists": [
-        {
-          "name": "Helios",
-          "url": "https://open.spotify.com/artist/592TFYwu9Qb0RC1hKDbX2w"
-        }
-      ],
-      "duration_ms": 155866,
-      "name": "Seeming",
-      "url": "https://open.spotify.com/track/1AzBMkqhcv8KKyCYc2A1C2"
     },
     {
       "added_at": "2023-09-29 15:52:17",
@@ -467,6 +467,22 @@
     {
       "added_at": "2023-09-29 15:52:17",
       "album": {
+        "name": "Reanimation",
+        "url": "https://open.spotify.com/album/6L0fhAi5G9zXbmFelO96Zy"
+      },
+      "artists": [
+        {
+          "name": "Lights & Motion",
+          "url": "https://open.spotify.com/artist/3ff1CmU6qfTqRAmdrq8EEG"
+        }
+      ],
+      "duration_ms": 132472,
+      "name": "Requiem",
+      "url": "https://open.spotify.com/track/6M8tLLip6IdSyr8unJMFxP"
+    },
+    {
+      "added_at": "2023-09-29 15:52:17",
+      "album": {
         "name": "Cluster & Eno",
         "url": "https://open.spotify.com/album/0VSmGsL1RtyjE7bdAaSAvy"
       },
@@ -483,22 +499,6 @@
       "duration_ms": 311600,
       "name": "Ho Renomo",
       "url": "https://open.spotify.com/track/2nBtV4NSZJiarMBMpsn6UH"
-    },
-    {
-      "added_at": "2023-09-29 15:52:17",
-      "album": {
-        "name": "Reanimation",
-        "url": "https://open.spotify.com/album/6L0fhAi5G9zXbmFelO96Zy"
-      },
-      "artists": [
-        {
-          "name": "Lights & Motion",
-          "url": "https://open.spotify.com/artist/3ff1CmU6qfTqRAmdrq8EEG"
-        }
-      ],
-      "duration_ms": 132472,
-      "name": "Requiem",
-      "url": "https://open.spotify.com/track/6M8tLLip6IdSyr8unJMFxP"
     },
     {
       "added_at": "2023-09-29 15:52:17",
@@ -783,22 +783,6 @@
     {
       "added_at": "2023-09-29 15:52:17",
       "album": {
-        "name": "Timewave Zero",
-        "url": "https://open.spotify.com/album/6MGQlAscBNKcBRX3VqkrvZ"
-      },
-      "artists": [
-        {
-          "name": "Blood Incantation",
-          "url": "https://open.spotify.com/artist/6FGv87WQ3mJWn3cmLUww6x"
-        }
-      ],
-      "duration_ms": 441386,
-      "name": "Ea: First Movement",
-      "url": "https://open.spotify.com/track/2tbGBZ6TpqSVnk0TTOMsTP"
-    },
-    {
-      "added_at": "2023-09-29 15:52:17",
-      "album": {
         "name": "Sacrifice & Isolation",
         "url": "https://open.spotify.com/album/42WlUy8Gv94fgPhtlnSPka"
       },
@@ -811,6 +795,22 @@
       "duration_ms": 311555,
       "name": "What the Heart Craves For",
       "url": "https://open.spotify.com/track/0HRANjLImYOvlfNF9wG2cy"
+    },
+    {
+      "added_at": "2023-09-29 15:52:17",
+      "album": {
+        "name": "Timewave Zero",
+        "url": "https://open.spotify.com/album/6MGQlAscBNKcBRX3VqkrvZ"
+      },
+      "artists": [
+        {
+          "name": "Blood Incantation",
+          "url": "https://open.spotify.com/artist/6FGv87WQ3mJWn3cmLUww6x"
+        }
+      ],
+      "duration_ms": 441386,
+      "name": "Ea: First Movement",
+      "url": "https://open.spotify.com/track/2tbGBZ6TpqSVnk0TTOMsTP"
     },
     {
       "added_at": "2023-09-29 15:52:17",
@@ -1007,6 +1007,22 @@
     {
       "added_at": "2023-09-29 15:52:17",
       "album": {
+        "name": "Meteor Shower",
+        "url": "https://open.spotify.com/album/14UMhTcpV3uhQoWzyOZ9GH"
+      },
+      "artists": [
+        {
+          "name": "Alyas",
+          "url": "https://open.spotify.com/artist/0RRYSk01k1iJQbsi83Oh2S"
+        }
+      ],
+      "duration_ms": 236000,
+      "name": "Meteor Shower",
+      "url": "https://open.spotify.com/track/2hzgNLpTcKF81lhU6SJz4E"
+    },
+    {
+      "added_at": "2023-09-29 15:52:17",
+      "album": {
         "name": "Invisible Cities",
         "url": "https://open.spotify.com/album/5jZGc1A6FrsN8qssSxxTce"
       },
@@ -1059,22 +1075,6 @@
       "duration_ms": 173853,
       "name": "My Courtesan",
       "url": "https://open.spotify.com/track/3Mpwsnfe7Q6AspY7aM7qvF"
-    },
-    {
-      "added_at": "2023-09-29 15:52:17",
-      "album": {
-        "name": "Meteor Shower",
-        "url": "https://open.spotify.com/album/14UMhTcpV3uhQoWzyOZ9GH"
-      },
-      "artists": [
-        {
-          "name": "Alyas",
-          "url": "https://open.spotify.com/artist/0RRYSk01k1iJQbsi83Oh2S"
-        }
-      ],
-      "duration_ms": 236000,
-      "name": "Meteor Shower",
-      "url": "https://open.spotify.com/track/2hzgNLpTcKF81lhU6SJz4E"
     },
     {
       "added_at": "2023-09-29 15:52:17",
@@ -1179,22 +1179,6 @@
     {
       "added_at": "2023-09-29 15:52:17",
       "album": {
-        "name": "Succour (Redux)",
-        "url": "https://open.spotify.com/album/0ZFh0hss22TukAygB7LufU"
-      },
-      "artists": [
-        {
-          "name": "Seefeel",
-          "url": "https://open.spotify.com/artist/0jyH4jtanxaysaxwDVhR6f"
-        }
-      ],
-      "duration_ms": 393195,
-      "name": "Monastic",
-      "url": "https://open.spotify.com/track/6hZtYl0fhKYJ3ptc6DiLnL"
-    },
-    {
-      "added_at": "2023-09-29 15:52:17",
-      "album": {
         "name": "Those Winter Sundays",
         "url": "https://open.spotify.com/album/70WVA0g1iS6nFjOk7KSGNP"
       },
@@ -1207,6 +1191,22 @@
       "duration_ms": 229333,
       "name": "Those Winter Sundays",
       "url": "https://open.spotify.com/track/5SwqHpKZdlWOBGsAUdg1me"
+    },
+    {
+      "added_at": "2023-09-29 15:52:17",
+      "album": {
+        "name": "Succour (Redux)",
+        "url": "https://open.spotify.com/album/0ZFh0hss22TukAygB7LufU"
+      },
+      "artists": [
+        {
+          "name": "Seefeel",
+          "url": "https://open.spotify.com/artist/0jyH4jtanxaysaxwDVhR6f"
+        }
+      ],
+      "duration_ms": 393195,
+      "name": "Monastic",
+      "url": "https://open.spotify.com/track/6hZtYl0fhKYJ3ptc6DiLnL"
     },
     {
       "added_at": "2023-09-29 15:52:17",
@@ -1487,22 +1487,6 @@
     {
       "added_at": "2023-09-29 15:52:17",
       "album": {
-        "name": "Lakeshore",
-        "url": "https://open.spotify.com/album/1YgvjkUsjMJbJGxcvun4RM"
-      },
-      "artists": [
-        {
-          "name": "Lost Horse Mine",
-          "url": "https://open.spotify.com/artist/6IAXzJ1w04k1y0IoDujIBV"
-        }
-      ],
-      "duration_ms": 164589,
-      "name": "Lakeshore",
-      "url": "https://open.spotify.com/track/3HGFKsehiopbAKGrzWVjGc"
-    },
-    {
-      "added_at": "2023-09-29 15:52:17",
-      "album": {
         "name": "Bloodsport",
         "url": "https://open.spotify.com/album/2EmIqtCm4czU2Kc6YbVE3J"
       },
@@ -1519,18 +1503,18 @@
     {
       "added_at": "2023-09-29 15:52:17",
       "album": {
-        "name": "Volcan",
-        "url": "https://open.spotify.com/album/1oeoW3Ucs6A2zSMMgMS0UW"
+        "name": "Lakeshore",
+        "url": "https://open.spotify.com/album/1YgvjkUsjMJbJGxcvun4RM"
       },
       "artists": [
         {
-          "name": "From Overseas",
-          "url": "https://open.spotify.com/artist/31PP2XORcCMGHAa8vzJEUV"
+          "name": "Lost Horse Mine",
+          "url": "https://open.spotify.com/artist/6IAXzJ1w04k1y0IoDujIBV"
         }
       ],
-      "duration_ms": 284000,
-      "name": "Deliveries",
-      "url": "https://open.spotify.com/track/2fwzxX1uakYBKc5cT0kFN3"
+      "duration_ms": 164589,
+      "name": "Lakeshore",
+      "url": "https://open.spotify.com/track/3HGFKsehiopbAKGrzWVjGc"
     },
     {
       "added_at": "2023-09-29 15:52:17",
@@ -1567,18 +1551,18 @@
     {
       "added_at": "2023-09-29 15:52:17",
       "album": {
-        "name": "Hy-Brasil",
-        "url": "https://open.spotify.com/album/0Ovb8VJpDHHtTbqjbYhywu"
+        "name": "Volcan",
+        "url": "https://open.spotify.com/album/1oeoW3Ucs6A2zSMMgMS0UW"
       },
       "artists": [
         {
-          "name": "LIGHTS OUT ASIA",
-          "url": "https://open.spotify.com/artist/1jtXwxapRCfIUoU6gbGWzi"
+          "name": "From Overseas",
+          "url": "https://open.spotify.com/artist/31PP2XORcCMGHAa8vzJEUV"
         }
       ],
-      "duration_ms": 235213,
-      "name": "Abell 1835",
-      "url": "https://open.spotify.com/track/6hyj3mdLzyCq1Cd2F8S42o"
+      "duration_ms": 284000,
+      "name": "Deliveries",
+      "url": "https://open.spotify.com/track/2fwzxX1uakYBKc5cT0kFN3"
     },
     {
       "added_at": "2023-09-29 15:52:17",
@@ -1595,6 +1579,22 @@
       "duration_ms": 346133,
       "name": "Be the Light",
       "url": "https://open.spotify.com/track/7lzOZfO08GlKkSBz7TPX6t"
+    },
+    {
+      "added_at": "2023-09-29 15:52:17",
+      "album": {
+        "name": "Hy-Brasil",
+        "url": "https://open.spotify.com/album/0Ovb8VJpDHHtTbqjbYhywu"
+      },
+      "artists": [
+        {
+          "name": "LIGHTS OUT ASIA",
+          "url": "https://open.spotify.com/artist/1jtXwxapRCfIUoU6gbGWzi"
+        }
+      ],
+      "duration_ms": 235213,
+      "name": "Abell 1835",
+      "url": "https://open.spotify.com/track/6hyj3mdLzyCq1Cd2F8S42o"
     },
     {
       "added_at": "2023-09-29 15:52:17",
@@ -1635,26 +1635,6 @@
     {
       "added_at": "2023-09-29 15:52:17",
       "album": {
-        "name": "In a Sad Red Dusk, We Were Finally Leaving",
-        "url": "https://open.spotify.com/album/5kaGO4pw3kdASdMgve60vR"
-      },
-      "artists": [
-        {
-          "name": "Carlos Ferreira",
-          "url": "https://open.spotify.com/artist/7J6KXAg6cV2B2BKGYZJhEB"
-        },
-        {
-          "name": "deer meadow",
-          "url": "https://open.spotify.com/artist/7IjTtPufpIvS5zpffa9FXr"
-        }
-      ],
-      "duration_ms": 318240,
-      "name": "Secret Colours",
-      "url": "https://open.spotify.com/track/1NMCxRadb4KO7Kjosst5lA"
-    },
-    {
-      "added_at": "2023-09-29 15:52:17",
-      "album": {
         "name": "A Dream to Call My Own (feat. Janell Rosa)",
         "url": "https://open.spotify.com/album/2VX4sX25BcOUOY7sofYgaq"
       },
@@ -1671,6 +1651,26 @@
       "duration_ms": 229186,
       "name": "A Dream to Call My Own (feat. Janell Rosa)",
       "url": "https://open.spotify.com/track/1QRbOx5X5oCNla0mfHJOH3"
+    },
+    {
+      "added_at": "2023-09-29 15:52:17",
+      "album": {
+        "name": "In a Sad Red Dusk, We Were Finally Leaving",
+        "url": "https://open.spotify.com/album/5kaGO4pw3kdASdMgve60vR"
+      },
+      "artists": [
+        {
+          "name": "Carlos Ferreira",
+          "url": "https://open.spotify.com/artist/7J6KXAg6cV2B2BKGYZJhEB"
+        },
+        {
+          "name": "deer meadow",
+          "url": "https://open.spotify.com/artist/7IjTtPufpIvS5zpffa9FXr"
+        }
+      ],
+      "duration_ms": 318240,
+      "name": "Secret Colours",
+      "url": "https://open.spotify.com/track/1NMCxRadb4KO7Kjosst5lA"
     }
   ],
   "unique_name": "Ambient Post-Rock",

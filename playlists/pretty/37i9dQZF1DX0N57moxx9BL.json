@@ -1,12 +1,12 @@
 {
   "description": "Listen to the recent hits of Christian Rock.  Cover:  <a href=\"https://open.spotify.com/artist/01crEa9G3pNpXZ5m7wuHOk?si=gnYOdOZxT_-mL-QVsbRxKQ\">Red</a> ",
-  "num_followers": 137968,
+  "num_followers": 138051,
   "original_name": "Top Christian Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0YmE1ZmI1ZWM0YmNmMTUxYWEzYzRhM2E2YzdjYjZkODI5NDc5ZTg5",
+  "snapshot_id": "MCw2MjVhMWZlYTU0M2FkN2M2ZjU1YzIxOTg5NGNjZmIzZDdiZjQzZWUy",
   "tracks": [
     {
       "added_at": "2023-08-04 12:11:34",
@@ -895,22 +895,6 @@
     {
       "added_at": "2023-08-04 12:11:34",
       "album": {
-        "name": "By Faith",
-        "url": "https://open.spotify.com/album/4bjzcdjO7NXSocnuLs1pWK"
-      },
-      "artists": [
-        {
-          "name": "7eventh Time Down",
-          "url": "https://open.spotify.com/artist/15JWT0b1GY8dOBjVtrHaca"
-        }
-      ],
-      "duration_ms": 186849,
-      "name": "Undefeated",
-      "url": "https://open.spotify.com/track/0RNrPMV3W7fy1kuJMOFPJN"
-    },
-    {
-      "added_at": "2023-08-04 12:11:34",
-      "album": {
         "name": "SILENCE THE WORLD",
         "url": "https://open.spotify.com/album/7oEjybhppczzGPKjbV8sTw"
       },
@@ -927,6 +911,22 @@
       "duration_ms": 433866,
       "name": "SILENCE THE WORLD",
       "url": "https://open.spotify.com/track/01Pair9pvTuMRBcKzpwJ2P"
+    },
+    {
+      "added_at": "2023-08-04 12:11:34",
+      "album": {
+        "name": "Barbarians (Live)",
+        "url": "https://open.spotify.com/album/6L4poo7GcNGGcgcQPiB6Zo"
+      },
+      "artists": [
+        {
+          "name": "Freedom Church",
+          "url": "https://open.spotify.com/artist/1OgH8GLEEZWPtW9XJJDQYh"
+        }
+      ],
+      "duration_ms": 382125,
+      "name": "Chariots - Live",
+      "url": "https://open.spotify.com/track/6DuEUsG8YvsNq91I2a9djH"
     },
     {
       "added_at": "2023-08-04 12:11:34",
@@ -963,18 +963,18 @@
     {
       "added_at": "2023-08-04 12:11:34",
       "album": {
-        "name": "Barbarians (Live)",
-        "url": "https://open.spotify.com/album/6L4poo7GcNGGcgcQPiB6Zo"
+        "name": "By Faith",
+        "url": "https://open.spotify.com/album/4bjzcdjO7NXSocnuLs1pWK"
       },
       "artists": [
         {
-          "name": "Freedom Church",
-          "url": "https://open.spotify.com/artist/1OgH8GLEEZWPtW9XJJDQYh"
+          "name": "7eventh Time Down",
+          "url": "https://open.spotify.com/artist/15JWT0b1GY8dOBjVtrHaca"
         }
       ],
-      "duration_ms": 382125,
-      "name": "Chariots - Live",
-      "url": "https://open.spotify.com/track/6DuEUsG8YvsNq91I2a9djH"
+      "duration_ms": 186849,
+      "name": "Undefeated",
+      "url": "https://open.spotify.com/track/0RNrPMV3W7fy1kuJMOFPJN"
     },
     {
       "added_at": "2023-08-04 12:11:34",
@@ -1171,6 +1171,22 @@
     {
       "added_at": "2023-08-04 12:11:34",
       "album": {
+        "name": "Inside Out",
+        "url": "https://open.spotify.com/album/53d2Js7Xbyw8MlCq2EcXvW"
+      },
+      "artists": [
+        {
+          "name": "XXI",
+          "url": "https://open.spotify.com/artist/7dPci6f1wSaMR2McjBdb4C"
+        }
+      ],
+      "duration_ms": 233906,
+      "name": "Way You Love Me",
+      "url": "https://open.spotify.com/track/1CFV6jDeM0HDY0wqvbhNCW"
+    },
+    {
+      "added_at": "2023-08-04 12:11:34",
+      "album": {
         "name": "No Fear In Love",
         "url": "https://open.spotify.com/album/5zmejejlQErGrI0qDJiXoS"
       },
@@ -1187,22 +1203,6 @@
       "duration_ms": 515318,
       "name": "No Fear In Love",
       "url": "https://open.spotify.com/track/2NXKrBVJYAvVLUPm5lMPaE"
-    },
-    {
-      "added_at": "2023-08-04 12:11:34",
-      "album": {
-        "name": "Inside Out",
-        "url": "https://open.spotify.com/album/53d2Js7Xbyw8MlCq2EcXvW"
-      },
-      "artists": [
-        {
-          "name": "XXI",
-          "url": "https://open.spotify.com/artist/7dPci6f1wSaMR2McjBdb4C"
-        }
-      ],
-      "duration_ms": 233906,
-      "name": "Way You Love Me",
-      "url": "https://open.spotify.com/track/1CFV6jDeM0HDY0wqvbhNCW"
     },
     {
       "added_at": "2023-08-04 12:11:34",
@@ -1255,6 +1255,22 @@
     {
       "added_at": "2023-08-04 12:11:34",
       "album": {
+        "name": "Honor & Glory",
+        "url": "https://open.spotify.com/album/2itu4IaIrGFui5Y117djYw"
+      },
+      "artists": [
+        {
+          "name": "Honor & Glory",
+          "url": "https://open.spotify.com/artist/16bPRQeTKQ7kM03xe3n3e6"
+        }
+      ],
+      "duration_ms": 271159,
+      "name": "Fear of Missing Out",
+      "url": "https://open.spotify.com/track/4NvVIO4OXlYGLXTqcnl9EC"
+    },
+    {
+      "added_at": "2023-08-04 12:11:34",
+      "album": {
         "name": "Dark Cold Night",
         "url": "https://open.spotify.com/album/2eJRAVWbt44uZ2Ce0bMhcB"
       },
@@ -1283,22 +1299,6 @@
       "duration_ms": 233686,
       "name": "Ashes to Ashes",
       "url": "https://open.spotify.com/track/0VdFJsLHyBZrA5G2R32JIj"
-    },
-    {
-      "added_at": "2023-08-04 12:11:34",
-      "album": {
-        "name": "Honor & Glory",
-        "url": "https://open.spotify.com/album/2itu4IaIrGFui5Y117djYw"
-      },
-      "artists": [
-        {
-          "name": "Honor & Glory",
-          "url": "https://open.spotify.com/artist/16bPRQeTKQ7kM03xe3n3e6"
-        }
-      ],
-      "duration_ms": 271159,
-      "name": "Fear of Missing Out",
-      "url": "https://open.spotify.com/track/4NvVIO4OXlYGLXTqcnl9EC"
     },
     {
       "added_at": "2023-08-04 12:11:34",
@@ -1339,22 +1339,6 @@
     {
       "added_at": "2023-08-04 12:11:34",
       "album": {
-        "name": "What I've Become",
-        "url": "https://open.spotify.com/album/2V4iSdBm0uuxzIyBGwBNEh"
-      },
-      "artists": [
-        {
-          "name": "Seventh Day Slumber",
-          "url": "https://open.spotify.com/artist/6kFLnclYFc3gzpNt13wim5"
-        }
-      ],
-      "duration_ms": 204942,
-      "name": "What I've Become",
-      "url": "https://open.spotify.com/track/5rf8uIF0S4HqLRK3jMifCd"
-    },
-    {
-      "added_at": "2023-08-04 12:11:34",
-      "album": {
         "name": "Futures",
         "url": "https://open.spotify.com/album/5bEuICumNUiE7BVE3kUFV7"
       },
@@ -1367,6 +1351,22 @@
       "duration_ms": 246286,
       "name": "Drive",
       "url": "https://open.spotify.com/track/05rFfMp2OJiuspwd2XADJS"
+    },
+    {
+      "added_at": "2023-08-04 12:11:34",
+      "album": {
+        "name": "What I've Become",
+        "url": "https://open.spotify.com/album/2V4iSdBm0uuxzIyBGwBNEh"
+      },
+      "artists": [
+        {
+          "name": "Seventh Day Slumber",
+          "url": "https://open.spotify.com/artist/6kFLnclYFc3gzpNt13wim5"
+        }
+      ],
+      "duration_ms": 204942,
+      "name": "What I've Become",
+      "url": "https://open.spotify.com/track/5rf8uIF0S4HqLRK3jMifCd"
     },
     {
       "added_at": "2023-08-04 12:11:34",
@@ -1399,22 +1399,6 @@
       "duration_ms": 258888,
       "name": "Angels vs Demons",
       "url": "https://open.spotify.com/track/1on699IUw4o4OsjKXQW5Z9"
-    },
-    {
-      "added_at": "2023-08-04 12:11:34",
-      "album": {
-        "name": "Faith Over Fear",
-        "url": "https://open.spotify.com/album/1AIYD2XjncX9ir1zRTrgV0"
-      },
-      "artists": [
-        {
-          "name": "Aaron Michaels",
-          "url": "https://open.spotify.com/artist/2aNlHGoWugw2nY0gNmu3fd"
-        }
-      ],
-      "duration_ms": 194298,
-      "name": "Faith Over Fear",
-      "url": "https://open.spotify.com/track/7Cta8xZQzWkvYOKVxL64gC"
     },
     {
       "added_at": "2023-08-04 12:11:34",
@@ -1467,6 +1451,22 @@
       "duration_ms": 237522,
       "name": "Fame",
       "url": "https://open.spotify.com/track/2tcqUBt189wGUWUeBkoIu9"
+    },
+    {
+      "added_at": "2023-08-04 12:11:34",
+      "album": {
+        "name": "Faith Over Fear",
+        "url": "https://open.spotify.com/album/1AIYD2XjncX9ir1zRTrgV0"
+      },
+      "artists": [
+        {
+          "name": "Aaron Michaels",
+          "url": "https://open.spotify.com/artist/2aNlHGoWugw2nY0gNmu3fd"
+        }
+      ],
+      "duration_ms": 194298,
+      "name": "Faith Over Fear",
+      "url": "https://open.spotify.com/track/7Cta8xZQzWkvYOKVxL64gC"
     },
     {
       "added_at": "2023-08-04 12:11:34",
@@ -1563,22 +1563,6 @@
     {
       "added_at": "2023-08-04 12:11:34",
       "album": {
-        "name": "Blood of the Son",
-        "url": "https://open.spotify.com/album/4Frfc6QdL7kZtfTh19WJHt"
-      },
-      "artists": [
-        {
-          "name": "Brother Hamm",
-          "url": "https://open.spotify.com/artist/52knD2OLkz6oIjppQwD7Jd"
-        }
-      ],
-      "duration_ms": 340000,
-      "name": "Blood of the Son",
-      "url": "https://open.spotify.com/track/2lAaxALfW5C4OEYuOGTAqU"
-    },
-    {
-      "added_at": "2023-08-04 12:11:34",
-      "album": {
         "name": "Rise to the Call",
         "url": "https://open.spotify.com/album/3v0BOWMnf9wrExM0vXl4xb"
       },
@@ -1591,6 +1575,22 @@
       "duration_ms": 227486,
       "name": "Rise to the Call",
       "url": "https://open.spotify.com/track/4TVEUT6InpWqdUAXnsd4Uv"
+    },
+    {
+      "added_at": "2023-08-04 12:11:34",
+      "album": {
+        "name": "Blood of the Son",
+        "url": "https://open.spotify.com/album/4Frfc6QdL7kZtfTh19WJHt"
+      },
+      "artists": [
+        {
+          "name": "Brother Hamm",
+          "url": "https://open.spotify.com/artist/52knD2OLkz6oIjppQwD7Jd"
+        }
+      ],
+      "duration_ms": 340000,
+      "name": "Blood of the Son",
+      "url": "https://open.spotify.com/track/2lAaxALfW5C4OEYuOGTAqU"
     },
     {
       "added_at": "2023-08-04 12:11:34",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbiEfzyzIRj9.md) - [plain]
 
 > 国内外のオルタナティブダンスミュージック/ Alternative dance music from Japan and abroad\. Cover: Mura Masa
 
-[Spotify](https://open.spotify.com/user/spotify) - 84,945 likes - 101 songs - 7 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 84,963 likes - 101 songs - 7 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -110,4 +110,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbiEfzyzIRj9.md) - [plain]
 | 100 | [And I Loved You](https://open.spotify.com/track/3BqYst33zIgk7VAJ35bNMk) | [Satoshi Tomiie](https://open.spotify.com/artist/3TrAOZvW0MzZeKZRFnU7Ul), [Arnold Jarvis](https://open.spotify.com/artist/7KWmHJx8szSRWhzUHluYC5) | [And I Loved You](https://open.spotify.com/album/6FhTKOEm1lpjp29P36AQyV) | 7:36 |
 | 101 | [Wake Up \- feat\. Lilly Ahlberg](https://open.spotify.com/track/161hSAPDwk98yuyMeGmkdX) | [AmPm](https://open.spotify.com/artist/5Xcbv83o11Ez2XPHa1n8Pf), [Lilly Ahlberg](https://open.spotify.com/artist/2s8bgT1CE6KOA0a2omeCDk) | [Wake Up \(feat\. Lilly Ahlberg\)](https://open.spotify.com/album/1rK42vxnzXX64eV9LKKzYW) | 3:44 |
 
-Snapshot ID: `MCxhOWQ0YjlhYjdkYzViMzliMTUxN2E1MzNjYjMzZGJhM2MyMDRiNTg0`
+Snapshot ID: `MCw2YWVkZTI4YjY4NTBjZWU4YzZkNzJiOTNmNTNjZTkyNWRlZDBkMTBh`

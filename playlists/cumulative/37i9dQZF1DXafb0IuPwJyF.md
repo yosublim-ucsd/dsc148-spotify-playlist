@@ -4,7 +4,7 @@
 
 > The hottest hits in Japan right now\. 日本のポップシーンを彩る最新ベスト50。Cover: あいみょん
 
-1,063 songs - 2 day 18 hr 14 min
+1,064 songs - 2 day 18 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -699,7 +699,8 @@
 | [カメレオン](https://open.spotify.com/track/0J0P8iSE6l3pYHbUdNFYdS) | [King Gnu](https://open.spotify.com/artist/6wxfx1yhyqjCPYwwxJktR2) | [カメレオン](https://open.spotify.com/album/2dZ3LDlFGj0D4dvb1iDx7z) | 3:13 | 2022-02-27 | 2022-06-06 |
 | [カレンダー](https://open.spotify.com/track/5hgqyx5zALVzkSzXadrX0m) | [Takaya Kawasaki](https://open.spotify.com/artist/3BjFX1nExMNHvSaoLd1I1k) | [カレンダー](https://open.spotify.com/album/1T18qFuxU67pmxaZWQRY3f) | 4:39 | 2021-12-19 | 2021-12-27 |
 | [キャラクター](https://open.spotify.com/track/1WkMPKhw6w2PAaZyKpITNi) | [Ryokuoushoku Shakai](https://open.spotify.com/artist/4SJ7qRgJYNXB9Yttzs4aSa) | [キャラクター](https://open.spotify.com/album/2ylk0z5v9TVDEbexjpVh8c) | 4:09 | 2022-01-23 | 2022-03-21 |
-| [キリエ・憐れみの讃歌](https://open.spotify.com/track/4KjNYo1Y9QWc0GQES77dfl) | [Kyrie](https://open.spotify.com/artist/1W3oa2UIRtBlQSPwszyIWu), [AiNA THE END](https://open.spotify.com/artist/5k7KS34gxQbzdQaXWSOVKC) | [DEBUT](https://open.spotify.com/album/6P0h9ZA6Vf5Drg76VGFLSe) | 5:18 | 2023-10-15 |  |
+| [キリエ・憐れみの讃歌](https://open.spotify.com/track/2lyFs3iMvfNi6bfHi3mJKj) | [Kyrie](https://open.spotify.com/artist/1W3oa2UIRtBlQSPwszyIWu), [AiNA THE END](https://open.spotify.com/artist/5k7KS34gxQbzdQaXWSOVKC) | [DEBUT](https://open.spotify.com/album/3QsVm0REFvXjoxF87Qm4OE) | 5:18 | 2023-10-15 |  |
+| [キリエ・憐れみの讃歌](https://open.spotify.com/track/4KjNYo1Y9QWc0GQES77dfl) | [Kyrie](https://open.spotify.com/artist/1W3oa2UIRtBlQSPwszyIWu), [AiNA THE END](https://open.spotify.com/artist/5k7KS34gxQbzdQaXWSOVKC) | [DEBUT](https://open.spotify.com/album/6P0h9ZA6Vf5Drg76VGFLSe) | 5:18 | 2023-10-15 | 2023-10-19 |
 | [キリエ・憐れみの讃歌](https://open.spotify.com/track/7p2uXeTDH9a7Iat6oqY9Uq) | [Kyrie](https://open.spotify.com/artist/1W3oa2UIRtBlQSPwszyIWu), [AiNA THE END](https://open.spotify.com/artist/5k7KS34gxQbzdQaXWSOVKC) | [DEBUT](https://open.spotify.com/album/16UD0fdKRMlLwVfCIviFyZ) | 5:18 | 2023-09-25 | 2023-10-16 |
 | [クラフト feat\. ZORN](https://open.spotify.com/track/3SK8OeL2MYLg77zEqbMyzh) | [KREVA](https://open.spotify.com/artist/6lAinPkC2U1Huibu6Vfr9R), [ZORN](https://open.spotify.com/artist/1HPfjeInjrDEMW1ffZv33C) | [LOOP END / LOOP START \(Deluxe Edition\)](https://open.spotify.com/album/4x3VLHO2P4ENCNfiMKlZfi) | 3:25 | 2022-02-20 | 2022-02-28 |
 | [クリスマスイブ](https://open.spotify.com/track/1g6Elo93E6SecrU4iVJXpA) | [Yuuri](https://open.spotify.com/artist/0ixzjrK1wkN2zWBXt3VW3W) | [クリスマスイブ](https://open.spotify.com/album/4PNo67FkFcvATpEhXEvYLT) | 3:53 | 2022-12-04 | 2022-12-26 |

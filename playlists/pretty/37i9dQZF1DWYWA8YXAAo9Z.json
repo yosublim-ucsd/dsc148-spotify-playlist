@@ -1,12 +1,12 @@
 {
   "description": "Pushing the envelope; musicians at the forefront of modular synthesis.  ",
-  "num_followers": 47973,
+  "num_followers": 47993,
   "original_name": "Modular Synths",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5MTc0MjhjMTZjYTdiYWYxM2RiZWY3OTUzOWM5YmIyZDhjMmMzNGMw",
+  "snapshot_id": "MCw1MzIyNWMyMTExN2EzYTMyMWQxZTY1MThhMTZhNTcyOTU1NDM0NTJh",
   "tracks": [
     {
       "added_at": "2023-10-02 13:18:34",
@@ -783,6 +783,22 @@
     {
       "added_at": "2023-10-02 13:18:34",
       "album": {
+        "name": "Journey To The Underworld EP",
+        "url": "https://open.spotify.com/album/4EJWa7yqX5QKTBMqxugtgB"
+      },
+      "artists": [
+        {
+          "name": "ANNA",
+          "url": "https://open.spotify.com/artist/3wkaDi2HJV3eCaBJ4iH6om"
+        }
+      ],
+      "duration_ms": 389000,
+      "name": "Dissolution",
+      "url": "https://open.spotify.com/track/2MivKHQd95CJN1jTl7KksN"
+    },
+    {
+      "added_at": "2023-10-02 13:18:34",
+      "album": {
         "name": "cells_",
         "url": "https://open.spotify.com/album/1lrfDmZk1wdPqobBKH01iv"
       },
@@ -795,22 +811,6 @@
       "duration_ms": 145376,
       "name": "cells_",
       "url": "https://open.spotify.com/track/5wL47ObGrxG1tjiIRs4fal"
-    },
-    {
-      "added_at": "2023-10-02 13:18:34",
-      "album": {
-        "name": "Comma",
-        "url": "https://open.spotify.com/album/48WQXkdyIVTEek2TTwXVkt"
-      },
-      "artists": [
-        {
-          "name": "Sam Prekop",
-          "url": "https://open.spotify.com/artist/4Vtlz5IfA9y4EBwmp20wwk"
-        }
-      ],
-      "duration_ms": 311783,
-      "name": "Park Line",
-      "url": "https://open.spotify.com/track/4PlMwTtwkL0J19Tt6DdBvs"
     },
     {
       "added_at": "2023-10-02 13:18:34",
@@ -831,18 +831,34 @@
     {
       "added_at": "2023-10-02 13:18:34",
       "album": {
-        "name": "Journey To The Underworld EP",
-        "url": "https://open.spotify.com/album/4EJWa7yqX5QKTBMqxugtgB"
+        "name": "Comma",
+        "url": "https://open.spotify.com/album/48WQXkdyIVTEek2TTwXVkt"
       },
       "artists": [
         {
-          "name": "ANNA",
-          "url": "https://open.spotify.com/artist/3wkaDi2HJV3eCaBJ4iH6om"
+          "name": "Sam Prekop",
+          "url": "https://open.spotify.com/artist/4Vtlz5IfA9y4EBwmp20wwk"
         }
       ],
-      "duration_ms": 389000,
-      "name": "Dissolution",
-      "url": "https://open.spotify.com/track/2MivKHQd95CJN1jTl7KksN"
+      "duration_ms": 311783,
+      "name": "Park Line",
+      "url": "https://open.spotify.com/track/4PlMwTtwkL0J19Tt6DdBvs"
+    },
+    {
+      "added_at": "2023-10-02 13:18:34",
+      "album": {
+        "name": "Being There (Ambient)",
+        "url": "https://open.spotify.com/album/4TgYATdyNPcnECEGe9CekR"
+      },
+      "artists": [
+        {
+          "name": "Afterlife",
+          "url": "https://open.spotify.com/artist/6gnvHPFDgWP4LiES4X0Ajz"
+        }
+      ],
+      "duration_ms": 303157,
+      "name": "Drive West On Sunset - Ambient",
+      "url": "https://open.spotify.com/track/5EQEPfClSpuXVh6o6N78FF"
     },
     {
       "added_at": "2023-10-02 13:18:34",
@@ -867,22 +883,6 @@
       "duration_ms": 166965,
       "name": "Sonic Winds",
       "url": "https://open.spotify.com/track/7irEa6Ho06a8jzFHiaeMVY"
-    },
-    {
-      "added_at": "2023-10-02 13:18:34",
-      "album": {
-        "name": "Being There (Ambient)",
-        "url": "https://open.spotify.com/album/4TgYATdyNPcnECEGe9CekR"
-      },
-      "artists": [
-        {
-          "name": "Afterlife",
-          "url": "https://open.spotify.com/artist/6gnvHPFDgWP4LiES4X0Ajz"
-        }
-      ],
-      "duration_ms": 303157,
-      "name": "Drive West On Sunset - Ambient",
-      "url": "https://open.spotify.com/track/5EQEPfClSpuXVh6o6N78FF"
     },
     {
       "added_at": "2023-10-02 13:18:34",
@@ -935,22 +935,6 @@
     {
       "added_at": "2023-10-02 13:18:34",
       "album": {
-        "name": "Sounds From Phantom Islands",
-        "url": "https://open.spotify.com/album/4Oa4FMxiEfKLDK1dzhmraI"
-      },
-      "artists": [
-        {
-          "name": "Andrew Pekler",
-          "url": "https://open.spotify.com/artist/4nDIRB3WZRZ40uSmZG0q6J"
-        }
-      ],
-      "duration_ms": 189000,
-      "name": "Approximate Bermeja",
-      "url": "https://open.spotify.com/track/6NLAH3uaOwEwNEBZIcaEnk"
-    },
-    {
-      "added_at": "2023-10-02 13:18:34",
-      "album": {
         "name": "Orange Blue Green",
         "url": "https://open.spotify.com/album/1yjuya6bhnOi8wW2CxEAiz"
       },
@@ -967,18 +951,18 @@
     {
       "added_at": "2023-10-02 13:18:34",
       "album": {
-        "name": "Pax Aurora",
-        "url": "https://open.spotify.com/album/5taSxE1CYEDgJhm6iYFzML"
+        "name": "Sounds From Phantom Islands",
+        "url": "https://open.spotify.com/album/4Oa4FMxiEfKLDK1dzhmraI"
       },
       "artists": [
         {
-          "name": "Nadia Struiwigh",
-          "url": "https://open.spotify.com/artist/4iQwTFjXjNOKncBABz0FAQ"
+          "name": "Andrew Pekler",
+          "url": "https://open.spotify.com/artist/4nDIRB3WZRZ40uSmZG0q6J"
         }
       ],
-      "duration_ms": 418064,
-      "name": "Organic",
-      "url": "https://open.spotify.com/track/194j607XLGLXSFe8Higlac"
+      "duration_ms": 189000,
+      "name": "Approximate Bermeja",
+      "url": "https://open.spotify.com/track/6NLAH3uaOwEwNEBZIcaEnk"
     },
     {
       "added_at": "2023-10-02 13:18:34",
@@ -995,6 +979,22 @@
       "duration_ms": 452476,
       "name": "The Hermit",
       "url": "https://open.spotify.com/track/7uP27nSIwuPhLsCV0i7fJI"
+    },
+    {
+      "added_at": "2023-10-02 13:18:34",
+      "album": {
+        "name": "Pax Aurora",
+        "url": "https://open.spotify.com/album/5taSxE1CYEDgJhm6iYFzML"
+      },
+      "artists": [
+        {
+          "name": "Nadia Struiwigh",
+          "url": "https://open.spotify.com/artist/4iQwTFjXjNOKncBABz0FAQ"
+        }
+      ],
+      "duration_ms": 418064,
+      "name": "Organic",
+      "url": "https://open.spotify.com/track/194j607XLGLXSFe8Higlac"
     },
     {
       "added_at": "2023-10-02 13:18:34",
@@ -1035,22 +1035,6 @@
     {
       "added_at": "2023-10-02 13:18:34",
       "album": {
-        "name": "ABOVE_BETWEEN_BELOW",
-        "url": "https://open.spotify.com/album/2sIdCMXjJHiHC4296KIZGc"
-      },
-      "artists": [
-        {
-          "name": "Lapalux",
-          "url": "https://open.spotify.com/artist/46Ce0QmI1mE2bl5VQ4P9N8"
-        }
-      ],
-      "duration_ms": 317393,
-      "name": "BELOW",
-      "url": "https://open.spotify.com/track/2Y0z1e8Q782CmrWFqYjjWP"
-    },
-    {
-      "added_at": "2023-10-02 13:18:34",
-      "album": {
         "name": "Plonk",
         "url": "https://open.spotify.com/album/1NLglnqr3MZju3F0upWXzU"
       },
@@ -1063,6 +1047,22 @@
       "duration_ms": 382111,
       "name": "Plonk III",
       "url": "https://open.spotify.com/track/72CLlhWZryvQoDSgS5UsIj"
+    },
+    {
+      "added_at": "2023-10-02 13:18:34",
+      "album": {
+        "name": "ABOVE_BETWEEN_BELOW",
+        "url": "https://open.spotify.com/album/2sIdCMXjJHiHC4296KIZGc"
+      },
+      "artists": [
+        {
+          "name": "Lapalux",
+          "url": "https://open.spotify.com/artist/46Ce0QmI1mE2bl5VQ4P9N8"
+        }
+      ],
+      "duration_ms": 317393,
+      "name": "BELOW",
+      "url": "https://open.spotify.com/track/2Y0z1e8Q782CmrWFqYjjWP"
     },
     {
       "added_at": "2023-10-02 13:18:34",
@@ -1083,26 +1083,6 @@
     {
       "added_at": "2023-10-02 13:18:34",
       "album": {
-        "name": "Five Steps",
-        "url": "https://open.spotify.com/album/3jZZwuakkVTYAEIsOBWmcR"
-      },
-      "artists": [
-        {
-          "name": "Jonathan Fitoussi",
-          "url": "https://open.spotify.com/artist/2EuDyGDH8HMwcmWo8UzR7b"
-        },
-        {
-          "name": "Clemens Hourriere",
-          "url": "https://open.spotify.com/artist/0Q92u4ProQgv8AezwCVuG6"
-        }
-      ],
-      "duration_ms": 280087,
-      "name": "La colline",
-      "url": "https://open.spotify.com/track/6pALQ3Z6wSlt2GXePgGeV5"
-    },
-    {
-      "added_at": "2023-10-02 13:18:34",
-      "album": {
         "name": "Kosmic Headroom",
         "url": "https://open.spotify.com/album/6i2yC85nR4HqDkgwOgmnIj"
       },
@@ -1119,18 +1099,22 @@
     {
       "added_at": "2023-10-02 13:18:34",
       "album": {
-        "name": "Mirror Ensemble",
-        "url": "https://open.spotify.com/album/23mBqaNaTe05zZM8oQXtag"
+        "name": "Five Steps",
+        "url": "https://open.spotify.com/album/3jZZwuakkVTYAEIsOBWmcR"
       },
       "artists": [
         {
-          "name": "Brett Naucke",
-          "url": "https://open.spotify.com/artist/2MFjLlkCkf3kmSqBT0q5vs"
+          "name": "Jonathan Fitoussi",
+          "url": "https://open.spotify.com/artist/2EuDyGDH8HMwcmWo8UzR7b"
+        },
+        {
+          "name": "Clemens Hourriere",
+          "url": "https://open.spotify.com/artist/0Q92u4ProQgv8AezwCVuG6"
         }
       ],
-      "duration_ms": 235000,
-      "name": "Rose Water",
-      "url": "https://open.spotify.com/track/6AEXBSliph7nngKCqahlV5"
+      "duration_ms": 280087,
+      "name": "La colline",
+      "url": "https://open.spotify.com/track/6pALQ3Z6wSlt2GXePgGeV5"
     },
     {
       "added_at": "2023-10-02 13:18:34",
@@ -1159,6 +1143,22 @@
     {
       "added_at": "2023-10-02 13:18:34",
       "album": {
+        "name": "Mirror Ensemble",
+        "url": "https://open.spotify.com/album/23mBqaNaTe05zZM8oQXtag"
+      },
+      "artists": [
+        {
+          "name": "Brett Naucke",
+          "url": "https://open.spotify.com/artist/2MFjLlkCkf3kmSqBT0q5vs"
+        }
+      ],
+      "duration_ms": 235000,
+      "name": "Rose Water",
+      "url": "https://open.spotify.com/track/6AEXBSliph7nngKCqahlV5"
+    },
+    {
+      "added_at": "2023-10-02 13:18:34",
+      "album": {
         "name": "Geoglyph",
         "url": "https://open.spotify.com/album/5YeOMPfVnSMYSCbCZY8Zrl"
       },
@@ -1171,38 +1171,6 @@
       "duration_ms": 364460,
       "name": "A1. J-Math",
       "url": "https://open.spotify.com/track/1uygE50aZZ0EfVMpGKFG0U"
-    },
-    {
-      "added_at": "2023-10-02 13:18:34",
-      "album": {
-        "name": "Wing Pinger",
-        "url": "https://open.spotify.com/album/6faDBvP6e2Uej2TDl1xSha"
-      },
-      "artists": [
-        {
-          "name": "Scanner",
-          "url": "https://open.spotify.com/artist/7FEmduuEjfoagq6Qrgviji"
-        }
-      ],
-      "duration_ms": 511730,
-      "name": "Wing Pinger 01",
-      "url": "https://open.spotify.com/track/47TiKrNev9micS2sZDzoNJ"
-    },
-    {
-      "added_at": "2023-10-02 13:18:34",
-      "album": {
-        "name": "Interlude 03",
-        "url": "https://open.spotify.com/album/3I4QlhS7yM9wzEHu10yhVl"
-      },
-      "artists": [
-        {
-          "name": "Farsi",
-          "url": "https://open.spotify.com/artist/2nv9kDqXrE3yfgrzMtby5M"
-        }
-      ],
-      "duration_ms": 199680,
-      "name": "Interlude 03",
-      "url": "https://open.spotify.com/track/0yMMD5kMxkUq2SevZvY71t"
     },
     {
       "added_at": "2023-10-02 13:18:34",
@@ -1223,6 +1191,22 @@
     {
       "added_at": "2023-10-02 13:18:34",
       "album": {
+        "name": "Wing Pinger",
+        "url": "https://open.spotify.com/album/6faDBvP6e2Uej2TDl1xSha"
+      },
+      "artists": [
+        {
+          "name": "Scanner",
+          "url": "https://open.spotify.com/artist/7FEmduuEjfoagq6Qrgviji"
+        }
+      ],
+      "duration_ms": 511730,
+      "name": "Wing Pinger 01",
+      "url": "https://open.spotify.com/track/47TiKrNev9micS2sZDzoNJ"
+    },
+    {
+      "added_at": "2023-10-02 13:18:34",
+      "album": {
         "name": "The Sparrow",
         "url": "https://open.spotify.com/album/2DLMVaEDhrEeAmhV9JCytt"
       },
@@ -1235,6 +1219,22 @@
       "duration_ms": 357906,
       "name": "Every Night",
       "url": "https://open.spotify.com/track/0uNy3DnZuVajMHDMDcFrIG"
+    },
+    {
+      "added_at": "2023-10-02 13:18:34",
+      "album": {
+        "name": "Interlude 03",
+        "url": "https://open.spotify.com/album/3I4QlhS7yM9wzEHu10yhVl"
+      },
+      "artists": [
+        {
+          "name": "Farsi",
+          "url": "https://open.spotify.com/artist/2nv9kDqXrE3yfgrzMtby5M"
+        }
+      ],
+      "duration_ms": 199680,
+      "name": "Interlude 03",
+      "url": "https://open.spotify.com/track/0yMMD5kMxkUq2SevZvY71t"
     },
     {
       "added_at": "2023-10-02 13:18:34",
@@ -1271,18 +1271,18 @@
     {
       "added_at": "2023-10-02 13:18:34",
       "album": {
-        "name": "Sleep to Dream",
-        "url": "https://open.spotify.com/album/7ee4QkZp0bIar2FPyhONej"
+        "name": "Aerious EP",
+        "url": "https://open.spotify.com/album/6CSRlgX420AoIGGeWjsG0D"
       },
       "artists": [
         {
-          "name": "Goya",
-          "url": "https://open.spotify.com/artist/6PQ2kZoooRoz3ZPhy8vkfc"
+          "name": "Tryst (UK)",
+          "url": "https://open.spotify.com/artist/7cFuB1Iqx6aq5hDmU4m8C4"
         }
       ],
-      "duration_ms": 263142,
-      "name": "Sleep to Dream",
-      "url": "https://open.spotify.com/track/5x6OgxAyxqyfJ6INOV37nA"
+      "duration_ms": 277753,
+      "name": "Reflections On The Waterfront",
+      "url": "https://open.spotify.com/track/5wavDaYcx6gdSBMagQtWCY"
     }
   ],
   "unique_name": "Modular Synths",

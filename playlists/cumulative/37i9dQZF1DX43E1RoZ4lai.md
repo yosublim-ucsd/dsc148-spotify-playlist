@@ -4,7 +4,7 @@
 
 > The best jazz pianists today\. Cover: Aaron Diehl
 
-410 songs - 1 day 12 hr 23 min
+411 songs - 1 day 12 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -95,7 +95,7 @@
 | [Elegia](https://open.spotify.com/track/0o8tfJxkRdTlLvKq9kPGn3) | [Kevin Hays](https://open.spotify.com/artist/2uOemiMYq8Lh6yzwELpb3J), [Ben Street](https://open.spotify.com/artist/649VhpjHo5aMtz2RlIlUSR), [Billy Hart](https://open.spotify.com/artist/5DFipPOMNcZT3XMGx59s5I) | [All Things Are](https://open.spotify.com/album/1W923x7J8MGjYj0xTdoHuJ) | 9:54 | 2022-02-10 |  |
 | [Emptiness](https://open.spotify.com/track/3ukdpI71PLkfxT101kBUUC) | [Misha Alperin](https://open.spotify.com/artist/75nUDbtfJzGVqs6fOmSXhx) | [At Home](https://open.spotify.com/album/6h4CYPknLUdud1GQ9bvFyB) | 5:03 | 2022-02-10 | 2022-07-19 |
 | [Endless](https://open.spotify.com/track/0B9sDqvIGA0xlJaiyzjnHv) | [Kjetil Mulelid Trio](https://open.spotify.com/artist/474vK8QpU3WL9RxRCmo5cX) | [Endless](https://open.spotify.com/album/55VI95f9lqZuDrc0xZIlrD) | 5:01 | 2022-04-01 |  |
-| [Enlightened](https://open.spotify.com/track/7IRvgPZQXoIAKZtmtmq3vn) | [Joona Toivanen Trio](https://open.spotify.com/artist/7lkzHd6Tzt9hQJSnIYkVrl) | [Enlightened](https://open.spotify.com/album/6NkrkasoreRZmVSI8snlQZ) | 5:50 | 2022-02-10 |  |
+| [Enlightened](https://open.spotify.com/track/7IRvgPZQXoIAKZtmtmq3vn) | [Joona Toivanen Trio](https://open.spotify.com/artist/7lkzHd6Tzt9hQJSnIYkVrl) | [Enlightened](https://open.spotify.com/album/6NkrkasoreRZmVSI8snlQZ) | 5:50 | 2022-02-10 | 2023-10-19 |
 | [Enneadic](https://open.spotify.com/track/25Fmiy6OrLrjm3NRONUJQ4) | [Santiago Leibson Trio](https://open.spotify.com/artist/1maoRyK1VYvbFqzfx3uJTi), [Matt Pavolka](https://open.spotify.com/artist/6uJyNRUVwrgjKVFMUyG5Vx), [Mark Ferber](https://open.spotify.com/artist/2BrGFbXBIGLSy4lRO8Pf6w) | [Little Pieces](https://open.spotify.com/album/5SpfrWa74NChLFILB14KzK) | 7:25 | 2022-02-10 | 2022-07-29 |
 | [Equipoise](https://open.spotify.com/track/56AqMbBb7WnD5nKg8bXbxr) | [John Escreet](https://open.spotify.com/artist/4Ije0Q0RlICc17Q7TDZof9) | [Equipoise](https://open.spotify.com/album/6MIYkxA20TqTPGLnXMar2d) | 5:51 | 2022-12-02 |  |
 | [Ereshkigal of the Underworld](https://open.spotify.com/track/7KVWQzXYf9m2xo2R7A1e38) | [Connie Han](https://open.spotify.com/artist/05u1DXPSD35OnIBPXFogTG) | [Secrets of Inanna](https://open.spotify.com/album/1ruDzWzQmOET51GQngt3f0) | 3:01 | 2022-09-23 |  |
@@ -145,6 +145,7 @@
 | [Human Nature \(Trio Extension\)](https://open.spotify.com/track/1aj5pTKPit19Rmmby4BfmC) | [Vijay Iyer Trio](https://open.spotify.com/artist/52rI38ygJY9W8u2aB4B4sM) | [Accelerando \(Bonus Track Version\)](https://open.spotify.com/album/1dhbqRSCO88PQFIvBv5Rg8) | 9:39 | 2022-02-10 | 2022-09-03 |
 | [Huntress](https://open.spotify.com/track/2Un7bWbdAVIXPmkP34dFLx) | [Little North](https://open.spotify.com/artist/0LPOA9noh1qUUtZ2N2YX0J) | [Huntress](https://open.spotify.com/album/7zZ3bMGIFKWvGGLFnVorhd) | 5:25 | 2022-02-10 |  |
 | [I Am The Walrus](https://open.spotify.com/track/7rs2rtBcpCH1PEUhapS3rE) | [Brad Mehldau](https://open.spotify.com/artist/2vI9KFm0fwSfPrpEgOeIbq) | [Your Mother Should Know: Brad Mehldau Plays The Beatles](https://open.spotify.com/album/6w9YYlUOAu5gtirkVUZQFT) | 4:14 | 2023-09-29 |  |
+| [I Like It Very Much](https://open.spotify.com/track/0NqYsqXSV7VRV8vaKSmTbj) | [East Axis](https://open.spotify.com/artist/0A9QoZUtf7eeT2aFWlNpr4) | [No Subject](https://open.spotify.com/album/2ovHJyY0S04AWDikBhgwna) | 8:33 | 2023-10-18 |  |
 | [I Love You, Porgy](https://open.spotify.com/track/5ZtELfV43r3kuRLPYYjJ4M) | [Peter Nordahl Trio](https://open.spotify.com/artist/6Qar0oNt9IZSMyrBxMg7ok), [Patrik Boman](https://open.spotify.com/artist/6UJ3XmKfJ3nQmmfbkRRDxw), [Jesper Kviman](https://open.spotify.com/artist/10f7IHwc88tJueFB8iM6hR) | [Porgy & Bess](https://open.spotify.com/album/4BuinnHGlzLgX3t21dVquR) | 2:30 | 2022-02-10 |  |
 | [I Loves You Pogy](https://open.spotify.com/track/4OhyNqYIpDZM7RWqZtQt5Z) | [Steve Kuhn](https://open.spotify.com/artist/6KEBRNgSvb95hjK9Nh0tzt) | [Porgy](https://open.spotify.com/album/3U2aPSYf6tu5YVgBw1X7SR) | 6:45 | 2022-02-10 | 2022-09-03 |
 | [I'll Know](https://open.spotify.com/track/7qLzoarYodaUHezJvndAdK) | [Bill Charlap Trio](https://open.spotify.com/artist/5isSr1JUeHt5cgh8oWz1Ja) | [I'll Know](https://open.spotify.com/album/3daQUpLhrwncXGrSozlkeT) | 5:12 | 2022-02-10 |  |

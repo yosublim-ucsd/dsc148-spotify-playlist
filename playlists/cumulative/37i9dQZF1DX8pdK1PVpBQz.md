@@ -2,7 +2,7 @@
 
 ### [Fresh Finds AU & NZ](https://open.spotify.com/playlist/37i9dQZF1DX8pdK1PVpBQz)
 
-> Discover something new from local independent artists on the rise\. Cover: T Breezy x Walker Boy\. Artwork: Isu Kim
+> Discover something new from local independent artists on the rise\. Cover: Sahara Beck\. Artwork: Isu Kim
 
 2,802 songs - 6 day 9 hr 44 min
 

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8DvacitluwF.md) - [plain]
 
 > Only the best in South African and international RnB\. Cover: <a href="https://open.spotify.com/artist/6omm7OGZMQZ2XODf4JVKnQ?si=JERMlZ5YQVuqOQz2ox9UsQ">Manana</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,471 likes - 65 songs - 3 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,499 likes - 65 songs - 3 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8DvacitluwF.md) - [plain]
 | 64 | [Voodoo](https://open.spotify.com/track/2ryIzbmrbRWMfhelJiVcR8) | [Temgazi](https://open.spotify.com/artist/39YdCb2aOpgl34Ju2ge1lA) | [Voodoo](https://open.spotify.com/album/73hkRIHrOXz1RlVITE16mY) | 3:04 |
 | 65 | [Pillow Talk](https://open.spotify.com/track/1Necud0IeseT20zQBUg5l8) | [Malachi](https://open.spotify.com/artist/6DEiQRPzn93sZ3SS0PgiaS) | [Pillow Talk](https://open.spotify.com/album/4hlGB7lWS8cYFWZIhPiAVt) | 3:36 |
 
-Snapshot ID: `MCw3ZjQwYTc3YjRjMGE3YTZlNDIwNzVhYmIyMGU2ZjEzOTBmMmY3OWNk`
+Snapshot ID: `MCw1ZDk3ODhmYjMyMTBhNDVhMzllMTRjNzE3ZDNlNDRiOWFlMmZlNDQz`

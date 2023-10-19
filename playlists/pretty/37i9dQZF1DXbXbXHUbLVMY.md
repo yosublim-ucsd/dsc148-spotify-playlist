@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbXbXHUbLVMY.md) - [plain]
 
 > Skandinavisk hiphop som holder det 100! 🚨
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,997 likes - 60 songs - 2 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,006 likes - 60 songs - 2 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,8 +28,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbXbXHUbLVMY.md) - [plain]
 | 18 | [Sjunka](https://open.spotify.com/track/4OpXUf4Jz2iLU5V1iryLsH) | [Asme](https://open.spotify.com/artist/3M1eBsR4rSTcDAzYopumeG) | [Sjunka](https://open.spotify.com/album/7koL32Rlgl24Tha65f2mr7) | 2:13 |
 | 19 | [Standard](https://open.spotify.com/track/5GUfpSrOmyK35dOm2LA10V) | [Einár](https://open.spotify.com/artist/0kKygNaCQjqVLrImIftRDJ), [A36](https://open.spotify.com/artist/4QcudLddRQCbX8wrs6i2Gt) | [Standard](https://open.spotify.com/album/3klHl3l7VxUautqwwQc678) | 2:07 |
 | 20 | [Blind](https://open.spotify.com/track/5udk76BjdsWuTAw1i6CjGG) | [Shiro](https://open.spotify.com/artist/2r9JAY6ISvp0VvZsT6cBJo) | [Blind](https://open.spotify.com/album/31ksRf0SjvqKDRJicFN246) | 2:41 |
-| 21 | [Palmerna](https://open.spotify.com/track/2uBybs4svMXCk9Kap6HK0V) | [Dani M](https://open.spotify.com/artist/5ILMkt5lW4KAyTXMNYWaGF) | [Palmerna](https://open.spotify.com/album/0dnYCZvFKAzoN9v69oEJaa) | 2:27 |
-| 22 | [BLIND](https://open.spotify.com/track/5zO0y8TGj6NT0pFluvrllN) | [Owen](https://open.spotify.com/artist/0Q5gLNKbp5mpfEvquAaHCl) | [BLIND](https://open.spotify.com/album/50O2Oh66m9qVHkAnxipCOd) | 2:28 |
+| 21 | [BLIND](https://open.spotify.com/track/5zO0y8TGj6NT0pFluvrllN) | [Owen](https://open.spotify.com/artist/0Q5gLNKbp5mpfEvquAaHCl) | [BLIND](https://open.spotify.com/album/50O2Oh66m9qVHkAnxipCOd) | 2:28 |
+| 22 | [Palmerna](https://open.spotify.com/track/2uBybs4svMXCk9Kap6HK0V) | [Dani M](https://open.spotify.com/artist/5ILMkt5lW4KAyTXMNYWaGF) | [Palmerna](https://open.spotify.com/album/0dnYCZvFKAzoN9v69oEJaa) | 2:27 |
 | 23 | [Salam](https://open.spotify.com/track/2mHppKj9X1ixv9miy2cdoz) | [Yasin](https://open.spotify.com/artist/6rYEqmajzlhGVaayOJ2bpJ) | [Salam](https://open.spotify.com/album/56xgHK320guDeJaXou4VQu) | 2:17 |
 | 24 | [G63](https://open.spotify.com/track/3iGLZavFFEdLHOEWANcQiF) | [C.Gambino](https://open.spotify.com/artist/6eWjyO1r0QlvsIuIIcgGxI) | [G63](https://open.spotify.com/album/0pB9N7JNV5TLGse7UUVXA0) | 2:42 |
 | 25 | [Känslokall](https://open.spotify.com/track/4eamNeQdsYOWCxqm6s4r8w) | [Dizzy](https://open.spotify.com/artist/7lKk7yXNockkDjhb1GCeOy) | [Känslokall](https://open.spotify.com/album/0by3vmltZZetCzPLg90D1p) | 2:03 |
@@ -43,10 +43,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbXbXHUbLVMY.md) - [plain]
 | 33 | [BLANCO](https://open.spotify.com/track/5LYFMzXTecAGk9cKxRpxwo) | [Gaboro](https://open.spotify.com/artist/1sLnQclviHMISG1VaLtKHx), [Dizzy](https://open.spotify.com/artist/7lKk7yXNockkDjhb1GCeOy) | [BLANCO](https://open.spotify.com/album/2xy29TobynKnncoMPfSLD2) | 2:15 |
 | 34 | [Koppla Av](https://open.spotify.com/track/5x50GMyuhq1hDixrPzNs3S) | [23](https://open.spotify.com/artist/2Dor6diK1zw9BEluKBOdoA), [Shenzi Beats](https://open.spotify.com/artist/5WYsyPCS4zOpvqAtBgrGqg) | [Koppla Av](https://open.spotify.com/album/2AbUZYMLbNr7PEQqKeWOXX) | 2:53 |
 | 35 | [WAKA WAKA](https://open.spotify.com/track/2g6O4J9ktUjorMkgyhglYP) | [Sarettii](https://open.spotify.com/artist/4kUfJdASJDMPLuo1t1N2zi) | [Come Alive](https://open.spotify.com/album/2ZJYTrtrH7mlGfeZ9ysR3R) | 2:46 |
-| 36 | [WONDERLAND](https://open.spotify.com/track/7IfJ76AmwueC2QiN3USbyt) | [Blackie](https://open.spotify.com/artist/1joI1TtwOZm1XZxyiPnn7S) | [WONDERLAND](https://open.spotify.com/album/7GDX1d31ZisU5CHDdMHyFy) | 2:21 |
-| 37 | [Gata](https://open.spotify.com/track/7N0a0QhkOE5g4zbpJeHWpp) | [Ant Wan](https://open.spotify.com/artist/51TXQniEQkYh89tfLjiuSy) | [Gata](https://open.spotify.com/album/2rlOVzymMvw3H6hUmRiiJs) | 2:35 |
-| 38 | [Boys I D Blå](https://open.spotify.com/track/6qnfvfy3dte9Hk5sJRLILN) | [Kamelen](https://open.spotify.com/artist/59WNMskn4tSvgnWKXHXj61), [Branco](https://open.spotify.com/artist/1YwMnnHvnG64fJxYSVwmN6) | [Boys I D Blå](https://open.spotify.com/album/5beXTxct0Rdq5EwWr5tsVB) | 2:13 |
-| 39 | [Zinah](https://open.spotify.com/track/25kFpLab2GF9W6IyByEubT) | [Dizzy](https://open.spotify.com/artist/7lKk7yXNockkDjhb1GCeOy) | [Zinah](https://open.spotify.com/album/17w3q8mViWFceZ6F8Sf9An) | 1:56 |
+| 36 | [Gata](https://open.spotify.com/track/7N0a0QhkOE5g4zbpJeHWpp) | [Ant Wan](https://open.spotify.com/artist/51TXQniEQkYh89tfLjiuSy) | [Gata](https://open.spotify.com/album/2rlOVzymMvw3H6hUmRiiJs) | 2:35 |
+| 37 | [WONDERLAND](https://open.spotify.com/track/7IfJ76AmwueC2QiN3USbyt) | [Blackie](https://open.spotify.com/artist/1joI1TtwOZm1XZxyiPnn7S) | [WONDERLAND](https://open.spotify.com/album/7GDX1d31ZisU5CHDdMHyFy) | 2:21 |
+| 38 | [Zinah](https://open.spotify.com/track/25kFpLab2GF9W6IyByEubT) | [Dizzy](https://open.spotify.com/artist/7lKk7yXNockkDjhb1GCeOy) | [Zinah](https://open.spotify.com/album/17w3q8mViWFceZ6F8Sf9An) | 1:56 |
+| 39 | [Boys I D Blå](https://open.spotify.com/track/6qnfvfy3dte9Hk5sJRLILN) | [Kamelen](https://open.spotify.com/artist/59WNMskn4tSvgnWKXHXj61), [Branco](https://open.spotify.com/artist/1YwMnnHvnG64fJxYSVwmN6) | [Boys I D Blå](https://open.spotify.com/album/5beXTxct0Rdq5EwWr5tsVB) | 2:13 |
 | 40 | [LEVENDE LEGENDE](https://open.spotify.com/track/3JTf2EmzC8Y2xEXTkHbman) | [Branco](https://open.spotify.com/artist/1YwMnnHvnG64fJxYSVwmN6), [Vory](https://open.spotify.com/artist/0GeeIVcvGA8GSlWsoY1dkG) | [LEVENDE LEGENDE](https://open.spotify.com/album/7pXSK4kHG8414oyMY9kkgb) | 4:10 |
 | 41 | [Millions](https://open.spotify.com/track/6Mel5VQ8UQXDT4aetZvzWg) | [23](https://open.spotify.com/artist/2Dor6diK1zw9BEluKBOdoA), [Shenzi Beats](https://open.spotify.com/artist/5WYsyPCS4zOpvqAtBgrGqg) | [Millions](https://open.spotify.com/album/3Xdn3e64AD2PB90zCsA7i0) | 2:01 |
 | 42 | [1,2 & Mer](https://open.spotify.com/track/6nphe8z73s7ijdY5Bxy5fk) | [BABY MALA](https://open.spotify.com/artist/1JkJKyvOzlac6pPlHO8LUl) | [1,2 & Mer](https://open.spotify.com/album/60DB6Bg7sM4QjHsCV0ZBdF) | 2:37 |
@@ -60,13 +60,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbXbXHUbLVMY.md) - [plain]
 | 50 | [Feeling Myself](https://open.spotify.com/track/0SOgdDDCI704FegadgOfc1) | [23](https://open.spotify.com/artist/2Dor6diK1zw9BEluKBOdoA) | [Feeling Myself](https://open.spotify.com/album/0KOYsqi0RwEZWPIt6V9ICU) | 3:02 |
 | 51 | [Seriøs \(feat\. Amara\)](https://open.spotify.com/track/1sEYjmfPxDMS0tRxEqbWTy) | [Roc Boyz](https://open.spotify.com/artist/09qHO1fFJ6iIeTuCjO7Bfa), [Amara](https://open.spotify.com/artist/657xkMQUyPIa9vA7fycV5j) | [Seriøs \(feat\. Amara\)](https://open.spotify.com/album/680vIkkksZ7C7MOoLMNbwS) | 2:36 |
 | 52 | [Brazil Flow](https://open.spotify.com/track/1rxFEfLu4vTQUJzvB5Hddr) | [Naod](https://open.spotify.com/artist/31KGMx2XwpugdUpJzeZOv1) | [Brazil Flow](https://open.spotify.com/album/2qBDUq858Mc3HT33TcXzgl) | 1:31 |
-| 53 | [ROCKARE](https://open.spotify.com/track/3vVdmgwmY5xbKQ3Oh074Lc) | [ADAAM](https://open.spotify.com/artist/7zLm9op6LgPqKL62d1FzhO), [VC Barre](https://open.spotify.com/artist/5QcMPl2wzC4KqivjfcyBIU) | [TRAPEN TILL RADION](https://open.spotify.com/album/7iAffbVeIbgvwwz04XOt5k) | 2:14 |
-| 54 | [BAD GIRL](https://open.spotify.com/track/4VfxJjUTMst0kYsQkN3S54) | [Nineb Youk](https://open.spotify.com/artist/1tR8hI9nP55dVOK0DBvWbU), [Ricky Rich](https://open.spotify.com/artist/1gm1katIowFM22Ldqcw6DK) | [BAD GIRL](https://open.spotify.com/album/0YdiMAeMZJf5edz35afIQ1) | 2:28 |
-| 55 | [Psykopat](https://open.spotify.com/track/4ImKE5dAPoZoDxKKwIimhn) | [Steph K](https://open.spotify.com/artist/4vmK9BYZz3j7jEWiHQJU6G) | [Psykopat](https://open.spotify.com/album/04b3i3XY9YuRuP8dIKxh9d) | 2:09 |
+| 53 | [Psykopat](https://open.spotify.com/track/4ImKE5dAPoZoDxKKwIimhn) | [Steph K](https://open.spotify.com/artist/4vmK9BYZz3j7jEWiHQJU6G) | [Psykopat](https://open.spotify.com/album/04b3i3XY9YuRuP8dIKxh9d) | 2:09 |
+| 54 | [ROCKARE](https://open.spotify.com/track/3vVdmgwmY5xbKQ3Oh074Lc) | [ADAAM](https://open.spotify.com/artist/7zLm9op6LgPqKL62d1FzhO), [VC Barre](https://open.spotify.com/artist/5QcMPl2wzC4KqivjfcyBIU) | [TRAPEN TILL RADION](https://open.spotify.com/album/7iAffbVeIbgvwwz04XOt5k) | 2:14 |
+| 55 | [BAD GIRL](https://open.spotify.com/track/4VfxJjUTMst0kYsQkN3S54) | [Nineb Youk](https://open.spotify.com/artist/1tR8hI9nP55dVOK0DBvWbU), [Ricky Rich](https://open.spotify.com/artist/1gm1katIowFM22Ldqcw6DK) | [BAD GIRL](https://open.spotify.com/album/0YdiMAeMZJf5edz35afIQ1) | 2:28 |
 | 56 | [Nånting i Luften](https://open.spotify.com/track/0gLXS6YP75FZnZllPNdEvy) | [Yasin](https://open.spotify.com/artist/6rYEqmajzlhGVaayOJ2bpJ) | [Nånting i Luften](https://open.spotify.com/album/7pjH1T9HVPsyDsVmZybh5Y) | 2:31 |
 | 57 | [Ka Kac](https://open.spotify.com/track/66rngPnLy4VNXRsTUWaUSw) | [GULEED](https://open.spotify.com/artist/1Mw40k757jZuiL0NIJpdO5) | [SKAPAD AV SMÄRTAN](https://open.spotify.com/album/5JgB4y6k3WdxG5sVKfUzbp) | 2:41 |
 | 58 | [Frossa](https://open.spotify.com/track/660EPoIBj3FnUhHlcKgN5H) | [Asme](https://open.spotify.com/artist/3M1eBsR4rSTcDAzYopumeG) | [Frossa](https://open.spotify.com/album/0HIQvy6LtEhW4phvG12OEO) | 2:34 |
 | 59 | [PANGPANG](https://open.spotify.com/track/4lxCRiUcm8k3fiWf0wDrUf) | [VC Barre](https://open.spotify.com/artist/5QcMPl2wzC4KqivjfcyBIU) | [PANGPANG](https://open.spotify.com/album/7JgAD3sKtMTpbWqLivjE0H) | 2:29 |
 | 60 | [SIPPER](https://open.spotify.com/track/6zmYjRCtFkZqKTPgEqbODr) | [Beathoven](https://open.spotify.com/artist/6w6TB0XMM0VZ3oDsy7tUYJ), [Dutty Dior](https://open.spotify.com/artist/5ktSHm2pKmqua1MTV1dkrg) | [SIPPER](https://open.spotify.com/album/1darpI3AUMsbJdlIWOfx0x) | 2:15 |
 
-Snapshot ID: `MCw2MjI2MGI1ZTQyMzFhZTY2NzJlOWM2NGViMWNhZWU2ZmIwNTdlYjdk`
+Snapshot ID: `MCw3YzY0YmQwNjc3MGRmOTFlNGYzYzg0YzUzZjViOTZkMWYxNDk0MmRm`

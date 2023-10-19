@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "The songs you love, in ways you\u2019ve never heard before. Cover: Lennon Stella. ",
+  "description": "The songs you love, in ways you\u2019ve never heard before. Cover: Sabrina Carpenter",
   "name": "Spotify Singles: Covers",
   "tracks": [
     {
@@ -1784,7 +1784,7 @@
       ],
       "date_added": "2022-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-19",
       "duration_ms": 279232,
       "name": "Dreams - Recorded at Spotify Studios NYC",
       "url": "https://open.spotify.com/track/4sMJ05OSIYdmHdnxfosvfb"
@@ -3258,6 +3258,24 @@
     {
       "album": {
         "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/2kJnIPJHIRZlfOx0TZEKBP"
+      },
+      "artists": [
+        {
+          "name": "Sabrina Carpenter",
+          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
+        }
+      ],
+      "date_added": "2023-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233617,
+      "name": "I Knew You Were Trouble - Spotify Singles",
+      "url": "https://open.spotify.com/track/30QYxvXOJZhGBF6DvpNb8w"
+    },
+    {
+      "album": {
+        "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/5A4mu5CvWnnttNJAU6ouQR"
       },
       "artists": [
@@ -3542,7 +3560,7 @@
       ],
       "date_added": "2022-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-19",
       "duration_ms": 152533,
       "name": "Juana Mecho - Recorded at Spotify Studios NYC",
       "url": "https://open.spotify.com/track/4Nz1LJSDHxHxPjIZdP4tGf"
@@ -4376,6 +4394,24 @@
       "duration_ms": 98772,
       "name": "Misty - Recorded at Spotify Studios NYC",
       "url": "https://open.spotify.com/track/034ZKE6KJpa8yVpAPQ9AMT"
+    },
+    {
+      "album": {
+        "name": "Monster (Spotify Singles)",
+        "url": "https://open.spotify.com/album/62iTVhERPubeRu59a3HRqF"
+      },
+      "artists": [
+        {
+          "name": "Slayyyter",
+          "url": "https://open.spotify.com/artist/4QM5QCHicznALtX885CnZC"
+        }
+      ],
+      "date_added": "2023-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237989,
+      "name": "Monster - Spotify Singles",
+      "url": "https://open.spotify.com/track/2EYDqen8Pftl3ENvqOs6fE"
     },
     {
       "album": {
@@ -6052,6 +6088,28 @@
     {
       "album": {
         "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/2rIrWq7n4FrnDwEyIUlBpJ"
+      },
+      "artists": [
+        {
+          "name": "Allison Russell",
+          "url": "https://open.spotify.com/artist/3JBmecDGXTll46ygrnGTM6"
+        },
+        {
+          "name": "Resistance Revival Chorus",
+          "url": "https://open.spotify.com/artist/5GAZngXqtUrssaaExOGeT1"
+        }
+      ],
+      "date_added": "2023-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270264,
+      "name": "Take Me To Church - Spotify Singles",
+      "url": "https://open.spotify.com/track/0fVQEAJzB0WDLgS28zbECm"
+    },
+    {
+      "album": {
+        "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/6vJ831b419D1qjX1clMjk6"
       },
       "artists": [
@@ -7342,7 +7400,7 @@
       ],
       "date_added": "2021-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-19",
       "duration_ms": 185477,
       "name": "you broke me first - Spotify Singles",
       "url": "https://open.spotify.com/track/07Fxhwe3dsM2EkLAqTfrcF"

@@ -13468,7 +13468,7 @@
     {
       "album": {
         "name": "DEBUT",
-        "url": "https://open.spotify.com/album/6P0h9ZA6Vf5Drg76VGFLSe"
+        "url": "https://open.spotify.com/album/3QsVm0REFvXjoxF87Qm4OE"
       },
       "artists": [
         {
@@ -13483,6 +13483,28 @@
       "date_added": "2023-10-15",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 318762,
+      "name": "\u30ad\u30ea\u30a8\u30fb\u6190\u308c\u307f\u306e\u8b83\u6b4c",
+      "url": "https://open.spotify.com/track/2lyFs3iMvfNi6bfHi3mJKj"
+    },
+    {
+      "album": {
+        "name": "DEBUT",
+        "url": "https://open.spotify.com/album/6P0h9ZA6Vf5Drg76VGFLSe"
+      },
+      "artists": [
+        {
+          "name": "Kyrie",
+          "url": "https://open.spotify.com/artist/1W3oa2UIRtBlQSPwszyIWu"
+        },
+        {
+          "name": "AiNA THE END",
+          "url": "https://open.spotify.com/artist/5k7KS34gxQbzdQaXWSOVKC"
+        }
+      ],
+      "date_added": "2023-10-15",
+      "date_added_asterisk": false,
+      "date_removed": "2023-10-19",
       "duration_ms": 318762,
       "name": "\u30ad\u30ea\u30a8\u30fb\u6190\u308c\u307f\u306e\u8b83\u6b4c",
       "url": "https://open.spotify.com/track/4KjNYo1Y9QWc0GQES77dfl"

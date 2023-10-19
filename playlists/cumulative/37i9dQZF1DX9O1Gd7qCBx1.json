@@ -500,7 +500,7 @@
       ],
       "date_added": "2021-11-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-19",
       "duration_ms": 190226,
       "name": "Dia De Los Muertos",
       "url": "https://open.spotify.com/track/3UTwxVRAc1mUOAbqxWqbl1"
@@ -752,7 +752,7 @@
       ],
       "date_added": "2021-11-01",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-07",
+      "date_removed": null,
       "duration_ms": 254280,
       "name": "El Funeral De Tacho",
       "url": "https://open.spotify.com/track/0xruZEA0OwFm8B6J1LnABD"
@@ -1547,6 +1547,24 @@
     },
     {
       "album": {
+        "name": "Ahora",
+        "url": "https://open.spotify.com/album/02QQSaeRpqQrmNkJS6V4Xs"
+      },
+      "artists": [
+        {
+          "name": "Susana Harp",
+          "url": "https://open.spotify.com/artist/6w8n4eJyKefJUTK66Miloo"
+        }
+      ],
+      "date_added": "2023-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 394146,
+      "name": "Morir en Paz",
+      "url": "https://open.spotify.com/track/2R5tHhHmGxhbrvOpoDluqr"
+    },
+    {
+      "album": {
         "name": "Dia de los Muertos (Con Mariachi)",
         "url": "https://open.spotify.com/album/2jhrvg3VaRCvGwEvhLLsmw"
       },
@@ -2314,7 +2332,7 @@
       ],
       "date_added": "2021-11-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-19",
       "duration_ms": 131039,
       "name": "Vengan Abuelitos",
       "url": "https://open.spotify.com/track/7tIj0Jv4PUgfdWUSCfzfgh"

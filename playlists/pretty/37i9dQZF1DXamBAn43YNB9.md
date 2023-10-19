@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXamBAn43YNB9.md) - [plain]
 
 > Craving that crisp country air? These low\-key Country songs will take you there.
 
-[Spotify](https://open.spotify.com/user/spotify) - 86,402 likes - 80 songs - 4 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 86,459 likes - 80 songs - 4 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXamBAn43YNB9.md) - [plain]
 | 79 | [My Masterpiece](https://open.spotify.com/track/5SlOBlrnxsuhOGMQEVZeZ0) | [Darius Rucker](https://open.spotify.com/artist/7FY5V3XMwlNBPitEjXowHQ) | [My Masterpiece](https://open.spotify.com/album/10QTTpkxjazlLxVPmDu400) | 3:30 |
 | 80 | [Never Wanted To Be That Girl](https://open.spotify.com/track/7yRJMLG9ja0fBVVEmV6vcT) | [Carly Pearce](https://open.spotify.com/artist/4sIl4BTo9l9KqEi0Y3RE72), [Ashley McBryde](https://open.spotify.com/artist/371jpyGdoChzUASOIG2ECV) | [29: Written In Stone](https://open.spotify.com/album/5lwUnuV4PJekfTcYIbkq6a) | 3:34 |
 
-Snapshot ID: `MCwyNzA2ZWQ5ZDBkYThjNGRmNjk4OTdiYWEzY2U1OTkwMDlkNWUzMzVj`
+Snapshot ID: `MCw5YzNmZjViNjY0Y2ViYWJlYmQzMDM1Mzc5NThlY2M4Y2YxMzllYmEw`

@@ -3657,6 +3657,32 @@
     },
     {
       "album": {
+        "name": "In The Dust",
+        "url": "https://open.spotify.com/album/3i0GibJYCFOoSAhfYij1TK"
+      },
+      "artists": [
+        {
+          "name": "Richard Judge",
+          "url": "https://open.spotify.com/artist/5z275L9haKWG328mm7UFd3"
+        },
+        {
+          "name": "Jelen",
+          "url": "https://open.spotify.com/artist/5p1lRFANNwTnOqOd77WLqD"
+        },
+        {
+          "name": "Embody",
+          "url": "https://open.spotify.com/artist/0e7jcv95x5MTycydtfg6wv"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191570,
+      "name": "In The Dust",
+      "url": "https://open.spotify.com/track/47MCbUMo5YM8hgLC3flMZ7"
+    },
+    {
+      "album": {
         "name": "In The Night",
         "url": "https://open.spotify.com/album/4sN0HYQLPrt96n8OadcvGf"
       },
@@ -5140,7 +5166,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-19",
       "duration_ms": 199680,
       "name": "Offshore",
       "url": "https://open.spotify.com/track/6yf6FF8BxqLqEr87RFY96m"

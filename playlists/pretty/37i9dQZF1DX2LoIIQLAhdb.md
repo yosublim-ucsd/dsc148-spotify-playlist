@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2LoIIQLAhdb.md) - [plain]
 
 > Le R&B français, nouvelle ère\. Photo : Nej
 
-[Spotify](https://open.spotify.com/user/spotify) - 162,785 likes - 40 songs - 2 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 162,878 likes - 40 songs - 2 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,7 +40,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2LoIIQLAhdb.md) - [plain]
 | 30 | [Comme toi \- Acoustique](https://open.spotify.com/track/1Hc4GdYRgEZIPpdmopnAui) | [Still Fresh](https://open.spotify.com/artist/3AGggQTwJaSofLcpDlYhV4) | [Comme toi \(Acoustique\)](https://open.spotify.com/album/30Zdh9wOGIaWvotg9Cno5e) | 2:34 |
 | 31 | [Pas Les Mots](https://open.spotify.com/track/12WqCvcP9QJl4PpmSYDIyt) | [Low Jay](https://open.spotify.com/artist/33hTLTCjEmYAKaLspM8M2N) | [Pas Les Mots](https://open.spotify.com/album/6WyzXWdIMI09xHThKp8Hbt) | 2:12 |
 | 32 | [Parcours](https://open.spotify.com/track/5SuJbEnNmNoBT44In361J2) | [SenSey'](https://open.spotify.com/artist/23u2dvae3e0f3caJSqdlN5) | [Parcours](https://open.spotify.com/album/2f2tSZLBzav0f2YI1cKMIA) | 3:30 |
-| 33 | [Quelqu'un d'autre](https://open.spotify.com/track/3Ni5MBq60khbNsor0UYlzk) | [Maud Elka](https://open.spotify.com/artist/2U3zSgyMqytkWn9ZmX94ZR) | [Quelqu'un d'autre](https://open.spotify.com/album/4fvXVtz9imF8xZlaK7G8ra) | 3:01 |
+| 33 | [Quelqu'un d'autre](https://open.spotify.com/track/4e4hmNgPXUzfoANBzZbV9h) | [Maud Elka](https://open.spotify.com/artist/2U3zSgyMqytkWn9ZmX94ZR) | [Quelqu'un d'autre](https://open.spotify.com/album/4PtfBRspzSbF2D1Wx0dIxh) | 3:01 |
 | 34 | [Encore](https://open.spotify.com/track/6VCJY8e0hyDFclsuWWN764) | [Squidji](https://open.spotify.com/artist/15LZyW96TXq91lUBjMHQok) | [Encore](https://open.spotify.com/album/2vN8NilAhMUK3hW508tdXq) | 2:20 |
 | 35 | [GÉ VOULAIT](https://open.spotify.com/track/0zjj6xLdVtzIzkOHEWqbWH) | [Genezio](https://open.spotify.com/artist/0PcU18DNfkn3pmbjy5yMFz), [Dadju](https://open.spotify.com/artist/4sbXXFzEWJY2zsZjelerjX) | [GÉ VOULAIT](https://open.spotify.com/album/4ANS3cQf0SZux2I7zlkAxC) | 2:41 |
 | 36 | [Prouver](https://open.spotify.com/track/7dXepJOiMWsBqEsQ6XIvS0) | [IPNDEGO](https://open.spotify.com/artist/1NnXEta54oioiS58v4Ahrj), [Chilla](https://open.spotify.com/artist/1ywkNtrO3WGuwaehqxyjAO) | [Prouver](https://open.spotify.com/album/40oDpUtXCb0HjsWZG134wA) | 3:15 |
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2LoIIQLAhdb.md) - [plain]
 | 39 | [Plus fort](https://open.spotify.com/track/7e1meVSbvi7Khq18QL0Wbn) | [Minissia](https://open.spotify.com/artist/7grHO7fIKR0mfOLo5BEFBl), [Joé Dwèt Filé](https://open.spotify.com/artist/5ndUyzzVSnOtUYoBsI1m5v) | [Plus fort](https://open.spotify.com/album/3uObZqyRFN3G78ywP9xVpk) | 2:56 |
 | 40 | [Karma](https://open.spotify.com/track/5cdWpC6rPjP1hroxlKYLKb) | [Reÿn](https://open.spotify.com/artist/4xqnWGU6MssJcPvMaVuZQF) | [Karma](https://open.spotify.com/album/0HjyI7O830iye5BHTdRkQz) | 2:30 |
 
-Snapshot ID: `MCxmOTFhNmMxNWRiZDYzNDZlZDhmNDRiMmNmYWRhZDRiMTM1NGE4NDU5`
+Snapshot ID: `MCxjMjA1MjJhMDJlMzNlZjM0NzBkMzViNzdhZjY4NjcyNDZhZjUxMjFh`

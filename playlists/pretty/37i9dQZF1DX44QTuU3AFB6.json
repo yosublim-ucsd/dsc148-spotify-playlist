@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Rolas pa' sacar las chelas y el tequila!",
-  "num_followers": 268295,
+  "num_followers": 268619,
   "original_name": "Puras Pa' Pistear",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1NGZlYTliNjdkODVkZDNlYTZiOWFjN2EyNTk5NDhiMTllNzBmMzI3",
+  "snapshot_id": "MCw5M2U5NGVlZmNlYzBjMjMwM2RmMzg0NTMwNzYwNzNiZmZkMzhjMzM0",
   "tracks": [
     {
       "added_at": "2023-10-06 02:08:04",
@@ -535,8 +535,8 @@
     {
       "added_at": "2023-10-06 02:08:04",
       "album": {
-        "name": "Bebe Dame",
-        "url": "https://open.spotify.com/album/6PdUbuaqXLdQKPGFLhLpRC"
+        "name": "911 (En Vivo)",
+        "url": "https://open.spotify.com/album/5C481uIDXJ2Ddkqtq8A28H"
       },
       "artists": [
         {
@@ -548,9 +548,9 @@
           "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
         }
       ],
-      "duration_ms": 271861,
-      "name": "Bebe Dame",
-      "url": "https://open.spotify.com/track/0mzsLrUNazBaRfYZfjmpSV"
+      "duration_ms": 175423,
+      "name": "911 - En Vivo",
+      "url": "https://open.spotify.com/track/1O0IFR3MYqgQbziKTCf0X4"
     },
     {
       "added_at": "2023-10-06 02:08:04",
@@ -707,8 +707,8 @@
     {
       "added_at": "2023-10-06 02:08:04",
       "album": {
-        "name": "911 (En Vivo)",
-        "url": "https://open.spotify.com/album/5C481uIDXJ2Ddkqtq8A28H"
+        "name": "Bebe Dame",
+        "url": "https://open.spotify.com/album/6PdUbuaqXLdQKPGFLhLpRC"
       },
       "artists": [
         {
@@ -720,9 +720,9 @@
           "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
         }
       ],
-      "duration_ms": 175423,
-      "name": "911 - En Vivo",
-      "url": "https://open.spotify.com/track/1O0IFR3MYqgQbziKTCf0X4"
+      "duration_ms": 271861,
+      "name": "Bebe Dame",
+      "url": "https://open.spotify.com/track/0mzsLrUNazBaRfYZfjmpSV"
     },
     {
       "added_at": "2023-10-06 02:08:04",
@@ -963,22 +963,6 @@
     {
       "added_at": "2023-10-06 02:08:04",
       "album": {
-        "name": "Ll\u00e9vame Contigo",
-        "url": "https://open.spotify.com/album/66rxjBaeraSB1qqQcYQSel"
-      },
-      "artists": [
-        {
-          "name": "Intocable",
-          "url": "https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02"
-        }
-      ],
-      "duration_ms": 190533,
-      "name": "\u00bfY Todo Para Qu\u00e9?",
-      "url": "https://open.spotify.com/track/53IpyJOqUIcCzCUtMjP9oy"
-    },
-    {
-      "added_at": "2023-10-06 02:08:04",
-      "album": {
         "name": "Corridos Tumbados",
         "url": "https://open.spotify.com/album/0Pr7tJefVMQCh8hy1n8OLr"
       },
@@ -995,6 +979,22 @@
       "duration_ms": 187352,
       "name": "Disfruto Lo Malo",
       "url": "https://open.spotify.com/track/7LH2UUuyMHt7035PLZQ8wx"
+    },
+    {
+      "added_at": "2023-10-06 02:08:04",
+      "album": {
+        "name": "Ll\u00e9vame Contigo",
+        "url": "https://open.spotify.com/album/66rxjBaeraSB1qqQcYQSel"
+      },
+      "artists": [
+        {
+          "name": "Intocable",
+          "url": "https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02"
+        }
+      ],
+      "duration_ms": 190533,
+      "name": "\u00bfY Todo Para Qu\u00e9?",
+      "url": "https://open.spotify.com/track/53IpyJOqUIcCzCUtMjP9oy"
     },
     {
       "added_at": "2023-10-06 02:08:04",
@@ -1331,22 +1331,6 @@
     {
       "added_at": "2023-10-06 02:08:04",
       "album": {
-        "name": "Invencible",
-        "url": "https://open.spotify.com/album/09bVCvqV5G7r8DIEls8zjB"
-      },
-      "artists": [
-        {
-          "name": "Los Rieleros Del Norte",
-          "url": "https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv"
-        }
-      ],
-      "duration_ms": 199333,
-      "name": "El Columpio",
-      "url": "https://open.spotify.com/track/2OFmcOC5m9iAvt4kcdXBSz"
-    },
-    {
-      "added_at": "2023-10-06 02:08:04",
-      "album": {
         "name": "Punto Y Aparte",
         "url": "https://open.spotify.com/album/5PEGCaUeB26YYT8jvlwqmF"
       },
@@ -1359,6 +1343,22 @@
       "duration_ms": 133261,
       "name": "GPI",
       "url": "https://open.spotify.com/track/6uKjaOslfoRToEqixjM4wc"
+    },
+    {
+      "added_at": "2023-10-06 02:08:04",
+      "album": {
+        "name": "Invencible",
+        "url": "https://open.spotify.com/album/09bVCvqV5G7r8DIEls8zjB"
+      },
+      "artists": [
+        {
+          "name": "Los Rieleros Del Norte",
+          "url": "https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv"
+        }
+      ],
+      "duration_ms": 199333,
+      "name": "El Columpio",
+      "url": "https://open.spotify.com/track/2OFmcOC5m9iAvt4kcdXBSz"
     },
     {
       "added_at": "2023-10-06 02:08:04",
@@ -1723,22 +1723,6 @@
     {
       "added_at": "2023-10-06 02:08:04",
       "album": {
-        "name": "Si Me Duele Que Duela",
-        "url": "https://open.spotify.com/album/4ZjtIz7v275wgCGtIuSRiY"
-      },
-      "artists": [
-        {
-          "name": "Intocable",
-          "url": "https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02"
-        }
-      ],
-      "duration_ms": 171367,
-      "name": "Si Me Duele Que Duela",
-      "url": "https://open.spotify.com/track/5E74WZEkf6mKyzoQPzPzWO"
-    },
-    {
-      "added_at": "2023-10-06 02:08:04",
-      "album": {
         "name": "Punto Y Aparte",
         "url": "https://open.spotify.com/album/5PEGCaUeB26YYT8jvlwqmF"
       },
@@ -1751,6 +1735,22 @@
       "duration_ms": 158918,
       "name": "Punto Y Aparte",
       "url": "https://open.spotify.com/track/0pXE345pmmhZfG5zDCtSTr"
+    },
+    {
+      "added_at": "2023-10-06 02:08:04",
+      "album": {
+        "name": "Si Me Duele Que Duela",
+        "url": "https://open.spotify.com/album/4ZjtIz7v275wgCGtIuSRiY"
+      },
+      "artists": [
+        {
+          "name": "Intocable",
+          "url": "https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02"
+        }
+      ],
+      "duration_ms": 171367,
+      "name": "Si Me Duele Que Duela",
+      "url": "https://open.spotify.com/track/5E74WZEkf6mKyzoQPzPzWO"
     },
     {
       "added_at": "2023-10-06 02:08:04",
@@ -2251,26 +2251,6 @@
     {
       "added_at": "2023-10-06 02:08:04",
       "album": {
-        "name": "Coquio Castro (En Vivo)",
-        "url": "https://open.spotify.com/album/4RCrIPTYt1YCI96WEunbuH"
-      },
-      "artists": [
-        {
-          "name": "Luis R Conriquez",
-          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
-        },
-        {
-          "name": "Gerardo Ortiz",
-          "url": "https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO"
-        }
-      ],
-      "duration_ms": 191829,
-      "name": "Coquio Castro - En Vivo",
-      "url": "https://open.spotify.com/track/1EGcw5OrBiqQUYHW51IMYT"
-    },
-    {
-      "added_at": "2023-10-06 02:08:04",
-      "album": {
         "name": "El Tiempo Que Me Quede",
         "url": "https://open.spotify.com/album/5un67SoPaoD1gsoMVyuzG4"
       },
@@ -2287,6 +2267,26 @@
       "duration_ms": 216946,
       "name": "El Tiempo Que Me Quede",
       "url": "https://open.spotify.com/track/5pDkz9SvcPvFvC21EunbMQ"
+    },
+    {
+      "added_at": "2023-10-06 02:08:04",
+      "album": {
+        "name": "Coquio Castro (En Vivo)",
+        "url": "https://open.spotify.com/album/4RCrIPTYt1YCI96WEunbuH"
+      },
+      "artists": [
+        {
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+        },
+        {
+          "name": "Gerardo Ortiz",
+          "url": "https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO"
+        }
+      ],
+      "duration_ms": 191829,
+      "name": "Coquio Castro - En Vivo",
+      "url": "https://open.spotify.com/track/1EGcw5OrBiqQUYHW51IMYT"
     },
     {
       "added_at": "2023-10-06 02:08:04",
@@ -2563,22 +2563,6 @@
     {
       "added_at": "2023-10-06 02:08:04",
       "album": {
-        "name": "El Karma",
-        "url": "https://open.spotify.com/album/157AfgOIg4Tq7m5sEO7ps5"
-      },
-      "artists": [
-        {
-          "name": "Ariel Camacho y Los Plebes Del Rancho",
-          "url": "https://open.spotify.com/artist/2Lxa3SFNEW0alfRvtdXOul"
-        }
-      ],
-      "duration_ms": 195840,
-      "name": "El Karma",
-      "url": "https://open.spotify.com/track/5OcWYcPLTtLQNsfuBAb9vS"
-    },
-    {
-      "added_at": "2023-10-06 02:08:04",
-      "album": {
         "name": "Sin Perder El Estilo",
         "url": "https://open.spotify.com/album/4NKLTN7nQxOfhKtxZo1MLF"
       },
@@ -2595,6 +2579,22 @@
       "duration_ms": 226154,
       "name": "Contra Mis Principios - Bonus Track",
       "url": "https://open.spotify.com/track/0bp7iqBd58Quykcujvd9P3"
+    },
+    {
+      "added_at": "2023-10-06 02:08:04",
+      "album": {
+        "name": "El Karma",
+        "url": "https://open.spotify.com/album/157AfgOIg4Tq7m5sEO7ps5"
+      },
+      "artists": [
+        {
+          "name": "Ariel Camacho y Los Plebes Del Rancho",
+          "url": "https://open.spotify.com/artist/2Lxa3SFNEW0alfRvtdXOul"
+        }
+      ],
+      "duration_ms": 195840,
+      "name": "El Karma",
+      "url": "https://open.spotify.com/track/5OcWYcPLTtLQNsfuBAb9vS"
     },
     {
       "added_at": "2023-10-06 02:08:04",

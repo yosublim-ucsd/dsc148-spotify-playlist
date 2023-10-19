@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX50KNyX4Fc9O.md) - [plain]
 
 > Keep your finger on the pulse of pop\. Cover: Clinton Kane
 
-[Spotify](https://open.spotify.com/user/spotify) - 120,185 likes - 98 songs - 5 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 120,198 likes - 98 songs - 5 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -107,4 +107,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX50KNyX4Fc9O.md) - [plain]
 | 97 | [2009](https://open.spotify.com/track/0PAgdg0v7LSjinrubTDsjp) | [Livia O](https://open.spotify.com/artist/0DJDFfRvWrXgjbFn0Wl0CG) | [2009](https://open.spotify.com/album/5W8wvoLa3IJiAa4wvbFoYe) | 3:39 |
 | 98 | [Pretty Girl \(Teine Aulelei\)](https://open.spotify.com/track/6IEcLmbHyP3nPaKc2L7LZl) | [Vince Harder](https://open.spotify.com/artist/3sQWafIIB2nfCc9hR9Ng6M) | [Pretty Girl \(Teine Aulelei\)](https://open.spotify.com/album/5MU4ri3gJ6JK3YMiKmS0B7) | 4:11 |
 
-Snapshot ID: `MCxjNzUxMDE1NDBkOWUzOGE3MWQ0MzlmODc2ZmYyYzU4YTRjYTBkOGJk`
+Snapshot ID: `MCxhYWRlMTJmODFiZDg5NDVkNmM1YzA5NGI3YjgwZTBmZjIzZDcwZmYx`

@@ -1,12 +1,12 @@
 {
   "description": "Ou\u00e7a e conhe\u00e7a as revela\u00e7\u00f5es da m\u00fasica gospel. Foto: Bea Rodrigues",
-  "num_followers": 116249,
+  "num_followers": 116326,
   "original_name": "Revela\u00e7\u00e3o Gospel",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2ODMzYTdkODUyZTVmMjNlZTcyNjE5NTI0YWNiNTc4ZDIyNWUxMDA2",
+  "snapshot_id": "MCxiNmQwOTMyY2QxZDY1N2IxZDE1MTFjNmIxNThkNzQwYThmNmZlZjhl",
   "tracks": [
     {
       "added_at": "2023-10-13 16:37:54",
@@ -150,6 +150,10 @@
         {
           "name": "Vit\u00f3ria Souza",
           "url": "https://open.spotify.com/artist/07tsf3FXOQCLN2djNLUT2j"
+        },
+        {
+          "name": "Todah Music",
+          "url": "https://open.spotify.com/artist/1A5kGvmKIVtX7NhcbtTZJY"
         }
       ],
       "duration_ms": 346495,
@@ -651,6 +655,22 @@
     {
       "added_at": "2023-10-13 16:37:54",
       "album": {
+        "name": "Quando o Eterno For Real",
+        "url": "https://open.spotify.com/album/2XYkDU6G3HdRguQctcHmBk"
+      },
+      "artists": [
+        {
+          "name": "Vit\u00f3ria Costa",
+          "url": "https://open.spotify.com/artist/4ivt5LCWnYvngo0oxkDQHW"
+        }
+      ],
+      "duration_ms": 290222,
+      "name": "Quando o Eterno For Real",
+      "url": "https://open.spotify.com/track/78lt1qOfZEjpZPv7JVfunA"
+    },
+    {
+      "added_at": "2023-10-13 16:37:54",
+      "album": {
         "name": "Destemida",
         "url": "https://open.spotify.com/album/1NgjBwy3avUOglmOx2pLBJ"
       },
@@ -667,22 +687,6 @@
       "duration_ms": 298285,
       "name": "Destemida",
       "url": "https://open.spotify.com/track/7jLrfFTraIFefCf4NUGDg9"
-    },
-    {
-      "added_at": "2023-10-13 16:37:54",
-      "album": {
-        "name": "Quando o Eterno For Real",
-        "url": "https://open.spotify.com/album/2XYkDU6G3HdRguQctcHmBk"
-      },
-      "artists": [
-        {
-          "name": "Vit\u00f3ria Costa",
-          "url": "https://open.spotify.com/artist/4ivt5LCWnYvngo0oxkDQHW"
-        }
-      ],
-      "duration_ms": 290222,
-      "name": "Quando o Eterno For Real",
-      "url": "https://open.spotify.com/track/78lt1qOfZEjpZPv7JVfunA"
     },
     {
       "added_at": "2023-10-13 16:37:54",
@@ -839,22 +843,18 @@
     {
       "added_at": "2023-10-13 16:37:54",
       "album": {
-        "name": "Descansa em Mim",
-        "url": "https://open.spotify.com/album/3pVZs73gK7tDaS6rQwZjYc"
+        "name": "Eu Vou Mergulhar",
+        "url": "https://open.spotify.com/album/6rOWiP8QX8iub0JIU0pSFO"
       },
       "artists": [
         {
-          "name": "Pablo Canalis",
-          "url": "https://open.spotify.com/artist/6unLVeDztO40nUPUkl0zZm"
-        },
-        {
-          "name": "Do Nosso Canto",
-          "url": "https://open.spotify.com/artist/2XCsYQtJzn7Y68gXmbH2Xk"
+          "name": "Idma Brito",
+          "url": "https://open.spotify.com/artist/7enWqH5HtoEQJckRpx3ut2"
         }
       ],
-      "duration_ms": 305000,
-      "name": "Descansa em Mim",
-      "url": "https://open.spotify.com/track/33Kw7vIXjoeCvwTKeM4wR8"
+      "duration_ms": 291967,
+      "name": "Eu Vou Mergulhar",
+      "url": "https://open.spotify.com/track/75H1JdNy5JIndenoockhB3"
     },
     {
       "added_at": "2023-10-13 16:37:54",
@@ -875,18 +875,22 @@
     {
       "added_at": "2023-10-13 16:37:54",
       "album": {
-        "name": "Eu Vou Mergulhar",
-        "url": "https://open.spotify.com/album/6rOWiP8QX8iub0JIU0pSFO"
+        "name": "Descansa em Mim",
+        "url": "https://open.spotify.com/album/3pVZs73gK7tDaS6rQwZjYc"
       },
       "artists": [
         {
-          "name": "Idma Brito",
-          "url": "https://open.spotify.com/artist/7enWqH5HtoEQJckRpx3ut2"
+          "name": "Pablo Canalis",
+          "url": "https://open.spotify.com/artist/6unLVeDztO40nUPUkl0zZm"
+        },
+        {
+          "name": "Do Nosso Canto",
+          "url": "https://open.spotify.com/artist/2XCsYQtJzn7Y68gXmbH2Xk"
         }
       ],
-      "duration_ms": 291967,
-      "name": "Eu Vou Mergulhar",
-      "url": "https://open.spotify.com/track/75H1JdNy5JIndenoockhB3"
+      "duration_ms": 305000,
+      "name": "Descansa em Mim",
+      "url": "https://open.spotify.com/track/33Kw7vIXjoeCvwTKeM4wR8"
     },
     {
       "added_at": "2023-10-13 16:37:54",
@@ -959,22 +963,6 @@
     {
       "added_at": "2023-10-13 16:37:54",
       "album": {
-        "name": "Gra\u00e7a",
-        "url": "https://open.spotify.com/album/55Z5QH9ieP02mhRkkj2h14"
-      },
-      "artists": [
-        {
-          "name": "Tamara Pyller",
-          "url": "https://open.spotify.com/artist/20vcBBOWdZLyUo297CcBGO"
-        }
-      ],
-      "duration_ms": 251936,
-      "name": "Gra\u00e7a",
-      "url": "https://open.spotify.com/track/0OLq6ePXSrz4bOgF2xqWT3"
-    },
-    {
-      "added_at": "2023-10-13 16:37:54",
-      "album": {
         "name": "Tu Me Fascinas (Ao Vivo)",
         "url": "https://open.spotify.com/album/7n6nvrL341R9qArB6Avkd7"
       },
@@ -987,6 +975,22 @@
       "duration_ms": 283235,
       "name": "Tu Me Fascinas - Ao Vivo",
       "url": "https://open.spotify.com/track/41NibAItjNsql9NScvLcon"
+    },
+    {
+      "added_at": "2023-10-13 16:37:54",
+      "album": {
+        "name": "Gra\u00e7a",
+        "url": "https://open.spotify.com/album/55Z5QH9ieP02mhRkkj2h14"
+      },
+      "artists": [
+        {
+          "name": "Tamara Pyller",
+          "url": "https://open.spotify.com/artist/20vcBBOWdZLyUo297CcBGO"
+        }
+      ],
+      "duration_ms": 251936,
+      "name": "Gra\u00e7a",
+      "url": "https://open.spotify.com/track/0OLq6ePXSrz4bOgF2xqWT3"
     },
     {
       "added_at": "2023-10-13 16:37:54",

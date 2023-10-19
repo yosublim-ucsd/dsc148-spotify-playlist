@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5T5XRP5VmUL.md) - [plain]
 
 > Dreaming of a white Christmas ✨❄️
 
-[Spotify](https://open.spotify.com/user/spotify) - 132,779 likes - 100 songs - 5 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 132,778 likes - 100 songs - 5 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -93,8 +93,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5T5XRP5VmUL.md) - [plain]
 | 83 | [It Won't Be Christmas \('till You're Here\)](https://open.spotify.com/track/71JECBTllXdl37lGVkH33S) | [Begonia](https://open.spotify.com/artist/4imuw38jkxPpTDqeMZDZD6) | [It Won't Be Christmas \('till You're Here\)](https://open.spotify.com/album/6t6t6VnBN5OfgtUVe0DU6t) | 4:00 |
 | 84 | [Thank God It's Christmas \- 2011 Remaster](https://open.spotify.com/track/3AymrUApW5JKKaNrHQhcBG) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [The Works \(Deluxe Remastered Version\)](https://open.spotify.com/album/7oHaj9jkWHByziQsqGAb8V) | 4:21 |
 | 85 | [Christmas Wrapping](https://open.spotify.com/track/1O2ymfIOPUz7RLzjDCnCWv) | [Spice Girls](https://open.spotify.com/artist/0uq5PttqEjj3IH1bzwcrXF) | [Goodbye](https://open.spotify.com/album/1ANKUQ8iU1mnN3jpGXFiT1) | 4:17 |
-| 86 | [lonely christmas \(feat\. Justin Bieber & Poo Bear\)](https://open.spotify.com/track/5FZNkiHoC7fbc30acoRpfb) | [Bryson Tiller](https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs), [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s), [Poo Bear](https://open.spotify.com/artist/3JXpwnHbLvXxY99EuXqFPX) | [A Different Christmas](https://open.spotify.com/album/52QMK9SFNjiuz3ipkuVVZu) | 3:50 |
-| 87 | [The Christmas Sweater](https://open.spotify.com/track/30QRKfHBopZn6UNqqSJQ9O) | [Michael Bublé](https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3) | [Christmas \(Deluxe 10th Anniversary Edition\)](https://open.spotify.com/album/0FHpjWlnUmplF5ciL84Wpa) | 3:43 |
+| 86 | [The Christmas Sweater](https://open.spotify.com/track/30QRKfHBopZn6UNqqSJQ9O) | [Michael Bublé](https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3) | [Christmas \(Deluxe 10th Anniversary Edition\)](https://open.spotify.com/album/0FHpjWlnUmplF5ciL84Wpa) | 3:43 |
+| 87 | [lonely christmas \(feat\. Justin Bieber & Poo Bear\)](https://open.spotify.com/track/5FZNkiHoC7fbc30acoRpfb) | [Bryson Tiller](https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs), [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s), [Poo Bear](https://open.spotify.com/artist/3JXpwnHbLvXxY99EuXqFPX) | [A Different Christmas](https://open.spotify.com/album/52QMK9SFNjiuz3ipkuVVZu) | 3:50 |
 | 88 | [Wrapped in Red](https://open.spotify.com/track/5fclVBnzaGrbucvVMC228o) | [Kelly Clarkson](https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX) | [Wrapped In Red](https://open.spotify.com/album/7Jahqd1kx9Qau0E9x9iZj6) | 3:36 |
 | 89 | [Jolly Old Saint Nicholas](https://open.spotify.com/track/796k6Hy4NnPq2TSBieDIwH) | [Caveboy](https://open.spotify.com/artist/3B2czCg33JaJkntjWiCEO4) | [Jolly Old Saint Nicholas](https://open.spotify.com/album/2WvlljI2jFK7CuyXUpSghq) | 2:11 |
 | 90 | [God Rest Ye Merry Gentlemen / We Three Kings](https://open.spotify.com/track/6eou298JmAGYShrwYuLxJ2) | [Barenaked Ladies](https://open.spotify.com/artist/0dEvJpkqhrcn64d3oI8v79), [Sarah McLachlan](https://open.spotify.com/artist/4NgNsOXSwIzXlUIJcpnNUp) | [Barenaked For The Holidays](https://open.spotify.com/album/6IRBJEl3iDCSTwATVsQfzX) | 3:26 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5T5XRP5VmUL.md) - [plain]
 | 99 | [Count Your Blessings Instead Of Sheep](https://open.spotify.com/track/0pgP4ROMLqFVDby6dedXwz) | [Diana Krall](https://open.spotify.com/artist/5z1VAFwT35EVvCp1XlZZuL) | [Christmas Songs](https://open.spotify.com/album/6jo4NImjVrEduySw2QJ2cO) | 3:40 |
 | 100 | [Wrapped Up In A Bow](https://open.spotify.com/track/2rZPw3dfHEcCGGYanVJS4k) | [Jamie Fine](https://open.spotify.com/artist/4uwJ3NRArTb8VlKbuAFyFG) | [Wrapped Up In A Bow](https://open.spotify.com/album/2KvS6XY72ABMBWDaZykq4b) | 2:53 |
 
-Snapshot ID: `MCxmMDI0NGFjMTBjZWIwNWU5MTdhYThjYmJhMTYwZGYzMDUwMTY3YTli`
+Snapshot ID: `MCw4ZGRjZmE2ZDE3NTE1N2NjNDc1ZDdlYzMwODFhMzRkZDU4ZTY2NDMy`

@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Feliz Navidad! Celebra los d\u00edas festivos con estas canciones. ",
-  "num_followers": 283133,
+  "num_followers": 283126,
   "original_name": "Feliz Navidad",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzYTEzZjg3NGMxNDJmMGExMDdlYzEzMGM0OTdmMTU3MjAzMDFiZjZj",
+  "snapshot_id": "MCxlNzQ2NDhkNTNjYTFhM2ZmYTY5NzQ3Njg3OTE3NWEwODgwMzcxNzEz",
   "tracks": [
     {
       "added_at": "2022-12-22 18:37:48",
@@ -747,22 +747,6 @@
     {
       "added_at": "2022-12-22 18:37:48",
       "album": {
-        "name": "Holiday",
-        "url": "https://open.spotify.com/album/37a9Xqe5ZExOQA50uWGz3G"
-      },
-      "artists": [
-        {
-          "name": "Monogem",
-          "url": "https://open.spotify.com/artist/4rNzwpjkFq8A7SeCMKBkEV"
-        }
-      ],
-      "duration_ms": 171535,
-      "name": "Holiday",
-      "url": "https://open.spotify.com/track/4OcGEJ7GR6i6ADd3D0Z2gR"
-    },
-    {
-      "added_at": "2022-12-22 18:37:48",
-      "album": {
         "name": "El Mix-Tape De Santa",
         "url": "https://open.spotify.com/album/5cXWewANUJiwlRh5q9TD6a"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 202632,
       "name": "Hallelujah",
       "url": "https://open.spotify.com/track/2MLT6aAsx8jTeb3vi2LTYo"
+    },
+    {
+      "added_at": "2022-12-22 18:37:48",
+      "album": {
+        "name": "Holiday",
+        "url": "https://open.spotify.com/album/37a9Xqe5ZExOQA50uWGz3G"
+      },
+      "artists": [
+        {
+          "name": "Monogem",
+          "url": "https://open.spotify.com/artist/4rNzwpjkFq8A7SeCMKBkEV"
+        }
+      ],
+      "duration_ms": 171535,
+      "name": "Holiday",
+      "url": "https://open.spotify.com/track/4OcGEJ7GR6i6ADd3D0Z2gR"
     },
     {
       "added_at": "2022-12-22 18:37:48",
@@ -1051,18 +1051,18 @@
     {
       "added_at": "2022-12-22 18:37:48",
       "album": {
-        "name": "Love & Christmas",
-        "url": "https://open.spotify.com/album/0xxMYzTP9WOD4PJnAM7wZn"
+        "name": "All I Want For Christmas Is You",
+        "url": "https://open.spotify.com/album/1VScrppYvea0ZhVxKXiU6V"
       },
       "artists": [
         {
-          "name": "Jos\u00e9 Feliciano",
-          "url": "https://open.spotify.com/artist/7K78lVZ8XzkjfRSI7570FF"
+          "name": "La Zenda Norte\u00f1a",
+          "url": "https://open.spotify.com/artist/01brs471Oes6kMnkVJBfGG"
         }
       ],
-      "duration_ms": 255125,
-      "name": "Human Nature - En Espa\u00f1ol",
-      "url": "https://open.spotify.com/track/0c7y9AizJYJ9TexbdHb4XB"
+      "duration_ms": 209688,
+      "name": "All I Want For Christmas Is You",
+      "url": "https://open.spotify.com/track/0KjVUq0RUNrURYShpLtdwq"
     },
     {
       "added_at": "2022-12-22 18:37:48",
@@ -1083,18 +1083,18 @@
     {
       "added_at": "2022-12-22 18:37:48",
       "album": {
-        "name": "All I Want For Christmas Is You",
-        "url": "https://open.spotify.com/album/1VScrppYvea0ZhVxKXiU6V"
+        "name": "Love & Christmas",
+        "url": "https://open.spotify.com/album/0xxMYzTP9WOD4PJnAM7wZn"
       },
       "artists": [
         {
-          "name": "La Zenda Norte\u00f1a",
-          "url": "https://open.spotify.com/artist/01brs471Oes6kMnkVJBfGG"
+          "name": "Jos\u00e9 Feliciano",
+          "url": "https://open.spotify.com/artist/7K78lVZ8XzkjfRSI7570FF"
         }
       ],
-      "duration_ms": 209688,
-      "name": "All I Want For Christmas Is You",
-      "url": "https://open.spotify.com/track/0KjVUq0RUNrURYShpLtdwq"
+      "duration_ms": 255125,
+      "name": "Human Nature - En Espa\u00f1ol",
+      "url": "https://open.spotify.com/track/0c7y9AizJYJ9TexbdHb4XB"
     },
     {
       "added_at": "2022-12-22 18:37:48",

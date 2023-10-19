@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUvQoIOFMFUT.md) - [plain]
 
 > Breathe deep and release that pressure.
 
-[Spotify](https://open.spotify.com/user/spotify) - 459,056 likes - 100 songs - 6 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 459,065 likes - 100 songs - 6 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUvQoIOFMFUT.md) - [plain]
 | 99 | [On The Way There](https://open.spotify.com/track/1cwV9KDoWoL2espNeeibvb) | [RolledBack](https://open.spotify.com/artist/1XZkIY1rC0QNcjpSIdMCoU), [Chill Select](https://open.spotify.com/artist/5orR9ec1E60lLb1U76m3ul) | [On The Way There](https://open.spotify.com/album/47SYiqJbww6E7jwvXscLSR) | 2:25 |
 | 100 | [I Know](https://open.spotify.com/track/4NmVOfj6JSxruDVrYW46AL) | [Khushi](https://open.spotify.com/artist/3Kyyw68V3tjQfwJ6ROuzrR) | [I Know](https://open.spotify.com/album/4dYC2w3OZtkW5xynPq6Jk2) | 2:34 |
 
-Snapshot ID: `MCxlZmVjZDA1NjQ1NGM2N2VmYTdkZmVmMWNhZjIzZjdlNGU2YmFhODQ4`
+Snapshot ID: `MCw0ZDkwYmJjYTBlNjQxOGM0NDRkZDFhNzFlZTA0NmZlZDI1OTdiMDZk`

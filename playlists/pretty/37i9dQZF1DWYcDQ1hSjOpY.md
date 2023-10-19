@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYcDQ1hSjOpY.md) - [plain]
 
 > Soothing, minimalist ambient for deep sleep.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,880,659 likes - 332 songs - 16 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,880,845 likes - 332 songs - 16 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Abrazo Sereno](https://open.spotify.com/track/24SPAIgNceYbCmdrowgkRK) | [Miravaldini](https://open.spotify.com/artist/4d9BQaG3cZzT7KpDU7hj17) | [Melodías Susurrantes](https://open.spotify.com/album/16ArDAGmj2dEQAdAuRD8PW) | 3:39 |
-| 2 | [Promised](https://open.spotify.com/track/1fSln3JhzB7Asdi83JTvPa) | [Macroix](https://open.spotify.com/artist/2HZBmRJ4fqmsOnYuhnn16Q) | [Promised](https://open.spotify.com/album/1kTofA1YT3X06ZU94dXJhN) | 2:33 |
+| 2 | [Promised](https://open.spotify.com/track/1fSln3JhzB7Asdi83JTvPa) | [Macroix](https://open.spotify.com/artist/3ooxJFdCXxyk6heox7EOPV) | [Promised](https://open.spotify.com/album/1kTofA1YT3X06ZU94dXJhN) | 2:33 |
 | 3 | [Melancholy](https://open.spotify.com/track/569aPavFjL3WvPwZepX67d) | [Jonas Sandberg](https://open.spotify.com/artist/5JkM7qUhOcmY5SqK3SnU3O) | [Mosaic](https://open.spotify.com/album/57qBuzBPxYfFVSprhsijyk) | 2:59 |
 | 4 | [Atardecer](https://open.spotify.com/track/7soXJiUOLUjQXBrU3ubC1W) | [Niebla Estelar](https://open.spotify.com/artist/0iyTSONgthh9mFGIcIFlWl), [Falcor](https://open.spotify.com/artist/5XO7u20FIngCsRUTMMOEY7) | [Atardecer](https://open.spotify.com/album/2aj7aq1a8fboi0tnuBpEDu) | 2:20 |
 | 5 | [Inner Peace](https://open.spotify.com/track/7k59hF8Vc7Ob9HYO8fnbLF) | [Sabrina McGregor](https://open.spotify.com/artist/06r7F3mEYRJxjksrVsurYJ) | [Inner Peace](https://open.spotify.com/album/1UzLDrkqLbXxafCCog4pvF) | 2:59 |
@@ -341,4 +341,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYcDQ1hSjOpY.md) - [plain]
 | 331 | [A Waiting](https://open.spotify.com/track/6eua7DXiCZaYulrVuPI3i7) | [Even Massi](https://open.spotify.com/artist/2u7J0lL8WdlZBR6SqfyGFb) | [Delusion](https://open.spotify.com/album/2ucuXJp8Ym5wSuV6BJJcDX) | 2:13 |
 | 332 | [Deep Dive](https://open.spotify.com/track/5XpGnwCqMlGFi1x4YdlKFE) | [Ambienetic](https://open.spotify.com/artist/68sYM79L5H6v9c3x6IC0XD) | [Deep Dive](https://open.spotify.com/album/5QAkFwDV1ZSsxC1XyVu0sG) | 2:41 |
 
-Snapshot ID: `MCw0YTY4ZDg3OWEyMzU0NjFiOWEyYTI5NGY0YjFlNjMyYzE2YTMxZjUx`
+Snapshot ID: `MCwyNGZiZDY1ZjQ2NWJhOTM3MWQyZjQ4YTY1MzFhYWUzMzMwZGU1ZmFm`

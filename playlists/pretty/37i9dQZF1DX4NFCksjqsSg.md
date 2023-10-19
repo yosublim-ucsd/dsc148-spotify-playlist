@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4NFCksjqsSg.md) - [plain]
 
 > Pas mal "tes tounes de karaoké préférées".
 
-[Spotify](https://open.spotify.com/user/spotify) - 27,552 likes - 75 songs - 5 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 27,562 likes - 75 songs - 5 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,8 +46,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4NFCksjqsSg.md) - [plain]
 | 36 | [Casser la voix](https://open.spotify.com/track/0cp8Fd3p8oMbTBv1s6MmrK) | [Patrick Bruel](https://open.spotify.com/artist/0vmrFTWCwK3gFGDzeUzeMg) | [Puzzle](https://open.spotify.com/album/5WaAW6zWPlGadqkw3mYaAL) | 4:23 |
 | 37 | [Une femme avec toi](https://open.spotify.com/track/3LIghH0HLWzawM5n5Vu8Cc) | [Nicole Croisille](https://open.spotify.com/artist/6nKiMtIgRJLOREJtl0eBfV) | [Une femme avec toi \- Single](https://open.spotify.com/album/76bKZd3b4fuLRTY446i1lc) | 4:23 |
 | 38 | [L'amour est dans tes yeux](https://open.spotify.com/track/3UBrZaRETY6l2xfCsik4NL) | [Martine St Clair](https://open.spotify.com/artist/7mj0ykOd4nU43TFvJobbyq) | [Ce soir l'amour est dans tes yeux](https://open.spotify.com/album/7HZfX5GAbCjWiJf1L1AJjQ) | 6:33 |
-| 39 | [A toi](https://open.spotify.com/track/6jiUhLBjMV8ve9eORFDsi6) | [Joe Dassin](https://open.spotify.com/artist/64LCTpIu9Iji2EPaxxPpxF) | [Joe Dassin Éternel...](https://open.spotify.com/album/3BRgfYZqKjLoqmEt1jZSHa) | 2:49 |
-| 40 | [Je l'ai jamais dit à personne](https://open.spotify.com/track/7cxWHyonvdK6l64sEeSpnM) | [Étienne Drapeau](https://open.spotify.com/artist/29v1NWROhbx8Zfjh2DuWW5) | [Je l'ai jamais dit à personne](https://open.spotify.com/album/1OTwwEKQGXrw0lsHiuy5ni) | 3:22 |
+| 39 | [Je l'ai jamais dit à personne](https://open.spotify.com/track/7cxWHyonvdK6l64sEeSpnM) | [Étienne Drapeau](https://open.spotify.com/artist/29v1NWROhbx8Zfjh2DuWW5) | [Je l'ai jamais dit à personne](https://open.spotify.com/album/1OTwwEKQGXrw0lsHiuy5ni) | 3:22 |
+| 40 | [A toi](https://open.spotify.com/track/6jiUhLBjMV8ve9eORFDsi6) | [Joe Dassin](https://open.spotify.com/artist/64LCTpIu9Iji2EPaxxPpxF) | [Joe Dassin Éternel...](https://open.spotify.com/album/3BRgfYZqKjLoqmEt1jZSHa) | 2:49 |
 | 41 | [Seul au combat](https://open.spotify.com/track/28DBhTwgt6Gnu2g4K0Sn83) | [Les BB](https://open.spotify.com/artist/0zNC9bOB7Hje24yEnFWfAr) | [Snob](https://open.spotify.com/album/1IDH1RaKNwTjqAcrFSIPOy) | 5:28 |
 | 42 | [Qui a le droit..\. \- Live "Si ce soir"](https://open.spotify.com/track/6uORP6hjzTP6GzzkZJgtok) | [Patrick Bruel](https://open.spotify.com/artist/0vmrFTWCwK3gFGDzeUzeMg) | [Si ce soir, Vol\. 2](https://open.spotify.com/album/7tRP3KQ3PpfmNqByG0C1K7) | 4:33 |
 | 43 | [Je voudrais voir la mer](https://open.spotify.com/track/49PbjFOCzUYDUbjUJxin8V) | [Michel Rivard](https://open.spotify.com/artist/6CVur2iw4ExLNmsSGiATZN) | [Un trou dans les nuages](https://open.spotify.com/album/1wLEC5NI6C2Cq4Ap4TpDKN) | 5:19 |
@@ -68,10 +68,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4NFCksjqsSg.md) - [plain]
 | 58 | [Echappé belle \- 2008 Digital Remaster](https://open.spotify.com/track/4SUoJetaqEiKRyiEh2HQG5) | [Beau Dommage](https://open.spotify.com/artist/2cdnxq3gRcJudFLmWhDTQp) | [35th Anniversary Collection](https://open.spotify.com/album/2YViwEGMIRU0HonwnkgTEE) | 4:23 |
 | 59 | [Si j'étais un homme](https://open.spotify.com/track/3fX8Q1XVOKfkD5TpRSWGnF) | [Diane Tell](https://open.spotify.com/artist/5y65nQvIt9ABZ2Dkv5191h) | [Autour de Montréal \(Compilation 1978\-1982\)](https://open.spotify.com/album/5J2cTiDe35i6XR3hXtMvNU) | 4:47 |
 | 60 | [Vivre dans la nuit \- Version Microsillon](https://open.spotify.com/track/6dP8GoWxIQtRDJptpgPtkh) | [Nuance](https://open.spotify.com/artist/56EV8wiS6RIrYrNG8uuiDl) | [Vivre dans la nuit](https://open.spotify.com/album/3AqKphs5MQe12H6EHj4lC4) | 4:45 |
-| 61 | [Billy](https://open.spotify.com/track/28yEUMWeyu4v6oPsVxF22x) | [Julie Masse](https://open.spotify.com/artist/5psniKvOx6O0HkMSoY6RuC) | [Julie Masse](https://open.spotify.com/album/533nyHsf7XYf0YYluQymVE) | 3:44 |
-| 62 | [Les bras de satan](https://open.spotify.com/track/3LQqPNWVEQt1NOJs5zJanY) | [Nelson Minville](https://open.spotify.com/artist/7wNJ6MuaOCubifvO9o7coR) | [Premières nuits](https://open.spotify.com/album/3xn5BcOySaPQDUzHweLI6y) | 4:15 |
-| 63 | [Perdue L'envie D'aimer](https://open.spotify.com/track/1pSIgqNyR8tF8w6PABKlVm) | [Mario Pelchat](https://open.spotify.com/artist/3zj5I53p6FGaoNqD9blYuz) | [Pelchat](https://open.spotify.com/album/4miX4q7EY2QNryx8j7H8bS) | 3:32 |
-| 64 | [Victoire \- Radio Edit](https://open.spotify.com/track/1O6uYqexF293mZKf9Nmf7x) | [Shy'm](https://open.spotify.com/artist/3nXQmlliJxvfXOm3naZf3B) | [Victoire \(Radio Edit\)](https://open.spotify.com/album/7MoypL7O3vSdhqhbzycqD6) | 3:16 |
+| 61 | [Les bras de satan](https://open.spotify.com/track/3LQqPNWVEQt1NOJs5zJanY) | [Nelson Minville](https://open.spotify.com/artist/7wNJ6MuaOCubifvO9o7coR) | [Premières nuits](https://open.spotify.com/album/3xn5BcOySaPQDUzHweLI6y) | 4:15 |
+| 62 | [Billy](https://open.spotify.com/track/28yEUMWeyu4v6oPsVxF22x) | [Julie Masse](https://open.spotify.com/artist/5psniKvOx6O0HkMSoY6RuC) | [Julie Masse](https://open.spotify.com/album/533nyHsf7XYf0YYluQymVE) | 3:44 |
+| 63 | [Victoire \- Radio Edit](https://open.spotify.com/track/1O6uYqexF293mZKf9Nmf7x) | [Shy'm](https://open.spotify.com/artist/3nXQmlliJxvfXOm3naZf3B) | [Victoire \(Radio Edit\)](https://open.spotify.com/album/7MoypL7O3vSdhqhbzycqD6) | 3:16 |
+| 64 | [Perdue L'envie D'aimer](https://open.spotify.com/track/1pSIgqNyR8tF8w6PABKlVm) | [Mario Pelchat](https://open.spotify.com/artist/3zj5I53p6FGaoNqD9blYuz) | [Pelchat](https://open.spotify.com/album/4miX4q7EY2QNryx8j7H8bS) | 3:32 |
 | 65 | [Un souvenir heureux](https://open.spotify.com/track/0uenXaHPfVWwcKHEpLz6kn) | [Diane Dufresne](https://open.spotify.com/artist/7twmPMJL7zIWU2MLkdQpqs) | [Les grands succès de Diane Dufresne](https://open.spotify.com/album/6WS4SEnixyqEIQHZ5TmmPV) | 2:53 |
 | 66 | [Aime](https://open.spotify.com/track/4qBxDboTpB6tizWtib6nDe) | [Bruno Pelletier](https://open.spotify.com/artist/7quDJwv2BxxaCkzeuLXzT2) | [Miserere](https://open.spotify.com/album/7bzHZ9axmnjOqNCeBz5GEi) | 4:24 |
 | 67 | [Je reviendrai à montréal](https://open.spotify.com/track/3Gp1eVrLVzHzjhylilDFFb) | [Robert Charlebois](https://open.spotify.com/artist/1862NkVrufCFJZkZJMfftO) | [Volume un](https://open.spotify.com/album/5mlYAjASxORUY5zmJ1j6Bd) | 3:24 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4NFCksjqsSg.md) - [plain]
 | 74 | [Incognito](https://open.spotify.com/track/6Jfd5c2iOPkphlCX9nt0GJ) | [Céline Dion](https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK) | [Incognito](https://open.spotify.com/album/3Gc6kXiuACCXzuozrbA1C4) | 4:39 |
 | 75 | [Le ciel est à moi](https://open.spotify.com/track/7rei6qkJoTI00AaYWB7a0k) | [Marie\-Élaine Thibert](https://open.spotify.com/artist/4dCRlMJfHuq6GTTVNyxjNH) | [Marie\-Élaine Thibert](https://open.spotify.com/album/7u5RRckpk4riXBpIiIwCFs) | 4:35 |
 
-Snapshot ID: `MCxkMmVhYmRjMDA0NjJhMTNiMDljZDE1Njk0YjhhYmVkMTY3ODQ4OWRi`
+Snapshot ID: `MCw1ZDgxOGI5YWIzODc3ZGFhNDk2ZTE2MTc0YWY0NGE1ODE1Y2M4NTYz`

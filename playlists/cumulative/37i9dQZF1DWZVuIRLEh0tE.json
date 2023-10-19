@@ -4622,10 +4622,32 @@
       ],
       "date_added": "2023-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-19",
       "duration_ms": 142372,
       "name": "Tan Quedao",
       "url": "https://open.spotify.com/track/252C5FtbrETqo6ZJE1vmyx"
+    },
+    {
+      "album": {
+        "name": "Tan Quedao",
+        "url": "https://open.spotify.com/album/7qAEfWnAVoOaUu2y0sE6WZ"
+      },
+      "artists": [
+        {
+          "name": "Briante",
+          "url": "https://open.spotify.com/artist/7lrpjS4SyP3jdyB7i27Yf4"
+        },
+        {
+          "name": "Onguito Wa",
+          "url": "https://open.spotify.com/artist/5gIa74oRT4LLG0AioLVn6F"
+        }
+      ],
+      "date_added": "2023-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142372,
+      "name": "Tan Quedao",
+      "url": "https://open.spotify.com/track/6IhKaUibbPr6XAh916LIKu"
     },
     {
       "album": {

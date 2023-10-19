@@ -4,12 +4,13 @@
 
 > Kumpulan lagu yang sedang menyebar luas\. Cover: Nadhif Basalamah
 
-261 songs - 15 hr 51 min
+264 songs - 16 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [\(It Goes Like\) Nanana \- Edit](https://open.spotify.com/track/23RoR84KodL5HWvUTneQ1w) | [Peggy Gou](https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN) | [\(It Goes Like\) Nanana \[Edit\]](https://open.spotify.com/album/2LVDNOUUy2g8517ZEtQIcK) | 3:51 | 2023-07-13 |  |
 | [24/7, 365](https://open.spotify.com/track/05QUYSOApWLr8oBbpONl7p) | [elijah woods](https://open.spotify.com/artist/3IR6DvP0x2a6oUSist9UMu) | [24/7, 365](https://open.spotify.com/album/4GIH14Ii08p24CHN7MlooG) | 2:47 | 2023-09-21 |  |
+| [3D \(feat\. Jack Harlow\) \(Clean Ver.\)](https://open.spotify.com/track/0TaaG2kxjzSjVbmmiiSZEa) | [Jung Kook](https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc), [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [3D : The Remixes](https://open.spotify.com/album/0fJ0beklzFwoBv01U8792s) | 3:22 | 2023-10-18 |  |
 | [A Piece of You](https://open.spotify.com/track/1bYRmNYrXbzbLq1CEBZHRe) | [Nathaniel Constantin](https://open.spotify.com/artist/5Jc99vrEyk7RZVYglf9E3r) | [A Piece of You](https://open.spotify.com/album/0AcubuOrOCfOtq27h2cudt) | 3:57 | 2023-07-27 | 2023-09-16 |
 | [A Thousand Years](https://open.spotify.com/track/5h5CQwgjgQrBUacsqR2zR7) | [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM) | [A Thousand Years](https://open.spotify.com/album/1aSwuLpPBoke8WDwv4NDgi) | 4:14 | 2023-05-25 |  |
 | [A Year Ago](https://open.spotify.com/track/3DBJE1Zndql25OGUQSv7aD) | [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM) | [A Year Ago](https://open.spotify.com/album/4mXHsCQ4aRccewmcKUxIBJ) | 2:50 | 2023-07-07 |  |
@@ -66,6 +67,7 @@
 | [Daylight](https://open.spotify.com/track/1odExI7RdWc4BT515LTAwj) | [David Kushner](https://open.spotify.com/artist/33NVpKoXjItPwUJTMZIOiY) | [Daylight](https://open.spotify.com/album/6NcI39WPu4kY6Tul11nhSv) | 3:32 | 2023-05-11 | 2023-07-08 |
 | [Daylight](https://open.spotify.com/track/1fzAuUVbzlhZ1lJAx9PtY6) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Lover](https://open.spotify.com/album/1NAmidJlEaVgA3MpcPFYGq) | 4:53 | 2023-05-18 | 2023-09-01 |
 | [Delusion](https://open.spotify.com/track/5Jyn7343pwECbPl8df9oBH) | [Manaditara](https://open.spotify.com/artist/35S1sBwXiq6fvWPSemGj2N) | [Delusion](https://open.spotify.com/album/22kagYQ70d21mizj0l6yw6) | 3:37 | 2023-07-07 | 2023-09-01 |
+| [Denting](https://open.spotify.com/track/4i7xD6pmEaV25wL6K7Pjd0) | [Petra Sihombing](https://open.spotify.com/artist/5TV9JhBjG6c2hHsoibBaIW) | [Denting](https://open.spotify.com/album/1nZGplPUPFeiAxhJnl0Ajx) | 3:09 | 2023-10-18 |  |
 | [Die For You \- Remix](https://open.spotify.com/track/7oDd86yk8itslrA9HRP2ki) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Die For You \(Remix\)](https://open.spotify.com/album/6Exo0MYoL3XammoTDeihFy) | 3:52 | 2023-03-23 | 2023-08-11 |
 | [Disenchanted](https://open.spotify.com/track/6T7MAQCekVb3UnCykjX3BP) | [My Chemical Romance](https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb) | [The Black Parade](https://open.spotify.com/album/0FZK97MXMm5mUQ8mtudjuK) | 4:55 | 2023-05-11 | 2023-07-15 |
 | [Ditto](https://open.spotify.com/track/3r8RuvgbX9s7ammBn07D3W) | [NewJeans](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) | [Ditto](https://open.spotify.com/album/7bnqo1fdJU9nSfXQd3bSMe) | 3:05 | 2023-03-23 | 2023-05-12 |
@@ -86,7 +88,7 @@
 | [Gather my tears](https://open.spotify.com/track/2KHwO2oP6kWGfir0EWcklE) | [Seo Ji Won](https://open.spotify.com/artist/4TBgwwFdWe205WGBPIuiPZ) | [Tears](https://open.spotify.com/album/1z3z64S2jYWOInW3doGOgb) | 4:00 | 2023-09-15 | 2023-10-06 |
 | [GOATED\. \(feat\. Denzel Curry\)](https://open.spotify.com/track/2PWVxWymGDZKj5BZJB7dAR) | [Armani White](https://open.spotify.com/artist/2qAwMsiIjTzlmfAkXKvhVA), [Denzel Curry](https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV) | [GOATED.](https://open.spotify.com/album/2RU7Ol70IsJo40QMaV1Yfz) | 3:17 | 2023-05-11 | 2023-06-09 |
 | [GOOD LOYAL THOTS](https://open.spotify.com/track/6PadQidABni2peo3kYKW0M) | [Odetari](https://open.spotify.com/artist/7ITMCzIU9uII8gwRg8JAhc) | [GOOD LOYAL THOTS](https://open.spotify.com/album/0x4bB3gflkfs2teiVIJ5t5) | 1:42 | 2023-05-11 | 2023-05-26 |
-| [greedy](https://open.spotify.com/track/3rUGC1vUpkDG9CZFHMur1t) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [greedy](https://open.spotify.com/album/3UOV8XvCwMKaATRNXrYCjN) | 2:11 | 2023-10-05 |  |
+| [greedy](https://open.spotify.com/track/3rUGC1vUpkDG9CZFHMur1t) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [greedy](https://open.spotify.com/album/3UOV8XvCwMKaATRNXrYCjN) | 2:11 | 2023-10-05 | 2023-10-19 |
 | [Haunting](https://open.spotify.com/track/0I0EPca5WhAzyzsPdnJYDJ) | [Shanna Shannon](https://open.spotify.com/artist/2wJ77L3w0hTQDJH9uH39c2), [Stevan Pasaribu](https://open.spotify.com/artist/4sbcrENSiVe3Yn9ftToC4b) | [Haunting](https://open.spotify.com/album/4naAjJSa7uUkp0EWtEKJSA) | 3:09 | 2023-08-03 | 2023-09-08 |
 | [Heart Attack](https://open.spotify.com/track/1V6gIisPpYqgFeWbMLI0bA) | [Demi Lovato](https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp) | [Demi](https://open.spotify.com/album/6Kssm2LosQ0WyLukFZkEG5) | 3:30 | 2023-09-21 |  |
 | [HEAVEN AND BACK](https://open.spotify.com/track/5dewQ7ojISR32NAYNHFYWC) | [Chase Atlantic](https://open.spotify.com/artist/7cYEt1pqMgXJdq00hAwVpT) | [PHASES](https://open.spotify.com/album/22DL6IRGNYNenKej7aw8pO) | 4:08 | 2023-04-20 | 2023-07-08 |
@@ -194,6 +196,7 @@
 | [Seandainya](https://open.spotify.com/track/4zDsTPzY7Nm7rYKvszjKYL) | [Vierra](https://open.spotify.com/artist/1WX2v0BiEW19Vw7xmznLdZ) | [My First Love](https://open.spotify.com/album/7uPbMJWPcITRuvfcllfQ5O) | 4:23 | 2023-03-23 | 2023-06-23 |
 | [seasons](https://open.spotify.com/track/1acVBP8BcK6LTeNeFjfxnh) | [wave to earth](https://open.spotify.com/artist/5069JTmv5ZDyPeZaCCXiCg) | [summer flows 0.02](https://open.spotify.com/album/4R3ERcDOQP7o1Lkok2uO7E) | 4:16 | 2023-04-20 | 2023-05-26 |
 | [See You Again \(feat\. Kali Uchis\)](https://open.spotify.com/track/7KA4W4McWYRpgf0fWsJZWB) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF), [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [Flower Boy](https://open.spotify.com/album/2nkto6YNI4rUYTLqEwWJ3o) | 3:00 | 2023-05-11 | 2023-06-09 |
+| [Semua Aku Dirayakan](https://open.spotify.com/track/2x3vwXWuecPrRqgEUuSUJA) | [Nadin Amizah](https://open.spotify.com/artist/20zafXaLhm5IcXnSU93rNn) | [Semua Aku Dirayakan](https://open.spotify.com/album/36D5g0IFrPL3Rdzj3vARGZ) | 5:10 | 2023-10-18 |  |
 | [Separuh Aku](https://open.spotify.com/track/0OVcoOK5WVvE6D9CXkopa9) | [Noah](https://open.spotify.com/artist/31aMmlq8isIAgojvmIwiS4) | [Seperti Seharusnya](https://open.spotify.com/album/4zQgXju45dVJACZosujFtw) | 4:26 | 2023-07-27 | 2023-08-23 |
 | [Separuh Aku](https://open.spotify.com/track/4BDA2HN9dQtrXjk8b6zaTq) | [Noah](https://open.spotify.com/artist/31aMmlq8isIAgojvmIwiS4) | [Seperti Seharusnya](https://open.spotify.com/album/0OJ20fKyVlmZKAMF8q1LAL) | 4:26 | 2023-08-18 |  |
 | [Separuh Nafas](https://open.spotify.com/track/6JusI70TeT9M2O1MXyXRRv) | [Dewa 19](https://open.spotify.com/artist/48bKH1ugFBhERC1rdojP9d) | [The 2000's Greatest](https://open.spotify.com/album/2hwNRtZyqmEcCzV47OUAlN) | 3:42 | 2023-08-24 |  |
@@ -233,7 +236,7 @@
 | [Tanpa Rasa Bersalah](https://open.spotify.com/track/1FSEm5Uc8TqFy0UZkMuEMZ) | [Fabio Asher](https://open.spotify.com/artist/6FTLayBxjkQeanFdUusk1I) | [ASHER](https://open.spotify.com/album/4km2qQIoGCCevm1Qf51OcE) | 4:38 | 2023-09-29 |  |
 | [Tapi Tahukah Kamu?](https://open.spotify.com/track/4SW9fIXaX6OxJhm9gspkDG) | [Dygta](https://open.spotify.com/artist/0LivMD6P6pi2yfZf1rIAat), [Kamasean](https://open.spotify.com/artist/2CnDUzCYPBjERuVMFQm8zX) | [Tapi Tahukah Kamu?](https://open.spotify.com/album/2MMTMsyPfgyDewVRuYY9TH) | 4:11 | 2023-09-29 |  |
 | [Tattoo](https://open.spotify.com/track/1DmW5Ep6ywYwxc2HMT5BG6) | [Loreen](https://open.spotify.com/artist/49aaHxvAJ0tCh0F15OnwIl) | [Tattoo](https://open.spotify.com/album/0LRTS7FyYLppkDLOZT02Xp) | 3:03 | 2023-06-01 |  |
-| [Tawa](https://open.spotify.com/track/2cUtg4hpCug4Gc9aibZIYV) | [Nadin Amizah](https://open.spotify.com/artist/20zafXaLhm5IcXnSU93rNn) | [Tawa](https://open.spotify.com/album/04uwdQzsYFw7yRsCj0u3DT) | 4:15 | 2023-09-21 |  |
+| [Tawa](https://open.spotify.com/track/2cUtg4hpCug4Gc9aibZIYV) | [Nadin Amizah](https://open.spotify.com/artist/20zafXaLhm5IcXnSU93rNn) | [Tawa](https://open.spotify.com/album/04uwdQzsYFw7yRsCj0u3DT) | 4:15 | 2023-09-21 | 2023-10-19 |
 | [Teman Teman Ku Udah Nikah Aku Masih Nonton Spongebob](https://open.spotify.com/track/0NONHlrayFnoTefgMLmq5D) | [Refo Dan Fauna](https://open.spotify.com/artist/6ILCDTreFre4EDfBZxCGxi) | [Krisis Seperempat Dewasa](https://open.spotify.com/album/3KI6xFkUSU1nXf5eBeniYG) | 2:46 | 2023-08-01 |  |
 | [Terbiasa](https://open.spotify.com/track/0PXxRlVWKdnczapAH53nZH) | [Nathaniel Rivan](https://open.spotify.com/artist/47SU5nCBLVOef6cIthAmII) | [Terbiasa](https://open.spotify.com/album/1hbznvDyJxzNgJL6YgMIkD) | 3:33 | 2023-06-22 | 2023-09-08 |
 | [terima kasih](https://open.spotify.com/track/0JtEuERxvGfXYcg0ALOwPu) | [Hal](https://open.spotify.com/artist/5vTG3EyFrsARtIGDWZNRzu) | [terima kasih](https://open.spotify.com/album/3YfSbSFwpbxxGb1wGl1H20) | 3:24 | 2023-03-23 | 2023-05-12 |

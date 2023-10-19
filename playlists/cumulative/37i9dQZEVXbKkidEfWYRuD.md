@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Ukraine.
 
-1,251 songs - 2 day 9 hr 47 min
+1,252 songs - 2 day 9 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -237,8 +237,8 @@
 | [Goosebumps \- Remix](https://open.spotify.com/track/5uEYRdEIh9Bo4fpjDd4Na9) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY), [HVME](https://open.spotify.com/artist/2o08sCWF5yyo2G4DCiT7T9) | [Goosebumps \(Remix\)](https://open.spotify.com/album/3SdFuYwyWoq7kuaHdTDcyD) | 2:42 | 2021-03-27\* | 2021-05-22 |
 | [GOSSIP \(feat\. Tom Morello\)](https://open.spotify.com/track/44Xyja7xYPlVC6v2CeweSi) | [Måneskin](https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr), [Tom Morello](https://open.spotify.com/artist/74NBPbyyftqJ4SpDZ4c1Ed) | [RUSH!](https://open.spotify.com/album/2KUaR4K36tSliwAoUA1gcs) | 2:48 | 2023-01-21 | 2023-01-23 |
 | [Gra Gra](https://open.spotify.com/track/1Xun1Rspd2RVnXZrdu0JbY) | [LIL MORTY](https://open.spotify.com/artist/09W1Zh2IfOs6YYEiKgYY1K) | [Gra Gra / R2F](https://open.spotify.com/album/1yxIPuGgpyoLCb6CSkj5X2) | 2:57 | 2023-04-01 | 2023-04-03 |
-| [greedy](https://open.spotify.com/track/1reEeZH9wNt4z1ePYLyC7p) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [greedy](https://open.spotify.com/album/5TCVikuC7Npt0WOOWGxLs9) | 2:11 | 2023-10-14 |  |
-| [greedy](https://open.spotify.com/track/3rUGC1vUpkDG9CZFHMur1t) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [greedy](https://open.spotify.com/album/3UOV8XvCwMKaATRNXrYCjN) | 2:11 | 2023-09-30 | 2023-10-15 |
+| [greedy](https://open.spotify.com/track/1reEeZH9wNt4z1ePYLyC7p) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [greedy](https://open.spotify.com/album/5TCVikuC7Npt0WOOWGxLs9) | 2:11 | 2023-10-14 | 2023-10-19 |
+| [greedy](https://open.spotify.com/track/3rUGC1vUpkDG9CZFHMur1t) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [greedy](https://open.spotify.com/album/3UOV8XvCwMKaATRNXrYCjN) | 2:11 | 2023-09-30 |  |
 | [Gremlin](https://open.spotify.com/track/2qhuKG2G3XOjfrE5ex0pao) | [kizaru](https://open.spotify.com/artist/5NipqMGsY4AUeb7kGT8aVz) | [Gremlin](https://open.spotify.com/album/2uHdy4aBVNDcUzvZ2h8YFy) | 2:30 | 2023-07-29 | 2023-07-31 |
 | [GTA](https://open.spotify.com/track/12BfsRTFvmYVU5zZmdpGHg) | [MORGENSHTERN](https://open.spotify.com/artist/0XNKQFs2Ewb3y0VsFUFc5l) | [MILLION DOLLAR: BUSINESS](https://open.spotify.com/album/04KjJSDImRLbElsI39hPLY) | 2:06 | 2021-05-29 | 2021-06-23 |
 | [GUF DISS](https://open.spotify.com/track/40rRCYp2QiowCZNtvfSwbC) | [MORGENSHTERN](https://open.spotify.com/artist/0XNKQFs2Ewb3y0VsFUFc5l) | [LAST ONE](https://open.spotify.com/album/3Mp2TOTZpTGvU1cExaHs7w) | 2:23 | 2022-10-22 | 2022-10-29 |
@@ -347,7 +347,7 @@
 | [LOVELY BASTARDS](https://open.spotify.com/track/0EqczV3o6fwksegAavIHpX) | [ZWE1HVNDXR](https://open.spotify.com/artist/33rnQWadiG2aauIwIxPxfB), [yatashigang](https://open.spotify.com/artist/2GBDI5PSiEnVoH0YnFFRLx) | [LOVELY BASTARDS](https://open.spotify.com/album/2b3Kiolsu42XiVvhRmTEsM) | 1:56 | 2023-09-02 |  |
 | [LOVELY BASTARDS](https://open.spotify.com/track/0R6bbQzz5J36cnTxqGeBXX) | [ZWE1HVNDXR](https://open.spotify.com/artist/33rnQWadiG2aauIwIxPxfB), [yatashigang](https://open.spotify.com/artist/2GBDI5PSiEnVoH0YnFFRLx) | [LOVELY BASTARDS](https://open.spotify.com/album/4SznZ43KwBjyhJWt650N2m) | 1:56 | 2023-08-31 | 2023-09-03 |
 | [Lu4she](https://open.spotify.com/track/5kN5giPfTSmMnajJ7Ytv4K) | [kizaru](https://open.spotify.com/artist/5NipqMGsY4AUeb7kGT8aVz) | [Тебя любят там где меня нет](https://open.spotify.com/album/3eayFI3gTLNnDoJs39o5V9) | 2:14 | 2022-11-19 | 2022-11-24 |
-| [M11](https://open.spotify.com/track/12ZQQOVtIw6lwLsNiUTxk6) | [Big Baby Tape](https://open.spotify.com/artist/5NMwoStnfHT4LdETlJSwDT), [ALBLAK 52](https://open.spotify.com/artist/0tkZJURRnsezR78T9uHDjq) | [M11](https://open.spotify.com/album/3Wu1xPFnc5NiqHHjgk5zho) | 2:37 | 2023-10-14 |  |
+| [M11](https://open.spotify.com/track/12ZQQOVtIw6lwLsNiUTxk6) | [Big Baby Tape](https://open.spotify.com/artist/5NMwoStnfHT4LdETlJSwDT), [ALBLAK 52](https://open.spotify.com/artist/0tkZJURRnsezR78T9uHDjq) | [M11](https://open.spotify.com/album/3Wu1xPFnc5NiqHHjgk5zho) | 2:37 | 2023-10-14 | 2023-10-19 |
 | [MAFIA](https://open.spotify.com/track/08F16baYbciTva9P4BvpiI) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [ESCAPE PLAN / MAFIA](https://open.spotify.com/album/5FB5E1fwFeVqpz2CCzRSve) | 4:00 | 2021-11-07 | 2021-11-08 |
 | [Makeba](https://open.spotify.com/track/4TNFLwe6DhtR3Wn1JKMqMJ) | [Jain](https://open.spotify.com/artist/2HHmvvSQ44ePDH7IKVzgK0) | [Zanaka \(Deluxe\)](https://open.spotify.com/album/2rb6C1wUwk7hFOVmfgt19k) | 4:08 | 2023-06-06 | 2023-06-28 |
 | [Makeba](https://open.spotify.com/track/5JdLUE9D743ob2RtgmVpVx) | [Jain](https://open.spotify.com/artist/2HHmvvSQ44ePDH7IKVzgK0) | [Zanaka](https://open.spotify.com/album/2S12TNfqdnUFdTfYlE96tb) | 4:09 | 2023-05-29 | 2023-06-07 |
@@ -1256,6 +1256,7 @@
 | [ярче звёзд](https://open.spotify.com/track/4CK9NEdPWB6rJ8N6BU20pN) | [ПОЛМАТЕРИ](https://open.spotify.com/artist/3NDasZQ8ZbOssdAPNkZgW1) | [иван марголдин президент россии](https://open.spotify.com/album/74u73t51gTk7vhWVXNhZnO) | 2:47 | 2022-03-22 | 2022-05-25 |
 | [Ящик](https://open.spotify.com/track/3YJXD2kpM8XzLmot9a2VLZ) | [ATL](https://open.spotify.com/artist/2n6CVwo43YvjiTgcPxYWrf) | [Радио Апокалипсис](https://open.spotify.com/album/0h468WIkH7IZEJN8RsD8Sy) | 3:27 | 2021-11-28 | 2021-11-28 |
 | [Ящик](https://open.spotify.com/track/7uzOXyjNgbyYjrYpmeAjsN) | [ATL](https://open.spotify.com/artist/2n6CVwo43YvjiTgcPxYWrf) | [Ящик](https://open.spotify.com/album/3jY7BEOadfEujvpG2g2lm6) | 3:27 | 2021-11-21 | 2021-11-25 |
+| [Імператори](https://open.spotify.com/track/5ScT8atEfarQsrDfL5jCT3) | [Klavdia Petrivna](https://open.spotify.com/artist/5BwbVAdT6rFF2vGVE8su2y) | [Імператори](https://open.spotify.com/album/0JBZLbhsqALewaXVmlPmsG) | 2:21 | 2023-10-18 |  |
 | [Імперії впадуть](https://open.spotify.com/track/1t0gvj21K9Fscs5fxm4UJ9) | [Boombox](https://open.spotify.com/artist/2c3PFZtun8HemDbDfRPV6G) | [Імперії впадуть](https://open.spotify.com/album/1TqtbPIimI2tdzotfacuku) | 5:05 | 2021-11-21 | 2021-11-22 |
 | [інша любов](https://open.spotify.com/track/24s8SuDR01re1GxkELG7d0) | [ENLEO](https://open.spotify.com/artist/09trukw4HlMz8i6TAn5Xpu) | [інша любов](https://open.spotify.com/album/4zcUoQhejdz93W8CS1Yzsx) | 4:08 | 2022-07-16 | 2022-10-18 |
 | [інша любов](https://open.spotify.com/track/6JrGELYUIbZvBV74j4Q5LN) | [ENLEO](https://open.spotify.com/artist/09trukw4HlMz8i6TAn5Xpu) | [інша любов](https://open.spotify.com/album/1v4P2Q4F6T31loiqLmREFg) | 4:08 | 2022-10-17 | 2023-07-20 |

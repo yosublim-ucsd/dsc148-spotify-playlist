@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7xNd2fNATsx.md) - [plain]
 
 > Quand l'indie et l'electro ne font qu'un.
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,186 likes - 48 songs - 3 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,246 likes - 48 songs - 3 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7xNd2fNATsx.md) - [plain]
 | 7 | [Vanished](https://open.spotify.com/track/0Q2YGyMeeZMAvzebtxoQ5f) | [Crystal Castles](https://open.spotify.com/artist/7K3zpFXBvPcvzhj7zlGJdO) | [Crystal Castles](https://open.spotify.com/album/7HJSVyFzG1sM02weSAqhdH) | 4:02 |
 | 8 | [Time To Dance](https://open.spotify.com/track/3cOPHE0rv7550yTHIb344Z) | [The Shoes](https://open.spotify.com/artist/6buUuVTdxxAe5ODJtKZ4hP), [ANTHONIN TERNANT](https://open.spotify.com/artist/7xi4HzU1VhqcrWbDHZcccE) | [Crack My Bones](https://open.spotify.com/album/0AEDGWBnOgIiAUp1zog9Kx) | 3:16 |
 | 9 | [Lost It To Trying](https://open.spotify.com/track/4kP7BPJ1d3WUGhykQBVEjH) | [Son Lux](https://open.spotify.com/artist/3kZdsaTYgaaolNxpnJ4iDe) | [Lanterns](https://open.spotify.com/album/6vIi2q78LUq93PhpO6VY1J) | 4:42 |
-| 10 | [Always On The Run](https://open.spotify.com/track/52EPPbUf2chJt14NbQIu9a) | [Yuksek](https://open.spotify.com/artist/2ePIzx9NjxplS724QMZtsf) | [Living On The Edge Of Time](https://open.spotify.com/album/3YPOlrizHDAktT0CJBhz6D) | 3:43 |
+| 10 | [Always On the Run](https://open.spotify.com/track/1WuqCvOaCVDgbu12AROnCr) | [Yuksek](https://open.spotify.com/artist/2ePIzx9NjxplS724QMZtsf) | [Living On The Edge Of Time](https://open.spotify.com/album/3BBzKiwVV4TI94yWwL8ICg) | 3:43 |
 | 11 | [Two Thousand and Seventeen](https://open.spotify.com/track/2ZIaH69kaz55RM4Pjx6KXl) | [Four Tet](https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh) | [New Energy](https://open.spotify.com/album/74r6JJ97ipO0CREXP9PMqZ) | 4:12 |
 | 12 | [Blind](https://open.spotify.com/track/6EGfgNUSxVINKcmpbyssUE) | [Hercules & Love Affair](https://open.spotify.com/artist/1WHoAjAWGx5qLsgzpaOk7W) | [Hercules & Love Affair](https://open.spotify.com/album/7EMv3oMKUEpNrKFVZd1XYJ) | 6:18 |
 | 13 | [Tear You Apart](https://open.spotify.com/track/3urJUvRhgMrwydaTQFVEg9) | [She Wants Revenge](https://open.spotify.com/artist/2zRt0sfxNnqI8gLR7d8gWt) | [She Wants Revenge](https://open.spotify.com/album/0ikcvM61CScaAOSKHOralR) | 4:44 |
@@ -57,4 +57,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7xNd2fNATsx.md) - [plain]
 | 47 | [Space and the Woods \- Cenzo Townshend Mix](https://open.spotify.com/track/1ShnAaEZXE9Px2chAVLZUk) | [Late of the Pier](https://open.spotify.com/artist/5ZBQea34QfBgEDkcGEKK2b) | [Fantasy Black Channel](https://open.spotify.com/album/08MTKoAy7sggTqeQNcvDdi) | 3:43 |
 | 48 | [Dawn of the Dead](https://open.spotify.com/track/7shiQ7egWBwnPPHaX1UT83) | [Does It Offend You, Yeah?](https://open.spotify.com/artist/4bFfSfCBYpFh37ziXCSqUs) | [You Have No Idea What You're Getting Yourself Into](https://open.spotify.com/album/65KhNfhhdeIlKuT3ClZrMh) | 3:26 |
 
-Snapshot ID: `MCwxOTY3NDRlMTAxMGNmZDc5MzhjMDYxZTkwMzZmZTAxODUyMzE1ZTA5`
+Snapshot ID: `MCxkZjkyNTkxMjE3NWM0NzE0OTFjNjI0NGQ5NGJjMWU0ZmE5N2EzNjVk`

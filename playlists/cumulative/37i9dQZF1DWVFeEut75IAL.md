@@ -4,7 +4,7 @@
 
 > The most calming classical music.
 
-114 songs - 7 hr 7 min
+115 songs - 7 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -67,6 +67,7 @@
 | [Jesu, Joy of Man's Desiring \- Arr\. by Alexis Ffrench](https://open.spotify.com/track/75pxraYiRRhRn68Kwk4sT3) | [Alexis Ffrench](https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX) | [Peace](https://open.spotify.com/album/21STh457wYrqmeYQlW1Lvw) | 2:08 | 2023-04-14 |  |
 | [Kinderszenen, Op\. 15: Träumerei \(Arr\. Lewin for Guitar\)](https://open.spotify.com/track/2Imxyb3LiuXsDFo7Gq5YDs) | [Robert Schumann](https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ), [Miloš Karadaglić](https://open.spotify.com/artist/7jQSqBxct7Aa8b3GsZFkO4) | [Schumann: Kinderszenen, Op\. 15: Träumerei \(Arr\. Lewin for Guitar\)](https://open.spotify.com/album/3dtyRuctasvglDB28bijNg) | 3:35 | 2021-11-15 |  |
 | [La Vierge / Scene 4: The Assumption: Le dernier sommeil de la Vièrge \(The Last Sleep of the Virgin\)](https://open.spotify.com/track/0BGJjuvUKA1UqlfADE6Lyx) | [Jules Massenet](https://open.spotify.com/artist/1AoIc5YFH0aSFc4mKqBEeB), [The New Symphony Orchestra Of London](https://open.spotify.com/artist/2tXt8tQb1z7e9xrx5RWKie), [Raymond Agoult](https://open.spotify.com/artist/6vzgzz9hqA9fCrIIlGJtZb) | [Clair de Lune \- Orchestral Favourites; Waldteufel \- Waltzes](https://open.spotify.com/album/6cHVhRbxBkXYfN0Gfz9uau) | 5:02 | 2022-07-08 |  |
+| [Lily’s Lullaby](https://open.spotify.com/track/3oXl4DnBBGeGhXjHmSSMpU) | [RIOPY](https://open.spotify.com/artist/4ytDz3A9nHcVMjEbdNSKzA) | [Lily’s Lullaby](https://open.spotify.com/album/42F0b6Sj5NZ7QzRhhHRMAC) | 3:59 | 2023-10-18 |  |
 | [Lo, the full, final sacrifice, Op\. 26: Amen \- Instrumental](https://open.spotify.com/track/5776PanLfe9zLJMhDbMBgW) | [Gerald Finzi](https://open.spotify.com/artist/4CDMSd6tmH66svpunz3aWP), [Amy Dickson](https://open.spotify.com/artist/3jCy6dMGBsf8Bt8fKD11Ty), [Aurora Orchestra](https://open.spotify.com/artist/0nrZ1B05azLrMkhTOFaoGJ), [Nicholas Collon](https://open.spotify.com/artist/23qJKSvfqtc9c3VFwdEV4a) | [Introit: The Music of Gerald Finzi](https://open.spotify.com/album/7D1xCSxqiXQxbmP39RknDJ) | 2:40 | 2021-11-15 | 2022-08-02 |
 | [Losar](https://open.spotify.com/track/0bCSGdS5SRvzoz4IBTD55W) | [Joep Beving](https://open.spotify.com/artist/2VKfXEWzhUi9siHBDTI02Y) | [Losar](https://open.spotify.com/album/6Fearn2XRW9LK2WNX22FUN) | 3:41 | 2021-11-15 |  |
 | [Memories of a Promenade II](https://open.spotify.com/track/4bFdyisLdkeS7tmbAWpl13) | [Olga Scheps](https://open.spotify.com/artist/07Nqz7k5QdR10iuTJkd6Mp), [Flying Steps](https://open.spotify.com/artist/1Oi59eHWhHIuwnVaFd3M60) | [Melody](https://open.spotify.com/album/0CWT7zFSzfNHq6mkY9dZxq) | 3:26 | 2021-11-15 |  |

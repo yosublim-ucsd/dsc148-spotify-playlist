@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWX93cOoPbrf.md) - [plain]
 
 > Lo más fresco de la cosecha 2023\. Herencia de Grandes en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 788,634 likes - 75 songs - 3 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 788,848 likes - 75 songs - 3 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,7 +35,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWX93cOoPbrf.md) - [plain]
 | 25 | [La Pelinegra](https://open.spotify.com/track/5bWomDwuyuF5pfnBZtYNP0) | [La Adictiva](https://open.spotify.com/artist/49EE6lVLgU8sp7dFgPshgM), [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf) | [La Pelinegra](https://open.spotify.com/album/2YwIrnPUIEDYtFgp99HNNO) | 2:35 |
 | 26 | [El Rey Del Pop \(En Vivo\)](https://open.spotify.com/track/1D5KDcr6BB3bHtK3NiBTye) | [La Ventaja](https://open.spotify.com/artist/6tmdudtl1wM5WwTIqZX0WD), [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS), [Enigma Norteño](https://open.spotify.com/artist/3441uYrkzgTWwjXLd13R0U), [Código FN](https://open.spotify.com/artist/4A4qYy2jK9DDN1OHV0nLkH) | [La Cruda Deluxe \(En Vivo\)](https://open.spotify.com/album/7FULQRQbO2j0c3uqpr4N5u) | 3:42 |
 | 27 | [Hace Frío Aquí en la Cima](https://open.spotify.com/track/538jDVyGwrsKBWV4TjIgcL) | [Giovanny Ayala](https://open.spotify.com/artist/0OmIOUU8SceGFVrqrEm70j), [Los Dareyes De La Sierra](https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0) | [Hace Frío Aquí en la Cima](https://open.spotify.com/album/1RpdlGnhty9ymIv72o0EGw) | 2:57 |
-| 28 | [Bienvenido a la Chapiza](https://open.spotify.com/track/2THZ79y3BIdNwZM4B8EbSZ) | [Revolver Cannabis](https://open.spotify.com/artist/7a3g8JUF8iipgP1BCEsm4I), [Panchito Arredondo](https://open.spotify.com/artist/1enyvmNKgt4BIIkVnt9FAV) | [Bienvenido a la Chapiza](https://open.spotify.com/album/3rIaATmhyQCd1w6JkZVhox) | 2:55 |
+| 28 | [Bienvenido a la Chapiza \( Un Viejito en una Piedra \)](https://open.spotify.com/track/2THZ79y3BIdNwZM4B8EbSZ) | [Revolver Cannabis](https://open.spotify.com/artist/7a3g8JUF8iipgP1BCEsm4I), [Panchito Arredondo](https://open.spotify.com/artist/1enyvmNKgt4BIIkVnt9FAV) | [Bienvenido a la Chapiza \( Un Viejito en una Piedra \)](https://open.spotify.com/album/3rIaATmhyQCd1w6JkZVhox) | 2:55 |
 | 29 | [Dinero No Tenia \- En Vivo](https://open.spotify.com/track/78ZsL4i0PT5SjnB3WeXGj9) | [Codiciado](https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4) | [Dinero No Tenia \(En Vivo\)](https://open.spotify.com/album/4I4HdAzHO28j18IibnON3F) | 3:28 |
 | 30 | [Chapos y Mayos](https://open.spotify.com/track/67lfXtF0a60TDMdk8dWqcL) | [Nivel C](https://open.spotify.com/artist/0CUbRHUcHesT778ioJt9oM) | [Chapos y Mayos](https://open.spotify.com/album/5zTcZ5BivyDqlriXUm15N5) | 2:34 |
 | 31 | [Estilo Guzmán](https://open.spotify.com/track/1JGy92ftziV5hdHP0rwOwh) | [Grupo Clasificado](https://open.spotify.com/artist/5ZGrM7y0Z6yF3s9dBjHWi9), [Panchito Arredondo](https://open.spotify.com/artist/1enyvmNKgt4BIIkVnt9FAV) | [Estilo Guzmán](https://open.spotify.com/album/4WfTUStZ0n7EgeqZrcIekI) | 2:51 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWX93cOoPbrf.md) - [plain]
 | 74 | [Yo Fui El 4 De Los Antrax](https://open.spotify.com/track/6yWZvj6xQW6axcJtns5Cba) | [Grupo H\-100](https://open.spotify.com/artist/6w971ABEzbDRQVUfcbYrl9) | [Yo Fui El 4 De Los Antrax](https://open.spotify.com/album/7ygPV1gBmEI8nJinZpQ7Cn) | 3:09 |
 | 75 | [Confesiones Del RR \- En Vivo](https://open.spotify.com/track/4sNBqV3HWzYtVgNo3BmYBN) | [Jovanny Cadena Y Su Estilo Privado](https://open.spotify.com/artist/0aaYORc6Zmp1SCXhRRDwNW), [El León Y Su Gente](https://open.spotify.com/artist/4q9U0JuiWGhcZEFREIGCVH), [Máxima Ventaja](https://open.spotify.com/artist/5I8HriBeRyNsjTLSHsok0N) | [Confesiones Del RR \(En Vivo\)](https://open.spotify.com/album/4hXmypcqmI3CtGa2WVAkYr) | 3:39 |
 
-Snapshot ID: `MCw1YzkzZjNmM2U2NWU0YjY5ZjZmMDFmMzE2MDc4ODBjZTVlNDYzMjhk`
+Snapshot ID: `MCw4M2QzNDgzZWY1ZGIyMzc2YzlmNGQyYzMzMzZlMmEzMDQ1MWM2MDJj`

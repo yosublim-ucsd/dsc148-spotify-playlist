@@ -442,7 +442,7 @@
       ],
       "date_added": "2023-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-19",
       "duration_ms": 156133,
       "name": "Der Vampir",
       "url": "https://open.spotify.com/track/4FlV1Nn9kpVEJ3qprLc6Gx"
@@ -2072,6 +2072,24 @@
       "duration_ms": 127626,
       "name": "Spooky, Scary Skeletons",
       "url": "https://open.spotify.com/track/23V08GxMeaZNSf8Gy6KF6t"
+    },
+    {
+      "album": {
+        "name": "Feste feiern auf dem singenden Bauernhof",
+        "url": "https://open.spotify.com/album/4DhZY2INpjLXwEVkFFCTe9"
+      },
+      "artists": [
+        {
+          "name": "Der singende Bauernhof",
+          "url": "https://open.spotify.com/artist/1phaLooaZs3k7XOl7mCKeo"
+        }
+      ],
+      "date_added": "2023-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129578,
+      "name": "Stopptanz - Halloween Edition",
+      "url": "https://open.spotify.com/track/3UmR01DSR8hhhM6QiwhJ9y"
     },
     {
       "album": {

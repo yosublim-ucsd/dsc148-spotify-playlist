@@ -4,7 +4,7 @@
 
 > Hottest Anime tracks & best new sounds for all Anime fans! 最新アニメシーンの話題曲をまとめてお届け！Illustration by <a href="https://kazuhisauragami.com/"> Kazuhisa Uragami</a>
 
-997 songs - 2 day 14 hr 56 min
+999 songs - 2 day 15 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -257,7 +257,8 @@
 | [Jekyll & Hyde](https://open.spotify.com/track/1xqLx7C2oORUpuadeubRc0) | [EverdreaM](https://open.spotify.com/artist/41NSrch5W6mvr9t0I8oeG5) | [Jekyll & Hyde](https://open.spotify.com/album/01lFH8SjZi0IFP7qwaanut) | 4:18 | 2023-10-03 |  |
 | [Joyful](https://open.spotify.com/track/2zRLLFvhcAlfqPTt5dzd2Y) | [内田雄馬](https://open.spotify.com/artist/4VJIq1t9RJ8WBYGr2P1FwF) | [Joyful](https://open.spotify.com/album/1aB0YGK9wQktijd3N9W84d) | 3:36 | 2023-08-29 | 2023-10-04 |
 | [Judgement](https://open.spotify.com/track/1hPFCT7wqA0TOIby783Rd9) | [ASH DA HERO](https://open.spotify.com/artist/2XKXvzE0lpnqHcqu5l2lyT) | [Judgement](https://open.spotify.com/album/5cBA9ERPjJc5TgWnwiqCJf) | 3:46 | 2023-01-17 | 2023-04-12 |
-| [JUNGLE FIRE \- feat\. MOTSU](https://open.spotify.com/track/4BL09VTi2ZyAbJMlyDIWFR) | [Yu Serizawa](https://open.spotify.com/artist/0TskwVXV9CO11Gjaf8mUuP), [motsu](https://open.spotify.com/artist/0pZo9IfX38NN78vI3ru3Lk) | [JUNGLE FIRE \(feat\. MOTSU\)](https://open.spotify.com/album/20trOmP1ollBDN40BlajRV) | 4:10 | 2023-10-10 |  |
+| [JUNGLE FIRE \- feat\. MOTSU](https://open.spotify.com/track/2D8QxudJ7fEAijANn3UkQA) | [Yu Serizawa](https://open.spotify.com/artist/0TskwVXV9CO11Gjaf8mUuP), [motsu](https://open.spotify.com/artist/0pZo9IfX38NN78vI3ru3Lk) | [JUNGLE FIRE \(feat\. MOTSU\)](https://open.spotify.com/album/6xVTtIs5JaZnv6hMV1kuz8) | 4:10 | 2023-10-17 |  |
+| [JUNGLE FIRE \- feat\. MOTSU](https://open.spotify.com/track/4BL09VTi2ZyAbJMlyDIWFR) | [Yu Serizawa](https://open.spotify.com/artist/0TskwVXV9CO11Gjaf8mUuP), [motsu](https://open.spotify.com/artist/0pZo9IfX38NN78vI3ru3Lk) | [JUNGLE FIRE \(feat\. MOTSU\)](https://open.spotify.com/album/20trOmP1ollBDN40BlajRV) | 4:10 | 2023-10-10 | 2023-10-19 |
 | [Just a little bit](https://open.spotify.com/track/0C5XMxcTleuBCRE1F89AQB) | [堀内まり菜](https://open.spotify.com/artist/1vE4dMMMMjFIwC1eEMTmhP) | [Just a little bit](https://open.spotify.com/album/7rBC4zRreOc5U16g48oOnh) | 3:47 | 2023-04-11 | 2023-06-01 |
 | [Just a little bit](https://open.spotify.com/track/2JYtD7hvXIkGDlEUl7pSsa) | [堀内まり菜](https://open.spotify.com/artist/1vE4dMMMMjFIwC1eEMTmhP) | [Just a little bit](https://open.spotify.com/album/2hyCWFxpPWVoWHZSXqGOOM) | 3:47 | 2023-05-30 | 2023-06-30 |
 | [Kaerimichi no Iro](https://open.spotify.com/track/78c6wtbj63K6xdK7GOtrbt) | [Shibuya HAL](https://open.spotify.com/artist/2KCxMDtyrp9krF6gdxCNRF) | [Kaerimichi no Iro](https://open.spotify.com/album/3CNJSvUBH2vITGSpYWslA2) | 4:09 | 2022-07-28 | 2022-08-24 |
@@ -419,7 +420,8 @@
 | [RAYTRACER](https://open.spotify.com/track/2UchNlw5klrKWrenq8nFAd) | [STEREO DIVE FOUNDATION](https://open.spotify.com/artist/6yLTrq59HxfE6aTq8r4gVP) | [RAYTRACER](https://open.spotify.com/album/4PGV7wPMjgiv4j5GK7Gm8c) | 3:39 | 2023-06-29 | 2023-10-04 |
 | [Real Dawn](https://open.spotify.com/track/59R8fdA1xxNgnSLdSm9bES) | [ASCA](https://open.spotify.com/artist/5pjjlQXYjoMFWdjdKOre9s) | [Real Dawn](https://open.spotify.com/album/3OPoxNYBVO2idFWeyzO8bv) | 3:46 | 2023-01-03 | 2023-03-25 |
 | [REALiZE](https://open.spotify.com/track/4HFlBhRFp14CcbD8RReUB8) | [LiSA](https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv) | [REALiZE](https://open.spotify.com/album/5rA7l87Gxow5vfEU4tVMiG) | 3:10 | 2023-06-13 |  |
-| [Realize \- from CrosSing](https://open.spotify.com/track/25grERy2w2raPd5qhWzyR7) | [小林裕介](https://open.spotify.com/artist/6M1QTTVszNGk2QR7DlsONZ) | [Realize \- from CrosSing](https://open.spotify.com/album/2tHSxRBFRdov3CW6oHC8L5) | 4:03 | 2023-10-17 |  |
+| [Realize \- From CrosSing](https://open.spotify.com/track/45ERV2ib1M7bYkQaoma1I5) | [Yusuke Kobayashi](https://open.spotify.com/artist/6RmXHj7JiSCVZSvdsN5a10) | [Realize \- From CrosSing](https://open.spotify.com/album/7AUurGO9fs5WWPyl9B5QIH) | 4:03 | 2023-10-17 |  |
+| [Realize \- from CrosSing](https://open.spotify.com/track/25grERy2w2raPd5qhWzyR7) | [小林裕介](https://open.spotify.com/artist/6M1QTTVszNGk2QR7DlsONZ) | [Realize \- from CrosSing](https://open.spotify.com/album/2tHSxRBFRdov3CW6oHC8L5) | 4:03 | 2023-10-17 | 2023-10-19 |
 | [rebind](https://open.spotify.com/track/29TrJvPHW8SuL9Y7wg72Ui) | [TRUE](https://open.spotify.com/artist/0UwVT0iMLLAa9SUNENg4te) | [rebind](https://open.spotify.com/album/0xaMjXAT0lpUKlZ3zV691n) | 4:42 | 2023-01-10 | 2023-04-09 |
 | [RECONNECTION](https://open.spotify.com/track/048iLBE6b6aajmg74OdgJe) | [angela](https://open.spotify.com/artist/2M1CLA7j3jwJNs1s90nzdL) | [RECONNECTION](https://open.spotify.com/album/4SEmy9zV5o9BirnDSXYP4s) | 3:42 | 2023-01-10 | 2023-03-29 |
 | [RECONNECTION](https://open.spotify.com/track/443HQtfWncB04hs3wuKD01) | [angela](https://open.spotify.com/artist/2M1CLA7j3jwJNs1s90nzdL) | [RECONNECTION](https://open.spotify.com/album/7I1WR1fKmdIFkykMVDGTpA) | 3:42 | 2023-01-10 | 2023-01-12 |

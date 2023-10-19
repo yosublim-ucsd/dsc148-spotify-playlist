@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWKaOrgsY8IF.md) - [plain]
 
 > Las mejores canciones de pop latino durante el 2020\. En portada: Camilo
 
-[Spotify](https://open.spotify.com/user/spotify) - 129,784 likes - 60 songs - 3 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 129,795 likes - 60 songs - 3 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,8 +43,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWKaOrgsY8IF.md) - [plain]
 | 33 | [Sodio](https://open.spotify.com/track/7jYZU1CIruZU3puB5tiYiW) | [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB) | [SIE7E +](https://open.spotify.com/album/5LIIJcPOYm4G4mFw9ydeBE) | 3:06 |
 | 34 | [Se iluminaba](https://open.spotify.com/track/3VPOZWtj8mM89IiRNygxgS) | [Fred De Palma](https://open.spotify.com/artist/0QrUbsrL5imqntAfDl8i7q), [Ana Mena](https://open.spotify.com/artist/6k8mwkKJKKjBILo7ypBspl) | [Uebe](https://open.spotify.com/album/6ZWT9vaRmBayZ6wpm7c5Un) | 2:54 |
 | 35 | [Nada](https://open.spotify.com/track/4K8cyoCDovlc4FvtUr2Hfx) | [Cali Y El Dandee](https://open.spotify.com/artist/5DUlefCLzVRzNWaNURTFpK), [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB) | [Nada](https://open.spotify.com/album/5edB3I7c5aZj1bH2obUXne) | 2:54 |
-| 36 | [Bailemos](https://open.spotify.com/track/5EnaxC9amhXY55ezw87SL8) | [Dani Fernández](https://open.spotify.com/artist/0CVOcYvRcSvOXyuR4YGKaC) | [Incendios](https://open.spotify.com/album/2jis8I5ZUWtDqV1E0S0NgR) | 3:30 |
-| 37 | [Mañana Es Too Late](https://open.spotify.com/track/7ckO8bTkYT5YzwzwnZ6v5a) | [Jesse & Joy](https://open.spotify.com/artist/1mX1TWKpNxDSAH16LgDfiR), [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5) | [Aire \(Versión Día\)](https://open.spotify.com/album/6ra5IJfLnuwbBm8NhxA2zX) | 3:15 |
+| 36 | [Mañana Es Too Late](https://open.spotify.com/track/7ckO8bTkYT5YzwzwnZ6v5a) | [Jesse & Joy](https://open.spotify.com/artist/1mX1TWKpNxDSAH16LgDfiR), [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5) | [Aire \(Versión Día\)](https://open.spotify.com/album/6ra5IJfLnuwbBm8NhxA2zX) | 3:15 |
+| 37 | [Bailemos](https://open.spotify.com/track/5EnaxC9amhXY55ezw87SL8) | [Dani Fernández](https://open.spotify.com/artist/0CVOcYvRcSvOXyuR4YGKaC) | [Incendios](https://open.spotify.com/album/2jis8I5ZUWtDqV1E0S0NgR) | 3:30 |
 | 38 | [Pa Olvidarte \(feat\. Manuel Turizo\) \- Remix](https://open.spotify.com/track/2ktoFujjJtantyMoVdBJlX) | [ChocQuibTown](https://open.spotify.com/artist/6tkyhGe9hGI3Lcfo4gVh6Z), [Zion & Lennox](https://open.spotify.com/artist/21451j1KhjAiaYKflxBjr1), [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO), [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B) | [Pa Olvidarte \(feat\. Manuel Turizo\) \[Remix\]](https://open.spotify.com/album/3ekwMnFlP79fwylU0W98m0) | 4:16 |
 | 39 | [Tiburones](https://open.spotify.com/track/1zIshc2P9l5AZsOpJWmdTM) | [Ricky Martin](https://open.spotify.com/artist/7slfeZO9LsJbWgpkIoXBUJ) | [Tiburones](https://open.spotify.com/album/5MeIHVfD8WaFm2NlkNPsCW) | 3:13 |
 | 40 | [Imposible Amor](https://open.spotify.com/track/5zRusJsWuFeLu2sICWvVDF) | [Matisse](https://open.spotify.com/artist/77aLk6J8ofnVxa1eXK9jiU), [Guaynaa](https://open.spotify.com/artist/0BqURncJM5B1BBu7UM51eq) | [Tres](https://open.spotify.com/album/0dpI4KeBTPdazVzW1paxqh) | 3:08 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWKaOrgsY8IF.md) - [plain]
 | 59 | [Me Equivocaré](https://open.spotify.com/track/4500Dr4dVfnQiMjaTC4oIq) | [Antonio José](https://open.spotify.com/artist/1dbp04JzZ81JXlMGupCnJ8) | [Me Equivocaré](https://open.spotify.com/album/3kJtYTn44STQqsO6A1vF2b) | 2:32 |
 | 60 | [Conocerte](https://open.spotify.com/track/1U4xYstX4dcJbjlGZ3sQy9) | [Paty Cantú](https://open.spotify.com/artist/7K9rdoOJSiKXoVXPlSkGKT) | [La Mexicana](https://open.spotify.com/album/3jvseqHtHdkQXMWDjsoT4C) | 2:56 |
 
-Snapshot ID: `MCw4NzM2NDgzZDI5MjQ4YzhjZjkxZGM5ZmM0YzJlNDk2YjVhZWE4ZGMw`
+Snapshot ID: `MCxlZGFlMGIyYWM4OTc5MzJlYzhiYjBiNDYxNmExYzRhYjVmYTA3NTUw`

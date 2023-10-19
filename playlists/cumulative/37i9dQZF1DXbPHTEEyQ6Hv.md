@@ -4,7 +4,7 @@
 
 > A calm and relaxing Christmas piano soundtrack for the Holidays
 
-149 songs - 5 hr 33 min
+152 songs - 5 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,6 +35,7 @@
 | [A Cradle in Bethlehem](https://open.spotify.com/track/2Jpfg8Ad1ETuHtOgmUXIb7) | [Amy Krampf](https://open.spotify.com/artist/0XSMCDhwttU0Drh3z9Gk0i) | [A Cradle in Bethlehem](https://open.spotify.com/album/0VOw1vFXbhrB5E5XbRq0MU) | 3:17 | 2021-12-14 |  |
 | [A Holly Jolly Christmas](https://open.spotify.com/track/7nH4hOiwPlutDW9qw0hBhs) | [Rita May](https://open.spotify.com/artist/7aHv2HgCuDTe3VU99UWkLm) | [A Holly Jolly Christmas](https://open.spotify.com/album/1oViorTcTSGZzAxFVMA5Au) | 3:08 | 2021-12-14 |  |
 | [Abide With Me](https://open.spotify.com/track/1z61CCMFv15IskuobYa1PZ) | [Steinar Lugn](https://open.spotify.com/artist/4t0C7gwYJn7VTcCU5os2m1) | [Abide With Me](https://open.spotify.com/album/7JrbfoEAciipmoxUzvp9zx) | 2:46 | 2023-10-03 |  |
+| [All I Want For Christmas \(Is My Two Front Teeth\)](https://open.spotify.com/track/19HFJbFIXHqnKx2bGs2CpM) | [Serenata Moss](https://open.spotify.com/artist/3W4A8cV0hV5vutTRDgWuMi) | [All I Want For Christmas \(Is My Two Front Teeth\)](https://open.spotify.com/album/1NwSAwzqZ2YMCCg0HTrUJ8) | 3:18 | 2023-10-18 |  |
 | [All I Want for Christmas Is You](https://open.spotify.com/track/44UxMZm026GEwmv3kLwJO8) | [Carina Sanches Fajardo](https://open.spotify.com/artist/2vkFC7073df7wWAdbdKZHe) | [All I Want for Christmas Is You](https://open.spotify.com/album/0DbmJx7EbFtHvX7DVnpwTJ) | 3:36 | 2021-12-14 | 2022-10-15 |
 | [All I Want for Christmas is You](https://open.spotify.com/track/4K87zsyimy9SQdwCFkV1w5) | [Paul Barber](https://open.spotify.com/artist/0jqwKxinI8GMRsHUn8xg8e) | [Christmas Classics](https://open.spotify.com/album/4fVf2Q2pChGdysRejDKd4E) | 1:49 | 2022-10-14 | 2023-09-27 |
 | [Amazing Grace](https://open.spotify.com/track/5o4iMbbgXDeBiQSCp8Tiuu) | [Lena Terne](https://open.spotify.com/artist/0GjoEUgHE1zBQ591fbqqZg) | [Amazing Grace](https://open.spotify.com/album/1YLi7u0pZkzyQ20IN2Er7B) | 2:20 | 2023-10-03 |  |
@@ -68,7 +69,8 @@
 | [Fairytale of New York](https://open.spotify.com/track/3KOJjkgH7r5nHamhCAmmb5) | [Kevin Duncan](https://open.spotify.com/artist/2Kg6QagAYT2ttYNxWnlADj) | [Christmas at the Piano](https://open.spotify.com/album/3YrqmcMeScUTkGq0wGT5IE) | 3:33 | 2021-12-14 | 2023-09-27 |
 | [Feels Like Christmas](https://open.spotify.com/track/2TUxiQHM6JocQHuwBaLzKc) | [Ido Mann](https://open.spotify.com/artist/6e05PHr5LS2M4fm6P7ClAz) | [Ido Mann](https://open.spotify.com/album/4qlZCXAc5E4hcpi2y7tkB5) | 3:17 | 2021-12-14 |  |
 | [Frost](https://open.spotify.com/track/0dJ2ybe4xFAFc8jXwUVNjg) | [Gabríel Ólafs](https://open.spotify.com/artist/1vYrIm6O7VtBGszIWe75mB) | [Frost](https://open.spotify.com/album/4gn0GVFZ6ckwtHYuu6SKpH) | 2:05 | 2022-11-09 |  |
-| [Frosty the Snowman](https://open.spotify.com/track/5OHltEpNbPgAL86eI75kQ8) | [Marvin Simmons](https://open.spotify.com/artist/6K3rVk2qB0yKO8ToZnovWf) | [I'll Be Home For Christmas](https://open.spotify.com/album/1UImeaHyAC0r6MKa4Pt2XD) | 2:03 | 2022-10-14 |  |
+| [Frosty the Snowman](https://open.spotify.com/track/64sp1vbfMJpq58nOsVvKp3) | [Avery Tormichael](https://open.spotify.com/artist/6XlTCj3XJ2exhVk2rW5JbL) | [Frosty the Snowman](https://open.spotify.com/album/6ZvEgjDE8TaK2Yp6n3PWSn) | 2:09 | 2023-10-18 |  |
+| [Frosty the Snowman](https://open.spotify.com/track/5OHltEpNbPgAL86eI75kQ8) | [Marvin Simmons](https://open.spotify.com/artist/6K3rVk2qB0yKO8ToZnovWf) | [I'll Be Home For Christmas](https://open.spotify.com/album/1UImeaHyAC0r6MKa4Pt2XD) | 2:03 | 2022-10-14 | 2023-10-19 |
 | [Frosty The Snowman](https://open.spotify.com/track/79lnb9bOb8UgrBeEkq4Ahj) | [Michiko Mullins](https://open.spotify.com/artist/0kZcnLHQCIufaWOKpac6ZG) | [Light The Candles](https://open.spotify.com/album/1iAiCpBrkkToAoC7CU1Ed9) | 1:27 | 2021-12-14 | 2022-10-15 |
 | [Give Love on Christmas Day](https://open.spotify.com/track/3HR02rSU7gsGvtvOijzty3) | [Bernard Dubicki](https://open.spotify.com/artist/60QFQacfasWbiKf5lZgRqZ) | [Give Love on Christmas Day](https://open.spotify.com/album/1HBIv61a3Oie3DC7BhAFoS) | 2:45 | 2022-10-14 |  |
 | [Give Love on Christmas Day](https://open.spotify.com/track/64VkI9dx66GrIcwj8lDb8P) | [Isabela Melo Costa](https://open.spotify.com/artist/2QcfCMYWQ50ISAEoJtF6do) | [Give Love on Christmas Day](https://open.spotify.com/album/2ERBsWT5cM4d943Qg4CBtb) | 2:42 | 2021-12-14 | 2022-10-15 |
@@ -98,7 +100,8 @@
 | [If We Make it Through December](https://open.spotify.com/track/0WcqzJx3kzikRLbwfAQCXd) | [Algot Wiland](https://open.spotify.com/artist/6xjC2yRJBQzqdlnSUJ6Gdv) | [If We Make it Through December](https://open.spotify.com/album/4G1fRe2v3jtqb1eL7i7gqS) | 2:18 | 2023-10-03 |  |
 | [In Christ Alone](https://open.spotify.com/track/4y9a5vXdh0RQzUqaMTX8Lz) | [Miriam Modest](https://open.spotify.com/artist/1pNPm4X2b7wMtlZ2CQQcvb) | [In Christ Alone](https://open.spotify.com/album/7E9onccxRGiLZg0o5jJsXN) | 2:43 | 2023-10-03 |  |
 | [Infant Holy, Infant Lowly](https://open.spotify.com/track/2l7i2L2XxBT0u6A2xXsIgk) | [Meghan Summers](https://open.spotify.com/artist/0SlKYnn4HjyPtY1A7wFxEF) | [Jolly Old Saint Nicholas](https://open.spotify.com/album/4GvTg3XYsZeCRicsntPr4U) | 2:11 | 2021-12-14 |  |
-| [It's Beginning To Look A Lot Like Christmas](https://open.spotify.com/track/5fdDajfA3uGOcCSrTFO0IG) | [Ciara Bess](https://open.spotify.com/artist/21mEXcNj7iVlrmlhownRpL) | [It's Beginning To Look A Lot Like Christmas](https://open.spotify.com/album/4DtAi4M7QzY2bRTTxrUnbE) | 2:34 | 2023-09-26 |  |
+| [It's Beginning To Look A Lot Like Christmas](https://open.spotify.com/track/5fdDajfA3uGOcCSrTFO0IG) | [Ciara Bess](https://open.spotify.com/artist/21mEXcNj7iVlrmlhownRpL) | [It's Beginning To Look A Lot Like Christmas](https://open.spotify.com/album/4DtAi4M7QzY2bRTTxrUnbE) | 2:34 | 2023-09-26 | 2023-10-19 |
+| [It's Beginning To Look a Lot Like Christmas](https://open.spotify.com/track/28daprnqHFLQijgiK9Sd20) | [R\. Embers](https://open.spotify.com/artist/54QslGVRhkItg40ZHxYuXF) | [It's Beginning To Look a Lot Like Christmas](https://open.spotify.com/album/4F5dl8BK5ePRNxoYKTtY5H) | 3:28 | 2023-10-18 |  |
 | [It's the Most Wonderful Time of the Year](https://open.spotify.com/track/2JPjsCvn379yvhrQ3Mdlfv) | [Chad Lawson](https://open.spotify.com/artist/72uoxerTvAd7x3cbfYmNc8) | [A Solo Piano Christmas](https://open.spotify.com/album/2bG3qQqkhWssPLeGtEwvzY) | 5:15 | 2021-12-14 |  |
 | [Jingle Bells](https://open.spotify.com/track/4E42u4CFeuIyFdaEWN7Wty) | [Brandon Mills](https://open.spotify.com/artist/0lfAQQLGm6TkTJ4JL9La2z) | [Jingle Bells](https://open.spotify.com/album/5MsKGEDUhXdPo1DirR0pa4) | 3:59 | 2021-12-14 |  |
 | [Joy To The World](https://open.spotify.com/track/3Gra28fwqeouNiY7E0u2fV) | [Isobel Watkins](https://open.spotify.com/artist/7q33Rk7eAyVKYNQ8e1yNeq) | [Joy To The World](https://open.spotify.com/album/5HIAhNoTbZvIpTlKk80CYj) | 2:27 | 2021-12-14 |  |

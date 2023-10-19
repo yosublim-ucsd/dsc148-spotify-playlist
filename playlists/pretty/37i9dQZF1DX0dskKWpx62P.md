@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0dskKWpx62P.md) - [plain]
 
 > ¡Con todo el sentimiento andino! Foto: William Luna
 
-[Spotify](https://open.spotify.com/user/spotify) - 36,747 likes - 60 songs - 4 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 36,786 likes - 60 songs - 4 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,8 +40,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0dskKWpx62P.md) - [plain]
 | 30 | [Adiós Pueblo De Ayacucho](https://open.spotify.com/track/43qqoWGmOa8UAXJZtScAfe) | [Trio Ayacucho](https://open.spotify.com/artist/3RRRYXxdsZ7IoFGDALJIA8) | [Como Siempre Con El Mayor Cariño](https://open.spotify.com/album/6wvfzD7OBcegaxiW28Q5gn) | 3:44 |
 | 31 | [Cerveza, Cerveza](https://open.spotify.com/track/2OqmtWMjw5Jm3BQxtzvMmu) | [Wendy Sulca](https://open.spotify.com/artist/3LY2cnBt6jqLEdJco5NBE2) | [Papito Por Qué Me Dejaste..!](https://open.spotify.com/album/210Yb6y0gEDDRZd8EM3pAc) | 4:34 |
 | 32 | [Río Mantaro](https://open.spotify.com/track/3IOnWo0h8Vl0VrQKhOQmLj) | [Los Pacharacos](https://open.spotify.com/artist/1zo4zNnsG4FZjK7OFqvDLW) | [Los Pacharacos](https://open.spotify.com/album/5r2IZe4Ce9ozJ1lcBU9iAZ) | 2:57 |
-| 33 | [Challwaschallay](https://open.spotify.com/track/2n7NBbbEIyUo9tNZ963ivB) | [Los Apus](https://open.spotify.com/artist/0AFZV1o9URU4250NqeLuvf) | [El Imperio de los Apus](https://open.spotify.com/album/0rrBats1rpEHyynw5YETSH) | 4:14 |
-| 34 | [Después de Mi Qué Importa](https://open.spotify.com/track/0kGI5wzDxnh8sz42sb9H7g) | [Raúl Arquínigo](https://open.spotify.com/artist/0Fai0nBdLeTWPHpSMeVzfO) | [Bodas de Plata: Concierto en Vivo](https://open.spotify.com/album/0PpRiM2ur6dZKZ48z5e5te) | 3:57 |
+| 33 | [Después de Mi Qué Importa](https://open.spotify.com/track/0kGI5wzDxnh8sz42sb9H7g) | [Raúl Arquínigo](https://open.spotify.com/artist/0Fai0nBdLeTWPHpSMeVzfO) | [Bodas de Plata: Concierto en Vivo](https://open.spotify.com/album/0PpRiM2ur6dZKZ48z5e5te) | 3:57 |
+| 34 | [Challwaschallay](https://open.spotify.com/track/2n7NBbbEIyUo9tNZ963ivB) | [Los Apus](https://open.spotify.com/artist/0AFZV1o9URU4250NqeLuvf) | [El Imperio de los Apus](https://open.spotify.com/album/0rrBats1rpEHyynw5YETSH) | 4:14 |
 | 35 | [Flor de Retama](https://open.spotify.com/track/44xGBoSZ8S98X3LzgUyuWK) | [Duo Retama](https://open.spotify.com/artist/12lOCts9qQhJiDDHEnao75) | [Wistu Vida](https://open.spotify.com/album/6Ow5JgeHaoriAgtP9jbDMU) | 6:28 |
 | 36 | [Valicha](https://open.spotify.com/track/1RxVbw47XHuwtibKprzX3I) | [Sentimiento Andino](https://open.spotify.com/artist/24ekejeYKRsI7YE26PczBs) | [Caminando Y Cantando](https://open.spotify.com/album/5qiNMwmbj1mzo925QVkHGI) | 3:35 |
 | 37 | [El Pio, Pio](https://open.spotify.com/track/2r9yZQgAutifXWUfefnUnz) | [Eusebio "Chato" Grados](https://open.spotify.com/artist/6zgB4oxPALPaoxlCPkvj32) | [Huaylash Pio Pio](https://open.spotify.com/album/2baljY40vl4lfiDbQ3e7OO) | 3:39 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0dskKWpx62P.md) - [plain]
 | 59 | [Un Pasajero en Tú Camino](https://open.spotify.com/track/3LZccAbS0T0UdH661mUno3) | [Proyección](https://open.spotify.com/artist/119DPASXtwEkIiAoRSOUR8) | [La Nueva Expresión del Folklore de Bolivia](https://open.spotify.com/album/0X1nBJpPBaIT8mFh0XnBoU) | 4:00 |
 | 60 | [La Cornuda](https://open.spotify.com/track/6OzTUt05pxFJAFJjGPxqU5) | [Pumita Cazador](https://open.spotify.com/artist/09c8HpNqJEMBl1bopgRqks) | [Soy Provinciano](https://open.spotify.com/album/1Ry5eqjZbUnnqgsEsUCQjt) | 5:40 |
 
-Snapshot ID: `MCw0NmFlMTM3YzRkNzRhN2M1NWE5N2JjYzVlNWMwNjgzYTBlMWQ3NmZl`
+Snapshot ID: `MCwwZjVlNTQ1MzZkNjVmNGY5ZDlkZDBlNmY4ZTQxODg1NTNhZDA2N2E0`

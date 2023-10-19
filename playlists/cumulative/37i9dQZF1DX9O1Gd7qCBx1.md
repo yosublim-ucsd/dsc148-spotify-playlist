@@ -4,7 +4,7 @@
 
 > Para honrar a los muertos con el más sublime placer terrenal.
 
-126 songs - 7 hr 52 min
+127 songs - 7 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,7 +34,7 @@
 | [Descansando](https://open.spotify.com/track/3QXBaUQ8iwP2WI1GpQIP18) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt) | [Descansando](https://open.spotify.com/album/4n05Mdr8HuetVr4V6TWnWI) | 3:45 | 2021-11-01 |  |
 | [Destino](https://open.spotify.com/track/78KzU9VKRmDrEO6EvZlQRG) | [Ana Gabriel](https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe) | [Lo Esencial De Ana Gabriel](https://open.spotify.com/album/2bdaZKWu05LqbN8OwJtuPZ) | 3:59 | 2021-11-01 |  |
 | [Décimas a La Muerte](https://open.spotify.com/track/3Qg17l5FX1OxStkPDLp2i5) | [Astrid Hadad](https://open.spotify.com/artist/5UwFR1nHrA40JVhsZsI0i3) | [Vivir Muriendo](https://open.spotify.com/album/19X1XEM2hrbn7FNX3cyfP1) | 3:58 | 2021-11-01 |  |
-| [Dia De Los Muertos](https://open.spotify.com/track/3UTwxVRAc1mUOAbqxWqbl1) | [El Haru Kuroi](https://open.spotify.com/artist/683Jz9L8U9Ba2lGOBuRgj8) | [Sabung](https://open.spotify.com/album/2qOJpwhMowXGwlNVoBKVfA) | 3:10 | 2021-11-01 |  |
+| [Dia De Los Muertos](https://open.spotify.com/track/3UTwxVRAc1mUOAbqxWqbl1) | [El Haru Kuroi](https://open.spotify.com/artist/683Jz9L8U9Ba2lGOBuRgj8) | [Sabung](https://open.spotify.com/album/2qOJpwhMowXGwlNVoBKVfA) | 3:10 | 2021-11-01 | 2023-10-19 |
 | [Dios nunca muere](https://open.spotify.com/track/6mIjLHD3t1bcsUwQjyh4wn) | [Pedro Infante](https://open.spotify.com/artist/7y33enVLfDvft6HGNmcxdV) | [Inmortales de Pedro Infante \(USA\)](https://open.spotify.com/album/4ZMUQuAe77nOQXZ6aIoMg8) | 2:45 | 2021-11-01 |  |
 | [Don Diablo](https://open.spotify.com/track/0imrhMFOWQ9XYDCnLfecYV) | [Miguel Bosé](https://open.spotify.com/artist/7mWCSSOYqm4E9mB7V4ot6S) | ["Miguel"](https://open.spotify.com/album/6Xo9GlYWbxSTZn0KI7l7Gb) | 3:47 | 2021-11-01 |  |
 | [Drácula, Calígula, Tarántula](https://open.spotify.com/track/4ifPUlltadf0iiL8p6YdFV) | [31 Minutos](https://open.spotify.com/artist/1EgVsKobLzbNgILxx9wrVG) | [Arwrarwrirwrarwro \(Banda Sonora Original de la Cuarta Temporada\)](https://open.spotify.com/album/1YeHBkb7zNMGUU4wsR19Ew) | 2:53 | 2021-11-01 |  |
@@ -48,7 +48,7 @@
 | [El Enterrador](https://open.spotify.com/track/2EI7eVHpzpB4GctbEH29WI) | [Astrid Hadad](https://open.spotify.com/artist/5UwFR1nHrA40JVhsZsI0i3) | [Vivir Muriendo](https://open.spotify.com/album/19X1XEM2hrbn7FNX3cyfP1) | 3:55 | 2021-11-01 |  |
 | [El Fantasma Enamorado](https://open.spotify.com/track/02VciW1DGSHEyxt61nMElb) | [Paté de Fuá](https://open.spotify.com/artist/188pkeHUWXnROe7lFVYRRa) | [El Tren de la Alegría](https://open.spotify.com/album/5bdtr6jYC4Lqm8gkfebEG6) | 4:22 | 2021-11-01 |  |
 | [El Funeral](https://open.spotify.com/track/61IjyAktalOHr6HpPkutRI) | [Kanaku y El Tigre](https://open.spotify.com/artist/27GzlZraldlAG0k7oBqmUS) | [Caracoles](https://open.spotify.com/album/4Q9zv0BFqFTDb3KF3ZrwJv) | 2:25 | 2021-11-01 |  |
-| [El Funeral De Tacho](https://open.spotify.com/track/0xruZEA0OwFm8B6J1LnABD) | [Rana Santacruz](https://open.spotify.com/artist/7gZ8QMSrZHEepUJBqdg1Y1) | [Chicavasco](https://open.spotify.com/album/4xBpsjQYsGbGbN2cX3DilI) | 4:14 | 2021-11-01 | 2023-10-07 |
+| [El Funeral De Tacho](https://open.spotify.com/track/0xruZEA0OwFm8B6J1LnABD) | [Rana Santacruz](https://open.spotify.com/artist/7gZ8QMSrZHEepUJBqdg1Y1) | [Chicavasco](https://open.spotify.com/album/4xBpsjQYsGbGbN2cX3DilI) | 4:14 | 2021-11-01 |  |
 | [El Jinete](https://open.spotify.com/track/3SV4KyLigqwMsbuEUDRvF3) | [José Alfredo Jimenez](https://open.spotify.com/artist/2T06whb4s6UiufL1j5Qtz9) | [Sus Grandes Corridos y Rancheras](https://open.spotify.com/album/3smCO3bWe2bjBkMNt3UL1V) | 2:52 | 2021-11-01 | 2023-06-01 |
 | [El Ultimo Beso](https://open.spotify.com/track/7raBju70gLsxnEJxAWRg8V) | [Los Apson](https://open.spotify.com/artist/63MoX25vZtzCSTvRFkAsnW) | [El Ultimo Beso](https://open.spotify.com/album/5uJpqm7QRlk7YDAB6gFFUl) | 2:44 | 2021-11-01 |  |
 | [Era Mi Abuelo](https://open.spotify.com/track/6fCvxTPA1u5ov55svizA97) | [El David Aguilar](https://open.spotify.com/artist/4exC9EVGcJb6F33htBWbkk) | [Siguiente](https://open.spotify.com/album/1Px6ATcmtKsrP7WAKmbch3) | 3:24 | 2021-11-01 | 2023-10-13 |
@@ -91,6 +91,7 @@
 | [Mis Muertos](https://open.spotify.com/track/4D96nwMFxCAHAg7xAokRdi) | [Julieta Venegas](https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm) | [La Enamorada](https://open.spotify.com/album/0wixYeQxrkuwg0bzGDjtwu) | 2:21 | 2021-11-01 |  |
 | [Mis Muertos](https://open.spotify.com/track/7hHqwnpLHCILZxF9mmSSqI) | [Julieta Venegas](https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm) | [La Enamorada](https://open.spotify.com/album/3unTf9Fint6gmlFkgA17em) | 2:21 | 2021-11-01 | 2023-07-07 |
 | [Monton de Tierra](https://open.spotify.com/track/3LIXKvAKTFn0n8nnDaGevA) | [Regina Orozco](https://open.spotify.com/artist/6EBTfrUBSr4Bv3sSkIOyfM) | [Rosa Mexicano](https://open.spotify.com/album/2vpRcljD0QFlLlgxbs2Fkw) | 2:44 | 2021-11-01 |  |
+| [Morir en Paz](https://open.spotify.com/track/2R5tHhHmGxhbrvOpoDluqr) | [Susana Harp](https://open.spotify.com/artist/6w8n4eJyKefJUTK66Miloo) | [Ahora](https://open.spotify.com/album/02QQSaeRpqQrmNkJS6V4Xs) | 6:34 | 2023-10-12 |  |
 | [Morir Soñando](https://open.spotify.com/track/63dcYPuE3PEauC0t480FKn) | [Mariachi Nuevo Tecalitlan](https://open.spotify.com/artist/3KtTHCjZygtJHbR1yI2ugS) | [Dia de los Muertos \(Con Mariachi\)](https://open.spotify.com/album/2jhrvg3VaRCvGwEvhLLsmw) | 3:40 | 2021-11-01 | 2023-09-20 |
 | [Moños Negros](https://open.spotify.com/track/1DAIPsYEXEOaOlJaG8Lv0w) | [Los Dos Carnales](https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3) | [Moños Negros](https://open.spotify.com/album/5amUm1QKYdr7cW3T4uoUX9) | 3:22 | 2021-11-01 |  |
 | [Muerte](https://open.spotify.com/track/5DWOuxRP9nHMoozf9NPlxA) | [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp) | [De Todas las Flores](https://open.spotify.com/album/4BJoDX0fIjR4RsFF4vyd81) | 5:49 | 2023-10-10 |  |
@@ -131,7 +132,7 @@
 | [Un Alma En Pena](https://open.spotify.com/track/6LUsEtfv5RsUmJdhY2VNsS) | [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr) | [Mon Laferte \(Vol\. 1\)](https://open.spotify.com/album/5sG9v1V0gjNbQQiXkYKWe0) | 2:22 | 2021-11-01 |  |
 | [Uy que miedo](https://open.spotify.com/track/1PsMejyv5k5cS24FNDuYy2) | [Chico Che y La Crisis](https://open.spotify.com/artist/36OebUTEGjxsjUnpQhnmHm) | [El Ritmo De Chico Che Y La Crisis](https://open.spotify.com/album/6oaUkOuzi3a61cT7hPnKKU) | 2:52 | 2021-11-01 |  |
 | [Vamos a Morir](https://open.spotify.com/track/0BA4HUmlKMHeG0k2kK2fRB) | [Paté de Fuá](https://open.spotify.com/artist/188pkeHUWXnROe7lFVYRRa), [Catalina García](https://open.spotify.com/artist/2eWiATMtcOCS8vAjRJp9iY) | [Película Muda \(Primera Parte\)](https://open.spotify.com/album/5I9EFpVPS5zmlzzqvWcCaC) | 3:55 | 2021-11-01 |  |
-| [Vengan Abuelitos](https://open.spotify.com/track/7tIj0Jv4PUgfdWUSCfzfgh) | [Tzotzollin](https://open.spotify.com/artist/2bO4AJkMVzTJHpo3HbxtGx) | [Mexihkateokwikameh, Sacred Songs Of The Aztecs](https://open.spotify.com/album/2AlrMT4U2E0P5MkeCz8oMt) | 2:11 | 2021-11-01 |  |
+| [Vengan Abuelitos](https://open.spotify.com/track/7tIj0Jv4PUgfdWUSCfzfgh) | [Tzotzollin](https://open.spotify.com/artist/2bO4AJkMVzTJHpo3HbxtGx) | [Mexihkateokwikameh, Sacred Songs Of The Aztecs](https://open.spotify.com/album/2AlrMT4U2E0P5MkeCz8oMt) | 2:11 | 2021-11-01 | 2023-10-19 |
 | [Viene la Muerte Echando Rasero](https://open.spotify.com/track/2hZCHreC8l4yWdL9cTvACY) | [Lila Downs](https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP) | [Balas y Chocolate](https://open.spotify.com/album/0o0Z1UdNywJkrcEKpqgcNq) | 4:00 | 2021-11-01 |  |
 | [Y Tu Sombra](https://open.spotify.com/track/6p7wL9H4f4eKkdma5oZcej) | [Gaby Moreno](https://open.spotify.com/artist/0K9pSmFx0kWESA9jqx8aCW) | [Illustrated Songs](https://open.spotify.com/album/3znNEiVi6CdKznkpnVpz0s) | 2:50 | 2021-11-01 | 2023-10-13 |
 

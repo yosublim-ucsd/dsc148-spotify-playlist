@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSWHOzidsSnO.md) - [plain]
 
 > ¡Mujeres de los Andes, a todo volumen! En portada Briella.
 
-[Spotify](https://open.spotify.com/user/spotify) - 52,877 likes - 75 songs - 4 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 52,891 likes - 75 songs - 4 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Solo Tú](https://open.spotify.com/track/1rJih4t89dT4Dm3tp9Qiwd) | [Briella](https://open.spotify.com/artist/3ef240gIQOpOu1OaPNYF2b) | [Solo Tú](https://open.spotify.com/album/2TH7K9IjW8CmSvHddf3cyT) | 3:12 |
+| 1 | [SOLO TÚ](https://open.spotify.com/track/1rJih4t89dT4Dm3tp9Qiwd) | [Briella](https://open.spotify.com/artist/3ef240gIQOpOu1OaPNYF2b) | [SOLO TÚ](https://open.spotify.com/album/2TH7K9IjW8CmSvHddf3cyT) | 3:12 |
 | 2 | [TQG](https://open.spotify.com/track/0DWdj2oZMBFSzRsi2Cvfzf) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla), [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [MAÑANA SERÁ BONITO](https://open.spotify.com/album/4kS7bSuU0Jm9LYMosFU2x5) | 3:17 |
 | 3 | [A Fuego](https://open.spotify.com/track/2OBDbcbEoulxcvV7VIJVLu) | [Farina](https://open.spotify.com/artist/7cYik4OyfBXYV5Z2TI7p90) | [A Fuego](https://open.spotify.com/album/3rMdauQMPRGqfX7GeNIlRO) | 3:08 |
 | 4 | [Si Dios Perdona](https://open.spotify.com/track/1RtvzGGRmDnATLCd3HrTFT) | [Juliana](https://open.spotify.com/artist/5Mc6124m8waYCvdYLyM8CY), [Pipe Bueno](https://open.spotify.com/artist/4RXxwBtdt6k1YNyyAyiOng) | [Si Dios Perdona](https://open.spotify.com/album/70fClqkoidHfZivofJHZmc) | 3:00 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSWHOzidsSnO.md) - [plain]
 | 74 | [El Favorcito](https://open.spotify.com/track/4nHJp4ynAQQZgSlurkpBen) | [La Muchacha](https://open.spotify.com/artist/74IAICxWfYBsjabuEbKQXV) | [Canciones Crudas](https://open.spotify.com/album/047ARD5KCqUWxg11bIll8Q) | 3:28 |
 | 75 | [Cubeta](https://open.spotify.com/track/1JDoIz8IWcNubVpKW2hXIR) | [Mayte Montero](https://open.spotify.com/artist/2Z3ytThcszxwnP0nR6ZafC) | [Cubeta](https://open.spotify.com/album/2pTRMkCYKcwVilF1OkC9il) | 3:40 |
 
-Snapshot ID: `MCw4YmFkMTRjYTcxMGUxMTQwYWRhOTNlYjRmYjQ2YzRjMTA5Yzk0NDZh`
+Snapshot ID: `MCxjZDc2Yjc5ZDkzMzM4ZTFiZTgzNjU3MjQyYjAyM2E0NjJmN2IwZDcx`

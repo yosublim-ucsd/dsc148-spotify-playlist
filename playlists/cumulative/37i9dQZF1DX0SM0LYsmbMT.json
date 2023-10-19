@@ -6205,6 +6205,24 @@
     },
     {
       "album": {
+        "name": "Bijou",
+        "url": "https://open.spotify.com/album/6kYmzim3fPG14rRJIvNyQt"
+      },
+      "artists": [
+        {
+          "name": "LESKY",
+          "url": "https://open.spotify.com/artist/7eMZ8gfgZq14cbSR52vBy6"
+        }
+      ],
+      "date_added": "2023-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128936,
+      "name": "Bijou",
+      "url": "https://open.spotify.com/track/5FOm0yvezkB4cIekMczpql"
+    },
+    {
+      "album": {
         "name": "Binge Watching",
         "url": "https://open.spotify.com/album/0bz7Alo97loyk9LhWA12GL"
       },
@@ -45471,6 +45489,24 @@
     },
     {
       "album": {
+        "name": "Ocean Cove",
+        "url": "https://open.spotify.com/album/2i4JryyVYAglE28hIPWOH9"
+      },
+      "artists": [
+        {
+          "name": "sloh rou",
+          "url": "https://open.spotify.com/artist/0D4FGltctqk7z1BdC1088j"
+        }
+      ],
+      "date_added": "2023-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118535,
+      "name": "Ocean Cove",
+      "url": "https://open.spotify.com/track/3vgNDsgsE9pyk9pGY2W5zv"
+    },
+    {
+      "album": {
         "name": "Discover",
         "url": "https://open.spotify.com/album/7dYAZ8GwqolvrrGPceaxHW"
       },
@@ -48346,7 +48382,7 @@
       ],
       "date_added": "2023-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-19",
       "duration_ms": 111769,
       "name": "Pastel",
       "url": "https://open.spotify.com/track/2Um7BkrUOgmjtoXh0HsA7f"
@@ -69738,7 +69774,7 @@
       ],
       "date_added": "2023-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-19",
       "duration_ms": 241768,
       "name": "Visions",
       "url": "https://open.spotify.com/track/7duVrXubPRWTCg5Ezy5cQF"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb6ejV2Sv22Q.md) - [plain]
 
 > y kn m quida no duerme viejo de los korridones q traemos totalment n vivo y markele kmpa tolo watata watata
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,002 likes - 60 songs - 2 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,086 likes - 60 songs - 2 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,16 +57,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb6ejV2Sv22Q.md) - [plain]
 | 47 | [Tatuajes \- Deluxe](https://open.spotify.com/track/2b4YJ0j60w3YPIFot0oodu) | [Ivan Cornejo](https://open.spotify.com/artist/6PH3FLQAxtqYy46Zv08bpV) | [Dañado \(Deluxe\)](https://open.spotify.com/album/7dFnP4kqkS8va6P0UiVKaW) | 3:18 |
 | 48 | [Ya No Me Preocupo](https://open.spotify.com/track/0rfNRGojD9WukEeeL54Hct) | [Herencia de Patrones](https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6), [Los Del Puerto](https://open.spotify.com/artist/00yQbObT5JJf3n8RO9476e) | [Para Los Que Conocen El Rollo](https://open.spotify.com/album/6mru0SSKCLIY91sdcYjEWH) | 3:15 |
 | 49 | [Aquella Noche](https://open.spotify.com/track/5H71u2ItpVo99e5KbLEvX9) | [Bardero$](https://open.spotify.com/artist/5Q2fyL2TcdUY9IqKTkGk5G) | [Inmortales](https://open.spotify.com/album/4EYOgNTo3rdmsmZaQSFbmV) | 3:10 |
-| 50 | [Skibidi Bop Yes Yes](https://open.spotify.com/track/6ESCxPoeASy9bMyRlk6tyu) | [Aesthetic](https://open.spotify.com/artist/4l2S0sGjHE283lwIqjeAU6) | [Skibidi Bop Yes Yes](https://open.spotify.com/album/1DfZkN4JZsBPJayfKTbsQg) | 2:02 |
-| 51 | [Tu Si Eres Real](https://open.spotify.com/track/201ssZsPpsLtX96LLGgPwQ) | [Kevin Kaarl](https://open.spotify.com/artist/6OBGbSaBUvQtk9wpQfDbOE) | [San Lucas](https://open.spotify.com/album/5I20nnpF2Jj6GjUFsk9EG1) | 3:30 |
-| 52 | [Que Te Vas](https://open.spotify.com/track/5YgpBbSqDc50OOVDahLoJZ) | [T3R Elemento](https://open.spotify.com/artist/34nbQa7Hug9DYkRJpfKNFv) | [Our Wave Nuestra Ola](https://open.spotify.com/album/7k3KEedw9YYKrgSrIKknuo) | 3:26 |
-| 53 | [Que Se Yo](https://open.spotify.com/track/3rKZuDrVxEcHLcHwIp2I2z) | [La Santa Grifa](https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A) | [Que Se Yo](https://open.spotify.com/album/29GPy18nuDwaIBrlwxZsGK) | 3:25 |
-| 54 | [El Dueño De Tu Amor](https://open.spotify.com/track/3CJaDcjZKse7X7eVUukQJB) | [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK) | [Las Dos Caras Del Amor](https://open.spotify.com/album/6obhr3xfkuIYkwvEukc2y2) | 3:45 |
+| 50 | [Tu Si Eres Real](https://open.spotify.com/track/201ssZsPpsLtX96LLGgPwQ) | [Kevin Kaarl](https://open.spotify.com/artist/6OBGbSaBUvQtk9wpQfDbOE) | [San Lucas](https://open.spotify.com/album/5I20nnpF2Jj6GjUFsk9EG1) | 3:30 |
+| 51 | [Que Te Vas](https://open.spotify.com/track/5YgpBbSqDc50OOVDahLoJZ) | [T3R Elemento](https://open.spotify.com/artist/34nbQa7Hug9DYkRJpfKNFv) | [Our Wave Nuestra Ola](https://open.spotify.com/album/7k3KEedw9YYKrgSrIKknuo) | 3:26 |
+| 52 | [Que Se Yo](https://open.spotify.com/track/3rKZuDrVxEcHLcHwIp2I2z) | [La Santa Grifa](https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A) | [Que Se Yo](https://open.spotify.com/album/29GPy18nuDwaIBrlwxZsGK) | 3:25 |
+| 53 | [El Dueño De Tu Amor](https://open.spotify.com/track/3CJaDcjZKse7X7eVUukQJB) | [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK) | [Las Dos Caras Del Amor](https://open.spotify.com/album/6obhr3xfkuIYkwvEukc2y2) | 3:45 |
+| 54 | [Ciudad Gris](https://open.spotify.com/track/74oRVj4gRTVVFUVwTXAEl6) | [C.R.O](https://open.spotify.com/artist/4puAp107dCehraE47QXVQX) | [C.R.O \- Rock](https://open.spotify.com/album/6vOPEgatfAYa5TSq2PaCNu) | 3:28 |
 | 55 | [Estás en Mí Pasado](https://open.spotify.com/track/6ztAOF9gzTWhF4IHW0Sclj) | [Ivan Cornejo](https://open.spotify.com/artist/6PH3FLQAxtqYy46Zv08bpV) | [Alma Vacía](https://open.spotify.com/album/4DmITPOATTsiWEWtJrPqkk) | 3:57 |
-| 56 | [Ciudad Gris](https://open.spotify.com/track/74oRVj4gRTVVFUVwTXAEl6) | [C.R.O](https://open.spotify.com/artist/4puAp107dCehraE47QXVQX) | [C.R.O \- Rock](https://open.spotify.com/album/6vOPEgatfAYa5TSq2PaCNu) | 3:28 |
-| 57 | [Una Linda Mujer](https://open.spotify.com/track/3h90gypXwmPw2EclCHdfcF) | [Nivel](https://open.spotify.com/artist/5aHKxMwIrPVwy4m6FTOiXK) | [Una Linda Mujer](https://open.spotify.com/album/6IPrta7kcyyOWTQIJZWz5J) | 3:02 |
-| 58 | [160 Gramos](https://open.spotify.com/track/5jWKGPiw2PaIvOVzsqYQvv) | [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is) | [$ad Boyz 4 Life](https://open.spotify.com/album/0X24VcVf6nQJ52c5QmncsO) | 4:08 |
-| 59 | [Labios de Cereza](https://open.spotify.com/track/7s963HIFOPyhSiqt10vYFn) | [T3R Elemento](https://open.spotify.com/artist/34nbQa7Hug9DYkRJpfKNFv) | [Labios de Cereza](https://open.spotify.com/album/2LMo4r5riy5inwflDaWAKK) | 3:34 |
-| 60 | [Tonto Perdedor](https://open.spotify.com/track/67WSWDDuEEmBIXTchwACs1) | [Eslabon Armado](https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR) | [Tu Veneno Mortal, Vol\. 2](https://open.spotify.com/album/3SF8e5ewF7PaqWw6rPnfEg) | 3:22 |
+| 56 | [Una Linda Mujer](https://open.spotify.com/track/3h90gypXwmPw2EclCHdfcF) | [Nivel](https://open.spotify.com/artist/5aHKxMwIrPVwy4m6FTOiXK) | [Una Linda Mujer](https://open.spotify.com/album/6IPrta7kcyyOWTQIJZWz5J) | 3:02 |
+| 57 | [160 Gramos](https://open.spotify.com/track/5jWKGPiw2PaIvOVzsqYQvv) | [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is) | [$ad Boyz 4 Life](https://open.spotify.com/album/0X24VcVf6nQJ52c5QmncsO) | 4:08 |
+| 58 | [Tonto Perdedor](https://open.spotify.com/track/67WSWDDuEEmBIXTchwACs1) | [Eslabon Armado](https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR) | [Tu Veneno Mortal, Vol\. 2](https://open.spotify.com/album/3SF8e5ewF7PaqWw6rPnfEg) | 3:22 |
+| 59 | [A Casa Pete](https://open.spotify.com/track/3oVBLwtACAPgpmzqEC1ztX) | [Spreen](https://open.spotify.com/artist/1NIDfe1B5J1EyNiJcPZsfZ) | [A Casa Pete](https://open.spotify.com/album/42Xz6SNoG4eaGbko9JFgpd) | 1:15 |
+| 60 | [Labios de Cereza](https://open.spotify.com/track/7s963HIFOPyhSiqt10vYFn) | [T3R Elemento](https://open.spotify.com/artist/34nbQa7Hug9DYkRJpfKNFv) | [Labios de Cereza](https://open.spotify.com/album/2LMo4r5riy5inwflDaWAKK) | 3:34 |
 
-Snapshot ID: `MCxhMzgwNjFjMmEzODQ5NWZkMjBlOTY4OWVjYjY5YzkzNDU2NjEwZmUy`
+Snapshot ID: `MCxhOTVkMmMwYmM0ODI0MGNmOTQwMjIyNDU0YzcwZTY1OGZmYjNhMzc4`

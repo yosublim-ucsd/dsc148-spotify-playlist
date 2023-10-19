@@ -222,10 +222,28 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-19",
       "duration_ms": 90053,
       "name": "Beyond the Seas",
       "url": "https://open.spotify.com/track/4931hN8zaVARMSVAFN4AC0"
+    },
+    {
+      "album": {
+        "name": "HUNTER x HUNTER Original Soundtrack",
+        "url": "https://open.spotify.com/album/134vt3RPUDyjufgeUQyNPq"
+      },
+      "artists": [
+        {
+          "name": "Yoshihisa Hirano",
+          "url": "https://open.spotify.com/artist/496DwthDgbHUwWycngajrJ"
+        }
+      ],
+      "date_added": "2023-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 90120,
+      "name": "Beyond the Seas",
+      "url": "https://open.spotify.com/track/53l5ZSocXsBoycSEQtK0os"
     },
     {
       "album": {
@@ -400,6 +418,24 @@
       "duration_ms": 97840,
       "name": "Heiwa no Inori",
       "url": "https://open.spotify.com/track/7Gq8UpApEwJdOIf5K6XCJO"
+    },
+    {
+      "album": {
+        "name": "HUNTER x HUNTER Original Soundtrack",
+        "url": "https://open.spotify.com/album/134vt3RPUDyjufgeUQyNPq"
+      },
+      "artists": [
+        {
+          "name": "Yoshihisa Hirano",
+          "url": "https://open.spotify.com/artist/496DwthDgbHUwWycngajrJ"
+        }
+      ],
+      "date_added": "2023-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 89400,
+      "name": "Hiiro no Hitomi no Aika",
+      "url": "https://open.spotify.com/track/4k8qWLE0P9L9y6ZTDeQk0k"
     },
     {
       "album": {
@@ -1516,7 +1552,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-19",
       "duration_ms": 89360,
       "name": "\u7dcb\u8272\u306e\u77b3\u306e\u54c0\u6b4c",
       "url": "https://open.spotify.com/track/1irWWLOWtVG3c4GkB0lO4Q"

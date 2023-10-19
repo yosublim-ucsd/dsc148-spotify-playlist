@@ -1,12 +1,12 @@
 {
   "description": "indie tunes to make you shine bby :)",
-  "num_followers": 453273,
+  "num_followers": 453285,
   "original_name": "indie feliz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmNDQ5YTdiMzYwYzlkZTAyNWI2YTFjOTA5OGY3OTQ4MjQwYjAwMWVl",
+  "snapshot_id": "MCwyYjA3ZGFiNzQxYTQ1YzlhNThkZmYyMGNhOGYxZGY0MzU1MzA0M2Ix",
   "tracks": [
     {
       "added_at": "2023-10-06 04:00:00",
@@ -403,22 +403,6 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
-        "name": "Renacer Pt. 1",
-        "url": "https://open.spotify.com/album/6XBrUVDrCm7LK0kFgPDvva"
-      },
-      "artists": [
-        {
-          "name": "Kora",
-          "url": "https://open.spotify.com/artist/3ZxaYY2eYNWxg8v1s2k6JD"
-        }
-      ],
-      "duration_ms": 163423,
-      "name": "Marte",
-      "url": "https://open.spotify.com/track/2tKSIeksPzMglcIJVc83ID"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
         "name": "PRONTO!",
         "url": "https://open.spotify.com/album/5mcmC81PUNTwFp3YLflIzF"
       },
@@ -431,6 +415,22 @@
       "duration_ms": 208614,
       "name": "PRONTO!",
       "url": "https://open.spotify.com/track/1V1S26dHvmZXbwB6TvwXQb"
+    },
+    {
+      "added_at": "2023-10-06 04:00:00",
+      "album": {
+        "name": "Renacer Pt. 1",
+        "url": "https://open.spotify.com/album/6XBrUVDrCm7LK0kFgPDvva"
+      },
+      "artists": [
+        {
+          "name": "Kora",
+          "url": "https://open.spotify.com/artist/3ZxaYY2eYNWxg8v1s2k6JD"
+        }
+      ],
+      "duration_ms": 163423,
+      "name": "Marte",
+      "url": "https://open.spotify.com/track/2tKSIeksPzMglcIJVc83ID"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -555,18 +555,18 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
-        "name": "Un d\u00eda m\u00e1s",
-        "url": "https://open.spotify.com/album/3JqQExIwMGkaMcitZoN2TT"
+        "name": "Where Do You Go?",
+        "url": "https://open.spotify.com/album/0mgwFqh3CUu9DAX9HBvXpq"
       },
       "artists": [
         {
-          "name": "Paul Alone",
-          "url": "https://open.spotify.com/artist/6bdtalFIKenjGPCQVI2gtE"
+          "name": "Leanys",
+          "url": "https://open.spotify.com/artist/0e1Zih19iuVEnhZPOuqL9V"
         }
       ],
-      "duration_ms": 202126,
-      "name": "Un d\u00eda m\u00e1s",
-      "url": "https://open.spotify.com/track/5mXYPoqiOCab0lTbHqbYTO"
+      "duration_ms": 147067,
+      "name": "Where Do You Go?",
+      "url": "https://open.spotify.com/track/2T9810jw3SFTcQtHL89utw"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -587,18 +587,18 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
-        "name": "vivir en los dosmil",
-        "url": "https://open.spotify.com/album/0XXM9pJOGUKNJHwiLkExak"
+        "name": "Un d\u00eda m\u00e1s",
+        "url": "https://open.spotify.com/album/3JqQExIwMGkaMcitZoN2TT"
       },
       "artists": [
         {
-          "name": "Gala Nell",
-          "url": "https://open.spotify.com/artist/4CVNESQIOFNvurriZVBarY"
+          "name": "Paul Alone",
+          "url": "https://open.spotify.com/artist/6bdtalFIKenjGPCQVI2gtE"
         }
       ],
-      "duration_ms": 142439,
-      "name": "vivir en los dosmil",
-      "url": "https://open.spotify.com/track/3WUlTT5mSRZNmPfbtkvwAS"
+      "duration_ms": 202126,
+      "name": "Un d\u00eda m\u00e1s",
+      "url": "https://open.spotify.com/track/5mXYPoqiOCab0lTbHqbYTO"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -623,18 +623,18 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
-        "name": "Where Do You Go?",
-        "url": "https://open.spotify.com/album/0mgwFqh3CUu9DAX9HBvXpq"
+        "name": "vivir en los dosmil",
+        "url": "https://open.spotify.com/album/0XXM9pJOGUKNJHwiLkExak"
       },
       "artists": [
         {
-          "name": "Leanys",
-          "url": "https://open.spotify.com/artist/0e1Zih19iuVEnhZPOuqL9V"
+          "name": "Gala Nell",
+          "url": "https://open.spotify.com/artist/4CVNESQIOFNvurriZVBarY"
         }
       ],
-      "duration_ms": 147067,
-      "name": "Where Do You Go?",
-      "url": "https://open.spotify.com/track/2T9810jw3SFTcQtHL89utw"
+      "duration_ms": 142439,
+      "name": "vivir en los dosmil",
+      "url": "https://open.spotify.com/track/3WUlTT5mSRZNmPfbtkvwAS"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -707,22 +707,6 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
-        "name": "Por qu\u00e9 te quiero tanto?",
-        "url": "https://open.spotify.com/album/2zzOpbnXDcj9myQf76Fcih"
-      },
-      "artists": [
-        {
-          "name": "Paz Carrara",
-          "url": "https://open.spotify.com/artist/09mGQqsZ1C5wVCsjycNaIg"
-        }
-      ],
-      "duration_ms": 231109,
-      "name": "Por qu\u00e9 te quiero tanto?",
-      "url": "https://open.spotify.com/track/5gTFFnnIds7moFhePvYToE"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
         "name": "Mi vida en llamas (feat. Buscabulla)",
         "url": "https://open.spotify.com/album/7q70ajI1NZeBm8FIpLACy5"
       },
@@ -743,6 +727,22 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
+        "name": "Por qu\u00e9 te quiero tanto?",
+        "url": "https://open.spotify.com/album/2zzOpbnXDcj9myQf76Fcih"
+      },
+      "artists": [
+        {
+          "name": "Paz Carrara",
+          "url": "https://open.spotify.com/artist/09mGQqsZ1C5wVCsjycNaIg"
+        }
+      ],
+      "duration_ms": 231109,
+      "name": "Por qu\u00e9 te quiero tanto?",
+      "url": "https://open.spotify.com/track/5gTFFnnIds7moFhePvYToE"
+    },
+    {
+      "added_at": "2023-10-06 04:00:00",
+      "album": {
         "name": "555",
         "url": "https://open.spotify.com/album/6H5jQW4yRjWAJeFVBmEQnP"
       },
@@ -755,22 +755,6 @@
       "duration_ms": 148538,
       "name": "Easy",
       "url": "https://open.spotify.com/track/5idNzLXuETCpAYsrtHkl7g"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
-        "name": "Talk Too Much",
-        "url": "https://open.spotify.com/album/2nCLBUPR0M5n5jX0vkWN66"
-      },
-      "artists": [
-        {
-          "name": "Luna Luna",
-          "url": "https://open.spotify.com/artist/5TlEHNqVreukNnk4aj7mVr"
-        }
-      ],
-      "duration_ms": 197511,
-      "name": "Talk Too Much",
-      "url": "https://open.spotify.com/track/1klV5fgwM7BJYN01s8WYAm"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -791,6 +775,22 @@
       "duration_ms": 210763,
       "name": "NO TE ALEJES",
       "url": "https://open.spotify.com/track/4Nx5BIyMer4DjxbE5aJh1v"
+    },
+    {
+      "added_at": "2023-10-06 04:00:00",
+      "album": {
+        "name": "Talk Too Much",
+        "url": "https://open.spotify.com/album/2nCLBUPR0M5n5jX0vkWN66"
+      },
+      "artists": [
+        {
+          "name": "Luna Luna",
+          "url": "https://open.spotify.com/artist/5TlEHNqVreukNnk4aj7mVr"
+        }
+      ],
+      "duration_ms": 197511,
+      "name": "Talk Too Much",
+      "url": "https://open.spotify.com/track/1klV5fgwM7BJYN01s8WYAm"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -1055,22 +1055,6 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
-        "name": "tdbn",
-        "url": "https://open.spotify.com/album/6bdoqQybs5gW8m92VMwVPJ"
-      },
-      "artists": [
-        {
-          "name": "Bratty",
-          "url": "https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn"
-        }
-      ],
-      "duration_ms": 199173,
-      "name": "tdbn",
-      "url": "https://open.spotify.com/track/3fLmwbhdw0dgBYYSTvT3v5"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
         "name": "Puente",
         "url": "https://open.spotify.com/album/3fFFuFzU8vpMbOhxDVCzBj"
       },
@@ -1083,6 +1067,22 @@
       "duration_ms": 180746,
       "name": "Puente",
       "url": "https://open.spotify.com/track/1KmEEVfPbIfOqXdVxr8gm2"
+    },
+    {
+      "added_at": "2023-10-06 04:00:00",
+      "album": {
+        "name": "tdbn",
+        "url": "https://open.spotify.com/album/6bdoqQybs5gW8m92VMwVPJ"
+      },
+      "artists": [
+        {
+          "name": "Bratty",
+          "url": "https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn"
+        }
+      ],
+      "duration_ms": 199173,
+      "name": "tdbn",
+      "url": "https://open.spotify.com/track/3fLmwbhdw0dgBYYSTvT3v5"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -1155,22 +1155,6 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
-        "name": "Pelo Negro",
-        "url": "https://open.spotify.com/album/4SOHXDDVZCwBdnMOnuhPUD"
-      },
-      "artists": [
-        {
-          "name": "Jos Canela",
-          "url": "https://open.spotify.com/artist/7KBNdHhiXF0KWCOjEAIBie"
-        }
-      ],
-      "duration_ms": 192340,
-      "name": "Pelo Negro",
-      "url": "https://open.spotify.com/track/75VogSe1jiacHYuhJDPc9g"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
         "name": "FLOTANDO",
         "url": "https://open.spotify.com/album/2P2zEMA1YeWmLGNrxGvHBY"
       },
@@ -1183,6 +1167,22 @@
       "duration_ms": 162000,
       "name": "FLOTANDO",
       "url": "https://open.spotify.com/track/40OkDypNOibhDLHZ94bKQc"
+    },
+    {
+      "added_at": "2023-10-06 04:00:00",
+      "album": {
+        "name": "Pelo Negro",
+        "url": "https://open.spotify.com/album/4SOHXDDVZCwBdnMOnuhPUD"
+      },
+      "artists": [
+        {
+          "name": "Jos Canela",
+          "url": "https://open.spotify.com/artist/7KBNdHhiXF0KWCOjEAIBie"
+        }
+      ],
+      "duration_ms": 192340,
+      "name": "Pelo Negro",
+      "url": "https://open.spotify.com/track/75VogSe1jiacHYuhJDPc9g"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -1203,6 +1203,22 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
+        "name": "Tu Forma",
+        "url": "https://open.spotify.com/album/5C4E1kwoa7VWHEXIwdEOoK"
+      },
+      "artists": [
+        {
+          "name": "Dromedarios M\u00e1gicos",
+          "url": "https://open.spotify.com/artist/3UP83Ekm9Jse6j0dWZJlH9"
+        }
+      ],
+      "duration_ms": 154000,
+      "name": "Tu Forma",
+      "url": "https://open.spotify.com/track/6SullLVOVzuWkaCCHJhQaS"
+    },
+    {
+      "added_at": "2023-10-06 04:00:00",
+      "album": {
         "name": "Alej\u00e9monos",
         "url": "https://open.spotify.com/album/3ptNF4zl1sec0fViprKxCK"
       },
@@ -1219,22 +1235,6 @@
       "duration_ms": 165458,
       "name": "Alej\u00e9monos",
       "url": "https://open.spotify.com/track/51UK26oZlN0iHGDFz9Idkp"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
-        "name": "Tu Forma",
-        "url": "https://open.spotify.com/album/5C4E1kwoa7VWHEXIwdEOoK"
-      },
-      "artists": [
-        {
-          "name": "Dromedarios M\u00e1gicos",
-          "url": "https://open.spotify.com/artist/3UP83Ekm9Jse6j0dWZJlH9"
-        }
-      ],
-      "duration_ms": 154000,
-      "name": "Tu Forma",
-      "url": "https://open.spotify.com/track/6SullLVOVzuWkaCCHJhQaS"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -1339,22 +1339,6 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
-        "name": "CARISMA",
-        "url": "https://open.spotify.com/album/62TQ8Q7gaq5T4eUzYr3YXQ"
-      },
-      "artists": [
-        {
-          "name": "Salt Cathedral",
-          "url": "https://open.spotify.com/artist/1HhSYZFNNPTTZuOlSfZUJP"
-        }
-      ],
-      "duration_ms": 202519,
-      "name": "Te Quiero Olvidar",
-      "url": "https://open.spotify.com/track/3fQr5yEzrOis5U7klzyKql"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
         "name": "Libre",
         "url": "https://open.spotify.com/album/7oBjTSSK15OF6X5kFJJugd"
       },
@@ -1371,6 +1355,22 @@
       "duration_ms": 279840,
       "name": "Libre",
       "url": "https://open.spotify.com/track/6zmlvhQshwFBAIpOOAEVfb"
+    },
+    {
+      "added_at": "2023-10-06 04:00:00",
+      "album": {
+        "name": "CARISMA",
+        "url": "https://open.spotify.com/album/62TQ8Q7gaq5T4eUzYr3YXQ"
+      },
+      "artists": [
+        {
+          "name": "Salt Cathedral",
+          "url": "https://open.spotify.com/artist/1HhSYZFNNPTTZuOlSfZUJP"
+        }
+      ],
+      "duration_ms": 202519,
+      "name": "Te Quiero Olvidar",
+      "url": "https://open.spotify.com/track/3fQr5yEzrOis5U7klzyKql"
     },
     {
       "added_at": "2023-10-06 04:00:00",

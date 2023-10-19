@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWBHeXOYZf74.md) - [plain]
 
 > Genre\-less\. Quality first always\. Cover: Jamila Woods
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,328,873 likes - 100 songs - 5 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,328,858 likes - 100 songs - 5 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWBHeXOYZf74.md) - [plain]
 | 99 | [All the Good Times Never Die](https://open.spotify.com/track/0c8lmplaH3NgXWus2sVnpM) | [LEISURE](https://open.spotify.com/artist/7b04D0yLktCUpvxQBhmG7R), [Night Tapes](https://open.spotify.com/artist/5APEQlUaQ5K70LgPqAdTuU) | [All the Good Times Never Die](https://open.spotify.com/album/4rGaiJ09OCioTTfcMFvdPL) | 3:08 |
 | 100 | [Charge It](https://open.spotify.com/track/2YIIDMcF9zWJ2xcFSA99lH) | [ENNY](https://open.spotify.com/artist/3qEnCAnX23lvoxZYtBiPgL) | [We Go Again](https://open.spotify.com/album/4vdQXcHcAGcVSBA7956EMq) | 3:05 |
 
-Snapshot ID: `MCwxMGI1MDlkNDAzNTA1ZWVmYjI4NDMxMzkzMDU0NjMyYjhjNzBjMjUx`
+Snapshot ID: `MCxhNmJiNGI1ZTViMWI0YjBkMmZkNmQ1ZmZiZmNkZmE1ZTEyOGM1Njkx`

@@ -1,12 +1,12 @@
 {
   "description": "Los \u00e9xitos de la salsa de ayer y hoy en un s\u00f3lo lugar. Foto: Marc Anthony",
-  "num_followers": 488447,
+  "num_followers": 488729,
   "original_name": "Dame Salsa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1MDM2ODhjZDIzZTZkZjhjNTA3NjA4YWViN2Y2NjI1N2RmNTEwY2Qy",
+  "snapshot_id": "MCw0ZmZiODdhZDc1MDNmNTc0NWQzOTI4ZGZmNzMxOTkwMDE2ZDgwMTIy",
   "tracks": [
     {
       "added_at": "2023-09-26 23:46:47",
@@ -1011,18 +1011,18 @@
     {
       "added_at": "2023-09-26 23:46:47",
       "album": {
-        "name": "El Rey Bravo",
-        "url": "https://open.spotify.com/album/7J3VF3HcxYEYr2tRFoaqNq"
+        "name": "Oro Salsero",
+        "url": "https://open.spotify.com/album/45jRKB7cqJYwk7vHyYgveo"
       },
       "artists": [
         {
-          "name": "Tito Puente",
-          "url": "https://open.spotify.com/artist/6SPpCqM8gOzrtICAxN5NuX"
+          "name": "David Pabon",
+          "url": "https://open.spotify.com/artist/3L3YHYkS8b2vgAbnqBTXrE"
         }
       ],
-      "duration_ms": 274018,
-      "name": "Oye C\u00f3mo Va",
-      "url": "https://open.spotify.com/track/73uEbChpBB29ttwVnwuNVE"
+      "duration_ms": 308893,
+      "name": "Aqu\u00e9l Viejo Motel",
+      "url": "https://open.spotify.com/track/286NP8kXWzx2uHb5tr7TGv"
     },
     {
       "added_at": "2023-09-26 23:46:47",
@@ -1059,18 +1059,18 @@
     {
       "added_at": "2023-09-26 23:46:47",
       "album": {
-        "name": "Oro Salsero",
-        "url": "https://open.spotify.com/album/45jRKB7cqJYwk7vHyYgveo"
+        "name": "El Rey Bravo",
+        "url": "https://open.spotify.com/album/7J3VF3HcxYEYr2tRFoaqNq"
       },
       "artists": [
         {
-          "name": "David Pabon",
-          "url": "https://open.spotify.com/artist/3L3YHYkS8b2vgAbnqBTXrE"
+          "name": "Tito Puente",
+          "url": "https://open.spotify.com/artist/6SPpCqM8gOzrtICAxN5NuX"
         }
       ],
-      "duration_ms": 308893,
-      "name": "Aqu\u00e9l Viejo Motel",
-      "url": "https://open.spotify.com/track/286NP8kXWzx2uHb5tr7TGv"
+      "duration_ms": 274018,
+      "name": "Oye C\u00f3mo Va",
+      "url": "https://open.spotify.com/track/73uEbChpBB29ttwVnwuNVE"
     },
     {
       "added_at": "2023-09-26 23:46:47",
@@ -1419,22 +1419,6 @@
     {
       "added_at": "2023-09-26 23:46:47",
       "album": {
-        "name": "Voy Pa'Encima",
-        "url": "https://open.spotify.com/album/6EMYCH8HyTiX5KSav7RTML"
-      },
-      "artists": [
-        {
-          "name": "Frankie Ruiz",
-          "url": "https://open.spotify.com/artist/4dLvccxeQIM5u80Ri0u9OV"
-        }
-      ],
-      "duration_ms": 287120,
-      "name": "Desn\u00fadate Mujer",
-      "url": "https://open.spotify.com/track/65nL3OLuHHfEYxKkHMQ1fL"
-    },
-    {
-      "added_at": "2023-09-26 23:46:47",
-      "album": {
         "name": "The 'Brillante' Best",
         "url": "https://open.spotify.com/album/1YTyamO7TMTaKM9vtfKk25"
       },
@@ -1451,6 +1435,22 @@
       "duration_ms": 259000,
       "name": "Usted Abus\u00f3",
       "url": "https://open.spotify.com/track/3FNjqlfbQ153UsLKhDIxHo"
+    },
+    {
+      "added_at": "2023-09-26 23:46:47",
+      "album": {
+        "name": "Voy Pa'Encima",
+        "url": "https://open.spotify.com/album/6EMYCH8HyTiX5KSav7RTML"
+      },
+      "artists": [
+        {
+          "name": "Frankie Ruiz",
+          "url": "https://open.spotify.com/artist/4dLvccxeQIM5u80Ri0u9OV"
+        }
+      ],
+      "duration_ms": 287120,
+      "name": "Desn\u00fadate Mujer",
+      "url": "https://open.spotify.com/track/65nL3OLuHHfEYxKkHMQ1fL"
     },
     {
       "added_at": "2023-09-26 23:46:47",

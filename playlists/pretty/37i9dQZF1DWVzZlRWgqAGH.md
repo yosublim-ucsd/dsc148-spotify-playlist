@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVzZlRWgqAGH.md) - [plain]
 
 > Smooth joints\. Cover: Bakar
 
-[Spotify](https://open.spotify.com/user/spotify) - 791,750 likes - 100 songs - 5 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 791,795 likes - 100 songs - 5 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVzZlRWgqAGH.md) - [plain]
 | 99 | [Road Of The Lonely Ones](https://open.spotify.com/track/4VaICpePVA67Wqvv8SryFr) | [Madlib](https://open.spotify.com/artist/5LhTec3c7dcqBvpLRWbMcf) | [Road Of The Lonely Ones](https://open.spotify.com/album/28MiwOX8Od693aOkUnEgsf) | 3:38 |
 | 100 | [World In My Hands](https://open.spotify.com/track/4c2HeCpHJ3VzN8RyEoULTW) | [LAVI$H](https://open.spotify.com/artist/5E4159ttrOB57XW0YdLT32) | [World In My Hands](https://open.spotify.com/album/4VbYBboyCVdKFJ0eh9ATfT) | 3:14 |
 
-Snapshot ID: `MCwxNGM3MTBlODA1ODBiODA5YWYxYWYxMTIzOGFkYTVjNTk0OGNmZjUz`
+Snapshot ID: `MCxiMTZhNTYwMDYwZTEwYjQ3MGM2YmEwODU3YjUyYmM3MjFlODk2ZThm`

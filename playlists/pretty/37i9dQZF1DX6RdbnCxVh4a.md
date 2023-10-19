@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6RdbnCxVh4a.md) - [plain]
 
 > Mode lecture aléatoire obligatoire.
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,958 likes - 50 songs - 2 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,981 likes - 50 songs - 2 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,8 +46,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6RdbnCxVh4a.md) - [plain]
 | 36 | [Quarry](https://open.spotify.com/track/2rQw8ZLhgYDGMS8ijHk6Tr) | [Wednesday](https://open.spotify.com/artist/4j7DrazfBZLLD0OrVoAtEe) | [Rat Saw God](https://open.spotify.com/album/1oTR3aC0jYmwUlr9duBi05) | 4:07 |
 | 37 | [Smile](https://open.spotify.com/track/0wQKKPy050lguUxlKvHIi5) | [Wolf Alice](https://open.spotify.com/artist/3btzEQD6sugImIHPMRgkwV) | [Blue Weekend](https://open.spotify.com/album/1VCTWaze9kuY5IDlbtR5p0) | 3:16 |
 | 38 | [Kleenex](https://open.spotify.com/track/2UToegl7AOOC0qflCqGcBH) | [Johnny Jane](https://open.spotify.com/artist/5ZtagJrNULymltW3pEbfhr) | [JTM](https://open.spotify.com/album/0S1kVPGRBW6jGggQ5HlG0O) | 3:03 |
-| 39 | [Power \(feat\. Carpenter Brut\)](https://open.spotify.com/track/1chn0UfLmTjpW6GHVeluqp) | [SIERRA](https://open.spotify.com/artist/25WCO5tS4sXMxIfe3nIXL4), [Carpenter Brut](https://open.spotify.com/artist/1l2oLiukA9i5jEtIyNWIEP) | [Power \(feat.Carpenter Brut\)](https://open.spotify.com/album/4tH4QwEtWoiCYZBYV3O2qE) | 4:10 |
-| 40 | [Let's Get To Work](https://open.spotify.com/track/456sTgUGjvqvmYr7GqMFnG) | [Kid Kapichi](https://open.spotify.com/artist/2iwVdN0Geaw5Sn2Abeh9fB) | [Let's Get To Work](https://open.spotify.com/album/7cnBwqsBiHUPFQZtCJE0uN) | 3:00 |
+| 39 | [Let's Get To Work](https://open.spotify.com/track/456sTgUGjvqvmYr7GqMFnG) | [Kid Kapichi](https://open.spotify.com/artist/2iwVdN0Geaw5Sn2Abeh9fB) | [Let's Get To Work](https://open.spotify.com/album/7cnBwqsBiHUPFQZtCJE0uN) | 3:00 |
+| 40 | [Power \(feat\. Carpenter Brut\)](https://open.spotify.com/track/1chn0UfLmTjpW6GHVeluqp) | [SIERRA](https://open.spotify.com/artist/25WCO5tS4sXMxIfe3nIXL4), [Carpenter Brut](https://open.spotify.com/artist/1l2oLiukA9i5jEtIyNWIEP) | [Power \(feat.Carpenter Brut\)](https://open.spotify.com/album/4tH4QwEtWoiCYZBYV3O2qE) | 4:10 |
 | 41 | [Soleil Mort](https://open.spotify.com/track/7ziSNSAMNDvWBHuSqbGy08) | [ELOI](https://open.spotify.com/artist/5J65ukR6WWDkuRrqYa4Knl) | [Pyrale](https://open.spotify.com/album/3fiBUejWxczE7f8ITf4ad1) | 3:15 |
 | 42 | [All I Need](https://open.spotify.com/track/66stDprhtsjuhwS5oxg7ft) | [Jake Bugg](https://open.spotify.com/artist/4hf3caW9H8uFwwbv5pFjcg) | [Saturday Night, Sunday Morning](https://open.spotify.com/album/7KrrgdgGjU4TqTCEdBilA0) | 3:36 |
 | 43 | [Drag](https://open.spotify.com/track/5LsHB7a3E9wtoKac1FVMmi) | [St Graal](https://open.spotify.com/artist/7Kgv8CorcAKsG4of90vA5I) | [Le cœur qui cogne](https://open.spotify.com/album/4yQrejKybw0gsJ7W6k0Vmw) | 2:41 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6RdbnCxVh4a.md) - [plain]
 | 49 | [Kamikaze](https://open.spotify.com/track/0JpQfoBOdJ2ftUi7VGj6dx) | [Connie Constance](https://open.spotify.com/artist/4RB2kk5dmocmMiHFBlmOEt) | [Miss Power](https://open.spotify.com/album/37pi6A0dr6Puse1u2xHkdD) | 2:17 |
 | 50 | [Je suis Cendrillon](https://open.spotify.com/track/1BEWLPnXcv2ecWzx3mqCse) | [Zed Yun Pavarotti](https://open.spotify.com/artist/2TM7WyJwjfD5wKyX9OtIWJ) | [Encore](https://open.spotify.com/album/5g010EGj82UnGrOTxaHveU) | 2:49 |
 
-Snapshot ID: `MCxkYzU5YWRhNjZmNTA0NDcwYzI0NGE3OGU5ZjFjNGY5NWFkNDAwYTcz`
+Snapshot ID: `MCw2Zjg2NDk0NzBiZTAzNTBlOThiYWJhYmQwMjRkOWNkOWMyZTkwZDRl`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX97h7ftpNSYT.md) - [plain]
 
 > Taking it back to the 2010s\. Cover: Pusha T
 
-[Spotify](https://open.spotify.com/user/spotify) - 156,372 likes - 100 songs - 6 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 156,402 likes - 100 songs - 6 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX97h7ftpNSYT.md) - [plain]
 | 99 | [Panda](https://open.spotify.com/track/5YEOzOojehCqxGQCcQiyR4) | [Desiigner](https://open.spotify.com/artist/7pFeBzX627ff0VnN6bxPR4) | [New English](https://open.spotify.com/album/0cHT4ll3sEPyFFWoFuibMl) | 4:06 |
 | 100 | [Who Do You Love?](https://open.spotify.com/track/7ngdkrVQPgP3AoIxUrTpHT) | [YG](https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [My Krazy Life](https://open.spotify.com/album/6HzHon4QSFPGPFIjjlZN0n) | 3:53 |
 
-Snapshot ID: `MCxkOTgyMzY1ZTZmMmVjZjQ0NTk1ZjE1OGEyYTBmMWRjNmU1MzIwNTAz`
+Snapshot ID: `MCxlZWFkNDJhNjExMTUzMmI5NmM4ODUxOTk0MzUxNGFhZjY0MDc2ZTNi`

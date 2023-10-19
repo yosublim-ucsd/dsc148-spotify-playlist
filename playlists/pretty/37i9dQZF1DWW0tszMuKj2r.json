@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Ca\u00f1onazos salseros para persignar la pista de baile!",
-  "num_followers": 47780,
+  "num_followers": 47862,
   "original_name": "Salsa Sonidera",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlOTgyOTZiNzZmYmNjNmFhMTJlOTVmYjMyMTAwYTgxYzUwNTAzN2Y0",
+  "snapshot_id": "MCw1ZWJkNDMzMTViOTM0YTg1ZGQ5YWIxNjUyZDYyZTQ1NGQ2MjBkOTNi",
   "tracks": [
     {
       "added_at": "2022-12-30 20:26:55",
@@ -467,22 +467,6 @@
     {
       "added_at": "2022-12-30 20:26:55",
       "album": {
-        "name": "Que Suenen los Tambores",
-        "url": "https://open.spotify.com/album/3LygiJakSDkP4F5UAUFmNH"
-      },
-      "artists": [
-        {
-          "name": "V\u00edctor Manuelle",
-          "url": "https://open.spotify.com/artist/4N5fp4zhTsVITZTVfsXpc2"
-        }
-      ],
-      "duration_ms": 272680,
-      "name": "No Quer\u00eda Enga\u00f1arte",
-      "url": "https://open.spotify.com/track/7mvgoSoN2klG8M68WZLrYq"
-    },
-    {
-      "added_at": "2022-12-30 20:26:55",
-      "album": {
         "name": "Aqui No Se Sienta Nadie!",
         "url": "https://open.spotify.com/album/18m4lag970uk1AMSvaUZmg"
       },
@@ -495,6 +479,22 @@
       "duration_ms": 205813,
       "name": "Brujeria",
       "url": "https://open.spotify.com/track/0k1hbeZodoEw34FAdbh8xM"
+    },
+    {
+      "added_at": "2022-12-30 20:26:55",
+      "album": {
+        "name": "Que Suenen los Tambores",
+        "url": "https://open.spotify.com/album/3LygiJakSDkP4F5UAUFmNH"
+      },
+      "artists": [
+        {
+          "name": "V\u00edctor Manuelle",
+          "url": "https://open.spotify.com/artist/4N5fp4zhTsVITZTVfsXpc2"
+        }
+      ],
+      "duration_ms": 272680,
+      "name": "No Quer\u00eda Enga\u00f1arte",
+      "url": "https://open.spotify.com/track/7mvgoSoN2klG8M68WZLrYq"
     },
     {
       "added_at": "2022-12-30 20:26:55",
@@ -919,22 +919,6 @@
     {
       "added_at": "2022-12-30 20:26:55",
       "album": {
-        "name": "Salvame",
-        "url": "https://open.spotify.com/album/2h9xIl6f5tuosROGVtjAT0"
-      },
-      "artists": [
-        {
-          "name": "Yiyo Sarante",
-          "url": "https://open.spotify.com/artist/2rwLjVHS15sfzciKXXNbgA"
-        }
-      ],
-      "duration_ms": 279707,
-      "name": "Salvame",
-      "url": "https://open.spotify.com/track/0YAWMG7kNuseJqSQ6LV8Tf"
-    },
-    {
-      "added_at": "2022-12-30 20:26:55",
-      "album": {
         "name": "Feliz Navidad Con Salsa",
         "url": "https://open.spotify.com/album/5RktkOfRU1eqXvh0qSK2uP"
       },
@@ -947,6 +931,22 @@
       "duration_ms": 296773,
       "name": "T\u00fa Me Vuelves Loco",
       "url": "https://open.spotify.com/track/64zAjhGj8t7iHtUdNoTnRm"
+    },
+    {
+      "added_at": "2022-12-30 20:26:55",
+      "album": {
+        "name": "Salvame",
+        "url": "https://open.spotify.com/album/2h9xIl6f5tuosROGVtjAT0"
+      },
+      "artists": [
+        {
+          "name": "Yiyo Sarante",
+          "url": "https://open.spotify.com/artist/2rwLjVHS15sfzciKXXNbgA"
+        }
+      ],
+      "duration_ms": 279707,
+      "name": "Salvame",
+      "url": "https://open.spotify.com/track/0YAWMG7kNuseJqSQ6LV8Tf"
     },
     {
       "added_at": "2022-12-30 20:26:55",
@@ -983,8 +983,8 @@
     {
       "added_at": "2022-12-30 20:26:55",
       "album": {
-        "name": "El Original Y Unico",
-        "url": "https://open.spotify.com/album/3NQKRb5mnuZfLZ7VxiKWgU"
+        "name": "Grandes Exitos",
+        "url": "https://open.spotify.com/album/2FakrUxHjeJKeY0QxX4MGo"
       },
       "artists": [
         {
@@ -992,9 +992,9 @@
           "url": "https://open.spotify.com/artist/2EIZodXJHserIu4pGNfD3Z"
         }
       ],
-      "duration_ms": 376733,
-      "name": "Quiero Morir En Tu Piel",
-      "url": "https://open.spotify.com/track/0nBFB85JVZyd4I9xc4Wldz"
+      "duration_ms": 252306,
+      "name": "Si Supiera",
+      "url": "https://open.spotify.com/track/6edMEekESIWsXZrs8GRoOb"
     },
     {
       "added_at": "2022-12-30 20:26:55",
@@ -1135,8 +1135,8 @@
     {
       "added_at": "2022-12-30 20:26:55",
       "album": {
-        "name": "Grandes Exitos",
-        "url": "https://open.spotify.com/album/2FakrUxHjeJKeY0QxX4MGo"
+        "name": "El Original Y Unico",
+        "url": "https://open.spotify.com/album/3NQKRb5mnuZfLZ7VxiKWgU"
       },
       "artists": [
         {
@@ -1144,9 +1144,9 @@
           "url": "https://open.spotify.com/artist/2EIZodXJHserIu4pGNfD3Z"
         }
       ],
-      "duration_ms": 252306,
-      "name": "Si Supiera",
-      "url": "https://open.spotify.com/track/6edMEekESIWsXZrs8GRoOb"
+      "duration_ms": 376733,
+      "name": "Quiero Morir En Tu Piel",
+      "url": "https://open.spotify.com/track/0nBFB85JVZyd4I9xc4Wldz"
     },
     {
       "added_at": "2022-12-30 20:26:55",
@@ -1655,6 +1655,22 @@
     {
       "added_at": "2022-12-30 20:26:55",
       "album": {
+        "name": "Grandes Exitos de Salsa",
+        "url": "https://open.spotify.com/album/5YrlCDihTCk8ubcTapuc8E"
+      },
+      "artists": [
+        {
+          "name": "Los Titanes",
+          "url": "https://open.spotify.com/artist/4dboOLuCgBpq31GG6xov2S"
+        }
+      ],
+      "duration_ms": 291106,
+      "name": "Por Retenerte",
+      "url": "https://open.spotify.com/track/3Zlp3GGVJwQxpNmUy7TBxS"
+    },
+    {
+      "added_at": "2022-12-30 20:26:55",
+      "album": {
         "name": "Esta Noche Pinta Bien",
         "url": "https://open.spotify.com/album/0ceW81MVe18ar3uFnCd47z"
       },
@@ -1675,18 +1691,18 @@
     {
       "added_at": "2022-12-30 20:26:55",
       "album": {
-        "name": "Grandes Exitos de Salsa",
-        "url": "https://open.spotify.com/album/5YrlCDihTCk8ubcTapuc8E"
+        "name": "Recogiendo Frutos",
+        "url": "https://open.spotify.com/album/5GzoEi3bJsLWwLvEpK4fxm"
       },
       "artists": [
         {
-          "name": "Los Titanes",
-          "url": "https://open.spotify.com/artist/4dboOLuCgBpq31GG6xov2S"
+          "name": "Tito Gomez",
+          "url": "https://open.spotify.com/artist/4zq1okwemKSJbZFDQrp7f2"
         }
       ],
-      "duration_ms": 291106,
-      "name": "Por Retenerte",
-      "url": "https://open.spotify.com/track/3Zlp3GGVJwQxpNmUy7TBxS"
+      "duration_ms": 296573,
+      "name": "Amor De Papel",
+      "url": "https://open.spotify.com/track/2ccabU9T3oFwcM0NnBXxpf"
     },
     {
       "added_at": "2022-12-30 20:26:55",
@@ -1703,22 +1719,6 @@
       "duration_ms": 285120,
       "name": "Tu Amigo o Tu Amante",
       "url": "https://open.spotify.com/track/2GgBL5RYZafPzqfHJjn4p6"
-    },
-    {
-      "added_at": "2022-12-30 20:26:55",
-      "album": {
-        "name": "Recogiendo Frutos",
-        "url": "https://open.spotify.com/album/5GzoEi3bJsLWwLvEpK4fxm"
-      },
-      "artists": [
-        {
-          "name": "Tito Gomez",
-          "url": "https://open.spotify.com/artist/4zq1okwemKSJbZFDQrp7f2"
-        }
-      ],
-      "duration_ms": 296573,
-      "name": "Amor De Papel",
-      "url": "https://open.spotify.com/track/2ccabU9T3oFwcM0NnBXxpf"
     },
     {
       "added_at": "2022-12-30 20:26:55",
@@ -1839,22 +1839,6 @@
     {
       "added_at": "2022-12-30 20:26:55",
       "album": {
-        "name": "La Llave del Son",
-        "url": "https://open.spotify.com/album/06uEnV3HMObiKgnRcA0f17"
-      },
-      "artists": [
-        {
-          "name": "Septeto Acarey",
-          "url": "https://open.spotify.com/artist/5Vz74ibGHBQaUa2ALDOH0v"
-        }
-      ],
-      "duration_ms": 297882,
-      "name": "Baila Contigo",
-      "url": "https://open.spotify.com/track/0Iwydrdz8p2aGRmSIqaK3M"
-    },
-    {
-      "added_at": "2022-12-30 20:26:55",
-      "album": {
         "name": "Sobredosis de Amor y Salsa",
         "url": "https://open.spotify.com/album/33sxL4OPRcWMbaVy0VDDdb"
       },
@@ -1867,6 +1851,22 @@
       "duration_ms": 263400,
       "name": "Comp\u00e1rame",
       "url": "https://open.spotify.com/track/3cteDTwtx8kkuyK7w4PKV4"
+    },
+    {
+      "added_at": "2022-12-30 20:26:55",
+      "album": {
+        "name": "La Llave del Son",
+        "url": "https://open.spotify.com/album/06uEnV3HMObiKgnRcA0f17"
+      },
+      "artists": [
+        {
+          "name": "Septeto Acarey",
+          "url": "https://open.spotify.com/artist/5Vz74ibGHBQaUa2ALDOH0v"
+        }
+      ],
+      "duration_ms": 297882,
+      "name": "Baila Contigo",
+      "url": "https://open.spotify.com/track/0Iwydrdz8p2aGRmSIqaK3M"
     },
     {
       "added_at": "2022-12-30 20:26:55",
@@ -1923,22 +1923,6 @@
     {
       "added_at": "2022-12-30 20:26:55",
       "album": {
-        "name": "Inolvidables",
-        "url": "https://open.spotify.com/album/0qEnpeVocB6EWGdyD82AQB"
-      },
-      "artists": [
-        {
-          "name": "Maelo Ruiz",
-          "url": "https://open.spotify.com/artist/3HyrDGPLI0c9Rd8luuO0zw"
-        }
-      ],
-      "duration_ms": 292920,
-      "name": "Te Va A Doler",
-      "url": "https://open.spotify.com/track/60bDnvkRDXvwJuy08YiagT"
-    },
-    {
-      "added_at": "2022-12-30 20:26:55",
-      "album": {
         "name": "Sobredosis de Amor y Salsa",
         "url": "https://open.spotify.com/album/33sxL4OPRcWMbaVy0VDDdb"
       },
@@ -1955,6 +1939,22 @@
       "duration_ms": 262613,
       "name": "Mi Amante Ni\u00f1a, Mi Compa\u00f1era",
       "url": "https://open.spotify.com/track/1N3ONvkxXejayq8djiahWd"
+    },
+    {
+      "added_at": "2022-12-30 20:26:55",
+      "album": {
+        "name": "Inolvidables",
+        "url": "https://open.spotify.com/album/0qEnpeVocB6EWGdyD82AQB"
+      },
+      "artists": [
+        {
+          "name": "Maelo Ruiz",
+          "url": "https://open.spotify.com/artist/3HyrDGPLI0c9Rd8luuO0zw"
+        }
+      ],
+      "duration_ms": 292920,
+      "name": "Te Va A Doler",
+      "url": "https://open.spotify.com/track/60bDnvkRDXvwJuy08YiagT"
     },
     {
       "added_at": "2022-12-30 20:26:55",

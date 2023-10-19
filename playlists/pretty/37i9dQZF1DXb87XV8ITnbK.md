@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb87XV8ITnbK.md) - [plain]
 
 > Listen to the soundtracks of the Twinkling Watermelon\. \(반짝이는 워터멜론의 사운드 트랙들을 즐겨보세요!\) You can also listen to songs selected by the cast\. \(출연진들이 직접 선정한 추천곡들도 들어보실 수 있습니다.\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,127 likes - 52 songs - 2 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,243 likes - 52 songs - 2 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,4 +61,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb87XV8ITnbK.md) - [plain]
 | 51 | [SHINING \- Instrumental](https://open.spotify.com/track/2Pc8vftGWCrP4nL8CtMV7r) | [김한겸](https://open.spotify.com/artist/01qikWSwB9BtwXkxXyBcWJ) | [Twinkling Watermelon \(Original Television Soundtrack\) Pt\. 3](https://open.spotify.com/album/5aRhGb3W09rEYMNt4ie26k) | 3:30 |
 | 52 | [Tomorrow \- Instrumental](https://open.spotify.com/track/5ahMx9l7YzVICKv07dLtfH) | [RP](https://open.spotify.com/artist/7c9BsV6rPkZhQpGXBOeZXx) | [Twinkling Watermelon \(Original Television Soundtrack\) Pt\. 4](https://open.spotify.com/album/6huSnMJ9Uue1GuxpZkV3PV) | 4:34 |
 
-Snapshot ID: `MCwxNzNmNzk5MTg1ZDM1YThlNzBjMGU1YTZjZmQ5YTg1Mjg3NTI0NjY2`
+Snapshot ID: `MCw5ZTI5Y2QyYmMzZmNiMWYxMzRhMWIxMTEyYWE5MDkwMjU0ODkxNDRj`

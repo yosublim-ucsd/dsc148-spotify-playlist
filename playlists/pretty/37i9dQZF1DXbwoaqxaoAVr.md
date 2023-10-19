@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbwoaqxaoAVr.md) - [plain]
 
 > Pop style reggae for a sunny summer vibe!
 
-[Spotify](https://open.spotify.com/user/spotify) - 769,674 likes - 64 songs - 4 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 770,342 likes - 64 songs - 4 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,7 +53,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbwoaqxaoAVr.md) - [plain]
 | 43 | [I Feel It Coming](https://open.spotify.com/track/3HH51g8X40OtiOlKGABolJ) | [Natty Bong](https://open.spotify.com/artist/212Jq222D4QnciSA0uWrVN) | [Positive Quotes](https://open.spotify.com/album/65FEMmtdKTmAfdnDmb1ZJe) | 4:09 |
 | 44 | [Dance My Stress Away \(with Stephen Marley\)](https://open.spotify.com/track/4YzBQfeZtXKEQABl61rT6f) | [Demarco](https://open.spotify.com/artist/0af5VM6xubf8EXKvoG35x6), [Stephen Marley](https://open.spotify.com/artist/0CIwCGmQMqHqiblnZlFia1) | [Dance My Stress Away \(with Stephen Marley\)](https://open.spotify.com/album/4qAB2fZm1df7LhxPIiXAmW) | 3:34 |
 | 45 | [One World, One Prayer \(feat\. Skip Marley, Farruko, Shaggy & Cedella Marley\)](https://open.spotify.com/track/0NjwB0pgNC2ate5QOeHXTu) | [The Wailers](https://open.spotify.com/artist/6uSKeCyQEhvPC2NODgiqFE), [Skip Marley](https://open.spotify.com/artist/4ryoUS0W8qXokfMxrlJt6O), [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO), [Shaggy](https://open.spotify.com/artist/5EvFsr3kj42KNv97ZEnqij), [Cedella Marley](https://open.spotify.com/artist/6KL6RLoRlfIYXGx4UAYT6O) | [One World, One Prayer \(feat\. Skip Marley, Farruko, Shaggy & Cedella Marley\)](https://open.spotify.com/album/2c98u5IkZvxOJtAYyDDnwI) | 3:16 |
-| 46 | [Hello \(Reggae Cover\)](https://open.spotify.com/track/5QJSPscaVvF1faWSDOd9ot) | [Conkarah](https://open.spotify.com/artist/7vPGzgDg3qGUY5bWtrO3K4), [Rosie Delmah](https://open.spotify.com/artist/1oA050idm4VgCncQUWA20d) | [Hello \(Reggae Cover\)](https://open.spotify.com/album/4Bye7G4TGLm2vSF7LxiM8v) | 3:58 |
+| 46 | [Hello \(Reggae Cover\)](https://open.spotify.com/track/0TcRO9NJlWZqWhV6BERO8z) | [Conkarah](https://open.spotify.com/artist/7vPGzgDg3qGUY5bWtrO3K4), [Rosie Delmah](https://open.spotify.com/artist/1oA050idm4VgCncQUWA20d) | [Hello \(Reggae Cover\)](https://open.spotify.com/album/4ogYCeBex0mcjW5uNlLH4x) | 3:58 |
 | 47 | [Old School Feeling](https://open.spotify.com/track/4CP5zdy0pLR5Q3IeLeY1qU) | [Rebelution](https://open.spotify.com/artist/2WjvvwAX0mdWwq3aFuUdtc) | [In the Moment](https://open.spotify.com/album/4ZO52CTQ2EzwDmAIrFjHaW) | 3:56 |
 | 48 | [Make Love](https://open.spotify.com/track/0FQJrnW7nH6P2LJsPk4aqX) | [Jason Mraz](https://open.spotify.com/artist/4phGZZrJZRo4ElhRtViYdl) | [Look For The Good](https://open.spotify.com/album/1PuBipBX8qqeUN3FOPIexs) | 5:35 |
 | 49 | [SOLO](https://open.spotify.com/track/5UXbiwymPFSqbVhDefIeB7) | [Shay Lia](https://open.spotify.com/artist/3sJQwG0SsGRyv5C5kh4o9a) | [SOLO](https://open.spotify.com/album/6tUdt4hvQmNtO0gh5fG8ce) | 3:02 |

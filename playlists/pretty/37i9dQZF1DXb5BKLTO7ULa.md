@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5BKLTO7ULa.md) - [plain]
 
 > De nieuwste releases elke vrijdag op Spotify! Cover: Loreen
 
-[Spotify](https://open.spotify.com/user/spotify) - 258,615 likes - 100 songs - 5 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 258,637 likes - 100 songs - 5 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5BKLTO7ULa.md) - [plain]
 | 99 | [Juni](https://open.spotify.com/track/2a1uyLe3BiRMoyFQjdaCWJ) | [Maya Shanti](https://open.spotify.com/artist/5AbFun8ItgssbcfrKqCeWn) | [Juni](https://open.spotify.com/album/4aNyw6hZqHrq0fEYqlVJ2L) | 2:38 |
 | 100 | [I’ve said it all](https://open.spotify.com/track/4OFOEZ6dXRaVlmdDEZ0xfA) | [Laura van Kaam](https://open.spotify.com/artist/4ywz66EHjNFUszU6lXLsXe) | [I’ve said it all](https://open.spotify.com/album/6EAIwS6OLfgul70IfWq62w) | 2:56 |
 
-Snapshot ID: `MCwyZGU3ZWM3YjBkNjY5ZmM0NTRkOWQ4ZjcyMmQ2OWQ2ODZiZDlmN2Jh`
+Snapshot ID: `MCxjY2Y3ODg4NDQzMmFjNjA1N2NlODkyNzFhMzIxOGE3NTk5YjYxNjg4`

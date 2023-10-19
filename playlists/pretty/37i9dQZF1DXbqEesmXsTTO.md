@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbqEesmXsTTO.md) - [plain]
 
 > 다양한 장르와 악기가 더해진 퓨전 국악 음악들을 즐겨보세요! \(커버: 신유진\(Shin Yujin\)\) \(Enjoy fusion Korean national music with various genres and instruments added!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,827 likes - 60 songs - 3 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,859 likes - 60 songs - 3 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

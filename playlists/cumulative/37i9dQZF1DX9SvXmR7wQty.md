@@ -4,7 +4,7 @@
 
 > Découvrez les meilleures nouveautés francophones\. Photo: Clodelle
 
-2,106 songs - 4 day 16 hr 27 min
+2,107 songs - 4 day 16 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -78,6 +78,7 @@
 | [All Night Long](https://open.spotify.com/track/6veDfkluTetAypC3SffZwr) | [Zoo Baby](https://open.spotify.com/artist/5cwwkrAy5dg58se1CLKuFO) | [Volume 2](https://open.spotify.com/album/0Nmzcz93BpG0Guc9mAd0qi) | 3:43 | 2023-02-10 | 2023-02-25 |
 | [Allez allez](https://open.spotify.com/track/3gaZ3BKlQIKvEizVORXpC2) | [Sasso](https://open.spotify.com/artist/35B6bq5keTR1PYEahq1TAF), [L'Allemand](https://open.spotify.com/artist/3BX2N7cc1OrBUJQiiei3On) | [Allez allez](https://open.spotify.com/album/3TVdyJrtEa3HWcEhAdZtRe) | 3:10 | 2022-05-06 | 2022-05-20 |
 | [Allez dehors](https://open.spotify.com/track/2YGtFjsTpSrsGb2rQy4ARj) | [Fresh](https://open.spotify.com/artist/3W9AQyaIGdR8htZXVGwl1X), [Niska](https://open.spotify.com/artist/7CUFPNi1TU8RowpnFRSsZV) | [Allez dehors](https://open.spotify.com/album/6Us6AtFqQORq9wUpHdvbnf) | 2:46 | 2022-08-26 | 2022-09-10 |
+| [Allo](https://open.spotify.com/track/3aeCyLTeN6ypImKPtdjYjZ) | [Moha K](https://open.spotify.com/artist/6o5sl0TGublDPXyMHdMq1E), [Lyna Mahyem](https://open.spotify.com/artist/0Yj3N31EWXHc6e3eDyJPLP) | [Allo](https://open.spotify.com/album/1JcEpcqvv3IMdtcupUh0yD) | 3:15 | 2023-10-13 |  |
 | [Allo c’est qui?](https://open.spotify.com/track/7JvS9AEXvNPsouhhVECNeZ) | [Izzy\-S](https://open.spotify.com/artist/76DXtaWMXZQbRZUHkQEdDQ) | [Allo c’est qui?](https://open.spotify.com/album/4QBGKhrngSOqtwohuYVHgz) | 2:49 | 2022-11-25 | 2022-12-17 |
 | [Allo réseau \- Edit](https://open.spotify.com/track/4lU7TGb5BTgUFe3xGBN9ej) | [Bon Entendeur](https://open.spotify.com/artist/2lwjwKfYZCuPEJOo8t32CD) | [Allo réseau \(Edit\)](https://open.spotify.com/album/5QwhFSw4107w2onum379QT) | 3:05 | 2021-12-31 | 2022-01-22 |
 | [Allumette](https://open.spotify.com/track/7BJ4JuN9t3TNfb43KFgC41) | [Rymz](https://open.spotify.com/artist/3dN1EUAKOFCUBPFXRUdqKu), [Souldia](https://open.spotify.com/artist/6ekcMUMZoiX2HBbQGZgNh1), [Die\-On](https://open.spotify.com/artist/3PiPx0tAJVVmdwScvelkq3), [Random](https://open.spotify.com/artist/20JaTdfk3frqSwaYIf0ko8) | [Allumette](https://open.spotify.com/album/23b8mvJqyDE82TTWTa5dHA) | 4:39 | 2022-11-25 | 2022-12-24 |
@@ -893,7 +894,7 @@
 | [Je partirai](https://open.spotify.com/track/3iku3rkYAUlFqhd72eOvJa) | [Hoshi](https://open.spotify.com/artist/7mPT6wrOjVC4visft9qpYQ) | [Mauvais rêve](https://open.spotify.com/album/3enLAJnxNXQXcA4kqKYFq0) | 3:15 | 2023-05-26 | 2023-06-15 |
 | [Je partirai](https://open.spotify.com/track/4rsGnKtuQrxMBHQGt1z3FP) | [Hoshi](https://open.spotify.com/artist/7mPT6wrOjVC4visft9qpYQ) | [Je partirai](https://open.spotify.com/album/1AvWJglFWzSCpttEKrsbku) | 3:15 | 2023-06-16 | 2023-07-29 |
 | [Je pense à toi \(vue par Jean\-Phi Goncalves\) \- Remix](https://open.spotify.com/track/3nuMUozXZaRUIYtKQQrnnU) | [Alfa Rococo](https://open.spotify.com/artist/6nG2T7gGBQilOJXPWw0F0n) | [Je pense à toi \(vue par Jean\-Phi Goncalves\) \[Remix\]](https://open.spotify.com/album/5dNupmHmcCfK8YgdmTBX8G) | 3:54 | 2022-05-06 | 2022-05-20 |
-| [Je remplace mes exs](https://open.spotify.com/track/3QSTzAm336llccLmSrdqzI) | [TK](https://open.spotify.com/artist/5vnUF9uAL0ly7qw25ERLuC), [Zaho](https://open.spotify.com/artist/0vN920jukdAbErvjo2OJ2o) | [Je remplace mes exs](https://open.spotify.com/album/1JCfwbRtYqlTF6sQChqcuM) | 2:53 | 2023-09-08 |  |
+| [Je remplace mes exs](https://open.spotify.com/track/3QSTzAm336llccLmSrdqzI) | [TK](https://open.spotify.com/artist/5vnUF9uAL0ly7qw25ERLuC), [Zaho](https://open.spotify.com/artist/0vN920jukdAbErvjo2OJ2o) | [Je remplace mes exs](https://open.spotify.com/album/1JCfwbRtYqlTF6sQChqcuM) | 2:53 | 2023-09-08 | 2023-10-19 |
 | [JE RESPIRE](https://open.spotify.com/track/204PfCzQ6FbveeJH7RoxgU) | [Etienne Dufresne](https://open.spotify.com/artist/1wVdxcnaMBJy3MII8nZalv), [Ariane Roy](https://open.spotify.com/artist/1MDlZmN8IgqV4AYZChlWPM) | [JE RESPIRE](https://open.spotify.com/album/7MyrxRdDBg56H8TXlgUjRs) | 3:11 | 2022-06-03 | 2022-06-18 |
 | [Je resterai tout près \(Ton nom est un rivage\)](https://open.spotify.com/track/70EQSOKYqozg8DRVNKNyWs) | [Sylvie Paquette](https://open.spotify.com/artist/7lf5jug92e3K5mWcAzxlrB) | [Je resterai tout près](https://open.spotify.com/album/4d8TpxTY6tCucamqn2tmoQ) | 2:45 | 2022-05-06 | 2022-05-14 |
 | [Je retourne à la maison](https://open.spotify.com/track/5uJYXto5Lbfb3fCb1VXgR8) | [Meghan Oak](https://open.spotify.com/artist/0zcVg1Jym2sknaMn46kO2k), [Laurence Castera](https://open.spotify.com/artist/4lBTYV3dOG4aAFKyKmeHsx) | [Je retourne à la maison](https://open.spotify.com/album/1XaroAGE9SU4W2ImUI5Scl) | 3:20 | 2022-11-11 | 2022-12-03 |

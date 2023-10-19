@@ -4,7 +4,7 @@
 
 > Le meilleur des années 2000 en 100 titres.
 
-101 songs - 6 hr 34 min
+102 songs - 6 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,7 +20,8 @@
 | [Butterfly](https://open.spotify.com/track/7el6SEqok66QW0WqqhYEsI) | [Superbus](https://open.spotify.com/artist/3Hog7RVQ1lAv1crdfiJPLq) | [Wow](https://open.spotify.com/album/56kNIKcb5Tli9cdAA4qfk1) | 3:52 | 2023-03-06 |  |
 | [C'est beau la bourgeoisie \- Radio Edit](https://open.spotify.com/track/22OZbdiOvRdocdyafcGAgI) | [Discobitch](https://open.spotify.com/artist/48vWW7ozlrI3oT6zecxDUV) | [C'est beau la bourgeoisie \(Radio Edit\)](https://open.spotify.com/album/2vo27RRS5OXilx8NMvV24X) | 3:31 | 2023-03-06 |  |
 | [C'est chelou](https://open.spotify.com/track/4Kv8cUBMewJaiAUgFWg9v2) | [Zaho](https://open.spotify.com/artist/0vN920jukdAbErvjo2OJ2o) | [Dima](https://open.spotify.com/album/3skYNr1bLZiVyFJGU5jEjV) | 3:36 | 2023-03-06 |  |
-| [Calabria 2008](https://open.spotify.com/track/5Y2pr8wjzjO2te4MnxTUa7) | [Enur](https://open.spotify.com/artist/1BQaZSq1KsLOZGzjG5QxRC), [Natasja](https://open.spotify.com/artist/73O5T44Ui5WqxtW6S5JENA) | [Raggatronic](https://open.spotify.com/album/71vYvO6c9Wzh06fZPHXj3z) | 3:50 | 2023-03-06 |  |
+| [Calabria 2008](https://open.spotify.com/track/5Y2pr8wjzjO2te4MnxTUa7) | [Enur](https://open.spotify.com/artist/1BQaZSq1KsLOZGzjG5QxRC), [Natasja](https://open.spotify.com/artist/73O5T44Ui5WqxtW6S5JENA) | [Raggatronic](https://open.spotify.com/album/71vYvO6c9Wzh06fZPHXj3z) | 3:50 | 2023-03-06 | 2023-10-19 |
+| [Calabria 2008 \(feat\. Natasja\)](https://open.spotify.com/track/0mwbc2AqVHIziVGg3syEI9) | [Enur](https://open.spotify.com/artist/1BQaZSq1KsLOZGzjG5QxRC), [Natasja](https://open.spotify.com/artist/73O5T44Ui5WqxtW6S5JENA) | [Raggatronic](https://open.spotify.com/album/3xynSbEGBq3jd5N8HLRrc3) | 3:50 | 2023-10-06 |  |
 | [Call on Me \- Radio Mix](https://open.spotify.com/track/1xNcBAoUw8Hz6LqK2jt4Ff) | [Eric Prydz](https://open.spotify.com/artist/5sm0jQ1mq0dusiLtDJ2b4R) | [Call on Me \(Radio Mix\)](https://open.spotify.com/album/7thKR3tw162CqNqIRdwZ3z) | 2:51 | 2023-03-06 |  |
 | [Can't Get You out of My Head](https://open.spotify.com/track/3E7ZwUMJFqpsDOJzEkBrQ7) | [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA) | [Fever](https://open.spotify.com/album/4WzTXHp8bVKkKNu3UQ2Fqu) | 3:50 | 2023-03-06 |  |
 | [Complicated](https://open.spotify.com/track/5xEM5hIgJ1jjgcEBfpkt2F) | [Avril Lavigne](https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j) | [Let Go](https://open.spotify.com/album/3zXjR3y2dUWklKmmp6lEhy) | 4:04 | 2023-03-06 |  |

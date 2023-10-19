@@ -1,12 +1,12 @@
 {
   "description": "Porque el coraz\u00f3n habla vallenato. \u00a1Ay ombe!",
-  "num_followers": 96604,
+  "num_followers": 96722,
   "original_name": "Vallenato Rom\u00e1ntico",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmNGZjNzNmMTk0MGQ0MTdiZTViMWVhM2JhMDc4ZjIwOGQ5N2VkZTQw",
+  "snapshot_id": "MCw2ZmZjYmZkNmIyZGZkOGNkZjEzZWYyNjBlMTNjNzIzZjlhOTA5YWE4",
   "tracks": [
     {
       "added_at": "2022-12-16 20:17:47",
@@ -675,22 +675,6 @@
     {
       "added_at": "2022-12-16 20:17:47",
       "album": {
-        "name": "Vallenato Fest",
-        "url": "https://open.spotify.com/album/0ewlJ0aYyI7OfcqICyuP06"
-      },
-      "artists": [
-        {
-          "name": "Grupo Vallenato",
-          "url": "https://open.spotify.com/artist/6JjHRZP5MEJocK6frtvrEE"
-        }
-      ],
-      "duration_ms": 316279,
-      "name": "Dime Que Me Quieres",
-      "url": "https://open.spotify.com/track/0GPCmhhe3HkJ6VVHOwJmZw"
-    },
-    {
-      "added_at": "2022-12-16 20:17:47",
-      "album": {
         "name": "Diferente",
         "url": "https://open.spotify.com/album/6GQZroG4H7wW0UrX12P3Kp"
       },
@@ -707,6 +691,22 @@
       "duration_ms": 252040,
       "name": "Tan Natural",
       "url": "https://open.spotify.com/track/0CNuKlYBAx8xa28X4J6Iy6"
+    },
+    {
+      "added_at": "2022-12-16 20:17:47",
+      "album": {
+        "name": "Vallenato Fest",
+        "url": "https://open.spotify.com/album/0ewlJ0aYyI7OfcqICyuP06"
+      },
+      "artists": [
+        {
+          "name": "Grupo Vallenato",
+          "url": "https://open.spotify.com/artist/6JjHRZP5MEJocK6frtvrEE"
+        }
+      ],
+      "duration_ms": 316279,
+      "name": "Dime Que Me Quieres",
+      "url": "https://open.spotify.com/track/0GPCmhhe3HkJ6VVHOwJmZw"
     },
     {
       "added_at": "2022-12-16 20:17:47",
@@ -811,6 +811,26 @@
     {
       "added_at": "2022-12-16 20:17:47",
       "album": {
+        "name": "Felipe Pel\u00e1ez 30 Grandes \u00c9xitos",
+        "url": "https://open.spotify.com/album/0f5F611gI9fLfW7N9wr5Zw"
+      },
+      "artists": [
+        {
+          "name": "Felipe Pel\u00e1ez",
+          "url": "https://open.spotify.com/artist/6dexNK5MjEL8UvmA5MjSgg"
+        },
+        {
+          "name": "Zabaleta",
+          "url": "https://open.spotify.com/artist/234WpokzuaWmbfhdocebBU"
+        }
+      ],
+      "duration_ms": 275186,
+      "name": "El Amor M\u00e1s Grande del Planeta",
+      "url": "https://open.spotify.com/track/1NUCgLFBPg0R4B6IPUcieM"
+    },
+    {
+      "added_at": "2022-12-16 20:17:47",
+      "album": {
         "name": "El Original",
         "url": "https://open.spotify.com/album/5mAgr3vB1Ma8mmpUDKRo4P"
       },
@@ -879,26 +899,6 @@
       "duration_ms": 286026,
       "name": "Mi Diosa Humana",
       "url": "https://open.spotify.com/track/1TdS58WrPL19Mtk8iOq529"
-    },
-    {
-      "added_at": "2022-12-16 20:17:47",
-      "album": {
-        "name": "Felipe Pel\u00e1ez 30 Grandes \u00c9xitos",
-        "url": "https://open.spotify.com/album/0f5F611gI9fLfW7N9wr5Zw"
-      },
-      "artists": [
-        {
-          "name": "Felipe Pel\u00e1ez",
-          "url": "https://open.spotify.com/artist/6dexNK5MjEL8UvmA5MjSgg"
-        },
-        {
-          "name": "Zabaleta",
-          "url": "https://open.spotify.com/artist/234WpokzuaWmbfhdocebBU"
-        }
-      ],
-      "duration_ms": 275186,
-      "name": "El Amor M\u00e1s Grande del Planeta",
-      "url": "https://open.spotify.com/track/1NUCgLFBPg0R4B6IPUcieM"
     },
     {
       "added_at": "2022-12-16 20:17:47",
@@ -1011,22 +1011,6 @@
     {
       "added_at": "2022-12-16 20:17:47",
       "album": {
-        "name": "De Am\u00e9rica",
-        "url": "https://open.spotify.com/album/3bVIsgDLKfaiDTT9KHhjK7"
-      },
-      "artists": [
-        {
-          "name": "Binomio de Oro",
-          "url": "https://open.spotify.com/artist/6n21XaDAuqpceTXBiypR9W"
-        }
-      ],
-      "duration_ms": 288493,
-      "name": "S\u00f3lo Para Ti",
-      "url": "https://open.spotify.com/track/1kkIlrp0Z69s5KlnR4ckoe"
-    },
-    {
-      "added_at": "2022-12-16 20:17:47",
-      "album": {
         "name": "Gracias Mi Gente",
         "url": "https://open.spotify.com/album/42mGPazMoiDn6hWgitQYgX"
       },
@@ -1043,6 +1027,22 @@
       "duration_ms": 286493,
       "name": "No Te Detengas",
       "url": "https://open.spotify.com/track/294HmohCkFANQH6tm9jzfA"
+    },
+    {
+      "added_at": "2022-12-16 20:17:47",
+      "album": {
+        "name": "De Am\u00e9rica",
+        "url": "https://open.spotify.com/album/3bVIsgDLKfaiDTT9KHhjK7"
+      },
+      "artists": [
+        {
+          "name": "Binomio de Oro",
+          "url": "https://open.spotify.com/artist/6n21XaDAuqpceTXBiypR9W"
+        }
+      ],
+      "duration_ms": 288493,
+      "name": "S\u00f3lo Para Ti",
+      "url": "https://open.spotify.com/track/1kkIlrp0Z69s5KlnR4ckoe"
     },
     {
       "added_at": "2022-12-16 20:17:47",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5ja5oV6Kto0.md) - [plain]
 
 > The contemporary new wave of alternative, genre\-bending and creative afro\-fusion music\. Cover: <a href="https://open.spotify.com/artist/4iYJ88IcQS4GFqLqWGE5yx?si=tJ435HYvThO27\-Ph66\_iVQ"> Tim Lyre </a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 85,086 likes - 80 songs - 3 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 85,118 likes - 80 songs - 3 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5ja5oV6Kto0.md) - [plain]
 | 79 | [Love Me or Die](https://open.spotify.com/track/2cBHL4166AAaVN57hXlOkc) | [Anabel Rose](https://open.spotify.com/artist/3eVgQnpc2p4D7ora60WBKb) | [Love Me or Die](https://open.spotify.com/album/1qfrOp11Qy09gcyBDS1o5w) | 3:39 |
 | 80 | [The Bad Ones](https://open.spotify.com/track/0iOaXKUTATIIOqdfIvC8cz) | [Lady Donli](https://open.spotify.com/artist/5joHzVrVQzu41KFBlZQDvG) | [Pan African Rockstar](https://open.spotify.com/album/2kA7NTDqESZM0B7COf3cfh) | 2:05 |
 
-Snapshot ID: `MCxiMzVjZGEwOTYxMmI2NGY1YTdiMGU3MTQwMTk0NDgwODI4YWM0MjE2`
+Snapshot ID: `MCxjZTg1NDUzOWIzN2UxOGRhM2JlNjhhYmIzNDk0NjAxZWI4YjRhYTlm`

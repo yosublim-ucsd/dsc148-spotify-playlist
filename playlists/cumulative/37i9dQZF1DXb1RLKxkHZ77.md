@@ -4,7 +4,7 @@
 
 > Lagu\-lagu yang terbaik di Malaysia\. Cover: Masdo, Aisyah Aziz
 
-314 songs - 19 hr 52 min
+316 songs - 20 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,11 +32,13 @@
 | [Bakawali](https://open.spotify.com/track/3E8KWH68Tf8yUGBve4iZJ5) | [Wany Hasrita](https://open.spotify.com/artist/0PBXOGA0xgHq709dXGvbP1), [Dato Jamal Abdillah](https://open.spotify.com/artist/2EYYkKx3dOBxFnx75HDNuf) | [Bakawali](https://open.spotify.com/album/1rt7xlrmsW7qAnOAcN0yNf) | 4:20 | 2022-11-24 | 2023-01-05 |
 | [Belai](https://open.spotify.com/track/5I2JFiU2QrajBkY3Z8l9RF) | [Bunga](https://open.spotify.com/artist/1lHG5Nh4kVcBViogIek98t), [Amsyar Leee](https://open.spotify.com/artist/6ofZ3MNiuNNGPKEbOaWEY8) | [Belai](https://open.spotify.com/album/08vWdvWvob9YPnrr3Z3qAg) | 3:43 | 2022-05-25 | 2022-09-01 |
 | [Belakang Tabir](https://open.spotify.com/track/6RVcLLQTOoh0ghmrhNAWQ5) | [Syamel](https://open.spotify.com/artist/5K7M6xiKbPlcekc5fjqbgx) | [Belakang Tabir](https://open.spotify.com/album/7hsrVcZzR75tdyZBPMyx5M) | 4:20 | 2023-10-04 |  |
+| [Belenggu](https://open.spotify.com/track/1DBEvpaRQoyvJazmNu40fe) | [Ruffedge](https://open.spotify.com/artist/4tXGHWIchjVRSmjszOty8x) | [Belenggu](https://open.spotify.com/album/6CCOiQQGxjprypAc5vSTgH) | 3:40 | 2023-10-18 |  |
 | [Belum Siap Kehilangan](https://open.spotify.com/track/56Uibq6ur2xwUpSd9biBH1) | [Stevan Pasaribu](https://open.spotify.com/artist/4sbcrENSiVe3Yn9ftToC4b) | [Belum Siap Kehilangan](https://open.spotify.com/album/07GSDlyuAPsCKtqTmyN80x) | 4:48 | 2022-05-25 | 2023-01-26 |
 | [Benar](https://open.spotify.com/track/5XRffsZ6c9u2I2yWRZBBx1) | [Ezra Kairo](https://open.spotify.com/artist/39J6LLJULSR5b2dJbg6TRH) | [Benar](https://open.spotify.com/album/5LP13IhwD4ZdL7bZASjyQP) | 2:39 | 2023-03-15 | 2023-04-20 |
 | [Berdamai](https://open.spotify.com/track/5MQPJBK0VdL99aLqSKuOTM) | [Raisa](https://open.spotify.com/artist/5OZXWMwDhlYBRvoOfcX0sk) | [It's Personal](https://open.spotify.com/album/7i3fjDLM0IUgQVewdDZitV) | 4:36 | 2022-05-25 | 2022-06-01 |
 | [Berkunjung Di Hari Raya](https://open.spotify.com/track/6bWQZ2rQR71qPr59MGZurE) | [Aina Abdul](https://open.spotify.com/artist/48FNCGA8dKjcsfTO3TMcAV) | [Berkunjung Di Hari Raya](https://open.spotify.com/album/7qhEWs5dLVxEv7jL6vy3aV) | 3:07 | 2023-04-12 | 2023-05-11 |
 | [Berona](https://open.spotify.com/track/5w4u2NiaTnBmiCFZSyQxYY) | [Rizky Febian](https://open.spotify.com/artist/28DdkLhrzQNizZ0ExQpyku) | [Berona](https://open.spotify.com/album/0VXwE7HnJZ0HIv6SXuOMh2) | 2:15 | 2023-07-19 | 2023-08-24 |
+| [Berpayung Tuhan](https://open.spotify.com/track/5n7JlSbYBsUSncCwm5OAOh) | [Nadin Amizah](https://open.spotify.com/artist/20zafXaLhm5IcXnSU93rNn) | [Untuk Dunia, Cinta, dan Kotornya](https://open.spotify.com/album/5hpq1LSLCuC7cifjXAM5bf) | 4:57 | 2023-10-18 |  |
 | [Bertahan / Pergi](https://open.spotify.com/track/5ljnTSvVHXNlOLYSRDWPgM) | [Raisa](https://open.spotify.com/artist/5OZXWMwDhlYBRvoOfcX0sk) | [Bertahan / Pergi](https://open.spotify.com/album/33lrHJbplh0dOA5WzVP2T0) | 4:00 | 2022-11-24 | 2023-01-26 |
 | [Bertahan Terluka](https://open.spotify.com/track/3ajNIJJmIbFFJKZcTolYZO) | [Fabio Asher](https://open.spotify.com/artist/6FTLayBxjkQeanFdUusk1I) | [Bertahan Terluka](https://open.spotify.com/album/1RgMS8KsAn6fTBw1maWpmo) | 4:00 | 2022-05-25 | 2022-10-09 |
 | [Bertahan Terluka](https://open.spotify.com/track/62sancAaHEMwPxBuatzaay) | [Fabio Asher](https://open.spotify.com/artist/6FTLayBxjkQeanFdUusk1I) | [ASHER](https://open.spotify.com/album/4km2qQIoGCCevm1Qf51OcE) | 4:00 | 2023-02-01 | 2023-08-03 |
@@ -119,7 +121,7 @@
 | [Is It True](https://open.spotify.com/track/0teG0iZkp0hNgLrb7coc9c) | [Afiq Adnan](https://open.spotify.com/artist/4N5d5HPKGz8hi3Tv9WdPJu), [Amira Othman](https://open.spotify.com/artist/31aRV0LJpJ88B7WX6PNspi) | [Is It True](https://open.spotify.com/album/5s1cax8A6OsD5KUihrExie) | 2:49 | 2023-06-28 | 2023-07-26 |
 | [Isteri](https://open.spotify.com/track/1H50k7ZiylQVuuVOYIvlZr) | [Alif Satar & The Locos](https://open.spotify.com/artist/3QJLrhJdfnlCvNg7fcJWNP) | [Isteri](https://open.spotify.com/album/31hFm4Jh0q1LS4oQSO7EhN) | 2:44 | 2022-08-24 | 2022-10-13 |
 | [Jaga Dia](https://open.spotify.com/track/5emcN3KQH26IrZsvOzZE7y) | [Daniesh Suffian](https://open.spotify.com/artist/0lvy5lqKIOZlOe8YrDgQRw) | [Jaga Dia](https://open.spotify.com/album/6Hhk7RGnmKeukb6P8QibFb) | 3:37 | 2023-07-05 | 2023-09-14 |
-| [Jalan Terbaik](https://open.spotify.com/track/2tvAYDXVbOyIQvKTlrqeKX) | [Kaleb J](https://open.spotify.com/artist/3sMsWkApnc6yPyMUsNHQlb) | [Jalan Terbaik](https://open.spotify.com/album/2WrbuH0yPWAAc2oQ59J9Et) | 4:50 | 2023-09-27 |  |
+| [Jalan Terbaik](https://open.spotify.com/track/2tvAYDXVbOyIQvKTlrqeKX) | [Kaleb J](https://open.spotify.com/artist/3sMsWkApnc6yPyMUsNHQlb) | [Jalan Terbaik](https://open.spotify.com/album/2WrbuH0yPWAAc2oQ59J9Et) | 4:50 | 2023-09-27 | 2023-10-19 |
 | [Jangan Ada Dusta Diantara Kita](https://open.spotify.com/track/7yOOxQWaypqMHW21HwxKgk) | [Raffa Affar](https://open.spotify.com/artist/7JqV001XBrSr1Iyt66VPGk), [Rachel Patricia](https://open.spotify.com/artist/57PgHtyRgqcUwxJdgMr7mo) | [Jangan Ada Dusta Diantara Kita](https://open.spotify.com/album/0s0gDzEspCuawHzw0SWTTD) | 3:49 | 2022-10-05 | 2022-11-03 |
 | [Jangan Lepas Tanganku](https://open.spotify.com/track/0SQtAYM5mBBaEKGDHi2mdM) | [Sufi Rashid](https://open.spotify.com/artist/5PWVTaSK4hMtsF15AwAcKQ) | [Jangan Lepas Tanganku](https://open.spotify.com/album/3kGKqwSIBZRo4VelfWTWlb) | 4:15 | 2023-01-25 | 2023-02-23 |
 | [Jangan Mati Rasa Itu](https://open.spotify.com/track/2Gylos7ElhD3bFsw7vt6gt) | [Aina Abdul](https://open.spotify.com/artist/48FNCGA8dKjcsfTO3TMcAV) | [Jangan Mati Rasa Itu](https://open.spotify.com/album/4IjHQwUjvEYogpdBSmPdVq) | 5:05 | 2023-08-30 | 2023-09-28 |
@@ -274,7 +276,7 @@
 | [Sisa Rasa](https://open.spotify.com/track/6pmo9ha8iOPZc5lxPU9o8w) | [Mahalini](https://open.spotify.com/artist/3wOsYKZM0zcKNasi3I7fP4) | [Sisa Rasa](https://open.spotify.com/album/1HWELX1pBJxEArEKKoepuJ) | 4:14 | 2022-05-25 | 2023-09-07 |
 | [Solo Trip](https://open.spotify.com/track/1mXCwImDRQO7XLMjnVDH3u) | [Luca Sickta](https://open.spotify.com/artist/3pTnpQxoPsO7pptxSxA7yG) | [Solo Trip](https://open.spotify.com/album/0EwwBVzJdzi51IuVQR7RJg) | 3:03 | 2023-10-11 |  |
 | [Suasana Hari Raya](https://open.spotify.com/track/37fHM5hdmn0PGXh7q4EIum) | [Ernie Zakri](https://open.spotify.com/artist/5Plk4JdCzMxhAHSRTEsxJp) | [Suasana Hari Raya](https://open.spotify.com/album/2oCUKhVOJcnliPxBa3QM9V) | 2:34 | 2023-04-12 | 2023-05-04 |
-| [SUDAH](https://open.spotify.com/track/5DpCt9HziSoGr6njdpd59d) | [Ara Johari](https://open.spotify.com/artist/0xuL8l2qakTAyURbZb1gtc) | [SUDAH](https://open.spotify.com/album/0xjje8aNTXVWKI6GcsgUR2) | 3:46 | 2023-09-27 |  |
+| [SUDAH](https://open.spotify.com/track/5DpCt9HziSoGr6njdpd59d) | [Ara Johari](https://open.spotify.com/artist/0xuL8l2qakTAyURbZb1gtc) | [SUDAH](https://open.spotify.com/album/0xjje8aNTXVWKI6GcsgUR2) | 3:46 | 2023-09-27 | 2023-10-19 |
 | [Sudah](https://open.spotify.com/track/4QiDXOOZMepYFLnjGb3WxO) | [Nikki Palikat](https://open.spotify.com/artist/6EdlX521xMCxqlD9vUeQKa) | [Sudah](https://open.spotify.com/album/1ndWLa36vkw30BKdhgjHt9) | 3:41 | 2022-05-25 | 2022-07-22 |
 | [Sudah Kahwin Ke Belum?](https://open.spotify.com/track/1X6KhFtqz9medAyHkHpnYq) | [Luqman Podolski](https://open.spotify.com/artist/3OhGgq6XTlkr8Q99UA12Mh), [Bunga](https://open.spotify.com/artist/1lHG5Nh4kVcBViogIek98t) | [Sudah Kahwin Ke Belum?](https://open.spotify.com/album/4KhZgxwB83E1tZDKoFU8K0) | 2:50 | 2023-10-04 |  |
 | [Sudi](https://open.spotify.com/track/13j1GXauy306qxQmmBPRQm) | [Akwa Arifin](https://open.spotify.com/artist/07brHDNIrWQZPcOrepCicM), [Najwa Latif](https://open.spotify.com/artist/5uuA00QFo3PFnc16RVZwwt) | [Sudi](https://open.spotify.com/album/35FywzkPW8jYWX4naV5Xgv) | 3:04 | 2023-02-01 | 2023-04-06 |

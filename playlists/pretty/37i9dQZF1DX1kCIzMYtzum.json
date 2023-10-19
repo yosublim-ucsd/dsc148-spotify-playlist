@@ -1,12 +1,12 @@
 {
   "description": "Home is where the main stage is. \ud83d\udc97",
-  "num_followers": 194443,
+  "num_followers": 194630,
   "original_name": "EDM 2023",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyZDNmMTg4MjkzNTE0YWM3NDkyMzEwY2M5NTMyYzBjM2VlMGFjMDVk",
+  "snapshot_id": "MCwxN2EyMWI3NjM5NjM4OWMzM2IyYmEzZTdmZTE2YmNlOThkNmM1NWUw",
   "tracks": [
     {
       "added_at": "2023-10-13 04:00:00",
@@ -559,26 +559,6 @@
     {
       "added_at": "2023-10-13 04:00:00",
       "album": {
-        "name": "Weekends",
-        "url": "https://open.spotify.com/album/68Ph2nuIeP3e0vzRxrUmkh"
-      },
-      "artists": [
-        {
-          "name": "Jonas Blue",
-          "url": "https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf"
-        },
-        {
-          "name": "Felix Jaehn",
-          "url": "https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG"
-        }
-      ],
-      "duration_ms": 127003,
-      "name": "Weekends",
-      "url": "https://open.spotify.com/track/3JlHRjPt2TNB9h7VFf0im2"
-    },
-    {
-      "added_at": "2023-10-13 04:00:00",
-      "album": {
         "name": "Atmosphere",
         "url": "https://open.spotify.com/album/3rGYf6tkyIJ4BE2O2k7o0d"
       },
@@ -595,6 +575,26 @@
       "duration_ms": 182857,
       "name": "Atmosphere",
       "url": "https://open.spotify.com/track/1aNUSKBe6UMyMk3pEu9ws7"
+    },
+    {
+      "added_at": "2023-10-13 04:00:00",
+      "album": {
+        "name": "Weekends",
+        "url": "https://open.spotify.com/album/68Ph2nuIeP3e0vzRxrUmkh"
+      },
+      "artists": [
+        {
+          "name": "Jonas Blue",
+          "url": "https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf"
+        },
+        {
+          "name": "Felix Jaehn",
+          "url": "https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG"
+        }
+      ],
+      "duration_ms": 127003,
+      "name": "Weekends",
+      "url": "https://open.spotify.com/track/3JlHRjPt2TNB9h7VFf0im2"
     },
     {
       "added_at": "2023-10-13 04:00:00",
@@ -1043,6 +1043,26 @@
     {
       "added_at": "2023-10-13 04:00:00",
       "album": {
+        "name": "Sunglasses At Night",
+        "url": "https://open.spotify.com/album/4hLi7mKyVQ3tL20otPQpk1"
+      },
+      "artists": [
+        {
+          "name": "Gabry Ponte",
+          "url": "https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D"
+        },
+        {
+          "name": "Don Diablo",
+          "url": "https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1"
+        }
+      ],
+      "duration_ms": 170000,
+      "name": "Sunglasses At Night",
+      "url": "https://open.spotify.com/track/6eoY6XnhGFr3HInyECJdbx"
+    },
+    {
+      "added_at": "2023-10-13 04:00:00",
+      "album": {
         "name": "See You Again",
         "url": "https://open.spotify.com/album/5YD0kqXIXIg5GqSHiX7pJ4"
       },
@@ -1063,26 +1083,6 @@
       "duration_ms": 163451,
       "name": "See You Again",
       "url": "https://open.spotify.com/track/1wYTR3Hg5rBQcdfxGEdsx0"
-    },
-    {
-      "added_at": "2023-10-13 04:00:00",
-      "album": {
-        "name": "Sunglasses At Night",
-        "url": "https://open.spotify.com/album/4hLi7mKyVQ3tL20otPQpk1"
-      },
-      "artists": [
-        {
-          "name": "Gabry Ponte",
-          "url": "https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D"
-        },
-        {
-          "name": "Don Diablo",
-          "url": "https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1"
-        }
-      ],
-      "duration_ms": 170000,
-      "name": "Sunglasses At Night",
-      "url": "https://open.spotify.com/track/6eoY6XnhGFr3HInyECJdbx"
     },
     {
       "added_at": "2023-10-13 04:00:00",
@@ -1167,26 +1167,6 @@
     {
       "added_at": "2023-10-13 04:00:00",
       "album": {
-        "name": "Self Destruction Mode",
-        "url": "https://open.spotify.com/album/2freNDhR5KMLOUVIKZExtd"
-      },
-      "artists": [
-        {
-          "name": "The Chainsmokers",
-          "url": "https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp"
-        },
-        {
-          "name": "bludnymph",
-          "url": "https://open.spotify.com/artist/7GwwoezwdbKvUaNgtg51pX"
-        }
-      ],
-      "duration_ms": 147836,
-      "name": "Self Destruction Mode",
-      "url": "https://open.spotify.com/track/05e1CoIPmXLy6aPBotZlTZ"
-    },
-    {
-      "added_at": "2023-10-13 04:00:00",
-      "album": {
         "name": "All You Need Is Love",
         "url": "https://open.spotify.com/album/6LoQoWCm9bF4dSQI2ZWtXe"
       },
@@ -1235,6 +1215,26 @@
       "duration_ms": 279692,
       "name": "Sacrifice",
       "url": "https://open.spotify.com/track/76YXmewvHFse7tBeOTtSx3"
+    },
+    {
+      "added_at": "2023-10-13 04:00:00",
+      "album": {
+        "name": "Self Destruction Mode",
+        "url": "https://open.spotify.com/album/2freNDhR5KMLOUVIKZExtd"
+      },
+      "artists": [
+        {
+          "name": "The Chainsmokers",
+          "url": "https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp"
+        },
+        {
+          "name": "bludnymph",
+          "url": "https://open.spotify.com/artist/7GwwoezwdbKvUaNgtg51pX"
+        }
+      ],
+      "duration_ms": 147836,
+      "name": "Self Destruction Mode",
+      "url": "https://open.spotify.com/track/05e1CoIPmXLy6aPBotZlTZ"
     },
     {
       "added_at": "2023-10-13 04:00:00",
@@ -1379,30 +1379,6 @@
     {
       "added_at": "2023-10-13 04:00:00",
       "album": {
-        "name": "Revolution",
-        "url": "https://open.spotify.com/album/19EBg9uVXWeTh3T0MzAj7X"
-      },
-      "artists": [
-        {
-          "name": "Hardwell",
-          "url": "https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174"
-        },
-        {
-          "name": "Timmy Trumpet",
-          "url": "https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ"
-        },
-        {
-          "name": "Maddix",
-          "url": "https://open.spotify.com/artist/0RMeG9M8QFzss9bAbq99KA"
-        }
-      ],
-      "duration_ms": 166285,
-      "name": "Revolution",
-      "url": "https://open.spotify.com/track/4YtVNUrDjKbdrpkreAaz17"
-    },
-    {
-      "added_at": "2023-10-13 04:00:00",
-      "album": {
         "name": "Better Off (Alone, Pt. III)",
         "url": "https://open.spotify.com/album/1eQk5l0bTQPg2w8knqu6NS"
       },
@@ -1423,6 +1399,30 @@
       "duration_ms": 151702,
       "name": "Better Off (Alone, Pt. III)",
       "url": "https://open.spotify.com/track/1P7hMSbpJOQy58eC78qx7s"
+    },
+    {
+      "added_at": "2023-10-13 04:00:00",
+      "album": {
+        "name": "Revolution",
+        "url": "https://open.spotify.com/album/19EBg9uVXWeTh3T0MzAj7X"
+      },
+      "artists": [
+        {
+          "name": "Hardwell",
+          "url": "https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174"
+        },
+        {
+          "name": "Timmy Trumpet",
+          "url": "https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ"
+        },
+        {
+          "name": "Maddix",
+          "url": "https://open.spotify.com/artist/0RMeG9M8QFzss9bAbq99KA"
+        }
+      ],
+      "duration_ms": 166285,
+      "name": "Revolution",
+      "url": "https://open.spotify.com/track/4YtVNUrDjKbdrpkreAaz17"
     },
     {
       "added_at": "2023-10-13 04:00:00",
@@ -1515,6 +1515,26 @@
     {
       "added_at": "2023-10-13 04:00:00",
       "album": {
+        "name": "REBELS NEVER DIE (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/6giiV9q6odKQWeR6tfBgyX"
+      },
+      "artists": [
+        {
+          "name": "Hardwell",
+          "url": "https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174"
+        },
+        {
+          "name": "Metallica",
+          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
+        }
+      ],
+      "duration_ms": 189374,
+      "name": "Nothing Else Matters vs F*CKING SOCIETY - Hardwell Mashup",
+      "url": "https://open.spotify.com/track/107nvz0Fjnsq9O9g61myZ5"
+    },
+    {
+      "added_at": "2023-10-13 04:00:00",
+      "album": {
         "name": "Dirty Talk (with Sam Feldt)",
         "url": "https://open.spotify.com/album/6CkeZGNC4LSSDOHkahPgfp"
       },
@@ -1531,22 +1551,6 @@
       "duration_ms": 141290,
       "name": "Dirty Talk (with Sam Feldt)",
       "url": "https://open.spotify.com/track/4Q5A1yfmDXlB4s7JyuDKzw"
-    },
-    {
-      "added_at": "2023-10-13 04:00:00",
-      "album": {
-        "name": "Dreamer",
-        "url": "https://open.spotify.com/album/2lqGGudTqfh9zLgx0CWiSU"
-      },
-      "artists": [
-        {
-          "name": "Alan Walker",
-          "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
-        }
-      ],
-      "duration_ms": 155409,
-      "name": "Dreamer",
-      "url": "https://open.spotify.com/track/3eClq9oJiACXJZuCsErmWr"
     },
     {
       "added_at": "2023-10-13 04:00:00",
@@ -1595,22 +1599,18 @@
     {
       "added_at": "2023-10-13 04:00:00",
       "album": {
-        "name": "REBELS NEVER DIE (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/6giiV9q6odKQWeR6tfBgyX"
+        "name": "Dreamer",
+        "url": "https://open.spotify.com/album/2lqGGudTqfh9zLgx0CWiSU"
       },
       "artists": [
         {
-          "name": "Hardwell",
-          "url": "https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174"
-        },
-        {
-          "name": "Metallica",
-          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
+          "name": "Alan Walker",
+          "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
         }
       ],
-      "duration_ms": 189374,
-      "name": "Nothing Else Matters vs F*CKING SOCIETY - Hardwell Mashup",
-      "url": "https://open.spotify.com/track/107nvz0Fjnsq9O9g61myZ5"
+      "duration_ms": 155409,
+      "name": "Dreamer",
+      "url": "https://open.spotify.com/track/3eClq9oJiACXJZuCsErmWr"
     },
     {
       "added_at": "2023-10-13 04:00:00",
@@ -1715,6 +1715,26 @@
     {
       "added_at": "2023-10-13 04:00:00",
       "album": {
+        "name": "Shotgun (It Ain't Over)",
+        "url": "https://open.spotify.com/album/6TZ7ruGd9mOmsw1IvShUm5"
+      },
+      "artists": [
+        {
+          "name": "Hardwell",
+          "url": "https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174"
+        },
+        {
+          "name": "Bright Lights",
+          "url": "https://open.spotify.com/artist/2AoeqcUs8DySgZRJ9yV4Ou"
+        }
+      ],
+      "duration_ms": 155909,
+      "name": "Shotgun (It Ain't Over)",
+      "url": "https://open.spotify.com/track/1VDALv89k5kHC0B3neBwru"
+    },
+    {
+      "added_at": "2023-10-13 04:00:00",
+      "album": {
         "name": "Where You Are (Zedd Remix)",
         "url": "https://open.spotify.com/album/2QQVFNpjeX32mDhDi3Ad1B"
       },
@@ -1763,26 +1783,6 @@
     {
       "added_at": "2023-10-13 04:00:00",
       "album": {
-        "name": "Shotgun (It Ain't Over)",
-        "url": "https://open.spotify.com/album/6TZ7ruGd9mOmsw1IvShUm5"
-      },
-      "artists": [
-        {
-          "name": "Hardwell",
-          "url": "https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174"
-        },
-        {
-          "name": "Bright Lights",
-          "url": "https://open.spotify.com/artist/2AoeqcUs8DySgZRJ9yV4Ou"
-        }
-      ],
-      "duration_ms": 155909,
-      "name": "Shotgun (It Ain't Over)",
-      "url": "https://open.spotify.com/track/1VDALv89k5kHC0B3neBwru"
-    },
-    {
-      "added_at": "2023-10-13 04:00:00",
-      "album": {
         "name": "Anti-Hero (ILLENIUM Remix)",
         "url": "https://open.spotify.com/album/20wq0dFrgEhhulGXqnb4A6"
       },
@@ -1819,6 +1819,26 @@
       "duration_ms": 223561,
       "name": "Pour Your Heart Out (feat. 070 Shake)",
       "url": "https://open.spotify.com/track/4p16E9c9Ig6xFMGS3Y82mT"
+    },
+    {
+      "added_at": "2023-10-13 04:00:00",
+      "album": {
+        "name": "Judgement Day",
+        "url": "https://open.spotify.com/album/0by4En9FMFKLpeDiq6DhCF"
+      },
+      "artists": [
+        {
+          "name": "Hardwell",
+          "url": "https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174"
+        },
+        {
+          "name": "Sub Zero Project",
+          "url": "https://open.spotify.com/artist/4f0OXMMSxr0r8Ztx6CdpAl"
+        }
+      ],
+      "duration_ms": 268800,
+      "name": "Judgement Day",
+      "url": "https://open.spotify.com/track/2WtAN4pdVELZmswx5QGGyY"
     },
     {
       "added_at": "2023-10-13 04:00:00",
@@ -1935,26 +1955,22 @@
     {
       "added_at": "2023-10-13 04:00:00",
       "album": {
-        "name": "The Race",
-        "url": "https://open.spotify.com/album/4sIj4kb8FYCvImEYrzJc0h"
+        "name": "Human",
+        "url": "https://open.spotify.com/album/7brW7G3kHHkhr3eu838HhH"
       },
       "artists": [
         {
-          "name": "Timmy Trumpet",
-          "url": "https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ"
+          "name": "Hardwell",
+          "url": "https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174"
         },
         {
-          "name": "Vini Vici",
-          "url": "https://open.spotify.com/artist/29zsVzEH33dD5QqxeL8dvy"
-        },
-        {
-          "name": "Sub Zero Project",
-          "url": "https://open.spotify.com/artist/4f0OXMMSxr0r8Ztx6CdpAl"
+          "name": "Machine Made",
+          "url": "https://open.spotify.com/artist/56J7OPV77W9hMJQIRtvaBB"
         }
       ],
-      "duration_ms": 160887,
-      "name": "The Race",
-      "url": "https://open.spotify.com/track/3cv2fSTYRr42WM90C9dswx"
+      "duration_ms": 245413,
+      "name": "Human",
+      "url": "https://open.spotify.com/track/5i9khhoOkeogB49q54KOIz"
     },
     {
       "added_at": "2023-10-13 04:00:00",
@@ -1983,22 +1999,26 @@
     {
       "added_at": "2023-10-13 04:00:00",
       "album": {
-        "name": "Judgement Day",
-        "url": "https://open.spotify.com/album/0by4En9FMFKLpeDiq6DhCF"
+        "name": "The Race",
+        "url": "https://open.spotify.com/album/4sIj4kb8FYCvImEYrzJc0h"
       },
       "artists": [
         {
-          "name": "Hardwell",
-          "url": "https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174"
+          "name": "Timmy Trumpet",
+          "url": "https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ"
+        },
+        {
+          "name": "Vini Vici",
+          "url": "https://open.spotify.com/artist/29zsVzEH33dD5QqxeL8dvy"
         },
         {
           "name": "Sub Zero Project",
           "url": "https://open.spotify.com/artist/4f0OXMMSxr0r8Ztx6CdpAl"
         }
       ],
-      "duration_ms": 268800,
-      "name": "Judgement Day",
-      "url": "https://open.spotify.com/track/2WtAN4pdVELZmswx5QGGyY"
+      "duration_ms": 160887,
+      "name": "The Race",
+      "url": "https://open.spotify.com/track/3cv2fSTYRr42WM90C9dswx"
     },
     {
       "added_at": "2023-10-13 04:00:00",
@@ -2043,26 +2063,6 @@
     {
       "added_at": "2023-10-13 04:00:00",
       "album": {
-        "name": "Let Me Go",
-        "url": "https://open.spotify.com/album/4W6JgfyZpadxcjoPEXCyee"
-      },
-      "artists": [
-        {
-          "name": "Theresa Rex",
-          "url": "https://open.spotify.com/artist/6t9tbRO9Lv6Oq6xtVwfdrn"
-        },
-        {
-          "name": "AFROJACK",
-          "url": "https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz"
-        }
-      ],
-      "duration_ms": 183495,
-      "name": "Let Me Go",
-      "url": "https://open.spotify.com/track/6L35B2ydbabuLe9q7diEq7"
-    },
-    {
-      "added_at": "2023-10-13 04:00:00",
-      "album": {
         "name": "Save Me (From Myself) (feat. Kyle Hume)",
         "url": "https://open.spotify.com/album/47VbVxpe5CtPMOFCpzliMr"
       },
@@ -2079,6 +2079,26 @@
       "duration_ms": 218666,
       "name": "Save Me (From Myself) (feat. Kyle Hume)",
       "url": "https://open.spotify.com/track/6POZ7ocsOQQvJrfArz6KOD"
+    },
+    {
+      "added_at": "2023-10-13 04:00:00",
+      "album": {
+        "name": "Let Me Go",
+        "url": "https://open.spotify.com/album/4W6JgfyZpadxcjoPEXCyee"
+      },
+      "artists": [
+        {
+          "name": "Theresa Rex",
+          "url": "https://open.spotify.com/artist/6t9tbRO9Lv6Oq6xtVwfdrn"
+        },
+        {
+          "name": "AFROJACK",
+          "url": "https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz"
+        }
+      ],
+      "duration_ms": 183495,
+      "name": "Let Me Go",
+      "url": "https://open.spotify.com/track/6L35B2ydbabuLe9q7diEq7"
     },
     {
       "added_at": "2023-10-13 04:00:00",
@@ -2103,26 +2123,6 @@
       "duration_ms": 131538,
       "name": "Hands Up",
       "url": "https://open.spotify.com/track/3WCxK21BE4ar25o8hYUsWn"
-    },
-    {
-      "added_at": "2023-10-13 04:00:00",
-      "album": {
-        "name": "Days Before Grace",
-        "url": "https://open.spotify.com/album/6Hkf54OpfrK7PGlab7OB1J"
-      },
-      "artists": [
-        {
-          "name": "ZHU",
-          "url": "https://open.spotify.com/artist/28j8lBWDdDSHSSt5oPlsX2"
-        },
-        {
-          "name": "Devault",
-          "url": "https://open.spotify.com/artist/1VBAKMui4zm5MnBWNn3NbL"
-        }
-      ],
-      "duration_ms": 301664,
-      "name": "Take My Soul",
-      "url": "https://open.spotify.com/track/2Qe6S4Xy5rS2Vidoaxp6b0"
     }
   ],
   "unique_name": "EDM 2023",

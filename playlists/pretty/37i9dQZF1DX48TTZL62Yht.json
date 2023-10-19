@@ -1,12 +1,12 @@
 {
   "description": "The tracks you just keep pulling up. Cover: Drake \ud83d\udc15 ",
-  "num_followers": 459507,
+  "num_followers": 459815,
   "original_name": "Hip-Hop Favourites",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4OGE0M2FlNDJiOTFlMDBlOTRjNTI3MjY3YzdhZWZlOGVhZjFjYjg1",
+  "snapshot_id": "MCwyZjAyODk5ODA5YzE3ZDg2MTVkZmEzNDA3ZDJkMzg0Mzk1ZjQzMDFm",
   "tracks": [
     {
       "added_at": "2023-10-12 19:49:56",
@@ -1163,6 +1163,22 @@
     {
       "added_at": "2023-10-12 19:49:56",
       "album": {
+        "name": "First Day Out (Freestyle)",
+        "url": "https://open.spotify.com/album/0qGQiQTv8KPSgdK5K2hz1u"
+      },
+      "artists": [
+        {
+          "name": "Rundown Spaz",
+          "url": "https://open.spotify.com/artist/4W7fxKwDR9luCrOryB3GVK"
+        }
+      ],
+      "duration_ms": 142739,
+      "name": "First Day Out (Freestyle)",
+      "url": "https://open.spotify.com/track/7AtQxohgEu5dRYdcY4gB6G"
+    },
+    {
+      "added_at": "2023-10-12 19:49:56",
+      "album": {
         "name": "Die Young (feat. 347aidan)",
         "url": "https://open.spotify.com/album/33C2Ujqsq5tFa93LtafTHN"
       },
@@ -1179,22 +1195,6 @@
       "duration_ms": 148816,
       "name": "Die Young (feat. 347aidan)",
       "url": "https://open.spotify.com/track/6EbVuwU7EnKeF2hdpViXCH"
-    },
-    {
-      "added_at": "2023-10-12 19:49:56",
-      "album": {
-        "name": "First Day Out (Freestyle)",
-        "url": "https://open.spotify.com/album/0qGQiQTv8KPSgdK5K2hz1u"
-      },
-      "artists": [
-        {
-          "name": "Rundown Spaz",
-          "url": "https://open.spotify.com/artist/4W7fxKwDR9luCrOryB3GVK"
-        }
-      ],
-      "duration_ms": 142739,
-      "name": "First Day Out (Freestyle)",
-      "url": "https://open.spotify.com/track/7AtQxohgEu5dRYdcY4gB6G"
     },
     {
       "added_at": "2023-10-12 19:49:56",
@@ -1335,26 +1335,6 @@
     {
       "added_at": "2023-10-12 19:49:56",
       "album": {
-        "name": "The Hillbillies",
-        "url": "https://open.spotify.com/album/6ltyScGRzS0Z2TI1VD5dns"
-      },
-      "artists": [
-        {
-          "name": "Baby Keem",
-          "url": "https://open.spotify.com/artist/5SXuuuRpukkTvsLuUknva1"
-        },
-        {
-          "name": "Kendrick Lamar",
-          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
-        }
-      ],
-      "duration_ms": 204800,
-      "name": "The Hillbillies",
-      "url": "https://open.spotify.com/track/1h6w4POXM2LfG4ZD4xUfZQ"
-    },
-    {
-      "added_at": "2023-10-12 19:49:56",
-      "album": {
         "name": "In My Head",
         "url": "https://open.spotify.com/album/4I00tpvL54vnWy49vH5fRK"
       },
@@ -1383,6 +1363,26 @@
       "duration_ms": 197079,
       "name": "Casper",
       "url": "https://open.spotify.com/track/1B4gJRq61xTs6r1O0Uq2iY"
+    },
+    {
+      "added_at": "2023-10-12 19:49:56",
+      "album": {
+        "name": "The Hillbillies",
+        "url": "https://open.spotify.com/album/6ltyScGRzS0Z2TI1VD5dns"
+      },
+      "artists": [
+        {
+          "name": "Baby Keem",
+          "url": "https://open.spotify.com/artist/5SXuuuRpukkTvsLuUknva1"
+        },
+        {
+          "name": "Kendrick Lamar",
+          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+        }
+      ],
+      "duration_ms": 204800,
+      "name": "The Hillbillies",
+      "url": "https://open.spotify.com/track/1h6w4POXM2LfG4ZD4xUfZQ"
     },
     {
       "added_at": "2023-10-12 19:49:56",
@@ -1555,26 +1555,6 @@
     {
       "added_at": "2023-10-12 19:49:56",
       "album": {
-        "name": "DO IT AGAIN (feat. 2Rare)",
-        "url": "https://open.spotify.com/album/5qPgB3OSDv3KfALFg1PZwe"
-      },
-      "artists": [
-        {
-          "name": "NLE Choppa",
-          "url": "https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ"
-        },
-        {
-          "name": "2Rare",
-          "url": "https://open.spotify.com/artist/2GRDbUJRZwKzeiwxrjJdmQ"
-        }
-      ],
-      "duration_ms": 213206,
-      "name": "DO IT AGAIN (feat. 2Rare)",
-      "url": "https://open.spotify.com/track/5gAwpwuchaCGnJLlBMGBzp"
-    },
-    {
-      "added_at": "2023-10-12 19:49:56",
-      "album": {
         "name": "King's Dead (with Kendrick Lamar, Future & James Blake)",
         "url": "https://open.spotify.com/album/1NXM5lF9YB7a3f1e4R48oH"
       },
@@ -1603,6 +1583,26 @@
     {
       "added_at": "2023-10-12 19:49:56",
       "album": {
+        "name": "DO IT AGAIN (feat. 2Rare)",
+        "url": "https://open.spotify.com/album/5qPgB3OSDv3KfALFg1PZwe"
+      },
+      "artists": [
+        {
+          "name": "NLE Choppa",
+          "url": "https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ"
+        },
+        {
+          "name": "2Rare",
+          "url": "https://open.spotify.com/artist/2GRDbUJRZwKzeiwxrjJdmQ"
+        }
+      ],
+      "duration_ms": 213206,
+      "name": "DO IT AGAIN (feat. 2Rare)",
+      "url": "https://open.spotify.com/track/5gAwpwuchaCGnJLlBMGBzp"
+    },
+    {
+      "added_at": "2023-10-12 19:49:56",
+      "album": {
         "name": "ESCAPE PLAN / MAFIA",
         "url": "https://open.spotify.com/album/5FB5E1fwFeVqpz2CCzRSve"
       },
@@ -1615,38 +1615,6 @@
       "duration_ms": 240000,
       "name": "MAFIA",
       "url": "https://open.spotify.com/track/08F16baYbciTva9P4BvpiI"
-    },
-    {
-      "added_at": "2023-10-12 19:49:56",
-      "album": {
-        "name": "Big Energy",
-        "url": "https://open.spotify.com/album/58MbYehGOl5NAOdfWY5aHa"
-      },
-      "artists": [
-        {
-          "name": "Latto",
-          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
-        }
-      ],
-      "duration_ms": 173182,
-      "name": "Big Energy",
-      "url": "https://open.spotify.com/track/6Zu3aw7FfjAF9WA0fA81Oq"
-    },
-    {
-      "added_at": "2023-10-12 19:49:56",
-      "album": {
-        "name": "Give You What You Want",
-        "url": "https://open.spotify.com/album/49OQ6tF3eo3Fdgp3GMhHep"
-      },
-      "artists": [
-        {
-          "name": "Lil Tjay",
-          "url": "https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR"
-        }
-      ],
-      "duration_ms": 159330,
-      "name": "Give You What You Want",
-      "url": "https://open.spotify.com/track/6PQK1Y3Dl6dym9pj0y9Chy"
     },
     {
       "added_at": "2023-10-12 19:49:56",
@@ -1679,6 +1647,38 @@
     {
       "added_at": "2023-10-12 19:49:56",
       "album": {
+        "name": "Give You What You Want",
+        "url": "https://open.spotify.com/album/49OQ6tF3eo3Fdgp3GMhHep"
+      },
+      "artists": [
+        {
+          "name": "Lil Tjay",
+          "url": "https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR"
+        }
+      ],
+      "duration_ms": 159330,
+      "name": "Give You What You Want",
+      "url": "https://open.spotify.com/track/6PQK1Y3Dl6dym9pj0y9Chy"
+    },
+    {
+      "added_at": "2023-10-12 19:49:56",
+      "album": {
+        "name": "Big Energy",
+        "url": "https://open.spotify.com/album/58MbYehGOl5NAOdfWY5aHa"
+      },
+      "artists": [
+        {
+          "name": "Latto",
+          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
+        }
+      ],
+      "duration_ms": 173182,
+      "name": "Big Energy",
+      "url": "https://open.spotify.com/track/6Zu3aw7FfjAF9WA0fA81Oq"
+    },
+    {
+      "added_at": "2023-10-12 19:49:56",
+      "album": {
         "name": "Featuring Ty Dolla $ign",
         "url": "https://open.spotify.com/album/6M4Nu5UgX097dxeF2lm9P8"
       },
@@ -1699,6 +1699,22 @@
     {
       "added_at": "2023-10-12 19:49:56",
       "album": {
+        "name": "Back For Everything",
+        "url": "https://open.spotify.com/album/7sX9VE0I4zbslanrLXR5aR"
+      },
+      "artists": [
+        {
+          "name": "Kodak Black",
+          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
+        }
+      ],
+      "duration_ms": 200547,
+      "name": "Super Gremlin",
+      "url": "https://open.spotify.com/track/1Y5Jvi3eLi4Chwqch9GMem"
+    },
+    {
+      "added_at": "2023-10-12 19:49:56",
+      "album": {
         "name": "Down In Atlanta",
         "url": "https://open.spotify.com/album/3SxiMoJROq0kvfbQtd75xp"
       },
@@ -1715,22 +1731,6 @@
       "duration_ms": 164041,
       "name": "Down In Atlanta",
       "url": "https://open.spotify.com/track/5unjCay0kUjuej5ebn4nS4"
-    },
-    {
-      "added_at": "2023-10-12 19:49:56",
-      "album": {
-        "name": "Back For Everything",
-        "url": "https://open.spotify.com/album/7sX9VE0I4zbslanrLXR5aR"
-      },
-      "artists": [
-        {
-          "name": "Kodak Black",
-          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
-        }
-      ],
-      "duration_ms": 200547,
-      "name": "Super Gremlin",
-      "url": "https://open.spotify.com/track/1Y5Jvi3eLi4Chwqch9GMem"
     },
     {
       "added_at": "2023-10-12 19:49:56",

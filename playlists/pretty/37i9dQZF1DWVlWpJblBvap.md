@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVlWpJblBvap.md) - [plain]
 
 > Majestic and bold, these new and known worship songs are great for every day\.  Cover artist: <a href="https://open.spotify.com/artist/4leTWyczsXYGlzUh8sFGSz?si=nomEqKq7SM6sx93LoxQChw">Kim Walker\-Smith</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 536,898 likes - 80 songs - 7 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 537,126 likes - 80 songs - 7 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,8 +74,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVlWpJblBvap.md) - [plain]
 | 64 | [I'm Listening \- Radio Version](https://open.spotify.com/track/5ExBj7cdyNLZ1t5PalfPWa) | [Chris McClarney](https://open.spotify.com/artist/2Zbb4oqupGY4mmskwlygCp), [Hollyn](https://open.spotify.com/artist/2E6Nnh7AAOVajEHHRDALav) | [Fill This Place \(Live\)](https://open.spotify.com/album/16CdyumvxDomk04TnJZYe7) | 4:08 |
 | 65 | [In Christ Alone](https://open.spotify.com/track/2hQxLiI93xdjqENJuKeXjO) | [Keith & Kristyn Getty](https://open.spotify.com/artist/0I4Bk2s2BUJyykCwtxx8Xx) | [In Christ Alone](https://open.spotify.com/album/6ZVTgCnYuK6Y5TFO4lna5V) | 4:39 |
 | 66 | [Another In The Fire \- Studio](https://open.spotify.com/track/4HP7ZEPa8nCVhKsGK9gzKM) | [Hillsong UNITED](https://open.spotify.com/artist/74cb3MG0x0BOnYNW1uXYnM), [TAYA](https://open.spotify.com/artist/3D04fb59z3ANxVaeHBfxtW) | [People \(Live\)](https://open.spotify.com/album/4l1CgmeovuVdf2iVmPxeV6) | 4:25 |
-| 67 | [King of My Heart](https://open.spotify.com/track/4HBXdr8LXB22UPBi191b6S) | [John Mark McMillan](https://open.spotify.com/artist/0T1KC0OHfbRO0O5bNH2tek), [Sarah McMillan](https://open.spotify.com/artist/1taeI8pm5kXswB7L4603Tz) | [You Are the Avalanche](https://open.spotify.com/album/21t1ObaaRvRIRRrF1bwlhw) | 4:55 |
-| 68 | [Great I Am](https://open.spotify.com/track/29wltCk6XgsiLdIWw8vbKN) | [Phillips, Craig & Dean](https://open.spotify.com/artist/0g5OkLnQogzLrT9s5vw6kl) | [Breathe In](https://open.spotify.com/album/5klRUhngB9JrMVjiPFDHbP) | 4:29 |
+| 67 | [Great I Am](https://open.spotify.com/track/29wltCk6XgsiLdIWw8vbKN) | [Phillips, Craig & Dean](https://open.spotify.com/artist/0g5OkLnQogzLrT9s5vw6kl) | [Breathe In](https://open.spotify.com/album/5klRUhngB9JrMVjiPFDHbP) | 4:29 |
+| 68 | [King of My Heart](https://open.spotify.com/track/4HBXdr8LXB22UPBi191b6S) | [John Mark McMillan](https://open.spotify.com/artist/0T1KC0OHfbRO0O5bNH2tek), [Sarah McMillan](https://open.spotify.com/artist/1taeI8pm5kXswB7L4603Tz) | [You Are the Avalanche](https://open.spotify.com/album/21t1ObaaRvRIRRrF1bwlhw) | 4:55 |
 | 69 | [Lift You High \- Live](https://open.spotify.com/track/39ssH6XDc7GGq6FDnENkjf) | [Housefires](https://open.spotify.com/artist/6egyCFgiJ1j941PaxKoWJD), [Kirby Kaple](https://open.spotify.com/artist/54P5WwDNRFfSzPEZ7p6Io1), [Dante Bowe](https://open.spotify.com/artist/60JjUCBeLsuJ95WFvqFiFz) | [Housefires + Friends \(Live\)](https://open.spotify.com/album/0fz0bRd6luFI3J8jqiM5Ma) | 7:57 |
 | 70 | [Because He Lives \(Amen\)](https://open.spotify.com/track/4vhKRjmiboAhfunCabpXap) | [Matt Maher](https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW) | [Saints and Sinners](https://open.spotify.com/album/2p4nNg7P6ckP0D7MFOUTgP) | 3:19 |
 | 71 | [Cornerstone \- Live](https://open.spotify.com/track/5KTJJnSs2H1p5SaBXsG0Hb) | [Hillsong Worship](https://open.spotify.com/artist/3SgHzT552wy2W8pNLaLk24), [David Ware](https://open.spotify.com/artist/7u4dUkbQ3gqCiVNge3xUc7) | [Cornerstone \(Live\)](https://open.spotify.com/album/6dG4VcAdbKyhBmfunMitx8) | 6:49 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVlWpJblBvap.md) - [plain]
 | 79 | [Lord Send Revival \- Live](https://open.spotify.com/track/2bwhBn3W0xFftyRu6mBdDZ) | [Hillsong Young & Free](https://open.spotify.com/artist/7m4gF38CPATtHrk5HS42WZ) | [All Of My Best Friends](https://open.spotify.com/album/1JqOZim8WcsjtJXuHrgOQO) | 6:44 |
 | 80 | [Here's My Heart \- Live](https://open.spotify.com/track/4lD6Rr1Z7oNhKh0EtdCNpf) | [Casting Crowns](https://open.spotify.com/artist/6eJqAWJdd8JhAN1pQGie4r) | [A Live Worship Experience](https://open.spotify.com/album/25mkgg56UiC6L5WoVoPteq) | 6:51 |
 
-Snapshot ID: `MCwwZGI1MDc4OTc1YWM1YjIxYWQ4MWM1MjY2ZDVjM2U3MjlhMjBlZTBk`
+Snapshot ID: `MCw5MmVmZDM5ZTk2OWRjYzMyNWE4NjE4YzYzZGFmMjhjZTgzMDAzMTkw`

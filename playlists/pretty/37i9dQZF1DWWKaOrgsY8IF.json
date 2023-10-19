@@ -1,12 +1,12 @@
 {
   "description": "Las mejores canciones de pop latino durante el 2020. En portada: Camilo",
-  "num_followers": 129784,
+  "num_followers": 129795,
   "original_name": "Lo Mejor de Pop Latino 2020",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4NzM2NDgzZDI5MjQ4YzhjZjkxZGM5ZmM0YzJlNDk2YjVhZWE4ZGMw",
+  "snapshot_id": "MCxlZGFlMGIyYWM4OTc5MzJlYzhiYjBiNDYxNmExYzRhYjVmYTA3NTUw",
   "tracks": [
     {
       "added_at": "2020-12-01 05:03:00",
@@ -663,22 +663,6 @@
     {
       "added_at": "2020-12-01 05:03:00",
       "album": {
-        "name": "Incendios",
-        "url": "https://open.spotify.com/album/2jis8I5ZUWtDqV1E0S0NgR"
-      },
-      "artists": [
-        {
-          "name": "Dani Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/0CVOcYvRcSvOXyuR4YGKaC"
-        }
-      ],
-      "duration_ms": 210468,
-      "name": "Bailemos",
-      "url": "https://open.spotify.com/track/5EnaxC9amhXY55ezw87SL8"
-    },
-    {
-      "added_at": "2020-12-01 05:03:00",
-      "album": {
         "name": "Aire (Versi\u00f3n D\u00eda)",
         "url": "https://open.spotify.com/album/6ra5IJfLnuwbBm8NhxA2zX"
       },
@@ -695,6 +679,22 @@
       "duration_ms": 195226,
       "name": "Ma\u00f1ana Es Too Late",
       "url": "https://open.spotify.com/track/7ckO8bTkYT5YzwzwnZ6v5a"
+    },
+    {
+      "added_at": "2020-12-01 05:03:00",
+      "album": {
+        "name": "Incendios",
+        "url": "https://open.spotify.com/album/2jis8I5ZUWtDqV1E0S0NgR"
+      },
+      "artists": [
+        {
+          "name": "Dani Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/0CVOcYvRcSvOXyuR4YGKaC"
+        }
+      ],
+      "duration_ms": 210468,
+      "name": "Bailemos",
+      "url": "https://open.spotify.com/track/5EnaxC9amhXY55ezw87SL8"
     },
     {
       "added_at": "2020-12-01 05:03:00",

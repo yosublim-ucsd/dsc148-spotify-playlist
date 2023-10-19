@@ -4,7 +4,7 @@
 
 > African Praise music taking you all the way up!
 
-99 songs - 8 hr 49 min
+100 songs - 8 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,6 +38,7 @@
 | [Excess Love \- Live](https://open.spotify.com/track/3eqODi0QYCr5nqMtzpYMoL) | [JJ Hairston](https://open.spotify.com/artist/2PiKaajF8T1X6KGgvYlxOD), [Youthful Praise](https://open.spotify.com/artist/6RHDefZfOAyKIPCLnwOOq0), [Mercy Chinwo](https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp) | [Miracle Worker \(Live\)](https://open.spotify.com/album/0yi1ON4T3WTFh2zT80DxNw) | 8:27 | 2023-09-29 |  |
 | [Fire on the Mountain](https://open.spotify.com/track/1u2W22pbY0opK1gcETuFaF) | [Reblah](https://open.spotify.com/artist/7EHtFdWeBK26GJ5lKt02SV), [Rehmahz](https://open.spotify.com/artist/2n4Cjxgsst568zKdsmsEnY) | [Fire on the Mountain](https://open.spotify.com/album/0iW7DU3HZzEnHa4l2zEzmp) | 2:40 | 2023-08-11 | 2023-08-15 |
 | [Ghana Praise Medley: Aye / Ayeyi / Se Nea me te / Onyameba / Yesu Anaa / W'aka Nea maye nyinaa / Glory Be to God / Who Has the Final Day](https://open.spotify.com/track/42nQ9vfTQsw4JCG2UOSnl5) | [Joyful Way Incorporated](https://open.spotify.com/artist/5DdIfWrYhLhQCi2jusXZnM) | [Grateful Hearts](https://open.spotify.com/album/2FgtNPBfKJVBq4nc4qjCxq) | 14:10 | 2023-04-06 | 2023-07-13 |
+| [Glorious](https://open.spotify.com/track/5CoFGig7qZFdTHikB8ZDWj) | [Drakare](https://open.spotify.com/artist/0BoOl61L5Z9Movl0eAI1Be), [Nolly](https://open.spotify.com/artist/1qDxmgIV0aTR4QGRL4zXWM), [Holy drill](https://open.spotify.com/artist/3SN6XTw03dI5Cn49oeqz6j), [K3ndrick](https://open.spotify.com/artist/0ULEmCfIKnFCdZfZsTmxG5) | [Glorious](https://open.spotify.com/album/4uoShwbFnmUlYGJpBp0nNe) | 2:24 | 2023-10-06 |  |
 | [Green Land](https://open.spotify.com/track/40A974aVBeF7avQm8rvk3D) | [Ty Bello](https://open.spotify.com/artist/2iWK4awJAvQtgg1cUHaU9J), [Joseph Company](https://open.spotify.com/artist/5E43CXxhV0XWcnzNZEmKj3) | [Greenland](https://open.spotify.com/album/6i0kFsZupElRoGuECviIaK) | 4:18 | 2023-04-06 | 2023-07-28 |
 | [Halle](https://open.spotify.com/track/3jjIz7mRqYI8zXutJ9zwad) | [Ko'rale](https://open.spotify.com/artist/4Fvr1wBzDl0Qy3QwcbAVnS), [yoyo michael](https://open.spotify.com/artist/2UJIApZoVW4enFYjW39Tfv) | [Halle](https://open.spotify.com/album/3mcjpEjMXLuhBeaVPhPoub) | 2:20 | 2023-08-25 |  |
 | [Hallelujah](https://open.spotify.com/track/1ZRSxZVgRM5Xv7edLmp7nL) | [MOGmusic](https://open.spotify.com/artist/0s17P9R9hTZUlgxDnvLBFW) | [Xperience with Love](https://open.spotify.com/album/7JRYRjbrM7mNZ2SUtYWXVi) | 9:46 | 2023-04-06 | 2023-09-21 |
@@ -75,7 +76,7 @@
 | [Omeriwo](https://open.spotify.com/track/65tGleT9TqETxPXyjLf6Es) | [Sammie Okposo](https://open.spotify.com/artist/4qygDDItX42LbfJLQUedIJ), [Henrisoul](https://open.spotify.com/artist/29nYQAtysT9en4qYsRuNTL), [Mercy Chinwo](https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp) | [Omeriwo](https://open.spotify.com/album/76sBUYUu76JYwbMZ8K1dwP) | 3:38 | 2023-04-06 | 2023-08-24 |
 | [Omo Baba](https://open.spotify.com/track/4dwPr4moTpcCb7hER3nBep) | [Spirit of Prophecy](https://open.spotify.com/artist/47QqOqn5ySXFRyTezxJRBF) | [Omo Baba](https://open.spotify.com/album/4e41b60U5kriqKlvTLIfp4) | 3:15 | 2023-04-14 |  |
 | [Omo Baba](https://open.spotify.com/track/6Cq9fb1yZMQ7ZljGQLkkSJ) | [Spirit of Prophecy](https://open.spotify.com/artist/47QqOqn5ySXFRyTezxJRBF) | [Omo Baba](https://open.spotify.com/album/4bup49mjtfuz6vRg1a2Uw2) | 3:15 | 2023-04-06 | 2023-07-07 |
-| [Ope Mi](https://open.spotify.com/track/5Tf3Pu5PUTzdKysGXnijAQ) | [Pita](https://open.spotify.com/artist/0dV0oacQivGSBfpLf7P3Em) | [As I Am: In His Image](https://open.spotify.com/album/4cY1hBJNFUtaYeOJPZ6oxK) | 4:05 | 2023-04-06 |  |
+| [Ope Mi](https://open.spotify.com/track/5Tf3Pu5PUTzdKysGXnijAQ) | [Pita](https://open.spotify.com/artist/0dV0oacQivGSBfpLf7P3Em) | [As I Am: In His Image](https://open.spotify.com/album/4cY1hBJNFUtaYeOJPZ6oxK) | 4:05 | 2023-04-06 | 2023-10-19 |
 | [Paradise](https://open.spotify.com/track/2bSx2cJHJYUKNdJQgVoHBM) | [Nuelzo](https://open.spotify.com/artist/6CPuXxiR9CqQ0d2irmAlnR), [Swaggy Jay](https://open.spotify.com/artist/7xF9Cn1qxDwYhvrE4EGRU2) | [Paradise](https://open.spotify.com/album/2MfmE6MldCPS8DOZBQnoe9) | 2:22 | 2023-08-04 | 2023-08-31 |
 | [Praise Medley](https://open.spotify.com/track/4QUYIjKArUfMlssMMVpp1f) | [Ronke Adesokan](https://open.spotify.com/artist/6RDJ0S6zPBDwxTMOawmhR2) | [Celebrating Jesus](https://open.spotify.com/album/02Yl0lBAqxEcUTrIircQbU) | 22:58 | 2023-04-06 | 2023-07-09 |
 | [Praise Medley \(Live in London\)](https://open.spotify.com/track/15ycm5YuueCG3dIFqaY9zJ) | [Joe Mettle](https://open.spotify.com/artist/1An6gOOlZ9NITlQs2ZtBCb) | [Praise Medley \(Live in London\)](https://open.spotify.com/album/7JFZdCVfCb849MLP2aOOoV) | 9:48 | 2023-04-06 | 2023-06-16 |

@@ -1,12 +1,12 @@
 {
   "description": "O trap nacional pra qualquer hora, daquele jeit\u00e3o",
-  "num_followers": 122914,
+  "num_followers": 122996,
   "original_name": "Trap Classe",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzODUyMTI2OThmMDI4Njk5OWZiNmYwYmRjMWZlYzkzODY5N2E2YzI1",
+  "snapshot_id": "MCwxYjRlMTA5MjQ0ZDI5ZTc5ZWFlYWI2MTljNTc3MjYzYjVlNGRmOWI5",
   "tracks": [
     {
       "added_at": "2023-10-16 14:58:59",
@@ -715,6 +715,22 @@
     {
       "added_at": "2023-10-16 14:58:59",
       "album": {
+        "name": "Quadro",
+        "url": "https://open.spotify.com/album/5FbEpa7ZliTKb16jB2wQj3"
+      },
+      "artists": [
+        {
+          "name": "Sidoka",
+          "url": "https://open.spotify.com/artist/7EyzyrMNgqiK8bMrbkOT9l"
+        }
+      ],
+      "duration_ms": 167384,
+      "name": "Quadro",
+      "url": "https://open.spotify.com/track/6quxGsXP50tQOZG9onTDMI"
+    },
+    {
+      "added_at": "2023-10-16 14:58:59",
+      "album": {
         "name": "Yeezy Slide \"FREESTYLE 01\"",
         "url": "https://open.spotify.com/album/4bJbDWMhQ5vmWhISmnsKQe"
       },
@@ -743,22 +759,6 @@
       "duration_ms": 196056,
       "name": "Yeezy Slide \"FREESTYLE 01\"",
       "url": "https://open.spotify.com/track/6bBnV1J4thy0w6v8b5qXP4"
-    },
-    {
-      "added_at": "2023-10-16 14:58:59",
-      "album": {
-        "name": "Quadro",
-        "url": "https://open.spotify.com/album/5FbEpa7ZliTKb16jB2wQj3"
-      },
-      "artists": [
-        {
-          "name": "Sidoka",
-          "url": "https://open.spotify.com/artist/7EyzyrMNgqiK8bMrbkOT9l"
-        }
-      ],
-      "duration_ms": 167384,
-      "name": "Quadro",
-      "url": "https://open.spotify.com/track/6quxGsXP50tQOZG9onTDMI"
     },
     {
       "added_at": "2023-10-16 14:58:59",
@@ -1003,6 +1003,22 @@
     {
       "added_at": "2023-10-16 14:58:59",
       "album": {
+        "name": "Chega de Falar de Ice",
+        "url": "https://open.spotify.com/album/2Cylgte8uM34hQxgQP74xg"
+      },
+      "artists": [
+        {
+          "name": "Leozin",
+          "url": "https://open.spotify.com/artist/7ALIMskSScecdJr78qvB9V"
+        }
+      ],
+      "duration_ms": 177245,
+      "name": "Chega de Falar de Ice",
+      "url": "https://open.spotify.com/track/7sO4qwDP84KRGKNCbMSn2o"
+    },
+    {
+      "added_at": "2023-10-16 14:58:59",
+      "album": {
         "name": "Broncud\u00e3o (feat. Lotta)",
         "url": "https://open.spotify.com/album/03M2TXranFleMIW6zTQF7d"
       },
@@ -1027,22 +1043,6 @@
       "duration_ms": 225974,
       "name": "Broncud\u00e3o (feat. Lotta)",
       "url": "https://open.spotify.com/track/3vMLoG513lbA3ATxIJi0z9"
-    },
-    {
-      "added_at": "2023-10-16 14:58:59",
-      "album": {
-        "name": "Chega de Falar de Ice",
-        "url": "https://open.spotify.com/album/2Cylgte8uM34hQxgQP74xg"
-      },
-      "artists": [
-        {
-          "name": "Leozin",
-          "url": "https://open.spotify.com/artist/7ALIMskSScecdJr78qvB9V"
-        }
-      ],
-      "duration_ms": 177245,
-      "name": "Chega de Falar de Ice",
-      "url": "https://open.spotify.com/track/7sO4qwDP84KRGKNCbMSn2o"
     },
     {
       "added_at": "2023-10-16 14:58:59",
@@ -1275,30 +1275,6 @@
     {
       "added_at": "2023-10-16 14:58:59",
       "album": {
-        "name": "Maleta",
-        "url": "https://open.spotify.com/album/24blqOj4cEuM66nAcemOHD"
-      },
-      "artists": [
-        {
-          "name": "MC PH",
-          "url": "https://open.spotify.com/artist/4PLdCloYxu2bMKfuuB9lI5"
-        },
-        {
-          "name": "KayBlack",
-          "url": "https://open.spotify.com/artist/2h5Ha0ZiMFmOQD3iYcSXsy"
-        },
-        {
-          "name": "Mc Kevin",
-          "url": "https://open.spotify.com/artist/5pBMkZNIlbGTH3hrsQJqAa"
-        }
-      ],
-      "duration_ms": 247680,
-      "name": "Maleta",
-      "url": "https://open.spotify.com/track/4PZ3p6D3GQcpiaFirr3VNW"
-    },
-    {
-      "added_at": "2023-10-16 14:58:59",
-      "album": {
         "name": "Meu Corre",
         "url": "https://open.spotify.com/album/1jFY75tKVWiLmiCRe6WFGr"
       },
@@ -1319,6 +1295,30 @@
       "duration_ms": 170181,
       "name": "Meu Corre",
       "url": "https://open.spotify.com/track/0iTTbJikpkTpjn4FUwH9lW"
+    },
+    {
+      "added_at": "2023-10-16 14:58:59",
+      "album": {
+        "name": "Maleta",
+        "url": "https://open.spotify.com/album/24blqOj4cEuM66nAcemOHD"
+      },
+      "artists": [
+        {
+          "name": "MC PH",
+          "url": "https://open.spotify.com/artist/4PLdCloYxu2bMKfuuB9lI5"
+        },
+        {
+          "name": "KayBlack",
+          "url": "https://open.spotify.com/artist/2h5Ha0ZiMFmOQD3iYcSXsy"
+        },
+        {
+          "name": "Mc Kevin",
+          "url": "https://open.spotify.com/artist/5pBMkZNIlbGTH3hrsQJqAa"
+        }
+      ],
+      "duration_ms": 247680,
+      "name": "Maleta",
+      "url": "https://open.spotify.com/track/4PZ3p6D3GQcpiaFirr3VNW"
     },
     {
       "added_at": "2023-10-16 14:58:59",
@@ -1415,6 +1415,34 @@
       "duration_ms": 177869,
       "name": "Bendito",
       "url": "https://open.spotify.com/track/7hmUr86smWd2FeviTU1P72"
+    },
+    {
+      "added_at": "2023-10-16 14:58:59",
+      "album": {
+        "name": "Oclin e Evoque",
+        "url": "https://open.spotify.com/album/1lm0ePGaAMF91JfN3O9sI7"
+      },
+      "artists": [
+        {
+          "name": "Tropa do Bruxo",
+          "url": "https://open.spotify.com/artist/4s3lxX76LwxzMdQEAFYdzv"
+        },
+        {
+          "name": "Djonga",
+          "url": "https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY"
+        },
+        {
+          "name": "MC Rick",
+          "url": "https://open.spotify.com/artist/1mvpEXClANunyiHFtAXCxt"
+        },
+        {
+          "name": "Sidoka",
+          "url": "https://open.spotify.com/artist/7EyzyrMNgqiK8bMrbkOT9l"
+        }
+      ],
+      "duration_ms": 212581,
+      "name": "Oclin e Evoque",
+      "url": "https://open.spotify.com/track/3PnDIGbfmswMaxX386zp3X"
     },
     {
       "added_at": "2023-10-16 14:58:59",
@@ -1531,34 +1559,6 @@
       "duration_ms": 172973,
       "name": "Ak Forty Seven",
       "url": "https://open.spotify.com/track/7jYpr1CDp4NQDo0uGekLdG"
-    },
-    {
-      "added_at": "2023-10-16 14:58:59",
-      "album": {
-        "name": "Oclin e Evoque",
-        "url": "https://open.spotify.com/album/1lm0ePGaAMF91JfN3O9sI7"
-      },
-      "artists": [
-        {
-          "name": "Tropa do Bruxo",
-          "url": "https://open.spotify.com/artist/4s3lxX76LwxzMdQEAFYdzv"
-        },
-        {
-          "name": "Djonga",
-          "url": "https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY"
-        },
-        {
-          "name": "MC Rick",
-          "url": "https://open.spotify.com/artist/1mvpEXClANunyiHFtAXCxt"
-        },
-        {
-          "name": "Sidoka",
-          "url": "https://open.spotify.com/artist/7EyzyrMNgqiK8bMrbkOT9l"
-        }
-      ],
-      "duration_ms": 212581,
-      "name": "Oclin e Evoque",
-      "url": "https://open.spotify.com/track/3PnDIGbfmswMaxX386zp3X"
     },
     {
       "added_at": "2023-10-16 14:58:59",
@@ -1831,26 +1831,6 @@
     {
       "added_at": "2023-10-16 14:58:59",
       "album": {
-        "name": "Como a chuva cai",
-        "url": "https://open.spotify.com/album/4RF07dFHIZhmBLFU9kUU4R"
-      },
-      "artists": [
-        {
-          "name": "Pk",
-          "url": "https://open.spotify.com/artist/5xYkM2vMrE23taj6tl7qkm"
-        },
-        {
-          "name": "Hungria Hip Hop",
-          "url": "https://open.spotify.com/artist/0vLuOi2k62sHujIfplInlK"
-        }
-      ],
-      "duration_ms": 152086,
-      "name": "Como a chuva cai",
-      "url": "https://open.spotify.com/track/26dxrRJqzLXS6PTtOq7zgm"
-    },
-    {
-      "added_at": "2023-10-16 14:58:59",
-      "album": {
         "name": "Lobo-Guar\u00e1",
         "url": "https://open.spotify.com/album/28mf805fbXJs5B8rCRMjch"
       },
@@ -1879,6 +1859,26 @@
       "duration_ms": 262199,
       "name": "Lobo-Guar\u00e1",
       "url": "https://open.spotify.com/track/6pPPjzQCW3TauculUPjKDs"
+    },
+    {
+      "added_at": "2023-10-16 14:58:59",
+      "album": {
+        "name": "Como a chuva cai",
+        "url": "https://open.spotify.com/album/4RF07dFHIZhmBLFU9kUU4R"
+      },
+      "artists": [
+        {
+          "name": "Pk",
+          "url": "https://open.spotify.com/artist/5xYkM2vMrE23taj6tl7qkm"
+        },
+        {
+          "name": "Hungria Hip Hop",
+          "url": "https://open.spotify.com/artist/0vLuOi2k62sHujIfplInlK"
+        }
+      ],
+      "duration_ms": 152086,
+      "name": "Como a chuva cai",
+      "url": "https://open.spotify.com/track/26dxrRJqzLXS6PTtOq7zgm"
     },
     {
       "added_at": "2023-10-16 14:58:59",
@@ -2047,6 +2047,34 @@
     {
       "added_at": "2023-10-16 14:58:59",
       "album": {
+        "name": "21",
+        "url": "https://open.spotify.com/album/0ujQ7p7VDbqL9YpAhIb4dO"
+      },
+      "artists": [
+        {
+          "name": "UCL\u00c3",
+          "url": "https://open.spotify.com/artist/4zP89WNloauEX8v8JdZbxP"
+        },
+        {
+          "name": "Sueth",
+          "url": "https://open.spotify.com/artist/4ZyBq7WEL7d2dDH0BkVDPX"
+        },
+        {
+          "name": "Sos",
+          "url": "https://open.spotify.com/artist/01y0qj3pkC0Fw07YLnKsvK"
+        },
+        {
+          "name": "Sobs",
+          "url": "https://open.spotify.com/artist/0zuan1WYTIhlisigYXsqY9"
+        }
+      ],
+      "duration_ms": 215160,
+      "name": "21",
+      "url": "https://open.spotify.com/track/2lLygaAejjDX1yMt5XuMGG"
+    },
+    {
+      "added_at": "2023-10-16 14:58:59",
+      "album": {
         "name": "Drink Azul",
         "url": "https://open.spotify.com/album/7wNuG0zJUQQomWNHXPhWOR"
       },
@@ -2103,34 +2131,6 @@
     {
       "added_at": "2023-10-16 14:58:59",
       "album": {
-        "name": "21",
-        "url": "https://open.spotify.com/album/0ujQ7p7VDbqL9YpAhIb4dO"
-      },
-      "artists": [
-        {
-          "name": "UCL\u00c3",
-          "url": "https://open.spotify.com/artist/4zP89WNloauEX8v8JdZbxP"
-        },
-        {
-          "name": "Sueth",
-          "url": "https://open.spotify.com/artist/4ZyBq7WEL7d2dDH0BkVDPX"
-        },
-        {
-          "name": "Sos",
-          "url": "https://open.spotify.com/artist/01y0qj3pkC0Fw07YLnKsvK"
-        },
-        {
-          "name": "Sobs",
-          "url": "https://open.spotify.com/artist/0zuan1WYTIhlisigYXsqY9"
-        }
-      ],
-      "duration_ms": 215160,
-      "name": "21",
-      "url": "https://open.spotify.com/track/2lLygaAejjDX1yMt5XuMGG"
-    },
-    {
-      "added_at": "2023-10-16 14:58:59",
-      "album": {
         "name": "LONGE DEMAIS",
         "url": "https://open.spotify.com/album/388OrmfCf6uH9hlLRxovk0"
       },
@@ -2175,22 +2175,6 @@
     {
       "added_at": "2023-10-16 14:58:59",
       "album": {
-        "name": "Doka Language",
-        "url": "https://open.spotify.com/album/4y7lYLaNRtK7cBfDUtCuNH"
-      },
-      "artists": [
-        {
-          "name": "Sidoka",
-          "url": "https://open.spotify.com/artist/7EyzyrMNgqiK8bMrbkOT9l"
-        }
-      ],
-      "duration_ms": 168152,
-      "name": "Espanha",
-      "url": "https://open.spotify.com/track/0hcXSJ2MOEVxlzTLtRunJl"
-    },
-    {
-      "added_at": "2023-10-16 14:58:59",
-      "album": {
         "name": "Suco de Fruta",
         "url": "https://open.spotify.com/album/5RzwJ40yPtUgANPoEmP7wr"
       },
@@ -2211,6 +2195,22 @@
     {
       "added_at": "2023-10-16 14:58:59",
       "album": {
+        "name": "Doka Language",
+        "url": "https://open.spotify.com/album/4y7lYLaNRtK7cBfDUtCuNH"
+      },
+      "artists": [
+        {
+          "name": "Sidoka",
+          "url": "https://open.spotify.com/artist/7EyzyrMNgqiK8bMrbkOT9l"
+        }
+      ],
+      "duration_ms": 168152,
+      "name": "Espanha",
+      "url": "https://open.spotify.com/track/0hcXSJ2MOEVxlzTLtRunJl"
+    },
+    {
+      "added_at": "2023-10-16 14:58:59",
+      "album": {
         "name": "Flutuo",
         "url": "https://open.spotify.com/album/3893W2jIaByc6Xk0lziixq"
       },
@@ -2223,6 +2223,42 @@
       "duration_ms": 205263,
       "name": "Flutuo",
       "url": "https://open.spotify.com/track/3VpRIboJg2oXebe8LNto7O"
+    },
+    {
+      "added_at": "2023-10-16 14:58:59",
+      "album": {
+        "name": "Ouro Ros\u00e9",
+        "url": "https://open.spotify.com/album/3hRlp9PlDxPTJd5c1X3lJL"
+      },
+      "artists": [
+        {
+          "name": "UCL\u00c3",
+          "url": "https://open.spotify.com/artist/4zP89WNloauEX8v8JdZbxP"
+        },
+        {
+          "name": "Sueth",
+          "url": "https://open.spotify.com/artist/4ZyBq7WEL7d2dDH0BkVDPX"
+        },
+        {
+          "name": "Real G",
+          "url": "https://open.spotify.com/artist/4VBvroduJdLVzx7N0gKKO8"
+        },
+        {
+          "name": "Sos",
+          "url": "https://open.spotify.com/artist/01y0qj3pkC0Fw07YLnKsvK"
+        },
+        {
+          "name": "Duzz",
+          "url": "https://open.spotify.com/artist/4oPnjkJcLqOim9KJxvIYMz"
+        },
+        {
+          "name": "Peunubeat",
+          "url": "https://open.spotify.com/artist/17E8w3INI7HVddLkdDKYVA"
+        }
+      ],
+      "duration_ms": 290000,
+      "name": "Ouro Ros\u00e9",
+      "url": "https://open.spotify.com/track/6keP0AfCE5v4CTI1E5nrLv"
     },
     {
       "added_at": "2023-10-16 14:58:59",
@@ -2283,42 +2319,6 @@
     {
       "added_at": "2023-10-16 14:58:59",
       "album": {
-        "name": "Ouro Ros\u00e9",
-        "url": "https://open.spotify.com/album/3hRlp9PlDxPTJd5c1X3lJL"
-      },
-      "artists": [
-        {
-          "name": "UCL\u00c3",
-          "url": "https://open.spotify.com/artist/4zP89WNloauEX8v8JdZbxP"
-        },
-        {
-          "name": "Sueth",
-          "url": "https://open.spotify.com/artist/4ZyBq7WEL7d2dDH0BkVDPX"
-        },
-        {
-          "name": "Real G",
-          "url": "https://open.spotify.com/artist/4VBvroduJdLVzx7N0gKKO8"
-        },
-        {
-          "name": "Sos",
-          "url": "https://open.spotify.com/artist/01y0qj3pkC0Fw07YLnKsvK"
-        },
-        {
-          "name": "Duzz",
-          "url": "https://open.spotify.com/artist/4oPnjkJcLqOim9KJxvIYMz"
-        },
-        {
-          "name": "Peunubeat",
-          "url": "https://open.spotify.com/artist/17E8w3INI7HVddLkdDKYVA"
-        }
-      ],
-      "duration_ms": 290000,
-      "name": "Ouro Ros\u00e9",
-      "url": "https://open.spotify.com/track/6keP0AfCE5v4CTI1E5nrLv"
-    },
-    {
-      "added_at": "2023-10-16 14:58:59",
-      "album": {
         "name": "Intoc\u00e1vel",
         "url": "https://open.spotify.com/album/0tPRn8Y8Xmj6xErQPnuExw"
       },
@@ -2359,26 +2359,6 @@
     {
       "added_at": "2023-10-16 14:58:59",
       "album": {
-        "name": "Fuuga",
-        "url": "https://open.spotify.com/album/5Rlri89W7uov0vfeG2bHXl"
-      },
-      "artists": [
-        {
-          "name": "Sidoka",
-          "url": "https://open.spotify.com/artist/7EyzyrMNgqiK8bMrbkOT9l"
-        },
-        {
-          "name": "Dj Coala",
-          "url": "https://open.spotify.com/artist/2GrFc0VerkHwntKlGXoToI"
-        }
-      ],
-      "duration_ms": 135813,
-      "name": "Fuuga",
-      "url": "https://open.spotify.com/track/44JedU7eYNmip1BfvtLIqw"
-    },
-    {
-      "added_at": "2023-10-16 14:58:59",
-      "album": {
         "name": "Multiplica",
         "url": "https://open.spotify.com/album/2PuH7jAtbiymoThAoWVHIx"
       },
@@ -2399,6 +2379,26 @@
       "duration_ms": 190843,
       "name": "Multiplica",
       "url": "https://open.spotify.com/track/2XNHvopgh1zs5fyEcMcUjE"
+    },
+    {
+      "added_at": "2023-10-16 14:58:59",
+      "album": {
+        "name": "Fuuga",
+        "url": "https://open.spotify.com/album/5Rlri89W7uov0vfeG2bHXl"
+      },
+      "artists": [
+        {
+          "name": "Sidoka",
+          "url": "https://open.spotify.com/artist/7EyzyrMNgqiK8bMrbkOT9l"
+        },
+        {
+          "name": "Dj Coala",
+          "url": "https://open.spotify.com/artist/2GrFc0VerkHwntKlGXoToI"
+        }
+      ],
+      "duration_ms": 135813,
+      "name": "Fuuga",
+      "url": "https://open.spotify.com/track/44JedU7eYNmip1BfvtLIqw"
     },
     {
       "added_at": "2023-10-16 14:58:59",

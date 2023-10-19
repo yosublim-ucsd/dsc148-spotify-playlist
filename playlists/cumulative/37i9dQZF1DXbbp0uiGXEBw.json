@@ -85,6 +85,24 @@
     },
     {
       "album": {
+        "name": "Anh L\u00e0 Ngo\u1ea1i L\u1ec7 C\u1ee7a Em",
+        "url": "https://open.spotify.com/album/7kHOyM8XfyIBmOYKBXPzA2"
+      },
+      "artists": [
+        {
+          "name": "Ph\u01b0\u01a1ng Ly",
+          "url": "https://open.spotify.com/artist/5Kh0ta0UY4uJ4g2CIdq9V9"
+        }
+      ],
+      "date_added": "2023-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188108,
+      "name": "Anh L\u00e0 Ngo\u1ea1i L\u1ec7 C\u1ee7a Em",
+      "url": "https://open.spotify.com/track/6KgZf5gZgF1KLNxq1qZgHP"
+    },
+    {
+      "album": {
         "name": "Anh \u01a0i \u1ede L\u1ea1i",
         "url": "https://open.spotify.com/album/0AvJduRQsFMQojtnsE2SfS"
       },
@@ -136,7 +154,7 @@
       ],
       "date_added": "2023-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-19",
       "duration_ms": 172000,
       "name": "Bo X\u00ec Bo",
       "url": "https://open.spotify.com/track/4X2iEvLVDm1Acd8Xmxw1ZC"
@@ -234,6 +252,24 @@
       "duration_ms": 225773,
       "name": "Cho Em M\u1ed9t L\u1ea7n Y\u00eau",
       "url": "https://open.spotify.com/track/5oQwxJJBwKPGkZliiyv3jQ"
+    },
+    {
+      "album": {
+        "name": "LoveLY",
+        "url": "https://open.spotify.com/album/0DXeyDmPnzqDmusQDfunGp"
+      },
+      "artists": [
+        {
+          "name": "Lyly",
+          "url": "https://open.spotify.com/artist/4POahBr8YCPNKGErIiofyx"
+        }
+      ],
+      "date_added": "2023-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228508,
+      "name": "Cho Em Xin L\u1ed7i \u0110i M\u00e0",
+      "url": "https://open.spotify.com/track/6ZOe2ZJdRUtnwamMOUWM8p"
     },
     {
       "album": {
@@ -544,7 +580,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-19",
       "duration_ms": 244175,
       "name": "C\u1ea7u H\u00f4n - Happy Version",
       "url": "https://open.spotify.com/track/4p0oGfPJqrrmdBC2GG6iK2"
@@ -794,6 +830,24 @@
       "duration_ms": 200337,
       "name": "Em \u0110\u00e3 C\u00f3 Ng\u01b0\u1eddi M\u1edbi (feat. Ng\u01b0\u1eddi c\u0169)",
       "url": "https://open.spotify.com/track/2BqQ5ZM73pNugfd6NteCPe"
+    },
+    {
+      "album": {
+        "name": "Em \u0110\u00e3 C\u1ed1",
+        "url": "https://open.spotify.com/album/4bJM0KnXypLdQE5quMPxih"
+      },
+      "artists": [
+        {
+          "name": "B\u1ea3o Thy",
+          "url": "https://open.spotify.com/artist/4DPEUF2kY7kVrbXX4Zgu7S"
+        }
+      ],
+      "date_added": "2023-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278899,
+      "name": "Em \u0110\u00e3 C\u1ed1",
+      "url": "https://open.spotify.com/track/7rPVLLyctVxKJ3CuPUaA3x"
     },
     {
       "album": {
@@ -1136,6 +1190,24 @@
       "duration_ms": 250538,
       "name": "Ho\u00e0ng H\u00f4n",
       "url": "https://open.spotify.com/track/0GdrFeLGWjlEcAfoQEMXH5"
+    },
+    {
+      "album": {
+        "name": "Shimmer",
+        "url": "https://open.spotify.com/album/2Xku8BPDiEuMgEgfpZMVwg"
+      },
+      "artists": [
+        {
+          "name": "Tuimi",
+          "url": "https://open.spotify.com/artist/2dP2cG3zK05Y1jtb8Kwdpm"
+        }
+      ],
+      "date_added": "2023-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169586,
+      "name": "H\u00e0 N\u1ed9i",
+      "url": "https://open.spotify.com/track/4zQGlbAeQPq6cmE2iYJfI2"
     },
     {
       "album": {
@@ -2140,7 +2212,7 @@
       ],
       "date_added": "2022-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-19",
       "duration_ms": 286588,
       "name": "Ph\u1ed1 \u0110\u00e3 L\u00ean \u0110\u00e8n",
       "url": "https://open.spotify.com/track/046BmJVCt4qOFnEGK7CZJK"
@@ -2322,6 +2394,24 @@
       "duration_ms": 276480,
       "name": "Sau Nay, Hay Gap Lai Nhau Khi Hoa No",
       "url": "https://open.spotify.com/track/6F61DTypUBPZiZqgd76Sjn"
+    },
+    {
+      "album": {
+        "name": "Sau T\u1ea5m R\u00e8m",
+        "url": "https://open.spotify.com/album/7EgeAEPfjYha527vC4tiqX"
+      },
+      "artists": [
+        {
+          "name": "NGHI",
+          "url": "https://open.spotify.com/artist/2TDL6ZO5XzjAnzrSK1Cipe"
+        }
+      ],
+      "date_added": "2023-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197454,
+      "name": "Sau T\u1ea5m R\u00e8m",
+      "url": "https://open.spotify.com/track/2vTDpUUNROmQ3jMtHOGyNX"
     },
     {
       "album": {
@@ -2772,7 +2862,7 @@
       ],
       "date_added": "2023-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-19",
       "duration_ms": 228443,
       "name": "t\u1eeb ng\u00e0y anh xa (feat. Kaisoul)",
       "url": "https://open.spotify.com/track/4rbLcpLf7cVSIxRnqt4D48"

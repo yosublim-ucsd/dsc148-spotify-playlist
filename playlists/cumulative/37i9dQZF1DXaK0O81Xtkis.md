@@ -4,7 +4,7 @@
 
 > make it pop! cover: Aidan Bissett
 
-783 songs - 1 day 15 hr 3 min
+784 songs - 1 day 15 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -587,7 +587,8 @@
 | [Second Nature](https://open.spotify.com/track/0Kqo7V39HrgjMaDwL5uvq7) | [Dayglow](https://open.spotify.com/artist/6eJa3zG1QZLRB3xgRuyxbm) | [Second Nature](https://open.spotify.com/album/0UmhcENCeTcbLF4cf9lAEA) | 5:47 | 2022-09-23 | 2022-10-13 |
 | [Second Nature](https://open.spotify.com/track/0fiViisu7WflcoY6YedSnq) | [Dayglow](https://open.spotify.com/artist/6eJa3zG1QZLRB3xgRuyxbm) | [People In Motion](https://open.spotify.com/album/1ZhWoKlwX8xztzoLcFGiIs) | 5:47 | 2022-09-23 | 2022-10-29 |
 | [Second to Last](https://open.spotify.com/track/5QqBKaGI2vLb8d33krUWap) | [Ryan Nealon](https://open.spotify.com/artist/6eeu1cHi3LjiKnTxa7eJux) | [Second to Last](https://open.spotify.com/album/0AwxkrLnKxKZHwGb2WZyP2) | 2:50 | 2023-09-01 |  |
-| [See You Later](https://open.spotify.com/track/1Gu9Ub6kjlbsk64jY7Qjgs) | [The Band CAMINO](https://open.spotify.com/artist/6d4jrmreCmsenscuieJERc) | [See You Later](https://open.spotify.com/album/3F5wWjyaj0raSg2JFK1Yqw) | 2:35 | 2023-06-30 |  |
+| [See You Later](https://open.spotify.com/track/0PCtDCMDypMnUhVrLyOQZs) | [The Band CAMINO](https://open.spotify.com/artist/6d4jrmreCmsenscuieJERc) | [The Dark](https://open.spotify.com/album/6S2FI6xzGq3INs2WnlB9ou) | 2:35 | 2023-10-13 |  |
+| [See You Later](https://open.spotify.com/track/1Gu9Ub6kjlbsk64jY7Qjgs) | [The Band CAMINO](https://open.spotify.com/artist/6d4jrmreCmsenscuieJERc) | [See You Later](https://open.spotify.com/album/3F5wWjyaj0raSg2JFK1Yqw) | 2:35 | 2023-06-30 | 2023-10-19 |
 | [Semi Pro](https://open.spotify.com/track/5pAEaufx5VFIl8ct3kWtOt) | [Hippo Campus](https://open.spotify.com/artist/1btWGBz4Uu1HozTwb2Lm8A) | [Semi Pro](https://open.spotify.com/album/52lZvD8hEnCoYnnvVC6dbp) | 3:02 | 2021-12-03 | 2022-02-05 |
 | [Settling](https://open.spotify.com/track/6EEBiJswbgcLqnpKkuHM00) | [Ripe](https://open.spotify.com/artist/19lQ2rJLlP71FOKESiMNJT) | [Settling](https://open.spotify.com/album/6ZWVafX159Z2jQP3UW5PsR) | 3:08 | 2022-05-20 | 2022-07-29 |
 | [Settling](https://open.spotify.com/track/6jQALCbfH7gYSN46Ns839Q) | [Ripe](https://open.spotify.com/artist/19lQ2rJLlP71FOKESiMNJT) | [Settling](https://open.spotify.com/album/0LuaDQd1gfG4Q22WQMDi5c) | 3:08 | 2022-06-10 | 2022-08-20 |

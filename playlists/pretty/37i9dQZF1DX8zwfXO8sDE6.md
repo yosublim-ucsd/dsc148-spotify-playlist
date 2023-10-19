@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8zwfXO8sDE6.md) - [plain]
 
 > Discover the amazing world of Japanese City Pop from the ‘70s./ ニューミュージックとも一線を画す、都会的で洗練された音楽＝シティポップ の誕生。黎明期の輝きは永遠に。
 
-[Spotify](https://open.spotify.com/user/spotify) - 51,272 likes - 50 songs - 3 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 51,316 likes - 50 songs - 3 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,9 +14,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8zwfXO8sDE6.md) - [plain]
 | 4 | [中央フリーウェイ](https://open.spotify.com/track/0zqwz1o4l4ltQUxgjyU4oa) | [Yumi Arai](https://open.spotify.com/artist/5W7F9IM2vsR9EDCk5T2Uqz) | [14番目の月](https://open.spotify.com/album/28VkIuu7LxHzMtfxkx4URs) | 3:39 |
 | 5 | [恋は流星](https://open.spotify.com/track/2NGWAXh6sisNpVHIAAlME0) | [Minako Yoshida](https://open.spotify.com/artist/5vYmBw71RC0kABACDCq4Zi) | [TWILIGHT ZONE](https://open.spotify.com/album/30f2PMk23fjPP9oBAILqGo) | 6:47 |
 | 6 | [September](https://open.spotify.com/track/7BuxfPbJjtI8juuM3h18yA) | [Mariya Takeuchi](https://open.spotify.com/artist/3WwGRA2o4Ux1RRMYaYDh7N) | [Expressions](https://open.spotify.com/album/2idSqgKijGXG5aisjk7Zn1) | 4:32 |
-| 7 | [影になって](https://open.spotify.com/track/2iGrc21d7bfvLAdlNeNerI) | [Yumi Matsutoya](https://open.spotify.com/artist/1LQQtqc1vQ1neUgZrjYlEU) | [悲しいほどお天気](https://open.spotify.com/album/4vw5asIQkxqk9ctov9R55e) | 5:32 |
+| 7 | [クリスタル・シティー](https://open.spotify.com/track/24yeqyHA3EW35CKpyeE4uR) | [Junko Ohashi](https://open.spotify.com/artist/7rGbODPTIVjzn3CTR6RCzE), [美乃家セントラルステイション](https://open.spotify.com/artist/6zuN0CN7nUe6I5dDXQQLD2) | [ゴールデン☆ベスト 大橋純子 シングルス](https://open.spotify.com/album/7xZbqNj6i60dJENaliMEOR) | 3:46 |
 | 8 | [SUMMER BLUE](https://open.spotify.com/track/4Ad4HmvkDvFZ5eYaxQcTKh) | [Bread And Butter](https://open.spotify.com/artist/3OldswvDMARe1uWLYSrdEz) | [Late Late Summer](https://open.spotify.com/album/7mmAMvs6tZsPhgXyDmSYEz) | 3:59 |
-| 9 | [クリスタル・シティー](https://open.spotify.com/track/24yeqyHA3EW35CKpyeE4uR) | [Junko Ohashi](https://open.spotify.com/artist/7rGbODPTIVjzn3CTR6RCzE), [美乃家セントラルステイション](https://open.spotify.com/artist/6zuN0CN7nUe6I5dDXQQLD2) | [ゴールデン☆ベスト 大橋純子 シングルス](https://open.spotify.com/album/7xZbqNj6i60dJENaliMEOR) | 3:46 |
+| 9 | [影になって](https://open.spotify.com/track/2iGrc21d7bfvLAdlNeNerI) | [Yumi Matsutoya](https://open.spotify.com/artist/1LQQtqc1vQ1neUgZrjYlEU) | [悲しいほどお天気](https://open.spotify.com/album/4vw5asIQkxqk9ctov9R55e) | 5:32 |
 | 10 | [LADY PINK PANTHER](https://open.spotify.com/track/4gb4vKwGbqY11UdOMV6nSx) | [Shigeru Suzuki](https://open.spotify.com/artist/4yN4amq8cBHHQ49NzFOO5Z) | [LAGOON \(Remastered 2017\)](https://open.spotify.com/album/1uJBFSrpHi56AWzvBuhU8b) | 2:55 |
 | 11 | [Ai wa Energy](https://open.spotify.com/track/0MuZbj977Ud5aqmJXaBgf2) | [Miki Matsubara](https://open.spotify.com/artist/4hUmsYcvD8C5zuVSP93jb1) | [Miki Matsubara Best Collection](https://open.spotify.com/album/1ANaxJNBcbOvvycNL4MCL5) | 3:38 |
 | 12 | [Summer Connection](https://open.spotify.com/track/7jRBeWs7TvE8N8W4tEk3nb) | [Taeko Onuki](https://open.spotify.com/artist/5QeCklzEEYSSLWeUxuWeBy) | [SUNSHOWER](https://open.spotify.com/album/53YDN7b4vQ5MLMSPcnh9Os) | 4:30 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8zwfXO8sDE6.md) - [plain]
 | 49 | [JOKER](https://open.spotify.com/track/7qPyQXFok3Dcy6xcHpFHjg) | [KAORU](https://open.spotify.com/artist/6dSipPIaYrwAIoUYF3OUeg) | [ジャスト・マイ・フィーリング +2](https://open.spotify.com/album/4dZTkuCW89dgiRki6f3V7F) | 3:43 |
 | 50 | [夜間飛行](https://open.spotify.com/track/0nJSH4TfCIFtIzVhpTAQ9T) | [Yoshitaka Minami](https://open.spotify.com/artist/5dS698oTdel4MldPvYoj7p) | [SOUTH OF THE BORDER](https://open.spotify.com/album/7c23gn3fBcWYojzvB5wBp1) | 3:29 |
 
-Snapshot ID: `MCwxY2U4MGQ4ZjRiYTUwODE3N2ZkOWJhOWE2YjdlMzRhMDIyMDE1NTM4`
+Snapshot ID: `MCw3ZjM0Nzc0ODM3YjM0NTNkNGU2ODBhNjI4ZTFmMjAyMTYzNzIwY2Q4`

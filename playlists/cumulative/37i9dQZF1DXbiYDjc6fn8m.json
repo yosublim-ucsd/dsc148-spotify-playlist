@@ -621,6 +621,24 @@
     },
     {
       "album": {
+        "name": "Elements of Life (Bonus Version)",
+        "url": "https://open.spotify.com/album/2GMSOwQAysOQSqs5i4CFOG"
+      },
+      "artists": [
+        {
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+        }
+      ],
+      "date_added": "2020-04-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 346920,
+      "name": "In the Dark - Dirty South Remix",
+      "url": "https://open.spotify.com/track/6SDZjgocJSpDSIVng85avv"
+    },
+    {
+      "album": {
         "name": "Elements Of Life (Remixed)",
         "url": "https://open.spotify.com/album/3jZZRjqznQ9uBJXkbfmxR3"
       },
@@ -636,7 +654,7 @@
       ],
       "date_added": "2020-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-19",
       "duration_ms": 346647,
       "name": "In The Dark - Dirty South Remix",
       "url": "https://open.spotify.com/track/6s0mcs8CmXQlSrWW3Jq5An"

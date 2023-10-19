@@ -218,7 +218,7 @@
       ],
       "date_added": "2023-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-19",
       "duration_ms": 165000,
       "name": "Amapiano",
       "url": "https://open.spotify.com/track/3GMdp6clyAh7wZWVYOtoS9"
@@ -976,7 +976,7 @@
       ],
       "date_added": "2023-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-19",
       "duration_ms": 126720,
       "name": "Fake ID (Coke & Rum Remix)",
       "url": "https://open.spotify.com/track/7cnS0EPwBnP9ZIdGOAOY7c"
@@ -1256,6 +1256,28 @@
       "duration_ms": 168015,
       "name": "Hide N Seek (feat. TAET)",
       "url": "https://open.spotify.com/track/2K2FgAoIodVpU9bBlU7hhP"
+    },
+    {
+      "album": {
+        "name": "High Hopes",
+        "url": "https://open.spotify.com/album/3dXia3q3srWDlY9P3rTGdq"
+      },
+      "artists": [
+        {
+          "name": "Charlotte Haining",
+          "url": "https://open.spotify.com/artist/2XRjIwgD0UiJXtx7Xzfy7w"
+        },
+        {
+          "name": "goddard.",
+          "url": "https://open.spotify.com/artist/3yDDYheQFqfhKZXdjFQuuP"
+        }
+      ],
+      "date_added": "2023-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178000,
+      "name": "High Hopes",
+      "url": "https://open.spotify.com/track/2QzlUwDods1IHQF3UyYAAO"
     },
     {
       "album": {
@@ -1547,6 +1569,50 @@
     },
     {
       "album": {
+        "name": "Just How You Like It",
+        "url": "https://open.spotify.com/album/07xMYqCucIDA93hQSaFaFz"
+      },
+      "artists": [
+        {
+          "name": "K.A.D",
+          "url": "https://open.spotify.com/artist/1LtnBJnmEj8gmEQothcCVp"
+        },
+        {
+          "name": "Kak Hatt",
+          "url": "https://open.spotify.com/artist/5iG3CtoJswOoCx42IqTdtR"
+        }
+      ],
+      "date_added": "2023-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188160,
+      "name": "Just How You Like It",
+      "url": "https://open.spotify.com/track/4IUuO9U6Rv3wdFhZYUoqL1"
+    },
+    {
+      "album": {
+        "name": "Lights",
+        "url": "https://open.spotify.com/album/0BZSPB9vIbTgG55ZztiADc"
+      },
+      "artists": [
+        {
+          "name": "Charlotte Plank",
+          "url": "https://open.spotify.com/artist/4U5QErgn94wZGw1rJz01BO"
+        },
+        {
+          "name": "Hybrid Minds",
+          "url": "https://open.spotify.com/artist/05lF0DUkLJqiW5o70SScyR"
+        }
+      ],
+      "date_added": "2023-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173023,
+      "name": "Lights",
+      "url": "https://open.spotify.com/track/4frxBwtRANvjsmv5cSTXeY"
+    },
+    {
+      "album": {
         "name": "Like That",
         "url": "https://open.spotify.com/album/4l9bferLbzMG6fUDiguMQm"
       },
@@ -1686,7 +1752,7 @@
       ],
       "date_added": "2023-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-19",
       "duration_ms": 151436,
       "name": "Make Me",
       "url": "https://open.spotify.com/track/6RaaQvkGUe8Je8yAkdwQNm"
@@ -2047,6 +2113,28 @@
     },
     {
       "album": {
+        "name": "Now U Do",
+        "url": "https://open.spotify.com/album/7k7TUZNKlDHu5MfSSCX8rR"
+      },
+      "artists": [
+        {
+          "name": "DJ Seinfeld",
+          "url": "https://open.spotify.com/artist/37YzpfBeFju8QRZ3g0Ha1Q"
+        },
+        {
+          "name": "Confidence Man",
+          "url": "https://open.spotify.com/artist/0RwXnFrEoI8tltFvYpJgP6"
+        }
+      ],
+      "date_added": "2023-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158882,
+      "name": "Now U Do - Edit",
+      "url": "https://open.spotify.com/track/0fK4NmIDXetjIiZ2Oxz2tF"
+    },
+    {
+      "album": {
         "name": "Off Wiv Ya Headz",
         "url": "https://open.spotify.com/album/5TZjI8gx4AhL4yIdW6o8DQ"
       },
@@ -2344,7 +2432,7 @@
       ],
       "date_added": "2023-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-19",
       "duration_ms": 154292,
       "name": "Reason (with Paige Cavell)",
       "url": "https://open.spotify.com/track/4OQL3tmaCuh2j6K29GgT37"

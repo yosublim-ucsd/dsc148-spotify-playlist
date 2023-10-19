@@ -1,12 +1,12 @@
 {
   "description": "100% good vibes.",
-  "num_followers": 441712,
+  "num_followers": 442010,
   "original_name": "Serotonin",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhNTEyMWJiMDI4NDI3OWU2YTM2MzVlNDU3NTE3NzIzMTExYWM0M2M1",
+  "snapshot_id": "MCwzYTNiZjVhZDU4MjM3NDE4MGUxYTRiYjU2MTRiY2ZmY2UxMTA2NWRj",
   "tracks": [
     {
       "added_at": "2023-10-06 00:00:00",
@@ -279,6 +279,22 @@
     {
       "added_at": "2023-10-06 00:00:00",
       "album": {
+        "name": "Sunsetter",
+        "url": "https://open.spotify.com/album/2jzhUfQcf0ypdVTs5eViUU"
+      },
+      "artists": [
+        {
+          "name": "LEISURE",
+          "url": "https://open.spotify.com/artist/7b04D0yLktCUpvxQBhmG7R"
+        }
+      ],
+      "duration_ms": 235506,
+      "name": "Slipping Away",
+      "url": "https://open.spotify.com/track/07AbRgKmb5KfppwtZbZqDI"
+    },
+    {
+      "added_at": "2023-10-06 00:00:00",
+      "album": {
         "name": "Can't Get You out of My Head (Peggy Gou\u2019s Midnight Remix)",
         "url": "https://open.spotify.com/album/046ZhN1OxrBDq9KSUQTzm3"
       },
@@ -295,22 +311,6 @@
       "duration_ms": 271240,
       "name": "Can't Get You out of My Head - Peggy Gou\u2019s Midnight Remix",
       "url": "https://open.spotify.com/track/1Rnx52PUuhrLrj306hOZHb"
-    },
-    {
-      "added_at": "2023-10-06 00:00:00",
-      "album": {
-        "name": "Sunsetter",
-        "url": "https://open.spotify.com/album/2jzhUfQcf0ypdVTs5eViUU"
-      },
-      "artists": [
-        {
-          "name": "LEISURE",
-          "url": "https://open.spotify.com/artist/7b04D0yLktCUpvxQBhmG7R"
-        }
-      ],
-      "duration_ms": 235506,
-      "name": "Slipping Away",
-      "url": "https://open.spotify.com/track/07AbRgKmb5KfppwtZbZqDI"
     },
     {
       "added_at": "2023-10-06 00:00:00",

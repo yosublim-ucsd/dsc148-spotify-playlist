@@ -1,12 +1,12 @@
 {
   "description": "Here's to the groom! Enjoy your day with the boys!",
-  "num_followers": 93707,
+  "num_followers": 93716,
   "original_name": "Bachelor Party",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1ZDVlZWY0OWVlZmEzNWI0MDBiODVhYTZjYzlmOGRhZDdjY2I2OWIw",
+  "snapshot_id": "MCxhMWNmOGIyNGQyMDc4MDk4YmE1ZTU4Njc3NjRlY2VjYzFkNTk3Mzdm",
   "tracks": [
     {
       "added_at": "2022-05-11 15:37:27",
@@ -203,6 +203,26 @@
     {
       "added_at": "2022-05-11 15:37:27",
       "album": {
+        "name": "Globalization",
+        "url": "https://open.spotify.com/album/4EUf4YyNjuXypWY6W5wEDm"
+      },
+      "artists": [
+        {
+          "name": "Pitbull",
+          "url": "https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg"
+        },
+        {
+          "name": "Ne-Yo",
+          "url": "https://open.spotify.com/artist/21E3waRsmPlU7jZsS13rcj"
+        }
+      ],
+      "duration_ms": 229360,
+      "name": "Time of Our Lives",
+      "url": "https://open.spotify.com/track/2bJvI42r8EF3wxjOuDav4r"
+    },
+    {
+      "added_at": "2022-05-11 15:37:27",
+      "album": {
         "name": "2001",
         "url": "https://open.spotify.com/album/7q2B4M5EiBkqrlsNW8lB7N"
       },
@@ -239,22 +259,6 @@
     {
       "added_at": "2022-05-11 15:37:27",
       "album": {
-        "name": "Oh, What A Life",
-        "url": "https://open.spotify.com/album/0V4laGZGshNCpurfIdUhHv"
-      },
-      "artists": [
-        {
-          "name": "American Authors",
-          "url": "https://open.spotify.com/artist/0MlOPi3zIDMVrfA9R04Fe3"
-        }
-      ],
-      "duration_ms": 194240,
-      "name": "Best Day Of My Life",
-      "url": "https://open.spotify.com/track/5Hroj5K7vLpIG4FNCRIjbP"
-    },
-    {
-      "added_at": "2022-05-11 15:37:27",
-      "album": {
         "name": "Stoney (Deluxe)",
         "url": "https://open.spotify.com/album/5s0rmjP8XOPhP6HhqOhuyC"
       },
@@ -271,6 +275,22 @@
       "duration_ms": 220293,
       "name": "Congratulations",
       "url": "https://open.spotify.com/track/3a1lNhkSLSkpJE4MSHpDu9"
+    },
+    {
+      "added_at": "2022-05-11 15:37:27",
+      "album": {
+        "name": "Oh, What A Life",
+        "url": "https://open.spotify.com/album/0V4laGZGshNCpurfIdUhHv"
+      },
+      "artists": [
+        {
+          "name": "American Authors",
+          "url": "https://open.spotify.com/artist/0MlOPi3zIDMVrfA9R04Fe3"
+        }
+      ],
+      "duration_ms": 194240,
+      "name": "Best Day Of My Life",
+      "url": "https://open.spotify.com/track/5Hroj5K7vLpIG4FNCRIjbP"
     },
     {
       "added_at": "2022-05-11 15:37:27",
@@ -463,22 +483,6 @@
     {
       "added_at": "2022-05-11 15:37:27",
       "album": {
-        "name": "My House",
-        "url": "https://open.spotify.com/album/5lkNnHVlnCCCV304t89wOH"
-      },
-      "artists": [
-        {
-          "name": "Flo Rida",
-          "url": "https://open.spotify.com/artist/0jnsk9HBra6NMjO2oANoPY"
-        }
-      ],
-      "duration_ms": 192190,
-      "name": "My House",
-      "url": "https://open.spotify.com/track/6Knv6wdA0luoMUuuoYi2i1"
-    },
-    {
-      "added_at": "2022-05-11 15:37:27",
-      "album": {
         "name": "Memories...Do Not Open",
         "url": "https://open.spotify.com/album/4JPguzRps3kuWDD5GS6oXr"
       },
@@ -491,6 +495,22 @@
       "duration_ms": 221506,
       "name": "Paris",
       "url": "https://open.spotify.com/track/72jbDTw1piOOj770jWNeaG"
+    },
+    {
+      "added_at": "2022-05-11 15:37:27",
+      "album": {
+        "name": "My House",
+        "url": "https://open.spotify.com/album/5lkNnHVlnCCCV304t89wOH"
+      },
+      "artists": [
+        {
+          "name": "Flo Rida",
+          "url": "https://open.spotify.com/artist/0jnsk9HBra6NMjO2oANoPY"
+        }
+      ],
+      "duration_ms": 192190,
+      "name": "My House",
+      "url": "https://open.spotify.com/track/6Knv6wdA0luoMUuuoYi2i1"
     },
     {
       "added_at": "2022-05-11 15:37:27",
@@ -679,26 +699,6 @@
     {
       "added_at": "2022-05-11 15:37:27",
       "album": {
-        "name": "Turn Down for What",
-        "url": "https://open.spotify.com/album/3zo0Hxh9rjJsdw2JAKReE3"
-      },
-      "artists": [
-        {
-          "name": "DJ Snake",
-          "url": "https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4"
-        },
-        {
-          "name": "Lil Jon",
-          "url": "https://open.spotify.com/artist/7sfl4Xt5KmfyDs2T3SVSMK"
-        }
-      ],
-      "duration_ms": 213733,
-      "name": "Turn Down for What",
-      "url": "https://open.spotify.com/track/67awxiNHNyjMXhVgsHuIrs"
-    },
-    {
-      "added_at": "2022-05-11 15:37:27",
-      "album": {
         "name": "Lasers",
         "url": "https://open.spotify.com/album/1j0apvEvaWbTmlZpKsfr2D"
       },
@@ -759,6 +759,26 @@
       "duration_ms": 204878,
       "name": "broken",
       "url": "https://open.spotify.com/track/6XcfKZvJio9Z0fQy11GnNX"
+    },
+    {
+      "added_at": "2022-05-11 15:37:27",
+      "album": {
+        "name": "Turn Down for What",
+        "url": "https://open.spotify.com/album/3zo0Hxh9rjJsdw2JAKReE3"
+      },
+      "artists": [
+        {
+          "name": "DJ Snake",
+          "url": "https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4"
+        },
+        {
+          "name": "Lil Jon",
+          "url": "https://open.spotify.com/artist/7sfl4Xt5KmfyDs2T3SVSMK"
+        }
+      ],
+      "duration_ms": 213733,
+      "name": "Turn Down for What",
+      "url": "https://open.spotify.com/track/67awxiNHNyjMXhVgsHuIrs"
     },
     {
       "added_at": "2022-05-11 15:37:27",
@@ -887,26 +907,6 @@
     {
       "added_at": "2022-05-11 15:37:27",
       "album": {
-        "name": "B.o.B Presents: The Adventures of Bobby Ray",
-        "url": "https://open.spotify.com/album/7apLPYT8szV1IqTxyVSy5P"
-      },
-      "artists": [
-        {
-          "name": "B.o.B",
-          "url": "https://open.spotify.com/artist/5ndkK3dpZLKtBklKjxNQwT"
-        },
-        {
-          "name": "Rivers Cuomo",
-          "url": "https://open.spotify.com/artist/4LAz9VRX8Nat9kvIzgkg2v"
-        }
-      ],
-      "duration_ms": 196133,
-      "name": "Magic (feat. Rivers Cuomo)",
-      "url": "https://open.spotify.com/track/5uHYcK0nbEYgRaFTY5BqnP"
-    },
-    {
-      "added_at": "2022-05-11 15:37:27",
-      "album": {
         "name": "THE E.N.D. (THE ENERGY NEVER DIES)",
         "url": "https://open.spotify.com/album/3lng6RAtdksQ2q02Fk5jaB"
       },
@@ -923,22 +923,22 @@
     {
       "added_at": "2022-05-11 15:37:27",
       "album": {
-        "name": "In The City",
-        "url": "https://open.spotify.com/album/5bHhH3k4p4ugORIb3q9BHd"
+        "name": "B.o.B Presents: The Adventures of Bobby Ray",
+        "url": "https://open.spotify.com/album/7apLPYT8szV1IqTxyVSy5P"
       },
       "artists": [
         {
-          "name": "Kevin Rudolf",
-          "url": "https://open.spotify.com/artist/0Chxmm4XMM87mJOHvyiUzL"
+          "name": "B.o.B",
+          "url": "https://open.spotify.com/artist/5ndkK3dpZLKtBklKjxNQwT"
         },
         {
-          "name": "Lil Wayne",
-          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
+          "name": "Rivers Cuomo",
+          "url": "https://open.spotify.com/artist/4LAz9VRX8Nat9kvIzgkg2v"
         }
       ],
-      "duration_ms": 231173,
-      "name": "Let It Rock",
-      "url": "https://open.spotify.com/track/6TrNRd98WksT9Kkmx9uj6R"
+      "duration_ms": 196133,
+      "name": "Magic (feat. Rivers Cuomo)",
+      "url": "https://open.spotify.com/track/5uHYcK0nbEYgRaFTY5BqnP"
     }
   ],
   "unique_name": "Bachelor Party",

@@ -1,12 +1,12 @@
 {
   "description": "Deep House in all its shapes and colours.",
-  "num_followers": 602235,
+  "num_followers": 602421,
   "original_name": "Deep House Blend",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhNmJlMWZmN2ViODVlODllOGE3Yzg2YWI2ZDdmY2UyNGVmZTFkM2Nl",
+  "snapshot_id": "MCxjZTAyMTEwZjQyM2FhM2Y4NWUyNDk4NzEyYTM1ZGIyMzZiMDE1OGUw",
   "tracks": [
     {
       "added_at": "2023-10-02 17:00:11",
@@ -475,6 +475,22 @@
     {
       "added_at": "2023-10-02 17:00:11",
       "album": {
+        "name": "So Good",
+        "url": "https://open.spotify.com/album/1QyvQD5s7vgetc2UUkeNrL"
+      },
+      "artists": [
+        {
+          "name": "EDX",
+          "url": "https://open.spotify.com/artist/7GMot9WvBYqhhJz92vhBp6"
+        }
+      ],
+      "duration_ms": 193064,
+      "name": "So Good",
+      "url": "https://open.spotify.com/track/50YBCtA1z8J7p9TufYGNL7"
+    },
+    {
+      "added_at": "2023-10-02 17:00:11",
+      "album": {
         "name": "Cenote",
         "url": "https://open.spotify.com/album/1TXpoAyR5Z3q3IixFnUiwf"
       },
@@ -491,18 +507,18 @@
     {
       "added_at": "2023-10-02 17:00:11",
       "album": {
-        "name": "So Good",
-        "url": "https://open.spotify.com/album/1QyvQD5s7vgetc2UUkeNrL"
+        "name": "Cynnes",
+        "url": "https://open.spotify.com/album/1gBWP6CbeIFWedMHaR5FJ4"
       },
       "artists": [
         {
-          "name": "EDX",
-          "url": "https://open.spotify.com/artist/7GMot9WvBYqhhJz92vhBp6"
+          "name": "il:lo",
+          "url": "https://open.spotify.com/artist/0Upbj4hHk4d4UJ0HhnVs4F"
         }
       ],
-      "duration_ms": 193064,
-      "name": "So Good",
-      "url": "https://open.spotify.com/track/50YBCtA1z8J7p9TufYGNL7"
+      "duration_ms": 324333,
+      "name": "Cynnes",
+      "url": "https://open.spotify.com/track/6EjqmQ7tyQUIOYo4jXDiX9"
     },
     {
       "added_at": "2023-10-02 17:00:11",
@@ -523,22 +539,6 @@
       "duration_ms": 223666,
       "name": "Osama - Edit",
       "url": "https://open.spotify.com/track/5i2gTPIuhhA1mcFQpmD5rf"
-    },
-    {
-      "added_at": "2023-10-02 17:00:11",
-      "album": {
-        "name": "Cynnes",
-        "url": "https://open.spotify.com/album/1gBWP6CbeIFWedMHaR5FJ4"
-      },
-      "artists": [
-        {
-          "name": "il:lo",
-          "url": "https://open.spotify.com/artist/0Upbj4hHk4d4UJ0HhnVs4F"
-        }
-      ],
-      "duration_ms": 324333,
-      "name": "Cynnes",
-      "url": "https://open.spotify.com/track/6EjqmQ7tyQUIOYo4jXDiX9"
     },
     {
       "added_at": "2023-10-02 17:00:11",
@@ -875,6 +875,22 @@
     {
       "added_at": "2023-10-02 17:00:11",
       "album": {
+        "name": "I WON'T STAY",
+        "url": "https://open.spotify.com/album/1zwBTT49NegfvTuQ2k883O"
+      },
+      "artists": [
+        {
+          "name": "JOPLYN",
+          "url": "https://open.spotify.com/artist/32Jt1AK733JbFR82hEZ0Ih"
+        }
+      ],
+      "duration_ms": 286423,
+      "name": "I WON'T STAY",
+      "url": "https://open.spotify.com/track/16Xp4KpTyFJc4jKXpNFFyE"
+    },
+    {
+      "added_at": "2023-10-02 17:00:11",
+      "album": {
         "name": "Inner Child (Patrice B\u00e4umel Remix)",
         "url": "https://open.spotify.com/album/4AVJ3orR0WTENQDm3mn67f"
       },
@@ -895,22 +911,6 @@
       "duration_ms": 253195,
       "name": "Inner Child - Patrice B\u00e4umel Remix",
       "url": "https://open.spotify.com/track/6oFYHUfDjBTGvR5M3RzSUE"
-    },
-    {
-      "added_at": "2023-10-02 17:00:11",
-      "album": {
-        "name": "I WON'T STAY",
-        "url": "https://open.spotify.com/album/1zwBTT49NegfvTuQ2k883O"
-      },
-      "artists": [
-        {
-          "name": "JOPLYN",
-          "url": "https://open.spotify.com/artist/32Jt1AK733JbFR82hEZ0Ih"
-        }
-      ],
-      "duration_ms": 286423,
-      "name": "I WON'T STAY",
-      "url": "https://open.spotify.com/track/16Xp4KpTyFJc4jKXpNFFyE"
     },
     {
       "added_at": "2023-10-02 17:00:11",
@@ -1127,26 +1127,6 @@
     {
       "added_at": "2023-10-02 17:00:11",
       "album": {
-        "name": "Roads Of Gold",
-        "url": "https://open.spotify.com/album/5j2ZsWodikhixJNHhUCGKq"
-      },
-      "artists": [
-        {
-          "name": "Klangkarussell",
-          "url": "https://open.spotify.com/artist/041iTeoMIwXMlShuQPIVKo"
-        },
-        {
-          "name": "Redward Martin",
-          "url": "https://open.spotify.com/artist/2WnWBVe8DzF0qpstAxddn2"
-        }
-      ],
-      "duration_ms": 310602,
-      "name": "Roads Of Gold - Edit",
-      "url": "https://open.spotify.com/track/1M1g0SAJavX4mMLqEqKTDn"
-    },
-    {
-      "added_at": "2023-10-02 17:00:11",
-      "album": {
         "name": "Far Behind",
         "url": "https://open.spotify.com/album/3k2AgNEkdykDDtt24qH9qP"
       },
@@ -1187,6 +1167,26 @@
     {
       "added_at": "2023-10-02 17:00:11",
       "album": {
+        "name": "Roads Of Gold",
+        "url": "https://open.spotify.com/album/5j2ZsWodikhixJNHhUCGKq"
+      },
+      "artists": [
+        {
+          "name": "Klangkarussell",
+          "url": "https://open.spotify.com/artist/041iTeoMIwXMlShuQPIVKo"
+        },
+        {
+          "name": "Redward Martin",
+          "url": "https://open.spotify.com/artist/2WnWBVe8DzF0qpstAxddn2"
+        }
+      ],
+      "duration_ms": 310602,
+      "name": "Roads Of Gold - Edit",
+      "url": "https://open.spotify.com/track/1M1g0SAJavX4mMLqEqKTDn"
+    },
+    {
+      "added_at": "2023-10-02 17:00:11",
+      "album": {
         "name": "Body Language, Vol. 24",
         "url": "https://open.spotify.com/album/5ckimbNORdaunDCjWmr1If"
       },
@@ -1223,6 +1223,22 @@
     {
       "added_at": "2023-10-02 17:00:11",
       "album": {
+        "name": "Silence",
+        "url": "https://open.spotify.com/album/3JhrwVDziahf2PLTPzJhwT"
+      },
+      "artists": [
+        {
+          "name": "Giol\u00ec & Assia",
+          "url": "https://open.spotify.com/artist/6mM9a86Nrw0y7f9MaJGbpU"
+        }
+      ],
+      "duration_ms": 221966,
+      "name": "Silence",
+      "url": "https://open.spotify.com/track/0rkJhWp63okDVZa5Cda6ua"
+    },
+    {
+      "added_at": "2023-10-02 17:00:11",
+      "album": {
         "name": "What U Doing",
         "url": "https://open.spotify.com/album/65xPPLYFiHhx6YxRV3S9fV"
       },
@@ -1239,22 +1255,6 @@
       "duration_ms": 229523,
       "name": "What U Doing",
       "url": "https://open.spotify.com/track/6jn47IP90tvtvb7ddhOnS1"
-    },
-    {
-      "added_at": "2023-10-02 17:00:11",
-      "album": {
-        "name": "Silence",
-        "url": "https://open.spotify.com/album/3JhrwVDziahf2PLTPzJhwT"
-      },
-      "artists": [
-        {
-          "name": "Giol\u00ec & Assia",
-          "url": "https://open.spotify.com/artist/6mM9a86Nrw0y7f9MaJGbpU"
-        }
-      ],
-      "duration_ms": 221966,
-      "name": "Silence",
-      "url": "https://open.spotify.com/track/0rkJhWp63okDVZa5Cda6ua"
     },
     {
       "added_at": "2023-10-02 17:00:11",
@@ -1295,6 +1295,22 @@
     {
       "added_at": "2023-10-02 17:00:11",
       "album": {
+        "name": "Rebirth",
+        "url": "https://open.spotify.com/album/0DNO6OZBhdVtJ8Q1D8ZiVY"
+      },
+      "artists": [
+        {
+          "name": "Stereo Express",
+          "url": "https://open.spotify.com/artist/3j2zB13syOvCyrkJIomEA2"
+        }
+      ],
+      "duration_ms": 479075,
+      "name": "Rebirth",
+      "url": "https://open.spotify.com/track/2maR9zs9UfgQpB1hr9UjpS"
+    },
+    {
+      "added_at": "2023-10-02 17:00:11",
+      "album": {
         "name": "Made of Wood Remixed",
         "url": "https://open.spotify.com/album/17vbriNfPim1tG9mGO6GGA"
       },
@@ -1311,22 +1327,6 @@
       "duration_ms": 397882,
       "name": "Copal - Super Flu Remix",
       "url": "https://open.spotify.com/track/2Eu5IxBvLxCd1HFVR4JbR4"
-    },
-    {
-      "added_at": "2023-10-02 17:00:11",
-      "album": {
-        "name": "Rebirth",
-        "url": "https://open.spotify.com/album/0DNO6OZBhdVtJ8Q1D8ZiVY"
-      },
-      "artists": [
-        {
-          "name": "Stereo Express",
-          "url": "https://open.spotify.com/artist/3j2zB13syOvCyrkJIomEA2"
-        }
-      ],
-      "duration_ms": 479075,
-      "name": "Rebirth",
-      "url": "https://open.spotify.com/track/2maR9zs9UfgQpB1hr9UjpS"
     },
     {
       "added_at": "2023-10-02 17:00:11",
@@ -1475,6 +1475,22 @@
     {
       "added_at": "2023-10-02 17:00:11",
       "album": {
+        "name": "Orbits of Dust",
+        "url": "https://open.spotify.com/album/2fYopE6mpqCMkb5vaxHXEP"
+      },
+      "artists": [
+        {
+          "name": "Session Victim",
+          "url": "https://open.spotify.com/artist/4Hl6TEQAFgH0XrZq4f8okX"
+        }
+      ],
+      "duration_ms": 360071,
+      "name": "Orbits of Dust",
+      "url": "https://open.spotify.com/track/6Ph7youWJICoOoevKOvyJR"
+    },
+    {
+      "added_at": "2023-10-02 17:00:11",
+      "album": {
         "name": "Alone (andhim Remix)",
         "url": "https://open.spotify.com/album/5dAIxyXI3nmT0IogiHaid6"
       },
@@ -1499,18 +1515,26 @@
     {
       "added_at": "2023-10-02 17:00:11",
       "album": {
-        "name": "Orbits of Dust",
-        "url": "https://open.spotify.com/album/2fYopE6mpqCMkb5vaxHXEP"
+        "name": "To Be Written",
+        "url": "https://open.spotify.com/album/75NlKx9OHVKAVa0oFZV0D2"
       },
       "artists": [
         {
-          "name": "Session Victim",
-          "url": "https://open.spotify.com/artist/4Hl6TEQAFgH0XrZq4f8okX"
+          "name": "Marc DePulse",
+          "url": "https://open.spotify.com/artist/7dhJPaz7uYAPpQSBj1SPaN"
+        },
+        {
+          "name": "Eleonora",
+          "url": "https://open.spotify.com/artist/2VErfOOcXOkiHhc823g50r"
+        },
+        {
+          "name": "Lunar Plane",
+          "url": "https://open.spotify.com/artist/7wWAqQCAlSqAcRRYCKoIfy"
         }
       ],
-      "duration_ms": 360071,
-      "name": "Orbits of Dust",
-      "url": "https://open.spotify.com/track/6Ph7youWJICoOoevKOvyJR"
+      "duration_ms": 393442,
+      "name": "To Be Written - Lunar Plane Remix",
+      "url": "https://open.spotify.com/track/2ItIqM6gawNDBLAPHDbJzO"
     },
     {
       "added_at": "2023-10-02 17:00:11",
@@ -1535,30 +1559,6 @@
       "duration_ms": 403286,
       "name": "Restless",
       "url": "https://open.spotify.com/track/0xQCYPOdNabGkm4pEBn0Nb"
-    },
-    {
-      "added_at": "2023-10-02 17:00:11",
-      "album": {
-        "name": "To Be Written",
-        "url": "https://open.spotify.com/album/75NlKx9OHVKAVa0oFZV0D2"
-      },
-      "artists": [
-        {
-          "name": "Marc DePulse",
-          "url": "https://open.spotify.com/artist/7dhJPaz7uYAPpQSBj1SPaN"
-        },
-        {
-          "name": "Eleonora",
-          "url": "https://open.spotify.com/artist/2VErfOOcXOkiHhc823g50r"
-        },
-        {
-          "name": "Lunar Plane",
-          "url": "https://open.spotify.com/artist/7wWAqQCAlSqAcRRYCKoIfy"
-        }
-      ],
-      "duration_ms": 393442,
-      "name": "To Be Written - Lunar Plane Remix",
-      "url": "https://open.spotify.com/track/2ItIqM6gawNDBLAPHDbJzO"
     }
   ],
   "unique_name": "Deep House Blend",

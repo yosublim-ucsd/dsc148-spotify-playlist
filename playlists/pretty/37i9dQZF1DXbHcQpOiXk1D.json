@@ -1,12 +1,12 @@
 {
   "description": "The best from Britain's vibrant scene. Cover: Laura Misch",
-  "num_followers": 298735,
+  "num_followers": 298768,
   "original_name": "Jazz UK",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwNDU5ODRhYjBlNTFjMjhlOGZmNTdjNDkwOGFhZWVhZDM4MTIwNjM3",
+  "snapshot_id": "MCxiNWRkZGQwYjA0NWEwYzBlZDViZmU4MzZlNGFjYmZjZjM0NTU1NzA0",
   "tracks": [
     {
       "added_at": "2023-10-13 09:31:40",
@@ -227,34 +227,6 @@
     {
       "added_at": "2023-10-13 09:31:40",
       "album": {
-        "name": "Find Your Peace (feat. Common, Robert Glasper & Jean Baylor)",
-        "url": "https://open.spotify.com/album/2Xk2tl4haAIAl0HPq5LNSN"
-      },
-      "artists": [
-        {
-          "name": "Keyon Harrold",
-          "url": "https://open.spotify.com/artist/4JG781pl96pL2h0AoERgOA"
-        },
-        {
-          "name": "Common",
-          "url": "https://open.spotify.com/artist/2GHclqNVjqGuiE5mA7BEoc"
-        },
-        {
-          "name": "Robert Glasper",
-          "url": "https://open.spotify.com/artist/5cM1PvItlR21WUyBnsdMcn"
-        },
-        {
-          "name": "Jean Baylor",
-          "url": "https://open.spotify.com/artist/2GFqj9ZTbvZNr0RYU9izAa"
-        }
-      ],
-      "duration_ms": 270602,
-      "name": "Find Your Peace (feat. Common, Robert Glasper & Jean Baylor) - Single Edit",
-      "url": "https://open.spotify.com/track/2tjCuqMwFr8YlqwoB1UALy"
-    },
-    {
-      "added_at": "2023-10-13 09:31:40",
-      "album": {
         "name": "Means The World",
         "url": "https://open.spotify.com/album/5O0iPLncgsSWVTr5FyF2o5"
       },
@@ -279,6 +251,34 @@
       "duration_ms": 181130,
       "name": "Means The World",
       "url": "https://open.spotify.com/track/7mxvuhXGwCU8qmTuQR5rcg"
+    },
+    {
+      "added_at": "2023-10-13 09:31:40",
+      "album": {
+        "name": "Find Your Peace (feat. Common, Robert Glasper & Jean Baylor)",
+        "url": "https://open.spotify.com/album/2Xk2tl4haAIAl0HPq5LNSN"
+      },
+      "artists": [
+        {
+          "name": "Keyon Harrold",
+          "url": "https://open.spotify.com/artist/4JG781pl96pL2h0AoERgOA"
+        },
+        {
+          "name": "Common",
+          "url": "https://open.spotify.com/artist/2GHclqNVjqGuiE5mA7BEoc"
+        },
+        {
+          "name": "Robert Glasper",
+          "url": "https://open.spotify.com/artist/5cM1PvItlR21WUyBnsdMcn"
+        },
+        {
+          "name": "Jean Baylor",
+          "url": "https://open.spotify.com/artist/2GFqj9ZTbvZNr0RYU9izAa"
+        }
+      ],
+      "duration_ms": 270602,
+      "name": "Find Your Peace (feat. Common, Robert Glasper & Jean Baylor) - Single Edit",
+      "url": "https://open.spotify.com/track/2tjCuqMwFr8YlqwoB1UALy"
     },
     {
       "added_at": "2023-10-13 09:31:40",
@@ -583,26 +583,22 @@
     {
       "added_at": "2023-10-13 09:31:40",
       "album": {
-        "name": "It's All Good",
-        "url": "https://open.spotify.com/album/1nQjbiLg6hwnvqfVmgjY1r"
+        "name": "Green Grass",
+        "url": "https://open.spotify.com/album/75CB1iYaNf6pwIS366jB2o"
       },
       "artists": [
         {
-          "name": "Oli Howe",
-          "url": "https://open.spotify.com/artist/0Ky1tgoT4tGP4yFEYOBfof"
+          "name": "IYAMAH",
+          "url": "https://open.spotify.com/artist/3kf01riKEcjHq6eiATvWT1"
         },
         {
-          "name": "Jackson Mathod",
-          "url": "https://open.spotify.com/artist/6RvLMgatQu3kdjDpYyQnTx"
-        },
-        {
-          "name": "David Mrakpor",
-          "url": "https://open.spotify.com/artist/7JNCmuOVO13j5XNE8s1Bvr"
+          "name": "Kofi Stone",
+          "url": "https://open.spotify.com/artist/0htlZDCG9I8LSENteF1TyQ"
         }
       ],
-      "duration_ms": 204120,
-      "name": "It's All Good",
-      "url": "https://open.spotify.com/track/01oUxAHgeE334OxvH21D5W"
+      "duration_ms": 225970,
+      "name": "Green Grass",
+      "url": "https://open.spotify.com/track/5XHLHL747QGGemajjt2fIu"
     },
     {
       "added_at": "2023-10-13 09:31:40",
@@ -627,22 +623,26 @@
     {
       "added_at": "2023-10-13 09:31:40",
       "album": {
-        "name": "Green Grass",
-        "url": "https://open.spotify.com/album/75CB1iYaNf6pwIS366jB2o"
+        "name": "It's All Good",
+        "url": "https://open.spotify.com/album/1nQjbiLg6hwnvqfVmgjY1r"
       },
       "artists": [
         {
-          "name": "IYAMAH",
-          "url": "https://open.spotify.com/artist/3kf01riKEcjHq6eiATvWT1"
+          "name": "Oli Howe",
+          "url": "https://open.spotify.com/artist/0Ky1tgoT4tGP4yFEYOBfof"
         },
         {
-          "name": "Kofi Stone",
-          "url": "https://open.spotify.com/artist/0htlZDCG9I8LSENteF1TyQ"
+          "name": "Jackson Mathod",
+          "url": "https://open.spotify.com/artist/6RvLMgatQu3kdjDpYyQnTx"
+        },
+        {
+          "name": "David Mrakpor",
+          "url": "https://open.spotify.com/artist/7JNCmuOVO13j5XNE8s1Bvr"
         }
       ],
-      "duration_ms": 225970,
-      "name": "Green Grass",
-      "url": "https://open.spotify.com/track/5XHLHL747QGGemajjt2fIu"
+      "duration_ms": 204120,
+      "name": "It's All Good",
+      "url": "https://open.spotify.com/track/01oUxAHgeE334OxvH21D5W"
     },
     {
       "added_at": "2023-10-13 09:31:40",
@@ -859,26 +859,18 @@
     {
       "added_at": "2023-10-13 09:31:40",
       "album": {
-        "name": "Magnolia II",
-        "url": "https://open.spotify.com/album/4TohzEm1l1RRwCFxFNMU0u"
+        "name": "Next Spring",
+        "url": "https://open.spotify.com/album/0gFX9wGUcQBYXDqJ5URIRC"
       },
       "artists": [
         {
-          "name": "Kamaal Williams",
-          "url": "https://open.spotify.com/artist/01mXk9IDlVczWwZvVHAiIS"
-        },
-        {
-          "name": "Theo Croker",
-          "url": "https://open.spotify.com/artist/7iUF39q93Xixo33E6IvNYm"
-        },
-        {
-          "name": "Corey Fonville",
-          "url": "https://open.spotify.com/artist/7sX499OwcBpDPpk2eGgooP"
+          "name": "B-ahwe",
+          "url": "https://open.spotify.com/artist/6kog2FnBdjoz5oc9EQvuXl"
         }
       ],
-      "duration_ms": 197500,
-      "name": "Magnolia II",
-      "url": "https://open.spotify.com/track/6FG0RYmtPG4UKRpLG2Syu7"
+      "duration_ms": 224322,
+      "name": "Next Spring",
+      "url": "https://open.spotify.com/track/54ag16aEyB17RWbLWv05KW"
     },
     {
       "added_at": "2023-10-13 09:31:40",
@@ -907,18 +899,26 @@
     {
       "added_at": "2023-10-13 09:31:40",
       "album": {
-        "name": "Next Spring",
-        "url": "https://open.spotify.com/album/0gFX9wGUcQBYXDqJ5URIRC"
+        "name": "Magnolia II",
+        "url": "https://open.spotify.com/album/4TohzEm1l1RRwCFxFNMU0u"
       },
       "artists": [
         {
-          "name": "B-ahwe",
-          "url": "https://open.spotify.com/artist/6kog2FnBdjoz5oc9EQvuXl"
+          "name": "Kamaal Williams",
+          "url": "https://open.spotify.com/artist/01mXk9IDlVczWwZvVHAiIS"
+        },
+        {
+          "name": "Theo Croker",
+          "url": "https://open.spotify.com/artist/7iUF39q93Xixo33E6IvNYm"
+        },
+        {
+          "name": "Corey Fonville",
+          "url": "https://open.spotify.com/artist/7sX499OwcBpDPpk2eGgooP"
         }
       ],
-      "duration_ms": 224322,
-      "name": "Next Spring",
-      "url": "https://open.spotify.com/track/54ag16aEyB17RWbLWv05KW"
+      "duration_ms": 197500,
+      "name": "Magnolia II",
+      "url": "https://open.spotify.com/track/6FG0RYmtPG4UKRpLG2Syu7"
     },
     {
       "added_at": "2023-10-13 09:31:40",
@@ -943,18 +943,18 @@
     {
       "added_at": "2023-10-13 09:31:40",
       "album": {
-        "name": "Horizons",
-        "url": "https://open.spotify.com/album/0f3k4tF3PXSsRKnklbiKKe"
+        "name": "Bad With Names",
+        "url": "https://open.spotify.com/album/62MpaARdfMHnZEXL1Lsqt3"
       },
       "artists": [
         {
-          "name": "Jasmine Myra",
-          "url": "https://open.spotify.com/artist/3OOAxdMJCLi7iAurDghYyK"
+          "name": "corto.alto",
+          "url": "https://open.spotify.com/artist/5Kd7e5lauV4CDdTHm5uiJH"
         }
       ],
-      "duration_ms": 400800,
-      "name": "Words Left Unspoken",
-      "url": "https://open.spotify.com/track/2b7mhgBdpvDCLYGK8nRfMX"
+      "duration_ms": 175148,
+      "name": "Hello",
+      "url": "https://open.spotify.com/track/26r5hoIx5hDUY9b4tDisHx"
     },
     {
       "added_at": "2023-10-13 09:31:40",
@@ -975,26 +975,18 @@
     {
       "added_at": "2023-10-13 09:31:40",
       "album": {
-        "name": "Champagne Kisses",
-        "url": "https://open.spotify.com/album/1BkhAWj2DJmsapEOd0OUUU"
+        "name": "Horizons",
+        "url": "https://open.spotify.com/album/0f3k4tF3PXSsRKnklbiKKe"
       },
       "artists": [
         {
-          "name": "Reuben James",
-          "url": "https://open.spotify.com/artist/5tA28joO5iZ0eCnvyctqRH"
-        },
-        {
-          "name": "Tom Ford",
-          "url": "https://open.spotify.com/artist/3GjqRsFb9dpZ02vchIWQPE"
-        },
-        {
-          "name": "CARRTOONS",
-          "url": "https://open.spotify.com/artist/0994Up3Ob4zUFm3OFOWpzJ"
+          "name": "Jasmine Myra",
+          "url": "https://open.spotify.com/artist/3OOAxdMJCLi7iAurDghYyK"
         }
       ],
-      "duration_ms": 235433,
-      "name": "Sun Goes Down",
-      "url": "https://open.spotify.com/track/2n1tmBwwgF0dP0kU9CELhL"
+      "duration_ms": 400800,
+      "name": "Words Left Unspoken",
+      "url": "https://open.spotify.com/track/2b7mhgBdpvDCLYGK8nRfMX"
     },
     {
       "added_at": "2023-10-13 09:31:40",
@@ -1019,22 +1011,6 @@
     {
       "added_at": "2023-10-13 09:31:40",
       "album": {
-        "name": "Bad With Names",
-        "url": "https://open.spotify.com/album/62MpaARdfMHnZEXL1Lsqt3"
-      },
-      "artists": [
-        {
-          "name": "corto.alto",
-          "url": "https://open.spotify.com/artist/5Kd7e5lauV4CDdTHm5uiJH"
-        }
-      ],
-      "duration_ms": 175148,
-      "name": "Hello",
-      "url": "https://open.spotify.com/track/26r5hoIx5hDUY9b4tDisHx"
-    },
-    {
-      "added_at": "2023-10-13 09:31:40",
-      "album": {
         "name": "My Voice",
         "url": "https://open.spotify.com/album/3307v7bngEkIXsB6OZWBy8"
       },
@@ -1047,6 +1023,30 @@
       "duration_ms": 271040,
       "name": "Breeze",
       "url": "https://open.spotify.com/track/1ssRJeVukT0jJEoBO8b0c7"
+    },
+    {
+      "added_at": "2023-10-13 09:31:40",
+      "album": {
+        "name": "Champagne Kisses",
+        "url": "https://open.spotify.com/album/1BkhAWj2DJmsapEOd0OUUU"
+      },
+      "artists": [
+        {
+          "name": "Reuben James",
+          "url": "https://open.spotify.com/artist/5tA28joO5iZ0eCnvyctqRH"
+        },
+        {
+          "name": "Tom Ford",
+          "url": "https://open.spotify.com/artist/3GjqRsFb9dpZ02vchIWQPE"
+        },
+        {
+          "name": "CARRTOONS",
+          "url": "https://open.spotify.com/artist/0994Up3Ob4zUFm3OFOWpzJ"
+        }
+      ],
+      "duration_ms": 235433,
+      "name": "Sun Goes Down",
+      "url": "https://open.spotify.com/track/2n1tmBwwgF0dP0kU9CELhL"
     },
     {
       "added_at": "2023-10-13 09:31:40",
@@ -1119,6 +1119,30 @@
     {
       "added_at": "2023-10-13 09:31:40",
       "album": {
+        "name": "STR4TASFEAR Remixes",
+        "url": "https://open.spotify.com/album/3dCSbKuoc31g6ebi6I2XZL"
+      },
+      "artists": [
+        {
+          "name": "STR4TA",
+          "url": "https://open.spotify.com/artist/5HintvHxi0uDBgNaRKWZOt"
+        },
+        {
+          "name": "Emma-Jean Thackray",
+          "url": "https://open.spotify.com/artist/3UgcksTtuB1Jnn8BrisEiC"
+        },
+        {
+          "name": "Jean Paul \"Bluey\" Maunick",
+          "url": "https://open.spotify.com/artist/5Tv7qX68u95zstak765YGM"
+        }
+      ],
+      "duration_ms": 391640,
+      "name": "Lazy Days (feat. Emma-Jean Thackray) [Bluey Remix]",
+      "url": "https://open.spotify.com/track/5yfojFTeq7UFGuuV3UT9O0"
+    },
+    {
+      "added_at": "2023-10-13 09:31:40",
+      "album": {
         "name": "The Morning Side of Love",
         "url": "https://open.spotify.com/album/4pK5UBmbIGB03jcNZb4TJf"
       },
@@ -1151,30 +1175,6 @@
       "duration_ms": 161771,
       "name": "5k",
       "url": "https://open.spotify.com/track/4sOKXbVMDiqWSj9uojOcfp"
-    },
-    {
-      "added_at": "2023-10-13 09:31:40",
-      "album": {
-        "name": "STR4TASFEAR Remixes",
-        "url": "https://open.spotify.com/album/3dCSbKuoc31g6ebi6I2XZL"
-      },
-      "artists": [
-        {
-          "name": "STR4TA",
-          "url": "https://open.spotify.com/artist/5HintvHxi0uDBgNaRKWZOt"
-        },
-        {
-          "name": "Emma-Jean Thackray",
-          "url": "https://open.spotify.com/artist/3UgcksTtuB1Jnn8BrisEiC"
-        },
-        {
-          "name": "Jean Paul \"Bluey\" Maunick",
-          "url": "https://open.spotify.com/artist/5Tv7qX68u95zstak765YGM"
-        }
-      ],
-      "duration_ms": 391640,
-      "name": "Lazy Days (feat. Emma-Jean Thackray) [Bluey Remix]",
-      "url": "https://open.spotify.com/track/5yfojFTeq7UFGuuV3UT9O0"
     },
     {
       "added_at": "2023-10-13 09:31:40",
@@ -1227,22 +1227,6 @@
     {
       "added_at": "2023-10-13 09:31:40",
       "album": {
-        "name": "Calder Shapes",
-        "url": "https://open.spotify.com/album/6BGmF1n3gZJbVA7atY7Dfe"
-      },
-      "artists": [
-        {
-          "name": "Matthew Halsall",
-          "url": "https://open.spotify.com/artist/0Cioop2zjxXxtcPUme7R46"
-        }
-      ],
-      "duration_ms": 428653,
-      "name": "Calder Shapes",
-      "url": "https://open.spotify.com/track/6W6iCHIlyiYq2oAWBrT3tt"
-    },
-    {
-      "added_at": "2023-10-13 09:31:40",
-      "album": {
         "name": "Pieces",
         "url": "https://open.spotify.com/album/4bRhptKi6B8B0A2ssBiPyA"
       },
@@ -1259,18 +1243,42 @@
     {
       "added_at": "2023-10-13 09:31:40",
       "album": {
-        "name": "Lovestruck in London",
-        "url": "https://open.spotify.com/album/5FGBnsHX3HAHOIOsJSOOaK"
+        "name": "edbl & friends \u2013 Jackson Mathod",
+        "url": "https://open.spotify.com/album/4Dm4vJNsXbsutvoeNRqjSI"
       },
       "artists": [
         {
-          "name": "Immy",
-          "url": "https://open.spotify.com/artist/22kJefNRRuhLJDYzVbFrW7"
+          "name": "edbl",
+          "url": "https://open.spotify.com/artist/7ncd26zzbpqgZRroBKmReO"
+        },
+        {
+          "name": "Jackson Mathod",
+          "url": "https://open.spotify.com/artist/6RvLMgatQu3kdjDpYyQnTx"
+        },
+        {
+          "name": "Nic Hanson",
+          "url": "https://open.spotify.com/artist/1NrFTpkB0RvbVLYl0p5Xvc"
         }
       ],
-      "duration_ms": 174764,
-      "name": "If You Love The Moon",
-      "url": "https://open.spotify.com/track/3FPqks4SM8B5gV8tdpEwML"
+      "duration_ms": 172732,
+      "name": "Too Much",
+      "url": "https://open.spotify.com/track/74lXEOR1jwNlqIRGXdcIn7"
+    },
+    {
+      "added_at": "2023-10-13 09:31:40",
+      "album": {
+        "name": "Calder Shapes",
+        "url": "https://open.spotify.com/album/6BGmF1n3gZJbVA7atY7Dfe"
+      },
+      "artists": [
+        {
+          "name": "Matthew Halsall",
+          "url": "https://open.spotify.com/artist/0Cioop2zjxXxtcPUme7R46"
+        }
+      ],
+      "duration_ms": 428653,
+      "name": "Calder Shapes",
+      "url": "https://open.spotify.com/track/6W6iCHIlyiYq2oAWBrT3tt"
     },
     {
       "added_at": "2023-10-13 09:31:40",
@@ -1307,30 +1315,18 @@
     {
       "added_at": "2023-10-13 09:31:40",
       "album": {
-        "name": "Just The Same",
-        "url": "https://open.spotify.com/album/7CpVdBoh3WKtZdINeoKS4s"
+        "name": "Lovestruck in London",
+        "url": "https://open.spotify.com/album/5FGBnsHX3HAHOIOsJSOOaK"
       },
       "artists": [
         {
-          "name": "edbl",
-          "url": "https://open.spotify.com/artist/7ncd26zzbpqgZRroBKmReO"
-        },
-        {
-          "name": "James Berkeley",
-          "url": "https://open.spotify.com/artist/157f6KLF3Hafl4cNddKiMu"
-        },
-        {
-          "name": "Miller Blue",
-          "url": "https://open.spotify.com/artist/2soHr8jGZ0ATxc6X6BgmbA"
-        },
-        {
-          "name": "Yakul",
-          "url": "https://open.spotify.com/artist/0Pi3s9W42iTzuxDp7GKIfO"
+          "name": "Immy",
+          "url": "https://open.spotify.com/artist/22kJefNRRuhLJDYzVbFrW7"
         }
       ],
-      "duration_ms": 217760,
-      "name": "Just The Same",
-      "url": "https://open.spotify.com/track/3F2Vqu9r6BvGRZBCwQZVGx"
+      "duration_ms": 174764,
+      "name": "If You Love The Moon",
+      "url": "https://open.spotify.com/track/3FPqks4SM8B5gV8tdpEwML"
     },
     {
       "added_at": "2023-10-13 09:31:40",
@@ -1375,38 +1371,30 @@
     {
       "added_at": "2023-10-13 09:31:40",
       "album": {
-        "name": "Love Theme For Leisure Trip",
-        "url": "https://open.spotify.com/album/4mtqjAKgZTaqenC7XcI6TT"
+        "name": "Just The Same",
+        "url": "https://open.spotify.com/album/7CpVdBoh3WKtZdINeoKS4s"
       },
       "artists": [
         {
-          "name": "Hemai",
-          "url": "https://open.spotify.com/artist/0eOlWPcqRSIbrJ1i9ESFhz"
+          "name": "edbl",
+          "url": "https://open.spotify.com/artist/7ncd26zzbpqgZRroBKmReO"
         },
         {
-          "name": "Quinn Oulton",
-          "url": "https://open.spotify.com/artist/2lqAPLmP9BsHPymfa6UFO7"
-        }
-      ],
-      "duration_ms": 209020,
-      "name": "Love Theme For Leisure Trip",
-      "url": "https://open.spotify.com/track/1v0gfS8rwkD3Vgnm12NslK"
-    },
-    {
-      "added_at": "2023-10-13 09:31:40",
-      "album": {
-        "name": "Lean In",
-        "url": "https://open.spotify.com/album/22CKhxvPblano1zLKKZTsR"
-      },
-      "artists": [
+          "name": "James Berkeley",
+          "url": "https://open.spotify.com/artist/157f6KLF3Hafl4cNddKiMu"
+        },
         {
-          "name": "Nubya Garcia",
-          "url": "https://open.spotify.com/artist/6O5k8LLRfDK8v9jj1GazAQ"
+          "name": "Miller Blue",
+          "url": "https://open.spotify.com/artist/2soHr8jGZ0ATxc6X6BgmbA"
+        },
+        {
+          "name": "Yakul",
+          "url": "https://open.spotify.com/artist/0Pi3s9W42iTzuxDp7GKIfO"
         }
       ],
-      "duration_ms": 318675,
-      "name": "Lean In",
-      "url": "https://open.spotify.com/track/0qEYroDLzjD7qexoNrMwtE"
+      "duration_ms": 217760,
+      "name": "Just The Same",
+      "url": "https://open.spotify.com/track/3F2Vqu9r6BvGRZBCwQZVGx"
     },
     {
       "added_at": "2023-10-13 09:31:40",
@@ -1423,6 +1411,26 @@
       "duration_ms": 424960,
       "name": "Homesick",
       "url": "https://open.spotify.com/track/1Rd9TkiuqfUXMYNgguXpKY"
+    },
+    {
+      "added_at": "2023-10-13 09:31:40",
+      "album": {
+        "name": "Love Theme For Leisure Trip",
+        "url": "https://open.spotify.com/album/4mtqjAKgZTaqenC7XcI6TT"
+      },
+      "artists": [
+        {
+          "name": "Hemai",
+          "url": "https://open.spotify.com/artist/0eOlWPcqRSIbrJ1i9ESFhz"
+        },
+        {
+          "name": "Quinn Oulton",
+          "url": "https://open.spotify.com/artist/2lqAPLmP9BsHPymfa6UFO7"
+        }
+      ],
+      "duration_ms": 209020,
+      "name": "Love Theme For Leisure Trip",
+      "url": "https://open.spotify.com/track/1v0gfS8rwkD3Vgnm12NslK"
     }
   ],
   "unique_name": "Jazz UK",

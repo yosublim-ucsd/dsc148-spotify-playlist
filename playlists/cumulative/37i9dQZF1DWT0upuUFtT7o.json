@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-09",
-  "description": "The best new indie tracks from independent artists & labels. Updates every Wednesday. Cover: juju <3",
+  "description": "The best new indie tracks from independent artists & labels. Updates every Wednesday. Cover: Meernaa <3",
   "name": "Fresh Finds Indie",
   "tracks": [
     {
@@ -2222,7 +2222,7 @@
       ],
       "date_added": "2023-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-19",
       "duration_ms": 321460,
       "name": "Around Around Around",
       "url": "https://open.spotify.com/track/7zOeMbT1C2YmJ37Hlyzp2p"
@@ -5652,7 +5652,7 @@
       ],
       "date_added": "2023-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-19",
       "duration_ms": 212458,
       "name": "Celebrity Lookalikes",
       "url": "https://open.spotify.com/track/37hpqDnpVrfRcJYab1XWFc"
@@ -7602,7 +7602,7 @@
       ],
       "date_added": "2023-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-19",
       "duration_ms": 189962,
       "name": "Day in the Tub",
       "url": "https://open.spotify.com/track/0a1gRc7rZrklbZYHZ7lj0Q"
@@ -10046,6 +10046,24 @@
       "duration_ms": 234300,
       "name": "Fault Lines",
       "url": "https://open.spotify.com/track/1R4uqlax55SfYnOlWFDwvN"
+    },
+    {
+      "album": {
+        "name": "Favorite Things",
+        "url": "https://open.spotify.com/album/4Xg9ew4eWpx4K1eji1GrWk"
+      },
+      "artists": [
+        {
+          "name": "Sonya",
+          "url": "https://open.spotify.com/artist/1sxq3PHS2sb0jQhAQRv3TA"
+        }
+      ],
+      "date_added": "2023-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165600,
+      "name": "Favorite Things",
+      "url": "https://open.spotify.com/track/6ivV6lAQxm1W3YfrHHSmqQ"
     },
     {
       "album": {
@@ -16567,6 +16585,24 @@
     },
     {
       "album": {
+        "name": "LNR_(05)",
+        "url": "https://open.spotify.com/album/6JA89WIIdzbh1ItRkOvSZd"
+      },
+      "artists": [
+        {
+          "name": "Killer Bee",
+          "url": "https://open.spotify.com/artist/6XXPLVj62lsUtiyDZvTXKz"
+        }
+      ],
+      "date_added": "2023-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 343448,
+      "name": "july 7th",
+      "url": "https://open.spotify.com/track/4Uct80Jkq8zltB3N8sl8Tw"
+    },
+    {
+      "album": {
         "name": "Jump Right In",
         "url": "https://open.spotify.com/album/7zNkQh1GXtExhEmUMsJyjt"
       },
@@ -16712,7 +16748,7 @@
       ],
       "date_added": "2023-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-19",
       "duration_ms": 216774,
       "name": "Just Stay For Once",
       "url": "https://open.spotify.com/track/1Kaimjtef03VF7AQDLmwQ9"
@@ -20041,6 +20077,24 @@
     },
     {
       "album": {
+        "name": "material love",
+        "url": "https://open.spotify.com/album/2sMe78Ow9ESixdeztkc7wz"
+      },
+      "artists": [
+        {
+          "name": "Jontha Links",
+          "url": "https://open.spotify.com/artist/7Ln3gaFhj7V95vXvKH0wXq"
+        }
+      ],
+      "date_added": "2023-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137851,
+      "name": "monterey",
+      "url": "https://open.spotify.com/track/20NHpOCAdCtFwJLqi3YJGu"
+    },
+    {
+      "album": {
         "name": "Fulton Lee (The Singles)",
         "url": "https://open.spotify.com/album/3zyne6rYwsknwbGumF3bDl"
       },
@@ -20662,6 +20716,24 @@
       "duration_ms": 230176,
       "name": "My Soft Spots My Robots",
       "url": "https://open.spotify.com/track/6a1nrEMLtcajsqFhLFnqiJ"
+    },
+    {
+      "album": {
+        "name": "my sweet caroline",
+        "url": "https://open.spotify.com/album/1VZwYmyVauqNYZYTmADI84"
+      },
+      "artists": [
+        {
+          "name": "Godly the Ruler",
+          "url": "https://open.spotify.com/artist/2zdyZ3Dk59W2RKwAvGioLp"
+        }
+      ],
+      "date_added": "2023-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185105,
+      "name": "my sweet caroline",
+      "url": "https://open.spotify.com/track/41FPk5C1XcGEYIpTHVoCO5"
     },
     {
       "album": {
@@ -21750,7 +21822,7 @@
       ],
       "date_added": "2023-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-19",
       "duration_ms": 198767,
       "name": "Nothing Left To Lose",
       "url": "https://open.spotify.com/track/7KoTMZi3QqWlsq1Nve63tR"
@@ -23091,6 +23163,24 @@
     },
     {
       "album": {
+        "name": "parksl1de",
+        "url": "https://open.spotify.com/album/6odSUA92ZVFgddNCaoK7uD"
+      },
+      "artists": [
+        {
+          "name": "Niko Rose",
+          "url": "https://open.spotify.com/artist/5HkHTiICQl3TDWanA5fWSe"
+        }
+      ],
+      "date_added": "2023-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178500,
+      "name": "parksl1de",
+      "url": "https://open.spotify.com/track/6ZmxsRqafcd04TyqPBG4s8"
+    },
+    {
+      "album": {
         "name": "Parliaments",
         "url": "https://open.spotify.com/album/5YtmYNbbPLO8HSCX5B6Mdl"
       },
@@ -23954,7 +24044,7 @@
       ],
       "date_added": "2023-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-19",
       "duration_ms": 169235,
       "name": "Pressure",
       "url": "https://open.spotify.com/track/1idPrmJk9PlmFsupge2Xrf"
@@ -26859,6 +26949,24 @@
     },
     {
       "album": {
+        "name": "Sinkhole",
+        "url": "https://open.spotify.com/album/1WP8FICPGXr83uOcXYte8h"
+      },
+      "artists": [
+        {
+          "name": "Vanillaroma",
+          "url": "https://open.spotify.com/artist/3tTYiqgqmGlr2tfujTR7P7"
+        }
+      ],
+      "date_added": "2023-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265090,
+      "name": "Sinkhole",
+      "url": "https://open.spotify.com/track/4ShRQ97AgYPkFodnJJH5Qk"
+    },
+    {
+      "album": {
         "name": "sinking in",
         "url": "https://open.spotify.com/album/4QTvZWfDFnx3Lzg5nf76nl"
       },
@@ -29019,6 +29127,24 @@
     },
     {
       "album": {
+        "name": "Sundress in Pink",
+        "url": "https://open.spotify.com/album/43PbB016JRdJJMDcx2iKPN"
+      },
+      "artists": [
+        {
+          "name": "Viji",
+          "url": "https://open.spotify.com/artist/5T8jStToPqlBhbVU5WNHvi"
+        }
+      ],
+      "date_added": "2023-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244693,
+      "name": "Sundress in Pink",
+      "url": "https://open.spotify.com/track/07WaqrTjIPtddp5UsvRfHm"
+    },
+    {
+      "album": {
         "name": "Sunscreen",
         "url": "https://open.spotify.com/album/77OpzfBjErs49FzgegI6cZ"
       },
@@ -29452,7 +29578,7 @@
       ],
       "date_added": "2023-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-19",
       "duration_ms": 200501,
       "name": "Swimming Pool",
       "url": "https://open.spotify.com/track/6VBWStlrhtYvuLPbO12NX5"
@@ -29834,7 +29960,7 @@
       ],
       "date_added": "2023-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-19",
       "duration_ms": 177940,
       "name": "tattoos and jeans",
       "url": "https://open.spotify.com/track/0yeKMJtAUmiIhoOL4IS6DJ"
@@ -30672,6 +30798,24 @@
       "duration_ms": 133598,
       "name": "There For You",
       "url": "https://open.spotify.com/track/2YcnEYUqQDKtyLHNPDt1lt"
+    },
+    {
+      "album": {
+        "name": "Late Bloomer",
+        "url": "https://open.spotify.com/album/65Z6Dh0SUNZwUcdr9gISck"
+      },
+      "artists": [
+        {
+          "name": "TOMI",
+          "url": "https://open.spotify.com/artist/4FUg6Smq0DbieQJyg1AwXz"
+        }
+      ],
+      "date_added": "2023-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263668,
+      "name": "There I Go",
+      "url": "https://open.spotify.com/track/5U6sVlbJDUWSeMsPjedzkH"
     },
     {
       "album": {
@@ -33417,6 +33561,24 @@
     },
     {
       "album": {
+        "name": "We're All Doomed",
+        "url": "https://open.spotify.com/album/5OZpJo9ewYsm3IO065g2k8"
+      },
+      "artists": [
+        {
+          "name": "Shallow Alcove",
+          "url": "https://open.spotify.com/artist/2hEZUJYO26jhMzfw0ZzrCj"
+        }
+      ],
+      "date_added": "2023-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150216,
+      "name": "We're All Doomed",
+      "url": "https://open.spotify.com/track/59x5vIkySAo7s8Y8i1itg0"
+    },
+    {
+      "album": {
         "name": "Weakness",
         "url": "https://open.spotify.com/album/3Ba4ir0LqLyjAY7RQNze1q"
       },
@@ -33854,7 +34016,7 @@
       ],
       "date_added": "2023-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-19",
       "duration_ms": 178301,
       "name": "Whole Heart - 2023",
       "url": "https://open.spotify.com/track/4tDJdSYtvqYx9cEfNWx2xe"
@@ -34618,7 +34780,7 @@
       ],
       "date_added": "2023-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-19",
       "duration_ms": 322026,
       "name": "You Mystery",
       "url": "https://open.spotify.com/track/1esiDQEngT2DLHCoLpk56f"
@@ -34838,6 +35000,24 @@
       "duration_ms": 231659,
       "name": "Your Mother's Name",
       "url": "https://open.spotify.com/track/6andWFPbmPzbgdKcEamIq9"
+    },
+    {
+      "album": {
+        "name": "yours",
+        "url": "https://open.spotify.com/album/54KPFMRiZhWtMi5xTHMUJx"
+      },
+      "artists": [
+        {
+          "name": "Lilliana Villines",
+          "url": "https://open.spotify.com/artist/7mwH4AsIARONjitvPlyxYL"
+        }
+      ],
+      "date_added": "2023-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245683,
+      "name": "yours",
+      "url": "https://open.spotify.com/track/4j6RYwJbMednbstihgPC06"
     },
     {
       "album": {

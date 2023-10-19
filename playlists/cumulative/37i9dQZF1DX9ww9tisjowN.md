@@ -4,13 +4,14 @@
 
 > What pops out!? Roll the gacha and find your Neo J\-Pop treasure\. Cover: yama
 
-222 songs - 12 hr 58 min
+224 songs - 13 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [abon](https://open.spotify.com/track/6JrnGrFFPMF0VSi1mp5X0R) | [Daoko](https://open.spotify.com/artist/5Qeyh2XKoITt1mlEVtzazC) | [abon](https://open.spotify.com/album/31N1srmLj3VGR277i4FiUw) | 2:35 | 2023-05-09 | 2023-05-26 |
 | [Aglio e olio](https://open.spotify.com/track/0cw4jePLv2q20Lz9ZdqcvX) | [Tohji](https://open.spotify.com/artist/7j7kL8K4GE1z5Cdxl7ucBF) | [Aglio e olio](https://open.spotify.com/album/5dQPDTfYpbdXOatmVjTaNi) | 2:42 | 2023-09-28 | 2023-09-30 |
 | [Aglio e olio](https://open.spotify.com/track/09aFUqQgJPn0Awn47JGKND) | [Tohji](https://open.spotify.com/artist/7j7kL8K4GE1z5Cdxl7ucBF) | [Aglio e olio](https://open.spotify.com/album/3jZbozt8tNcg27gMEjPpCT) | 2:45 | 2023-09-28 | 2023-10-18 |
+| [Aishiterujinsei feat.HatsuneMiku](https://open.spotify.com/track/2BqQk8aS2DzTyMEPJiqiaW) | [Mega Shinnosuke](https://open.spotify.com/artist/72owWXEwmyfKq3ajrajPAN), [Hatsune Miku](https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl) | [Aishiterujinsei feat.HatsuneMiku](https://open.spotify.com/album/03b3KBf2Jrpa3IddlQ0uUp) | 3:41 | 2023-10-17 |  |
 | [angel girl is a slut](https://open.spotify.com/track/6R7HHLUnA8HNW0IQYHy9qS) | [cyber milk chan](https://open.spotify.com/artist/1o7ZTFiwtNY4lB9p2q1pt1) | [angel girl is a slut](https://open.spotify.com/album/4eL3wRQYnnauSjMxgAV4rv) | 2:28 | 2023-09-19 |  |
 | [ANGRY ANGRY](https://open.spotify.com/track/63yTYB5K8F740zeamXxfqR) | [HARU NEMURI](https://open.spotify.com/artist/3cn7Ujrlj3rdyuqmOYhBJT), [Jaguar Jonze](https://open.spotify.com/artist/0QClnkSUCnc9chv8MLyTaR) | [ANGRY ANGRY](https://open.spotify.com/album/0FhARxlWLGbY3vVXczowGe) | 2:16 | 2023-05-09 | 2023-08-18 |
 | [Baby you](https://open.spotify.com/track/7mawUh4upc0sJVHgkgY3wb) | [有華](https://open.spotify.com/artist/762RAUTV6WKHmrHR7fsFbj) | [Baby you](https://open.spotify.com/album/54ZCBICVYg5jvNehprcJj1) | 2:43 | 2023-05-09 |  |
@@ -63,6 +64,7 @@
 | [Hyper](https://open.spotify.com/track/7wECiHnoElwvW21CROuwIW) | [Kroi](https://open.spotify.com/artist/4S8J8Nct8lHsbzAeNJXcJa) | [Hyper](https://open.spotify.com/album/5UrYZZ0ZaVChCX0etpep4N) | 4:17 | 2023-10-03 | 2023-10-13 |
 | [I just wanna dance with you\- period](https://open.spotify.com/track/4u86QOvdhxGfsYsWz2O42J) | [chelmico](https://open.spotify.com/artist/6sAONleCsmAyP87OHsVAPV) | [I just wanna dance with you\- period](https://open.spotify.com/album/4u7Y1abTcYxn5Ob0Nl4Xzk) | 3:48 | 2023-09-26 |  |
 | [I Refuse](https://open.spotify.com/track/0rlVGQ1dhCbxXqy6Z79I32) | [HARU NEMURI](https://open.spotify.com/artist/3cn7Ujrlj3rdyuqmOYhBJT) | [I Refuse](https://open.spotify.com/album/0MrB7qq3mNwegJbkXWsu9R) | 3:47 | 2023-09-07 | 2023-09-21 |
+| [I'm your hero](https://open.spotify.com/track/3mxwpuEFhRxKTryxKqDymy) | [After the Rain](https://open.spotify.com/artist/2v7nGZtRBqPyfcwcEYjDfX) | [I'm your hero](https://open.spotify.com/album/31KsChYG9kwMqcQNjxCsAG) | 4:19 | 2023-10-17 |  |
 | [Ibara](https://open.spotify.com/track/3GOPpPhR2FYGvIE0WdZdeT) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [Ibara](https://open.spotify.com/album/5mTalfXdPFFP3M5VShajlw) | 4:21 | 2023-05-09 | 2023-06-23 |
 | [IN YOUR EYES 「瞳の中で」](https://open.spotify.com/track/1VviocEvd6zv4xudscXgcj) | [k?d](https://open.spotify.com/artist/714O3xvBNiclo82vxBn8Bf), [KOTONOHOUSE](https://open.spotify.com/artist/3eOyGULyH8dDoCBQMuLYZC), [RANASOL](https://open.spotify.com/artist/4ojIlQlez4Z7L3jTiasTVr) | [CAGE SCRIPT](https://open.spotify.com/album/233ci2Dl2HFr9PheUIWaUx) | 4:15 | 2023-05-09 | 2023-07-07 |
 | [JUST DANCE!](https://open.spotify.com/track/337dZo6Fo3hIq0iMANoZmS) | [Travis Japan](https://open.spotify.com/artist/28IJpwoVi5R92MtHxkj2Lk) | [JUST DANCE!](https://open.spotify.com/album/5pNQWKfMgZXtN6rCXoFgLT) | 2:57 | 2023-05-09 | 2023-07-05 |
@@ -170,9 +172,9 @@
 | [みちづれ](https://open.spotify.com/track/6wmcrRId5aeo7hiEqHAtEO) | [Hoshimachi Suisei](https://open.spotify.com/artist/726WiFmWkohzodUxK3XjHX) | [Specter](https://open.spotify.com/album/5eQx95EHzDMcPurV2aByeh) | 3:13 | 2023-05-09 |  |
 | [わたし、フィクション](https://open.spotify.com/track/082cQcc5Hg01f2vcH8ceTV) | [mekakushe](https://open.spotify.com/artist/0CWyD7hgBLQ7dIUGEDkAWz) | [光みたいにすすみたい](https://open.spotify.com/album/4cOihG8VXY5yZ9j48okN5q) | 3:02 | 2023-05-09 | 2023-06-09 |
 | [わたしは拒絶する](https://open.spotify.com/track/44W2lLgDqbP06m3d9JiW5x) | [HARU NEMURI](https://open.spotify.com/artist/3cn7Ujrlj3rdyuqmOYhBJT) | [わたしは拒絶する](https://open.spotify.com/album/2o67tneHxUqu03nqENYij1) | 3:47 | 2023-09-07 | 2023-09-09 |
-| [アイシテル人生 feat.初音ミク](https://open.spotify.com/track/17bKoMOT3qLG1WyfTzICyU) | [Mega Shinnosuke](https://open.spotify.com/artist/72owWXEwmyfKq3ajrajPAN), [Hatsune Miku](https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl) | [アイシテル人生 feat.初音ミク](https://open.spotify.com/album/5EPM4kgvrJ02xGxVEYZmiB) | 3:41 | 2023-10-17 |  |
+| [アイシテル人生 feat.初音ミク](https://open.spotify.com/track/17bKoMOT3qLG1WyfTzICyU) | [Mega Shinnosuke](https://open.spotify.com/artist/72owWXEwmyfKq3ajrajPAN), [Hatsune Miku](https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl) | [アイシテル人生 feat.初音ミク](https://open.spotify.com/album/5EPM4kgvrJ02xGxVEYZmiB) | 3:41 | 2023-10-17 | 2023-10-19 |
 | [アイドル](https://open.spotify.com/track/7ovUcF5uHTBRzUpB6ZOmvt) | [YOASOBI](https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj) | [アイドル](https://open.spotify.com/album/7yMkS4NCpG0FH6NoaH3F0a) | 3:33 | 2023-05-09 |  |
-| [アイムユアヒーロー](https://open.spotify.com/track/3qLF8tsuoFkpVVqBQyTgM8) | [After the Rain](https://open.spotify.com/artist/2v7nGZtRBqPyfcwcEYjDfX) | [アイムユアヒーロー](https://open.spotify.com/album/59DatHJiCB1PXiHhHq1Fsu) | 4:19 | 2023-10-17 |  |
+| [アイムユアヒーロー](https://open.spotify.com/track/3qLF8tsuoFkpVVqBQyTgM8) | [After the Rain](https://open.spotify.com/artist/2v7nGZtRBqPyfcwcEYjDfX) | [アイムユアヒーロー](https://open.spotify.com/album/59DatHJiCB1PXiHhHq1Fsu) | 4:19 | 2023-10-17 | 2023-10-19 |
 | [キラキラキラ](https://open.spotify.com/track/5B6lFLmKyXJBste5Tdp6Ar) | [Ayase](https://open.spotify.com/artist/1S8OQ9SqlLdD9l4paaZMuZ), [DREAMERS](https://open.spotify.com/artist/75k5ZGFQq4rRbdiJZGJ8Vi) | [キラキラキラ](https://open.spotify.com/album/0dt8HhmDyL9TM2BMmnsEIe) | 3:03 | 2023-09-07 | 2023-10-04 |
 | [ゴーストダイブ](https://open.spotify.com/track/3YSYq98AiBIXAj8GCW3wbd) | [POLKADOT STINGRAY](https://open.spotify.com/artist/5zV9afUO4DVqJeRaZvfNev) | [ゴーストダイブ](https://open.spotify.com/album/22Y4CMkBXjaGCVfzNrtdEw) | 3:18 | 2023-10-03 |  |
 | [サイレンスで踊りたい](https://open.spotify.com/track/2xUjXwtVV3arfXHr0At5D1) | [GOOD BYE APRIL](https://open.spotify.com/artist/39dx9cIjJILxA81LkcPf38) | [サイレンスで踊りたい](https://open.spotify.com/album/3S4nFATM8NAwyDBukOWPAb) | 3:49 | 2023-10-03 | 2023-10-05 |

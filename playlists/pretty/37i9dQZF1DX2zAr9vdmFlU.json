@@ -1,12 +1,12 @@
 {
   "description": "You bring the ingredients. We bring the flavor. Enjoy la cena!",
-  "num_followers": 396166,
+  "num_followers": 396212,
   "original_name": "Latin Dinner",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlYTMxZDNiNTk4YTc3OGE5YTIyMDJhZDA4MzE4YWEyMWVjMjEwOTAx",
+  "snapshot_id": "MCw5ODFjZGIzODAwMWQ4NDRhNzE3OWEzZTAxZTA1ODVmODJjNzNlZTAx",
   "tracks": [
     {
       "added_at": "2023-09-01 16:55:14",
@@ -311,6 +311,22 @@
     {
       "added_at": "2023-09-01 16:55:14",
       "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/0kYvC5jXQkvIYeMtAU9QK5"
+      },
+      "artists": [
+        {
+          "name": "Alaina Castillo",
+          "url": "https://open.spotify.com/artist/0duLKMlcwhyZgqu8zSSjBp"
+        }
+      ],
+      "duration_ms": 156371,
+      "name": "b\u00e9same mucho - Recorded at Electric Lady Studios NYC",
+      "url": "https://open.spotify.com/track/0qMavnD5Z4HPl6O7ojX5Ov"
+    },
+    {
+      "added_at": "2023-09-01 16:55:14",
+      "album": {
         "name": "Ra\u00edz",
         "url": "https://open.spotify.com/album/45lcPME8vZyDkZcAC3qfA6"
       },
@@ -331,22 +347,6 @@
       "duration_ms": 180640,
       "name": "Cumbia del Mole",
       "url": "https://open.spotify.com/track/1sdWXIMZe8mBwzLC8jKdq7"
-    },
-    {
-      "added_at": "2023-09-01 16:55:14",
-      "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/0kYvC5jXQkvIYeMtAU9QK5"
-      },
-      "artists": [
-        {
-          "name": "Alaina Castillo",
-          "url": "https://open.spotify.com/artist/0duLKMlcwhyZgqu8zSSjBp"
-        }
-      ],
-      "duration_ms": 156371,
-      "name": "b\u00e9same mucho - Recorded at Electric Lady Studios NYC",
-      "url": "https://open.spotify.com/track/0qMavnD5Z4HPl6O7ojX5Ov"
     },
     {
       "added_at": "2023-09-01 16:55:14",
@@ -383,6 +383,22 @@
     {
       "added_at": "2023-09-01 16:55:14",
       "album": {
+        "name": "iLevitable",
+        "url": "https://open.spotify.com/album/0gHFIMoIvLqYw13PtRd2ky"
+      },
+      "artists": [
+        {
+          "name": "iLe",
+          "url": "https://open.spotify.com/artist/1CztIa6fCQ0WmVPidXuwSs"
+        }
+      ],
+      "duration_ms": 249853,
+      "name": "Te Quiero Con Bugal\u00fa",
+      "url": "https://open.spotify.com/track/0uRr2EBqlCu2CLa8LmQc2c"
+    },
+    {
+      "added_at": "2023-09-01 16:55:14",
+      "album": {
         "name": "Eres",
         "url": "https://open.spotify.com/album/503JdbgCMQzgpYU4sEDKSC"
       },
@@ -399,22 +415,6 @@
       "duration_ms": 248720,
       "name": "Eres",
       "url": "https://open.spotify.com/track/4oa27owMHu69L0eou4gK10"
-    },
-    {
-      "added_at": "2023-09-01 16:55:14",
-      "album": {
-        "name": "iLevitable",
-        "url": "https://open.spotify.com/album/0gHFIMoIvLqYw13PtRd2ky"
-      },
-      "artists": [
-        {
-          "name": "iLe",
-          "url": "https://open.spotify.com/artist/1CztIa6fCQ0WmVPidXuwSs"
-        }
-      ],
-      "duration_ms": 249853,
-      "name": "Te Quiero Con Bugal\u00fa",
-      "url": "https://open.spotify.com/track/0uRr2EBqlCu2CLa8LmQc2c"
     },
     {
       "added_at": "2023-09-01 16:55:14",
@@ -579,26 +579,6 @@
     {
       "added_at": "2023-09-01 16:55:14",
       "album": {
-        "name": "The Cosmic Game",
-        "url": "https://open.spotify.com/album/5TXP9f2NLMzYoVOfyhAjFO"
-      },
-      "artists": [
-        {
-          "name": "Thievery Corporation",
-          "url": "https://open.spotify.com/artist/25KNo5GDS6ZpLkjasaecA3"
-        },
-        {
-          "name": "Gigi Rezende",
-          "url": "https://open.spotify.com/artist/53bWJ73lWFUdo0w02irB8s"
-        }
-      ],
-      "duration_ms": 221493,
-      "name": "Pela Janela",
-      "url": "https://open.spotify.com/track/6kSdAjGUnb3K1A93KL0O36"
-    },
-    {
-      "added_at": "2023-09-01 16:55:14",
-      "album": {
         "name": "Amores",
         "url": "https://open.spotify.com/album/0DSrZQhNEnpV8WiiIoaLVH"
       },
@@ -615,6 +595,26 @@
       "duration_ms": 216080,
       "name": "Arr\u00e1ncame",
       "url": "https://open.spotify.com/track/6FtIBJWxBhg8OOplgXaGr5"
+    },
+    {
+      "added_at": "2023-09-01 16:55:14",
+      "album": {
+        "name": "The Cosmic Game",
+        "url": "https://open.spotify.com/album/5TXP9f2NLMzYoVOfyhAjFO"
+      },
+      "artists": [
+        {
+          "name": "Thievery Corporation",
+          "url": "https://open.spotify.com/artist/25KNo5GDS6ZpLkjasaecA3"
+        },
+        {
+          "name": "Gigi Rezende",
+          "url": "https://open.spotify.com/artist/53bWJ73lWFUdo0w02irB8s"
+        }
+      ],
+      "duration_ms": 221493,
+      "name": "Pela Janela",
+      "url": "https://open.spotify.com/track/6kSdAjGUnb3K1A93KL0O36"
     },
     {
       "added_at": "2023-09-01 16:55:14",
@@ -867,6 +867,22 @@
     {
       "added_at": "2023-09-01 16:55:14",
       "album": {
+        "name": "Casa en el \u00e1rbol",
+        "url": "https://open.spotify.com/album/2Ra7SLmyFSACxeErw2eaYR"
+      },
+      "artists": [
+        {
+          "name": "Salom\u00f3n Beda",
+          "url": "https://open.spotify.com/artist/76oqoGaknr9WGOegYTjxdh"
+        }
+      ],
+      "duration_ms": 219807,
+      "name": "Casa en el \u00e1rbol",
+      "url": "https://open.spotify.com/track/1NHZCn5YyOFPdsstGfsOxH"
+    },
+    {
+      "added_at": "2023-09-01 16:55:14",
+      "album": {
         "name": "Espantap\u00e1jaros",
         "url": "https://open.spotify.com/album/3acst57Nr9DMxKRjvKhvUg"
       },
@@ -883,22 +899,6 @@
       "duration_ms": 172500,
       "name": "Espantap\u00e1jaros",
       "url": "https://open.spotify.com/track/3FTM8opz8X75WNvaXIRtQJ"
-    },
-    {
-      "added_at": "2023-09-01 16:55:14",
-      "album": {
-        "name": "Casa en el \u00e1rbol",
-        "url": "https://open.spotify.com/album/2Ra7SLmyFSACxeErw2eaYR"
-      },
-      "artists": [
-        {
-          "name": "Salom\u00f3n Beda",
-          "url": "https://open.spotify.com/artist/76oqoGaknr9WGOegYTjxdh"
-        }
-      ],
-      "duration_ms": 219807,
-      "name": "Casa en el \u00e1rbol",
-      "url": "https://open.spotify.com/track/1NHZCn5YyOFPdsstGfsOxH"
     },
     {
       "added_at": "2023-09-01 16:55:14",
@@ -1219,26 +1219,6 @@
     {
       "added_at": "2023-09-01 16:55:14",
       "album": {
-        "name": "Para Llevar",
-        "url": "https://open.spotify.com/album/4WElfalmHN3xVtVcMJJxNW"
-      },
-      "artists": [
-        {
-          "name": "seye",
-          "url": "https://open.spotify.com/artist/73KizolhbyyKC9d9xtK3VT"
-        },
-        {
-          "name": "Vakero",
-          "url": "https://open.spotify.com/artist/5rlwbF5flU2JCmAzV5Obu0"
-        }
-      ],
-      "duration_ms": 172411,
-      "name": "Para Llevar",
-      "url": "https://open.spotify.com/track/3AhT5jxJpA6hVDgSgkrr3l"
-    },
-    {
-      "added_at": "2023-09-01 16:55:14",
-      "album": {
         "name": "Arturo Sandoval",
         "url": "https://open.spotify.com/album/3tsXNHsYyzPRneHlebjQtk"
       },
@@ -1259,6 +1239,26 @@
       "duration_ms": 211586,
       "name": "Arturo Sandoval",
       "url": "https://open.spotify.com/track/35U6NyVIlRIdNiNBd7Hz6G"
+    },
+    {
+      "added_at": "2023-09-01 16:55:14",
+      "album": {
+        "name": "Para Llevar",
+        "url": "https://open.spotify.com/album/4WElfalmHN3xVtVcMJJxNW"
+      },
+      "artists": [
+        {
+          "name": "seye",
+          "url": "https://open.spotify.com/artist/73KizolhbyyKC9d9xtK3VT"
+        },
+        {
+          "name": "Vakero",
+          "url": "https://open.spotify.com/artist/5rlwbF5flU2JCmAzV5Obu0"
+        }
+      ],
+      "duration_ms": 172411,
+      "name": "Para Llevar",
+      "url": "https://open.spotify.com/track/3AhT5jxJpA6hVDgSgkrr3l"
     },
     {
       "added_at": "2023-09-01 16:55:14",
@@ -1347,22 +1347,6 @@
     {
       "added_at": "2023-09-01 16:55:14",
       "album": {
-        "name": "Rituales",
-        "url": "https://open.spotify.com/album/2wk8ikP4VBxoPrPL0z00dm"
-      },
-      "artists": [
-        {
-          "name": "KerreKe",
-          "url": "https://open.spotify.com/artist/5DsW9fidnHgj7FeHJ4T08P"
-        }
-      ],
-      "duration_ms": 174706,
-      "name": "Bailando Con Un Pie",
-      "url": "https://open.spotify.com/track/0NEHr6HubGty2liiPyFw2u"
-    },
-    {
-      "added_at": "2023-09-01 16:55:14",
-      "album": {
         "name": "Cookin' Gumbo",
         "url": "https://open.spotify.com/album/4pJ5dsbsazELJyHyMBS5Qe"
       },
@@ -1375,6 +1359,22 @@
       "duration_ms": 209672,
       "name": "Speakin' Nuyorican",
       "url": "https://open.spotify.com/track/19TS1MDtT4FT2I5WO3Vdbz"
+    },
+    {
+      "added_at": "2023-09-01 16:55:14",
+      "album": {
+        "name": "Rituales",
+        "url": "https://open.spotify.com/album/2wk8ikP4VBxoPrPL0z00dm"
+      },
+      "artists": [
+        {
+          "name": "KerreKe",
+          "url": "https://open.spotify.com/artist/5DsW9fidnHgj7FeHJ4T08P"
+        }
+      ],
+      "duration_ms": 174706,
+      "name": "Bailando Con Un Pie",
+      "url": "https://open.spotify.com/track/0NEHr6HubGty2liiPyFw2u"
     },
     {
       "added_at": "2023-09-01 16:55:14",
@@ -1591,18 +1591,18 @@
     {
       "added_at": "2023-09-01 16:55:14",
       "album": {
-        "name": "Jogando Capoiera / Cookin'",
-        "url": "https://open.spotify.com/album/6jJ6faWit8XnOIdQ0WiCAi"
+        "name": "Gold",
+        "url": "https://open.spotify.com/album/01NDjxuV02b5rlRHyT3nUU"
       },
       "artists": [
         {
-          "name": "Beatfanatic",
-          "url": "https://open.spotify.com/artist/1FIkyRKs1x2ByTLq6BD6KA"
+          "name": "Si*S\u00e9",
+          "url": "https://open.spotify.com/artist/64CWqLWhLQhrerPastRKW9"
         }
       ],
-      "duration_ms": 410004,
-      "name": "Jogando Capoiera",
-      "url": "https://open.spotify.com/track/7x3s31ac8xceWrYDpmFAUi"
+      "duration_ms": 224826,
+      "name": "Donde Est\u00e1",
+      "url": "https://open.spotify.com/track/0fjCKNenDu2DBaMcIp3rXS"
     },
     {
       "added_at": "2023-09-01 16:55:14",
@@ -1623,18 +1623,18 @@
     {
       "added_at": "2023-09-01 16:55:14",
       "album": {
-        "name": "Gold",
-        "url": "https://open.spotify.com/album/01NDjxuV02b5rlRHyT3nUU"
+        "name": "Jogando Capoiera / Cookin'",
+        "url": "https://open.spotify.com/album/6jJ6faWit8XnOIdQ0WiCAi"
       },
       "artists": [
         {
-          "name": "Si*S\u00e9",
-          "url": "https://open.spotify.com/artist/64CWqLWhLQhrerPastRKW9"
+          "name": "Beatfanatic",
+          "url": "https://open.spotify.com/artist/1FIkyRKs1x2ByTLq6BD6KA"
         }
       ],
-      "duration_ms": 224826,
-      "name": "Donde Est\u00e1",
-      "url": "https://open.spotify.com/track/0fjCKNenDu2DBaMcIp3rXS"
+      "duration_ms": 410004,
+      "name": "Jogando Capoiera",
+      "url": "https://open.spotify.com/track/7x3s31ac8xceWrYDpmFAUi"
     },
     {
       "added_at": "2023-09-01 16:55:14",
@@ -1691,6 +1691,22 @@
     {
       "added_at": "2023-09-01 16:55:14",
       "album": {
+        "name": "sweet nothings",
+        "url": "https://open.spotify.com/album/2g4XXX6nYFk8YASLT0ssYx"
+      },
+      "artists": [
+        {
+          "name": "mokina",
+          "url": "https://open.spotify.com/artist/6TnOtn1qYytprdSpG4kYCc"
+        }
+      ],
+      "duration_ms": 138151,
+      "name": "sweet nothings",
+      "url": "https://open.spotify.com/track/3IrZ4zPw4M4jgD0GHsetH1"
+    },
+    {
+      "added_at": "2023-09-01 16:55:14",
+      "album": {
         "name": "A MAR",
         "url": "https://open.spotify.com/album/6amcskT3XUBmlayQ1O0Bne"
       },
@@ -1707,22 +1723,6 @@
       "duration_ms": 229609,
       "name": "Por Si las Dudas",
       "url": "https://open.spotify.com/track/1mSZtzrkyjPVHryN28833M"
-    },
-    {
-      "added_at": "2023-09-01 16:55:14",
-      "album": {
-        "name": "sweet nothings",
-        "url": "https://open.spotify.com/album/2g4XXX6nYFk8YASLT0ssYx"
-      },
-      "artists": [
-        {
-          "name": "mokina",
-          "url": "https://open.spotify.com/artist/6TnOtn1qYytprdSpG4kYCc"
-        }
-      ],
-      "duration_ms": 138151,
-      "name": "sweet nothings",
-      "url": "https://open.spotify.com/track/3IrZ4zPw4M4jgD0GHsetH1"
     },
     {
       "added_at": "2023-09-01 16:55:14",

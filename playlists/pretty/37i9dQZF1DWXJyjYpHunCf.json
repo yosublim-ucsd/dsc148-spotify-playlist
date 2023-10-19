@@ -1,12 +1,12 @@
 {
   "description": "The best of folk-infused pop and singer-songwriter. Cover: David Kushner",
-  "num_followers": 867030,
+  "num_followers": 867371,
   "original_name": "Folk Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0MTExNzRiMGExYmYwMTlhODhkODZmZTUyNGEwZmQ4Yjk2ZWYwYmMx",
+  "snapshot_id": "MCxhMDZmYTlmMzI5Mjg1NjczMTE0OGFlMGQxNjVkNWFlNGY2OWZhNjI3",
   "tracks": [
     {
       "added_at": "2023-10-13 04:00:00",
@@ -727,22 +727,6 @@
     {
       "added_at": "2023-10-13 04:00:00",
       "album": {
-        "name": "Runaway",
-        "url": "https://open.spotify.com/album/4zrWlaReyL0EypP5ZeCoHc"
-      },
-      "artists": [
-        {
-          "name": "Ziggy Alberts",
-          "url": "https://open.spotify.com/artist/6tuPdaFPIytg3l2f51L7Hw"
-        }
-      ],
-      "duration_ms": 272733,
-      "name": "Runaway",
-      "url": "https://open.spotify.com/track/58uBXXmWLDeezlYx2uGeC0"
-    },
-    {
-      "added_at": "2023-10-13 04:00:00",
-      "album": {
         "name": "Endless Summer Vacation",
         "url": "https://open.spotify.com/album/5DvJgsMLbaR1HmAI6VhfcQ"
       },
@@ -759,6 +743,22 @@
       "duration_ms": 231000,
       "name": "Thousand Miles (feat. Brandi Carlile)",
       "url": "https://open.spotify.com/track/3DoSolxGSDoV7G7MtcIPiZ"
+    },
+    {
+      "added_at": "2023-10-13 04:00:00",
+      "album": {
+        "name": "Runaway",
+        "url": "https://open.spotify.com/album/4zrWlaReyL0EypP5ZeCoHc"
+      },
+      "artists": [
+        {
+          "name": "Ziggy Alberts",
+          "url": "https://open.spotify.com/artist/6tuPdaFPIytg3l2f51L7Hw"
+        }
+      ],
+      "duration_ms": 272733,
+      "name": "Runaway",
+      "url": "https://open.spotify.com/track/58uBXXmWLDeezlYx2uGeC0"
     },
     {
       "added_at": "2023-10-13 04:00:00",
@@ -1135,6 +1135,22 @@
     {
       "added_at": "2023-10-13 04:00:00",
       "album": {
+        "name": "dopamine",
+        "url": "https://open.spotify.com/album/38DO8HcSkiWtDXPmSLk6gx"
+      },
+      "artists": [
+        {
+          "name": "mehro",
+          "url": "https://open.spotify.com/artist/1ZwhhTSUPr7EBZHd1GjOT7"
+        }
+      ],
+      "duration_ms": 158568,
+      "name": "dopamine",
+      "url": "https://open.spotify.com/track/2A7fgpVBSDrXKkJxt0MvYv"
+    },
+    {
+      "added_at": "2023-10-13 04:00:00",
+      "album": {
         "name": "Yellow",
         "url": "https://open.spotify.com/album/0ozIWfcCUNXKl9yNL57Ke0"
       },
@@ -1151,18 +1167,18 @@
     {
       "added_at": "2023-10-13 04:00:00",
       "album": {
-        "name": "Valapriso",
-        "url": "https://open.spotify.com/album/6Ro2L2h4BlChNYSiy00mys"
+        "name": "searching for freedom",
+        "url": "https://open.spotify.com/album/01Dk72C4YTgkEHQRzk0rHX"
       },
       "artists": [
         {
-          "name": "Brenn!",
-          "url": "https://open.spotify.com/artist/74slMAMk8L6oMf6OhNyZ8Q"
+          "name": "Ziggy Alberts",
+          "url": "https://open.spotify.com/artist/6tuPdaFPIytg3l2f51L7Hw"
         }
       ],
-      "duration_ms": 187500,
-      "name": "Valapriso",
-      "url": "https://open.spotify.com/track/1Z3hqW2OprFrwO05euqt8z"
+      "duration_ms": 266999,
+      "name": "letting go",
+      "url": "https://open.spotify.com/track/30a5DDL7xq347S143EoOPp"
     },
     {
       "added_at": "2023-10-13 04:00:00",
@@ -1183,18 +1199,18 @@
     {
       "added_at": "2023-10-13 04:00:00",
       "album": {
-        "name": "searching for freedom",
-        "url": "https://open.spotify.com/album/01Dk72C4YTgkEHQRzk0rHX"
+        "name": "Valapriso",
+        "url": "https://open.spotify.com/album/6Ro2L2h4BlChNYSiy00mys"
       },
       "artists": [
         {
-          "name": "Ziggy Alberts",
-          "url": "https://open.spotify.com/artist/6tuPdaFPIytg3l2f51L7Hw"
+          "name": "Brenn!",
+          "url": "https://open.spotify.com/artist/74slMAMk8L6oMf6OhNyZ8Q"
         }
       ],
-      "duration_ms": 266999,
-      "name": "letting go",
-      "url": "https://open.spotify.com/track/30a5DDL7xq347S143EoOPp"
+      "duration_ms": 187500,
+      "name": "Valapriso",
+      "url": "https://open.spotify.com/track/1Z3hqW2OprFrwO05euqt8z"
     },
     {
       "added_at": "2023-10-13 04:00:00",
@@ -1235,6 +1251,22 @@
     {
       "added_at": "2023-10-13 04:00:00",
       "album": {
+        "name": "Neptune",
+        "url": "https://open.spotify.com/album/2PaNkZV2WVwOMoRWR7V9cS"
+      },
+      "artists": [
+        {
+          "name": "Tall Heights",
+          "url": "https://open.spotify.com/artist/1OVaGC0CDZaxjcPxclSNmp"
+        }
+      ],
+      "duration_ms": 244960,
+      "name": "Horse to Water",
+      "url": "https://open.spotify.com/track/0szmjOw9XbtbQYWz0GvXSp"
+    },
+    {
+      "added_at": "2023-10-13 04:00:00",
+      "album": {
         "name": "Backstage in Glasgow",
         "url": "https://open.spotify.com/album/2LbmNfBamXEj7SLzpvNY4S"
       },
@@ -1251,18 +1283,18 @@
     {
       "added_at": "2023-10-13 04:00:00",
       "album": {
-        "name": "Neptune",
-        "url": "https://open.spotify.com/album/2PaNkZV2WVwOMoRWR7V9cS"
+        "name": "drywall",
+        "url": "https://open.spotify.com/album/2cbcM8spLBGvSIxsiOwIkz"
       },
       "artists": [
         {
-          "name": "Tall Heights",
-          "url": "https://open.spotify.com/artist/1OVaGC0CDZaxjcPxclSNmp"
+          "name": "Paris Paloma",
+          "url": "https://open.spotify.com/artist/2EXpthNgSeTDeX8nGwxppp"
         }
       ],
-      "duration_ms": 244960,
-      "name": "Horse to Water",
-      "url": "https://open.spotify.com/track/0szmjOw9XbtbQYWz0GvXSp"
+      "duration_ms": 222739,
+      "name": "drywall",
+      "url": "https://open.spotify.com/track/49XjLtTAwwhC8tupC8E8wp"
     },
     {
       "added_at": "2023-10-13 04:00:00",
@@ -1299,18 +1331,18 @@
     {
       "added_at": "2023-10-13 04:00:00",
       "album": {
-        "name": "dopamine",
-        "url": "https://open.spotify.com/album/38DO8HcSkiWtDXPmSLk6gx"
+        "name": "We Still Move on Dance Floors",
+        "url": "https://open.spotify.com/album/1sFCdkWltYD4dqN8JxL6tI"
       },
       "artists": [
         {
-          "name": "mehro",
-          "url": "https://open.spotify.com/artist/1ZwhhTSUPr7EBZHd1GjOT7"
+          "name": "The Strumbellas",
+          "url": "https://open.spotify.com/artist/6ujr1NkqbZpYOhquczUUfl"
         }
       ],
-      "duration_ms": 158568,
-      "name": "dopamine",
-      "url": "https://open.spotify.com/track/2A7fgpVBSDrXKkJxt0MvYv"
+      "duration_ms": 163893,
+      "name": "In This Life",
+      "url": "https://open.spotify.com/track/38wSbAmV7zNBhYqfzv1m9x"
     },
     {
       "added_at": "2023-10-13 04:00:00",
@@ -1331,22 +1363,6 @@
     {
       "added_at": "2023-10-13 04:00:00",
       "album": {
-        "name": "We Still Move on Dance Floors",
-        "url": "https://open.spotify.com/album/1sFCdkWltYD4dqN8JxL6tI"
-      },
-      "artists": [
-        {
-          "name": "The Strumbellas",
-          "url": "https://open.spotify.com/artist/6ujr1NkqbZpYOhquczUUfl"
-        }
-      ],
-      "duration_ms": 163893,
-      "name": "In This Life",
-      "url": "https://open.spotify.com/track/38wSbAmV7zNBhYqfzv1m9x"
-    },
-    {
-      "added_at": "2023-10-13 04:00:00",
-      "album": {
         "name": "Worry No More",
         "url": "https://open.spotify.com/album/3TS9LGoHqv0vyvIy2Lg6aL"
       },
@@ -1359,22 +1375,6 @@
       "duration_ms": 221066,
       "name": "Worry No More",
       "url": "https://open.spotify.com/track/6Sf1IjXhbfTIYOHhaj5DG0"
-    },
-    {
-      "added_at": "2023-10-13 04:00:00",
-      "album": {
-        "name": "Summer Wind / All Summer (Where You Gonna Be?)",
-        "url": "https://open.spotify.com/album/2rPwSfoHyFJdMrqnE5QkFh"
-      },
-      "artists": [
-        {
-          "name": "The 502s",
-          "url": "https://open.spotify.com/artist/4sIuoDOzSlBqeiNJl631zX"
-        }
-      ],
-      "duration_ms": 160581,
-      "name": "Summer Wind",
-      "url": "https://open.spotify.com/track/4v2PPkhAhaROQi2MpXW3WU"
     },
     {
       "added_at": "2023-10-13 04:00:00",
@@ -1411,18 +1411,34 @@
     {
       "added_at": "2023-10-13 04:00:00",
       "album": {
-        "name": "drywall",
-        "url": "https://open.spotify.com/album/2cbcM8spLBGvSIxsiOwIkz"
+        "name": "If My Wife New I'd Be Dead (Deluxe)",
+        "url": "https://open.spotify.com/album/0xItOwIAddsdxIZBHJyJYh"
       },
       "artists": [
         {
-          "name": "Paris Paloma",
-          "url": "https://open.spotify.com/artist/2EXpthNgSeTDeX8nGwxppp"
+          "name": "CMAT",
+          "url": "https://open.spotify.com/artist/3VBNIRx1LxVdRqOiPgkLwv"
         }
       ],
-      "duration_ms": 222739,
-      "name": "drywall",
-      "url": "https://open.spotify.com/track/49XjLtTAwwhC8tupC8E8wp"
+      "duration_ms": 244693,
+      "name": "I Don't Really Care for You",
+      "url": "https://open.spotify.com/track/38x9U1nlxCblWCmu6g4mPy"
+    },
+    {
+      "added_at": "2023-10-13 04:00:00",
+      "album": {
+        "name": "Summer Wind / All Summer (Where You Gonna Be?)",
+        "url": "https://open.spotify.com/album/2rPwSfoHyFJdMrqnE5QkFh"
+      },
+      "artists": [
+        {
+          "name": "The 502s",
+          "url": "https://open.spotify.com/artist/4sIuoDOzSlBqeiNJl631zX"
+        }
+      ],
+      "duration_ms": 160581,
+      "name": "Summer Wind",
+      "url": "https://open.spotify.com/track/4v2PPkhAhaROQi2MpXW3WU"
     },
     {
       "added_at": "2023-10-13 04:00:00",
@@ -1439,22 +1455,6 @@
       "duration_ms": 182640,
       "name": "Part of Me",
       "url": "https://open.spotify.com/track/5TA2vNVGdgTdNyNNeq52e0"
-    },
-    {
-      "added_at": "2023-10-13 04:00:00",
-      "album": {
-        "name": "If My Wife New I'd Be Dead (Deluxe)",
-        "url": "https://open.spotify.com/album/0xItOwIAddsdxIZBHJyJYh"
-      },
-      "artists": [
-        {
-          "name": "CMAT",
-          "url": "https://open.spotify.com/artist/3VBNIRx1LxVdRqOiPgkLwv"
-        }
-      ],
-      "duration_ms": 244693,
-      "name": "I Don't Really Care for You",
-      "url": "https://open.spotify.com/track/38x9U1nlxCblWCmu6g4mPy"
     },
     {
       "added_at": "2023-10-13 04:00:00",

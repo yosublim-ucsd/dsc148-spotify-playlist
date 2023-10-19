@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9GmeT1z7ciw.md) - [plain]
 
 > 時には、思いっきりラウドな音に感情を乗せてシャウト。 Shout your heart out with these loud tracks.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,826 likes - 50 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,853 likes - 50 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,8 +32,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9GmeT1z7ciw.md) - [plain]
 | 22 | [About Face](https://open.spotify.com/track/4UtVrX1mjZZVlCqNAgc2z4) | [TRUE FIGHT](https://open.spotify.com/artist/4ZmXWMtBQWqaB8dq5fusNN) | [About Face](https://open.spotify.com/album/1LpsAWfPqXfS4kPPIsOAkD) | 1:22 |
 | 23 | [Mad World \- Japanese Version](https://open.spotify.com/track/3iUNRtOmMsmnf0SNNtFHyY) | [ONE OK ROCK](https://open.spotify.com/artist/7k73EtZwoPs516ZxE72KsO) | [Luxury Disease \(Japanese Version\)](https://open.spotify.com/album/1GDFRCws0YeYcDQYL6UWCD) | 3:02 |
 | 24 | [Monochrome](https://open.spotify.com/track/2Rw6wkd0q3LXx5xsdjLs1P) | [BABYMETAL](https://open.spotify.com/artist/630wzNP2OL7fl4Xl0GnMWq) | [Monochrome](https://open.spotify.com/album/6IoOqdEHdwLgfUONXeYvoI) | 3:57 |
-| 25 | [NEW DAWN](https://open.spotify.com/track/71H3UvIlZRSifs0LNF2HKG) | [coldrain](https://open.spotify.com/artist/4pCVGaLWxDe4d8bsjsnmUM) | [NEW DAWN](https://open.spotify.com/album/4IT98wMgoHu9O2Jx1EZIZ8) | 3:32 |
-| 26 | [Home](https://open.spotify.com/track/1YhaeT8EygMA6OaUVwrow4) | [MY FIRST STORY](https://open.spotify.com/artist/6cutt8thPFUICMfxaYerWd) | [ANTITHESE](https://open.spotify.com/album/1brsSK66B0UZYqyLjvG9kK) | 4:01 |
+| 25 | [Home](https://open.spotify.com/track/1YhaeT8EygMA6OaUVwrow4) | [MY FIRST STORY](https://open.spotify.com/artist/6cutt8thPFUICMfxaYerWd) | [ANTITHESE](https://open.spotify.com/album/1brsSK66B0UZYqyLjvG9kK) | 4:01 |
+| 26 | [NEW DAWN](https://open.spotify.com/track/71H3UvIlZRSifs0LNF2HKG) | [coldrain](https://open.spotify.com/artist/4pCVGaLWxDe4d8bsjsnmUM) | [NEW DAWN](https://open.spotify.com/album/4IT98wMgoHu9O2Jx1EZIZ8) | 3:32 |
 | 27 | [刃渡り2億センチ\(TV edit\)](https://open.spotify.com/track/2rTmZHTXWo9YfIRAxbdkpG) | [マキシマム ザ ホルモン 一部のアニメテーマ専用仮設チャンネル](https://open.spotify.com/artist/7ipRKwjoASGW04QLVsDg3g) | [刃渡り2億センチ\(TV edit\)](https://open.spotify.com/album/04tV0O6qn5cXheBUTHmeKv) | 1:29 |
 | 28 | [Messiah](https://open.spotify.com/track/2bBMcewHW1zVhPkmrHhWwI) | [Sable Hills](https://open.spotify.com/artist/5mm28xbkq6ve1l63dXo7Cn) | [DUALITY](https://open.spotify.com/album/3kWm132i1QrxKGtu2eBD08) | 4:08 |
 | 29 | [KiLLiNG ME](https://open.spotify.com/track/1yDYJ7npSt07XLLOKGVkd6) | [SiM](https://open.spotify.com/artist/2BM933ADIluGGrPBOhPgIt) | [SEEDS OF HOPE](https://open.spotify.com/album/47kmsCirEp0h93kZyTu4T5) | 2:55 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9GmeT1z7ciw.md) - [plain]
 | 49 | [scorpion.](https://open.spotify.com/track/3JGeI4YN3Luqsvo0EXjXND) | [CVLTE](https://open.spotify.com/artist/3IVZ4DbJgnhOtXQruNdomA) | [scorpion.](https://open.spotify.com/album/572kvsrM2Jb4EmO93m65Om) | 2:43 |
 | 50 | [Chronostasis](https://open.spotify.com/track/2hvydf5uDU6LD8e55JEScU) | [View From The Soyuz](https://open.spotify.com/artist/3F0nXEE0ikWWVavikJGkOT) | [Immaculate](https://open.spotify.com/album/4MVWrveCovKtARU8jwY0YD) | 2:43 |
 
-Snapshot ID: `MCxhOTY1MTMwNjcyODM1YTYzYTlhYjVmYWUyMGExMzAwY2FhOTA2N2Mw`
+Snapshot ID: `MCw1MWZlOWQ4MWFkNDA5OGFhNWUxNTA2MzQyODM0ZmQzNWJiZTM1MmU5`

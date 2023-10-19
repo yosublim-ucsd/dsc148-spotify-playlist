@@ -2720,7 +2720,7 @@
       ],
       "date_added": "2023-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-19",
       "duration_ms": 134565,
       "name": "Boy Boy",
       "url": "https://open.spotify.com/track/1eK3kCQnzPvNgvDRy5QP1B"
@@ -13888,7 +13888,7 @@
       ],
       "date_added": "2023-09-28",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-15",
+      "date_removed": null,
       "duration_ms": 173991,
       "name": "Narcotics (with Bryant Myers)",
       "url": "https://open.spotify.com/track/0p0cOpBujR114Wirv5AM7W"
@@ -14304,6 +14304,28 @@
       "duration_ms": 225654,
       "name": "NO ME QUIERO CASAR",
       "url": "https://open.spotify.com/track/39L3LdlHS3gqB62HPWaJRg"
+    },
+    {
+      "album": {
+        "name": "NO PARE (REMIX)",
+        "url": "https://open.spotify.com/album/4pyrlTwGbdl8NXHVSNty1k"
+      },
+      "artists": [
+        {
+          "name": "NATTI NATASHA",
+          "url": "https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7"
+        },
+        {
+          "name": "Tokischa",
+          "url": "https://open.spotify.com/artist/2p4aN0Uxkk3iT3HK0cJ2cJ"
+        }
+      ],
+      "date_added": "2023-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185411,
+      "name": "NO PARE - REMIX",
+      "url": "https://open.spotify.com/track/64eezAxFI6wjCPcshao8Pe"
     },
     {
       "album": {
@@ -18764,7 +18786,7 @@
       ],
       "date_added": "2023-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-19",
       "duration_ms": 184400,
       "name": "Seven (feat. Latto) (Explicit Ver.)",
       "url": "https://open.spotify.com/track/7x9aauaA9cu6tyfpHnqDLo"

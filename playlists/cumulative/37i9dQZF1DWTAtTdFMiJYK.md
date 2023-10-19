@@ -4,7 +4,7 @@
 
 > Most exciting artists from the Indian Indie scene\. Cover : Komorebi
 
-267 songs - 15 hr 40 min
+268 songs - 15 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -169,7 +169,7 @@
 | [Meherbaan](https://open.spotify.com/track/5AeCYcLTcrY8AiW33Ue2Ll) | [Sagar Dhote](https://open.spotify.com/artist/63NTePIe7eeyeT1Sv8TP7a), [Sneha Astunkar](https://open.spotify.com/artist/5vnUKpiC4Pxh6deCoUK2lD), [Abhay Jodhpurkar](https://open.spotify.com/artist/27rK4pP0VMqWiRe7pamKe5) | [Meherbaan](https://open.spotify.com/album/48ugxOs8V5HbIHSY4RB6S6) | 3:44 | 2022-08-02 | 2023-06-10 |
 | [Mera Safar](https://open.spotify.com/track/2AB7fsbG0eZJjDGile69CQ) | [Iqlipse Nova](https://open.spotify.com/artist/5tVEtYVMATyQ6OVOetuZlk) | [Mera Safar](https://open.spotify.com/album/5MaDDfFcO8Eao37Crt324Q) | 3:10 | 2022-10-04 |  |
 | [Meri Baari](https://open.spotify.com/track/0XdDE6lmn5srPDUDBq5xcg) | [Iqlipse Nova](https://open.spotify.com/artist/5tVEtYVMATyQ6OVOetuZlk) | [Meri Baari](https://open.spotify.com/album/6CZIFpN6kaO3BRnlZoACbB) | 3:19 | 2023-01-24 | 2023-10-11 |
-| [Milan](https://open.spotify.com/track/1BI9irBUCtnXev21pUTfMJ) | [Dream Note](https://open.spotify.com/artist/4o0mCeiUIVdknPUMhpO0bd) | [Milan](https://open.spotify.com/album/1MJ13VB6N8lso4u6kTSixy) | 4:03 | 2023-05-19 |  |
+| [Milan](https://open.spotify.com/track/1BI9irBUCtnXev21pUTfMJ) | [Dream Note](https://open.spotify.com/artist/4o0mCeiUIVdknPUMhpO0bd) | [Milan](https://open.spotify.com/album/1MJ13VB6N8lso4u6kTSixy) | 4:03 | 2023-05-19 | 2023-10-19 |
 | [Miracle](https://open.spotify.com/track/5daYg1jlX2JoOgDnlK4V0m) | [Jaden Maskie](https://open.spotify.com/artist/14GDCPY8cDyxLReAEXiNt0) | [Miracle](https://open.spotify.com/album/2OPof019rnmR6xThgEF71j) | 3:49 | 2022-01-27 | 2023-01-21 |
 | [Motoliya 2.0](https://open.spotify.com/track/3x3iya64y8XmsVxOYFUkXC) | [Sannidhya Bhuyan](https://open.spotify.com/artist/3up6Gqw9IAsQ9KqLzVkyTN), [Aarxslan](https://open.spotify.com/artist/67137rl2C1Z9kPUiLGqNXr) | [Motoliya 2.0](https://open.spotify.com/album/4aJmymmOUvOo1gZGz3TVvY) | 3:56 | 2022-01-10 | 2023-01-11 |
 | [Muskan](https://open.spotify.com/track/16ZcfVSuCcBDdlpvmEIA1i) | [Dikshant](https://open.spotify.com/artist/0kTAB5SUakX286t6K7J3QR) | [Muskan](https://open.spotify.com/album/3NLZpWHd23xx5YYveGbNlv) | 3:18 | 2022-08-09 |  |
@@ -222,6 +222,7 @@
 | [Sajna](https://open.spotify.com/track/1DdS3bAkQtLdapb5hiSN9S) | [Pratsofficial](https://open.spotify.com/artist/29ggvWc5EMcSk5RLQ5aXHr) | [Sajna](https://open.spotify.com/album/7039HqORwYMTeXxfWrrScw) | 4:26 | 2023-01-17 |  |
 | [Sanware](https://open.spotify.com/track/4qBHgJWDMuWhgWwp2FFz7z) | [Priyansh Srivastava](https://open.spotify.com/artist/1mmWHJzVXCNSQBlbeAMKFU), [Garvit Soni](https://open.spotify.com/artist/4MCoxHC5rvQP0I7o63RXSH), [Garvit \- Priyansh](https://open.spotify.com/artist/6pYc4P7IWYwWttTPzYkDV4), [Saurabh Jain](https://open.spotify.com/artist/20YBMuBchncywfuOulfmtG) | [Sanware](https://open.spotify.com/album/1MjMz9NFcXGDktqiB5h4r5) | 4:57 | 2022-01-17 | 2023-08-23 |
 | [Schoolbus](https://open.spotify.com/track/0kQW2QuxGyygGQAREdGILd) | [RANJ](https://open.spotify.com/artist/1vR6C8xoVTgy9yVRsCsr7H), [Clifr](https://open.spotify.com/artist/1o9ja4Dha8IqKI3e5DpH14), [Issamood](https://open.spotify.com/artist/4CM8qfix2AYlwVU0iUIxAW), [Tintin](https://open.spotify.com/artist/4UqI6vZZIuZAT4d2yzVnYA) | [593, Vol\. I](https://open.spotify.com/album/1UtL4DXUWM7Qs6TeL42I5I) | 2:28 | 2021-12-06 | 2022-01-11 |
+| [Semi Automatic Butane](https://open.spotify.com/track/1rN9zRk3KjZyYDTNKih1yi) | [Mali](https://open.spotify.com/artist/4JSAaGJ5mNSfG0MBxDFQZN) | [Semi Automatic Butane](https://open.spotify.com/album/3Z5Ozc5CVfx8Tojvj8Z8GY) | 3:29 | 2023-10-18 |  |
 | [September Embers](https://open.spotify.com/track/5VFsY60sYjnJfFZgDvV1xX) | [Anoushka Maskey](https://open.spotify.com/artist/2nDgCBr8jDMiGFjTkwR6ph) | [September Embers](https://open.spotify.com/album/4XsTt6wPXIKpgtaGLsja9W) | 4:46 | 2021-12-06 | 2022-01-11 |
 | [Sha\- Dobara](https://open.spotify.com/track/2ygS9eInDfG5prFbeeiEYC) | [Shashwat Sachdev](https://open.spotify.com/artist/465OXuCU8YZNmVG1leLwQ9), [Shreya Jain](https://open.spotify.com/artist/4kf4NJ3U6oSZ423DycBpMD) | [Sha\- Dobara](https://open.spotify.com/album/3swccYkoyOPBv0fPMbf6I1) | 3:12 | 2021-12-06 | 2022-12-01 |
 | [Sirfira](https://open.spotify.com/track/4EtsQ4vcaGs13NFFLNS6yK) | [Harish Sagane](https://open.spotify.com/artist/5v3LPrihYPF2Uu9jDEKnjx) | [Sirfira](https://open.spotify.com/album/4tH5BHPomSPEGxjxKTPY8C) | 2:44 | 2023-08-22 | 2023-09-27 |

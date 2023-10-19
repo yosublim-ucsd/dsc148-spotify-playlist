@@ -4,7 +4,7 @@
 
 > songs voor je playlist! \#voorjou \#danceforme \#wiebenjij \#rihanna \#noano7k
 
-252 songs - 12 hr 35 min
+253 songs - 12 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -52,7 +52,7 @@
 | [Cupid \- Twin Ver.](https://open.spotify.com/track/3Kw7zkALCVxY4wmlnh2IWC) | [FIFTY FIFTY](https://open.spotify.com/artist/4GJ6xDCF5jaUqD6avOuQT6) | [The Beginning: Cupid](https://open.spotify.com/album/1ZXXEGGhHYgOEzYUjP6bPR) | 2:54 | 2023-03-27 | 2023-04-04 |
 | [Cupid \- Twin Ver.](https://open.spotify.com/track/7FbrGaHYVDmfr7KoLIZnQ7) | [FIFTY FIFTY](https://open.spotify.com/artist/4GJ6xDCF5jaUqD6avOuQT6) | [The Beginning: Cupid](https://open.spotify.com/album/5letLUZIFsQikJYShfGNs4) | 2:54 | 2023-03-30 | 2023-07-11 |
 | [Dance For Me \(1, 2, 3\)](https://open.spotify.com/track/2Gjo6E7ZemzmLzNUMRg6ac) | [Lyente](https://open.spotify.com/artist/3vGgjydudbzEp2r9PmqHc0), [Quinten Circle](https://open.spotify.com/artist/6dcF1Pcj5BlCkSK9FF96GG), [ZANA](https://open.spotify.com/artist/34lIancN28qj7jD4JxYOdE) | [Dance For Me \(1, 2, 3\)](https://open.spotify.com/album/4qUNnH1PZZQkUlpuNAECW3) | 2:09 | 2023-09-21 | 2023-10-12 |
-| [Dance For Me \(1, 2, 3\) \- Stutter Techno](https://open.spotify.com/track/3JLpwzhVvYeotNSI4izQUV) | [Sonny Wern](https://open.spotify.com/artist/2m8ROV7jEwm66LBxUNhUMt), [Lyente](https://open.spotify.com/artist/3vGgjydudbzEp2r9PmqHc0), [ZANA](https://open.spotify.com/artist/34lIancN28qj7jD4JxYOdE), [Quinten Circle](https://open.spotify.com/artist/6dcF1Pcj5BlCkSK9FF96GG) | [Dance For Me \(1, 2, 3\) \[Stutter Techno\]](https://open.spotify.com/album/25YdkG6ZzOjou6uNQaC0NY) | 2:27 | 2023-10-11 |  |
+| [Dance For Me \(1, 2, 3\) \- Stutter Techno](https://open.spotify.com/track/3JLpwzhVvYeotNSI4izQUV) | [Sonny Wern](https://open.spotify.com/artist/2m8ROV7jEwm66LBxUNhUMt), [Lyente](https://open.spotify.com/artist/3vGgjydudbzEp2r9PmqHc0), [Quinten Circle](https://open.spotify.com/artist/6dcF1Pcj5BlCkSK9FF96GG), [ZANA](https://open.spotify.com/artist/34lIancN28qj7jD4JxYOdE) | [Dance For Me \(1, 2, 3\) \[Stutter Techno\]](https://open.spotify.com/album/25YdkG6ZzOjou6uNQaC0NY) | 2:27 | 2023-10-11 |  |
 | [Dancing in the sky](https://open.spotify.com/track/2JuWcnU7ifoIaIzQXNH6hk) | [ZITA](https://open.spotify.com/artist/05QNFSNYfQhYxUJUoFtEEk) | [Dancing in the sky](https://open.spotify.com/album/2L8ds3AKfmgpyrB8Z584PM) | 2:34 | 2023-02-23 | 2023-04-12 |
 | [Dankjewel](https://open.spotify.com/track/6qlsnYLcPkZFxv0t2Koko8) | [FAY](https://open.spotify.com/artist/2rYvyXWazKzVHanTL5GyCE) | [Dankjewel](https://open.spotify.com/album/4et19MNXHj4zo9e9IGCJlW) | 2:40 | 2023-02-23 | 2023-04-27 |
 | [DARBA 9ADIYA](https://open.spotify.com/track/0WCiCbdRB54GMzlRGs3Fa4) | [Moha K](https://open.spotify.com/artist/6o5sl0TGublDPXyMHdMq1E), [DYSTINCT](https://open.spotify.com/artist/1cKyknhftNKXCjMBd2hDrG), [YAM](https://open.spotify.com/artist/7KpyU32bL0qN4pY9wNSu7E) | [DARBA 9ADIYA](https://open.spotify.com/album/0A32UfWq7bigKFdXJ0o2LW) | 2:29 | 2023-05-04 | 2023-06-13 |
@@ -70,6 +70,7 @@
 | [En Die Dingen Daar](https://open.spotify.com/track/5347LKOoRWFJxvxQY2SEAa) | [Naro](https://open.spotify.com/artist/5Kv6rQa5K5N440P21T9a0Y) | [En Die Dingen Daar](https://open.spotify.com/album/3Xh4eGqrVaSGTVtdvhgkv2) | 2:13 | 2023-03-24 | 2023-07-05 |
 | [Engelbewaarder](https://open.spotify.com/track/2C2vSufLm1wLq2GjDH3iMh) | [Marco Schuitmaker](https://open.spotify.com/artist/5kukvi4C18gvtXbDS1eKjQ) | [Engelbewaarder](https://open.spotify.com/album/3c6Hst9lqpnnRRpEbP1RxH) | 3:16 | 2023-03-16 | 2023-07-11 |
 | [Er Was Eens Een Meid](https://open.spotify.com/track/128TSKhbp925wwRpJksRXH) | [Zoë Tauran](https://open.spotify.com/artist/5fg02ZNJViLdPyxJnRdcsi) | [Er Was Eens Een Meid](https://open.spotify.com/album/3fO8TSTjkapJpQU4xKgahE) | 2:56 | 2023-04-11 | 2023-05-26 |
+| [Est\-ce que tu m'aimes ? \- Pilule bleue](https://open.spotify.com/track/3a9TMd2Yrza6HXqqlfMtfy) | [GIMS](https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK) | [Mon coeur avait raison](https://open.spotify.com/album/4tYyNNlbRGlS6FNphD8mur) | 3:57 | 2023-10-18 |  |
 | [Eye Know](https://open.spotify.com/track/4xQMFoD33vx6stB1UzfA6s) | [De La Soul](https://open.spotify.com/artist/1Z8ODXyhEBi3WynYw0Rya6), [Otis Redding](https://open.spotify.com/artist/60df5JBRRPcnSpsIMxxwQm) | [3 Feet High and Rising](https://open.spotify.com/album/34LxHI9x14qXUOS8AWRrYD) | 4:12 | 2023-03-06 | 2023-04-12 |
 | [Favorite Song](https://open.spotify.com/track/1SRw5p2lVAi7RGlHEmZg66) | [Toosii](https://open.spotify.com/artist/6BH1xcDkwbbyrLMUKECsW1) | [Favorite Song](https://open.spotify.com/album/4XiUZULpVS6gTgKKU7KTX5) | 3:28 | 2023-03-27 | 2023-05-10 |
 | [Fiets](https://open.spotify.com/track/7dXXQRborTggr2w04Ofo1j) | [Tribal Kush](https://open.spotify.com/artist/7fr6F0dEvfSoZW3fJ5fvUD), [Bokoesam](https://open.spotify.com/artist/2NFWbreVmIEJG0iqIvLDOI) | [Fiets](https://open.spotify.com/album/7hqt1WB6yK6aqET4FW0yEg) | 1:41 | 2023-02-23 | 2023-05-10 |

@@ -4,7 +4,7 @@
 
 > The biggest festival songs of 2023\. emotional festival music \- mainstage music \- edm 2023 \- edm hits \- progressive house \- bigroom \- future rave \- techno \- festival music
 
-229 songs - 11 hr 50 min
+230 songs - 11 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,6 +12,7 @@
 | [4U](https://open.spotify.com/track/2bnuKlrOFVQDBGBcjXRija) | [Patrick Moreno](https://open.spotify.com/artist/1cgYwI8wy6MB26Mgtr4Ubx), [Meikle](https://open.spotify.com/artist/6um9ebhW2OZFKdx89X3w07) | [Here And Now EP](https://open.spotify.com/album/00gWoK8sxHKCRqTwiKEogM) | 3:00 | 2023-07-11 |  |
 | [A Thousand Stars](https://open.spotify.com/track/0Vwe7UogKwXR3CHPe50psX) | [Samlight](https://open.spotify.com/artist/2O8vLNXeIM7NGGUAb5LxX8), [hannah kate](https://open.spotify.com/artist/7HPNYz5CtDCjSmxPj15VJQ) | [A Thousand Stars](https://open.spotify.com/album/3Ce3jLE3JjLwsKXZ0pc02c) | 2:37 | 2023-07-13 |  |
 | [Actin Out](https://open.spotify.com/track/6uK8UF6FGzL369tirIvbsC) | [Patrick Moreno](https://open.spotify.com/artist/1cgYwI8wy6MB26Mgtr4Ubx), [DJ Kaka](https://open.spotify.com/artist/1eo9T85gMycMicc4IQyVIo), [Revealed Recordings](https://open.spotify.com/artist/6aaMlV5Qz8DK66IWgwoUH8), [Heaven Lee](https://open.spotify.com/artist/6A5CSPmwGca4q7TJ9kF6V1) | [Actin Out](https://open.spotify.com/album/6Vr8xPLJqxvgCGOuopJTHe) | 3:22 | 2022-07-29 | 2022-09-17 |
+| [Addicted \- BLK RSE Remix](https://open.spotify.com/track/1J6WkPegBLn9wIX3FrtXHY) | [KAAZE](https://open.spotify.com/artist/6WGE3kO8ULME2ErBcOksSR), [BLK RSE](https://open.spotify.com/artist/2caQqGZcs7vbmAEE0uAWBz) | [MICK \(Deluxe Edition\)](https://open.spotify.com/album/6Xit1xmHogbGUaJJJfjpzc) | 2:58 | 2023-10-18 |  |
 | [African Vibes](https://open.spotify.com/track/5k1EMCwlkW9uCFnz5G8JZG) | [Karasso](https://open.spotify.com/artist/751zFKXhbzKTvHnxt2iIFn) | [African Vibes](https://open.spotify.com/album/1QPmme7H2Xy7SGnDuf4n2o) | 3:06 | 2023-09-05 |  |
 | [Ain't Gonna Break](https://open.spotify.com/track/4cRCQ8wLnWKkLpUVijmp0J) | [Waxel](https://open.spotify.com/artist/2ntcMtENqlteqaa8NdB087), [Revealed Recordings](https://open.spotify.com/artist/6aaMlV5Qz8DK66IWgwoUH8) | [Ain't Gonna Break](https://open.spotify.com/album/2nueTq2RzhiXpqrUcGDfY9) | 3:04 | 2022-07-29 | 2023-06-24 |
 | [Alive \- Edit](https://open.spotify.com/track/0GtkzHw73XXHn4rZJFqcxh) | [JAT](https://open.spotify.com/artist/1XJPIFp92YDeTJW1SEbvg6) | [Alive \(Edit\)](https://open.spotify.com/album/2UaVJ8I7jP3j5F69gby1bt) | 3:13 | 2022-09-02 | 2022-09-24 |

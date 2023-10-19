@@ -1,12 +1,12 @@
 {
   "description": "The composers and musicians bending genres, redefining rules, and bringing classical music into the 21st century.",
-  "num_followers": 47544,
+  "num_followers": 47694,
   "original_name": "Not Quite Classical",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkM2E2NjQwZjMwYWEyZTI0ZTAzMjk1YTI4ODg1NmFkOTc4MTExNzk0",
+  "snapshot_id": "MCxkYzZmYzRlMjMxODhjNDBkODg0Mzg5OTI5YzM2NTE1NWE4ZmI4YzBl",
   "tracks": [
     {
       "added_at": "2023-10-06 13:03:51",
@@ -807,22 +807,6 @@
     {
       "added_at": "2023-10-06 13:03:51",
       "album": {
-        "name": "lodges",
-        "url": "https://open.spotify.com/album/7Cw4NrrEW7XmB0uXQ8Dkd5"
-      },
-      "artists": [
-        {
-          "name": "Lara Somogyi",
-          "url": "https://open.spotify.com/artist/4vFvy7t3jlzAYrNYjW8uDo"
-        }
-      ],
-      "duration_ms": 231921,
-      "name": "lodges",
-      "url": "https://open.spotify.com/track/63iLlVCJ1rhH1boY7OH4d8"
-    },
-    {
-      "added_at": "2023-10-06 13:03:51",
-      "album": {
         "name": "Lost Time - Strings Version",
         "url": "https://open.spotify.com/album/1oSV8sKOeJ32kc0cAYHcH9"
       },
@@ -839,6 +823,22 @@
       "duration_ms": 141500,
       "name": "Lost Time - Strings Version",
       "url": "https://open.spotify.com/track/2TPWUyeSZvJRW80PizUZ6L"
+    },
+    {
+      "added_at": "2023-10-06 13:03:51",
+      "album": {
+        "name": "lodges",
+        "url": "https://open.spotify.com/album/7Cw4NrrEW7XmB0uXQ8Dkd5"
+      },
+      "artists": [
+        {
+          "name": "Lara Somogyi",
+          "url": "https://open.spotify.com/artist/4vFvy7t3jlzAYrNYjW8uDo"
+        }
+      ],
+      "duration_ms": 231921,
+      "name": "lodges",
+      "url": "https://open.spotify.com/track/63iLlVCJ1rhH1boY7OH4d8"
     },
     {
       "added_at": "2023-10-06 13:03:51",
@@ -1027,6 +1027,26 @@
     {
       "added_at": "2023-10-06 13:03:51",
       "album": {
+        "name": "All I Hear Is Birds (Focus Rework)",
+        "url": "https://open.spotify.com/album/4t4tCii62BbElIz6tqy2FJ"
+      },
+      "artists": [
+        {
+          "name": "Elliott Jack Sansom",
+          "url": "https://open.spotify.com/artist/22WxwAyT9U9wWsKA7ToO7K"
+        },
+        {
+          "name": "Matt Robertson",
+          "url": "https://open.spotify.com/artist/1jITXkrcFf3ZLtFA62cxax"
+        }
+      ],
+      "duration_ms": 248506,
+      "name": "All I Hear Is Birds - Focus Rework",
+      "url": "https://open.spotify.com/track/09rP4tUYNfL3BkX7NXIRpm"
+    },
+    {
+      "added_at": "2023-10-06 13:03:51",
+      "album": {
         "name": "Human",
         "url": "https://open.spotify.com/album/45VK2yNRU1GPKcfaeN2aLP"
       },
@@ -1079,22 +1099,18 @@
     {
       "added_at": "2023-10-06 13:03:51",
       "album": {
-        "name": "All I Hear Is Birds (Focus Rework)",
-        "url": "https://open.spotify.com/album/4t4tCii62BbElIz6tqy2FJ"
+        "name": "Sensibus",
+        "url": "https://open.spotify.com/album/6jTxjupC87AnzDsQm8o4s9"
       },
       "artists": [
         {
-          "name": "Elliott Jack Sansom",
-          "url": "https://open.spotify.com/artist/22WxwAyT9U9wWsKA7ToO7K"
-        },
-        {
-          "name": "Matt Robertson",
-          "url": "https://open.spotify.com/artist/1jITXkrcFf3ZLtFA62cxax"
+          "name": "Tom Ashbrook",
+          "url": "https://open.spotify.com/artist/481U7FXn2fSb0YXFqKdYtO"
         }
       ],
-      "duration_ms": 248506,
-      "name": "All I Hear Is Birds - Focus Rework",
-      "url": "https://open.spotify.com/track/09rP4tUYNfL3BkX7NXIRpm"
+      "duration_ms": 392791,
+      "name": "Klass",
+      "url": "https://open.spotify.com/track/7B4DTiga2xN0BtIDh45vyk"
     },
     {
       "added_at": "2023-10-06 13:03:51",
@@ -1111,22 +1127,6 @@
       "duration_ms": 334506,
       "name": "Music For Growing Flowers - Pt. 4",
       "url": "https://open.spotify.com/track/0kY5iUcL7JGqGLz3t2hhCL"
-    },
-    {
-      "added_at": "2023-10-06 13:03:51",
-      "album": {
-        "name": "Sensibus",
-        "url": "https://open.spotify.com/album/6jTxjupC87AnzDsQm8o4s9"
-      },
-      "artists": [
-        {
-          "name": "Tom Ashbrook",
-          "url": "https://open.spotify.com/artist/481U7FXn2fSb0YXFqKdYtO"
-        }
-      ],
-      "duration_ms": 392791,
-      "name": "Klass",
-      "url": "https://open.spotify.com/track/7B4DTiga2xN0BtIDh45vyk"
     },
     {
       "added_at": "2023-10-06 13:03:51",
@@ -1179,22 +1179,6 @@
     {
       "added_at": "2023-10-06 13:03:51",
       "album": {
-        "name": "Empty",
-        "url": "https://open.spotify.com/album/5XD78Fc6jfSfFYgwynseoI"
-      },
-      "artists": [
-        {
-          "name": "Nils Frahm",
-          "url": "https://open.spotify.com/artist/5gqhueRUZEa7VDnQt4HODp"
-        }
-      ],
-      "duration_ms": 286986,
-      "name": "No Step on Wing",
-      "url": "https://open.spotify.com/track/2DmIDwMhMA3V0KipI78nM1"
-    },
-    {
-      "added_at": "2023-10-06 13:03:51",
-      "album": {
         "name": "A Winged Victory for the Sullen",
         "url": "https://open.spotify.com/album/6vygseD1InhHomosteUnPU"
       },
@@ -1207,6 +1191,22 @@
       "duration_ms": 266840,
       "name": "Steep Hills of Vicodin Tears",
       "url": "https://open.spotify.com/track/3ytUgxZj1EYHb8zlk5VKk6"
+    },
+    {
+      "added_at": "2023-10-06 13:03:51",
+      "album": {
+        "name": "Empty",
+        "url": "https://open.spotify.com/album/5XD78Fc6jfSfFYgwynseoI"
+      },
+      "artists": [
+        {
+          "name": "Nils Frahm",
+          "url": "https://open.spotify.com/artist/5gqhueRUZEa7VDnQt4HODp"
+        }
+      ],
+      "duration_ms": 286986,
+      "name": "No Step on Wing",
+      "url": "https://open.spotify.com/track/2DmIDwMhMA3V0KipI78nM1"
     },
     {
       "added_at": "2023-10-06 13:03:51",
@@ -1287,6 +1287,22 @@
     {
       "added_at": "2023-10-06 13:03:51",
       "album": {
+        "name": "Avant-derni\u00e8res pens\u00e9es: I. Idylle [Snorri Hallgr\u00edmsson Rework (FRAGMENTS / Erik Satie)]",
+        "url": "https://open.spotify.com/album/1arRxLkgqEqmKAFodhjgCv"
+      },
+      "artists": [
+        {
+          "name": "Snorri Hallgr\u00edmsson",
+          "url": "https://open.spotify.com/artist/0cz823HlK1N6jNAIztyYHs"
+        }
+      ],
+      "duration_ms": 236520,
+      "name": "Avant-derni\u00e8res pens\u00e9es: I. Idylle - Snorri Hallgr\u00edmsson Rework (FRAGMENTS / Erik Satie)",
+      "url": "https://open.spotify.com/track/3q8PlM3EcBu5ab6CFrIbTe"
+    },
+    {
+      "added_at": "2023-10-06 13:03:51",
+      "album": {
         "name": "BLOMMA",
         "url": "https://open.spotify.com/album/3ZkfxERiMWA5EBPqZSLgEc"
       },
@@ -1307,22 +1323,6 @@
       "duration_ms": 265872,
       "name": "Aurora",
       "url": "https://open.spotify.com/track/7fIyzIV9JXEBTaBUWFtvtO"
-    },
-    {
-      "added_at": "2023-10-06 13:03:51",
-      "album": {
-        "name": "Avant-derni\u00e8res pens\u00e9es: I. Idylle [Snorri Hallgr\u00edmsson Rework (FRAGMENTS / Erik Satie)]",
-        "url": "https://open.spotify.com/album/1arRxLkgqEqmKAFodhjgCv"
-      },
-      "artists": [
-        {
-          "name": "Snorri Hallgr\u00edmsson",
-          "url": "https://open.spotify.com/artist/0cz823HlK1N6jNAIztyYHs"
-        }
-      ],
-      "duration_ms": 236520,
-      "name": "Avant-derni\u00e8res pens\u00e9es: I. Idylle - Snorri Hallgr\u00edmsson Rework (FRAGMENTS / Erik Satie)",
-      "url": "https://open.spotify.com/track/3q8PlM3EcBu5ab6CFrIbTe"
     },
     {
       "added_at": "2023-10-06 13:03:51",
@@ -1495,6 +1495,22 @@
     {
       "added_at": "2023-10-06 13:03:51",
       "album": {
+        "name": "Komorebi",
+        "url": "https://open.spotify.com/album/4e7oJ12PgNYRY0tjPditKL"
+      },
+      "artists": [
+        {
+          "name": "BPMoore",
+          "url": "https://open.spotify.com/artist/7IZYQVOMyQi55ytXjYoXrP"
+        }
+      ],
+      "duration_ms": 183653,
+      "name": "From All Who Came Before",
+      "url": "https://open.spotify.com/track/0iO5O7uyrySeuvOS4O5Azg"
+    },
+    {
+      "added_at": "2023-10-06 13:03:51",
+      "album": {
         "name": "The Myth",
         "url": "https://open.spotify.com/album/6sFyvR2lfdQqJwv0CIrfVt"
       },
@@ -1511,22 +1527,6 @@
       "duration_ms": 221796,
       "name": "The Myth",
       "url": "https://open.spotify.com/track/3PFlF0czIchods0CEDOAr5"
-    },
-    {
-      "added_at": "2023-10-06 13:03:51",
-      "album": {
-        "name": "Komorebi",
-        "url": "https://open.spotify.com/album/4e7oJ12PgNYRY0tjPditKL"
-      },
-      "artists": [
-        {
-          "name": "BPMoore",
-          "url": "https://open.spotify.com/artist/7IZYQVOMyQi55ytXjYoXrP"
-        }
-      ],
-      "duration_ms": 183653,
-      "name": "From All Who Came Before",
-      "url": "https://open.spotify.com/track/0iO5O7uyrySeuvOS4O5Azg"
     },
     {
       "added_at": "2023-10-06 13:03:51",
@@ -1563,6 +1563,22 @@
     {
       "added_at": "2023-10-06 13:03:51",
       "album": {
+        "name": "No Home of the Mind",
+        "url": "https://open.spotify.com/album/0CNDCFHe5E0EYQT39CwgNA"
+      },
+      "artists": [
+        {
+          "name": "Bing & Ruth",
+          "url": "https://open.spotify.com/artist/0grPfzk6cTnzfQpxjLDPs0"
+        }
+      ],
+      "duration_ms": 376956,
+      "name": "Starwood Choker",
+      "url": "https://open.spotify.com/track/6aw2BGPAzY5kcM3WzELaN3"
+    },
+    {
+      "added_at": "2023-10-06 13:03:51",
+      "album": {
         "name": "Whispers",
         "url": "https://open.spotify.com/album/3vYwHAdCXFOSPB0QlpiCaS"
       },
@@ -1579,22 +1595,6 @@
       "duration_ms": 170539,
       "name": "Whispers",
       "url": "https://open.spotify.com/track/7LMhZBVJYRUNsD9GyIiH9A"
-    },
-    {
-      "added_at": "2023-10-06 13:03:51",
-      "album": {
-        "name": "No Home of the Mind",
-        "url": "https://open.spotify.com/album/0CNDCFHe5E0EYQT39CwgNA"
-      },
-      "artists": [
-        {
-          "name": "Bing & Ruth",
-          "url": "https://open.spotify.com/artist/0grPfzk6cTnzfQpxjLDPs0"
-        }
-      ],
-      "duration_ms": 376956,
-      "name": "Starwood Choker",
-      "url": "https://open.spotify.com/track/6aw2BGPAzY5kcM3WzELaN3"
     },
     {
       "added_at": "2023-10-06 13:03:51",
@@ -1619,6 +1619,22 @@
     {
       "added_at": "2023-10-06 13:03:51",
       "album": {
+        "name": "Old Friends New Friends",
+        "url": "https://open.spotify.com/album/1Urrycrm9pFy2F3xSoQ3fj"
+      },
+      "artists": [
+        {
+          "name": "Nils Frahm",
+          "url": "https://open.spotify.com/artist/5gqhueRUZEa7VDnQt4HODp"
+        }
+      ],
+      "duration_ms": 244919,
+      "name": "Corn",
+      "url": "https://open.spotify.com/track/7jH6HaPyBRL2SH1AvzVe6h"
+    },
+    {
+      "added_at": "2023-10-06 13:03:51",
+      "album": {
         "name": "Familiar",
         "url": "https://open.spotify.com/album/4kpmg5bYaTMB3imXsf1ucT"
       },
@@ -1635,22 +1651,6 @@
       "duration_ms": 212732,
       "name": "Familiar",
       "url": "https://open.spotify.com/track/1j2FfR6RJlBJoJQDNfoukY"
-    },
-    {
-      "added_at": "2023-10-06 13:03:51",
-      "album": {
-        "name": "Old Friends New Friends",
-        "url": "https://open.spotify.com/album/1Urrycrm9pFy2F3xSoQ3fj"
-      },
-      "artists": [
-        {
-          "name": "Nils Frahm",
-          "url": "https://open.spotify.com/artist/5gqhueRUZEa7VDnQt4HODp"
-        }
-      ],
-      "duration_ms": 244919,
-      "name": "Corn",
-      "url": "https://open.spotify.com/track/7jH6HaPyBRL2SH1AvzVe6h"
     },
     {
       "added_at": "2023-10-06 13:03:51",

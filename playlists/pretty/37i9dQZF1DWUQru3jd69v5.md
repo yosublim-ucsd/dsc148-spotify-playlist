@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUQru3jd69v5.md) - [plain]
 
 > La nuova generazione del rap italiano\. Aggiornata ogni venerdì\. Cover: 8blevrai
 
-[Spotify](https://open.spotify.com/user/spotify) - 223,789 likes - 50 songs - 2 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 223,861 likes - 50 songs - 2 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUQru3jd69v5.md) - [plain]
 | 49 | [UN'ALTRA NIGHT](https://open.spotify.com/track/13X04wnewOCJCv6xLr9Cky) | [Nira](https://open.spotify.com/artist/005dicYm2vuN9fJ4Ey3Z4c) | [UN'ALTRA NIGHT](https://open.spotify.com/album/6Hz6Rn53dSKOIhjIsDN2z2) | 2:45 |
 | 50 | [Voglio](https://open.spotify.com/track/3wjmdYObZwfPZNBuEggAcK) | [Pablo](https://open.spotify.com/artist/2v6DnAG79LafwKNHmyEhsJ), [Silent Bob](https://open.spotify.com/artist/4oEO6Ud3efrjTNSR9SMleI) | [Ragazzi Persi](https://open.spotify.com/album/7zvU2pt7mTW5FWcNFH7u8g) | 2:34 |
 
-Snapshot ID: `MCxhMGRiZWM1YzkyZTQ0Zjg1NjljMTRhMjBjYjQ1NTlhMGY5YWU1YjM5`
+Snapshot ID: `MCxiNDc3ZGE3YWZkODYxYmQ3ZjcwNjVlNzEzYzQ3NWQzNzBjNzQ5NWY1`

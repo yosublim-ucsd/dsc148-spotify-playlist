@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6wQVfUHI1zt.md) - [plain]
 
 > All the Tejano classics for you to enjoy! Cover: Selena
 
-[Spotify](https://open.spotify.com/user/spotify) - 202,771 likes - 120 songs - 7 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 202,816 likes - 120 songs - 7 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,8 +17,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6wQVfUHI1zt.md) - [plain]
 | 7 | [Eres Mi Droga](https://open.spotify.com/track/3t4BZRyfrZGgICZGyNewyi) | [Intocable](https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02) | [IV](https://open.spotify.com/album/43UFBkcvSy10IIqsGIJzUw) | 3:27 |
 | 8 | [Se Murió De Amor](https://open.spotify.com/track/5iuGn3RXvfvHIyIe8fyxBE) | [Bobby Pulido](https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg) | [Enséñame](https://open.spotify.com/album/6wrBXd8mUK0dp3yMM29kWK) | 3:06 |
 | 9 | [Me Vuelvo A Enamorar](https://open.spotify.com/track/4Uo3KErgqv7GoEBZbAI1wU) | [David Lee Garza](https://open.spotify.com/artist/38329DTMLBuu9dxx2a8Nke) | [Viva Tejano Party Mix](https://open.spotify.com/album/7btBiEKMNBvPRe0e6HRVe1) | 3:31 |
-| 10 | [Y Te Lo Pido](https://open.spotify.com/track/4OXelnhgkkiLE05YsnFEuS) | [David Olivarez](https://open.spotify.com/artist/41WfhF5UfpKXMpkkCXbeCm) | [Back To Basics](https://open.spotify.com/album/0u2UofQv9iYDou2bLb5adc) | 5:15 |
-| 11 | [Ayer Y Hoy](https://open.spotify.com/track/5TMB9Xnfe1lbvDHZtjCUcZ) | [Mazz](https://open.spotify.com/artist/71L1Q7gkwA3lFldMfBuDSA) | [Lo Hare Por Ti](https://open.spotify.com/album/15lIqg78oQM9CjPoeUB40T) | 4:10 |
+| 10 | [Ayer Y Hoy](https://open.spotify.com/track/5TMB9Xnfe1lbvDHZtjCUcZ) | [Mazz](https://open.spotify.com/artist/71L1Q7gkwA3lFldMfBuDSA) | [Lo Hare Por Ti](https://open.spotify.com/album/15lIqg78oQM9CjPoeUB40T) | 4:10 |
+| 11 | [Y Te Lo Pido](https://open.spotify.com/track/4OXelnhgkkiLE05YsnFEuS) | [David Olivarez](https://open.spotify.com/artist/41WfhF5UfpKXMpkkCXbeCm) | [Back To Basics](https://open.spotify.com/album/0u2UofQv9iYDou2bLb5adc) | 5:15 |
 | 12 | [Dreaming Of You](https://open.spotify.com/track/5EL8hqM8YQJHKKnzGdahly) | [Selena](https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch) | [Dreaming Of You](https://open.spotify.com/album/2IevUWpkZ9KUcr6ZhtklE0) | 5:14 |
 | 13 | [Ojalá Te Animes](https://open.spotify.com/track/1tg7ZzCAkjDNENdWL7WuIr) | [Bobby Pulido](https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg) | [Vive](https://open.spotify.com/album/4v2fdmkaVrrT0eYhy2ix3a) | 3:00 |
 | 14 | [Ayúdame](https://open.spotify.com/track/4qC5OxQRMDKxi2NtYkiegc) | [Intocable](https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02) | [Íconos 25 Éxitos](https://open.spotify.com/album/3jh3J0EDLLDP5VfCLpW4Ve) | 4:25 |
@@ -129,4 +129,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6wQVfUHI1zt.md) - [plain]
 | 119 | [¿Qué Será?](https://open.spotify.com/track/2Jgu37m4rGRGhmaS0W9JMv) | [Mazz](https://open.spotify.com/artist/71L1Q7gkwA3lFldMfBuDSA) | [30 Exitos Insuperables](https://open.spotify.com/album/0CS97ASQq48DyzbQt6IluV) | 3:39 |
 | 120 | [Vuelvo](https://open.spotify.com/track/0oj2y6H2rneQ1QV4lLkTyG) | [Mazz](https://open.spotify.com/artist/71L1Q7gkwA3lFldMfBuDSA) | [Lo Basico](https://open.spotify.com/album/2hruqNk86ciCeHpUv0tggC) | 4:15 |
 
-Snapshot ID: `MCxhN2QwM2QxYWU2NWFkZjJhMjExY2ZmYTQ0MDQ0YWY3Y2VlMjY4OWI3`
+Snapshot ID: `MCw2ZDViNTE3MzFjMzMyMDQxZjU2MzY3YmFkYjg5NTdkYzlmODU4NmM0`

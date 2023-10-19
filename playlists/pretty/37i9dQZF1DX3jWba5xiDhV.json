@@ -1,12 +1,12 @@
 {
   "description": "When the dance floor calls your name, that's amore.",
-  "num_followers": 167055,
+  "num_followers": 167337,
   "original_name": "Italo Disco",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhZTU0Nzk4YTUwYjBiMGQwN2MzNzFiOGVmNDAxMGE5MGQ5YTQ2YTQy",
+  "snapshot_id": "MCwyNjMzMDg1ZGRhNzYwNmEwZDdmZDZkYzkxYWE0NGQzODc4NTRjOTVm",
   "tracks": [
     {
       "added_at": "2023-10-06 04:01:00",
@@ -387,6 +387,22 @@
     {
       "added_at": "2023-10-06 04:01:00",
       "album": {
+        "name": "Vado al massimo (Remastered)",
+        "url": "https://open.spotify.com/album/6E94kQ6nvwprEL5XtidoxM"
+      },
+      "artists": [
+        {
+          "name": "Vasco Rossi",
+          "url": "https://open.spotify.com/artist/5l4nhyz8876RhgE2d18h65"
+        }
+      ],
+      "duration_ms": 279213,
+      "name": "Splendida giornata",
+      "url": "https://open.spotify.com/track/01lvgdQKXkM8AHUXRhawMk"
+    },
+    {
+      "added_at": "2023-10-06 04:01:00",
+      "album": {
         "name": "Tutto va bene quando facciamo l'amore (Remixes)",
         "url": "https://open.spotify.com/album/4jnSxvi6GEjXFPGXUly9vj"
       },
@@ -403,22 +419,6 @@
       "duration_ms": 205592,
       "name": "Tutto va bene quando facciamo l'amore",
       "url": "https://open.spotify.com/track/2XtLmRzZSkNOXGRPgae8MA"
-    },
-    {
-      "added_at": "2023-10-06 04:01:00",
-      "album": {
-        "name": "Vado al massimo (Remastered)",
-        "url": "https://open.spotify.com/album/6E94kQ6nvwprEL5XtidoxM"
-      },
-      "artists": [
-        {
-          "name": "Vasco Rossi",
-          "url": "https://open.spotify.com/artist/5l4nhyz8876RhgE2d18h65"
-        }
-      ],
-      "duration_ms": 279213,
-      "name": "Splendida giornata",
-      "url": "https://open.spotify.com/track/01lvgdQKXkM8AHUXRhawMk"
     },
     {
       "added_at": "2023-10-06 04:01:00",
@@ -627,22 +627,6 @@
     {
       "added_at": "2023-10-06 04:01:00",
       "album": {
-        "name": "I Need You Tonight / Tonight",
-        "url": "https://open.spotify.com/album/25RZ0JqMukSLQhdYsFpJ67"
-      },
-      "artists": [
-        {
-          "name": "Suzy Q",
-          "url": "https://open.spotify.com/artist/4chxVeRqRTbEAi1VtJa6vA"
-        }
-      ],
-      "duration_ms": 390127,
-      "name": "Tonight",
-      "url": "https://open.spotify.com/track/6CTv5qKVvkxsvSRQfC6SjO"
-    },
-    {
-      "added_at": "2023-10-06 04:01:00",
-      "album": {
         "name": "Greatest Hits &amp; Remixes",
         "url": "https://open.spotify.com/album/5Hpk5wBQIX2ClSSv7yLAfo"
       },
@@ -655,6 +639,22 @@
       "duration_ms": 212253,
       "name": "Visitors",
       "url": "https://open.spotify.com/track/05ny0VoHFBDeqAxDRj77jn"
+    },
+    {
+      "added_at": "2023-10-06 04:01:00",
+      "album": {
+        "name": "I Need You Tonight / Tonight",
+        "url": "https://open.spotify.com/album/25RZ0JqMukSLQhdYsFpJ67"
+      },
+      "artists": [
+        {
+          "name": "Suzy Q",
+          "url": "https://open.spotify.com/artist/4chxVeRqRTbEAi1VtJa6vA"
+        }
+      ],
+      "duration_ms": 390127,
+      "name": "Tonight",
+      "url": "https://open.spotify.com/track/6CTv5qKVvkxsvSRQfC6SjO"
     },
     {
       "added_at": "2023-10-06 04:01:00",
@@ -1103,18 +1103,18 @@
     {
       "added_at": "2023-10-06 04:01:00",
       "album": {
-        "name": "Disco Italia EP",
-        "url": "https://open.spotify.com/album/2BXanfr9DTGseIlsNTBXMj"
+        "name": "Sciura Milanese",
+        "url": "https://open.spotify.com/album/249ujnw9iFNdxE4FlFCvJ2"
       },
       "artists": [
         {
-          "name": "Gepy",
-          "url": "https://open.spotify.com/artist/1BDX9PXYrNeqP1gJPhZmZB"
+          "name": "Popa",
+          "url": "https://open.spotify.com/artist/3v3PilwftiZCpC4msQRNyB"
         }
       ],
-      "duration_ms": 404247,
-      "name": "African Love Song",
-      "url": "https://open.spotify.com/track/6fAKxZoefMTrnWEiBasNhJ"
+      "duration_ms": 190698,
+      "name": "Sciura Milanese",
+      "url": "https://open.spotify.com/track/5YTv2jGYKy2TUpKvTgvYuY"
     },
     {
       "added_at": "2023-10-06 04:01:00",
@@ -1131,22 +1131,6 @@
       "duration_ms": 172722,
       "name": "Love Will Save the Day",
       "url": "https://open.spotify.com/track/0S3kBOcAhCI0CFGrMhLAh9"
-    },
-    {
-      "added_at": "2023-10-06 04:01:00",
-      "album": {
-        "name": "Sciura Milanese",
-        "url": "https://open.spotify.com/album/249ujnw9iFNdxE4FlFCvJ2"
-      },
-      "artists": [
-        {
-          "name": "Popa",
-          "url": "https://open.spotify.com/artist/3v3PilwftiZCpC4msQRNyB"
-        }
-      ],
-      "duration_ms": 190698,
-      "name": "Sciura Milanese",
-      "url": "https://open.spotify.com/track/5YTv2jGYKy2TUpKvTgvYuY"
     },
     {
       "added_at": "2023-10-06 04:01:00",
@@ -1275,22 +1259,6 @@
     {
       "added_at": "2023-10-06 04:01:00",
       "album": {
-        "name": "Dirty Talk",
-        "url": "https://open.spotify.com/album/5z5xqfOezhRYRFhGvcj8TP"
-      },
-      "artists": [
-        {
-          "name": "Klein & M.B.O.",
-          "url": "https://open.spotify.com/artist/5MZdKmi0C80e3eu53Vzr6f"
-        }
-      ],
-      "duration_ms": 335333,
-      "name": "Dirty Talk",
-      "url": "https://open.spotify.com/track/4CMKgb0qrIsVu202dmop15"
-    },
-    {
-      "added_at": "2023-10-06 04:01:00",
-      "album": {
         "name": "Under the Ice - Single",
         "url": "https://open.spotify.com/album/3vMFalOaP1bCRm8HVFQOAk"
       },
@@ -1307,6 +1275,46 @@
       "duration_ms": 432404,
       "name": "Under the Ice - Original 12 Inch Version",
       "url": "https://open.spotify.com/track/2ue8ttSzbhnvhO7zc52NjC"
+    },
+    {
+      "added_at": "2023-10-06 04:01:00",
+      "album": {
+        "name": "Dirty Talk",
+        "url": "https://open.spotify.com/album/5z5xqfOezhRYRFhGvcj8TP"
+      },
+      "artists": [
+        {
+          "name": "Klein & M.B.O.",
+          "url": "https://open.spotify.com/artist/5MZdKmi0C80e3eu53Vzr6f"
+        }
+      ],
+      "duration_ms": 335333,
+      "name": "Dirty Talk",
+      "url": "https://open.spotify.com/track/4CMKgb0qrIsVu202dmop15"
+    },
+    {
+      "added_at": "2023-10-06 04:01:00",
+      "album": {
+        "name": "My Magic Number",
+        "url": "https://open.spotify.com/album/5zEcHInCpQTxrQH7cJrJAt"
+      },
+      "artists": [
+        {
+          "name": "Daddy Squad",
+          "url": "https://open.spotify.com/artist/7ILhSMHJML8HVt4GBi6LGj"
+        },
+        {
+          "name": "Dita Von Teese",
+          "url": "https://open.spotify.com/artist/5p2DOkwlRuUgPuHNUp9ZKz"
+        },
+        {
+          "name": "Club Domani",
+          "url": "https://open.spotify.com/artist/0uZI4sqpl7jJQ19T7dcsM8"
+        }
+      ],
+      "duration_ms": 317120,
+      "name": "My Magic Number - Club Domani Remix",
+      "url": "https://open.spotify.com/track/6cR9AbJGTvXEnwjiE8VznV"
     }
   ],
   "unique_name": "Italo Disco",

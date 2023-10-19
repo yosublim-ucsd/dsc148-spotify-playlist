@@ -4,7 +4,7 @@
 
 > Let's mix it\. Cover: Landon Barker
 
-660 songs - 1 day 10 hr 20 min
+661 songs - 1 day 10 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -601,7 +601,8 @@
 | [thought it was](https://open.spotify.com/track/3x1h0lsx1i2v9cUWnZssBa) | [iann dior](https://open.spotify.com/artist/6ASri4ePR7RlsvIQgWPJpS), [Travis Barker](https://open.spotify.com/artist/4exLIFE8sISLr28sqG1qNX), [Machine Gun Kelly](https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX) | [thought it was](https://open.spotify.com/album/6P55gU4yR13niGsgVDxAwj) | 2:52 | 2022-03-17 | 2023-03-18 |
 | [Tides](https://open.spotify.com/track/2JiHR4gCDjXwYVRDmwdk95) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [=](https://open.spotify.com/album/32iAEBstCjauDhyKpGjTuq) | 3:15 | 2022-03-17 | 2023-03-18 |
 | [Tissues](https://open.spotify.com/track/0jRY4XO556pn1zHZAoY3ph) | [YUNGBLUD](https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW) | [Tissues](https://open.spotify.com/album/1LIAp7pyElYRzvlP0mXSew) | 3:35 | 2022-09-01 |  |
-| [Told You So](https://open.spotify.com/track/0xfMFT9G8Ekk7CEYtVabIm) | [The Band CAMINO](https://open.spotify.com/artist/6d4jrmreCmsenscuieJERc) | [Told You So](https://open.spotify.com/album/3nHIAlyLTzvncWhTwE5TcY) | 2:51 | 2023-03-17 |  |
+| [Told You So](https://open.spotify.com/track/0xfMFT9G8Ekk7CEYtVabIm) | [The Band CAMINO](https://open.spotify.com/artist/6d4jrmreCmsenscuieJERc) | [Told You So](https://open.spotify.com/album/3nHIAlyLTzvncWhTwE5TcY) | 2:51 | 2023-03-17 | 2023-10-19 |
+| [Told You So](https://open.spotify.com/track/2A1HJSm5Gqqb9oTv28U6dr) | [The Band CAMINO](https://open.spotify.com/artist/6d4jrmreCmsenscuieJERc) | [The Dark](https://open.spotify.com/album/6S2FI6xzGq3INs2WnlB9ou) | 2:51 | 2023-09-08 |  |
 | [Tonight \(feat\. iann dior\)](https://open.spotify.com/track/6Tsro9u5bnTJxFjuzuNA7R) | [jxdn](https://open.spotify.com/artist/6Y64EaNqpqcZYTgs4c76gF), [iann dior](https://open.spotify.com/artist/6ASri4ePR7RlsvIQgWPJpS) | [Tonight \(feat\. iann dior\)](https://open.spotify.com/album/53jX1nt0x4HeHwOGRbQWQR) | 2:15 | 2022-03-24 | 2022-05-19 |
 | [too hot to cry](https://open.spotify.com/track/3RhPFIqJ9waaB5FTg8wugv) | [Nessa Barrett](https://open.spotify.com/artist/7pwufEBGfggjoI8twqlsmQ) | [young forever](https://open.spotify.com/album/4uoeBpJ631QyWNHw9GqTEn) | 3:08 | 2022-10-14 | 2022-12-14 |
 | [Too Late](https://open.spotify.com/track/0Fma3BTRkSOKDigFnZYvtD) | [The Darcys](https://open.spotify.com/artist/1kmnMzV27S3bXALqYnoGwH) | [Too Late](https://open.spotify.com/album/6CmiPFmr2tFiTiC3n25wRR) | 3:17 | 2022-03-24 | 2022-04-21 |

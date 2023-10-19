@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXepGEFFmQXJ.md) - [plain]
 
 > The cream of today's Country crop\. Cover: Chris Stapelton
 
-[Spotify](https://open.spotify.com/user/spotify) - 366,534 likes - 80 songs - 4 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 366,715 likes - 80 songs - 4 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXepGEFFmQXJ.md) - [plain]
 | 17 | [WORTH ITS WEIGHT IN GOLD](https://open.spotify.com/track/2cOZ6OUPWIlM0Iu5XfLE8i) | [James Johnston](https://open.spotify.com/artist/69HMYPrcstafeCTHI3Dcp1) | [WORTH ITS WEIGHT IN GOLD](https://open.spotify.com/album/0gHoE5r8YIQJ4Bz2LExtjN) | 3:48 |
 | 18 | [Growin' Up and Gettin' Old](https://open.spotify.com/track/24Z0qiHUR9cTB4UfGUqCnj) | [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [Gettin' Old](https://open.spotify.com/album/5Uly85dJHHDfHQCsyUQ8gw) | 3:53 |
 | 19 | [The Tree](https://open.spotify.com/track/2ulmNFm5fVsK5mlOQNdhJI) | [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI) | [The Bridge](https://open.spotify.com/album/2SX47JWeyg4hlKfYwQ3AdA) | 3:25 |
-| 20 | [Ain't The One](https://open.spotify.com/track/1DMKxugJjRgFjEzUb6Sd62) | [Josh Ross](https://open.spotify.com/artist/1ZGTSMjK1D2HrpPTOh916U) | [Ain't The One](https://open.spotify.com/album/6mgEILhlga6pdEns5qahoU) | 3:05 |
+| 20 | [Ain't The One](https://open.spotify.com/track/0pI8ooKQA99dJOKxc4khYJ) | [Josh Ross](https://open.spotify.com/artist/1ZGTSMjK1D2HrpPTOh916U) | [Ain't The One](https://open.spotify.com/album/3dxiEuuXYgLO8gCbXK2YaO) | 3:05 |
 | 21 | [Glass Half Full](https://open.spotify.com/track/3nVdYKWy3SVMdxOiBP70NX) | [Kingswood](https://open.spotify.com/artist/4zOw0E0NA7B4lIYyc3XNt5) | [Glass Half Full](https://open.spotify.com/album/45rfTLmTVRlwHRZiU88P9r) | 4:10 |
 | 22 | [The Girl I Knew](https://open.spotify.com/track/5fC1YgBLFdSv3Uslvw6EoM) | [Mason & Julez](https://open.spotify.com/artist/7ixzwZCFEILN04Sc8SgHkB) | [The Girl I Knew](https://open.spotify.com/album/3ti4yhlrktsAPHwQ7gRs4P) | 2:51 |
 | 23 | [Something's Gonna Kill Me](https://open.spotify.com/track/41cv1emXVm5Su4DWvltXa6) | [Corey Kent](https://open.spotify.com/artist/3sUpZrkehiGBaMzs2h9Mmc) | [Something's Gonna Kill Me](https://open.spotify.com/album/1ST1AL02131q4x1nzMO8It) | 3:03 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXepGEFFmQXJ.md) - [plain]
 | 79 | [We Ride](https://open.spotify.com/track/72kGuWpRiuA149Bn5lDkIO) | [Bryan Martin](https://open.spotify.com/artist/0ChjBYedhZTQnWZWQYg15U) | [Poets & Old Souls](https://open.spotify.com/album/19X9Ts9AYIRrqthSTf3qss) | 3:08 |
 | 80 | [Dance With You](https://open.spotify.com/track/5SIb4S2seQAeCHPXxiNHBL) | [Brett Young](https://open.spotify.com/artist/0fiWOxhsBsQQvFDtxUQWo0) | [Dance With You](https://open.spotify.com/album/7rbVJCe9cnXniQ9cgJW7lp) | 3:03 |
 
-Snapshot ID: `MCxhNTcwNGRkNTVjMDM2YzU0YTExMzlhM2UzZGIwMjU1NWMwNTIzMjJj`
+Snapshot ID: `MCwyYjA4ZGUxZjRlZmNiNmZlNDVjNjcyMWY4NzNhNjcxMzg2MWQxZGQy`

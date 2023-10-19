@@ -1,12 +1,12 @@
 {
   "description": "\u8a66\u8457\u62cb\u958b\u6240\u6709\u7169\u60f1\uff0c\u914d\u4e0a\u4e00\u9ede\u7279\u610f\u7684\u5c0f\u78ba\u5e78\uff0c\u9019\u4e00\u523b\u53ea\u5c6c\u65bc\u4f60...",
-  "num_followers": 154621,
+  "num_followers": 154668,
   "original_name": "\u6211\u7684\u5fae\u91ba\u591c",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0YzllNWIxNWQ2YzE3YTNmYmQ5NWQ2NTU2YTc3MTUxOTM5NWEzNWFk",
+  "snapshot_id": "MCxkN2UwOTNiM2UyZTZjMzRlODkyMDZjNzNmNWZkYWVhNDI2YjhjYzU5",
   "tracks": [
     {
       "added_at": "2023-10-16 02:11:19",
@@ -459,18 +459,18 @@
     {
       "added_at": "2023-10-16 02:11:19",
       "album": {
-        "name": "Lately EP",
-        "url": "https://open.spotify.com/album/4PeU1vYLxDKGzU3641YmFI"
+        "name": "always",
+        "url": "https://open.spotify.com/album/37FLvUnF5qC1LZBNCWqG1A"
       },
       "artists": [
         {
-          "name": "Still Woozy",
-          "url": "https://open.spotify.com/artist/4iMO20EPodreIaEl8qW66y"
+          "name": "keshi",
+          "url": "https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO"
         }
       ],
-      "duration_ms": 157303,
-      "name": "Lava",
-      "url": "https://open.spotify.com/track/2dIeraguJ8SoHDqXfSZelZ"
+      "duration_ms": 172354,
+      "name": "always",
+      "url": "https://open.spotify.com/track/26dXOkhzMxLLNaUXt77HQc"
     },
     {
       "added_at": "2023-10-16 02:11:19",
@@ -507,18 +507,18 @@
     {
       "added_at": "2023-10-16 02:11:19",
       "album": {
-        "name": "always",
-        "url": "https://open.spotify.com/album/37FLvUnF5qC1LZBNCWqG1A"
+        "name": "Lately EP",
+        "url": "https://open.spotify.com/album/4PeU1vYLxDKGzU3641YmFI"
       },
       "artists": [
         {
-          "name": "keshi",
-          "url": "https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO"
+          "name": "Still Woozy",
+          "url": "https://open.spotify.com/artist/4iMO20EPodreIaEl8qW66y"
         }
       ],
-      "duration_ms": 172354,
-      "name": "always",
-      "url": "https://open.spotify.com/track/26dXOkhzMxLLNaUXt77HQc"
+      "duration_ms": 157303,
+      "name": "Lava",
+      "url": "https://open.spotify.com/track/2dIeraguJ8SoHDqXfSZelZ"
     },
     {
       "added_at": "2023-10-16 02:11:19",
@@ -575,22 +575,6 @@
     {
       "added_at": "2023-10-16 02:11:19",
       "album": {
-        "name": "Heart On My Sleeve",
-        "url": "https://open.spotify.com/album/6p5jJLTFiYgk95HhW0unhy"
-      },
-      "artists": [
-        {
-          "name": "Ella Mai",
-          "url": "https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap"
-        }
-      ],
-      "duration_ms": 209133,
-      "name": "Leave You Alone",
-      "url": "https://open.spotify.com/track/0cNc0bSxmRVhAUJVYEd2Qk"
-    },
-    {
-      "added_at": "2023-10-16 02:11:19",
-      "album": {
         "name": "bandaids",
         "url": "https://open.spotify.com/album/4LfFHT00C9ImLMUjHkqWjQ"
       },
@@ -603,6 +587,22 @@
       "duration_ms": 168280,
       "name": "alright",
       "url": "https://open.spotify.com/track/0zwqkO1MdFPigFIESwdJ5s"
+    },
+    {
+      "added_at": "2023-10-16 02:11:19",
+      "album": {
+        "name": "Heart On My Sleeve",
+        "url": "https://open.spotify.com/album/6p5jJLTFiYgk95HhW0unhy"
+      },
+      "artists": [
+        {
+          "name": "Ella Mai",
+          "url": "https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap"
+        }
+      ],
+      "duration_ms": 209133,
+      "name": "Leave You Alone",
+      "url": "https://open.spotify.com/track/0cNc0bSxmRVhAUJVYEd2Qk"
     },
     {
       "added_at": "2023-10-16 02:11:19",
@@ -943,22 +943,6 @@
     {
       "added_at": "2023-10-16 02:11:19",
       "album": {
-        "name": "Stranger",
-        "url": "https://open.spotify.com/album/5tjjkvT0Tm06eXsJjV7sms"
-      },
-      "artists": [
-        {
-          "name": "RealestK",
-          "url": "https://open.spotify.com/artist/35R1B97CfrqKFFI3QBkTDx"
-        }
-      ],
-      "duration_ms": 155624,
-      "name": "Stranger",
-      "url": "https://open.spotify.com/track/4TRcHzOWfy7EmYYdci24jv"
-    },
-    {
-      "added_at": "2023-10-16 02:11:19",
-      "album": {
         "name": "Autumn breeze",
         "url": "https://open.spotify.com/album/2qaPqpiQfg952oIT1nrDXB"
       },
@@ -1011,6 +995,22 @@
       "duration_ms": 201301,
       "name": "Play Me Something Nice",
       "url": "https://open.spotify.com/track/0dABwa1MAM9ABbZjNBpWSb"
+    },
+    {
+      "added_at": "2023-10-16 02:11:19",
+      "album": {
+        "name": "Stranger",
+        "url": "https://open.spotify.com/album/5tjjkvT0Tm06eXsJjV7sms"
+      },
+      "artists": [
+        {
+          "name": "RealestK",
+          "url": "https://open.spotify.com/artist/35R1B97CfrqKFFI3QBkTDx"
+        }
+      ],
+      "duration_ms": 155624,
+      "name": "Stranger",
+      "url": "https://open.spotify.com/track/4TRcHzOWfy7EmYYdci24jv"
     },
     {
       "added_at": "2023-10-16 02:11:19",
@@ -1383,22 +1383,6 @@
     {
       "added_at": "2023-10-16 02:11:19",
       "album": {
-        "name": "Wavvy",
-        "url": "https://open.spotify.com/album/33RjX6qVEdXlcemcA942b0"
-      },
-      "artists": [
-        {
-          "name": "Lav",
-          "url": "https://open.spotify.com/artist/4yql3diaCYkv88Xrh7rwVl"
-        }
-      ],
-      "duration_ms": 187546,
-      "name": "Wavvy",
-      "url": "https://open.spotify.com/track/0BIdtZ1RdHNAm1aJxbfyNk"
-    },
-    {
-      "added_at": "2023-10-16 02:11:19",
-      "album": {
         "name": "Numb",
         "url": "https://open.spotify.com/album/16TtKhePgbLxoqSOvJVQKu"
       },
@@ -1415,22 +1399,18 @@
     {
       "added_at": "2023-10-16 02:11:19",
       "album": {
-        "name": "Heat",
-        "url": "https://open.spotify.com/album/6NQYvAcFnLvL3c7dk0HngW"
+        "name": "Wavvy",
+        "url": "https://open.spotify.com/album/33RjX6qVEdXlcemcA942b0"
       },
       "artists": [
         {
-          "name": "L.A. Rose",
-          "url": "https://open.spotify.com/artist/0gKIGwEwHA8mOrLyzbRAjr"
-        },
-        {
-          "name": "breathe.",
-          "url": "https://open.spotify.com/artist/6XrEYPg6rrQMV4GKabTxbE"
+          "name": "Lav",
+          "url": "https://open.spotify.com/artist/4yql3diaCYkv88Xrh7rwVl"
         }
       ],
-      "duration_ms": 190075,
-      "name": "Heat",
-      "url": "https://open.spotify.com/track/7hn5uXhjeHwGWbqCPdBtwY"
+      "duration_ms": 187546,
+      "name": "Wavvy",
+      "url": "https://open.spotify.com/track/0BIdtZ1RdHNAm1aJxbfyNk"
     },
     {
       "added_at": "2023-10-16 02:11:19",
@@ -1467,22 +1447,6 @@
     {
       "added_at": "2023-10-16 02:11:19",
       "album": {
-        "name": "The Juice: Vol. I",
-        "url": "https://open.spotify.com/album/3No5rGRQefAlVJgWusDEwQ"
-      },
-      "artists": [
-        {
-          "name": "Emotional Oranges",
-          "url": "https://open.spotify.com/artist/12trz2INGglrKMzLmg0y2C"
-        }
-      ],
-      "duration_ms": 199040,
-      "name": "Built That Way",
-      "url": "https://open.spotify.com/track/1KFRlrRRuvyrIwgjcSr1Qr"
-    },
-    {
-      "added_at": "2023-10-16 02:11:19",
-      "album": {
         "name": "Animal Magic",
         "url": "https://open.spotify.com/album/7geNHTLjHCBxdg5YlO7gse"
       },
@@ -1495,6 +1459,22 @@
       "duration_ms": 278346,
       "name": "Terrapin",
       "url": "https://open.spotify.com/track/44syVsiS6uTaLRDbr1QIfr"
+    },
+    {
+      "added_at": "2023-10-16 02:11:19",
+      "album": {
+        "name": "The Juice: Vol. I",
+        "url": "https://open.spotify.com/album/3No5rGRQefAlVJgWusDEwQ"
+      },
+      "artists": [
+        {
+          "name": "Emotional Oranges",
+          "url": "https://open.spotify.com/artist/12trz2INGglrKMzLmg0y2C"
+        }
+      ],
+      "duration_ms": 199040,
+      "name": "Built That Way",
+      "url": "https://open.spotify.com/track/1KFRlrRRuvyrIwgjcSr1Qr"
     },
     {
       "added_at": "2023-10-16 02:11:19",
@@ -1727,6 +1707,22 @@
       "duration_ms": 188478,
       "name": "Holding the Gun",
       "url": "https://open.spotify.com/track/4Hs7FS8jNNReipDe6SDpwz"
+    },
+    {
+      "added_at": "2023-10-16 02:11:19",
+      "album": {
+        "name": "Home Tapes",
+        "url": "https://open.spotify.com/album/6ZGs1cTdS7wvHa10DicJuw"
+      },
+      "artists": [
+        {
+          "name": "Oh Wonder",
+          "url": "https://open.spotify.com/artist/5cIc3SBFuBLVxJz58W2tU9"
+        }
+      ],
+      "duration_ms": 223160,
+      "name": "Oceansize",
+      "url": "https://open.spotify.com/track/37oz0tZXDhBDOzPSAvxX9W"
     }
   ],
   "unique_name": "\u6211\u7684\u5fae\u91ba\u591c",

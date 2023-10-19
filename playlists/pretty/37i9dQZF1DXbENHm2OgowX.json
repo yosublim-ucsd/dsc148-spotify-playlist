@@ -1,12 +1,12 @@
 {
   "description": "wandering the forest as the fog floats through the trees",
-  "num_followers": 131539,
+  "num_followers": 131830,
   "original_name": "gloomcore",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkZjJmYzE3YWFlNDgwNTgzNDQ2MDc4MjY1OGJjMmQ4N2M4M2UxYWNh",
+  "snapshot_id": "MCxlYzliOTJmOTAyODM2MWYzZGQzNjMzYzAwOTM3OTJkYTIyM2IyYzA2",
   "tracks": [
     {
       "added_at": "2023-09-22 12:14:33",
@@ -923,22 +923,6 @@
     {
       "added_at": "2023-09-22 12:14:33",
       "album": {
-        "name": "Vintage Well",
-        "url": "https://open.spotify.com/album/6Yq2E5sFMqeT3SsOsdVHTm"
-      },
-      "artists": [
-        {
-          "name": "Deaf Center",
-          "url": "https://open.spotify.com/artist/0GQJRlsTD8irKEDcClYiiA"
-        }
-      ],
-      "duration_ms": 170878,
-      "name": "Close",
-      "url": "https://open.spotify.com/track/2qZBYY1G1guH9FjToCn0g4"
-    },
-    {
-      "added_at": "2023-09-22 12:14:33",
-      "album": {
         "name": "Moments.",
         "url": "https://open.spotify.com/album/0bl0GAtHn9TGtr5Gwxoa4t"
       },
@@ -951,6 +935,22 @@
       "duration_ms": 156301,
       "name": "Locale",
       "url": "https://open.spotify.com/track/7EmVoBw3vXMwBpIhPA4KEF"
+    },
+    {
+      "added_at": "2023-09-22 12:14:33",
+      "album": {
+        "name": "Vintage Well",
+        "url": "https://open.spotify.com/album/6Yq2E5sFMqeT3SsOsdVHTm"
+      },
+      "artists": [
+        {
+          "name": "Deaf Center",
+          "url": "https://open.spotify.com/artist/0GQJRlsTD8irKEDcClYiiA"
+        }
+      ],
+      "duration_ms": 170878,
+      "name": "Close",
+      "url": "https://open.spotify.com/track/2qZBYY1G1guH9FjToCn0g4"
     },
     {
       "added_at": "2023-09-22 12:14:33",
@@ -1007,6 +1007,22 @@
     {
       "added_at": "2023-09-22 12:14:33",
       "album": {
+        "name": "Radio Amor",
+        "url": "https://open.spotify.com/album/5yHH2l3d2d2K5tNQGorEdR"
+      },
+      "artists": [
+        {
+          "name": "Tim Hecker",
+          "url": "https://open.spotify.com/artist/1qiwaJwjKod5WhcYZ76O1B"
+        }
+      ],
+      "duration_ms": 489320,
+      "name": "Spectral",
+      "url": "https://open.spotify.com/track/3U8n9dqqe4louRiL2Sg4fp"
+    },
+    {
+      "added_at": "2023-09-22 12:14:33",
+      "album": {
         "name": "Vale Reworked",
         "url": "https://open.spotify.com/album/2ERvok5IzEmGQl8FXg6fVz"
       },
@@ -1043,22 +1059,6 @@
       "duration_ms": 645000,
       "name": "Dry Retch - 2021 Remaster",
       "url": "https://open.spotify.com/track/6unZyubxwrlThrvlfMw1Ot"
-    },
-    {
-      "added_at": "2023-09-22 12:14:33",
-      "album": {
-        "name": "Radio Amor",
-        "url": "https://open.spotify.com/album/5yHH2l3d2d2K5tNQGorEdR"
-      },
-      "artists": [
-        {
-          "name": "Tim Hecker",
-          "url": "https://open.spotify.com/artist/1qiwaJwjKod5WhcYZ76O1B"
-        }
-      ],
-      "duration_ms": 489320,
-      "name": "Spectral",
-      "url": "https://open.spotify.com/track/3U8n9dqqe4louRiL2Sg4fp"
     },
     {
       "added_at": "2023-09-22 12:14:33",
@@ -1131,18 +1131,18 @@
     {
       "added_at": "2023-09-22 12:14:33",
       "album": {
-        "name": "Take My Hand",
-        "url": "https://open.spotify.com/album/2KVKBlcWmJ49mhV4wfQ50I"
+        "name": "Moments.",
+        "url": "https://open.spotify.com/album/0bl0GAtHn9TGtr5Gwxoa4t"
       },
       "artists": [
         {
-          "name": "Luke Taylor",
-          "url": "https://open.spotify.com/artist/2DxAWfvhrcylvjEZILMyhR"
+          "name": "Violet A. Foster",
+          "url": "https://open.spotify.com/artist/3OKmOc5V850cI1rAjyo9Gi"
         }
       ],
-      "duration_ms": 159972,
-      "name": "Take My Hand",
-      "url": "https://open.spotify.com/track/2li1k57BZcIGJrISHXlOmh"
+      "duration_ms": 291553,
+      "name": "Animism",
+      "url": "https://open.spotify.com/track/3rXugDRBIPMHUzLqxA0hg4"
     }
   ],
   "unique_name": "gloomcore",

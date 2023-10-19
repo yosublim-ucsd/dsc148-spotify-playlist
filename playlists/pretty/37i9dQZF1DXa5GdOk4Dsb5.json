@@ -1,12 +1,12 @@
 {
   "description": "Para ahogar las penas en el fondo de una botella.",
-  "num_followers": 119595,
+  "num_followers": 119697,
   "original_name": "Rancheras, Despecho & Licor",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2YzUzOTJiZTZhN2VmZDlmOGZiMzMyOWRmNzFlZjI1ODM1NGNlY2Ix",
+  "snapshot_id": "MCxmZDU0NzBmMDM1OTVhNDYzN2QzNDI4MGNkNDNhZGMxZmNjZGEwNzY3",
   "tracks": [
     {
       "added_at": "2023-04-14 06:00:00",
@@ -311,22 +311,6 @@
     {
       "added_at": "2023-04-14 06:00:00",
       "album": {
-        "name": "No Se Va (EN VIVO)",
-        "url": "https://open.spotify.com/album/5jgCL0iatyi00rPPXjmYS3"
-      },
-      "artists": [
-        {
-          "name": "Grupo Frontera",
-          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
-        }
-      ],
-      "duration_ms": 194019,
-      "name": "No Se Va - EN VIVO",
-      "url": "https://open.spotify.com/track/23Lyy7ZXRvzfgH4JtDkKrX"
-    },
-    {
-      "added_at": "2023-04-14 06:00:00",
-      "album": {
         "name": "Me Volvi A Acordar De Ti",
         "url": "https://open.spotify.com/album/5UDp9amJcdxcM86mM0Hwiy"
       },
@@ -339,6 +323,22 @@
       "duration_ms": 212226,
       "name": "Tu C\u00e1rcel",
       "url": "https://open.spotify.com/track/0LNn2O06dvsZqvWaS870xJ"
+    },
+    {
+      "added_at": "2023-04-14 06:00:00",
+      "album": {
+        "name": "No Se Va (EN VIVO)",
+        "url": "https://open.spotify.com/album/5jgCL0iatyi00rPPXjmYS3"
+      },
+      "artists": [
+        {
+          "name": "Grupo Frontera",
+          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
+        }
+      ],
+      "duration_ms": 194019,
+      "name": "No Se Va - EN VIVO",
+      "url": "https://open.spotify.com/track/23Lyy7ZXRvzfgH4JtDkKrX"
     },
     {
       "added_at": "2023-04-14 06:00:00",
@@ -1275,22 +1275,6 @@
     {
       "added_at": "2023-04-14 06:00:00",
       "album": {
-        "name": "El Rey del Despecho - Internacional",
-        "url": "https://open.spotify.com/album/4XdAY43mi3P37ptEGWI1K0"
-      },
-      "artists": [
-        {
-          "name": "Dar\u00edo G\u00f3mez",
-          "url": "https://open.spotify.com/artist/3JCyEziWwDZksR1WY8EckM"
-        }
-      ],
-      "duration_ms": 219559,
-      "name": "Sobrevivir\u00e9",
-      "url": "https://open.spotify.com/track/7q5aOEf299r3G9Xj27UE0H"
-    },
-    {
-      "added_at": "2023-04-14 06:00:00",
-      "album": {
         "name": "En Tus Manos",
         "url": "https://open.spotify.com/album/2uLbOZPAiJNsuWKuTS3Ocu"
       },
@@ -1307,6 +1291,22 @@
       "duration_ms": 189208,
       "name": "Como Si Nada",
       "url": "https://open.spotify.com/track/6fxct5RZKGNgRMcXULezMW"
+    },
+    {
+      "added_at": "2023-04-14 06:00:00",
+      "album": {
+        "name": "El Rey del Despecho - Internacional",
+        "url": "https://open.spotify.com/album/4XdAY43mi3P37ptEGWI1K0"
+      },
+      "artists": [
+        {
+          "name": "Dar\u00edo G\u00f3mez",
+          "url": "https://open.spotify.com/artist/3JCyEziWwDZksR1WY8EckM"
+        }
+      ],
+      "duration_ms": 219559,
+      "name": "Sobrevivir\u00e9",
+      "url": "https://open.spotify.com/track/7q5aOEf299r3G9Xj27UE0H"
     },
     {
       "added_at": "2023-04-14 06:00:00",
@@ -1451,18 +1451,18 @@
     {
       "added_at": "2023-04-14 06:00:00",
       "album": {
-        "name": "El Rey del Despecho - Internacional",
-        "url": "https://open.spotify.com/album/4XdAY43mi3P37ptEGWI1K0"
+        "name": "En Tus Manos",
+        "url": "https://open.spotify.com/album/2uLbOZPAiJNsuWKuTS3Ocu"
       },
       "artists": [
         {
-          "name": "Dar\u00edo G\u00f3mez",
-          "url": "https://open.spotify.com/artist/3JCyEziWwDZksR1WY8EckM"
+          "name": "Paola Jara",
+          "url": "https://open.spotify.com/artist/6y4IOQcDIDg6I1OEKf2oJk"
         }
       ],
-      "duration_ms": 196884,
-      "name": "Entre Comillas",
-      "url": "https://open.spotify.com/track/4EllcwhWBlSSbwEsZKu1eG"
+      "duration_ms": 180165,
+      "name": "Muri\u00f3 El Amor",
+      "url": "https://open.spotify.com/track/2D6SrlLoIjmDX8xhCBA06n"
     },
     {
       "added_at": "2023-04-14 06:00:00",
@@ -1483,18 +1483,18 @@
     {
       "added_at": "2023-04-14 06:00:00",
       "album": {
-        "name": "En Tus Manos",
-        "url": "https://open.spotify.com/album/2uLbOZPAiJNsuWKuTS3Ocu"
+        "name": "El Rey del Despecho - Internacional",
+        "url": "https://open.spotify.com/album/4XdAY43mi3P37ptEGWI1K0"
       },
       "artists": [
         {
-          "name": "Paola Jara",
-          "url": "https://open.spotify.com/artist/6y4IOQcDIDg6I1OEKf2oJk"
+          "name": "Dar\u00edo G\u00f3mez",
+          "url": "https://open.spotify.com/artist/3JCyEziWwDZksR1WY8EckM"
         }
       ],
-      "duration_ms": 180165,
-      "name": "Muri\u00f3 El Amor",
-      "url": "https://open.spotify.com/track/2D6SrlLoIjmDX8xhCBA06n"
+      "duration_ms": 196884,
+      "name": "Entre Comillas",
+      "url": "https://open.spotify.com/track/4EllcwhWBlSSbwEsZKu1eG"
     },
     {
       "added_at": "2023-04-14 06:00:00",
@@ -1611,18 +1611,22 @@
     {
       "added_at": "2023-04-14 06:00:00",
       "album": {
-        "name": "Pa' las Que Sea",
-        "url": "https://open.spotify.com/album/4mimxigIakTiCKteQndKk5"
+        "name": "La Conquista",
+        "url": "https://open.spotify.com/album/5uZpOJO7pLBQ7nSHE1fjjY"
       },
       "artists": [
         {
-          "name": "Jimmy Gutierrez",
-          "url": "https://open.spotify.com/artist/7syZwIuF9tAkKQxNQLCosV"
+          "name": "Paola Jara",
+          "url": "https://open.spotify.com/artist/6y4IOQcDIDg6I1OEKf2oJk"
+        },
+        {
+          "name": "Jessi Uribe",
+          "url": "https://open.spotify.com/artist/3SN7I8KV2qBwTCZ4aNDcbS"
         }
       ],
-      "duration_ms": 259004,
-      "name": "Pa' las Que Sea",
-      "url": "https://open.spotify.com/track/52tnYQ8WVvTAfSE14QfP26"
+      "duration_ms": 186378,
+      "name": "La Conquista",
+      "url": "https://open.spotify.com/track/4o5DwAte1mdSB3YfIKwZjm"
     },
     {
       "added_at": "2023-04-14 06:00:00",
@@ -1643,22 +1647,18 @@
     {
       "added_at": "2023-04-14 06:00:00",
       "album": {
-        "name": "La Conquista",
-        "url": "https://open.spotify.com/album/5uZpOJO7pLBQ7nSHE1fjjY"
+        "name": "Pa' las Que Sea",
+        "url": "https://open.spotify.com/album/4mimxigIakTiCKteQndKk5"
       },
       "artists": [
         {
-          "name": "Paola Jara",
-          "url": "https://open.spotify.com/artist/6y4IOQcDIDg6I1OEKf2oJk"
-        },
-        {
-          "name": "Jessi Uribe",
-          "url": "https://open.spotify.com/artist/3SN7I8KV2qBwTCZ4aNDcbS"
+          "name": "Jimmy Gutierrez",
+          "url": "https://open.spotify.com/artist/7syZwIuF9tAkKQxNQLCosV"
         }
       ],
-      "duration_ms": 186378,
-      "name": "La Conquista",
-      "url": "https://open.spotify.com/track/4o5DwAte1mdSB3YfIKwZjm"
+      "duration_ms": 259004,
+      "name": "Pa' las Que Sea",
+      "url": "https://open.spotify.com/track/52tnYQ8WVvTAfSE14QfP26"
     },
     {
       "added_at": "2023-04-14 06:00:00",

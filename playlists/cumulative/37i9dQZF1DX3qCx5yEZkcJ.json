@@ -1110,7 +1110,7 @@
       ],
       "date_added": "2020-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-19",
       "duration_ms": 133333,
       "name": "Camberwell",
       "url": "https://open.spotify.com/track/0rhsSLzNfB91innrvTBdx3"
@@ -2406,6 +2406,24 @@
       "duration_ms": 128000,
       "name": "Evening Drive",
       "url": "https://open.spotify.com/track/5Q9BHeEnFBt4KAPRTc3MmZ"
+    },
+    {
+      "album": {
+        "name": "Evening Drive",
+        "url": "https://open.spotify.com/album/4ryZ34XY94W7KOS5nxLCsR"
+      },
+      "artists": [
+        {
+          "name": "Milo Who",
+          "url": "https://open.spotify.com/artist/2AvtPNQ7qZnLcBxC6kPvZ6"
+        }
+      ],
+      "date_added": "2023-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128000,
+      "name": "Evening Drive",
+      "url": "https://open.spotify.com/track/5lPlwvq6YORDItfF5xUb7j"
     },
     {
       "album": {

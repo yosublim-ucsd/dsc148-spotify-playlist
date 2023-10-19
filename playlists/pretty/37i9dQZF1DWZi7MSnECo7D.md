@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZi7MSnECo7D.md) - [plain]
 
 > Novidades e destaques do indie nacional\. Foto: Personas
 
-[Spotify](https://open.spotify.com/user/spotify) - 405,811 likes - 75 songs - 4 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 405,823 likes - 75 songs - 4 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZi7MSnECo7D.md) - [plain]
 | 11 | [Anel de Borboleta](https://open.spotify.com/track/1W22RTyIrDeJhxhhcJKLYH) | [Murilo França](https://open.spotify.com/artist/0PyoItyf0vbCXpSRuSdbtn), [Ciro Daniel](https://open.spotify.com/artist/3Rso0khSv7X2ENbc0OsjxJ) | [Anel de Borboleta](https://open.spotify.com/album/4ObaRH1bfWO0Skb5dwCOCK) | 2:50 |
 | 12 | [Rua da Lua Cheia](https://open.spotify.com/track/0URryycDasqNVVqiX1aV01) | [Exclusive Os Cabides](https://open.spotify.com/artist/0SE1q0DtRWvOcjt78ZZ4ZF) | [Rua da Lua Cheia](https://open.spotify.com/album/60vjflVrXOLjbjmfuKEIti) | 3:37 |
 | 13 | [Como Me Dói](https://open.spotify.com/track/5AZc8v8x5svqEnsOQYY9kY) | [Pablo Vermell](https://open.spotify.com/artist/1QXsIqLfotA6OnwVqQvPs5), [Clube Dezenove](https://open.spotify.com/artist/719qMl6Gpbyr3h56RZ7RQT) | [Como Me Dói](https://open.spotify.com/album/3g7BficCAod2FcfAyLCXVF) | 2:36 |
-| 14 | [Farol](https://open.spotify.com/track/4hPpmLtIijiczJj25c3eLK) | [Cardamomo](https://open.spotify.com/artist/4j9gjF5J0AB267VHkylSQ0) | [Farol](https://open.spotify.com/album/5TEG7HOqZLESr1uOPBtWFz) | 5:40 |
+| 14 | [Farol](https://open.spotify.com/track/4hPpmLtIijiczJj25c3eLK) | [Cardamomo](https://open.spotify.com/artist/4j9gjF5J0AB267VHkylSQ0), [VIRIDIANA](https://open.spotify.com/artist/4VngUHDob5tc60HThCPnUy) | [Farol](https://open.spotify.com/album/5TEG7HOqZLESr1uOPBtWFz) | 5:40 |
 | 15 | [Paixão Revirada](https://open.spotify.com/track/7giC7o4Bnvm7enlzpwZCDd) | [Tagore](https://open.spotify.com/artist/6jesZl7rJFJZ8d5i9pX5q8) | [Paixão Revirada](https://open.spotify.com/album/0ahXiH16BR6OFd3pCmyz7l) | 2:31 |
 | 16 | [A Chegada](https://open.spotify.com/track/6cQfhvK6qQ9eFgIrbZ9bwU) | [Os Fugitivos](https://open.spotify.com/artist/0JCwkTQqtgVQXBRxwEloEg) | [A Chegada](https://open.spotify.com/album/1VO0sEuB8Tt4m5Askw5F6N) | 4:05 |
 | 17 | [Baile de Cinema](https://open.spotify.com/track/0wmeu1tH9rPyrkYDU3AOxC) | [Lê Almeida](https://open.spotify.com/artist/4OHUAFNTvf9buFreLAAomV) | [I Feel In The Sky](https://open.spotify.com/album/32rXGSkXtgtqFCHJgLfOmK) | 4:17 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZi7MSnECo7D.md) - [plain]
 | 74 | [Eu Não Vou Embora](https://open.spotify.com/track/1Jf2ajAR9tdCCVoVWc0hQY) | [Thais Kiwi](https://open.spotify.com/artist/7JNDN2kOvYlpV1Mw5WCelE), [Renato Enoch](https://open.spotify.com/artist/6TV4EsauTqkvsZATrn2YBc) | [Eu Não Vou Embora](https://open.spotify.com/album/14RCRBM3i7efqqwxQrsgHj) | 3:47 |
 | 75 | [Vou Assombrar Você](https://open.spotify.com/track/1jEtRWtkSHMa2Mr0chd7ma) | [measyou](https://open.spotify.com/artist/4zDWNcpNltzn5srR9WBNqr) | [Vou Assombrar Você](https://open.spotify.com/album/42zLC6S0krAIx0Vdo2kfyK) | 2:35 |
 
-Snapshot ID: `MCw4OGZlMjRmNzllZWExNzU2YmJhODg5MjkzNGI0YjRmMGUyZGNiNzk0`
+Snapshot ID: `MCxjZDkwNzVhZGM3ZjI3ZTE5OGE4MmU4MDY1ZTU5YmZhZmY2ZDcxNTQ5`

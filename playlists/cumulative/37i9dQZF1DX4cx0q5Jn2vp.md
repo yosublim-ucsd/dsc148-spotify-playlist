@@ -4,7 +4,7 @@
 
 > 
 
-137 songs - 8 hr 4 min
+140 songs - 8 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,6 +35,7 @@
 | [Crush](https://open.spotify.com/track/4wCD0qOFNRu1Q6O3N6ycm4) | [David Archuleta](https://open.spotify.com/artist/2C9n4tQgNLhHPhSCmdsQnk) | [David Archuleta](https://open.spotify.com/album/4aZ3Mf9Tza576UhJ9kjYd7) | 3:33 | 2022-04-04 | 2022-07-24 |
 | [Dalangin](https://open.spotify.com/track/2cIxxsxXNvOXNFVvDJpF3x) | [Earl Agustin](https://open.spotify.com/artist/48veLPCIJh5NVQxhyNRKCm) | [Dalangin](https://open.spotify.com/album/5HEC19abEhLQQ7IuNuKixV) | 4:12 | 2023-04-03 | 2023-06-29 |
 | [dancing in the kitchen](https://open.spotify.com/track/0ohcCrxZkBfFbkuRPOZQZX) | [LANY](https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF) | [dancing in the kitchen](https://open.spotify.com/album/3fHkjpHZjohpdtiJJdVtez) | 3:28 | 2022-04-04 | 2023-02-01 |
+| [DELULU](https://open.spotify.com/track/0CBDY0SfSIaVWnOFrwzSbv) | [Zack Tabudlo](https://open.spotify.com/artist/67IN4cLJ7798gUapyZlmac) | [DELULU](https://open.spotify.com/album/2RIrEQbhMyFMJo58o5bLDA) | 3:16 | 2023-10-18 |  |
 | [Dinamalayan](https://open.spotify.com/track/4Ae6ScLqE5PDYouXr9IHNR) | [Ferdinand Aragon](https://open.spotify.com/artist/199ECS30J1oOc3Ftz93dsk) | [Dinamalayan](https://open.spotify.com/album/15ttDPrSFEH34EZw8wpJww) | 4:54 | 2022-04-04 | 2022-07-25 |
 | [DIYOSA](https://open.spotify.com/track/12AwQOlkVNbi90XlD64qqH) | [Zack Tabudlo](https://open.spotify.com/artist/67IN4cLJ7798gUapyZlmac) | [ZACK: FOR ALL](https://open.spotify.com/album/7LVnO3GNEfzjixX3ApTY1E) | 3:30 | 2023-02-23 | 2023-03-12 |
 | [Drive](https://open.spotify.com/track/2l4ZBEYH67RwM66z0whkAI) | [December Avenue](https://open.spotify.com/artist/4qFxP3qN9GsnZDOkAE6x2m) | [Drive](https://open.spotify.com/album/2twlPZI6mnkHbuC9amSwzy) | 3:42 | 2022-04-04 | 2022-07-14 |
@@ -57,7 +58,7 @@
 | [Habang Buhay](https://open.spotify.com/track/0zANeX4R6uWb82gCQAguOD) | [Zack Tabudlo](https://open.spotify.com/artist/67IN4cLJ7798gUapyZlmac) | [Habang Buhay](https://open.spotify.com/album/7Mp9hdsWS0vbxKvYkT77hS) | 4:04 | 2022-04-04 | 2022-09-03 |
 | [Halikan Mo Na Ako](https://open.spotify.com/track/2cgrjAXP43BsOHNrqvFVTh) | [Earl Generao](https://open.spotify.com/artist/37gpPWUw01BXkRl4zg8hkk) | [Halikan Mo Na Ako](https://open.spotify.com/album/4XlvAva3Tv7UpSjHqOwD1B) | 4:09 | 2023-04-03 | 2023-06-29 |
 | [Hello](https://open.spotify.com/track/4DBVnpKVcwbrX1EhGZpNfG) | [James Reid](https://open.spotify.com/artist/24fEOzlKhgSNLIcy9NdmwH), [CARELESS](https://open.spotify.com/artist/6ZPADYpgSS0VwqZPJeX54p) | [Hello](https://open.spotify.com/album/1G7uyJNMDBiuc4U1s12oXY) | 3:27 | 2022-04-04 | 2022-06-19 |
-| [Holy \(feat\. Chance The Rapper\)](https://open.spotify.com/track/5u1n1kITHCxxp8twBcZxWy) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s), [Chance the Rapper](https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf) | [Holy](https://open.spotify.com/album/4hR7jjsPvRwwcHx8ntJSQS) | 3:32 | 2022-06-27 |  |
+| [Holy \(feat\. Chance The Rapper\)](https://open.spotify.com/track/5u1n1kITHCxxp8twBcZxWy) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s), [Chance the Rapper](https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf) | [Holy](https://open.spotify.com/album/4hR7jjsPvRwwcHx8ntJSQS) | 3:32 | 2022-06-27 | 2023-10-19 |
 | [I Like That](https://open.spotify.com/track/0kWQn0wLok1lawHAkGSMW9) | [Bazzi](https://open.spotify.com/artist/4GvEc3ANtPPjt1ZJllr5Zl) | [Infinite Dream](https://open.spotify.com/album/7CY2Iv5eX7eGAOdRNHfIBr) | 2:38 | 2022-09-05 | 2022-11-14 |
 | [I Like That](https://open.spotify.com/track/2RkZZh5XQ4y3sG8gCu96Tz) | [Bazzi](https://open.spotify.com/artist/4GvEc3ANtPPjt1ZJllr5Zl) | [I Like That](https://open.spotify.com/album/0Nu5uWgrnNGWWbWfzXPgPI) | 2:38 | 2022-06-27 | 2022-09-29 |
 | [I Love U](https://open.spotify.com/track/2FqkTu4FhwDWn9hzEaWWCE) | [The Chainsmokers](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp) | [So Far So Good](https://open.spotify.com/album/4nZ4dv1XvDE25Lf2MFhOqA) | 3:05 | 2022-09-05 | 2022-11-13 |
@@ -68,7 +69,7 @@
 | [I Really Like You](https://open.spotify.com/track/4tQUdIk3MXQHgP2sRNdrJQ) | [reon](https://open.spotify.com/artist/5jAOzTxCoR1qHXKVHsfDSr) | [I Really Like You](https://open.spotify.com/album/3AdGDEz1cYJJtYowBLEq4r) | 2:10 | 2022-04-04 | 2022-07-25 |
 | [I'll Be](https://open.spotify.com/track/5K7AMlpc4796JRWXb26nCV) | [Edwin McCain](https://open.spotify.com/artist/0L6Gwm0JDrgIQJfjarWSUR) | [Misguided Roses](https://open.spotify.com/album/1JB1Zvcddt81PiipQQC319) | 4:26 | 2023-04-03 | 2023-08-17 |
 | [I'm In Love With You](https://open.spotify.com/track/0uBdQzKghx88d2Lp8SLFKJ) | [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [I'm In Love With You](https://open.spotify.com/album/3TI3FFFz3hKQfsL0izZ8JS) | 4:22 | 2022-09-05 | 2023-03-04 |
-| [Ikaw Lamang](https://open.spotify.com/track/0bhzB5PBUVqZSux5Y7t5ED) | [Silent Sanctuary](https://open.spotify.com/artist/4nGp682WMiKS4X217kPw8C) | [Fuchsiang Pag\-Ibig](https://open.spotify.com/album/6MC4GloSqK2sSTLeYImDV3) | 5:06 | 2022-11-24 |  |
+| [Ikaw Lamang](https://open.spotify.com/track/0bhzB5PBUVqZSux5Y7t5ED) | [Silent Sanctuary](https://open.spotify.com/artist/4nGp682WMiKS4X217kPw8C) | [Fuchsiang Pag\-Ibig](https://open.spotify.com/album/6MC4GloSqK2sSTLeYImDV3) | 5:06 | 2022-11-24 | 2023-10-19 |
 | [Ikaw Lamang](https://open.spotify.com/track/2v5VIWMjZxeiG52KckiXxS) | [Silent Sanctuary](https://open.spotify.com/artist/4nGp682WMiKS4X217kPw8C) | [Fuchsiang Pag\-Ibig](https://open.spotify.com/album/08SEZDvRXrrNs1C2y73MLi) | 5:06 | 2022-04-04 | 2023-01-08 |
 | [Ikaw Pa Rin](https://open.spotify.com/track/4z7xboLD3PqY9dOUscS2ly) | [mrld](https://open.spotify.com/artist/31fsDbpNPKe346urriO4ma) | [Ikaw Pa Rin](https://open.spotify.com/album/6yoXzcdZwga0Gqmmqkvz1k) | 3:11 | 2022-11-11 |  |
 | [INS\-REPLAY, Vol\. 4: Creating Love](https://open.spotify.com/track/0tsHRP5lcvk5veXznLFKrG) | [Ysabelle Cuevas](https://open.spotify.com/artist/323nxrsc0C5JSsmlN2srN8) | [INS\-REPLAY, Vol\. 4: Creating Love](https://open.spotify.com/album/7wDpvJ3PXKejpKqxoz0l7D) | 3:35 | 2022-04-04 | 2022-07-29 |
@@ -84,6 +85,7 @@
 | [Let's Fall in Love for the Night](https://open.spotify.com/track/6I0KEvFfWszVJiCy5hum4V) | [FINNEAS](https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX) | [Blood Harmony](https://open.spotify.com/album/0qRnyZEgvqF96kGSZALooq) | 3:10 | 2022-09-05 |  |
 | [Let's Fall in Love for the Night](https://open.spotify.com/track/7kQkmyoHCEqwe7QwDbkSXM) | [FINNEAS](https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX) | [Let’s Fall In Love For The Night](https://open.spotify.com/album/3LONldJV06J1AHEph6lopK) | 3:10 | 2022-06-27 | 2022-10-13 |
 | [Ligaw Tingin](https://open.spotify.com/track/1sb94XlK6C8VETUPeMpzjq) | [Zildjian Parma](https://open.spotify.com/artist/7mpEg5WV7rNQSLwxxVJ4kk) | [Ligaw Tingin](https://open.spotify.com/album/1Z55VsiKo1lpe4n03B2iL9) | 4:16 | 2022-11-24 | 2023-02-23 |
+| [Lihim](https://open.spotify.com/track/2K0CH6BtfBtY7wMnsKIuzo) | [Arthur Miguel](https://open.spotify.com/artist/2Ev7vtPI38BE2kQvwmH4ce) | [Lihim](https://open.spotify.com/album/2FIBgr9TXQpqItmTNIT89U) | 4:06 | 2023-10-18 |  |
 | [Little Things](https://open.spotify.com/track/1bnrJZhVSy0gDif2aZBVdj) | [TJ Monterde](https://open.spotify.com/artist/7LvDTuFCBv08xm6u1pOMK0), [YELO](https://open.spotify.com/artist/2SIjieAwLcihB5fZ7HfHmD) | [Little Things](https://open.spotify.com/album/5eExz4zgc3wXgm5ihEbkPY) | 3:19 | 2022-06-27 | 2022-07-13 |
 | [Love Back](https://open.spotify.com/track/7weX6syqklVQocpVVmDNwI) | [Why Don't We](https://open.spotify.com/artist/2jnIB6XdLvnJUeNTy5A0J2) | [Love Back](https://open.spotify.com/album/4WVPdkba5QybMBD8szrRwB) | 3:05 | 2022-04-04 | 2022-06-11 |
 | [Love Me Like That](https://open.spotify.com/track/1lhm29o3syw122xynSKaAK) | [Sam Kim](https://open.spotify.com/artist/4BBN286rBKyCWsSPq2cxYO) | [Nevertheless, \(Original Television Soundtrack, Pt\. 6\)](https://open.spotify.com/album/4MLxdCgljBck6ddj3BKFTi) | 3:31 | 2022-04-04 | 2023-09-25 |
@@ -106,7 +108,7 @@
 | [Older](https://open.spotify.com/track/0BCUve4b3KySD9Sk8CMZ2i) | [Conor Matthews](https://open.spotify.com/artist/5iWU68xnsNiacwbt1fYEcq) | [Balloons](https://open.spotify.com/album/09S5w5SKC7r0Mjewzmc0jX) | 3:20 | 2022-04-04 | 2022-07-28 |
 | [Once in a Lifetime](https://open.spotify.com/track/49ExR0iSivJlXcMhwXlleb) | [Freestyle](https://open.spotify.com/artist/0jarApAsbmiCkYhz0590mE) | [Once In A Lifetime](https://open.spotify.com/album/5LmJO14NtbCxNlGs6iXDjv) | 4:15 | 2022-04-04 | 2022-07-29 |
 | [One Last Dance \(feat\. Milky Day\)](https://open.spotify.com/track/1ebn8pmLr7RDAzrBaIpsw8) | [Thomas Ng](https://open.spotify.com/artist/2ZeeJPDvqzQ7c8iG3rRsyc), [Milky Day](https://open.spotify.com/artist/7FIqXqYZHMomTAcTXF4UHu) | [One Last Dance \(feat\. Milky Day\)](https://open.spotify.com/album/4vXSnmAf2LYQgslL8vgeBQ) | 2:53 | 2022-04-04 | 2022-07-24 |
-| [Orasa](https://open.spotify.com/track/7tEmYgysfhAr3s5hEa8nlc) | [Dilaw](https://open.spotify.com/artist/6Dp4LInLyMVA2qhRqQ6AGL) | [Orasa](https://open.spotify.com/album/7woEJoOxFLpPu8Ba2Pw7eq) | 3:48 | 2023-09-13 |  |
+| [Orasa](https://open.spotify.com/track/7tEmYgysfhAr3s5hEa8nlc) | [Dilaw](https://open.spotify.com/artist/6Dp4LInLyMVA2qhRqQ6AGL) | [Orasa](https://open.spotify.com/album/7woEJoOxFLpPu8Ba2Pw7eq) | 3:48 | 2023-09-13 | 2023-10-19 |
 | [Pagtingin](https://open.spotify.com/track/7178ubXeY1sFOqdNkKrUwb) | [Ben&Ben](https://open.spotify.com/artist/4DAcJXcjX0zlQAZAPAx4Zb) | [Pagtingin](https://open.spotify.com/album/4a0SAaOEW4bxKEvSqSDoQz) | 3:47 | 2022-04-04 | 2022-07-29 |
 | [Patutunguhan](https://open.spotify.com/track/1EP2WyCX9Q7y24bKPSZ0tc) | [Cup of Joe](https://open.spotify.com/artist/61nn6nOoLWjVC1ER2qFAvN) | [Patutunguhan](https://open.spotify.com/album/6UPgk02gaRFzLqy15dFH3I) | 4:12 | 2023-07-26 | 2023-08-10 |
 | [Perfectly Imperfect](https://open.spotify.com/track/6UrfCXDyGaLbDVkAvuOTFS) | [Jayda](https://open.spotify.com/artist/3FQsMtWVaHHjCbumwaDKER), [Jeremy G](https://open.spotify.com/artist/5BukDmriB1WrLFDavZzHdJ) | [Perfectly Imperfect](https://open.spotify.com/album/2iDrdt40iEFpT2BsjlyRSh) | 4:19 | 2022-04-04 | 2022-07-28 |
@@ -143,6 +145,7 @@
 | [You Bring Out My Best](https://open.spotify.com/track/1bnQe2C11P4SFzcRPSIkxe) | [Orange & Lemons](https://open.spotify.com/artist/1EUmQM6xgUQLUkJVcvSdey) | [You Bring Out My Best](https://open.spotify.com/album/52b8Uwpk9dQJYYBAOUiDzr) | 2:55 | 2022-06-27 | 2022-07-12 |
 | [you were good to me](https://open.spotify.com/track/4CxFN5zON70B3VOPBYbd6P) | [Jeremy Zucker](https://open.spotify.com/artist/3gIRvgZssIb9aiirIg0nI3), [Chelsea Cutler](https://open.spotify.com/artist/5JMLG56F1X5mFmWNmS0iAp) | [brent](https://open.spotify.com/album/16mjtcKPxpQ4ajFHmJ0hJC) | 3:39 | 2022-06-27 |  |
 | [you!](https://open.spotify.com/track/4lSMKPkbZOAYPw3zxJ2eAF) | [LANY](https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF) | [you!](https://open.spotify.com/album/5Ob72SRWEGd36eRlASw6k2) | 4:34 | 2022-04-04 | 2022-07-29 |
+| [You'll Be Safe Here](https://open.spotify.com/track/2MU7C3czJUhO7KJ2yumoB1) | [Moira Dela Torre](https://open.spotify.com/artist/0rZRTXEmmPmx6gt92tBqIc) | [You'll Be Safe Here](https://open.spotify.com/album/0R09cayA4ShMtoaAVWgao4) | 5:03 | 2023-10-18 |  |
 | [Your Song](https://open.spotify.com/track/0D1ecMMsSIpJbjPoJMHGkV) | [Parokya Ni Edgar](https://open.spotify.com/artist/2XHTklRsNMOOQT56Zm3WS4) | [Bigotilyo](https://open.spotify.com/album/6iUGtPyYDUQn9faXr81A3f) | 2:48 | 2022-11-24 |  |
 | [Your Song](https://open.spotify.com/track/3OpGUlDmRUXh0NkIYWoIlD) | [Parokya Ni Edgar](https://open.spotify.com/artist/2XHTklRsNMOOQT56Zm3WS4) | [Bigotilyo](https://open.spotify.com/album/0kV35wyXIJKk04VRG0DdF4) | 2:48 | 2022-04-04 | 2022-11-12 |
 

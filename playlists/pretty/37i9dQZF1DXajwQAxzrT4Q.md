@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXajwQAxzrT4Q.md) - [plain]
 
 > Bounce to the Brick City sound\. From New Jersey to the world\. Cover: Lay Bankz
 
-[Spotify](https://open.spotify.com/user/spotify) - 67,933 likes - 75 songs - 3 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 68,040 likes - 75 songs - 3 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -71,8 +71,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXajwQAxzrT4Q.md) - [plain]
 | 61 | [Orange Soda \- Jersey Club Remix](https://open.spotify.com/track/6Pj3meDGkdOCufJoDO9sDJ) | [Sjayy](https://open.spotify.com/artist/0X0hwDJnBd4NjGLDsCcNSc) | [Orange Soda \(Jersey Club Remix\)](https://open.spotify.com/album/1bB4TDuBMLrSIRBR6Yyn9O) | 1:51 |
 | 62 | [Pretty Girl](https://open.spotify.com/track/6O8qiaMZOwgC0lEkTVuu9x) | [Cookiee Kawaii](https://open.spotify.com/artist/0DbBBj0ScPumRqKXswGQH1) | [Pretty Girl](https://open.spotify.com/album/1vfo2y4jCMjVXo2XZ6oA5h) | 2:15 |
 | 63 | [Day Ones](https://open.spotify.com/track/77oV9hbYmMtPGmVxk6qRqp) | [DJ Sliink](https://open.spotify.com/artist/0t9dGS12PMZmiJiZa9vpyk), [SAFE](https://open.spotify.com/artist/3bnpcWBcvlfq4hPFJjNPbz) | [Day Ones](https://open.spotify.com/album/4STghfPx4foktyWk2TCJWq) | 2:42 |
-| 64 | [Da Girls \- Dance Mix](https://open.spotify.com/track/6tOKaJyfdulCnW70cmCUHx) | [Ciara](https://open.spotify.com/artist/2NdeV5rLm47xAvogXrYhJX), [Lay Bankz](https://open.spotify.com/artist/4OVbrPbhvK46A1uXTU1u5F) | [Da Girls \(Dance Mix\)](https://open.spotify.com/album/6sXiCimlYj6lHEowy0khmz) | 2:26 |
-| 65 | [Anxious](https://open.spotify.com/track/7E88f39Uum7WujbktVHUxM) | [Lay Bankz](https://open.spotify.com/artist/4OVbrPbhvK46A1uXTU1u5F) | [Anxious](https://open.spotify.com/album/70xcTsZtiHwFKcMaHYHMt6) | 2:01 |
+| 64 | [Anxious](https://open.spotify.com/track/7E88f39Uum7WujbktVHUxM) | [Lay Bankz](https://open.spotify.com/artist/4OVbrPbhvK46A1uXTU1u5F) | [Anxious](https://open.spotify.com/album/70xcTsZtiHwFKcMaHYHMt6) | 2:01 |
+| 65 | [Da Girls \- Dance Mix](https://open.spotify.com/track/6tOKaJyfdulCnW70cmCUHx) | [Ciara](https://open.spotify.com/artist/2NdeV5rLm47xAvogXrYhJX), [Lay Bankz](https://open.spotify.com/artist/4OVbrPbhvK46A1uXTU1u5F) | [Da Girls \(Dance Mix\)](https://open.spotify.com/album/6sXiCimlYj6lHEowy0khmz) | 2:26 |
 | 66 | [The 90s Lied To Us](https://open.spotify.com/track/04b2YLqewR7aMOwGnwXuUJ) | [Dave Childz](https://open.spotify.com/artist/7isyse6k2xFXsZLAE7gwdk) | [The 90s Lied To Us](https://open.spotify.com/album/0BmDsHZemgIKdH98eIOS95) | 1:43 |
 | 67 | [BE FORREAL](https://open.spotify.com/track/1RmJwFy8hk4VHTSJPU3nm9) | [DJ Smallz 732](https://open.spotify.com/artist/6GrHfxMFCXCdIhN9DrAxjK), [Big Bam](https://open.spotify.com/artist/2NkyvcYEasg0Yd4a6domnq), [DJ Blizz](https://open.spotify.com/artist/1QkWDabKuR7G7AcFLaN1hq) | [BE FORREAL](https://open.spotify.com/album/01l5PzKJarsRsihuxKfX1h) | 1:26 |
 | 68 | [Put Cha Back In It](https://open.spotify.com/track/5PYxnArK4wlkX5qYENV5Ac) | [DJ Sliink](https://open.spotify.com/artist/0t9dGS12PMZmiJiZa9vpyk) | [Vibrate EP](https://open.spotify.com/album/4Z7nLkNRHfL3RRAqECtTEe) | 2:08 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXajwQAxzrT4Q.md) - [plain]
 | 74 | [\#miles \(DJ Sliink Remix\)](https://open.spotify.com/track/4OWGtEwXCFTopkKyEZv0ur) | [skaiwater](https://open.spotify.com/artist/1URVdcNYXigvk6Dj0fHYOM), [DJ Sliink](https://open.spotify.com/artist/0t9dGS12PMZmiJiZa9vpyk) | [\#miles \(DJ Sliink Remix\)](https://open.spotify.com/album/6edZ2TEStQvGjvtTuv20mK) | 3:16 |
 | 75 | [Hatin' Ass Bitches Anthem](https://open.spotify.com/track/31a8W1uih2MM9VDogfbbft) | [Mvntana](https://open.spotify.com/artist/2R1eaUL6px3ayM1FT776ki), [Flyy TheProducer](https://open.spotify.com/artist/74iuhv9ckDRfg4fGDaOMTG), [Pyt Ny](https://open.spotify.com/artist/2nUK9dIcPlhwjBZ8H6kBKy), [Dj Blizz](https://open.spotify.com/artist/2zYaRrKIuHRb2zeseymcUu) | [Hatin' Ass Bitches Anthem](https://open.spotify.com/album/75l0Wfo3Y4SCb7jkk8Rn10) | 1:56 |
 
-Snapshot ID: `MCxkMjA2OTg2ODhkNTg1YjE0MjkyODlmNmJkZjEwNTg3ODlkZmY1NjU2`
+Snapshot ID: `MCwzNjU4ZTIyODU1OWIwZGZhNjI5ZmVjMjA3OWI5OGQyMTNjYzc4ZmY3`

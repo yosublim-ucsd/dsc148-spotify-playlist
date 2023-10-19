@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3EbcelyrZPd.md) - [plain]
 
 > Get your fill of vibes straight out of Tanzania\. Cover: Marioo
 
-[Spotify](https://open.spotify.com/user/spotify) - 70,566 likes - 70 songs - 4 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 70,618 likes - 70 songs - 4 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3EbcelyrZPd.md) - [plain]
 | 4 | [Achii \(feat\. Koffi Olomide\)](https://open.spotify.com/track/2SSmMYLJ7ODOSxULNUemVa) | [Diamond Platnumz](https://open.spotify.com/artist/3cAisWS37sGCCtRgWfvrod), [Koffi Olomide](https://open.spotify.com/artist/7e14Bh8oZXNRmZxjhhTARb) | [Achii \(feat\. Koffi Olomide\)](https://open.spotify.com/album/4rNuUOxQYWQA2romhOnmCS) | 4:22 |
 | 5 | [Wapo](https://open.spotify.com/track/1XPxQpP5eFmfp21sdY89xl) | [Mavokali](https://open.spotify.com/artist/5EIk6BWcEKUeHgmM0vD0cX), [Jux](https://open.spotify.com/artist/2ZLAPSgdMTOcovno5mGBZW) | [Wapo](https://open.spotify.com/album/0sSuteqvC4BO0roqNxF62I) | 3:12 |
 | 6 | [Ndembe Ndembe](https://open.spotify.com/track/6j2HEYoVmkqzyaAqs6sopH) | [Bytar Beast](https://open.spotify.com/artist/5uCIQxTHZlW51VhsXAZ6P4), [Marioo](https://open.spotify.com/artist/4ZTqTkO2kj1doQrbqQ5KEe), [Jaivah](https://open.spotify.com/artist/6MKLtjYnjCD7u87mPsvJo3) | [Ndembe Ndembe](https://open.spotify.com/album/6D8BUghs6xR4dnjD2Mjbcq) | 4:02 |
-| 7 | [Shem](https://open.spotify.com/track/3h79qNlIy82yBRBsNZzz0X) | [Ibraah](https://open.spotify.com/artist/0Dxcbz9hjyAdLULzwZcxWe) | [Shem](https://open.spotify.com/album/207IYo6buHozAMNN4lp98r) | 3:29 |
+| 7 | [Shem](https://open.spotify.com/track/3h79qNlIy82yBRBsNZzz0X) | [Ibraah](https://open.spotify.com/artist/0Dxcbz9hjyAdLULzwZcxWe), [DJ Tarico](https://open.spotify.com/artist/33CYyUywVRqTra6IdaQ35H) | [Shem](https://open.spotify.com/album/207IYo6buHozAMNN4lp98r) | 3:29 |
 | 8 | [Love Song](https://open.spotify.com/track/57dxObrS7BrzycOrKK9Z3k) | [Marioo](https://open.spotify.com/artist/4ZTqTkO2kj1doQrbqQ5KEe), [Alikiba](https://open.spotify.com/artist/2nGoKcLdXktxEXvMdTDsIT) | [Love Song](https://open.spotify.com/album/3AJ5ucxVHyDDjYRf7fAeHE) | 3:28 |
 | 9 | [Sawa](https://open.spotify.com/track/7Brx47p9jy0bF0NoZ6MYdB) | [Jay Melody](https://open.spotify.com/artist/58JfjeSwt2vRDspRRp1b70) | [Sawa](https://open.spotify.com/album/5UjFk656mvckQJGUhW1Bg8) | 3:23 |
 | 10 | [No Body \(feat\. Bien\)](https://open.spotify.com/track/3h8WG1R3M5bWYiRkCB1xYQ) | [Darassa](https://open.spotify.com/artist/34iDTihXiyRsnPa8dCF05a), [Bien](https://open.spotify.com/artist/2zhossaaVN2pXg5p8o101X) | [No Body \(feat\. Bien\)](https://open.spotify.com/album/1Ak0wGHeJQaTQJKoVrid6d) | 3:23 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3EbcelyrZPd.md) - [plain]
 | 69 | [Lonely](https://open.spotify.com/track/5POWdKYIuBfd2KvSPUtwIK) | [Marioo](https://open.spotify.com/artist/4ZTqTkO2kj1doQrbqQ5KEe), [Abbah](https://open.spotify.com/artist/4hIkgBZ3paEVhtceKiMiBV) | [The Kid You Know](https://open.spotify.com/album/4TBTg0A1DKJHDiOXwJ3m84) | 4:12 |
 | 70 | [Maokoto](https://open.spotify.com/track/0ldVedbqs0hXp8ijwVUQoQ) | [Billnass](https://open.spotify.com/artist/2M65k1sV0TdWJxtHBR4YI4), [Marioo](https://open.spotify.com/artist/4ZTqTkO2kj1doQrbqQ5KEe) | [Maokoto](https://open.spotify.com/album/6pn4PsDQDZ5BE2f50TihaU) | 3:36 |
 
-Snapshot ID: `MCxjNWMyYjc0OWQ5MDI0ODU1NTk5NDI5Y2Y3ODk2NmE3NTY0ODk4YzU0`
+Snapshot ID: `MCw1ZTAyOWRlMmY0ODM0YjI2NTljYjkxOTU1OTMyN2UzNDMyYjNiM2Zk`

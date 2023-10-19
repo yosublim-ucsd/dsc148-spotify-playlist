@@ -4,7 +4,7 @@
 
 > El hogar de tu nueva canción favorita\. Foto: Troye Sivan
 
-158 songs - 9 hr 5 min
+159 songs - 9 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,6 +22,7 @@
 | [Back To Life](https://open.spotify.com/track/3HqPsN2UyQAn4QxMJKbs1w) | [Poolside](https://open.spotify.com/artist/5szdY7KaSi7epwyffrbV8c), [Panama](https://open.spotify.com/artist/3W9UldYu0xJcaOAw2SUTDI) | [Back To Life](https://open.spotify.com/album/7aJdFN1wN5WTF9kP0tJQVz) | 4:13 | 2023-08-11 | 2023-10-14 |
 | [Bad Habit](https://open.spotify.com/track/5CM4UuQ9Gnd6K2YyKGPMoK) | [Steve Lacy](https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp) | [Bad Habit](https://open.spotify.com/album/69JpAhN3XgLkOsJ7MCtW4V) | 3:52 | 2023-03-10 |  |
 | [Black Friday](https://open.spotify.com/track/1XTY6rA7XQosc0ynkkE9kN) | [Tom Odell](https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX) | [Black Friday](https://open.spotify.com/album/0BdmqjXLz0L6gF78ldUYHp) | 3:41 | 2023-10-13 |  |
+| [Blood In The Water](https://open.spotify.com/track/0pZt6FBIYTgLBUE0QGH2mF) | [Normandie](https://open.spotify.com/artist/1zsOttiR3VjZRnw4Iq8Zg6) | [Flowers For The Grave](https://open.spotify.com/album/3zPoeWuvwtFwlXbvSBNGyI) | 3:34 | 2023-10-18 |  |
 | [Bones](https://open.spotify.com/track/0HqZX76SFLDz2aW8aiqi7G) | [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q) | [Bones](https://open.spotify.com/album/1Q9SnHWPNEjVM0LrBFvJ1q) | 2:45 | 2023-04-28 | 2023-09-09 |
 | [Bruise](https://open.spotify.com/track/26NhDr8bfNqIkmkFCoFdeI) | [BETWEEN FRIENDS](https://open.spotify.com/artist/2HkSsS8O2U2gPhnCGVN5vn) | [Bruise](https://open.spotify.com/album/0pzoYtS7zcG2kd7g4NUbrx) | 2:59 | 2023-04-28 | 2023-06-27 |
 | [By The Time You're Reading This](https://open.spotify.com/track/0uuxAXS1X7kH0WjC0nD6q9) | [YONAKA](https://open.spotify.com/artist/3Wcyta3gkOdQ4TfY0WyZpu) | [Welcome To My House](https://open.spotify.com/album/0ImZVp5Lh6vnyMUkQtnQIw) | 3:10 | 2023-08-04 | 2023-09-09 |

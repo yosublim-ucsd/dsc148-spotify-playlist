@@ -4,11 +4,12 @@
 
 > アニメシーンで話題のロックサウンドを1つのプレイリストに。Best & new rock anthems for anime fans\. Cover:UNISON SQUARE GARDEN
 
-83 songs - 5 hr 15 min
+85 songs - 5 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [again](https://open.spotify.com/track/4OQq1bcP12GQQXJNupxqfR) | [YUI](https://open.spotify.com/artist/5WBO8UyOuJ1l7ZBqqBimpO) | [HOLIDAYS IN THE SUN](https://open.spotify.com/album/2rOHJ6kE8LjvDegataPviX) | 4:14 | 2023-08-03 |  |
+| [Another Complex](https://open.spotify.com/track/6FZSpjDp4A6AZE0mIPUHio) | [somei](https://open.spotify.com/artist/0tVhHQ4UZHCOsvrd3wf0km) | [Another Complex](https://open.spotify.com/album/4sqKDhjSQHH4hPYPim5pMY) | 4:27 | 2023-10-17 |  |
 | [Apocalypse](https://open.spotify.com/track/4kxnkGIfIpf6VzHehCDE0E) | [RAISE A SUILEN](https://open.spotify.com/artist/6zPsF3A9PvZ4s0NG6z76up) | [Apocalypse](https://open.spotify.com/album/36omAKlaZpoqCw7P3aIe2d) | 4:12 | 2023-09-21 | 2023-10-04 |
 | [Boku no Sensou](https://open.spotify.com/track/3KhwEuqLNjHfsKaBDo1yVh) | [Shinsei Kamattechan](https://open.spotify.com/artist/1ZnuqrjIR4q8zhgriUYsSo) | [Boku no Sensou](https://open.spotify.com/album/1kA0xNfLOvk0eMeEM2M9tH) | 4:40 | 2023-08-03 | 2023-10-04 |
 | [Bokurano](https://open.spotify.com/track/7F3R31tU4vNWrdsjNrURQX) | [Eve](https://open.spotify.com/artist/58oPVy7oihAEXE0Ott6JOf) | [Bokurano](https://open.spotify.com/album/0dS6KlBzeDJQsWZ2Krmjhh) | 3:32 | 2023-08-03 | 2023-09-26 |
@@ -23,7 +24,7 @@
 | [GET BACK](https://open.spotify.com/track/7wWybh1ChBRIf1UgljRZoR) | [FLOW](https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY) | [GET BACK](https://open.spotify.com/album/5QenbKNrMQVCSD1SCH0tpo) | 3:15 | 2023-10-10 |  |
 | [GO!!!\(20周年アニバーサリーバージョン\)](https://open.spotify.com/track/2xviYduF3PGpFsxyGp4f0B) | [FLOW](https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY) | [GO!!!\(20周年アニバーサリーバージョン\)](https://open.spotify.com/album/3XMc4oQZGmdkKRznV1TTMf) | 3:59 | 2023-08-03 |  |
 | [GRAYSCALE DOMINATOR](https://open.spotify.com/track/3d3daBk3HYupo4j1QIp0yx) | [OxT](https://open.spotify.com/artist/2qaq1aaJNXMlqsdS50FDrW) | [OPENING THEME FROM TV SERIES ”THE EMINENCE IN SHADOW” 2ND SEASON](https://open.spotify.com/album/7vnKFhEQihYcVGPAClsSBL) | 3:31 | 2023-10-05 |  |
-| [Guitar, Loneliness and Blue Planet \- From CrosSing](https://open.spotify.com/track/1aA5eHoRPcuNxtJkVeWoZy) | [ZAQ](https://open.spotify.com/artist/56TyClNQ0oVZLhK2V9KhA6) | [Guitar, Loneliness and Blue Planet \- From CrosSing](https://open.spotify.com/album/2rmLgQmIb0NhFGZHz2XUhV) | 3:49 | 2023-10-03 |  |
+| [Guitar, Loneliness and Blue Planet \- From CrosSing](https://open.spotify.com/track/1aA5eHoRPcuNxtJkVeWoZy) | [ZAQ](https://open.spotify.com/artist/56TyClNQ0oVZLhK2V9KhA6) | [Guitar, Loneliness and Blue Planet \- From CrosSing](https://open.spotify.com/album/2rmLgQmIb0NhFGZHz2XUhV) | 3:49 | 2023-10-03 | 2023-10-19 |
 | [Guren no Yumiya](https://open.spotify.com/track/70p3HYq9iHZisJqpDmWd1U) | [Linked Horizon](https://open.spotify.com/artist/3eNYrVLcWfjJ9JdH9kiPJO) | [Shingeki no Kiseki](https://open.spotify.com/album/24pr7CLiiJk8rUsXcocSA4) | 5:10 | 2023-08-03 |  |
 | [Harukamirai](https://open.spotify.com/track/2vDPSojrX4aL7aiCPD7kja) | [KANKAKU PIERO](https://open.spotify.com/artist/0y7gVi2MozEY4IyyDWKWqQ) | [Iroirotoiro](https://open.spotify.com/album/79V1HfDMIGhRzw4waum5cm) | 2:57 | 2023-08-03 | 2023-09-23 |
 | [Hero's Come Back!!](https://open.spotify.com/track/2HHrHcz3gbWOwaSogkbyxh) | [FLOW](https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY) | [FLOW THE COVER ～NARUTO縛り～](https://open.spotify.com/album/2Jpgkfvp3cQIK9B0sWxatk) | 3:54 | 2023-08-29 | 2023-09-27 |
@@ -67,7 +68,7 @@
 | [シルエット](https://open.spotify.com/track/1di1C0QI6Y92yZPYn6XYAZ) | [KANA\-BOON](https://open.spotify.com/artist/3PWp9R5HvbQgxI5KBx5kVd) | [TIME](https://open.spotify.com/album/45z2ntx53Y0d42S9IpN6OH) | 4:00 | 2023-08-03 |  |
 | [ソングオブザデッド](https://open.spotify.com/track/3GPFWYiSU3CVJLqxiRt31n) | [KANA\-BOON](https://open.spotify.com/artist/3PWp9R5HvbQgxI5KBx5kVd) | [ソングオブザデッド](https://open.spotify.com/album/1djd2IEnvJiVpcaP4d9Xsk) | 3:15 | 2023-08-03 | 2023-09-21 |
 | [ソングオブザデッド](https://open.spotify.com/track/48sA84eSu3NA4iwGTARt6C) | [KANA\-BOON](https://open.spotify.com/artist/3PWp9R5HvbQgxI5KBx5kVd) | [ソングオブザデッド](https://open.spotify.com/album/06vrKo270aXhoXtN6DURUA) | 3:16 | 2023-09-19 |  |
-| [ヒカリトカゼ](https://open.spotify.com/track/2QvWBGuGgoDZCNKGbjSpmt) | [BACK\-ON](https://open.spotify.com/artist/41wiRMqVmNSZ3FFM7JIeht) | [ヒカリトカゼ](https://open.spotify.com/album/48XQcdFXosUmSHGCECFIYI) | 3:34 | 2023-10-03 |  |
+| [ヒカリトカゼ](https://open.spotify.com/track/2QvWBGuGgoDZCNKGbjSpmt) | [BACK\-ON](https://open.spotify.com/artist/41wiRMqVmNSZ3FFM7JIeht) | [ヒカリトカゼ](https://open.spotify.com/album/48XQcdFXosUmSHGCECFIYI) | 3:34 | 2023-10-03 | 2023-10-19 |
 | [ピースサイン](https://open.spotify.com/track/364JzOajs76bJymjHm3sVY) | [Kenshi Yonezu](https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB) | [BOOTLEG](https://open.spotify.com/album/1mvoieMR8Dwiy7S052ihoC) | 3:58 | 2023-08-03 |  |
 | [ポラリス](https://open.spotify.com/track/28DlaPydCnrs8NxYOnUPZ8) | [BLUE ENCOUNT](https://open.spotify.com/artist/1CWmF1EcrKoWIbZt9Ivfg2) | [Q.E.D](https://open.spotify.com/album/4DifEg0usPQvzxk6K9H04Z) | 3:44 | 2023-08-03 |  |
 | [メフィスト](https://open.spotify.com/track/45LUKiex0D78VuhP3Oz6mG) | [QUEEN BEE](https://open.spotify.com/artist/6whFEcaV75AmQMiwlfaxvc) | [メフィスト](https://open.spotify.com/album/4GlhyWqXM0Ir8083Ue9Je0) | 3:47 | 2023-08-03 |  |
@@ -80,6 +81,7 @@
 | [残響散歌](https://open.spotify.com/track/2cErTn7DU75ZILisPP34TB) | [Aimer](https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm) | [Open α Door](https://open.spotify.com/album/4BJ7PY6YSfHY9pu2nDFBiy) | 3:04 | 2023-08-03 |  |
 | [火炎](https://open.spotify.com/track/4k2GMy34pt5rQT9aVEzEwq) | [QUEEN BEE](https://open.spotify.com/artist/6whFEcaV75AmQMiwlfaxvc) | [火炎\(Full Edition\)](https://open.spotify.com/album/6DdJGNawJYKpYq6A9hwcfp) | 3:35 | 2023-08-03 | 2023-09-06 |
 | [熱情のスペクトラム](https://open.spotify.com/track/1p0WZg4NXoNVGj2AuoLJe7) | [Ikimonogakari](https://open.spotify.com/artist/5YneEA2nLtAhkD5t2769lZ) | [Chou Ikimonobakari Tennen Kinen Members Best Selection](https://open.spotify.com/album/6CM8A3Uhws8mAcNOxpBRNq) | 3:43 | 2023-08-03 | 2023-10-04 |
+| [生きていかなくちゃ](https://open.spotify.com/track/0WLoee5mkv9SqDoIdpXuuS) | [Centimillimental](https://open.spotify.com/artist/0aRqEPPTtQd3pGuB4tJxVw) | [生きていかなくちゃ / 死んだっていい](https://open.spotify.com/album/4E5HX5R5DHJqM9qPQW1mzU) | 4:15 | 2023-10-17 |  |
 | [秘密](https://open.spotify.com/track/1sY7Loshp5UXmBioLDC0nq) | [KOTORI](https://open.spotify.com/artist/6NlY4hC3DxmaCG2rSZv0fL) | [秘密](https://open.spotify.com/album/7mgvVMjKAxuLAMbbPFqCHP) | 3:27 | 2023-10-03 | 2023-10-05 |
 | [第ゼロ感](https://open.spotify.com/track/3GGOKTfxgyluPvAFnB30zE) | [10\-FEET](https://open.spotify.com/artist/0QZqdhoRQkn1VphAa5eX8h) | [第ゼロ感](https://open.spotify.com/album/7hUGSAApToftQu366lqPVf) | 4:47 | 2023-08-03 | 2023-10-04 |
 | [紅蓮華](https://open.spotify.com/track/0qMip0B2D4ePEjBJvAtYre) | [LiSA](https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv) | [LEO\-NiNE](https://open.spotify.com/album/6qi56zXbhq7PU5lvzWNXIO) | 3:57 | 2023-08-03 |  |

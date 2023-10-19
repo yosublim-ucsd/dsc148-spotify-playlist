@@ -4,7 +4,7 @@
 
 > Semplicemente noi.
 
-288 songs - 15 hr 20 min
+289 songs - 15 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -165,6 +165,7 @@
 | [MIDDLE OF THE NIGHT](https://open.spotify.com/track/58HvfVOeJY7lUuCqF0m3ly) | [Elley Duhé](https://open.spotify.com/artist/67MNhiAICFY6Pwc2YxCO0K) | [MIDDLE OF THE NIGHT](https://open.spotify.com/album/4hYYpUC8Ewb74tP23Y1lmM) | 3:04 | 2022-04-27 | 2022-09-30 |
 | [Millevoci](https://open.spotify.com/track/2Jn6Aiv9uOkNcPa1kHNCpc) | [Albe](https://open.spotify.com/artist/6eBpe3hqpzEJPqh8bREqI6) | [Millevoci](https://open.spotify.com/album/4azqvj4Ltqi9InIvlXMLDY) | 3:02 | 2022-04-27 | 2022-07-29 |
 | [Miss You](https://open.spotify.com/track/73vIOb4Q7YN6HeJTbscRx5) | [Oliver Tree](https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe), [Robin Schulz](https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S) | [Miss You](https://open.spotify.com/album/32G4vFNwLJQjpzkOoGEUUo) | 3:26 | 2023-01-23 | 2023-10-12 |
+| [Miss You \- Bonus Track](https://open.spotify.com/track/1ypwNj8eK2qAMDEs4EiIIX) | [Oliver Tree](https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe), [Robin Schulz](https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S) | [Alone In A Crowd](https://open.spotify.com/album/0x6KKhlAIZsuU6SVgSX9E9) | 3:26 | 2023-09-28 |  |
 | [Monster \(Shawn Mendes & Justin Bieber\)](https://open.spotify.com/track/2Z8yfpFX0ZMavHkcIeHiO1) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr), [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [Monster](https://open.spotify.com/album/3yVVL2EYLp8g7gT08VvYKy) | 2:58 | 2022-10-27 | 2023-01-24 |
 | [Morositas \(feat\. Random\)](https://open.spotify.com/track/27277KJCbi8x5e7JVDd5Gv) | [Federica Carta](https://open.spotify.com/artist/0vQk2DnpCtSLT8QeMbCE6L), [Random](https://open.spotify.com/artist/05kigUQCchmbJDmhDiYiS0) | [Morositas \(feat\. Random\)](https://open.spotify.com/album/5huGAzlyS2vuRpO28Ees5x) | 2:58 | 2022-04-27 | 2022-07-29 |
 | [morto per te](https://open.spotify.com/track/4d8O9ToOXyYIAonpTWrqMw) | [FOLLYA](https://open.spotify.com/artist/2uztPVbnSmRuYUXqmGLmnz) | [morto per te](https://open.spotify.com/album/6Cpg3w0gfAqMxp3wpRd5qq) | 3:14 | 2022-04-27 | 2022-05-27 |
@@ -235,7 +236,7 @@
 | [SNAP](https://open.spotify.com/track/0QPRDC97rIQB3Jh3hrVJoH) | [Rosa Linn](https://open.spotify.com/artist/46xBNx0j6cwY6sD9LgMTm1) | [SNAP](https://open.spotify.com/album/4Cv9qCS1q3FDyyRFHGyc1g) | 2:59 | 2022-07-26 | 2022-08-19 |
 | [SNAP](https://open.spotify.com/track/76OGwb5RA9h4FxQPT33ekc) | [Rosa Linn](https://open.spotify.com/artist/46xBNx0j6cwY6sD9LgMTm1) | [SNAP](https://open.spotify.com/album/4fb1QzgTJpTk9TBjFzjmlR) | 2:59 | 2022-07-29 | 2022-09-30 |
 | [SNAP \- Italian](https://open.spotify.com/track/2jLW0YomEl9zIal6P7QPpc) | [Rosa Linn](https://open.spotify.com/artist/46xBNx0j6cwY6sD9LgMTm1), [Alfa](https://open.spotify.com/artist/7GacyaFUp0qkEJglERX9N7) | [SNAP PACK](https://open.spotify.com/album/3CVEB0FPk25Ds64ALgxjH7) | 3:00 | 2022-09-29 | 2023-01-24 |
-| [Someone To You](https://open.spotify.com/track/14BH4qO7pgCmIe6mgLKOK3) | [BANNERS](https://open.spotify.com/artist/4qWnlmXWuGv2TtuxtIWlJX) | [Empires On Fire](https://open.spotify.com/album/6ErxPYc0KcJgLzQnpMGsth) | 3:39 | 2022-10-27 |  |
+| [Someone To You](https://open.spotify.com/track/14BH4qO7pgCmIe6mgLKOK3) | [BANNERS](https://open.spotify.com/artist/4qWnlmXWuGv2TtuxtIWlJX) | [Empires On Fire](https://open.spotify.com/album/6ErxPYc0KcJgLzQnpMGsth) | 3:39 | 2022-10-27 | 2023-10-19 |
 | [Sono un bravo ragazzo un po' fuori di testa](https://open.spotify.com/track/4fllTuc6KM95uB3ZqqiGYd) | [Random](https://open.spotify.com/artist/05kigUQCchmbJDmhDiYiS0) | [Sono un bravo ragazzo un po' fuori di testa](https://open.spotify.com/album/6a8UGBGszHZc47vdsI121Q) | 2:50 | 2022-05-30 | 2022-06-30 |
 | [Sottovoce](https://open.spotify.com/track/0QwlGKxgBzz10Vs3Hu1Ofd) | [Sissi](https://open.spotify.com/artist/6P7jNZ4DCs766yu5td601i) | [HOT PARTY BACK TO SCHOOL 2022](https://open.spotify.com/album/1xybf1vMF8lcAQnvC3r2x9) | 3:22 | 2022-10-27 | 2023-01-24 |
 | [Splash](https://open.spotify.com/track/7EZcLhi3EhKMb408cHOQOU) | [Colapesce](https://open.spotify.com/artist/2KX2VLr3Eu6sn6EtxzCtvf), [Dimartino](https://open.spotify.com/artist/1k3zqz5SgrYCE0wpcfJX3g) | [Splash](https://open.spotify.com/album/7963LrIHyvVfjRCIQWc55t) | 3:29 | 2023-02-17 | 2023-03-31 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWz3YvZd9NIz.md) - [plain]
 
 > The best remixes of popular tracks!
 
-[Spotify](https://open.spotify.com/user/spotify) - 119,638 likes - 70 songs - 3 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 119,812 likes - 70 songs - 3 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -70,7 +70,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWz3YvZd9NIz.md) - [plain]
 | 60 | [Oh Fortuna \- Carmina Burana](https://open.spotify.com/track/1EvtCODhDxZAg8xqe5cqev) | [Timmy Trumpet](https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ), [SMVGGLERS](https://open.spotify.com/artist/05TBQxRfomIdi2xJWLgQoM), [Henrique Camacho](https://open.spotify.com/artist/2NTtIgPZyELENThAeqfvR6) | [Oh Fortuna](https://open.spotify.com/album/65JHmOAmfng9D1jKIcwza0) | 2:50 |
 | 61 | [Died In Your Arms \(Reloaded\)](https://open.spotify.com/track/4fc381V6V17JS7RqXH2E7M) | [Harris & Ford](https://open.spotify.com/artist/4FDj6mh458K7m9Txwyj2rt), [Sound Rush](https://open.spotify.com/artist/7IFPeV5Ew63S7Hid0AjNgK) | [Died In Your Arms \(Reloaded\)](https://open.spotify.com/album/3LPz0XaYhxXM3NoqwFQEko) | 3:58 |
 | 62 | [Miracle](https://open.spotify.com/track/0cdR2RfFyCknWBh7ghM8RU) | [Bloodlust](https://open.spotify.com/artist/1vDMUXdbIJHTSC8ZAf2Zqp) | [Miracle](https://open.spotify.com/album/4YK343jFNgtXS9jISVqImF) | 3:25 |
-| 63 | [Axel F](https://open.spotify.com/track/4Aq5dvUPgdaEEvaEGl2NLz) | [Jordiz](https://open.spotify.com/artist/5xUW4ugFxRJtCe7RLIdKvV) | [Axel F](https://open.spotify.com/album/2J08oRYPpbgtskY3mRD1bJ) | 3:13 |
+| 63 | [Daddy DJ](https://open.spotify.com/track/2Rq69o9Sim7evcQ382ylPR) | [Jordiz](https://open.spotify.com/artist/5xUW4ugFxRJtCe7RLIdKvV), [Karlie Chui](https://open.spotify.com/artist/3DRMPNs23drO22bqK9ceWA) | [Daddy DJ](https://open.spotify.com/album/6Fp2vEjNNadaQMw0JgbFCZ) | 3:42 |
 | 64 | [Smells Like Teen Spirit](https://open.spotify.com/track/02uaLJya6U259ljPjJDvS3) | [N\-Vitral](https://open.spotify.com/artist/5yirHkilaq4YSjO9BY6oy3), [Deadly Guns](https://open.spotify.com/artist/1RsU9zuGACUb1NGShiFpcP) | [Smells Like Teen Spirit](https://open.spotify.com/album/2KvMTlgk0LrWqgtqQAcMvS) | 3:31 |
 | 65 | [Silence \- Brennan Heart Remix](https://open.spotify.com/track/0cfxGRaCEFKwz66bURIYz5) | [Delerium](https://open.spotify.com/artist/0IUq1plF3ON4Fboj1bE6kN), [Sarah McLachlan](https://open.spotify.com/artist/4NgNsOXSwIzXlUIJcpnNUp), [Brennan Heart](https://open.spotify.com/artist/5QySqc6yAFDx9m7fedFZmC) | [Silence \(feat\. Sarah McLachlan\) \[Brennan Heart Remix\]](https://open.spotify.com/album/3hlMZy5Z5qZnMCzDkIc0Lr) | 4:23 |
 | 66 | [Instagram \- Mandy Remix](https://open.spotify.com/track/3p69LocgURIn0HniU4SbQy) | [Dimitri Vegas & Like Mike](https://open.spotify.com/artist/73jBynjsVtofjRpdpRAJGk), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m), [Afro Bros](https://open.spotify.com/artist/3wtMPMvPtiFylbnNXF6CAj), [NATTI NATASHA](https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7), [Dimitri Vegas](https://open.spotify.com/artist/2HkAI0YrEcgoR8QdaURqhO), [MANDY](https://open.spotify.com/artist/59VlEky6rgwrcluurlvspE) | [Instagram \(The Remixes\)](https://open.spotify.com/album/154K5houWcuFT0xqGKEMC1) | 4:29 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWz3YvZd9NIz.md) - [plain]
 | 69 | [I Follow Rivers \(Deep Sea Baby\)](https://open.spotify.com/track/5LjjFLhe4QChEtBCnZBn1O) | [Darren Styles](https://open.spotify.com/artist/2gZzTzeACSwFqkMroVxmnm), [Hixxy](https://open.spotify.com/artist/79PC6rrXA39xOdNTf71dvN), [Jelle van Dael](https://open.spotify.com/artist/4CBytrQX85XtpfDzvdL3DI) | [I Follow Rivers \(Deep Sea Baby\)](https://open.spotify.com/album/1JLEsIAfoxoHV65Lq6NUAL) | 3:07 |
 | 70 | [Rhythm Of The Night](https://open.spotify.com/track/73Ql5vsFSuj7NfzTv3L0Td) | [Sound Rush](https://open.spotify.com/artist/7IFPeV5Ew63S7Hid0AjNgK) | [Rhythm Of The Night](https://open.spotify.com/album/7MHiccnSuOR4ofCDOrFfTE) | 3:10 |
 
-Snapshot ID: `MCxjZjQxZDI3YjdmZDk0MjI5YmQ1MzRhNzU4ZDZhYWJjNDU1MzNkMTE2`
+Snapshot ID: `MCw4MWY5MzY1MTZjNDJiNjg1ODI4NjEyYTA4MTM3MWQ3YTEyNmFhNGU3`

@@ -4,7 +4,7 @@
 
 > Dark, hard hitting pop\. Cover: Ari Abdul
 
-505 songs - 23 hr 14 min
+506 songs - 23 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -352,7 +352,8 @@
 | [Problems](https://open.spotify.com/track/0zPQx8X0MqfilG0dZIRXkN) | [Jake Daniels](https://open.spotify.com/artist/3AYZMgvmzNKc3cGmJUSITh) | [Problems](https://open.spotify.com/album/7ARGpnH0DV4qXGSzC08Rf2) | 2:50 | 2022-08-12 | 2023-02-04 |
 | [PSYCHO FREAK](https://open.spotify.com/track/5BH7kDLK881aVA6FiYLvzY) | [Cailin Russo](https://open.spotify.com/artist/2org0PubBAxTvjVvLo9PJ0) | [PSYCHO FREAK](https://open.spotify.com/album/4VXl7eff0Zu9XfN7Q9hEdZ) | 2:45 | 2023-01-13 | 2023-04-01 |
 | [Psychopath](https://open.spotify.com/track/2muY007Tkz4pMR9L15jlJL) | [Tomine Harket](https://open.spotify.com/artist/6064pL9Hu3Wx2bwJMeOx6o) | [Psychopath](https://open.spotify.com/album/306xhPeWyo9hurUtAbp19u) | 2:00 | 2022-04-22 | 2022-09-06 |
-| [Puppy Luv <3](https://open.spotify.com/track/70a19sYodwy0NyVRAKoqK4) | [Sizzy Rocket](https://open.spotify.com/artist/2CBvbVxhd3ZJXRTCl88H7E) | [Puppy Luv <3](https://open.spotify.com/album/5MkrPjIlUUVtgtiXTtdexE) | 2:21 | 2023-09-22 |  |
+| [Puppy Luv <3](https://open.spotify.com/track/1U2WEn5UmD3si27l6XO5WI) | [Sizzy Rocket](https://open.spotify.com/artist/2CBvbVxhd3ZJXRTCl88H7E) | [RAT](https://open.spotify.com/album/60gp59djqb5KOfCxWytU7o) | 2:21 | 2023-10-06 |  |
+| [Puppy Luv <3](https://open.spotify.com/track/70a19sYodwy0NyVRAKoqK4) | [Sizzy Rocket](https://open.spotify.com/artist/2CBvbVxhd3ZJXRTCl88H7E) | [Puppy Luv <3](https://open.spotify.com/album/5MkrPjIlUUVtgtiXTtdexE) | 2:21 | 2023-09-22 | 2023-10-19 |
 | [Purity](https://open.spotify.com/track/1BV7YtzsoKAF2cULDHLe2K) | [Lilyisthatyou](https://open.spotify.com/artist/4ExEi8SBEd3QRgwbGw2nHC) | [Purity](https://open.spotify.com/album/3yKU3194yUrl8T499qMKvQ) | 1:53 | 2022-01-21 | 2022-03-18 |
 | [Quarter Life Crisis](https://open.spotify.com/track/3W7uzoZe8xxHVv75WvhHaZ) | [Baby Queen](https://open.spotify.com/artist/4VqlewwKZJoIcA88PYHUDd) | [Quarter Life Crisis](https://open.spotify.com/album/5bTGBed0FKungdHiISflgl) | 3:03 | 2023-09-08 |  |
 | [Queen Bitch](https://open.spotify.com/track/3TyAGCbaaiQIYKKj42WO9R) | [Kailee Morgue](https://open.spotify.com/artist/245PKF3hKjtxJKIG153kF0) | [Queen Bitch](https://open.spotify.com/album/6BVkRA0sAGmRoeEp6CCJBH) | 2:41 | 2022-09-23 | 2022-11-12 |

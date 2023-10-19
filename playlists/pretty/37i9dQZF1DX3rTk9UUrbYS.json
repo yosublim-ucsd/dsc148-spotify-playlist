@@ -1,13 +1,29 @@
 {
   "description": "Avant-garde, experimental and free jazz.",
-  "num_followers": 47115,
+  "num_followers": 47141,
   "original_name": "Avant-Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1ZmM2MTM0MTUwNzI2ZDdhYzYwY2FkYzFjZjU2M2I4Y2I1MDFhZWI1",
+  "snapshot_id": "MCwyNDQwZTIzYjk1NTQ2ZDQwYWU0NmEwYzg2MGRhMDUxZjk4ODU2OGMy",
   "tracks": [
+    {
+      "added_at": "2023-10-18 15:07:58",
+      "album": {
+        "name": "No Subject",
+        "url": "https://open.spotify.com/album/2ovHJyY0S04AWDikBhgwna"
+      },
+      "artists": [
+        {
+          "name": "East Axis",
+          "url": "https://open.spotify.com/artist/0A9QoZUtf7eeT2aFWlNpr4"
+        }
+      ],
+      "duration_ms": 617333,
+      "name": "Decisions Have Already Been Made",
+      "url": "https://open.spotify.com/track/4Onumx4fzG3PyhhcRfKX7e"
+    },
     {
       "added_at": "2023-09-29 04:01:00",
       "album": {

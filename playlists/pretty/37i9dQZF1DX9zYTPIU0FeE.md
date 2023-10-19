@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9zYTPIU0FeE.md) - [plain]
 
 > Journey through the exciting and innovative sounds of South African Jazz\. Cover: <a href="https://open.spotify.com/artist/7xfBWpNiwO2yteiY68OB6C?si=EjNBNj\-rTx2PbN4oc64EcQ">Desire Marea</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,110 likes - 55 songs - 5 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,141 likes - 55 songs - 5 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,7 +35,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9zYTPIU0FeE.md) - [plain]
 | 25 | [The Migration Suite Part II](https://open.spotify.com/track/2aUgQ0RxwcOOGCrWKYwUAC) | [Sisonke Xonti](https://open.spotify.com/artist/5aoTUcGtI83q6Y8Lqvl4Pm) | [uGaba the Migration](https://open.spotify.com/album/1Igp59kX92saIgyQYTbnm7) | 7:24 |
 | 26 | [Konakele](https://open.spotify.com/track/3qKG9yS1kM7BbvKtJghsE9) | [Xhanti Nokwali](https://open.spotify.com/artist/7deeTVfFQNS9ShFtnNgQ8M) | [Umthombo](https://open.spotify.com/album/5Qg2kXcTYZWUVFAC7UYMMV) | 6:29 |
 | 27 | [Wynter Time](https://open.spotify.com/track/2SkeHeWnmngeVuukJc4QVl) | [Asher Gamedze](https://open.spotify.com/artist/0seHw20kF6a8af3qsufKyQ) | [Turbulence and Pulse](https://open.spotify.com/album/09P4xEQuIgveCiY4vGQHrZ) | 9:27 |
-| 28 | [Moshe](https://open.spotify.com/track/3JY0KovNSPcs48thjVAauQ) | [Malcolm Jiyane Tree\-O](https://open.spotify.com/artist/4OKERbN3Zv7ZLU8XfINKBH) | [UMDALI](https://open.spotify.com/album/3nXuL25LbboMeH2KfOE1U8) | 10:14 |
+| 28 | [Moshe](https://open.spotify.com/track/5KXs4lVQquPKC2vPxEuyRD) | [Malcolm Jiyane Tree\-O](https://open.spotify.com/artist/4OKERbN3Zv7ZLU8XfINKBH) | [UMDALI](https://open.spotify.com/album/6P9Zd5TpULDQd28yr50MlY) | 10:14 |
 | 29 | [Kwetu](https://open.spotify.com/track/6Veo9O8iD7ewhA5ZzB3fRh) | [Aaron Rimbui \| Ayanda Sikade \| Herbie Tsoaeli](https://open.spotify.com/artist/1MyMTjHltmrJ1A4Z79vpSo) | [Kwetu](https://open.spotify.com/album/2hNj1dmL0kfOlMUtOpcFcJ) | 5:26 |
 | 30 | [Forgive Yourself](https://open.spotify.com/track/4THmWISkZ1GAnAtLLEiT82) | [Tshepo Tsotetsi](https://open.spotify.com/artist/1CERwRqTtuEZqsny9CRF17) | [Forgive Yourself](https://open.spotify.com/album/1HLawlrJ29oemT4Bl8QE4U) | 2:26 |
 | 31 | [Free](https://open.spotify.com/track/2edZuzKyK5d0o9YLH9JfRn) | [DJ Kenzhero & Tha\_Muzik](https://open.spotify.com/artist/0hHcjndk8IV2oO2wvBA1uh), [Zarcia](https://open.spotify.com/artist/3zXWyPAkoMFgr92LxUzPvR) | [Free](https://open.spotify.com/album/0YkhA4yxHShTCkmvVOAuWI) | 5:46 |
@@ -48,7 +48,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9zYTPIU0FeE.md) - [plain]
 | 38 | [Komani](https://open.spotify.com/track/20493T1klNTt4VFVIQFosr) | [Keenan Meyer](https://open.spotify.com/artist/0JZcAWFy9viaXUHqu08nFG), [Tshepo Tsotetsi](https://open.spotify.com/artist/1WePh4qMbrAyRrkTm8Pn7q) | [The Alchemy of Living](https://open.spotify.com/album/6rC96afb0mApTsgQeA7GZb) | 6:43 |
 | 39 | [I Fall in Love Too Easily](https://open.spotify.com/track/6YKNvlxRImDvcNwA65N2mz) | [Seba Kaapstad](https://open.spotify.com/artist/6i1YUN2HJGtCdO3s17JV3V) | [Tagore's](https://open.spotify.com/album/1Ljp2q2Pk9gHrmrFfG6NfC) | 5:27 |
 | 40 | [Imithandazo Yeengelosi](https://open.spotify.com/track/3KFbmQRHOH3YufXvnJ4set) | [Ayanda Sikade](https://open.spotify.com/artist/6F9LoTvwNSxtAVFj5i6Hnh) | [Umakhulu](https://open.spotify.com/album/4OKxDZS6s45zQdFCeO2y7e) | 5:30 |
-| 41 | [Ntate Gwangwa's Stroll](https://open.spotify.com/track/4eM3xpiSyUFX1Of3EYyoM2) | [Malcolm Jiyane Tree\-O](https://open.spotify.com/artist/4OKERbN3Zv7ZLU8XfINKBH) | [Ntate Gwangwa's Stroll](https://open.spotify.com/album/3D0v4FYzpWX2bpWcujxyBQ) | 7:02 |
+| 41 | [Ntate Gwangwa's Stroll](https://open.spotify.com/track/7BPHefiIEjHBVRJ9JGzeWh) | [Malcolm Jiyane Tree\-O](https://open.spotify.com/artist/4OKERbN3Zv7ZLU8XfINKBH) | [UMDALI](https://open.spotify.com/album/6P9Zd5TpULDQd28yr50MlY) | 7:02 |
 | 42 | [Wozani Nonke Sizothandaza](https://open.spotify.com/track/5JlzEk3QTex3bOELO59xi1) | [Herbie Tsoaeli](https://open.spotify.com/artist/6W8K5VbMD7qZq60OeFgcFn) | [At This Point in Time: Voices in Volumes](https://open.spotify.com/album/0Nm6Bc09bsazARFqzfemzr) | 8:04 |
 | 43 | [A.P's Lament \(tribute to Andre Petersen\)](https://open.spotify.com/track/5YULBb9JigXJ7fR1TVQVBU) | [Robin Fassie](https://open.spotify.com/artist/5Z5yBH3PAZ2Qpp5DFHZn2d) | [A.P's Lament \(tribute to Andre Petersen\)](https://open.spotify.com/album/3Up73ni4FocnG5OH9eoVAe) | 6:16 |
 | 44 | [Rah \(feat\. Zoë Modiga\)](https://open.spotify.com/track/3CPcUIvlezozJDzmolebuT) | [Desire Marea](https://open.spotify.com/artist/7xfBWpNiwO2yteiY68OB6C), [Zoë Modiga](https://open.spotify.com/artist/6vfxDPW9Lc9tAMVy0oeqiB) | [Rah](https://open.spotify.com/album/4mycV2gcEOnp7q3LWYTMrw) | 8:55 |
@@ -64,4 +64,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9zYTPIU0FeE.md) - [plain]
 | 54 | [Nandi's Suite \(1st Mov\)](https://open.spotify.com/track/1O1qPvS595hMv3WxXprDlx) | [Ndabo Zulu](https://open.spotify.com/artist/2y5IQvsu5Q78XVuCREkQ33), [Umgidi Ensemble](https://open.spotify.com/artist/3urMiFwlK23Hjs6zd9Wr5S), [Afrika Mkhize](https://open.spotify.com/artist/6BxxONpaeoIFqbZXzlbzGf), [Ayanda Sikade](https://open.spotify.com/artist/6F9LoTvwNSxtAVFj5i6Hnh), [Linda Sikhakhane](https://open.spotify.com/artist/21Vw6haIClrf19wKkA68on), [Mbuso Khoza](https://open.spotify.com/artist/0IqdIwmnDCHg3LogqhJvpW), [Nduduzo Makhathini](https://open.spotify.com/artist/6EvFcDtvFuVugEtZNslkft), [Ngari Ndong](https://open.spotify.com/artist/3hSbU7bsDQSnZSZhbDEpAO), [Njabulo Shabalala](https://open.spotify.com/artist/0rwnXBO4t7iivrfkI6qbsq), [Shane Cooper](https://open.spotify.com/artist/2NFkaT0OaYcQiY1UsW9JtZ), [Siya Charles](https://open.spotify.com/artist/1QZspTSI3KM0AArNidhH3g), [Sphelelo Mazibuko](https://open.spotify.com/artist/0GueyvsufjRXgZBARevbZT) | [Queen Nandi: The African Symphony](https://open.spotify.com/album/5zXUIyeSDzpj1oCohjCZii) | 17:09 |
 | 55 | [Kucheza](https://open.spotify.com/track/6xSE8mjOiwe0qrIpd8YTvc) | [Shane Cooper](https://open.spotify.com/artist/2NFkaT0OaYcQiY1UsW9JtZ), [MABUTA](https://open.spotify.com/artist/4Z6IP9yKpOBbitoDKeMIFI) | [Finish The Sun](https://open.spotify.com/album/2aDnrY3VewxtdyuMCuDAAD) | 4:32 |
 
-Snapshot ID: `MCxiYzI1NmE2OGQ1ZmVlZDI0OGZmZDYwMjE5ODk4OGE4MWVhZmIxZDk3`
+Snapshot ID: `MCw3NjZmOWRkMWQ4MmU3ZTMzMmEwNzAwY2Q1OTY1NGIwOTIzZWVhZTg4`

@@ -1,12 +1,12 @@
 {
   "description": "The greatest saxophonists in Jazz. Cover: John Coltrane",
-  "num_followers": 78083,
+  "num_followers": 78199,
   "original_name": "Saxophone Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmZDA0NDAyNDQ3NDJiYzlmODVhNTEzZjNkNGVkMDBlNzQ3ZTM2MDZh",
+  "snapshot_id": "MCxkOTc1ZGZjOGJjZDc5NWU1YTczZjBlMzNhYmRhOGRlY2I4ODFjM2Jh",
   "tracks": [
     {
       "added_at": "2023-09-01 07:42:13",
@@ -299,6 +299,22 @@
     {
       "added_at": "2023-09-01 07:42:13",
       "album": {
+        "name": "Art Pepper Meets The Rhythm Section (OJC Remaster)",
+        "url": "https://open.spotify.com/album/0KVlRrpun0BBnfJFeVTLfX"
+      },
+      "artists": [
+        {
+          "name": "Art Pepper",
+          "url": "https://open.spotify.com/artist/3GpMtIOC5ZLvMBMI7IxPvA"
+        }
+      ],
+      "duration_ms": 327773,
+      "name": "You'd Be So Nice to Come Home To",
+      "url": "https://open.spotify.com/track/71KwWlZvuikRRORNH3xvCq"
+    },
+    {
+      "added_at": "2023-09-01 07:42:13",
+      "album": {
         "name": "Coleman Hawkins Encounters Ben Webster (Expanded Edition)",
         "url": "https://open.spotify.com/album/5AmT3edRjRxnDR2ZVW3QJZ"
       },
@@ -315,22 +331,6 @@
       "duration_ms": 302666,
       "name": "Rosita",
       "url": "https://open.spotify.com/track/3tzOXO0tEqbI4SCrSDhZ4J"
-    },
-    {
-      "added_at": "2023-09-01 07:42:13",
-      "album": {
-        "name": "Art Pepper Meets The Rhythm Section (OJC Remaster)",
-        "url": "https://open.spotify.com/album/0KVlRrpun0BBnfJFeVTLfX"
-      },
-      "artists": [
-        {
-          "name": "Art Pepper",
-          "url": "https://open.spotify.com/artist/3GpMtIOC5ZLvMBMI7IxPvA"
-        }
-      ],
-      "duration_ms": 327773,
-      "name": "You'd Be So Nice to Come Home To",
-      "url": "https://open.spotify.com/track/71KwWlZvuikRRORNH3xvCq"
     },
     {
       "added_at": "2023-09-01 07:42:13",
@@ -1171,18 +1171,18 @@
     {
       "added_at": "2023-09-01 07:42:13",
       "album": {
-        "name": "Cannonball Takes Charge",
-        "url": "https://open.spotify.com/album/2nrR6HvGvjglD7umMvdj66"
+        "name": "Out To Lunch (The Rudy Van Gelder Edition)",
+        "url": "https://open.spotify.com/album/3PIVqZzL1PnrxFZDzuT1aX"
       },
       "artists": [
         {
-          "name": "Cannonball Adderley Quartet",
-          "url": "https://open.spotify.com/artist/7F2B7VhQySTBRaqJqv4NDR"
+          "name": "Eric Dolphy",
+          "url": "https://open.spotify.com/artist/6rxxu32JCGDpKKMPHxnSJp"
         }
       ],
-      "duration_ms": 310866,
-      "name": "Poor Butterfly",
-      "url": "https://open.spotify.com/track/2GOnuiV0bi8oOy3eNgByYw"
+      "duration_ms": 504866,
+      "name": "Hat And Beard",
+      "url": "https://open.spotify.com/track/2VzRmb0GCPDBv6FddHGu7s"
     },
     {
       "added_at": "2023-09-01 07:42:13",
@@ -1223,18 +1223,18 @@
     {
       "added_at": "2023-09-01 07:42:13",
       "album": {
-        "name": "Out To Lunch (The Rudy Van Gelder Edition)",
-        "url": "https://open.spotify.com/album/3PIVqZzL1PnrxFZDzuT1aX"
+        "name": "Cannonball Takes Charge",
+        "url": "https://open.spotify.com/album/2nrR6HvGvjglD7umMvdj66"
       },
       "artists": [
         {
-          "name": "Eric Dolphy",
-          "url": "https://open.spotify.com/artist/6rxxu32JCGDpKKMPHxnSJp"
+          "name": "Cannonball Adderley Quartet",
+          "url": "https://open.spotify.com/artist/7F2B7VhQySTBRaqJqv4NDR"
         }
       ],
-      "duration_ms": 504866,
-      "name": "Hat And Beard",
-      "url": "https://open.spotify.com/track/2VzRmb0GCPDBv6FddHGu7s"
+      "duration_ms": 310866,
+      "name": "Poor Butterfly",
+      "url": "https://open.spotify.com/track/2GOnuiV0bi8oOy3eNgByYw"
     },
     {
       "added_at": "2023-09-01 07:42:13",
@@ -1351,18 +1351,18 @@
     {
       "added_at": "2023-09-01 07:42:13",
       "album": {
-        "name": "The Blues And The Abstract Truth",
-        "url": "https://open.spotify.com/album/6lxRA8Rl9a9XoZDCVWBzBY"
+        "name": "Warm Woods",
+        "url": "https://open.spotify.com/album/4Wfr4INnLiPK2AV443vbvH"
       },
       "artists": [
         {
-          "name": "Oliver Nelson",
-          "url": "https://open.spotify.com/artist/2nQKUeZeleLGNsJj6WLUXN"
+          "name": "Phil Woods Quartet",
+          "url": "https://open.spotify.com/artist/26wNMXNMK8k7TlGqIlTe6C"
         }
       ],
-      "duration_ms": 383400,
-      "name": "Yearnin'",
-      "url": "https://open.spotify.com/track/4L102q3UPh5dyJDUeuPVjY"
+      "duration_ms": 485226,
+      "name": "In Your Own Sweet Way",
+      "url": "https://open.spotify.com/track/0gD78Kq5CLlc1j9e9G8Ejv"
     },
     {
       "added_at": "2023-09-01 07:42:13",
@@ -1383,18 +1383,18 @@
     {
       "added_at": "2023-09-01 07:42:13",
       "album": {
-        "name": "Warm Woods",
-        "url": "https://open.spotify.com/album/4Wfr4INnLiPK2AV443vbvH"
+        "name": "The Blues And The Abstract Truth",
+        "url": "https://open.spotify.com/album/6lxRA8Rl9a9XoZDCVWBzBY"
       },
       "artists": [
         {
-          "name": "Phil Woods Quartet",
-          "url": "https://open.spotify.com/artist/26wNMXNMK8k7TlGqIlTe6C"
+          "name": "Oliver Nelson",
+          "url": "https://open.spotify.com/artist/2nQKUeZeleLGNsJj6WLUXN"
         }
       ],
-      "duration_ms": 485226,
-      "name": "In Your Own Sweet Way",
-      "url": "https://open.spotify.com/track/0gD78Kq5CLlc1j9e9G8Ejv"
+      "duration_ms": 383400,
+      "name": "Yearnin'",
+      "url": "https://open.spotify.com/track/4L102q3UPh5dyJDUeuPVjY"
     },
     {
       "added_at": "2023-09-01 07:42:13",
@@ -1447,6 +1447,22 @@
     {
       "added_at": "2023-09-01 07:42:13",
       "album": {
+        "name": "Jeru",
+        "url": "https://open.spotify.com/album/2ujmzTWpBs0rKq6lelbuWP"
+      },
+      "artists": [
+        {
+          "name": "Gerry Mulligan",
+          "url": "https://open.spotify.com/artist/6l40OFJhuTbHQ9V12evc9K"
+        }
+      ],
+      "duration_ms": 340173,
+      "name": "You've Come Home",
+      "url": "https://open.spotify.com/track/7p5a0VKbIcsN3UtSodIZzx"
+    },
+    {
+      "added_at": "2023-09-01 07:42:13",
+      "album": {
         "name": "Sunday",
         "url": "https://open.spotify.com/album/0KFZ6Ao2cF2fAoOdD0hEsf"
       },
@@ -1471,22 +1487,6 @@
       "duration_ms": 401546,
       "name": "Refuge",
       "url": "https://open.spotify.com/track/0pH6I6QkzMteLP5hN4jBNW"
-    },
-    {
-      "added_at": "2023-09-01 07:42:13",
-      "album": {
-        "name": "Jeru",
-        "url": "https://open.spotify.com/album/2ujmzTWpBs0rKq6lelbuWP"
-      },
-      "artists": [
-        {
-          "name": "Gerry Mulligan",
-          "url": "https://open.spotify.com/artist/6l40OFJhuTbHQ9V12evc9K"
-        }
-      ],
-      "duration_ms": 340173,
-      "name": "You've Come Home",
-      "url": "https://open.spotify.com/track/7p5a0VKbIcsN3UtSodIZzx"
     },
     {
       "added_at": "2023-09-01 07:42:13",
@@ -2159,22 +2159,6 @@
     {
       "added_at": "2023-09-01 07:42:13",
       "album": {
-        "name": "Rollin' With Leo (Remastered)",
-        "url": "https://open.spotify.com/album/4iuVTKizRNoo1GqETTVHRH"
-      },
-      "artists": [
-        {
-          "name": "Leo Parker",
-          "url": "https://open.spotify.com/artist/5LQwJIY0TGUfJDS9vdpjmg"
-        }
-      ],
-      "duration_ms": 270960,
-      "name": "Jumpin' Leo - Remastered",
-      "url": "https://open.spotify.com/track/5462btNze0TxTyqiwCfHpg"
-    },
-    {
-      "added_at": "2023-09-01 07:42:13",
-      "album": {
         "name": "Rhythm In Mind (The Carnegie Project)",
         "url": "https://open.spotify.com/album/3glkJxDFG1vBLG64VJAYuH"
       },
@@ -2191,18 +2175,18 @@
     {
       "added_at": "2023-09-01 07:42:13",
       "album": {
-        "name": "Right Now",
-        "url": "https://open.spotify.com/album/18bi2UuLLBj78oai30goPA"
+        "name": "Rollin' With Leo (Remastered)",
+        "url": "https://open.spotify.com/album/4iuVTKizRNoo1GqETTVHRH"
       },
       "artists": [
         {
-          "name": "Jackie McLean",
-          "url": "https://open.spotify.com/artist/1lB7KbOr9xdPK1CuasxmeA"
+          "name": "Leo Parker",
+          "url": "https://open.spotify.com/artist/5LQwJIY0TGUfJDS9vdpjmg"
         }
       ],
-      "duration_ms": 368053,
-      "name": "Eco - Remastered",
-      "url": "https://open.spotify.com/track/6XHR5Gs3ZbrBrqVPPA1tGa"
+      "duration_ms": 270960,
+      "name": "Jumpin' Leo - Remastered",
+      "url": "https://open.spotify.com/track/5462btNze0TxTyqiwCfHpg"
     },
     {
       "added_at": "2023-09-01 07:42:13",
@@ -2223,6 +2207,22 @@
     {
       "added_at": "2023-09-01 07:42:13",
       "album": {
+        "name": "Right Now",
+        "url": "https://open.spotify.com/album/18bi2UuLLBj78oai30goPA"
+      },
+      "artists": [
+        {
+          "name": "Jackie McLean",
+          "url": "https://open.spotify.com/artist/1lB7KbOr9xdPK1CuasxmeA"
+        }
+      ],
+      "duration_ms": 368053,
+      "name": "Eco - Remastered",
+      "url": "https://open.spotify.com/track/6XHR5Gs3ZbrBrqVPPA1tGa"
+    },
+    {
+      "added_at": "2023-09-01 07:42:13",
+      "album": {
         "name": "David Liebman Quartet / Quintet Live",
         "url": "https://open.spotify.com/album/43gMWHr1qI8I4QXXRxADoz"
       },
@@ -2235,22 +2235,6 @@
       "duration_ms": 799425,
       "name": "The Last Train",
       "url": "https://open.spotify.com/track/5H1HQb0Sma4TVuFbKDRQWO"
-    },
-    {
-      "added_at": "2023-09-01 07:42:13",
-      "album": {
-        "name": "Quartets",
-        "url": "https://open.spotify.com/album/13sMOpWaJbtf0qNLzBN2Yk"
-      },
-      "artists": [
-        {
-          "name": "Charles Lloyd",
-          "url": "https://open.spotify.com/artist/0GC1oqEWpiAjfE7jm5LQO5"
-        }
-      ],
-      "duration_ms": 444840,
-      "name": "Haghia Sophia",
-      "url": "https://open.spotify.com/track/3koWLVebFC6KtgEQ5ZMOgd"
     },
     {
       "added_at": "2023-09-01 07:42:13",
@@ -2271,18 +2255,18 @@
     {
       "added_at": "2023-09-01 07:42:13",
       "album": {
-        "name": "Vertigo",
-        "url": "https://open.spotify.com/album/6ZobxoJkOGa8X3us8U948a"
+        "name": "Quartets",
+        "url": "https://open.spotify.com/album/13sMOpWaJbtf0qNLzBN2Yk"
       },
       "artists": [
         {
-          "name": "Jackie McLean",
-          "url": "https://open.spotify.com/artist/1lB7KbOr9xdPK1CuasxmeA"
+          "name": "Charles Lloyd",
+          "url": "https://open.spotify.com/artist/0GC1oqEWpiAjfE7jm5LQO5"
         }
       ],
-      "duration_ms": 497906,
-      "name": "Vertigo - Remastered",
-      "url": "https://open.spotify.com/track/5Neu3ciZMMYhpoe3YxxZMi"
+      "duration_ms": 444840,
+      "name": "Haghia Sophia",
+      "url": "https://open.spotify.com/track/3koWLVebFC6KtgEQ5ZMOgd"
     },
     {
       "added_at": "2023-09-01 07:42:13",
@@ -2351,6 +2335,38 @@
     {
       "added_at": "2023-09-01 07:42:13",
       "album": {
+        "name": "Vertigo",
+        "url": "https://open.spotify.com/album/6ZobxoJkOGa8X3us8U948a"
+      },
+      "artists": [
+        {
+          "name": "Jackie McLean",
+          "url": "https://open.spotify.com/artist/1lB7KbOr9xdPK1CuasxmeA"
+        }
+      ],
+      "duration_ms": 497906,
+      "name": "Vertigo - Remastered",
+      "url": "https://open.spotify.com/track/5Neu3ciZMMYhpoe3YxxZMi"
+    },
+    {
+      "added_at": "2023-09-01 07:42:13",
+      "album": {
+        "name": "Joyous Encounter",
+        "url": "https://open.spotify.com/album/7JJAVKH0nRCW4NzpAqUhGu"
+      },
+      "artists": [
+        {
+          "name": "Joe Lovano",
+          "url": "https://open.spotify.com/artist/36YE6h8aN09ZKG4EhneDSf"
+        }
+      ],
+      "duration_ms": 485920,
+      "name": "Pannonica",
+      "url": "https://open.spotify.com/track/4iuYeo7alKHLLyNBIWbt88"
+    },
+    {
+      "added_at": "2023-09-01 07:42:13",
+      "album": {
         "name": "Star",
         "url": "https://open.spotify.com/album/74XTSksd8h9wLA595z0A5Y"
       },
@@ -2371,22 +2387,6 @@
       "duration_ms": 363333,
       "name": "Lamenting",
       "url": "https://open.spotify.com/track/49kINl7tEr7Hq45LD4OSnI"
-    },
-    {
-      "added_at": "2023-09-01 07:42:13",
-      "album": {
-        "name": "Joyous Encounter",
-        "url": "https://open.spotify.com/album/7JJAVKH0nRCW4NzpAqUhGu"
-      },
-      "artists": [
-        {
-          "name": "Joe Lovano",
-          "url": "https://open.spotify.com/artist/36YE6h8aN09ZKG4EhneDSf"
-        }
-      ],
-      "duration_ms": 485920,
-      "name": "Pannonica",
-      "url": "https://open.spotify.com/track/4iuYeo7alKHLLyNBIWbt88"
     },
     {
       "added_at": "2023-09-01 07:42:13",
@@ -2443,22 +2443,6 @@
     {
       "added_at": "2023-09-01 07:42:13",
       "album": {
-        "name": "The Sirens",
-        "url": "https://open.spotify.com/album/23gMMqGims4UxU7Q9fzUDK"
-      },
-      "artists": [
-        {
-          "name": "Chris Potter",
-          "url": "https://open.spotify.com/artist/4hdVPbHhsWAn2XTXVRJoxB"
-        }
-      ],
-      "duration_ms": 504266,
-      "name": "Kalypso",
-      "url": "https://open.spotify.com/track/3WHxN3ZV7Fdvz6iVghJ7yJ"
-    },
-    {
-      "added_at": "2023-09-01 07:42:13",
-      "album": {
         "name": "Yun Kan 12345",
         "url": "https://open.spotify.com/album/0oaZ1uYPkqx6Zm3KHvLsN5"
       },
@@ -2475,6 +2459,22 @@
       "duration_ms": 410373,
       "name": "Abraxas",
       "url": "https://open.spotify.com/track/4TLC5QFrgt4STktauA5G68"
+    },
+    {
+      "added_at": "2023-09-01 07:42:13",
+      "album": {
+        "name": "The Sirens",
+        "url": "https://open.spotify.com/album/23gMMqGims4UxU7Q9fzUDK"
+      },
+      "artists": [
+        {
+          "name": "Chris Potter",
+          "url": "https://open.spotify.com/artist/4hdVPbHhsWAn2XTXVRJoxB"
+        }
+      ],
+      "duration_ms": 504266,
+      "name": "Kalypso",
+      "url": "https://open.spotify.com/track/3WHxN3ZV7Fdvz6iVghJ7yJ"
     },
     {
       "added_at": "2023-09-01 07:42:13",
@@ -2511,6 +2511,22 @@
     {
       "added_at": "2023-09-01 07:42:13",
       "album": {
+        "name": "Byablue",
+        "url": "https://open.spotify.com/album/7BVDdIIHvAleYqTVobRLjr"
+      },
+      "artists": [
+        {
+          "name": "Keith Jarrett",
+          "url": "https://open.spotify.com/artist/0F3Aew9DSd6fb6192K1K0Y"
+        }
+      ],
+      "duration_ms": 439280,
+      "name": "Byablue",
+      "url": "https://open.spotify.com/track/4MhGJyGOmgURHEJBatYzMz"
+    },
+    {
+      "added_at": "2023-09-01 07:42:13",
+      "album": {
         "name": "Where Are You?",
         "url": "https://open.spotify.com/album/5UIu8Ra41XV49VoscOnMjT"
       },
@@ -2535,34 +2551,26 @@
     {
       "added_at": "2023-09-01 07:42:13",
       "album": {
-        "name": "Byablue",
-        "url": "https://open.spotify.com/album/7BVDdIIHvAleYqTVobRLjr"
+        "name": "Triptykon",
+        "url": "https://open.spotify.com/album/2YHM6e7Qd12cQwHvFnrBfb"
       },
       "artists": [
         {
-          "name": "Keith Jarrett",
-          "url": "https://open.spotify.com/artist/0F3Aew9DSd6fb6192K1K0Y"
-        }
-      ],
-      "duration_ms": 439280,
-      "name": "Byablue",
-      "url": "https://open.spotify.com/track/4MhGJyGOmgURHEJBatYzMz"
-    },
-    {
-      "added_at": "2023-09-01 07:42:13",
-      "album": {
-        "name": "Contemporary Jazz",
-        "url": "https://open.spotify.com/album/3NiRWYhEKaA3Keiqw8A9SJ"
-      },
-      "artists": [
+          "name": "Jan Garbarek",
+          "url": "https://open.spotify.com/artist/7MEyCD4G0Zl6kmikEAZsym"
+        },
         {
-          "name": "Branford Marsalis Quartet",
-          "url": "https://open.spotify.com/artist/795yvukGj0UOfcP8uftDq9"
+          "name": "Arild Andersen",
+          "url": "https://open.spotify.com/artist/1XNQGT010JcXsJIbUE6j4m"
+        },
+        {
+          "name": "Edward Vesala",
+          "url": "https://open.spotify.com/artist/1L8P0focMerZcfKibETMRr"
         }
       ],
-      "duration_ms": 962320,
-      "name": "Elysium",
-      "url": "https://open.spotify.com/track/0ypNrOIuiIpusrTVLdtRPc"
+      "duration_ms": 447600,
+      "name": "J.E.V.",
+      "url": "https://open.spotify.com/track/4o16N2cUPKqIzDikfo79Eg"
     }
   ],
   "unique_name": "Saxophone Classics",

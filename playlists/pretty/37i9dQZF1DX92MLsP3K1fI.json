@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Sube el volumen y disfruta del pop m\u00e1s chicloso! Morat en portada.",
-  "num_followers": 76076,
+  "num_followers": 76170,
   "original_name": "Oye Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5ODdiZjZkNjVkNWMzNGU1MDdhMDYxMmQxNDgxYjM4NGNiYzI5YThh",
+  "snapshot_id": "MCxmMjQwYWEwNDUxMzVkNTEwYTNhNzJkYzQ1YzA1NmYxNjhmYmExNzZj",
   "tracks": [
     {
       "added_at": "2023-10-03 22:31:52",
@@ -283,22 +283,18 @@
     {
       "added_at": "2023-10-03 22:31:52",
       "album": {
-        "name": "EL RELOJ (con Maluma)",
-        "url": "https://open.spotify.com/album/7cw2HqGRaimaXNcTfHxMhR"
+        "name": "El Amor En Los Tiempos Del Perreo",
+        "url": "https://open.spotify.com/album/4ARUAVQnIDB02yVO8uvaJE"
       },
       "artists": [
         {
-          "name": "Blessd",
-          "url": "https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX"
-        },
-        {
-          "name": "Maluma",
-          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
+          "name": "Piso 21",
+          "url": "https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd"
         }
       ],
-      "duration_ms": 180521,
-      "name": "EL RELOJ (con Maluma)",
-      "url": "https://open.spotify.com/track/29eXmdhLZqDUNB8y62rYIZ"
+      "duration_ms": 211998,
+      "name": "Tan Bonita",
+      "url": "https://open.spotify.com/track/6mm3K0yWp6uzfOMuipM9Zh"
     },
     {
       "added_at": "2023-10-03 22:31:52",
@@ -323,18 +319,22 @@
     {
       "added_at": "2023-10-03 22:31:52",
       "album": {
-        "name": "El Amor En Los Tiempos Del Perreo",
-        "url": "https://open.spotify.com/album/4ARUAVQnIDB02yVO8uvaJE"
+        "name": "EL RELOJ (con Maluma)",
+        "url": "https://open.spotify.com/album/7cw2HqGRaimaXNcTfHxMhR"
       },
       "artists": [
         {
-          "name": "Piso 21",
-          "url": "https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd"
+          "name": "Blessd",
+          "url": "https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX"
+        },
+        {
+          "name": "Maluma",
+          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
         }
       ],
-      "duration_ms": 211998,
-      "name": "Tan Bonita",
-      "url": "https://open.spotify.com/track/6mm3K0yWp6uzfOMuipM9Zh"
+      "duration_ms": 180521,
+      "name": "EL RELOJ (con Maluma)",
+      "url": "https://open.spotify.com/track/29eXmdhLZqDUNB8y62rYIZ"
     },
     {
       "added_at": "2023-10-03 22:31:52",

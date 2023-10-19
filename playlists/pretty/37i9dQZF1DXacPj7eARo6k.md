@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXacPj7eARo6k.md) - [plain]
 
 > Le meilleur des années 2000 en 100 titres.
 
-[Spotify](https://open.spotify.com/user/spotify) - 539,096 likes - 100 songs - 6 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 539,217 likes - 100 songs - 6 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXacPj7eARo6k.md) - [plain]
 | 2 | [Gasolina](https://open.spotify.com/track/228BxWXUYQPJrJYHDLOHkj) | [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m) | [Barrio Fino \(Bonus Track Version\)](https://open.spotify.com/album/4pLuE50wL9T26lSv42X0J2) | 3:12 |
 | 3 | [Right Round](https://open.spotify.com/track/3GpbwCm3YxiWDvy29Uo3vP) | [Flo Rida](https://open.spotify.com/artist/0jnsk9HBra6NMjO2oANoPY) | [R.O.O.T.S\. \(Route of Overcoming the Struggle\)](https://open.spotify.com/album/2vBLKFrI1rZqB7VtGxcsR5) | 3:24 |
 | 4 | [The Magic Key](https://open.spotify.com/track/1VsuSOEVhuCaybeb1rFeCM) | [One\-T](https://open.spotify.com/artist/70W0ftdGNlFkgrqu5O0QiI) | [The One\-T ODC](https://open.spotify.com/album/1tXkGisnorHzDKtSnRWcyn) | 3:48 |
-| 5 | [Calabria 2008](https://open.spotify.com/track/5Y2pr8wjzjO2te4MnxTUa7) | [Enur](https://open.spotify.com/artist/1BQaZSq1KsLOZGzjG5QxRC), [Natasja](https://open.spotify.com/artist/73O5T44Ui5WqxtW6S5JENA) | [Raggatronic](https://open.spotify.com/album/71vYvO6c9Wzh06fZPHXj3z) | 3:50 |
+| 5 | [Calabria 2008 \(feat\. Natasja\)](https://open.spotify.com/track/0mwbc2AqVHIziVGg3syEI9) | [Enur](https://open.spotify.com/artist/1BQaZSq1KsLOZGzjG5QxRC), [Natasja](https://open.spotify.com/artist/73O5T44Ui5WqxtW6S5JENA) | [Raggatronic](https://open.spotify.com/album/3xynSbEGBq3jd5N8HLRrc3) | 3:50 |
 | 6 | [Hips Don't Lie \(feat\. Wyclef Jean\)](https://open.spotify.com/track/3ZFTkvIE7kyPt6Nu3PEa7V) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp), [Wyclef Jean](https://open.spotify.com/artist/7aBzpmFXB4WWpPl2F7RjBe) | [Oral Fixation, Vol\. 2 \(Expanded Edition\)](https://open.spotify.com/album/5ppnlEoj4HdRRdRihnY3jU) | 3:38 |
 | 7 | [Poker Face](https://open.spotify.com/track/5R8dQOPq8haW94K7mgERlO) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [The Fame](https://open.spotify.com/album/1jpUMnKpRlng1OJN7LJauV) | 3:57 |
 | 8 | [Hey Sexy Lady](https://open.spotify.com/track/4u8IPU322yG7mNrqv89GGL) | [Shaggy](https://open.spotify.com/artist/5EvFsr3kj42KNv97ZEnqij), [Brian & Tony Gold](https://open.spotify.com/artist/0hXfXDhsiayeNFG98qOPHs) | [Lucky Day](https://open.spotify.com/album/4JYMeEAVnEVnJhXe1VZS2b) | 3:19 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXacPj7eARo6k.md) - [plain]
 | 99 | [L'envie d'aimer](https://open.spotify.com/track/5H9PjygodoXzyX45g7Pm6n) | [Les Dix Commandements](https://open.spotify.com/artist/5QXmg7M7qjL9PcJ79MYyGb), [Daniel Levi](https://open.spotify.com/artist/27Nnz63JsAweHllsNze2yD) | [Les Dix Commandements \(L'intégrale\)](https://open.spotify.com/album/79qNGzwU1l9vh3nw6GeY8l) | 6:28 |
 | 100 | [Starlight](https://open.spotify.com/track/3skn2lauGk7Dx6bVIt5DVj) | [Muse](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI) | [Black Holes and Revelations](https://open.spotify.com/album/0lw68yx3MhKflWFqCsGkIs) | 4:00 |
 
-Snapshot ID: `MCw0OTFjNDAzNGU2MzM3OTJlMDk0OGJjMGUwZmY1NzVjMDkxNjg2ODU3`
+Snapshot ID: `MCwxZDAzMTg5MGVmMzc3ZDNmM2M3MTMzYTViYmE2YjJiZDZmNGYwNTJj`

@@ -4,7 +4,7 @@
 
 > Entspannung pur oder viel los? Hier findest du die passenden Beats für deine Pläne!
 
-92 songs - 4 hr 11 min
+93 songs - 4 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -48,6 +48,7 @@
 | [Ghost](https://open.spotify.com/track/7LbhIjYNfCguxjAw43Mkff) | [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [Diamonds & Dancefloors](https://open.spotify.com/album/5NgQit6EhPnx84bxgVVDRQ) | 3:01 | 2023-09-01 | 2023-10-04 |
 | [Ghost Town](https://open.spotify.com/track/6h6HgJ66laDl6bY8W59Jdn) | [VIZE](https://open.spotify.com/artist/09agIJMxCD2k87ys9Al0f0), [Joris Sava](https://open.spotify.com/artist/7M7NxBEoOEg35yqUyLRTgT), [July](https://open.spotify.com/artist/2lQUT7KTSpuj9z8PdtMdtz) | [Ghost Town](https://open.spotify.com/album/29xmDbpP6xSw3Bs1d6YPHa) | 2:42 | 2023-09-01 |  |
 | [Good Life](https://open.spotify.com/track/09rcsC6M15EZPbCVmrqUYK) | [FAST BOY](https://open.spotify.com/artist/56Qz2XwGj7FxnNKrfkWjnb) | [Good Life](https://open.spotify.com/album/4L7JQYnj8oGhI4OfdQjFjv) | 3:16 | 2023-09-01 |  |
+| [Gravity](https://open.spotify.com/track/7qhPd5HqLrCVpCWvpy8Hrh) | [twocolors](https://open.spotify.com/artist/7ACEUD7UsmmXrnj4OLt8f9), [ÁSDÍS](https://open.spotify.com/artist/28y5ZcfpdZAfeEE5ftCfUg) | [Gravity](https://open.spotify.com/album/6Wkt3HuhyHbxN7G9aSJ6L9) | 2:24 | 2023-10-13 |  |
 | [Hallucination](https://open.spotify.com/track/7y3c1oJMY1CwwtOZ84Qovu) | [Regard](https://open.spotify.com/artist/4ofCBoyEiGSePFAG500xev), [Years & Years](https://open.spotify.com/artist/5vBSrE1xujD2FXYRarbAXc) | [Hallucination](https://open.spotify.com/album/3uTg9ykOYoW54hj9q66oCh) | 2:54 | 2023-09-01 |  |
 | [Headlights \(feat\. KIDDO\)](https://open.spotify.com/track/7BhmwvCdQZNwuQXSHw5TzP) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [KIDDO](https://open.spotify.com/artist/5pXe6yFchq1oyYK3rq2A8i) | [Headlights \(feat\. KIDDO\)](https://open.spotify.com/album/61SLEqJbw0XtTOmXUXAoEW) | 2:38 | 2023-09-01 |  |
 | [Heavy Metal Love](https://open.spotify.com/track/07VcTAooOBP8hIluuUS5xr) | [twocolors](https://open.spotify.com/artist/7ACEUD7UsmmXrnj4OLt8f9) | [Heavy Metal Love](https://open.spotify.com/album/2WTW41lq0cDQjdsXhRhyqH) | 2:12 | 2023-09-01 |  |
@@ -92,7 +93,7 @@
 | [Tears In Ibiza \(feat\. AR/CO\)](https://open.spotify.com/track/7A0xA68c4NiTvbWWAsIsoN) | [The Stickmen Project](https://open.spotify.com/artist/13wroZC00C9ix8fUR0JvaY), [AR/CO](https://open.spotify.com/artist/7mGI9Sd66FqHjIkwzkgbG7) | [Tears In Ibiza \(feat\. AR/CO\)](https://open.spotify.com/album/3j1gIUlWUvy3ihysDQUYpg) | 2:23 | 2023-09-01 |  |
 | [Tell Me](https://open.spotify.com/track/19BoXyNUZB8M9PgAyMHVRg) | [James Carter](https://open.spotify.com/artist/5344K3N7rx7kw1HjO8psuq), [Hanne Mjøen](https://open.spotify.com/artist/2xDZ8qyyE2Ti4wL1Ob1T7V) | [Tell Me](https://open.spotify.com/album/7qnMJEfvGH0G9X6Y3RgJrP) | 2:07 | 2023-09-01 |  |
 | [The Best Part](https://open.spotify.com/track/04BNQFaBlFF7WDeTb1V0AP) | [anamē](https://open.spotify.com/artist/3sZvCZHU2V2idOYyUl3fBi), [gardenstate](https://open.spotify.com/artist/1XcPIHqirx1Jaxm2bAxMeV), [Bien](https://open.spotify.com/artist/2uodbv2953Z7R1ipwucK2A) | [The Best Part](https://open.spotify.com/album/71f51ihuW0oVdl2s4yFzSU) | 4:10 | 2023-09-01 |  |
-| [The Best Part of Life \(Imanbek Remix\)](https://open.spotify.com/track/6OboXrS1zbfCmh7uDFCIQ5) | [SAINt JHN](https://open.spotify.com/artist/0H39MdGGX6dbnnQPt6NQkZ), [Imanbek](https://open.spotify.com/artist/5rGrDvrLOV2VV8SCFVGWlj) | [The Best Part of Life \(Imanbek Remix\)](https://open.spotify.com/album/1Eoy1ADRQDviO2WX2V2vyP) | 3:18 | 2023-09-01 |  |
+| [The Best Part of Life \(Imanbek Remix\)](https://open.spotify.com/track/6OboXrS1zbfCmh7uDFCIQ5) | [SAINt JHN](https://open.spotify.com/artist/0H39MdGGX6dbnnQPt6NQkZ), [Imanbek](https://open.spotify.com/artist/5rGrDvrLOV2VV8SCFVGWlj) | [The Best Part of Life \(Imanbek Remix\)](https://open.spotify.com/album/1Eoy1ADRQDviO2WX2V2vyP) | 3:18 | 2023-09-01 | 2023-10-19 |
 | [The Feeling](https://open.spotify.com/track/6W9qtw3ddhkYznaOxB50p8) | [Lost Frequencies](https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7) | [The Feeling](https://open.spotify.com/album/4Ec0qA1sxuX6vrViAwkxxG) | 2:33 | 2023-09-01 |  |
 | [Waterfall](https://open.spotify.com/track/7aJgh6LCvhXJfD7PHjhG70) | [Michael Schulte](https://open.spotify.com/artist/21aa4pj9BvbFB2iT8kRpnq), [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ) | [Waterfall](https://open.spotify.com/album/11tmmS5xSi2aa7VNokfYCD) | 2:17 | 2023-09-01 |  |
 | [Where Did You Go? \(feat\. MNEK\)](https://open.spotify.com/track/3sa06xVNmLLYIxdNNmVQN8) | [Jax Jones](https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr), [MNEK](https://open.spotify.com/artist/7uMh23xWiuR7zsNkuNcm2G) | [Where Did You Go \(feat\. MNEK\)](https://open.spotify.com/album/5vSLX6JljaSXuRY2Wqi6xL) | 2:57 | 2023-09-01 |  |

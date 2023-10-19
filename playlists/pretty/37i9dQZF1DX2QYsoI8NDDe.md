@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2QYsoI8NDDe.md) - [plain]
 
 > ¡Las poderosas, las reinas, las chacalosas! Estas son la mujeres quebrando barreras en la Música Mexicana\. Cover: Conexión Divina
 
-[Spotify](https://open.spotify.com/user/spotify) - 500,183 likes - 65 songs - 3 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 500,203 likes - 65 songs - 3 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,15 +63,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2QYsoI8NDDe.md) - [plain]
 | 53 | [Ya Tengo Con Quien](https://open.spotify.com/track/6IM22e1Hz9RP3iKLaIuvaQ) | [Itzel Vida](https://open.spotify.com/artist/60PTHScdfpSSM2RcN0CpUC) | [Ya Tengo Con Quien](https://open.spotify.com/album/4RAkuPeLPfeHhujFrjiliU) | 3:43 |
 | 54 | [Se Me Olvidó Otra Vez](https://open.spotify.com/track/6ex9LS8VuDouZ5hMI3Pk7G) | [Sandra Echeverria](https://open.spotify.com/artist/0LfJXLNpLGZtn4OAki9W31) | [Se Me Olvidó Otra Vez](https://open.spotify.com/album/1078OuldARhl2eXmoYAR0f) | 3:30 |
 | 55 | [Soy Mala](https://open.spotify.com/track/10pyLImhmwLQcl3G4ahJZB) | [Lluvia Arámbula](https://open.spotify.com/artist/1GNHRCTZBHUf8rYfPTjT92) | [Adrenalina](https://open.spotify.com/album/4806StxcG6kpJXdGwMH9Tc) | 1:57 |
-| 56 | [Sangre De Gorilla](https://open.spotify.com/track/3pfkSqEtTtNvhxBVK79wZD) | [Michelle BI](https://open.spotify.com/artist/2dUVZnenljNsORRkO4OnzM) | [Sangre De Gorilla](https://open.spotify.com/album/1h1yedEryTGVq4wGIM5xjM) | 3:00 |
-| 57 | [Fayer](https://open.spotify.com/track/3vnA3XGgCmYuDJBJ5GyTPn) | [Estilo Sin Limite](https://open.spotify.com/artist/3EhvqOxws7gMwok2Z9XOjd) | [Fayer](https://open.spotify.com/album/2YCkZ9WQZ8Ctz0tI4L7MIB) | 3:04 |
+| 56 | [Fayer](https://open.spotify.com/track/3vnA3XGgCmYuDJBJ5GyTPn) | [Estilo Sin Limite](https://open.spotify.com/artist/3EhvqOxws7gMwok2Z9XOjd) | [Fayer](https://open.spotify.com/album/2YCkZ9WQZ8Ctz0tI4L7MIB) | 3:04 |
+| 57 | [Sangre De Gorilla](https://open.spotify.com/track/3pfkSqEtTtNvhxBVK79wZD) | [Michelle BI](https://open.spotify.com/artist/2dUVZnenljNsORRkO4OnzM) | [Sangre De Gorilla](https://open.spotify.com/album/1h1yedEryTGVq4wGIM5xjM) | 3:00 |
 | 58 | [Porque tengo ganas](https://open.spotify.com/track/1NhYdNcgFUaM8NxhQIUcr6) | [Marilyn Odessa](https://open.spotify.com/artist/26YaHstf1U8Wat4ZE3Nv5w) | [Porque tengo ganas](https://open.spotify.com/album/5HNGVRUvb5ivWwIIGMshw3) | 3:48 |
 | 59 | [G\. Blanco](https://open.spotify.com/track/3TjdNdUfbY6udjKPRZTUS8) | [GiGi](https://open.spotify.com/artist/4EK7mMUmKiGrNRC2ap3Dg8) | [G\. Blanco](https://open.spotify.com/album/0lF7zHfnHCcTOafAqm3TBZ) | 2:58 |
 | 60 | [JGL \(En Vivo\)](https://open.spotify.com/track/4FzRo5Y4DbzFR0fLS8yUj4) | [Las Marías](https://open.spotify.com/artist/1BsFNAYZkEx6rvQJH4sN6w) | [JGL \(En Vivo\)](https://open.spotify.com/album/4PLBipDpht78qYtb1j7msz) | 2:46 |
 | 61 | [Piénsalo](https://open.spotify.com/track/2tVvId1E6EEz4F9VPQVlpY) | [Tania Mondragon](https://open.spotify.com/artist/1mHfQxhZrANBQkHBbD58mL) | [Piénsalo](https://open.spotify.com/album/2K2CxnJMFq7GArkg29Iksl) | 2:03 |
 | 62 | [En Peligro De Extinción \- En Vivo](https://open.spotify.com/track/1jnccQsTSqFpNFriKasQi2) | [Grace Guillén](https://open.spotify.com/artist/04K92Tg6ryvoyNj1Xju6rD) | [En Peligro De Extinción \(En Vivo\)](https://open.spotify.com/album/4V9YaFkLZlJHOkyhsVeHTD) | 3:32 |
-| 63 | [San Mike](https://open.spotify.com/track/1IsK1ydUSOuc32aMwYB0wa) | [Estilo Sin Limite](https://open.spotify.com/artist/3EhvqOxws7gMwok2Z9XOjd) | [San Mike](https://open.spotify.com/album/49o87APRm62j0t13TMOB4E) | 2:51 |
-| 64 | [Jodida En Este Bar \- En Vivo](https://open.spotify.com/track/6OzW9fvluUQq4Cal5Wiqn3) | [Erika Vidrio](https://open.spotify.com/artist/4psSCgqhwgjY16plPhSw9P) | [Jodida En Este Bar \(En Vivo\)](https://open.spotify.com/album/3DG4q22yxndkW3NH3UsHYw) | 2:52 |
-| 65 | [Vanessa Guillen](https://open.spotify.com/track/6nvpeJpxKOp2XtDTiTP2KB) | [Ivonne Galaz](https://open.spotify.com/artist/3YXGxdYldEXVVlCdCkFD5G) | [Vanessa Guillen](https://open.spotify.com/album/7LdX5t2i8wNlXlixStYkiq) | 3:27 |
+| 63 | [Jodida En Este Bar \- En Vivo](https://open.spotify.com/track/6OzW9fvluUQq4Cal5Wiqn3) | [Erika Vidrio](https://open.spotify.com/artist/4psSCgqhwgjY16plPhSw9P) | [Jodida En Este Bar \(En Vivo\)](https://open.spotify.com/album/3DG4q22yxndkW3NH3UsHYw) | 2:52 |
+| 64 | [Vanessa Guillen](https://open.spotify.com/track/6nvpeJpxKOp2XtDTiTP2KB) | [Ivonne Galaz](https://open.spotify.com/artist/3YXGxdYldEXVVlCdCkFD5G) | [Vanessa Guillen](https://open.spotify.com/album/7LdX5t2i8wNlXlixStYkiq) | 3:27 |
+| 65 | [San Mike](https://open.spotify.com/track/1IsK1ydUSOuc32aMwYB0wa) | [Estilo Sin Limite](https://open.spotify.com/artist/3EhvqOxws7gMwok2Z9XOjd) | [San Mike](https://open.spotify.com/album/49o87APRm62j0t13TMOB4E) | 2:51 |
 
-Snapshot ID: `MCw5YzEyMTQ4MWU2MTVjMWMyNGM3NTAyYTYxYWU5OTdmODViYmRkYjEz`
+Snapshot ID: `MCw2NjQxZGVhYzdkN2RhMjI5M2NiMTQxZmJmNTg4NTQ2ZTg1N2U4YjQ3`

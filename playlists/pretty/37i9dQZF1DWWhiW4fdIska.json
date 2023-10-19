@@ -1,12 +1,12 @@
 {
   "description": "Legendary blues guitarists. Cover: Buddy Guy",
-  "num_followers": 23272,
+  "num_followers": 23302,
   "original_name": "Classic Blues Guitar",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkNDZiYjJlNGY1NGFiMWQyYWQ0Y2Q4ODQzMmM3MDVlOTM2MWY3Njc1",
+  "snapshot_id": "MCxkNWJmM2IwNTU4MzJiNzllZjc4MjBkYjFkNzJkMTMyNzhmOGU1MGRl",
   "tracks": [
     {
       "added_at": "2020-10-21 20:41:20",
@@ -299,22 +299,6 @@
     {
       "added_at": "2020-10-21 20:41:20",
       "album": {
-        "name": "In the Skies",
-        "url": "https://open.spotify.com/album/2lN1smqF0snKbzvR6ZY7FJ"
-      },
-      "artists": [
-        {
-          "name": "Peter Green",
-          "url": "https://open.spotify.com/artist/3y1DgnVXqckGJrbwOKchdU"
-        }
-      ],
-      "duration_ms": 464666,
-      "name": "A Fool No More",
-      "url": "https://open.spotify.com/track/2Qm98Rw4rdfvo14ZOUiZTN"
-    },
-    {
-      "added_at": "2020-10-21 20:41:20",
-      "album": {
         "name": "The Essential Magic Sam: The Cobra and Chief Recordings 1957-1961",
         "url": "https://open.spotify.com/album/5pwsqaIx7UFtjXU3HiF1Nv"
       },
@@ -327,6 +311,22 @@
       "duration_ms": 176186,
       "name": "All Your Love",
       "url": "https://open.spotify.com/track/73GEVn1tqk9bn0KbtWsiqj"
+    },
+    {
+      "added_at": "2020-10-21 20:41:20",
+      "album": {
+        "name": "In the Skies",
+        "url": "https://open.spotify.com/album/2lN1smqF0snKbzvR6ZY7FJ"
+      },
+      "artists": [
+        {
+          "name": "Peter Green",
+          "url": "https://open.spotify.com/artist/3y1DgnVXqckGJrbwOKchdU"
+        }
+      ],
+      "duration_ms": 464666,
+      "name": "A Fool No More",
+      "url": "https://open.spotify.com/track/2Qm98Rw4rdfvo14ZOUiZTN"
     },
     {
       "added_at": "2020-10-21 20:41:20",

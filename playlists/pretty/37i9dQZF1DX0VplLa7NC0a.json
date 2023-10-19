@@ -1,12 +1,12 @@
 {
   "description": "The greatest operatic and orchestral works of Rossini, featuring William Tell, The Barber of Seville and Cinderella.",
-  "num_followers": 33353,
+  "num_followers": 33361,
   "original_name": "This Is Rossini",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzYjU1YmRlZGQwZDI1Yzk5YmIxY2M0NTQxMDRjY2JhMGFjZDBhZjVm",
+  "snapshot_id": "MCw4ZTNiMjBiZDRmMWRjMzFiZGI5ZTQxZTNmZGUwYzgxY2JmMGJlZDM0",
   "tracks": [
     {
       "added_at": "2022-06-28 08:38:32",
@@ -515,6 +515,66 @@
     {
       "added_at": "2022-06-28 08:38:32",
       "album": {
+        "name": "Rossini: Guillaume Tell",
+        "url": "https://open.spotify.com/album/0VUKsuxE8eQoRMKCCNjfdE"
+      },
+      "artists": [
+        {
+          "name": "Gioachino Rossini",
+          "url": "https://open.spotify.com/artist/0roWUeP7Ac4yK4VN6L2gF4"
+        },
+        {
+          "name": "Royal Philharmonic Orchestra/Lamberto Gardelli",
+          "url": "https://open.spotify.com/artist/0uHWdrpNqWIXfD4XYhgZPH"
+        },
+        {
+          "name": "Lamberto Gardelli",
+          "url": "https://open.spotify.com/artist/2aFoGvJk71iQ8dg5ACSOQu"
+        },
+        {
+          "name": "Royal Philharmonic Orchestra",
+          "url": "https://open.spotify.com/artist/0MvSBMGRQJY3mRwIbJsqF1"
+        }
+      ],
+      "duration_ms": 91506,
+      "name": "Rossini: Guillaume Tell, Act 3 Scene 2: Danse (Pas de trois. Allegro)",
+      "url": "https://open.spotify.com/track/62IaVX0eGIuGRbJB7ndHxC"
+    },
+    {
+      "added_at": "2022-06-28 08:38:32",
+      "album": {
+        "name": "Rossini: Stabat Mater",
+        "url": "https://open.spotify.com/album/5nekImhuQccc3AYugTUJfu"
+      },
+      "artists": [
+        {
+          "name": "Gioachino Rossini",
+          "url": "https://open.spotify.com/artist/0roWUeP7Ac4yK4VN6L2gF4"
+        },
+        {
+          "name": "Lawrence Brownlee",
+          "url": "https://open.spotify.com/artist/38ZFGQidKbRMrPPA2sqE8n"
+        },
+        {
+          "name": "Orchestra dell'Accademia Nazionale di Santa Cecilia",
+          "url": "https://open.spotify.com/artist/2Mi20SSCqDqjMRsJXHD72f"
+        },
+        {
+          "name": "Antonio Pappano",
+          "url": "https://open.spotify.com/artist/0xHw5qPRSEc8sUmSmXf5sw"
+        },
+        {
+          "name": "Orchestra dell' Accademia Nazionale di Santa Cecilia, Roma",
+          "url": "https://open.spotify.com/artist/7BYF3pEWuibx8D2hezbUTp"
+        }
+      ],
+      "duration_ms": 376626,
+      "name": "Stabat Mater: Cujus animam gementem",
+      "url": "https://open.spotify.com/track/4caKKEVxLLkYH3XAV2166D"
+    },
+    {
+      "added_at": "2022-06-28 08:38:32",
+      "album": {
         "name": "Rossini: L'Italiana in Algeri",
         "url": "https://open.spotify.com/album/1eLVymZVT0Fc9H18MiX8V9"
       },
@@ -567,66 +627,6 @@
       "duration_ms": 241946,
       "name": "L'Italiana in Algeri (The Italian Girl in Algiers): Act II Scene 4: Aria: Ho un gran peso sulla testa (Taddeo, Chorus)",
       "url": "https://open.spotify.com/track/63R1BY3EjDAuSUIHzSvYVj"
-    },
-    {
-      "added_at": "2022-06-28 08:38:32",
-      "album": {
-        "name": "Rossini: Stabat Mater",
-        "url": "https://open.spotify.com/album/5nekImhuQccc3AYugTUJfu"
-      },
-      "artists": [
-        {
-          "name": "Gioachino Rossini",
-          "url": "https://open.spotify.com/artist/0roWUeP7Ac4yK4VN6L2gF4"
-        },
-        {
-          "name": "Lawrence Brownlee",
-          "url": "https://open.spotify.com/artist/38ZFGQidKbRMrPPA2sqE8n"
-        },
-        {
-          "name": "Orchestra dell'Accademia Nazionale di Santa Cecilia",
-          "url": "https://open.spotify.com/artist/2Mi20SSCqDqjMRsJXHD72f"
-        },
-        {
-          "name": "Antonio Pappano",
-          "url": "https://open.spotify.com/artist/0xHw5qPRSEc8sUmSmXf5sw"
-        },
-        {
-          "name": "Orchestra dell' Accademia Nazionale di Santa Cecilia, Roma",
-          "url": "https://open.spotify.com/artist/7BYF3pEWuibx8D2hezbUTp"
-        }
-      ],
-      "duration_ms": 376626,
-      "name": "Stabat Mater: Cujus animam gementem",
-      "url": "https://open.spotify.com/track/4caKKEVxLLkYH3XAV2166D"
-    },
-    {
-      "added_at": "2022-06-28 08:38:32",
-      "album": {
-        "name": "Rossini: Guillaume Tell",
-        "url": "https://open.spotify.com/album/0VUKsuxE8eQoRMKCCNjfdE"
-      },
-      "artists": [
-        {
-          "name": "Gioachino Rossini",
-          "url": "https://open.spotify.com/artist/0roWUeP7Ac4yK4VN6L2gF4"
-        },
-        {
-          "name": "Royal Philharmonic Orchestra/Lamberto Gardelli",
-          "url": "https://open.spotify.com/artist/0uHWdrpNqWIXfD4XYhgZPH"
-        },
-        {
-          "name": "Lamberto Gardelli",
-          "url": "https://open.spotify.com/artist/2aFoGvJk71iQ8dg5ACSOQu"
-        },
-        {
-          "name": "Royal Philharmonic Orchestra",
-          "url": "https://open.spotify.com/artist/0MvSBMGRQJY3mRwIbJsqF1"
-        }
-      ],
-      "duration_ms": 91506,
-      "name": "Rossini: Guillaume Tell, Act 3 Scene 2: Danse (Pas de trois. Allegro)",
-      "url": "https://open.spotify.com/track/62IaVX0eGIuGRbJB7ndHxC"
     },
     {
       "added_at": "2022-06-28 08:38:32",
@@ -991,6 +991,30 @@
     {
       "added_at": "2022-06-28 08:38:32",
       "album": {
+        "name": "Rossini: Stabat Mater - Petite Messe Solennelle",
+        "url": "https://open.spotify.com/album/4W7TmgjgzSmLVALqc62GoT"
+      },
+      "artists": [
+        {
+          "name": "Gioachino Rossini",
+          "url": "https://open.spotify.com/artist/0roWUeP7Ac4yK4VN6L2gF4"
+        },
+        {
+          "name": "Riccardo Muti",
+          "url": "https://open.spotify.com/artist/7silW8RiEOoLBgAg5JBCL1"
+        },
+        {
+          "name": "Orchestra del Maggio Musicale Fiorentino",
+          "url": "https://open.spotify.com/artist/0YfVUjHFL0QWCSFRzliCDk"
+        }
+      ],
+      "duration_ms": 358600,
+      "name": "Stabat Mater: Amen. In sempiterna saecula",
+      "url": "https://open.spotify.com/track/7eoImsitpeAFw4Q9VZ9WS8"
+    },
+    {
+      "added_at": "2022-06-28 08:38:32",
+      "album": {
         "name": "Rossini: Guillaume Tell",
         "url": "https://open.spotify.com/album/0VUKsuxE8eQoRMKCCNjfdE"
       },
@@ -1015,30 +1039,6 @@
       "duration_ms": 217626,
       "name": "Rossini: Guillaume Tell, Act 4 Scene 11: \"Pourquoi ta presence, \u00f4 mon p\u00e8re! ... Tout change et grandit en ces lieux!\" (Arnold, Guillaume, Hedwige, Jemmy, Mathilde, Gessler, Walter, Chorus)",
       "url": "https://open.spotify.com/track/4UwOQ5TGLU3TpNkWwf664Y"
-    },
-    {
-      "added_at": "2022-06-28 08:38:32",
-      "album": {
-        "name": "Rossini: Stabat Mater - Petite Messe Solennelle",
-        "url": "https://open.spotify.com/album/4W7TmgjgzSmLVALqc62GoT"
-      },
-      "artists": [
-        {
-          "name": "Gioachino Rossini",
-          "url": "https://open.spotify.com/artist/0roWUeP7Ac4yK4VN6L2gF4"
-        },
-        {
-          "name": "Riccardo Muti",
-          "url": "https://open.spotify.com/artist/7silW8RiEOoLBgAg5JBCL1"
-        },
-        {
-          "name": "Orchestra del Maggio Musicale Fiorentino",
-          "url": "https://open.spotify.com/artist/0YfVUjHFL0QWCSFRzliCDk"
-        }
-      ],
-      "duration_ms": 358600,
-      "name": "Stabat Mater: Amen. In sempiterna saecula",
-      "url": "https://open.spotify.com/track/7eoImsitpeAFw4Q9VZ9WS8"
     },
     {
       "added_at": "2022-06-28 08:38:32",
@@ -1311,6 +1311,26 @@
     {
       "added_at": "2022-06-28 08:38:32",
       "album": {
+        "name": "Rossini: Piano Music, Vol. 2",
+        "url": "https://open.spotify.com/album/46uZRK8JhoS9l68mlTg6tK"
+      },
+      "artists": [
+        {
+          "name": "Gioachino Rossini",
+          "url": "https://open.spotify.com/artist/0roWUeP7Ac4yK4VN6L2gF4"
+        },
+        {
+          "name": "Alessandro Marangoni",
+          "url": "https://open.spotify.com/artist/0OlYS1Nvt0W68RQpXv2eq9"
+        }
+      ],
+      "duration_ms": 322773,
+      "name": "P\u00e9ch\u00e9s de vieillesse, Vol. 6, Album pour les enfants degourdis: No. 8, Barcarole",
+      "url": "https://open.spotify.com/track/639PRjO7vTYwX0HbAsD6Y6"
+    },
+    {
+      "added_at": "2022-06-28 08:38:32",
+      "album": {
         "name": "Rossini: Complete Overtures, Vol. 4",
         "url": "https://open.spotify.com/album/68KJcjZbLWI1YpCodH8Ixa"
       },
@@ -1363,8 +1383,8 @@
     {
       "added_at": "2022-06-28 08:38:32",
       "album": {
-        "name": "Rossini: Piano Music, Vol. 2",
-        "url": "https://open.spotify.com/album/46uZRK8JhoS9l68mlTg6tK"
+        "name": "Rossini: Piano Music, Vol. 3",
+        "url": "https://open.spotify.com/album/0scPZVo41gReMC8RI826PU"
       },
       "artists": [
         {
@@ -1376,33 +1396,9 @@
           "url": "https://open.spotify.com/artist/0OlYS1Nvt0W68RQpXv2eq9"
         }
       ],
-      "duration_ms": 322773,
-      "name": "P\u00e9ch\u00e9s de vieillesse, Vol. 6, Album pour les enfants degourdis: No. 8, Barcarole",
-      "url": "https://open.spotify.com/track/639PRjO7vTYwX0HbAsD6Y6"
-    },
-    {
-      "added_at": "2022-06-28 08:38:32",
-      "album": {
-        "name": "Rossini: Giovanna d'Arco; 19 songs",
-        "url": "https://open.spotify.com/album/3VVwrNDAiowYFUeK5DSYZQ"
-      },
-      "artists": [
-        {
-          "name": "Gioachino Rossini",
-          "url": "https://open.spotify.com/artist/0roWUeP7Ac4yK4VN6L2gF4"
-        },
-        {
-          "name": "Cecilia Bartoli",
-          "url": "https://open.spotify.com/artist/3uw6GzeL10NfFrcikMo9Na"
-        },
-        {
-          "name": "Charles Spencer",
-          "url": "https://open.spotify.com/artist/1rJfq4FTiCrG734zcybxQN"
-        }
-      ],
-      "duration_ms": 975493,
-      "name": "Giovanna d'Arco - Cantata a voce sola con piano",
-      "url": "https://open.spotify.com/track/0su1j6PMTNcPfo7ftQQWru"
+      "duration_ms": 310200,
+      "name": "Peches de vieillesse, Vol. 5: Album pour les enfants adolescents: No. 1. Premiere Communion",
+      "url": "https://open.spotify.com/track/6DnICAFOQeRlHJwkwYDn3E"
     },
     {
       "added_at": "2022-06-28 08:38:32",
@@ -1467,8 +1463,8 @@
     {
       "added_at": "2022-06-28 08:38:32",
       "album": {
-        "name": "Rossini: Piano Music, Vol. 3",
-        "url": "https://open.spotify.com/album/0scPZVo41gReMC8RI826PU"
+        "name": "Rossini: Giovanna d'Arco; 19 songs",
+        "url": "https://open.spotify.com/album/3VVwrNDAiowYFUeK5DSYZQ"
       },
       "artists": [
         {
@@ -1476,13 +1472,17 @@
           "url": "https://open.spotify.com/artist/0roWUeP7Ac4yK4VN6L2gF4"
         },
         {
-          "name": "Alessandro Marangoni",
-          "url": "https://open.spotify.com/artist/0OlYS1Nvt0W68RQpXv2eq9"
+          "name": "Cecilia Bartoli",
+          "url": "https://open.spotify.com/artist/3uw6GzeL10NfFrcikMo9Na"
+        },
+        {
+          "name": "Charles Spencer",
+          "url": "https://open.spotify.com/artist/1rJfq4FTiCrG734zcybxQN"
         }
       ],
-      "duration_ms": 310200,
-      "name": "Peches de vieillesse, Vol. 5: Album pour les enfants adolescents: No. 1. Premiere Communion",
-      "url": "https://open.spotify.com/track/6DnICAFOQeRlHJwkwYDn3E"
+      "duration_ms": 975493,
+      "name": "Giovanna d'Arco - Cantata a voce sola con piano",
+      "url": "https://open.spotify.com/track/0su1j6PMTNcPfo7ftQQWru"
     },
     {
       "added_at": "2022-06-28 08:38:32",
@@ -1699,6 +1699,26 @@
     {
       "added_at": "2022-06-28 08:38:32",
       "album": {
+        "name": "Rossini: Stabat Mater",
+        "url": "https://open.spotify.com/album/42HdAA7NqanLwohy5UiUjc"
+      },
+      "artists": [
+        {
+          "name": "Gioachino Rossini",
+          "url": "https://open.spotify.com/artist/0roWUeP7Ac4yK4VN6L2gF4"
+        },
+        {
+          "name": "Howard Arman",
+          "url": "https://open.spotify.com/artist/2cjMb8N7gfa90len54jFre"
+        }
+      ],
+      "duration_ms": 240906,
+      "name": "Stabat Mater: V. Eia, mater (Recitativo and Chorus)",
+      "url": "https://open.spotify.com/track/4Vi8wbc8tu3HDfbjmZqNFk"
+    },
+    {
+      "added_at": "2022-06-28 08:38:32",
+      "album": {
         "name": "Rossini: Colbran, the Muse (opera arias)",
         "url": "https://open.spotify.com/album/3GdwQYxeFeYMXJJD3Ruhy4"
       },
@@ -1739,26 +1759,6 @@
       "duration_ms": 273186,
       "name": "Rossini: Armida, Act 3 Scene 10: \"Dove son io? \u2026 Fuggi\" (Armida)",
       "url": "https://open.spotify.com/track/2AuwPusyIhgNwRed55uup4"
-    },
-    {
-      "added_at": "2022-06-28 08:38:32",
-      "album": {
-        "name": "Rossini: Stabat Mater",
-        "url": "https://open.spotify.com/album/42HdAA7NqanLwohy5UiUjc"
-      },
-      "artists": [
-        {
-          "name": "Gioachino Rossini",
-          "url": "https://open.spotify.com/artist/0roWUeP7Ac4yK4VN6L2gF4"
-        },
-        {
-          "name": "Howard Arman",
-          "url": "https://open.spotify.com/artist/2cjMb8N7gfa90len54jFre"
-        }
-      ],
-      "duration_ms": 240906,
-      "name": "Stabat Mater: V. Eia, mater (Recitativo and Chorus)",
-      "url": "https://open.spotify.com/track/4Vi8wbc8tu3HDfbjmZqNFk"
     },
     {
       "added_at": "2022-06-28 08:38:32",

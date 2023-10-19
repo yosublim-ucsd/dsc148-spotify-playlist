@@ -4,7 +4,7 @@
 
 > The best new music by independent artists in the UK + Ireland\. Cover: Lauren Dejey & JUST OSKA
 
-1,340 songs - 2 day 23 hr 48 min
+1,341 songs - 2 day 23 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -110,6 +110,7 @@
 | [bby](https://open.spotify.com/track/6otZ8CRug3ubJGCxJiT94i) | [asianblonde.](https://open.spotify.com/artist/21ttAjGNQzBGHTeQoJYX8H), [Nimstarr](https://open.spotify.com/artist/25hjCXq9ACmSkWbnvKMThf) | [bby](https://open.spotify.com/album/4lPeaxk2PfTQQUfdsE8jwI) | 4:05 | 2023-04-26 | 2023-06-08 |
 | [Be Alright](https://open.spotify.com/track/3t6NBoUIutK70vB2KZovVc) | [Congee](https://open.spotify.com/artist/1YBrOW1kdkPQEgmS1t6UVm) | [Be Alright](https://open.spotify.com/album/5q7KteYBoEbtdEPrYec9yf) | 3:34 | 2022-02-23 | 2022-03-31 |
 | [Be My Guest](https://open.spotify.com/track/1qWBrP1q6NXXpQYYlryCFg) | [Summer Banton](https://open.spotify.com/artist/2Zm0yCmCc5wudHmHSIzESI) | [Be My Guest](https://open.spotify.com/album/4n5ryJWx1DfqljLZp6JH9m) | 2:56 | 2023-09-12 | 2023-10-18 |
+| [beach song \- demo](https://open.spotify.com/track/2TQEizKBJTJNJ1mHYxG6j7) | [Leonie Biney](https://open.spotify.com/artist/4fG5iQ1bDCtgOmhbVNWilq) | [beach song \(demo\)](https://open.spotify.com/album/6WY8KFYlebPMzje7HzPFzh) | 3:15 | 2023-10-18 |  |
 | [Beautiful Psycho](https://open.spotify.com/track/1TcJb07JG2EUaJYOgKkVwN) | [Queen Cult](https://open.spotify.com/artist/3UAgcbjWTEC0xcEZEYNrQt) | [Beautiful Psycho](https://open.spotify.com/album/04ixrTOcAiOBM6UHipnXZJ) | 3:31 | 2022-05-04 | 2022-06-09 |
 | [Beautiful Tragedy](https://open.spotify.com/track/0Y6vGDxBIZOGv1m2prguhv) | [Sophie DeMasi](https://open.spotify.com/artist/04T6bn9LSVviNkkR5YsDSS) | [Beautiful Tragedy](https://open.spotify.com/album/0KRcgxNVA0AiTvjPZDOxk2) | 2:54 | 2022-08-24 | 2023-01-05 |
 | [Bed](https://open.spotify.com/track/1Jsiq8yxT6EXJk3AfoA5YI) | [Eden Rain](https://open.spotify.com/artist/05VijScuoKQiWkLdXcsQAq) | [Bed](https://open.spotify.com/album/2AA5u1b9qcs8ssx2nDZA9v) | 2:46 | 2023-02-22 | 2023-03-23 |
@@ -1297,7 +1298,7 @@
 | [Way That You Are](https://open.spotify.com/track/39qxp1ZO3GdRZ7gbM99UFc) | [Daire Patel](https://open.spotify.com/artist/0qEjllyc5VRbiwOINKPR0G) | [Pretty Sweet](https://open.spotify.com/album/2X5m5sYF7GnxP5phSYCiR0) | 3:21 | 2023-01-04 | 2023-03-02 |
 | [We Just Want To Be Loved](https://open.spotify.com/track/4EmejNQ64gnzGIaHFUDdxI) | [Kate Bond](https://open.spotify.com/artist/3CWmhXjbBDZxRyKgmsmuO3) | [We Just Want To Be Loved](https://open.spotify.com/album/03cs0j2o9TwWJJNVMR1riH) | 3:31 | 2022-08-10 | 2022-09-09 |
 | [We'll Be Alreet](https://open.spotify.com/track/5wqlwFwHMCrVo4bKSjM17X) | [Bandit](https://open.spotify.com/artist/0D77POYEzzGCwxFGJjfPop) | [We'll Be Alreet](https://open.spotify.com/album/2GzKx7KP1WCpmNp59035C6) | 2:57 | 2023-07-11 | 2023-08-16 |
-| [Weak](https://open.spotify.com/track/1OBbroydTzjTpLMxTkQKeV) | [Sola](https://open.spotify.com/artist/1Bfk5r6g6fXLaMoESYbePK), [Rarelyalways](https://open.spotify.com/artist/3c5Rhv29mDcpjzPxpwxdb9) | [Warped Soul](https://open.spotify.com/album/6fmZMYYSkKtMlNpbZPvfVQ) | 4:08 | 2023-09-26 |  |
+| [Weak](https://open.spotify.com/track/1OBbroydTzjTpLMxTkQKeV) | [Sola](https://open.spotify.com/artist/1Bfk5r6g6fXLaMoESYbePK), [Rarelyalways](https://open.spotify.com/artist/3c5Rhv29mDcpjzPxpwxdb9) | [Warped Soul](https://open.spotify.com/album/6fmZMYYSkKtMlNpbZPvfVQ) | 4:08 | 2023-09-26 | 2023-10-19 |
 | [Weak](https://open.spotify.com/track/1yX7JkdUfI1FG4ztLnMOwA) | [Sola](https://open.spotify.com/artist/1Bfk5r6g6fXLaMoESYbePK), [Rarelyalways](https://open.spotify.com/artist/3c5Rhv29mDcpjzPxpwxdb9) | [Weak](https://open.spotify.com/album/6NXqG9RAlFQcJAUx0ZYyBy) | 4:08 | 2023-09-19 | 2023-10-02 |
 | [Weekend Girlfriend](https://open.spotify.com/track/4vs0coIt8Co8x5n50tcv00) | [Viddy](https://open.spotify.com/artist/6JUOx3eoJFvYUKLJ01JFIW) | [Weekend Girlfriend](https://open.spotify.com/album/1j1c5aK2d95028Gko9F8iw) | 3:28 | 2023-02-01 | 2023-03-16 |
 | [west end wedding](https://open.spotify.com/track/2mVexm6N0zJQoZo3kJ1AKl) | [tmdistant](https://open.spotify.com/artist/6BJvojHlWWAV9cbJouYPUi) | [west end wedding](https://open.spotify.com/album/72DyXZ8yZTo9IU5EST8ZAm) | 2:43 | 2023-08-01 | 2023-09-06 |

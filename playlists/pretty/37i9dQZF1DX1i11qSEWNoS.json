@@ -1,12 +1,12 @@
 {
   "description": "und macht laune",
-  "num_followers": 511366,
+  "num_followers": 511748,
   "original_name": "schiebt anders",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxZjMxNDY1ZGI3OTgwYTU0Nzg2OWY1NzQ3NWY5N2M2ZjQ1N2NlY2Vh",
+  "snapshot_id": "MCxhNTNmMWI0MDAxNmU5ZTNiM2ViMDUzMTdlOWY2MGJhNmFjMGJmMTg5",
   "tracks": [
     {
       "added_at": "2023-10-03 11:57:51",
@@ -119,6 +119,30 @@
     {
       "added_at": "2023-10-03 11:57:51",
       "album": {
+        "name": "Boyz In Paris (with VINAI)",
+        "url": "https://open.spotify.com/album/3FrWieInAhMTL33yALP6H0"
+      },
+      "artists": [
+        {
+          "name": "Marnik",
+          "url": "https://open.spotify.com/artist/6S3KljEiIOWoLMUyZrkQUc"
+        },
+        {
+          "name": "Naeleck",
+          "url": "https://open.spotify.com/artist/2DYDFBqoaBP2i9XrTGpOgF"
+        },
+        {
+          "name": "VINAI",
+          "url": "https://open.spotify.com/artist/4mrBetqy378Jf1y6NLszlx"
+        }
+      ],
+      "duration_ms": 151589,
+      "name": "Boyz In Paris (with VINAI)",
+      "url": "https://open.spotify.com/track/17NHXI2CJp7KgdcwcDnRx4"
+    },
+    {
+      "added_at": "2023-10-03 11:57:51",
+      "album": {
         "name": "M\u00e4dchen auf dem Pferd",
         "url": "https://open.spotify.com/album/1nqgi8V3Ii96w1iofIcfcz"
       },
@@ -151,30 +175,6 @@
     {
       "added_at": "2023-10-03 11:57:51",
       "album": {
-        "name": "Boyz In Paris (with VINAI)",
-        "url": "https://open.spotify.com/album/3FrWieInAhMTL33yALP6H0"
-      },
-      "artists": [
-        {
-          "name": "Marnik",
-          "url": "https://open.spotify.com/artist/6S3KljEiIOWoLMUyZrkQUc"
-        },
-        {
-          "name": "Naeleck",
-          "url": "https://open.spotify.com/artist/2DYDFBqoaBP2i9XrTGpOgF"
-        },
-        {
-          "name": "VINAI",
-          "url": "https://open.spotify.com/artist/4mrBetqy378Jf1y6NLszlx"
-        }
-      ],
-      "duration_ms": 151589,
-      "name": "Boyz In Paris (with VINAI)",
-      "url": "https://open.spotify.com/track/17NHXI2CJp7KgdcwcDnRx4"
-    },
-    {
-      "added_at": "2023-10-03 11:57:51",
-      "album": {
         "name": "Giving Me",
         "url": "https://open.spotify.com/album/0wTaLHasxRWB2VBwh9maAc"
       },
@@ -187,22 +187,6 @@
       "duration_ms": 169000,
       "name": "Giving Me",
       "url": "https://open.spotify.com/track/1ACFweuuvf6MHtptObgreR"
-    },
-    {
-      "added_at": "2023-10-03 11:57:51",
-      "album": {
-        "name": "Come Into My Life (The Album)",
-        "url": "https://open.spotify.com/album/3vcwGUl0WiJVssOR1dXEbe"
-      },
-      "artists": [
-        {
-          "name": "Gala",
-          "url": "https://open.spotify.com/artist/3OqTvcWgb0xaainosGVvuZ"
-        }
-      ],
-      "duration_ms": 213394,
-      "name": "Freed From Desire",
-      "url": "https://open.spotify.com/track/3u5N55tHf7hXATSQrjBh2q"
     },
     {
       "added_at": "2023-10-03 11:57:51",
@@ -239,6 +223,22 @@
       "duration_ms": 177291,
       "name": "Baddadan (feat. IRAH, Flowdan, Trigga & Takura)",
       "url": "https://open.spotify.com/track/2ZWmmrWUgDBcPSLihBMvhg"
+    },
+    {
+      "added_at": "2023-10-03 11:57:51",
+      "album": {
+        "name": "Come Into My Life (The Album)",
+        "url": "https://open.spotify.com/album/3vcwGUl0WiJVssOR1dXEbe"
+      },
+      "artists": [
+        {
+          "name": "Gala",
+          "url": "https://open.spotify.com/artist/3OqTvcWgb0xaainosGVvuZ"
+        }
+      ],
+      "duration_ms": 213394,
+      "name": "Freed From Desire",
+      "url": "https://open.spotify.com/track/3u5N55tHf7hXATSQrjBh2q"
     },
     {
       "added_at": "2023-10-03 11:57:51",
@@ -1215,26 +1215,6 @@
     {
       "added_at": "2023-10-03 11:57:51",
       "album": {
-        "name": "Peter Pan",
-        "url": "https://open.spotify.com/album/6z3sGEQXxPO0lx5SOWGHgn"
-      },
-      "artists": [
-        {
-          "name": "Julian Sommer",
-          "url": "https://open.spotify.com/artist/77puYb4Nubacm3PAzkY1UQ"
-        },
-        {
-          "name": "Mia Julia",
-          "url": "https://open.spotify.com/artist/3tN4jv8IaO9UAKTWqpXaV4"
-        }
-      ],
-      "duration_ms": 210869,
-      "name": "Peter Pan",
-      "url": "https://open.spotify.com/track/5CvAzdenlzv3ImMcG7awJV"
-    },
-    {
-      "added_at": "2023-10-03 11:57:51",
-      "album": {
         "name": "Down Under (feat. Colin Hay)",
         "url": "https://open.spotify.com/album/64xmSwJJbFQMf63AFYZXpW"
       },
@@ -1255,6 +1235,26 @@
     {
       "added_at": "2023-10-03 11:57:51",
       "album": {
+        "name": "Peter Pan",
+        "url": "https://open.spotify.com/album/6z3sGEQXxPO0lx5SOWGHgn"
+      },
+      "artists": [
+        {
+          "name": "Julian Sommer",
+          "url": "https://open.spotify.com/artist/77puYb4Nubacm3PAzkY1UQ"
+        },
+        {
+          "name": "Mia Julia",
+          "url": "https://open.spotify.com/artist/3tN4jv8IaO9UAKTWqpXaV4"
+        }
+      ],
+      "duration_ms": 210869,
+      "name": "Peter Pan",
+      "url": "https://open.spotify.com/track/5CvAzdenlzv3ImMcG7awJV"
+    },
+    {
+      "added_at": "2023-10-03 11:57:51",
+      "album": {
         "name": "All Night",
         "url": "https://open.spotify.com/album/5YX1KuyERTN67FxoqcLUQm"
       },
@@ -1271,6 +1271,26 @@
       "duration_ms": 153674,
       "name": "All Night",
       "url": "https://open.spotify.com/track/4taclmQm9wFcK4dKQjR5ny"
+    },
+    {
+      "added_at": "2023-10-03 11:57:51",
+      "album": {
+        "name": "33 Max Verstappen",
+        "url": "https://open.spotify.com/album/5ph3neJzadn49q1YxktC8V"
+      },
+      "artists": [
+        {
+          "name": "Carte Blanq",
+          "url": "https://open.spotify.com/artist/2JMSG0XzHySNP6pdV6g30o"
+        },
+        {
+          "name": "Maxx Power",
+          "url": "https://open.spotify.com/artist/5xO3qTeIdumG381f7Kuqu5"
+        }
+      ],
+      "duration_ms": 170390,
+      "name": "33 Max Verstappen",
+      "url": "https://open.spotify.com/track/4nKRZAONxGgcKCMin730Ai"
     },
     {
       "added_at": "2023-10-03 11:57:51",
@@ -1307,22 +1327,26 @@
     {
       "added_at": "2023-10-03 11:57:51",
       "album": {
-        "name": "33 Max Verstappen",
-        "url": "https://open.spotify.com/album/5ph3neJzadn49q1YxktC8V"
+        "name": "I Can Feel",
+        "url": "https://open.spotify.com/album/1dGXSpvShR62ZdS9k4qjy7"
       },
       "artists": [
         {
-          "name": "Carte Blanq",
-          "url": "https://open.spotify.com/artist/2JMSG0XzHySNP6pdV6g30o"
+          "name": "Leony",
+          "url": "https://open.spotify.com/artist/2NpPlwwDVYR5dIj0F31EcC"
         },
         {
-          "name": "Maxx Power",
-          "url": "https://open.spotify.com/artist/5xO3qTeIdumG381f7Kuqu5"
+          "name": "Niklas Dee",
+          "url": "https://open.spotify.com/artist/1ZPGzmbFTn8GRjqTqnLiFE"
+        },
+        {
+          "name": "VIZE",
+          "url": "https://open.spotify.com/artist/09agIJMxCD2k87ys9Al0f0"
         }
       ],
-      "duration_ms": 170390,
-      "name": "33 Max Verstappen",
-      "url": "https://open.spotify.com/track/4nKRZAONxGgcKCMin730Ai"
+      "duration_ms": 173360,
+      "name": "I Can Feel",
+      "url": "https://open.spotify.com/track/2siKpBqjCCIsOFf5L4AqoR"
     },
     {
       "added_at": "2023-10-03 11:57:51",
@@ -1347,22 +1371,6 @@
     {
       "added_at": "2023-10-03 11:57:51",
       "album": {
-        "name": "Leben am Limit",
-        "url": "https://open.spotify.com/album/3GFtNDpTMjFmmPNVGI202h"
-      },
-      "artists": [
-        {
-          "name": "SXTN",
-          "url": "https://open.spotify.com/artist/0tMFcqLXhtm1Gep20iuIR3"
-        }
-      ],
-      "duration_ms": 224186,
-      "name": "Von Party zu Party",
-      "url": "https://open.spotify.com/track/4h6UIDvGWTYZvu4BLf2GpO"
-    },
-    {
-      "added_at": "2023-10-03 11:57:51",
-      "album": {
         "name": "Turn All The Lights On",
         "url": "https://open.spotify.com/album/2So8QRALJzGvefJp86htBu"
       },
@@ -1379,26 +1387,18 @@
     {
       "added_at": "2023-10-03 11:57:51",
       "album": {
-        "name": "I Can Feel",
-        "url": "https://open.spotify.com/album/1dGXSpvShR62ZdS9k4qjy7"
+        "name": "Leben am Limit",
+        "url": "https://open.spotify.com/album/3GFtNDpTMjFmmPNVGI202h"
       },
       "artists": [
         {
-          "name": "Leony",
-          "url": "https://open.spotify.com/artist/2NpPlwwDVYR5dIj0F31EcC"
-        },
-        {
-          "name": "Niklas Dee",
-          "url": "https://open.spotify.com/artist/1ZPGzmbFTn8GRjqTqnLiFE"
-        },
-        {
-          "name": "VIZE",
-          "url": "https://open.spotify.com/artist/09agIJMxCD2k87ys9Al0f0"
+          "name": "SXTN",
+          "url": "https://open.spotify.com/artist/0tMFcqLXhtm1Gep20iuIR3"
         }
       ],
-      "duration_ms": 173360,
-      "name": "I Can Feel",
-      "url": "https://open.spotify.com/track/2siKpBqjCCIsOFf5L4AqoR"
+      "duration_ms": 224186,
+      "name": "Von Party zu Party",
+      "url": "https://open.spotify.com/track/4h6UIDvGWTYZvu4BLf2GpO"
     },
     {
       "added_at": "2023-10-03 11:57:51",
@@ -1443,22 +1443,6 @@
     {
       "added_at": "2023-10-03 11:57:51",
       "album": {
-        "name": "Tempo",
-        "url": "https://open.spotify.com/album/1xQnVy9txnqnRnbr2nlJf2"
-      },
-      "artists": [
-        {
-          "name": "01099",
-          "url": "https://open.spotify.com/artist/3Z3aTg9PwJ37e8xeO0aUC9"
-        }
-      ],
-      "duration_ms": 131122,
-      "name": "Tempo",
-      "url": "https://open.spotify.com/track/4U4wfzEfxCHCiAdPg3oage"
-    },
-    {
-      "added_at": "2023-10-03 11:57:51",
-      "album": {
         "name": "Another Love",
         "url": "https://open.spotify.com/album/0icW8M6Y5f3Vs8DNhWhtbt"
       },
@@ -1471,6 +1455,22 @@
       "duration_ms": 145676,
       "name": "Another Love",
       "url": "https://open.spotify.com/track/6Hh6pxNSScePI9zjKBIUg2"
+    },
+    {
+      "added_at": "2023-10-03 11:57:51",
+      "album": {
+        "name": "Tempo",
+        "url": "https://open.spotify.com/album/1xQnVy9txnqnRnbr2nlJf2"
+      },
+      "artists": [
+        {
+          "name": "01099",
+          "url": "https://open.spotify.com/artist/3Z3aTg9PwJ37e8xeO0aUC9"
+        }
+      ],
+      "duration_ms": 131122,
+      "name": "Tempo",
+      "url": "https://open.spotify.com/track/4U4wfzEfxCHCiAdPg3oage"
     },
     {
       "added_at": "2023-10-03 11:57:51",
@@ -1539,6 +1539,22 @@
     {
       "added_at": "2023-10-03 11:57:51",
       "album": {
+        "name": "All The Things She Said (Teaboy Flip)",
+        "url": "https://open.spotify.com/album/69vWxMtXxJsbB4AXP4NFEe"
+      },
+      "artists": [
+        {
+          "name": "TEABOY",
+          "url": "https://open.spotify.com/artist/5iGDVVnLBTuVlgZRQd7L1x"
+        }
+      ],
+      "duration_ms": 164327,
+      "name": "All The Things She Said - Teaboy Flip",
+      "url": "https://open.spotify.com/track/4r8vtv55ZqVxRAXdcLGS8J"
+    },
+    {
+      "added_at": "2023-10-03 11:57:51",
+      "album": {
         "name": "Lila Wolken - EP",
         "url": "https://open.spotify.com/album/0uS3xAFBJqwjr0YqWBEGQo"
       },
@@ -1559,22 +1575,6 @@
       "duration_ms": 228053,
       "name": "Lila Wolken",
       "url": "https://open.spotify.com/track/2i7LYnvqSFfmimscnZqVLn"
-    },
-    {
-      "added_at": "2023-10-03 11:57:51",
-      "album": {
-        "name": "All The Things She Said (Teaboy Flip)",
-        "url": "https://open.spotify.com/album/69vWxMtXxJsbB4AXP4NFEe"
-      },
-      "artists": [
-        {
-          "name": "TEABOY",
-          "url": "https://open.spotify.com/artist/5iGDVVnLBTuVlgZRQd7L1x"
-        }
-      ],
-      "duration_ms": 164327,
-      "name": "All The Things She Said - Teaboy Flip",
-      "url": "https://open.spotify.com/track/4r8vtv55ZqVxRAXdcLGS8J"
     },
     {
       "added_at": "2023-10-03 11:57:51",

@@ -4,7 +4,7 @@
 
 > Gazing at pedals, soaring celestially high\. Cover: Duster
 
-463 songs - 1 day 6 hr 18 min
+465 songs - 1 day 6 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -92,7 +92,7 @@
 | [changer](https://open.spotify.com/track/1lamf6BO4jiXGOX56t6pC1) | [bar italia](https://open.spotify.com/artist/6tYmTHApvspl6KAgTfHjAY) | [changer](https://open.spotify.com/album/21aXm7ct1WdqEoOd1Ss5fW) | 3:28 | 2023-05-19 | 2023-05-23 |
 | [changer](https://open.spotify.com/track/2xsZaZI0rAKeF2aPWnMrGn) | [bar italia](https://open.spotify.com/artist/6tYmTHApvspl6KAgTfHjAY) | [Tracey Denim](https://open.spotify.com/album/0Ihb9szHztEdXpHU7C40Qn) | 3:28 | 2023-05-22 |  |
 | [Cherry\-Cola Abyss](https://open.spotify.com/track/3agVTNFmPXfrqQXnxoMyeM) | [Soft Blue Shimmer](https://open.spotify.com/artist/5ZclZsMoBdRY9MJw6l47Fx) | [Heaven Inches Away](https://open.spotify.com/album/3kNVOsMavASjW9PBfltFMJ) | 5:56 | 2021-10-19 | 2022-12-16 |
-| [Chihiro](https://open.spotify.com/track/0Kg61SKiinZ7MCt2xPYzhq) | [Soft Blue Shimmer](https://open.spotify.com/artist/5ZclZsMoBdRY9MJw6l47Fx) | [Heaven Inches Away](https://open.spotify.com/album/3kNVOsMavASjW9PBfltFMJ) | 4:00 | 2022-12-12 | 2023-06-24 |
+| [Chihiro](https://open.spotify.com/track/0Kg61SKiinZ7MCt2xPYzhq) | [Soft Blue Shimmer](https://open.spotify.com/artist/5ZclZsMoBdRY9MJw6l47Fx) | [Heaven Inches Away](https://open.spotify.com/album/3kNVOsMavASjW9PBfltFMJ) | 4:00 | 2022-12-12 |  |
 | [Chinatown](https://open.spotify.com/track/0UQc1EkgxdIB3nGVTuAXKI) | [Wild Nothing](https://open.spotify.com/artist/6NrkINd80slV25wkBu9mEB) | [Gemini](https://open.spotify.com/album/2UoAYpQzSNLuW47goFJE5x) | 3:18 | 2021-10-19 | 2022-07-27 |
 | [Chinatown](https://open.spotify.com/track/3BRfgsKjcakny2wCYfZrvz) | [Wild Nothing](https://open.spotify.com/artist/6NrkINd80slV25wkBu9mEB) | [Gemini](https://open.spotify.com/album/3hxVFxpF7uUtjLHzvGIm7W) | 3:18 | 2021-10-19 | 2023-05-10 |
 | [Chocolate Bar](https://open.spotify.com/track/2P9opsrW3poOvG355tyCpo) | [Infinite Siennas](https://open.spotify.com/artist/6yWPwEnWb3v7gro5aUz8Gi) | [Chocolate Bar](https://open.spotify.com/album/0bMm5M7yVy7s14ksxUYRUg) | 4:12 | 2021-10-19 | 2022-07-01 |
@@ -134,7 +134,8 @@
 | [Die Happily](https://open.spotify.com/track/5JEIIZVri1FvrbO39vGXXZ) | [FRITZ](https://open.spotify.com/artist/2TxetADYy1Fa0ydSfFLPge) | [Pastel](https://open.spotify.com/album/3xWCtrB5gtXzDWk8UOiglW) | 3:25 | 2021-10-19 | 2022-12-03 |
 | [Dismal](https://open.spotify.com/track/4xlAQxlNPIUtSg8K6aVlL8) | [Kalé](https://open.spotify.com/artist/5yNF3n8SacvZy5i5zK7ERv) | [Dismal](https://open.spotify.com/album/44ZdavZzRQbOxaOEbDB31E) | 4:22 | 2022-08-13 | 2022-09-29 |
 | [Distortion Spear](https://open.spotify.com/track/18jxW8sLv8VwBAZJWKOez7) | [Candy Claws](https://open.spotify.com/artist/34Xay0uKsALHCrn5LkrYeh) | [Distortion Spear](https://open.spotify.com/album/1ZRZmhgSWzXID20b8o5jcd) | 3:41 | 2023-08-04 |  |
-| [do you remember](https://open.spotify.com/track/6KJhZ4BtNLf3CltLYF6iaT) | [aboynamedblu](https://open.spotify.com/artist/4DCRHW4ITYEaA0qmW3PYJj) | [do you remember](https://open.spotify.com/album/32pIJshmDwpFGXsCEacwTC) | 2:27 | 2023-06-23 |  |
+| [do you remember](https://open.spotify.com/track/6GTVy03jG3jYJogNVZWHxK) | [aboynamedblu](https://open.spotify.com/artist/4DCRHW4ITYEaA0qmW3PYJj) | [THE RED BUTTON WAS TALKING AGAIN](https://open.spotify.com/album/7zieU55cGtAinDTr3OkPGw) | 2:27 | 2023-06-23 |  |
+| [do you remember](https://open.spotify.com/track/6KJhZ4BtNLf3CltLYF6iaT) | [aboynamedblu](https://open.spotify.com/artist/4DCRHW4ITYEaA0qmW3PYJj) | [do you remember](https://open.spotify.com/album/32pIJshmDwpFGXsCEacwTC) | 2:27 | 2023-06-23 | 2023-10-19 |
 | [do you remember...](https://open.spotify.com/track/701DOYFNMoGM1AaFXHVR95) | [Ka$tro](https://open.spotify.com/artist/22AaKQKPmQXX1xFhc825rJ) | [do you remember...](https://open.spotify.com/album/2iSj6baQQWIv880vQBucQl) | 3:28 | 2023-06-23 |  |
 | [Dodem](https://open.spotify.com/track/6WVvlRjBgIkpK29xDRm9VG) | [Zoon](https://open.spotify.com/artist/1kGt1OwoeqO8aaTBB3TfiC) | [Bekka Ma'iingan](https://open.spotify.com/album/0JC5axi71h7X6SOciEFuKD) | 5:18 | 2023-05-05 | 2023-09-30 |
 | [Don't Give Up](https://open.spotify.com/track/7M3WfnNGtgWsY0h3KEpWUP) | [Tanukichan](https://open.spotify.com/artist/7d0wUlQ0ZXIGFa0YzuBiR6) | [GIZMO](https://open.spotify.com/album/7mUxu7byX5w4tdgKuUWuX1) | 1:52 | 2023-02-09 | 2023-09-30 |
@@ -197,6 +198,7 @@
 | [Go and Come Back](https://open.spotify.com/track/2gF3wvkKkkuAXGFzAPUBSa) | [Fleeting Joys](https://open.spotify.com/artist/314EDjJCQdcNfzwefA7daH) | [Despondent Transponder](https://open.spotify.com/album/3Crg8b3vGdMBH6a7rGBtN9) | 4:30 | 2021-10-19 | 2023-05-10 |
 | [good](https://open.spotify.com/track/1e4nEB443PyOJEMacc1tvg) | [Winter](https://open.spotify.com/artist/4Eun8YBC7P0psGdIf0GRtl), [SASAMI](https://open.spotify.com/artist/4pdoRs7yHNXakMobf8M9Oz) | [What Kind of Blue Are You?](https://open.spotify.com/album/78h5X8ibgjBxrM48kvYLGF) | 4:05 | 2022-09-11 | 2023-06-08 |
 | [good](https://open.spotify.com/track/4CbIwXygDbSAo8jEjNm2MP) | [Winter](https://open.spotify.com/artist/4Eun8YBC7P0psGdIf0GRtl), [SASAMI](https://open.spotify.com/artist/4pdoRs7yHNXakMobf8M9Oz) | [good](https://open.spotify.com/album/1X7Be9kpcbuBq2IK6OH8F2) | 4:05 | 2022-09-11 | 2022-10-24 |
+| [Good Era Doom](https://open.spotify.com/track/1MZSPrg0ZwWYJyb5a39x5q) | [Draag](https://open.spotify.com/artist/7fKByRicmiWrFBEn90MvuM) | [Dark Fire Heresy](https://open.spotify.com/album/1juzyJJABHEPYu14gSkPGj) | 4:05 | 2023-10-18 |  |
 | [Goodtimes](https://open.spotify.com/track/3Pt8kGU9mlpwMsrLA8JmVO) | [Flyying Colours](https://open.spotify.com/artist/3gsBHfj2Ps8IiXEPSexY0Z) | [Fantasy Country](https://open.spotify.com/album/1wG63pgwLf0S5qWlKrDJuP) | 4:03 | 2021-10-19 | 2022-08-20 |
 | [green](https://open.spotify.com/track/4f25SUnxXt0e4ZAnEXXHl0) | [とおのねむり](https://open.spotify.com/artist/11maCnra9UsFVEkqyNO4HU) | [green](https://open.spotify.com/album/4KTZk1PCU51Um5tKj5o1WO) | 4:31 | 2022-08-31 | 2022-09-29 |
 | [Gwen Everest](https://open.spotify.com/track/0jgS3Mw4Q32NSb6r3iDh4J) | [Panchiko](https://open.spotify.com/artist/4KEHIUSoWCcqrk8AddTE1O) | [Failed at Math\(s\)](https://open.spotify.com/album/0xCCtljPkA65lyDP3CXFgr) | 3:04 | 2023-05-05 |  |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-08-09",
-  "description": "Un parque de diversiones para gustos inconformes y sofisticados. Jungle en portada.",
+  "description": "Un parque de diversiones para gustos inconformes y sofisticados. The Drums en portada.",
   "name": "Indielandia",
   "tracks": [
     {
@@ -240,6 +240,28 @@
       "duration_ms": 207133,
       "name": "Deep In The Night",
       "url": "https://open.spotify.com/track/6gtHOp7wydpyIguAIxWrTb"
+    },
+    {
+      "album": {
+        "name": "Jonny",
+        "url": "https://open.spotify.com/album/2yyDNz8lkP0igqZfZzEgv0"
+      },
+      "artists": [
+        {
+          "name": "The Drums",
+          "url": "https://open.spotify.com/artist/0p5axeJsbtTCXBrRVoKjwu"
+        },
+        {
+          "name": "Rico Nasty",
+          "url": "https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU"
+        }
+      ],
+      "date_added": "2023-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219973,
+      "name": "Dying",
+      "url": "https://open.spotify.com/track/60kl9blMLz8yl3akeh6sXe"
     },
     {
       "album": {
@@ -1120,7 +1142,7 @@
       ],
       "date_added": "2023-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-19",
       "duration_ms": 200000,
       "name": "Things will be fine - Bratty Remix",
       "url": "https://open.spotify.com/track/4Af2TwsKHF9Hn10ltZ8xmg"

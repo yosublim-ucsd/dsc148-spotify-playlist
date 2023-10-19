@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX02pE0Dxwufo.md) - [plain]
 
 > take a Louisville slugger to both headlights
 
-[Spotify](https://open.spotify.com/user/spotify) - 73,786 likes - 46 songs - 2 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 73,866 likes - 46 songs - 2 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,7 +32,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX02pE0Dxwufo.md) - [plain]
 | 22 | [Church Bells](https://open.spotify.com/track/67citk3uzWs5qbaIVKTeg8) | [Carrie Underwood](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj) | [Storyteller](https://open.spotify.com/album/4q3SkZWPYJtKno1RbnrjL4) | 3:13 |
 | 23 | [Not Ready to Make Nice](https://open.spotify.com/track/6LCEyZZHFF4ebF1Mike1s5) | [The Chicks](https://open.spotify.com/artist/25IG9fa7cbdmCIy3OnuH57) | [Taking The Long Way](https://open.spotify.com/album/2NeJdEWras0uSuzLPlJZk5) | 3:57 |
 | 24 | [Hush Little Baby](https://open.spotify.com/track/4cjBtjqjURxGPKpnefT1OF) | [Ashley Ryan](https://open.spotify.com/artist/7ocagKTuL7owEFIvssbzVq) | [Hush Little Baby](https://open.spotify.com/album/21Kco6snU7yW9SJfYHhsAy) | 2:54 |
-| 25 | [Burn The House Down](https://open.spotify.com/track/1QWHZzdHL1smRptVT0tysB) | [Kimberly Perry](https://open.spotify.com/artist/3JFfODb5r2GSdBlweDQUE2) | [Bloom](https://open.spotify.com/album/3mEhKKTKee5PmL4UwCYpqo) | 3:34 |
+| 25 | [Burn The House Down](https://open.spotify.com/track/1QWHZzdHL1smRptVT0tysB) | [Kimberly Perry](https://open.spotify.com/artist/3JFfODb5r2GSdBlweDQUE2), [The Band Perry](https://open.spotify.com/artist/75FnCoo4FBxH5K1Rrx0k5A) | [Bloom](https://open.spotify.com/album/3mEhKKTKee5PmL4UwCYpqo) | 3:34 |
 | 26 | [Tulsa](https://open.spotify.com/track/6mGv9INV7tnfldu5hFv0eH) | [Elle King](https://open.spotify.com/artist/3bhu7P5PfngueRHiB9hjcx) | [Tulsa](https://open.spotify.com/album/3v6zVsK3CAPEtIi3GHHMUN) | 2:42 |
 | 27 | [You Lie](https://open.spotify.com/track/462tT5pBVstoLcOSJsBBKw) | [The Band Perry](https://open.spotify.com/artist/75FnCoo4FBxH5K1Rrx0k5A) | [The Band Perry](https://open.spotify.com/album/3dASAcs9QOsmoSLhHjEhCu) | 3:34 |
 | 28 | [Girl Next Door](https://open.spotify.com/track/2dGPKVLHYw6aolHDoZzdTb) | [Brandy Clark](https://open.spotify.com/artist/5vMAKlvvMNSRQRYCAvpG6S) | [Big Day in a Small Town](https://open.spotify.com/album/5WT3uq1m6c85ydroGQwqXl) | 4:31 |
@@ -55,4 +55,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX02pE0Dxwufo.md) - [plain]
 | 45 | [Ever Since You Left](https://open.spotify.com/track/3miEfV2k8EEbn64jYaEq9m) | [Priscilla Block](https://open.spotify.com/artist/6BpvASijzSWj7gnZD4Dvf1) | [Welcome To The Block Party](https://open.spotify.com/album/0dNsg2k0JVBXDjAyASks9p) | 2:44 |
 | 46 | [Best Worst Ex](https://open.spotify.com/track/3fRdUaeiNkAU3tpGhLS4Ma) | [Julia Cole](https://open.spotify.com/artist/48rpE75ZIsnfNFyojfYene), [Alexandra Kay](https://open.spotify.com/artist/67ZcPnEGiAlCx2O3sQarWV) | [Best Worst Ex](https://open.spotify.com/album/21jYnUmAjAhjROZDzMV6lL) | 2:44 |
 
-Snapshot ID: `MCxhYzQ3YmEwYTYwYTJhNjM5NzI1MGZiZTUxMGViMWJlZDE5M2FkNWNl`
+Snapshot ID: `MCxkNTU0NTA4MDMwNmZiMGY1ZDkzNmJkNWI1MGFlMmU0YzljMzIwNzI2`

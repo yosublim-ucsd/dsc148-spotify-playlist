@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6jW9mPgBGv2.md) - [plain]
 
 > El rango más alto\. Ellos lo tienen y lo saben\. Eladio Carrion y Morad plantando cara.
 
-[Spotify](https://open.spotify.com/user/spotify) - 194,369 likes - 85 songs - 5 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 194,588 likes - 85 songs - 5 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,7 +35,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6jW9mPgBGv2.md) - [plain]
 | 25 | [Plata o Plomo](https://open.spotify.com/track/229sfiAhUrcl53cRSOkkdb) | [Son Gotten](https://open.spotify.com/artist/6WjgkE7KEl4vyqwVXSuAox), [Z Jocker](https://open.spotify.com/artist/6IaOUkLKnYH0q8Vm2AdhQ5), [El BAI](https://open.spotify.com/artist/2vnaEm73LHWfchNiQccNBa), [Nysix Music](https://open.spotify.com/artist/5v0eLOwGUJuH1lvPSzw0xD), [El Goldo De Las Conec](https://open.spotify.com/artist/3TcTm7AGTlIJys8Wh7QzBr) | [Plata o Plomo](https://open.spotify.com/album/5hg2rdw9l36rUswjzVTAAk) | 3:01 |
 | 26 | [Quien Va a Frontiar](https://open.spotify.com/track/3ilZY9fbri982eVkRywGrK) | [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY), [YOVNGCHIMI](https://open.spotify.com/artist/4aSlfXDn9R60UlbZEboBUy) | [Quien Va a Frontiar](https://open.spotify.com/album/148Yvodb2BSJVVUzFBy8xf) | 2:54 |
 | 27 | [Si La Calle Llama \- Remix](https://open.spotify.com/track/3qXZqXGniqNt3PK2CBSZgM) | [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e), [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [3MEN2 KBRN](https://open.spotify.com/album/6BGN5CVd7koJApotl5Bj8u) | 4:00 |
-| 28 | [FERRAGAMO](https://open.spotify.com/track/2OkMmFo9V7nAXhojd9QUPR) | [Mont](https://open.spotify.com/artist/41gFAk6ZyYdt7Q1Ir4cbH0), [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp) | [FERRAGAMO](https://open.spotify.com/album/5Rz59vfdoaxddW0kMuvV7X) | 3:38 |
+| 28 | [Ferragamo](https://open.spotify.com/track/2OkMmFo9V7nAXhojd9QUPR) | [Mont](https://open.spotify.com/artist/41gFAk6ZyYdt7Q1Ir4cbH0), [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp) | [Ferragamo](https://open.spotify.com/album/5Rz59vfdoaxddW0kMuvV7X) | 3:38 |
 | 29 | [Soldado Y Profeta \(feat\. Ozuna, Almighty, Kendo & Ñengo Flow\)](https://open.spotify.com/track/6OIePp3zOPV4OubtVTyJJ8) | [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66), [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY), [Almighty](https://open.spotify.com/artist/6P6GTRTigHBp8ZesNtpCKH), [Kendo Kaponi](https://open.spotify.com/artist/1WMwuNKzEFtU6pPkdtryYS), [Ñengo Flow](https://open.spotify.com/artist/12vb80Km0Ew53ABfJOepVz) | [Soldado Y Profeta \(Remix\) \[feat\. Ozuna, Almighty, Kendo & Ñengo Flow\]](https://open.spotify.com/album/1vvOGbKeidxIS74bWGE0gz) | 8:32 |
 | 30 | [GIVENCHY](https://open.spotify.com/track/6bTVP50bbtMtD6RGe2cUoQ) | [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg) | [GIVENCHY](https://open.spotify.com/album/4yNnIoQh8y1uDB6ScOS2vx) | 3:02 |
 | 31 | [Aleman: Bzrp Music Sessions, Vol\. 15](https://open.spotify.com/track/7xRWmHZ2wt3zDgM5mAL0JU) | [Bizarrap](https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36), [Alemán](https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE) | [Aleman: Bzrp Music Sessions, Vol\. 15](https://open.spotify.com/album/3clF95vv6O71LUshRmF2q8) | 2:54 |
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6jW9mPgBGv2.md) - [plain]
 | 84 | [ENCHULETIAO](https://open.spotify.com/track/5Q9h2r0aU17WD8nn0HkSg9) | [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m) | [LEGENDADDY](https://open.spotify.com/album/3rlJCPz7s7bTifG57wjFpt) | 3:09 |
 | 85 | [King Kong](https://open.spotify.com/track/6B1FxvvzfZASAwZHvukJsS) | [El Alfa](https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm) | [DEMBO$$](https://open.spotify.com/album/7bp8TEGxs1Q8bCB3HbzghV) | 3:12 |
 
-Snapshot ID: `MCxlYmRjMmE4ZWNmYzg4N2YxOGNlNDQzYmY2MjA0NTFhNzRlYWFlYTIy`
+Snapshot ID: `MCwxMzBkMTMyNzYzZTYyOTM3NjkwMDk3ZGRhYjA3MDgwNWY0MTM0NmJm`

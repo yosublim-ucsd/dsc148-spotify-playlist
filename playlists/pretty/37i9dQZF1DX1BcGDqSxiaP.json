@@ -1,12 +1,12 @@
 {
   "description": "Releases from the legendary Blues label.",
-  "num_followers": 20491,
+  "num_followers": 20516,
   "original_name": "Legendary Labels: Alligator",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1YTJhNjcxNjQ2OTVkZTU0ODYyZGI4NmE2ZTIyMWI1NjcxMmQ3Nzg0",
+  "snapshot_id": "MCw0NmEyYjcyOTg0MWIyOWRiNzRhYjYwNzNiOWIxNzI2MTBmOGUxMGM4",
   "tracks": [
     {
       "added_at": "2023-05-17 15:52:13",
@@ -455,6 +455,22 @@
     {
       "added_at": "2023-05-17 15:52:13",
       "album": {
+        "name": "Wander This World",
+        "url": "https://open.spotify.com/album/4ZscZNV7mVZupyotq52wLG"
+      },
+      "artists": [
+        {
+          "name": "Jonny Lang",
+          "url": "https://open.spotify.com/artist/5rX1EodZfwxmW4fQX2Caot"
+        }
+      ],
+      "duration_ms": 210973,
+      "name": "Cherry Red Wine",
+      "url": "https://open.spotify.com/track/0WXi2cJGxMUhIXE0KXhC5k"
+    },
+    {
+      "added_at": "2023-05-17 15:52:13",
+      "album": {
         "name": "Meet Me In Bluesland",
         "url": "https://open.spotify.com/album/6AOvEQvCDRMkymHKKOn0ZS"
       },
@@ -471,22 +487,6 @@
       "duration_ms": 208533,
       "name": "Walking With The Wolf",
       "url": "https://open.spotify.com/track/1scXvckUDN7ViQDPB77MqJ"
-    },
-    {
-      "added_at": "2023-05-17 15:52:13",
-      "album": {
-        "name": "Wander This World",
-        "url": "https://open.spotify.com/album/4ZscZNV7mVZupyotq52wLG"
-      },
-      "artists": [
-        {
-          "name": "Jonny Lang",
-          "url": "https://open.spotify.com/artist/5rX1EodZfwxmW4fQX2Caot"
-        }
-      ],
-      "duration_ms": 210973,
-      "name": "Cherry Red Wine",
-      "url": "https://open.spotify.com/track/0WXi2cJGxMUhIXE0KXhC5k"
     },
     {
       "added_at": "2023-05-17 15:52:13",

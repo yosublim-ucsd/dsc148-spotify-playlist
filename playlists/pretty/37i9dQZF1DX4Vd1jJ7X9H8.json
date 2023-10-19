@@ -1,12 +1,12 @@
 {
   "description": "Groovy, dancy, funky stuff.",
-  "num_followers": 287244,
+  "num_followers": 287406,
   "original_name": "Soir\u00e9e",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0ZTMyZDg4NjQ5NTM4ODI5YTYwNDRhN2RhZWFlZWM4NzM3YTMyZjQ4",
+  "snapshot_id": "MCxjOThmYzhkMGMzMDUwZjU3ZGY3MWQzOWMwNTA5MGUzMDBkNmVlYzEz",
   "tracks": [
     {
       "added_at": "2023-09-29 19:53:20",
@@ -115,22 +115,6 @@
     {
       "added_at": "2023-09-29 19:53:20",
       "album": {
-        "name": "Tieduprightnow",
-        "url": "https://open.spotify.com/album/5v7PsESglCFeVcb7wNEWIW"
-      },
-      "artists": [
-        {
-          "name": "Parcels",
-          "url": "https://open.spotify.com/artist/3oKRxpszQKUjjaHz388fVA"
-        }
-      ],
-      "duration_ms": 249956,
-      "name": "Tieduprightnow",
-      "url": "https://open.spotify.com/track/66tkDkPsznE5zIHNt4QkXB"
-    },
-    {
-      "added_at": "2023-09-29 19:53:20",
-      "album": {
         "name": "Metamodernity",
         "url": "https://open.spotify.com/album/1lgZZELIZZwafQJDycr47q"
       },
@@ -143,6 +127,22 @@
       "duration_ms": 162663,
       "name": "Metamodernity",
       "url": "https://open.spotify.com/track/4RGWHfQeJftd5XrP8JUgFj"
+    },
+    {
+      "added_at": "2023-09-29 19:53:20",
+      "album": {
+        "name": "Tieduprightnow",
+        "url": "https://open.spotify.com/album/5v7PsESglCFeVcb7wNEWIW"
+      },
+      "artists": [
+        {
+          "name": "Parcels",
+          "url": "https://open.spotify.com/artist/3oKRxpszQKUjjaHz388fVA"
+        }
+      ],
+      "duration_ms": 249956,
+      "name": "Tieduprightnow",
+      "url": "https://open.spotify.com/track/66tkDkPsznE5zIHNt4QkXB"
     },
     {
       "added_at": "2023-09-29 19:53:20",
@@ -663,22 +663,6 @@
     {
       "added_at": "2023-09-29 19:53:20",
       "album": {
-        "name": "Loretta",
-        "url": "https://open.spotify.com/album/6JK3NfcRSyRnrIdBiZtQGM"
-      },
-      "artists": [
-        {
-          "name": "Ginger Root",
-          "url": "https://open.spotify.com/artist/4UAW69682T7N0wrABUhqx0"
-        }
-      ],
-      "duration_ms": 190153,
-      "name": "Loretta",
-      "url": "https://open.spotify.com/track/3eZqBNHlNA4lUsbAB6UmvD"
-    },
-    {
-      "added_at": "2023-09-29 19:53:20",
-      "album": {
         "name": "Elliot - EP",
         "url": "https://open.spotify.com/album/4AFujnAenTwa4R07Fwyysp"
       },
@@ -691,6 +675,22 @@
       "duration_ms": 236335,
       "name": "Montreal",
       "url": "https://open.spotify.com/track/5maosvba9QkQP14u6vtxog"
+    },
+    {
+      "added_at": "2023-09-29 19:53:20",
+      "album": {
+        "name": "Loretta",
+        "url": "https://open.spotify.com/album/6JK3NfcRSyRnrIdBiZtQGM"
+      },
+      "artists": [
+        {
+          "name": "Ginger Root",
+          "url": "https://open.spotify.com/artist/4UAW69682T7N0wrABUhqx0"
+        }
+      ],
+      "duration_ms": 190153,
+      "name": "Loretta",
+      "url": "https://open.spotify.com/track/3eZqBNHlNA4lUsbAB6UmvD"
     },
     {
       "added_at": "2023-09-29 19:53:20",
@@ -847,6 +847,22 @@
     {
       "added_at": "2023-09-29 19:53:20",
       "album": {
+        "name": "Polydans",
+        "url": "https://open.spotify.com/album/4jsQ9yGCEyEjjQzcsICK2U"
+      },
+      "artists": [
+        {
+          "name": "Roosevelt",
+          "url": "https://open.spotify.com/artist/4AQrqVz6BYwy29iMxcGtx7"
+        }
+      ],
+      "duration_ms": 220726,
+      "name": "Strangers",
+      "url": "https://open.spotify.com/track/6VS4OTcpylKl984tzFYC11"
+    },
+    {
+      "added_at": "2023-09-29 19:53:20",
+      "album": {
         "name": "\u00bfT\u00e9o?",
         "url": "https://open.spotify.com/album/5NhRAV4V8xcH0Wzj047C1g"
       },
@@ -863,22 +879,6 @@
       "duration_ms": 170125,
       "name": "Uno Dos",
       "url": "https://open.spotify.com/track/2YeKQ7zSBbalFl5K0EpEgH"
-    },
-    {
-      "added_at": "2023-09-29 19:53:20",
-      "album": {
-        "name": "Polydans",
-        "url": "https://open.spotify.com/album/4jsQ9yGCEyEjjQzcsICK2U"
-      },
-      "artists": [
-        {
-          "name": "Roosevelt",
-          "url": "https://open.spotify.com/artist/4AQrqVz6BYwy29iMxcGtx7"
-        }
-      ],
-      "duration_ms": 220726,
-      "name": "Strangers",
-      "url": "https://open.spotify.com/track/6VS4OTcpylKl984tzFYC11"
     },
     {
       "added_at": "2023-09-29 19:53:20",

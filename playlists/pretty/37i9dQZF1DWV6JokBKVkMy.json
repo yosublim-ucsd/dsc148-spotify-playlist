@@ -1,12 +1,12 @@
 {
   "description": "The sound and soul that keeps Mauritius jamming",
-  "num_followers": 1816,
+  "num_followers": 1824,
   "original_name": "Sega Hitlist",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxZjAwZWUwOGVjYTBjYWNhZThkNDlhM2U0NGRiMmY2NjE0M2NhYzFk",
+  "snapshot_id": "MCxiZmJjMzM1NDUzNzZjZTZhZDk4NDk2NmM3ZWVjNTU5NzU4ZjI2N2U0",
   "tracks": [
     {
       "added_at": "2022-08-11 10:05:16",
@@ -455,6 +455,22 @@
     {
       "added_at": "2022-08-11 10:05:16",
       "album": {
+        "name": "Music from Mauritius",
+        "url": "https://open.spotify.com/album/1DRPsjliENVvsUKDZ469x3"
+      },
+      "artists": [
+        {
+          "name": "Denis Azor",
+          "url": "https://open.spotify.com/artist/07p5q6fIWYLesAR39CJQDf"
+        }
+      ],
+      "duration_ms": 174497,
+      "name": "Ambalaba",
+      "url": "https://open.spotify.com/track/4gU7d2ZymujNKYeEFsuKaS"
+    },
+    {
+      "added_at": "2022-08-11 10:05:16",
+      "album": {
         "name": "La famille",
         "url": "https://open.spotify.com/album/5SAJBPp2Cny5DAGZjw3Kt7"
       },
@@ -475,22 +491,6 @@
       "duration_ms": 247136,
       "name": "Ingra",
       "url": "https://open.spotify.com/track/2s87WVUExrg6x979SqMdwL"
-    },
-    {
-      "added_at": "2022-08-11 10:05:16",
-      "album": {
-        "name": "Music from Mauritius",
-        "url": "https://open.spotify.com/album/1DRPsjliENVvsUKDZ469x3"
-      },
-      "artists": [
-        {
-          "name": "Denis Azor",
-          "url": "https://open.spotify.com/artist/07p5q6fIWYLesAR39CJQDf"
-        }
-      ],
-      "duration_ms": 174497,
-      "name": "Ambalaba",
-      "url": "https://open.spotify.com/track/4gU7d2ZymujNKYeEFsuKaS"
     },
     {
       "added_at": "2022-08-11 10:05:16",
@@ -527,26 +527,6 @@
     {
       "added_at": "2022-08-11 10:05:16",
       "album": {
-        "name": "Zalouzi",
-        "url": "https://open.spotify.com/album/4i8Ud0mH48W6TV0lfTr6UK"
-      },
-      "artists": [
-        {
-          "name": "JSB Morning Game",
-          "url": "https://open.spotify.com/artist/6B9Kbq1Jds4MxuYWXSAoj7"
-        },
-        {
-          "name": "Julien Verloppe",
-          "url": "https://open.spotify.com/artist/40ld1lEZz0y0r3cHngak60"
-        }
-      ],
-      "duration_ms": 250358,
-      "name": "Ti lipi\u00e9 fer rozet",
-      "url": "https://open.spotify.com/track/31pGdVTn8adJ9FV2515Lkd"
-    },
-    {
-      "added_at": "2022-08-11 10:05:16",
-      "album": {
         "name": "Mario",
         "url": "https://open.spotify.com/album/3ddiv84hCD2DU3RWhHTczv"
       },
@@ -567,6 +547,26 @@
       "duration_ms": 230817,
       "name": "Mario",
       "url": "https://open.spotify.com/track/74beHnWiIdINBtXaqU5sSJ"
+    },
+    {
+      "added_at": "2022-08-11 10:05:16",
+      "album": {
+        "name": "Zalouzi",
+        "url": "https://open.spotify.com/album/4i8Ud0mH48W6TV0lfTr6UK"
+      },
+      "artists": [
+        {
+          "name": "JSB Morning Game",
+          "url": "https://open.spotify.com/artist/6B9Kbq1Jds4MxuYWXSAoj7"
+        },
+        {
+          "name": "Julien Verloppe",
+          "url": "https://open.spotify.com/artist/40ld1lEZz0y0r3cHngak60"
+        }
+      ],
+      "duration_ms": 250358,
+      "name": "Ti lipi\u00e9 fer rozet",
+      "url": "https://open.spotify.com/track/31pGdVTn8adJ9FV2515Lkd"
     },
     {
       "added_at": "2022-08-11 10:05:16",
@@ -623,22 +623,6 @@
     {
       "added_at": "2022-08-11 10:05:16",
       "album": {
-        "name": "Sort' dovan (La compil)",
-        "url": "https://open.spotify.com/album/6h0C2gJIpSvBRiJUHxCBP0"
-      },
-      "artists": [
-        {
-          "name": "Morgan",
-          "url": "https://open.spotify.com/artist/6YS1MAWIyEw8lWZb2hfN3d"
-        }
-      ],
-      "duration_ms": 285431,
-      "name": "Ma demand aou pardon",
-      "url": "https://open.spotify.com/track/0QYy1rBXI2qq0iosKzy66W"
-    },
-    {
-      "added_at": "2022-08-11 10:05:16",
-      "album": {
         "name": "Sega Champagne",
         "url": "https://open.spotify.com/album/3Cml3TVka9BZIw3Rz6st5Q"
       },
@@ -655,6 +639,38 @@
       "duration_ms": 231504,
       "name": "Sega Champagne",
       "url": "https://open.spotify.com/track/1e2rj3iOYXGEJ6Ybftt5Uc"
+    },
+    {
+      "added_at": "2022-08-11 10:05:16",
+      "album": {
+        "name": "Sort' dovan (La compil)",
+        "url": "https://open.spotify.com/album/6h0C2gJIpSvBRiJUHxCBP0"
+      },
+      "artists": [
+        {
+          "name": "Morgan",
+          "url": "https://open.spotify.com/artist/6YS1MAWIyEw8lWZb2hfN3d"
+        }
+      ],
+      "duration_ms": 285431,
+      "name": "Ma demand aou pardon",
+      "url": "https://open.spotify.com/track/0QYy1rBXI2qq0iosKzy66W"
+    },
+    {
+      "added_at": "2022-08-11 10:05:16",
+      "album": {
+        "name": "Zalouzi",
+        "url": "https://open.spotify.com/album/4i8Ud0mH48W6TV0lfTr6UK"
+      },
+      "artists": [
+        {
+          "name": "JSB Morning Game",
+          "url": "https://open.spotify.com/artist/6B9Kbq1Jds4MxuYWXSAoj7"
+        }
+      ],
+      "duration_ms": 281917,
+      "name": "Madame ohh",
+      "url": "https://open.spotify.com/track/30i9vsQ8x5UPsGS4oRNPaf"
     },
     {
       "added_at": "2022-08-11 10:05:16",
@@ -691,22 +707,6 @@
     {
       "added_at": "2022-08-11 10:05:16",
       "album": {
-        "name": "Zalouzi",
-        "url": "https://open.spotify.com/album/4i8Ud0mH48W6TV0lfTr6UK"
-      },
-      "artists": [
-        {
-          "name": "JSB Morning Game",
-          "url": "https://open.spotify.com/artist/6B9Kbq1Jds4MxuYWXSAoj7"
-        }
-      ],
-      "duration_ms": 281917,
-      "name": "Madame ohh",
-      "url": "https://open.spotify.com/track/30i9vsQ8x5UPsGS4oRNPaf"
-    },
-    {
-      "added_at": "2022-08-11 10:05:16",
-      "album": {
         "name": "Eliza",
         "url": "https://open.spotify.com/album/5xUYCT6hrnMS2o2G6PUrOp"
       },
@@ -719,6 +719,22 @@
       "duration_ms": 308052,
       "name": "Eliza",
       "url": "https://open.spotify.com/track/15fYq0hQa3jljdJpYKm1X3"
+    },
+    {
+      "added_at": "2022-08-11 10:05:16",
+      "album": {
+        "name": "Le Roi du s\u00e9ga",
+        "url": "https://open.spotify.com/album/5yIOf6ROItIpkpc8f5Uo9h"
+      },
+      "artists": [
+        {
+          "name": "Luc Donat",
+          "url": "https://open.spotify.com/artist/6L1SxgKXrIel5yitflGBxm"
+        }
+      ],
+      "duration_ms": 192200,
+      "name": "S\u00e9ga Jacquot",
+      "url": "https://open.spotify.com/track/4BjTvikquZufEHDjxJMBxm"
     },
     {
       "added_at": "2022-08-11 10:05:16",
@@ -739,22 +755,6 @@
       "duration_ms": 278048,
       "name": "Vandredi Sen",
       "url": "https://open.spotify.com/track/50I00m6vPtp372eCRKJ7ZB"
-    },
-    {
-      "added_at": "2022-08-11 10:05:16",
-      "album": {
-        "name": "Le Roi du s\u00e9ga",
-        "url": "https://open.spotify.com/album/5yIOf6ROItIpkpc8f5Uo9h"
-      },
-      "artists": [
-        {
-          "name": "Luc Donat",
-          "url": "https://open.spotify.com/artist/6L1SxgKXrIel5yitflGBxm"
-        }
-      ],
-      "duration_ms": 192200,
-      "name": "S\u00e9ga Jacquot",
-      "url": "https://open.spotify.com/track/4BjTvikquZufEHDjxJMBxm"
     },
     {
       "added_at": "2022-08-11 10:05:16",

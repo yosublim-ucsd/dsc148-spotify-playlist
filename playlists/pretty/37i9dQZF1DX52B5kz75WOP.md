@@ -26,4 +26,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX52B5kz75WOP.md) - [plain]
 | 16 | [Hound Dog](https://open.spotify.com/track/64Ny7djQ6rNJspquof2KoX) | [Elvis Presley](https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE) | [Elvis' Golden Records](https://open.spotify.com/album/0C3t1htEDTFKcg7F2rNbek) | 2:16 |
 | 17 | [Crazy Train](https://open.spotify.com/track/7ACxUo21jtTHzy7ZEV56vU) | [Ozzy Osbourne](https://open.spotify.com/artist/6ZLTlhejhndI4Rh53vYhrY) | [Blizzard Of Ozz \(40th Anniversary Expanded Edition\)](https://open.spotify.com/album/4qUMByJ3Pk94BFnCmGaUPS) | 4:53 |
 
-Snapshot ID: `MCxjMWEyNjE4NTk3ODE3NmU1NDI2ZmJlNmFiMjJmZDk4NGFhYTE5NmYz`
+Snapshot ID: `MCwxZGZlYzNjYzQ4YTE0MTcwODQ3MGJiOGEwNDQ1MGQ3YjdiNGRjZDIz`

@@ -4,7 +4,7 @@
 
 > Relax to the sweet and soothing sound of Bossa nova.
 
-244 songs - 15 hr 38 min
+245 songs - 15 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -60,7 +60,7 @@
 | [Day by day](https://open.spotify.com/track/4Wa359eOBiLxHlz5W6Czp6) | [Luca Mundaca](https://open.spotify.com/artist/7u3L4UZO9IXBElwdUyvAxl) | [day by day](https://open.spotify.com/album/4mQSSzdJ4EdKxRNx5wF9nB) | 4:19 | 2022-05-13 |  |
 | [De Conversa Em Conversa](https://open.spotify.com/track/61hcUAElBx2rcOCoaldQNj) | [João Gilberto](https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy) | [Summer Samba! \- João Gilberto](https://open.spotify.com/album/4pUsMoa4fayB4dCGpNrVLc) | 2:16 | 2022-06-10 | 2023-08-25 |
 | [Desafinado](https://open.spotify.com/track/0aOH62uqDzuvCvN2jdVtZs) | [Stan Getz](https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8), [Charlie Byrd](https://open.spotify.com/artist/0i5yrKtlP4URcRBXQQwnik) | [Jazz Samba](https://open.spotify.com/album/5Lyz7ZD1UaPq6WoEqTOqom) | 5:49 | 2022-08-17 |  |
-| [Dias Ensolarados Pela Frente](https://open.spotify.com/track/6vurAgqsH9soYum0gS52vu) | [Sara Santos](https://open.spotify.com/artist/1K83XnIXY2xWu7cyBcOdjr) | [Dias Ensolarados Pela Frente](https://open.spotify.com/album/1aQXeiKnkkiMWfC5z5oS3a) | 3:51 | 2023-09-22 |  |
+| [Dias Ensolarados Pela Frente](https://open.spotify.com/track/6vurAgqsH9soYum0gS52vu) | [Sara Santos](https://open.spotify.com/artist/1K83XnIXY2xWu7cyBcOdjr) | [Dias Ensolarados Pela Frente](https://open.spotify.com/album/1aQXeiKnkkiMWfC5z5oS3a) | 3:51 | 2023-09-22 | 2023-10-19 |
 | [Dindi](https://open.spotify.com/track/0v2LWjMTUcwl49SLxflj9n) | [Midtown Players](https://open.spotify.com/artist/1GRABQUFydUxNHGumW35mO) | [Dindi](https://open.spotify.com/album/77UUjAXL27yMKkyWzam0xL) | 2:41 | 2022-12-08 |  |
 | [Don't Know Why](https://open.spotify.com/track/7v70FdNcR0GkePhz3aQV3n) | [Naira Fonseca](https://open.spotify.com/artist/7CsiZmusVRzvSxLFk3qrgC) | [Don't Know Why](https://open.spotify.com/album/1eOWhe6KSCG5aV9mrhjySq) | 3:24 | 2023-01-19 |  |
 | [Don't Think Twice, It's Alright](https://open.spotify.com/track/6UeCjzfLUBhHOtney81sPn) | [Emilie\-Claire Barlow](https://open.spotify.com/artist/4doI7TR51c6DTaveTwpIkg) | [The Beat Goes On](https://open.spotify.com/album/6L6CnGHpTnvj3BUf441OCh) | 4:40 | 2022-05-13 |  |
@@ -126,6 +126,7 @@
 | [Lembranças](https://open.spotify.com/track/4eGXFQEQGGxgYy6OFabfJV) | [Vitor José Fonseca](https://open.spotify.com/artist/4lmPgpLRyJHPseygyVBGTu) | [Lembranças](https://open.spotify.com/album/1uPZt0rwu5GK8wA9Qji4tW) | 4:04 | 2022-05-13 |  |
 | [Les eaux de mars](https://open.spotify.com/track/32FfL5hpFQdweMkxg8Z55o) | [Stacey Kent](https://open.spotify.com/artist/03EYBMnqSchCMp5D9qmFXi), [Jim Tomlinson](https://open.spotify.com/artist/5L3fIRSYQCR3EJwQICfyRq), [Graham Harvey](https://open.spotify.com/artist/1x7a6AcM8lS9mfpkzfIgAt), [Matt Skelton](https://open.spotify.com/artist/1Ak5vW938xaMoVfXuHeZfA), [John Parricelli](https://open.spotify.com/artist/55Ib86Ob0dKLELhJ1gvUri), [Jeremy Brown](https://open.spotify.com/artist/2GryQVS8rv0VqHUGN4Ua3v) | [Raconte\-moi..\. \(Bonus Edition\)](https://open.spotify.com/album/3afGgL2rBWMuLYEWXScDFb) | 3:38 | 2022-05-13 | 2023-08-25 |
 | [Liljeholmsviken](https://open.spotify.com/track/3Gw26kNDJHfTtHJQOzI1h4) | [Vendla](https://open.spotify.com/artist/4uWu7kqFidRgiqrLM5x1Vu) | [Liljeholmsviken](https://open.spotify.com/album/6wrG9MReEESMfnXLh3daCe) | 4:22 | 2023-06-13 |  |
+| [Lonely Desires](https://open.spotify.com/track/6FgLJ7dCQMjgvqrKnYP1Q6) | [Amir Patel](https://open.spotify.com/artist/2IwMjlPYSZLq7oH4YN4WFy) | [Lonely Desires](https://open.spotify.com/album/6SYo8TS6PN3OIVqSfmUqW1) | 2:41 | 2023-10-13 |  |
 | [Lá Vem a Baiana](https://open.spotify.com/track/1n441XV55b21VveSUSA1SA) | [Jussara Silveira](https://open.spotify.com/artist/59RULa3Jap6Q7Pj1o9tb7T) | [Canções de Caymmi](https://open.spotify.com/album/4cLmwrthVvhIYcOcrVDUaX) | 4:02 | 2022-05-13 |  |
 | [Manha de Carnaval](https://open.spotify.com/track/0kfdvJhyb0QHBG1IM9Vlht) | [João Donato](https://open.spotify.com/artist/17wDxPR2GcU3r1dpCoCiUi) | [The New Sound of Brazil](https://open.spotify.com/album/0947CUJYGkjD70oXtYtgbU) | 3:09 | 2022-05-13 |  |
 | [Maua](https://open.spotify.com/track/02ngxoQds9K80KQk95QDR1) | [Joao Silva Olivieira](https://open.spotify.com/artist/73JoEuxW6Q8dYPQ9oseUmX) | [Mestre Sala](https://open.spotify.com/album/64XduSoe5Uw39MbiGOhs1p) | 5:05 | 2022-12-22 |  |

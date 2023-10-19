@@ -1,12 +1,12 @@
 {
   "description": "Break a sweat with this Zumba-inspired playlist! Find a class at Zumba.com ",
-  "num_followers": 1857743,
+  "num_followers": 1857746,
   "original_name": "Zumba\u00ae Beats",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5M2Q4MmVlMzU2OTZkOWVlYmIxZmFkNzg5NjY4YzdiNjZhYmE3ZGY0",
+  "snapshot_id": "MCxkNmRkZWNiMDk2OGVhZjFmMTRiODc5YWVjNjU4NDVhOTM1MzYxMDg1",
   "tracks": [
     {
       "added_at": "2023-10-13 01:34:23",
@@ -695,26 +695,6 @@
     {
       "added_at": "2023-10-13 01:34:23",
       "album": {
-        "name": "MI EXXX",
-        "url": "https://open.spotify.com/album/1O9NM8bAvDQwD5ZZDmoStC"
-      },
-      "artists": [
-        {
-          "name": "Wisin",
-          "url": "https://open.spotify.com/artist/3E6xrwgnVfYCrCs0ePERDz"
-        },
-        {
-          "name": "Anuel AA",
-          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
-        }
-      ],
-      "duration_ms": 194470,
-      "name": "MI EXXX",
-      "url": "https://open.spotify.com/track/5hHzqkPU6TQxWtV2cJqsMp"
-    },
-    {
-      "added_at": "2023-10-13 01:34:23",
-      "album": {
         "name": "SAGITARIO",
         "url": "https://open.spotify.com/album/4GlriazgsYPXES2XYkb4gb"
       },
@@ -735,6 +715,26 @@
       "duration_ms": 232843,
       "name": "Los Aparatos",
       "url": "https://open.spotify.com/track/4b6KA8SAIvDy9wT12Emzfc"
+    },
+    {
+      "added_at": "2023-10-13 01:34:23",
+      "album": {
+        "name": "MI EXXX",
+        "url": "https://open.spotify.com/album/1O9NM8bAvDQwD5ZZDmoStC"
+      },
+      "artists": [
+        {
+          "name": "Wisin",
+          "url": "https://open.spotify.com/artist/3E6xrwgnVfYCrCs0ePERDz"
+        },
+        {
+          "name": "Anuel AA",
+          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
+        }
+      ],
+      "duration_ms": 194470,
+      "name": "MI EXXX",
+      "url": "https://open.spotify.com/track/5hHzqkPU6TQxWtV2cJqsMp"
     },
     {
       "added_at": "2023-10-13 01:34:23",

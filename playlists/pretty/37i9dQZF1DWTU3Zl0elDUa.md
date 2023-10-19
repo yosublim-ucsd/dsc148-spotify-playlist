@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTU3Zl0elDUa.md) - [plain]
 
 > Essential club anthems from the golden era of house music\. Cover: Kenny Dope and Little Louie Vega
 
-[Spotify](https://open.spotify.com/user/spotify) - 313,554 likes - 60 songs - 5 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 313,791 likes - 60 songs - 5 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTU3Zl0elDUa.md) - [plain]
 | 59 | [Everybody \(All over the World\) \- Dance Version](https://open.spotify.com/track/4XbAHiP83NvAj1rW2vIrys) | [FPI Project](https://open.spotify.com/artist/6HNYPrYPF6UzZhVFu2sLeh) | [Everybody \(All Over The World\)](https://open.spotify.com/album/29vo83aZt4XUt2gUSAxzwg) | 5:13 |
 | 60 | [Mushrooms \- Salt City Orchestra Out There Mix](https://open.spotify.com/track/2vRbn7ZmxrkEO2SBfxJe3V) | [Marshall Jefferson](https://open.spotify.com/artist/2Di8r9df6xjyj6CVOqbGVz), [Noosa Heads](https://open.spotify.com/artist/4qZL2VAnbz5esT94wlilZp), [Salt City Orchestra](https://open.spotify.com/artist/6nHCRufVUGt9HmvAOZXhOi) | [Mushrooms](https://open.spotify.com/album/4UqQPjkCRNr1VDqqHnMTQ5) | 8:12 |
 
-Snapshot ID: `MCxiZjNiMWU3OWU1NGZhMmIwYTNhOTRkZDRjZjhlMTViYjY4YTcwOTYw`
+Snapshot ID: `MCxiODAxYzlhOTQyYTc5M2M2NGZkY2E4ZTdkMTNiNDcyOGQyMjMwYmE3`

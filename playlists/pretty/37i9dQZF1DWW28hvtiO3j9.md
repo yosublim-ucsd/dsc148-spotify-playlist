@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW28hvtiO3j9.md) - [plain]
 
 > Explore the dazzling sound of Japanese City Pop from the ‘80s./ 都会の夜をクルージング、週末は海辺でリゾート気分。煌めきに満ちた毎日を彩った、黄金期のシティポップ 。
 
-[Spotify](https://open.spotify.com/user/spotify) - 131,283 likes - 50 songs - 3 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 131,438 likes - 50 songs - 3 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW28hvtiO3j9.md) - [plain]
 | 49 | [Junjou](https://open.spotify.com/track/3Eyujq7o2Uhi5pDOdkRZ4Q) | [Ami Ozaki](https://open.spotify.com/artist/0BPn2k0BoBN6XceavMVCTj) | [Air Kiss](https://open.spotify.com/album/0HPFK3PQpRl1bU3Maptq78) | 3:31 |
 | 50 | [真珠のピアス](https://open.spotify.com/track/6D51xQYMQkh6LFOFlp3Gad) | [Yumi Matsutoya](https://open.spotify.com/artist/1LQQtqc1vQ1neUgZrjYlEU) | [PEARL PIERCE](https://open.spotify.com/album/2KftKQGKx6r6zREGJq1cLa) | 5:44 |
 
-Snapshot ID: `MCxiN2JkNWY4MTUwZTViNzc3NzFhZDAxZTRjOThhZGVhZGRlMzJkMWIy`
+Snapshot ID: `MCw2OGUwYmIxY2ZkOWUyNjg1NjJhZWI0MDZkZDI0MDhjYTUwM2YzZDk2`

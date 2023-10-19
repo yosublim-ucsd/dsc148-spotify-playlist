@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTcqUzwhNmKv.md) - [plain]
 
 > Spiritbox on top of the biggest Metal playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,454,505 likes - 75 songs - 5 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,454,704 likes - 75 songs - 5 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -77,11 +77,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTcqUzwhNmKv.md) - [plain]
 | 67 | [Wake The Dead](https://open.spotify.com/track/7cLEpyYMAgQh3x0oX6scp3) | [blessthefall](https://open.spotify.com/artist/7t2C8WwLyKUKRe0LVh8zl9) | [Wake The Dead](https://open.spotify.com/album/50NFxpSSYkfxIIrd6RX7Lu) | 3:07 |
 | 68 | [Deep in the Willow](https://open.spotify.com/track/7KbfKTMX3wbQW5OJvIGRdg) | [Knocked Loose](https://open.spotify.com/artist/4qrHkx5cgWIslciLXUMrYw) | [Upon Loss Singles](https://open.spotify.com/album/75ineHmMUJPWsM7H8gwKFZ) | 3:31 |
 | 69 | [Pale Iris](https://open.spotify.com/track/5c3CJeTQO5oZqKdKRAqkg3) | [ERRA](https://open.spotify.com/artist/2UoOdQyBGyzrEfxcY77ce0) | [Pale Iris](https://open.spotify.com/album/3XIN5O8ioMsCQwumlx7QUt) | 4:28 |
-| 70 | [Last Word](https://open.spotify.com/track/0MAVD0SfEWpODVQkvuTw98) | [Baroness](https://open.spotify.com/artist/3KdXhEwbqFHfNfSk7L9E87) | [Last Word](https://open.spotify.com/album/5tABXu8g3m8wa54PnN0No5) | 6:17 |
+| 70 | [Last Word](https://open.spotify.com/track/4j1xC0CxFsrpx6s5SA0ZGG) | [Baroness](https://open.spotify.com/artist/3KdXhEwbqFHfNfSk7L9E87) | [STONE \(Deluxe\)](https://open.spotify.com/album/7mv4FQrLiyJWLDazVNZzTi) | 6:17 |
 | 71 | [Fedrekult](https://open.spotify.com/track/6USwgMF3VBSKMe14P0TJb4) | [Kvelertak](https://open.spotify.com/artist/0VE0GTaTSeeGSzrQpLmeb9) | [Endling](https://open.spotify.com/album/5LlLDIoYFzmH7CLK8jI2YA) | 3:51 |
 | 72 | [Echoes \(Radio Edit\)](https://open.spotify.com/track/3fFjk1czgVziPEQmcLlD0J) | [TesseracT](https://open.spotify.com/artist/23ytwhG1pzX6DIVWRWvW1r) | [Echoes \(Radio Edit\)](https://open.spotify.com/album/6xxlAng53QMr7C8OmthgjG) | 3:34 |
 | 73 | [Obliquity of the Ecliptic](https://open.spotify.com/track/0c1EnTUEQoXVH73NbVDi3D) | [Blood Incantation](https://open.spotify.com/artist/6FGv87WQ3mJWn3cmLUww6x) | [Luminescent Bridge](https://open.spotify.com/album/6fw6OaFAR6IsxWk1ZjIYUJ) | 8:53 |
 | 74 | [Summoned for Sacrifice](https://open.spotify.com/track/3UKHl5blhmofaIl8aFHAN1) | [Cannibal Corpse](https://open.spotify.com/artist/0yLwGBQiBqhXOvmTfH2A7n) | [Chaos Horrific](https://open.spotify.com/album/2OsBHxwlW8kJx2YCnhH7rI) | 4:05 |
 | 75 | [Beholden to Clan](https://open.spotify.com/track/5LxBDSxTZH9hrNTMXnMEGT) | [Wolves In The Throne Room](https://open.spotify.com/artist/5lqyPWmAivV75tII5Vxpet) | [Crypt of Ancestral Knowledge](https://open.spotify.com/album/2gWPiPmcyw7Hdha3wR74g4) | 6:57 |
 
-Snapshot ID: `MCxjODNhYTQ1ZjY3ZGQ4ZDI5OGI4ZGE3NDg0MjNiZDVjODJmNWE2NmE2`
+Snapshot ID: `MCw2OTZmMWQ0Yjg0YmJkMjBmYWY4ODY4NzY2Y2ZkMWYyZjZjZTA0YjI0`

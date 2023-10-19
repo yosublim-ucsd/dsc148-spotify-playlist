@@ -4,7 +4,7 @@
 
 > Os lançamentos dessa semana incluem Ana Castela, Djonga, Mc Davi, Di Propósito, Avine Vinny e João Gomes e muito mais
 
-8,396 songs - 17 day 18 hr 26 min
+8,397 songs - 17 day 18 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -6024,7 +6024,8 @@
 | [Putaria romântica](https://open.spotify.com/track/41u4Vlhscn4sDXqz94UzGU) | [MC Mari](https://open.spotify.com/artist/2AdUWxNm17kkGZiPGuorth), [Dj Will DF](https://open.spotify.com/artist/5gN6SfppiL5y6Q2zEWLcVP) | [Putaria romântica](https://open.spotify.com/album/4oXM75dG9XRBCUBioefW74) | 2:49 | 2023-04-21 | 2023-04-29 |
 | [Puto de Luxo](https://open.spotify.com/track/07ju745iEQFzrMsX7UUzVc) | [Xamã](https://open.spotify.com/artist/5YwzDz4RJfTiMHS4tdR5Lf), [Vulgo FK](https://open.spotify.com/artist/27azwwkxutWL1BWMkgNIh0), [Gustah](https://open.spotify.com/artist/0nzfP49X2nrzmmkwZf180L) | [Puto de Luxo](https://open.spotify.com/album/6znvdqy8BOk5pPExvi18f5) | 2:24 | 2022-12-02 | 2022-12-10 |
 | [Puxa Saco](https://open.spotify.com/track/0lWcdNN8tmE8F6qHVpjC8T) | [Kaike](https://open.spotify.com/artist/1HKqpxQ9sAJ5FXmiDWOA1V) | [Puxa Saco](https://open.spotify.com/album/4hRQdQWvM0o7YeqxULgh5B) | 2:29 | 2022-07-29 | 2022-08-06 |
-| [Pá Tudum](https://open.spotify.com/track/7lEEqw5r8r0hhEVUen3LJl) | [Lukkas](https://open.spotify.com/artist/3yJOjR6PkQh6QU6ZB8waUL), [MC Morena](https://open.spotify.com/artist/4SkLlpL9lBLrUH3tLNpJTz) | [Pá Tudum](https://open.spotify.com/album/6JGqf20wy9CJZoF1AkQ1mH) | 2:52 | 2023-10-13 |  |
+| [Pá Tudum](https://open.spotify.com/track/2JfpupKQmUSR59xzKiDGeI) | [Lukkas](https://open.spotify.com/artist/3yJOjR6PkQh6QU6ZB8waUL), [Mc Morena](https://open.spotify.com/artist/28QnIZpWxKcxuSk4iRLUgX) | [Pá Tudum](https://open.spotify.com/album/5gDj6ZV2X0WkIFk4wPw58p) | 2:52 | 2023-10-13 |  |
+| [Pá Tudum](https://open.spotify.com/track/7lEEqw5r8r0hhEVUen3LJl) | [Lukkas](https://open.spotify.com/artist/3yJOjR6PkQh6QU6ZB8waUL), [MC Morena](https://open.spotify.com/artist/4SkLlpL9lBLrUH3tLNpJTz) | [Pá Tudum](https://open.spotify.com/album/6JGqf20wy9CJZoF1AkQ1mH) | 2:52 | 2023-10-13 | 2023-10-19 |
 | [Pássaros](https://open.spotify.com/track/09a27piHzkROsmYoFqr15A) | [Projota](https://open.spotify.com/artist/2zGf6lwQ9PxXdoeo5XXP2K), [Lourena](https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh) | [A Saída Está Dentro](https://open.spotify.com/album/6VfOqa6cm75t5RjmC62hC8) | 3:51 | 2022-01-14 | 2022-01-22 |
 | [Pé Na Porta](https://open.spotify.com/track/1RUJN6TBpvhmwXJRhsIumB) | [Mc Magal](https://open.spotify.com/artist/2FDaBZt51fOXh2rbHL8Afr), [Fahel](https://open.spotify.com/artist/6eBQDBWq5rlP76s4TpOHCC) | [Pé Na Porta](https://open.spotify.com/album/5sSUOIjCHhs91OIoav5lBh) | 2:55 | 2023-03-17 | 2023-03-25 |
 | [Pérola](https://open.spotify.com/track/0OUFQe9fTQPUDh04a2IbaE) | [Veigh](https://open.spotify.com/artist/4YqwRbMLqGHRHLS1w2ZKse), [Nagalli](https://open.spotify.com/artist/6TPJK8tv3AKKSsw0lENTQk) | [Pérola](https://open.spotify.com/album/5GJLRXEEBcQoPp1X8nFpyK) | 1:54 | 2022-02-18 | 2022-02-26 |

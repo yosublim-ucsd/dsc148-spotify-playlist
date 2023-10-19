@@ -4,7 +4,7 @@
 
 > Iconic instrumentals from the history of Blues.
 
-109 songs - 7 hr 3 min
+110 songs - 7 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,7 +17,7 @@
 | [Apollo Jump](https://open.spotify.com/track/2udbMDGYCNJd9Yc4S5YQ8l) | [Lucky Millinder](https://open.spotify.com/artist/4tdVYQWfsBth04tc1mmQ23) | [Big Band Bounce & Boogie](https://open.spotify.com/album/0JvsAccfEZHWiUNULgAjDk) | 3:26 | 2022-07-08 |  |
 | [Aurora](https://open.spotify.com/track/3SjpJJDdlE4HDbKzPzJXQw) | [Daniel Arena](https://open.spotify.com/artist/1YP7BAcfpCRnxermSsAXEA) | [Io](https://open.spotify.com/album/5ughw0JaRjOMakLyA0kw20) | 4:44 | 2023-01-13 |  |
 | [Avalanche](https://open.spotify.com/track/4XtHlG9bac0BxNGSJkuK3J) | [Albert Collins](https://open.spotify.com/artist/1uFixbBAduJkFAeRKznkvW) | [Ice Pickin'](https://open.spotify.com/album/7K0AX1jtXt1iLCtPLM3dab) | 2:39 | 2022-05-25 |  |
-| [Blind Willie](https://open.spotify.com/track/7Dc0GqiXeIqiQaTngeBcod) | [Ruth Wyand](https://open.spotify.com/artist/6DeVlBIJsrUt0kvPFkUYBh) | [Blind Willie](https://open.spotify.com/album/4lDz2uL6kTVYjSQKwGQVd3) | 2:55 | 2023-08-23 |  |
+| [Blind Willie](https://open.spotify.com/track/7Dc0GqiXeIqiQaTngeBcod) | [Ruth Wyand](https://open.spotify.com/artist/6DeVlBIJsrUt0kvPFkUYBh) | [Blind Willie](https://open.spotify.com/album/4lDz2uL6kTVYjSQKwGQVd3) | 2:55 | 2023-08-23 | 2023-10-19 |
 | [Blue Dreamer](https://open.spotify.com/track/2zrEfIvpzLaRYzGD8jU0cU) | [Paul Lenart](https://open.spotify.com/artist/5hNtEnm2mJ5CeXCLpxWHI0), [Duke Levine](https://open.spotify.com/artist/1BLHu0HotsBC4OdmciQJRh) | [Country, Blues & More](https://open.spotify.com/album/7uePfdkQNlG54ecNTMY6RP) | 2:13 | 2022-11-24 |  |
 | [Blue Guitar](https://open.spotify.com/track/4W5I9ht9ZzD2uvCTMIuhVG) | [Earl Hooker](https://open.spotify.com/artist/3Ev1WS21x5Jav9j214A19O) | [Blue Guitar](https://open.spotify.com/album/3Ln9Dp42I8Y0GiY6eFSwUP) | 2:41 | 2022-05-25 |  |
 | [Blues 'Fore Dawn \- Instrumental](https://open.spotify.com/track/3zVx7964ROy15h1lC7fhzD) | [Jimmy Thackery](https://open.spotify.com/artist/22I2nRL3Avazb5FfXhmyDQ) | [Guitar](https://open.spotify.com/album/1k1BDnn6ynbeFG5ts58NRI) | 4:54 | 2022-05-25 |  |
@@ -42,6 +42,7 @@
 | [Cold Feet](https://open.spotify.com/track/3nmd5lsusqNE1bhcpHwAOH) | [Albert King](https://open.spotify.com/artist/5aygfDCEaX5KTZOxSCpT9o) | [King Of The Blues Guitar \(Reissue\)](https://open.spotify.com/album/4btZS65kvBlUlw7xSnzehz) | 2:47 | 2022-06-29 | 2022-11-25 |
 | [Dockside Boogie](https://open.spotify.com/track/0GJ71mJKG0FSPMS13GSFzD) | [Clarence "Gatemouth" Brown](https://open.spotify.com/artist/4aoS04mCVj1CMam1LiHngo) | [Long Way Home](https://open.spotify.com/album/2L0UmVlogWkTQL7WCatEha) | 5:40 | 2022-06-29 |  |
 | [Don't Be Late](https://open.spotify.com/track/1CT03EZWEzeePJs8nYvZHu) | [Serenity State of Mind](https://open.spotify.com/artist/4fyOziQW8idDGt8352pAEZ) | [Don't Be Late](https://open.spotify.com/album/6HTXEDZKvK9qvBzYetVR0P) | 2:46 | 2022-11-24 | 2023-07-22 |
+| [Easy](https://open.spotify.com/track/5w3RqBNmHufIVgr2aD77QF) | [Jimmy and Walter](https://open.spotify.com/artist/3oDOPgYaBe6K1VbP3tqzqY) | [Sun Records \- 60 Years, 60 Singles Box Set](https://open.spotify.com/album/3O2SUQ0VEHYYU1BKwsNV0O) | 2:59 | 2023-08-23 |  |
 | [Easy Does It Blues](https://open.spotify.com/track/4bnVziTbh15r5zkVQlaA12) | [Ross Hammond](https://open.spotify.com/artist/4Nyl11mo7720s5gSGyQocj) | [Roll Forward](https://open.spotify.com/album/4TVOI2Frx5uP40oJvE2Ewp) | 6:01 | 2022-05-25 |  |
 | [End Of The Blues](https://open.spotify.com/track/4etOIUGXH02e9pg1cJSJ9E) | [Earl Hooker](https://open.spotify.com/artist/3Ev1WS21x5Jav9j214A19O) | [Theresa Fungus Amung Us](https://open.spotify.com/album/30dPV2N4mJh7tEAqVcZwlY) | 4:27 | 2022-12-02 |  |
 | [Evans' Shuffle](https://open.spotify.com/track/0qjSYugTXUitQdXfd0V6te) | [Muddy Waters](https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R) | [The Chess Box](https://open.spotify.com/album/182PeD4zms8Cup3oZcACOB) | 2:12 | 2022-11-24 |  |

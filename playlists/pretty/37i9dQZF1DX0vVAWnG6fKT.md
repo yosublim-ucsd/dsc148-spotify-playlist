@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0vVAWnG6fKT.md) - [plain]
 
 > Classic Country from the Legends of the 1940's\.  Where Hillbilly, Texas Swing and Bluegrass came together\. Cover: Ernest Tubb
 
-[Spotify](https://open.spotify.com/user/spotify) - 141,041 likes - 70 songs - 3 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 141,077 likes - 70 songs - 3 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,11 +58,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0vVAWnG6fKT.md) - [plain]
 | 48 | [Straighten Up And Fly Right](https://open.spotify.com/track/0NeSfkU8LFzgd3ICfSektq) | [Nat King Cole Trio](https://open.spotify.com/artist/3OpnoUqoRIHWbsFs4Nw0NQ) | [The Complete Capitol Recordings Of The Nat King Cole Trio](https://open.spotify.com/album/36r0NLy7NH4Z14enk0EvF4) | 2:26 |
 | 49 | [Blue Yodel No\. 4](https://open.spotify.com/track/0qkp5UK0HUwmsRfL8MICXK) | [Bill Monroe & His Blue Grass Boys](https://open.spotify.com/artist/64vAECmFoB6mi7n1zTRwR8) | [Columbia Historic Edition](https://open.spotify.com/album/2pFMceiLK1uzEo9uDYPp5l) | 3:28 |
 | 50 | [Anytime \- Remastered](https://open.spotify.com/track/4CX5dAUwc8zUVpExxXtFLZ) | [Eddy Arnold](https://open.spotify.com/artist/5QsUbpxSE8lCZ5ga5rnD22) | [Complete Original \#1 Hits](https://open.spotify.com/album/75c9McNmncNJTLaLTbFEHU) | 2:52 |
-| 51 | [Divorce Me C.O.D.](https://open.spotify.com/track/1G2h2cFriv1KMHZ1rmfWnt) | [Merle Travis](https://open.spotify.com/artist/30SpGunnNpbbUL4IfkvC5q) | [The Merle Travis Story](https://open.spotify.com/album/04OriPpEtgl8y4wjO1qzX0) | 2:15 |
-| 52 | [Canned Heat \- Buddha Remastered \- 2000](https://open.spotify.com/track/0OzRwhv4HwIlMTabLvt0bE) | [Chet Atkins & His Colorado Mountain Boys](https://open.spotify.com/artist/3AraZqCe00xoEnx2JOBbq1) | [Guitar Legend: The RCA Years](https://open.spotify.com/album/0ulLNifT0Lvwf8jCSHEIS0) | 2:32 |
+| 51 | [Canned Heat \- Buddha Remastered \- 2000](https://open.spotify.com/track/0OzRwhv4HwIlMTabLvt0bE) | [Chet Atkins & His Colorado Mountain Boys](https://open.spotify.com/artist/3AraZqCe00xoEnx2JOBbq1) | [Guitar Legend: The RCA Years](https://open.spotify.com/album/0ulLNifT0Lvwf8jCSHEIS0) | 2:32 |
+| 52 | [Divorce Me C.O.D.](https://open.spotify.com/track/1G2h2cFriv1KMHZ1rmfWnt) | [Merle Travis](https://open.spotify.com/artist/30SpGunnNpbbUL4IfkvC5q) | [The Merle Travis Story](https://open.spotify.com/album/04OriPpEtgl8y4wjO1qzX0) | 2:15 |
 | 53 | [Candy Kisses \- 78 rpm Version](https://open.spotify.com/track/4JJ1gdFvZVlnLW9QTKOaeO) | [George Morgan](https://open.spotify.com/artist/5qdAW04hszBSzncQhJyjXZ) | [The Columbia Singles Collection \(1949\-1964\)](https://open.spotify.com/album/482S22hQgNU0XOkZNODICb) | 2:52 |
-| 54 | [So, Round, So Firm, So Fully Packed](https://open.spotify.com/track/0OmEXfD8wnUDd5hCQktc5x) | [Johnny Bond](https://open.spotify.com/artist/3oY80B5wwJ7TH3inVejOQ0) | [The Very Best Of](https://open.spotify.com/album/79LDSEJQWGmsApFH2GG0Fr) | 2:58 |
-| 55 | [Filipino Baby](https://open.spotify.com/track/4k4GFhAUudT64mJAhkeLzn) | [Cowboy Copas](https://open.spotify.com/artist/4szqhE3dT8nzYnlXYGwzmi) | [Copasetic](https://open.spotify.com/album/0Ac1oFimbMML0XXAW24eWK) | 2:46 |
+| 54 | [Filipino Baby](https://open.spotify.com/track/4k4GFhAUudT64mJAhkeLzn) | [Cowboy Copas](https://open.spotify.com/artist/4szqhE3dT8nzYnlXYGwzmi) | [Copasetic](https://open.spotify.com/album/0Ac1oFimbMML0XXAW24eWK) | 2:46 |
+| 55 | [So, Round, So Firm, So Fully Packed](https://open.spotify.com/track/0OmEXfD8wnUDd5hCQktc5x) | [Johnny Bond](https://open.spotify.com/artist/3oY80B5wwJ7TH3inVejOQ0) | [The Very Best Of](https://open.spotify.com/album/79LDSEJQWGmsApFH2GG0Fr) | 2:58 |
 | 56 | [New San Antonio Rose](https://open.spotify.com/track/0ENjQO4pgtxXRFEPS3GXUv) | [Bob Wills & His Texas Playboys](https://open.spotify.com/artist/0VyOgubdcDnrJ0AWL2TRDN) | [The Essential Bob Wills And His Texas Playboys](https://open.spotify.com/album/0eGgfMqA31IfnO12jGmoXa) | 2:36 |
 | 57 | [Born to Lose](https://open.spotify.com/track/6Z6bycK4qORoW6VGp8YrUY) | [Ted Daffan's Texans](https://open.spotify.com/artist/2YnfSATOB2uSfoyltK0uyq) | [Columbia Country Classics Volume 1: The Golden Age](https://open.spotify.com/album/5KjgZmF5dhZ2RwW9sJfB2V) | 2:39 |
 | 58 | [Take an Old Cold 'Tater \(and Wait\)](https://open.spotify.com/track/31u0qGiw6ZiYe4KasJi2zv) | [Little Jimmy Dickens](https://open.spotify.com/artist/7nhi4qhomET7CUCXYhbAlM) | [16 Biggest Hits](https://open.spotify.com/album/0vnTSS1VEOezDcEf3V9b5q) | 2:47 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0vVAWnG6fKT.md) - [plain]
 | 69 | [Milk Cow Blues](https://open.spotify.com/track/2gtvsPwY1z8nzu9Z58uS5b) | [Maddox Brothers](https://open.spotify.com/artist/7Fisqlq3RjJ10LKE0j3ODP), [Rose Maddox](https://open.spotify.com/artist/30ubKuh11o6hVK83WNBgm0) | [America's Most Colorful Hillbilly Band](https://open.spotify.com/album/3xnXV1xll55o3m41ykrgeQ) | 3:10 |
 | 70 | [Slowpoke](https://open.spotify.com/track/5Dn0L92tKrSLSiMkYiAr7n) | [Pee Wee King](https://open.spotify.com/artist/43GB9K58iB2fIEFVt5ZSp2) | [Pee Wee King's Country Hoedown](https://open.spotify.com/album/5rSFbHZU68Cmre3SYrHGxl) | 2:56 |
 
-Snapshot ID: `MCxlOTJhZDNlNzM3MWI1Y2Q5ZmRlMzg1YzczM2NlOTM1YTgzYmVlMWU3`
+Snapshot ID: `MCxlMDM4NDljMzk0ZWNjODk1NzE2YjkwN2Q1YWM2M2VmMzQ3NThhMDE0`

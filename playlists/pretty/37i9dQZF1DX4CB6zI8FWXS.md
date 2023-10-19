@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4CB6zI8FWXS.md) - [plain]
 
 > R&Bの最新話題曲をまとめてお届けします。cover: Jorja Smith
 
-[Spotify](https://open.spotify.com/user/spotify) - 86,256 likes - 80 songs - 4 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 86,270 likes - 80 songs - 4 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4CB6zI8FWXS.md) - [plain]
 | 79 | [Lipstick Lover](https://open.spotify.com/track/5c2jJgsGsnYWB6QdkK1ycR) | [Janelle Monáe](https://open.spotify.com/artist/6ueGR6SWhUJfvEhqkvMsVs) | [The Age of Pleasure](https://open.spotify.com/album/76yGR9gMIP6BdHuWsb7Iun) | 2:49 |
 | 80 | [Text Me When You Get Home](https://open.spotify.com/track/2izQTx8Kqqim7uwsd6JDTt) | [Full Crate](https://open.spotify.com/artist/0JeTRYMH7FoBiMcLXg1n8g), [Lola Vialet](https://open.spotify.com/artist/17pVXx2X9nRMCPFkdrxkUD), [UHMEER](https://open.spotify.com/artist/5PsYkefUonoeM9VCnpf5zd) | [A Kid From Yerevan](https://open.spotify.com/album/1OBqbm22aIZsHyxkrUVVOu) | 5:17 |
 
-Snapshot ID: `MCxlN2NjNTg3ZDVhZjBmZWEzNTA0Njk1OTRhYjVlMjcyMzk3MzE5Yjgw`
+Snapshot ID: `MCwxM2IyODFmMGU2MjEwYjA1ODlkYTVlYjk3ZDRlYWY4NzI2NzFiYmI4`

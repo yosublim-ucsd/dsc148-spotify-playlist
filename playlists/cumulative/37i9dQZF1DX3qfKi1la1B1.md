@@ -4,7 +4,7 @@
 
 > 深夜の読書、お酒を飲みながらネットサーフィン ....そんなリラックスタイムのお供に。
 
-290 songs - 18 hr 50 min
+291 songs - 18 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -156,7 +156,8 @@
 | [Militerian \(feat\. Naira Marley\)](https://open.spotify.com/track/0oBDJWGnTJs9C0Ax90tMj0) | [J Hus](https://open.spotify.com/artist/2a0uxJgbvvIRI4GX8pYfcr), [Naira Marley](https://open.spotify.com/artist/5DfaMudUwkoz6TAPYifqkJ) | [Beautiful And Brutal Yard](https://open.spotify.com/album/766bxryPZBL0hjz0KM6VUD) | 3:13 | 2023-07-18 |  |
 | [Moon Prison](https://open.spotify.com/track/0rmgs7Zd2evGFVvXinF3ew) | [maeshima soshi](https://open.spotify.com/artist/4O49GHbECmNppFvzK0WZXf), [ぷにぷに電機](https://open.spotify.com/artist/0vroxhoPPl0k04dqKWYHZK) | [Moon Prison](https://open.spotify.com/album/2IntUMWxuhURmGokrZdtYE) | 2:45 | 2023-01-26 | 2023-02-15 |
 | [MOONLIGHT](https://open.spotify.com/track/2AmftacZfB4ryvX6mzWvP4) | [Lucky Kilimanjaro](https://open.spotify.com/artist/2V8UZPMR1EbkXhzvEGBTrV) | [MOONLIGHT](https://open.spotify.com/album/1OKelYkx4MDM1diKDsg107) | 3:16 | 2023-05-16 | 2023-08-18 |
-| [moonlight](https://open.spotify.com/track/3bcSTJteNi1IdE7s0h9uf9) | [Yaffle](https://open.spotify.com/artist/2BbGifSrMGEgvUXLypUWzV), [Ted Park](https://open.spotify.com/artist/7s1z4FwBTOjCdQcmXLMbOG) | [exported\_file\_1](https://open.spotify.com/album/0PegtJKho7DMde8b6FhpqK) | 3:16 | 2023-10-17 |  |
+| [moonlight](https://open.spotify.com/track/2UoxwIHRIKhHwRYiFySemI) | [Yaffle](https://open.spotify.com/artist/2BbGifSrMGEgvUXLypUWzV), [Ted Park](https://open.spotify.com/artist/7s1z4FwBTOjCdQcmXLMbOG) | [exported\_file\_1](https://open.spotify.com/album/6galsYHbpMeQzgpGmVnfHb) | 3:16 | 2023-10-17 |  |
+| [moonlight](https://open.spotify.com/track/3bcSTJteNi1IdE7s0h9uf9) | [Yaffle](https://open.spotify.com/artist/2BbGifSrMGEgvUXLypUWzV), [Ted Park](https://open.spotify.com/artist/7s1z4FwBTOjCdQcmXLMbOG) | [exported\_file\_1](https://open.spotify.com/album/0PegtJKho7DMde8b6FhpqK) | 3:16 | 2023-10-17 | 2023-10-19 |
 | [My Love Mine All Mine](https://open.spotify.com/track/3vkCueOmm7xQDoJ17W1Pm3) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [The Land Is Inhospitable and So Are We](https://open.spotify.com/album/2Cn1d2KgbkAqbZCJ1RzdkA) | 2:17 | 2023-09-14 |  |
 | [Nails](https://open.spotify.com/track/1li7Wh7pzMhBwMRjCUXlXV) | [Saint Levant](https://open.spotify.com/artist/5ZZsFnpO7frU8h5xH1wtjT) | [Nails](https://open.spotify.com/album/7zqNEm1vjjydmmpuNU1wiT) | 2:55 | 2023-06-15 | 2023-07-31 |
 | [Nectar.](https://open.spotify.com/track/5YamNEPEtoovtVgLWPZThg) | [Skaai](https://open.spotify.com/artist/4L05lOQs0iZSVhrnnqS66E) | [Nectar.](https://open.spotify.com/album/1InAJl1AGu9H9hjt1lOtGe) | 3:00 | 2023-01-12 |  |

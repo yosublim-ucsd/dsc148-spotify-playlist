@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1MUPbVKMgJE.md) - [plain]
 
 > All your Disco favorites\. Cover: Earth Wind & Fire
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,527,205 likes - 50 songs - 3 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,527,457 likes - 50 songs - 3 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,8 +45,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1MUPbVKMgJE.md) - [plain]
 | 35 | [Love Rollercoaster](https://open.spotify.com/track/1hRDHWWealh2Pk3fnpIe75) | [Ohio Players](https://open.spotify.com/artist/6m30rs1IQqnWqV5nKMpU7U) | [Honey](https://open.spotify.com/album/6cdbsUYFysGXOh5fqWpIuR) | 4:50 |
 | 36 | [Last Dance \- Single Version](https://open.spotify.com/track/29RcVe2M9l8rHyWHffBmjf) | [Donna Summer](https://open.spotify.com/artist/2eogQKWWoohI3BSnoG7E2U) | [Walk Away \- Collector's Edition The Best Of 1977\-1980](https://open.spotify.com/album/1XDoNCowirNlo2oGzCVVh7) | 3:19 |
 | 37 | [Good Times \- 2018 Remaster](https://open.spotify.com/track/2wYKNcoqKW4IEcllj42xz1) | [CHIC](https://open.spotify.com/artist/0Xf8oDAJYd2D0k3NLI19OV) | [Risqué \(2018 Remaster\)](https://open.spotify.com/album/7rAk4WPpYlYr0fElVfXTOF) | 8:06 |
-| 38 | [Lady Marmalade](https://open.spotify.com/track/17VWTx7LD7liGlpnlGhUbn) | [LaBelle](https://open.spotify.com/artist/3DznKagEU8yMQZR9z33Da5) | [Nightbirds](https://open.spotify.com/album/5Zx4eUC5dTg6aufiSLQ6uo) | 3:57 |
-| 39 | [Lady \(You Bring Me Up\)](https://open.spotify.com/track/5CLozJK4pKWoPpFf2Z1Mye) | [Commodores](https://open.spotify.com/artist/6twIAGnYuIT1pncMAsXnEm) | [In The Pocket](https://open.spotify.com/album/2VZu6gvY1Z8Kx4WtAbb7UG) | 4:53 |
+| 38 | [Lady \(You Bring Me Up\)](https://open.spotify.com/track/5CLozJK4pKWoPpFf2Z1Mye) | [Commodores](https://open.spotify.com/artist/6twIAGnYuIT1pncMAsXnEm) | [In The Pocket](https://open.spotify.com/album/2VZu6gvY1Z8Kx4WtAbb7UG) | 4:53 |
+| 39 | [Lady Marmalade](https://open.spotify.com/track/17VWTx7LD7liGlpnlGhUbn) | [LaBelle](https://open.spotify.com/artist/3DznKagEU8yMQZR9z33Da5) | [Nightbirds](https://open.spotify.com/album/5Zx4eUC5dTg6aufiSLQ6uo) | 3:57 |
 | 40 | [Ladies Night](https://open.spotify.com/track/2uKJxjqcFu2Pr2CEsGGYJa) | [Kool & The Gang](https://open.spotify.com/artist/3VNITwohbvU5Wuy5PC6dsI) | [Ladies' Night](https://open.spotify.com/album/0zK7P6PLhBU02U9Tc98VSK) | 6:25 |
 | 41 | [Funkytown](https://open.spotify.com/track/0KQh7AuuZvpTKWhcJa8Pbr) | [Lipps Inc.](https://open.spotify.com/artist/0lwRI7lvmlRY5DiA5Xa6wQ) | [Casablanca Records Greatest Hits](https://open.spotify.com/album/2a9NqNKkXva9vZanCUmOjc) | 3:59 |
 | 42 | [Don't Leave Me This Way](https://open.spotify.com/track/2rBBhFXtuMoGuwYTSDpAdF) | [Thelma Houston](https://open.spotify.com/artist/3sgUnR8TF35euWEV07RPyO) | [The Best Of](https://open.spotify.com/album/3npGGvmS0VJrBukG2PcgP4) | 3:37 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1MUPbVKMgJE.md) - [plain]
 | 49 | [The Second Time Around](https://open.spotify.com/track/6yh8yf1jpPrTMA5cezYpbi) | [Shalamar](https://open.spotify.com/artist/3REpOYo13YkVj1dFzda12A) | [Big Fun](https://open.spotify.com/album/0wPapw2OnSgmpg8G1DpZtI) | 3:43 |
 | 50 | [And the Beat Goes On](https://open.spotify.com/track/7oQ1wkBmYSBEC2x7U08dvn) | [The Whispers](https://open.spotify.com/artist/2XzHxDFTNywDd5ReMhgxkg) | [The Whispers: Greatest Hits](https://open.spotify.com/album/5tBvVqK2M7wiBwOQEcnRkp) | 7:34 |
 
-Snapshot ID: `MCxiNjRlYmZiMGNjOTIxODdmNjU5MDU5ZTdjNThjOGY3NGFhMjdlMDZi`
+Snapshot ID: `MCxlYmJmZDIyNDA2MjU0ZGY2YjcxYjM5NDhiZjA5NWFkZTBhNmYyYjFj`

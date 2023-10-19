@@ -2,9 +2,9 @@
 
 ### [IndiEnglish](https://open.spotify.com/playlist/37i9dQZF1DX6sDj4CL6UK6)
 
-> Top English songs from Asia\. Cover: AB!, Kayan
+> Top English songs from Asia\. Cover: Mali
 
-254 songs - 14 hr 44 min
+256 songs - 14 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -43,6 +43,7 @@
 | [Caught Up](https://open.spotify.com/track/7nVOpausgMrJCk0DXZSTs0) | [Ananya Birla](https://open.spotify.com/artist/7snhzmuew8iLEDxMIhOU1P) | [Caught Up](https://open.spotify.com/album/5cDE0asojLGw60slwj5BED) | 3:27 | 2023-05-26 | 2023-09-30 |
 | [Chills](https://open.spotify.com/track/0u5RyQsiu3ImN5uUAatTuz) | [Shalmali Kholgade](https://open.spotify.com/artist/6uskWv5K2FA0YOAYr7JOUz) | [Chills](https://open.spotify.com/album/1oTz9EXkj804GhKZNhmzhk) | 3:08 | 2022-10-17 | 2023-01-18 |
 | [Christmas Without You](https://open.spotify.com/track/688W2i53mwx90PvfsCxW29) | [Jeanne Merchant](https://open.spotify.com/artist/3JSGvZjELvoBZalvFCM6Zp), [Anshuman Sharma](https://open.spotify.com/artist/3rNr8T39bUi3dYfiqffp8w) | [Christmas Without You](https://open.spotify.com/album/5ufq3FV3Uxrl800LPG3ba8) | 3:36 | 2022-12-21 | 2023-01-11 |
+| [Co2](https://open.spotify.com/track/3hB9lDLyAClYVZivMMl20N) | [Prateek Kuhad](https://open.spotify.com/artist/0tC995Rfn9k2l7nqgCZsV7) | [The Way That Lovers Do](https://open.spotify.com/album/4WLh56ZjwINYBNhaxLvEhA) | 2:43 | 2023-10-18 |  |
 | [Cold Cold Night](https://open.spotify.com/track/4pR2qfbLapOQ5fNeVWfGnH) | [Raghav Meattle](https://open.spotify.com/artist/7lTlD9L3QhfOH13Z0n1ibN) | [Cold Cold Night](https://open.spotify.com/album/76YdfYn53GNmFJRcyO036X) | 3:21 | 2022-09-26 | 2023-08-26 |
 | [Cold Cold Night](https://open.spotify.com/track/7yHpjfYiFCKs0pFSUndEuI) | [Raghav Meattle](https://open.spotify.com/artist/7lTlD9L3QhfOH13Z0n1ibN) | [Cold Cold Night](https://open.spotify.com/album/1WuSRJC0L115CkTTMOCTuy) | 3:21 | 2022-03-25 | 2022-10-13 |
 | [Coming Home](https://open.spotify.com/track/2CA8KfuUyfM6JTqqPkpbZx) | [The Newcomers](https://open.spotify.com/artist/4WVuFszLNESVSXEDRokgMG) | [Coming Home](https://open.spotify.com/album/1uH12t5IkBn95cmGf3GalY) | 3:13 | 2023-09-29 |  |
@@ -85,7 +86,7 @@
 | [Foolish Once Again](https://open.spotify.com/track/5fv2dx3jfxxX8Gqvzl6TjI) | [Frizzell D'souza](https://open.spotify.com/artist/17j8WfojaUlIDrnDG7IfIQ) | [Foolish Once Again](https://open.spotify.com/album/2F8nmRroxmD3yHbnFiN1tV) | 4:03 | 2022-03-25 | 2023-09-12 |
 | [Fools Will Learn](https://open.spotify.com/track/5P9utVQ2Rb9XDZwoPEzvxi) | [Cinema of Excess](https://open.spotify.com/artist/3xA6t8yRi2XxiycBjSB9Ai) | [Rooftops](https://open.spotify.com/album/3PN7n3nqjEgGzZDrKjDfXr) | 4:28 | 2022-03-25 | 2022-05-04 |
 | [free](https://open.spotify.com/track/6AZFB9yD5kyahBrPhv9i4E) | [Teenasai](https://open.spotify.com/artist/6xIdf78GSxt5FrRC4RC6Uj) | [free](https://open.spotify.com/album/6x5uvmf4EOslQGWPOREQEf) | 3:06 | 2022-03-25 | 2023-01-13 |
-| [Gimme Love](https://open.spotify.com/track/4Lrj5gedGK2BoHYlmIQSjd) | [Dhruv Visvanath](https://open.spotify.com/artist/5npIe0yBbHoAwQ5XYVVEwn) | [Gimme Love](https://open.spotify.com/album/2cfnjv71Pf1Nc9LbNzc5UB) | 3:07 | 2023-07-28 |  |
+| [Gimme Love](https://open.spotify.com/track/4Lrj5gedGK2BoHYlmIQSjd) | [Dhruv Visvanath](https://open.spotify.com/artist/5npIe0yBbHoAwQ5XYVVEwn) | [Gimme Love](https://open.spotify.com/album/2cfnjv71Pf1Nc9LbNzc5UB) | 3:07 | 2023-07-28 | 2023-10-19 |
 | [Give Up](https://open.spotify.com/track/41b1nydaPsdAn4R3sqoVWu) | [Avanti Nagral](https://open.spotify.com/artist/2Wwa2Sov84hVY7Hxfqu71Y) | [Give Up](https://open.spotify.com/album/17GJjmUe6dkPDRN1DCOv3t) | 4:08 | 2022-05-13 | 2023-08-04 |
 | [Go Grow](https://open.spotify.com/track/4XSTKp0ndMNj4RTvfOAlzW) | [Rachel Singh](https://open.spotify.com/artist/4yrsPV1KOPO7GTR1Dlds8V), [Rakesh Chaurasia](https://open.spotify.com/artist/10LLaI6A4jACT6M5ddEEFg) | [Go Grow](https://open.spotify.com/album/2m0HEB5QkPWqeaf4V133JM) | 3:47 | 2022-03-25 | 2023-05-24 |
 | [goodbye](https://open.spotify.com/track/73TI9VMC8u4UhlGQlsrh1A) | [Taarini](https://open.spotify.com/artist/7ha2CwInFLU6MVnKZoH2qv) | [goodbye](https://open.spotify.com/album/2jusN0A1JkUxGcSQaqNHde) | 3:11 | 2022-11-24 | 2023-05-24 |
@@ -126,7 +127,7 @@
 | [Je Suis La Pomme Rouge](https://open.spotify.com/track/5HzPAB3IWjlH1KHDoTuv9P) | [Parekh & Singh](https://open.spotify.com/artist/5HyacDSdBkCTDOBoX49ayp) | [Je Suis La Pomme Rouge](https://open.spotify.com/album/071Ym9vm31HXWiF14VARnv) | 4:30 | 2022-03-25 | 2023-05-20 |
 | [Josephine On The Floor](https://open.spotify.com/track/65acdnLjDjysEy1nMGu6jM) | [Karshni](https://open.spotify.com/artist/2krHp4TdZbPjAyN8atU6Ff) | [Josephine On The Floor](https://open.spotify.com/album/4LxOKY3zx94ld1aXxqgDE4) | 4:27 | 2023-02-06 | 2023-05-20 |
 | [Jukebox Of History \- Title Track](https://open.spotify.com/track/5TckSQXTGcIBl17jE7yY0F) | [Hriday Gattani](https://open.spotify.com/artist/0xWGBvlwCBHAgXyR7TmPwp) | [Jukebox Of History](https://open.spotify.com/album/00xX5TjEFY70OoI3Vo1mXv) | 3:08 | 2022-05-06 | 2022-05-28 |
-| [Just A Word](https://open.spotify.com/track/3XWRc74od1pT7MUkGiJmoW) | [Prateek Kuhad](https://open.spotify.com/artist/0tC995Rfn9k2l7nqgCZsV7) | [The Way That Lovers Do](https://open.spotify.com/album/4WLh56ZjwINYBNhaxLvEhA) | 3:00 | 2023-03-09 |  |
+| [Just A Word](https://open.spotify.com/track/3XWRc74od1pT7MUkGiJmoW) | [Prateek Kuhad](https://open.spotify.com/artist/0tC995Rfn9k2l7nqgCZsV7) | [The Way That Lovers Do](https://open.spotify.com/album/4WLh56ZjwINYBNhaxLvEhA) | 3:00 | 2023-03-09 | 2023-10-19 |
 | [Just A Word](https://open.spotify.com/track/4iP7HF6dhCmvXOk6pHnX9u) | [Prateek Kuhad](https://open.spotify.com/artist/0tC995Rfn9k2l7nqgCZsV7) | [Just A Word](https://open.spotify.com/album/6vsFUU0gYqbQVoV2tiz94v) | 3:00 | 2022-03-25 | 2023-03-19 |
 | [Just As Easily](https://open.spotify.com/track/7k695jTLLrMiNnFnyRWDCN) | [Frizzell D'souza](https://open.spotify.com/artist/17j8WfojaUlIDrnDG7IfIQ) | [Just As Easily](https://open.spotify.com/album/4z4anMfIasayTBmyVIGlqa) | 3:09 | 2022-09-20 |  |
 | [Keep](https://open.spotify.com/track/4eYkUYICxHoejgygQmBZR9) | [Meghana Mokhasi](https://open.spotify.com/artist/1o2ZuDHSBbuSRRdPiBaSGW) | [Keep \- Single](https://open.spotify.com/album/0VlDd0PvwmbCvCZO4qGcK5) | 2:24 | 2022-03-25 | 2023-05-24 |
@@ -196,6 +197,7 @@
 | [sad girl](https://open.spotify.com/track/1C4qmPFkEXh7jfJYZG4KjM) | [brb.](https://open.spotify.com/artist/2XBiI8PjCnjJ3XKWtiKcvc), [SIRUP](https://open.spotify.com/artist/1HzcHe0WFm4koBalCEOkVh) | [sad girl](https://open.spotify.com/album/38q4VehB1wdiNUPOoO7JfN) | 2:28 | 2023-07-21 |  |
 | [Sad in December](https://open.spotify.com/track/3RBEmnwchGJYy9Ugg50CJt) | [Jo Shy](https://open.spotify.com/artist/3dGrlw7Q1uchukqr9p6OlP) | [Sad in December](https://open.spotify.com/album/6dWnUboP9NZWRZgcLsS7Y7) | 3:18 | 2022-12-20 | 2023-03-22 |
 | [Schoolbus](https://open.spotify.com/track/0kQW2QuxGyygGQAREdGILd) | [RANJ](https://open.spotify.com/artist/1vR6C8xoVTgy9yVRsCsr7H), [Clifr](https://open.spotify.com/artist/1o9ja4Dha8IqKI3e5DpH14), [Issamood](https://open.spotify.com/artist/4CM8qfix2AYlwVU0iUIxAW), [Tintin](https://open.spotify.com/artist/4UqI6vZZIuZAT4d2yzVnYA) | [593, Vol\. I](https://open.spotify.com/album/1UtL4DXUWM7Qs6TeL42I5I) | 2:28 | 2022-03-25 | 2022-04-06 |
+| [Semi Automatic Butane](https://open.spotify.com/track/1rN9zRk3KjZyYDTNKih1yi) | [Mali](https://open.spotify.com/artist/4JSAaGJ5mNSfG0MBxDFQZN) | [Semi Automatic Butane](https://open.spotify.com/album/3Z5Ozc5CVfx8Tojvj8Z8GY) | 3:29 | 2023-10-18 |  |
 | [September Embers](https://open.spotify.com/track/5VFsY60sYjnJfFZgDvV1xX) | [Anoushka Maskey](https://open.spotify.com/artist/2nDgCBr8jDMiGFjTkwR6ph) | [September Embers](https://open.spotify.com/album/4XsTt6wPXIKpgtaGLsja9W) | 4:46 | 2022-03-25 | 2023-05-20 |
 | [Settle Down](https://open.spotify.com/track/57mB16Xs06a7xpmtazYuLi) | [Fly By Midnight](https://open.spotify.com/artist/4rQTEdG6hDVOlDUFKs9EjZ), [Zaeden](https://open.spotify.com/artist/5lMNphVhMLvhFmTWiKiLA2) | [Settle Down](https://open.spotify.com/album/56gEUYYtzrS7DHlsF5q7k5) | 2:58 | 2022-03-25 |  |
 | [Should I Ghost You...](https://open.spotify.com/track/2A15Ljc9Eu1wxwtmLtBpTY) | [Zodiac Wave](https://open.spotify.com/artist/3onhR4FeK0vglwIn5t2Xsy) | [Should I Ghost You...](https://open.spotify.com/album/3CFeHZxJgEC0AshQlK98BT) | 2:14 | 2022-03-25 | 2023-05-20 |

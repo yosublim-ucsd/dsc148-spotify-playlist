@@ -1,12 +1,12 @@
 {
   "description": "Brighten your morning with these indie, folk and acoustic sounds.",
-  "num_followers": 33819,
+  "num_followers": 33818,
   "original_name": "Wide Awake",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0NTU0OGQwODk5ZDhhZWE5NmM4MTVhMzMyNDBlZGEwYzBkZWVmMmU3",
+  "snapshot_id": "MCw5ZTMzNTMyYzU0ZDBlOWY0YTc2YThkYzMwZGJlZjJkNTk3YzdiZTEz",
   "tracks": [
     {
       "added_at": "2022-06-17 04:02:00",
@@ -335,22 +335,6 @@
     {
       "added_at": "2022-06-17 04:02:00",
       "album": {
-        "name": "Living Mirage",
-        "url": "https://open.spotify.com/album/27LNgTSAGxE2fitrsCukmT"
-      },
-      "artists": [
-        {
-          "name": "The Head And The Heart",
-          "url": "https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg"
-        }
-      ],
-      "duration_ms": 252301,
-      "name": "People Need A Melody",
-      "url": "https://open.spotify.com/track/5tlu2nA8GxkDx8UTKG1rLV"
-    },
-    {
-      "added_at": "2022-06-17 04:02:00",
-      "album": {
         "name": "Fleet Foxes",
         "url": "https://open.spotify.com/album/5GRnydamKvIeG46dycID6v"
       },
@@ -363,6 +347,22 @@
       "duration_ms": 307213,
       "name": "Ragged Wood",
       "url": "https://open.spotify.com/track/2qvToeBdYliw6n0nEsKJQa"
+    },
+    {
+      "added_at": "2022-06-17 04:02:00",
+      "album": {
+        "name": "Living Mirage",
+        "url": "https://open.spotify.com/album/27LNgTSAGxE2fitrsCukmT"
+      },
+      "artists": [
+        {
+          "name": "The Head And The Heart",
+          "url": "https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg"
+        }
+      ],
+      "duration_ms": 252301,
+      "name": "People Need A Melody",
+      "url": "https://open.spotify.com/track/5tlu2nA8GxkDx8UTKG1rLV"
     },
     {
       "added_at": "2022-06-17 04:02:00",
@@ -743,22 +743,6 @@
     {
       "added_at": "2022-06-17 04:02:00",
       "album": {
-        "name": "Shame, Shame (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/16XswZ18xhMs8qUTN51mRl"
-      },
-      "artists": [
-        {
-          "name": "Dr. Dog",
-          "url": "https://open.spotify.com/artist/4mLJ3XfOM5FPjSAWdQ2Jk7"
-        }
-      ],
-      "duration_ms": 253093,
-      "name": "Shadow People",
-      "url": "https://open.spotify.com/track/209g8XrYu3ov4Wt4bRk2Yw"
-    },
-    {
-      "added_at": "2022-06-17 04:02:00",
-      "album": {
         "name": "The Black Dirt Sessions",
         "url": "https://open.spotify.com/album/7un6ilrjxO0KfVGj4mz0H2"
       },
@@ -771,6 +755,22 @@
       "duration_ms": 223933,
       "name": "Twenty Miles",
       "url": "https://open.spotify.com/track/5advEe2ajphfKOguJCt3Gp"
+    },
+    {
+      "added_at": "2022-06-17 04:02:00",
+      "album": {
+        "name": "Shame, Shame (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/16XswZ18xhMs8qUTN51mRl"
+      },
+      "artists": [
+        {
+          "name": "Dr. Dog",
+          "url": "https://open.spotify.com/artist/4mLJ3XfOM5FPjSAWdQ2Jk7"
+        }
+      ],
+      "duration_ms": 253093,
+      "name": "Shadow People",
+      "url": "https://open.spotify.com/track/209g8XrYu3ov4Wt4bRk2Yw"
     },
     {
       "added_at": "2022-06-17 04:02:00",

@@ -4,7 +4,7 @@
 
 > The cream of today's Country crop\. Cover: Chris Stapelton
 
-474 songs - 1 day 2 hr 3 min
+475 songs - 1 day 2 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,7 +23,8 @@
 | [Admire](https://open.spotify.com/track/0wdFJP36ORnHvKNK0fEtTg) | [Jake Davey](https://open.spotify.com/artist/5dlylLGY11H1ekOD9hwHuK) | [Admire](https://open.spotify.com/album/6OpFEhugnMcaFwgVGoFFcg) | 3:34 | 2022-03-04 | 2022-07-18 |
 | [After the Breakdown](https://open.spotify.com/track/5XsBQNOToyIfL0dGp7KIna) | [McAlister Kemp](https://open.spotify.com/artist/3kYvlV6E961RxSCtavDXe6) | [After the Breakdown](https://open.spotify.com/album/6TDFO09pfq3OdtvKFEj9Ey) | 3:24 | 2022-03-31 | 2022-06-17 |
 | [Ain't Goin' Home](https://open.spotify.com/track/4HpMCEkK2bAYTsIaMnVfsc) | [Vixens Of Fall](https://open.spotify.com/artist/5E8CKxCEIm6vLESXqUExBt) | [Ain't Goin' Home](https://open.spotify.com/album/2BaCaOKP9hMhf68PTLKJY6) | 3:18 | 2022-07-21 | 2022-10-07 |
-| [Ain't The One](https://open.spotify.com/track/1DMKxugJjRgFjEzUb6Sd62) | [Josh Ross](https://open.spotify.com/artist/1ZGTSMjK1D2HrpPTOh916U) | [Ain't The One](https://open.spotify.com/album/6mgEILhlga6pdEns5qahoU) | 3:05 | 2023-09-28 |  |
+| [Ain't The One](https://open.spotify.com/track/0pI8ooKQA99dJOKxc4khYJ) | [Josh Ross](https://open.spotify.com/artist/1ZGTSMjK1D2HrpPTOh916U) | [Ain't The One](https://open.spotify.com/album/3dxiEuuXYgLO8gCbXK2YaO) | 3:05 | 2023-10-12 |  |
+| [Ain't The One](https://open.spotify.com/track/1DMKxugJjRgFjEzUb6Sd62) | [Josh Ross](https://open.spotify.com/artist/1ZGTSMjK1D2HrpPTOh916U) | [Ain't The One](https://open.spotify.com/album/6mgEILhlga6pdEns5qahoU) | 3:05 | 2023-09-28 | 2023-10-19 |
 | [All Or Nothing](https://open.spotify.com/track/1LiMVKhl8eQNhhNTBRowb1) | [Adam Brand](https://open.spotify.com/artist/42XeVHEwXlejTSpz3lU0Ia) | [All Or Nothing](https://open.spotify.com/album/78CHrctUDb2LjgFdInJwms) | 3:27 | 2022-05-06 | 2022-08-27 |
 | [All We'll Ever Be](https://open.spotify.com/track/2xbI4Uh1ExxhHJQbklARMs) | [Ghost Riders](https://open.spotify.com/artist/5JvEKy384cTkxVHDESnlEG), [Cam Noble](https://open.spotify.com/artist/0K2qWy2QmgaBlExB67u6oV) | [All We'll Ever Be](https://open.spotify.com/album/4uF4locIHfXWMzS5moNdjs) | 3:13 | 2022-11-17 | 2023-03-03 |
 | [Along The Way](https://open.spotify.com/track/23ZMim7wzLtHQW6bO0E2YK) | [Ella Powell](https://open.spotify.com/artist/1FvZtQAyRZTO5uSrazRJNe) | [Along The Way](https://open.spotify.com/album/2AjS8t5O4Q6hQUaAtLmgdt) | 3:18 | 2022-06-23 | 2022-09-09 |

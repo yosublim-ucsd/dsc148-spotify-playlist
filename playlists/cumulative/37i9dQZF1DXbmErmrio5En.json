@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-12-06",
-  "description": "cool music ft. Riovaz",
+  "description": "ft. Riovaz",
   "name": "feedBack",
   "tracks": [
     {
@@ -2077,6 +2077,28 @@
     },
     {
       "album": {
+        "name": "GO! (feat. BENKRO)",
+        "url": "https://open.spotify.com/album/0D8SmNwhP1DmoN2cOvOaE9"
+      },
+      "artists": [
+        {
+          "name": "WHOKILLEDXIX",
+          "url": "https://open.spotify.com/artist/0RSogp4qeGu0ZM71JRTay3"
+        },
+        {
+          "name": "BENKRO",
+          "url": "https://open.spotify.com/artist/73909hxACjd2Mk5REFdTGg"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171971,
+      "name": "GO! (feat. BENKRO)",
+      "url": "https://open.spotify.com/track/6tVghhzof1GBVNWTpJLaZV"
+    },
+    {
+      "album": {
         "name": "2",
         "url": "https://open.spotify.com/album/2cwwBz019F7hQwggBShXCv"
       },
@@ -2110,6 +2132,46 @@
       "duration_ms": 174656,
       "name": "good things",
       "url": "https://open.spotify.com/track/2QwZiXrFmyPjgGh9akgfid"
+    },
+    {
+      "album": {
+        "name": "good things 2 (with tana)",
+        "url": "https://open.spotify.com/album/2N3S0h8qgKOpHAUkAcpNgY"
+      },
+      "artists": [
+        {
+          "name": "skaiwater",
+          "url": "https://open.spotify.com/artist/1URVdcNYXigvk6Dj0fHYOM"
+        },
+        {
+          "name": "tana",
+          "url": "https://open.spotify.com/artist/1xgl9yxqIVq8PEEMai38uV"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174656,
+      "name": "good things 2 (with tana)",
+      "url": "https://open.spotify.com/track/6A8z1ijn6ttUSg9Hy4Y1nr"
+    },
+    {
+      "album": {
+        "name": "gore",
+        "url": "https://open.spotify.com/album/09CS5w3dOSR6JXR3M3D8UR"
+      },
+      "artists": [
+        {
+          "name": "Perto",
+          "url": "https://open.spotify.com/artist/2mJFvqmuu604a4BwGllJQV"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180949,
+      "name": "gore",
+      "url": "https://open.spotify.com/track/36LGcFW38H9iprSCl8K6Fa"
     },
     {
       "album": {
@@ -4678,6 +4740,24 @@
       "duration_ms": 168221,
       "name": "Spiral",
       "url": "https://open.spotify.com/track/1IutoMzbuf3hVtP4KS9W37"
+    },
+    {
+      "album": {
+        "name": "spit",
+        "url": "https://open.spotify.com/album/7hjfEMayKwXCohSb8rVV1C"
+      },
+      "artists": [
+        {
+          "name": "rouri404",
+          "url": "https://open.spotify.com/artist/6lQsMKSDG7XdirlE6YImHa"
+        }
+      ],
+      "date_added": "2023-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139800,
+      "name": "spit",
+      "url": "https://open.spotify.com/track/1ft9HRORvo0uMAoBwqkxgY"
     },
     {
       "album": {

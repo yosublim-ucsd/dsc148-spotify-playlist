@@ -8000,7 +8000,7 @@
       ],
       "date_added": "2023-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-19",
       "duration_ms": 131872,
       "name": "greedy",
       "url": "https://open.spotify.com/track/3rUGC1vUpkDG9CZFHMur1t"
@@ -15742,7 +15742,7 @@
       ],
       "date_added": "2023-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-19",
       "duration_ms": 181481,
       "name": "One Of Your Girls",
       "url": "https://open.spotify.com/track/5Eh1nj7IjV9lwpcKAkidyY"
@@ -17324,6 +17324,24 @@
     {
       "album": {
         "name": "The Arrival: Part I (Slowed + Reverb)",
+        "url": "https://open.spotify.com/album/5iM9OEkJtQMUTWVLS7CiDA"
+      },
+      "artists": [
+        {
+          "name": "Aaryan Shah",
+          "url": "https://open.spotify.com/artist/4RzbexUO843fc5SLqKEQCr"
+        }
+      ],
+      "date_added": "2023-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 279250,
+      "name": "Renegade (Slowed + Reverb)",
+      "url": "https://open.spotify.com/track/04oETo69jP5j6Fs38t3rJV"
+    },
+    {
+      "album": {
+        "name": "The Arrival: Part I (Slowed + Reverb)",
         "url": "https://open.spotify.com/album/4hGbyUnXkhjeGdzecA25H0"
       },
       "artists": [
@@ -17352,7 +17370,7 @@
       ],
       "date_added": "2023-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-19",
       "duration_ms": 279250,
       "name": "Renegade - (Slowed + Reverb)",
       "url": "https://open.spotify.com/track/0hAoRx9cc7pcsqfE2BpF9Y"

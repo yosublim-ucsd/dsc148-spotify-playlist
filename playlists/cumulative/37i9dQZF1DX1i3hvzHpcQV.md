@@ -2,9 +2,9 @@
 
 ### [Hot Hits Tamil](https://open.spotify.com/playlist/37i9dQZF1DX1i3hvzHpcQV)
 
-> Tune into the Hottest tracks of Kollywood!<br/>Cover : Jailer
+> Tune into the Hottest tracks of Kollywood!<br/>Cover : Leo
 
-107 songs - 6 hr 30 min
+109 songs - 6 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,11 +17,13 @@
 | [Adiye \- From "Bachelor"](https://open.spotify.com/track/2tMoOS9grHtn4upzb4LwMG) | [Dhibu Ninan Thomas](https://open.spotify.com/artist/1QHr8p3h0ayWLaaYK0X6bi), [Kapil Kapilan](https://open.spotify.com/artist/0nMjhemqRwrboQGcs92fh2) | [Adiye \(From "Bachelor"\)](https://open.spotify.com/album/1vPj6t2spMcJkrtlDsFaC8) | 4:32 | 2022-01-04 |  |
 | [Aga Naga \(From “Ponniyin Selvan Part\-2”\)](https://open.spotify.com/track/4oUn3DozNxFnjxegR1GlkZ) | [A.R\. Rahman](https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG), [Shakthisree Gopalan](https://open.spotify.com/artist/7zAp0JbkavFg2rcMGvANtP) | [Aga Naga \(From “Ponniyin Selvan Part\-2”\) \[Original Motion Picture Soundtrack\]](https://open.spotify.com/album/5A576slaUQhlCvNZtWynEX) | 4:03 | 2023-04-03 |  |
 | [Alaikadal](https://open.spotify.com/track/7kcMEKsmqgfq68gSQk6F9c) | [A.R\. Rahman](https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG), [Antara Nandy](https://open.spotify.com/artist/5t0Sf8M5KByD2fIBiVKavT) | [Ponniyin Selvan Part\-1 \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6efDS3Pp3DUkDnr5XgPyMN) | 5:14 | 2022-10-05 | 2022-11-08 |
+| [Anbenum \(From "Leo"\)](https://open.spotify.com/track/3l198ZkmLWrHYL3WXTOoep) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [Lothika](https://open.spotify.com/artist/7yZDrVInKssNCaZkAkQGTX) | [Anbenum \(From "Leo"\)](https://open.spotify.com/album/4bf7T0AXRlgHjLZVxhIkfz) | 3:34 | 2023-10-18 |  |
 | [Andha Kanna Paathaakaa](https://open.spotify.com/track/0qvoxfYodIfe14gaidhnsV) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [Yuvan Shankar Raja](https://open.spotify.com/artist/6AiX12wXdXFoGJ2vk8zBjy) | [Master \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/11YJfivZjEaEUU9lJmeidh) | 3:14 | 2021-11-15 | 2022-06-07 |
 | [Arabic Kuthu \- Halamithi Habibo \(From "Beast"\)](https://open.spotify.com/track/6yvxu91deFKt3X1QoV6qMv) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [Jonita Gandhi](https://open.spotify.com/artist/00sCATpEvwH48ays7PlQFU) | [Arabic Kuthu \- Halamithi Habibo \(From "Beast"\)](https://open.spotify.com/album/3OUj9ygj2KRcnKY1a1daGt) | 4:39 | 2022-02-14 |  |
 | [Badass \(From "Leo"\)](https://open.spotify.com/track/32qnBgfzURbwNayQIEB5W5) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O) | [Badass \(From "Leo"\)](https://open.spotify.com/album/4f9WYw6XMUlo3O9dJ15HvP) | 3:49 | 2023-10-11 |  |
 | [Bae \(From "Don"\)](https://open.spotify.com/track/5D507IC1VOAg7bKkmOblr6) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [Adithya RK](https://open.spotify.com/artist/2AQwMDyDvgpZcHLITOpgpm) | [Bae \(From "Don"\)](https://open.spotify.com/album/2HsFQRxJln6Q9XEf6DbhZ4) | 4:02 | 2022-02-09 |  |
 | [Beast Mode \(From "Beast"\)](https://open.spotify.com/track/1aQ58u4guUf999iQX3J2HF) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O) | [Beast Mode \(From "Beast"\)](https://open.spotify.com/album/0gTZnvc3F1cHmJTTe9OBGb) | 3:40 | 2022-04-08 |  |
+| [Bloody Sweet \(From "Leo"\)](https://open.spotify.com/track/4lCJO8QeKIkU2um1z5NBb9) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [Siddharth Basrur](https://open.spotify.com/artist/6PtoffEX0RiktNdmCeuWkl) | [Bloody Sweet \(From "Leo"\)](https://open.spotify.com/album/7mKc9SHsbYiAoDODfFqqZo) | 2:48 | 2023-10-18 |  |
 | [Bodhai Kaname \- From "Oh Manapenne"](https://open.spotify.com/track/4qIMmEjV8gaEsfZML9LALx) | [Vishal Chandrashekhar](https://open.spotify.com/artist/0rL4uL3xfYOt2p7NHhS8qr), [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [Shashaa Tirupati](https://open.spotify.com/artist/12CpR4SNDzVIlDoPSeNFeW) | [Bodhai Kaname \(From "Oh Manapenne"\)](https://open.spotify.com/album/53xK2qW53doSVnfWafunKQ) | 4:21 | 2021-11-15 | 2023-08-17 |
 | [Bujji \(From "Jagame Thandhiram"\)](https://open.spotify.com/track/6rJhjykEkCqm3H64uALhhf) | [Santhosh Narayanan](https://open.spotify.com/artist/5FVBduYaeVBb6JIghza7v6), [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O) | [Bujji \(From "Jagame Thandhiram"\)](https://open.spotify.com/album/3jTx8LYOYIO0cRZDlS1uPx) | 4:27 | 2021-11-15 | 2022-08-11 |
 | [Bullet Song](https://open.spotify.com/track/78g1KU3zvKQLS5emtG9Xiu) | [Devi Sri Prasad](https://open.spotify.com/artist/5sSzCxHtgL82pYDvx2QyEU), [Silambarasan TR](https://open.spotify.com/artist/5Hn84AFwiTEi8eMoI5B9AS), [Haripriya](https://open.spotify.com/artist/1CUAEnzS0hidDnH66AUS3h) | [The Warriorr \(Tamil\)](https://open.spotify.com/album/6Q5BlmKZZMqkilmi40Sta2) | 3:57 | 2022-08-05 |  |

@@ -4,7 +4,7 @@
 
 > Las mejores canciones de indie/alternativo durante el 2020\. En portada: Ela Minus
 
-120 songs - 7 hr 13 min
+121 songs - 7 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,7 +14,8 @@
 | [Aguacero](https://open.spotify.com/track/2QcHmqNOkYPiTxqvJRTCKa) | [Irepelusa](https://open.spotify.com/artist/3KaNWDYObY73SDpcZBRzuw), [Veztalone](https://open.spotify.com/artist/5KhJh3jJOH5EkZiplQLw5h) | [Aguacero](https://open.spotify.com/album/7g8vsyjuRMKX8dGXdt8c65) | 3:16 | 2020-12-01 |  |
 | [Alguien Detrás de Mi](https://open.spotify.com/track/386O3o4TbBhoasmd97QQIJ) | [Mabe Fratti](https://open.spotify.com/artist/7yHfb2D8qIBgrzclpSsTeo) | [Se Parece A](https://open.spotify.com/album/3IYROUym8NgqWWQCX7ifr9) | 3:48 | 2020-12-01 |  |
 | [Amor Ferrari](https://open.spotify.com/track/1VPrFor2HSi3I6wStnfoHq) | [Luca Bocci](https://open.spotify.com/artist/1h3H1KWtfAC1YRqYrQmXLF) | [No Pierdas la Simpleza](https://open.spotify.com/album/35hmee1Mf1kFMlNpAB125N) | 2:45 | 2020-12-01 |  |
-| [Ay Corazón \(Silencio\)](https://open.spotify.com/track/4g4kww73ZByg6RDDfo4uuC) | [Armenia](https://open.spotify.com/artist/4FmrAtWfKHAIysakSpmatx) | [Ay Corazón \(Silencio\)](https://open.spotify.com/album/6O6QViA34eNzHl5WAwUES2) | 3:52 | 2020-12-01 |  |
+| [Ay Corazón \(Silencio\)](https://open.spotify.com/track/0Uoaj7pmqMYVxpYwHKTV11) | [Armenia](https://open.spotify.com/artist/4FmrAtWfKHAIysakSpmatx) | [Ay Corazón \(Silencio\)](https://open.spotify.com/album/7GeisNK4XEOs2bLjjDARCx) | 3:52 | 2020-12-01 |  |
+| [Ay Corazón \(Silencio\)](https://open.spotify.com/track/4g4kww73ZByg6RDDfo4uuC) | [Armenia](https://open.spotify.com/artist/4FmrAtWfKHAIysakSpmatx) | [Ay Corazón \(Silencio\)](https://open.spotify.com/album/6O6QViA34eNzHl5WAwUES2) | 3:52 | 2020-12-01 | 2023-10-19 |
 | [Ay, Amor ♥︎](https://open.spotify.com/track/1ZgKtZeMCBkT8inB4HKAtS) | [Dulce y Agraz](https://open.spotify.com/artist/5cD6bctPV8wtKpO4o8ZtTQ) | [Ay, Amor](https://open.spotify.com/album/5XjIM5OdxYD9EfxxfGRvvk) | 3:33 | 2020-12-01 |  |
 | [Azulmagenta](https://open.spotify.com/track/0BWXCS8fU8Y4Rj2ng4fIsu) | [Ev](https://open.spotify.com/artist/21EczEifDKebasemX58Jp8) | [Azulmagenta](https://open.spotify.com/album/4NMpBN4NunLm6hINDVh5Lw) | 3:38 | 2020-12-01 |  |
 | [Azulmagenta](https://open.spotify.com/track/5wyEPNYNCX4oRcvH7GrCus) | [Ev](https://open.spotify.com/artist/21EczEifDKebasemX58Jp8) | [Cosas Guardadas](https://open.spotify.com/album/09zS50egosQYajxRJ43JH8) | 3:38 | 2020-12-01 | 2022-07-29 |

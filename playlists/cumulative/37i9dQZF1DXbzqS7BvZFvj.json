@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-03-19",
-  "description": "\u6700\u524d\u7dda\u306e\u30d2\u30c3\u30d7\u30db\u30c3\u30d7\u30fb\u30b7\u30fc\u30f3\u3067\u6d3b\u8e8d\u3059\u308b\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u306e\u30c8\u30e9\u30c3\u30af\u3092\u30d4\u30c3\u30af\u30a2\u30c3\u30d7\u3002Cover: Fivio Foreign",
+  "description": "\u6700\u524d\u7dda\u306e\u30d2\u30c3\u30d7\u30db\u30c3\u30d7\u30fb\u30b7\u30fc\u30f3\u3067\u6d3b\u8e8d\u3059\u308b\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u306e\u30c8\u30e9\u30c3\u30af\u3092\u30d4\u30c3\u30af\u30a2\u30c3\u30d7\u3002Cover: Offset",
   "name": "Frontline -\u30d2\u30c3\u30d7\u30db\u30c3\u30d7\u6700\u524d\u7dda-",
   "tracks": [
     {
@@ -46,7 +46,7 @@
       ],
       "date_added": "2023-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-19",
       "duration_ms": 225453,
       "name": "$WISH ft. G-Eazy and Chance The Rapper",
       "url": "https://open.spotify.com/track/2xWTbOsDclkxRarvshyReu"
@@ -858,7 +858,7 @@
       ],
       "date_added": "2023-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-19",
       "duration_ms": 110781,
       "name": "Big Mad (feat. Flo Milli)",
       "url": "https://open.spotify.com/track/6UliIDFULJHvJpSfQ61zu5"
@@ -1015,6 +1015,32 @@
     },
     {
       "album": {
+        "name": "EZIOKWU",
+        "url": "https://open.spotify.com/album/6e1McsPwHgiySHVlpZRhFx"
+      },
+      "artists": [
+        {
+          "name": "ODUMODUBLVCK",
+          "url": "https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy"
+        },
+        {
+          "name": "Bloody Civilian",
+          "url": "https://open.spotify.com/artist/59gzAeE63TMTxOdjU3Ew0K"
+        },
+        {
+          "name": "Wale",
+          "url": "https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233571,
+      "name": "BLOOD ON THE DANCE FLOOR (feat. Bloody Civilian and Wale)",
+      "url": "https://open.spotify.com/track/35MU2MEhQMw0NhXZztAP9m"
+    },
+    {
+      "album": {
         "name": "YIN YANG TAPES: Summer Season (1989-1990)",
         "url": "https://open.spotify.com/album/6hRJl2spj8CQ7PRLdyNc3f"
       },
@@ -1114,7 +1140,7 @@
       ],
       "date_added": "2023-09-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-19",
       "duration_ms": 175099,
       "name": "Bongos (feat. Megan Thee Stallion)",
       "url": "https://open.spotify.com/track/4YQImHflXSiIMXntcwPkx8"
@@ -1536,10 +1562,32 @@
       ],
       "date_added": "2023-09-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-19",
       "duration_ms": 162000,
       "name": "Chocolate Rain",
       "url": "https://open.spotify.com/track/4VtN4HDolfU0II9KOftqy4"
+    },
+    {
+      "album": {
+        "name": "Chops on the Blade",
+        "url": "https://open.spotify.com/album/1W8rO7SBVNsjB2v197I0bk"
+      },
+      "artists": [
+        {
+          "name": "Larry June",
+          "url": "https://open.spotify.com/artist/1grN0519h2zYqpRtYbDZAl"
+        },
+        {
+          "name": "Cardo",
+          "url": "https://open.spotify.com/artist/592XleMjor8huE5Jfgks7p"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212154,
+      "name": "Chops on the Blade",
+      "url": "https://open.spotify.com/track/74Fqn1olHLrMlL6deu4ExE"
     },
     {
       "album": {
@@ -1642,7 +1690,7 @@
       ],
       "date_added": "2023-09-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-19",
       "duration_ms": 251698,
       "name": "College Girls",
       "url": "https://open.spotify.com/track/5997LrlUOfmL0WmiP2lti4"
@@ -1985,6 +2033,28 @@
     },
     {
       "album": {
+        "name": "And Then You Pray For Me",
+        "url": "https://open.spotify.com/album/3CXoPCQuBb7kP9vEFcfXKU"
+      },
+      "artists": [
+        {
+          "name": "Westside Gunn",
+          "url": "https://open.spotify.com/artist/0ABk515kENDyATUdpCKVfW"
+        },
+        {
+          "name": "Rick Ross",
+          "url": "https://open.spotify.com/artist/1sBkRIssrMs1AbVkOJbc7a"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239355,
+      "name": "DunnHill (feat. Rick Ross)",
+      "url": "https://open.spotify.com/track/3Hwc9uyLKCu0aCKmpE6Gm9"
+    },
+    {
+      "album": {
         "name": "Eastside Girl ft. Ty Dolla $ign",
         "url": "https://open.spotify.com/album/12WAN5dyQIXdvFMnKRFU2P"
       },
@@ -2044,7 +2114,7 @@
       ],
       "date_added": "2023-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-19",
       "duration_ms": 180157,
       "name": "Endless",
       "url": "https://open.spotify.com/track/6Sjfvyk5dEtdGFPCF37mYe"
@@ -2604,7 +2674,7 @@
       ],
       "date_added": "2023-08-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-19",
       "duration_ms": 215510,
       "name": "Hard To Handle",
       "url": "https://open.spotify.com/track/5Wv4g4QWO3ArPnbyP5Z6Mx"
@@ -2644,7 +2714,7 @@
       ],
       "date_added": "2023-09-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-19",
       "duration_ms": 154800,
       "name": "Her Birthday",
       "url": "https://open.spotify.com/track/3QFsrWUa6maL7T9K6LoCmd"
@@ -3902,7 +3972,7 @@
       ],
       "date_added": "2023-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-19",
       "duration_ms": 178398,
       "name": "Mami (feat. BIA)",
       "url": "https://open.spotify.com/track/2cEklOsQ4yr4SgtXZtHwvN"
@@ -3932,7 +4002,7 @@
       ],
       "date_added": "2023-09-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-19",
       "duration_ms": 288018,
       "name": "MAYNARD VIGNETTE [Feat. T.I., JID, Jacquees]",
       "url": "https://open.spotify.com/track/4H8RhDIpZidT57dKw30k1C"
@@ -4034,7 +4104,7 @@
       ],
       "date_added": "2023-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-19",
       "duration_ms": 189901,
       "name": "Milo J: Bzrp Music Sessions, Vol. 57",
       "url": "https://open.spotify.com/track/2QM5gBm9Q8VZ7UamMIMLb1"
@@ -4122,6 +4192,24 @@
       "duration_ms": 170962,
       "name": "MO UP FRONT",
       "url": "https://open.spotify.com/track/2uFmD9x7WwzNe4P1eJ6t36"
+    },
+    {
+      "album": {
+        "name": "nadie sabe lo que va a pasar ma\u00f1ana",
+        "url": "https://open.spotify.com/album/4FftCsAcXXD1nFO9RFUNFO"
+      },
+      "artists": [
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267194,
+      "name": "MONACO",
+      "url": "https://open.spotify.com/track/4MjDJD8cW7iVeWInc2Bdyj"
     },
     {
       "album": {
@@ -4296,7 +4384,7 @@
       ],
       "date_added": "2023-09-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-19",
       "duration_ms": 163013,
       "name": "New World",
       "url": "https://open.spotify.com/track/5fNVWIvaR98FMxiekcVG0J"
@@ -4377,6 +4465,24 @@
     },
     {
       "album": {
+        "name": "LET'S DO IT",
+        "url": "https://open.spotify.com/album/4I49kBApc9FV9oeAcIj9tK"
+      },
+      "artists": [
+        {
+          "name": "DaBaby",
+          "url": "https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118356,
+      "name": "NO FINSTA",
+      "url": "https://open.spotify.com/track/59GEWDzQgCXM55aGZDWSrQ"
+    },
+    {
+      "album": {
         "name": "Goodbye & Good Riddance (5 Year Anniversary Edition)",
         "url": "https://open.spotify.com/album/5v9IfhMyxAkE9CbLjfNChR"
       },
@@ -4392,6 +4498,24 @@
       "duration_ms": 252705,
       "name": "No Good",
       "url": "https://open.spotify.com/track/2zs3ErwfEyzI4K2H9vEnTD"
+    },
+    {
+      "album": {
+        "name": "No Hook 2",
+        "url": "https://open.spotify.com/album/4VnhVzYgluzloFMMY5cCf5"
+      },
+      "artists": [
+        {
+          "name": "Key Glock",
+          "url": "https://open.spotify.com/artist/0RESbWvOMyua0yuyVrztJ5"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142080,
+      "name": "No Hook 2",
+      "url": "https://open.spotify.com/track/2eLrDMQnosvAOTzoZ8bRZZ"
     },
     {
       "album": {
@@ -4809,6 +4933,32 @@
     },
     {
       "album": {
+        "name": "Pepper",
+        "url": "https://open.spotify.com/album/6Rg6yUy37Cb6Y1JeTRQv4Y"
+      },
+      "artists": [
+        {
+          "name": "Flowdan",
+          "url": "https://open.spotify.com/artist/07CimrZi5vs9iEao47TNQ4"
+        },
+        {
+          "name": "Lil Baby",
+          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+        },
+        {
+          "name": "Skrillex",
+          "url": "https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148965,
+      "name": "Pepper",
+      "url": "https://open.spotify.com/track/0OCFIEsSrmKueOiPK6S3xq"
+    },
+    {
+      "album": {
         "name": "Pink Panther 3",
         "url": "https://open.spotify.com/album/7GWT2yHrKhRamaxmDEHtTW"
       },
@@ -5040,6 +5190,28 @@
       "duration_ms": 164571,
       "name": "Pressure",
       "url": "https://open.spotify.com/track/3TN2HZSll8ueBFtt88VbfX"
+    },
+    {
+      "album": {
+        "name": "Pretty Girl (with Rema)",
+        "url": "https://open.spotify.com/album/4IjqbyZZsfaNHnxV92CFuH"
+      },
+      "artists": [
+        {
+          "name": "Ice Spice",
+          "url": "https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf"
+        },
+        {
+          "name": "Rema",
+          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137907,
+      "name": "Pretty Girl (with Rema)",
+      "url": "https://open.spotify.com/track/1p5GikXPiCkw5T2VrSPrO1"
     },
     {
       "album": {
@@ -5314,7 +5486,7 @@
       ],
       "date_added": "2023-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-19",
       "duration_ms": 143999,
       "name": "RAISE THE STAKES",
       "url": "https://open.spotify.com/track/0fA3Ec33j9N38YKaRCl2r8"
@@ -5563,6 +5735,32 @@
     },
     {
       "album": {
+        "name": "Talk Talk / Rotary Telephone",
+        "url": "https://open.spotify.com/album/20JjurNzXAU6LY86wb7vaA"
+      },
+      "artists": [
+        {
+          "name": "Atmosphere",
+          "url": "https://open.spotify.com/artist/1GAS0rb4L8VTPvizAx2O9J"
+        },
+        {
+          "name": "Slug",
+          "url": "https://open.spotify.com/artist/6Lz3nv3y0hhdKkyrApFCZD"
+        },
+        {
+          "name": "Ant",
+          "url": "https://open.spotify.com/artist/71C1AXi9lDQXnSKZjeTYiI"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203106,
+      "name": "Rotary Telephone",
+      "url": "https://open.spotify.com/track/4eR0HKJGudoyfLKtx7kXmE"
+    },
+    {
+      "album": {
         "name": "Sad & Alone",
         "url": "https://open.spotify.com/album/4N4Y9kPh3kC3Ijb4Aa591Q"
       },
@@ -5622,6 +5820,28 @@
       "duration_ms": 153740,
       "name": "Same Side (feat. Rob49)",
       "url": "https://open.spotify.com/track/2JNaqjOm7jHePMdr6WIadg"
+    },
+    {
+      "album": {
+        "name": "SET IT OFF",
+        "url": "https://open.spotify.com/album/1D1hLipjrdB6pnxurMtC3E"
+      },
+      "artists": [
+        {
+          "name": "Offset",
+          "url": "https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW"
+        },
+        {
+          "name": "Travis Scott",
+          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173253,
+      "name": "SAY MY GRACE (feat. Travis Scott)",
+      "url": "https://open.spotify.com/track/2Gk6fi0dqt91NKvlzGsmm7"
     },
     {
       "album": {
@@ -6367,6 +6587,24 @@
     },
     {
       "album": {
+        "name": "Syrup",
+        "url": "https://open.spotify.com/album/5S1n1Vxz7yyKPhwGzy2d37"
+      },
+      "artists": [
+        {
+          "name": "Shiva",
+          "url": "https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188654,
+      "name": "Syrup",
+      "url": "https://open.spotify.com/track/1CVw4Qr8LTapyiovASUpff"
+    },
+    {
+      "album": {
         "name": "TAG \"YOU IT\"",
         "url": "https://open.spotify.com/album/4nvns17lnT2yJcnOj6sq8h"
       },
@@ -6448,6 +6686,32 @@
       "duration_ms": 178333,
       "name": "Temporary (feat. Don Toliver)",
       "url": "https://open.spotify.com/track/0bTiLwSo2xmhA6BcCXTOkx"
+    },
+    {
+      "album": {
+        "name": "Tequila Shots",
+        "url": "https://open.spotify.com/album/6OjkSwUgvaM8zhkUumQXWN"
+      },
+      "artists": [
+        {
+          "name": "Popcaan",
+          "url": "https://open.spotify.com/artist/62DmErcU7dqZbJaDqwsqzR"
+        },
+        {
+          "name": "Fivio Foreign",
+          "url": "https://open.spotify.com/artist/14CHVeJGrR5xgUGQFV5BVM"
+        },
+        {
+          "name": "Vybz Kartel",
+          "url": "https://open.spotify.com/artist/2NUz5P42WqkxilbI8ocN76"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189834,
+      "name": "Tequila Shots",
+      "url": "https://open.spotify.com/track/16imuDRy30OJ19fJLAA3Fu"
     },
     {
       "album": {
@@ -6540,7 +6804,7 @@
       ],
       "date_added": "2023-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-19",
       "duration_ms": 180772,
       "name": "The Gods Must Be Crazy",
       "url": "https://open.spotify.com/track/62ir3CludVLlbrXk6AOlGg"
@@ -6975,6 +7239,32 @@
     },
     {
       "album": {
+        "name": "Burning Desire",
+        "url": "https://open.spotify.com/album/0oc3ietmTjMghpRPvszTw9"
+      },
+      "artists": [
+        {
+          "name": "MIKE",
+          "url": "https://open.spotify.com/artist/1wlzPS1hSNrkriIIwLFTmU"
+        },
+        {
+          "name": "Liv.e",
+          "url": "https://open.spotify.com/artist/0YCL71Clky5els6NireSBP"
+        },
+        {
+          "name": "Venna",
+          "url": "https://open.spotify.com/artist/7qKJMpPZfyGHHwPgsjgFCP"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149871,
+      "name": "U think Maybe? - feat. Liv.e and Venna",
+      "url": "https://open.spotify.com/track/5NIcIBJp03ylKLAtJRTr6L"
+    },
+    {
+      "album": {
         "name": "Split Decision",
         "url": "https://open.spotify.com/album/0On7uutIu9rZRvP9aJbMog"
       },
@@ -7034,7 +7324,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-19",
       "duration_ms": 113186,
       "name": "Vin Skully",
       "url": "https://open.spotify.com/track/09kYuK9gLUai92QYwsrU49"
@@ -7408,7 +7698,7 @@
       ],
       "date_added": "2023-09-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-19",
       "duration_ms": 137640,
       "name": "WUACV",
       "url": "https://open.spotify.com/track/2HC0LgjchkWSGoOyKIxklv"
@@ -7562,7 +7852,7 @@
       ],
       "date_added": "2023-09-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-19",
       "duration_ms": 157508,
       "name": "You Wish (with Missy Elliott & Kaliii) \u2013 Remix",
       "url": "https://open.spotify.com/track/1bUhj0j6akbGxinxsVe6PR"
@@ -7584,6 +7874,24 @@
       "duration_ms": 133026,
       "name": "your eyes",
       "url": "https://open.spotify.com/track/279j7K8VbSq0U5PJQhQGB1"
+    },
+    {
+      "album": {
+        "name": "\u559c\u54c0",
+        "url": "https://open.spotify.com/album/2OKqZXUJTOYHY3ADbtHWRk"
+      },
+      "artists": [
+        {
+          "name": "OMSB",
+          "url": "https://open.spotify.com/artist/69qFe6XoI53jVctgtSug7d"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253492,
+      "name": "\u559c\u54c0",
+      "url": "https://open.spotify.com/track/0LiN597XAlatsK7v6zsnAv"
     },
     {
       "album": {

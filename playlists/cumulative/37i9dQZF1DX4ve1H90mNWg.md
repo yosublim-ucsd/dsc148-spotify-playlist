@@ -4,7 +4,7 @@
 
 > Texas music breaking waves\. <br/> Cover:  <a href="https://open.spotify.com/artist/0fGcIStdT1OpFFhOC7Wp36?si=d14048b372484137">Teezo Touchdown</a>
 
-575 songs - 1 day 3 hr 57 min
+576 songs - 1 day 3 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,7 +25,8 @@
 | [4AM In Charlotte](https://open.spotify.com/track/70sQaLOrIhlKF0iIS2Gjx0) | [Cico P](https://open.spotify.com/artist/3jAZsSIIA8HLjxR99biJyx) | [4AM In Charlotte](https://open.spotify.com/album/0McCjUthWgnZzXepI9f1SU) | 3:16 | 2022-09-09 | 2023-04-25 |
 | [5 Years](https://open.spotify.com/track/55JPb1FVudHjZnFTvB8LPG) | [Lil Jairmy](https://open.spotify.com/artist/2MqvNhgPzUzBXERkh00GDY) | [5 Years](https://open.spotify.com/album/7gFrVtLi2Oy0EMYaHtNDQM) | 2:47 | 2022-06-07 | 2022-07-23 |
 | [556 \(Green Tip\) \(Spotem G\-Mix\)](https://open.spotify.com/track/6foIbQlxDlg5RzMqY0uOwR) | [iayze](https://open.spotify.com/artist/00msLVGU9crX0EC5McCiCa), [SpotemGottem](https://open.spotify.com/artist/3Y2MLcrD3ZQXRXmtn4fZQx) | [556 \(Green Tip\) \(Spotem G\-Mix\)](https://open.spotify.com/album/0K5ueKr5c9ZBfkl3kHNR9v) | 2:52 | 2022-04-15 | 2022-06-08 |
-| [700 LOADS](https://open.spotify.com/track/4h6vhPxi19494eeOJDxOHp) | [Montana 700](https://open.spotify.com/artist/0KpToBdtK9KP6TZPFK2zbw) | [THE ONE](https://open.spotify.com/album/29t9smU6x7dqoOCtp7VVw1) | 2:23 | 2023-06-11 |  |
+| [700 LOADS](https://open.spotify.com/track/4h6vhPxi19494eeOJDxOHp) | [Montana 700](https://open.spotify.com/artist/0KpToBdtK9KP6TZPFK2zbw) | [THE ONE](https://open.spotify.com/album/29t9smU6x7dqoOCtp7VVw1) | 2:23 | 2023-06-11 | 2023-10-19 |
+| [700 LOADS](https://open.spotify.com/track/72TMffU3fC2Qf2eKqtcvRc) | [Montana 700](https://open.spotify.com/artist/0KpToBdtK9KP6TZPFK2zbw) | [THE ONE](https://open.spotify.com/album/0lbr3zR7zoAV9oNgSv7ait) | 2:23 | 2023-10-13 |  |
 | [About Damn Time](https://open.spotify.com/track/1PckUlxKqWQs3RlWXVBLw3) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) | [About Damn Time](https://open.spotify.com/album/4JApkbiesQxv5drdEZRlZC) | 3:11 | 2022-04-29 | 2022-07-02 |
 | [Abracadabra \(feat\. Travis Scott\)](https://open.spotify.com/track/4Zsi5pyvmZBxvRg0KeDFMC) | [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [BUSINESS IS BUSINESS](https://open.spotify.com/album/6qElaeK7SHsEzb8uV8eG3D) | 4:07 | 2023-06-23 | 2023-07-19 |
 | [After School](https://open.spotify.com/track/2CpiEirGpP9IcTRiJ2tj60) | [Whookilledkenny](https://open.spotify.com/artist/2KZnFwKkzZwaTe74507ZLD) | [After School](https://open.spotify.com/album/3TRO7QJOiXQ3fUHd9TeDY1) | 2:19 | 2022-02-18 | 2022-03-18 |

@@ -3907,6 +3907,32 @@
     },
     {
       "album": {
+        "name": "Great Piano Transcriptions from the Golden Age, Vol. 5",
+        "url": "https://open.spotify.com/album/27nFbgBGgM7gnb1xzt6cvr"
+      },
+      "artists": [
+        {
+          "name": "Wolfgang Amadeus Mozart",
+          "url": "https://open.spotify.com/artist/4NJhFmfw43RLBLjQvxDuRS"
+        },
+        {
+          "name": "Walter Kohlberg",
+          "url": "https://open.spotify.com/artist/7iH6xlrk1xoyTtO3mRIG8I"
+        },
+        {
+          "name": "Peter Phillips",
+          "url": "https://open.spotify.com/artist/2aWlsaSemY3u7rGARqX1xp"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 381392,
+      "name": "Die Zauberflote (The Magic Flute): Overture (Arr. Solo Piano by Kohlberg) - Welte-Mignon 1802",
+      "url": "https://open.spotify.com/track/6u6AdJqeyS7Zbb6tm5H293"
+    },
+    {
+      "album": {
         "name": "DJ Play A Christmas Song",
         "url": "https://open.spotify.com/album/6s5Q4m7eVFpdPwzGCLiYX8"
       },
@@ -4602,7 +4628,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-19",
       "duration_ms": 560040,
       "name": "Elyusu Ermatsu (Discernimiento)",
       "url": "https://open.spotify.com/track/0f3DNJlYhZv3yAODkbMBQv"
@@ -9074,7 +9100,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-19",
       "duration_ms": 652620,
       "name": "Leonore Overture No. 3, Op. 72a (Arr. Solo Piano by Ritter) - Welte-Mignon 3130",
       "url": "https://open.spotify.com/track/2DxholBrFO9r4fChQefYwk"
@@ -9942,6 +9968,24 @@
       "duration_ms": 178434,
       "name": "Magical Mystery Tour",
       "url": "https://open.spotify.com/track/5nKliAyd1vA7ojwU1W3eui"
+    },
+    {
+      "album": {
+        "name": "Mantra del Maestro Jes\u00fas",
+        "url": "https://open.spotify.com/album/6zPoGZ5VIBoeFNJsPtGFMC"
+      },
+      "artists": [
+        {
+          "name": "Iv\u00e1n Donalson",
+          "url": "https://open.spotify.com/artist/13AiWNMLpKYo0wSPSAiBUg"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 312378,
+      "name": "Mantra del Maestro Jes\u00fas",
+      "url": "https://open.spotify.com/track/3LtyBtGFstooQecQfxHDUS"
     },
     {
       "album": {
@@ -12496,7 +12540,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-19",
       "duration_ms": 351621,
       "name": "Psycho Man - Danny Saber Remix",
       "url": "https://open.spotify.com/track/6qU0kmk2Xs3Vnqn4LMAGQF"
@@ -13810,7 +13854,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-18",
+      "date_removed": null,
       "duration_ms": 209774,
       "name": "Selling My Soul - Danny Saber Remix",
       "url": "https://open.spotify.com/track/5soAf86M7IS91HacoojI9H"

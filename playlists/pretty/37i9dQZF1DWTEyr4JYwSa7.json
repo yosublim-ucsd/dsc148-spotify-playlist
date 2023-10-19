@@ -1,12 +1,12 @@
 {
   "description": "La playlist id\u00e9ale pour vos f\u00eates cette ann\u00e9e! ",
-  "num_followers": 52174,
+  "num_followers": 52178,
   "original_name": "No\u00ebl, No\u00ebl, No\u00ebl",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmN2U4ODE1YjI5M2I1N2E4NTJhNDQ1ZWE3YThlOTJlMDhhNzlkOTUy",
+  "snapshot_id": "MCw2ZTAyMjMyY2ZhNjY4MWFkODBhNGU0OTQxOTcxMzA3ZDZkNWUzOTU2",
   "tracks": [
     {
       "added_at": "2023-10-13 22:20:24",
@@ -87,18 +87,18 @@
     {
       "added_at": "2023-10-13 22:20:24",
       "album": {
-        "name": "Come and Get Your Love",
-        "url": "https://open.spotify.com/album/5Gf5m9M6RiK2lkjpbP0xRu"
+        "name": "Merry Christmas",
+        "url": "https://open.spotify.com/album/61ulfFSmmxMhc2wCdmdMkN"
       },
       "artists": [
         {
-          "name": "Redbone",
-          "url": "https://open.spotify.com/artist/0w7HLMvZOHatWVbAKee1zF"
+          "name": "Mariah Carey",
+          "url": "https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ"
         }
       ],
-      "duration_ms": 205933,
-      "name": "Come and Get Your Love - Single Version",
-      "url": "https://open.spotify.com/track/7GVUmCP00eSsqc4tzj1sDD"
+      "duration_ms": 241106,
+      "name": "All I Want for Christmas Is You",
+      "url": "https://open.spotify.com/track/0bYg9bo50gSsH3LtXe2SQn"
     },
     {
       "added_at": "2023-10-13 22:20:24",
@@ -119,18 +119,18 @@
     {
       "added_at": "2023-10-13 22:20:24",
       "album": {
-        "name": "Merry Christmas",
-        "url": "https://open.spotify.com/album/61ulfFSmmxMhc2wCdmdMkN"
+        "name": "Come and Get Your Love",
+        "url": "https://open.spotify.com/album/5Gf5m9M6RiK2lkjpbP0xRu"
       },
       "artists": [
         {
-          "name": "Mariah Carey",
-          "url": "https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ"
+          "name": "Redbone",
+          "url": "https://open.spotify.com/artist/0w7HLMvZOHatWVbAKee1zF"
         }
       ],
-      "duration_ms": 241106,
-      "name": "All I Want for Christmas Is You",
-      "url": "https://open.spotify.com/track/0bYg9bo50gSsH3LtXe2SQn"
+      "duration_ms": 205933,
+      "name": "Come and Get Your Love - Single Version",
+      "url": "https://open.spotify.com/track/7GVUmCP00eSsqc4tzj1sDD"
     },
     {
       "added_at": "2023-10-13 22:20:24",
@@ -1023,22 +1023,18 @@
     {
       "added_at": "2023-10-13 22:20:24",
       "album": {
-        "name": "The Hotel Caf\u00e9 presents... Winter Songs",
-        "url": "https://open.spotify.com/album/4fhTdBtyYkBi1pJpfSLRad"
+        "name": "Christmas",
+        "url": "https://open.spotify.com/album/3CKVXhODttZebJAzjUs2un"
       },
       "artists": [
         {
-          "name": "Sara Bareilles",
-          "url": "https://open.spotify.com/artist/2Sqr0DXoaYABbjBo9HaMkM"
-        },
-        {
-          "name": "Ingrid Michaelson",
-          "url": "https://open.spotify.com/artist/2vm8GdHyrJh2O2MfbQFYG0"
+          "name": "Michael Bubl\u00e9",
+          "url": "https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3"
         }
       ],
-      "duration_ms": 266640,
-      "name": "Winter Song",
-      "url": "https://open.spotify.com/track/1KDkSCXJIR4CJaVUK9qP7O"
+      "duration_ms": 264826,
+      "name": "I'll Be Home for Christmas",
+      "url": "https://open.spotify.com/track/0tXPhc8LvM4dPvoRwI66XQ"
     },
     {
       "added_at": "2023-10-13 22:20:24",
@@ -1075,18 +1071,22 @@
     {
       "added_at": "2023-10-13 22:20:24",
       "album": {
-        "name": "Christmas",
-        "url": "https://open.spotify.com/album/3CKVXhODttZebJAzjUs2un"
+        "name": "The Hotel Caf\u00e9 presents... Winter Songs",
+        "url": "https://open.spotify.com/album/4fhTdBtyYkBi1pJpfSLRad"
       },
       "artists": [
         {
-          "name": "Michael Bubl\u00e9",
-          "url": "https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3"
+          "name": "Sara Bareilles",
+          "url": "https://open.spotify.com/artist/2Sqr0DXoaYABbjBo9HaMkM"
+        },
+        {
+          "name": "Ingrid Michaelson",
+          "url": "https://open.spotify.com/artist/2vm8GdHyrJh2O2MfbQFYG0"
         }
       ],
-      "duration_ms": 264826,
-      "name": "I'll Be Home for Christmas",
-      "url": "https://open.spotify.com/track/0tXPhc8LvM4dPvoRwI66XQ"
+      "duration_ms": 266640,
+      "name": "Winter Song",
+      "url": "https://open.spotify.com/track/1KDkSCXJIR4CJaVUK9qP7O"
     },
     {
       "added_at": "2023-10-13 22:20:24",
@@ -1635,22 +1635,18 @@
     {
       "added_at": "2023-10-13 22:20:24",
       "album": {
-        "name": "No\u00ebl \u00e0 deux",
-        "url": "https://open.spotify.com/album/0r6b4y7D20hyhozvOci7nv"
+        "name": "Sainte Nuit",
+        "url": "https://open.spotify.com/album/3DCGt7eg6TFrAa5tVf9zja"
       },
       "artists": [
         {
-          "name": "Marie Eve Janvier",
-          "url": "https://open.spotify.com/artist/3jfG98eZ52LwCzKNfa9Nch"
-        },
-        {
-          "name": "Jean-Fran\u00e7ois Breau",
-          "url": "https://open.spotify.com/artist/6TQdhArWgJCZTAHu9V2gdu"
+          "name": "Johanne Blouin",
+          "url": "https://open.spotify.com/artist/1f8PCpHKhzkLb2y7wnijjd"
         }
       ],
-      "duration_ms": 203169,
-      "name": "No\u00ebl c'est toi",
-      "url": "https://open.spotify.com/track/4rG6whNnK2TY2OZ042G5XY"
+      "duration_ms": 174866,
+      "name": "L'enfant au tambour",
+      "url": "https://open.spotify.com/track/4jtna43xiyQKSghOBwh0l8"
     },
     {
       "added_at": "2023-10-13 22:20:24",

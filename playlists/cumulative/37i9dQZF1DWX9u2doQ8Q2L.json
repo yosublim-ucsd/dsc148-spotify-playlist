@@ -3188,7 +3188,7 @@
       ],
       "date_added": "2023-09-28",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-18",
+      "date_removed": null,
       "duration_ms": 150966,
       "name": "Destruction Sisters",
       "url": "https://open.spotify.com/track/2yL4L5IgsXNQ7vBTFB5w9Q"
@@ -8668,7 +8668,7 @@
     {
       "album": {
         "name": "exported_file_1",
-        "url": "https://open.spotify.com/album/0PegtJKho7DMde8b6FhpqK"
+        "url": "https://open.spotify.com/album/6galsYHbpMeQzgpGmVnfHb"
       },
       "artists": [
         {
@@ -8683,6 +8683,28 @@
       "date_added": "2023-10-17",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 196762,
+      "name": "moonlight",
+      "url": "https://open.spotify.com/track/2UoxwIHRIKhHwRYiFySemI"
+    },
+    {
+      "album": {
+        "name": "exported_file_1",
+        "url": "https://open.spotify.com/album/0PegtJKho7DMde8b6FhpqK"
+      },
+      "artists": [
+        {
+          "name": "Yaffle",
+          "url": "https://open.spotify.com/artist/2BbGifSrMGEgvUXLypUWzV"
+        },
+        {
+          "name": "Ted Park",
+          "url": "https://open.spotify.com/artist/7s1z4FwBTOjCdQcmXLMbOG"
+        }
+      ],
+      "date_added": "2023-10-17",
+      "date_added_asterisk": false,
+      "date_removed": "2023-10-19",
       "duration_ms": 196762,
       "name": "moonlight",
       "url": "https://open.spotify.com/track/3bcSTJteNi1IdE7s0h9uf9"
@@ -17164,7 +17186,7 @@
       ],
       "date_added": "2023-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-19",
       "duration_ms": 318762,
       "name": "\u30ad\u30ea\u30a8\u30fb\u6190\u308c\u307f\u306e\u8b83\u6b4c",
       "url": "https://open.spotify.com/track/4KjNYo1Y9QWc0GQES77dfl"

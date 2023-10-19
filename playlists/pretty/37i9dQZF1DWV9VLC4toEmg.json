@@ -1,12 +1,12 @@
 {
   "description": "Spa treatment role-play and ASMR massage sounds to give you tingles and help you relax.",
-  "num_followers": 36261,
+  "num_followers": 36295,
   "original_name": "ASMR Massage",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3M2M2NDc5ZWZlYTYwZThlMWU4YTUzOGQ5YWY1NWYwYTBhNTVmYzEx",
+  "snapshot_id": "MCxhOTNkODE1ZjlmM2FhYjI5ODEwYzA0NjNlNGQyNGMyMTc0MzI5NGI3",
   "tracks": [
     {
       "added_at": "2023-09-08 11:48:58",
@@ -331,22 +331,6 @@
     {
       "added_at": "2023-09-08 11:48:58",
       "album": {
-        "name": "Helping you fall sleep with a relaxing hand and head massage",
-        "url": "https://open.spotify.com/album/0Mxearp6dO183ZajtJdtM6"
-      },
-      "artists": [
-        {
-          "name": "Catplant ASMR",
-          "url": "https://open.spotify.com/artist/5qw3MMovQQEq4URS46Ij5C"
-        }
-      ],
-      "duration_ms": 285690,
-      "name": "Helping you fall sleep with a relaxing hand and head massage Pt.2",
-      "url": "https://open.spotify.com/track/0llPJPAIBv48UDRI0piTAX"
-    },
-    {
-      "added_at": "2023-09-08 11:48:58",
-      "album": {
         "name": "ASMR | Some of My Favourite Sounds",
         "url": "https://open.spotify.com/album/6tFZnaQPznbCNkHokxTvFp"
       },
@@ -359,6 +343,22 @@
       "duration_ms": 170500,
       "name": "Oil Massage",
       "url": "https://open.spotify.com/track/6zl4uiCSDE1RyH55jrV9gX"
+    },
+    {
+      "added_at": "2023-09-08 11:48:58",
+      "album": {
+        "name": "Helping you fall sleep with a relaxing hand and head massage",
+        "url": "https://open.spotify.com/album/0Mxearp6dO183ZajtJdtM6"
+      },
+      "artists": [
+        {
+          "name": "Catplant ASMR",
+          "url": "https://open.spotify.com/artist/5qw3MMovQQEq4URS46Ij5C"
+        }
+      ],
+      "duration_ms": 285690,
+      "name": "Helping you fall sleep with a relaxing hand and head massage Pt.2",
+      "url": "https://open.spotify.com/track/0llPJPAIBv48UDRI0piTAX"
     },
     {
       "added_at": "2023-09-08 11:48:58",
@@ -427,6 +427,22 @@
     {
       "added_at": "2023-09-08 11:48:58",
       "album": {
+        "name": "Deep Tissue Massage",
+        "url": "https://open.spotify.com/album/2Y2wFM1PPkAK8Rt453Ijz9"
+      },
+      "artists": [
+        {
+          "name": "Catplant ASMR",
+          "url": "https://open.spotify.com/artist/5qw3MMovQQEq4URS46Ij5C"
+        }
+      ],
+      "duration_ms": 470372,
+      "name": "Deep Tissue Massage Pt.1",
+      "url": "https://open.spotify.com/track/5gc80AtEjJ49fKoGBNUzxt"
+    },
+    {
+      "added_at": "2023-09-08 11:48:58",
+      "album": {
         "name": "My ASMR World",
         "url": "https://open.spotify.com/album/5NTLeAufx999xaNaHVP4Yq"
       },
@@ -475,38 +491,6 @@
     {
       "added_at": "2023-09-08 11:48:58",
       "album": {
-        "name": "ASMR Take a Bath with Me [Washing, Soap, Foam & Water Sounds]",
-        "url": "https://open.spotify.com/album/4nVP5iTX21EDzkUCPPTFu7"
-      },
-      "artists": [
-        {
-          "name": "Mad ASMR Triggers",
-          "url": "https://open.spotify.com/artist/5PZXh446gcT8Gv0zr6nIGe"
-        }
-      ],
-      "duration_ms": 196500,
-      "name": "ASMR Take a Bath with Me, Pt. 2",
-      "url": "https://open.spotify.com/track/7v87pqdX327uORNqtZOZQc"
-    },
-    {
-      "added_at": "2023-09-08 11:48:58",
-      "album": {
-        "name": "Deep Tissue Massage",
-        "url": "https://open.spotify.com/album/2Y2wFM1PPkAK8Rt453Ijz9"
-      },
-      "artists": [
-        {
-          "name": "Catplant ASMR",
-          "url": "https://open.spotify.com/artist/5qw3MMovQQEq4URS46Ij5C"
-        }
-      ],
-      "duration_ms": 470372,
-      "name": "Deep Tissue Massage Pt.1",
-      "url": "https://open.spotify.com/track/5gc80AtEjJ49fKoGBNUzxt"
-    },
-    {
-      "added_at": "2023-09-08 11:48:58",
-      "album": {
         "name": "7 Tingly Massages",
         "url": "https://open.spotify.com/album/4rsAtuIMx3RkhaV5Leqx2T"
       },
@@ -519,6 +503,22 @@
       "duration_ms": 435487,
       "name": "7 Tingly Massages Pt.3",
       "url": "https://open.spotify.com/track/60FYhoHNVbZh9BLoru1aQw"
+    },
+    {
+      "added_at": "2023-09-08 11:48:58",
+      "album": {
+        "name": "ASMR Take a Bath with Me [Washing, Soap, Foam & Water Sounds]",
+        "url": "https://open.spotify.com/album/4nVP5iTX21EDzkUCPPTFu7"
+      },
+      "artists": [
+        {
+          "name": "Mad ASMR Triggers",
+          "url": "https://open.spotify.com/artist/5PZXh446gcT8Gv0zr6nIGe"
+        }
+      ],
+      "duration_ms": 196500,
+      "name": "ASMR Take a Bath with Me, Pt. 2",
+      "url": "https://open.spotify.com/track/7v87pqdX327uORNqtZOZQc"
     },
     {
       "added_at": "2023-09-08 11:48:58",
@@ -587,22 +587,6 @@
     {
       "added_at": "2023-09-08 11:48:58",
       "album": {
-        "name": "Oil and Lotion Ear Massage",
-        "url": "https://open.spotify.com/album/5dAMrjESOsEnoUBdFFNReX"
-      },
-      "artists": [
-        {
-          "name": "ASMR Art of Sound",
-          "url": "https://open.spotify.com/artist/0M5HJZlCxSmeQUESaJ7up3"
-        }
-      ],
-      "duration_ms": 566000,
-      "name": "Oil and Lotion Ear Massage, Pt. 4",
-      "url": "https://open.spotify.com/track/0AqM6cD3BwxuYIl6QXQxUn"
-    },
-    {
-      "added_at": "2023-09-08 11:48:58",
-      "album": {
         "name": "Yummy ASMR",
         "url": "https://open.spotify.com/album/3PKQMXqfzyjCiLr1HdLKZH"
       },
@@ -631,6 +615,22 @@
       "duration_ms": 204737,
       "name": "A Deep Ear Massage",
       "url": "https://open.spotify.com/track/0XMRFPrEPHoWRVnfBaId3g"
+    },
+    {
+      "added_at": "2023-09-08 11:48:58",
+      "album": {
+        "name": "Oil and Lotion Ear Massage",
+        "url": "https://open.spotify.com/album/5dAMrjESOsEnoUBdFFNReX"
+      },
+      "artists": [
+        {
+          "name": "ASMR Art of Sound",
+          "url": "https://open.spotify.com/artist/0M5HJZlCxSmeQUESaJ7up3"
+        }
+      ],
+      "duration_ms": 566000,
+      "name": "Oil and Lotion Ear Massage, Pt. 4",
+      "url": "https://open.spotify.com/track/0AqM6cD3BwxuYIl6QXQxUn"
     },
     {
       "added_at": "2023-09-08 11:48:58",

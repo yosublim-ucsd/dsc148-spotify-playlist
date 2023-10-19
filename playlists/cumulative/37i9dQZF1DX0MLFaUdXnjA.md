@@ -4,7 +4,7 @@
 
 > Keeping it lowkey with the best of today's chill pop\. Cover: Noah Kahan & Kacey Musgraves
 
-1,450 songs - 3 day 5 hr 51 min
+1,451 songs - 3 day 5 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -600,6 +600,7 @@
 | [I Hate The Beatles](https://open.spotify.com/track/6fPC2bl2J0s2WG4adY2HaJ) | [Sofía Valdés](https://open.spotify.com/artist/0caswMNVJ7vPNC1Z7NOeCT) | [I Hate The Beatles](https://open.spotify.com/album/7u506EjfG4xdfO9EdzrqDQ) | 3:05 | 2022-03-04 | 2022-04-02 |
 | [I Hate U](https://open.spotify.com/track/5dXWFMwD7I7zXsInONVl0H) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [I Hate U](https://open.spotify.com/album/1hJUh5y1ggqqGsCivnRmHw) | 2:54 | 2022-04-08 | 2022-05-14 |
 | [I HOPE I DIE FIRST](https://open.spotify.com/track/1F7sMMmLaJnl9eRF6HydAJ) | [Jake Miller](https://open.spotify.com/artist/3gggmBN0erstm3YJvEGe3t) | [2021](https://open.spotify.com/album/3Dsc1mi2wnCHxhqMAblMoa) | 2:56 | 2021-04-24 | 2021-06-26 |
+| [I Knew You Were Trouble \- Spotify Singles](https://open.spotify.com/track/30QYxvXOJZhGBF6DvpNb8w) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Spotify Singles](https://open.spotify.com/album/2kJnIPJHIRZlfOx0TZEKBP) | 3:53 | 2023-10-18 |  |
 | [I Know Better](https://open.spotify.com/track/0jFJFli5qiHEFtEYPDWSip) | [Maximillian](https://open.spotify.com/artist/2Q9c6ETFOkDDTy53U7DIgr) | [Still Alive \(Deluxe Edition\)](https://open.spotify.com/album/1mTP6AfzT0v0eaihtcXOxe) | 2:58 | 2020-10-23 | 2021-01-15 |
 | [I know it won't work](https://open.spotify.com/track/3weQKQG9ZuqgYAZVswovYS) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [Good Riddance](https://open.spotify.com/album/1KR6xkLa2lvdvCABYlk7OO) | 4:05 | 2023-02-24 | 2023-07-01 |
 | [I Know You](https://open.spotify.com/track/71BWZa1liIRyUiuJ3MB66o) | [Faye Webster](https://open.spotify.com/artist/5szilpXHcwOqnyKLqGco5j) | [Faye Webster](https://open.spotify.com/album/0pEHMpnX1jA44pzhW3n0JB) | 4:11 | 2023-07-11 | 2023-09-09 |
@@ -665,7 +666,7 @@
 | [IRL](https://open.spotify.com/track/2hTm4MljABGm013AzKCxN6) | [Stephanie Poetri](https://open.spotify.com/artist/0HS00NN7MAfF59aJnfcxSO) | [IRL](https://open.spotify.com/album/1GoynDFX8zhqqBaM3mFoJo) | 3:18 | 2021-02-19 | 2021-04-24 |
 | [is your bedroom ceiling bored? \(feat\. Cavetown\)](https://open.spotify.com/track/3ehrCQoouv7NW8LRgcMvRF) | [Sody](https://open.spotify.com/artist/01y8iBZYk8aeNfPsuTVrAt), [Cavetown](https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8) | [is your bedroom ceiling bored? \(feat\. Cavetown\)](https://open.spotify.com/album/3EScPN7QqAa3WUVgZe1dNo) | 3:27 | 2020-08-05 | 2020-12-04 |
 | [Island](https://open.spotify.com/track/0lJrPatloYarTbsKciShJu) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Endless Summer Vacation](https://open.spotify.com/album/0HiZ8fNXwJOQcrf5iflrdz) | 3:59 | 2023-03-10 | 2023-09-28 |
-| [Island](https://open.spotify.com/track/4LRxmh62YHxSHL4hGLq0ln) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Endless Summer Vacation](https://open.spotify.com/album/5DvJgsMLbaR1HmAI6VhfcQ) | 3:59 | 2023-09-22 |  |
+| [Island](https://open.spotify.com/track/4LRxmh62YHxSHL4hGLq0ln) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Endless Summer Vacation](https://open.spotify.com/album/5DvJgsMLbaR1HmAI6VhfcQ) | 3:59 | 2023-09-22 | 2023-10-19 |
 | [isn't it enough](https://open.spotify.com/track/6LFCiV3TmCozEgy51rp9aa) | [Sarah Kang](https://open.spotify.com/artist/0MBNzfGHTiPYag4DupDXUj), [Albert Posis](https://open.spotify.com/artist/4bNOdxc26omK0xR7FPucJn), [Patrick Hizon](https://open.spotify.com/artist/7sH3l8uRghf9V149Gnu63X) | [isn't it enough](https://open.spotify.com/album/2MFBRTKP6bGJ9Mh3p6Jr6O) | 3:42 | 2022-08-12 | 2022-09-10 |
 | [it gets better](https://open.spotify.com/track/0omwtUP9Oz4bFYJFoXmPLd) | [Sophie Rose](https://open.spotify.com/artist/7zVoS1SW2Btj5qRbtlKuyp) | [it gets better](https://open.spotify.com/album/2n4coOjSlmABEPg1PTTr3K) | 2:38 | 2023-09-08 | 2023-10-07 |
 | [It Takes Two](https://open.spotify.com/track/7lR4o63cpYr8zY3nBEPead) | [Fiji Blue](https://open.spotify.com/artist/1e7K8jD3wRuQfnwDAOeGqe) | [It Takes Two](https://open.spotify.com/album/314mIakb1sF5Lfl23kmibT) | 2:39 | 2021-02-26 | 2021-06-26 |

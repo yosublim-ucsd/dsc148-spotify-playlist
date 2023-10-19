@@ -1,12 +1,12 @@
 {
   "description": "Classic party anthems from the club to your ears!",
-  "num_followers": 274146,
+  "num_followers": 274215,
   "original_name": "Warehouse Party",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3MzljZGVkZmI5YTIwNWRhZmYwN2VkNzg0MDE3YzZlMjQ3N2E4MGY4",
+  "snapshot_id": "MCw2NjAyZDYzYTNiNWZjNWYyMzUyM2ZkMmMxYThjYjg5YTQwMzBlNWE1",
   "tracks": [
     {
       "added_at": "2020-11-06 16:59:04",
@@ -895,18 +895,18 @@
     {
       "added_at": "2020-11-06 16:59:04",
       "album": {
-        "name": "The Jam",
-        "url": "https://open.spotify.com/album/6wpCBPI0iVsZFycthRIXSH"
+        "name": "Deep Down Low",
+        "url": "https://open.spotify.com/album/1md43OqpB2SKqTmKR1q1YQ"
       },
       "artists": [
         {
-          "name": "Kideko",
-          "url": "https://open.spotify.com/artist/0ZwQMCRqfyh1OGQkBh9Cnj"
+          "name": "Valentino Khan",
+          "url": "https://open.spotify.com/artist/0deIjoDjl9g9Zpw0sCIOHh"
         }
       ],
-      "duration_ms": 192200,
-      "name": "The Jam",
-      "url": "https://open.spotify.com/track/3eEStD7Va1vlaN5NBEbQmf"
+      "duration_ms": 190476,
+      "name": "Deep Down Low",
+      "url": "https://open.spotify.com/track/48zgbsLhb3MirBgXt44nlH"
     }
   ],
   "unique_name": "Warehouse Party",

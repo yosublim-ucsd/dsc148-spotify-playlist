@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX36TRAnIL92N.md) - [plain]
 
 > High energy Techno to boost your workout.
 
-[Spotify](https://open.spotify.com/user/spotify) - 231,863 likes - 50 songs - 3 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 232,262 likes - 50 songs - 4 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,15 +48,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX36TRAnIL92N.md) - [plain]
 | 38 | [Roll the Dice](https://open.spotify.com/track/4WPdis6kH2iI0a7zXpmUfW) | [Bart Skils](https://open.spotify.com/artist/6iWBjg4b4ll4jLiParnWXT) | [Roll the Dice](https://open.spotify.com/album/01gHHJybHczwlyVZqwvCSZ) | 4:36 |
 | 39 | [Don't Look Back](https://open.spotify.com/track/1ZRbpnhN6gxTJEnaCBlD0z) | [Lilly Palmer](https://open.spotify.com/artist/4h8IEOdrg60WM5XGyNOCVU) | [We Control](https://open.spotify.com/album/2dWojT5wPowGSARgpHAENj) | 3:51 |
 | 40 | [About My Dreams](https://open.spotify.com/track/0esqnRo6slUc3hjqppnVAn) | [Stephan Jolk](https://open.spotify.com/artist/7w0ddx9rFndvpiqO1VOxJM) | [About My Dreams](https://open.spotify.com/album/5IQWTaU7T5EQk6zzQZZfod) | 5:20 |
-| 41 | [Affection \- Radio Edit](https://open.spotify.com/track/7dQWBRCRBhgbaRATAI6OqD) | [Felix Kröcher](https://open.spotify.com/artist/6lDsCwKwjMQAmR2ueIGUGJ) | [Affection](https://open.spotify.com/album/0Q62ehvfJy5DN51XOIVvfP) | 4:31 |
-| 42 | [Alle meine Raver](https://open.spotify.com/track/3UShLxr87usr5yQ6G3GVKK) | [Mark Dekoda](https://open.spotify.com/artist/3FzG2HgsgPRfwpX1qSK1g8), [Ben Dust](https://open.spotify.com/artist/4smTLJEoRPULdc4QuG7JGo) | [Alle meine Raver](https://open.spotify.com/album/3u1t460lF2E1dS547CkEg4) | 5:14 |
-| 43 | [Experience](https://open.spotify.com/track/6ewzsniysRplwdDRA7eNdn) | [Luna Lucci](https://open.spotify.com/artist/2YDL5wHehd2wcAC9eBKmtp) | [Experience](https://open.spotify.com/album/2mHKmSPCtMud5SwgzMNEQ1) | 5:48 |
-| 44 | [Mercury](https://open.spotify.com/track/3NWMxXgzWvtO3j8o9eFkOi) | [HI\-LO](https://open.spotify.com/artist/0ETJQforv5OXgDgidQv9qd), [Space 92](https://open.spotify.com/artist/6TVdVlY6irsNPkMHT2HkfD), [Oliver Heldens](https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p) | [Mercury](https://open.spotify.com/album/5PrEi7aLxDosgWfIa3eegg) | 3:45 |
+| 41 | [Mercury](https://open.spotify.com/track/3NWMxXgzWvtO3j8o9eFkOi) | [HI\-LO](https://open.spotify.com/artist/0ETJQforv5OXgDgidQv9qd), [Space 92](https://open.spotify.com/artist/6TVdVlY6irsNPkMHT2HkfD), [Oliver Heldens](https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p) | [Mercury](https://open.spotify.com/album/5PrEi7aLxDosgWfIa3eegg) | 3:45 |
+| 42 | [Affection \- Radio Edit](https://open.spotify.com/track/7dQWBRCRBhgbaRATAI6OqD) | [Felix Kröcher](https://open.spotify.com/artist/6lDsCwKwjMQAmR2ueIGUGJ) | [Affection](https://open.spotify.com/album/0Q62ehvfJy5DN51XOIVvfP) | 4:31 |
+| 43 | [Alle meine Raver](https://open.spotify.com/track/3UShLxr87usr5yQ6G3GVKK) | [Mark Dekoda](https://open.spotify.com/artist/3FzG2HgsgPRfwpX1qSK1g8), [Ben Dust](https://open.spotify.com/artist/4smTLJEoRPULdc4QuG7JGo) | [Alle meine Raver](https://open.spotify.com/album/3u1t460lF2E1dS547CkEg4) | 5:14 |
+| 44 | [Experience](https://open.spotify.com/track/6ewzsniysRplwdDRA7eNdn) | [Luna Lucci](https://open.spotify.com/artist/2YDL5wHehd2wcAC9eBKmtp) | [Experience](https://open.spotify.com/album/2mHKmSPCtMud5SwgzMNEQ1) | 5:48 |
 | 45 | [Never Forget](https://open.spotify.com/track/4qq3PGw2BJWBtdTUVwLQkd) | [Deniz Bul](https://open.spotify.com/artist/4H267HByup3kdzVdYLhp21) | [Never Forget](https://open.spotify.com/album/1yWQWTfL2nmGvjaOXFFFeR) | 3:03 |
 | 46 | [Dance for Me](https://open.spotify.com/track/6wJ22X7UZ56eCmrsibz6Td) | [AKKI \(DE\)](https://open.spotify.com/artist/0hReHYoLJG38QBwYIZ8zKs) | [Dance for Me](https://open.spotify.com/album/4qZdltCA4DKqzoh3hUM01W) | 4:05 |
-| 47 | [Can't Stop the Feeling](https://open.spotify.com/track/0NsigEyiIwuysCjeU9EhRU) | [Eli Brown](https://open.spotify.com/artist/5lVNSw2GPci8kebrAQpZqU) | [Deep Down](https://open.spotify.com/album/15G5lWobigPCcfut6h0eaD) | 3:28 |
+| 47 | [Believe](https://open.spotify.com/track/1STyRAWBlr18jm9aRBVrqE) | [Eli Brown](https://open.spotify.com/artist/5lVNSw2GPci8kebrAQpZqU) | [Believe](https://open.spotify.com/album/3CBJ2fnrJfyp5UnrIt6Wvw) | 6:48 |
 | 48 | [Together One Time](https://open.spotify.com/track/5UH3wpmBqgrTqMjtBdDv2s) | [Kaiserdisco](https://open.spotify.com/artist/2lPXenWgbh51R950CMdk6i) | [Together One Time](https://open.spotify.com/album/7oF7soCZFmCFhnLeDKQ19Y) | 4:48 |
 | 49 | [Lonely Traveller](https://open.spotify.com/track/2tfiF1GUsv0z78VraiNU5A) | [Klanglos](https://open.spotify.com/artist/1jV311C5ADuBqCPpprsjUp) | [Lonely Traveller](https://open.spotify.com/album/4i9RkTe3UWHPknzuGLHHit) | 6:06 |
 | 50 | [We All Unite](https://open.spotify.com/track/3RuegyAnJON9JSi916xbQY) | [Patrick Scuro](https://open.spotify.com/artist/6wfL4r7ReScDTARbtSRTvB), [Celic](https://open.spotify.com/artist/0BhjRlNZHbZskFsNNpdNOf), [Sylvie Miles](https://open.spotify.com/artist/4uPM7QLSNGVm5MncolABqE) | [We All Unite](https://open.spotify.com/album/00QtrIgqvR574TbpsEjhax) | 4:04 |
 
-Snapshot ID: `MCxkNWY4OTE5YTIxODE5NTQ1NjE4M2VlYjVhMDA3OWNhOGI5Mjg5Nzk3`
+Snapshot ID: `MCw3ZDY5ZjY3NDM1MDM0MzNhMDdhZjVmZjMyYTdlN2ZlYTljZDY4OGVk`

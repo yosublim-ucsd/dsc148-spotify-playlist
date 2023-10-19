@@ -1,12 +1,12 @@
 {
   "description": "This is the Latin soundtrack of the 70s! Cover:  Jos\u00e9 Jos\u00e9",
-  "num_followers": 46256,
+  "num_followers": 46280,
   "original_name": "70s Latino",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmNTRlODdkN2JiMzQxMzIwZGNlOGYxZDkzMGE5Zjg4ZmRhODg3Nzdl",
+  "snapshot_id": "MCw0N2NiNjU1MDM4YmVjN2M1NmI1ZDQyN2FhOGRiYWU2MWY4ZGM3NWQ0",
   "tracks": [
     {
       "added_at": "2023-02-17 20:59:31",
@@ -511,22 +511,6 @@
     {
       "added_at": "2023-02-17 20:59:31",
       "album": {
-        "name": "A Mi Amor Con Mi Amor",
-        "url": "https://open.spotify.com/album/2UER4o2CMFxJ0qEG662gcu"
-      },
-      "artists": [
-        {
-          "name": "Armando Manzanero",
-          "url": "https://open.spotify.com/artist/5lODCkFdEtpPn3YxfmyLfT"
-        }
-      ],
-      "duration_ms": 141666,
-      "name": "Adoro",
-      "url": "https://open.spotify.com/track/00qP28OLPa3PQ7EmWBsaMK"
-    },
-    {
-      "added_at": "2023-02-17 20:59:31",
-      "album": {
         "name": "Con El Mariachi Vargas De Tecalitlan (with El Mariachi Vargas de Tecalitl\u00e1n)",
         "url": "https://open.spotify.com/album/13NCFsw0EMj0JHwC9KaYwK"
       },
@@ -539,6 +523,22 @@
       "duration_ms": 194666,
       "name": "Estoy Enamorado de Ti",
       "url": "https://open.spotify.com/track/6RxC3waOdRWE7GbNEuZ2Qa"
+    },
+    {
+      "added_at": "2023-02-17 20:59:31",
+      "album": {
+        "name": "A Mi Amor Con Mi Amor",
+        "url": "https://open.spotify.com/album/2UER4o2CMFxJ0qEG662gcu"
+      },
+      "artists": [
+        {
+          "name": "Armando Manzanero",
+          "url": "https://open.spotify.com/artist/5lODCkFdEtpPn3YxfmyLfT"
+        }
+      ],
+      "duration_ms": 141666,
+      "name": "Adoro",
+      "url": "https://open.spotify.com/track/00qP28OLPa3PQ7EmWBsaMK"
     },
     {
       "added_at": "2023-02-17 20:59:31",
@@ -1003,6 +1003,22 @@
     {
       "added_at": "2023-02-17 20:59:31",
       "album": {
+        "name": "La Mas Completa Coleccion",
+        "url": "https://open.spotify.com/album/6ie8SesJgc1UflnOl42NHB"
+      },
+      "artists": [
+        {
+          "name": "Pablo Milan\u00e9s",
+          "url": "https://open.spotify.com/artist/4vOfKh5wz7lTcdqB3EwsC5"
+        }
+      ],
+      "duration_ms": 284240,
+      "name": "Yolanda",
+      "url": "https://open.spotify.com/track/1EgnAsCvnFg6AgMV28xApT"
+    },
+    {
+      "added_at": "2023-02-17 20:59:31",
+      "album": {
         "name": "Celia & Johnny",
         "url": "https://open.spotify.com/album/416lPCtckkTOPYQslZ6QH1"
       },
@@ -1019,22 +1035,6 @@
       "duration_ms": 195360,
       "name": "Vieja Luna",
       "url": "https://open.spotify.com/track/2NafN7tmTGpqOJeEvQ9DZU"
-    },
-    {
-      "added_at": "2023-02-17 20:59:31",
-      "album": {
-        "name": "La Mas Completa Coleccion",
-        "url": "https://open.spotify.com/album/6ie8SesJgc1UflnOl42NHB"
-      },
-      "artists": [
-        {
-          "name": "Pablo Milan\u00e9s",
-          "url": "https://open.spotify.com/artist/4vOfKh5wz7lTcdqB3EwsC5"
-        }
-      ],
-      "duration_ms": 284240,
-      "name": "Yolanda",
-      "url": "https://open.spotify.com/track/1EgnAsCvnFg6AgMV28xApT"
     },
     {
       "added_at": "2023-02-17 20:59:31",

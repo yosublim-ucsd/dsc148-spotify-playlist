@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXavshLo85ZrG.md) - [plain]
 
 > Featuring Mont, Eladio Carrion, Don Omar & more\. Find this week's Fuego mixtape <a href="https://open.spotify.com/playlist/37i9dQZF1DX8sljIJzI0oo?si=aa97e696f74241eb">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,860 likes - 25 songs - 1 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,870 likes - 25 songs - 1 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Coco Chanel](https://open.spotify.com/track/0PB0O24JqAuNdOAFVJljMS) | [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [3MEN2 KBRN](https://open.spotify.com/album/6BGN5CVd7koJApotl5Bj8u) | 3:28 |
 | 2 | [La Bebe \- Remix](https://open.spotify.com/track/2UW7JaomAMuX9pZrjVpHAU) | [Yng Lvcas](https://open.spotify.com/artist/1NNRWkhwmcXRimFYSBpB1y), [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ) | [La Bebe \(Remix\)](https://open.spotify.com/album/6aBVGuOUEuX18rHxyDWbti) | 3:54 |
 | 3 | [Peli\-Culeo \- Remix](https://open.spotify.com/track/0fHpcRj2Jog7fHYB6DbOZF) | [Cazzu](https://open.spotify.com/artist/6w3SkAHYPsQ1bxV7VDlG5y), [De La Ghetto](https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb), [Randy](https://open.spotify.com/artist/7qYeIN2r4H1kBvr0Gm9Iav), [Ñengo Flow](https://open.spotify.com/artist/12vb80Km0Ew53ABfJOepVz), [Justin Quiles](https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP) | [Peli\-Culeo \(Remix\)](https://open.spotify.com/album/6r9E0ojkW7EHWBKLgznPME) | 3:41 |
-| 4 | [FERRAGAMO](https://open.spotify.com/track/2OkMmFo9V7nAXhojd9QUPR) | [Mont](https://open.spotify.com/artist/41gFAk6ZyYdt7Q1Ir4cbH0), [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp) | [FERRAGAMO](https://open.spotify.com/album/5Rz59vfdoaxddW0kMuvV7X) | 3:38 |
+| 4 | [Ferragamo](https://open.spotify.com/track/2OkMmFo9V7nAXhojd9QUPR) | [Mont](https://open.spotify.com/artist/41gFAk6ZyYdt7Q1Ir4cbH0), [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp) | [Ferragamo](https://open.spotify.com/album/5Rz59vfdoaxddW0kMuvV7X) | 3:38 |
 | 5 | [BESO](https://open.spotify.com/track/609E1JCInJncactoMmkDon) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1), [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [RR](https://open.spotify.com/album/50uChhk7AKkzDKytDixjYW) | 3:14 |
 | 6 | [Dile](https://open.spotify.com/track/69Ej1xrGjOcHvIMtMKxK0G) | [Don Omar](https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z) | [The Last Don](https://open.spotify.com/album/4vOvr0tdZWoIGjnHe9jLqz) | 3:24 |
 | 7 | [Vida Gangster](https://open.spotify.com/track/4I4FFtKZLtyqw4he9pPtL7) | [Lauty Gram](https://open.spotify.com/artist/6WAnQfBWB7ddhujPsFQ0pG) | [Vida Gangster](https://open.spotify.com/album/0cWDantlEEkAwu9Z0gAiMX) | 2:50 |
@@ -34,4 +34,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXavshLo85ZrG.md) - [plain]
 | 24 | [Baby Girl](https://open.spotify.com/track/3GHHqeqPmU7Aggw8yT9O3P) | [De La Ghetto](https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb), [Dei V](https://open.spotify.com/artist/2YRyPiW98bpkARAS4B3OQP) | [Baby Girl](https://open.spotify.com/album/5H67cNp6Qd44ozdgupssXB) | 3:17 |
 | 25 | [Fendi & Valentino](https://open.spotify.com/track/6zfmaPzczHb0NiXglOxamn) | [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX), [Dei V](https://open.spotify.com/artist/2YRyPiW98bpkARAS4B3OQP), [Sahir](https://open.spotify.com/artist/0dqT9B1Xej71qvAo8uE4Uh) | [Fendi & Valentino](https://open.spotify.com/album/2aXzhaV9TkNFsmUnkOUBy9) | 4:02 |
 
-Snapshot ID: `MCwzMjRkZmU1NmFkZWU4ZTE3NjU1YjY4NjE3OWNjZjQ1MDYxYTAxZTg4`
+Snapshot ID: `MCwxMTI3MTVhY2M4MmY0NDdmMDVkZjJhY2RiNDczMmU4Y2E4MDQ2Yzcz`

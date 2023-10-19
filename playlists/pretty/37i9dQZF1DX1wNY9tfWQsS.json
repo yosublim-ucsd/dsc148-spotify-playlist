@@ -1,12 +1,12 @@
 {
   "description": "A musical celebration of women in R&amp;B, from its earliest acts to its newest stars. Cover: Whitney Houston",
-  "num_followers": 522190,
+  "num_followers": 522270,
   "original_name": "Women of R&B",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhNWJkMWRhMzhlNzE2M2M4MWNhODkyMzg5YjMzMDZlM2U0YWY2NDQw",
+  "snapshot_id": "MCw5Y2Q3Yjc0NzhlZDQ3YTUwMjJiMDI1MjZmN2VmNzU0YTQyMWM4NzI3",
   "tracks": [
     {
       "added_at": "2022-12-16 17:40:09",
@@ -729,6 +729,22 @@
       "url": "https://open.spotify.com/track/7tsRp7QKUBp6hc9bth0h7x"
     },
     {
+      "added_at": "2022-09-09 18:41:47",
+      "album": {
+        "name": "blue water road",
+        "url": "https://open.spotify.com/album/2WfV3cpI2BUuIxMISh9nqF"
+      },
+      "artists": [
+        {
+          "name": "Kehlani",
+          "url": "https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX"
+        }
+      ],
+      "duration_ms": 207551,
+      "name": "everything",
+      "url": "https://open.spotify.com/track/6pyM30WDpG70VTfwoQg4m2"
+    },
+    {
       "added_at": "2022-03-08 19:58:52",
       "album": {
         "name": "You're All I Need",
@@ -747,22 +763,6 @@
       "duration_ms": 173866,
       "name": "You're All I Need To Get By",
       "url": "https://open.spotify.com/track/6Ndauo9gCxNjTfklsFYS7b"
-    },
-    {
-      "added_at": "2022-09-09 18:41:47",
-      "album": {
-        "name": "blue water road",
-        "url": "https://open.spotify.com/album/2WfV3cpI2BUuIxMISh9nqF"
-      },
-      "artists": [
-        {
-          "name": "Kehlani",
-          "url": "https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX"
-        }
-      ],
-      "duration_ms": 207551,
-      "name": "everything",
-      "url": "https://open.spotify.com/track/6pyM30WDpG70VTfwoQg4m2"
     },
     {
       "added_at": "2022-03-08 19:58:52",

@@ -1,12 +1,12 @@
 {
   "description": "Tune in, bliss out",
-  "num_followers": 383719,
+  "num_followers": 383790,
   "original_name": "Just Chill",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1NDVlYTcwMGZjYmI1YTY4YmIwNmRlZDA3OWRjZjE3MzU3NzNmYTQ2",
+  "snapshot_id": "MCw4NjlkOGEwNTQyMGYwODhkZDU3NjdlYTQwMWI0ZGY5NTkzODU3MzMw",
   "tracks": [
     {
       "added_at": "2023-09-28 14:56:43",
@@ -207,22 +207,22 @@
     {
       "added_at": "2023-09-28 14:56:43",
       "album": {
-        "name": "One Last Dance",
-        "url": "https://open.spotify.com/album/1AgyHcRwOcf0S0DahS869H"
+        "name": "When The Light Breaks",
+        "url": "https://open.spotify.com/album/3M6HrQ6zlE9wwcVmLB5r2h"
       },
       "artists": [
         {
-          "name": "Audien",
-          "url": "https://open.spotify.com/artist/4xnMDfgEmXZEEDdITKcGuE"
+          "name": "Vandelux",
+          "url": "https://open.spotify.com/artist/2rdSCmWgrIWA8pmwhS1T2k"
         },
         {
-          "name": "XIRA",
-          "url": "https://open.spotify.com/artist/7CWqlWlNqgpEYr4vwcVzCJ"
+          "name": "Alex Maher",
+          "url": "https://open.spotify.com/artist/1fdvv0i3DqRnlrpHVBH1ek"
         }
       ],
-      "duration_ms": 184000,
-      "name": "One Last Dance",
-      "url": "https://open.spotify.com/track/1nV6VafLPuRSsXgbDY3i6L"
+      "duration_ms": 240009,
+      "name": "Matter of Time",
+      "url": "https://open.spotify.com/track/5z49EsoURUXq88RSLBmYPG"
     },
     {
       "added_at": "2023-09-28 14:56:43",
@@ -251,22 +251,22 @@
     {
       "added_at": "2023-09-28 14:56:43",
       "album": {
-        "name": "When The Light Breaks",
-        "url": "https://open.spotify.com/album/3M6HrQ6zlE9wwcVmLB5r2h"
+        "name": "One Last Dance",
+        "url": "https://open.spotify.com/album/1AgyHcRwOcf0S0DahS869H"
       },
       "artists": [
         {
-          "name": "Vandelux",
-          "url": "https://open.spotify.com/artist/2rdSCmWgrIWA8pmwhS1T2k"
+          "name": "Audien",
+          "url": "https://open.spotify.com/artist/4xnMDfgEmXZEEDdITKcGuE"
         },
         {
-          "name": "Alex Maher",
-          "url": "https://open.spotify.com/artist/1fdvv0i3DqRnlrpHVBH1ek"
+          "name": "XIRA",
+          "url": "https://open.spotify.com/artist/7CWqlWlNqgpEYr4vwcVzCJ"
         }
       ],
-      "duration_ms": 240009,
-      "name": "Matter of Time",
-      "url": "https://open.spotify.com/track/5z49EsoURUXq88RSLBmYPG"
+      "duration_ms": 184000,
+      "name": "One Last Dance",
+      "url": "https://open.spotify.com/track/1nV6VafLPuRSsXgbDY3i6L"
     },
     {
       "added_at": "2023-09-28 14:56:43",
@@ -519,22 +519,6 @@
     {
       "added_at": "2023-09-28 14:56:43",
       "album": {
-        "name": "About You",
-        "url": "https://open.spotify.com/album/7K2rSJUkftMI3ZiVOhRGta"
-      },
-      "artists": [
-        {
-          "name": "Sonnee",
-          "url": "https://open.spotify.com/artist/2QmItUyhRFr5NBHFTVOBxr"
-        }
-      ],
-      "duration_ms": 154000,
-      "name": "About You",
-      "url": "https://open.spotify.com/track/5SUWn04QGEjbZp5DP1KABh"
-    },
-    {
-      "added_at": "2023-09-28 14:56:43",
-      "album": {
         "name": "Secret Life",
         "url": "https://open.spotify.com/album/1FJVbtVFLARPKbn1HepNh1"
       },
@@ -551,6 +535,22 @@
       "duration_ms": 320533,
       "name": "Cmon",
       "url": "https://open.spotify.com/track/4kaiSmJrLgQq0w2qFuzAwy"
+    },
+    {
+      "added_at": "2023-09-28 14:56:43",
+      "album": {
+        "name": "About You",
+        "url": "https://open.spotify.com/album/7K2rSJUkftMI3ZiVOhRGta"
+      },
+      "artists": [
+        {
+          "name": "Sonnee",
+          "url": "https://open.spotify.com/artist/2QmItUyhRFr5NBHFTVOBxr"
+        }
+      ],
+      "duration_ms": 154000,
+      "name": "About You",
+      "url": "https://open.spotify.com/track/5SUWn04QGEjbZp5DP1KABh"
     },
     {
       "added_at": "2023-09-28 14:56:43",
@@ -607,22 +607,6 @@
     {
       "added_at": "2023-09-28 14:56:43",
       "album": {
-        "name": "Hopeful",
-        "url": "https://open.spotify.com/album/12Dxabl9jxz3xNFkfAotIT"
-      },
-      "artists": [
-        {
-          "name": "ODESZA",
-          "url": "https://open.spotify.com/artist/21mKp7DqtSNHhCAU2ugvUw"
-        }
-      ],
-      "duration_ms": 248432,
-      "name": "Hopeful",
-      "url": "https://open.spotify.com/track/7JXVPV3BIeuDs7JImsuN9P"
-    },
-    {
-      "added_at": "2023-09-28 14:56:43",
-      "album": {
         "name": "MACHINE",
         "url": "https://open.spotify.com/album/44T3g6iiEfy2Sre3LPsBbA"
       },
@@ -635,6 +619,22 @@
       "duration_ms": 197018,
       "name": "MACHINE",
       "url": "https://open.spotify.com/track/0nGqpM1FC31Pnofc8K4b1h"
+    },
+    {
+      "added_at": "2023-09-28 14:56:43",
+      "album": {
+        "name": "Hopeful",
+        "url": "https://open.spotify.com/album/12Dxabl9jxz3xNFkfAotIT"
+      },
+      "artists": [
+        {
+          "name": "ODESZA",
+          "url": "https://open.spotify.com/artist/21mKp7DqtSNHhCAU2ugvUw"
+        }
+      ],
+      "duration_ms": 248432,
+      "name": "Hopeful",
+      "url": "https://open.spotify.com/track/7JXVPV3BIeuDs7JImsuN9P"
     },
     {
       "added_at": "2023-09-28 14:56:43",
@@ -687,26 +687,6 @@
     {
       "added_at": "2023-09-28 14:56:43",
       "album": {
-        "name": "Begin Again",
-        "url": "https://open.spotify.com/album/1ZwkNGxlonmG4bjmLbV1Rr"
-      },
-      "artists": [
-        {
-          "name": "Ben B\u00f6hmer",
-          "url": "https://open.spotify.com/artist/5tDjiBYUsTqzd0RkTZxK7u"
-        },
-        {
-          "name": "JONAH",
-          "url": "https://open.spotify.com/artist/3Rmw0IldYoch0L6XmTjQO4"
-        }
-      ],
-      "duration_ms": 213507,
-      "name": "Home",
-      "url": "https://open.spotify.com/track/2FsUQgO3jopRHjW6rQ7jMc"
-    },
-    {
-      "added_at": "2023-09-28 14:56:43",
-      "album": {
         "name": "Secret Life",
         "url": "https://open.spotify.com/album/1FJVbtVFLARPKbn1HepNh1"
       },
@@ -723,6 +703,26 @@
       "duration_ms": 322499,
       "name": "Enough",
       "url": "https://open.spotify.com/track/2qMLbeUM1IunPifKpvzqDx"
+    },
+    {
+      "added_at": "2023-09-28 14:56:43",
+      "album": {
+        "name": "Begin Again",
+        "url": "https://open.spotify.com/album/1ZwkNGxlonmG4bjmLbV1Rr"
+      },
+      "artists": [
+        {
+          "name": "Ben B\u00f6hmer",
+          "url": "https://open.spotify.com/artist/5tDjiBYUsTqzd0RkTZxK7u"
+        },
+        {
+          "name": "JONAH",
+          "url": "https://open.spotify.com/artist/3Rmw0IldYoch0L6XmTjQO4"
+        }
+      ],
+      "duration_ms": 213507,
+      "name": "Home",
+      "url": "https://open.spotify.com/track/2FsUQgO3jopRHjW6rQ7jMc"
     },
     {
       "added_at": "2023-09-28 14:56:43",
@@ -783,22 +783,26 @@
     {
       "added_at": "2023-09-28 14:56:43",
       "album": {
-        "name": "Rolling Back (Durante Remix)",
-        "url": "https://open.spotify.com/album/1GiOPy7dvYrVMRwMPsprlT"
+        "name": "Touching My Body / Down Shovel",
+        "url": "https://open.spotify.com/album/6WqDlSi0CRDZWTFjPNxtrI"
       },
       "artists": [
         {
-          "name": "TWO LANES",
-          "url": "https://open.spotify.com/artist/7mnuMLgvXdCWzyB4sQCG7k"
+          "name": "Skepta",
+          "url": "https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN"
         },
         {
-          "name": "Panama",
-          "url": "https://open.spotify.com/artist/3W9UldYu0xJcaOAw2SUTDI"
+          "name": "Jammer",
+          "url": "https://open.spotify.com/artist/4xgV1UcvsrLM4rQrjTjwNw"
+        },
+        {
+          "name": "Etta Bond",
+          "url": "https://open.spotify.com/artist/0zanHkxN0P38oWegA8iSQA"
         }
       ],
-      "duration_ms": 238000,
-      "name": "Rolling Back",
-      "url": "https://open.spotify.com/track/335EcT0oI5889ZgM0q413d"
+      "duration_ms": 430727,
+      "name": "Touching My Body",
+      "url": "https://open.spotify.com/track/57PvBFABJ1F5mX69oUt8Yh"
     },
     {
       "added_at": "2023-09-28 14:56:43",
@@ -823,26 +827,6 @@
     {
       "added_at": "2023-09-28 14:56:43",
       "album": {
-        "name": "Kahan (last year)",
-        "url": "https://open.spotify.com/album/215RCt9IFitsQ2fuDrnysX"
-      },
-      "artists": [
-        {
-          "name": "Fred again..",
-          "url": "https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe"
-        },
-        {
-          "name": "Kodak Black",
-          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
-        }
-      ],
-      "duration_ms": 216000,
-      "name": "Kahan (last year)",
-      "url": "https://open.spotify.com/track/0fGsBRR1Am2H5nIQx9nFCT"
-    },
-    {
-      "added_at": "2023-09-28 14:56:43",
-      "album": {
         "name": "Something About",
         "url": "https://open.spotify.com/album/3qlZd2dgippiunzkO8D0pM"
       },
@@ -859,26 +843,42 @@
     {
       "added_at": "2023-09-28 14:56:43",
       "album": {
-        "name": "Touching My Body / Down Shovel",
-        "url": "https://open.spotify.com/album/6WqDlSi0CRDZWTFjPNxtrI"
+        "name": "Rolling Back (Durante Remix)",
+        "url": "https://open.spotify.com/album/1GiOPy7dvYrVMRwMPsprlT"
       },
       "artists": [
         {
-          "name": "Skepta",
-          "url": "https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN"
+          "name": "TWO LANES",
+          "url": "https://open.spotify.com/artist/7mnuMLgvXdCWzyB4sQCG7k"
         },
         {
-          "name": "Jammer",
-          "url": "https://open.spotify.com/artist/4xgV1UcvsrLM4rQrjTjwNw"
-        },
-        {
-          "name": "Etta Bond",
-          "url": "https://open.spotify.com/artist/0zanHkxN0P38oWegA8iSQA"
+          "name": "Panama",
+          "url": "https://open.spotify.com/artist/3W9UldYu0xJcaOAw2SUTDI"
         }
       ],
-      "duration_ms": 430727,
-      "name": "Touching My Body",
-      "url": "https://open.spotify.com/track/57PvBFABJ1F5mX69oUt8Yh"
+      "duration_ms": 238000,
+      "name": "Rolling Back",
+      "url": "https://open.spotify.com/track/335EcT0oI5889ZgM0q413d"
+    },
+    {
+      "added_at": "2023-09-28 14:56:43",
+      "album": {
+        "name": "Kahan (last year)",
+        "url": "https://open.spotify.com/album/215RCt9IFitsQ2fuDrnysX"
+      },
+      "artists": [
+        {
+          "name": "Fred again..",
+          "url": "https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe"
+        },
+        {
+          "name": "Kodak Black",
+          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
+        }
+      ],
+      "duration_ms": 216000,
+      "name": "Kahan (last year)",
+      "url": "https://open.spotify.com/track/0fGsBRR1Am2H5nIQx9nFCT"
     },
     {
       "added_at": "2023-09-28 14:56:43",
@@ -935,6 +935,22 @@
     {
       "added_at": "2023-09-28 14:56:43",
       "album": {
+        "name": "Healing",
+        "url": "https://open.spotify.com/album/0A8OvnT0h2rXSqZjdSdwQF"
+      },
+      "artists": [
+        {
+          "name": "TWO LANES",
+          "url": "https://open.spotify.com/artist/7mnuMLgvXdCWzyB4sQCG7k"
+        }
+      ],
+      "duration_ms": 251694,
+      "name": "Healing",
+      "url": "https://open.spotify.com/track/6BFgRgJWIuIba0K5IKupnT"
+    },
+    {
+      "added_at": "2023-09-28 14:56:43",
+      "album": {
         "name": "Mirage",
         "url": "https://open.spotify.com/album/45yGFEPm310zjAc1psZzEv"
       },
@@ -967,22 +983,6 @@
     {
       "added_at": "2023-09-28 14:56:43",
       "album": {
-        "name": "Healing",
-        "url": "https://open.spotify.com/album/0A8OvnT0h2rXSqZjdSdwQF"
-      },
-      "artists": [
-        {
-          "name": "TWO LANES",
-          "url": "https://open.spotify.com/artist/7mnuMLgvXdCWzyB4sQCG7k"
-        }
-      ],
-      "duration_ms": 251694,
-      "name": "Healing",
-      "url": "https://open.spotify.com/track/6BFgRgJWIuIba0K5IKupnT"
-    },
-    {
-      "added_at": "2023-09-28 14:56:43",
-      "album": {
         "name": "What a Wonderful World (Krister Remix)",
         "url": "https://open.spotify.com/album/7K9B42KWbEt2pR4CFHt2DW"
       },
@@ -1007,6 +1007,22 @@
     {
       "added_at": "2023-09-28 14:56:43",
       "album": {
+        "name": "Tidal Waves",
+        "url": "https://open.spotify.com/album/5JUNGkyetUR1RC0svtR772"
+      },
+      "artists": [
+        {
+          "name": "Isaak Young",
+          "url": "https://open.spotify.com/artist/7qmOAgRUFZhLfwtyCGPKdo"
+        }
+      ],
+      "duration_ms": 190820,
+      "name": "Tidal Waves",
+      "url": "https://open.spotify.com/track/3YTZyDywwVOWOXw2d970Dx"
+    },
+    {
+      "added_at": "2023-09-28 14:56:43",
+      "album": {
         "name": "Raye",
         "url": "https://open.spotify.com/album/55XutLIxmTUmwwFydXTBZ4"
       },
@@ -1023,22 +1039,6 @@
       "duration_ms": 290409,
       "name": "Raye",
       "url": "https://open.spotify.com/track/5tsVgtKdAfKGcVIcCHvyxe"
-    },
-    {
-      "added_at": "2023-09-28 14:56:43",
-      "album": {
-        "name": "Tidal Waves",
-        "url": "https://open.spotify.com/album/5JUNGkyetUR1RC0svtR772"
-      },
-      "artists": [
-        {
-          "name": "Isaak Young",
-          "url": "https://open.spotify.com/artist/7qmOAgRUFZhLfwtyCGPKdo"
-        }
-      ],
-      "duration_ms": 190820,
-      "name": "Tidal Waves",
-      "url": "https://open.spotify.com/track/3YTZyDywwVOWOXw2d970Dx"
     },
     {
       "added_at": "2023-09-28 14:56:43",
@@ -1115,6 +1115,26 @@
     {
       "added_at": "2023-09-28 14:56:43",
       "album": {
+        "name": "Making Time",
+        "url": "https://open.spotify.com/album/25lUESkThyWEygZ6iZcWt6"
+      },
+      "artists": [
+        {
+          "name": "Sultan + Shepard",
+          "url": "https://open.spotify.com/artist/14Tg9FvbNismPR1PJHxRau"
+        },
+        {
+          "name": "Julia Church",
+          "url": "https://open.spotify.com/artist/4dHGNdVhBxCJUyMk9dR727"
+        }
+      ],
+      "duration_ms": 271025,
+      "name": "Making Time",
+      "url": "https://open.spotify.com/track/3hYVvOf0m67UxBdG57vgd5"
+    },
+    {
+      "added_at": "2023-09-28 14:56:43",
+      "album": {
         "name": "Actual Life 2 Piano EP (February 2 - October 15 2021)",
         "url": "https://open.spotify.com/album/7wAADcoEepJlzQPfKlX5S3"
       },
@@ -1159,26 +1179,6 @@
       "duration_ms": 172319,
       "name": "Gonna Be Good",
       "url": "https://open.spotify.com/track/42LSQpK6JdGjqRttkxIoy1"
-    },
-    {
-      "added_at": "2023-09-28 14:56:43",
-      "album": {
-        "name": "Making Time",
-        "url": "https://open.spotify.com/album/25lUESkThyWEygZ6iZcWt6"
-      },
-      "artists": [
-        {
-          "name": "Sultan + Shepard",
-          "url": "https://open.spotify.com/artist/14Tg9FvbNismPR1PJHxRau"
-        },
-        {
-          "name": "Julia Church",
-          "url": "https://open.spotify.com/artist/4dHGNdVhBxCJUyMk9dR727"
-        }
-      ],
-      "duration_ms": 271025,
-      "name": "Making Time",
-      "url": "https://open.spotify.com/track/3hYVvOf0m67UxBdG57vgd5"
     },
     {
       "added_at": "2023-09-28 14:56:43",

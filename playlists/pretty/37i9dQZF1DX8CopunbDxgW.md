@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8CopunbDxgW.md) - [plain]
 
 > The best indie dance tracks of the moment\. Cover: Polo & Pan
 
-[Spotify](https://open.spotify.com/user/spotify) - 863,173 likes - 150 songs - 9 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 863,208 likes - 150 songs - 9 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8CopunbDxgW.md) - [plain]
 | 149 | [No Limit](https://open.spotify.com/track/1YR94xmVWP4Y4t8jojuFow) | [Tirzah](https://open.spotify.com/artist/6f5lOlSFJw9K79gaNnmWAd) | [trip9love...???](https://open.spotify.com/album/0kgD4sTUloCGUbDGyTxqV7) | 3:02 |
 | 150 | [cry for help](https://open.spotify.com/track/5gfYxsAS939n06daeVX7WF) | [Xedrin](https://open.spotify.com/artist/0T8OlNkaNRP75U1kSlRyWG), [spiderblush](https://open.spotify.com/artist/20b2KfO5KOXtq9jTWkfcQO) | [cry for help](https://open.spotify.com/album/6JFrOuwXVsGIifVmwx9sn8) | 1:58 |
 
-Snapshot ID: `MCxhZDU3OTJmYTdhNzRkMjA5Y2M3ZTI2YWE3ZjQxNmFlZTg3NzliMjQz`
+Snapshot ID: `MCwxMmNjM2M2YWRlN2FmNGE1NzNhZWM5NWMwNzdmOTE5MzViZWRjOGFh`

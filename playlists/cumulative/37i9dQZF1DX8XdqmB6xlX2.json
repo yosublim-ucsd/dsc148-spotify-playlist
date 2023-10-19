@@ -273,6 +273,24 @@
     },
     {
       "album": {
+        "name": "Flowers For The Grave",
+        "url": "https://open.spotify.com/album/3zPoeWuvwtFwlXbvSBNGyI"
+      },
+      "artists": [
+        {
+          "name": "Normandie",
+          "url": "https://open.spotify.com/artist/1zsOttiR3VjZRnw4Iq8Zg6"
+        }
+      ],
+      "date_added": "2023-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214830,
+      "name": "Blood In The Water",
+      "url": "https://open.spotify.com/track/0pZt6FBIYTgLBUE0QGH2mF"
+    },
+    {
+      "album": {
         "name": "Bones",
         "url": "https://open.spotify.com/album/1Q9SnHWPNEjVM0LrBFvJ1q"
       },

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZryfp6NSvtz.md) - [plain]
 
 > The best new rock tracks every week\. Cover: blink\-182
 
-[Spotify](https://open.spotify.com/user/spotify) - 427,139 likes - 49 songs - 2 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 427,353 likes - 49 songs - 2 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,29 +33,29 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZryfp6NSvtz.md) - [plain]
 | 23 | [lullaby](https://open.spotify.com/track/3rJDQ12wSQFfCpL25r6tNo) | [Pinkshift](https://open.spotify.com/artist/3bfSaJqEYosPcdoCN06G3P) | [suraksha](https://open.spotify.com/album/2DU7eVOKSWzIH5Rqt47wtb) | 4:39 |
 | 24 | [Hypnotized](https://open.spotify.com/track/17Ig0GeL1BPTh2K9SwwIKZ) | [Onlap](https://open.spotify.com/artist/5vkIUHgmiNIPn4Beoh2QPc) | [Hypnotized](https://open.spotify.com/album/1X7RILlUXKDyOD1NZBEhwO) | 3:46 |
 | 25 | [Half Nelson](https://open.spotify.com/track/4DzKsnD6cZyI9Pc53cbBD6) | [Wayside](https://open.spotify.com/artist/30dxyV2Ax6tiLYdaIFmm2x) | [Half Nelson](https://open.spotify.com/album/4oCXc06Df2rCYru2NGYxYb) | 3:11 |
-| 26 | [Backbone](https://open.spotify.com/track/7cl08gllA42WPESPRGUlqQ) | [MONOWHALES](https://open.spotify.com/artist/6Ok8AIUj7YYGC981xWCbgQ) | [Backbone](https://open.spotify.com/album/6xX5k5pieb7GtDHdNv1lRv) | 3:13 |
-| 27 | [Yoke](https://open.spotify.com/track/6AUifRe9r44yBbsF2SeuqK) | [Teenage Joans](https://open.spotify.com/artist/6i78AQeGl4IGuGePiz3woE) | [The Rot That Grows Inside My Chest](https://open.spotify.com/album/6Y0Gh7nGWrVw1CfA4fDWIV) | 2:34 |
+| 26 | [Yoke](https://open.spotify.com/track/6AUifRe9r44yBbsF2SeuqK) | [Teenage Joans](https://open.spotify.com/artist/6i78AQeGl4IGuGePiz3woE) | [The Rot That Grows Inside My Chest](https://open.spotify.com/album/6Y0Gh7nGWrVw1CfA4fDWIV) | 2:34 |
+| 27 | [Backbone](https://open.spotify.com/track/7cl08gllA42WPESPRGUlqQ) | [MONOWHALES](https://open.spotify.com/artist/6Ok8AIUj7YYGC981xWCbgQ) | [Backbone](https://open.spotify.com/album/6xX5k5pieb7GtDHdNv1lRv) | 3:13 |
 | 28 | [Your Blood Awaits You \- Trigger Edit](https://open.spotify.com/track/1rRs77zgzZxjw5v55V10Vx) | [Takida](https://open.spotify.com/artist/3E33tPtYu9wX1t1cp8ELAW) | [Your Blood Awaits You](https://open.spotify.com/album/4wdhzesIo56No0S10XbWep) | 3:22 |
 | 29 | [Best Friend](https://open.spotify.com/track/6ZNlHegzWxt8Sm8meMRuu5) | [The Moving Stills](https://open.spotify.com/artist/5MXKeoHi08yq7nnRNe3t4w) | [Best Friend](https://open.spotify.com/album/5nJOWWjpN8WTkAInFSDaO6) | 2:57 |
-| 30 | [ELF](https://open.spotify.com/track/1gQjg72dJ4hMDQkRHLNxgH) | [Feeder](https://open.spotify.com/artist/0ZZr6Y49NZWRJc0uCwqpMR) | [Playing With Fire / ELF](https://open.spotify.com/album/5S0CnSM5Ni9l7W7xhdhhqF) | 3:58 |
-| 31 | [Carried Away](https://open.spotify.com/track/4GEBSPiyXa9vu56cJtbn0j) | [blacktoothed](https://open.spotify.com/artist/0guYG99gfJe7LYCF4WR3c6) | [Carried Away](https://open.spotify.com/album/45lOeUjaAToIYNmVzkcofh) | 3:01 |
-| 32 | [Blisters](https://open.spotify.com/track/7Hog36913nHaVnHJFZ64Nk) | [Vinyl Theatre](https://open.spotify.com/artist/7xSEWLsywYbocdtt3xsQsU) | [Blisters](https://open.spotify.com/album/4I0yBD10SKcuAgxTVXw6m6) | 4:06 |
-| 33 | [Scared To Lose You](https://open.spotify.com/track/0UO5p0lbj3SfBG0HNKZjUl) | [PLAIINS](https://open.spotify.com/artist/3gUHDc3I3G1bFRElrj90fR) | [Scared To Lose You](https://open.spotify.com/album/111he3jpTYkiZEgAZ9XiJS) | 2:46 |
+| 30 | [Carried Away](https://open.spotify.com/track/4GEBSPiyXa9vu56cJtbn0j) | [blacktoothed](https://open.spotify.com/artist/0guYG99gfJe7LYCF4WR3c6) | [Carried Away](https://open.spotify.com/album/45lOeUjaAToIYNmVzkcofh) | 3:01 |
+| 31 | [Blisters](https://open.spotify.com/track/7Hog36913nHaVnHJFZ64Nk) | [Vinyl Theatre](https://open.spotify.com/artist/7xSEWLsywYbocdtt3xsQsU) | [Blisters](https://open.spotify.com/album/4I0yBD10SKcuAgxTVXw6m6) | 4:06 |
+| 32 | [Scared To Lose You](https://open.spotify.com/track/0UO5p0lbj3SfBG0HNKZjUl) | [PLAIINS](https://open.spotify.com/artist/3gUHDc3I3G1bFRElrj90fR) | [Scared To Lose You](https://open.spotify.com/album/111he3jpTYkiZEgAZ9XiJS) | 2:46 |
+| 33 | [ELF](https://open.spotify.com/track/1gQjg72dJ4hMDQkRHLNxgH) | [Feeder](https://open.spotify.com/artist/0ZZr6Y49NZWRJc0uCwqpMR) | [Playing With Fire / ELF](https://open.spotify.com/album/5S0CnSM5Ni9l7W7xhdhhqF) | 3:58 |
 | 34 | [Narcissist](https://open.spotify.com/track/0EALuHhSfqB6rQWjBPhQOm) | [IRONTOM](https://open.spotify.com/artist/4KY9rCrokaoFzvMfX98u1q) | [GEL pt.1](https://open.spotify.com/album/2c2xyAW5qfLi6EjtHH4jWm) | 3:40 |
 | 35 | [Uh Oh!](https://open.spotify.com/track/5hShE6SwGkefw3TP7J5AxB) | [Another Sky](https://open.spotify.com/artist/08p5D6BYuwPqGsFuIDLNFr) | [Uh Oh!](https://open.spotify.com/album/7p6TOJB8A5aOdWKl5zcNJC) | 2:01 |
 | 36 | [Never Grow Up](https://open.spotify.com/track/4XNRSMu212fobcMZePUE9z) | [Said The Whale](https://open.spotify.com/artist/0QTnH6UEP2jbZEVO6g6Vfe) | [Never Grow Up](https://open.spotify.com/album/2Sltvvb2yH3gWqJp8lNGVG) | 3:03 |
 | 37 | [Torched](https://open.spotify.com/track/7inaTyQTHJq8G18vFU2J6X) | [Colourblind](https://open.spotify.com/artist/2Tzh2zHsSIBYCkytK2L82k) | [Torched](https://open.spotify.com/album/1hRNwx5co2OS2a2XEVDxky) | 2:28 |
-| 38 | [Super Bon Bon](https://open.spotify.com/track/4ALTgkMyedQIg1E9APkVdw) | [Sunfish](https://open.spotify.com/artist/6pSYsLGxRDhv5iEBzZAI4J) | [Super Bon Bon](https://open.spotify.com/album/0tkRK3oBZDifplfC3HvqBx) | 3:55 |
-| 39 | [Walken](https://open.spotify.com/track/25INKRCM5REwNb297JqCIj) | [Bleeker](https://open.spotify.com/artist/64tT0KKbU4AFWkO6v1VvXv) | [Walken](https://open.spotify.com/album/5dweza6BYF5jgWvL4IkadL) | 3:44 |
-| 40 | [Scumbag/Wetrag](https://open.spotify.com/track/4aN748ELJCyVQKZD2wsa6L) | [Mom Rock](https://open.spotify.com/artist/6xwv9O4HYAqPMp1bbSqufi) | [Now That's What I Call Mom Rock](https://open.spotify.com/album/6EuB2BYbjfybh0bQ1IGUAC) | 3:24 |
+| 38 | [Walken](https://open.spotify.com/track/25INKRCM5REwNb297JqCIj) | [Bleeker](https://open.spotify.com/artist/64tT0KKbU4AFWkO6v1VvXv) | [Walken](https://open.spotify.com/album/5dweza6BYF5jgWvL4IkadL) | 3:44 |
+| 39 | [Scumbag/Wetrag](https://open.spotify.com/track/4aN748ELJCyVQKZD2wsa6L) | [Mom Rock](https://open.spotify.com/artist/6xwv9O4HYAqPMp1bbSqufi) | [Now That's What I Call Mom Rock](https://open.spotify.com/album/6EuB2BYbjfybh0bQ1IGUAC) | 3:24 |
+| 40 | [Super Bon Bon](https://open.spotify.com/track/4ALTgkMyedQIg1E9APkVdw) | [Sunfish](https://open.spotify.com/artist/6pSYsLGxRDhv5iEBzZAI4J) | [Super Bon Bon](https://open.spotify.com/album/0tkRK3oBZDifplfC3HvqBx) | 3:55 |
 | 41 | [Born to Win](https://open.spotify.com/track/4fsVCgzknleqGFmV7WihCF) | [La Rosa](https://open.spotify.com/artist/3XX6YLm7pQFZZA8qo0MtmB) | [Born to Win](https://open.spotify.com/album/5DVy8NKNSeRGYIjH7rCftk) | 2:31 |
 | 42 | [Kinda the Same](https://open.spotify.com/track/0GpYM1IxBnEaMGUB4HgLOT) | [It It Anita](https://open.spotify.com/artist/2KIWKzkuz5AX8k5UTk86yH) | [Mouche](https://open.spotify.com/album/01Rjzhj8Ye1VgqdaV24hgw) | 3:40 |
-| 43 | [Accidental Doom](https://open.spotify.com/track/4RWRV4KKmBJevD1jSupSry) | [Pit Pony](https://open.spotify.com/artist/1Tam6yeKCTZNKVah41Uv7j) | [Accidental Doom](https://open.spotify.com/album/3kZXb8vcfhNLKw58FyjbOr) | 4:13 |
+| 43 | [Gelled Water](https://open.spotify.com/track/1pdkMHkkctz1IlomRCzErR) | [Droïd Fantôm](https://open.spotify.com/artist/7HrozFN6zYmxYBLejkkZuz) | [Gelled Water](https://open.spotify.com/album/7cBhtxtvMTN8hwuS2qlATW) | 3:46 |
 | 44 | [Addicted To You](https://open.spotify.com/track/4y6JShn2SQb88B5rvRTcXA) | [Rews](https://open.spotify.com/artist/4B06m6NJ8e5AnzIZNtZtta) | [Meridians](https://open.spotify.com/album/1SPGs4aTflXEvO5jSVIWuH) | 2:56 |
-| 45 | [Gelled Water](https://open.spotify.com/track/1pdkMHkkctz1IlomRCzErR) | [Droïd Fantôm](https://open.spotify.com/artist/7HrozFN6zYmxYBLejkkZuz) | [Gelled Water](https://open.spotify.com/album/7cBhtxtvMTN8hwuS2qlATW) | 3:46 |
+| 45 | [Accidental Doom](https://open.spotify.com/track/4RWRV4KKmBJevD1jSupSry) | [Pit Pony](https://open.spotify.com/artist/1Tam6yeKCTZNKVah41Uv7j) | [Accidental Doom](https://open.spotify.com/album/3kZXb8vcfhNLKw58FyjbOr) | 4:13 |
 | 46 | [My Own Hell](https://open.spotify.com/track/3FiRWP4QJ1Di59fGDOYQAR) | [JULES IS DEAD](https://open.spotify.com/artist/5inrtHsPByV845LcC1mDmM) | [My Own Hell](https://open.spotify.com/album/3MHaxJDs6Z9Z9iwVtZt8ip) | 3:25 |
 | 47 | [Sick Joke](https://open.spotify.com/track/1yNzYf1SCbICYLkTpuScwG) | [Lemondrop](https://open.spotify.com/artist/7sbagdU2jg3fyzcIUGTyYd) | [The Internet EP](https://open.spotify.com/album/3M3qvNydbk37mnyEUOYkml) | 4:26 |
 | 48 | [did u want this?](https://open.spotify.com/track/4N3WIxNYDVZH3AIzd8yzL4) | [Sunborn](https://open.spotify.com/artist/39bLxLnMXWV7LMinf717gS) | [DIVE](https://open.spotify.com/album/2wF8mhAC08Ea2K08GXVlh6) | 3:11 |
 | 49 | [Andy](https://open.spotify.com/track/57ID58mTLjmblDHYfL36bL) | [Tribe Friday](https://open.spotify.com/artist/27Hd2l3rnMm3JL9hm31RE7) | [Hemma](https://open.spotify.com/album/7oZ2K8xEGBYIXdUg6Ha6vH) | 3:41 |
 
-Snapshot ID: `MCwxZGFhYjJiZDQwMTQ3YTViYTIzODFkNzQ2Zjg0NDhhODFiNmZkZTU2`
+Snapshot ID: `MCw1MmEzZDY5ZDY0NWI1OWQyOGNhNjlmNGQ0Njg5N2M0MDU4NGZlNjI4`

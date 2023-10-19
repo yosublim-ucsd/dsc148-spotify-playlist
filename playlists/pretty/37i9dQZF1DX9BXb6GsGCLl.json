@@ -1,12 +1,12 @@
 {
   "description": "Fuel your powerwalk with these upbeat and uplifting tracks.",
-  "num_followers": 541909,
+  "num_followers": 541973,
   "original_name": "Powerwalk!",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyNDIzZmU3ZTRhODJmNDkwOGNmMTQ5MTM1N2NjZGI5Yzc1MjU4OGQ5",
+  "snapshot_id": "MCwwODA2YzRjOWZjZmMzMzNmYmY0MWUyMTc2MWViMzQ2ZGE3NjdhNmIy",
   "tracks": [
     {
       "added_at": "2021-08-20 08:20:52",
@@ -631,26 +631,6 @@
     {
       "added_at": "2021-08-20 08:20:52",
       "album": {
-        "name": "THE ALBUM",
-        "url": "https://open.spotify.com/album/71O60S5gIJSIAhdnrDIh3N"
-      },
-      "artists": [
-        {
-          "name": "BLACKPINK",
-          "url": "https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF"
-        },
-        {
-          "name": "Selena Gomez",
-          "url": "https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx"
-        }
-      ],
-      "duration_ms": 177813,
-      "name": "Ice Cream (with Selena Gomez)",
-      "url": "https://open.spotify.com/track/4JUPEh2DVSXFGExu4Uxevz"
-    },
-    {
-      "added_at": "2021-08-20 08:20:52",
-      "album": {
         "name": "Changes",
         "url": "https://open.spotify.com/album/63iWSELt9V1kV6RSMxN7Ii"
       },
@@ -671,6 +651,26 @@
       "duration_ms": 219933,
       "name": "Forever (feat. Post Malone & Clever)",
       "url": "https://open.spotify.com/track/2ZlCGeK30BLRNSPC832pNZ"
+    },
+    {
+      "added_at": "2021-08-20 08:20:52",
+      "album": {
+        "name": "THE ALBUM",
+        "url": "https://open.spotify.com/album/71O60S5gIJSIAhdnrDIh3N"
+      },
+      "artists": [
+        {
+          "name": "BLACKPINK",
+          "url": "https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF"
+        },
+        {
+          "name": "Selena Gomez",
+          "url": "https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx"
+        }
+      ],
+      "duration_ms": 177813,
+      "name": "Ice Cream (with Selena Gomez)",
+      "url": "https://open.spotify.com/track/4JUPEh2DVSXFGExu4Uxevz"
     },
     {
       "added_at": "2021-08-20 08:20:52",
@@ -1463,6 +1463,26 @@
     {
       "added_at": "2021-08-20 08:20:52",
       "album": {
+        "name": "Born To Love (feat. SHELLS)",
+        "url": "https://open.spotify.com/album/4r4MtHl8F0NkkSA0kObrEm"
+      },
+      "artists": [
+        {
+          "name": "MEDUZA",
+          "url": "https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu"
+        },
+        {
+          "name": "SHELLS",
+          "url": "https://open.spotify.com/artist/1ZwuShKjJItDJez0aDCsxN"
+        }
+      ],
+      "duration_ms": 162295,
+      "name": "Born To Love (feat. SHELLS)",
+      "url": "https://open.spotify.com/track/7cX5H82DTZ5iHRLbewBEBd"
+    },
+    {
+      "added_at": "2021-08-20 08:20:52",
+      "album": {
         "name": "Close Your Eyes",
         "url": "https://open.spotify.com/album/0PhTTyRWpJVlg4F5RC0xmE"
       },
@@ -1507,26 +1527,6 @@
       "duration_ms": 193548,
       "name": "Slow Dance (feat. Ava Max) - Sam Feldt Remix",
       "url": "https://open.spotify.com/track/2wenGTypSYHXl1sN1pNC7X"
-    },
-    {
-      "added_at": "2021-08-20 08:20:52",
-      "album": {
-        "name": "Born To Love (feat. SHELLS)",
-        "url": "https://open.spotify.com/album/4r4MtHl8F0NkkSA0kObrEm"
-      },
-      "artists": [
-        {
-          "name": "MEDUZA",
-          "url": "https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu"
-        },
-        {
-          "name": "SHELLS",
-          "url": "https://open.spotify.com/artist/1ZwuShKjJItDJez0aDCsxN"
-        }
-      ],
-      "duration_ms": 162295,
-      "name": "Born To Love (feat. SHELLS)",
-      "url": "https://open.spotify.com/track/7cX5H82DTZ5iHRLbewBEBd"
     },
     {
       "added_at": "2021-08-20 08:20:52",
@@ -1611,18 +1611,26 @@
     {
       "added_at": "2021-08-20 08:20:52",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/2WjIiFJyC42JPqaQDF6qve"
+        "name": "Back & Forth",
+        "url": "https://open.spotify.com/album/2WqGsuxmIREkcArxbp5IK0"
       },
       "artists": [
         {
-          "name": "Benjamin Ingrosso",
-          "url": "https://open.spotify.com/artist/7jEEE187pVG6InOxn03oA5"
+          "name": "MK",
+          "url": "https://open.spotify.com/artist/1yqxFtPHKcGcv6SXZNdyT9"
+        },
+        {
+          "name": "Jonas Blue",
+          "url": "https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf"
+        },
+        {
+          "name": "Becky Hill",
+          "url": "https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK"
         }
       ],
-      "duration_ms": 188166,
-      "name": "All Night Long (All Night) - Recorded at Spotify Studios Stockholm",
-      "url": "https://open.spotify.com/track/5dsk3uLRghh1WmuN21LEW8"
+      "duration_ms": 196214,
+      "name": "Back & Forth",
+      "url": "https://open.spotify.com/track/4M8x1TR36VMQMFMbGCdoyA"
     }
   ],
   "unique_name": "Powerwalk!",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5mB2C8gBeUM.md) - [plain]
 
 > Country gone wild! You never know what you're gonna get\. Cover: Austin Snell
 
-[Spotify](https://open.spotify.com/user/spotify) - 941,653 likes - 144 songs - 7 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 941,896 likes - 144 songs - 7 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -100,7 +100,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5mB2C8gBeUM.md) - [plain]
 | 90 | [Black Silverado](https://open.spotify.com/track/4kZlcEXnP90soPZLc85aBK) | [Vwillz](https://open.spotify.com/artist/0S7eN9KAsbAaIZtFyCn1q1) | [Black Silverado](https://open.spotify.com/album/6ZWY7ZhBmrB8c9E8suLgJb) | 2:42 |
 | 91 | [I’ll Be Damned](https://open.spotify.com/track/69Asb7QVKn11cRDpbwPpcY) | [Riley Thomas](https://open.spotify.com/artist/5eBOFT8dGahqsNY97nwuJB) | [I’ll Be Damned](https://open.spotify.com/album/4PjzPyI2uEAnKW603XKKSc) | 3:08 |
 | 92 | [I Don't Go Back](https://open.spotify.com/track/55Y4hbXnw8DZDGxwVFr6Xp) | [Kassi Ashton](https://open.spotify.com/artist/1LCsAfmP4l13EYtzDaLMAg) | [I Don't Go Back](https://open.spotify.com/album/0Rh8EYAlpUkvonGJoBMudV) | 3:20 |
-| 93 | [8 to infinity](https://open.spotify.com/track/4RqdIBIVMQk5konaaFJABh) | [Nic D](https://open.spotify.com/artist/1XlLhtgJjC4ROQZilBZAvw) | [8 to infinity](https://open.spotify.com/album/3w9Z3NRNVVfMM9KfjuplUj) | 2:38 |
+| 93 | [8 to infinity](https://open.spotify.com/track/3NQu2RzBGMeTIWhgF2qEv8) | [Nic D](https://open.spotify.com/artist/1XlLhtgJjC4ROQZilBZAvw) | [8 to infinity](https://open.spotify.com/album/6liiN1A45ihA3KD3DVe3FT) | 2:38 |
 | 94 | [Mile a Minute](https://open.spotify.com/track/32TXXuxoLABBCPwIzhcQji) | [Josh Mirenda](https://open.spotify.com/artist/5zmTJA6eWcsmxevyQoK9iB) | [Mile a Minute](https://open.spotify.com/album/5c7RiwpntE5FEcZbsj8kU4) | 3:15 |
 | 95 | [Out Yonder](https://open.spotify.com/track/6qD87YEMuF9pY4g3MtSeiG) | [Elle King](https://open.spotify.com/artist/3bhu7P5PfngueRHiB9hjcx) | [Out Yonder](https://open.spotify.com/album/6tUQwE1bKzyW54f7vkEg4P) | 3:22 |
 | 96 | [Mr\. Percocet](https://open.spotify.com/track/3ONe6SKdO3uRrWLsZePF1p) | [Noah Cyrus](https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW) | [The Hardest Part](https://open.spotify.com/album/4frBxYchAwQD5z8Z6VTrF3) | 3:13 |
@@ -138,7 +138,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5mB2C8gBeUM.md) - [plain]
 | 128 | [We Did](https://open.spotify.com/track/2uqPdi0TFoCYZaAoGYf8zr) | [Sacha](https://open.spotify.com/artist/2uEreYoQc89UcxvADYQY2u) | [We Did](https://open.spotify.com/album/4T5T6Py0YU61WOtWOuhRwg) | 3:03 |
 | 129 | [Tequila Talkin'](https://open.spotify.com/track/2fr7A7d2eg1j2NcteyXz9B) | [Jimmie Allen](https://open.spotify.com/artist/147nKr9upHZSSxqCzh9j7c), [Lindsay Ell](https://open.spotify.com/artist/4lpA7MWpQpY7hKkwfLxw2Q), [teamwork.](https://open.spotify.com/artist/6YbvyuBTs8JbVj7iyurrJe) | [Bettie James Gold Edition](https://open.spotify.com/album/3IqbCcRHR6MWLONfEsa34O) | 3:18 |
 | 130 | [EASY TONIGHT](https://open.spotify.com/track/6v9ZG6Mqt0ORN4N9jN1Nh0) | [Niko Moon](https://open.spotify.com/artist/6Rw7DRa1dzChBvxGPCpOxU) | [EASY TONIGHT](https://open.spotify.com/album/4VANWG21U2nsR2f2b1CLJr) | 2:55 |
-| 131 | [Summer's ours](https://open.spotify.com/track/4109FkjojNYdiMYoNealX8) | [Nic D](https://open.spotify.com/artist/1XlLhtgJjC4ROQZilBZAvw), [Nate Good](https://open.spotify.com/artist/2OPyK48uFk5aZ8GKWa5FPl) | [Summer's ours](https://open.spotify.com/album/2lenfSHET9LTAjmKgCbhWP) | 2:55 |
+| 131 | [Summer's ours](https://open.spotify.com/track/0sAYagHcwzRJYRcpI63T15) | [Nic D](https://open.spotify.com/artist/1XlLhtgJjC4ROQZilBZAvw), [Nate Good](https://open.spotify.com/artist/2OPyK48uFk5aZ8GKWa5FPl) | [Summer's ours](https://open.spotify.com/album/2TwlpEvZCPiWzD68BTuSv7) | 2:55 |
 | 132 | [FU\-150](https://open.spotify.com/track/0Nb7pW1koAiWGfCMVD23oT) | [Tanner Adell](https://open.spotify.com/artist/5xKVALj2MSqOHmQhburCM8) | [FU\-150.](https://open.spotify.com/album/7D0ZMLCytmMnz3P1zQeZuU) | 2:53 |
 | 133 | [Country Club](https://open.spotify.com/track/7AEw4J42zlyufYBfi64YgP) | [Reyna Roberts](https://open.spotify.com/artist/4jpqm8g4We93Uk6M9M4FDh) | [Country Club](https://open.spotify.com/album/1SPUlFiGVdkObmhRJ8sjkS) | 2:20 |
 | 134 | [goodbye looks good on you \(feat\. Mitchell Tenpenny\)](https://open.spotify.com/track/2otAb5kIGdZzJCqcUHNztT) | [Alana Springsteen](https://open.spotify.com/artist/4TPT9nwjRvEV49q7f8p4fy), [Mitchell Tenpenny](https://open.spotify.com/artist/1p6CdzJRoicjRcSdWoB9Qc) | [TWENTY SOMETHING](https://open.spotify.com/album/47YHgGmxtAPS3fDmPPX1GG) | 2:51 |
@@ -153,4 +153,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5mB2C8gBeUM.md) - [plain]
 | 143 | [Can't Stop Us Now](https://open.spotify.com/track/6SOuxyJH5glKeDSFUJJ5tX) | [Pitbull](https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg), [Zac Brown](https://open.spotify.com/artist/6tKJaNOY6oNVWcegnMMEtt) | [Can't Stop Us Now](https://open.spotify.com/album/5JfBw2iMK7qJpkj2gRh7Gf) | 3:22 |
 | 144 | [Raised Right](https://open.spotify.com/track/2TPhxHTLZA7Rncf2NZFQho) | [Reyna Roberts](https://open.spotify.com/artist/4jpqm8g4We93Uk6M9M4FDh) | [Raised Right](https://open.spotify.com/album/46DaRD6UeqBpfhlULp0Zdy) | 3:11 |
 
-Snapshot ID: `MCw3NjM5Y2RmYmZlN2I2MjdhZGZhZjhlODcyNjE1OTBhNjg2YTI3MjRj`
+Snapshot ID: `MCxiOWU1Yzk1ODE5YzUwOGQxMjE0MGY2ZjA0OWM2YWQwMjZiNGYxZWY2`

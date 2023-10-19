@@ -2,9 +2,9 @@
 
 ### [ディズニー・ヒッツ・ジャパン](https://open.spotify.com/playlist/37i9dQZF1DX1lolQkPIs5s)
 
-> ディズニーの人気曲を集めた公式プレイリスト♪『リトル・マーメイド』『ミラベルと魔法だらけの家』『モアナと伝説の海』『アナと雪の女王』『塔の上のラプンツェル』のおなじみの曲から隠れた名曲までセレクト！
+> ディズニーの人気曲を集めた公式プレイリスト♪ディズニー映画最新作『ウィッシュ』の最新楽曲から、『リトル・マーメイド』『アナと雪の女王』『アラジン』等の名曲、パークの大人気楽曲までセレクト！
 
-153 songs - 8 hr 14 min
+154 songs - 8 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -131,6 +131,7 @@
 | [The Mad Tea Party / The Unbirthday Song / Twinkle Twinkle / Clean Cup Move Down / Mad Watch](https://open.spotify.com/track/0uDuqVAWCOYEH4qM3vWe1g) | [Kathryn Beaumont](https://open.spotify.com/artist/762gpacQ6WcT75zlkrc3Ls), [Edwynn](https://open.spotify.com/artist/3XX7VQJvnPuFrCSaHgexf5), [James Macdonald](https://open.spotify.com/artist/6Wr4qA7iyTKRag1Pyyuv2g), [Jerry Colonna](https://open.spotify.com/artist/4Rg7sNSGzUzaP1qkc5qVhc) | [Alice In Wonderland \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1Sfipn1VH7Q0ZSPfXz7oOx) | 4:31 | 2023-07-14 |  |
 | [The World Es Mi Familia \- Japanese Version](https://open.spotify.com/track/6uQQ3EUc2PYVlRBIHSCxDg) | [Hiiro Ishibashi](https://open.spotify.com/artist/7FzvUJLnge2wRXwX81WIhN), [Miguel](https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK), [Satoshi Hashimoto](https://open.spotify.com/artist/6QTnKGyxStQwm9QvF7GgBN), [Ernesto De La Cruz](https://open.spotify.com/artist/3qsnxXN0muWCGxoD3bont2) | [Coco \(Original Motion Picture Soundtrack/Deluxe Edition\)](https://open.spotify.com/album/3j5JEm3SBNSwUmg6CsPZcJ) | 0:50 | 2022-12-28 |  |
 | [Think of Mickey Mouse](https://open.spotify.com/track/5jC1oRgGWIWjhX3uAg7rzc) | [Goofy](https://open.spotify.com/artist/3CcmFRXYSCdT25TOMlVe64), [Minnie Mouse](https://open.spotify.com/artist/0UOuBqKAookZ3EopZFlNL7), [Daisy Duck](https://open.spotify.com/artist/3VR3ZcAA45yBP6dWY145bB), [Donald Duck](https://open.spotify.com/artist/7KksEpdok2fNHMXn9O24lU) | [The MousePack – Mickey and Friends Singing Classic Standards](https://open.spotify.com/album/7gPVGHm0w6sQWtCIAOmDgw) | 2:59 | 2022-12-28 |  |
+| [This Wish \- From "Wish"](https://open.spotify.com/track/5yvHjO06WHe7ETlgirLjbw) | [Ariana DeBose](https://open.spotify.com/artist/1Np9GsrPO7dlczjvdehBxs), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [This Wish \(From "Wish"\)](https://open.spotify.com/album/123gDnj9pBl8GNRLyOViC9) | 3:25 | 2023-10-19 |  |
 | [True Love's Kiss \- Japanese Version](https://open.spotify.com/track/2bgG6ty4aQPvYkEI1ss6G2) | [MC Kids](https://open.spotify.com/artist/6qZx6jUsXqawxvqDYcBBU8), [Music Creation](https://open.spotify.com/artist/26KfNrVfEweHZlOwHzKGq2), [Satoko Kimura](https://open.spotify.com/artist/0ZdqCr4L1IqAH7Oys3QfpN), [Sohsuke Komori](https://open.spotify.com/artist/6jIkSbDsaa2JdgPVaV448F), [Hiroshi Hatanaka](https://open.spotify.com/artist/2lsQq6qbk4eh3WyteNu529), [Froebel Shonen Gasshoudan](https://open.spotify.com/artist/1nxN9k9fQjgkRi68q3t1yS) | [Enchanted \(Original Motion Picture Soundtrack/Japanese Version\)](https://open.spotify.com/album/0RhNiFVXaeFxFfYXc7kT3n) | 3:12 | 2022-12-28 |  |
 | [Try Everything \- Japan Version](https://open.spotify.com/track/5xxnw2k7QLSwL0mrGV1TaX) | [Dream Ami](https://open.spotify.com/artist/6Oeb6i0acXNe1Q1MqqfkPX) | [Zootopia \(Original Motion Picture Soundtrack / Japanese version\)](https://open.spotify.com/album/0gj5STwLy0dZ0cGFJb8Fht) | 3:17 | 2022-12-28 |  |
 | [Two Oruguitas](https://open.spotify.com/track/1sEaewPCEzD98sy2cdD8eA) | [Naoto Inti Raymi](https://open.spotify.com/artist/77SZmOd2zA3L3n9x697iWb) | [Encanto \(Japanese Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1u7yHbNnxPQDKmB2XwhrqT) | 3:34 | 2022-12-28 |  |

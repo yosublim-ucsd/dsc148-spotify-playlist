@@ -2,9 +2,9 @@
 
 ### [teen beats](https://open.spotify.com/playlist/37i9dQZF1DWWvvyNmW9V9a)
 
-> if this was a movie..\. it is now!
+> Sabby making a late play for your Wrapped \#1 artist
 
-1,059 songs - 2 day 7 hr 35 min
+1,060 songs - 2 day 7 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -227,7 +227,7 @@
 | [Creepin' \(with The Weeknd & 21 Savage\)](https://open.spotify.com/track/7jHi6opPq439ruUlfH90Aw) | [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp), [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [HEROES & VILLAINS](https://open.spotify.com/album/5aQFjsRw6rieK5oDNgGRyB) | 3:41 | 2022-12-09 | 2023-08-19 |
 | [CRIMINAL LOVE](https://open.spotify.com/track/0Eglu3fErlG196PtTwCUPM) | [ENHYPEN](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9) | [CRIMINAL LOVE](https://open.spotify.com/album/6S8BCiVrtzm5TEOnjyyCfJ) | 3:35 | 2023-07-31 | 2023-09-06 |
 | [cross my heart](https://open.spotify.com/track/4yJ1fD1LvIVtTDOu4NyKLU) | [Artemas](https://open.spotify.com/artist/0PCCGZ0wGLizHt2KZ7hhA2) | [cross my heart](https://open.spotify.com/album/1MpZGsYzbDWKLwfJOijcVA) | 2:26 | 2023-09-22 |  |
-| [Cruel Summer](https://open.spotify.com/track/1BxfuPKGuaTgP7aM0Bbdwr) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Lover](https://open.spotify.com/album/1NAmidJlEaVgA3MpcPFYGq) | 2:58 | 2022-06-22 | 2023-10-07 |
+| [Cruel Summer](https://open.spotify.com/track/1BxfuPKGuaTgP7aM0Bbdwr) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Lover](https://open.spotify.com/album/1NAmidJlEaVgA3MpcPFYGq) | 2:58 | 2022-06-22 |  |
 | [Cruise Control](https://open.spotify.com/track/6KHznvkaHF4g5oZDYCBU8c) | [Jenna Raine](https://open.spotify.com/artist/3aHe9rMa5HFTjXHw8tEz0A) | [Big Dumb Heart, Chapter 2](https://open.spotify.com/album/6yy1V5XpYgD9u7s6mDBxxL) | 3:22 | 2023-08-25 | 2023-09-09 |
 | [Crush](https://open.spotify.com/track/00Apys6jYrWA0Bse9Yon6O) | [Bella Poarch](https://open.spotify.com/artist/26cMerAxjx9GedFt0lMDjm), [Lauv](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv) | [Crush](https://open.spotify.com/album/4zhSWdHOuYGS7EoJiY6PaE) | 2:55 | 2023-09-15 |  |
 | [Crushing Me \- From the Paramount+ Series ‘Grease: Rise of the Pink Ladies'](https://open.spotify.com/track/0RNBDMSTGssQIRsWjnANt7) | [Ari Notartomaso](https://open.spotify.com/artist/3kpcOPO2xmHh1ClcFXnd5o), [Tricia Fukuhara](https://open.spotify.com/artist/4SSnp3DgxryeD7ZaBwarod), [The Cast of Grease: Rise of the Pink Ladies](https://open.spotify.com/artist/3bF30kGvclxPV6pFKdRdXQ) | [Grease: Rise of the Pink Ladies \- Episode Eight \(Music from the Paramount+ Original Series\)](https://open.spotify.com/album/4GGOhulPzPt65sczzf87Al) | 1:47 | 2023-05-26 | 2023-06-03 |
@@ -456,7 +456,8 @@
 | [I Have Never Felt More Alive \- from the feature film "Fall"](https://open.spotify.com/track/3Hz0axxTsemGQSNK3BiRa9) | [Madison Beer](https://open.spotify.com/artist/2kRfqPViCqYdSGhYSM9R0Q) | [I Have Never Felt More Alive \(from the feature film "Fall"\)](https://open.spotify.com/album/4CMGvkAxokAjuV68nGzMuA) | 3:20 | 2022-07-22 | 2022-08-02 |
 | [i hope ur miserable until ur dead](https://open.spotify.com/track/4ka1FkKAMde6dQAFFMXKac) | [Nessa Barrett](https://open.spotify.com/artist/7pwufEBGfggjoI8twqlsmQ) | [i hope ur miserable until ur dead](https://open.spotify.com/album/3dv1xXXFHlv3WNSNsSZ93d) | 2:57 | 2021-08-06 | 2022-02-19 |
 | [I Just Called](https://open.spotify.com/track/0H8Tclo4x4kbZruQtZFNSX) | [NEIKED](https://open.spotify.com/artist/5H6xmHXjsq98NLbEjuE29f), [Anne\-Marie](https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX), [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ) | [I Just Called](https://open.spotify.com/album/4Qq3n68D2ktEi0eHFMdpSp) | 2:30 | 2022-05-27 | 2022-06-25 |
-| [I Knew You Were Trouble \(Taylor's Version\)](https://open.spotify.com/track/6AtZLIzUINvExIUy4QhdjP) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Red \(Taylor's Version\)](https://open.spotify.com/album/6kZ42qRrzov54LcAk4onW9) | 3:39 | 2023-10-13 |  |
+| [I Knew You Were Trouble \(Taylor's Version\)](https://open.spotify.com/track/6AtZLIzUINvExIUy4QhdjP) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Red \(Taylor's Version\)](https://open.spotify.com/album/6kZ42qRrzov54LcAk4onW9) | 3:39 | 2023-10-13 | 2023-10-19 |
+| [I Knew You Were Trouble \- Spotify Singles](https://open.spotify.com/track/30QYxvXOJZhGBF6DvpNb8w) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Spotify Singles](https://open.spotify.com/album/2kJnIPJHIRZlfOx0TZEKBP) | 3:53 | 2023-10-18 |  |
 | [I Know](https://open.spotify.com/track/2RkMSIqUdveO3p8KVpYBYI) | [Kanii](https://open.spotify.com/artist/1S82w4yw9TYIHZ889mPPaW) | [I Know](https://open.spotify.com/album/6MxC0Icp2DZi0jbzvD4M8Z) | 2:32 | 2023-03-24 | 2023-04-29 |
 | [I know it won't work](https://open.spotify.com/track/5FGDtm3MXJe8LikBkOJnOQ) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [Good Riddance](https://open.spotify.com/album/5ZCIbfKnv3GF5h5h8MiRzQ) | 4:05 | 2023-02-24 | 2023-06-08 |
 | [I Love My Boyfriend](https://open.spotify.com/track/2IIFeudT6BVFwiwydHK4BM) | [Princess Chelsea](https://open.spotify.com/artist/6SrA4711bML5NvPO13Tr6t) | [The Loneliest Girl](https://open.spotify.com/album/37waqzLFCA6XQtWlODc1Zq) | 4:06 | 2022-03-25 | 2022-04-07 |

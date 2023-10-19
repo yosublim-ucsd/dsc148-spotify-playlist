@@ -1,12 +1,12 @@
 {
   "description": "M\u00fasica brasileira e as cores de um p\u00f4r do sol para completar o seu dia.",
-  "num_followers": 79246,
+  "num_followers": 79342,
   "original_name": "P\u00f4r do sol na areia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkMDFmNmNlYWVkNzY0ZGRiNzAzNzExNThkMTczNTAxODY3MDFiZjE0",
+  "snapshot_id": "MCwxMDQ2ODIxNDJiMzFlNWNmOGZmYzE1ZmYyOWMzMDJiMzk2NGJhOWJi",
   "tracks": [
     {
       "added_at": "2023-10-06 06:50:30",
@@ -639,22 +639,6 @@
     {
       "added_at": "2023-10-06 06:50:30",
       "album": {
-        "name": "raiz",
-        "url": "https://open.spotify.com/album/0YetCaCRXkQxlnVAhWBJA5"
-      },
-      "artists": [
-        {
-          "name": "Fran",
-          "url": "https://open.spotify.com/artist/1vrYVHeXLynVOgRmAxzHq1"
-        }
-      ],
-      "duration_ms": 164705,
-      "name": "cora\u00e7\u00e3o tambor",
-      "url": "https://open.spotify.com/track/1udnY2gnCBJQ3ZYOkRrPCi"
-    },
-    {
-      "added_at": "2023-10-06 06:50:30",
-      "album": {
         "name": "Aroeira",
         "url": "https://open.spotify.com/album/2UgKurYZr5NjpgWfmWKyMb"
       },
@@ -671,6 +655,22 @@
       "duration_ms": 173354,
       "name": "Aroeira",
       "url": "https://open.spotify.com/track/0s7VE3dMS68jvco0GNNR5s"
+    },
+    {
+      "added_at": "2023-10-06 06:50:30",
+      "album": {
+        "name": "raiz",
+        "url": "https://open.spotify.com/album/0YetCaCRXkQxlnVAhWBJA5"
+      },
+      "artists": [
+        {
+          "name": "Fran",
+          "url": "https://open.spotify.com/artist/1vrYVHeXLynVOgRmAxzHq1"
+        }
+      ],
+      "duration_ms": 164705,
+      "name": "cora\u00e7\u00e3o tambor",
+      "url": "https://open.spotify.com/track/1udnY2gnCBJQ3ZYOkRrPCi"
     },
     {
       "added_at": "2023-10-06 06:50:30",
@@ -963,26 +963,6 @@
     {
       "added_at": "2023-10-06 06:50:30",
       "album": {
-        "name": "Lua Nova",
-        "url": "https://open.spotify.com/album/14AZf0JZKJgmls9y59eA2c"
-      },
-      "artists": [
-        {
-          "name": "PH Moraes",
-          "url": "https://open.spotify.com/artist/71p4sNYcu8jEUqJ69tfrVU"
-        },
-        {
-          "name": "Marina Peralta",
-          "url": "https://open.spotify.com/artist/5zL3IWBA5pdMvLUmj0Dq2O"
-        }
-      ],
-      "duration_ms": 161250,
-      "name": "Lua Nova",
-      "url": "https://open.spotify.com/track/5uZDrsNXW8qUuP9pli1CO3"
-    },
-    {
-      "added_at": "2023-10-06 06:50:30",
-      "album": {
         "name": "Dan\u00e7a",
         "url": "https://open.spotify.com/album/2RvxIv1XPBok8GsPBPgtSk"
       },
@@ -1003,18 +983,22 @@
     {
       "added_at": "2023-10-06 06:50:30",
       "album": {
-        "name": "Sorriso De Agog\u00f4",
-        "url": "https://open.spotify.com/album/7p22uztBa6bw19hV7Jcqz9"
+        "name": "Lua Nova",
+        "url": "https://open.spotify.com/album/14AZf0JZKJgmls9y59eA2c"
       },
       "artists": [
         {
-          "name": "Silva",
-          "url": "https://open.spotify.com/artist/50sftj2oW2iBviA6RkTzsz"
+          "name": "PH Moraes",
+          "url": "https://open.spotify.com/artist/71p4sNYcu8jEUqJ69tfrVU"
+        },
+        {
+          "name": "Marina Peralta",
+          "url": "https://open.spotify.com/artist/5zL3IWBA5pdMvLUmj0Dq2O"
         }
       ],
-      "duration_ms": 196146,
-      "name": "Sorriso De Agog\u00f4",
-      "url": "https://open.spotify.com/track/5GjXV8tRa3E75x2yT7hyHO"
+      "duration_ms": 161250,
+      "name": "Lua Nova",
+      "url": "https://open.spotify.com/track/5uZDrsNXW8qUuP9pli1CO3"
     },
     {
       "added_at": "2023-10-06 06:50:30",
@@ -1031,6 +1015,22 @@
       "duration_ms": 189882,
       "name": "Mais Perto",
       "url": "https://open.spotify.com/track/2CgP6wLHomU7h1sMGCXIBC"
+    },
+    {
+      "added_at": "2023-10-06 06:50:30",
+      "album": {
+        "name": "Sorriso De Agog\u00f4",
+        "url": "https://open.spotify.com/album/7p22uztBa6bw19hV7Jcqz9"
+      },
+      "artists": [
+        {
+          "name": "Silva",
+          "url": "https://open.spotify.com/artist/50sftj2oW2iBviA6RkTzsz"
+        }
+      ],
+      "duration_ms": 196146,
+      "name": "Sorriso De Agog\u00f4",
+      "url": "https://open.spotify.com/track/5GjXV8tRa3E75x2yT7hyHO"
     },
     {
       "added_at": "2023-10-06 06:50:30",

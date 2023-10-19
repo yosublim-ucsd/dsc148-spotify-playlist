@@ -1,12 +1,12 @@
 {
   "description": "Tap it back or go for a spin with these uptempo tracks!",
-  "num_followers": 2506118,
+  "num_followers": 2506621,
   "original_name": "Power Hour",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3N2NiZWJmMjYxMWZmZjQzMjRhZTEyYWQyOTM0MTU2YWFjNzZlNDY5",
+  "snapshot_id": "MCw5ZTQzOWY2MTU0N2Q2NTU1ZWJkZDBiMjJhOTBjYmEyMzYxNDZkNjBk",
   "tracks": [
     {
       "added_at": "2023-10-06 04:00:00",
@@ -575,26 +575,6 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
-        "name": "Move Your Body",
-        "url": "https://open.spotify.com/album/4l9wMVL4XAM5jPMXP5RAbL"
-      },
-      "artists": [
-        {
-          "name": "\u00d6wnboss",
-          "url": "https://open.spotify.com/artist/37czgDRfGMvgRiUKHvnnhj"
-        },
-        {
-          "name": "Sevek",
-          "url": "https://open.spotify.com/artist/0aOIluXr131XqrXFwFCFGT"
-        }
-      ],
-      "duration_ms": 157444,
-      "name": "Move Your Body",
-      "url": "https://open.spotify.com/track/6GomT970rCOkKAyyrwJeZi"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
         "name": "Paradise Again",
         "url": "https://open.spotify.com/album/2Dbe9L757CSQbhnbW5PVSH"
       },
@@ -611,6 +591,26 @@
       "duration_ms": 214071,
       "name": "Heaven Takes You Home (feat. Connie Constance)",
       "url": "https://open.spotify.com/track/3nEHrvNNtgLv9rneTAYVr4"
+    },
+    {
+      "added_at": "2023-10-06 04:00:00",
+      "album": {
+        "name": "Move Your Body",
+        "url": "https://open.spotify.com/album/4l9wMVL4XAM5jPMXP5RAbL"
+      },
+      "artists": [
+        {
+          "name": "\u00d6wnboss",
+          "url": "https://open.spotify.com/artist/37czgDRfGMvgRiUKHvnnhj"
+        },
+        {
+          "name": "Sevek",
+          "url": "https://open.spotify.com/artist/0aOIluXr131XqrXFwFCFGT"
+        }
+      ],
+      "duration_ms": 157444,
+      "name": "Move Your Body",
+      "url": "https://open.spotify.com/track/6GomT970rCOkKAyyrwJeZi"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -835,22 +835,6 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
-        "name": "DRIVE",
-        "url": "https://open.spotify.com/album/1Pl9ZGXwayXPg5qRVpYo74"
-      },
-      "artists": [
-        {
-          "name": "Ti\u00ebsto",
-          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
-        }
-      ],
-      "duration_ms": 134880,
-      "name": "All Nighter",
-      "url": "https://open.spotify.com/track/3jksOdXCaDXyGiZ7L4YZbp"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
         "name": "Bittersweet Goodbye",
         "url": "https://open.spotify.com/album/2n81J4HlMoEImWaC6OLeZh"
       },
@@ -863,6 +847,22 @@
       "duration_ms": 166778,
       "name": "Bittersweet Goodbye",
       "url": "https://open.spotify.com/track/5RHIevCuoIZcY1AlnJ01fN"
+    },
+    {
+      "added_at": "2023-10-06 04:00:00",
+      "album": {
+        "name": "DRIVE",
+        "url": "https://open.spotify.com/album/1Pl9ZGXwayXPg5qRVpYo74"
+      },
+      "artists": [
+        {
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+        }
+      ],
+      "duration_ms": 134880,
+      "name": "All Nighter",
+      "url": "https://open.spotify.com/track/3jksOdXCaDXyGiZ7L4YZbp"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -1011,6 +1011,42 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
+        "name": "Something To Give Each Other",
+        "url": "https://open.spotify.com/album/5UcGyEltve5psjxSRsHx8E"
+      },
+      "artists": [
+        {
+          "name": "Troye Sivan",
+          "url": "https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP"
+        }
+      ],
+      "duration_ms": 156391,
+      "name": "Rush",
+      "url": "https://open.spotify.com/track/4ZnkygoWLzcGbQYCm3lkae"
+    },
+    {
+      "added_at": "2023-10-06 04:00:00",
+      "album": {
+        "name": "Alone In A Crowd",
+        "url": "https://open.spotify.com/album/0x6KKhlAIZsuU6SVgSX9E9"
+      },
+      "artists": [
+        {
+          "name": "Oliver Tree",
+          "url": "https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe"
+        },
+        {
+          "name": "Robin Schulz",
+          "url": "https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S"
+        }
+      ],
+      "duration_ms": 206000,
+      "name": "Miss You - Bonus Track",
+      "url": "https://open.spotify.com/track/1ypwNj8eK2qAMDEs4EiIIX"
+    },
+    {
+      "added_at": "2023-10-06 04:00:00",
+      "album": {
         "name": "Beggin'",
         "url": "https://open.spotify.com/album/4PCf8xkYY6ZlrQh48AQP1V"
       },
@@ -1067,30 +1103,6 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
-        "name": "Ghost Town",
-        "url": "https://open.spotify.com/album/29xmDbpP6xSw3Bs1d6YPHa"
-      },
-      "artists": [
-        {
-          "name": "VIZE",
-          "url": "https://open.spotify.com/artist/09agIJMxCD2k87ys9Al0f0"
-        },
-        {
-          "name": "Joris Sava",
-          "url": "https://open.spotify.com/artist/7M7NxBEoOEg35yqUyLRTgT"
-        },
-        {
-          "name": "July",
-          "url": "https://open.spotify.com/artist/2lQUT7KTSpuj9z8PdtMdtz"
-        }
-      ],
-      "duration_ms": 162857,
-      "name": "Ghost Town",
-      "url": "https://open.spotify.com/track/6h6HgJ66laDl6bY8W59Jdn"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
         "name": "Clouds",
         "url": "https://open.spotify.com/album/2ArRQNLxf9t0O0gvmG5Vsj"
       },
@@ -1111,22 +1123,26 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
-        "name": "Alone In A Crowd",
-        "url": "https://open.spotify.com/album/0x6KKhlAIZsuU6SVgSX9E9"
+        "name": "Ghost Town",
+        "url": "https://open.spotify.com/album/29xmDbpP6xSw3Bs1d6YPHa"
       },
       "artists": [
         {
-          "name": "Oliver Tree",
-          "url": "https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe"
+          "name": "VIZE",
+          "url": "https://open.spotify.com/artist/09agIJMxCD2k87ys9Al0f0"
         },
         {
-          "name": "Robin Schulz",
-          "url": "https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S"
+          "name": "Joris Sava",
+          "url": "https://open.spotify.com/artist/7M7NxBEoOEg35yqUyLRTgT"
+        },
+        {
+          "name": "July",
+          "url": "https://open.spotify.com/artist/2lQUT7KTSpuj9z8PdtMdtz"
         }
       ],
-      "duration_ms": 206000,
-      "name": "Miss You - Bonus Track",
-      "url": "https://open.spotify.com/track/1ypwNj8eK2qAMDEs4EiIIX"
+      "duration_ms": 162857,
+      "name": "Ghost Town",
+      "url": "https://open.spotify.com/track/6h6HgJ66laDl6bY8W59Jdn"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -1171,6 +1187,22 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
+        "name": "Heute Nacht",
+        "url": "https://open.spotify.com/album/3hUV4shxjzrCGFtJgBOF82"
+      },
+      "artists": [
+        {
+          "name": "Maddix",
+          "url": "https://open.spotify.com/artist/0RMeG9M8QFzss9bAbq99KA"
+        }
+      ],
+      "duration_ms": 204444,
+      "name": "Heute Nacht",
+      "url": "https://open.spotify.com/track/1eMUGMEWrvTXYWrPobq2dH"
+    },
+    {
+      "added_at": "2023-10-06 04:00:00",
+      "album": {
         "name": "Praising You (feat. Fatboy Slim)",
         "url": "https://open.spotify.com/album/2FJeCuU3JcO6EQWsjAGIdu"
       },
@@ -1187,22 +1219,6 @@
       "duration_ms": 164693,
       "name": "Praising You (feat. Fatboy Slim)",
       "url": "https://open.spotify.com/track/6jSvgAwRVrJIP0VYz5L2J8"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
-        "name": "Heute Nacht",
-        "url": "https://open.spotify.com/album/3hUV4shxjzrCGFtJgBOF82"
-      },
-      "artists": [
-        {
-          "name": "Maddix",
-          "url": "https://open.spotify.com/artist/0RMeG9M8QFzss9bAbq99KA"
-        }
-      ],
-      "duration_ms": 204444,
-      "name": "Heute Nacht",
-      "url": "https://open.spotify.com/track/1eMUGMEWrvTXYWrPobq2dH"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -1315,22 +1331,6 @@
       "duration_ms": 149565,
       "name": "Bad Memories - Felix Jaehn Remix",
       "url": "https://open.spotify.com/track/04R4oiYD4NU6ZkdwlaJSep"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
-        "name": "Something To Give Each Other",
-        "url": "https://open.spotify.com/album/5UcGyEltve5psjxSRsHx8E"
-      },
-      "artists": [
-        {
-          "name": "Troye Sivan",
-          "url": "https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP"
-        }
-      ],
-      "duration_ms": 156391,
-      "name": "Rush",
-      "url": "https://open.spotify.com/track/4ZnkygoWLzcGbQYCm3lkae"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -1451,26 +1451,6 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
-        "name": "Upside Down (feat. Poppy Baskcomb)",
-        "url": "https://open.spotify.com/album/2FmCevNKGGSYOa9uCuXydm"
-      },
-      "artists": [
-        {
-          "name": "MEDUZA",
-          "url": "https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu"
-        },
-        {
-          "name": "Poppy Baskcomb",
-          "url": "https://open.spotify.com/artist/4STmXOXUF3UieHU46NWLVt"
-        }
-      ],
-      "duration_ms": 174374,
-      "name": "Upside Down (feat. Poppy Baskcomb)",
-      "url": "https://open.spotify.com/track/2UDycsru4dEa1UFmyIvKYU"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
         "name": "Past Life",
         "url": "https://open.spotify.com/album/0vJYeZ82yiEUvuGBDMoqwL"
       },
@@ -1487,6 +1467,26 @@
       "duration_ms": 196821,
       "name": "Past Life",
       "url": "https://open.spotify.com/track/4yc0wKwKXGkx9Vqc42MIFy"
+    },
+    {
+      "added_at": "2023-10-06 04:00:00",
+      "album": {
+        "name": "Upside Down (feat. Poppy Baskcomb)",
+        "url": "https://open.spotify.com/album/2FmCevNKGGSYOa9uCuXydm"
+      },
+      "artists": [
+        {
+          "name": "MEDUZA",
+          "url": "https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu"
+        },
+        {
+          "name": "Poppy Baskcomb",
+          "url": "https://open.spotify.com/artist/4STmXOXUF3UieHU46NWLVt"
+        }
+      ],
+      "duration_ms": 174374,
+      "name": "Upside Down (feat. Poppy Baskcomb)",
+      "url": "https://open.spotify.com/track/2UDycsru4dEa1UFmyIvKYU"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -1775,62 +1775,6 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
-        "name": "Wings (I Won't Let You Down)",
-        "url": "https://open.spotify.com/album/5pPckXGvpwvr78wj5EPLZS"
-      },
-      "artists": [
-        {
-          "name": "Armand Van Helden",
-          "url": "https://open.spotify.com/artist/3cQA9WH8liZfeja1DxcDYE"
-        },
-        {
-          "name": "Karen Harding",
-          "url": "https://open.spotify.com/artist/1QOHbhVRpDoNtRkz79si6b"
-        }
-      ],
-      "duration_ms": 171904,
-      "name": "Wings (I Won't Let You Down)",
-      "url": "https://open.spotify.com/track/0QZyAYqpbsfnBfZ4vMRSVd"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
-        "name": "Call Your Name",
-        "url": "https://open.spotify.com/album/3uq11p3soNrPDKFOUFwebO"
-      },
-      "artists": [
-        {
-          "name": "Alesso",
-          "url": "https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t"
-        },
-        {
-          "name": "John Newman",
-          "url": "https://open.spotify.com/artist/34v5MVKeQnIo0CWYMbbrPf"
-        }
-      ],
-      "duration_ms": 170976,
-      "name": "Call Your Name",
-      "url": "https://open.spotify.com/track/7FyqTJJ8bdFVpNMoMNQbXA"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
-        "name": "Set Me Free",
-        "url": "https://open.spotify.com/album/2SR6UldibmBVT6te65lEuI"
-      },
-      "artists": [
-        {
-          "name": "D.O.D",
-          "url": "https://open.spotify.com/artist/0Cs47vvRsPgEfliBU9KDiB"
-        }
-      ],
-      "duration_ms": 180638,
-      "name": "Set Me Free",
-      "url": "https://open.spotify.com/track/5zA3gMIFlgnhNQj39GcTqE"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
         "name": "Aria",
         "url": "https://open.spotify.com/album/1Oi3PgQhL4WOKe1aoPCpqe"
       },
@@ -1851,6 +1795,26 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
+        "name": "Wings (I Won't Let You Down)",
+        "url": "https://open.spotify.com/album/5pPckXGvpwvr78wj5EPLZS"
+      },
+      "artists": [
+        {
+          "name": "Armand Van Helden",
+          "url": "https://open.spotify.com/artist/3cQA9WH8liZfeja1DxcDYE"
+        },
+        {
+          "name": "Karen Harding",
+          "url": "https://open.spotify.com/artist/1QOHbhVRpDoNtRkz79si6b"
+        }
+      ],
+      "duration_ms": 171904,
+      "name": "Wings (I Won't Let You Down)",
+      "url": "https://open.spotify.com/track/0QZyAYqpbsfnBfZ4vMRSVd"
+    },
+    {
+      "added_at": "2023-10-06 04:00:00",
+      "album": {
         "name": "Hey DJ",
         "url": "https://open.spotify.com/album/0HNme2CFQWHNAR1IIiwuZi"
       },
@@ -1863,6 +1827,42 @@
       "duration_ms": 157001,
       "name": "Hey DJ",
       "url": "https://open.spotify.com/track/35TuvgQOcLcZmGlZZ3cAGq"
+    },
+    {
+      "added_at": "2023-10-06 04:00:00",
+      "album": {
+        "name": "Set Me Free",
+        "url": "https://open.spotify.com/album/2SR6UldibmBVT6te65lEuI"
+      },
+      "artists": [
+        {
+          "name": "D.O.D",
+          "url": "https://open.spotify.com/artist/0Cs47vvRsPgEfliBU9KDiB"
+        }
+      ],
+      "duration_ms": 180638,
+      "name": "Set Me Free",
+      "url": "https://open.spotify.com/track/5zA3gMIFlgnhNQj39GcTqE"
+    },
+    {
+      "added_at": "2023-10-06 04:00:00",
+      "album": {
+        "name": "Call Your Name",
+        "url": "https://open.spotify.com/album/3uq11p3soNrPDKFOUFwebO"
+      },
+      "artists": [
+        {
+          "name": "Alesso",
+          "url": "https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t"
+        },
+        {
+          "name": "John Newman",
+          "url": "https://open.spotify.com/artist/34v5MVKeQnIo0CWYMbbrPf"
+        }
+      ],
+      "duration_ms": 170976,
+      "name": "Call Your Name",
+      "url": "https://open.spotify.com/track/7FyqTJJ8bdFVpNMoMNQbXA"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -1907,6 +1907,22 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
+        "name": "Lollipop",
+        "url": "https://open.spotify.com/album/482d91SbKIqijUyqTGQYZl"
+      },
+      "artists": [
+        {
+          "name": "FOVOS",
+          "url": "https://open.spotify.com/artist/1ccmwHm4DPRPR12TZVWdu8"
+        }
+      ],
+      "duration_ms": 144000,
+      "name": "Lollipop",
+      "url": "https://open.spotify.com/track/0iG3esqSDh6QJdN1zrAgyo"
+    },
+    {
+      "added_at": "2023-10-06 04:00:00",
+      "album": {
         "name": "Transmission (Joris Voorn Remix)",
         "url": "https://open.spotify.com/album/0140Vqwx9gWCGWQKTsQ8Cx"
       },
@@ -1947,18 +1963,18 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
-        "name": "Lollipop",
-        "url": "https://open.spotify.com/album/482d91SbKIqijUyqTGQYZl"
+        "name": "Wrong or Right (The Riddle)",
+        "url": "https://open.spotify.com/album/7f9y6wyXMLW9NfHHkMtccm"
       },
       "artists": [
         {
-          "name": "FOVOS",
-          "url": "https://open.spotify.com/artist/1ccmwHm4DPRPR12TZVWdu8"
+          "name": "Bassjackers",
+          "url": "https://open.spotify.com/artist/6xQvQwZQQuq9R3TdPNbcR8"
         }
       ],
-      "duration_ms": 144000,
-      "name": "Lollipop",
-      "url": "https://open.spotify.com/track/0iG3esqSDh6QJdN1zrAgyo"
+      "duration_ms": 154620,
+      "name": "Wrong or Right (The Riddle)",
+      "url": "https://open.spotify.com/track/78VSoe3vn4gR4pYSTBiAXA"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -1987,22 +2003,6 @@
       "duration_ms": 156985,
       "name": "Thunder",
       "url": "https://open.spotify.com/track/6Hht0SIzJwQYBkDD07Dnoj"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
-        "name": "Wrong or Right (The Riddle)",
-        "url": "https://open.spotify.com/album/7f9y6wyXMLW9NfHHkMtccm"
-      },
-      "artists": [
-        {
-          "name": "Bassjackers",
-          "url": "https://open.spotify.com/artist/6xQvQwZQQuq9R3TdPNbcR8"
-        }
-      ],
-      "duration_ms": 154620,
-      "name": "Wrong or Right (The Riddle)",
-      "url": "https://open.spotify.com/track/78VSoe3vn4gR4pYSTBiAXA"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -2159,26 +2159,6 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
-        "name": "Fade Out (with MKLA)",
-        "url": "https://open.spotify.com/album/5TEJE30uV9JsEqO5oJGRtE"
-      },
-      "artists": [
-        {
-          "name": "John Summit",
-          "url": "https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205"
-        },
-        {
-          "name": "MKLA",
-          "url": "https://open.spotify.com/artist/57Vnemieu10x71jR2UWc4o"
-        }
-      ],
-      "duration_ms": 230909,
-      "name": "Fade Out (with MKLA)",
-      "url": "https://open.spotify.com/track/6gs5VDiNpbBfXHsAj2c9SB"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
         "name": "Sparks",
         "url": "https://open.spotify.com/album/5OkPS4db29TTA4FAMnbTly"
       },
@@ -2199,6 +2179,26 @@
       "duration_ms": 170322,
       "name": "Sparks",
       "url": "https://open.spotify.com/track/0SG7XH1L4gMwcXkLuMjDgq"
+    },
+    {
+      "added_at": "2023-10-06 04:00:00",
+      "album": {
+        "name": "Fade Out (with MKLA)",
+        "url": "https://open.spotify.com/album/5TEJE30uV9JsEqO5oJGRtE"
+      },
+      "artists": [
+        {
+          "name": "John Summit",
+          "url": "https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205"
+        },
+        {
+          "name": "MKLA",
+          "url": "https://open.spotify.com/artist/57Vnemieu10x71jR2UWc4o"
+        }
+      ],
+      "duration_ms": 230909,
+      "name": "Fade Out (with MKLA)",
+      "url": "https://open.spotify.com/track/6gs5VDiNpbBfXHsAj2c9SB"
     },
     {
       "added_at": "2023-10-06 04:00:00",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX17ZoHNcnTgi.md) - [plain]
 
 > Una unión que no sabrás olvidar\. Escucha la Fusión entre José Alfredo y Silvana Estrada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,549 likes - 50 songs - 2 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,601 likes - 50 songs - 2 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX17ZoHNcnTgi.md) - [plain]
 | 49 | [Aquellos ojos verdes](https://open.spotify.com/track/0ZZMqV6o9wgDyrrnsMwKUm) | [Bola De Nieve](https://open.spotify.com/artist/1pmg82OsemYIXnWLWxEmiZ) | [La flor de la canela](https://open.spotify.com/album/40feN08wkMH0KNZZoCpT36) | 3:09 |
 | 50 | [En nosotros](https://open.spotify.com/track/0ltvkhMeu0NFLJqbmOBtWs) | [Bola De Nieve](https://open.spotify.com/artist/1pmg82OsemYIXnWLWxEmiZ) | [La flor de la canela](https://open.spotify.com/album/40feN08wkMH0KNZZoCpT36) | 2:38 |
 
-Snapshot ID: `MCxlNTM5MDQ2ZjI0MzZjODlhYzNmY2YzNzVhOTE0MGU5ODc3NTBmOTdm`
+Snapshot ID: `MCxjOWUyMjFkNmIyYzgxZDY4MDRiZmU5YjkwNzEzZjBiMjgyYzMzZmVj`

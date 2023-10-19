@@ -1,12 +1,12 @@
 {
   "description": "we hear you.",
-  "num_followers": 1166903,
+  "num_followers": 1167205,
   "original_name": "idk.",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmZGNmYjczNGUyMGYzOWQyMmE1ZTRkZDlmODBlY2MwMDFmNjYwZjU4",
+  "snapshot_id": "MCw2NDNkOTcwMmQ1ZDJmNmU2ZTEzY2JlN2M0YjNjNDlhODQ1YTJlYWVh",
   "tracks": [
     {
       "added_at": "2023-09-29 20:20:52",
@@ -171,22 +171,6 @@
     {
       "added_at": "2023-09-29 20:20:52",
       "album": {
-        "name": "Trauma",
-        "url": "https://open.spotify.com/album/2wYh1adQn0CaWPlJMHFo56"
-      },
-      "artists": [
-        {
-          "name": "BoyWithUke",
-          "url": "https://open.spotify.com/artist/1Cd373x8qzC7SNUg5IToqp"
-        }
-      ],
-      "duration_ms": 163253,
-      "name": "Trauma",
-      "url": "https://open.spotify.com/track/48JqgW96LVIcrE4umJweWw"
-    },
-    {
-      "added_at": "2023-09-29 20:20:52",
-      "album": {
         "name": "All Is Well",
         "url": "https://open.spotify.com/album/7IAZgH8L6M6sOVx3I0FPWo"
       },
@@ -199,6 +183,22 @@
       "duration_ms": 150967,
       "name": "All Is Well",
       "url": "https://open.spotify.com/track/1wDSBJSCKxB8qZR6jnfqgt"
+    },
+    {
+      "added_at": "2023-09-29 20:20:52",
+      "album": {
+        "name": "Trauma",
+        "url": "https://open.spotify.com/album/2wYh1adQn0CaWPlJMHFo56"
+      },
+      "artists": [
+        {
+          "name": "BoyWithUke",
+          "url": "https://open.spotify.com/artist/1Cd373x8qzC7SNUg5IToqp"
+        }
+      ],
+      "duration_ms": 163253,
+      "name": "Trauma",
+      "url": "https://open.spotify.com/track/48JqgW96LVIcrE4umJweWw"
     },
     {
       "added_at": "2023-09-29 20:20:52",
@@ -459,22 +459,6 @@
     {
       "added_at": "2023-09-29 20:20:52",
       "album": {
-        "name": "No Surprises",
-        "url": "https://open.spotify.com/album/4Ff20g63ORgfY7NBeiv86V"
-      },
-      "artists": [
-        {
-          "name": "Juliana Chahayed",
-          "url": "https://open.spotify.com/artist/2qvGuhgaubJ02pfiKcJAdR"
-        }
-      ],
-      "duration_ms": 120961,
-      "name": "No Surprises",
-      "url": "https://open.spotify.com/track/62aaJpv0hPmj7HMc21zKwW"
-    },
-    {
-      "added_at": "2023-09-29 20:20:52",
-      "album": {
         "name": "homies",
         "url": "https://open.spotify.com/album/7by5M1CXms39FAGvXTlB9X"
       },
@@ -491,6 +475,22 @@
       "duration_ms": 225068,
       "name": "homies",
       "url": "https://open.spotify.com/track/3ocupZmiN2ZqQjTVntVtLv"
+    },
+    {
+      "added_at": "2023-09-29 20:20:52",
+      "album": {
+        "name": "No Surprises",
+        "url": "https://open.spotify.com/album/4Ff20g63ORgfY7NBeiv86V"
+      },
+      "artists": [
+        {
+          "name": "Juliana Chahayed",
+          "url": "https://open.spotify.com/artist/2qvGuhgaubJ02pfiKcJAdR"
+        }
+      ],
+      "duration_ms": 120961,
+      "name": "No Surprises",
+      "url": "https://open.spotify.com/track/62aaJpv0hPmj7HMc21zKwW"
     },
     {
       "added_at": "2023-09-29 20:20:52",
@@ -563,6 +563,22 @@
     {
       "added_at": "2023-09-29 20:20:52",
       "album": {
+        "name": "Home for the Summer",
+        "url": "https://open.spotify.com/album/38Bdsn6is11xS3sKPJsdNX"
+      },
+      "artists": [
+        {
+          "name": "Sara Kays",
+          "url": "https://open.spotify.com/artist/7Lk9V7E1u5gqSHmtcKlOqH"
+        }
+      ],
+      "duration_ms": 155271,
+      "name": "Home for the Summer",
+      "url": "https://open.spotify.com/track/14ahZtLV5yKtqQATTfQta0"
+    },
+    {
+      "added_at": "2023-09-29 20:20:52",
+      "album": {
         "name": "You Don't Want Me Anymore",
         "url": "https://open.spotify.com/album/3fIR123EC4MJUYmPPAJ0Ss"
       },
@@ -579,22 +595,6 @@
       "duration_ms": 165000,
       "name": "You Don't Want Me Anymore",
       "url": "https://open.spotify.com/track/0K4gxQ2u3545b0GAu85ObO"
-    },
-    {
-      "added_at": "2023-09-29 20:20:52",
-      "album": {
-        "name": "Home for the Summer",
-        "url": "https://open.spotify.com/album/38Bdsn6is11xS3sKPJsdNX"
-      },
-      "artists": [
-        {
-          "name": "Sara Kays",
-          "url": "https://open.spotify.com/artist/7Lk9V7E1u5gqSHmtcKlOqH"
-        }
-      ],
-      "duration_ms": 155271,
-      "name": "Home for the Summer",
-      "url": "https://open.spotify.com/track/14ahZtLV5yKtqQATTfQta0"
     },
     {
       "added_at": "2023-09-29 20:20:52",
@@ -1139,22 +1139,6 @@
     {
       "added_at": "2023-09-29 20:20:52",
       "album": {
-        "name": "When the City Sleeps",
-        "url": "https://open.spotify.com/album/7LlmJ1aH2FGj9nEh0xPIF2"
-      },
-      "artists": [
-        {
-          "name": "Hannes",
-          "url": "https://open.spotify.com/artist/5bWgLmSpWnixX3inugtAVY"
-        }
-      ],
-      "duration_ms": 216514,
-      "name": "I Feel It",
-      "url": "https://open.spotify.com/track/5jcq5jDLVBajTY7bYTiiLx"
-    },
-    {
-      "added_at": "2023-09-29 20:20:52",
-      "album": {
         "name": "handgun",
         "url": "https://open.spotify.com/album/2ybvSMYSgIh1fKcFGD2XTL"
       },
@@ -1167,6 +1151,22 @@
       "duration_ms": 173446,
       "name": "handgun",
       "url": "https://open.spotify.com/track/5ScV9dmyjpNeQp7UwIKwTM"
+    },
+    {
+      "added_at": "2023-09-29 20:20:52",
+      "album": {
+        "name": "When the City Sleeps",
+        "url": "https://open.spotify.com/album/7LlmJ1aH2FGj9nEh0xPIF2"
+      },
+      "artists": [
+        {
+          "name": "Hannes",
+          "url": "https://open.spotify.com/artist/5bWgLmSpWnixX3inugtAVY"
+        }
+      ],
+      "duration_ms": 216514,
+      "name": "I Feel It",
+      "url": "https://open.spotify.com/track/5jcq5jDLVBajTY7bYTiiLx"
     },
     {
       "added_at": "2023-09-29 20:20:52",
@@ -1187,6 +1187,22 @@
       "duration_ms": 139354,
       "name": "Feel Again (Feat. Au/Ra)",
       "url": "https://open.spotify.com/track/1fgC2MHbJnPgvDfdTpC62c"
+    },
+    {
+      "added_at": "2023-09-29 20:20:52",
+      "album": {
+        "name": "Maybe I\u2019m Lonely",
+        "url": "https://open.spotify.com/album/7cGahzr5hx2AfLnrd0aoKM"
+      },
+      "artists": [
+        {
+          "name": "Rachel Chinouriri",
+          "url": "https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP"
+        }
+      ],
+      "duration_ms": 152141,
+      "name": "Maybe I\u2019m Lonely",
+      "url": "https://open.spotify.com/track/3X3cftpXwcSXQM4fC5ihdo"
     },
     {
       "added_at": "2023-09-29 20:20:52",
@@ -1221,36 +1237,20 @@
       "url": "https://open.spotify.com/track/6Uxex5NWDRtA8hQKDpRn8H"
     },
     {
-      "added_at": "2023-09-29 20:20:52",
+      "added_at": "2023-10-16 20:29:38",
       "album": {
-        "name": "Maybe I\u2019m Lonely",
-        "url": "https://open.spotify.com/album/7cGahzr5hx2AfLnrd0aoKM"
+        "name": "trust exercises",
+        "url": "https://open.spotify.com/album/7F8Up4TqiQZO2cdsVUDUY8"
       },
       "artists": [
         {
-          "name": "Rachel Chinouriri",
-          "url": "https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP"
+          "name": "easy life",
+          "url": "https://open.spotify.com/artist/7uwY65fDg3FVJ8MkJ5QuZK"
         }
       ],
-      "duration_ms": 152141,
-      "name": "Maybe I\u2019m Lonely",
-      "url": "https://open.spotify.com/track/3X3cftpXwcSXQM4fC5ihdo"
-    },
-    {
-      "added_at": "2023-09-29 20:20:52",
-      "album": {
-        "name": "Black Fins",
-        "url": "https://open.spotify.com/album/7IAnQxcd63aG5cpRQVqYWL"
-      },
-      "artists": [
-        {
-          "name": "Ricky Montgomery",
-          "url": "https://open.spotify.com/artist/0ZUvK7zGdXLd78mQr3t1Tw"
-        }
-      ],
-      "duration_ms": 262727,
-      "name": "Black Fins",
-      "url": "https://open.spotify.com/track/6uEApBBOzrHPJFG5iQ7uQN"
+      "duration_ms": 214002,
+      "name": "trust exercises",
+      "url": "https://open.spotify.com/track/3NEPYiw4V5tmQLguweXgPP"
     },
     {
       "added_at": "2023-09-29 20:20:52",
@@ -1267,6 +1267,22 @@
       "duration_ms": 194754,
       "name": "If I Really Love You",
       "url": "https://open.spotify.com/track/3l3lUyNu5zh6H6uByc5Xnr"
+    },
+    {
+      "added_at": "2023-09-29 20:20:52",
+      "album": {
+        "name": "Black Fins",
+        "url": "https://open.spotify.com/album/7IAnQxcd63aG5cpRQVqYWL"
+      },
+      "artists": [
+        {
+          "name": "Ricky Montgomery",
+          "url": "https://open.spotify.com/artist/0ZUvK7zGdXLd78mQr3t1Tw"
+        }
+      ],
+      "duration_ms": 262727,
+      "name": "Black Fins",
+      "url": "https://open.spotify.com/track/6uEApBBOzrHPJFG5iQ7uQN"
     },
     {
       "added_at": "2023-09-29 20:20:52",
@@ -1353,20 +1369,20 @@
       "url": "https://open.spotify.com/track/3twtKmTjKfNjavNLZg5jLH"
     },
     {
-      "added_at": "2023-10-16 20:29:38",
+      "added_at": "2023-09-29 20:20:52",
       "album": {
-        "name": "trust exercises",
-        "url": "https://open.spotify.com/album/7F8Up4TqiQZO2cdsVUDUY8"
+        "name": "Hey u x",
+        "url": "https://open.spotify.com/album/4KKRAmQ0ksj32l7mrgLOcF"
       },
       "artists": [
         {
-          "name": "easy life",
-          "url": "https://open.spotify.com/artist/7uwY65fDg3FVJ8MkJ5QuZK"
+          "name": "BENEE",
+          "url": "https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4"
         }
       ],
-      "duration_ms": 214002,
-      "name": "trust exercises",
-      "url": "https://open.spotify.com/track/3NEPYiw4V5tmQLguweXgPP"
+      "duration_ms": 231700,
+      "name": "Happen To Me",
+      "url": "https://open.spotify.com/track/4Kjo34blxmLG5HNUKEvHRM"
     },
     {
       "added_at": "2023-09-29 20:20:52",
@@ -1383,22 +1399,6 @@
       "duration_ms": 161201,
       "name": "Rage",
       "url": "https://open.spotify.com/track/1tOpOwS4F854SWZmhhy3XU"
-    },
-    {
-      "added_at": "2023-09-29 20:20:52",
-      "album": {
-        "name": "Hey u x",
-        "url": "https://open.spotify.com/album/4KKRAmQ0ksj32l7mrgLOcF"
-      },
-      "artists": [
-        {
-          "name": "BENEE",
-          "url": "https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4"
-        }
-      ],
-      "duration_ms": 231700,
-      "name": "Happen To Me",
-      "url": "https://open.spotify.com/track/4Kjo34blxmLG5HNUKEvHRM"
     },
     {
       "added_at": "2023-09-29 20:20:52",
@@ -1563,22 +1563,6 @@
     {
       "added_at": "2023-09-29 20:20:52",
       "album": {
-        "name": "infinity",
-        "url": "https://open.spotify.com/album/213BkPPTJcU9MlLj8YJFXW"
-      },
-      "artists": [
-        {
-          "name": "asumuh",
-          "url": "https://open.spotify.com/artist/6hjYrTgChYiwxAzggQaqvO"
-        }
-      ],
-      "duration_ms": 174198,
-      "name": "infinity",
-      "url": "https://open.spotify.com/track/6hbSCFjiWeL9vmOvoA7xvp"
-    },
-    {
-      "added_at": "2023-09-29 20:20:52",
-      "album": {
         "name": "If I Showed You",
         "url": "https://open.spotify.com/album/4qEq6hmy1zANkNRAEuRRku"
       },
@@ -1683,6 +1667,22 @@
       "duration_ms": 153915,
       "name": "princes of melancholia",
       "url": "https://open.spotify.com/track/6VTs85uQ0holJSYhflQsua"
+    },
+    {
+      "added_at": "2023-09-29 20:20:52",
+      "album": {
+        "name": "Cruel",
+        "url": "https://open.spotify.com/album/62ft4e9TqvJRNaUt9QYk2F"
+      },
+      "artists": [
+        {
+          "name": "Hojean",
+          "url": "https://open.spotify.com/artist/0ENnerFBtqPaVUcHadXU2w"
+        }
+      ],
+      "duration_ms": 186686,
+      "name": "Cruel",
+      "url": "https://open.spotify.com/track/6uJdUARnEctC9X4nrbaNP5"
     }
   ],
   "unique_name": "idk.",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7Bi6W3YuUlA.md) - [plain]
 
 > Songs of positivity from some of today's leading inspiring artists\. Cover:  Tobe Nwigwe
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,834 likes - 100 songs - 4 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 30,930 likes - 100 songs - 4 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -71,12 +71,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7Bi6W3YuUlA.md) - [plain]
 | 61 | [They Didn’t Know II](https://open.spotify.com/track/4kQ8n8jv9d755g6gB9YIoX) | [Wande](https://open.spotify.com/artist/0GdzQJqgRL5SHp7kXOKba0) | [They Didn’t Know II](https://open.spotify.com/album/26C59sslJoOpwYIWhV8PvA) | 2:58 |
 | 62 | [REST](https://open.spotify.com/track/0d0NpcKaUHchHs4sFYemL8) | [Not Klyde](https://open.spotify.com/artist/052Mwr5vCyfzG81pUr19Kw), [nobigdyl.](https://open.spotify.com/artist/2d8NsBa8O4C6bgQatFP5V4) | [HELLO KIZZY & COMPANY](https://open.spotify.com/album/6b3OghSed7wxLlejTFZKdO) | 3:07 |
 | 63 | [Libre \(feat\. Tommy Royale\)](https://open.spotify.com/track/7GloK7WTwb5wK8rIjymhRC) | [KB](https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc), [Tommy Royale](https://open.spotify.com/artist/0gqbW7Uf6BAWiAh5C6jlPs) | [His Glory Alone](https://open.spotify.com/album/6MnWWXrO1wvrzmGZ7iG1Sj) | 3:49 |
-| 64 | [MAD 2 THE MAX](https://open.spotify.com/track/6y6hyRiHnfwHKd2D8oy00W) | [Ty Brasel](https://open.spotify.com/artist/419NjKezGEJOVPtiymCp2p), [Jay\-Way](https://open.spotify.com/artist/1RDbE3dM2bNNSTh88R4MQ7) | [TRANSCENDENT](https://open.spotify.com/album/6rIfLRsHOsNEsLsRV3V5RG) | 2:24 |
-| 65 | [Lord Knows](https://open.spotify.com/track/1Agr2KQtfDzfY7rjL6Dcy8) | [Mission](https://open.spotify.com/artist/02gxa3HE5O0zBKRjeDh6Ba) | [Lord Knows](https://open.spotify.com/album/1N1KIgC9XvEArNaMAy5A4o) | 3:02 |
-| 66 | [Waking Up](https://open.spotify.com/track/4Pi5of5NI3ceSd9MAzFf9w) | [John Mark Pantana](https://open.spotify.com/artist/6cbdCv0bmLwcxSVFM7tuyG) | [Waking Up](https://open.spotify.com/album/1tSnfLnAiRj2gok0fD0Y1H) | 4:00 |
-| 67 | [No Loss](https://open.spotify.com/track/5MFx3nX3rO7H49RomWdKl7) | [Canon](https://open.spotify.com/artist/1dIjbaW9JTTQQ7ufrQnGsq) | [No Loss](https://open.spotify.com/album/4OvpLNfVIOiJmn2H20okwN) | 2:55 |
+| 64 | [Waking Up](https://open.spotify.com/track/4Pi5of5NI3ceSd9MAzFf9w) | [John Mark Pantana](https://open.spotify.com/artist/6cbdCv0bmLwcxSVFM7tuyG) | [Waking Up](https://open.spotify.com/album/1tSnfLnAiRj2gok0fD0Y1H) | 4:00 |
+| 65 | [MAD 2 THE MAX](https://open.spotify.com/track/6y6hyRiHnfwHKd2D8oy00W) | [Ty Brasel](https://open.spotify.com/artist/419NjKezGEJOVPtiymCp2p), [Jay\-Way](https://open.spotify.com/artist/1RDbE3dM2bNNSTh88R4MQ7) | [TRANSCENDENT](https://open.spotify.com/album/6rIfLRsHOsNEsLsRV3V5RG) | 2:24 |
+| 66 | [Lord Knows](https://open.spotify.com/track/1Agr2KQtfDzfY7rjL6Dcy8) | [Mission](https://open.spotify.com/artist/02gxa3HE5O0zBKRjeDh6Ba) | [Lord Knows](https://open.spotify.com/album/1N1KIgC9XvEArNaMAy5A4o) | 3:02 |
+| 67 | [I Can't Fail](https://open.spotify.com/track/3Ngil1du8DDdROkk5MZKa3) | [Social Club Misfits](https://open.spotify.com/artist/0wnsM0ziqToBwQeEbH0akL) | [Everyone Loves A Comeback Story](https://open.spotify.com/album/5RjwtLy4rECKCcqF5Cbs20) | 3:22 |
 | 68 | [Backslide](https://open.spotify.com/track/0xSmgLMebPwho7od9B4Jsw) | [Red Tips](https://open.spotify.com/artist/0e6JPJ634Hw3I95aKMEaD7) | [Backslide](https://open.spotify.com/album/22XnIqlTbgEse4XimFOS3F) | 2:30 |
-| 69 | [I Can't Fail](https://open.spotify.com/track/3Ngil1du8DDdROkk5MZKa3) | [Social Club Misfits](https://open.spotify.com/artist/0wnsM0ziqToBwQeEbH0akL) | [Everyone Loves A Comeback Story](https://open.spotify.com/album/5RjwtLy4rECKCcqF5Cbs20) | 3:22 |
+| 69 | [No Loss](https://open.spotify.com/track/5MFx3nX3rO7H49RomWdKl7) | [Canon](https://open.spotify.com/artist/1dIjbaW9JTTQQ7ufrQnGsq) | [No Loss](https://open.spotify.com/album/4OvpLNfVIOiJmn2H20okwN) | 2:55 |
 | 70 | [Pray](https://open.spotify.com/track/21SWInttXP3DP6bqxmoZI9) | [Sam Rivera](https://open.spotify.com/artist/4BuHGiGgKtUUHqthu6Ze5x), [Aaron Cole](https://open.spotify.com/artist/0OQ8y7heASb1vEX5WXvjCr) | [Pray](https://open.spotify.com/album/6yhfureGMC38z0FDckHp2V) | 2:56 |
 | 71 | [Your Word My Mind](https://open.spotify.com/track/1PK1IQm9ic0aiRIc4qVkz7) | [Caleb Gordon](https://open.spotify.com/artist/6s3XaJkcT7464G4oII9V41) | [Your Word My Mind](https://open.spotify.com/album/2sCzqIjKBqX0gnZBxak8Z6) | 2:29 |
 | 72 | [Bloom](https://open.spotify.com/track/1Il0XFrv9AL3u6cpgvRvSF) | [Mitch Wong](https://open.spotify.com/artist/0NmuD3IXcEGYAEX5hZxu39), [Lindy Cofer](https://open.spotify.com/artist/643zIYUXOTyNvxKia2i27I) | [Bloom](https://open.spotify.com/album/4OigF874NcgVswGDcQ85WG) | 3:06 |
@@ -92,10 +92,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7Bi6W3YuUlA.md) - [plain]
 | 82 | [Put In Work](https://open.spotify.com/track/0kJFkBo8UzyEw6BJMlnKcI) | [Swoope](https://open.spotify.com/artist/78ZdtwvDD5zTElro6EGkcU) | [24](https://open.spotify.com/album/6dB7yUNglrfsgE5PzLPwwT) | 2:36 |
 | 83 | [Who That Is](https://open.spotify.com/track/2w5nDXJbPkxwBQLC5519ny) | [Social Club Misfits](https://open.spotify.com/artist/0wnsM0ziqToBwQeEbH0akL), [Dj Laz](https://open.spotify.com/artist/5REF3rMSUd6bSRwgV09dzQ) | [Who That Is](https://open.spotify.com/album/1YorEgzQ3eu2DmskAzB3Sq) | 2:24 |
 | 84 | [Supernatural](https://open.spotify.com/track/1yeDabwKWVLBN8DoJMtwK5) | [Trip Lee](https://open.spotify.com/artist/12H1Dmi64fAmmARrsyVFzy) | [Supernatural](https://open.spotify.com/album/4CA9N7MLaMCFUrGZddg7FD) | 2:19 |
-| 85 | [Don’t Forget Who You Are](https://open.spotify.com/track/2bUOUKpJmF0KQqWpu8HIlX) | [Common](https://open.spotify.com/artist/2GHclqNVjqGuiE5mA7BEoc), [PJ](https://open.spotify.com/artist/4O36cq71Cq7NazopFLBMmb) | [A Beautiful Revolution \(Pt 1\)](https://open.spotify.com/album/1ox4vPb5vQvWwATPX8RTZh) | 2:53 |
-| 86 | [NOTHING](https://open.spotify.com/track/2V4HIVB9Iv35XbCCPXpT1f) | [Kurtis Hoppie](https://open.spotify.com/artist/2eR1Z2cyHOS4gFgA2GbRl8) | [NOTHING BUT JESUS](https://open.spotify.com/album/73kSxdjVUAjLoFNUsWITYw) | 2:37 |
-| 87 | [ON THA SEAT](https://open.spotify.com/track/5HRC8AYowTbU10wJQ16Auy) | [adriansings](https://open.spotify.com/artist/2HloHLKSPcm2s0nzX2mAIW) | [ON THA SEAT](https://open.spotify.com/album/1dYQWKJn9d0JRapMeQ93Qk) | 3:27 |
-| 88 | [I Meant It](https://open.spotify.com/track/4e5wpbjFHi4Wu9zTYvuH96) | [Xay Hill](https://open.spotify.com/artist/6e7kIHb5oTfOJY5IzLyzR6) | [When It Hurts: A Story By Isaiah Hill](https://open.spotify.com/album/5WIYU4Amr1Exj6b79Z1pxe) | 2:02 |
+| 85 | [NOTHING](https://open.spotify.com/track/2V4HIVB9Iv35XbCCPXpT1f) | [Kurtis Hoppie](https://open.spotify.com/artist/2eR1Z2cyHOS4gFgA2GbRl8) | [NOTHING BUT JESUS](https://open.spotify.com/album/73kSxdjVUAjLoFNUsWITYw) | 2:37 |
+| 86 | [Don’t Forget Who You Are](https://open.spotify.com/track/2bUOUKpJmF0KQqWpu8HIlX) | [Common](https://open.spotify.com/artist/2GHclqNVjqGuiE5mA7BEoc), [PJ](https://open.spotify.com/artist/4O36cq71Cq7NazopFLBMmb) | [A Beautiful Revolution \(Pt 1\)](https://open.spotify.com/album/1ox4vPb5vQvWwATPX8RTZh) | 2:53 |
+| 87 | [I Meant It](https://open.spotify.com/track/4e5wpbjFHi4Wu9zTYvuH96) | [Xay Hill](https://open.spotify.com/artist/6e7kIHb5oTfOJY5IzLyzR6) | [When It Hurts: A Story By Isaiah Hill](https://open.spotify.com/album/5WIYU4Amr1Exj6b79Z1pxe) | 2:02 |
+| 88 | [ON THA SEAT](https://open.spotify.com/track/5HRC8AYowTbU10wJQ16Auy) | [adriansings](https://open.spotify.com/artist/2HloHLKSPcm2s0nzX2mAIW) | [ON THA SEAT](https://open.spotify.com/album/1dYQWKJn9d0JRapMeQ93Qk) | 3:27 |
 | 89 | [Pull Up](https://open.spotify.com/track/0IJJiloYvCpW02E9XRK7yV) | [Limoblaze](https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT) | [Sunday In Lagos](https://open.spotify.com/album/62RAwuRbAoHvsYjQVL1Pyc) | 2:33 |
 | 90 | [butterfly vibes 2](https://open.spotify.com/track/7Hj1mJWiusjs2DvG3l0V8T) | [YB](https://open.spotify.com/artist/3CltJZLndpJKtpUyRVBB1k) | [WINGS OF AN ANGEL](https://open.spotify.com/album/1zCJAhBmfNosFaEUxB4D1R) | 2:00 |
 | 91 | [Enemies and Foes](https://open.spotify.com/track/3oEedh41qZHd3dgjHnU158) | [J\. Monty](https://open.spotify.com/artist/65qv2AiHO3xVWAs4SCKx4O), [TuKool Tiff](https://open.spotify.com/artist/50YX6wIj2UNBUvYs13U61H) | [Enemies and Foes](https://open.spotify.com/album/1JPLYPRrG4W639k02xAZ6a) | 4:49 |
@@ -107,6 +107,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7Bi6W3YuUlA.md) - [plain]
 | 97 | [Fight for It](https://open.spotify.com/track/58lm2xr6l8ql6EXiDtm4JS) | [Vic Lucas](https://open.spotify.com/artist/5XJm3bzY74v1IEmIc6S5jG) | [Fight for It](https://open.spotify.com/album/78EFbUt7aY0OUn4KLgW7aM) | 2:33 |
 | 98 | [Already Won](https://open.spotify.com/track/5J5kD4jXgjQ69FsCS0gFYS) | [Yung Titan](https://open.spotify.com/artist/5b2wfaTcBypJir2aa3xAQU) | [Already Won](https://open.spotify.com/album/3uw5iuuxRVPD7N3uokEYoZ) | 4:05 |
 | 99 | [97](https://open.spotify.com/track/3Wy25k1tXhCJ7HVOItXief) | [Jon Keith](https://open.spotify.com/artist/0PUc1lwaZpPJaMr0v4Gdvo) | [97](https://open.spotify.com/album/4M0bzRbUTj6CFzE7zPgJtM) | 2:55 |
-| 100 | [Red Light Green Light](https://open.spotify.com/track/7vhLO7AIWYlMjLk2aAED7x) | [Steven Malcolm](https://open.spotify.com/artist/5yqWHaDl8ZrYgeKANLyIv8), [Ty Brasel](https://open.spotify.com/artist/419NjKezGEJOVPtiymCp2p), [Jay\-Way](https://open.spotify.com/artist/1RDbE3dM2bNNSTh88R4MQ7) | [Tree](https://open.spotify.com/album/54wHmXPZMHh54mWa1cHHgY) | 4:02 |
+| 100 | [Reality Checks](https://open.spotify.com/track/0hgTeA5UfYmCzhf7z1uFlz) | [Dru Bex](https://open.spotify.com/artist/11hR4oPRwSDzaUMTPzYuoe) | [Reality Checks](https://open.spotify.com/album/2HhfhRKQym6KfjQdQAZ4Wo) | 3:10 |
 
-Snapshot ID: `MCxmOTdhYjlkZGYwYTQxZWVlMGM0YmFiODQ4ZWI4YWZmODhlMzgwZDcw`
+Snapshot ID: `MCxkNGE1Y2Q0OWE1ZDk3Mzc3M2YxZmU4NzAyMGY2NDRkYjA4ZjhlZGFk`

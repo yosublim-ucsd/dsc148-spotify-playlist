@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vAahjzdXGC.md) - [plain]
 
 > Rilisan baru pekan ini dari dalam negeri dan mancanegara yang diperbarui setiap Jumat\. Cover: Nadin Amizah
 
-[Spotify](https://open.spotify.com/user/spotify) - 167,843 likes - 112 songs - 6 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 167,902 likes - 112 songs - 6 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -121,4 +121,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vAahjzdXGC.md) - [plain]
 | 111 | [hold you close](https://open.spotify.com/track/0mK9h53uygjAiHVps0wu45) | [satellite.](https://open.spotify.com/artist/58qX06UZpmeiapyjskI8sn) | [hold you close](https://open.spotify.com/album/25j8iJERUiIYXW71OevJmC) | 3:39 |
 | 112 | [Sent on Wednesday](https://open.spotify.com/track/6cIxoAKwaxZOr8FJb6MimD) | [Tsoiwaijenjen](https://open.spotify.com/artist/3wTDAuG2SWbTjvxLe3kgnj) | [Sent on Wednesday](https://open.spotify.com/album/232i6EAZ5mZKXtpc2VekJi) | 3:32 |
 
-Snapshot ID: `MCxjMWUxODA3N2FhMWM0NWUwYmQ2YmZhYjlhNDNmNzg3NWQzOWFmMDEx`
+Snapshot ID: `MCw3NzhiMWFiZTQ3N2RhODZlNDIxMWViY2EyYTQxYmY1ZTljYjU3ODIx`

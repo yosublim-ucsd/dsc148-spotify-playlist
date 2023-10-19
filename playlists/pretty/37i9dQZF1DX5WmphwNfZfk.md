@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5WmphwNfZfk.md) - [plain]
 
 > 50 Canadian artists to watch, handpicked by our curators\. Cover: SadBoi
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,140 likes - 50 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,153 likes - 50 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5WmphwNfZfk.md) - [plain]
 | 49 | [fall](https://open.spotify.com/track/4QgVlI8j7UrbJk3fQNVcMb) | [Jay Portal](https://open.spotify.com/artist/2mE6lFglCyhkrseEcufU0d) | [fall](https://open.spotify.com/album/0bFqjbudaEwjUxclJ1tats) | 2:41 |
 | 50 | [Viv](https://open.spotify.com/track/6SMxtIKmMvfR0W7DFnpNyb) | [Ash Molloy](https://open.spotify.com/artist/7r9idpCLiq7S2KS1n5Fp7J) | [Viv](https://open.spotify.com/album/3uwkKLVkmD9zY5Ne3aegU0) | 3:50 |
 
-Snapshot ID: `MCxmOTlhM2Q2YzliZTdiMGI5M2NjOGU3MWIzMTNmZmVmN2E0MWM4MDU3`
+Snapshot ID: `MCwxNmU4ZWJlYzQ4Y2JiNWQ2NzNlMjg5ZTliN2E5ZjRjMWZjN2QyYWI3`

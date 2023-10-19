@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ntWKaOqGAp.md) - [plain]
 
 > 日本ロックシーンの最新話題曲をひとつのプレイリストに。Cover: indigo la End
 
-[Spotify](https://open.spotify.com/user/spotify) - 227,275 likes - 100 songs - 6 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 227,435 likes - 100 songs - 6 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,8 +15,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ntWKaOqGAp.md) - [plain]
 | 5 | [リカ](https://open.spotify.com/track/41P1hFCw1uLYt25JKktlst) | [SIX LOUNGE](https://open.spotify.com/artist/0hOOhY33adbUdYjrzJHYlX) | [FANFARE \(Deluxe Version\)](https://open.spotify.com/album/6jeDa7srx82eoknJmpBkgT) | 3:38 |
 | 6 | [ホムンクルス](https://open.spotify.com/track/7KYZQay4ok85FWx1e5SweU) | [Tele](https://open.spotify.com/artist/2DesRdo7rppo0VC8cR3vsf) | [ホムンクルス](https://open.spotify.com/album/6r0PC1UIkeOvYBUWO79ohw) | 3:23 |
 | 7 | [01](https://open.spotify.com/track/7r6pHYnNYqxSZr8e40VF8T) | [QUEEN BEE](https://open.spotify.com/artist/6whFEcaV75AmQMiwlfaxvc) | [01](https://open.spotify.com/album/7DkIDS9gWtm6PQs9P7TnBz) | 3:06 |
-| 8 | [君にさよなら](https://open.spotify.com/track/5om7Qq6ot7zwUvv5Nxwi2p) | [Kaneyorimasaru](https://open.spotify.com/artist/5h5smZjPHUEDyYNuafjehf) | [君にさよなら](https://open.spotify.com/album/5tnV5FmdmPujh7fm44BbG9) | 4:19 |
-| 9 | [再去見尓](https://open.spotify.com/track/7bgRTIf6UK4On666SfRiqE) | [クレナズム](https://open.spotify.com/artist/72PvGatrHUWZIbyyntvdpM) | [Whisper of the heart](https://open.spotify.com/album/5CrA7m27kYyEdTp1PIgtbe) | 3:12 |
+| 8 | [Kimi ni Sayonara](https://open.spotify.com/track/1XORfqcIaAjoEMLkR4GKou) | [Kaneyorimasaru](https://open.spotify.com/artist/5h5smZjPHUEDyYNuafjehf) | [Kimi ni Sayonara](https://open.spotify.com/album/1Kur4QhXrFJo651o4sBTxq) | 4:19 |
+| 9 | [see you again](https://open.spotify.com/track/0w4hlRc6uXXCQbX9dGGJWm) | [クレナズム](https://open.spotify.com/artist/72PvGatrHUWZIbyyntvdpM) | [Whisper of the heart](https://open.spotify.com/album/6Dfjxy6p9bcxmrUxXv4lwR) | 3:12 |
 | 10 | [more than words](https://open.spotify.com/track/2ZT6eELxeETGamaiXu6vmk) | [Hitsujibungaku](https://open.spotify.com/artist/6S8w5rLsEwjN21jQeRES0n) | [more than words](https://open.spotify.com/album/6fdrt4Aa8bJIHb5L0GTn7V) | 4:49 |
 | 11 | [月光浴](https://open.spotify.com/track/6HyPxNFn7WcIIGVIPejiB1) | [ヨルシカ](https://open.spotify.com/artist/4UK2Lzi6fBfUi9rpDt6cik) | [月光浴](https://open.spotify.com/album/1I4xPMfCn7EWu1OBuQdZ6Q) | 4:08 |
 | 12 | [Nichijo](https://open.spotify.com/track/6rFRQKFyluXEJhM5ANu2XB) | [OFFICIAL HIGE DANDISM](https://open.spotify.com/artist/5Vo1hnCRmCM6M4thZCInCj) | [Nichijo](https://open.spotify.com/album/0KOyJBfietC8GvIOWIGVze) | 5:53 |
@@ -30,7 +30,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ntWKaOqGAp.md) - [plain]
 | 20 | [私のままで](https://open.spotify.com/track/5yd9B49JLpmQls6NZmvXaI) | [SHISHAMO](https://open.spotify.com/artist/6MGHit7sV38BhpChZYByFv) | [私のままで](https://open.spotify.com/album/1Z9No1qDbse2a6n5rCAl7B) | 4:15 |
 | 21 | [Re\-swim](https://open.spotify.com/track/4mOpM9lKBtokiyhFHubxWm) | [04 Limited Sazabys](https://open.spotify.com/artist/6Gem5Nh6gd9PCtWdzR7Odh) | [Re\-Birth](https://open.spotify.com/album/7ISkjyWyY2TfNj5JyMv98c) | 4:08 |
 | 22 | [Make It Out Alive](https://open.spotify.com/track/4WVJeRP6hjMMBkmWsV4TtF) | [ONE OK ROCK](https://open.spotify.com/artist/7k73EtZwoPs516ZxE72KsO) | [Make It Out Alive](https://open.spotify.com/album/6FRkntES0AkBOQu9AOHNeo) | 3:29 |
-| 23 | [キリエ・憐れみの讃歌](https://open.spotify.com/track/4KjNYo1Y9QWc0GQES77dfl) | [Kyrie](https://open.spotify.com/artist/1W3oa2UIRtBlQSPwszyIWu), [AiNA THE END](https://open.spotify.com/artist/5k7KS34gxQbzdQaXWSOVKC) | [DEBUT](https://open.spotify.com/album/6P0h9ZA6Vf5Drg76VGFLSe) | 5:18 |
+| 23 | [キリエ・憐れみの讃歌](https://open.spotify.com/track/2lyFs3iMvfNi6bfHi3mJKj) | [Kyrie](https://open.spotify.com/artist/1W3oa2UIRtBlQSPwszyIWu), [AiNA THE END](https://open.spotify.com/artist/5k7KS34gxQbzdQaXWSOVKC) | [DEBUT](https://open.spotify.com/album/3QsVm0REFvXjoxF87Qm4OE) | 5:18 |
 | 24 | [Love Song](https://open.spotify.com/track/0nokJDMZpEnGbC09v5Fn6T) | [マルシィ](https://open.spotify.com/artist/7oQ6zxSp4eQjvVkk9rGIDV) | [Love Song](https://open.spotify.com/album/2mR7pRFpeDSEWbd0jj05hm) | 4:16 |
 | 25 | [Waratteokure](https://open.spotify.com/track/588GkOEGHQUW4DOB7z2znS) | [Sambomaster](https://open.spotify.com/artist/5ydDSP9qSxEOlHWnpbblFB) | [Waratteokure](https://open.spotify.com/album/5x2Ba1mfp35h8sRajMNXQs) | 4:33 |
 | 26 | [ボーイズ ドント クライ](https://open.spotify.com/track/2oZM29QXfk0Oi6d15PjoSp) | [YOAKE](https://open.spotify.com/artist/0psEe4IooMjolOPMrz9A5M) | [ボーイズ ドント クライ](https://open.spotify.com/album/2ukBR6yPc7n60KjGcXxy0V) | 3:01 |
@@ -86,7 +86,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ntWKaOqGAp.md) - [plain]
 | 76 | [Specter](https://open.spotify.com/track/7CvcVIkXP5GzAItfkRkRvQ) | [ORANGE RANGE](https://open.spotify.com/artist/4upiYMjsFfLRieGo8RVRzD) | [Specter](https://open.spotify.com/album/3wmlkHf58wYLXR4yVFupbM) | 3:11 |
 | 77 | [Rouge feat\. Taichi Mukai](https://open.spotify.com/track/4FpxAbBBGBY8dFiMCsaOi7) | [LUCKY TAPES](https://open.spotify.com/artist/7tyrh2CwSnilzMD8olQxcx), [Taichi Mukai](https://open.spotify.com/artist/2oNStf3CKKLM5lnzELWMcH) | [Rouge feat\. Taichi Mukai](https://open.spotify.com/album/00t8byMoRv2LZrsEaH9X7K) | 3:37 |
 | 78 | [煙のジャンクション](https://open.spotify.com/track/1lZU2PKOokAeKaKnM6Bq6o) | [フレンズ](https://open.spotify.com/artist/7I045Ct8xfI1QlSYq4XuBh) | [煙のジャンクション](https://open.spotify.com/album/3cP0SOZpq6yfAXskh6itoK) | 3:25 |
-| 79 | [新約「償い」](https://open.spotify.com/track/4lRuUjGbQZXgietBKMpLWU) | [MOROHA](https://open.spotify.com/artist/1pMaZSxaThVebPEWM3QXlY) | [新約「償い」](https://open.spotify.com/album/1mx6uzMW6vsBK3T5qBRkOA) | 4:58 |
+| 79 | [Shinyaku \[Tsugunai\]](https://open.spotify.com/track/6hW5JA90T47nYMNavZw0u3) | [MOROHA](https://open.spotify.com/artist/1pMaZSxaThVebPEWM3QXlY) | [Shinyaku \[Tsugunai\]](https://open.spotify.com/album/0IhnZ25LAqNq3fJEjhkoBV) | 4:58 |
 | 80 | [下を向いて歩こう](https://open.spotify.com/track/1asktHGEURdlQRGFGWLpi9) | [amazarashi](https://open.spotify.com/artist/6T4K8YuFc0JPDrYgABbxao) | [下を向いて歩こう](https://open.spotify.com/album/17UUaCzdhyI4M9lXWP5qUK) | 5:02 |
 | 81 | [No more cry](https://open.spotify.com/track/0pxhbWaseLjZbcFCKpMrn3) | [Elephant Kashimashi](https://open.spotify.com/artist/24ljrnVUlUZ2apxF6GZsrm) | [No more cry](https://open.spotify.com/album/6zpFA9iNwQHkV4xSXzIQEK) | 4:38 |
 | 82 | [音楽と人](https://open.spotify.com/track/0ROUxl1XaYH7PmYNQp5VW6) | [Wasureranneyo](https://open.spotify.com/artist/7mhywHwc3ElwYwiMLEsduP) | [音楽と人](https://open.spotify.com/album/3u9T7DyLEOc2vQINDZa6L4) | 3:29 |
@@ -96,7 +96,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ntWKaOqGAp.md) - [plain]
 | 86 | [ネイビーオレンジ\(AI VOCAL\)](https://open.spotify.com/track/4JIU603Pf3TVBB2SFBBFUi) | [UNICORN](https://open.spotify.com/artist/0z4FY376uhecutd5Adph8s) | [ええ愛のメモリ](https://open.spotify.com/album/6hHu1BjPsB91vEtYh6ZjGc) | 3:31 |
 | 87 | [Blood in blue](https://open.spotify.com/track/4qfi7sCX4w5dZiIltgkPHB) | [Age Factory](https://open.spotify.com/artist/7pgRyTH4nTH4KoruoGuAQo) | [Blood in blue](https://open.spotify.com/album/0twJvdID2xF7NZvAb3K1Gx) | 2:45 |
 | 88 | [fake drama](https://open.spotify.com/track/4PFWYuT7tQbq82wbmXjAUM) | [THE BACK HORN](https://open.spotify.com/artist/34d8V2nUwp937CmL9pQ6xV) | [saigoni nokorumono](https://open.spotify.com/album/5bOrSq36xpVOgPtnvALFPZ) | 3:47 |
-| 89 | [ムソウ](https://open.spotify.com/track/1J3m0YReVzOnHsgq2jjN1L) | [KALMA](https://open.spotify.com/artist/5zHSpvhwGmYsYCd3dgo1Xc) | [ムソウ](https://open.spotify.com/album/1N9CDbU2SUWWRlopWyjILU) | 3:19 |
+| 89 | [Musou](https://open.spotify.com/track/55tDnCCpkuzgXaVjVdzJKF) | [KALMA](https://open.spotify.com/artist/5zHSpvhwGmYsYCd3dgo1Xc) | [Musou](https://open.spotify.com/album/6ZShnLWDs6mOwzIPrE0Ujo) | 3:19 |
 | 90 | [Himitsu](https://open.spotify.com/track/6mdV5v37CdoCbVXEtRahiU) | [KOTORI](https://open.spotify.com/artist/6NlY4hC3DxmaCG2rSZv0fL) | [Himitsu](https://open.spotify.com/album/03sy8AL2bY0ejjG6vjko6a) | 3:27 |
 | 91 | [Ghost Town](https://open.spotify.com/track/2sJZU9wjC3CnUPW3hPAb3i) | [天国姑娘](https://open.spotify.com/artist/60JSPE63xy6m6MWoY0D663) | [Ghost Town](https://open.spotify.com/album/1pYhD2XLd92NXZrokQwXPJ) | 3:08 |
 | 92 | [RUMBLE](https://open.spotify.com/track/5TJii7hQr93G7yYdgO5RAU) | [Paledusk](https://open.spotify.com/artist/2GWuBfYdmPB91krBNQavHa), [Masato](https://open.spotify.com/artist/11xDXwn09ERXhnM1wZgywo) | [RUMBLE](https://open.spotify.com/album/1q3QicMrnFJ4RrdFcVyvig) | 4:41 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ntWKaOqGAp.md) - [plain]
 | 99 | [群れる青](https://open.spotify.com/track/0ZeKNAIYC7oQGnWdqPLmbj) | [GOOD ON THE REEL](https://open.spotify.com/artist/5qnfrFRZ95ll1wX2c9Lfhg) | [群れる青](https://open.spotify.com/album/1fHoymLtMG97Spozbx5vLn) | 4:13 |
 | 100 | [daiseikai](https://open.spotify.com/track/1dVE8jZlBroPUcnFTEc3hS) | [Dramatic Alaska](https://open.spotify.com/artist/3bWD87dw5iBrQPXFThIRDf) | [daiseikai](https://open.spotify.com/album/0f3ELzQ1EoU4ak2Kg4EIZT) | 3:09 |
 
-Snapshot ID: `MCw3NGUzMDM2ODQyMDEwMjlmODQxMmIxYWY4MTg4M2VlZjAyZDE4Yjk4`
+Snapshot ID: `MCwzYzFmYzM2NTk2YTQ0YjgwMjY3MDRlN2EzMDljNTJjN2I5ZTU3Nzc1`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTtgIvO0zxTI.md) - [plain]
 
 > Aquí está el sonido urbano de Venezuela\. Cover: Itzza Primera
 
-[Spotify](https://open.spotify.com/user/spotify) - 79,099 likes - 60 songs - 3 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 79,126 likes - 60 songs - 3 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTtgIvO0zxTI.md) - [plain]
 | 7 | [Quién Pudiera?](https://open.spotify.com/track/0oPGGzsXUmZswgsxUhLn45) | [Cardellino](https://open.spotify.com/artist/7HFja6X48hWE58m3pQnGV0), [Irepelusa](https://open.spotify.com/artist/3KaNWDYObY73SDpcZBRzuw), [Çantamarta](https://open.spotify.com/artist/5Ayb9yqemFxECJB8LEG8ln), [Veztalone](https://open.spotify.com/artist/5KhJh3jJOH5EkZiplQLw5h), [Comida Para Llevar](https://open.spotify.com/artist/6ybUCb9uQ4fd6gtIptuaYO) | [Quién Pudiera?](https://open.spotify.com/album/2MYyRpVLzYJuTwO70iLQph) | 3:33 |
 | 8 | [Freud](https://open.spotify.com/track/7xFvOja9qVdmXU84rH9sX3) | [Tayko](https://open.spotify.com/artist/3TqicTPfXQLiPPZWKtHk0m) | [Ecolocalización](https://open.spotify.com/album/0VoXLs9SrZgi9AFdkNbW8P) | 1:56 |
 | 9 | [Te Vi](https://open.spotify.com/track/059bcIhyc2SBwm6sw2AZzd) | [Piso 21](https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd), [Micro TDH](https://open.spotify.com/artist/1aWJsBQa67l72j1VT3D6Ow) | [Te Vi](https://open.spotify.com/album/02XOoh8XrlCc466QkkjGk5) | 3:51 |
-| 10 | [Solo Tú](https://open.spotify.com/track/1rJih4t89dT4Dm3tp9Qiwd) | [Briella](https://open.spotify.com/artist/3ef240gIQOpOu1OaPNYF2b) | [Solo Tú](https://open.spotify.com/album/2TH7K9IjW8CmSvHddf3cyT) | 3:12 |
+| 10 | [SOLO TÚ](https://open.spotify.com/track/1rJih4t89dT4Dm3tp9Qiwd) | [Briella](https://open.spotify.com/artist/3ef240gIQOpOu1OaPNYF2b) | [SOLO TÚ](https://open.spotify.com/album/2TH7K9IjW8CmSvHddf3cyT) | 3:12 |
 | 11 | [Volare](https://open.spotify.com/track/6TCnhziFkBPhOTqvh8zVDU) | [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj) | [Volare](https://open.spotify.com/album/56qdykzNrRw4ls93MBNKZc) | 2:27 |
 | 12 | [Anime](https://open.spotify.com/track/35tZgFGkFS4NPCsFp1QgxO) | [Kid Fresco](https://open.spotify.com/artist/2Mqd2MLJTKaLBG8N5vS5rD) | [Anime](https://open.spotify.com/album/6bGD7XoL6BegobJzTXtzkR) | 2:39 |
 | 13 | [EL TREN](https://open.spotify.com/track/2E5AxSvxrnRsaExLe1aaXI) | [Micro TDH](https://open.spotify.com/artist/1aWJsBQa67l72j1VT3D6Ow), [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [EL TREN](https://open.spotify.com/album/4awGSTShdK0MrxjbuFHnEY) | 3:35 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTtgIvO0zxTI.md) - [plain]
 | 59 | [Como Si Nada](https://open.spotify.com/track/2ECKWYbTPpKvtnKiRiUQqC) | [ADSO](https://open.spotify.com/artist/29b16XDtyMXDrfo2hZ69wf) | [Como Si Nada](https://open.spotify.com/album/25baT12B8EsCMIjKVCztUi) | 2:36 |
 | 60 | [Imaginándote](https://open.spotify.com/track/6zxkr2tSIZMIKHaALNvoCr) | [3AM](https://open.spotify.com/artist/1LU7BxbUvvuA4eNDdEO22D) | [Satus](https://open.spotify.com/album/1lOibSxSky80FXEzR5Z2Gn) | 2:29 |
 
-Snapshot ID: `MCxmOTI5ZWVhMmMyNTgxMjJkODQwZjg3MDFhNGIwMzZmN2U1NmYxZDYx`
+Snapshot ID: `MCwyY2JkN2I0NGMzNmU2ZDdkODA5ODk5NDBlYzJjNjcxMDY3MWM3YTZk`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbgtqUuhUMh3.md) - [plain]
 
 > Listen to Arab women, at full volume\. Cover: Numidia
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,623 likes - 50 songs - 2 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,719 likes - 50 songs - 2 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,9 +44,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbgtqUuhUMh3.md) - [plain]
 | 34 | [Maystahelsh](https://open.spotify.com/track/3io0IKZUAuHS11n9iAKSMx) | [Hanan Redha](https://open.spotify.com/artist/5AFPjqv26lWXQt2UR5BuGV) | [Maystahelsh](https://open.spotify.com/album/50A9VCNn74bi8oyj8SOTic) | 3:36 |
 | 35 | [Leh](https://open.spotify.com/track/4D8ch2A9Z7oNMbo3h4EAd3) | [Mai Farouk](https://open.spotify.com/artist/6WDborvz84s4INwkuajFxP) | [Leh](https://open.spotify.com/album/2MxpLVlsLP3v7Jh8hdV2t0) | 4:21 |
 | 36 | [حضن ابويا](https://open.spotify.com/track/6loQ5gX9N4Mq6VigXfxws7) | [Mai Kassab](https://open.spotify.com/artist/6E3IdT2vK3rC3WuRJwTQBI) | [حضن ابويا](https://open.spotify.com/album/2J4VzJh8mndeeVhWBjfKS8) | 3:15 |
-| 37 | [Shayef Halo](https://open.spotify.com/track/6lBa4bs4wXTEvwMMfqOa3l) | [Ghaliaa](https://open.spotify.com/artist/3FVonQ6pTMMbqYb0Rf7WE8) | [Shayef Halo](https://open.spotify.com/album/2nfGH4zgwmECP26LJ8WbSR) | 2:12 |
+| 37 | [Wara Kol Nagah](https://open.spotify.com/track/3mRHFu05SyAc4Y7cQPorON) | [Shereen Yehia](https://open.spotify.com/artist/6sI8bEic5Dp7EQjiZNzqMY) | [Wara Kol Nagah](https://open.spotify.com/album/3IZoThcaZ81nAYTuxLXfXU) | 2:45 |
 | 38 | [Nas Kteer](https://open.spotify.com/track/6R4dDg756EIf1JuFnZfWau) | [Latifa](https://open.spotify.com/artist/1PuTOfIYIEdoxKNnXJAPZe) | [Nas Kteer](https://open.spotify.com/album/5pRjsZPHslmKIUbVyazQIE) | 3:27 |
-| 39 | [Wara Kol Nagah](https://open.spotify.com/track/3mRHFu05SyAc4Y7cQPorON) | [Shereen Yehia](https://open.spotify.com/artist/6sI8bEic5Dp7EQjiZNzqMY) | [Wara Kol Nagah](https://open.spotify.com/album/3IZoThcaZ81nAYTuxLXfXU) | 2:45 |
+| 39 | [Shayef Halo](https://open.spotify.com/track/6lBa4bs4wXTEvwMMfqOa3l) | [Ghaliaa](https://open.spotify.com/artist/3FVonQ6pTMMbqYb0Rf7WE8) | [Shayef Halo](https://open.spotify.com/album/2nfGH4zgwmECP26LJ8WbSR) | 2:12 |
 | 40 | [إجمدي](https://open.spotify.com/track/56bavY4NOpLZ8usVJp1PmZ) | [Shaza](https://open.spotify.com/artist/1EfSs3W0Qb8i6Rbw60nv5b) | [إجمدي](https://open.spotify.com/album/75JEt9SVbFyVYv3oaYuUVV) | 2:41 |
 | 41 | [أكتر بكتير](https://open.spotify.com/track/1XkJjxi6GnzVMrWdkRsqMh) | [Nour Chehab](https://open.spotify.com/artist/1vi8wXxu7J0TKgxiNXV3uQ) | [أكتر بكتير](https://open.spotify.com/album/4gunC4wM9clRzn6jfltbKE) | 2:45 |
 | 42 | [Ahmed Allah Aleek](https://open.spotify.com/track/3wHwGaImG08yAIzOnh8qc4) | [Lamya Almalki](https://open.spotify.com/artist/1IT19Z07orMjLioi2KKOHY) | [Ahmed Allah Aleek](https://open.spotify.com/album/64pCUD9wMYdC4lQZOryvaB) | 2:26 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbgtqUuhUMh3.md) - [plain]
 | 49 | [Mosh Bimazagak](https://open.spotify.com/track/4QXvNMueJu3X10pJwMF0Zn) | [Yara](https://open.spotify.com/artist/46FJPTBdnCK0GMd76nil6e) | [Mosh Bimazagak](https://open.spotify.com/album/166myK04ra9Wfi56USib7R) | 3:07 |
 | 50 | [Btwhashni](https://open.spotify.com/track/5XYfLh6JUGIbfMOcSI0Jkd) | [Felukah](https://open.spotify.com/artist/0nmukaO2zzwRPEevPJph1F) | [Harara](https://open.spotify.com/album/0ZgfIhQcP5ahuAxIGvxnNf) | 2:18 |
 
-Snapshot ID: `MCxhMjNiZjRjODgxZjcyNWY4MDkyNmJlMGI4MTNhZDg2ZGExNDAxM2Ji`
+Snapshot ID: `MCxiZTBlOTVkMGZkMDI3YTk3NWM4YTMyOTI2NGM4Y2QyMDE3NzEyMjcy`

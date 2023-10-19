@@ -4,7 +4,7 @@
 
 > Sedihe koyo ngene, nggak bahaya ta? 😢
 
-66 songs - 5 hr 29 min
+67 songs - 5 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,7 +38,8 @@
 | [Kurangku Opo](https://open.spotify.com/track/5v2gEm7WZNJChdoNqgGSxA) | [Ronda Genk](https://open.spotify.com/artist/67H1jUlHffu3RzhSAWRl7z) | [Kurangku Opo](https://open.spotify.com/album/5rCg6XiVS9xmBiUEoYn0Dq) | 6:28 | 2023-08-09 |  |
 | [Lagu Galau](https://open.spotify.com/track/3czrfH9M8dT34boJCL6iwV) | [OMWAWES](https://open.spotify.com/artist/4SsvQOTuKik8GmK6GtB21A), [NDX A.K.A.](https://open.spotify.com/artist/1IDBhlpDyKr53UKKxXRHXD) | [Lagu Galau](https://open.spotify.com/album/2ssc0LBXdKKmPoQSKivKIy) | 4:15 | 2023-02-16 |  |
 | [LDR \( layang dungo restu \)](https://open.spotify.com/track/0tcEJ791a3aF6pTusqkJep) | [Happy Asmara](https://open.spotify.com/artist/5423rMdVbchY2cgu0GgH5X) | [LDR \( layang dungo restu \)](https://open.spotify.com/album/4e5KcsAGBMNwbfuDBspCRe) | 5:29 | 2021-09-08 |  |
-| [Lilakno Lungaku](https://open.spotify.com/track/6knc0ByasDCvGNlQPHYUFX) | [Losskita](https://open.spotify.com/artist/3BifJ2eD9KMFgAGa8LbPtI) | [Lilakno Lungaku](https://open.spotify.com/album/50hlFnDrEYiYp0lOReAxgb) | 5:35 | 2021-09-08 |  |
+| [Lilakno Lungaku](https://open.spotify.com/track/6knc0ByasDCvGNlQPHYUFX) | [Losskita](https://open.spotify.com/artist/3BifJ2eD9KMFgAGa8LbPtI) | [Lilakno Lungaku](https://open.spotify.com/album/50hlFnDrEYiYp0lOReAxgb) | 5:35 | 2021-09-08 | 2023-10-19 |
+| [Lilakno Lungaku](https://open.spotify.com/track/6eQL36g0j3GlofcGauLJH7) | [Losskita](https://open.spotify.com/artist/3BifJ2eD9KMFgAGa8LbPtI) | [Lilakno Lungaku](https://open.spotify.com/album/1sf4AWv0GiLGTzRrfAhgDA) | 5:35 | 2023-10-11 |  |
 | [Loro Ati Sejak Dini](https://open.spotify.com/track/0oUVBZrnc8S6qJEA8uH1On) | [Evan Loss](https://open.spotify.com/artist/4mzKYnv5GDC0hsEwcnJdjo) | [Loro Ati Sejak Dini](https://open.spotify.com/album/69mI0XVoKizAkiULAx4FLj) | 4:44 | 2023-08-09 |  |
 | [Los Dol](https://open.spotify.com/track/2bCnJ2aCkSh0PIcS6nL2QM) | [Mr Jono & Joni](https://open.spotify.com/artist/15rzzisy7nred7z7Wotmy6) | [Los Dol](https://open.spotify.com/album/3nMuIEIxQ2VxTBAu5N4dKs) | 5:33 | 2021-09-08 | 2023-08-10 |
 | [Lungo'O](https://open.spotify.com/track/5mKAqG9ejNhdZhkoSJIi4j) | [Esa Risty](https://open.spotify.com/artist/3HShuvuxdHdvUxRqPjGrAc) | [Lungo'O](https://open.spotify.com/album/2ftYlwfINRuqjoBiQjfRx9) | 5:41 | 2023-06-12 |  |

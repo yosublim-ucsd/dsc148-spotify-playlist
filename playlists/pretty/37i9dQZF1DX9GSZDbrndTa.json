@@ -1,12 +1,12 @@
 {
   "description": "The bluesy side of jazz",
-  "num_followers": 92029,
+  "num_followers": 92093,
   "original_name": "Jazz-Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmNTMxNWY1M2M0OGY4YWUyZGJlZjdjYzE3ZTdiOGU4NGIwNTFiMzVl",
+  "snapshot_id": "MCw0NDk0MTQ1Mjc4OWQyMjNjZWUxNjg5YzQxYmE3MTIzYjc2YWM3NGEy",
   "tracks": [
     {
       "added_at": "2020-10-12 18:15:54",
@@ -727,18 +727,18 @@
     {
       "added_at": "2020-10-12 18:15:54",
       "album": {
-        "name": "Kelly Blue (Keepnews Collection)",
-        "url": "https://open.spotify.com/album/0mgUrEyxaymxq5hCKqNQ9B"
+        "name": "Swedish Schnapps: The Genius Of Charlie Parker #8 (Expanded Edition)",
+        "url": "https://open.spotify.com/album/1mQ11XRLltORPc1bAJv9tt"
       },
       "artists": [
         {
-          "name": "Wynton Kelly",
-          "url": "https://open.spotify.com/artist/5ncBRFyyylFng7kQJaRXN0"
+          "name": "Charlie Parker Quintet",
+          "url": "https://open.spotify.com/artist/0EgftqHXtk840HVLdydk5V"
         }
       ],
-      "duration_ms": 464613,
-      "name": "Old Clothes",
-      "url": "https://open.spotify.com/track/3MorzsnlfKD1SlMWdDtKwb"
+      "duration_ms": 166613,
+      "name": "Blues For Alice",
+      "url": "https://open.spotify.com/track/6uVi3VWCVMfXviWa8DTCwN"
     },
     {
       "added_at": "2020-10-12 18:15:54",
@@ -759,18 +759,18 @@
     {
       "added_at": "2020-10-12 18:15:54",
       "album": {
-        "name": "Swedish Schnapps: The Genius Of Charlie Parker #8 (Expanded Edition)",
-        "url": "https://open.spotify.com/album/1mQ11XRLltORPc1bAJv9tt"
+        "name": "Kelly Blue (Keepnews Collection)",
+        "url": "https://open.spotify.com/album/0mgUrEyxaymxq5hCKqNQ9B"
       },
       "artists": [
         {
-          "name": "Charlie Parker Quintet",
-          "url": "https://open.spotify.com/artist/0EgftqHXtk840HVLdydk5V"
+          "name": "Wynton Kelly",
+          "url": "https://open.spotify.com/artist/5ncBRFyyylFng7kQJaRXN0"
         }
       ],
-      "duration_ms": 166613,
-      "name": "Blues For Alice",
-      "url": "https://open.spotify.com/track/6uVi3VWCVMfXviWa8DTCwN"
+      "duration_ms": 464613,
+      "name": "Old Clothes",
+      "url": "https://open.spotify.com/track/3MorzsnlfKD1SlMWdDtKwb"
     },
     {
       "added_at": "2020-10-12 18:15:54",

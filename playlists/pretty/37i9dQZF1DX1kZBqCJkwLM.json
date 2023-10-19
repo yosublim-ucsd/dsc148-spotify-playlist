@@ -1,12 +1,12 @@
 {
   "description": "Dope, Asian, and Femme. Cover: SNOW WIFE",
-  "num_followers": 82320,
+  "num_followers": 82335,
   "original_name": "Dope AF",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0ODgyMzYzYTA1NDYzZjFiZjMwNDYxN2YxMDc4M2M1MmRmYTUyNDIz",
+  "snapshot_id": "MCw1ZjU3NDY3YzNkZmExZWExMGQzMmI0NDNiMWFkMjA1ZGZhYjBiZDEw",
   "tracks": [
     {
       "added_at": "2023-08-25 04:00:00",
@@ -679,18 +679,22 @@
     {
       "added_at": "2023-08-25 04:00:00",
       "album": {
-        "name": "Shapeshift",
-        "url": "https://open.spotify.com/album/5hgChCe2iQ66hwlMAINHyf"
+        "name": "damn Right Pt. 2",
+        "url": "https://open.spotify.com/album/18H6Ws2enejwSpuhX3S6K4"
       },
       "artists": [
         {
-          "name": "Jenna Doe",
-          "url": "https://open.spotify.com/artist/537KNo7PHzbkHiv5SGQ0eT"
+          "name": "AUDREY NUNA",
+          "url": "https://open.spotify.com/artist/0Wwji82sLA0Hcvtuak3omb"
+        },
+        {
+          "name": "DJ Snake",
+          "url": "https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4"
         }
       ],
-      "duration_ms": 145173,
-      "name": "Shapeshift",
-      "url": "https://open.spotify.com/track/08KAB8LahxJB28HExOmPnL"
+      "duration_ms": 186666,
+      "name": "damn Right Pt. 2",
+      "url": "https://open.spotify.com/track/3syIqcdNRjbFcWkEMRRT1d"
     },
     {
       "added_at": "2023-08-25 04:00:00",
@@ -711,22 +715,18 @@
     {
       "added_at": "2023-08-25 04:00:00",
       "album": {
-        "name": "damn Right Pt. 2",
-        "url": "https://open.spotify.com/album/18H6Ws2enejwSpuhX3S6K4"
+        "name": "Shapeshift",
+        "url": "https://open.spotify.com/album/5hgChCe2iQ66hwlMAINHyf"
       },
       "artists": [
         {
-          "name": "AUDREY NUNA",
-          "url": "https://open.spotify.com/artist/0Wwji82sLA0Hcvtuak3omb"
-        },
-        {
-          "name": "DJ Snake",
-          "url": "https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4"
+          "name": "Jenna Doe",
+          "url": "https://open.spotify.com/artist/537KNo7PHzbkHiv5SGQ0eT"
         }
       ],
-      "duration_ms": 186666,
-      "name": "damn Right Pt. 2",
-      "url": "https://open.spotify.com/track/3syIqcdNRjbFcWkEMRRT1d"
+      "duration_ms": 145173,
+      "name": "Shapeshift",
+      "url": "https://open.spotify.com/track/08KAB8LahxJB28HExOmPnL"
     },
     {
       "added_at": "2023-08-25 04:00:00",
@@ -1479,22 +1479,6 @@
     {
       "added_at": "2023-08-25 04:00:00",
       "album": {
-        "name": "Off the Rails",
-        "url": "https://open.spotify.com/album/1sgx3kIgK6i6MdxgK39ubi"
-      },
-      "artists": [
-        {
-          "name": "Wallice",
-          "url": "https://open.spotify.com/artist/6d6ts87Fxm1EdULf4CaLw4"
-        }
-      ],
-      "duration_ms": 175123,
-      "name": "Dramamine",
-      "url": "https://open.spotify.com/track/4tDM34i7tiUU4ztUdsAE5s"
-    },
-    {
-      "added_at": "2023-08-25 04:00:00",
-      "album": {
         "name": "Blush",
         "url": "https://open.spotify.com/album/34V8K95l5c3Idr3TwDpclN"
       },
@@ -1507,6 +1491,22 @@
       "duration_ms": 213333,
       "name": "Blush",
       "url": "https://open.spotify.com/track/1SFtNl1fToY45Siz65CnSa"
+    },
+    {
+      "added_at": "2023-08-25 04:00:00",
+      "album": {
+        "name": "Off the Rails",
+        "url": "https://open.spotify.com/album/1sgx3kIgK6i6MdxgK39ubi"
+      },
+      "artists": [
+        {
+          "name": "Wallice",
+          "url": "https://open.spotify.com/artist/6d6ts87Fxm1EdULf4CaLw4"
+        }
+      ],
+      "duration_ms": 175123,
+      "name": "Dramamine",
+      "url": "https://open.spotify.com/track/4tDM34i7tiUU4ztUdsAE5s"
     },
     {
       "added_at": "2023-08-25 04:00:00",

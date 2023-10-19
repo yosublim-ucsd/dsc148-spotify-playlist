@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSIvbYYt1Dvi.md) - [plain]
 
 > kayblack é AULAS
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,237,133 likes - 50 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,237,196 likes - 50 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSIvbYYt1Dvi.md) - [plain]
 | 49 | [To de Pé](https://open.spotify.com/track/6WHGZ8voLYNlgYlUyBhQm9) | [Mc Poze do Rodo](https://open.spotify.com/artist/28ie4NNTa2VW2QV4Zray8M), [Major RD](https://open.spotify.com/artist/76hYPcWML9NGEh8LashwT5), [Borges](https://open.spotify.com/artist/6jBww4kwlSrjaNYP7AQPtX), [jess beats](https://open.spotify.com/artist/7uskxjQtkzfiqHCNIIv3gD) | [O Sábio](https://open.spotify.com/album/6aONODz5AYfzrNESWC9n4W) | 3:22 |
 | 50 | [Favela Vive 5](https://open.spotify.com/track/5svioJ5BlJIYfQFPT1eq7v) | [ADL](https://open.spotify.com/artist/6Ywb1no2hXLazjIs4LUiQD), [MC Hariel](https://open.spotify.com/artist/0pcoadNMmvrUyab1RxWBoV), [Mc Marechal](https://open.spotify.com/artist/5YZEcrC3yHeiZ1bBvwKRUF), [Major RD](https://open.spotify.com/artist/76hYPcWML9NGEh8LashwT5), [Leci Brandao](https://open.spotify.com/artist/5iiQvuDCnlXoK8iAhydW0u) | [Favela Vive 5](https://open.spotify.com/album/0HIqiDgY7xzP0vzbg8aGT8) | 8:13 |
 
-Snapshot ID: `MCxhNDEwZDU3MzJmY2E3OWY2ZDE4N2I2N2UxMjA3ODdhOWZmNzkyODUy`
+Snapshot ID: `MCw2NWJjOTA3MDRjNjFkMjQ3ODlmNTJkYTFhZTI3NGRlN2E2NzI5NTEw`

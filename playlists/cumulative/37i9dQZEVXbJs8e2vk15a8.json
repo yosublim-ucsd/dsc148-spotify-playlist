@@ -2904,7 +2904,7 @@
       ],
       "date_added": "2023-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-19",
       "duration_ms": 104013,
       "name": "BAIXO",
       "url": "https://open.spotify.com/track/0RVmg31gzlshCm356g0HF2"
@@ -6733,6 +6733,24 @@
     },
     {
       "album": {
+        "name": "Dime Si Pa La Uni",
+        "url": "https://open.spotify.com/album/6bkknKa6rmgLT5EToW9bKy"
+      },
+      "artists": [
+        {
+          "name": "dsakata0",
+          "url": "https://open.spotify.com/artist/5lgcdgRYbhtP3w8bgdFM9P"
+        }
+      ],
+      "date_added": "2023-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263568,
+      "name": "Dime Si Pa La Uni",
+      "url": "https://open.spotify.com/track/7jR0KxHBcsRbwOmpcY7TmW"
+    },
+    {
+      "album": {
         "name": "Dime T\u00fa",
         "url": "https://open.spotify.com/album/5RdU0FElotMIDYbY8zKiHx"
       },
@@ -10244,7 +10262,7 @@
       ],
       "date_added": "2023-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-19",
       "duration_ms": 131872,
       "name": "greedy",
       "url": "https://open.spotify.com/track/1reEeZH9wNt4z1ePYLyC7p"
@@ -10262,7 +10280,7 @@
       ],
       "date_added": "2023-10-03",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-15",
+      "date_removed": null,
       "duration_ms": 131872,
       "name": "greedy",
       "url": "https://open.spotify.com/track/3rUGC1vUpkDG9CZFHMur1t"

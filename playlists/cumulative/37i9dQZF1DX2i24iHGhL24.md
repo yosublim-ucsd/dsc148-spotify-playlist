@@ -4,7 +4,7 @@
 
 > Reimagined pop covers of your favorite songs\.  Cover: Ed Sheeran
 
-408 songs - 23 hr 24 min
+409 songs - 23 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -192,6 +192,7 @@
 | [I Feel It Coming \- Recorded At Sound Stage Nashville](https://open.spotify.com/track/49OyaDdgZYqNrzz5rvrFyI) | [Jillian Jacqueline](https://open.spotify.com/artist/5GDZ6xhBwk7Yja97CFLmV7) | [Spotify Singles \(Recorded At Sound Stage Nashville\)](https://open.spotify.com/album/0wx6mlaSSj1ckHaKRNTOJh) | 4:03 | 2021-12-17 | 2022-07-29 |
 | [I Hate U, I Love U](https://open.spotify.com/track/3JPkmsyibgVTfk8z5QabEs) | [Saibh Skelly](https://open.spotify.com/artist/5W6LDY0Fa5qK8fbDTe58Kq) | [Undercover Heartbreak EP](https://open.spotify.com/album/6KJAw3Oq1GxFudELGregkh) | 4:10 | 2022-04-15 | 2022-12-30 |
 | [I Heard It Through The Grapevine](https://open.spotify.com/track/6HWAUZ8HaiZ4C8h78vOH6B) | [Campsite Dream](https://open.spotify.com/artist/69VkQLf4DH7GJ68BCDOPKL) | [I Heard It Through The Grapevine](https://open.spotify.com/album/1TP4oLljSYtS4i9djbfDiM) | 2:41 | 2021-12-17 | 2022-05-02 |
+| [I Knew You Were Trouble \- Spotify Singles](https://open.spotify.com/track/30QYxvXOJZhGBF6DvpNb8w) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Spotify Singles](https://open.spotify.com/album/2kJnIPJHIRZlfOx0TZEKBP) | 3:53 | 2023-10-18 |  |
 | [I Like Me Better](https://open.spotify.com/track/2GzvzxXnyJ9l3obE4JskC2) | [Ysabelle Cuevas](https://open.spotify.com/artist/323nxrsc0C5JSsmlN2srN8) | [Ysabelle](https://open.spotify.com/album/1LzchyMzJU8dRzQhlcy8n1) | 3:09 | 2021-12-17 | 2022-05-02 |
 | [i love you baby](https://open.spotify.com/track/124lzQbZK2jQZqwTq8jt2n) | [Emilee](https://open.spotify.com/artist/4ArPQ1Opcksbbf3CPwEjWE) | [i love you baby](https://open.spotify.com/album/1VAVgRanSscfwdCot27ePc) | 3:34 | 2021-12-17 | 2022-12-30 |
 | [I Wanna Dance With Somebody \(Who Loves Me\) \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/3Nca5js9xKegX655YZ43Uq) | [Fall Out Boy](https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX) | [Spotify Singles](https://open.spotify.com/album/7ll3Cf5KaoLl6toqeSlClH) | 4:22 | 2021-12-17 | 2022-04-16 |

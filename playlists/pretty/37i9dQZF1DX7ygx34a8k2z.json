@@ -1,12 +1,12 @@
 {
   "description": "dig through the record bin.",
-  "num_followers": 181455,
+  "num_followers": 181816,
   "original_name": "Thrifted",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3MmFhNzZjNTkzYzQ2ZTBjNmRhYmRhOWMwNDgxMmY4Y2ZlMDNhMzRl",
+  "snapshot_id": "MCwwZGY0YmE1MmRiYTEwM2VhZDU3Yzg4NmIzNDMxOWE0YzAyNzUxNjlk",
   "tracks": [
     {
       "added_at": "2023-08-18 04:00:00",
@@ -683,22 +683,6 @@
     {
       "added_at": "2023-08-18 04:00:00",
       "album": {
-        "name": "Different Class",
-        "url": "https://open.spotify.com/album/3ly9T2L4pqTZijFgQssd3x"
-      },
-      "artists": [
-        {
-          "name": "Pulp",
-          "url": "https://open.spotify.com/artist/36E7oYfz3LLRto6l2WmDcD"
-        }
-      ],
-      "duration_ms": 351626,
-      "name": "Common People - Full Length Version",
-      "url": "https://open.spotify.com/track/2fXKyAyPrEa24c6PJyqznF"
-    },
-    {
-      "added_at": "2023-08-18 04:00:00",
-      "album": {
         "name": "Superunknown (Deluxe Edition)",
         "url": "https://open.spotify.com/album/29sTacnS0qA9xri6YS8xLA"
       },
@@ -711,6 +695,22 @@
       "duration_ms": 283026,
       "name": "Fell On Black Days",
       "url": "https://open.spotify.com/track/1wlKw9NAWVWpx7OIAyg9EA"
+    },
+    {
+      "added_at": "2023-08-18 04:00:00",
+      "album": {
+        "name": "Different Class",
+        "url": "https://open.spotify.com/album/3ly9T2L4pqTZijFgQssd3x"
+      },
+      "artists": [
+        {
+          "name": "Pulp",
+          "url": "https://open.spotify.com/artist/36E7oYfz3LLRto6l2WmDcD"
+        }
+      ],
+      "duration_ms": 351626,
+      "name": "Common People - Full Length Version",
+      "url": "https://open.spotify.com/track/2fXKyAyPrEa24c6PJyqznF"
     },
     {
       "added_at": "2023-08-18 04:00:00",
@@ -1263,18 +1263,18 @@
     {
       "added_at": "2023-08-18 04:00:00",
       "album": {
-        "name": "Porno For Pyros",
-        "url": "https://open.spotify.com/album/1wTVRmgk25jTh6VsrxCFDr"
+        "name": "Heaven or Las Vegas",
+        "url": "https://open.spotify.com/album/5lEphbceIgaK1XxWeSrC9E"
       },
       "artists": [
         {
-          "name": "Porno for Pyros",
-          "url": "https://open.spotify.com/artist/58etTNn7xmsQZhjnfjpAXL"
+          "name": "Cocteau Twins",
+          "url": "https://open.spotify.com/artist/5Wabl1lPdNOeIn0SQ5A1mp"
         }
       ],
-      "duration_ms": 216733,
-      "name": "Pets",
-      "url": "https://open.spotify.com/track/5kcQEPksJHTOLQ4In5oGN2"
+      "duration_ms": 198666,
+      "name": "Iceblink Luck",
+      "url": "https://open.spotify.com/track/0Coai3QxvjCXWMhVN1hpgE"
     },
     {
       "added_at": "2023-08-18 04:00:00",
@@ -1295,18 +1295,18 @@
     {
       "added_at": "2023-08-18 04:00:00",
       "album": {
-        "name": "Heaven or Las Vegas",
-        "url": "https://open.spotify.com/album/5lEphbceIgaK1XxWeSrC9E"
+        "name": "Porno For Pyros",
+        "url": "https://open.spotify.com/album/1wTVRmgk25jTh6VsrxCFDr"
       },
       "artists": [
         {
-          "name": "Cocteau Twins",
-          "url": "https://open.spotify.com/artist/5Wabl1lPdNOeIn0SQ5A1mp"
+          "name": "Porno for Pyros",
+          "url": "https://open.spotify.com/artist/58etTNn7xmsQZhjnfjpAXL"
         }
       ],
-      "duration_ms": 198666,
-      "name": "Iceblink Luck",
-      "url": "https://open.spotify.com/track/0Coai3QxvjCXWMhVN1hpgE"
+      "duration_ms": 216733,
+      "name": "Pets",
+      "url": "https://open.spotify.com/track/5kcQEPksJHTOLQ4In5oGN2"
     },
     {
       "added_at": "2023-08-18 04:00:00",

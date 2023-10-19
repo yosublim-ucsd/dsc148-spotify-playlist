@@ -1,12 +1,12 @@
 {
   "description": "All your favourite holiday jazz classics for your christmas dinner party.",
-  "num_followers": 104252,
+  "num_followers": 104271,
   "original_name": "Jazzy Christmas Dinner",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1NTJjMWRhMzk2MzBkMDlkOTAxZTMwYjM0MGE2MjMzN2MxYTc0YzRi",
+  "snapshot_id": "MCw4NjhjZTI4MDkxYzUwMzY4Y2ZiODA3YjZkNTEzMGNkN2U0ODQ1YjI3",
   "tracks": [
     {
       "added_at": "2023-10-06 00:01:00",
@@ -435,6 +435,22 @@
     {
       "added_at": "2023-10-06 00:01:00",
       "album": {
+        "name": "Bing Crosby - Christmas Classics",
+        "url": "https://open.spotify.com/album/3My4DXwRjAS5HXontsJx1A"
+      },
+      "artists": [
+        {
+          "name": "Bing Crosby",
+          "url": "https://open.spotify.com/artist/6ZjFtWeHP9XN7FeKSUe80S"
+        }
+      ],
+      "duration_ms": 115266,
+      "name": "I Wish You A Merry Christmas - Remastered 2006",
+      "url": "https://open.spotify.com/track/26hUXfKoJYkAMK07nW2dzQ"
+    },
+    {
+      "added_at": "2023-10-06 00:01:00",
+      "album": {
         "name": "Once in Royal David's City",
         "url": "https://open.spotify.com/album/5dDT9Nh3MCITsacmvIv6lp"
       },
@@ -463,22 +479,6 @@
       "duration_ms": 234263,
       "name": "Ave Maria",
       "url": "https://open.spotify.com/track/4Ed2ZWI33fojtD1FRhVk29"
-    },
-    {
-      "added_at": "2023-10-06 00:01:00",
-      "album": {
-        "name": "Bing Crosby - Christmas Classics",
-        "url": "https://open.spotify.com/album/3My4DXwRjAS5HXontsJx1A"
-      },
-      "artists": [
-        {
-          "name": "Bing Crosby",
-          "url": "https://open.spotify.com/artist/6ZjFtWeHP9XN7FeKSUe80S"
-        }
-      ],
-      "duration_ms": 115266,
-      "name": "I Wish You A Merry Christmas - Remastered 2006",
-      "url": "https://open.spotify.com/track/26hUXfKoJYkAMK07nW2dzQ"
     },
     {
       "added_at": "2023-10-06 00:01:00",
@@ -515,22 +515,6 @@
     {
       "added_at": "2023-10-06 00:01:00",
       "album": {
-        "name": "Tis the season",
-        "url": "https://open.spotify.com/album/02lApfaX6ADtpenYYHS3nC"
-      },
-      "artists": [
-        {
-          "name": "Wonder Eve",
-          "url": "https://open.spotify.com/artist/2UWIuNSfLubqitB2Kf0rAa"
-        }
-      ],
-      "duration_ms": 214596,
-      "name": "Tis the season",
-      "url": "https://open.spotify.com/track/7lA5vslbewlQUi7gRiAbOJ"
-    },
-    {
-      "added_at": "2023-10-06 00:01:00",
-      "album": {
         "name": "Christmas Classics",
         "url": "https://open.spotify.com/album/3f22Ap0VSZYWsqrGcphUnY"
       },
@@ -543,6 +527,22 @@
       "duration_ms": 151333,
       "name": "All I Want For Christmas (Is My Two Front Teeth)",
       "url": "https://open.spotify.com/track/4xXMJbzVQSCyprr4PG5sBj"
+    },
+    {
+      "added_at": "2023-10-06 00:01:00",
+      "album": {
+        "name": "Tis the season",
+        "url": "https://open.spotify.com/album/02lApfaX6ADtpenYYHS3nC"
+      },
+      "artists": [
+        {
+          "name": "Wonder Eve",
+          "url": "https://open.spotify.com/artist/2UWIuNSfLubqitB2Kf0rAa"
+        }
+      ],
+      "duration_ms": 214596,
+      "name": "Tis the season",
+      "url": "https://open.spotify.com/track/7lA5vslbewlQUi7gRiAbOJ"
     },
     {
       "added_at": "2023-10-06 00:01:00",
@@ -755,6 +755,22 @@
     {
       "added_at": "2023-10-06 00:01:00",
       "album": {
+        "name": "Lost in the stars",
+        "url": "https://open.spotify.com/album/3RzCBEMpRWtRNtrIfLsPSc"
+      },
+      "artists": [
+        {
+          "name": "Flatland Park",
+          "url": "https://open.spotify.com/artist/6xOql32xqR0X46QkNLCzPd"
+        }
+      ],
+      "duration_ms": 183528,
+      "name": "Lost in the stars",
+      "url": "https://open.spotify.com/track/7FGl7mrd84QlQAqNqfonVN"
+    },
+    {
+      "added_at": "2023-10-06 00:01:00",
+      "album": {
         "name": "Personal Christmas Collection",
         "url": "https://open.spotify.com/album/5gvprHdipdaEWUU7JH1qYc"
       },
@@ -767,6 +783,22 @@
       "duration_ms": 156093,
       "name": "Here Comes Santa Claus (Down Santa Claus Lane)",
       "url": "https://open.spotify.com/track/70OUj8g2IUjubbLcW1vynZ"
+    },
+    {
+      "added_at": "2023-10-06 00:01:00",
+      "album": {
+        "name": "Christmas Time",
+        "url": "https://open.spotify.com/album/4O0xBHOwwopsTrx6Jo3MRt"
+      },
+      "artists": [
+        {
+          "name": "Dan Evans-Parker",
+          "url": "https://open.spotify.com/artist/4OSxWbYWRbUZzmkKS6PRM4"
+        }
+      ],
+      "duration_ms": 73034,
+      "name": "Up on the Housetop",
+      "url": "https://open.spotify.com/track/2vGxnEVP4CQXSij7f2Bil9"
     },
     {
       "added_at": "2023-10-06 00:01:00",
@@ -803,38 +835,6 @@
     {
       "added_at": "2023-10-06 00:01:00",
       "album": {
-        "name": "Lost in the stars",
-        "url": "https://open.spotify.com/album/3RzCBEMpRWtRNtrIfLsPSc"
-      },
-      "artists": [
-        {
-          "name": "Flatland Park",
-          "url": "https://open.spotify.com/artist/6xOql32xqR0X46QkNLCzPd"
-        }
-      ],
-      "duration_ms": 183528,
-      "name": "Lost in the stars",
-      "url": "https://open.spotify.com/track/7FGl7mrd84QlQAqNqfonVN"
-    },
-    {
-      "added_at": "2023-10-06 00:01:00",
-      "album": {
-        "name": "Christmas Time",
-        "url": "https://open.spotify.com/album/4O0xBHOwwopsTrx6Jo3MRt"
-      },
-      "artists": [
-        {
-          "name": "Dan Evans-Parker",
-          "url": "https://open.spotify.com/artist/4OSxWbYWRbUZzmkKS6PRM4"
-        }
-      ],
-      "duration_ms": 73034,
-      "name": "Up on the Housetop",
-      "url": "https://open.spotify.com/track/2vGxnEVP4CQXSij7f2Bil9"
-    },
-    {
-      "added_at": "2023-10-06 00:01:00",
-      "album": {
         "name": "Trio 64",
         "url": "https://open.spotify.com/album/4rLPJEiZuhRRswnBGBgVvv"
       },
@@ -863,22 +863,6 @@
       "duration_ms": 250000,
       "name": "O Come, O Come Emmanuel",
       "url": "https://open.spotify.com/track/0GlynfYCzLa4rjZqbJcVyS"
-    },
-    {
-      "added_at": "2023-10-06 00:01:00",
-      "album": {
-        "name": "It's Christmas in New York",
-        "url": "https://open.spotify.com/album/2DmDhBWAZQXULbEPjCtUKI"
-      },
-      "artists": [
-        {
-          "name": "Roddy Doyle Trio",
-          "url": "https://open.spotify.com/artist/2NpfQuA1kHiGx9LHgDx4p3"
-        }
-      ],
-      "duration_ms": 283594,
-      "name": "It's Christmas in New York",
-      "url": "https://open.spotify.com/track/4kfVEaZGZL3AcrcAvsyYNf"
     },
     {
       "added_at": "2023-10-06 00:01:00",
@@ -915,22 +899,6 @@
     {
       "added_at": "2023-10-06 00:01:00",
       "album": {
-        "name": "Go Tell It On The Mountain",
-        "url": "https://open.spotify.com/album/7IbDqi94MtPmiq4eLlZf6i"
-      },
-      "artists": [
-        {
-          "name": "Eltingvilles",
-          "url": "https://open.spotify.com/artist/7qYYtUCPSVXspwRs4wiQ9R"
-        }
-      ],
-      "duration_ms": 150550,
-      "name": "Go Tell It On The Mountain",
-      "url": "https://open.spotify.com/track/2IHJbBiT7v4oR4WXt63yVZ"
-    },
-    {
-      "added_at": "2023-10-06 00:01:00",
-      "album": {
         "name": "Selections From Irving Berlin's White Christmas",
         "url": "https://open.spotify.com/album/5rG6Ih8hHqJ6MX6ml5QiOl"
       },
@@ -955,6 +923,22 @@
       "duration_ms": 163240,
       "name": "Snow",
       "url": "https://open.spotify.com/track/3XTSSKo4x9g2Q3K3UyUOui"
+    },
+    {
+      "added_at": "2023-10-06 00:01:00",
+      "album": {
+        "name": "Go Tell It On The Mountain",
+        "url": "https://open.spotify.com/album/7IbDqi94MtPmiq4eLlZf6i"
+      },
+      "artists": [
+        {
+          "name": "Eltingvilles",
+          "url": "https://open.spotify.com/artist/7qYYtUCPSVXspwRs4wiQ9R"
+        }
+      ],
+      "duration_ms": 150550,
+      "name": "Go Tell It On The Mountain",
+      "url": "https://open.spotify.com/track/2IHJbBiT7v4oR4WXt63yVZ"
     },
     {
       "added_at": "2023-10-06 00:01:00",
@@ -1003,6 +987,22 @@
       "duration_ms": 240200,
       "name": "The Twelve Days of Christmas",
       "url": "https://open.spotify.com/track/0vJXil4qDbtkwXmxo0Rl1T"
+    },
+    {
+      "added_at": "2023-10-06 00:01:00",
+      "album": {
+        "name": "It's Christmas in New York",
+        "url": "https://open.spotify.com/album/2DmDhBWAZQXULbEPjCtUKI"
+      },
+      "artists": [
+        {
+          "name": "Roddy Doyle Trio",
+          "url": "https://open.spotify.com/artist/2NpfQuA1kHiGx9LHgDx4p3"
+        }
+      ],
+      "duration_ms": 283594,
+      "name": "It's Christmas in New York",
+      "url": "https://open.spotify.com/track/4kfVEaZGZL3AcrcAvsyYNf"
     },
     {
       "added_at": "2023-10-06 00:01:00",
@@ -1059,22 +1059,6 @@
     {
       "added_at": "2023-10-06 00:01:00",
       "album": {
-        "name": "Sound Of Christmas",
-        "url": "https://open.spotify.com/album/0YjxIUhLMpx8AitREvQxKl"
-      },
-      "artists": [
-        {
-          "name": "Ramsey Lewis Trio",
-          "url": "https://open.spotify.com/artist/4jZOiPysIzYxbDcDEOZmhu"
-        }
-      ],
-      "duration_ms": 167506,
-      "name": "Christmas Blues",
-      "url": "https://open.spotify.com/track/0KyArXxWFOxjKQOxl0P97i"
-    },
-    {
-      "added_at": "2023-10-06 00:01:00",
-      "album": {
         "name": "Ella Wishes You A Swinging Christmas (Expanded Edition)",
         "url": "https://open.spotify.com/album/2UhPCUgK2IGUrg7lIvMYfb"
       },
@@ -1087,6 +1071,22 @@
       "duration_ms": 165813,
       "name": "The Secret Of Christmas",
       "url": "https://open.spotify.com/track/4JfmVZv6rhWBxKSf7xfe5F"
+    },
+    {
+      "added_at": "2023-10-06 00:01:00",
+      "album": {
+        "name": "Sound Of Christmas",
+        "url": "https://open.spotify.com/album/0YjxIUhLMpx8AitREvQxKl"
+      },
+      "artists": [
+        {
+          "name": "Ramsey Lewis Trio",
+          "url": "https://open.spotify.com/artist/4jZOiPysIzYxbDcDEOZmhu"
+        }
+      ],
+      "duration_ms": 167506,
+      "name": "Christmas Blues",
+      "url": "https://open.spotify.com/track/0KyArXxWFOxjKQOxl0P97i"
     },
     {
       "added_at": "2023-10-06 00:01:00",
@@ -1171,22 +1171,6 @@
     {
       "added_at": "2023-10-06 00:01:00",
       "album": {
-        "name": "When You Wish Upon a Star",
-        "url": "https://open.spotify.com/album/7kQaJ4QC9MrLkwgzDz4yfI"
-      },
-      "artists": [
-        {
-          "name": "Erik Moreau",
-          "url": "https://open.spotify.com/artist/1S08oiBCDKPErHKaJ42YAG"
-        }
-      ],
-      "duration_ms": 167725,
-      "name": "When You Wish Upon a Star",
-      "url": "https://open.spotify.com/track/3W5YtcTpzuf8lwMJ3lUpeq"
-    },
-    {
-      "added_at": "2023-10-06 00:01:00",
-      "album": {
         "name": "When My Heart Finds Christmas",
         "url": "https://open.spotify.com/album/1It3aEvCmT8UvUMmBm5DIV"
       },
@@ -1199,6 +1183,22 @@
       "duration_ms": 220760,
       "name": "Sleigh Ride",
       "url": "https://open.spotify.com/track/3DnYHzeul8cWJDEuTFd79H"
+    },
+    {
+      "added_at": "2023-10-06 00:01:00",
+      "album": {
+        "name": "When You Wish Upon a Star",
+        "url": "https://open.spotify.com/album/7kQaJ4QC9MrLkwgzDz4yfI"
+      },
+      "artists": [
+        {
+          "name": "Erik Moreau",
+          "url": "https://open.spotify.com/artist/1S08oiBCDKPErHKaJ42YAG"
+        }
+      ],
+      "duration_ms": 167725,
+      "name": "When You Wish Upon a Star",
+      "url": "https://open.spotify.com/track/3W5YtcTpzuf8lwMJ3lUpeq"
     },
     {
       "added_at": "2023-10-06 00:01:00",
@@ -1219,18 +1219,18 @@
     {
       "added_at": "2023-10-06 00:01:00",
       "album": {
-        "name": "The Complete Dinah Washington On Mercury Vol. 6 (1958-1960)",
-        "url": "https://open.spotify.com/album/19tw1MckQmVNrGJYcCva7f"
+        "name": "Give love on christmas day",
+        "url": "https://open.spotify.com/album/5JcVL1T06yF9q8CoEsGBM4"
       },
       "artists": [
         {
-          "name": "Dinah Washington",
-          "url": "https://open.spotify.com/artist/32LHRiof0sa4taYew9i3Fa"
+          "name": "Holborns",
+          "url": "https://open.spotify.com/artist/2gC8FqAcOqWElBDNVIHbRm"
         }
       ],
-      "duration_ms": 165160,
-      "name": "Ole Santa",
-      "url": "https://open.spotify.com/track/6MpmfCUaLKb4MsrbmTwRx0"
+      "duration_ms": 201431,
+      "name": "Give love on christmas day",
+      "url": "https://open.spotify.com/track/0dSzcKjA1PWamU3iokaKBc"
     },
     {
       "added_at": "2023-10-06 00:01:00",
@@ -1251,18 +1251,18 @@
     {
       "added_at": "2023-10-06 00:01:00",
       "album": {
-        "name": "Give love on christmas day",
-        "url": "https://open.spotify.com/album/5JcVL1T06yF9q8CoEsGBM4"
+        "name": "The Complete Dinah Washington On Mercury Vol. 6 (1958-1960)",
+        "url": "https://open.spotify.com/album/19tw1MckQmVNrGJYcCva7f"
       },
       "artists": [
         {
-          "name": "Holborns",
-          "url": "https://open.spotify.com/artist/2gC8FqAcOqWElBDNVIHbRm"
+          "name": "Dinah Washington",
+          "url": "https://open.spotify.com/artist/32LHRiof0sa4taYew9i3Fa"
         }
       ],
-      "duration_ms": 201431,
-      "name": "Give love on christmas day",
-      "url": "https://open.spotify.com/track/0dSzcKjA1PWamU3iokaKBc"
+      "duration_ms": 165160,
+      "name": "Ole Santa",
+      "url": "https://open.spotify.com/track/6MpmfCUaLKb4MsrbmTwRx0"
     },
     {
       "added_at": "2023-10-06 00:01:00",

@@ -4,7 +4,7 @@
 
 > Usar la imaginación es la solución de un mundo ideal, ¡Vivan lxs niñxs!
 
-125 songs - 6 hr 9 min
+126 songs - 6 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -114,7 +114,8 @@
 | [Ropa Cara](https://open.spotify.com/track/7BIy3EGQhg98CsRdKYHnJC) | [Camilo](https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N) | [Ropa Cara](https://open.spotify.com/album/02ydUO8KGCVf3WQyCmEh4G) | 2:43 | 2023-04-27 |  |
 | [Sin Miedo](https://open.spotify.com/track/0csMjiZHkLjzktpBNtTlEe) | [Mariana Mallol](https://open.spotify.com/artist/0cQJAFoSWyOndigdmyrYAg), [Edgar Oceransky](https://open.spotify.com/artist/6genEcweKnEZ92TZvdeLFl) | [Agüita De Limón Con Chía](https://open.spotify.com/album/3HEmQgo0sLd9vp1bXAD0Yl) | 2:34 | 2020-07-16 | 2023-04-28 |
 | [Sin Miedo](https://open.spotify.com/track/3pKJorxzBf2Mad3wfm8iGY) | [Mariana Mallol](https://open.spotify.com/artist/0cQJAFoSWyOndigdmyrYAg), [Edgar Oceransky](https://open.spotify.com/artist/6genEcweKnEZ92TZvdeLFl) | [Agüita de Limón Con Chía](https://open.spotify.com/album/5hd7XnjV5mYGkZZlMFrpWx) | 2:34 | 2020-07-16 | 2022-07-29 |
-| [Skibidi Bop Yes Yes](https://open.spotify.com/track/6ESCxPoeASy9bMyRlk6tyu) | [Aesthetic](https://open.spotify.com/artist/4l2S0sGjHE283lwIqjeAU6) | [Skibidi Bop Yes Yes](https://open.spotify.com/album/1DfZkN4JZsBPJayfKTbsQg) | 2:02 | 2023-10-06 |  |
+| [Skibidi Bop Yes Yes](https://open.spotify.com/track/6ESCxPoeASy9bMyRlk6tyu) | [Aesthetic](https://open.spotify.com/artist/4l2S0sGjHE283lwIqjeAU6) | [Skibidi Bop Yes Yes](https://open.spotify.com/album/1DfZkN4JZsBPJayfKTbsQg) | 2:02 | 2023-10-06 | 2023-10-19 |
+| [Skibidi Bop Yes Yes](https://open.spotify.com/track/2tPAo2PHfWmpRZ0iyqOLHC) | [Aesthetic](https://open.spotify.com/artist/4l2S0sGjHE283lwIqjeAU6) | [Skibidi Bop Yes Yes](https://open.spotify.com/album/6Rw4LT1DtBb7uEAptDueyG) | 2:02 | 2023-10-06 |  |
 | [Somewhere Over The Rainbow\_What A Wonderful World](https://open.spotify.com/track/25U7raB3ZSszayTYClh4hF) | [Israel Kamakawiwo'ole](https://open.spotify.com/artist/4ogvuDRerGhZfSf7TtzHlr) | [Facing Future](https://open.spotify.com/album/0pquf1NcG9FdiypBPwICu9) | 5:08 | 2020-07-16 |  |
 | [SÚPER ULTRA MEGA \- REMIX](https://open.spotify.com/track/1PSibdWCcgiYKDBxzY1tw1) | [Picus](https://open.spotify.com/artist/2BUqEy3gCJYDKmKqV06Ojt), [Aczino](https://open.spotify.com/artist/4r1ZDYKzPt3iIjuq8LbT6X) | [SÚPER ULTRA MEGA \(REMIX\)](https://open.spotify.com/album/4OyvI0yMs7TZhs9Iaqc9xu) | 3:08 | 2023-09-29 |  |
 | [The Bath Song](https://open.spotify.com/track/290sqGHEc7pIDzUPzSPYhQ) | [Super Simple Songs](https://open.spotify.com/artist/7CdGfkCRgPhElnqy3HPJ4a) | [The Bath Song & More Kids Songs](https://open.spotify.com/album/5NCGJqs3KjGNEvSFwsfmYn) | 2:01 | 2020-07-16 | 2022-07-29 |

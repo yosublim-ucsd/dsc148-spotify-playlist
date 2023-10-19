@@ -1,13 +1,189 @@
 {
-  "description": "The best new indie tracks from independent artists & labels. Updates every Wednesday. Cover: juju <3",
-  "num_followers": 191239,
+  "description": "The best new indie tracks from independent artists & labels. Updates every Wednesday. Cover: Meernaa <3",
+  "num_followers": 191434,
   "original_name": "Fresh Finds Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyZjY2MzdlYTYzYmU4ZmY1YTVhMjMxYTkwNmRjOTM5MzQzYzY0YTQz",
+  "snapshot_id": "MCw4ZGU2NTE5ZDlkM2FiMjQ2ZjBjMWEzNDg5OTFkYzc5MWRhM2VhMTVm",
   "tracks": [
+    {
+      "added_at": "2023-10-18 16:00:00",
+      "album": {
+        "name": "parksl1de",
+        "url": "https://open.spotify.com/album/6odSUA92ZVFgddNCaoK7uD"
+      },
+      "artists": [
+        {
+          "name": "Niko Rose",
+          "url": "https://open.spotify.com/artist/5HkHTiICQl3TDWanA5fWSe"
+        }
+      ],
+      "duration_ms": 178500,
+      "name": "parksl1de",
+      "url": "https://open.spotify.com/track/6ZmxsRqafcd04TyqPBG4s8"
+    },
+    {
+      "added_at": "2023-10-18 16:00:00",
+      "album": {
+        "name": "We're All Doomed",
+        "url": "https://open.spotify.com/album/5OZpJo9ewYsm3IO065g2k8"
+      },
+      "artists": [
+        {
+          "name": "Shallow Alcove",
+          "url": "https://open.spotify.com/artist/2hEZUJYO26jhMzfw0ZzrCj"
+        }
+      ],
+      "duration_ms": 150216,
+      "name": "We're All Doomed",
+      "url": "https://open.spotify.com/track/59x5vIkySAo7s8Y8i1itg0"
+    },
+    {
+      "added_at": "2023-10-18 16:00:00",
+      "album": {
+        "name": "Sundress in Pink",
+        "url": "https://open.spotify.com/album/43PbB016JRdJJMDcx2iKPN"
+      },
+      "artists": [
+        {
+          "name": "Viji",
+          "url": "https://open.spotify.com/artist/5T8jStToPqlBhbVU5WNHvi"
+        }
+      ],
+      "duration_ms": 244693,
+      "name": "Sundress in Pink",
+      "url": "https://open.spotify.com/track/07WaqrTjIPtddp5UsvRfHm"
+    },
+    {
+      "added_at": "2023-10-11 04:00:00",
+      "album": {
+        "name": "Bhuta Kala",
+        "url": "https://open.spotify.com/album/1L8ulFB7FYlglGlIKMns6v"
+      },
+      "artists": [
+        {
+          "name": "Meernaa",
+          "url": "https://open.spotify.com/artist/6x8L59xNfuXIM7UfzoSe7g"
+        }
+      ],
+      "duration_ms": 219634,
+      "name": "Bhuta Kala",
+      "url": "https://open.spotify.com/track/5kM9HjvFKnENXfkNdvFdyJ"
+    },
+    {
+      "added_at": "2023-10-18 16:00:00",
+      "album": {
+        "name": "yours",
+        "url": "https://open.spotify.com/album/54KPFMRiZhWtMi5xTHMUJx"
+      },
+      "artists": [
+        {
+          "name": "Lilliana Villines",
+          "url": "https://open.spotify.com/artist/7mwH4AsIARONjitvPlyxYL"
+        }
+      ],
+      "duration_ms": 245683,
+      "name": "yours",
+      "url": "https://open.spotify.com/track/4j6RYwJbMednbstihgPC06"
+    },
+    {
+      "added_at": "2023-10-18 16:00:00",
+      "album": {
+        "name": "LNR_(05)",
+        "url": "https://open.spotify.com/album/6JA89WIIdzbh1ItRkOvSZd"
+      },
+      "artists": [
+        {
+          "name": "Killer Bee",
+          "url": "https://open.spotify.com/artist/6XXPLVj62lsUtiyDZvTXKz"
+        }
+      ],
+      "duration_ms": 343448,
+      "name": "july 7th",
+      "url": "https://open.spotify.com/track/4Uct80Jkq8zltB3N8sl8Tw"
+    },
+    {
+      "added_at": "2023-10-18 16:00:00",
+      "album": {
+        "name": "Sinkhole",
+        "url": "https://open.spotify.com/album/1WP8FICPGXr83uOcXYte8h"
+      },
+      "artists": [
+        {
+          "name": "Vanillaroma",
+          "url": "https://open.spotify.com/artist/3tTYiqgqmGlr2tfujTR7P7"
+        }
+      ],
+      "duration_ms": 265090,
+      "name": "Sinkhole",
+      "url": "https://open.spotify.com/track/4ShRQ97AgYPkFodnJJH5Qk"
+    },
+    {
+      "added_at": "2023-10-18 16:00:00",
+      "album": {
+        "name": "my sweet caroline",
+        "url": "https://open.spotify.com/album/1VZwYmyVauqNYZYTmADI84"
+      },
+      "artists": [
+        {
+          "name": "Godly the Ruler",
+          "url": "https://open.spotify.com/artist/2zdyZ3Dk59W2RKwAvGioLp"
+        }
+      ],
+      "duration_ms": 185105,
+      "name": "my sweet caroline",
+      "url": "https://open.spotify.com/track/41FPk5C1XcGEYIpTHVoCO5"
+    },
+    {
+      "added_at": "2023-10-18 16:00:00",
+      "album": {
+        "name": "material love",
+        "url": "https://open.spotify.com/album/2sMe78Ow9ESixdeztkc7wz"
+      },
+      "artists": [
+        {
+          "name": "Jontha Links",
+          "url": "https://open.spotify.com/artist/7Ln3gaFhj7V95vXvKH0wXq"
+        }
+      ],
+      "duration_ms": 137851,
+      "name": "monterey",
+      "url": "https://open.spotify.com/track/20NHpOCAdCtFwJLqi3YJGu"
+    },
+    {
+      "added_at": "2023-10-11 04:00:00",
+      "album": {
+        "name": "Clean Sheets, Dirty Walls",
+        "url": "https://open.spotify.com/album/1XBXF77YB5WTnLAkfFMwkM"
+      },
+      "artists": [
+        {
+          "name": "Cleffy",
+          "url": "https://open.spotify.com/artist/0Dd84sfPxs6Aj0PjlCM1P7"
+        }
+      ],
+      "duration_ms": 172137,
+      "name": "Meet you at the Graveyard",
+      "url": "https://open.spotify.com/track/5wQyLDy36ihxX69E7JBi4L"
+    },
+    {
+      "added_at": "2023-10-18 16:00:00",
+      "album": {
+        "name": "Favorite Things",
+        "url": "https://open.spotify.com/album/4Xg9ew4eWpx4K1eji1GrWk"
+      },
+      "artists": [
+        {
+          "name": "Sonya",
+          "url": "https://open.spotify.com/artist/1sxq3PHS2sb0jQhAQRv3TA"
+        }
+      ],
+      "duration_ms": 165600,
+      "name": "Favorite Things",
+      "url": "https://open.spotify.com/track/6ivV6lAQxm1W3YfrHHSmqQ"
+    },
     {
       "added_at": "2023-10-11 04:00:00",
       "album": {
@@ -23,6 +199,22 @@
       "duration_ms": 217043,
       "name": "Drippy",
       "url": "https://open.spotify.com/track/755B9iJfPLGCNTcdrfFVbp"
+    },
+    {
+      "added_at": "2023-10-18 16:00:00",
+      "album": {
+        "name": "Late Bloomer",
+        "url": "https://open.spotify.com/album/65Z6Dh0SUNZwUcdr9gISck"
+      },
+      "artists": [
+        {
+          "name": "TOMI",
+          "url": "https://open.spotify.com/artist/4FUg6Smq0DbieQJyg1AwXz"
+        }
+      ],
+      "duration_ms": 263668,
+      "name": "There I Go",
+      "url": "https://open.spotify.com/track/5U6sVlbJDUWSeMsPjedzkH"
     },
     {
       "added_at": "2023-10-11 04:00:00",
@@ -75,22 +267,6 @@
     {
       "added_at": "2023-10-11 04:00:00",
       "album": {
-        "name": "Clean Sheets, Dirty Walls",
-        "url": "https://open.spotify.com/album/1XBXF77YB5WTnLAkfFMwkM"
-      },
-      "artists": [
-        {
-          "name": "Cleffy",
-          "url": "https://open.spotify.com/artist/0Dd84sfPxs6Aj0PjlCM1P7"
-        }
-      ],
-      "duration_ms": 172137,
-      "name": "Meet you at the Graveyard",
-      "url": "https://open.spotify.com/track/5wQyLDy36ihxX69E7JBi4L"
-    },
-    {
-      "added_at": "2023-10-11 04:00:00",
-      "album": {
         "name": "Hang Up the Lights",
         "url": "https://open.spotify.com/album/2BA3GdQiKcy2OWSo18Otfb"
       },
@@ -103,6 +279,22 @@
       "duration_ms": 160437,
       "name": "Hang Up The Lights",
       "url": "https://open.spotify.com/track/6sHsMK1llm2ZbBBCzGG54k"
+    },
+    {
+      "added_at": "2023-10-11 04:00:00",
+      "album": {
+        "name": "Literally Everything",
+        "url": "https://open.spotify.com/album/2RWaMFc1WUYsRSAYXJkPSQ"
+      },
+      "artists": [
+        {
+          "name": "Brimheim",
+          "url": "https://open.spotify.com/artist/2ROf9t2bzHTnVuf8btRd5J"
+        }
+      ],
+      "duration_ms": 230199,
+      "name": "Literally Everything",
+      "url": "https://open.spotify.com/track/37jWqtfx6iMJzmxQM0vkul"
     },
     {
       "added_at": "2023-10-11 04:00:00",
@@ -271,22 +463,6 @@
       "duration_ms": 159852,
       "name": "Shove",
       "url": "https://open.spotify.com/track/3zY86yn3L9l2OvDaVju6iP"
-    },
-    {
-      "added_at": "2023-10-11 04:00:00",
-      "album": {
-        "name": "Bhuta Kala",
-        "url": "https://open.spotify.com/album/1L8ulFB7FYlglGlIKMns6v"
-      },
-      "artists": [
-        {
-          "name": "Meernaa",
-          "url": "https://open.spotify.com/artist/6x8L59xNfuXIM7UfzoSe7g"
-        }
-      ],
-      "duration_ms": 219634,
-      "name": "Bhuta Kala",
-      "url": "https://open.spotify.com/track/5kM9HjvFKnENXfkNdvFdyJ"
     },
     {
       "added_at": "2023-10-11 04:00:00",
@@ -687,22 +863,6 @@
       "duration_ms": 193187,
       "name": "Can you see it?",
       "url": "https://open.spotify.com/track/113iuXZRpOqrvHtRNWdQfG"
-    },
-    {
-      "added_at": "2023-10-11 04:00:00",
-      "album": {
-        "name": "Literally Everything",
-        "url": "https://open.spotify.com/album/2RWaMFc1WUYsRSAYXJkPSQ"
-      },
-      "artists": [
-        {
-          "name": "Brimheim",
-          "url": "https://open.spotify.com/artist/2ROf9t2bzHTnVuf8btRd5J"
-        }
-      ],
-      "duration_ms": 230199,
-      "name": "Literally Everything",
-      "url": "https://open.spotify.com/track/37jWqtfx6iMJzmxQM0vkul"
     },
     {
       "added_at": "2023-10-11 04:00:00",
@@ -1491,170 +1651,6 @@
       "duration_ms": 188885,
       "name": "Love On Your Side",
       "url": "https://open.spotify.com/track/78lUOrSoLCeran06lDIgfK"
-    },
-    {
-      "added_at": "2023-10-11 04:00:00",
-      "album": {
-        "name": "You Mystery",
-        "url": "https://open.spotify.com/album/05qYRLzx3g18ikJyCkE66b"
-      },
-      "artists": [
-        {
-          "name": "Dog Door",
-          "url": "https://open.spotify.com/artist/0HFSEAMwDryJdG23Pg28xt"
-        }
-      ],
-      "duration_ms": 322026,
-      "name": "You Mystery",
-      "url": "https://open.spotify.com/track/1esiDQEngT2DLHCoLpk56f"
-    },
-    {
-      "added_at": "2023-10-11 04:00:00",
-      "album": {
-        "name": "Celebrity Lookalikes",
-        "url": "https://open.spotify.com/album/7kr8yMXMcL6SPSZ7F8CYmu"
-      },
-      "artists": [
-        {
-          "name": "slimdan",
-          "url": "https://open.spotify.com/artist/4rBmgPisz2KuN6czxDpIcu"
-        }
-      ],
-      "duration_ms": 212458,
-      "name": "Celebrity Lookalikes",
-      "url": "https://open.spotify.com/track/37hpqDnpVrfRcJYab1XWFc"
-    },
-    {
-      "added_at": "2023-10-11 04:00:00",
-      "album": {
-        "name": "Around Around Around",
-        "url": "https://open.spotify.com/album/2MYklOw9nV8QDGB3AZM51P"
-      },
-      "artists": [
-        {
-          "name": "chokecherry",
-          "url": "https://open.spotify.com/artist/6FO0bkcJ4D8MJ1REvBRhNT"
-        }
-      ],
-      "duration_ms": 321460,
-      "name": "Around Around Around",
-      "url": "https://open.spotify.com/track/7zOeMbT1C2YmJ37Hlyzp2p"
-    },
-    {
-      "added_at": "2023-10-11 04:00:00",
-      "album": {
-        "name": "Whole Heart (2023)",
-        "url": "https://open.spotify.com/album/2aF3eJMOofdk9P6iuQrPqN"
-      },
-      "artists": [
-        {
-          "name": "People Museum",
-          "url": "https://open.spotify.com/artist/3av11PJ8Vn3kWtvJQ7QIzq"
-        }
-      ],
-      "duration_ms": 178301,
-      "name": "Whole Heart - 2023",
-      "url": "https://open.spotify.com/track/4tDJdSYtvqYx9cEfNWx2xe"
-    },
-    {
-      "added_at": "2023-10-11 04:00:00",
-      "album": {
-        "name": "Nothing Left To Lose",
-        "url": "https://open.spotify.com/album/7bafTSha7WTSmnjwtxPAHW"
-      },
-      "artists": [
-        {
-          "name": "Bleach Lab",
-          "url": "https://open.spotify.com/artist/2B70zWgfCAGQ8o2ImS2bH8"
-        }
-      ],
-      "duration_ms": 198767,
-      "name": "Nothing Left To Lose",
-      "url": "https://open.spotify.com/track/7KoTMZi3QqWlsq1Nve63tR"
-    },
-    {
-      "added_at": "2023-10-11 04:00:00",
-      "album": {
-        "name": "Day in the Tub",
-        "url": "https://open.spotify.com/album/33h4pfrqDbnt9KgmhmPkk4"
-      },
-      "artists": [
-        {
-          "name": "Muma Ganoush",
-          "url": "https://open.spotify.com/artist/6jUyPfelDmD3AuNhAJWP3j"
-        }
-      ],
-      "duration_ms": 189962,
-      "name": "Day in the Tub",
-      "url": "https://open.spotify.com/track/0a1gRc7rZrklbZYHZ7lj0Q"
-    },
-    {
-      "added_at": "2023-10-11 04:00:00",
-      "album": {
-        "name": "Swimming Pool",
-        "url": "https://open.spotify.com/album/6ixzzzRuELqypzHlqhR6SD"
-      },
-      "artists": [
-        {
-          "name": "Shane T",
-          "url": "https://open.spotify.com/artist/1NOjRg9eVRh2kQ5HFoME1X"
-        }
-      ],
-      "duration_ms": 200501,
-      "name": "Swimming Pool",
-      "url": "https://open.spotify.com/track/6VBWStlrhtYvuLPbO12NX5"
-    },
-    {
-      "added_at": "2023-10-11 04:00:00",
-      "album": {
-        "name": "Just Stay For Once",
-        "url": "https://open.spotify.com/album/0CkS4LqIzZO5YOU1eMDOM5"
-      },
-      "artists": [
-        {
-          "name": "Imani Graham",
-          "url": "https://open.spotify.com/artist/3z3RfAKT2rmzCfPoXSKfEA"
-        }
-      ],
-      "duration_ms": 216774,
-      "name": "Just Stay For Once",
-      "url": "https://open.spotify.com/track/1Kaimjtef03VF7AQDLmwQ9"
-    },
-    {
-      "added_at": "2023-10-11 04:00:00",
-      "album": {
-        "name": "Pressure",
-        "url": "https://open.spotify.com/album/1pX9EsEOwkenls3ZZ37p70"
-      },
-      "artists": [
-        {
-          "name": "Miina",
-          "url": "https://open.spotify.com/artist/2be45mouasgEeyH4Tgm4fB"
-        },
-        {
-          "name": "Carmanah",
-          "url": "https://open.spotify.com/artist/6JThhhe0e1F4wFnsJpn8AS"
-        }
-      ],
-      "duration_ms": 169235,
-      "name": "Pressure",
-      "url": "https://open.spotify.com/track/1idPrmJk9PlmFsupge2Xrf"
-    },
-    {
-      "added_at": "2023-10-11 04:00:00",
-      "album": {
-        "name": "tattoos and jeans",
-        "url": "https://open.spotify.com/album/5oLvVoNLrYcrvz3jHh2Vuy"
-      },
-      "artists": [
-        {
-          "name": "Jackson Marshall",
-          "url": "https://open.spotify.com/artist/4sabxefSr7gXnTA6Lv3ILl"
-        }
-      ],
-      "duration_ms": 177940,
-      "name": "tattoos and jeans",
-      "url": "https://open.spotify.com/track/0yeKMJtAUmiIhoOL4IS6DJ"
     }
   ],
   "unique_name": "Fresh Finds Indie",

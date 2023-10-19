@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34lqLRYWFxq.md) - [plain]
 
 > What's new in Rock this week\. Cover: Metric
 
-[Spotify](https://open.spotify.com/user/spotify) - 49,418 likes - 100 songs - 5 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 49,439 likes - 100 songs - 5 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34lqLRYWFxq.md) - [plain]
 | 99 | [We Want It All](https://open.spotify.com/track/6hggw174msZ3VnkjJAUWlR) | [Raygun Cowboys](https://open.spotify.com/artist/2UKtH8VoQ4nJl77F9pBf9U) | [We Want It All](https://open.spotify.com/album/6Nj5gwr96LKpb64BxfMr1D) | 3:26 |
 | 100 | [Cállate La Jeta](https://open.spotify.com/track/0WLwP80H5RY2hZadXvigVI) | [Pelada](https://open.spotify.com/artist/1cUt6hBRKlav4TIgjopnHC) | [Ahora Más Que Nunca](https://open.spotify.com/album/4d8QiBKAKY2hhJ5YBQTHPI) | 1:53 |
 
-Snapshot ID: `MCwxYTRmMDgwNDA3ZDgyOWNlYzA0ZTYxYTNjNTAzZDhhYjQzNTUzMTM1`
+Snapshot ID: `MCwxNmJjMzI0MjNiMjIxNGM5ZTIwMDFlOGFiZTQxYzU0MDI4MjI5MDc4`

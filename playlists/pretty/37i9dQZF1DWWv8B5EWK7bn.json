@@ -1,12 +1,12 @@
 {
   "description": "Oblique: Angular. Asymmetrical. Experimental.",
-  "num_followers": 167926,
+  "num_followers": 167996,
   "original_name": "Oblique",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyODE3ZjY0NWFkYTZiMjc0YjRlNmVjMTAyZDg3Y2ViYzQzZTA1MDNh",
+  "snapshot_id": "MCw5NWI4YjdlMWY3ODIyZGZmNzdlNjhlYmIxMmRmYTY3Njg3YzY0Mzdk",
   "tracks": [
     {
       "added_at": "2023-10-10 00:48:29",
@@ -229,30 +229,6 @@
       "url": "https://open.spotify.com/track/7liCZGCeSyqcDRKhdlglHW"
     },
     {
-      "added_at": "2022-09-29 00:57:24",
-      "album": {
-        "name": "Meditations on Crime",
-        "url": "https://open.spotify.com/album/2AUXeLSBLzeoFjN1eLFi5p"
-      },
-      "artists": [
-        {
-          "name": "Meditations on Crime",
-          "url": "https://open.spotify.com/artist/6ggsYambXUenZL9Y8HeWXB"
-        },
-        {
-          "name": "Gang Gang Dance",
-          "url": "https://open.spotify.com/artist/6UU6YXQaFGQToWN6U28Dcb"
-        },
-        {
-          "name": "Harper Simon",
-          "url": "https://open.spotify.com/artist/4fFL1ARvUJCoaZ3HK4SxdE"
-        }
-      ],
-      "duration_ms": 213159,
-      "name": "Crime Seed",
-      "url": "https://open.spotify.com/track/5vyoWTsI8hVl9fJHqW2ieb"
-    },
-    {
       "added_at": "2023-09-25 03:39:17",
       "album": {
         "name": "Sorry I Haven't Called",
@@ -283,6 +259,30 @@
       "duration_ms": 240250,
       "name": "setar rock",
       "url": "https://open.spotify.com/track/6MvywXbpxt5tYk1a5cA0rb"
+    },
+    {
+      "added_at": "2022-09-29 00:57:24",
+      "album": {
+        "name": "Meditations on Crime",
+        "url": "https://open.spotify.com/album/2AUXeLSBLzeoFjN1eLFi5p"
+      },
+      "artists": [
+        {
+          "name": "Meditations on Crime",
+          "url": "https://open.spotify.com/artist/6ggsYambXUenZL9Y8HeWXB"
+        },
+        {
+          "name": "Gang Gang Dance",
+          "url": "https://open.spotify.com/artist/6UU6YXQaFGQToWN6U28Dcb"
+        },
+        {
+          "name": "Harper Simon",
+          "url": "https://open.spotify.com/artist/4fFL1ARvUJCoaZ3HK4SxdE"
+        }
+      ],
+      "duration_ms": 213159,
+      "name": "Crime Seed",
+      "url": "https://open.spotify.com/track/5vyoWTsI8hVl9fJHqW2ieb"
     },
     {
       "added_at": "2021-10-06 20:23:10",
@@ -401,22 +401,6 @@
       "url": "https://open.spotify.com/track/546luzeHBxdcU8YZmOs6ph"
     },
     {
-      "added_at": "2023-06-07 23:32:59",
-      "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/2lGT7K0SQyk4c9jB1cddAM"
-      },
-      "artists": [
-        {
-          "name": "Madison Cunningham",
-          "url": "https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL"
-        }
-      ],
-      "duration_ms": 289461,
-      "name": "Army Of Me - Spotify Single",
-      "url": "https://open.spotify.com/track/1tE9hcCoX2CcSSqS78MAZt"
-    },
-    {
       "added_at": "2022-08-02 14:49:54",
       "album": {
         "name": "\u00a1Ay!",
@@ -431,6 +415,22 @@
       "duration_ms": 215296,
       "name": "No tiempo",
       "url": "https://open.spotify.com/track/28rXyBF4c6ziSoiY6QDcZO"
+    },
+    {
+      "added_at": "2023-06-07 23:32:59",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/2lGT7K0SQyk4c9jB1cddAM"
+      },
+      "artists": [
+        {
+          "name": "Madison Cunningham",
+          "url": "https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL"
+        }
+      ],
+      "duration_ms": 289461,
+      "name": "Army Of Me - Spotify Single",
+      "url": "https://open.spotify.com/track/1tE9hcCoX2CcSSqS78MAZt"
     },
     {
       "added_at": "2022-01-14 00:51:04",
@@ -553,22 +553,6 @@
       "url": "https://open.spotify.com/track/6H6NwvDmPVk0VvHRfA6cYs"
     },
     {
-      "added_at": "2023-01-04 00:57:30",
-      "album": {
-        "name": "Classic Objects",
-        "url": "https://open.spotify.com/album/71T5vyKWwbd4oUPfDpyNwb"
-      },
-      "artists": [
-        {
-          "name": "Jenny Hval",
-          "url": "https://open.spotify.com/artist/5eerVxtb9lY9p6D7m89Bs7"
-        }
-      ],
-      "duration_ms": 362428,
-      "name": "American Coffee",
-      "url": "https://open.spotify.com/track/2ywyJsQa0vew5YEbAr7Jgr"
-    },
-    {
       "added_at": "2023-08-08 03:45:10",
       "album": {
         "name": "Highlight",
@@ -583,6 +567,22 @@
       "duration_ms": 197500,
       "name": "Highlight",
       "url": "https://open.spotify.com/track/2GF0rZItoo3ptwCjiwShBa"
+    },
+    {
+      "added_at": "2023-01-04 00:57:30",
+      "album": {
+        "name": "Classic Objects",
+        "url": "https://open.spotify.com/album/71T5vyKWwbd4oUPfDpyNwb"
+      },
+      "artists": [
+        {
+          "name": "Jenny Hval",
+          "url": "https://open.spotify.com/artist/5eerVxtb9lY9p6D7m89Bs7"
+        }
+      ],
+      "duration_ms": 362428,
+      "name": "American Coffee",
+      "url": "https://open.spotify.com/track/2ywyJsQa0vew5YEbAr7Jgr"
     },
     {
       "added_at": "2022-09-29 00:40:57",
@@ -601,22 +601,6 @@
       "url": "https://open.spotify.com/track/4yOYFgVepcDq7DFMYXP4bc"
     },
     {
-      "added_at": "2023-06-26 14:17:57",
-      "album": {
-        "name": "humanus",
-        "url": "https://open.spotify.com/album/25EsLeJ28Rc2IyLxsYHsuN"
-      },
-      "artists": [
-        {
-          "name": "uh",
-          "url": "https://open.spotify.com/artist/4n7lSZu4GHj14pk4kPbPTu"
-        }
-      ],
-      "duration_ms": 425036,
-      "name": "attention",
-      "url": "https://open.spotify.com/track/48jMC9ZKe8SCCZqgg0MZnB"
-    },
-    {
       "added_at": "2021-10-06 20:23:10",
       "album": {
         "name": "Second Spring OST",
@@ -631,6 +615,22 @@
       "duration_ms": 151022,
       "name": "Highway Brain Planet (Credits)",
       "url": "https://open.spotify.com/track/7BGPolTJ1ptq3zxGIf64yR"
+    },
+    {
+      "added_at": "2023-06-26 14:17:57",
+      "album": {
+        "name": "humanus",
+        "url": "https://open.spotify.com/album/25EsLeJ28Rc2IyLxsYHsuN"
+      },
+      "artists": [
+        {
+          "name": "uh",
+          "url": "https://open.spotify.com/artist/4n7lSZu4GHj14pk4kPbPTu"
+        }
+      ],
+      "duration_ms": 425036,
+      "name": "attention",
+      "url": "https://open.spotify.com/track/48jMC9ZKe8SCCZqgg0MZnB"
     },
     {
       "added_at": "2023-03-23 20:08:51",
@@ -893,22 +893,6 @@
       "url": "https://open.spotify.com/track/29Tr5faNVWpHHaN2JytX98"
     },
     {
-      "added_at": "2023-09-25 01:38:39",
-      "album": {
-        "name": "The Path",
-        "url": "https://open.spotify.com/album/4M9jgmeKLEpX615dHJ72Ey"
-      },
-      "artists": [
-        {
-          "name": "Belbury Poly",
-          "url": "https://open.spotify.com/artist/0CiNWo5EYXqsHrRkmEBgSB"
-        }
-      ],
-      "duration_ms": 262560,
-      "name": "The Path",
-      "url": "https://open.spotify.com/track/4oxYyTVMHCt9PJkr92Wu4V"
-    },
-    {
       "added_at": "2021-10-06 20:23:10",
       "album": {
         "name": "Ookii Gekkou",
@@ -923,6 +907,22 @@
       "duration_ms": 290373,
       "name": "Big Moonlight (Ookii Gekkou)",
       "url": "https://open.spotify.com/track/343FRF9gbsQRFesy9H2V5M"
+    },
+    {
+      "added_at": "2023-09-25 01:38:39",
+      "album": {
+        "name": "The Path",
+        "url": "https://open.spotify.com/album/4M9jgmeKLEpX615dHJ72Ey"
+      },
+      "artists": [
+        {
+          "name": "Belbury Poly",
+          "url": "https://open.spotify.com/artist/0CiNWo5EYXqsHrRkmEBgSB"
+        }
+      ],
+      "duration_ms": 262560,
+      "name": "The Path",
+      "url": "https://open.spotify.com/track/4oxYyTVMHCt9PJkr92Wu4V"
     },
     {
       "added_at": "2022-08-31 05:00:32",
@@ -1185,6 +1185,22 @@
       "url": "https://open.spotify.com/track/2W0eN3BqaBz4WeInKnQmCR"
     },
     {
+      "added_at": "2023-01-07 04:00:59",
+      "album": {
+        "name": "Prize",
+        "url": "https://open.spotify.com/album/0EMnfWB37amlYLEuQzoV3k"
+      },
+      "artists": [
+        {
+          "name": "Rozi Plain",
+          "url": "https://open.spotify.com/artist/2plHc7V92yXf40BD8lQl2x"
+        }
+      ],
+      "duration_ms": 253013,
+      "name": "Painted the Room",
+      "url": "https://open.spotify.com/track/24IXYn8kl7J2E5pByVQHuj"
+    },
+    {
       "added_at": "2023-06-26 14:24:59",
       "album": {
         "name": "Island Family (Deluxe Edition)",
@@ -1203,22 +1219,6 @@
       "duration_ms": 269399,
       "name": "Island Family - uh Remix",
       "url": "https://open.spotify.com/track/6OpTAE9fOLxYzQMMSWyo0s"
-    },
-    {
-      "added_at": "2023-01-07 04:00:59",
-      "album": {
-        "name": "Prize",
-        "url": "https://open.spotify.com/album/0EMnfWB37amlYLEuQzoV3k"
-      },
-      "artists": [
-        {
-          "name": "Rozi Plain",
-          "url": "https://open.spotify.com/artist/2plHc7V92yXf40BD8lQl2x"
-        }
-      ],
-      "duration_ms": 253013,
-      "name": "Painted the Room",
-      "url": "https://open.spotify.com/track/24IXYn8kl7J2E5pByVQHuj"
     },
     {
       "added_at": "2023-06-02 00:24:20",
@@ -1337,20 +1337,24 @@
       "url": "https://open.spotify.com/track/2gbExwEbhJtlrL9q1d7k9T"
     },
     {
-      "added_at": "2022-08-13 01:40:58",
+      "added_at": "2023-01-20 04:21:17",
       "album": {
-        "name": "NIGHT CRAWLING",
-        "url": "https://open.spotify.com/album/2r1nEJHd2dvPfpSMnpNZRm"
+        "name": "MERCY",
+        "url": "https://open.spotify.com/album/0kRucvv6YTD7EJ0jduNmD0"
       },
       "artists": [
         {
           "name": "John Cale",
           "url": "https://open.spotify.com/artist/5MWBg16f5UYiaSlyVhzlIW"
+        },
+        {
+          "name": "Tei Shi",
+          "url": "https://open.spotify.com/artist/1xcMOgFUM1IYZE22YjCvsL"
         }
       ],
-      "duration_ms": 293706,
-      "name": "NIGHT CRAWLING",
-      "url": "https://open.spotify.com/track/1mSYUtXT32YJZg2cALSq0O"
+      "duration_ms": 315213,
+      "name": "I KNOW YOU'RE HAPPY",
+      "url": "https://open.spotify.com/track/1CqVFbRdk0DbvRsW5Dx5Cr"
     },
     {
       "added_at": "2022-08-19 01:53:48",
@@ -1493,24 +1497,20 @@
       "url": "https://open.spotify.com/track/5ZRDV496C5qfNwfrC5yUQb"
     },
     {
-      "added_at": "2023-01-20 04:21:17",
+      "added_at": "2022-08-13 01:40:58",
       "album": {
-        "name": "MERCY",
-        "url": "https://open.spotify.com/album/0kRucvv6YTD7EJ0jduNmD0"
+        "name": "NIGHT CRAWLING",
+        "url": "https://open.spotify.com/album/2r1nEJHd2dvPfpSMnpNZRm"
       },
       "artists": [
         {
           "name": "John Cale",
           "url": "https://open.spotify.com/artist/5MWBg16f5UYiaSlyVhzlIW"
-        },
-        {
-          "name": "Tei Shi",
-          "url": "https://open.spotify.com/artist/1xcMOgFUM1IYZE22YjCvsL"
         }
       ],
-      "duration_ms": 315213,
-      "name": "I KNOW YOU'RE HAPPY",
-      "url": "https://open.spotify.com/track/1CqVFbRdk0DbvRsW5Dx5Cr"
+      "duration_ms": 293706,
+      "name": "NIGHT CRAWLING",
+      "url": "https://open.spotify.com/track/1mSYUtXT32YJZg2cALSq0O"
     },
     {
       "added_at": "2021-10-15 03:46:13",
@@ -1589,6 +1589,30 @@
       "url": "https://open.spotify.com/track/29BjIHydGjxdCiUSTftFTg"
     },
     {
+      "added_at": "2022-03-11 06:40:47",
+      "album": {
+        "name": "SEIM",
+        "url": "https://open.spotify.com/album/2417iYb0cUeCNgshb6wTz8"
+      },
+      "artists": [
+        {
+          "name": "QUINQUIS",
+          "url": "https://open.spotify.com/artist/10FKxn7w2iNuFkI0uKm9KH"
+        },
+        {
+          "name": "Gareth Jones",
+          "url": "https://open.spotify.com/artist/1W9zmk9JQsQaKSpphFHkUV"
+        },
+        {
+          "name": "\u00d3lavur J\u00e1kupsson",
+          "url": "https://open.spotify.com/artist/0gfdV2BOENhfosiHzk0MCG"
+        }
+      ],
+      "duration_ms": 311533,
+      "name": "Run (feat. Gareth Jones & \u00d3lavur J\u00e1kupsson)",
+      "url": "https://open.spotify.com/track/0JOiqhfNPuIsNUBJpsPdPy"
+    },
+    {
       "added_at": "2022-03-11 04:34:08",
       "album": {
         "name": "P.O.N",
@@ -1651,30 +1675,6 @@
       "duration_ms": 316413,
       "name": "Big Appetite",
       "url": "https://open.spotify.com/track/7Jvh5sZpSvxs8qLw5bUIsM"
-    },
-    {
-      "added_at": "2022-03-11 06:40:47",
-      "album": {
-        "name": "SEIM",
-        "url": "https://open.spotify.com/album/2417iYb0cUeCNgshb6wTz8"
-      },
-      "artists": [
-        {
-          "name": "QUINQUIS",
-          "url": "https://open.spotify.com/artist/10FKxn7w2iNuFkI0uKm9KH"
-        },
-        {
-          "name": "Gareth Jones",
-          "url": "https://open.spotify.com/artist/1W9zmk9JQsQaKSpphFHkUV"
-        },
-        {
-          "name": "\u00d3lavur J\u00e1kupsson",
-          "url": "https://open.spotify.com/artist/0gfdV2BOENhfosiHzk0MCG"
-        }
-      ],
-      "duration_ms": 311533,
-      "name": "Run (feat. Gareth Jones & \u00d3lavur J\u00e1kupsson)",
-      "url": "https://open.spotify.com/track/0JOiqhfNPuIsNUBJpsPdPy"
     },
     {
       "added_at": "2022-09-29 01:39:00",

@@ -1,12 +1,12 @@
 {
   "description": "Entspannung pur oder viel los? Hier findest du die passenden Beats f\u00fcr deine Pl\u00e4ne!",
-  "num_followers": 492817,
+  "num_followers": 492816,
   "original_name": "Wochenende",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3NjRhOGQ3MGZjY2RkNWViZDQzNDQ1MjU1MDkzMzliZWM1ZmMxYTA2",
+  "snapshot_id": "MCw4MGZjNTUxODA2OTE4Yjk5NzdhNzdmYmU0NTYyZDk5ODk5MjY3NDU4",
   "tracks": [
     {
       "added_at": "2023-10-13 08:00:00",
@@ -267,22 +267,6 @@
     {
       "added_at": "2023-10-13 08:00:00",
       "album": {
-        "name": "Padam Padam",
-        "url": "https://open.spotify.com/album/7vH3G0c3n1WsgTJHBmZxdV"
-      },
-      "artists": [
-        {
-          "name": "Kylie Minogue",
-          "url": "https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA"
-        }
-      ],
-      "duration_ms": 166266,
-      "name": "Padam Padam",
-      "url": "https://open.spotify.com/track/3k0DJq2HdWJqnqor8NX0ac"
-    },
-    {
-      "added_at": "2023-10-13 08:00:00",
-      "album": {
         "name": "Back To You",
         "url": "https://open.spotify.com/album/1wntuGFGZSdkDL3pOTcdpr"
       },
@@ -303,6 +287,22 @@
       "duration_ms": 157252,
       "name": "Back To You",
       "url": "https://open.spotify.com/track/3K00Ib1shkOEiAXU5pec6e"
+    },
+    {
+      "added_at": "2023-10-13 08:00:00",
+      "album": {
+        "name": "Padam Padam",
+        "url": "https://open.spotify.com/album/7vH3G0c3n1WsgTJHBmZxdV"
+      },
+      "artists": [
+        {
+          "name": "Kylie Minogue",
+          "url": "https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA"
+        }
+      ],
+      "duration_ms": 166266,
+      "name": "Padam Padam",
+      "url": "https://open.spotify.com/track/3k0DJq2HdWJqnqor8NX0ac"
     },
     {
       "added_at": "2023-10-13 08:00:00",
@@ -463,26 +463,6 @@
     {
       "added_at": "2023-10-13 08:00:00",
       "album": {
-        "name": "Waterfall",
-        "url": "https://open.spotify.com/album/11tmmS5xSi2aa7VNokfYCD"
-      },
-      "artists": [
-        {
-          "name": "Michael Schulte",
-          "url": "https://open.spotify.com/artist/21aa4pj9BvbFB2iT8kRpnq"
-        },
-        {
-          "name": "R3HAB",
-          "url": "https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ"
-        }
-      ],
-      "duration_ms": 137999,
-      "name": "Waterfall",
-      "url": "https://open.spotify.com/track/7aJgh6LCvhXJfD7PHjhG70"
-    },
-    {
-      "added_at": "2023-10-13 08:00:00",
-      "album": {
         "name": "Kernkraft 400 (A Better Day)",
         "url": "https://open.spotify.com/album/2NIChqkijGw4r4Dqfmg0A3"
       },
@@ -499,6 +479,26 @@
       "duration_ms": 165800,
       "name": "Kernkraft 400 (A Better Day)",
       "url": "https://open.spotify.com/track/3kcKlOkQQEPVwxwljbGJ5p"
+    },
+    {
+      "added_at": "2023-10-13 08:00:00",
+      "album": {
+        "name": "Waterfall",
+        "url": "https://open.spotify.com/album/11tmmS5xSi2aa7VNokfYCD"
+      },
+      "artists": [
+        {
+          "name": "Michael Schulte",
+          "url": "https://open.spotify.com/artist/21aa4pj9BvbFB2iT8kRpnq"
+        },
+        {
+          "name": "R3HAB",
+          "url": "https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ"
+        }
+      ],
+      "duration_ms": 137999,
+      "name": "Waterfall",
+      "url": "https://open.spotify.com/track/7aJgh6LCvhXJfD7PHjhG70"
     },
     {
       "added_at": "2023-10-13 08:00:00",
@@ -639,6 +639,26 @@
     {
       "added_at": "2023-10-13 08:00:00",
       "album": {
+        "name": "All Or Nothing",
+        "url": "https://open.spotify.com/album/1RbpoiBzVURNZ86m1f32y5"
+      },
+      "artists": [
+        {
+          "name": "Topic",
+          "url": "https://open.spotify.com/artist/0u6GtibW46tFX7koQ6uNJZ"
+        },
+        {
+          "name": "HRVY",
+          "url": "https://open.spotify.com/artist/28y6CyJNkGNjJQKrlx4AmN"
+        }
+      ],
+      "duration_ms": 147973,
+      "name": "All Or Nothing",
+      "url": "https://open.spotify.com/track/2AcKLW30dJ03qXsGU3RehH"
+    },
+    {
+      "added_at": "2023-10-13 08:00:00",
+      "album": {
         "name": "Headlights (feat. KIDDO)",
         "url": "https://open.spotify.com/album/61SLEqJbw0XtTOmXUXAoEW"
       },
@@ -663,22 +683,18 @@
     {
       "added_at": "2023-10-13 08:00:00",
       "album": {
-        "name": "All Or Nothing",
-        "url": "https://open.spotify.com/album/1RbpoiBzVURNZ86m1f32y5"
+        "name": "Lose It All (I Don't Wanna)",
+        "url": "https://open.spotify.com/album/2oYcDcUIFEuqhDp2wIHx34"
       },
       "artists": [
         {
-          "name": "Topic",
-          "url": "https://open.spotify.com/artist/0u6GtibW46tFX7koQ6uNJZ"
-        },
-        {
-          "name": "HRVY",
-          "url": "https://open.spotify.com/artist/28y6CyJNkGNjJQKrlx4AmN"
+          "name": "BUNT.",
+          "url": "https://open.spotify.com/artist/2CpLIMBoE2ZzyY3ZBCRZ7j"
         }
       ],
-      "duration_ms": 147973,
-      "name": "All Or Nothing",
-      "url": "https://open.spotify.com/track/2AcKLW30dJ03qXsGU3RehH"
+      "duration_ms": 139071,
+      "name": "Lose It All (I Don't Wanna)",
+      "url": "https://open.spotify.com/track/6FWAIkMvnS0ABEdBKcIp5K"
     },
     {
       "added_at": "2023-10-13 08:00:00",
@@ -703,18 +719,18 @@
     {
       "added_at": "2023-10-13 08:00:00",
       "album": {
-        "name": "Lose It All (I Don't Wanna)",
-        "url": "https://open.spotify.com/album/2oYcDcUIFEuqhDp2wIHx34"
+        "name": "Something To Give Each Other",
+        "url": "https://open.spotify.com/album/5UcGyEltve5psjxSRsHx8E"
       },
       "artists": [
         {
-          "name": "BUNT.",
-          "url": "https://open.spotify.com/artist/2CpLIMBoE2ZzyY3ZBCRZ7j"
+          "name": "Troye Sivan",
+          "url": "https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP"
         }
       ],
-      "duration_ms": 139071,
-      "name": "Lose It All (I Don't Wanna)",
-      "url": "https://open.spotify.com/track/6FWAIkMvnS0ABEdBKcIp5K"
+      "duration_ms": 156391,
+      "name": "Rush",
+      "url": "https://open.spotify.com/track/4ZnkygoWLzcGbQYCm3lkae"
     },
     {
       "added_at": "2023-10-13 08:00:00",
@@ -763,22 +779,6 @@
     {
       "added_at": "2023-10-13 08:00:00",
       "album": {
-        "name": "Something To Give Each Other",
-        "url": "https://open.spotify.com/album/5UcGyEltve5psjxSRsHx8E"
-      },
-      "artists": [
-        {
-          "name": "Troye Sivan",
-          "url": "https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP"
-        }
-      ],
-      "duration_ms": 156391,
-      "name": "Rush",
-      "url": "https://open.spotify.com/track/4ZnkygoWLzcGbQYCm3lkae"
-    },
-    {
-      "added_at": "2023-10-13 08:00:00",
-      "album": {
         "name": "Endless Summer",
         "url": "https://open.spotify.com/album/6heWsbxEvCnXbHcw4xlKmE"
       },
@@ -799,22 +799,6 @@
     {
       "added_at": "2023-10-13 08:00:00",
       "album": {
-        "name": "Do It Again",
-        "url": "https://open.spotify.com/album/2CVUrzo4yImrsDLT3v1jTZ"
-      },
-      "artists": [
-        {
-          "name": "Ray Dalton",
-          "url": "https://open.spotify.com/artist/4e0nWw2r4BoQSKPQ2zpU13"
-        }
-      ],
-      "duration_ms": 175671,
-      "name": "Do It Again",
-      "url": "https://open.spotify.com/track/1IeQnQxCs2YJN6u3wQbUyX"
-    },
-    {
-      "added_at": "2023-10-13 08:00:00",
-      "album": {
         "name": "Starlight",
         "url": "https://open.spotify.com/album/7xWgrLBIQVECzOsNvo2OHU"
       },
@@ -831,6 +815,22 @@
       "duration_ms": 121000,
       "name": "Starlight",
       "url": "https://open.spotify.com/track/01a7nB3AywapMgbLi3LGbZ"
+    },
+    {
+      "added_at": "2023-10-13 08:00:00",
+      "album": {
+        "name": "Do It Again",
+        "url": "https://open.spotify.com/album/2CVUrzo4yImrsDLT3v1jTZ"
+      },
+      "artists": [
+        {
+          "name": "Ray Dalton",
+          "url": "https://open.spotify.com/artist/4e0nWw2r4BoQSKPQ2zpU13"
+        }
+      ],
+      "duration_ms": 175671,
+      "name": "Do It Again",
+      "url": "https://open.spotify.com/track/1IeQnQxCs2YJN6u3wQbUyX"
     },
     {
       "added_at": "2023-10-13 08:00:00",
@@ -1411,22 +1411,22 @@
     {
       "added_at": "2023-10-13 08:00:00",
       "album": {
-        "name": "The Best Part of Life (Imanbek Remix)",
-        "url": "https://open.spotify.com/album/1Eoy1ADRQDviO2WX2V2vyP"
+        "name": "Gravity",
+        "url": "https://open.spotify.com/album/6Wkt3HuhyHbxN7G9aSJ6L9"
       },
       "artists": [
         {
-          "name": "SAINt JHN",
-          "url": "https://open.spotify.com/artist/0H39MdGGX6dbnnQPt6NQkZ"
+          "name": "twocolors",
+          "url": "https://open.spotify.com/artist/7ACEUD7UsmmXrnj4OLt8f9"
         },
         {
-          "name": "Imanbek",
-          "url": "https://open.spotify.com/artist/5rGrDvrLOV2VV8SCFVGWlj"
+          "name": "\u00c1SD\u00cdS",
+          "url": "https://open.spotify.com/artist/28y5ZcfpdZAfeEE5ftCfUg"
         }
       ],
-      "duration_ms": 198979,
-      "name": "The Best Part of Life (Imanbek Remix)",
-      "url": "https://open.spotify.com/track/6OboXrS1zbfCmh7uDFCIQ5"
+      "duration_ms": 144375,
+      "name": "Gravity",
+      "url": "https://open.spotify.com/track/7qhPd5HqLrCVpCWvpy8Hrh"
     }
   ],
   "unique_name": "Wochenende",

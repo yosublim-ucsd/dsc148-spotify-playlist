@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSzguhfGl55y.md) - [plain]
 
 > Die größten Hits der deutschen Hip\-Hop\-Geschichte.
 
-[Spotify](https://open.spotify.com/user/spotify) - 618,852 likes - 50 songs - 3 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 618,935 likes - 50 songs - 3 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,8 +17,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSzguhfGl55y.md) - [plain]
 | 7 | [Schwarz zu blau](https://open.spotify.com/track/1Fjz0ME9pzk553wH86m3ZZ) | [Peter Fox](https://open.spotify.com/artist/6rqlONGmPuP2wJVSfliLBI) | [Stadtaffe](https://open.spotify.com/album/6cEVfMd0XVocPbRrYkVY5H) | 3:35 |
 | 8 | [Alles wird gut](https://open.spotify.com/track/4SF1K7VfTBnVSEyBCrrUWK) | [Bushido](https://open.spotify.com/artist/3c96G4d2lUOxhomM2mby5S) | [Zeiten ändern dich](https://open.spotify.com/album/31mBvCgKrTFJLpI6ONjgfF) | 3:38 |
 | 9 | [Nullkommaneun](https://open.spotify.com/track/3cLXgIlvugVKpWBmO5v9oy) | [SSIO](https://open.spotify.com/artist/3IrUyDPQlQFcB5lMWhPml2) | [0,9 \(Deluxe Version\)](https://open.spotify.com/album/6tXpsYFPFHpbKXWpovbtFs) | 3:52 |
-| 10 | [Kokaina](https://open.spotify.com/track/0bAgUuRXs3q359aMIMrKdu) | [Miami Yacine](https://open.spotify.com/artist/1XKjtpH5P81gpOXDB91IEB) | [Casia Deluxe](https://open.spotify.com/album/03kquvjDEXJugsDtZ2pPA8) | 3:21 |
-| 11 | [Rhythmus meines Lebens](https://open.spotify.com/track/4FyVe8mdjaRLvtqnXae6BM) | [Kool Savas](https://open.spotify.com/artist/1SUu1Bi7ev9HbOzyVC77qD) | [Die John Bello Story, Vol\. 3](https://open.spotify.com/album/5CF8sggi5aUSptomzuGzQB) | 3:16 |
+| 10 | [Rhythmus meines Lebens](https://open.spotify.com/track/4FyVe8mdjaRLvtqnXae6BM) | [Kool Savas](https://open.spotify.com/artist/1SUu1Bi7ev9HbOzyVC77qD) | [Die John Bello Story, Vol\. 3](https://open.spotify.com/album/5CF8sggi5aUSptomzuGzQB) | 3:16 |
+| 11 | [Kokaina](https://open.spotify.com/track/0bAgUuRXs3q359aMIMrKdu) | [Miami Yacine](https://open.spotify.com/artist/1XKjtpH5P81gpOXDB91IEB) | [Casia Deluxe](https://open.spotify.com/album/03kquvjDEXJugsDtZ2pPA8) | 3:21 |
 | 12 | [An Tagen wie diesen](https://open.spotify.com/track/1rbnDRx6VuKAGS36CmiyQD) | [Fettes Brot](https://open.spotify.com/artist/3RRODs1rHC2ktLqyDDfgPH), [Pascal Finkenauer](https://open.spotify.com/artist/3uc18KTx2wsLk11fOtavsT) | [Am Wasser gebaut](https://open.spotify.com/album/6ec57lo5LGm04XzzSOr0Wg) | 4:01 |
 | 13 | [Ein Affe und ein Pferd](https://open.spotify.com/track/3qM75mSV84LHHJqlITqZsk) | [K.I.Z](https://open.spotify.com/artist/0bMt8SJlp0gFRUufzifS05) | [Ganz Oben \(Mixtape\)](https://open.spotify.com/album/1sRETCvm24dPNwAhpZqytk) | 3:45 |
 | 14 | [Augen auf](https://open.spotify.com/track/3nAJAotlLWvmSWHQ05D2ma) | [Sido](https://open.spotify.com/artist/4Yttlv9ndGjCDCVLqM7ACq) | [Ich & meine Maske \(Premium Version\)](https://open.spotify.com/album/0fQtAAJlHLf5DQZJBVRt7t) | 3:50 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSzguhfGl55y.md) - [plain]
 | 49 | [All 4 One](https://open.spotify.com/track/5stqdnEmsr98AV26GweHJ8) | [Kool Savas](https://open.spotify.com/artist/1SUu1Bi7ev9HbOzyVC77qD), [AZAD](https://open.spotify.com/artist/7LQLsKs1Qulq0BxYdhRnBU) | [The Best Of](https://open.spotify.com/album/62tJU39A7UP3x85dJGQkdn) | 3:33 |
 | 50 | [Irgendwie, Irgendwo, Irgendwann](https://open.spotify.com/track/04sIbgH6Vdo2V21QsUPaRJ) | [Jan Delay](https://open.spotify.com/artist/4KivBMgSnZ7hCDfPm46fKc), [Dennis Dubplate](https://open.spotify.com/artist/7c3IvNS3sINVdf7TDIbBx3) | [Irgendwie, Irgendwo, Irgendwann](https://open.spotify.com/album/5pDCfBYA6CphwerrwR8av8) | 5:30 |
 
-Snapshot ID: `MCwxNTI5MzZlZjAzYWYwM2QwZGMyNDNjYmZlNjBlZjVkYzk0OGE0NmI2`
+Snapshot ID: `MCwyZTlkOWVmMWUwZjE0OWIyMjg2OGQ3OTRkMWU5YjkxNjQ0NDkzYmJk`

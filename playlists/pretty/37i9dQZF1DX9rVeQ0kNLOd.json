@@ -1,12 +1,12 @@
 {
   "description": "\u3044\u308d\u3044\u308d\u3042\u308b\u304b\u3082\u77e5\u308c\u306a\u3044\u3051\u308c\u3069\u3001\u3061\u3087\u3063\u3068\u4f11\u61a9\u3057\u307e\u305b\u3093\u304b\uff1f\u30c1\u30eb\u306a\u697d\u66f2\u3067\u3086\u3063\u305f\u308a\u307e\u3063\u305f\u308a\u306a\u3072\u3068\u6642\u3092\u3002Illustration by <a href=\"https://twitter.com/hoshieri7\">\u5317\u6751\u82f1\u7406</a>(Eri Kitamura)",
-  "num_followers": 20188,
+  "num_followers": 20203,
   "original_name": "\u307e\u3069\u308d\u307f\u306e\u4e2d\u3067",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4NzRiZjA3MjM5MGE3YjkzMTBkY2IxYTUzODNhNTA5NWRiZDE0MzQ0",
+  "snapshot_id": "MCw2MDc0YWU5YjRlZTA0OGNmZDg0MzYxZDRjZGRjMDljNGNjMTNmYTZi",
   "tracks": [
     {
       "added_at": "2023-10-17 15:00:00",
@@ -139,18 +139,18 @@
     {
       "added_at": "2023-10-17 15:00:00",
       "album": {
-        "name": "\u540d\u524d\u306f\u7247\u60f3\u3044",
-        "url": "https://open.spotify.com/album/6S12v6NjkFLwQwLxxavHY9"
+        "name": "FULLCOLOR",
+        "url": "https://open.spotify.com/album/1rDLRueueI2ILXOyZE5qWd"
       },
       "artists": [
         {
-          "name": "indigo la End",
-          "url": "https://open.spotify.com/artist/26ZBeXl5Gqr3TAv2itmyCU"
+          "name": "Lucky Kilimanjaro",
+          "url": "https://open.spotify.com/artist/2V8UZPMR1EbkXhzvEGBTrV"
         }
       ],
-      "duration_ms": 216169,
-      "name": "\u540d\u524d\u306f\u7247\u60f3\u3044",
-      "url": "https://open.spotify.com/track/0o3zVVGJkb1QIOMF9xySiu"
+      "duration_ms": 255408,
+      "name": "Burning Friday Night",
+      "url": "https://open.spotify.com/track/1NlkoYEA1ndLQIKzXTPh9V"
     },
     {
       "added_at": "2023-10-17 15:00:00",
@@ -171,18 +171,18 @@
     {
       "added_at": "2023-10-17 15:00:00",
       "album": {
-        "name": "FULLCOLOR",
-        "url": "https://open.spotify.com/album/1rDLRueueI2ILXOyZE5qWd"
+        "name": "\u540d\u524d\u306f\u7247\u60f3\u3044",
+        "url": "https://open.spotify.com/album/6S12v6NjkFLwQwLxxavHY9"
       },
       "artists": [
         {
-          "name": "Lucky Kilimanjaro",
-          "url": "https://open.spotify.com/artist/2V8UZPMR1EbkXhzvEGBTrV"
+          "name": "indigo la End",
+          "url": "https://open.spotify.com/artist/26ZBeXl5Gqr3TAv2itmyCU"
         }
       ],
-      "duration_ms": 255408,
-      "name": "Burning Friday Night",
-      "url": "https://open.spotify.com/track/1NlkoYEA1ndLQIKzXTPh9V"
+      "duration_ms": 216169,
+      "name": "\u540d\u524d\u306f\u7247\u60f3\u3044",
+      "url": "https://open.spotify.com/track/0o3zVVGJkb1QIOMF9xySiu"
     },
     {
       "added_at": "2023-10-17 15:00:00",
@@ -439,6 +439,22 @@
     {
       "added_at": "2023-10-17 15:00:00",
       "album": {
+        "name": "\u6708\u5149\u6d74",
+        "url": "https://open.spotify.com/album/1I4xPMfCn7EWu1OBuQdZ6Q"
+      },
+      "artists": [
+        {
+          "name": "\u30e8\u30eb\u30b7\u30ab",
+          "url": "https://open.spotify.com/artist/4UK2Lzi6fBfUi9rpDt6cik"
+        }
+      ],
+      "duration_ms": 248130,
+      "name": "\u6708\u5149\u6d74",
+      "url": "https://open.spotify.com/track/6HyPxNFn7WcIIGVIPejiB1"
+    },
+    {
+      "added_at": "2023-10-17 15:00:00",
+      "album": {
         "name": "Yoidoreshirazu",
         "url": "https://open.spotify.com/album/32sf8CyAb7MtRbVTDJrWQA"
       },
@@ -451,22 +467,6 @@
       "duration_ms": 134869,
       "name": "Yoidoreshirazu",
       "url": "https://open.spotify.com/track/26zbAdTJC4vqqpGwSzvh8Q"
-    },
-    {
-      "added_at": "2023-10-17 15:00:00",
-      "album": {
-        "name": "\u30a2\u30eb\u30b8\u30e3\u30fc\u30ce\u30f3",
-        "url": "https://open.spotify.com/album/38aExI5zPQwJBbcLX200A4"
-      },
-      "artists": [
-        {
-          "name": "\u30e8\u30eb\u30b7\u30ab",
-          "url": "https://open.spotify.com/artist/4UK2Lzi6fBfUi9rpDt6cik"
-        }
-      ],
-      "duration_ms": 254138,
-      "name": "\u30a2\u30eb\u30b8\u30e3\u30fc\u30ce\u30f3",
-      "url": "https://open.spotify.com/track/0L1E2JmrZk6QU9261PtJWQ"
     },
     {
       "added_at": "2023-10-17 15:00:00",
@@ -555,8 +555,8 @@
     {
       "added_at": "2023-10-17 15:00:00",
       "album": {
-        "name": "\u6708\u5149\u6d74",
-        "url": "https://open.spotify.com/album/1I4xPMfCn7EWu1OBuQdZ6Q"
+        "name": "\u30a2\u30eb\u30b8\u30e3\u30fc\u30ce\u30f3",
+        "url": "https://open.spotify.com/album/38aExI5zPQwJBbcLX200A4"
       },
       "artists": [
         {
@@ -564,9 +564,9 @@
           "url": "https://open.spotify.com/artist/4UK2Lzi6fBfUi9rpDt6cik"
         }
       ],
-      "duration_ms": 248130,
-      "name": "\u6708\u5149\u6d74",
-      "url": "https://open.spotify.com/track/6HyPxNFn7WcIIGVIPejiB1"
+      "duration_ms": 254138,
+      "name": "\u30a2\u30eb\u30b8\u30e3\u30fc\u30ce\u30f3",
+      "url": "https://open.spotify.com/track/0L1E2JmrZk6QU9261PtJWQ"
     },
     {
       "added_at": "2023-10-17 15:00:00",

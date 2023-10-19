@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaz6AvnkzW9m.md) - [plain]
 
 > El cholo se hizo buchón 😎🤠 HERNAN TREJO en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 106,682 likes - 75 songs - 3 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 106,856 likes - 75 songs - 3 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaz6AvnkzW9m.md) - [plain]
 | 74 | [El Belicon](https://open.spotify.com/track/5bU6rOWXTwagpjUcGp7I8N) | [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ), [Raul Vega](https://open.spotify.com/artist/3RG6ihKgeBkOsLAPZxoPp9) | [El Belicón](https://open.spotify.com/album/6JkrkH0UYCBE6uHrfP2Aur) | 3:34 |
 | 75 | [77](https://open.spotify.com/track/7y2KhPccpkgRSMa3GDXjQq) | [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ), [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e) | [77](https://open.spotify.com/album/7J0iDOtfo7qkB5sMNc8vbq) | 3:35 |
 
-Snapshot ID: `MCw4Y2QzNmJjYjlmNjg1MTlkYTk3YzVmNDNiYWQ1ODQ4OGE1NTUwN2Qx`
+Snapshot ID: `MCw3ODk1MGEyNzFiODk1MDllNmE4NjY4NmI0N2JmYjM3YzZmN2M2ZGIz`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7YCknf2jT6s.md) - [plain]
 
 > New jazz for open minds\. Cover: Esperanza Spalding
 
-[Spotify](https://open.spotify.com/user/spotify) - 903,289 likes - 100 songs - 8 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 903,407 likes - 100 songs - 8 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7YCknf2jT6s.md) - [plain]
 | 99 | [Beg, Borrow, Play](https://open.spotify.com/track/0IrxzInuw0Er7sBOcEJfkL) | [The Outer Worlds Jazz Ensemble](https://open.spotify.com/artist/04QqmBzHerxSqF3rAO31dc), [Chip Wickham](https://open.spotify.com/artist/62MkXCxcZ345tVUHsD9NK0) | [Beg, Borrow, Play](https://open.spotify.com/album/4BmZpUaGW0lSb2DQMgUJMG) | 4:26 |
 | 100 | [Libera Me](https://open.spotify.com/track/0sPKdhJuJke18NRP4rlFbE) | [Jack Lee](https://open.spotify.com/artist/12ZVNsCxj4KCcXvUmrHbIW), [Nathan East](https://open.spotify.com/artist/5XTyy46AbpxIhvs38nQekJ) | [Heart And Soul](https://open.spotify.com/album/35B0dmoLWUMpUzyFZwaEy7) | 7:14 |
 
-Snapshot ID: `MCw1YmZiYzQ0NTRlYmQyMWJhMGRkZmFiNTMyY2Y1MjJhMzc3NDVmMjA5`
+Snapshot ID: `MCxhYjRkMzFkMjY0YjA5NjM3YjAzYjQyODI2ZWZlYzk0ZjIyZDQ3MmVi`

@@ -2,7 +2,7 @@
 
 ### [Morning Classical](https://open.spotify.com/playlist/37i9dQZF1DX9OZisIoJQhG)
 
-> Uplifting classical melodies to help you rise and shine.
+> ¡Melodías clásicas que te ayudarán a empezar tu día de la mejor manera!
 
 80 songs - 5 hr 14 min
 

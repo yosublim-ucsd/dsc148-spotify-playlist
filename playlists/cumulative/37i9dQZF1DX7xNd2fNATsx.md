@@ -4,13 +4,14 @@
 
 > Quand l'indie et l'electro ne font qu'un.
 
-49 songs - 3 hr 27 min
+50 songs - 3 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [10%](https://open.spotify.com/track/41SwdQIX8Hy2u6fuEDgvWr) | [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu), [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [BUBBA](https://open.spotify.com/album/5FQ4sOGqRWUA5wO20AwPcO) | 3:06 | 2023-02-07 |  |
 | [Agenda Suicide](https://open.spotify.com/track/1eX0GWObMA2EAnkv5vuWw2) | [The Faint](https://open.spotify.com/artist/4A1yfFuBmBOgzv4Oe3fFHk) | [Danse Macabre](https://open.spotify.com/album/4avCxtm2y5e8so2aipSIfV) | 3:58 | 2023-02-07 |  |
-| [Always On The Run](https://open.spotify.com/track/52EPPbUf2chJt14NbQIu9a) | [Yuksek](https://open.spotify.com/artist/2ePIzx9NjxplS724QMZtsf) | [Living On The Edge Of Time](https://open.spotify.com/album/3YPOlrizHDAktT0CJBhz6D) | 3:43 | 2023-02-07 |  |
+| [Always On the Run](https://open.spotify.com/track/1WuqCvOaCVDgbu12AROnCr) | [Yuksek](https://open.spotify.com/artist/2ePIzx9NjxplS724QMZtsf) | [Living On The Edge Of Time](https://open.spotify.com/album/3BBzKiwVV4TI94yWwL8ICg) | 3:43 | 2023-10-16 |  |
+| [Always On The Run](https://open.spotify.com/track/52EPPbUf2chJt14NbQIu9a) | [Yuksek](https://open.spotify.com/artist/2ePIzx9NjxplS724QMZtsf) | [Living On The Edge Of Time](https://open.spotify.com/album/3YPOlrizHDAktT0CJBhz6D) | 3:43 | 2023-02-07 | 2023-10-19 |
 | [Blind](https://open.spotify.com/track/6EGfgNUSxVINKcmpbyssUE) | [Hercules & Love Affair](https://open.spotify.com/artist/1WHoAjAWGx5qLsgzpaOk7W) | [Hercules & Love Affair](https://open.spotify.com/album/7EMv3oMKUEpNrKFVZd1XYJ) | 6:18 | 2023-02-07 |  |
 | [Boy From School](https://open.spotify.com/track/1L8H6AuK4TaMmolSL0N0mR) | [Hot Chip](https://open.spotify.com/artist/37uLId6Z5ZXCx19vuruvv5) | [The Warning](https://open.spotify.com/album/25wuY7cXE8zjFnJRiU1ehS) | 5:19 | 2023-02-07 |  |
 | [Boys Latin](https://open.spotify.com/track/178yi3jvbIHwnaxeAVUCD9) | [Panda Bear](https://open.spotify.com/artist/1R84VlXnFFULOsWWV8IrCQ) | [Panda Bear Meets The Grim Reaper](https://open.spotify.com/album/4iRqf2zoGhh7yO5evg1NYj) | 4:12 | 2023-02-07 |  |

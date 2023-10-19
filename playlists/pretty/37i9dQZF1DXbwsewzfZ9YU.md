@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbwsewzfZ9YU.md) - [plain]
 
 > open the pit\. cover: Soul Glo
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,548 likes - 103 songs - 4 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,102 likes - 103 songs - 4 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

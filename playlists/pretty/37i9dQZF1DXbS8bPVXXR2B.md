@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbS8bPVXXR2B.md) - [plain]
 
 > We just wanna rock you all night long.
 
-[Spotify](https://open.spotify.com/user/spotify) - 220,251 likes - 100 songs - 9 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 220,322 likes - 100 songs - 9 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,8 +69,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbS8bPVXXR2B.md) - [plain]
 | 59 | [Love Has Come Around](https://open.spotify.com/track/0jA2HEWkUZFo0lyQ0NsBi0) | [Donald Byrd](https://open.spotify.com/artist/3ZUZYvTkSr7kJQyAXVpqaL) | [Love Has Come Around \- Finest Moments](https://open.spotify.com/album/7BFPbUysgfYdNs0Zs9CqI1) | 7:52 |
 | 60 | [Hafi Deo](https://open.spotify.com/track/35MRd8ShKOIqbfklIgeaSb) | [Tabu Ley Rochereau](https://open.spotify.com/artist/7hYOOcRqfNzeE2CTpajd5a) | [Mangase / Hafi Deo](https://open.spotify.com/album/05NjfB8sXBGCxkU4Dmwumq) | 9:30 |
 | 61 | [Don't Go Lose It Baby](https://open.spotify.com/track/1kKvcinRJW5ci22gnTYNq6) | [Hugh Masekela](https://open.spotify.com/artist/1b3F5FI7TX4IWTNA4P1kWp) | [Pure Sounds of Africa](https://open.spotify.com/album/4Gmh2qeyIv04wytrc9F5Ab) | 6:53 |
-| 62 | [Disco Hi \- Life](https://open.spotify.com/track/0kzZmpztpqxb4AA0M4ddyA) | [Orlando Julius](https://open.spotify.com/artist/5nmP3vKUqynlECpm2ura7L) | [Disco Hi\-Life](https://open.spotify.com/album/7IK0j2EYruB6NZaI9EniYx) | 9:00 |
-| 63 | [Mysteries of the World](https://open.spotify.com/track/5WYzouzEJIKk0QJjNsiVue) | [MFSB](https://open.spotify.com/artist/2mknvtcck8i82nKxDPDibv) | [Mysteries of the World](https://open.spotify.com/album/3HFASQCSrKTM9DSu3FevyN) | 5:30 |
+| 62 | [Mysteries of the World](https://open.spotify.com/track/5WYzouzEJIKk0QJjNsiVue) | [MFSB](https://open.spotify.com/artist/2mknvtcck8i82nKxDPDibv) | [Mysteries of the World](https://open.spotify.com/album/3HFASQCSrKTM9DSu3FevyN) | 5:30 |
+| 63 | [Disco Hi \- Life](https://open.spotify.com/track/0kzZmpztpqxb4AA0M4ddyA) | [Orlando Julius](https://open.spotify.com/artist/5nmP3vKUqynlECpm2ura7L) | [Disco Hi\-Life](https://open.spotify.com/album/7IK0j2EYruB6NZaI9EniYx) | 9:00 |
 | 64 | [Face 2 Face](https://open.spotify.com/track/16vd3YjKTmORE88HUl2gUR) | [Silk Rhodes](https://open.spotify.com/artist/6uZHP2IZqZWsBPnt2aGisY) | [Silk Rhodes](https://open.spotify.com/album/3i1kIb5NncLgLIU86ju8jr) | 2:25 |
 | 65 | [Number One \- 12" Version](https://open.spotify.com/track/3vSgRQYNEUEjcFOGMiSTw3) | [Patrice Rushen](https://open.spotify.com/artist/1mNnxxnPfHQDOkFjnZmdkc) | [Straight From The Heart](https://open.spotify.com/album/1y2MGKwD1ap3FxPc4ii6QO) | 6:48 |
 | 66 | [Watchin' Out](https://open.spotify.com/track/7AaIWnkDOZFDpZBcW0r6ZQ) | [Split Decision Band](https://open.spotify.com/artist/4XEEn0HMV7zxiOm6B5DVLf) | [Watchin' Out](https://open.spotify.com/album/51UXHJ2YydaTSxJXoczKVz) | 3:15 |
@@ -94,8 +94,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbS8bPVXXR2B.md) - [plain]
 | 84 | [Get It Right \- Single Version](https://open.spotify.com/track/6IKMa77w7i9BAs64sTZqKZ) | [Aretha Franklin](https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok) | [Get It Right \(Expanded Edition\)](https://open.spotify.com/album/1P5mbihG8FF4vfu3hhiMVH) | 4:19 |
 | 85 | [You're a Melody \- Extended Disco Version](https://open.spotify.com/track/0BnavfaSvNQXxg5sBfxTxX) | [Aged In Harmony](https://open.spotify.com/artist/5hABGCgIH57T4NTNpp0gCL) | [You're a Melody](https://open.spotify.com/album/3XcLLEYjyx5KpYwAxLhBYt) | 4:19 |
 | 86 | [Haven't You Heard \- 12" Version](https://open.spotify.com/track/6WcJbVV5gu5srjBMsE332X) | [Patrice Rushen](https://open.spotify.com/artist/1mNnxxnPfHQDOkFjnZmdkc) | [Remind Me \(The Classic Elektra Recordings 1978\-1984\)](https://open.spotify.com/album/2zhXygXV9sHY6I2AMR456t) | 7:18 |
-| 87 | [Kiss Me Again \- Mix Edit](https://open.spotify.com/track/5BwqngWtzzZCL0XiuHcMeQ) | [Dinosaur](https://open.spotify.com/artist/1DrIvq4XBoCgiQcv3w5tRu) | [Kiss Me Again](https://open.spotify.com/album/1jDWFLM7HsGgVc4gh3ePbK) | 3:01 |
-| 88 | [Agb'oju L'ogun \- Original 12" Version](https://open.spotify.com/track/0pmcA4lJnEjkqIFrotudmV) | [Shina Williams & His African Percussionists](https://open.spotify.com/artist/3LMmWHeU0PGvCcD5gelFfe) | [Agb'oju L'ogun](https://open.spotify.com/album/72S9ok10nlp6jIxzDNC5Rk) | 11:42 |
+| 87 | [Agb'oju L'ogun \- Original 12" Version](https://open.spotify.com/track/0pmcA4lJnEjkqIFrotudmV) | [Shina Williams & His African Percussionists](https://open.spotify.com/artist/3LMmWHeU0PGvCcD5gelFfe) | [Agb'oju L'ogun](https://open.spotify.com/album/72S9ok10nlp6jIxzDNC5Rk) | 11:42 |
+| 88 | [Kiss Me Again \- Mix Edit](https://open.spotify.com/track/5BwqngWtzzZCL0XiuHcMeQ) | [Dinosaur](https://open.spotify.com/artist/1DrIvq4XBoCgiQcv3w5tRu) | [Kiss Me Again](https://open.spotify.com/album/1jDWFLM7HsGgVc4gh3ePbK) | 3:01 |
 | 89 | [On the Beat \- Full Length Mix](https://open.spotify.com/track/5tdMJa2vdkSoONkzlZVD0o) | [The B\. B\. & Q\. Band](https://open.spotify.com/artist/0daNFtsGDQpGNgj9ZbH5Lb) | [The Brooklyn, Bronx & Queens Band](https://open.spotify.com/album/6SHMsBY50BGH9q3JDVVXMy) | 5:57 |
 | 90 | [Brothers on the Slide \- Brooklyn Mix](https://open.spotify.com/track/6sIrVJFCHotw73aOv6MAfP) | [Patchworks](https://open.spotify.com/artist/5Qq1R0T5ZL6U0H8zerwFdo) | [Early Recordings](https://open.spotify.com/album/75uCBV1xGMPYzD8e3NQjBs) | 5:30 |
 | 91 | [Classy Lady \- Remastered Version](https://open.spotify.com/track/2wSwWfqpMBkHBOkb6cCB7o) | [Leroy Hutson](https://open.spotify.com/artist/5YJjMGHVQj1IHBabXX8lH6) | [Paradise \(Remastered\)](https://open.spotify.com/album/0aVMTknKy6rbFESKvOlOV3) | 5:31 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbS8bPVXXR2B.md) - [plain]
 | 99 | [Saturday Jam](https://open.spotify.com/track/2JsvvaTZKsBVO1gHSXwamD) | [Benedek](https://open.spotify.com/artist/0VGUa1xtVL7g1srvyzbY7t), [K\-Maxx](https://open.spotify.com/artist/5RSuS2evjc9IGjLJUt1iZR), [Sasac](https://open.spotify.com/artist/0ZfeJXXkQPkG21bGk3NTLt), [Turquoise Summers](https://open.spotify.com/artist/3m8JJr3ASeNiSHK85P4o4z), [Buscrates 16 Bit Ensemble](https://open.spotify.com/artist/2w04ct5AHBWI3AxA6PbuEb), [East Liberty Quarters](https://open.spotify.com/artist/4vJ4MIyanwJLkDECKh0Dik), [Henning](https://open.spotify.com/artist/5ppN1E00CZsVGCmTlAOtQO), [TONI CLARKE](https://open.spotify.com/artist/6vyhMj9yU8TGz3VfHfzNsB) | [Raw Silk Vol\. 1](https://open.spotify.com/album/4J8COrwRuMK2CQGNp9353D) | 4:11 |
 | 100 | [Lypso Illusion](https://open.spotify.com/track/39A5QHG41wrR0cahFX5Y7N) | [Stephen Encinas](https://open.spotify.com/artist/1x7JcJXMdepSOPU57sQNk5) | [Disco Illusion](https://open.spotify.com/album/04rsn20RX1qNN9JMSY76P9) | 4:44 |
 
-Snapshot ID: `MCxjMDU0ZjZmNjliODQ5YWI5MzA1YTU3MTNiNGVmNDEwZTkyNjVmZWZk`
+Snapshot ID: `MCxmMDQwODRmZWQ5M2M3YjYzZjA3NWRkODczZjBkOGU4YmZiNmZiZjRh`

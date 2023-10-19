@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYwMzXER4RFF.md) - [plain]
 
 > New no wave, post\-punk, and anything else\. Cover: Squid
 
-[Spotify](https://open.spotify.com/user/spotify) - 277,203 likes - 55 songs - 3 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 277,282 likes - 55 songs - 3 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,12 +32,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYwMzXER4RFF.md) - [plain]
 | 22 | [Stumbling Still](https://open.spotify.com/track/2kGKxXOSLegpsXQOAhMqCH) | [Nation of Language](https://open.spotify.com/artist/5JWBow4ywgKNQ5HBxY8hcz) | [Strange Disciple](https://open.spotify.com/album/1VDxaxECCJJh4of5htFnmK) | 4:39 |
 | 23 | [Magic of Meghan](https://open.spotify.com/track/0L1yjgPN1zIGLYP6TjVgHR) | [Dry Cleaning](https://open.spotify.com/artist/7DlD7rLG9MKuvXtTeACzkO) | [Sweet Princess EP](https://open.spotify.com/album/0KRCyLdLWJioBvbXi4ZdRR) | 3:50 |
 | 24 | [Nite Expo](https://open.spotify.com/track/4MMUZtRnaz25sXteRs2mXl) | [Thee Oh Sees](https://open.spotify.com/artist/3qYfqdVwX0fil71onLpLkh) | [Orc](https://open.spotify.com/album/6UqkJtjad0HIClK1ndqCsd) | 2:57 |
-| 25 | [Slab](https://open.spotify.com/track/2KoOmthnxLfILro3H7liTQ) | [Wombo](https://open.spotify.com/artist/67GGyFejJ19UWUjJlLhJq4) | [Slab](https://open.spotify.com/album/13SPstpEFV47Buq7PkOt5x) | 1:48 |
+| 25 | [Hunger for a Way Out](https://open.spotify.com/track/4bXsXIRPbTk783vfyA2oRe) | [Sweeping Promises](https://open.spotify.com/artist/5k9qBHdkzsibPmFJp1XIAt) | [Hunger for a Way Out](https://open.spotify.com/album/0Cwh78WfxUMb1P8a7tIxYm) | 2:21 |
 | 26 | [Concrete](https://open.spotify.com/track/5MhK8ZwxOiILTOh7LFK5VU) | [shame](https://open.spotify.com/artist/4IeWU3NYBI9mISFVhzXG8f) | [Songs of Praise](https://open.spotify.com/album/3ZtngTnZwbWMAdzcpKWgXH) | 3:34 |
 | 27 | [Creatures](https://open.spotify.com/track/44EomP7rHWhp6W0zyEue2s) | [Viagra Boys](https://open.spotify.com/artist/2nAKP6etu8wXNnezKXgqgg) | [Welfare Jazz](https://open.spotify.com/album/2UorQ6UuGys6Ivsg1exRSu) | 3:32 |
 | 28 | [Jackie Down The Line](https://open.spotify.com/track/6FDrld0oPlhhRKItogchWo) | [Fontaines D.C.](https://open.spotify.com/artist/3SXwqSqAoBz9WCI9PDQzY6) | [Jackie Down The Line](https://open.spotify.com/album/194s8X2fl22otVaRdWSm9Q) | 4:01 |
 | 29 | [American Nightmare](https://open.spotify.com/track/4i6snrjpdYSv5PBB7wH6qk) | [Vestron Vulture](https://open.spotify.com/artist/0TdyFEXGty3cRKFCI1CJPr) | [American Nightmare](https://open.spotify.com/album/6zaXhrtWGMMJP4ty8XyMiT) | 3:09 |
-| 30 | [Hunger for a Way Out](https://open.spotify.com/track/4bXsXIRPbTk783vfyA2oRe) | [Sweeping Promises](https://open.spotify.com/artist/5k9qBHdkzsibPmFJp1XIAt) | [Hunger for a Way Out](https://open.spotify.com/album/0Cwh78WfxUMb1P8a7tIxYm) | 2:21 |
+| 30 | [Slab](https://open.spotify.com/track/2KoOmthnxLfILro3H7liTQ) | [Wombo](https://open.spotify.com/artist/67GGyFejJ19UWUjJlLhJq4) | [Slab](https://open.spotify.com/album/13SPstpEFV47Buq7PkOt5x) | 1:48 |
 | 31 | [Flying](https://open.spotify.com/track/3E6gxfPW3xIYJ6hgprIlIb) | [Dehd](https://open.spotify.com/artist/6yzuBFtT6dK2aQMZJZtcB1) | [Flower of Devotion](https://open.spotify.com/album/3K8xEI9zVLy7QqAHQZ4d7N) | 3:46 |
 | 32 | [wollte nie](https://open.spotify.com/track/5ybNan24dJMedDsTxFhn7C) | [Steintor Herrenchor](https://open.spotify.com/artist/70OwN96zJa61uhBIPdKgFO), [diggidaniel](https://open.spotify.com/artist/4hRNAyGnGpRlCXooSE9Mvw) | [wollte nie](https://open.spotify.com/album/1HB7QOEie88WSdXl0BAVlO) | 3:15 |
 | 33 | [Girls & Boys](https://open.spotify.com/track/1kLnA3KtwwY9XeHNFjIHWK) | [Viagra Boys](https://open.spotify.com/artist/2nAKP6etu8wXNnezKXgqgg) | [Welfare Jazz](https://open.spotify.com/album/2UorQ6UuGys6Ivsg1exRSu) | 4:39 |
@@ -64,4 +64,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYwMzXER4RFF.md) - [plain]
 | 54 | [Pour Another](https://open.spotify.com/track/5BvpTVOBtKADtK5LAOgX4g) | [Yard Act](https://open.spotify.com/artist/2h3ooJn8m8X8cL2g1BZ1Rd) | [The Overload](https://open.spotify.com/album/4rXBcuJMRSt4izAwXNrTQu) | 3:20 |
 | 55 | [Stick](https://open.spotify.com/track/1WqfHOpUnXGEyMma9u3eBH) | [Ovlov](https://open.spotify.com/artist/2Iy7tZpp5qQudlg5cbcgH8) | [TRU](https://open.spotify.com/album/0mWmucikt6rRLgjnfeGeG3) | 3:22 |
 
-Snapshot ID: `MCw4ZmE2NzczMjViMGUyNGY4MWJmNmFiZWZkMmM5ZWRiZmUxNjlmYmI2`
+Snapshot ID: `MCw5NmMwNzIyODkxZDk0MDE5NmY3ZmRiYmZmNjg0YjdiYmM0ZTA4NWY2`

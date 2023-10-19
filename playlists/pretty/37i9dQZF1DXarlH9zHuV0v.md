@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXarlH9zHuV0v.md) - [plain]
 
 > A playlist of spooky songs to get you ready for fright night!
 
-[Spotify](https://open.spotify.com/user/spotify) - 236,460 likes - 60 songs - 3 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 236,622 likes - 60 songs - 3 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,15 +58,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXarlH9zHuV0v.md) - [plain]
 | 48 | [The Death & Resurrection Show](https://open.spotify.com/track/1YhZbKOU47hnRb2q8LOHKH) | [Killing Joke](https://open.spotify.com/artist/0Zy4ncr8h1jd7Nzr9946fD) | [Killing Joke](https://open.spotify.com/album/16MILExMR5RIvzTIII2YnH) | 6:55 |
 | 49 | [I Want Candy](https://open.spotify.com/track/6J8IwGX3oHi7x9B57vmMMW) | [Bow Wow Wow](https://open.spotify.com/artist/52K4ArhA4OgMO7AsyEgqCT) | [The Best Of Bow Wow Wow](https://open.spotify.com/album/0CjR9Tn8bR68Iwg1UVnN1m) | 2:44 |
 | 50 | [Main Theme: The Addams Family \- Instrumental Version](https://open.spotify.com/track/7M2t3mrwREenfKCvpRCed7) | [Vic Mizzy and His Orchestra and Chorus](https://open.spotify.com/artist/30Vw5pqdpoPBHNVeT5Eknv) | [The Addams Family \(Original Music From The T.V\. Show\)](https://open.spotify.com/album/3GPiacqnXD4MCCMWvSTT53) | 2:00 |
-| 51 | [I Put A Spell On You](https://open.spotify.com/track/0F5qpNAXWKyvyrHbpn168z) | [Marilyn Manson](https://open.spotify.com/artist/2VYQTNDsvvKN9wmU5W7xpj) | [Smells Like Children](https://open.spotify.com/album/5XiQM9S9V3XL03xxmIMPeb) | 3:36 |
-| 52 | [Calling All the Monsters](https://open.spotify.com/track/1u2Z7Xp9kpnzYKUNFcBSEx) | [China Anne McClain](https://open.spotify.com/artist/6SvFyXN6qzhw95Bj4HoevV) | [Disney Halloween](https://open.spotify.com/album/0ljU90uqoVtWg6WinOaV9y) | 3:26 |
+| 51 | [Calling All the Monsters](https://open.spotify.com/track/1u2Z7Xp9kpnzYKUNFcBSEx) | [China Anne McClain](https://open.spotify.com/artist/6SvFyXN6qzhw95Bj4HoevV) | [Disney Halloween](https://open.spotify.com/album/0ljU90uqoVtWg6WinOaV9y) | 3:26 |
+| 52 | [I Put A Spell On You](https://open.spotify.com/track/0F5qpNAXWKyvyrHbpn168z) | [Marilyn Manson](https://open.spotify.com/artist/2VYQTNDsvvKN9wmU5W7xpj) | [Smells Like Children](https://open.spotify.com/album/5XiQM9S9V3XL03xxmIMPeb) | 3:36 |
 | 53 | [Scarecrow](https://open.spotify.com/track/1GcdexGpXcR9dZhhRj5zAr) | [Beck](https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS) | [Guero](https://open.spotify.com/album/2EugWXUZjr78KJFqZavvZT) | 4:15 |
 | 54 | [Ghosts \- Single Edit](https://open.spotify.com/track/5CwU6ek98q7Xqnvoq2ojht) | [Ladytron](https://open.spotify.com/artist/0ucLPotcQNI7AViFytdhBz) | [Ghosts \(Remixes\)](https://open.spotify.com/album/0hVxQVrEH3n2CmwGzntdFk) | 4:31 |
 | 55 | [Sorry Sack Of Bones](https://open.spotify.com/track/4cA5B78Gch1RpHFAFbb2Gy) | [Volbeat](https://open.spotify.com/artist/0L5fC7Ogm2YwgqVCRcF1bT) | [Rewind, Replay, Rebound \(Deluxe\)](https://open.spotify.com/album/700dWAqcIsUkNJ1WN1XPT5) | 3:48 |
 | 56 | [Frankenstein](https://open.spotify.com/track/4aK0vJsPXFsFdBUh8hPaDT) | [The Edgar Winter Group](https://open.spotify.com/artist/7j9PMegEgVN1fNp8NZXNCI) | [The Best Of Edgar Winter](https://open.spotify.com/album/6knWE50fnmU6X50X7QGfQY) | 4:45 |
-| 57 | [Rampage](https://open.spotify.com/track/6gRAOJYu1jQsNgMlrrudT9) | [Kavinsky](https://open.spotify.com/artist/0UF7XLthtbSF2Eur7559oV) | [OutRun](https://open.spotify.com/album/3euRfc09m6LRXwplFPYtqh) | 2:55 |
-| 58 | [Halloween](https://open.spotify.com/track/3DN3nPW5VDyGa48ELeXPU0) | [Sonic Youth](https://open.spotify.com/artist/5UqTO8smerMvxHYA5xsXb6) | [Bad Moon Rising](https://open.spotify.com/album/5qZwFWvjfQF6uqrtMaCbO6) | 5:11 |
+| 57 | [Halloween](https://open.spotify.com/track/3DN3nPW5VDyGa48ELeXPU0) | [Sonic Youth](https://open.spotify.com/artist/5UqTO8smerMvxHYA5xsXb6) | [Bad Moon Rising](https://open.spotify.com/album/5qZwFWvjfQF6uqrtMaCbO6) | 5:11 |
+| 58 | [Rampage](https://open.spotify.com/track/6gRAOJYu1jQsNgMlrrudT9) | [Kavinsky](https://open.spotify.com/artist/0UF7XLthtbSF2Eur7559oV) | [OutRun](https://open.spotify.com/album/3euRfc09m6LRXwplFPYtqh) | 2:55 |
 | 59 | [Yes, I'm A Witch](https://open.spotify.com/track/1ZEsbgte9LRHyOypNTitnP) | [Yoko Ono](https://open.spotify.com/artist/2s4tjL6W3qrblOe0raIzwJ), [Palumbo Of The Brothers Brothers](https://open.spotify.com/artist/51rPFkrSpx9TrlbKBnwK2b), [John Palumbo](https://open.spotify.com/artist/56m537t8BiQfTMEQ7gx7RM) | [Yes, I'm A Witch](https://open.spotify.com/album/749IRZj6CenDO9zLuqhiE7) | 3:48 |
 | 60 | [Halloween](https://open.spotify.com/track/5tGcBhlRXSweh1v8X3C6Nk) | [Aqua](https://open.spotify.com/artist/6kBjAFKyd0he7LiA5GQ3Gz) | [Greatest Hits \(Speciel Edition\)](https://open.spotify.com/album/5crHzO0kyQmmI23LINH9AO) | 3:49 |
 
-Snapshot ID: `MCwyY2Y0NWViODUwYzZjNDVlYzI0YmI0NTk5ZjQ5NjAyMjJkMjQ0MDE3`
+Snapshot ID: `MCw1M2YzNDg4MmEyMGQ0Yjc4MDYzMmQwMjlkMWRjMzYyN2JlMjE2Mjk4`

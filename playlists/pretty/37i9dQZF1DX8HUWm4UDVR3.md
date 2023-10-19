@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8HUWm4UDVR3.md) - [plain]
 
 > La pop française annonce la couleur\. Photo : Laura
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,276 likes - 50 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,324 likes - 50 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8HUWm4UDVR3.md) - [plain]
 | 49 | [Oublier](https://open.spotify.com/track/37mcuOb6LwRA8wuZvySQ43) | [Ghostly Kisses](https://open.spotify.com/artist/7EkzQPP0cgt2qCnXUg6PHj) | [Oublier](https://open.spotify.com/album/3MJltJ9phcfouKbcupRDoP) | 3:03 |
 | 50 | [Vent violent](https://open.spotify.com/track/08B3fIzo8bmYNlGgeZMzCM) | [Fleur Copin](https://open.spotify.com/artist/7LcMjf96A3Do8qhgjnn8Fy) | [Vent violent](https://open.spotify.com/album/2ZmUpBmqmuRf2Ev6opeojO) | 2:13 |
 
-Snapshot ID: `MCw1ZjczN2IxMTdlY2NhZTFkNjZiNzcyYzE2MjliMjhlY2U2YmFiZmNk`
+Snapshot ID: `MCwxMjQ5YmFmOTgxMDJmMWYzYzBlZDM5MDhjY2Q5NTYwMjQ1OWNhNGNk`

@@ -4,7 +4,7 @@
 
 > Le R&B français, nouvelle ère\. Photo : Nej
 
-203 songs - 9 hr 54 min
+204 songs - 9 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -167,7 +167,8 @@
 | [Préface \- Nouveau Départ](https://open.spotify.com/track/6Fj78TJ1CqYW0vYuIzs0Mt) | [Melina Sdk](https://open.spotify.com/artist/0VW4UTqUCXXqqs7qeYJ9Nn) | [Préface \(Nouveau Départ\)](https://open.spotify.com/album/3XiFwgz2J4PWogjndNT3f3) | 2:21 | 2022-11-24 | 2022-12-09 |
 | [Quart d’heure](https://open.spotify.com/track/2oDiYffqlWKYwLtKdDmKqD) | [IPNDEGO](https://open.spotify.com/artist/1NnXEta54oioiS58v4Ahrj) | [Quart d’heure](https://open.spotify.com/album/7mg7WFBAuTHetVMBrvHfFR) | 3:08 | 2023-02-02 | 2023-03-18 |
 | [Quelqu'un d'autre](https://open.spotify.com/track/1w62sZZvD2ybf1FEeovI84) | [Maud Elka](https://open.spotify.com/artist/2U3zSgyMqytkWn9ZmX94ZR) | [Quelqu'un d'autre](https://open.spotify.com/album/5UcLTGrzXoWuhOPsTKVvZI) | 3:01 | 2023-08-10 | 2023-08-19 |
-| [Quelqu'un d'autre](https://open.spotify.com/track/3Ni5MBq60khbNsor0UYlzk) | [Maud Elka](https://open.spotify.com/artist/2U3zSgyMqytkWn9ZmX94ZR) | [Quelqu'un d'autre](https://open.spotify.com/album/4fvXVtz9imF8xZlaK7G8ra) | 3:01 | 2023-08-19 |  |
+| [Quelqu'un d'autre](https://open.spotify.com/track/3Ni5MBq60khbNsor0UYlzk) | [Maud Elka](https://open.spotify.com/artist/2U3zSgyMqytkWn9ZmX94ZR) | [Quelqu'un d'autre](https://open.spotify.com/album/4fvXVtz9imF8xZlaK7G8ra) | 3:01 | 2023-08-19 | 2023-10-19 |
+| [Quelqu'un d'autre](https://open.spotify.com/track/4e4hmNgPXUzfoANBzZbV9h) | [Maud Elka](https://open.spotify.com/artist/2U3zSgyMqytkWn9ZmX94ZR) | [Quelqu'un d'autre](https://open.spotify.com/album/4PtfBRspzSbF2D1Wx0dIxh) | 3:01 | 2023-10-12 |  |
 | [Rassure\-toi](https://open.spotify.com/track/5Y4ryOk5BqUVPOXLmiHKF0) | [Cadie Nelva](https://open.spotify.com/artist/5bc40hS4uxthRoyQeyAbqG) | [Rassure\-toi](https://open.spotify.com/album/08kXWDkoGFhwlg5NPatEXo) | 2:54 | 2023-08-24 | 2023-10-13 |
 | [Recommencer](https://open.spotify.com/track/6EF6zlUNisqtLfHEvpTsIF) | [AMK](https://open.spotify.com/artist/1AFQg3CpeciNbd120XZDmi) | [La Vie de Roni](https://open.spotify.com/album/778m8T5Wd138JDqikOE8Ef) | 2:43 | 2023-07-27 | 2023-09-08 |
 | [Roses](https://open.spotify.com/track/6Wt11M63GQsTr4FMR8YyMt) | [Melina](https://open.spotify.com/artist/5Igaoo9WzRGgvEV3pXNuZA) | [Roses](https://open.spotify.com/album/7Lfnq16oFlmwsCTYOXkunW) | 3:36 | 2023-05-11 | 2023-06-23 |

@@ -1,12 +1,12 @@
 {
   "description": "Gospel music from across East Africa",
-  "num_followers": 3197,
+  "num_followers": 3212,
   "original_name": "Sunday Service",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlNTZlZTk3ZDBmZTZlZTQ4YTJhYzgwOGYyNGIwNTdlNDQxYWU5MWVi",
+  "snapshot_id": "MCw1MWU4YTczNWQ2YjdmYzIzZWJmYjg1MTEwNTE1NWJjYmNhZWY3Njhm",
   "tracks": [
     {
       "added_at": "2023-06-16 00:01:00",
@@ -531,26 +531,6 @@
     {
       "added_at": "2023-08-25 00:01:00",
       "album": {
-        "name": "WINNING",
-        "url": "https://open.spotify.com/album/44aQxFx9JgwmvbotlJBQg0"
-      },
-      "artists": [
-        {
-          "name": "Harmini",
-          "url": "https://open.spotify.com/artist/3c1kXccl4TUVz1V24nCjz9"
-        },
-        {
-          "name": "Chud'e",
-          "url": "https://open.spotify.com/artist/2ouXp33PnlerCKJs32Dmej"
-        }
-      ],
-      "duration_ms": 152622,
-      "name": "WINNING",
-      "url": "https://open.spotify.com/track/3kVj87QG8Bc055xu5A9jcW"
-    },
-    {
-      "added_at": "2023-08-25 00:01:00",
-      "album": {
         "name": "Tawala",
         "url": "https://open.spotify.com/album/2SvM1aj4W4cHTwdSuTyHQs"
       },
@@ -567,6 +547,26 @@
       "duration_ms": 186720,
       "name": "Tawala",
       "url": "https://open.spotify.com/track/6dvk6TqiOxnkLL3T7zkup5"
+    },
+    {
+      "added_at": "2023-08-25 00:01:00",
+      "album": {
+        "name": "WINNING",
+        "url": "https://open.spotify.com/album/44aQxFx9JgwmvbotlJBQg0"
+      },
+      "artists": [
+        {
+          "name": "Harmini",
+          "url": "https://open.spotify.com/artist/3c1kXccl4TUVz1V24nCjz9"
+        },
+        {
+          "name": "Chud'e",
+          "url": "https://open.spotify.com/artist/2ouXp33PnlerCKJs32Dmej"
+        }
+      ],
+      "duration_ms": 152622,
+      "name": "WINNING",
+      "url": "https://open.spotify.com/track/3kVj87QG8Bc055xu5A9jcW"
     },
     {
       "added_at": "2023-08-25 00:01:00",
@@ -671,6 +671,22 @@
     {
       "added_at": "2023-08-25 00:01:00",
       "album": {
+        "name": "Umusirikare",
+        "url": "https://open.spotify.com/album/2gmosA09uXbSu5MvBBswLh"
+      },
+      "artists": [
+        {
+          "name": "Israel Mbonyi",
+          "url": "https://open.spotify.com/artist/6E6bGyrGJM33jnVivvn3kH"
+        }
+      ],
+      "duration_ms": 670000,
+      "name": "Nina Siri",
+      "url": "https://open.spotify.com/track/7wcBcpJnk3FkNvspFJN6SE"
+    },
+    {
+      "added_at": "2023-08-25 00:01:00",
+      "album": {
         "name": "Blessings (Everywhere I Go)",
         "url": "https://open.spotify.com/album/0EpZhsAfVEDl1vGfhV6mMg"
       },
@@ -695,22 +711,6 @@
       "duration_ms": 183529,
       "name": "Blessings (Everywhere I Go)",
       "url": "https://open.spotify.com/track/6wgw0w5N3AQ7AfHcoL2JqW"
-    },
-    {
-      "added_at": "2023-08-25 00:01:00",
-      "album": {
-        "name": "Umusirikare",
-        "url": "https://open.spotify.com/album/2gmosA09uXbSu5MvBBswLh"
-      },
-      "artists": [
-        {
-          "name": "Israel Mbonyi",
-          "url": "https://open.spotify.com/artist/6E6bGyrGJM33jnVivvn3kH"
-        }
-      ],
-      "duration_ms": 670000,
-      "name": "Nina Siri",
-      "url": "https://open.spotify.com/track/7wcBcpJnk3FkNvspFJN6SE"
     },
     {
       "added_at": "2023-09-15 00:01:00",

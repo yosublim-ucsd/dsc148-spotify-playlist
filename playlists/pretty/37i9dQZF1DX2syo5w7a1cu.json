@@ -1,12 +1,12 @@
 {
   "description": "Mellow songs from the 90s. Cover: Sin\u00e9ad O'Connor",
-  "num_followers": 651822,
+  "num_followers": 652483,
   "original_name": "Soft 90s",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhYWU5ZTlmY2FiMTM3ZTNlZTkyZTMwZWM3YzkzM2E5MjEzODE0Yzgw",
+  "snapshot_id": "MCw0MGU1MTliM2MxYzY5OWIxMGZhODlhNzA1NDFhODM3M2MzOWNmYjJm",
   "tracks": [
     {
       "added_at": "2022-03-21 23:00:00",
@@ -743,22 +743,6 @@
     {
       "added_at": "2022-03-21 23:00:00",
       "album": {
-        "name": "Woodface",
-        "url": "https://open.spotify.com/album/1QSoW668F9DVj8Rk9azF7h"
-      },
-      "artists": [
-        {
-          "name": "Crowded House",
-          "url": "https://open.spotify.com/artist/7ohlPA8dRBtCf92zaZCaaB"
-        }
-      ],
-      "duration_ms": 224466,
-      "name": "Weather With You",
-      "url": "https://open.spotify.com/track/6tXnRSvuNgOq4QcxpIN54r"
-    },
-    {
-      "added_at": "2022-03-21 23:00:00",
-      "album": {
         "name": "Metallica (Remastered)",
         "url": "https://open.spotify.com/album/55fq75UfkYbGMq4CncCtOH"
       },
@@ -771,6 +755,22 @@
       "duration_ms": 388733,
       "name": "Nothing Else Matters (Remastered)",
       "url": "https://open.spotify.com/track/2CtemffYhT0DJWcT1XW047"
+    },
+    {
+      "added_at": "2022-03-21 23:00:00",
+      "album": {
+        "name": "Woodface",
+        "url": "https://open.spotify.com/album/1QSoW668F9DVj8Rk9azF7h"
+      },
+      "artists": [
+        {
+          "name": "Crowded House",
+          "url": "https://open.spotify.com/artist/7ohlPA8dRBtCf92zaZCaaB"
+        }
+      ],
+      "duration_ms": 224466,
+      "name": "Weather With You",
+      "url": "https://open.spotify.com/track/6tXnRSvuNgOq4QcxpIN54r"
     },
     {
       "added_at": "2022-03-21 23:00:00",
@@ -903,22 +903,6 @@
     {
       "added_at": "2022-03-21 23:00:00",
       "album": {
-        "name": "Lonely Grill",
-        "url": "https://open.spotify.com/album/7ykiOoPC4GLrVYSDVdDGq2"
-      },
-      "artists": [
-        {
-          "name": "Lonestar",
-          "url": "https://open.spotify.com/artist/3qbnxnvUqR14MJ9g8QwZJK"
-        }
-      ],
-      "duration_ms": 240866,
-      "name": "Amazed",
-      "url": "https://open.spotify.com/track/6qc34bnVOyqGDPni8H5W0U"
-    },
-    {
-      "added_at": "2022-03-21 23:00:00",
-      "album": {
         "name": "Come On Over (Diamond Edition / Super Deluxe)",
         "url": "https://open.spotify.com/album/2aU5BWirMOaV1OpsakTIbV"
       },
@@ -931,6 +915,22 @@
       "duration_ms": 212224,
       "name": "You're Still The One",
       "url": "https://open.spotify.com/track/3x2ksaXI6EZUWidE2BiLXy"
+    },
+    {
+      "added_at": "2022-03-21 23:00:00",
+      "album": {
+        "name": "Lonely Grill",
+        "url": "https://open.spotify.com/album/7ykiOoPC4GLrVYSDVdDGq2"
+      },
+      "artists": [
+        {
+          "name": "Lonestar",
+          "url": "https://open.spotify.com/artist/3qbnxnvUqR14MJ9g8QwZJK"
+        }
+      ],
+      "duration_ms": 240866,
+      "name": "Amazed",
+      "url": "https://open.spotify.com/track/6qc34bnVOyqGDPni8H5W0U"
     },
     {
       "added_at": "2022-03-21 23:00:00",
@@ -1243,6 +1243,22 @@
     {
       "added_at": "2022-03-21 23:00:00",
       "album": {
+        "name": "Spice",
+        "url": "https://open.spotify.com/album/3x2jF7blR6bFHtk4MccsyJ"
+      },
+      "artists": [
+        {
+          "name": "Spice Girls",
+          "url": "https://open.spotify.com/artist/0uq5PttqEjj3IH1bzwcrXF"
+        }
+      ],
+      "duration_ms": 241026,
+      "name": "2 Become 1",
+      "url": "https://open.spotify.com/track/36AWdhZIGLUTkWpJDhe7va"
+    },
+    {
+      "added_at": "2022-03-21 23:00:00",
+      "album": {
         "name": "Supernatural (Legacy Edition)",
         "url": "https://open.spotify.com/album/1n12Kl9IoHSk65OcZDutSH"
       },
@@ -1259,22 +1275,6 @@
       "duration_ms": 261973,
       "name": "Maria Maria (feat. The Product G&B)",
       "url": "https://open.spotify.com/track/567UAkWoLBqZ709s3Qcbze"
-    },
-    {
-      "added_at": "2022-03-21 23:00:00",
-      "album": {
-        "name": "Spice",
-        "url": "https://open.spotify.com/album/3x2jF7blR6bFHtk4MccsyJ"
-      },
-      "artists": [
-        {
-          "name": "Spice Girls",
-          "url": "https://open.spotify.com/artist/0uq5PttqEjj3IH1bzwcrXF"
-        }
-      ],
-      "duration_ms": 241026,
-      "name": "2 Become 1",
-      "url": "https://open.spotify.com/track/36AWdhZIGLUTkWpJDhe7va"
     },
     {
       "added_at": "2022-03-21 23:00:00",
@@ -1447,22 +1447,6 @@
     {
       "added_at": "2022-03-21 23:00:00",
       "album": {
-        "name": "Extreme II: Pornograffitti (Deluxe)",
-        "url": "https://open.spotify.com/album/4bQ3DhbAEU6zhWFRhDNF3r"
-      },
-      "artists": [
-        {
-          "name": "Extreme",
-          "url": "https://open.spotify.com/artist/6w7j5wQ5AI5OQYlcM15s2L"
-        }
-      ],
-      "duration_ms": 334000,
-      "name": "More Than Words",
-      "url": "https://open.spotify.com/track/58c8pMaXi3xdpBIVfG6WGC"
-    },
-    {
-      "added_at": "2022-03-21 23:00:00",
-      "album": {
         "name": "Get A Grip",
         "url": "https://open.spotify.com/album/180jTzor4W2MQ9HW5h5Fh4"
       },
@@ -1475,6 +1459,22 @@
       "duration_ms": 355915,
       "name": "Amazing",
       "url": "https://open.spotify.com/track/60a5c4dDARPsksClcom0OD"
+    },
+    {
+      "added_at": "2022-03-21 23:00:00",
+      "album": {
+        "name": "Extreme II: Pornograffitti (Deluxe)",
+        "url": "https://open.spotify.com/album/4bQ3DhbAEU6zhWFRhDNF3r"
+      },
+      "artists": [
+        {
+          "name": "Extreme",
+          "url": "https://open.spotify.com/artist/6w7j5wQ5AI5OQYlcM15s2L"
+        }
+      ],
+      "duration_ms": 334000,
+      "name": "More Than Words",
+      "url": "https://open.spotify.com/track/58c8pMaXi3xdpBIVfG6WGC"
     },
     {
       "added_at": "2022-03-21 23:00:00",
@@ -1791,22 +1791,6 @@
     {
       "added_at": "2022-03-21 23:00:00",
       "album": {
-        "name": "Angels",
-        "url": "https://open.spotify.com/album/15lwLTwByJddohg3GvxICy"
-      },
-      "artists": [
-        {
-          "name": "Robbie Williams",
-          "url": "https://open.spotify.com/artist/2HcwFjNelS49kFbfvMxQYw"
-        }
-      ],
-      "duration_ms": 265333,
-      "name": "Angels",
-      "url": "https://open.spotify.com/track/7CKbqqrs0AS1si1ZgaQdcj"
-    },
-    {
-      "added_at": "2022-03-21 23:00:00",
-      "album": {
         "name": "Ray of Light",
         "url": "https://open.spotify.com/album/6cuNyrSmRjBeekioLdLkvI"
       },
@@ -1835,6 +1819,22 @@
       "duration_ms": 310666,
       "name": "Viva Forever",
       "url": "https://open.spotify.com/track/6BPDPcnbDMDf58srVzbfX9"
+    },
+    {
+      "added_at": "2022-03-21 23:00:00",
+      "album": {
+        "name": "Angels",
+        "url": "https://open.spotify.com/album/15lwLTwByJddohg3GvxICy"
+      },
+      "artists": [
+        {
+          "name": "Robbie Williams",
+          "url": "https://open.spotify.com/artist/2HcwFjNelS49kFbfvMxQYw"
+        }
+      ],
+      "duration_ms": 265333,
+      "name": "Angels",
+      "url": "https://open.spotify.com/track/7CKbqqrs0AS1si1ZgaQdcj"
     },
     {
       "added_at": "2022-03-21 23:00:00",
@@ -1919,26 +1919,6 @@
     {
       "added_at": "2022-03-21 23:00:00",
       "album": {
-        "name": "Chant Down Babylon",
-        "url": "https://open.spotify.com/album/4hV6TxaUkzEi4wUN6Fd0s7"
-      },
-      "artists": [
-        {
-          "name": "Bob Marley & The Wailers",
-          "url": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
-        },
-        {
-          "name": "Ms. Lauryn Hill",
-          "url": "https://open.spotify.com/artist/2Mu5NfyYm8n5iTomuKAEHl"
-        }
-      ],
-      "duration_ms": 346333,
-      "name": "Turn Your Lights Down Low",
-      "url": "https://open.spotify.com/track/7I1fHMDNlHobS8SBUJAUDt"
-    },
-    {
-      "added_at": "2022-03-21 23:00:00",
-      "album": {
         "name": "Enrique",
         "url": "https://open.spotify.com/album/2ENVytJO885v5c1AW2Qjci"
       },
@@ -1955,6 +1935,26 @@
       "duration_ms": 235293,
       "name": "Could I Have This Kiss Forever",
       "url": "https://open.spotify.com/track/01qCxvpyyIm0a0RG3uYxEm"
+    },
+    {
+      "added_at": "2022-03-21 23:00:00",
+      "album": {
+        "name": "Chant Down Babylon",
+        "url": "https://open.spotify.com/album/4hV6TxaUkzEi4wUN6Fd0s7"
+      },
+      "artists": [
+        {
+          "name": "Bob Marley & The Wailers",
+          "url": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
+        },
+        {
+          "name": "Ms. Lauryn Hill",
+          "url": "https://open.spotify.com/artist/2Mu5NfyYm8n5iTomuKAEHl"
+        }
+      ],
+      "duration_ms": 346333,
+      "name": "Turn Your Lights Down Low",
+      "url": "https://open.spotify.com/track/7I1fHMDNlHobS8SBUJAUDt"
     },
     {
       "added_at": "2022-03-21 23:00:00",
@@ -2031,22 +2031,6 @@
     {
       "added_at": "2022-03-21 23:00:00",
       "album": {
-        "name": "II",
-        "url": "https://open.spotify.com/album/1IWhZEOwEoXbOB4a40XaR3"
-      },
-      "artists": [
-        {
-          "name": "Boyz II Men",
-          "url": "https://open.spotify.com/artist/6O74knDqdv3XaWtkII7Xjp"
-        }
-      ],
-      "duration_ms": 236773,
-      "name": "I'll Make Love To You",
-      "url": "https://open.spotify.com/track/61sQYdFNS6sEBYCyr1q5gn"
-    },
-    {
-      "added_at": "2022-03-21 23:00:00",
-      "album": {
         "name": "Christina Aguilera (Expanded Edition)",
         "url": "https://open.spotify.com/album/6fpPZS13ImRVpr7Tqs6yP9"
       },
@@ -2059,6 +2043,22 @@
       "duration_ms": 273706,
       "name": "I Turn to You",
       "url": "https://open.spotify.com/track/4Do68W4FWO2hRAJCzG1lus"
+    },
+    {
+      "added_at": "2022-03-21 23:00:00",
+      "album": {
+        "name": "II",
+        "url": "https://open.spotify.com/album/1IWhZEOwEoXbOB4a40XaR3"
+      },
+      "artists": [
+        {
+          "name": "Boyz II Men",
+          "url": "https://open.spotify.com/artist/6O74knDqdv3XaWtkII7Xjp"
+        }
+      ],
+      "duration_ms": 236773,
+      "name": "I'll Make Love To You",
+      "url": "https://open.spotify.com/track/61sQYdFNS6sEBYCyr1q5gn"
     },
     {
       "added_at": "2022-03-21 23:00:00",
@@ -2095,22 +2095,6 @@
     {
       "added_at": "2022-03-21 23:00:00",
       "album": {
-        "name": "Timeless (The Classics)",
-        "url": "https://open.spotify.com/album/7g7nFMPWmFfk70ZvhTs0TT"
-      },
-      "artists": [
-        {
-          "name": "Michael Bolton",
-          "url": "https://open.spotify.com/artist/6YHEMoNPbcheiWS2haGzkn"
-        }
-      ],
-      "duration_ms": 247973,
-      "name": "To Love Somebody",
-      "url": "https://open.spotify.com/track/4ye6YRG07XMpZZ9Y9tNTt6"
-    },
-    {
-      "added_at": "2022-03-21 23:00:00",
-      "album": {
         "name": "The Element Of Freedom",
         "url": "https://open.spotify.com/album/0Rxab8t0y7GlaTJTHX2wEN"
       },
@@ -2123,6 +2107,22 @@
       "duration_ms": 249013,
       "name": "Try Sleeping with a Broken Heart",
       "url": "https://open.spotify.com/track/1yK9LISg5uBOOW5bT2Wm0i"
+    },
+    {
+      "added_at": "2022-03-21 23:00:00",
+      "album": {
+        "name": "Timeless (The Classics)",
+        "url": "https://open.spotify.com/album/7g7nFMPWmFfk70ZvhTs0TT"
+      },
+      "artists": [
+        {
+          "name": "Michael Bolton",
+          "url": "https://open.spotify.com/artist/6YHEMoNPbcheiWS2haGzkn"
+        }
+      ],
+      "duration_ms": 247973,
+      "name": "To Love Somebody",
+      "url": "https://open.spotify.com/track/4ye6YRG07XMpZZ9Y9tNTt6"
     },
     {
       "added_at": "2022-03-21 23:00:00",

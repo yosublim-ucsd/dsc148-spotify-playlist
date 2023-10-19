@@ -1352,6 +1352,24 @@
     {
       "album": {
         "name": "ILa",
+        "url": "https://open.spotify.com/album/7d3Ac0gUjLFBlZjz4BBKSX"
+      },
+      "artists": [
+        {
+          "name": "SAI",
+          "url": "https://open.spotify.com/artist/3qV6tSZj71FW9cKKD4hrHG"
+        }
+      ],
+      "date_added": "2023-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191000,
+      "name": "ILa",
+      "url": "https://open.spotify.com/track/5A3fkdwjAYasROx3YE9RMo"
+    },
+    {
+      "album": {
+        "name": "ILa",
         "url": "https://open.spotify.com/album/1fgM8l7SrpH7f9qG6iK6kk"
       },
       "artists": [
@@ -1362,7 +1380,7 @@
       ],
       "date_added": "2023-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-19",
       "duration_ms": 191000,
       "name": "ILa",
       "url": "https://open.spotify.com/track/4rfNk6NKqmof6v3MvSm2JL"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUileP28ODwg.md) - [plain]
 
 > Tune in here for new and current hits in Contemporary Christian music!  Guest curated by: <a href="spotify:artist:6KVnMm856M8CHHBCw53Ihh">Natalie Grant</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 318,555 likes - 100 songs - 6 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 318,642 likes - 100 songs - 6 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,8 +42,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUileP28ODwg.md) - [plain]
 | 32 | [I Speak Jesus](https://open.spotify.com/track/4eniDccFw5yQ1eckEM32Ex) | [Newsboys](https://open.spotify.com/artist/1SZMaiNHfdUuU0qZKZ6y62) | [I Speak Jesus](https://open.spotify.com/album/1lsIg61cq8FAgmkY1tPgDo) | 3:53 |
 | 33 | [Sound Mind \- Studio Version](https://open.spotify.com/track/06Bje3wAdtpotcf2JtYPET) | [Bryan & Katie Torwalt](https://open.spotify.com/artist/7bvAtcPT3evvSeHDyu2zBC) | [Sound Mind \(Studio Version\)](https://open.spotify.com/album/4RwDacWJD03qZP7q8glBGD) | 3:42 |
 | 34 | [Somebody Loves You](https://open.spotify.com/track/6jOrsBdE4gzgnUuwKjhNdy) | [Jordan Feliz](https://open.spotify.com/artist/0TgNiaeQaWssaH9aWjbqnA) | [Somebody Loves You](https://open.spotify.com/album/0m1sI2WlgWK2RuYEcB0ExO) | 3:11 |
-| 35 | [Ain't Nobody \- Radio Version](https://open.spotify.com/track/2iNzuYDmmD8dgEMLEaEpTx) | [Cody Carnes](https://open.spotify.com/artist/7apN8bBgl19E0Ona9pvPq0) | [Ain't Nobody](https://open.spotify.com/album/7fhnMJOjUfoIpU10Vrknv2) | 3:33 |
-| 36 | [Oxygen](https://open.spotify.com/track/2pOzcg0ID39t34si3387GC) | [Zauntee](https://open.spotify.com/artist/7jyr9Co4MKL1iWML1G7vch) | [The Stonebrook Project](https://open.spotify.com/album/2JvdBs33vEFPanVsFawXeU) | 3:26 |
+| 35 | [Oxygen](https://open.spotify.com/track/2pOzcg0ID39t34si3387GC) | [Zauntee](https://open.spotify.com/artist/7jyr9Co4MKL1iWML1G7vch) | [The Stonebrook Project](https://open.spotify.com/album/2JvdBs33vEFPanVsFawXeU) | 3:26 |
+| 36 | [Ain't Nobody \- Radio Version](https://open.spotify.com/track/2iNzuYDmmD8dgEMLEaEpTx) | [Cody Carnes](https://open.spotify.com/artist/7apN8bBgl19E0Ona9pvPq0) | [Ain't Nobody](https://open.spotify.com/album/7fhnMJOjUfoIpU10Vrknv2) | 3:33 |
 | 37 | [I'm So Blessed \- Aaron Cole Mix](https://open.spotify.com/track/5OjLmBBHKM9bt99wYGpmTe) | [CAIN](https://open.spotify.com/artist/2XDaX0gxzE4eCXjPPAREEq), [Aaron Cole](https://open.spotify.com/artist/0OQ8y7heASb1vEX5WXvjCr) | [I'm So Blessed \(Aaron Cole Mix\)](https://open.spotify.com/album/7itmb3rK26AZtLbdzy8QNQ) | 2:55 |
 | 38 | [Rollin'](https://open.spotify.com/track/0tgjvCrVS32K4QzbTSxPVd) | [Blessing Offor](https://open.spotify.com/artist/55qfDfgj4Qi3JGe6KpqGtC) | [Rollin'](https://open.spotify.com/album/5cWGiHofYU21PbMwcBv2XN) | 3:18 |
 | 39 | [You've Already Won \- Radio Version](https://open.spotify.com/track/0AFFHQofm2gRvFEHmnT7o1) | [Shane & Shane](https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied) | [You've Already Won \(Radio Version\)](https://open.spotify.com/album/1wDI9ygwPs3apzy4IB8SEK) | 4:22 |
@@ -84,15 +84,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUileP28ODwg.md) - [plain]
 | 74 | [Seasons](https://open.spotify.com/track/4BN0k321aIFLpaxxtwO23x) | [We Are Messengers](https://open.spotify.com/artist/5WcisvYoq6332gCUX039Jd) | [Hills Of Tyrone](https://open.spotify.com/album/7jiDpHKjW1ZitkptGTpp2v) | 3:29 |
 | 75 | [Worst Days](https://open.spotify.com/track/2LBcgkrR59qVYgwyuzy5Wg) | [CalledOut Music](https://open.spotify.com/artist/3VY7IlU2547DIC1ca88lRH) | [Worst Days](https://open.spotify.com/album/2cJ58kOSn3ilqpCdPUNFJO) | 3:31 |
 | 76 | [Where The Glory Is](https://open.spotify.com/track/6q3EbtWexNnSwFMnN3ieuO) | [Josh Baldwin](https://open.spotify.com/artist/2cB6hX2LI14KUTAevpaYn2) | [Where The Glory Is](https://open.spotify.com/album/2aCqdPVHym6UbK4p1eHAtm) | 4:30 |
-| 77 | [Live Out Loud](https://open.spotify.com/track/1ZGXXhZFcCqJ8JyQn7QKwc) | [Meredith Andrews](https://open.spotify.com/artist/6qk2W9h3eE5UtPJlIatzsY) | [Live Out Loud](https://open.spotify.com/album/28kdMr7VSh8tS0Qf2TsUJT) | 3:23 |
-| 78 | [One Heart at a Time](https://open.spotify.com/track/6JWRtXvUGFUyNNv768OL7v) | [Matt Maher](https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW) | [One Heart at a Time](https://open.spotify.com/album/0nmUmA7IASmi7wu1f6ooZG) | 4:22 |
+| 77 | [One Heart at a Time](https://open.spotify.com/track/6JWRtXvUGFUyNNv768OL7v) | [Matt Maher](https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW) | [One Heart at a Time](https://open.spotify.com/album/0nmUmA7IASmi7wu1f6ooZG) | 4:22 |
+| 78 | [Live Out Loud](https://open.spotify.com/track/1ZGXXhZFcCqJ8JyQn7QKwc) | [Meredith Andrews](https://open.spotify.com/artist/6qk2W9h3eE5UtPJlIatzsY) | [Live Out Loud](https://open.spotify.com/album/28kdMr7VSh8tS0Qf2TsUJT) | 3:23 |
 | 79 | [Plans](https://open.spotify.com/track/2vhZXqa2xiGCFGAxxhGcs6) | [David Leonard](https://open.spotify.com/artist/2r9qoFx4EhGP8RYFQ4eMIE) | [Plans](https://open.spotify.com/album/070LBiLQAHqlcuS3a4e2Jp) | 4:57 |
 | 80 | [Lead of Love](https://open.spotify.com/track/0o8tEsgdKFeCy1ScEi4tiM) | [Caedmon's Call](https://open.spotify.com/artist/0K1BPXwAU1CTd8DNZohopA) | [Caedmon's Call](https://open.spotify.com/album/6ptgSZ2JdSNK5TfU8s4B7A) | 4:01 |
 | 81 | [Burial](https://open.spotify.com/track/1VWktOJAGIbNzqmtCK8BHp) | [Mitch Wong](https://open.spotify.com/artist/0NmuD3IXcEGYAEX5hZxu39) | [Burial](https://open.spotify.com/album/0VzooohUIg7b3lgU9nwp7G) | 4:38 |
 | 82 | [Time](https://open.spotify.com/track/5mOeK4IBsw9SailoaEB9Kj) | [Corey Voss](https://open.spotify.com/artist/1eqQW3Oj7MHXK05b8O5RHa) | [Time](https://open.spotify.com/album/7r6f767S7JejcRmw2PAAOL) | 4:01 |
 | 83 | [At The End Of The River](https://open.spotify.com/track/1l1NFdzq5team6HHbWlTLk) | [Wyn Starks](https://open.spotify.com/artist/3rXMN9AbcZXln8vo79ufNQ), [The Fisk Jubilee Singers](https://open.spotify.com/artist/0UGSKGxAJfltNONQ4AtETL) | [At The End Of The River](https://open.spotify.com/album/7bfqllwYRjQSG6PfUGJsCX) | 4:42 |
-| 84 | [Valor](https://open.spotify.com/track/0zrDcz4IcvtNqvB04tJQgh) | [Christy Nockels](https://open.spotify.com/artist/0XFBXku1ro7p7bjFQk98o6) | [Valor](https://open.spotify.com/album/0P3HrGJ2h1D1XAoGRFaPK4) | 5:42 |
-| 85 | [Mountain Top](https://open.spotify.com/track/6C4UblYyeU2MG5Y97hEDue) | [Leslie Perez](https://open.spotify.com/artist/2NUERBKvU6ghDuqmLReybs) | [Mountain Top](https://open.spotify.com/album/6AgyARYCCb59nbtKDbKyjw) | 3:53 |
+| 84 | [Mountain Top](https://open.spotify.com/track/6C4UblYyeU2MG5Y97hEDue) | [Leslie Perez](https://open.spotify.com/artist/2NUERBKvU6ghDuqmLReybs) | [Mountain Top](https://open.spotify.com/album/6AgyARYCCb59nbtKDbKyjw) | 3:53 |
+| 85 | [Valor](https://open.spotify.com/track/0zrDcz4IcvtNqvB04tJQgh) | [Christy Nockels](https://open.spotify.com/artist/0XFBXku1ro7p7bjFQk98o6) | [Valor](https://open.spotify.com/album/0P3HrGJ2h1D1XAoGRFaPK4) | 5:42 |
 | 86 | [Not So Sure](https://open.spotify.com/track/50l0btNM2EyBEXJbAIri9U) | [Skye Peterson](https://open.spotify.com/artist/4W0D3e2IbX3hZD27ooX3xZ) | [Where The Winter Was](https://open.spotify.com/album/5aHds2df6eKrOirRI9895D) | 3:30 |
 | 87 | [I LOVE YOU TO DEATH](https://open.spotify.com/track/05nthkowAN1YmD7Y8ospny) | [TEMITOPE](https://open.spotify.com/artist/2YrmP8ksRyeEVkzYp5to25) | [I LOVE YOU TO DEATH](https://open.spotify.com/album/1DXLjXc0K8noPurFkXIzZK) | 3:23 |
 | 88 | [Worthy One](https://open.spotify.com/track/7DnsLjXPTPq0Sy24k6LPIR) | [CLINE](https://open.spotify.com/artist/1r5nbIz4NV4qjHiHA16FZj), [Mo Pitney](https://open.spotify.com/artist/7r9M6ptJz7XnQp2RVFArb4) | [Worthy One](https://open.spotify.com/album/0SLLkcMA1BbhmhSlhg091R) | 3:56 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUileP28ODwg.md) - [plain]
 | 99 | [Praise The Lord](https://open.spotify.com/track/6kewFKMdQ9pkCBuLvpfWXA) | [Micah Tyler](https://open.spotify.com/artist/04XtgzagYQRpeZt1sJThKi) | [Praise The Lord](https://open.spotify.com/album/1AnJKH5NbCHe9oyVTjaVeN) | 3:18 |
 | 100 | [To Not Worship You](https://open.spotify.com/track/5hPNvjfHsshgegY71cKdhO) | [MercyMe](https://open.spotify.com/artist/6APm8EjxOHSYM5B4i3vT3q) | [Always Only Jesus](https://open.spotify.com/album/1nBIuyrdndXAXnbldziVyD) | 3:45 |
 
-Snapshot ID: `MCw4MmM0MzIwN2I5N2JjMTA3NWJmYjBhM2I3MTI3NzAzZjc2NDc0YjRh`
+Snapshot ID: `MCxhMjI1NTU2OGI0MTM0NjQ4ZTFkZDBkMWFjOGZkZDdmNzEyMzc4NGRi`

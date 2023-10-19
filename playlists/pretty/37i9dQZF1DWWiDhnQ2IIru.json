@@ -1,12 +1,12 @@
 {
   "description": "Hit the road to the soundtrack of these seventies classics.",
-  "num_followers": 2973088,
+  "num_followers": 2973502,
   "original_name": "70s Road Trip",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkNWJlMGQ1MTk3N2NmZTc2Yzk0OTBlY2Y2OTQzNGI3ODcyYmI2MWE3",
+  "snapshot_id": "MCxkZGQyNzAzYmFmZGQ2YWNkNzlhYmRiODE2NDYyMGI3MTVkYjVkNzcw",
   "tracks": [
     {
       "added_at": "2021-02-10 18:00:33",
@@ -207,22 +207,6 @@
     {
       "added_at": "2021-02-10 18:00:33",
       "album": {
-        "name": "Commodores",
-        "url": "https://open.spotify.com/album/2tzbNCAUTmW4MIM2Ulvrwl"
-      },
-      "artists": [
-        {
-          "name": "Commodores",
-          "url": "https://open.spotify.com/artist/6twIAGnYuIT1pncMAsXnEm"
-        }
-      ],
-      "duration_ms": 256426,
-      "name": "Easy",
-      "url": "https://open.spotify.com/track/1JQ6Xm1JrvHfvAqhl5pwaA"
-    },
-    {
-      "added_at": "2021-02-10 18:00:33",
-      "album": {
         "name": "Reggatta De Blanc (Remastered 2003)",
         "url": "https://open.spotify.com/album/2EpuND32cO7CX0gXZl2NB6"
       },
@@ -235,6 +219,22 @@
       "duration_ms": 290280,
       "name": "Message In A Bottle",
       "url": "https://open.spotify.com/track/1oYYd2gnWZYrt89EBXdFiO"
+    },
+    {
+      "added_at": "2021-02-10 18:00:33",
+      "album": {
+        "name": "Commodores",
+        "url": "https://open.spotify.com/album/2tzbNCAUTmW4MIM2Ulvrwl"
+      },
+      "artists": [
+        {
+          "name": "Commodores",
+          "url": "https://open.spotify.com/artist/6twIAGnYuIT1pncMAsXnEm"
+        }
+      ],
+      "duration_ms": 256426,
+      "name": "Easy",
+      "url": "https://open.spotify.com/track/1JQ6Xm1JrvHfvAqhl5pwaA"
     },
     {
       "added_at": "2021-02-10 18:00:33",
@@ -1007,22 +1007,6 @@
     {
       "added_at": "2021-02-10 18:00:33",
       "album": {
-        "name": "Sundown",
-        "url": "https://open.spotify.com/album/2IPD9EcNjUmsHvqULDMU9Y"
-      },
-      "artists": [
-        {
-          "name": "Gordon Lightfoot",
-          "url": "https://open.spotify.com/artist/23rleGXVOVVgTk3xgtmfE4"
-        }
-      ],
-      "duration_ms": 213400,
-      "name": "Sundown",
-      "url": "https://open.spotify.com/track/0SjnBEHZVXgCKvOrpvzL2k"
-    },
-    {
-      "added_at": "2021-02-10 18:00:33",
-      "album": {
         "name": "Billy Ocean (Expanded Edition)",
         "url": "https://open.spotify.com/album/6o3pySsbnUSjfJvLFSMZgz"
       },
@@ -1035,6 +1019,22 @@
       "duration_ms": 179013,
       "name": "Love Really Hurts Without You",
       "url": "https://open.spotify.com/track/4GhtDORJiSRYxj6M1bv0vX"
+    },
+    {
+      "added_at": "2021-02-10 18:00:33",
+      "album": {
+        "name": "Sundown",
+        "url": "https://open.spotify.com/album/2IPD9EcNjUmsHvqULDMU9Y"
+      },
+      "artists": [
+        {
+          "name": "Gordon Lightfoot",
+          "url": "https://open.spotify.com/artist/23rleGXVOVVgTk3xgtmfE4"
+        }
+      ],
+      "duration_ms": 213400,
+      "name": "Sundown",
+      "url": "https://open.spotify.com/track/0SjnBEHZVXgCKvOrpvzL2k"
     },
     {
       "added_at": "2021-02-10 18:00:33",
@@ -1311,18 +1311,18 @@
     {
       "added_at": "2021-02-10 18:00:33",
       "album": {
-        "name": "Life & Times",
-        "url": "https://open.spotify.com/album/3q7L4mosMmOcmQNE1d0H4s"
+        "name": "Dance Vault Mixes - Copacabana (At The Copa)",
+        "url": "https://open.spotify.com/album/52Ho5XgGwrNrPARqqXhJ5P"
       },
       "artists": [
         {
-          "name": "Jim Croce",
-          "url": "https://open.spotify.com/artist/1R6Hx1tJ2VOUyodEpC12xM"
+          "name": "Barry Manilow",
+          "url": "https://open.spotify.com/artist/3alW3LYQS8K29z8C8NSLIX"
         }
       ],
-      "duration_ms": 182240,
-      "name": "Bad, Bad Leroy Brown",
-      "url": "https://open.spotify.com/track/1O0xeZrBDbq7HPREdmYUYK"
+      "duration_ms": 236760,
+      "name": "Copacabana (At the Copa)",
+      "url": "https://open.spotify.com/track/5FMXrphygZ4z3gVDHGWxgl"
     },
     {
       "added_at": "2021-02-10 18:00:33",
@@ -1343,18 +1343,18 @@
     {
       "added_at": "2021-02-10 18:00:33",
       "album": {
-        "name": "Dance Vault Mixes - Copacabana (At The Copa)",
-        "url": "https://open.spotify.com/album/52Ho5XgGwrNrPARqqXhJ5P"
+        "name": "Life & Times",
+        "url": "https://open.spotify.com/album/3q7L4mosMmOcmQNE1d0H4s"
       },
       "artists": [
         {
-          "name": "Barry Manilow",
-          "url": "https://open.spotify.com/artist/3alW3LYQS8K29z8C8NSLIX"
+          "name": "Jim Croce",
+          "url": "https://open.spotify.com/artist/1R6Hx1tJ2VOUyodEpC12xM"
         }
       ],
-      "duration_ms": 236760,
-      "name": "Copacabana (At the Copa)",
-      "url": "https://open.spotify.com/track/5FMXrphygZ4z3gVDHGWxgl"
+      "duration_ms": 182240,
+      "name": "Bad, Bad Leroy Brown",
+      "url": "https://open.spotify.com/track/1O0xeZrBDbq7HPREdmYUYK"
     },
     {
       "added_at": "2021-02-10 18:00:33",
@@ -1439,22 +1439,6 @@
     {
       "added_at": "2021-02-10 18:00:33",
       "album": {
-        "name": "Bat Out Of Hell",
-        "url": "https://open.spotify.com/album/6mvI80w5r78niBmwtu7RF9"
-      },
-      "artists": [
-        {
-          "name": "Meat Loaf",
-          "url": "https://open.spotify.com/artist/7dnB1wSxbYa8CejeVg98hz"
-        }
-      ],
-      "duration_ms": 508333,
-      "name": "Paradise By the Dashboard Light",
-      "url": "https://open.spotify.com/track/2g7gviEeJr6pyxO7G35EWQ"
-    },
-    {
-      "added_at": "2021-02-10 18:00:33",
-      "album": {
         "name": "Abandoned Luncheonette",
         "url": "https://open.spotify.com/album/47Dmo9RLpgHMusEiF8luvu"
       },
@@ -1467,6 +1451,22 @@
       "duration_ms": 313373,
       "name": "She's Gone",
       "url": "https://open.spotify.com/track/5dFoWIiJ2814hRwMYDcFiU"
+    },
+    {
+      "added_at": "2021-02-10 18:00:33",
+      "album": {
+        "name": "Bat Out Of Hell",
+        "url": "https://open.spotify.com/album/6mvI80w5r78niBmwtu7RF9"
+      },
+      "artists": [
+        {
+          "name": "Meat Loaf",
+          "url": "https://open.spotify.com/artist/7dnB1wSxbYa8CejeVg98hz"
+        }
+      ],
+      "duration_ms": 508333,
+      "name": "Paradise By the Dashboard Light",
+      "url": "https://open.spotify.com/track/2g7gviEeJr6pyxO7G35EWQ"
     },
     {
       "added_at": "2021-02-10 18:00:33",

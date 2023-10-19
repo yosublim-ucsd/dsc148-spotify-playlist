@@ -1,12 +1,12 @@
 {
   "description": "Need to get your energy level up?",
-  "num_followers": 743420,
+  "num_followers": 743956,
   "original_name": "Energy Booster: Dance",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlOTA0YTVkZWMxZDMxNTFkNDY5N2FlYmMyNjhlZWNlZjE3YjY4YjFj",
+  "snapshot_id": "MCw2YzAyMTg2ZGI2NzM5NDMwODUzM2VhOGRiNWM1ZTc0Y2I2ZDhjZjlj",
   "tracks": [
     {
       "added_at": "2023-09-29 04:00:00",
@@ -459,22 +459,26 @@
     {
       "added_at": "2023-09-29 04:00:00",
       "album": {
-        "name": "Good Love",
-        "url": "https://open.spotify.com/album/4SCAkvXJmXuvoQTlQU7Q48"
+        "name": "Your Love (9PM)",
+        "url": "https://open.spotify.com/album/7F9yYqHRtIZnEGF2tANI4b"
       },
       "artists": [
         {
-          "name": "Hannah Laing",
-          "url": "https://open.spotify.com/artist/1QEd635szhierW6gzRiS1o"
+          "name": "ATB",
+          "url": "https://open.spotify.com/artist/7jZM5w05mGhw6wTB1okhD9"
         },
         {
-          "name": "RoRo",
-          "url": "https://open.spotify.com/artist/4AuHHsxMRVg7bXSgvlrAff"
+          "name": "Topic",
+          "url": "https://open.spotify.com/artist/0u6GtibW46tFX7koQ6uNJZ"
+        },
+        {
+          "name": "A7S",
+          "url": "https://open.spotify.com/artist/5Wg2b4Mp42gicxEeDNawf7"
         }
       ],
-      "duration_ms": 169534,
-      "name": "Good Love",
-      "url": "https://open.spotify.com/track/0ZVjgfaC2Ptrod9v6p9KFP"
+      "duration_ms": 150052,
+      "name": "Your Love (9PM)",
+      "url": "https://open.spotify.com/track/5YaskwnGDZFDRipaqzbwQx"
     },
     {
       "added_at": "2023-09-29 04:00:00",
@@ -515,26 +519,22 @@
     {
       "added_at": "2023-09-29 04:00:00",
       "album": {
-        "name": "Your Love (9PM)",
-        "url": "https://open.spotify.com/album/7F9yYqHRtIZnEGF2tANI4b"
+        "name": "Good Love",
+        "url": "https://open.spotify.com/album/4SCAkvXJmXuvoQTlQU7Q48"
       },
       "artists": [
         {
-          "name": "ATB",
-          "url": "https://open.spotify.com/artist/7jZM5w05mGhw6wTB1okhD9"
+          "name": "Hannah Laing",
+          "url": "https://open.spotify.com/artist/1QEd635szhierW6gzRiS1o"
         },
         {
-          "name": "Topic",
-          "url": "https://open.spotify.com/artist/0u6GtibW46tFX7koQ6uNJZ"
-        },
-        {
-          "name": "A7S",
-          "url": "https://open.spotify.com/artist/5Wg2b4Mp42gicxEeDNawf7"
+          "name": "RoRo",
+          "url": "https://open.spotify.com/artist/4AuHHsxMRVg7bXSgvlrAff"
         }
       ],
-      "duration_ms": 150052,
-      "name": "Your Love (9PM)",
-      "url": "https://open.spotify.com/track/5YaskwnGDZFDRipaqzbwQx"
+      "duration_ms": 169534,
+      "name": "Good Love",
+      "url": "https://open.spotify.com/track/0ZVjgfaC2Ptrod9v6p9KFP"
     },
     {
       "added_at": "2023-09-29 04:00:00",
@@ -1159,22 +1159,6 @@
     {
       "added_at": "2023-09-29 04:00:00",
       "album": {
-        "name": "Maria Maria",
-        "url": "https://open.spotify.com/album/4VMuvqjQv3yvtFdlLs9Mnd"
-      },
-      "artists": [
-        {
-          "name": "TECH IT DEEP",
-          "url": "https://open.spotify.com/artist/0zG1jPdH10g3d0dZINMYkw"
-        }
-      ],
-      "duration_ms": 161801,
-      "name": "Maria Maria",
-      "url": "https://open.spotify.com/track/4wP6mzWZC94dYmU6OYeljf"
-    },
-    {
-      "added_at": "2023-09-29 04:00:00",
-      "album": {
         "name": "Nevada",
         "url": "https://open.spotify.com/album/35waq1Bkgy11OjZNGuk9Gj"
       },
@@ -1191,6 +1175,22 @@
       "duration_ms": 208561,
       "name": "Nevada",
       "url": "https://open.spotify.com/track/02shCNmb6IvgB5jLqKjtkK"
+    },
+    {
+      "added_at": "2023-09-29 04:00:00",
+      "album": {
+        "name": "Maria Maria",
+        "url": "https://open.spotify.com/album/4VMuvqjQv3yvtFdlLs9Mnd"
+      },
+      "artists": [
+        {
+          "name": "TECH IT DEEP",
+          "url": "https://open.spotify.com/artist/0zG1jPdH10g3d0dZINMYkw"
+        }
+      ],
+      "duration_ms": 161801,
+      "name": "Maria Maria",
+      "url": "https://open.spotify.com/track/4wP6mzWZC94dYmU6OYeljf"
     },
     {
       "added_at": "2023-09-29 04:00:00",
@@ -1251,22 +1251,22 @@
     {
       "added_at": "2023-09-29 04:00:00",
       "album": {
-        "name": "Rise Up (feat. Vamero)",
-        "url": "https://open.spotify.com/album/4DsxykS9CPTnJPeoWXkRV8"
+        "name": "Monster",
+        "url": "https://open.spotify.com/album/3S7LqjI8EzC8FudcsX2T2W"
       },
       "artists": [
         {
-          "name": "VINAI",
-          "url": "https://open.spotify.com/artist/4mrBetqy378Jf1y6NLszlx"
+          "name": "LUM!X",
+          "url": "https://open.spotify.com/artist/0TKFPt9w0AAEnhB9bd0pLy"
         },
         {
-          "name": "VAMERO",
-          "url": "https://open.spotify.com/artist/74GrV01oFcjJdLHCF9MWhr"
+          "name": "Gabry Ponte",
+          "url": "https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D"
         }
       ],
-      "duration_ms": 182000,
-      "name": "Rise Up (feat. Vamero)",
-      "url": "https://open.spotify.com/track/46lyJh9GYmWsHez3EsvmAx"
+      "duration_ms": 154226,
+      "name": "Monster",
+      "url": "https://open.spotify.com/track/0YU17F0BlVXvmx5ytsR43w"
     },
     {
       "added_at": "2023-09-29 04:00:00",
@@ -1291,6 +1291,26 @@
     {
       "added_at": "2023-09-29 04:00:00",
       "album": {
+        "name": "Rise Up (feat. Vamero)",
+        "url": "https://open.spotify.com/album/4DsxykS9CPTnJPeoWXkRV8"
+      },
+      "artists": [
+        {
+          "name": "VINAI",
+          "url": "https://open.spotify.com/artist/4mrBetqy378Jf1y6NLszlx"
+        },
+        {
+          "name": "VAMERO",
+          "url": "https://open.spotify.com/artist/74GrV01oFcjJdLHCF9MWhr"
+        }
+      ],
+      "duration_ms": 182000,
+      "name": "Rise Up (feat. Vamero)",
+      "url": "https://open.spotify.com/track/46lyJh9GYmWsHez3EsvmAx"
+    },
+    {
+      "added_at": "2023-09-29 04:00:00",
+      "album": {
         "name": "Push Up (Original Mix)",
         "url": "https://open.spotify.com/album/4OPl8QJEF698sMfW76g5mK"
       },
@@ -1303,26 +1323,6 @@
       "duration_ms": 240059,
       "name": "Push Up - Original Mix",
       "url": "https://open.spotify.com/track/43OMUa5jouGCZEz9k9vooo"
-    },
-    {
-      "added_at": "2023-09-29 04:00:00",
-      "album": {
-        "name": "Monster",
-        "url": "https://open.spotify.com/album/3S7LqjI8EzC8FudcsX2T2W"
-      },
-      "artists": [
-        {
-          "name": "LUM!X",
-          "url": "https://open.spotify.com/artist/0TKFPt9w0AAEnhB9bd0pLy"
-        },
-        {
-          "name": "Gabry Ponte",
-          "url": "https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D"
-        }
-      ],
-      "duration_ms": 154226,
-      "name": "Monster",
-      "url": "https://open.spotify.com/track/0YU17F0BlVXvmx5ytsR43w"
     },
     {
       "added_at": "2023-09-29 04:00:00",
@@ -1683,6 +1683,22 @@
     {
       "added_at": "2023-09-29 04:00:00",
       "album": {
+        "name": "Some Things",
+        "url": "https://open.spotify.com/album/7d5N4KB4rlO1kqcoyLdm3h"
+      },
+      "artists": [
+        {
+          "name": "Lasgo",
+          "url": "https://open.spotify.com/artist/25Kw8f1zcn9VtUk5Nl3qrp"
+        }
+      ],
+      "duration_ms": 220973,
+      "name": "Something",
+      "url": "https://open.spotify.com/track/3e9L9HiHKcfYLAga28Vmcf"
+    },
+    {
+      "added_at": "2023-09-29 04:00:00",
+      "album": {
         "name": "After Midnight (feat. Xoro)",
         "url": "https://open.spotify.com/album/5p7P8z9HOWkmY68oCHfu4I"
       },
@@ -1703,22 +1719,6 @@
       "duration_ms": 143526,
       "name": "After Midnight (feat. Xoro)",
       "url": "https://open.spotify.com/track/5ANWAzmveemGd3Zqb5FXR1"
-    },
-    {
-      "added_at": "2023-09-29 04:00:00",
-      "album": {
-        "name": "Some Things",
-        "url": "https://open.spotify.com/album/7d5N4KB4rlO1kqcoyLdm3h"
-      },
-      "artists": [
-        {
-          "name": "Lasgo",
-          "url": "https://open.spotify.com/artist/25Kw8f1zcn9VtUk5Nl3qrp"
-        }
-      ],
-      "duration_ms": 220973,
-      "name": "Something",
-      "url": "https://open.spotify.com/track/3e9L9HiHKcfYLAga28Vmcf"
     },
     {
       "added_at": "2023-09-29 04:00:00",
@@ -1799,22 +1799,6 @@
     {
       "added_at": "2023-09-29 04:00:00",
       "album": {
-        "name": "Smash My Heart",
-        "url": "https://open.spotify.com/album/6OGooptBXrnOCxCvdgKz7O"
-      },
-      "artists": [
-        {
-          "name": "Robin Schulz",
-          "url": "https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S"
-        }
-      ],
-      "duration_ms": 170706,
-      "name": "Smash My Heart",
-      "url": "https://open.spotify.com/track/7uCbQR6CHGsy8xCR8JRKyG"
-    },
-    {
-      "added_at": "2023-09-29 04:00:00",
-      "album": {
         "name": "Balance",
         "url": "https://open.spotify.com/album/5cqwXF2j9LkvFInBFlnQd3"
       },
@@ -1827,6 +1811,22 @@
       "duration_ms": 183518,
       "name": "Blah Blah Blah",
       "url": "https://open.spotify.com/track/1moFkZDqcjQNeXtyoanLHv"
+    },
+    {
+      "added_at": "2023-09-29 04:00:00",
+      "album": {
+        "name": "Smash My Heart",
+        "url": "https://open.spotify.com/album/6OGooptBXrnOCxCvdgKz7O"
+      },
+      "artists": [
+        {
+          "name": "Robin Schulz",
+          "url": "https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S"
+        }
+      ],
+      "duration_ms": 170706,
+      "name": "Smash My Heart",
+      "url": "https://open.spotify.com/track/7uCbQR6CHGsy8xCR8JRKyG"
     },
     {
       "added_at": "2023-09-29 04:00:00",
@@ -1983,6 +1983,22 @@
     {
       "added_at": "2023-09-29 04:00:00",
       "album": {
+        "name": "You Little Beauty",
+        "url": "https://open.spotify.com/album/1voOnpa4pILlDPVsrIFl8b"
+      },
+      "artists": [
+        {
+          "name": "FISHER",
+          "url": "https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt"
+        }
+      ],
+      "duration_ms": 206587,
+      "name": "You Little Beauty",
+      "url": "https://open.spotify.com/track/1gRQxbfL4ULWyTosgXSbWT"
+    },
+    {
+      "added_at": "2023-09-29 04:00:00",
+      "album": {
         "name": "Narco",
         "url": "https://open.spotify.com/album/1lINYBzMLR4DYFverdCmPK"
       },
@@ -1999,22 +2015,6 @@
       "duration_ms": 208634,
       "name": "Narco",
       "url": "https://open.spotify.com/track/4TuNI3WEMyLQAKRMJmcQdA"
-    },
-    {
-      "added_at": "2023-09-29 04:00:00",
-      "album": {
-        "name": "You Little Beauty",
-        "url": "https://open.spotify.com/album/1voOnpa4pILlDPVsrIFl8b"
-      },
-      "artists": [
-        {
-          "name": "FISHER",
-          "url": "https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt"
-        }
-      ],
-      "duration_ms": 206587,
-      "name": "You Little Beauty",
-      "url": "https://open.spotify.com/track/1gRQxbfL4ULWyTosgXSbWT"
     },
     {
       "added_at": "2023-09-29 04:00:00",
@@ -2179,26 +2179,6 @@
     {
       "added_at": "2023-09-29 04:00:00",
       "album": {
-        "name": "On The Move",
-        "url": "https://open.spotify.com/album/2aFtLWVpsrONFCNJZgEo9R"
-      },
-      "artists": [
-        {
-          "name": "LIZOT",
-          "url": "https://open.spotify.com/artist/12A83CWwFiyXy90ScLWPIe"
-        },
-        {
-          "name": "PRISKA",
-          "url": "https://open.spotify.com/artist/2VnNxgnvg9H85vWtZuBo6w"
-        }
-      ],
-      "duration_ms": 139411,
-      "name": "On The Move",
-      "url": "https://open.spotify.com/track/7lEBtmu2qRLupeSOupBa1j"
-    },
-    {
-      "added_at": "2023-09-29 04:00:00",
-      "album": {
         "name": "On & On",
         "url": "https://open.spotify.com/album/2a9AGivapFES2j2ElI3odn"
       },
@@ -2215,6 +2195,26 @@
       "duration_ms": 147026,
       "name": "On & On",
       "url": "https://open.spotify.com/track/7sYAS4CpbV90oSemgaEQat"
+    },
+    {
+      "added_at": "2023-09-29 04:00:00",
+      "album": {
+        "name": "On The Move",
+        "url": "https://open.spotify.com/album/2aFtLWVpsrONFCNJZgEo9R"
+      },
+      "artists": [
+        {
+          "name": "LIZOT",
+          "url": "https://open.spotify.com/artist/12A83CWwFiyXy90ScLWPIe"
+        },
+        {
+          "name": "PRISKA",
+          "url": "https://open.spotify.com/artist/2VnNxgnvg9H85vWtZuBo6w"
+        }
+      ],
+      "duration_ms": 139411,
+      "name": "On The Move",
+      "url": "https://open.spotify.com/track/7lEBtmu2qRLupeSOupBa1j"
     },
     {
       "added_at": "2023-09-29 04:00:00",
@@ -2487,34 +2487,22 @@
     {
       "added_at": "2023-09-29 04:00:00",
       "album": {
-        "name": "I'm Blue (Club Mixes)",
-        "url": "https://open.spotify.com/album/785itgCjNtYOiRpu1SIDoo"
+        "name": "All Stars",
+        "url": "https://open.spotify.com/album/0QmyqQAPTLxNCs6qya9CSa"
       },
       "artists": [
         {
-          "name": "Kush Kush",
-          "url": "https://open.spotify.com/artist/5P4P6G0pubLi65R3zRnSCf"
-        }
-      ],
-      "duration_ms": 150000,
-      "name": "I'm Blue - Club Mix",
-      "url": "https://open.spotify.com/track/0P5lXk4fg0682IgDyK7GFM"
-    },
-    {
-      "added_at": "2023-09-29 04:00:00",
-      "album": {
-        "name": "Boyz N Da Club (Radio Edit)",
-        "url": "https://open.spotify.com/album/0W9rKo615E4R4jTAsE4vZM"
-      },
-      "artists": [
+          "name": "Martin Solveig",
+          "url": "https://open.spotify.com/artist/1bj5GrcLom5gZFF5t949Xl"
+        },
         {
-          "name": "Shermanology",
-          "url": "https://open.spotify.com/artist/4Siyzg8kWayQfPQsPSl6JI"
+          "name": "ALMA",
+          "url": "https://open.spotify.com/artist/6c0mTNAxJxlp9HpKTUZwA8"
         }
       ],
-      "duration_ms": 141395,
-      "name": "Boyz N Da Club - Radio Edit",
-      "url": "https://open.spotify.com/track/26zt79lTciS4tfncBX1qPV"
+      "duration_ms": 170322,
+      "name": "All Stars",
+      "url": "https://open.spotify.com/track/26haJjtanhamtf25RXH0MO"
     },
     {
       "added_at": "2023-09-29 04:00:00",
@@ -2547,22 +2535,34 @@
     {
       "added_at": "2023-09-29 04:00:00",
       "album": {
-        "name": "All Stars",
-        "url": "https://open.spotify.com/album/0QmyqQAPTLxNCs6qya9CSa"
+        "name": "I'm Blue (Club Mixes)",
+        "url": "https://open.spotify.com/album/785itgCjNtYOiRpu1SIDoo"
       },
       "artists": [
         {
-          "name": "Martin Solveig",
-          "url": "https://open.spotify.com/artist/1bj5GrcLom5gZFF5t949Xl"
-        },
-        {
-          "name": "ALMA",
-          "url": "https://open.spotify.com/artist/6c0mTNAxJxlp9HpKTUZwA8"
+          "name": "Kush Kush",
+          "url": "https://open.spotify.com/artist/5P4P6G0pubLi65R3zRnSCf"
         }
       ],
-      "duration_ms": 170322,
-      "name": "All Stars",
-      "url": "https://open.spotify.com/track/26haJjtanhamtf25RXH0MO"
+      "duration_ms": 150000,
+      "name": "I'm Blue - Club Mix",
+      "url": "https://open.spotify.com/track/0P5lXk4fg0682IgDyK7GFM"
+    },
+    {
+      "added_at": "2023-09-29 04:00:00",
+      "album": {
+        "name": "Boyz N Da Club (Radio Edit)",
+        "url": "https://open.spotify.com/album/0W9rKo615E4R4jTAsE4vZM"
+      },
+      "artists": [
+        {
+          "name": "Shermanology",
+          "url": "https://open.spotify.com/artist/4Siyzg8kWayQfPQsPSl6JI"
+        }
+      ],
+      "duration_ms": 141395,
+      "name": "Boyz N Da Club - Radio Edit",
+      "url": "https://open.spotify.com/track/26zt79lTciS4tfncBX1qPV"
     },
     {
       "added_at": "2023-09-29 04:00:00",

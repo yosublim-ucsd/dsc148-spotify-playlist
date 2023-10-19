@@ -1,12 +1,12 @@
 {
   "description": "The biggest hits from country artists around the globe. Cover: Jade Eagleson",
-  "num_followers": 38305,
+  "num_followers": 38509,
   "original_name": "Country Worldwide",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlNDY5MGM3YmE1MWVlYmU3YmZkOTg5YWQwMjZiMGMwYTExMzI3YWRi",
+  "snapshot_id": "MCw2Y2NiYmRmZmQyNDA2ODY0YjQ3MTk5OTczMDBlMzgxZDllYWZmOWEx",
   "tracks": [
     {
       "added_at": "2023-09-29 04:00:00",
@@ -1059,6 +1059,22 @@
     {
       "added_at": "2023-09-29 04:00:00",
       "album": {
+        "name": "Coal",
+        "url": "https://open.spotify.com/album/5c5a2dLd2qLVN5zlaOcKJQ"
+      },
+      "artists": [
+        {
+          "name": "Dylan Gossett",
+          "url": "https://open.spotify.com/artist/4H4M0Y4cN39zIVDHvdW53x"
+        }
+      ],
+      "duration_ms": 194440,
+      "name": "Coal",
+      "url": "https://open.spotify.com/track/4dtIxANFBU6CfhI9c2hf2g"
+    },
+    {
+      "added_at": "2023-09-29 04:00:00",
+      "album": {
         "name": "Different Man",
         "url": "https://open.spotify.com/album/7dfTBn7wtgKEchVmyipBl1"
       },
@@ -1075,22 +1091,6 @@
       "duration_ms": 174560,
       "name": "Thank God",
       "url": "https://open.spotify.com/track/1brnLTvarI9D1hLP6z2Ar8"
-    },
-    {
-      "added_at": "2023-09-29 04:00:00",
-      "album": {
-        "name": "Coal",
-        "url": "https://open.spotify.com/album/5c5a2dLd2qLVN5zlaOcKJQ"
-      },
-      "artists": [
-        {
-          "name": "Dylan Gossett",
-          "url": "https://open.spotify.com/artist/4H4M0Y4cN39zIVDHvdW53x"
-        }
-      ],
-      "duration_ms": 194440,
-      "name": "Coal",
-      "url": "https://open.spotify.com/track/4dtIxANFBU6CfhI9c2hf2g"
     },
     {
       "added_at": "2023-09-29 04:00:00",
@@ -1499,6 +1499,22 @@
     {
       "added_at": "2023-09-29 04:00:00",
       "album": {
+        "name": "Love,Heartbreak, & Everything in Between",
+        "url": "https://open.spotify.com/album/478FbS6cYoaEYreO0H4YOx"
+      },
+      "artists": [
+        {
+          "name": "Tenille Arts",
+          "url": "https://open.spotify.com/artist/0gSAxSvAApQc71cTpoXDFu"
+        }
+      ],
+      "duration_ms": 198208,
+      "name": "Somebody Like That",
+      "url": "https://open.spotify.com/track/4K7wet87HnlWKi0CXWvg1i"
+    },
+    {
+      "added_at": "2023-09-29 04:00:00",
+      "album": {
         "name": "Things That We Drink To",
         "url": "https://open.spotify.com/album/7CgrejBVsP6OeA3WgxDPPc"
       },
@@ -1531,22 +1547,6 @@
       "duration_ms": 158320,
       "name": "Can't Help Myself",
       "url": "https://open.spotify.com/track/3DpYNk8DsTwZ8rtTTTrKyf"
-    },
-    {
-      "added_at": "2023-09-29 04:00:00",
-      "album": {
-        "name": "Love,Heartbreak, & Everything in Between",
-        "url": "https://open.spotify.com/album/478FbS6cYoaEYreO0H4YOx"
-      },
-      "artists": [
-        {
-          "name": "Tenille Arts",
-          "url": "https://open.spotify.com/artist/0gSAxSvAApQc71cTpoXDFu"
-        }
-      ],
-      "duration_ms": 198208,
-      "name": "Somebody Like That",
-      "url": "https://open.spotify.com/track/4K7wet87HnlWKi0CXWvg1i"
     },
     {
       "added_at": "2023-09-29 04:00:00",
@@ -1655,18 +1655,18 @@
     {
       "added_at": "2023-09-29 04:00:00",
       "album": {
-        "name": "Second Guessing",
-        "url": "https://open.spotify.com/album/3dUeViIWtPKrhBzcSzuXAD"
+        "name": "Love,Heartbreak, & Everything in Between",
+        "url": "https://open.spotify.com/album/478FbS6cYoaEYreO0H4YOx"
       },
       "artists": [
         {
-          "name": "Griffen Palmer",
-          "url": "https://open.spotify.com/artist/00b93R5OC1EHaBxEdQUfAQ"
+          "name": "Tenille Arts",
+          "url": "https://open.spotify.com/artist/0gSAxSvAApQc71cTpoXDFu"
         }
       ],
-      "duration_ms": 189782,
-      "name": "Second Guessing",
-      "url": "https://open.spotify.com/track/0rrF82CbDxrY8y5nDVM7um"
+      "duration_ms": 188853,
+      "name": "I Hate This",
+      "url": "https://open.spotify.com/track/6c90n39x5VKMsxOSTEeNRv"
     }
   ],
   "unique_name": "Country Worldwide",

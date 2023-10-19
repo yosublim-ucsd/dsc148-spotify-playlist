@@ -4,7 +4,7 @@
 
 > Modern heavenly sounds\. Cover: L'Rain
 
-543 songs - 1 day 10 hr 6 min
+544 songs - 1 day 10 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -114,7 +114,7 @@
 | [Color of the Pool](https://open.spotify.com/track/487No2iHijl2TqOM6OBC3U) | [Lala Lala](https://open.spotify.com/artist/492I2sQFcHDcsZECYX25dE) | [Color of the Pool](https://open.spotify.com/album/6BnLKRLuEEeTwZwfVk1Eo3) | 2:22 | 2021-10-08 | 2022-07-29 |
 | [COMATOSE](https://open.spotify.com/track/0WPWiuKkA0nA0uSpzB61CJ) | [ill peach](https://open.spotify.com/artist/79E3M2o4FRthRViQXaCWDt) | [COMATOSE](https://open.spotify.com/album/7bwRaPmS8a1owPXZcwPD2K) | 3:28 | 2022-03-07 | 2022-04-20 |
 | [Come To Me](https://open.spotify.com/track/2z0IvBi4B2HOV1PEhiiowj) | [ÄTNA](https://open.spotify.com/artist/4ORnI4BzjKFbUply6fRvkX) | [Made By Desire](https://open.spotify.com/album/0c2Dijuv3MYUkgMKzXyGcz) | 2:50 | 2022-02-10 | 2022-04-18 |
-| [Con La Brisa \- Film Version](https://open.spotify.com/track/2vthaS3SkgTfe5vrpVgITG) | [Foudeqush](https://open.spotify.com/artist/0XFgM33h3Ls5tj1M9IKUWd), [Ludwig Göransson](https://open.spotify.com/artist/24eDfi2MSYo3A87hCcgpIL) | [Black Panther: Wakanda Forever \(Original Score\)](https://open.spotify.com/album/2lPz7qiqG7TfvKr3S1Lv6p) | 2:40 | 2022-11-21 |  |
+| [Con La Brisa \- Film Version](https://open.spotify.com/track/2vthaS3SkgTfe5vrpVgITG) | [Foudeqush](https://open.spotify.com/artist/0XFgM33h3Ls5tj1M9IKUWd), [Ludwig Göransson](https://open.spotify.com/artist/24eDfi2MSYo3A87hCcgpIL) | [Black Panther: Wakanda Forever \(Original Score\)](https://open.spotify.com/album/2lPz7qiqG7TfvKr3S1Lv6p) | 2:40 | 2022-11-21 | 2023-10-19 |
 | [Concrete Angel](https://open.spotify.com/track/33om1peLEWLBZimmmjpfxH) | [Hannah Diamond](https://open.spotify.com/artist/3sXErEOw7EmO6Sj7EgjHdU) | [Reflections](https://open.spotify.com/album/3h1wgea55XrtVoxrkRYDBn) | 4:58 | 2021-10-08 | 2022-04-14 |
 | [Concrete Over Water](https://open.spotify.com/track/4EGMLBvaIIHNYuTQ3vyJmd) | [Jockstrap](https://open.spotify.com/artist/6S3Z6Me30mtdm526H17v8k) | [Concrete Over Water](https://open.spotify.com/album/2yvTYZAs8hfm3p8bStCBLR) | 6:09 | 2022-04-22 | 2022-07-29 |
 | [Condition](https://open.spotify.com/track/1wQ6S5SPsqwH1tq5KVzTuj) | [Nosaj Thing](https://open.spotify.com/artist/0IVapwlnM3dEOiMsHXsghT), [Toro y Moi](https://open.spotify.com/artist/6O4EGCCb6DoIiR6B1QCQgp) | [Condition](https://open.spotify.com/album/4SeGILepZRhket1VhSA8DV) | 3:44 | 2022-10-21 | 2023-01-26 |
@@ -125,6 +125,7 @@
 | [Creep \- Very 2021 Rmx](https://open.spotify.com/track/2KwRMzefAHziMwQabFpKz4) | [Thom Yorke](https://open.spotify.com/artist/4CvTDPKA6W06DRfBnZKrau), [Radiohead](https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb) | [Creep \(Very 2021 Rmx\)](https://open.spotify.com/album/4LS4w3gfUGH1WnpGcbUHhp) | 9:02 | 2021-07-19 | 2022-06-07 |
 | [Cruel World](https://open.spotify.com/track/3Ian22jSpN2O6tBRI307Ok) | [Active Child](https://open.spotify.com/artist/54KTsBl98buzGkELjGlnuU) | [In Another Life](https://open.spotify.com/album/6WlmR977FLZn35bctH2DWv) | 5:15 | 2023-01-18 | 2023-08-30 |
 | [Crumbs](https://open.spotify.com/track/4SBTecHxEs2ayXLiqs7Kmz) | [Rebecca Black](https://open.spotify.com/artist/3Vl9fyKMIdLMswk8ai3mm9) | [Crumbs](https://open.spotify.com/album/2GYTn1Jzit4e1GC80h9yzQ) | 3:13 | 2022-11-18 | 2022-12-25 |
+| [Crush](https://open.spotify.com/track/0nsIevK1SeDfZzDOi6Si75) | [Ethel Cain](https://open.spotify.com/artist/0avMDS4HyoCEP6RqZJWpY2) | [Inbred](https://open.spotify.com/album/013WXRAOja0kZ6gnlTCwJ5) | 3:24 | 2023-04-28 |  |
 | [Crush](https://open.spotify.com/track/2O1bAhJCHW0E3uuoWzRrGi) | [Ethel Cain](https://open.spotify.com/artist/0avMDS4HyoCEP6RqZJWpY2) | [Inbred](https://open.spotify.com/album/1Q4UcRCYPn6u0pNHioOYjs) | 3:24 | 2022-06-03 | 2022-10-14 |
 | [Crush](https://open.spotify.com/track/5bwLs2TUxldWW6ZGOI9Zx6) | [Ethel Cain](https://open.spotify.com/artist/0avMDS4HyoCEP6RqZJWpY2) | [Crush](https://open.spotify.com/album/5kayIDGILIGFsncMAbLPer) | 3:24 | 2021-06-03 | 2022-06-24 |
 | [Crush](https://open.spotify.com/track/78sdhV2qA9aFFzwhPdEQh5) | [Ethel Cain](https://open.spotify.com/artist/0avMDS4HyoCEP6RqZJWpY2) | [Inbred](https://open.spotify.com/album/0gAyvJCgGfm5AqcRvAV3Ob) | 3:24 | 2022-10-21 | 2023-10-13 |

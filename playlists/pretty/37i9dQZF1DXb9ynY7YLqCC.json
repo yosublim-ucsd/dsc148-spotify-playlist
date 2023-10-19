@@ -1,12 +1,12 @@
 {
   "description": "Canciones directas y banderas al viento. Foto: La 25.",
-  "num_followers": 152274,
+  "num_followers": 152376,
   "original_name": "Rock Barrial",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3YjNkMjY1OGY5NzFjM2IxNWMwMDYwOTU1N2Y2ZDZiYmQ3MmM1YmM3",
+  "snapshot_id": "MCw1YWQ3ZTY3ODhjZDNlYjI3MmYwNmIwOTRhNTMyYzE5OTUwYzE1NGM4",
   "tracks": [
     {
       "added_at": "2023-10-05 22:09:33",
@@ -283,22 +283,6 @@
     {
       "added_at": "2023-10-05 22:09:33",
       "album": {
-        "name": "Detonador de Sue\u00f1os",
-        "url": "https://open.spotify.com/album/7hHY77bNkcPikVZpC91hvZ"
-      },
-      "artists": [
-        {
-          "name": "La Renga",
-          "url": "https://open.spotify.com/artist/30fEdZPXgWfC4sNttcyB3C"
-        }
-      ],
-      "duration_ms": 264838,
-      "name": "La Raz\u00f3n Que Te Demora",
-      "url": "https://open.spotify.com/track/0ljyHIWERJQp8O5LKgKm1l"
-    },
-    {
-      "added_at": "2023-10-05 22:09:33",
-      "album": {
         "name": "Esp\u00edritu",
         "url": "https://open.spotify.com/album/2ZG0Q9JOUIcQGyDOFTAKYm"
       },
@@ -311,6 +295,22 @@
       "duration_ms": 202360,
       "name": "Chino",
       "url": "https://open.spotify.com/track/3i22RR1yUia5ShKujgQcX3"
+    },
+    {
+      "added_at": "2023-10-05 22:09:33",
+      "album": {
+        "name": "Detonador de Sue\u00f1os",
+        "url": "https://open.spotify.com/album/7hHY77bNkcPikVZpC91hvZ"
+      },
+      "artists": [
+        {
+          "name": "La Renga",
+          "url": "https://open.spotify.com/artist/30fEdZPXgWfC4sNttcyB3C"
+        }
+      ],
+      "duration_ms": 264838,
+      "name": "La Raz\u00f3n Que Te Demora",
+      "url": "https://open.spotify.com/track/0ljyHIWERJQp8O5LKgKm1l"
     },
     {
       "added_at": "2023-10-05 22:09:33",
@@ -379,18 +379,18 @@
     {
       "added_at": "2023-10-05 22:09:33",
       "album": {
-        "name": "Narig\u00f3n del Siglo, Yo Te Dejo Perfumado en la Esquina para Siempre",
-        "url": "https://open.spotify.com/album/4GkZExYLfegidZaO1BgpvU"
+        "name": "Despedazado Por Mil Partes",
+        "url": "https://open.spotify.com/album/0eH6ICTcUbNqjplgRISQEg"
       },
       "artists": [
         {
-          "name": "Divididos",
-          "url": "https://open.spotify.com/artist/6ZIgPKHzpcswB8zh7sRIhx"
+          "name": "La Renga",
+          "url": "https://open.spotify.com/artist/30fEdZPXgWfC4sNttcyB3C"
         }
       ],
-      "duration_ms": 198706,
-      "name": "Par Mil",
-      "url": "https://open.spotify.com/track/0wUFXsXHZc2h6wKRcmJNWF"
+      "duration_ms": 248400,
+      "name": "Veneno",
+      "url": "https://open.spotify.com/track/3qSsdVel7dNcpW4khZejHa"
     },
     {
       "added_at": "2023-10-05 22:09:33",
@@ -427,22 +427,6 @@
     {
       "added_at": "2023-10-05 22:09:33",
       "album": {
-        "name": "Despedazado Por Mil Partes",
-        "url": "https://open.spotify.com/album/0eH6ICTcUbNqjplgRISQEg"
-      },
-      "artists": [
-        {
-          "name": "La Renga",
-          "url": "https://open.spotify.com/artist/30fEdZPXgWfC4sNttcyB3C"
-        }
-      ],
-      "duration_ms": 248400,
-      "name": "Veneno",
-      "url": "https://open.spotify.com/track/3qSsdVel7dNcpW4khZejHa"
-    },
-    {
-      "added_at": "2023-10-05 22:09:33",
-      "album": {
         "name": "Fulanos de Nadie",
         "url": "https://open.spotify.com/album/5C5gMVVl97LxjXpbZEHYKB"
       },
@@ -455,6 +439,22 @@
       "duration_ms": 259146,
       "name": "Sapo de Otro Pozo",
       "url": "https://open.spotify.com/track/1g0mhq4ZDQE3cTd1XLcYVf"
+    },
+    {
+      "added_at": "2023-10-05 22:09:33",
+      "album": {
+        "name": "Narig\u00f3n del Siglo, Yo Te Dejo Perfumado en la Esquina para Siempre",
+        "url": "https://open.spotify.com/album/4GkZExYLfegidZaO1BgpvU"
+      },
+      "artists": [
+        {
+          "name": "Divididos",
+          "url": "https://open.spotify.com/artist/6ZIgPKHzpcswB8zh7sRIhx"
+        }
+      ],
+      "duration_ms": 198706,
+      "name": "Par Mil",
+      "url": "https://open.spotify.com/track/0wUFXsXHZc2h6wKRcmJNWF"
     },
     {
       "added_at": "2023-10-05 22:09:33",
@@ -539,6 +539,22 @@
     {
       "added_at": "2023-10-05 22:09:33",
       "album": {
+        "name": "La Renga",
+        "url": "https://open.spotify.com/album/58M6gPLnHqTnE5z2dRbKNH"
+      },
+      "artists": [
+        {
+          "name": "La Renga",
+          "url": "https://open.spotify.com/artist/30fEdZPXgWfC4sNttcyB3C"
+        }
+      ],
+      "duration_ms": 295773,
+      "name": "Cuando Est\u00e9s Ac\u00e1",
+      "url": "https://open.spotify.com/track/2rEAG7lKACyW5YVS3KsNoN"
+    },
+    {
+      "added_at": "2023-10-05 22:09:33",
+      "album": {
         "name": "Radio Insomnio",
         "url": "https://open.spotify.com/album/7cm5BAYTV2rWUTEwpLk1F3"
       },
@@ -583,22 +599,6 @@
       "duration_ms": 269011,
       "name": "Fuiste lo mejor",
       "url": "https://open.spotify.com/track/0pvHj0RHMGZ7JBOYh7Kmsk"
-    },
-    {
-      "added_at": "2023-10-05 22:09:33",
-      "album": {
-        "name": "La Renga",
-        "url": "https://open.spotify.com/album/58M6gPLnHqTnE5z2dRbKNH"
-      },
-      "artists": [
-        {
-          "name": "La Renga",
-          "url": "https://open.spotify.com/artist/30fEdZPXgWfC4sNttcyB3C"
-        }
-      ],
-      "duration_ms": 295773,
-      "name": "Cuando Est\u00e9s Ac\u00e1",
-      "url": "https://open.spotify.com/track/2rEAG7lKACyW5YVS3KsNoN"
     },
     {
       "added_at": "2023-10-05 22:09:33",
@@ -715,6 +715,22 @@
     {
       "added_at": "2023-10-05 22:09:33",
       "album": {
+        "name": "La Esquina Del Infinito",
+        "url": "https://open.spotify.com/album/4M0ydzwbRw8c1RV07TpMX9"
+      },
+      "artists": [
+        {
+          "name": "La Renga",
+          "url": "https://open.spotify.com/artist/30fEdZPXgWfC4sNttcyB3C"
+        }
+      ],
+      "duration_ms": 182360,
+      "name": "Panic Show",
+      "url": "https://open.spotify.com/track/7ao7jtJIMzppW0p1CwEJ9Q"
+    },
+    {
+      "added_at": "2023-10-05 22:09:33",
+      "album": {
         "name": "Otro D\u00eda en el Planeta Tierra",
         "url": "https://open.spotify.com/album/4Q2jY2HQPZxGimNjoKFKaC"
       },
@@ -727,22 +743,6 @@
       "duration_ms": 214090,
       "name": "Las cosas que no se tocan",
       "url": "https://open.spotify.com/track/5Y3T9zncw2XDAcn9pFliKT"
-    },
-    {
-      "added_at": "2023-10-05 22:09:33",
-      "album": {
-        "name": "A Donde Me Lleva La Vida",
-        "url": "https://open.spotify.com/album/5f86DyUHkazyikoFVWb237"
-      },
-      "artists": [
-        {
-          "name": "La Renga",
-          "url": "https://open.spotify.com/artist/30fEdZPXgWfC4sNttcyB3C"
-        }
-      ],
-      "duration_ms": 307386,
-      "name": "Triste Canci\u00f3n De Amor",
-      "url": "https://open.spotify.com/track/0LTPPsp9xmM92ZT6pGvsrz"
     },
     {
       "added_at": "2023-10-05 22:09:33",
@@ -827,18 +827,18 @@
     {
       "added_at": "2023-10-05 22:09:33",
       "album": {
-        "name": "La Esquina Del Infinito",
-        "url": "https://open.spotify.com/album/4M0ydzwbRw8c1RV07TpMX9"
+        "name": "Las Pastillas del Abuelo",
+        "url": "https://open.spotify.com/album/6mFBpsRAsaVUYTGqvTyGtD"
       },
       "artists": [
         {
-          "name": "La Renga",
-          "url": "https://open.spotify.com/artist/30fEdZPXgWfC4sNttcyB3C"
+          "name": "Las Pastillas del Abuelo",
+          "url": "https://open.spotify.com/artist/0D5U7oXEE4dut2DPyUDLca"
         }
       ],
-      "duration_ms": 182360,
-      "name": "Panic Show",
-      "url": "https://open.spotify.com/track/7ao7jtJIMzppW0p1CwEJ9Q"
+      "duration_ms": 431626,
+      "name": "Amar y Envejecer",
+      "url": "https://open.spotify.com/track/0V472Br1hpLSczZdow8MJd"
     },
     {
       "added_at": "2023-10-05 22:09:33",
@@ -859,22 +859,6 @@
     {
       "added_at": "2023-10-05 22:09:33",
       "album": {
-        "name": "Las Pastillas del Abuelo",
-        "url": "https://open.spotify.com/album/6mFBpsRAsaVUYTGqvTyGtD"
-      },
-      "artists": [
-        {
-          "name": "Las Pastillas del Abuelo",
-          "url": "https://open.spotify.com/artist/0D5U7oXEE4dut2DPyUDLca"
-        }
-      ],
-      "duration_ms": 431626,
-      "name": "Amar y Envejecer",
-      "url": "https://open.spotify.com/track/0V472Br1hpLSczZdow8MJd"
-    },
-    {
-      "added_at": "2023-10-05 22:09:33",
-      "album": {
         "name": "Otro D\u00eda en el Planeta Tierra",
         "url": "https://open.spotify.com/album/4Q2jY2HQPZxGimNjoKFKaC"
       },
@@ -887,6 +871,22 @@
       "duration_ms": 198385,
       "name": "Se\u00f1or Kioskero",
       "url": "https://open.spotify.com/track/4lK6lXhFBHIQQyF9Kdck4d"
+    },
+    {
+      "added_at": "2023-10-05 22:09:33",
+      "album": {
+        "name": "A Donde Me Lleva La Vida",
+        "url": "https://open.spotify.com/album/5f86DyUHkazyikoFVWb237"
+      },
+      "artists": [
+        {
+          "name": "La Renga",
+          "url": "https://open.spotify.com/artist/30fEdZPXgWfC4sNttcyB3C"
+        }
+      ],
+      "duration_ms": 307386,
+      "name": "Triste Canci\u00f3n De Amor",
+      "url": "https://open.spotify.com/track/0LTPPsp9xmM92ZT6pGvsrz"
     },
     {
       "added_at": "2023-10-05 22:09:33",
@@ -939,6 +939,22 @@
     {
       "added_at": "2023-10-05 22:09:33",
       "album": {
+        "name": "Las Pastillas del Abuelo",
+        "url": "https://open.spotify.com/album/6mFBpsRAsaVUYTGqvTyGtD"
+      },
+      "artists": [
+        {
+          "name": "Las Pastillas del Abuelo",
+          "url": "https://open.spotify.com/artist/0D5U7oXEE4dut2DPyUDLca"
+        }
+      ],
+      "duration_ms": 324053,
+      "name": "Viejo",
+      "url": "https://open.spotify.com/track/1MVsaR8VFzfsqJrG3TDCny"
+    },
+    {
+      "added_at": "2023-10-05 22:09:33",
+      "album": {
         "name": "Toro Rojo",
         "url": "https://open.spotify.com/album/5RQqvJeGRUrvVbvKGlMceO"
       },
@@ -987,22 +1003,6 @@
     {
       "added_at": "2023-10-05 22:09:33",
       "album": {
-        "name": "No Es Solo Rock And Roll",
-        "url": "https://open.spotify.com/album/1KYkaepx3oUWJRDR8ypzxH"
-      },
-      "artists": [
-        {
-          "name": "Intoxicados",
-          "url": "https://open.spotify.com/artist/4VgvR7eu3k2T20mo6mXhXF"
-        }
-      ],
-      "duration_ms": 226586,
-      "name": "Volver a Casa",
-      "url": "https://open.spotify.com/track/2PeErZ0K1IVS5C3nri2Pqa"
-    },
-    {
-      "added_at": "2023-10-05 22:09:33",
-      "album": {
         "name": "Gardeliando",
         "url": "https://open.spotify.com/album/2YVadYqrEQR7iHn45PVyZy"
       },
@@ -1019,18 +1019,18 @@
     {
       "added_at": "2023-10-05 22:09:33",
       "album": {
-        "name": "Las Pastillas del Abuelo",
-        "url": "https://open.spotify.com/album/6mFBpsRAsaVUYTGqvTyGtD"
+        "name": "No Es Solo Rock And Roll",
+        "url": "https://open.spotify.com/album/1KYkaepx3oUWJRDR8ypzxH"
       },
       "artists": [
         {
-          "name": "Las Pastillas del Abuelo",
-          "url": "https://open.spotify.com/artist/0D5U7oXEE4dut2DPyUDLca"
+          "name": "Intoxicados",
+          "url": "https://open.spotify.com/artist/4VgvR7eu3k2T20mo6mXhXF"
         }
       ],
-      "duration_ms": 324053,
-      "name": "Viejo",
-      "url": "https://open.spotify.com/track/1MVsaR8VFzfsqJrG3TDCny"
+      "duration_ms": 226586,
+      "name": "Volver a Casa",
+      "url": "https://open.spotify.com/track/2PeErZ0K1IVS5C3nri2Pqa"
     },
     {
       "added_at": "2023-10-05 22:09:33",
@@ -1047,6 +1047,22 @@
       "duration_ms": 269331,
       "name": "Sacrificio y Rock N' Roll",
       "url": "https://open.spotify.com/track/5tdt8ArbR4hg828ySKUFrD"
+    },
+    {
+      "added_at": "2023-10-05 22:09:33",
+      "album": {
+        "name": "El Favor",
+        "url": "https://open.spotify.com/album/62csdLXrMnYxVSrnJaQmzg"
+      },
+      "artists": [
+        {
+          "name": "Las Pastillas del Abuelo",
+          "url": "https://open.spotify.com/artist/0D5U7oXEE4dut2DPyUDLca"
+        }
+      ],
+      "duration_ms": 245024,
+      "name": "El Favor",
+      "url": "https://open.spotify.com/track/1gjX021CdXDhpKCkGM53H4"
     },
     {
       "added_at": "2023-10-05 22:09:33",
@@ -1095,22 +1111,6 @@
       "duration_ms": 241946,
       "name": "100 A\u00f1os",
       "url": "https://open.spotify.com/track/7op5RCUvgqOJcKAs4rZw2N"
-    },
-    {
-      "added_at": "2023-10-05 22:09:33",
-      "album": {
-        "name": "El Favor",
-        "url": "https://open.spotify.com/album/62csdLXrMnYxVSrnJaQmzg"
-      },
-      "artists": [
-        {
-          "name": "Las Pastillas del Abuelo",
-          "url": "https://open.spotify.com/artist/0D5U7oXEE4dut2DPyUDLca"
-        }
-      ],
-      "duration_ms": 245024,
-      "name": "El Favor",
-      "url": "https://open.spotify.com/track/1gjX021CdXDhpKCkGM53H4"
     },
     {
       "added_at": "2023-10-05 22:09:33",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVAWtyHQImlQ.md) - [plain]
 
 > All 60s, all ballads\. Cover: Etta James
 
-[Spotify](https://open.spotify.com/user/spotify) - 137,714 likes - 50 songs - 2 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 137,784 likes - 50 songs - 2 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,8 +47,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVAWtyHQImlQ.md) - [plain]
 | 37 | [Baby, I'm For Real](https://open.spotify.com/track/7vI2UMCyF56ZNDbVZmKiJ2) | [The Originals](https://open.spotify.com/artist/11EZGTWr2pY0VZPlWokAbl) | [Baby, I'm For Real](https://open.spotify.com/album/3lvFua9jUjltWAqIK01Zdn) | 3:21 |
 | 38 | [When a Man Loves a Woman](https://open.spotify.com/track/0GVxSbigOiKlGfI30Uw00X) | [Percy Sledge](https://open.spotify.com/artist/3rRmDmzPcAFwcUDvG5gBqO) | [When a Man Loves a Woman](https://open.spotify.com/album/5I9u0kRfmLLzTHneycOwFA) | 2:55 |
 | 39 | [Where Do You Go To \(My Lovely\) \- Re\-Recorded](https://open.spotify.com/track/6M665tf7ZKQzUFA5yOrUE4) | [Peter Sarstedt](https://open.spotify.com/artist/3ExGDjEKejMhyciAgxPe0B) | [The Lost Album](https://open.spotify.com/album/68it2FTN3u7cMWuHR4yYpu) | 4:47 |
-| 40 | [Love Hurts \- 2007 Remaster](https://open.spotify.com/track/6hgY1l6EqrfrHRNrxwKRiK) | [The Everly Brothers](https://open.spotify.com/artist/4ACplpEqD6JIVgKrafauzs) | [A Date with The Everly Brothers](https://open.spotify.com/album/4Nro0nGcWVybv8cZXmSU4P) | 2:22 |
-| 41 | [You Don't Have To Say You Love Me](https://open.spotify.com/track/0q8nQ0H4ad4KYcZdrTZPux) | [Dusty Springfield](https://open.spotify.com/artist/5zaXYwewAXedKNCff45U5l) | [You Don't Have To Say You Love Me](https://open.spotify.com/album/52uwBxHFIheYUU0ydCL5Hh) | 2:50 |
+| 40 | [You Don't Have To Say You Love Me](https://open.spotify.com/track/0q8nQ0H4ad4KYcZdrTZPux) | [Dusty Springfield](https://open.spotify.com/artist/5zaXYwewAXedKNCff45U5l) | [You Don't Have To Say You Love Me](https://open.spotify.com/album/52uwBxHFIheYUU0ydCL5Hh) | 2:50 |
+| 41 | [Love Hurts \- 2007 Remaster](https://open.spotify.com/track/6hgY1l6EqrfrHRNrxwKRiK) | [The Everly Brothers](https://open.spotify.com/artist/4ACplpEqD6JIVgKrafauzs) | [A Date with The Everly Brothers](https://open.spotify.com/album/4Nro0nGcWVybv8cZXmSU4P) | 2:22 |
 | 42 | [Cherish](https://open.spotify.com/track/7uGeDI6nJEdUYMsMd7mQyl) | [The Association](https://open.spotify.com/artist/2kuNswDC82PL9xRbfaZJaS) | [And Then...Along Comes](https://open.spotify.com/album/6NDt4G1QiGzMNnri4kxq6f) | 3:27 |
 | 43 | [As Tears Go By \- \(Original Single Mono Version\)](https://open.spotify.com/track/5rUwnfuvEebahvFInZB8mC) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [Singles 1965\-1967](https://open.spotify.com/album/1IeXdR2ptc5Jhxmko89CgE) | 2:45 |
 | 44 | [Anyone Who Had a Heart \- 2003 Remaster](https://open.spotify.com/track/28Y2taEFmHofu2EsU04ILf) | [Cilla Black](https://open.spotify.com/artist/3bCvHtuIXWXPbCMdSYudmZ) | [Beginnings](https://open.spotify.com/album/1OYFI2ylkl9kluPmY4SUmD) | 2:51 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVAWtyHQImlQ.md) - [plain]
 | 49 | [Oh, What A Night](https://open.spotify.com/track/2ht21Rlf8L6cPLBkYmhpcs) | [The Dells](https://open.spotify.com/artist/0wbrRIw2po5DV4LeaHw55S) | [Oh, What A Night! / The Great Ballads](https://open.spotify.com/album/5IjlGKFY636wmz3eqE7V1N) | 4:07 |
 | 50 | [Daddy's Home](https://open.spotify.com/track/6pLYCkA0j6dcjMSP4IrgxW) | [Shep](https://open.spotify.com/artist/4FrUg4jMTAlZHhBsOIYGJV), [The Limelites](https://open.spotify.com/artist/2pEAs011HTyChRqX8VR8lW) | [Doo Wop Classics Vol\. 1](https://open.spotify.com/album/74o0BLyhgBt6bvNqflYNmp) | 2:54 |
 
-Snapshot ID: `MCw2YTZkYjM3Y2Y2Y2I0YTU2NzQ5MTU2ZTQ5MWY5MGQ1YjQ0NWI5MmQx`
+Snapshot ID: `MCw0ZjRiYzVjMjk5YWI5NDRhNWUzNGRlMjNjYzZiMjUwNzk0Y2NlZWIy`

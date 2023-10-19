@@ -18525,6 +18525,28 @@
     },
     {
       "album": {
+        "name": "Second Ogm (From \"Ghost\")",
+        "url": "https://open.spotify.com/album/5vE0LtZs5M2qTbcrxvBNOQ"
+      },
+      "artists": [
+        {
+          "name": "Nishan Rai",
+          "url": "https://open.spotify.com/artist/1pHwhzIHFiBmi4I9mYUMEy"
+        },
+        {
+          "name": "Arjun Janya",
+          "url": "https://open.spotify.com/artist/3IX32wm6CoEIYovZ0VcjBJ"
+        }
+      ],
+      "date_added": "2023-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123147,
+      "name": "Second Ogm (From \"Ghost\")",
+      "url": "https://open.spotify.com/track/0HRqxn4HIRPOutQUDa68hp"
+    },
+    {
+      "album": {
         "name": "Seemantha Seemantha (From \"Kasina Sara\")",
         "url": "https://open.spotify.com/album/4qTExD0QKqTbruNHq36sCh"
       },

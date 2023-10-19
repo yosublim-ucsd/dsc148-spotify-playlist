@@ -4,10 +4,11 @@
 
 > Hypnotic melodic <a href="spotify:genre:house">house</a> and <a href="spotify:genre:techno">techno</a> to light up the night.
 
-515 songs - 2 day 2 hr 11 min
+516 songs - 2 day 2 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| [3 Sense](https://open.spotify.com/track/7BbCFISQVNWlWIh0BUPAit) | [Eran Hersh](https://open.spotify.com/artist/5cqctR1IEdc11lN3KEmoGW), [Anorre](https://open.spotify.com/artist/26TRIoeGpch6h8plv1siMh), [The NGHBRS](https://open.spotify.com/artist/2YYAp30sXeDAKiTLMfKGTT) | [3 Sense](https://open.spotify.com/album/4Fhh3zH4xdalFWodUJYwQQ) | 2:43 | 2023-10-13 |  |
 | [A Hero](https://open.spotify.com/track/79QHYPJf8qI7kjzqEzgFTX) | [Khen](https://open.spotify.com/artist/7M7DUxK3f7hR03EwfwldZQ) | [A Hero EP](https://open.spotify.com/album/1nlDdmEU2i4gUXIqrgSM27) | 7:38 | 2021-04-21 | 2022-07-05 |
 | [A Time To](https://open.spotify.com/track/4UiwDnk0riQvDpoNJFAfME) | [Giorgia Angiuli](https://open.spotify.com/artist/4iHnLagnnmgiIwMSm1wuTq) | [A Time To](https://open.spotify.com/album/3BQgR0hDgi4uPaQ31siV83) | 3:51 | 2022-04-22 | 2023-09-30 |
 | [A380](https://open.spotify.com/track/2f7oUjeoSNw64PRWEdGi5S) | [Hernan Cattaneo](https://open.spotify.com/artist/4mpJaw5y17CIN08qqe8EfB), [Mercurio](https://open.spotify.com/artist/4J8apBMaUX5Ofyn2dbbpxG) | [A380](https://open.spotify.com/album/24SZgEw38GafDdGtQUdy1f) | 4:46 | 2022-05-27 |  |
@@ -50,7 +51,7 @@
 | [Bacall](https://open.spotify.com/track/1bhSnPeBGo1cSPgjDZXujj) | [Blue Noir](https://open.spotify.com/artist/5N4aUAJA011nkAumBGSeAN) | [Noir](https://open.spotify.com/album/74H4kh761bl6UDTOWfYC8G) | 4:06 | 2022-07-01 | 2023-04-29 |
 | [Back In The Taxi \- AMÉMÉ Midnight Remix](https://open.spotify.com/track/7psofiqt8ta0d1q0l5YXGk) | [Jan Blomqvist](https://open.spotify.com/artist/5wMlMjOLeJfS5DfxqGfm83), [AMÉMÉ](https://open.spotify.com/artist/1txb9Qg5lJ3KATxPcIYyvO) | [Back In The Taxi \(AMÉMÉ Remix\)](https://open.spotify.com/album/2DfcKSHUivCRQupV5tFbw3) | 4:26 | 2022-03-25 | 2023-09-30 |
 | [Back to the Days](https://open.spotify.com/track/7DtMXfDUpgXx9PjZrPLaNh) | [El Mukuka](https://open.spotify.com/artist/3z0l518027gIZvLtoXQCkd), [Sebastien Dutch](https://open.spotify.com/artist/3DhrN38YbHljOGNxVfWNLI), [Abel Chungu Musuka](https://open.spotify.com/artist/49LXAemdmdSqQ6yCo3UNlt) | [ZEBRA](https://open.spotify.com/album/1KX6XM1mCfO4sEj3qli3JJ) | 3:34 | 2023-07-14 | 2023-08-11 |
-| [Bad Love \- Antdot & Maz Remix](https://open.spotify.com/track/1OzMejgdMtjfTdlS5iQHud) | [Fahlberg](https://open.spotify.com/artist/6lFGvLLUwT6MB6Fx0CkRwk), [Antdot](https://open.spotify.com/artist/3of9b8iUxyXtfnwwahfUNx), [Maz \(BR\)](https://open.spotify.com/artist/6gYwbDKcqhLitCTlgF1oZn) | [Bad Love \(Antdot & Maz Remix\)](https://open.spotify.com/album/0ZsUU0Sz04c4NtLzvBAWsr) | 3:50 | 2023-08-18 |  |
+| [Bad Love \- Antdot & Maz Remix](https://open.spotify.com/track/1OzMejgdMtjfTdlS5iQHud) | [Fahlberg](https://open.spotify.com/artist/6lFGvLLUwT6MB6Fx0CkRwk), [Antdot](https://open.spotify.com/artist/3of9b8iUxyXtfnwwahfUNx), [Maz \(BR\)](https://open.spotify.com/artist/6gYwbDKcqhLitCTlgF1oZn) | [Bad Love \(Antdot & Maz Remix\)](https://open.spotify.com/album/0ZsUU0Sz04c4NtLzvBAWsr) | 3:50 | 2023-08-18 | 2023-10-19 |
 | [Badaboom](https://open.spotify.com/track/61YqMg1ZvpN18snP7JCuh3) | [GIGEE](https://open.spotify.com/artist/7mqebOCOql0RKtn1bGUdOd), [Dirty Doering](https://open.spotify.com/artist/4N6XVXvfjBPNFCdS56TCea) | [Badaboom](https://open.spotify.com/album/6GtOaxvnG8Fo0Fnq9q4EOY) | 4:42 | 2023-05-19 | 2023-06-28 |
 | [Baghira](https://open.spotify.com/track/4QuoelVf8l7Q9xMiu2f6SG) | [Montezuma](https://open.spotify.com/artist/6AgAUwug3IMyaejTUjnkhU) | [Baghira](https://open.spotify.com/album/5pz7Iyiq1c7zk2wQgOs1By) | 6:34 | 2021-09-03 | 2022-07-29 |
 | [Balafonerra](https://open.spotify.com/track/5FTVEEK5afhsbfpHMFtb4f) | [AMÉMÉ](https://open.spotify.com/artist/1txb9Qg5lJ3KATxPcIYyvO) | [Balafonerra](https://open.spotify.com/album/5hMJmywK4dNUesJ5eWJouX) | 4:11 | 2022-05-27 |  |

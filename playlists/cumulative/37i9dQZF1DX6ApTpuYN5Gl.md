@@ -4,7 +4,7 @@
 
 > sad beats\. deep vibes.
 
-56 songs - 3 hr 16 min
+57 songs - 3 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,7 +29,7 @@
 | [Ghostkeeper](https://open.spotify.com/track/0qHD5pzpp1zSPa5Ud74WDC) | [Klangkarussell](https://open.spotify.com/artist/041iTeoMIwXMlShuQPIVKo), [GIVVEN](https://open.spotify.com/artist/7e1aNehmQevT0RVtN8Pzly) | [Ghostkeeper](https://open.spotify.com/album/0ZoNlJeutDZYpf1rSzGInO) | 5:31 | 2023-08-25 |  |
 | [GLY](https://open.spotify.com/track/6yGNvSOyCZvNOCtHs3hfrH) | [Catching Flies](https://open.spotify.com/artist/4zAOqBfNLyWFvj1e3yvypJ) | [GLY](https://open.spotify.com/album/3G2e7Ruldtt69hWO9ArJDB) | 3:40 | 2023-08-25 |  |
 | [Goodbye](https://open.spotify.com/track/3vzBf1egEjRliBlnIJTW1T) | [AVAION](https://open.spotify.com/artist/5oJvmyeWzyeahRtjup3Oys), [Sam Welch](https://open.spotify.com/artist/3JmD9HEyTy3vtITvwUFK9K) | [Goodbye](https://open.spotify.com/album/7zA83f7raZgu5ve9msmeLH) | 2:57 | 2023-09-07 |  |
-| [Hiding](https://open.spotify.com/track/3hcAYNfSHm1opoJ1Jhkrch) | [AVAION](https://open.spotify.com/artist/5oJvmyeWzyeahRtjup3Oys) | [Hiding](https://open.spotify.com/album/6s2VNewtJumECtFLbf3iC3) | 3:40 | 2023-08-25 |  |
+| [Hiding](https://open.spotify.com/track/3hcAYNfSHm1opoJ1Jhkrch) | [AVAION](https://open.spotify.com/artist/5oJvmyeWzyeahRtjup3Oys) | [Hiding](https://open.spotify.com/album/6s2VNewtJumECtFLbf3iC3) | 3:40 | 2023-08-25 | 2023-10-19 |
 | [Hold Me](https://open.spotify.com/track/4SnuG111QPmgwRmlwhJ4Mg) | [Lavern](https://open.spotify.com/artist/03y4yOxhLk6MDJ1bV424uO) | [Hold Me](https://open.spotify.com/album/7osmi3cnYDpPDYflMWa80W) | 2:20 | 2023-08-25 |  |
 | [Home](https://open.spotify.com/track/2FsUQgO3jopRHjW6rQ7jMc) | [Ben Böhmer](https://open.spotify.com/artist/5tDjiBYUsTqzd0RkTZxK7u), [JONAH](https://open.spotify.com/artist/3Rmw0IldYoch0L6XmTjQO4) | [Begin Again](https://open.spotify.com/album/1ZwkNGxlonmG4bjmLbV1Rr) | 3:33 | 2023-09-07 |  |
 | [Howl](https://open.spotify.com/track/1PYUkeWwnAckQwOShEOyQy) | [SOMMA](https://open.spotify.com/artist/656ibQgcoUQrUPdhQWRcI3), [SHELLS](https://open.spotify.com/artist/1ZwuShKjJItDJez0aDCsxN) | [Howl](https://open.spotify.com/album/3N8N2qIQa4UhkjW8SrCcoQ) | 3:12 | 2023-08-25 |  |
@@ -53,6 +53,7 @@
 | [Rain](https://open.spotify.com/track/49frwp277WHBgpwBHeyOSO) | [Astrality](https://open.spotify.com/artist/6KGv020mJkIjQH5YPDSBcZ), [MNRT](https://open.spotify.com/artist/2Cuq3uAaodW1nrYWK1sc99), [S:NE](https://open.spotify.com/artist/35tPnsdQwL9lJYNdfDdIy3) | [Rain](https://open.spotify.com/album/0iFKjKFTY1kD7SSVmNZDin) | 2:32 | 2023-08-25 |  |
 | [Shadows](https://open.spotify.com/track/7aLYQgzGLy8duSSdTJa1ik) | [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb), [Jordan Rakei](https://open.spotify.com/artist/24icoQNJSEWNu3XvqKBR68) | [Fragments](https://open.spotify.com/album/4KjbNbnTnJ97kZgQkOHr6v) | 4:45 | 2023-08-25 |  |
 | [Something About](https://open.spotify.com/track/5z3Qr6kEyJiZhB0WHJSmCQ) | [CRi](https://open.spotify.com/artist/3NaMuUYTIGm6CC3YqTuTvi) | [Something About](https://open.spotify.com/album/3qlZd2dgippiunzkO8D0pM) | 3:44 | 2023-08-25 | 2023-10-15 |
+| [Sorry](https://open.spotify.com/track/3vkzxY2aRL7uhz2BIFzT0V) | [TCTS](https://open.spotify.com/artist/1mFGfrveXbpolppPgO29Io), [Nonô](https://open.spotify.com/artist/2izgj6WOKJsuCRCQUKOoVO) | [Sorry](https://open.spotify.com/album/3QEx4nahZb3ewLKs8b87UV) | 2:42 | 2023-10-13 |  |
 | [Talk It Over](https://open.spotify.com/track/4HRWIVz78yFcWNbZSKzDYY) | [Elderbrook](https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64), [Vintage Culture](https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts) | [Talk It Over](https://open.spotify.com/album/5mtqqWz5M3wJTszXfVvKkY) | 3:29 | 2023-08-25 |  |
 | [The Best Part](https://open.spotify.com/track/04BNQFaBlFF7WDeTb1V0AP) | [anamē](https://open.spotify.com/artist/3sZvCZHU2V2idOYyUl3fBi), [gardenstate](https://open.spotify.com/artist/1XcPIHqirx1Jaxm2bAxMeV), [Bien](https://open.spotify.com/artist/2uodbv2953Z7R1ipwucK2A) | [The Best Part](https://open.spotify.com/album/71f51ihuW0oVdl2s4yFzSU) | 4:10 | 2023-08-25 |  |
 | [The Last Goodbye](https://open.spotify.com/track/4XeIiGpUBshIfs9yrBDVZC) | [ODESZA](https://open.spotify.com/artist/21mKp7DqtSNHhCAU2ugvUw), [Bettye LaVette](https://open.spotify.com/artist/55U998XxmxjicLMKDSz6R3) | [The Last Goodbye](https://open.spotify.com/album/4vpnU0Hu4c0KNq2p4nz4U2) | 5:58 | 2023-08-25 |  |

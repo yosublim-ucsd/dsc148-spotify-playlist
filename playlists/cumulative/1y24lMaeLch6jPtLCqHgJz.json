@@ -97,6 +97,28 @@
     },
     {
       "album": {
+        "name": "MICK (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/6Xit1xmHogbGUaJJJfjpzc"
+      },
+      "artists": [
+        {
+          "name": "KAAZE",
+          "url": "https://open.spotify.com/artist/6WGE3kO8ULME2ErBcOksSR"
+        },
+        {
+          "name": "BLK RSE",
+          "url": "https://open.spotify.com/artist/2caQqGZcs7vbmAEE0uAWBz"
+        }
+      ],
+      "date_added": "2023-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178750,
+      "name": "Addicted - BLK RSE Remix",
+      "url": "https://open.spotify.com/track/1J6WkPegBLn9wIX3FrtXHY"
+    },
+    {
+      "album": {
         "name": "African Vibes",
         "url": "https://open.spotify.com/album/1QPmme7H2Xy7SGnDuf4n2o"
       },

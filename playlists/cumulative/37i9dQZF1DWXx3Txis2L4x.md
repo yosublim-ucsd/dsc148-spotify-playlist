@@ -4,7 +4,7 @@
 
 > Don't use these shoes, they just look nice for the playlist cover\. Use real running shoes, please.
 
-185 songs - 10 hr 41 min
+186 songs - 10 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -176,7 +176,8 @@
 | [This Modern Love](https://open.spotify.com/track/2PAhcPwab2sJz340QHtunD) | [Bloc Party](https://open.spotify.com/artist/3MM8mtgFzaEJsqbjZBSsHJ) | [Silent Alarm](https://open.spotify.com/album/0urhQCsjpczjC8zbTMtd8t) | 4:25 | 2022-10-25 |  |
 | [Throne](https://open.spotify.com/track/0M3adYbGtyRHACP86dey1H) | [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [That's The Spirit](https://open.spotify.com/album/7FqHuAvmREiIwVXVpZ9ooP) | 3:11 | 2023-03-07 |  |
 | [Tin Pan Boy](https://open.spotify.com/track/5ome5OZg1JFNGXKEU9HGRO) | [YUNGBLUD](https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW) | [YUNGBLUD](https://open.spotify.com/album/7HNJT97QuNFvJLUpQXCIp3) | 3:09 | 2022-04-08 | 2022-04-17 |
-| [Told You So](https://open.spotify.com/track/0xfMFT9G8Ekk7CEYtVabIm) | [The Band CAMINO](https://open.spotify.com/artist/6d4jrmreCmsenscuieJERc) | [Told You So](https://open.spotify.com/album/3nHIAlyLTzvncWhTwE5TcY) | 2:51 | 2023-03-23 |  |
+| [Told You So](https://open.spotify.com/track/0xfMFT9G8Ekk7CEYtVabIm) | [The Band CAMINO](https://open.spotify.com/artist/6d4jrmreCmsenscuieJERc) | [Told You So](https://open.spotify.com/album/3nHIAlyLTzvncWhTwE5TcY) | 2:51 | 2023-03-23 | 2023-10-19 |
+| [Told You So](https://open.spotify.com/track/2A1HJSm5Gqqb9oTv28U6dr) | [The Band CAMINO](https://open.spotify.com/artist/6d4jrmreCmsenscuieJERc) | [The Dark](https://open.spotify.com/album/6S2FI6xzGq3INs2WnlB9ou) | 2:51 | 2023-10-16 |  |
 | [Too Rich to Die](https://open.spotify.com/track/0jVg9DxcZ8Mfi7sdfKlk08) | [Somerset Thrower](https://open.spotify.com/artist/5Ifk35ildPnmMtcnOWLITu) | [Paint My Memory](https://open.spotify.com/album/5b1TPbHGcXbruFrwnfgF9b) | 4:14 | 2022-01-20 | 2022-01-27 |
 | [Trigger](https://open.spotify.com/track/154P8pqseR6k7BaMKffzeM) | [Deaf Havana](https://open.spotify.com/artist/0exhrQcReCdr11oPbOh22M) | [All These Countless Nights](https://open.spotify.com/album/4LYAbf8kMPXzghMcS9SiYm) | 3:00 | 2023-10-16 |  |
 | [Two\-Timing Touch and Broken Bones](https://open.spotify.com/track/5F7AoCwgftgUdGUgd57RVE) | [The Hives](https://open.spotify.com/artist/4DToQR3aKrHQSSRzSz8Nzt) | [Tyrannosaurus Hives](https://open.spotify.com/album/2Qo8MVIOIyrBrqgoCsHCXV) | 2:00 | 2021-12-09 |  |

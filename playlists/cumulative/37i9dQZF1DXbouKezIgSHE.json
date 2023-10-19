@@ -770,10 +770,36 @@
       ],
       "date_added": "2022-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-19",
       "duration_ms": 205714,
       "name": "Don't Let Me Go",
       "url": "https://open.spotify.com/track/2h0tLMiwLsJ7e7xiWWzwKR"
+    },
+    {
+      "album": {
+        "name": "Don't Let Me Go",
+        "url": "https://open.spotify.com/album/3O0srrtmSmndliaPitNz6G"
+      },
+      "artists": [
+        {
+          "name": "Pirapus",
+          "url": "https://open.spotify.com/artist/7KgEOoJ0CawH7NOaLe34Qe"
+        },
+        {
+          "name": "Christina Harrison",
+          "url": "https://open.spotify.com/artist/0Bodcxze5bIUbnJAI3JKTR"
+        },
+        {
+          "name": "Sam Heselwood",
+          "url": "https://open.spotify.com/artist/3NWsg1qe0HyufJEhf1KoI6"
+        }
+      ],
+      "date_added": "2023-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205714,
+      "name": "Don't Let Me Go",
+      "url": "https://open.spotify.com/track/3A1my41BAvpjankfzBA612"
     },
     {
       "album": {
@@ -3092,6 +3118,32 @@
     {
       "album": {
         "name": "Underground",
+        "url": "https://open.spotify.com/album/7aThSzPMRcmMgBoLfbHMK2"
+      },
+      "artists": [
+        {
+          "name": "Grafix",
+          "url": "https://open.spotify.com/artist/27YdXZOMLqvxI2pB5GyqyY"
+        },
+        {
+          "name": "Lee Mvtthews",
+          "url": "https://open.spotify.com/artist/2rf0ufpy1NIUGmEHqq27GC"
+        },
+        {
+          "name": "Elipsa",
+          "url": "https://open.spotify.com/artist/2HRQmTBCGufnxsFIodHske"
+        }
+      ],
+      "date_added": "2023-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253793,
+      "name": "Underground",
+      "url": "https://open.spotify.com/track/1hys65I5a5wWhmErOlp5Q1"
+    },
+    {
+      "album": {
+        "name": "Underground",
         "url": "https://open.spotify.com/album/5yZCE3J9PN5El4D1nKcLnQ"
       },
       "artists": [
@@ -3110,7 +3162,7 @@
       ],
       "date_added": "2022-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-19",
       "duration_ms": 253793,
       "name": "Underground",
       "url": "https://open.spotify.com/track/4hgX3PfsGkgYpn488zYncj"

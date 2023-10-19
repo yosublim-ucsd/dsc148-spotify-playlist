@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9EM98aZosoy.md) - [plain]
 
 > Feiern mit den größten aktuellen Partyhits.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,270,949 likes - 50 songs - 2 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,271,043 likes - 50 songs - 2 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,8 +22,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9EM98aZosoy.md) - [plain]
 | 12 | [Lay Low](https://open.spotify.com/track/0zKbDrEXKpnExhGQRe9dxt) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z) | [Lay Low](https://open.spotify.com/album/0EYKSXXTsON8ZA95BuCoXn) | 2:33 |
 | 13 | [Substitution \(feat\. Julian Perretta\)](https://open.spotify.com/track/2F2p7b5Xq20mRyEeWYaeUF) | [Purple Disco Machine](https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4), [Kungs](https://open.spotify.com/artist/7keGfmQR4X5w0two1xKZ7d), [Julian Perretta](https://open.spotify.com/artist/2JLl6rSFWx9YuSPLcLhkAG) | [Substitution \(feat\. Julian Perretta\)](https://open.spotify.com/album/4yZMAPI2NazKbPbystE6D7) | 3:01 |
 | 14 | [Dance The Night](https://open.spotify.com/track/11C4y2Yz1XbHmaQwO06s9f) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Barbie The Album](https://open.spotify.com/album/0BaIaHcyBXuOWeM4Aas4EW) | 2:56 |
-| 15 | [Mädchen auf dem Pferd](https://open.spotify.com/track/7AOJcugo17Kr1WUheSI6Oq) | [Luca\-Dante Spadafora](https://open.spotify.com/artist/6k9e4mFFVtEAAhGdvJBtqB), [Niklas Dee](https://open.spotify.com/artist/1ZPGzmbFTn8GRjqTqnLiFE), [Octavian](https://open.spotify.com/artist/0rKRcoCpKA2jLHuIXXn80i), [Peter Plate](https://open.spotify.com/artist/1UEipeDjRtS1qnuhmKgmXg), [Ulf Leo Sommer](https://open.spotify.com/artist/4anaTI5qQtKKp5D6I5sgDp) | [Mädchen auf dem Pferd](https://open.spotify.com/album/1nqgi8V3Ii96w1iofIcfcz) | 2:37 |
-| 16 | [Boyz In Paris \(with VINAI\)](https://open.spotify.com/track/17NHXI2CJp7KgdcwcDnRx4) | [Marnik](https://open.spotify.com/artist/6S3KljEiIOWoLMUyZrkQUc), [Naeleck](https://open.spotify.com/artist/2DYDFBqoaBP2i9XrTGpOgF), [VINAI](https://open.spotify.com/artist/4mrBetqy378Jf1y6NLszlx) | [Boyz In Paris \(with VINAI\)](https://open.spotify.com/album/3FrWieInAhMTL33yALP6H0) | 2:31 |
+| 15 | [Boyz In Paris \(with VINAI\)](https://open.spotify.com/track/17NHXI2CJp7KgdcwcDnRx4) | [Marnik](https://open.spotify.com/artist/6S3KljEiIOWoLMUyZrkQUc), [Naeleck](https://open.spotify.com/artist/2DYDFBqoaBP2i9XrTGpOgF), [VINAI](https://open.spotify.com/artist/4mrBetqy378Jf1y6NLszlx) | [Boyz In Paris \(with VINAI\)](https://open.spotify.com/album/3FrWieInAhMTL33yALP6H0) | 2:31 |
+| 16 | [Mädchen auf dem Pferd](https://open.spotify.com/track/7AOJcugo17Kr1WUheSI6Oq) | [Luca\-Dante Spadafora](https://open.spotify.com/artist/6k9e4mFFVtEAAhGdvJBtqB), [Niklas Dee](https://open.spotify.com/artist/1ZPGzmbFTn8GRjqTqnLiFE), [Octavian](https://open.spotify.com/artist/0rKRcoCpKA2jLHuIXXn80i), [Peter Plate](https://open.spotify.com/artist/1UEipeDjRtS1qnuhmKgmXg), [Ulf Leo Sommer](https://open.spotify.com/artist/4anaTI5qQtKKp5D6I5sgDp) | [Mädchen auf dem Pferd](https://open.spotify.com/album/1nqgi8V3Ii96w1iofIcfcz) | 2:37 |
 | 17 | [Deep Down \(feat\. Never Dull\)](https://open.spotify.com/track/7MIhUdNJtaOnDmC5nBC1fb) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [Ella Eyre](https://open.spotify.com/artist/66TrUkUZ3RM29dqeDQRgyA), [Kenny Dope](https://open.spotify.com/artist/1TrfxjXu8quyDw05p2bacX), [Never Dull](https://open.spotify.com/artist/2u3rmzZC0psTER2sDfUebm) | [Deep Down \(feat\. Never Dull\)](https://open.spotify.com/album/3KpxpdySrMR2S7noneu1bI) | 2:45 |
 | 18 | [Cynical](https://open.spotify.com/track/2grS8y9w2vVp7sDJ3RnSx9) | [twocolors](https://open.spotify.com/artist/7ACEUD7UsmmXrnj4OLt8f9), [Safri Duo](https://open.spotify.com/artist/2UOx6w3eHpPKc3RBnNV3Rl), [Chris de Sarandy](https://open.spotify.com/artist/3xAB6KlDT1mrv1y74c3H3X) | [Cynical](https://open.spotify.com/album/2FSVbytdzBlR6SBT4AFewv) | 3:11 |
 | 19 | [Little Things x Gypsy Woman \- L BEATS MASHUP](https://open.spotify.com/track/6xp1u6ZEHXX8DxJIFFrVoP) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [Little Things x Gypsy Woman \(L BEATS MASHUP\)](https://open.spotify.com/album/052c03LAr2euUtLKgvOKae) | 2:11 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9EM98aZosoy.md) - [plain]
 | 49 | [ONLY 4 LIFE \- Remix](https://open.spotify.com/track/7jYwZOptDPesQgzj7vhsEF) | [Rubi](https://open.spotify.com/artist/0VlrorDSkEbLK1D6VvMgd2), [FABE BROWN](https://open.spotify.com/artist/1H2agrqo1Y8alTi5Wde6UG) | [ONLY 4 LIFE \(Remix\)](https://open.spotify.com/album/5u6snJ3UY2taF6tY1WZzQH) | 2:28 |
 | 50 | [How I Fell in Love](https://open.spotify.com/track/2wUmENDPjBtgNvP2XmnRr7) | [CH4YN](https://open.spotify.com/artist/3G42n5HyIQhYUmKX67yOaU) | [How I Fell in Love](https://open.spotify.com/album/461FLD6OW9OextuRH70VKF) | 1:52 |
 
-Snapshot ID: `MCwxY2I1MWI4Zjg3ZGU4ODc2OGI5NDE3Yzc3YTRkNmQyMmI5M2I2OGM1`
+Snapshot ID: `MCw1MmZlOWY4MDA2MzE0YWQ4ODMyYTFlZTczYzM1NDFlNmI5OTg4MWIx`

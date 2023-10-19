@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8j8N3CkBtqv.md) - [plain]
 
 > Naye Indie gaano ka khazana! Cover\- Prateeksha Srivastava
 
-[Spotify](https://open.spotify.com/user/spotify) - 66,282 likes - 50 songs - 2 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 66,587 likes - 50 songs - 2 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8j8N3CkBtqv.md) - [plain]
 | 49 | [Sun Beliya](https://open.spotify.com/track/4dIXexUt5xZfhf4f6lp90B) | [Deepshikha Raina](https://open.spotify.com/artist/65RSx9RT02eH4TvBKdeqBY) | [Sun Beliya](https://open.spotify.com/album/5e2Il2vYU1XJZ3Arsk1KLt) | 3:55 |
 | 50 | [Aankho](https://open.spotify.com/track/48u0CB0okfJOGMNI48XXkM) | [Vasu Raina](https://open.spotify.com/artist/5wwyvQQMsmzSUZo6FBoWJL), [Rosha](https://open.spotify.com/artist/67EXdrGwwfa57WXXb8CTpL), [Jakhar](https://open.spotify.com/artist/5ixfE5Gruh9c4sCudjTzNk) | [Aankho](https://open.spotify.com/album/2wU0l9dmzo1qxHJE929gvo) | 3:24 |
 
-Snapshot ID: `MCxhNmFlYzQ0ZWFjNmI2MjA2ZDViZDA1YTkyNDE2YjA3MTI4NzgwMGY5`
+Snapshot ID: `MCxmNzIzNWU0ZDY4Mzc0ZWZjZjM2NzA3MzE5YTAxMTVlZTI2MDg5ZmIz`

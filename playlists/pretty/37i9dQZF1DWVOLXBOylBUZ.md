@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVOLXBOylBUZ.md) - [plain]
 
 > Latinoamérica baila al ritmo de Yng Lvcas.
 
-[Spotify](https://open.spotify.com/user/spotify) - 508,812 likes - 100 songs - 5 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 508,905 likes - 100 songs - 5 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVOLXBOylBUZ.md) - [plain]
 | 11 | [GHETTO PRINCESS](https://open.spotify.com/track/6GgpoeDugrrXl06NIsE1Bo) | [Ovy On The Drums](https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA), [Bad Gyal](https://open.spotify.com/artist/4F4pp8NUW08JuXwnoxglpN), [Ryan Castro](https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz) | [GHETTO PRINCESS](https://open.spotify.com/album/5I5GpNMS30V1a23j2lKl2a) | 2:41 |
 | 12 | [PUERTO ESCONDIDO](https://open.spotify.com/track/6p9lWmoGI6WNlh3MFNhYSU) | [Young Cister](https://open.spotify.com/artist/0Yg29FX1M4ayqjXs0ttZFq), [Morad](https://open.spotify.com/artist/4az97MtWmBQ5Db3GfDh9j9) | [PUERTO ESCONDIDO](https://open.spotify.com/album/4lj7xDOBMMb76MrLKt9w8z) | 3:28 |
 | 13 | [Bella \- Koso](https://open.spotify.com/track/1BtxrI8KXtyH61pdQAsv9U) | [Hozwal](https://open.spotify.com/artist/1lgtR3WlcFxEy6yPoOh0J2) | [Bella \- Koso](https://open.spotify.com/album/6nbyFnHbOCVeDekmWthCMv) | 2:29 |
-| 14 | [Vitamina D](https://open.spotify.com/track/3fyTzHQ46mylLRmHL1kphx) | [Delfina Dib](https://open.spotify.com/artist/6vwr6V7RwcWMDqVNerpNlZ) | [Vitamina D](https://open.spotify.com/album/4psggAblmOxpE19d4XoDsw) | 3:11 |
+| 14 | [VITAMINA D](https://open.spotify.com/track/3fyTzHQ46mylLRmHL1kphx) | [Delfina Dib](https://open.spotify.com/artist/6vwr6V7RwcWMDqVNerpNlZ) | [VITAMINA D](https://open.spotify.com/album/4psggAblmOxpE19d4XoDsw) | 3:11 |
 | 15 | [BUBALU](https://open.spotify.com/track/36FTXlmbiV2diZdZukzLDm) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo), [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [BUBALU](https://open.spotify.com/album/0RjxDLuy3YP0zLuo8VB0JX) | 3:48 |
 | 16 | [SUSTANCIAS EN MI CORAZON](https://open.spotify.com/track/1zY3UlKOpFLZJNOYjBI6Ak) | [STRANGEHUMAN](https://open.spotify.com/artist/0MlQeZCQnaFSGv9gRiE1rD), [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK) | [SUSTANCIAS EN MI CORAZON](https://open.spotify.com/album/0a1zYmCcd5TcBtcNhQS7nK) | 3:16 |
 | 17 | [bien hecho](https://open.spotify.com/track/2jMrMVUprU2f03AZYRpWfB) | [Humbe](https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL) | [bien hecho](https://open.spotify.com/album/5MNb2jx4ncbpNMimeEUczU) | 4:01 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVOLXBOylBUZ.md) - [plain]
 | 99 | [Como Ayer](https://open.spotify.com/track/3MWReEPNS9G3tFp8wN9aNY) | [Cali Y El Dandee](https://open.spotify.com/artist/5DUlefCLzVRzNWaNURTFpK) | [Como Ayer](https://open.spotify.com/album/2H7jkIiLaVmNeKYqMHyJYe) | 2:37 |
 | 100 | [Almas Gemelas](https://open.spotify.com/track/5Y37PYMXdUxfpCWn9o5r6f) | [Reykon](https://open.spotify.com/artist/3PAwspMN27PDm81WwXDsMf) | [12 12](https://open.spotify.com/album/6zSJ3hOlv7MdsBnoTsorpd) | 2:09 |
 
-Snapshot ID: `MCw5ZGY5MmNmNjJkYzBlZjZkNGEzZjRmNTExZmNkOTYzZDg2ZDY0MDMy`
+Snapshot ID: `MCw2MjYxY2NjODI4YWQxMGNjNzI1N2RiNzAwZWIzYjU1NjZkMzhhYWVj`

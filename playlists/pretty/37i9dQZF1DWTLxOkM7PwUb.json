@@ -1,12 +1,12 @@
 {
   "description": "\u2764\ufe0f o \ud83d\udc94\n",
-  "num_followers": 32751,
+  "num_followers": 32812,
   "original_name": "Trap Luv",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiZDY2ZjdhYTJmZjVmZTQ4ZjEzMzdhODZiODg5OGEyMjU1ZTgwMGZj",
+  "snapshot_id": "MCw1MDAyNmM2ZWUwZGQyZDhjMGY2OTVkYjAxZDIwNWVkNDllYzdmNTIy",
   "tracks": [
     {
       "added_at": "2022-12-09 03:00:00",
@@ -439,26 +439,6 @@
     {
       "added_at": "2022-12-09 03:00:00",
       "album": {
-        "name": "C.R.O: Bzrp Music Sessions, Vol. 29",
-        "url": "https://open.spotify.com/album/6JRgIvDqCA1WxzEhV52zny"
-      },
-      "artists": [
-        {
-          "name": "Bizarrap",
-          "url": "https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36"
-        },
-        {
-          "name": "C.R.O",
-          "url": "https://open.spotify.com/artist/4puAp107dCehraE47QXVQX"
-        }
-      ],
-      "duration_ms": 146341,
-      "name": "C.R.O: Bzrp Music Sessions, Vol. 29",
-      "url": "https://open.spotify.com/track/0qPbQWcqNDVrReSSvMoJxk"
-    },
-    {
-      "added_at": "2022-12-09 03:00:00",
-      "album": {
         "name": "Vete Pal Carajo",
         "url": "https://open.spotify.com/album/6h1BJzZHeHkAg5jknF3fwD"
       },
@@ -479,6 +459,26 @@
       "duration_ms": 176146,
       "name": "Vete Pal Carajo",
       "url": "https://open.spotify.com/track/1mrQYY0NATPCe7WOYcCKf1"
+    },
+    {
+      "added_at": "2022-12-09 03:00:00",
+      "album": {
+        "name": "C.R.O: Bzrp Music Sessions, Vol. 29",
+        "url": "https://open.spotify.com/album/6JRgIvDqCA1WxzEhV52zny"
+      },
+      "artists": [
+        {
+          "name": "Bizarrap",
+          "url": "https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36"
+        },
+        {
+          "name": "C.R.O",
+          "url": "https://open.spotify.com/artist/4puAp107dCehraE47QXVQX"
+        }
+      ],
+      "duration_ms": 146341,
+      "name": "C.R.O: Bzrp Music Sessions, Vol. 29",
+      "url": "https://open.spotify.com/track/0qPbQWcqNDVrReSSvMoJxk"
     },
     {
       "added_at": "2022-12-09 03:00:00",
@@ -583,30 +583,6 @@
     {
       "added_at": "2022-12-09 03:00:00",
       "album": {
-        "name": "YaMeFui",
-        "url": "https://open.spotify.com/album/1leCmYLFE8LDdd8uCK16U2"
-      },
-      "artists": [
-        {
-          "name": "Bizarrap",
-          "url": "https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36"
-        },
-        {
-          "name": "Duki",
-          "url": "https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg"
-        },
-        {
-          "name": "Nicki Nicole",
-          "url": "https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y"
-        }
-      ],
-      "duration_ms": 182594,
-      "name": "YaMeFui",
-      "url": "https://open.spotify.com/track/42ahuAFlYGjIGBpVdHcLij"
-    },
-    {
-      "added_at": "2022-12-09 03:00:00",
-      "album": {
         "name": "La Que Se Fue",
         "url": "https://open.spotify.com/album/61rRHurzkamUCuqQXs8PuP"
       },
@@ -631,26 +607,6 @@
     {
       "added_at": "2022-12-09 03:00:00",
       "album": {
-        "name": "Vete",
-        "url": "https://open.spotify.com/album/2dDtHdc2Pc6S3na6jIqqCn"
-      },
-      "artists": [
-        {
-          "name": "KHEA",
-          "url": "https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR"
-        },
-        {
-          "name": "Omar Varela",
-          "url": "https://open.spotify.com/artist/5xIOUIBQhGFX7HIj8lhdyU"
-        }
-      ],
-      "duration_ms": 182183,
-      "name": "Vete",
-      "url": "https://open.spotify.com/track/0BMXB8USeC2zVufRWBcMuY"
-    },
-    {
-      "added_at": "2022-12-09 03:00:00",
-      "album": {
         "name": "GPS (feat. French Montana)",
         "url": "https://open.spotify.com/album/391Aef4X78Ta4Y7XpRJw6q"
       },
@@ -667,6 +623,50 @@
       "duration_ms": 216306,
       "name": "GPS (feat. French Montana)",
       "url": "https://open.spotify.com/track/3t6j6WNv2OSn6qm5Vxynub"
+    },
+    {
+      "added_at": "2022-12-09 03:00:00",
+      "album": {
+        "name": "YaMeFui",
+        "url": "https://open.spotify.com/album/1leCmYLFE8LDdd8uCK16U2"
+      },
+      "artists": [
+        {
+          "name": "Bizarrap",
+          "url": "https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36"
+        },
+        {
+          "name": "Duki",
+          "url": "https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg"
+        },
+        {
+          "name": "Nicki Nicole",
+          "url": "https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y"
+        }
+      ],
+      "duration_ms": 182594,
+      "name": "YaMeFui",
+      "url": "https://open.spotify.com/track/42ahuAFlYGjIGBpVdHcLij"
+    },
+    {
+      "added_at": "2022-12-09 03:00:00",
+      "album": {
+        "name": "Vete",
+        "url": "https://open.spotify.com/album/2dDtHdc2Pc6S3na6jIqqCn"
+      },
+      "artists": [
+        {
+          "name": "KHEA",
+          "url": "https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR"
+        },
+        {
+          "name": "Omar Varela",
+          "url": "https://open.spotify.com/artist/5xIOUIBQhGFX7HIj8lhdyU"
+        }
+      ],
+      "duration_ms": 182183,
+      "name": "Vete",
+      "url": "https://open.spotify.com/track/0BMXB8USeC2zVufRWBcMuY"
     },
     {
       "added_at": "2022-12-09 03:00:00",
@@ -795,22 +795,6 @@
     {
       "added_at": "2022-12-09 03:00:00",
       "album": {
-        "name": "S.A.D",
-        "url": "https://open.spotify.com/album/2y4bx11ZTk9jxo0zXwLhLm"
-      },
-      "artists": [
-        {
-          "name": "KHEA",
-          "url": "https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR"
-        }
-      ],
-      "duration_ms": 128375,
-      "name": "S.A.D",
-      "url": "https://open.spotify.com/track/0ZGNuav3HfUf1iOLoF3CaO"
-    },
-    {
-      "added_at": "2022-12-09 03:00:00",
-      "album": {
         "name": "Sol y Luna",
         "url": "https://open.spotify.com/album/1El0UxIBwU3431TI9656dK"
       },
@@ -823,6 +807,22 @@
       "duration_ms": 163621,
       "name": "Sol y Luna",
       "url": "https://open.spotify.com/track/1WMMrUKNFsnEG2csDURxhb"
+    },
+    {
+      "added_at": "2022-12-09 03:00:00",
+      "album": {
+        "name": "S.A.D",
+        "url": "https://open.spotify.com/album/2y4bx11ZTk9jxo0zXwLhLm"
+      },
+      "artists": [
+        {
+          "name": "KHEA",
+          "url": "https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR"
+        }
+      ],
+      "duration_ms": 128375,
+      "name": "S.A.D",
+      "url": "https://open.spotify.com/track/0ZGNuav3HfUf1iOLoF3CaO"
     },
     {
       "added_at": "2022-12-09 03:00:00",
@@ -943,6 +943,22 @@
     {
       "added_at": "2022-12-09 03:00:00",
       "album": {
+        "name": "Desde el Fin del Mundo",
+        "url": "https://open.spotify.com/album/3MKQjYpaES80tFP7Qo2zH0"
+      },
+      "artists": [
+        {
+          "name": "Duki",
+          "url": "https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg"
+        }
+      ],
+      "duration_ms": 218288,
+      "name": "I Don't Know",
+      "url": "https://open.spotify.com/track/14OsvO7eecMfOIdRClquk9"
+    },
+    {
+      "added_at": "2022-12-09 03:00:00",
+      "album": {
         "name": "Demasiado Tarde",
         "url": "https://open.spotify.com/album/6ZWbDDl3KHIruXOq6rZxGa"
       },
@@ -959,22 +975,6 @@
       "duration_ms": 271548,
       "name": "Demasiado Tarde",
       "url": "https://open.spotify.com/track/5KFx45L84KmBINWLh6TEiL"
-    },
-    {
-      "added_at": "2022-12-09 03:00:00",
-      "album": {
-        "name": "C14TORCE II",
-        "url": "https://open.spotify.com/album/7xKDKUJqp6Q2hxpH3ny9Jk"
-      },
-      "artists": [
-        {
-          "name": "Cazzu",
-          "url": "https://open.spotify.com/artist/6w3SkAHYPsQ1bxV7VDlG5y"
-        }
-      ],
-      "duration_ms": 196363,
-      "name": "C14TORCE II",
-      "url": "https://open.spotify.com/track/2e2ZtZbe6rQoOnUizqowNT"
     },
     {
       "added_at": "2022-12-09 03:00:00",
@@ -1023,18 +1023,18 @@
     {
       "added_at": "2022-12-09 03:00:00",
       "album": {
-        "name": "Desde el Fin del Mundo",
-        "url": "https://open.spotify.com/album/3MKQjYpaES80tFP7Qo2zH0"
+        "name": "C14TORCE II",
+        "url": "https://open.spotify.com/album/7xKDKUJqp6Q2hxpH3ny9Jk"
       },
       "artists": [
         {
-          "name": "Duki",
-          "url": "https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg"
+          "name": "Cazzu",
+          "url": "https://open.spotify.com/artist/6w3SkAHYPsQ1bxV7VDlG5y"
         }
       ],
-      "duration_ms": 218288,
-      "name": "I Don't Know",
-      "url": "https://open.spotify.com/track/14OsvO7eecMfOIdRClquk9"
+      "duration_ms": 196363,
+      "name": "C14TORCE II",
+      "url": "https://open.spotify.com/track/2e2ZtZbe6rQoOnUizqowNT"
     },
     {
       "added_at": "2022-12-09 03:00:00",
@@ -1135,22 +1135,6 @@
     {
       "added_at": "2022-12-09 03:00:00",
       "album": {
-        "name": "Vuelve a Mi",
-        "url": "https://open.spotify.com/album/2c1OLuv8lwJ7Q6hmjphPj9"
-      },
-      "artists": [
-        {
-          "name": "Micro TDH",
-          "url": "https://open.spotify.com/artist/1aWJsBQa67l72j1VT3D6Ow"
-        }
-      ],
-      "duration_ms": 186666,
-      "name": "Vuelve a Mi",
-      "url": "https://open.spotify.com/track/5Ojmp2wFNvPgZpkFSUvWTo"
-    },
-    {
-      "added_at": "2022-12-09 03:00:00",
-      "album": {
         "name": "Sauce Boyz 2",
         "url": "https://open.spotify.com/album/4JaYe7HIddzNaF3rUgJzHI"
       },
@@ -1167,6 +1151,22 @@
       "duration_ms": 189629,
       "name": "Primera Vez",
       "url": "https://open.spotify.com/track/0jRnQ0qTi3BRei6p0AunAH"
+    },
+    {
+      "added_at": "2022-12-09 03:00:00",
+      "album": {
+        "name": "Vuelve a Mi",
+        "url": "https://open.spotify.com/album/2c1OLuv8lwJ7Q6hmjphPj9"
+      },
+      "artists": [
+        {
+          "name": "Micro TDH",
+          "url": "https://open.spotify.com/artist/1aWJsBQa67l72j1VT3D6Ow"
+        }
+      ],
+      "duration_ms": 186666,
+      "name": "Vuelve a Mi",
+      "url": "https://open.spotify.com/track/5Ojmp2wFNvPgZpkFSUvWTo"
     },
     {
       "added_at": "2022-12-09 03:00:00",
@@ -1323,6 +1323,30 @@
     {
       "added_at": "2022-12-09 03:00:00",
       "album": {
+        "name": "Desperte Sin Ti (Remix)",
+        "url": "https://open.spotify.com/album/4Txl9NHs8rXqtG0sAosf6v"
+      },
+      "artists": [
+        {
+          "name": "Noriel",
+          "url": "https://open.spotify.com/artist/3RtNN1VnooWEn3KQk03DUL"
+        },
+        {
+          "name": "Nicky Jam",
+          "url": "https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT"
+        },
+        {
+          "name": "Yandel",
+          "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
+        }
+      ],
+      "duration_ms": 319586,
+      "name": "Desperte Sin Ti - Remix",
+      "url": "https://open.spotify.com/track/1CWi7KBl7TUIYgIH52KO6f"
+    },
+    {
+      "added_at": "2022-12-09 03:00:00",
+      "album": {
         "name": "Champagne",
         "url": "https://open.spotify.com/album/1hyojpXhtJZN8owpOxZVkx"
       },
@@ -1359,30 +1383,6 @@
       "duration_ms": 187046,
       "name": "S\u00e1banas An\u00f3nimas",
       "url": "https://open.spotify.com/track/3onL7etNXsBumOa4HmFnqE"
-    },
-    {
-      "added_at": "2022-12-09 03:00:00",
-      "album": {
-        "name": "Desperte Sin Ti (Remix)",
-        "url": "https://open.spotify.com/album/4Txl9NHs8rXqtG0sAosf6v"
-      },
-      "artists": [
-        {
-          "name": "Noriel",
-          "url": "https://open.spotify.com/artist/3RtNN1VnooWEn3KQk03DUL"
-        },
-        {
-          "name": "Nicky Jam",
-          "url": "https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT"
-        },
-        {
-          "name": "Yandel",
-          "url": "https://open.spotify.com/artist/3GCT2joy6ml6TXWX9zb0KS"
-        }
-      ],
-      "duration_ms": 319586,
-      "name": "Desperte Sin Ti - Remix",
-      "url": "https://open.spotify.com/track/1CWi7KBl7TUIYgIH52KO6f"
     },
     {
       "added_at": "2022-12-09 03:00:00",
@@ -1663,22 +1663,6 @@
     {
       "added_at": "2022-12-09 03:00:00",
       "album": {
-        "name": "CAPRICHOSO",
-        "url": "https://open.spotify.com/album/6oKn81qm7WFAXnvkFB8Pah"
-      },
-      "artists": [
-        {
-          "name": "Rauw Alejandro",
-          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
-        }
-      ],
-      "duration_ms": 167619,
-      "name": "CAPRICHOSO",
-      "url": "https://open.spotify.com/track/1sJCxmtHVDHjgwXwdHYFWn"
-    },
-    {
-      "added_at": "2022-12-09 03:00:00",
-      "album": {
         "name": "Good Vibes",
         "url": "https://open.spotify.com/album/7iSkcdgLqXakbw8EazkZK7"
       },
@@ -1695,6 +1679,22 @@
       "duration_ms": 235720,
       "name": "Good Vibes",
       "url": "https://open.spotify.com/track/4TwIbmabI2R5XUhqptk6Ev"
+    },
+    {
+      "added_at": "2022-12-09 03:00:00",
+      "album": {
+        "name": "CAPRICHOSO",
+        "url": "https://open.spotify.com/album/6oKn81qm7WFAXnvkFB8Pah"
+      },
+      "artists": [
+        {
+          "name": "Rauw Alejandro",
+          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+        }
+      ],
+      "duration_ms": 167619,
+      "name": "CAPRICHOSO",
+      "url": "https://open.spotify.com/track/1sJCxmtHVDHjgwXwdHYFWn"
     },
     {
       "added_at": "2022-12-09 03:00:00",
@@ -1735,22 +1735,6 @@
     {
       "added_at": "2022-12-09 03:00:00",
       "album": {
-        "name": "Una Semana",
-        "url": "https://open.spotify.com/album/6btnX8ER1IHMIUqmmQfFVY"
-      },
-      "artists": [
-        {
-          "name": "Seven Kayne",
-          "url": "https://open.spotify.com/artist/4C29ETLBPmYKYwtJUepbJz"
-        }
-      ],
-      "duration_ms": 183703,
-      "name": "Una Semana",
-      "url": "https://open.spotify.com/track/7oERzx2IvTweeSXU7S8wdO"
-    },
-    {
-      "added_at": "2022-12-09 03:00:00",
-      "album": {
         "name": "Pa Mi",
         "url": "https://open.spotify.com/album/5sP1lpFKLvJuO5egElrW9K"
       },
@@ -1767,6 +1751,22 @@
       "duration_ms": 228231,
       "name": "Pa Mi",
       "url": "https://open.spotify.com/track/5m8hIduzkrvf191VO9CQu4"
+    },
+    {
+      "added_at": "2022-12-09 03:00:00",
+      "album": {
+        "name": "Una Semana",
+        "url": "https://open.spotify.com/album/6btnX8ER1IHMIUqmmQfFVY"
+      },
+      "artists": [
+        {
+          "name": "Seven Kayne",
+          "url": "https://open.spotify.com/artist/4C29ETLBPmYKYwtJUepbJz"
+        }
+      ],
+      "duration_ms": 183703,
+      "name": "Una Semana",
+      "url": "https://open.spotify.com/track/7oERzx2IvTweeSXU7S8wdO"
     },
     {
       "added_at": "2022-12-09 03:00:00",

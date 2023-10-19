@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1aA8os1ylFZ.md) - [plain]
 
 > get into your feels with some r&b magic
 
-[Spotify](https://open.spotify.com/user/spotify) - 237,934 likes - 100 songs - 5 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 238,008 likes - 100 songs - 5 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -87,17 +87,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1aA8os1ylFZ.md) - [plain]
 | 77 | [Temporary Love](https://open.spotify.com/track/502fO9MaTL1FXQxilajwW8) | [Xenia Manasseh](https://open.spotify.com/artist/2J4IvVbi2h1wB2A0p5kd86) | [Temporary Love](https://open.spotify.com/album/7Ik6vXPyiM9jflElmt78cQ) | 2:36 |
 | 78 | [hoe bedoel je?](https://open.spotify.com/track/7juYCJy0yvKaV8uvZJV4p9) | [Danny Dubb](https://open.spotify.com/artist/1ZzmoEKSOVNm75SY7T1zBe) | [hoe bedoel je?](https://open.spotify.com/album/4CN04dChYLqFWOaSDhtOG3) | 2:17 |
 | 79 | [Heartbreaker](https://open.spotify.com/track/4eLFb0Ygy59SEisCWsa85h) | [Larissa Lambert](https://open.spotify.com/artist/1tM4ox3QsSpl3R2VwLjJ47), [Jeremih](https://open.spotify.com/artist/3KV3p5EY4AvKxOlhGHORLg) | [I Love You And Its Getting Worse](https://open.spotify.com/album/4EveH7LTJ6mTkxXWK6y2Vu) | 2:59 |
-| 80 | [Peace](https://open.spotify.com/track/2jVophLAvSRFwiC0bhk8K4) | [QUiNNA](https://open.spotify.com/artist/22rDvoC9Ih125ORFkRXU1p), [Asiah](https://open.spotify.com/artist/3cAWgw5dy6A1OheKZx0uZX), [Sevendays](https://open.spotify.com/artist/7Bjrqi8xQL35Lp9KCRI3sY) | [Peace](https://open.spotify.com/album/4XyrBfLYVSRYIAIeAEJWF1) | 2:49 |
+| 80 | [All I Need](https://open.spotify.com/track/5V5MLWpaH416tfZl5e5z84) | [Miss Lafamilia](https://open.spotify.com/artist/5RUIxQGzPzXUD19Rb3W4e9) | [All I Need](https://open.spotify.com/album/1CjPP5G4HZ9AuiJrMLHm6A) | 2:53 |
 | 81 | [Private](https://open.spotify.com/track/42aNId1lKXtXYhs3tw9qlE) | [Neema Nekesa](https://open.spotify.com/artist/3hkQvRtfUiRaZRK3gBsIOI), [Badí](https://open.spotify.com/artist/7MDPfcrNPw7maI50adktWa) | [Private](https://open.spotify.com/album/6obunuhuVYQh7LBZgXoIOR) | 2:38 |
-| 82 | [All I Need](https://open.spotify.com/track/5V5MLWpaH416tfZl5e5z84) | [Miss Lafamilia](https://open.spotify.com/artist/5RUIxQGzPzXUD19Rb3W4e9) | [All I Need](https://open.spotify.com/album/1CjPP5G4HZ9AuiJrMLHm6A) | 2:53 |
+| 82 | [Peace](https://open.spotify.com/track/2jVophLAvSRFwiC0bhk8K4) | [QUiNNA](https://open.spotify.com/artist/22rDvoC9Ih125ORFkRXU1p), [Asiah](https://open.spotify.com/artist/3cAWgw5dy6A1OheKZx0uZX), [Sevendays](https://open.spotify.com/artist/7Bjrqi8xQL35Lp9KCRI3sY) | [Peace](https://open.spotify.com/album/4XyrBfLYVSRYIAIeAEJWF1) | 2:49 |
 | 83 | [Candy Store](https://open.spotify.com/track/52k3JDkTOm35bER4EwRtTD) | [RANI](https://open.spotify.com/artist/3SYnDj7btg9gFY7ps8m5d5) | [Candy Store](https://open.spotify.com/album/3nzA2nfVpSVNIVbJPXzFQR) | 2:49 |
 | 84 | [Check Myself](https://open.spotify.com/track/4Oz1Aw9TEyuNljkUAaY8mw) | [Lyna](https://open.spotify.com/artist/6T83nWN9QZR1Abip1bMcVV) | [Check Myself](https://open.spotify.com/album/2WmIdURIvY3eZctc92T6Ma) | 2:16 |
 | 85 | [Ride](https://open.spotify.com/track/5pziO6WDRV9TY71Bj7Oq7C) | [Kim Petite](https://open.spotify.com/artist/6A1hTvjGU0EkHlsNu6Vnq6), [Eurosoundz](https://open.spotify.com/artist/09EhOOo1mFG5MNORvPQtzn) | [Ride](https://open.spotify.com/album/2MZHL3LurNRCqORyOMypja) | 2:59 |
 | 86 | [Headlights](https://open.spotify.com/track/1eiPx1hsXwBUnrSqmaygUx) | [Miller Blue](https://open.spotify.com/artist/2soHr8jGZ0ATxc6X6BgmbA) | [Headlights](https://open.spotify.com/album/2OqSKDW0ZotjVuZPrg15N8) | 2:53 |
 | 87 | [Loveloca](https://open.spotify.com/track/1JCKPYM0yFZfXeC04RmeiB) | [J.A.D.E](https://open.spotify.com/artist/286YnD3iVn80KxG43TyBHH) | [Loveloca](https://open.spotify.com/album/6cc0aH6M1S3SAUdMglc37e) | 2:54 |
-| 88 | [Home](https://open.spotify.com/track/2V1uSXkEy77WNk9ZL6IuxJ) | [K.ZIA](https://open.spotify.com/artist/3atSqEy99wAtJLRIrFdpMY) | [Genesis](https://open.spotify.com/album/4Pc3nWPVnnOQcMKRE53qYT) | 3:03 |
+| 88 | [Emotionally Unavailable](https://open.spotify.com/track/4ysqeIgg9nExbHT9jyXMZu) | [Alice Aera](https://open.spotify.com/artist/1r6ajY5Cgb1Rhl88UWG4B7), [Khalil](https://open.spotify.com/artist/0Ve0bm5U01MnOpONJMoEC4) | [Emotionally Unavailable](https://open.spotify.com/album/6GTubdptJMyDY8WBuWH7ws) | 2:22 |
 | 89 | [It Ain't Easy](https://open.spotify.com/track/70NUQKxZwOxjp03dJOlRGH) | [Neema Nekesa](https://open.spotify.com/artist/3hkQvRtfUiRaZRK3gBsIOI) | [Lost](https://open.spotify.com/album/2pQtPvWVGYTIOuRdtcv7iw) | 2:49 |
-| 90 | [Emotionally Unavailable](https://open.spotify.com/track/4ysqeIgg9nExbHT9jyXMZu) | [Alice Aera](https://open.spotify.com/artist/1r6ajY5Cgb1Rhl88UWG4B7), [Khalil](https://open.spotify.com/artist/0Ve0bm5U01MnOpONJMoEC4) | [Emotionally Unavailable](https://open.spotify.com/album/6GTubdptJMyDY8WBuWH7ws) | 2:22 |
+| 90 | [Home](https://open.spotify.com/track/2V1uSXkEy77WNk9ZL6IuxJ) | [K.ZIA](https://open.spotify.com/artist/3atSqEy99wAtJLRIrFdpMY) | [Genesis](https://open.spotify.com/album/4Pc3nWPVnnOQcMKRE53qYT) | 3:03 |
 | 91 | [Patience](https://open.spotify.com/track/50YvgSEJQpNlvOaTNJzwnk) | [Sky Feliz](https://open.spotify.com/artist/7EeqJ1ky6b1Kjf4vgGkx3O) | [Patience](https://open.spotify.com/album/5NeVFESnfQbNb14PTKn3y4) | 2:32 |
 | 92 | [Mood](https://open.spotify.com/track/1YoaC97vl8UBcXM9J0V3ro) | [Natalie La Rose](https://open.spotify.com/artist/2qdONMCoDngQk0eV4Avs1i) | [Mood](https://open.spotify.com/album/1bxGp98YJlaWr6nLaBIvHp) | 3:06 |
 | 93 | [Darkness](https://open.spotify.com/track/4xNygvV9HtIisQlGQgATvN) | [Romy Dya](https://open.spotify.com/artist/5gWzmnHTLNXz5CjOc0wAuK) | [Darkness](https://open.spotify.com/album/12WLtY1AOfYXPmVoYdulxZ) | 3:01 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1aA8os1ylFZ.md) - [plain]
 | 99 | [Do They Know](https://open.spotify.com/track/2duXRr3V3koJ0w6WsEDOAU) | [Full Crate](https://open.spotify.com/artist/0JeTRYMH7FoBiMcLXg1n8g) | [Do They Know](https://open.spotify.com/album/3qhMA6qBm8VcurTYcY94AM) | 2:02 |
 | 100 | [City Girl](https://open.spotify.com/track/1uuCG9rNTnjI7hljkFlGFO) | [Quessswho](https://open.spotify.com/artist/4Q23rm8jYyd2ft6Cm1MhwJ) | [City Girl](https://open.spotify.com/album/6p0O1QjQAqtFvY3s1tLYLn) | 2:01 |
 
-Snapshot ID: `MCwzYmJkZjg0OWRlNTFlNTFjZDcwYzBlYTAyNWRmZmY1N2UyZmVjN2Fi`
+Snapshot ID: `MCw0ZjJlOGMxNmEyODAxYjI4ODIwMGUzNThkOGFiODJiMjg4NDFmMGM5`

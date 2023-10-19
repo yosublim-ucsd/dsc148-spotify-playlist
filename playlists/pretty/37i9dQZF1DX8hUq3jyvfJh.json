@@ -1,12 +1,12 @@
 {
   "description": "Alcione e mais mulheres ic\u00f4nicas para serem ouvidas no volume m\u00e1ximo! Foto: Alcione",
-  "num_followers": 152593,
+  "num_followers": 152714,
   "original_name": "EQUAL Brasil",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyZjgxYjI5OTQyMDZiYjdmYTk5NTEwNWM0NDFmOTE3OTY2ZWEzYjgz",
+  "snapshot_id": "MCw2NzIzNjkwNWU2MmNiYTUzZjc3NGJkMDlkZWRmYzczMzEyYmI4MDBl",
   "tracks": [
     {
       "added_at": "2023-10-13 13:38:48",
@@ -303,6 +303,22 @@
     {
       "added_at": "2023-10-13 13:38:48",
       "album": {
+        "name": "Menino do Rio",
+        "url": "https://open.spotify.com/album/48katkMd5Hkb14rUEgo0YO"
+      },
+      "artists": [
+        {
+          "name": "Mart'n\u00e1lia",
+          "url": "https://open.spotify.com/artist/4EUuQxMNowMUEs5gu4BzBX"
+        }
+      ],
+      "duration_ms": 220093,
+      "name": "Boto Meu Povo Na Rua",
+      "url": "https://open.spotify.com/track/3NeIv5vFoKByUnjMjMQVEc"
+    },
+    {
+      "added_at": "2023-10-13 13:38:48",
+      "album": {
         "name": "Ac\u00fastico MTV Manu Gavassi Canta Fruto Proibido",
         "url": "https://open.spotify.com/album/0E7BlhGz33kQOLqRbSUTmt"
       },
@@ -319,22 +335,6 @@
       "duration_ms": 295223,
       "name": "Ovelha Negra - Ac\u00fastico MTV",
       "url": "https://open.spotify.com/track/0gGvGuoOqfYdkjbcl2Mh0N"
-    },
-    {
-      "added_at": "2023-10-13 13:38:48",
-      "album": {
-        "name": "Menino do Rio",
-        "url": "https://open.spotify.com/album/48katkMd5Hkb14rUEgo0YO"
-      },
-      "artists": [
-        {
-          "name": "Mart'n\u00e1lia",
-          "url": "https://open.spotify.com/artist/4EUuQxMNowMUEs5gu4BzBX"
-        }
-      ],
-      "duration_ms": 220093,
-      "name": "Boto Meu Povo Na Rua",
-      "url": "https://open.spotify.com/track/3NeIv5vFoKByUnjMjMQVEc"
     },
     {
       "added_at": "2023-10-13 13:38:48",
@@ -567,22 +567,6 @@
     {
       "added_at": "2023-10-13 13:38:48",
       "album": {
-        "name": "Of\u00edcio de Cantante",
-        "url": "https://open.spotify.com/album/28FxczQCIQtBEn0FGqWtxE"
-      },
-      "artists": [
-        {
-          "name": "Tassia Reis",
-          "url": "https://open.spotify.com/artist/0kc1BjcLHaXhZVzCp0HeAl"
-        }
-      ],
-      "duration_ms": 278837,
-      "name": "Of\u00edcio de Cantante",
-      "url": "https://open.spotify.com/track/0NNeK4HYMAGjWwX0SJMv4v"
-    },
-    {
-      "added_at": "2023-10-13 13:38:48",
-      "album": {
         "name": "Terezinha",
         "url": "https://open.spotify.com/album/6tk8iJGsL0xKCJ8zXbm20Z"
       },
@@ -607,6 +591,22 @@
     {
       "added_at": "2023-10-13 13:38:48",
       "album": {
+        "name": "Habilidades Extraordin\u00e1rias",
+        "url": "https://open.spotify.com/album/7CsBswgYYISQdoy5DqSywx"
+      },
+      "artists": [
+        {
+          "name": "Tulipa Ruiz",
+          "url": "https://open.spotify.com/artist/6OokCpvxnYv43WcFqejMLb"
+        }
+      ],
+      "duration_ms": 273974,
+      "name": "Habilidades Extraordin\u00e1rias",
+      "url": "https://open.spotify.com/track/4ORL3b19kkul61f5Qem2r5"
+    },
+    {
+      "added_at": "2023-10-13 13:38:48",
+      "album": {
         "name": "Piraj\u00e1 Esquina Carioca - uma Noite com a Ra\u00edz do Samba",
         "url": "https://open.spotify.com/album/7HW7vlBfeUVauC7TwiJpvl"
       },
@@ -623,18 +623,18 @@
     {
       "added_at": "2023-10-13 13:38:48",
       "album": {
-        "name": "Habilidades Extraordin\u00e1rias",
-        "url": "https://open.spotify.com/album/7CsBswgYYISQdoy5DqSywx"
+        "name": "Of\u00edcio de Cantante",
+        "url": "https://open.spotify.com/album/28FxczQCIQtBEn0FGqWtxE"
       },
       "artists": [
         {
-          "name": "Tulipa Ruiz",
-          "url": "https://open.spotify.com/artist/6OokCpvxnYv43WcFqejMLb"
+          "name": "Tassia Reis",
+          "url": "https://open.spotify.com/artist/0kc1BjcLHaXhZVzCp0HeAl"
         }
       ],
-      "duration_ms": 273974,
-      "name": "Habilidades Extraordin\u00e1rias",
-      "url": "https://open.spotify.com/track/4ORL3b19kkul61f5Qem2r5"
+      "duration_ms": 278837,
+      "name": "Of\u00edcio de Cantante",
+      "url": "https://open.spotify.com/track/0NNeK4HYMAGjWwX0SJMv4v"
     },
     {
       "added_at": "2023-10-13 13:38:48",

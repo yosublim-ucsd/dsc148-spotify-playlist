@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-03-30",
-  "description": "Yo Hai Haryanvi Hip-Hop! Cover: MC SQUARE",
+  "description": "Yo Hai Haryanvi Hip-Hop! Cover: Dhanda Nyoliwala & Raftaar",
   "name": "Hip-Hop Haryanvi",
   "tracks": [
     {
@@ -575,6 +575,28 @@
     },
     {
       "album": {
+        "name": "Chora Baba Ka",
+        "url": "https://open.spotify.com/album/6qW38JP4tbzrsZ5VtxUNUS"
+      },
+      "artists": [
+        {
+          "name": "Raftaar",
+          "url": "https://open.spotify.com/artist/5UdFr0GeO7jKIaNIJgwB36"
+        },
+        {
+          "name": "Dhanda Nyoliwala",
+          "url": "https://open.spotify.com/artist/2rN8LHqK4TBI7y3d9POvJb"
+        }
+      ],
+      "date_added": "2023-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175624,
+      "name": "Chora Baba Ka",
+      "url": "https://open.spotify.com/track/3fz747rKjbEa6mtclKacjf"
+    },
+    {
+      "album": {
         "name": "Chore Haryana Aale",
         "url": "https://open.spotify.com/album/4uH6nJZ7YA3GpeaBZccaCC"
       },
@@ -646,6 +668,28 @@
       "duration_ms": 194950,
       "name": "Circle",
       "url": "https://open.spotify.com/track/5d3cpUagWngKLiIwtHSLKV"
+    },
+    {
+      "album": {
+        "name": "Convoy",
+        "url": "https://open.spotify.com/album/4ZcTQRJtPrN8azjI83NHNg"
+      },
+      "artists": [
+        {
+          "name": "Khasa Aala Chahar",
+          "url": "https://open.spotify.com/artist/3yOHCFUZRsaHUu1yefR8ck"
+        },
+        {
+          "name": "KD DESIROCK",
+          "url": "https://open.spotify.com/artist/4Pq2LW79qotJK4YAMFwlO0"
+        }
+      ],
+      "date_added": "2023-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 275000,
+      "name": "Convoy",
+      "url": "https://open.spotify.com/track/70ouErfLUxUY2WQwcQI2fO"
     },
     {
       "album": {
@@ -1240,7 +1284,7 @@
       ],
       "date_added": "2023-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-19",
       "duration_ms": 163835,
       "name": "Jaat Warriors",
       "url": "https://open.spotify.com/track/6oWxnsiYG5bj2tqhDcdlRY"
@@ -2054,7 +2098,7 @@
       ],
       "date_added": "2023-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-19",
       "duration_ms": 211200,
       "name": "Rao Sahab Drill",
       "url": "https://open.spotify.com/track/1m5GbHeEUhvCgpuVb1q4Z4"

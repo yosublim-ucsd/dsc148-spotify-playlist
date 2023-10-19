@@ -212,7 +212,7 @@
     {
       "album": {
         "name": "Ay, Candela",
-        "url": "https://open.spotify.com/album/0rAH56MH8n2kDuJb8A7Hsr"
+        "url": "https://open.spotify.com/album/6Bx8Qxv38gSi05eeUGfsEo"
       },
       "artists": [
         {
@@ -223,6 +223,24 @@
       "date_added": "2022-03-31",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 202560,
+      "name": "Ap\u00fantate Una Mi Social",
+      "url": "https://open.spotify.com/track/5IHL7T1DuPesNDJaGIQx8X"
+    },
+    {
+      "album": {
+        "name": "Ay, Candela",
+        "url": "https://open.spotify.com/album/0rAH56MH8n2kDuJb8A7Hsr"
+      },
+      "artists": [
+        {
+          "name": "Ibrahim Ferrer",
+          "url": "https://open.spotify.com/artist/5dss7E1Ph0KxuF1ULfAx4D"
+        }
+      ],
+      "date_added": "2022-03-31",
+      "date_added_asterisk": false,
+      "date_removed": "2023-10-19",
       "duration_ms": 202560,
       "name": "Ap\u00fantate Una Mi Social",
       "url": "https://open.spotify.com/track/6ipDuNIPhvJjr49imO4NAs"

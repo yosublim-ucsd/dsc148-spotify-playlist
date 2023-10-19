@@ -4,7 +4,7 @@
 
 > The freshest K\-Pop of today!  //最先端のK\-Popをピックアップ！ Cover: ITZY
 
-781 songs - 1 day 18 hr 44 min
+782 songs - 1 day 18 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -421,6 +421,7 @@
 | [LUMINOUS](https://open.spotify.com/track/55z4CHK595oo1sXngKXdGN) | [LOONA](https://open.spotify.com/artist/52zMTJCKluDlFwMQWmccY7) | [LUMINOUS](https://open.spotify.com/album/13B70JuY08wGNOMaL2Mb4e) | 3:58 | 2022-09-27 | 2022-11-23 |
 | [LUMINOUS](https://open.spotify.com/track/5LORlaKLGzAAxeIeqxYxPd) | [LOONA](https://open.spotify.com/artist/52zMTJCKluDlFwMQWmccY7) | [LUMINOUS](https://open.spotify.com/album/2SK988TDKtheZT9zVozte4) | 3:58 | 2022-09-13 | 2022-10-14 |
 | [LUV LUV LUV \(Korean Version\)](https://open.spotify.com/track/7gFp8lhfCrQCskkTzLaFA6) | [GreatGuys](https://open.spotify.com/artist/5rl5eIP9MogVsjbIVUKK1y) | [RECORD OF YOUTH EP.1 DESTINY](https://open.spotify.com/album/3TDpMWzZ1xDZwYGS42bEnp) | 2:47 | 2023-06-20 | 2023-07-26 |
+| [MACARONI CHEESE](https://open.spotify.com/track/1CqMpf1w1IPWWq4Zxa2RxK) | [YOUNG POSSE](https://open.spotify.com/artist/5bxwvIM9PX0CkpS6f1L2Ff) | [MACARONI CHEESE EP](https://open.spotify.com/album/3maKjITApQfhgJ13DflK8e) | 2:25 | 2023-10-17 |  |
 | [MAISON](https://open.spotify.com/track/1fdlTXD7obDyqOpx96BEL9) | [Dreamcatcher](https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ) | [\[Apocalypse : Save us\]](https://open.spotify.com/album/1ONjVRtxAqiTivu0EiEBm5) | 3:05 | 2022-04-12 | 2022-07-09 |
 | [make a secret \- The Greatest Ver.](https://open.spotify.com/track/0Vnvga0n2hceutBl4SuZug) | [BoA](https://open.spotify.com/artist/4muJrGMndyYWqZtfk8OWy4) | [make a secret \(The Greatest Ver.\)](https://open.spotify.com/album/4vX6w6HrQ79R7uwU24vasz) | 4:34 | 2022-03-29 | 2022-06-08 |
 | [Make the change](https://open.spotify.com/track/3nV2Yjy2aJjUl74p0tEfWf) | [ENHYPEN](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9) | [Make the change](https://open.spotify.com/album/2wJfsH5ol2YVGq2biNphzY) | 3:07 | 2022-10-11 | 2023-01-18 |

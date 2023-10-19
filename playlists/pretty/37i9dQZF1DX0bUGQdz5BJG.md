@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0bUGQdz5BJG.md) - [plain]
 
 > Music City must\-hears\. Cover: John Morgan
 
-[Spotify](https://open.spotify.com/user/spotify) - 169,108 likes - 200 songs - 10 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 169,154 likes - 200 songs - 10 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,7 +38,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0bUGQdz5BJG.md) - [plain]
 | 28 | [First Time Feels \(Green Eyes\)](https://open.spotify.com/track/43iTKyizkwuPqFv4WjE2g1) | [Kyle Clark](https://open.spotify.com/artist/7mog8g5ixRhdaeCgIsiYtN) | [First Time Feels \(Green Eyes\)](https://open.spotify.com/album/4LBprqd0KW5GUdWGbR7A3x) | 3:16 |
 | 29 | [Making It Up As I Go](https://open.spotify.com/track/07PpEVqYwtNFR3DcU6yGsw) | [Kylie Morgan](https://open.spotify.com/artist/3g2yaL04Uapb5fxmwsUZgV) | [Making It Up As I Go](https://open.spotify.com/album/1AARFxE5OxzHhovqbJqB6r) | 3:22 |
 | 30 | [Church Pew](https://open.spotify.com/track/52yPTyhnmH0q07DNDoUkja) | [Caleb Mills](https://open.spotify.com/artist/2hoDSV1Gib8tGTS7q1yKWP) | [Church Pew](https://open.spotify.com/album/3qTqeH0QaHmBC3XnonZ0OZ) | 3:49 |
-| 31 | [Ain't The One](https://open.spotify.com/track/1DMKxugJjRgFjEzUb6Sd62) | [Josh Ross](https://open.spotify.com/artist/1ZGTSMjK1D2HrpPTOh916U) | [Ain't The One](https://open.spotify.com/album/6mgEILhlga6pdEns5qahoU) | 3:05 |
+| 31 | [Ain't The One](https://open.spotify.com/track/0pI8ooKQA99dJOKxc4khYJ) | [Josh Ross](https://open.spotify.com/artist/1ZGTSMjK1D2HrpPTOh916U) | [Ain't The One](https://open.spotify.com/album/3dxiEuuXYgLO8gCbXK2YaO) | 3:05 |
 | 32 | [Weekend You](https://open.spotify.com/track/3doTRdHX25BdvMQxJ3Jgvm) | [Owen Riegling](https://open.spotify.com/artist/0FDlMMfT3tLEKM0QdEIHYu) | [Weekend You](https://open.spotify.com/album/65tUUz5Eaz4kPtq3StWWNq) | 3:37 |
 | 33 | [never been closer 5.22.22](https://open.spotify.com/track/7nm5ruj2DU5ijrx9Qn8j9z) | [Erin Kinsey](https://open.spotify.com/artist/5TtSGhhCPt56x4ZPfg7DFq) | [never been closer 5.22.22](https://open.spotify.com/album/7e2iMzFnAHiMrteS1is8nz) | 2:34 |
 | 34 | [Grief is Only Love](https://open.spotify.com/track/3ahuBtIP8Hh1n5L8jUUzXD) | [Stephen Wilson Jr.](https://open.spotify.com/artist/4DSDa4HvAWqvb3dMHUOAfd) | [søn of dad](https://open.spotify.com/album/1yoC2Wq50qymZj5HyF2z2A) | 4:25 |
@@ -209,4 +209,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0bUGQdz5BJG.md) - [plain]
 | 199 | [Just Like Us](https://open.spotify.com/track/3al1r7yWb8KoaX7IOCmwbX) | [Jordan James](https://open.spotify.com/artist/0qyWIv7Hdewfhqc1ozedrh) | [Just Like Us](https://open.spotify.com/album/1GTIsu7qhVmm2j07hpaCnH) | 2:43 |
 | 200 | [Back to My Place](https://open.spotify.com/track/2dZPgMNCaguLPt3braiGj0) | [Adam Sanders](https://open.spotify.com/artist/17ewtqMhsRUPRdhpYLzMxg) | [Back to My Place](https://open.spotify.com/album/4DSt9zVyd8eLeQGLyOBz4s) | 4:22 |
 
-Snapshot ID: `MCwyYmMzMTliZWVjZTkwZjk1MzZhNWQ1YzljZDY4NzEzZmEyOGM2MjNh`
+Snapshot ID: `MCw2NDNmN2Y5ODBiN2Y0MThhYzE4NzJiYTU0YjY0ZThhN2NiODY1ZjAx`

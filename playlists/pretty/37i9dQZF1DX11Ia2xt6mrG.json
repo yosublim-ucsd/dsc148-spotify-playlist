@@ -1,12 +1,12 @@
 {
   "description": "Descubre lo m\u00e1s fresco de la electr\u00f3nica mexicana. Dannylux en portada.",
-  "num_followers": 55047,
+  "num_followers": 55048,
   "original_name": "mint MX",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmOWE5ZTNhZTZmNmM3YjhmMDkwODFkNGMwMDY1Nzg1M2Q1OTdhYTRm",
+  "snapshot_id": "MCwwZWMzOGY2ZTIxMDkwMTgxNTI3ZmJmNzYyMGVkZTEzNTA0NjgwNzdj",
   "tracks": [
     {
       "added_at": "2023-10-06 06:00:00",
@@ -563,6 +563,22 @@
     {
       "added_at": "2023-10-06 06:00:00",
       "album": {
+        "name": "Hanging Tree",
+        "url": "https://open.spotify.com/album/4ldIgsaqKxrv5s44HLJ28S"
+      },
+      "artists": [
+        {
+          "name": "Le Twins",
+          "url": "https://open.spotify.com/artist/52kfbBndpbamlOcoNPaurb"
+        }
+      ],
+      "duration_ms": 173760,
+      "name": "Hanging Tree",
+      "url": "https://open.spotify.com/track/0BKgZjR0nB7zYXqlGvW4hQ"
+    },
+    {
+      "added_at": "2023-10-06 06:00:00",
+      "album": {
         "name": "Push Me",
         "url": "https://open.spotify.com/album/5jamFfc9LWWvJCceNcZZgg"
       },
@@ -583,22 +599,6 @@
       "duration_ms": 265153,
       "name": "Push Me",
       "url": "https://open.spotify.com/track/2IDa4VHiakky6xNeSrkYE8"
-    },
-    {
-      "added_at": "2023-10-06 06:00:00",
-      "album": {
-        "name": "Hanging Tree",
-        "url": "https://open.spotify.com/album/4ldIgsaqKxrv5s44HLJ28S"
-      },
-      "artists": [
-        {
-          "name": "Le Twins",
-          "url": "https://open.spotify.com/artist/52kfbBndpbamlOcoNPaurb"
-        }
-      ],
-      "duration_ms": 173760,
-      "name": "Hanging Tree",
-      "url": "https://open.spotify.com/track/0BKgZjR0nB7zYXqlGvW4hQ"
     },
     {
       "added_at": "2023-10-06 06:00:00",
@@ -787,22 +787,6 @@
     {
       "added_at": "2023-10-06 06:00:00",
       "album": {
-        "name": "Amanece",
-        "url": "https://open.spotify.com/album/0MQWqKc8nJ1rmrmQFZx8a8"
-      },
-      "artists": [
-        {
-          "name": "Plano",
-          "url": "https://open.spotify.com/artist/0yeQVsx3NrVR2TCLyvTWG1"
-        }
-      ],
-      "duration_ms": 332560,
-      "name": "Amanece",
-      "url": "https://open.spotify.com/track/6HKuxsAa6tCoIcBi8pCsZe"
-    },
-    {
-      "added_at": "2023-10-06 06:00:00",
-      "album": {
         "name": "Quem\u00e1",
         "url": "https://open.spotify.com/album/5hKdaI14cybTq3muwkWHxB"
       },
@@ -823,6 +807,22 @@
       "duration_ms": 149250,
       "name": "Quem\u00e1",
       "url": "https://open.spotify.com/track/0jyHpmD0quGHjILUqMftHa"
+    },
+    {
+      "added_at": "2023-10-06 06:00:00",
+      "album": {
+        "name": "Amanece",
+        "url": "https://open.spotify.com/album/0MQWqKc8nJ1rmrmQFZx8a8"
+      },
+      "artists": [
+        {
+          "name": "Plano",
+          "url": "https://open.spotify.com/artist/0yeQVsx3NrVR2TCLyvTWG1"
+        }
+      ],
+      "duration_ms": 332560,
+      "name": "Amanece",
+      "url": "https://open.spotify.com/track/6HKuxsAa6tCoIcBi8pCsZe"
     },
     {
       "added_at": "2023-10-06 06:00:00",
@@ -1003,30 +1003,6 @@
     {
       "added_at": "2023-10-06 06:00:00",
       "album": {
-        "name": "Mi Amor",
-        "url": "https://open.spotify.com/album/4mQSYNviTSOjMHxQ0cazal"
-      },
-      "artists": [
-        {
-          "name": "Bsno",
-          "url": "https://open.spotify.com/artist/1ou0Yboh9yJJHRt2bxxz29"
-        },
-        {
-          "name": "Keep It Dope",
-          "url": "https://open.spotify.com/artist/638zBnRaMj32pQn3C2Q18y"
-        },
-        {
-          "name": "Priscila",
-          "url": "https://open.spotify.com/artist/48wvp5MbVxUwAyF9BdiqdX"
-        }
-      ],
-      "duration_ms": 211903,
-      "name": "Mi Amor",
-      "url": "https://open.spotify.com/track/1eA6VJPzWaqTcOqzXdxYAN"
-    },
-    {
-      "added_at": "2023-10-06 06:00:00",
-      "album": {
         "name": "Time (feat. Alexia Langis)",
         "url": "https://open.spotify.com/album/4SElNkH0p7XWGmRZSNoDsi"
       },
@@ -1051,6 +1027,30 @@
       "duration_ms": 187317,
       "name": "Time (feat. Alexia Langis)",
       "url": "https://open.spotify.com/track/3aw25wFUuAAB8rxheGg09G"
+    },
+    {
+      "added_at": "2023-10-06 06:00:00",
+      "album": {
+        "name": "Mi Amor",
+        "url": "https://open.spotify.com/album/4mQSYNviTSOjMHxQ0cazal"
+      },
+      "artists": [
+        {
+          "name": "Bsno",
+          "url": "https://open.spotify.com/artist/1ou0Yboh9yJJHRt2bxxz29"
+        },
+        {
+          "name": "Keep It Dope",
+          "url": "https://open.spotify.com/artist/638zBnRaMj32pQn3C2Q18y"
+        },
+        {
+          "name": "Priscila",
+          "url": "https://open.spotify.com/artist/48wvp5MbVxUwAyF9BdiqdX"
+        }
+      ],
+      "duration_ms": 211903,
+      "name": "Mi Amor",
+      "url": "https://open.spotify.com/track/1eA6VJPzWaqTcOqzXdxYAN"
     },
     {
       "added_at": "2023-10-06 06:00:00",
@@ -1123,6 +1123,30 @@
     {
       "added_at": "2023-10-06 06:00:00",
       "album": {
+        "name": "Fire",
+        "url": "https://open.spotify.com/album/3sXt7lzsm7c0nJFb7huHjl"
+      },
+      "artists": [
+        {
+          "name": "Alfred Beck",
+          "url": "https://open.spotify.com/artist/46TMyYBWbwHsSCYedrHv93"
+        },
+        {
+          "name": "Riallo",
+          "url": "https://open.spotify.com/artist/3IMw3PZVhu5PUkT6p3jW5u"
+        },
+        {
+          "name": "Sapir Amar",
+          "url": "https://open.spotify.com/artist/1Pjebxkm2UjQrQ5tg4kXYC"
+        }
+      ],
+      "duration_ms": 181935,
+      "name": "Fire",
+      "url": "https://open.spotify.com/track/6cQ652KB26bjWHt2OZkB5Z"
+    },
+    {
+      "added_at": "2023-10-06 06:00:00",
+      "album": {
         "name": "Highway",
         "url": "https://open.spotify.com/album/21J0Swjz8gN4mRTfTTyrC7"
       },
@@ -1159,26 +1183,22 @@
     {
       "added_at": "2023-10-06 06:00:00",
       "album": {
-        "name": "Fire",
-        "url": "https://open.spotify.com/album/3sXt7lzsm7c0nJFb7huHjl"
+        "name": "Ra Ta Ta (LNY TNZ Remix)",
+        "url": "https://open.spotify.com/album/4Enuiub0K5xwy99vI3N7uy"
       },
       "artists": [
         {
-          "name": "Alfred Beck",
-          "url": "https://open.spotify.com/artist/46TMyYBWbwHsSCYedrHv93"
+          "name": "Le Twins",
+          "url": "https://open.spotify.com/artist/52kfbBndpbamlOcoNPaurb"
         },
         {
-          "name": "Riallo",
-          "url": "https://open.spotify.com/artist/3IMw3PZVhu5PUkT6p3jW5u"
-        },
-        {
-          "name": "Sapir Amar",
-          "url": "https://open.spotify.com/artist/1Pjebxkm2UjQrQ5tg4kXYC"
+          "name": "LNY TNZ",
+          "url": "https://open.spotify.com/artist/1x0ScxgiyFRQDKT4VwcLHa"
         }
       ],
-      "duration_ms": 181935,
-      "name": "Fire",
-      "url": "https://open.spotify.com/track/6cQ652KB26bjWHt2OZkB5Z"
+      "duration_ms": 174420,
+      "name": "Ra Ta Ta - LNY TNZ Remix",
+      "url": "https://open.spotify.com/track/6vWmJH7KvTMT9YKWnsocZl"
     },
     {
       "added_at": "2023-10-06 06:00:00",
@@ -1331,26 +1351,6 @@
     {
       "added_at": "2023-10-06 06:00:00",
       "album": {
-        "name": "Ra Ta Ta (LNY TNZ Remix)",
-        "url": "https://open.spotify.com/album/4Enuiub0K5xwy99vI3N7uy"
-      },
-      "artists": [
-        {
-          "name": "Le Twins",
-          "url": "https://open.spotify.com/artist/52kfbBndpbamlOcoNPaurb"
-        },
-        {
-          "name": "LNY TNZ",
-          "url": "https://open.spotify.com/artist/1x0ScxgiyFRQDKT4VwcLHa"
-        }
-      ],
-      "duration_ms": 174420,
-      "name": "Ra Ta Ta - LNY TNZ Remix",
-      "url": "https://open.spotify.com/track/6vWmJH7KvTMT9YKWnsocZl"
-    },
-    {
-      "added_at": "2023-10-06 06:00:00",
-      "album": {
         "name": "Huellas",
         "url": "https://open.spotify.com/album/2h9Vvbub3Vjtcc28F8NuRG"
       },
@@ -1371,6 +1371,30 @@
       "duration_ms": 228907,
       "name": "Huellas",
       "url": "https://open.spotify.com/track/6GmNKFbiPwZJ01fYkBeToB"
+    },
+    {
+      "added_at": "2023-10-06 06:00:00",
+      "album": {
+        "name": "Scare",
+        "url": "https://open.spotify.com/album/6BPhjXdUpmMAOkJSCqelmC"
+      },
+      "artists": [
+        {
+          "name": "SAMMY & LESEN",
+          "url": "https://open.spotify.com/artist/41haltKXF86Qj99kzlGZZE"
+        },
+        {
+          "name": "Gerard Butler",
+          "url": "https://open.spotify.com/artist/7H25O93TTUoaZ0ZaFk318U"
+        },
+        {
+          "name": "S & L",
+          "url": "https://open.spotify.com/artist/30FC2mjDus2hHWKrXFUlkL"
+        }
+      ],
+      "duration_ms": 204000,
+      "name": "Scare",
+      "url": "https://open.spotify.com/track/6XGF8hGFGgbr7rzCwpRRLd"
     },
     {
       "added_at": "2023-10-06 06:00:00",
@@ -1411,42 +1435,18 @@
     {
       "added_at": "2023-10-06 06:00:00",
       "album": {
-        "name": "Scare",
-        "url": "https://open.spotify.com/album/6BPhjXdUpmMAOkJSCqelmC"
+        "name": "Give Me Your Heart (Somos Uno)",
+        "url": "https://open.spotify.com/album/3R79qs8T32OudQdPBZ0Ope"
       },
       "artists": [
         {
-          "name": "SAMMY & LESEN",
-          "url": "https://open.spotify.com/artist/41haltKXF86Qj99kzlGZZE"
-        },
-        {
-          "name": "Gerard Butler",
-          "url": "https://open.spotify.com/artist/7H25O93TTUoaZ0ZaFk318U"
-        },
-        {
-          "name": "S & L",
-          "url": "https://open.spotify.com/artist/30FC2mjDus2hHWKrXFUlkL"
+          "name": "Sisster",
+          "url": "https://open.spotify.com/artist/6d7Gn9vZrwwN9gBnKHzdzF"
         }
       ],
-      "duration_ms": 204000,
-      "name": "Scare",
-      "url": "https://open.spotify.com/track/6XGF8hGFGgbr7rzCwpRRLd"
-    },
-    {
-      "added_at": "2023-10-06 06:00:00",
-      "album": {
-        "name": "Need You",
-        "url": "https://open.spotify.com/album/3ilpQiBwLygEQgzZXA1t0d"
-      },
-      "artists": [
-        {
-          "name": "Bzars",
-          "url": "https://open.spotify.com/artist/4lS9Yg5DF4h5zDAMrSJwU9"
-        }
-      ],
-      "duration_ms": 210967,
-      "name": "Need You",
-      "url": "https://open.spotify.com/track/6pnXRraVe1b0ytJ7R147Ln"
+      "duration_ms": 209267,
+      "name": "Give Me Your Heart (Somos Uno)",
+      "url": "https://open.spotify.com/track/0cEkRIcJMo0KIxNsWiKyob"
     },
     {
       "added_at": "2023-10-06 06:00:00",
@@ -1475,18 +1475,18 @@
     {
       "added_at": "2023-10-06 06:00:00",
       "album": {
-        "name": "Give Me Your Heart (Somos Uno)",
-        "url": "https://open.spotify.com/album/3R79qs8T32OudQdPBZ0Ope"
+        "name": "Need You",
+        "url": "https://open.spotify.com/album/3ilpQiBwLygEQgzZXA1t0d"
       },
       "artists": [
         {
-          "name": "Sisster",
-          "url": "https://open.spotify.com/artist/6d7Gn9vZrwwN9gBnKHzdzF"
+          "name": "Bzars",
+          "url": "https://open.spotify.com/artist/4lS9Yg5DF4h5zDAMrSJwU9"
         }
       ],
-      "duration_ms": 209267,
-      "name": "Give Me Your Heart (Somos Uno)",
-      "url": "https://open.spotify.com/track/0cEkRIcJMo0KIxNsWiKyob"
+      "duration_ms": 210967,
+      "name": "Need You",
+      "url": "https://open.spotify.com/track/6pnXRraVe1b0ytJ7R147Ln"
     },
     {
       "added_at": "2023-10-06 06:00:00",
@@ -1507,30 +1507,6 @@
       "duration_ms": 195692,
       "name": "San Junipero (Usb Gad Remix)",
       "url": "https://open.spotify.com/track/3KoOKxythVoYOR08bs3tGg"
-    },
-    {
-      "added_at": "2023-10-06 06:00:00",
-      "album": {
-        "name": "Windows",
-        "url": "https://open.spotify.com/album/0EQINUTcp3sgpItQ5RQTFZ"
-      },
-      "artists": [
-        {
-          "name": "Tom & Collins",
-          "url": "https://open.spotify.com/artist/1XU5MjR4kex9BGyY4UMtta"
-        },
-        {
-          "name": "Santti",
-          "url": "https://open.spotify.com/artist/7e6KqpXfInWHjdQufAnsyj"
-        },
-        {
-          "name": "Plastic Skin",
-          "url": "https://open.spotify.com/artist/0KGfsjwVzi26JfxCj2gcRq"
-        }
-      ],
-      "duration_ms": 213133,
-      "name": "Windows",
-      "url": "https://open.spotify.com/track/1JUOjyWpg8X8nePqmYKSCW"
     },
     {
       "added_at": "2023-10-06 06:00:00",
@@ -1579,6 +1555,30 @@
     {
       "added_at": "2023-10-06 06:00:00",
       "album": {
+        "name": "Windows",
+        "url": "https://open.spotify.com/album/0EQINUTcp3sgpItQ5RQTFZ"
+      },
+      "artists": [
+        {
+          "name": "Tom & Collins",
+          "url": "https://open.spotify.com/artist/1XU5MjR4kex9BGyY4UMtta"
+        },
+        {
+          "name": "Santti",
+          "url": "https://open.spotify.com/artist/7e6KqpXfInWHjdQufAnsyj"
+        },
+        {
+          "name": "Plastic Skin",
+          "url": "https://open.spotify.com/artist/0KGfsjwVzi26JfxCj2gcRq"
+        }
+      ],
+      "duration_ms": 213133,
+      "name": "Windows",
+      "url": "https://open.spotify.com/track/1JUOjyWpg8X8nePqmYKSCW"
+    },
+    {
+      "added_at": "2023-10-06 06:00:00",
+      "album": {
         "name": "Filosof\u00eda",
         "url": "https://open.spotify.com/album/2GN5rVI2elWcAB3HLwN8np"
       },
@@ -1623,26 +1623,6 @@
     {
       "added_at": "2023-10-06 06:00:00",
       "album": {
-        "name": "Like a Dream",
-        "url": "https://open.spotify.com/album/1QdqBtNNk968yDFAhXC3Nu"
-      },
-      "artists": [
-        {
-          "name": "Bzars",
-          "url": "https://open.spotify.com/artist/4lS9Yg5DF4h5zDAMrSJwU9"
-        },
-        {
-          "name": "Bandido Brothers",
-          "url": "https://open.spotify.com/artist/7zII5beG1WhlaoAjvamnmJ"
-        }
-      ],
-      "duration_ms": 210731,
-      "name": "Like a Dream",
-      "url": "https://open.spotify.com/track/6OzGgO8T0XrttBzJoqKFlC"
-    },
-    {
-      "added_at": "2023-10-06 06:00:00",
-      "album": {
         "name": "KARMA",
         "url": "https://open.spotify.com/album/7s7so5vu0eAwu8ArWkKmDr"
       },
@@ -1683,22 +1663,22 @@
     {
       "added_at": "2023-10-06 06:00:00",
       "album": {
-        "name": "SWAP",
-        "url": "https://open.spotify.com/album/79zRxuTTkqE9NexZ9ds3LH"
+        "name": "Like a Dream",
+        "url": "https://open.spotify.com/album/1QdqBtNNk968yDFAhXC3Nu"
       },
       "artists": [
         {
-          "name": "SAMMY & LESEN",
-          "url": "https://open.spotify.com/artist/41haltKXF86Qj99kzlGZZE"
+          "name": "Bzars",
+          "url": "https://open.spotify.com/artist/4lS9Yg5DF4h5zDAMrSJwU9"
         },
         {
-          "name": "S & L",
-          "url": "https://open.spotify.com/artist/30FC2mjDus2hHWKrXFUlkL"
+          "name": "Bandido Brothers",
+          "url": "https://open.spotify.com/artist/7zII5beG1WhlaoAjvamnmJ"
         }
       ],
-      "duration_ms": 153750,
-      "name": "SWAP",
-      "url": "https://open.spotify.com/track/2xfHRGswktlqJTfgccrZW4"
+      "duration_ms": 210731,
+      "name": "Like a Dream",
+      "url": "https://open.spotify.com/track/6OzGgO8T0XrttBzJoqKFlC"
     },
     {
       "added_at": "2023-10-06 06:00:00",
@@ -1731,6 +1711,26 @@
       "duration_ms": 428000,
       "name": "Eunoia",
       "url": "https://open.spotify.com/track/2ki07Ir7ZDaQdJWnmYopFy"
+    },
+    {
+      "added_at": "2023-10-06 06:00:00",
+      "album": {
+        "name": "SWAP",
+        "url": "https://open.spotify.com/album/79zRxuTTkqE9NexZ9ds3LH"
+      },
+      "artists": [
+        {
+          "name": "SAMMY & LESEN",
+          "url": "https://open.spotify.com/artist/41haltKXF86Qj99kzlGZZE"
+        },
+        {
+          "name": "S & L",
+          "url": "https://open.spotify.com/artist/30FC2mjDus2hHWKrXFUlkL"
+        }
+      ],
+      "duration_ms": 153750,
+      "name": "SWAP",
+      "url": "https://open.spotify.com/track/2xfHRGswktlqJTfgccrZW4"
     },
     {
       "added_at": "2023-10-06 06:00:00",
@@ -1803,22 +1803,6 @@
     {
       "added_at": "2023-10-06 06:00:00",
       "album": {
-        "name": "Mistake",
-        "url": "https://open.spotify.com/album/0dch9Ac7ijGh5uGL3Q5p0T"
-      },
-      "artists": [
-        {
-          "name": "JOKA",
-          "url": "https://open.spotify.com/artist/0hqZ4OJ9p2YC3xnxYnE3SV"
-        }
-      ],
-      "duration_ms": 192366,
-      "name": "Mistake",
-      "url": "https://open.spotify.com/track/7l636KtnTBB2UvAPzAKEWs"
-    },
-    {
-      "added_at": "2023-10-06 06:00:00",
-      "album": {
         "name": "killed love",
         "url": "https://open.spotify.com/album/51Hkt6nyQlaPiRYu0j2YjP"
       },
@@ -1831,6 +1815,22 @@
       "duration_ms": 232288,
       "name": "killed love",
       "url": "https://open.spotify.com/track/3q4CXbWktB6TgKRQIPWkzU"
+    },
+    {
+      "added_at": "2023-10-06 06:00:00",
+      "album": {
+        "name": "Mistake",
+        "url": "https://open.spotify.com/album/0dch9Ac7ijGh5uGL3Q5p0T"
+      },
+      "artists": [
+        {
+          "name": "JOKA",
+          "url": "https://open.spotify.com/artist/0hqZ4OJ9p2YC3xnxYnE3SV"
+        }
+      ],
+      "duration_ms": 192366,
+      "name": "Mistake",
+      "url": "https://open.spotify.com/track/7l636KtnTBB2UvAPzAKEWs"
     }
   ],
   "unique_name": "mint MX",

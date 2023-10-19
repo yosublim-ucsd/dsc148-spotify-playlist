@@ -941,6 +941,24 @@
     },
     {
       "album": {
+        "name": "Kimi ni Sayonara",
+        "url": "https://open.spotify.com/album/1Kur4QhXrFJo651o4sBTxq"
+      },
+      "artists": [
+        {
+          "name": "Kaneyorimasaru",
+          "url": "https://open.spotify.com/artist/5h5smZjPHUEDyYNuafjehf"
+        }
+      ],
+      "date_added": "2023-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259333,
+      "name": "Kimi ni Sayonara",
+      "url": "https://open.spotify.com/track/1XORfqcIaAjoEMLkR4GKou"
+    },
+    {
+      "album": {
         "name": "Kiminomachimade",
         "url": "https://open.spotify.com/album/6tJejWaz1EZb6fuq10DGJ7"
       },
@@ -1028,6 +1046,28 @@
       "duration_ms": 264640,
       "name": "Life Is Good",
       "url": "https://open.spotify.com/track/1EfPleE2AT7pvxpvFYIlIO"
+    },
+    {
+      "album": {
+        "name": "Love Hurts",
+        "url": "https://open.spotify.com/album/2HZ0CN6GwHo1JS7im9Vrbw"
+      },
+      "artists": [
+        {
+          "name": "Bye-Bye-Hand\u306e\u65b9\u7a0b\u5f0f",
+          "url": "https://open.spotify.com/artist/6IIf2Pbh4lI8Jz7MvknzIf"
+        },
+        {
+          "name": "\u84ee",
+          "url": "https://open.spotify.com/artist/5moZ9eus9L5mQamT5SFtfe"
+        }
+      ],
+      "date_added": "2023-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267440,
+      "name": "Love Hurts",
+      "url": "https://open.spotify.com/track/53edT6tOZLJsRhFB96uvcU"
     },
     {
       "album": {
@@ -1208,6 +1248,24 @@
       "duration_ms": 181170,
       "name": "Musica",
       "url": "https://open.spotify.com/track/56RYbfRvG2QVbTwQ62UfyI"
+    },
+    {
+      "album": {
+        "name": "Musou",
+        "url": "https://open.spotify.com/album/6ZShnLWDs6mOwzIPrE0Ujo"
+      },
+      "artists": [
+        {
+          "name": "KALMA",
+          "url": "https://open.spotify.com/artist/5zHSpvhwGmYsYCd3dgo1Xc"
+        }
+      ],
+      "date_added": "2023-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199706,
+      "name": "Musou",
+      "url": "https://open.spotify.com/track/55tDnCCpkuzgXaVjVdzJKF"
     },
     {
       "album": {
@@ -1550,6 +1608,24 @@
       "duration_ms": 202812,
       "name": "Saishu Densha",
       "url": "https://open.spotify.com/track/3gT0d6cGELhvkElB9sWRrM"
+    },
+    {
+      "album": {
+        "name": "Whisper of the heart",
+        "url": "https://open.spotify.com/album/6Dfjxy6p9bcxmrUxXv4lwR"
+      },
+      "artists": [
+        {
+          "name": "\u30af\u30ec\u30ca\u30ba\u30e0",
+          "url": "https://open.spotify.com/artist/72PvGatrHUWZIbyyntvdpM"
+        }
+      ],
+      "date_added": "2023-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192255,
+      "name": "see you again",
+      "url": "https://open.spotify.com/track/0w4hlRc6uXXCQbX9dGGJWm"
     },
     {
       "album": {
@@ -2860,7 +2936,7 @@
       ],
       "date_added": "2023-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-19",
       "duration_ms": 199706,
       "name": "\u30e0\u30bd\u30a6",
       "url": "https://open.spotify.com/track/1J3m0YReVzOnHsgq2jjN1L"
@@ -3220,7 +3296,7 @@
       ],
       "date_added": "2023-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-19",
       "duration_ms": 192255,
       "name": "\u518d\u53bb\u898b\u5c13",
       "url": "https://open.spotify.com/track/7bgRTIf6UK4On666SfRiqE"
@@ -3310,7 +3386,7 @@
       ],
       "date_added": "2023-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-19",
       "duration_ms": 259333,
       "name": "\u541b\u306b\u3055\u3088\u306a\u3089",
       "url": "https://open.spotify.com/track/5om7Qq6ot7zwUvv5Nxwi2p"
@@ -3584,7 +3660,7 @@
       ],
       "date_added": "2023-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-19",
       "duration_ms": 267440,
       "name": "\u604b\u306f\u50b7\u3064\u3051\u611b",
       "url": "https://open.spotify.com/track/6Tg4ZpVy5ktTAxOkWRuT7q"

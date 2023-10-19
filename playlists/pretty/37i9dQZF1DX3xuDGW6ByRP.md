@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3xuDGW6ByRP.md) - [plain]
 
 > as novas de pop rock br / Foto: Lou Garcia
 
-[Spotify](https://open.spotify.com/user/spotify) - 41,692 likes - 80 songs - 3 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 41,741 likes - 80 songs - 3 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3xuDGW6ByRP.md) - [plain]
 | 79 | [A Cura](https://open.spotify.com/track/4xawu6VJn17igipPIGayeU) | [Mayra](https://open.spotify.com/artist/3XSWVsSggcTo6Bv8pcDqnt) | [A Cura](https://open.spotify.com/album/2kpzLThPuJZYuZSLTX6w6c) | 3:27 |
 | 80 | [Modo Avião](https://open.spotify.com/track/4ySYEyfeDzgnWLosAGlLQ6) | [Mayra](https://open.spotify.com/artist/3XSWVsSggcTo6Bv8pcDqnt) | [Modo Avião](https://open.spotify.com/album/7wht9U41LSGB2ni7dR9mek) | 2:55 |
 
-Snapshot ID: `MCxmMGMyMTE5YWUzNTAyNTViMWEzYzRjNTI4ZDhiNjA5YTFiMGRmYWMz`
+Snapshot ID: `MCxjYWVhY2E0N2JkZDU3YzUxNDJiYTc3NDYzOTc0N2RlZDM1MzM1ZDFj`

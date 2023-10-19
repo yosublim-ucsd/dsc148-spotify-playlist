@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9y1JjaVVwIa.md) - [plain]
 
 > El sonido experimental del Caribe 🌴🦀⚛️
 
-[Spotify](https://open.spotify.com/user/spotify) - 410 likes - 50 songs - 3 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 411 likes - 50 songs - 3 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,15 +41,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9y1JjaVVwIa.md) - [plain]
 | 31 | [Métele](https://open.spotify.com/track/7eQRFMGV6hPDQZiXlLwuYw) | [Buscabulla](https://open.spotify.com/artist/0MoaBi6dSquXp6rrlqlF8R) | [EP I](https://open.spotify.com/album/1vbQgZHGwMm43QNZIrjra1) | 4:08 |
 | 32 | [Crónico](https://open.spotify.com/track/5lYzXlMGYuo6KEb9EZueVA) | [Bebo Dumont](https://open.spotify.com/artist/1K3l8XdgOtySWPTvBfhgYe) | [Crónico](https://open.spotify.com/album/0TO7obZfq3fJWuorgrTUae) | 3:01 |
 | 33 | [El arca de Mima](https://open.spotify.com/track/7qqnbotfPRaxIcAvB6UrXu) | [Mima](https://open.spotify.com/artist/2LdXSnBos8LTWMKoHF0oAw) | [El arca de Mima](https://open.spotify.com/album/2NPa1SuUyIDcdrSZbHr63n) | 4:22 |
-| 34 | [Bajito a selva](https://open.spotify.com/track/4CTqfYYGAv8NQEkMyQmy3R) | [Rita Indiana](https://open.spotify.com/artist/6xjy0XOCLNmstyCRTA8lIp), [Los Misterios](https://open.spotify.com/artist/3T76GOT2fKXnAsFQxiuOQj) | [El Juidero](https://open.spotify.com/album/4Rpdq5XtZniKOf1Bv8N4rj) | 4:59 |
+| 34 | [La Número Uno](https://open.spotify.com/track/2U0oiUjN3BqsIAVEdTgqoy) | [El Dragón Criollo](https://open.spotify.com/artist/2e5EPaxeuRZ8sMxElaiP2G) | [La Número Uno](https://open.spotify.com/album/2qMKOE7IQlLOlFgXqoqwzW) | 4:04 |
 | 35 | [Diamantes](https://open.spotify.com/track/4u3obh51S7kKQnOs9i5RND) | [Mula](https://open.spotify.com/artist/7bWZkUZ5drGDoGAFhGoYGE) | [Aguas](https://open.spotify.com/album/33pADJx4IypA4nlgrpllNy) | 2:38 |
-| 36 | [No Es Importante](https://open.spotify.com/track/07H0vnntj9PXpuntUFjrMB) | [iLe](https://open.spotify.com/artist/1CztIa6fCQ0WmVPidXuwSs) | [No Es Importante](https://open.spotify.com/album/3oKNrRZlkCeSqYaCjGNaLe) | 3:29 |
+| 36 | [Bajito a selva](https://open.spotify.com/track/4CTqfYYGAv8NQEkMyQmy3R) | [Rita Indiana](https://open.spotify.com/artist/6xjy0XOCLNmstyCRTA8lIp), [Los Misterios](https://open.spotify.com/artist/3T76GOT2fKXnAsFQxiuOQj) | [El Juidero](https://open.spotify.com/album/4Rpdq5XtZniKOf1Bv8N4rj) | 4:59 |
 | 37 | [Babylon Will Fall](https://open.spotify.com/track/2t8F5RetPO9gKWAUKoQjcI) | [Pachyman](https://open.spotify.com/artist/515f4vsvg0JQWrmt7qpR6l) | [At 333 House](https://open.spotify.com/album/1ZoJQSxfZempYe5j2auBLh) | 3:06 |
-| 38 | [La Número Uno](https://open.spotify.com/track/2U0oiUjN3BqsIAVEdTgqoy) | [El Dragón Criollo](https://open.spotify.com/artist/2e5EPaxeuRZ8sMxElaiP2G) | [La Número Uno](https://open.spotify.com/album/2qMKOE7IQlLOlFgXqoqwzW) | 4:04 |
-| 39 | [Heart Full of Love](https://open.spotify.com/track/0GKfAI5sNpbv1ALYiPgbU0) | [ÌFÉ](https://open.spotify.com/artist/7hwZLbYVax5K8GvRSmRSOF) | [0000+0000](https://open.spotify.com/album/3YjfgRAfbaZEKrYkrXRVPp) | 4:10 |
+| 38 | [No Es Importante](https://open.spotify.com/track/07H0vnntj9PXpuntUFjrMB) | [iLe](https://open.spotify.com/artist/1CztIa6fCQ0WmVPidXuwSs) | [No Es Importante](https://open.spotify.com/album/3oKNrRZlkCeSqYaCjGNaLe) | 3:29 |
+| 39 | [Yo Sé Que Tú Me Conoces](https://open.spotify.com/track/3H2VzqCdBQCJ5I0Zd8iUlp) | [Los Wálters](https://open.spotify.com/artist/0joND3Z9boBeX6EOu66rAY) | [Miss Universos](https://open.spotify.com/album/1Ss9TprLiCLzubn8S549gl) | 4:18 |
 | 40 | [NTE](https://open.spotify.com/track/7p4C1w3JSmKVJXixBrtaKI) | [Buscabulla](https://open.spotify.com/artist/0MoaBi6dSquXp6rrlqlF8R) | [Regresa](https://open.spotify.com/album/18xOW1VhQWVgnQH9CGi9Rp) | 2:51 |
 | 41 | [Dos amores](https://open.spotify.com/track/5pNQNliJQxIHlTSzgrrptY) | [Mima](https://open.spotify.com/artist/2LdXSnBos8LTWMKoHF0oAw), [International Dub Ambassadors](https://open.spotify.com/artist/2oLtapTBBJCjp7rwiU5XqE) | [Dos amores](https://open.spotify.com/album/0y8SaZZySSkDnMQH40qoyM) | 3:22 |
-| 42 | [Yo Sé Que Tú Me Conoces](https://open.spotify.com/track/3H2VzqCdBQCJ5I0Zd8iUlp) | [Los Wálters](https://open.spotify.com/artist/0joND3Z9boBeX6EOu66rAY) | [Miss Universos](https://open.spotify.com/album/1Ss9TprLiCLzubn8S549gl) | 4:18 |
+| 42 | [Heart Full of Love](https://open.spotify.com/track/0GKfAI5sNpbv1ALYiPgbU0) | [ÌFÉ](https://open.spotify.com/artist/7hwZLbYVax5K8GvRSmRSOF) | [0000+0000](https://open.spotify.com/album/3YjfgRAfbaZEKrYkrXRVPp) | 4:10 |
 | 43 | [Te Crees Tú](https://open.spotify.com/track/1FT5c0bdVWkgPctocSQywO) | [International Dub Ambassadors](https://open.spotify.com/artist/2oLtapTBBJCjp7rwiU5XqE) | [Te Crees Tú](https://open.spotify.com/album/26toS8EEQOsP65CWSnkksd) | 3:32 |
 | 44 | [Pasame a buca](https://open.spotify.com/track/60EESpZTd9pRPhXfRIo2h6) | [Rita Indiana](https://open.spotify.com/artist/6xjy0XOCLNmstyCRTA8lIp), [Los Misterios](https://open.spotify.com/artist/3T76GOT2fKXnAsFQxiuOQj) | [El Juidero](https://open.spotify.com/album/4Rpdq5XtZniKOf1Bv8N4rj) | 5:45 |
 | 45 | [La Nueva Ciudad](https://open.spotify.com/track/07A2ymyQdaN7P1sbmJ6miC) | [Balún](https://open.spotify.com/artist/6Uk2pq20qpkftbU2PEDWoU) | [Prisma Tropical](https://open.spotify.com/album/5rxHa78aHnkv9r0yzzo1fU) | 4:53 |
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9y1JjaVVwIa.md) - [plain]
 | 47 | [Agua que Llegó](https://open.spotify.com/track/1WBC4Eg7S6448UzcZP7tYi) | [La Marimba](https://open.spotify.com/artist/7MX1qcF0L9NKjXkXiLtbAx) | [Agua que Llegó](https://open.spotify.com/album/7A2qFodTELKiPiZjcxrMdV) | 4:01 |
 | 48 | [Subo Subo](https://open.spotify.com/track/4SulPJvtMSoxfj1uCuNzMz) | [Turista](https://open.spotify.com/artist/2OUkwuGIhpX2QlFzulGE6F), [Los Wálters](https://open.spotify.com/artist/0joND3Z9boBeX6EOu66rAY) | [La Nueva Esquina](https://open.spotify.com/album/3PzZzZV9XyKNaRfF7oMEQM) | 3:47 |
 | 49 | [Nice & Easy](https://open.spotify.com/track/7G01Y33GZ4IA2BJMoGtWTt) | [International Dub Ambassadors](https://open.spotify.com/artist/2oLtapTBBJCjp7rwiU5XqE), [Gomba Jahbari](https://open.spotify.com/artist/3q9LLc7LLFwXnDzKE9U24c) | [Nice & Easy](https://open.spotify.com/album/5O9Q89o5XsnZB2wT7qO7Nk) | 3:36 |
-| 50 | [Conmigo](https://open.spotify.com/track/7rYXDaiy6mVyj9nRG8BS20) | [Zöelle](https://open.spotify.com/artist/4ejqWoCUdomzmXtgNJvXbl) | [Conmigo](https://open.spotify.com/album/22naNg5hX2AqKlwmKdwazV) | 3:35 |
+| 50 | [No le de tó](https://open.spotify.com/track/46gUBj8C01B7vWo7cpU9OQ) | [NIKOLA](https://open.spotify.com/artist/62iTERZQMpjWggsriHvDnk) | [No le de tó](https://open.spotify.com/album/4F1aR4ERzltYUOOnoU7T0r) | 4:24 |
 
-Snapshot ID: `MCxlNWU2YTAwMjc4ZmY4ZDdjNTk3NGE5ZDMwMWQzN2MxN2QyZDM5MDZm`
+Snapshot ID: `MCxhMjRjNTYyYTU5ZGYwNzRjNGU3MDQ0MGM0Njc5NjFjZjViYTljODAy`

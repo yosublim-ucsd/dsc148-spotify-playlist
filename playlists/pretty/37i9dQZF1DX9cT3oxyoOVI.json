@@ -1,12 +1,12 @@
 {
   "description": "romanticizing indie music",
-  "num_followers": 128087,
+  "num_followers": 128133,
   "original_name": "The summer I turned indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2OTQzNGVkN2YyZTRhYTViNDc4MTNmOGE2M2NlYjFmMGJhOThhMzA5",
+  "snapshot_id": "MCxjYmNmMjNkNDYwMTJmZjBkZmE5MDIzZGE4OWVjYmQwMGM1Y2U2ZmNi",
   "tracks": [
     {
       "added_at": "2023-01-30 15:22:38",
@@ -131,22 +131,6 @@
     {
       "added_at": "2023-01-30 15:22:38",
       "album": {
-        "name": "2",
-        "url": "https://open.spotify.com/album/2XgBQwGRxr4P7cHLDYiqrO"
-      },
-      "artists": [
-        {
-          "name": "Mac DeMarco",
-          "url": "https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM"
-        }
-      ],
-      "duration_ms": 190845,
-      "name": "My Kind of Woman",
-      "url": "https://open.spotify.com/track/6jgkEbmQ2F2onEqsEhiliL"
-    },
-    {
-      "added_at": "2023-01-30 15:22:38",
-      "album": {
         "name": "Good Looking",
         "url": "https://open.spotify.com/album/78rO0EfpVs1RPfpxzF6kUz"
       },
@@ -159,6 +143,22 @@
       "duration_ms": 214800,
       "name": "Good Looking",
       "url": "https://open.spotify.com/track/0j3mqDTK4Z6lvrLzFCUUz6"
+    },
+    {
+      "added_at": "2023-01-30 15:22:38",
+      "album": {
+        "name": "2",
+        "url": "https://open.spotify.com/album/2XgBQwGRxr4P7cHLDYiqrO"
+      },
+      "artists": [
+        {
+          "name": "Mac DeMarco",
+          "url": "https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM"
+        }
+      ],
+      "duration_ms": 190845,
+      "name": "My Kind of Woman",
+      "url": "https://open.spotify.com/track/6jgkEbmQ2F2onEqsEhiliL"
     },
     {
       "added_at": "2023-01-30 15:22:38",
@@ -919,22 +919,6 @@
     {
       "added_at": "2023-01-30 15:22:38",
       "album": {
-        "name": "Have You Ever",
-        "url": "https://open.spotify.com/album/5Zc4mgLhFNdsjzqeIdPvIv"
-      },
-      "artists": [
-        {
-          "name": "mindfreakkk",
-          "url": "https://open.spotify.com/artist/72eq3oLf1MBNNAZNv0Ua0a"
-        }
-      ],
-      "duration_ms": 232653,
-      "name": "Have You Ever",
-      "url": "https://open.spotify.com/track/6lMcbUMHMDkGCiuj8Dm5BL"
-    },
-    {
-      "added_at": "2023-01-30 15:22:38",
-      "album": {
         "name": ":):",
         "url": "https://open.spotify.com/album/3RNrxnGExcrakVAWA3R3Sj"
       },
@@ -947,6 +931,22 @@
       "duration_ms": 169760,
       "name": "JVP",
       "url": "https://open.spotify.com/track/3zPI4Q0waxD3S2Y2tjcMZ8"
+    },
+    {
+      "added_at": "2023-01-30 15:22:38",
+      "album": {
+        "name": "Have You Ever",
+        "url": "https://open.spotify.com/album/5Zc4mgLhFNdsjzqeIdPvIv"
+      },
+      "artists": [
+        {
+          "name": "mindfreakkk",
+          "url": "https://open.spotify.com/artist/72eq3oLf1MBNNAZNv0Ua0a"
+        }
+      ],
+      "duration_ms": 232653,
+      "name": "Have You Ever",
+      "url": "https://open.spotify.com/track/6lMcbUMHMDkGCiuj8Dm5BL"
     },
     {
       "added_at": "2023-01-30 15:22:38",

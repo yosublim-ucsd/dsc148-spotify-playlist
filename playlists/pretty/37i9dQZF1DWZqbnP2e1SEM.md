@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZqbnP2e1SEM.md) - [plain]
 
 > From Ayia Napa to Ibiza, the biggest anthems from your favourite holiday hotspots.
 
-[Spotify](https://open.spotify.com/user/spotify) - 321,790 likes - 100 songs - 5 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 321,800 likes - 100 songs - 5 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,8 +33,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZqbnP2e1SEM.md) - [plain]
 | 23 | [You Give Me A Feeling](https://open.spotify.com/track/2qRKTg13LJGHO4fmQTWT7x) | [Vintage Culture](https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts), [James Hype](https://open.spotify.com/artist/43BxCL6t4c73BQnIJtry5v) | [You Give Me A Feeling](https://open.spotify.com/album/2UUluViWyFRdmxqsNap7hm) | 3:05 |
 | 24 | [Party All The Time](https://open.spotify.com/track/49iD1q5Z58aEDqCemEXpS1) | [Hannah Laing](https://open.spotify.com/artist/1QEd635szhierW6gzRiS1o), [HVRR](https://open.spotify.com/artist/3F3QWH7UilOE5tiKzAzgde) | [Party All The Time](https://open.spotify.com/album/4quE07XoEsKoWZpiCRCtlq) | 2:09 |
 | 25 | [Down Under \(feat\. Colin Hay\)](https://open.spotify.com/track/7AVyve7cFYTd51ha5i9kE2) | [Luude](https://open.spotify.com/artist/20cmhoGvN0eyzhmsHJH1Mg), [Colin Hay](https://open.spotify.com/artist/5mxB08ktCukEhGMg2YZeEv) | [Down Under \(feat\. Colin Hay\)](https://open.spotify.com/album/64xmSwJJbFQMf63AFYZXpW) | 2:38 |
-| 26 | [Make Me Feel Good](https://open.spotify.com/track/4CUX44NA1CPEzd0ibMLQsL) | [Belters Only](https://open.spotify.com/artist/1H1sDUWSlytzifZTDpKgUA), [Jazzy](https://open.spotify.com/artist/7zAAwgV5Wqmvpb4GzvlRkP) | [Make Me Feel Good](https://open.spotify.com/album/2YNIYdATkvFpTKZexocmEi) | 3:17 |
-| 27 | [Temptation \(feat\. Poppy Baskcomb\)](https://open.spotify.com/track/3fvsxmytTns1ApIWBqfANZ) | [Jess Bays](https://open.spotify.com/artist/5xEJ7FQOtIUMLdnKyZrvPB), [Poppy Baskcomb](https://open.spotify.com/artist/4STmXOXUF3UieHU46NWLVt) | [Temptation \(feat\. Poppy Baskcomb\)](https://open.spotify.com/album/30K7gYPhkqCeQJ25C0GvXE) | 2:52 |
+| 26 | [Temptation \(feat\. Poppy Baskcomb\)](https://open.spotify.com/track/3fvsxmytTns1ApIWBqfANZ) | [Jess Bays](https://open.spotify.com/artist/5xEJ7FQOtIUMLdnKyZrvPB), [Poppy Baskcomb](https://open.spotify.com/artist/4STmXOXUF3UieHU46NWLVt) | [Temptation \(feat\. Poppy Baskcomb\)](https://open.spotify.com/album/30K7gYPhkqCeQJ25C0GvXE) | 2:52 |
+| 27 | [Make Me Feel Good](https://open.spotify.com/track/4CUX44NA1CPEzd0ibMLQsL) | [Belters Only](https://open.spotify.com/artist/1H1sDUWSlytzifZTDpKgUA), [Jazzy](https://open.spotify.com/artist/7zAAwgV5Wqmvpb4GzvlRkP) | [Make Me Feel Good](https://open.spotify.com/album/2YNIYdATkvFpTKZexocmEi) | 3:17 |
 | 28 | [Redlight](https://open.spotify.com/track/48Jf12YHPBCAfAzi255Rvr) | [Swedish House Mafia](https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs), [Sting](https://open.spotify.com/artist/0Ty63ceoRnnJKVEYP0VQpk) | [Paradise Again](https://open.spotify.com/album/2Dbe9L757CSQbhnbW5PVSH) | 4:02 |
 | 29 | [No Excuses](https://open.spotify.com/track/3gw91o4at6nDzewF9Hxzs7) | [Bru\-C](https://open.spotify.com/artist/7GDrXlpRrdG29o4n0pNR5D) | [No Excuses](https://open.spotify.com/album/1r6fzHMhZcd35ZkpKPRRWE) | 3:42 |
 | 30 | [Summer 91 \(Looking Back\)](https://open.spotify.com/track/4FEcEwbE2vsqhxbTPtiNTL) | [Noizu](https://open.spotify.com/artist/3VRyybsQu0MDG0F2LBxnv7) | [Summer 91 \(Looking Back\)](https://open.spotify.com/album/4QCh5emLRWuIg8CUzprNXm) | 3:00 |
@@ -57,8 +57,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZqbnP2e1SEM.md) - [plain]
 | 47 | [Used To This](https://open.spotify.com/track/6IlL9Xlnm0Oq6wXSe6TH9v) | [Wilkinson](https://open.spotify.com/artist/6m8itYST9ADjBIYevXSb1r), [Issey Cross](https://open.spotify.com/artist/5QrV5Vr4KdsyKtifvD6X1U) | [Used to This](https://open.spotify.com/album/48vV65b1zjT4lCeO5MplHm) | 3:46 |
 | 48 | [Don't Forget My Love](https://open.spotify.com/track/2OZZpID4LgZ0GGm8XB99e3) | [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Miguel](https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK) | [Don't Forget My Love](https://open.spotify.com/album/1vtsrwjdXkuAmojBCw2mtv) | 3:19 |
 | 49 | [My Paradise](https://open.spotify.com/track/5erkBzi1uzfVzRotIEDevu) | [Jamie Jones](https://open.spotify.com/artist/4admDxmnri5Zco0xYrJ0ji) | [My Paradise](https://open.spotify.com/album/1dM4NGu8XRvlZx5CtXM8J2) | 3:31 |
-| 50 | [My Love](https://open.spotify.com/track/5Vi0u7cGTcPrXk6ZOoppnp) | [Jethro Heston](https://open.spotify.com/artist/1Qj4wPnd5DKW7TXALK7Xfj) | [My Love](https://open.spotify.com/album/09zYedT6OABvIqKBuEH3zE) | 2:36 |
-| 51 | [On & On](https://open.spotify.com/track/6q8lkavDM3yhk7PXdRK3me) | [Ferreck Dawn](https://open.spotify.com/artist/3cnAJv9gydgm52KFIsdvO8), [Mila Falls](https://open.spotify.com/artist/5m1yocXnIqkhC8dyQQd6Ve) | [On & On](https://open.spotify.com/album/1HaIedqKyxg6wI24PEQfHi) | 2:35 |
+| 50 | [On & On](https://open.spotify.com/track/6q8lkavDM3yhk7PXdRK3me) | [Ferreck Dawn](https://open.spotify.com/artist/3cnAJv9gydgm52KFIsdvO8), [Mila Falls](https://open.spotify.com/artist/5m1yocXnIqkhC8dyQQd6Ve) | [On & On](https://open.spotify.com/album/1HaIedqKyxg6wI24PEQfHi) | 2:35 |
+| 51 | [My Love](https://open.spotify.com/track/5Vi0u7cGTcPrXk6ZOoppnp) | [Jethro Heston](https://open.spotify.com/artist/1Qj4wPnd5DKW7TXALK7Xfj) | [My Love](https://open.spotify.com/album/09zYedT6OABvIqKBuEH3zE) | 2:36 |
 | 52 | [Don't Stop Just Yet](https://open.spotify.com/track/1pz4k8r1OPeNBeAGmi9gL9) | [Belters Only](https://open.spotify.com/artist/1H1sDUWSlytzifZTDpKgUA), [Jazzy](https://open.spotify.com/artist/7zAAwgV5Wqmvpb4GzvlRkP) | [Belters Only](https://open.spotify.com/album/7fSPGNZ9RY2yS9btOkO9Hu) | 3:06 |
 | 53 | [Love Me](https://open.spotify.com/track/6t192M9A83w0sfFCCuW2ds) | [TeeDee](https://open.spotify.com/artist/6ZzzrehTAdrM8y6saVjtoN) | [Love Me](https://open.spotify.com/album/5zVpJaqg6fHGobl35lVYKz) | 1:56 |
 | 54 | [Body Groove \(feat\. Crystxl King\)](https://open.spotify.com/track/2sW3snLTi77h0rm4g9tDuD) | [Wyles](https://open.spotify.com/artist/77u8tnFyGYz4GrpGbQXeUr), [Architechs](https://open.spotify.com/artist/4uq3HY9rto71MxVGVCZm8G), [Crystxl King](https://open.spotify.com/artist/01FnnL35UsLhTNK27gZjqt) | [Body Groove \(feat\. Crystxl King\)](https://open.spotify.com/album/1JYq2a06tP799ORo2YdBB6) | 2:45 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZqbnP2e1SEM.md) - [plain]
 | 99 | [You and I Are Equal](https://open.spotify.com/track/4laAIQLzf49FKhy14SmA87) | [BluePrint](https://open.spotify.com/artist/0oV5K4BDmoENgjwB8lvDmT) | [You and I Are Equal](https://open.spotify.com/album/7h1JqqftHbKVq5x6izUNey) | 4:14 |
 | 100 | [Never Let Me Down](https://open.spotify.com/track/3AjzBL7fuEdboRnleIlPIw) | [Gorgon City](https://open.spotify.com/artist/4VNQWV2y1E97Eqo2D5UTjx), [Hayley May](https://open.spotify.com/artist/1WcwbtAnG5HWNbPPK84ued) | [Never Let Me Down](https://open.spotify.com/album/7KCiIL4GO5P7gINLSF5fUF) | 3:05 |
 
-Snapshot ID: `MCxhMTcwYjliMjQ4MGE3M2E5Y2M3ZThjZDdjMjc5MWRhYjJhZDA4NmIw`
+Snapshot ID: `MCwzZTFlOGQxZGNmMmE1YTVhZDcyNzllMWEyNGU5ZmUyMTc4NGMxYmI4`

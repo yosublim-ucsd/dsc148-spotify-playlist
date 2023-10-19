@@ -4,7 +4,7 @@
 
 > Discover your favorite new chill pop songs\. Cover: Stephen Sanchez
 
-1,483 songs - 3 day 5 hr 52 min
+1,484 songs - 3 day 5 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1221,6 +1221,7 @@
 | [Stayed at the Party](https://open.spotify.com/track/4oBGba0gIMq5AKc6tTywwX) | [Hope Tala](https://open.spotify.com/artist/74CcYmmNeHKe5PrZaISk8e) | [Stayed at the Party](https://open.spotify.com/album/3fNOwnasCq1Aw0Y4M3Pstq) | 3:33 | 2022-10-17 | 2022-10-29 |
 | [STEP ON ME](https://open.spotify.com/track/45HSCsfTCoDloxNEof033U) | [Maddie Zahm](https://open.spotify.com/artist/5dtPlx7yKOo7KdZGyrfFIq) | [STEP ON ME](https://open.spotify.com/album/0llSxQdK1datftaK0xHYPd) | 3:25 | 2023-02-24 | 2023-04-09 |
 | [Stick Season](https://open.spotify.com/track/0GNVXNz7Jkicfk2mp5OyG5) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [Stick Season](https://open.spotify.com/album/1fMRg0CNLKdnrXD0WPc2Ju) | 3:02 | 2022-07-13 | 2022-08-13 |
+| [Stick Season](https://open.spotify.com/track/0mflMxspEfB0VbI1kyLiAv) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [Stick Season](https://open.spotify.com/album/50ZenUP4O2Q5eCy2NRNvuz) | 3:02 | 2023-10-18 |  |
 | [Still as the Night](https://open.spotify.com/track/4DwSzfkzhnT6GF80xHVhQF) | [Rowan Drake](https://open.spotify.com/artist/4NYx2GcZWwIW3glF0dW1fC) | [Still as the Night](https://open.spotify.com/album/5l3DHd5gYAwrkmM9OLQDDa) | 3:17 | 2023-09-08 |  |
 | [Still Don't Know My Name](https://open.spotify.com/track/6N22FZs2ZhPBYi3b9XPajV) | [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7) | [Euphoria \(Original Score from the HBO Series\)](https://open.spotify.com/album/788r22Bhr3IHLTNPy8pZea) | 2:33 | 2020-10-13\* | 2020-10-15 |
 | [Still Something](https://open.spotify.com/track/1ZpcmirRaGcNWhvhkg3nYX) | [Suriel Hess](https://open.spotify.com/artist/5MLIxVYkY4Fc2dwdaYSS8G) | [Still Something](https://open.spotify.com/album/010yX6iIbqs59x29SwwUaG) | 3:08 | 2022-01-07 | 2022-06-30 |

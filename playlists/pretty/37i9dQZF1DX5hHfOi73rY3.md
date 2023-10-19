@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5hHfOi73rY3.md) - [plain]
 
 > Classic party anthems from the club to your ears!
 
-[Spotify](https://open.spotify.com/user/spotify) - 274,146 likes - 50 songs - 3 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 274,215 likes - 50 songs - 3 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5hHfOi73rY3.md) - [plain]
 | 47 | [I Need A Painkiller](https://open.spotify.com/track/6K43zu0UqLQSj3T6nNOeH5) | [Armand Van Helden](https://open.spotify.com/artist/3cQA9WH8liZfeja1DxcDYE), [Butter Rush](https://open.spotify.com/artist/4qfT9FLvhtokwy0BGlEVQo) | [I Need A Painkiller \(Armand Van Helden Vs\. Butter Rush\)](https://open.spotify.com/album/0dTCxYvPkt9AbZ3oqHI2CJ) | 3:15 |
 | 48 | [Buggin' \- Edit](https://open.spotify.com/track/2TqSk3lGTFTO2N6qDWpODA) | [Hot Since 82](https://open.spotify.com/artist/1tRBmMtER4fGrzrt8O9VpS), [Jem Cooke](https://open.spotify.com/artist/0AkL5tzM3UsDlWak9E0OwH) | [8\-track](https://open.spotify.com/album/3ophs4Ci76rbhWzu2QwCGC) | 4:35 |
 | 49 | [Burns \- Edit](https://open.spotify.com/track/7J8iTj9FU0Mw8VBbGBpFIY) | [George FitzGerald](https://open.spotify.com/artist/3KOHpygRuo1ruQAbEneR3t) | [Burns \(Edit\)](https://open.spotify.com/album/1R4DzksK2cx84kO7B4SEoa) | 3:10 |
-| 50 | [The Jam](https://open.spotify.com/track/3eEStD7Va1vlaN5NBEbQmf) | [Kideko](https://open.spotify.com/artist/0ZwQMCRqfyh1OGQkBh9Cnj) | [The Jam](https://open.spotify.com/album/6wpCBPI0iVsZFycthRIXSH) | 3:12 |
+| 50 | [Deep Down Low](https://open.spotify.com/track/48zgbsLhb3MirBgXt44nlH) | [Valentino Khan](https://open.spotify.com/artist/0deIjoDjl9g9Zpw0sCIOHh) | [Deep Down Low](https://open.spotify.com/album/1md43OqpB2SKqTmKR1q1YQ) | 3:10 |
 
-Snapshot ID: `MCw3MzljZGVkZmI5YTIwNWRhZmYwN2VkNzg0MDE3YzZlMjQ3N2E4MGY4`
+Snapshot ID: `MCw2NjAyZDYzYTNiNWZjNWYyMzUyM2ZkMmMxYThjYjg5YTQwMzBlNWE1`

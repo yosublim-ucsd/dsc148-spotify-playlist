@@ -1,12 +1,12 @@
 {
   "description": "Heavy Metal forever \\m/ classics to brand new tracks, play it loud. Cover: Judas Priest",
-  "num_followers": 1163669,
+  "num_followers": 1164224,
   "original_name": "Heavy Metal",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzNmUyNGU2N2ZiYzEyMzlhYzdkZWQyZDdiOTUyZGU4YWM5MjMyOWJi",
+  "snapshot_id": "MCxlOWU4NTA5YWQxZWM2ODUwNTBlYzA3YTYyMzk2NGU3OTQ4NjJkODk1",
   "tracks": [
     {
       "added_at": "2023-10-13 04:53:41",
@@ -459,22 +459,6 @@
     {
       "added_at": "2023-10-13 04:53:41",
       "album": {
-        "name": "School's Out",
-        "url": "https://open.spotify.com/album/0zKjnOsXxs63unPR6TWoHq"
-      },
-      "artists": [
-        {
-          "name": "Alice Cooper",
-          "url": "https://open.spotify.com/artist/3EhbVgyfGd7HkpsagwL9GS"
-        }
-      ],
-      "duration_ms": 210106,
-      "name": "School's Out",
-      "url": "https://open.spotify.com/track/5Z8EDau8uNcP1E8JvmfkZe"
-    },
-    {
-      "added_at": "2023-10-13 04:53:41",
-      "album": {
         "name": "Faceless",
         "url": "https://open.spotify.com/album/7xhudjssYTY8qRl1s9R3wu"
       },
@@ -487,6 +471,22 @@
       "duration_ms": 246040,
       "name": "I Stand Alone",
       "url": "https://open.spotify.com/track/44NRdYQw7P0GWuiunRv3hr"
+    },
+    {
+      "added_at": "2023-10-13 04:53:41",
+      "album": {
+        "name": "School's Out",
+        "url": "https://open.spotify.com/album/0zKjnOsXxs63unPR6TWoHq"
+      },
+      "artists": [
+        {
+          "name": "Alice Cooper",
+          "url": "https://open.spotify.com/artist/3EhbVgyfGd7HkpsagwL9GS"
+        }
+      ],
+      "duration_ms": 210106,
+      "name": "School's Out",
+      "url": "https://open.spotify.com/track/5Z8EDau8uNcP1E8JvmfkZe"
     },
     {
       "added_at": "2023-10-13 04:53:41",
@@ -683,22 +683,6 @@
     {
       "added_at": "2023-10-13 04:53:41",
       "album": {
-        "name": "Servant Of The Mind (Deluxe)",
-        "url": "https://open.spotify.com/album/1ujOfCZxF2d2R5oOfJbxnP"
-      },
-      "artists": [
-        {
-          "name": "Volbeat",
-          "url": "https://open.spotify.com/artist/0L5fC7Ogm2YwgqVCRcF1bT"
-        }
-      ],
-      "duration_ms": 267826,
-      "name": "Shotgun Blues",
-      "url": "https://open.spotify.com/track/2SMNxADB0ffqaIoOwl2x06"
-    },
-    {
-      "added_at": "2023-10-13 04:53:41",
-      "album": {
         "name": "Sacrament",
         "url": "https://open.spotify.com/album/1cikCss5SRQLrIAmpyHoVw"
       },
@@ -711,6 +695,22 @@
       "duration_ms": 220880,
       "name": "Redneck",
       "url": "https://open.spotify.com/track/04EtBLFIxbcVt9NdYgcrpF"
+    },
+    {
+      "added_at": "2023-10-13 04:53:41",
+      "album": {
+        "name": "Servant Of The Mind (Deluxe)",
+        "url": "https://open.spotify.com/album/1ujOfCZxF2d2R5oOfJbxnP"
+      },
+      "artists": [
+        {
+          "name": "Volbeat",
+          "url": "https://open.spotify.com/artist/0L5fC7Ogm2YwgqVCRcF1bT"
+        }
+      ],
+      "duration_ms": 267826,
+      "name": "Shotgun Blues",
+      "url": "https://open.spotify.com/track/2SMNxADB0ffqaIoOwl2x06"
     },
     {
       "added_at": "2023-10-13 04:53:41",
@@ -1123,22 +1123,6 @@
     {
       "added_at": "2023-10-13 04:53:41",
       "album": {
-        "name": "Machine Head",
-        "url": "https://open.spotify.com/album/1EK3a0Yctg4d3nGQzE4Uty"
-      },
-      "artists": [
-        {
-          "name": "Deep Purple",
-          "url": "https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf"
-        }
-      ],
-      "duration_ms": 368506,
-      "name": "Highway Star",
-      "url": "https://open.spotify.com/track/4gVTozEmzwAUXpwj3jEetX"
-    },
-    {
-      "added_at": "2023-10-13 04:53:41",
-      "album": {
         "name": "Cannibal",
         "url": "https://open.spotify.com/album/4K15hOxya1ZF9lkWg9Dmja"
       },
@@ -1151,6 +1135,22 @@
       "duration_ms": 227440,
       "name": "Choke",
       "url": "https://open.spotify.com/track/2KGCOtaTbNIbwrxS0a2UMv"
+    },
+    {
+      "added_at": "2023-10-13 04:53:41",
+      "album": {
+        "name": "Machine Head",
+        "url": "https://open.spotify.com/album/1EK3a0Yctg4d3nGQzE4Uty"
+      },
+      "artists": [
+        {
+          "name": "Deep Purple",
+          "url": "https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf"
+        }
+      ],
+      "duration_ms": 368506,
+      "name": "Highway Star",
+      "url": "https://open.spotify.com/track/4gVTozEmzwAUXpwj3jEetX"
     },
     {
       "added_at": "2023-10-13 04:53:41",
@@ -1459,22 +1459,6 @@
     {
       "added_at": "2023-10-13 04:53:41",
       "album": {
-        "name": "Our Time Is Now",
-        "url": "https://open.spotify.com/album/4tHLRx3g4JwIHlzlz4D7wA"
-      },
-      "artists": [
-        {
-          "name": "Gojira",
-          "url": "https://open.spotify.com/artist/0GDGKpJFhVpcjIGF8N6Ewt"
-        }
-      ],
-      "duration_ms": 271417,
-      "name": "Our Time Is Now",
-      "url": "https://open.spotify.com/track/0dDs144SVansAFynvKYQMW"
-    },
-    {
-      "added_at": "2023-10-13 04:53:41",
-      "album": {
         "name": "Memento Mori",
         "url": "https://open.spotify.com/album/3R8iA3RLV2cS2rxTvEn4Kn"
       },
@@ -1487,6 +1471,22 @@
       "duration_ms": 225263,
       "name": "Remember We Die",
       "url": "https://open.spotify.com/track/2iQoaliksvoEBhldqjYPgL"
+    },
+    {
+      "added_at": "2023-10-13 04:53:41",
+      "album": {
+        "name": "Our Time Is Now",
+        "url": "https://open.spotify.com/album/4tHLRx3g4JwIHlzlz4D7wA"
+      },
+      "artists": [
+        {
+          "name": "Gojira",
+          "url": "https://open.spotify.com/artist/0GDGKpJFhVpcjIGF8N6Ewt"
+        }
+      ],
+      "duration_ms": 271417,
+      "name": "Our Time Is Now",
+      "url": "https://open.spotify.com/track/0dDs144SVansAFynvKYQMW"
     },
     {
       "added_at": "2023-10-13 04:53:41",
@@ -1507,22 +1507,6 @@
     {
       "added_at": "2023-10-13 04:53:41",
       "album": {
-        "name": "Welcome To The Circus",
-        "url": "https://open.spotify.com/album/4UlXCia6g1ERBw4XjinURw"
-      },
-      "artists": [
-        {
-          "name": "Five Finger Death Punch",
-          "url": "https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM"
-        }
-      ],
-      "duration_ms": 256741,
-      "name": "Welcome To The Circus",
-      "url": "https://open.spotify.com/track/1r3PWB1ZzxrPsIj2DNoa10"
-    },
-    {
-      "added_at": "2023-10-13 04:53:41",
-      "album": {
         "name": "High 'N' Dry",
         "url": "https://open.spotify.com/album/2FC50FeHFVmksOYX1cymxr"
       },
@@ -1535,6 +1519,22 @@
       "duration_ms": 283186,
       "name": "Let It Go",
       "url": "https://open.spotify.com/track/1aR6W01r094onPc4O2avEp"
+    },
+    {
+      "added_at": "2023-10-13 04:53:41",
+      "album": {
+        "name": "Welcome To The Circus",
+        "url": "https://open.spotify.com/album/4UlXCia6g1ERBw4XjinURw"
+      },
+      "artists": [
+        {
+          "name": "Five Finger Death Punch",
+          "url": "https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM"
+        }
+      ],
+      "duration_ms": 256741,
+      "name": "Welcome To The Circus",
+      "url": "https://open.spotify.com/track/1r3PWB1ZzxrPsIj2DNoa10"
     },
     {
       "added_at": "2023-10-13 04:53:41",
@@ -1555,22 +1555,6 @@
     {
       "added_at": "2023-10-13 04:53:41",
       "album": {
-        "name": "Cleansing",
-        "url": "https://open.spotify.com/album/1RmsgRJnBFyRMAVl1NW9pO"
-      },
-      "artists": [
-        {
-          "name": "Prong",
-          "url": "https://open.spotify.com/artist/6SER9tY2pDIDVWVf5Ql97B"
-        }
-      ],
-      "duration_ms": 251533,
-      "name": "Snap Your Fingers, Snap Your Neck",
-      "url": "https://open.spotify.com/track/7hgtn706RqLE5q1mWe8aQx"
-    },
-    {
-      "added_at": "2023-10-13 04:53:41",
-      "album": {
         "name": "Scars (Expanded Edition)",
         "url": "https://open.spotify.com/album/2XLiRCMRy5WuuF373tKBZ8"
       },
@@ -1583,6 +1567,22 @@
       "duration_ms": 195653,
       "name": "Halo",
       "url": "https://open.spotify.com/track/1QixTwDZCcfBzA7QMyont0"
+    },
+    {
+      "added_at": "2023-10-13 04:53:41",
+      "album": {
+        "name": "Cleansing",
+        "url": "https://open.spotify.com/album/1RmsgRJnBFyRMAVl1NW9pO"
+      },
+      "artists": [
+        {
+          "name": "Prong",
+          "url": "https://open.spotify.com/artist/6SER9tY2pDIDVWVf5Ql97B"
+        }
+      ],
+      "duration_ms": 251533,
+      "name": "Snap Your Fingers, Snap Your Neck",
+      "url": "https://open.spotify.com/track/7hgtn706RqLE5q1mWe8aQx"
     },
     {
       "added_at": "2023-10-13 04:53:41",
@@ -1719,22 +1719,6 @@
     {
       "added_at": "2023-10-13 04:53:41",
       "album": {
-        "name": "See What\u2019s On The Inside",
-        "url": "https://open.spotify.com/album/11gvWPhkQyVoYIJgVsojmm"
-      },
-      "artists": [
-        {
-          "name": "Asking Alexandria",
-          "url": "https://open.spotify.com/artist/1caBfBEapzw8z2Qz9q0OaQ"
-        }
-      ],
-      "duration_ms": 228977,
-      "name": "Alone Again",
-      "url": "https://open.spotify.com/track/7JP8lWYrxpA8luKU8IPd3Y"
-    },
-    {
-      "added_at": "2023-10-13 04:53:41",
-      "album": {
         "name": "Firepower",
         "url": "https://open.spotify.com/album/7p3G0OCxtlWyJcPE1FxnyB"
       },
@@ -1747,6 +1731,22 @@
       "duration_ms": 209453,
       "name": "Lightning Strike",
       "url": "https://open.spotify.com/track/6qopop1Rc9r1RjEIBQhc8d"
+    },
+    {
+      "added_at": "2023-10-13 04:53:41",
+      "album": {
+        "name": "See What\u2019s On The Inside",
+        "url": "https://open.spotify.com/album/11gvWPhkQyVoYIJgVsojmm"
+      },
+      "artists": [
+        {
+          "name": "Asking Alexandria",
+          "url": "https://open.spotify.com/artist/1caBfBEapzw8z2Qz9q0OaQ"
+        }
+      ],
+      "duration_ms": 228977,
+      "name": "Alone Again",
+      "url": "https://open.spotify.com/track/7JP8lWYrxpA8luKU8IPd3Y"
     },
     {
       "added_at": "2023-10-13 04:53:41",
@@ -1815,22 +1815,6 @@
     {
       "added_at": "2023-10-13 04:53:41",
       "album": {
-        "name": "Symbolic (Remastered Version)",
-        "url": "https://open.spotify.com/album/1QgFthItpbxvMXlgGjvhBR"
-      },
-      "artists": [
-        {
-          "name": "Death",
-          "url": "https://open.spotify.com/artist/4f5V3PQ66nIrBCqugJtaGn"
-        }
-      ],
-      "duration_ms": 392800,
-      "name": "Symbolic",
-      "url": "https://open.spotify.com/track/0dpFb4qv92TE9R00Lq4SAW"
-    },
-    {
-      "added_at": "2023-10-13 04:53:41",
-      "album": {
         "name": "You Will Be the Death of Me",
         "url": "https://open.spotify.com/album/3wB6kgbmfIEQQz7VOzuFpO"
       },
@@ -1843,6 +1827,22 @@
       "duration_ms": 207844,
       "name": "Let Me Fall Apart",
       "url": "https://open.spotify.com/track/2NT3vBkWwhfob1dtxY68uV"
+    },
+    {
+      "added_at": "2023-10-13 04:53:41",
+      "album": {
+        "name": "Symbolic (Remastered Version)",
+        "url": "https://open.spotify.com/album/1QgFthItpbxvMXlgGjvhBR"
+      },
+      "artists": [
+        {
+          "name": "Death",
+          "url": "https://open.spotify.com/artist/4f5V3PQ66nIrBCqugJtaGn"
+        }
+      ],
+      "duration_ms": 392800,
+      "name": "Symbolic",
+      "url": "https://open.spotify.com/track/0dpFb4qv92TE9R00Lq4SAW"
     },
     {
       "added_at": "2023-10-13 04:53:41",
@@ -2047,22 +2047,6 @@
     {
       "added_at": "2023-10-13 04:53:41",
       "album": {
-        "name": "Circus Of Doom",
-        "url": "https://open.spotify.com/album/6Kuz73jchZKPe72PPi2s3C"
-      },
-      "artists": [
-        {
-          "name": "Battle Beast",
-          "url": "https://open.spotify.com/artist/7k5jeohQCF20a8foBD9ize"
-        }
-      ],
-      "duration_ms": 236326,
-      "name": "Where Angels Fear to Fly",
-      "url": "https://open.spotify.com/track/1DhSJCZarZvqHt1f2BN0Ch"
-    },
-    {
-      "added_at": "2023-10-13 04:53:41",
-      "album": {
         "name": "Helloween",
         "url": "https://open.spotify.com/album/1I2USdbvrmhAsEAJz0NuXD"
       },
@@ -2075,6 +2059,22 @@
       "duration_ms": 215757,
       "name": "Best Time",
       "url": "https://open.spotify.com/track/7yzZRuAzfIJw7Ebqt7DsKy"
+    },
+    {
+      "added_at": "2023-10-13 04:53:41",
+      "album": {
+        "name": "Circus Of Doom",
+        "url": "https://open.spotify.com/album/6Kuz73jchZKPe72PPi2s3C"
+      },
+      "artists": [
+        {
+          "name": "Battle Beast",
+          "url": "https://open.spotify.com/artist/7k5jeohQCF20a8foBD9ize"
+        }
+      ],
+      "duration_ms": 236326,
+      "name": "Where Angels Fear to Fly",
+      "url": "https://open.spotify.com/track/1DhSJCZarZvqHt1f2BN0Ch"
     },
     {
       "added_at": "2023-10-13 04:53:41",
@@ -2255,22 +2255,6 @@
     {
       "added_at": "2023-10-13 04:53:41",
       "album": {
-        "name": "Blow EP",
-        "url": "https://open.spotify.com/album/3AyOgySZDKrBWEwCVy2Ohv"
-      },
-      "artists": [
-        {
-          "name": "Eva Under Fire",
-          "url": "https://open.spotify.com/artist/4CqPd0j1VupcPYQRTMBn1c"
-        }
-      ],
-      "duration_ms": 300698,
-      "name": "Separate Ways",
-      "url": "https://open.spotify.com/track/62eNYg3cHHfr1ThVxe2vaM"
-    },
-    {
-      "added_at": "2023-10-13 04:53:41",
-      "album": {
         "name": "We Will Rise",
         "url": "https://open.spotify.com/album/3dy0hZ8sr2ixQwDyhgI5lZ"
       },
@@ -2283,6 +2267,22 @@
       "duration_ms": 237744,
       "name": "The Fairies Dance",
       "url": "https://open.spotify.com/track/4z4ZxpLwW5iw34kPLFk9BD"
+    },
+    {
+      "added_at": "2023-10-13 04:53:41",
+      "album": {
+        "name": "Blow EP",
+        "url": "https://open.spotify.com/album/3AyOgySZDKrBWEwCVy2Ohv"
+      },
+      "artists": [
+        {
+          "name": "Eva Under Fire",
+          "url": "https://open.spotify.com/artist/4CqPd0j1VupcPYQRTMBn1c"
+        }
+      ],
+      "duration_ms": 300698,
+      "name": "Separate Ways",
+      "url": "https://open.spotify.com/track/62eNYg3cHHfr1ThVxe2vaM"
     },
     {
       "added_at": "2023-10-13 04:53:41",
@@ -2339,6 +2339,22 @@
     {
       "added_at": "2023-10-13 04:53:41",
       "album": {
+        "name": "The Sick, The Dying\u2026 And The Dead!",
+        "url": "https://open.spotify.com/album/1ziUtOuRT545OI4cnHEMhC"
+      },
+      "artists": [
+        {
+          "name": "Megadeth",
+          "url": "https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf"
+        }
+      ],
+      "duration_ms": 294426,
+      "name": "Soldier On!",
+      "url": "https://open.spotify.com/track/4jj9IDO2tCu7OuSop8vTxt"
+    },
+    {
+      "added_at": "2023-10-13 04:53:41",
+      "album": {
         "name": "The Golden Trail",
         "url": "https://open.spotify.com/album/4ns2AZUzWlGWgMk2MUYHdP"
       },
@@ -2363,18 +2379,18 @@
     {
       "added_at": "2023-10-13 04:53:41",
       "album": {
-        "name": "The Sick, The Dying\u2026 And The Dead!",
-        "url": "https://open.spotify.com/album/1ziUtOuRT545OI4cnHEMhC"
+        "name": "D\u00e9j\u00e0 Vu",
+        "url": "https://open.spotify.com/album/4aSQ7ZdevivIQFeSMWxPSW"
       },
       "artists": [
         {
-          "name": "Megadeth",
-          "url": "https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf"
+          "name": "NOVELISTS",
+          "url": "https://open.spotify.com/artist/6o8sDniHcZPM1SixvjKiYS"
         }
       ],
-      "duration_ms": 294426,
-      "name": "Soldier On!",
-      "url": "https://open.spotify.com/track/4jj9IDO2tCu7OuSop8vTxt"
+      "duration_ms": 214057,
+      "name": "Smoke Signals",
+      "url": "https://open.spotify.com/track/49sl0qA6id6Tz84Yrr3BsW"
     },
     {
       "added_at": "2023-10-13 04:53:41",
@@ -2391,22 +2407,6 @@
       "duration_ms": 284066,
       "name": "Punishment",
       "url": "https://open.spotify.com/track/3eI2C0gohXlg4AsavdYSiz"
-    },
-    {
-      "added_at": "2023-10-13 04:53:41",
-      "album": {
-        "name": "D\u00e9j\u00e0 Vu",
-        "url": "https://open.spotify.com/album/4aSQ7ZdevivIQFeSMWxPSW"
-      },
-      "artists": [
-        {
-          "name": "NOVELISTS",
-          "url": "https://open.spotify.com/artist/6o8sDniHcZPM1SixvjKiYS"
-        }
-      ],
-      "duration_ms": 214057,
-      "name": "Smoke Signals",
-      "url": "https://open.spotify.com/track/49sl0qA6id6Tz84Yrr3BsW"
     },
     {
       "added_at": "2023-10-13 04:53:41",
@@ -2443,22 +2443,18 @@
     {
       "added_at": "2023-10-13 04:53:41",
       "album": {
-        "name": "The Call of the Void",
-        "url": "https://open.spotify.com/album/6v472xKTGoBedRClrXfY45"
+        "name": "Altars of Madness",
+        "url": "https://open.spotify.com/album/2vWHACnDiSnFM52octEvY0"
       },
       "artists": [
         {
-          "name": "Nita Strauss",
-          "url": "https://open.spotify.com/artist/73GhYkwfPQzmfJb1cdPqPf"
-        },
-        {
-          "name": "Chris Motionless",
-          "url": "https://open.spotify.com/artist/2bulKOP1y1iUYGE6FcMrHd"
+          "name": "Morbid Angel",
+          "url": "https://open.spotify.com/artist/35jmO5o3AhUV70kiR7u4Nw"
         }
       ],
-      "duration_ms": 238145,
-      "name": "Digital Bullets (feat. Chris Motionless)",
-      "url": "https://open.spotify.com/track/1a7hFfEXGJKSKSFKDoufPi"
+      "duration_ms": 243520,
+      "name": "Immortal Rites",
+      "url": "https://open.spotify.com/track/5hmek3mrSYvfSElBsPNbxo"
     }
   ],
   "unique_name": "Heavy Metal",

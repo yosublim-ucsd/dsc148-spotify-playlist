@@ -1,12 +1,12 @@
 {
   "description": "These songs rocked the '60s. Cover: Jimi Hendrix",
-  "num_followers": 876886,
+  "num_followers": 877045,
   "original_name": "60s Rock Anthems",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4MTM0NDNjNGM3MDIwZmE0YWZjZWJlZTgwNTY5MGQwNTk1OTBmZDlh",
+  "snapshot_id": "MCw0ODBkY2U2M2RiYmJhZThmZGEyY2RkZTVlYjY1NTk5OTM0ZDc2Yzhk",
   "tracks": [
     {
       "added_at": "2023-01-18 21:00:56",
@@ -971,22 +971,6 @@
     {
       "added_at": "2023-01-18 21:00:56",
       "album": {
-        "name": "The Band",
-        "url": "https://open.spotify.com/album/4vXFiaDS8zuEl5bOUbW53x"
-      },
-      "artists": [
-        {
-          "name": "The Band",
-          "url": "https://open.spotify.com/artist/4vpDg7Y7fU982Ds30zawDA"
-        }
-      ],
-      "duration_ms": 211787,
-      "name": "The Night They Drove Old Dixie Down",
-      "url": "https://open.spotify.com/track/2nvcTDmZkRWKNMAL29sLHo"
-    },
-    {
-      "added_at": "2023-01-18 21:00:56",
-      "album": {
         "name": "Animal Tracks",
         "url": "https://open.spotify.com/album/3GoBNqjGtsJ8jnwp1PfKby"
       },
@@ -999,22 +983,6 @@
       "duration_ms": 149360,
       "name": "Don't Let Me Be Misunderstood",
       "url": "https://open.spotify.com/track/7vYA9ET5AUqJt5pBbhKmcB"
-    },
-    {
-      "added_at": "2023-01-18 21:00:56",
-      "album": {
-        "name": "Mr. Tambourine Man",
-        "url": "https://open.spotify.com/album/0pkrqPjeq9K5KD0hFqAKNa"
-      },
-      "artists": [
-        {
-          "name": "The Byrds",
-          "url": "https://open.spotify.com/artist/1PCZpxHJz7WAMF8EEq8bfc"
-        }
-      ],
-      "duration_ms": 149466,
-      "name": "Mr. Tambourine Man",
-      "url": "https://open.spotify.com/track/2HCaIYjkvWSZzaSKUoOh3d"
     },
     {
       "added_at": "2023-01-18 21:00:56",
@@ -1035,6 +1003,38 @@
       "duration_ms": 156800,
       "name": "Gloria (feat. Van Morrison) - Stereo Version",
       "url": "https://open.spotify.com/track/1DKyFVzIh1oa1fFnEmTkIl"
+    },
+    {
+      "added_at": "2023-01-18 21:00:56",
+      "album": {
+        "name": "Mr. Tambourine Man",
+        "url": "https://open.spotify.com/album/0pkrqPjeq9K5KD0hFqAKNa"
+      },
+      "artists": [
+        {
+          "name": "The Byrds",
+          "url": "https://open.spotify.com/artist/1PCZpxHJz7WAMF8EEq8bfc"
+        }
+      ],
+      "duration_ms": 149466,
+      "name": "Mr. Tambourine Man",
+      "url": "https://open.spotify.com/track/2HCaIYjkvWSZzaSKUoOh3d"
+    },
+    {
+      "added_at": "2023-01-18 21:00:56",
+      "album": {
+        "name": "The Band",
+        "url": "https://open.spotify.com/album/4vXFiaDS8zuEl5bOUbW53x"
+      },
+      "artists": [
+        {
+          "name": "The Band",
+          "url": "https://open.spotify.com/artist/4vpDg7Y7fU982Ds30zawDA"
+        }
+      ],
+      "duration_ms": 211787,
+      "name": "The Night They Drove Old Dixie Down",
+      "url": "https://open.spotify.com/track/2nvcTDmZkRWKNMAL29sLHo"
     },
     {
       "added_at": "2023-01-18 21:00:56",

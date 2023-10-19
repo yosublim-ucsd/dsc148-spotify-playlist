@@ -4,7 +4,7 @@
 
 > La sutileza del piano para enriquecer tu espacio.
 
-716 songs - 1 day 6 hr 5 min
+717 songs - 1 day 6 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -438,6 +438,7 @@
 | [Nowesind](https://open.spotify.com/track/2p5THyuNwpJ9c7ex3TN383) | [Jacob David](https://open.spotify.com/artist/2ClAWj3iKUlyddnvR6faUP) | [Nowesind](https://open.spotify.com/album/0nz4s5aDqAOYKdbogoo15X) | 1:59 | 2022-05-27 | 2023-01-21 |
 | [Numéro 1](https://open.spotify.com/track/4Q4LaLRedI0F02XS2lsYkP) | [Jøsefine](https://open.spotify.com/artist/5LQF5EIs7xORz4fOVfpSpO) | [Numéro 1](https://open.spotify.com/album/2FD6tNq2lHhx57hK0q1X35) | 2:34 | 2022-05-27 | 2023-05-15 |
 | [nyvallen](https://open.spotify.com/track/5Fc41UbpeLPaltHBkrL5kz) | [Ove Roos](https://open.spotify.com/artist/6qPCa2xnuweDEXoBg5Byr0) | [nyvallen](https://open.spotify.com/album/2dnicxYzWPd2TJg1qz6qxp) | 2:08 | 2023-07-03 |  |
+| [Of Great Expectations](https://open.spotify.com/track/2W1UHY7juKER9GJDBjgVH6) | [Jef Martens](https://open.spotify.com/artist/7t8PD6GvlbqByM0g7ysSHH) | [Close To Maman](https://open.spotify.com/album/3dweglz4WqwRFNAU9eA3iH) | 2:10 | 2023-10-16 |  |
 | [Of Great Expectations](https://open.spotify.com/track/2YpreA94zbFfECbdJWzIec) | [Jef Martens](https://open.spotify.com/artist/7t8PD6GvlbqByM0g7ysSHH) | [For Tiny Feet](https://open.spotify.com/album/1GjPYdwgU2AU0Isa8pEYGN) | 2:10 | 2023-09-18 | 2023-10-05 |
 | [of view](https://open.spotify.com/track/4CK2atgvodyG3xJPXXt58U) | [Kaiteki](https://open.spotify.com/artist/4nUBYLhgaW3B3EuWJgfhma) | [Thoughts of View](https://open.spotify.com/album/6hP9TRgcIHRY8NXYVEFQka) | 3:46 | 2022-07-20 | 2023-07-25 |
 | [Oh Endless Day](https://open.spotify.com/track/7gqehJjwPZxAkMFEsxMAYr) | [Philip Daniel](https://open.spotify.com/artist/58erVRK8N3stJghsvYAFq5) | [Oh Endless Day](https://open.spotify.com/album/3RRumjF8Ef3D6eGngq3Vbb) | 4:47 | 2022-05-27 | 2022-09-24 |
@@ -689,7 +690,7 @@
 | [Visionaire](https://open.spotify.com/track/3XmRYyDspHCnlXkvHAYVLL) | [Anna Goya](https://open.spotify.com/artist/3T6VP5tdYDJR2H9sc62fMW) | [Visionaire](https://open.spotify.com/album/3kAsZxO4D7aYpaJbcGyfQa) | 1:43 | 2022-07-20 | 2023-07-25 |
 | [Vogelsohn](https://open.spotify.com/track/5Jy27bwCfHRs57MIlHxfVd) | [Dimitri Stöckl](https://open.spotify.com/artist/2wTGVnmoIgz8S6DfjerKx1) | [Vogelsohn](https://open.spotify.com/album/7fqhJXiTu95ndbKC0rk1Xw) | 4:02 | 2022-05-27 | 2022-07-21 |
 | [Vole Vers Moi](https://open.spotify.com/track/76tMNpO6rHIMyKu9s4aY55) | [Ferdinand Lapointe](https://open.spotify.com/artist/6MkcHOmde3eMbEykQff35Y) | [Vole Vers Moi](https://open.spotify.com/album/5regfEMlH6n002DCCKrN1H) | 2:38 | 2022-05-27 | 2023-03-14 |
-| [Voyage á’louest](https://open.spotify.com/track/4C7ZY0HRPVn9G5bgYAertD) | [Lo Mimieux](https://open.spotify.com/artist/0M2jyp8P5yTxQcdPyCdDkM) | [Voyage à'louest](https://open.spotify.com/album/2AgVCRWI1Qpz3S7u05VHZu) | 2:55 | 2022-05-27 |  |
+| [Voyage á’louest](https://open.spotify.com/track/4C7ZY0HRPVn9G5bgYAertD) | [Lo Mimieux](https://open.spotify.com/artist/0M2jyp8P5yTxQcdPyCdDkM) | [Voyage à'louest](https://open.spotify.com/album/2AgVCRWI1Qpz3S7u05VHZu) | 2:55 | 2022-05-27 | 2023-10-19 |
 | [Waiting for You](https://open.spotify.com/track/32CiGN5SRTJWBRNhG8xvp9) | [Yoko Nanno](https://open.spotify.com/artist/2TsdNO75b4jowfkyiM7VQN) | [Waiting for You](https://open.spotify.com/album/1GpmDcoijmmmVwUNJs6yTO) | 2:10 | 2023-01-20 |  |
 | [Waltz For Olivia](https://open.spotify.com/track/5OPVL9eRJePaHRxuULUGju) | [Celine Hayes](https://open.spotify.com/artist/5DYjSQAZSKcn363QyjYNrG) | [Silent Prayer](https://open.spotify.com/album/3L0zawGKxZFAsbszZr68wR) | 2:40 | 2022-05-27 | 2022-07-21 |
 | [Waltz in F minor](https://open.spotify.com/track/20DUpGAFEPRFEBD3FbxUHK) | [Oscar Sergel](https://open.spotify.com/artist/0di12xR3Qca66XeRGBn1z8) | [Waltz in F minor](https://open.spotify.com/album/0eFKKxmv0SE3SL3Z1YwmKi) | 2:24 | 2022-05-27 | 2022-07-21 |

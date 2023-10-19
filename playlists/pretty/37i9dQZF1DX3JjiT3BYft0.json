@@ -1,12 +1,12 @@
 {
   "description": "Music from \u201cBanG Dream! \u201c series! \u6b21\u4e16\u4ee3\u30ac\u30fc\u30eb\u30ba\u30d0\u30f3\u30c9\u30d7\u30ed\u30b8\u30a7\u30af\u30c8\u300eBanG Dream!\uff08\u30d0\u30f3\u30c9\u30ea\uff01\uff09\u300f\u516c\u5f0f\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u3002",
-  "num_followers": 62146,
+  "num_followers": 62189,
   "original_name": "BanG Dream! \u30d0\u30f3\u30c9\u30ea\uff01\u30ac\u30fc\u30eb\u30ba\u30d0\u30f3\u30c9\u30d1\u30fc\u30c6\u30a3\uff01",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmMGIzMWY2YjZjYzkxODIzODM4MDM4Nzk2YmRlZjFmYzY5NzQ3ZjA4",
+  "snapshot_id": "MCwzMDliOWFiYjEwZjRhNjFhODJjMzAyM2Y3ZWEzN2ZkYjBkY2RkNTJi",
   "tracks": [
     {
       "added_at": "2023-09-21 16:51:36",
@@ -468,9 +468,9 @@
           "url": "https://open.spotify.com/artist/4n97ifZWNPLSPKC6KzfGxg"
         }
       ],
-      "duration_ms": 220600,
-      "name": "\u304d\u3085\uff5e\u307e\u3044\uff0aflower",
-      "url": "https://open.spotify.com/track/2fJThhwR3Y4kGXIFRGtGtt"
+      "duration_ms": 235100,
+      "name": "\u3057\u3085\u308f\u308a\u3093\u2606\u3069\u308a\uff5e\u307f\u3093",
+      "url": "https://open.spotify.com/track/4viy9f3Ka81kR1Gf2U9hAY"
     },
     {
       "added_at": "2023-09-21 16:51:36",
@@ -548,9 +548,9 @@
           "url": "https://open.spotify.com/artist/4n97ifZWNPLSPKC6KzfGxg"
         }
       ],
-      "duration_ms": 235100,
-      "name": "\u3057\u3085\u308f\u308a\u3093\u2606\u3069\u308a\uff5e\u307f\u3093",
-      "url": "https://open.spotify.com/track/4viy9f3Ka81kR1Gf2U9hAY"
+      "duration_ms": 220600,
+      "name": "\u304d\u3085\uff5e\u307e\u3044\uff0aflower",
+      "url": "https://open.spotify.com/track/2fJThhwR3Y4kGXIFRGtGtt"
     },
     {
       "added_at": "2023-09-21 16:51:36",
@@ -923,18 +923,18 @@
     {
       "added_at": "2023-09-21 16:51:36",
       "album": {
-        "name": "Don't be afraid!",
-        "url": "https://open.spotify.com/album/23rMEQCxhIP52O2kkvgkjL"
+        "name": "TV\u30a2\u30cb\u30e1\u300cBanG Dream!\u300d\u30ad\u30e3\u30e9\u30af\u30bf\u30fc\u30bd\u30f3\u30b0\u3000\u725b\u8fbc\u308a\u307f\u300c\u30c1\u30e7\u30b3\u30ec\u30a4\u30c8\u306e\u4f4e\u97f3\u30ec\u30b7\u30d4\u300d",
+        "url": "https://open.spotify.com/album/6FbxgPesZO4zbeWV0CF6VP"
       },
       "artists": [
         {
-          "name": "Glitter*Green",
-          "url": "https://open.spotify.com/artist/2sheZhJBCHLVlenoXp72Jz"
+          "name": "\u725b\u8fbc\u308a\u307f(CV.\u897f\u672c\u308a\u307f)",
+          "url": "https://open.spotify.com/artist/5WyWRCcDLl2MHHRxUk1tjG"
         }
       ],
-      "duration_ms": 211833,
-      "name": "Glee! Glee! Glee!",
-      "url": "https://open.spotify.com/track/0spL1ckbyCxLJMb7ZgQgdy"
+      "duration_ms": 271022,
+      "name": "\u30c1\u30e7\u30b3\u30ec\u30a4\u30c8\u306e\u4f4e\u97f3\u30ec\u30b7\u30d4",
+      "url": "https://open.spotify.com/track/0o4od2HRigwdtMGZdRnwXA"
     },
     {
       "added_at": "2023-09-21 16:51:36",
@@ -955,18 +955,18 @@
     {
       "added_at": "2023-09-21 16:51:36",
       "album": {
-        "name": "TV\u30a2\u30cb\u30e1\u300cBanG Dream!\u300d\u30ad\u30e3\u30e9\u30af\u30bf\u30fc\u30bd\u30f3\u30b0\u3000\u725b\u8fbc\u308a\u307f\u300c\u30c1\u30e7\u30b3\u30ec\u30a4\u30c8\u306e\u4f4e\u97f3\u30ec\u30b7\u30d4\u300d",
-        "url": "https://open.spotify.com/album/6FbxgPesZO4zbeWV0CF6VP"
+        "name": "Don't be afraid!",
+        "url": "https://open.spotify.com/album/23rMEQCxhIP52O2kkvgkjL"
       },
       "artists": [
         {
-          "name": "\u725b\u8fbc\u308a\u307f(CV.\u897f\u672c\u308a\u307f)",
-          "url": "https://open.spotify.com/artist/5WyWRCcDLl2MHHRxUk1tjG"
+          "name": "Glitter*Green",
+          "url": "https://open.spotify.com/artist/2sheZhJBCHLVlenoXp72Jz"
         }
       ],
-      "duration_ms": 271022,
-      "name": "\u30c1\u30e7\u30b3\u30ec\u30a4\u30c8\u306e\u4f4e\u97f3\u30ec\u30b7\u30d4",
-      "url": "https://open.spotify.com/track/0o4od2HRigwdtMGZdRnwXA"
+      "duration_ms": 211833,
+      "name": "Glee! Glee! Glee!",
+      "url": "https://open.spotify.com/track/0spL1ckbyCxLJMb7ZgQgdy"
     },
     {
       "added_at": "2023-09-21 16:51:36",
@@ -1039,18 +1039,18 @@
     {
       "added_at": "2023-09-21 16:51:36",
       "album": {
-        "name": "\u3069\u304d\u3069\u304dSING OUT!",
-        "url": "https://open.spotify.com/album/1yQKhOaT8Uq7UeLs1soLVn"
+        "name": "TV\u30a2\u30cb\u30e1\u300cBanG Dream!\u300d\u30ad\u30e3\u30e9\u30af\u30bf\u30fc\u30bd\u30f3\u30b0\u3000\u725b\u8fbc\u308a\u307f\u300c\u30c1\u30e7\u30b3\u30ec\u30a4\u30c8\u306e\u4f4e\u97f3\u30ec\u30b7\u30d4\u300d",
+        "url": "https://open.spotify.com/album/6FbxgPesZO4zbeWV0CF6VP"
       },
       "artists": [
         {
-          "name": "\u6238\u5c71 \u9999\u6f84(CV:\u611b\u7f8e)",
-          "url": "https://open.spotify.com/artist/0TDcytIDEIOHNYfQwSVkFP"
+          "name": "\u725b\u8fbc\u308a\u307f(CV.\u897f\u672c\u308a\u307f)",
+          "url": "https://open.spotify.com/artist/5WyWRCcDLl2MHHRxUk1tjG"
         }
       ],
-      "duration_ms": 233032,
-      "name": "\u30c6\u30a3\u30a2\u30c9\u30ed\u30c3\u30d7\u30b9 - Acoustic Ver.",
-      "url": "https://open.spotify.com/track/5G2RV7o6t5WKI0YtWNT3ZJ"
+      "duration_ms": 310427,
+      "name": "Yes! BanG Dream! - Acoustic Ver.",
+      "url": "https://open.spotify.com/track/2jt7Q2lEEadsaYg5Sxru2M"
     },
     {
       "added_at": "2023-09-21 16:51:36",
@@ -1071,18 +1071,18 @@
     {
       "added_at": "2023-09-21 16:51:36",
       "album": {
-        "name": "TV\u30a2\u30cb\u30e1\u300cBanG Dream!\u300d\u30ad\u30e3\u30e9\u30af\u30bf\u30fc\u30bd\u30f3\u30b0\u3000\u725b\u8fbc\u308a\u307f\u300c\u30c1\u30e7\u30b3\u30ec\u30a4\u30c8\u306e\u4f4e\u97f3\u30ec\u30b7\u30d4\u300d",
-        "url": "https://open.spotify.com/album/6FbxgPesZO4zbeWV0CF6VP"
+        "name": "\u3069\u304d\u3069\u304dSING OUT!",
+        "url": "https://open.spotify.com/album/1yQKhOaT8Uq7UeLs1soLVn"
       },
       "artists": [
         {
-          "name": "\u725b\u8fbc\u308a\u307f(CV.\u897f\u672c\u308a\u307f)",
-          "url": "https://open.spotify.com/artist/5WyWRCcDLl2MHHRxUk1tjG"
+          "name": "\u6238\u5c71 \u9999\u6f84(CV:\u611b\u7f8e)",
+          "url": "https://open.spotify.com/artist/0TDcytIDEIOHNYfQwSVkFP"
         }
       ],
-      "duration_ms": 310427,
-      "name": "Yes! BanG Dream! - Acoustic Ver.",
-      "url": "https://open.spotify.com/track/2jt7Q2lEEadsaYg5Sxru2M"
+      "duration_ms": 233032,
+      "name": "\u30c6\u30a3\u30a2\u30c9\u30ed\u30c3\u30d7\u30b9 - Acoustic Ver.",
+      "url": "https://open.spotify.com/track/5G2RV7o6t5WKI0YtWNT3ZJ"
     },
     {
       "added_at": "2023-09-21 16:51:36",
@@ -1199,6 +1199,22 @@
     {
       "added_at": "2023-09-21 16:51:36",
       "album": {
+        "name": "ERA",
+        "url": "https://open.spotify.com/album/7rw0JTu5asLZcjzmCUmbgD"
+      },
+      "artists": [
+        {
+          "name": "RAISE A SUILEN",
+          "url": "https://open.spotify.com/artist/6zPsF3A9PvZ4s0NG6z76up"
+        }
+      ],
+      "duration_ms": 230500,
+      "name": "UNSTOPPABLE",
+      "url": "https://open.spotify.com/track/4ESSZqnHF1VDK3zsqk2vvM"
+    },
+    {
+      "added_at": "2023-09-21 16:51:36",
+      "album": {
         "name": "\u5287\u5834\u7248\u300cBanG Dream! FILM LIVE 2nd Stage\u300dSpecial Songs",
         "url": "https://open.spotify.com/album/2brdfEDkVMfb9UoC4rupxF"
       },
@@ -1215,22 +1231,6 @@
       "duration_ms": 263466,
       "name": "\u7af6\u5bb4Red\u00d7Violet",
       "url": "https://open.spotify.com/track/2sfhkbecN4x8DkdydVZzOP"
-    },
-    {
-      "added_at": "2023-09-21 16:51:36",
-      "album": {
-        "name": "ERA",
-        "url": "https://open.spotify.com/album/7rw0JTu5asLZcjzmCUmbgD"
-      },
-      "artists": [
-        {
-          "name": "RAISE A SUILEN",
-          "url": "https://open.spotify.com/artist/6zPsF3A9PvZ4s0NG6z76up"
-        }
-      ],
-      "duration_ms": 230500,
-      "name": "UNSTOPPABLE",
-      "url": "https://open.spotify.com/track/4ESSZqnHF1VDK3zsqk2vvM"
     },
     {
       "added_at": "2023-09-21 16:51:36",

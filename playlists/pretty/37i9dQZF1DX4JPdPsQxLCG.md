@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4JPdPsQxLCG.md) - [plain]
 
 > Classic tunes for the open road.
 
-[Spotify](https://open.spotify.com/user/spotify) - 74,184 likes - 75 songs - 4 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 74,334 likes - 75 songs - 4 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4JPdPsQxLCG.md) - [plain]
 | 74 | [Heaven Coming Down](https://open.spotify.com/track/6lOvhkSYAU6xde5BvtWNbB) | [The Tea Party](https://open.spotify.com/artist/6O5Xi2xT3bICu1ZLXqLYRE) | [TRIPtych](https://open.spotify.com/album/1q1DoRb0McqviO1JCwJ7mQ) | 4:01 |
 | 75 | [Flesh and Blood](https://open.spotify.com/track/5JNQ5leQ1NEZFHQxlojjBt) | [Half Moon Run](https://open.spotify.com/artist/3ceQN2NVlLg1hgTzljDE4n) | [A Blemish in the Great Light](https://open.spotify.com/album/0mW3Hyde2wbKVTSYPhYF2Q) | 4:57 |
 
-Snapshot ID: `MCxmOTY5YjFlOGE3ZjQwYWExZmFmMGVlMzMyM2IzMmM5NzMzYmVkZGRm`
+Snapshot ID: `MCwxYjk0ZDgwZjJlNzMxMjA5Y2UxY2NjNzI3NjQ4OWEzODAwODk1MDAw`

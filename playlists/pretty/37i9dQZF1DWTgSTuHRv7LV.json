@@ -1,12 +1,12 @@
 {
   "description": "Lo mejor del Hip-Hop y Rap en espa\u00f1ol. Descansa en paz Lefty SM.",
-  "num_followers": 491917,
+  "num_followers": 492112,
   "original_name": "Mucho Rap",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhNmFjYWE0MTU1YzI5ZDkyOTg2ZDc4ODRlNGY1MDM1NTU3ZTgzMDlj",
+  "snapshot_id": "MCwxOGVjMDhmNjgwZTMwODdjZTdiZGQ2MDA0YjEyMTE3MGJhZjYzODg2",
   "tracks": [
     {
       "added_at": "2023-10-13 04:00:00",
@@ -295,6 +295,22 @@
     {
       "added_at": "2023-10-13 04:00:00",
       "album": {
+        "name": "BIEN O MAL",
+        "url": "https://open.spotify.com/album/1HeNYlqvbUDkP97DJ33Kjl"
+      },
+      "artists": [
+        {
+          "name": "Trueno",
+          "url": "https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz"
+        }
+      ],
+      "duration_ms": 165019,
+      "name": "DANCE CRIP",
+      "url": "https://open.spotify.com/track/5NtIprYDaflAuu3Pko0rjR"
+    },
+    {
+      "added_at": "2023-10-13 04:00:00",
+      "album": {
         "name": "Nota",
         "url": "https://open.spotify.com/album/0siQnF7cX6ggvTgYMll5OJ"
       },
@@ -311,22 +327,6 @@
       "duration_ms": 159482,
       "name": "Nota",
       "url": "https://open.spotify.com/track/2rm9Jixn9sLzTM6PF8u8AH"
-    },
-    {
-      "added_at": "2023-10-13 04:00:00",
-      "album": {
-        "name": "BIEN O MAL",
-        "url": "https://open.spotify.com/album/1HeNYlqvbUDkP97DJ33Kjl"
-      },
-      "artists": [
-        {
-          "name": "Trueno",
-          "url": "https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz"
-        }
-      ],
-      "duration_ms": 165019,
-      "name": "DANCE CRIP",
-      "url": "https://open.spotify.com/track/5NtIprYDaflAuu3Pko0rjR"
     },
     {
       "added_at": "2023-10-13 04:00:00",
@@ -387,6 +387,22 @@
     {
       "added_at": "2023-10-13 04:00:00",
       "album": {
+        "name": "BIEN O MAL",
+        "url": "https://open.spotify.com/album/1HeNYlqvbUDkP97DJ33Kjl"
+      },
+      "artists": [
+        {
+          "name": "Trueno",
+          "url": "https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz"
+        }
+      ],
+      "duration_ms": 199825,
+      "name": "SOLO POR VOS",
+      "url": "https://open.spotify.com/track/0qhynIDQPUYENhtIQ3TUyE"
+    },
+    {
+      "added_at": "2023-10-13 04:00:00",
+      "album": {
         "name": "El R",
         "url": "https://open.spotify.com/album/2wNUVU8fYpulfUQEVHZcmX"
       },
@@ -439,22 +455,6 @@
       "duration_ms": 224248,
       "name": "Glizzy Walk 2.5",
       "url": "https://open.spotify.com/track/3O6dtQDB3MTYFPxlXn7zww"
-    },
-    {
-      "added_at": "2023-10-13 04:00:00",
-      "album": {
-        "name": "BIEN O MAL",
-        "url": "https://open.spotify.com/album/1HeNYlqvbUDkP97DJ33Kjl"
-      },
-      "artists": [
-        {
-          "name": "Trueno",
-          "url": "https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz"
-        }
-      ],
-      "duration_ms": 199825,
-      "name": "SOLO POR VOS",
-      "url": "https://open.spotify.com/track/0qhynIDQPUYENhtIQ3TUyE"
     },
     {
       "added_at": "2023-10-13 04:00:00",
@@ -1083,6 +1083,22 @@
     {
       "added_at": "2023-10-13 04:00:00",
       "album": {
+        "name": "Ni Miedo Ni Piedad",
+        "url": "https://open.spotify.com/album/2YmBKaeneRkGmbfUWiiOzg"
+      },
+      "artists": [
+        {
+          "name": "Eme MalaFe",
+          "url": "https://open.spotify.com/artist/4RFrAp13K0fHKH7IpSdKxi"
+        }
+      ],
+      "duration_ms": 278181,
+      "name": "Ni Miedo Ni Piedad",
+      "url": "https://open.spotify.com/track/2hs4FEIVUESVnnRw6xXdq8"
+    },
+    {
+      "added_at": "2023-10-13 04:00:00",
+      "album": {
         "name": "Morena 420",
         "url": "https://open.spotify.com/album/7ACMkgQ4dC0JitXOeGL1tC"
       },
@@ -1099,22 +1115,6 @@
       "duration_ms": 236712,
       "name": "Morena 420",
       "url": "https://open.spotify.com/track/4NxwFVKcqu0xAQngTiB3dA"
-    },
-    {
-      "added_at": "2023-10-13 04:00:00",
-      "album": {
-        "name": "Ni Miedo Ni Piedad",
-        "url": "https://open.spotify.com/album/2YmBKaeneRkGmbfUWiiOzg"
-      },
-      "artists": [
-        {
-          "name": "Eme MalaFe",
-          "url": "https://open.spotify.com/artist/4RFrAp13K0fHKH7IpSdKxi"
-        }
-      ],
-      "duration_ms": 278181,
-      "name": "Ni Miedo Ni Piedad",
-      "url": "https://open.spotify.com/track/2hs4FEIVUESVnnRw6xXdq8"
     },
     {
       "added_at": "2023-10-13 04:00:00",
@@ -1191,26 +1191,6 @@
     {
       "added_at": "2023-10-13 04:00:00",
       "album": {
-        "name": "Belico",
-        "url": "https://open.spotify.com/album/3PRkKoLsKPc29sBq8jbYC2"
-      },
-      "artists": [
-        {
-          "name": "Tornillo",
-          "url": "https://open.spotify.com/artist/5OGraDcSkO4oTWthkm77WL"
-        },
-        {
-          "name": "Homer El Mero Mero",
-          "url": "https://open.spotify.com/artist/0Xo4VFS3v07L0GwIVkZLfg"
-        }
-      ],
-      "duration_ms": 158823,
-      "name": "Belico",
-      "url": "https://open.spotify.com/track/43OaRjkDxlWBVxamvz7BTA"
-    },
-    {
-      "added_at": "2023-10-13 04:00:00",
-      "album": {
         "name": "Jaguar",
         "url": "https://open.spotify.com/album/5DxjVYkGm326bIHaFv6nvX"
       },
@@ -1227,6 +1207,26 @@
       "duration_ms": 195313,
       "name": "Jaguar",
       "url": "https://open.spotify.com/track/3k3Hm3PBmnE7bNCExKOxFm"
+    },
+    {
+      "added_at": "2023-10-13 04:00:00",
+      "album": {
+        "name": "Te Encontr\u00e9",
+        "url": "https://open.spotify.com/album/0RvUTJIIZUlDiMMhA63sX9"
+      },
+      "artists": [
+        {
+          "name": "Santa Fe Klan",
+          "url": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
+        },
+        {
+          "name": "Russ",
+          "url": "https://open.spotify.com/artist/1z7b1Pr1rSlvWRzsW3HOrS"
+        }
+      ],
+      "duration_ms": 222857,
+      "name": "Te Encontr\u00e9",
+      "url": "https://open.spotify.com/track/3Do3yeHyrQtV302BQxeOWj"
     },
     {
       "added_at": "2023-10-13 04:00:00",
@@ -1251,22 +1251,22 @@
     {
       "added_at": "2023-10-13 04:00:00",
       "album": {
-        "name": "Te Encontr\u00e9",
-        "url": "https://open.spotify.com/album/0RvUTJIIZUlDiMMhA63sX9"
+        "name": "Belico",
+        "url": "https://open.spotify.com/album/3PRkKoLsKPc29sBq8jbYC2"
       },
       "artists": [
         {
-          "name": "Santa Fe Klan",
-          "url": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
+          "name": "Tornillo",
+          "url": "https://open.spotify.com/artist/5OGraDcSkO4oTWthkm77WL"
         },
         {
-          "name": "Russ",
-          "url": "https://open.spotify.com/artist/1z7b1Pr1rSlvWRzsW3HOrS"
+          "name": "Homer El Mero Mero",
+          "url": "https://open.spotify.com/artist/0Xo4VFS3v07L0GwIVkZLfg"
         }
       ],
-      "duration_ms": 222857,
-      "name": "Te Encontr\u00e9",
-      "url": "https://open.spotify.com/track/3Do3yeHyrQtV302BQxeOWj"
+      "duration_ms": 158823,
+      "name": "Belico",
+      "url": "https://open.spotify.com/track/43OaRjkDxlWBVxamvz7BTA"
     },
     {
       "added_at": "2023-10-13 04:00:00",
@@ -1331,6 +1331,26 @@
     {
       "added_at": "2023-10-13 04:00:00",
       "album": {
+        "name": "Socios",
+        "url": "https://open.spotify.com/album/35aCkilcy42NSM3eQqdYWm"
+      },
+      "artists": [
+        {
+          "name": "Santa Fe Klan",
+          "url": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
+        },
+        {
+          "name": "Gera MX",
+          "url": "https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW"
+        }
+      ],
+      "duration_ms": 243000,
+      "name": "Socios",
+      "url": "https://open.spotify.com/track/5XEKaGX5bEvZE79KneoLic"
+    },
+    {
+      "added_at": "2023-10-13 04:00:00",
+      "album": {
         "name": "Que Oso",
         "url": "https://open.spotify.com/album/429h9tb0MJpTopIfr2h5uF"
       },
@@ -1343,6 +1363,26 @@
       "duration_ms": 150259,
       "name": "Que Oso",
       "url": "https://open.spotify.com/track/1nVSfJ9XDIJlEzLkAz798P"
+    },
+    {
+      "added_at": "2023-10-13 04:00:00",
+      "album": {
+        "name": "Te Va a Gustar",
+        "url": "https://open.spotify.com/album/1ODdv8sr9uVhLsDZnVAA6b"
+      },
+      "artists": [
+        {
+          "name": "Alem\u00e1n",
+          "url": "https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE"
+        },
+        {
+          "name": "Snow Tha Product",
+          "url": "https://open.spotify.com/artist/3p3jPcp8b7WL9XYj4xlsWj"
+        }
+      ],
+      "duration_ms": 168824,
+      "name": "Te Va a Gustar",
+      "url": "https://open.spotify.com/track/0HMmzc6sW3DRrxlt5e4EmE"
     },
     {
       "added_at": "2023-10-13 04:00:00",
@@ -1367,26 +1407,6 @@
       "duration_ms": 282598,
       "name": "La Mision 3",
       "url": "https://open.spotify.com/track/11cBc7p39GKbAzpN8izhbh"
-    },
-    {
-      "added_at": "2023-10-13 04:00:00",
-      "album": {
-        "name": "Te Va a Gustar",
-        "url": "https://open.spotify.com/album/1ODdv8sr9uVhLsDZnVAA6b"
-      },
-      "artists": [
-        {
-          "name": "Alem\u00e1n",
-          "url": "https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE"
-        },
-        {
-          "name": "Snow Tha Product",
-          "url": "https://open.spotify.com/artist/3p3jPcp8b7WL9XYj4xlsWj"
-        }
-      ],
-      "duration_ms": 168824,
-      "name": "Te Va a Gustar",
-      "url": "https://open.spotify.com/track/0HMmzc6sW3DRrxlt5e4EmE"
     },
     {
       "added_at": "2023-10-13 04:00:00",
@@ -1419,50 +1439,6 @@
       "duration_ms": 175718,
       "name": "NUDE",
       "url": "https://open.spotify.com/track/5LZEvEjAzndBZUaHrp1o0L"
-    },
-    {
-      "added_at": "2023-10-13 04:00:00",
-      "album": {
-        "name": "La Calle Nos Llama",
-        "url": "https://open.spotify.com/album/2ApRhN7P014RztepdR6qwN"
-      },
-      "artists": [
-        {
-          "name": "Javiielo",
-          "url": "https://open.spotify.com/artist/3HH6yOn1yJNZo3RY5zEfy5"
-        },
-        {
-          "name": "Blackinny",
-          "url": "https://open.spotify.com/artist/2T0HIl9gOfBS7Z2GgNu7c3"
-        },
-        {
-          "name": "Nekxum",
-          "url": "https://open.spotify.com/artist/4gZwJrNP5NG3KGS2dRcS5c"
-        }
-      ],
-      "duration_ms": 227769,
-      "name": "La Calle Nos Llama",
-      "url": "https://open.spotify.com/track/1oXxeaz8p5VJmcWGMo5Lqh"
-    },
-    {
-      "added_at": "2023-10-13 04:00:00",
-      "album": {
-        "name": "Socios",
-        "url": "https://open.spotify.com/album/35aCkilcy42NSM3eQqdYWm"
-      },
-      "artists": [
-        {
-          "name": "Santa Fe Klan",
-          "url": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
-        },
-        {
-          "name": "Gera MX",
-          "url": "https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW"
-        }
-      ],
-      "duration_ms": 243000,
-      "name": "Socios",
-      "url": "https://open.spotify.com/track/5XEKaGX5bEvZE79KneoLic"
     },
     {
       "added_at": "2023-10-13 04:00:00",
@@ -1531,6 +1507,22 @@
     {
       "added_at": "2023-10-13 04:00:00",
       "album": {
+        "name": "Eternamente",
+        "url": "https://open.spotify.com/album/6eHJ3AnPmuxpS519h43UCG"
+      },
+      "artists": [
+        {
+          "name": "Santa Fe Klan",
+          "url": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
+        }
+      ],
+      "duration_ms": 243200,
+      "name": "Eternamente",
+      "url": "https://open.spotify.com/track/71tUVS9wwekoX9qg494zq9"
+    },
+    {
+      "added_at": "2023-10-13 04:00:00",
+      "album": {
         "name": "Ahi voy",
         "url": "https://open.spotify.com/album/42wP55l1oKBcJ3xx7P9bL4"
       },
@@ -1551,18 +1543,26 @@
     {
       "added_at": "2023-10-13 04:00:00",
       "album": {
-        "name": "Una Pistola y Un Toque",
-        "url": "https://open.spotify.com/album/5JXqExeY0MLgO6EFJwZgOK"
+        "name": "La Calle Nos Llama",
+        "url": "https://open.spotify.com/album/2ApRhN7P014RztepdR6qwN"
       },
       "artists": [
         {
-          "name": "C-Kan",
-          "url": "https://open.spotify.com/artist/1QhaqxeqF9sipS2gwbEKpu"
+          "name": "Javiielo",
+          "url": "https://open.spotify.com/artist/3HH6yOn1yJNZo3RY5zEfy5"
+        },
+        {
+          "name": "Blackinny",
+          "url": "https://open.spotify.com/artist/2T0HIl9gOfBS7Z2GgNu7c3"
+        },
+        {
+          "name": "Nekxum",
+          "url": "https://open.spotify.com/artist/4gZwJrNP5NG3KGS2dRcS5c"
         }
       ],
-      "duration_ms": 234726,
-      "name": "Una Pistola y Un Toque",
-      "url": "https://open.spotify.com/track/7mYDqQKN77OjUK9Dqtm14A"
+      "duration_ms": 227769,
+      "name": "La Calle Nos Llama",
+      "url": "https://open.spotify.com/track/1oXxeaz8p5VJmcWGMo5Lqh"
     },
     {
       "added_at": "2023-10-13 04:00:00",
@@ -1579,6 +1579,22 @@
       "duration_ms": 206645,
       "name": "7",
       "url": "https://open.spotify.com/track/4xrsV0Sy36rxEYoyDoz11a"
+    },
+    {
+      "added_at": "2023-10-13 04:00:00",
+      "album": {
+        "name": "Una Pistola y Un Toque",
+        "url": "https://open.spotify.com/album/5JXqExeY0MLgO6EFJwZgOK"
+      },
+      "artists": [
+        {
+          "name": "C-Kan",
+          "url": "https://open.spotify.com/artist/1QhaqxeqF9sipS2gwbEKpu"
+        }
+      ],
+      "duration_ms": 234726,
+      "name": "Una Pistola y Un Toque",
+      "url": "https://open.spotify.com/track/7mYDqQKN77OjUK9Dqtm14A"
     },
     {
       "added_at": "2023-10-13 04:00:00",
@@ -1655,18 +1671,18 @@
     {
       "added_at": "2023-10-13 04:00:00",
       "album": {
-        "name": "Eternamente",
-        "url": "https://open.spotify.com/album/6eHJ3AnPmuxpS519h43UCG"
+        "name": "Gucci En Mis Pies",
+        "url": "https://open.spotify.com/album/2BsIAX7gf3766JS3tdH0ys"
       },
       "artists": [
         {
-          "name": "Santa Fe Klan",
-          "url": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
+          "name": "Ele A El Dominio",
+          "url": "https://open.spotify.com/artist/4SzD0wClEg9NKVJZbCRFqS"
         }
       ],
-      "duration_ms": 243200,
-      "name": "Eternamente",
-      "url": "https://open.spotify.com/track/71tUVS9wwekoX9qg494zq9"
+      "duration_ms": 231000,
+      "name": "Gucci En Mis Pies",
+      "url": "https://open.spotify.com/track/4RhKIBupRs3ID7Svb8kiwX"
     },
     {
       "added_at": "2023-10-13 04:00:00",
@@ -1683,22 +1699,6 @@
       "duration_ms": 148453,
       "name": "Bebi Demasiado",
       "url": "https://open.spotify.com/track/6vfjbHTiVh68wj6XioqhdA"
-    },
-    {
-      "added_at": "2023-10-13 04:00:00",
-      "album": {
-        "name": "Gucci En Mis Pies",
-        "url": "https://open.spotify.com/album/2BsIAX7gf3766JS3tdH0ys"
-      },
-      "artists": [
-        {
-          "name": "Ele A El Dominio",
-          "url": "https://open.spotify.com/artist/4SzD0wClEg9NKVJZbCRFqS"
-        }
-      ],
-      "duration_ms": 231000,
-      "name": "Gucci En Mis Pies",
-      "url": "https://open.spotify.com/track/4RhKIBupRs3ID7Svb8kiwX"
     },
     {
       "added_at": "2023-10-13 04:00:00",
@@ -1819,7 +1819,7 @@
     {
       "added_at": "2023-10-13 04:00:00",
       "album": {
-        "name": "FERRAGAMO",
+        "name": "Ferragamo",
         "url": "https://open.spotify.com/album/5Rz59vfdoaxddW0kMuvV7X"
       },
       "artists": [
@@ -1833,7 +1833,7 @@
         }
       ],
       "duration_ms": 218785,
-      "name": "FERRAGAMO",
+      "name": "Ferragamo",
       "url": "https://open.spotify.com/track/2OkMmFo9V7nAXhojd9QUPR"
     },
     {

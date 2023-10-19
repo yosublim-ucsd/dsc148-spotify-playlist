@@ -1,12 +1,12 @@
 {
   "description": "A cup of Joe and the raw Blues.",
-  "num_followers": 67749,
+  "num_followers": 67816,
   "original_name": "Black Coffee Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2OGZkYWU5YjdmNDI5M2NjNzM3Y2FmNWM2OWFhYTIwMGJkMTA2YmMy",
+  "snapshot_id": "MCw3YjA0Yzg5YzQ5NmIyMzExZWViYzNiYjYxZGNkZTAzMzRjZmE2OTZi",
   "tracks": [
     {
       "added_at": "2023-09-22 11:16:18",
@@ -335,22 +335,6 @@
     {
       "added_at": "2023-09-22 11:16:18",
       "album": {
-        "name": "Mississippi Blues",
-        "url": "https://open.spotify.com/album/0xF8Z3nP5KdFtLfnfg49D6"
-      },
-      "artists": [
-        {
-          "name": "R.L. Burnside",
-          "url": "https://open.spotify.com/artist/2drMeidRg4jc07neGOL0Ip"
-        }
-      ],
-      "duration_ms": 152076,
-      "name": "Jumper Hanging Out On the Line",
-      "url": "https://open.spotify.com/track/5uErxUghBfF0UliaoLlFBj"
-    },
-    {
-      "added_at": "2023-09-22 11:16:18",
-      "album": {
         "name": "Get Up! (Deluxe Edition)",
         "url": "https://open.spotify.com/album/1xu9bQjnB72GNFeH31UDX7"
       },
@@ -367,6 +351,22 @@
       "duration_ms": 261573,
       "name": "You Found Another Lover (I Lost Another Friend) - The Machine Shop Session",
       "url": "https://open.spotify.com/track/2ElTJmWJbuHT7owpTe3upS"
+    },
+    {
+      "added_at": "2023-09-22 11:16:18",
+      "album": {
+        "name": "Mississippi Blues",
+        "url": "https://open.spotify.com/album/0xF8Z3nP5KdFtLfnfg49D6"
+      },
+      "artists": [
+        {
+          "name": "R.L. Burnside",
+          "url": "https://open.spotify.com/artist/2drMeidRg4jc07neGOL0Ip"
+        }
+      ],
+      "duration_ms": 152076,
+      "name": "Jumper Hanging Out On the Line",
+      "url": "https://open.spotify.com/track/5uErxUghBfF0UliaoLlFBj"
     },
     {
       "added_at": "2023-09-22 11:16:18",
@@ -507,22 +507,6 @@
     {
       "added_at": "2023-09-22 11:16:18",
       "album": {
-        "name": "Buffalo Nichols",
-        "url": "https://open.spotify.com/album/2P9z3iSo6T3NmaX5q4FjTc"
-      },
-      "artists": [
-        {
-          "name": "Buffalo Nichols",
-          "url": "https://open.spotify.com/artist/5dT9JLuBwGNiHJQsY29Qmh"
-        }
-      ],
-      "duration_ms": 222853,
-      "name": "Lost & Lonesome",
-      "url": "https://open.spotify.com/track/5nVK0rgBaHqRioBoWBWS8f"
-    },
-    {
-      "added_at": "2023-09-22 11:16:18",
-      "album": {
         "name": "Good Times",
         "url": "https://open.spotify.com/album/5RKBqebBiGoxUp6nCYZwLx"
       },
@@ -539,6 +523,22 @@
       "duration_ms": 194321,
       "name": "Good Times",
       "url": "https://open.spotify.com/track/3jMYz9pMU8z6TE5xTtvlKY"
+    },
+    {
+      "added_at": "2023-09-22 11:16:18",
+      "album": {
+        "name": "Buffalo Nichols",
+        "url": "https://open.spotify.com/album/2P9z3iSo6T3NmaX5q4FjTc"
+      },
+      "artists": [
+        {
+          "name": "Buffalo Nichols",
+          "url": "https://open.spotify.com/artist/5dT9JLuBwGNiHJQsY29Qmh"
+        }
+      ],
+      "duration_ms": 222853,
+      "name": "Lost & Lonesome",
+      "url": "https://open.spotify.com/track/5nVK0rgBaHqRioBoWBWS8f"
     },
     {
       "added_at": "2023-09-22 11:16:18",
@@ -747,22 +747,6 @@
     {
       "added_at": "2023-09-22 11:16:18",
       "album": {
-        "name": "Buffalo Nichols",
-        "url": "https://open.spotify.com/album/2P9z3iSo6T3NmaX5q4FjTc"
-      },
-      "artists": [
-        {
-          "name": "Buffalo Nichols",
-          "url": "https://open.spotify.com/artist/5dT9JLuBwGNiHJQsY29Qmh"
-        }
-      ],
-      "duration_ms": 218357,
-      "name": "How to Love",
-      "url": "https://open.spotify.com/track/5xSUcxAoaRsXMaaSace7ST"
-    },
-    {
-      "added_at": "2023-09-22 11:16:18",
-      "album": {
         "name": "Solid Air",
         "url": "https://open.spotify.com/album/0QD0LEYQDkrJrtVcuRBcVp"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 201506,
       "name": "The Easy Blues",
       "url": "https://open.spotify.com/track/7drMNe3YvNs3KhHIHc6KBk"
+    },
+    {
+      "added_at": "2023-09-22 11:16:18",
+      "album": {
+        "name": "Buffalo Nichols",
+        "url": "https://open.spotify.com/album/2P9z3iSo6T3NmaX5q4FjTc"
+      },
+      "artists": [
+        {
+          "name": "Buffalo Nichols",
+          "url": "https://open.spotify.com/artist/5dT9JLuBwGNiHJQsY29Qmh"
+        }
+      ],
+      "duration_ms": 218357,
+      "name": "How to Love",
+      "url": "https://open.spotify.com/track/5xSUcxAoaRsXMaaSace7ST"
     },
     {
       "added_at": "2023-09-22 11:16:18",
@@ -999,22 +999,6 @@
     {
       "added_at": "2023-09-22 11:16:18",
       "album": {
-        "name": "Yellow Peril",
-        "url": "https://open.spotify.com/album/4OIXuFKd0N1hU41Gbfy0v9"
-      },
-      "artists": [
-        {
-          "name": "Nat Myers",
-          "url": "https://open.spotify.com/artist/2QMlNryks9wyxBCsBGciTS"
-        }
-      ],
-      "duration_ms": 204986,
-      "name": "Yellow Peril",
-      "url": "https://open.spotify.com/track/5lzSKx8sUNApxzrGU6POXw"
-    },
-    {
-      "added_at": "2023-09-22 11:16:18",
-      "album": {
         "name": "Man in the Ground",
         "url": "https://open.spotify.com/album/3pSMQQFLcjdQDasxNuGNEF"
       },
@@ -1043,6 +1027,22 @@
       "duration_ms": 174067,
       "name": "Liar",
       "url": "https://open.spotify.com/track/1cKGXdl6m2k9gLDDDxqqtp"
+    },
+    {
+      "added_at": "2023-09-22 11:16:18",
+      "album": {
+        "name": "Yellow Peril",
+        "url": "https://open.spotify.com/album/4OIXuFKd0N1hU41Gbfy0v9"
+      },
+      "artists": [
+        {
+          "name": "Nat Myers",
+          "url": "https://open.spotify.com/artist/2QMlNryks9wyxBCsBGciTS"
+        }
+      ],
+      "duration_ms": 204986,
+      "name": "Yellow Peril",
+      "url": "https://open.spotify.com/track/5lzSKx8sUNApxzrGU6POXw"
     },
     {
       "added_at": "2023-09-22 11:16:18",
@@ -1099,6 +1099,26 @@
     {
       "added_at": "2023-09-22 11:16:18",
       "album": {
+        "name": "The Ballad of Lampshade Ed",
+        "url": "https://open.spotify.com/album/4KU9nwpcEZ7a9dLCK54h4t"
+      },
+      "artists": [
+        {
+          "name": "The Curse of K.K. Hammond",
+          "url": "https://open.spotify.com/artist/4TQUTH8e8BgMZDvrdmmGxf"
+        },
+        {
+          "name": "David & the Devil",
+          "url": "https://open.spotify.com/artist/7GcZ1tsQ800s4vKDoN3d2C"
+        }
+      ],
+      "duration_ms": 206471,
+      "name": "The Ballad of Lampshade Ed",
+      "url": "https://open.spotify.com/track/7ixLX2F07QhrX4JEOJuFeX"
+    },
+    {
+      "added_at": "2023-09-22 11:16:18",
+      "album": {
         "name": "Racing To A Red Light",
         "url": "https://open.spotify.com/album/19gorkDhGxNv1eydTzvZ1a"
       },
@@ -1127,26 +1147,6 @@
       "duration_ms": 181040,
       "name": "Cross Creek Road",
       "url": "https://open.spotify.com/track/6sfZbIO4O4BtgE0mJ20zFg"
-    },
-    {
-      "added_at": "2023-09-22 11:16:18",
-      "album": {
-        "name": "The Ballad of Lampshade Ed",
-        "url": "https://open.spotify.com/album/4KU9nwpcEZ7a9dLCK54h4t"
-      },
-      "artists": [
-        {
-          "name": "The Curse of K.K. Hammond",
-          "url": "https://open.spotify.com/artist/4TQUTH8e8BgMZDvrdmmGxf"
-        },
-        {
-          "name": "David & the Devil",
-          "url": "https://open.spotify.com/artist/7GcZ1tsQ800s4vKDoN3d2C"
-        }
-      ],
-      "duration_ms": 206471,
-      "name": "The Ballad of Lampshade Ed",
-      "url": "https://open.spotify.com/track/7ixLX2F07QhrX4JEOJuFeX"
     },
     {
       "added_at": "2023-09-22 11:16:18",
@@ -1227,22 +1227,6 @@
     {
       "added_at": "2023-09-22 11:16:18",
       "album": {
-        "name": "The \"Killer\" Rocks On",
-        "url": "https://open.spotify.com/album/6vFYcOml32pCUDT7Adp5hW"
-      },
-      "artists": [
-        {
-          "name": "Jerry Lee Lewis",
-          "url": "https://open.spotify.com/artist/2zyz0VJqrDXeFDIyrfVXSo"
-        }
-      ],
-      "duration_ms": 172800,
-      "name": "C.C. Rider",
-      "url": "https://open.spotify.com/track/2jpyzovZr1zpVVVKck8rlu"
-    },
-    {
-      "added_at": "2023-09-22 11:16:18",
-      "album": {
         "name": "Navigation Blues",
         "url": "https://open.spotify.com/album/291j4jpDLGN5NeGlOyL5Kh"
       },
@@ -1259,6 +1243,22 @@
       "duration_ms": 296466,
       "name": "Navigation Blues",
       "url": "https://open.spotify.com/track/1NC7eqWo4K8RaTfpLKWoe0"
+    },
+    {
+      "added_at": "2023-09-22 11:16:18",
+      "album": {
+        "name": "The \"Killer\" Rocks On",
+        "url": "https://open.spotify.com/album/6vFYcOml32pCUDT7Adp5hW"
+      },
+      "artists": [
+        {
+          "name": "Jerry Lee Lewis",
+          "url": "https://open.spotify.com/artist/2zyz0VJqrDXeFDIyrfVXSo"
+        }
+      ],
+      "duration_ms": 172800,
+      "name": "C.C. Rider",
+      "url": "https://open.spotify.com/track/2jpyzovZr1zpVVVKck8rlu"
     },
     {
       "added_at": "2023-09-22 11:16:18",
@@ -1327,22 +1327,6 @@
     {
       "added_at": "2023-09-22 11:16:18",
       "album": {
-        "name": "Buffalo Nichols",
-        "url": "https://open.spotify.com/album/2P9z3iSo6T3NmaX5q4FjTc"
-      },
-      "artists": [
-        {
-          "name": "Buffalo Nichols",
-          "url": "https://open.spotify.com/artist/5dT9JLuBwGNiHJQsY29Qmh"
-        }
-      ],
-      "duration_ms": 205201,
-      "name": "Back on Top",
-      "url": "https://open.spotify.com/track/1Ps6uZFGUtM8VZlOTY6EnU"
-    },
-    {
-      "added_at": "2023-09-22 11:16:18",
-      "album": {
         "name": "The Future Ain't What It Used to Be",
         "url": "https://open.spotify.com/album/0DW4kByILcJVsYLxbfx035"
       },
@@ -1355,6 +1339,22 @@
       "duration_ms": 200987,
       "name": "The Future Ain't What It Used to Be",
       "url": "https://open.spotify.com/track/7mNrmOsmZyjJw9FAmrboQO"
+    },
+    {
+      "added_at": "2023-09-22 11:16:18",
+      "album": {
+        "name": "Buffalo Nichols",
+        "url": "https://open.spotify.com/album/2P9z3iSo6T3NmaX5q4FjTc"
+      },
+      "artists": [
+        {
+          "name": "Buffalo Nichols",
+          "url": "https://open.spotify.com/artist/5dT9JLuBwGNiHJQsY29Qmh"
+        }
+      ],
+      "duration_ms": 205201,
+      "name": "Back on Top",
+      "url": "https://open.spotify.com/track/1Ps6uZFGUtM8VZlOTY6EnU"
     },
     {
       "added_at": "2023-09-22 11:16:18",
@@ -1395,22 +1395,6 @@
     {
       "added_at": "2023-09-22 11:16:18",
       "album": {
-        "name": "The Radio Tisdas Sessions",
-        "url": "https://open.spotify.com/album/3RHckcouC1a09YjhaznsrM"
-      },
-      "artists": [
-        {
-          "name": "Tinariwen",
-          "url": "https://open.spotify.com/artist/2sf2owtFSCvz2MLfxmNdkb"
-        }
-      ],
-      "duration_ms": 386173,
-      "name": "Imidiwaren",
-      "url": "https://open.spotify.com/track/1Qwja8HWcjNHEPSE4ctSvz"
-    },
-    {
-      "added_at": "2023-09-22 11:16:18",
-      "album": {
         "name": "Outdated Emotion",
         "url": "https://open.spotify.com/album/2ZmQvtqYsWVFPDrG1ssz7z"
       },
@@ -1423,6 +1407,22 @@
       "duration_ms": 156465,
       "name": "The Sun is Shining",
       "url": "https://open.spotify.com/track/0iY3krkgfmdqw6dOVVyuf3"
+    },
+    {
+      "added_at": "2023-09-22 11:16:18",
+      "album": {
+        "name": "The Radio Tisdas Sessions",
+        "url": "https://open.spotify.com/album/3RHckcouC1a09YjhaznsrM"
+      },
+      "artists": [
+        {
+          "name": "Tinariwen",
+          "url": "https://open.spotify.com/artist/2sf2owtFSCvz2MLfxmNdkb"
+        }
+      ],
+      "duration_ms": 386173,
+      "name": "Imidiwaren",
+      "url": "https://open.spotify.com/track/1Qwja8HWcjNHEPSE4ctSvz"
     },
     {
       "added_at": "2023-09-22 11:16:18",
@@ -1547,22 +1547,6 @@
     {
       "added_at": "2023-09-22 11:16:18",
       "album": {
-        "name": "Shake Sugaree",
-        "url": "https://open.spotify.com/album/2d7NDeQW6OjwGtFH32cD3W"
-      },
-      "artists": [
-        {
-          "name": "Nicholas Edward Williams",
-          "url": "https://open.spotify.com/artist/0jDDdsrqjhvoZD0zbPsc6V"
-        }
-      ],
-      "duration_ms": 209400,
-      "name": "Shake Sugaree",
-      "url": "https://open.spotify.com/track/2oYPKt6eHzJwI9AaILvYl2"
-    },
-    {
-      "added_at": "2023-09-22 11:16:18",
-      "album": {
         "name": "First McDonell's on the Moon",
         "url": "https://open.spotify.com/album/6hVnFJurOhApCMbjug96f4"
       },
@@ -1575,6 +1559,22 @@
       "duration_ms": 231133,
       "name": "First McDonell's on the Moon",
       "url": "https://open.spotify.com/track/5tIPp0eDCVopzvXyeMgUOm"
+    },
+    {
+      "added_at": "2023-09-22 11:16:18",
+      "album": {
+        "name": "Shake Sugaree",
+        "url": "https://open.spotify.com/album/2d7NDeQW6OjwGtFH32cD3W"
+      },
+      "artists": [
+        {
+          "name": "Nicholas Edward Williams",
+          "url": "https://open.spotify.com/artist/0jDDdsrqjhvoZD0zbPsc6V"
+        }
+      ],
+      "duration_ms": 209400,
+      "name": "Shake Sugaree",
+      "url": "https://open.spotify.com/track/2oYPKt6eHzJwI9AaILvYl2"
     },
     {
       "added_at": "2023-09-22 11:16:18",
@@ -1647,18 +1647,18 @@
     {
       "added_at": "2023-09-22 11:16:18",
       "album": {
-        "name": "Wasted Time",
-        "url": "https://open.spotify.com/album/268I3VN44lBjdb3zrkTVlc"
+        "name": "Strange Time To Be Alive",
+        "url": "https://open.spotify.com/album/3HKdMZgD0EQCy9FI0fz9PA"
       },
       "artists": [
         {
-          "name": "Shannon McNally",
-          "url": "https://open.spotify.com/artist/7MnItka0A4PsGNVzO7Ad0T"
+          "name": "Early James",
+          "url": "https://open.spotify.com/artist/6fJpluuZmZ2tX2AviJ3bNY"
         }
       ],
-      "duration_ms": 138040,
-      "name": "Wasted Time",
-      "url": "https://open.spotify.com/track/5g2wWZNls6R0tIcEqvfY0h"
+      "duration_ms": 231373,
+      "name": "Dance In The Fire",
+      "url": "https://open.spotify.com/track/2kGeYQBWv8QiYRoOo9vQJt"
     },
     {
       "added_at": "2023-09-22 11:16:18",
@@ -1683,18 +1683,18 @@
     {
       "added_at": "2023-09-22 11:16:18",
       "album": {
-        "name": "Strange Time To Be Alive",
-        "url": "https://open.spotify.com/album/3HKdMZgD0EQCy9FI0fz9PA"
+        "name": "Wasted Time",
+        "url": "https://open.spotify.com/album/268I3VN44lBjdb3zrkTVlc"
       },
       "artists": [
         {
-          "name": "Early James",
-          "url": "https://open.spotify.com/artist/6fJpluuZmZ2tX2AviJ3bNY"
+          "name": "Shannon McNally",
+          "url": "https://open.spotify.com/artist/7MnItka0A4PsGNVzO7Ad0T"
         }
       ],
-      "duration_ms": 231373,
-      "name": "Dance In The Fire",
-      "url": "https://open.spotify.com/track/2kGeYQBWv8QiYRoOo9vQJt"
+      "duration_ms": 138040,
+      "name": "Wasted Time",
+      "url": "https://open.spotify.com/track/5g2wWZNls6R0tIcEqvfY0h"
     },
     {
       "added_at": "2023-09-22 11:16:18",

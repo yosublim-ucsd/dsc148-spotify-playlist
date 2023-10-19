@@ -947,6 +947,24 @@
     },
     {
       "album": {
+        "name": "O Come, O Come Emmanuel",
+        "url": "https://open.spotify.com/album/2MEUOyPkGaTa0jLxXLksGG"
+      },
+      "artists": [
+        {
+          "name": "Stacy Gaffer",
+          "url": "https://open.spotify.com/artist/32pd92japrh3yC0QI2AnQt"
+        }
+      ],
+      "date_added": "2023-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125000,
+      "name": "O Come, O Come Emmanuel",
+      "url": "https://open.spotify.com/track/0hhFft1zhB30uAOSyw7zS1"
+    },
+    {
+      "album": {
         "name": "O Come, O Come Emmanuel 2018",
         "url": "https://open.spotify.com/album/2XSpLg6Gri2GupXZxP7K6j"
       },
@@ -958,7 +976,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-19",
       "duration_ms": 185525,
       "name": "O Come, O Come Emmanuel 2018",
       "url": "https://open.spotify.com/track/0Xy3LwJFQfx7yQRRgdG5Wo"
@@ -976,7 +994,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-19",
       "duration_ms": 172452,
       "name": "O Come, O Come, Emmanuel",
       "url": "https://open.spotify.com/track/6wxLTjOG4U4rC9CWxGhWxu"

@@ -1,18 +1,18 @@
 {
   "description": "\u30a4\u30f3\u30bf\u30fc\u30cd\u30c3\u30c8\u30fb\u30ab\u30eb\u30c1\u30e3\u30fc\u304b\u3089\u6b21\u3005\u3068\u51fa\u73fe\u3059\u308b\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u3092\u7279\u96c6\u3002Check out artists of the new Internet age! Illustration by <a href=\"https://twitter.com/hoshieri7\">\u5317\u6751\u82f1\u7406</a>(Eri Kitamura)",
-  "num_followers": 105750,
+  "num_followers": 106053,
   "original_name": "\u592a\u967d\u3092\u898b\u3066\u3057\u307e\u3063\u305f",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxNmNkMGMwMzJkYzZjZDZhZDdjZDc3YjVlZTFkMmU0NDBlYzM1NTM3",
+  "snapshot_id": "MCwyMzk2NzdkMzgzN2E1MDkyMjUzZTY1NDU4OTU1ODc1MmI3YjFhODJk",
   "tracks": [
     {
       "added_at": "2023-10-17 15:00:00",
       "album": {
-        "name": "\u30a2\u30a4\u30e0\u30e6\u30a2\u30d2\u30fc\u30ed\u30fc",
-        "url": "https://open.spotify.com/album/59DatHJiCB1PXiHhHq1Fsu"
+        "name": "I'm your hero",
+        "url": "https://open.spotify.com/album/31KsChYG9kwMqcQNjxCsAG"
       },
       "artists": [
         {
@@ -21,8 +21,8 @@
         }
       ],
       "duration_ms": 259053,
-      "name": "\u30a2\u30a4\u30e0\u30e6\u30a2\u30d2\u30fc\u30ed\u30fc",
-      "url": "https://open.spotify.com/track/3qLF8tsuoFkpVVqBQyTgM8"
+      "name": "I'm your hero",
+      "url": "https://open.spotify.com/track/3mxwpuEFhRxKTryxKqDymy"
     },
     {
       "added_at": "2023-10-17 15:00:00",
@@ -328,7 +328,7 @@
       "added_at": "2023-10-17 15:00:00",
       "album": {
         "name": "Hollow",
-        "url": "https://open.spotify.com/album/5a3IxGOeFt5mqZCKeDSDM5"
+        "url": "https://open.spotify.com/album/76gWkIByA75YJDWAJWGbWg"
       },
       "artists": [
         {
@@ -338,7 +338,7 @@
       ],
       "duration_ms": 199368,
       "name": "Hollow",
-      "url": "https://open.spotify.com/track/6SKXnSDNAr1goHftuzjbeK"
+      "url": "https://open.spotify.com/track/1shLOpBNrpV0RLO6gGcpiI"
     },
     {
       "added_at": "2023-10-17 15:00:00",
@@ -587,18 +587,18 @@
     {
       "added_at": "2023-10-17 15:00:00",
       "album": {
-        "name": "DIGNITY",
-        "url": "https://open.spotify.com/album/0yeSKha3HfhzdjVNnrqLks"
+        "name": "Haru wo Tsugeru",
+        "url": "https://open.spotify.com/album/002POSVXei4zFN5FDF0YqQ"
       },
       "artists": [
         {
-          "name": "Ado",
-          "url": "https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl"
+          "name": "yama",
+          "url": "https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv"
         }
       ],
-      "duration_ms": 252396,
-      "name": "DIGNITY",
-      "url": "https://open.spotify.com/track/1BDCBbdTDQo3JxC0kVDSqP"
+      "duration_ms": 196497,
+      "name": "Haru wo Tsugeru",
+      "url": "https://open.spotify.com/track/5QseXDzPvtjdeaWNhYbm0m"
     },
     {
       "added_at": "2023-10-17 15:00:00",
@@ -651,18 +651,18 @@
     {
       "added_at": "2023-10-17 15:00:00",
       "album": {
-        "name": "Haru wo Tsugeru",
-        "url": "https://open.spotify.com/album/002POSVXei4zFN5FDF0YqQ"
+        "name": "DIGNITY",
+        "url": "https://open.spotify.com/album/0yeSKha3HfhzdjVNnrqLks"
       },
       "artists": [
         {
-          "name": "yama",
-          "url": "https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv"
+          "name": "Ado",
+          "url": "https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl"
         }
       ],
-      "duration_ms": 196497,
-      "name": "Haru wo Tsugeru",
-      "url": "https://open.spotify.com/track/5QseXDzPvtjdeaWNhYbm0m"
+      "duration_ms": 252396,
+      "name": "DIGNITY",
+      "url": "https://open.spotify.com/track/1BDCBbdTDQo3JxC0kVDSqP"
     },
     {
       "added_at": "2023-10-17 15:00:00",
@@ -763,6 +763,22 @@
     {
       "added_at": "2023-10-17 15:00:00",
       "album": {
+        "name": "\u6b8b\u6a5f",
+        "url": "https://open.spotify.com/album/3wGoYoTJhdbkvn7WZpTqz3"
+      },
+      "artists": [
+        {
+          "name": "ZUTOMAYO",
+          "url": "https://open.spotify.com/artist/38WbKH6oKAZskBhqDFA8Uj"
+        }
+      ],
+      "duration_ms": 230066,
+      "name": "\u6b8b\u6a5f",
+      "url": "https://open.spotify.com/track/1XeOqgzh2fZhmgxnmyiIJ8"
+    },
+    {
+      "added_at": "2023-10-17 15:00:00",
+      "album": {
         "name": "\u98db\u5929",
         "url": "https://open.spotify.com/album/2zSKObXruYrvHWrAN8UOgD"
       },
@@ -779,22 +795,6 @@
       "duration_ms": 183692,
       "name": "\u98db\u5929",
       "url": "https://open.spotify.com/track/6MId4xKGdUNhndCtpZC4Bl"
-    },
-    {
-      "added_at": "2023-10-17 15:00:00",
-      "album": {
-        "name": "\u6b8b\u6a5f",
-        "url": "https://open.spotify.com/album/3wGoYoTJhdbkvn7WZpTqz3"
-      },
-      "artists": [
-        {
-          "name": "ZUTOMAYO",
-          "url": "https://open.spotify.com/artist/38WbKH6oKAZskBhqDFA8Uj"
-        }
-      ],
-      "duration_ms": 230066,
-      "name": "\u6b8b\u6a5f",
-      "url": "https://open.spotify.com/track/1XeOqgzh2fZhmgxnmyiIJ8"
     },
     {
       "added_at": "2023-10-17 15:00:00",

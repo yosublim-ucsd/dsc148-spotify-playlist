@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVCk2se27jFX.md) - [plain]
 
 > ¡Las propuestas independientes que marcan el sonido de Colombia! Foto: Armenia
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,918 likes - 100 songs - 6 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 30,923 likes - 100 songs - 6 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,7 +25,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVCk2se27jFX.md) - [plain]
 | 15 | [Canto de Abrigo](https://open.spotify.com/track/2wClYWrYLcJ4IPYvPoCSiA) | [Margarita Siempre Viva](https://open.spotify.com/artist/2XNJ1dXD5AjaHZTSM7qPlH) | [Un Lugar Más Cierto](https://open.spotify.com/album/55zE2uof8VlS0kZgUNDULu) | 3:28 |
 | 16 | [Quiero Verte Así](https://open.spotify.com/track/1i9wjyXgsdGFbY8ZeRaThL) | [Pablo Trujillo](https://open.spotify.com/artist/69zb17Y0bpZAvvhHjLddpb), [Soy Emilia](https://open.spotify.com/artist/09MCzRiOuz48BY0imXgFFM) | [Quiero Verte Así](https://open.spotify.com/album/1IOjKmdCCz7Ci6ZRnv2b3j) | 3:04 |
 | 17 | [Nada](https://open.spotify.com/track/5ihtr3hVJJ7GWgagDiyf1i) | [Lido Pimienta](https://open.spotify.com/artist/1IdkKQ9CM1i0wygfxYV4Z3), [Li Saumet](https://open.spotify.com/artist/1hYzHxIYlfYgHXN9DVZaNw) | [Miss Colombia](https://open.spotify.com/album/6H6MZ54B5FLBLXXxWGEl7y) | 4:58 |
-| 18 | [No Tengo Tiempo](https://open.spotify.com/track/0J5PXybiNqoNQrethIsoDX) | [Armenia](https://open.spotify.com/artist/4FmrAtWfKHAIysakSpmatx) | [No Tengo Tiempo](https://open.spotify.com/album/3QYc5uXxdDb6NpSIl9FUyV) | 2:50 |
+| 18 | [No Tengo Tiempo](https://open.spotify.com/track/7hmvkFDZGMLaRyHMBySatI) | [Armenia](https://open.spotify.com/artist/4FmrAtWfKHAIysakSpmatx) | [ARMN](https://open.spotify.com/album/5ZKQlMu308fEdUEOYXUjIp) | 2:50 |
 | 19 | [Canciones Malas](https://open.spotify.com/track/4ZMMi7OXlsFvVy46tYELoW) | [llilli](https://open.spotify.com/artist/4QXDj9kt5lBanHAtDi6yK0) | [Canciones Malas](https://open.spotify.com/album/2i3j45Ej54awAJRivfvUWi) | 4:42 |
 | 20 | [98](https://open.spotify.com/track/3H7oZCSHd0QbV79Ur2wCPZ) | [Juan Pablo Vega](https://open.spotify.com/artist/2PfyKA4qhjkxUVkerTCxz0) | [98](https://open.spotify.com/album/6FIyZQ7DHCY6Jlg3AbrF50) | 3:26 |
 | 21 | [No Fui Solo Yo](https://open.spotify.com/track/1dcK53g1EHNpmWlGvt8Mhf) | [Laura Pérez](https://open.spotify.com/artist/6qkgKoO4G9KfVQZAUs3Q58) | [No Fui Solo Yo](https://open.spotify.com/album/3S79UyK6xDUnMq5N3Nqbio) | 3:22 |
@@ -54,7 +54,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVCk2se27jFX.md) - [plain]
 | 44 | [Bien](https://open.spotify.com/track/3WLeXmLujC9lnlT44aTvGR) | [Ev](https://open.spotify.com/artist/21EczEifDKebasemX58Jp8) | [Okay!](https://open.spotify.com/album/3ZYoorCmWoiAD8DgxrcrTW) | 4:02 |
 | 45 | [Mi Barco](https://open.spotify.com/track/2tNfuHQKqB6uQqrHtp7rbL) | [Margarita Siempre Viva](https://open.spotify.com/artist/2XNJ1dXD5AjaHZTSM7qPlH) | [Mi Barco](https://open.spotify.com/album/1MXWI2ZmGEPPzaFaxXOZnr) | 3:30 |
 | 46 | [Depresión Post Paisaje](https://open.spotify.com/track/5Tfp3OVEfK3T72KpmeUJn0) | [Margarita Siempre Viva](https://open.spotify.com/artist/2XNJ1dXD5AjaHZTSM7qPlH) | [Depresión Post Paisaje](https://open.spotify.com/album/2VRK0z4cDzzCUztX5IhlSu) | 3:06 |
-| 47 | [Gracias](https://open.spotify.com/track/6urnTHBHzPOSEJEcizWtdP) | [Armenia](https://open.spotify.com/artist/4FmrAtWfKHAIysakSpmatx) | [Gracias](https://open.spotify.com/album/2k6yadCB56vXo4ilupU3JB) | 4:05 |
+| 47 | [Gracias](https://open.spotify.com/track/2KiB4g5suCd59wsRcK5MGV) | [Armenia](https://open.spotify.com/artist/4FmrAtWfKHAIysakSpmatx) | [Gracias](https://open.spotify.com/album/7sCA211xdHDaKj3TdFkyPD) | 4:12 |
 | 48 | [Noche Humana](https://open.spotify.com/track/4wIHtjnkzcbH7LzdiOJOza) | [Paula Pera y el fin de los Tiempos](https://open.spotify.com/artist/5zuGV6u9UobNW3KPGXui6o) | [Noche Humana](https://open.spotify.com/album/1nvhPWn8HYsiOmeJ8OTniK) | 3:20 |
 | 49 | [Tarantinero](https://open.spotify.com/track/1KxUzY6eWEKsXmZ6fjv1GC) | [LosPetitFellas](https://open.spotify.com/artist/0KuSKX95imv2ymBDqrixLv), [Juan Pablo Vega](https://open.spotify.com/artist/2PfyKA4qhjkxUVkerTCxz0) | [777: A Quemarropa](https://open.spotify.com/album/231YzqIbLQ9ddB3fsVSRDg) | 4:37 |
 | 50 | [Professional Coffee Drinker](https://open.spotify.com/track/4C1PCMPyGHRdwLsp3rFv4C) | [The Riverman](https://open.spotify.com/artist/2mh5dGS6AWdga9P6tTcwKe), [Ana Naranja](https://open.spotify.com/artist/2nTGMPHzQvrJKH2j1LSQiq), [Charlie Atomic](https://open.spotify.com/artist/5omIhK9kyWmjJjTVQfcfoZ) | [Professional Coffee Drinker](https://open.spotify.com/album/3LMbEpI7ANy5EgGcf5pa5I) | 3:47 |
@@ -63,12 +63,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVCk2se27jFX.md) - [plain]
 | 53 | [Deja](https://open.spotify.com/track/70um118ETgSKTghQNF9iEC) | [Bomba Estéreo](https://open.spotify.com/artist/5n9bMYfz9qss2VOW89EVs2) | [Agua](https://open.spotify.com/album/37RnWMoZSgAtUKLmeslblE) | 3:50 |
 | 54 | [Ámbar](https://open.spotify.com/track/5xfqvQKlmZwC6aGbsW95w6) | [Encarta 98](https://open.spotify.com/artist/28Am1s75o5KAGaAwCQ22mv), [Mr\. Bleat](https://open.spotify.com/artist/4s30l2MADdxxpZbsNNCgCb) | [Lo Que Extrañas Ya No Existe](https://open.spotify.com/album/5Bp8NLfEfGAaXoTYjFvShH) | 3:28 |
 | 55 | [Sigo](https://open.spotify.com/track/55zNzKBlbbSBMKmeDAuq3I) | [Ana Sanz](https://open.spotify.com/artist/1wFieEqzZtcjkSIHtVk2YD) | [Sigo](https://open.spotify.com/album/3Zrd8cJji2EZsKcO4loQ6K) | 3:19 |
-| 56 | [Grita](https://open.spotify.com/track/5hHnZ2ty9FpXiFen169sfk) | [Armenia](https://open.spotify.com/artist/4FmrAtWfKHAIysakSpmatx) | [Grita](https://open.spotify.com/album/3tPjavyWfJ5TBihaEZQeGq) | 3:38 |
-| 57 | [A Veces Llueve](https://open.spotify.com/track/51B2bgAzdvUTAJDj7hqu9x) | [Armenia](https://open.spotify.com/artist/4FmrAtWfKHAIysakSpmatx) | [A Veces Llueve](https://open.spotify.com/album/5rurzOzhocMrsNFBcM8Hma) | 3:13 |
+| 56 | [Grita](https://open.spotify.com/track/5MeHgKJfpKJd2awO1T5gCl) | [Armenia](https://open.spotify.com/artist/4FmrAtWfKHAIysakSpmatx) | [Grita \- II](https://open.spotify.com/album/4z8CUoe6p3VIQewnjGJB10) | 3:38 |
+| 57 | [A Veces Llueve](https://open.spotify.com/track/5psSJW6SH7sgcspg1ejO63) | [Armenia](https://open.spotify.com/artist/4FmrAtWfKHAIysakSpmatx) | [Grita \- II](https://open.spotify.com/album/4z8CUoe6p3VIQewnjGJB10) | 3:12 |
 | 58 | [Fine Line En Tu Habitación](https://open.spotify.com/track/4AgudkNxMoJaGtAyOJHFFe) | [Luis Aguirre](https://open.spotify.com/artist/2GgVRZoZbteN3wXsqJ7uEB) | [Fine Line En Tu Habitación](https://open.spotify.com/album/1jSd3glxPGcli80ZEm4KpW) | 3:00 |
 | 59 | [Apología de una Amigdala Inflamada](https://open.spotify.com/track/34sNFlKyNs9IjmdUttxtWA) | [Margarita Siempre Viva](https://open.spotify.com/artist/2XNJ1dXD5AjaHZTSM7qPlH) | [Apología de una Amigdala Inflamada](https://open.spotify.com/album/5LEInPf0wx6Z0zvKkI72PQ) | 2:32 |
 | 60 | [Nómada](https://open.spotify.com/track/2J4drmgsDr6u7EP3DvyN9A) | [La Banda del Bisonte](https://open.spotify.com/artist/363z8t8XMXCozcLQorLiPD), [La Muchacha](https://open.spotify.com/artist/74IAICxWfYBsjabuEbKQXV) | [Nómada](https://open.spotify.com/album/4tUaCFfhnftL5Eg6li46K6) | 4:47 |
-| 61 | [El Tiempo](https://open.spotify.com/track/0ZjqSrxzjeMgLHqt1MMUXZ) | [Armenia](https://open.spotify.com/artist/4FmrAtWfKHAIysakSpmatx) | [El Tiempo](https://open.spotify.com/album/65ZckEqURmbSH42Sf8aHTQ) | 4:19 |
+| 61 | [El Tiempo](https://open.spotify.com/track/2Fofr3MUi6NXUjO3xb9CjK) | [Armenia](https://open.spotify.com/artist/4FmrAtWfKHAIysakSpmatx) | [Grita \- II](https://open.spotify.com/album/4z8CUoe6p3VIQewnjGJB10) | 4:19 |
 | 62 | [Joderlo Todo](https://open.spotify.com/track/1G93uVHCm8fegsmYKCsJTA) | [Juan Pablo Vega](https://open.spotify.com/artist/2PfyKA4qhjkxUVkerTCxz0) | [Joderlo Todo](https://open.spotify.com/album/3a5u1dS9MeqrQtSLqrXxrs) | 3:47 |
 | 63 | [Estar Bien](https://open.spotify.com/track/1PQltLG8NezKxaW3cWAM57) | [Soy Emilia](https://open.spotify.com/artist/09MCzRiOuz48BY0imXgFFM) | [Expuesta](https://open.spotify.com/album/0jMDCpaptqMNvwuAJvHz9B) | 3:24 |
 | 64 | [Frases de Cajón](https://open.spotify.com/track/2W4QtfDipNdvOdbLe5oLZv) | [Los Makenzy](https://open.spotify.com/artist/2H4hhmZnat1J12EI1u4N0s) | [Frases de Cajón](https://open.spotify.com/album/0qYPw5RN4g5z5j82QL8riF) | 4:03 |
@@ -80,7 +80,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVCk2se27jFX.md) - [plain]
 | 70 | [Piel](https://open.spotify.com/track/2Ak8AtgLD5XVH9MM8TEbBr) | [Sebastián Silva](https://open.spotify.com/artist/2y6RIOPS6ABYXhQ7kWugMu) | [Piel](https://open.spotify.com/album/1LYJicG4kuAtOxBM0C1rIy) | 3:32 |
 | 71 | [Nostalgia Cliché](https://open.spotify.com/track/6w2eyyQPHJQbAXmNZw7aJq) | [Chamo](https://open.spotify.com/artist/5WpP6hj7KfBJVId206LBwH) | [Nostalgia Cliché](https://open.spotify.com/album/6vlKYLwTv4LaI8dYxYLJni) | 2:17 |
 | 72 | [el cielo no es de nadie \- Edit](https://open.spotify.com/track/1pY4lWKYXLGqcSql0CzDuy) | [Ela Minus](https://open.spotify.com/artist/4rdJkXHNrMgowlwUdQAg8T) | [el cielo no es de nadie](https://open.spotify.com/album/2NzNIhJKRGCuPWfAJtUUCL) | 3:41 |
-| 73 | [Ay Corazón \(Silencio\)](https://open.spotify.com/track/4g4kww73ZByg6RDDfo4uuC) | [Armenia](https://open.spotify.com/artist/4FmrAtWfKHAIysakSpmatx) | [Ay Corazón \(Silencio\)](https://open.spotify.com/album/6O6QViA34eNzHl5WAwUES2) | 3:52 |
+| 73 | [Ay Corazón \(Silencio\)](https://open.spotify.com/track/0Uoaj7pmqMYVxpYwHKTV11) | [Armenia](https://open.spotify.com/artist/4FmrAtWfKHAIysakSpmatx) | [Ay Corazón \(Silencio\)](https://open.spotify.com/album/7GeisNK4XEOs2bLjjDARCx) | 3:52 |
 | 74 | [El Deporte](https://open.spotify.com/track/1xY1yvRMR4ePGumwPpFO7V) | [NERDS](https://open.spotify.com/artist/7Fl0E3KQtGAOl6TKRVssXP) | [El Deporte](https://open.spotify.com/album/3sJmGwj9cfFNjaMB9N9ksl) | 3:45 |
 | 75 | [Corte Superior](https://open.spotify.com/track/15ydTyKE48KnZlAbJRQdMJ) | [Pablo Trujillo](https://open.spotify.com/artist/69zb17Y0bpZAvvhHjLddpb) | [Corte Superior](https://open.spotify.com/album/07LYLQ1wwl1sjSZTebfpDG) | 3:56 |
 | 76 | [Canción en Clave](https://open.spotify.com/track/3BrHIDAlNrr55cWrxPcu0n) | [Linda Habitante](https://open.spotify.com/artist/1ScqCsRxUAJtM53bdy0BBE) | [Canción en Clave](https://open.spotify.com/album/0S4SzCRygdnujfaNimHWlg) | 3:26 |
@@ -100,7 +100,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVCk2se27jFX.md) - [plain]
 | 90 | [En el Mar](https://open.spotify.com/track/1jm6grp2AKH1FGkD5Xf0dD) | [Oh'laville](https://open.spotify.com/artist/5uDxyttOUh6KJic2MFbwQ7), [Juan Pablo Vega](https://open.spotify.com/artist/2PfyKA4qhjkxUVkerTCxz0) | [En el Mar](https://open.spotify.com/album/2iY7sXF0MJjtpfvRXkXU1X) | 3:44 |
 | 91 | [Tuami](https://open.spotify.com/track/1UbSaStuc69LXMOTQhlEtS) | [Soy Emilia](https://open.spotify.com/artist/09MCzRiOuz48BY0imXgFFM) | [Tuami](https://open.spotify.com/album/5szk65Ovv0G5VYInwORa3k) | 3:06 |
 | 92 | [Ya No Importa](https://open.spotify.com/track/1FkrSRXKb8kg4eUf4stNyU) | [Not Berlin](https://open.spotify.com/artist/6uM2ZMwwaTYmWmTTM223GR) | [Ya No Importa](https://open.spotify.com/album/7jTAmzvhohcdBv3ATeC81W) | 4:12 |
-| 93 | [Algún Contexto](https://open.spotify.com/track/3VthvpD7tsAm5lybsXWXX1) | [Armenia](https://open.spotify.com/artist/4FmrAtWfKHAIysakSpmatx) | [Armenia](https://open.spotify.com/album/4tT3ltCmgXpxtVuYTWN1bm) | 2:54 |
+| 93 | [Algún Contexto](https://open.spotify.com/track/3CYJKHDRMB1gk3AZPluwe6) | [Armenia](https://open.spotify.com/artist/4FmrAtWfKHAIysakSpmatx) | [Armenia](https://open.spotify.com/album/1YNwE2V9vCmI66drR0swHr) | 2:54 |
 | 94 | [Odebrecht](https://open.spotify.com/track/4xUO5mZzFCqrjCCIGW17Gk) | [Aguas Ardientes](https://open.spotify.com/artist/1eAywdgupRbvrEXW2PCzAc) | [Odebrecht](https://open.spotify.com/album/3kaM5FLz3mOlYKtjZnjBFs) | 3:57 |
 | 95 | [Atalanta](https://open.spotify.com/track/7AgebD5Roub1tcCP8ceOja) | [NERDS](https://open.spotify.com/artist/7Fl0E3KQtGAOl6TKRVssXP) | [Atalanta](https://open.spotify.com/album/0g6SujRzpoDxrCKdUFoxgg) | 6:00 |
 | 96 | [Manos al Fuego](https://open.spotify.com/track/3oGlMejab90xmaoizmkdHe) | [Lika Nova](https://open.spotify.com/artist/7MXtSubvSLMgfnnVkJrKoy) | [No Hay Mal Que Dure una Vida](https://open.spotify.com/album/5VLrQqAQRhUIYSiAE1HxEd) | 3:52 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVCk2se27jFX.md) - [plain]
 | 99 | [Salvavidas](https://open.spotify.com/track/26sncSwReSsEXl5CxS1hMX) | [Aerophon](https://open.spotify.com/artist/6nfNQvqechLUJaFHYAciep), [Juan Pablo Vega](https://open.spotify.com/artist/2PfyKA4qhjkxUVkerTCxz0) | [Horizonte](https://open.spotify.com/album/5JZJDct3WLX67mhEfJOJiZ) | 4:11 |
 | 100 | [Luces Neón](https://open.spotify.com/track/3Y8EuhwZ6LdGi3leKQHBXZ) | [Cohetes](https://open.spotify.com/artist/2GufoITj4S642hU8qARWyQ) | [Luces Neón](https://open.spotify.com/album/1e4X4ReVQErGDwchkE34sN) | 3:47 |
 
-Snapshot ID: `MCwwMGMxZjNhODYzMDU1MDM2N2ZhZDlmMTE2Y2ZlNmJhMzkyODYzYmE5`
+Snapshot ID: `MCw1NWRmMjY5Zjk5OWViYTcyMTRmN2EyODA2Zjc5OGM3ZTM2MDk0MDc0`

@@ -1,12 +1,12 @@
 {
   "description": "House music lives here. United under one roof, featuring Mau P.",
-  "num_followers": 1899559,
+  "num_followers": 1899834,
   "original_name": "Housewerk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxZDcxOTBkZWQxOTc2YWMzZTE4YzlmYjRmZWRjZjMzMjMyODY2NDc1",
+  "snapshot_id": "MCwxOGRjMzIxZWViN2JjMzAzNzU5NDgxMDYzYjQ1MjA1OTBkY2E5ZTI3",
   "tracks": [
     {
       "added_at": "2023-10-13 04:00:00",
@@ -975,22 +975,6 @@
     {
       "added_at": "2023-10-13 04:00:00",
       "album": {
-        "name": "Lose My Mind",
-        "url": "https://open.spotify.com/album/4lSzteItXYPqDJNTMOVnX6"
-      },
-      "artists": [
-        {
-          "name": "Jamie Jones",
-          "url": "https://open.spotify.com/artist/4admDxmnri5Zco0xYrJ0ji"
-        }
-      ],
-      "duration_ms": 181935,
-      "name": "Lose My Mind",
-      "url": "https://open.spotify.com/track/5cJZzpcqdwkUvD2f88wcgS"
-    },
-    {
-      "added_at": "2023-10-13 04:00:00",
-      "album": {
         "name": "Drums (Feat. Kim Petras)",
         "url": "https://open.spotify.com/album/5Xs1g4UOOm6NBk4cSxyl2M"
       },
@@ -1011,6 +995,22 @@
     {
       "added_at": "2023-10-13 04:00:00",
       "album": {
+        "name": "Lose My Mind",
+        "url": "https://open.spotify.com/album/4lSzteItXYPqDJNTMOVnX6"
+      },
+      "artists": [
+        {
+          "name": "Jamie Jones",
+          "url": "https://open.spotify.com/artist/4admDxmnri5Zco0xYrJ0ji"
+        }
+      ],
+      "duration_ms": 181935,
+      "name": "Lose My Mind",
+      "url": "https://open.spotify.com/track/5cJZzpcqdwkUvD2f88wcgS"
+    },
+    {
+      "added_at": "2023-10-13 04:00:00",
+      "album": {
         "name": "Billie (loving arms)",
         "url": "https://open.spotify.com/album/31Hp4DhmlXKmIx3BeaFak1"
       },
@@ -1023,6 +1023,26 @@
       "duration_ms": 217265,
       "name": "Billie (loving arms)",
       "url": "https://open.spotify.com/track/46E2xeKBLrxS8hJ37Gq35G"
+    },
+    {
+      "added_at": "2023-10-13 04:00:00",
+      "album": {
+        "name": "Can't Play Myself (A Tribute To Amy)",
+        "url": "https://open.spotify.com/album/4dIIRxQJD8krCBjlEBDX35"
+      },
+      "artists": [
+        {
+          "name": "Skepta",
+          "url": "https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN"
+        },
+        {
+          "name": "Amy Winehouse",
+          "url": "https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR"
+        }
+      ],
+      "duration_ms": 174330,
+      "name": "Can't Play Myself (A Tribute To Amy)",
+      "url": "https://open.spotify.com/track/6GrLwf1LdBCmkBOsmOcbPp"
     },
     {
       "added_at": "2023-10-13 04:00:00",
@@ -1091,26 +1111,6 @@
       "duration_ms": 210562,
       "name": "Food for the Soul",
       "url": "https://open.spotify.com/track/7u0fz3V6cYeYTX91DMmIvQ"
-    },
-    {
-      "added_at": "2023-10-13 04:00:00",
-      "album": {
-        "name": "Can't Play Myself (A Tribute To Amy)",
-        "url": "https://open.spotify.com/album/4dIIRxQJD8krCBjlEBDX35"
-      },
-      "artists": [
-        {
-          "name": "Skepta",
-          "url": "https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN"
-        },
-        {
-          "name": "Amy Winehouse",
-          "url": "https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR"
-        }
-      ],
-      "duration_ms": 174330,
-      "name": "Can't Play Myself (A Tribute To Amy)",
-      "url": "https://open.spotify.com/track/6GrLwf1LdBCmkBOsmOcbPp"
     },
     {
       "added_at": "2023-10-13 04:00:00",
@@ -1255,22 +1255,6 @@
     {
       "added_at": "2023-10-13 04:00:00",
       "album": {
-        "name": "All Night Long",
-        "url": "https://open.spotify.com/album/6v4ZkEMI1Q20fX4Yrg7d2v"
-      },
-      "artists": [
-        {
-          "name": "Chris Stussy",
-          "url": "https://open.spotify.com/artist/3BxjasMelf9pKaE4f7Y0So"
-        }
-      ],
-      "duration_ms": 234525,
-      "name": "All Night Long",
-      "url": "https://open.spotify.com/track/7b4twDZXjQf8gyQGSvySZd"
-    },
-    {
-      "added_at": "2023-10-13 04:00:00",
-      "album": {
         "name": "Jacar\u00e9",
         "url": "https://open.spotify.com/album/6tVrvnbU1sLGGegMIEYexO"
       },
@@ -1283,6 +1267,22 @@
       "duration_ms": 156620,
       "name": "Jacar\u00e9",
       "url": "https://open.spotify.com/track/1WY17VGE4rQjsyWi1Tw3be"
+    },
+    {
+      "added_at": "2023-10-13 04:00:00",
+      "album": {
+        "name": "All Night Long",
+        "url": "https://open.spotify.com/album/6v4ZkEMI1Q20fX4Yrg7d2v"
+      },
+      "artists": [
+        {
+          "name": "Chris Stussy",
+          "url": "https://open.spotify.com/artist/3BxjasMelf9pKaE4f7Y0So"
+        }
+      ],
+      "duration_ms": 234525,
+      "name": "All Night Long",
+      "url": "https://open.spotify.com/track/7b4twDZXjQf8gyQGSvySZd"
     },
     {
       "added_at": "2023-10-13 04:00:00",
@@ -1359,22 +1359,6 @@
     {
       "added_at": "2023-10-13 04:00:00",
       "album": {
-        "name": "Candy",
-        "url": "https://open.spotify.com/album/6re4JcyBsSuYZNm6V3Jl1m"
-      },
-      "artists": [
-        {
-          "name": "Torren Foot",
-          "url": "https://open.spotify.com/artist/7lQOxDl96wmNoqGoW4kgv4"
-        }
-      ],
-      "duration_ms": 195241,
-      "name": "Candy",
-      "url": "https://open.spotify.com/track/2aiy3gAjU8yynkrbpEVQm9"
-    },
-    {
-      "added_at": "2023-10-13 04:00:00",
-      "album": {
         "name": "Sweat",
         "url": "https://open.spotify.com/album/4dRC0egvzhZSS1eJpVEBH7"
       },
@@ -1387,6 +1371,22 @@
       "duration_ms": 159047,
       "name": "Sweat",
       "url": "https://open.spotify.com/track/5hbJxniiD9BWis6Nsf7HA8"
+    },
+    {
+      "added_at": "2023-10-13 04:00:00",
+      "album": {
+        "name": "Candy",
+        "url": "https://open.spotify.com/album/6re4JcyBsSuYZNm6V3Jl1m"
+      },
+      "artists": [
+        {
+          "name": "Torren Foot",
+          "url": "https://open.spotify.com/artist/7lQOxDl96wmNoqGoW4kgv4"
+        }
+      ],
+      "duration_ms": 195241,
+      "name": "Candy",
+      "url": "https://open.spotify.com/track/2aiy3gAjU8yynkrbpEVQm9"
     },
     {
       "added_at": "2023-10-13 04:00:00",
@@ -1507,26 +1507,6 @@
     {
       "added_at": "2023-10-13 04:00:00",
       "album": {
-        "name": "Lose Control",
-        "url": "https://open.spotify.com/album/1PFrNTi1e8CLXZMZtKP8EB"
-      },
-      "artists": [
-        {
-          "name": "Tujamo",
-          "url": "https://open.spotify.com/artist/2vVNxGBvKRQMWwI5c8KmYh"
-        },
-        {
-          "name": "Sick Individuals",
-          "url": "https://open.spotify.com/artist/0XqFDQJjqW5PfhfBCb53LR"
-        }
-      ],
-      "duration_ms": 170668,
-      "name": "Lose Control",
-      "url": "https://open.spotify.com/track/6rKg4cUeuUOvWhPOwhQRtX"
-    },
-    {
-      "added_at": "2023-10-13 04:00:00",
-      "album": {
         "name": "what we had was real",
         "url": "https://open.spotify.com/album/0mAxfupLpuSvfiHeaerkBV"
       },
@@ -1563,6 +1543,26 @@
       "duration_ms": 203225,
       "name": "To Be Real",
       "url": "https://open.spotify.com/track/7GpiRvevDAkR3lDH5AxNwT"
+    },
+    {
+      "added_at": "2023-10-13 04:00:00",
+      "album": {
+        "name": "Lose Control",
+        "url": "https://open.spotify.com/album/1PFrNTi1e8CLXZMZtKP8EB"
+      },
+      "artists": [
+        {
+          "name": "Tujamo",
+          "url": "https://open.spotify.com/artist/2vVNxGBvKRQMWwI5c8KmYh"
+        },
+        {
+          "name": "Sick Individuals",
+          "url": "https://open.spotify.com/artist/0XqFDQJjqW5PfhfBCb53LR"
+        }
+      ],
+      "duration_ms": 170668,
+      "name": "Lose Control",
+      "url": "https://open.spotify.com/track/6rKg4cUeuUOvWhPOwhQRtX"
     },
     {
       "added_at": "2023-10-13 04:00:00",
@@ -1727,6 +1727,22 @@
     {
       "added_at": "2023-10-13 04:00:00",
       "album": {
+        "name": "Other Side",
+        "url": "https://open.spotify.com/album/58HGBPnIEFhg9y7BbLqmKc"
+      },
+      "artists": [
+        {
+          "name": "Azzecca",
+          "url": "https://open.spotify.com/artist/2k5DY2QDU3kBi5DX7OQlWj"
+        }
+      ],
+      "duration_ms": 244337,
+      "name": "Other Side",
+      "url": "https://open.spotify.com/track/6gLDnzjpM0AwOeh9NmmHE0"
+    },
+    {
+      "added_at": "2023-10-13 04:00:00",
+      "album": {
         "name": "Gas Pedal (Kyle Watson Remix)",
         "url": "https://open.spotify.com/album/6FlRWTqRzIsZNZdERYLlhg"
       },
@@ -1771,22 +1787,6 @@
     {
       "added_at": "2023-10-13 04:00:00",
       "album": {
-        "name": "Other Side",
-        "url": "https://open.spotify.com/album/58HGBPnIEFhg9y7BbLqmKc"
-      },
-      "artists": [
-        {
-          "name": "Azzecca",
-          "url": "https://open.spotify.com/artist/2k5DY2QDU3kBi5DX7OQlWj"
-        }
-      ],
-      "duration_ms": 244337,
-      "name": "Other Side",
-      "url": "https://open.spotify.com/track/6gLDnzjpM0AwOeh9NmmHE0"
-    },
-    {
-      "added_at": "2023-10-13 04:00:00",
-      "album": {
         "name": "Bucovina 2023",
         "url": "https://open.spotify.com/album/6bXo2rgz9XgOZEaSctxNDm"
       },
@@ -1803,6 +1803,22 @@
       "duration_ms": 187205,
       "name": "Bucovina 2023",
       "url": "https://open.spotify.com/track/0gCbPAMhtXptfzsUCac5La"
+    },
+    {
+      "added_at": "2023-10-13 04:00:00",
+      "album": {
+        "name": "All In My Head",
+        "url": "https://open.spotify.com/album/5XOshXQLbsax7zxKwMYS3F"
+      },
+      "artists": [
+        {
+          "name": "BKAYE",
+          "url": "https://open.spotify.com/artist/1GrQQZ7U31WfQPQbd3MHx9"
+        }
+      ],
+      "duration_ms": 153750,
+      "name": "All In My Head",
+      "url": "https://open.spotify.com/track/0bTcsfvvELwAupgm0DxhjK"
     },
     {
       "added_at": "2023-10-13 04:00:00",
@@ -1827,22 +1843,6 @@
       "duration_ms": 215000,
       "name": "Feel Like Makin' Love (feat. Roberta Flack)",
       "url": "https://open.spotify.com/track/1cFZIDLjGngrmH6lnyprOA"
-    },
-    {
-      "added_at": "2023-10-13 04:00:00",
-      "album": {
-        "name": "All In My Head",
-        "url": "https://open.spotify.com/album/5XOshXQLbsax7zxKwMYS3F"
-      },
-      "artists": [
-        {
-          "name": "BKAYE",
-          "url": "https://open.spotify.com/artist/1GrQQZ7U31WfQPQbd3MHx9"
-        }
-      ],
-      "duration_ms": 153750,
-      "name": "All In My Head",
-      "url": "https://open.spotify.com/track/0bTcsfvvELwAupgm0DxhjK"
     },
     {
       "added_at": "2023-10-13 04:00:00",
@@ -1975,6 +1975,26 @@
     {
       "added_at": "2023-10-13 04:00:00",
       "album": {
+        "name": "No Sleep (6AM) (feat. MERYLL)",
+        "url": "https://open.spotify.com/album/4UwWfFDYZcjQRnS9Rv94Ro"
+      },
+      "artists": [
+        {
+          "name": "Matroda",
+          "url": "https://open.spotify.com/artist/45lcbTsX07JWzmTIjcdyBz"
+        },
+        {
+          "name": "MERYLL",
+          "url": "https://open.spotify.com/artist/4pqY01dGuzojomnVCXYbXC"
+        }
+      ],
+      "duration_ms": 146195,
+      "name": "No Sleep (6AM) (feat. MERYLL)",
+      "url": "https://open.spotify.com/track/2hpoG18R8aBXB3O5QmheJt"
+    },
+    {
+      "added_at": "2023-10-13 04:00:00",
+      "album": {
         "name": "Dummy \u2013 Chris Lake Remix",
         "url": "https://open.spotify.com/album/6XqbzujsQpFewramig6kUM"
       },
@@ -2011,26 +2031,6 @@
       "duration_ms": 191013,
       "name": "Pose",
       "url": "https://open.spotify.com/track/5LBemsCrsGqsXSGYA8i2z6"
-    },
-    {
-      "added_at": "2023-10-13 04:00:00",
-      "album": {
-        "name": "No Sleep (6AM) (feat. MERYLL)",
-        "url": "https://open.spotify.com/album/4UwWfFDYZcjQRnS9Rv94Ro"
-      },
-      "artists": [
-        {
-          "name": "Matroda",
-          "url": "https://open.spotify.com/artist/45lcbTsX07JWzmTIjcdyBz"
-        },
-        {
-          "name": "MERYLL",
-          "url": "https://open.spotify.com/artist/4pqY01dGuzojomnVCXYbXC"
-        }
-      ],
-      "duration_ms": 146195,
-      "name": "No Sleep (6AM) (feat. MERYLL)",
-      "url": "https://open.spotify.com/track/2hpoG18R8aBXB3O5QmheJt"
     },
     {
       "added_at": "2023-10-13 04:00:00",
@@ -2115,22 +2115,6 @@
     {
       "added_at": "2023-10-13 04:00:00",
       "album": {
-        "name": "Your Mother",
-        "url": "https://open.spotify.com/album/3mEkKriilkzliPrmhaIxo5"
-      },
-      "artists": [
-        {
-          "name": "Salvatore Ganacci",
-          "url": "https://open.spotify.com/artist/5PdkRVDASsw6P7QoqRpz0F"
-        }
-      ],
-      "duration_ms": 195452,
-      "name": "Your Mother",
-      "url": "https://open.spotify.com/track/2ICEB6VvX5OAGTxwo6F55t"
-    },
-    {
-      "added_at": "2023-10-13 04:00:00",
-      "album": {
         "name": "Deep Inside Of Me",
         "url": "https://open.spotify.com/album/0mxRqyRNmZk6KgOfLrF9jA"
       },
@@ -2151,6 +2135,22 @@
       "duration_ms": 187500,
       "name": "Deep Inside Of Me",
       "url": "https://open.spotify.com/track/2Ri0Qu7xCrxLRviLC2wo6x"
+    },
+    {
+      "added_at": "2023-10-13 04:00:00",
+      "album": {
+        "name": "Your Mother",
+        "url": "https://open.spotify.com/album/3mEkKriilkzliPrmhaIxo5"
+      },
+      "artists": [
+        {
+          "name": "Salvatore Ganacci",
+          "url": "https://open.spotify.com/artist/5PdkRVDASsw6P7QoqRpz0F"
+        }
+      ],
+      "duration_ms": 195452,
+      "name": "Your Mother",
+      "url": "https://open.spotify.com/track/2ICEB6VvX5OAGTxwo6F55t"
     },
     {
       "added_at": "2023-10-13 04:00:00",
@@ -2191,6 +2191,26 @@
     {
       "added_at": "2023-10-13 04:00:00",
       "album": {
+        "name": "Better (feat. Jena)",
+        "url": "https://open.spotify.com/album/2qVbAXSd8LPX9MU1nsVC4i"
+      },
+      "artists": [
+        {
+          "name": "Ferreck Dawn",
+          "url": "https://open.spotify.com/artist/3cnAJv9gydgm52KFIsdvO8"
+        },
+        {
+          "name": "Jena",
+          "url": "https://open.spotify.com/artist/5C4eCUR6V0Kbdn8g0y390j"
+        }
+      ],
+      "duration_ms": 172904,
+      "name": "Better (feat. Jena)",
+      "url": "https://open.spotify.com/track/1lvgae0nTxj1ZPl4VfO9gv"
+    },
+    {
+      "added_at": "2023-10-13 04:00:00",
+      "album": {
         "name": "NaNa Djon",
         "url": "https://open.spotify.com/album/7KdQWUPPttUm3qza9X44AA"
       },
@@ -2211,26 +2231,6 @@
       "duration_ms": 161520,
       "name": "NaNa Djon",
       "url": "https://open.spotify.com/track/3skLTalxT8tnSHC9qzKU9E"
-    },
-    {
-      "added_at": "2023-10-13 04:00:00",
-      "album": {
-        "name": "Better (feat. Jena)",
-        "url": "https://open.spotify.com/album/2qVbAXSd8LPX9MU1nsVC4i"
-      },
-      "artists": [
-        {
-          "name": "Ferreck Dawn",
-          "url": "https://open.spotify.com/artist/3cnAJv9gydgm52KFIsdvO8"
-        },
-        {
-          "name": "Jena",
-          "url": "https://open.spotify.com/artist/5C4eCUR6V0Kbdn8g0y390j"
-        }
-      ],
-      "duration_ms": 172904,
-      "name": "Better (feat. Jena)",
-      "url": "https://open.spotify.com/track/1lvgae0nTxj1ZPl4VfO9gv"
     },
     {
       "added_at": "2023-10-13 04:00:00",
@@ -2295,22 +2295,6 @@
     {
       "added_at": "2023-10-13 04:00:00",
       "album": {
-        "name": "What You Need/Stimulate",
-        "url": "https://open.spotify.com/album/69b4gkbazngcTJQMWLwJit"
-      },
-      "artists": [
-        {
-          "name": "SIDEPIECE",
-          "url": "https://open.spotify.com/artist/5czbzNZZfWpyFgZyfT3Mkk"
-        }
-      ],
-      "duration_ms": 173238,
-      "name": "What You Need",
-      "url": "https://open.spotify.com/track/6XUplgv5tgkebAEieWUPYB"
-    },
-    {
-      "added_at": "2023-10-13 04:00:00",
-      "album": {
         "name": "Dancing At The Disco",
         "url": "https://open.spotify.com/album/2zRVSA2HEm7bVR5R9EjJgt"
       },
@@ -2327,6 +2311,22 @@
       "duration_ms": 194423,
       "name": "Dancing At The Disco",
       "url": "https://open.spotify.com/track/0nAYPzFbosQZ0a60zf88aN"
+    },
+    {
+      "added_at": "2023-10-13 04:00:00",
+      "album": {
+        "name": "What You Need/Stimulate",
+        "url": "https://open.spotify.com/album/69b4gkbazngcTJQMWLwJit"
+      },
+      "artists": [
+        {
+          "name": "SIDEPIECE",
+          "url": "https://open.spotify.com/artist/5czbzNZZfWpyFgZyfT3Mkk"
+        }
+      ],
+      "duration_ms": 173238,
+      "name": "What You Need",
+      "url": "https://open.spotify.com/track/6XUplgv5tgkebAEieWUPYB"
     },
     {
       "added_at": "2023-10-13 04:00:00",
@@ -2371,6 +2371,22 @@
     {
       "added_at": "2023-10-13 04:00:00",
       "album": {
+        "name": "Do You Feel It",
+        "url": "https://open.spotify.com/album/42hJe9FM2aEdJzngH9fb6y"
+      },
+      "artists": [
+        {
+          "name": "Biscits",
+          "url": "https://open.spotify.com/artist/052B9SONfhoScw7dgYWw5o"
+        }
+      ],
+      "duration_ms": 186625,
+      "name": "Do You Feel It",
+      "url": "https://open.spotify.com/track/0lnnhM1bIUT3jzvB0jt2pV"
+    },
+    {
+      "added_at": "2023-10-13 04:00:00",
+      "album": {
         "name": "Maracuya",
         "url": "https://open.spotify.com/album/1WdOhzT6Wc46jKegklKBgp"
       },
@@ -2407,22 +2423,6 @@
       "duration_ms": 202800,
       "name": "Levitate",
       "url": "https://open.spotify.com/track/3m53COQuUirTyVx0YoM9q0"
-    },
-    {
-      "added_at": "2023-10-13 04:00:00",
-      "album": {
-        "name": "Do You Feel It",
-        "url": "https://open.spotify.com/album/42hJe9FM2aEdJzngH9fb6y"
-      },
-      "artists": [
-        {
-          "name": "Biscits",
-          "url": "https://open.spotify.com/artist/052B9SONfhoScw7dgYWw5o"
-        }
-      ],
-      "duration_ms": 186625,
-      "name": "Do You Feel It",
-      "url": "https://open.spotify.com/track/0lnnhM1bIUT3jzvB0jt2pV"
     }
   ],
   "unique_name": "Housewerk",

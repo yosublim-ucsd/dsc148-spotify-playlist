@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OxnjWYRVU0.md) - [plain]
 
 > New takes on old classics!
 
-[Spotify](https://open.spotify.com/user/spotify) - 396,502 likes - 356 songs - 15 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 396,666 likes - 356 songs - 15 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -170,7 +170,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OxnjWYRVU0.md) - [plain]
 | 160 | [That Way \(feat\. Chris Crone\)](https://open.spotify.com/track/4M9HS9CMxVtQ7xK1MTHTFc) | [VINAI](https://open.spotify.com/artist/4mrBetqy378Jf1y6NLszlx), [VAMERO](https://open.spotify.com/artist/74GrV01oFcjJdLHCF9MWhr), [Chris Crone](https://open.spotify.com/artist/4GrH6djlMelZDucxke8WAk) | [That Way \(feat\. Chris Crone\)](https://open.spotify.com/album/7oExHqAK6BIj0gtwCRPU9K) | 2:26 |
 | 161 | [Shooting Darts \(with R3HAB & Prezioso\)](https://open.spotify.com/track/5yj8QDJ967St7PUG7sFD0n) | [Dimitri Vegas & Like Mike](https://open.spotify.com/artist/73jBynjsVtofjRpdpRAJGk), [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ), [Prezioso](https://open.spotify.com/artist/3iMzbvXlgNUpoFccD60bvr) | [Shooting Darts \(with R3HAB & Prezioso\)](https://open.spotify.com/album/27b3Ufr52LTyphs8s3PEZB) | 2:32 |
 | 162 | [7 rings](https://open.spotify.com/track/0YplKJH6w8wbsNt9dvNgxG) | [JOZUA](https://open.spotify.com/artist/3EkGRCAQ0KI05WeNPwUWaU), [DJSM](https://open.spotify.com/artist/13qjHQyFpjR48hBIbPrwMx) | [7 rings](https://open.spotify.com/album/0DxMTRUbJ2xl5yeQik3J9c) | 2:25 |
-| 163 | [Calabria \(feat\. Fallen Roses, Lujavo & Lunis\)](https://open.spotify.com/track/3M89zvwwb1jtDUDKYNsdiA) | [Dance Fruits Music](https://open.spotify.com/artist/3HphLd0XiELTvIPYf55dYC), [DMNDS](https://open.spotify.com/artist/0U3b0BjITtQHwjwBVtiGcO), [Fallen Roses](https://open.spotify.com/artist/5I6WLC9Auo6aeTRHPQbdOv), [Lunis](https://open.spotify.com/artist/1YjaVTeHBlVRRxbk7H30HN), [Lujavo](https://open.spotify.com/artist/5QCGlnijOcNxsXXNzZkcWL) | [Calabria \(feat\. Fallen Roses, Lujavo & Lunis\)](https://open.spotify.com/album/29lm3KjzCeCV07CHGT8R7n) | 2:08 |
+| 163 | [Calabria \(feat\. Fallen Roses, Lujavo & Lunis\)](https://open.spotify.com/track/1rENS47PLnO8c7WIjRCD46) | [Dance Fruits Music](https://open.spotify.com/artist/3HphLd0XiELTvIPYf55dYC), [DMNDS](https://open.spotify.com/artist/0U3b0BjITtQHwjwBVtiGcO), [Fallen Roses](https://open.spotify.com/artist/5I6WLC9Auo6aeTRHPQbdOv), [Lunis](https://open.spotify.com/artist/1YjaVTeHBlVRRxbk7H30HN), [Lujavo](https://open.spotify.com/artist/5QCGlnijOcNxsXXNzZkcWL) | [Summer Hits 2023](https://open.spotify.com/album/2yvOcQ8ZZvOKntENMFBrbI) | 2:08 |
 | 164 | [Smells Like Teen Spirit](https://open.spotify.com/track/5slUv8dP0D6dNjOss3fJPm) | [Sagan](https://open.spotify.com/artist/5JHw3zW4kgwIZlh33geR1K), [okafuwa](https://open.spotify.com/artist/34MSwSLRID464bAqEzGrFj) | [Smells Like Teen Spirit](https://open.spotify.com/album/4Pgm72dYq4FnTUVug7Mv7m) | 3:30 |
 | 165 | [Because the Night](https://open.spotify.com/track/2W6U50n6jNXgWihU2Ayg0h) | [SUD](https://open.spotify.com/artist/7ecUintnJKHsDyZT1qOPYZ), [Behmer](https://open.spotify.com/artist/6UZvJbrEJxkycbgUznMIF9) | [Because the Night](https://open.spotify.com/album/1ZQIN2O7BgysARQZrodYxU) | 2:37 |
 | 166 | [The Climb](https://open.spotify.com/track/3yBZZbOkz7UYR450t3RGhR) | [Jerome](https://open.spotify.com/artist/4xcDVatLFh6qlcm41er3LV), [LANNÉ](https://open.spotify.com/artist/0K3HwnyYaxoQO9hZCBLtOH) | [The Climb](https://open.spotify.com/album/09pcL53vThSiOXi3wrVvkJ) | 2:37 |
@@ -365,4 +365,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OxnjWYRVU0.md) - [plain]
 | 355 | [Never Gonna Give You Up](https://open.spotify.com/track/4dJYjR2lM6SmYfLw2mnHvb) | [RadioClub](https://open.spotify.com/artist/55VEENeFJiaUCpKJQkHarb) | [Never Gonna Give You Up](https://open.spotify.com/album/5OFnJusx08l3GHN4Y9VgGj) | 2:45 |
 | 356 | [Gimme Gimme Gimme \(a man after midnight\)](https://open.spotify.com/track/0Tp3sIeg6YsqDbRyjYWNUu) | [Syzz](https://open.spotify.com/artist/5qQTwkRWNaZngwkU1CPmYJ) | [Gimme Gimme Gimme \(a man after midnight\)](https://open.spotify.com/album/11ZI2tdT8PX0k93wK434Jb) | 2:32 |
 
-Snapshot ID: `MCwyYzE4OWVjNWJlMjc0ZTgxNWVhNWQwN2M2Njc5MzY5NDNkODBlZmQ1`
+Snapshot ID: `MCxkZDBhMDhlZjY1MTE1ZjRkYzY3MGM3NmZiZWE3YmY5OTg2MDAxODBh`

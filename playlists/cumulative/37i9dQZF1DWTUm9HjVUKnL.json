@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-25",
-  "description": "The full collection of Spotify Singles recordings. Cover: Bad Snacks.\nFeeling inspired? Check out Bad Snacks' exclusive sound pack for <a href=\u201chttps://www.soundtrap.com/\u201d>Soundtrap, </a>  Spotify\u2019s online music studio for songwriters and beat makers. \n",
+  "description": "The full collection of Spotify Singles recordings. Cover: Sabrina Carpenter",
   "name": "Spotify Singles: Complete Collection",
   "tracks": [
     {
@@ -5283,6 +5283,24 @@
     },
     {
       "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/2kJnIPJHIRZlfOx0TZEKBP"
+      },
+      "artists": [
+        {
+          "name": "Sabrina Carpenter",
+          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
+        }
+      ],
+      "date_added": "2023-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185452,
+      "name": "Feather - Spotify Singles",
+      "url": "https://open.spotify.com/track/2l6lCBL8egSBfL4ih4KtKk"
+    },
+    {
+      "album": {
         "name": "spotify singles",
         "url": "https://open.spotify.com/album/4TXQYn8IgpqEsCsvSXiHTC"
       },
@@ -8468,6 +8486,24 @@
       "duration_ms": 247102,
       "name": "I Just Called to Say I Love You - Recorded at RCA Studio A, Nashville",
       "url": "https://open.spotify.com/track/605rBHHOx8pF5kCEC2RDag"
+    },
+    {
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/2kJnIPJHIRZlfOx0TZEKBP"
+      },
+      "artists": [
+        {
+          "name": "Sabrina Carpenter",
+          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
+        }
+      ],
+      "date_added": "2023-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233617,
+      "name": "I Knew You Were Trouble - Spotify Singles",
+      "url": "https://open.spotify.com/track/30QYxvXOJZhGBF6DvpNb8w"
     },
     {
       "album": {
@@ -16484,6 +16520,24 @@
     {
       "album": {
         "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/2rIrWq7n4FrnDwEyIUlBpJ"
+      },
+      "artists": [
+        {
+          "name": "Allison Russell",
+          "url": "https://open.spotify.com/artist/3JBmecDGXTll46ygrnGTM6"
+        }
+      ],
+      "date_added": "2023-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213149,
+      "name": "Stay Right Here - Spotify Singles",
+      "url": "https://open.spotify.com/track/0C8b1WyFkUFyHlztkWAGwq"
+    },
+    {
+      "album": {
+        "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/7xPNSOtnXFMOsTnvQrLeXH"
       },
       "artists": [
@@ -16988,6 +17042,28 @@
       "duration_ms": 262642,
       "name": "Take Me Home, Country Road - Recorded at Spotify Studios NYC",
       "url": "https://open.spotify.com/track/0iAJ5J7hGRnaY3zWXACbws"
+    },
+    {
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/2rIrWq7n4FrnDwEyIUlBpJ"
+      },
+      "artists": [
+        {
+          "name": "Allison Russell",
+          "url": "https://open.spotify.com/artist/3JBmecDGXTll46ygrnGTM6"
+        },
+        {
+          "name": "Resistance Revival Chorus",
+          "url": "https://open.spotify.com/artist/5GAZngXqtUrssaaExOGeT1"
+        }
+      ],
+      "date_added": "2023-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270264,
+      "name": "Take Me To Church - Spotify Singles",
+      "url": "https://open.spotify.com/track/0fVQEAJzB0WDLgS28zbECm"
     },
     {
       "album": {
@@ -17593,6 +17669,28 @@
     },
     {
       "album": {
+        "name": "The View from Halfway Down - Spotify Singles",
+        "url": "https://open.spotify.com/album/3QkNtvuYPRwaDFyoRZpc4Z"
+      },
+      "artists": [
+        {
+          "name": "Jhariah",
+          "url": "https://open.spotify.com/artist/5iMYu8Sj8dZEDsWJxSFwPP"
+        },
+        {
+          "name": "Henry\u00a0D'Arthenay",
+          "url": "https://open.spotify.com/artist/25Dx0mB7FWXFxNjsYVfcCL"
+        }
+      ],
+      "date_added": "2023-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230145,
+      "name": "The View from Halfway Down - Spotify Singles",
+      "url": "https://open.spotify.com/track/1fXMYWziD0nr4YbfT9bM7s"
+    },
+    {
+      "album": {
         "name": "The View From Halfway Down - Spotify Singles",
         "url": "https://open.spotify.com/album/1S08DnwybFOPu8wswBn5gj"
       },
@@ -17608,7 +17706,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-19",
       "duration_ms": 230145,
       "name": "The View From Halfway Down - Spotify Singles",
       "url": "https://open.spotify.com/track/3E4gPkcqnyaAnv1nrdukwp"

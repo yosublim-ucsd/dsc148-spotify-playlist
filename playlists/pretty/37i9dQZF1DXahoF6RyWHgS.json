@@ -1,12 +1,12 @@
 {
   "description": "\u00a1A preparar la comida con la saz\u00f3n de m\u00fasica rica y antig\u00fcita!",
-  "num_followers": 40176,
+  "num_followers": 40210,
   "original_name": "Cocina Tradicional",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1MWM0MzI5OTVmYTkzYzljNmZhYjE1Y2FiOTY2ZWY3NTYwNDdiMmJm",
+  "snapshot_id": "MCw3ZTBiMjQxNzEyYTRjNmZlM2RjZjk2ODE0ZDU0ODI1ZjRhNmZlMjJi",
   "tracks": [
     {
       "added_at": "2020-05-28 20:45:13",
@@ -301,6 +301,22 @@
       "url": "https://open.spotify.com/track/139kwDhYiXDKr1qSmnIXOD"
     },
     {
+      "added_at": "2020-05-28 20:45:13",
+      "album": {
+        "name": "Caja de M\u00fasica (Edici\u00f3n Especial)",
+        "url": "https://open.spotify.com/album/75lParfrGxiexJOFlDh94X"
+      },
+      "artists": [
+        {
+          "name": "Monsieur Perin\u00e9",
+          "url": "https://open.spotify.com/artist/36KsCCwgI0Dep97yVJWmkK"
+        }
+      ],
+      "duration_ms": 254480,
+      "name": "Cempas\u00fachil",
+      "url": "https://open.spotify.com/track/6i5K4Mxce8t9AT1RWxuiG5"
+    },
+    {
       "added_at": "2022-01-11 03:10:29",
       "album": {
         "name": "Kiko",
@@ -315,6 +331,22 @@
       "duration_ms": 215560,
       "name": "Kiko and the Lavender Moon",
       "url": "https://open.spotify.com/track/2JxHZfZM0ysnwPDefDl8Mz"
+    },
+    {
+      "added_at": "2023-04-12 23:58:01",
+      "album": {
+        "name": "Sue\u00f1o EP",
+        "url": "https://open.spotify.com/album/3Ss0rghY7VI1gFuzqEKhKR"
+      },
+      "artists": [
+        {
+          "name": "Malphino",
+          "url": "https://open.spotify.com/artist/1hWJbIVGfYRmwRgmM6HFij"
+        }
+      ],
+      "duration_ms": 231013,
+      "name": "Octopus",
+      "url": "https://open.spotify.com/track/0DiWyh4VhRKg6VXqcaVA0o"
     },
     {
       "added_at": "2020-05-28 20:45:13",
@@ -343,38 +375,6 @@
       "duration_ms": 274826,
       "name": "Yerbero Moderno",
       "url": "https://open.spotify.com/track/49ARQi1FGSN7ZT13VTAOYf"
-    },
-    {
-      "added_at": "2023-04-12 23:58:01",
-      "album": {
-        "name": "Sue\u00f1o EP",
-        "url": "https://open.spotify.com/album/3Ss0rghY7VI1gFuzqEKhKR"
-      },
-      "artists": [
-        {
-          "name": "Malphino",
-          "url": "https://open.spotify.com/artist/1hWJbIVGfYRmwRgmM6HFij"
-        }
-      ],
-      "duration_ms": 231013,
-      "name": "Octopus",
-      "url": "https://open.spotify.com/track/0DiWyh4VhRKg6VXqcaVA0o"
-    },
-    {
-      "added_at": "2020-05-28 20:45:13",
-      "album": {
-        "name": "Caja de M\u00fasica (Edici\u00f3n Especial)",
-        "url": "https://open.spotify.com/album/75lParfrGxiexJOFlDh94X"
-      },
-      "artists": [
-        {
-          "name": "Monsieur Perin\u00e9",
-          "url": "https://open.spotify.com/artist/36KsCCwgI0Dep97yVJWmkK"
-        }
-      ],
-      "duration_ms": 254480,
-      "name": "Cempas\u00fachil",
-      "url": "https://open.spotify.com/track/6i5K4Mxce8t9AT1RWxuiG5"
     },
     {
       "added_at": "2020-05-28 20:45:13",
@@ -645,22 +645,6 @@
       "url": "https://open.spotify.com/track/6UWyXar79tNp3vaUlQNsiW"
     },
     {
-      "added_at": "2022-01-11 03:10:29",
-      "album": {
-        "name": "Coraz\u00f3n De Mel\u00f3n",
-        "url": "https://open.spotify.com/album/7vN2pXl35jihF5vLGrK0JB"
-      },
-      "artists": [
-        {
-          "name": "Hermanas Ben\u00edtez",
-          "url": "https://open.spotify.com/artist/67P9zHn7NV6r6bADkkr1TG"
-        }
-      ],
-      "duration_ms": 130658,
-      "name": "Coraz\u00f3n De Mel\u00f3n",
-      "url": "https://open.spotify.com/track/4lwhl74qt01u3U9ZOiQh3s"
-    },
-    {
       "added_at": "2020-05-28 20:45:13",
       "album": {
         "name": "Tijuana Sessions Vol. 3",
@@ -675,6 +659,22 @@
       "duration_ms": 224133,
       "name": "Tengo La Voz",
       "url": "https://open.spotify.com/track/3MVUADKwucn7BoLq73cbE6"
+    },
+    {
+      "added_at": "2022-01-11 03:10:29",
+      "album": {
+        "name": "Coraz\u00f3n De Mel\u00f3n",
+        "url": "https://open.spotify.com/album/7vN2pXl35jihF5vLGrK0JB"
+      },
+      "artists": [
+        {
+          "name": "Hermanas Ben\u00edtez",
+          "url": "https://open.spotify.com/artist/67P9zHn7NV6r6bADkkr1TG"
+        }
+      ],
+      "duration_ms": 130658,
+      "name": "Coraz\u00f3n De Mel\u00f3n",
+      "url": "https://open.spotify.com/track/4lwhl74qt01u3U9ZOiQh3s"
     },
     {
       "added_at": "2022-01-11 03:10:29",
@@ -1217,6 +1217,22 @@
       "url": "https://open.spotify.com/track/52ZaEmQXC9AtnZb4xUNNoC"
     },
     {
+      "added_at": "2022-01-11 03:10:29",
+      "album": {
+        "name": "La Fiesta",
+        "url": "https://open.spotify.com/album/1QN51TxHmv1PzCnBKm90HM"
+      },
+      "artists": [
+        {
+          "name": "Hern\u00e1n Gamboa",
+          "url": "https://open.spotify.com/artist/1X4pmZhaFxmit30AOxFpaL"
+        }
+      ],
+      "duration_ms": 187813,
+      "name": "Moliendo Caf\u00e9 - Ritmo Orquidea",
+      "url": "https://open.spotify.com/track/2hAZYHPp6JLzLNRMdC3lPP"
+    },
+    {
       "added_at": "2020-05-28 20:45:13",
       "album": {
         "name": "The Complete 78's, Vol. 4 (1949 - 1955)",
@@ -1247,22 +1263,6 @@
       "duration_ms": 283746,
       "name": "Pulque",
       "url": "https://open.spotify.com/track/3rZpBdMoAhoOGuduKZfDmW"
-    },
-    {
-      "added_at": "2022-01-11 03:10:29",
-      "album": {
-        "name": "La Fiesta",
-        "url": "https://open.spotify.com/album/1QN51TxHmv1PzCnBKm90HM"
-      },
-      "artists": [
-        {
-          "name": "Hern\u00e1n Gamboa",
-          "url": "https://open.spotify.com/artist/1X4pmZhaFxmit30AOxFpaL"
-        }
-      ],
-      "duration_ms": 187813,
-      "name": "Moliendo Caf\u00e9 - Ritmo Orquidea",
-      "url": "https://open.spotify.com/track/2hAZYHPp6JLzLNRMdC3lPP"
     },
     {
       "added_at": "2022-01-11 03:10:29",
@@ -1427,22 +1427,6 @@
     {
       "added_at": "2020-05-28 20:45:13",
       "album": {
-        "name": "Tastes Like L.A.",
-        "url": "https://open.spotify.com/album/1PbmMKMsXwEC9S0I6YrMG6"
-      },
-      "artists": [
-        {
-          "name": "Las Cafeteras",
-          "url": "https://open.spotify.com/artist/2AeRVFWlYSW9zMUGULjPpz"
-        }
-      ],
-      "duration_ms": 235934,
-      "name": "Paletero",
-      "url": "https://open.spotify.com/track/7g0zc1QNXmrg44wpki6C6n"
-    },
-    {
-      "added_at": "2020-05-28 20:45:13",
-      "album": {
         "name": "Trio Nuevomexicano",
         "url": "https://open.spotify.com/album/2BhVhNFrWNjkcYGSstwY5b"
       },
@@ -1455,6 +1439,22 @@
       "duration_ms": 239213,
       "name": "La Xochipitzahuatl",
       "url": "https://open.spotify.com/track/7pu8bUkiBOS3pHo8rAscBu"
+    },
+    {
+      "added_at": "2020-05-28 20:45:13",
+      "album": {
+        "name": "Tastes Like L.A.",
+        "url": "https://open.spotify.com/album/1PbmMKMsXwEC9S0I6YrMG6"
+      },
+      "artists": [
+        {
+          "name": "Las Cafeteras",
+          "url": "https://open.spotify.com/artist/2AeRVFWlYSW9zMUGULjPpz"
+        }
+      ],
+      "duration_ms": 235934,
+      "name": "Paletero",
+      "url": "https://open.spotify.com/track/7g0zc1QNXmrg44wpki6C6n"
     },
     {
       "added_at": "2022-01-11 03:10:29",
@@ -1607,22 +1607,6 @@
     {
       "added_at": "2022-01-11 03:10:29",
       "album": {
-        "name": "Tropid\u00e9lico",
-        "url": "https://open.spotify.com/album/2VBt7XqrvUKqKGDtxEoghS"
-      },
-      "artists": [
-        {
-          "name": "The Quantic Soul Orchestra",
-          "url": "https://open.spotify.com/artist/12ZOHgIYkZiwd9w9F7I83e"
-        }
-      ],
-      "duration_ms": 257786,
-      "name": "Regi Bugal\u00fa (Bugalu)",
-      "url": "https://open.spotify.com/track/68Rb4XkOch4lhKtlD4fHHq"
-    },
-    {
-      "added_at": "2022-01-11 03:10:29",
-      "album": {
         "name": "Maremagnum",
         "url": "https://open.spotify.com/album/6G4MYxWPCyBbWsQ1cPh6ul"
       },
@@ -1635,6 +1619,22 @@
       "duration_ms": 259013,
       "name": "Los Sabores Del Porro",
       "url": "https://open.spotify.com/track/7mJ2WDNjByJ1Ncqa8NjRJH"
+    },
+    {
+      "added_at": "2022-01-11 03:10:29",
+      "album": {
+        "name": "Tropid\u00e9lico",
+        "url": "https://open.spotify.com/album/2VBt7XqrvUKqKGDtxEoghS"
+      },
+      "artists": [
+        {
+          "name": "The Quantic Soul Orchestra",
+          "url": "https://open.spotify.com/artist/12ZOHgIYkZiwd9w9F7I83e"
+        }
+      ],
+      "duration_ms": 257786,
+      "name": "Regi Bugal\u00fa (Bugalu)",
+      "url": "https://open.spotify.com/track/68Rb4XkOch4lhKtlD4fHHq"
     },
     {
       "added_at": "2022-01-11 03:10:29",

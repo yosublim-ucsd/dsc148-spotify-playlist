@@ -4,18 +4,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY90iCJMKual.md) - [plain]
 
 > vibe out w some 🇵🇭 R&B Cover: Lo ki
 
-[Spotify](https://open.spotify.com/user/spotify) - 60,630 likes - 50 songs - 2 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 60,713 likes - 50 songs - 2 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Owshi](https://open.spotify.com/track/0NMaaPbphbwWwC46u1L8c3) | [Lo ki](https://open.spotify.com/artist/1dFRlDO2Z2gjAARxHlovAS) | [Owshi](https://open.spotify.com/album/4nMZ5cOSMwMUFrEMFIczpT) | 3:20 |
-| 2 | [Sabik](https://open.spotify.com/track/6vMDpwwkfsvSIsH6EVOgWz) | [DENȲ](https://open.spotify.com/artist/2Q2uIXpaRSH3Or0oT5nFXR), [Arthur Nery](https://open.spotify.com/artist/7uDdl5V5AETSFY7K3muu22) | [LOVES7AGE](https://open.spotify.com/album/69ewkNFbekxjGlMyc5kCYQ) | 4:54 |
-| 3 | [butterflies](https://open.spotify.com/track/30qPjijrLuNwcGD00Rdj07) | [Denise Julia](https://open.spotify.com/artist/3L1qgTsUqavkiygkIKfWJD) | [butterflies](https://open.spotify.com/album/28yz3AHpQ40A1GXQfE5qSv) | 3:32 |
-| 4 | [INAANTAY](https://open.spotify.com/track/0xtHhG8bodSM13Y6f62dqy) | [Allegra](https://open.spotify.com/artist/4yW3zpc71yAWvetCxsE9nU), [Iggy Napoles](https://open.spotify.com/artist/5W3GwQT1NcWLptNoNmGCEQ) | [INAANTAY](https://open.spotify.com/album/2YF3kn9QLYp9ClqQDabhwL) | 2:52 |
+| 1 | [INAANTAY](https://open.spotify.com/track/0xtHhG8bodSM13Y6f62dqy) | [Allegra](https://open.spotify.com/artist/4yW3zpc71yAWvetCxsE9nU), [Iggy Napoles](https://open.spotify.com/artist/5W3GwQT1NcWLptNoNmGCEQ) | [INAANTAY](https://open.spotify.com/album/2YF3kn9QLYp9ClqQDabhwL) | 2:52 |
+| 2 | [Owshi](https://open.spotify.com/track/0NMaaPbphbwWwC46u1L8c3) | [Lo ki](https://open.spotify.com/artist/1dFRlDO2Z2gjAARxHlovAS) | [Owshi](https://open.spotify.com/album/4nMZ5cOSMwMUFrEMFIczpT) | 3:20 |
+| 3 | [Sayo Lamang](https://open.spotify.com/track/5Qf7Rx5Mpvs95k1Inotcfa) | [Lipip](https://open.spotify.com/artist/4NslYs4dIwJjyAmfak2Yc2) | [Sayo Lamang](https://open.spotify.com/album/1BE5KW5Pk2Y6Xz7qzhRvyh) | 3:04 |
+| 4 | [Sabik](https://open.spotify.com/track/6vMDpwwkfsvSIsH6EVOgWz) | [DENȲ](https://open.spotify.com/artist/2Q2uIXpaRSH3Or0oT5nFXR), [Arthur Nery](https://open.spotify.com/artist/7uDdl5V5AETSFY7K3muu22) | [LOVES7AGE](https://open.spotify.com/album/69ewkNFbekxjGlMyc5kCYQ) | 4:54 |
 | 5 | [my bad](https://open.spotify.com/track/3pNF853kMhVlJvlnDu2ImB) | [Termula](https://open.spotify.com/artist/7L5fW1cU8MtB8geMfEFPtE) | [my bad](https://open.spotify.com/album/5sJF9sBGpdn1p7BMNB7oR7) | 3:12 |
-| 6 | [Sayo Lamang](https://open.spotify.com/track/5Qf7Rx5Mpvs95k1Inotcfa) | [Lipip](https://open.spotify.com/artist/4NslYs4dIwJjyAmfak2Yc2) | [Sayo Lamang](https://open.spotify.com/album/1BE5KW5Pk2Y6Xz7qzhRvyh) | 3:04 |
-| 7 | [IDWTEXTUBABY](https://open.spotify.com/track/5qCBvYAAU36yMNlWocpWsJ) | [KINDRED](https://open.spotify.com/artist/20bisCfPMhrXJH4Wv5lmh1) | [IDWTEXTUBABY](https://open.spotify.com/album/2KRM2qkoin6x6INQsC3k16) | 6:46 |
-| 8 | [Better Off](https://open.spotify.com/track/4s4QkYp0sibED8wbtfYF7P) | [primo.io](https://open.spotify.com/artist/4sG37eH4v8Oi8nReR52YCB) | [Better Off](https://open.spotify.com/album/793UfdFfIk78iuqygFNlJ9) | 2:46 |
+| 6 | [butterflies](https://open.spotify.com/track/30qPjijrLuNwcGD00Rdj07) | [Denise Julia](https://open.spotify.com/artist/3L1qgTsUqavkiygkIKfWJD) | [butterflies](https://open.spotify.com/album/28yz3AHpQ40A1GXQfE5qSv) | 3:32 |
+| 7 | [Better Off](https://open.spotify.com/track/4s4QkYp0sibED8wbtfYF7P) | [primo.io](https://open.spotify.com/artist/4sG37eH4v8Oi8nReR52YCB) | [Better Off](https://open.spotify.com/album/793UfdFfIk78iuqygFNlJ9) | 2:46 |
+| 8 | [IDWTEXTUBABY](https://open.spotify.com/track/5qCBvYAAU36yMNlWocpWsJ) | [KINDRED](https://open.spotify.com/artist/20bisCfPMhrXJH4Wv5lmh1) | [IDWTEXTUBABY](https://open.spotify.com/album/2KRM2qkoin6x6INQsC3k16) | 6:46 |
 | 9 | [Mood Swings](https://open.spotify.com/track/5n40E9H40UX8b11g1y2D7o) | [Jnske](https://open.spotify.com/artist/0uD1WQbTE0pNDiJe0iGEaU) | [Mood Swings](https://open.spotify.com/album/3hTb5O25Vx6QZsBs7eILkD) | 3:22 |
 | 10 | [Dare You](https://open.spotify.com/track/2HLCZ1OJCd3uRd5o5btDNW) | [Kiana V](https://open.spotify.com/artist/1DZGAZcaTA32eLJELEsjXY) | [Dare You](https://open.spotify.com/album/1IkwnBsMi80pYR6hHLUMZO) | 2:56 |
 | 11 | [Patid](https://open.spotify.com/track/4dOIWeYQpPI9NM6ThxRDWj) | [Johann Regaya](https://open.spotify.com/artist/3PID0KJW9zSuISzVtbBBpJ) | [Patid](https://open.spotify.com/album/3japR74Iy2UKN0ldaGf9em) | 4:07 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY90iCJMKual.md) - [plain]
 | 49 | [MANATILI](https://open.spotify.com/track/1Zfwa2mECtqzy3fd97kNm5) | [Alisson Shore](https://open.spotify.com/artist/4HPuFCMUiNcV4f3ew0flbZ) | [MANATILI](https://open.spotify.com/album/0RMKf66jtbEHpk5tskbfws) | 2:42 |
 | 50 | [Co\-Pilot](https://open.spotify.com/track/3q2Sp5xZP5nvBbmIQTxvYA) | [Just Hush](https://open.spotify.com/artist/3KovZIDNYgQY8chiNZo2ZF), [JOLO](https://open.spotify.com/artist/1r5cXPqjg3R4Q1FpKG1UJs), [Rjay Ty](https://open.spotify.com/artist/6LCHWj94a1aMMGf3L3CVhx) | [Flight School Era](https://open.spotify.com/album/0DL6JoUUC5rYlexcZFACeN) | 4:10 |
 
-Snapshot ID: `MCw3MGZmYjc1MDc1NTAyZjNkZDM0NDEyMDgwODhiOWJlNWFiNTNlODZj`
+Snapshot ID: `MCw0Yjg1YTU5MjJjY2Q3Njg3ZjljZjIxNTUyOTcyNTJjNWQwZjZiMGRl`

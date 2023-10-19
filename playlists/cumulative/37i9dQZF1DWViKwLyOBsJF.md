@@ -4,7 +4,7 @@
 
 > Traditional carols and hymns for a classic Christmas feeling.
 
-81 songs - 3 hr 42 min
+82 songs - 3 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -57,8 +57,9 @@
 | [Let All Mortal Flesh Keep Silence](https://open.spotify.com/track/7KaqgncCU5AuJyZeA7CGne) | [Alstad](https://open.spotify.com/artist/3WPVCzLStWkPPaGQKJMVkr) | [Let All Mortal Flesh Keep Silence](https://open.spotify.com/album/5NEoedZHX7AuDcrpOZJslv) | 2:44 | 2023-09-27 |  |
 | [Let All Mortal Flesh Keep Silence](https://open.spotify.com/track/5loBbZKs1cj4HTHaLIaTSn) | [Jill Pitz](https://open.spotify.com/artist/0q4Gc8YuoF6mB9RHIi9FDQ), [Marjorie Hanna](https://open.spotify.com/artist/2QYf4fFPNKLq2miKubXR0n) | [The First Noel](https://open.spotify.com/album/123hrI7QAnWUXiZHVgKHca) | 1:59 | 2021-11-19 | 2023-09-28 |
 | [Little Drummer Boy](https://open.spotify.com/track/5XrtgOxGZoczbEdIjCHNJp) | [Michele McLaughlin](https://open.spotify.com/artist/4FtcVLw0u7qvqrJYLHkHZn) | [Christmas \- Plain & Simple II](https://open.spotify.com/album/5iE7AiFYmKjsdUEAcntqX4) | 4:03 | 2021-11-19 |  |
-| [O Come, O Come Emmanuel 2018](https://open.spotify.com/track/0Xy3LwJFQfx7yQRRgdG5Wo) | [Louis Landon](https://open.spotify.com/artist/43Ybg5x9TrGovf70jSMzah) | [O Come, O Come Emmanuel 2018](https://open.spotify.com/album/2XSpLg6Gri2GupXZxP7K6j) | 3:05 | 2021-11-19 |  |
-| [O Come, O Come, Emmanuel](https://open.spotify.com/track/6wxLTjOG4U4rC9CWxGhWxu) | [Hak Huyun Lee](https://open.spotify.com/artist/2VMRqziWudDq6EOm3uId9N) | [X\-Mas](https://open.spotify.com/album/0R1npcMHhQGROweMUdjsp7) | 2:52 | 2021-11-19 |  |
+| [O Come, O Come Emmanuel](https://open.spotify.com/track/0hhFft1zhB30uAOSyw7zS1) | [Stacy Gaffer](https://open.spotify.com/artist/32pd92japrh3yC0QI2AnQt) | [O Come, O Come Emmanuel](https://open.spotify.com/album/2MEUOyPkGaTa0jLxXLksGG) | 2:05 | 2023-10-18 |  |
+| [O Come, O Come Emmanuel 2018](https://open.spotify.com/track/0Xy3LwJFQfx7yQRRgdG5Wo) | [Louis Landon](https://open.spotify.com/artist/43Ybg5x9TrGovf70jSMzah) | [O Come, O Come Emmanuel 2018](https://open.spotify.com/album/2XSpLg6Gri2GupXZxP7K6j) | 3:05 | 2021-11-19 | 2023-10-19 |
+| [O Come, O Come, Emmanuel](https://open.spotify.com/track/6wxLTjOG4U4rC9CWxGhWxu) | [Hak Huyun Lee](https://open.spotify.com/artist/2VMRqziWudDq6EOm3uId9N) | [X\-Mas](https://open.spotify.com/album/0R1npcMHhQGROweMUdjsp7) | 2:52 | 2021-11-19 | 2023-10-19 |
 | [O Little Town Of Bethlehem](https://open.spotify.com/track/6TsGWVS5Rqhq018gkSI31E) | [Michele McLaughlin](https://open.spotify.com/artist/4FtcVLw0u7qvqrJYLHkHZn) | [Christmas \- Plain & Simple II](https://open.spotify.com/album/5iE7AiFYmKjsdUEAcntqX4) | 2:38 | 2021-11-19 |  |
 | [O Tannenbaum](https://open.spotify.com/track/6Ukz90eYOrBGDim8AwnQKN) | [Alexis Ffrench](https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX) | [O Tannenbaum](https://open.spotify.com/album/6rP03vthDDre3UtsE44I1a) | 2:30 | 2022-11-11 | 2022-11-25 |
 | [O Tannenbaum](https://open.spotify.com/track/0X7zX4vhaYLY0Li1zTpfnS) | [Traditional](https://open.spotify.com/artist/1U5zgr455OGyIkLNXvDdrf), [Alexis Ffrench](https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX) | [The Little Drummer Boy](https://open.spotify.com/album/50N8RLcnXHRulPucazKUfE) | 2:30 | 2022-12-05 | 2022-12-16 |

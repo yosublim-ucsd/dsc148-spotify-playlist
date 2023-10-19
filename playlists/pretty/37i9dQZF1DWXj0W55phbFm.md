@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXj0W55phbFm.md) - [plain]
 
 > The classic trumpet players in Jazz\. Cover: Miles Davis
 
-[Spotify](https://open.spotify.com/user/spotify) - 39,484 likes - 100 songs - 10 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 39,545 likes - 100 songs - 10 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,8 +52,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXj0W55phbFm.md) - [plain]
 | 42 | [Migration](https://open.spotify.com/track/5ctycABzd95aWa9tSlYZqP) | [Arve Henriksen](https://open.spotify.com/artist/32pN1An13076I4PTMzn2g7), [Jan Bang](https://open.spotify.com/artist/3GNzfnhVE1aY6fgK403107) | [Cartography](https://open.spotify.com/album/5wuEblqsUnqUQQgTbcVpjP) | 5:41 |
 | 43 | [Blues For Brenda \- 1997 Remastered](https://open.spotify.com/track/1z0PVtIa2c2ydASf2CqEYd) | [Freddie Hubbard](https://open.spotify.com/artist/0fTHKjepK5HWOrb2rkS5Em) | [Goin' Up](https://open.spotify.com/album/0NU6BhJliKCq8jTPvFsTdP) | 6:59 |
 | 44 | [Autumn Leaves](https://open.spotify.com/track/7sCl2yfvZHChasvpuZ4muh) | [Wynton Marsalis](https://open.spotify.com/artist/375zxMmh2cSgUzFFnva0O7) | [Marsalis Standard Time \- Volume I](https://open.spotify.com/album/6tDA8wJvkFgz3UDVW0pXat) | 6:25 |
-| 45 | [Rios Negroes](https://open.spotify.com/track/4oBHXN2elAXMAoFPAejMt4) | [Lester Bowie](https://open.spotify.com/artist/3r0t2sPG17gaUgXDJyJmHf) | [The Great Pretender](https://open.spotify.com/album/1oVcKNbKOPPJOixb4Wfl9Q) | 7:15 |
-| 46 | [If I Love Again \- 2007 Digital Remaster/Rudy Van Gelder Edition](https://open.spotify.com/track/79G0U4pmuiCdxPdOym0REw) | [Thad Jones](https://open.spotify.com/artist/6DbqS0X8cSFOPGsvyze2yh) | [The Magnificent Thad Jones \(Remastered\)](https://open.spotify.com/album/5ZaHEBnWWXSD3zvfiY6pju) | 7:27 |
+| 45 | [If I Love Again \- 2007 Digital Remaster/Rudy Van Gelder Edition](https://open.spotify.com/track/79G0U4pmuiCdxPdOym0REw) | [Thad Jones](https://open.spotify.com/artist/6DbqS0X8cSFOPGsvyze2yh) | [The Magnificent Thad Jones \(Remastered\)](https://open.spotify.com/album/5ZaHEBnWWXSD3zvfiY6pju) | 7:27 |
+| 46 | [Rios Negroes](https://open.spotify.com/track/4oBHXN2elAXMAoFPAejMt4) | [Lester Bowie](https://open.spotify.com/artist/3r0t2sPG17gaUgXDJyJmHf) | [The Great Pretender](https://open.spotify.com/album/1oVcKNbKOPPJOixb4Wfl9Q) | 7:15 |
 | 47 | [Squeaky's Blues](https://open.spotify.com/track/5p80CvVYuscVV6ErkZhjpx) | [Oscar Peterson Trio](https://open.spotify.com/artist/0ldU0QJm31y0d6f57R1G2A), [Clark Terry](https://open.spotify.com/artist/62xdwGEOLoGQxKUqoJusyU) | [Oscar Peterson Trio Plus One](https://open.spotify.com/album/7DOxP9bCymrwtsE3sXZ2rp) | 3:28 |
 | 48 | [Sweet Sue \(Just You\)](https://open.spotify.com/track/3KYlO842OFhn0z2uEjICjh) | [Roy Eldridge](https://open.spotify.com/artist/4RvXA7BDgqNgGDjsSSJnPc) | [The Complete Verve Studio Sessions](https://open.spotify.com/album/7MtvcTxFnvzzhkmRsPiHA2) | 2:28 |
 | 49 | [Easy To Remember](https://open.spotify.com/track/0QKbUoVUNbmxpOaURXiday) | [Roy Hargrove](https://open.spotify.com/artist/49zXTngyUTielHTbbH5YKs) | [Approaching Standards](https://open.spotify.com/album/1OGhqJimAFVAtyX7PKbakD) | 6:09 |
@@ -80,8 +80,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXj0W55phbFm.md) - [plain]
 | 70 | [What Is This Thing Called Love](https://open.spotify.com/track/3zqVCujN4nNryzTCwLGO3G) | [Clifford Brown](https://open.spotify.com/artist/1HJHwWck1EY096ea2iPAHO), [Max Roach Quintet](https://open.spotify.com/artist/6ynifrh6ZrWXHAywnUlNV3), [Sonny Rollins](https://open.spotify.com/artist/1VEzN9lxvG6KPR3QQGsebR) | [Clifford Brown And Max Roach At Basin Street \(Expanded Edition\)](https://open.spotify.com/album/6PuVuJwyxyBZXMz73teSoV) | 7:33 |
 | 71 | [Instigator](https://open.spotify.com/track/6JC9CimuVsxAgnagjelfmL) | [Jon Faddis](https://open.spotify.com/artist/2vDj2N0oq3W44cfteWdMUX) | [Legacy](https://open.spotify.com/album/6wEdZfcDAEMAG8N69N5BHV) | 4:45 |
 | 72 | [Response \- Live](https://open.spotify.com/track/6VDrgdsSZ5Z42KAko100a0) | [Ambrose Akinmusire](https://open.spotify.com/artist/4ai53dgSBGhQwcFtGyY1bF) | [A Rift In Decorum: Live At The Village Vanguard](https://open.spotify.com/album/7JSvfznch1vfoMOJxd7zPb) | 5:37 |
-| 73 | [High Towers](https://open.spotify.com/track/0LU5Zh4KkdZBv0H2ehLBPc) | [Clark Terry](https://open.spotify.com/artist/62xdwGEOLoGQxKUqoJusyU) | [The Happy Horns Of Clark Terry](https://open.spotify.com/album/3Q5uSq6wabddPquHhufrUU) | 3:48 |
-| 74 | [Well You Needn't](https://open.spotify.com/track/59MpeVa3IEFLbaebriC1h4) | [Miles Davis Quartet](https://open.spotify.com/artist/4sQVPSDmfqIxG9W8o2EROX) | [Volume 2 \(Vol\. 2\)](https://open.spotify.com/album/01EFyT5MpC3LYaOzws2Yjv) | 5:22 |
+| 73 | [Well You Needn't](https://open.spotify.com/track/59MpeVa3IEFLbaebriC1h4) | [Miles Davis Quartet](https://open.spotify.com/artist/4sQVPSDmfqIxG9W8o2EROX) | [Volume 2 \(Vol\. 2\)](https://open.spotify.com/album/01EFyT5MpC3LYaOzws2Yjv) | 5:22 |
+| 74 | [High Towers](https://open.spotify.com/track/0LU5Zh4KkdZBv0H2ehLBPc) | [Clark Terry](https://open.spotify.com/artist/62xdwGEOLoGQxKUqoJusyU) | [The Happy Horns Of Clark Terry](https://open.spotify.com/album/3Q5uSq6wabddPquHhufrUU) | 3:48 |
 | 75 | [Tranquillity \- Remastered 1998](https://open.spotify.com/track/0OpBBKn1A98ReYTtspUIfX) | [Howard McGhee](https://open.spotify.com/artist/3z4qqrJqPWfTl9CSUNxb93) | [Howard McGhee: Volume 2 / Tal Farlow Quartet](https://open.spotify.com/album/05EaQrsQQrLM8wmmZRapyg) | 4:10 |
 | 76 | [Let It Ride](https://open.spotify.com/track/1iBzsbnJTL3RoWrv3zAXkE) | [Nicholas Payton](https://open.spotify.com/artist/3cwVFmQ6mcUoGR6ZvIPuZ4) | [Into the Blue](https://open.spotify.com/album/3sKFT6DFw4kMA5DxvhmRjL) | 7:28 |
 | 77 | [Jacob's Ladder](https://open.spotify.com/track/4sdEI4KEYvzon0FkfWvuYA) | [Terence Blanchard](https://open.spotify.com/artist/7IbO8NvxclKsk7WTOZ42bv) | [Magnetic](https://open.spotify.com/album/7lKQFTVYJ30NpxHhYMIA98) | 7:59 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXj0W55phbFm.md) - [plain]
 | 99 | [Jazz Me Blues](https://open.spotify.com/track/7sI3nlaf4N15kPeJnqf01s) | [Tom Delaney](https://open.spotify.com/artist/6aZWicxqUeSZN0IcbRwv74), [Bix Beiderbecke](https://open.spotify.com/artist/3kfbYBrL3MCPAMUwKDRpc7), [Bix Beiderbecke Gang](https://open.spotify.com/artist/6c0g5bgaTZuztsFItdH0wi) | [Beiderbecke, Bix: Bix Lives! \(1926\-1930\)](https://open.spotify.com/album/01az1OLEIgEIRt7bi5Hfnj) | 3:07 |
 | 100 | [Tales For A Girl, 12](https://open.spotify.com/track/6mrCNhpOJF3UuIdT2RB4VR) | [Tomasz Stanko Quartet](https://open.spotify.com/artist/1sP0KjKWioXmkh9vUKb1fP) | [Selected Recordings](https://open.spotify.com/album/58Fk2xFHvOkFaB23hbYEQg) | 9:12 |
 
-Snapshot ID: `MCxjNjgwZmUzMTg5OTdlYzgyMTI3ZjAzNzQzZjYzMjhkMTBiNGM2ODY3`
+Snapshot ID: `MCw4ZWRkMjI1YWNlOWRhOGUxZjExNDBjMDhkYTQ0MTliNTcyM2NkNDVm`

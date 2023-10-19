@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVF0pvJ1YrL7.md) - [plain]
 
 > Chaos in electronic form.
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,312 likes - 50 songs - 3 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,359 likes - 50 songs - 3 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,8 +24,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVF0pvJ1YrL7.md) - [plain]
 | 14 | [Junkie](https://open.spotify.com/track/3WIJ9GLscKxOIG1oszGvFo) | [urika's bedroom](https://open.spotify.com/artist/6LhbOssuAbrXa5Wzcskhhw) | [Junkie](https://open.spotify.com/album/4GcXFLrJYvYYiu9NXV51yg) | 3:36 |
 | 15 | [Vaporware 05](https://open.spotify.com/track/1iB6ug1ikOFFLpGI4Nc5Lv) | [Donato Dozzy](https://open.spotify.com/artist/2LmP2eHIAmprDBQfi4jiBC) | [Plays Bee Mask](https://open.spotify.com/album/7EaPzUAQ1NFESSHaKO0Dlc) | 6:03 |
 | 16 | [0°C](https://open.spotify.com/track/1tnexZBkX24zkjm2s11E8Y) | [Whatever The Weather](https://open.spotify.com/artist/49y4h4GL1qZZ3KwYIb9NfQ) | [Whatever The Weather](https://open.spotify.com/album/1WL4LG5vRVBARp8QI5wA5O) | 4:01 |
-| 17 | [rightclick](https://open.spotify.com/track/4dlFG5cBPJeP2aBKAelWdK) | [Mira Calix](https://open.spotify.com/artist/7yop5VpIW8Wv2l8ReGzbSq) | [utopia](https://open.spotify.com/album/5defpn27uPvw6KeSt1s0gP) | 2:54 |
-| 18 | [Dub Protection](https://open.spotify.com/track/2nonAYGrtN6R6MmzIWwJjf) | [The Diabolical Liberties](https://open.spotify.com/artist/6JZINtp2iR8WoSGngVwsrb), [Emma\-Jean Thackray](https://open.spotify.com/artist/3UgcksTtuB1Jnn8BrisEiC) | [Dub Protection & The Sportswear Mystics](https://open.spotify.com/album/3Aiy2F3rmjJvgEmbOyDf3e) | 5:11 |
+| 17 | [Dub Protection](https://open.spotify.com/track/2nonAYGrtN6R6MmzIWwJjf) | [The Diabolical Liberties](https://open.spotify.com/artist/6JZINtp2iR8WoSGngVwsrb), [Emma\-Jean Thackray](https://open.spotify.com/artist/3UgcksTtuB1Jnn8BrisEiC) | [Dub Protection & The Sportswear Mystics](https://open.spotify.com/album/3Aiy2F3rmjJvgEmbOyDf3e) | 5:11 |
+| 18 | [rightclick](https://open.spotify.com/track/4dlFG5cBPJeP2aBKAelWdK) | [Mira Calix](https://open.spotify.com/artist/7yop5VpIW8Wv2l8ReGzbSq) | [utopia](https://open.spotify.com/album/5defpn27uPvw6KeSt1s0gP) | 2:54 |
 | 19 | [Pfad des Windes](https://open.spotify.com/track/0WgSsCo3zWzkaHY0JlMoi9) | [Wolf Müller](https://open.spotify.com/artist/4VfrssMXmKSDejMWn1eT9D) | [Selectors 002 \- Young Marco](https://open.spotify.com/album/4fxpBVBg2qKcqWP4cQDwS6) | 6:07 |
 | 20 | [Not Not Not](https://open.spotify.com/track/0gReAloAEMGmMftpG64Cfw) | [Kate NV](https://open.spotify.com/artist/1OkYyMwTFtCIl6Jn664Xtx) | [Room For The Moon](https://open.spotify.com/album/5KduXFab1jkKushmutNYbq) | 5:15 |
 | 21 | [Step](https://open.spotify.com/track/5UgO8EHWoyXKo9uGcpiab2) | [Hotel Silk](https://open.spotify.com/artist/2w74NOpyV1hM3L3NrZGLkd) | [Step](https://open.spotify.com/album/3NYrAcJbXmXGZFLjbufmHc) | 7:11 |
@@ -39,8 +39,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVF0pvJ1YrL7.md) - [plain]
 | 29 | [Wild Chamber](https://open.spotify.com/track/64jAqN4KeoMaiX11EXvXF4) | [upsammy](https://open.spotify.com/artist/2orXY2oMFNUtiNrNMDyreV) | [Wild Chamber](https://open.spotify.com/album/7ow4bpiILldUbu975NRIx4) | 4:21 |
 | 30 | [Valve](https://open.spotify.com/track/5fkcStZXAKDbJRqZLbJhXJ) | [Visible Cloaks](https://open.spotify.com/artist/2gqmFO0Wo92qaqwwgL6fZG), [Miyako Koda](https://open.spotify.com/artist/77lGdUDzfWYkQ8kbzcvGDY) | [Reassemblage](https://open.spotify.com/album/5YMsM8N0PVicGhnDiFO3NK) | 3:24 |
 | 31 | [Lost and Found \(Lost Mix\)](https://open.spotify.com/track/0t0hsYPyMuE4siG7GkDded) | [Objekt](https://open.spotify.com/artist/44z1nVVXZE8d4njcQmQLWc) | [Cocoon Crush](https://open.spotify.com/album/2vE3mTa7olXTXbHb6t2XjE) | 2:32 |
-| 32 | [Berries](https://open.spotify.com/track/19g98vnDqahXd7VuPx6LaF) | [Kapitan](https://open.spotify.com/artist/0d1tWd8tcaMhKHn8fHKgY9) | [Alaska](https://open.spotify.com/album/41Kfl8Sn5L2S6blNTeB4lY) | 3:12 |
-| 33 | [Senhor Zalla](https://open.spotify.com/track/2veEIrSGcCszmVKyEuiIVd) | [Shelter](https://open.spotify.com/artist/3k2mZ2vmhiARdgLHAuCkGT) | [Zon Zon Zon](https://open.spotify.com/album/7fUIL0vt55dn93nWfRgBWj) | 5:08 |
+| 32 | [Senhor Zalla](https://open.spotify.com/track/2veEIrSGcCszmVKyEuiIVd) | [Shelter](https://open.spotify.com/artist/3k2mZ2vmhiARdgLHAuCkGT) | [Zon Zon Zon](https://open.spotify.com/album/7fUIL0vt55dn93nWfRgBWj) | 5:08 |
+| 33 | [Berries](https://open.spotify.com/track/19g98vnDqahXd7VuPx6LaF) | [Kapitan](https://open.spotify.com/artist/0d1tWd8tcaMhKHn8fHKgY9) | [Alaska](https://open.spotify.com/album/41Kfl8Sn5L2S6blNTeB4lY) | 3:12 |
 | 34 | [Loba](https://open.spotify.com/track/2Ou5kaMPS1GW0S06y584s3) | [Quixosis](https://open.spotify.com/artist/1kBj1OQBW8iSmYbxIIQgcA) | [Especies Afines](https://open.spotify.com/album/31XwRvy0U28EMB3Yqb6I1g) | 5:48 |
 | 35 | [The Steady Heart](https://open.spotify.com/track/0ZRoGWrVDfK5J6nbZTywr2) | [Kaitlyn Aurelia Smith](https://open.spotify.com/artist/6P86FLVAK4sxu8OhyQJBvH) | [The Mosaic of Transformation](https://open.spotify.com/album/2uacatJeUrWB2Fj3epyMgA) | 5:39 |
 | 36 | [Cradle \- Patience Rework](https://open.spotify.com/track/66Qij0mjaVDgFiaQpQkPY3) | [Lyra Pramuk](https://open.spotify.com/artist/4nIgCJvBTi7M3pFn2ELhxm), [Ben Frost](https://open.spotify.com/artist/6qEM4txXHvfMbOUOK9L7pl) | [Cradle \(Patience Rework\)](https://open.spotify.com/album/2SOtUwtSq0hOOT2X7FtziA) | 5:24 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVF0pvJ1YrL7.md) - [plain]
 | 49 | [New Planet](https://open.spotify.com/track/1oU8JXQGiir9KBnmC46qX8) | [Ford & Lopatin](https://open.spotify.com/artist/3eTOYD8UyQa3MalrtkyKha) | [Channel Pressure](https://open.spotify.com/album/0IukYhktfvsurQ1ojVNs1Z) | 3:22 |
 | 50 | [Coris](https://open.spotify.com/track/1G5b1MCRsBsC9T53vv5SH9) | [OVSICORI](https://open.spotify.com/artist/0MVM5Khj39EkpVtLvU9Ujp) | [Bucle](https://open.spotify.com/album/0e2ihe6UiQ1SL73u98L98b) | 7:00 |
 
-Snapshot ID: `MCw5MmE5NDUxNDM5ZGNkNWM3NDc4N2Y5NTI0OTFkMDAzYWY0YTdjMTA3`
+Snapshot ID: `MCxiY2YxMmU2ZGFjNjZkYmVhNTk5ZWQ0YzAxMWQ1YjU1NjkwMmMxNzA3`

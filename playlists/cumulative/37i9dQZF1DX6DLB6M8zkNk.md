@@ -4,7 +4,7 @@
 
 > POV: you're the main character in a romance novel.
 
-66 songs - 4 hr 0 min
+67 songs - 4 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -67,6 +67,7 @@
 | [The Princess Diaries Waltz \- Score](https://open.spotify.com/track/60vDJQPOMYUkL388zPpuNT) | [John Debney](https://open.spotify.com/artist/7mCsyzq823cXJ5puxUN3aJ) | [The Princess Diaries](https://open.spotify.com/album/5kLlsgivbVFDYAngLjfEZZ) | 2:09 | 2022-02-14 | 2023-08-19 |
 | [Theme \- From "Emma"](https://open.spotify.com/track/4UU5OMdwhOyHSSXU6GjKLd) | [Rachel Portman](https://open.spotify.com/artist/1joFZGTRER78nUsWtgHCHR) | [Varèse Sarabande: 40 Years of Great Film Music 1978\-2018](https://open.spotify.com/album/4KutdJWvtiOQwTbGxK2DXU) | 2:58 | 2022-10-07 | 2022-11-14 |
 | [Theme \- From "Emma"](https://open.spotify.com/track/06mi7oiYv5pftvpFU784jc) | [Rachel Portman](https://open.spotify.com/artist/1joFZGTRER78nUsWtgHCHR) | [Hollywood '96 \(Themes From The Year's Biggest Films\)](https://open.spotify.com/album/0iEDyEwaKcNRLGpHz5vOZH) | 2:59 | 2022-07-04 |  |
+| [Theme Music for a Dream](https://open.spotify.com/track/1k3ZB5BjdvFTsryiCjbVkd) | [RIOPY](https://open.spotify.com/artist/4ytDz3A9nHcVMjEbdNSKzA) | [Tree of Light](https://open.spotify.com/album/3tWw71jsBPbM5uQp0QvtXf) | 3:29 | 2023-10-18 |  |
 | [Unrequited Love](https://open.spotify.com/track/71Y4MDtbPbwgASI7RXSSCO) | [Ari Posner](https://open.spotify.com/artist/563dtu7YhG2vW5KPAwMgC4), [Amin Bhatia](https://open.spotify.com/artist/3GvnGpA4bEqkq9FDeA2NEv) | [Anne With An E \(Music From The Netflix Original Series\)](https://open.spotify.com/album/18zn6reTQDMH7c3dxgpRGM) | 2:30 | 2022-02-14 | 2022-04-07 |
 | [Vivaldi Variation \(Arr\. for Piano from Concerto for Strings in G Minor, RV 156\)](https://open.spotify.com/track/3Dgmyz32dxvtxvUTPS0CUI) | [Antonio Vivaldi](https://open.spotify.com/artist/2QOIawHpSlOwXDvSqQ9YJR), [Florian Christl](https://open.spotify.com/artist/4yanWaefFUJnIUV0aITdvV) | [Vivaldi Variation \(Arr\. for Piano from Concerto for Strings in G Minor, RV 156\)](https://open.spotify.com/album/4oV1x8g9soPYY7dttgsang) | 1:52 | 2022-02-14 |  |
 | [What About Us](https://open.spotify.com/track/2lQgiAms2b5vLQMZZ0ypQk) | [Duomo](https://open.spotify.com/artist/5dhbc8LcvYmiI2CQhByaBR) | [Bridgerton Season Two \(Covers from the Netflix Series\)](https://open.spotify.com/album/63xx2KhCMtdl2ks3txobZF) | 4:51 | 2022-03-29 | 2022-07-09 |

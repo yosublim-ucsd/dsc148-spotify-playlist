@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUvHZA1zLcjW.md) - [plain]
 
 > Chilled classical tunes to help you relax and unwind.
 
-[Spotify](https://open.spotify.com/user/spotify) - 529,893 likes - 111 songs - 7 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 530,042 likes - 111 songs - 7 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,7 +44,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUvHZA1zLcjW.md) - [plain]
 | 34 | [2 Arabesques, L\. 66: No\. 1 in E Major](https://open.spotify.com/track/53zrZribB4xc2uRzZXWKCT) | [Claude Debussy](https://open.spotify.com/artist/1Uff91EOsvd99rtAupatMP), [Michael Korstick](https://open.spotify.com/artist/6InUGCgdPwOIWXHUP3Xqq5) | [Debussy: Piano Music, Vol\. 4](https://open.spotify.com/album/2ZCFHotJBeK0A0PP0UGz0k) | 4:33 |
 | 35 | [Suite from The Theory of Everything: I\. A Model of the Universe](https://open.spotify.com/track/0iiTQYE1uhTDxQIwugbZMc) | [Jóhann Jóhannsson](https://open.spotify.com/artist/3IpQziA6YwD53PQ5xbwgLF), [Iceland Symphony Orchestra](https://open.spotify.com/artist/3RPu1pwXXrPqamAp6OHZ8b), [Daníel Bjarnason](https://open.spotify.com/artist/5kUBSTaVz7OFpuyHDSbQon) | [Jóhannsson: Suite from The Theory of Everything: I\. A Model of the Universe](https://open.spotify.com/album/14iWMkGR0g0lLGRKDQS13s) | 1:30 |
 | 36 | [String Quartet No\. 2 in A Minor: II\. Andante cantabile \(Arr\. Colbert for String Ensemble\)](https://open.spotify.com/track/4dAudDd5aYKHSrVzMSR8HI) | [Florence Beatrice Price](https://open.spotify.com/artist/1M9s5TbPcKurMEzvvW0FFH), [Sphinx Virtuosi](https://open.spotify.com/artist/61Cl1X980GnqC4tOH1Cdyn) | [Price: String Quartet No\. 2 in A Minor: II\. Andante cantabile \(Arr\. Colbert for String Ensemble\)](https://open.spotify.com/album/50Cnys8oPsROratizJAoed) | 7:06 |
-| 37 | [Dancing Lights](https://open.spotify.com/track/08MwyLIBvGrNXgIPYWifk4) | [Alexis Ffrench](https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX) | [Dancing Lights](https://open.spotify.com/album/380TWv1sOwMrWeaohwZ6iz) | 1:57 |
+| 37 | [Dancing Lights](https://open.spotify.com/track/5SDGerrPqmbBrSBqRO4L8v) | [Alexis Ffrench](https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX) | [Christmas Piano with Alexis](https://open.spotify.com/album/2YymiUCe4WEr0GBJ0aSLFx) | 1:57 |
 | 38 | [Esja](https://open.spotify.com/track/3c3i9icjd5mMi8z9NJhRHv) | [Luke Faulkner](https://open.spotify.com/artist/2KTBCTcRbjSO03qPsUeqq3), [Alix Vaillot\-Szwarc](https://open.spotify.com/artist/6aML5wmfX9G35f0SefMvn0), [Özgür Kaya](https://open.spotify.com/artist/2NIJXCrR8rog7GWW2njcV7) | [Esja](https://open.spotify.com/album/3aBD10mWdF7VfHpMRl9u1t) | 2:18 |
 | 39 | [The Tree](https://open.spotify.com/track/6eir7TDacjXjFscPxDFHC4) | [Ludovico Einaudi](https://open.spotify.com/artist/2uFUBdaVGtyMqckSeCl0Qj) | [The Tree](https://open.spotify.com/album/6sGfG3gk3pzhPFSDJV1bij) | 3:19 |
 | 40 | [33 Miniatures for Piano \(Excerpts\): No\. 22, Grazioso](https://open.spotify.com/track/1m7xhfthPyNBdIJcGREuh1) | [Giya Kancheli](https://open.spotify.com/artist/7eZXdqPC0XYtALWzaVjGLh), [Elisaveta Blumina](https://open.spotify.com/artist/2PfSqNvD6yUMeq9krR7X3g) | [Memories from Home](https://open.spotify.com/album/38ZYEkGiDnTszDhMYDUUix) | 1:12 |
@@ -120,4 +120,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUvHZA1zLcjW.md) - [plain]
 | 110 | [Melodies of the Upper Worlds \(Arr\. M\. Ayrapetyan for Piano\): XIII\. To Proclaim in the Morning About Your Mercy](https://open.spotify.com/track/7qfUR1g5efZUh7Vf3fY8fh) | [Baal HaSulam](https://open.spotify.com/artist/34xHYsUFQlep5vsB3iWc3r), [Mikael Ayrapetyan](https://open.spotify.com/artist/6MbLMjlPQHSO9u4gKzys4w) | [HaSulam: Melodies of the Upper Worlds \(Arr\. M\. Ayrapetyan for Piano\)](https://open.spotify.com/album/6nybFTSCWQaoxsttSOtfWA) | 2:57 |
 | 111 | [Mercure, Scene 1: La nuit](https://open.spotify.com/track/5TKvSoHEXaCyk2GKM6pC3J) | [Erik Satie](https://open.spotify.com/artist/459INk8vcC0ebEef82WjIK), [Orchestre Symphonique et Lyrique de Nancy](https://open.spotify.com/artist/0g4p5Yus79xwJKf9co2RCR), [Jerome Kaltenbach](https://open.spotify.com/artist/3jK1IVWV4t4FTXjCiobeE2) | [Satie: Parade, Gymnopédies, Mercure & Relâche](https://open.spotify.com/album/3IFCqrc4GgSrN50MqNlIpw) | 1:13 |
 
-Snapshot ID: `MCxkYjE5MTZiZjZjZDcwNGU1ZWU3OTEyNjZkMWYwYTY5ZGMwZTQ3YTE5`
+Snapshot ID: `MCw3MTAxYTBlMGI1Y2Y0N2VhMTdkOTAzOTI0MjYyM2VjZmY5OTVjMDYy`

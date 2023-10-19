@@ -1,12 +1,12 @@
 {
   "description": "Covers of classic songs with a touch of Jazz. Cover: Joey Alexander",
-  "num_followers": 114972,
+  "num_followers": 115027,
   "original_name": "Jazz Covers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2OWVkY2Y2YWUxZDE5MTUzNTVlNjFlNjU1ODk3OGI4OWRiZWY5ODJm",
+  "snapshot_id": "MCxiOWU3YjVjZGUwMmE5M2ViOWZhNTI2YjM1NDg0MDdkN2MwZTNkYmM2",
   "tracks": [
     {
       "added_at": "2023-10-13 00:01:00",
@@ -107,22 +107,6 @@
     {
       "added_at": "2023-09-15 00:01:00",
       "album": {
-        "name": "Wallflower",
-        "url": "https://open.spotify.com/album/6xUodRTpBiWXfQwPVZ5hIN"
-      },
-      "artists": [
-        {
-          "name": "Diana Krall",
-          "url": "https://open.spotify.com/artist/5z1VAFwT35EVvCp1XlZZuL"
-        }
-      ],
-      "duration_ms": 197146,
-      "name": "California Dreamin'",
-      "url": "https://open.spotify.com/track/14IV6ycAWxurGj5KvHtNAT"
-    },
-    {
-      "added_at": "2023-09-15 00:01:00",
-      "album": {
         "name": "The Sexy EP",
         "url": "https://open.spotify.com/album/68cA9VzumdYb1FO6COsffJ"
       },
@@ -135,6 +119,22 @@
       "duration_ms": 174466,
       "name": "Material Girl",
       "url": "https://open.spotify.com/track/3Mizu9oMBUCm14uctRt2uL"
+    },
+    {
+      "added_at": "2023-09-15 00:01:00",
+      "album": {
+        "name": "Wallflower",
+        "url": "https://open.spotify.com/album/6xUodRTpBiWXfQwPVZ5hIN"
+      },
+      "artists": [
+        {
+          "name": "Diana Krall",
+          "url": "https://open.spotify.com/artist/5z1VAFwT35EVvCp1XlZZuL"
+        }
+      ],
+      "duration_ms": 197146,
+      "name": "California Dreamin'",
+      "url": "https://open.spotify.com/track/14IV6ycAWxurGj5KvHtNAT"
     },
     {
       "added_at": "2023-09-15 00:01:00",
@@ -785,6 +785,30 @@
       "url": "https://open.spotify.com/track/3mZuoV46mUS6MkzF7ACeZN"
     },
     {
+      "added_at": "2023-10-13 00:01:00",
+      "album": {
+        "name": "Uncle John's Band",
+        "url": "https://open.spotify.com/album/0cuf7NewVpKv3jZmU43mpY"
+      },
+      "artists": [
+        {
+          "name": "John Scofield",
+          "url": "https://open.spotify.com/artist/14RXohtx6NiBGFTW8IdmAK"
+        },
+        {
+          "name": "Vicente Archer",
+          "url": "https://open.spotify.com/artist/15iZckoaMxMCLvC1EY7Zot"
+        },
+        {
+          "name": "Bill Stewart",
+          "url": "https://open.spotify.com/artist/6g23EYtQQXDz44soLZMS39"
+        }
+      ],
+      "duration_ms": 422226,
+      "name": "Old Man",
+      "url": "https://open.spotify.com/track/3YKQziKG4G6hAqkm9yvj1L"
+    },
+    {
       "added_at": "2023-09-15 00:01:00",
       "album": {
         "name": "Strong",
@@ -849,30 +873,6 @@
       "url": "https://open.spotify.com/track/0OelgOpyjbEyc1agABKR4P"
     },
     {
-      "added_at": "2023-10-13 00:01:00",
-      "album": {
-        "name": "Uncle John's Band",
-        "url": "https://open.spotify.com/album/0cuf7NewVpKv3jZmU43mpY"
-      },
-      "artists": [
-        {
-          "name": "John Scofield",
-          "url": "https://open.spotify.com/artist/14RXohtx6NiBGFTW8IdmAK"
-        },
-        {
-          "name": "Vicente Archer",
-          "url": "https://open.spotify.com/artist/15iZckoaMxMCLvC1EY7Zot"
-        },
-        {
-          "name": "Bill Stewart",
-          "url": "https://open.spotify.com/artist/6g23EYtQQXDz44soLZMS39"
-        }
-      ],
-      "duration_ms": 422226,
-      "name": "Old Man",
-      "url": "https://open.spotify.com/track/3YKQziKG4G6hAqkm9yvj1L"
-    },
-    {
       "added_at": "2023-09-15 00:01:00",
       "album": {
         "name": "Staying in Touch",
@@ -891,26 +891,6 @@
       "duration_ms": 254066,
       "name": "The Long and Winding Road",
       "url": "https://open.spotify.com/track/7cqppiPKNniJMBfdNTvQOi"
-    },
-    {
-      "added_at": "2023-09-15 00:01:00",
-      "album": {
-        "name": "where are we",
-        "url": "https://open.spotify.com/album/6lI2Db6atrpRHt0l76DQCl"
-      },
-      "artists": [
-        {
-          "name": "Joshua Redman",
-          "url": "https://open.spotify.com/artist/3uaHfXYx9Fh4HjqMbrWn5S"
-        },
-        {
-          "name": "Gabrielle Cavassa",
-          "url": "https://open.spotify.com/artist/6V9mKint0pfZjIbeFF9vQk"
-        }
-      ],
-      "duration_ms": 320893,
-      "name": "Streets Of Philadelphia",
-      "url": "https://open.spotify.com/track/6S3bsnpvBqRRn7LfzZSchM"
     },
     {
       "added_at": "2023-09-15 00:01:00",
@@ -943,6 +923,26 @@
       "duration_ms": 456480,
       "name": "A Case Of You - Short Version",
       "url": "https://open.spotify.com/track/5Zfe0oV4iNs4kYIvdbPntt"
+    },
+    {
+      "added_at": "2023-09-15 00:01:00",
+      "album": {
+        "name": "where are we",
+        "url": "https://open.spotify.com/album/6lI2Db6atrpRHt0l76DQCl"
+      },
+      "artists": [
+        {
+          "name": "Joshua Redman",
+          "url": "https://open.spotify.com/artist/3uaHfXYx9Fh4HjqMbrWn5S"
+        },
+        {
+          "name": "Gabrielle Cavassa",
+          "url": "https://open.spotify.com/artist/6V9mKint0pfZjIbeFF9vQk"
+        }
+      ],
+      "duration_ms": 320893,
+      "name": "Streets Of Philadelphia",
+      "url": "https://open.spotify.com/track/6S3bsnpvBqRRn7LfzZSchM"
     },
     {
       "added_at": "2023-09-15 00:01:00",
@@ -1011,18 +1011,22 @@
     {
       "added_at": "2023-09-15 00:01:00",
       "album": {
-        "name": "Joshua Redman",
-        "url": "https://open.spotify.com/album/58y5aHbnGlzb1npFhXI1j1"
+        "name": "Stockholm Underground",
+        "url": "https://open.spotify.com/album/6Q2EuXcFJk2EDWpKPsBchl"
       },
       "artists": [
         {
-          "name": "Joshua Redman",
-          "url": "https://open.spotify.com/artist/3uaHfXYx9Fh4HjqMbrWn5S"
+          "name": "Magnus Lindgren",
+          "url": "https://open.spotify.com/artist/1ai1y07cRSewaRoOsQ4BfN"
+        },
+        {
+          "name": "Nils Landgren",
+          "url": "https://open.spotify.com/artist/6B3ZWSop1mrJd71rwFozVP"
         }
       ],
-      "duration_ms": 279573,
-      "name": "I Got You - I Feel Good",
-      "url": "https://open.spotify.com/track/0Snag7BFP5fx7SonfLcSsh"
+      "duration_ms": 303807,
+      "name": "A Whiter Shade of Pale",
+      "url": "https://open.spotify.com/track/5EQoSCrUMefedwvGUUl6ey"
     },
     {
       "added_at": "2023-09-15 00:01:00",
@@ -1043,22 +1047,18 @@
     {
       "added_at": "2023-09-15 00:01:00",
       "album": {
-        "name": "Stockholm Underground",
-        "url": "https://open.spotify.com/album/6Q2EuXcFJk2EDWpKPsBchl"
+        "name": "Joshua Redman",
+        "url": "https://open.spotify.com/album/58y5aHbnGlzb1npFhXI1j1"
       },
       "artists": [
         {
-          "name": "Magnus Lindgren",
-          "url": "https://open.spotify.com/artist/1ai1y07cRSewaRoOsQ4BfN"
-        },
-        {
-          "name": "Nils Landgren",
-          "url": "https://open.spotify.com/artist/6B3ZWSop1mrJd71rwFozVP"
+          "name": "Joshua Redman",
+          "url": "https://open.spotify.com/artist/3uaHfXYx9Fh4HjqMbrWn5S"
         }
       ],
-      "duration_ms": 303807,
-      "name": "A Whiter Shade of Pale",
-      "url": "https://open.spotify.com/track/5EQoSCrUMefedwvGUUl6ey"
+      "duration_ms": 279573,
+      "name": "I Got You - I Feel Good",
+      "url": "https://open.spotify.com/track/0Snag7BFP5fx7SonfLcSsh"
     },
     {
       "added_at": "2023-09-15 00:01:00",
@@ -1119,6 +1119,22 @@
     {
       "added_at": "2023-09-15 00:01:00",
       "album": {
+        "name": "Bridge Over Troubled Water",
+        "url": "https://open.spotify.com/album/1n2VCXsTJyQ7werjGlib7E"
+      },
+      "artists": [
+        {
+          "name": "Paul Desmond",
+          "url": "https://open.spotify.com/artist/68l2i6GeNtwQlhKS59u5bu"
+        }
+      ],
+      "duration_ms": 131773,
+      "name": "Cecilia",
+      "url": "https://open.spotify.com/track/0KelVyupuOOwka66PcAmNZ"
+    },
+    {
+      "added_at": "2023-09-15 00:01:00",
+      "album": {
         "name": "River: The Joni Letters (Expanded Edition)",
         "url": "https://open.spotify.com/album/3POVQYTvE1DYjlLWulZpTR"
       },
@@ -1139,22 +1155,6 @@
     {
       "added_at": "2023-09-15 00:01:00",
       "album": {
-        "name": "Bridge Over Troubled Water",
-        "url": "https://open.spotify.com/album/1n2VCXsTJyQ7werjGlib7E"
-      },
-      "artists": [
-        {
-          "name": "Paul Desmond",
-          "url": "https://open.spotify.com/artist/68l2i6GeNtwQlhKS59u5bu"
-        }
-      ],
-      "duration_ms": 131773,
-      "name": "Cecilia",
-      "url": "https://open.spotify.com/track/0KelVyupuOOwka66PcAmNZ"
-    },
-    {
-      "added_at": "2023-09-15 00:01:00",
-      "album": {
         "name": "You Should Have Told Me",
         "url": "https://open.spotify.com/album/24zLLdsQq4OwtSpS3SiEQJ"
       },
@@ -1167,6 +1167,30 @@
       "duration_ms": 239186,
       "name": "Blackbird",
       "url": "https://open.spotify.com/track/616tU4nb5DfY40tHVlHkP1"
+    },
+    {
+      "added_at": "2023-10-13 00:01:00",
+      "album": {
+        "name": "Uncle John's Band",
+        "url": "https://open.spotify.com/album/0cuf7NewVpKv3jZmU43mpY"
+      },
+      "artists": [
+        {
+          "name": "John Scofield",
+          "url": "https://open.spotify.com/artist/14RXohtx6NiBGFTW8IdmAK"
+        },
+        {
+          "name": "Vicente Archer",
+          "url": "https://open.spotify.com/artist/15iZckoaMxMCLvC1EY7Zot"
+        },
+        {
+          "name": "Bill Stewart",
+          "url": "https://open.spotify.com/artist/6g23EYtQQXDz44soLZMS39"
+        }
+      ],
+      "duration_ms": 549600,
+      "name": "Mr. Tambourine Man",
+      "url": "https://open.spotify.com/track/4kncjuH7HSX0hnpmdijflH"
     },
     {
       "added_at": "2023-09-15 00:01:00",
@@ -1183,6 +1207,30 @@
       "duration_ms": 148120,
       "name": "For No One",
       "url": "https://open.spotify.com/track/1fszxlX9SnaiWOZvIEjGFq"
+    },
+    {
+      "added_at": "2023-09-15 00:01:00",
+      "album": {
+        "name": "A Modern Songbook",
+        "url": "https://open.spotify.com/album/1AXxMgXOJfn5Qdnz7V9y1H"
+      },
+      "artists": [
+        {
+          "name": "William Withers",
+          "url": "https://open.spotify.com/artist/5pBACm8DbZ0ewugKBwgbrZ"
+        },
+        {
+          "name": "Thomas Enhco",
+          "url": "https://open.spotify.com/artist/7JpJd4JNH3oPZMWCwTKkYK"
+        },
+        {
+          "name": "St\u00e9phane Kerecki",
+          "url": "https://open.spotify.com/artist/4G14nUJ2VqZfvjmSlmot8B"
+        }
+      ],
+      "duration_ms": 265546,
+      "name": "Lean on Me",
+      "url": "https://open.spotify.com/track/2jNw83C2mRYWCLNiqGZ4GQ"
     },
     {
       "added_at": "2023-09-15 00:01:00",
@@ -1227,30 +1275,6 @@
     {
       "added_at": "2023-09-15 00:01:00",
       "album": {
-        "name": "A Modern Songbook",
-        "url": "https://open.spotify.com/album/1AXxMgXOJfn5Qdnz7V9y1H"
-      },
-      "artists": [
-        {
-          "name": "William Withers",
-          "url": "https://open.spotify.com/artist/5pBACm8DbZ0ewugKBwgbrZ"
-        },
-        {
-          "name": "Thomas Enhco",
-          "url": "https://open.spotify.com/artist/7JpJd4JNH3oPZMWCwTKkYK"
-        },
-        {
-          "name": "St\u00e9phane Kerecki",
-          "url": "https://open.spotify.com/artist/4G14nUJ2VqZfvjmSlmot8B"
-        }
-      ],
-      "duration_ms": 265546,
-      "name": "Lean on Me",
-      "url": "https://open.spotify.com/track/2jNw83C2mRYWCLNiqGZ4GQ"
-    },
-    {
-      "added_at": "2023-09-15 00:01:00",
-      "album": {
         "name": "Music From Leonard Bernstein'S 'West Side Story' And 'Wonderful Town'",
         "url": "https://open.spotify.com/album/7t0ixwcxppL8KOnQ5Mfvop"
       },
@@ -1263,6 +1287,22 @@
       "duration_ms": 226093,
       "name": "Tonight",
       "url": "https://open.spotify.com/track/3RSViRFX1LwGMrsv0NcQk4"
+    },
+    {
+      "added_at": "2023-09-15 00:01:00",
+      "album": {
+        "name": "Viva la Vida",
+        "url": "https://open.spotify.com/album/0eCt4jdobrtQrWnR3dKy8G"
+      },
+      "artists": [
+        {
+          "name": "The Holly Molly Trio",
+          "url": "https://open.spotify.com/artist/3g3uNIc5VvWR29BUhjuVAZ"
+        }
+      ],
+      "duration_ms": 159541,
+      "name": "Viva la Vida",
+      "url": "https://open.spotify.com/track/6PsbpkLgClv0zb8l5PM6zz"
     },
     {
       "added_at": "2023-09-15 00:01:00",
@@ -1303,22 +1343,6 @@
     {
       "added_at": "2023-09-15 00:01:00",
       "album": {
-        "name": "Viva la Vida",
-        "url": "https://open.spotify.com/album/0eCt4jdobrtQrWnR3dKy8G"
-      },
-      "artists": [
-        {
-          "name": "The Holly Molly Trio",
-          "url": "https://open.spotify.com/artist/3g3uNIc5VvWR29BUhjuVAZ"
-        }
-      ],
-      "duration_ms": 159541,
-      "name": "Viva la Vida",
-      "url": "https://open.spotify.com/track/6PsbpkLgClv0zb8l5PM6zz"
-    },
-    {
-      "added_at": "2023-09-15 00:01:00",
-      "album": {
         "name": "Reflections",
         "url": "https://open.spotify.com/album/5NaIn42BHM4s814EXBSolu"
       },
@@ -1335,22 +1359,6 @@
     {
       "added_at": "2023-09-15 00:01:00",
       "album": {
-        "name": "Twentysomething (Special Edition)",
-        "url": "https://open.spotify.com/album/6YwcKkG1bEljsv9nyfCtgh"
-      },
-      "artists": [
-        {
-          "name": "Jamie Cullum",
-          "url": "https://open.spotify.com/artist/3XxxEq6BREC57nCWXbQZ7o"
-        }
-      ],
-      "duration_ms": 288546,
-      "name": "Lover, You Should Have Come Over",
-      "url": "https://open.spotify.com/track/0f6bXABu4brGJMt0bG9yPQ"
-    },
-    {
-      "added_at": "2023-09-15 00:01:00",
-      "album": {
         "name": "Songbird",
         "url": "https://open.spotify.com/album/3N4bJn9W92OsBk8caft5LO"
       },
@@ -1363,6 +1371,22 @@
       "duration_ms": 281333,
       "name": "\uff37\uff4f\uff4e\uff44\uff45\uff52\uff57\uff41\uff4c\uff4c",
       "url": "https://open.spotify.com/track/3sODcw4hHaxjzUrTzgzdfl"
+    },
+    {
+      "added_at": "2023-09-15 00:01:00",
+      "album": {
+        "name": "Twentysomething (Special Edition)",
+        "url": "https://open.spotify.com/album/6YwcKkG1bEljsv9nyfCtgh"
+      },
+      "artists": [
+        {
+          "name": "Jamie Cullum",
+          "url": "https://open.spotify.com/artist/3XxxEq6BREC57nCWXbQZ7o"
+        }
+      ],
+      "duration_ms": 288546,
+      "name": "Lover, You Should Have Come Over",
+      "url": "https://open.spotify.com/track/0f6bXABu4brGJMt0bG9yPQ"
     },
     {
       "added_at": "2023-09-15 00:01:00",
@@ -1397,28 +1421,20 @@
       "url": "https://open.spotify.com/track/1mScOKklx8m8FvNcarYHOs"
     },
     {
-      "added_at": "2023-10-13 00:01:00",
+      "added_at": "2023-09-15 00:01:00",
       "album": {
-        "name": "Uncle John's Band",
-        "url": "https://open.spotify.com/album/0cuf7NewVpKv3jZmU43mpY"
+        "name": "Hey Jude",
+        "url": "https://open.spotify.com/album/67OTFWSB6YEY3uUGcujAmw"
       },
       "artists": [
         {
-          "name": "John Scofield",
-          "url": "https://open.spotify.com/artist/14RXohtx6NiBGFTW8IdmAK"
-        },
-        {
-          "name": "Vicente Archer",
-          "url": "https://open.spotify.com/artist/15iZckoaMxMCLvC1EY7Zot"
-        },
-        {
-          "name": "Bill Stewart",
-          "url": "https://open.spotify.com/artist/6g23EYtQQXDz44soLZMS39"
+          "name": "Louie Hobbs Trio",
+          "url": "https://open.spotify.com/artist/5tAr3Ha3HSyUQfRp4vVa1U"
         }
       ],
-      "duration_ms": 549600,
-      "name": "Mr. Tambourine Man",
-      "url": "https://open.spotify.com/track/4kncjuH7HSX0hnpmdijflH"
+      "duration_ms": 219625,
+      "name": "Hey Jude",
+      "url": "https://open.spotify.com/track/2zaTkJjKXM6grxlreDbOWR"
     },
     {
       "added_at": "2023-09-15 00:01:00",
@@ -1435,22 +1451,6 @@
       "duration_ms": 320460,
       "name": "Morning Has Broken",
       "url": "https://open.spotify.com/track/4BEfsQb4k8hAu4OYZ9nlHv"
-    },
-    {
-      "added_at": "2023-09-15 00:01:00",
-      "album": {
-        "name": "Hey Jude",
-        "url": "https://open.spotify.com/album/67OTFWSB6YEY3uUGcujAmw"
-      },
-      "artists": [
-        {
-          "name": "Louie Hobbs Trio",
-          "url": "https://open.spotify.com/artist/5tAr3Ha3HSyUQfRp4vVa1U"
-        }
-      ],
-      "duration_ms": 219625,
-      "name": "Hey Jude",
-      "url": "https://open.spotify.com/track/2zaTkJjKXM6grxlreDbOWR"
     },
     {
       "added_at": "2023-09-15 00:01:00",
@@ -1479,22 +1479,6 @@
     {
       "added_at": "2023-09-15 00:01:00",
       "album": {
-        "name": "What's It All About?",
-        "url": "https://open.spotify.com/album/7H6c6F19uEEhjjLpDhufoh"
-      },
-      "artists": [
-        {
-          "name": "Ellas Kapell",
-          "url": "https://open.spotify.com/artist/33PHFG2fpRWLLSr6Wg4Dxb"
-        }
-      ],
-      "duration_ms": 262573,
-      "name": "In My Life",
-      "url": "https://open.spotify.com/track/0XzpDgmYTLiStmuNhU4rWx"
-    },
-    {
-      "added_at": "2023-09-15 00:01:00",
-      "album": {
         "name": "Still We Dream",
         "url": "https://open.spotify.com/album/0k5jjWYe4MCUgU1oX4vo9l"
       },
@@ -1515,6 +1499,22 @@
     {
       "added_at": "2023-09-15 00:01:00",
       "album": {
+        "name": "What's It All About?",
+        "url": "https://open.spotify.com/album/7H6c6F19uEEhjjLpDhufoh"
+      },
+      "artists": [
+        {
+          "name": "Ellas Kapell",
+          "url": "https://open.spotify.com/artist/33PHFG2fpRWLLSr6Wg4Dxb"
+        }
+      ],
+      "duration_ms": 262573,
+      "name": "In My Life",
+      "url": "https://open.spotify.com/track/0XzpDgmYTLiStmuNhU4rWx"
+    },
+    {
+      "added_at": "2023-09-15 00:01:00",
+      "album": {
         "name": "House of the Rising Sun",
         "url": "https://open.spotify.com/album/4ywreEPoWhZilE0Asy9Wof"
       },
@@ -1527,22 +1527,6 @@
       "duration_ms": 225806,
       "name": "House of the Rising Sun",
       "url": "https://open.spotify.com/track/2jMSBk8jNymJngmMj9jGxT"
-    },
-    {
-      "added_at": "2023-09-15 00:01:00",
-      "album": {
-        "name": "Just the Way You Are",
-        "url": "https://open.spotify.com/album/2nbQXKBxv0kJaO0x8vsyLW"
-      },
-      "artists": [
-        {
-          "name": "Jasmine Patterson",
-          "url": "https://open.spotify.com/artist/2MvVPVskst6WSd1JWA5311"
-        }
-      ],
-      "duration_ms": 272625,
-      "name": "Just the Way You Are",
-      "url": "https://open.spotify.com/track/2tH5sKm9pFLSJXeHJjXEUN"
     },
     {
       "added_at": "2023-09-15 00:01:00",
@@ -1567,6 +1551,22 @@
       "duration_ms": 395625,
       "name": "Here, There and Everywhere",
       "url": "https://open.spotify.com/track/1tY4JU86oLsEfp3hnUtjwo"
+    },
+    {
+      "added_at": "2023-09-15 00:01:00",
+      "album": {
+        "name": "Just the Way You Are",
+        "url": "https://open.spotify.com/album/2nbQXKBxv0kJaO0x8vsyLW"
+      },
+      "artists": [
+        {
+          "name": "Jasmine Patterson",
+          "url": "https://open.spotify.com/artist/2MvVPVskst6WSd1JWA5311"
+        }
+      ],
+      "duration_ms": 272625,
+      "name": "Just the Way You Are",
+      "url": "https://open.spotify.com/track/2tH5sKm9pFLSJXeHJjXEUN"
     },
     {
       "added_at": "2023-09-15 00:01:00",
@@ -1867,30 +1867,6 @@
     {
       "added_at": "2023-09-15 00:01:00",
       "album": {
-        "name": "Speak Low II",
-        "url": "https://open.spotify.com/album/4gQ5E5ZMBReLfgCRlcLEyw"
-      },
-      "artists": [
-        {
-          "name": "Lucia Cadotsch",
-          "url": "https://open.spotify.com/artist/6fjIC3dxUYTL8eOzxbU1Ou"
-        },
-        {
-          "name": "Otis Sandsj\u00f6",
-          "url": "https://open.spotify.com/artist/6diHo4GRFDIubnyPcfdt44"
-        },
-        {
-          "name": "Petter Eldh",
-          "url": "https://open.spotify.com/artist/2q0DyP2pqqNHI4OiC50IKx"
-        }
-      ],
-      "duration_ms": 318086,
-      "name": "I Think It's Going to Rain Today",
-      "url": "https://open.spotify.com/track/7g5oxgxTNFTmlkf3B06zsD"
-    },
-    {
-      "added_at": "2023-09-15 00:01:00",
-      "album": {
         "name": "Lieb Plays the Beatles",
         "url": "https://open.spotify.com/album/2jSCnq7vrAR0DO3qLdKjEr"
       },
@@ -1935,6 +1911,22 @@
       "duration_ms": 402160,
       "name": "Ladies Of the Canyon (Bonus)",
       "url": "https://open.spotify.com/track/6KjMkGCoRpcb9nHS2auXo5"
+    },
+    {
+      "added_at": "2023-09-15 00:01:00",
+      "album": {
+        "name": "Optimistic",
+        "url": "https://open.spotify.com/album/1QCP0GWc0wl0UPs2KI8Nrf"
+      },
+      "artists": [
+        {
+          "name": "Max Haymer",
+          "url": "https://open.spotify.com/artist/3Of3GFdC138OHGTMfC7JPP"
+        }
+      ],
+      "duration_ms": 369876,
+      "name": "Optimistic",
+      "url": "https://open.spotify.com/track/3OmhKVNesWJ2BGF7UaLx7C"
     },
     {
       "added_at": "2023-09-15 00:01:00",
@@ -1999,6 +1991,22 @@
     {
       "added_at": "2023-09-15 00:01:00",
       "album": {
+        "name": "Groove Connection",
+        "url": "https://open.spotify.com/album/2GLYBqXyDkl0Z7ypSn7Kub"
+      },
+      "artists": [
+        {
+          "name": "Jakob Manz",
+          "url": "https://open.spotify.com/artist/7l8AVzWP4aBYTXGn0GYkLP"
+        }
+      ],
+      "duration_ms": 202200,
+      "name": "When the Party's Over",
+      "url": "https://open.spotify.com/track/00d6FpMLePJ6vNMFICyJiW"
+    },
+    {
+      "added_at": "2023-09-15 00:01:00",
+      "album": {
         "name": "Play Favorites",
         "url": "https://open.spotify.com/album/18PqcQgK9HM9N3NaLnPc9H"
       },
@@ -2019,54 +2027,6 @@
     {
       "added_at": "2023-09-15 00:01:00",
       "album": {
-        "name": "East/West",
-        "url": "https://open.spotify.com/album/3osIJ2ulRYsz7FMAw1AG3E"
-      },
-      "artists": [
-        {
-          "name": "Bill Frisell",
-          "url": "https://open.spotify.com/artist/3SONlwqLIP2GtaMh9pLYe5"
-        }
-      ],
-      "duration_ms": 707146,
-      "name": "A Hard Rain's A-Gonna Fall",
-      "url": "https://open.spotify.com/track/4rTIHSHAUhS7VZdv7RWaQL"
-    },
-    {
-      "added_at": "2023-09-15 00:01:00",
-      "album": {
-        "name": "Groove Connection",
-        "url": "https://open.spotify.com/album/2GLYBqXyDkl0Z7ypSn7Kub"
-      },
-      "artists": [
-        {
-          "name": "Jakob Manz",
-          "url": "https://open.spotify.com/artist/7l8AVzWP4aBYTXGn0GYkLP"
-        }
-      ],
-      "duration_ms": 202200,
-      "name": "When the Party's Over",
-      "url": "https://open.spotify.com/track/00d6FpMLePJ6vNMFICyJiW"
-    },
-    {
-      "added_at": "2023-09-15 00:01:00",
-      "album": {
-        "name": "Optimistic",
-        "url": "https://open.spotify.com/album/1QCP0GWc0wl0UPs2KI8Nrf"
-      },
-      "artists": [
-        {
-          "name": "Max Haymer",
-          "url": "https://open.spotify.com/artist/3Of3GFdC138OHGTMfC7JPP"
-        }
-      ],
-      "duration_ms": 369876,
-      "name": "Optimistic",
-      "url": "https://open.spotify.com/track/3OmhKVNesWJ2BGF7UaLx7C"
-    },
-    {
-      "added_at": "2023-09-15 00:01:00",
-      "album": {
         "name": "Falling Grace",
         "url": "https://open.spotify.com/album/0cZvmhCqP7PftLmvEqKpeE"
       },
@@ -2079,6 +2039,22 @@
       "duration_ms": 223373,
       "name": "Thank You",
       "url": "https://open.spotify.com/track/04ialTCPs63fRkmNq9XbOU"
+    },
+    {
+      "added_at": "2023-09-15 00:01:00",
+      "album": {
+        "name": "East/West",
+        "url": "https://open.spotify.com/album/3osIJ2ulRYsz7FMAw1AG3E"
+      },
+      "artists": [
+        {
+          "name": "Bill Frisell",
+          "url": "https://open.spotify.com/artist/3SONlwqLIP2GtaMh9pLYe5"
+        }
+      ],
+      "duration_ms": 707146,
+      "name": "A Hard Rain's A-Gonna Fall",
+      "url": "https://open.spotify.com/track/4rTIHSHAUhS7VZdv7RWaQL"
     },
     {
       "added_at": "2023-09-15 00:01:00",
@@ -2275,6 +2251,22 @@
       "duration_ms": 390613,
       "name": "It's Alright Ma (I'm Only Bleeding)",
       "url": "https://open.spotify.com/track/1w3W1n1FedV8aVZkE00uMu"
+    },
+    {
+      "added_at": "2023-09-15 00:01:00",
+      "album": {
+        "name": "If It's Magic",
+        "url": "https://open.spotify.com/album/6cetRsJJ96m3KmLsVwEhVW"
+      },
+      "artists": [
+        {
+          "name": "Brandee Younger",
+          "url": "https://open.spotify.com/artist/1DT11FntvMnaU47ZZWlTpB"
+        }
+      ],
+      "duration_ms": 209338,
+      "name": "If It's Magic",
+      "url": "https://open.spotify.com/track/5r8SovegCSL6r9GrbRFJBP"
     }
   ],
   "unique_name": "Jazz Covers",

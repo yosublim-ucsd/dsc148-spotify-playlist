@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUYchkUpUndG.md) - [plain]
 
 > For all the new African Gospel Releases this week\. Cover:   <a href="https://open.spotify.com/artist/4ilNroq4d7QN2djHi3IVZI?si=V96XUk50TDKy0dXWZ5ntgw">Joyce Blessing</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,676 likes - 94 songs - 5 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,704 likes - 94 songs - 5 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -103,4 +103,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUYchkUpUndG.md) - [plain]
 | 93 | [Passive Passion](https://open.spotify.com/track/6tSrYn1iLjohpf6a7NacSm) | [Megan Tossi](https://open.spotify.com/artist/0HIS9IUNYWbIZi9vaqSerc) | [Passive Passion](https://open.spotify.com/album/2RaohK5fztHP7yclOmY8Wm) | 1:54 |
 | 94 | [Hallelujah](https://open.spotify.com/track/0Xvyndiz2XbDmWmY9nHyRi) | [Nina Roz](https://open.spotify.com/artist/5kLs8AtvdqLkXMRJtbhdXh), [Pr Wilson Bugembe](https://open.spotify.com/artist/5vKkyK1JOQqp9njfc6Gi8E) | [Hallelujah](https://open.spotify.com/album/6k0QdU60UifNRLUaww3XQb) | 3:00 |
 
-Snapshot ID: `MCxjN2RjNDYwOTljYWQ5YjViOGE4ODQ4YzA3NjJiNTdmMzg1Y2RmZjg1`
+Snapshot ID: `MCw2Yzk2NTg4ZjM5ZDkyZjFlMzRlMjU5MWZhNjBmNTc2ZDdhYWRmYzVm`

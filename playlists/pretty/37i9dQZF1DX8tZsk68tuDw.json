@@ -1,12 +1,12 @@
 {
   "description": "Tomorrow's <a href=\"spotify:genre:edm_dance\">dance</a> hits, with Knock2 & Dillon Francis.",
-  "num_followers": 2018553,
+  "num_followers": 2018572,
   "original_name": "Dance Rising",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzNmNhM2MxNGQ2YmIxMjU2YjE4NTMwYjJiMWFhNDUxZTJiYzAxMDg1",
+  "snapshot_id": "MCxlMjNjZThjMmFhMzVkYWUzNjJlODdlMmY4NDhiNjNkYmNlNjdjOGIx",
   "tracks": [
     {
       "added_at": "2023-09-29 04:00:00",
@@ -848,12 +848,12 @@
           "url": "https://open.spotify.com/artist/3vGgjydudbzEp2r9PmqHc0"
         },
         {
-          "name": "ZANA",
-          "url": "https://open.spotify.com/artist/34lIancN28qj7jD4JxYOdE"
-        },
-        {
           "name": "Quinten Circle",
           "url": "https://open.spotify.com/artist/6dcF1Pcj5BlCkSK9FF96GG"
+        },
+        {
+          "name": "ZANA",
+          "url": "https://open.spotify.com/artist/34lIancN28qj7jD4JxYOdE"
         }
       ],
       "duration_ms": 147895,

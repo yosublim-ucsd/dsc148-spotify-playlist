@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5J7FIl4q56G.md) - [plain]
 
 > This week's best new metal & hard rock tracks\. Cover: Ice Nine Kills
 
-[Spotify](https://open.spotify.com/user/spotify) - 707,337 likes - 57 songs - 4 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 707,440 likes - 57 songs - 4 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,7 +51,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5J7FIl4q56G.md) - [plain]
 | 41 | [I'll Find You](https://open.spotify.com/track/5MQuH4phGyxoHE6Glhq3T6) | [Fuming Mouth](https://open.spotify.com/artist/2I7atnUFOmvMyGPuesD7cB) | [I'll Find You](https://open.spotify.com/album/73ROZuODtjMQfv3NjqgzoI) | 2:50 |
 | 42 | [LSD](https://open.spotify.com/track/6s86m7K5wsy4V7GqteBHsh) | [HourHouse](https://open.spotify.com/artist/2gTGDMyJT449yCPyYSzQ4E) | [LSD](https://open.spotify.com/album/6ypsO13HsQwPo5Gg3Efmhf) | 2:54 |
 | 43 | [Fire, Walk With Me](https://open.spotify.com/track/75j3ufmOnr2hnaTAUkSwCy) | [Mors Subita](https://open.spotify.com/artist/6OTqwzePF081l2Oz9PEku8) | [Origin of Fire](https://open.spotify.com/album/3d13ij5bG0Cqt5ZucZuEeh) | 3:20 |
-| 44 | [HIMALAYA \|\|\| seeing death to feel alive](https://open.spotify.com/track/7KDwUlqGRc7QpACxVES2Wf) | [Devil May Care](https://open.spotify.com/artist/7i4fpNdyHzYPX3TFjEqKll) | [HIMALAYA \|\|\| seeing death to feel alive](https://open.spotify.com/album/6wPwgFz1yRBsj0DTGR6zHH) | 3:37 |
+| 44 | [HIMALAYA III seeing death to feel alive](https://open.spotify.com/track/7KDwUlqGRc7QpACxVES2Wf) | [Devil May Care](https://open.spotify.com/artist/7i4fpNdyHzYPX3TFjEqKll) | [HIMALAYA III seeing death to feel alive](https://open.spotify.com/album/6wPwgFz1yRBsj0DTGR6zHH) | 3:37 |
 | 45 | [Murder Machine](https://open.spotify.com/track/3bNCqxdbBAhYbpra4ghKCn) | [The Dialectic](https://open.spotify.com/artist/14XLmlJANyh7F0RCOnvM31) | [Murder Machine](https://open.spotify.com/album/56J8fr4p2OBVXadAS8dUGx) | 3:33 |
 | 46 | [Reign of the Reaper](https://open.spotify.com/track/66f4omCpV3DlMlE9iR1B4W) | [Sorcerer](https://open.spotify.com/artist/2O1JmZHgbLq9ttqx0AqjVm) | [Reign of the Reaper](https://open.spotify.com/album/3jiEhe4juEZxbO8QMgVMaw) | 6:29 |
 | 47 | [Raise Empires](https://open.spotify.com/track/4MkK84MMhgBPxzz6KgBcWZ) | [On Thorns I Lay](https://open.spotify.com/artist/7bGopU168qloFmaY1OcSwv) | [On Thorns I Lay](https://open.spotify.com/album/0LyW3bntovRMHa5slHpCMA) | 7:18 |
@@ -66,4 +66,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5J7FIl4q56G.md) - [plain]
 | 56 | [Howl At The Sun](https://open.spotify.com/track/58KseCL7D09AQJ0AvqlDtC) | [Of Origins](https://open.spotify.com/artist/1B0ZXSOxKjtoddcG8DabpZ) | [Everything, Suddenly](https://open.spotify.com/album/3iWj9KmVcFbI4qcWQATsDQ) | 5:43 |
 | 57 | [Death·chaos·void](https://open.spotify.com/track/3frwYpO72nBBkn2TCTUBsz) | [Akouphenom](https://open.spotify.com/artist/1Sds5s7jYPS5iOfQebawN3) | [Death·chaos·void](https://open.spotify.com/album/4IxAlYMNOR9rsfot26RBk6) | 8:07 |
 
-Snapshot ID: `MCw3Nzk3NDU3YzM4OGQyYWM0MzFmZjliNmUwNDk4YzczNmYwMzk5ZjBk`
+Snapshot ID: `MCw4MzFiZDg4MzhlYjdhMmQ3MDU2ZTE0ZGM0NTdjM2YzZGJlYzZhOGYx`

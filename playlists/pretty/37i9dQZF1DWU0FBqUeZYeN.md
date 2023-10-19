@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU0FBqUeZYeN.md) - [plain]
 
 > From '56 to '76 \- the original volcanic revolutionaries from Rock 'n' Roll, Garage, Psych, Trash, Kraut, Glam and Prog...
 
-[Spotify](https://open.spotify.com/user/spotify) - 386,163 likes - 131 songs - 7 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 386,237 likes - 131 songs - 7 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -124,7 +124,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU0FBqUeZYeN.md) - [plain]
 | 114 | [My Generation \- Stereo Version](https://open.spotify.com/track/4u9f8hqstB7iITDJNzKhQx) | [The Who](https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w) | [My Generation \(Stereo Version\)](https://open.spotify.com/album/6Oc6Ok1Oawu8lRkjmD4mXy) | 3:18 |
 | 115 | [God Save the Queen](https://open.spotify.com/track/6ui6l3ZNvlrGQZArwo8195) | [Sex Pistols](https://open.spotify.com/artist/1u7kkVrr14iBvrpYnZILJR) | [Never Mind The Bollocks, Here's The Sex Pistols](https://open.spotify.com/album/5fxYu3rqjCNTSPKN8mtEl2) | 3:20 |
 | 116 | [Revenge](https://open.spotify.com/track/3pofbd9y6IPR40irPdAxJ4) | [The Others](https://open.spotify.com/artist/5zSQQxDwEPGOXIcjdbuhWz) | [Revenge / I'm in Need](https://open.spotify.com/album/4PV0WJUOC8p3aJGTYpPU66) | 2:00 |
-| 117 | [Night of the Vampire](https://open.spotify.com/track/3cFAVjQU2q3vX3l0omsx5h) | [The Moontrekkers](https://open.spotify.com/artist/68tbCkKG4XXBXCr1nuWX0Y) | [100 Rockin’ Instrumentals \- ‘50s & ‘60s](https://open.spotify.com/album/0pHJOnCMLl0u6ywvaar64L) | 2:51 |
+| 117 | [Night Of The Vampire](https://open.spotify.com/track/2IKE5ZuOzwFNlcqo9dLM6Q) | [The Moontrekkers](https://open.spotify.com/artist/68tbCkKG4XXBXCr1nuWX0Y) | [Halloween Graveyard Hits](https://open.spotify.com/album/6d4gyUp1xZwl5orCXlNKlW) | 2:46 |
 | 118 | [Mystery Train](https://open.spotify.com/track/0GvhHQbWSnGltjl0je61dI) | [Elvis Presley](https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE) | [For LP Fans Only](https://open.spotify.com/album/1NVsMlJgD5GHf0CT1IewbU) | 2:24 |
 | 119 | [Brand New Cadillac](https://open.spotify.com/track/0CJ3EmwyofCmDljpoKecQR) | [Vince Taylor & His Playboys](https://open.spotify.com/artist/1NnCrPjtSLFHulsEZdLSEg) | [British Beat Before The Beatles 1955\-1962](https://open.spotify.com/album/0eDIvG3ep58ZKfox9KojyE) | 2:37 |
 | 120 | [Hey! Bo Diddley](https://open.spotify.com/track/0Stq0NVgLIXyrAN5tLvyIt) | [Bo Diddley](https://open.spotify.com/artist/2bmixwMZXlkl2sbIbOfviq) | [Bo Diddley](https://open.spotify.com/album/1cbtDEwxCjMhglb49OgNBR) | 2:10 |
@@ -140,4 +140,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU0FBqUeZYeN.md) - [plain]
 | 130 | [She's About a Mover](https://open.spotify.com/track/6ZYvCY3zyajhHunwbDrCtx) | [Sir Douglas Quintet](https://open.spotify.com/artist/3A2UXqQgMDJ3YNvLPyX5NW) | [Walking the Streets](https://open.spotify.com/album/17MHW0ENg57rfMGXYtNkvV) | 2:25 |
 | 131 | [I Can't Control Myself \(Rerecorded\)](https://open.spotify.com/track/2ISCW0bzi9Zsv6eKCqXVZq) | [The Troggs](https://open.spotify.com/artist/57xdnSVt4ahJCIXYLieQ25) | [This Is the Troggs \(Rerecorded\)](https://open.spotify.com/album/2Co201A4jYUYrDtrmReNJD) | 3:06 |
 
-Snapshot ID: `MCxiMzgxYjE0MzdkYzRhMWIyZDJkNDViZjlmMWI4ZjUwMGIxYTA0MWQy`
+Snapshot ID: `MCw0YTEzMDVlYTBjNDhjYmU4OTU4YjhjZjA4YmQ5NmViYTI4MGJjNWVi`

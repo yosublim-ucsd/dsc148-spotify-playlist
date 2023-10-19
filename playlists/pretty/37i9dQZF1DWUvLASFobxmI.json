@@ -1,12 +1,12 @@
 {
   "description": "Brav\u00edas, rom\u00e1nticas y rancheras, las mejores canciones norte\u00f1as. Los Primos del Este en portada.",
-  "num_followers": 426505,
+  "num_followers": 426632,
   "original_name": "Norte\u00f1o 2023",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjNWI0OWYxMTFlYTZiMWMyMTc1OTk4MzBjZDMwYWQ0ODlkMzQzOGI5",
+  "snapshot_id": "MCwzODNiYzljZmVhY2RjZDMwOGZjMDE2ZmY4MjQwY2U4NTRlY2RhZDk1",
   "tracks": [
     {
       "added_at": "2023-10-06 04:00:00",
@@ -371,8 +371,8 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
-        "name": "Bebe Dame",
-        "url": "https://open.spotify.com/album/6PdUbuaqXLdQKPGFLhLpRC"
+        "name": "911 (En Vivo)",
+        "url": "https://open.spotify.com/album/5C481uIDXJ2Ddkqtq8A28H"
       },
       "artists": [
         {
@@ -384,9 +384,9 @@
           "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
         }
       ],
-      "duration_ms": 271861,
-      "name": "Bebe Dame",
-      "url": "https://open.spotify.com/track/0mzsLrUNazBaRfYZfjmpSV"
+      "duration_ms": 175423,
+      "name": "911 - En Vivo",
+      "url": "https://open.spotify.com/track/1O0IFR3MYqgQbziKTCf0X4"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -459,8 +459,8 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
-        "name": "911 (En Vivo)",
-        "url": "https://open.spotify.com/album/5C481uIDXJ2Ddkqtq8A28H"
+        "name": "Bebe Dame",
+        "url": "https://open.spotify.com/album/6PdUbuaqXLdQKPGFLhLpRC"
       },
       "artists": [
         {
@@ -472,9 +472,9 @@
           "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
         }
       ],
-      "duration_ms": 175423,
-      "name": "911 - En Vivo",
-      "url": "https://open.spotify.com/track/1O0IFR3MYqgQbziKTCf0X4"
+      "duration_ms": 271861,
+      "name": "Bebe Dame",
+      "url": "https://open.spotify.com/track/0mzsLrUNazBaRfYZfjmpSV"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -915,22 +915,6 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
-        "name": "900 Cigarros",
-        "url": "https://open.spotify.com/album/4hXZx9NOzBkfTQGmcr9FpS"
-      },
-      "artists": [
-        {
-          "name": "La Fiera de Ojinaga",
-          "url": "https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2"
-        }
-      ],
-      "duration_ms": 123906,
-      "name": "900 Cigarros",
-      "url": "https://open.spotify.com/track/2oL3HbsCYCetjWIc4mWRsM"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
         "name": "Borracho Enamorado",
         "url": "https://open.spotify.com/album/0sr6urbaaWIMexVmk97TZK"
       },
@@ -947,6 +931,22 @@
       "duration_ms": 152776,
       "name": "Borracho Enamorado",
       "url": "https://open.spotify.com/track/6VcVBZ2b43kiDO6rQxmsYO"
+    },
+    {
+      "added_at": "2023-10-06 04:00:00",
+      "album": {
+        "name": "900 Cigarros",
+        "url": "https://open.spotify.com/album/4hXZx9NOzBkfTQGmcr9FpS"
+      },
+      "artists": [
+        {
+          "name": "La Fiera de Ojinaga",
+          "url": "https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2"
+        }
+      ],
+      "duration_ms": 123906,
+      "name": "900 Cigarros",
+      "url": "https://open.spotify.com/track/2oL3HbsCYCetjWIc4mWRsM"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -1039,18 +1039,18 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
-        "name": "El Guty",
-        "url": "https://open.spotify.com/album/5mWGWS3lPdkfMziyh29Hgb"
+        "name": "Punto Y Aparte",
+        "url": "https://open.spotify.com/album/5PEGCaUeB26YYT8jvlwqmF"
       },
       "artists": [
         {
-          "name": "Grupo Mente Maestra",
-          "url": "https://open.spotify.com/artist/7fReOInDdj4876IaRNzHC2"
+          "name": "Panter B\u00e9lico",
+          "url": "https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS"
         }
       ],
-      "duration_ms": 163582,
-      "name": "El Guty",
-      "url": "https://open.spotify.com/track/2efRIKsDPxJ7OG4h5PlHEF"
+      "duration_ms": 133261,
+      "name": "GPI",
+      "url": "https://open.spotify.com/track/6uKjaOslfoRToEqixjM4wc"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -1071,6 +1071,22 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
+        "name": "El Guty",
+        "url": "https://open.spotify.com/album/5mWGWS3lPdkfMziyh29Hgb"
+      },
+      "artists": [
+        {
+          "name": "Grupo Mente Maestra",
+          "url": "https://open.spotify.com/artist/7fReOInDdj4876IaRNzHC2"
+        }
+      ],
+      "duration_ms": 163582,
+      "name": "El Guty",
+      "url": "https://open.spotify.com/track/2efRIKsDPxJ7OG4h5PlHEF"
+    },
+    {
+      "added_at": "2023-10-06 04:00:00",
+      "album": {
         "name": "Bonita",
         "url": "https://open.spotify.com/album/263Byb9kFZxoZMcmPEbKca"
       },
@@ -1083,22 +1099,6 @@
       "duration_ms": 201084,
       "name": "Bonita",
       "url": "https://open.spotify.com/track/5TdIP1VCcWF1CRw810RRqc"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
-        "name": "Punto Y Aparte",
-        "url": "https://open.spotify.com/album/5PEGCaUeB26YYT8jvlwqmF"
-      },
-      "artists": [
-        {
-          "name": "Panter B\u00e9lico",
-          "url": "https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS"
-        }
-      ],
-      "duration_ms": 133261,
-      "name": "GPI",
-      "url": "https://open.spotify.com/track/6uKjaOslfoRToEqixjM4wc"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -1119,22 +1119,6 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
-        "name": "Malas Decisiones",
-        "url": "https://open.spotify.com/album/1SBtatmdkqzCgt16ujwPBZ"
-      },
-      "artists": [
-        {
-          "name": "La Receta",
-          "url": "https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD"
-        }
-      ],
-      "duration_ms": 207400,
-      "name": "Malas Decisiones",
-      "url": "https://open.spotify.com/track/2VYutJTaiK3oJursGk9z6a"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
         "name": "Vive Y Dejame Vivir",
         "url": "https://open.spotify.com/album/1MyVogY0FXlgs1qtDGk7OK"
       },
@@ -1147,6 +1131,22 @@
       "duration_ms": 175511,
       "name": "El H",
       "url": "https://open.spotify.com/track/6cGFQKwBZomwMQMiKf48ny"
+    },
+    {
+      "added_at": "2023-10-06 04:00:00",
+      "album": {
+        "name": "Malas Decisiones",
+        "url": "https://open.spotify.com/album/1SBtatmdkqzCgt16ujwPBZ"
+      },
+      "artists": [
+        {
+          "name": "La Receta",
+          "url": "https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD"
+        }
+      ],
+      "duration_ms": 207400,
+      "name": "Malas Decisiones",
+      "url": "https://open.spotify.com/track/2VYutJTaiK3oJursGk9z6a"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -1263,22 +1263,6 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
-        "name": "Huapango Amor Ranchero",
-        "url": "https://open.spotify.com/album/40EvvWuBGio70bkcFLk6Fl"
-      },
-      "artists": [
-        {
-          "name": "La Humildad De La Musica Norte\u00f1a",
-          "url": "https://open.spotify.com/artist/0fMwbTSqDbGyg0QgpijRoE"
-        }
-      ],
-      "duration_ms": 199314,
-      "name": "Huapango Amor Ranchero",
-      "url": "https://open.spotify.com/track/4h8xnS3HBT19lpOvOfctS5"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
         "name": "Cosas Claras, Cosas Buenas (En Vivo)",
         "url": "https://open.spotify.com/album/15WfvkbK6C6h6zIw18XWf1"
       },
@@ -1319,6 +1303,22 @@
       "duration_ms": 200141,
       "name": "Chorumbo",
       "url": "https://open.spotify.com/track/6LQn8zFYS44ak3qAUYsp8b"
+    },
+    {
+      "added_at": "2023-10-06 04:00:00",
+      "album": {
+        "name": "Huapango Amor Ranchero",
+        "url": "https://open.spotify.com/album/40EvvWuBGio70bkcFLk6Fl"
+      },
+      "artists": [
+        {
+          "name": "La Humildad De La Musica Norte\u00f1a",
+          "url": "https://open.spotify.com/artist/0fMwbTSqDbGyg0QgpijRoE"
+        }
+      ],
+      "duration_ms": 199314,
+      "name": "Huapango Amor Ranchero",
+      "url": "https://open.spotify.com/track/4h8xnS3HBT19lpOvOfctS5"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -1399,22 +1399,6 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
-        "name": "Enloquecido",
-        "url": "https://open.spotify.com/album/7pm3bU5WKxGhRI5uyfOKuI"
-      },
-      "artists": [
-        {
-          "name": "Grupo Arriesgado",
-          "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
-        }
-      ],
-      "duration_ms": 212915,
-      "name": "Enloquecido",
-      "url": "https://open.spotify.com/track/3T5F6ulZvDzBQwq3wS31xZ"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
         "name": "Tan Bella y Tan Presumida",
         "url": "https://open.spotify.com/album/0oLNMVzG71nzpxPzDVhnkn"
       },
@@ -1427,6 +1411,22 @@
       "duration_ms": 181264,
       "name": "Tan Bella y Tan Presumida",
       "url": "https://open.spotify.com/track/0wSPEEU9RvF3VZZlpgdGoE"
+    },
+    {
+      "added_at": "2023-10-06 04:00:00",
+      "album": {
+        "name": "Enloquecido",
+        "url": "https://open.spotify.com/album/7pm3bU5WKxGhRI5uyfOKuI"
+      },
+      "artists": [
+        {
+          "name": "Grupo Arriesgado",
+          "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
+        }
+      ],
+      "duration_ms": 212915,
+      "name": "Enloquecido",
+      "url": "https://open.spotify.com/track/3T5F6ulZvDzBQwq3wS31xZ"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -2155,18 +2155,18 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
-        "name": "Por Eso La Deje",
-        "url": "https://open.spotify.com/album/63EVky6PEKdJYaBowGkYBg"
+        "name": "La Receta Del Corrido",
+        "url": "https://open.spotify.com/album/4q77TLjYQuxlqun205xmfz"
       },
       "artists": [
         {
-          "name": "Los Huracanes del Norte",
-          "url": "https://open.spotify.com/artist/2wmwGWrqRizLaSEYrm5dzZ"
+          "name": "La Receta",
+          "url": "https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD"
         }
       ],
-      "duration_ms": 260794,
-      "name": "Por Eso La Deje",
-      "url": "https://open.spotify.com/track/6kOXYe3iDJhbuCvnCCeToK"
+      "duration_ms": 163040,
+      "name": "Los Pasajes Del Sera",
+      "url": "https://open.spotify.com/track/7fVZVKzWzM7G1Q5jBiMyE5"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -2187,18 +2187,18 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
-        "name": "La Receta Del Corrido",
-        "url": "https://open.spotify.com/album/4q77TLjYQuxlqun205xmfz"
+        "name": "Por Eso La Deje",
+        "url": "https://open.spotify.com/album/63EVky6PEKdJYaBowGkYBg"
       },
       "artists": [
         {
-          "name": "La Receta",
-          "url": "https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD"
+          "name": "Los Huracanes del Norte",
+          "url": "https://open.spotify.com/artist/2wmwGWrqRizLaSEYrm5dzZ"
         }
       ],
-      "duration_ms": 163040,
-      "name": "Los Pasajes Del Sera",
-      "url": "https://open.spotify.com/track/7fVZVKzWzM7G1Q5jBiMyE5"
+      "duration_ms": 260794,
+      "name": "Por Eso La Deje",
+      "url": "https://open.spotify.com/track/6kOXYe3iDJhbuCvnCCeToK"
     },
     {
       "added_at": "2023-10-06 04:00:00",

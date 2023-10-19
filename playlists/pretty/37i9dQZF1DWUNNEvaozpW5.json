@@ -1,12 +1,12 @@
 {
   "description": "Lo mejor del rock de aqu\u00ed, como Los Zigarros.",
-  "num_followers": 566095,
+  "num_followers": 566158,
   "original_name": "Rock Espa\u00f1ol",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1NDYwNjMyMDg0MzRjZWU0OTEzZDZlMWJjOTJkNTBkMzk0YzJiZjVi",
+  "snapshot_id": "MCxmNjQ4NjY4ZThhMDAzYmY4MmI5OTE0N2VkMzVhM2I3YzA0YjU5NWE4",
   "tracks": [
     {
       "added_at": "2023-10-12 21:59:00",
@@ -1343,18 +1343,18 @@
     {
       "added_at": "2023-10-12 21:59:00",
       "album": {
-        "name": "Mediterr\u00e1naeo",
-        "url": "https://open.spotify.com/album/7CZDkvrW1btWAv7oV0Sl3o"
+        "name": "Vamos Tirando",
+        "url": "https://open.spotify.com/album/5gNFpJQAyJQvaBmMF8GH0V"
       },
       "artists": [
         {
-          "name": "Los Rebeldes",
-          "url": "https://open.spotify.com/artist/5xL4xxrHU7qleELxk85vAo"
+          "name": "Platero Y Tu",
+          "url": "https://open.spotify.com/artist/1fQt5j7DTPuAOjdbTYgWav"
         }
       ],
-      "duration_ms": 233026,
-      "name": "Mediterraneo",
-      "url": "https://open.spotify.com/track/6QBLmxP1tU6lw1dhKQulau"
+      "duration_ms": 188106,
+      "name": "Tras la barra",
+      "url": "https://open.spotify.com/track/0fN93Sc6gJCkHbh9bqlLX7"
     },
     {
       "added_at": "2023-10-12 21:59:00",
@@ -1375,6 +1375,22 @@
     {
       "added_at": "2023-10-12 21:59:00",
       "album": {
+        "name": "Mediterr\u00e1naeo",
+        "url": "https://open.spotify.com/album/7CZDkvrW1btWAv7oV0Sl3o"
+      },
+      "artists": [
+        {
+          "name": "Los Rebeldes",
+          "url": "https://open.spotify.com/artist/5xL4xxrHU7qleELxk85vAo"
+        }
+      ],
+      "duration_ms": 233026,
+      "name": "Mediterraneo",
+      "url": "https://open.spotify.com/track/6QBLmxP1tU6lw1dhKQulau"
+    },
+    {
+      "added_at": "2023-10-12 21:59:00",
+      "album": {
         "name": "Por Instinto",
         "url": "https://open.spotify.com/album/3b2ODyXT2nMGONCMhUAWA9"
       },
@@ -1387,22 +1403,6 @@
       "duration_ms": 245026,
       "name": "En Blanco Y Negro",
       "url": "https://open.spotify.com/track/0XRCnku7VZhVWHSktqpnWh"
-    },
-    {
-      "added_at": "2023-10-12 21:59:00",
-      "album": {
-        "name": "Vamos Tirando",
-        "url": "https://open.spotify.com/album/5gNFpJQAyJQvaBmMF8GH0V"
-      },
-      "artists": [
-        {
-          "name": "Platero Y Tu",
-          "url": "https://open.spotify.com/artist/1fQt5j7DTPuAOjdbTYgWav"
-        }
-      ],
-      "duration_ms": 188106,
-      "name": "Tras la barra",
-      "url": "https://open.spotify.com/track/0fN93Sc6gJCkHbh9bqlLX7"
     },
     {
       "added_at": "2023-10-12 21:59:00",
@@ -1607,22 +1607,6 @@
     {
       "added_at": "2023-10-12 21:59:00",
       "album": {
-        "name": "Lejos de las leyes de los hombres (Versi\u00f3n 2023)",
-        "url": "https://open.spotify.com/album/7u6hWylxNJin7RPnuTsxrI"
-      },
-      "artists": [
-        {
-          "name": "El \u00daltimo De La Fila",
-          "url": "https://open.spotify.com/artist/2jMYTBTCSNYaCYy54mLc6I"
-        }
-      ],
-      "duration_ms": 201773,
-      "name": "Lejos de las leyes de los hombres - Versi\u00f3n 2023",
-      "url": "https://open.spotify.com/track/2bAUvzIsgE66UmGqADyGQg"
-    },
-    {
-      "added_at": "2023-10-12 21:59:00",
-      "album": {
         "name": "Rock and Roll Actitud (1978-2018)",
         "url": "https://open.spotify.com/album/5UWflqGh9hNMGZQV3Jmn92"
       },
@@ -1635,6 +1619,22 @@
       "duration_ms": 249066,
       "name": "Rock and Roll Star - 2017 Remaster",
       "url": "https://open.spotify.com/track/6UJZUMcCgKHi4uGozQc8EE"
+    },
+    {
+      "added_at": "2023-10-12 21:59:00",
+      "album": {
+        "name": "Lejos de las leyes de los hombres (Versi\u00f3n 2023)",
+        "url": "https://open.spotify.com/album/7u6hWylxNJin7RPnuTsxrI"
+      },
+      "artists": [
+        {
+          "name": "El \u00daltimo De La Fila",
+          "url": "https://open.spotify.com/artist/2jMYTBTCSNYaCYy54mLc6I"
+        }
+      ],
+      "duration_ms": 201773,
+      "name": "Lejos de las leyes de los hombres - Versi\u00f3n 2023",
+      "url": "https://open.spotify.com/track/2bAUvzIsgE66UmGqADyGQg"
     },
     {
       "added_at": "2023-10-12 21:59:00",

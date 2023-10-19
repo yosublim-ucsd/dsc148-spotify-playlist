@@ -1,12 +1,12 @@
 {
   "description": "Real nasty house. Cover: Ookay & JSTJR",
-  "num_followers": 435655,
+  "num_followers": 435720,
   "original_name": "Nasty Bits",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxMTRiYTY5NDA5ZTBlZTE2Y2RkZDI0OWViZWUzNGNkMWE2OTUxNGFi",
+  "snapshot_id": "MCwzODhiOTI5ZWE5Y2I1YjE2MGE3NGI1ZjRkNzI1MThkNWMzMjRiNWVl",
   "tracks": [
     {
       "added_at": "2023-10-13 04:00:00",
@@ -999,22 +999,6 @@
     {
       "added_at": "2023-10-13 04:00:00",
       "album": {
-        "name": "Around Me",
-        "url": "https://open.spotify.com/album/7xN2V5CJqsTKeuEzS756SQ"
-      },
-      "artists": [
-        {
-          "name": "RL Grime",
-          "url": "https://open.spotify.com/artist/5eIbEEQnDM8yuDVB0bimSP"
-        }
-      ],
-      "duration_ms": 210000,
-      "name": "Around Me",
-      "url": "https://open.spotify.com/track/1htEfLu0TYvsJRr2WsInkD"
-    },
-    {
-      "added_at": "2023-10-13 04:00:00",
-      "album": {
         "name": "Set The Tempo (feat. HQA)",
         "url": "https://open.spotify.com/album/5zPcj2i8Xt2JFA5zuK3NiN"
       },
@@ -1051,6 +1035,22 @@
       "duration_ms": 215156,
       "name": "Night Rider",
       "url": "https://open.spotify.com/track/4rKQA3rD8ytaoaRABz9CL6"
+    },
+    {
+      "added_at": "2023-10-13 04:00:00",
+      "album": {
+        "name": "Around Me",
+        "url": "https://open.spotify.com/album/7xN2V5CJqsTKeuEzS756SQ"
+      },
+      "artists": [
+        {
+          "name": "RL Grime",
+          "url": "https://open.spotify.com/artist/5eIbEEQnDM8yuDVB0bimSP"
+        }
+      ],
+      "duration_ms": 210000,
+      "name": "Around Me",
+      "url": "https://open.spotify.com/track/1htEfLu0TYvsJRr2WsInkD"
     },
     {
       "added_at": "2023-10-13 04:00:00",
@@ -1163,26 +1163,6 @@
     {
       "added_at": "2023-10-13 04:00:00",
       "album": {
-        "name": "NYC BABY",
-        "url": "https://open.spotify.com/album/6Ym9zpIrOmmfZmVI1ArSjE"
-      },
-      "artists": [
-        {
-          "name": "HEDEGAARD",
-          "url": "https://open.spotify.com/artist/2ZuweXv0TkfsidZOLZZoM2"
-        },
-        {
-          "name": "CANCUN?",
-          "url": "https://open.spotify.com/artist/5Yw8a4EYuA31E9paXwA50w"
-        }
-      ],
-      "duration_ms": 125585,
-      "name": "NYC BABY",
-      "url": "https://open.spotify.com/track/1d8K4YrRelAi7AuZfxP4Uy"
-    },
-    {
-      "added_at": "2023-10-13 04:00:00",
-      "album": {
         "name": "Moksi Crew",
         "url": "https://open.spotify.com/album/2bqqu0KeHqcsDlGKDCEneE"
       },
@@ -1203,6 +1183,26 @@
       "duration_ms": 291840,
       "name": "Calm Down",
       "url": "https://open.spotify.com/track/1a9Mq3Sr32PM93oWJ3vJU9"
+    },
+    {
+      "added_at": "2023-10-13 04:00:00",
+      "album": {
+        "name": "NYC BABY",
+        "url": "https://open.spotify.com/album/6Ym9zpIrOmmfZmVI1ArSjE"
+      },
+      "artists": [
+        {
+          "name": "HEDEGAARD",
+          "url": "https://open.spotify.com/artist/2ZuweXv0TkfsidZOLZZoM2"
+        },
+        {
+          "name": "CANCUN?",
+          "url": "https://open.spotify.com/artist/5Yw8a4EYuA31E9paXwA50w"
+        }
+      ],
+      "duration_ms": 125585,
+      "name": "NYC BABY",
+      "url": "https://open.spotify.com/track/1d8K4YrRelAi7AuZfxP4Uy"
     },
     {
       "added_at": "2023-10-13 04:00:00",
@@ -1351,26 +1351,6 @@
     {
       "added_at": "2023-10-13 04:00:00",
       "album": {
-        "name": "Otherside",
-        "url": "https://open.spotify.com/album/3tgBxVouYUu3PMOmyhoHsG"
-      },
-      "artists": [
-        {
-          "name": "Malaa",
-          "url": "https://open.spotify.com/artist/7w1eTNePApzDk8XtgykCPS"
-        },
-        {
-          "name": "Wax Motif",
-          "url": "https://open.spotify.com/artist/7zm3aSdmGiOkTt0aZFSO8R"
-        }
-      ],
-      "duration_ms": 210461,
-      "name": "Otherside",
-      "url": "https://open.spotify.com/track/3rIMVg0NW2mq3eokTdyXXz"
-    },
-    {
-      "added_at": "2023-10-13 04:00:00",
-      "album": {
         "name": "Nostalgia",
         "url": "https://open.spotify.com/album/4Hltgbaee9ENN0q6PeoPHx"
       },
@@ -1387,6 +1367,26 @@
       "duration_ms": 195268,
       "name": "Nostalgia",
       "url": "https://open.spotify.com/track/7weI2jby4EDuZlWCVMB2xz"
+    },
+    {
+      "added_at": "2023-10-13 04:00:00",
+      "album": {
+        "name": "Otherside",
+        "url": "https://open.spotify.com/album/3tgBxVouYUu3PMOmyhoHsG"
+      },
+      "artists": [
+        {
+          "name": "Malaa",
+          "url": "https://open.spotify.com/artist/7w1eTNePApzDk8XtgykCPS"
+        },
+        {
+          "name": "Wax Motif",
+          "url": "https://open.spotify.com/artist/7zm3aSdmGiOkTt0aZFSO8R"
+        }
+      ],
+      "duration_ms": 210461,
+      "name": "Otherside",
+      "url": "https://open.spotify.com/track/3rIMVg0NW2mq3eokTdyXXz"
     },
     {
       "added_at": "2023-10-13 04:00:00",
@@ -1499,22 +1499,22 @@
     {
       "added_at": "2023-10-13 04:00:00",
       "album": {
-        "name": "Whistle",
-        "url": "https://open.spotify.com/album/74ewEdzLaaLzrLvQumG2bC"
+        "name": "Numb",
+        "url": "https://open.spotify.com/album/6FnqdQC9PHxPoLE5rQqtrn"
       },
       "artists": [
         {
-          "name": "BYOR",
-          "url": "https://open.spotify.com/artist/0Upxnyh9nIUNSOmNE8WF4R"
+          "name": "Twin Diplomacy",
+          "url": "https://open.spotify.com/artist/5rweLVovWSRNfeuVvzPcCq"
         },
         {
-          "name": "Shift K3Y",
-          "url": "https://open.spotify.com/artist/26OrZl5U3VNGHU9qUj8EcM"
+          "name": "Sunday Scaries",
+          "url": "https://open.spotify.com/artist/0PavAVTZWBEpaj4iJdKCyj"
         }
       ],
-      "duration_ms": 188160,
-      "name": "Whistle",
-      "url": "https://open.spotify.com/track/0DElhSwX8CocYF16W34qZj"
+      "duration_ms": 178300,
+      "name": "Numb",
+      "url": "https://open.spotify.com/track/6TvCNh37pSO9rp9fIhskKN"
     },
     {
       "added_at": "2023-10-13 04:00:00",
@@ -1551,6 +1551,26 @@
     {
       "added_at": "2023-10-13 04:00:00",
       "album": {
+        "name": "Whistle",
+        "url": "https://open.spotify.com/album/74ewEdzLaaLzrLvQumG2bC"
+      },
+      "artists": [
+        {
+          "name": "BYOR",
+          "url": "https://open.spotify.com/artist/0Upxnyh9nIUNSOmNE8WF4R"
+        },
+        {
+          "name": "Shift K3Y",
+          "url": "https://open.spotify.com/artist/26OrZl5U3VNGHU9qUj8EcM"
+        }
+      ],
+      "duration_ms": 188160,
+      "name": "Whistle",
+      "url": "https://open.spotify.com/track/0DElhSwX8CocYF16W34qZj"
+    },
+    {
+      "added_at": "2023-10-13 04:00:00",
+      "album": {
         "name": "Relations",
         "url": "https://open.spotify.com/album/6pPtbWPEp1UN26ExUTE2Sz"
       },
@@ -1583,26 +1603,6 @@
       "duration_ms": 178065,
       "name": "Molotov",
       "url": "https://open.spotify.com/track/6FggaqcdwsE4pocJ5GaWxr"
-    },
-    {
-      "added_at": "2023-10-13 04:00:00",
-      "album": {
-        "name": "Numb",
-        "url": "https://open.spotify.com/album/6FnqdQC9PHxPoLE5rQqtrn"
-      },
-      "artists": [
-        {
-          "name": "Twin Diplomacy",
-          "url": "https://open.spotify.com/artist/5rweLVovWSRNfeuVvzPcCq"
-        },
-        {
-          "name": "Sunday Scaries",
-          "url": "https://open.spotify.com/artist/0PavAVTZWBEpaj4iJdKCyj"
-        }
-      ],
-      "duration_ms": 178300,
-      "name": "Numb",
-      "url": "https://open.spotify.com/track/6TvCNh37pSO9rp9fIhskKN"
     },
     {
       "added_at": "2023-10-13 04:00:00",
@@ -1699,26 +1699,6 @@
     {
       "added_at": "2023-10-13 04:00:00",
       "album": {
-        "name": "Bring It Back",
-        "url": "https://open.spotify.com/album/6oMZtThtbHbNCXCVtHos8r"
-      },
-      "artists": [
-        {
-          "name": "Sikdope",
-          "url": "https://open.spotify.com/artist/3EXfNuPuR3OFEdlyoSutcG"
-        },
-        {
-          "name": "Interupt",
-          "url": "https://open.spotify.com/artist/0OFn6uw0q674vCcjDRNP4I"
-        }
-      ],
-      "duration_ms": 177230,
-      "name": "Bring It Back",
-      "url": "https://open.spotify.com/track/35es3y1iNffNsVFMuEfq10"
-    },
-    {
-      "added_at": "2023-10-13 04:00:00",
-      "album": {
         "name": "The Blur",
         "url": "https://open.spotify.com/album/2qXdiuBSCNc5Jamk9lBQqS"
       },
@@ -1751,6 +1731,26 @@
       "duration_ms": 215238,
       "name": "The One",
       "url": "https://open.spotify.com/track/5Kf986lCmcLAlVAennL74R"
+    },
+    {
+      "added_at": "2023-10-13 04:00:00",
+      "album": {
+        "name": "Bring It Back",
+        "url": "https://open.spotify.com/album/6oMZtThtbHbNCXCVtHos8r"
+      },
+      "artists": [
+        {
+          "name": "Sikdope",
+          "url": "https://open.spotify.com/artist/3EXfNuPuR3OFEdlyoSutcG"
+        },
+        {
+          "name": "Interupt",
+          "url": "https://open.spotify.com/artist/0OFn6uw0q674vCcjDRNP4I"
+        }
+      ],
+      "duration_ms": 177230,
+      "name": "Bring It Back",
+      "url": "https://open.spotify.com/track/35es3y1iNffNsVFMuEfq10"
     },
     {
       "added_at": "2023-10-13 04:00:00",
@@ -1855,22 +1855,6 @@
     {
       "added_at": "2023-10-13 04:00:00",
       "album": {
-        "name": "Dont Sleep",
-        "url": "https://open.spotify.com/album/29C3mRpDY5Lqxh5X5mlnl9"
-      },
-      "artists": [
-        {
-          "name": "BROHUG",
-          "url": "https://open.spotify.com/artist/3IHsD0sttucHrX8b32Vcab"
-        }
-      ],
-      "duration_ms": 156480,
-      "name": "Dont Sleep",
-      "url": "https://open.spotify.com/track/0bmT2MQ4FrBOgWhYr4S8Lj"
-    },
-    {
-      "added_at": "2023-10-13 04:00:00",
-      "album": {
         "name": "BLEEP BLOOP",
         "url": "https://open.spotify.com/album/2pYDaq6cycAXPtCShZk0zY"
       },
@@ -1883,6 +1867,22 @@
       "duration_ms": 152888,
       "name": "BLEEP BLOOP",
       "url": "https://open.spotify.com/track/3HVXJpaAL8ebZxd1oo8Bzc"
+    },
+    {
+      "added_at": "2023-10-13 04:00:00",
+      "album": {
+        "name": "Dont Sleep",
+        "url": "https://open.spotify.com/album/29C3mRpDY5Lqxh5X5mlnl9"
+      },
+      "artists": [
+        {
+          "name": "BROHUG",
+          "url": "https://open.spotify.com/artist/3IHsD0sttucHrX8b32Vcab"
+        }
+      ],
+      "duration_ms": 156480,
+      "name": "Dont Sleep",
+      "url": "https://open.spotify.com/track/0bmT2MQ4FrBOgWhYr4S8Lj"
     },
     {
       "added_at": "2023-10-13 04:00:00",
@@ -1915,6 +1915,22 @@
     {
       "added_at": "2023-10-13 04:00:00",
       "album": {
+        "name": "Go Back",
+        "url": "https://open.spotify.com/album/2UgSM0r0Af6WpVhSlhLAnf"
+      },
+      "artists": [
+        {
+          "name": "NIIKO X SWAE",
+          "url": "https://open.spotify.com/artist/7ui1kBUIbujvJnIXxDjoWz"
+        }
+      ],
+      "duration_ms": 146190,
+      "name": "Go Back",
+      "url": "https://open.spotify.com/track/7qM19bCRQhMgoLgy6PCMmS"
+    },
+    {
+      "added_at": "2023-10-13 04:00:00",
+      "album": {
         "name": "Ricochet",
         "url": "https://open.spotify.com/album/79FMrbPy2c7zRzadyNV9aa"
       },
@@ -1943,18 +1959,22 @@
     {
       "added_at": "2023-10-13 04:00:00",
       "album": {
-        "name": "Go Back",
-        "url": "https://open.spotify.com/album/2UgSM0r0Af6WpVhSlhLAnf"
+        "name": "Down Like That",
+        "url": "https://open.spotify.com/album/4R3LSUSZzqN2uLLl4h7OoN"
       },
       "artists": [
         {
-          "name": "NIIKO X SWAE",
-          "url": "https://open.spotify.com/artist/7ui1kBUIbujvJnIXxDjoWz"
+          "name": "Henry Fong",
+          "url": "https://open.spotify.com/artist/3nALc9PyUfe6CO3EY9bNhH"
+        },
+        {
+          "name": "Axel Boy",
+          "url": "https://open.spotify.com/artist/4DabGEOrvBxxta0YlaaJpJ"
         }
       ],
-      "duration_ms": 146190,
-      "name": "Go Back",
-      "url": "https://open.spotify.com/track/7qM19bCRQhMgoLgy6PCMmS"
+      "duration_ms": 140000,
+      "name": "Down Like That",
+      "url": "https://open.spotify.com/track/02WXjHrQgBZc4stIRzYaFR"
     },
     {
       "added_at": "2023-10-13 04:00:00",
@@ -2011,26 +2031,6 @@
     {
       "added_at": "2023-10-13 04:00:00",
       "album": {
-        "name": "PBJ",
-        "url": "https://open.spotify.com/album/6INzRJV3JKaf0I42L1tPZU"
-      },
-      "artists": [
-        {
-          "name": "Henry Fong",
-          "url": "https://open.spotify.com/artist/3nALc9PyUfe6CO3EY9bNhH"
-        },
-        {
-          "name": "NITTI",
-          "url": "https://open.spotify.com/artist/21AUdblPrTRzkvJn8FGrlk"
-        }
-      ],
-      "duration_ms": 168055,
-      "name": "PBJ",
-      "url": "https://open.spotify.com/track/0NmUL8gDbSDE3K7jBE4yFY"
-    },
-    {
-      "added_at": "2023-10-13 04:00:00",
-      "album": {
         "name": "Spinnin'",
         "url": "https://open.spotify.com/album/4QKGpE4b21hOsDGJ6yW8JS"
       },
@@ -2071,6 +2071,26 @@
     {
       "added_at": "2023-10-13 04:00:00",
       "album": {
+        "name": "PBJ",
+        "url": "https://open.spotify.com/album/6INzRJV3JKaf0I42L1tPZU"
+      },
+      "artists": [
+        {
+          "name": "Henry Fong",
+          "url": "https://open.spotify.com/artist/3nALc9PyUfe6CO3EY9bNhH"
+        },
+        {
+          "name": "NITTI",
+          "url": "https://open.spotify.com/artist/21AUdblPrTRzkvJn8FGrlk"
+        }
+      ],
+      "duration_ms": 168055,
+      "name": "PBJ",
+      "url": "https://open.spotify.com/track/0NmUL8gDbSDE3K7jBE4yFY"
+    },
+    {
+      "added_at": "2023-10-13 04:00:00",
+      "album": {
         "name": "Rage",
         "url": "https://open.spotify.com/album/21JEOvsMFfHCEhAq2YKxYq"
       },
@@ -2107,6 +2127,22 @@
       "duration_ms": 198094,
       "name": "Back It Up (feat. Young Lyxx)",
       "url": "https://open.spotify.com/track/6ePX5p0ufqiYywnNa9nXkO"
+    },
+    {
+      "added_at": "2023-10-13 04:00:00",
+      "album": {
+        "name": "Out of Love",
+        "url": "https://open.spotify.com/album/3yfOjkxLPzuG5727fyBPaQ"
+      },
+      "artists": [
+        {
+          "name": "BROHUG",
+          "url": "https://open.spotify.com/artist/3IHsD0sttucHrX8b32Vcab"
+        }
+      ],
+      "duration_ms": 180480,
+      "name": "Out of Love",
+      "url": "https://open.spotify.com/track/3eWPbGAI6Db9eP6PPSE9Nt"
     },
     {
       "added_at": "2023-10-13 04:00:00",
@@ -2175,26 +2211,6 @@
     {
       "added_at": "2023-10-13 04:00:00",
       "album": {
-        "name": "Down Like That",
-        "url": "https://open.spotify.com/album/4R3LSUSZzqN2uLLl4h7OoN"
-      },
-      "artists": [
-        {
-          "name": "Henry Fong",
-          "url": "https://open.spotify.com/artist/3nALc9PyUfe6CO3EY9bNhH"
-        },
-        {
-          "name": "Axel Boy",
-          "url": "https://open.spotify.com/artist/4DabGEOrvBxxta0YlaaJpJ"
-        }
-      ],
-      "duration_ms": 140000,
-      "name": "Down Like That",
-      "url": "https://open.spotify.com/track/02WXjHrQgBZc4stIRzYaFR"
-    },
-    {
-      "added_at": "2023-10-13 04:00:00",
-      "album": {
         "name": "Gimme Bass",
         "url": "https://open.spotify.com/album/4oBkrsdifIQQu8woMAEOGE"
       },
@@ -2239,26 +2255,6 @@
     {
       "added_at": "2023-10-13 04:00:00",
       "album": {
-        "name": "Daybreak",
-        "url": "https://open.spotify.com/album/3H3s8lkiSk2psIyUf5T0eh"
-      },
-      "artists": [
-        {
-          "name": "BIJOU",
-          "url": "https://open.spotify.com/artist/3abRKajGbb3kLMy9AWzfMA"
-        },
-        {
-          "name": "Honey & Badger",
-          "url": "https://open.spotify.com/artist/5R5qNSYFn04J9jF8UnmYbK"
-        }
-      ],
-      "duration_ms": 186666,
-      "name": "Daybreak",
-      "url": "https://open.spotify.com/track/3JRTdqas2IpIXLGdrLhRUG"
-    },
-    {
-      "added_at": "2023-10-13 04:00:00",
-      "album": {
         "name": "Closer",
         "url": "https://open.spotify.com/album/1lzlyna8QYmGs1QRzfe73K"
       },
@@ -2295,6 +2291,26 @@
       "duration_ms": 161574,
       "name": "Who U With (feat. Killa Kela)",
       "url": "https://open.spotify.com/track/7HKsIwDpv9CqbXRkkMVkYU"
+    },
+    {
+      "added_at": "2023-10-13 04:00:00",
+      "album": {
+        "name": "Daybreak",
+        "url": "https://open.spotify.com/album/3H3s8lkiSk2psIyUf5T0eh"
+      },
+      "artists": [
+        {
+          "name": "BIJOU",
+          "url": "https://open.spotify.com/artist/3abRKajGbb3kLMy9AWzfMA"
+        },
+        {
+          "name": "Honey & Badger",
+          "url": "https://open.spotify.com/artist/5R5qNSYFn04J9jF8UnmYbK"
+        }
+      ],
+      "duration_ms": 186666,
+      "name": "Daybreak",
+      "url": "https://open.spotify.com/track/3JRTdqas2IpIXLGdrLhRUG"
     },
     {
       "added_at": "2023-10-13 04:00:00",
@@ -2371,22 +2387,6 @@
       "duration_ms": 222260,
       "name": "Techno",
       "url": "https://open.spotify.com/track/2CcQBQomdpTg3q97rj2Gp7"
-    },
-    {
-      "added_at": "2023-10-13 04:00:00",
-      "album": {
-        "name": "Out of Love",
-        "url": "https://open.spotify.com/album/3yfOjkxLPzuG5727fyBPaQ"
-      },
-      "artists": [
-        {
-          "name": "BROHUG",
-          "url": "https://open.spotify.com/artist/3IHsD0sttucHrX8b32Vcab"
-        }
-      ],
-      "duration_ms": 180480,
-      "name": "Out of Love",
-      "url": "https://open.spotify.com/track/3eWPbGAI6Db9eP6PPSE9Nt"
     },
     {
       "added_at": "2023-10-13 04:00:00",

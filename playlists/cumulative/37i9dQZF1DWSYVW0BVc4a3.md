@@ -4,7 +4,7 @@
 
 > The stomping ground\. Cover: Mochakk
 
-674 songs - 2 day 4 hr 50 min
+675 songs - 2 day 4 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -571,6 +571,7 @@
 | [The Chant \- For Club Play Only, Pt\. 8](https://open.spotify.com/track/7xy9K0gpqzgUGGuxG5ZfuN) | [Duke Dumont](https://open.spotify.com/artist/61lyPtntblHJvA7FMMhi7E) | [The Chant \(For Club Play Only, Pt\. 8\)](https://open.spotify.com/album/4l12XOrKoqpy2skRc8Zi6Q) | 3:10 | 2023-05-25 |  |
 | [The Connection](https://open.spotify.com/track/5lrT2jSuosa65iGM2UsrPx) | [Miss Monique](https://open.spotify.com/artist/29TpNOsTNYbLb6Xa10H0PR) | [Rebirth](https://open.spotify.com/album/5k27SCv9uikB2YqlMB9Ub2) | 4:22 | 2023-05-05 | 2023-05-26 |
 | [The Dream \(feat\. Martina Camargo\)](https://open.spotify.com/track/2dwU9cQumllxZFtXgautY4) | [Adam Port](https://open.spotify.com/artist/2loEsOijJ6XiGzWYFXMIRk), [Theus Mago](https://open.spotify.com/artist/5AmmljbTOeKJcfoTd6QCd3), [Keinemusik](https://open.spotify.com/artist/26WKgv73kRHD0gEDKD1i8j), [Martina Camargo](https://open.spotify.com/artist/2vGRgVlsY6BB9PyESPm6IH) | [The Dream \(feat\. Martina Camargo\)](https://open.spotify.com/album/3PUyvnJrykuLTnWyUhyrep) | 3:30 | 2023-07-28 | 2023-08-04 |
+| [The Greatest Thing Alive](https://open.spotify.com/track/6As1zfxQHAgeQPBK2paaqh) | [Mark Knight](https://open.spotify.com/artist/3h11MHQeCrcsUgRRijI1zL), [Green Velvet](https://open.spotify.com/artist/3ABaec4jjl95VqmG1iD4k2), [James Hurr](https://open.spotify.com/artist/2g9i2kA0jUr6sfAT28l2vL) | [The Greatest Thing Alive](https://open.spotify.com/album/4pO9irtP1FElMi4HaIUct0) | 2:56 | 2023-10-12 |  |
 | [The Last Goodbye \(feat\. Bettye LaVette\) \- DJ Seinfeld Remix](https://open.spotify.com/track/4DmUdGg9eXpOb48eDjOi1p) | [ODESZA](https://open.spotify.com/artist/21mKp7DqtSNHhCAU2ugvUw), [Bettye LaVette](https://open.spotify.com/artist/55U998XxmxjicLMKDSz6R3), [DJ Seinfeld](https://open.spotify.com/artist/37YzpfBeFju8QRZ3g0Ha1Q) | [The Last Goodbye Remixes N°.1](https://open.spotify.com/album/0vt9IqflcQqkTa6ExJoccQ) | 3:56 | 2022-09-22 | 2023-01-27 |
 | [The Letter](https://open.spotify.com/track/4xknmQJg8EJuPi9b4oGMli) | [J Lauda](https://open.spotify.com/artist/5lKQ05oFwm17Qlsctpr1BL) | [Odd Ones, Vol\. 1](https://open.spotify.com/album/0pUstc1nIrxr3Ko8TSSVgg) | 4:21 | 2022-12-27 | 2023-01-02 |
 | [The Light](https://open.spotify.com/track/7pPoGOBTtlEm724TAegcw2) | [TSHA](https://open.spotify.com/artist/2kLa7JZu4Ijdz1Gle2khZh) | [Capricorn Sun](https://open.spotify.com/album/5maY5nikux4eBxcRCThzrA) | 4:59 | 2022-10-07 | 2022-12-02 |
@@ -616,7 +617,7 @@
 | [Tremors](https://open.spotify.com/track/2yHaxm6DL7A9bpb0L4GyQo) | [Mall Grab](https://open.spotify.com/artist/7yF6JnFPDzgml2Ytkyl5D7) | [What I Breathe \(Deluxe\)](https://open.spotify.com/album/696j98HfflKXkJ1jDIzaJI) | 4:55 | 2022-12-08 | 2023-02-03 |
 | [Trial Motive](https://open.spotify.com/track/4axLUgmvqOa6lspKcI44n0) | [Disfreq](https://open.spotify.com/artist/2r6S8dhE6TLxyYJndSd345) | [Liveware](https://open.spotify.com/album/3sA8rKmuHD7BvBbgqSYDrd) | 5:12 | 2022-10-27 | 2023-01-27 |
 | [Tribute To Orange Clouds](https://open.spotify.com/track/5joBjODoRwhq4Y9HbnFuhw) | [Ida Engberg](https://open.spotify.com/artist/5psccYjSTbvey4GWul62EB) | [Tribute To Orange Clouds](https://open.spotify.com/album/1uZm7H0vJXyVl80WifEWYU) | 3:42 | 2023-01-26 | 2023-03-10 |
-| [Tripchain](https://open.spotify.com/track/3wLIyQsH1vm9jmg0p5Dsga) | [John Digweed](https://open.spotify.com/artist/3xnDktxhudJR2Wv3HZDQ9W), [Nick Muir](https://open.spotify.com/artist/2Z24cX1mJuD751l4CusqYp), [Franky Wah](https://open.spotify.com/artist/3IG3Ub4ra8AuSxCFDVkVco) | [Tripchain / Scanalatura](https://open.spotify.com/album/6lpcgj0260dwSF2DEZ33el) | 6:45 | 2023-09-07 |  |
+| [Tripchain](https://open.spotify.com/track/3wLIyQsH1vm9jmg0p5Dsga) | [John Digweed](https://open.spotify.com/artist/3xnDktxhudJR2Wv3HZDQ9W), [Nick Muir](https://open.spotify.com/artist/2Z24cX1mJuD751l4CusqYp), [Franky Wah](https://open.spotify.com/artist/3IG3Ub4ra8AuSxCFDVkVco) | [Tripchain / Scanalatura](https://open.spotify.com/album/6lpcgj0260dwSF2DEZ33el) | 6:45 | 2023-09-07 | 2023-10-19 |
 | [True Love to the Grave \(feat\. Claudia Kane\)](https://open.spotify.com/track/1Av5Jjo7q31Iojme6EvBKC) | [Maya Jane Coles](https://open.spotify.com/artist/6TshTCYwh9ySzOO6Jy4Ux2), [Claudia Kane](https://open.spotify.com/artist/4UazGkNTyhQw8UDtJVhd82) | [True Love to the Grave \(feat\. Claudia Kane\)](https://open.spotify.com/album/4pTvGotVgYC5M4FJc6pfpG) | 3:11 | 2022-08-18 | 2022-08-26 |
 | [Tudo Bem, Tudo Bom \- Radio Edit](https://open.spotify.com/track/6qcPNJ9UGyBNxEc6r9Aiki) | [Vintage Culture](https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts) | [Tudo Bem, Tudo Bom](https://open.spotify.com/album/5DDC66giRO5VgBOVypxxkn) | 2:58 | 2023-09-14 |  |
 | [Tulum](https://open.spotify.com/track/2EBNZDuUE3FFcbLADOhOTC) | [Vandelux](https://open.spotify.com/artist/2rdSCmWgrIWA8pmwhS1T2k) | [Tulum](https://open.spotify.com/album/1pFpQxlLrzhPTTV071GvTL) | 3:45 | 2022-08-18 | 2022-09-24 |

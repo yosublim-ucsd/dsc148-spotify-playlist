@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiNjBlNGRlODlmMWVkM2RjOTRmMGUzM2RjOWEzZDI2ODA5NmRkY2Rk",
+  "snapshot_id": "MCxiMTlmZmU2MTk1ZjZkN2EwMjYxODZlMzFkMWQ4MzJiMmZjMDQyMDNj",
   "tracks": [
     {
       "added_at": "2023-10-17 14:15:38",
@@ -399,22 +399,6 @@
       "duration_ms": 188000,
       "name": "More Than Enough",
       "url": "https://open.spotify.com/track/0UW8TcUM9JHJB5QrM0Pjx8"
-    },
-    {
-      "added_at": "2023-10-17 14:15:38",
-      "album": {
-        "name": "Ngozi",
-        "url": "https://open.spotify.com/album/45Wb2RLhEF2CvubX8G89qX"
-      },
-      "artists": [
-        {
-          "name": "Ric Hassani",
-          "url": "https://open.spotify.com/artist/5twTCOm58CXYCqCny4gYcQ"
-        }
-      ],
-      "duration_ms": 223596,
-      "name": "Ngozi",
-      "url": "https://open.spotify.com/track/6YHRw6MptcrYWv7JYROGTk"
     },
     {
       "added_at": "2023-10-17 14:15:38",

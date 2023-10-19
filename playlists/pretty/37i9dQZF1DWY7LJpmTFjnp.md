@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY7LJpmTFjnp.md) - [plain]
 
 > Una dosis con lo más chingón pa'l gusto mexicano\. El Tri en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,007,570 likes - 100 songs - 6 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,007,662 likes - 100 songs - 6 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -93,8 +93,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY7LJpmTFjnp.md) - [plain]
 | 83 | [Aeropuerto](https://open.spotify.com/track/1f6ZoZeirpFWvvkOvKR3ct) | [2 minutos](https://open.spotify.com/artist/5sASmkskUJsvYDSYKRkkYd), [Los Fabulosos Cadillacs](https://open.spotify.com/artist/2FS22haX3FYbyOsUAkuYqZ) | [Aeropuerto](https://open.spotify.com/album/7LOdn5nP05V21rRhA0zndn) | 3:14 |
 | 84 | [El Ático](https://open.spotify.com/track/01L1D88jqcMuAOvLRyYVbj) | [Ska\-P](https://open.spotify.com/artist/2fiiGUBgPsIKDCE0bTthnl) | [El Ático](https://open.spotify.com/album/6u178zpBY3ZU10qIjYjzbm) | 4:02 |
 | 85 | [Calles de Talcahuano](https://open.spotify.com/track/0KqGmiYvF82ThoZsyrVEUX) | [Los Bunkers](https://open.spotify.com/artist/3RTAXX6KGdljBsOIupyZgT) | [Calles de Talcahuano](https://open.spotify.com/album/5bIBnHST3LzbrlEktSUXWE) | 3:46 |
-| 86 | [Yo Tomo](https://open.spotify.com/track/7EFXiU4su2Wrbw395sExAX) | [La Sonora Dinamita](https://open.spotify.com/artist/13or1Wf6ipcvSIiurZATvw), [Gustavo Cordera](https://open.spotify.com/artist/3dOfwznaY7FEKpF8aw1q9i) | [Yo Tomo](https://open.spotify.com/album/4CvY2laGULuB45gIFmdRR4) | 3:39 |
-| 87 | [De Mis Pasos](https://open.spotify.com/track/2meVfM6TuffeHGh8SuHShQ) | [Julieta Venegas](https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm) | [Aqui](https://open.spotify.com/album/02FnxsRIsjpfiRxv5PCpNJ) | 3:18 |
+| 86 | [De Mis Pasos](https://open.spotify.com/track/2meVfM6TuffeHGh8SuHShQ) | [Julieta Venegas](https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm) | [Aqui](https://open.spotify.com/album/02FnxsRIsjpfiRxv5PCpNJ) | 3:18 |
+| 87 | [Yo Tomo](https://open.spotify.com/track/7EFXiU4su2Wrbw395sExAX) | [La Sonora Dinamita](https://open.spotify.com/artist/13or1Wf6ipcvSIiurZATvw), [Gustavo Cordera](https://open.spotify.com/artist/3dOfwznaY7FEKpF8aw1q9i) | [Yo Tomo](https://open.spotify.com/album/4CvY2laGULuB45gIFmdRR4) | 3:39 |
 | 88 | [Las Batallas/Rarotonga \- MTV Unplugged](https://open.spotify.com/track/0b0x5fdpSjvJ8LiYSPnWoF) | [Café Tacvba](https://open.spotify.com/artist/09xj0S68Y1OU1vHMCZAIvz) | [Un Segundo MTV Unplugged](https://open.spotify.com/album/6FFHjkllIIyfWlObWFrZ6X) | 5:26 |
 | 89 | [Oro](https://open.spotify.com/track/29c0OXo0x1xYt6MMBXFmTn) | [Los Auténticos Decadentes](https://open.spotify.com/artist/3HrbmsYpKjWH1lzhad7alj), [Tokyo Ska Paradise Orchestra](https://open.spotify.com/artist/0UZq6vAHrwGgctvxTzzxYm), [Bronco](https://open.spotify.com/artist/0VKh7CQDi9MkUvaBMoK1V0) | [Oro](https://open.spotify.com/album/3iYqZjOvHf05btkIaihOUi) | 3:30 |
 | 90 | [Sam El Bigotón](https://open.spotify.com/track/1cPaytgR4EP7GrUQ8RIEn6) | [Los Gatos Rockabilly](https://open.spotify.com/artist/44g8mCTOmHpdeZFuaj9hS3), [El Tri](https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne), [Alex Lora](https://open.spotify.com/artist/65jeNkVjlDdEUkPGSFyyNh) | [Sam El Bigotón](https://open.spotify.com/album/034wKcuMzgFDMuu1pCjOeC) | 2:55 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY7LJpmTFjnp.md) - [plain]
 | 99 | [Por Un Amor](https://open.spotify.com/track/30V5WvVaHmvbKnpPm31hjr) | [Chetes](https://open.spotify.com/artist/5sIuOfUs74K1zFv5BqVaQY), [Calexico](https://open.spotify.com/artist/1OmdWpAh1pucAuZPzJaxIJ) | [Por Un Amor / Melodrama](https://open.spotify.com/album/37hmlwEAzNfuy2KScrXA4W) | 2:49 |
 | 100 | [Almas Rotas](https://open.spotify.com/track/3tCD9o5wDyg8yrH7MspqkW) | [DLD](https://open.spotify.com/artist/7CwiLiC1S8B69RMPxbDb6S) | [Almas Rotas](https://open.spotify.com/album/4ksTEssdxEf4aOBy7o4Ifz) | 3:45 |
 
-Snapshot ID: `MCw4MGY4OTE2ZWNhNjA3YzA3NTVmZDJmNTIwYTQ3NDU2ZmUwNWNmNzBh`
+Snapshot ID: `MCxmMDNlNzY4ZTZlZjlhOWNhMzdkNTViNDgwZTg2ODBhYTdhYTVkMDRj`

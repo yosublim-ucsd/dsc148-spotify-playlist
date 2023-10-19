@@ -1,12 +1,12 @@
 {
   "description": "Kick back and relax after a hard day.",
-  "num_followers": 67169,
+  "num_followers": 67182,
   "original_name": "Home at Last",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwNmU3NDc3YWE2ZWY2ZjliYTE4YjgwYThjYjYyMTJhMzI1OGUxY2Iw",
+  "snapshot_id": "MCxmNzY2ZTM1YWEwYmIyY2E5MDQzMzk3MWI4MjQzZmQxYjM3MDkwZjM1",
   "tracks": [
     {
       "added_at": "2023-10-13 00:01:00",
@@ -167,22 +167,6 @@
     {
       "added_at": "2023-10-13 00:01:00",
       "album": {
-        "name": "Sticking With It",
-        "url": "https://open.spotify.com/album/4lcsKKAPES2jYFmtSyRH95"
-      },
-      "artists": [
-        {
-          "name": "The Dip",
-          "url": "https://open.spotify.com/artist/2qFOYqFxPaIwEnffVhJhEn"
-        }
-      ],
-      "duration_ms": 182813,
-      "name": "Sleep On It",
-      "url": "https://open.spotify.com/track/3BZqRfYykl706UFrdR7byF"
-    },
-    {
-      "added_at": "2023-10-13 00:01:00",
-      "album": {
         "name": "cigarettes & black lipstick",
         "url": "https://open.spotify.com/album/6bB3twG3x8Y2f2w8u06KAu"
       },
@@ -195,6 +179,22 @@
       "duration_ms": 180961,
       "name": "cigarettes & black lipstick",
       "url": "https://open.spotify.com/track/3YazpJjTDOs1pCZEhx4uRk"
+    },
+    {
+      "added_at": "2023-10-13 00:01:00",
+      "album": {
+        "name": "Sticking With It",
+        "url": "https://open.spotify.com/album/4lcsKKAPES2jYFmtSyRH95"
+      },
+      "artists": [
+        {
+          "name": "The Dip",
+          "url": "https://open.spotify.com/artist/2qFOYqFxPaIwEnffVhJhEn"
+        }
+      ],
+      "duration_ms": 182813,
+      "name": "Sleep On It",
+      "url": "https://open.spotify.com/track/3BZqRfYykl706UFrdR7byF"
     },
     {
       "added_at": "2023-10-13 00:01:00",
@@ -303,22 +303,6 @@
     {
       "added_at": "2023-10-13 00:01:00",
       "album": {
-        "name": "Goodbye's Kickin' In",
-        "url": "https://open.spotify.com/album/0aoHbXtMcuzHSOaukOaT9G"
-      },
-      "artists": [
-        {
-          "name": "Brothers Osborne",
-          "url": "https://open.spotify.com/artist/39NR3AUhpbbqKM33vWn2fp"
-        }
-      ],
-      "duration_ms": 201970,
-      "name": "Goodbye\u2019s Kickin\u2019 In",
-      "url": "https://open.spotify.com/track/3KcBTqKjbo8CG9eXdFzXoA"
-    },
-    {
-      "added_at": "2023-10-13 00:01:00",
-      "album": {
         "name": "Horizons",
         "url": "https://open.spotify.com/album/1FOyCt7ibwzAUlfvQYh28l"
       },
@@ -331,6 +315,22 @@
       "duration_ms": 208167,
       "name": "Does Anybody Know",
       "url": "https://open.spotify.com/track/68hRjnbmGNKjGObSdmB5ZL"
+    },
+    {
+      "added_at": "2023-10-13 00:01:00",
+      "album": {
+        "name": "Goodbye's Kickin' In",
+        "url": "https://open.spotify.com/album/0aoHbXtMcuzHSOaukOaT9G"
+      },
+      "artists": [
+        {
+          "name": "Brothers Osborne",
+          "url": "https://open.spotify.com/artist/39NR3AUhpbbqKM33vWn2fp"
+        }
+      ],
+      "duration_ms": 201970,
+      "name": "Goodbye\u2019s Kickin\u2019 In",
+      "url": "https://open.spotify.com/track/3KcBTqKjbo8CG9eXdFzXoA"
     },
     {
       "added_at": "2023-10-13 00:01:00",
@@ -439,6 +439,22 @@
     {
       "added_at": "2023-10-13 00:01:00",
       "album": {
+        "name": "Kingfish",
+        "url": "https://open.spotify.com/album/6fCDiY92JVAorr6HrKStRH"
+      },
+      "artists": [
+        {
+          "name": "Christone \"Kingfish\" Ingram",
+          "url": "https://open.spotify.com/artist/5jMGnqJkgPaiJzwy5bOcYX"
+        }
+      ],
+      "duration_ms": 264811,
+      "name": "Believe These Blues",
+      "url": "https://open.spotify.com/track/1atDSd7gy75YurFKnV7ykE"
+    },
+    {
+      "added_at": "2023-10-13 00:01:00",
+      "album": {
         "name": "Riding With The King",
         "url": "https://open.spotify.com/album/7w0uQiYScm3ApS8cWXmf4c"
       },
@@ -459,22 +475,6 @@
     {
       "added_at": "2023-10-13 00:01:00",
       "album": {
-        "name": "Kingfish",
-        "url": "https://open.spotify.com/album/6fCDiY92JVAorr6HrKStRH"
-      },
-      "artists": [
-        {
-          "name": "Christone \"Kingfish\" Ingram",
-          "url": "https://open.spotify.com/artist/5jMGnqJkgPaiJzwy5bOcYX"
-        }
-      ],
-      "duration_ms": 264811,
-      "name": "Believe These Blues",
-      "url": "https://open.spotify.com/track/1atDSd7gy75YurFKnV7ykE"
-    },
-    {
-      "added_at": "2023-10-13 00:01:00",
-      "album": {
         "name": "Soul Deep",
         "url": "https://open.spotify.com/album/1GHZSCmUsDkrJwxzX0zGm6"
       },
@@ -487,22 +487,6 @@
       "duration_ms": 199306,
       "name": "Forget What I Said",
       "url": "https://open.spotify.com/track/0yJNGGGZ9eQj4vmvmeornZ"
-    },
-    {
-      "added_at": "2023-10-13 00:01:00",
-      "album": {
-        "name": "Make It All Work Out",
-        "url": "https://open.spotify.com/album/1yp2fTsVvwlrI65in48hWX"
-      },
-      "artists": [
-        {
-          "name": "Jesse Roper",
-          "url": "https://open.spotify.com/artist/0YnrslYN9hfy5ZRCQUjMMt"
-        }
-      ],
-      "duration_ms": 185133,
-      "name": "Make It All Work Out",
-      "url": "https://open.spotify.com/track/19FzdCwxA7hIsbmF8DLac5"
     },
     {
       "added_at": "2023-10-13 00:01:00",
@@ -523,18 +507,18 @@
     {
       "added_at": "2023-10-13 00:01:00",
       "album": {
-        "name": "If These Walls Could Talk",
-        "url": "https://open.spotify.com/album/1oSDdZ6ANLOXgxT8sW75uw"
+        "name": "Make It All Work Out",
+        "url": "https://open.spotify.com/album/1yp2fTsVvwlrI65in48hWX"
       },
       "artists": [
         {
-          "name": "Luke Winslow-King",
-          "url": "https://open.spotify.com/artist/1VN3hs1Ra3vupNT3zN3baC"
+          "name": "Jesse Roper",
+          "url": "https://open.spotify.com/artist/0YnrslYN9hfy5ZRCQUjMMt"
         }
       ],
-      "duration_ms": 177329,
-      "name": "Honeycomb",
-      "url": "https://open.spotify.com/track/6IfSKUayA6YpNLVtfsEDrc"
+      "duration_ms": 185133,
+      "name": "Make It All Work Out",
+      "url": "https://open.spotify.com/track/19FzdCwxA7hIsbmF8DLac5"
     },
     {
       "added_at": "2023-10-13 00:01:00",
@@ -551,6 +535,22 @@
       "duration_ms": 311226,
       "name": "Fire On The Floor",
       "url": "https://open.spotify.com/track/1pkxY9XyI1H4xHq7e00QgW"
+    },
+    {
+      "added_at": "2023-10-13 00:01:00",
+      "album": {
+        "name": "If These Walls Could Talk",
+        "url": "https://open.spotify.com/album/1oSDdZ6ANLOXgxT8sW75uw"
+      },
+      "artists": [
+        {
+          "name": "Luke Winslow-King",
+          "url": "https://open.spotify.com/artist/1VN3hs1Ra3vupNT3zN3baC"
+        }
+      ],
+      "duration_ms": 177329,
+      "name": "Honeycomb",
+      "url": "https://open.spotify.com/track/6IfSKUayA6YpNLVtfsEDrc"
     },
     {
       "added_at": "2023-10-13 00:01:00",
@@ -575,22 +575,6 @@
     {
       "added_at": "2023-10-13 00:01:00",
       "album": {
-        "name": "Turn The Heat Up!",
-        "url": "https://open.spotify.com/album/3OluM5Un09XiWdyrjwtAOX"
-      },
-      "artists": [
-        {
-          "name": "Shemekia Copeland",
-          "url": "https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee"
-        }
-      ],
-      "duration_ms": 253066,
-      "name": "Salt In My Wounds",
-      "url": "https://open.spotify.com/track/5XtVpa3LiJHfnTxRzbfU74"
-    },
-    {
-      "added_at": "2023-10-13 00:01:00",
-      "album": {
         "name": "At Last!",
         "url": "https://open.spotify.com/album/7rd4PorIOPjPTy7qdUeeCt"
       },
@@ -607,6 +591,22 @@
       "duration_ms": 167466,
       "name": "Spoonful - Single Version",
       "url": "https://open.spotify.com/track/1swNbKiUEwgTM6jnkx5rkm"
+    },
+    {
+      "added_at": "2023-10-13 00:01:00",
+      "album": {
+        "name": "Turn The Heat Up!",
+        "url": "https://open.spotify.com/album/3OluM5Un09XiWdyrjwtAOX"
+      },
+      "artists": [
+        {
+          "name": "Shemekia Copeland",
+          "url": "https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee"
+        }
+      ],
+      "duration_ms": 253066,
+      "name": "Salt In My Wounds",
+      "url": "https://open.spotify.com/track/5XtVpa3LiJHfnTxRzbfU74"
     },
     {
       "added_at": "2023-10-13 00:01:00",
@@ -1087,22 +1087,6 @@
     {
       "added_at": "2023-10-13 00:01:00",
       "album": {
-        "name": "Other Side of Goodbye",
-        "url": "https://open.spotify.com/album/1tDJWBen4t2O0QHOHsChrQ"
-      },
-      "artists": [
-        {
-          "name": "Matt Andersen",
-          "url": "https://open.spotify.com/artist/2dOaom01dm1MhNLnyHpWD5"
-        }
-      ],
-      "duration_ms": 154226,
-      "name": "Other Side of Goodbye",
-      "url": "https://open.spotify.com/track/36C3122Qre8AjCMdCQNeAe"
-    },
-    {
-      "added_at": "2023-10-13 00:01:00",
-      "album": {
         "name": "Don't Explain",
         "url": "https://open.spotify.com/album/2uyORQ080sXcPN0oO5lXvT"
       },
@@ -1115,6 +1099,22 @@
       "duration_ms": 274546,
       "name": "Don't Explain",
       "url": "https://open.spotify.com/track/4aTIy3tZ3THeVp3eu6nsw8"
+    },
+    {
+      "added_at": "2023-10-13 00:01:00",
+      "album": {
+        "name": "Other Side of Goodbye",
+        "url": "https://open.spotify.com/album/1tDJWBen4t2O0QHOHsChrQ"
+      },
+      "artists": [
+        {
+          "name": "Matt Andersen",
+          "url": "https://open.spotify.com/artist/2dOaom01dm1MhNLnyHpWD5"
+        }
+      ],
+      "duration_ms": 154226,
+      "name": "Other Side of Goodbye",
+      "url": "https://open.spotify.com/track/36C3122Qre8AjCMdCQNeAe"
     },
     {
       "added_at": "2023-10-13 00:01:00",
@@ -1315,22 +1315,6 @@
     {
       "added_at": "2023-10-13 00:01:00",
       "album": {
-        "name": "The Platinum Collection",
-        "url": "https://open.spotify.com/album/7Kr5H7qAtXjsMxAeNvugTl"
-      },
-      "artists": [
-        {
-          "name": "Gary Moore",
-          "url": "https://open.spotify.com/artist/23wr9RJZg0PmYvVFyNkQ4j"
-        }
-      ],
-      "duration_ms": 473080,
-      "name": "Need Your Love So Bad - 2002 Digital Remaster",
-      "url": "https://open.spotify.com/track/58BGpUO6f8f8LuRyInc61J"
-    },
-    {
-      "added_at": "2023-10-13 00:01:00",
-      "album": {
         "name": "Driving Wheel",
         "url": "https://open.spotify.com/album/5RqYLf8ScgXBcrNRWoyQrP"
       },
@@ -1343,6 +1327,22 @@
       "duration_ms": 157266,
       "name": "Drivin' Wheel - Single Version",
       "url": "https://open.spotify.com/track/4r08u8N2RSeorASn62yHr6"
+    },
+    {
+      "added_at": "2023-10-13 00:01:00",
+      "album": {
+        "name": "The Platinum Collection",
+        "url": "https://open.spotify.com/album/7Kr5H7qAtXjsMxAeNvugTl"
+      },
+      "artists": [
+        {
+          "name": "Gary Moore",
+          "url": "https://open.spotify.com/artist/23wr9RJZg0PmYvVFyNkQ4j"
+        }
+      ],
+      "duration_ms": 473080,
+      "name": "Need Your Love So Bad - 2002 Digital Remaster",
+      "url": "https://open.spotify.com/track/58BGpUO6f8f8LuRyInc61J"
     },
     {
       "added_at": "2023-10-13 00:01:00",
@@ -1499,22 +1499,6 @@
     {
       "added_at": "2023-10-13 00:01:00",
       "album": {
-        "name": "Storm a Comin'",
-        "url": "https://open.spotify.com/album/61IJDksMxSMowgQA7iOtTq"
-      },
-      "artists": [
-        {
-          "name": "Pat Kenny",
-          "url": "https://open.spotify.com/artist/5esMdiK9fCQMbzGOUytrRN"
-        }
-      ],
-      "duration_ms": 193621,
-      "name": "Storm a Comin'",
-      "url": "https://open.spotify.com/track/2zekfUFBwfKIO3OK6NERsM"
-    },
-    {
-      "added_at": "2023-10-13 00:01:00",
-      "album": {
         "name": "Oh Frustration",
         "url": "https://open.spotify.com/album/4bSQ3ONJO8TPrjFMjMmDJu"
       },
@@ -1531,6 +1515,22 @@
       "duration_ms": 226155,
       "name": "Oh Frustration",
       "url": "https://open.spotify.com/track/1syOr9ak9ckiuzdENFViux"
+    },
+    {
+      "added_at": "2023-10-13 00:01:00",
+      "album": {
+        "name": "Storm a Comin'",
+        "url": "https://open.spotify.com/album/61IJDksMxSMowgQA7iOtTq"
+      },
+      "artists": [
+        {
+          "name": "Pat Kenny",
+          "url": "https://open.spotify.com/artist/5esMdiK9fCQMbzGOUytrRN"
+        }
+      ],
+      "duration_ms": 193621,
+      "name": "Storm a Comin'",
+      "url": "https://open.spotify.com/track/2zekfUFBwfKIO3OK6NERsM"
     },
     {
       "added_at": "2023-10-13 00:01:00",
@@ -1931,22 +1931,6 @@
     {
       "added_at": "2023-10-13 00:01:00",
       "album": {
-        "name": "Only The Wild Ones",
-        "url": "https://open.spotify.com/album/23987SO39NcnKh9gtceZKf"
-      },
-      "artists": [
-        {
-          "name": "Jax Hollow",
-          "url": "https://open.spotify.com/artist/25MQQTJdMDKnJoGMyOdHYB"
-        }
-      ],
-      "duration_ms": 249418,
-      "name": "Stepping Stone",
-      "url": "https://open.spotify.com/track/1FpU8YyRBBi2bmCtyi20ZI"
-    },
-    {
-      "added_at": "2023-10-13 00:01:00",
-      "album": {
         "name": "South Side Of Soul Street: The SSS Sessions (Remastered 2022)",
         "url": "https://open.spotify.com/album/3u1omgR0jZ23t1KdAmsaef"
       },
@@ -1959,6 +1943,22 @@
       "duration_ms": 147786,
       "name": "Too Much Pride - Alternate / Remastered 2022",
       "url": "https://open.spotify.com/track/7HsCiZZR1EIAhmnY1kshIl"
+    },
+    {
+      "added_at": "2023-10-13 00:01:00",
+      "album": {
+        "name": "Only The Wild Ones",
+        "url": "https://open.spotify.com/album/23987SO39NcnKh9gtceZKf"
+      },
+      "artists": [
+        {
+          "name": "Jax Hollow",
+          "url": "https://open.spotify.com/artist/25MQQTJdMDKnJoGMyOdHYB"
+        }
+      ],
+      "duration_ms": 249418,
+      "name": "Stepping Stone",
+      "url": "https://open.spotify.com/track/1FpU8YyRBBi2bmCtyi20ZI"
     },
     {
       "added_at": "2023-10-13 00:01:00",
@@ -2043,6 +2043,22 @@
     {
       "added_at": "2023-10-13 00:01:00",
       "album": {
+        "name": "Adobe",
+        "url": "https://open.spotify.com/album/33VPdpWrSixDtnb4xRCQsT"
+      },
+      "artists": [
+        {
+          "name": "Greyhounds",
+          "url": "https://open.spotify.com/artist/1FcTd89N9ESEOsIDD883Kp"
+        }
+      ],
+      "duration_ms": 172480,
+      "name": "Henrietta",
+      "url": "https://open.spotify.com/track/4X7ZaOPsDlhuEgKorpP6Ea"
+    },
+    {
+      "added_at": "2023-10-13 00:01:00",
+      "album": {
         "name": "Got Me a Party",
         "url": "https://open.spotify.com/album/1B4cCMYAWsjT2YZ8rBpsBk"
       },
@@ -2059,18 +2075,18 @@
     {
       "added_at": "2023-10-13 00:01:00",
       "album": {
-        "name": "Adobe",
-        "url": "https://open.spotify.com/album/33VPdpWrSixDtnb4xRCQsT"
+        "name": "Wherever You Aren't",
+        "url": "https://open.spotify.com/album/4KwhVr9nLyGgJT2qf54fDc"
       },
       "artists": [
         {
-          "name": "Greyhounds",
-          "url": "https://open.spotify.com/artist/1FcTd89N9ESEOsIDD883Kp"
+          "name": "Elizabeth Moen",
+          "url": "https://open.spotify.com/artist/3asn1tEPhRNjVd48GXOo1N"
         }
       ],
-      "duration_ms": 172480,
-      "name": "Henrietta",
-      "url": "https://open.spotify.com/track/4X7ZaOPsDlhuEgKorpP6Ea"
+      "duration_ms": 279922,
+      "name": "Ex's House Party",
+      "url": "https://open.spotify.com/track/0eTbwl7KzaUDsMwbQCcAcp"
     },
     {
       "added_at": "2023-10-13 00:01:00",
@@ -2107,22 +2123,6 @@
       "duration_ms": 230426,
       "name": "Breadwinner",
       "url": "https://open.spotify.com/track/2nT0mY6172fHVa71weoplF"
-    },
-    {
-      "added_at": "2023-10-13 00:01:00",
-      "album": {
-        "name": "Wherever You Aren't",
-        "url": "https://open.spotify.com/album/4KwhVr9nLyGgJT2qf54fDc"
-      },
-      "artists": [
-        {
-          "name": "Elizabeth Moen",
-          "url": "https://open.spotify.com/artist/3asn1tEPhRNjVd48GXOo1N"
-        }
-      ],
-      "duration_ms": 279922,
-      "name": "Ex's House Party",
-      "url": "https://open.spotify.com/track/0eTbwl7KzaUDsMwbQCcAcp"
     },
     {
       "added_at": "2023-10-13 00:01:00",
@@ -2295,6 +2295,22 @@
     {
       "added_at": "2023-10-13 00:01:00",
       "album": {
+        "name": "The Deep And The Dirty",
+        "url": "https://open.spotify.com/album/7axAFOQrv524I4Tr23P5X4"
+      },
+      "artists": [
+        {
+          "name": "Eric Johanson",
+          "url": "https://open.spotify.com/artist/0mPiFtQynz01cwuBYNA87Z"
+        }
+      ],
+      "duration_ms": 260866,
+      "name": "Just Like New",
+      "url": "https://open.spotify.com/track/2d9GYgrWMIVs9asm6FSzwq"
+    },
+    {
+      "added_at": "2023-10-13 00:01:00",
+      "album": {
         "name": "Look Up!",
         "url": "https://open.spotify.com/album/0b1Ydows5WMOtN9PeEPklK"
       },
@@ -2363,22 +2379,6 @@
     {
       "added_at": "2023-10-13 00:01:00",
       "album": {
-        "name": "I Need the Lord",
-        "url": "https://open.spotify.com/album/1g0lFxfFtSo2WaimhqDhYu"
-      },
-      "artists": [
-        {
-          "name": "Elizabeth King",
-          "url": "https://open.spotify.com/artist/2rYdxt7Boyo1L88Li76b4V"
-        }
-      ],
-      "duration_ms": 319126,
-      "name": "I Got a Love",
-      "url": "https://open.spotify.com/track/7B3Sw98sgND7SKFU586chA"
-    },
-    {
-      "added_at": "2023-10-13 00:01:00",
-      "album": {
         "name": "Connor Selby (Deluxe Edition)",
         "url": "https://open.spotify.com/album/3MzRJbbq5PsBnmPqV9JzkU"
       },
@@ -2395,18 +2395,18 @@
     {
       "added_at": "2023-10-13 00:01:00",
       "album": {
-        "name": "The Deep And The Dirty",
-        "url": "https://open.spotify.com/album/7axAFOQrv524I4Tr23P5X4"
+        "name": "I Need the Lord",
+        "url": "https://open.spotify.com/album/1g0lFxfFtSo2WaimhqDhYu"
       },
       "artists": [
         {
-          "name": "Eric Johanson",
-          "url": "https://open.spotify.com/artist/0mPiFtQynz01cwuBYNA87Z"
+          "name": "Elizabeth King",
+          "url": "https://open.spotify.com/artist/2rYdxt7Boyo1L88Li76b4V"
         }
       ],
-      "duration_ms": 260866,
-      "name": "Just Like New",
-      "url": "https://open.spotify.com/track/2d9GYgrWMIVs9asm6FSzwq"
+      "duration_ms": 319126,
+      "name": "I Got a Love",
+      "url": "https://open.spotify.com/track/7B3Sw98sgND7SKFU586chA"
     },
     {
       "added_at": "2023-10-13 00:01:00",

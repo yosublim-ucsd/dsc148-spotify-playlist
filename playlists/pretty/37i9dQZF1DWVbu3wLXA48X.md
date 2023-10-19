@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVbu3wLXA48X.md) - [plain]
 
 > Current indie tunes from Asia and around the world\. Cover: boygenius
 
-[Spotify](https://open.spotify.com/user/spotify) - 103,216 likes - 94 songs - 5 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 103,238 likes - 94 songs - 5 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -103,4 +103,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVbu3wLXA48X.md) - [plain]
 | 93 | [Broadview](https://open.spotify.com/track/1hTbH1tGOQ2sqVav7iDHfQ) | [Slow Pulp](https://open.spotify.com/artist/2JFTRDi5v7JtqoouVe1z5D) | [Yard](https://open.spotify.com/album/1KHEiLyeBq82jCqzllcXu9) | 4:05 |
 | 94 | [Blue Marbled Elm Trees](https://open.spotify.com/track/5DeuSsOtWl6vEnepxzrAJ6) | [King Creosote](https://open.spotify.com/artist/5SP6T04F8Ic9oftMVfdKkp) | [Blue Marbled Elm Trees](https://open.spotify.com/album/6wF2Wg85euCwati0jG8Svm) | 5:03 |
 
-Snapshot ID: `MCw2NTliNzIwY2RmMzgxNDU3ZWU4ZGM1ZjQ1YzFkNDRmMDM1ZDljZTM0`
+Snapshot ID: `MCwxM2UyZmE2ODJhNjk2ZDZhZTIzM2M0YzU1NDg4ZTNlZWYzYTY4NDg3`

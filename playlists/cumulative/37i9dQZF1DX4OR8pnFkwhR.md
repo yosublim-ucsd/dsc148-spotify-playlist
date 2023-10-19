@@ -4,7 +4,7 @@
 
 > Spotifyが注目するニューカマー・プレイリスト。Cover: なとり
 
-1,160 songs - 2 day 23 hr 15 min
+1,162 songs - 2 day 23 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -205,6 +205,7 @@
 | [Foolish \- with SUKISHA](https://open.spotify.com/track/2NlcMEvOIaFIIKHQ6YKFiR) | [BELLMAINZ](https://open.spotify.com/artist/4dbOK4V3g2bSvFZvrhcHCm), [SUKISHA](https://open.spotify.com/artist/2Ea7qJOrKOD6OYkXNEUwrs) | [Rely on the Wind](https://open.spotify.com/album/0nlAOQ1jNIX3zXgpTxrpn8) | 3:35 | 2022-10-11 | 2022-11-09 |
 | [Foolish \- with SUKISHA](https://open.spotify.com/track/42oZVEWRITDxCvulC8qnCA) | [BELLMAINZ](https://open.spotify.com/artist/4dbOK4V3g2bSvFZvrhcHCm), [SUKISHA](https://open.spotify.com/artist/2Ea7qJOrKOD6OYkXNEUwrs) | [風を頼りに](https://open.spotify.com/album/4hbDPyrGSEg9KhMpDxK9fC) | 3:35 | 2022-10-11 | 2022-10-13 |
 | [Foreigner](https://open.spotify.com/track/4QknbULYyLuSuMuDtQA3Er) | [Uilou](https://open.spotify.com/artist/3CdEu2bSpVDTmpSMWqFKCL) | [Foreigner](https://open.spotify.com/album/5bxqzQA6p054On5eTCeABP) | 1:28 | 2023-10-17 |  |
+| [Fragile](https://open.spotify.com/track/01PfUkulXfv8lciqwwElRT) | [Tota](https://open.spotify.com/artist/5WIXXPkyVYncLscyUbDrpi) | [Fragile](https://open.spotify.com/album/06rg3ryCKSOb090icMKs26) | 3:50 | 2023-10-17 |  |
 | [Free](https://open.spotify.com/track/0rIweEdu6BVuISxVYcllvp) | [Doul](https://open.spotify.com/artist/6iCB8Oh5qNCfMM6Bjn3bOf) | [W.O.L.F](https://open.spotify.com/album/0r1Yl2QyFlTSsGIcxM26bV) | 3:02 | 2022-03-08 | 2022-04-06 |
 | [Free](https://open.spotify.com/track/45wqUOhtYiE76OW7Us7Tqx) | [Doul](https://open.spotify.com/artist/6iCB8Oh5qNCfMM6Bjn3bOf) | [Free](https://open.spotify.com/album/74BcG9pHH1R3OJRVBiKC8g) | 3:02 | 2022-02-17 | 2022-02-23 |
 | [Freezin' Cold](https://open.spotify.com/track/6bEaHOVgu3Srz17tvh3FEA) | [Bleecker Chrome](https://open.spotify.com/artist/63F60S2TQ5VC0KLx8dWNc8) | [Born Again](https://open.spotify.com/album/3SPLOZJ6DtS8CsRDx8tDVc) | 4:19 | 2022-02-17 | 2022-03-09 |
@@ -646,6 +647,7 @@
 | [Upon You](https://open.spotify.com/track/37EGDFUeDj02buaxZfnX4G) | [Bialystocks](https://open.spotify.com/artist/3y24PAHjsJ3rWvMWERM7Oe) | [Quicksand](https://open.spotify.com/album/2tvmzgCJ6ZYmBtUJl0RfRs) | 3:36 | 2022-11-08 | 2022-11-30 |
 | [Uptown](https://open.spotify.com/track/1kOZ0LYc74VXcCBAm9OJbk) | [S.A.R.](https://open.spotify.com/artist/34PVGf86Ys8Iso5hGXQcaW) | [Uptown](https://open.spotify.com/album/5tK5ucMwXHQQ6rv45J7ijl) | 3:52 | 2023-06-20 | 2023-07-26 |
 | [Uptown](https://open.spotify.com/track/3UJoPYtbRWpYBbXlb9LZxU) | [S.A.R.](https://open.spotify.com/artist/34PVGf86Ys8Iso5hGXQcaW) | [Uptown](https://open.spotify.com/album/3Mup1hH8YhIv0GuFrJxRMq) | 3:52 | 2023-06-20 | 2023-06-22 |
+| [utatane](https://open.spotify.com/track/2gIyLzwAB0kagC7WwQaGWy) | [Leina](https://open.spotify.com/artist/0ufoLkr55gheQNunOgkTae) | [tulip](https://open.spotify.com/album/7i4NY6tlCB2YvAJnmIyuod) | 3:01 | 2023-10-17 |  |
 | [UTOPIA](https://open.spotify.com/track/7sUomyof9ou8XfSi8irv2i) | [Sala](https://open.spotify.com/artist/6PCEjMwZEdp6lUJv7z2prW) | [UTOPIA](https://open.spotify.com/album/58p4LspfYRwGqixVW1QhPf) | 2:45 | 2023-04-18 | 2023-07-19 |
 | [Vacation](https://open.spotify.com/track/1jKeX1vqO02gCogrnj3THz) | [DURDN](https://open.spotify.com/artist/5u1MCRvQ3cA2Y9BpLSZIeg) | [Vacation](https://open.spotify.com/album/0fd3ncp2t3femdF8tRXksD) | 3:01 | 2023-01-12 | 2023-02-02 |
 | [Villain](https://open.spotify.com/track/0ejtTMsf4ZljUhAZZk5boY) | [Tina Moon](https://open.spotify.com/artist/3I1vLdkE4jPKqsbzkOQOIQ) | [Villain](https://open.spotify.com/album/5oY52goRcs3mfvurujXOu3) | 4:06 | 2023-03-28 | 2023-04-12 |
@@ -715,7 +717,7 @@
 | [いつか \- SOMEDAY \(feat\. tonun\) \- 45s Edit](https://open.spotify.com/track/3rFpK78Cw2WmpQL1X18Pag) | [tonun](https://open.spotify.com/artist/4eF1tYcUa9voNDX7xVTrZG), [Tokimeki Records](https://open.spotify.com/artist/73vrL9RiKlSaQFo2izavC1) | [いつか \- SOMEDAY \(feat\. tonun\)](https://open.spotify.com/album/2Bx1wsjWVTExc1pLgrvI7h) | 5:03 | 2022-03-31 | 2022-04-13 |
 | [いつかのいつも](https://open.spotify.com/track/60FktwaiSGm0Hp6aV9ljyE) | [KADOMACHI](https://open.spotify.com/artist/47sQEcoMUPAZyJlV2hOzvD) | [カド・マル・サンカク](https://open.spotify.com/album/1DSloI4V5v4gXhsmO1xryf) | 3:10 | 2022-11-15 | 2022-12-14 |
 | [いつか渚へ](https://open.spotify.com/track/2ajVhqmpcTsPTK51UunVyu) | [グソクムズ](https://open.spotify.com/artist/2pApTGoH8Np1rgRBPu4WJk) | [いつか渚へ](https://open.spotify.com/album/3lGXCo8dfM3FnCPV93fCds) | 3:02 | 2023-07-25 | 2023-08-23 |
-| [うたたね](https://open.spotify.com/track/4C2kdvTzgJAfYO07dDwc5x) | [Leina](https://open.spotify.com/artist/0ufoLkr55gheQNunOgkTae) | [tulip](https://open.spotify.com/album/3Z2RJ7elYZZxug2WVDIwmT) | 3:01 | 2023-10-17 |  |
+| [うたたね](https://open.spotify.com/track/4C2kdvTzgJAfYO07dDwc5x) | [Leina](https://open.spotify.com/artist/0ufoLkr55gheQNunOgkTae) | [tulip](https://open.spotify.com/album/3Z2RJ7elYZZxug2WVDIwmT) | 3:01 | 2023-10-17 | 2023-10-19 |
 | [うまいことできてる \-That’s How it Works\-](https://open.spotify.com/track/0V1jlIfCJHGM6C7ZPwiyyf) | [Sean Oshima](https://open.spotify.com/artist/4LC3wsmgBW48A6DtXtCWsw) | [夢が叶わなかったときの10の対処法 \-10 ways to deal with a broken dream\-](https://open.spotify.com/album/3MAlf0n6vK7dbM8b0fOvBy) | 3:26 | 2023-09-05 | 2023-09-07 |
 | [うららか](https://open.spotify.com/track/25O6vSzE2eM5JjL8Ey5vws) | [moeki](https://open.spotify.com/artist/6fR38gpMfHJIKnbWNcQqfM) | [うららか](https://open.spotify.com/album/4NkXtgqO7mY65KCwGqP5OY) | 3:45 | 2022-04-21 | 2022-05-18 |
 | [おひとつどうぞ](https://open.spotify.com/track/2uskKy1iGWPva9PAHBPTEQ) | [森永陽実](https://open.spotify.com/artist/0JuRTfLYC3IG0mGokEksFh) | [おひとつどうぞ](https://open.spotify.com/album/2wp7YuVO3XI7ZpP1U0XrwV) | 4:45 | 2022-05-17 | 2022-06-08 |
@@ -803,7 +805,7 @@
 | [ケダモノのフレンズ](https://open.spotify.com/track/6WUytTGUVFHTVGOqty1UPs) | [にしな](https://open.spotify.com/artist/2aoUBwmHWln0JSEZbi9E70) | [odds and ends](https://open.spotify.com/album/4T0USknu2Yz9mhoB6enHH0) | 3:37 | 2022-02-27 | 2022-04-20 |
 | [ゲームオーバー](https://open.spotify.com/track/6Ht0WEBCr04XNgqz6cEsTk) | [Kaneyorimasaru](https://open.spotify.com/artist/5h5smZjPHUEDyYNuafjehf) | [ゲームオーバー](https://open.spotify.com/album/0IcKWBOYdCBqlVVa9756Px) | 3:19 | 2022-11-01 | 2022-11-03 |
 | [コズミック](https://open.spotify.com/track/2wIGnFXppV7dbp8I1bmA9B) | [WurtS](https://open.spotify.com/artist/6oued35Hkg7GIEXqVfBrQK) | [コズミック](https://open.spotify.com/album/5XhlBoKq69TkOtXF8uN6CA) | 2:38 | 2022-08-16 | 2022-09-30 |
-| [コワレモノ](https://open.spotify.com/track/2n9VLgcDJxdlwQSdwwBb1G) | [Tota](https://open.spotify.com/artist/5WIXXPkyVYncLscyUbDrpi) | [コワレモノ](https://open.spotify.com/album/4TlQpO7MR1Sh8kZ1hbFqB6) | 3:50 | 2023-10-17 |  |
+| [コワレモノ](https://open.spotify.com/track/2n9VLgcDJxdlwQSdwwBb1G) | [Tota](https://open.spotify.com/artist/5WIXXPkyVYncLscyUbDrpi) | [コワレモノ](https://open.spotify.com/album/4TlQpO7MR1Sh8kZ1hbFqB6) | 3:50 | 2023-10-17 | 2023-10-19 |
 | [ゴミ人間、俺](https://open.spotify.com/track/2VU59VkXEBNX4ZZf7SmGAy) | [yangskinny](https://open.spotify.com/artist/3VVMRDGpbQR2SK9nHX3DW5) | [歌にしてしまえば、どんなことでも許されると思っていた](https://open.spotify.com/album/6PuiGsnDm2d8zKPkK9Iq1e) | 3:49 | 2023-03-14 | 2023-03-16 |
 | [ゴースト](https://open.spotify.com/track/0aBb5sdeZyojEd5cVD9UKb) | [Deep Sea Diving Club](https://open.spotify.com/artist/06kwmmM4VcnrOdBM25pREY) | [Mix Wave](https://open.spotify.com/album/02IbI9D14DVwwU7ZXJz0vd) | 3:47 | 2023-05-09 | 2023-06-21 |
 | [サイレンスで踊りたい](https://open.spotify.com/track/2xUjXwtVV3arfXHr0At5D1) | [GOOD BYE APRIL](https://open.spotify.com/artist/39dx9cIjJILxA81LkcPf38) | [サイレンスで踊りたい](https://open.spotify.com/album/3S4nFATM8NAwyDBukOWPAb) | 3:49 | 2023-10-03 | 2023-10-05 |

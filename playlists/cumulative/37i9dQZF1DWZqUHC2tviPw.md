@@ -4,7 +4,7 @@
 
 > Instrumental beats to boost your weight lifting workout.
 
-208 songs - 9 hr 29 min
+209 songs - 9 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -57,7 +57,8 @@
 | [Detention](https://open.spotify.com/track/594wtrOWRgz43j5da5SBbI) | [Dylan Sitts](https://open.spotify.com/artist/6quCxsPM8fOxowmqOx5j93) | [Detention](https://open.spotify.com/album/7gu3Gu7D0SaaQizxsV9gC7) | 2:14 | 2022-10-14 |  |
 | [Distorcido](https://open.spotify.com/track/1veEROQqh83r67W1gthulY) | [I Mps I](https://open.spotify.com/artist/0i44Z70SJWehRFJQJOAm36) | [Mps Ii](https://open.spotify.com/album/2ITKfOcwympjJyTPV5AnJ7) | 1:18 | 2021-11-11 | 2023-01-20 |
 | [DO YOU HAVE THE DRUGS](https://open.spotify.com/track/2TrTDkj7cHjME50RaEZ3iZ) | [SLVG](https://open.spotify.com/artist/779QJkvhTmrxtUGaMo8QbK), [Grimmjøw](https://open.spotify.com/artist/7uzsn9U6OTLBagyn5sQSnL) | [DELUSIONS III](https://open.spotify.com/album/3f4QMkLNvMJ7mYloBZtJBD) | 3:50 | 2022-07-29 |  |
-| [Edén](https://open.spotify.com/track/5HPE8nk9CE58K5sRuw6GY6) | [Nerso & Verse](https://open.spotify.com/artist/1jRF8rcj4TMuVQR9PWnpFm) | [Edén](https://open.spotify.com/album/3CoNv5qTB6GN0EzLbzweGK) | 3:35 | 2022-04-08 |  |
+| [Edén](https://open.spotify.com/track/3ZjNl4bDL5yD82s8tR1g2L) | [Nerso & Verse](https://open.spotify.com/artist/1jRF8rcj4TMuVQR9PWnpFm) | [FMS Instrumentales 2022](https://open.spotify.com/album/6A7zSbHYZZquZNDqDtBMuE) | 3:35 | 2023-09-04 |  |
+| [Edén](https://open.spotify.com/track/5HPE8nk9CE58K5sRuw6GY6) | [Nerso & Verse](https://open.spotify.com/artist/1jRF8rcj4TMuVQR9PWnpFm) | [Edén](https://open.spotify.com/album/3CoNv5qTB6GN0EzLbzweGK) | 3:35 | 2022-04-08 | 2023-10-19 |
 | [ELECTRICITY](https://open.spotify.com/track/0DlOpwlheQMUoOx0f5euC8) | [BLUE STEEL](https://open.spotify.com/artist/41OiR6DTlbgJtrvqjKioMb) | [XTC](https://open.spotify.com/album/2jugoFHJTnh2ImByqF2mZ3) | 2:30 | 2023-01-20 |  |
 | [Elephants](https://open.spotify.com/track/3DUsZyjKel86426JprmYVd) | [Cushy](https://open.spotify.com/artist/6L1Baujfn33sG3PXou8n1q) | [Elephants](https://open.spotify.com/album/5DfvYDOOwkc6IjpSU1v1i0) | 2:26 | 2022-08-05 |  |
 | [Entropy](https://open.spotify.com/track/441YIkP32be2LQ2Ol6LMmT) | [BassEQ](https://open.spotify.com/artist/4w4B079eb5jukk7o2nvL49) | [BassEQ Beats](https://open.spotify.com/album/147Elkn8P9wvep6M4kqsf0) | 5:03 | 2021-11-11 |  |

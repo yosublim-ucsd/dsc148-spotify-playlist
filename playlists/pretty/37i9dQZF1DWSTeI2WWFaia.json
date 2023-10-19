@@ -1,12 +1,12 @@
 {
   "description": "Lyrical, lo-fi, and lowlife raps. Cover: Earl Sweatshirt",
-  "num_followers": 1617264,
+  "num_followers": 1617279,
   "original_name": "Spilled Ink",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmOTIyMDJmNWQ3Nzc2Yjc5NzYxMzNhZDgwMzdiMDRjODdlNWI5NjU1",
+  "snapshot_id": "MCxhZDI1ZTliYzhiYmVjNmM4NjgzZGE5ZjIxNmMyNzU1ZWU2MGRkY2I2",
   "tracks": [
     {
       "added_at": "2023-10-13 04:00:00",
@@ -863,6 +863,26 @@
     {
       "added_at": "2023-10-13 04:00:00",
       "album": {
+        "name": "Phoenix",
+        "url": "https://open.spotify.com/album/3Vjb7MVaReVbjw4yXbMp5j"
+      },
+      "artists": [
+        {
+          "name": "Lord Apex",
+          "url": "https://open.spotify.com/artist/052uglZ4PgpVs8YxEOViXz"
+        },
+        {
+          "name": "Freddie Gibbs",
+          "url": "https://open.spotify.com/artist/0Y4inQK6OespitzD6ijMwb"
+        }
+      ],
+      "duration_ms": 213940,
+      "name": "Phoenix",
+      "url": "https://open.spotify.com/track/4SDtLLn8LmbOStJeL9Vhkk"
+    },
+    {
+      "added_at": "2023-10-13 04:00:00",
+      "album": {
         "name": "TEXAS BOY",
         "url": "https://open.spotify.com/album/3MtKbdsPYG1uJWwk16qAVH"
       },
@@ -899,26 +919,6 @@
       "duration_ms": 155003,
       "name": "FromTheProjects (feat. Raekwon & Westside Gunn)",
       "url": "https://open.spotify.com/track/5BKde6HGrLmsGCOIwYwhwY"
-    },
-    {
-      "added_at": "2023-10-13 04:00:00",
-      "album": {
-        "name": "Phoenix",
-        "url": "https://open.spotify.com/album/3Vjb7MVaReVbjw4yXbMp5j"
-      },
-      "artists": [
-        {
-          "name": "Lord Apex",
-          "url": "https://open.spotify.com/artist/052uglZ4PgpVs8YxEOViXz"
-        },
-        {
-          "name": "Freddie Gibbs",
-          "url": "https://open.spotify.com/artist/0Y4inQK6OespitzD6ijMwb"
-        }
-      ],
-      "duration_ms": 213940,
-      "name": "Phoenix",
-      "url": "https://open.spotify.com/track/4SDtLLn8LmbOStJeL9Vhkk"
     },
     {
       "added_at": "2023-10-13 04:00:00",

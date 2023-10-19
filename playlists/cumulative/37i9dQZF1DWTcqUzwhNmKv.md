@@ -4,7 +4,7 @@
 
 > Spiritbox on top of the biggest Metal playlist.
 
-525 songs - 1 day 11 hr 21 min
+526 songs - 1 day 11 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -251,7 +251,8 @@
 | [Kagutsuchi](https://open.spotify.com/track/33jOwx7sKn4ugMYsGgJG41) | [Ibaraki](https://open.spotify.com/artist/2KfAvhpbfc8YkLBj6w3hfU) | [Rashomon](https://open.spotify.com/album/3iErNnoi1sc1pqKntalRN2) | 7:34 | 2022-05-06 | 2022-06-17 |
 | [Ketamine](https://open.spotify.com/track/37vKzukXbXcJiA3TMmGptj) | [Fame on Fire](https://open.spotify.com/artist/10Z7WzKMeIdNBKexi1YarP) | [Ketamine](https://open.spotify.com/album/7IJVzIr5F8Vq0Qe50PGwke) | 2:52 | 2022-06-24 | 2022-09-17 |
 | [Krøterveg Te Helvete \- Single Version](https://open.spotify.com/track/5NOYRMBd512A6qmwTug8SL) | [Kvelertak](https://open.spotify.com/artist/0VE0GTaTSeeGSzrQpLmeb9) | [Krøterveg Te Helvete](https://open.spotify.com/album/7lv0IHJ9OB0l0NPIGQe7BJ) | 4:14 | 2023-04-28 | 2023-05-27 |
-| [Last Word](https://open.spotify.com/track/0MAVD0SfEWpODVQkvuTw98) | [Baroness](https://open.spotify.com/artist/3KdXhEwbqFHfNfSk7L9E87) | [Last Word](https://open.spotify.com/album/5tABXu8g3m8wa54PnN0No5) | 6:17 | 2023-06-30 |  |
+| [Last Word](https://open.spotify.com/track/0MAVD0SfEWpODVQkvuTw98) | [Baroness](https://open.spotify.com/artist/3KdXhEwbqFHfNfSk7L9E87) | [Last Word](https://open.spotify.com/album/5tABXu8g3m8wa54PnN0No5) | 6:17 | 2023-06-30 | 2023-10-19 |
+| [Last Word](https://open.spotify.com/track/4j1xC0CxFsrpx6s5SA0ZGG) | [Baroness](https://open.spotify.com/artist/3KdXhEwbqFHfNfSk7L9E87) | [STONE \(Deluxe\)](https://open.spotify.com/album/7mv4FQrLiyJWLDazVNZzTi) | 6:17 | 2023-10-13 |  |
 | [Leaves](https://open.spotify.com/track/4tKL65lg6TSVBoMCRePoC6) | [Bloodred Hourglass](https://open.spotify.com/artist/5LDGgIxaWuRV4KlY6oob6b) | [Your Highness](https://open.spotify.com/album/66vEDEG2g4qndscuuaR0ef) | 4:59 | 2021-12-20 | 2022-01-21 |
 | [Left Behind](https://open.spotify.com/track/5G6jZFDAFlpAA9v5LTV4NI) | [The Plot In You](https://open.spotify.com/artist/1cJ5tVoeAEFcZBAwSZ0CtF) | [Left Behind](https://open.spotify.com/album/2efABZ7jsJTkRkZALraqEM) | 3:26 | 2023-02-17 | 2023-09-16 |
 | [Left For Dead](https://open.spotify.com/track/6IOkD91cfmMM1uw7oGoyzx) | [Memphis May Fire](https://open.spotify.com/artist/7cNNNhdJDrt3vgQjwSavNf) | [Left For Dead](https://open.spotify.com/album/4pkpMvFT1R9i43mYm42Ztf) | 3:05 | 2021-12-20 | 2022-03-25 |

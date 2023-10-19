@@ -4,7 +4,7 @@
 
 > iykyk
 
-1,172 songs - 2 day 14 hr 57 min
+1,175 songs - 2 day 15 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,6 +25,7 @@
 | [3:15 \- Slowed Down + Reverb](https://open.spotify.com/track/4ooAEchlO6o6WL301WqIkP) | [Russ](https://open.spotify.com/artist/1z7b1Pr1rSlvWRzsW3HOrS) | [3:15 \(OG, Slowed Down + Reverb, Sped Up\)](https://open.spotify.com/album/1RZQkYI9bib46kpfH9qSZV) | 3:15 | 2023-07-26 |  |
 | [4am](https://open.spotify.com/track/3jTWd38NseaNnSuIK2Ybsp) | [JBee](https://open.spotify.com/artist/3LIh5lV3zpZkgmO0K6R6bq) | [4am](https://open.spotify.com/album/4E2DxZyxPcP3vWCBoXodTT) | 3:13 | 2022-08-02 | 2022-08-13 |
 | [4runner](https://open.spotify.com/track/1RaF9xwakfao1RRknWyYB5) | [Brenn!](https://open.spotify.com/artist/74slMAMk8L6oMf6OhNyZ8Q) | [4runner](https://open.spotify.com/album/3I7cYBHqayM3NGqX6tG5m2) | 4:25 | 2023-04-28 | 2023-05-31 |
+| [500lbs](https://open.spotify.com/track/1xWkeSPhf3bZqHY7Ncz8vp) | [Lil Tecca](https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo) | [500lbs](https://open.spotify.com/album/2Ro9gydgq5JWy7b22zPty9) | 2:24 | 2023-10-18 |  |
 | [505](https://open.spotify.com/track/0BxE4FqsDD1Ot4YuBXwAPp) | [Arctic Monkeys](https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH) | [Favourite Worst Nightmare](https://open.spotify.com/album/1XkGORuUX2QGOEIL4EbJKm) | 4:13 | 2022-02-01 | 2022-07-29 |
 | [505](https://open.spotify.com/track/58ge6dfP91o9oXMzq3XkIS) | [Arctic Monkeys](https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH) | [Favourite Worst Nightmare \(Standard Version\)](https://open.spotify.com/album/6rsQnwaoJHxXJRCDBPkBRw) | 4:13 | 2022-04-20 | 2023-06-16 |
 | [556 \(Green Tip\)](https://open.spotify.com/track/35WdGjpHVOHLepJl543eyC) | [iayze](https://open.spotify.com/artist/00msLVGU9crX0EC5McCiCa) | [556 \(Green Tip\)](https://open.spotify.com/album/7JAE90R7Qq45PAG4RnoP9h) | 1:57 | 2022-02-22 | 2022-04-30 |
@@ -44,6 +45,7 @@
 | [After Dark](https://open.spotify.com/track/2LKOHdMsL0K9KwcPRlJK2v) | [Mr.Kitty](https://open.spotify.com/artist/0pWwt5vGNzezEhfAcc420Y) | [Time](https://open.spotify.com/album/63TYyeXlBYoYKNvE6rT3hI) | 4:19 | 2022-04-20 | 2023-04-25 |
 | [After Hours](https://open.spotify.com/track/7jWW25q41F2P7Opfn3boIF) | [charlieonnafriday](https://open.spotify.com/artist/1hmTCch4tWOJmdqkf8nSRA) | [After Hours](https://open.spotify.com/album/1Afc7X2x5kxfkbDz2KXjlv) | 2:37 | 2022-05-16 | 2022-07-07 |
 | [After Last Night \(with Thundercat & Bootsy Collins\)](https://open.spotify.com/track/3jiKUMXqwEodB7gVv1RMZU) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa), [Silk Sonic](https://open.spotify.com/artist/6PvvGcCY2XtUcSRld1Wilr), [Thundercat](https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw), [Bootsy Collins](https://open.spotify.com/artist/5K0rbdBrs2tNXe5LeWMATT) | [An Evening With Silk Sonic](https://open.spotify.com/album/1YgekJJTEueWDaMr7BYqPk) | 4:09 | 2022-11-10 | 2023-03-07 |
+| [Agora Hills](https://open.spotify.com/track/7dJYggqjKo71KI9sLzqCs8) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Scarlet](https://open.spotify.com/album/6DmPNcfpkXBVRJsEIJY9tl) | 4:25 | 2023-10-18 |  |
 | [Aimed to Kill](https://open.spotify.com/track/5Xx1X1rBk5fpxuhvvtt4th) | [Jade LeMac](https://open.spotify.com/artist/4JnJjqxsTp8E5rZsyITf63) | [Aimed to Kill](https://open.spotify.com/album/1EYaxqjZ8sMfYprcW3XVij) | 3:22 | 2022-04-20 | 2022-05-04 |
 | [Ain't Shit](https://open.spotify.com/track/5lAnYvAIkSDNXqfo7DyFUm) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Planet Her](https://open.spotify.com/album/1nAQbHeOWTfQzbOoFrvndW) | 2:54 | 2022-03-24 | 2022-06-19 |
 | [Alien Blues](https://open.spotify.com/track/6UjeFOCGYgMpBUtqKg1Je3) | [Vundabar](https://open.spotify.com/artist/1W4itxt3vwhmrgLEBuVHJ6) | [Gawk](https://open.spotify.com/album/5O4lpm2rHbk3JVZgGMPxmI) | 2:36 | 2021-11-28 | 2022-07-09 |
@@ -853,6 +855,7 @@
 | [RAGE](https://open.spotify.com/track/52OWRufMrpxRcv3Sy97A42) | [scraizis](https://open.spotify.com/artist/3Hj6nCmjTEHQyatEOW4sOf) | [RAGE](https://open.spotify.com/album/6yGJLpiDEOw5bCqbyIwWP4) | 1:22 | 2023-09-26 |  |
 | [RAVE](https://open.spotify.com/track/01kfSdF9zfcDLri5sSWEoL) | [Dxrk ダーク](https://open.spotify.com/artist/5TvFfw1MgSntdU9A7yncyA) | [RAVE](https://open.spotify.com/album/0doOTVLn5DctSLGftsar6T) | 2:49 | 2022-04-21 | 2022-12-16 |
 | [Red Ruby Da Sleeze](https://open.spotify.com/track/4ZYAU4A2YBtlNdqOUtc7T2) | [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [Red Ruby Da Sleeze](https://open.spotify.com/album/0zCHOD0Z8yOrIP1fw7u1J6) | 3:34 | 2023-03-08 | 2023-03-22 |
+| [Reggaeton Champagne](https://open.spotify.com/track/7yIIeKUxTpn36X6CFJhgEi) | [Bellakath](https://open.spotify.com/artist/4yjm4SvYqC5FFuLbB6TyHr), [Dani Flow](https://open.spotify.com/artist/1yX62RHdYysNcIrO33WQxJ) | [Kittyponeo](https://open.spotify.com/album/2u2IVr3kVR13lr517rvcjM) | 2:39 | 2023-10-18 |  |
 | [Remember](https://open.spotify.com/track/4yAofTZhl3MdElTqO33oi5) | [Becky Hill](https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai) | [Remember \(Versions\)](https://open.spotify.com/album/1W4wUg63K4DeYuXSfp8YDC) | 2:41 | 2022-10-24 | 2022-11-02 |
 | [Remember \- Acoustic](https://open.spotify.com/track/5aXfGM7WVcqyAvqnL7k0y3) | [Becky Hill](https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK) | [Remember \(Acoustic\)](https://open.spotify.com/album/6tMWod3p4ojBLD8g2KzhtM) | 2:58 | 2022-10-15 | 2022-10-25 |
 | [Remember \- Acoustic / Sped Up](https://open.spotify.com/track/0vwF1PVvU7EJpKKGRDgdaQ) | [Becky Hill](https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK), [Speed Radio](https://open.spotify.com/artist/1YzaVDzA3EdEipDSUeNQER), [xxtristanxo](https://open.spotify.com/artist/4kBCXTJBl1aY9pDHONsjfr) | [Remember \(Versions\)](https://open.spotify.com/album/1W4wUg63K4DeYuXSfp8YDC) | 2:34 | 2022-11-01 | 2022-12-24 |

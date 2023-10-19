@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV5sGFwUJeqR.md) - [plain]
 
 > El género cubano cantable y bailable por excelencia.
 
-[Spotify](https://open.spotify.com/user/spotify) - 302,071 likes - 50 songs - 3 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 302,108 likes - 50 songs - 3 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,7 +51,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV5sGFwUJeqR.md) - [plain]
 | 41 | [Yeah!](https://open.spotify.com/track/24cOWyNs4aTr4Ol1dtXhh8) | [Tito Puente](https://open.spotify.com/artist/6SPpCqM8gOzrtICAxN5NuX) | [Tito's Idea](https://open.spotify.com/album/1kHWWswdYnqytKxTQS6rxE) | 7:26 |
 | 42 | [Watermelon Man](https://open.spotify.com/track/4oOxRYf9TBFKQxABhAQ96x) | [Mongo Santamaria](https://open.spotify.com/artist/2oVwztjpHpJlAvlVVuqVa0) | [Mr\. Watermelon Man](https://open.spotify.com/album/75Yd4kU10gcUGWBinUePWn) | 3:15 |
 | 43 | [Maria Cristina](https://open.spotify.com/track/6R9jgcolWRwvk6WLqzp27A) | [Vieja Trova Santiaguera](https://open.spotify.com/artist/2t7ndReOwR0bTqTaDxYa9G) | [La Manigua](https://open.spotify.com/album/0pTHZMeercs65EFh1FVvkh) | 3:35 |
-| 44 | [Apúntate Una Mi Social](https://open.spotify.com/track/6ipDuNIPhvJjr49imO4NAs) | [Ibrahim Ferrer](https://open.spotify.com/artist/5dss7E1Ph0KxuF1ULfAx4D) | [Ay, Candela](https://open.spotify.com/album/0rAH56MH8n2kDuJb8A7Hsr) | 3:22 |
+| 44 | [Apúntate Una Mi Social](https://open.spotify.com/track/5IHL7T1DuPesNDJaGIQx8X) | [Ibrahim Ferrer](https://open.spotify.com/artist/5dss7E1Ph0KxuF1ULfAx4D) | [Ay, Candela](https://open.spotify.com/album/6Bx8Qxv38gSi05eeUGfsEo) | 3:22 |
 | 45 | [Buenos hermanos](https://open.spotify.com/track/5vIhSdVl0YHtJfdSA1Wxfj) | [Ibrahim Ferrer](https://open.spotify.com/artist/5dss7E1Ph0KxuF1ULfAx4D) | [Buenos Hermanos](https://open.spotify.com/album/2U4d397MrGSUt8c289VZVT) | 4:34 |
 | 46 | [Bemba Colorá \- Live](https://open.spotify.com/track/1qROMoGOaag7LrXhukbDRZ) | [Fania All Stars](https://open.spotify.com/artist/1OdyhpUABf8avaZ9r8nI1u), [Celia Cruz](https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U) | [Live At Yankee Stadium Vol\. 2](https://open.spotify.com/album/0d6RjmRe2vGol76MdPtlLE) | 11:52 |
 | 47 | [Sarandonga](https://open.spotify.com/track/04NBGzkr6XEeUs0syGS0ND) | [Los Compadres](https://open.spotify.com/artist/3yiQL6Y61mT9RjKIM65lMH) | [Semtimiento Guajiro](https://open.spotify.com/album/6TtqJ6BPlFklwqxzA1tbGz) | 3:21 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV5sGFwUJeqR.md) - [plain]
 | 49 | [Como Traigo La Yuca \- Live](https://open.spotify.com/track/4ZMlEw8pXvHuwQwem5kpGF) | [Chucho Valdés](https://open.spotify.com/artist/27mRThsZ9K1BYmz0rioxwp) | [Live At The Village Vanguard](https://open.spotify.com/album/2S1w7Sc9NukidqKfpylJDX) | 6:36 |
 | 50 | [Temba, Tumba Y Timba](https://open.spotify.com/track/0xzSgIVOg8ZjPCVvir36aO) | [Los Van Van](https://open.spotify.com/artist/4B5PkQ1wMjo1siTN9yD9Ds) | [Cuban All Stars Vol\. 2](https://open.spotify.com/album/0miSetdUZccRUKHH6M7OTf) | 6:53 |
 
-Snapshot ID: `MCw1NWUyODgwNDE1YWJkNGQzYmQ3OTBhZGJlYTZlM2I5NDk1MmU4YjQ0`
+Snapshot ID: `MCwyYzhlOWVjZjhiNjc5NmU5NzZiNDI5MDczZjdlZDBlYTBmYzEzMmEz`

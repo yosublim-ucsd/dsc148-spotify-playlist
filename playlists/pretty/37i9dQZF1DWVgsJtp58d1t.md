@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVgsJtp58d1t.md) - [plain]
 
 > New music each and every Friday\.   Cover: <a href="spotify:artist:3LZZPxNDGDFVSIPqf4JuEf">Ice Spice</a> and <a href="spotify:artist:46pWGuE3dSwY3bMMXGBvVS">Rema</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,002,557 likes - 109 songs - 5 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,002,561 likes - 109 songs - 5 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Pretty Girl \(with Rema\)](https://open.spotify.com/track/1p5GikXPiCkw5T2VrSPrO1) | [Ice Spice](https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf), [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [Pretty Girl \(with Rema\)](https://open.spotify.com/album/4IjqbyZZsfaNHnxV92CFuH) | 2:17 |
 | 2 | [BLOOD ON THE DANCE FLOOR \(feat\. Bloody Civilian and Wale\)](https://open.spotify.com/track/36SXe2d09lZtJmuVpKxlha) | [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy), [Bloody Civilian](https://open.spotify.com/artist/59gzAeE63TMTxOdjU3Ew0K), [Wale](https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE) | [BLOOD ON THE DANCE FLOOR](https://open.spotify.com/album/7zjZwvFfhd1dCjWmAYL7h3) | 3:53 |
-| 3 | [Risk](https://open.spotify.com/track/4rJbBfrN5oYmRAmD6oxSUZ) | [Valiant](https://open.spotify.com/artist/7dvG18F378r7HRxmiHn3ti) | [Risk](https://open.spotify.com/album/2sbDTQLtgtpQRD31FkPhRs) | 2:12 |
+| 3 | [Risk](https://open.spotify.com/track/4rJbBfrN5oYmRAmD6oxSUZ) | [Valiant](https://open.spotify.com/artist/0t2CCmcm3r3IXyJxOFDYvj) | [Risk](https://open.spotify.com/album/2sbDTQLtgtpQRD31FkPhRs) | 2:12 |
 | 4 | [Me & U](https://open.spotify.com/track/4nFrcGM7MY1mpoQCC7Kefj) | [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [Me & U](https://open.spotify.com/album/0D1Qm49Hq9cwYbRDeC1HGa) | 3:12 |
 | 5 | [NO SZNS](https://open.spotify.com/track/0dn6S6lJqAIQg90kMmWtVj) | [Jean Dawson](https://open.spotify.com/artist/7vNNmjV14SKQzlQAEg0BXP), [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [NO SZNS](https://open.spotify.com/album/05kT1p6wyim40HJVzg7tt3) | 3:33 |
 | 6 | [TK421](https://open.spotify.com/track/58d6jpiFmElbSX36MnnGFO) | [Lenny Kravitz](https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7) | [TK421](https://open.spotify.com/album/7IncAEknANwQthqiwWySBP) | 3:15 |
@@ -118,4 +118,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVgsJtp58d1t.md) - [plain]
 | 108 | [Rush](https://open.spotify.com/track/5KWamIPJw0yIM5AO2acHfy) | [Hamzaa](https://open.spotify.com/artist/3TXjnAw0sg1VVdnR9fGdBs), [1SRAEL](https://open.spotify.com/artist/1y02diTxNa2t9KTLm5S7bb) | [RUSH](https://open.spotify.com/album/6qXJvv0V4AOJN3EHQS0YIl) | 3:40 |
 | 109 | [Water](https://open.spotify.com/track/5aIVCx5tnk0ntmdiinnYvw) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [Water](https://open.spotify.com/album/22sXXkKgjEuawIFL1e1tRw) | 3:20 |
 
-Snapshot ID: `MCw1ZjA5ZjMzY2IwOWE4OTc4YTY1N2E5YWY3ODNmZGU5Yzk5MmY5YmY5`
+Snapshot ID: `MCxkYWFiZjZjMDIwNTlmM2Y4ZjY5MjZkNjExMGQ2ZTI1MmIxOTM3MDcy`

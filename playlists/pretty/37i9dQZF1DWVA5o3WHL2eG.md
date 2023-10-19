@@ -26,15 +26,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 | 16 | [Skyline](https://open.spotify.com/track/1OpAjp6BRS9Z9jXTcfqtCh) | [Teven](https://open.spotify.com/artist/4Gu3HeiC8HudZsnYp52Wg0) | [Skyline](https://open.spotify.com/album/3HFaF6Ui8E3HiIIeagSboi) | 1:56 |
 | 17 | [www she hot](https://open.spotify.com/track/5Lc05me0Kv47r0PTMkPqtH) | [UCHE YARA](https://open.spotify.com/artist/2yOJnAGg41NV4aech301xj) | [www she hot](https://open.spotify.com/album/1gOGatI2LhhVtiMpAspFFm) | 4:14 |
 | 18 | [Bella](https://open.spotify.com/track/2nVo6kuIJVSy8jHug27fht) | [Nura](https://open.spotify.com/artist/3gkbRDj7pkIylWVBpRfrQf) | [Periodt](https://open.spotify.com/album/68IIp9Zh0QXfUJgYpdOliu) | 2:31 |
-| 19 | [Discotheque](https://open.spotify.com/track/1ihvzrR9IdapgBsabTbUdE) | [FILLY](https://open.spotify.com/artist/78lCJYozxlzWtocLnPKZ0f) | [Discotheque](https://open.spotify.com/album/3lnb8ijMj7IaGHsLXVwQ6I) | 3:02 |
-| 20 | [BFF](https://open.spotify.com/track/5jVJWhhFVsHy6Cfud1Qxjq) | [Charisma](https://open.spotify.com/artist/7D9emGGS7rSb4GjWpnfprb) | [BFF](https://open.spotify.com/album/6ttn7yBKks0O3iP0senqjR) | 1:58 |
+| 19 | [BFF](https://open.spotify.com/track/5jVJWhhFVsHy6Cfud1Qxjq) | [Charisma](https://open.spotify.com/artist/7D9emGGS7rSb4GjWpnfprb) | [BFF](https://open.spotify.com/album/6ttn7yBKks0O3iP0senqjR) | 1:58 |
+| 20 | [Discotheque](https://open.spotify.com/track/1ihvzrR9IdapgBsabTbUdE) | [FILLY](https://open.spotify.com/artist/78lCJYozxlzWtocLnPKZ0f) | [Discotheque](https://open.spotify.com/album/3lnb8ijMj7IaGHsLXVwQ6I) | 3:02 |
 | 21 | [Black Goose](https://open.spotify.com/track/42twCm34xVG0EQexL1BuPm) | [Priya Ragu](https://open.spotify.com/artist/6iZTyHbQWGzpiWoyI0zz9F) | [Black Goose](https://open.spotify.com/album/4QaBlPW42jSyeOv5dLg6pv) | 2:33 |
 | 22 | [STERNE EGAL](https://open.spotify.com/track/4NVV6v5XmfzMHztGnVcArC) | [Haiyti](https://open.spotify.com/artist/3NjbpG6MmFGVLXwbcPXH90) | [STERNE EGAL](https://open.spotify.com/album/7lyZsfKXqj7DSyY9mhAOyR) | 2:33 |
 | 23 | [Toxic Baggage](https://open.spotify.com/track/3HGcCi6OUatVgbGwD16ktQ) | [Anna Grey](https://open.spotify.com/artist/5SFwozJTdBZNUFYYrAqH4q) | [Toxic Baggage](https://open.spotify.com/album/17Q5R0UNJuXQCQxRN6lgHH) | 2:26 |
-| 24 | [Drugs](https://open.spotify.com/track/4XUvxZgvrvAoIpeEdzt9mi) | [Philine Sonny](https://open.spotify.com/artist/5NXT9hOfNLjOMnXqCqzR2t) | [Drugs](https://open.spotify.com/album/0VG3DB6vKYfJ9cRBeDcsrk) | 3:47 |
-| 25 | [get tough](https://open.spotify.com/track/1fHKPEMw05XGxtB7ESSDZo) | [PAENDA](https://open.spotify.com/artist/2ic8BSMWMbxMDCC52Mwxuz) | [get tough](https://open.spotify.com/album/4Rbu6trRci6vt24z52i1p8) | 3:05 |
-| 26 | [lolita](https://open.spotify.com/track/5aG4QJ3Kzj9xWPdAFw00Bb) | [liska](https://open.spotify.com/artist/279fWE4KpU6bqxsBypK8C4) | [lolita](https://open.spotify.com/album/5AajzMoNWCklGCcN9E7MUI) | 2:34 |
-| 27 | [Love the game](https://open.spotify.com/track/0vdawkR50QbBBvYuJs3vGt) | [LEILA](https://open.spotify.com/artist/4Ug2xY5mJFUqx4UkrggYLg) | [Love the game](https://open.spotify.com/album/7mE7fQb7p35DLUTSfWeVQc) | 2:41 |
+| 24 | [lolita](https://open.spotify.com/track/5aG4QJ3Kzj9xWPdAFw00Bb) | [liska](https://open.spotify.com/artist/279fWE4KpU6bqxsBypK8C4) | [lolita](https://open.spotify.com/album/5AajzMoNWCklGCcN9E7MUI) | 2:34 |
+| 25 | [Drugs](https://open.spotify.com/track/4XUvxZgvrvAoIpeEdzt9mi) | [Philine Sonny](https://open.spotify.com/artist/5NXT9hOfNLjOMnXqCqzR2t) | [Drugs](https://open.spotify.com/album/0VG3DB6vKYfJ9cRBeDcsrk) | 3:47 |
+| 26 | [Love the game](https://open.spotify.com/track/0vdawkR50QbBBvYuJs3vGt) | [LEILA](https://open.spotify.com/artist/4Ug2xY5mJFUqx4UkrggYLg) | [Love the game](https://open.spotify.com/album/7mE7fQb7p35DLUTSfWeVQc) | 2:41 |
+| 27 | [get tough](https://open.spotify.com/track/1fHKPEMw05XGxtB7ESSDZo) | [PAENDA](https://open.spotify.com/artist/2ic8BSMWMbxMDCC52Mwxuz) | [get tough](https://open.spotify.com/album/4Rbu6trRci6vt24z52i1p8) | 3:05 |
 | 28 | [Rosarot](https://open.spotify.com/track/4WXhjmJaVEheeiaxbuVvDZ) | [Juli Gilde](https://open.spotify.com/artist/4s1eFPN3Rvn8F56Rzs8UWS) | [Rosarot](https://open.spotify.com/album/49aM6o7lUyIPUZUDIx5he1) | 2:39 |
 | 29 | [Honey \(I Hope, You Understand\)](https://open.spotify.com/track/3mk3oJaBqlHnDGJJ7hOG91) | [THALA](https://open.spotify.com/artist/5JkWwSezW4KRFNy0ru3aZU) | [Honey \(I Hope, You Understand\)](https://open.spotify.com/album/4aSxjNrJrf8ayjpml0dgF0) | 3:21 |
 | 30 | [Morgana \- 2023 Edit](https://open.spotify.com/track/2IOaOQTxrtJf0clbcjXNua) | [Monika Kruse](https://open.spotify.com/artist/2xeHjPrS4EnEUIXHV9pkeg), [Totó La Momposina](https://open.spotify.com/artist/26BL0aeVS96sje8JfCNfUk) | [Morgana \(2023 Edit\)](https://open.spotify.com/album/3YlTnr4cYNg9tufccsFgRQ) | 5:06 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 | 49 | [Already There](https://open.spotify.com/track/7bg3d9PhFUrkmNGRkvpQap) | [Dottie Andersson](https://open.spotify.com/artist/360qeHf7kan9K9bKFPNwVM) | [Drinking Gasoline](https://open.spotify.com/album/0EpIQ8fu194s2Um54bybXd) | 2:59 |
 | 50 | [Pussy Edible](https://open.spotify.com/track/3tFqXkmpukEmx0evY1yiK8) | [FLOSS](https://open.spotify.com/artist/6J9jA7iSuf9a6Apk8sKqhJ) | [Replica Of My Heart](https://open.spotify.com/album/1t0qPUVKhK3TSB9049ON4a) | 2:10 |
 
-Snapshot ID: `MCxlZmU3NjFiNzcxYjZlZmM2MDJmZTg2ZjRmZWU4MTY2MTRiOTc4NTFj`
+Snapshot ID: `MCxlMjU1MTIxOWQ4Y2YzMTMwNTdhZmZmOWNlYWI0ZjVjYTM5ZmUwOTA5`

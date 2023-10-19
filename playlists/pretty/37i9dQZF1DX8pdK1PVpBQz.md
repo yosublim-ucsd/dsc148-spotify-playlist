@@ -2,18 +2,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8pdK1PVpBQz.md) - [plain]
 
 ### [Fresh Finds AU & NZ](https://open.spotify.com/playlist/37i9dQZF1DX8pdK1PVpBQz)
 
-> Discover something new from local independent artists on the rise\. Cover: T Breezy x Walker Boy\. Artwork: Isu Kim
+> Discover something new from local independent artists on the rise\. Cover: Sahara Beck\. Artwork: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,723 likes - 115 songs - 6 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,737 likes - 115 songs - 6 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Looking Back](https://open.spotify.com/track/6BS3TRdBj6XyOaR8lUERpy) | [ENOLA](https://open.spotify.com/artist/0JwAxa5LS26N0e6wEedRnB) | [Looking Back](https://open.spotify.com/album/3ritrwkFqasE4hp42q1cHY) | 4:32 |
-| 2 | [F.U.](https://open.spotify.com/track/7LSMkz6hAlMqt1qNqlA5V6) | [Djanaba](https://open.spotify.com/artist/4bxUDYFtReRPY0uBnNyqFr) | [F.U.](https://open.spotify.com/album/59Vusax4IuNkWBWkNfLx8d) | 2:55 |
-| 3 | [Paid](https://open.spotify.com/track/5s7xEh1bY1a3543Uyl2hAb) | [T Breezy](https://open.spotify.com/artist/1BsZ2phLGWpVR921nKHs4E), [Walkerboy](https://open.spotify.com/artist/6zl9LGhOEuvQOHDwOKvj8r) | [Paid](https://open.spotify.com/album/0vROoT7XfqIs6GTo3eVzzG) | 1:59 |
-| 4 | [BUGGIN](https://open.spotify.com/track/0Qt1kZ4FHEPvqHMDQxvgn7) | [WHO SHOT SCOTT](https://open.spotify.com/artist/4INpCNtJho77CQ6ZOfk5lP) | [BUGGIN](https://open.spotify.com/album/6h4xTmWPzlunggPUMsUY52) | 2:34 |
-| 5 | [Famous](https://open.spotify.com/track/1dBV0TJOL14mw1Cl1YULPm) | [Logan](https://open.spotify.com/artist/7w8LS5pR81tvDOskUj8x1j) | [Famous](https://open.spotify.com/album/7urbNKYM1F7FC9FZLU3jZs) | 3:06 |
-| 6 | [Hard To Tell](https://open.spotify.com/track/6jgPtwhexa32ckFqhFstn3) | [Sahara Beck](https://open.spotify.com/artist/52eVN5OWWaV4fVShDeJIj3) | [Hard To Tell](https://open.spotify.com/album/3aM1hjyXrIHsgfzj36GN6d) | 3:12 |
+| 1 | [Hard To Tell](https://open.spotify.com/track/6jgPtwhexa32ckFqhFstn3) | [Sahara Beck](https://open.spotify.com/artist/52eVN5OWWaV4fVShDeJIj3) | [Hard To Tell](https://open.spotify.com/album/3aM1hjyXrIHsgfzj36GN6d) | 3:12 |
+| 2 | [Looking Back](https://open.spotify.com/track/6BS3TRdBj6XyOaR8lUERpy) | [ENOLA](https://open.spotify.com/artist/0JwAxa5LS26N0e6wEedRnB) | [Looking Back](https://open.spotify.com/album/3ritrwkFqasE4hp42q1cHY) | 4:32 |
+| 3 | [F.U.](https://open.spotify.com/track/7LSMkz6hAlMqt1qNqlA5V6) | [Djanaba](https://open.spotify.com/artist/4bxUDYFtReRPY0uBnNyqFr) | [F.U.](https://open.spotify.com/album/59Vusax4IuNkWBWkNfLx8d) | 2:55 |
+| 4 | [Paid](https://open.spotify.com/track/5s7xEh1bY1a3543Uyl2hAb) | [T Breezy](https://open.spotify.com/artist/1BsZ2phLGWpVR921nKHs4E), [Walkerboy](https://open.spotify.com/artist/6zl9LGhOEuvQOHDwOKvj8r) | [Paid](https://open.spotify.com/album/0vROoT7XfqIs6GTo3eVzzG) | 1:59 |
+| 5 | [BUGGIN](https://open.spotify.com/track/0Qt1kZ4FHEPvqHMDQxvgn7) | [WHO SHOT SCOTT](https://open.spotify.com/artist/4INpCNtJho77CQ6ZOfk5lP) | [BUGGIN](https://open.spotify.com/album/6h4xTmWPzlunggPUMsUY52) | 2:34 |
+| 6 | [Famous](https://open.spotify.com/track/1dBV0TJOL14mw1Cl1YULPm) | [Logan](https://open.spotify.com/artist/7w8LS5pR81tvDOskUj8x1j) | [Famous](https://open.spotify.com/album/7urbNKYM1F7FC9FZLU3jZs) | 3:06 |
 | 7 | [Call Ur Name](https://open.spotify.com/track/6NAuzcMUiyscx48kKFPMJF) | [Maxwell Young](https://open.spotify.com/artist/5HONdRTLNvBjlD2LirKp0q) | [Call Ur Name / Go Ahead](https://open.spotify.com/album/2CYXsvJQoWiM4KLEC5odf9) | 2:02 |
 | 8 | [Never Fight The Way You Feel](https://open.spotify.com/track/1dO4drroXmLL5YcJ2NtYLl) | [Ella Thompson](https://open.spotify.com/artist/54o0UmPHSaZ2ADMID5o6y3) | [Never Fight The Way You Feel](https://open.spotify.com/album/3zc7JOm4n76FkKzaNwV3qQ) | 2:43 |
 | 9 | [Maxxo](https://open.spotify.com/track/03tzDLH4EEqw4BnplwiSvH) | [Hans.](https://open.spotify.com/artist/41azuh0IUq4g2UPySoYp8A) | [Porcelain Demos](https://open.spotify.com/album/7yinmGoCsKMJFtPgqffkiG) | 1:49 |
@@ -124,4 +124,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8pdK1PVpBQz.md) - [plain]
 | 114 | [Horror Movie](https://open.spotify.com/track/0N7DrFdls2ZCXInaviVLdL) | [Gia Darcy](https://open.spotify.com/artist/5asUNjuXqcxAs2PmpQxGK1) | [Horror Movie](https://open.spotify.com/album/4YMvlIOgp4JbOzrOmyBhL1) | 3:10 |
 | 115 | [Adam](https://open.spotify.com/track/40RVEzCRBmQpMQFL6KxNnV) | [Lotte Gallagher](https://open.spotify.com/artist/2JxsTclANm7fsrgko9AUgx) | [Adam](https://open.spotify.com/album/75zWtv9nKbJ4EgEh0yCpHZ) | 3:16 |
 
-Snapshot ID: `MCxmZWQwMTk5ODk2NWY4OGE5ZTZmZmZmYmQ5NGIzODFjNmE5NmRiYjgy`
+Snapshot ID: `MCwzNGU0ODY3YTBjMjMwMjgwNzhhZjU1MmIzZmY5MjZlZjIwMzQzOTEz`

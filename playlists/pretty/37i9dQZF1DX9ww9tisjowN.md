@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9ww9tisjowN.md) - [plain]
 
 > What pops out!? Roll the gacha and find your Neo J\-Pop treasure\. Cover: yama
 
-[Spotify](https://open.spotify.com/user/spotify) - 224,235 likes - 75 songs - 4 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 224,520 likes - 75 songs - 4 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9ww9tisjowN.md) - [plain]
 | 7 | [勇者](https://open.spotify.com/track/0YTM7bCx451c6LQbkddy4Q) | [YOASOBI](https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj) | [THE BOOK 3](https://open.spotify.com/album/68w73FF3dYC6C3RWdcV0Yl) | 3:14 |
 | 8 | [SPECIALZ](https://open.spotify.com/track/0GWNtMohuYUEHVZ40tcnHF) | [King Gnu](https://open.spotify.com/artist/6wxfx1yhyqjCPYwwxJktR2) | [SPECIALZ](https://open.spotify.com/album/16Wxo6FKPXPzU9IApZfdlc) | 3:58 |
 | 9 | [食卓](https://open.spotify.com/track/1ZgpUVfKTjbr5DjEMu3eQI) | [natori](https://open.spotify.com/artist/6WmXWHmfBMhupyIs8MSqtu) | [食卓](https://open.spotify.com/album/6oRq5ENvDdVVcn2BwNGamE) | 3:26 |
-| 10 | [アイシテル人生 feat.初音ミク](https://open.spotify.com/track/17bKoMOT3qLG1WyfTzICyU) | [Mega Shinnosuke](https://open.spotify.com/artist/72owWXEwmyfKq3ajrajPAN), [Hatsune Miku](https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl) | [アイシテル人生 feat.初音ミク](https://open.spotify.com/album/5EPM4kgvrJ02xGxVEYZmiB) | 3:41 |
+| 10 | [Aishiterujinsei feat.HatsuneMiku](https://open.spotify.com/track/2BqQk8aS2DzTyMEPJiqiaW) | [Mega Shinnosuke](https://open.spotify.com/artist/72owWXEwmyfKq3ajrajPAN), [Hatsune Miku](https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl) | [Aishiterujinsei feat.HatsuneMiku](https://open.spotify.com/album/03b3KBf2Jrpa3IddlQ0uUp) | 3:41 |
 | 11 | [OTONABLUE](https://open.spotify.com/track/3h1XlHgx0m1dO6nNSO1kSV) | [ATARASHII GAKKO!](https://open.spotify.com/artist/4OfU76YhPU04wlmbVFFgTJ) | [ICHIJIKIKOKU](https://open.spotify.com/album/6Ah0YGqpd7Dg6zB35ojUQz) | 3:04 |
 | 12 | [Overdose](https://open.spotify.com/track/2Dzzhb1oV5ckgOjWZLraIB) | [natori](https://open.spotify.com/artist/6WmXWHmfBMhupyIs8MSqtu) | [Overdose](https://open.spotify.com/album/1ieXthJ9zXRWqTU8ROAeJa) | 3:17 |
 | 13 | [Hana](https://open.spotify.com/track/02tNuntKQsoou5T4O8meyh) | [Fujii Kaze](https://open.spotify.com/artist/6bDWAcdtVR3WHz2xtiIPUi) | [Hana](https://open.spotify.com/album/0v6vQ9tMopUTccn0wUvzQD) | 4:06 |
@@ -57,7 +57,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9ww9tisjowN.md) - [plain]
 | 47 | [Dodonpa](https://open.spotify.com/track/2AndL1gnrkjtzoxIy2AG8Y) | [Kyary Pamyu Pamyu](https://open.spotify.com/artist/7Gh6fW49xfXLP8DTWaLVJP) | [Candy Racer](https://open.spotify.com/album/1i5J264nc9xYsroDS3FTHx) | 4:37 |
 | 48 | [Kawaikutegomen](https://open.spotify.com/track/4Mo0vn7a03pJ19uESUrH5a) | [HoneyWorks](https://open.spotify.com/artist/40oxjbVm3kdeyJEiGsKrmd), [Capi](https://open.spotify.com/artist/1CnxV1xCQR5pmAR6IHIIyR) | [Kokuhakujikkouiinkai \-FLYING SONGS\- Koishiteru](https://open.spotify.com/album/6RriT3rElmDYDODZjcKBcq) | 3:39 |
 | 49 | [Burn The Fire](https://open.spotify.com/track/6FqxaTZhLuGWc89hc9ZOMe) | [Cö shu Nie](https://open.spotify.com/artist/0LlH6J1tj2TPq7AlwXAkY5) | [Burn The Fire](https://open.spotify.com/album/01F2KOw5jXOkJDBAeDLAWs) | 3:55 |
-| 50 | [アイムユアヒーロー](https://open.spotify.com/track/3qLF8tsuoFkpVVqBQyTgM8) | [After the Rain](https://open.spotify.com/artist/2v7nGZtRBqPyfcwcEYjDfX) | [アイムユアヒーロー](https://open.spotify.com/album/59DatHJiCB1PXiHhHq1Fsu) | 4:19 |
+| 50 | [I'm your hero](https://open.spotify.com/track/3mxwpuEFhRxKTryxKqDymy) | [After the Rain](https://open.spotify.com/artist/2v7nGZtRBqPyfcwcEYjDfX) | [I'm your hero](https://open.spotify.com/album/31KsChYG9kwMqcQNjxCsAG) | 4:19 |
 | 51 | [シル・ヴ・プレジデント](https://open.spotify.com/track/0nW1Aes1arNyR1fzEKXS2m) | [P丸様｡](https://open.spotify.com/artist/4hUWwJ0fRLx9rYtUvT26Ii) | [Sunny!!](https://open.spotify.com/album/6YpoVnWQUIvMLFAeg1lCKU) | 3:10 |
 | 52 | [夜に駆ける](https://open.spotify.com/track/3dPtXHP0oXQ4HCWHsOA9js) | [YOASOBI](https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj) | [夜に駆ける](https://open.spotify.com/album/3GzwPyPZCyrqUTaurTaS23) | 4:21 |
 | 53 | [Comedy](https://open.spotify.com/track/5SuOikwiRyPMVoIQDJUgSV) | [Gen Hoshino](https://open.spotify.com/artist/1S2S00lgLYLGHWA44qGEUs) | [Comedy](https://open.spotify.com/album/41ERrwfzos93Xlf6hFBiDn) | 3:50 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9ww9tisjowN.md) - [plain]
 | 74 | [angel girl is a slut](https://open.spotify.com/track/6R7HHLUnA8HNW0IQYHy9qS) | [cyber milk chan](https://open.spotify.com/artist/1o7ZTFiwtNY4lB9p2q1pt1) | [angel girl is a slut](https://open.spotify.com/album/4eL3wRQYnnauSjMxgAV4rv) | 2:28 |
 | 75 | [KUNOICHI](https://open.spotify.com/track/54oSb0hs2lyn13ZanbVUkW) | [BURNOUT SYNDROMES](https://open.spotify.com/artist/0Oazwl71qoHvXnbSxv0wOT), [ASCA](https://open.spotify.com/artist/5pjjlQXYjoMFWdjdKOre9s) | [KUNOICHI](https://open.spotify.com/album/1pVKX4UnCrRGGvwth0FyOI) | 3:39 |
 
-Snapshot ID: `MCw2MzhjNTEyNDU1ZmFiZTUwYzIwNjNmNjNiYWMzNjJlOGQxNTExMzg0`
+Snapshot ID: `MCwyOTllZGE1MmI2MzIyM2VlYjNiZjA2NjQ0MjRjOGZhOTNlNDc2MDBj`

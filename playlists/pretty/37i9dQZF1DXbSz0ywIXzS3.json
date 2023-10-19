@@ -1,12 +1,12 @@
 {
   "description": "\"I am never drinking again\".",
-  "num_followers": 143581,
+  "num_followers": 143643,
   "original_name": "hAngOvEr fRiEnDLy rOcK",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjMjY4MWQ3ZGI3MmIxMTYzOTgzYTc3Y2Q2YTczNTcxMzAzZjM0OGJm",
+  "snapshot_id": "MCw4NjZhOGQxNTBiMThlYTBlNzAyMjBjYzI0Y2ZkZGNhZWUwZGI2Nzc5",
   "tracks": [
     {
       "added_at": "2023-09-28 08:25:22",
@@ -399,22 +399,6 @@
     {
       "added_at": "2023-09-28 08:25:22",
       "album": {
-        "name": "The Bastards",
-        "url": "https://open.spotify.com/album/5b2m10WqNvZaD8eTEXGyfl"
-      },
-      "artists": [
-        {
-          "name": "Palaye Royale",
-          "url": "https://open.spotify.com/artist/0hAd6zwEgt9ILuMDY1prcI"
-        }
-      ],
-      "duration_ms": 186249,
-      "name": "Lonely",
-      "url": "https://open.spotify.com/track/4jXbcY2ulVT7MOPdN8nR50"
-    },
-    {
-      "added_at": "2023-09-28 08:25:22",
-      "album": {
         "name": "Stadium Arcadium",
         "url": "https://open.spotify.com/album/7xl50xr9NDkd3i2kBbzsNZ"
       },
@@ -427,6 +411,22 @@
       "duration_ms": 309800,
       "name": "Wet Sand",
       "url": "https://open.spotify.com/track/3L2Nyi3T7XabH8EEZFLDdX"
+    },
+    {
+      "added_at": "2023-09-28 08:25:22",
+      "album": {
+        "name": "The Bastards",
+        "url": "https://open.spotify.com/album/5b2m10WqNvZaD8eTEXGyfl"
+      },
+      "artists": [
+        {
+          "name": "Palaye Royale",
+          "url": "https://open.spotify.com/artist/0hAd6zwEgt9ILuMDY1prcI"
+        }
+      ],
+      "duration_ms": 186249,
+      "name": "Lonely",
+      "url": "https://open.spotify.com/track/4jXbcY2ulVT7MOPdN8nR50"
     },
     {
       "added_at": "2023-09-28 08:25:22",
@@ -671,22 +671,6 @@
     {
       "added_at": "2023-09-28 08:25:22",
       "album": {
-        "name": "Pull Me Through",
-        "url": "https://open.spotify.com/album/74fPzfR0HUN9IFqgNlB1Ji"
-      },
-      "artists": [
-        {
-          "name": "Royal Blood",
-          "url": "https://open.spotify.com/artist/2S5hlvw4CMtMGswFtfdK15"
-        }
-      ],
-      "duration_ms": 188708,
-      "name": "Pull Me Through",
-      "url": "https://open.spotify.com/track/3l6RgZRKf4FfSc2FJlesEL"
-    },
-    {
-      "added_at": "2023-09-28 08:25:22",
-      "album": {
         "name": "So Wrong, It's Right",
         "url": "https://open.spotify.com/album/0H4ELcHequ3OligrjWfrZP"
       },
@@ -699,6 +683,22 @@
       "duration_ms": 256733,
       "name": "Remembering Sunday",
       "url": "https://open.spotify.com/track/2qxXypNXOJZ5qUFdpzJ56n"
+    },
+    {
+      "added_at": "2023-09-28 08:25:22",
+      "album": {
+        "name": "Pull Me Through",
+        "url": "https://open.spotify.com/album/74fPzfR0HUN9IFqgNlB1Ji"
+      },
+      "artists": [
+        {
+          "name": "Royal Blood",
+          "url": "https://open.spotify.com/artist/2S5hlvw4CMtMGswFtfdK15"
+        }
+      ],
+      "duration_ms": 188708,
+      "name": "Pull Me Through",
+      "url": "https://open.spotify.com/track/3l6RgZRKf4FfSc2FJlesEL"
     },
     {
       "added_at": "2023-09-28 08:25:22",
@@ -783,18 +783,18 @@
     {
       "added_at": "2023-09-28 08:25:22",
       "album": {
-        "name": "Viva La Vida or Death and All His Friends",
-        "url": "https://open.spotify.com/album/1CEODgTmTwLyabvwd7HBty"
+        "name": "Nothing Personal (Deluxe Version)",
+        "url": "https://open.spotify.com/album/7tY7NcC2gKTxXsTJM6zK5I"
       },
       "artists": [
         {
-          "name": "Coldplay",
-          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
+          "name": "All Time Low",
+          "url": "https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo"
         }
       ],
-      "duration_ms": 249666,
-      "name": "Strawberry Swing",
-      "url": "https://open.spotify.com/track/2dphvmoLEXdk8hOYxmHlI3"
+      "duration_ms": 224200,
+      "name": "Therapy",
+      "url": "https://open.spotify.com/track/371Tb0eNfpjpSqggjcLv8c"
     },
     {
       "added_at": "2023-09-28 08:25:22",
@@ -815,6 +815,22 @@
     {
       "added_at": "2023-09-28 08:25:22",
       "album": {
+        "name": "Viva La Vida or Death and All His Friends",
+        "url": "https://open.spotify.com/album/1CEODgTmTwLyabvwd7HBty"
+      },
+      "artists": [
+        {
+          "name": "Coldplay",
+          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
+        }
+      ],
+      "duration_ms": 249666,
+      "name": "Strawberry Swing",
+      "url": "https://open.spotify.com/track/2dphvmoLEXdk8hOYxmHlI3"
+    },
+    {
+      "added_at": "2023-09-28 08:25:22",
+      "album": {
         "name": "Transatlanticism (10th Anniversary Edition)",
         "url": "https://open.spotify.com/album/5UKAhD2VmFAuThgq4OQyEe"
       },
@@ -827,22 +843,6 @@
       "duration_ms": 475093,
       "name": "Transatlanticism",
       "url": "https://open.spotify.com/track/4LF1dMlOHe8VfmMut7YiIs"
-    },
-    {
-      "added_at": "2023-09-28 08:25:22",
-      "album": {
-        "name": "Nothing Personal (Deluxe Version)",
-        "url": "https://open.spotify.com/album/7tY7NcC2gKTxXsTJM6zK5I"
-      },
-      "artists": [
-        {
-          "name": "All Time Low",
-          "url": "https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo"
-        }
-      ],
-      "duration_ms": 224200,
-      "name": "Therapy",
-      "url": "https://open.spotify.com/track/371Tb0eNfpjpSqggjcLv8c"
     },
     {
       "added_at": "2023-09-28 08:25:22",
@@ -1111,22 +1111,6 @@
     {
       "added_at": "2023-09-28 08:25:22",
       "album": {
-        "name": "Ghost",
-        "url": "https://open.spotify.com/album/2fOrhbh7CVDA44Hld9WIfX"
-      },
-      "artists": [
-        {
-          "name": "Badflower",
-          "url": "https://open.spotify.com/artist/3T55D3LMiygE9eSKFpiAye"
-        }
-      ],
-      "duration_ms": 269323,
-      "name": "Ghost - Acoustic",
-      "url": "https://open.spotify.com/track/23SVad8eDBAtoCFgF8vOFl"
-    },
-    {
-      "added_at": "2023-09-28 08:25:22",
-      "album": {
         "name": "Dopamine",
         "url": "https://open.spotify.com/album/17l7MIu0Jh0tdgK7or9ovw"
       },
@@ -1139,6 +1123,22 @@
       "duration_ms": 224786,
       "name": "The Emotion",
       "url": "https://open.spotify.com/track/03YZnK3XQWKpvo9TyNZzXf"
+    },
+    {
+      "added_at": "2023-09-28 08:25:22",
+      "album": {
+        "name": "Ghost",
+        "url": "https://open.spotify.com/album/2fOrhbh7CVDA44Hld9WIfX"
+      },
+      "artists": [
+        {
+          "name": "Badflower",
+          "url": "https://open.spotify.com/artist/3T55D3LMiygE9eSKFpiAye"
+        }
+      ],
+      "duration_ms": 269323,
+      "name": "Ghost - Acoustic",
+      "url": "https://open.spotify.com/track/23SVad8eDBAtoCFgF8vOFl"
     },
     {
       "added_at": "2023-09-28 08:25:22",
@@ -1159,18 +1159,18 @@
     {
       "added_at": "2023-09-28 08:25:22",
       "album": {
-        "name": "Here And Now",
-        "url": "https://open.spotify.com/album/3MsVFWup3Chu5w0aeAo0fq"
+        "name": "girlfriends",
+        "url": "https://open.spotify.com/album/3cuyb6sSpCSEc6TLBh1sUQ"
       },
       "artists": [
         {
-          "name": "Staind",
-          "url": "https://open.spotify.com/artist/5KDIH2gF0VpelTqyQS7udb"
+          "name": "girlfriends",
+          "url": "https://open.spotify.com/artist/4Dwhb9SL7iO3L27oXvEiO7"
         }
       ],
-      "duration_ms": 237859,
-      "name": "Here And Now",
-      "url": "https://open.spotify.com/track/1WI3vLQfstHF8q9CqJN3zY"
+      "duration_ms": 163832,
+      "name": "California",
+      "url": "https://open.spotify.com/track/5RmGKBLOYl9hbNE7BuDmur"
     },
     {
       "added_at": "2023-09-28 08:25:22",
@@ -1191,18 +1191,18 @@
     {
       "added_at": "2023-09-28 08:25:22",
       "album": {
-        "name": "girlfriends",
-        "url": "https://open.spotify.com/album/3cuyb6sSpCSEc6TLBh1sUQ"
+        "name": "Here And Now",
+        "url": "https://open.spotify.com/album/3MsVFWup3Chu5w0aeAo0fq"
       },
       "artists": [
         {
-          "name": "girlfriends",
-          "url": "https://open.spotify.com/artist/4Dwhb9SL7iO3L27oXvEiO7"
+          "name": "Staind",
+          "url": "https://open.spotify.com/artist/5KDIH2gF0VpelTqyQS7udb"
         }
       ],
-      "duration_ms": 163832,
-      "name": "California",
-      "url": "https://open.spotify.com/track/5RmGKBLOYl9hbNE7BuDmur"
+      "duration_ms": 237859,
+      "name": "Here And Now",
+      "url": "https://open.spotify.com/track/1WI3vLQfstHF8q9CqJN3zY"
     },
     {
       "added_at": "2023-09-28 08:25:22",

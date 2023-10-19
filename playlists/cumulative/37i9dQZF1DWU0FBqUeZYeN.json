@@ -2707,6 +2707,24 @@
     },
     {
       "album": {
+        "name": "Halloween Graveyard Hits",
+        "url": "https://open.spotify.com/album/6d4gyUp1xZwl5orCXlNKlW"
+      },
+      "artists": [
+        {
+          "name": "The Moontrekkers",
+          "url": "https://open.spotify.com/artist/68tbCkKG4XXBXCr1nuWX0Y"
+        }
+      ],
+      "date_added": "2020-01-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166560,
+      "name": "Night Of The Vampire",
+      "url": "https://open.spotify.com/track/2IKE5ZuOzwFNlcqo9dLM6Q"
+    },
+    {
+      "album": {
         "name": "Joe Meek: Complete Independent Productions 1960-61",
         "url": "https://open.spotify.com/album/3rtfjSgyKT0j5JUOuj7bud"
       },
@@ -2736,7 +2754,7 @@
       ],
       "date_added": "2020-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-19",
       "duration_ms": 171373,
       "name": "Night of the Vampire",
       "url": "https://open.spotify.com/track/3cFAVjQU2q3vX3l0omsx5h"

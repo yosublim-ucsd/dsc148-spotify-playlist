@@ -1,12 +1,12 @@
 {
   "description": "Spotify country fan favorites. Cover: Maddie & Tae",
-  "num_followers": 2166492,
+  "num_followers": 2166627,
   "original_name": "Country Gold",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzZWU2YTViOTU3MjY3MGExMTYxNjg2YmUxMDUwNGUxZDY4MGZjY2Fm",
+  "snapshot_id": "MCxlYzhhM2QyYmU3NmIwNzE4OGFmOTViMjMwZDRiZGEzYzZkZmYwNDQ1",
   "tracks": [
     {
       "added_at": "2023-09-29 23:25:17",
@@ -428,9 +428,9 @@
           "url": "https://open.spotify.com/artist/4MoAOfV4ROWofLG3a3hhBN"
         }
       ],
-      "duration_ms": 202346,
-      "name": "Head Over Boots",
-      "url": "https://open.spotify.com/track/4ly1QBXEwYoDmje9rmEgC4"
+      "duration_ms": 205200,
+      "name": "Heartache On The Dance Floor",
+      "url": "https://open.spotify.com/track/0w3Q14i073jLoew1hgJkwD"
     },
     {
       "added_at": "2023-09-29 23:25:17",
@@ -512,25 +512,9 @@
           "url": "https://open.spotify.com/artist/4MoAOfV4ROWofLG3a3hhBN"
         }
       ],
-      "duration_ms": 205200,
-      "name": "Heartache On The Dance Floor",
-      "url": "https://open.spotify.com/track/0w3Q14i073jLoew1hgJkwD"
-    },
-    {
-      "added_at": "2023-09-29 23:25:17",
-      "album": {
-        "name": "A Place In The Sun",
-        "url": "https://open.spotify.com/album/2EkJjknrgd5DeIH2x9HLjD"
-      },
-      "artists": [
-        {
-          "name": "Tim McGraw",
-          "url": "https://open.spotify.com/artist/6roFdX1y5BYSbp60OTJWMd"
-        }
-      ],
-      "duration_ms": 183733,
-      "name": "Something Like That",
-      "url": "https://open.spotify.com/track/6leiB1fEsTnVCuPiielde5"
+      "duration_ms": 202346,
+      "name": "Head Over Boots",
+      "url": "https://open.spotify.com/track/4ly1QBXEwYoDmje9rmEgC4"
     },
     {
       "added_at": "2023-09-29 23:25:17",
@@ -547,6 +531,22 @@
       "duration_ms": 215853,
       "name": "Good Directions",
       "url": "https://open.spotify.com/track/7GQjJEwqlp6m5HNWVQd6OR"
+    },
+    {
+      "added_at": "2023-09-29 23:25:17",
+      "album": {
+        "name": "A Place In The Sun",
+        "url": "https://open.spotify.com/album/2EkJjknrgd5DeIH2x9HLjD"
+      },
+      "artists": [
+        {
+          "name": "Tim McGraw",
+          "url": "https://open.spotify.com/artist/6roFdX1y5BYSbp60OTJWMd"
+        }
+      ],
+      "duration_ms": 183733,
+      "name": "Something Like That",
+      "url": "https://open.spotify.com/track/6leiB1fEsTnVCuPiielde5"
     },
     {
       "added_at": "2023-09-29 23:25:17",
@@ -743,22 +743,6 @@
     {
       "added_at": "2023-09-29 23:25:17",
       "album": {
-        "name": "Golden Road",
-        "url": "https://open.spotify.com/album/1O87Gkgvc6QR1JRpMkgnE7"
-      },
-      "artists": [
-        {
-          "name": "Keith Urban",
-          "url": "https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf"
-        }
-      ],
-      "duration_ms": 323040,
-      "name": "Somebody Like You",
-      "url": "https://open.spotify.com/track/0b9djfiuDIMw1zKH6gV74g"
-    },
-    {
-      "added_at": "2023-09-29 23:25:17",
-      "album": {
         "name": "Carly Pearce",
         "url": "https://open.spotify.com/album/44gX26I9jSjyy1KXAgquPc"
       },
@@ -791,6 +775,22 @@
       "duration_ms": 179346,
       "name": "Record Year",
       "url": "https://open.spotify.com/track/5fSPbm5lcwtqwXkeQQswW8"
+    },
+    {
+      "added_at": "2023-09-29 23:25:17",
+      "album": {
+        "name": "Golden Road",
+        "url": "https://open.spotify.com/album/1O87Gkgvc6QR1JRpMkgnE7"
+      },
+      "artists": [
+        {
+          "name": "Keith Urban",
+          "url": "https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf"
+        }
+      ],
+      "duration_ms": 323040,
+      "name": "Somebody Like You",
+      "url": "https://open.spotify.com/track/0b9djfiuDIMw1zKH6gV74g"
     },
     {
       "added_at": "2023-09-29 23:25:17",
@@ -1343,22 +1343,6 @@
     {
       "added_at": "2023-09-29 23:25:17",
       "album": {
-        "name": "Here For The Party",
-        "url": "https://open.spotify.com/album/5OYkhSnpSoztkCKind5tap"
-      },
-      "artists": [
-        {
-          "name": "Gretchen Wilson",
-          "url": "https://open.spotify.com/artist/0IdYRFTswLdsGwSnzOaGNF"
-        }
-      ],
-      "duration_ms": 221333,
-      "name": "Redneck Woman",
-      "url": "https://open.spotify.com/track/26bL4gSULWDgdIMX0pRFrG"
-    },
-    {
-      "added_at": "2023-09-29 23:25:17",
-      "album": {
         "name": "Experiment Extended",
         "url": "https://open.spotify.com/album/4yf4bD1iM96hBH6aIc6SaF"
       },
@@ -1371,6 +1355,22 @@
       "duration_ms": 205400,
       "name": "Homesick",
       "url": "https://open.spotify.com/track/30RZAuEkYeDXvy46Iv6l7E"
+    },
+    {
+      "added_at": "2023-09-29 23:25:17",
+      "album": {
+        "name": "Here For The Party",
+        "url": "https://open.spotify.com/album/5OYkhSnpSoztkCKind5tap"
+      },
+      "artists": [
+        {
+          "name": "Gretchen Wilson",
+          "url": "https://open.spotify.com/artist/0IdYRFTswLdsGwSnzOaGNF"
+        }
+      ],
+      "duration_ms": 221333,
+      "name": "Redneck Woman",
+      "url": "https://open.spotify.com/track/26bL4gSULWDgdIMX0pRFrG"
     },
     {
       "added_at": "2023-09-29 23:25:17",
@@ -1475,22 +1475,6 @@
     {
       "added_at": "2023-09-29 23:25:17",
       "album": {
-        "name": "Pretty Heart",
-        "url": "https://open.spotify.com/album/0S1UncFoVie2V0HKsf0G1u"
-      },
-      "artists": [
-        {
-          "name": "Parker McCollum",
-          "url": "https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ"
-        }
-      ],
-      "duration_ms": 244797,
-      "name": "Pretty Heart",
-      "url": "https://open.spotify.com/track/6vC90OOjZR165Hw8CpsqEm"
-    },
-    {
-      "added_at": "2023-09-29 23:25:17",
-      "album": {
         "name": "Ocean",
         "url": "https://open.spotify.com/album/2Ni5tXmyXPTG4jeQxvSqjv"
       },
@@ -1503,6 +1487,22 @@
       "duration_ms": 206597,
       "name": "What If I Never Get Over You",
       "url": "https://open.spotify.com/track/0qkdE1C0ufnUISKwhg8Wh6"
+    },
+    {
+      "added_at": "2023-09-29 23:25:17",
+      "album": {
+        "name": "Pretty Heart",
+        "url": "https://open.spotify.com/album/0S1UncFoVie2V0HKsf0G1u"
+      },
+      "artists": [
+        {
+          "name": "Parker McCollum",
+          "url": "https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ"
+        }
+      ],
+      "duration_ms": 244797,
+      "name": "Pretty Heart",
+      "url": "https://open.spotify.com/track/6vC90OOjZR165Hw8CpsqEm"
     },
     {
       "added_at": "2023-09-29 23:25:17",
@@ -1539,6 +1539,22 @@
     {
       "added_at": "2023-09-29 23:25:17",
       "album": {
+        "name": "You Make It Easy",
+        "url": "https://open.spotify.com/album/0EVP8vXYQaq3kr0kWv8rNG"
+      },
+      "artists": [
+        {
+          "name": "Jason Aldean",
+          "url": "https://open.spotify.com/artist/3FfvYsEGaIb52QPXhg4DcH"
+        }
+      ],
+      "duration_ms": 196800,
+      "name": "You Make It Easy",
+      "url": "https://open.spotify.com/track/2ZxTjs4EdJl4Y9YByIiNoo"
+    },
+    {
+      "added_at": "2023-09-29 23:25:17",
+      "album": {
         "name": "Cold Beer Calling My Name",
         "url": "https://open.spotify.com/album/3sRPj5WMTrlTy2vTJW3BKx"
       },
@@ -1555,22 +1571,6 @@
       "duration_ms": 210480,
       "name": "Cold Beer Calling My Name",
       "url": "https://open.spotify.com/track/3dV1fjKOlLnaNK5MeZHXGv"
-    },
-    {
-      "added_at": "2023-09-29 23:25:17",
-      "album": {
-        "name": "You Make It Easy",
-        "url": "https://open.spotify.com/album/0EVP8vXYQaq3kr0kWv8rNG"
-      },
-      "artists": [
-        {
-          "name": "Jason Aldean",
-          "url": "https://open.spotify.com/artist/3FfvYsEGaIb52QPXhg4DcH"
-        }
-      ],
-      "duration_ms": 196800,
-      "name": "You Make It Easy",
-      "url": "https://open.spotify.com/track/2ZxTjs4EdJl4Y9YByIiNoo"
     }
   ],
   "unique_name": "Country Gold",

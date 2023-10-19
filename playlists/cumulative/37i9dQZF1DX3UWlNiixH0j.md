@@ -4,7 +4,7 @@
 
 > 日本のインディー・サウンドを特集。The freshest indie sounds from Japan\. cover: 空気公団 \(Kukikodan\)
 
-931 songs - 2 day 9 hr 50 min
+933 songs - 2 day 9 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,6 +32,7 @@
 | [AfterImages](https://open.spotify.com/track/1zkKWsLDrTKG5ToByKe0E6) | [CRCK/LCKS](https://open.spotify.com/artist/1iCsnjNikUpDDGDAxBalTs) | [総総](https://open.spotify.com/album/0ukIrlzz1XcfnCooUfWT43) | 4:14 | 2023-04-04 | 2023-05-31 |
 | [Aglio e olio](https://open.spotify.com/track/09aFUqQgJPn0Awn47JGKND) | [Tohji](https://open.spotify.com/artist/7j7kL8K4GE1z5Cdxl7ucBF) | [Aglio e olio](https://open.spotify.com/album/3jZbozt8tNcg27gMEjPpCT) | 2:45 | 2023-09-29 |  |
 | [Ai no Tabi](https://open.spotify.com/track/46h2MN4oIAkBHVFIR9HEUB) | [Who Do You Love](https://open.spotify.com/artist/71nYHi1r0deMRvM1SAiflz) | [Ai no Tabi](https://open.spotify.com/album/5eukf6HlQRiwypMC6XdGPE) | 4:01 | 2023-03-28 | 2023-04-05 |
+| [Aishiterujinsei feat.HatsuneMiku](https://open.spotify.com/track/2BqQk8aS2DzTyMEPJiqiaW) | [Mega Shinnosuke](https://open.spotify.com/artist/72owWXEwmyfKq3ajrajPAN), [Hatsune Miku](https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl) | [Aishiterujinsei feat.HatsuneMiku](https://open.spotify.com/album/03b3KBf2Jrpa3IddlQ0uUp) | 3:41 | 2023-10-17 |  |
 | [Akebono \- 2023](https://open.spotify.com/track/7Gp8M2hRqUB2rrjJu56Bp9) | [Yuta Orisaka](https://open.spotify.com/artist/27ZpqmpHDgVgmAcBULfzTH) | [Akebono \(2023\)](https://open.spotify.com/album/0pIVXEt7OiY6Qk8KMeo67U) | 5:27 | 2023-06-29 | 2023-07-12 |
 | [Alba](https://open.spotify.com/track/3HxMollV5fMOhd1vN2zLSY) | [butohes](https://open.spotify.com/artist/6ofwAXNQ3cuSW3J7N3CBdz) | [Alba](https://open.spotify.com/album/579Ju3LZTlOeLqXemfyqQX) | 7:10 | 2023-02-21 | 2023-03-01 |
 | [All About You \(and Our Song\)](https://open.spotify.com/track/0bJC88XEXwXc2OSQmLfuGH) | [the Still](https://open.spotify.com/artist/3Tq7aTzawujjHwODdNSGuv) | [All About You \(and Our Song\)](https://open.spotify.com/album/5PgLX8PvyzmjII7PaWC2fO) | 3:04 | 2023-01-24 | 2023-02-22 |
@@ -465,6 +466,7 @@
 | [she left](https://open.spotify.com/track/3JxybPHJrgfuF2C7aYHsrb) | [elsie sue](https://open.spotify.com/artist/7t7QD0bzhYdW6POYrkeuRI) | [she left](https://open.spotify.com/album/6GzzKcYJRwROX6cWFVNMOB) | 4:41 | 2023-01-12 | 2023-02-08 |
 | [she so come!!!](https://open.spotify.com/track/0QH4z68TORGX2tBGuYPkr2) | [peanut butters](https://open.spotify.com/artist/54hEgY8Ut3i0OriX1fELbP) | [ロンリーメイビー](https://open.spotify.com/album/0KwiaND7e7IZazS5Ukf19E) | 2:59 | 2023-04-27 | 2023-08-31 |
 | [Shiawase no Mawarimichi](https://open.spotify.com/track/20riqOrK0iWFV2mpjbcbDr) | [Bialystocks](https://open.spotify.com/artist/3y24PAHjsJ3rWvMWERM7Oe) | [Shiawase no Mawarimichi](https://open.spotify.com/album/0K0nIz0V6KZbfq3uM66yiW) | 3:45 | 2023-10-05 |  |
+| [Shinyaku \[Tsugunai\]](https://open.spotify.com/track/6hW5JA90T47nYMNavZw0u3) | [MOROHA](https://open.spotify.com/artist/1pMaZSxaThVebPEWM3QXlY) | [Shinyaku \[Tsugunai\]](https://open.spotify.com/album/0IhnZ25LAqNq3fJEjhkoBV) | 4:58 | 2023-10-17 |  |
 | [SHIRAFU](https://open.spotify.com/track/69YVv4bBFOBJUT7vNDkyCL) | [YONA YONA WEEKENDERS](https://open.spotify.com/artist/6DvqAr90Cw6sbEt4Iu6KDR) | [into the wind](https://open.spotify.com/album/7imFignbAwW3BYnduyaEjQ) | 3:40 | 2023-06-21 | 2023-06-28 |
 | [Shoes](https://open.spotify.com/track/0qerrB7fpmT1O2GkyHmDDg) | [Thiiird Place](https://open.spotify.com/artist/1p9jWKYjBCIfRSlaO7Ogxk) | [Shoes](https://open.spotify.com/album/0SjNCfSX1tskAsTPW2TZA7) | 2:51 | 2023-01-24 | 2023-02-22 |
 | [Shunrai](https://open.spotify.com/track/6QIyB1933cJ6VBt50bzidT) | [HARU NEMURI](https://open.spotify.com/artist/3cn7Ujrlj3rdyuqmOYhBJT) | [SHUNKA RYOUGEN](https://open.spotify.com/album/5dZcvDyVbM5HplrbzE8r60) | 3:39 | 2023-03-30 | 2023-04-05 |
@@ -680,7 +682,7 @@
 | [らりらりらん](https://open.spotify.com/track/2poGMUj2CSBTzsVNMxkCpm) | [never young beach](https://open.spotify.com/artist/2YtvgEYiTH6jh7n2UmUdXX) | [らりらりらん](https://open.spotify.com/album/7G4ECKkC7XBgxmBQondoj1) | 2:39 | 2023-06-06 | 2023-06-21 |
 | [らりらりらん](https://open.spotify.com/track/2q5H74KUJI1rVeSMGDKhMs) | [never young beach](https://open.spotify.com/artist/2YtvgEYiTH6jh7n2UmUdXX) | [ありがとう](https://open.spotify.com/album/3yvG3IQ4OQwzw9rxoYzceV) | 2:39 | 2023-06-22 | 2023-10-11 |
 | [わからないよな](https://open.spotify.com/track/7Ity0z6dLFuP42PnkmkYgu) | [Hwyl](https://open.spotify.com/artist/6bYzlsbs269Xa3z6L5OfjC) | [わからないよな](https://open.spotify.com/album/36zXcsDPeCVntMrnxAyb06) | 3:03 | 2023-05-09 | 2023-05-24 |
-| [アイシテル人生 feat.初音ミク](https://open.spotify.com/track/17bKoMOT3qLG1WyfTzICyU) | [Mega Shinnosuke](https://open.spotify.com/artist/72owWXEwmyfKq3ajrajPAN), [Hatsune Miku](https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl) | [アイシテル人生 feat.初音ミク](https://open.spotify.com/album/5EPM4kgvrJ02xGxVEYZmiB) | 3:41 | 2023-10-17 |  |
+| [アイシテル人生 feat.初音ミク](https://open.spotify.com/track/17bKoMOT3qLG1WyfTzICyU) | [Mega Shinnosuke](https://open.spotify.com/artist/72owWXEwmyfKq3ajrajPAN), [Hatsune Miku](https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl) | [アイシテル人生 feat.初音ミク](https://open.spotify.com/album/5EPM4kgvrJ02xGxVEYZmiB) | 3:41 | 2023-10-17 | 2023-10-19 |
 | [ウィンディー](https://open.spotify.com/track/0QI2f7Fb9EoWkQc0C2Qg0k) | [千葉剛久](https://open.spotify.com/artist/6cVmanDEHDZdRNZV0NzefC) | [ウィンディー](https://open.spotify.com/album/3V7BCCulLTeX0MqQHJdV4i) | 3:42 | 2023-08-22 | 2023-08-24 |
 | [カウントダウン・ラグ](https://open.spotify.com/track/1QkF34AEAxWrHRYRXpI4CU) | [レトロリロン](https://open.spotify.com/artist/47MRpWYlFaneZAlaXrt9bu) | [インナーダイアログ](https://open.spotify.com/album/1jmlZ6JfnYsgzi6WGnYXmh) | 5:25 | 2023-04-18 | 2023-04-20 |
 | [カープファンの子](https://open.spotify.com/track/0fljI44hj6m737RIfY8kmK) | [Satoko Shibata](https://open.spotify.com/artist/4RaaBbyl7DzAmfkjGiyUGU) | [しばたさとこ島](https://open.spotify.com/album/2rgn6LRtYPMOtzbsEVp6KS) | 2:22 | 2023-05-29 | 2023-06-02 |
@@ -826,7 +828,7 @@
 | [憑依](https://open.spotify.com/track/6CQsnkKBdrooo6LB1DqcZu) | [ZIN](https://open.spotify.com/artist/2W8tmumOv76P22QElkqPCS), [NF Zessho](https://open.spotify.com/artist/56f1j2OpB9qo7jFKL0hoL1) | [憑依](https://open.spotify.com/album/32CphF51dvTVpKxnVhRxIc) | 3:27 | 2023-08-15 | 2023-08-17 |
 | [我愛你](https://open.spotify.com/track/7jXoUqjqJVQGHDBs9ZGy08) | [Cody・Lee\(李\)](https://open.spotify.com/artist/6ccfWQCLB9Gu3caY9gR5dX) | [生活のニュース](https://open.spotify.com/album/2pccOr7xk2EmlL2FAid7Gz) | 4:56 | 2023-03-28 | 2023-09-06 |
 | [指先ひとつで](https://open.spotify.com/track/0BXEoE6unKgw9xEuYjiMUe) | [KIRINJI](https://open.spotify.com/artist/0O1UtbTe4ca7HabaiMhYZ7) | [Steppin' Out](https://open.spotify.com/album/1HQmNQ7LovrKEvInfoMDrV) | 4:43 | 2023-09-05 | 2023-09-07 |
-| [新約「償い」](https://open.spotify.com/track/4lRuUjGbQZXgietBKMpLWU) | [MOROHA](https://open.spotify.com/artist/1pMaZSxaThVebPEWM3QXlY) | [新約「償い」](https://open.spotify.com/album/1mx6uzMW6vsBK3T5qBRkOA) | 4:58 | 2023-10-17 |  |
+| [新約「償い」](https://open.spotify.com/track/4lRuUjGbQZXgietBKMpLWU) | [MOROHA](https://open.spotify.com/artist/1pMaZSxaThVebPEWM3QXlY) | [新約「償い」](https://open.spotify.com/album/1mx6uzMW6vsBK3T5qBRkOA) | 4:58 | 2023-10-17 | 2023-10-19 |
 | [新約・人権MaxPrincess](https://open.spotify.com/track/0AQNJ1R8qB3sSdMpTSutqL) | [Haruko Tajima](https://open.spotify.com/artist/2wKUmawKpq9H4jhcnugog2) | [新約・人権MaxPrincess](https://open.spotify.com/album/25omOOqbdDuMXIBJ0TF0NP) | 3:12 | 2023-10-10 | 2023-10-12 |
 | [日曜前夜](https://open.spotify.com/track/2JLH9fAXsIK3APJMs9Nizh) | [Nagakumo](https://open.spotify.com/artist/3iT7qp7T00Ot50wtDct8gw) | [日曜前夜](https://open.spotify.com/album/4aVcSbbEmsjUlDeCAD8y5N) | 4:24 | 2023-06-13 | 2023-06-15 |
 | [春の匂いに誘われて](https://open.spotify.com/track/6eBoTEaIcF7lZQE3GBE3Kl) | [Merlion](https://open.spotify.com/artist/0DetD9qvM9Qiokxzo3Srmq) | [春の匂いに誘われて](https://open.spotify.com/album/7KJG0imdCMwHBnyloMglft) | 1:37 | 2023-04-20 | 2023-05-14 |

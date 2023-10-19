@@ -1,12 +1,12 @@
 {
   "description": "\u591c\u306b\u306a\u308b\u4e00\u6b69\u624b\u524d\u306e\u6642\u523b\u306b\u4e00\u77ac\u3067\u3082\u30ea\u30e9\u30c3\u30af\u30b9\u3067\u304d\u308b\u3088\u3046\u306a\u3001\u97f3\u97ff\u7cfb\u30aa\u30eb\u30bf\u30ca\u30c6\u30a3\u30d6\u3068\u30af\u30e9\u30b7\u30c3\u30af\u30df\u30e5\u30fc\u30b8\u30c3\u30af\u3092\u3002",
-  "num_followers": 50156,
+  "num_followers": 50176,
   "original_name": "\u9759\u5bc2\u3068\u9ec4\u660f",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzNDY1OTM0ZjU1ODhjZGQxODZkYzU1NjkyZjNlNDEwMjBkZjU0YWNm",
+  "snapshot_id": "MCxhYjAzNWNjZDRmYmIzOGM4MGU4MjhmNjdiOTQ1NWM1NjljZTQ1OGFl",
   "tracks": [
     {
       "added_at": "2023-10-17 15:00:00",
@@ -887,6 +887,22 @@
     {
       "added_at": "2023-10-17 15:00:00",
       "album": {
+        "name": "Willie Crotty",
+        "url": "https://open.spotify.com/album/6XMhgT5cNXxRpqnJ2iPMwT"
+      },
+      "artists": [
+        {
+          "name": "John Francis Flynn",
+          "url": "https://open.spotify.com/artist/6Fk7AKTOKr4iB3Xth93KHX"
+        }
+      ],
+      "duration_ms": 407815,
+      "name": "Willie Crotty",
+      "url": "https://open.spotify.com/track/6sbqaVExoAv3W98haxS9ot"
+    },
+    {
+      "added_at": "2023-10-17 15:00:00",
+      "album": {
         "name": "Le Temple Volant",
         "url": "https://open.spotify.com/album/1LiZ2XItICSDOaNT4Bpnx5"
       },
@@ -1287,22 +1303,18 @@
     {
       "added_at": "2023-10-17 15:00:00",
       "album": {
-        "name": "Like a Child",
-        "url": "https://open.spotify.com/album/4RF4Nz20dvgZUk2iSXbddV"
+        "name": "Si tu voyais son c\u0153ur (Bande originale du film)",
+        "url": "https://open.spotify.com/album/5mEahbNaoYS9Mic3KcE1In"
       },
       "artists": [
         {
-          "name": "Hiroko Murakami",
-          "url": "https://open.spotify.com/artist/2FPMZBH13ARkDrd37sIp13"
-        },
-        {
-          "name": "Hiroco.M",
-          "url": "https://open.spotify.com/artist/723sN2rn2hMtdiMbzAZ3Of"
+          "name": "Gabriel Yared",
+          "url": "https://open.spotify.com/artist/6quKdQHmx2x7FBJwLhmpmB"
         }
       ],
-      "duration_ms": 155138,
-      "name": "Like a Child",
-      "url": "https://open.spotify.com/track/2J9UTgDdul3kMGZgnsUZIp"
+      "duration_ms": 101375,
+      "name": "G\u00e9n\u00e9rique de fin",
+      "url": "https://open.spotify.com/track/4nAvEP0TxzNPiu710Dl5va"
     },
     {
       "added_at": "2023-10-17 15:00:00",
@@ -1323,18 +1335,22 @@
     {
       "added_at": "2023-10-17 15:00:00",
       "album": {
-        "name": "Si tu voyais son c\u0153ur (Bande originale du film)",
-        "url": "https://open.spotify.com/album/5mEahbNaoYS9Mic3KcE1In"
+        "name": "Like a Child",
+        "url": "https://open.spotify.com/album/4RF4Nz20dvgZUk2iSXbddV"
       },
       "artists": [
         {
-          "name": "Gabriel Yared",
-          "url": "https://open.spotify.com/artist/6quKdQHmx2x7FBJwLhmpmB"
+          "name": "Hiroko Murakami",
+          "url": "https://open.spotify.com/artist/2FPMZBH13ARkDrd37sIp13"
+        },
+        {
+          "name": "Hiroco.M",
+          "url": "https://open.spotify.com/artist/723sN2rn2hMtdiMbzAZ3Of"
         }
       ],
-      "duration_ms": 101375,
-      "name": "G\u00e9n\u00e9rique de fin",
-      "url": "https://open.spotify.com/track/4nAvEP0TxzNPiu710Dl5va"
+      "duration_ms": 155138,
+      "name": "Like a Child",
+      "url": "https://open.spotify.com/track/2J9UTgDdul3kMGZgnsUZIp"
     },
     {
       "added_at": "2023-10-17 15:00:00",
@@ -1763,26 +1779,18 @@
     {
       "added_at": "2023-10-17 15:00:00",
       "album": {
-        "name": "Two Pianos 2",
-        "url": "https://open.spotify.com/album/0QVZQD5ymGpz0klj9pzs7N"
+        "name": "TREE",
+        "url": "https://open.spotify.com/album/3YW20Fu5fMy01J2EY4Dlav"
       },
       "artists": [
         {
-          "name": "Gabriel Faur\u00e9",
-          "url": "https://open.spotify.com/artist/2gClsBep1tt1rv1CN210SO"
-        },
-        {
-          "name": "Kyohei Sorita",
-          "url": "https://open.spotify.com/artist/4m095PrHobn6OZq4SceZbc"
-        },
-        {
-          "name": "Keigo Mukawa",
-          "url": "https://open.spotify.com/artist/31YgzVQJU0rrWzZGfzVVUF"
+          "name": "\u00d3lafur Arnalds",
+          "url": "https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia"
         }
       ],
-      "duration_ms": 158373,
-      "name": "Dolly Suite, Op. 56: I. Berceuse",
-      "url": "https://open.spotify.com/track/0rTWmhqlac0DNHc5xXk1SW"
+      "duration_ms": 278400,
+      "name": "TREE",
+      "url": "https://open.spotify.com/track/5nW41zamR8GqKYUxvxo12d"
     }
   ],
   "unique_name": "\u9759\u5bc2\u3068\u9ec4\u660f",

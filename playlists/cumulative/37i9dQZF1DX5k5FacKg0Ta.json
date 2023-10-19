@@ -1142,10 +1142,44 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-19",
       "duration_ms": 411893,
       "name": "It Goes On.",
       "url": "https://open.spotify.com/track/0klGXE46DplZMqL8gD3z96"
+    },
+    {
+      "album": {
+        "name": "Circus/Citadel",
+        "url": "https://open.spotify.com/album/7KRl0DZ6VvxGisL4x2qJEF"
+      },
+      "artists": [
+        {
+          "name": "Antti L\u00f6tj\u00f6nen",
+          "url": "https://open.spotify.com/artist/6uEOkKRkGPB7Z274RWBiCR"
+        },
+        {
+          "name": "Mikko Innanen",
+          "url": "https://open.spotify.com/artist/4HWtSGcRzJwM9qj21ODsIj"
+        },
+        {
+          "name": "Jussi Kannaste",
+          "url": "https://open.spotify.com/artist/5MrinOzalbDrw6L1AvPmbV"
+        },
+        {
+          "name": "Verneri Pohjola",
+          "url": "https://open.spotify.com/artist/601yt0lWcEE1vS1bzAPwSX"
+        },
+        {
+          "name": "Joonas Riippa",
+          "url": "https://open.spotify.com/artist/21QtF2eJhE5KpCFib3zfqO"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 411893,
+      "name": "It Goes On.",
+      "url": "https://open.spotify.com/track/35zjnluB33xZytg09SnG2I"
     },
     {
       "album": {
@@ -2055,6 +2089,24 @@
     },
     {
       "album": {
+        "name": "Juniper",
+        "url": "https://open.spotify.com/album/1EeacK8xt3mauU0iuuqWgN"
+      },
+      "artists": [
+        {
+          "name": "Linda Fredriksson",
+          "url": "https://open.spotify.com/artist/341VCWqMvdMnDP98GjaGYL"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 329426,
+      "name": "Pinetree Song",
+      "url": "https://open.spotify.com/track/1CUYeDX079nUIF7HYOSEjS"
+    },
+    {
+      "album": {
         "name": "Pinetree Song",
         "url": "https://open.spotify.com/album/4SjXdNETKs0gfhElhsnWoZ"
       },
@@ -2066,7 +2118,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-19",
       "duration_ms": 329426,
       "name": "Pinetree Song",
       "url": "https://open.spotify.com/track/5d1Zu6beu4sUzj2j01eol0"
@@ -2296,6 +2348,40 @@
     {
       "album": {
         "name": "Ilmiliekki Quartet",
+        "url": "https://open.spotify.com/album/7nYDVrrDqIis4MuedOyFBZ"
+      },
+      "artists": [
+        {
+          "name": "Ilmiliekki Quartet",
+          "url": "https://open.spotify.com/artist/5lyAsOhlvbGujJCVQoDC1B"
+        },
+        {
+          "name": "Verneri Pohjola",
+          "url": "https://open.spotify.com/artist/601yt0lWcEE1vS1bzAPwSX"
+        },
+        {
+          "name": "Tuomo Pr\u00e4tt\u00e4l\u00e4",
+          "url": "https://open.spotify.com/artist/06xoCURLIPFP4LvhXi8aLx"
+        },
+        {
+          "name": "Antti L\u00f6tj\u00f6nen",
+          "url": "https://open.spotify.com/artist/6uEOkKRkGPB7Z274RWBiCR"
+        },
+        {
+          "name": "Olavi Louhivuori",
+          "url": "https://open.spotify.com/artist/7MsLyr0nCXGN6OGoZgZqrT"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 349000,
+      "name": "Sgr A*",
+      "url": "https://open.spotify.com/track/3QLXh5l26khTqOJC8VdzVZ"
+    },
+    {
+      "album": {
+        "name": "Ilmiliekki Quartet",
         "url": "https://open.spotify.com/album/6STx4DRg71CIIy5w8mEiMC"
       },
       "artists": [
@@ -2322,7 +2408,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-19",
       "duration_ms": 349000,
       "name": "Sgr A*",
       "url": "https://open.spotify.com/track/5v0y5dl1jFmnLLjLsbRVlE"
@@ -2946,10 +3032,28 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-19",
       "duration_ms": 404120,
       "name": "Vanhatie",
       "url": "https://open.spotify.com/track/1hLUkwJHzvVRhbPDkkhaWI"
+    },
+    {
+      "album": {
+        "name": "Liesu",
+        "url": "https://open.spotify.com/album/5n86VY1BoK0gQB8YZw21Pp"
+      },
+      "artists": [
+        {
+          "name": "OK:KO",
+          "url": "https://open.spotify.com/artist/4IKmn7iXDZUlmXShSemrrW"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 404120,
+      "name": "Vanhatie",
+      "url": "https://open.spotify.com/track/2CKL9mnBSVyp25XD262LMM"
     },
     {
       "album": {

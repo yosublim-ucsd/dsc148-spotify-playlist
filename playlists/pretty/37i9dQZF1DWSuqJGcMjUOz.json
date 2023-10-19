@@ -1,12 +1,12 @@
 {
   "description": "La liste de lecture officielle de l\u2019\u00e9dition 2023 des Francos de Montr\u00e9al!",
-  "num_followers": 3916,
+  "num_followers": 3915,
   "original_name": "Francos de Montr\u00e9al 2023",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjOTI2YzE1NjdmYjg0YzQ1MGIwMmIxYmMwMmZlNDVlMjE0YTNmYjA0",
+  "snapshot_id": "MCxkOGU2NzAxZDY3YTZjMmJiZGIyMzgxYjY0NDgxMGM0ZDZkZTZiNWY1",
   "tracks": [
     {
       "added_at": "2023-05-25 23:46:15",
@@ -631,6 +631,22 @@
     {
       "added_at": "2023-05-25 23:46:15",
       "album": {
+        "name": "Nouvelle vague",
+        "url": "https://open.spotify.com/album/2sSEaDk3kB9uT2rK2ya1S2"
+      },
+      "artists": [
+        {
+          "name": "Manu Militari",
+          "url": "https://open.spotify.com/artist/5hCqDsqqIaYbJhWoZ0JhaE"
+        }
+      ],
+      "duration_ms": 122985,
+      "name": "Quiconque meurt, meurt \u00e0 douleur",
+      "url": "https://open.spotify.com/track/7uZM6lu93fsaaIKOMRXagN"
+    },
+    {
+      "added_at": "2023-05-25 23:46:15",
+      "album": {
         "name": "Tant qu'il y aura des enfants",
         "url": "https://open.spotify.com/album/0hNRs8jqYmS5Ly74AXMfur"
       },
@@ -659,22 +675,6 @@
       "duration_ms": 201409,
       "name": "80's",
       "url": "https://open.spotify.com/track/6VONfYwyPiTSVAkbVHMdBa"
-    },
-    {
-      "added_at": "2023-05-25 23:46:15",
-      "album": {
-        "name": "Nouvelle vague",
-        "url": "https://open.spotify.com/album/2sSEaDk3kB9uT2rK2ya1S2"
-      },
-      "artists": [
-        {
-          "name": "Manu Militari",
-          "url": "https://open.spotify.com/artist/5hCqDsqqIaYbJhWoZ0JhaE"
-        }
-      ],
-      "duration_ms": 122985,
-      "name": "Quiconque meurt, meurt \u00e0 douleur",
-      "url": "https://open.spotify.com/track/7uZM6lu93fsaaIKOMRXagN"
     },
     {
       "added_at": "2023-05-25 23:46:15",
@@ -1315,22 +1315,6 @@
     {
       "added_at": "2023-05-25 23:46:15",
       "album": {
-        "name": "Il faut partir maintenant",
-        "url": "https://open.spotify.com/album/09rm9yyPoxbfjOXMFpwfhm"
-      },
-      "artists": [
-        {
-          "name": "Maude Audet",
-          "url": "https://open.spotify.com/artist/4cevhLjv2nMVIOpUnS23n5"
-        }
-      ],
-      "duration_ms": 178405,
-      "name": "Penses-tu rester encore?",
-      "url": "https://open.spotify.com/track/6zwbqkwvMuqSLXGvQecKql"
-    },
-    {
-      "added_at": "2023-05-25 23:46:15",
-      "album": {
         "name": "Danser",
         "url": "https://open.spotify.com/album/2U2w4Q9zSKSWdm4ROY0A55"
       },
@@ -1359,6 +1343,22 @@
       "duration_ms": 96031,
       "name": "Suffit d'attendre I",
       "url": "https://open.spotify.com/track/7sTjKKeqMATaiX5yjbd3FB"
+    },
+    {
+      "added_at": "2023-05-25 23:46:15",
+      "album": {
+        "name": "Il faut partir maintenant",
+        "url": "https://open.spotify.com/album/09rm9yyPoxbfjOXMFpwfhm"
+      },
+      "artists": [
+        {
+          "name": "Maude Audet",
+          "url": "https://open.spotify.com/artist/4cevhLjv2nMVIOpUnS23n5"
+        }
+      ],
+      "duration_ms": 178405,
+      "name": "Penses-tu rester encore?",
+      "url": "https://open.spotify.com/track/6zwbqkwvMuqSLXGvQecKql"
     },
     {
       "added_at": "2023-05-25 23:46:15",
@@ -1395,22 +1395,6 @@
     {
       "added_at": "2023-05-25 23:46:15",
       "album": {
-        "name": "Soap Box",
-        "url": "https://open.spotify.com/album/3hm10jsgb47voscEXgHW2W"
-      },
-      "artists": [
-        {
-          "name": "Waahli",
-          "url": "https://open.spotify.com/artist/5aQDfvrtT8G6p69ZmhQhzI"
-        }
-      ],
-      "duration_ms": 205030,
-      "name": "Te revoir",
-      "url": "https://open.spotify.com/track/6mmc1ZPn4H3bD16P3Gh74z"
-    },
-    {
-      "added_at": "2023-05-25 23:46:15",
-      "album": {
         "name": "Le soleil et la mer",
         "url": "https://open.spotify.com/album/3U3IAHJIG9ofaeg6ZOud0s"
       },
@@ -1423,6 +1407,22 @@
       "duration_ms": 168190,
       "name": "Le matin",
       "url": "https://open.spotify.com/track/1vNQPck3HugkKRZrmRrRp6"
+    },
+    {
+      "added_at": "2023-05-25 23:46:15",
+      "album": {
+        "name": "Soap Box",
+        "url": "https://open.spotify.com/album/3hm10jsgb47voscEXgHW2W"
+      },
+      "artists": [
+        {
+          "name": "Waahli",
+          "url": "https://open.spotify.com/artist/5aQDfvrtT8G6p69ZmhQhzI"
+        }
+      ],
+      "duration_ms": 205030,
+      "name": "Te revoir",
+      "url": "https://open.spotify.com/track/6mmc1ZPn4H3bD16P3Gh74z"
     },
     {
       "added_at": "2023-05-25 23:46:15",
@@ -1663,22 +1663,6 @@
     {
       "added_at": "2023-05-25 23:46:15",
       "album": {
-        "name": "La fable de la grenouille dor\u00e9e",
-        "url": "https://open.spotify.com/album/2tcDyiKN4BWbQXgW494el5"
-      },
-      "artists": [
-        {
-          "name": "Vend\u00f4me",
-          "url": "https://open.spotify.com/artist/0Ynccr9no1SvYRuIL8jKqJ"
-        }
-      ],
-      "duration_ms": 224000,
-      "name": "03.04.19",
-      "url": "https://open.spotify.com/track/1rnnLXCZgFbnXw529B21H6"
-    },
-    {
-      "added_at": "2023-05-25 23:46:15",
-      "album": {
         "name": "C-17",
         "url": "https://open.spotify.com/album/1D5vGnjjpXVo5sSW5OMiAc"
       },
@@ -1695,6 +1679,22 @@
       "duration_ms": 172440,
       "name": "C-17",
       "url": "https://open.spotify.com/track/0yojSTPb2OqxzP30mDcPCU"
+    },
+    {
+      "added_at": "2023-05-25 23:46:15",
+      "album": {
+        "name": "La fable de la grenouille dor\u00e9e",
+        "url": "https://open.spotify.com/album/2tcDyiKN4BWbQXgW494el5"
+      },
+      "artists": [
+        {
+          "name": "Vend\u00f4me",
+          "url": "https://open.spotify.com/artist/0Ynccr9no1SvYRuIL8jKqJ"
+        }
+      ],
+      "duration_ms": 224000,
+      "name": "03.04.19",
+      "url": "https://open.spotify.com/track/1rnnLXCZgFbnXw529B21H6"
     },
     {
       "added_at": "2023-05-25 23:46:15",
@@ -1827,6 +1827,26 @@
     {
       "added_at": "2023-05-25 23:46:15",
       "album": {
+        "name": "Le pouvoir de l'esprit est infini",
+        "url": "https://open.spotify.com/album/4Tn6ivEofLTooQvhHqmTRm"
+      },
+      "artists": [
+        {
+          "name": "Eman",
+          "url": "https://open.spotify.com/artist/0577M91sH51YDk2o3cGko9"
+        },
+        {
+          "name": "ISMA",
+          "url": "https://open.spotify.com/artist/7oeOvjTf8uB3MYhPSXTDIy"
+        }
+      ],
+      "duration_ms": 277195,
+      "name": "Ensemble",
+      "url": "https://open.spotify.com/track/6vM411RagdEKjnK4kb1f88"
+    },
+    {
+      "added_at": "2023-05-25 23:46:15",
+      "album": {
         "name": "normal",
         "url": "https://open.spotify.com/album/6oCINsAkkdM3RguhaI8IOI"
       },
@@ -1859,26 +1879,6 @@
       "duration_ms": 204461,
       "name": "Mydriase",
       "url": "https://open.spotify.com/track/08awCBhPzOaNwijJ6G50rN"
-    },
-    {
-      "added_at": "2023-05-25 23:46:15",
-      "album": {
-        "name": "Le pouvoir de l'esprit est infini",
-        "url": "https://open.spotify.com/album/4Tn6ivEofLTooQvhHqmTRm"
-      },
-      "artists": [
-        {
-          "name": "Eman",
-          "url": "https://open.spotify.com/artist/0577M91sH51YDk2o3cGko9"
-        },
-        {
-          "name": "ISMA",
-          "url": "https://open.spotify.com/artist/7oeOvjTf8uB3MYhPSXTDIy"
-        }
-      ],
-      "duration_ms": 277195,
-      "name": "Ensemble",
-      "url": "https://open.spotify.com/track/6vM411RagdEKjnK4kb1f88"
     },
     {
       "added_at": "2023-05-25 23:46:15",
@@ -1947,22 +1947,6 @@
     {
       "added_at": "2023-05-25 23:46:15",
       "album": {
-        "name": "Hauterive",
-        "url": "https://open.spotify.com/album/2T3H2zGJ0OAdpDDful41Bn"
-      },
-      "artists": [
-        {
-          "name": "Hauterive",
-          "url": "https://open.spotify.com/artist/1FjP1PNg8eZOJ5uuRe6UWj"
-        }
-      ],
-      "duration_ms": 269173,
-      "name": "Le temps d'avance",
-      "url": "https://open.spotify.com/track/7sYhY4B6gKSH5XERKxS6UF"
-    },
-    {
-      "added_at": "2023-05-25 23:46:15",
-      "album": {
         "name": "Fr\u00e9quence violence",
         "url": "https://open.spotify.com/album/3UZqjG3zx72rh6lnzOrJg3"
       },
@@ -1975,6 +1959,22 @@
       "duration_ms": 170346,
       "name": "Cristaux liquides",
       "url": "https://open.spotify.com/track/34oTtDnMwgAbmZd9J6XAKt"
+    },
+    {
+      "added_at": "2023-05-25 23:46:15",
+      "album": {
+        "name": "Hauterive",
+        "url": "https://open.spotify.com/album/2T3H2zGJ0OAdpDDful41Bn"
+      },
+      "artists": [
+        {
+          "name": "Hauterive",
+          "url": "https://open.spotify.com/artist/1FjP1PNg8eZOJ5uuRe6UWj"
+        }
+      ],
+      "duration_ms": 269173,
+      "name": "Le temps d'avance",
+      "url": "https://open.spotify.com/track/7sYhY4B6gKSH5XERKxS6UF"
     },
     {
       "added_at": "2023-05-25 23:46:15",
@@ -2083,22 +2083,6 @@
     {
       "added_at": "2023-05-25 23:46:15",
       "album": {
-        "name": "Contentement",
-        "url": "https://open.spotify.com/album/0JxgRw0X8dicjH6keF8f0M"
-      },
-      "artists": [
-        {
-          "name": "Julie Aub\u00e9",
-          "url": "https://open.spotify.com/artist/33iNg8aAPLNrC4e69kjMuM"
-        }
-      ],
-      "duration_ms": 205786,
-      "name": "Contentement",
-      "url": "https://open.spotify.com/track/2sSwrRdkrWSbtKNPvOAz39"
-    },
-    {
-      "added_at": "2023-05-25 23:46:15",
-      "album": {
         "name": "Anh\u00e9donie",
         "url": "https://open.spotify.com/album/7188natmAynJElRoh3pKWD"
       },
@@ -2111,6 +2095,22 @@
       "duration_ms": 342280,
       "name": "Pourtant",
       "url": "https://open.spotify.com/track/4ZYnrqFlddLKvCH1SKuV5l"
+    },
+    {
+      "added_at": "2023-05-25 23:46:15",
+      "album": {
+        "name": "Contentement",
+        "url": "https://open.spotify.com/album/0JxgRw0X8dicjH6keF8f0M"
+      },
+      "artists": [
+        {
+          "name": "Julie Aub\u00e9",
+          "url": "https://open.spotify.com/artist/33iNg8aAPLNrC4e69kjMuM"
+        }
+      ],
+      "duration_ms": 205786,
+      "name": "Contentement",
+      "url": "https://open.spotify.com/track/2sSwrRdkrWSbtKNPvOAz39"
     },
     {
       "added_at": "2023-05-25 23:46:15",

@@ -1,12 +1,12 @@
 {
   "description": "De la isla, pa' el mundo! Representando la cultura con orgullo. Cover: Christian Alicea",
-  "num_followers": 69986,
+  "num_followers": 69997,
   "original_name": "Hecho en Puerto Rico",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxMjhkYzJhZjI3NTMyMjllOWZiYTcxZTUxMmQxZmZmMDExYWNmY2E3",
+  "snapshot_id": "MCwxYjk4OTdhOTE5ZTAxM2EwYTYwNWI0NjczNmI5NmQxOWRmYjBhMGU5",
   "tracks": [
     {
       "added_at": "2023-06-09 02:27:24",
@@ -1055,6 +1055,22 @@
     {
       "added_at": "2023-06-09 02:27:24",
       "album": {
+        "name": "TRAPPHONE",
+        "url": "https://open.spotify.com/album/2r8t3xBrocshJ1XeFOZLvk"
+      },
+      "artists": [
+        {
+          "name": "Anubiis",
+          "url": "https://open.spotify.com/artist/5X8Uu9qHN3KXLH2Fws87LB"
+        }
+      ],
+      "duration_ms": 107984,
+      "name": "TRAPPHONE",
+      "url": "https://open.spotify.com/track/3l6eaGBtFFZVmxXUyO9Lze"
+    },
+    {
+      "added_at": "2023-06-09 02:27:24",
+      "album": {
         "name": "dale Play",
         "url": "https://open.spotify.com/album/0Iq5DxqRwkw2Y4uY0zun6V"
       },
@@ -1071,22 +1087,6 @@
       "duration_ms": 226946,
       "name": "dale Play",
       "url": "https://open.spotify.com/track/33gFV76PlZtTunQCaqYIJH"
-    },
-    {
-      "added_at": "2023-06-09 02:27:24",
-      "album": {
-        "name": "TRAPPHONE",
-        "url": "https://open.spotify.com/album/2r8t3xBrocshJ1XeFOZLvk"
-      },
-      "artists": [
-        {
-          "name": "Anubiis",
-          "url": "https://open.spotify.com/artist/5X8Uu9qHN3KXLH2Fws87LB"
-        }
-      ],
-      "duration_ms": 107984,
-      "name": "TRAPPHONE",
-      "url": "https://open.spotify.com/track/3l6eaGBtFFZVmxXUyO9Lze"
     },
     {
       "added_at": "2023-06-09 02:27:24",
@@ -1187,18 +1187,18 @@
     {
       "added_at": "2023-06-09 02:27:24",
       "album": {
-        "name": "Ronca",
-        "url": "https://open.spotify.com/album/7DdUS4g3GA2LegRovzMmPw"
+        "name": "IDGAF",
+        "url": "https://open.spotify.com/album/30BnGphkbKkCmUChAFcxSA"
       },
       "artists": [
         {
-          "name": "Lunay",
-          "url": "https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE"
+          "name": "Yan Block",
+          "url": "https://open.spotify.com/artist/6TKygPpVT29oGUogu4J9Ec"
         }
       ],
-      "duration_ms": 145777,
-      "name": "Ronca",
-      "url": "https://open.spotify.com/track/5J0FhGzHv6QjlZTJfZffHb"
+      "duration_ms": 134048,
+      "name": "IDGAF",
+      "url": "https://open.spotify.com/track/076GBcif3AM1IHfBJs545o"
     },
     {
       "added_at": "2023-06-09 02:27:24",
@@ -1223,18 +1223,18 @@
     {
       "added_at": "2023-06-09 02:27:24",
       "album": {
-        "name": "IDGAF",
-        "url": "https://open.spotify.com/album/30BnGphkbKkCmUChAFcxSA"
+        "name": "Ronca",
+        "url": "https://open.spotify.com/album/7DdUS4g3GA2LegRovzMmPw"
       },
       "artists": [
         {
-          "name": "Yan Block",
-          "url": "https://open.spotify.com/artist/6TKygPpVT29oGUogu4J9Ec"
+          "name": "Lunay",
+          "url": "https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE"
         }
       ],
-      "duration_ms": 134048,
-      "name": "IDGAF",
-      "url": "https://open.spotify.com/track/076GBcif3AM1IHfBJs545o"
+      "duration_ms": 145777,
+      "name": "Ronca",
+      "url": "https://open.spotify.com/track/5J0FhGzHv6QjlZTJfZffHb"
     },
     {
       "added_at": "2023-06-09 02:27:24",
@@ -1299,22 +1299,6 @@
     {
       "added_at": "2023-06-09 02:27:24",
       "album": {
-        "name": "Mi Vicio",
-        "url": "https://open.spotify.com/album/1amIwstC3mDDvcgCiew7zB"
-      },
-      "artists": [
-        {
-          "name": "Brytiago",
-          "url": "https://open.spotify.com/artist/00XhexlJEXQstHimpZN910"
-        }
-      ],
-      "duration_ms": 221428,
-      "name": "Mi Vicio",
-      "url": "https://open.spotify.com/track/67VUbFHrTusJgK0JOofLXU"
-    },
-    {
-      "added_at": "2023-06-09 02:27:24",
-      "album": {
         "name": "19 Crema",
         "url": "https://open.spotify.com/album/69lwdO2wfRE7UICTvC2nC6"
       },
@@ -1343,6 +1327,22 @@
       "duration_ms": 246408,
       "name": "19 Crema",
       "url": "https://open.spotify.com/track/3Toeb72Jvw4o5duxvPwYJP"
+    },
+    {
+      "added_at": "2023-06-09 02:27:24",
+      "album": {
+        "name": "Mi Vicio",
+        "url": "https://open.spotify.com/album/1amIwstC3mDDvcgCiew7zB"
+      },
+      "artists": [
+        {
+          "name": "Brytiago",
+          "url": "https://open.spotify.com/artist/00XhexlJEXQstHimpZN910"
+        }
+      ],
+      "duration_ms": 221428,
+      "name": "Mi Vicio",
+      "url": "https://open.spotify.com/track/67VUbFHrTusJgK0JOofLXU"
     },
     {
       "added_at": "2023-06-09 02:27:24",
@@ -1411,26 +1411,6 @@
     {
       "added_at": "2023-06-09 02:27:24",
       "album": {
-        "name": "MARTINI",
-        "url": "https://open.spotify.com/album/7m5EsYbaRK4g6DQvmidbd5"
-      },
-      "artists": [
-        {
-          "name": "Lyanno",
-          "url": "https://open.spotify.com/artist/1Ts9of7VPZElwPQnqnDSfW"
-        },
-        {
-          "name": "Jay Wheeler",
-          "url": "https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g"
-        }
-      ],
-      "duration_ms": 185210,
-      "name": "MARTINI",
-      "url": "https://open.spotify.com/track/6gsAVrXRQvry6mzcobdULV"
-    },
-    {
-      "added_at": "2023-06-09 02:27:24",
-      "album": {
         "name": "UNBROKEN",
         "url": "https://open.spotify.com/album/1rncm29FDkVNHn4je7YEln"
       },
@@ -1455,6 +1435,26 @@
       "duration_ms": 234240,
       "name": "Palestina",
       "url": "https://open.spotify.com/track/4MFjw5MqTZTiX3iOAk4mAA"
+    },
+    {
+      "added_at": "2023-06-09 02:27:24",
+      "album": {
+        "name": "MARTINI",
+        "url": "https://open.spotify.com/album/7m5EsYbaRK4g6DQvmidbd5"
+      },
+      "artists": [
+        {
+          "name": "Lyanno",
+          "url": "https://open.spotify.com/artist/1Ts9of7VPZElwPQnqnDSfW"
+        },
+        {
+          "name": "Jay Wheeler",
+          "url": "https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g"
+        }
+      ],
+      "duration_ms": 185210,
+      "name": "MARTINI",
+      "url": "https://open.spotify.com/track/6gsAVrXRQvry6mzcobdULV"
     },
     {
       "added_at": "2023-06-09 02:27:24",

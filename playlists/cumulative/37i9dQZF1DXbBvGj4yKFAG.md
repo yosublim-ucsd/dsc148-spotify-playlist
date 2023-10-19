@@ -4,7 +4,7 @@
 
 > may include sad indie rock songs.
 
-197 songs - 10 hr 36 min
+198 songs - 10 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -155,7 +155,8 @@
 | [Sleep Well](https://open.spotify.com/track/4qwKWGKzuq8mgIunO6EaA1) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Sleep Well](https://open.spotify.com/album/7l7D7PZUCYo2JJsFFxlwYO) | 2:55 | 2023-04-14 | 2023-05-17 |
 | [small](https://open.spotify.com/track/7cEUiQ4Wc2JpU9tkzrYqfv) | [sundots](https://open.spotify.com/artist/0K7RoGabPQO08yJDhsvvL5) | [room](https://open.spotify.com/album/77gWWHaMLsKr00U3SfTCns) | 1:38 | 2023-04-11 | 2023-05-17 |
 | [So Sweet](https://open.spotify.com/track/5dFkDkyoBw6RXV51zfdvE6) | [Trash Panda](https://open.spotify.com/artist/5D9DTI3Knr64lYa3zDCpB7) | [PANDAMONIUM!](https://open.spotify.com/album/4NyZbFQFYDehtNGYEVwnsU) | 3:24 | 2023-05-12 |  |
-| [sometimes](https://open.spotify.com/track/6ITkt5Tn8pOyFyFJROywbt) | [jos](https://open.spotify.com/artist/68eVkVxfqdv4S4NqNyPP3v) | [sometimes](https://open.spotify.com/album/6UcGOBVg7qTyRicxKQM6t7) | 2:28 | 2023-08-11 |  |
+| [Sometimes](https://open.spotify.com/track/7d16ACNTVHWFLRAOGL3ZiI) | [alex\_g\_offline](https://open.spotify.com/artist/0bC6e2YtIRLbKx2txHFmEo) | [1234](https://open.spotify.com/album/1LsBYm2WOhgsqca4pxrvse) | 2:32 | 2023-08-11 |  |
+| [sometimes](https://open.spotify.com/track/6ITkt5Tn8pOyFyFJROywbt) | [jos](https://open.spotify.com/artist/68eVkVxfqdv4S4NqNyPP3v) | [sometimes](https://open.spotify.com/album/6UcGOBVg7qTyRicxKQM6t7) | 2:28 | 2023-08-11 | 2023-10-19 |
 | [Sometimes \(Backwood\)](https://open.spotify.com/track/1ElGmhauttS9p7LwmHG9uM) | [Gigi Perez](https://open.spotify.com/artist/1iCnM8foFssWlPRLfAbIwo) | [Sometimes \(Backwood\)](https://open.spotify.com/album/3hdw3AH6dkRpONWlJnotZn) | 2:33 | 2023-02-09 | 2023-05-17 |
 | [song i made up to stop myself from having a panic attack just now \(ft\. rich\)](https://open.spotify.com/track/0LTOpiPy2PahUkpMYLW3JL) | [Field Medic](https://open.spotify.com/artist/4wMfqR1EZagrSlYndItxGQ), [Rich](https://open.spotify.com/artist/4us6IzRDlOknDIdzAFe1uQ) | [song i made up to stop myself from having a panic attack just now](https://open.spotify.com/album/7ubczqQBG332NdZGDYdtu0) | 0:41 | 2023-02-09 | 2023-05-17 |
 | [Sorry / happysad](https://open.spotify.com/track/27DoSJFpTdzs6lN0iurC5C) | [Ryan Woods](https://open.spotify.com/artist/2Zgc1KUqd7A9wmQ7mQHuwY) | [King of the Basement](https://open.spotify.com/album/6lxrzoYSxl7Nk7pAQkUe7i) | 6:01 | 2023-04-11 | 2023-07-01 |

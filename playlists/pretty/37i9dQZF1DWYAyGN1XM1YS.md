@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYAyGN1XM1YS.md) - [plain]
 
 > Do you remember when you fell in love with emo and post\-hardcore? Cover: The Get Up Kids
 
-[Spotify](https://open.spotify.com/user/spotify) - 122,615 likes - 50 songs - 3 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 122,696 likes - 50 songs - 3 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,8 +45,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYAyGN1XM1YS.md) - [plain]
 | 35 | [The Casualty](https://open.spotify.com/track/5kgwBCYQtJ3vS0RpCrI6jG) | [Cursive](https://open.spotify.com/artist/1sylmUjlKYsLA49YtkNHW3) | [Cursive's Domestica](https://open.spotify.com/album/215RKfiHGpOXzOxftk3fqs) | 3:30 |
 | 36 | [For Want Of](https://open.spotify.com/track/0Ca6zALpIkO7nwSHpT5hSg) | [Rites of Spring](https://open.spotify.com/artist/1FIzwiROYEiAdCClC6Kvly) | [Rites of Spring](https://open.spotify.com/album/0pU2blS70BzVWyC1tVyaLg) | 3:10 |
 | 37 | [Undone](https://open.spotify.com/track/6k7TQSB0vW7EuSJs9vEvNl) | [Failure](https://open.spotify.com/artist/3grvcGPaLhfrD5CYsecr4j) | [Magnified](https://open.spotify.com/album/5LTiLtGa8g0TWWcjL2ymnR) | 4:27 |
-| 38 | [Liberation Frequency](https://open.spotify.com/track/6aM4iOuWyRQShk8uRaLNqN) | [Refused](https://open.spotify.com/artist/5sdxGvwxI1TkTA6Pu2jnTb) | [The Shape Of Punk To Come \(Deluxe Edition\)](https://open.spotify.com/album/2Us9qPHLvLoTl6HkYAPcz2) | 4:10 |
-| 39 | [Pathfinder](https://open.spotify.com/track/2KSpm6frQIkfgKiiS33d2z) | [Touché Amoré](https://open.spotify.com/artist/16QCJENzcdhwka9bTKYMVB) | [Parting the Sea Between Brightness and Me](https://open.spotify.com/album/3IcaDZx8NwboAOJItYq6lh) | 1:06 |
+| 38 | [Pathfinder](https://open.spotify.com/track/2KSpm6frQIkfgKiiS33d2z) | [Touché Amoré](https://open.spotify.com/artist/16QCJENzcdhwka9bTKYMVB) | [Parting the Sea Between Brightness and Me](https://open.spotify.com/album/3IcaDZx8NwboAOJItYq6lh) | 1:06 |
+| 39 | [Liberation Frequency](https://open.spotify.com/track/6aM4iOuWyRQShk8uRaLNqN) | [Refused](https://open.spotify.com/artist/5sdxGvwxI1TkTA6Pu2jnTb) | [The Shape Of Punk To Come \(Deluxe Edition\)](https://open.spotify.com/album/2Us9qPHLvLoTl6HkYAPcz2) | 4:10 |
 | 40 | [Tip Your Bartender](https://open.spotify.com/track/5h1xoldxbnstLnslJ77rER) | [Glassjaw](https://open.spotify.com/artist/7nt6S4klYHg4I7Q4lTSmc0) | [Worship And Tribute \(U.S\. Version\)](https://open.spotify.com/album/0KeXHDwyfBUshx0c9AqjpT) | 2:59 |
 | 41 | [While Oceana Sleeps](https://open.spotify.com/track/0zgEbB05wAnOHQ9XRupLwX) | [Sparta](https://open.spotify.com/artist/3DWWL4kwLZMBLsmVsbZYHR) | [Porcelain](https://open.spotify.com/album/17Mq1v9fKGSmCabI7DaV4S) | 4:24 |
 | 42 | [Red & Blue Jeans](https://open.spotify.com/track/0j3m9AfsZfanscT1uLrVk1) | [The Promise Ring](https://open.spotify.com/artist/5li5GfWFVl73vu7r2bGitu) | [Nothing Feels Good](https://open.spotify.com/album/3jnvo99sNDXcVdlJmrDXOO) | 2:55 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYAyGN1XM1YS.md) - [plain]
 | 49 | [Dine Alone](https://open.spotify.com/track/27X1P8USDRbZ5RNjbbQ9d1) | [Quicksand](https://open.spotify.com/artist/1GDjwZ2zwNZizuNJPmH3mE) | [Slip](https://open.spotify.com/album/3LVYsDFVGuPE7kNQyXZvgp) | 3:27 |
 | 50 | [Woolworm](https://open.spotify.com/track/37QGYx2RmRM98Ag1bfDfXp) | [Indian Summer](https://open.spotify.com/artist/1qRC7tQ3VepRoC8q0lB9Rf) | [Giving Birth to Thunder](https://open.spotify.com/album/1G6sKqeNTEbiDRu3M1TzM7) | 7:25 |
 
-Snapshot ID: `MCxkNjg4Mzc4YThkYzc2MmY3ZTM2YjkyMjZlYzJiMGJkYWNiZmEwMzY5`
+Snapshot ID: `MCwxYTQ3MzI1MjViMWQxNjYzYzgzOTUzNjc1NWRhZDMyMmQyMDdhMDlh`

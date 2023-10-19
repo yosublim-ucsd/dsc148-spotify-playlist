@@ -4,7 +4,7 @@
 
 > Rock out while you game.
 
-450 songs - 1 day 2 hr 59 min
+451 songs - 1 day 3 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -365,6 +365,7 @@
 | [Sugar, We're Goin Down](https://open.spotify.com/track/2TfSHkHiFO4gRztVIkggkE) | [Fall Out Boy](https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX) | [From Under The Cork Tree](https://open.spotify.com/album/5nkUSlIhtoJZMOUlB0sNCp) | 3:49 | 2020-06-29 | 2022-02-26 |
 | [Sunday Driver](https://open.spotify.com/track/0qVSoMLshegqzDE2FZlIsc) | [The Raconteurs](https://open.spotify.com/artist/4wo1267SJuUfHgasdlfNfc) | [Help Us Stranger \- With Track\-by\-Track Commentary](https://open.spotify.com/album/5nT0zM0q3zCwbISrPd7Xkd) | 3:38 | 2020-06-29 | 2022-06-17 |
 | [Sunshine!](https://open.spotify.com/track/5UZvBguQtkxJfgYrMZcRhe) | [Beartooth](https://open.spotify.com/artist/6vwjIs0tbIiseJMR3pqwiL) | [Sunshine!](https://open.spotify.com/album/1wh6d2qvnS769wK1IEeXE1) | 3:18 | 2023-06-23 | 2023-10-15 |
+| [Sunshine!](https://open.spotify.com/track/75jOZla67WCSH24GjJrq5r) | [Beartooth](https://open.spotify.com/artist/6vwjIs0tbIiseJMR3pqwiL) | [The Surface](https://open.spotify.com/album/5WmbnLQhy8ndx8S7puEolG) | 3:18 | 2023-06-23 |  |
 | [Sunspots](https://open.spotify.com/track/2NINmf3uyFDEZTHzuqop6a) | [The White Noise](https://open.spotify.com/artist/12miV5PudPDD06qK3OzgDg) | [AM/PM](https://open.spotify.com/album/05ihhbcT1qctFfGnZ3tVL4) | 5:24 | 2022-04-22 | 2022-05-21 |
 | [Supercharged](https://open.spotify.com/track/1C4V5YwbuMEcQgsNV3Sapg) | [Ayron Jones](https://open.spotify.com/artist/1iEaqWaYpKo9x0OrEq7Q7z) | [Child Of The State](https://open.spotify.com/album/7GGIqGci2fE3pMFdD8dI1y) | 3:02 | 2022-04-22 | 2022-05-21 |
 | [Supermassive Black Hole](https://open.spotify.com/track/3lPr8ghNDBLc2uZovNyLs9) | [Muse](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI) | [Black Holes and Revelations](https://open.spotify.com/album/0lw68yx3MhKflWFqCsGkIs) | 3:32 | 2022-04-26 | 2022-05-21 |
@@ -435,7 +436,7 @@
 | [Way down We Go](https://open.spotify.com/track/0y1QJc3SJVPKJ1OvFmFqe6) | [KALEO](https://open.spotify.com/artist/7jdFEYD2LTYjfwxOdlVjmc) | [A/B](https://open.spotify.com/album/4he4SQup02hEIQdwhZlZlk) | 3:33 | 2022-07-28 |  |
 | [Way down We Go](https://open.spotify.com/track/7aUuoq4oMfLxaLa5GVUDHi) | [KALEO](https://open.spotify.com/artist/7jdFEYD2LTYjfwxOdlVjmc) | [Way down We Go](https://open.spotify.com/album/28I1XWP7hYWdexJnuXE9HE) | 3:39 | 2020-06-29 | 2022-04-21 |
 | [What's On My Mind?](https://open.spotify.com/track/0ygPeXlJQsPcWXxFOlKaPg) | [Joshua Grant](https://open.spotify.com/artist/1hBGtBGjmVvxqPUL7rrW7Y) | [What's On My Mind?](https://open.spotify.com/album/2QX1SHSSzOKMMziWFzM4Jt) | 3:41 | 2022-02-25 | 2022-05-21 |
-| [When I'm Gone](https://open.spotify.com/track/7mVYYM1jFHP5d5ygTgjrf6) | [Dirty Honey](https://open.spotify.com/artist/0XBRd3N11rCbh0s8qHf41m) | [Dirty Honey](https://open.spotify.com/album/6FEBG6JNlWI3QkY3YlfhO7) | 3:25 | 2020-06-29 |  |
+| [When I'm Gone](https://open.spotify.com/track/7mVYYM1jFHP5d5ygTgjrf6) | [Dirty Honey](https://open.spotify.com/artist/0XBRd3N11rCbh0s8qHf41m) | [Dirty Honey](https://open.spotify.com/album/6FEBG6JNlWI3QkY3YlfhO7) | 3:25 | 2020-06-29 | 2023-10-19 |
 | [When You Were Young](https://open.spotify.com/track/70wYA8oYHoMzhRRkARoMhU) | [The Killers](https://open.spotify.com/artist/0C0XlULifJtAgn6ZNCW2eu) | [Sam's Town](https://open.spotify.com/album/4o3RJndRhHxkieQzQGhmbw) | 3:40 | 2020-06-29 |  |
 | [Who’s Gonna Love Me Now](https://open.spotify.com/track/1T9DxFAS1H7RgR4PDUzAGQ) | [Cold War Kids](https://open.spotify.com/artist/6VDdCwrBM4qQaGxoAyxyJC) | [New Age Norms 2](https://open.spotify.com/album/5XWHfMAw90dNXWbAy0t6hq) | 2:51 | 2022-04-22 | 2022-04-29 |
 | [Why Do I Hear Breathing?](https://open.spotify.com/track/34AV8kRHUmM06sdnmDrPRe) | [Chri$tian Gate$](https://open.spotify.com/artist/0OEYE03fBF2VoTBxGuaUxL) | [Why Do I Hear Breathing?](https://open.spotify.com/album/5Rld3VgahTXdhsOQk1oRnt) | 1:59 | 2023-04-28 |  |

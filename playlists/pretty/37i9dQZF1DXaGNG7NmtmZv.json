@@ -1,12 +1,12 @@
 {
   "description": "Classic songs from the legends of the hardcore scene.",
-  "num_followers": 199367,
+  "num_followers": 199473,
   "original_name": "Classic Hardcore",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmMzlkNTBiNjBhMTVhOTQ4MmFiZWE1YjkxZTdmMGY0NzNkYjM3NjA3",
+  "snapshot_id": "MCxmYWE5ODkxYmM1NWI1OTlkZWQ3MjdjY2VlMzVhODZjZDBlNTI1MDBi",
   "tracks": [
     {
       "added_at": "2020-12-08 15:12:11",
@@ -251,22 +251,6 @@
     {
       "added_at": "2020-12-08 15:12:11",
       "album": {
-        "name": "Check Your People",
-        "url": "https://open.spotify.com/album/0kFn5JKSC76NteLv33NyVe"
-      },
-      "artists": [
-        {
-          "name": "Downset",
-          "url": "https://open.spotify.com/artist/6SBgDfIRb6IE9TrA6w8Zg6"
-        }
-      ],
-      "duration_ms": 153173,
-      "name": "Pure Trauma",
-      "url": "https://open.spotify.com/track/7FpFV1oQhhZm6Vyj7K5FcS"
-    },
-    {
-      "added_at": "2020-12-08 15:12:11",
-      "album": {
         "name": "Voice of Rebellion",
         "url": "https://open.spotify.com/album/51TN24k8XMS8vQ98aUshFR"
       },
@@ -283,18 +267,18 @@
     {
       "added_at": "2020-12-08 15:12:11",
       "album": {
-        "name": "Set It Off",
-        "url": "https://open.spotify.com/album/13DHqlzDQfKsvJc69fkElW"
+        "name": "Check Your People",
+        "url": "https://open.spotify.com/album/0kFn5JKSC76NteLv33NyVe"
       },
       "artists": [
         {
-          "name": "Madball",
-          "url": "https://open.spotify.com/artist/1qh6ppVtiFTKMyta0NXsjf"
+          "name": "Downset",
+          "url": "https://open.spotify.com/artist/6SBgDfIRb6IE9TrA6w8Zg6"
         }
       ],
-      "duration_ms": 121706,
-      "name": "New York City",
-      "url": "https://open.spotify.com/track/2YL1QdU29cFAHrijICeiWA"
+      "duration_ms": 153173,
+      "name": "Pure Trauma",
+      "url": "https://open.spotify.com/track/7FpFV1oQhhZm6Vyj7K5FcS"
     },
     {
       "added_at": "2020-12-08 15:12:11",
@@ -311,6 +295,22 @@
       "duration_ms": 196680,
       "name": "Hail Destroyer",
       "url": "https://open.spotify.com/track/0XNm4jXda363NhHBoOp5II"
+    },
+    {
+      "added_at": "2020-12-08 15:12:11",
+      "album": {
+        "name": "Set It Off",
+        "url": "https://open.spotify.com/album/13DHqlzDQfKsvJc69fkElW"
+      },
+      "artists": [
+        {
+          "name": "Madball",
+          "url": "https://open.spotify.com/artist/1qh6ppVtiFTKMyta0NXsjf"
+        }
+      ],
+      "duration_ms": 121706,
+      "name": "New York City",
+      "url": "https://open.spotify.com/track/2YL1QdU29cFAHrijICeiWA"
     },
     {
       "added_at": "2020-12-08 15:12:11",
@@ -491,6 +491,22 @@
     {
       "added_at": "2020-12-08 15:12:11",
       "album": {
+        "name": "Silence Is Betrayal",
+        "url": "https://open.spotify.com/album/7tIMZsN8CNgmkgA5zFulUv"
+      },
+      "artists": [
+        {
+          "name": "First Blood",
+          "url": "https://open.spotify.com/artist/4z2rZXnFuTCl75Vpb26Eg0"
+        }
+      ],
+      "duration_ms": 53168,
+      "name": "Silence",
+      "url": "https://open.spotify.com/track/2rf23PCJH09ZAc8eq4yL1B"
+    },
+    {
+      "added_at": "2020-12-08 15:12:11",
+      "album": {
         "name": "Before The Quarrel",
         "url": "https://open.spotify.com/album/4cOlUeoODYu4DODpSnlU3i"
       },
@@ -519,22 +535,6 @@
       "duration_ms": 116173,
       "name": "Burning Season",
       "url": "https://open.spotify.com/track/5h55QONg24me5Vw4JMYlaJ"
-    },
-    {
-      "added_at": "2020-12-08 15:12:11",
-      "album": {
-        "name": "Silence Is Betrayal",
-        "url": "https://open.spotify.com/album/7tIMZsN8CNgmkgA5zFulUv"
-      },
-      "artists": [
-        {
-          "name": "First Blood",
-          "url": "https://open.spotify.com/artist/4z2rZXnFuTCl75Vpb26Eg0"
-        }
-      ],
-      "duration_ms": 53168,
-      "name": "Silence",
-      "url": "https://open.spotify.com/track/2rf23PCJH09ZAc8eq4yL1B"
     },
     {
       "added_at": "2020-12-08 15:12:11",
@@ -667,22 +667,6 @@
     {
       "added_at": "2020-12-08 15:12:11",
       "album": {
-        "name": "Merciless",
-        "url": "https://open.spotify.com/album/6JmRIhTDgoZG1fy8UahchU"
-      },
-      "artists": [
-        {
-          "name": "Most Precious Blood",
-          "url": "https://open.spotify.com/artist/0znKUm4tIhX5cGPnynkrMu"
-        }
-      ],
-      "duration_ms": 220453,
-      "name": "Shark Ethic",
-      "url": "https://open.spotify.com/track/7lWpl0id3QSafkh4rCBCJR"
-    },
-    {
-      "added_at": "2020-12-08 15:12:11",
-      "album": {
         "name": "Cognicide",
         "url": "https://open.spotify.com/album/1GQrz6GLWJ9WNijMQH4MzH"
       },
@@ -699,18 +683,18 @@
     {
       "added_at": "2020-12-08 15:12:11",
       "album": {
-        "name": "Count Me In",
-        "url": "https://open.spotify.com/album/6qDsZxas2r5Ye6EmHk8Wnv"
+        "name": "Merciless",
+        "url": "https://open.spotify.com/album/6JmRIhTDgoZG1fy8UahchU"
       },
       "artists": [
         {
-          "name": "Death Before Dishonor",
-          "url": "https://open.spotify.com/artist/0BIBoMLD3B0gptcCP0b9K5"
+          "name": "Most Precious Blood",
+          "url": "https://open.spotify.com/artist/0znKUm4tIhX5cGPnynkrMu"
         }
       ],
-      "duration_ms": 181226,
-      "name": "Break Through It All",
-      "url": "https://open.spotify.com/track/4WN54cERPExpnOs1adL5nB"
+      "duration_ms": 220453,
+      "name": "Shark Ethic",
+      "url": "https://open.spotify.com/track/7lWpl0id3QSafkh4rCBCJR"
     },
     {
       "added_at": "2020-12-08 15:12:11",
@@ -747,18 +731,18 @@
     {
       "added_at": "2020-12-08 15:12:11",
       "album": {
-        "name": "Friendship Loyalty Commitment",
-        "url": "https://open.spotify.com/album/7GxJgugUEG0uVauoECAi7I"
+        "name": "Count Me In",
+        "url": "https://open.spotify.com/album/6qDsZxas2r5Ye6EmHk8Wnv"
       },
       "artists": [
         {
-          "name": "25 Ta Life",
-          "url": "https://open.spotify.com/artist/3amFG2AzKgYyY7jBHuHuew"
+          "name": "Death Before Dishonor",
+          "url": "https://open.spotify.com/artist/0BIBoMLD3B0gptcCP0b9K5"
         }
       ],
-      "duration_ms": 125746,
-      "name": "Over the Years",
-      "url": "https://open.spotify.com/track/3svN7piEFZc4fn5paLZOOJ"
+      "duration_ms": 181226,
+      "name": "Break Through It All",
+      "url": "https://open.spotify.com/track/4WN54cERPExpnOs1adL5nB"
     },
     {
       "added_at": "2020-12-08 15:12:11",
@@ -775,6 +759,22 @@
       "duration_ms": 78099,
       "name": "Glue",
       "url": "https://open.spotify.com/track/58GYzvbTEO6p012RiuYaEp"
+    },
+    {
+      "added_at": "2020-12-08 15:12:11",
+      "album": {
+        "name": "Friendship Loyalty Commitment",
+        "url": "https://open.spotify.com/album/7GxJgugUEG0uVauoECAi7I"
+      },
+      "artists": [
+        {
+          "name": "25 Ta Life",
+          "url": "https://open.spotify.com/artist/3amFG2AzKgYyY7jBHuHuew"
+        }
+      ],
+      "duration_ms": 125746,
+      "name": "Over the Years",
+      "url": "https://open.spotify.com/track/3svN7piEFZc4fn5paLZOOJ"
     },
     {
       "added_at": "2020-12-08 15:12:11",

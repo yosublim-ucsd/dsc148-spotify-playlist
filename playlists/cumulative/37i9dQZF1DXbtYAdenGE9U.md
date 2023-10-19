@@ -4,7 +4,7 @@
 
 > Lasers, lights & euphoric beats \- all your favorite trance anthems!
 
-153 songs - 11 hr 45 min
+154 songs - 11 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -44,6 +44,7 @@
 | [Concrete Angel \- Radio Edit](https://open.spotify.com/track/2zM1zEjv2JX1qTmSDeB8IL) | [Gareth Emery](https://open.spotify.com/artist/0hprEC0nsWuQPSHag1O2Vi), [Christina Novelli](https://open.spotify.com/artist/1dbzT291PCwwYJK0l3Tr1n) | [Concrete Angel](https://open.spotify.com/album/4Jykpzu0mPClJY1eo77H5o) | 3:55 | 2023-03-10 |  |
 | [Cry](https://open.spotify.com/track/5fwONah6r8bm2UfcY8PGMz) | [System F](https://open.spotify.com/artist/2ZpwFriFFPaGFC4qYQQJ1i) | [Cry](https://open.spotify.com/album/6qXV8qN7pKpEW9QrLrO1fm) | 4:17 | 2023-08-11 |  |
 | [Destination \- Above & Beyond Remix](https://open.spotify.com/track/6H9j1XYqjPWxIxsN2fBifw) | [DT8 Project](https://open.spotify.com/artist/5vt86ZNYulbS5LcsTGpDHE), [Above & Beyond](https://open.spotify.com/artist/10gzBoINW3cLJfZUka8Zoe) | [The Remixes EP](https://open.spotify.com/album/0sBcAy0QfnzCKCDeC5w86z) | 3:02 | 2022-12-28 | 2023-03-11 |
+| [Diving Faces \- Radio Cut](https://open.spotify.com/track/1TUUq8BSzn0zMc8OqXa7oU) | [Liquid Child](https://open.spotify.com/artist/0cljqRBWiEmXSI4vXvMFl7) | [Diving Faces](https://open.spotify.com/album/5Axm2YhkSXmlxqiZcBSpyZ) | 3:40 | 2023-08-11 |  |
 | [Don't Give Up](https://open.spotify.com/track/0zjORbo98bRxMmyS3wzeKW) | [Chicane](https://open.spotify.com/artist/5GxyeQagayzZOg4UwffQlD), [Bryan Adams](https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc) | [Twenty](https://open.spotify.com/album/44vqzi1IjdNLJ6AtkTuzIh) | 3:30 | 2023-03-10 |  |
 | [Ecuador](https://open.spotify.com/track/5UuVC9noWHcsOX08ctdbDD) | [Sash!](https://open.spotify.com/artist/5XTxV2ifoYkmNb13Gb6cKz) | [The Best Of](https://open.spotify.com/album/45XCMxMYVkiI9kh9P35MHz) | 3:36 | 2022-04-13 | 2022-07-29 |
 | [Ecuador \- Original Radio Edit](https://open.spotify.com/track/1arJHhz6TxMV50SNvSmGnV) | [Sash!](https://open.spotify.com/artist/5XTxV2ifoYkmNb13Gb6cKz) | [It's My Life](https://open.spotify.com/album/2YBkamwn6VqpPO2wOfDVjS) | 3:32 | 2022-04-13 |  |
@@ -82,7 +83,7 @@
 | [Komodo \(Radio Edit\)](https://open.spotify.com/track/3NjmHXAKcpg5e0BseNJtUJ) | [Mauro Picotto](https://open.spotify.com/artist/0MNSDAOCHF7f2ZfAYxZ9bp) | [Greatest Hits & Remixes](https://open.spotify.com/album/3kzFmML169KngWKdeutrhc) | 3:23 | 2023-08-11 |  |
 | [Linking People](https://open.spotify.com/track/7GDHnh0uFnONkHDDnGkFN7) | [Giuseppe Ottaviani](https://open.spotify.com/artist/5B9q1NRokzWYB7nSgnlHyv) | [Linking People](https://open.spotify.com/album/5YuQtNZ5nWZYykCxXFjiM4) | 8:34 | 2022-04-13 | 2022-07-20 |
 | [Lizard](https://open.spotify.com/track/4t12tfpnld2b3XwXsNfEgt) | [Mauro Picotto](https://open.spotify.com/artist/0MNSDAOCHF7f2ZfAYxZ9bp) | [The Double Album](https://open.spotify.com/album/6YvP4jnV1o5QL02rykTm1a) | 5:13 | 2023-08-11 |  |
-| [Loneliness \- Radio Cut](https://open.spotify.com/track/7mPrEblYX8GLGRXLmPL8ws) | [Tomcraft](https://open.spotify.com/artist/2E4lzxgBnCEqLawsXeRKWp) | [Loneliness](https://open.spotify.com/album/5LOLNALdP8O97CMeGdqOOM) | 3:48 | 2023-03-10 |  |
+| [Loneliness \- Radio Cut](https://open.spotify.com/track/7mPrEblYX8GLGRXLmPL8ws) | [Tomcraft](https://open.spotify.com/artist/2E4lzxgBnCEqLawsXeRKWp) | [Loneliness](https://open.spotify.com/album/5LOLNALdP8O97CMeGdqOOM) | 3:48 | 2023-03-10 | 2023-10-19 |
 | [Lonely Girl \- Gareth Emery Remix \(Edit\)](https://open.spotify.com/track/0AyySV2exaNwoyK99nTfeQ) | [Above & Beyond](https://open.spotify.com/artist/10gzBoINW3cLJfZUka8Zoe), [Oceanlab](https://open.spotify.com/artist/0aTdKgInKeMlNnwWSa1YPT), [Gareth Emery](https://open.spotify.com/artist/0hprEC0nsWuQPSHag1O2Vi) | [Fatum Presents: 20 Years Of Anjunabeats](https://open.spotify.com/album/0knnadrIb51q2XTdSMrTC3) | 4:15 | 2022-12-28 | 2023-05-17 |
 | [Loops & Tings Relooped \- Marco V's Original Mix](https://open.spotify.com/track/194nuzvtgqMWIBJXPusBAv) | [Marco V](https://open.spotify.com/artist/24xpaWFyBOwoB8lBBolWzv), [Jens](https://open.spotify.com/artist/1ijg7R0Fw3gbM6aHov3TXn) | [Loops & Tings Relooped \(Special Edition\)](https://open.spotify.com/album/3MmxH5GzAJxteueSBHHfgc) | 6:44 | 2022-04-13 | 2022-04-21 |
 | [Lucky Strike](https://open.spotify.com/track/6gNpYQYQL17tRpuQKByvHY) | [Mat Zo](https://open.spotify.com/artist/2n7USVO8fO8FF8zq4kG2N1) | [Lucky Strike / Synapse Dynamics](https://open.spotify.com/album/3qRLXFFbdLa2Sirhp8J1BO) | 4:14 | 2022-12-28 | 2023-02-21 |

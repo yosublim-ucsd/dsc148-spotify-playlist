@@ -4,7 +4,7 @@
 
 > Soothing, soft piano.
 
-278 songs - 14 hr 26 min
+279 songs - 14 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -110,6 +110,7 @@
 | [Fragile](https://open.spotify.com/track/6uQaPMGHgvqYG3Jb2VlKqG) | [Hauschka](https://open.spotify.com/artist/6fTuDQJqqMDrrEXSFmgyJt) | [Substantial](https://open.spotify.com/album/64LyVOmmmTqVxtmPsyZPmc) | 3:28 | 2019-04-17 | 2022-02-05 |
 | [Fundersom](https://open.spotify.com/track/3gl8vhkqDmqEVN2ZZp7ML8) | [Ole\-Bjørn Talstad](https://open.spotify.com/artist/1RRY8KBuZYuhAAJRgdDlP9) | [Fundersom](https://open.spotify.com/album/0vMpCoijfU4ZT0YBCSmVmx) | 2:01 | 2022-09-20 | 2022-12-27 |
 | [Gdansk](https://open.spotify.com/track/5kRBxcHNbWOUFvv15I0dMP) | [Lambert](https://open.spotify.com/artist/6pSQcy8935ABNiK2qOpOlK) | [Gdansk](https://open.spotify.com/album/40rTqC9tVI3N4kFup5IvAR) | 2:27 | 2022-02-04 | 2023-09-27 |
+| [Grazioso](https://open.spotify.com/track/2tSwBrSAM5A2LyIOl3hNTq) | [Carluccio](https://open.spotify.com/artist/06bxyT4bXPZaKsInaJ75UL) | [Grazioso](https://open.spotify.com/album/5cTMO1rsT03oLH3955ErvZ) | 2:13 | 2023-10-10 |  |
 | [Grey Light](https://open.spotify.com/track/2OT0D7g8Y0CotmE5DYcbvy) | [Francesco Tristano](https://open.spotify.com/artist/19CMctG8DNWO0rHPE98ujj) | [Piano Circle Songs](https://open.spotify.com/album/0HZffZIK7Q6RCdn8LOI72k) | 4:36 | 2019-04-17 | 2022-02-05 |
 | [heart pieces](https://open.spotify.com/track/0vQIs6UM5iNmIEtazl28za) | [Moux](https://open.spotify.com/artist/4jsMhXef3DBlwIfiVLEGDZ) | [heart pieces](https://open.spotify.com/album/5HrBAQJ2gvG43Ce8B9zPwj) | 2:29 | 2022-02-04 |  |
 | [Help](https://open.spotify.com/track/0FGQxILDykQk9njstjmJsW) | [Andy Gbormittah](https://open.spotify.com/artist/2mIwIuVk0LJ3Yx1OF9oemI), [Jake Warren](https://open.spotify.com/artist/4qpQbtCd9KCxdSNHsiiYc2), [Silence & Air](https://open.spotify.com/artist/6nz1OqkcYolAH8NHMQEqAs) | [Solo](https://open.spotify.com/album/7kgpxixcMnXRZ6f1FqIOLv) | 1:34 | 2019-04-17 | 2022-02-05 |
@@ -224,7 +225,7 @@
 | [Song For Katie](https://open.spotify.com/track/5Zpsc6bmptDWbiwf4Wsnhb) | [Elliott Jack Sansom](https://open.spotify.com/artist/22WxwAyT9U9wWsKA7ToO7K) | [Song For Katie](https://open.spotify.com/album/5fJn5QQf4lwwuLubflqLKZ) | 2:26 | 2022-06-03 | 2023-09-23 |
 | [Sonnet 1](https://open.spotify.com/track/5VKVUectaKrr9Mq9m3fnWT) | [Frederico Morales](https://open.spotify.com/artist/43oHV1OfcYMyNvj7pwUhTx) | [Sonnet 1](https://open.spotify.com/album/61quLSJezCtYqMsoy6pMAz) | 2:11 | 2023-09-22 |  |
 | [Sound Of Mind](https://open.spotify.com/track/4zLErnaWoRXh91YcWZ2LKy) | [Macan Moreira](https://open.spotify.com/artist/276FUXyDM4cBBPU0LbgZrZ) | [Sound Of Mind](https://open.spotify.com/album/2dqXzH1k1etLj9Bmx17Rjk) | 2:02 | 2023-09-22 |  |
-| [Sous un arbre](https://open.spotify.com/track/0KT3pfe3i1l9bIA05BHAaP) | [Orlene de Brisay](https://open.spotify.com/artist/0j1bGzjDxr3eqhdWsmkVMN) | [Sous un arbre](https://open.spotify.com/album/6D46laqUXkL2Lsi121Qs3H) | 2:32 | 2023-09-22 |  |
+| [Sous un arbre](https://open.spotify.com/track/0KT3pfe3i1l9bIA05BHAaP) | [Orlene de Brisay](https://open.spotify.com/artist/0j1bGzjDxr3eqhdWsmkVMN) | [Sous un arbre](https://open.spotify.com/album/6D46laqUXkL2Lsi121Qs3H) | 2:32 | 2023-09-22 | 2023-10-19 |
 | [Spin Bird \- 1](https://open.spotify.com/track/0c5SPry2XKSUvtUowBHBwv) | [Kate Moore](https://open.spotify.com/artist/4KBzgyUaq9VTIpRCMcFhL7), [Saskia Lankhoorn](https://open.spotify.com/artist/54aTNERT1OlKhqtOz8pP4j) | [Kate Moore: Dances And Canons](https://open.spotify.com/album/1gvWUgtDjlNVDnSNR3PrLg) | 3:24 | 2019-04-17 | 2022-02-05 |
 | [Spring Nocturne](https://open.spotify.com/track/2opcWaLs80Du8q3Mh7CN4p) | [Angus MacRae](https://open.spotify.com/artist/461sVAxk7a1yog2yExyBRX) | [Cry Wolf](https://open.spotify.com/album/5F7sBywWgGywOAzrAFARH9) | 4:32 | 2019-04-17 | 2022-02-05 |
 | [Starry Sky](https://open.spotify.com/track/6d1XH0OKwZVbITLqPoToDg) | [April Baxter](https://open.spotify.com/artist/2OMX9EZb9k30BOkvHJK8ec) | [Starry Sky](https://open.spotify.com/album/0oVDiiRJAK8UDxsWxt5oMe) | 2:20 | 2022-02-18 |  |

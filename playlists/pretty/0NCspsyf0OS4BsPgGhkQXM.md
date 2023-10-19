@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0NCspsyf0OS4BsPgGhkQXM.md) - [plain]
 
 > The Official Trap Nation Playlist
 
-[Trap Nation](https://open.spotify.com/user/alltrapnation) - 2,046,741 likes - 141 songs - 7 hr 27 min
+[Trap Nation](https://open.spotify.com/user/alltrapnation) - 2,046,835 likes - 141 songs - 7 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -146,7 +146,7 @@ pretty - [cumulative](/playlists/cumulative/0NCspsyf0OS4BsPgGhkQXM.md) - [plain]
 | 136 | [ONURIS](https://open.spotify.com/track/1g46CnZlLXeHXKZ8gZmDIF) | [74blade](https://open.spotify.com/artist/07CoGyrUbcBkSzvs1Kd9i6), [gveor](https://open.spotify.com/artist/1KFXTL5QsqcvKzMypPeyGn) | [ONURIS](https://open.spotify.com/album/2jySTDnhPhubIfCM48A9Je) | 2:11 |
 | 137 | [SULTAN'S PHONK](https://open.spotify.com/track/2y8vNneT8BBnnwV7bTolGP) | [OTVphonk](https://open.spotify.com/artist/0AocRNEO5hAP398nPuJV8a) | [SULTAN'S PHONK](https://open.spotify.com/album/7r4Q6lgHb9i85ORxBspvws) | 2:22 |
 | 138 | [SAY](https://open.spotify.com/track/7tTzohTWujqyqQmsLgD4Ye) | [LAUTRE.](https://open.spotify.com/artist/7wfx7Fc5L3L8uvXEv8pCm6) | [SAY / STREETS](https://open.spotify.com/album/6LTKWQiQdLNifDT5EZBbuA) | 3:18 |
-| 139 | [Hush](https://open.spotify.com/track/0BsBMY4J2gpCNzBz2Djd4O) | [L3ss](https://open.spotify.com/artist/47UvONhA4idcz08XOh16q1), [MADZI](https://open.spotify.com/artist/3TfYPq0TUpyzE2QR4iEU8K), [Barmuda](https://open.spotify.com/artist/5SoTfJZxWxfm9TkVEkvcLM) | [Hush](https://open.spotify.com/album/5KwrQ9rZC4LDkqwtT8d9MJ) | 2:28 |
+| 139 | [Hush](https://open.spotify.com/track/0BsBMY4J2gpCNzBz2Djd4O) | [MADZI](https://open.spotify.com/artist/3TfYPq0TUpyzE2QR4iEU8K), [L3ss](https://open.spotify.com/artist/47UvONhA4idcz08XOh16q1), [Barmuda](https://open.spotify.com/artist/5SoTfJZxWxfm9TkVEkvcLM) | [Hush](https://open.spotify.com/album/5KwrQ9rZC4LDkqwtT8d9MJ) | 2:28 |
 | 140 | [Cold Hearted](https://open.spotify.com/track/2WhLzxtQqPJC1jDA6HqwK7) | [Akacia](https://open.spotify.com/artist/4D9a1UPPFCoOm1kBtJfni5), [BraydenK](https://open.spotify.com/artist/6t30gSzR6jFKJW9DUmdBwZ) | [Cold Hearted](https://open.spotify.com/album/1NM8FQvdULOShdyfHGmok3) | 3:08 |
 | 141 | [FAITHLESS](https://open.spotify.com/track/5EBDcfAWfJBhWK7YKmZou9) | [sapphyre](https://open.spotify.com/artist/5nqa17OYrgbn9JX5ra4EgS) | [FAITHLESS](https://open.spotify.com/album/5PtTtZDCnQsDLl8oXHg0Cz) | 3:18 |
 

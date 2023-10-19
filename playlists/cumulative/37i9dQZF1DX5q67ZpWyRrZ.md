@@ -4,7 +4,7 @@
 
 > Best of the Indian Indie scene\. Cover \- Prateek Kuhad
 
-222 songs - 12 hr 37 min
+223 songs - 12 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -180,6 +180,7 @@
 | [Saal](https://open.spotify.com/track/2S3erlZaNr7EGakVORv619) | [Ishpreet Singh](https://open.spotify.com/artist/0uYkdsYTX52nJ3iiER4rg9), [Khushraj Hussain](https://open.spotify.com/artist/2F4iyLhAJANxKrKl3Iw9Dh) | [Saal](https://open.spotify.com/album/5WZa0b0DV0zS6K3sEWAuKP) | 3:08 | 2022-04-28 | 2023-08-22 |
 | [Saanjh](https://open.spotify.com/track/5nrhIgDiO6TppbdLxUDqHs) | [Utsavi Jha](https://open.spotify.com/artist/51pcy004juIDA1mruOZJCX) | [Saanjh](https://open.spotify.com/album/6lzFKrN8dJifMdpDBNuOw8) | 4:42 | 2023-01-16 |  |
 | [Saara Jahaan](https://open.spotify.com/track/6PCFM6hZ5CZb6MZhNXvX92) | [Akanksha Bhandari](https://open.spotify.com/artist/2U5K35Kwj0LqkfG3ENnnSL) | [Saara Jahaan](https://open.spotify.com/album/16kYRDEJT3bwQ5StFGCGPV) | 2:37 | 2023-04-14 |  |
+| [Sab Rab](https://open.spotify.com/track/04fUBhT63GeEuOhoIONitJ) | [Rochak Kohli](https://open.spotify.com/artist/3dN9MQpjIyNxyeRfz4EDZe), [Nikhita Gandhi](https://open.spotify.com/artist/3tPQOjkxO3mrYrrgkTeXgH), [Sanjoy](https://open.spotify.com/artist/6qjhYs5KNSoSU6fNJqDGIo), [Gurpreet Saini](https://open.spotify.com/artist/3nLLr3ShsQC2Hdrwjl14ie) | [Sab Rab](https://open.spotify.com/album/6d31ZraM2g9FyRvsmbxSGp) | 3:04 | 2023-10-18 |  |
 | [Sage](https://open.spotify.com/track/43mHckutQvJr49nT0UvRxy) | [Ritviz](https://open.spotify.com/artist/72beYOeW2sb2yfcS4JsRvb) | [Ved](https://open.spotify.com/album/7LPx9F9ZQWWvQlKgIQi1OZ) | 3:50 | 2022-07-25 |  |
 | [Sage](https://open.spotify.com/track/64RkEV5b7bG697vhIPMlrl) | [Ritviz](https://open.spotify.com/artist/72beYOeW2sb2yfcS4JsRvb) | [Sage](https://open.spotify.com/album/7sDecy4TUrJpkPnOmAiVKn) | 3:50 | 2022-01-05 | 2023-10-15 |
 | [Sajna](https://open.spotify.com/track/6Px3kJxZiQzGe9hU5twvy2) | [Bombay the Artist](https://open.spotify.com/artist/2Qa5HYyDrPrArARMDJfDbJ) | [Sajna](https://open.spotify.com/album/3l2xpQwu7pgc5ic1GyR1PG) | 3:25 | 2022-12-22 | 2023-01-24 |
@@ -216,7 +217,7 @@
 | [Tuta Pull Wahan](https://open.spotify.com/track/7EYEswNmA0XjzwUitONgzK) | [Deepak Rathore Project](https://open.spotify.com/artist/1VFIeAFbzMVHmvGQtfE6OI) | [Tuta Pull Wahan](https://open.spotify.com/album/00BfVMr2A2C6V1fScLpMTI) | 5:13 | 2022-08-23 |  |
 | [Udaan](https://open.spotify.com/track/4P04qZvFhETXTGviFu9xL5) | [The Yellow Diary](https://open.spotify.com/artist/6xlrAAgxcRlgCXnbg2hcFc) | [Udaan](https://open.spotify.com/album/4S6vdgAvjXuO4gDE4kbxJ5) | 3:18 | 2022-01-05 | 2022-01-20 |
 | [Udd Chala](https://open.spotify.com/track/7n6DDEpcqkhkiGhXwexF9I) | [Taba Chake](https://open.spotify.com/artist/6AnOY77z51J14nEUVsFKTy) | [Udd Chala](https://open.spotify.com/album/7LT4xezgouCmrPpbqQOwTu) | 4:46 | 2023-02-28 | 2023-08-26 |
-| [Udd Gaye](https://open.spotify.com/track/5ZsAhuQ24mWHiduaxJqnhW) | [Ritviz](https://open.spotify.com/artist/72beYOeW2sb2yfcS4JsRvb) | [Ved](https://open.spotify.com/album/7LPx9F9ZQWWvQlKgIQi1OZ) | 3:00 | 2022-01-05 |  |
+| [Udd Gaye](https://open.spotify.com/track/5ZsAhuQ24mWHiduaxJqnhW) | [Ritviz](https://open.spotify.com/artist/72beYOeW2sb2yfcS4JsRvb) | [Ved](https://open.spotify.com/album/7LPx9F9ZQWWvQlKgIQi1OZ) | 3:00 | 2022-01-05 | 2023-10-19 |
 | [Unicorn and the Sheep](https://open.spotify.com/track/4YWeZa7AfJArkijVVq8ayc) | [Raghav Meattle](https://open.spotify.com/artist/7lTlD9L3QhfOH13Z0n1ibN) | [Unicorn And The Sheep](https://open.spotify.com/album/1Gd4ISqgkzf5WZHLjzUaHI) | 2:31 | 2021-12-06 | 2022-02-05 |
 | [Wagairah Wagairah](https://open.spotify.com/track/5GcjIiSS47T64N1DFxn1UK) | [Ankur Tewari](https://open.spotify.com/artist/1ciT67XXpG2HOVsLQjKdv6), [The Ghalat Family](https://open.spotify.com/artist/2TOUVQAEhJJDSvqjLS4X7x) | [Side A](https://open.spotify.com/album/4y3rYukqA7L8aPmkCaMj5P) | 3:37 | 2021-12-06 | 2022-03-17 |
 | [Waqt Ki Baatein](https://open.spotify.com/track/0cJTjTH3XVTTJh8F4Uq1db) | [Dream Note](https://open.spotify.com/artist/4o0mCeiUIVdknPUMhpO0bd) | [Waqt Ki Baatein](https://open.spotify.com/album/35pKiC2zx1UzIgZgN48ZkO) | 4:03 | 2022-07-25 |  |

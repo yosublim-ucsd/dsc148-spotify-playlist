@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "The biggest Dance hits and the ones to come. Welcome to the Main Stage! Cover: LUNAX",
+  "description": "The biggest Dance hits and the ones to come. Welcome to the Main Stage! Cover: VIZE, Leony, Niklas Dee",
   "name": "Main Stage",
   "tracks": [
     {
@@ -196,6 +196,28 @@
       "duration_ms": 161880,
       "name": "AEIOU",
       "url": "https://open.spotify.com/track/1c2vVx6knoiZHXbJJ9Mk8L"
+    },
+    {
+      "album": {
+        "name": "AEIOU",
+        "url": "https://open.spotify.com/album/2F00Hw4CHbhTPMeUllX8Oc"
+      },
+      "artists": [
+        {
+          "name": "PNAU",
+          "url": "https://open.spotify.com/artist/6n28c9qs9hNGriNa72b26u"
+        },
+        {
+          "name": "Empire of the Sun",
+          "url": "https://open.spotify.com/artist/67hb7towEyKvt5Z8Bx306c"
+        }
+      ],
+      "date_added": "2023-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195446,
+      "name": "AEIOU",
+      "url": "https://open.spotify.com/track/5I8YyKG5iIdOiuTFnX9YVC"
     },
     {
       "album": {
@@ -2144,7 +2166,7 @@
       ],
       "date_added": "2023-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-19",
       "duration_ms": 179161,
       "name": "Desire (with Sam Smith)",
       "url": "https://open.spotify.com/track/22dUzMFttcR3uU17NcOAIv"
@@ -2512,7 +2534,7 @@
       ],
       "date_added": "2023-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-19",
       "duration_ms": 136615,
       "name": "Drinkin",
       "url": "https://open.spotify.com/track/1Usa0Fv8L9NmRKY4UYk4sD"
@@ -4119,6 +4141,28 @@
     },
     {
       "album": {
+        "name": "How You Remind Me",
+        "url": "https://open.spotify.com/album/0W6erefb8fRvnBVvfxCS1P"
+      },
+      "artists": [
+        {
+          "name": "HBz",
+          "url": "https://open.spotify.com/artist/7I2JG3CcPawkeQPE7uypHJ"
+        },
+        {
+          "name": "Captain Curtis",
+          "url": "https://open.spotify.com/artist/3uGJkMEEZ1kGFieLT5KytR"
+        }
+      ],
+      "date_added": "2023-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148411,
+      "name": "How You Remind Me",
+      "url": "https://open.spotify.com/track/2SqCxbiL0ClhKZgIQxAgK0"
+    },
+    {
+      "album": {
         "name": "Human Error",
         "url": "https://open.spotify.com/album/7m28Qx33SLWgtn8xSQjtC5"
       },
@@ -5184,6 +5228,32 @@
       "duration_ms": 146996,
       "name": "Lose This Feeling",
       "url": "https://open.spotify.com/track/4s53qY7UpU6yrHI5017T3G"
+    },
+    {
+      "album": {
+        "name": "Lost My Way",
+        "url": "https://open.spotify.com/album/3jqAZ70Mmyq8arzZnSBiBX"
+      },
+      "artists": [
+        {
+          "name": "VIZE",
+          "url": "https://open.spotify.com/artist/09agIJMxCD2k87ys9Al0f0"
+        },
+        {
+          "name": "Azteck",
+          "url": "https://open.spotify.com/artist/13NpuESz6tlK819yBs0PuS"
+        },
+        {
+          "name": "July",
+          "url": "https://open.spotify.com/artist/2lQUT7KTSpuj9z8PdtMdtz"
+        }
+      ],
+      "date_added": "2023-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142700,
+      "name": "Lost My Way",
+      "url": "https://open.spotify.com/track/5jPFtwxkrKbpsqFgVE1czX"
     },
     {
       "album": {
@@ -8549,6 +8619,28 @@
     },
     {
       "album": {
+        "name": "Tell Me Why",
+        "url": "https://open.spotify.com/album/224hEKX6NC4pzENbWL2vXj"
+      },
+      "artists": [
+        {
+          "name": "Mike Candys",
+          "url": "https://open.spotify.com/artist/24Sxfn1uAoJmuR9N72drt9"
+        },
+        {
+          "name": "Jack Holiday",
+          "url": "https://open.spotify.com/artist/64yON9pK0j392YkionGKAF"
+        }
+      ],
+      "date_added": "2023-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135400,
+      "name": "Tell Me Why",
+      "url": "https://open.spotify.com/track/4BvBTmceA5V1pDuaC3RabS"
+    },
+    {
+      "album": {
         "name": "Tension",
         "url": "https://open.spotify.com/album/4mt2BPMZLEIwHTl4A8oTGb"
       },
@@ -9384,7 +9476,7 @@
       ],
       "date_added": "2023-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-19",
       "duration_ms": 176693,
       "name": "Weak - Nicolas Julian Remix",
       "url": "https://open.spotify.com/track/77rxRq4cs2HsaFiozPPt8d"
@@ -9520,7 +9612,7 @@
       ],
       "date_added": "2023-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-19",
       "duration_ms": 159016,
       "name": "When You're Lonely",
       "url": "https://open.spotify.com/track/0kknXqNaOqZt0DqPkpE3fc"

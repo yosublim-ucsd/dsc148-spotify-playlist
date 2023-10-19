@@ -1,12 +1,12 @@
 {
   "description": "Tech house technicians, featuring Idris Elba & Sasha GiGi",
-  "num_followers": 595843,
+  "num_followers": 595926,
   "original_name": "Operator",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyMzhkNmE4ZDk3NzA1YzE2ODdmZGYyZGIwZTRkYjY3OWRkMzZkNWUw",
+  "snapshot_id": "MCw5M2Q3YmYwNzY2N2I0ZWJlNjkxZWExZDZmYzIwZmVhMDQ2Y2M3NjQw",
   "tracks": [
     {
       "added_at": "2023-10-13 04:00:00",
@@ -1043,26 +1043,18 @@
     {
       "added_at": "2023-10-13 04:00:00",
       "album": {
-        "name": "Pega",
-        "url": "https://open.spotify.com/album/167hCxWi15k96f2XJfqGPM"
+        "name": "Do You Feel It",
+        "url": "https://open.spotify.com/album/42hJe9FM2aEdJzngH9fb6y"
       },
       "artists": [
         {
-          "name": "Andruss",
-          "url": "https://open.spotify.com/artist/6HZwb7Zbnvfo8u1sst4QrI"
-        },
-        {
-          "name": "HUGEL",
-          "url": "https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By"
-        },
-        {
-          "name": "Fatboi",
-          "url": "https://open.spotify.com/artist/2gyvGXFogWk7AifdziMnXE"
+          "name": "Biscits",
+          "url": "https://open.spotify.com/artist/052B9SONfhoScw7dgYWw5o"
         }
       ],
-      "duration_ms": 167812,
-      "name": "Pega",
-      "url": "https://open.spotify.com/track/1kYlz5hWpg8Okxcg5nzS2A"
+      "duration_ms": 186625,
+      "name": "Do You Feel It",
+      "url": "https://open.spotify.com/track/0lnnhM1bIUT3jzvB0jt2pV"
     },
     {
       "added_at": "2023-10-13 04:00:00",
@@ -1099,18 +1091,26 @@
     {
       "added_at": "2023-10-13 04:00:00",
       "album": {
-        "name": "Do You Feel It",
-        "url": "https://open.spotify.com/album/42hJe9FM2aEdJzngH9fb6y"
+        "name": "Pega",
+        "url": "https://open.spotify.com/album/167hCxWi15k96f2XJfqGPM"
       },
       "artists": [
         {
-          "name": "Biscits",
-          "url": "https://open.spotify.com/artist/052B9SONfhoScw7dgYWw5o"
+          "name": "Andruss",
+          "url": "https://open.spotify.com/artist/6HZwb7Zbnvfo8u1sst4QrI"
+        },
+        {
+          "name": "HUGEL",
+          "url": "https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By"
+        },
+        {
+          "name": "Fatboi",
+          "url": "https://open.spotify.com/artist/2gyvGXFogWk7AifdziMnXE"
         }
       ],
-      "duration_ms": 186625,
-      "name": "Do You Feel It",
-      "url": "https://open.spotify.com/track/0lnnhM1bIUT3jzvB0jt2pV"
+      "duration_ms": 167812,
+      "name": "Pega",
+      "url": "https://open.spotify.com/track/1kYlz5hWpg8Okxcg5nzS2A"
     },
     {
       "added_at": "2023-10-13 04:00:00",
@@ -1203,26 +1203,6 @@
     {
       "added_at": "2023-10-13 04:00:00",
       "album": {
-        "name": "Bring It Back",
-        "url": "https://open.spotify.com/album/59nhRrYrcHzI5vs0obptvb"
-      },
-      "artists": [
-        {
-          "name": "HoneyLuv",
-          "url": "https://open.spotify.com/artist/1sl3gVNz3Nxd4poA8f76sl"
-        },
-        {
-          "name": "Cakes da Killa",
-          "url": "https://open.spotify.com/artist/6MoQZOH2KnQrJhVtO9VoXC"
-        }
-      ],
-      "duration_ms": 178242,
-      "name": "Bring It Back",
-      "url": "https://open.spotify.com/track/1ZGiu67oe3wt3t6Lqoegqm"
-    },
-    {
-      "added_at": "2023-10-13 04:00:00",
-      "album": {
         "name": "On & On",
         "url": "https://open.spotify.com/album/02IhYgiRbwckRrXTKYrRPV"
       },
@@ -1235,6 +1215,22 @@
       "duration_ms": 165242,
       "name": "On & On",
       "url": "https://open.spotify.com/track/1xgRUkB6OZH70aFtTGkk9n"
+    },
+    {
+      "added_at": "2023-10-13 04:00:00",
+      "album": {
+        "name": "Work It",
+        "url": "https://open.spotify.com/album/1NZEAAcBizqIPTlViPC59g"
+      },
+      "artists": [
+        {
+          "name": "Florian Picasso",
+          "url": "https://open.spotify.com/artist/4GWqzTTt2uA9Ms6HfUhWUn"
+        }
+      ],
+      "duration_ms": 167760,
+      "name": "Work It",
+      "url": "https://open.spotify.com/track/4TqGe1UaneqGotEIwraZ75"
     },
     {
       "added_at": "2023-10-13 04:00:00",
@@ -1255,18 +1251,38 @@
     {
       "added_at": "2023-10-13 04:00:00",
       "album": {
-        "name": "Work It",
-        "url": "https://open.spotify.com/album/1NZEAAcBizqIPTlViPC59g"
+        "name": "One Pill",
+        "url": "https://open.spotify.com/album/7EeBTWpH1hiiL8ttysUTio"
       },
       "artists": [
         {
-          "name": "Florian Picasso",
-          "url": "https://open.spotify.com/artist/4GWqzTTt2uA9Ms6HfUhWUn"
+          "name": "VNSSA",
+          "url": "https://open.spotify.com/artist/6fjbZ7zQBYEy3kvB5JL5PM"
         }
       ],
-      "duration_ms": 167760,
-      "name": "Work It",
-      "url": "https://open.spotify.com/track/4TqGe1UaneqGotEIwraZ75"
+      "duration_ms": 217946,
+      "name": "One Pill",
+      "url": "https://open.spotify.com/track/3C74wo9oewRgcvMj14O7Xu"
+    },
+    {
+      "added_at": "2023-10-13 04:00:00",
+      "album": {
+        "name": "Bring It Back",
+        "url": "https://open.spotify.com/album/59nhRrYrcHzI5vs0obptvb"
+      },
+      "artists": [
+        {
+          "name": "HoneyLuv",
+          "url": "https://open.spotify.com/artist/1sl3gVNz3Nxd4poA8f76sl"
+        },
+        {
+          "name": "Cakes da Killa",
+          "url": "https://open.spotify.com/artist/6MoQZOH2KnQrJhVtO9VoXC"
+        }
+      ],
+      "duration_ms": 178242,
+      "name": "Bring It Back",
+      "url": "https://open.spotify.com/track/1ZGiu67oe3wt3t6Lqoegqm"
     },
     {
       "added_at": "2023-10-13 04:00:00",
@@ -1327,22 +1343,6 @@
       "duration_ms": 121874,
       "name": "Caribe\u00f1a",
       "url": "https://open.spotify.com/track/2iC7V1DRHNLvnfkfzVvwiV"
-    },
-    {
-      "added_at": "2023-10-13 04:00:00",
-      "album": {
-        "name": "One Pill",
-        "url": "https://open.spotify.com/album/7EeBTWpH1hiiL8ttysUTio"
-      },
-      "artists": [
-        {
-          "name": "VNSSA",
-          "url": "https://open.spotify.com/artist/6fjbZ7zQBYEy3kvB5JL5PM"
-        }
-      ],
-      "duration_ms": 217946,
-      "name": "One Pill",
-      "url": "https://open.spotify.com/track/3C74wo9oewRgcvMj14O7Xu"
     },
     {
       "added_at": "2023-10-13 04:00:00",
@@ -1439,26 +1439,6 @@
     {
       "added_at": "2023-10-13 04:00:00",
       "album": {
-        "name": "Me Me Me EP",
-        "url": "https://open.spotify.com/album/4AWEbvZ2qwNLBbAYCdwc8Y"
-      },
-      "artists": [
-        {
-          "name": "Catz 'n Dogz",
-          "url": "https://open.spotify.com/artist/5tYqFEuFELxnJZgGmmsfSh"
-        },
-        {
-          "name": "Nala",
-          "url": "https://open.spotify.com/artist/2rTvgpXa8PA62yBCfwdQxf"
-        }
-      ],
-      "duration_ms": 338446,
-      "name": "Me Me Me",
-      "url": "https://open.spotify.com/track/2VMH2r2jqBpxk5kWjM8HCo"
-    },
-    {
-      "added_at": "2023-10-13 04:00:00",
-      "album": {
         "name": "Paris to Milan",
         "url": "https://open.spotify.com/album/4t0TNMetsmutn7aErFG88U"
       },
@@ -1475,6 +1455,26 @@
       "duration_ms": 112380,
       "name": "Paris to Milan",
       "url": "https://open.spotify.com/track/5S8F1wQh1TW1l30eO6qJGD"
+    },
+    {
+      "added_at": "2023-10-13 04:00:00",
+      "album": {
+        "name": "Me Me Me EP",
+        "url": "https://open.spotify.com/album/4AWEbvZ2qwNLBbAYCdwc8Y"
+      },
+      "artists": [
+        {
+          "name": "Catz 'n Dogz",
+          "url": "https://open.spotify.com/artist/5tYqFEuFELxnJZgGmmsfSh"
+        },
+        {
+          "name": "Nala",
+          "url": "https://open.spotify.com/artist/2rTvgpXa8PA62yBCfwdQxf"
+        }
+      ],
+      "duration_ms": 338446,
+      "name": "Me Me Me",
+      "url": "https://open.spotify.com/track/2VMH2r2jqBpxk5kWjM8HCo"
     },
     {
       "added_at": "2023-10-13 04:00:00",
@@ -1599,22 +1599,6 @@
     {
       "added_at": "2023-10-13 04:00:00",
       "album": {
-        "name": "The Stutter",
-        "url": "https://open.spotify.com/album/77Q9sOBlstkdIyA2gmNbv4"
-      },
-      "artists": [
-        {
-          "name": "Deeper Purpose",
-          "url": "https://open.spotify.com/artist/10Bo1ofGMWr6hFD7OM7W7r"
-        }
-      ],
-      "duration_ms": 207187,
-      "name": "The Stutter",
-      "url": "https://open.spotify.com/track/6TIZPCn9PQ9kmfK4SbhIKS"
-    },
-    {
-      "added_at": "2023-10-13 04:00:00",
-      "album": {
         "name": "The Loop",
         "url": "https://open.spotify.com/album/4yn1R7xr2O30X7H3kgto2h"
       },
@@ -1635,6 +1619,22 @@
       "duration_ms": 181625,
       "name": "The Loop",
       "url": "https://open.spotify.com/track/7dQibCVyq03l5tGPWZwXjf"
+    },
+    {
+      "added_at": "2023-10-13 04:00:00",
+      "album": {
+        "name": "The Stutter",
+        "url": "https://open.spotify.com/album/77Q9sOBlstkdIyA2gmNbv4"
+      },
+      "artists": [
+        {
+          "name": "Deeper Purpose",
+          "url": "https://open.spotify.com/artist/10Bo1ofGMWr6hFD7OM7W7r"
+        }
+      ],
+      "duration_ms": 207187,
+      "name": "The Stutter",
+      "url": "https://open.spotify.com/track/6TIZPCn9PQ9kmfK4SbhIKS"
     },
     {
       "added_at": "2023-10-13 04:00:00",
@@ -1795,6 +1795,22 @@
     {
       "added_at": "2023-10-13 04:00:00",
       "album": {
+        "name": "WUTT",
+        "url": "https://open.spotify.com/album/6vucmSOhJo0JUzKDRyMlRP"
+      },
+      "artists": [
+        {
+          "name": "VINNE",
+          "url": "https://open.spotify.com/artist/1FGLT6mEhIrPhgqYiU57ro"
+        }
+      ],
+      "duration_ms": 201000,
+      "name": "WUTT",
+      "url": "https://open.spotify.com/track/2jxHmWJCL5XMGCySVf2NbJ"
+    },
+    {
+      "added_at": "2023-10-13 04:00:00",
+      "album": {
         "name": "AIO",
         "url": "https://open.spotify.com/album/5n3YDTAYHFMHEC2VJtsPZP"
       },
@@ -1819,18 +1835,22 @@
     {
       "added_at": "2023-10-13 04:00:00",
       "album": {
-        "name": "WUTT",
-        "url": "https://open.spotify.com/album/6vucmSOhJo0JUzKDRyMlRP"
+        "name": "Dive In (feat. Notelle)",
+        "url": "https://open.spotify.com/album/1GTv5ZKph34mZHssztNvVe"
       },
       "artists": [
         {
-          "name": "VINNE",
-          "url": "https://open.spotify.com/artist/1FGLT6mEhIrPhgqYiU57ro"
+          "name": "Westend",
+          "url": "https://open.spotify.com/artist/4epc3Bd0DOBA0kDywkRAsu"
+        },
+        {
+          "name": "Notelle",
+          "url": "https://open.spotify.com/artist/2QH237xSFhmfZJHrRulT7U"
         }
       ],
-      "duration_ms": 201000,
-      "name": "WUTT",
-      "url": "https://open.spotify.com/track/2jxHmWJCL5XMGCySVf2NbJ"
+      "duration_ms": 171968,
+      "name": "Dive In (feat. Notelle)",
+      "url": "https://open.spotify.com/track/27sxAuxRyXYwhwjPA5L0af"
     },
     {
       "added_at": "2023-10-13 04:00:00",
@@ -1855,26 +1875,6 @@
     {
       "added_at": "2023-10-13 04:00:00",
       "album": {
-        "name": "Dive In (feat. Notelle)",
-        "url": "https://open.spotify.com/album/1GTv5ZKph34mZHssztNvVe"
-      },
-      "artists": [
-        {
-          "name": "Westend",
-          "url": "https://open.spotify.com/artist/4epc3Bd0DOBA0kDywkRAsu"
-        },
-        {
-          "name": "Notelle",
-          "url": "https://open.spotify.com/artist/2QH237xSFhmfZJHrRulT7U"
-        }
-      ],
-      "duration_ms": 171968,
-      "name": "Dive In (feat. Notelle)",
-      "url": "https://open.spotify.com/track/27sxAuxRyXYwhwjPA5L0af"
-    },
-    {
-      "added_at": "2023-10-13 04:00:00",
-      "album": {
         "name": "Lose Your Mind",
         "url": "https://open.spotify.com/album/3iMsvpw9IZcDjMyFMg4nY1"
       },
@@ -1891,6 +1891,22 @@
       "duration_ms": 202500,
       "name": "Lose Your Mind",
       "url": "https://open.spotify.com/track/5jB62qIIcAiAMCHVVesHmK"
+    },
+    {
+      "added_at": "2023-10-13 04:00:00",
+      "album": {
+        "name": "House Y'all",
+        "url": "https://open.spotify.com/album/2pTxm1H1e3zfJBzRDwtmty"
+      },
+      "artists": [
+        {
+          "name": "Tony Romera",
+          "url": "https://open.spotify.com/artist/7GQsOji7pfixzkLt63awo5"
+        }
+      ],
+      "duration_ms": 155625,
+      "name": "House Y'all",
+      "url": "https://open.spotify.com/track/0eWfHigLsQiQzmKRVbwjLL"
     },
     {
       "added_at": "2023-10-13 04:00:00",
@@ -1915,22 +1931,6 @@
     {
       "added_at": "2023-10-13 04:00:00",
       "album": {
-        "name": "House Y'all",
-        "url": "https://open.spotify.com/album/2pTxm1H1e3zfJBzRDwtmty"
-      },
-      "artists": [
-        {
-          "name": "Tony Romera",
-          "url": "https://open.spotify.com/artist/7GQsOji7pfixzkLt63awo5"
-        }
-      ],
-      "duration_ms": 155625,
-      "name": "House Y'all",
-      "url": "https://open.spotify.com/track/0eWfHigLsQiQzmKRVbwjLL"
-    },
-    {
-      "added_at": "2023-10-13 04:00:00",
-      "album": {
         "name": "Se Acabo",
         "url": "https://open.spotify.com/album/15NLsvEYlYOTzsce83xXjp"
       },
@@ -1947,6 +1947,22 @@
       "duration_ms": 154015,
       "name": "Se Acabo",
       "url": "https://open.spotify.com/track/3bST0KX0eCc7mtavsH0q7W"
+    },
+    {
+      "added_at": "2023-10-13 04:00:00",
+      "album": {
+        "name": "The Function",
+        "url": "https://open.spotify.com/album/1dDEeKb8vS0R7AtNA0OAbx"
+      },
+      "artists": [
+        {
+          "name": "Ship Wrek",
+          "url": "https://open.spotify.com/artist/1ic0FHNGIjXZAWH6O6Reif"
+        }
+      ],
+      "duration_ms": 192848,
+      "name": "The Function",
+      "url": "https://open.spotify.com/track/34fXpiwE0KrGzirOItUh9m"
     },
     {
       "added_at": "2023-10-13 04:00:00",
@@ -2031,6 +2047,22 @@
     {
       "added_at": "2023-10-13 04:00:00",
       "album": {
+        "name": "Satisfy",
+        "url": "https://open.spotify.com/album/08ByOMP1nHJEIpZCskgWGn"
+      },
+      "artists": [
+        {
+          "name": "Max Styler",
+          "url": "https://open.spotify.com/artist/3NKKngINK1tP6BFy0WOyWk"
+        }
+      ],
+      "duration_ms": 184615,
+      "name": "Satisfy",
+      "url": "https://open.spotify.com/track/5lU7QrjCMU9JStXRUhVB2p"
+    },
+    {
+      "added_at": "2023-10-13 04:00:00",
+      "album": {
         "name": "Otherside",
         "url": "https://open.spotify.com/album/3tgBxVouYUu3PMOmyhoHsG"
       },
@@ -2071,22 +2103,6 @@
     {
       "added_at": "2023-10-13 04:00:00",
       "album": {
-        "name": "Now Work",
-        "url": "https://open.spotify.com/album/11VFaYGp4yZj0IssfdKJFA"
-      },
-      "artists": [
-        {
-          "name": "Bruno Furlan",
-          "url": "https://open.spotify.com/artist/6gssIbF04dCX3COZvyr0JF"
-        }
-      ],
-      "duration_ms": 195000,
-      "name": "Now Work",
-      "url": "https://open.spotify.com/track/15ixNXCGP5m0MvEucuBQls"
-    },
-    {
-      "added_at": "2023-10-13 04:00:00",
-      "album": {
         "name": "Keloke",
         "url": "https://open.spotify.com/album/35fOnNwB24F4S9a339bh6N"
       },
@@ -2107,6 +2123,42 @@
       "duration_ms": 172857,
       "name": "Keloke",
       "url": "https://open.spotify.com/track/3yNYNsWY72kqDrVS3v8iB2"
+    },
+    {
+      "added_at": "2023-10-13 04:00:00",
+      "album": {
+        "name": "Now Work",
+        "url": "https://open.spotify.com/album/11VFaYGp4yZj0IssfdKJFA"
+      },
+      "artists": [
+        {
+          "name": "Bruno Furlan",
+          "url": "https://open.spotify.com/artist/6gssIbF04dCX3COZvyr0JF"
+        }
+      ],
+      "duration_ms": 195000,
+      "name": "Now Work",
+      "url": "https://open.spotify.com/track/15ixNXCGP5m0MvEucuBQls"
+    },
+    {
+      "added_at": "2023-10-13 04:00:00",
+      "album": {
+        "name": "WTF",
+        "url": "https://open.spotify.com/album/4Lg781foL2p5Ws6A64t8z8"
+      },
+      "artists": [
+        {
+          "name": "Dale Howard",
+          "url": "https://open.spotify.com/artist/0SnbG2YfyykWmnsXwBXonJ"
+        },
+        {
+          "name": "Roland Clark",
+          "url": "https://open.spotify.com/artist/4OGlp2UdUQGPJVbvJ82Cz5"
+        }
+      ],
+      "duration_ms": 215409,
+      "name": "WTF",
+      "url": "https://open.spotify.com/track/0HfwmVJGd0kzoVXLB6g7cX"
     },
     {
       "added_at": "2023-10-13 04:00:00",
@@ -2151,38 +2203,18 @@
     {
       "added_at": "2023-10-13 04:00:00",
       "album": {
-        "name": "WTF",
-        "url": "https://open.spotify.com/album/4Lg781foL2p5Ws6A64t8z8"
+        "name": "Body Close",
+        "url": "https://open.spotify.com/album/3C1v2E4gAbTbCk71KQJCSH"
       },
       "artists": [
         {
-          "name": "Dale Howard",
-          "url": "https://open.spotify.com/artist/0SnbG2YfyykWmnsXwBXonJ"
-        },
-        {
-          "name": "Roland Clark",
-          "url": "https://open.spotify.com/artist/4OGlp2UdUQGPJVbvJ82Cz5"
+          "name": "KLP",
+          "url": "https://open.spotify.com/artist/3cWOwptrfEuGMJ2cM7ipc3"
         }
       ],
-      "duration_ms": 215409,
-      "name": "WTF",
-      "url": "https://open.spotify.com/track/0HfwmVJGd0kzoVXLB6g7cX"
-    },
-    {
-      "added_at": "2023-10-13 04:00:00",
-      "album": {
-        "name": "The Function",
-        "url": "https://open.spotify.com/album/1dDEeKb8vS0R7AtNA0OAbx"
-      },
-      "artists": [
-        {
-          "name": "Ship Wrek",
-          "url": "https://open.spotify.com/artist/1ic0FHNGIjXZAWH6O6Reif"
-        }
-      ],
-      "duration_ms": 192848,
-      "name": "The Function",
-      "url": "https://open.spotify.com/track/34fXpiwE0KrGzirOItUh9m"
+      "duration_ms": 219169,
+      "name": "Body Close",
+      "url": "https://open.spotify.com/track/6RR5V7V3UGQxNpXDKb7sHH"
     },
     {
       "added_at": "2023-10-13 04:00:00",
@@ -2199,38 +2231,6 @@
       "duration_ms": 215699,
       "name": "Esta Vaina",
       "url": "https://open.spotify.com/track/63CgLY7pJtFU1Oic20tL07"
-    },
-    {
-      "added_at": "2023-10-13 04:00:00",
-      "album": {
-        "name": "Satisfy",
-        "url": "https://open.spotify.com/album/08ByOMP1nHJEIpZCskgWGn"
-      },
-      "artists": [
-        {
-          "name": "Max Styler",
-          "url": "https://open.spotify.com/artist/3NKKngINK1tP6BFy0WOyWk"
-        }
-      ],
-      "duration_ms": 184615,
-      "name": "Satisfy",
-      "url": "https://open.spotify.com/track/5lU7QrjCMU9JStXRUhVB2p"
-    },
-    {
-      "added_at": "2023-10-13 04:00:00",
-      "album": {
-        "name": "Body Close",
-        "url": "https://open.spotify.com/album/3C1v2E4gAbTbCk71KQJCSH"
-      },
-      "artists": [
-        {
-          "name": "KLP",
-          "url": "https://open.spotify.com/artist/3cWOwptrfEuGMJ2cM7ipc3"
-        }
-      ],
-      "duration_ms": 219169,
-      "name": "Body Close",
-      "url": "https://open.spotify.com/track/6RR5V7V3UGQxNpXDKb7sHH"
     },
     {
       "added_at": "2023-10-13 04:00:00",
@@ -2255,22 +2255,22 @@
     {
       "added_at": "2023-10-13 04:00:00",
       "album": {
-        "name": "If You Want",
-        "url": "https://open.spotify.com/album/2DgKfkTkmGUWzXA2IcKDzm"
+        "name": "I'm Watching You (So Many Times) [Bruno Furlan Remix]",
+        "url": "https://open.spotify.com/album/3pEISlisbbBCVaokY1spbL"
       },
       "artists": [
         {
-          "name": "Tungevaag",
-          "url": "https://open.spotify.com/artist/49CE2ffZ6Z3zeYSDauSKck"
+          "name": "Gadjo",
+          "url": "https://open.spotify.com/artist/28ZtvtD63uuc4Lf81lYWmr"
         },
         {
-          "name": "SMACK",
-          "url": "https://open.spotify.com/artist/5uJw4WCX5nYj4FHky9r1Ug"
+          "name": "Bruno Furlan",
+          "url": "https://open.spotify.com/artist/6gssIbF04dCX3COZvyr0JF"
         }
       ],
-      "duration_ms": 183806,
-      "name": "If You Want",
-      "url": "https://open.spotify.com/track/13OMKZOOaaQ3MYuX2YnJKd"
+      "duration_ms": 221102,
+      "name": "I'm Watching You (So Many Times) - Bruno Furlan Remix",
+      "url": "https://open.spotify.com/track/6TdyUvYOZao0J5OKhZelb7"
     },
     {
       "added_at": "2023-10-13 04:00:00",
@@ -2295,22 +2295,22 @@
     {
       "added_at": "2023-10-13 04:00:00",
       "album": {
-        "name": "I'm Watching You (So Many Times) [Bruno Furlan Remix]",
-        "url": "https://open.spotify.com/album/3pEISlisbbBCVaokY1spbL"
+        "name": "If You Want",
+        "url": "https://open.spotify.com/album/2DgKfkTkmGUWzXA2IcKDzm"
       },
       "artists": [
         {
-          "name": "Gadjo",
-          "url": "https://open.spotify.com/artist/28ZtvtD63uuc4Lf81lYWmr"
+          "name": "Tungevaag",
+          "url": "https://open.spotify.com/artist/49CE2ffZ6Z3zeYSDauSKck"
         },
         {
-          "name": "Bruno Furlan",
-          "url": "https://open.spotify.com/artist/6gssIbF04dCX3COZvyr0JF"
+          "name": "SMACK",
+          "url": "https://open.spotify.com/artist/5uJw4WCX5nYj4FHky9r1Ug"
         }
       ],
-      "duration_ms": 221102,
-      "name": "I'm Watching You (So Many Times) - Bruno Furlan Remix",
-      "url": "https://open.spotify.com/track/6TdyUvYOZao0J5OKhZelb7"
+      "duration_ms": 183806,
+      "name": "If You Want",
+      "url": "https://open.spotify.com/track/13OMKZOOaaQ3MYuX2YnJKd"
     },
     {
       "added_at": "2023-10-13 04:00:00",
@@ -2331,26 +2331,6 @@
     {
       "added_at": "2023-10-13 04:00:00",
       "album": {
-        "name": "Watch Me (feat. Linney)",
-        "url": "https://open.spotify.com/album/3Pn7ZkzU2fwfgCIFRhcm3E"
-      },
-      "artists": [
-        {
-          "name": "J. Worra",
-          "url": "https://open.spotify.com/artist/4q0N3EI67tVnAeeaXbNQIj"
-        },
-        {
-          "name": "Linney",
-          "url": "https://open.spotify.com/artist/0vomb9Zaob10lPzxBcIiNb"
-        }
-      ],
-      "duration_ms": 155515,
-      "name": "Watch Me (feat. Linney)",
-      "url": "https://open.spotify.com/track/3rWjjleBSSdkKJIg5pdjwU"
-    },
-    {
-      "added_at": "2023-10-13 04:00:00",
-      "album": {
         "name": "Groovemasta / Beat It Up",
         "url": "https://open.spotify.com/album/6KhQTzoIA3aOtNZuydQ80J"
       },
@@ -2367,6 +2347,26 @@
       "duration_ms": 252121,
       "name": "Groovemasta",
       "url": "https://open.spotify.com/track/26wsiUVYF5M42ikSihxWBl"
+    },
+    {
+      "added_at": "2023-10-13 04:00:00",
+      "album": {
+        "name": "Watch Me (feat. Linney)",
+        "url": "https://open.spotify.com/album/3Pn7ZkzU2fwfgCIFRhcm3E"
+      },
+      "artists": [
+        {
+          "name": "J. Worra",
+          "url": "https://open.spotify.com/artist/4q0N3EI67tVnAeeaXbNQIj"
+        },
+        {
+          "name": "Linney",
+          "url": "https://open.spotify.com/artist/0vomb9Zaob10lPzxBcIiNb"
+        }
+      ],
+      "duration_ms": 155515,
+      "name": "Watch Me (feat. Linney)",
+      "url": "https://open.spotify.com/track/3rWjjleBSSdkKJIg5pdjwU"
     },
     {
       "added_at": "2023-10-13 04:00:00",

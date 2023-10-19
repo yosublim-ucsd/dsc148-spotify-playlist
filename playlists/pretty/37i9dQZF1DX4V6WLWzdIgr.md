@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4V6WLWzdIgr.md) - [plain]
 
 > Sedihe koyo ngene, nggak bahaya ta? 😢
 
-[Spotify](https://open.spotify.com/user/spotify) - 129,177 likes - 58 songs - 4 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 129,601 likes - 58 songs - 4 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -65,6 +65,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4V6WLWzdIgr.md) - [plain]
 | 55 | [Sing Tak Sayang Ilang](https://open.spotify.com/track/6peEINbo70GxP08o9TC9LU) | [Dory Harsa](https://open.spotify.com/artist/4srslZ2sGZ7GQoikELwXsX) | [Sing Tak Sayang Ilang](https://open.spotify.com/album/1IUvBhHScJl87iPOS081TH) | 4:26 |
 | 56 | [Cerito Loro](https://open.spotify.com/track/57egBaCTBOuAs7ErKxyYjN) | [Happy Asmara](https://open.spotify.com/artist/5423rMdVbchY2cgu0GgH5X) | [Cerito Loro](https://open.spotify.com/album/46KkX8tvr0ANum32q8SX8F) | 6:17 |
 | 57 | [Tetep Neng Ati](https://open.spotify.com/track/6U4LPOlk6I3c6WGnyV5ZPq) | [OMWAWES](https://open.spotify.com/artist/4SsvQOTuKik8GmK6GtB21A) | [Om Wawes](https://open.spotify.com/album/4sgIDlQTDTvuMBvC1dicp1) | 5:08 |
-| 58 | [Lilakno Lungaku](https://open.spotify.com/track/6knc0ByasDCvGNlQPHYUFX) | [Losskita](https://open.spotify.com/artist/3BifJ2eD9KMFgAGa8LbPtI) | [Lilakno Lungaku](https://open.spotify.com/album/50hlFnDrEYiYp0lOReAxgb) | 5:35 |
+| 58 | [Lilakno Lungaku](https://open.spotify.com/track/6eQL36g0j3GlofcGauLJH7) | [Losskita](https://open.spotify.com/artist/3BifJ2eD9KMFgAGa8LbPtI) | [Lilakno Lungaku](https://open.spotify.com/album/1sf4AWv0GiLGTzRrfAhgDA) | 5:35 |
 
-Snapshot ID: `MCwyOTI1NWQwNWMzNmJjZTZkZWY0MTk0NTNmOGUwMDQzN2JlOTliNWY2`
+Snapshot ID: `MTY5NzAwNjcxNCwwMDAwMDAwMGZjYjkyZTM4OWRmZWU1YmU5OTM3NmIzYjIyZjQxZGE1`

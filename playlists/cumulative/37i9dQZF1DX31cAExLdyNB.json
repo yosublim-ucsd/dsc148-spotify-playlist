@@ -1618,10 +1618,28 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-19",
       "duration_ms": 170769,
       "name": "No Tengo Tiempo",
       "url": "https://open.spotify.com/track/0J5PXybiNqoNQrethIsoDX"
+    },
+    {
+      "album": {
+        "name": "ARMN",
+        "url": "https://open.spotify.com/album/5ZKQlMu308fEdUEOYXUjIp"
+      },
+      "artists": [
+        {
+          "name": "Armenia",
+          "url": "https://open.spotify.com/artist/4FmrAtWfKHAIysakSpmatx"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170769,
+      "name": "No Tengo Tiempo",
+      "url": "https://open.spotify.com/track/7hmvkFDZGMLaRyHMBySatI"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXlntHTG08uC.md) - [plain]
 
 > 528 hertz solfeggio frequency, tones and music for deep sleep and restful nights.
 
-[Spotify](https://open.spotify.com/user/spotify) - 54,541 likes - 165 songs - 7 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 54,715 likes - 165 songs - 7 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -174,4 +174,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXlntHTG08uC.md) - [plain]
 | 164 | [Oceanic Stillness](https://open.spotify.com/track/6o10wnw1QPiaworKWXy3PA) | [Celeste Soma](https://open.spotify.com/artist/1b7j7QRse9XXdbZxK3wILz) | [Oceanic Stillness](https://open.spotify.com/album/2FdXI9r0C7Y1LPrnB7Uif6) | 2:20 |
 | 165 | [Blissful Woods 528 Hz](https://open.spotify.com/track/6fpiSnEBgl1wOz6CqP4VnC) | [Doctor Hz](https://open.spotify.com/artist/1Vxb1AqblkYBW00JtLP2Re) | [Night Solfeggio for the Mind](https://open.spotify.com/album/1WUP0qojbqgfTDiouUyyB0) | 4:42 |
 
-Snapshot ID: `MCwyZGRmMDYwMzkxNzBmYzRiY2FlMWNmOTMyYWRhNTNiNjJhMjNkMmFi`
+Snapshot ID: `MCxjYTM3MTViMjhiNjQ1Mjg4MjRhOTU4ODg1ZTk0NDQ2NTlhZTdlYWY0`

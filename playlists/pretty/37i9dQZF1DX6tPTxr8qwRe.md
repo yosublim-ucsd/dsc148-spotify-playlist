@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6tPTxr8qwRe.md) - [plain]
 
 > Dark, hard hitting pop\. Cover: Ari Abdul
 
-[Spotify](https://open.spotify.com/user/spotify) - 388,356 likes - 75 songs - 3 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 388,475 likes - 75 songs - 3 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,7 +29,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6tPTxr8qwRe.md) - [plain]
 | 19 | [The Maze](https://open.spotify.com/track/6xpGgaH6GxF1x2TdipaHSi) | [J\. Maya](https://open.spotify.com/artist/6uFYqDeLIwfURuF1yxVqJU) | [The Maze](https://open.spotify.com/album/3PPaBeyg3p9bKAsgU3uBRW) | 3:24 |
 | 20 | [Should've Been A Dick to You](https://open.spotify.com/track/1x7H9gKKAvLjYkxZQCBDWZ) | [Piper 57](https://open.spotify.com/artist/6sOxk8gr7bsACj95waVXx7) | [Should've Been A Dick to You](https://open.spotify.com/album/3UbV2bdR9F3FxQNqO9RXMk) | 2:12 |
 | 21 | [Breadcrumbs](https://open.spotify.com/track/5QiWXgX8ANHg5v8jE1eaQh) | [Hayes Warner](https://open.spotify.com/artist/2wJkFKzUxt9JR4wKXmwbmH) | [Breadcrumbs](https://open.spotify.com/album/4aOr6Lkc0jJBTppl95v2xS) | 2:51 |
-| 22 | [Puppy Luv <3](https://open.spotify.com/track/70a19sYodwy0NyVRAKoqK4) | [Sizzy Rocket](https://open.spotify.com/artist/2CBvbVxhd3ZJXRTCl88H7E) | [Puppy Luv <3](https://open.spotify.com/album/5MkrPjIlUUVtgtiXTtdexE) | 2:21 |
+| 22 | [Puppy Luv <3](https://open.spotify.com/track/1U2WEn5UmD3si27l6XO5WI) | [Sizzy Rocket](https://open.spotify.com/artist/2CBvbVxhd3ZJXRTCl88H7E) | [RAT](https://open.spotify.com/album/60gp59djqb5KOfCxWytU7o) | 2:21 |
 | 23 | [To The Bank](https://open.spotify.com/track/09Dw0K3RIvQR5bmrbQZIzr) | [Morgan St\. Jean](https://open.spotify.com/artist/4kAyoGhVlC6PFg0FvMqmFB) | [To The Bank](https://open.spotify.com/album/21MKeEtRDAKYVLlTJW5NOb) | 2:42 |
 | 24 | [SAINT](https://open.spotify.com/track/3L3EW1iUnEZN7Ejs4FuXYz) | [DeathbyRomy](https://open.spotify.com/artist/7aWpPjjgItUnXljFxYYKZI) | [SAINT](https://open.spotify.com/album/1r41TREkXcOeKfFbDhwUsU) | 3:15 |
 | 25 | [PITY PARTY](https://open.spotify.com/track/4UQVHnvC9UD4jYYSjwTbp7) | [Neoni](https://open.spotify.com/artist/38wxcfNEqMwuPniHvplin5), [Ellise](https://open.spotify.com/artist/2FovgCfOwN9iqbkCBlKFdT) | [PITY PARTY](https://open.spotify.com/album/5qCV7EtFCsNheI3dl5Z1oV) | 2:19 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6tPTxr8qwRe.md) - [plain]
 | 74 | [Vigilante Shit](https://open.spotify.com/track/1xwAWUI6Dj0WGC3KiUPN0O) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Midnights](https://open.spotify.com/album/151w1FgRZfnKZA9FEcg9Z3) | 2:44 |
 | 75 | [W.I.T.C.H.](https://open.spotify.com/track/5XemvyG79fcKPl5lgbhplq) | [Devon Cole](https://open.spotify.com/artist/1VFt2HpmFG8Ufq6SDCoZe4) | [W.I.T.C.H.](https://open.spotify.com/album/3Z8vTrrDg2JbOgtYf82G7b) | 2:12 |
 
-Snapshot ID: `MCxkNjQ3MzU5YTRmYjdkMDkwNDJlNmE3YmNjYTA4ZGMzODc4YzVhZGYw`
+Snapshot ID: `MCw1ZDYwOWQxN2MzNGY4ZDY1NDdiNjQzMGU1ZWNhMDVlZDMwMDc1YmZh`

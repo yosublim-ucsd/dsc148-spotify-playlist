@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1LY1d1nRWvR.md) - [plain]
 
 > Kick back  and soak up the warm and soothing tones of jazz and electronic.
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,962 likes - 50 songs - 4 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 31,008 likes - 50 songs - 4 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,10 +26,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1LY1d1nRWvR.md) - [plain]
 | 16 | [Lagoon](https://open.spotify.com/track/1He6UQuHm8q2skPrOFKnja) | [Laura Misch](https://open.spotify.com/artist/0NrVrf231eji48nhNUJTXe) | [Lagoon](https://open.spotify.com/album/3iEWAuVwDEYuGuOpl0ztyE) | 4:15 |
 | 17 | [Movementt](https://open.spotify.com/track/1zYA5cNkQnFyyVOZaY7lqO) | [Emma\-Jean Thackray](https://open.spotify.com/artist/3UgcksTtuB1Jnn8BrisEiC) | [Movementt](https://open.spotify.com/album/4jZE92oJG0NgpXB6gBKe8K) | 3:33 |
 | 18 | [Learn Your Lesson \- Photay Remix](https://open.spotify.com/track/3s8yxBdiXFlEi6y0gfGreR) | [Madison McFerrin](https://open.spotify.com/artist/02zPEtdzUWnPToEVLRiQ7e), [Photay](https://open.spotify.com/artist/1MSxOmIt7uYgvPydd1tU8F) | [Finding Foundations \(The Remixes\)](https://open.spotify.com/album/3k2eNuf5EEc1KUMrjJaskk) | 6:07 |
-| 19 | [Buya \- Da Capo Remix](https://open.spotify.com/track/4OezP9SDdFDOkANm9qdXYt) | [Black Coffee](https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc), [Toshi](https://open.spotify.com/artist/6G621T2CmHyx5LCvd8QE63), [Da Capo](https://open.spotify.com/artist/4YuviELTmYBvDR66ThrMy9) | [Buya](https://open.spotify.com/album/6MmO8KpXWEyz4qh41tnzhU) | 7:44 |
-| 20 | [Nankoo on Keys](https://open.spotify.com/track/4VImgRabUMMuNYftIVN3Go) | [Al Dobson Jr.](https://open.spotify.com/artist/3YOthLzFPTgp0fEtLRUoES), [Reginald Omas Mamode](https://open.spotify.com/artist/5f6KVvbRDEzdb6zTNVpYZy) | [Rye Lane Vol\. 1](https://open.spotify.com/album/5rjE3dz41m5JeNhDtq7Ahh) | 2:12 |
-| 21 | [Bamboo](https://open.spotify.com/track/0tj5lFNJMzGKoQMY5uafU2) | [Harvey Sutherland](https://open.spotify.com/artist/4CxFlJDif0atTK3gZebcEf) | [Brothers](https://open.spotify.com/album/5bwIx6VKlV0nrPtjEM09xo) | 6:16 |
-| 22 | [Yardley Suite](https://open.spotify.com/track/3FLsuVjJ5Ioqb1hgst8N1b) | [Ruby Rushton](https://open.spotify.com/artist/6DO2Eyazl6ToBSvp7OGLuF) | [Yardley Suite](https://open.spotify.com/album/6GYzn93otdQDLDrlHx3mSX) | 3:55 |
+| 19 | [Nankoo on Keys](https://open.spotify.com/track/4VImgRabUMMuNYftIVN3Go) | [Al Dobson Jr.](https://open.spotify.com/artist/3YOthLzFPTgp0fEtLRUoES), [Reginald Omas Mamode](https://open.spotify.com/artist/5f6KVvbRDEzdb6zTNVpYZy) | [Rye Lane Vol\. 1](https://open.spotify.com/album/5rjE3dz41m5JeNhDtq7Ahh) | 2:12 |
+| 20 | [Buya \- Da Capo Remix](https://open.spotify.com/track/4OezP9SDdFDOkANm9qdXYt) | [Black Coffee](https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc), [Toshi](https://open.spotify.com/artist/6G621T2CmHyx5LCvd8QE63), [Da Capo](https://open.spotify.com/artist/4YuviELTmYBvDR66ThrMy9) | [Buya](https://open.spotify.com/album/6MmO8KpXWEyz4qh41tnzhU) | 7:44 |
+| 21 | [Yardley Suite](https://open.spotify.com/track/3FLsuVjJ5Ioqb1hgst8N1b) | [Ruby Rushton](https://open.spotify.com/artist/6DO2Eyazl6ToBSvp7OGLuF) | [Yardley Suite](https://open.spotify.com/album/6GYzn93otdQDLDrlHx3mSX) | 3:55 |
+| 22 | [Bamboo](https://open.spotify.com/track/0tj5lFNJMzGKoQMY5uafU2) | [Harvey Sutherland](https://open.spotify.com/artist/4CxFlJDif0atTK3gZebcEf) | [Brothers](https://open.spotify.com/album/5bwIx6VKlV0nrPtjEM09xo) | 6:16 |
 | 23 | [Rainbow Road](https://open.spotify.com/track/2R9lqoximtsPHmnuvj3ptd) | [Dan Kye](https://open.spotify.com/artist/05YrP00agTrYezUyAsukKf) | [Small Moments](https://open.spotify.com/album/75GwgzYvvgaJQS6DooqcIC) | 5:27 |
 | 24 | [Puppets](https://open.spotify.com/track/3xMALoXxfRhXggfUQGuStD) | [Jane Maximova](https://open.spotify.com/artist/1rV8eRHOV685BeNEa59lyt) | [Equinox](https://open.spotify.com/album/3GnAPmVrTXfY0Fr5Hqxr2h) | 4:58 |
 | 25 | [Ho Chi Min](https://open.spotify.com/track/2vykok21C0IyTjpvUOcBWi) | [Red Axes](https://open.spotify.com/artist/5Owm9QgL9BSCRQKTX6T08G), [Bèo Dạt Mây Trôi](https://open.spotify.com/artist/5aiU9zkwOsUWaoKL3LZhvM), [HCMC Students](https://open.spotify.com/artist/7eTh42doMpsnT6Z6pKI9tK) | [Trips \#2: Vietnam](https://open.spotify.com/album/1NNk1ZIK6pil96rgNOXuBY) | 7:20 |
@@ -43,10 +43,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1LY1d1nRWvR.md) - [plain]
 | 33 | [Move On](https://open.spotify.com/track/390VumD1uSnfGvyB0NmjKe) | [Charlotte Dos Santos](https://open.spotify.com/artist/0INatsTiEOX0EJimNTQjSM) | [Cleo](https://open.spotify.com/album/1peRsBvuNWGMgEcwj1lx0K) | 3:11 |
 | 34 | [Straight Line \- Neil Cowley Remix](https://open.spotify.com/track/2aZCiyNWSZp18PSokglthU) | [Holly Walker](https://open.spotify.com/artist/5vssQp6TyMHsx4mihKVAsC), [Neil Cowley](https://open.spotify.com/artist/3jrpFxybBbCCh7EGCXMfdB) | [Straight Line \(Remixed\)](https://open.spotify.com/album/18KriOV8L1wKfthvb2m2LE) | 6:16 |
 | 35 | [Salaam](https://open.spotify.com/track/6Z6lYo8cyciwEU6goSrM0L) | [Kamaal Williams](https://open.spotify.com/artist/01mXk9IDlVczWwZvVHAiIS) | [The Return](https://open.spotify.com/album/0XKj7L2flZPg2i7efBZT2N) | 8:33 |
-| 36 | [Strings of Light](https://open.spotify.com/track/4phT0Ii53pffqWYxJLQyOI) | [Yussef Kamaal](https://open.spotify.com/artist/710FHFQeXKC6dZGCxt7kQh) | [Black Focus](https://open.spotify.com/album/7HH2nntfXgLHCwjy6Xee79) | 8:28 |
-| 37 | [Sloppy Cosmic](https://open.spotify.com/track/2E8EbnfOycV8BaUzbCsGqa) | [Moodymann](https://open.spotify.com/artist/6pohviZSNRueSX7uNu63ZX) | [Moodymann](https://open.spotify.com/album/61sGO58ljdDgD4Mn6Bcj3P) | 11:48 |
-| 38 | [A Place With A View \- Edit](https://open.spotify.com/track/1IhvRUOUbCK3RAyj2zCgYM) | [Affelaye](https://open.spotify.com/artist/08Xoy5Glpl7MyzzZsRfRPJ) | [Clockwork Visit](https://open.spotify.com/album/7xAFnEq15WA1cPCGOUIWJE) | 3:44 |
-| 39 | [Servants Jaz House](https://open.spotify.com/track/3fmlNzB27d8Y5GW9lum3aT) | [Glenn Underground](https://open.spotify.com/artist/1ZdinLDX0e8r5dIlWLpmAc) | [The Jerusalem EP's](https://open.spotify.com/album/4C7ElGvtR8zpI19ixN8Y8G) | 6:47 |
+| 36 | [A Place With A View \- Edit](https://open.spotify.com/track/1IhvRUOUbCK3RAyj2zCgYM) | [Affelaye](https://open.spotify.com/artist/08Xoy5Glpl7MyzzZsRfRPJ) | [Clockwork Visit](https://open.spotify.com/album/7xAFnEq15WA1cPCGOUIWJE) | 3:44 |
+| 37 | [Strings of Light](https://open.spotify.com/track/4phT0Ii53pffqWYxJLQyOI) | [Yussef Kamaal](https://open.spotify.com/artist/710FHFQeXKC6dZGCxt7kQh) | [Black Focus](https://open.spotify.com/album/7HH2nntfXgLHCwjy6Xee79) | 8:28 |
+| 38 | [Servants Jaz House](https://open.spotify.com/track/3fmlNzB27d8Y5GW9lum3aT) | [Glenn Underground](https://open.spotify.com/artist/1ZdinLDX0e8r5dIlWLpmAc) | [The Jerusalem EP's](https://open.spotify.com/album/4C7ElGvtR8zpI19ixN8Y8G) | 6:47 |
+| 39 | [Sloppy Cosmic](https://open.spotify.com/track/2E8EbnfOycV8BaUzbCsGqa) | [Moodymann](https://open.spotify.com/artist/6pohviZSNRueSX7uNu63ZX) | [Moodymann](https://open.spotify.com/album/61sGO58ljdDgD4Mn6Bcj3P) | 11:48 |
 | 40 | [Tanto Tiempo \- Village Cuts Remix](https://open.spotify.com/track/7opvEv3xPJsMIiPrvq4S5e) | [Scrimshire](https://open.spotify.com/artist/5iVIpHSJD1uKtL3impLoKL), [Penya](https://open.spotify.com/artist/33E3A9UvKfjQno9m6S5xwU), [Village Cuts](https://open.spotify.com/artist/1a3m42fKHHR2MsiBQK3GVU) | [Tanto Tiempo](https://open.spotify.com/album/37idrhwVE8BaAIw4uJ7klK) | 4:55 |
 | 41 | [Eye Mo K](https://open.spotify.com/track/6o5bke7Cp481elgM8eTenO) | [Andrew Ashong](https://open.spotify.com/artist/2SJ3xpG9fseCPIqePAGp6o), [Kaidi Tatham](https://open.spotify.com/artist/1x2aM48UiN5WoQL6ISEPvz) | [Sankofa Season](https://open.spotify.com/album/4GsqSUelegSf0jTJyloIqz) | 5:42 |
 | 42 | [Aletheia](https://open.spotify.com/track/1SMLoRfenhQJjL4fbimctZ) | [O'Flynn](https://open.spotify.com/artist/7LTSTQkL7iK7zndjFQgHQo) | [Aletheia](https://open.spotify.com/album/0RVj8aaUuoTOZ7pyGjll6b) | 5:46 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1LY1d1nRWvR.md) - [plain]
 | 49 | [You Can't Steal My Joy](https://open.spotify.com/track/1OlXIlGPGhoXI8f0Kj778C) | [Ezra Collective](https://open.spotify.com/artist/5BRAUN0yN8557PLRZIr02W) | [You Can't Steal My Joy](https://open.spotify.com/album/1eY0OQek6FHZWiPgJaXAzl) | 4:49 |
 | 50 | [The Sapiens \(Original Mix\) \[Mixed\]](https://open.spotify.com/track/0g7DrfLCjrhogkP8cIAHm3) | [Caiiro](https://open.spotify.com/artist/0fs9otT9TtwXUOcFXZomZY) | [Music is King 2019 Appreciation Mix \(DJ Mix\)](https://open.spotify.com/album/6ZNoVc15w0AyCOkwNhxHjW) | 6:49 |
 
-Snapshot ID: `MCwxZmY0ZDNkYzg5MGRmY2E3MTlhNWRhODQ1NzVjNzE4MmQ0NWFmMTlj`
+Snapshot ID: `MCxmNmU1OGUyMjRiODEzZTE4ODI0YWYyNDI0M2NhYjYyY2RmMjU3ZmUy`

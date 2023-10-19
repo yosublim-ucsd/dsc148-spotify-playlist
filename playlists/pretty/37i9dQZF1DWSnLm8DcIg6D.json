@@ -1,12 +1,12 @@
 {
   "description": "the soundtrack to your girl dinner. cover: Doja Cat",
-  "num_followers": 101879,
+  "num_followers": 102406,
   "original_name": "hot girl sh*t",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzYTU4MGExMWY5YzE1MzQ1MmFhNmQ4ZmQxYzJhZjIwZDdlM2Y1MWVj",
+  "snapshot_id": "MCxjY2UzODNiMjFmMWJiNWIxY2UzNmQ1YzQxMDBiZGJlOGI3NWYxOGU4",
   "tracks": [
     {
       "added_at": "2023-10-05 13:00:00",
@@ -699,6 +699,22 @@
     {
       "added_at": "2023-10-05 13:00:00",
       "album": {
+        "name": "ARDIPITHECUS",
+        "url": "https://open.spotify.com/album/0wfne2JijoxJm0qzJd3V5h"
+      },
+      "artists": [
+        {
+          "name": "WILLOW",
+          "url": "https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF"
+        }
+      ],
+      "duration_ms": 196520,
+      "name": "Wait a Minute!",
+      "url": "https://open.spotify.com/track/0y60itmpH0aPKsFiGxmtnh"
+    },
+    {
+      "added_at": "2023-10-05 13:00:00",
+      "album": {
         "name": "Arranca (feat. Omega)",
         "url": "https://open.spotify.com/album/3d0XlD9jrpNetVgDfsErG4"
       },
@@ -735,22 +751,6 @@
       "duration_ms": 172125,
       "name": "Princess Diana (with Nicki Minaj)",
       "url": "https://open.spotify.com/track/0ZxhtATQ0a6EvQNZ0z6NKV"
-    },
-    {
-      "added_at": "2023-10-05 13:00:00",
-      "album": {
-        "name": "ARDIPITHECUS",
-        "url": "https://open.spotify.com/album/0wfne2JijoxJm0qzJd3V5h"
-      },
-      "artists": [
-        {
-          "name": "WILLOW",
-          "url": "https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF"
-        }
-      ],
-      "duration_ms": 196520,
-      "name": "Wait a Minute!",
-      "url": "https://open.spotify.com/track/0y60itmpH0aPKsFiGxmtnh"
     },
     {
       "added_at": "2023-10-05 13:00:00",
@@ -1043,22 +1043,6 @@
     {
       "added_at": "2023-10-05 13:00:00",
       "album": {
-        "name": "Padam Padam",
-        "url": "https://open.spotify.com/album/7vH3G0c3n1WsgTJHBmZxdV"
-      },
-      "artists": [
-        {
-          "name": "Kylie Minogue",
-          "url": "https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA"
-        }
-      ],
-      "duration_ms": 166266,
-      "name": "Padam Padam",
-      "url": "https://open.spotify.com/track/3k0DJq2HdWJqnqor8NX0ac"
-    },
-    {
-      "added_at": "2023-10-05 13:00:00",
-      "album": {
         "name": "NEW DANCE",
         "url": "https://open.spotify.com/album/5iBG5tDegPYWxpzmgYs4KK"
       },
@@ -1071,6 +1055,22 @@
       "duration_ms": 198520,
       "name": "NEW DANCE",
       "url": "https://open.spotify.com/track/6Pjzy9avwlVr4UAbxkQQmh"
+    },
+    {
+      "added_at": "2023-10-05 13:00:00",
+      "album": {
+        "name": "Padam Padam",
+        "url": "https://open.spotify.com/album/7vH3G0c3n1WsgTJHBmZxdV"
+      },
+      "artists": [
+        {
+          "name": "Kylie Minogue",
+          "url": "https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA"
+        }
+      ],
+      "duration_ms": 166266,
+      "name": "Padam Padam",
+      "url": "https://open.spotify.com/track/3k0DJq2HdWJqnqor8NX0ac"
     },
     {
       "added_at": "2023-10-05 13:00:00",
@@ -1215,18 +1215,18 @@
     {
       "added_at": "2023-10-05 13:00:00",
       "album": {
-        "name": "SHOOTING STAR",
-        "url": "https://open.spotify.com/album/1Gi6ij4Jxc4qE35i3I0gqS"
+        "name": "Matangi",
+        "url": "https://open.spotify.com/album/3dAxXNscIj0p53lBMEziYR"
       },
       "artists": [
         {
-          "name": "XG",
-          "url": "https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA"
+          "name": "M.I.A.",
+          "url": "https://open.spotify.com/artist/0QJIPDAEDILuo8AIq3pMuU"
         }
       ],
-      "duration_ms": 208065,
-      "name": "LEFT RIGHT",
-      "url": "https://open.spotify.com/track/3v5o91PrUtf0nmO6j8J7dZ"
+      "duration_ms": 227520,
+      "name": "Bad Girls",
+      "url": "https://open.spotify.com/track/6nzXkCBOhb2mxctNihOqbb"
     },
     {
       "added_at": "2023-10-05 13:00:00",
@@ -1247,18 +1247,34 @@
     {
       "added_at": "2023-10-05 13:00:00",
       "album": {
-        "name": "Matangi",
-        "url": "https://open.spotify.com/album/3dAxXNscIj0p53lBMEziYR"
+        "name": "SHOOTING STAR",
+        "url": "https://open.spotify.com/album/1Gi6ij4Jxc4qE35i3I0gqS"
       },
       "artists": [
         {
-          "name": "M.I.A.",
-          "url": "https://open.spotify.com/artist/0QJIPDAEDILuo8AIq3pMuU"
+          "name": "XG",
+          "url": "https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA"
         }
       ],
-      "duration_ms": 227520,
-      "name": "Bad Girls",
-      "url": "https://open.spotify.com/track/6nzXkCBOhb2mxctNihOqbb"
+      "duration_ms": 208065,
+      "name": "LEFT RIGHT",
+      "url": "https://open.spotify.com/track/3v5o91PrUtf0nmO6j8J7dZ"
+    },
+    {
+      "added_at": "2023-10-05 13:00:00",
+      "album": {
+        "name": "Little Girl Gone",
+        "url": "https://open.spotify.com/album/7tzZQfNdN5rWCYFcM24byP"
+      },
+      "artists": [
+        {
+          "name": "CHINCHILLA",
+          "url": "https://open.spotify.com/artist/7iNrvS80wnHDGVxw3qNRiI"
+        }
+      ],
+      "duration_ms": 188596,
+      "name": "Little Girl Gone",
+      "url": "https://open.spotify.com/track/56rpEOCBATYItSa4yPksfe"
     },
     {
       "added_at": "2023-10-05 13:00:00",
@@ -1279,22 +1295,6 @@
       "duration_ms": 201493,
       "name": "Karma (feat. Ice Spice)",
       "url": "https://open.spotify.com/track/4i6cwNY6oIUU2XZxPIw82Y"
-    },
-    {
-      "added_at": "2023-10-05 13:00:00",
-      "album": {
-        "name": "Little Girl Gone",
-        "url": "https://open.spotify.com/album/7tzZQfNdN5rWCYFcM24byP"
-      },
-      "artists": [
-        {
-          "name": "CHINCHILLA",
-          "url": "https://open.spotify.com/artist/7iNrvS80wnHDGVxw3qNRiI"
-        }
-      ],
-      "duration_ms": 188596,
-      "name": "Little Girl Gone",
-      "url": "https://open.spotify.com/track/56rpEOCBATYItSa4yPksfe"
     },
     {
       "added_at": "2023-10-05 13:00:00",
@@ -1375,22 +1375,6 @@
     {
       "added_at": "2023-10-05 13:00:00",
       "album": {
-        "name": "LLYLM",
-        "url": "https://open.spotify.com/album/44mKxp7RB6x5O19VWqEXEm"
-      },
-      "artists": [
-        {
-          "name": "ROSAL\u00cdA",
-          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
-        }
-      ],
-      "duration_ms": 174044,
-      "name": "LLYLM",
-      "url": "https://open.spotify.com/track/2SiAcexM2p1yX6joESbehd"
-    },
-    {
-      "added_at": "2023-10-05 13:00:00",
-      "album": {
         "name": "Aquarius",
         "url": "https://open.spotify.com/album/6zXUDBGLbrB9Kgkw2Y3F7L"
       },
@@ -1423,6 +1407,22 @@
       "duration_ms": 221075,
       "name": "Primadonna",
       "url": "https://open.spotify.com/track/4sOX1nhpKwFWPvoMMExi3q"
+    },
+    {
+      "added_at": "2023-10-05 13:00:00",
+      "album": {
+        "name": "LLYLM",
+        "url": "https://open.spotify.com/album/44mKxp7RB6x5O19VWqEXEm"
+      },
+      "artists": [
+        {
+          "name": "ROSAL\u00cdA",
+          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
+        }
+      ],
+      "duration_ms": 174044,
+      "name": "LLYLM",
+      "url": "https://open.spotify.com/track/2SiAcexM2p1yX6joESbehd"
     }
   ],
   "unique_name": "hot girl sh*t",

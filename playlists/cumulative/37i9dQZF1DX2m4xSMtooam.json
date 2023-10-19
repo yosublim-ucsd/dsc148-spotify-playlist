@@ -1044,7 +1044,7 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-19",
       "duration_ms": 231350,
       "name": "Dias Ensolarados Pela Frente",
       "url": "https://open.spotify.com/track/6vurAgqsH9soYum0gS52vu"
@@ -2282,6 +2282,24 @@
       "duration_ms": 262408,
       "name": "Liljeholmsviken",
       "url": "https://open.spotify.com/track/3Gw26kNDJHfTtHJQOzI1h4"
+    },
+    {
+      "album": {
+        "name": "Lonely Desires",
+        "url": "https://open.spotify.com/album/6SYo8TS6PN3OIVqSfmUqW1"
+      },
+      "artists": [
+        {
+          "name": "Amir Patel",
+          "url": "https://open.spotify.com/artist/2IwMjlPYSZLq7oH4YN4WFy"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161860,
+      "name": "Lonely Desires",
+      "url": "https://open.spotify.com/track/6FgLJ7dCQMjgvqrKnYP1Q6"
     },
     {
       "album": {

@@ -1,13 +1,29 @@
 {
   "description": "New music from Bad Bunny, Ice Spice & Rema, Offset & Travis Scott, boygenius,  Troye Sivan and more! ",
-  "num_followers": 4164485,
+  "num_followers": 4164761,
   "original_name": "New Music Friday",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyNmM3NTdmZTQxMDhlMDRjOTFiMmNkNGQxZDMzYjE4YTYwNjk0OWJk",
+  "snapshot_id": "MCw0NWNhNDM2ZTMzYmEyN2ZiNjVmY2JkMmNlNmUxZjE4NTZlYzE3NDc1",
   "tracks": [
+    {
+      "added_at": "2023-10-13 04:00:00",
+      "album": {
+        "name": "nadie sabe lo que va a pasar ma\u00f1ana",
+        "url": "https://open.spotify.com/album/4FftCsAcXXD1nFO9RFUNFO"
+      },
+      "artists": [
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        }
+      ],
+      "duration_ms": 267194,
+      "name": "MONACO",
+      "url": "https://open.spotify.com/track/4MjDJD8cW7iVeWInc2Bdyj"
+    },
     {
       "added_at": "2023-10-13 04:00:00",
       "album": {

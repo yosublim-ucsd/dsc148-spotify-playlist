@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4OR8pnFkwhR.md) - [plain]
 
 > Spotifyが注目するニューカマー・プレイリスト。Cover: なとり
 
-[Spotify](https://open.spotify.com/user/spotify) - 62,179 likes - 70 songs - 4 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 62,327 likes - 70 songs - 4 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,14 +14,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4OR8pnFkwhR.md) - [plain]
 | 4 | [Discord\-disco](https://open.spotify.com/track/5O1gmDEnjVid2kElRz1Hy2) | [Toaka](https://open.spotify.com/artist/0xFsJRSOYJmmuozISzreTR) | [Discord\-disco](https://open.spotify.com/album/6GdulvAtvSJiXDJjtHenzk) | 3:17 |
 | 5 | [Super Ball](https://open.spotify.com/track/6CBqqocRx76YtdMvGqD2HZ) | [TOMOO](https://open.spotify.com/artist/6rm1uaZjykvKCobTzRPs35) | [Two Moon](https://open.spotify.com/album/4nyNnOXb8GtIei89Y88HWa) | 3:23 |
 | 6 | [晩餐歌](https://open.spotify.com/track/2cxcqKwQtfKq7giphxjzOu) | [tuki.](https://open.spotify.com/artist/1Y5vJqABeI6QI6R95EDV6o) | [晩餐歌](https://open.spotify.com/album/0i4V6w1zpf6CFXSS67cyfQ) | 3:35 |
-| 7 | [コワレモノ](https://open.spotify.com/track/2n9VLgcDJxdlwQSdwwBb1G) | [Tota](https://open.spotify.com/artist/5WIXXPkyVYncLscyUbDrpi) | [コワレモノ](https://open.spotify.com/album/4TlQpO7MR1Sh8kZ1hbFqB6) | 3:50 |
+| 7 | [Fragile](https://open.spotify.com/track/01PfUkulXfv8lciqwwElRT) | [Tota](https://open.spotify.com/artist/5WIXXPkyVYncLscyUbDrpi) | [Fragile](https://open.spotify.com/album/06rg3ryCKSOb090icMKs26) | 3:50 |
 | 8 | [Unmellow](https://open.spotify.com/track/0QBMxVVIXqVNp2Yce45nBQ) | [7co](https://open.spotify.com/artist/6NufSYYINeynKg28cGEB2p) | [Unmellow](https://open.spotify.com/album/3BaxIQ05k9jCiYsks7kLqZ) | 2:37 |
 | 9 | [ユートピア](https://open.spotify.com/track/0BNRPhGI1A8MHZqyDaJEEq) | [WurtS](https://open.spotify.com/artist/6oued35Hkg7GIEXqVfBrQK) | [BACK](https://open.spotify.com/album/7Ej2LUL0yWgp3eHjLROaNd) | 2:39 |
 | 10 | [bathroom](https://open.spotify.com/track/2lNJGoEJX2FpJDUGZRIuu0) | [MAISONdes](https://open.spotify.com/artist/7LTiBdByoaUd329wCpmMcM), [れん](https://open.spotify.com/artist/2Hf3gzOBTpBaL0SqyPjX8m), [maeshima soshi](https://open.spotify.com/artist/4O49GHbECmNppFvzK0WZXf) | [bathroom](https://open.spotify.com/album/2fKpk83eEE5bozCQDk84z0) | 3:31 |
 | 11 | [I like you](https://open.spotify.com/track/3RJRPo3N1StuAjAjJqacYk) | [Chilli Beans.](https://open.spotify.com/artist/48apiuEaHdddhdRvfFjPB7) | [I like you](https://open.spotify.com/album/3fDyWpBQokx5FuzPIKeQOF) | 3:50 |
 | 12 | [不屈に花](https://open.spotify.com/track/0YN5Tb3ui1yon2qSqDR4VM) | [jo0ji](https://open.spotify.com/artist/5Wfhi0FggHCfOSa3ux39fk) | [475](https://open.spotify.com/album/2wQuSgcO8nbUhdfXQpd6Rn) | 3:17 |
 | 13 | [Headliner](https://open.spotify.com/track/5wYXXFzzelTMEbVOGoZ3Q0) | [レトロリロン](https://open.spotify.com/artist/47MRpWYlFaneZAlaXrt9bu) | [Headliner](https://open.spotify.com/album/209bUB4Yw8SiUB5F3t252c) | 3:54 |
-| 14 | [うたたね](https://open.spotify.com/track/4C2kdvTzgJAfYO07dDwc5x) | [Leina](https://open.spotify.com/artist/0ufoLkr55gheQNunOgkTae) | [tulip](https://open.spotify.com/album/3Z2RJ7elYZZxug2WVDIwmT) | 3:01 |
+| 14 | [utatane](https://open.spotify.com/track/2gIyLzwAB0kagC7WwQaGWy) | [Leina](https://open.spotify.com/artist/0ufoLkr55gheQNunOgkTae) | [tulip](https://open.spotify.com/album/7i4NY6tlCB2YvAJnmIyuod) | 3:01 |
 | 15 | [hands](https://open.spotify.com/track/05hdZsL1nQ8lbjq67gmniB) | [野田愛実](https://open.spotify.com/artist/3B94FuZdngvnr2LrwDxLk7) | [hands](https://open.spotify.com/album/2x5VgGNV9IWTPCrHy7ht7r) | 2:46 |
 | 16 | [Hentotai](https://open.spotify.com/track/77e43kws6FyAhyNmUMAO08) | [noa](https://open.spotify.com/artist/7nhWQxOMcfIv29SBPZEcgp) | [Hentotai](https://open.spotify.com/album/49drcV28EOnBPoInfKimh9) | 3:48 |
 | 17 | [Aisubekihibiyo](https://open.spotify.com/track/4t0uFxqYrjXjJneeTByjFj) | [yangskinny](https://open.spotify.com/artist/3VVMRDGpbQR2SK9nHX3DW5) | [Donnakotonidemoshiawasewokanjirukotogadekitanara](https://open.spotify.com/album/6UO3ol61HQD56nV50GxLJl) | 4:38 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4OR8pnFkwhR.md) - [plain]
 | 69 | [愛の囚人たち](https://open.spotify.com/track/4E8aWkJkqZjph3XM6p5ooS) | [ルイ](https://open.spotify.com/artist/11YYwcMwOT9LS7GA4CO4R8) | [愛の囚人たち](https://open.spotify.com/album/2sGCP5Zmup2JnMOBCnUKrZ) | 4:41 |
 | 70 | [愛のレコード](https://open.spotify.com/track/6MG5pzwOflDAFcp0vBjdh5) | [北谷 琉喜](https://open.spotify.com/artist/6b2avTcQHdmOBEQVaxQE5P) | [愛のレコード](https://open.spotify.com/album/28x4qiVqe3aWX6WxCL9WMK) | 4:33 |
 
-Snapshot ID: `MCw0NGZmYjk5NDYwZGQyZWUxYWY3MDNkOTllZjhhNTQ0OGMwNjdlMDgz`
+Snapshot ID: `MCxjNTg1NDE5ZTc4MTMxOWEzZjM1MDhmODUwNDRmMmE4ZTIwZTg3NzA4`

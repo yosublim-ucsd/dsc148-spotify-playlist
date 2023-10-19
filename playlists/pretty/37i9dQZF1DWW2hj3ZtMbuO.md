@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW2hj3ZtMbuO.md) - [plain]
 
 > Sapphic songs that defined your music taste as "yearning."
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,444,690 likes - 75 songs - 4 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,445,317 likes - 75 songs - 4 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW2hj3ZtMbuO.md) - [plain]
 | 74 | [we were girls together](https://open.spotify.com/track/2wDdIa985VGHn5T1b6I1sK) | [Delaney Bailey](https://open.spotify.com/artist/3Os4q49SgEN0Tv3fxKw3Sp) | [we were girls together](https://open.spotify.com/album/6AkpdhHYGk8W9EriKfpLQj) | 2:17 |
 | 75 | [Warsh\_Tippy and Zelda](https://open.spotify.com/track/3R0jMlEvot7UYLeulRfl8E) | [Whatever, Dad](https://open.spotify.com/artist/1wMNhhG8VUhDGZ249MZBtn) | [Grade Pending](https://open.spotify.com/album/7yFYYhAYCZpZQV4bA3t7nP) | 4:14 |
 
-Snapshot ID: `MCxlMWE2NzRlZWFmYjVjNDc2YzY1ZjQ3ZWJlNzA4MzY2YTI2MjgzODMy`
+Snapshot ID: `MCxlNTIyMTBiMTcwMWVmZjFiODVlODRhZTAyMzFmYjkwM2MxNDJkNmI5`

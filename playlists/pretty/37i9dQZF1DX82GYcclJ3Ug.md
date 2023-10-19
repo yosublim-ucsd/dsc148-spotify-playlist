@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX82GYcclJ3Ug.md) - [plain]
 
 > No rules or boundaries\. The very best new alternative tracks\. Cover: The Last Dinner Party
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,118,715 likes - 129 songs - 6 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,118,741 likes - 129 songs - 6 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -138,4 +138,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX82GYcclJ3Ug.md) - [plain]
 | 128 | [Took A Trip](https://open.spotify.com/track/5m8kg9mb6E82kV99kcHwVC) | [chlothegod](https://open.spotify.com/artist/10YC7gfEVGGez94KMAJoLx) | [Nearly Straight](https://open.spotify.com/album/2aViIw8MflAIHHsPK5hXX9) | 2:28 |
 | 129 | [DUMB](https://open.spotify.com/track/47MthNdmvuTrV3SP4MPFGV) | [Hunter Oliveri](https://open.spotify.com/artist/1y3NQbmjuRQshFiRjiterz) | [DUMB](https://open.spotify.com/album/1CEYnd0M5NIW7u6HheJka5) | 2:53 |
 
-Snapshot ID: `MCw1OTc0NGQ4ODE1ZmMxMzNiMmZmNmI3ZTI3ZTIxMjQ0ZDgyMTkxMTA0`
+Snapshot ID: `MCw5Zjc3ZTk5NjUzZDBlOTRlY2I0ZjgzZTc5NTZmYTE4ZmUyNTc1Nzc5`

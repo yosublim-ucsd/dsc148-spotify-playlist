@@ -1,12 +1,12 @@
 {
   "description": "Party blues tunes. Cover: Joe Louis Walker",
-  "num_followers": 10708,
+  "num_followers": 10717,
   "original_name": "Blues Party",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4NmEzOGZhODVmNTBjYjY0YjRiNGYzOGFjYmIzMTZlYjFhZTExM2Ux",
+  "snapshot_id": "MCwzYTkxZmFkMjViYjRjZGM3ODZlMjUxMTllNThjMGFlNWFjOTBmN2Rk",
   "tracks": [
     {
       "added_at": "2020-12-01 05:01:00",
@@ -235,6 +235,22 @@
     {
       "added_at": "2020-12-01 05:01:00",
       "album": {
+        "name": "Keep On",
+        "url": "https://open.spotify.com/album/50CK5WZHyOwMeZHVYGCDIJ"
+      },
+      "artists": [
+        {
+          "name": "Southern Avenue",
+          "url": "https://open.spotify.com/artist/4HfoncnCuBS7D4xU4VDosQ"
+        }
+      ],
+      "duration_ms": 114784,
+      "name": "We've Got The Music",
+      "url": "https://open.spotify.com/track/0nWPSw3PHjRTirJ9BAsZnb"
+    },
+    {
+      "added_at": "2020-12-01 05:01:00",
+      "album": {
         "name": "Blues Summit",
         "url": "https://open.spotify.com/album/1qhzqiTmAjIc38TLqwgsWI"
       },
@@ -251,22 +267,6 @@
       "duration_ms": 318040,
       "name": "Playin' With My Friends",
       "url": "https://open.spotify.com/track/071l1tdfckojdC5V37NKN6"
-    },
-    {
-      "added_at": "2020-12-01 05:01:00",
-      "album": {
-        "name": "Keep On",
-        "url": "https://open.spotify.com/album/50CK5WZHyOwMeZHVYGCDIJ"
-      },
-      "artists": [
-        {
-          "name": "Southern Avenue",
-          "url": "https://open.spotify.com/artist/4HfoncnCuBS7D4xU4VDosQ"
-        }
-      ],
-      "duration_ms": 114784,
-      "name": "We've Got The Music",
-      "url": "https://open.spotify.com/track/0nWPSw3PHjRTirJ9BAsZnb"
     },
     {
       "added_at": "2020-12-01 05:01:00",
@@ -397,6 +397,22 @@
       "url": "https://open.spotify.com/track/2uKt3YMVIDuEDY2xH1jZFz"
     },
     {
+      "added_at": "2020-12-01 05:01:00",
+      "album": {
+        "name": "Booty And The Beast",
+        "url": "https://open.spotify.com/album/1uGPozOUYC2TvpVE3IlWQi"
+      },
+      "artists": [
+        {
+          "name": "Popa Chubby",
+          "url": "https://open.spotify.com/artist/76EaAz0oJVx8IbnUbDOPmD"
+        }
+      ],
+      "duration_ms": 279640,
+      "name": "Sweet Goddess of Love and Beer",
+      "url": "https://open.spotify.com/track/66H9jPL1TsOrOYVMAwVjCR"
+    },
+    {
       "added_at": "2021-10-01 04:02:00",
       "album": {
         "name": "Promised Land",
@@ -415,22 +431,6 @@
       "duration_ms": 181939,
       "name": "Going to the Party",
       "url": "https://open.spotify.com/track/3NNMGuWv9mKJLU1ETp0BBR"
-    },
-    {
-      "added_at": "2020-12-01 05:01:00",
-      "album": {
-        "name": "Booty And The Beast",
-        "url": "https://open.spotify.com/album/1uGPozOUYC2TvpVE3IlWQi"
-      },
-      "artists": [
-        {
-          "name": "Popa Chubby",
-          "url": "https://open.spotify.com/artist/76EaAz0oJVx8IbnUbDOPmD"
-        }
-      ],
-      "duration_ms": 279640,
-      "name": "Sweet Goddess of Love and Beer",
-      "url": "https://open.spotify.com/track/66H9jPL1TsOrOYVMAwVjCR"
     },
     {
       "added_at": "2020-12-01 05:01:00",
@@ -755,30 +755,6 @@
     {
       "added_at": "2020-12-01 05:01:00",
       "album": {
-        "name": "Times Have Changed",
-        "url": "https://open.spotify.com/album/5CjUUKNjZj3rjOIrph5xxx"
-      },
-      "artists": [
-        {
-          "name": "Ronnie Baker Brooks",
-          "url": "https://open.spotify.com/artist/1R61o55489TKal84OYdcnI"
-        },
-        {
-          "name": "Felix Cavaliere",
-          "url": "https://open.spotify.com/artist/74wxdlP4utkNZrtAL0mKrQ"
-        },
-        {
-          "name": "Lee Roy Parnell",
-          "url": "https://open.spotify.com/artist/3bW6mQczkt1r8tnWIDeBVJ"
-        }
-      ],
-      "duration_ms": 233560,
-      "name": "Come On Up",
-      "url": "https://open.spotify.com/track/2w34s0Ym9EmBrOChohADgW"
-    },
-    {
-      "added_at": "2020-12-01 05:01:00",
-      "album": {
         "name": "50 - Just warming up !",
         "url": "https://open.spotify.com/album/25DudAOE7STeKctgnHdrvt"
       },
@@ -799,6 +775,30 @@
       "duration_ms": 275226,
       "name": "Let The Good Time Party Begin",
       "url": "https://open.spotify.com/track/0IISDvjnvAI30eXFhRzKQ6"
+    },
+    {
+      "added_at": "2020-12-01 05:01:00",
+      "album": {
+        "name": "Times Have Changed",
+        "url": "https://open.spotify.com/album/5CjUUKNjZj3rjOIrph5xxx"
+      },
+      "artists": [
+        {
+          "name": "Ronnie Baker Brooks",
+          "url": "https://open.spotify.com/artist/1R61o55489TKal84OYdcnI"
+        },
+        {
+          "name": "Felix Cavaliere",
+          "url": "https://open.spotify.com/artist/74wxdlP4utkNZrtAL0mKrQ"
+        },
+        {
+          "name": "Lee Roy Parnell",
+          "url": "https://open.spotify.com/artist/3bW6mQczkt1r8tnWIDeBVJ"
+        }
+      ],
+      "duration_ms": 233560,
+      "name": "Come On Up",
+      "url": "https://open.spotify.com/track/2w34s0Ym9EmBrOChohADgW"
     },
     {
       "added_at": "2020-12-01 05:01:00",

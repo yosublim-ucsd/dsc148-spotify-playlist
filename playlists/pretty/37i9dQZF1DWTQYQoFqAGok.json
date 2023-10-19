@@ -1,12 +1,12 @@
 {
   "description": "Descubre la escena del jazz en M\u00e9xico en la curadur\u00eda de los expertos Mariana P\u00e9rez,  Juan Carlos Reyes, Erik Montenegro y Jos\u00e9 Enrique Fern\u00e1ndez.",
-  "num_followers": 57994,
+  "num_followers": 58002,
   "original_name": "Jazz en M\u00e9xico",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2MDMyMzdjODhlZDIxZWRjMDY5N2U4YzQzNTQwYTg2Y2Y2NDYzNGM0",
+  "snapshot_id": "MCxjYzU3MDgxZGM5YTVlNDc2ZTJkYzY4NTg2NDRhM2NhMWVmZWE1YTVi",
   "tracks": [
     {
       "added_at": "2021-07-28 16:44:28",
@@ -203,22 +203,6 @@
     {
       "added_at": "2021-07-28 16:44:28",
       "album": {
-        "name": "...un poco mas.",
-        "url": "https://open.spotify.com/album/5lAACEe8qGeTZhrzlCr8wM"
-      },
-      "artists": [
-        {
-          "name": "Na'rimbo",
-          "url": "https://open.spotify.com/artist/3WM7lsbcWyFWHFYmwTQKLt"
-        }
-      ],
-      "duration_ms": 303893,
-      "name": "Naila",
-      "url": "https://open.spotify.com/track/28V7R9TGxz2Nn6mhZXwHGh"
-    },
-    {
-      "added_at": "2021-07-28 16:44:28",
-      "album": {
         "name": "Dream Maker (Guitar Smooth Jazz)",
         "url": "https://open.spotify.com/album/3lU5UO8Orf9biP3BjftPWc"
       },
@@ -231,6 +215,22 @@
       "duration_ms": 202826,
       "name": "Susano's Calipso",
       "url": "https://open.spotify.com/track/5qAQXLoUQrLpfyst5PNFnB"
+    },
+    {
+      "added_at": "2021-07-28 16:44:28",
+      "album": {
+        "name": "...un poco mas.",
+        "url": "https://open.spotify.com/album/5lAACEe8qGeTZhrzlCr8wM"
+      },
+      "artists": [
+        {
+          "name": "Na'rimbo",
+          "url": "https://open.spotify.com/artist/3WM7lsbcWyFWHFYmwTQKLt"
+        }
+      ],
+      "duration_ms": 303893,
+      "name": "Naila",
+      "url": "https://open.spotify.com/track/28V7R9TGxz2Nn6mhZXwHGh"
     },
     {
       "added_at": "2023-04-12 01:24:34",
@@ -303,18 +303,22 @@
     {
       "added_at": "2021-07-28 16:44:28",
       "album": {
-        "name": "...un poco mas.",
-        "url": "https://open.spotify.com/album/5lAACEe8qGeTZhrzlCr8wM"
+        "name": "2 Cartas",
+        "url": "https://open.spotify.com/album/63hYNPwrWjNuTj9uxazvW3"
       },
       "artists": [
         {
-          "name": "Na'rimbo",
-          "url": "https://open.spotify.com/artist/3WM7lsbcWyFWHFYmwTQKLt"
+          "name": "Daniel, Me Est\u00e1s Matando",
+          "url": "https://open.spotify.com/artist/51yyeVxyvecgePAWXmeLUE"
+        },
+        {
+          "name": "Antonio S\u00e1nchez",
+          "url": "https://open.spotify.com/artist/19KpCg8O15A2eZ416EyFdw"
         }
       ],
-      "duration_ms": 370613,
-      "name": "Al son de la marimba",
-      "url": "https://open.spotify.com/track/2ASMYuPSrYkM3zk3E8uBWh"
+      "duration_ms": 285386,
+      "name": "2 Cartas",
+      "url": "https://open.spotify.com/track/1BKByJotqMPplXpnaovvr5"
     },
     {
       "added_at": "2023-04-13 19:45:15",
@@ -339,38 +343,18 @@
     {
       "added_at": "2021-07-28 16:44:28",
       "album": {
-        "name": "2 Cartas",
-        "url": "https://open.spotify.com/album/63hYNPwrWjNuTj9uxazvW3"
+        "name": "...un poco mas.",
+        "url": "https://open.spotify.com/album/5lAACEe8qGeTZhrzlCr8wM"
       },
       "artists": [
         {
-          "name": "Daniel, Me Est\u00e1s Matando",
-          "url": "https://open.spotify.com/artist/51yyeVxyvecgePAWXmeLUE"
-        },
-        {
-          "name": "Antonio S\u00e1nchez",
-          "url": "https://open.spotify.com/artist/19KpCg8O15A2eZ416EyFdw"
+          "name": "Na'rimbo",
+          "url": "https://open.spotify.com/artist/3WM7lsbcWyFWHFYmwTQKLt"
         }
       ],
-      "duration_ms": 285386,
-      "name": "2 Cartas",
-      "url": "https://open.spotify.com/track/1BKByJotqMPplXpnaovvr5"
-    },
-    {
-      "added_at": "2021-07-28 16:44:28",
-      "album": {
-        "name": "Daniel Wong Trio",
-        "url": "https://open.spotify.com/album/0cUyChxSDtRGlcl0gbaF2B"
-      },
-      "artists": [
-        {
-          "name": "Daniel Wong",
-          "url": "https://open.spotify.com/artist/1TekEtDI0YjvmOSnZJkY5J"
-        }
-      ],
-      "duration_ms": 230191,
-      "name": "Monk Around",
-      "url": "https://open.spotify.com/track/0elx5KQKvHmMkkFPYhBbc3"
+      "duration_ms": 370613,
+      "name": "Al son de la marimba",
+      "url": "https://open.spotify.com/track/2ASMYuPSrYkM3zk3E8uBWh"
     },
     {
       "added_at": "2021-07-28 16:44:28",
@@ -387,6 +371,22 @@
       "duration_ms": 251586,
       "name": "Fijate Que Suave",
       "url": "https://open.spotify.com/track/1PwJUleR5YVeNBckjSXDTg"
+    },
+    {
+      "added_at": "2021-07-28 16:44:28",
+      "album": {
+        "name": "Daniel Wong Trio",
+        "url": "https://open.spotify.com/album/0cUyChxSDtRGlcl0gbaF2B"
+      },
+      "artists": [
+        {
+          "name": "Daniel Wong",
+          "url": "https://open.spotify.com/artist/1TekEtDI0YjvmOSnZJkY5J"
+        }
+      ],
+      "duration_ms": 230191,
+      "name": "Monk Around",
+      "url": "https://open.spotify.com/track/0elx5KQKvHmMkkFPYhBbc3"
     },
     {
       "added_at": "2021-07-28 16:44:28",
@@ -511,6 +511,26 @@
     {
       "added_at": "2021-07-28 16:44:28",
       "album": {
+        "name": "Paisaje Gris",
+        "url": "https://open.spotify.com/album/4WAskgkj1leGkHgXXobvRG"
+      },
+      "artists": [
+        {
+          "name": "Jenny Beaujean",
+          "url": "https://open.spotify.com/artist/6ex3zdLBHsbn07VkD3Nnq3"
+        },
+        {
+          "name": "Benjam\u00edn Garc\u00eda",
+          "url": "https://open.spotify.com/artist/25pBtHDlplMjQ9FrFoMcuE"
+        }
+      ],
+      "duration_ms": 259133,
+      "name": "Paisaje Gris",
+      "url": "https://open.spotify.com/track/7Fo5vh8oUOsw8LsziLXe60"
+    },
+    {
+      "added_at": "2021-07-28 16:44:28",
+      "album": {
         "name": "Fulgor",
         "url": "https://open.spotify.com/album/3hHdb3FvT0zU1eXrKmQOgS"
       },
@@ -535,26 +555,6 @@
       "duration_ms": 246539,
       "name": "Aquel Incendio",
       "url": "https://open.spotify.com/track/21B1SsKnsjcUTkzRAAUJqy"
-    },
-    {
-      "added_at": "2021-07-28 16:44:28",
-      "album": {
-        "name": "Paisaje Gris",
-        "url": "https://open.spotify.com/album/4WAskgkj1leGkHgXXobvRG"
-      },
-      "artists": [
-        {
-          "name": "Jenny Beaujean",
-          "url": "https://open.spotify.com/artist/6ex3zdLBHsbn07VkD3Nnq3"
-        },
-        {
-          "name": "Benjam\u00edn Garc\u00eda",
-          "url": "https://open.spotify.com/artist/25pBtHDlplMjQ9FrFoMcuE"
-        }
-      ],
-      "duration_ms": 259133,
-      "name": "Paisaje Gris",
-      "url": "https://open.spotify.com/track/7Fo5vh8oUOsw8LsziLXe60"
     },
     {
       "added_at": "2021-07-28 16:44:28",
@@ -815,22 +815,6 @@
     {
       "added_at": "2021-07-28 16:44:28",
       "album": {
-        "name": "Mi Sentimiento Guerrerense",
-        "url": "https://open.spotify.com/album/6035edQMGEkEvpgomvasDC"
-      },
-      "artists": [
-        {
-          "name": "Guerrero Jazz",
-          "url": "https://open.spotify.com/artist/1e7vAz7CGvceTRGJ4E1Sl6"
-        }
-      ],
-      "duration_ms": 339280,
-      "name": "Por los Caminos del Sur",
-      "url": "https://open.spotify.com/track/5P4gJvoE9ynAgJdAxp8mlt"
-    },
-    {
-      "added_at": "2021-07-28 16:44:28",
-      "album": {
         "name": "Andamos Huyendo",
         "url": "https://open.spotify.com/album/6FJPUB4pLZxCKGUJDgDHQQ"
       },
@@ -843,6 +827,22 @@
       "duration_ms": 291647,
       "name": "Andamos Huyendo",
       "url": "https://open.spotify.com/track/4utJIPfz1GOEnp3KNWkW1J"
+    },
+    {
+      "added_at": "2021-07-28 16:44:28",
+      "album": {
+        "name": "Mi Sentimiento Guerrerense",
+        "url": "https://open.spotify.com/album/6035edQMGEkEvpgomvasDC"
+      },
+      "artists": [
+        {
+          "name": "Guerrero Jazz",
+          "url": "https://open.spotify.com/artist/1e7vAz7CGvceTRGJ4E1Sl6"
+        }
+      ],
+      "duration_ms": 339280,
+      "name": "Por los Caminos del Sur",
+      "url": "https://open.spotify.com/track/5P4gJvoE9ynAgJdAxp8mlt"
     },
     {
       "added_at": "2022-03-30 03:01:09",

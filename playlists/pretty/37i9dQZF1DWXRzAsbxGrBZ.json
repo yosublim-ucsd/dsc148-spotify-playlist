@@ -1,12 +1,12 @@
 {
   "description": "Deep House speaks to the soul. Get revived with some of the best Deep House South Africa has to offer.",
-  "num_followers": 31230,
+  "num_followers": 31318,
   "original_name": "Deep House Session",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmZTVkNTJiZWRiMGQyYzcyYmUxMDk2YThjZDY2ZTMzYzg5MjRmZWRm",
+  "snapshot_id": "MCxiNmM1M2U3YTNjZWZjMGVkNjI5NjA3ZTlkZGFhYzg3YmI2ZWM1MmQ2",
   "tracks": [
     {
       "added_at": "2023-10-05 23:00:00",
@@ -511,26 +511,6 @@
     {
       "added_at": "2023-10-05 23:00:00",
       "album": {
-        "name": "NEO",
-        "url": "https://open.spotify.com/album/5rW8PA2FAgoeOHOsO07986"
-      },
-      "artists": [
-        {
-          "name": "Jazzuelle",
-          "url": "https://open.spotify.com/artist/2jDw8yQFISqLWdK63ITATu"
-        },
-        {
-          "name": "Buddynice",
-          "url": "https://open.spotify.com/artist/2xjvb56AjGc8c8WwkPfJgp"
-        }
-      ],
-      "duration_ms": 436551,
-      "name": "Vertigo",
-      "url": "https://open.spotify.com/track/2ilBcYA2BTCaEz4a26h683"
-    },
-    {
-      "added_at": "2023-10-05 23:00:00",
-      "album": {
         "name": "OOO: AFRO",
         "url": "https://open.spotify.com/album/4YNw1RfxL1PBwTcx0D0JCx"
       },
@@ -547,6 +527,26 @@
       "duration_ms": 466467,
       "name": "Don't 4get To Call Me",
       "url": "https://open.spotify.com/track/289Qw6pCjcz8FnaPNGLuvP"
+    },
+    {
+      "added_at": "2023-10-05 23:00:00",
+      "album": {
+        "name": "NEO",
+        "url": "https://open.spotify.com/album/5rW8PA2FAgoeOHOsO07986"
+      },
+      "artists": [
+        {
+          "name": "Jazzuelle",
+          "url": "https://open.spotify.com/artist/2jDw8yQFISqLWdK63ITATu"
+        },
+        {
+          "name": "Buddynice",
+          "url": "https://open.spotify.com/artist/2xjvb56AjGc8c8WwkPfJgp"
+        }
+      ],
+      "duration_ms": 436551,
+      "name": "Vertigo",
+      "url": "https://open.spotify.com/track/2ilBcYA2BTCaEz4a26h683"
     },
     {
       "added_at": "2023-10-05 23:00:00",

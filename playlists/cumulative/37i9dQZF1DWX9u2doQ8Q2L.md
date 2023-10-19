@@ -4,7 +4,7 @@
 
 > Spotify Japan proudly introduces the freshest and most talented Japanese artists to the world.
 
-1,043 songs - 2 day 16 hr 26 min
+1,044 songs - 2 day 16 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -166,7 +166,7 @@
 | [Deep Himawari](https://open.spotify.com/track/4Djw11FVmjUYfOOS96qIgW) | [SANABAGUN.](https://open.spotify.com/artist/7tiKnydNP65EPFiYRiW2Pu) | [Deep Himawari](https://open.spotify.com/album/3CbskWWeIvgowtLb2MQAaZ) | 3:34 | 2022-06-23 | 2022-07-20 |
 | [Deeper](https://open.spotify.com/track/2LTy5vmHluuVWwwspHpPWP) | [Sen Morimoto](https://open.spotify.com/artist/3zlWvRPwLwGSi2v6ltrhOl) | [Deeper](https://open.spotify.com/album/2J8c9FzfZmvkLurvlY44iB) | 5:12 | 2023-10-10 | 2023-10-12 |
 | [Deeper](https://open.spotify.com/track/3ShUS9A5HC0ZaO21Cnl3v8) | [Sen Morimoto](https://open.spotify.com/artist/3zlWvRPwLwGSi2v6ltrhOl) | [Deeper](https://open.spotify.com/album/1gtc4Ft1JspHCCd9dozX8a) | 5:12 | 2023-10-10 |  |
-| [Destruction Sisters](https://open.spotify.com/track/2yL4L5IgsXNQ7vBTFB5w9Q) | [HARU NEMURI](https://open.spotify.com/artist/3cn7Ujrlj3rdyuqmOYhBJT) | [INSAINT](https://open.spotify.com/album/7e6Q8ViA61T7KNw15oFr2s) | 2:30 | 2023-09-28 | 2023-10-18 |
+| [Destruction Sisters](https://open.spotify.com/track/2yL4L5IgsXNQ7vBTFB5w9Q) | [HARU NEMURI](https://open.spotify.com/artist/3cn7Ujrlj3rdyuqmOYhBJT) | [INSAINT](https://open.spotify.com/album/7e6Q8ViA61T7KNw15oFr2s) | 2:30 | 2023-09-28 |  |
 | [Diagnosis](https://open.spotify.com/track/7vlddLsCrx8WdhCHgvHd7b) | [Sen Morimoto](https://open.spotify.com/artist/3zlWvRPwLwGSi2v6ltrhOl) | [Diagnosis](https://open.spotify.com/album/3aZsnirge4waNPaR1nvZRE) | 3:09 | 2023-06-27 | 2023-07-12 |
 | [Do What U Love](https://open.spotify.com/track/1qn2VwBsPI0iF6uiqOylRD) | [Kaoru Tominaga](https://open.spotify.com/artist/7h8VFlFvY1tPKovx1mKTGE), [Sho Asano](https://open.spotify.com/artist/7oNLOW0qxiKDZnG9xkP6CX) | [Do What U Love](https://open.spotify.com/album/2IHKQdjkiFyCO1yqz5IcZI) | 3:37 | 2022-06-21 | 2022-07-20 |
 | [DOCUMENT \- 2023](https://open.spotify.com/track/2FqaGBqrOpcz2gahQgaeDg) | [TENDRE](https://open.spotify.com/artist/6cMnpAZ9QN0wn4dVd0Tinb) | [DOCUMENT \(2023\)](https://open.spotify.com/album/6VbZ7Sm3BLIRfPeAwr5X69) | 4:38 | 2023-04-05 | 2023-07-07 |
@@ -437,7 +437,8 @@
 | [Moneyman](https://open.spotify.com/track/6lmKwrz40nAgOuouIe5RYU) | [TESTSET](https://open.spotify.com/artist/5yNHyOo143SXywbGvCAXhD) | [Moneyman](https://open.spotify.com/album/6EcX8eymeDUyQyEPxI9hq5) | 5:15 | 2023-06-08 | 2023-06-14 |
 | [Monochrome](https://open.spotify.com/track/2Rw6wkd0q3LXx5xsdjLs1P) | [BABYMETAL](https://open.spotify.com/artist/630wzNP2OL7fl4Xl0GnMWq) | [Monochrome](https://open.spotify.com/album/6IoOqdEHdwLgfUONXeYvoI) | 3:57 | 2022-11-17 | 2023-01-04 |
 | [Moon Prison](https://open.spotify.com/track/0rmgs7Zd2evGFVvXinF3ew) | [maeshima soshi](https://open.spotify.com/artist/4O49GHbECmNppFvzK0WZXf), [ぷにぷに電機](https://open.spotify.com/artist/0vroxhoPPl0k04dqKWYHZK) | [Moon Prison](https://open.spotify.com/album/2IntUMWxuhURmGokrZdtYE) | 2:45 | 2023-01-26 | 2023-04-05 |
-| [moonlight](https://open.spotify.com/track/3bcSTJteNi1IdE7s0h9uf9) | [Yaffle](https://open.spotify.com/artist/2BbGifSrMGEgvUXLypUWzV), [Ted Park](https://open.spotify.com/artist/7s1z4FwBTOjCdQcmXLMbOG) | [exported\_file\_1](https://open.spotify.com/album/0PegtJKho7DMde8b6FhpqK) | 3:16 | 2023-10-17 |  |
+| [moonlight](https://open.spotify.com/track/2UoxwIHRIKhHwRYiFySemI) | [Yaffle](https://open.spotify.com/artist/2BbGifSrMGEgvUXLypUWzV), [Ted Park](https://open.spotify.com/artist/7s1z4FwBTOjCdQcmXLMbOG) | [exported\_file\_1](https://open.spotify.com/album/6galsYHbpMeQzgpGmVnfHb) | 3:16 | 2023-10-17 |  |
+| [moonlight](https://open.spotify.com/track/3bcSTJteNi1IdE7s0h9uf9) | [Yaffle](https://open.spotify.com/artist/2BbGifSrMGEgvUXLypUWzV), [Ted Park](https://open.spotify.com/artist/7s1z4FwBTOjCdQcmXLMbOG) | [exported\_file\_1](https://open.spotify.com/album/0PegtJKho7DMde8b6FhpqK) | 3:16 | 2023-10-17 | 2023-10-19 |
 | [Moonlight](https://open.spotify.com/track/20oWyi2kyCBXvgmD41XYEm) | [Yo\-Sea](https://open.spotify.com/artist/0ayU6CR43tInomJqB9JfRw) | [Moonlight](https://open.spotify.com/album/1B7s0MuLuwvGpSMOpzKDTN) | 3:29 | 2023-08-01 |  |
 | [More Bitter, Mocha Better](https://open.spotify.com/track/0lm5AVNYD2D7wpoy9M6Xqh) | [The Burning Deadwoods](https://open.spotify.com/artist/2lj0Y6kO4BIGSvRGQq3V9k), [Mashiro Shirakami](https://open.spotify.com/artist/4m5nPDb3wgSoFINV9szgbx) | [More Bitter, Mocha Better](https://open.spotify.com/album/5hn610tVThK7GHm2XJKCiD) | 3:50 | 2023-08-01 | 2023-08-03 |
 | [More Bitter, Mocha Better](https://open.spotify.com/track/7Eas2Kp8CmRqHEphZWIMBG) | [The Burning Deadwoods](https://open.spotify.com/artist/2lj0Y6kO4BIGSvRGQq3V9k), [Mashiro Shirakami](https://open.spotify.com/artist/4m5nPDb3wgSoFINV9szgbx) | [More Bitter, Mocha Better](https://open.spotify.com/album/5vxSSnVFtIL5ZVsWQp4zoO) | 3:50 | 2023-08-01 | 2023-08-09 |
@@ -860,7 +861,7 @@
 | [エジソン](https://open.spotify.com/track/223e30Nk8UY0HKezFtakUS) | [WEDNESDAY CAMPANELLA](https://open.spotify.com/artist/0bp9CvkjQYhUJvWRHjFRWI) | [招き猫 / エジソン](https://open.spotify.com/album/5R4QHlcpCdAX1CxV8tHWaa) | 3:13 | 2022-07-07 | 2022-07-29 |
 | [エジソン](https://open.spotify.com/track/2wRKOmpe6I7q6k69bkjuFU) | [WEDNESDAY CAMPANELLA](https://open.spotify.com/artist/0bp9CvkjQYhUJvWRHjFRWI) | [ネオン](https://open.spotify.com/album/4tlqOW9ThwLtEBHPLWD27C) | 3:13 | 2022-06-06 | 2022-06-29 |
 | [ガールフレンド・オブ・ザ・デッド!](https://open.spotify.com/track/1oYLlpOQv3LrykfZDyizun) | [sooogood!](https://open.spotify.com/artist/72C5vNpdDKj70D3NU1P5fB), [lily wii!](https://open.spotify.com/artist/4S393iGKVn1I0Kro8MD4BP) | [ガールフレンド・オブ・ザ・デッド!](https://open.spotify.com/album/1oDCKrs5Xg8rX1uij43sBK) | 3:35 | 2022-06-28 | 2022-07-20 |
-| [キリエ・憐れみの讃歌](https://open.spotify.com/track/4KjNYo1Y9QWc0GQES77dfl) | [Kyrie](https://open.spotify.com/artist/1W3oa2UIRtBlQSPwszyIWu), [AiNA THE END](https://open.spotify.com/artist/5k7KS34gxQbzdQaXWSOVKC) | [DEBUT](https://open.spotify.com/album/6P0h9ZA6Vf5Drg76VGFLSe) | 5:18 | 2023-10-12 |  |
+| [キリエ・憐れみの讃歌](https://open.spotify.com/track/4KjNYo1Y9QWc0GQES77dfl) | [Kyrie](https://open.spotify.com/artist/1W3oa2UIRtBlQSPwszyIWu), [AiNA THE END](https://open.spotify.com/artist/5k7KS34gxQbzdQaXWSOVKC) | [DEBUT](https://open.spotify.com/album/6P0h9ZA6Vf5Drg76VGFLSe) | 5:18 | 2023-10-12 | 2023-10-19 |
 | [キリエ・憐れみの讃歌](https://open.spotify.com/track/7p2uXeTDH9a7Iat6oqY9Uq) | [Kyrie](https://open.spotify.com/artist/1W3oa2UIRtBlQSPwszyIWu), [AiNA THE END](https://open.spotify.com/artist/5k7KS34gxQbzdQaXWSOVKC) | [DEBUT](https://open.spotify.com/album/16UD0fdKRMlLwVfCIviFyZ) | 5:18 | 2023-09-26 | 2023-10-14 |
 | [ギヴ・ミー・ア・ライド](https://open.spotify.com/track/5mGPkWaDs8EHz15T9HBHmE) | [CAPSULE](https://open.spotify.com/artist/61KJdJU38zrAW4c3PI9C9N) | [ギヴ・ミー・ア・ライド](https://open.spotify.com/album/17ODkxcwEwZ3pvCjeZViMA) | 5:05 | 2022-12-01 | 2023-01-16 |
 | [クロエ](https://open.spotify.com/track/55Tvnmqj49iNka1u3p46nK) | [Motoharu Sano](https://open.spotify.com/artist/286Db6EQmfgB3SJYulhGqb), [THE COYOTE BAND](https://open.spotify.com/artist/432HTPxin2aQmEIHXQMUnh) | [今、何処](https://open.spotify.com/album/5ZTjkUoIxLVyyILhfXAyQM) | 3:15 | 2022-07-05 | 2022-07-29 |

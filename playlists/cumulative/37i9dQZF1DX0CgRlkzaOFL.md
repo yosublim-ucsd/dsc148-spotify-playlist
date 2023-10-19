@@ -4,7 +4,7 @@
 
 > Discover the classical side of anime with these orchestral soundtracks and classical masterpieces\. アニメ作品に登場するクラシック音楽と象徴的なサウンドトラックを1つのプレイリストで。Illustration by <a href="https://kazuhisauragami.com/"> Kazuhisa Uragami</a>
 
-78 songs - 4 hr 33 min
+80 songs - 4 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,7 +19,8 @@
 | [BEASTARS \-pf solo\-](https://open.spotify.com/track/1WKXs9BlXdmN9qsBw2Cgcn) | [神前 暁](https://open.spotify.com/artist/1IdRNuzZylVdtc9oA3wZTk) | [TVアニメ「BEASTARS」オリジナルサウンドトラック](https://open.spotify.com/album/2rVmetH0Kki1VtcXuABSAH) | 1:49 | 2022-03-25 |  |
 | [BEASTARS\-don't forget\-](https://open.spotify.com/track/1ewtLkn4AAI61aZspvt85s) | [神前 暁](https://open.spotify.com/artist/1IdRNuzZylVdtc9oA3wZTk) | [TVアニメ「BEASTARS」オリジナルサウンドトラック2](https://open.spotify.com/album/0TtyxaWjB5YDGDyhx2T6AX) | 3:32 | 2022-03-25 |  |
 | [best years in our lives](https://open.spotify.com/track/5xjtf6JDEk7e6NbUyBJvSO) | [梶浦 由記](https://open.spotify.com/artist/0BLHMPWOZ2aTI0ZCCbtZem) | [「ツバサ・クロニクル」オリジナル・サウンドトラック Future Soundscape I](https://open.spotify.com/album/5Z9SNaI38CG5mh8aiBEIBy) | 3:08 | 2022-03-25 |  |
-| [Beyond the Seas](https://open.spotify.com/track/4931hN8zaVARMSVAFN4AC0) | [Yoshihisa Hirano](https://open.spotify.com/artist/496DwthDgbHUwWycngajrJ) | [TVアニメ「HUNTER×HUNTER」オリジナル・サウンドトラック](https://open.spotify.com/album/2Dw87Ob66XprXiHKbhifJB) | 1:30 | 2022-03-25 |  |
+| [Beyond the Seas](https://open.spotify.com/track/4931hN8zaVARMSVAFN4AC0) | [Yoshihisa Hirano](https://open.spotify.com/artist/496DwthDgbHUwWycngajrJ) | [TVアニメ「HUNTER×HUNTER」オリジナル・サウンドトラック](https://open.spotify.com/album/2Dw87Ob66XprXiHKbhifJB) | 1:30 | 2022-03-25 | 2023-10-19 |
+| [Beyond the Seas](https://open.spotify.com/track/53l5ZSocXsBoycSEQtK0os) | [Yoshihisa Hirano](https://open.spotify.com/artist/496DwthDgbHUwWycngajrJ) | [HUNTER x HUNTER Original Soundtrack](https://open.spotify.com/album/134vt3RPUDyjufgeUQyNPq) | 1:30 | 2023-10-17 |  |
 | [Cello Suite No\. 1 in G Major, BWV 1007: I\. Prélude](https://open.spotify.com/track/61dYvvfIRtIDFuqZypPAta) | [Johann Sebastian Bach](https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408), [Yo\-Yo Ma](https://open.spotify.com/artist/5Dl3HXZjG6ZOWT5cV375lk) | [Bach: Unaccompanied Cello Suites \(Remastered\)](https://open.spotify.com/album/2OpnKgmVYPEN2GldgBponI) | 2:31 | 2022-04-19 |  |
 | [Cello Suite No\. 1 in G Major, BWV 1007: I\. Prélude](https://open.spotify.com/track/17i5jLpzndlQhbS4SrTd0B) | [Johann Sebastian Bach](https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408), [Yo\-Yo Ma](https://open.spotify.com/artist/5Dl3HXZjG6ZOWT5cV375lk) | [Bach: Cello Suites Nos\. 1, 5 & 6](https://open.spotify.com/album/3cvjMNWg7t46NyDZzujfNg) | 2:32 | 2022-03-25 | 2022-07-29 |
 | [Circulation](https://open.spotify.com/track/08cx2NSZT86HpYzkVLKoRd) | [Masakatsu Takagi](https://open.spotify.com/artist/7kSP0XY1UueKCMOGJhIV9N) | [Wolf Children \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3vZyva1XWxRbf0wq4MsU8q) | 1:50 | 2022-04-19 |  |
@@ -29,6 +30,7 @@
 | [Free The Wind](https://open.spotify.com/track/0r3cg5Co9bAsNgLqcKVMlr) | [Masakatsu Takagi](https://open.spotify.com/artist/7kSP0XY1UueKCMOGJhIV9N) | [The Boy and The Beast \(Original Soundtrack Album\)](https://open.spotify.com/album/7Ahkr6PnLvSmrwJugM4Bue) | 2:53 | 2022-04-19 |  |
 | [Goldberg Variations, BWV 988: Aria](https://open.spotify.com/track/4FddKCeFq1J6ALw9ZZ2P8U) | [Johann Sebastian Bach](https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408), [Igor Levit](https://open.spotify.com/artist/0japPUWMmW3gxqjSB1VEVL) | [Goldberg Variations \- The Goldberg Variations, BWV 988](https://open.spotify.com/album/2qLOFrKy9CJjjQHfaDgw1R) | 4:24 | 2022-03-25 |  |
 | [Heiwa no Inori](https://open.spotify.com/track/7Gq8UpApEwJdOIf5K6XCJO) | [Toshihiko Sahashi](https://open.spotify.com/artist/6G6SuCwKMHuGQKILKi7TC8) | [MOBILE SUIT GUNDAM SEED Original Motion Picture Soundtrack 2](https://open.spotify.com/album/4wNiXmTGxZ4RcWKesDupIy) | 1:37 | 2022-03-25 |  |
+| [Hiiro no Hitomi no Aika](https://open.spotify.com/track/4k8qWLE0P9L9y6ZTDeQk0k) | [Yoshihisa Hirano](https://open.spotify.com/artist/496DwthDgbHUwWycngajrJ) | [HUNTER x HUNTER Original Soundtrack](https://open.spotify.com/album/134vt3RPUDyjufgeUQyNPq) | 1:29 | 2023-10-17 |  |
 | [IiMuRoYa\-$.feat 3rd\-Mov.:HEiW@→KiZUN@](https://open.spotify.com/track/59owDR67uubyLwhXNEtQ2k) | [Hiroyuki Sawano](https://open.spotify.com/artist/0Riv2KnFcLZA3JSVryRg4y) | [青の祓魔師 オリジナル・サウンドトラック II](https://open.spotify.com/album/0y3XZ3R8MsOQGx16H1wsuz) | 4:12 | 2022-03-25 |  |
 | [Kakusei Shinn Asuka](https://open.spotify.com/track/1WNJIa7BzKD6G9v3UR9JJZ) | [Toshihiko Sahashi](https://open.spotify.com/artist/6G6SuCwKMHuGQKILKi7TC8) | [MOBILE SUITE GUNDAM SEED DESTINY Original Motion Picture Soundtrack 2](https://open.spotify.com/album/3zIYQhqTWF1iEoN220OOEu) | 1:49 | 2022-03-25 |  |
 | [L'isle joyeuse, L\. 106](https://open.spotify.com/track/4VTnc3rElZ3Ihcz5VM8mXa) | [Claude Debussy](https://open.spotify.com/artist/1Uff91EOsvd99rtAupatMP), [Seong\-Jin Cho](https://open.spotify.com/artist/1p0J5PXJQMVqk5uVV4T1ja) | [Debussy](https://open.spotify.com/album/4tYYPSmCZM2bmfrJvXAOfr) | 6:15 | 2022-03-25 |  |
@@ -84,7 +86,7 @@
 | [海の見える街](https://open.spotify.com/track/15X1ksqhe8cY1NlEZMl7X8) | [Joe Hisaishi](https://open.spotify.com/artist/7nzSoJISlVJsn7O0yTeMOB) | [魔女の宅急便 サントラ音楽集](https://open.spotify.com/album/4lbEQJMTPRqABuBCDkhetC) | 3:00 | 2022-03-25 | 2022-07-29 |
 | [王様ランキング \-メインテーマ\-](https://open.spotify.com/track/1FrE0MDUawjQGqV4rTeOUj) | [MAYUKO](https://open.spotify.com/artist/0DaPPhbajdbIWfFVC8G1OL) | [王様ランキング オリジナルサウンドトラック](https://open.spotify.com/album/5uQAOc824R8ukjh6T1H4R6) | 2:06 | 2022-03-25 |  |
 | [砂の星](https://open.spotify.com/track/7gz7GnLjMSKImEJBFPj8Ie) | [Tsuneo Imahori](https://open.spotify.com/artist/5pfYZjQ34Czl0aQcWxQSmp) | [トライガン THE 2nd Donut HAPPY PACK](https://open.spotify.com/album/0ySwOzWYkqaGrXQp8vJgId) | 3:23 | 2022-03-25 |  |
-| [緋色の瞳の哀歌](https://open.spotify.com/track/1irWWLOWtVG3c4GkB0lO4Q) | [Yoshihisa Hirano](https://open.spotify.com/artist/496DwthDgbHUwWycngajrJ) | [TVアニメ「HUNTER×HUNTER」オリジナル・サウンドトラック](https://open.spotify.com/album/2Dw87Ob66XprXiHKbhifJB) | 1:29 | 2022-03-25 |  |
+| [緋色の瞳の哀歌](https://open.spotify.com/track/1irWWLOWtVG3c4GkB0lO4Q) | [Yoshihisa Hirano](https://open.spotify.com/artist/496DwthDgbHUwWycngajrJ) | [TVアニメ「HUNTER×HUNTER」オリジナル・サウンドトラック](https://open.spotify.com/album/2Dw87Ob66XprXiHKbhifJB) | 1:29 | 2022-03-25 | 2023-10-19 |
 | [風は飛んだ](https://open.spotify.com/track/4tR8zDf56C8S4Mp8tTVTIj) | [Masakatsu Takagi](https://open.spotify.com/artist/7kSP0XY1UueKCMOGJhIV9N) | [バケモノの子 オリジナル・サウンドトラック](https://open.spotify.com/album/22bf6oNIJqyM0FbfDLPN9q) | 2:53 | 2022-03-25 | 2022-07-29 |
 
 \*This playlist was first scraped on 2022-04-19. Prior content cannot be recovered.

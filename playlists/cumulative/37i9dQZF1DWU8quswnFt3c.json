@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Listen to women from all over the world, at full volume. Cover: Moderna de Pueblo",
+  "description": "Listen to women from all over the world, at full volume. Cover: Jillian Mercado",
   "name": "EQUAL Global",
   "tracks": [
     {
@@ -634,7 +634,7 @@
       ],
       "date_added": "2023-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-19",
       "duration_ms": 178770,
       "name": "Afromantik",
       "url": "https://open.spotify.com/track/1Ve0m4eghzmDS7AsST9757"
@@ -1978,7 +1978,7 @@
       ],
       "date_added": "2023-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-19",
       "duration_ms": 250466,
       "name": "Baila Conmigo",
       "url": "https://open.spotify.com/track/5Ypzuth3LKAVgMljAoNfP4"
@@ -2916,6 +2916,24 @@
       "duration_ms": 196812,
       "name": "Bleed",
       "url": "https://open.spotify.com/track/0E2gHFzt7GhBIiEbg0Kixx"
+    },
+    {
+      "album": {
+        "name": "Satisfaction Guaranteed",
+        "url": "https://open.spotify.com/album/1LGNcwOY4Ro9eEDJwohBez"
+      },
+      "artists": [
+        {
+          "name": "Junglepussy",
+          "url": "https://open.spotify.com/artist/6atGQM99IrRfUefJFore1B"
+        }
+      ],
+      "date_added": "2023-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165045,
+      "name": "Bling Bling",
+      "url": "https://open.spotify.com/track/62NhZM0i7RrAThbBmb2vsQ"
     },
     {
       "album": {
@@ -4596,6 +4614,24 @@
       "duration_ms": 195877,
       "name": "Closer (Clothes Off)",
       "url": "https://open.spotify.com/track/23siAc5fhlQ0CnWeXDTdI2"
+    },
+    {
+      "album": {
+        "name": "Co Co Cola",
+        "url": "https://open.spotify.com/album/4sY2eICNs2Mo4E9V4XcKg2"
+      },
+      "artists": [
+        {
+          "name": "Fresh Hot Waffles",
+          "url": "https://open.spotify.com/artist/08n5uvnnkoi2yp5e7VtaLg"
+        }
+      ],
+      "date_added": "2023-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189191,
+      "name": "Co Co Cola",
+      "url": "https://open.spotify.com/track/0DAJDs7F359pkca8oga9rP"
     },
     {
       "album": {
@@ -6662,7 +6698,7 @@
       ],
       "date_added": "2023-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-19",
       "duration_ms": 215251,
       "name": "El Mundo se Equivoca",
       "url": "https://open.spotify.com/track/7ogjcKsVlllK1CcDDMOTxe"
@@ -6912,7 +6948,7 @@
       ],
       "date_added": "2023-09-06",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-14",
+      "date_removed": null,
       "duration_ms": 157974,
       "name": "Energy",
       "url": "https://open.spotify.com/track/60NWySy9UQUs0uhkW8KG3L"
@@ -9676,7 +9712,7 @@
       ],
       "date_added": "2023-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-19",
       "duration_ms": 330053,
       "name": "Hey Boys, Girls",
       "url": "https://open.spotify.com/track/7wVR5OtaiM5oYpQX0G7sJq"
@@ -10099,6 +10135,24 @@
     },
     {
       "album": {
+        "name": "I Am America",
+        "url": "https://open.spotify.com/album/0hdDylmyXxtpZdciiSaQS2"
+      },
+      "artists": [
+        {
+          "name": "Shea Diamond",
+          "url": "https://open.spotify.com/artist/5blcro89qJueGv0DGQ2rsH"
+        }
+      ],
+      "date_added": "2023-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171949,
+      "name": "I Am America",
+      "url": "https://open.spotify.com/track/0MkBDogipPa3FvHzlXsxqO"
+    },
+    {
+      "album": {
         "name": "Free Yourself",
         "url": "https://open.spotify.com/album/09akBiw2Divm9zvF7GMJup"
       },
@@ -10168,6 +10222,24 @@
       "duration_ms": 169405,
       "name": "I Follow",
       "url": "https://open.spotify.com/track/4QZYTmGqtEHngxs10Rd9qB"
+    },
+    {
+      "album": {
+        "name": "I GOT ME",
+        "url": "https://open.spotify.com/album/4iRMqivBw8xYMmudap1aEz"
+      },
+      "artists": [
+        {
+          "name": "DSL",
+          "url": "https://open.spotify.com/artist/3ZfddMr5wPjHHJUCDtKysj"
+        }
+      ],
+      "date_added": "2023-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182031,
+      "name": "I GOT ME",
+      "url": "https://open.spotify.com/track/3uPXrcaYKjUGvzBoh3B4Tc"
     },
     {
       "album": {
@@ -13232,7 +13304,7 @@
       ],
       "date_added": "2023-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-19",
       "duration_ms": 146449,
       "name": "Lo Quiero Todo",
       "url": "https://open.spotify.com/track/26KzmgbbKAVY5czxFxfPjj"
@@ -13852,7 +13924,7 @@
       ],
       "date_added": "2023-09-06",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-12",
+      "date_removed": null,
       "duration_ms": 184000,
       "name": "m00d",
       "url": "https://open.spotify.com/track/45DZdd09Sopo3UOoeJgifU"
@@ -16758,7 +16830,7 @@
       ],
       "date_added": "2023-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-19",
       "duration_ms": 156223,
       "name": "No Te Puto Pilles",
       "url": "https://open.spotify.com/track/4UE6QnE8VNcA0YLct7PKix"
@@ -19530,7 +19602,7 @@
       ],
       "date_added": "2023-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-19",
       "duration_ms": 334680,
       "name": "Resplandeci\u00f3!",
       "url": "https://open.spotify.com/track/5Iejy542BBKRKvJWAR19dK"
@@ -21580,6 +21652,24 @@
       "duration_ms": 197040,
       "name": "Spicy",
       "url": "https://open.spotify.com/track/1ULdASrNy5rurl1TZfFaMP"
+    },
+    {
+      "album": {
+        "name": "SPICY",
+        "url": "https://open.spotify.com/album/5rfjL2dCVzGIGJXbUiEr3N"
+      },
+      "artists": [
+        {
+          "name": "Slayrizz",
+          "url": "https://open.spotify.com/artist/2g9SWtMYaTDIqWxaOBe495"
+        }
+      ],
+      "date_added": "2023-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170526,
+      "name": "SPICY",
+      "url": "https://open.spotify.com/track/5Y83kJUB06cRuQSIboBmYj"
     },
     {
       "album": {

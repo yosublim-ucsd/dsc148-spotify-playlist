@@ -1,12 +1,12 @@
 {
   "description": "Music from \"Idle Master SideM\". \u30a2\u30a4\u30c9\u30eb\u30de\u30b9\u30bf\u30fcSideM\u306e\u697d\u66f2\u30921\u3064\u306e\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u3067\u3002THE IDOLM@STER\u2122& \u00a9Bandai Namco Entertainment Inc.\n",
-  "num_followers": 21778,
+  "num_followers": 21783,
   "original_name": "THE IDOLM@STER SideM \u30a2\u30a4\u30c9\u30eb\u30de\u30b9\u30bf\u30fc SideM",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5ODM4ODliZTc1MTVlNGExMDc2MDY4Mzk1NTk0M2E4YzQyYmUwYmM0",
+  "snapshot_id": "MCw4OWNkNWFlMDJkOTkyOGFmNjMxYTNiNmE2MzExMDE1NTFkY2M2NGY2",
   "tracks": [
     {
       "added_at": "2023-05-09 15:56:06",
@@ -751,22 +751,6 @@
     {
       "added_at": "2023-05-09 15:56:06",
       "album": {
-        "name": "THE IDOLM@STER SideM ST@RTING LINE-01 Jupiter",
-        "url": "https://open.spotify.com/album/22IQ39FuyEE3gXT8wAW9n1"
-      },
-      "artists": [
-        {
-          "name": "Jupiter",
-          "url": "https://open.spotify.com/artist/3lJVQgWgaTtaIQxlNEHTpE"
-        }
-      ],
-      "duration_ms": 362466,
-      "name": "BRAND NEW FIELD",
-      "url": "https://open.spotify.com/track/1NxXF8uyBimRd8uSiutGts"
-    },
-    {
-      "added_at": "2023-05-09 15:56:06",
-      "album": {
         "name": "THE IDOLM@STER SideM ST@RTING LINE-10 Caf\u00e9 Parade",
         "url": "https://open.spotify.com/album/5PYzkS3XSiEarnYmQR3r1f"
       },
@@ -779,6 +763,22 @@
       "duration_ms": 284946,
       "name": "Caf\u00e9 Parade!",
       "url": "https://open.spotify.com/track/70jhHM0UPSr25v8yhcA2p7"
+    },
+    {
+      "added_at": "2023-05-09 15:56:06",
+      "album": {
+        "name": "THE IDOLM@STER SideM ST@RTING LINE-01 Jupiter",
+        "url": "https://open.spotify.com/album/22IQ39FuyEE3gXT8wAW9n1"
+      },
+      "artists": [
+        {
+          "name": "Jupiter",
+          "url": "https://open.spotify.com/artist/3lJVQgWgaTtaIQxlNEHTpE"
+        }
+      ],
+      "duration_ms": 362466,
+      "name": "BRAND NEW FIELD",
+      "url": "https://open.spotify.com/track/1NxXF8uyBimRd8uSiutGts"
     },
     {
       "added_at": "2023-05-09 15:56:06",
@@ -815,18 +815,18 @@
     {
       "added_at": "2023-05-09 15:56:06",
       "album": {
-        "name": "THE IDOLM@STER SideM 49 ELEMENTS -07 Altessimo",
-        "url": "https://open.spotify.com/album/3vjUKQMaJjm1pc3RLhziH4"
+        "name": "THE IDOLM@STER SideM 49 ELEMENTS -09 FRAME",
+        "url": "https://open.spotify.com/album/79Tij9DwEitAmsRHck6aD6"
       },
       "artists": [
         {
-          "name": "\u90fd\u7bc9 \u572d (CV.\u571f\u5c90\u96bc\u4e00)",
-          "url": "https://open.spotify.com/artist/4uLjWMjKIIfL9EIjR6vnQx"
+          "name": "\u6728\u6751 \u9f8d (CV.\u6ff1 \u5065\u4eba)",
+          "url": "https://open.spotify.com/artist/4Cdt0igkAmL0CvIvi6x7ie"
         }
       ],
-      "duration_ms": 309866,
-      "name": "Resonate Blessing",
-      "url": "https://open.spotify.com/track/4Wb3NyRgnl8o3helEmmCUm"
+      "duration_ms": 222493,
+      "name": "SPARKLE SIGN",
+      "url": "https://open.spotify.com/track/0pMPm7ylpawoWSFzFin9JS"
     },
     {
       "added_at": "2023-05-09 15:56:06",
@@ -863,18 +863,34 @@
     {
       "added_at": "2023-05-09 15:56:06",
       "album": {
-        "name": "THE IDOLM@STER SideM 49 ELEMENTS -09 FRAME",
-        "url": "https://open.spotify.com/album/79Tij9DwEitAmsRHck6aD6"
+        "name": "THE IDOLM@STER SideM 3rd ANNIVERSARY 01",
+        "url": "https://open.spotify.com/album/0pKniFFDpwItfygikcY5BG"
       },
       "artists": [
         {
-          "name": "\u6728\u6751 \u9f8d (CV.\u6ff1 \u5065\u4eba)",
-          "url": "https://open.spotify.com/artist/4Cdt0igkAmL0CvIvi6x7ie"
+          "name": "Caf\u00e9 Parade",
+          "url": "https://open.spotify.com/artist/1uTDh4CLd762oal0htQQXe"
         }
       ],
-      "duration_ms": 222493,
-      "name": "SPARKLE SIGN",
-      "url": "https://open.spotify.com/track/0pMPm7ylpawoWSFzFin9JS"
+      "duration_ms": 320733,
+      "name": "Reversed Masquerade",
+      "url": "https://open.spotify.com/track/7KNQtN04Y4J4NOrRsQ9clC"
+    },
+    {
+      "added_at": "2023-05-09 15:56:06",
+      "album": {
+        "name": "THE IDOLM@STER SideM 49 ELEMENTS -07 Altessimo",
+        "url": "https://open.spotify.com/album/3vjUKQMaJjm1pc3RLhziH4"
+      },
+      "artists": [
+        {
+          "name": "\u90fd\u7bc9 \u572d (CV.\u571f\u5c90\u96bc\u4e00)",
+          "url": "https://open.spotify.com/artist/4uLjWMjKIIfL9EIjR6vnQx"
+        }
+      ],
+      "duration_ms": 309866,
+      "name": "Resonate Blessing",
+      "url": "https://open.spotify.com/track/4Wb3NyRgnl8o3helEmmCUm"
     },
     {
       "added_at": "2023-05-09 15:56:06",
@@ -895,22 +911,6 @@
     {
       "added_at": "2023-05-09 15:56:06",
       "album": {
-        "name": "THE IDOLM@STER SideM 3rd ANNIVERSARY 01",
-        "url": "https://open.spotify.com/album/0pKniFFDpwItfygikcY5BG"
-      },
-      "artists": [
-        {
-          "name": "Caf\u00e9 Parade",
-          "url": "https://open.spotify.com/artist/1uTDh4CLd762oal0htQQXe"
-        }
-      ],
-      "duration_ms": 320733,
-      "name": "Reversed Masquerade",
-      "url": "https://open.spotify.com/track/7KNQtN04Y4J4NOrRsQ9clC"
-    },
-    {
-      "added_at": "2023-05-09 15:56:06",
-      "album": {
         "name": "THE IDOLM@STER SideM 5th ANNIVERSARY 01 PRIDE STAR",
         "url": "https://open.spotify.com/album/1isS51QfmONRHsnfdjpWwz"
       },
@@ -927,8 +927,8 @@
     {
       "added_at": "2023-05-09 15:56:06",
       "album": {
-        "name": "THE IDOLM@STER SideM NEW STAGE EPISODE:10 Legenders",
-        "url": "https://open.spotify.com/album/6toX8zfhUlEu86UnctM9RM"
+        "name": "THE IDOLM@STER SideM 5th ANNIVERSARY 04",
+        "url": "https://open.spotify.com/album/5Yet8gOB7zDw4ao5hA0WNS"
       },
       "artists": [
         {
@@ -936,29 +936,25 @@
           "url": "https://open.spotify.com/artist/4iG460lxCJz1J6UYEbYxTR"
         }
       ],
-      "duration_ms": 279786,
-      "name": "FOCUS ON YOUR LIFE",
-      "url": "https://open.spotify.com/track/3QFYE3SwxDx0e0WRpYjV5I"
+      "duration_ms": 278026,
+      "name": "Make New Legend",
+      "url": "https://open.spotify.com/track/4TzriFqTsiD4AMR0FBuXtA"
     },
     {
       "added_at": "2023-05-09 15:56:06",
       "album": {
-        "name": "THE IDOLM@STER SideM 2nd ANNIVERSARY 01",
-        "url": "https://open.spotify.com/album/4M8yao8zlVcUWmUGZM9oV3"
+        "name": "THE IDOLM@STER SideM GROWING SIGN@L 04 Caf\u00e9 Parade",
+        "url": "https://open.spotify.com/album/3EteBuYZu6JQTPNRefCAHH"
       },
       "artists": [
         {
-          "name": "DRAMATIC STARS",
-          "url": "https://open.spotify.com/artist/2CWofGLdKLyd0wUbm5IN43"
-        },
-        {
-          "name": "High Joker",
-          "url": "https://open.spotify.com/artist/4Qn0EFzGoSFtjE70XmB4Ec"
+          "name": "Caf\u00e9 Parade",
+          "url": "https://open.spotify.com/artist/1uTDh4CLd762oal0htQQXe"
         }
       ],
-      "duration_ms": 298600,
-      "name": "\u591c\u7a7a\u3092\u714c\u3081\u304f\u661f\u306e\u3088\u3046\u306b",
-      "url": "https://open.spotify.com/track/5UKLEjFhNV3EeP7UjpL2nD"
+      "duration_ms": 253920,
+      "name": "Teatime Clich\u00e9",
+      "url": "https://open.spotify.com/track/1qMk88tvIVATrXmW3KCsHt"
     },
     {
       "added_at": "2023-05-09 15:56:06",
@@ -979,18 +975,22 @@
     {
       "added_at": "2023-05-09 15:56:06",
       "album": {
-        "name": "THE IDOLM@STER SideM GROWING SIGN@L 04 Caf\u00e9 Parade",
-        "url": "https://open.spotify.com/album/3EteBuYZu6JQTPNRefCAHH"
+        "name": "THE IDOLM@STER SideM 2nd ANNIVERSARY 01",
+        "url": "https://open.spotify.com/album/4M8yao8zlVcUWmUGZM9oV3"
       },
       "artists": [
         {
-          "name": "Caf\u00e9 Parade",
-          "url": "https://open.spotify.com/artist/1uTDh4CLd762oal0htQQXe"
+          "name": "DRAMATIC STARS",
+          "url": "https://open.spotify.com/artist/2CWofGLdKLyd0wUbm5IN43"
+        },
+        {
+          "name": "High Joker",
+          "url": "https://open.spotify.com/artist/4Qn0EFzGoSFtjE70XmB4Ec"
         }
       ],
-      "duration_ms": 253920,
-      "name": "Teatime Clich\u00e9",
-      "url": "https://open.spotify.com/track/1qMk88tvIVATrXmW3KCsHt"
+      "duration_ms": 298600,
+      "name": "\u591c\u7a7a\u3092\u714c\u3081\u304f\u661f\u306e\u3088\u3046\u306b",
+      "url": "https://open.spotify.com/track/5UKLEjFhNV3EeP7UjpL2nD"
     },
     {
       "added_at": "2023-05-09 15:56:06",
@@ -1043,8 +1043,8 @@
     {
       "added_at": "2023-05-09 15:56:06",
       "album": {
-        "name": "THE IDOLM@STER SideM 5th ANNIVERSARY 04",
-        "url": "https://open.spotify.com/album/5Yet8gOB7zDw4ao5hA0WNS"
+        "name": "THE IDOLM@STER SideM NEW STAGE EPISODE:10 Legenders",
+        "url": "https://open.spotify.com/album/6toX8zfhUlEu86UnctM9RM"
       },
       "artists": [
         {
@@ -1052,9 +1052,9 @@
           "url": "https://open.spotify.com/artist/4iG460lxCJz1J6UYEbYxTR"
         }
       ],
-      "duration_ms": 278026,
-      "name": "Make New Legend",
-      "url": "https://open.spotify.com/track/4TzriFqTsiD4AMR0FBuXtA"
+      "duration_ms": 279786,
+      "name": "FOCUS ON YOUR LIFE",
+      "url": "https://open.spotify.com/track/3QFYE3SwxDx0e0WRpYjV5I"
     },
     {
       "added_at": "2023-05-09 15:56:06",
@@ -1167,22 +1167,6 @@
     {
       "added_at": "2023-05-09 15:56:06",
       "album": {
-        "name": "THE IDOLM@STER SideM ORIGIN@L PIECES 08",
-        "url": "https://open.spotify.com/album/6QEUejxA2SoviwNNtk66rh"
-      },
-      "artists": [
-        {
-          "name": "\u6e21\u8fba\u307f\u306e\u308a (CV.\u9ad8\u585a\u667a\u4eba)",
-          "url": "https://open.spotify.com/artist/0X5yOApIvHeL7vb0hfmT9V"
-        }
-      ],
-      "duration_ms": 238000,
-      "name": "Cherish BOUQUET",
-      "url": "https://open.spotify.com/track/75krmbyTl57cAF2QMZpN8U"
-    },
-    {
-      "added_at": "2023-05-09 15:56:06",
-      "album": {
         "name": "THE IDOLM@STER SideM 49 ELEMENTS -07 Altessimo",
         "url": "https://open.spotify.com/album/3vjUKQMaJjm1pc3RLhziH4"
       },
@@ -1199,18 +1183,18 @@
     {
       "added_at": "2023-05-09 15:56:06",
       "album": {
-        "name": "THE IDOLM@STER SideM 49 ELEMENTS -10 F-LAGS",
-        "url": "https://open.spotify.com/album/7Aet8iBpl9L98DW9Xh1gSh"
+        "name": "THE IDOLM@STER SideM ORIGIN@L PIECES 08",
+        "url": "https://open.spotify.com/album/6QEUejxA2SoviwNNtk66rh"
       },
       "artists": [
         {
-          "name": "\u515c \u5927\u543e (CV.\u6d66\u5c3e\u5cb3\u5927)",
-          "url": "https://open.spotify.com/artist/36v06McO13MtRuzHchy9W5"
+          "name": "\u6e21\u8fba\u307f\u306e\u308a (CV.\u9ad8\u585a\u667a\u4eba)",
+          "url": "https://open.spotify.com/artist/0X5yOApIvHeL7vb0hfmT9V"
         }
       ],
-      "duration_ms": 234120,
-      "name": "SASH OF SMILE",
-      "url": "https://open.spotify.com/track/2FMynFjE0WU3DfIgRPOqoS"
+      "duration_ms": 238000,
+      "name": "Cherish BOUQUET",
+      "url": "https://open.spotify.com/track/75krmbyTl57cAF2QMZpN8U"
     },
     {
       "added_at": "2023-05-09 15:56:06",
@@ -1227,6 +1211,22 @@
       "duration_ms": 229466,
       "name": "Tick Tack Voice",
       "url": "https://open.spotify.com/track/14YHpYBMqMBVleSgdwkpDG"
+    },
+    {
+      "added_at": "2023-05-09 15:56:06",
+      "album": {
+        "name": "THE IDOLM@STER SideM 49 ELEMENTS -10 F-LAGS",
+        "url": "https://open.spotify.com/album/7Aet8iBpl9L98DW9Xh1gSh"
+      },
+      "artists": [
+        {
+          "name": "\u515c \u5927\u543e (CV.\u6d66\u5c3e\u5cb3\u5927)",
+          "url": "https://open.spotify.com/artist/36v06McO13MtRuzHchy9W5"
+        }
+      ],
+      "duration_ms": 234120,
+      "name": "SASH OF SMILE",
+      "url": "https://open.spotify.com/track/2FMynFjE0WU3DfIgRPOqoS"
     },
     {
       "added_at": "2023-05-09 15:56:06",

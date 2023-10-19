@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 
 > Brand new music from Holly Humberstone \(pictured\), Ice Spice, Fred Again.\. and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 839,808 likes - 151 songs - 8 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 839,870 likes - 151 songs - 8 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -146,7 +146,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 | 136 | [Horizon \(feat\. Hayley May\)](https://open.spotify.com/track/5R3pU0HERxKwZadhJQatAu) | [SAINT](https://open.spotify.com/artist/2XzayuOUUjbWK65LzwHKuX), [Hayley May](https://open.spotify.com/artist/1WcwbtAnG5HWNbPPK84ued) | [Horizon \(feat\. Hayley May\)](https://open.spotify.com/album/408Ah3T2ikblxMFOw8dUKa) | 2:58 |
 | 137 | [Hanging](https://open.spotify.com/track/6khrKsm3I0OJb4WB5Ogs2j) | [Marika Hackman](https://open.spotify.com/artist/5DGJC3n9DS0Y9eY5ul9y0O) | [Hanging](https://open.spotify.com/album/5eUMYmDc1TKLZW7NSEafUz) | 3:53 |
 | 138 | [Ghost Town](https://open.spotify.com/track/1N9Ovp3h6SYLvNbDHKcSDH) | [New Rules](https://open.spotify.com/artist/75ois9nn8xMuOgVk2oCN1C) | [Ghost Town](https://open.spotify.com/album/0w4sgZBTkihYfxTQltEVBZ) | 2:28 |
-| 139 | [Risk](https://open.spotify.com/track/4rJbBfrN5oYmRAmD6oxSUZ) | [Valiant](https://open.spotify.com/artist/7dvG18F378r7HRxmiHn3ti) | [Risk](https://open.spotify.com/album/2sbDTQLtgtpQRD31FkPhRs) | 2:12 |
+| 139 | [Risk](https://open.spotify.com/track/4rJbBfrN5oYmRAmD6oxSUZ) | [Valiant](https://open.spotify.com/artist/0t2CCmcm3r3IXyJxOFDYvj) | [Risk](https://open.spotify.com/album/2sbDTQLtgtpQRD31FkPhRs) | 2:12 |
 | 140 | [Sex](https://open.spotify.com/track/3qpNfjRJivBWKFjwsY4Lke) | [Greta Jaime](https://open.spotify.com/artist/2L5LSUhkLo20iqPTNA5aC5) | [Sex](https://open.spotify.com/album/2ZseJwtxhilEmaU2G54jiJ) | 3:05 |
 | 141 | [Waste My Time](https://open.spotify.com/track/6Dy8UR9dhacqq6BJlumXN1) | [DJ Zinc](https://open.spotify.com/artist/1cwlYsgHBYvLzT4C24AliQ), [HEIGHTS](https://open.spotify.com/artist/5EdogtWIzqFv45sdk6ePZH) | [Waste My Time](https://open.spotify.com/album/72xrwHrXihuGZxJiliuFdz) | 2:25 |
 | 142 | [Pushkar](https://open.spotify.com/track/6qbTfnklk235Hv0l0jINUU) | [Matthew And The Atlas](https://open.spotify.com/artist/0lSENl3bteP8p2NbiSP7RM) | [This Place We Live](https://open.spotify.com/album/2lOAk2XdbNIJtbEUma7rUd) | 3:23 |
@@ -160,4 +160,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 | 150 | [Yours Is Mine](https://open.spotify.com/track/0rRyjPKS0ZcFbWITboVczH) | [Tilly Valentine](https://open.spotify.com/artist/26xnf09CoXKte8d2MSOCSP) | [Yours Is Mine](https://open.spotify.com/album/5vQPNrGgOX2tNKy6DJGpiZ) | 2:42 |
 | 151 | [TK421](https://open.spotify.com/track/58d6jpiFmElbSX36MnnGFO) | [Lenny Kravitz](https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7) | [TK421](https://open.spotify.com/album/7IncAEknANwQthqiwWySBP) | 3:15 |
 
-Snapshot ID: `MCw0MTM3ZDhlMzk5YjM0ZWIxNDQwODNjYWY5YmU0ZTFhZDc3ZmJmNTc3`
+Snapshot ID: `MCwxN2JiNjllZTIwNjAyYzIyZmY0YjEzMjY1NmU1MTdmMzc3MjJhYzRk`

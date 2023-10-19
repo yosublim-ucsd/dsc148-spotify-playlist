@@ -1,12 +1,12 @@
 {
   "description": "Brighten your day with a mix of folksy mood boosters.",
-  "num_followers": 1964949,
+  "num_followers": 1965029,
   "original_name": "Happy Folk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzOTQzMTZmN2QwMDc2ZTI1NTEzMmIyN2JhNDc2NTA5NzExMWNhMTY0",
+  "snapshot_id": "MCw2MzUyZGNiNDY3OTI2OTFhMDUwNmY5MjE1NmNkYWNiNzZiMWJkNDU1",
   "tracks": [
     {
       "added_at": "2023-10-06 04:00:00",
@@ -783,22 +783,6 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
-        "name": "Chlo\u00eb and the Next 20th Century",
-        "url": "https://open.spotify.com/album/2tfg6zi5pwuYeQ0IHYnOBz"
-      },
-      "artists": [
-        {
-          "name": "Father John Misty",
-          "url": "https://open.spotify.com/artist/2kGBy2WHvF0VdZyqiVCkDT"
-        }
-      ],
-      "duration_ms": 300240,
-      "name": "Goodbye Mr. Blue",
-      "url": "https://open.spotify.com/track/7ydJaSdC8Au68eYgspNznY"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
         "name": "Time in the Sun",
         "url": "https://open.spotify.com/album/4zDxvE6VjZfELyXA13kLmn"
       },
@@ -811,6 +795,22 @@
       "duration_ms": 151515,
       "name": "Get Down",
       "url": "https://open.spotify.com/track/1uWp3OTBE1pryDJ4igGD1q"
+    },
+    {
+      "added_at": "2023-10-06 04:00:00",
+      "album": {
+        "name": "Chlo\u00eb and the Next 20th Century",
+        "url": "https://open.spotify.com/album/2tfg6zi5pwuYeQ0IHYnOBz"
+      },
+      "artists": [
+        {
+          "name": "Father John Misty",
+          "url": "https://open.spotify.com/artist/2kGBy2WHvF0VdZyqiVCkDT"
+        }
+      ],
+      "duration_ms": 300240,
+      "name": "Goodbye Mr. Blue",
+      "url": "https://open.spotify.com/track/7ydJaSdC8Au68eYgspNznY"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -1183,22 +1183,6 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
-        "name": "To the North",
-        "url": "https://open.spotify.com/album/0cKaHI9t8EnlykFdIRspw3"
-      },
-      "artists": [
-        {
-          "name": "Matthew And The Atlas",
-          "url": "https://open.spotify.com/artist/0lSENl3bteP8p2NbiSP7RM"
-        }
-      ],
-      "duration_ms": 206546,
-      "name": "I Will Remain",
-      "url": "https://open.spotify.com/track/52VPecMGJQOxyWWWgnUvsI"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
         "name": "Shaky Ground",
         "url": "https://open.spotify.com/album/1iYLinQ11V4WmuiHsu1Ryd"
       },
@@ -1211,6 +1195,22 @@
       "duration_ms": 192893,
       "name": "Shaky Ground",
       "url": "https://open.spotify.com/track/0VCveHO3AX0OLRuTgpBKBJ"
+    },
+    {
+      "added_at": "2023-10-06 04:00:00",
+      "album": {
+        "name": "To the North",
+        "url": "https://open.spotify.com/album/0cKaHI9t8EnlykFdIRspw3"
+      },
+      "artists": [
+        {
+          "name": "Matthew And The Atlas",
+          "url": "https://open.spotify.com/artist/0lSENl3bteP8p2NbiSP7RM"
+        }
+      ],
+      "duration_ms": 206546,
+      "name": "I Will Remain",
+      "url": "https://open.spotify.com/track/52VPecMGJQOxyWWWgnUvsI"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -1375,22 +1375,6 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
-        "name": "Skinny Dipping & Mimosas",
-        "url": "https://open.spotify.com/album/4yY92T0NRLnppExi4svTOY"
-      },
-      "artists": [
-        {
-          "name": "The 502s",
-          "url": "https://open.spotify.com/artist/4sIuoDOzSlBqeiNJl631zX"
-        }
-      ],
-      "duration_ms": 163717,
-      "name": "Skinny Dipping & Mimosas",
-      "url": "https://open.spotify.com/track/76AnTndNpHDAuUqjXrqE4c"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
         "name": "Hold Me",
         "url": "https://open.spotify.com/album/4gVu2VoV5kV8g6ihNLWfFS"
       },
@@ -1403,6 +1387,22 @@
       "duration_ms": 172446,
       "name": "Hold Me",
       "url": "https://open.spotify.com/track/5P8ldnOsScd9aMlQMKucb6"
+    },
+    {
+      "added_at": "2023-10-06 04:00:00",
+      "album": {
+        "name": "Skinny Dipping & Mimosas",
+        "url": "https://open.spotify.com/album/4yY92T0NRLnppExi4svTOY"
+      },
+      "artists": [
+        {
+          "name": "The 502s",
+          "url": "https://open.spotify.com/artist/4sIuoDOzSlBqeiNJl631zX"
+        }
+      ],
+      "duration_ms": 163717,
+      "name": "Skinny Dipping & Mimosas",
+      "url": "https://open.spotify.com/track/76AnTndNpHDAuUqjXrqE4c"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -1619,22 +1619,6 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
-        "name": "Different Kinds of Light",
-        "url": "https://open.spotify.com/album/1f1u0MpV823YGBjQBb8JJ9"
-      },
-      "artists": [
-        {
-          "name": "Jade Bird",
-          "url": "https://open.spotify.com/artist/7D8LuVnlyu91ndcPe70j7S"
-        }
-      ],
-      "duration_ms": 142818,
-      "name": "Headstart",
-      "url": "https://open.spotify.com/track/7pwv5cbW7hj4HVv3US4XUT"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
         "name": "Life's What You Make It",
         "url": "https://open.spotify.com/album/2p1lJKQNcodNZVqsuFq6H2"
       },
@@ -1647,6 +1631,22 @@
       "duration_ms": 186109,
       "name": "Life's What You Make It",
       "url": "https://open.spotify.com/track/5rRDCbF97rcJW0ES9RhPhC"
+    },
+    {
+      "added_at": "2023-10-06 04:00:00",
+      "album": {
+        "name": "Different Kinds of Light",
+        "url": "https://open.spotify.com/album/1f1u0MpV823YGBjQBb8JJ9"
+      },
+      "artists": [
+        {
+          "name": "Jade Bird",
+          "url": "https://open.spotify.com/artist/7D8LuVnlyu91ndcPe70j7S"
+        }
+      ],
+      "duration_ms": 142818,
+      "name": "Headstart",
+      "url": "https://open.spotify.com/track/7pwv5cbW7hj4HVv3US4XUT"
     }
   ],
   "unique_name": "Happy Folk",

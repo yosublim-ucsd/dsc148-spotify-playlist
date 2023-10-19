@@ -4,7 +4,7 @@
 
 > It's Hits – största och bästa hitsen just nu!
 
-580 songs - 1 day 5 hr 13 min
+581 songs - 1 day 5 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -199,7 +199,7 @@
 | [Gata](https://open.spotify.com/track/7N0a0QhkOE5g4zbpJeHWpp) | [Ant Wan](https://open.spotify.com/artist/51TXQniEQkYh89tfLjiuSy) | [Gata](https://open.spotify.com/album/2rlOVzymMvw3H6hUmRiiJs) | 2:35 | 2023-02-27 | 2023-04-01 |
 | [Genom Dalarna](https://open.spotify.com/track/2izd2Ke23axCcWGUkAyKyG) | [Kuselofte](https://open.spotify.com/artist/5nIPWm5XA6Cy6zVYkjpCe2) | [Genom Dalarna](https://open.spotify.com/album/7qT77qFCP5oiA1PIb9eZeW) | 2:42 | 2022-11-05 | 2022-11-25 |
 | [Genom eld \- Spotify Singles](https://open.spotify.com/track/2JbyhLIxJLeUtFz5hYR4Bi) | [BELL](https://open.spotify.com/artist/2MnEe6M7ibhg3RAG0Ydtp4) | [Genom eld \(Spotify Singles\)](https://open.spotify.com/album/4VKWJKb38zp0Af7WURVc0n) | 2:46 | 2023-04-27 | 2023-07-14 |
-| [Gently \(feat\. Bad Bunny\)](https://open.spotify.com/track/6ZprqcYFC6D9eIZaCoqrSn) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [For All The Dogs](https://open.spotify.com/album/4czdORdCWP9umpbhFXK2fW) | 2:13 | 2023-10-06 |  |
+| [Gently \(feat\. Bad Bunny\)](https://open.spotify.com/track/6ZprqcYFC6D9eIZaCoqrSn) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [For All The Dogs](https://open.spotify.com/album/4czdORdCWP9umpbhFXK2fW) | 2:13 | 2023-10-06 | 2023-10-19 |
 | [get him back!](https://open.spotify.com/track/2gyxAWHebV7xPYVxqoi86f) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [GUTS](https://open.spotify.com/album/1xJHno7SmdVtZAtXbdbDZp) | 3:31 | 2023-09-08 | 2023-09-29 |
 | [GHOST TOWN](https://open.spotify.com/track/135Lf4Q0CzlMNfOxbEUsLH) | [Benson Boone](https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET) | [GHOST TOWN](https://open.spotify.com/album/4NTDxbwbo2rMGMm6U9UAEP) | 3:13 | 2021-12-16 | 2022-04-22 |
 | [Gimme Love](https://open.spotify.com/track/5o4XJKRxUK6nXhFLAIS33A) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Gimme Love](https://open.spotify.com/album/4jLwuz6VaUKuIiS799cU2z) | 2:57 | 2023-09-14 |  |
@@ -267,6 +267,7 @@
 | [I'm Not Here To Make Friends](https://open.spotify.com/track/3i0FkJYlU4MFfYkjFHXXAM) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI), [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY), [Jessie Reyez](https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P) | [Gloria](https://open.spotify.com/album/3Uq1jNGnD412ZvCb6j2DKV) | 3:49 | 2023-02-02 | 2023-02-10 |
 | [I'm Tired \- From "Euphoria" An HBO Original Series](https://open.spotify.com/track/6LtHYDgYHRCHoKK3snfr2w) | [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7), [Zendaya](https://open.spotify.com/artist/6sCbFbEjbYepqswM1vWjjs) | [I'm Tired \(From "Euphoria" An HBO Original Series\)](https://open.spotify.com/album/28phJkFTSPLnwo555dFLKu) | 3:07 | 2022-03-03 | 2022-04-08 |
 | [I'm Tired \- From "Euphoria" An Original HBO Series](https://open.spotify.com/track/2QH0jR41d11GTubjRSRdJo) | [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7) | [Yeh I Fuckin' Did It / I'm Tired \(From "Euphoria" An Original HBO Series\)](https://open.spotify.com/album/48kRTccY4Ii9qyoT6fxRVh) | 2:37 | 2022-02-03 | 2022-02-11 |
+| [IDGAF \(feat\. Yeat\)](https://open.spotify.com/track/2YSzYUF3jWqb9YP9VXmpjE) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx) | [For All The Dogs](https://open.spotify.com/album/4czdORdCWP9umpbhFXK2fW) | 4:20 | 2023-10-18 |  |
 | [IDGAF \(with blackbear\)](https://open.spotify.com/track/6Jrdb6CFOJEGaHjaa6c4WR) | [BoyWithUke](https://open.spotify.com/artist/1Cd373x8qzC7SNUg5IToqp), [blackbear](https://open.spotify.com/artist/2cFrymmkijnjDg9SS92EPM) | [IDGAF](https://open.spotify.com/album/3XEOlBcb076IIUTSr98AMu) | 2:20 | 2022-03-23 | 2022-04-15 |
 | [If We Ever Broke Up](https://open.spotify.com/track/6maTPqynTmrkWIralgGaoP) | [Mae Stephens](https://open.spotify.com/artist/311uEW9rt5g2NmzjGEKS2E) | [If We Ever Broke Up](https://open.spotify.com/album/4eadTzshRApGna6Ppz5XwO) | 2:22 | 2023-02-09 | 2023-03-25 |
 | [Ikväll Igen](https://open.spotify.com/track/4o5Ob60pz8QHcFKcr4MWyf) | [Bolaget](https://open.spotify.com/artist/55ZGFvikpNjQHvtTWS5aZF) | [Ikväll Igen](https://open.spotify.com/album/1ivEkyr50tSXBwwZ8z7E32) | 2:17 | 2023-04-12 |  |

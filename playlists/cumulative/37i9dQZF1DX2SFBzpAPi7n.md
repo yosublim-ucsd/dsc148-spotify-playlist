@@ -2,9 +2,9 @@
 
 ### [Cool K'IDs Rock](https://open.spotify.com/playlist/37i9dQZF1DX2SFBzpAPi7n)
 
-> K'ID = Korean ID\. Welcome to the K\-Rock anthem! \(Cover: Xdinary Heros\) \(핫한 국내 록 음악을 만나보세요!\)
+> K'ID = Korean ID\. Welcome to the K\-Rock anthem! \(Cover: QWER\) \(핫한 국내 록 음악을 만나보세요!\)
 
-531 songs - 1 day 8 hr 37 min
+532 songs - 1 day 8 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -101,6 +101,7 @@
 | [Desert Eagle](https://open.spotify.com/track/6QWvs1y2hXMwEswdJ8TiIU) | [Silica Gel](https://open.spotify.com/artist/2kxVxKOgoefmgkwoHipHsn) | [Desert Eagle](https://open.spotify.com/album/3z3iDsyby0fu7TxpQ74OrO) | 5:09 | 2022-04-22 | 2022-07-22 |
 | [Diamond](https://open.spotify.com/track/5ZmmsJEfOJu5b7JzsLsjFT) | [9duck](https://open.spotify.com/artist/5qGrtWZ90pILRYjvawmTro) | [My Liberation Notes OST Part 8](https://open.spotify.com/album/4TPylqoJdF8ELf8IwTrquV) | 3:04 | 2022-05-24 | 2022-06-21 |
 | [DIAMOND](https://open.spotify.com/track/6uGQf0XAjHkXooeSk3fFAB) | [The VANE](https://open.spotify.com/artist/2zWjCnsFalXdhQ2jxb29Hw) | [DIAMOND](https://open.spotify.com/album/7KE2RqHy21ZGDYNoNCTdw5) | 5:24 | 2022-09-05 | 2022-10-01 |
+| [Discord](https://open.spotify.com/track/2kTKlEtnGx5z8oi4O06yqC) | [QWER](https://open.spotify.com/artist/0XufO9nLOKNN0w0qNrDrZy) | [1st Single Album 'Harmony from Discord'](https://open.spotify.com/album/0AmeepTU81c9ghVpJpacNc) | 2:47 | 2023-10-18 |  |
 | [DIVE](https://open.spotify.com/track/7CBnUjo3qL7c8p129PFqzb) | [Jinyoung](https://open.spotify.com/artist/0cA67OQaC4zDkxvGmWqKu7) | [DIVE](https://open.spotify.com/album/4uyM4cCQB9dS18W7YQ1MaH) | 3:19 | 2022-04-12 | 2023-08-24 |
 | [Dive](https://open.spotify.com/track/7yNK1wbcoFYckChKRRWuny) | [TOMMIER](https://open.spotify.com/artist/5Ew54mXT7GnPjS29Z4RVpg) | [Dive](https://open.spotify.com/album/3m0EapQi3Q4YAVaW1RIOeD) | 3:41 | 2022-04-21 | 2022-05-31 |
 | [Do](https://open.spotify.com/track/6tStqbjbMdMRzRWWNvlnqI) | [Chang Kiha](https://open.spotify.com/artist/2kppzekGp379T3M56GYd7d) | [Do / Do or Don't](https://open.spotify.com/album/3se0GBdgs53DJXR7CJb9l6) | 3:41 | 2023-04-05 | 2023-04-15 |
@@ -415,7 +416,7 @@
 | [Still Here](https://open.spotify.com/track/7nVhKlC4JktgjoUXLdhly2) | [ONEWE](https://open.spotify.com/artist/4D9foUQxTrsS0w2BeyCD16) | [Still Here](https://open.spotify.com/album/1vhPhbQYVSAuDI8ZKsG0VU) | 3:39 | 2022-10-05 | 2022-11-13 |
 | [Still Life](https://open.spotify.com/track/3TSLqZssCoCdDlMhCJ08XW) | [BIGBANG](https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX) | [Still Life](https://open.spotify.com/album/2oCAY48bhZvQte0l7apmYC) | 3:08 | 2022-04-12 |  |
 | [stuck on you](https://open.spotify.com/track/71mRT3HNtB6KIialwvjnfE) | [Kim Hye Rim](https://open.spotify.com/artist/5eKQbKV7Khdo1RjmkbzbTT) | [stuck on you](https://open.spotify.com/album/1lizyEQ39gw9rjafMyyYZY) | 3:25 | 2022-07-22 | 2022-08-02 |
-| [Summer](https://open.spotify.com/track/4JmRth9mDEINhUNIpDYLQi) | [JANNABI](https://open.spotify.com/artist/2SY6OktZyMLdOnscX3DCyS) | [MONKEY HOTEL](https://open.spotify.com/album/7l4uULQ4qODIw5MSlLDM3r) | 4:03 | 2022-05-03 |  |
+| [Summer](https://open.spotify.com/track/4JmRth9mDEINhUNIpDYLQi) | [JANNABI](https://open.spotify.com/artist/2SY6OktZyMLdOnscX3DCyS) | [MONKEY HOTEL](https://open.spotify.com/album/7l4uULQ4qODIw5MSlLDM3r) | 4:03 | 2022-05-03 | 2023-10-19 |
 | [Summer](https://open.spotify.com/track/55FLC4BaLbUr7plCVL0j1e) | [Youth Hostel](https://open.spotify.com/artist/73VQvHkpR7ZCn8SOqTqtzK) | [Youth Hostel](https://open.spotify.com/album/1nbMITy1nsScR47Pd4zWJ6) | 2:58 | 2022-09-05 | 2022-10-01 |
 | [Summer Nostalgia](https://open.spotify.com/track/6AaI8NkeP0Yaw2r2tSg6uv) | [415](https://open.spotify.com/artist/4ZAakh9PB0owkUsmGcYXKh) | [Summer Nostalgia](https://open.spotify.com/album/0xh9ejn2bLP6NUJGkORVkz) | 4:01 | 2022-04-22 | 2022-07-29 |
 | [Sunday7](https://open.spotify.com/track/2pQo1klRNseUPq4p4YU6Yj) | [Lee jinwoo](https://open.spotify.com/artist/4j0FFUQqt7izUZfogx2fvU) | [Sunday7](https://open.spotify.com/album/3iZ7mgY7G1R13ExcI5ykHb) | 3:15 | 2022-04-22 | 2022-04-29 |

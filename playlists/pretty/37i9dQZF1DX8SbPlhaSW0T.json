@@ -1,12 +1,12 @@
 {
   "description": "Los mejores del Trap de todos los tiempos! \ud83d\udc10 Cover: Noriel",
-  "num_followers": 5584,
+  "num_followers": 5688,
   "original_name": "Latin Trap GOATs",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0MzU5OTMwYjhiZjY2NTc3ZWNhZGQ0OTE3YjI3YWM2ZTFhNGVkMmYw",
+  "snapshot_id": "MCwxZTkxZWU2NDQwZjNkMGZiOThlYjNjMTBkN2NiMTUzNDM5YzliMGEx",
   "tracks": [
     {
       "added_at": "2023-08-02 22:03:02",
@@ -243,6 +243,46 @@
     {
       "added_at": "2023-08-02 22:03:02",
       "album": {
+        "name": "Si Tu Novio Te Deja Sola",
+        "url": "https://open.spotify.com/album/3bp5wUKcfBhrqCACidyPKa"
+      },
+      "artists": [
+        {
+          "name": "J Balvin",
+          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+        },
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        }
+      ],
+      "duration_ms": 243560,
+      "name": "Si Tu Novio Te Deja Sola",
+      "url": "https://open.spotify.com/track/2joKSGkqac0LIwYG9Ghrwq"
+    },
+    {
+      "added_at": "2023-08-02 22:03:02",
+      "album": {
+        "name": "Sauce Boyz",
+        "url": "https://open.spotify.com/album/2JwUsV3QP7FMWx1Fzt6dHQ"
+      },
+      "artists": [
+        {
+          "name": "Eladio Carrion",
+          "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
+        },
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        }
+      ],
+      "duration_ms": 152960,
+      "name": "Kemba Walker",
+      "url": "https://open.spotify.com/track/4jhHaLksdP8DJZzxYAjOSz"
+    },
+    {
+      "added_at": "2023-08-02 22:03:02",
+      "album": {
         "name": "La Ocasi\u00f3n",
         "url": "https://open.spotify.com/album/3CgogddksNmKJrnAATIMFG"
       },
@@ -275,46 +315,6 @@
       "duration_ms": 336149,
       "name": "La Ocasi\u00f3n",
       "url": "https://open.spotify.com/track/20pJKlNIU3J1CrvhBr1kQ8"
-    },
-    {
-      "added_at": "2023-08-02 22:03:02",
-      "album": {
-        "name": "Sauce Boyz",
-        "url": "https://open.spotify.com/album/2JwUsV3QP7FMWx1Fzt6dHQ"
-      },
-      "artists": [
-        {
-          "name": "Eladio Carrion",
-          "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
-        },
-        {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
-        }
-      ],
-      "duration_ms": 152960,
-      "name": "Kemba Walker",
-      "url": "https://open.spotify.com/track/4jhHaLksdP8DJZzxYAjOSz"
-    },
-    {
-      "added_at": "2023-08-02 22:03:02",
-      "album": {
-        "name": "Si Tu Novio Te Deja Sola",
-        "url": "https://open.spotify.com/album/3bp5wUKcfBhrqCACidyPKa"
-      },
-      "artists": [
-        {
-          "name": "J Balvin",
-          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
-        },
-        {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
-        }
-      ],
-      "duration_ms": 243560,
-      "name": "Si Tu Novio Te Deja Sola",
-      "url": "https://open.spotify.com/track/2joKSGkqac0LIwYG9Ghrwq"
     },
     {
       "added_at": "2023-08-02 22:03:02",
@@ -399,6 +399,26 @@
     {
       "added_at": "2023-08-02 22:03:02",
       "album": {
+        "name": "Vuelve",
+        "url": "https://open.spotify.com/album/4fM1JysLcYDX9No45tZmqO"
+      },
+      "artists": [
+        {
+          "name": "Daddy Yankee",
+          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
+        },
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        }
+      ],
+      "duration_ms": 279613,
+      "name": "Vuelve",
+      "url": "https://open.spotify.com/track/0gCPvo1GkbtPhMqg5Gbx1K"
+    },
+    {
+      "added_at": "2023-08-02 22:03:02",
+      "album": {
         "name": "Trap Capos: Season 1",
         "url": "https://open.spotify.com/album/74vYzfJqytyzhahNopSwtg"
       },
@@ -423,26 +443,6 @@
       "duration_ms": 213613,
       "name": "Diablita (feat. Anuel AA & Baby Rasta)",
       "url": "https://open.spotify.com/track/62NeZ2Vtrz5HgtQibleMNs"
-    },
-    {
-      "added_at": "2023-08-02 22:03:02",
-      "album": {
-        "name": "Vuelve",
-        "url": "https://open.spotify.com/album/4fM1JysLcYDX9No45tZmqO"
-      },
-      "artists": [
-        {
-          "name": "Daddy Yankee",
-          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
-        },
-        {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
-        }
-      ],
-      "duration_ms": 279613,
-      "name": "Vuelve",
-      "url": "https://open.spotify.com/track/0gCPvo1GkbtPhMqg5Gbx1K"
     },
     {
       "added_at": "2023-08-02 22:03:02",
@@ -683,26 +683,6 @@
     {
       "added_at": "2023-08-02 22:03:02",
       "album": {
-        "name": "DM",
-        "url": "https://open.spotify.com/album/1gDS338ZxD6c3wTXaB9nlN"
-      },
-      "artists": [
-        {
-          "name": "Mueka",
-          "url": "https://open.spotify.com/artist/3dRWpmlPfc18U3up8MYCKX"
-        },
-        {
-          "name": "Cosculluela",
-          "url": "https://open.spotify.com/artist/00me4Ke1LsvMxt5kydlMyU"
-        }
-      ],
-      "duration_ms": 248186,
-      "name": "DM",
-      "url": "https://open.spotify.com/track/0YwxZXiwZDJbWhfQJMIn8u"
-    },
-    {
-      "added_at": "2023-08-02 22:03:02",
-      "album": {
         "name": "Sexto Sentido (feat. Bad Bunny)",
         "url": "https://open.spotify.com/album/63RZ9So4XZXllOEUw5h5OV"
       },
@@ -719,6 +699,26 @@
       "duration_ms": 227291,
       "name": "Sexto Sentido (feat. Bad Bunny)",
       "url": "https://open.spotify.com/track/1XDBrOUa5swy7lhO06mggm"
+    },
+    {
+      "added_at": "2023-08-02 22:03:02",
+      "album": {
+        "name": "DM",
+        "url": "https://open.spotify.com/album/1gDS338ZxD6c3wTXaB9nlN"
+      },
+      "artists": [
+        {
+          "name": "Mueka",
+          "url": "https://open.spotify.com/artist/3dRWpmlPfc18U3up8MYCKX"
+        },
+        {
+          "name": "Cosculluela",
+          "url": "https://open.spotify.com/artist/00me4Ke1LsvMxt5kydlMyU"
+        }
+      ],
+      "duration_ms": 248186,
+      "name": "DM",
+      "url": "https://open.spotify.com/track/0YwxZXiwZDJbWhfQJMIn8u"
     },
     {
       "added_at": "2023-08-02 22:03:02",

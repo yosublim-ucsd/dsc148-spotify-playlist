@@ -4,7 +4,7 @@
 
 > La playlist survitaminée !
 
-90 songs - 4 hr 47 min
+91 songs - 4 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,7 +23,8 @@
 | [Boyz In Paris \(with VINAI\)](https://open.spotify.com/track/17NHXI2CJp7KgdcwcDnRx4) | [Marnik](https://open.spotify.com/artist/6S3KljEiIOWoLMUyZrkQUc), [Naeleck](https://open.spotify.com/artist/2DYDFBqoaBP2i9XrTGpOgF), [VINAI](https://open.spotify.com/artist/4mrBetqy378Jf1y6NLszlx) | [Boyz In Paris \(with VINAI\)](https://open.spotify.com/album/3FrWieInAhMTL33yALP6H0) | 2:31 | 2023-08-14 |  |
 | [Cake By The Ocean](https://open.spotify.com/track/76hfruVvmfQbw0eYn1nmeC) | [DNCE](https://open.spotify.com/artist/6T5tfhQCknKG4UnH90qGnz) | [DNCE](https://open.spotify.com/album/3Wv4X8OA65pGpFzBkuUgAh) | 3:39 | 2023-07-27 |  |
 | [Calabria 2007 \(feat\. Natasja\) \- Radio Edit](https://open.spotify.com/track/49ou9vBZLTCi4TYoYzR3F9) | [Enur](https://open.spotify.com/artist/1BQaZSq1KsLOZGzjG5QxRC), [Natasja](https://open.spotify.com/artist/73O5T44Ui5WqxtW6S5JENA) | [Calabria 2007 \(feat\. Natasja\)](https://open.spotify.com/album/6MEU7vnEiJ0qzsJkZSqPed) | 3:53 | 2023-08-22 | 2023-09-15 |
-| [Calabria 2008](https://open.spotify.com/track/5Y2pr8wjzjO2te4MnxTUa7) | [Enur](https://open.spotify.com/artist/1BQaZSq1KsLOZGzjG5QxRC), [Natasja](https://open.spotify.com/artist/73O5T44Ui5WqxtW6S5JENA) | [Raggatronic](https://open.spotify.com/album/71vYvO6c9Wzh06fZPHXj3z) | 3:50 | 2023-09-14 |  |
+| [Calabria 2008](https://open.spotify.com/track/5Y2pr8wjzjO2te4MnxTUa7) | [Enur](https://open.spotify.com/artist/1BQaZSq1KsLOZGzjG5QxRC), [Natasja](https://open.spotify.com/artist/73O5T44Ui5WqxtW6S5JENA) | [Raggatronic](https://open.spotify.com/album/71vYvO6c9Wzh06fZPHXj3z) | 3:50 | 2023-09-14 | 2023-10-19 |
+| [Calabria 2008 \(feat\. Natasja\)](https://open.spotify.com/track/0mwbc2AqVHIziVGg3syEI9) | [Enur](https://open.spotify.com/artist/1BQaZSq1KsLOZGzjG5QxRC), [Natasja](https://open.spotify.com/artist/73O5T44Ui5WqxtW6S5JENA) | [Raggatronic](https://open.spotify.com/album/3xynSbEGBq3jd5N8HLRrc3) | 3:50 | 2023-10-12 |  |
 | [California Gurls](https://open.spotify.com/track/6KOEK6SeCEZOQkLj5M1PxH) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X), [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG) | [Teenage Dream](https://open.spotify.com/album/2eQMC9nJE3f3hCNKlYYHL1) | 3:54 | 2023-07-27 | 2023-08-15 |
 | [Can't Hold Us \(feat\. Ray Dalton\)](https://open.spotify.com/track/22skzmqfdWrjJylampe0kt) | [Macklemore & Ryan Lewis](https://open.spotify.com/artist/5BcAKTbp20cv7tC5VqPFoC), [Macklemore](https://open.spotify.com/artist/3JhNCzhSMTxs9WLGJJxWOY), [Ryan Lewis](https://open.spotify.com/artist/4myTppRgh0rojLxx8RycOp), [Ray Dalton](https://open.spotify.com/artist/4e0nWw2r4BoQSKPQ2zpU13) | [The Heist](https://open.spotify.com/album/5QWHes9ODwn42DHTifGkXd) | 4:18 | 2023-07-27 |  |
 | [Changes \- Radio Mix](https://open.spotify.com/track/2SdMEke7JCBEo8t60iyw2r) | [Faul & Wad](https://open.spotify.com/artist/6HUm6AHJE0oisACMN6NNJ5), [PNAU](https://open.spotify.com/artist/6n28c9qs9hNGriNa72b26u) | [Changes](https://open.spotify.com/album/5T513gBStZcClfbKCRkE9E) | 3:22 | 2023-07-27 |  |

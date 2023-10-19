@@ -4,7 +4,7 @@
 
 > The biggest songs in today's Rock scene\. Cover: Bring Me The Horizon
 
-709 songs - 1 day 16 hr 11 min
+710 songs - 1 day 16 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -628,7 +628,8 @@
 | [Tissues](https://open.spotify.com/track/0jRY4XO556pn1zHZAoY3ph) | [YUNGBLUD](https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW) | [Tissues](https://open.spotify.com/album/1LIAp7pyElYRzvlP0mXSew) | 3:35 | 2022-09-02 | 2022-10-22 |
 | [To My Heart](https://open.spotify.com/track/5lB3jWo6QMwVaLlcxqNEdb) | [Mother Mother](https://open.spotify.com/artist/0e86yPdC41PGRkLp2Q1Bph) | [To My Heart](https://open.spotify.com/album/7wi6Ppz76KRU5airdpcGCW) | 3:05 | 2023-09-22 |  |
 | [Together Right](https://open.spotify.com/track/2pWJywnRIrDfgaKQnru6ri) | [Finger Eleven](https://open.spotify.com/artist/0niJkG4tKkne3zwr7I8n9n) | [Together Right](https://open.spotify.com/album/5wiYwpkw5aYVKIot1wmrO9) | 3:01 | 2023-04-28 |  |
-| [Told You So](https://open.spotify.com/track/0xfMFT9G8Ekk7CEYtVabIm) | [The Band CAMINO](https://open.spotify.com/artist/6d4jrmreCmsenscuieJERc) | [Told You So](https://open.spotify.com/album/3nHIAlyLTzvncWhTwE5TcY) | 2:51 | 2023-03-10 |  |
+| [Told You So](https://open.spotify.com/track/0xfMFT9G8Ekk7CEYtVabIm) | [The Band CAMINO](https://open.spotify.com/artist/6d4jrmreCmsenscuieJERc) | [Told You So](https://open.spotify.com/album/3nHIAlyLTzvncWhTwE5TcY) | 2:51 | 2023-03-10 | 2023-10-19 |
+| [Told You So](https://open.spotify.com/track/2A1HJSm5Gqqb9oTv28U6dr) | [The Band CAMINO](https://open.spotify.com/artist/6d4jrmreCmsenscuieJERc) | [The Dark](https://open.spotify.com/album/6S2FI6xzGq3INs2WnlB9ou) | 2:51 | 2023-10-13 |  |
 | [Tomorrow Is Closed](https://open.spotify.com/track/5qmNiJvNSCvXKRUlPJofZS) | [Nothing But Thieves](https://open.spotify.com/artist/1kDGbuxWknIKx4FlgWxiSp) | [Dead Club City](https://open.spotify.com/album/0kqOkJ9HCUD4AXKvvR6lb7) | 3:58 | 2023-06-30 | 2023-08-19 |
 | [Trouble Found Me](https://open.spotify.com/track/0SBn12c077mPjplOyBcGK6) | [The Darcys](https://open.spotify.com/artist/1kmnMzV27S3bXALqYnoGwH) | [Trouble Found Me](https://open.spotify.com/album/603STn9jyMs4UDW87CgKvQ) | 3:03 | 2023-02-24 | 2023-04-29 |
 | [Trouble’s Coming](https://open.spotify.com/track/6voIJ7OWwRabSZDC77D5Hp) | [Royal Blood](https://open.spotify.com/artist/2S5hlvw4CMtMGswFtfdK15) | [Typhoons](https://open.spotify.com/album/05aqnnpYVOvsX0SIzmIuxi) | 3:48 | 2021-12-31 | 2022-02-19 |

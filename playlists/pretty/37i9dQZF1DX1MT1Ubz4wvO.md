@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1MT1Ubz4wvO.md) - [plain]
 
 > Todas las semanas los nuevos lanzamientos de Rock en español, con Lisandro Aristimuño en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 42,641 likes - 50 songs - 2 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 42,646 likes - 50 songs - 2 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1MT1Ubz4wvO.md) - [plain]
 | 49 | [Apocalipsis](https://open.spotify.com/track/4w4IffLgxncLsgJaa9H8rs) | [Bloody Benders](https://open.spotify.com/artist/4AcOUHdT2D0QRvY7bRnGMA) | [Apocalipsis](https://open.spotify.com/album/2ShuTTI9kl6Rpe9G8P55S1) | 4:08 |
 | 50 | [Preso](https://open.spotify.com/track/33p6S6oYwPXcZhsFI6ivMr) | [SKIMO](https://open.spotify.com/artist/1eS2PhA5FnRbedEDa9L94R) | [Preso](https://open.spotify.com/album/7FQnsjp0jRx99SdaEVreWJ) | 2:10 |
 
-Snapshot ID: `MCwwMjQzYjljNzFkYzUzYjQzYjEzZGM1NjI4NmZjZDFkNWRjYjliYTRj`
+Snapshot ID: `MCwzZTczMGNmMWEwOWJhNDg4NjE5M2QwODdiMWQ0N2I0MjZlNTQwM2Fm`

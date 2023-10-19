@@ -1,12 +1,12 @@
 {
   "description": "The easy listening sound of Jazz. Cover: Norah Jones",
-  "num_followers": 435109,
+  "num_followers": 435376,
   "original_name": "Easy Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiZjhjMjQ1M2FiOWE4YWNhMDMzMTUwOTFhOGEyZjVjZDBiNmUyN2Zi",
+  "snapshot_id": "MCw4OTdlODE4ZmY0NTdkYTFlYTIwYzRmNzZlYjc3NjE1ZTRiN2IwYzc0",
   "tracks": [
     {
       "added_at": "2023-10-17 13:49:04",
@@ -799,6 +799,22 @@
     {
       "added_at": "2023-10-17 13:49:04",
       "album": {
+        "name": "Lover Man (Oh, Where Can You Be?)",
+        "url": "https://open.spotify.com/album/5sLhFtPxR3dWgIFI7kPcIt"
+      },
+      "artists": [
+        {
+          "name": "Flora Mart\u00ednez",
+          "url": "https://open.spotify.com/artist/7gjr06Lie1BDJuefW3v9YQ"
+        }
+      ],
+      "duration_ms": 183901,
+      "name": "Lover Man (Oh, Where Can You Be?)",
+      "url": "https://open.spotify.com/track/0R5rHcEKfDpC47txuZrzCc"
+    },
+    {
+      "added_at": "2023-10-17 13:49:04",
+      "album": {
         "name": "Suzanne",
         "url": "https://open.spotify.com/album/6ZzCxDsaWHAK4kKcjep4iQ"
       },
@@ -815,22 +831,6 @@
       "duration_ms": 273626,
       "name": "Suzanne (feat. Gregory Porter)",
       "url": "https://open.spotify.com/track/2IYWqinJpFhid2qRqnqPDA"
-    },
-    {
-      "added_at": "2023-10-17 13:49:04",
-      "album": {
-        "name": "Lover Man (Oh, Where Can You Be?)",
-        "url": "https://open.spotify.com/album/5sLhFtPxR3dWgIFI7kPcIt"
-      },
-      "artists": [
-        {
-          "name": "Flora Mart\u00ednez",
-          "url": "https://open.spotify.com/artist/7gjr06Lie1BDJuefW3v9YQ"
-        }
-      ],
-      "duration_ms": 183901,
-      "name": "Lover Man (Oh, Where Can You Be?)",
-      "url": "https://open.spotify.com/track/0R5rHcEKfDpC47txuZrzCc"
     },
     {
       "added_at": "2023-10-17 13:49:04",
@@ -863,22 +863,6 @@
     {
       "added_at": "2023-10-17 13:49:04",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/6nsgXwSLcvYXr4RF2JiN7z"
-      },
-      "artists": [
-        {
-          "name": "Samara Joy",
-          "url": "https://open.spotify.com/artist/5LkbTSqXfMBjFSGi9LOGjq"
-        }
-      ],
-      "duration_ms": 321256,
-      "name": "Someone Like You - Spotify Singles",
-      "url": "https://open.spotify.com/track/2t96CFKbjUUd6Fc1OXQiKv"
-    },
-    {
-      "added_at": "2023-10-17 13:49:04",
-      "album": {
         "name": "From Paris With Love",
         "url": "https://open.spotify.com/album/5Bk1iF2vmR6nGnX98KIuLH"
       },
@@ -891,6 +875,22 @@
       "duration_ms": 288693,
       "name": "From Paris With Love - Single Version",
       "url": "https://open.spotify.com/track/5mw9Ox2dKksNDip74o6hU2"
+    },
+    {
+      "added_at": "2023-10-17 13:49:04",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/6nsgXwSLcvYXr4RF2JiN7z"
+      },
+      "artists": [
+        {
+          "name": "Samara Joy",
+          "url": "https://open.spotify.com/artist/5LkbTSqXfMBjFSGi9LOGjq"
+        }
+      ],
+      "duration_ms": 321256,
+      "name": "Someone Like You - Spotify Singles",
+      "url": "https://open.spotify.com/track/2t96CFKbjUUd6Fc1OXQiKv"
     },
     {
       "added_at": "2023-10-17 13:49:04",
@@ -1351,22 +1351,6 @@
     {
       "added_at": "2023-10-17 13:49:04",
       "album": {
-        "name": "My Wonderland",
-        "url": "https://open.spotify.com/album/4Qhd3ksKmLXaDHyA82Wc6A"
-      },
-      "artists": [
-        {
-          "name": "Simone Kopmajer",
-          "url": "https://open.spotify.com/artist/7cylWVUnKfaVT2vpkNoRWB"
-        }
-      ],
-      "duration_ms": 255000,
-      "name": "A Man and a Woman",
-      "url": "https://open.spotify.com/track/1mWZWF9qOktP3YUKIvAQtj"
-    },
-    {
-      "added_at": "2023-10-17 13:49:04",
-      "album": {
         "name": "The Age of Anxiety",
         "url": "https://open.spotify.com/album/2P2qPNDdZw930hLCy2ddux"
       },
@@ -1379,6 +1363,22 @@
       "duration_ms": 324826,
       "name": "The Age Of Anxiety",
       "url": "https://open.spotify.com/track/0qyjj1na0pbMlnBvKAqLtz"
+    },
+    {
+      "added_at": "2023-10-17 13:49:04",
+      "album": {
+        "name": "My Wonderland",
+        "url": "https://open.spotify.com/album/4Qhd3ksKmLXaDHyA82Wc6A"
+      },
+      "artists": [
+        {
+          "name": "Simone Kopmajer",
+          "url": "https://open.spotify.com/artist/7cylWVUnKfaVT2vpkNoRWB"
+        }
+      ],
+      "duration_ms": 255000,
+      "name": "A Man and a Woman",
+      "url": "https://open.spotify.com/track/1mWZWF9qOktP3YUKIvAQtj"
     },
     {
       "added_at": "2023-10-17 13:49:04",
@@ -1403,6 +1403,22 @@
     {
       "added_at": "2023-10-17 13:49:04",
       "album": {
+        "name": "I Can\u2019t Make You Love Me",
+        "url": "https://open.spotify.com/album/1sn4P6Jxru5Yph7lNqXLoz"
+      },
+      "artists": [
+        {
+          "name": "Joey Alexander",
+          "url": "https://open.spotify.com/artist/0FcNSKwWZJb98ry9M2qEII"
+        }
+      ],
+      "duration_ms": 303680,
+      "name": "I Can\u2019t Make You Love Me",
+      "url": "https://open.spotify.com/track/3qFYOX9Rmu5OsEiqGLZva0"
+    },
+    {
+      "added_at": "2023-10-17 13:49:04",
+      "album": {
         "name": "Lucky",
         "url": "https://open.spotify.com/album/5vcx9N4JdtWLR0ewlPIHdy"
       },
@@ -1415,22 +1431,6 @@
       "duration_ms": 160626,
       "name": "Lucky",
       "url": "https://open.spotify.com/track/6JaM5Mg9evBEMXSYxEJAEX"
-    },
-    {
-      "added_at": "2023-10-17 13:49:04",
-      "album": {
-        "name": "These Are the Memories",
-        "url": "https://open.spotify.com/album/4wmAugLcz7Whavrrr1t1Kb"
-      },
-      "artists": [
-        {
-          "name": "Emmaline",
-          "url": "https://open.spotify.com/artist/4qCLr26rRwbXkdhcEBKjc5"
-        }
-      ],
-      "duration_ms": 273670,
-      "name": "These Are the Memories",
-      "url": "https://open.spotify.com/track/6cBAQr4SjyDLDfkUa1oprE"
     },
     {
       "added_at": "2023-10-17 13:49:04",
@@ -1451,6 +1451,22 @@
       "duration_ms": 221000,
       "name": "If It Was",
       "url": "https://open.spotify.com/track/0JQTyfPaUcW0xt2jdsi3KA"
+    },
+    {
+      "added_at": "2023-10-17 13:49:04",
+      "album": {
+        "name": "These Are the Memories",
+        "url": "https://open.spotify.com/album/4wmAugLcz7Whavrrr1t1Kb"
+      },
+      "artists": [
+        {
+          "name": "Emmaline",
+          "url": "https://open.spotify.com/artist/4qCLr26rRwbXkdhcEBKjc5"
+        }
+      ],
+      "duration_ms": 273670,
+      "name": "These Are the Memories",
+      "url": "https://open.spotify.com/track/6cBAQr4SjyDLDfkUa1oprE"
     },
     {
       "added_at": "2023-10-17 13:49:04",
@@ -1619,22 +1635,6 @@
     {
       "added_at": "2023-10-17 13:49:04",
       "album": {
-        "name": "Dreaming Wide Awake",
-        "url": "https://open.spotify.com/album/72kU4Ko701eDu4wWDBSrks"
-      },
-      "artists": [
-        {
-          "name": "Lizz Wright",
-          "url": "https://open.spotify.com/artist/3K0BfjMh2dS8WITuiMuGGW"
-        }
-      ],
-      "duration_ms": 210520,
-      "name": "Hit The Ground",
-      "url": "https://open.spotify.com/track/5xfRRvZe2OqiU4sXcUUUZ9"
-    },
-    {
-      "added_at": "2023-10-17 13:49:04",
-      "album": {
         "name": "Love is Never Too Late",
         "url": "https://open.spotify.com/album/7Ei7dL4kmIJhDlie2zHmOc"
       },
@@ -1667,6 +1667,22 @@
       "duration_ms": 380066,
       "name": "Hallelujah",
       "url": "https://open.spotify.com/track/3Fn1AoG7bIcMKPKy30KtKD"
+    },
+    {
+      "added_at": "2023-10-17 13:49:04",
+      "album": {
+        "name": "Dreaming Wide Awake",
+        "url": "https://open.spotify.com/album/72kU4Ko701eDu4wWDBSrks"
+      },
+      "artists": [
+        {
+          "name": "Lizz Wright",
+          "url": "https://open.spotify.com/artist/3K0BfjMh2dS8WITuiMuGGW"
+        }
+      ],
+      "duration_ms": 210520,
+      "name": "Hit The Ground",
+      "url": "https://open.spotify.com/track/5xfRRvZe2OqiU4sXcUUUZ9"
     },
     {
       "added_at": "2023-10-17 13:49:04",
@@ -1743,22 +1759,6 @@
     {
       "added_at": "2023-10-17 13:49:04",
       "album": {
-        "name": "I Can\u2019t Make You Love Me",
-        "url": "https://open.spotify.com/album/1sn4P6Jxru5Yph7lNqXLoz"
-      },
-      "artists": [
-        {
-          "name": "Joey Alexander",
-          "url": "https://open.spotify.com/artist/0FcNSKwWZJb98ry9M2qEII"
-        }
-      ],
-      "duration_ms": 303680,
-      "name": "I Can\u2019t Make You Love Me",
-      "url": "https://open.spotify.com/track/3qFYOX9Rmu5OsEiqGLZva0"
-    },
-    {
-      "added_at": "2023-10-17 13:49:04",
-      "album": {
         "name": "The Moon, the Stars and You",
         "url": "https://open.spotify.com/album/2UpH0ZpjEikrIm0mXXlDYq"
       },
@@ -1791,22 +1791,6 @@
     {
       "added_at": "2023-10-17 13:49:04",
       "album": {
-        "name": "Dreaming Wide Awake",
-        "url": "https://open.spotify.com/album/72kU4Ko701eDu4wWDBSrks"
-      },
-      "artists": [
-        {
-          "name": "Lizz Wright",
-          "url": "https://open.spotify.com/artist/3K0BfjMh2dS8WITuiMuGGW"
-        }
-      ],
-      "duration_ms": 178240,
-      "name": "I'm Confessin'",
-      "url": "https://open.spotify.com/track/3poigTO6JvjsQNcACZXTkm"
-    },
-    {
-      "added_at": "2023-10-17 13:49:04",
-      "album": {
         "name": "It's Oh So Quiet",
         "url": "https://open.spotify.com/album/6C6nBYHDXsWFUAp7D45Pwv"
       },
@@ -1823,6 +1807,22 @@
       "duration_ms": 228173,
       "name": "It's Oh So Quiet",
       "url": "https://open.spotify.com/track/0HRkVSOxjs9qdvAUKc603s"
+    },
+    {
+      "added_at": "2023-10-17 13:49:04",
+      "album": {
+        "name": "Dreaming Wide Awake",
+        "url": "https://open.spotify.com/album/72kU4Ko701eDu4wWDBSrks"
+      },
+      "artists": [
+        {
+          "name": "Lizz Wright",
+          "url": "https://open.spotify.com/artist/3K0BfjMh2dS8WITuiMuGGW"
+        }
+      ],
+      "duration_ms": 178240,
+      "name": "I'm Confessin'",
+      "url": "https://open.spotify.com/track/3poigTO6JvjsQNcACZXTkm"
     },
     {
       "added_at": "2023-10-17 13:49:04",
@@ -1847,22 +1847,6 @@
     {
       "added_at": "2023-10-17 13:49:04",
       "album": {
-        "name": "Guitar Man",
-        "url": "https://open.spotify.com/album/2S7ghQU5xIAm1hW7rMKNC0"
-      },
-      "artists": [
-        {
-          "name": "George Benson",
-          "url": "https://open.spotify.com/artist/4N8BwYTEC6XqykGvXXlmfv"
-        }
-      ],
-      "duration_ms": 178440,
-      "name": "Since I Fell For You",
-      "url": "https://open.spotify.com/track/6VRvhiVLih80IWCTXY8Sxr"
-    },
-    {
-      "added_at": "2023-10-17 13:49:04",
-      "album": {
         "name": "I Only Have Eyes For You",
         "url": "https://open.spotify.com/album/131VG5VwoQVANxBMPQ5fZF"
       },
@@ -1875,6 +1859,22 @@
       "duration_ms": 250745,
       "name": "I Only Have Eyes For You",
       "url": "https://open.spotify.com/track/7JiRVbyQC6P4tiP4ODmrXo"
+    },
+    {
+      "added_at": "2023-10-17 13:49:04",
+      "album": {
+        "name": "Guitar Man",
+        "url": "https://open.spotify.com/album/2S7ghQU5xIAm1hW7rMKNC0"
+      },
+      "artists": [
+        {
+          "name": "George Benson",
+          "url": "https://open.spotify.com/artist/4N8BwYTEC6XqykGvXXlmfv"
+        }
+      ],
+      "duration_ms": 178440,
+      "name": "Since I Fell For You",
+      "url": "https://open.spotify.com/track/6VRvhiVLih80IWCTXY8Sxr"
     },
     {
       "added_at": "2023-10-17 13:49:04",
@@ -1947,30 +1947,6 @@
     {
       "added_at": "2023-10-17 13:49:04",
       "album": {
-        "name": "The Questions",
-        "url": "https://open.spotify.com/album/0l7g086iNadTHpH0Z7X5nu"
-      },
-      "artists": [
-        {
-          "name": "Kurt Elling",
-          "url": "https://open.spotify.com/artist/1UhC1mCcd9SFXLibHhMX61"
-        },
-        {
-          "name": "Branford Marsalis",
-          "url": "https://open.spotify.com/artist/1gPY6jETlC02stpXOUmSBH"
-        },
-        {
-          "name": "Jeff \"Tain\" Watts",
-          "url": "https://open.spotify.com/artist/0hZXvDnljkma4aThiBMQ6h"
-        }
-      ],
-      "duration_ms": 485373,
-      "name": "A Hard Rain's A-Gonna Fall (feat. Branford Marsalis & Jeff \"Tain\" Watts)",
-      "url": "https://open.spotify.com/track/1HgMfDaOxx0XkE4ISrC938"
-    },
-    {
-      "added_at": "2023-10-17 13:49:04",
-      "album": {
         "name": "Flor",
         "url": "https://open.spotify.com/album/31DutanyKyJhX0CDb62IZa"
       },
@@ -1995,6 +1971,30 @@
       "duration_ms": 250697,
       "name": "Magnus",
       "url": "https://open.spotify.com/track/6rT1tvDLwn7BhiOoDbbg84"
+    },
+    {
+      "added_at": "2023-10-17 13:49:04",
+      "album": {
+        "name": "The Questions",
+        "url": "https://open.spotify.com/album/0l7g086iNadTHpH0Z7X5nu"
+      },
+      "artists": [
+        {
+          "name": "Kurt Elling",
+          "url": "https://open.spotify.com/artist/1UhC1mCcd9SFXLibHhMX61"
+        },
+        {
+          "name": "Branford Marsalis",
+          "url": "https://open.spotify.com/artist/1gPY6jETlC02stpXOUmSBH"
+        },
+        {
+          "name": "Jeff \"Tain\" Watts",
+          "url": "https://open.spotify.com/artist/0hZXvDnljkma4aThiBMQ6h"
+        }
+      ],
+      "duration_ms": 485373,
+      "name": "A Hard Rain's A-Gonna Fall (feat. Branford Marsalis & Jeff \"Tain\" Watts)",
+      "url": "https://open.spotify.com/track/1HgMfDaOxx0XkE4ISrC938"
     },
     {
       "added_at": "2023-10-17 13:49:04",
@@ -2119,22 +2119,6 @@
     {
       "added_at": "2023-10-17 13:49:04",
       "album": {
-        "name": "Start Again EP",
-        "url": "https://open.spotify.com/album/4u4ua2KI0WX92XsIKTvKAK"
-      },
-      "artists": [
-        {
-          "name": "Crystal Kay",
-          "url": "https://open.spotify.com/artist/3yzQHdj9G34CVZ5rVUDrOM"
-        }
-      ],
-      "duration_ms": 187306,
-      "name": "One Flight Down",
-      "url": "https://open.spotify.com/track/211h8RfsBkSrbwXUP8EnsZ"
-    },
-    {
-      "added_at": "2023-10-17 13:49:04",
-      "album": {
         "name": "Boy Boredom",
         "url": "https://open.spotify.com/album/0xLUeJSKo5J9QjiuVMKUpN"
       },
@@ -2147,6 +2131,22 @@
       "duration_ms": 221241,
       "name": "Anyone",
       "url": "https://open.spotify.com/track/2lggWmLZzrGJoejX97Usb8"
+    },
+    {
+      "added_at": "2023-10-17 13:49:04",
+      "album": {
+        "name": "Start Again EP",
+        "url": "https://open.spotify.com/album/4u4ua2KI0WX92XsIKTvKAK"
+      },
+      "artists": [
+        {
+          "name": "Crystal Kay",
+          "url": "https://open.spotify.com/artist/3yzQHdj9G34CVZ5rVUDrOM"
+        }
+      ],
+      "duration_ms": 187306,
+      "name": "One Flight Down",
+      "url": "https://open.spotify.com/track/211h8RfsBkSrbwXUP8EnsZ"
     },
     {
       "added_at": "2023-10-17 13:49:04",

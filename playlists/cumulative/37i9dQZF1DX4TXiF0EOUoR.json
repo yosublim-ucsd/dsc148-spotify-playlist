@@ -459,6 +459,24 @@
     },
     {
       "album": {
+        "name": "La Historia De Los Exitos-Parranderas",
+        "url": "https://open.spotify.com/album/164kMmRFSeU303lUvwIWyW"
+      },
+      "artists": [
+        {
+          "name": "El Coyote Y Su Banda Tierra Santa",
+          "url": "https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT"
+        }
+      ],
+      "date_added": "2022-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198080,
+      "name": "El Muchacho Alegre",
+      "url": "https://open.spotify.com/track/6kasN4p6p7Y9LT0OBdLES2"
+    },
+    {
+      "album": {
         "name": "Decimo Aniversario",
         "url": "https://open.spotify.com/album/1MWHfmhCI3Y5iX0f0GwV5J"
       },
@@ -470,7 +488,7 @@
       ],
       "date_added": "2022-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-19",
       "duration_ms": 198347,
       "name": "El Muchacho Alegre",
       "url": "https://open.spotify.com/track/00UCfwswH8Tw9XMDxxvB5Y"

@@ -4,7 +4,7 @@
 
 > From '56 to '76 \- the original volcanic revolutionaries from Rock 'n' Roll, Garage, Psych, Trash, Kraut, Glam and Prog...
 
-259 songs - 14 hr 13 min
+260 songs - 14 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -157,8 +157,9 @@
 | [Nadir's Big Chance \- 2006 Digital Remaster](https://open.spotify.com/track/4tu0NNBNeVMIjMznKBHjtn) | [Peter Hammill](https://open.spotify.com/artist/7uBH52YnXUbJ0ssoyNqQTB) | [Nadir's Big Chance](https://open.spotify.com/album/0BDKAyEOyGkWLNkXIf53S3) | 3:33 | 2015-07-23 |  |
 | [Needles In The Camel's Eye \- 2004 Digital Remaster](https://open.spotify.com/track/79oH2M0vWq9bRYpNTCrlHu) | [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [Here Come The Warm Jets](https://open.spotify.com/album/74jn28Kr29iyh8eZXSvnwi) | 3:11 | 2015-07-23 |  |
 | [Night of the Vampire](https://open.spotify.com/track/1Z5i98iVm3RZaC4ZLLhrsB) | [The Moontrekkers](https://open.spotify.com/artist/68tbCkKG4XXBXCr1nuWX0Y) | [Wild, Wacky World of Weird Songs](https://open.spotify.com/album/2jFGuNeD5tOrZWmreW30d6) | 2:46 | 2020-01-07 | 2023-03-28 |
+| [Night Of The Vampire](https://open.spotify.com/track/2IKE5ZuOzwFNlcqo9dLM6Q) | [The Moontrekkers](https://open.spotify.com/artist/68tbCkKG4XXBXCr1nuWX0Y) | [Halloween Graveyard Hits](https://open.spotify.com/album/6d4gyUp1xZwl5orCXlNKlW) | 2:46 | 2020-01-07 |  |
 | [Night of the Vampire](https://open.spotify.com/track/2NvTtRTLmXuiYZLskpXREv) | [The Moontrekkers](https://open.spotify.com/artist/68tbCkKG4XXBXCr1nuWX0Y) | [Joe Meek: Complete Independent Productions 1960\-61](https://open.spotify.com/album/3rtfjSgyKT0j5JUOuj7bud) | 2:49 | 2020-01-07 | 2022-07-29 |
-| [Night of the Vampire](https://open.spotify.com/track/3cFAVjQU2q3vX3l0omsx5h) | [The Moontrekkers](https://open.spotify.com/artist/68tbCkKG4XXBXCr1nuWX0Y) | [100 Rockin’ Instrumentals \- ‘50s & ‘60s](https://open.spotify.com/album/0pHJOnCMLl0u6ywvaar64L) | 2:51 | 2020-01-07 |  |
+| [Night of the Vampire](https://open.spotify.com/track/3cFAVjQU2q3vX3l0omsx5h) | [The Moontrekkers](https://open.spotify.com/artist/68tbCkKG4XXBXCr1nuWX0Y) | [100 Rockin’ Instrumentals \- ‘50s & ‘60s](https://open.spotify.com/album/0pHJOnCMLl0u6ywvaar64L) | 2:51 | 2020-01-07 | 2023-10-19 |
 | [Nightclubbing](https://open.spotify.com/track/6WPGAupim73K9XQL4iIefZ) | [Iggy Pop](https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4) | [The Idiot](https://open.spotify.com/album/78UazygH85UAB0qXqQpzg6) | 4:15 | 2019-06-19 |  |
 | [One Way Spit](https://open.spotify.com/track/2zfS1N80qSv0ft1gXKzZhh) | [Debris'](https://open.spotify.com/artist/3kxrBSK5EAOGz1sFjcR7t8) | [Static Disposal](https://open.spotify.com/album/4yw3ATQE9VGGP7AYoGQtBn) | 2:50 | 2015-07-23 |  |
 | [Out Demons Out \- 2001 Remaster](https://open.spotify.com/track/2N0bUYn3p2m5zOYTMi4lFv) | [Edgar Broughton Band](https://open.spotify.com/artist/3vq20FWRCImmgoatehNMmg) | [Out Demons Out \- The Best Of](https://open.spotify.com/album/6ZTXIed7DiVf4dpXvHNGeG) | 4:48 | 2015-07-23 |  |

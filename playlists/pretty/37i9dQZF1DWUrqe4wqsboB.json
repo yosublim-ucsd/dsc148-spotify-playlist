@@ -1,12 +1,12 @@
 {
   "description": "Indie, pop, alternativo... y un poco m\u00e1s all\u00e1. Cover: Buscabulla",
-  "num_followers": 3656,
+  "num_followers": 3662,
   "original_name": "Indie Boricua",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhMzU2OGJhMTM0Njc3MDMzZDU4ZDFmMGMzY2I4NjFjOGNkNjBkYTMy",
+  "snapshot_id": "MCw0NjY1MWFkZjY0ZDljNjZmMGJlNjY5OTc0MGIxNWM4N2Q2OWY1Y2Rl",
   "tracks": [
     {
       "added_at": "2023-10-06 01:29:37",
@@ -355,22 +355,6 @@
     {
       "added_at": "2023-10-06 01:29:37",
       "album": {
-        "name": "Tu Mundo",
-        "url": "https://open.spotify.com/album/0lB32Pr3KZsLqLR7JCnjQ6"
-      },
-      "artists": [
-        {
-          "name": "ROBI",
-          "url": "https://open.spotify.com/artist/6ISKc7ev3V4EGnEagkXexc"
-        }
-      ],
-      "duration_ms": 234041,
-      "name": "Tu Mundo",
-      "url": "https://open.spotify.com/track/0ta2Bhn387N48wKGJ2lwoT"
-    },
-    {
-      "added_at": "2023-10-06 01:29:37",
-      "album": {
         "name": "Caramelo",
         "url": "https://open.spotify.com/album/43ouDVkgCx8hfZ7UbSYpoB"
       },
@@ -383,6 +367,22 @@
       "duration_ms": 264038,
       "name": "Calma",
       "url": "https://open.spotify.com/track/0SPr1VZrc4sQ0IWz3iXkr6"
+    },
+    {
+      "added_at": "2023-10-06 01:29:37",
+      "album": {
+        "name": "Tu Mundo",
+        "url": "https://open.spotify.com/album/0lB32Pr3KZsLqLR7JCnjQ6"
+      },
+      "artists": [
+        {
+          "name": "ROBI",
+          "url": "https://open.spotify.com/artist/6ISKc7ev3V4EGnEagkXexc"
+        }
+      ],
+      "duration_ms": 234041,
+      "name": "Tu Mundo",
+      "url": "https://open.spotify.com/track/0ta2Bhn387N48wKGJ2lwoT"
     },
     {
       "added_at": "2023-10-06 01:29:37",
@@ -459,18 +459,18 @@
     {
       "added_at": "2023-10-06 01:29:37",
       "album": {
-        "name": "Miss Universos",
-        "url": "https://open.spotify.com/album/1Ss9TprLiCLzubn8S549gl"
+        "name": "Tommy Bahama",
+        "url": "https://open.spotify.com/album/28rGVwaeWzeUOlwaew40FW"
       },
       "artists": [
         {
-          "name": "Los W\u00e1lters",
-          "url": "https://open.spotify.com/artist/0joND3Z9boBeX6EOu66rAY"
+          "name": "Sebimor",
+          "url": "https://open.spotify.com/artist/6p1OHsaiF7V8qCu80f9ROH"
         }
       ],
-      "duration_ms": 185920,
-      "name": "Desastre Comunal",
-      "url": "https://open.spotify.com/track/4zT2HDqXcnXDfHZpNWgq1T"
+      "duration_ms": 229963,
+      "name": "Tommy Bahama",
+      "url": "https://open.spotify.com/track/0rAzw6N1msr3fNzqmOLLU9"
     },
     {
       "added_at": "2023-10-06 01:29:37",
@@ -487,22 +487,6 @@
       "duration_ms": 211474,
       "name": "Otra Noche en L.A.",
       "url": "https://open.spotify.com/track/2CqqG67J2dUvM6BmlZKWiD"
-    },
-    {
-      "added_at": "2023-10-06 01:29:37",
-      "album": {
-        "name": "Tommy Bahama",
-        "url": "https://open.spotify.com/album/28rGVwaeWzeUOlwaew40FW"
-      },
-      "artists": [
-        {
-          "name": "Sebimor",
-          "url": "https://open.spotify.com/artist/6p1OHsaiF7V8qCu80f9ROH"
-        }
-      ],
-      "duration_ms": 229963,
-      "name": "Tommy Bahama",
-      "url": "https://open.spotify.com/track/0rAzw6N1msr3fNzqmOLLU9"
     },
     {
       "added_at": "2023-10-06 01:29:37",
@@ -539,6 +523,22 @@
     {
       "added_at": "2023-10-06 01:29:37",
       "album": {
+        "name": "Miss Universos",
+        "url": "https://open.spotify.com/album/1Ss9TprLiCLzubn8S549gl"
+      },
+      "artists": [
+        {
+          "name": "Los W\u00e1lters",
+          "url": "https://open.spotify.com/artist/0joND3Z9boBeX6EOu66rAY"
+        }
+      ],
+      "duration_ms": 185920,
+      "name": "Desastre Comunal",
+      "url": "https://open.spotify.com/track/4zT2HDqXcnXDfHZpNWgq1T"
+    },
+    {
+      "added_at": "2023-10-06 01:29:37",
+      "album": {
         "name": "Hasta el final",
         "url": "https://open.spotify.com/album/2O3KVLfiSA5slbTTobMVRd"
       },
@@ -571,22 +571,6 @@
     {
       "added_at": "2023-10-06 01:29:37",
       "album": {
-        "name": "Maldita Cach\u00e1",
-        "url": "https://open.spotify.com/album/3nunl1URnEHRPjZU854vYo"
-      },
-      "artists": [
-        {
-          "name": "Los Rivera Destino",
-          "url": "https://open.spotify.com/artist/7LQaY9LGXHzoJY8DvwpSid"
-        }
-      ],
-      "duration_ms": 144958,
-      "name": "Maldita Cach\u00e1",
-      "url": "https://open.spotify.com/track/02OLbvjFRd9dCVNPbZCjXo"
-    },
-    {
-      "added_at": "2023-10-06 01:29:37",
-      "album": {
         "name": "Vibra",
         "url": "https://open.spotify.com/album/6CEienBDgxTIWPx5VxJV3g"
       },
@@ -599,6 +583,22 @@
       "duration_ms": 174947,
       "name": "Vibra",
       "url": "https://open.spotify.com/track/41dHSGLC4FJl8iQFU60PEp"
+    },
+    {
+      "added_at": "2023-10-06 01:29:37",
+      "album": {
+        "name": "Maldita Cach\u00e1",
+        "url": "https://open.spotify.com/album/3nunl1URnEHRPjZU854vYo"
+      },
+      "artists": [
+        {
+          "name": "Los Rivera Destino",
+          "url": "https://open.spotify.com/artist/7LQaY9LGXHzoJY8DvwpSid"
+        }
+      ],
+      "duration_ms": 144958,
+      "name": "Maldita Cach\u00e1",
+      "url": "https://open.spotify.com/track/02OLbvjFRd9dCVNPbZCjXo"
     },
     {
       "added_at": "2023-10-06 01:29:37",

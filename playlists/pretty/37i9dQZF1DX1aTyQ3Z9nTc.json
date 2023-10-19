@@ -1,12 +1,12 @@
 {
   "description": "That bouncy, groovy, dancey sound.",
-  "num_followers": 129612,
+  "num_followers": 129640,
   "original_name": "Choice Edit",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0MzMwMTZjOTJlNTA2ZmNlOTQxMjFhYWQyNGU4YTMwNjhlMzlkNDFl",
+  "snapshot_id": "MCwxMzc2MDY5NWE1Njc1YWE1MDI3ZjZiZTJiMjg4OTBjNjZlZTU4MDNk",
   "tracks": [
     {
       "added_at": "2022-07-29 04:11:59",
@@ -421,22 +421,6 @@
       "url": "https://open.spotify.com/track/3sQWzLuYeu8dOVTrYwkFlf"
     },
     {
-      "added_at": "2023-10-06 05:19:16",
-      "album": {
-        "name": "Jersey",
-        "url": "https://open.spotify.com/album/38S4qMNg1di0obDNZaq8Ma"
-      },
-      "artists": [
-        {
-          "name": "Baby Tate",
-          "url": "https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4"
-        }
-      ],
-      "duration_ms": 171428,
-      "name": "Jersey",
-      "url": "https://open.spotify.com/track/0bzAIaIHmILyOOiP0nQGMj"
-    },
-    {
       "added_at": "2022-07-30 02:24:25",
       "album": {
         "name": "Remember Your North Star",
@@ -455,6 +439,26 @@
       "duration_ms": 125973,
       "name": "pour up",
       "url": "https://open.spotify.com/track/0NzTOeYLPLOGFL40dOX3ho"
+    },
+    {
+      "added_at": "2023-04-07 21:25:17",
+      "album": {
+        "name": "Got Time For Me (with Channel Tres)",
+        "url": "https://open.spotify.com/album/02YZvXUwPEvxb0YLdI7oEk"
+      },
+      "artists": [
+        {
+          "name": "Jamie Jones",
+          "url": "https://open.spotify.com/artist/4admDxmnri5Zco0xYrJ0ji"
+        },
+        {
+          "name": "Channel Tres",
+          "url": "https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp"
+        }
+      ],
+      "duration_ms": 179034,
+      "name": "Got Time For Me (with Channel Tres)",
+      "url": "https://open.spotify.com/track/3YQNUCe3btF2wUQpzfaodu"
     },
     {
       "added_at": "2023-04-07 21:25:17",
@@ -485,40 +489,20 @@
       "url": "https://open.spotify.com/track/3CblJq8QQQ0bb7vwJu8c3v"
     },
     {
-      "added_at": "2023-04-07 21:25:17",
-      "album": {
-        "name": "Got Time For Me (with Channel Tres)",
-        "url": "https://open.spotify.com/album/02YZvXUwPEvxb0YLdI7oEk"
-      },
-      "artists": [
-        {
-          "name": "Jamie Jones",
-          "url": "https://open.spotify.com/artist/4admDxmnri5Zco0xYrJ0ji"
-        },
-        {
-          "name": "Channel Tres",
-          "url": "https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp"
-        }
-      ],
-      "duration_ms": 179034,
-      "name": "Got Time For Me (with Channel Tres)",
-      "url": "https://open.spotify.com/track/3YQNUCe3btF2wUQpzfaodu"
-    },
-    {
       "added_at": "2023-10-06 05:19:16",
       "album": {
-        "name": "BB/ANG3L",
-        "url": "https://open.spotify.com/album/0Ytzeqoskd5VfSVfGGA1SM"
+        "name": "Jersey",
+        "url": "https://open.spotify.com/album/38S4qMNg1di0obDNZaq8Ma"
       },
       "artists": [
         {
-          "name": "Tinashe",
-          "url": "https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD"
+          "name": "Baby Tate",
+          "url": "https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4"
         }
       ],
-      "duration_ms": 186094,
-      "name": "Tightrope",
-      "url": "https://open.spotify.com/track/2ovaClouYyCligGAi5CzGX"
+      "duration_ms": 171428,
+      "name": "Jersey",
+      "url": "https://open.spotify.com/track/0bzAIaIHmILyOOiP0nQGMj"
     },
     {
       "added_at": "2023-04-28 04:00:51",
@@ -539,6 +523,22 @@
       "duration_ms": 172884,
       "name": "Tighten It Up - Barney Bones - DRAMA Edit",
       "url": "https://open.spotify.com/track/5suNUnahl3rSictF1dBPei"
+    },
+    {
+      "added_at": "2023-10-06 05:19:16",
+      "album": {
+        "name": "BB/ANG3L",
+        "url": "https://open.spotify.com/album/0Ytzeqoskd5VfSVfGGA1SM"
+      },
+      "artists": [
+        {
+          "name": "Tinashe",
+          "url": "https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD"
+        }
+      ],
+      "duration_ms": 186094,
+      "name": "Tightrope",
+      "url": "https://open.spotify.com/track/2ovaClouYyCligGAi5CzGX"
     },
     {
       "added_at": "2023-05-26 04:00:00",
@@ -629,22 +629,6 @@
       "url": "https://open.spotify.com/track/3pSpLYsOi6fZ6N0P962XaJ"
     },
     {
-      "added_at": "2023-10-06 05:19:16",
-      "album": {
-        "name": "Suddenly",
-        "url": "https://open.spotify.com/album/1YQwstKxaZOEpeYfZrszfX"
-      },
-      "artists": [
-        {
-          "name": "KYLE",
-          "url": "https://open.spotify.com/artist/4qBgvVog0wzW75IQ48mU7v"
-        }
-      ],
-      "duration_ms": 121532,
-      "name": "Suddenly",
-      "url": "https://open.spotify.com/track/0TRW7Q3cR5KBFSgHcmxB7t"
-    },
-    {
       "added_at": "2022-05-02 22:05:00",
       "album": {
         "name": "Recap (with VanJess & Channel Tres)",
@@ -667,6 +651,22 @@
       "duration_ms": 177725,
       "name": "Recap (with VanJess & Channel Tres)",
       "url": "https://open.spotify.com/track/2m3RjRXib3un5AEh08k8Fe"
+    },
+    {
+      "added_at": "2023-10-06 05:19:16",
+      "album": {
+        "name": "Suddenly",
+        "url": "https://open.spotify.com/album/1YQwstKxaZOEpeYfZrszfX"
+      },
+      "artists": [
+        {
+          "name": "KYLE",
+          "url": "https://open.spotify.com/artist/4qBgvVog0wzW75IQ48mU7v"
+        }
+      ],
+      "duration_ms": 121532,
+      "name": "Suddenly",
+      "url": "https://open.spotify.com/track/0TRW7Q3cR5KBFSgHcmxB7t"
     },
     {
       "added_at": "2022-08-05 04:16:42",
@@ -769,42 +769,6 @@
       "url": "https://open.spotify.com/track/4fC8mW8ZFQanmSHq30mgWz"
     },
     {
-      "added_at": "2023-10-06 05:19:16",
-      "album": {
-        "name": "ON THE LOW",
-        "url": "https://open.spotify.com/album/0Jdg9AhorPRvu4W5lHyz7A"
-      },
-      "artists": [
-        {
-          "name": "Shay Lia",
-          "url": "https://open.spotify.com/artist/3sJQwG0SsGRyv5C5kh4o9a"
-        }
-      ],
-      "duration_ms": 157251,
-      "name": "ON THE LOW",
-      "url": "https://open.spotify.com/track/1EAYfaIcNMICqXBkpaEdJ5"
-    },
-    {
-      "added_at": "2023-05-26 04:00:00",
-      "album": {
-        "name": "Breathless (with Alina Baraz)",
-        "url": "https://open.spotify.com/album/2uESefirannUYEJxBVc9rQ"
-      },
-      "artists": [
-        {
-          "name": "Austin Millz",
-          "url": "https://open.spotify.com/artist/43UmVQp9qZILibJ5vHq21k"
-        },
-        {
-          "name": "Alina Baraz",
-          "url": "https://open.spotify.com/artist/6hfwwpXqZPRC9CsKI7qtv1"
-        }
-      ],
-      "duration_ms": 168000,
-      "name": "Breathless (with Alina Baraz)",
-      "url": "https://open.spotify.com/track/1BaNZOpKVM6OtBuMfpeGYX"
-    },
-    {
       "added_at": "2023-08-04 15:55:51",
       "album": {
         "name": "Room",
@@ -829,24 +793,40 @@
       "url": "https://open.spotify.com/track/1A4N6HrQfZQhwlhYW9bGiF"
     },
     {
-      "added_at": "2022-05-02 22:05:00",
+      "added_at": "2023-05-26 04:00:00",
       "album": {
-        "name": "Circmvnt",
-        "url": "https://open.spotify.com/album/2eR6L5nfTqjp97Kty4fCgs"
+        "name": "Breathless (with Alina Baraz)",
+        "url": "https://open.spotify.com/album/2uESefirannUYEJxBVc9rQ"
       },
       "artists": [
         {
-          "name": "Elujay",
-          "url": "https://open.spotify.com/artist/1CgbNAF3Stnz1Tpipu3xdO"
+          "name": "Austin Millz",
+          "url": "https://open.spotify.com/artist/43UmVQp9qZILibJ5vHq21k"
         },
         {
-          "name": "HXNS",
-          "url": "https://open.spotify.com/artist/3DmNosRs1GoM9BJPJmsul0"
+          "name": "Alina Baraz",
+          "url": "https://open.spotify.com/artist/6hfwwpXqZPRC9CsKI7qtv1"
         }
       ],
-      "duration_ms": 153076,
-      "name": "1080p",
-      "url": "https://open.spotify.com/track/3kjB9p5GpyOfSnsQeBzpZb"
+      "duration_ms": 168000,
+      "name": "Breathless (with Alina Baraz)",
+      "url": "https://open.spotify.com/track/1BaNZOpKVM6OtBuMfpeGYX"
+    },
+    {
+      "added_at": "2023-10-06 05:19:16",
+      "album": {
+        "name": "ON THE LOW",
+        "url": "https://open.spotify.com/album/0Jdg9AhorPRvu4W5lHyz7A"
+      },
+      "artists": [
+        {
+          "name": "Shay Lia",
+          "url": "https://open.spotify.com/artist/3sJQwG0SsGRyv5C5kh4o9a"
+        }
+      ],
+      "duration_ms": 157251,
+      "name": "ON THE LOW",
+      "url": "https://open.spotify.com/track/1EAYfaIcNMICqXBkpaEdJ5"
     },
     {
       "added_at": "2023-08-04 15:55:51",
@@ -867,6 +847,26 @@
       "duration_ms": 171052,
       "name": "Can't Fake What You Feel",
       "url": "https://open.spotify.com/track/2LPOh5ANJBPtPpixYxG4qq"
+    },
+    {
+      "added_at": "2022-05-02 22:05:00",
+      "album": {
+        "name": "Circmvnt",
+        "url": "https://open.spotify.com/album/2eR6L5nfTqjp97Kty4fCgs"
+      },
+      "artists": [
+        {
+          "name": "Elujay",
+          "url": "https://open.spotify.com/artist/1CgbNAF3Stnz1Tpipu3xdO"
+        },
+        {
+          "name": "HXNS",
+          "url": "https://open.spotify.com/artist/3DmNosRs1GoM9BJPJmsul0"
+        }
+      ],
+      "duration_ms": 153076,
+      "name": "1080p",
+      "url": "https://open.spotify.com/track/3kjB9p5GpyOfSnsQeBzpZb"
     },
     {
       "added_at": "2022-11-11 05:00:00",
@@ -1133,22 +1133,6 @@
       "url": "https://open.spotify.com/track/1oCwqRH1deWph40WFy7zCB"
     },
     {
-      "added_at": "2022-09-23 04:08:19",
-      "album": {
-        "name": "CROSSOVER (Deluxe)",
-        "url": "https://open.spotify.com/album/3blh2LrECEQA15PwechWtO"
-      },
-      "artists": [
-        {
-          "name": "Dua Saleh",
-          "url": "https://open.spotify.com/artist/2DGBzoOLcKLK3eWxFyugdB"
-        }
-      ],
-      "duration_ms": 177483,
-      "name": "day to day",
-      "url": "https://open.spotify.com/track/6PawBhoe8BTRZIu2E7Drv1"
-    },
-    {
       "added_at": "2022-08-05 04:16:42",
       "album": {
         "name": "Ce Soir",
@@ -1167,6 +1151,22 @@
       "duration_ms": 162222,
       "name": "Ce Soir",
       "url": "https://open.spotify.com/track/207wpnoruEx0FoLj2Z8cQj"
+    },
+    {
+      "added_at": "2022-09-23 04:08:19",
+      "album": {
+        "name": "CROSSOVER (Deluxe)",
+        "url": "https://open.spotify.com/album/3blh2LrECEQA15PwechWtO"
+      },
+      "artists": [
+        {
+          "name": "Dua Saleh",
+          "url": "https://open.spotify.com/artist/2DGBzoOLcKLK3eWxFyugdB"
+        }
+      ],
+      "duration_ms": 177483,
+      "name": "day to day",
+      "url": "https://open.spotify.com/track/6PawBhoe8BTRZIu2E7Drv1"
     },
     {
       "added_at": "2022-07-30 02:24:25",
@@ -1365,38 +1365,6 @@
       "url": "https://open.spotify.com/track/4k9BF0WyAx8l8GaB9oJzyV"
     },
     {
-      "added_at": "2023-08-25 17:07:43",
-      "album": {
-        "name": "UPSIDE DOWN",
-        "url": "https://open.spotify.com/album/435sa84NSMTcIzBeSN178q"
-      },
-      "artists": [
-        {
-          "name": "Shay Lia",
-          "url": "https://open.spotify.com/artist/3sJQwG0SsGRyv5C5kh4o9a"
-        }
-      ],
-      "duration_ms": 190200,
-      "name": "UPSIDE DOWN",
-      "url": "https://open.spotify.com/track/7fL09zyZfcsEltjtxL2u11"
-    },
-    {
-      "added_at": "2022-07-30 02:24:25",
-      "album": {
-        "name": "HYPNOS",
-        "url": "https://open.spotify.com/album/5Y4hUd0FPvCed5lu7loMXZ"
-      },
-      "artists": [
-        {
-          "name": "Ravyn Lenae",
-          "url": "https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz"
-        }
-      ],
-      "duration_ms": 178200,
-      "name": "Xtasy",
-      "url": "https://open.spotify.com/track/0jqJNqmrdryU1nnctIzu9n"
-    },
-    {
       "added_at": "2022-08-26 04:23:37",
       "album": {
         "name": "Comfy",
@@ -1419,6 +1387,38 @@
       "duration_ms": 163655,
       "name": "Comfy",
       "url": "https://open.spotify.com/track/3wdHjg6olS8kdwepTW4jJm"
+    },
+    {
+      "added_at": "2022-07-30 02:24:25",
+      "album": {
+        "name": "HYPNOS",
+        "url": "https://open.spotify.com/album/5Y4hUd0FPvCed5lu7loMXZ"
+      },
+      "artists": [
+        {
+          "name": "Ravyn Lenae",
+          "url": "https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz"
+        }
+      ],
+      "duration_ms": 178200,
+      "name": "Xtasy",
+      "url": "https://open.spotify.com/track/0jqJNqmrdryU1nnctIzu9n"
+    },
+    {
+      "added_at": "2023-08-25 17:07:43",
+      "album": {
+        "name": "UPSIDE DOWN",
+        "url": "https://open.spotify.com/album/435sa84NSMTcIzBeSN178q"
+      },
+      "artists": [
+        {
+          "name": "Shay Lia",
+          "url": "https://open.spotify.com/artist/3sJQwG0SsGRyv5C5kh4o9a"
+        }
+      ],
+      "duration_ms": 190200,
+      "name": "UPSIDE DOWN",
+      "url": "https://open.spotify.com/track/7fL09zyZfcsEltjtxL2u11"
     },
     {
       "added_at": "2022-07-30 02:24:25",
@@ -1677,22 +1677,6 @@
       "url": "https://open.spotify.com/track/4qIWpGpSRXtK5hJOR8MF5k"
     },
     {
-      "added_at": "2023-01-27 05:00:00",
-      "album": {
-        "name": "So Badly",
-        "url": "https://open.spotify.com/album/3v3waqFybLYp6P4iKAmzg9"
-      },
-      "artists": [
-        {
-          "name": "Liv East",
-          "url": "https://open.spotify.com/artist/12Yeojvul63OHxXXI6Z5x7"
-        }
-      ],
-      "duration_ms": 230002,
-      "name": "So Badly",
-      "url": "https://open.spotify.com/track/1kQf4Q7IdIAJYK80DAj6eR"
-    },
-    {
       "added_at": "2023-10-06 05:19:16",
       "album": {
         "name": "The R&B You Love",
@@ -1711,6 +1695,22 @@
       "duration_ms": 263974,
       "name": "Fantasy",
       "url": "https://open.spotify.com/track/0dGFloLLIZyAbD6EjuBVFL"
+    },
+    {
+      "added_at": "2023-01-27 05:00:00",
+      "album": {
+        "name": "So Badly",
+        "url": "https://open.spotify.com/album/3v3waqFybLYp6P4iKAmzg9"
+      },
+      "artists": [
+        {
+          "name": "Liv East",
+          "url": "https://open.spotify.com/artist/12Yeojvul63OHxXXI6Z5x7"
+        }
+      ],
+      "duration_ms": 230002,
+      "name": "So Badly",
+      "url": "https://open.spotify.com/track/1kQf4Q7IdIAJYK80DAj6eR"
     },
     {
       "added_at": "2023-06-30 04:31:23",
@@ -1813,22 +1813,6 @@
       "url": "https://open.spotify.com/track/5Fn84Bv2RuSP8J0cQfS0zK"
     },
     {
-      "added_at": "2023-10-06 05:19:16",
-      "album": {
-        "name": "BCN (HOME TO YOU)",
-        "url": "https://open.spotify.com/album/0c7xTfjQPNn9QwSr8I7Byd"
-      },
-      "artists": [
-        {
-          "name": "Jaylon Ashaun",
-          "url": "https://open.spotify.com/artist/5dhseP7KiICmkxT5waM1Md"
-        }
-      ],
-      "duration_ms": 124588,
-      "name": "BCN (HOME TO YOU)",
-      "url": "https://open.spotify.com/track/0PVuDWvSOp0WFu2yfl7vjR"
-    },
-    {
       "added_at": "2023-01-20 05:00:00",
       "album": {
         "name": "Contact",
@@ -1867,6 +1851,22 @@
       "duration_ms": 260545,
       "name": "Take You Higher - Serebii & Arjuna Oakes Remix",
       "url": "https://open.spotify.com/track/4fwlAd50vwI7q8KvzVPy6E"
+    },
+    {
+      "added_at": "2023-10-06 05:19:16",
+      "album": {
+        "name": "BCN (HOME TO YOU)",
+        "url": "https://open.spotify.com/album/0c7xTfjQPNn9QwSr8I7Byd"
+      },
+      "artists": [
+        {
+          "name": "Jaylon Ashaun",
+          "url": "https://open.spotify.com/artist/5dhseP7KiICmkxT5waM1Md"
+        }
+      ],
+      "duration_ms": 124588,
+      "name": "BCN (HOME TO YOU)",
+      "url": "https://open.spotify.com/track/0PVuDWvSOp0WFu2yfl7vjR"
     },
     {
       "added_at": "2022-07-30 02:24:25",

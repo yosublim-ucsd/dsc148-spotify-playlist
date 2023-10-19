@@ -4,7 +4,7 @@
 
 > Hymns for darker hours.
 
-246 songs - 20 hr 45 min
+247 songs - 20 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -171,7 +171,7 @@
 | [Rendering Intuitions](https://open.spotify.com/track/1JsRDrH5qt8QV5wqMOjQfk) | [Caterina Barbieri](https://open.spotify.com/artist/61WgG5fz5ilJrMne7tE1zu) | [Born Again In The Voltage](https://open.spotify.com/album/357UFd2FDdnDRYS3IdyhJs) | 6:36 | 2022-01-28 | 2022-07-17 |
 | [Retrato](https://open.spotify.com/track/4i3zoVPfErzbpCtqplEDPL) | [Murcof](https://open.spotify.com/artist/0liG9qD19eWrt5Ur4cnsYd) | [Remembranza](https://open.spotify.com/album/7daEEsVemtGgl9NONjmBZk) | 2:26 | 2022-10-14 | 2023-05-01 |
 | [Retrato](https://open.spotify.com/track/6ivI3NsiMz2JCgpkf6MK6L) | [Murcof](https://open.spotify.com/artist/0liG9qD19eWrt5Ur4cnsYd) | [Remembranza](https://open.spotify.com/album/4wFHTdeCa6rLGmm0ExoxlB) | 2:26 | 2023-04-21 |  |
-| [Ribbon](https://open.spotify.com/track/16lUfemInxpAtAdj6pP9YM) | [Tor Lundvall](https://open.spotify.com/artist/4wLng1JS1GSvps2dPloyzf) | [The Mist](https://open.spotify.com/album/0hQyEbdpZx8W6WDjuYCKx1) | 2:06 | 2023-01-27 |  |
+| [Ribbon](https://open.spotify.com/track/16lUfemInxpAtAdj6pP9YM) | [Tor Lundvall](https://open.spotify.com/artist/4wLng1JS1GSvps2dPloyzf) | [The Mist](https://open.spotify.com/album/0hQyEbdpZx8W6WDjuYCKx1) | 2:06 | 2023-01-27 | 2023-10-19 |
 | [River Whispering Run](https://open.spotify.com/track/7A5ldrheWtMQn2SJulc8dI) | [Scanner](https://open.spotify.com/artist/7FEmduuEjfoagq6Qrgviji) | [Earthbound Transmissions](https://open.spotify.com/album/6cfxV50gEXtH9Pn21VEK4h) | 5:08 | 2022-01-21 |  |
 | [rough days](https://open.spotify.com/track/1GC7RrcffnCEoXsXhpODJK) | [Krynoze](https://open.spotify.com/artist/3iGthn6RykA9JUHnilAIr0), [eleven](https://open.spotify.com/artist/2je6GFLTZmAbrnjokRtWfU) | [rough days](https://open.spotify.com/album/5LU0lGGbc4nJMxkJmCrKof) | 1:46 | 2023-07-21 | 2023-10-06 |
 | [Run](https://open.spotify.com/track/6ArIMZvWATiUfpghkv1PdW) | [Hania Rani](https://open.spotify.com/artist/14YzutUdMwS9yTnI0IFBaD) | [The Lost Flowers of Alice Hart \(Prime Video Original Series Soundtrack\)](https://open.spotify.com/album/1bl1WwTWbH18xVJtq3KfDY) | 3:51 | 2023-08-11 |  |
@@ -226,6 +226,7 @@
 | [this feeling \(Slowed + Reverb\)](https://open.spotify.com/track/1PEKGePNN1XrdKG2QQDUCv) | [Øneheart](https://open.spotify.com/artist/0dgJbQ0bKPyUXco8hEXN7X) | [this feeling \(Slowed + Reverb\)](https://open.spotify.com/album/6yGOt8ZXsdPcKNybC7aOX7) | 1:54 | 2022-05-06 | 2023-10-06 |
 | [this feels like the beginning](https://open.spotify.com/track/2SslDUGBv2etZLquEm0OIX) | [Flatsound](https://open.spotify.com/artist/4ze1UwMqtSlhTgnyk8LrW3) | [this feels like the beginning](https://open.spotify.com/album/5SOdDcqDqIjugvKJcMdztD) | 4:24 | 2023-09-01 |  |
 | [Time Dilation](https://open.spotify.com/track/3W5cNo9ITRF4w6tage4yGf) | [Fredrik Jonasson](https://open.spotify.com/artist/03XDTtBcCjJVSDrvs322wd) | [Aether](https://open.spotify.com/album/3j9CUqBHIVr3vX17MjGvl0) | 4:20 | 2022-02-18 |  |
+| [Time Travel](https://open.spotify.com/track/5uFH2z81nnknaxof1PwWyq) | [AG Sintonia Project](https://open.spotify.com/artist/1us57VQ78Hp3nvNoPyozqF) | [Time Travel](https://open.spotify.com/album/0YcPJToykCH6HMPk9R0gPm) | 3:12 | 2023-10-06 |  |
 | [Toimetonna](https://open.spotify.com/track/5XVbQfGCe3tYYZruCFXlUq) | [För Alltid](https://open.spotify.com/artist/5aPyGWlpqRG3hlsbTDgPPu) | [Toimetonna](https://open.spotify.com/album/33f4xR6aZb6Z4Hl0xKLJlI) | 3:08 | 2022-01-28 |  |
 | [Torrek](https://open.spotify.com/track/5wiNhkUEe7imXJiwPQAuIe) | [Hildur Guðnadóttir](https://open.spotify.com/artist/2lD1D6eEh7xQdBtnl2Ik7Y) | [Saman](https://open.spotify.com/album/4aUIcPykNGnZ6sYRGaM2Dk) | 2:19 | 2022-03-25 |  |
 | [Transcend](https://open.spotify.com/track/2M0EmEypUn9U1YHgNocVGi) | [Respira](https://open.spotify.com/artist/6u9COHFMoQroLZ3tfh9s7e), [Atmøsphäre](https://open.spotify.com/artist/4aGsKbTLPMWGYvIPWiqPhj) | [Transcend](https://open.spotify.com/album/38Sxp6afQ9t8zLWarjfWJ5) | 7:37 | 2022-02-11 |  |

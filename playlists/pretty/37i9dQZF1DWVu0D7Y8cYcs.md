@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVu0D7Y8cYcs.md) - [plain]
 
 > Come on, man\. Just smile!
 
-[Spotify](https://open.spotify.com/user/spotify) - 481,908 likes - 50 songs - 2 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 481,996 likes - 50 songs - 2 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVu0D7Y8cYcs.md) - [plain]
 | 49 | [Warm & Easy](https://open.spotify.com/track/2K02J8shfay33u49WhlaZg) | [Gyptian](https://open.spotify.com/artist/2JX4h8xm0hNxCB0aNBWzyi) | [Warm & Easy](https://open.spotify.com/album/3IkZdCpD7KXA0gMA0REKLl) | 4:55 |
 | 50 | [Grateful](https://open.spotify.com/track/1wslSV8ppr83jS3fWHHYQT) | [Agent Sasco \(Assassin\)](https://open.spotify.com/artist/0CiLVKp7LJTm0c8jdUmQNy), [Stephen Marley](https://open.spotify.com/artist/0CIwCGmQMqHqiblnZlFia1) | [Grateful](https://open.spotify.com/album/5tU3ADncFHfdDScnuzWTXa) | 4:33 |
 
-Snapshot ID: `MCwxNjRmZjRmMTA1YWY1N2VmNGUzMTA2MDA4Mjc3MTM2NWMzYjE0ZGI0`
+Snapshot ID: `MCw4ZjEzMTViODUwOTdmMWYzYWFiYjU3ODI5MjhjYTBmZmExZDFhNmY1`

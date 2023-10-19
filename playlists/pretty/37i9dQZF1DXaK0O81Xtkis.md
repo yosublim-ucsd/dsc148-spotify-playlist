@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaK0O81Xtkis.md) - [plain]
 
 > make it pop! cover: Aidan Bissett
 
-[Spotify](https://open.spotify.com/user/spotify) - 210,110 likes - 70 songs - 3 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 210,154 likes - 70 songs - 3 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,7 +60,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaK0O81Xtkis.md) - [plain]
 | 50 | [Right Here, for Now](https://open.spotify.com/track/2mMU463xwCEiBKJJTlA3tc) | [Bakar](https://open.spotify.com/artist/3K2Srho6NCF3o9MswGR76H) | [Right Here, For Now](https://open.spotify.com/album/5eiR2EXJbe3N9QTzFJ4Jzi) | 3:00 |
 | 51 | [Internet Boy](https://open.spotify.com/track/4CIWbTFSV1WX8WjnkgHBY2) | [Bradley Kim](https://open.spotify.com/artist/3nJiC4ijSQZ1HHJB0gqJWM) | [Internet Boy](https://open.spotify.com/album/4i9NHE0Z6lfnQMzuY4gOA4) | 2:59 |
 | 52 | [Loser](https://open.spotify.com/track/17fCb9V3l6TDdZgITI2JxB) | [Kyle Hume](https://open.spotify.com/artist/0p3tzEAt0XWrBqbrwBoN1I) | [Loser](https://open.spotify.com/album/3fAGoxl8Jutg1VmAcA0pgy) | 2:09 |
-| 53 | [See You Later](https://open.spotify.com/track/1Gu9Ub6kjlbsk64jY7Qjgs) | [The Band CAMINO](https://open.spotify.com/artist/6d4jrmreCmsenscuieJERc) | [See You Later](https://open.spotify.com/album/3F5wWjyaj0raSg2JFK1Yqw) | 2:35 |
+| 53 | [See You Later](https://open.spotify.com/track/0PCtDCMDypMnUhVrLyOQZs) | [The Band CAMINO](https://open.spotify.com/artist/6d4jrmreCmsenscuieJERc) | [The Dark](https://open.spotify.com/album/6S2FI6xzGq3INs2WnlB9ou) | 2:35 |
 | 54 | [Enough Is Enough](https://open.spotify.com/track/3BHFResGQiUvbYToUdaDQz) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60) | [AUSTIN](https://open.spotify.com/album/6r1lh7fHMB499vGKtIyJLy) | 2:45 |
 | 55 | [Sun Sick](https://open.spotify.com/track/1SJoB0RUX2X1oboDNzLTle) | [Roseburg](https://open.spotify.com/artist/6aYFM3YVoyI9q7DuTRY9nY) | [Sun Sick](https://open.spotify.com/album/1EaEYIhVXXTyvtLcZfuK5Y) | 2:53 |
 | 56 | [Off By Heart](https://open.spotify.com/track/2SYPolHtiL3IdKPkTDKNIY) | [Dulcie](https://open.spotify.com/artist/5mizYbdTNtmQlU97XqxJOe) | [Off By Heart](https://open.spotify.com/album/5JpDR4H0reeTZTS453Xbc1) | 3:03 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaK0O81Xtkis.md) - [plain]
 | 69 | [Ruin My Life](https://open.spotify.com/track/64239Uo0wTZHwUVipPzBbw) | [BLÜ EYES](https://open.spotify.com/artist/2gI1WfmpFmmgSRojy4Jup2) | [The Last Songs I'll Write About You \(for real\)](https://open.spotify.com/album/49uA6OX4uL1St7ZPWJ4kGD) | 3:40 |
 | 70 | [One That Got Away](https://open.spotify.com/track/55RszydvrfNlZ2BQdF1c4q) | [MUNA](https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn) | [One That Got Away](https://open.spotify.com/album/2FAHnRUhqr0Scl92hrAond) | 3:52 |
 
-Snapshot ID: `MCwyZWZmMWE3ODYxMmNkMTg0ZGQ3OTNmODJiMDZlNmNlYmNjNDQyMGZk`
+Snapshot ID: `MCwxYjEyNGU1MmZmYTQ2N2NmZTVkNTZjNmQ1OWI1NjdlODcwODgxMmU1`

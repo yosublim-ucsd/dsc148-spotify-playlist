@@ -1,12 +1,12 @@
 {
   "description": "Rock with a Drop. Cover: Pendulum \\m/",
-  "num_followers": 318735,
+  "num_followers": 318793,
   "original_name": "Rocktronic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0MzllY2NlYTcwZGQyMzZiNjgxMTY0N2RmNGU0ZDIxZmRkMTMyZGMy",
+  "snapshot_id": "MCxkZWQyZGM5YWJiYTEwOTdkNDVkZDQwMTA4MGRlOWJmZTJmNmY1NzAx",
   "tracks": [
     {
       "added_at": "2023-09-29 13:15:03",
@@ -1095,6 +1095,22 @@
     {
       "added_at": "2023-09-29 13:15:03",
       "album": {
+        "name": "War",
+        "url": "https://open.spotify.com/album/3Tb37lT5xnXxi1WS4kyOfW"
+      },
+      "artists": [
+        {
+          "name": "Layto",
+          "url": "https://open.spotify.com/artist/0MqXw0plXKIaJtM342hIag"
+        }
+      ],
+      "duration_ms": 195254,
+      "name": "War",
+      "url": "https://open.spotify.com/track/2LUsPNpXp7vpLK3U7AIJoG"
+    },
+    {
+      "added_at": "2023-09-29 13:15:03",
+      "album": {
         "name": "JUMP OUT",
         "url": "https://open.spotify.com/album/2Yfy23tLGgsCLDWfxnIKGj"
       },
@@ -1111,22 +1127,6 @@
       "duration_ms": 129776,
       "name": "JUMP OUT",
       "url": "https://open.spotify.com/track/1SCiaEWrW8y8mEEFoQ3RO7"
-    },
-    {
-      "added_at": "2023-09-29 13:15:03",
-      "album": {
-        "name": "War",
-        "url": "https://open.spotify.com/album/3Tb37lT5xnXxi1WS4kyOfW"
-      },
-      "artists": [
-        {
-          "name": "Layto",
-          "url": "https://open.spotify.com/artist/0MqXw0plXKIaJtM342hIag"
-        }
-      ],
-      "duration_ms": 195254,
-      "name": "War",
-      "url": "https://open.spotify.com/track/2LUsPNpXp7vpLK3U7AIJoG"
     },
     {
       "added_at": "2023-09-29 13:15:03",
@@ -1151,6 +1151,22 @@
     {
       "added_at": "2023-09-29 13:15:03",
       "album": {
+        "name": "Already Dead",
+        "url": "https://open.spotify.com/album/19dUZs24O6DtL07yWRsGf2"
+      },
+      "artists": [
+        {
+          "name": "GG Magree",
+          "url": "https://open.spotify.com/artist/54pgkpWVgQYbQXD8bkUP8n"
+        }
+      ],
+      "duration_ms": 139925,
+      "name": "Already Dead",
+      "url": "https://open.spotify.com/track/2NMdjMrdycTgwwOV1HSg6y"
+    },
+    {
+      "added_at": "2023-09-29 13:15:03",
+      "album": {
         "name": "Beautiful Nothing",
         "url": "https://open.spotify.com/album/0MaD5lTQ32Np46N7qTmR4f"
       },
@@ -1171,22 +1187,6 @@
       "duration_ms": 211862,
       "name": "Beautiful Nothing",
       "url": "https://open.spotify.com/track/0x5j3PoYG2Hex2bUrbBX3v"
-    },
-    {
-      "added_at": "2023-09-29 13:15:03",
-      "album": {
-        "name": "Already Dead",
-        "url": "https://open.spotify.com/album/19dUZs24O6DtL07yWRsGf2"
-      },
-      "artists": [
-        {
-          "name": "GG Magree",
-          "url": "https://open.spotify.com/artist/54pgkpWVgQYbQXD8bkUP8n"
-        }
-      ],
-      "duration_ms": 139925,
-      "name": "Already Dead",
-      "url": "https://open.spotify.com/track/2NMdjMrdycTgwwOV1HSg6y"
     },
     {
       "added_at": "2023-09-29 13:15:03",
@@ -1275,22 +1275,6 @@
     {
       "added_at": "2023-09-29 13:15:03",
       "album": {
-        "name": "Phoenix",
-        "url": "https://open.spotify.com/album/6oh5zFZzFawNVHyo4lzhhX"
-      },
-      "artists": [
-        {
-          "name": "AViVA",
-          "url": "https://open.spotify.com/artist/50tDsT4wwq8FCMJNkn1D67"
-        }
-      ],
-      "duration_ms": 197935,
-      "name": "Phoenix",
-      "url": "https://open.spotify.com/track/0jX4nQqJS7m1fHodsWKpp1"
-    },
-    {
-      "added_at": "2023-09-29 13:15:03",
-      "album": {
         "name": "When You & Me Dance",
         "url": "https://open.spotify.com/album/5nlEUq9BStiziYyP1z5bkd"
       },
@@ -1303,6 +1287,22 @@
       "duration_ms": 221142,
       "name": "When You & Me Dance",
       "url": "https://open.spotify.com/track/0rHp9fr5I0LBaK2szxKgms"
+    },
+    {
+      "added_at": "2023-09-29 13:15:03",
+      "album": {
+        "name": "Phoenix",
+        "url": "https://open.spotify.com/album/6oh5zFZzFawNVHyo4lzhhX"
+      },
+      "artists": [
+        {
+          "name": "AViVA",
+          "url": "https://open.spotify.com/artist/50tDsT4wwq8FCMJNkn1D67"
+        }
+      ],
+      "duration_ms": 197935,
+      "name": "Phoenix",
+      "url": "https://open.spotify.com/track/0jX4nQqJS7m1fHodsWKpp1"
     },
     {
       "added_at": "2023-09-29 13:15:03",
@@ -1411,6 +1411,22 @@
     {
       "added_at": "2023-09-29 13:15:03",
       "album": {
+        "name": "Loving You Kills Me",
+        "url": "https://open.spotify.com/album/53r3BRA2TeyJyEtYDBrI60"
+      },
+      "artists": [
+        {
+          "name": "GG Magree",
+          "url": "https://open.spotify.com/artist/54pgkpWVgQYbQXD8bkUP8n"
+        }
+      ],
+      "duration_ms": 174657,
+      "name": "Loving You Kills Me",
+      "url": "https://open.spotify.com/track/2Zjg31wnbhRzGsnOrnEY0r"
+    },
+    {
+      "added_at": "2023-09-29 13:15:03",
+      "album": {
         "name": "SKINS",
         "url": "https://open.spotify.com/album/6MQeqXw9V1TmwvQRmZCSfP"
       },
@@ -1427,22 +1443,6 @@
       "duration_ms": 310607,
       "name": "Skins",
       "url": "https://open.spotify.com/track/54zrIs7UXX7kp3sFj7mlvG"
-    },
-    {
-      "added_at": "2023-09-29 13:15:03",
-      "album": {
-        "name": "Loving You Kills Me",
-        "url": "https://open.spotify.com/album/53r3BRA2TeyJyEtYDBrI60"
-      },
-      "artists": [
-        {
-          "name": "GG Magree",
-          "url": "https://open.spotify.com/artist/54pgkpWVgQYbQXD8bkUP8n"
-        }
-      ],
-      "duration_ms": 174657,
-      "name": "Loving You Kills Me",
-      "url": "https://open.spotify.com/track/2Zjg31wnbhRzGsnOrnEY0r"
     },
     {
       "added_at": "2023-09-29 13:15:03",
@@ -1959,22 +1959,6 @@
     {
       "added_at": "2023-09-29 13:15:03",
       "album": {
-        "name": "Playing Chess",
-        "url": "https://open.spotify.com/album/50tXNZuf7nO2A2RvckpFrl"
-      },
-      "artists": [
-        {
-          "name": "Giol\u00ec & Assia",
-          "url": "https://open.spotify.com/artist/6mM9a86Nrw0y7f9MaJGbpU"
-        }
-      ],
-      "duration_ms": 231739,
-      "name": "Playing Chess",
-      "url": "https://open.spotify.com/track/2leNp4jIw6UIypwbcIVR3S"
-    },
-    {
-      "added_at": "2023-09-29 13:15:03",
-      "album": {
         "name": "Falling",
         "url": "https://open.spotify.com/album/6s01oJfNMzklI98wT7YgDU"
       },
@@ -1991,6 +1975,22 @@
       "duration_ms": 209411,
       "name": "Falling",
       "url": "https://open.spotify.com/track/2jy15HYKNtWQ0STN9ZOw8v"
+    },
+    {
+      "added_at": "2023-09-29 13:15:03",
+      "album": {
+        "name": "Playing Chess",
+        "url": "https://open.spotify.com/album/50tXNZuf7nO2A2RvckpFrl"
+      },
+      "artists": [
+        {
+          "name": "Giol\u00ec & Assia",
+          "url": "https://open.spotify.com/artist/6mM9a86Nrw0y7f9MaJGbpU"
+        }
+      ],
+      "duration_ms": 231739,
+      "name": "Playing Chess",
+      "url": "https://open.spotify.com/track/2leNp4jIw6UIypwbcIVR3S"
     },
     {
       "added_at": "2023-09-29 13:15:03",
@@ -2219,22 +2219,18 @@
     {
       "added_at": "2023-09-29 13:15:03",
       "album": {
-        "name": "Don't Miss (The Bloody Beetroots Remix)",
-        "url": "https://open.spotify.com/album/3yLlpoqKPuRHhUPdvxHJCD"
+        "name": "Fallout",
+        "url": "https://open.spotify.com/album/5qXRnuy8l76kO4TfVGjOUW"
       },
       "artists": [
         {
-          "name": "The Blue Stones",
-          "url": "https://open.spotify.com/artist/5VPCIIfZPK8KPsgz4jmOEC"
-        },
-        {
-          "name": "The Bloody Beetroots",
-          "url": "https://open.spotify.com/artist/0QJKELJZZuLAjqLOOixJm5"
+          "name": "HVDES",
+          "url": "https://open.spotify.com/artist/3koHmmPvpgZWHcVmK8AKDq"
         }
       ],
-      "duration_ms": 178181,
-      "name": "Don\u2019t Miss - The Bloody Beetroots Remix",
-      "url": "https://open.spotify.com/track/5noYbWiU8xMYd4VEPOeFRz"
+      "duration_ms": 292173,
+      "name": "Fallout",
+      "url": "https://open.spotify.com/track/0Z3azmUTP30fOD1XJ0hSjV"
     },
     {
       "added_at": "2023-09-29 13:15:03",
@@ -2259,18 +2255,22 @@
     {
       "added_at": "2023-09-29 13:15:03",
       "album": {
-        "name": "Fallout",
-        "url": "https://open.spotify.com/album/5qXRnuy8l76kO4TfVGjOUW"
+        "name": "Don't Miss (The Bloody Beetroots Remix)",
+        "url": "https://open.spotify.com/album/3yLlpoqKPuRHhUPdvxHJCD"
       },
       "artists": [
         {
-          "name": "HVDES",
-          "url": "https://open.spotify.com/artist/3koHmmPvpgZWHcVmK8AKDq"
+          "name": "The Blue Stones",
+          "url": "https://open.spotify.com/artist/5VPCIIfZPK8KPsgz4jmOEC"
+        },
+        {
+          "name": "The Bloody Beetroots",
+          "url": "https://open.spotify.com/artist/0QJKELJZZuLAjqLOOixJm5"
         }
       ],
-      "duration_ms": 292173,
-      "name": "Fallout",
-      "url": "https://open.spotify.com/track/0Z3azmUTP30fOD1XJ0hSjV"
+      "duration_ms": 178181,
+      "name": "Don\u2019t Miss - The Bloody Beetroots Remix",
+      "url": "https://open.spotify.com/track/5noYbWiU8xMYd4VEPOeFRz"
     },
     {
       "added_at": "2023-09-29 13:15:03",
@@ -2339,30 +2339,6 @@
     {
       "added_at": "2023-09-29 13:15:03",
       "album": {
-        "name": "Do Or Die (Alternate Versions)",
-        "url": "https://open.spotify.com/album/6C2Xchyqz7zTOBrhUTTCnd"
-      },
-      "artists": [
-        {
-          "name": "Magnolia Park",
-          "url": "https://open.spotify.com/artist/7B76SsfzG0wWk1WEvGzCmY"
-        },
-        {
-          "name": "Ethan Ross",
-          "url": "https://open.spotify.com/artist/59PupD35uDhgTCVfuV3GtN"
-        },
-        {
-          "name": "VYPER \uae68\ubb3c\ub2e4",
-          "url": "https://open.spotify.com/artist/0hb4fvsnN8bSS30ufdWWgx"
-        }
-      ],
-      "duration_ms": 148153,
-      "name": "Do Or Die - VYPER \uae68\ubb3c\ub2e4 PHONK REMIX",
-      "url": "https://open.spotify.com/track/16daDDrOxuj4IhofaSHIFN"
-    },
-    {
-      "added_at": "2023-09-29 13:15:03",
-      "album": {
         "name": "Favour",
         "url": "https://open.spotify.com/album/2IyRXg2vo1lGbAEHvPo4H8"
       },
@@ -2383,22 +2359,26 @@
     {
       "added_at": "2023-09-29 13:15:03",
       "album": {
-        "name": "Crash",
-        "url": "https://open.spotify.com/album/2bGQnP0JUPy0tL3MZq67kD"
+        "name": "Do Or Die (Alternate Versions)",
+        "url": "https://open.spotify.com/album/6C2Xchyqz7zTOBrhUTTCnd"
       },
       "artists": [
         {
-          "name": "Sextile",
-          "url": "https://open.spotify.com/artist/4ReoJ2faKfdjI0plizlL56"
+          "name": "Magnolia Park",
+          "url": "https://open.spotify.com/artist/7B76SsfzG0wWk1WEvGzCmY"
         },
         {
-          "name": "Izzy Glaudini",
-          "url": "https://open.spotify.com/artist/1VqGiwhaU2Djzx8UYFKr2x"
+          "name": "Ethan Ross",
+          "url": "https://open.spotify.com/artist/59PupD35uDhgTCVfuV3GtN"
+        },
+        {
+          "name": "VYPER \uae68\ubb3c\ub2e4",
+          "url": "https://open.spotify.com/artist/0hb4fvsnN8bSS30ufdWWgx"
         }
       ],
-      "duration_ms": 283026,
-      "name": "Crash",
-      "url": "https://open.spotify.com/track/25SwJzzyuKCAHSIIcgYEjo"
+      "duration_ms": 148153,
+      "name": "Do Or Die - VYPER \uae68\ubb3c\ub2e4 PHONK REMIX",
+      "url": "https://open.spotify.com/track/16daDDrOxuj4IhofaSHIFN"
     },
     {
       "added_at": "2023-09-29 13:15:03",
@@ -2443,6 +2423,26 @@
     {
       "added_at": "2023-09-29 13:15:03",
       "album": {
+        "name": "Crash",
+        "url": "https://open.spotify.com/album/2bGQnP0JUPy0tL3MZq67kD"
+      },
+      "artists": [
+        {
+          "name": "Sextile",
+          "url": "https://open.spotify.com/artist/4ReoJ2faKfdjI0plizlL56"
+        },
+        {
+          "name": "Izzy Glaudini",
+          "url": "https://open.spotify.com/artist/1VqGiwhaU2Djzx8UYFKr2x"
+        }
+      ],
+      "duration_ms": 283026,
+      "name": "Crash",
+      "url": "https://open.spotify.com/track/25SwJzzyuKCAHSIIcgYEjo"
+    },
+    {
+      "added_at": "2023-09-29 13:15:03",
+      "album": {
         "name": "Get To U",
         "url": "https://open.spotify.com/album/7vKLfc4WO47NIDIrXOUqDB"
       },
@@ -2455,26 +2455,6 @@
       "duration_ms": 176008,
       "name": "Get To U",
       "url": "https://open.spotify.com/track/7J5d8EHVjEYbMgOXGi0PKD"
-    },
-    {
-      "added_at": "2023-09-29 13:15:03",
-      "album": {
-        "name": "Cute Without The E (Ziri)",
-        "url": "https://open.spotify.com/album/11oBNhmgFJzk7QGa4LraT0"
-      },
-      "artists": [
-        {
-          "name": "Steve Aoki",
-          "url": "https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs"
-        },
-        {
-          "name": "Taking Back Sunday",
-          "url": "https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1"
-        }
-      ],
-      "duration_ms": 202105,
-      "name": "Cute Without The E (Ziri)",
-      "url": "https://open.spotify.com/track/4c840ZcqSo23gsv6tBdbar"
     },
     {
       "added_at": "2023-09-29 13:15:03",
@@ -2495,6 +2475,26 @@
       "duration_ms": 290454,
       "name": "Ghostbox",
       "url": "https://open.spotify.com/track/0pasNqXDQBVGUVf131BNsI"
+    },
+    {
+      "added_at": "2023-09-29 13:15:03",
+      "album": {
+        "name": "Cute Without The E (Ziri)",
+        "url": "https://open.spotify.com/album/11oBNhmgFJzk7QGa4LraT0"
+      },
+      "artists": [
+        {
+          "name": "Steve Aoki",
+          "url": "https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs"
+        },
+        {
+          "name": "Taking Back Sunday",
+          "url": "https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1"
+        }
+      ],
+      "duration_ms": 202105,
+      "name": "Cute Without The E (Ziri)",
+      "url": "https://open.spotify.com/track/4c840ZcqSo23gsv6tBdbar"
     }
   ],
   "unique_name": "Rocktronic",

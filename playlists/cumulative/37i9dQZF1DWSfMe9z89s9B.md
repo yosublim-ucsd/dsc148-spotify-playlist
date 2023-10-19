@@ -4,7 +4,7 @@
 
 > Leaders of the new school...Alternative R&B\. Cover: Che Ecru
 
-990 songs - 2 day 5 hr 6 min
+991 songs - 2 day 5 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,7 +15,7 @@
 | [2 DOGS 1 LEASH](https://open.spotify.com/track/3fyoU0LaGw1yqxK2bbWcOJ) | [Noah Guy](https://open.spotify.com/artist/0Cj5PLNNGVOsXUig1ic4s5) | [2 DOGS 1 LEASH](https://open.spotify.com/album/2IcmVtVgkrX6bmjRL03Kqz) | 2:42 | 2022-07-29 | 2023-03-04 |
 | [2 seater](https://open.spotify.com/track/3hU9W3drI6DjpQnvx53osT) | [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2), [dj gummy bear](https://open.spotify.com/artist/78ECvrY5jP8mbGU52iyNSw) | [2 seater](https://open.spotify.com/album/67CW3pOkOhn5ugepbhxCJ4) | 1:05 | 2023-03-24 | 2023-07-22 |
 | [2 You](https://open.spotify.com/track/0OEKGHJFPl3qI3BMsyqhzc) | [Mariah the Scientist](https://open.spotify.com/artist/7HO5fOXE4gh3lzZn64tX2E) | [2 You](https://open.spotify.com/album/59QHpipNvxJcD0fSHUnHmo) | 3:04 | 2021-06-18 | 2022-07-16 |
-| [2007](https://open.spotify.com/track/4LDPVpLoRZIvSCeLC0Ueyx) | [RAAHiiM](https://open.spotify.com/artist/5Bo5WRNdz8ZOSVA6nJs5M9) | [BUT IF iiM HONEST](https://open.spotify.com/album/4z8EfEYVvJwlSb0wcPBHjl) | 3:04 | 2023-08-11 |  |
+| [2007](https://open.spotify.com/track/4LDPVpLoRZIvSCeLC0Ueyx) | [RAAHiiM](https://open.spotify.com/artist/5Bo5WRNdz8ZOSVA6nJs5M9) | [BUT IF iiM HONEST](https://open.spotify.com/album/4z8EfEYVvJwlSb0wcPBHjl) | 3:04 | 2023-08-11 | 2023-10-19 |
 | [23rd Street](https://open.spotify.com/track/0mPU13KnWqvIgrfeNkXKLx) | [Christian Kuria](https://open.spotify.com/artist/4uaGojdWj4H6cTJydZUPWG) | [Suspension of Disbelief](https://open.spotify.com/album/3dUPM1NIw5YPL4YQhU7aG2) | 3:24 | 2022-12-02 |  |
 | [2MANYTHINGS](https://open.spotify.com/track/0dm5kcMG7XxCcUrKXGUsNg) | [Gwen Bunn](https://open.spotify.com/artist/6dPh96zLnVMZVHnr66WRjg) | [2MANYTHINGS](https://open.spotify.com/album/1lea6sbjaKZ9fOaADXPMRg) | 3:13 | 2022-07-15 | 2023-08-13 |
 | [3 Boys](https://open.spotify.com/track/31Wlc9ZnraX3JxrvMg9e8H) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [3 Boys](https://open.spotify.com/album/1Iw32lOJC5lfInKyA7Zzt1) | 3:29 | 2023-02-17 | 2023-03-25 |
@@ -346,7 +346,7 @@
 | [Give Me Your Love](https://open.spotify.com/track/0uWdYu6qICiGf3S1is8aAO) | [SANNI](https://open.spotify.com/artist/4KbUzTS1NC8GHIe9LkwIPS) | [INTO THE RED ZONE](https://open.spotify.com/album/2beUWRoxQCUKdwe9r44Mv2) | 3:16 | 2022-08-05 | 2022-10-15 |
 | [Glass House](https://open.spotify.com/track/1U2hgbpQ92mK7gCWL0lcWY) | [PawPaw Rod](https://open.spotify.com/artist/23KIrX6iPiVOkx60F4bjNq) | [Glass House](https://open.spotify.com/album/6g2sW1bofbs4DEoW25rAB9) | 2:51 | 2022-06-10 | 2022-08-09 |
 | [Glass House](https://open.spotify.com/track/3JYPpZdVk0USJ3gtSajeV8) | [PawPaw Rod](https://open.spotify.com/artist/23KIrX6iPiVOkx60F4bjNq) | [Glass House](https://open.spotify.com/album/0DFolgZClFcvv9kipWMAVD) | 2:51 | 2022-04-01 | 2022-04-15 |
-| [GLOCK 25 \[Feat\. Zachary Moon\]](https://open.spotify.com/track/3HvTbIjbRW4mdGW8T9G6V4) | [Tommy Richman](https://open.spotify.com/artist/1WaFQSHVGZQJTbf0BdxdNo), [Zachary Moon](https://open.spotify.com/artist/26rBtms72mHDWwdA6OmWIJ) | [THE RUSH](https://open.spotify.com/album/2tdu1jCUYmUPB5FvqDHhnD) | 2:08 | 2023-09-08 |  |
+| [GLOCK 25 \[Feat\. Zachary Moon\]](https://open.spotify.com/track/3HvTbIjbRW4mdGW8T9G6V4) | [Tommy Richman](https://open.spotify.com/artist/1WaFQSHVGZQJTbf0BdxdNo), [Zachary Moon](https://open.spotify.com/artist/26rBtms72mHDWwdA6OmWIJ) | [THE RUSH](https://open.spotify.com/album/2tdu1jCUYmUPB5FvqDHhnD) | 2:08 | 2023-09-08 | 2023-10-19 |
 | [Go Away](https://open.spotify.com/track/6BXHCHzw706smnLQdCIDUy) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [Go Away](https://open.spotify.com/album/1nETLIyhtk8GjuqyfOt1G7) | 3:27 | 2021-07-23 | 2022-07-30 |
 | [Go Boy](https://open.spotify.com/track/5J8ojwDIVnf6ZPwT8f32sQ) | [ODIE](https://open.spotify.com/artist/5aMIbwZQvP2MHPMVC5zCGj) | [Go Boy](https://open.spotify.com/album/5MGppdhOf6M7mBsIWrg55E) | 2:56 | 2023-04-07 |  |
 | [GO GO GO](https://open.spotify.com/track/4tQ3eY36dfKWDiAQqX9w0u) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [falling or flying](https://open.spotify.com/album/3cCpJc6LhvskN7i9w3WkaA) | 2:25 | 2023-08-04 |  |
@@ -364,6 +364,7 @@
 | [Good 2 Me](https://open.spotify.com/track/7nTVDv34MBZWGbvAvY76Cv) | [Kelz](https://open.spotify.com/artist/7rk80kubaj220eDZQvFYU6) | [Good 2 Me](https://open.spotify.com/album/3d8jyHquBpXpVwCr1ykcgb) | 2:36 | 2023-01-13 | 2023-06-09 |
 | [Good Days](https://open.spotify.com/track/3YJJjQPAbDT7mGpX3WtQ9A) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [Good Days](https://open.spotify.com/album/781cKhbTPwLnPmo9BALQl7) | 4:39 | 2021-03-19 | 2022-07-16 |
 | [Good For Now \(feat\. Lucky Daye\)](https://open.spotify.com/track/5WPYImh8k1kFyooMlSHUrq) | [Chiiild](https://open.spotify.com/artist/2YqJwmohaNjg9lg51flSax), [Lucky Daye](https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J) | [Good For Now](https://open.spotify.com/album/52BKuBmSjUQ1b5MMGZJhCt) | 4:01 | 2023-01-13 | 2023-03-25 |
+| [Good Guys](https://open.spotify.com/track/33qepYPIBzWlDVJtpV2oAK) | [chlothegod](https://open.spotify.com/artist/10YC7gfEVGGez94KMAJoLx) | [Nearly Straight](https://open.spotify.com/album/2aViIw8MflAIHHsPK5hXX9) | 2:36 | 2023-10-13 |  |
 | [Good Life](https://open.spotify.com/track/0qllV0IlmVXSfyMYbw3f24) | [Idman](https://open.spotify.com/artist/6N13mUTgkfYEUmW8R2GH0G) | [Good Life](https://open.spotify.com/album/3M1JK89DR8qGwTj6CVaPIm) | 3:35 | 2022-04-01 | 2022-07-29 |
 | [Good Love](https://open.spotify.com/track/4pfEs1kebSz7coMT9EhfoG) | [Otis Kane](https://open.spotify.com/artist/2rp9zfs7yPrwCGVl4CjWAl), [KALLITECHNIS](https://open.spotify.com/artist/6i3sYlO1zUHf5IWHpXt4Sl) | [Good Love](https://open.spotify.com/album/6644XhPFkGMwMcXeRsj8QL) | 3:09 | 2021-06-04 | 2022-07-27 |
 | [Good Mornin'](https://open.spotify.com/track/1pDOIIp3aHcabzH6lzEaef) | [Flwr Chyld](https://open.spotify.com/artist/33luNNaeHIJ5KfjW56aleZ), [Sebastian Mikael](https://open.spotify.com/artist/4hknFHNFp3UMm2Rbc6Ansf) | [Good Mornin'](https://open.spotify.com/album/6cNLcpoIxjswd3ijVeiTRa) | 2:22 | 2022-07-15 | 2022-10-15 |
@@ -655,7 +656,7 @@
 | [phases \(feat\. Kojey Radical\)](https://open.spotify.com/track/2kLMWqTsPb3i5QfLmnOAhM) | [SOLOMON](https://open.spotify.com/artist/4Vw9AVIUyOYmwYYX54uRM4), [Kojey Radical](https://open.spotify.com/artist/1HMhQzj2QXxR40zGDdaK6y) | [phases \(feat\. Kojey Radical\)](https://open.spotify.com/album/34RPWvF1iX9XdtHWXLVH5T) | 4:03 | 2023-02-24 | 2023-10-07 |
 | [Pick Up Your Feelings](https://open.spotify.com/track/2JLVZYEMmqPWbUoAJAMKfm) | [Jazmine Sullivan](https://open.spotify.com/artist/7gSjFKpVmDgC2MMsnN8CYq) | [Pick Up Your Feelings](https://open.spotify.com/album/1wsPNQ8DFxRYNQnCs0hMu7) | 3:52 | 2021-03-19 | 2022-07-15 |
 | [Pick Up Your Phone](https://open.spotify.com/track/5jDpJZ4AV0YVV8o9Ez2U9s) | [Hojean](https://open.spotify.com/artist/0ENnerFBtqPaVUcHadXU2w) | [Pick Up Your Phone](https://open.spotify.com/album/2ZrT2t1qTMcRD9Q1Uy9sx3) | 2:49 | 2022-04-01 | 2022-04-14 |
-| [pieces](https://open.spotify.com/track/2o9aMaRxK62Nw8KdONNoZU) | [Fana Hues](https://open.spotify.com/artist/4yJHrytMK7mqtKsXVGaBNg) | [flora + fana](https://open.spotify.com/album/6IR4vr9w4hnRpFap54vOhg) | 2:44 | 2022-07-15 | 2023-10-16 |
+| [pieces](https://open.spotify.com/track/2o9aMaRxK62Nw8KdONNoZU) | [Fana Hues](https://open.spotify.com/artist/4yJHrytMK7mqtKsXVGaBNg) | [flora + fana](https://open.spotify.com/album/6IR4vr9w4hnRpFap54vOhg) | 2:44 | 2022-07-15 |  |
 | [Pieces](https://open.spotify.com/track/3uxvPA68MMOEdkxS4QdlPg) | [Fana Hues](https://open.spotify.com/artist/4yJHrytMK7mqtKsXVGaBNg) | [Pieces](https://open.spotify.com/album/3BsWqi1hnJEpOthdL1wMtk) | 2:44 | 2021-11-19 | 2022-01-27 |
 | [pieces](https://open.spotify.com/track/5tnpSQClW40rHRfMvCqijS) | [Fana Hues](https://open.spotify.com/artist/4yJHrytMK7mqtKsXVGaBNg) | [flora + fana](https://open.spotify.com/album/1FCP81Y40A1EJgRAn70Rk1) | 2:44 | 2022-07-15 | 2022-10-14 |
 | [Pine](https://open.spotify.com/track/1xTrwHzhHuNb5URVfuBp0f) | [Unusual Demont](https://open.spotify.com/artist/5KpmWCJ5NqsY9meqhjwbxR) | [Pine](https://open.spotify.com/album/0zIwjAV2L0o6pGpgMD7XWt) | 3:30 | 2021-03-19 | 2022-04-25 |

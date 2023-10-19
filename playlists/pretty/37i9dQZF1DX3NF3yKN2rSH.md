@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3NF3yKN2rSH.md) - [plain]
 
 > New and classic Gospel songs to celebrate the Easter season.
 
-[Spotify](https://open.spotify.com/user/spotify) - 53,679 likes - 100 songs - 9 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 53,678 likes - 100 songs - 9 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -90,16 +90,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3NF3yKN2rSH.md) - [plain]
 | 80 | [Calvary](https://open.spotify.com/track/740Q0J6Pvt1EPqDEidQm1E) | [The Spirituals](https://open.spotify.com/artist/1viPlR6yBVRaBcilVZ8yPy), [Jason Nicholson\-Porter](https://open.spotify.com/artist/0J41vFW1jyQEmCDNALvGHS) | [Easter Project](https://open.spotify.com/album/09ofZQBVrHv1cQoFJDdrTB) | 5:56 |
 | 81 | [The Cross Made the Change \- Live](https://open.spotify.com/track/6h1yHgyZgOtmFNA3iN5yuH) | [Common Hymnal](https://open.spotify.com/artist/1q6xQXmuTccwh7gBR7ToUN), [Justin Gray](https://open.spotify.com/artist/3rvv9yt2IG7xESozkHcrLR) | [Common Hymnal \(Live\)](https://open.spotify.com/album/4BClet3QGu0HwQy4KP3aCj) | 7:51 |
 | 82 | [For the Love of the People](https://open.spotify.com/track/3UwrDAuZcSuc6QikZrYaeD) | [The Clark Sisters](https://open.spotify.com/artist/6VUdDU44uo3KwSHc9lAEFE) | [Conqueror](https://open.spotify.com/album/2Ccx4LkjNZGjrascsldAs2) | 2:03 |
-| 83 | [The Blood](https://open.spotify.com/track/46Iicv5lT8Z752kFlrQVWF) | [James Hall Worship & Praise](https://open.spotify.com/artist/4NjzfMUK1vMQUvY15RBFYB) | [Trip Down Memory Lane](https://open.spotify.com/album/11OQ0AT4RDHJq8DqVQST9h) | 7:23 |
-| 84 | [Redeemed](https://open.spotify.com/track/49cFSBvl7J2okNWwK2uqxb) | [The Winans](https://open.spotify.com/artist/7EQrc1Kz56jCHgJ895CZJ8) | [Let My People Go](https://open.spotify.com/album/1atLcMxQ38OHicDxpEYR2t) | 4:57 |
+| 83 | [Redeemed](https://open.spotify.com/track/49cFSBvl7J2okNWwK2uqxb) | [The Winans](https://open.spotify.com/artist/7EQrc1Kz56jCHgJ895CZJ8) | [Let My People Go](https://open.spotify.com/album/1atLcMxQ38OHicDxpEYR2t) | 4:57 |
+| 84 | [The Blood](https://open.spotify.com/track/46Iicv5lT8Z752kFlrQVWF) | [James Hall Worship & Praise](https://open.spotify.com/artist/4NjzfMUK1vMQUvY15RBFYB) | [Trip Down Memory Lane](https://open.spotify.com/album/11OQ0AT4RDHJq8DqVQST9h) | 7:23 |
 | 85 | [He Lives](https://open.spotify.com/track/5dKh33qcTXewtJWEO44q57) | [LaShun Pace](https://open.spotify.com/artist/3ntfwOld7emkBpsoXmE0ln) | [He Lives](https://open.spotify.com/album/3UUmUr51F13KRlmLFAf8QH) | 7:37 |
 | 86 | [Calvary](https://open.spotify.com/track/02z20oTwSuEa4EBx8Q47Dj) | [Kim Burrell](https://open.spotify.com/artist/0fW7wYpfi0yzlc8JPP12jA) | [Live in Concert](https://open.spotify.com/album/1DwIkkDUYWYgslR1McB65B) | 9:33 |
 | 87 | [Oh Happy Day \(feat\. Shirley Miller\)](https://open.spotify.com/track/6PH0etRGVIaYBpKmXYCHYo) | [Edwin Hawkins](https://open.spotify.com/artist/3IuP2fe32xEYp0GqLxWgmj), [Shirley Miller](https://open.spotify.com/artist/2ADbsiNz0Jv8tMN22OCOyb) | [Oh Happy Day](https://open.spotify.com/album/3v3LltsNgPWSou5ja6Ofjk) | 2:10 |
 | 88 | [Power In the Blood v1.1](https://open.spotify.com/track/5FPZdulid3ZgnAZq2sRlb3) | [Andrae Crouch](https://open.spotify.com/artist/3pxLSxg8klHu1L9d93cpq7), [Disciples](https://open.spotify.com/artist/4ZCnOYklELEjDUrbP4e5dv) | [Classic Gold: Live In London: Andrae Crouch & The Disciples](https://open.spotify.com/album/47TmueNAVNBE7MLC56wGzt) | 4:46 |
 | 89 | [You Did It All \(with Vision\)](https://open.spotify.com/track/43GrHq2HESNffQyauLdBRq) | [Richard Smallwood](https://open.spotify.com/artist/4WIRlLxuzmZciQ8JS2b3jP), [Vision](https://open.spotify.com/artist/28vGUslhbTPQaqt8pmnK5m) | [Healing \- Live In Detroit \(with Vision\)](https://open.spotify.com/album/2f5Pp3wWWYGGoO9EHqR70A) | 5:57 |
 | 90 | [Mnini Mandla Onke](https://open.spotify.com/track/3iUoxbl0P0vhtzQwvYzpVb) | [Joyous Celebration](https://open.spotify.com/artist/6jG7VTyXJjdrVP4jNjDX9W) | [Mnini Mandla Onke](https://open.spotify.com/album/2xiGM8C7m3AAqUTfyBIT5Z) | 5:03 |
-| 91 | [Nothing But the Blood v1.1](https://open.spotify.com/track/7EozkjVGGgfKvsShP3p5vz) | [Sandra Crouch](https://open.spotify.com/artist/2bE0f7DSV3s415TDqMypaW) | [Classic Gold: We're Waiting](https://open.spotify.com/album/2UqMA74qWsJARd4OKMEgCt) | 4:26 |
-| 92 | [He Lives \- Live](https://open.spotify.com/track/3H0xO1g8BdlmZKXgnqiNzA) | [Carlton Pearson](https://open.spotify.com/artist/34lEZF8ruBmrfX93YZCE9P), [Beverly Crawford](https://open.spotify.com/artist/68qvLA55vYTJrGUvVHOb4M) | [Live At Azusa 3](https://open.spotify.com/album/46cM0cBjpgC6Rwa3jD2DBj) | 7:16 |
+| 91 | [He Lives \- Live](https://open.spotify.com/track/3H0xO1g8BdlmZKXgnqiNzA) | [Carlton Pearson](https://open.spotify.com/artist/34lEZF8ruBmrfX93YZCE9P), [Beverly Crawford](https://open.spotify.com/artist/68qvLA55vYTJrGUvVHOb4M) | [Live At Azusa 3](https://open.spotify.com/album/46cM0cBjpgC6Rwa3jD2DBj) | 7:16 |
+| 92 | [Nothing But the Blood v1.1](https://open.spotify.com/track/7EozkjVGGgfKvsShP3p5vz) | [Sandra Crouch](https://open.spotify.com/artist/2bE0f7DSV3s415TDqMypaW) | [Classic Gold: We're Waiting](https://open.spotify.com/album/2UqMA74qWsJARd4OKMEgCt) | 4:26 |
 | 93 | [God Is Not Dead](https://open.spotify.com/track/64u71Ii45f6Pa3BPwIvYul) | [Joshua's Troop](https://open.spotify.com/artist/4ejvtrRzhIaqGb7YhTLUsV) | [Joshua's Troop](https://open.spotify.com/album/3XYaQRnY5ha54xB4x2gbgT) | 5:11 |
 | 94 | [Born To Die](https://open.spotify.com/track/5LhzfQIdF2E7WQvRQNH3TB) | [Hezekiah Walker & The Love Fellowship Crusade Choir](https://open.spotify.com/artist/10Bp1mvmVqIXcRj1VtxQyZ) | [Verity Records: The First Decade, A Celebration Of Christmas](https://open.spotify.com/album/0nn0Wkf7YNHAZzgW0qirAx) | 4:50 |
 | 95 | [The Old Rugged Cross](https://open.spotify.com/track/5aDPMyBFhThZrjRJXrrGy7) | [Rev\. James Moore](https://open.spotify.com/artist/2r7fA3DrMO5JXl3uoOLkaN) | [Live In Detroit \(Live\)](https://open.spotify.com/album/0uKzIXtrSUvzRCFHSOv1vv) | 8:16 |
@@ -107,6 +107,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3NF3yKN2rSH.md) - [plain]
 | 97 | [Oh Holy Lamb](https://open.spotify.com/track/2N6ccWkNTrKuIa3JqRzxhb) | [JJ Hairston](https://open.spotify.com/artist/2PiKaajF8T1X6KGgvYlxOD) | [Live: The Praise, the Worship](https://open.spotify.com/album/3emdtGEEnR69WhvkUeB8py) | 5:29 |
 | 98 | [He Proved His Love](https://open.spotify.com/track/4OMAO6F57zBkgyakZjscTl) | [Ron Winans](https://open.spotify.com/artist/67B5eSkw1ckwkAVi278b2s) | [Family & Friends Choir III](https://open.spotify.com/album/2HqJpxkdEf5FRDJsxkkZrj) | 5:25 |
 | 99 | [Oh Holy Lamb](https://open.spotify.com/track/68oQ1Wm0JOgBwjahOWqmYm) | [Vickie Winans](https://open.spotify.com/artist/3lRcuKNnP49qqc0AHfTTAR) | [Live In Detroit II \(Video\)](https://open.spotify.com/album/2En34iMFWvBpbGKZDOwusQ) | 9:05 |
-| 100 | [Cherish The Cross](https://open.spotify.com/track/7BranHqbktqdiojkd0r07A) | [Rev\. James Moore](https://open.spotify.com/artist/2r7fA3DrMO5JXl3uoOLkaN) | [Live In Detroit \(Live\)](https://open.spotify.com/album/0uKzIXtrSUvzRCFHSOv1vv) | 7:30 |
+| 100 | [Calvary](https://open.spotify.com/track/2kUwyQh2FseRy8UgboN9T0) | [Richard Smallwood](https://open.spotify.com/artist/4WIRlLxuzmZciQ8JS2b3jP) | [Beginnings](https://open.spotify.com/album/1dWfCCgAXOSfOcyHEXbJYR) | 5:48 |
 
-Snapshot ID: `MCw4NTg5MjkyYWU2Y2MwYWUyNjI1YjFjY2NjMjg2ZDRkN2Q1OTRlMzI2`
+Snapshot ID: `MCxiZmVhOTNkZGFjZDYwMDA3YjdkM2YyODY1YzkzNzM0NWQ1MDRkZTE2`

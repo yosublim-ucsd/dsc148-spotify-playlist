@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX44osRHySC1k.md) - [plain]
 
 > Sleep is the best Medicine
 
-[Spotify](https://open.spotify.com/user/spotify) - 52,189 likes - 100 songs - 5 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 52,197 likes - 100 songs - 5 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,10 +15,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX44osRHySC1k.md) - [plain]
 | 5 | [Trust the Universe](https://open.spotify.com/track/4P7LF3ktiDORMF1coYTf66) | [Chama Wijnen](https://open.spotify.com/artist/7ftRhte6NNzoF9MIKfKJsP) | [Trust the Universe](https://open.spotify.com/album/7yqbDPDVpLpJAjBTHAgUme) | 2:49 |
 | 6 | [Dawn Dusk Divinity](https://open.spotify.com/track/3Gs2uBopmgSkqI6Ww2IYnm) | [Devansh Tushar](https://open.spotify.com/artist/6A6XOlnYgaiM9qfRvSIHQL) | [Happy](https://open.spotify.com/album/6FXJ200cFy73fvSBZm0xfJ) | 2:59 |
 | 7 | [Can You Feel The Love Tonight](https://open.spotify.com/track/6KQVHlSUKdIEO91qTNm6Uz) | [Mingmei Hsueh](https://open.spotify.com/artist/2Z1JaXCxqUBOH0Zm2Eyrxq) | [My Dream](https://open.spotify.com/album/31elgDQoMPiS8VCMVBxbcA) | 2:10 |
-| 8 | [In the Far Away Distance](https://open.spotify.com/track/1oHDNBIxtHai4IcMQ4mJuL) | [Zen Gaya](https://open.spotify.com/artist/5zC4k86g6y3NsIvUwFVX1G) | [In the Far Away Distance](https://open.spotify.com/album/6hxNWvBvsKr4mV1YAjz9HS) | 2:56 |
-| 9 | [Untitled](https://open.spotify.com/track/3tCBeat5YZBwLf61yoQJ9v) | [Jupiter Grains](https://open.spotify.com/artist/6uq3FetPGtr1PNJ4bOzF85) | [Untitled](https://open.spotify.com/album/2aMPmCJLYROlZZMjF92w32) | 1:52 |
-| 10 | [Under A Smiling Moon](https://open.spotify.com/track/0aqmVdsk85uvygzAxpJENH) | [Peter Sandberg](https://open.spotify.com/artist/3LtlJprzuq0Ii8p8YFZXai) | [A Scandinavian Thing](https://open.spotify.com/album/0qy8kSH76bUb9abjOjfh7W) | 4:23 |
-| 11 | [Vague](https://open.spotify.com/track/3IOXceWmoCrTyl5TXFDzWu) | [Amaranth Cove](https://open.spotify.com/artist/1Gt39QnTBTndeyiJ5SO04q) | [Envision](https://open.spotify.com/album/4yg5OckIrdMo7yIJcDRU4F) | 2:23 |
+| 8 | [Untitled](https://open.spotify.com/track/3tCBeat5YZBwLf61yoQJ9v) | [Jupiter Grains](https://open.spotify.com/artist/6uq3FetPGtr1PNJ4bOzF85) | [Untitled](https://open.spotify.com/album/2aMPmCJLYROlZZMjF92w32) | 1:52 |
+| 9 | [In the Far Away Distance](https://open.spotify.com/track/1oHDNBIxtHai4IcMQ4mJuL) | [Zen Gaya](https://open.spotify.com/artist/5zC4k86g6y3NsIvUwFVX1G) | [In the Far Away Distance](https://open.spotify.com/album/6hxNWvBvsKr4mV1YAjz9HS) | 2:56 |
+| 10 | [Vague](https://open.spotify.com/track/3IOXceWmoCrTyl5TXFDzWu) | [Amaranth Cove](https://open.spotify.com/artist/1Gt39QnTBTndeyiJ5SO04q) | [Envision](https://open.spotify.com/album/4yg5OckIrdMo7yIJcDRU4F) | 2:23 |
+| 11 | [Under A Smiling Moon](https://open.spotify.com/track/0aqmVdsk85uvygzAxpJENH) | [Peter Sandberg](https://open.spotify.com/artist/3LtlJprzuq0Ii8p8YFZXai) | [A Scandinavian Thing](https://open.spotify.com/album/0qy8kSH76bUb9abjOjfh7W) | 4:23 |
 | 12 | [Goodnight](https://open.spotify.com/track/2rro7SoKEWIrhUl1xcXOIT) | [Alfredo Evans](https://open.spotify.com/artist/6E0oDTO8ChQDFTsHLuUlNL) | [Goodnight](https://open.spotify.com/album/1EWPWjrRLNYdQwYurmSEMT) | 2:37 |
 | 13 | [Pads of Redemption](https://open.spotify.com/track/5I3JZ3zvxKQMdp9rEcGkiR) | [Masala Roo](https://open.spotify.com/artist/3A81JSAePWWFgyybGr8zIE) | [Pads of Redemption](https://open.spotify.com/album/2XCWjHkbcCvT4WXFwnY253) | 2:48 |
 | 14 | [Uno](https://open.spotify.com/track/6VoYnLiXIpKLg7j2Tnq95x) | [Deuter](https://open.spotify.com/artist/3AGvwnXbUo9LoAU2P5qYHB) | [Atmospheres](https://open.spotify.com/album/7xM8Cmd7tMpa6z1eQxZPeG) | 5:54 |
@@ -28,8 +28,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX44osRHySC1k.md) - [plain]
 | 18 | [Aura](https://open.spotify.com/track/3txAMdbJitTk5qSlkEV7vr) | [Novo Talos](https://open.spotify.com/artist/09D82jKcSb3omGk0kInAea) | [Aura](https://open.spotify.com/album/47RBNIbpNQT2DVgmZVC0s5) | 2:07 |
 | 19 | [Loving\-Kindness](https://open.spotify.com/track/4YQn86jDGtlXovQJT9nwiB) | [Vimassana](https://open.spotify.com/artist/1JwJysIUFMsM5HjV5fJvGv) | [Loving\-Kindness](https://open.spotify.com/album/0cHpCmG4oLbGPStNrpdgMD) | 2:50 |
 | 20 | [Time Travel](https://open.spotify.com/track/1aa3A3F6b5FZFtXAhtrybK) | [Antologie](https://open.spotify.com/artist/6T31mMEmlR4YDtVTQtpPyc) | [Time Travel](https://open.spotify.com/album/52vkIdfOyHog6vAGTru68z) | 3:04 |
-| 21 | [Bliss](https://open.spotify.com/track/3sdt7exS3REm1OKia8zcyi) | [Sacred Earth](https://open.spotify.com/artist/6c4PFTwVucnE0A6l219i99) | [Breathing Space](https://open.spotify.com/album/659OTaUEYfTNdzx7F6mpj2) | 7:25 |
-| 22 | [Night Walk](https://open.spotify.com/track/0ePG8cXgoLfOqVYVX8Ju6a) | [Gavin Luke](https://open.spotify.com/artist/2bqAlaRiT91dCQ7KMGnP8i) | [Night Walk](https://open.spotify.com/album/3Y6dLdTnXxiIhDKFmlTPYw) | 2:20 |
+| 21 | [Night Walk](https://open.spotify.com/track/0ePG8cXgoLfOqVYVX8Ju6a) | [Gavin Luke](https://open.spotify.com/artist/2bqAlaRiT91dCQ7KMGnP8i) | [Night Walk](https://open.spotify.com/album/3Y6dLdTnXxiIhDKFmlTPYw) | 2:20 |
+| 22 | [Bliss](https://open.spotify.com/track/3sdt7exS3REm1OKia8zcyi) | [Sacred Earth](https://open.spotify.com/artist/6c4PFTwVucnE0A6l219i99) | [Breathing Space](https://open.spotify.com/album/659OTaUEYfTNdzx7F6mpj2) | 7:25 |
 | 23 | [Sea Of Tranquility](https://open.spotify.com/track/5nzGBQeLesWrD0J8Ctz75z) | [Julius Aston](https://open.spotify.com/artist/6evK56MPQbVzQaWuGcS4Rm) | [Sea Of Tranquility](https://open.spotify.com/album/6FunWbzr82EBe87wjbq3I3) | 2:55 |
 | 24 | [Sound of Invisible Waters](https://open.spotify.com/track/2SIgGbcduNKHTFEFcvmUaS) | [Deuter](https://open.spotify.com/artist/3AGvwnXbUo9LoAU2P5qYHB) | [Koyasan: Reiki Sound Healing](https://open.spotify.com/album/2KqIIRnERVHqimzQSAZaRD) | 9:32 |
 | 25 | [This night](https://open.spotify.com/track/7DtluO7XUoL5wf2imEgkXl) | [Leny Bhoelai](https://open.spotify.com/artist/1b8ShuRcCfZswFuIjEWsvS) | [This night](https://open.spotify.com/album/4wEvwj51552ftkdHoXQm1G) | 3:10 |
@@ -48,8 +48,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX44osRHySC1k.md) - [plain]
 | 38 | [Murray's Moon](https://open.spotify.com/track/1Xsd98cpIUDSobvr1hkSNo) | [Stan Van Outen](https://open.spotify.com/artist/6zL36bTxO4Kjtdqo04RmPu) | [Murray's Moon](https://open.spotify.com/album/2k8AhvhXJX6vMHCNxauuHW) | 2:07 |
 | 39 | [In my quiet hour](https://open.spotify.com/track/4YhwpzwqfWEt04ki6wLUVk) | [Nicholas Sipka](https://open.spotify.com/artist/1QTGeOnMy1np5pFwmkTDM4) | [In My Quiet Hour](https://open.spotify.com/album/3ik4zmauaQ976OG09cEJCN) | 2:06 |
 | 40 | [A Clear Mind](https://open.spotify.com/track/2pypBNUUzViaP7Dswi9zpF) | [Julius Aston](https://open.spotify.com/artist/6evK56MPQbVzQaWuGcS4Rm) | [A Clear Mind](https://open.spotify.com/album/6HTDJSCj481qL4ruvh68IQ) | 2:53 |
-| 41 | [Mantric Melody](https://open.spotify.com/track/5GkkUUYaDllU29bE9OKkLI) | [Havanna Chandri](https://open.spotify.com/artist/7L19dBW5AbTgQvjXFGaOF6) | [Mantric Melody](https://open.spotify.com/album/7pZmcpCvo9pVRN1BQCmAT9) | 1:51 |
-| 42 | [Dreamland \- Solo Piano Version](https://open.spotify.com/track/6IWbqyzwXOcZfL2OCxvfph) | [Alexis Ffrench](https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX) | [The Solo Piano Collection](https://open.spotify.com/album/3xrOGtm0QQAX4VsWWKOgGK) | 2:41 |
+| 41 | [Dreamland \- Solo Piano Version](https://open.spotify.com/track/6IWbqyzwXOcZfL2OCxvfph) | [Alexis Ffrench](https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX) | [The Solo Piano Collection](https://open.spotify.com/album/3xrOGtm0QQAX4VsWWKOgGK) | 2:41 |
+| 42 | [Mantric Melody](https://open.spotify.com/track/5GkkUUYaDllU29bE9OKkLI) | [Havanna Chandri](https://open.spotify.com/artist/7L19dBW5AbTgQvjXFGaOF6) | [Mantric Melody](https://open.spotify.com/album/7pZmcpCvo9pVRN1BQCmAT9) | 1:51 |
 | 43 | [Dream dependence](https://open.spotify.com/track/0rdOvRimwzjyBHdZ0pR2E7) | [Viclo](https://open.spotify.com/artist/455quPWcJkDlINNu7NfI97) | [Dream Dependence](https://open.spotify.com/album/6Jle8T0G5NdKPJkfOuIVQd) | 2:35 |
 | 44 | [Atmosphere](https://open.spotify.com/track/55EbjQa4Th0gmzKQdSnMrw) | [Tejal Yann](https://open.spotify.com/artist/6eGKvCZdc06HkiwZKFlcBY) | [Newborn Soul](https://open.spotify.com/album/5AtAU8ju6CMZKMEELFbDOR) | 4:07 |
 | 45 | [The Great Plains Hymn](https://open.spotify.com/track/0hdtz1o1UYIvQJmAdqGHL1) | [Charles Bolt](https://open.spotify.com/artist/4FX5p8T76gw69sWyPbggCj) | [Seasons Changing](https://open.spotify.com/album/1LzFyb9q0hGiaSp6AlcaQu) | 1:59 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX44osRHySC1k.md) - [plain]
 | 99 | [Rain](https://open.spotify.com/track/47yf6KungKlUDUJdfvIItH) | [Violin Music](https://open.spotify.com/artist/4jzPc3lvsP75j3CKWqacTt) | [New Romantic Classical Piano and Violin Duets](https://open.spotify.com/album/7v6s1nucVtGQC0mfjShaax) | 4:32 |
 | 100 | [Sonno Profondo](https://open.spotify.com/track/6blql3Gpo3LwVmEXTXqUJM) | [Sleep n Love](https://open.spotify.com/artist/4lAObIqbk5Qpsb7j0avEvC) | [Destinazione Pianoforte New Age: Musica Relax Piano Collection, Musica Rilassante per Studio & Concentrazione, Meditazione, Dormire Bene & Yoga](https://open.spotify.com/album/0Fi6h7AcurDKDQaMi5xjA8) | 6:14 |
 
-Snapshot ID: `MCxmNGRjOWUzYjU1OWQxYTczZWMyM2U4ZDlhZjdkMzY3N2VlMDZkZWVk`
+Snapshot ID: `MCwwNjdmMzIyYTljMWIyYjdlNGVlMjdjZGY2YjIwZDZlMTY5MDZjNmM5`

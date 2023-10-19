@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXazOBCyyv15E.md) - [plain]
 
 > The home of the best new alternative music\. Cover: boygenius
 
-[Spotify](https://open.spotify.com/user/spotify) - 192,413 likes - 80 songs - 4 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 192,484 likes - 80 songs - 4 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXazOBCyyv15E.md) - [plain]
 | 79 | [LOCK IT IN \(NO REGRETS\)](https://open.spotify.com/track/7rblMBHhC3L9fW4eyGbsHk) | [SIPHO.](https://open.spotify.com/artist/3qdhzmyZIDzgawvmSWLsGZ) | [LOCK IT IN \(NO REGRETS\)](https://open.spotify.com/album/2YjanTSCMfO1bN4w7UrOjw) | 3:36 |
 | 80 | [exit girl](https://open.spotify.com/track/6nbfnqVbTWYfgscVHlgTR3) | [ratbag](https://open.spotify.com/artist/6v6OE9MQreCmwuAqF0NfzQ) | [exit girl](https://open.spotify.com/album/39yddITr5Zid1HdG611km6) | 3:26 |
 
-Snapshot ID: `MCwwNmFmMGJjZjJhOTVlYmQ5NzQ2YzU4MDhlYTZlMjFjNjJhZDY2Mjgz`
+Snapshot ID: `MCxkZTlkYzY2MTY5Mzk1OWY4YTFkNjc0NDUzNGNkZjdkMmQ1MmY5NTg3`

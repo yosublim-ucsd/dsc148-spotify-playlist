@@ -1,12 +1,12 @@
 {
   "description": "Descubre lo m\u00e1s nuevo del movimiento. Cover: Blessd, Ryan Castro & Bryant Myers ",
-  "num_followers": 519391,
+  "num_followers": 519472,
   "original_name": "el nuevo urbano",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3ZDI5OTQ5YzY0NjZkMzA1NTZkMTc4MWRjNDVkZGY5ZmVmYmQwNTNj",
+  "snapshot_id": "MCwwOGQ3YTY3YWRlMWQ2OWE1Y2E1Yzc0ZTJkZWU1MGFmMGE1NDMzY2E4",
   "tracks": [
     {
       "added_at": "2023-10-13 04:00:00",
@@ -587,6 +587,22 @@
     {
       "added_at": "2023-10-13 04:00:00",
       "album": {
+        "name": "MOR, No Le Temas a La Oscuridad",
+        "url": "https://open.spotify.com/album/16ScBmKm5WA3RwvTqiQlJd"
+      },
+      "artists": [
+        {
+          "name": "Feid",
+          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
+        }
+      ],
+      "duration_ms": 173760,
+      "name": "FERXXO 30",
+      "url": "https://open.spotify.com/track/2LWM5Ft0TdX24GeSq1u6PV"
+    },
+    {
+      "added_at": "2023-10-13 04:00:00",
+      "album": {
         "name": "El De La Nueva Baby",
         "url": "https://open.spotify.com/album/3bI6icwZp7moS4MgaKRkuj"
       },
@@ -607,22 +623,6 @@
       "duration_ms": 183400,
       "name": "\u00bfCu\u00e1l Es Su Nombre?",
       "url": "https://open.spotify.com/track/5S8zFPQ3KIlF2y9Kt8mRhg"
-    },
-    {
-      "added_at": "2023-10-13 04:00:00",
-      "album": {
-        "name": "MOR, No Le Temas a La Oscuridad",
-        "url": "https://open.spotify.com/album/16ScBmKm5WA3RwvTqiQlJd"
-      },
-      "artists": [
-        {
-          "name": "Feid",
-          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
-        }
-      ],
-      "duration_ms": 173760,
-      "name": "FERXXO 30",
-      "url": "https://open.spotify.com/track/2LWM5Ft0TdX24GeSq1u6PV"
     },
     {
       "added_at": "2023-10-13 04:00:00",
@@ -855,26 +855,6 @@
     {
       "added_at": "2023-10-13 04:00:00",
       "album": {
-        "name": "NO PARE (REMIX)",
-        "url": "https://open.spotify.com/album/4pyrlTwGbdl8NXHVSNty1k"
-      },
-      "artists": [
-        {
-          "name": "NATTI NATASHA",
-          "url": "https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7"
-        },
-        {
-          "name": "Tokischa",
-          "url": "https://open.spotify.com/artist/2p4aN0Uxkk3iT3HK0cJ2cJ"
-        }
-      ],
-      "duration_ms": 185411,
-      "name": "NO PARE - REMIX",
-      "url": "https://open.spotify.com/track/64eezAxFI6wjCPcshao8Pe"
-    },
-    {
-      "added_at": "2023-10-13 04:00:00",
-      "album": {
         "name": "GHETTO PRINCESS",
         "url": "https://open.spotify.com/album/5I5GpNMS30V1a23j2lKl2a"
       },
@@ -895,6 +875,26 @@
       "duration_ms": 161379,
       "name": "GHETTO PRINCESS",
       "url": "https://open.spotify.com/track/6GgpoeDugrrXl06NIsE1Bo"
+    },
+    {
+      "added_at": "2023-10-13 04:00:00",
+      "album": {
+        "name": "NO PARE (REMIX)",
+        "url": "https://open.spotify.com/album/4pyrlTwGbdl8NXHVSNty1k"
+      },
+      "artists": [
+        {
+          "name": "NATTI NATASHA",
+          "url": "https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7"
+        },
+        {
+          "name": "Tokischa",
+          "url": "https://open.spotify.com/artist/2p4aN0Uxkk3iT3HK0cJ2cJ"
+        }
+      ],
+      "duration_ms": 185411,
+      "name": "NO PARE - REMIX",
+      "url": "https://open.spotify.com/track/64eezAxFI6wjCPcshao8Pe"
     },
     {
       "added_at": "2023-10-13 04:00:00",
@@ -935,6 +935,22 @@
     {
       "added_at": "2023-10-13 04:00:00",
       "album": {
+        "name": "Good Times",
+        "url": "https://open.spotify.com/album/14TXiNiKS2IN3DS2yebo6M"
+      },
+      "artists": [
+        {
+          "name": "Chencho Corleone",
+          "url": "https://open.spotify.com/artist/37230BxxYs9ksS7OkZw3IU"
+        }
+      ],
+      "duration_ms": 219626,
+      "name": "Good Times",
+      "url": "https://open.spotify.com/track/5GeGyUYqWOjFBLKEa1CTet"
+    },
+    {
+      "added_at": "2023-10-13 04:00:00",
+      "album": {
         "name": "Otra Vibra",
         "url": "https://open.spotify.com/album/0Dcd0VT52oXwUldW3jEaoS"
       },
@@ -955,18 +971,22 @@
     {
       "added_at": "2023-10-13 04:00:00",
       "album": {
-        "name": "Good Times",
-        "url": "https://open.spotify.com/album/14TXiNiKS2IN3DS2yebo6M"
+        "name": "MOR, No Le Temas a La Oscuridad",
+        "url": "https://open.spotify.com/album/16ScBmKm5WA3RwvTqiQlJd"
       },
       "artists": [
         {
-          "name": "Chencho Corleone",
-          "url": "https://open.spotify.com/artist/37230BxxYs9ksS7OkZw3IU"
+          "name": "Feid",
+          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
+        },
+        {
+          "name": "\u00d1engo Flow",
+          "url": "https://open.spotify.com/artist/12vb80Km0Ew53ABfJOepVz"
         }
       ],
-      "duration_ms": 219626,
-      "name": "Good Times",
-      "url": "https://open.spotify.com/track/5GeGyUYqWOjFBLKEa1CTet"
+      "duration_ms": 170640,
+      "name": "GANGSTERS Y PISTOLAS",
+      "url": "https://open.spotify.com/track/2GOnlLJqDMvlXlEqD8AQqn"
     },
     {
       "added_at": "2023-10-13 04:00:00",
@@ -1011,22 +1031,22 @@
     {
       "added_at": "2023-10-13 04:00:00",
       "album": {
-        "name": "MOR, No Le Temas a La Oscuridad",
-        "url": "https://open.spotify.com/album/16ScBmKm5WA3RwvTqiQlJd"
+        "name": "333",
+        "url": "https://open.spotify.com/album/6KDLws7nb97FLIZw1VHisk"
       },
       "artists": [
         {
-          "name": "Feid",
-          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
+          "name": "Cris Mj",
+          "url": "https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE"
         },
         {
-          "name": "\u00d1engo Flow",
-          "url": "https://open.spotify.com/artist/12vb80Km0Ew53ABfJOepVz"
+          "name": "Yan Block",
+          "url": "https://open.spotify.com/artist/6TKygPpVT29oGUogu4J9Ec"
         }
       ],
-      "duration_ms": 170640,
-      "name": "GANGSTERS Y PISTOLAS",
-      "url": "https://open.spotify.com/track/2GOnlLJqDMvlXlEqD8AQqn"
+      "duration_ms": 165318,
+      "name": "333",
+      "url": "https://open.spotify.com/track/5NlRqUTd4tv8AegeU7RW5x"
     },
     {
       "added_at": "2023-10-13 04:00:00",
@@ -1047,26 +1067,6 @@
       "duration_ms": 220880,
       "name": "Trajecito XS",
       "url": "https://open.spotify.com/track/535EyYs5tDynf3kt9niGa4"
-    },
-    {
-      "added_at": "2023-10-13 04:00:00",
-      "album": {
-        "name": "333",
-        "url": "https://open.spotify.com/album/6KDLws7nb97FLIZw1VHisk"
-      },
-      "artists": [
-        {
-          "name": "Cris Mj",
-          "url": "https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE"
-        },
-        {
-          "name": "Yan Block",
-          "url": "https://open.spotify.com/artist/6TKygPpVT29oGUogu4J9Ec"
-        }
-      ],
-      "duration_ms": 165318,
-      "name": "333",
-      "url": "https://open.spotify.com/track/5NlRqUTd4tv8AegeU7RW5x"
     },
     {
       "added_at": "2023-10-13 04:00:00",
@@ -1627,50 +1627,18 @@
     {
       "added_at": "2023-10-13 04:00:00",
       "album": {
-        "name": "Thick Thick",
-        "url": "https://open.spotify.com/album/7azPHYfr1riOM0go8D2UWy"
+        "name": "Te Acuerdas",
+        "url": "https://open.spotify.com/album/2PGYv66qvNvkj9bHwJPzfg"
       },
       "artists": [
         {
-          "name": "lil joujou",
-          "url": "https://open.spotify.com/artist/6UhGN5pVzgbBYjpqkxKM5F"
-        },
-        {
-          "name": "Villano Antillano",
-          "url": "https://open.spotify.com/artist/1pi7nGhOM7PTHR5YEgXVGq"
-        },
-        {
-          "name": "Rome LMN",
-          "url": "https://open.spotify.com/artist/0Q2SdTYqioFqrQTbawYHAS"
+          "name": "Armez",
+          "url": "https://open.spotify.com/artist/5SETXxt4h3XsZONZRoodOz"
         }
       ],
-      "duration_ms": 193906,
-      "name": "Thick Thick",
-      "url": "https://open.spotify.com/track/1r10cPcQMXyXTvrNzPe1mf"
-    },
-    {
-      "added_at": "2023-10-13 04:00:00",
-      "album": {
-        "name": "Mood (Remix)",
-        "url": "https://open.spotify.com/album/2yNM7Di0fiM4T4uRSoiJ1L"
-      },
-      "artists": [
-        {
-          "name": "Yeruza",
-          "url": "https://open.spotify.com/artist/6NyPX5jymkvSPaJhCh1crb"
-        },
-        {
-          "name": "Dalex",
-          "url": "https://open.spotify.com/artist/0KPX4Ucy9dk82uj4GpKesn"
-        },
-        {
-          "name": "Brytiago",
-          "url": "https://open.spotify.com/artist/00XhexlJEXQstHimpZN910"
-        }
-      ],
-      "duration_ms": 247124,
-      "name": "Mood - Remix",
-      "url": "https://open.spotify.com/track/2rRXFhzzZ7uNvQTR54CTVk"
+      "duration_ms": 194666,
+      "name": "Te Acuerdas",
+      "url": "https://open.spotify.com/track/1ETPrordns62g0uNKJmTre"
     },
     {
       "added_at": "2023-10-13 04:00:00",
@@ -1695,6 +1663,30 @@
     {
       "added_at": "2023-10-13 04:00:00",
       "album": {
+        "name": "Thick Thick",
+        "url": "https://open.spotify.com/album/7azPHYfr1riOM0go8D2UWy"
+      },
+      "artists": [
+        {
+          "name": "lil joujou",
+          "url": "https://open.spotify.com/artist/6UhGN5pVzgbBYjpqkxKM5F"
+        },
+        {
+          "name": "Villano Antillano",
+          "url": "https://open.spotify.com/artist/1pi7nGhOM7PTHR5YEgXVGq"
+        },
+        {
+          "name": "Rome LMN",
+          "url": "https://open.spotify.com/artist/0Q2SdTYqioFqrQTbawYHAS"
+        }
+      ],
+      "duration_ms": 193906,
+      "name": "Thick Thick",
+      "url": "https://open.spotify.com/track/1r10cPcQMXyXTvrNzPe1mf"
+    },
+    {
+      "added_at": "2023-10-13 04:00:00",
+      "album": {
         "name": "Del Calent\u00f3n",
         "url": "https://open.spotify.com/album/7F06bRtzV1MXHU7vW3bjqn"
       },
@@ -1711,6 +1703,30 @@
       "duration_ms": 197351,
       "name": "Del Calent\u00f3n",
       "url": "https://open.spotify.com/track/31eIRKr5BbbugXOKNnpPXK"
+    },
+    {
+      "added_at": "2023-10-13 04:00:00",
+      "album": {
+        "name": "Mood (Remix)",
+        "url": "https://open.spotify.com/album/2yNM7Di0fiM4T4uRSoiJ1L"
+      },
+      "artists": [
+        {
+          "name": "Yeruza",
+          "url": "https://open.spotify.com/artist/6NyPX5jymkvSPaJhCh1crb"
+        },
+        {
+          "name": "Dalex",
+          "url": "https://open.spotify.com/artist/0KPX4Ucy9dk82uj4GpKesn"
+        },
+        {
+          "name": "Brytiago",
+          "url": "https://open.spotify.com/artist/00XhexlJEXQstHimpZN910"
+        }
+      ],
+      "duration_ms": 247124,
+      "name": "Mood - Remix",
+      "url": "https://open.spotify.com/track/2rRXFhzzZ7uNvQTR54CTVk"
     },
     {
       "added_at": "2023-10-13 04:00:00",
@@ -1747,22 +1763,6 @@
       "duration_ms": 155240,
       "name": "No Te Veo",
       "url": "https://open.spotify.com/track/02wnMiBlKzoF3E3H5z7EeL"
-    },
-    {
-      "added_at": "2023-10-13 04:00:00",
-      "album": {
-        "name": "Te Acuerdas",
-        "url": "https://open.spotify.com/album/2PGYv66qvNvkj9bHwJPzfg"
-      },
-      "artists": [
-        {
-          "name": "Armez",
-          "url": "https://open.spotify.com/artist/5SETXxt4h3XsZONZRoodOz"
-        }
-      ],
-      "duration_ms": 194666,
-      "name": "Te Acuerdas",
-      "url": "https://open.spotify.com/track/1ETPrordns62g0uNKJmTre"
     },
     {
       "added_at": "2023-10-13 04:00:00",

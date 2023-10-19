@@ -1,12 +1,12 @@
 {
   "description": "2010\ub144\ub300\ub97c \uc218 \ub193\uc558\ub358 \uba85\uace1\ub4e4\uc744 \uc990\uaca8\ubcf4\uc138\uc694.",
-  "num_followers": 17716,
+  "num_followers": 17778,
   "original_name": "2010\ub144\ub300 \ubca0\uc2a4\ud2b8",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3YTdmMDI0MmE1OTI0YmZmZDU5N2ZkYzE2ZjVlZTlkYzAxOWE3ZDc2",
+  "snapshot_id": "MCw1M2IxMTBlZThhY2Q2ZDFiNjhkMDIxZTMzZWM4ZWEyNzU1NTVlYzQ0",
   "tracks": [
     {
       "added_at": "2021-03-01 03:07:22",
@@ -291,22 +291,6 @@
     {
       "added_at": "2021-03-01 03:07:22",
       "album": {
-        "name": "Cl\u00e9 1 : MIROH",
-        "url": "https://open.spotify.com/album/3s6RbqkTprnGwKpoUSYL00"
-      },
-      "artists": [
-        {
-          "name": "Stray Kids",
-          "url": "https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE"
-        }
-      ],
-      "duration_ms": 207617,
-      "name": "MIROH",
-      "url": "https://open.spotify.com/track/2sFWzfV3kqAwXEWM9BjzwH"
-    },
-    {
-      "added_at": "2021-03-01 03:07:22",
-      "album": {
         "name": "The 1st Album 'XOXO' (Repackage)",
         "url": "https://open.spotify.com/album/4qduCvpyBL5hGYdBvCvcDA"
       },
@@ -319,6 +303,22 @@
       "duration_ms": 207053,
       "name": "Growl",
       "url": "https://open.spotify.com/track/4pi0Elz7B7cLfw37J3bYm9"
+    },
+    {
+      "added_at": "2021-03-01 03:07:22",
+      "album": {
+        "name": "Cl\u00e9 1 : MIROH",
+        "url": "https://open.spotify.com/album/3s6RbqkTprnGwKpoUSYL00"
+      },
+      "artists": [
+        {
+          "name": "Stray Kids",
+          "url": "https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE"
+        }
+      ],
+      "duration_ms": 207617,
+      "name": "MIROH",
+      "url": "https://open.spotify.com/track/2sFWzfV3kqAwXEWM9BjzwH"
     },
     {
       "added_at": "2021-03-01 03:07:22",
@@ -395,22 +395,6 @@
     {
       "added_at": "2021-03-01 03:07:22",
       "album": {
-        "name": "The 1st Album 'XOXO' (Repackage)",
-        "url": "https://open.spotify.com/album/4qduCvpyBL5hGYdBvCvcDA"
-      },
-      "artists": [
-        {
-          "name": "EXO",
-          "url": "https://open.spotify.com/artist/3cjEqqelV9zb4BYE3qDQ4O"
-        }
-      ],
-      "duration_ms": 214380,
-      "name": "Don't Go",
-      "url": "https://open.spotify.com/track/1Acgi7wxVD9OF3iQnFe8Q4"
-    },
-    {
-      "added_at": "2021-03-01 03:07:22",
-      "album": {
         "name": "130 Mood : TRBL",
         "url": "https://open.spotify.com/album/1MW3txTS49ZGvyLi0fziLU"
       },
@@ -427,6 +411,22 @@
       "duration_ms": 229359,
       "name": "D (Half Moon)",
       "url": "https://open.spotify.com/track/3uA8SjMyDtwtt0jLPMQbVD"
+    },
+    {
+      "added_at": "2021-03-01 03:07:22",
+      "album": {
+        "name": "The 1st Album 'XOXO' (Repackage)",
+        "url": "https://open.spotify.com/album/4qduCvpyBL5hGYdBvCvcDA"
+      },
+      "artists": [
+        {
+          "name": "EXO",
+          "url": "https://open.spotify.com/artist/3cjEqqelV9zb4BYE3qDQ4O"
+        }
+      ],
+      "duration_ms": 214380,
+      "name": "Don't Go",
+      "url": "https://open.spotify.com/track/1Acgi7wxVD9OF3iQnFe8Q4"
     },
     {
       "added_at": "2021-03-01 03:07:22",
@@ -627,22 +627,6 @@
     {
       "added_at": "2021-03-01 03:07:22",
       "album": {
-        "name": "Stand Up",
-        "url": "https://open.spotify.com/album/0NB6IIwQeRDzNFCU22LQto"
-      },
-      "artists": [
-        {
-          "name": "BIGBANG",
-          "url": "https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX"
-        }
-      ],
-      "duration_ms": 256359,
-      "name": "Haru Haru",
-      "url": "https://open.spotify.com/track/1L4d2lafz1odpIMe8va21X"
-    },
-    {
-      "added_at": "2021-03-01 03:07:22",
-      "album": {
         "name": "PLAY",
         "url": "https://open.spotify.com/album/1eu07xRE0vQfN5et0Y3DAy"
       },
@@ -655,6 +639,22 @@
       "duration_ms": 193321,
       "name": "200%",
       "url": "https://open.spotify.com/track/6qkx0tenDglbF21CU4wa1k"
+    },
+    {
+      "added_at": "2021-03-01 03:07:22",
+      "album": {
+        "name": "Stand Up",
+        "url": "https://open.spotify.com/album/0NB6IIwQeRDzNFCU22LQto"
+      },
+      "artists": [
+        {
+          "name": "BIGBANG",
+          "url": "https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX"
+        }
+      ],
+      "duration_ms": 256359,
+      "name": "Haru Haru",
+      "url": "https://open.spotify.com/track/1L4d2lafz1odpIMe8va21X"
     },
     {
       "added_at": "2021-03-01 03:07:22",
@@ -711,22 +711,6 @@
     {
       "added_at": "2021-03-01 03:07:22",
       "album": {
-        "name": "Full Album RED PLANET",
-        "url": "https://open.spotify.com/album/5bA5ItGeDXS2XIt9axBSwL"
-      },
-      "artists": [
-        {
-          "name": "BOL4",
-          "url": "https://open.spotify.com/artist/4k5fFEYgkWYrYvtOK3zVBl"
-        }
-      ],
-      "duration_ms": 213853,
-      "name": "Galaxy",
-      "url": "https://open.spotify.com/track/15c7KZTrsCUxCQcOdUVELc"
-    },
-    {
-      "added_at": "2021-03-01 03:07:22",
-      "album": {
         "name": "GFRIEND 3rd Mini Album 'SNOWFLAKE'",
         "url": "https://open.spotify.com/album/0COnSwFb5qOhABUyWNw6Kp"
       },
@@ -739,6 +723,22 @@
       "duration_ms": 209104,
       "name": "Rough",
       "url": "https://open.spotify.com/track/3CVeGXpoPKJQ9JuhPp3mpL"
+    },
+    {
+      "added_at": "2021-03-01 03:07:22",
+      "album": {
+        "name": "Full Album RED PLANET",
+        "url": "https://open.spotify.com/album/5bA5ItGeDXS2XIt9axBSwL"
+      },
+      "artists": [
+        {
+          "name": "BOL4",
+          "url": "https://open.spotify.com/artist/4k5fFEYgkWYrYvtOK3zVBl"
+        }
+      ],
+      "duration_ms": 213853,
+      "name": "Galaxy",
+      "url": "https://open.spotify.com/track/15c7KZTrsCUxCQcOdUVELc"
     },
     {
       "added_at": "2021-03-01 03:07:22",
@@ -807,22 +807,6 @@
     {
       "added_at": "2021-03-01 03:07:22",
       "album": {
-        "name": "The Boys - The 3rd Album",
-        "url": "https://open.spotify.com/album/4vGkZl9P0sKxupLdJE7ndS"
-      },
-      "artists": [
-        {
-          "name": "Girls' Generation",
-          "url": "https://open.spotify.com/artist/0Sadg1vgvaPqGTOjxu0N6c"
-        }
-      ],
-      "duration_ms": 228880,
-      "name": "The Boys",
-      "url": "https://open.spotify.com/track/4sRQg2aoec0VIvQ7GZPGMy"
-    },
-    {
-      "added_at": "2021-03-01 03:07:22",
-      "album": {
         "name": "COUP D'ETAT",
         "url": "https://open.spotify.com/album/4msI9bSfKohOPFic15aLR4"
       },
@@ -835,6 +819,22 @@
       "duration_ms": 224792,
       "name": "CROOKED",
       "url": "https://open.spotify.com/track/4EwNWRBWdZ6bgvxRHlZ8OO"
+    },
+    {
+      "added_at": "2021-03-01 03:07:22",
+      "album": {
+        "name": "The Boys - The 3rd Album",
+        "url": "https://open.spotify.com/album/4vGkZl9P0sKxupLdJE7ndS"
+      },
+      "artists": [
+        {
+          "name": "Girls' Generation",
+          "url": "https://open.spotify.com/artist/0Sadg1vgvaPqGTOjxu0N6c"
+        }
+      ],
+      "duration_ms": 228880,
+      "name": "The Boys",
+      "url": "https://open.spotify.com/track/4sRQg2aoec0VIvQ7GZPGMy"
     },
     {
       "added_at": "2021-03-01 03:07:22",
@@ -919,18 +919,18 @@
     {
       "added_at": "2021-03-01 03:07:22",
       "album": {
-        "name": "I GOT A BOY - The 4th Album",
-        "url": "https://open.spotify.com/album/3uhihQCm9aSvdJmDXcVrvi"
+        "name": "Girl's Day Love Second Album",
+        "url": "https://open.spotify.com/album/6bf0r561nSUanYZ9ej56Me"
       },
       "artists": [
         {
-          "name": "Girls' Generation",
-          "url": "https://open.spotify.com/artist/0Sadg1vgvaPqGTOjxu0N6c"
+          "name": "Girl's Day",
+          "url": "https://open.spotify.com/artist/13kJgvU22LHMsJtGWLmx7W"
         }
       ],
-      "duration_ms": 271325,
-      "name": "I GOT A BOY",
-      "url": "https://open.spotify.com/track/2WkPfNd237yc0l5KewCDpp"
+      "duration_ms": 200705,
+      "name": "Something",
+      "url": "https://open.spotify.com/track/3xHIyErJUeuy0MpjUKRuPw"
     },
     {
       "added_at": "2021-03-01 03:07:22",
@@ -951,18 +951,18 @@
     {
       "added_at": "2021-03-01 03:07:22",
       "album": {
-        "name": "Girl's Day Love Second Album",
-        "url": "https://open.spotify.com/album/6bf0r561nSUanYZ9ej56Me"
+        "name": "I GOT A BOY - The 4th Album",
+        "url": "https://open.spotify.com/album/3uhihQCm9aSvdJmDXcVrvi"
       },
       "artists": [
         {
-          "name": "Girl's Day",
-          "url": "https://open.spotify.com/artist/13kJgvU22LHMsJtGWLmx7W"
+          "name": "Girls' Generation",
+          "url": "https://open.spotify.com/artist/0Sadg1vgvaPqGTOjxu0N6c"
         }
       ],
-      "duration_ms": 200705,
-      "name": "Something",
-      "url": "https://open.spotify.com/track/3xHIyErJUeuy0MpjUKRuPw"
+      "duration_ms": 271325,
+      "name": "I GOT A BOY",
+      "url": "https://open.spotify.com/track/2WkPfNd237yc0l5KewCDpp"
     },
     {
       "added_at": "2021-03-01 03:07:22",
@@ -983,22 +983,6 @@
     {
       "added_at": "2021-03-01 03:07:22",
       "album": {
-        "name": "Sherlock - The 4th Mini Album",
-        "url": "https://open.spotify.com/album/2Mfisiv88pNRQNugqrEUHQ"
-      },
-      "artists": [
-        {
-          "name": "SHINee",
-          "url": "https://open.spotify.com/artist/2hRQKC0gqlZGPrmUKbcchR"
-        }
-      ],
-      "duration_ms": 239186,
-      "name": "Sherlock (Clue + Note)",
-      "url": "https://open.spotify.com/track/2sVtrcj32v3fR8mLjqWziv"
-    },
-    {
-      "added_at": "2021-03-01 03:07:22",
-      "album": {
         "name": "A Class",
         "url": "https://open.spotify.com/album/5Nq0GIIfrsCnUPx4Ayej1c"
       },
@@ -1011,6 +995,22 @@
       "duration_ms": 217560,
       "name": "Bad Girl Good Girl",
       "url": "https://open.spotify.com/track/1EkLacfCJIJcHkJvxlkJKE"
+    },
+    {
+      "added_at": "2021-03-01 03:07:22",
+      "album": {
+        "name": "Sherlock - The 4th Mini Album",
+        "url": "https://open.spotify.com/album/2Mfisiv88pNRQNugqrEUHQ"
+      },
+      "artists": [
+        {
+          "name": "SHINee",
+          "url": "https://open.spotify.com/artist/2hRQKC0gqlZGPrmUKbcchR"
+        }
+      ],
+      "duration_ms": 239186,
+      "name": "Sherlock (Clue + Note)",
+      "url": "https://open.spotify.com/track/2sVtrcj32v3fR8mLjqWziv"
     },
     {
       "added_at": "2021-03-01 03:07:22",
@@ -1063,22 +1063,6 @@
     {
       "added_at": "2021-03-01 03:07:22",
       "album": {
-        "name": "Give It To Me (2)",
-        "url": "https://open.spotify.com/album/1nErNFyYvHnuCYvfwrMyoz"
-      },
-      "artists": [
-        {
-          "name": "SISTAR",
-          "url": "https://open.spotify.com/artist/2wTLheTmMcFCA4hdY8hZJP"
-        }
-      ],
-      "duration_ms": 201325,
-      "name": "Give it to me",
-      "url": "https://open.spotify.com/track/1t88m8JUlqn9kf0FLmVta5"
-    },
-    {
-      "added_at": "2021-03-01 03:07:22",
-      "album": {
         "name": "THE THIRD SINGLE CATALLENA",
         "url": "https://open.spotify.com/album/3FeATTUjZWvmXW2kP9CHWY"
       },
@@ -1091,6 +1075,22 @@
       "duration_ms": 193153,
       "name": "Catallena",
       "url": "https://open.spotify.com/track/5fWKr5p15BTazjflJ6HX5j"
+    },
+    {
+      "added_at": "2021-03-01 03:07:22",
+      "album": {
+        "name": "Give It To Me (2)",
+        "url": "https://open.spotify.com/album/1nErNFyYvHnuCYvfwrMyoz"
+      },
+      "artists": [
+        {
+          "name": "SISTAR",
+          "url": "https://open.spotify.com/artist/2wTLheTmMcFCA4hdY8hZJP"
+        }
+      ],
+      "duration_ms": 201325,
+      "name": "Give it to me",
+      "url": "https://open.spotify.com/track/1t88m8JUlqn9kf0FLmVta5"
     },
     {
       "added_at": "2021-03-01 03:07:22",
@@ -1231,22 +1231,6 @@
     {
       "added_at": "2021-03-01 03:07:22",
       "album": {
-        "name": "Bye Bye My Blue",
-        "url": "https://open.spotify.com/album/7a9EHrlQGVQsJe590lX4LU"
-      },
-      "artists": [
-        {
-          "name": "Yerin Baek",
-          "url": "https://open.spotify.com/artist/6dhfy4ByARPJdPtMyrUYJK"
-        }
-      ],
-      "duration_ms": 203409,
-      "name": "Bye Bye My Blue",
-      "url": "https://open.spotify.com/track/4GUqcCrsISpXTbiAFz6FcO"
-    },
-    {
-      "added_at": "2021-03-01 03:07:22",
-      "album": {
         "name": "Why So Lonely",
         "url": "https://open.spotify.com/album/2TzaSJlsVyKcZ0NOf2TI9U"
       },
@@ -1259,6 +1243,22 @@
       "duration_ms": 206706,
       "name": "Why So Lonely",
       "url": "https://open.spotify.com/track/2FBNkgK3GbF2tVWxKNFRjX"
+    },
+    {
+      "added_at": "2021-03-01 03:07:22",
+      "album": {
+        "name": "Bye Bye My Blue",
+        "url": "https://open.spotify.com/album/7a9EHrlQGVQsJe590lX4LU"
+      },
+      "artists": [
+        {
+          "name": "Yerin Baek",
+          "url": "https://open.spotify.com/artist/6dhfy4ByARPJdPtMyrUYJK"
+        }
+      ],
+      "duration_ms": 203409,
+      "name": "Bye Bye My Blue",
+      "url": "https://open.spotify.com/track/4GUqcCrsISpXTbiAFz6FcO"
     },
     {
       "added_at": "2021-03-01 03:07:22",
@@ -1311,22 +1311,6 @@
     {
       "added_at": "2021-03-01 03:07:22",
       "album": {
-        "name": "Bluetory",
-        "url": "https://open.spotify.com/album/6uXXlobOpwaecX1eNZtW4O"
-      },
-      "artists": [
-        {
-          "name": "CNBLUE",
-          "url": "https://open.spotify.com/artist/6dCz3spfpIvqqqsIoP6wXi"
-        }
-      ],
-      "duration_ms": 217835,
-      "name": "Loner",
-      "url": "https://open.spotify.com/track/7wqBDFp7JZfWp3aPaC4gHQ"
-    },
-    {
-      "added_at": "2021-03-01 03:07:22",
-      "album": {
         "name": "John Travolta Wanna Be",
         "url": "https://open.spotify.com/album/3phQgRvQwZ0OPzmzoNKaYq"
       },
@@ -1343,18 +1327,18 @@
     {
       "added_at": "2021-03-01 03:07:22",
       "album": {
-        "name": "The 1st Album 'XOXO' (Repackage)",
-        "url": "https://open.spotify.com/album/4qduCvpyBL5hGYdBvCvcDA"
+        "name": "Bluetory",
+        "url": "https://open.spotify.com/album/6uXXlobOpwaecX1eNZtW4O"
       },
       "artists": [
         {
-          "name": "EXO",
-          "url": "https://open.spotify.com/artist/3cjEqqelV9zb4BYE3qDQ4O"
+          "name": "CNBLUE",
+          "url": "https://open.spotify.com/artist/6dCz3spfpIvqqqsIoP6wXi"
         }
       ],
-      "duration_ms": 234856,
-      "name": "Peter Pan",
-      "url": "https://open.spotify.com/track/0FF1qj8n4vZEzY54Kt5qh1"
+      "duration_ms": 217835,
+      "name": "Loner",
+      "url": "https://open.spotify.com/track/7wqBDFp7JZfWp3aPaC4gHQ"
     },
     {
       "added_at": "2021-03-01 03:07:22",
@@ -1375,18 +1359,18 @@
     {
       "added_at": "2021-03-01 03:07:22",
       "album": {
-        "name": "Only One - The 7th Album",
-        "url": "https://open.spotify.com/album/54xacjSt0jd9cELJc2j7UR"
+        "name": "The 1st Album 'XOXO' (Repackage)",
+        "url": "https://open.spotify.com/album/4qduCvpyBL5hGYdBvCvcDA"
       },
       "artists": [
         {
-          "name": "BoA",
-          "url": "https://open.spotify.com/artist/4muJrGMndyYWqZtfk8OWy4"
+          "name": "EXO",
+          "url": "https://open.spotify.com/artist/3cjEqqelV9zb4BYE3qDQ4O"
         }
       ],
-      "duration_ms": 217085,
-      "name": "Only One",
-      "url": "https://open.spotify.com/track/3Hyl7YrOtBcnh1geON2kSO"
+      "duration_ms": 234856,
+      "name": "Peter Pan",
+      "url": "https://open.spotify.com/track/0FF1qj8n4vZEzY54Kt5qh1"
     },
     {
       "added_at": "2021-03-01 03:07:22",
@@ -1403,6 +1387,22 @@
       "duration_ms": 283800,
       "name": "Last Goodbye",
       "url": "https://open.spotify.com/track/0x50cQ1pZeV4xl737GhKBk"
+    },
+    {
+      "added_at": "2021-03-01 03:07:22",
+      "album": {
+        "name": "Only One - The 7th Album",
+        "url": "https://open.spotify.com/album/54xacjSt0jd9cELJc2j7UR"
+      },
+      "artists": [
+        {
+          "name": "BoA",
+          "url": "https://open.spotify.com/artist/4muJrGMndyYWqZtfk8OWy4"
+        }
+      ],
+      "duration_ms": 217085,
+      "name": "Only One",
+      "url": "https://open.spotify.com/track/3Hyl7YrOtBcnh1geON2kSO"
     },
     {
       "added_at": "2021-03-01 03:07:22",
@@ -1455,22 +1455,6 @@
     {
       "added_at": "2021-03-01 03:07:22",
       "album": {
-        "name": "The 1st Album 'XOXO' (Repackage)",
-        "url": "https://open.spotify.com/album/4qduCvpyBL5hGYdBvCvcDA"
-      },
-      "artists": [
-        {
-          "name": "EXO",
-          "url": "https://open.spotify.com/artist/3cjEqqelV9zb4BYE3qDQ4O"
-        }
-      ],
-      "duration_ms": 230600,
-      "name": "Wolf",
-      "url": "https://open.spotify.com/track/7n0D1iLva5zp4JcnlIMeVa"
-    },
-    {
-      "added_at": "2021-03-01 03:07:22",
-      "album": {
         "name": "Electric Shock - The 2nd Mini Album",
         "url": "https://open.spotify.com/album/7LVMjDwcyhVhDTHddKPjIs"
       },
@@ -1483,6 +1467,22 @@
       "duration_ms": 196946,
       "name": "Electric Shock",
       "url": "https://open.spotify.com/track/7tMN6iGJMulMFpSCeU7pmU"
+    },
+    {
+      "added_at": "2021-03-01 03:07:22",
+      "album": {
+        "name": "The 1st Album 'XOXO' (Repackage)",
+        "url": "https://open.spotify.com/album/4qduCvpyBL5hGYdBvCvcDA"
+      },
+      "artists": [
+        {
+          "name": "EXO",
+          "url": "https://open.spotify.com/artist/3cjEqqelV9zb4BYE3qDQ4O"
+        }
+      ],
+      "duration_ms": 230600,
+      "name": "Wolf",
+      "url": "https://open.spotify.com/track/7n0D1iLva5zp4JcnlIMeVa"
     },
     {
       "added_at": "2021-03-01 03:07:22",
@@ -1519,6 +1519,22 @@
     {
       "added_at": "2021-03-01 03:07:22",
       "album": {
+        "name": "Yanghwa BRDG",
+        "url": "https://open.spotify.com/album/3g3lXFXBEo6u3xbfzYNcd4"
+      },
+      "artists": [
+        {
+          "name": "Zion.T",
+          "url": "https://open.spotify.com/artist/5HenzRvMtSrgtvU16XAoby"
+        }
+      ],
+      "duration_ms": 229349,
+      "name": "Yanghwa BRDG",
+      "url": "https://open.spotify.com/track/7saJl9V0kRYGWuyeURHYNU"
+    },
+    {
+      "added_at": "2021-03-01 03:07:22",
+      "album": {
         "name": "BERMUDA TRIANGLE",
         "url": "https://open.spotify.com/album/7BUHltdya9h5Qv0qI2xvhX"
       },
@@ -1539,22 +1555,6 @@
       "duration_ms": 207026,
       "name": "BERMUDA TRIANGLE",
       "url": "https://open.spotify.com/track/0hRVm06wtH5HsmPetg1W9t"
-    },
-    {
-      "added_at": "2021-03-01 03:07:22",
-      "album": {
-        "name": "Yanghwa BRDG",
-        "url": "https://open.spotify.com/album/3g3lXFXBEo6u3xbfzYNcd4"
-      },
-      "artists": [
-        {
-          "name": "Zion.T",
-          "url": "https://open.spotify.com/artist/5HenzRvMtSrgtvU16XAoby"
-        }
-      ],
-      "duration_ms": 229349,
-      "name": "Yanghwa BRDG",
-      "url": "https://open.spotify.com/track/7saJl9V0kRYGWuyeURHYNU"
     },
     {
       "added_at": "2021-03-01 03:07:22",
@@ -1623,22 +1623,6 @@
     {
       "added_at": "2021-03-01 03:07:22",
       "album": {
-        "name": "Pink Tape - The 2nd Album",
-        "url": "https://open.spotify.com/album/62tuEHFtjk3L6Xjdkzyt4z"
-      },
-      "artists": [
-        {
-          "name": "f(x)",
-          "url": "https://open.spotify.com/artist/3wRA5UYoo08BBKJnzyKkpF"
-        }
-      ],
-      "duration_ms": 197672,
-      "name": "\uccab \uc0ac\ub791\ub2c8 (Rum Pum Pum Pum)",
-      "url": "https://open.spotify.com/track/22sIPXiQzcPydCC6skPPPq"
-    },
-    {
-      "added_at": "2021-03-01 03:07:22",
-      "album": {
         "name": "Colors",
         "url": "https://open.spotify.com/album/66nsOtUGPFQzKxSmgCjk1c"
       },
@@ -1651,6 +1635,22 @@
       "duration_ms": 198008,
       "name": "Only You",
       "url": "https://open.spotify.com/track/1hGSF6kVDU8dWmXDLyfHBt"
+    },
+    {
+      "added_at": "2021-03-01 03:07:22",
+      "album": {
+        "name": "Pink Tape - The 2nd Album",
+        "url": "https://open.spotify.com/album/62tuEHFtjk3L6Xjdkzyt4z"
+      },
+      "artists": [
+        {
+          "name": "f(x)",
+          "url": "https://open.spotify.com/artist/3wRA5UYoo08BBKJnzyKkpF"
+        }
+      ],
+      "duration_ms": 197672,
+      "name": "\uccab \uc0ac\ub791\ub2c8 (Rum Pum Pum Pum)",
+      "url": "https://open.spotify.com/track/22sIPXiQzcPydCC6skPPPq"
     }
   ],
   "unique_name": "2010\ub144\ub300 \ubca0\uc2a4\ud2b8",

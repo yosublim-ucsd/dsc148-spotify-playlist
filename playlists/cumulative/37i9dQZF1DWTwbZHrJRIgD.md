@@ -4,7 +4,7 @@
 
 > Bright, sunny, catchy tunes put a smile on your face\. Cover \- Tu Jhoothi Main Makkaar
 
-160 songs - 9 hr 55 min
+161 songs - 9 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -88,7 +88,7 @@
 | [Life Is Crazy](https://open.spotify.com/track/5gN3uHEvCU4Ui6RBCN1lEA) | [Shankar\-Ehsaan\-Loy](https://open.spotify.com/artist/0L5GV6LN8SWWUWIdBbTLTZ), [Uday Benegal](https://open.spotify.com/artist/4UUhpxk7Znfhj3DfZycudP), [Shankar Mahadevan](https://open.spotify.com/artist/1SJOL9HJ08YOn92lFcYf8a), [Loy Mendonsa](https://open.spotify.com/artist/1KIKn2xA1mgC7uJTcS1hEU), [Alyssa Mendonsa](https://open.spotify.com/artist/279ZItWl3nzCaO4SJJdzAN) | [Wake Up Sid \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1fzE65RP7Gyhi8hdOv8eRQ) | 3:41 | 2022-03-09 | 2023-02-11 |
 | [Liggi](https://open.spotify.com/track/4vwPirpSJCOiIsgxMV4Xcv) | [Ritviz](https://open.spotify.com/artist/72beYOeW2sb2yfcS4JsRvb) | [Liggi](https://open.spotify.com/album/1zITUizbdnwegHf2BM7faa) | 3:01 | 2022-07-17 | 2022-09-04 |
 | [Liggi](https://open.spotify.com/track/66Nmp3ztIMqX1j8yYtWl1X) | [Ritviz](https://open.spotify.com/artist/72beYOeW2sb2yfcS4JsRvb) | [Liggi](https://open.spotify.com/album/5r9bLIpSpE5ddweubUjw0t) | 3:01 | 2022-03-09 | 2023-10-15 |
-| [Liggi](https://open.spotify.com/track/7tbzfR8ZvZzJEzy6v0d6el) | [Ritviz](https://open.spotify.com/artist/72beYOeW2sb2yfcS4JsRvb) | [Dev](https://open.spotify.com/album/6y1pmHE0VptaUzu39ApqqE) | 3:01 | 2022-08-08 |  |
+| [Liggi](https://open.spotify.com/track/7tbzfR8ZvZzJEzy6v0d6el) | [Ritviz](https://open.spotify.com/artist/72beYOeW2sb2yfcS4JsRvb) | [Dev](https://open.spotify.com/album/6y1pmHE0VptaUzu39ApqqE) | 3:01 | 2022-08-08 | 2023-10-19 |
 | [Love You Zindagi](https://open.spotify.com/track/6k3XXCE1ZzwevQlxf8dNaw) | [Amit Trivedi](https://open.spotify.com/artist/7HCqGPJcQTyGJ2yqntbuyr), [Jasleen Royal](https://open.spotify.com/artist/74OaRjmyh0XyRZsQQQ5l7c) | [Dear Zindagi \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/29njH6pDF6JE65D2VJbAxW) | 3:52 | 2022-03-09 |  |
 | [Maan Meri Jaan](https://open.spotify.com/track/1418IuVKQPTYqt7QNJ9RXN) | [King](https://open.spotify.com/artist/5NHm4TU5Twz7owibYxJfFU) | [Champagne Talk](https://open.spotify.com/album/15CyNDuGY5fsG0Hn9rjnpG) | 3:14 | 2023-03-03 |  |
 | [Maan Meri Jaan \(African Version\)](https://open.spotify.com/track/709Eo5HgTz3di5xVkTWr4b) | [King](https://open.spotify.com/artist/5NHm4TU5Twz7owibYxJfFU), [Rayvanny](https://open.spotify.com/artist/7G9dCn1mqomAa0ucJoBm6J) | [Maan Meri Jaan \(African Version\)](https://open.spotify.com/album/0qyUqa11Zf6m5hXjogpSo9) | 3:22 | 2023-02-24 | 2023-03-04 |
@@ -112,6 +112,7 @@
 | [Offo](https://open.spotify.com/track/3f26GAn3yOXfoclLyN8AdD) | [Aditi Singh Sharma](https://open.spotify.com/artist/4iW4xSfMEIvrXM0Iu3aFDY), [Amitabh Bhattacharya](https://open.spotify.com/artist/2fMqTqiTxUDlmcOEPaQSsx) | [2 States](https://open.spotify.com/album/4PmYasI57t8uJJAOt0zKud) | 3:33 | 2023-03-17 |  |
 | [P PAA K](https://open.spotify.com/track/4FaLSd64sSJ41WE6WhnUCw) | [Denny](https://open.spotify.com/artist/6KozIqto3bkoQp4lksicOA), [Nikhita Gandhi](https://open.spotify.com/artist/3tPQOjkxO3mrYrrgkTeXgH), [Siddhant Kaushal](https://open.spotify.com/artist/2qpgJ59UEgeQI5KexOcENV) | [P PAA K](https://open.spotify.com/album/1Kcckfo4mH7wwa6bEqdyZF) | 3:13 | 2022-12-06 | 2023-02-11 |
 | [Pappi Jhappi](https://open.spotify.com/track/5tMipBSvSMeppvepjQnbex) | [Meet Bros.](https://open.spotify.com/artist/0qpsFfOT3SmdGmnyV6rOhS), [Harry Arora](https://open.spotify.com/artist/0Hv1cidXFr7vPUtWijAoMQ), [Kumaar](https://open.spotify.com/artist/0m3D4grap8VFSzbJMqgNVk) | [Pappi Jhappi \(From "Govinda Naam Mera"\)](https://open.spotify.com/album/6OnJ1RwA2QvGLaUHZeGkQG) | 2:58 | 2022-12-12 | 2023-01-26 |
+| [Parinaam](https://open.spotify.com/track/3xJ0OLjMdcuvcYQiUAcGlz) | [Dorwin John](https://open.spotify.com/artist/1WrRZqtc5zXX95BV270M1v) | [Parinaam](https://open.spotify.com/album/4cQvaQtUd2Vjq0M8SNzyRv) | 2:15 | 2023-10-18 |  |
 | [Pasoori](https://open.spotify.com/track/7lvDsmTRXFE3dK4OjvRiWB) | [Shae Gill](https://open.spotify.com/artist/3bWIy9AUrQdiNeS62Bp3OP), [Ali Sethi](https://open.spotify.com/artist/3NegWDGp038A3FIi3gSYzl) | [Pasoori](https://open.spotify.com/album/7wgrW5XyZdtk0K8PkW5A7h) | 3:44 | 2023-03-15 |  |
 | [Phir Se Ud Chala](https://open.spotify.com/track/1kcV2LJxt5v0s2cEGtEJ5i) | [Mohit Chauhan](https://open.spotify.com/artist/5GnnSrwNCGyfAU4zuIytiS) | [Rockstar](https://open.spotify.com/album/3RZxrS2dDZlbsYtMRM89v8) | 4:28 | 2022-03-09 | 2023-01-11 |
 | [Phisal Jaa Tu](https://open.spotify.com/track/7ltVdvJOYUMhasCmdVcU3Y) | [Abhijeet Srivastava](https://open.spotify.com/artist/4FJhE5ToBQGzOGf0D5Xd1C) | [Haseen Dillruba](https://open.spotify.com/album/73mS0flubEOCa6KXDknjeb) | 4:01 | 2022-03-09 | 2023-02-21 |

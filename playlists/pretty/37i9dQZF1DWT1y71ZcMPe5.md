@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT1y71ZcMPe5.md) - [plain]
 
 > The hottest songs you need to listen to right now\. Cover: Troye Sivan
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,338,667 likes - 50 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,338,840 likes - 50 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT1y71ZcMPe5.md) - [plain]
 | 49 | [this is what autumn feels like](https://open.spotify.com/track/2YOGCTiPJWMhZRdeadFj8G) | [JVKE](https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK) | [this is what autumn feels like](https://open.spotify.com/album/7J1igBIEs797Vk07u18VdI) | 3:39 |
 | 50 | [Mirage \- for Assassin's Creed Mirage](https://open.spotify.com/track/7bgIcSp0Nd3qfHqwxQplzW) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ), [Assassin's Creed](https://open.spotify.com/artist/5ct8AlcDgWMp4O25vbcjpC), [Mishaal Tamer](https://open.spotify.com/artist/2NM1t8dMvgeu9Lfl06574g) | [Mirage \(for Assassin's Creed Mirage\)](https://open.spotify.com/album/0G3FKRjRW1ERSTRjWZWCjz) | 2:13 |
 
-Snapshot ID: `MCw4NjVhNjBmM2YwNGY3OWNkZDI1OTRmNjJlZWRmNmJmZGNjMGU2MmI4`
+Snapshot ID: `MCxlNzhjNjc1MGY3M2JhN2QyOTM2MDdjZjI0YjZhNDQ4MGNmZjY3OTUy`

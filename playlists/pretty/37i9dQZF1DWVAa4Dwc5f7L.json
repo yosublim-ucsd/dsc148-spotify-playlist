@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Hasta las 15! Monster merengue hits! Cover: Elvis Crespo & Miriam Cruz",
-  "num_followers": 384481,
+  "num_followers": 384534,
   "original_name": "Merengue Mania",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkZmNhZGVhYTcyMjhjNmNjODZmMGU0NTNjNzYwMTAzMjEyZmViZmQw",
+  "snapshot_id": "MCwxNmJmZTgyY2Q4NWMxYzk0MzBkZjQ5ZDg3ZGUzZTcyNDAwNGM2MWUy",
   "tracks": [
     {
       "added_at": "2023-10-13 04:00:00",
@@ -359,22 +359,6 @@
     {
       "added_at": "2023-10-13 04:00:00",
       "album": {
-        "name": "In Da House",
-        "url": "https://open.spotify.com/album/6AbWKVD3idhjdTxk7BQtKe"
-      },
-      "artists": [
-        {
-          "name": "Proyecto Uno",
-          "url": "https://open.spotify.com/artist/6w1XCiB8efbfnusJ2jzmvu"
-        }
-      ],
-      "duration_ms": 330800,
-      "name": "Otra Noche (Another Night)",
-      "url": "https://open.spotify.com/track/2lROtguCNiJcyZxol9aTKi"
-    },
-    {
-      "added_at": "2023-10-13 04:00:00",
-      "album": {
         "name": "El Hombre Merengue",
         "url": "https://open.spotify.com/album/2pQywjfiQQQQnjRGrxjHwd"
       },
@@ -387,6 +371,22 @@
       "duration_ms": 283866,
       "name": "Cachamba",
       "url": "https://open.spotify.com/track/2HFfwhwTbpGq8Ebi3Nkdwv"
+    },
+    {
+      "added_at": "2023-10-13 04:00:00",
+      "album": {
+        "name": "In Da House",
+        "url": "https://open.spotify.com/album/6AbWKVD3idhjdTxk7BQtKe"
+      },
+      "artists": [
+        {
+          "name": "Proyecto Uno",
+          "url": "https://open.spotify.com/artist/6w1XCiB8efbfnusJ2jzmvu"
+        }
+      ],
+      "duration_ms": 330800,
+      "name": "Otra Noche (Another Night)",
+      "url": "https://open.spotify.com/track/2lROtguCNiJcyZxol9aTKi"
     },
     {
       "added_at": "2023-10-13 04:00:00",
@@ -1191,18 +1191,26 @@
     {
       "added_at": "2023-10-13 04:00:00",
       "album": {
-        "name": "La Mujer",
-        "url": "https://open.spotify.com/album/40deup3Khxr7OdrwTtdog6"
+        "name": "La Reuni\u00f3n 5 : La Bailadora / El Amor M\u00e1s Grande del Planeta / Si Tu Te Vas / Tu Hombre Soy Yo / Un Idiota / Voy a Beber / Nuestro Amor / Mi Celosa Hermosa / T\u00fa Eres Ajena / Borracha (En Vivo)",
+        "url": "https://open.spotify.com/album/05Fh3kXjqRuHSZ6lDLX7zR"
       },
       "artists": [
         {
-          "name": "Didi Hernandez",
-          "url": "https://open.spotify.com/artist/4BcT4O9HRp3BUIKTsNtwZH"
+          "name": "La Reuni\u00f3n",
+          "url": "https://open.spotify.com/artist/2DYGASY9WYBWoUkjwqq9c4"
+        },
+        {
+          "name": "Felipe Pel\u00e1ez",
+          "url": "https://open.spotify.com/artist/6dexNK5MjEL8UvmA5MjSgg"
+        },
+        {
+          "name": "Eddy Herrera",
+          "url": "https://open.spotify.com/artist/4yNdrUaF54csrLixVTnqzC"
         }
       ],
-      "duration_ms": 245000,
-      "name": "La Mujer",
-      "url": "https://open.spotify.com/track/2GQ4ey8Dzq8ZkvW15yrl48"
+      "duration_ms": 947950,
+      "name": "La Reuni\u00f3n 5 : La Bailadora / El Amor M\u00e1s Grande del Planeta / Si Tu Te Vas / Tu Hombre Soy Yo / Un Idiota / Voy a Beber / Nuestro Amor / Mi Celosa Hermosa / T\u00fa Eres Ajena / Borracha - En Vivo",
+      "url": "https://open.spotify.com/track/4tLNxU08ccx6jrj3MK14ol"
     },
     {
       "added_at": "2023-10-13 04:00:00",
@@ -1235,6 +1243,22 @@
       "duration_ms": 272533,
       "name": "El Moreno Esta",
       "url": "https://open.spotify.com/track/3uMcf1QPK2jOBStnZAdMch"
+    },
+    {
+      "added_at": "2023-10-13 04:00:00",
+      "album": {
+        "name": "La Mujer",
+        "url": "https://open.spotify.com/album/40deup3Khxr7OdrwTtdog6"
+      },
+      "artists": [
+        {
+          "name": "Didi Hernandez",
+          "url": "https://open.spotify.com/artist/4BcT4O9HRp3BUIKTsNtwZH"
+        }
+      ],
+      "duration_ms": 245000,
+      "name": "La Mujer",
+      "url": "https://open.spotify.com/track/2GQ4ey8Dzq8ZkvW15yrl48"
     },
     {
       "added_at": "2023-10-13 04:00:00",
@@ -1287,30 +1311,6 @@
     {
       "added_at": "2023-10-13 04:00:00",
       "album": {
-        "name": "La Reuni\u00f3n 5 : La Bailadora / El Amor M\u00e1s Grande del Planeta / Si Tu Te Vas / Tu Hombre Soy Yo / Un Idiota / Voy a Beber / Nuestro Amor / Mi Celosa Hermosa / T\u00fa Eres Ajena / Borracha (En Vivo)",
-        "url": "https://open.spotify.com/album/05Fh3kXjqRuHSZ6lDLX7zR"
-      },
-      "artists": [
-        {
-          "name": "La Reuni\u00f3n",
-          "url": "https://open.spotify.com/artist/2DYGASY9WYBWoUkjwqq9c4"
-        },
-        {
-          "name": "Felipe Pel\u00e1ez",
-          "url": "https://open.spotify.com/artist/6dexNK5MjEL8UvmA5MjSgg"
-        },
-        {
-          "name": "Eddy Herrera",
-          "url": "https://open.spotify.com/artist/4yNdrUaF54csrLixVTnqzC"
-        }
-      ],
-      "duration_ms": 947950,
-      "name": "La Reuni\u00f3n 5 : La Bailadora / El Amor M\u00e1s Grande del Planeta / Si Tu Te Vas / Tu Hombre Soy Yo / Un Idiota / Voy a Beber / Nuestro Amor / Mi Celosa Hermosa / T\u00fa Eres Ajena / Borracha - En Vivo",
-      "url": "https://open.spotify.com/track/4tLNxU08ccx6jrj3MK14ol"
-    },
-    {
-      "added_at": "2023-10-13 04:00:00",
-      "album": {
         "name": "Coleccion Diamante",
         "url": "https://open.spotify.com/album/05ICn9Npd5HZJgKDnaMByf"
       },
@@ -1359,38 +1359,6 @@
     {
       "added_at": "2023-10-13 04:00:00",
       "album": {
-        "name": "Tesoro Mio (Versi\u00f3n Merengue)",
-        "url": "https://open.spotify.com/album/3MpS1lJ7kN4groX2YIEhmY"
-      },
-      "artists": [
-        {
-          "name": "Olga Ta\u00f1\u00f3n",
-          "url": "https://open.spotify.com/artist/4pv1Jo4PbYI8LMADJoTWjE"
-        }
-      ],
-      "duration_ms": 192800,
-      "name": "Tesoro Mio - Versi\u00f3n Merengue",
-      "url": "https://open.spotify.com/track/1ax8x6uKlotSCmv4ovNRdV"
-    },
-    {
-      "added_at": "2023-10-13 04:00:00",
-      "album": {
-        "name": "Aura",
-        "url": "https://open.spotify.com/album/4nR8BybNNejawuuQzRYwap"
-      },
-      "artists": [
-        {
-          "name": "Los Hermanos Rosario",
-          "url": "https://open.spotify.com/artist/40FzPNKgu0k9VMvvidiKCl"
-        }
-      ],
-      "duration_ms": 278973,
-      "name": "Alo",
-      "url": "https://open.spotify.com/track/1iq1xrOXICFCR5MtmpkwMz"
-    },
-    {
-      "added_at": "2023-10-13 04:00:00",
-      "album": {
         "name": "Imparable",
         "url": "https://open.spotify.com/album/700tpyzeI5UxIIW8j2ds7K"
       },
@@ -1403,6 +1371,22 @@
       "duration_ms": 211098,
       "name": "Sin Rumbo",
       "url": "https://open.spotify.com/track/7BJz4hamLaRwAcI1KtLHeI"
+    },
+    {
+      "added_at": "2023-10-13 04:00:00",
+      "album": {
+        "name": "Tesoro Mio (Versi\u00f3n Merengue)",
+        "url": "https://open.spotify.com/album/3MpS1lJ7kN4groX2YIEhmY"
+      },
+      "artists": [
+        {
+          "name": "Olga Ta\u00f1\u00f3n",
+          "url": "https://open.spotify.com/artist/4pv1Jo4PbYI8LMADJoTWjE"
+        }
+      ],
+      "duration_ms": 192800,
+      "name": "Tesoro Mio - Versi\u00f3n Merengue",
+      "url": "https://open.spotify.com/track/1ax8x6uKlotSCmv4ovNRdV"
     },
     {
       "added_at": "2023-10-13 04:00:00",
@@ -1435,6 +1419,22 @@
       "duration_ms": 258746,
       "name": "Jilila Kimbolo",
       "url": "https://open.spotify.com/track/6gdy8MNpH37iLFTRdNXfAm"
+    },
+    {
+      "added_at": "2023-10-13 04:00:00",
+      "album": {
+        "name": "Aura",
+        "url": "https://open.spotify.com/album/4nR8BybNNejawuuQzRYwap"
+      },
+      "artists": [
+        {
+          "name": "Los Hermanos Rosario",
+          "url": "https://open.spotify.com/artist/40FzPNKgu0k9VMvvidiKCl"
+        }
+      ],
+      "duration_ms": 278973,
+      "name": "Alo",
+      "url": "https://open.spotify.com/track/1iq1xrOXICFCR5MtmpkwMz"
     },
     {
       "added_at": "2023-10-13 04:00:00",
@@ -1603,22 +1603,6 @@
     {
       "added_at": "2023-10-13 04:00:00",
       "album": {
-        "name": "Fiesta",
-        "url": "https://open.spotify.com/album/5NXP7gUS3CyP0tDGSErW5V"
-      },
-      "artists": [
-        {
-          "name": "Yosi Fuentes",
-          "url": "https://open.spotify.com/artist/0ClimgRcrn4sEUHIwFkzz2"
-        }
-      ],
-      "duration_ms": 164250,
-      "name": "Fiesta",
-      "url": "https://open.spotify.com/track/2lgeSsfCdcClqitHCAcyzO"
-    },
-    {
-      "added_at": "2023-10-13 04:00:00",
-      "album": {
         "name": "Con El Machete En La Mano",
         "url": "https://open.spotify.com/album/1XcyOpJC4vdxfAhOnCL7Ol"
       },
@@ -1651,18 +1635,18 @@
     {
       "added_at": "2023-10-13 04:00:00",
       "album": {
-        "name": "Juan Luis Guerra Y 440 (Versiones Instrumentales)",
-        "url": "https://open.spotify.com/album/6V0WSIfBhB36oheVJNXh1p"
+        "name": "Fiesta",
+        "url": "https://open.spotify.com/album/5NXP7gUS3CyP0tDGSErW5V"
       },
       "artists": [
         {
-          "name": "Rey Casas",
-          "url": "https://open.spotify.com/artist/6oPOLmEagKe5lp1gedzGtk"
+          "name": "Yosi Fuentes",
+          "url": "https://open.spotify.com/artist/0ClimgRcrn4sEUHIwFkzz2"
         }
       ],
-      "duration_ms": 148986,
-      "name": "El Costo De La Vida",
-      "url": "https://open.spotify.com/track/5BQtqpUWEWujNim7fS5T6h"
+      "duration_ms": 164250,
+      "name": "Fiesta",
+      "url": "https://open.spotify.com/track/2lgeSsfCdcClqitHCAcyzO"
     },
     {
       "added_at": "2023-10-13 04:00:00",
@@ -1683,18 +1667,34 @@
     {
       "added_at": "2023-10-13 04:00:00",
       "album": {
-        "name": "Jn Music Group 40 A\u00f1os de Merengue Deluxe Edition, Vol. 2",
-        "url": "https://open.spotify.com/album/0JXXIo9JN7EyiHXE4dTqUg"
+        "name": "Juan Luis Guerra Y 440 (Versiones Instrumentales)",
+        "url": "https://open.spotify.com/album/6V0WSIfBhB36oheVJNXh1p"
       },
       "artists": [
         {
-          "name": "Bonny Cepeda",
-          "url": "https://open.spotify.com/artist/1dI3emu3Tf6ZydmpCEZmqx"
+          "name": "Rey Casas",
+          "url": "https://open.spotify.com/artist/6oPOLmEagKe5lp1gedzGtk"
         }
       ],
-      "duration_ms": 244000,
-      "name": "Una Fotograf\u00eda",
-      "url": "https://open.spotify.com/track/0Ur4zvtBeZ6T9dhHCoGuSW"
+      "duration_ms": 148986,
+      "name": "El Costo De La Vida",
+      "url": "https://open.spotify.com/track/5BQtqpUWEWujNim7fS5T6h"
+    },
+    {
+      "added_at": "2023-10-13 04:00:00",
+      "album": {
+        "name": "La Hora De La Verdad",
+        "url": "https://open.spotify.com/album/2SaHN3k5arjkBxbT7KbGnB"
+      },
+      "artists": [
+        {
+          "name": "Grupo Mania",
+          "url": "https://open.spotify.com/artist/2RqhDUsFkCJbhHntsnCVqp"
+        }
+      ],
+      "duration_ms": 234426,
+      "name": "Sandunga",
+      "url": "https://open.spotify.com/track/3bTFEwpUW0KrFFWxzdy9CC"
     }
   ],
   "unique_name": "Merengue Mania",

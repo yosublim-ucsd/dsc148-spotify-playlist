@@ -1,12 +1,12 @@
 {
   "description": "The hottest Afropop records on the planet. Cover:  <a href=\"https://open.spotify.com/artist/3L4ZO0ZaSe1qeucpQK8tBR?si=8l0ZFAOsS0K3OP-UZAArdw\"> DJ Neptune </a>  and <a href=\"https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF?si=ny0fp0AOTJmEpTxgXwTrIA\"> Joeboy </a>  ",
-  "num_followers": 523668,
+  "num_followers": 523928,
   "original_name": "Afropop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhN2U5OGQ1ZjQxYzBhOTk4MTJlM2U4Zjc1YWFmZTk3MTFkOWZjNzU0",
+  "snapshot_id": "MCw5ZWI2YTY1M2ZlMzVmMTc1NDUwNTY3ZmRjMWY4YmI4ZmM2NTBjNTNh",
   "tracks": [
     {
       "added_at": "2023-10-13 00:01:00",
@@ -311,18 +311,22 @@
     {
       "added_at": "2023-10-13 00:01:00",
       "album": {
-        "name": "ZaZa Vibes",
-        "url": "https://open.spotify.com/album/18XSFBvoDjWRmApQZIDzkD"
+        "name": "falling or flying",
+        "url": "https://open.spotify.com/album/3cCpJc6LhvskN7i9w3WkaA"
       },
       "artists": [
         {
-          "name": "L.A.X",
-          "url": "https://open.spotify.com/artist/6lNEt5LSOQRUFl43OnnHUL"
+          "name": "Jorja Smith",
+          "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
+        },
+        {
+          "name": "J Hus",
+          "url": "https://open.spotify.com/artist/2a0uxJgbvvIRI4GX8pYfcr"
         }
       ],
-      "duration_ms": 171428,
-      "name": "Sempe",
-      "url": "https://open.spotify.com/track/7AbLGIOzFkx6jHq5en5xiH"
+      "duration_ms": 237852,
+      "name": "Feelings (feat. J Hus)",
+      "url": "https://open.spotify.com/track/13eNzMdXHUinoWsxcRXTCW"
     },
     {
       "added_at": "2023-10-13 00:01:00",
@@ -347,22 +351,18 @@
     {
       "added_at": "2023-10-13 00:01:00",
       "album": {
-        "name": "falling or flying",
-        "url": "https://open.spotify.com/album/3cCpJc6LhvskN7i9w3WkaA"
+        "name": "ZaZa Vibes",
+        "url": "https://open.spotify.com/album/18XSFBvoDjWRmApQZIDzkD"
       },
       "artists": [
         {
-          "name": "Jorja Smith",
-          "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
-        },
-        {
-          "name": "J Hus",
-          "url": "https://open.spotify.com/artist/2a0uxJgbvvIRI4GX8pYfcr"
+          "name": "L.A.X",
+          "url": "https://open.spotify.com/artist/6lNEt5LSOQRUFl43OnnHUL"
         }
       ],
-      "duration_ms": 237852,
-      "name": "Feelings (feat. J Hus)",
-      "url": "https://open.spotify.com/track/13eNzMdXHUinoWsxcRXTCW"
+      "duration_ms": 171428,
+      "name": "Sempe",
+      "url": "https://open.spotify.com/track/7AbLGIOzFkx6jHq5en5xiH"
     },
     {
       "added_at": "2023-10-17 06:08:15",
@@ -799,26 +799,6 @@
     {
       "added_at": "2023-10-13 00:01:00",
       "album": {
-        "name": "Likor (feat. Stonebwoy)",
-        "url": "https://open.spotify.com/album/7DgfJZxWTpXnUNif7nmgnW"
-      },
-      "artists": [
-        {
-          "name": "KiDi",
-          "url": "https://open.spotify.com/artist/14PimM6ohO2gYftuwTam9V"
-        },
-        {
-          "name": "Stonebwoy",
-          "url": "https://open.spotify.com/artist/2ayt5jDUuTCpoTG7sHSvuq"
-        }
-      ],
-      "duration_ms": 164705,
-      "name": "Likor (feat. Stonebwoy)",
-      "url": "https://open.spotify.com/track/0x7K0Gxgm4rNPB5Kx12Bvn"
-    },
-    {
-      "added_at": "2023-10-13 00:01:00",
-      "album": {
         "name": "One Side (Remix)",
         "url": "https://open.spotify.com/album/5fDSeMU8zMued647WjTnyj"
       },
@@ -839,6 +819,26 @@
       "duration_ms": 198877,
       "name": "One Side - Remix",
       "url": "https://open.spotify.com/track/1ipr0yVUgIworATMZrTAhG"
+    },
+    {
+      "added_at": "2023-10-13 00:01:00",
+      "album": {
+        "name": "Likor (feat. Stonebwoy)",
+        "url": "https://open.spotify.com/album/7DgfJZxWTpXnUNif7nmgnW"
+      },
+      "artists": [
+        {
+          "name": "KiDi",
+          "url": "https://open.spotify.com/artist/14PimM6ohO2gYftuwTam9V"
+        },
+        {
+          "name": "Stonebwoy",
+          "url": "https://open.spotify.com/artist/2ayt5jDUuTCpoTG7sHSvuq"
+        }
+      ],
+      "duration_ms": 164705,
+      "name": "Likor (feat. Stonebwoy)",
+      "url": "https://open.spotify.com/track/0x7K0Gxgm4rNPB5Kx12Bvn"
     },
     {
       "added_at": "2023-10-13 00:01:00",
@@ -879,26 +879,6 @@
     {
       "added_at": "2023-10-13 00:01:00",
       "album": {
-        "name": "Trumpet",
-        "url": "https://open.spotify.com/album/3qNYHdPzFdsGWZqV52859m"
-      },
-      "artists": [
-        {
-          "name": "Olamide",
-          "url": "https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr"
-        },
-        {
-          "name": "CKay",
-          "url": "https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz"
-        }
-      ],
-      "duration_ms": 188656,
-      "name": "Trumpet",
-      "url": "https://open.spotify.com/track/3BwAHuQhZyL4tOkf36DuQv"
-    },
-    {
-      "added_at": "2023-10-13 00:01:00",
-      "album": {
         "name": "WO WO (Remix)",
         "url": "https://open.spotify.com/album/3wwREZUMLVKc33adNjlAhi"
       },
@@ -919,6 +899,26 @@
       "duration_ms": 225450,
       "name": "WO WO (Remix)",
       "url": "https://open.spotify.com/track/7v6HbQggLsB2UUCqABkJoX"
+    },
+    {
+      "added_at": "2023-10-13 00:01:00",
+      "album": {
+        "name": "Trumpet",
+        "url": "https://open.spotify.com/album/3qNYHdPzFdsGWZqV52859m"
+      },
+      "artists": [
+        {
+          "name": "Olamide",
+          "url": "https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr"
+        },
+        {
+          "name": "CKay",
+          "url": "https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz"
+        }
+      ],
+      "duration_ms": 188656,
+      "name": "Trumpet",
+      "url": "https://open.spotify.com/track/3BwAHuQhZyL4tOkf36DuQv"
     },
     {
       "added_at": "2023-10-13 00:01:00",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 
 > Os lançamentos dessa semana incluem Ana Castela, Djonga, Mc Davi, Di Propósito, Avine Vinny e João Gomes e muito mais
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,919,213 likes - 98 songs - 4 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,919,532 likes - 98 songs - 4 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,7 +63,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 | 53 | [Só Quer Sexo Comigo](https://open.spotify.com/track/4wfcDkNTvSpB6fL2IPKEfL) | [Marcynho Sensação](https://open.spotify.com/artist/4dnPDc045bVjibyATxVUOs) | [Volume Topado \- Parte 1](https://open.spotify.com/album/3E0D9nJdWS3A5RNPnEjq7M) | 2:45 |
 | 54 | [Rebolando e Chorando](https://open.spotify.com/track/7lqiwoNqpzutEBPgGfMTf8) | [Sandro e Cícero](https://open.spotify.com/artist/3asFzvfQUWzmAJQtWoL1u5), [Mc Danny](https://open.spotify.com/artist/3PZTvUS5fUUhV3EKAjqdZk) | [Rebolando e Chorando](https://open.spotify.com/album/4bXQTkHC3nBEiqS9aAHMs2) | 2:23 |
 | 55 | [Anonimato \- Ao Vivo](https://open.spotify.com/track/5V5kwq9NOIpYmwsPOdEEWK) | [Juliana Marques](https://open.spotify.com/artist/0lQLEejtZqv5SydrKNiEhp), [Diego & Victor Hugo](https://open.spotify.com/artist/3k68C6mNMJL6OaAdWeW2ZF) | [De Pé No Chão \(Ao Vivo\)](https://open.spotify.com/album/4UwOhfkOPD12WWqnE2cHEW) | 2:43 |
-| 56 | [Pá Tudum](https://open.spotify.com/track/7lEEqw5r8r0hhEVUen3LJl) | [Lukkas](https://open.spotify.com/artist/3yJOjR6PkQh6QU6ZB8waUL), [MC Morena](https://open.spotify.com/artist/4SkLlpL9lBLrUH3tLNpJTz) | [Pá Tudum](https://open.spotify.com/album/6JGqf20wy9CJZoF1AkQ1mH) | 2:52 |
+| 56 | [Pá Tudum](https://open.spotify.com/track/2JfpupKQmUSR59xzKiDGeI) | [Lukkas](https://open.spotify.com/artist/3yJOjR6PkQh6QU6ZB8waUL), [Mc Morena](https://open.spotify.com/artist/28QnIZpWxKcxuSk4iRLUgX) | [Pá Tudum](https://open.spotify.com/album/5gDj6ZV2X0WkIFk4wPw58p) | 2:52 |
 | 57 | [Migué](https://open.spotify.com/track/1h5dVZElc91GoJ1pTaDCKh) | [Gustavo Moura & Rafael](https://open.spotify.com/artist/2KZFvVVk9lxD85USaOv76T), [Jefferson Moraes](https://open.spotify.com/artist/40t5KmKTi2ajyJmerMYY4C) | [Migué](https://open.spotify.com/album/5DZN9sueXL4pWz0oIGpLkr) | 2:37 |
 | 58 | [Inteligência Artificial](https://open.spotify.com/track/3WeQJpRvtMbc5rxY4CbJkX) | [Max e Luan](https://open.spotify.com/artist/5M1ILxS67JEzWguvzNakgE) | [Inteligência Artificial](https://open.spotify.com/album/2qguZwu0kXHezEjOVWU3CG) | 2:53 |
 | 59 | [Irreal](https://open.spotify.com/track/3XsCsD76Ume0kuPnJ9xwX1) | [Jessé Aguiar](https://open.spotify.com/artist/0g4xsygciHCrujQzdXUudC) | [Irreal](https://open.spotify.com/album/6SyPsQZccd9QiB4nbnbZZI) | 3:38 |
@@ -107,4 +107,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 | 97 | [1,2 Joga de Ladinho](https://open.spotify.com/track/0sDYgMAbERBwwPFWVLWHej) | [Mc Arizinho](https://open.spotify.com/artist/61pcuATJNEvZCXhO2DqC1F), [DJ TAK VADIÃO](https://open.spotify.com/artist/4U3o74Io4hwQPsm6iIj4fu), [Doug Hits](https://open.spotify.com/artist/11rNmgKeDd6wHHvvhzPHH9) | [1,2 Joga de Ladinho](https://open.spotify.com/album/1HnwLLEn4H7N8CRddjNpck) | 2:42 |
 | 98 | [Tamanho G Grandão](https://open.spotify.com/track/3Br8QpyeJxVbSPZHbGkqvq) | [MC Durrony](https://open.spotify.com/artist/2s1GtomGAJ3fnqQBkUXbIL) | [Tamanho G Grandão](https://open.spotify.com/album/2KrIHAFNcBO4ZLWsuGMHJD) | 3:08 |
 
-Snapshot ID: `MCw2ZjQzMWVkMGQ3ZmEyZTNhOWEwYjA0NGI4OWI3ZmRlZjYxYjllZGMy`
+Snapshot ID: `MCwzNWMzZTg5YWY0YTZlZmEyYjQxNzZiNzRkOTlkMjlhMzk0Yjk3Y2Yw`

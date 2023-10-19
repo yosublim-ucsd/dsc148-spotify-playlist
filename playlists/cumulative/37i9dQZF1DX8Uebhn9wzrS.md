@@ -4,7 +4,7 @@
 
 > The perfect study beats\. Find your focus, crush your productivity.
 
-1,629 songs - 2 day 13 hr 49 min
+1,631 songs - 2 day 13 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,6 +15,7 @@
 | [1989 at the bustop](https://open.spotify.com/track/4cWaEVuXUs1kRbfHhnlXmO) | [heroku](https://open.spotify.com/artist/376UjXiYKUUjXatPRQoWSC) | [deconstruct](https://open.spotify.com/album/2nICjIzW2n6fMUaFPP4bnb) | 1:41 | 2022-09-02 |  |
 | [280](https://open.spotify.com/track/7Dw01bYupNW7yKAwo4Yzx3) | [Hype Right](https://open.spotify.com/artist/5WyDwnrZMIyg4iDWrZuva4) | ['99](https://open.spotify.com/album/3WVWIjOfJ3jHyfFR8pCedL) | 3:16 | 2022-04-15 | 2022-12-03 |
 | [4 AM](https://open.spotify.com/track/1e9QYfVecpOpvcmRkQEK0e) | [Lake Valley](https://open.spotify.com/artist/7sXI0WtuyDELsesS7kW4qF) | [Soul Silk](https://open.spotify.com/album/5pNYYDEA83XcuAykmfjRn9) | 2:27 | 2022-04-15 | 2022-05-27 |
+| [4you to just love](https://open.spotify.com/track/2u7BaomZDkHMx1xfth3d5s) | [The Easy Breeze](https://open.spotify.com/artist/5MpwtWtFfapulpKEjAeU81) | [4you to just love](https://open.spotify.com/album/7yMLFLuzDknKgARBtrIQqq) | 2:34 | 2023-10-13 |  |
 | [6 AM](https://open.spotify.com/track/6KWIpGkpXKb01x4OdxA8UA) | [Milky Moustache Beats](https://open.spotify.com/artist/6RRj0SxwUF7hIJlrfhfPOu), [Hoffy Beats](https://open.spotify.com/artist/2z92TjllsDfZLyBjp0SDuq) | [6 AM](https://open.spotify.com/album/6371H1hqJoJcCv8nOBN1od) | 2:30 | 2022-04-15 | 2022-09-02 |
 | [6 AM](https://open.spotify.com/track/4q9LTp6HB2OKDlbNgrLn39) | [Screen Jazzmaster](https://open.spotify.com/artist/0ccv58yNhOu5FERx9Kpvgt), [flowless](https://open.spotify.com/artist/71dR4Sjwy1ikQyYIcCWvxS), [Zmeyev](https://open.spotify.com/artist/3VXe7BcibISROhxRdPuRNL) | [6 AM](https://open.spotify.com/album/1jNJxQaep23GkcDFnXZdXx) | 1:55 | 2023-06-06 |  |
 | [6pm Freedom](https://open.spotify.com/track/78wa13XBguLAx0c5pzqZDI) | [Arlos](https://open.spotify.com/artist/5PU5cwPems7pVldrGo4Bs5) | [Easy Breathing & 6pm Freedom](https://open.spotify.com/album/3jO0ts2BPgfBWKms1D5H2x) | 3:00 | 2022-10-14 |  |
@@ -99,7 +100,7 @@
 | [Aquarius](https://open.spotify.com/track/4AXG2evgy3smvD6OymqYys) | [Saï T](https://open.spotify.com/artist/0ngA3xgG8zkQ6PV2mqtPJA) | [Aquarius](https://open.spotify.com/album/6V8QJQBvmgJRi8D5IpC3QZ) | 2:48 | 2022-11-11 | 2023-02-07 |
 | [Aquatic Crystals](https://open.spotify.com/track/4pUOWikHwi87jPXYtwwb3v) | [Nitta' Gritta'](https://open.spotify.com/artist/55psXqpj00WvVubriLCEet) | [Aquatic Crystals](https://open.spotify.com/album/2cUBsQeqRMJ3NqNVJsRW3U) | 2:05 | 2022-04-15 | 2023-02-14 |
 | [are you still awake?](https://open.spotify.com/track/0yhPGQumNYiw9VI2MRzrxK) | [Yedai](https://open.spotify.com/artist/4GYycScCEPQprmeYJIiBRU) | [are you still awake?](https://open.spotify.com/album/3zM77eNvVTifUQdcsxf6Bc) | 2:01 | 2023-02-13 |  |
-| [arrival](https://open.spotify.com/track/7J1e0LTIZRjdz7i6WWdWcF) | [foursite](https://open.spotify.com/artist/52zHyZn0uVtMXDhJXVIRma) | [arrival](https://open.spotify.com/album/4StEvC14w9UGdxD5SJqrhQ) | 2:49 | 2023-07-13 |  |
+| [arrival](https://open.spotify.com/track/7J1e0LTIZRjdz7i6WWdWcF) | [foursite](https://open.spotify.com/artist/52zHyZn0uVtMXDhJXVIRma) | [arrival](https://open.spotify.com/album/4StEvC14w9UGdxD5SJqrhQ) | 2:49 | 2023-07-13 | 2023-10-19 |
 | [Artful Haze](https://open.spotify.com/track/0Xlthct8SOi0gAdnn2GbRT) | [Obie Hans](https://open.spotify.com/artist/59WcuCFVwOnZdOUvAHW1NV) | [Artful Haze](https://open.spotify.com/album/7etSid2yKrfknqNM8Tqs0Q) | 2:40 | 2022-04-15 | 2022-08-12 |
 | [Artifacts](https://open.spotify.com/track/0X3tR78eWkLh5yBDBXb1tF) | [Hi Hotel](https://open.spotify.com/artist/5XpDsM9N17TONXweroKN59) | [Cassette](https://open.spotify.com/album/2Q6LqD1dFcW7IuekRJ9C01) | 3:42 | 2022-04-15 | 2022-10-14 |
 | [Artificial](https://open.spotify.com/track/5a5TO5nHnrrCRtEGNpO8jV) | [beauBAE](https://open.spotify.com/artist/5f2AVkePCObkkyEwAx4jef) | [Artificial](https://open.spotify.com/album/3v5ThC3GpRXSwxqjeBHlrQ) | 2:07 | 2023-03-08 |  |
@@ -311,6 +312,7 @@
 | [Comfort](https://open.spotify.com/track/1ivNmhq0yeZEskleFpDqeL) | [BIDØ](https://open.spotify.com/artist/7HSBpX7fVOinHb9CNcL6Qe), [Shy Guy](https://open.spotify.com/artist/6gEfZutoVigycya3K3X0HR) | [Comfort](https://open.spotify.com/album/5B26xnwWazwrUEOqHeycy0) | 2:09 | 2023-04-20 |  |
 | [comin 4 ya](https://open.spotify.com/track/6ld2KFMZCkKtf3PBCJDqaH) | [Analog Sunset](https://open.spotify.com/artist/1b5zsebDdBntav2svPU0TZ) | [comin 4 ya](https://open.spotify.com/album/02owCKt9bWzEiftAGO02lh) | 2:24 | 2022-04-15 | 2022-12-09 |
 | [Coming Home](https://open.spotify.com/track/7EN48mPO2AJD1iKOItQgUk) | [Juliette](https://open.spotify.com/artist/2A9ozO2R5liuK6dMrhJwnQ) | [Coming Home](https://open.spotify.com/album/1NXR10O0pSgK506mnnzXpA) | 2:13 | 2023-09-08 |  |
+| [Con Bajo Fidelidad](https://open.spotify.com/track/0Ti4yQxF7IyyhK3rIT1cdw) | [The Fly Guy Five](https://open.spotify.com/artist/7D5flI7hB9nzew9W2KnKm8) | [Con Bajo Fidelidad](https://open.spotify.com/album/48DVavFPcUDBx8p5pN0YFg) | 2:10 | 2023-10-13 |  |
 | [Concrete](https://open.spotify.com/track/1RzoLQJAzGjqpzUDZFuhUV) | [Prism Sorrow](https://open.spotify.com/artist/5Fh6NGwhB7tyhUR7XPuxhT) | [Concrete](https://open.spotify.com/album/2hs7bgiqTR39429D3eIoke) | 1:15 | 2022-04-15 | 2022-07-01 |
 | [Concrete Edges](https://open.spotify.com/track/6RMBqK1mOJvFSTgOp10d2s) | [Niebieski](https://open.spotify.com/artist/5UAuF0nlkpdqktgrW7SqaG) | [Concrete Edges](https://open.spotify.com/album/63cQVmDIpOWTCMLLYnbCmx) | 2:16 | 2022-04-15 | 2022-07-22 |
 | [Confession](https://open.spotify.com/track/14yzqwR5lcaHT8Ynl6Ik5g) | [Alys Good](https://open.spotify.com/artist/1p2RVv2wjq7aDQ6HPsjVgd) | [Confession](https://open.spotify.com/album/4Th8uPhWSzzMggcfkxufWh) | 3:28 | 2022-10-28 | 2023-01-20 |
@@ -1548,7 +1550,7 @@
 | [Vitalization](https://open.spotify.com/track/3pp6vpEactYNh8gVMTt5Bk) | [Guustavv](https://open.spotify.com/artist/4ztOXfl03SlHkzRIsrvWmX) | [Frodas](https://open.spotify.com/album/6YywwAQYRqLBMuQTchAeZc) | 1:59 | 2022-05-27 |  |
 | [Voyager I](https://open.spotify.com/track/5jBUgazLXovmLGbaMaBXAz) | [Wacho](https://open.spotify.com/artist/6fBCb271VXZBhTA3qhXdZU) | [Voyager I](https://open.spotify.com/album/0xMT2wIw012AXByuwmumtx) | 2:08 | 2022-04-15 | 2022-08-12 |
 | [Wait For Spring](https://open.spotify.com/track/65RlTv8r06C7Jm5sDMbyu4) | [Fya Playce](https://open.spotify.com/artist/7M7ryKqUcnn2r0F08gYuxr) | [Wait For Spring](https://open.spotify.com/album/7hg2K3g4W5nenATGKbzlHx) | 2:09 | 2023-10-06 |  |
-| [waiting](https://open.spotify.com/track/3gF4gVrbTHmkOYv5pi3YMU) | [HawaiiHockey](https://open.spotify.com/artist/5zFj3SRX2H5iLzWzqJvGVe) | [waiting](https://open.spotify.com/album/0QyHiel6ywfxdrhgkwnFja) | 2:50 | 2022-12-02 |  |
+| [waiting](https://open.spotify.com/track/3gF4gVrbTHmkOYv5pi3YMU) | [HawaiiHockey](https://open.spotify.com/artist/5zFj3SRX2H5iLzWzqJvGVe) | [waiting](https://open.spotify.com/album/0QyHiel6ywfxdrhgkwnFja) | 2:50 | 2022-12-02 | 2023-10-19 |
 | [Waiting Room](https://open.spotify.com/track/5MAwrPj271eyVtlgNRrveQ) | [Brian Ward](https://open.spotify.com/artist/50cS50JU7y7f697pwo1qsw), [Shane Savala](https://open.spotify.com/artist/478Gr4jHvTgsWEYNUu1jJx) | [Waiting Room](https://open.spotify.com/album/5mdBUhiWj4IbsRYQt0Fv2W) | 2:52 | 2022-06-24 | 2022-11-26 |
 | [Waitress service](https://open.spotify.com/track/5ALbklP1iYE6UaPzO0tVlS) | [wake deprived](https://open.spotify.com/artist/7GjL7O7YHh0GpFqxacW7xP) | [Waitress service](https://open.spotify.com/album/6EYqvlu2EjsRqQ9VmKuDSR) | 1:50 | 2023-07-13 |  |
 | [Walk in the Park](https://open.spotify.com/track/3DVl3BS24V9w8jqlgE8GYG) | [NogEgg](https://open.spotify.com/artist/3zNeAHbUtEQvwQ62KLn9FT) | [Walk in the Park](https://open.spotify.com/album/55xqaEt9F5qKnlXPMLOWmT) | 2:08 | 2023-09-29 |  |

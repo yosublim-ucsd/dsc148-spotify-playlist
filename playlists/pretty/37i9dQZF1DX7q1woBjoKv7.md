@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7q1woBjoKv7.md) - [plain]
 
 > California music breaking waves\. Cover: <a href="spotify:artist:0ROLbpYHvwZWVbPBibRwPU">22nd Jim</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,108 likes - 55 songs - 2 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,121 likes - 55 songs - 2 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,4 +64,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7q1woBjoKv7.md) - [plain]
 | 54 | [Smile](https://open.spotify.com/track/5fnOfJ4Gm43UQzYpfZuAaZ) | [Otis Kane](https://open.spotify.com/artist/2rp9zfs7yPrwCGVl4CjWAl) | [Smile](https://open.spotify.com/album/5rXfcrwzK7aozli0g8ARif) | 2:39 |
 | 55 | [A Good Thing](https://open.spotify.com/track/5TgtiD1sCDSvlD6KjqrsJz) | [Uninvtd](https://open.spotify.com/artist/0q66IFlScb4fDO2sgZSrfZ), [S A I N T](https://open.spotify.com/artist/2D6H3aOR8udBwn4oaC4LtN) | [A Good Thing](https://open.spotify.com/album/7FUZ0Z40BXZMDDSNMbpeYS) | 2:52 |
 
-Snapshot ID: `MCwxYzJmYjVmNTgzNTMxY2M1Y2RlOTQyMmM3OGNmZGQxYWQxZWFhOTA5`
+Snapshot ID: `MCwyZGJhYmRiZjQ4MzA4NGE2MjE4NDljYTBmZGUxMGRjZGU3MTllYWIz`

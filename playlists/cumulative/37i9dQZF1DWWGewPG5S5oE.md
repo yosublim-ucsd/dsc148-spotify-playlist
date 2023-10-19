@@ -4,7 +4,7 @@
 
 > 日本の現代ジャズシーンで活躍するアーティストをピックアップ。 cover: 賽
 
-219 songs - 17 hr 47 min
+220 songs - 17 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -77,7 +77,8 @@
 | [Hey Ya!](https://open.spotify.com/track/4e6RFlmSuhmluhZBBhdvu2) | [fox capture plan](https://open.spotify.com/artist/7sEmXHrnEnX7PScoJAvSvo) | [Hey Ya!](https://open.spotify.com/album/4oXsNBEkclwgGjX4zKRiDv) | 4:34 | 2023-03-07 | 2023-04-04 |
 | [I Am, Because You Are](https://open.spotify.com/track/1wj3FHoR0swq6HCWxiGyeS) | [海野 雅威](https://open.spotify.com/artist/21xCR4SZh2XrwLsloXp6vx) | [I Am, Because You Are](https://open.spotify.com/album/0iuOHpxqkPyAzEokYTpge5) | 6:49 | 2023-05-23 | 2023-07-12 |
 | [If Sea Could Sing](https://open.spotify.com/track/2NGtsSSgjvq2ZbFxDDnAUT) | [Okada Takuro](https://open.spotify.com/artist/4d4VL0LIBWkVXAq4YZ07wm) | [Betsu No Jikan](https://open.spotify.com/album/6osbGxXryMZUWTlysq7Tcu) | 5:45 | 2022-09-06 | 2022-10-02 |
-| [ILa](https://open.spotify.com/track/4rfNk6NKqmof6v3MvSm2JL) | [賽](https://open.spotify.com/artist/4SnEXsyTXJi4auNP46cr7b) | [ILa](https://open.spotify.com/album/1fgM8l7SrpH7f9qG6iK6kk) | 3:11 | 2023-10-17 |  |
+| [ILa](https://open.spotify.com/track/5A3fkdwjAYasROx3YE9RMo) | [SAI](https://open.spotify.com/artist/3qV6tSZj71FW9cKKD4hrHG) | [ILa](https://open.spotify.com/album/7d3Ac0gUjLFBlZjz4BBKSX) | 3:11 | 2023-10-17 |  |
+| [ILa](https://open.spotify.com/track/4rfNk6NKqmof6v3MvSm2JL) | [賽](https://open.spotify.com/artist/4SnEXsyTXJi4auNP46cr7b) | [ILa](https://open.spotify.com/album/1fgM8l7SrpH7f9qG6iK6kk) | 3:11 | 2023-10-17 | 2023-10-19 |
 | [Ishonsho Abe](https://open.spotify.com/track/7tPh9tj8JNZITMuEN8iDOK) | [Martha Kato](https://open.spotify.com/artist/3NvIawjJlIxAqZlfCyodcY) | [Ishonsho Abe](https://open.spotify.com/album/62Io1sWPF4COlD4jBApYk5) | 5:48 | 2022-09-06 | 2023-01-25 |
 | [It's just love](https://open.spotify.com/track/4yqpJakTlgryUCYpgkl8qv) | [MISIA](https://open.spotify.com/artist/3uyDATzOGjbGCts7v2eszk) | [MISIA SOUL JAZZ SESSION](https://open.spotify.com/album/0lAWJPnLw3LQYqPV86qKhd) | 5:50 | 2022-09-06 |  |
 | [Itoshi no Butterfly](https://open.spotify.com/track/41u98WRbYwgUcVtwxCzMC6) | [JiLL\-Decoy association](https://open.spotify.com/artist/4j0lMBCAWtaFqEboLZp8Xe) | [Itoshi no Butterfly](https://open.spotify.com/album/5TTh7b99JHNjfB5Wh0Q6uN) | 5:24 | 2023-07-25 | 2023-08-07 |

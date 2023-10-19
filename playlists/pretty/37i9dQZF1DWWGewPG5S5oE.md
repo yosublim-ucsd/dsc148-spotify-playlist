@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWGewPG5S5oE.md) - [plain]
 
 > 日本の現代ジャズシーンで活躍するアーティストをピックアップ。 cover: 賽
 
-[Spotify](https://open.spotify.com/user/spotify) - 31,428 likes - 50 songs - 3 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 31,468 likes - 50 songs - 3 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [ILa](https://open.spotify.com/track/4rfNk6NKqmof6v3MvSm2JL) | [賽](https://open.spotify.com/artist/4SnEXsyTXJi4auNP46cr7b) | [ILa](https://open.spotify.com/album/1fgM8l7SrpH7f9qG6iK6kk) | 3:11 |
+| 1 | [ILa](https://open.spotify.com/track/5A3fkdwjAYasROx3YE9RMo) | [SAI](https://open.spotify.com/artist/3qV6tSZj71FW9cKKD4hrHG) | [ILa](https://open.spotify.com/album/7d3Ac0gUjLFBlZjz4BBKSX) | 3:11 |
 | 2 | [STEPS OF THE BLUE](https://open.spotify.com/track/5gF1MiHJNecYAu3wQyGdne) | [松井 秀太郎](https://open.spotify.com/artist/55DWXZw1Np3eYrtMMY0MTQ), [中川英二郎](https://open.spotify.com/artist/3RDzAdDGSqwUDi28zZm28q), [中林俊也](https://open.spotify.com/artist/4FPy6vfB5dk2J0yjVPeTnc), [Makoto Ozone](https://open.spotify.com/artist/7Gv9weyLTeDrDjABqHnged), [小川晋平](https://open.spotify.com/artist/33jumhkSNkMnmiln5lqPE7), [小田桐和寛](https://open.spotify.com/artist/0hO0QqiB0B3Vh843MaMKTE) | [STEPS OF THE BLUE](https://open.spotify.com/album/0jWAhTG0ICulGMf3nc3GWz) | 5:42 |
 | 3 | [Stompin at the M](https://open.spotify.com/track/5Yg0fkbsWN28GFfl3E2S98) | [Yusuke Shima](https://open.spotify.com/artist/0pJNX3A4a4Q6KuMLXgOfa8), [大津惇](https://open.spotify.com/artist/4uRyqAjxit8vJMVWvSM6AZ) | [Wind Loop Case 1](https://open.spotify.com/album/6MMjlhSrjTvHcuBJ4mRj5b) | 3:43 |
 | 4 | [Raindrops Keep Fallin' On My Head](https://open.spotify.com/track/0pprlGhcsm15D9sFGnK7At) | [Kazumi Tateishi Trio](https://open.spotify.com/artist/0lrEYsRTl6UNtTagWmJAqZ) | [Kazumi Tateishi Trio meets Beautiful Standards](https://open.spotify.com/album/0ng3lS4pEfjFS59i3A0d8A) | 4:50 |
@@ -52,11 +52,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWGewPG5S5oE.md) - [plain]
 | 42 | [It's just love](https://open.spotify.com/track/4yqpJakTlgryUCYpgkl8qv) | [MISIA](https://open.spotify.com/artist/3uyDATzOGjbGCts7v2eszk) | [MISIA SOUL JAZZ SESSION](https://open.spotify.com/album/0lAWJPnLw3LQYqPV86qKhd) | 5:50 |
 | 43 | [Spartacus](https://open.spotify.com/track/7J51umZEfClAyNDLPiuemB) | [Hidefumi Ino](https://open.spotify.com/artist/0StJhTOwSFMrgRwDGnnE2S) | [Satisfaction](https://open.spotify.com/album/0j9epI3pFTdwfQa5PfiYSV) | 4:07 |
 | 44 | [Red Ocean](https://open.spotify.com/track/3fIy6Di6WTYZQqOy5SjcHk) | [JABBERLOOP](https://open.spotify.com/artist/7MewDkQnL8tMeWEBxSWBE2) | [NEW](https://open.spotify.com/album/3LjmipAvJQoPzlHN22YpYB) | 5:00 |
-| 45 | [炎のインプロビゼーション](https://open.spotify.com/track/0oLlJAlVk0nRJrOX7bmHYP) | [H ZETTRIO](https://open.spotify.com/artist/5Ga4ie7tlXW9Fc6ObLbSCY) | [Beat Swing](https://open.spotify.com/album/0UDOcS1jMBweDDsF2qWXQp) | 2:02 |
+| 45 | [乙女の祈り](https://open.spotify.com/track/1vdO8aMVXs3OqGkwEmjA2f) | [Chihiro Yamanaka](https://open.spotify.com/artist/6o9XvN8S83IlUqiDA4XIqD) | [ユートピア](https://open.spotify.com/album/5dyet4VQmQe4iqoxTqtZT2) | 4:16 |
 | 46 | [パスワード](https://open.spotify.com/track/58Dl8RRRMlXiXJ3pZzjxGY) | [Tomita Lab.](https://open.spotify.com/artist/0nmnnGl422TngJtYeEj5vD), [長岡亮介](https://open.spotify.com/artist/18rZSYLeI8QvUrWsfv5frK) | [M\-P\-C "Mentality, Physicality, Computer"](https://open.spotify.com/album/2k3yTcmXaR1tDH8QUiG3dD) | 4:32 |
 | 47 | [eden](https://open.spotify.com/track/2INM5qrVFHkFpfGWQ5FxLB) | [ひかりとだいち love SOIL&"PIMP"SESSIONS](https://open.spotify.com/artist/5kEUSsToZBCBfFr68aT7f9), [Hikari Mitsushima](https://open.spotify.com/artist/4ZX8Wr8KHHrW7radu6IwYG), [Daichi Miura](https://open.spotify.com/artist/4UTEZqrPqLDOhBfraPNciJ), [SOIL & “PIMP” SESSIONS](https://open.spotify.com/artist/5COMNbVWoe1Kb5UTFAaUwF) | [eden](https://open.spotify.com/album/317j5AzcY1fL9NgKAMZIcD) | 3:57 |
-| 48 | [乙女の祈り](https://open.spotify.com/track/1vdO8aMVXs3OqGkwEmjA2f) | [Chihiro Yamanaka](https://open.spotify.com/artist/6o9XvN8S83IlUqiDA4XIqD) | [ユートピア](https://open.spotify.com/album/5dyet4VQmQe4iqoxTqtZT2) | 4:16 |
+| 48 | [炎のインプロビゼーション](https://open.spotify.com/track/0oLlJAlVk0nRJrOX7bmHYP) | [H ZETTRIO](https://open.spotify.com/artist/5Ga4ie7tlXW9Fc6ObLbSCY) | [Beat Swing](https://open.spotify.com/album/0UDOcS1jMBweDDsF2qWXQp) | 2:02 |
 | 49 | [Spring Kiss](https://open.spotify.com/track/6aHeGMKCgfF2UdKRqyezyh) | [Liquid Stella](https://open.spotify.com/artist/3J1pYPkywI4IhTnLCpSXC9) | [AUTHENTIC](https://open.spotify.com/album/4f8IJ4VUGPe7S0xsLEOtIG) | 4:12 |
 | 50 | [最後の夜汽車](https://open.spotify.com/track/6zQvFxPFLSmisCA1UYAr4c) | [MISIA](https://open.spotify.com/artist/3uyDATzOGjbGCts7v2eszk) | [MISIA SOUL JAZZ SESSION](https://open.spotify.com/album/0lAWJPnLw3LQYqPV86qKhd) | 4:54 |
 
-Snapshot ID: `MCw2MTcwNjgxOTA4YzAxNWM4NjRkMjc4M2FlODM0NmIwZWM2Y2FmZWMx`
+Snapshot ID: `MCxjOWJkODRmNDhiZGZiZjQxYWNjZGI4YjhmMTZkZTU3MDAxZjNlMmJj`

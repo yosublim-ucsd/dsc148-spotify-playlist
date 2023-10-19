@@ -1,12 +1,12 @@
 {
   "description": "The very best acoustic songs from singer-songwriters making waves. Cover: Madi Diaz",
-  "num_followers": 151127,
+  "num_followers": 151140,
   "original_name": "Women of Acoustic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3NTZjY2JlNTQ0NWUyZDdlMTA2NWFkOTBkMzA0YzYxZjgwZDRkZTM3",
+  "snapshot_id": "MCwyNTY1ZmM2NDZiMDJiMDQ2NmYyYWVjNzJhMmZkZTBlN2VhMmNjZDQw",
   "tracks": [
     {
       "added_at": "2023-03-08 05:00:00",
@@ -983,22 +983,6 @@
     {
       "added_at": "2023-03-08 05:00:00",
       "album": {
-        "name": "Queen of Silver Linings",
-        "url": "https://open.spotify.com/album/7D92mNHIk4xJf4ydx4fLPS"
-      },
-      "artists": [
-        {
-          "name": "Amy Allen",
-          "url": "https://open.spotify.com/artist/4Ebm2DC4Spo173X85D1n5x"
-        }
-      ],
-      "duration_ms": 212964,
-      "name": "Queen of Silver Linings",
-      "url": "https://open.spotify.com/track/2v705YlYolKiu6P2FbqOat"
-    },
-    {
-      "added_at": "2023-03-08 05:00:00",
-      "album": {
         "name": "In the Magic Hour Solo Sessions",
         "url": "https://open.spotify.com/album/1XxOQRUB7eOOQWryZM3YZM"
       },
@@ -1011,6 +995,22 @@
       "duration_ms": 228626,
       "name": "Nebraska - Acoustic",
       "url": "https://open.spotify.com/track/5H3hNv8kLr15zQxFUiuIqT"
+    },
+    {
+      "added_at": "2023-03-08 05:00:00",
+      "album": {
+        "name": "Queen of Silver Linings",
+        "url": "https://open.spotify.com/album/7D92mNHIk4xJf4ydx4fLPS"
+      },
+      "artists": [
+        {
+          "name": "Amy Allen",
+          "url": "https://open.spotify.com/artist/4Ebm2DC4Spo173X85D1n5x"
+        }
+      ],
+      "duration_ms": 212964,
+      "name": "Queen of Silver Linings",
+      "url": "https://open.spotify.com/track/2v705YlYolKiu6P2FbqOat"
     },
     {
       "added_at": "2023-03-08 05:00:00",
@@ -1143,22 +1143,6 @@
     {
       "added_at": "2023-03-08 05:00:00",
       "album": {
-        "name": "About U: One Year On",
-        "url": "https://open.spotify.com/album/7HaFj1HOC2Q1viS1lpCAGX"
-      },
-      "artists": [
-        {
-          "name": "MUNA",
-          "url": "https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn"
-        }
-      ],
-      "duration_ms": 291538,
-      "name": "I Know A Place - Acoustic",
-      "url": "https://open.spotify.com/track/7tMc9X5fX4fcEttj2dNLYI"
-    },
-    {
-      "added_at": "2023-03-08 05:00:00",
-      "album": {
         "name": "untitled",
         "url": "https://open.spotify.com/album/4Xweu1d5gXbscOXhIRMLUT"
       },
@@ -1171,6 +1155,22 @@
       "duration_ms": 225640,
       "name": "untitled",
       "url": "https://open.spotify.com/track/4foKnVvnAHmQYbONUcbgkK"
+    },
+    {
+      "added_at": "2023-03-08 05:00:00",
+      "album": {
+        "name": "About U: One Year On",
+        "url": "https://open.spotify.com/album/7HaFj1HOC2Q1viS1lpCAGX"
+      },
+      "artists": [
+        {
+          "name": "MUNA",
+          "url": "https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn"
+        }
+      ],
+      "duration_ms": 291538,
+      "name": "I Know A Place - Acoustic",
+      "url": "https://open.spotify.com/track/7tMc9X5fX4fcEttj2dNLYI"
     },
     {
       "added_at": "2023-03-08 05:00:00",
@@ -1207,22 +1207,6 @@
     {
       "added_at": "2023-03-08 05:00:00",
       "album": {
-        "name": "After a Time",
-        "url": "https://open.spotify.com/album/34V7OGom5kiDdY8xJVhMoW"
-      },
-      "artists": [
-        {
-          "name": "Holly Throsby",
-          "url": "https://open.spotify.com/artist/0ISl2YbBIgqW4IWbSJMn5g"
-        }
-      ],
-      "duration_ms": 231408,
-      "name": "Aeroplane",
-      "url": "https://open.spotify.com/track/2kipERgqD2j3zw9B4l9J6a"
-    },
-    {
-      "added_at": "2023-03-08 05:00:00",
-      "album": {
         "name": "Better Now (Acoustic)",
         "url": "https://open.spotify.com/album/2kFBZkUYEkrV2LdibnX0tu"
       },
@@ -1235,6 +1219,22 @@
       "duration_ms": 234551,
       "name": "Better Now - Acoustic",
       "url": "https://open.spotify.com/track/7iqqjQINhAvsNNwXWMU8ga"
+    },
+    {
+      "added_at": "2023-03-08 05:00:00",
+      "album": {
+        "name": "After a Time",
+        "url": "https://open.spotify.com/album/34V7OGom5kiDdY8xJVhMoW"
+      },
+      "artists": [
+        {
+          "name": "Holly Throsby",
+          "url": "https://open.spotify.com/artist/0ISl2YbBIgqW4IWbSJMn5g"
+        }
+      ],
+      "duration_ms": 231408,
+      "name": "Aeroplane",
+      "url": "https://open.spotify.com/track/2kipERgqD2j3zw9B4l9J6a"
     },
     {
       "added_at": "2023-03-08 05:00:00",
@@ -1351,22 +1351,6 @@
     {
       "added_at": "2023-03-08 05:00:00",
       "album": {
-        "name": "While I Was Asleep",
-        "url": "https://open.spotify.com/album/7jQ7ceeE30vZUGibxHNWVc"
-      },
-      "artists": [
-        {
-          "name": "Darling West",
-          "url": "https://open.spotify.com/artist/0mKLP9jGn5eAZDlaq7UYQY"
-        }
-      ],
-      "duration_ms": 238546,
-      "name": "Rolling On",
-      "url": "https://open.spotify.com/track/4kOLAEpK2YKpcMMnjVdiXy"
-    },
-    {
-      "added_at": "2023-03-08 05:00:00",
-      "album": {
         "name": "Songs to Break Up To (Acoustic)",
         "url": "https://open.spotify.com/album/0sXJ4r2XZwc0hzDXJsjsuw"
       },
@@ -1379,6 +1363,22 @@
       "duration_ms": 200072,
       "name": "Left Off - Acoustic",
       "url": "https://open.spotify.com/track/5Ev04kROb2YoEVP4QYOHuh"
+    },
+    {
+      "added_at": "2023-03-08 05:00:00",
+      "album": {
+        "name": "While I Was Asleep",
+        "url": "https://open.spotify.com/album/7jQ7ceeE30vZUGibxHNWVc"
+      },
+      "artists": [
+        {
+          "name": "Darling West",
+          "url": "https://open.spotify.com/artist/0mKLP9jGn5eAZDlaq7UYQY"
+        }
+      ],
+      "duration_ms": 238546,
+      "name": "Rolling On",
+      "url": "https://open.spotify.com/track/4kOLAEpK2YKpcMMnjVdiXy"
     },
     {
       "added_at": "2023-03-08 05:00:00",
@@ -1483,22 +1483,6 @@
     {
       "added_at": "2023-03-08 05:00:00",
       "album": {
-        "name": "Best Days (Acoustic)",
-        "url": "https://open.spotify.com/album/0Hg3xaDMtD4heeBIutwMSV"
-      },
-      "artists": [
-        {
-          "name": "Lissie",
-          "url": "https://open.spotify.com/artist/3j4FHbC5zwmYGJ7r0ZgaMt"
-        }
-      ],
-      "duration_ms": 179063,
-      "name": "Best Days - Acoustic",
-      "url": "https://open.spotify.com/track/38sCPCcv3QjWl0NslC5KtW"
-    },
-    {
-      "added_at": "2023-03-08 05:00:00",
-      "album": {
         "name": "You Never Met Me",
         "url": "https://open.spotify.com/album/4rVsCVbWLQWEUXsOfPRzEg"
       },
@@ -1511,6 +1495,22 @@
       "duration_ms": 236583,
       "name": "Phoebe Told Me",
       "url": "https://open.spotify.com/track/6DQFgZEqTX5suz4luBta0M"
+    },
+    {
+      "added_at": "2023-03-08 05:00:00",
+      "album": {
+        "name": "Best Days (Acoustic)",
+        "url": "https://open.spotify.com/album/0Hg3xaDMtD4heeBIutwMSV"
+      },
+      "artists": [
+        {
+          "name": "Lissie",
+          "url": "https://open.spotify.com/artist/3j4FHbC5zwmYGJ7r0ZgaMt"
+        }
+      ],
+      "duration_ms": 179063,
+      "name": "Best Days - Acoustic",
+      "url": "https://open.spotify.com/track/38sCPCcv3QjWl0NslC5KtW"
     }
   ],
   "unique_name": "Women of Acoustic",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1L8JuK0yhgO.md) - [plain]
 
 > 音楽メディア<a href="http://spincoaster.com/">Spincoaster</a>が厳選したホットな新曲を毎週月曜日にお届け！
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,918 likes - 60 songs - 3 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,927 likes - 60 songs - 3 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1L8JuK0yhgO.md) - [plain]
 | 59 | [angel+](https://open.spotify.com/track/0dpeV3gXHYJ2ZUo6742Oru) | [Lilniina](https://open.spotify.com/artist/2sQQn4m6eLqk0wt3TOkaGw), [i9bonsai](https://open.spotify.com/artist/7dqb1363wqRxJw9RfgQeo3) | [onyx](https://open.spotify.com/album/0r6b0HvvL2XV1sR0RdDLjn) | 3:04 |
 | 60 | [shapes](https://open.spotify.com/track/2LxtlsKZutqGWrlw2k46Gb) | [lazydoll](https://open.spotify.com/artist/7D7a6cnpitkgKgz4bJDYy6) | [plant + pixel](https://open.spotify.com/album/4cG79mzNYUUbAiCPEecPAZ) | 2:03 |
 
-Snapshot ID: `MCxjMGEwNTRkNGJkOTE0NjA1NTQ3MDM1NWIzYTgzODk3OTc2NTcwYjBh`
+Snapshot ID: `MCxiZmNjZjljNmVjYjM2OTI1NjIyZjRkMzZhMTdiNmQ1YTVjNzY1YzEy`

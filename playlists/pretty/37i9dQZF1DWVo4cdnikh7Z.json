@@ -1,12 +1,12 @@
 {
   "description": "New Music from Kollywood.\nCover : Leo",
-  "num_followers": 616904,
+  "num_followers": 617750,
   "original_name": "Latest Tamil",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmODgzMmMyMDhhNDJhYjQ3NzA0ZmZhODA0Y2QzOGQxMzM3MjE2ODcw",
+  "snapshot_id": "MCw2YWZkZmIwYjhiYWZkOGVmMzcxZTgyNmZlY2E5OWNkMzkxYjY1Y2U0",
   "tracks": [
     {
       "added_at": "2023-09-28 13:38:21",
@@ -699,30 +699,6 @@
       "duration_ms": 252800,
       "name": "Vandha Edam (From \"Jawan\")",
       "url": "https://open.spotify.com/track/1qiTVMkwHOy7bD8DCU460Q"
-    },
-    {
-      "added_at": "2023-09-14 13:23:10",
-      "album": {
-        "name": "Oru Naal (From \"Raththam\")",
-        "url": "https://open.spotify.com/album/6JuMTpzn8dyPeohXdseHqB"
-      },
-      "artists": [
-        {
-          "name": "Vijay Antony",
-          "url": "https://open.spotify.com/artist/6CtYzQvENTdGq5LPPsePdV"
-        },
-        {
-          "name": "Arivu",
-          "url": "https://open.spotify.com/artist/7rVV9d6vc4FLT752uRuk71"
-        },
-        {
-          "name": "Kannan Narayanan",
-          "url": "https://open.spotify.com/artist/4AGY446jF0YS1MYuEUgEC0"
-        }
-      ],
-      "duration_ms": 240000,
-      "name": "Oru Naal (From \"Raththam\")",
-      "url": "https://open.spotify.com/track/6qeznlFy3cybuC30HRYuoS"
     },
     {
       "added_at": "2023-09-19 13:06:31",

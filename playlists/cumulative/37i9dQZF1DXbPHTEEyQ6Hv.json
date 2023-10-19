@@ -491,6 +491,24 @@
     },
     {
       "album": {
+        "name": "All I Want For Christmas (Is My Two Front Teeth)",
+        "url": "https://open.spotify.com/album/1NwSAwzqZ2YMCCg0HTrUJ8"
+      },
+      "artists": [
+        {
+          "name": "Serenata Moss",
+          "url": "https://open.spotify.com/artist/3W4A8cV0hV5vutTRDgWuMi"
+        }
+      ],
+      "date_added": "2023-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198734,
+      "name": "All I Want For Christmas (Is My Two Front Teeth)",
+      "url": "https://open.spotify.com/track/19HFJbFIXHqnKx2bGs2CpM"
+    },
+    {
+      "album": {
         "name": "All I Want for Christmas Is You",
         "url": "https://open.spotify.com/album/0DbmJx7EbFtHvX7DVnpwTJ"
       },
@@ -1085,6 +1103,24 @@
     },
     {
       "album": {
+        "name": "Frosty the Snowman",
+        "url": "https://open.spotify.com/album/6ZvEgjDE8TaK2Yp6n3PWSn"
+      },
+      "artists": [
+        {
+          "name": "Avery Tormichael",
+          "url": "https://open.spotify.com/artist/6XlTCj3XJ2exhVk2rW5JbL"
+        }
+      ],
+      "date_added": "2023-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129014,
+      "name": "Frosty the Snowman",
+      "url": "https://open.spotify.com/track/64sp1vbfMJpq58nOsVvKp3"
+    },
+    {
+      "album": {
         "name": "I'll Be Home For Christmas",
         "url": "https://open.spotify.com/album/1UImeaHyAC0r6MKa4Pt2XD"
       },
@@ -1096,7 +1132,7 @@
       ],
       "date_added": "2022-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-19",
       "duration_ms": 123174,
       "name": "Frosty the Snowman",
       "url": "https://open.spotify.com/track/5OHltEpNbPgAL86eI75kQ8"
@@ -1640,10 +1676,28 @@
       ],
       "date_added": "2023-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-19",
       "duration_ms": 154736,
       "name": "It's Beginning To Look A Lot Like Christmas",
       "url": "https://open.spotify.com/track/5fdDajfA3uGOcCSrTFO0IG"
+    },
+    {
+      "album": {
+        "name": "It's Beginning To Look a Lot Like Christmas",
+        "url": "https://open.spotify.com/album/4F5dl8BK5ePRNxoYKTtY5H"
+      },
+      "artists": [
+        {
+          "name": "R. Embers",
+          "url": "https://open.spotify.com/artist/54QslGVRhkItg40ZHxYuXF"
+        }
+      ],
+      "date_added": "2023-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208356,
+      "name": "It's Beginning To Look a Lot Like Christmas",
+      "url": "https://open.spotify.com/track/28daprnqHFLQijgiK9Sd20"
     },
     {
       "album": {

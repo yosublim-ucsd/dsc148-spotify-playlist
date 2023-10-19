@@ -1255,6 +1255,24 @@
     },
     {
       "album": {
+        "name": "Tree of Light",
+        "url": "https://open.spotify.com/album/3tWw71jsBPbM5uQp0QvtXf"
+      },
+      "artists": [
+        {
+          "name": "RIOPY",
+          "url": "https://open.spotify.com/artist/4ytDz3A9nHcVMjEbdNSKzA"
+        }
+      ],
+      "date_added": "2023-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209293,
+      "name": "Theme Music for a Dream",
+      "url": "https://open.spotify.com/track/1k3ZB5BjdvFTsryiCjbVkd"
+    },
+    {
+      "album": {
         "name": "Anne With An E (Music From The Netflix Original Series)",
         "url": "https://open.spotify.com/album/18zn6reTQDMH7c3dxgpRGM"
       },

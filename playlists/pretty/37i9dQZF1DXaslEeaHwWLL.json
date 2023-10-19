@@ -1,12 +1,12 @@
 {
   "description": "The biggest songs in Latin America in 2017. Cover: Daddy Yankee & Luis Fonsi",
-  "num_followers": 43867,
+  "num_followers": 43914,
   "original_name": "Latin Hits 2017",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyZGQ5N2M2ODE0ZTZjZDZhMDU2ZDlkYjQwNDdjMTdkZDdiN2JlMWNh",
+  "snapshot_id": "MCxjNGY3ZDY3NzNhMmQ0MWIyOTY2NzEyZDVhOTUyMjQwMjZhMTBjOTcz",
   "tracks": [
     {
       "added_at": "2021-12-16 01:12:43",
@@ -535,22 +535,6 @@
     {
       "added_at": "2021-12-16 01:12:43",
       "album": {
-        "name": "Odisea",
-        "url": "https://open.spotify.com/album/4s05NbwGgw5SO42AdsN5Oo"
-      },
-      "artists": [
-        {
-          "name": "Ozuna",
-          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
-        }
-      ],
-      "duration_ms": 226800,
-      "name": "S\u00edguelo Bailando",
-      "url": "https://open.spotify.com/track/5Y9fnynLlIvqtM710MHzfz"
-    },
-    {
-      "added_at": "2021-12-16 01:12:43",
-      "album": {
         "name": "MALA SANTA",
         "url": "https://open.spotify.com/album/13MHW8hoLFjX7SaVEVmj3X"
       },
@@ -567,6 +551,22 @@
       "duration_ms": 203186,
       "name": "Mayores",
       "url": "https://open.spotify.com/track/2AY1UAimvTqjJC8vDJsOyy"
+    },
+    {
+      "added_at": "2021-12-16 01:12:43",
+      "album": {
+        "name": "Odisea",
+        "url": "https://open.spotify.com/album/4s05NbwGgw5SO42AdsN5Oo"
+      },
+      "artists": [
+        {
+          "name": "Ozuna",
+          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
+        }
+      ],
+      "duration_ms": 226800,
+      "name": "S\u00edguelo Bailando",
+      "url": "https://open.spotify.com/track/5Y9fnynLlIvqtM710MHzfz"
     },
     {
       "added_at": "2021-12-16 01:12:43",
@@ -731,26 +731,6 @@
     {
       "added_at": "2021-12-16 01:12:43",
       "album": {
-        "name": "El Dorado",
-        "url": "https://open.spotify.com/album/6bUxh58rYTL67FS8dyTKMN"
-      },
-      "artists": [
-        {
-          "name": "Shakira",
-          "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
-        },
-        {
-          "name": "Nicky Jam",
-          "url": "https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT"
-        }
-      ],
-      "duration_ms": 195213,
-      "name": "Perro Fiel (feat. Nicky Jam)",
-      "url": "https://open.spotify.com/track/70lnL3QaSOIIyMa2X9aVRL"
-    },
-    {
-      "added_at": "2021-12-16 01:12:43",
-      "album": {
         "name": "La Rompe Corazones",
         "url": "https://open.spotify.com/album/3IFkypuR7Wij9252tKarRw"
       },
@@ -767,6 +747,26 @@
       "duration_ms": 204520,
       "name": "La Rompe Corazones",
       "url": "https://open.spotify.com/track/2Q85xwXagilpHKTfdrbC7M"
+    },
+    {
+      "added_at": "2021-12-16 01:12:43",
+      "album": {
+        "name": "El Dorado",
+        "url": "https://open.spotify.com/album/6bUxh58rYTL67FS8dyTKMN"
+      },
+      "artists": [
+        {
+          "name": "Shakira",
+          "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
+        },
+        {
+          "name": "Nicky Jam",
+          "url": "https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT"
+        }
+      ],
+      "duration_ms": 195213,
+      "name": "Perro Fiel (feat. Nicky Jam)",
+      "url": "https://open.spotify.com/track/70lnL3QaSOIIyMa2X9aVRL"
     },
     {
       "added_at": "2021-12-16 01:12:43",
@@ -803,6 +803,22 @@
     {
       "added_at": "2021-12-16 01:12:43",
       "album": {
+        "name": "Tu No Metes Cabra",
+        "url": "https://open.spotify.com/album/1zyFFgmRlW5GbTyTTyjQ8w"
+      },
+      "artists": [
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        }
+      ],
+      "duration_ms": 170762,
+      "name": "Tu No Metes Cabra",
+      "url": "https://open.spotify.com/track/43SMQMC2X2fAOuTPRnSGrG"
+    },
+    {
+      "added_at": "2021-12-16 01:12:43",
+      "album": {
         "name": "Dembow",
         "url": "https://open.spotify.com/album/5kpilAKnaFNV2DX5ewD7x7"
       },
@@ -819,18 +835,22 @@
     {
       "added_at": "2021-12-16 01:12:43",
       "album": {
-        "name": "Tu No Metes Cabra",
-        "url": "https://open.spotify.com/album/1zyFFgmRlW5GbTyTTyjQ8w"
+        "name": "3 A.M.",
+        "url": "https://open.spotify.com/album/6DAFWiPpok2nZEtjdSZO3X"
       },
       "artists": [
         {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+          "name": "Jesse & Joy",
+          "url": "https://open.spotify.com/artist/1mX1TWKpNxDSAH16LgDfiR"
+        },
+        {
+          "name": "Gente De Zona",
+          "url": "https://open.spotify.com/artist/2cy1zPcrFcXAJTP0APWewL"
         }
       ],
-      "duration_ms": 170762,
-      "name": "Tu No Metes Cabra",
-      "url": "https://open.spotify.com/track/43SMQMC2X2fAOuTPRnSGrG"
+      "duration_ms": 183573,
+      "name": "3 A.M.",
+      "url": "https://open.spotify.com/track/0yyZN5ASdrYu0XYWFzfxUu"
     },
     {
       "added_at": "2021-12-16 01:12:43",
@@ -855,26 +875,6 @@
       "duration_ms": 207680,
       "name": "SUBEME LA RADIO",
       "url": "https://open.spotify.com/track/7nKBxz47S9SD79N086fuhn"
-    },
-    {
-      "added_at": "2021-12-16 01:12:43",
-      "album": {
-        "name": "3 A.M.",
-        "url": "https://open.spotify.com/album/6DAFWiPpok2nZEtjdSZO3X"
-      },
-      "artists": [
-        {
-          "name": "Jesse & Joy",
-          "url": "https://open.spotify.com/artist/1mX1TWKpNxDSAH16LgDfiR"
-        },
-        {
-          "name": "Gente De Zona",
-          "url": "https://open.spotify.com/artist/2cy1zPcrFcXAJTP0APWewL"
-        }
-      ],
-      "duration_ms": 183573,
-      "name": "3 A.M.",
-      "url": "https://open.spotify.com/track/0yyZN5ASdrYu0XYWFzfxUu"
     },
     {
       "added_at": "2021-12-16 01:12:43",
@@ -1003,22 +1003,22 @@
     {
       "added_at": "2021-12-16 01:12:43",
       "album": {
-        "name": "CNCO",
-        "url": "https://open.spotify.com/album/0YCyFUN3ihGbP2x9C09NF6"
+        "name": "#Update",
+        "url": "https://open.spotify.com/album/3tAW0n99Uq2IlvzBsW3tQq"
       },
       "artists": [
         {
-          "name": "CNCO",
-          "url": "https://open.spotify.com/artist/0eecdvMrqBftK0M1VKhaF4"
-        },
-        {
           "name": "Yandel",
           "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
+        },
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
         }
       ],
-      "duration_ms": 206920,
-      "name": "Hey DJ",
-      "url": "https://open.spotify.com/track/1XgpK29CGGjZnxPYkiRbh4"
+      "duration_ms": 223146,
+      "name": "Expl\u00edcale (feat. Bad Bunny)",
+      "url": "https://open.spotify.com/track/1LszjjoVwDDZcWUQbzeDLG"
     }
   ],
   "unique_name": "Latin Hits 2017",

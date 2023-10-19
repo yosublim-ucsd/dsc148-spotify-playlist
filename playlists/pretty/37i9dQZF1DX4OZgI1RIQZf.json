@@ -1,12 +1,12 @@
 {
   "description": "The best indie songs from all decades for your Halloween party",
-  "num_followers": 65194,
+  "num_followers": 65988,
   "original_name": "Indie Halloween",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzZWY1MTMxYjVhMzJjZDgyODAxY2I1MzcwZjQ5NGYyNTdhY2Q3Yjk2",
+  "snapshot_id": "MCw2MDQ5OTA1NGRkYmM3MjljNGYyZTZlMmU3NTQ3YmEwYjgyMjliNGUw",
   "tracks": [
     {
       "added_at": "2023-10-17 16:38:23",
@@ -699,22 +699,6 @@
     {
       "added_at": "2023-10-17 16:38:23",
       "album": {
-        "name": "A Weekend in the City",
-        "url": "https://open.spotify.com/album/5qGqM14bpZCa1qQ7jt5W7R"
-      },
-      "artists": [
-        {
-          "name": "Bloc Party",
-          "url": "https://open.spotify.com/artist/3MM8mtgFzaEJsqbjZBSsHJ"
-        }
-      ],
-      "duration_ms": 210146,
-      "name": "Hunting for Witches",
-      "url": "https://open.spotify.com/track/64i71pjySnBlA7P46uSGZ7"
-    },
-    {
-      "added_at": "2023-10-17 16:38:23",
-      "album": {
         "name": "Introducing The Sonics",
         "url": "https://open.spotify.com/album/2EmUijeHFyILSHUC2kzxXv"
       },
@@ -727,6 +711,22 @@
       "duration_ms": 158680,
       "name": "The Witch",
       "url": "https://open.spotify.com/track/18k49mXvNPtKlcT6Ky39pe"
+    },
+    {
+      "added_at": "2023-10-17 16:38:23",
+      "album": {
+        "name": "A Weekend in the City",
+        "url": "https://open.spotify.com/album/5qGqM14bpZCa1qQ7jt5W7R"
+      },
+      "artists": [
+        {
+          "name": "Bloc Party",
+          "url": "https://open.spotify.com/artist/3MM8mtgFzaEJsqbjZBSsHJ"
+        }
+      ],
+      "duration_ms": 210146,
+      "name": "Hunting for Witches",
+      "url": "https://open.spotify.com/track/64i71pjySnBlA7P46uSGZ7"
     },
     {
       "added_at": "2023-10-17 16:38:23",
@@ -763,22 +763,6 @@
     {
       "added_at": "2023-10-17 16:38:23",
       "album": {
-        "name": "Blood Red Moon",
-        "url": "https://open.spotify.com/album/7x67tt2IeXCju0IjT3jCCJ"
-      },
-      "artists": [
-        {
-          "name": "The Hives",
-          "url": "https://open.spotify.com/artist/4DToQR3aKrHQSSRzSz8Nzt"
-        }
-      ],
-      "duration_ms": 271546,
-      "name": "Blood Red Moon",
-      "url": "https://open.spotify.com/track/6LOBCrIpUtcw54KXHWCY70"
-    },
-    {
-      "added_at": "2023-10-17 16:38:23",
-      "album": {
         "name": "Guero",
         "url": "https://open.spotify.com/album/2EugWXUZjr78KJFqZavvZT"
       },
@@ -807,6 +791,22 @@
       "duration_ms": 188813,
       "name": "Blood Gets Thin",
       "url": "https://open.spotify.com/track/4Ik9Yhh91b4KsCuyx9NtyF"
+    },
+    {
+      "added_at": "2023-10-17 16:38:23",
+      "album": {
+        "name": "Blood Red Moon",
+        "url": "https://open.spotify.com/album/7x67tt2IeXCju0IjT3jCCJ"
+      },
+      "artists": [
+        {
+          "name": "The Hives",
+          "url": "https://open.spotify.com/artist/4DToQR3aKrHQSSRzSz8Nzt"
+        }
+      ],
+      "duration_ms": 271546,
+      "name": "Blood Red Moon",
+      "url": "https://open.spotify.com/track/6LOBCrIpUtcw54KXHWCY70"
     },
     {
       "added_at": "2023-10-17 16:38:23",
@@ -939,22 +939,6 @@
     {
       "added_at": "2023-10-17 16:38:23",
       "album": {
-        "name": "Evil Urges",
-        "url": "https://open.spotify.com/album/4IqeW3hG9973Yd6ajqiNl1"
-      },
-      "artists": [
-        {
-          "name": "My Morning Jacket",
-          "url": "https://open.spotify.com/artist/43O3c6wewpzPKwVaGEEtBM"
-        }
-      ],
-      "duration_ms": 184893,
-      "name": "Highly Suspicious",
-      "url": "https://open.spotify.com/track/5TF4OlQZ2vD7qWinHDfO1j"
-    },
-    {
-      "added_at": "2023-10-17 16:38:23",
-      "album": {
         "name": "Little Bit 'O Soul [From The Amazon Original Movie \u201cTotally Killer\u201d]",
         "url": "https://open.spotify.com/album/3CiQoxlWPtdMJwLIVQyAPM"
       },
@@ -971,6 +955,22 @@
     {
       "added_at": "2023-10-17 16:38:23",
       "album": {
+        "name": "Evil Urges",
+        "url": "https://open.spotify.com/album/4IqeW3hG9973Yd6ajqiNl1"
+      },
+      "artists": [
+        {
+          "name": "My Morning Jacket",
+          "url": "https://open.spotify.com/artist/43O3c6wewpzPKwVaGEEtBM"
+        }
+      ],
+      "duration_ms": 184893,
+      "name": "Highly Suspicious",
+      "url": "https://open.spotify.com/track/5TF4OlQZ2vD7qWinHDfO1j"
+    },
+    {
+      "added_at": "2023-10-17 16:38:23",
+      "album": {
         "name": "Transangelic Exodus",
         "url": "https://open.spotify.com/album/0qH9x299SJCF03WuVXgXAN"
       },
@@ -983,6 +983,22 @@
       "duration_ms": 289000,
       "name": "Suck the Blood from My Wound",
       "url": "https://open.spotify.com/track/08udle8t4dGZzQ67AEs8X4"
+    },
+    {
+      "added_at": "2023-10-17 16:38:23",
+      "album": {
+        "name": "God Is Dead",
+        "url": "https://open.spotify.com/album/5BLV32zI1HWGP6DLkXMRKZ"
+      },
+      "artists": [
+        {
+          "name": "Twin Temple",
+          "url": "https://open.spotify.com/artist/5NYEE4kgrEZPlM3DxUsTyc"
+        }
+      ],
+      "duration_ms": 241614,
+      "name": "Let's Have A Satanic Orgy",
+      "url": "https://open.spotify.com/track/1TytKeDnrjx0t29DYclf3W"
     },
     {
       "added_at": "2023-10-17 16:38:23",
@@ -1051,22 +1067,6 @@
     {
       "added_at": "2023-10-17 16:38:23",
       "album": {
-        "name": "God Is Dead",
-        "url": "https://open.spotify.com/album/5BLV32zI1HWGP6DLkXMRKZ"
-      },
-      "artists": [
-        {
-          "name": "Twin Temple",
-          "url": "https://open.spotify.com/artist/5NYEE4kgrEZPlM3DxUsTyc"
-        }
-      ],
-      "duration_ms": 241614,
-      "name": "Let's Have A Satanic Orgy",
-      "url": "https://open.spotify.com/track/1TytKeDnrjx0t29DYclf3W"
-    },
-    {
-      "added_at": "2023-10-17 16:38:23",
-      "album": {
         "name": "Beat the Devil's Tattoo",
         "url": "https://open.spotify.com/album/7tSapn3n98ZkK3B1EXEGII"
       },
@@ -1115,22 +1115,6 @@
     {
       "added_at": "2023-10-17 16:38:23",
       "album": {
-        "name": "Veronica Falls",
-        "url": "https://open.spotify.com/album/14vFC84BzjOc8Ud9ga0vFi"
-      },
-      "artists": [
-        {
-          "name": "Veronica Falls",
-          "url": "https://open.spotify.com/artist/0mgbAj6btHW215UxhLq1AV"
-        }
-      ],
-      "duration_ms": 239066,
-      "name": "Found Love in a Graveyard",
-      "url": "https://open.spotify.com/track/6o1oknbpGILs6eG8q3j8vV"
-    },
-    {
-      "added_at": "2023-10-17 16:38:23",
-      "album": {
         "name": "In Ghost Colours (UK Version Delux)",
         "url": "https://open.spotify.com/album/5IlfTdX8ifs6qbQYgk7AoS"
       },
@@ -1143,6 +1127,22 @@
       "duration_ms": 268986,
       "name": "So Haunted",
       "url": "https://open.spotify.com/track/08fNM1EU6GnebBtv3Btl4d"
+    },
+    {
+      "added_at": "2023-10-17 16:38:23",
+      "album": {
+        "name": "Veronica Falls",
+        "url": "https://open.spotify.com/album/14vFC84BzjOc8Ud9ga0vFi"
+      },
+      "artists": [
+        {
+          "name": "Veronica Falls",
+          "url": "https://open.spotify.com/artist/0mgbAj6btHW215UxhLq1AV"
+        }
+      ],
+      "duration_ms": 239066,
+      "name": "Found Love in a Graveyard",
+      "url": "https://open.spotify.com/track/6o1oknbpGILs6eG8q3j8vV"
     },
     {
       "added_at": "2023-10-17 16:38:23",

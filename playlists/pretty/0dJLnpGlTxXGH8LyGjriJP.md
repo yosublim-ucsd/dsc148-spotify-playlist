@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0dJLnpGlTxXGH8LyGjriJP.md) - [plain]
 
 > 
 
-[skillstreet](https://open.spotify.com/user/skillstreet) - 2 likes - 687 songs - 1 day 10 hr 46 min
+[skillstreet](https://open.spotify.com/user/skillstreet) - 2 likes - 688 songs - 1 day 10 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -695,5 +695,6 @@ pretty - [cumulative](/playlists/cumulative/0dJLnpGlTxXGH8LyGjriJP.md) - [plain]
 | 685 | [Offended \(feat\. Young Thug & 21 Savage\)](https://open.spotify.com/track/40WxFAbt8UEK7jKLmIxRNY) | [Meek Mill](https://open.spotify.com/artist/20sxb77xiYeusSH8cVdatc), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [DC4](https://open.spotify.com/album/6sNbRwX0lZREkdmUSDsVzo) | 4:15 |
 | 686 | [On the Regular](https://open.spotify.com/track/0bLwBXrMd3z96utPHeuQDK) | [Meek Mill](https://open.spotify.com/artist/20sxb77xiYeusSH8cVdatc) | [DC4](https://open.spotify.com/album/6sNbRwX0lZREkdmUSDsVzo) | 3:04 |
 | 687 | [25k jacket \(feat\. Lil Baby\)](https://open.spotify.com/track/6tsVFchreYTt2OPXSOoFCX) | [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [DS4EVER](https://open.spotify.com/album/02uWB8Kekadkl3yGBoOOcx) | 2:00 |
+| 688 | [Way Too Blessed](https://open.spotify.com/track/4s3w2iJtamd8Pg2BWBS0xp) | [Caleb Gordon](https://open.spotify.com/artist/6s3XaJkcT7464G4oII9V41), [Kenny Rivers](https://open.spotify.com/artist/5l2A2TPigxj9mzRAn5e9cg) | [Before the Garden Vol.1](https://open.spotify.com/album/4Up9gxJ5nwtx6jP46sStKj) | 3:33 |
 
-Snapshot ID: `ODUwLDhhZWFkYWQ0YmMxNTJjYTJlM2MwNzdlNmJmNTU4YjRkNDkxNzQ4ZTU=`
+Snapshot ID: `ODUxLDgyZWMwM2Q3OTRiNjdlNmRhOGFkMTE1MjNmZTM0NjJlZGRhNjUxMTU=`

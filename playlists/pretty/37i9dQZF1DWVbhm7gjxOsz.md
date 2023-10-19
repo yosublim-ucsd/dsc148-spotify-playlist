@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVbhm7gjxOsz.md) - [plain]
 
 > Crusin' is not a crime, it's a lifestyle!
 
-[Spotify](https://open.spotify.com/user/spotify) - 41,554 likes - 150 songs - 8 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 41,736 likes - 150 songs - 8 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,8 +39,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVbhm7gjxOsz.md) - [plain]
 | 29 | [Ain't No Woman \(Like The One I've Got\)](https://open.spotify.com/track/6q8NBpF6twALMb86FBpLgQ) | [Four Tops](https://open.spotify.com/artist/7fIvjotigTGWqjIz6EP1i4) | [Keeper Of The Castle](https://open.spotify.com/album/0WwvY1uMFowKCrcFqF87o9) | 3:07 |
 | 30 | [You'll Lose A Good Thing](https://open.spotify.com/track/5CEREcGR5WaLt40YzTQ62e) | [Barbara Lynn](https://open.spotify.com/artist/2wQyX5625x6IGls8zLLHMB) | [You'll Lose A Good Thing](https://open.spotify.com/album/1M9sGvei24wKfCC1P7CESZ) | 2:39 |
 | 31 | [Seems Like](https://open.spotify.com/track/2YrZqTyToiN4oBYHAVae7F) | [Thee Sinseers](https://open.spotify.com/artist/5unhEp2PoIxAgEFNEyYdJS) | [Seems Like](https://open.spotify.com/album/2tap8Qg9edttnopPumKebe) | 3:14 |
-| 32 | [Tell It Like It Is](https://open.spotify.com/track/66BjgQodHebiX5QGpBAjyQ) | [Aaron Neville](https://open.spotify.com/artist/57ALvbCBaCkNlgTOSiUPdT) | [The Very Best Of Aaron Neville](https://open.spotify.com/album/5p30oP23JCMDwHXM7f6ECa) | 2:44 |
-| 33 | [Earth Angel](https://open.spotify.com/track/7GnMzVWOHLBPcfco4L1GtE) | [The Penguins](https://open.spotify.com/artist/6lOk7hCr8x3O9vHwylXyHR) | [Earth Angel](https://open.spotify.com/album/42uu50W2ko5aQriXh7naAd) | 2:51 |
+| 32 | [Earth Angel](https://open.spotify.com/track/7GnMzVWOHLBPcfco4L1GtE) | [The Penguins](https://open.spotify.com/artist/6lOk7hCr8x3O9vHwylXyHR) | [Earth Angel](https://open.spotify.com/album/42uu50W2ko5aQriXh7naAd) | 2:51 |
+| 33 | [Tell It Like It Is](https://open.spotify.com/track/66BjgQodHebiX5QGpBAjyQ) | [Aaron Neville](https://open.spotify.com/artist/57ALvbCBaCkNlgTOSiUPdT) | [The Very Best Of Aaron Neville](https://open.spotify.com/album/5p30oP23JCMDwHXM7f6ECa) | 2:44 |
 | 34 | [I Love You for All Seasons](https://open.spotify.com/track/03DQO1cC5RzTWRxJLzJCgy) | [The Fuzz](https://open.spotify.com/artist/052NpRSiz4SQTsFnvwMP6t) | [Sisters of Soul; the Sweeter Voices of Soul](https://open.spotify.com/album/6VRBMd2t0mc6Kmsc0Cw86l) | 3:04 |
 | 35 | [Gimme Little Sign](https://open.spotify.com/track/1h4XVjt26ZCDKmeEoHxT07) | [Brenton Wood](https://open.spotify.com/artist/6ohvzFHYmLd05kyYhLui5K) | [Oogum Boogum](https://open.spotify.com/album/108biCEg5vUG7Efei5EhTf) | 2:21 |
 | 36 | [Just One Look](https://open.spotify.com/track/154uJXAUVoqvV5on0w03a0) | [Doris Troy](https://open.spotify.com/artist/3jiBDfjnWIdLQEEOdKqZex) | [Sings Just One Look And Other Memorable Selections](https://open.spotify.com/album/2CLiFy7JO1bmkNV6LFEMix) | 2:31 |
@@ -98,8 +98,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVbhm7gjxOsz.md) - [plain]
 | 88 | [Two Lovers](https://open.spotify.com/track/00CmjeeHvAVKvx3tcIiZTy) | [Mary Wells](https://open.spotify.com/artist/1cjZk1xXn3YCToNg3uJpA7) | [Two Lovers](https://open.spotify.com/album/4dfP6ztb54XjPNDMOQ1MSL) | 2:46 |
 | 89 | [Dry Your Eyes](https://open.spotify.com/track/5mlv9Y2cPCjZzppbkWYsKR) | [Brenda And The Tabulations](https://open.spotify.com/artist/7knQlwjtPZ9VP98f5XXhhn) | [Dry Your Eyes](https://open.spotify.com/album/7gRd19Kccnk9PEw3SngTeG) | 2:44 |
 | 90 | [Slow Walk](https://open.spotify.com/track/6FwjZsd1WrdXH4Vy4yTNyg) | [Sil Austin](https://open.spotify.com/artist/4ZER6Et93aVvfwzaiwjjbI) | [Swingsation: Sil Austin](https://open.spotify.com/album/1rObnFkeZhkF19kA5Z5tJa) | 2:39 |
-| 91 | [Searching For My Love](https://open.spotify.com/track/6EtOgpD6m1fBzcnckUAEfW) | [Bobby Moore & The Rhythm Aces](https://open.spotify.com/artist/6qlpFH9e4sZ52tAPy2KmLz) | [Searching For My Love](https://open.spotify.com/album/7lpZkRX58TVPOyRbCFiRjV) | 2:30 |
-| 92 | [Going In Circles](https://open.spotify.com/track/5gUk26spbkbYgXmDTMbW3C) | [The Friends Of Distinction](https://open.spotify.com/artist/2KK4fR5VwOjGzJxjbGxMIu) | [Grazin'](https://open.spotify.com/album/3LPgvdYSDRmaRmZV0KA0Kw) | 4:12 |
+| 91 | [Going In Circles](https://open.spotify.com/track/5gUk26spbkbYgXmDTMbW3C) | [The Friends Of Distinction](https://open.spotify.com/artist/2KK4fR5VwOjGzJxjbGxMIu) | [Grazin'](https://open.spotify.com/album/3LPgvdYSDRmaRmZV0KA0Kw) | 4:12 |
+| 92 | [Searching For My Love](https://open.spotify.com/track/6EtOgpD6m1fBzcnckUAEfW) | [Bobby Moore & The Rhythm Aces](https://open.spotify.com/artist/6qlpFH9e4sZ52tAPy2KmLz) | [Searching For My Love](https://open.spotify.com/album/7lpZkRX58TVPOyRbCFiRjV) | 2:30 |
 | 93 | [Try Me](https://open.spotify.com/track/44AgaeLQCnvk3PPHIaDeDk) | [James Brown](https://open.spotify.com/artist/7GaxyUddsPok8BuhxN6OUW) | [Star Time](https://open.spotify.com/album/2yuTyv0L51qvYuI5RIktlA) | 2:31 |
 | 94 | [Baby It's You](https://open.spotify.com/track/2mRg1R9LKzZJWRAtKVollf) | [The Shirelles](https://open.spotify.com/artist/0x83OBqixqdCHnStP5VMcn) | [Will You Still Love Me Tomorrow](https://open.spotify.com/album/13MaoinwLDJqTHPMEr0efZ) | 2:41 |
 | 95 | [Forever](https://open.spotify.com/track/3s2inuLbQQZ7z1GJrdlQr6) | [The Marvelettes](https://open.spotify.com/artist/0MponVSpW81oLvJZ53vYZH) | [Playboy](https://open.spotify.com/album/0XuV6U9ee6UB1faItAbEic) | 2:21 |
@@ -118,9 +118,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVbhm7gjxOsz.md) - [plain]
 | 108 | [Silly](https://open.spotify.com/track/3XrzApq8R10O6WwNwMw8t4) | [Deniece Williams](https://open.spotify.com/artist/5jNGQ7VOU87x5402JjhTtd) | [The Best Of Deniece Williams: Gonna Take A Miracle](https://open.spotify.com/album/40sKPUTUSt1t7F73DZ2ECT) | 5:57 |
 | 109 | [Mujer Mia](https://open.spotify.com/track/6uiqzXiQCvAvoeDcjbRbRC) | [Joe Bataan](https://open.spotify.com/artist/7ME0heqob2B32S9ofWhOyU) | [SalSoul](https://open.spotify.com/album/6ehe5lPsXzxcNU69NSCi0W) | 4:30 |
 | 110 | [Ilusión De Amor](https://open.spotify.com/track/5rWvpSsk5b7wyyhBMoS05b) | [Jensine Benitez](https://open.spotify.com/artist/6EkOEYrG2cAQgIatrHQJbX), [Thee Sacred Souls](https://open.spotify.com/artist/0oK5D6uPhGu4Jk2dbZfodU) | [Ilusión De Amor](https://open.spotify.com/album/5mnltZObN42BuoEMtv4QUa) | 3:45 |
-| 111 | [Shining Star](https://open.spotify.com/track/4VO88hvgij1NzgmGpV1MPV) | [The Manhattans](https://open.spotify.com/artist/1DpIDwg8FGD50N9Tfunfsf) | [The Best Of The Manhattans: Kiss And Say Goodbye](https://open.spotify.com/album/4shPsyHdXeoYwJeqt10Ttq) | 4:39 |
-| 112 | [When You're Gone](https://open.spotify.com/track/1fZC5RQre8kgyhqNVflPTm) | [Brenda And The Tabulations](https://open.spotify.com/artist/7knQlwjtPZ9VP98f5XXhhn) | [Dry Your Eyes](https://open.spotify.com/album/7gRd19Kccnk9PEw3SngTeG) | 2:35 |
-| 113 | [Hello Stranger](https://open.spotify.com/track/1lv1pjnBPOQbGBt4tYedy6) | [Barbara Lewis](https://open.spotify.com/artist/2UocIcNiHj5n4tj1CnBzRq) | [Hello Stranger](https://open.spotify.com/album/1ntEg1vkoTy13VGg0bbDvE) | 2:40 |
+| 111 | [Hello Stranger](https://open.spotify.com/track/1lv1pjnBPOQbGBt4tYedy6) | [Barbara Lewis](https://open.spotify.com/artist/2UocIcNiHj5n4tj1CnBzRq) | [Hello Stranger](https://open.spotify.com/album/1ntEg1vkoTy13VGg0bbDvE) | 2:40 |
+| 112 | [Shining Star](https://open.spotify.com/track/4VO88hvgij1NzgmGpV1MPV) | [The Manhattans](https://open.spotify.com/artist/1DpIDwg8FGD50N9Tfunfsf) | [The Best Of The Manhattans: Kiss And Say Goodbye](https://open.spotify.com/album/4shPsyHdXeoYwJeqt10Ttq) | 4:39 |
+| 113 | [When You're Gone](https://open.spotify.com/track/1fZC5RQre8kgyhqNVflPTm) | [Brenda And The Tabulations](https://open.spotify.com/artist/7knQlwjtPZ9VP98f5XXhhn) | [Dry Your Eyes](https://open.spotify.com/album/7gRd19Kccnk9PEw3SngTeG) | 2:35 |
 | 114 | [I Really Love You](https://open.spotify.com/track/1iYrvHaZXNrLolzjR6ZCe5) | [Dee Dee Sharp](https://open.spotify.com/artist/2NtGOVTuHBMDfR5PMNPBGT) | [The Best Of Dee Dee Sharp 1962\-1966](https://open.spotify.com/album/319S820SmHsr88JCQDCEYv) | 2:48 |
 | 115 | [Float On](https://open.spotify.com/track/7xg0Rbj3SVOVzQVJEqh5Zd) | [The Floaters](https://open.spotify.com/artist/6GpuL6WNTOVhmMl6lZbiKS) | [The Floaters](https://open.spotify.com/album/3R4GYvXz5zKCBG7rgUeEjX) | 11:48 |
 | 116 | [Somebody Please \(Stereo Mix 2019\)](https://open.spotify.com/track/1U9MVMWI6hACLhgXI9JoFE) | [The Vanguards](https://open.spotify.com/artist/1Cxiw1j8YapEOhSmJWteHW) | [Somebody Please \(Stereo Mix 2019\)](https://open.spotify.com/album/1RMHlSB5c8XFd6NIoi6fK6) | 3:51 |
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVbhm7gjxOsz.md) - [plain]
 | 149 | [Tell Me That You Love Me](https://open.spotify.com/track/57ffRh0Tc4pGL1JGGhvanb) | [Jonny Benavidez](https://open.spotify.com/artist/7M7dZApoFDjFxwIfGGNvRa), [Cold Diamond & Mink](https://open.spotify.com/artist/47eOrmm0M2qY5atzSNNt2b) | [My Echo, Shadow and Me](https://open.spotify.com/album/2f70selQPrtTaUvHyn4dbo) | 3:42 |
 | 150 | [The Entertainer](https://open.spotify.com/track/5cnaeNo5ODjXiUrqWMD0iA) | [Baby Bash](https://open.spotify.com/artist/12PSlydMSjEHzSCj9X5qv7), [Cota](https://open.spotify.com/artist/2e1yGR8FqYaOz962igAVIM), [The Vibes](https://open.spotify.com/artist/21SkzTtJjXO1tnoRPziAzv) | [The Entertainer](https://open.spotify.com/album/0ywM9vXLCWhCAthJ0aHnv0) | 2:40 |
 
-Snapshot ID: `MCwwNjQ3ZDgzMGIzODFjNjcyYjYyNWJhZWJlMjIwMjVlYWEyNTBjYzNk`
+Snapshot ID: `MCxiMDM1YTMxYWY1NWMwNjE0M2I2ODA1MWZkN2I1MGFiZDg2ZTUwM2I4`

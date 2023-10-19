@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4mijKNOBDNw.md) - [plain]
 
 > Si tocan a una respondemos todas.
 
-[Spotify](https://open.spotify.com/user/spotify) - 53,998 likes - 65 songs - 3 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 54,006 likes - 65 songs - 3 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,8 +26,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4mijKNOBDNw.md) - [plain]
 | 16 | [Faroles](https://open.spotify.com/track/4eh4Et24YVZ97mCumJe0IK) | [Denise Rosenthal](https://open.spotify.com/artist/73SBwOgH6mrS09OyFHdR62), [SOULFIA](https://open.spotify.com/artist/1Q9Sx5tOmwems0qwLJZ5Cy), [Shirel](https://open.spotify.com/artist/5fNV5ubt46GqUpyP7Mh4Ln), [KYA](https://open.spotify.com/artist/1D1DNu1iQq7j7hFOlJZJyP) | [Faroles](https://open.spotify.com/album/6E2eSxShTgMRZi3WKjJev0) | 2:58 |
 | 17 | [Lisístrata](https://open.spotify.com/track/0zU49ugNNhip8mmrleoOzQ) | [Gata Cattana](https://open.spotify.com/artist/4aW7Oc19mMo4LTbdomZKgo) | [Anclas](https://open.spotify.com/album/7qaPfXArvKUdTbC2qCwIgG) | 3:57 |
 | 18 | [Historika](https://open.spotify.com/track/11LBXStTNnMsUjMLRpurqe) | [Sara Hebe](https://open.spotify.com/artist/4pFUriuYqqAmBCvqF9o6LW) | [La hija del loco](https://open.spotify.com/album/0Jyzj8fLiBzZc5i0jbtCfU) | 4:26 |
-| 19 | [Mujeres](https://open.spotify.com/track/0PELaQWHo1MA89JH4lHyRj) | [Julieta Venegas](https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm), [Miau Trío](https://open.spotify.com/artist/0WIn93XS8EmNaLPG3AZpeL) | [Mujeres](https://open.spotify.com/album/3NOtXGgprgAE7XcyimuA6P) | 3:35 |
-| 20 | [Báilalo Mujer](https://open.spotify.com/track/1RdQkmD04McqnaiN76PohD) | [Flor De Rap](https://open.spotify.com/artist/3ZIZqvSbTL7mIEyXmbbXs7), [Denise Rosenthal](https://open.spotify.com/artist/73SBwOgH6mrS09OyFHdR62) | [Báilalo Mujer](https://open.spotify.com/album/3TqIGSpoilpG6QXGpwn5X5) | 2:52 |
+| 19 | [Báilalo Mujer](https://open.spotify.com/track/1RdQkmD04McqnaiN76PohD) | [Flor De Rap](https://open.spotify.com/artist/3ZIZqvSbTL7mIEyXmbbXs7), [Denise Rosenthal](https://open.spotify.com/artist/73SBwOgH6mrS09OyFHdR62) | [Báilalo Mujer](https://open.spotify.com/album/3TqIGSpoilpG6QXGpwn5X5) | 2:52 |
+| 20 | [Mujeres](https://open.spotify.com/track/0PELaQWHo1MA89JH4lHyRj) | [Julieta Venegas](https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm), [Miau Trío](https://open.spotify.com/artist/0WIn93XS8EmNaLPG3AZpeL) | [Mujeres](https://open.spotify.com/album/3NOtXGgprgAE7XcyimuA6P) | 3:35 |
 | 21 | [Ni una Menos](https://open.spotify.com/track/73sv7ERsv0E9dFRJkmTroF) | [Chocolate Remix](https://open.spotify.com/artist/4kkuyWmpashrooyOFvHX2m) | [Sátira](https://open.spotify.com/album/4HsyhBMFmRLmTxEQeuROub) | 2:23 |
 | 22 | [Amiga](https://open.spotify.com/track/1MyeYdKKegyVW2LHenX63b) | [Miau Trío](https://open.spotify.com/artist/0WIn93XS8EmNaLPG3AZpeL) | [Amiga](https://open.spotify.com/album/0YaIQWmzrG5b0iWDwzvf5x) | 2:37 |
 | 23 | [La Cumbia Feminazi](https://open.spotify.com/track/7yXQbL33HEOGd7we8c3BOG) | [Renee Goust](https://open.spotify.com/artist/4eV7xFoCLdPWpOx7LtF52K) | [La Cumbia Feminazi](https://open.spotify.com/album/42tCTBqRe7XUhgMKUYjm6p) | 3:49 |
@@ -35,8 +35,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4mijKNOBDNw.md) - [plain]
 | 25 | [No Estamos Solas \(Tema Central de la Serie "La Jauría"\) \- Tema Central de la Serie "La Jauría"](https://open.spotify.com/track/4LxtkdudLT8Bhgm9xwRyn5) | [Ana Tijoux](https://open.spotify.com/artist/40JMTpVRUw90SrN4pFA6Mz) | [No Estamos Solas \(Tema Central de la Serie "La Jauría"\)](https://open.spotify.com/album/4N2jf1sqfVuOFlmGLBDvi1) | 2:53 |
 | 26 | [Brujas](https://open.spotify.com/track/2QSksPcpxlX6APIppww8Ar) | [Eli Almic](https://open.spotify.com/artist/5KXdJKZm2dVPkKmbitndiR) | [Brujas](https://open.spotify.com/album/4fVKCgpWN1lWkMses30NqQ) | 2:54 |
 | 27 | [Se Quemó](https://open.spotify.com/track/4tbirX3tFHgyWmgfO9ZQC2) | [La Otra](https://open.spotify.com/artist/5mHe4QndQw0Jc5dFYn1Qe7) | [Pa'fuera y Pa'dentro](https://open.spotify.com/album/32MUPpQPG9ZkTXRRHXehUr) | 4:43 |
-| 28 | [Paracas Cavernas](https://open.spotify.com/track/5iEzYvaLSLUU7pU4miiVE5) | [La Lá](https://open.spotify.com/artist/7nZ3e67Mo4DLU1RC81KX8H), [Tessa Ia](https://open.spotify.com/artist/2Bo0gW1bqWSjD27xOcVtjg) | [Paracas Cavernas](https://open.spotify.com/album/0rYpO9guHXOLfNeuNPTqgk) | 4:28 |
-| 29 | [Caminar Sola](https://open.spotify.com/track/1ZGTVVXlL3FkaTGyNQey2P) | [Julieta Venegas](https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm) | [Caminar Sola](https://open.spotify.com/album/5MJYQdDfWT6r77caberwu2) | 3:18 |
+| 28 | [Caminar Sola](https://open.spotify.com/track/1ZGTVVXlL3FkaTGyNQey2P) | [Julieta Venegas](https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm) | [Caminar Sola](https://open.spotify.com/album/5MJYQdDfWT6r77caberwu2) | 3:18 |
+| 29 | [Paracas Cavernas](https://open.spotify.com/track/5iEzYvaLSLUU7pU4miiVE5) | [La Lá](https://open.spotify.com/artist/7nZ3e67Mo4DLU1RC81KX8H), [Tessa Ia](https://open.spotify.com/artist/2Bo0gW1bqWSjD27xOcVtjg) | [Paracas Cavernas](https://open.spotify.com/album/0rYpO9guHXOLfNeuNPTqgk) | 4:28 |
 | 30 | [Paren de Matarnos](https://open.spotify.com/track/4p048hM5kMxSLLcRiLtE0K) | [Miss Bolivia](https://open.spotify.com/artist/4xx3PjUWxXY0qEXUdDhrwx) | [Pantera](https://open.spotify.com/album/572ZnLpVAhneJ6duuES4OL) | 3:22 |
 | 31 | [El Sol](https://open.spotify.com/track/2irBYZdlYxseHEz850SoL9) | [Mandale Mecha](https://open.spotify.com/artist/483XO10ZYxnxAqMkuOTJ2m), [MULAMBA](https://open.spotify.com/artist/6wd8OZcCaRQNDIMz6SPNGN) | [El Sol](https://open.spotify.com/album/7w2VOEKla6DNnWjDsIkaQf) | 3:09 |
 | 32 | [Despiertas](https://open.spotify.com/track/5WkuSNv40JXr0akquFaiEb) | [Ms\. Ambar](https://open.spotify.com/artist/0jgJv4J29BJiJu1luw2SdA), [Delfina Dib](https://open.spotify.com/artist/6vwr6V7RwcWMDqVNerpNlZ), [Masta Quba](https://open.spotify.com/artist/6huE8Sh7scgoA8rj2vCuwZ) | [Despiertas](https://open.spotify.com/album/0RC5h6BHyaYvmDwwi8M8Qu) | 2:51 |
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4mijKNOBDNw.md) - [plain]
 | 64 | [Ni Una Mas](https://open.spotify.com/track/6kY8v7VDzPWIy1alEDQGM8) | [Ivonne Galaz](https://open.spotify.com/artist/3YXGxdYldEXVVlCdCkFD5G) | [Ni Una Mas](https://open.spotify.com/album/12pHDcyqzSNsZgQJDRiZ3W) | 2:41 |
 | 65 | [Nunca Amor](https://open.spotify.com/track/4mZuInt5AIL6PqDF1I2zRt) | [Leiden](https://open.spotify.com/artist/6fvjP4AZ19ce4gwJSr5qnI) | [Nunca Amor](https://open.spotify.com/album/7c6CsAKYwhoAcNDcKJcx1z) | 3:06 |
 
-Snapshot ID: `MCw0MDNlMzFhNjZjZWE3NDU0NmIxNWM0MGMxNzJhNTYyNDRlNzRjY2I0`
+Snapshot ID: `MCwzZjY5NDNkMjRmZmZmZDU0YWFjNjZlYzgzMzQyNmQyOTA2OTQ4YjA5`

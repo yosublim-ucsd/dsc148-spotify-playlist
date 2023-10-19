@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa8DuxYig0Rl.md) - [plain]
 
 > Tropical y refrescante\. Con todo el sabor y tradición de México.
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,835 likes - 100 songs - 5 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,848 likes - 100 songs - 5 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,8 +44,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa8DuxYig0Rl.md) - [plain]
 | 34 | [Son de la Loma](https://open.spotify.com/track/1WUFibguVgCU5jjFRezexh) | [Trio Matamoros](https://open.spotify.com/artist/49J2FQGwlcwdE3AHT2PSOW) | [Aquellos Tiempos del Trio Matamoros](https://open.spotify.com/album/3BHKao5ijqNQq4eCj8m6Ij) | 3:37 |
 | 35 | [Bonito y Sabroso](https://open.spotify.com/track/2VdeSD30CXVoAKU4xHMBfV) | [Beny Moré](https://open.spotify.com/artist/1Sp47peMTI9na8FTY4yHJw) | [Serie Platino](https://open.spotify.com/album/3fKm1pACTYGNXT5jWyYtYL) | 2:53 |
 | 36 | [Pagina Blanca](https://open.spotify.com/track/30R25rIDDtXKCTXGwvg8rz) | [Los Fantasmas](https://open.spotify.com/artist/6WvtlmouI0mVQJ3JQj9rRK) | [Recordando a](https://open.spotify.com/album/3kh1YRFggMYWLTBM4aaZCE) | 3:08 |
-| 37 | [Palillos Chinos](https://open.spotify.com/track/68HJErw94TSvoBPiddSnwo) | [Carlos Campos Y Orquesta](https://open.spotify.com/artist/0IVPiyQ9QrdROHQs9hAFcU) | [Danzones a la Manera del Campeon, Vol\. 1](https://open.spotify.com/album/0E0QZ36nhXb2vlD5WwYwPM) | 3:10 |
-| 38 | [Que Rico Mambo](https://open.spotify.com/track/65KQTYQiwd2kZSmGxpfZs0) | [Pérez Prado](https://open.spotify.com/artist/1ZKhPkCXXgtiGgALn4OYtT) | [Que Rico Mambo](https://open.spotify.com/album/3rzBUm3IuhOIYHHKAJtu9l) | 3:56 |
+| 37 | [Que Rico Mambo](https://open.spotify.com/track/65KQTYQiwd2kZSmGxpfZs0) | [Pérez Prado](https://open.spotify.com/artist/1ZKhPkCXXgtiGgALn4OYtT) | [Que Rico Mambo](https://open.spotify.com/album/3rzBUm3IuhOIYHHKAJtu9l) | 3:56 |
+| 38 | [Palillos Chinos](https://open.spotify.com/track/68HJErw94TSvoBPiddSnwo) | [Carlos Campos Y Orquesta](https://open.spotify.com/artist/0IVPiyQ9QrdROHQs9hAFcU) | [Danzones a la Manera del Campeon, Vol\. 1](https://open.spotify.com/album/0E0QZ36nhXb2vlD5WwYwPM) | 3:10 |
 | 39 | [El Año Viejo](https://open.spotify.com/track/6NjhADkaWwGYO0R7eZXyI4) | [Tony Camargo](https://open.spotify.com/artist/5ty08GXpCMviM7BKWNrdXi) | [RCA 100 Años De Musica](https://open.spotify.com/album/42xizzB2aLakQDBNIhEQJg) | 3:02 |
 | 40 | [Dónde Estás Yolanda](https://open.spotify.com/track/4J2EPwzxdv2ellgx5E4QnP) | [La Sonora Santanera](https://open.spotify.com/artist/3CsPxFJGyNa9ep79CFWN77) | [15 EXITOS](https://open.spotify.com/album/2CHM7kNjxlfUHpOj1BuxOs) | 3:07 |
 | 41 | [Salón México](https://open.spotify.com/track/6uqZHjlAcUR0SjChstjvV5) | [Acerina Y Su Danzonera](https://open.spotify.com/artist/3WsvaFzZ9DOpXr6YcrFkTh) | [Danzones a la Mexicana](https://open.spotify.com/album/5bIUtVLU1JwoqqgN3BOCGW) | 2:32 |
@@ -83,8 +83,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa8DuxYig0Rl.md) - [plain]
 | 73 | [El tilingo](https://open.spotify.com/track/24qvEa0HyeHRQar9p8cHr3) | [Trio Azteca](https://open.spotify.com/artist/2TQbB9wIlP0BRpwdUBq0dY) | [The Best of Mexico](https://open.spotify.com/album/53ovjfvOTKp9wfeI0J35TM) | 3:05 |
 | 74 | [Mi Cafetal](https://open.spotify.com/track/0fRuB2A8KrSnkUh4JPSBhk) | [Tony Camargo](https://open.spotify.com/artist/5ty08GXpCMviM7BKWNrdXi) | [RCA 100 Años De Musica](https://open.spotify.com/album/42xizzB2aLakQDBNIhEQJg) | 2:43 |
 | 75 | [Chapultepec](https://open.spotify.com/track/14jYjGfprvRyvSBq13pAn9) | [Salterio y Quinteto de Antaño](https://open.spotify.com/artist/2g7uqSdLoBuzN2MAiHlfGQ) | [La Belle Epoque](https://open.spotify.com/album/6yfkDfG0OCtjIVVgjSx03g) | 2:32 |
-| 76 | [Alma llanera](https://open.spotify.com/track/37uKoiJSNUeHiUVJmP4rWM) | [Los Panchos](https://open.spotify.com/artist/3Ker27Wbb9OcUHGs54JIAz) | [Aguanta Corazón \(1955 \-1959\)](https://open.spotify.com/album/3vWOVb2soptTEz5vdUPY2c) | 2:54 |
-| 77 | [Pedacito de Mi Vida](https://open.spotify.com/track/2wbIlghub8hsIJiiDxPMAC) | [Celina Y Reutilio](https://open.spotify.com/artist/5vah85L323LvoowZhyAMhD) | [Clásicos de La Música Cubana Volume 3](https://open.spotify.com/album/7hPks3l2HPfGVdDrzeqAqH) | 2:53 |
+| 76 | [Pedacito de Mi Vida](https://open.spotify.com/track/2wbIlghub8hsIJiiDxPMAC) | [Celina Y Reutilio](https://open.spotify.com/artist/5vah85L323LvoowZhyAMhD) | [Clásicos de La Música Cubana Volume 3](https://open.spotify.com/album/7hPks3l2HPfGVdDrzeqAqH) | 2:53 |
+| 77 | [Alma llanera](https://open.spotify.com/track/37uKoiJSNUeHiUVJmP4rWM) | [Los Panchos](https://open.spotify.com/artist/3Ker27Wbb9OcUHGs54JIAz) | [Aguanta Corazón \(1955 \-1959\)](https://open.spotify.com/album/3vWOVb2soptTEz5vdUPY2c) | 2:54 |
 | 78 | [Zacazonapan](https://open.spotify.com/track/1JxygrDpw5bLUMQsQqQuPN) | [Marimba Orquesta Perla De Chiapas](https://open.spotify.com/artist/69lmWrPp9ZvKMJirt47VMP) | [Vamos A La Fiesta](https://open.spotify.com/album/6AkQ14Roz7mOJVi6JRc9gZ) | 2:45 |
 | 79 | [El fandanguito \- The Little Fandango](https://open.spotify.com/track/3FbSCMcmNiwoDgv3oLSkIG) | [Los Camperos de Valles](https://open.spotify.com/artist/5wkjb5Vn4MeMj8rGI0SraE) | [El ave de mi soñar: Mexican Sones Huastecos](https://open.spotify.com/album/7tdP8HWoKaV5v3gjA4aTmk) | 3:18 |
 | 80 | [Aguita de Coco](https://open.spotify.com/track/2uFL2daNnQgaBzFynQAvJo) | [Pepe Gomez Jr\. y su Grupo Union 82](https://open.spotify.com/artist/3aiiZsdJHqXrPkYOBQI0Uo), [Magia San juanera](https://open.spotify.com/artist/4mp2F6WrSl1RC3yrklidlA) | [Aguita de Coco](https://open.spotify.com/album/2mnZqRaITER5ycCq6AXcQV) | 3:37 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa8DuxYig0Rl.md) - [plain]
 | 99 | [La Cocaleca](https://open.spotify.com/track/58CN85IjWK5GSLFqXeq9lm) | [Pérez Prado](https://open.spotify.com/artist/1ZKhPkCXXgtiGgALn4OYtT) | [Coleccion Original](https://open.spotify.com/album/1hu7GjmtnChBUBDLZjb2Mb) | 3:06 |
 | 100 | [Botecito de Vela](https://open.spotify.com/track/40Ji4lCHW8hBRjT8VPtzSw) | [La Sonora Santanera](https://open.spotify.com/artist/3CsPxFJGyNa9ep79CFWN77) | [Mis 30 Mejores Canciones](https://open.spotify.com/album/2aQzF1ccueoLiIzMpKDyYa) | 3:04 |
 
-Snapshot ID: `MCwxMGVjZWExOGRkM2QwYmU0NzM5ZDQ0MzQ1MjU4NWVkODkxY2M4YTQw`
+Snapshot ID: `MCxiOWExZTg0ZWFiOWM3NDQ3YTJmYWM2NDcyNDAxNGMwYTVkZTI4YzY0`

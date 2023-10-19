@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT59aKliWtId.md) - [plain]
 
 > The highest quality alternative blend ft\. Madison Cunningham
 
-[Spotify](https://open.spotify.com/user/spotify) - 100,715 likes - 125 songs - 7 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 100,736 likes - 125 songs - 7 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT59aKliWtId.md) - [plain]
 | 124 | [Flowers in Your Hair](https://open.spotify.com/track/3r8tN8h34miJWeu5VuVzk3) | [Ben Goldsmith](https://open.spotify.com/artist/0PZ37cyRFUP9o9nCdfS8J8) | [Flowers in Your Hair](https://open.spotify.com/album/18jqHWp5uH00u051RM58zQ) | 3:47 |
 | 125 | [Haunted Mountain](https://open.spotify.com/track/45d44VPCRIW07tywccH8ii) | [Buck Meek](https://open.spotify.com/artist/4mYY0UqYdvgdz60psupYBR) | [Haunted Mountain](https://open.spotify.com/album/7acJeJoMsDIo1JdIBi4hRV) | 5:11 |
 
-Snapshot ID: `MCxmYmVlNmEyMDcxOWFkN2JmNTc0ZDlhODk1NWQxNWMxNzczMDg3Y2Q3`
+Snapshot ID: `MCw4ZGQyNDc5NWI0NGRlNGVhNzVmNTExOWVhMjU3NTFkZGRmZGEyY2Rk`

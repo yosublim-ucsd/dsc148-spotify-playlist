@@ -4,7 +4,7 @@
 
 > A hypnotic journey through Melodic Techno.
 
-353 songs - 1 day 6 hr 9 min
+354 songs - 1 day 6 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -133,6 +133,7 @@
 | [Head In The Ocean](https://open.spotify.com/track/77jAFxvaAYalxQsAjegc0i) | [FoundSound](https://open.spotify.com/artist/4kcQyzzr1khNtD4LhXmUBp) | [Head In The Ocean](https://open.spotify.com/album/4swIW4PM47efBmMIxm9oGa) | 4:04 | 2023-07-21 |  |
 | [Head Over \- Diode Eins & David Hasert Remix](https://open.spotify.com/track/4ow8LhtX2K6h54ZgGBIgJ4) | [Bondi](https://open.spotify.com/artist/0ZPxafqcgMv07OtNWFapKk), [Diode Eins](https://open.spotify.com/artist/6SDn6pAFOILXizOex6vrRr), [David Hasert](https://open.spotify.com/artist/5k3tGz3uryhQGnQryA2b6d) | [Head Over \(Diode Eins & David Hasert Remix\)](https://open.spotify.com/album/3VIgQXLAvIkhLx7USVsJlQ) | 5:54 | 2023-06-09 | 2023-07-09 |
 | [Hear you calling](https://open.spotify.com/track/7Lub88e9lun7Q4EsHm0HPW) | [Vintage Culture](https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts), [Coach Harrison](https://open.spotify.com/artist/40DuSzxFswBymk0cjFnuqL) | [Vintage Culture & Friends, Vol\. 5](https://open.spotify.com/album/14vFH39ZTdf5l5gciuKcxI) | 3:34 | 2023-05-12 |  |
+| [Hera \- Radio Edit](https://open.spotify.com/track/3vvI4AgjiuPerFxIkhLxXy) | [Space Motion](https://open.spotify.com/artist/1k7iyyK6j5IJzF0cUMcaGY) | [Hera](https://open.spotify.com/album/7zCZCLV0eO0TPCxl3iFobd) | 3:25 | 2023-10-13 |  |
 | [Herasphere](https://open.spotify.com/track/2Rfw4Uk6CWclegfJZXgNx0) | [Product of us](https://open.spotify.com/artist/3i96K8H7eWV10ieGS2I6w6) | [Herasphere](https://open.spotify.com/album/5PaHjPzBfVsLTNAuaywDhJ) | 3:46 | 2022-12-28 | 2023-01-06 |
 | [Here To There](https://open.spotify.com/track/3IXXrC5AFX7YWTbt39WHZn) | [Tal Fussman](https://open.spotify.com/artist/6kZ2X9nu0o6eFilCWtufPb) | [Here to There](https://open.spotify.com/album/7wReVYJJ4QR2gldrWDkzAJ) | 5:59 | 2022-11-24 | 2022-12-07 |
 | [Hidden Rumors \- Two Are Remix](https://open.spotify.com/track/7xkBKYnHHoY8dBlzEPbFjX) | [Sasho Derama](https://open.spotify.com/artist/0fR4ObUrtCv0JhegTL3fyF), [Evelynka](https://open.spotify.com/artist/2GfOeShdTYQziYC2HjP8PN), [Two Are](https://open.spotify.com/artist/3B5IcLPD64jPRgHsSnvHUD) | [Hidden Rumors](https://open.spotify.com/album/1eNRuJWsx6mm9tLaPppOU7) | 3:44 | 2022-12-28 | 2023-01-06 |
@@ -345,7 +346,7 @@
 | [Under Water](https://open.spotify.com/track/3ZEQt1VMyvTTQgkamnFEgy) | [Avis Vox](https://open.spotify.com/artist/0C7l2N7H3hTYb3ZGRD4BNc) | [Schneeweiss 14: Presented by Oliver Koletzki](https://open.spotify.com/album/58ROoz6HWISF9VQFO0qX15) | 5:57 | 2023-08-11 | 2023-09-02 |
 | [Urania](https://open.spotify.com/track/7CseRpXoi90Zv4Vyd7JQH4) | [Teenage Mutants](https://open.spotify.com/artist/3IFgjVPT8yeB4UnJCWOpZA), [Moonwalk](https://open.spotify.com/artist/1khyIydqanugacJyKdmceT) | [Urania](https://open.spotify.com/album/6HNtAXj6JDQbfQeKPzTcYR) | 7:25 | 2022-11-23 | 2022-11-29 |
 | [Variant](https://open.spotify.com/track/1pyU3Kumkerbf4lGOsQdtG) | [Zonderling](https://open.spotify.com/artist/0bMKf3lIYR9GaNTdFKkTOr) | [Variant](https://open.spotify.com/album/1K5offBi5sFYxwHzI18KRB) | 4:50 | 2023-05-31 | 2023-10-14 |
-| [VENTURE X](https://open.spotify.com/track/0mQtwNheJ0cYQa0gtHUNjf) | [Paul van Dyk](https://open.spotify.com/artist/7wU1naftD3lNq7rNsiDvOR), [Weekend Heroes](https://open.spotify.com/artist/0f38k6IM0q7Je0QihLXpD8), [Christian Schottstaedt](https://open.spotify.com/artist/0oGP4H2formfW2tlpVLR5s) | [VENTURE X](https://open.spotify.com/album/0AkfYq4M6Gvq1Bn6h8ZxBN) | 3:46 | 2023-01-27 |  |
+| [VENTURE X](https://open.spotify.com/track/0mQtwNheJ0cYQa0gtHUNjf) | [Paul van Dyk](https://open.spotify.com/artist/7wU1naftD3lNq7rNsiDvOR), [Weekend Heroes](https://open.spotify.com/artist/0f38k6IM0q7Je0QihLXpD8), [Christian Schottstaedt](https://open.spotify.com/artist/0oGP4H2formfW2tlpVLR5s) | [VENTURE X](https://open.spotify.com/album/0AkfYq4M6Gvq1Bn6h8ZxBN) | 3:46 | 2023-01-27 | 2023-10-19 |
 | [Virgo](https://open.spotify.com/track/1OgmO9reLha6OiQ8PwMCz7) | [Dyzen](https://open.spotify.com/artist/4iBwpHcklqLJMHgrTEHEYl), [Vomee](https://open.spotify.com/artist/7AoYKqkWmyz20OmuMC8OeS) | [Talisman](https://open.spotify.com/album/0Dnvoqw5glxqd4uVVDA0cy) | 7:54 | 2022-11-23 | 2022-12-13 |
 | [Vision](https://open.spotify.com/track/19lFvHpkfrYqRPmMikJkCc) | [Henri Bergmann](https://open.spotify.com/artist/1FiAkaEAyepvi57FmYvJqo) | [Interstellar VA](https://open.spotify.com/album/0zLp1X5Lu6SA5r9Ui9EWuS) | 5:36 | 2023-09-07 |  |
 | [Visions](https://open.spotify.com/track/5VIq3oZVMJHTweE1UWwnH7) | [Klanglos](https://open.spotify.com/artist/1jV311C5ADuBqCPpprsjUp) | [Visions](https://open.spotify.com/album/1D7pNSIEWuXR9hI0kKHWaZ) | 6:04 | 2023-02-04 | 2023-02-13 |

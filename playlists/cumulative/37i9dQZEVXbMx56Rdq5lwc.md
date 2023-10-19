@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Lithuania.
 
-1,337 songs - 3 day 1 hr 2 min
+1,338 songs - 3 day 1 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,6 +28,7 @@
 | [7am On Bridle Path](https://open.spotify.com/track/42m3eP1JJhtzffal9B136J) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Certified Lover Boy](https://open.spotify.com/album/3SpBlxme9WbeQdI9kx7KAV) | 3:59 | 2021-09-05 | 2021-09-06 |
 | [9 5 \. s o u t h](https://open.spotify.com/track/4GSBObGq3DuiKFlytKBbEw) | [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [The Off\-Season](https://open.spotify.com/album/7amgMBFiedsknMot03NgQ4) | 3:16 | 2021-05-16 | 2021-05-17 |
 | [9 Padangės](https://open.spotify.com/track/0iSy5nJYJ2o5vUiyyNxPNg) | [Karolina Meschino](https://open.spotify.com/artist/0EmTcVVfERPflXiBTySUmq) | [9 Padangės](https://open.spotify.com/album/0kRjurbPCj0oi0jjfgVsu7) | 2:34 | 2023-07-08 | 2023-07-13 |
+| [A Bit High](https://open.spotify.com/track/3CmeWai5fvSIvgOy8Nw6sc) | [NOT BAD BOY](https://open.spotify.com/artist/5FQ2t3fQMz2VU681aAZBHH) | [A Bit High](https://open.spotify.com/album/6M5DIlgWbuWTGKK3luf2ZP) | 2:50 | 2023-10-18 |  |
 | [A Holly Jolly Christmas](https://open.spotify.com/track/77khP2fIVhSW23NwxrRluh) | [Burl Ives](https://open.spotify.com/artist/0MHgLfmQdutffmvWe5XBTN) | [Have A Holly Jolly Christmas](https://open.spotify.com/album/6MvKUOSuPdfH0WLeQjR3eR) | 2:15 | 2021-12-24 | 2022-12-29 |
 | [A Lyga](https://open.spotify.com/track/3fo43dOoOAMvzLs1mu3rRV) | [Angelou](https://open.spotify.com/artist/1n6KR5r29Zj7X33Ey1pod0) | [FAZĖ](https://open.spotify.com/album/3hgpjeq03f1u4Ap1d8BMcI) | 2:53 | 2021-07-09 | 2021-08-10 |
 | [a m a r i](https://open.spotify.com/track/2cnKST6T9qUo2i907lm8zX) | [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [The Off\-Season](https://open.spotify.com/album/4JAvwK4APPArjIsOdGoJXX) | 2:28 | 2021-05-16 | 2021-05-22 |
@@ -415,8 +416,8 @@
 | [GOSSIP \(feat\. Tom Morello\)](https://open.spotify.com/track/44Xyja7xYPlVC6v2CeweSi) | [Måneskin](https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr), [Tom Morello](https://open.spotify.com/artist/74NBPbyyftqJ4SpDZ4c1Ed) | [RUSH!](https://open.spotify.com/album/2KUaR4K36tSliwAoUA1gcs) | 2:48 | 2023-01-21 | 2023-06-03 |
 | [GOSSIP \(feat\. Tom Morello\)](https://open.spotify.com/track/4GvPlSOKfN7aXEuGW8zKUx) | [Måneskin](https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr), [Tom Morello](https://open.spotify.com/artist/74NBPbyyftqJ4SpDZ4c1Ed) | [GOSSIP \(feat\. Tom Morello\)](https://open.spotify.com/album/6kHJE5xnpA6zncKOD70bS8) | 2:48 | 2023-01-15 | 2023-01-22 |
 | [Grapejuice](https://open.spotify.com/track/4j6kId9QIqhoXvqHKgSKa0) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Harry's House](https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h) | 3:11 | 2022-05-21 | 2022-06-03 |
-| [greedy](https://open.spotify.com/track/1reEeZH9wNt4z1ePYLyC7p) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [greedy](https://open.spotify.com/album/5TCVikuC7Npt0WOOWGxLs9) | 2:11 | 2023-10-14 |  |
-| [greedy](https://open.spotify.com/track/3rUGC1vUpkDG9CZFHMur1t) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [greedy](https://open.spotify.com/album/3UOV8XvCwMKaATRNXrYCjN) | 2:11 | 2023-09-16 | 2023-10-15 |
+| [greedy](https://open.spotify.com/track/1reEeZH9wNt4z1ePYLyC7p) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [greedy](https://open.spotify.com/album/5TCVikuC7Npt0WOOWGxLs9) | 2:11 | 2023-10-14 | 2023-10-19 |
+| [greedy](https://open.spotify.com/track/3rUGC1vUpkDG9CZFHMur1t) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [greedy](https://open.spotify.com/album/3UOV8XvCwMKaATRNXrYCjN) | 2:11 | 2023-09-16 |  |
 | [growing up is getting old \- Eurovision Version](https://open.spotify.com/track/6R6i1KOZjiPYLZ8dC0cUgd) | [VICTORIA](https://open.spotify.com/artist/21rgoGGMOSvl9RD6zeuOnq) | [growing up is getting old \(Eurovision Version\)](https://open.spotify.com/album/5R6zdpQ4MYdVKnxpeR3YxJ) | 3:08 | 2021-05-25 | 2021-05-26 |
 | [Grįšiu](https://open.spotify.com/track/0SCewo5K6t75DKRwrQrMVK) | [jautì](https://open.spotify.com/artist/1kfCwVVXg1E5gFZQPM152L), [Justinas Jarutis](https://open.spotify.com/artist/56OLtN2Eqc3fMT40ehCj5d) | [Grįšiu](https://open.spotify.com/album/3pSB7Ao6zU7jr0tiLCbYTb) | 2:34 | 2022-09-05 | 2022-09-07 |
 | [Grįšiu](https://open.spotify.com/track/7tavcxKMArAfiFc8Wf2aI3) | [jautì](https://open.spotify.com/artist/1kfCwVVXg1E5gFZQPM152L), [Justinas Jarutis](https://open.spotify.com/artist/56OLtN2Eqc3fMT40ehCj5d) | [Meilė](https://open.spotify.com/album/7F9V8XJuvohR0MCuZYzz5a) | 2:34 | 2022-04-26 | 2022-04-30 |
@@ -1083,7 +1084,7 @@
 | [Sprinter](https://open.spotify.com/track/2FDTHlrBguDzQkp7PVj16Q) | [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK), [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [Sprinter](https://open.spotify.com/album/5l0QlaI3wdZpE7ggoO5Rwg) | 3:49 | 2023-06-03 |  |
 | [sr xoxo](https://open.spotify.com/track/3vJFK0BEoiTCF6AuAabrBi) | [dj nevykele](https://open.spotify.com/artist/6tGEkrJVnC6SCjEbNhikSg) | [OŽKA](https://open.spotify.com/album/0NRRBv2yjlSUgjhKdkyTc5) | 2:11 | 2023-06-06 | 2023-06-11 |
 | [Stabiliau](https://open.spotify.com/track/17bZxSmRjn2HF3EX4jHcob) | [OG Version](https://open.spotify.com/artist/0Y2zzjMum7MSOCvI0GNbv5) | [Stabiliau](https://open.spotify.com/album/3GN2Q6CgVYMel7VeNk3VTn) | 2:38 | 2021-04-04 | 2021-05-13 |
-| [Stadionai](https://open.spotify.com/track/2JtsIAfAu4PFyjlk17Hg3M) | [Jessica Shy](https://open.spotify.com/artist/0CinAWYkte8opxVAPI3nMu), [Rokas](https://open.spotify.com/artist/17IHT4KW6k85SHKiSAssQt) | [Stadionai](https://open.spotify.com/album/0mvlCZJYaEuJOjI3MsiJ4n) | 3:14 | 2022-06-12 |  |
+| [Stadionai](https://open.spotify.com/track/2JtsIAfAu4PFyjlk17Hg3M) | [Jessica Shy](https://open.spotify.com/artist/0CinAWYkte8opxVAPI3nMu), [Rokas](https://open.spotify.com/artist/17IHT4KW6k85SHKiSAssQt) | [Stadionai](https://open.spotify.com/album/0mvlCZJYaEuJOjI3MsiJ4n) | 3:14 | 2022-06-12 | 2023-10-19 |
 | [STAR WALKIN' \(League of Legends Worlds Anthem\)](https://open.spotify.com/track/38T0tPVZHcPZyhtOcCP7pF) | [Lil Nas X](https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq) | [STAR WALKIN' \(League of Legends Worlds Anthem\)](https://open.spotify.com/album/0aIy6J8M9yHTnjtRu81Nr9) | 3:30 | 2022-09-24 | 2022-10-23 |
 | [Starboy](https://open.spotify.com/track/7MXVkk9YMctZqd1Srtv4MB) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [Daft Punk](https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi) | [Starboy](https://open.spotify.com/album/2ODvWsOgouMbaA5xf0RkJe) | 3:50 | 2022-12-02 | 2023-10-02 |
 | [Stargirl Interlude](https://open.spotify.com/track/5gDWsRxpJ2lZAffh5p7K0w) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Starboy](https://open.spotify.com/album/4AdZV63ycxFLF6Hcol0QnB) | 1:51 | 2022-07-19 |  |

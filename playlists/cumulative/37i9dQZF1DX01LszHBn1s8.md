@@ -4,7 +4,7 @@
 
 > it's officially october and you know what that means......\. 🍁
 
-1,248 songs - 2 day 17 hr 24 min
+1,249 songs - 2 day 17 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -426,7 +426,7 @@
 | [GOOD LOYAL THOTS](https://open.spotify.com/track/06tNJ27nVxbDwhiQMChWyr) | [Odetari](https://open.spotify.com/artist/7ITMCzIU9uII8gwRg8JAhc) | [GOOD LOYAL THOTS](https://open.spotify.com/album/0uj4fkv8FHhc7sZyxMnAAw) | 1:42 | 2023-06-15 |  |
 | [GOOD LOYAL THOTS](https://open.spotify.com/track/6PadQidABni2peo3kYKW0M) | [Odetari](https://open.spotify.com/artist/7ITMCzIU9uII8gwRg8JAhc) | [GOOD LOYAL THOTS](https://open.spotify.com/album/0x4bB3gflkfs2teiVIJ5t5) | 1:42 | 2023-05-11 | 2023-06-17 |
 | [Goodbye](https://open.spotify.com/track/5b6enCVP67LsqqrfTs6rxr) | [Mimi Webb](https://open.spotify.com/artist/3GxKJzJK4LpsYGXQrw77wz) | [Goodbye](https://open.spotify.com/album/58Xvw6spiAwJygmEi6iQC7) | 3:04 | 2022-05-26 |  |
-| [greedy](https://open.spotify.com/track/3rUGC1vUpkDG9CZFHMur1t) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [greedy](https://open.spotify.com/album/3UOV8XvCwMKaATRNXrYCjN) | 2:11 | 2023-09-20 |  |
+| [greedy](https://open.spotify.com/track/3rUGC1vUpkDG9CZFHMur1t) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [greedy](https://open.spotify.com/album/3UOV8XvCwMKaATRNXrYCjN) | 2:11 | 2023-09-20 | 2023-10-19 |
 | [Green Green Grass](https://open.spotify.com/track/4N5s8lPTsjI9EGP7K4SXzB) | [George Ezra](https://open.spotify.com/artist/2ysnwxxNtSgbb9t1m2Ur4j) | [Gold Rush Kid](https://open.spotify.com/album/5RaDlk1pjOFSfcGDurH62z) | 2:47 | 2023-01-30 |  |
 | [Growing Sideways](https://open.spotify.com/track/1JcIXOir94YUYBt2cXTzn2) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [Stick Season](https://open.spotify.com/album/50ZenUP4O2Q5eCy2NRNvuz) | 4:15 | 2022-10-13 | 2022-10-22 |
 | [GROWING UP IS \_\_\_\_\_](https://open.spotify.com/track/2wJ1eOCIBwoQiN7xQtrTAY) | [Ruel](https://open.spotify.com/artist/5xkAtLTf309LAGZTbvULBn) | [GROWING UP IS \_\_\_\_\_](https://open.spotify.com/album/64Bbgt3PPLVVnsYN4GeTo6) | 3:53 | 2022-05-19 |  |
@@ -833,7 +833,7 @@
 | [One Margarita \(Margarita Song\)](https://open.spotify.com/track/5YXLjznHYr6US2UN54AjRD) | [That Chick Angel](https://open.spotify.com/artist/3qhkjSaDQrlZVAg0hvVYfh), [Casa Di](https://open.spotify.com/artist/1yFh88WSoMOObwLi5GUwRp), [Steve Terrell](https://open.spotify.com/artist/0gmg6AYgqIGfQ0dVyr951p) | [One Margarita \(Margarita Song\)](https://open.spotify.com/album/5QYYGCtwz22XiUzuH1mA4G) | 1:59 | 2023-06-15 | 2023-07-20 |
 | [One More Hour](https://open.spotify.com/track/0mO6oS60RST2sWmN2FKknP) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [The Slow Rush](https://open.spotify.com/album/31qVWUdRrlb8thMvts0yYL) | 7:12 | 2022-07-04 |  |
 | [One of the Guys](https://open.spotify.com/track/4jXEvctpjLM9moyDwG8SGp) | [JESSIA](https://open.spotify.com/artist/6DdbeAeBlrYj8bNToZv4TY) | [One of the Guys](https://open.spotify.com/album/3PMqsg6TJ2AaTCA00Y7Sjb) | 1:58 | 2022-09-01 |  |
-| [One Of Your Girls](https://open.spotify.com/track/5Eh1nj7IjV9lwpcKAkidyY) | [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP) | [Something To Give Each Other](https://open.spotify.com/album/5UcGyEltve5psjxSRsHx8E) | 3:01 | 2023-10-17 |  |
+| [One Of Your Girls](https://open.spotify.com/track/5Eh1nj7IjV9lwpcKAkidyY) | [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP) | [Something To Give Each Other](https://open.spotify.com/album/5UcGyEltve5psjxSRsHx8E) | 3:01 | 2023-10-17 | 2023-10-19 |
 | [Only Love Can Hurt Like This](https://open.spotify.com/track/62ke5zFUJN6RvtXZgVH0F8) | [Paloma Faith](https://open.spotify.com/artist/4fwuXg6XQHfdlOdmw36OHa) | [A Perfect Contradiction \(Outsiders' Expanded Edition\)](https://open.spotify.com/album/3jRG3qOfsSSW3SBdeBiIfC) | 3:52 | 2022-05-19 |  |
 | [Only Love Can Hurt Like This \- Sped Up Version](https://open.spotify.com/track/6SCJiS8fAWC5VzRpMEiHxV) | [Paloma Faith](https://open.spotify.com/artist/4fwuXg6XQHfdlOdmw36OHa), [sped up + slowed](https://open.spotify.com/artist/2FRfJyV85zb19tO6uiXBGl) | [Only Love Can Hurt Like This \(Sped Up Version\)](https://open.spotify.com/album/4n584qCBn2N7MDkjPX6Cs8) | 2:45 | 2022-08-04 |  |
 | [Open Arms \(feat\. Travis Scott\)](https://open.spotify.com/track/0xaFw2zDYf1rIJWl2dXiSF) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [SOS](https://open.spotify.com/album/07w0rG5TETcyihsEIZR3qG) | 3:59 | 2023-04-27 |  |
@@ -913,8 +913,9 @@
 | [Remember \- Acoustic](https://open.spotify.com/track/5aXfGM7WVcqyAvqnL7k0y3) | [Becky Hill](https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK) | [Remember \(Acoustic\)](https://open.spotify.com/album/6tMWod3p4ojBLD8g2KzhtM) | 2:58 | 2022-05-19 |  |
 | [Remember \- Acoustic / Sped Up](https://open.spotify.com/track/0vwF1PVvU7EJpKKGRDgdaQ) | [Becky Hill](https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK), [Speed Radio](https://open.spotify.com/artist/1YzaVDzA3EdEipDSUeNQER), [xxtristanxo](https://open.spotify.com/artist/4kBCXTJBl1aY9pDHONsjfr) | [Remember \(Versions\)](https://open.spotify.com/album/1W4wUg63K4DeYuXSfp8YDC) | 2:34 | 2022-11-16 |  |
 | [Remember me Happy](https://open.spotify.com/track/6LmgJRJKksk4FlSWBBLWpw) | [Alex Warren](https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB) | [Remember me Happy](https://open.spotify.com/album/1mtobYhOLhqQzk9V5zSxKj) | 2:21 | 2022-05-19 |  |
+| [Renegade \(Slowed + Reverb\)](https://open.spotify.com/track/04oETo69jP5j6Fs38t3rJV) | [Aaryan Shah](https://open.spotify.com/artist/4RzbexUO843fc5SLqKEQCr) | [The Arrival: Part I \(Slowed + Reverb\)](https://open.spotify.com/album/5iM9OEkJtQMUTWVLS7CiDA) | 4:39 | 2023-09-28 |  |
 | [Renegade \(Slowed + Reverb\)](https://open.spotify.com/track/7lCu7IgWLKeHBGcTR4HfgX) | [Aaryan Shah](https://open.spotify.com/artist/4RzbexUO843fc5SLqKEQCr) | [The Arrival: Part I \(Slowed + Reverb\)](https://open.spotify.com/album/4hGbyUnXkhjeGdzecA25H0) | 4:39 | 2022-05-19 | 2022-12-03 |
-| [Renegade \- \(Slowed + Reverb\)](https://open.spotify.com/track/0hAoRx9cc7pcsqfE2BpF9Y) | [Aaryan Shah](https://open.spotify.com/artist/4RzbexUO843fc5SLqKEQCr) | [The Arrival: Part I \(Slowed + Reverb\)](https://open.spotify.com/album/015uRkdgy09DokRKmz0Scg) | 4:39 | 2023-02-09 |  |
+| [Renegade \- \(Slowed + Reverb\)](https://open.spotify.com/track/0hAoRx9cc7pcsqfE2BpF9Y) | [Aaryan Shah](https://open.spotify.com/artist/4RzbexUO843fc5SLqKEQCr) | [The Arrival: Part I \(Slowed + Reverb\)](https://open.spotify.com/album/015uRkdgy09DokRKmz0Scg) | 4:39 | 2023-02-09 | 2023-10-19 |
 | [Renegade \- \(Slowed + Reverb\)](https://open.spotify.com/track/5S74BaKFC7ELNsuhxzoPn4) | [Aaryan Shah](https://open.spotify.com/artist/4RzbexUO843fc5SLqKEQCr) | [The Arrival: Part I \(Slowed + Reverb\)](https://open.spotify.com/album/7e9NQmhOTt71S59d5NC5Zi) | 4:39 | 2022-12-01 | 2023-02-15 |
 | [Resonance](https://open.spotify.com/track/65r94rVdiMwqXyQFEr3tqT) | [Home](https://open.spotify.com/artist/2exebQUDoIoT0dXA8BcN1P) | [Odyssey](https://open.spotify.com/album/3FZtDulD5KUnIxA9dM1v5M) | 3:32 | 2023-03-17 |  |
 | [Revenge](https://open.spotify.com/track/5TXDeTFVRVY7Cvt0Dw4vWW) | [XXXTENTACION](https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4) | [17](https://open.spotify.com/album/5VdyJkLe3yvOs0l4xXbWp0) | 2:00 | 2022-05-19 |  |

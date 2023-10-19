@@ -1,6 +1,6 @@
 {
   "description": "Pop hits in the making! Cover: Lauren Spencer Smith",
-  "num_followers": 289789,
+  "num_followers": 289705,
   "original_name": "Get Popped!",
   "owner": {
     "name": "Spotify",
@@ -291,8 +291,28 @@
     {
       "added_at": "2023-10-13 00:13:07",
       "album": {
-        "name": "Got Me Started",
-        "url": "https://open.spotify.com/album/4jR16WUQrwoU73Sw3RBt26"
+        "name": "Pretty Girl (with Rema)",
+        "url": "https://open.spotify.com/album/4IjqbyZZsfaNHnxV92CFuH"
+      },
+      "artists": [
+        {
+          "name": "Ice Spice",
+          "url": "https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf"
+        },
+        {
+          "name": "Rema",
+          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
+        }
+      ],
+      "duration_ms": 137907,
+      "name": "Pretty Girl (with Rema)",
+      "url": "https://open.spotify.com/track/1p5GikXPiCkw5T2VrSPrO1"
+    },
+    {
+      "added_at": "2023-10-13 00:13:07",
+      "album": {
+        "name": "Something To Give Each Other",
+        "url": "https://open.spotify.com/album/5UcGyEltve5psjxSRsHx8E"
       },
       "artists": [
         {
@@ -302,7 +322,23 @@
       ],
       "duration_ms": 198448,
       "name": "Got Me Started",
-      "url": "https://open.spotify.com/track/2Rn2ocU7jk8BqFoh6zwf1Y"
+      "url": "https://open.spotify.com/track/31MNHKE86sEXzIglbGQ6mu"
+    },
+    {
+      "added_at": "2023-10-13 00:13:07",
+      "album": {
+        "name": "nadie sabe lo que va a pasar ma\u00f1ana",
+        "url": "https://open.spotify.com/album/4FftCsAcXXD1nFO9RFUNFO"
+      },
+      "artists": [
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        }
+      ],
+      "duration_ms": 267194,
+      "name": "MONACO",
+      "url": "https://open.spotify.com/track/4MjDJD8cW7iVeWInc2Bdyj"
     },
     {
       "added_at": "2023-10-13 00:13:07",
@@ -519,22 +555,6 @@
       "duration_ms": 163392,
       "name": "With You",
       "url": "https://open.spotify.com/track/44KmuZ16Pj6t9vCenzwxxa"
-    },
-    {
-      "added_at": "2023-10-13 00:13:07",
-      "album": {
-        "name": "greedy",
-        "url": "https://open.spotify.com/album/3UOV8XvCwMKaATRNXrYCjN"
-      },
-      "artists": [
-        {
-          "name": "Tate McRae",
-          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
-        }
-      ],
-      "duration_ms": 131872,
-      "name": "greedy",
-      "url": "https://open.spotify.com/track/3rUGC1vUpkDG9CZFHMur1t"
     },
     {
       "added_at": "2023-10-13 00:13:07",
@@ -1431,8 +1451,8 @@
     {
       "added_at": "2023-10-13 00:13:07",
       "album": {
-        "name": "Rush",
-        "url": "https://open.spotify.com/album/35N2XoH2rveqI5FAB30HSf"
+        "name": "Something To Give Each Other",
+        "url": "https://open.spotify.com/album/5UcGyEltve5psjxSRsHx8E"
       },
       "artists": [
         {
@@ -1442,7 +1462,7 @@
       ],
       "duration_ms": 156391,
       "name": "Rush",
-      "url": "https://open.spotify.com/track/3xIMkM5LgbVDkpO74O3Np3"
+      "url": "https://open.spotify.com/track/4ZnkygoWLzcGbQYCm3lkae"
     },
     {
       "added_at": "2023-10-13 00:13:07",

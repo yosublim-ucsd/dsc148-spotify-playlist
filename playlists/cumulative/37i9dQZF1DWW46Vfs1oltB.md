@@ -2,9 +2,9 @@
 
 ### [KrOWN](https://open.spotify.com/playlist/37i9dQZF1DWW46Vfs1oltB)
 
-> The fresh & hottest K\-Hip hop tracks\. \(Cover:BOBBY\)
+> The fresh & hottest K\-Hip hop tracks\. \(Cover:Dabin\)
 
-1,005 songs - 2 day 7 hr 11 min
+1,006 songs - 2 day 7 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -890,6 +890,7 @@
 | [Thursday Night](https://open.spotify.com/track/35RJJaoJr1Bqjj6VpbbSqY) | [Heo Daniel](https://open.spotify.com/artist/7rm9HHTVczNfUIXiKdLK8m) | [Hideournight](https://open.spotify.com/album/6Re11JZ1ikN625JT2KyNgh) | 2:45 | 2022-02-08 | 2022-06-30 |
 | [Tikita \(feat\. lIlBOI\)](https://open.spotify.com/track/3lcLgImrQkglTgI8Fm5x5X) | [Mirani](https://open.spotify.com/artist/6N7b9mUVwn885jI7RRg8no), [lIlBOI](https://open.spotify.com/artist/25wMXkplvEHJpJHX8A6Ved) | [UPTOWN GIRL](https://open.spotify.com/album/3dQM10yLtVuA2eWDLePqLV) | 3:07 | 2021-12-18 | 2022-07-07 |
 | [TikiTaka](https://open.spotify.com/track/2l7LuP74607k2A1m2hazN4) | [99' Nasty Kidz](https://open.spotify.com/artist/4tg3yil6hmZM8xe5wz7rh5) | [THE:RISE 5 with Baund](https://open.spotify.com/album/0u5wY8PVDFTQdBMMx2sMrB) | 3:04 | 2023-03-06 | 2023-04-19 |
+| [Till I Live](https://open.spotify.com/track/41QtqULXM34zXfPkM88Rwm) | [Dabin](https://open.spotify.com/artist/5xyPRB5a4OkeJrj4vLXKvi) | [Till I Live](https://open.spotify.com/album/7uZSZnFHoZIGYA5eN9nLbH) | 4:28 | 2023-10-18 |  |
 | [Time Will Tell](https://open.spotify.com/track/3kCpImnMl45TgFHAsi5e5a) | [Xbf](https://open.spotify.com/artist/61qs4x1f4a7FfV3Yqr7LW0) | [Time Will Tell](https://open.spotify.com/album/7xAFMrJ5IA2Ay5dH0zT0qa) | 3:53 | 2021-12-21 | 2022-07-05 |
 | [Timing \(Feat\. Yumdda, BIG Naughty\) \(Prod\. TOIL\)](https://open.spotify.com/track/1qHYc2IqPbfu3tjm2qYpcq) | [KOONTA](https://open.spotify.com/artist/5T8LKv9A1vEnwMCO4dMo3c), [YUMDDA](https://open.spotify.com/artist/0su5mZ6qhvOUhz7ckEx8rR), [BIG Naughty](https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal) | [Show Me The Money 10 Final](https://open.spotify.com/album/34uVbKk2EOXlPMAeBo3Qio) | 4:30 | 2021-12-21 | 2022-06-16 |
 | [TIPSY](https://open.spotify.com/track/6DB2B0oxQTHdV6Q5j7uxRV) | [pH\-1](https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W) | [BUT FOR NOW LEAVE ME ALONE](https://open.spotify.com/album/5HUdhu9p2kVPQ8g56woOQn) | 3:20 | 2022-09-16 | 2023-01-04 |

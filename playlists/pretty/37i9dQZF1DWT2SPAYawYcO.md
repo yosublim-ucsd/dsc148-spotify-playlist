@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2SPAYawYcO.md) - [plain]
 
 > The best new songs of the week! Cover: Troye Sivan
 
-[Spotify](https://open.spotify.com/user/spotify) - 365,833 likes - 91 songs - 4 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 365,869 likes - 91 songs - 4 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -100,4 +100,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2SPAYawYcO.md) - [plain]
 | 90 | [HEART](https://open.spotify.com/track/0qcWNLOp0T8IS3ZccEqNgi) | [Zion Garcia](https://open.spotify.com/artist/3CAMrIAp5DB3k5HS8lXowX) | [ZION GARCIA: \(THEATRICAL VERSION\)](https://open.spotify.com/album/6twUb228BnCcVwEgSnRFhF) | 2:51 |
 | 91 | [Eternally Hateful](https://open.spotify.com/track/0P1Is8b7cnz8vvEudg9mek) | [Kirin J Callinan](https://open.spotify.com/artist/16y7sGO0GJMVHDFgj9MNcd) | [Eternally Hateful](https://open.spotify.com/album/4HZb1gi6dnVtCzQvd0ZjZD) | 3:45 |
 
-Snapshot ID: `MCxlZDRjNWU3ZTdiYjIwNjUwYzI3Y2YyMzNjMGVkOGNjMGZiMDZiMmI5`
+Snapshot ID: `MCxmMWFlNzVkZGZmMmE1Yzg3MjQyOWZhMzY1NDRkZWRlMmQ3NDhiZjRl`

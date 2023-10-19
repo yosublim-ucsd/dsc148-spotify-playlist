@@ -1,12 +1,12 @@
 {
   "description": "Uptempo jazz classics.",
-  "num_followers": 17840,
+  "num_followers": 17915,
   "original_name": "Upbeat Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzOTliZGI4NWU1NzQzMTlhNDk3MzY1ODFmYjkyOTg1MmM3ZjkyMDc3",
+  "snapshot_id": "MCw3NzMzNGZhZTgyNGJiZjNhNDRkZWQ4NWUwN2U3NTkyNzVkOGU0YTMw",
   "tracks": [
     {
       "added_at": "2023-10-12 11:27:50",
@@ -379,22 +379,6 @@
     {
       "added_at": "2023-10-12 11:27:50",
       "album": {
-        "name": "Afro-Cuban (Rudy Van Gelder Edition)",
-        "url": "https://open.spotify.com/album/6sfAnBHbBbI8Z4NEDpXycZ"
-      },
-      "artists": [
-        {
-          "name": "Kenny Dorham",
-          "url": "https://open.spotify.com/artist/2fMvylhnE23sAlyePKK8er"
-        }
-      ],
-      "duration_ms": 267773,
-      "name": "Minors Holiday - Rudy Van Gelder Edition/2007 Digital Remaster",
-      "url": "https://open.spotify.com/track/5qJqCjCm0ietTlLcEsoV2x"
-    },
-    {
-      "added_at": "2023-10-12 11:27:50",
-      "album": {
         "name": "The Genius Of Charlie Parker",
         "url": "https://open.spotify.com/album/7gLP8EvsusOiFKu0G2yjzQ"
       },
@@ -407,6 +391,22 @@
       "duration_ms": 182160,
       "name": "Ornithology",
       "url": "https://open.spotify.com/track/14R3YZutaJKFLGDEl9R1bJ"
+    },
+    {
+      "added_at": "2023-10-12 11:27:50",
+      "album": {
+        "name": "Afro-Cuban (Rudy Van Gelder Edition)",
+        "url": "https://open.spotify.com/album/6sfAnBHbBbI8Z4NEDpXycZ"
+      },
+      "artists": [
+        {
+          "name": "Kenny Dorham",
+          "url": "https://open.spotify.com/artist/2fMvylhnE23sAlyePKK8er"
+        }
+      ],
+      "duration_ms": 267773,
+      "name": "Minors Holiday - Rudy Van Gelder Edition/2007 Digital Remaster",
+      "url": "https://open.spotify.com/track/5qJqCjCm0ietTlLcEsoV2x"
     },
     {
       "added_at": "2023-10-12 11:27:50",
@@ -459,6 +459,22 @@
     {
       "added_at": "2023-10-12 11:27:50",
       "album": {
+        "name": "Empyrean Isles (Expanded Edition)",
+        "url": "https://open.spotify.com/album/5HCi1WVOT9SGks2deeceFu"
+      },
+      "artists": [
+        {
+          "name": "Herbie Hancock",
+          "url": "https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW"
+        }
+      ],
+      "duration_ms": 441386,
+      "name": "One Finger Snap - Remastered",
+      "url": "https://open.spotify.com/track/20jyBVnGtIVFXvnwASe6LT"
+    },
+    {
+      "added_at": "2023-10-12 11:27:50",
+      "album": {
         "name": "Clifford Brown And Max Roach",
         "url": "https://open.spotify.com/album/2EKn6vs5MXWjMubeBhqgKG"
       },
@@ -475,22 +491,6 @@
       "duration_ms": 414266,
       "name": "The Blues Walk",
       "url": "https://open.spotify.com/track/10pXPSiE2qtzLMyeic3Vdm"
-    },
-    {
-      "added_at": "2023-10-12 11:27:50",
-      "album": {
-        "name": "Empyrean Isles (Expanded Edition)",
-        "url": "https://open.spotify.com/album/5HCi1WVOT9SGks2deeceFu"
-      },
-      "artists": [
-        {
-          "name": "Herbie Hancock",
-          "url": "https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW"
-        }
-      ],
-      "duration_ms": 441386,
-      "name": "One Finger Snap - Remastered",
-      "url": "https://open.spotify.com/track/20jyBVnGtIVFXvnwASe6LT"
     },
     {
       "added_at": "2023-10-12 11:27:50",
@@ -847,42 +847,6 @@
     {
       "added_at": "2023-10-12 11:27:50",
       "album": {
-        "name": "Kenny Burrell & John Coltrane",
-        "url": "https://open.spotify.com/album/4BZcEZub79xqoEJwtVNQoY"
-      },
-      "artists": [
-        {
-          "name": "Kenny Burrell",
-          "url": "https://open.spotify.com/artist/1sdyFmN4bVOcuFDpTVsxBB"
-        },
-        {
-          "name": "John Coltrane",
-          "url": "https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf"
-        }
-      ],
-      "duration_ms": 439013,
-      "name": "Freight Trane",
-      "url": "https://open.spotify.com/track/67lao4uXu1p8rdpn9ActTg"
-    },
-    {
-      "added_at": "2023-10-12 11:27:50",
-      "album": {
-        "name": "Giant Steps (60th Anniversary Super Deluxe Edition) [2020 Remaster]",
-        "url": "https://open.spotify.com/album/4jTDjHLMFCHWrjuP1qmCf4"
-      },
-      "artists": [
-        {
-          "name": "John Coltrane",
-          "url": "https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf"
-        }
-      ],
-      "duration_ms": 417445,
-      "name": "Mr. P.C. - 2020 Remaster",
-      "url": "https://open.spotify.com/track/0DWU6lDxGXt555jdXRUPuz"
-    },
-    {
-      "added_at": "2023-10-12 11:27:50",
-      "album": {
         "name": "Ken Burns Jazz: The Definitive Dizzy Gillespie",
         "url": "https://open.spotify.com/album/5d5lbciRoWO4WdlSbJQVer"
       },
@@ -903,6 +867,42 @@
       "duration_ms": 853266,
       "name": "The Eternal Triangle",
       "url": "https://open.spotify.com/track/68cLT7rcwLt6dW3qBxJUlD"
+    },
+    {
+      "added_at": "2023-10-12 11:27:50",
+      "album": {
+        "name": "Giant Steps (60th Anniversary Super Deluxe Edition) [2020 Remaster]",
+        "url": "https://open.spotify.com/album/4jTDjHLMFCHWrjuP1qmCf4"
+      },
+      "artists": [
+        {
+          "name": "John Coltrane",
+          "url": "https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf"
+        }
+      ],
+      "duration_ms": 417445,
+      "name": "Mr. P.C. - 2020 Remaster",
+      "url": "https://open.spotify.com/track/0DWU6lDxGXt555jdXRUPuz"
+    },
+    {
+      "added_at": "2023-10-12 11:27:50",
+      "album": {
+        "name": "Kenny Burrell & John Coltrane",
+        "url": "https://open.spotify.com/album/4BZcEZub79xqoEJwtVNQoY"
+      },
+      "artists": [
+        {
+          "name": "Kenny Burrell",
+          "url": "https://open.spotify.com/artist/1sdyFmN4bVOcuFDpTVsxBB"
+        },
+        {
+          "name": "John Coltrane",
+          "url": "https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf"
+        }
+      ],
+      "duration_ms": 439013,
+      "name": "Freight Trane",
+      "url": "https://open.spotify.com/track/67lao4uXu1p8rdpn9ActTg"
     },
     {
       "added_at": "2023-10-12 11:27:50",
@@ -1027,22 +1027,6 @@
     {
       "added_at": "2023-10-12 11:27:50",
       "album": {
-        "name": "Sonny Clark Trio (Remastered 2001/Rudy Van Gelder Edition)",
-        "url": "https://open.spotify.com/album/0dSFSlppCQph48h0RE52iH"
-      },
-      "artists": [
-        {
-          "name": "Sonny Clark Trio",
-          "url": "https://open.spotify.com/artist/7CZmsRaJUmKd1tGyfveLGw"
-        }
-      ],
-      "duration_ms": 594040,
-      "name": "Be-Bop - Remastered 2001/Rudy Van Gelder Edition",
-      "url": "https://open.spotify.com/track/0RiMzV6y8RkOoVNBcMyvZx"
-    },
-    {
-      "added_at": "2023-10-12 11:27:50",
-      "album": {
         "name": "No Room For Squares (Remastered 2000 / Rudy Van Gelder Edition)",
         "url": "https://open.spotify.com/album/3qer0IWDm6mSLUJy4ji0Oi"
       },
@@ -1055,6 +1039,22 @@
       "duration_ms": 469813,
       "name": "Three Way Split - Remastered 2000 / Rudy Van Gelder Edition",
       "url": "https://open.spotify.com/track/105krPHiFcjggw4XSN0M0b"
+    },
+    {
+      "added_at": "2023-10-12 11:27:50",
+      "album": {
+        "name": "Sonny Clark Trio (Remastered 2001/Rudy Van Gelder Edition)",
+        "url": "https://open.spotify.com/album/0dSFSlppCQph48h0RE52iH"
+      },
+      "artists": [
+        {
+          "name": "Sonny Clark Trio",
+          "url": "https://open.spotify.com/artist/7CZmsRaJUmKd1tGyfveLGw"
+        }
+      ],
+      "duration_ms": 594040,
+      "name": "Be-Bop - Remastered 2001/Rudy Van Gelder Edition",
+      "url": "https://open.spotify.com/track/0RiMzV6y8RkOoVNBcMyvZx"
     },
     {
       "added_at": "2023-10-12 11:27:50",
@@ -1107,18 +1107,18 @@
     {
       "added_at": "2023-10-12 11:27:50",
       "album": {
-        "name": "A Modern Symposium of Music and Poetry (Remastered 2013)",
-        "url": "https://open.spotify.com/album/122JFn10LK4Mpzp8yqIdhO"
+        "name": "Roll Call",
+        "url": "https://open.spotify.com/album/2wXfYEZKGQlfy2hKZbwtU7"
       },
       "artists": [
         {
-          "name": "Charles Mingus",
-          "url": "https://open.spotify.com/artist/1W8TbFzNS15VwsempfY12H"
+          "name": "Hank Mobley",
+          "url": "https://open.spotify.com/artist/5cbutZUQE7SUCA6MsEMbBv"
         }
       ],
-      "duration_ms": 208030,
-      "name": "Slippers",
-      "url": "https://open.spotify.com/track/2l9HtErDh1gZfnyjeBk9NT"
+      "duration_ms": 633826,
+      "name": "Roll Call - Rudy Van Gelder Edition",
+      "url": "https://open.spotify.com/track/1niBlhuYWv5D52E1z8PrmI"
     },
     {
       "added_at": "2023-10-12 11:27:50",

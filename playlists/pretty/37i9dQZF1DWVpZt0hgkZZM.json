@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Pasad\u00eda y sabrosura!",
-  "num_followers": 23885,
+  "num_followers": 23909,
   "original_name": "\u00c9xitos de Balneario",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5MDE3YjA1ZmNhM2E5MzFmZGIyN2JiNWZiM2I1YTkxNjkwMzJkMWI0",
+  "snapshot_id": "MCwxNmI4ZDYxZTk2MWVhN2IyMDA2ODc3MGM1NDJmYTdhMmVjNTBjZmM0",
   "tracks": [
     {
       "added_at": "2021-12-16 22:41:17",
@@ -275,22 +275,6 @@
     {
       "added_at": "2021-12-16 22:41:17",
       "album": {
-        "name": "El Hombre Mas Famoso De La Tierra",
-        "url": "https://open.spotify.com/album/59IdVahjfUKyRxPcGiAp98"
-      },
-      "artists": [
-        {
-          "name": "Fulanito",
-          "url": "https://open.spotify.com/artist/0hD97064k3LBUrRvfT42SE"
-        }
-      ],
-      "duration_ms": 205333,
-      "name": "Guallando",
-      "url": "https://open.spotify.com/track/4jRxEVNituPZObHbCSBZL3"
-    },
-    {
-      "added_at": "2021-12-16 22:41:17",
-      "album": {
         "name": "Disco Arranhado (Funk Remix)",
         "url": "https://open.spotify.com/album/75ag5dnwFHBqQ3XB9l5fZg"
       },
@@ -307,6 +291,22 @@
       "duration_ms": 125560,
       "name": "Disco Arranhado - Funk Remix",
       "url": "https://open.spotify.com/track/3SI736Mng30L5ZTpGEhKEr"
+    },
+    {
+      "added_at": "2021-12-16 22:41:17",
+      "album": {
+        "name": "El Hombre Mas Famoso De La Tierra",
+        "url": "https://open.spotify.com/album/59IdVahjfUKyRxPcGiAp98"
+      },
+      "artists": [
+        {
+          "name": "Fulanito",
+          "url": "https://open.spotify.com/artist/0hD97064k3LBUrRvfT42SE"
+        }
+      ],
+      "duration_ms": 205333,
+      "name": "Guallando",
+      "url": "https://open.spotify.com/track/4jRxEVNituPZObHbCSBZL3"
     },
     {
       "added_at": "2021-12-16 22:41:17",
@@ -1223,6 +1223,22 @@
     {
       "added_at": "2021-12-16 22:41:17",
       "album": {
+        "name": "63 A\u00f1os de Vida Art\u00edstica",
+        "url": "https://open.spotify.com/album/2mTUZfmlvLfB9T04w1Z3F5"
+      },
+      "artists": [
+        {
+          "name": "Lisandro Meza",
+          "url": "https://open.spotify.com/artist/2iewjNvcxTxH8Pyi7S0KF3"
+        }
+      ],
+      "duration_ms": 240039,
+      "name": "El Hijo de Tuta",
+      "url": "https://open.spotify.com/track/3Af1yB8FrreRZsWddbJ3me"
+    },
+    {
+      "added_at": "2021-12-16 22:41:17",
+      "album": {
         "name": "Lo Mejor de Los Fantasmas del caribe",
         "url": "https://open.spotify.com/album/3YasW4KSKwDtKrCfaP3o5f"
       },
@@ -1255,18 +1271,18 @@
     {
       "added_at": "2021-12-16 22:41:17",
       "album": {
-        "name": "63 A\u00f1os de Vida Art\u00edstica",
-        "url": "https://open.spotify.com/album/2mTUZfmlvLfB9T04w1Z3F5"
+        "name": "Orqu\u00eddea de Plata",
+        "url": "https://open.spotify.com/album/22gSxHcz1T3gscMlBYOWzn"
       },
       "artists": [
         {
-          "name": "Lisandro Meza",
-          "url": "https://open.spotify.com/artist/2iewjNvcxTxH8Pyi7S0KF3"
+          "name": "Nelson Y Sus Estrellas",
+          "url": "https://open.spotify.com/artist/5SRwYMyavJCNT2AdVMpPgi"
         }
       ],
-      "duration_ms": 240039,
-      "name": "El Hijo de Tuta",
-      "url": "https://open.spotify.com/track/3Af1yB8FrreRZsWddbJ3me"
+      "duration_ms": 179426,
+      "name": "El Forastero",
+      "url": "https://open.spotify.com/track/1cMqeDFxoS32WAGNtfg9di"
     },
     {
       "added_at": "2021-12-16 22:41:17",
@@ -1287,22 +1303,6 @@
     {
       "added_at": "2021-12-16 22:41:17",
       "album": {
-        "name": "Orqu\u00eddea de Plata",
-        "url": "https://open.spotify.com/album/22gSxHcz1T3gscMlBYOWzn"
-      },
-      "artists": [
-        {
-          "name": "Nelson Y Sus Estrellas",
-          "url": "https://open.spotify.com/artist/5SRwYMyavJCNT2AdVMpPgi"
-        }
-      ],
-      "duration_ms": 179426,
-      "name": "El Forastero",
-      "url": "https://open.spotify.com/track/1cMqeDFxoS32WAGNtfg9di"
-    },
-    {
-      "added_at": "2021-12-16 22:41:17",
-      "album": {
         "name": "Exitos De Billo's Caracas Boys",
         "url": "https://open.spotify.com/album/0NjbROu91EHfCSwebjtU8n"
       },
@@ -1315,6 +1315,22 @@
       "duration_ms": 183228,
       "name": "Cumbia Caletera",
       "url": "https://open.spotify.com/track/5t1feZXRvi9xSFNEEMuboe"
+    },
+    {
+      "added_at": "2021-12-16 22:41:17",
+      "album": {
+        "name": "18 Exitos",
+        "url": "https://open.spotify.com/album/6BGEdqEaJ5PuNz64Vs2coI"
+      },
+      "artists": [
+        {
+          "name": "Hernan Hernandez",
+          "url": "https://open.spotify.com/artist/49UMX5QVC2PaTG6CNjLQDH"
+        }
+      ],
+      "duration_ms": 206239,
+      "name": "Tonto Amor",
+      "url": "https://open.spotify.com/track/0ftARxjabx2Bs2wvLLkltc"
     },
     {
       "added_at": "2021-12-16 22:41:17",
@@ -1355,22 +1371,6 @@
     {
       "added_at": "2021-12-16 22:41:17",
       "album": {
-        "name": "18 Exitos",
-        "url": "https://open.spotify.com/album/6BGEdqEaJ5PuNz64Vs2coI"
-      },
-      "artists": [
-        {
-          "name": "Hernan Hernandez",
-          "url": "https://open.spotify.com/artist/49UMX5QVC2PaTG6CNjLQDH"
-        }
-      ],
-      "duration_ms": 206239,
-      "name": "Tonto Amor",
-      "url": "https://open.spotify.com/track/0ftARxjabx2Bs2wvLLkltc"
-    },
-    {
-      "added_at": "2021-12-16 22:41:17",
-      "album": {
         "name": "Bailando Con Roberto Antonio",
         "url": "https://open.spotify.com/album/0doc3F2HPyvkprfqQkyD3w"
       },
@@ -1383,22 +1383,6 @@
       "duration_ms": 233053,
       "name": "Nochesde Fantasia",
       "url": "https://open.spotify.com/track/20gUAOtCVLjX2x3tUaNinY"
-    },
-    {
-      "added_at": "2021-12-16 22:41:17",
-      "album": {
-        "name": "Natusha & Kondor Band",
-        "url": "https://open.spotify.com/album/6IuWxlioIdpZ4jCLbGZlg3"
-      },
-      "artists": [
-        {
-          "name": "Natusha & Kondor Band",
-          "url": "https://open.spotify.com/artist/7sGxXAdEUg5uZ9xsZxE3Sj"
-        }
-      ],
-      "duration_ms": 227333,
-      "name": "El la Enga\u00f1\u00f3",
-      "url": "https://open.spotify.com/track/5jr886Foyigc6j1qtJtvsX"
     },
     {
       "added_at": "2021-12-16 22:41:17",
@@ -1419,6 +1403,22 @@
       "duration_ms": 162826,
       "name": "Los Sabanales",
       "url": "https://open.spotify.com/track/1CkC4DWgPvj4eEMgxcs0me"
+    },
+    {
+      "added_at": "2021-12-16 22:41:17",
+      "album": {
+        "name": "Natusha & Kondor Band",
+        "url": "https://open.spotify.com/album/6IuWxlioIdpZ4jCLbGZlg3"
+      },
+      "artists": [
+        {
+          "name": "Natusha & Kondor Band",
+          "url": "https://open.spotify.com/artist/7sGxXAdEUg5uZ9xsZxE3Sj"
+        }
+      ],
+      "duration_ms": 227333,
+      "name": "El la Enga\u00f1\u00f3",
+      "url": "https://open.spotify.com/track/5jr886Foyigc6j1qtJtvsX"
     },
     {
       "added_at": "2021-12-16 22:41:17",

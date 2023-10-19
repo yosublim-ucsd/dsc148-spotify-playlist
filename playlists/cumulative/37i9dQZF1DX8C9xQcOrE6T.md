@@ -2,9 +2,9 @@
 
 ### [Disney Hits](https://open.spotify.com/playlist/37i9dQZF1DX8C9xQcOrE6T)
 
-> All your favorite Disney hits, including songs from Coco.
+> All your favorite Disney hits, including songs from Wish.
 
-176 songs - 8 hr 56 min
+177 songs - 8 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -146,6 +146,7 @@
 | [The Scuttlebutt](https://open.spotify.com/track/2wLDS3oCMufFrvwN2IK3Bt) | [Awkwafina](https://open.spotify.com/artist/3SmyWs7ou3udD8gtM0Z6Vx), [Daveed Diggs](https://open.spotify.com/artist/3twuAojvYNrlWZpMkxLm3P), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [The Little Mermaid \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/40tsP3taBOC9HqNaLCZZKP) | 2:01 | 2023-05-19 | 2023-08-16 |
 | [The World Es Mi Familia](https://open.spotify.com/track/7FOS31xq9jv4cXWtp6Jnzw) | [Anthony Gonzalez](https://open.spotify.com/artist/2q10Wskc3lPYmEuV7rzMCv), [Antonio Sol](https://open.spotify.com/artist/7GmYpAwLQ2PyE1BubvUBsM) | [Coco \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7nMexBA71PdwPnfqS5Yji5) | 0:50 | 2022-04-01 |  |
 | [This Is Halloween](https://open.spotify.com/track/01YROQCnF1AQm7SCWJmD2o) | [The Citizens of Halloween](https://open.spotify.com/artist/164hs3x1Tsp3FgJWNHee1r) | [Nightmare Before Christmas Special Edition](https://open.spotify.com/album/32hXKuDkMnpQaOI67xQj86) | 3:16 | 2022-09-22 | 2023-05-16 |
+| [This Wish \- From "Wish"](https://open.spotify.com/track/5yvHjO06WHe7ETlgirLjbw) | [Ariana DeBose](https://open.spotify.com/artist/1Np9GsrPO7dlczjvdehBxs), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [This Wish \(From "Wish"\)](https://open.spotify.com/album/123gDnj9pBl8GNRLyOViC9) | 3:25 | 2023-10-18 |  |
 | [Touch The Sky \- From "Brave"/Soundtrack](https://open.spotify.com/track/5yyqx4brn6Bm9U1Rj9ENnz) | [Julie Fowlis](https://open.spotify.com/artist/3IqWMVFksTbtL2EaFi5o8k) | [Brave](https://open.spotify.com/album/7vSvdmI0szfMcn7LyVjp0R) | 2:31 | 2022-04-01 |  |
 | [Trashin' The Camp](https://open.spotify.com/track/4qn3XK6IW2cKjWjSk37t6p) | [Rosie O'Donnell](https://open.spotify.com/artist/4V8U8U6LwsHGyRTLCt9t19), [Phil Collins](https://open.spotify.com/artist/4lxfqrEsLX6N1N4OCSkILp), [Cast \- Tarzan](https://open.spotify.com/artist/3KA60L5qrdSZ0BYad8hmK2) | [Tarzan \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1zszC1x9HYKxUCKVa62p7C) | 2:15 | 2022-04-01 |  |
 | [Try Everything](https://open.spotify.com/track/1N3dZ7TTWO6VcD4Y3hHYLZ) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [Zootopia \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3X6netsswLt0U97Doga56C) | 3:16 | 2022-04-01 |  |

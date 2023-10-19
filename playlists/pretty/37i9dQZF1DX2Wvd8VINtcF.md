@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Wvd8VINtcF.md) - [plain]
 
 > the pearls of an oyster.
 
-[Spotify](https://open.spotify.com/user/spotify) - 126,766 likes - 107 songs - 5 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 126,777 likes - 107 songs - 5 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -116,4 +116,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Wvd8VINtcF.md) - [plain]
 | 106 | [Turning Onto You \- HNNY Remix](https://open.spotify.com/track/38hxhxzCWO8ffzhdY57pBM) | [First Aid Kit](https://open.spotify.com/artist/21egYD1eInY6bGFcniCRT1), [HNNY](https://open.spotify.com/artist/6Yae9Ia1nq6JLLojBzwN1r) | [Turning Onto You \(HNNY Remix\)](https://open.spotify.com/album/3GJkWCJPr1egPYRDXaQcE2) | 3:30 |
 | 107 | [Tell Me](https://open.spotify.com/track/0hUU81fjvfcvaiCCN51oRy) | [James Blake](https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU) | [Playing Robots Into Heaven](https://open.spotify.com/album/2ZwNcWl8h9blysDE8i4juL) | 5:00 |
 
-Snapshot ID: `MCw2NTNkODJiYTk3Zjc2MmRmYWYyMzgwYjk3MjBkNTMxZTE3MzI1YzM4`
+Snapshot ID: `MCw1OTlhNDBhNzRlYTllYzRiYTIxOWFiMjI5NDE4NmQ3YzYzOGIzNzUz`

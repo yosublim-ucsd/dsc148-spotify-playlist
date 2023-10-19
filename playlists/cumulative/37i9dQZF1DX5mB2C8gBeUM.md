@@ -4,13 +4,14 @@
 
 > Country gone wild! You never know what you're gonna get\. Cover: Austin Snell
 
-399 songs - 20 hr 5 min
+401 songs - 20 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [4 Real](https://open.spotify.com/track/7teglbxzIoSAAVUptXThzh) | [Ty March.](https://open.spotify.com/artist/0h7b5szTqHKm5sJNkAGqfw), [BRAEDNLANCE](https://open.spotify.com/artist/6cw2NVW7boBwPRUp6vlqFC) | [4 Real](https://open.spotify.com/album/61Ng0yrgvgwoEkLIpjG71g) | 3:00 | 2022-06-10 | 2022-09-17 |
 | [5 Foot 9](https://open.spotify.com/track/6AqwH2Y9FJwhUE2dCSkw1u) | [Tyler Hubbard](https://open.spotify.com/artist/3BEV5FcxOtkQJ7lLRKMh3V) | [5 Foot 9](https://open.spotify.com/album/5CTNA7y4WYhLcCd8ijsnRr) | 3:09 | 2022-06-01 | 2022-10-02 |
-| [8 to infinity](https://open.spotify.com/track/4RqdIBIVMQk5konaaFJABh) | [Nic D](https://open.spotify.com/artist/1XlLhtgJjC4ROQZilBZAvw) | [8 to infinity](https://open.spotify.com/album/3w9Z3NRNVVfMM9KfjuplUj) | 2:38 | 2023-08-11 |  |
+| [8 to infinity](https://open.spotify.com/track/3NQu2RzBGMeTIWhgF2qEv8) | [Nic D](https://open.spotify.com/artist/1XlLhtgJjC4ROQZilBZAvw) | [8 to infinity](https://open.spotify.com/album/6liiN1A45ihA3KD3DVe3FT) | 2:38 | 2023-10-06 |  |
+| [8 to infinity](https://open.spotify.com/track/4RqdIBIVMQk5konaaFJABh) | [Nic D](https://open.spotify.com/artist/1XlLhtgJjC4ROQZilBZAvw) | [8 to infinity](https://open.spotify.com/album/3w9Z3NRNVVfMM9KfjuplUj) | 2:38 | 2023-08-11 | 2023-10-19 |
 | [A Hard Working Man \(feat\. Billy Ray Cyrus & Snoop Dogg\)](https://open.spotify.com/track/0RNHYswDxxq1xooRh3PLza) | [Avila Brothers](https://open.spotify.com/artist/0rK0A2f8enfBGIQghyAOmV), [Billy Ray Cyrus](https://open.spotify.com/artist/60rpJ9SgigSd16DOAG7GSa), [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG) | [A Hard Working Man \(feat\. Billy Ray Cyrus & Snoop Dogg\)](https://open.spotify.com/album/4xcTuorr2ywyrsnbzXqTbM) | 2:47 | 2022-04-01 | 2023-02-02 |
 | [A Sinner and A Saint](https://open.spotify.com/track/5uxc8WInrKasHQAZCZwTjG) | [Sean Stemaly](https://open.spotify.com/artist/2dZ1l4hWgtbMS0N5T9Oalb) | [A Sinner and A Saint](https://open.spotify.com/album/6kIKa6DGOj391Vj6KCD156) | 2:39 | 2023-06-30 |  |
 | [AA](https://open.spotify.com/track/77oKig47u34qCCFWKMfu1e) | [Walker Hayes](https://open.spotify.com/artist/7sKxqpSqbIzphAKAhrqvlf) | [AA](https://open.spotify.com/album/7m5hJYb9a0sxNstIKm3PPz) | 3:09 | 2021-12-10 | 2022-07-16 |
@@ -331,7 +332,8 @@
 | [Stuck](https://open.spotify.com/track/0zpxJZIcJUZZTAuhpkmas2) | [Redferrin](https://open.spotify.com/artist/4oCk0xbmAtqXZFzXtH3AgF) | [Stuck](https://open.spotify.com/album/4aLKh3cUkE7BfK9eUFcKzM) | 3:09 | 2021-12-10 | 2022-01-08 |
 | [Summer Heat \(with Chase Matthew\)](https://open.spotify.com/track/0MmVE2K5YbUxx54Kke0mWY) | [Kidd G](https://open.spotify.com/artist/5edcHuf8pWH3I00WTorajM), [Chase Matthew](https://open.spotify.com/artist/7HTLVyjNf0VRxfIgNcfRRH) | [Summer Heat \(with Chase Matthew\)](https://open.spotify.com/album/25ymYbAX8kx0LwzoDUSPzt) | 3:08 | 2022-07-22 |  |
 | [Summer In A Small Town](https://open.spotify.com/track/2WgY7GjYq1SLIgOLhqrczP) | [Kidd G](https://open.spotify.com/artist/5edcHuf8pWH3I00WTorajM) | [Summer In A Small Town](https://open.spotify.com/album/0JubqhaKGIbLxtG8IUBG95) | 2:57 | 2021-12-10 | 2022-02-26 |
-| [Summer's ours](https://open.spotify.com/track/4109FkjojNYdiMYoNealX8) | [Nic D](https://open.spotify.com/artist/1XlLhtgJjC4ROQZilBZAvw), [Nate Good](https://open.spotify.com/artist/2OPyK48uFk5aZ8GKWa5FPl) | [Summer's ours](https://open.spotify.com/album/2lenfSHET9LTAjmKgCbhWP) | 2:55 | 2023-07-21 |  |
+| [Summer's ours](https://open.spotify.com/track/0sAYagHcwzRJYRcpI63T15) | [Nic D](https://open.spotify.com/artist/1XlLhtgJjC4ROQZilBZAvw), [Nate Good](https://open.spotify.com/artist/2OPyK48uFk5aZ8GKWa5FPl) | [Summer's ours](https://open.spotify.com/album/2TwlpEvZCPiWzD68BTuSv7) | 2:55 | 2023-10-06 |  |
+| [Summer's ours](https://open.spotify.com/track/4109FkjojNYdiMYoNealX8) | [Nic D](https://open.spotify.com/artist/1XlLhtgJjC4ROQZilBZAvw), [Nate Good](https://open.spotify.com/artist/2OPyK48uFk5aZ8GKWa5FPl) | [Summer's ours](https://open.spotify.com/album/2lenfSHET9LTAjmKgCbhWP) | 2:55 | 2023-07-21 | 2023-10-19 |
 | [Sunday Toasted](https://open.spotify.com/track/7trnSmH2rP4Dz9EWCigzhz) | [Zinn](https://open.spotify.com/artist/5mGMpDd5gyYAXp9Goofy6D) | [Sunday Toasted](https://open.spotify.com/album/7FtqnNR1z6z0nqEyinGd5F) | 2:43 | 2022-08-26 | 2023-02-02 |
 | [Sundown](https://open.spotify.com/track/26HQt3tNOagBa4Av5lftP2) | [Nic D](https://open.spotify.com/artist/1XlLhtgJjC4ROQZilBZAvw), [Vwillz](https://open.spotify.com/artist/0S7eN9KAsbAaIZtFyCn1q1) | [Sundown](https://open.spotify.com/album/7GTqzcYBdaT6Ify2iHtcay) | 2:09 | 2023-04-14 |  |
 | [Sundress](https://open.spotify.com/track/38vqfi7hLRwfsY86jDGm6E) | [Austin Mahone](https://open.spotify.com/artist/04abdnqPQe2N4fjztDea6z) | [Sundress](https://open.spotify.com/album/4RyDQPdeRS1ovDV58hGBKI) | 2:22 | 2022-10-21 |  |

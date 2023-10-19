@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5hol82XuK24.md) - [plain]
 
 > Are you afraid of the dark?
 
-[Spotify](https://open.spotify.com/user/spotify) - 410,405 likes - 100 songs - 6 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 410,768 likes - 100 songs - 6 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5hol82XuK24.md) - [plain]
 | 99 | [Better Days](https://open.spotify.com/track/2fbWhSnQsDn5Xd1yNg2aDy) | [Baba Ali](https://open.spotify.com/artist/48US3n5ecZ1TS4RjzsdWrm) | [Memory Device](https://open.spotify.com/album/6ahDe3JvaSf0ztWjc5rT5E) | 5:07 |
 | 100 | [Only You](https://open.spotify.com/track/3JMjKtZBlmYQ6oApn5LlEv) | [Chartreuse](https://open.spotify.com/artist/3U58oqsrbpLo0EbARkZrBW) | [Only You](https://open.spotify.com/album/4zRnBolEfHIHCAMUZWbXG8) | 3:42 |
 
-Snapshot ID: `MCxmMTQyMTQ3M2I2ZWIxYjNmZTUwYTFjOWYyNDg2Yjg4MzZkMGY5ZWE3`
+Snapshot ID: `MCxkYzE5ZmJkNGNlNDdmZGE1NjY0Y2FiZjYzMTViOTk1OGQ4YTU4NTY5`

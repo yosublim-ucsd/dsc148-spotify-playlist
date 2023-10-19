@@ -1,12 +1,12 @@
 {
   "description": "All things <a href=\"spotify:genre:bass\">bass</a> with GRiZ",
-  "num_followers": 975269,
+  "num_followers": 975399,
   "original_name": "Bass Arcade",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0ZjE0YWRlNDE0M2NlZGU0YmYwODM2YzEwNWE1ZWQxNzU1ODNlNzQx",
+  "snapshot_id": "MCxjNGQ1YzVhY2I3MjMzMWUwZWI2YTRlZWIwMzhhMWU0MWY5NTE0ODRk",
   "tracks": [
     {
       "added_at": "2023-10-13 04:00:00",
@@ -639,26 +639,6 @@
     {
       "added_at": "2023-10-13 04:00:00",
       "album": {
-        "name": "Revenge of the Orchestra",
-        "url": "https://open.spotify.com/album/3OiJDp6Z6O3raJxqmBNuBo"
-      },
-      "artists": [
-        {
-          "name": "Apashe",
-          "url": "https://open.spotify.com/artist/1fd3fmwlhrDl2U5wbbPQYN"
-        },
-        {
-          "name": "Magugu",
-          "url": "https://open.spotify.com/artist/6zfXNcgsqAJvIgEqWcX9hL"
-        }
-      ],
-      "duration_ms": 230476,
-      "name": "Revenge of the Orchestra",
-      "url": "https://open.spotify.com/track/1LeeXhb4CsZZAxb7VzRWng"
-    },
-    {
-      "added_at": "2023-10-13 04:00:00",
-      "album": {
         "name": "Criminal",
         "url": "https://open.spotify.com/album/1uyc31Iw3pbYXstxykjzfr"
       },
@@ -679,6 +659,26 @@
       "duration_ms": 251862,
       "name": "Criminal",
       "url": "https://open.spotify.com/track/1wlsLLlTQjtqBvrPbKXHXd"
+    },
+    {
+      "added_at": "2023-10-13 04:00:00",
+      "album": {
+        "name": "Revenge of the Orchestra",
+        "url": "https://open.spotify.com/album/3OiJDp6Z6O3raJxqmBNuBo"
+      },
+      "artists": [
+        {
+          "name": "Apashe",
+          "url": "https://open.spotify.com/artist/1fd3fmwlhrDl2U5wbbPQYN"
+        },
+        {
+          "name": "Magugu",
+          "url": "https://open.spotify.com/artist/6zfXNcgsqAJvIgEqWcX9hL"
+        }
+      ],
+      "duration_ms": 230476,
+      "name": "Revenge of the Orchestra",
+      "url": "https://open.spotify.com/track/1LeeXhb4CsZZAxb7VzRWng"
     },
     {
       "added_at": "2023-10-13 04:00:00",
@@ -891,26 +891,6 @@
     {
       "added_at": "2023-10-13 04:00:00",
       "album": {
-        "name": "Dopamine",
-        "url": "https://open.spotify.com/album/0WBKJgbjqaNdw2AqHQWuvf"
-      },
-      "artists": [
-        {
-          "name": "Wooli",
-          "url": "https://open.spotify.com/artist/1Uyqa2sdHm1bL5JK4IC4zc"
-        },
-        {
-          "name": "Tape B",
-          "url": "https://open.spotify.com/artist/59tlsKpLWoLTxjNNS2wdPi"
-        }
-      ],
-      "duration_ms": 158896,
-      "name": "Dopamine",
-      "url": "https://open.spotify.com/track/6VZlZwLkThFbO3gmBYeDUK"
-    },
-    {
-      "added_at": "2023-10-13 04:00:00",
-      "album": {
         "name": "Summer Of Saigon",
         "url": "https://open.spotify.com/album/770o01vMAudjvaj6TzBnMO"
       },
@@ -943,6 +923,50 @@
       "duration_ms": 208941,
       "name": "SHYPOP",
       "url": "https://open.spotify.com/track/2iggQ4lOp55ohzosZMYhSd"
+    },
+    {
+      "added_at": "2023-10-13 04:00:00",
+      "album": {
+        "name": "RAD",
+        "url": "https://open.spotify.com/album/2K9g3b8ghtQSnYWzfg5sj3"
+      },
+      "artists": [
+        {
+          "name": "LSDREAM",
+          "url": "https://open.spotify.com/artist/3Hrqjumb6WHg2aAUHJHLND"
+        },
+        {
+          "name": "Joey Valence & Brae",
+          "url": "https://open.spotify.com/artist/1q4618qKswelCGLoanFKQh"
+        },
+        {
+          "name": "Xotix",
+          "url": "https://open.spotify.com/artist/4U9672jXtdpL01GCOiX7TW"
+        }
+      ],
+      "duration_ms": 245536,
+      "name": "RAD",
+      "url": "https://open.spotify.com/track/06bf6XZYNj4mtDODZRDruu"
+    },
+    {
+      "added_at": "2023-10-13 04:00:00",
+      "album": {
+        "name": "Dopamine",
+        "url": "https://open.spotify.com/album/0WBKJgbjqaNdw2AqHQWuvf"
+      },
+      "artists": [
+        {
+          "name": "Wooli",
+          "url": "https://open.spotify.com/artist/1Uyqa2sdHm1bL5JK4IC4zc"
+        },
+        {
+          "name": "Tape B",
+          "url": "https://open.spotify.com/artist/59tlsKpLWoLTxjNNS2wdPi"
+        }
+      ],
+      "duration_ms": 158896,
+      "name": "Dopamine",
+      "url": "https://open.spotify.com/track/6VZlZwLkThFbO3gmBYeDUK"
     },
     {
       "added_at": "2023-10-13 04:00:00",
@@ -1023,30 +1047,6 @@
     {
       "added_at": "2023-10-13 04:00:00",
       "album": {
-        "name": "RAD",
-        "url": "https://open.spotify.com/album/2K9g3b8ghtQSnYWzfg5sj3"
-      },
-      "artists": [
-        {
-          "name": "LSDREAM",
-          "url": "https://open.spotify.com/artist/3Hrqjumb6WHg2aAUHJHLND"
-        },
-        {
-          "name": "Joey Valence & Brae",
-          "url": "https://open.spotify.com/artist/1q4618qKswelCGLoanFKQh"
-        },
-        {
-          "name": "Xotix",
-          "url": "https://open.spotify.com/artist/4U9672jXtdpL01GCOiX7TW"
-        }
-      ],
-      "duration_ms": 245536,
-      "name": "RAD",
-      "url": "https://open.spotify.com/track/06bf6XZYNj4mtDODZRDruu"
-    },
-    {
-      "added_at": "2023-10-13 04:00:00",
-      "album": {
         "name": "Monsters",
         "url": "https://open.spotify.com/album/1uPIDdNWYuULWaqdl1JuQg"
       },
@@ -1107,6 +1107,22 @@
     {
       "added_at": "2023-10-13 04:00:00",
       "album": {
+        "name": "dontstopme!",
+        "url": "https://open.spotify.com/album/4F58jVM56GlkFSU6SbHw8m"
+      },
+      "artists": [
+        {
+          "name": "ISOxo",
+          "url": "https://open.spotify.com/artist/4zVCMnjw54nkhGHU4e1Pav"
+        }
+      ],
+      "duration_ms": 221142,
+      "name": "dontstopme!",
+      "url": "https://open.spotify.com/track/6IJg6Lj08UReeoz9590Ps5"
+    },
+    {
+      "added_at": "2023-10-13 04:00:00",
+      "album": {
         "name": "Beyond The Veil (Deluxe)",
         "url": "https://open.spotify.com/album/4K5YF7y9LvkmFUYna1GtXy"
       },
@@ -1127,6 +1143,22 @@
     {
       "added_at": "2023-10-13 04:00:00",
       "album": {
+        "name": "On & On",
+        "url": "https://open.spotify.com/album/15mVxIt7C3Nd3XHtVpEdcf"
+      },
+      "artists": [
+        {
+          "name": "Saint Punk",
+          "url": "https://open.spotify.com/artist/0oad1RRAiN1UpaOWbIB0EW"
+        }
+      ],
+      "duration_ms": 140196,
+      "name": "On & On",
+      "url": "https://open.spotify.com/track/5OBxgQAkvL5INmylerFSWv"
+    },
+    {
+      "added_at": "2023-10-13 04:00:00",
+      "album": {
         "name": "REMEMBER ME",
         "url": "https://open.spotify.com/album/1QxYcTftGSxVKi3zm8A56S"
       },
@@ -1143,38 +1175,6 @@
       "duration_ms": 231724,
       "name": "REMEMBER ME",
       "url": "https://open.spotify.com/track/725iOiE8tnUX1aJXc7ktXp"
-    },
-    {
-      "added_at": "2023-10-13 04:00:00",
-      "album": {
-        "name": "dontstopme!",
-        "url": "https://open.spotify.com/album/4F58jVM56GlkFSU6SbHw8m"
-      },
-      "artists": [
-        {
-          "name": "ISOxo",
-          "url": "https://open.spotify.com/artist/4zVCMnjw54nkhGHU4e1Pav"
-        }
-      ],
-      "duration_ms": 221142,
-      "name": "dontstopme!",
-      "url": "https://open.spotify.com/track/6IJg6Lj08UReeoz9590Ps5"
-    },
-    {
-      "added_at": "2023-10-13 04:00:00",
-      "album": {
-        "name": "On & On",
-        "url": "https://open.spotify.com/album/15mVxIt7C3Nd3XHtVpEdcf"
-      },
-      "artists": [
-        {
-          "name": "Saint Punk",
-          "url": "https://open.spotify.com/artist/0oad1RRAiN1UpaOWbIB0EW"
-        }
-      ],
-      "duration_ms": 140196,
-      "name": "On & On",
-      "url": "https://open.spotify.com/track/5OBxgQAkvL5INmylerFSWv"
     },
     {
       "added_at": "2023-10-13 04:00:00",
@@ -1295,30 +1295,26 @@
     {
       "added_at": "2023-10-13 04:00:00",
       "album": {
-        "name": "Shapeshifter (feat. Styles of Beyond) [Zardonic & Pythius Remix]",
-        "url": "https://open.spotify.com/album/2tc5jcJXOOaSLgGpa2ELcG"
+        "name": "Bring It Back (Spencer Ramsay Remix)",
+        "url": "https://open.spotify.com/album/2JVhngo2MEV6euWD4HqLZ7"
       },
       "artists": [
         {
-          "name": "Celldweller",
-          "url": "https://open.spotify.com/artist/4BKyei61gtyDFxlKhcvBJJ"
+          "name": "Sikdope",
+          "url": "https://open.spotify.com/artist/3EXfNuPuR3OFEdlyoSutcG"
         },
         {
-          "name": "Styles Of Beyond",
-          "url": "https://open.spotify.com/artist/5bf6yYgHODBW5EreBZshpX"
+          "name": "Interupt",
+          "url": "https://open.spotify.com/artist/0OFn6uw0q674vCcjDRNP4I"
         },
         {
-          "name": "Zardonic",
-          "url": "https://open.spotify.com/artist/7BqEidErPMNiUXCRE0dV2n"
-        },
-        {
-          "name": "Pythius",
-          "url": "https://open.spotify.com/artist/0CRJK2gwHjs3IKm4uhjNTR"
+          "name": "Spencer Ramsay",
+          "url": "https://open.spotify.com/artist/1IgLSPF7mCbDA9rJmDzqji"
         }
       ],
-      "duration_ms": 304460,
-      "name": "Shapeshifter (feat. Styles of Beyond) - Zardonic & Pythius Remix",
-      "url": "https://open.spotify.com/track/2UuHVdvmK8hcjLF6ek117I"
+      "duration_ms": 125851,
+      "name": "Bring It Back (Spencer Ramsay Remix)",
+      "url": "https://open.spotify.com/track/558wlAeGGjLBB1cua3OpSh"
     },
     {
       "added_at": "2023-10-13 04:00:00",
@@ -1343,26 +1339,30 @@
     {
       "added_at": "2023-10-13 04:00:00",
       "album": {
-        "name": "Bring It Back (Spencer Ramsay Remix)",
-        "url": "https://open.spotify.com/album/2JVhngo2MEV6euWD4HqLZ7"
+        "name": "Shapeshifter (feat. Styles of Beyond) [Zardonic & Pythius Remix]",
+        "url": "https://open.spotify.com/album/2tc5jcJXOOaSLgGpa2ELcG"
       },
       "artists": [
         {
-          "name": "Sikdope",
-          "url": "https://open.spotify.com/artist/3EXfNuPuR3OFEdlyoSutcG"
+          "name": "Celldweller",
+          "url": "https://open.spotify.com/artist/4BKyei61gtyDFxlKhcvBJJ"
         },
         {
-          "name": "Interupt",
-          "url": "https://open.spotify.com/artist/0OFn6uw0q674vCcjDRNP4I"
+          "name": "Styles Of Beyond",
+          "url": "https://open.spotify.com/artist/5bf6yYgHODBW5EreBZshpX"
         },
         {
-          "name": "Spencer Ramsay",
-          "url": "https://open.spotify.com/artist/1IgLSPF7mCbDA9rJmDzqji"
+          "name": "Zardonic",
+          "url": "https://open.spotify.com/artist/7BqEidErPMNiUXCRE0dV2n"
+        },
+        {
+          "name": "Pythius",
+          "url": "https://open.spotify.com/artist/0CRJK2gwHjs3IKm4uhjNTR"
         }
       ],
-      "duration_ms": 125851,
-      "name": "Bring It Back (Spencer Ramsay Remix)",
-      "url": "https://open.spotify.com/track/558wlAeGGjLBB1cua3OpSh"
+      "duration_ms": 304460,
+      "name": "Shapeshifter (feat. Styles of Beyond) - Zardonic & Pythius Remix",
+      "url": "https://open.spotify.com/track/2UuHVdvmK8hcjLF6ek117I"
     },
     {
       "added_at": "2023-10-13 04:00:00",
@@ -1403,6 +1403,26 @@
     {
       "added_at": "2023-10-13 04:00:00",
       "album": {
+        "name": "Die With It",
+        "url": "https://open.spotify.com/album/6uwEBRSWF2VwW6SUmGnhpW"
+      },
+      "artists": [
+        {
+          "name": "Azide",
+          "url": "https://open.spotify.com/artist/0jZCd5FFBIaaiXlIJX6I9h"
+        },
+        {
+          "name": "J Swey",
+          "url": "https://open.spotify.com/artist/7qF6NAMsPdmVz0o8n5v1Ht"
+        }
+      ],
+      "duration_ms": 139500,
+      "name": "Die With It",
+      "url": "https://open.spotify.com/track/3ZDuop6M6asvg8zae32PVz"
+    },
+    {
+      "added_at": "2023-10-13 04:00:00",
+      "album": {
         "name": "HOLLOW WORLD",
         "url": "https://open.spotify.com/album/1X7hgRvsPzxBrc0Q3HC719"
       },
@@ -1427,22 +1447,18 @@
     {
       "added_at": "2023-10-13 04:00:00",
       "album": {
-        "name": "Toxic",
-        "url": "https://open.spotify.com/album/6FhJbGFOc9MO1SM5zrfMkg"
+        "name": "Your Lovin'",
+        "url": "https://open.spotify.com/album/7rBFU32lvfinN9H59HWKU7"
       },
       "artists": [
-        {
-          "name": "Pauline Herr",
-          "url": "https://open.spotify.com/artist/66VgJGpaRMwrNaS2MPqIDf"
-        },
         {
           "name": "Jon Casey",
           "url": "https://open.spotify.com/artist/5ttBnysifryX99bjzeFPGr"
         }
       ],
-      "duration_ms": 197538,
-      "name": "Toxic",
-      "url": "https://open.spotify.com/track/2nUDK9SvpAA5EEMOJ4Bsn4"
+      "duration_ms": 219718,
+      "name": "Your Lovin'",
+      "url": "https://open.spotify.com/track/3awHSnJDVnHm3cNCLI9sOf"
     },
     {
       "added_at": "2023-10-13 04:00:00",
@@ -1467,38 +1483,22 @@
     {
       "added_at": "2023-10-13 04:00:00",
       "album": {
-        "name": "Your Lovin'",
-        "url": "https://open.spotify.com/album/7rBFU32lvfinN9H59HWKU7"
+        "name": "Toxic",
+        "url": "https://open.spotify.com/album/6FhJbGFOc9MO1SM5zrfMkg"
       },
       "artists": [
+        {
+          "name": "Pauline Herr",
+          "url": "https://open.spotify.com/artist/66VgJGpaRMwrNaS2MPqIDf"
+        },
         {
           "name": "Jon Casey",
           "url": "https://open.spotify.com/artist/5ttBnysifryX99bjzeFPGr"
         }
       ],
-      "duration_ms": 219718,
-      "name": "Your Lovin'",
-      "url": "https://open.spotify.com/track/3awHSnJDVnHm3cNCLI9sOf"
-    },
-    {
-      "added_at": "2023-10-13 04:00:00",
-      "album": {
-        "name": "Die With It",
-        "url": "https://open.spotify.com/album/6uwEBRSWF2VwW6SUmGnhpW"
-      },
-      "artists": [
-        {
-          "name": "Azide",
-          "url": "https://open.spotify.com/artist/0jZCd5FFBIaaiXlIJX6I9h"
-        },
-        {
-          "name": "J Swey",
-          "url": "https://open.spotify.com/artist/7qF6NAMsPdmVz0o8n5v1Ht"
-        }
-      ],
-      "duration_ms": 139500,
-      "name": "Die With It",
-      "url": "https://open.spotify.com/track/3ZDuop6M6asvg8zae32PVz"
+      "duration_ms": 197538,
+      "name": "Toxic",
+      "url": "https://open.spotify.com/track/2nUDK9SvpAA5EEMOJ4Bsn4"
     },
     {
       "added_at": "2023-10-13 04:00:00",
@@ -1739,6 +1739,22 @@
     {
       "added_at": "2023-10-13 04:00:00",
       "album": {
+        "name": "I Like It When You Move",
+        "url": "https://open.spotify.com/album/5aYHM8eo8umIePZGEDE3d3"
+      },
+      "artists": [
+        {
+          "name": "Mersiv",
+          "url": "https://open.spotify.com/artist/6JU4RsXcN7rLafs39HwFxf"
+        }
+      ],
+      "duration_ms": 182896,
+      "name": "I Like It When You Move",
+      "url": "https://open.spotify.com/track/3LSzSHeK2RdMiznjXVTqJ2"
+    },
+    {
+      "added_at": "2023-10-13 04:00:00",
+      "album": {
         "name": "Nonstop",
         "url": "https://open.spotify.com/album/3tS6hhl22D2BWjA7Y0Vf35"
       },
@@ -1755,22 +1771,6 @@
       "duration_ms": 294653,
       "name": "Nonstop",
       "url": "https://open.spotify.com/track/0SUc7tyzR0jSTBEElIzqxB"
-    },
-    {
-      "added_at": "2023-10-13 04:00:00",
-      "album": {
-        "name": "I Like It When You Move",
-        "url": "https://open.spotify.com/album/5aYHM8eo8umIePZGEDE3d3"
-      },
-      "artists": [
-        {
-          "name": "Mersiv",
-          "url": "https://open.spotify.com/artist/6JU4RsXcN7rLafs39HwFxf"
-        }
-      ],
-      "duration_ms": 182896,
-      "name": "I Like It When You Move",
-      "url": "https://open.spotify.com/track/3LSzSHeK2RdMiznjXVTqJ2"
     },
     {
       "added_at": "2023-10-13 04:00:00",
@@ -1819,6 +1819,22 @@
     {
       "added_at": "2023-10-13 04:00:00",
       "album": {
+        "name": "24 HRS",
+        "url": "https://open.spotify.com/album/433wutKP8SbmE2SxU5N8cc"
+      },
+      "artists": [
+        {
+          "name": "Whyte Fang",
+          "url": "https://open.spotify.com/artist/6ziQKWMuCe0unfDXoqyVdt"
+        }
+      ],
+      "duration_ms": 181056,
+      "name": "24 HRS",
+      "url": "https://open.spotify.com/track/17QLFEbGJMGA9iyrkx4jbd"
+    },
+    {
+      "added_at": "2023-10-13 04:00:00",
+      "album": {
         "name": "Bassline",
         "url": "https://open.spotify.com/album/4NQardSGvLWdwHLJwSHZm3"
       },
@@ -1839,18 +1855,18 @@
     {
       "added_at": "2023-10-13 04:00:00",
       "album": {
-        "name": "24 HRS",
-        "url": "https://open.spotify.com/album/433wutKP8SbmE2SxU5N8cc"
+        "name": "BORN TO DIE",
+        "url": "https://open.spotify.com/album/2Ke0BcTe2c3Dh5LRxzd4cs"
       },
       "artists": [
         {
-          "name": "Whyte Fang",
-          "url": "https://open.spotify.com/artist/6ziQKWMuCe0unfDXoqyVdt"
+          "name": "MVDNES",
+          "url": "https://open.spotify.com/artist/0jo4MaRxUP72Rou02fgmi7"
         }
       ],
-      "duration_ms": 181056,
-      "name": "24 HRS",
-      "url": "https://open.spotify.com/track/17QLFEbGJMGA9iyrkx4jbd"
+      "duration_ms": 112128,
+      "name": "BORN TO DIE",
+      "url": "https://open.spotify.com/track/34pS1KVbdWpcckfWOIhdtI"
     },
     {
       "added_at": "2023-10-13 04:00:00",
@@ -1871,22 +1887,6 @@
     {
       "added_at": "2023-10-13 04:00:00",
       "album": {
-        "name": "BORN TO DIE",
-        "url": "https://open.spotify.com/album/2Ke0BcTe2c3Dh5LRxzd4cs"
-      },
-      "artists": [
-        {
-          "name": "MVDNES",
-          "url": "https://open.spotify.com/artist/0jo4MaRxUP72Rou02fgmi7"
-        }
-      ],
-      "duration_ms": 112128,
-      "name": "BORN TO DIE",
-      "url": "https://open.spotify.com/track/34pS1KVbdWpcckfWOIhdtI"
-    },
-    {
-      "added_at": "2023-10-13 04:00:00",
-      "album": {
         "name": "Witchcraft",
         "url": "https://open.spotify.com/album/2faxG5bQqAHDPhM4bPACvC"
       },
@@ -1899,6 +1899,26 @@
       "duration_ms": 219428,
       "name": "Witchcraft",
       "url": "https://open.spotify.com/track/562XrisoThlh0IP3Gid2vb"
+    },
+    {
+      "added_at": "2023-10-13 04:00:00",
+      "album": {
+        "name": "At All",
+        "url": "https://open.spotify.com/album/0x6XvRRRXlTDPElalyXRHr"
+      },
+      "artists": [
+        {
+          "name": "12th Planet",
+          "url": "https://open.spotify.com/artist/3V1h3kAdiVDBiwlY2i6dJz"
+        },
+        {
+          "name": "Palmer Reed",
+          "url": "https://open.spotify.com/artist/4ulmcIhz563rmr5AOwStju"
+        }
+      ],
+      "duration_ms": 224000,
+      "name": "At All",
+      "url": "https://open.spotify.com/track/6rJHOYjFFn0zSr5woZwQka"
     },
     {
       "added_at": "2023-10-13 04:00:00",
@@ -1975,42 +1995,6 @@
     {
       "added_at": "2023-10-13 04:00:00",
       "album": {
-        "name": "At All",
-        "url": "https://open.spotify.com/album/0x6XvRRRXlTDPElalyXRHr"
-      },
-      "artists": [
-        {
-          "name": "12th Planet",
-          "url": "https://open.spotify.com/artist/3V1h3kAdiVDBiwlY2i6dJz"
-        },
-        {
-          "name": "Palmer Reed",
-          "url": "https://open.spotify.com/artist/4ulmcIhz563rmr5AOwStju"
-        }
-      ],
-      "duration_ms": 224000,
-      "name": "At All",
-      "url": "https://open.spotify.com/track/6rJHOYjFFn0zSr5woZwQka"
-    },
-    {
-      "added_at": "2023-10-13 04:00:00",
-      "album": {
-        "name": "Money Dance",
-        "url": "https://open.spotify.com/album/0xYuvy9cAFsizq7UA1vG4S"
-      },
-      "artists": [
-        {
-          "name": "CANCUN?",
-          "url": "https://open.spotify.com/artist/5Yw8a4EYuA31E9paXwA50w"
-        }
-      ],
-      "duration_ms": 138630,
-      "name": "Money Dance",
-      "url": "https://open.spotify.com/track/2F9oUWhetYspt7jiVpZgSX"
-    },
-    {
-      "added_at": "2023-10-13 04:00:00",
-      "album": {
         "name": "Sylky",
         "url": "https://open.spotify.com/album/0om04yGw0cfWgvyrAxsd5S"
       },
@@ -2027,6 +2011,22 @@
       "duration_ms": 136615,
       "name": "Sylky",
       "url": "https://open.spotify.com/track/5gfIjW3jXyvLAcRV8Fr2lj"
+    },
+    {
+      "added_at": "2023-10-13 04:00:00",
+      "album": {
+        "name": "Money Dance",
+        "url": "https://open.spotify.com/album/0xYuvy9cAFsizq7UA1vG4S"
+      },
+      "artists": [
+        {
+          "name": "CANCUN?",
+          "url": "https://open.spotify.com/artist/5Yw8a4EYuA31E9paXwA50w"
+        }
+      ],
+      "duration_ms": 138630,
+      "name": "Money Dance",
+      "url": "https://open.spotify.com/track/2F9oUWhetYspt7jiVpZgSX"
     }
   ],
   "unique_name": "Bass Arcade",

@@ -13997,6 +13997,28 @@
     },
     {
       "album": {
+        "name": "Before the Garden Vol.1",
+        "url": "https://open.spotify.com/album/4Up9gxJ5nwtx6jP46sStKj"
+      },
+      "artists": [
+        {
+          "name": "Caleb Gordon",
+          "url": "https://open.spotify.com/artist/6s3XaJkcT7464G4oII9V41"
+        },
+        {
+          "name": "Kenny Rivers",
+          "url": "https://open.spotify.com/artist/5l2A2TPigxj9mzRAn5e9cg"
+        }
+      ],
+      "date_added": "2023-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213031,
+      "name": "Way Too Blessed",
+      "url": "https://open.spotify.com/track/4s3w2iJtamd8Pg2BWBS0xp"
+    },
+    {
+      "album": {
         "name": "My Turn (Deluxe)",
         "url": "https://open.spotify.com/album/6uhEg4ASZYLIilZFCBFy1r"
       },

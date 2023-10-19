@@ -1,12 +1,12 @@
 {
   "description": "Filthy bass bangers to soundtrack your sesh",
-  "num_followers": 139800,
+  "num_followers": 139923,
   "original_name": "Proper Naughty ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjMGJjYTYyMThlZjhjN2Y3NGQ5MGM2YjU4NjcwYjM1Yzg2MzMxZmYz",
+  "snapshot_id": "MCxjMDRlYmQyNGY2MTFhZGUyMWUzYjRkZTAxNGY2MWNhNDQ4OWI1Mjcx",
   "tracks": [
     {
       "added_at": "2023-10-06 15:30:22",
@@ -231,26 +231,6 @@
     {
       "added_at": "2023-10-06 15:30:22",
       "album": {
-        "name": "messy in heaven",
-        "url": "https://open.spotify.com/album/0a9uNlopPXGg37OC20qDk6"
-      },
-      "artists": [
-        {
-          "name": "venbee",
-          "url": "https://open.spotify.com/artist/4UWWa5dKgTLAx8mv6Ju6X1"
-        },
-        {
-          "name": "goddard.",
-          "url": "https://open.spotify.com/artist/3yDDYheQFqfhKZXdjFQuuP"
-        }
-      ],
-      "duration_ms": 170437,
-      "name": "messy in heaven",
-      "url": "https://open.spotify.com/track/5RobAV5ROH5KARimi7n3cO"
-    },
-    {
-      "added_at": "2023-10-06 15:30:22",
-      "album": {
         "name": "Rave Out",
         "url": "https://open.spotify.com/album/7HOsS5h3J7ddLvcOfX9RGX"
       },
@@ -271,6 +251,26 @@
       "duration_ms": 148155,
       "name": "Rave Out",
       "url": "https://open.spotify.com/track/0cIkdVvxT2lalJFH254lYA"
+    },
+    {
+      "added_at": "2023-10-06 15:30:22",
+      "album": {
+        "name": "messy in heaven",
+        "url": "https://open.spotify.com/album/0a9uNlopPXGg37OC20qDk6"
+      },
+      "artists": [
+        {
+          "name": "venbee",
+          "url": "https://open.spotify.com/artist/4UWWa5dKgTLAx8mv6Ju6X1"
+        },
+        {
+          "name": "goddard.",
+          "url": "https://open.spotify.com/artist/3yDDYheQFqfhKZXdjFQuuP"
+        }
+      ],
+      "duration_ms": 170437,
+      "name": "messy in heaven",
+      "url": "https://open.spotify.com/track/5RobAV5ROH5KARimi7n3cO"
     },
     {
       "added_at": "2023-10-06 15:30:22",
@@ -443,6 +443,22 @@
     {
       "added_at": "2023-10-06 15:30:22",
       "album": {
+        "name": "Higher",
+        "url": "https://open.spotify.com/album/54UV4KhjOJbdHqkL1PO4mb"
+      },
+      "artists": [
+        {
+          "name": "Aktive",
+          "url": "https://open.spotify.com/artist/7gWmjYSqrYyY3h2ATvP87g"
+        }
+      ],
+      "duration_ms": 198620,
+      "name": "Higher",
+      "url": "https://open.spotify.com/track/1dHW6MypbqYUzRXAItBQ07"
+    },
+    {
+      "added_at": "2023-10-06 15:30:22",
+      "album": {
         "name": "Diamond Therapy",
         "url": "https://open.spotify.com/album/72xjIhQnOwXZMvdtlYa3Ep"
       },
@@ -463,22 +479,6 @@
       "duration_ms": 199472,
       "name": "Diamond Therapy",
       "url": "https://open.spotify.com/track/5lSfq3EFWwD9yylL0zaqqj"
-    },
-    {
-      "added_at": "2023-10-06 15:30:22",
-      "album": {
-        "name": "Higher",
-        "url": "https://open.spotify.com/album/54UV4KhjOJbdHqkL1PO4mb"
-      },
-      "artists": [
-        {
-          "name": "Aktive",
-          "url": "https://open.spotify.com/artist/7gWmjYSqrYyY3h2ATvP87g"
-        }
-      ],
-      "duration_ms": 198620,
-      "name": "Higher",
-      "url": "https://open.spotify.com/track/1dHW6MypbqYUzRXAItBQ07"
     },
     {
       "added_at": "2023-10-06 15:30:22",
@@ -1111,6 +1111,22 @@
     {
       "added_at": "2023-10-06 15:30:22",
       "album": {
+        "name": "Sirens",
+        "url": "https://open.spotify.com/album/3L4Meb0nRGrUulc4Xp9esu"
+      },
+      "artists": [
+        {
+          "name": "EV",
+          "url": "https://open.spotify.com/artist/1qOueWotu6CIb1GMoib2GX"
+        }
+      ],
+      "duration_ms": 170360,
+      "name": "Sirens",
+      "url": "https://open.spotify.com/track/3HeOOjms1LHV4U91lKcbwd"
+    },
+    {
+      "added_at": "2023-10-06 15:30:22",
+      "album": {
         "name": "Through It All (Hedex Remix)",
         "url": "https://open.spotify.com/album/3g9yPWc8yVPueR4Zk1LPot"
       },
@@ -1175,6 +1191,26 @@
     {
       "added_at": "2023-10-06 15:30:22",
       "album": {
+        "name": "Let U Know (feat. Charlotte Plank)",
+        "url": "https://open.spotify.com/album/5kRPPrLyW4iXoAuz1GKfOQ"
+      },
+      "artists": [
+        {
+          "name": "Danny Byrd",
+          "url": "https://open.spotify.com/artist/7iczgrgAFILjQVGzLsUzbG"
+        },
+        {
+          "name": "Charlotte Plank",
+          "url": "https://open.spotify.com/artist/4U5QErgn94wZGw1rJz01BO"
+        }
+      ],
+      "duration_ms": 160498,
+      "name": "Let U Know (feat. Charlotte Plank)",
+      "url": "https://open.spotify.com/track/37KhWdLDRC4UMR8jxvVBdW"
+    },
+    {
+      "added_at": "2023-10-06 15:30:22",
+      "album": {
         "name": "Want You",
         "url": "https://open.spotify.com/album/1gwNOFmeMRGzIj2752iJEB"
       },
@@ -1211,42 +1247,6 @@
       "duration_ms": 257200,
       "name": "Sliding",
       "url": "https://open.spotify.com/track/5iAp1pQB3dqB3rWfs38Yb6"
-    },
-    {
-      "added_at": "2023-10-06 15:30:22",
-      "album": {
-        "name": "Let U Know (feat. Charlotte Plank)",
-        "url": "https://open.spotify.com/album/5kRPPrLyW4iXoAuz1GKfOQ"
-      },
-      "artists": [
-        {
-          "name": "Danny Byrd",
-          "url": "https://open.spotify.com/artist/7iczgrgAFILjQVGzLsUzbG"
-        },
-        {
-          "name": "Charlotte Plank",
-          "url": "https://open.spotify.com/artist/4U5QErgn94wZGw1rJz01BO"
-        }
-      ],
-      "duration_ms": 160498,
-      "name": "Let U Know (feat. Charlotte Plank)",
-      "url": "https://open.spotify.com/track/37KhWdLDRC4UMR8jxvVBdW"
-    },
-    {
-      "added_at": "2023-10-06 15:30:22",
-      "album": {
-        "name": "Sirens",
-        "url": "https://open.spotify.com/album/3L4Meb0nRGrUulc4Xp9esu"
-      },
-      "artists": [
-        {
-          "name": "EV",
-          "url": "https://open.spotify.com/artist/1qOueWotu6CIb1GMoib2GX"
-        }
-      ],
-      "duration_ms": 170360,
-      "name": "Sirens",
-      "url": "https://open.spotify.com/track/3HeOOjms1LHV4U91lKcbwd"
     },
     {
       "added_at": "2023-10-06 15:30:22",
@@ -1291,6 +1291,26 @@
     {
       "added_at": "2023-10-06 15:30:22",
       "album": {
+        "name": "Getting Started (Chase & Status Remix)",
+        "url": "https://open.spotify.com/album/5EoFVpPoxG7JSMtd7JATZ1"
+      },
+      "artists": [
+        {
+          "name": "Sam Fender",
+          "url": "https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc"
+        },
+        {
+          "name": "Chase & Status",
+          "url": "https://open.spotify.com/artist/3jNkaOXasoc7RsxdchvEVq"
+        }
+      ],
+      "duration_ms": 190344,
+      "name": "Getting Started - Chase & Status Remix",
+      "url": "https://open.spotify.com/track/7BBDanLPLALnu5asuk14r9"
+    },
+    {
+      "added_at": "2023-10-06 15:30:22",
+      "album": {
         "name": "Shut It Down",
         "url": "https://open.spotify.com/album/540Df5chb7iGHb1GSCYD8B"
       },
@@ -1323,26 +1343,6 @@
       "duration_ms": 197253,
       "name": "When It Rains, It Pours",
       "url": "https://open.spotify.com/track/0Qb8vbig4Wky0RKhOWh2Ze"
-    },
-    {
-      "added_at": "2023-10-06 15:30:22",
-      "album": {
-        "name": "Getting Started (Chase & Status Remix)",
-        "url": "https://open.spotify.com/album/5EoFVpPoxG7JSMtd7JATZ1"
-      },
-      "artists": [
-        {
-          "name": "Sam Fender",
-          "url": "https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc"
-        },
-        {
-          "name": "Chase & Status",
-          "url": "https://open.spotify.com/artist/3jNkaOXasoc7RsxdchvEVq"
-        }
-      ],
-      "duration_ms": 190344,
-      "name": "Getting Started - Chase & Status Remix",
-      "url": "https://open.spotify.com/track/7BBDanLPLALnu5asuk14r9"
     },
     {
       "added_at": "2023-10-06 15:30:22",
@@ -1403,22 +1403,6 @@
     {
       "added_at": "2023-10-06 15:30:22",
       "album": {
-        "name": "Don't You Worry About Me",
-        "url": "https://open.spotify.com/album/0he225d6QYERCPgyagltqw"
-      },
-      "artists": [
-        {
-          "name": "Bad Boy Chiller Crew",
-          "url": "https://open.spotify.com/artist/5SRr4ZJMoygWecytkIwlaV"
-        }
-      ],
-      "duration_ms": 220173,
-      "name": "Don't You Worry About Me",
-      "url": "https://open.spotify.com/track/4cJgjjWMjf4nfLRuSr4hVl"
-    },
-    {
-      "added_at": "2023-10-06 15:30:22",
-      "album": {
         "name": "Kraken",
         "url": "https://open.spotify.com/album/1Ac1pcGtOMPK4JEuWRqUsP"
       },
@@ -1475,6 +1459,22 @@
       "duration_ms": 262628,
       "name": "Drops - Kanine Remix",
       "url": "https://open.spotify.com/track/3okcBYUuR2VRbygL9kYb5k"
+    },
+    {
+      "added_at": "2023-10-06 15:30:22",
+      "album": {
+        "name": "Don't You Worry About Me",
+        "url": "https://open.spotify.com/album/0he225d6QYERCPgyagltqw"
+      },
+      "artists": [
+        {
+          "name": "Bad Boy Chiller Crew",
+          "url": "https://open.spotify.com/artist/5SRr4ZJMoygWecytkIwlaV"
+        }
+      ],
+      "duration_ms": 220173,
+      "name": "Don't You Worry About Me",
+      "url": "https://open.spotify.com/track/4cJgjjWMjf4nfLRuSr4hVl"
     },
     {
       "added_at": "2023-10-06 15:30:22",

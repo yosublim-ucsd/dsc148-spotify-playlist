@@ -1,13 +1,29 @@
 {
   "description": "Heartbreaking and sad instrumental and vocal Jazz.",
-  "num_followers": 67281,
+  "num_followers": 67337,
   "original_name": "Heartbreak Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkZTMxYTNhNGYzYTYyY2Y2MGNhYTkwMGI0MjlhNDUyYTExOWZhYzZm",
+  "snapshot_id": "MCxiZDM2OTY5ODQzOGYyNzcwZGYzNzA0ZmJmNzc5MGRmMWFmNzY0NjRm",
   "tracks": [
+    {
+      "added_at": "2023-10-13 00:01:00",
+      "album": {
+        "name": "Don't Go To Strangers (Rudy Van Gelder Remaster)",
+        "url": "https://open.spotify.com/album/5haiDu2ti0IHBHchx7dNjt"
+      },
+      "artists": [
+        {
+          "name": "Etta Jones",
+          "url": "https://open.spotify.com/artist/3CEdEF8RsuL3hAFJaujvr0"
+        }
+      ],
+      "duration_ms": 228360,
+      "name": "Don't Go To Strangers",
+      "url": "https://open.spotify.com/track/6cRsRBzSaGwfnMMqNSjtFY"
+    },
     {
       "added_at": "2023-10-13 00:01:00",
       "album": {
@@ -27,22 +43,6 @@
       "duration_ms": 258106,
       "name": "The Masquerade Is Over",
       "url": "https://open.spotify.com/track/1jf3wYtynxiPOdhqAp3cUN"
-    },
-    {
-      "added_at": "2023-10-13 00:01:00",
-      "album": {
-        "name": "Don't Go To Strangers (Rudy Van Gelder Remaster)",
-        "url": "https://open.spotify.com/album/5haiDu2ti0IHBHchx7dNjt"
-      },
-      "artists": [
-        {
-          "name": "Etta Jones",
-          "url": "https://open.spotify.com/artist/3CEdEF8RsuL3hAFJaujvr0"
-        }
-      ],
-      "duration_ms": 228360,
-      "name": "Don't Go To Strangers",
-      "url": "https://open.spotify.com/track/6cRsRBzSaGwfnMMqNSjtFY"
     },
     {
       "added_at": "2023-10-13 00:01:00",
@@ -303,22 +303,6 @@
     {
       "added_at": "2023-10-13 00:01:00",
       "album": {
-        "name": "Ballads (Deluxe Edition - Rudy Van Gelder Remaster)",
-        "url": "https://open.spotify.com/album/0Ydakb7npXmyTwFLvKc5qt"
-      },
-      "artists": [
-        {
-          "name": "John Coltrane Quartet",
-          "url": "https://open.spotify.com/artist/67PZTxaHKMZBFRUh8wIzCy"
-        }
-      ],
-      "duration_ms": 290160,
-      "name": "I Wish I Knew",
-      "url": "https://open.spotify.com/track/3oGqQ3Ly4wzilxFo4puTn9"
-    },
-    {
-      "added_at": "2023-10-13 00:01:00",
-      "album": {
         "name": "If You Go Away / Ne me quitte pas",
         "url": "https://open.spotify.com/album/7KqMq5aJBqj7FIAybwlZEx"
       },
@@ -331,6 +315,22 @@
       "duration_ms": 295148,
       "name": "If You Go Away",
       "url": "https://open.spotify.com/track/1YhQ0oi3ay18dgcGdgDebT"
+    },
+    {
+      "added_at": "2023-10-13 00:01:00",
+      "album": {
+        "name": "Ballads (Deluxe Edition - Rudy Van Gelder Remaster)",
+        "url": "https://open.spotify.com/album/0Ydakb7npXmyTwFLvKc5qt"
+      },
+      "artists": [
+        {
+          "name": "John Coltrane Quartet",
+          "url": "https://open.spotify.com/artist/67PZTxaHKMZBFRUh8wIzCy"
+        }
+      ],
+      "duration_ms": 290160,
+      "name": "I Wish I Knew",
+      "url": "https://open.spotify.com/track/3oGqQ3Ly4wzilxFo4puTn9"
     },
     {
       "added_at": "2023-10-13 00:01:00",
@@ -535,6 +535,22 @@
     {
       "added_at": "2023-10-13 00:01:00",
       "album": {
+        "name": "Lonely And Blue",
+        "url": "https://open.spotify.com/album/5aMysOzmRwAQArAcRegasS"
+      },
+      "artists": [
+        {
+          "name": "Etta Jones",
+          "url": "https://open.spotify.com/artist/3CEdEF8RsuL3hAFJaujvr0"
+        }
+      ],
+      "duration_ms": 202866,
+      "name": "I Miss You So",
+      "url": "https://open.spotify.com/track/0G3WxfqXCkCq9AGgqLINg9"
+    },
+    {
+      "added_at": "2023-10-13 00:01:00",
+      "album": {
         "name": "The Thrill Is Gone",
         "url": "https://open.spotify.com/album/11lw4GDycdDi2CM5mLWVBy"
       },
@@ -551,22 +567,6 @@
       "duration_ms": 290426,
       "name": "The Thrill Is Gone",
       "url": "https://open.spotify.com/track/7GO1kqu9lTUWh5gkJbC2y0"
-    },
-    {
-      "added_at": "2023-10-13 00:01:00",
-      "album": {
-        "name": "Lonely And Blue",
-        "url": "https://open.spotify.com/album/5aMysOzmRwAQArAcRegasS"
-      },
-      "artists": [
-        {
-          "name": "Etta Jones",
-          "url": "https://open.spotify.com/artist/3CEdEF8RsuL3hAFJaujvr0"
-        }
-      ],
-      "duration_ms": 202866,
-      "name": "I Miss You So",
-      "url": "https://open.spotify.com/track/0G3WxfqXCkCq9AGgqLINg9"
     },
     {
       "added_at": "2023-10-13 00:01:00",
@@ -715,22 +715,6 @@
     {
       "added_at": "2023-10-13 00:01:00",
       "album": {
-        "name": "Once Upon A Summertime",
-        "url": "https://open.spotify.com/album/5pJeMvBDbvBnmDJsd0Up9n"
-      },
-      "artists": [
-        {
-          "name": "Blossom Dearie",
-          "url": "https://open.spotify.com/artist/5bWApG9Vdshhd1J50UnNf6"
-        }
-      ],
-      "duration_ms": 167200,
-      "name": "Once Upon A Summertime",
-      "url": "https://open.spotify.com/track/1YlxMqTgJisGd0eH88rfId"
-    },
-    {
-      "added_at": "2023-10-13 00:01:00",
-      "album": {
         "name": "It's Time For Ernestine",
         "url": "https://open.spotify.com/album/4VEMfnBuWDt6Ims4wQWH8L"
       },
@@ -743,6 +727,22 @@
       "duration_ms": 148560,
       "name": "That Old Feeling",
       "url": "https://open.spotify.com/track/4gxqeb52ocvxNTNwHquFsW"
+    },
+    {
+      "added_at": "2023-10-13 00:01:00",
+      "album": {
+        "name": "Once Upon A Summertime",
+        "url": "https://open.spotify.com/album/5pJeMvBDbvBnmDJsd0Up9n"
+      },
+      "artists": [
+        {
+          "name": "Blossom Dearie",
+          "url": "https://open.spotify.com/artist/5bWApG9Vdshhd1J50UnNf6"
+        }
+      ],
+      "duration_ms": 167200,
+      "name": "Once Upon A Summertime",
+      "url": "https://open.spotify.com/track/1YlxMqTgJisGd0eH88rfId"
     },
     {
       "added_at": "2023-10-13 00:01:00",
@@ -883,6 +883,22 @@
     {
       "added_at": "2023-10-13 00:01:00",
       "album": {
+        "name": "Pointless Nostalgic (Remastered)",
+        "url": "https://open.spotify.com/album/2XCwuAJ3pMR3Vq5IDdWzn3"
+      },
+      "artists": [
+        {
+          "name": "Jamie Cullum",
+          "url": "https://open.spotify.com/artist/3XxxEq6BREC57nCWXbQZ7o"
+        }
+      ],
+      "duration_ms": 315702,
+      "name": "I Can't Get Started - Remastered",
+      "url": "https://open.spotify.com/track/1koaigmrZEI4T0pu4PfM1P"
+    },
+    {
+      "added_at": "2023-10-13 00:01:00",
+      "album": {
         "name": "April Fooled Me",
         "url": "https://open.spotify.com/album/4dNnVif4W3SPzwH9vvjOid"
       },
@@ -899,22 +915,6 @@
       "duration_ms": 231400,
       "name": "April Fooled Me",
       "url": "https://open.spotify.com/track/4Lfn9B6tlGER7NVIHinhfX"
-    },
-    {
-      "added_at": "2023-10-13 00:01:00",
-      "album": {
-        "name": "Pointless Nostalgic (Remastered)",
-        "url": "https://open.spotify.com/album/2XCwuAJ3pMR3Vq5IDdWzn3"
-      },
-      "artists": [
-        {
-          "name": "Jamie Cullum",
-          "url": "https://open.spotify.com/artist/3XxxEq6BREC57nCWXbQZ7o"
-        }
-      ],
-      "duration_ms": 315702,
-      "name": "I Can't Get Started - Remastered",
-      "url": "https://open.spotify.com/track/1koaigmrZEI4T0pu4PfM1P"
     },
     {
       "added_at": "2023-10-13 00:01:00",
@@ -1031,6 +1031,26 @@
     {
       "added_at": "2023-10-13 00:01:00",
       "album": {
+        "name": "When Sunny Gets Blue",
+        "url": "https://open.spotify.com/album/2tcBjPtxrfZLep0WKsdVAR"
+      },
+      "artists": [
+        {
+          "name": "St\u00edna \u00c1g\u00fastsd\u00f3ttir",
+          "url": "https://open.spotify.com/artist/7tn2NxdUjOm9WuvEXQNhLi"
+        },
+        {
+          "name": "Carl Bagge",
+          "url": "https://open.spotify.com/artist/052RNZarYkMsvs3jzWLtIF"
+        }
+      ],
+      "duration_ms": 264617,
+      "name": "When Sunny Gets Blue",
+      "url": "https://open.spotify.com/track/2ttCdSWedaPtOltZLPZVAT"
+    },
+    {
+      "added_at": "2023-10-13 00:01:00",
+      "album": {
         "name": "Gentle Is My Love",
         "url": "https://open.spotify.com/album/4R0LaX0MM3yiIPARgFypaA"
       },
@@ -1043,22 +1063,6 @@
       "duration_ms": 162186,
       "name": "Who Can I Turn To (When Nobody Needs Me)",
       "url": "https://open.spotify.com/track/6wWkyosk7WllIpzUs5SliP"
-    },
-    {
-      "added_at": "2023-10-13 00:01:00",
-      "album": {
-        "name": "Sarah Vaughan's Golden Hits",
-        "url": "https://open.spotify.com/album/6pZ5dSsfNRSuMV9RcMyfwU"
-      },
-      "artists": [
-        {
-          "name": "Sarah Vaughan",
-          "url": "https://open.spotify.com/artist/1bgyxtWjZwA5PQlDsvs9b8"
-        }
-      ],
-      "duration_ms": 196120,
-      "name": "Lover Man",
-      "url": "https://open.spotify.com/track/3rnxTrbJ23PQ0g4NNVadru"
     },
     {
       "added_at": "2023-10-13 00:01:00",
@@ -1095,6 +1099,22 @@
     {
       "added_at": "2023-10-13 00:01:00",
       "album": {
+        "name": "Sarah Vaughan's Golden Hits",
+        "url": "https://open.spotify.com/album/6pZ5dSsfNRSuMV9RcMyfwU"
+      },
+      "artists": [
+        {
+          "name": "Sarah Vaughan",
+          "url": "https://open.spotify.com/artist/1bgyxtWjZwA5PQlDsvs9b8"
+        }
+      ],
+      "duration_ms": 196120,
+      "name": "Lover Man",
+      "url": "https://open.spotify.com/track/3rnxTrbJ23PQ0g4NNVadru"
+    },
+    {
+      "added_at": "2023-10-13 00:01:00",
+      "album": {
         "name": "The Complete Dinah Washington On Mercury Vol.5 (1956-1958)",
         "url": "https://open.spotify.com/album/53UuPjzjPZdVorCmDewJSI"
       },
@@ -1111,26 +1131,6 @@
     {
       "added_at": "2023-10-13 00:01:00",
       "album": {
-        "name": "When Sunny Gets Blue",
-        "url": "https://open.spotify.com/album/2tcBjPtxrfZLep0WKsdVAR"
-      },
-      "artists": [
-        {
-          "name": "St\u00edna \u00c1g\u00fastsd\u00f3ttir",
-          "url": "https://open.spotify.com/artist/7tn2NxdUjOm9WuvEXQNhLi"
-        },
-        {
-          "name": "Carl Bagge",
-          "url": "https://open.spotify.com/artist/052RNZarYkMsvs3jzWLtIF"
-        }
-      ],
-      "duration_ms": 264617,
-      "name": "When Sunny Gets Blue",
-      "url": "https://open.spotify.com/track/2ttCdSWedaPtOltZLPZVAT"
-    },
-    {
-      "added_at": "2023-10-13 00:01:00",
-      "album": {
         "name": "Helen Merill",
         "url": "https://open.spotify.com/album/5ilzjsH4ER5ZaytJwnmn3C"
       },
@@ -1143,22 +1143,6 @@
       "duration_ms": 301306,
       "name": "What's New",
       "url": "https://open.spotify.com/track/6iUmixPxVD6SacLhATYace"
-    },
-    {
-      "added_at": "2023-10-13 00:01:00",
-      "album": {
-        "name": "Crazy And Mixed Up",
-        "url": "https://open.spotify.com/album/5EVYcc70MKjg1w55PommMO"
-      },
-      "artists": [
-        {
-          "name": "Sarah Vaughan",
-          "url": "https://open.spotify.com/artist/1bgyxtWjZwA5PQlDsvs9b8"
-        }
-      ],
-      "duration_ms": 185000,
-      "name": "In Love In Vain",
-      "url": "https://open.spotify.com/track/7cI4QJoyEMkjAfKrCptpMA"
     },
     {
       "added_at": "2023-10-13 00:01:00",
@@ -1283,6 +1267,22 @@
     {
       "added_at": "2023-10-13 00:01:00",
       "album": {
+        "name": "Crazy And Mixed Up",
+        "url": "https://open.spotify.com/album/5EVYcc70MKjg1w55PommMO"
+      },
+      "artists": [
+        {
+          "name": "Sarah Vaughan",
+          "url": "https://open.spotify.com/artist/1bgyxtWjZwA5PQlDsvs9b8"
+        }
+      ],
+      "duration_ms": 185000,
+      "name": "In Love In Vain",
+      "url": "https://open.spotify.com/track/7cI4QJoyEMkjAfKrCptpMA"
+    },
+    {
+      "added_at": "2023-10-13 00:01:00",
+      "album": {
         "name": "Helen Merrill With Strings",
         "url": "https://open.spotify.com/album/1ZCXk8phZLNQSpOOMhIbWG"
       },
@@ -1331,6 +1331,22 @@
     {
       "added_at": "2023-10-13 00:01:00",
       "album": {
+        "name": "At The End Of The Day",
+        "url": "https://open.spotify.com/album/5VPF6Ae4YHkcGId3ImcbRs"
+      },
+      "artists": [
+        {
+          "name": "Till Br\u00f6nner",
+          "url": "https://open.spotify.com/artist/3Q4xYZ2ZuFaAsZZyjPIfc8"
+        }
+      ],
+      "duration_ms": 262000,
+      "name": "After You've Gone",
+      "url": "https://open.spotify.com/track/1Dv9y6jxAcIQ0mSA4pxYhU"
+    },
+    {
+      "added_at": "2023-10-13 00:01:00",
+      "album": {
         "name": "Music For Late Hours",
         "url": "https://open.spotify.com/album/3isH5zDyEAXGQIiYcLdozF"
       },
@@ -1351,22 +1367,6 @@
     {
       "added_at": "2023-10-13 00:01:00",
       "album": {
-        "name": "At The End Of The Day",
-        "url": "https://open.spotify.com/album/5VPF6Ae4YHkcGId3ImcbRs"
-      },
-      "artists": [
-        {
-          "name": "Till Br\u00f6nner",
-          "url": "https://open.spotify.com/artist/3Q4xYZ2ZuFaAsZZyjPIfc8"
-        }
-      ],
-      "duration_ms": 262000,
-      "name": "After You've Gone",
-      "url": "https://open.spotify.com/track/1Dv9y6jxAcIQ0mSA4pxYhU"
-    },
-    {
-      "added_at": "2023-10-13 00:01:00",
-      "album": {
         "name": "Night Lights",
         "url": "https://open.spotify.com/album/5kQfbxLa8K9n8zYHXJQ7Zx"
       },
@@ -1379,22 +1379,6 @@
       "duration_ms": 174266,
       "name": "Too Young To Go Steady - Remastered",
       "url": "https://open.spotify.com/track/0D1LMx0zya1EXlj4F9l6Mg"
-    },
-    {
-      "added_at": "2023-10-13 00:01:00",
-      "album": {
-        "name": "When Your Heart's On Fire",
-        "url": "https://open.spotify.com/album/3x8N8hvqBICGRcLwspO5yF"
-      },
-      "artists": [
-        {
-          "name": "Jeri Southern",
-          "url": "https://open.spotify.com/artist/53zwWZL3vLQ7fVfKrhrzaK"
-        }
-      ],
-      "duration_ms": 225000,
-      "name": "He Was Too Good To Me",
-      "url": "https://open.spotify.com/track/31jrVem3d0gsLSFcx7CoIi"
     },
     {
       "added_at": "2023-10-13 00:01:00",
@@ -1415,34 +1399,18 @@
     {
       "added_at": "2023-10-13 00:01:00",
       "album": {
-        "name": "Bing-His Legendary Years 1931-1957",
-        "url": "https://open.spotify.com/album/2KDC9MOVhSPFY3ANMB6aDw"
+        "name": "When Your Heart's On Fire",
+        "url": "https://open.spotify.com/album/3x8N8hvqBICGRcLwspO5yF"
       },
       "artists": [
         {
-          "name": "Bing Crosby",
-          "url": "https://open.spotify.com/artist/6ZjFtWeHP9XN7FeKSUe80S"
+          "name": "Jeri Southern",
+          "url": "https://open.spotify.com/artist/53zwWZL3vLQ7fVfKrhrzaK"
         }
       ],
-      "duration_ms": 210333,
-      "name": "Just One More Chance - 1931 Single Version",
-      "url": "https://open.spotify.com/track/1TmJIO8XZkItg9p1p9gFoZ"
-    },
-    {
-      "added_at": "2023-10-13 00:01:00",
-      "album": {
-        "name": "Abbey Lincoln's Affair... A Story Of A Girl In Love (Expanded Edition)",
-        "url": "https://open.spotify.com/album/75kSQXvLMJh5TsK65zGkOg"
-      },
-      "artists": [
-        {
-          "name": "Abbey Lincoln",
-          "url": "https://open.spotify.com/artist/0A9p7WNA1VwxVyrjx92Z9F"
-        }
-      ],
-      "duration_ms": 191000,
-      "name": "No More",
-      "url": "https://open.spotify.com/track/0OhVyeMWNraRrgGPByQiWc"
+      "duration_ms": 225000,
+      "name": "He Was Too Good To Me",
+      "url": "https://open.spotify.com/track/31jrVem3d0gsLSFcx7CoIi"
     },
     {
       "added_at": "2023-10-13 00:01:00",
@@ -1463,6 +1431,22 @@
     {
       "added_at": "2023-10-13 00:01:00",
       "album": {
+        "name": "Bing-His Legendary Years 1931-1957",
+        "url": "https://open.spotify.com/album/2KDC9MOVhSPFY3ANMB6aDw"
+      },
+      "artists": [
+        {
+          "name": "Bing Crosby",
+          "url": "https://open.spotify.com/artist/6ZjFtWeHP9XN7FeKSUe80S"
+        }
+      ],
+      "duration_ms": 210333,
+      "name": "Just One More Chance - 1931 Single Version",
+      "url": "https://open.spotify.com/track/1TmJIO8XZkItg9p1p9gFoZ"
+    },
+    {
+      "added_at": "2023-10-13 00:01:00",
+      "album": {
         "name": "Something Wonderful",
         "url": "https://open.spotify.com/album/7HtSgNU7pzv4zeMldVdHav"
       },
@@ -1475,6 +1459,22 @@
       "duration_ms": 160093,
       "name": "I'm Gonna Laugh You Right Out Of My Life - Remastered",
       "url": "https://open.spotify.com/track/7KKKRjw8cs7VL0NMsGJM4K"
+    },
+    {
+      "added_at": "2023-10-13 00:01:00",
+      "album": {
+        "name": "Abbey Lincoln's Affair... A Story Of A Girl In Love (Expanded Edition)",
+        "url": "https://open.spotify.com/album/75kSQXvLMJh5TsK65zGkOg"
+      },
+      "artists": [
+        {
+          "name": "Abbey Lincoln",
+          "url": "https://open.spotify.com/artist/0A9p7WNA1VwxVyrjx92Z9F"
+        }
+      ],
+      "duration_ms": 191000,
+      "name": "No More",
+      "url": "https://open.spotify.com/track/0OhVyeMWNraRrgGPByQiWc"
     },
     {
       "added_at": "2023-10-13 00:01:00",
@@ -1511,6 +1511,22 @@
     {
       "added_at": "2023-10-13 00:01:00",
       "album": {
+        "name": "Swedish Sensation",
+        "url": "https://open.spotify.com/album/6UAzZrcoC6kwtTbIJiaTrh"
+      },
+      "artists": [
+        {
+          "name": "Monica Zetterlund",
+          "url": "https://open.spotify.com/artist/7mvvG63CNSY93JWAJ37rnD"
+        }
+      ],
+      "duration_ms": 145106,
+      "name": "My Old Flame",
+      "url": "https://open.spotify.com/track/7k0ustfixkIm3Z9hDP4OrZ"
+    },
+    {
+      "added_at": "2023-10-13 00:01:00",
+      "album": {
         "name": "Smooth Songs",
         "url": "https://open.spotify.com/album/0bTi6NaKZTPdu3G2a4fePf"
       },
@@ -1539,22 +1555,6 @@
       "duration_ms": 188560,
       "name": "Somebody Else Is Taking My Place",
       "url": "https://open.spotify.com/track/1pOs0EmRYSB2qHkq3RqQ3F"
-    },
-    {
-      "added_at": "2023-10-13 00:01:00",
-      "album": {
-        "name": "Swedish Sensation",
-        "url": "https://open.spotify.com/album/6UAzZrcoC6kwtTbIJiaTrh"
-      },
-      "artists": [
-        {
-          "name": "Monica Zetterlund",
-          "url": "https://open.spotify.com/artist/7mvvG63CNSY93JWAJ37rnD"
-        }
-      ],
-      "duration_ms": 145106,
-      "name": "My Old Flame",
-      "url": "https://open.spotify.com/track/7k0ustfixkIm3Z9hDP4OrZ"
     }
   ],
   "unique_name": "Heartbreak Jazz",

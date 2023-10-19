@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaaLM83puGG5.md) - [plain]
 
 > Keeping the party going with Southern Fried Queer Pride's <a href="https://www.eventbrite.com/e/sugar\-shack\-a\-queer\-parking\-lot\-dance\-party\-tickets\-717834842337?aff=oddtdtcreator">SUGAR SHACK!</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 437,899 likes - 50 songs - 2 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 437,870 likes - 50 songs - 2 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaaLM83puGG5.md) - [plain]
 | 49 | [Big City](https://open.spotify.com/track/31HPaUuQIi2Y3jRy6SgzoO) | [TAYLOR ALXNDR](https://open.spotify.com/artist/5YZAfDZNT907ZYOT6MN7gh), [Breathers](https://open.spotify.com/artist/0MzSXW95FEopD9o5Atj3PE) | [1993](https://open.spotify.com/album/0Kc2PiYgQeXJYdaASDCFbG) | 5:10 |
 | 50 | [She Don't Text Back](https://open.spotify.com/track/69DcCkGnZ2uFmKWZXFiJXM) | [Edge Slayer](https://open.spotify.com/artist/3QuKQYJTP0rL7uiX9a1ev6) | [She Don't Text Back / Spell Check](https://open.spotify.com/album/0qfa4nxbK3Zu2zIYGDrgQa) | 1:42 |
 
-Snapshot ID: `MCxmYjkyMTMxYzI3YjljYWJhNzIzODYyNDA3ZmFlYWQxYWIyNTA2MjFh`
+Snapshot ID: `MCw2MWM4YjI2ZDY1YjM3N2E5ODc5YTQ5OGZlN2ExNmVhNjc3OGNlZTk5`

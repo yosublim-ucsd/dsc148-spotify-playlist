@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZEbxox96IUk.md) - [plain]
 
 > C'est parti pour une nuit de folie ! Photo : Gilbert Montagné
 
-[Spotify](https://open.spotify.com/user/spotify) - 54,704 likes - 60 songs - 4 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 54,733 likes - 60 songs - 4 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,7 +61,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZEbxox96IUk.md) - [plain]
 | 51 | [Du rhum des femmes](https://open.spotify.com/track/2NshBYcvc4uYYsBj4vHZfh) | [Soldat Louis](https://open.spotify.com/artist/1xrlEiFyB2fhqJATbGDULK) | [Première Bordée](https://open.spotify.com/album/0CU38fbBLIOt5e1guJWCfA) | 2:59 |
 | 52 | [C'est l'amour \(Version originale\)](https://open.spotify.com/track/4avt9wdU3AuLGSu4GFTsu0) | [Léopold Nord & Vous](https://open.spotify.com/artist/66M3IT7olPYfvGGRSfXQms) | [C'est L'amour](https://open.spotify.com/album/4EPeTd0isGRzAl6uZQSD1Y) | 3:24 |
 | 53 | [Manureva](https://open.spotify.com/track/6IOledhFH0nPfNv9VHsNPY) | [Alain Chamfort](https://open.spotify.com/artist/79SJOUvbcH85tS57TH1f4H) | [Poses](https://open.spotify.com/album/2LNSCP5sNpZ057eCmKRLIx) | 6:43 |
-| 54 | [La Rockeuse De Diamants](https://open.spotify.com/track/3K6zFAgnIYhGaOO3hpdOvi) | [Catherine Lara](https://open.spotify.com/artist/3eFOtlrhUuKPOrO2JlM6AS) | [Best Of Catherine Lara](https://open.spotify.com/album/1rlWiJKSBRgbR1jd8u2azA) | 4:02 |
+| 54 | [La rockeuse de diamants](https://open.spotify.com/track/3K6zFAgnIYhGaOO3hpdOvi) | [Catherine Lara](https://open.spotify.com/artist/3eFOtlrhUuKPOrO2JlM6AS) | [Best Of Catherine Lara](https://open.spotify.com/album/1rlWiJKSBRgbR1jd8u2azA) | 4:02 |
 | 55 | [Mise au point](https://open.spotify.com/track/2hSSHgViCLNwV5TozS0otN) | [Jakie Quartz](https://open.spotify.com/artist/5wGprTHwvhRJpnN4vWlLDT) | [Mise au point \(Edition Deluxe\)](https://open.spotify.com/album/5SPAEEOKhwl0dYJflmQ1L7) | 4:43 |
 | 56 | [Le Mambo Du Décalco](https://open.spotify.com/track/10hnzFqOkWifT35HfvbaNc) | [Richard Gotainer](https://open.spotify.com/artist/5ogTAPKFGN5rgfLIN7m6zh) | [Chants Zazous](https://open.spotify.com/album/7vllOK3picQpSw8KriYmyF) | 3:34 |
 | 57 | [La queuleuleu](https://open.spotify.com/track/467ctvtA07SWvCmjrE95gw) | [Bézu](https://open.spotify.com/artist/19PiQlHhv7p67DdnYnnijF) | [Bézu chante les plus grands tubes d'ambiance \(Le disque d'or de la fête\)](https://open.spotify.com/album/2kWY8R49jDnar9nUQFhxN5) | 4:11 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZEbxox96IUk.md) - [plain]
 | 59 | [Pour le plaisir](https://open.spotify.com/track/3UbjLaV37WezwuvT2pdsIL) | [Herbert Léonard](https://open.spotify.com/artist/2VsTgQUocqoaXjLG5YerlB) | [Best of Herbert Léonard](https://open.spotify.com/album/6ZudFHSwgkQxsmCDwjHSRX) | 3:48 |
 | 60 | [Tes états d'âme Eric](https://open.spotify.com/track/41OT0gmF3Ku5BAo06uoKvN) | [Luna Parker](https://open.spotify.com/artist/6JWjzo212lkYEtlowpF2sK) | [Felin Pour L'Autre](https://open.spotify.com/album/3yw7s4ANFbfPw4uYFVjvW0) | 3:30 |
 
-Snapshot ID: `MCxhODFlYzNjN2E4NGIzOGMxMmRkZjhmMWQyNjhlMTVlMzAxOWFlMzAy`
+Snapshot ID: `MCxkNWM1NWQ4ZjA2YTRlZjkyZDQ2ZGU2ZGRiNWU2ZWVhYWE4OWYxODgx`

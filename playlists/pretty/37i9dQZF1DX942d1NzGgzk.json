@@ -1,12 +1,12 @@
 {
   "description": "100% British - 100% R&B. Cover: Summer Banton",
-  "num_followers": 132675,
+  "num_followers": 132745,
   "original_name": "R&B UK",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjZmNlNmRjZDAxYWI3ZmRhYzM1MDNhNDM0ZjQzNWM5MTZiMzhhODlj",
+  "snapshot_id": "MCw3YTJhOTAzOWFiMWIxMzQ4MjhjNmJlZTA1MzllNzhjZmFjN2NjYWJl",
   "tracks": [
     {
       "added_at": "2023-09-22 09:11:23",
@@ -583,22 +583,6 @@
     {
       "added_at": "2023-09-22 09:11:23",
       "album": {
-        "name": "sore loser (Acoustic)",
-        "url": "https://open.spotify.com/album/6S7b3klRES1CF1Ldmplfam"
-      },
-      "artists": [
-        {
-          "name": "SOLOMON",
-          "url": "https://open.spotify.com/artist/4Vw9AVIUyOYmwYYX54uRM4"
-        }
-      ],
-      "duration_ms": 131253,
-      "name": "sore loser - Acoustic",
-      "url": "https://open.spotify.com/track/4BLMoyEr9bR8RxnyCSCcEx"
-    },
-    {
-      "added_at": "2023-09-22 09:11:23",
-      "album": {
         "name": "THERAPY",
         "url": "https://open.spotify.com/album/13pHhMjxP0rRnWm7o0CZHw"
       },
@@ -611,6 +595,22 @@
       "duration_ms": 126857,
       "name": "THERAPY",
       "url": "https://open.spotify.com/track/49Lbka7DlfHkooF7ZIkQl2"
+    },
+    {
+      "added_at": "2023-09-22 09:11:23",
+      "album": {
+        "name": "sore loser (Acoustic)",
+        "url": "https://open.spotify.com/album/6S7b3klRES1CF1Ldmplfam"
+      },
+      "artists": [
+        {
+          "name": "SOLOMON",
+          "url": "https://open.spotify.com/artist/4Vw9AVIUyOYmwYYX54uRM4"
+        }
+      ],
+      "duration_ms": 131253,
+      "name": "sore loser - Acoustic",
+      "url": "https://open.spotify.com/track/4BLMoyEr9bR8RxnyCSCcEx"
     },
     {
       "added_at": "2023-09-22 09:11:23",
@@ -735,22 +735,6 @@
     {
       "added_at": "2023-09-22 09:11:23",
       "album": {
-        "name": "All Good",
-        "url": "https://open.spotify.com/album/3LXpQ1wgl7EMYs8iJi9Kq5"
-      },
-      "artists": [
-        {
-          "name": "Samm Henshaw",
-          "url": "https://open.spotify.com/artist/1Q2mS59tFYLm2KGFoCgWN4"
-        }
-      ],
-      "duration_ms": 152500,
-      "name": "All Good",
-      "url": "https://open.spotify.com/track/5rTLetGFtJPn2PxK5z19xs"
-    },
-    {
-      "added_at": "2023-09-22 09:11:23",
-      "album": {
         "name": "When the Rain Comes",
         "url": "https://open.spotify.com/album/2mPSmGrWTnWuND6i6CwgWE"
       },
@@ -763,6 +747,22 @@
       "duration_ms": 199146,
       "name": "When the Rain Comes",
       "url": "https://open.spotify.com/track/0mw1bEX0GYt1txWBjwGmRJ"
+    },
+    {
+      "added_at": "2023-09-22 09:11:23",
+      "album": {
+        "name": "All Good",
+        "url": "https://open.spotify.com/album/3LXpQ1wgl7EMYs8iJi9Kq5"
+      },
+      "artists": [
+        {
+          "name": "Samm Henshaw",
+          "url": "https://open.spotify.com/artist/1Q2mS59tFYLm2KGFoCgWN4"
+        }
+      ],
+      "duration_ms": 152500,
+      "name": "All Good",
+      "url": "https://open.spotify.com/track/5rTLetGFtJPn2PxK5z19xs"
     },
     {
       "added_at": "2023-09-22 09:11:23",
@@ -859,26 +859,6 @@
     {
       "added_at": "2023-09-22 09:11:23",
       "album": {
-        "name": "BARE SUGAR",
-        "url": "https://open.spotify.com/album/1FEv4lzzX2jNBvFpWX8InD"
-      },
-      "artists": [
-        {
-          "name": "Ragz Originale",
-          "url": "https://open.spotify.com/artist/0yw2O9rh7YQd5MqEHOFGzW"
-        },
-        {
-          "name": "Bakar",
-          "url": "https://open.spotify.com/artist/3K2Srho6NCF3o9MswGR76H"
-        }
-      ],
-      "duration_ms": 155728,
-      "name": "long stay (feat. Bakar)",
-      "url": "https://open.spotify.com/track/5ie2bMXcmiwk6q8TrP8J1W"
-    },
-    {
-      "added_at": "2023-09-22 09:11:23",
-      "album": {
         "name": "As You Are - A COLORS SHOW",
         "url": "https://open.spotify.com/album/0J876nXHrxOSvr895nSLlc"
       },
@@ -895,6 +875,26 @@
       "duration_ms": 221493,
       "name": "As You Are - A COLORS SHOW",
       "url": "https://open.spotify.com/track/6tDTnxaq8fHXZ63uiseNRH"
+    },
+    {
+      "added_at": "2023-09-22 09:11:23",
+      "album": {
+        "name": "BARE SUGAR",
+        "url": "https://open.spotify.com/album/1FEv4lzzX2jNBvFpWX8InD"
+      },
+      "artists": [
+        {
+          "name": "Ragz Originale",
+          "url": "https://open.spotify.com/artist/0yw2O9rh7YQd5MqEHOFGzW"
+        },
+        {
+          "name": "Bakar",
+          "url": "https://open.spotify.com/artist/3K2Srho6NCF3o9MswGR76H"
+        }
+      ],
+      "duration_ms": 155728,
+      "name": "long stay (feat. Bakar)",
+      "url": "https://open.spotify.com/track/5ie2bMXcmiwk6q8TrP8J1W"
     },
     {
       "added_at": "2023-09-22 09:11:23",
@@ -1023,22 +1023,18 @@
     {
       "added_at": "2023-09-22 09:11:23",
       "album": {
-        "name": "Outside",
-        "url": "https://open.spotify.com/album/48GGRBVO34uMUTyCII8ZpY"
+        "name": "Evil Eye",
+        "url": "https://open.spotify.com/album/1yPS6NFaQFhn1syGD8sQil"
       },
       "artists": [
         {
-          "name": "Dayo Bello",
-          "url": "https://open.spotify.com/artist/41mwTkqJfMxPMbQmEdN2S2"
-        },
-        {
-          "name": "Odeal",
-          "url": "https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh"
+          "name": "Bellah",
+          "url": "https://open.spotify.com/artist/6UZk0TOb0uZ1JWa3BW81FQ"
         }
       ],
-      "duration_ms": 205846,
-      "name": "Outside",
-      "url": "https://open.spotify.com/track/7HUWDK8W290h5FD9G5t3eH"
+      "duration_ms": 175194,
+      "name": "Evil Eye",
+      "url": "https://open.spotify.com/track/4FkAAesNdD4BeTAEHRdswW"
     }
   ],
   "unique_name": "R&B UK",

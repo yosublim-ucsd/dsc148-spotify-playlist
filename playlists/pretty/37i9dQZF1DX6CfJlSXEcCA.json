@@ -1,12 +1,12 @@
 {
   "description": "Enjoy game soundtracks from Capcom! \u6700\u65b0\u4f5c\u304b\u3089\u904e\u53bb\u307e\u3067\u3001\u591a\u6570\u306e\u4eba\u6c17\u4f5c\u54c1\u3092\u751f\u307f\u51fa\u3057\u305f\u30ab\u30d7\u30b3\u30f3\u306e\u30b2\u30fc\u30e0\u30b5\u30f3\u30c8\u30e9\u3092\u304a\u5c4a\u3051\uff01\u00a9CAPCOM CO., LTD. ALL RIGHTS RESERVED.",
-  "num_followers": 31989,
+  "num_followers": 32041,
   "original_name": "This Is Capcom Sound Team",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlYTE4NmM3ZTc0ZDg1YTUzZjUzNWZkZDg5NmYxMDg2NjE1M2Y5ZjAw",
+  "snapshot_id": "MCw1ZGM4YjRhOWZjOGFkMGFmOWU3ZjM0YmU1YTA2NTVmMTk1YWFkNzNm",
   "tracks": [
     {
       "added_at": "2021-06-30 15:18:23",
@@ -139,22 +139,18 @@
     {
       "added_at": "2021-06-30 15:18:23",
       "album": {
-        "name": "DEVIL MAY CRY 5 Original SoundTrack",
-        "url": "https://open.spotify.com/album/1moJ6fFO8yD6itUlDZXlwe"
+        "name": "\u30e2\u30f3\u30b9\u30bf\u30fc\u30cf\u30f3\u30bf\u30fc \u72e9\u731f\u97f3\u697d\u96c6XX",
+        "url": "https://open.spotify.com/album/2ulugdM6t8iLBYNuoYTyG8"
       },
       "artists": [
         {
-          "name": "Yoshiya Terayama",
-          "url": "https://open.spotify.com/artist/6QqEt1hkxnHA0sYiVrU0Dq"
-        },
-        {
-          "name": "Casey Edwards",
-          "url": "https://open.spotify.com/artist/1hGdQOfaZ5saQ6JWVuxVDZ"
+          "name": "\u88cf\u8c37\u73b2\u592e",
+          "url": "https://open.spotify.com/artist/50lUudPsXCGEe4dn6aKTdb"
         }
       ],
-      "duration_ms": 147698,
-      "name": "Devil Trigger - Opening Remix",
-      "url": "https://open.spotify.com/track/0yEmW37PXwTC9li00YrIOS"
+      "duration_ms": 193920,
+      "name": "\u9280\u7ffc\u306e\u51f6\u661f \u301c \u30d0\u30eb\u30d5\u30a1\u30eb\u30af",
+      "url": "https://open.spotify.com/track/0dVYVD6E0K9Gk9eo4f7y9k"
     },
     {
       "added_at": "2021-06-30 15:18:23",
@@ -175,18 +171,22 @@
     {
       "added_at": "2021-06-30 15:18:23",
       "album": {
-        "name": "\u30e2\u30f3\u30b9\u30bf\u30fc\u30cf\u30f3\u30bf\u30fc \u72e9\u731f\u97f3\u697d\u96c6XX",
-        "url": "https://open.spotify.com/album/2ulugdM6t8iLBYNuoYTyG8"
+        "name": "DEVIL MAY CRY 5 Original SoundTrack",
+        "url": "https://open.spotify.com/album/1moJ6fFO8yD6itUlDZXlwe"
       },
       "artists": [
         {
-          "name": "\u88cf\u8c37\u73b2\u592e",
-          "url": "https://open.spotify.com/artist/50lUudPsXCGEe4dn6aKTdb"
+          "name": "Yoshiya Terayama",
+          "url": "https://open.spotify.com/artist/6QqEt1hkxnHA0sYiVrU0Dq"
+        },
+        {
+          "name": "Casey Edwards",
+          "url": "https://open.spotify.com/artist/1hGdQOfaZ5saQ6JWVuxVDZ"
         }
       ],
-      "duration_ms": 193920,
-      "name": "\u9280\u7ffc\u306e\u51f6\u661f \u301c \u30d0\u30eb\u30d5\u30a1\u30eb\u30af",
-      "url": "https://open.spotify.com/track/0dVYVD6E0K9Gk9eo4f7y9k"
+      "duration_ms": 147698,
+      "name": "Devil Trigger - Opening Remix",
+      "url": "https://open.spotify.com/track/0yEmW37PXwTC9li00YrIOS"
     },
     {
       "added_at": "2021-06-30 15:18:23",

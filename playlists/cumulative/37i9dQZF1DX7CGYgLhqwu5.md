@@ -4,7 +4,7 @@
 
 > Many would say that this decade is a "Golden Era" for country music\. Cover: Patsy Cline
 
-163 songs - 7 hr 15 min
+164 songs - 7 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -47,7 +47,7 @@
 | [Don't Let Me Cross Over](https://open.spotify.com/track/1ZNDtli4TjhuoBnWplaePI) | [Carl Butler](https://open.spotify.com/artist/2EtHntibRhuBeOmpRT2HNF) | [Don't Let Me Cross Over](https://open.spotify.com/album/4x4PlliOVqlLHyqel4cOL8) | 2:57 | 2021-11-19 |  |
 | [Don't Touch Me](https://open.spotify.com/track/1Y2G8nl3CGR3qMPDDBuDhb) | [Jeannie Seely](https://open.spotify.com/artist/0i9f82nIFjrLnnsf2YX3vY) | [The Seely Style](https://open.spotify.com/album/5dx7Vs0d283fuSeaYpvSsw) | 3:12 | 2021-11-19 |  |
 | [Don't Worry](https://open.spotify.com/track/0dPfKBYyPmoSfoLJqeKAs4) | [Marty Robbins](https://open.spotify.com/artist/0Xi59sEw38vRvwleSAVqoo) | [The Story Of My Life: The Best Of Marty Robbins 1952\-1965](https://open.spotify.com/album/74rRdoFP8aO3ZhY8MeZK0m) | 3:14 | 2021-11-19 |  |
-| [Don't You Ever Get Tired of Hurting Me](https://open.spotify.com/track/6QAJbtf8Qb69AKsp8soPmN) | [Ray Price](https://open.spotify.com/artist/5sAg1HZePcFfhrs0G8A8OP) | [The Other Woman](https://open.spotify.com/album/04SpyksXWidqvdpTMc8UL4) | 2:48 | 2021-11-19 |  |
+| [Don't You Ever Get Tired of Hurting Me](https://open.spotify.com/track/6QAJbtf8Qb69AKsp8soPmN) | [Ray Price](https://open.spotify.com/artist/5sAg1HZePcFfhrs0G8A8OP) | [The Other Woman](https://open.spotify.com/album/04SpyksXWidqvdpTMc8UL4) | 2:48 | 2021-11-19 | 2023-10-19 |
 | [Fist City](https://open.spotify.com/track/6BLoKpgWtQbYqFDFUp9ApX) | [Loretta Lynn](https://open.spotify.com/artist/1FE0rls8gfQT3laAeRYNgl) | [Fist City](https://open.spotify.com/album/4or7bC7lPqBTr7Nh1AUSsN) | 2:12 | 2021-11-19 | 2022-07-29 |
 | [Fist City](https://open.spotify.com/track/1YaPhbIo2oKWT5ejlMEL5Z) | [Loretta Lynn](https://open.spotify.com/artist/1FE0rls8gfQT3laAeRYNgl) | [Fist City](https://open.spotify.com/album/069layftQtjJZ6KqZWHk6q) | 2:13 | 2022-07-25 |  |
 | [Fist City \- Single Version](https://open.spotify.com/track/4pV0usmSRCbH1Ll0KFY1my) | [Loretta Lynn](https://open.spotify.com/artist/1FE0rls8gfQT3laAeRYNgl) | [Loretta Lynn's Greatest Hits Volume II](https://open.spotify.com/album/2HATkjMuxRw71Ov2ptqtdB) | 2:14 | 2022-07-29 | 2022-11-13 |
@@ -93,6 +93,7 @@
 | [Love's Gonna Live Here](https://open.spotify.com/track/2uDr0EFaBvnA31ZzPavw1I) | [Buck Owens](https://open.spotify.com/artist/2FMZn5P3WATd7Il6FgPJNu) | [All\-Time Greatest Hits, Vol\. 2](https://open.spotify.com/album/2sXUW22os4AVVSTn2L1nn8) | 2:02 | 2023-05-19 | 2023-10-05 |
 | [Love's Gonna Live Here](https://open.spotify.com/track/0svhKL5JfIxASjbmEkxXKV) | [Buck Owens](https://open.spotify.com/artist/2FMZn5P3WATd7Il6FgPJNu) | [All\-Time Greatest Hits](https://open.spotify.com/album/6c31q0EiGPqzNVDKfQzyzt) | 2:04 | 2021-11-19 | 2023-06-28 |
 | [Love's Gonna Live Here \- 2006 Remastered Version](https://open.spotify.com/track/2cXarui64wT79bLjo13vOU) | [Buck Owens](https://open.spotify.com/artist/2FMZn5P3WATd7Il6FgPJNu) | [21 \#1 Hits: The Ultimate Collection](https://open.spotify.com/album/6YhrskvsUUnJtWmkCGeY6D) | 2:01 | 2023-05-19 | 2023-09-15 |
+| [Love's Gonna Live Here \- Mono Single Version](https://open.spotify.com/track/3ykinxbR3mQYkMHCA47GWr) | [Buck Owens & The Buckaroos](https://open.spotify.com/artist/41GBMTInlbb2bey1N6VAzV) | [The Complete Capitol Singles: 1957\-1966](https://open.spotify.com/album/1WllgaSsuf3emf53KiMKAy) | 2:01 | 2023-05-19 |  |
 | [Make the World Go Away](https://open.spotify.com/track/7GafJyGdVj7ahXo96LwFM4) | [Eddy Arnold](https://open.spotify.com/artist/5QsUbpxSE8lCZ5ga5rnD22) | [The Essential Eddy Arnold](https://open.spotify.com/album/1wNnWmnbzgp2KLoNGCAA15) | 2:37 | 2021-11-19 |  |
 | [Mama Tried](https://open.spotify.com/track/6h3YJ05BovN1Pgk145J3r9) | [Merle Haggard](https://open.spotify.com/artist/2ptmyXoL7poH6Zq62h1QT9) | [Mama Tried/ Pride In What I Am](https://open.spotify.com/album/7LmhShcQUdQf0vbfa6VUPn) | 2:14 | 2021-11-19 |  |
 | [May the Bird of Paradise Fly up Your Nose](https://open.spotify.com/track/4KRLWRl1bFjnXhY5MgZWrM) | [Little Jimmy Dickens](https://open.spotify.com/artist/7nhi4qhomET7CUCXYhbAlM) | [May the Bird of Paradise Fly Up Your Nose](https://open.spotify.com/album/0bC3amgMq1cdEOdsTChqIR) | 2:31 | 2021-11-19 |  |

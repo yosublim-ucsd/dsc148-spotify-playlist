@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7NhGf24haor.md) - [plain]
 
 > The newest Hardstyle tracks \| 2023 Hardstyle\. Cover: Hard Driver
 
-[Spotify](https://open.spotify.com/user/spotify) - 142,575 likes - 77 songs - 4 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 142,695 likes - 77 songs - 4 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -86,4 +86,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7NhGf24haor.md) - [plain]
 | 76 | [Feed Your Soul](https://open.spotify.com/track/6pMSQuswOIzpjrUlhxHgYs) | [Toneshifterz](https://open.spotify.com/artist/4LBa6kTLaQHiONCfTfTaXV) | [Feed Your Soul](https://open.spotify.com/album/0RR0KChzbW7cHTcTUcVF6W) | 4:01 |
 | 77 | [Wildfire](https://open.spotify.com/track/3H6LR9VTflkGxkyrSM5xLW) | [Sephyx](https://open.spotify.com/artist/7MXzeG7zoG8pKpqKCOqcZL) | [Wildfire](https://open.spotify.com/album/1Aep8odjbmyTlCalwMJTUg) | 3:50 |
 
-Snapshot ID: `MCxmNWJiZWNjN2Q2YzAzMGExYWEzYzU0YTc2ZjIwNTljZWFhNzU5OWYx`
+Snapshot ID: `MCw1MDhhNDFlOTBiMjQwNDhjYjJhODMxYTYxMWFkMTMxMTA2YWFkOGI1`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXrP6ULNzvkI.md) - [plain]
 
 > Our editors' picks of the best Fresh Finds tracks from around the world this year\. Cover: Katherine Li \#SpotifyWrapped
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,083 likes - 75 songs - 4 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,094 likes - 75 songs - 4 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXrP6ULNzvkI.md) - [plain]
 | 18 | [F.N.F\. \(Let's Go\)](https://open.spotify.com/track/1vrFJDrysqmsNAgyjBzx4f) | [Hitkidd](https://open.spotify.com/artist/5pR1zWq3UPsOpW1pTWayLf), [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG) | [F.N.F\. \(Let's Go\)](https://open.spotify.com/album/1FkcZKerCfWg4nUItVHf9B) | 2:17 |
 | 19 | [Post Nut Clarity](https://open.spotify.com/track/0x4OOb9FGytaKhWbZv2PzM) | [Alemeda](https://open.spotify.com/artist/33Se8kMYeTPkeeM2LnsPF8) | [Post Nut Clarity](https://open.spotify.com/album/39h4yFYVKjRcrPtI1h46Fy) | 1:53 |
 | 20 | [invisible string](https://open.spotify.com/track/1BuayMZGxH5A0NasB4bESi) | [ghost orchard](https://open.spotify.com/artist/49RJFYAmLSE8FMBQ1GjguG) | [invisible string](https://open.spotify.com/album/03SgefcTQpH6gDeTWiPawR) | 3:07 |
-| 21 | [Flight of the Crows](https://open.spotify.com/track/0gW6KLC4W6vChWUHucb69N) | [Jhariah](https://open.spotify.com/artist/5iMYu8Sj8dZEDsWJxSFwPP) | [A BEGINNER'S GUIDE TO FAKING YOUR DEATH](https://open.spotify.com/album/6LLqwrFRS3rgwKVCRBYGYy) | 2:38 |
+| 21 | [Flight of the Crows](https://open.spotify.com/track/2SgpLPEfLGWDMkCT9nFAO6) | [Jhariah](https://open.spotify.com/artist/5iMYu8Sj8dZEDsWJxSFwPP) | [A BEGINNER'S GUIDE TO FAKING YOUR DEATH](https://open.spotify.com/album/4Xfd2a497pZksMAx2BHqrv) | 2:38 |
 | 22 | [All Over This Party](https://open.spotify.com/track/4Wbfb7B6ke5nJZUHX0P7mk) | [Sans Soucis](https://open.spotify.com/artist/4vXFvvWirlvTwcl184KfDc) | [All Over This Party](https://open.spotify.com/album/4ofp2cEcuD3oelw7Qp3ooz) | 3:32 |
 | 23 | [Angels](https://open.spotify.com/track/1m4Xca7rdY2hvkDaMGccI5) | [Hamond](https://open.spotify.com/artist/2UnmGif8M5Hb5doxZIIDKR) | [Pirate Radio](https://open.spotify.com/album/4UGjfskucRAge5oMYjDsOz) | 3:08 |
 | 24 | [Nothing's Changed](https://open.spotify.com/track/5G9qNacj2bYiJ1009iWyDW) | [Cisco Swank](https://open.spotify.com/artist/1LlKtmnluANdN9NzI1jsIp), [Luke Titus](https://open.spotify.com/artist/1halAwBS8LmLaAPaztqZp2), [Saba](https://open.spotify.com/artist/7Hjbimq43OgxaBRpFXic4x) | [Some Things Take Time](https://open.spotify.com/album/4npRaJShorujh6Mjfl8WZU) | 2:01 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXrP6ULNzvkI.md) - [plain]
 | 74 | [Aura](https://open.spotify.com/track/3yLrFNajQckehtRDyh2FiI) | [Hatis Noit](https://open.spotify.com/artist/1VMXdJgyzy12hZGmEk8LPY) | [Aura](https://open.spotify.com/album/1CtdQTfP0DzM3GJA95Po52) | 7:17 |
 | 75 | [Summer Love](https://open.spotify.com/track/6864esbZ0WOrK05LZ0w0de) | [Bambina](https://open.spotify.com/artist/7dKQ4jc9y35k3P5dKWsLL1) | [Summer Love](https://open.spotify.com/album/5rZfNDMajoJcaEZX0duZtq) | 3:55 |
 
-Snapshot ID: `MCxkYzU3OWRmNDgxYmQyM2Y0YjBkODZhZTY5OGU0ZjdkM2M4ZWYwODUw`
+Snapshot ID: `MCxjMzdlYWFmNzA5MDRmOWJjYzAwZmQzMzQwYWQ0NTliMzllNzdmZDdh`

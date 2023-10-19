@@ -1,12 +1,12 @@
 {
   "description": "The official EA SPORTS FC 24 Soundtrack.",
-  "num_followers": 58787,
+  "num_followers": 59116,
   "original_name": "EA SPORTS FC 24 Official Soundtrack",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3MTE2YWQwNzAzNmNmMmJmMzgwYjVhZDkyMjVmN2UwNDZmYjhhZDFk",
+  "snapshot_id": "MCw1MDk3ZGU4MDU1NDAwNWVhZDRmNTcyMWYyNDBkMzY4ZWNiY2Q5MDA5",
   "tracks": [
     {
       "added_at": "2023-10-06 19:23:39",
@@ -303,22 +303,6 @@
     {
       "added_at": "2023-10-06 19:23:39",
       "album": {
-        "name": "Good Lies",
-        "url": "https://open.spotify.com/album/7whc0AZT0radX0A08ZgbCd"
-      },
-      "artists": [
-        {
-          "name": "Overmono",
-          "url": "https://open.spotify.com/artist/01PnN11ovfen6xUOHfNpn3"
-        }
-      ],
-      "duration_ms": 160127,
-      "name": "Good Lies",
-      "url": "https://open.spotify.com/track/59GW6EKtdyaJ10t2yQdqrt"
-    },
-    {
-      "added_at": "2023-10-06 19:23:39",
-      "album": {
         "name": "1,2 & Mer",
         "url": "https://open.spotify.com/album/60DB6Bg7sM4QjHsCV0ZBdF"
       },
@@ -331,6 +315,22 @@
       "duration_ms": 157080,
       "name": "1,2 & Mer",
       "url": "https://open.spotify.com/track/6nphe8z73s7ijdY5Bxy5fk"
+    },
+    {
+      "added_at": "2023-10-06 19:23:39",
+      "album": {
+        "name": "Good Lies",
+        "url": "https://open.spotify.com/album/7whc0AZT0radX0A08ZgbCd"
+      },
+      "artists": [
+        {
+          "name": "Overmono",
+          "url": "https://open.spotify.com/artist/01PnN11ovfen6xUOHfNpn3"
+        }
+      ],
+      "duration_ms": 160127,
+      "name": "Good Lies",
+      "url": "https://open.spotify.com/track/59GW6EKtdyaJ10t2yQdqrt"
     },
     {
       "added_at": "2023-10-06 19:23:39",
@@ -435,22 +435,6 @@
     {
       "added_at": "2023-10-06 19:23:39",
       "album": {
-        "name": "Jackman.",
-        "url": "https://open.spotify.com/album/0zKLHvP1TLKdDLSg4FOihB"
-      },
-      "artists": [
-        {
-          "name": "Jack Harlow",
-          "url": "https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ"
-        }
-      ],
-      "duration_ms": 113292,
-      "name": "They Don't Love It",
-      "url": "https://open.spotify.com/track/4YnazaBNYt86O9KhwjH9NA"
-    },
-    {
-      "added_at": "2023-10-06 19:23:39",
-      "album": {
         "name": "MICHAEL",
         "url": "https://open.spotify.com/album/2mBH7RhAS6vRKkSlA7IRIJ"
       },
@@ -471,6 +455,22 @@
       "duration_ms": 165653,
       "name": "DON'T LET THE DEVIL (feat. thankugoodsir)",
       "url": "https://open.spotify.com/track/1f7eBRPgFfKPhqMU7z31yF"
+    },
+    {
+      "added_at": "2023-10-06 19:23:39",
+      "album": {
+        "name": "Jackman.",
+        "url": "https://open.spotify.com/album/0zKLHvP1TLKdDLSg4FOihB"
+      },
+      "artists": [
+        {
+          "name": "Jack Harlow",
+          "url": "https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ"
+        }
+      ],
+      "duration_ms": 113292,
+      "name": "They Don't Love It",
+      "url": "https://open.spotify.com/track/4YnazaBNYt86O9KhwjH9NA"
     },
     {
       "added_at": "2023-10-06 19:23:39",
@@ -563,6 +563,30 @@
     {
       "added_at": "2023-10-06 19:23:39",
       "album": {
+        "name": "Universal Credit (Deluxe)",
+        "url": "https://open.spotify.com/album/4p0i4iUDBybIceENugG7gl"
+      },
+      "artists": [
+        {
+          "name": "Jeshi",
+          "url": "https://open.spotify.com/artist/0q8eApZJs5WDBxayY9769C"
+        },
+        {
+          "name": "Obongjayar",
+          "url": "https://open.spotify.com/artist/6l7R1jntPahGxwJt7Tky8h"
+        },
+        {
+          "name": "WESTSIDE BOOGIE",
+          "url": "https://open.spotify.com/artist/5usbqiU7sjvszjWecANDL6"
+        }
+      ],
+      "duration_ms": 188360,
+      "name": "Protein v2",
+      "url": "https://open.spotify.com/track/4BxywQGCn9qUTHPAarWGZZ"
+    },
+    {
+      "added_at": "2023-10-06 19:23:39",
+      "album": {
         "name": "098RADIO vol.1 Hosted by Awich",
         "url": "https://open.spotify.com/album/6jQI4R1D8sk5YXQnSju44y"
       },
@@ -587,30 +611,6 @@
       "duration_ms": 289846,
       "name": "RASEN in OKINAWA",
       "url": "https://open.spotify.com/track/6JDDIx1vSs5GvMZXsy2aR2"
-    },
-    {
-      "added_at": "2023-10-06 19:23:39",
-      "album": {
-        "name": "Universal Credit (Deluxe)",
-        "url": "https://open.spotify.com/album/4p0i4iUDBybIceENugG7gl"
-      },
-      "artists": [
-        {
-          "name": "Jeshi",
-          "url": "https://open.spotify.com/artist/0q8eApZJs5WDBxayY9769C"
-        },
-        {
-          "name": "Obongjayar",
-          "url": "https://open.spotify.com/artist/6l7R1jntPahGxwJt7Tky8h"
-        },
-        {
-          "name": "WESTSIDE BOOGIE",
-          "url": "https://open.spotify.com/artist/5usbqiU7sjvszjWecANDL6"
-        }
-      ],
-      "duration_ms": 188360,
-      "name": "Protein v2",
-      "url": "https://open.spotify.com/track/4BxywQGCn9qUTHPAarWGZZ"
     },
     {
       "added_at": "2023-10-06 19:23:39",
@@ -679,6 +679,22 @@
     {
       "added_at": "2023-10-06 19:23:39",
       "album": {
+        "name": "Embrace",
+        "url": "https://open.spotify.com/album/1JiflktVuDJ5OQkX6QFQRs"
+      },
+      "artists": [
+        {
+          "name": "Roosevelt",
+          "url": "https://open.spotify.com/artist/4AQrqVz6BYwy29iMxcGtx7"
+        }
+      ],
+      "duration_ms": 279810,
+      "name": "Fall Right In",
+      "url": "https://open.spotify.com/track/5NqxYiQuZFRIlhZmNVQEPX"
+    },
+    {
+      "added_at": "2023-10-06 19:23:39",
+      "album": {
         "name": "Belters Only",
         "url": "https://open.spotify.com/album/1gUtcP3rhQnQy0QEnOpe9y"
       },
@@ -699,22 +715,6 @@
       "duration_ms": 222070,
       "name": "Superstar",
       "url": "https://open.spotify.com/track/6sqG2ZdKeW2C9lIStu99FP"
-    },
-    {
-      "added_at": "2023-10-06 19:23:39",
-      "album": {
-        "name": "Embrace",
-        "url": "https://open.spotify.com/album/1JiflktVuDJ5OQkX6QFQRs"
-      },
-      "artists": [
-        {
-          "name": "Roosevelt",
-          "url": "https://open.spotify.com/artist/4AQrqVz6BYwy29iMxcGtx7"
-        }
-      ],
-      "duration_ms": 279810,
-      "name": "Fall Right In",
-      "url": "https://open.spotify.com/track/5NqxYiQuZFRIlhZmNVQEPX"
     },
     {
       "added_at": "2023-10-06 19:23:39",
@@ -827,6 +827,26 @@
     {
       "added_at": "2023-10-06 19:23:39",
       "album": {
+        "name": "I Just Wanna Dance",
+        "url": "https://open.spotify.com/album/56zVapikmKNxBhX4Osw5ts"
+      },
+      "artists": [
+        {
+          "name": "Higgo",
+          "url": "https://open.spotify.com/artist/0f1qSxprIDtLaJfIaEJb64"
+        },
+        {
+          "name": "mustbejohn",
+          "url": "https://open.spotify.com/artist/5hgZ7PGI0EM2UfiWAIKdFc"
+        }
+      ],
+      "duration_ms": 163750,
+      "name": "I Just Wanna Dance",
+      "url": "https://open.spotify.com/track/4dJsbFmhri91euJQbhVqT8"
+    },
+    {
+      "added_at": "2023-10-06 19:23:39",
+      "album": {
         "name": "Osama (Bruno Be, Ralk Rework)",
         "url": "https://open.spotify.com/album/5Tds5Ajn5nx4GMId45f9TV"
       },
@@ -851,26 +871,6 @@
       "duration_ms": 281794,
       "name": "Osama - Bruno Be, Ralk Rework",
       "url": "https://open.spotify.com/track/3pWC9DZvy8N8CUHKJJ8dBp"
-    },
-    {
-      "added_at": "2023-10-06 19:23:39",
-      "album": {
-        "name": "I Just Wanna Dance",
-        "url": "https://open.spotify.com/album/56zVapikmKNxBhX4Osw5ts"
-      },
-      "artists": [
-        {
-          "name": "Higgo",
-          "url": "https://open.spotify.com/artist/0f1qSxprIDtLaJfIaEJb64"
-        },
-        {
-          "name": "mustbejohn",
-          "url": "https://open.spotify.com/artist/5hgZ7PGI0EM2UfiWAIKdFc"
-        }
-      ],
-      "duration_ms": 163750,
-      "name": "I Just Wanna Dance",
-      "url": "https://open.spotify.com/track/4dJsbFmhri91euJQbhVqT8"
     },
     {
       "added_at": "2023-10-06 19:23:39",
@@ -1343,22 +1343,6 @@
     {
       "added_at": "2023-10-06 19:23:39",
       "album": {
-        "name": "The World\u2019s Biggest Paving Slab",
-        "url": "https://open.spotify.com/album/3ducN0Lrdg8qwP5xnoJ5X6"
-      },
-      "artists": [
-        {
-          "name": "English Teacher",
-          "url": "https://open.spotify.com/artist/5H9IFTRxSICj24uxO15ScU"
-        }
-      ],
-      "duration_ms": 185471,
-      "name": "The World's Biggest Paving Slab",
-      "url": "https://open.spotify.com/track/0BrPXLcu7IavDEzSU7YwSo"
-    },
-    {
-      "added_at": "2023-10-06 19:23:39",
-      "album": {
         "name": "The Gates Will Open",
         "url": "https://open.spotify.com/album/1B8aBnkCqVbDcpk8kIfqzv"
       },
@@ -1375,18 +1359,18 @@
     {
       "added_at": "2023-10-06 19:23:39",
       "album": {
-        "name": "THAT GIRL",
-        "url": "https://open.spotify.com/album/0dCFboe6x4Nz3e7LkGWIgE"
+        "name": "The World\u2019s Biggest Paving Slab",
+        "url": "https://open.spotify.com/album/3ducN0Lrdg8qwP5xnoJ5X6"
       },
       "artists": [
         {
-          "name": "Bree Runway",
-          "url": "https://open.spotify.com/artist/58hqTaCiqGrMsNmmm3qL7w"
+          "name": "English Teacher",
+          "url": "https://open.spotify.com/artist/5H9IFTRxSICj24uxO15ScU"
         }
       ],
-      "duration_ms": 125800,
-      "name": "THAT GIRL",
-      "url": "https://open.spotify.com/track/3WSlZ5C7P9rN98QG7AYcB5"
+      "duration_ms": 185471,
+      "name": "The World's Biggest Paving Slab",
+      "url": "https://open.spotify.com/track/0BrPXLcu7IavDEzSU7YwSo"
     },
     {
       "added_at": "2023-10-06 19:23:39",
@@ -1411,18 +1395,18 @@
     {
       "added_at": "2023-10-06 19:23:39",
       "album": {
-        "name": "Who Else Would It Be",
-        "url": "https://open.spotify.com/album/25i87dAxFScrO1VjyyOLlm"
+        "name": "THAT GIRL",
+        "url": "https://open.spotify.com/album/0dCFboe6x4Nz3e7LkGWIgE"
       },
       "artists": [
         {
-          "name": "KayCyy",
-          "url": "https://open.spotify.com/artist/7gmVTgaiN0gpDJKvTHPTRL"
+          "name": "Bree Runway",
+          "url": "https://open.spotify.com/artist/58hqTaCiqGrMsNmmm3qL7w"
         }
       ],
-      "duration_ms": 91913,
-      "name": "Who Else Would It Be",
-      "url": "https://open.spotify.com/track/3WbusxungaQoyYLe33Yepv"
+      "duration_ms": 125800,
+      "name": "THAT GIRL",
+      "url": "https://open.spotify.com/track/3WSlZ5C7P9rN98QG7AYcB5"
     },
     {
       "added_at": "2023-10-06 19:23:39",
@@ -1443,6 +1427,22 @@
       "duration_ms": 180628,
       "name": "EZ 4 Me",
       "url": "https://open.spotify.com/track/7atFLBiAaQxMyZP5zzVp3T"
+    },
+    {
+      "added_at": "2023-10-06 19:23:39",
+      "album": {
+        "name": "Who Else Would It Be",
+        "url": "https://open.spotify.com/album/25i87dAxFScrO1VjyyOLlm"
+      },
+      "artists": [
+        {
+          "name": "KayCyy",
+          "url": "https://open.spotify.com/artist/7gmVTgaiN0gpDJKvTHPTRL"
+        }
+      ],
+      "duration_ms": 91913,
+      "name": "Who Else Would It Be",
+      "url": "https://open.spotify.com/track/3WbusxungaQoyYLe33Yepv"
     },
     {
       "added_at": "2023-10-06 19:23:39",
@@ -1575,26 +1575,6 @@
     {
       "added_at": "2023-10-06 19:23:39",
       "album": {
-        "name": "I Go Get It",
-        "url": "https://open.spotify.com/album/1NCyCAeI4jdb8HTymUhouL"
-      },
-      "artists": [
-        {
-          "name": "Souls Of Creation",
-          "url": "https://open.spotify.com/artist/2IdVY7sUy5Dvugq7YXpp9L"
-        },
-        {
-          "name": "Bobbie Johnson",
-          "url": "https://open.spotify.com/artist/53UYVk8esbujg16JqCpQEO"
-        }
-      ],
-      "duration_ms": 131320,
-      "name": "I Go Get It",
-      "url": "https://open.spotify.com/track/4ADaOjVuuwWbRrOyvayozt"
-    },
-    {
-      "added_at": "2023-10-06 19:23:39",
-      "album": {
         "name": "Sigo Tus Pasos",
         "url": "https://open.spotify.com/album/2bPAdT9z9WiYvw65vVq2Ub"
       },
@@ -1611,6 +1591,26 @@
       "duration_ms": 242983,
       "name": "Sigo Tus Pasos",
       "url": "https://open.spotify.com/track/12WuJATJtln4wMEQ1EEMOO"
+    },
+    {
+      "added_at": "2023-10-06 19:23:39",
+      "album": {
+        "name": "I Go Get It",
+        "url": "https://open.spotify.com/album/1NCyCAeI4jdb8HTymUhouL"
+      },
+      "artists": [
+        {
+          "name": "Souls Of Creation",
+          "url": "https://open.spotify.com/artist/2IdVY7sUy5Dvugq7YXpp9L"
+        },
+        {
+          "name": "Bobbie Johnson",
+          "url": "https://open.spotify.com/artist/53UYVk8esbujg16JqCpQEO"
+        }
+      ],
+      "duration_ms": 131320,
+      "name": "I Go Get It",
+      "url": "https://open.spotify.com/track/4ADaOjVuuwWbRrOyvayozt"
     },
     {
       "added_at": "2023-10-06 19:23:39",
@@ -1703,6 +1703,22 @@
     {
       "added_at": "2023-10-06 19:23:39",
       "album": {
+        "name": "Powder",
+        "url": "https://open.spotify.com/album/1RrDvZ7Nz0Lcgd1rwfb92R"
+      },
+      "artists": [
+        {
+          "name": "Pontypool",
+          "url": "https://open.spotify.com/artist/1YbwDEYd3zXoAZy4WbutXZ"
+        }
+      ],
+      "duration_ms": 206680,
+      "name": "Powder",
+      "url": "https://open.spotify.com/track/16rnpRKp27VbbnW9t7DHHd"
+    },
+    {
+      "added_at": "2023-10-06 19:23:39",
+      "album": {
         "name": "EYELIDS",
         "url": "https://open.spotify.com/album/0KqX8QZZ3QdwGRFItQS8zp"
       },
@@ -1739,22 +1755,6 @@
       "duration_ms": 225874,
       "name": "Sekkle In",
       "url": "https://open.spotify.com/track/1WClrb8WfN4SNAoiDlltSv"
-    },
-    {
-      "added_at": "2023-10-06 19:23:39",
-      "album": {
-        "name": "Powder",
-        "url": "https://open.spotify.com/album/1RrDvZ7Nz0Lcgd1rwfb92R"
-      },
-      "artists": [
-        {
-          "name": "Pontypool",
-          "url": "https://open.spotify.com/artist/1YbwDEYd3zXoAZy4WbutXZ"
-        }
-      ],
-      "duration_ms": 206680,
-      "name": "Powder",
-      "url": "https://open.spotify.com/track/16rnpRKp27VbbnW9t7DHHd"
     },
     {
       "added_at": "2023-10-06 19:23:39",

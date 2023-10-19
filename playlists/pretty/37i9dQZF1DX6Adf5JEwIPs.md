@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Adf5JEwIPs.md) - [plain]
 
 > Lo más nuevo de la Música Mexicana\. Cover: Jasiel Nuñez y DannyLux
 
-[Spotify](https://open.spotify.com/user/spotify) - 629,671 likes - 50 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 629,764 likes - 50 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,7 +26,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Adf5JEwIPs.md) - [plain]
 | 16 | [Rosas](https://open.spotify.com/track/3uFzo9GFVS3Yw4KIVdsYHN) | [Grupo Arriesgado](https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh) | [Rosas](https://open.spotify.com/album/6sDgZzqJBy8r5TWPPVjL1E) | 4:33 |
 | 17 | [Quiero lo Que Sea](https://open.spotify.com/track/36RcdgSy3LhsLrYD8D6V8q) | [Grupo Maximo Grado](https://open.spotify.com/artist/0ssx5sZQzc1nZZF2Ks8qXZ) | [Quiero lo Que Sea](https://open.spotify.com/album/0pjsYFT3VK2Jxie4b08tax) | 2:17 |
 | 18 | [El Flaco](https://open.spotify.com/track/5sWS0FUxzQvYyEuzMuGIfV) | [Herencia De Grandes](https://open.spotify.com/artist/0ocHleb3SllGNQQcDH35Xz) | [El Flaco](https://open.spotify.com/album/38Oz9fC4isKyRTx9Hcjli1) | 3:20 |
-| 19 | [Bienvenido a la Chapiza](https://open.spotify.com/track/2THZ79y3BIdNwZM4B8EbSZ) | [Revolver Cannabis](https://open.spotify.com/artist/7a3g8JUF8iipgP1BCEsm4I), [Panchito Arredondo](https://open.spotify.com/artist/1enyvmNKgt4BIIkVnt9FAV) | [Bienvenido a la Chapiza](https://open.spotify.com/album/3rIaATmhyQCd1w6JkZVhox) | 2:55 |
+| 19 | [Bienvenido a la Chapiza \( Un Viejito en una Piedra \)](https://open.spotify.com/track/2THZ79y3BIdNwZM4B8EbSZ) | [Revolver Cannabis](https://open.spotify.com/artist/7a3g8JUF8iipgP1BCEsm4I), [Panchito Arredondo](https://open.spotify.com/artist/1enyvmNKgt4BIIkVnt9FAV) | [Bienvenido a la Chapiza \( Un Viejito en una Piedra \)](https://open.spotify.com/album/3rIaATmhyQCd1w6JkZVhox) | 2:55 |
 | 20 | [Jódanse](https://open.spotify.com/track/0aylK2CdIREgHZeLnSpEjD) | [Michelle BI](https://open.spotify.com/artist/2dUVZnenljNsORRkO4OnzM) | [Jódanse](https://open.spotify.com/album/2g7At4yEF6mkIwVv5phyn2) | 2:57 |
 | 21 | [Mariposa Traicionera](https://open.spotify.com/track/7zH13dm5afW9svmsppl4Yj) | [La Alianza Norteña](https://open.spotify.com/artist/6RTbXTYbxbg4hHHwu12xdw) | [Mariposa Traicionera](https://open.spotify.com/album/5jbWKNew8ZkDNlcanGbxIe) | 3:51 |
 | 22 | [Soy Como Quiero Ser](https://open.spotify.com/track/5fj9XNJjscbBoZUkJOKDYu) | [Leonardo Aguilar](https://open.spotify.com/artist/1QgrwYywvDuC43MDtR8cqq) | [Soy Como Quiero Ser](https://open.spotify.com/album/3rmJcsxTIFLu4AzQu3QuZK) | 2:35 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Adf5JEwIPs.md) - [plain]
 | 49 | [Soñando](https://open.spotify.com/track/1ZZ2jOHKjKGUGGSOj7LsaD) | [El Wiko](https://open.spotify.com/artist/711tZI6sxBPYHe5FvbLQjs), [Simpson Ahuevo](https://open.spotify.com/artist/6viZnVSHavFUcW0blu6Mvw) | [Soñando](https://open.spotify.com/album/1tl182IgEgAOhTOgp1rooN) | 3:08 |
 | 50 | [Buena Suerte](https://open.spotify.com/track/2MaStYe0PIrqKdIMN6rWo9) | [Franco Rey](https://open.spotify.com/artist/5ijydygAQo5wd1WJFDrGk3) | [Buena Suerte](https://open.spotify.com/album/1mpRBVz9p8tRlZKgU9WGzK) | 2:09 |
 
-Snapshot ID: `MCw2YTQ2ZDkwZDliY2ExZjk0YjI2MTI1NmQ4YzlmZmY5YzM3OTMyNWI2`
+Snapshot ID: `MCxhMzZlZmViYTcwOTg2NGJmMzdlMTM5MzIyYWEyNDNiZDJhMWQwOTVk`

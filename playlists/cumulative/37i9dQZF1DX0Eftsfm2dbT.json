@@ -224,7 +224,7 @@
     {
       "album": {
         "name": "anthem",
-        "url": "https://open.spotify.com/album/7GjUsRh0C6ktHFEBwaBrNW"
+        "url": "https://open.spotify.com/album/0kOnGqiGCtJYM9NWOzu7up"
       },
       "artists": [
         {
@@ -243,6 +243,32 @@
       "date_added": "2023-10-17",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 338773,
+      "name": "anthem",
+      "url": "https://open.spotify.com/track/3JeWH79fpt8lFF799Zbqws"
+    },
+    {
+      "album": {
+        "name": "anthem",
+        "url": "https://open.spotify.com/album/7GjUsRh0C6ktHFEBwaBrNW"
+      },
+      "artists": [
+        {
+          "name": "Kingo",
+          "url": "https://open.spotify.com/artist/0EQsho43hajeaj7OxSVVZP"
+        },
+        {
+          "name": "Black petrol",
+          "url": "https://open.spotify.com/artist/5YMmMKHQUVFGLShGNxe9Jt"
+        },
+        {
+          "name": "DinoJr.",
+          "url": "https://open.spotify.com/artist/2Tjsjqtiz24545VekPM72J"
+        }
+      ],
+      "date_added": "2023-10-17",
+      "date_added_asterisk": false,
+      "date_removed": "2023-10-19",
       "duration_ms": 338773,
       "name": "anthem",
       "url": "https://open.spotify.com/track/4KRUgoSpi23KnLoOlfS4v1"
@@ -976,7 +1002,7 @@
     {
       "album": {
         "name": "CHALLENGER",
-        "url": "https://open.spotify.com/album/05975PE0clbjLhyuBj7FiM"
+        "url": "https://open.spotify.com/album/39VgHgvLOmMS9OSV8H1BdP"
       },
       "artists": [
         {
@@ -987,6 +1013,24 @@
       "date_added": "2023-10-17",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 157493,
+      "name": "ENERGY SONG",
+      "url": "https://open.spotify.com/track/0mQXPMmV7Pq4jvHyKPydOh"
+    },
+    {
+      "album": {
+        "name": "CHALLENGER",
+        "url": "https://open.spotify.com/album/05975PE0clbjLhyuBj7FiM"
+      },
+      "artists": [
+        {
+          "name": "Rappagariya",
+          "url": "https://open.spotify.com/artist/2AIgd1f6tXGh7TALqY7uQm"
+        }
+      ],
+      "date_added": "2023-10-17",
+      "date_added_asterisk": false,
+      "date_removed": "2023-10-19",
       "duration_ms": 157493,
       "name": "ENERGY SONG",
       "url": "https://open.spotify.com/track/61sk82mNl7QBvUftq94MD5"
@@ -1700,10 +1744,36 @@
       ],
       "date_added": "2023-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-19",
       "duration_ms": 196483,
       "name": "LEGIT",
       "url": "https://open.spotify.com/track/2gzC3mLGYXGeTv3hapcJOK"
+    },
+    {
+      "album": {
+        "name": "PLAYA'z ANTHE M",
+        "url": "https://open.spotify.com/album/7cXsWSJ9zaLCD2tEaoy47S"
+      },
+      "artists": [
+        {
+          "name": "noizy",
+          "url": "https://open.spotify.com/artist/2bwaXc6DMSZRMrJ5f3NLoH"
+        },
+        {
+          "name": "$ELMA",
+          "url": "https://open.spotify.com/artist/607cJ7M9vsr1xAYWCE51tX"
+        },
+        {
+          "name": "$oil J",
+          "url": "https://open.spotify.com/artist/6o73thd36b4cdF4dV16ktA"
+        }
+      ],
+      "date_added": "2023-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196483,
+      "name": "LEGIT",
+      "url": "https://open.spotify.com/track/7nntkO0yiM5ORBmNhKuI31"
     },
     {
       "album": {
@@ -2268,7 +2338,7 @@
     {
       "album": {
         "name": "Communication",
-        "url": "https://open.spotify.com/album/3tbH6XM7Z9l4KVVrjNrtoE"
+        "url": "https://open.spotify.com/album/5Aiajs1ekJxjeKmtBuDtTD"
       },
       "artists": [
         {
@@ -2283,6 +2353,28 @@
       "date_added": "2023-10-17",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 206900,
+      "name": "Okay",
+      "url": "https://open.spotify.com/track/1E8vRAtyEr8pWlRkd7XVqW"
+    },
+    {
+      "album": {
+        "name": "Communication",
+        "url": "https://open.spotify.com/album/3tbH6XM7Z9l4KVVrjNrtoE"
+      },
+      "artists": [
+        {
+          "name": "TAKE-M",
+          "url": "https://open.spotify.com/artist/2MyIIGdQqHZBcKt9PoG0QL"
+        },
+        {
+          "name": "R-shitei",
+          "url": "https://open.spotify.com/artist/0FZn92qmQ4tpWLbGR26dBb"
+        }
+      ],
+      "date_added": "2023-10-17",
+      "date_added_asterisk": false,
+      "date_removed": "2023-10-19",
       "duration_ms": 206900,
       "name": "Okay",
       "url": "https://open.spotify.com/track/6m2Sl8d0URUWhpMzEOIYPk"
