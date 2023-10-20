@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "Beautiful proudly South African gems. Cover: <a href=\"https://open.spotify.com/artist/6JzpDqY5CZkjLU40GmmTkM?si=eCV516INQ4eGFsexO1dB5g\">Muneyi</a>",
+  "description": "Beautiful proudly South African gems. Cover: <a href=\"https://open.spotify.com/artist/4cdFNn4RtIOX2pIS3Ye3Vg?si=gVc1JfYsQ3Ouxl4WabMKBA\">Darkie Fiction</a>",
   "name": "Made In South Africa",
   "tracks": [
     {
@@ -2240,6 +2240,24 @@
       "duration_ms": 240000,
       "name": "Forever Yours",
       "url": "https://open.spotify.com/track/1JhdsJnSPVmzjilbLympm7"
+    },
+    {
+      "album": {
+        "name": "Free",
+        "url": "https://open.spotify.com/album/6DqoAUmZnzAE3quXt0bAgq"
+      },
+      "artists": [
+        {
+          "name": "Darkie Fiction",
+          "url": "https://open.spotify.com/artist/4cdFNn4RtIOX2pIS3Ye3Vg"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127800,
+      "name": "Free",
+      "url": "https://open.spotify.com/track/5T9CAx0lK25jCTj7LRAjHL"
     },
     {
       "album": {
@@ -6990,7 +7008,7 @@
       ],
       "date_added": "2023-08-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-20",
       "duration_ms": 402179,
       "name": "Oe'Phihlile",
       "url": "https://open.spotify.com/track/4Z14QJJqzQiYFXsEiJkPnF"

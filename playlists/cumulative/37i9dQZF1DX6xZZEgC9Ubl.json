@@ -8836,7 +8836,7 @@
     {
       "album": {
         "name": "MANIC MAN",
-        "url": "https://open.spotify.com/album/5TdSvS3gTjsrqWcMneRQuI"
+        "url": "https://open.spotify.com/album/0jqwLKjpjN4ikAbIi7bAHT"
       },
       "artists": [
         {
@@ -8847,6 +8847,24 @@
       "date_added": "2023-09-01",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 166666,
+      "name": "MANIC MAN",
+      "url": "https://open.spotify.com/track/0YJDzkmiyRQbgzlV4fo02m"
+    },
+    {
+      "album": {
+        "name": "MANIC MAN",
+        "url": "https://open.spotify.com/album/5TdSvS3gTjsrqWcMneRQuI"
+      },
+      "artists": [
+        {
+          "name": "DIRTYXAN",
+          "url": "https://open.spotify.com/artist/5BEGUGWpPDPKXCgqubqnLB"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": "2023-10-20",
       "duration_ms": 166666,
       "name": "MANIC MAN",
       "url": "https://open.spotify.com/track/26rijl9dFrPmT2mIB7BAE2"

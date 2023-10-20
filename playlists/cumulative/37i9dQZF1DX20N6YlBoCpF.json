@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-10-01",
-  "description": "Die varste Afrikaanse musiek. Cover: <a href=\"https://open.spotify.com/artist/3Gg20zbz8OVW3iahm8uoYo?si=tLbyRVllQF2P5TR3mx4lRww\">Elandr\u00e9</a> ",
+  "description": "Die varste Afrikaanse musiek. Cover: <a href=\"https://open.spotify.com/artist/4w6AsEneIpyV0x0Umntav5?si=rGsADTlJQo-TSuDGIsLU3A\">Armand Steenkamp</a> ",
   "name": "Nuwe Afrikaans",
   "tracks": [
     {
@@ -754,7 +754,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-20",
       "duration_ms": 155697,
       "name": "Belowe",
       "url": "https://open.spotify.com/track/1AkX0ASx7C5U9z7wqlNXY3"
@@ -2135,6 +2135,24 @@
     },
     {
       "album": {
+        "name": "Die Sonskyn en Die Re\u00ebn",
+        "url": "https://open.spotify.com/album/1G1I8b6QO6p7r8IM94C0cR"
+      },
+      "artists": [
+        {
+          "name": "RAAF",
+          "url": "https://open.spotify.com/artist/66vg0qEPZEfpw4hZcrzsGi"
+        }
+      ],
+      "date_added": "2023-10-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185670,
+      "name": "Die Sonskyn en Die Re\u00ebn",
+      "url": "https://open.spotify.com/track/16msFCHm7rvxMKgVQnHRaX"
+    },
+    {
+      "album": {
         "name": "Die Vakansie Song - Shokbasse Remix",
         "url": "https://open.spotify.com/album/3zUSxdod87bOZ8I8hNjU0O"
       },
@@ -3040,7 +3058,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-20",
       "duration_ms": 225605,
       "name": "Genna Reyter",
       "url": "https://open.spotify.com/track/4na4KG1uETHx3OI67F60Hs"
@@ -3094,7 +3112,7 @@
       ],
       "date_added": "2023-08-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-20",
       "duration_ms": 203362,
       "name": "Gogga",
       "url": "https://open.spotify.com/track/58byxA9vGXEwHgmYHVkINT"
@@ -3424,7 +3442,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-20",
       "duration_ms": 201000,
       "name": "Hiep hiep hoera",
       "url": "https://open.spotify.com/track/2Z0yydrGeU24bvSsBeVAU9"
@@ -4152,7 +4170,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-20",
       "duration_ms": 224258,
       "name": "Jonk en Verlore",
       "url": "https://open.spotify.com/track/3INo7lcd1JKS9vxUOb8N10"
@@ -4322,7 +4340,7 @@
       ],
       "date_added": "2023-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-20",
       "duration_ms": 180062,
       "name": "Kamp Saam Vriende",
       "url": "https://open.spotify.com/track/2ggnTaThwTyzOqWGiAQKzo"
@@ -4438,7 +4456,7 @@
       ],
       "date_added": "2023-06-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-20",
       "duration_ms": 186495,
       "name": "Khaki",
       "url": "https://open.spotify.com/track/5YtFnh2RwQNFh5G35DntZZ"
@@ -5072,7 +5090,7 @@
       ],
       "date_added": "2023-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-20",
       "duration_ms": 221999,
       "name": "Laat Die Vure Brand",
       "url": "https://open.spotify.com/track/0OMdcQ4uHqwc2T0iTBTEpv"
@@ -5274,6 +5292,24 @@
       "duration_ms": 208875,
       "name": "Lekker In Suid-Afrika",
       "url": "https://open.spotify.com/track/1WhdprkjiCK9xECfcIpH5A"
+    },
+    {
+      "album": {
+        "name": "Lekker Ou Struis",
+        "url": "https://open.spotify.com/album/7AOLJ2XvVYCacOz0wOG7gG"
+      },
+      "artists": [
+        {
+          "name": "Armand Steenkamp",
+          "url": "https://open.spotify.com/artist/4w6AsEneIpyV0x0Umntav5"
+        }
+      ],
+      "date_added": "2023-10-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169398,
+      "name": "Lekker Ou Struis",
+      "url": "https://open.spotify.com/track/3I8JabLyjmDMeOwkn91rxS"
     },
     {
       "album": {
@@ -6506,7 +6542,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-20",
       "duration_ms": 193050,
       "name": "Niks Nie",
       "url": "https://open.spotify.com/track/1A046NzhEiaILRVAefVXvh"
@@ -6825,6 +6861,42 @@
     },
     {
       "album": {
+        "name": "Om die Tafel",
+        "url": "https://open.spotify.com/album/6AnxMeUrwmKWD3fKdmFGnU"
+      },
+      "artists": [
+        {
+          "name": "Inspirasie Veelvoud",
+          "url": "https://open.spotify.com/artist/3r1BRjgeZHFN40DD6aWMMo"
+        }
+      ],
+      "date_added": "2023-10-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176920,
+      "name": "Om die Tafel",
+      "url": "https://open.spotify.com/track/2wdxOVcUSTqDe3p9imHCMj"
+    },
+    {
+      "album": {
+        "name": "om myself te vind",
+        "url": "https://open.spotify.com/album/1LmE3OEfeJMRxB0xbixCtr"
+      },
+      "artists": [
+        {
+          "name": "Elsje du Toit",
+          "url": "https://open.spotify.com/artist/6miepPtiQawx256JNyCecF"
+        }
+      ],
+      "date_added": "2023-10-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225875,
+      "name": "om myself te vind",
+      "url": "https://open.spotify.com/track/7wed89RwNWNeJTdIQcYLNx"
+    },
+    {
+      "album": {
         "name": "Omdat Ek Wil",
         "url": "https://open.spotify.com/album/4Wp8xJhzrziBGnWukuiqbt"
       },
@@ -6906,6 +6978,28 @@
       "duration_ms": 193627,
       "name": "Ons Braai Net",
       "url": "https://open.spotify.com/track/5LUgDfGlQZWVnOi4bITNzf"
+    },
+    {
+      "album": {
+        "name": "SKAPIE",
+        "url": "https://open.spotify.com/album/2BVe4234t1zBmk4OL2frnu"
+      },
+      "artists": [
+        {
+          "name": "Die Twaalf",
+          "url": "https://open.spotify.com/artist/0oRSb3BbA27o5W5dDroEXW"
+        },
+        {
+          "name": "Angie oeh",
+          "url": "https://open.spotify.com/artist/7rzauTxOgwzrTkkPzi7aAY"
+        }
+      ],
+      "date_added": "2023-10-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204812,
+      "name": "Ons Gaan Laag",
+      "url": "https://open.spotify.com/track/1ZIGOZIrqJdnVkJcMDApw2"
     },
     {
       "album": {
@@ -7541,6 +7635,24 @@
     },
     {
       "album": {
+        "name": "Remissie (Homeopaties)",
+        "url": "https://open.spotify.com/album/5KUDX2OuruNNpHGd1ZpeRz"
+      },
+      "artists": [
+        {
+          "name": "Werner Olckers",
+          "url": "https://open.spotify.com/artist/0uGoWMIEm56ThYr7kIW4VG"
+        }
+      ],
+      "date_added": "2023-10-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170900,
+      "name": "Remissie (Homeopaties)",
+      "url": "https://open.spotify.com/track/7CTLsUcL3OVROwQR6xujI7"
+    },
+    {
+      "album": {
         "name": "Revolusie",
         "url": "https://open.spotify.com/album/1w98OY20lrO64tCpn1tJlu"
       },
@@ -7570,7 +7682,7 @@
       ],
       "date_added": "2023-08-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-20",
       "duration_ms": 228355,
       "name": "Rigtingnaald",
       "url": "https://open.spotify.com/track/0S3S4LAhY89K9hjlIWuptV"
@@ -7628,7 +7740,7 @@
       ],
       "date_added": "2023-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-20",
       "duration_ms": 201888,
       "name": "Rolo Meisie",
       "url": "https://open.spotify.com/track/7fsXg0bJaEv9XSRsSjvznD"
@@ -8686,7 +8798,7 @@
       ],
       "date_added": "2023-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-20",
       "duration_ms": 190796,
       "name": "Stoutgat",
       "url": "https://open.spotify.com/track/4QyvkP2gRHGYOaOntzVJpL"
@@ -9188,7 +9300,7 @@
       ],
       "date_added": "2023-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-20",
       "duration_ms": 221463,
       "name": "Toe, Nou en Altyd",
       "url": "https://open.spotify.com/track/0rjzroUiVMuRCNzC8iMVkf"
@@ -9445,6 +9557,28 @@
     },
     {
       "album": {
+        "name": "Vanoggend In My Kop",
+        "url": "https://open.spotify.com/album/3V7IJJeHSVydXQVYaETyao"
+      },
+      "artists": [
+        {
+          "name": "Kabaal Klankbaan",
+          "url": "https://open.spotify.com/artist/4HrNCPJFdxokdkYcRHk4mb"
+        },
+        {
+          "name": "Nina Kajee",
+          "url": "https://open.spotify.com/artist/6OCYCOfGKRhmAxZmHqFH3Y"
+        }
+      ],
+      "date_added": "2023-10-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247083,
+      "name": "Vanoggend In My Kop",
+      "url": "https://open.spotify.com/track/3w8X44AryrZlXsiPAPIUjS"
+    },
+    {
+      "album": {
         "name": "Net Liefde",
         "url": "https://open.spotify.com/album/0jGYdco9OrPMuQWRAsS2vp"
       },
@@ -9456,7 +9590,7 @@
       ],
       "date_added": "2023-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-20",
       "duration_ms": 193759,
       "name": "Vas En Los",
       "url": "https://open.spotify.com/track/6fAGOIsKpc7yFpGMwgSRTP"
@@ -9608,7 +9742,7 @@
       ],
       "date_added": "2023-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-20",
       "duration_ms": 160684,
       "name": "Verbeel",
       "url": "https://open.spotify.com/track/0bKY4G57d8Vqkk9nYzfQAp"
@@ -9684,7 +9818,7 @@
       ],
       "date_added": "2023-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-20",
       "duration_ms": 161424,
       "name": "Versmoor",
       "url": "https://open.spotify.com/track/4meblP6oLazdZUZPIizdbh"
@@ -9922,7 +10056,7 @@
       ],
       "date_added": "2023-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-20",
       "duration_ms": 197876,
       "name": "Vriend",
       "url": "https://open.spotify.com/track/4N0DKF5cPNjxPWRGLsXvvH"

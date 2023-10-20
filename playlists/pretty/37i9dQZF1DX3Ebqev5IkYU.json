@@ -1,12 +1,12 @@
 {
   "description": "Schlechte Laune? Dr\u00fcck den Play Button!",
-  "num_followers": 1975137,
+  "num_followers": 1975296,
   "original_name": "Stimmungsmacher",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4ZTUwNjAwY2QyZGE1MGFhZGZjNDAyMWE4ZWRlYWJhYzI4OTUyMjRl",
+  "snapshot_id": "MCw5M2JiZDc5YzgyNzljOWZkZWY2NDgxYzkzOTA2NThjOGZhYzZjNzAz",
   "tracks": [
     {
       "added_at": "2023-10-13 09:04:59",
@@ -1495,22 +1495,18 @@
     {
       "added_at": "2023-10-13 09:04:59",
       "album": {
-        "name": "Alright (feat. KIDDO)",
-        "url": "https://open.spotify.com/album/0Nn6sMoZFBIUIsy8fpILrI"
+        "name": "Rodeo",
+        "url": "https://open.spotify.com/album/3qRfgIajUoPGnLDZSlX33g"
       },
       "artists": [
         {
-          "name": "Alle Farben",
-          "url": "https://open.spotify.com/artist/61ipISvUVa5LkJlKZnm3Oo"
-        },
-        {
-          "name": "KIDDO",
-          "url": "https://open.spotify.com/artist/5pXe6yFchq1oyYK3rq2A8i"
+          "name": "BLANKA",
+          "url": "https://open.spotify.com/artist/0ML3y0iBY1nq7HWAWP0EFm"
         }
       ],
-      "duration_ms": 169000,
-      "name": "Alright (feat. KIDDO)",
-      "url": "https://open.spotify.com/track/1vUOJpWc091SBYULNvz9mp"
+      "duration_ms": 155897,
+      "name": "Rodeo",
+      "url": "https://open.spotify.com/track/7cD3GOKnMPgW4m37meuv3J"
     }
   ],
   "unique_name": "Stimmungsmacher",

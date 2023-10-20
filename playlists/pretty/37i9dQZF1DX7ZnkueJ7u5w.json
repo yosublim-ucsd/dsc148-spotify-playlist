@@ -1,12 +1,12 @@
 {
   "description": "M\u00fasica sabrosa para festejar la temporada de carnavales en M\u00e9xico. ",
-  "num_followers": 264951,
+  "num_followers": 264973,
   "original_name": "Carnaval en M\u00e9xico",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1OTdiYWEyNjYxNjI2MTExNTFlYWFlM2FlNTdkNGY1MTUwNjNmZDA0",
+  "snapshot_id": "MCxlZjZlZmJhOTliNjEwOTIyMzMxNDBiOWZlYWI1OTE3MDRmNTNlOTI1",
   "tracks": [
     {
       "added_at": "2022-08-02 22:46:01",
@@ -832,22 +832,6 @@
       "added_at": "2022-08-02 22:46:01",
       "album": {
         "name": "\u00c9xitos",
-        "url": "https://open.spotify.com/album/39823i6I0X4cFWoCQPZWOd"
-      },
-      "artists": [
-        {
-          "name": "El Simbolo",
-          "url": "https://open.spotify.com/artist/276SjaOhqPfWqk3eDTDrz3"
-        }
-      ],
-      "duration_ms": 219933,
-      "name": "1 2 3",
-      "url": "https://open.spotify.com/track/3rxs4C8FPu0DcuKVaZlUCu"
-    },
-    {
-      "added_at": "2022-08-02 22:46:01",
-      "album": {
-        "name": "\u00c9xitos",
         "url": "https://open.spotify.com/album/1r1Uhfd4edrlfDDJaGCify"
       },
       "artists": [
@@ -859,6 +843,22 @@
       "duration_ms": 212776,
       "name": "Ramito De Violetas",
       "url": "https://open.spotify.com/track/7BwEomcUntwQkSWf3U0Yxl"
+    },
+    {
+      "added_at": "2022-08-02 22:46:01",
+      "album": {
+        "name": "\u00c9xitos",
+        "url": "https://open.spotify.com/album/39823i6I0X4cFWoCQPZWOd"
+      },
+      "artists": [
+        {
+          "name": "El Simbolo",
+          "url": "https://open.spotify.com/artist/276SjaOhqPfWqk3eDTDrz3"
+        }
+      ],
+      "duration_ms": 219933,
+      "name": "1 2 3",
+      "url": "https://open.spotify.com/track/3rxs4C8FPu0DcuKVaZlUCu"
     },
     {
       "added_at": "2022-08-02 22:46:01",
@@ -1231,22 +1231,6 @@
     {
       "added_at": "2022-08-02 22:46:01",
       "album": {
-        "name": "Exitos Durisimos",
-        "url": "https://open.spotify.com/album/2bFmgUdT6BbTiqpDmsLakV"
-      },
-      "artists": [
-        {
-          "name": "La Banda Gorda",
-          "url": "https://open.spotify.com/artist/6biY6yyLVZzisjmFLx0AP1"
-        }
-      ],
-      "duration_ms": 298373,
-      "name": "Mi Mujer Me Gobierna",
-      "url": "https://open.spotify.com/track/6O5K9nWwxg5gTijmedgWdc"
-    },
-    {
-      "added_at": "2022-08-02 22:46:01",
-      "album": {
         "name": "A.B. Quintanilla III & Kumbia Kumbia Kings Present The Duets",
         "url": "https://open.spotify.com/album/05CvQnHFWD0JrII6bfM07e"
       },
@@ -1259,6 +1243,22 @@
       "duration_ms": 262493,
       "name": "Baila Esta Cumbia",
       "url": "https://open.spotify.com/track/23TUteFlo4GRVKy2zRvtMC"
+    },
+    {
+      "added_at": "2022-08-02 22:46:01",
+      "album": {
+        "name": "Exitos Durisimos",
+        "url": "https://open.spotify.com/album/2bFmgUdT6BbTiqpDmsLakV"
+      },
+      "artists": [
+        {
+          "name": "La Banda Gorda",
+          "url": "https://open.spotify.com/artist/6biY6yyLVZzisjmFLx0AP1"
+        }
+      ],
+      "duration_ms": 298373,
+      "name": "Mi Mujer Me Gobierna",
+      "url": "https://open.spotify.com/track/6O5K9nWwxg5gTijmedgWdc"
     },
     {
       "added_at": "2022-08-02 22:46:01",

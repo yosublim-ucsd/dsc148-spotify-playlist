@@ -4,7 +4,7 @@
 
 > The hottest new pop with all the drops\. Cover: Rita Ora
 
-726 songs - 1 day 11 hr 56 min
+727 songs - 1 day 11 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -622,7 +622,8 @@
 | [Tell Me You Love Me](https://open.spotify.com/track/5utAEYv0XagOtIYwYBTMtP) | [Cheat Codes](https://open.spotify.com/artist/7DMveApC7UnC2NPfPvlHSU) | [Tell Me You Love Me](https://open.spotify.com/album/1S8jbva85gj1snQ2C40WHn) | 3:08 | 2022-04-22 | 2022-08-06 |
 | [temporary love](https://open.spotify.com/track/3hHZBwB95RV9Ghg6Y7VjSQ) | [GhostDragon](https://open.spotify.com/artist/2SfDAbVDU8yzrJeHENAM6O), [Robbie Rosen](https://open.spotify.com/artist/1569hvm0IW3DHOfruYP2lM) | [temporary love](https://open.spotify.com/album/7Bgqqo5ZXorGNH65ftyCqA) | 4:00 | 2022-01-14 | 2022-02-05 |
 | [Tension](https://open.spotify.com/track/1HteYUSXKUMm6A8vdZid7p) | [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA) | [Tension](https://open.spotify.com/album/2AormSzZz3LkqREG7mubJA) | 3:36 | 2023-09-01 |  |
-| [TEQUILA](https://open.spotify.com/track/2h3Pf8SrVoNpy3no4WQlEn) | [COBRAH](https://open.spotify.com/artist/1AHswQqsDNmu1xaE8KpBne) | [SUCCUBUS](https://open.spotify.com/album/5CFxHha8oJfS3RDGbb5YQZ) | 3:03 | 2023-10-13 |  |
+| [TEQUILA](https://open.spotify.com/track/2h3Pf8SrVoNpy3no4WQlEn) | [COBRAH](https://open.spotify.com/artist/1AHswQqsDNmu1xaE8KpBne) | [SUCCUBUS](https://open.spotify.com/album/5CFxHha8oJfS3RDGbb5YQZ) | 3:03 | 2023-10-13 | 2023-10-20 |
+| [TEQUILA](https://open.spotify.com/track/38LKH0Af9y2fdgQLpOr1sS) | [COBRAH](https://open.spotify.com/artist/1AHswQqsDNmu1xaE8KpBne) | [TEQUILA](https://open.spotify.com/album/5g9iR0BMaHokdsxPERf5rB) | 3:03 | 2023-10-13 |  |
 | [TGIF](https://open.spotify.com/track/3horUXBBgEyTEAxfeT9c0P) | [XG](https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA) | [TGIF](https://open.spotify.com/album/0aNeBf2SZFAUOYuyCBPU0c) | 2:51 | 2023-08-11 | 2023-09-23 |
 | [That's Not What My Friends Say](https://open.spotify.com/track/21qvsxlG1BCkUlsdzfxu05) | [Samira](https://open.spotify.com/artist/0QmyeiU8zjcckReXT6sjuT) | [That's Not What My Friends Say](https://open.spotify.com/album/3Hc1CUGdJNXXD1NQeEpBgy) | 2:47 | 2023-04-28 | 2023-07-22 |
 | [The Devil You Know \(feat\. Micky Blue\)](https://open.spotify.com/track/4APRlSlJJC1iHdTwHHEc8a) | [KSHMR](https://open.spotify.com/artist/2wX6xSig4Rig5kZU6ePlWe), [Micky Blue](https://open.spotify.com/artist/74RDfhi3g8pfpmMCrQUtpF) | [The Devil You Know \(feat\. Micky Blue\)](https://open.spotify.com/album/42PJrf36sVECeasPyOxVSL) | 3:18 | 2022-10-21 | 2023-02-11 |

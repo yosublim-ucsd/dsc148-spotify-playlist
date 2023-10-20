@@ -10828,7 +10828,7 @@
       ],
       "date_added": "2023-06-09",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-18",
+      "date_removed": null,
       "duration_ms": 123680,
       "name": "Moderation",
       "url": "https://open.spotify.com/track/4wqBRSqEPrL4UjP00lZB1M"
@@ -12540,7 +12540,7 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-20",
       "duration_ms": 164163,
       "name": "pieces",
       "url": "https://open.spotify.com/track/2o9aMaRxK62Nw8KdONNoZU"
@@ -17690,7 +17690,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-20",
       "duration_ms": 198857,
       "name": "vanishing . (remix) [feat. Jamilah Barry]",
       "url": "https://open.spotify.com/track/09U1r7rHrGdyC2oYctnQuD"
@@ -17882,6 +17882,32 @@
       "duration_ms": 169012,
       "name": "Waiting Room",
       "url": "https://open.spotify.com/track/1ZZ9Z2bKmoGNsFUjvM7RDJ"
+    },
+    {
+      "album": {
+        "name": "waiting... (featuring Ben Beal)",
+        "url": "https://open.spotify.com/album/2KFUtbCCOlMAIMqyUQLEDW"
+      },
+      "artists": [
+        {
+          "name": "Jess Meilman",
+          "url": "https://open.spotify.com/artist/1kmlGybezNBp0fGM8PNBw9"
+        },
+        {
+          "name": "Ben Beal",
+          "url": "https://open.spotify.com/artist/0CTpeTOAvzc1FOlPj4uYWV"
+        },
+        {
+          "name": "byJ.",
+          "url": "https://open.spotify.com/artist/0tA6AExzlXn8NLMfKNxdws"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189294,
+      "name": "waiting... (featuring Ben Beal)",
+      "url": "https://open.spotify.com/track/0hdxFjrEmXvuJ2Bnd575zO"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > Groovy sounds from around the world.
 
-602 songs - 1 day 19 hr 35 min
+603 songs - 1 day 19 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -97,6 +97,7 @@
 | [Cantarito \- 45 mix](https://open.spotify.com/track/0sYt9uUG0VZf9JzFydHlNs) | [Buyepongo](https://open.spotify.com/artist/1HmiqLEbQr8UGX7aEMM3c0) | [Cantarito \(45 mix\)](https://open.spotify.com/album/17wSfssvPKoFKOWxQEaW8R) | 4:08 | 2021-10-06 | 2022-04-19 |
 | [Canvas Cathedral](https://open.spotify.com/track/0fV9vjz8AFcqH1FY9ta9vp) | [Dr Rubberfunk](https://open.spotify.com/artist/7jOCklAiBleLs7aGsFaDep), [Ben Castle](https://open.spotify.com/artist/3cMu4zqTDHd01cuFpaA9a4) | [My Life at 45, Pt\. 2](https://open.spotify.com/album/4iFOyH1K9FDWZesuHBHx9j) | 3:57 | 2021-10-06 | 2022-07-02 |
 | [Carroña](https://open.spotify.com/track/5CJwGedhSBNpdES7VdgU9r) | [Superfónicos](https://open.spotify.com/artist/0PnlcPHQb1NOI2tgIXomGk) | [Carroña](https://open.spotify.com/album/71OUw7b4t59MH6gV28yDfG) | 4:21 | 2022-02-15 | 2022-04-16 |
+| [Carry Me Home](https://open.spotify.com/track/2mgIoFgItGxpYAQw5j1ShQ) | [Kokoroko](https://open.spotify.com/artist/3u9rbdcmA6CxjxOAkjaeFr) | [Carry Me Home](https://open.spotify.com/album/18xdK3SoHfN0nHVAQfKvnQ) | 5:27 | 2023-10-05 |  |
 | [Carry Me Home](https://open.spotify.com/track/3impbLGFvLfRkGrpJpBBX1) | [Kokoroko](https://open.spotify.com/artist/3u9rbdcmA6CxjxOAkjaeFr) | [Carry Me Home](https://open.spotify.com/album/7fwo6lN8RS0xkttftMRHA6) | 5:27 | 2021-10-06 | 2022-07-29 |
 | [Casbah](https://open.spotify.com/track/6dGcvQyPys3RVB7mE9Tmfk) | [Ahmed Malek](https://open.spotify.com/artist/1F5NAWDKvoYJU3mEZQUFsB) | [Habibi Funk: An Eclectic Selection of Music from the Arab World \(Part 2\) \(Habibi Funk 015\)](https://open.spotify.com/album/2QTAwOmV0lj1S1zGTuipFg) | 3:25 | 2021-10-06 | 2022-07-24 |
 | [Catá Surf](https://open.spotify.com/track/3UclRg5QnVn3ZArjOh3eBl) | [Kansado](https://open.spotify.com/artist/40is4UfaphbysAcimFzUDW) | [Guaguansoul](https://open.spotify.com/album/7xaShaNw21kWDYAhamPXka) | 2:55 | 2022-09-30 | 2023-01-20 |
@@ -426,7 +427,7 @@
 | [Ox](https://open.spotify.com/track/70urvDuAjCEGErQH60Du3S) | [Clap! Clap!](https://open.spotify.com/artist/4o6gglPeg2GgT0FYDtzFeF), [Domenico Candellori](https://open.spotify.com/artist/6Mq9l39ixUny3v17eLJJlC), [TOROZEBU](https://open.spotify.com/artist/2Nby93FKq5UvGa8cjqOZ1i) | [Ox](https://open.spotify.com/album/0RuD3UDc81vLNsE71pFfUq) | 3:32 | 2022-02-09 | 2022-07-24 |
 | [Oyoun Houriyat](https://open.spotify.com/track/1DPUoAC0Jn4hKiappSNcT7) | [Hamid Al Shaeri](https://open.spotify.com/artist/7u1V0Ucu5ggW1VaXwh8KeT) | [The SLAM! Years: 1983 \- 1988 \(Habibi Funk 018\)](https://open.spotify.com/album/59wUhuFXv88Cov9DMjGGI3) | 5:15 | 2022-02-25 | 2022-07-26 |
 | [Paloma](https://open.spotify.com/track/4lvRuiCSvrrfmnAb4YHZHn) | [MiRET](https://open.spotify.com/artist/0DvhQq0PzDC5dyRoH5XCI5), [Tuğçe Kurtiş](https://open.spotify.com/artist/5cYodhg1fZFGKqCQmgNlZf), [Santi & Tuğçe](https://open.spotify.com/artist/437O1jQdyOOhIS1M41xQaC) | [Paloma + Remixes](https://open.spotify.com/album/5LE9oiaGprQqvFtinBA73K) | 8:26 | 2021-10-06 | 2022-01-13 |
-| [Pas Contente](https://open.spotify.com/track/2Pb7Z8lrgBN8sMNNGEPBWx) | [Vaudou Game](https://open.spotify.com/artist/7MEH1SUDgj0NU6gDjDXokz), [Roger Damawuzan](https://open.spotify.com/artist/6EP95HIx4uVmzGq7YMG0tv) | [Apiafo](https://open.spotify.com/album/1KYJPtlKlYQiZ6TZzLkRbn) | 3:33 | 2021-10-06 |  |
+| [Pas Contente](https://open.spotify.com/track/2Pb7Z8lrgBN8sMNNGEPBWx) | [Vaudou Game](https://open.spotify.com/artist/7MEH1SUDgj0NU6gDjDXokz), [Roger Damawuzan](https://open.spotify.com/artist/6EP95HIx4uVmzGq7YMG0tv) | [Apiafo](https://open.spotify.com/album/1KYJPtlKlYQiZ6TZzLkRbn) | 3:33 | 2021-10-06 | 2023-10-20 |
 | [Pas de Dialogue](https://open.spotify.com/track/1NuiERHsqb9DVrSXOzKpQ7) | [Charif Megarbane](https://open.spotify.com/artist/3251WMUEVLhM2xvYlpkyG4) | [Marzipan \(Habibi Funk 023\) \[Bonus Edition\]](https://open.spotify.com/album/6KzZvtfDldSPWptq61k3Sv) | 2:34 | 2023-07-24 |  |
 | [Paulette](https://open.spotify.com/track/70gworYN6uq7jd4qfl3QU7) | [Balla Et Ses Balladins](https://open.spotify.com/artist/2qNmQvibIVFYLfpbWmyWuO) | [Objectif perfection](https://open.spotify.com/album/6K7NZTRRjzo8gNCMUoZKT4) | 7:42 | 2023-08-20 |  |
 | [Pa´lante](https://open.spotify.com/track/2eIz0KUjTWALHdndVtROKp) | [Pahua](https://open.spotify.com/artist/4sZh7ibWAOiuDkEStJxHch), [Acid Coco](https://open.spotify.com/artist/5UiKi49d0fbeffWl4aPWNW) | [Pa'lante](https://open.spotify.com/album/0VoVnn8HzawW4b9Viavikd) | 3:16 | 2023-05-25 | 2023-08-08 |

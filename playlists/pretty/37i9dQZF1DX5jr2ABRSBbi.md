@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5jr2ABRSBbi.md) - [plain]
 
 > Poslechněte si ženy z Česka a Slovenska na plnou hlasitost\. Cover: Vesna
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,975 likes - 50 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,980 likes - 50 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,7 +38,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5jr2ABRSBbi.md) - [plain]
 | 28 | [Nací Para Esto](https://open.spotify.com/track/5wwhAOs0jrsMBU9F7K4591) | [Vanda](https://open.spotify.com/artist/6IzefnPrFh51XgozMsM6vr) | [Nací Para Esto](https://open.spotify.com/album/6aL3YuL1BGYK2OxJuJ2WvJ) | 3:09 |
 | 29 | [Babská Jazda](https://open.spotify.com/track/0bBMK7SNYEzS3IZvzQ2Hmr) | [Nia](https://open.spotify.com/artist/4Z1CxJhs6F9RGY84vEHpeJ) | [Babská Jazda](https://open.spotify.com/album/0UOMuHihwwfhn4oXFjJeub) | 1:50 |
 | 30 | [DREAM GIRL](https://open.spotify.com/track/1jr8IJdmfU3ikome8GdvjX) | [Mishala Orth](https://open.spotify.com/artist/3XfYmn43TUqyNgeq4eFJ5c) | [DREAM GIRL](https://open.spotify.com/album/3rUfpLieLZ20ZAbjohXFpJ) | 2:35 |
-| 31 | [Kliešte](https://open.spotify.com/track/7mzzdnceusRDv8vqB0xOqa) | [Zverina](https://open.spotify.com/artist/6SRlOtw0n5GR40B9RsaV6a) | [Kliešte](https://open.spotify.com/album/3oqtmBUTvfnvq1IHguLtnG) | 2:38 |
+| 31 | [JUST](https://open.spotify.com/track/29EsizASwJW4Trv3dtN4Up) | [Lenka Piešová](https://open.spotify.com/artist/5FGpF878Fa50wFrDYPkQV2) | [JUST](https://open.spotify.com/album/2BI0Gp8UAceVUm6BJ0Etz1) | 3:12 |
 | 32 | [Made of Glass](https://open.spotify.com/track/7341g66ith2LyGZbSJdWGF) | [Dailla](https://open.spotify.com/artist/3vDLfHEpRxzXtv8ICLX37K) | [Made of Glass](https://open.spotify.com/album/0CrZGJA8VJFyQVNLww6K6A) | 3:18 |
 | 33 | [Wonderland](https://open.spotify.com/track/5589J7o5sTyq8eN4nk8xRR) | [Natally](https://open.spotify.com/artist/4vzgXODPnHlhSXNlUChzxa) | [Wonderland](https://open.spotify.com/album/1hkAX4NG4cQzv8Rl6vDbPL) | 2:24 |
 | 34 | [Shd](https://open.spotify.com/track/2F9ZmuOqP3PM93J72MUMLp) | [Nora Anne](https://open.spotify.com/artist/7LixeqGzXz2yu4HXWfMxBJ) | [Shd](https://open.spotify.com/album/1YtT3vRONUGvk6ur6pOYDw) | 2:36 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5jr2ABRSBbi.md) - [plain]
 | 49 | [By se ti líbilo](https://open.spotify.com/track/50A0EdWbMiLAyblyUtNT55) | [Naty Hrychová](https://open.spotify.com/artist/3IdBTyWXb31wzm0OYIZVP3) | [By se ti líbilo](https://open.spotify.com/album/1fsGNA21D6egr3sd4jRwwz) | 2:52 |
 | 50 | [Shoot You](https://open.spotify.com/track/0Y3RBVIYG9BrHnujM3Fdfa) | [&Tilly](https://open.spotify.com/artist/6ywghg7NMnYNOY8HVATu1N), [Timberly](https://open.spotify.com/artist/4jj1ZDlPoRYHazVI7GD7eG) | [Shoot You](https://open.spotify.com/album/4vreMd9m0nSnQ9cqjSageI) | 3:09 |
 
-Snapshot ID: `MCwzMWFiYWJlYjc2OTMxMjQ2N2E3NmJiODMwM2YxYzFlOWRjY2RhOGZk`
+Snapshot ID: `MCxmOWFkMjhjYTdjMTkwMzNkYjNlNzBiMzQzZDRjMmE2NGZlYmM1MTQy`

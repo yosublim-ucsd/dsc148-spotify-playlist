@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-12-01",
-  "description": "The sounds keeping the streets of Nigeria on fire. \nCover: Shallipopi",
+  "description": "The sounds keeping the streets of Nigeria on fire. \nCover: Zerrydl",
   "name": "Street Energy ",
   "tracks": [
     {
@@ -210,7 +210,7 @@
       ],
       "date_added": "2022-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-20",
       "duration_ms": 147226,
       "name": "Amala",
       "url": "https://open.spotify.com/track/7ldle0j4O3JdX4XVVYY2Vx"
@@ -228,7 +228,7 @@
       ],
       "date_added": "2023-06-02",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-28",
+      "date_removed": null,
       "duration_ms": 180584,
       "name": "Amdallah",
       "url": "https://open.spotify.com/track/0KBrX7XrrLWxv4nO3NOHQh"
@@ -250,6 +250,28 @@
       "duration_ms": 146000,
       "name": "Ara (Gen Gen Tin)",
       "url": "https://open.spotify.com/track/1j9I9JrUTXNblSWazCq9CU"
+    },
+    {
+      "album": {
+        "name": "Last Son of a Widow",
+        "url": "https://open.spotify.com/album/5ggCK28dJNwpH58dNI8BFr"
+      },
+      "artists": [
+        {
+          "name": "Ayox",
+          "url": "https://open.spotify.com/artist/1lxw1eewbvAVmEwJrYUDEx"
+        },
+        {
+          "name": "Tekno",
+          "url": "https://open.spotify.com/artist/6IhG3Yxm3UW98jhyBvrIut"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146086,
+      "name": "Ashewo Boy",
+      "url": "https://open.spotify.com/track/3VwRxqjO4kvpaiBefwzZ1S"
     },
     {
       "album": {
@@ -628,7 +650,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-20",
       "duration_ms": 124000,
       "name": "DECLAN RICE",
       "url": "https://open.spotify.com/track/0QdQh3umB7stVOExuHlWvl"
@@ -646,7 +668,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-16",
+      "date_removed": null,
       "duration_ms": 124000,
       "name": "DECLAN RICE",
       "url": "https://open.spotify.com/track/1sEIkVGd7fG4K5wFQS6f6y"
@@ -1142,7 +1164,7 @@
       ],
       "date_added": "2023-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-20",
       "duration_ms": 188985,
       "name": "GWAGWALADA",
       "url": "https://open.spotify.com/track/6wuMo4ZR83PhlhXhJ1S3VY"
@@ -1535,6 +1557,28 @@
     },
     {
       "album": {
+        "name": "InterSpace Presents: Afrobeats October 2023",
+        "url": "https://open.spotify.com/album/2pahIIqK0w6esams7reROy"
+      },
+      "artists": [
+        {
+          "name": "Mohbad",
+          "url": "https://open.spotify.com/artist/0a8YNI8VHVPYKIPvCiJDxa"
+        },
+        {
+          "name": "Rexxie",
+          "url": "https://open.spotify.com/artist/7Brq2wxtsh6RQAqqLDEQON"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191750,
+      "name": "Kpk (Ko Por Ke)",
+      "url": "https://open.spotify.com/track/5Qwug8jOoTvV4vpgyft0qG"
+    },
+    {
+      "album": {
         "name": "A True Champion",
         "url": "https://open.spotify.com/album/6cqaFME7zznZclEDFE6bUk"
       },
@@ -1848,7 +1892,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-18",
+      "date_removed": null,
       "duration_ms": 132414,
       "name": "My Life",
       "url": "https://open.spotify.com/track/0SJYLFDUX2F1IMTdXS23zI"
@@ -2078,7 +2122,7 @@
       ],
       "date_added": "2023-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-20",
       "duration_ms": 160031,
       "name": "Oga Mi Sir",
       "url": "https://open.spotify.com/track/7aAvNhf385lLD9WABzMqST"
@@ -2365,6 +2409,28 @@
     },
     {
       "album": {
+        "name": "Puff & Pass (Remix)",
+        "url": "https://open.spotify.com/album/6FFmkwtLjXZm8jTKUsxp5p"
+      },
+      "artists": [
+        {
+          "name": "Zerrydl",
+          "url": "https://open.spotify.com/artist/3sHq8pB8IoGvnatMuoixwd"
+        },
+        {
+          "name": "Shallipopi",
+          "url": "https://open.spotify.com/artist/4TKhxSkqClXrdtUWgKqHVU"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161515,
+      "name": "Puff & Pass (Remix)",
+      "url": "https://open.spotify.com/track/7CIhImlbs2RtT58oKnvROT"
+    },
+    {
+      "album": {
         "name": "PXTA",
         "url": "https://open.spotify.com/album/1JNKnxhJ9hpSpV1vbetRbU"
       },
@@ -2434,7 +2500,7 @@
       ],
       "date_added": "2022-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-20",
       "duration_ms": 175255,
       "name": "Realize",
       "url": "https://open.spotify.com/track/1GfaxJMFAolWogWr2MNkZ3"
@@ -2986,7 +3052,7 @@
       ],
       "date_added": "2023-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-20",
       "duration_ms": 160407,
       "name": "Who Is Your Guy?",
       "url": "https://open.spotify.com/track/1kyYCsP2NRZEKkBg9wcF2c"

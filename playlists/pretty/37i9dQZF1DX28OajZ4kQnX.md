@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX28OajZ4kQnX.md) - [plain]
 
 > Kick it with some of the hottest bars from Uganda +256
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,708 likes - 60 songs - 3 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,726 likes - 60 songs - 3 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,7 +57,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX28OajZ4kQnX.md) - [plain]
 | 47 | [Been Bout My Thang](https://open.spotify.com/track/3YqQ0MrGo9npncbgBY6V0K) | [Lyrical G](https://open.spotify.com/artist/5iD7gwj4rQU0igiodSYGwQ), [GNL Zamba](https://open.spotify.com/artist/0FwYpgOB3J1HjxIRExeWhK) | [Geezy](https://open.spotify.com/album/3QoGhTuJ3IklGlZOVjK5xd) | 3:04 |
 | 48 | [Tv](https://open.spotify.com/track/4DcnGM5mD1Y2QOsywxBMsG) | [Aspika Spoila](https://open.spotify.com/artist/0Rf53WT6ObQ2ysOQyFOkUF) | [GOOD VIBES ONLY](https://open.spotify.com/album/27V62S1APV16vw1MCX8BPl) | 2:29 |
 | 49 | [Naomi birthday song](https://open.spotify.com/track/2lQrFQNl5kmZoNCs1KkAL8) | [ml godi](https://open.spotify.com/artist/6xa4Dk2GZqhLboPS1eXDqg) | [Collection](https://open.spotify.com/album/1YogiBfwL9qhYX1bENFWgZ) | 2:38 |
-| 50 | [Just Watch](https://open.spotify.com/track/2lWvfxjVmYCnQAtkJG0Y7H) | [BlaqAces](https://open.spotify.com/artist/1br4A9R7EZq1dZsld8M2Ii), [Mun G](https://open.spotify.com/artist/4YRE1c6l4kkNRfT1sXCjEU), [Moha](https://open.spotify.com/artist/6YlofgsrFOXGo0PuYMuhS6) | [Pitch Blaq Infinity](https://open.spotify.com/album/4AlcoiWsQuvoGWNF6GDebV) | 4:01 |
+| 50 | [Just Watch](https://open.spotify.com/track/7B2Q0OPCUW7fkWfIbDvK7m) | [BlaqAces](https://open.spotify.com/artist/1br4A9R7EZq1dZsld8M2Ii), [Mun G](https://open.spotify.com/artist/2tSxVpWI1KAo7t1P3ihOoF), [Moha](https://open.spotify.com/artist/0YjEB5DV5nu7w3cjWn5ppi) | [Pitch Blaq Infinity](https://open.spotify.com/album/05hwkoZgB354CL68D32aN5) | 4:01 |
 | 51 | [Trap House](https://open.spotify.com/track/43zm30JtK99xSDIGGnGnXU) | [YBKPO](https://open.spotify.com/artist/4zpBA01pzPN4x3VvlO5y1B), [Drillz The Rapper](https://open.spotify.com/artist/7EjcbHeP9v2XgeyP718axB), [ACE.](https://open.spotify.com/artist/1Cliz3Lx3b9qzsHraYmKh1) | [Trap House](https://open.spotify.com/album/1KdZif8ksWZUllwYBSxTwO) | 2:20 |
 | 52 | [I Do](https://open.spotify.com/track/5CPU6T60J0pUBjmIAHEeGT) | [Joshua Baraka](https://open.spotify.com/artist/3sjmAVaeka80SCvK69bedW), [BRYAN THE MENSAH](https://open.spotify.com/artist/2zsThoavhdt8NBt6OQLfw2) | [I Do](https://open.spotify.com/album/6cXdoVKMPADTGNsg0FiORj) | 3:08 |
 | 53 | [Genderera](https://open.spotify.com/track/2Doy5uupIp7I3bnDygeM6g) | [Pryce Teeba](https://open.spotify.com/artist/7LZeZZQTTiqOuxCN30dlGX) | [Genderera](https://open.spotify.com/album/14qDGe4Lr8EROJmzTJ0nnx) | 2:51 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX28OajZ4kQnX.md) - [plain]
 | 59 | [Tough Timez](https://open.spotify.com/track/5RL5hn75OUOFcLeC9VI1aZ) | [Nsokwa](https://open.spotify.com/artist/3ILdlSQ0HG3yLSchcE49Dz), [Lenoirbois](https://open.spotify.com/artist/4NinFBdaIbsWHe8OnsXlSQ) | [Tough Timez](https://open.spotify.com/album/3ml6m4oXvFut3cwmH9yrYO) | 3:41 |
 | 60 | [Zinge](https://open.spotify.com/track/6BjwzPMNmuKIW4ie4coNfk) | [Play01](https://open.spotify.com/artist/35b2AHExUT7FPIpDVKSQCG), [Adrenalyn Muzik](https://open.spotify.com/artist/41n5rKefN1N9S1xktqTZLo) | [Zinge](https://open.spotify.com/album/0uaYBF6ghic8549jFLAeEo) | 3:25 |
 
-Snapshot ID: `MCxlZTljNDI2NjhlMDliY2ZiMGUyZjViYjlmNmI5ZmNmZGU3NTZjMGFk`
+Snapshot ID: `MCxhNjU1MTdkN2Y4NzVkZDU4ZTA1ODQ4MWM1ZGNhNjNjYzdiZWMxNTU4`

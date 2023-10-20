@@ -743,6 +743,24 @@
     },
     {
       "album": {
+        "name": "Amigo",
+        "url": "https://open.spotify.com/album/3vnCMe4Ef2eZKeTT9KDNoN"
+      },
+      "artists": [
+        {
+          "name": "Estienne Battier",
+          "url": "https://open.spotify.com/artist/1C1PKWXXTSanOX47bqzqCD"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203275,
+      "name": "Amigo",
+      "url": "https://open.spotify.com/track/0WoUPm1OTP4VCRRWnxAUQw"
+    },
+    {
+      "album": {
         "name": "Soulythical",
         "url": "https://open.spotify.com/album/30Vh9X9ijMHyg7lcpoejNK"
       },
@@ -2126,6 +2144,24 @@
       "duration_ms": 165454,
       "name": "Calming Waves",
       "url": "https://open.spotify.com/track/59ki9ZGsm75Vbl4WM6BVjJ"
+    },
+    {
+      "album": {
+        "name": "Calmness",
+        "url": "https://open.spotify.com/album/3T2qoCs1p71NzQcYsgubDO"
+      },
+      "artists": [
+        {
+          "name": "Sleep Advisor",
+          "url": "https://open.spotify.com/artist/0Il8fx16KHOeF6EdGdCgE6"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155567,
+      "name": "Calmness",
+      "url": "https://open.spotify.com/track/0Yhhi1zOg9EPd9L1EKm2rL"
     },
     {
       "album": {

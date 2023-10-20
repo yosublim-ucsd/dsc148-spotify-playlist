@@ -4,7 +4,7 @@
 
 > Escucha lo mejor del pop electrónico en español.
 
-95 songs - 5 hr 54 min
+96 songs - 5 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,7 +19,7 @@
 | [Bajo la piel](https://open.spotify.com/track/30vd3jTxbr6UYuuTvayxPX) | [Proyecto Gomez Casa](https://open.spotify.com/artist/2llTGhog6PYF3KfYg5sTYe), [Alejo y Valentin](https://open.spotify.com/artist/18e0X2rB92SDmDYGCFTGum) | [Bajo la piel](https://open.spotify.com/album/06KYlFtTKi0XoT444EMjDM) | 4:00 | 2023-09-08 |  |
 | [blablablablabla](https://open.spotify.com/track/4b0FSUCnGQ0UGn00cWMoMj) | [lisandro skar](https://open.spotify.com/artist/1lapQeH8MRBluX1sSUEgeg), [musica gratis](https://open.spotify.com/artist/4wVcG4AqJ5gyqs9mAYcV9G) | [blablablablabla](https://open.spotify.com/album/67PCcqW4kt4CYOzJH1E3mp) | 3:21 | 2023-09-08 |  |
 | [BOTON](https://open.spotify.com/track/34WKnyo66SajqdBMooAzl1) | [FERMIN](https://open.spotify.com/artist/6ugrj0FCDIKINVrQP9sPJz), [Goyo Degano](https://open.spotify.com/artist/2jdmT8GGcp6lWM58D0ROYf) | [BOTON](https://open.spotify.com/album/3f3dFNqTR47VfyDeGtZ427) | 2:18 | 2023-09-08 |  |
-| [Bum \(Chocamos un Auto\)](https://open.spotify.com/track/0qQ4psSUWzjDeifzNIVMmv) | [Laika Perra Rusa](https://open.spotify.com/artist/1ENwhswPVedRKPgabgGxsb) | [Bum \(Chocamos un Auto\)](https://open.spotify.com/album/5Ue6SRM0qUS7IbcftUxhT6) | 3:46 | 2023-09-08 |  |
+| [Bum \(Chocamos un Auto\)](https://open.spotify.com/track/0qQ4psSUWzjDeifzNIVMmv) | [Laika Perra Rusa](https://open.spotify.com/artist/1ENwhswPVedRKPgabgGxsb) | [Bum \(Chocamos un Auto\)](https://open.spotify.com/album/5Ue6SRM0qUS7IbcftUxhT6) | 3:46 | 2023-09-08 | 2023-10-20 |
 | [Bye Bye \- Juan Hansen Remix](https://open.spotify.com/track/7CKu9iA2e0tCjd1Qw7s8dX) | [Babasónicos](https://open.spotify.com/artist/2F9pvj94b52wGKs0OqiNi2), [Juan Hansen](https://open.spotify.com/artist/1ZFLYus27fzqEV3d6RBrxo) | [Bye Bye \(Juan Hansen Remix\)](https://open.spotify.com/album/2midg6u0xxE7KBnTCNqT98) | 6:07 | 2023-09-08 |  |
 | [Caribbean](https://open.spotify.com/track/6yciTnwFKwtN2WyrxaLyNz) | [Astro](https://open.spotify.com/artist/0V2YTCyeeSs4sivZL99x3g) | [Chicos de la Luz](https://open.spotify.com/album/1JAJem5IxeIq8Rwo6EhIWe) | 4:39 | 2023-09-08 |  |
 | [Cerca](https://open.spotify.com/track/0GzgKVNy4E1E2R16zkKGOr) | [Peces Raros](https://open.spotify.com/artist/5UI7HXsBEfRSsf0T4t48Q9) | [Cerca](https://open.spotify.com/album/1TUM8Vh8ZWkNfHc7LENZnP) | 3:11 | 2023-09-08 |  |
@@ -38,6 +38,7 @@
 | [Desaparecer](https://open.spotify.com/track/1mbA8WPUU8vUQzjyULTTCd) | [Varese](https://open.spotify.com/artist/5DG278QHnEKfWW9zAGFeRg) | [Desaparecer](https://open.spotify.com/album/0yuO4ugzCbvXyyJLSfLHqh) | 4:20 | 2023-09-08 |  |
 | [Desorden](https://open.spotify.com/track/52EmSXkdJ2wvrfu4aUAfoY) | [Varese](https://open.spotify.com/artist/5DG278QHnEKfWW9zAGFeRg) | [Desorden](https://open.spotify.com/album/1AePedyRPFkUCs80EPerMZ) | 3:56 | 2023-09-08 |  |
 | [Diré tu nombre](https://open.spotify.com/track/6cf6NHFQPDDhkxQX5j96J8) | [Agua Florida](https://open.spotify.com/artist/6OhBvIgI7E71kveV1vItnq) | [Diré tu nombre](https://open.spotify.com/album/04ABlbA8bASVGdjfq1aNwr) | 2:59 | 2023-09-08 |  |
+| [El Estado de las Cosas Como Son](https://open.spotify.com/track/3p8GZ3T1dmgJWk294B6Vli) | [Inés Mauri](https://open.spotify.com/artist/2HCy7IPI79aGrEYSWfjwaF), [Desaria](https://open.spotify.com/artist/7foAh38jbvCS0d9AiOW1V8) | [El Estado de las Cosas Como Son](https://open.spotify.com/album/5LBsNRXKNO8498xYBB0ANE) | 3:02 | 2023-09-08 |  |
 | [El Magnetismo](https://open.spotify.com/track/4RJpJjhEH1yFizM4CGD65Z) | [Lucia Tacchetti](https://open.spotify.com/artist/374jlNpaJvanFJrslZYHBJ) | [ELETÉ](https://open.spotify.com/album/2yrXDD1dTZFPVSKMp9ADpL) | 5:11 | 2023-09-08 |  |
 | [El Mundo Será Nuestro](https://open.spotify.com/track/44ISmW3lNQUqyqRRKrTw2K) | [GLAS](https://open.spotify.com/artist/4Z1zjj6iQYhxLY9zE9sJch) | [El Mundo Será Nuestro](https://open.spotify.com/album/4HU8TUSho4zUe3eG9I2xnX) | 4:38 | 2023-09-08 |  |
 | [EMERGENCIA \- Presented by PlayStation, Horizon Forbidden West](https://open.spotify.com/track/5Fj753yCLyWL699hiiCgoJ) | [NATHY PELUSO](https://open.spotify.com/artist/3VHAySZQPlfGlNLslzXYpN) | [EMERGENCIA \(Presented by PlayStation, Horizon Forbidden West\)](https://open.spotify.com/album/3gnyAB5RtdV38RCk7hW74R) | 3:43 | 2023-09-08 |  |

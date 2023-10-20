@@ -1,12 +1,12 @@
 {
   "description": "Dope global beat makers. <a href=\"spotify:artist:4fOizZJsCaT3RYpqNdeGKk\">Thanks Joey</a>",
-  "num_followers": 105946,
+  "num_followers": 105985,
   "original_name": "Dope Beats",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxMWU0ODNjMjBmM2QxYWJmYTlhOTllOGU3ZTRiNmU0NWI2MTcwNDc2",
+  "snapshot_id": "MCwzNjcyZTYxYWE2OTI2NjZiNTFhYTkyMWMyZTg4OTY0MzNjNWFhYzI0",
   "tracks": [
     {
       "added_at": "2022-03-22 11:23:16",
@@ -295,22 +295,6 @@
     {
       "added_at": "2022-03-22 11:23:16",
       "album": {
-        "name": "How Did We",
-        "url": "https://open.spotify.com/album/5fipQ4LDq89FOPhQUd1KpB"
-      },
-      "artists": [
-        {
-          "name": "Toby Tranter",
-          "url": "https://open.spotify.com/artist/6jQ21P9GEZfQf4aOMoTYDj"
-        }
-      ],
-      "duration_ms": 181739,
-      "name": "Selflessly",
-      "url": "https://open.spotify.com/track/1tiurfNf4pcUra6NJiJJ1b"
-    },
-    {
-      "added_at": "2022-03-22 11:23:16",
-      "album": {
         "name": "Backwood",
         "url": "https://open.spotify.com/album/1zxoOPYrefFbFXNEdQK92v"
       },
@@ -331,6 +315,22 @@
       "duration_ms": 205766,
       "name": "Backwood",
       "url": "https://open.spotify.com/track/5JdZhHy9TWpXGwvVoXQJyF"
+    },
+    {
+      "added_at": "2022-03-22 11:23:16",
+      "album": {
+        "name": "How Did We",
+        "url": "https://open.spotify.com/album/5fipQ4LDq89FOPhQUd1KpB"
+      },
+      "artists": [
+        {
+          "name": "Toby Tranter",
+          "url": "https://open.spotify.com/artist/6jQ21P9GEZfQf4aOMoTYDj"
+        }
+      ],
+      "duration_ms": 181739,
+      "name": "Selflessly",
+      "url": "https://open.spotify.com/track/1tiurfNf4pcUra6NJiJJ1b"
     },
     {
       "added_at": "2022-03-22 11:23:16",
@@ -375,22 +375,6 @@
     {
       "added_at": "2022-03-22 11:23:16",
       "album": {
-        "name": "Targa",
-        "url": "https://open.spotify.com/album/1tgeNyPWndmO5FN0xvZFC3"
-      },
-      "artists": [
-        {
-          "name": "Jewlz",
-          "url": "https://open.spotify.com/artist/1WRtwhuCTk1CuKBkr8fHkt"
-        }
-      ],
-      "duration_ms": 172068,
-      "name": "Targa",
-      "url": "https://open.spotify.com/track/3plV0LOsX8KuJ3zWzB97Lc"
-    },
-    {
-      "added_at": "2022-03-22 11:23:16",
-      "album": {
         "name": "Glazed",
         "url": "https://open.spotify.com/album/25z7PJPi2VM4jg3trb5C12"
       },
@@ -403,6 +387,22 @@
       "duration_ms": 159560,
       "name": "Hotel",
       "url": "https://open.spotify.com/track/2JWTVS3ndZcwJrabnCAWvD"
+    },
+    {
+      "added_at": "2022-03-22 11:23:16",
+      "album": {
+        "name": "Targa",
+        "url": "https://open.spotify.com/album/1tgeNyPWndmO5FN0xvZFC3"
+      },
+      "artists": [
+        {
+          "name": "Jewlz",
+          "url": "https://open.spotify.com/artist/1WRtwhuCTk1CuKBkr8fHkt"
+        }
+      ],
+      "duration_ms": 172068,
+      "name": "Targa",
+      "url": "https://open.spotify.com/track/3plV0LOsX8KuJ3zWzB97Lc"
     },
     {
       "added_at": "2022-03-22 11:23:16",
@@ -459,18 +459,18 @@
     {
       "added_at": "2022-03-22 11:23:16",
       "album": {
-        "name": "Groovly",
-        "url": "https://open.spotify.com/album/2tBeBG1bZBtHDZAN3H8F7E"
+        "name": "Skye",
+        "url": "https://open.spotify.com/album/5sQMdn4wUgSkwz3XzyfzgT"
       },
       "artists": [
         {
-          "name": "Homebody",
-          "url": "https://open.spotify.com/artist/6JHNIy8sGnVh5YrdVVAIuY"
+          "name": "Off / Side",
+          "url": "https://open.spotify.com/artist/5vAjIRFvJZWeqcIDrWD9uR"
         }
       ],
-      "duration_ms": 214537,
-      "name": "Groovly",
-      "url": "https://open.spotify.com/track/6jJb757pFbYEXjuWAJUcw6"
+      "duration_ms": 190098,
+      "name": "Skye",
+      "url": "https://open.spotify.com/track/3zwh6p8XI0Afw46DUkijRd"
     },
     {
       "added_at": "2022-03-22 11:23:16",
@@ -491,6 +491,22 @@
     {
       "added_at": "2022-03-22 11:23:16",
       "album": {
+        "name": "Groovly",
+        "url": "https://open.spotify.com/album/2tBeBG1bZBtHDZAN3H8F7E"
+      },
+      "artists": [
+        {
+          "name": "Homebody",
+          "url": "https://open.spotify.com/artist/6JHNIy8sGnVh5YrdVVAIuY"
+        }
+      ],
+      "duration_ms": 214537,
+      "name": "Groovly",
+      "url": "https://open.spotify.com/track/6jJb757pFbYEXjuWAJUcw6"
+    },
+    {
+      "added_at": "2022-03-22 11:23:16",
+      "album": {
         "name": "Rahat",
         "url": "https://open.spotify.com/album/3mM3HpK7WiItHlCk9uRnII"
       },
@@ -503,22 +519,6 @@
       "duration_ms": 166885,
       "name": "Rahat - Instrumental",
       "url": "https://open.spotify.com/track/0eIZJWahC3DUH6UxH5z9o5"
-    },
-    {
-      "added_at": "2022-03-22 11:23:16",
-      "album": {
-        "name": "Skye",
-        "url": "https://open.spotify.com/album/5sQMdn4wUgSkwz3XzyfzgT"
-      },
-      "artists": [
-        {
-          "name": "Off / Side",
-          "url": "https://open.spotify.com/artist/5vAjIRFvJZWeqcIDrWD9uR"
-        }
-      ],
-      "duration_ms": 190098,
-      "name": "Skye",
-      "url": "https://open.spotify.com/track/3zwh6p8XI0Afw46DUkijRd"
     },
     {
       "added_at": "2022-03-22 11:23:16",
@@ -559,22 +559,6 @@
     {
       "added_at": "2022-03-22 11:23:16",
       "album": {
-        "name": "Draai Je Om",
-        "url": "https://open.spotify.com/album/75LwEJvg8k29QAbzPGQXaf"
-      },
-      "artists": [
-        {
-          "name": "Gio",
-          "url": "https://open.spotify.com/artist/6EYEbuEhF2WMVU47iUJNBS"
-        }
-      ],
-      "duration_ms": 194984,
-      "name": "Draai Je Om - Instrumental",
-      "url": "https://open.spotify.com/track/7KVqGZPu3a2IaCUx6wbXLR"
-    },
-    {
-      "added_at": "2022-03-22 11:23:16",
-      "album": {
         "name": "Be Mine",
         "url": "https://open.spotify.com/album/3D4AoTdYFTk0kWbSd9kBR8"
       },
@@ -591,18 +575,18 @@
     {
       "added_at": "2022-03-22 11:23:16",
       "album": {
-        "name": "Arrival",
-        "url": "https://open.spotify.com/album/5LNZcwaftnv3Guu9h7wtAe"
+        "name": "Draai Je Om",
+        "url": "https://open.spotify.com/album/75LwEJvg8k29QAbzPGQXaf"
       },
       "artists": [
         {
-          "name": "Djamil",
-          "url": "https://open.spotify.com/artist/0AgRxCF9PsEjvJvsWDvjJA"
+          "name": "Gio",
+          "url": "https://open.spotify.com/artist/6EYEbuEhF2WMVU47iUJNBS"
         }
       ],
-      "duration_ms": 165957,
-      "name": "Arrival",
-      "url": "https://open.spotify.com/track/7uzPqqddeuLnSf22N4nCJm"
+      "duration_ms": 194984,
+      "name": "Draai Je Om - Instrumental",
+      "url": "https://open.spotify.com/track/7KVqGZPu3a2IaCUx6wbXLR"
     },
     {
       "added_at": "2022-03-22 11:23:16",
@@ -623,6 +607,22 @@
       "duration_ms": 322842,
       "name": "Ik Vari Do Vari",
       "url": "https://open.spotify.com/track/6tEhSz0ct5TlKXBsSNWIHa"
+    },
+    {
+      "added_at": "2022-03-22 11:23:16",
+      "album": {
+        "name": "Arrival",
+        "url": "https://open.spotify.com/album/5LNZcwaftnv3Guu9h7wtAe"
+      },
+      "artists": [
+        {
+          "name": "Djamil",
+          "url": "https://open.spotify.com/artist/0AgRxCF9PsEjvJvsWDvjJA"
+        }
+      ],
+      "duration_ms": 165957,
+      "name": "Arrival",
+      "url": "https://open.spotify.com/track/7uzPqqddeuLnSf22N4nCJm"
     },
     {
       "added_at": "2022-03-22 11:23:16",
@@ -707,22 +707,6 @@
     {
       "added_at": "2022-03-22 11:23:16",
       "album": {
-        "name": "Eshkol",
-        "url": "https://open.spotify.com/album/4vuuyt8VMuzSOzjKkVzDeV"
-      },
-      "artists": [
-        {
-          "name": "Djamil",
-          "url": "https://open.spotify.com/artist/0AgRxCF9PsEjvJvsWDvjJA"
-        }
-      ],
-      "duration_ms": 118588,
-      "name": "Eshkol",
-      "url": "https://open.spotify.com/track/5MlDCzLbDIMw1ZdfkI7rCQ"
-    },
-    {
-      "added_at": "2022-03-22 11:23:16",
-      "album": {
         "name": "Birdie_",
         "url": "https://open.spotify.com/album/4tkmEfZLyCSUjGwjJsm9Le"
       },
@@ -735,6 +719,22 @@
       "duration_ms": 149333,
       "name": "Birdie_ - Instrumental",
       "url": "https://open.spotify.com/track/05n4JTIENSHhwsa7aBDvPm"
+    },
+    {
+      "added_at": "2022-03-22 11:23:16",
+      "album": {
+        "name": "Eshkol",
+        "url": "https://open.spotify.com/album/4vuuyt8VMuzSOzjKkVzDeV"
+      },
+      "artists": [
+        {
+          "name": "Djamil",
+          "url": "https://open.spotify.com/artist/0AgRxCF9PsEjvJvsWDvjJA"
+        }
+      ],
+      "duration_ms": 118588,
+      "name": "Eshkol",
+      "url": "https://open.spotify.com/track/5MlDCzLbDIMw1ZdfkI7rCQ"
     },
     {
       "added_at": "2022-03-22 11:23:16",
@@ -755,22 +755,6 @@
     {
       "added_at": "2022-03-22 11:23:16",
       "album": {
-        "name": "tv-guides . (mini-tape)",
-        "url": "https://open.spotify.com/album/5PVs5XNLertK5QGHzoZmGi"
-      },
-      "artists": [
-        {
-          "name": "mommy",
-          "url": "https://open.spotify.com/artist/0DJoMHFNyxWdoGqi8XMdfk"
-        }
-      ],
-      "duration_ms": 79911,
-      "name": "yoyogi park",
-      "url": "https://open.spotify.com/track/2ZR0mEea2xskfYAuWlhV81"
-    },
-    {
-      "added_at": "2022-03-22 11:23:16",
-      "album": {
         "name": "SMOK",
         "url": "https://open.spotify.com/album/4LJj9F5Y9gzeCQzO2sc5x7"
       },
@@ -783,6 +767,22 @@
       "duration_ms": 160793,
       "name": "SMOK",
       "url": "https://open.spotify.com/track/5XpYOIYN3y5ggxZvbul5VV"
+    },
+    {
+      "added_at": "2022-03-22 11:23:16",
+      "album": {
+        "name": "tv-guides . (mini-tape)",
+        "url": "https://open.spotify.com/album/5PVs5XNLertK5QGHzoZmGi"
+      },
+      "artists": [
+        {
+          "name": "mommy",
+          "url": "https://open.spotify.com/artist/0DJoMHFNyxWdoGqi8XMdfk"
+        }
+      ],
+      "duration_ms": 79911,
+      "name": "yoyogi park",
+      "url": "https://open.spotify.com/track/2ZR0mEea2xskfYAuWlhV81"
     },
     {
       "added_at": "2022-03-22 11:23:16",
@@ -867,22 +867,6 @@
     {
       "added_at": "2022-03-22 11:23:16",
       "album": {
-        "name": "Mawj",
-        "url": "https://open.spotify.com/album/3ylLnuEqOipXkEbJcHGj7W"
-      },
-      "artists": [
-        {
-          "name": "Moseqar",
-          "url": "https://open.spotify.com/artist/5fHVckjK8GV0abZUYPt3kH"
-        }
-      ],
-      "duration_ms": 207274,
-      "name": "Mawj",
-      "url": "https://open.spotify.com/track/4x7i7pSaI036ZYYeTwBLou"
-    },
-    {
-      "added_at": "2022-03-22 11:23:16",
-      "album": {
         "name": "Qahwah Con Leche",
         "url": "https://open.spotify.com/album/4qhILwo49DJUZLXEaaM0fF"
       },
@@ -899,6 +883,22 @@
       "duration_ms": 212000,
       "name": "Qahwah Con Leche",
       "url": "https://open.spotify.com/track/3tUdYudStuFWmlb43jvo24"
+    },
+    {
+      "added_at": "2022-03-22 11:23:16",
+      "album": {
+        "name": "Mawj",
+        "url": "https://open.spotify.com/album/3ylLnuEqOipXkEbJcHGj7W"
+      },
+      "artists": [
+        {
+          "name": "Moseqar",
+          "url": "https://open.spotify.com/artist/5fHVckjK8GV0abZUYPt3kH"
+        }
+      ],
+      "duration_ms": 207274,
+      "name": "Mawj",
+      "url": "https://open.spotify.com/track/4x7i7pSaI036ZYYeTwBLou"
     },
     {
       "added_at": "2022-03-22 11:23:16",

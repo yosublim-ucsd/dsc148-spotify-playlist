@@ -383,6 +383,24 @@
     },
     {
       "album": {
+        "name": "California Stars",
+        "url": "https://open.spotify.com/album/09gOk1XfZR9icyU09dC5kg"
+      },
+      "artists": [
+        {
+          "name": "Cliff Hillis",
+          "url": "https://open.spotify.com/artist/1mpEw4E2cHyrO6PZVMWqlW"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210880,
+      "name": "California Stars",
+      "url": "https://open.spotify.com/track/4zs1BjUwkwSGaNMHfweh1Z"
+    },
+    {
+      "album": {
         "name": "Uke Classics",
         "url": "https://open.spotify.com/album/27AhRs4C9zr6daRn8f0ckn"
       },

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "Deretan musisi dalam negeri yang patut diantisipasi. Cover: Maulana Ardiansyah",
+  "description": "Deretan musisi dalam negeri yang patut diantisipasi. Cover: Stereo Wall",
   "name": "RADAR Indonesia",
   "tracks": [
     {
@@ -408,6 +408,28 @@
       "duration_ms": 246927,
       "name": "Blanket of Sadness (feat. Rendy Pandugo)",
       "url": "https://open.spotify.com/track/35aPun5RCCmKOWe1a6t8b9"
+    },
+    {
+      "album": {
+        "name": "Prologue",
+        "url": "https://open.spotify.com/album/5xGgVRebfE9c1LkYPdK21s"
+      },
+      "artists": [
+        {
+          "name": "Stereo Wall",
+          "url": "https://open.spotify.com/artist/0kw7tMniMnrp9Pcr7vgDAm"
+        },
+        {
+          "name": "Tuantigabelas",
+          "url": "https://open.spotify.com/artist/0CKf1Ac7v8HTqXxYdWsyWn"
+        }
+      ],
+      "date_added": "2023-10-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 282289,
+      "name": "Blood & Light (Prologue Version)",
+      "url": "https://open.spotify.com/track/5g2qaDg6fsIB1LKSQM3Zbq"
     },
     {
       "album": {

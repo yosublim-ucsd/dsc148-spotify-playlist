@@ -1,12 +1,12 @@
 {
   "description": "Solo musica italiana indipendente, aggiornata ogni mercoled\u00ec. Cover: <a href=\"spotify:artist:2SU1nwN4pyNj6cSVoOzcsc\">Gheba</a>",
-  "num_followers": 7500,
+  "num_followers": 7507,
   "original_name": "Fresh Finds Italia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyMzlmYWExZjE2NDRhYWY2OGQ3N2I5ZDg3ZjAzMWU3NzVjNDI1MGZj",
+  "snapshot_id": "MCwyYzdlMWM4ZTNiNjdiMDBmOWY5MzA3YmE5ZjlkODRiZjQ0ZjhkNzY3",
   "tracks": [
     {
       "added_at": "2023-10-18 08:40:23",
@@ -307,6 +307,22 @@
       "duration_ms": 172000,
       "name": "Oh Boy",
       "url": "https://open.spotify.com/track/4xebOpVE3l1zTybNlS2IOv"
+    },
+    {
+      "added_at": "2023-10-18 08:40:23",
+      "album": {
+        "name": "Limine",
+        "url": "https://open.spotify.com/album/1p1CplengpaQU0lsmzOBaB"
+      },
+      "artists": [
+        {
+          "name": "Macadamia",
+          "url": "https://open.spotify.com/artist/4ctoRm4PSfS4v7YdoHgIen"
+        }
+      ],
+      "duration_ms": 193833,
+      "name": "Hey Mon Amour",
+      "url": "https://open.spotify.com/track/2gcVYbtY4GPLvnAzitTvee"
     },
     {
       "added_at": "2023-10-18 08:40:23",

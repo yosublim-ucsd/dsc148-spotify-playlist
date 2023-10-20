@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-01-15",
-  "description": "Boss music for boss people. Cover: JAMIE WEBSTER",
+  "description": "Boss music for boss people. Cover: Picture Parlour",
   "name": "Proper Belters",
   "tracks": [
     {
@@ -56,6 +56,24 @@
       "duration_ms": 253586,
       "name": "505",
       "url": "https://open.spotify.com/track/58ge6dfP91o9oXMzq3XkIS"
+    },
+    {
+      "album": {
+        "name": "Accidental Doom",
+        "url": "https://open.spotify.com/album/3kZXb8vcfhNLKw58FyjbOr"
+      },
+      "artists": [
+        {
+          "name": "Pit Pony",
+          "url": "https://open.spotify.com/artist/1Tam6yeKCTZNKVah41Uv7j"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253200,
+      "name": "Accidental Doom",
+      "url": "https://open.spotify.com/track/4RWRV4KKmBJevD1jSupSry"
     },
     {
       "album": {
@@ -286,7 +304,7 @@
       ],
       "date_added": "2023-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-20",
       "duration_ms": 274664,
       "name": "Bleachers Yard",
       "url": "https://open.spotify.com/track/0f62033IA2CQh9Y5t4zMJt"
@@ -340,7 +358,7 @@
       ],
       "date_added": "2023-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-20",
       "duration_ms": 179618,
       "name": "Boys Like Me",
       "url": "https://open.spotify.com/track/75VuXKZxXIgoFxVuJSi8MS"
@@ -628,7 +646,7 @@
       ],
       "date_added": "2023-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-20",
       "duration_ms": 223812,
       "name": "Dead Poets Society",
       "url": "https://open.spotify.com/track/5pEkbTefFUglGrPafVSfID"
@@ -779,6 +797,24 @@
     },
     {
       "album": {
+        "name": "Don't Stop Me",
+        "url": "https://open.spotify.com/album/1hZIRbIdE5NXfLin7GLO3Q"
+      },
+      "artists": [
+        {
+          "name": "Corella",
+          "url": "https://open.spotify.com/artist/5LoyxydilSHtcohX3rSRXe"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196670,
+      "name": "Don't Stop Me",
+      "url": "https://open.spotify.com/track/0f4yOCLh56jPY5sRUYRgTZ"
+    },
+    {
+      "album": {
         "name": "Eclipse",
         "url": "https://open.spotify.com/album/6B0pRDdQ8Udrosv4NMscW3"
       },
@@ -833,6 +869,24 @@
     },
     {
       "album": {
+        "name": "Exposed to Some Light",
+        "url": "https://open.spotify.com/album/4A5Yee0Ah4mNsML5rHhZbH"
+      },
+      "artists": [
+        {
+          "name": "Nightbus",
+          "url": "https://open.spotify.com/artist/1fbC8ATYVPUeFy2h5NOK8x"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239250,
+      "name": "Exposed to Some Light",
+      "url": "https://open.spotify.com/track/6nduEbD1djbA05rXx36hPX"
+    },
+    {
+      "album": {
         "name": "Fading",
         "url": "https://open.spotify.com/album/0yNfE1sA8oc97MG7DoVRnq"
       },
@@ -848,6 +902,24 @@
       "duration_ms": 186413,
       "name": "Fading",
       "url": "https://open.spotify.com/track/3PTwnUE0HTAvBnhiqFVi9Y"
+    },
+    {
+      "album": {
+        "name": "Fading Away",
+        "url": "https://open.spotify.com/album/5VbFZPiASp3zmXHDVIcG3V"
+      },
+      "artists": [
+        {
+          "name": "Tom A. Smith",
+          "url": "https://open.spotify.com/artist/6haZIHZVYI79wKvp6FCFML"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206247,
+      "name": "Fading Away",
+      "url": "https://open.spotify.com/track/6Nyv3dj56fcQPKsNityR0p"
     },
     {
       "album": {
@@ -1262,7 +1334,7 @@
       ],
       "date_added": "2023-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-20",
       "duration_ms": 157756,
       "name": "Hull Sky",
       "url": "https://open.spotify.com/track/3KTFknLMGHEH7yaxCjDrS7"
@@ -1630,6 +1702,24 @@
       "duration_ms": 212138,
       "name": "Jellyfish",
       "url": "https://open.spotify.com/track/5miXWvZSKWYr4W3MR27z87"
+    },
+    {
+      "album": {
+        "name": "Judgement Day",
+        "url": "https://open.spotify.com/album/1owOZN7l607ySn2o9zJ1Jb"
+      },
+      "artists": [
+        {
+          "name": "Picture Parlour",
+          "url": "https://open.spotify.com/artist/0lGEUAqbgX8yeEGIWjY9eV"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209441,
+      "name": "Judgement Day",
+      "url": "https://open.spotify.com/track/1A1QyDeRD4APE5Dzkp6CBr"
     },
     {
       "album": {
@@ -2040,7 +2130,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-20",
       "duration_ms": 212964,
       "name": "Out of My Mind",
       "url": "https://open.spotify.com/track/1bQG1BtFDU8ZFGpbyDKxm1"
@@ -2130,7 +2220,7 @@
       ],
       "date_added": "2023-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-20",
       "duration_ms": 153050,
       "name": "PRAWN SOUP",
       "url": "https://open.spotify.com/track/5PEH48ZYmU1Ewx15tFJz6w"
@@ -2242,6 +2332,24 @@
       "duration_ms": 237422,
       "name": "Ritual Of The Crocodile Men",
       "url": "https://open.spotify.com/track/1HqBbNCgZQLmViO7t2q40Y"
+    },
+    {
+      "album": {
+        "name": "Sad Boys",
+        "url": "https://open.spotify.com/album/3uI556NUIIikU57t1dbhP2"
+      },
+      "artists": [
+        {
+          "name": "Bandit",
+          "url": "https://open.spotify.com/artist/0D77POYEzzGCwxFGJjfPop"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192305,
+      "name": "Sad Boys",
+      "url": "https://open.spotify.com/track/6uwXSUhQeW0jKH5fZrgYzb"
     },
     {
       "album": {
@@ -2382,7 +2490,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-20",
       "duration_ms": 194560,
       "name": "Slowly Break My Heart",
       "url": "https://open.spotify.com/track/7aTbJIgfkh5Hhq3C1309sD"
@@ -2674,6 +2782,24 @@
       "duration_ms": 272720,
       "name": "Time Comes Around",
       "url": "https://open.spotify.com/track/0c5RPTaGarzbe2aMltCHji"
+    },
+    {
+      "album": {
+        "name": "Time Of Your Life",
+        "url": "https://open.spotify.com/album/7o2pbWYW58zhZiSHi6op6b"
+      },
+      "artists": [
+        {
+          "name": "Miles Kane",
+          "url": "https://open.spotify.com/artist/3M0H4efyA5YcijrKlaKbYn"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187566,
+      "name": "Time Of Your Life",
+      "url": "https://open.spotify.com/track/3MANuRQlw4dMMENY8gzcYl"
     },
     {
       "album": {

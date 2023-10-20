@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2RxBh64BHjQ.md) - [plain]
 
 > The official voice of the next generation\. Cover: <a href="spotify:artist:3DbwFQlvLxRSi2uX8mf81A">Sexyy Red</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,785,257 likes - 100 songs - 4 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,785,535 likes - 100 songs - 4 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,7 +44,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2RxBh64BHjQ.md) - [plain]
 | 34 | [BUTTERFLY COUPE feat\. Tyga](https://open.spotify.com/track/3HCDcijVzbd59yvVn0nLPY) | [Kalan.FrFr](https://open.spotify.com/artist/47TMF0JlFsz01KilGzc5Ly), [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp) | [BUTTERFLY COUPE feat\. Tyga](https://open.spotify.com/album/4Lm3jQ2K459Vufnq6wHjn4) | 2:44 |
 | 35 | [BING BONG \(Remix\) \[feat\. Sexyy Red\]](https://open.spotify.com/track/3dcwO3xoYHYp3PFhMlACmE) | [BlakeIANA](https://open.spotify.com/artist/7gq41QBlN40T3GDQ0wEbYS), [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A) | [BING BONG \(Remix\) \[feat\. Sexyy Red\]](https://open.spotify.com/album/0Yx1bhHWgiBCFL5wkUIDur) | 2:46 |
 | 36 | [Barbie](https://open.spotify.com/track/0wnZP5KJSJ8xmTJmmjOqwr) | [JaidynAlexis](https://open.spotify.com/artist/1bu90rjktSmOd2wveQoIKi) | [Barbie](https://open.spotify.com/album/2YvG8ptg1hzWzX0pXA4bbg) | 2:08 |
-| 37 | [Rich Talking \(feat\. Babytron\)](https://open.spotify.com/track/4smtHPDOwSpkqx2BN5QSwr) | [Babyfxce E](https://open.spotify.com/artist/7a8ZndeHGrkS7xIM8060Xw), [BabyTron](https://open.spotify.com/artist/0sKsReKseslDlhxmbN6wLk) | [Rich Talking \(feat\. Babytron\)](https://open.spotify.com/album/3S9mNmJpHYJEe5RG8tZiME) | 2:52 |
+| 37 | [Rich Talking \(feat\. BabyTron\)](https://open.spotify.com/track/4smtHPDOwSpkqx2BN5QSwr) | [Babyfxce E](https://open.spotify.com/artist/7a8ZndeHGrkS7xIM8060Xw), [BabyTron](https://open.spotify.com/artist/0sKsReKseslDlhxmbN6wLk) | [Rich Talking \(feat\. Babytron\)](https://open.spotify.com/album/3S9mNmJpHYJEe5RG8tZiME) | 2:52 |
 | 38 | [Lost & Found](https://open.spotify.com/track/35gPF7j6rBRHKUe4zsXqry) | [D\. Savage](https://open.spotify.com/artist/6FqXAd1hQl7vVdIQ3hhtgc) | [Lost & Found](https://open.spotify.com/album/5pF3uHPu7XXDWwVTBYQXew) | 2:05 |
 | 39 | [In Your Hands \(feat\. Ty Dolla $ign\)](https://open.spotify.com/track/52pTh7e1s3Sy9wjpuZv1eo) | [Maiya The Don](https://open.spotify.com/artist/6S6u5pS5ywg7rv50rhpobQ), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [Hot Commodity](https://open.spotify.com/album/7izAmu5sQIaqaKtXmqW5Dl) | 2:21 |
 | 40 | [Yes](https://open.spotify.com/track/5wJzWIpTjufasyBhPmfPwm) | [Hunxho](https://open.spotify.com/artist/508weSx4HBumrGggFmc7br) | [For Her](https://open.spotify.com/album/4bHTLD05ILfR6xCCSoivGQ) | 3:14 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2RxBh64BHjQ.md) - [plain]
 | 99 | [Cowboy Killer](https://open.spotify.com/track/5SGWCqheDXPlYnv9aQs795) | [That Mexican OT](https://open.spotify.com/artist/3BAgmPNIK5IJl7zMK1wvMA) | [Lonestar Luchador](https://open.spotify.com/album/1tX0d5OqKOCkif6yja3TpK) | 2:22 |
 | 100 | [2021 Vibes](https://open.spotify.com/track/6TJaoJX8VhptZ0DkcsjWaR) | [LUCKI](https://open.spotify.com/artist/5tQMB0cuNXdCtzovGt55uD) | [s\*x m\*ney dr\*gs](https://open.spotify.com/album/6vKVBLTsQW5wXOzmOIkPVZ) | 2:04 |
 
-Snapshot ID: `MCw3ZDg0YWNlYTA2ZjM5MjQ3OGJlMmM5OTIzNWNkN2IwZWM3MmU2Yjhl`
+Snapshot ID: `MCw3ZjBlMDFmYmQwYTNhYmE0YTI4ZGNkODJmZTU0ODQyYjU4OTA4ZDQ2`

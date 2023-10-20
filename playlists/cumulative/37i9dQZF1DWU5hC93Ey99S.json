@@ -223,6 +223,24 @@
     },
     {
       "album": {
+        "name": "All I Need",
+        "url": "https://open.spotify.com/album/0REyCTre7WLmJnVmBDMqgN"
+      },
+      "artists": [
+        {
+          "name": "NOTSOBAD",
+          "url": "https://open.spotify.com/artist/2aLLYZ0sdqweMEPFUyYIXJ"
+        }
+      ],
+      "date_added": "2023-10-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201023,
+      "name": "All I Need",
+      "url": "https://open.spotify.com/track/2N1teUVGfP3vWKKGq0ZxvH"
+    },
+    {
+      "album": {
         "name": "All In My Head",
         "url": "https://open.spotify.com/album/5XOshXQLbsax7zxKwMYS3F"
       },
@@ -406,6 +424,24 @@
       "duration_ms": 168000,
       "name": "are you here",
       "url": "https://open.spotify.com/track/02Xovos0EpvUeSsivTEAPU"
+    },
+    {
+      "album": {
+        "name": "are you talking to me",
+        "url": "https://open.spotify.com/album/5PBIATw8boiXVdiXMVi9td"
+      },
+      "artists": [
+        {
+          "name": "heartaake",
+          "url": "https://open.spotify.com/artist/57vkczkmC48439UWdL7oJa"
+        }
+      ],
+      "date_added": "2023-10-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170666,
+      "name": "are you talking to me",
+      "url": "https://open.spotify.com/track/7DYeRZsqwvQkWurdyPRMw5"
     },
     {
       "album": {
@@ -652,6 +688,28 @@
       "duration_ms": 199766,
       "name": "Broke Another Heart (Today)",
       "url": "https://open.spotify.com/track/4aRiePemhJwCpCti5DEZSs"
+    },
+    {
+      "album": {
+        "name": "Broken Heart",
+        "url": "https://open.spotify.com/album/3L4ohYAwAkSybnk7N3sE1l"
+      },
+      "artists": [
+        {
+          "name": "POOLCLVB",
+          "url": "https://open.spotify.com/artist/2YuGcy0A3VKg9jRbadzoJL"
+        },
+        {
+          "name": "Fanta Ballo",
+          "url": "https://open.spotify.com/artist/0vBbILw90erFScUxxhD5Kg"
+        }
+      ],
+      "date_added": "2023-10-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207507,
+      "name": "Broken Heart",
+      "url": "https://open.spotify.com/track/2izq5CuZDIFIlfUydVXT1G"
     },
     {
       "album": {
@@ -1394,7 +1452,7 @@
       ],
       "date_added": "2023-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-20",
       "duration_ms": 192000,
       "name": "feelslikewerefalling",
       "url": "https://open.spotify.com/track/5AQTaXJSHYCBnqDXcX0Qpu"
@@ -1891,6 +1949,50 @@
     },
     {
       "album": {
+        "name": "HOLD ON TO / THE FEELING",
+        "url": "https://open.spotify.com/album/34F0OBeBCu9hXGlttja3w1"
+      },
+      "artists": [
+        {
+          "name": "OddKidOut",
+          "url": "https://open.spotify.com/artist/6l6zabESz1QE4me8Cz3uux"
+        },
+        {
+          "name": "Boy Beverly",
+          "url": "https://open.spotify.com/artist/6z9kwy3tDuTCZuDZkvZj0p"
+        }
+      ],
+      "date_added": "2023-10-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128000,
+      "name": "HOLD ON TO (feat. Boy Beverly)",
+      "url": "https://open.spotify.com/track/7tPr0sdfWxxsr1pv42FlTh"
+    },
+    {
+      "album": {
+        "name": "HOLD TIGHT",
+        "url": "https://open.spotify.com/album/4obNCFuwOgF4C6en6QXSAe"
+      },
+      "artists": [
+        {
+          "name": "33 Below",
+          "url": "https://open.spotify.com/artist/4tMIsBBR8M0PsorDf0mNEz"
+        },
+        {
+          "name": "Chrystel",
+          "url": "https://open.spotify.com/artist/256du56ykQ0aoQBdKFCDH0"
+        }
+      ],
+      "date_added": "2023-10-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199318,
+      "name": "HOLD TIGHT",
+      "url": "https://open.spotify.com/track/1TOBYH7YalbblKJ7M8ufRx"
+    },
+    {
+      "album": {
         "name": "HOLD YOU",
         "url": "https://open.spotify.com/album/5KgTqGLDlJo6kL67PMbRdi"
       },
@@ -1986,6 +2088,24 @@
       "duration_ms": 221311,
       "name": "Home",
       "url": "https://open.spotify.com/track/7LcoNxnl1UpDTVlFxyWuc7"
+    },
+    {
+      "album": {
+        "name": "kidsgonemad!",
+        "url": "https://open.spotify.com/album/2rMP8tQaoWn14zQM2zUOzG"
+      },
+      "artists": [
+        {
+          "name": "ISOxo",
+          "url": "https://open.spotify.com/artist/4zVCMnjw54nkhGHU4e1Pav"
+        }
+      ],
+      "date_added": "2023-10-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241714,
+      "name": "how2fly",
+      "url": "https://open.spotify.com/track/2fga4JgHuq91W9HiTfo9GC"
     },
     {
       "album": {
@@ -2120,6 +2240,28 @@
       "duration_ms": 122482,
       "name": "I Don't Wanna Let You Go",
       "url": "https://open.spotify.com/track/4fuNiwrYGyapCWvu6wmDrT"
+    },
+    {
+      "album": {
+        "name": "I FEEL",
+        "url": "https://open.spotify.com/album/0nGfxdatqkx0YTPH7FAC4j"
+      },
+      "artists": [
+        {
+          "name": "WE ARE ALL FRIENDS",
+          "url": "https://open.spotify.com/artist/6Jy94E7pGZhtlx93qNkRaS"
+        },
+        {
+          "name": "devin",
+          "url": "https://open.spotify.com/artist/1nTDIsZa79wLRMZDfuVG3h"
+        }
+      ],
+      "date_added": "2023-10-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150222,
+      "name": "I FEEL",
+      "url": "https://open.spotify.com/track/4tB9T3knLNUwhHWI9AV3Os"
     },
     {
       "album": {
@@ -2388,7 +2530,7 @@
       ],
       "date_added": "2023-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-20",
       "duration_ms": 146506,
       "name": "just alone",
       "url": "https://open.spotify.com/track/2TNgS6N47IpQFqPLR24Phy"
@@ -2648,7 +2790,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 170582,
-      "name": "Let Me Know (feat. CLMD)",
+      "name": "Let Me Know (feat. CLMD) - Remix",
       "url": "https://open.spotify.com/track/6Q25Z9gsiXLOqcirOD5mrl"
     },
     {
@@ -2872,7 +3014,7 @@
       ],
       "date_added": "2023-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-20",
       "duration_ms": 172444,
       "name": "Loser",
       "url": "https://open.spotify.com/track/1BUdgxjmGFXqnpkkQpjBhs"
@@ -3197,6 +3339,24 @@
     },
     {
       "album": {
+        "name": "MISS YA",
+        "url": "https://open.spotify.com/album/2kyxO943AlY8dFWRT3JAhG"
+      },
+      "artists": [
+        {
+          "name": "Biicla",
+          "url": "https://open.spotify.com/artist/72heZIc2iMXdpDwsTjTcCQ"
+        }
+      ],
+      "date_added": "2023-10-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157611,
+      "name": "MISS YA",
+      "url": "https://open.spotify.com/track/6Dop4DErxSA7f58ngteHvI"
+    },
+    {
+      "album": {
         "name": "Criteria",
         "url": "https://open.spotify.com/album/63bRjCDnfaA0fJav1Kcme6"
       },
@@ -3216,6 +3376,24 @@
       "duration_ms": 142500,
       "name": "More In Love (with Grady)",
       "url": "https://open.spotify.com/track/3gnz988nn8pcUGijzH4h9O"
+    },
+    {
+      "album": {
+        "name": "Moss",
+        "url": "https://open.spotify.com/album/0OTOcLpCVrU0eP90v8Zocc"
+      },
+      "artists": [
+        {
+          "name": "Duskus",
+          "url": "https://open.spotify.com/artist/59MDSNIYoOY0WRYuodzJPD"
+        }
+      ],
+      "date_added": "2023-10-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171470,
+      "name": "Moss",
+      "url": "https://open.spotify.com/track/2OVo7I9IuGruvsOj83jvtQ"
     },
     {
       "album": {
@@ -4016,7 +4194,7 @@
       ],
       "date_added": "2023-05-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-20",
       "duration_ms": 158222,
       "name": "say my name",
       "url": "https://open.spotify.com/track/2vJXLcot7FkfJ4uca2b1V4"
@@ -4064,6 +4242,32 @@
       "duration_ms": 253981,
       "name": "Say Yes To Heaven - sim0ne & Melo Nada Remix",
       "url": "https://open.spotify.com/track/2A7n6aoRd0pxfwasvN4Fh9"
+    },
+    {
+      "album": {
+        "name": "Scared To Lose You",
+        "url": "https://open.spotify.com/album/4tFfoVxGgISgXfGodGaQSj"
+      },
+      "artists": [
+        {
+          "name": "Alvix",
+          "url": "https://open.spotify.com/artist/6kvuWxnfDOejSwLyAliFfY"
+        },
+        {
+          "name": "HIDDN",
+          "url": "https://open.spotify.com/artist/0wqZ6mvk4DfOvtQUVniOCX"
+        },
+        {
+          "name": "Arild Aas",
+          "url": "https://open.spotify.com/artist/0H9XxJcRLKTYCfPTNKmttd"
+        }
+      ],
+      "date_added": "2023-10-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151680,
+      "name": "Scared To Lose You",
+      "url": "https://open.spotify.com/track/3HfTXw9hR8dHkhdc7aKrfP"
     },
     {
       "album": {

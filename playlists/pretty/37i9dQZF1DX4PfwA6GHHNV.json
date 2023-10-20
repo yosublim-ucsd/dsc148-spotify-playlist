@@ -1,12 +1,12 @@
 {
   "description": "pra curtir o puro afrobeats feito no Brasil.",
-  "num_followers": 11930,
+  "num_followers": 11963,
   "original_name": "pique afrobeats",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkMTIyNjE2NjFjY2QwZTBkNDUwY2IyODlmYTAxYWUxNDJlZGQyY2Uw",
+  "snapshot_id": "MCxhM2Y3MThmNDExNzM3NjRjOTMzNzgxZmMyZDZhNjA4N2U3MTU2ZGFk",
   "tracks": [
     {
       "added_at": "2023-10-13 13:31:57",
@@ -983,26 +983,6 @@
     {
       "added_at": "2023-10-13 13:31:57",
       "album": {
-        "name": "Yo Quiero Te Namorar",
-        "url": "https://open.spotify.com/album/6ACgiyuojhvWp10E50wOhq"
-      },
-      "artists": [
-        {
-          "name": "Negr\u00e3oDoC\u00e9u",
-          "url": "https://open.spotify.com/artist/7IRAMOb7oQMFe3vYolwQcx"
-        },
-        {
-          "name": "DJFILLSP",
-          "url": "https://open.spotify.com/artist/4bNL7mdXdO73ABIkXvjDa7"
-        }
-      ],
-      "duration_ms": 198070,
-      "name": "Yo Quiero Te Namorar",
-      "url": "https://open.spotify.com/track/6scYrkXq1wfxADlx9aeOyf"
-    },
-    {
-      "added_at": "2023-10-13 13:31:57",
-      "album": {
         "name": "S\u00f3 Minha",
         "url": "https://open.spotify.com/album/2yAVdMoZb53qdEVhKiM8gn"
       },
@@ -1019,6 +999,26 @@
       "duration_ms": 149433,
       "name": "S\u00f3 Minha",
       "url": "https://open.spotify.com/track/5N7Y3iJm6hpAuC27eiJSZ7"
+    },
+    {
+      "added_at": "2023-10-13 13:31:57",
+      "album": {
+        "name": "Yo Quiero Te Namorar",
+        "url": "https://open.spotify.com/album/6ACgiyuojhvWp10E50wOhq"
+      },
+      "artists": [
+        {
+          "name": "Negr\u00e3oDoC\u00e9u",
+          "url": "https://open.spotify.com/artist/7IRAMOb7oQMFe3vYolwQcx"
+        },
+        {
+          "name": "DJFILLSP",
+          "url": "https://open.spotify.com/artist/4bNL7mdXdO73ABIkXvjDa7"
+        }
+      ],
+      "duration_ms": 198070,
+      "name": "Yo Quiero Te Namorar",
+      "url": "https://open.spotify.com/track/6scYrkXq1wfxADlx9aeOyf"
     },
     {
       "added_at": "2023-10-13 13:31:57",

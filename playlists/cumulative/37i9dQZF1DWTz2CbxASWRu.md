@@ -4,14 +4,15 @@
 
 > Nomadismo sonoro para quienes aman la música de todos los rincones del planeta.
 
-364 songs - 1 day 2 hr 28 min
+367 songs - 1 day 2 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [A Felicidade](https://open.spotify.com/track/5IdwcJPsvxOrr5le9z7NuZ) | [Trio Amazonia](https://open.spotify.com/artist/6AEm8Y0HpqCttIUfdfV04r) | [Trio Amazonia](https://open.spotify.com/album/0otw61lTdvOKY3EjXJ3yuA) | 5:07 | 2023-07-10 | 2023-10-15 |
 | [A Minha Menina](https://open.spotify.com/track/3NefwRYI7GuLkajzHoRVRf) | [Onda Vaga](https://open.spotify.com/artist/3cBb4A9AZeZhcq781P3wCZ), [Francisco, el Hombre](https://open.spotify.com/artist/317yGDHMNsNQMfjsNNPYUg) | [Nuestras Canciones](https://open.spotify.com/album/3OVCObdYjGdtRr5t9mQfX3) | 3:17 | 2023-07-10 |  |
 | [Aaj Shanibar](https://open.spotify.com/track/31KWQUc0jo0qjZeqduEovA) | [Rupa](https://open.spotify.com/artist/1ZeGksupgZKMlzvtBjMEEh) | [Disco Jazz](https://open.spotify.com/album/39VaqEkzu1GAw1pESi2tBt) | 7:59 | 2023-07-10 |  |
-| [Abusey Junction](https://open.spotify.com/track/67SCL8j8laOVYkPiv4Ei8q) | [Kokoroko](https://open.spotify.com/artist/3u9rbdcmA6CxjxOAkjaeFr) | [KOKOROKO](https://open.spotify.com/album/7DEDf5W3DlySzcs4CQuiuF) | 7:04 | 2023-07-10 |  |
+| [Abusey Junction](https://open.spotify.com/track/3W4IoNW4011i8qfCwN75Va) | [Kokoroko](https://open.spotify.com/artist/3u9rbdcmA6CxjxOAkjaeFr) | [KOKOROKO](https://open.spotify.com/album/5GgdFrmouCR0Ud5Ag7IC8H) | 7:04 | 2023-07-10 |  |
+| [Abusey Junction](https://open.spotify.com/track/67SCL8j8laOVYkPiv4Ei8q) | [Kokoroko](https://open.spotify.com/artist/3u9rbdcmA6CxjxOAkjaeFr) | [KOKOROKO](https://open.spotify.com/album/7DEDf5W3DlySzcs4CQuiuF) | 7:04 | 2023-07-10 | 2023-10-20 |
 | [Achinkad](https://open.spotify.com/track/7eArOOr6p5TiYNGH6jHALx) | [Imarhan](https://open.spotify.com/artist/1KQ1687z0hWSabx0YswG54) | [Aboogi](https://open.spotify.com/album/4HtjxGyTwAPzU8nrg4BGtw) | 4:16 | 2023-07-10 |  |
 | [Acosadora \- Radio Edit](https://open.spotify.com/track/1CppY4y3oYEv6NIC4w9irf) | [La Misa Negra](https://open.spotify.com/artist/0Q6BYEUIIzKDzxFd4sRD8h) | [La Misa Negra](https://open.spotify.com/album/16j4GvZ0iM29F0eyRjwQD6) | 3:52 | 2023-07-10 |  |
 | [Adwa](https://open.spotify.com/track/71NAxmG4jKuNV83yFGyShn) | [Kokoroko](https://open.spotify.com/artist/3u9rbdcmA6CxjxOAkjaeFr) | [KOKOROKO](https://open.spotify.com/album/7DEDf5W3DlySzcs4CQuiuF) | 5:56 | 2023-07-10 |  |
@@ -264,7 +265,7 @@
 | [Pa ri nan male'm](https://open.spotify.com/track/6UHVo0ll6wwAKutKbgbdm2) | [BélO](https://open.spotify.com/artist/5EbA6WV9yXuZQicAUSzjcM) | [Dizan](https://open.spotify.com/album/0mT2Oej5aCLf47fQtz6XDA) | 3:57 | 2023-07-10 |  |
 | [Pacifique](https://open.spotify.com/track/5kBAS93dHatBVw5lve0NVF) | [Zoufris Maracas](https://open.spotify.com/artist/2aW5pvTZYAAZxbh75uVzZD) | [Chienne de vie](https://open.spotify.com/album/7c6Z4B7NbzngH484t8jrFQ) | 6:42 | 2023-07-10 |  |
 | [Palea](https://open.spotify.com/track/7cwmwDUVlrsH78TMBijAA4) | [Dobet Gnahoré](https://open.spotify.com/artist/0eHY5jLP9TgzxYhT19Sqyq) | [Na Afriki](https://open.spotify.com/album/0iq6cp0xVs0NTIcBr1W6bt) | 3:39 | 2023-07-10 |  |
-| [Paleta](https://open.spotify.com/track/4UGMFGzGdq4H6nIM82d7mP) | [Orkesta Mendoza](https://open.spotify.com/artist/3VkYgHMyt5EYPd7qfzE3CT) | [Curandero](https://open.spotify.com/album/3hbeW1sJ4F6IT5bV5qquM4) | 2:38 | 2023-07-10 |  |
+| [Paleta](https://open.spotify.com/track/4UGMFGzGdq4H6nIM82d7mP) | [Orkesta Mendoza](https://open.spotify.com/artist/3VkYgHMyt5EYPd7qfzE3CT) | [Curandero](https://open.spotify.com/album/3hbeW1sJ4F6IT5bV5qquM4) | 2:38 | 2023-07-10 | 2023-10-20 |
 | [Papote's Guajira](https://open.spotify.com/track/7gvrsINoNbkAeI7u7KV1QB) | [Los Hacheros](https://open.spotify.com/artist/3QaUIcIZGNLAQdmUq8rv9y) | [Pilon](https://open.spotify.com/album/7nCo1Pzbu5CoY8GLGwDWrH) | 6:56 | 2023-07-10 |  |
 | [Passarinha](https://open.spotify.com/track/6pHX4yF2JKjZdSk25DWJKv) | [Bala Desejo](https://open.spotify.com/artist/4MF1QlpuvKRIfkmfOA4DrH), [Dora Morelenbaum](https://open.spotify.com/artist/6xt7x7TG8ExdvWM3R15cmE), [Julia Mestre](https://open.spotify.com/artist/1FnGKreDca8xq3juSi5hAE), [Lucas Nunes](https://open.spotify.com/artist/3wO3x8goZuWnibpyFMakpW), [Zé Ibarra](https://open.spotify.com/artist/52GmrK0buOOvHo7Kk20O4U) | [SIM SIM SIM](https://open.spotify.com/album/3dTQyJxSCkwJ4PFcURFd3f) | 3:55 | 2023-07-10 |  |
 | [Pata Pata](https://open.spotify.com/track/151vetNVhtSVBiTFqII0yz) | [Miriam Makeba](https://open.spotify.com/artist/18RkLKfeoUgZflWv9os25W) | [Reflections](https://open.spotify.com/album/4EGe5tRktJgNpbWjC6ijLn) | 3:23 | 2023-07-10 |  |
@@ -329,7 +330,8 @@
 | [The Obvious Child](https://open.spotify.com/track/1deWgqhgAzI6dY35TbKKh7) | [Paul Simon](https://open.spotify.com/artist/2CvCyf1gEVhI0mX6aFXmVI) | [The Rhythm Of The Saints](https://open.spotify.com/album/08tZq3FDsspdU6ycn8Jl2o) | 4:10 | 2023-07-10 |  |
 | [The Panther](https://open.spotify.com/track/0TO438ElpElpdtY9s4aNjv) | [Manu Dibango](https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW) | [Afro\-Soul Machine](https://open.spotify.com/album/1yRSGm5kcA6QJhiGNeTio4) | 2:29 | 2023-07-10 |  |
 | [There Will Be Time](https://open.spotify.com/track/0CzbkuvsT2gSUkASIRqo7o) | [Mumford & Sons](https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2), [Baaba Maal](https://open.spotify.com/artist/49z6oAiD2RpyUf5yLJs7Nf) | [There Will Be Time](https://open.spotify.com/album/0klvKSGjl9QGsJBwf6itVR) | 4:27 | 2023-07-10 |  |
-| [Ti\-de](https://open.spotify.com/track/4Hkcul01Ct8ToAZkc71Ktf) | [Kokoroko](https://open.spotify.com/artist/3u9rbdcmA6CxjxOAkjaeFr) | [KOKOROKO](https://open.spotify.com/album/7DEDf5W3DlySzcs4CQuiuF) | 6:12 | 2023-07-10 |  |
+| [Ti\-de](https://open.spotify.com/track/4Hkcul01Ct8ToAZkc71Ktf) | [Kokoroko](https://open.spotify.com/artist/3u9rbdcmA6CxjxOAkjaeFr) | [KOKOROKO](https://open.spotify.com/album/7DEDf5W3DlySzcs4CQuiuF) | 6:12 | 2023-07-10 | 2023-10-20 |
+| [Ti\-de](https://open.spotify.com/track/4JJEfYFamGRfmz9nG6fx1w) | [Kokoroko](https://open.spotify.com/artist/3u9rbdcmA6CxjxOAkjaeFr) | [KOKOROKO](https://open.spotify.com/album/5GgdFrmouCR0Ud5Ag7IC8H) | 6:12 | 2023-07-10 |  |
 | [Tiene Sabor, Tiene Sazón](https://open.spotify.com/track/6OghUc8FwEZOvEszyVud28) | [Ondatrópica](https://open.spotify.com/artist/00E0xvoM67oRJk8a5iTyEh) | [Ondatrópica](https://open.spotify.com/album/5OfBaqQtoYQc3i0LgKVAEC) | 4:33 | 2023-07-10 |  |
 | [Tiku La Hina](https://open.spotify.com/track/4zfSgk8S1mq8klntilxm1k) | [Samito](https://open.spotify.com/artist/2LwqwmIDSWwNV1lDjqKqCN) | [Tiku La Hina](https://open.spotify.com/album/7uFTZvSJt4bZeoGZxNSyYe) | 4:02 | 2023-07-10 |  |
 | [Till Then](https://open.spotify.com/track/56o2Y7yCupDH4uqn4vayMc) | [The Frightnrs](https://open.spotify.com/artist/0wwBxT2qVH327KlBJbwMEP) | [Nothing More to Say](https://open.spotify.com/album/5oGtxusqxowETVnVokdqME) | 3:21 | 2023-07-10 |  |
@@ -360,6 +362,7 @@
 | [W Boru Kalinka](https://open.spotify.com/track/1qW9yHYYXwPXCw58qjLqJN) | [Warsaw Village Band](https://open.spotify.com/artist/2TQwsunAFHqQuIGG4kegie) | [Wykorzenienie](https://open.spotify.com/album/1NGak9Mv3q20g05HXik7fq) | 3:29 | 2023-07-10 |  |
 | [Wah Fu Dance \(feat\. Angelique Kidjo\)](https://open.spotify.com/track/4owkTdzI6xtBFRbnZQWFiK) | [Calypso Rose](https://open.spotify.com/artist/56QlZ0AFfkaaHyANLVkg5h), [Angelique Kidjo](https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M) | [So Calypso !](https://open.spotify.com/album/0Cr6LMHp2MfIaAB9wcsbzX) | 4:09 | 2023-07-10 |  |
 | [Wake Up](https://open.spotify.com/track/6rRX2qkhHxoxwJE0mgbafw) | [Äl Jawala](https://open.spotify.com/artist/4bTTaQVaf03641We5lnIRI) | [Hypnophonic](https://open.spotify.com/album/2rwi8vVy77g6ixrdTS3o8O) | 3:04 | 2023-07-10 |  |
+| [Wires](https://open.spotify.com/track/51VWrOnuL89xwoazeOZyXd) | [Owiny Sigoma Band](https://open.spotify.com/artist/1C5MZsDbfzAMgDg0mOxCdY) | [Owiny Sigoma Band](https://open.spotify.com/album/0G1c2cJe2ELtarbBoTUd4B) | 4:33 | 2023-07-10 |  |
 | [World A Music](https://open.spotify.com/track/2SE11vmjbi7j5QKJ885ib6) | [Ini Kamoze](https://open.spotify.com/artist/1VJspRsoC6c0bvqhnSiFCs) | [Ini Kamoze](https://open.spotify.com/album/4LAY1FlsUIxoYTcDDgwLta) | 5:45 | 2023-07-10 |  |
 | [Yale](https://open.spotify.com/track/00VHqKIeXGsZjoVLzanwlx) | [Penya](https://open.spotify.com/artist/33E3A9UvKfjQno9m6S5xwU), [Msafiri Zawose](https://open.spotify.com/artist/11ouELfzx4OsUjTQNlOa8w) | [Yale](https://open.spotify.com/album/69aWtxaNpf4Tm2sCsGB4Qi) | 4:30 | 2023-07-10 |  |
 | [Yere faga](https://open.spotify.com/track/2TdpGmTV28dk9XPJhHq1h1) | [Oumou Sangaré](https://open.spotify.com/artist/65CKKZilbcSKkAPC9a5Mvh), [Tony Allen](https://open.spotify.com/artist/3K3ejId7RvY9qZcn7fs8p0) | [Mogoya](https://open.spotify.com/album/43euCDOikmefRS29Y55pLX) | 5:11 | 2023-07-10 |  |

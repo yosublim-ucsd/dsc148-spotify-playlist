@@ -4,7 +4,7 @@
 
 > Music from the ether to focus and study to.
 
-251 songs - 13 hr 6 min
+252 songs - 13 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,6 +38,7 @@
 | [city limits](https://open.spotify.com/track/65VQ9IRzhXz2siw9H2okBF) | [Josef Briem](https://open.spotify.com/artist/4WPCpYGEKs5yshn2wETIDB) | [city limits](https://open.spotify.com/album/7H4edaVn1YUAZHyuhvAjP7) | 3:03 | 2022-12-02 |  |
 | [Clandestine](https://open.spotify.com/track/5sGxDzINFxlLXnj6zpDsQZ) | [obelebo](https://open.spotify.com/artist/0qsb0PqyATXSQMdaUAxIAZ) | [Clandestine](https://open.spotify.com/album/4SArWhZxLUXZ1bGxoPfz4k) | 2:20 | 2023-04-06 |  |
 | [Closer \- Guitar Version](https://open.spotify.com/track/2pYhZxuukmLVFWl60oUoMl) | [Francesco Siano](https://open.spotify.com/artist/1zvky5OoBfFdl75mLioOw5) | [Closer](https://open.spotify.com/album/19IVvjmtTA1K9U0i3aMkoa) | 2:18 | 2023-03-03 |  |
+| [Cloud Conversations](https://open.spotify.com/track/1tHpPWBx5XzXz5LuT2pewC) | [Sounds of Ellinia](https://open.spotify.com/artist/0o4rbXNv8YoDHK2nSnlJxr) | [Cloud Conversations](https://open.spotify.com/album/3EBloB6rFTKshmepIRENZC) | 2:05 | 2023-10-20 |  |
 | [Cocao](https://open.spotify.com/track/61D1IYM5aOGg1XS6pVNQQx) | [Venti](https://open.spotify.com/artist/1g1rRWEsI2Wy2xVALwaeaL) | [Cocao](https://open.spotify.com/album/33xzZgkDcDw9IsET9d4co9) | 2:44 | 2022-12-19 | 2023-07-18 |
 | [Color](https://open.spotify.com/track/6n9iLk8H2DmAm7FOXxEanZ) | [Echoparks](https://open.spotify.com/artist/0vzMle1blMhmCOyAUhLJhF) | [Color](https://open.spotify.com/album/1fribFnHnifTybR7IZAc0e) | 2:50 | 2022-12-09 |  |
 | [Copper sky](https://open.spotify.com/track/6wW9GN0XSNeX0W8Kk9fpn1) | [Lukas Strindberg](https://open.spotify.com/artist/7gomQ5jpHnma0BOkn07wxU) | [Copper sky](https://open.spotify.com/album/0JWohRAUevr8bZJVKhSNMd) | 2:32 | 2023-10-06 |  |
@@ -61,7 +62,7 @@
 | [Eternal Life](https://open.spotify.com/track/0qVl1dXbbdqb7HfjAqYjNK) | [Jonny Nash](https://open.spotify.com/artist/4VnaEWTHIwbqbDCwNPpfde) | [Point Of Entry](https://open.spotify.com/album/7aDfAxYIvKK1VSbSwhgFpe) | 4:08 | 2023-07-21 |  |
 | [ethereal nightshade](https://open.spotify.com/track/1zuGJlN7qtUUkqDwbvtaRi) | [Sleeping Lizard](https://open.spotify.com/artist/7qerdaChwh3pZG2Ce1rjD7) | [ethereal nightshade](https://open.spotify.com/album/0cUidGib6mOXgnT0YrLLGg) | 2:24 | 2022-12-19 |  |
 | [Exit](https://open.spotify.com/track/065wPKi9Ldumw5BqGSqWA0) | [ARCADIA](https://open.spotify.com/artist/2892cyfN2JOBuTQGkPl62T) | [Exit](https://open.spotify.com/album/4ecx91bGlsoXRz7P66I04O) | 2:11 | 2022-08-19 |  |
-| [Fade Away](https://open.spotify.com/track/3MwcUcy1w5aN1gMxPgSfwq) | [Astron](https://open.spotify.com/artist/6qiuwoB9ro3SX0ZjSXnr0y) | [Falling Deeply](https://open.spotify.com/album/3zbWYMOUTQ7NkicTxKmAJQ) | 4:02 | 2022-03-30 |  |
+| [Fade Away](https://open.spotify.com/track/3MwcUcy1w5aN1gMxPgSfwq) | [Astron](https://open.spotify.com/artist/6qiuwoB9ro3SX0ZjSXnr0y) | [Falling Deeply](https://open.spotify.com/album/3zbWYMOUTQ7NkicTxKmAJQ) | 4:02 | 2022-03-30 | 2023-10-20 |
 | [Fading](https://open.spotify.com/track/5ULifaHIedzoCiIkjHU5i5) | [The Go Steady](https://open.spotify.com/artist/6jLapoPif6z2m9XEJ82G4J) | [Fading](https://open.spotify.com/album/78IJVIdID5GtvM5oB8EP8g) | 2:25 | 2023-05-19 |  |
 | [Faint Light](https://open.spotify.com/track/42nScCyHCBqR9HrEjM1iSZ) | [Ben Tofft](https://open.spotify.com/artist/5A2sXpZZ3Es4AgRGrJACy9) | [Faint Light](https://open.spotify.com/album/5Zc0qHjjZf0Vfuc6DqyDvu) | 2:15 | 2023-02-09 |  |
 | [Falling Rivers](https://open.spotify.com/track/1Tx1CeHCaOHPvYD25thsRq) | [Yolta](https://open.spotify.com/artist/1FcdysxmyKBfSOyVppN3sw) | [Falling Rivers](https://open.spotify.com/album/6UbSWl0n82pfw3J5TlUI63) | 3:38 | 2022-03-30 |  |

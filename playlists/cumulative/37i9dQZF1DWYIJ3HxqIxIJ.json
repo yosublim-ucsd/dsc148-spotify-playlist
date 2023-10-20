@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "Teen Jesus and the Jean Teasers are our new RADAR artist to watch!",
+  "description": "Vv Pete is our new RADAR artist to watch!",
   "name": "RADAR AU & NZ",
   "tracks": [
     {
@@ -1754,7 +1754,7 @@
       ],
       "date_added": "2023-03-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-20",
       "duration_ms": 182731,
       "name": "heart attack",
       "url": "https://open.spotify.com/track/4K3A14MMct4xoScHJK8oux"
@@ -2331,6 +2331,24 @@
     },
     {
       "album": {
+        "name": "Leave In The Morning",
+        "url": "https://open.spotify.com/album/1gRQl5tQu5KTWyvs3zdd2p"
+      },
+      "artists": [
+        {
+          "name": "Will Swinton",
+          "url": "https://open.spotify.com/artist/1fUcXY3KcnNvCP2dnF7XCh"
+        }
+      ],
+      "date_added": "2023-10-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168751,
+      "name": "Leave In The Morning",
+      "url": "https://open.spotify.com/track/2NV0xEWJNdaMzdP94pksrl"
+    },
+    {
+      "album": {
         "name": "Leave It All Behind",
         "url": "https://open.spotify.com/album/7sDIYblX51PE0P5Dd2P4wh"
       },
@@ -2498,6 +2516,24 @@
       "duration_ms": 143907,
       "name": "Magic (feat. BARKAA & MADAM3EMPRESS) - Remix",
       "url": "https://open.spotify.com/track/4TRmv5FVCK9kr5khEsdfIH"
+    },
+    {
+      "album": {
+        "name": "Mamas Car",
+        "url": "https://open.spotify.com/album/5jSswkACL8ldBkgeuWKG4o"
+      },
+      "artists": [
+        {
+          "name": "Vv Pete",
+          "url": "https://open.spotify.com/artist/66IkoRt5JAg88LCnPuyxXr"
+        }
+      ],
+      "date_added": "2023-10-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136734,
+      "name": "Mamas Car",
+      "url": "https://open.spotify.com/track/51JtGJtPkfPz4qLHFIwC4j"
     },
     {
       "album": {
@@ -3082,6 +3118,24 @@
       "duration_ms": 167503,
       "name": "Onto Me (with UMI)",
       "url": "https://open.spotify.com/track/4wyVzw1oscgehM9aOoIlJT"
+    },
+    {
+      "album": {
+        "name": "OUR PEOPLE (feat. The Presets)",
+        "url": "https://open.spotify.com/album/4zVoQrcFwZgHVQPXJe9pKY"
+      },
+      "artists": [
+        {
+          "name": "3%",
+          "url": "https://open.spotify.com/artist/4CnzGjdsHYGHgmsDk1tNwg"
+        }
+      ],
+      "date_added": "2023-10-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234846,
+      "name": "OUR PEOPLE (feat. The Presets)",
+      "url": "https://open.spotify.com/track/0mmLOdN3lD9zfvW91SNsrG"
     },
     {
       "album": {
@@ -4638,7 +4692,7 @@
       ],
       "date_added": "2023-08-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-20",
       "duration_ms": 164800,
       "name": "Wasted You",
       "url": "https://open.spotify.com/track/4cxEhWVeCI5Y37vNjCVIlx"

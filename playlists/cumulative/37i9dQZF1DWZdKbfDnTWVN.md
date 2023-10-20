@@ -4,7 +4,7 @@
 
 > The best of bars, beats & rhymes from the 254\. Cover: <a href="https://open.spotify.com/artist/10jefIr7Jj7c0dDJEqRcWK?si=pdat4ZEbS9GP1JuDOOI\_TQ"> Wakadinali </a>
 
-161 songs - 8 hr 17 min
+162 songs - 8 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -86,7 +86,7 @@
 | [Mazza](https://open.spotify.com/track/1kAL4G6ScoiGFB1YWRKtj7) | [Big yasa](https://open.spotify.com/artist/4irem3YwBjOoB8CoYIPwRc), [Kombat](https://open.spotify.com/artist/3lWesKnd7TQsvcI6MpHB6o) | [Mazza](https://open.spotify.com/album/5xk0cKFFkH0cZtSnufyU6a) | 2:54 | 2022-03-17 | 2023-01-20 |
 | [Mbona?](https://open.spotify.com/track/5hJ9UhvS0IFU2docn62NAq) | [Khaligraph Jones](https://open.spotify.com/artist/1xxXRVpuEm3X3p1QEm61Az) | [Mbona?](https://open.spotify.com/album/4VCwHlYHoyBL86bpXbORGh) | 3:53 | 2022-06-23 | 2023-09-22 |
 | [Mbuzi](https://open.spotify.com/track/0kPY62PUCJR2sbT0JTmKT1) | [Boeyylee](https://open.spotify.com/artist/4qMKT1IgMKpk9fnv6FYXLN), [Drop Boy](https://open.spotify.com/artist/2VhB8HqjzPSe2pxNPBrGpJ) | [Mbuzi](https://open.spotify.com/album/4cRYF3YJufPwImOnX0lhSI) | 1:16 | 2023-06-08 | 2023-09-08 |
-| [Mc Mca](https://open.spotify.com/track/0wAgvKKxVwqJghZtNOa4GY) | [Wakadinali](https://open.spotify.com/artist/10jefIr7Jj7c0dDJEqRcWK) | [Mc Mca](https://open.spotify.com/album/22YRItlDL5DWrGBWRwfiq4) | 3:58 | 2022-10-21 |  |
+| [Mc Mca](https://open.spotify.com/track/0wAgvKKxVwqJghZtNOa4GY) | [Wakadinali](https://open.spotify.com/artist/10jefIr7Jj7c0dDJEqRcWK) | [Mc Mca](https://open.spotify.com/album/22YRItlDL5DWrGBWRwfiq4) | 3:58 | 2022-10-21 | 2023-10-20 |
 | [Minimal Pressure](https://open.spotify.com/track/0CPf4M3kS1dVAGkLgtXPwR) | [Khaligraph Jones](https://open.spotify.com/artist/1xxXRVpuEm3X3p1QEm61Az) | [Minimal Pressure](https://open.spotify.com/album/2TfvT358xh2LsMPHZHbqeI) | 4:27 | 2023-07-27 |  |
 | [MOTOWN](https://open.spotify.com/track/1Eo01Bnj04mLVrBpwpCWaQ) | [KayCyy](https://open.spotify.com/artist/7gmVTgaiN0gpDJKvTHPTRL), [BabyTron](https://open.spotify.com/artist/0sKsReKseslDlhxmbN6wLk) | [MOTOWN \(feat\. BabyTron\)](https://open.spotify.com/album/5xcoC6VNSy4dfNIYGPMJQm) | 2:44 | 2023-01-26 | 2023-08-18 |
 | [Mukta](https://open.spotify.com/track/0oN4a2IN6iaUT3onIIuBYI) | [£g0](https://open.spotify.com/artist/3VfGT695sBZZvATskxjdr0), [LB \(EL PRESIDENTE\)](https://open.spotify.com/artist/19tmkCNT4ZOGkI4cLgSxO3) | [Mukta](https://open.spotify.com/album/71d0dEnWw8vBQ2Ka3MQtKG) | 2:14 | 2022-09-08 | 2023-05-19 |
@@ -106,6 +106,7 @@
 | [PREE](https://open.spotify.com/track/0voJpkHOyEcHiTmCS6rFEB) | [BURUKLYN BOYZ](https://open.spotify.com/artist/4iXOuQsJ5qOOC7HgOIXLFU), [AJAY](https://open.spotify.com/artist/0aSARVYhhKFQov5I8xfCY0), [Mr right](https://open.spotify.com/artist/5FafI7t7Msq7cTLo1qyjHG) | [PREE](https://open.spotify.com/album/6dNMrRjXb7bSU6uI2jRVX0) | 3:17 | 2022-04-14 | 2022-10-30 |
 | [Pressure \(Katapilla\)](https://open.spotify.com/track/1HGPxrDdZHXB4z9GENYCvf) | [Wakadinali](https://open.spotify.com/artist/10jefIr7Jj7c0dDJEqRcWK), [Hassano](https://open.spotify.com/artist/4TaQA9Ox6lpkFSNBBusjMK), [Sewersydaa Mkadinali](https://open.spotify.com/artist/1bnUCI6azdvq1No1dAhFRt) | [ME AGAINST ME](https://open.spotify.com/album/6HSLcwG1l4DDNp8cfsDLdv) | 3:16 | 2023-09-21 |  |
 | [Pretty Overload](https://open.spotify.com/track/6a2WQeQHhW1xUiIjskV672) | [Bey T](https://open.spotify.com/artist/5fGp7NJKHwbRlvQvDudkxk) | [Pretty Overload](https://open.spotify.com/album/2b03wQZzmqqtIcguqZfgqR) | 2:37 | 2022-08-18 |  |
+| [Put On](https://open.spotify.com/track/6Ia18AqCQfxwpjZeRFgiRW) | [Timmy Blanco](https://open.spotify.com/artist/1Vn2QDLkrVV4M1Y85dePup), [Bout Paper Boyz](https://open.spotify.com/artist/2EXPwSRAffYH1zNCalvcaB) | [Put On](https://open.spotify.com/album/2kFKZPI547giFHReFIQ0c8) | 2:31 | 2023-10-19 |  |
 | [Queens Speech](https://open.spotify.com/track/39KWRJHeOCPrxjZtat72zD) | [FEMI ONE](https://open.spotify.com/artist/1Kg4nxeTD9wP3082jp1nkH), [Shanty Bobo](https://open.spotify.com/artist/5DHVUoC4CvknkFAOkyJ88N) | [Dem Kutoka Mwiki](https://open.spotify.com/album/1JD29V2kKZBTOebnyqXgOc) | 3:26 | 2023-04-27 |  |
 | [Quill2thmfwrld](https://open.spotify.com/track/7snV7SDZmfCjS9Sm099RRG) | [Jakk Quill](https://open.spotify.com/artist/6QqOXzlH2dcYNAHeGgZcLm) | [SEARCHING FOR UTOPIA](https://open.spotify.com/album/7IbrgLFXo4lzo7UvK4xqZe) | 5:19 | 2023-08-04 |  |
 | [ROLL THE DICE \(Prod\. Gesaffelstein\)](https://open.spotify.com/track/7CAg4N1S926AymvuLjnJcy) | [KayCyy](https://open.spotify.com/artist/7gmVTgaiN0gpDJKvTHPTRL), [Gesaffelstein](https://open.spotify.com/artist/3hteYQFiMFbJY7wS0xDymP) | [ROLL THE DICE \(Prod\. Gesaffelstein\)](https://open.spotify.com/album/6P4c5OMZZQZVJLQJrYgjbd) | 2:44 | 2023-05-11 |  |

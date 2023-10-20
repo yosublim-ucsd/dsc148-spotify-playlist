@@ -4,7 +4,7 @@
 
 > Emo feels for the misunderstood\. Cover: Chri$tian Gate$
 
-878 songs - 1 day 15 hr 52 min
+879 songs - 1 day 15 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -465,7 +465,8 @@
 | [make up](https://open.spotify.com/track/1uxDHAH3cPPg5tmzcoDAIH) | [POORSTACY](https://open.spotify.com/artist/7vSY9HEreOqb1Llar3UC38) | [i don't care](https://open.spotify.com/album/7ph3WyvTKFpN2bcO3dfNAa) | 2:01 | 2021-01-15 | 2021-03-14 |
 | [Makima!](https://open.spotify.com/track/0sEOonCcFO8GrbcZN8SKpg) | [Overpade](https://open.spotify.com/artist/03hSZAtyBlgYcfb02Nhh6q) | [Makima!](https://open.spotify.com/album/7o6DSLMlxs4UQsQmpmOMTL) | 2:57 | 2022-02-01 | 2022-03-02 |
 | [MANGATA](https://open.spotify.com/track/7oIhEGTNmKKnfWBkGGbNjJ) | [KIETH MONTANA](https://open.spotify.com/artist/1NNE8Lje4IbJY5MK0t4ys7) | [MANGATA](https://open.spotify.com/album/5yHBECuJ9TSDkLnzsMsDeY) | 1:55 | 2023-09-01 |  |
-| [MANIC MAN](https://open.spotify.com/track/26rijl9dFrPmT2mIB7BAE2) | [DIRTYXAN](https://open.spotify.com/artist/5BEGUGWpPDPKXCgqubqnLB) | [MANIC MAN](https://open.spotify.com/album/5TdSvS3gTjsrqWcMneRQuI) | 2:46 | 2023-09-01 |  |
+| [MANIC MAN](https://open.spotify.com/track/0YJDzkmiyRQbgzlV4fo02m) | [DIRTYXAN](https://open.spotify.com/artist/5BEGUGWpPDPKXCgqubqnLB) | [MANIC MAN](https://open.spotify.com/album/0jqwLKjpjN4ikAbIi7bAHT) | 2:46 | 2023-09-01 |  |
+| [MANIC MAN](https://open.spotify.com/track/26rijl9dFrPmT2mIB7BAE2) | [DIRTYXAN](https://open.spotify.com/artist/5BEGUGWpPDPKXCgqubqnLB) | [MANIC MAN](https://open.spotify.com/album/5TdSvS3gTjsrqWcMneRQuI) | 2:46 | 2023-09-01 | 2023-10-20 |
 | [MANSION](https://open.spotify.com/track/4NXF1TfkD1uKMgftFylsNJ) | [Lucus](https://open.spotify.com/artist/5ESTmhLb7NwtF2qKDv434t), [YSB Tril](https://open.spotify.com/artist/79TnwjflPC7KqP9O4pXpDQ) | [MANSION](https://open.spotify.com/album/3E7T1yqLPJOrQQtwVxi0Y6) | 1:58 | 2021-05-29 | 2022-04-18 |
 | [Materialism as a Means to an End](https://open.spotify.com/track/4t2dQ3OQaAJQn52BNszPnY) | [$uicideboy$](https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0) | [Materialism as a Means to an End](https://open.spotify.com/album/2wg5abR3D5AFa0Ls7b0hok) | 2:46 | 2021-07-17 | 2022-01-13 |
 | [Matte Black](https://open.spotify.com/track/0hPRWztAIbNkt6GcFcLiqF) | [$uicideboy$](https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0) | [Sing Me a Lullaby, My Sweet Temptation](https://open.spotify.com/album/3elJRIffdqvypuxoDND2Q3) | 3:58 | 2022-08-01 | 2023-01-28 |

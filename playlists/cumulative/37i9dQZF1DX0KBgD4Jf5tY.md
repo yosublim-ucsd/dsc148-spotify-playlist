@@ -4,7 +4,7 @@
 
 > Solo musica italiana indipendente, aggiornata ogni mercoledì\. Cover: <a href="spotify:artist:2SU1nwN4pyNj6cSVoOzcsc">Gheba</a>
 
-942 songs - 1 day 22 hr 51 min
+943 songs - 1 day 22 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -361,6 +361,7 @@
 | [Hard Tarantella](https://open.spotify.com/track/0XStJCyj4Q8eNtuyFcoifu) | [NZIRIAA](https://open.spotify.com/artist/708GD7wt7fEo1CrRTCfdld) | [XXYBRID](https://open.spotify.com/album/2uKd4O9RA1lWwetOeQZ31J) | 5:05 | 2022-11-30 | 2023-01-06 |
 | [Harem](https://open.spotify.com/track/56DscQnCfTx3Mrzg0ilNYc) | [CARUCCIO](https://open.spotify.com/artist/7iEdkkrillq0ZTKEg0rADQ) | [Harem](https://open.spotify.com/album/2s69BagRedQ4zcbebXoP9s) | 2:58 | 2022-01-06 | 2022-02-18 |
 | [Haribo](https://open.spotify.com/track/1qkOYFTHPLOstClyd32y00) | [leoluca](https://open.spotify.com/artist/6uoBNsycy2K9rz6rxUE20h), [Kevin Miho](https://open.spotify.com/artist/46dCrgmscLcaEhlrEc8NiN) | [Haribo](https://open.spotify.com/album/2T1Q4Zy9Fl8USurTKfV3lk) | 2:32 | 2023-05-24 | 2023-06-15 |
+| [Hey Mon Amour](https://open.spotify.com/track/2gcVYbtY4GPLvnAzitTvee) | [Macadamia](https://open.spotify.com/artist/4ctoRm4PSfS4v7YdoHgIen) | [Limine](https://open.spotify.com/album/1p1CplengpaQU0lsmzOBaB) | 3:13 | 2023-10-18 |  |
 | [Highs and Lows](https://open.spotify.com/track/0PcnJsn1uvofOmM4U2rtBm) | [fenoaltea](https://open.spotify.com/artist/3bxcQZiTtcX1GtUljswo2L) | [Highs and Lows](https://open.spotify.com/album/4ZQooS9fZGzdDnjzf717vh) | 2:45 | 2023-06-07 | 2023-07-13 |
 | [Ho perso il conto](https://open.spotify.com/track/1LEeORXqVV1mrikm04YVyu) | [Bidi Blanca](https://open.spotify.com/artist/22sXLj1jMFiKtpValJKQ4Y) | [GENESI](https://open.spotify.com/album/56X9IjteFWhd17bAUkzxYw) | 3:19 | 2022-04-08 | 2022-06-17 |
 | [ho sentito il tuo cuore](https://open.spotify.com/track/4TdtIFAJvvn7Hrg1DHkier) | [ciliegia suicidio](https://open.spotify.com/artist/4SEMUz1c0Z8kEc9E9NbnS3) | [i mostri col cazzo che si nascondono sotto alle lenzuola](https://open.spotify.com/album/7LCf7e9ejfOnOqAE7oFSvJ) | 2:11 | 2023-03-02 | 2023-04-05 |

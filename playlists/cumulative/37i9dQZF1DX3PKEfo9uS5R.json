@@ -34,7 +34,7 @@
       ],
       "date_added": "2022-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-20",
       "duration_ms": 176616,
       "name": "Affection",
       "url": "https://open.spotify.com/track/0HiEXZOONGJt3IFmdD3Gjd"
@@ -3042,6 +3042,24 @@
       "duration_ms": 244544,
       "name": "Sunflower",
       "url": "https://open.spotify.com/track/4mITph3qsu0WI4wfSCaNgl"
+    },
+    {
+      "album": {
+        "name": "Sunset Bliss",
+        "url": "https://open.spotify.com/album/20OYVxQ5rrVMiGaRb2CvWI"
+      },
+      "artists": [
+        {
+          "name": "Leon FM",
+          "url": "https://open.spotify.com/artist/4Yc8THLLISQc6PwYxM1yu1"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141333,
+      "name": "Sunset Bliss",
+      "url": "https://open.spotify.com/track/3PuyKuyF1LrKVpyAzPxWVU"
     },
     {
       "album": {

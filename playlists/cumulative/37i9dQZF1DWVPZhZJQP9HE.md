@@ -4,7 +4,7 @@
 
 > Tune into the finest of Tamil Indie music!<br/>Cover : Ashwin Vinayagamoorthy
 
-449 songs - 1 day 2 hr 42 min
+450 songs - 1 day 2 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -217,6 +217,7 @@
 | [Madhubala \- Tamil](https://open.spotify.com/track/5WNXPdJZ1Pp0rp7T9GJM9g) | [Vijai Bulganin](https://open.spotify.com/artist/6umn0ODoYa5UsGpswA99gx), [Adithya RK](https://open.spotify.com/artist/2AQwMDyDvgpZcHLITOpgpm) | [Madhubala \(Tamil\)](https://open.spotify.com/album/6TYjxDUedDYXzChCyQVQCd) | 4:52 | 2022-11-17 | 2023-03-09 |
 | [Maiyal](https://open.spotify.com/track/5CDoT9DeBTgLbJP9h7cNNn) | [K L Revanth](https://open.spotify.com/artist/3FGLO2665aCenkZD9vF1eB), [Varshini Shankar](https://open.spotify.com/artist/0ckwDyqphwaCPqdYubBF02) | [Maiyal](https://open.spotify.com/album/1O8xGmpRfJs3VAppThcJcE) | 3:44 | 2023-02-24 |  |
 | [Malar](https://open.spotify.com/track/23oT1fb1GhQD0kSeLpVtHv) | [Ashwin Aryan](https://open.spotify.com/artist/7w7JsEht5xieUuMnFgLNZ1) | [Malar](https://open.spotify.com/album/05IECVozPGpijuQFN2a9wI) | 3:35 | 2022-10-14 | 2022-11-15 |
+| [Malar Katre](https://open.spotify.com/track/3fLQTJuhgOzBQ7wzjtGck0) | [Nivas](https://open.spotify.com/artist/4xhaMczwBV4FBeTAxr6I7O) | [Malar Katre](https://open.spotify.com/album/1sSNRMiIgxSfR44HiHTWFz) | 3:15 | 2023-10-19 |  |
 | [Malarum Vazhvey](https://open.spotify.com/track/1CFga4SrXszXXs7B6Oum4v) | [Sanathan Shree Krishnan](https://open.spotify.com/artist/0FkY0miVokq6NnCKVg2Gko) | [Malarum Vazhvey](https://open.spotify.com/album/3tqlZLdtK0XIdCYhoMfHtw) | 2:54 | 2023-03-16 | 2023-03-23 |
 | [Manadhin Oru Paadhi](https://open.spotify.com/track/6hSH5IxsxMEJXCI7TrBx1g) | [Sanathan Shree Krishnan](https://open.spotify.com/artist/0FkY0miVokq6NnCKVg2Gko) | [Manadhin Oru Paadhi](https://open.spotify.com/album/3UadsOOLsAcCKDMQkUcejb) | 3:08 | 2022-08-11 | 2023-02-07 |
 | [Manadhooram](https://open.spotify.com/track/6Zcz4HJ0b6f3t1iDaA3Erg) | [Prakash Alex](https://open.spotify.com/artist/5SWR0sXeoxKCuU987oQTUz), [Anish Kunjumon](https://open.spotify.com/artist/3Ecof7p2OzxEKLzBSc23cr) | [Manadhooram](https://open.spotify.com/album/2aH0VNj51zVHzk9hWk83Ap) | 2:41 | 2023-01-18 |  |

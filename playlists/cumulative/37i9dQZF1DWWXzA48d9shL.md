@@ -4,7 +4,7 @@
 
 > Rap from hell\. Cover: City Morgue
 
-515 songs - 20 hr 19 min
+517 songs - 20 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -224,7 +224,8 @@
 | [HOBGOBLIN](https://open.spotify.com/track/7I7sdHRJhSqQnwPPZbrsmv) | [Witchouse 40k](https://open.spotify.com/artist/7chdPv6Kx0frN0lKfppD2J) | [HOBGOBLIN](https://open.spotify.com/album/3BlOHRQuFEG7sOUQtT6EBp) | 3:26 | 2022-04-22 | 2022-11-26 |
 | [Hoes On Cam!](https://open.spotify.com/track/6OVmhnl12KY9H349iBtGfU) | [DeeKay](https://open.spotify.com/artist/1XoVa4Iq4JIdtSOeRsTRsi), [Sadfriendd](https://open.spotify.com/artist/4UT0p3ljEiD472lZp44KLH) | [Hoes On Cam!](https://open.spotify.com/album/1T3pJzyw9tbH1P2r7dfmNx) | 2:36 | 2022-06-24 | 2023-01-07 |
 | [HOLD THE FUCK UP](https://open.spotify.com/track/4aDexnR78Q3l5Hxd0RSRN0) | [Ghostface Playa](https://open.spotify.com/artist/5xegBBY3vjR75woVR9kiy7), [fkbambam](https://open.spotify.com/artist/1BZ5smaHoDSI2a61ErUch6) | [HOLD THE FUCK UP](https://open.spotify.com/album/0QAtShS2XU7NrVp4P2YahL) | 2:14 | 2021-09-17 | 2022-07-27 |
-| [HOLD THE MONEY](https://open.spotify.com/track/0IDnmk7esQTYWVbErDdJ7V) | [DIRTYXAN](https://open.spotify.com/artist/5BEGUGWpPDPKXCgqubqnLB) | [HOLD THE MONEY](https://open.spotify.com/album/6tuhCrlbC6l80USBMAWhJO) | 2:01 | 2023-06-30 |  |
+| [HOLD THE MONEY](https://open.spotify.com/track/0IDnmk7esQTYWVbErDdJ7V) | [DIRTYXAN](https://open.spotify.com/artist/5BEGUGWpPDPKXCgqubqnLB) | [HOLD THE MONEY](https://open.spotify.com/album/6tuhCrlbC6l80USBMAWhJO) | 2:01 | 2023-06-30 | 2023-10-20 |
+| [HOLD THE MONEY](https://open.spotify.com/track/7GIQoV4S6xkko6fNzokflj) | [DIRTYXAN](https://open.spotify.com/artist/5BEGUGWpPDPKXCgqubqnLB) | [MANIC MAN](https://open.spotify.com/album/0jqwLKjpjN4ikAbIi7bAHT) | 2:01 | 2023-06-30 |  |
 | [HONOR](https://open.spotify.com/track/1mX5x3uvqvlVcWW5P3C0C0) | [LITTLE 4N](https://open.spotify.com/artist/66sdClSxeLEamPlKTQcrbd) | [HONOR](https://open.spotify.com/album/6qmbOXtvvUE5UJvwLFwOpH) | 2:51 | 2023-08-29 |  |
 | [HORRID](https://open.spotify.com/track/5mIgOjCK6dDZyD0s54ZtSe) | [SHUSH](https://open.spotify.com/artist/17qcgleNjGWZoAqUM0MQHs), [Numb$kull](https://open.spotify.com/artist/7wQoo6BKPCAnSZRgE3qjp2) | [HORRID](https://open.spotify.com/album/4MiHu92qJP8J5qkIYOyeCV) | 2:15 | 2023-01-27 | 2023-05-06 |
 | [HOT DEMON B!TCHES NEAR U ! ! !](https://open.spotify.com/track/7v4pPS4A7NgY7bxFA3Etv3) | [CORPSE](https://open.spotify.com/artist/7yntSJ6uojO3z6GFUVwhAW), [Night Lovell](https://open.spotify.com/artist/2y246nnP9pQT0E6v3ZMMOO) | [HOT DEMON B!TCHES NEAR U ! ! !](https://open.spotify.com/album/5kcBHP5GH7fsOJLwVfXmx3) | 1:36 | 2021-09-17 |  |
@@ -326,7 +327,8 @@
 | [MORPHINE](https://open.spotify.com/track/4WoXUdjKIErU4dQCx6PADX) | [TWENTYTHREE](https://open.spotify.com/artist/1J6ppTy8BI7nS6bPjuobHL), [outsiderX](https://open.spotify.com/artist/6aAXv7UhOHDhgDB7fnhhOQ) | [MORPHINE](https://open.spotify.com/album/0q3a5tfHbVM0PRq3fgEr0q) | 2:04 | 2022-12-09 | 2023-02-04 |
 | [MOTHER OF ALL BOMBS](https://open.spotify.com/track/7GNJgPso8Kq6tG5teg30Lb) | [DeadBeatVillain](https://open.spotify.com/artist/3eX60TRDUfjgEIWi07J1nf), [BenDreary](https://open.spotify.com/artist/5oCKZYQ5cyDmzQtm1md0xc) | [MOTHER OF ALL BOMBS](https://open.spotify.com/album/0hXBZoYXmc1T9e1Ijh3gsq) | 1:34 | 2023-04-14 | 2023-07-01 |
 | [Mr\. Make Her Dance](https://open.spotify.com/track/4DtVUDgdAyUynlbZPrbj24) | [Night Lovell](https://open.spotify.com/artist/2y246nnP9pQT0E6v3ZMMOO) | [Mr\. Make Her Dance](https://open.spotify.com/album/2bFOfBfOwE10X9B6CPyQmO) | 2:35 | 2022-04-15 | 2023-03-25 |
-| [MUDD](https://open.spotify.com/track/0MEMJNYVMS7TBNgFzV1aVN) | [$werve](https://open.spotify.com/artist/60vF1fLR6yzLxCQUlnAYYj), [Grioten](https://open.spotify.com/artist/2UM0Qcw48WXGm5kN5hgpqt), [Day$okee](https://open.spotify.com/artist/6aLKPuO7rSHfgRhDkYzfJF) | [MUDD](https://open.spotify.com/album/2WwhmvIhoJ5FVzDPc2NuVH) | 2:21 | 2022-09-02 |  |
+| [MUDD](https://open.spotify.com/track/0MEMJNYVMS7TBNgFzV1aVN) | [$werve](https://open.spotify.com/artist/60vF1fLR6yzLxCQUlnAYYj), [Grioten](https://open.spotify.com/artist/2UM0Qcw48WXGm5kN5hgpqt), [Day$okee](https://open.spotify.com/artist/6aLKPuO7rSHfgRhDkYzfJF) | [MUDD](https://open.spotify.com/album/2WwhmvIhoJ5FVzDPc2NuVH) | 2:21 | 2022-09-02 | 2023-10-20 |
+| [MUDD](https://open.spotify.com/track/5atfVRV16HQZTF8S6IuNWN) | [$werve](https://open.spotify.com/artist/60vF1fLR6yzLxCQUlnAYYj), [Grioten](https://open.spotify.com/artist/2UM0Qcw48WXGm5kN5hgpqt), [Day$okee](https://open.spotify.com/artist/6aLKPuO7rSHfgRhDkYzfJF) | [MUDD](https://open.spotify.com/album/1E4SvucOCxgyUiH5hU6BTH) | 2:21 | 2022-09-02 |  |
 | [Mundane](https://open.spotify.com/track/5JgqBNZilPgZLfOKlG939s) | [South Strip](https://open.spotify.com/artist/13ut2kfXGzhHlghB66wAZ8) | [Mundane](https://open.spotify.com/album/3FcW66sYKdwQF3QyiLj9aC) | 3:00 | 2023-02-13 | 2023-05-06 |
 | [MY DAY IS RUINED !](https://open.spotify.com/track/7kxSAje77rPVfZZlWCqtGH) | [Night Lovell](https://open.spotify.com/artist/2y246nnP9pQT0E6v3ZMMOO) | [MY DAY IS RUINED !](https://open.spotify.com/album/0S2I5ehn7kCisujdvyYImy) | 2:13 | 2023-10-16 |  |
 | [My Swisher Sweet, But My Sig Sauer](https://open.spotify.com/track/4QlbH3QGLr13WeLUywH9DA) | [$uicideboy$](https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0), [Germ](https://open.spotify.com/artist/4OYIkXBBN6ET96coWyWAXh) | [My Swisher Sweet, But My Sig Sauer](https://open.spotify.com/album/48J35hJTQeahYPNJ7t4Q0B) | 3:46 | 2022-12-02 | 2023-04-15 |

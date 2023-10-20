@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaaU1AaHpZeu.md) - [plain]
 
 > Nuevos hallazgos de música indie latina\. Monsieur Periné y Bándalos Chinos en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 294,678 likes - 50 songs - 2 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 294,700 likes - 50 songs - 2 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaaU1AaHpZeu.md) - [plain]
 | 49 | [Me gustas todo el rato](https://open.spotify.com/track/4dhEkIrXa4RmKTgrlakOvG) | [Sidonie](https://open.spotify.com/artist/2pMVWkucVS130nJx59uAEa) | [Me gustas todo el rato](https://open.spotify.com/album/0trGskrROSp5ln0HTq0vHA) | 3:07 |
 | 50 | [Hablarte bien](https://open.spotify.com/track/1admULK3d8TTzvCzIq5YdY) | [Jimena Amarillo](https://open.spotify.com/artist/29cPgYFoxExwmptUrlnYmm), [Irenegarry](https://open.spotify.com/artist/5grzJI0lXUO8L4yMw6BwEB) | [Derretidas](https://open.spotify.com/album/5Yj24Szqw1qRzY164ldZgL) | 2:57 |
 
-Snapshot ID: `MCw2NjkxNjQwYTc0ZTFiNDUyZjk4YTdmNGMxMWE3OTkwZDcxN2MwMDQ0`
+Snapshot ID: `MCxkMjc3MjI2YjA0NjJjYTE3ZTkzNmIzYTE4ZGEzNDc3YjIxODYyZmMy`

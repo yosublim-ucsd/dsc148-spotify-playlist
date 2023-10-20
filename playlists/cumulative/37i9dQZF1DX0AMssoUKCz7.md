@@ -4,7 +4,7 @@
 
 > Take down the tempo but keep the dance party going with the biggest tropical house jams.
 
-652 songs - 1 day 9 hr 8 min
+653 songs - 1 day 9 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -563,6 +563,7 @@
 | [Sweetly](https://open.spotify.com/track/1XD8fIhuh6VgsLK6Uui7tj) | [Honey](https://open.spotify.com/artist/4lQERYdwY63QCoTVxt0aP9), [Summer Vibes](https://open.spotify.com/artist/2BCjzlKkYOwpNS5WZqX7Bm) | [Sweetly](https://open.spotify.com/album/0yVvja6ED0e2JUtUYas91D) | 2:36 | 2023-08-25 |  |
 | [Take My Breath Away](https://open.spotify.com/track/6Uc23VRzRJSgu3eebPvH8I) | [TWOPILOTS](https://open.spotify.com/artist/6tV2P2SciHytsSDufKr57B) | [Take My Breath Away](https://open.spotify.com/album/0tnQBT1tTVrNDx7uprIH5X) | 3:08 | 2022-12-09 |  |
 | [Take You Back](https://open.spotify.com/track/0BHWGCaAn0hr0pzWxME6sJ) | [Theodor Rosenberg](https://open.spotify.com/artist/1iwpozrddUbEbAXwVRYuof), [Vowed](https://open.spotify.com/artist/75xXmkKj5zuv8qNlqP2VIY) | [Take You Back](https://open.spotify.com/album/6W0sBpM2FwQ5TG6BbLilSQ) | 2:10 | 2022-07-15 | 2022-10-25 |
+| [Take You Back](https://open.spotify.com/track/59I4ypNRXeS5PyShBukqOs) | [Theodor Rosenberg](https://open.spotify.com/artist/1iwpozrddUbEbAXwVRYuof), [Vowed](https://open.spotify.com/artist/75xXmkKj5zuv8qNlqP2VIY) | [Take You Back](https://open.spotify.com/album/10cRyGwR9TYuxbmGrQcAzh) | 2:10 | 2023-10-16 |  |
 | [Take You Home](https://open.spotify.com/track/0ttshmKwUyuYku3oZeFTaq) | [KAJ](https://open.spotify.com/artist/1MPHxC0IFc9NFIqTSksCuj), [Koa](https://open.spotify.com/artist/4bTth1ur0qKM60o2f5kEXU) | [Take You Home](https://open.spotify.com/album/52UPYW1UBvITT13DR1yRwV) | 2:24 | 2023-07-21 |  |
 | [Talk \(feat\. Askar and the Ghosts\)](https://open.spotify.com/track/1BIeWq1iSksVIhPcTU8kEx) | [Twelve](https://open.spotify.com/artist/5WwVhFK3J7CWQn30hZ8GPb), [Askar and the Ghosts](https://open.spotify.com/artist/0SfWul3n5Wk0sKSQUJSEz5) | [Talk \(feat\. Askar and the Ghosts\)](https://open.spotify.com/album/50e4v4nOVaI1kVEP1gB1ZU) | 2:57 | 2022-04-01 | 2022-11-12 |
 | [Talk About It](https://open.spotify.com/track/1XRTXNP8eLpWXfso8Q4dC5) | [Mike Perry](https://open.spotify.com/artist/6lB8vOoI4DRrrVxXwuV19c), [Hot Shade](https://open.spotify.com/artist/3GtCKJA4SkOxN65MWjm82R) | [Talk About It](https://open.spotify.com/album/75VgBnyHLvSKfmWO3PRT11) | 2:44 | 2022-02-04 | 2022-04-21 |
@@ -617,7 +618,7 @@
 | [Wasted Youth](https://open.spotify.com/track/4bQf5CaoiYJY1PEAa6zhba) | [Myrrhe](https://open.spotify.com/artist/3SQOJGwgR1PKCa52M1W6EV), [Jethro](https://open.spotify.com/artist/15oiQRdZa4LrpfMbJ2dwzK) | [Wasted Youth](https://open.spotify.com/album/76n6X6309k6mGKEgX6aC6C) | 2:29 | 2022-07-22 | 2022-07-28 |
 | [Wave Goodbye \(feat\. Jeffrey Jey\)](https://open.spotify.com/track/115ndcAyWMabNy7WgUzP7t) | [Robin Schulz](https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S), [Henri PFR](https://open.spotify.com/artist/6n9XmMc3mX18mrTHYOCPIq), [Jeffrey Jey](https://open.spotify.com/artist/2mwT6u3QUHIlTHGzDRCnrk) | [Sugar](https://open.spotify.com/album/5XyJzEROSmup2TcWmVjTIt) | 3:15 | 2022-02-18 | 2022-04-15 |
 | [Waves](https://open.spotify.com/track/6OzvLRbIvjLPJs5lN7MeaM) | [Gabriel Morais Jr](https://open.spotify.com/artist/3jTAleOz2QG9rgNrkjcEKb), [Ayla Nova](https://open.spotify.com/artist/6AWCoA4NxV0y0FlXGhW4SQ) | [Waves](https://open.spotify.com/album/3jInq6xu9DvJHP3e7KUL8Z) | 2:31 | 2022-04-01 |  |
-| [We Are Good](https://open.spotify.com/track/5VSiXBaSNxajxU4eF4Zl5b) | [James Stefano](https://open.spotify.com/artist/38Hlo0i9xWEI6JCe28nlzf), [HeɅven](https://open.spotify.com/artist/12PufqR6w54uHrEiOkJnzU), [John Skyfield](https://open.spotify.com/artist/6G8Vv979uOK1e7ZBIX2rzp) | [We Are Good](https://open.spotify.com/album/0u9oBG4dkgrtdlawZ4QB0W) | 2:47 | 2022-07-01 |  |
+| [We Are Good](https://open.spotify.com/track/5VSiXBaSNxajxU4eF4Zl5b) | [James Stefano](https://open.spotify.com/artist/38Hlo0i9xWEI6JCe28nlzf), [HeɅven](https://open.spotify.com/artist/12PufqR6w54uHrEiOkJnzU), [John Skyfield](https://open.spotify.com/artist/6G8Vv979uOK1e7ZBIX2rzp) | [We Are Good](https://open.spotify.com/album/0u9oBG4dkgrtdlawZ4QB0W) | 2:47 | 2022-07-01 | 2023-10-20 |
 | [We Come \- Radio Edit](https://open.spotify.com/track/4yRuPrh3Zf5NFJjbC6NvKp) | [Boehm](https://open.spotify.com/artist/08p782h5VznNEQMM4wAEp9) | [We Come \(Radio Edit\)](https://open.spotify.com/album/72p0UKXpd4XMwuNB896Nee) | 3:36 | 2022-01-14 | 2022-04-20 |
 | [We Start Fires](https://open.spotify.com/track/0hsMhZA3gguNuHOcDsGmOf) | [Little Giants](https://open.spotify.com/artist/37X06XsrLg91pJf5y9kb8A) | [We Start Fires](https://open.spotify.com/album/4exjA36NpcCqgSejlIVkaL) | 3:48 | 2022-01-14 |  |
 | [We Turn The World Around](https://open.spotify.com/track/33uV0G85zoAlzHYTJyaGRl) | [Tanja La Croix](https://open.spotify.com/artist/2Zduc37bY0HSMP8bzy9JWw) | [We Turn The World Around](https://open.spotify.com/album/3hFyywIKZuimer96xaXMud) | 3:18 | 2022-01-14 | 2022-07-29 |

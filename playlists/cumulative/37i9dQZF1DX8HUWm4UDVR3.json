@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-07-29",
-  "description": "La pop fran\u00e7aise annonce la couleur. Photo : Laura",
+  "description": "La pop fran\u00e7aise annonce la couleur. Photo : ANA\u00cfS MVA",
   "name": "Couleur Pop",
   "tracks": [
     {
@@ -38,7 +38,7 @@
       ],
       "date_added": "2023-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-20",
       "duration_ms": 214586,
       "name": "4X",
       "url": "https://open.spotify.com/track/6iHOulbi3AwYe9Wgy8eCMf"
@@ -156,6 +156,24 @@
       "duration_ms": 171988,
       "name": "Amour de vacances",
       "url": "https://open.spotify.com/track/7d4L2mrGvxclgQVMmHSL1l"
+    },
+    {
+      "album": {
+        "name": "Aseptis\u00e9",
+        "url": "https://open.spotify.com/album/2qn28PdWCLjFQfydpVoNEP"
+      },
+      "artists": [
+        {
+          "name": "Superbus",
+          "url": "https://open.spotify.com/artist/3Hog7RVQ1lAv1crdfiJPLq"
+        }
+      ],
+      "date_added": "2023-10-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181447,
+      "name": "Aseptis\u00e9",
+      "url": "https://open.spotify.com/track/2W5IVgVXNf3IcqRGWv5lr0"
     },
     {
       "album": {
@@ -795,6 +813,24 @@
     },
     {
       "album": {
+        "name": "Et alors ?",
+        "url": "https://open.spotify.com/album/2UKWuWCmesuNXNsFbdbEVw"
+      },
+      "artists": [
+        {
+          "name": "Ad\u00e9",
+          "url": "https://open.spotify.com/artist/3NIFl4tsySuu3eu8Yt8c0s"
+        }
+      ],
+      "date_added": "2023-10-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223386,
+      "name": "Les silences",
+      "url": "https://open.spotify.com/track/7ohHHewIJczp32oPYHl6wv"
+    },
+    {
+      "album": {
         "name": "LIGNE D'ARRIV\u00c9E",
         "url": "https://open.spotify.com/album/7LAKsgH2czlD90MDrUXEf2"
       },
@@ -864,6 +900,24 @@
       "duration_ms": 176250,
       "name": "Ma vie",
       "url": "https://open.spotify.com/track/2DDZ4FdbuEaTlytVpVzY31"
+    },
+    {
+      "album": {
+        "name": "Regarde-moi",
+        "url": "https://open.spotify.com/album/0yHJkjaOVLRH5VZajnYHr9"
+      },
+      "artists": [
+        {
+          "name": "Pierre de Maere",
+          "url": "https://open.spotify.com/artist/13mm5rU1jvWfWG6uQ46ypd"
+        }
+      ],
+      "date_added": "2023-10-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171173,
+      "name": "Mercredi",
+      "url": "https://open.spotify.com/track/3sro7j7pDMNquQEQHKa2xR"
     },
     {
       "album": {
@@ -976,7 +1030,7 @@
       ],
       "date_added": "2023-09-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-20",
       "duration_ms": 183776,
       "name": "Oublier",
       "url": "https://open.spotify.com/track/37mcuOb6LwRA8wuZvySQ43"
@@ -1518,7 +1572,7 @@
       ],
       "date_added": "2023-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-20",
       "duration_ms": 133250,
       "name": "Vent violent",
       "url": "https://open.spotify.com/track/08B3fIzo8bmYNlGgeZMzCM"

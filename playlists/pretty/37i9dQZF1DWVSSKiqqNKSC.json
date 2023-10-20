@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Lo mejor de la Salsa Cubana! Celia Cruz en portada.",
-  "num_followers": 228513,
+  "num_followers": 228578,
   "original_name": "Salsa Cubana",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1ZTM3OWVjMmQ1NzkxMTc2ZDdjOGY4OWY4MDM0ZDk4YmNlZjk3MWEx",
+  "snapshot_id": "MCxlZThjYzI3MmQ1Mjc4YWFiNjg2OWVlOWZjMjUzYjlmNmMzZjU4OTQy",
   "tracks": [
     {
       "added_at": "2022-12-30 18:20:45",
@@ -799,26 +799,6 @@
     {
       "added_at": "2022-12-30 18:20:45",
       "album": {
-        "name": "Party Full Nasty (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/01MOvDJDnOLpU47OT2zkFw"
-      },
-      "artists": [
-        {
-          "name": "El Chacal",
-          "url": "https://open.spotify.com/artist/1xFn1xod58AGaSZjrxdiXA"
-        },
-        {
-          "name": "Yakarta",
-          "url": "https://open.spotify.com/artist/7a639C80zwLMF0NYMpMxzG"
-        }
-      ],
-      "duration_ms": 208680,
-      "name": "Besito Con Lengua",
-      "url": "https://open.spotify.com/track/4jVEcFzRACgZm5gpkhXigP"
-    },
-    {
-      "added_at": "2022-12-30 18:20:45",
-      "album": {
         "name": "Latino 59 presenta: Bailando (Salsa Bachata Merengue Urbano Reggaeton Dembow Fitness)",
         "url": "https://open.spotify.com/album/3lHRgY0YptnHbpFjysFb7S"
       },
@@ -839,6 +819,26 @@
       "duration_ms": 273853,
       "name": "Bailando - Official Salsa Version",
       "url": "https://open.spotify.com/track/60rfRiqSdX2allhe9Qs4Qy"
+    },
+    {
+      "added_at": "2022-12-30 18:20:45",
+      "album": {
+        "name": "Party Full Nasty (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/01MOvDJDnOLpU47OT2zkFw"
+      },
+      "artists": [
+        {
+          "name": "El Chacal",
+          "url": "https://open.spotify.com/artist/1xFn1xod58AGaSZjrxdiXA"
+        },
+        {
+          "name": "Yakarta",
+          "url": "https://open.spotify.com/artist/7a639C80zwLMF0NYMpMxzG"
+        }
+      ],
+      "duration_ms": 208680,
+      "name": "Besito Con Lengua",
+      "url": "https://open.spotify.com/track/4jVEcFzRACgZm5gpkhXigP"
     },
     {
       "added_at": "2022-12-30 18:20:45",

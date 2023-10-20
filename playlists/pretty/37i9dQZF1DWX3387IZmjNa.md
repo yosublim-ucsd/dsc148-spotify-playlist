@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX3387IZmjNa.md) - [plain]
 
 > Hip\-Hop + R&B: Before\. Anything\. Else\. Cover: Fridayy
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,023,528 likes - 50 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,023,662 likes - 50 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,7 +25,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX3387IZmjNa.md) - [plain]
 | 15 | [DIAMONDS](https://open.spotify.com/track/0riALVv5w4g49cSDpvVLEo) | [Kaash Paige](https://open.spotify.com/artist/0f2YkMXwFNJNSX7MymevKE) | [DIAMONDS](https://open.spotify.com/album/3m5SYU9sc2UavROz7QKU27) | 3:27 |
 | 16 | [Did Me Wrong](https://open.spotify.com/track/2hkcNrUwTVwKqjfUO1Kx3d) | [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I) | [B4 BOA](https://open.spotify.com/album/5QDOKezJwT63L54s17jMgw) | 2:57 |
 | 17 | [Yes](https://open.spotify.com/track/5wJzWIpTjufasyBhPmfPwm) | [Hunxho](https://open.spotify.com/artist/508weSx4HBumrGggFmc7br) | [For Her](https://open.spotify.com/album/4bHTLD05ILfR6xCCSoivGQ) | 3:14 |
-| 18 | [30 Floors Up](https://open.spotify.com/track/5KpBWd0OVnBaJ4Dc8TtzdZ) | [Ryan Trey](https://open.spotify.com/artist/5YHM0i7v5TqqibZhS0YiuX) | [30 Floors Up](https://open.spotify.com/album/1oJq2ry0x6kWlR2LFW7XN2) | 2:24 |
+| 18 | [30 FLOORS UP](https://open.spotify.com/track/5KpBWd0OVnBaJ4Dc8TtzdZ) | [Ryan Trey](https://open.spotify.com/artist/5YHM0i7v5TqqibZhS0YiuX) | [30 FLOORS UP](https://open.spotify.com/album/1oJq2ry0x6kWlR2LFW7XN2) | 2:24 |
 | 19 | [Lifestyle Vicious](https://open.spotify.com/track/7JCR3o72lk90eWwvr0cwdq) | [Toure](https://open.spotify.com/artist/1OXhvSQDWPFqq6v2bhY17X), [Vory](https://open.spotify.com/artist/0GeeIVcvGA8GSlWsoY1dkG) | [Life Of The Party](https://open.spotify.com/album/6XkmlhDX3zlEpd6J5m6CQo) | 2:39 |
 | 20 | [Agora Hills](https://open.spotify.com/track/7dJYggqjKo71KI9sLzqCs8) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Scarlet](https://open.spotify.com/album/6DmPNcfpkXBVRJsEIJY9tl) | 4:25 |
 | 21 | [Turks & Caicos \(feat\. 21 Savage\)](https://open.spotify.com/track/3kfhS2L56Wj8fBcu7xE47H) | [Rod Wave](https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [Nostalgia](https://open.spotify.com/album/0xojHpNNGFiPqc3TXmh6Gv) | 3:23 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX3387IZmjNa.md) - [plain]
 | 49 | [Favorite Song \(feat\. Future\) \[Toxic Version\]](https://open.spotify.com/track/6bdzSqnvBWrvq8HLmxZUCC) | [Toosii](https://open.spotify.com/artist/6BH1xcDkwbbyrLMUKECsW1), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [Favorite Song \(feat\. Future\) \[Toxic Version\]](https://open.spotify.com/album/6PnM3rGkpZJ0Q9JoxnjnuH) | 3:28 |
 | 50 | [3AM in Oakland](https://open.spotify.com/track/104f3GOgOZkTfHkhK21oge) | [Karri](https://open.spotify.com/artist/6EYGGkM2JDpX5CjHpGkiME) | [3AM in Oakland](https://open.spotify.com/album/6fypcxh577ibSA2kOKfyl2) | 3:26 |
 
-Snapshot ID: `MCw0MmRkODRjMGMxZmE5OGRkNzEwNmMyM2IzNWI4YmI5ZWNmNWNjNTE3`
+Snapshot ID: `MCwxMjliNjU2YjdhNzNmNWNjYjRkZmU2Yjk2MzFiYmU1OGE5YWY2MTVm`

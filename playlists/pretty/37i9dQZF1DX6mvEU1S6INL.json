@@ -1,12 +1,12 @@
 {
   "description": "It's just us\u2014and this awesome alt soundtrack.",
-  "num_followers": 1128060,
+  "num_followers": 1128104,
   "original_name": "You & Me",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyYjA5NzVlNDE4M2E0ZmIzYjQxYWNkMmUyOGFhNjg0YWZmYTZmNDgy",
+  "snapshot_id": "MCwxMDRhMDc5MDJhMmJkN2NjZGI0M2Q5MTU4Yjc1ZjAzN2ZmMmRjOTQ3",
   "tracks": [
     {
       "added_at": "2023-07-28 16:40:26",
@@ -771,22 +771,6 @@
     {
       "added_at": "2023-07-28 16:40:26",
       "album": {
-        "name": "Patience",
-        "url": "https://open.spotify.com/album/6EEv3516e4dH7sAPPUq9oo"
-      },
-      "artists": [
-        {
-          "name": "Chris Cornell",
-          "url": "https://open.spotify.com/artist/0XHiH53dHrvbwfjYM7en7I"
-        }
-      ],
-      "duration_ms": 253120,
-      "name": "Patience",
-      "url": "https://open.spotify.com/track/7n3u7RrzdXGVcclBEp9aSa"
-    },
-    {
-      "added_at": "2023-07-28 16:40:26",
-      "album": {
         "name": "Era Vulgaris",
         "url": "https://open.spotify.com/album/64SL0QEXxulD2QgwJmJbUL"
       },
@@ -799,6 +783,22 @@
       "duration_ms": 290493,
       "name": "Make It Wit Chu",
       "url": "https://open.spotify.com/track/0Cgd3CK6D2hhbwmLRvtscH"
+    },
+    {
+      "added_at": "2023-07-28 16:40:26",
+      "album": {
+        "name": "Patience",
+        "url": "https://open.spotify.com/album/6EEv3516e4dH7sAPPUq9oo"
+      },
+      "artists": [
+        {
+          "name": "Chris Cornell",
+          "url": "https://open.spotify.com/artist/0XHiH53dHrvbwfjYM7en7I"
+        }
+      ],
+      "duration_ms": 253120,
+      "name": "Patience",
+      "url": "https://open.spotify.com/track/7n3u7RrzdXGVcclBEp9aSa"
     },
     {
       "added_at": "2023-07-28 16:40:26",
@@ -931,50 +931,18 @@
     {
       "added_at": "2023-07-28 16:40:26",
       "album": {
-        "name": "Beneath The Skin",
-        "url": "https://open.spotify.com/album/2mD97VgxTRfwB8F5tvkwrL"
+        "name": "Coast Modern",
+        "url": "https://open.spotify.com/album/7oU1JaPIxWfpCFyvIZyiZL"
       },
       "artists": [
         {
-          "name": "Of Monsters and Men",
-          "url": "https://open.spotify.com/artist/4dwdTW1Lfiq0cM8nBAqIIz"
+          "name": "Coast Modern",
+          "url": "https://open.spotify.com/artist/4wYk01oPJNfaEssVFL46oQ"
         }
       ],
-      "duration_ms": 260413,
-      "name": "Empire",
-      "url": "https://open.spotify.com/track/4M9lfUgDeLHu1fL2ZxZSlu"
-    },
-    {
-      "added_at": "2023-07-28 16:40:26",
-      "album": {
-        "name": "The Amazing Spider-Man 2 (The Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/11c2pVVBENFMufPqJMIC3R"
-      },
-      "artists": [
-        {
-          "name": "The Neighbourhood",
-          "url": "https://open.spotify.com/artist/77SW9BnxLY8rJ0RciFqkHh"
-        }
-      ],
-      "duration_ms": 237560,
-      "name": "Honest - From The Amazing Spider-Man 2 Soundtrack",
-      "url": "https://open.spotify.com/track/1xJ8RjDucztPOKB0ek95tf"
-    },
-    {
-      "added_at": "2023-07-28 16:40:26",
-      "album": {
-        "name": "Black Bear",
-        "url": "https://open.spotify.com/album/2Objy4bpKyIT4JsUsBr8ka"
-      },
-      "artists": [
-        {
-          "name": "Andrew Belle",
-          "url": "https://open.spotify.com/artist/3UAk61T8PItbpgEi9u7ofY"
-        }
-      ],
-      "duration_ms": 286865,
-      "name": "The Enemy",
-      "url": "https://open.spotify.com/track/6xJOhSm4SvZwzy3uhWz26O"
+      "duration_ms": 204066,
+      "name": "Guru",
+      "url": "https://open.spotify.com/track/1bHEcHv3lUkLFAebNnaPNE"
     },
     {
       "added_at": "2023-07-28 16:40:26",
@@ -995,18 +963,50 @@
     {
       "added_at": "2023-07-28 16:40:26",
       "album": {
-        "name": "Coast Modern",
-        "url": "https://open.spotify.com/album/7oU1JaPIxWfpCFyvIZyiZL"
+        "name": "Black Bear",
+        "url": "https://open.spotify.com/album/2Objy4bpKyIT4JsUsBr8ka"
       },
       "artists": [
         {
-          "name": "Coast Modern",
-          "url": "https://open.spotify.com/artist/4wYk01oPJNfaEssVFL46oQ"
+          "name": "Andrew Belle",
+          "url": "https://open.spotify.com/artist/3UAk61T8PItbpgEi9u7ofY"
         }
       ],
-      "duration_ms": 204066,
-      "name": "Guru",
-      "url": "https://open.spotify.com/track/1bHEcHv3lUkLFAebNnaPNE"
+      "duration_ms": 286865,
+      "name": "The Enemy",
+      "url": "https://open.spotify.com/track/6xJOhSm4SvZwzy3uhWz26O"
+    },
+    {
+      "added_at": "2023-07-28 16:40:26",
+      "album": {
+        "name": "The Amazing Spider-Man 2 (The Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/11c2pVVBENFMufPqJMIC3R"
+      },
+      "artists": [
+        {
+          "name": "The Neighbourhood",
+          "url": "https://open.spotify.com/artist/77SW9BnxLY8rJ0RciFqkHh"
+        }
+      ],
+      "duration_ms": 237560,
+      "name": "Honest - From The Amazing Spider-Man 2 Soundtrack",
+      "url": "https://open.spotify.com/track/1xJ8RjDucztPOKB0ek95tf"
+    },
+    {
+      "added_at": "2023-07-28 16:40:26",
+      "album": {
+        "name": "Beneath The Skin",
+        "url": "https://open.spotify.com/album/2mD97VgxTRfwB8F5tvkwrL"
+      },
+      "artists": [
+        {
+          "name": "Of Monsters and Men",
+          "url": "https://open.spotify.com/artist/4dwdTW1Lfiq0cM8nBAqIIz"
+        }
+      ],
+      "duration_ms": 260413,
+      "name": "Empire",
+      "url": "https://open.spotify.com/track/4M9lfUgDeLHu1fL2ZxZSlu"
     },
     {
       "added_at": "2023-07-28 16:40:26",
@@ -1283,6 +1283,22 @@
     {
       "added_at": "2023-07-28 16:40:26",
       "album": {
+        "name": "Because Of The Times",
+        "url": "https://open.spotify.com/album/5CiZOqd3iF6p2PsqBjljat"
+      },
+      "artists": [
+        {
+          "name": "Kings of Leon",
+          "url": "https://open.spotify.com/artist/2qk9voo8llSGYcZ6xrBzKx"
+        }
+      ],
+      "duration_ms": 242786,
+      "name": "True Love Way",
+      "url": "https://open.spotify.com/track/1S5Ur6oKF4dzrRMuxmHk39"
+    },
+    {
+      "added_at": "2023-07-28 16:40:26",
+      "album": {
         "name": "100",
         "url": "https://open.spotify.com/album/4JqtQJR0R6xSJqlmGH31X3"
       },
@@ -1311,22 +1327,6 @@
       "duration_ms": 171563,
       "name": "Love Song",
       "url": "https://open.spotify.com/track/3rQaxZaozQfrUEQx1PzT14"
-    },
-    {
-      "added_at": "2023-07-28 16:40:26",
-      "album": {
-        "name": "Because Of The Times",
-        "url": "https://open.spotify.com/album/5CiZOqd3iF6p2PsqBjljat"
-      },
-      "artists": [
-        {
-          "name": "Kings of Leon",
-          "url": "https://open.spotify.com/artist/2qk9voo8llSGYcZ6xrBzKx"
-        }
-      ],
-      "duration_ms": 242786,
-      "name": "True Love Way",
-      "url": "https://open.spotify.com/track/1S5Ur6oKF4dzrRMuxmHk39"
     },
     {
       "added_at": "2023-07-28 16:40:26",

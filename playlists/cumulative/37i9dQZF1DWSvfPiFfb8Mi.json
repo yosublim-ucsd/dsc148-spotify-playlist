@@ -1324,7 +1324,7 @@
       ],
       "date_added": "2023-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-20",
       "duration_ms": 224813,
       "name": "Free (Do What U Want)",
       "url": "https://open.spotify.com/track/6lVdhbN1xING12E926vWwI"
@@ -3392,6 +3392,28 @@
       "duration_ms": 206276,
       "name": "Reach",
       "url": "https://open.spotify.com/track/12QrTFFulSdSLFMKHFcrL7"
+    },
+    {
+      "album": {
+        "name": "retro electrique fever",
+        "url": "https://open.spotify.com/album/2y6UGYRHMrQQ1IJZ4vWYbb"
+      },
+      "artists": [
+        {
+          "name": "CLMD",
+          "url": "https://open.spotify.com/artist/7LiVklVR1325BIOqD9kykr"
+        },
+        {
+          "name": "joki",
+          "url": "https://open.spotify.com/artist/1jk1F3dSUQFcHCfbXpuQ5D"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154687,
+      "name": "retro electrique fever",
+      "url": "https://open.spotify.com/track/0DRZRfXOWgj2VNJNRRqNnR"
     },
     {
       "album": {

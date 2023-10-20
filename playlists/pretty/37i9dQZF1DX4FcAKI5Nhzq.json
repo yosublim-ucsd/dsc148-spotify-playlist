@@ -1,13 +1,29 @@
 {
   "description": "Future K-Pop hits! Cover: JINI",
-  "num_followers": 782620,
+  "num_followers": 782805,
   "original_name": "K-Pop Rising",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlYThiNTk3ZGJjOGRjYTcwNDczMTlkNjNjYzc2NzJkMmY4Mzk1NTg2",
+  "snapshot_id": "MCw5ZTU2YzA0NTNmOTI1YTA5ZDU1YjYzZjNlMjQxZDJlNDE5ZGUyNWIw",
   "tracks": [
+    {
+      "added_at": "2023-10-19 03:01:17",
+      "album": {
+        "name": "STRANGER",
+        "url": "https://open.spotify.com/album/5QUzffclUFjjFFZ1HmaB6X"
+      },
+      "artists": [
+        {
+          "name": "SUNMI",
+          "url": "https://open.spotify.com/artist/6MoXcK2GyGg7FIyxPU5yW6"
+        }
+      ],
+      "duration_ms": 166560,
+      "name": "STRANGER",
+      "url": "https://open.spotify.com/track/3SifPlW12FRs8OQP2VkXSi"
+    },
     {
       "added_at": "2023-10-11 09:01:58",
       "album": {
@@ -29,6 +45,22 @@
       "url": "https://open.spotify.com/track/0mWIAujQDmtG5m7Mu0NTmK"
     },
     {
+      "added_at": "2023-10-12 09:16:37",
+      "album": {
+        "name": "Don't Go Insane",
+        "url": "https://open.spotify.com/album/4GLbvgylMSGQ87JZL0TER1"
+      },
+      "artists": [
+        {
+          "name": "DPR IAN",
+          "url": "https://open.spotify.com/artist/2o8gT0fQmFxGNbowbdgeZe"
+        }
+      ],
+      "duration_ms": 204880,
+      "name": "Don't Go Insane",
+      "url": "https://open.spotify.com/track/5izX3yhDZHqQFi8p2m6RHi"
+    },
+    {
       "added_at": "2023-10-11 09:01:58",
       "album": {
         "name": "Billlie 'BYOB (bring your own best friend)'",
@@ -45,20 +77,20 @@
       "url": "https://open.spotify.com/track/2zoLJs2jC0uiy59KJAWL2h"
     },
     {
-      "added_at": "2023-10-11 09:01:58",
+      "added_at": "2023-10-19 03:01:17",
       "album": {
-        "name": "ROBERT",
-        "url": "https://open.spotify.com/album/4VTHhmhVaB2gpViAdHbKHg"
+        "name": "Frame the Blueprint: Prelude to Possibilities",
+        "url": "https://open.spotify.com/album/5HvSTx0dsyBNEvu6JGq4wR"
       },
       "artists": [
         {
-          "name": "BOBBY",
-          "url": "https://open.spotify.com/artist/7ieMQQDR0bdBPz572mtxwS"
+          "name": "TIOT",
+          "url": "https://open.spotify.com/artist/2hoCMH0KWwpjFJEGh0ECe7"
         }
       ],
-      "duration_ms": 128920,
-      "name": "f",
-      "url": "https://open.spotify.com/track/02Nkt660XIvXwZQf9bkwh6"
+      "duration_ms": 184280,
+      "name": "Unbeatable",
+      "url": "https://open.spotify.com/track/0m8tFKjRmnFPtTk8URIWw2"
     },
     {
       "added_at": "2023-10-11 09:01:58",
@@ -99,38 +131,6 @@
     {
       "added_at": "2023-10-11 09:01:58",
       "album": {
-        "name": "LOVE EFFECT",
-        "url": "https://open.spotify.com/album/1TtgaKSwHIh4KPtwSD3Kwz"
-      },
-      "artists": [
-        {
-          "name": "ONF",
-          "url": "https://open.spotify.com/artist/0eEhOgZ2x6kv8kLz77WO7b"
-        }
-      ],
-      "duration_ms": 172293,
-      "name": "Love Effect",
-      "url": "https://open.spotify.com/track/5jBdF52105JBOQN4HyBCW5"
-    },
-    {
-      "added_at": "2023-10-12 09:16:37",
-      "album": {
-        "name": "Don't Go Insane",
-        "url": "https://open.spotify.com/album/4GLbvgylMSGQ87JZL0TER1"
-      },
-      "artists": [
-        {
-          "name": "DPR IAN",
-          "url": "https://open.spotify.com/artist/2o8gT0fQmFxGNbowbdgeZe"
-        }
-      ],
-      "duration_ms": 204880,
-      "name": "Don't Go Insane",
-      "url": "https://open.spotify.com/track/5izX3yhDZHqQFi8p2m6RHi"
-    },
-    {
-      "added_at": "2023-10-11 09:01:58",
-      "album": {
         "name": "Door",
         "url": "https://open.spotify.com/album/5MO48BnK6X9VlYtFHpJtvy"
       },
@@ -143,22 +143,6 @@
       "duration_ms": 221746,
       "name": "Top or Cliff",
       "url": "https://open.spotify.com/track/6nxaMLoDXkG0NlwV46Jnvb"
-    },
-    {
-      "added_at": "2023-10-12 09:16:37",
-      "album": {
-        "name": "With UNIVERSE",
-        "url": "https://open.spotify.com/album/2m8cxPDIlH371sLuivEWMI"
-      },
-      "artists": [
-        {
-          "name": "PENTAGON",
-          "url": "https://open.spotify.com/artist/1wKpMkucynaTfG8lyPprYV"
-        }
-      ],
-      "duration_ms": 179826,
-      "name": "With UNIVERSE",
-      "url": "https://open.spotify.com/track/1GCYF6dKEpdC7GFn4Kmrd8"
     },
     {
       "added_at": "2023-10-11 09:01:58",
@@ -179,6 +163,54 @@
       "duration_ms": 182346,
       "name": "Right Now (Feat. Crush)",
       "url": "https://open.spotify.com/track/4IiSP6seUj7QwhgDgXdS11"
+    },
+    {
+      "added_at": "2023-10-11 09:01:58",
+      "album": {
+        "name": "ROBERT",
+        "url": "https://open.spotify.com/album/4VTHhmhVaB2gpViAdHbKHg"
+      },
+      "artists": [
+        {
+          "name": "BOBBY",
+          "url": "https://open.spotify.com/artist/7ieMQQDR0bdBPz572mtxwS"
+        }
+      ],
+      "duration_ms": 128920,
+      "name": "f",
+      "url": "https://open.spotify.com/track/02Nkt660XIvXwZQf9bkwh6"
+    },
+    {
+      "added_at": "2023-10-11 09:01:58",
+      "album": {
+        "name": "LOVE EFFECT",
+        "url": "https://open.spotify.com/album/1TtgaKSwHIh4KPtwSD3Kwz"
+      },
+      "artists": [
+        {
+          "name": "ONF",
+          "url": "https://open.spotify.com/artist/0eEhOgZ2x6kv8kLz77WO7b"
+        }
+      ],
+      "duration_ms": 172293,
+      "name": "Love Effect",
+      "url": "https://open.spotify.com/track/5jBdF52105JBOQN4HyBCW5"
+    },
+    {
+      "added_at": "2023-10-12 09:16:37",
+      "album": {
+        "name": "With UNIVERSE",
+        "url": "https://open.spotify.com/album/2m8cxPDIlH371sLuivEWMI"
+      },
+      "artists": [
+        {
+          "name": "PENTAGON",
+          "url": "https://open.spotify.com/artist/1wKpMkucynaTfG8lyPprYV"
+        }
+      ],
+      "duration_ms": 179826,
+      "name": "With UNIVERSE",
+      "url": "https://open.spotify.com/track/1GCYF6dKEpdC7GFn4Kmrd8"
     },
     {
       "added_at": "2023-10-12 09:16:37",
@@ -655,22 +687,6 @@
     {
       "added_at": "2023-10-11 09:01:58",
       "album": {
-        "name": "A Love Supreme",
-        "url": "https://open.spotify.com/album/7Mcgv379kU4bRHl54JJqhi"
-      },
-      "artists": [
-        {
-          "name": "SOLE",
-          "url": "https://open.spotify.com/artist/6naXFodImN2DwRmKCQHAUt"
-        }
-      ],
-      "duration_ms": 210106,
-      "name": "I Want to Be Closer to You",
-      "url": "https://open.spotify.com/track/6QlCumx7Sow4nRgVt6tDms"
-    },
-    {
-      "added_at": "2023-10-11 09:01:58",
-      "album": {
         "name": "Back To Me / Alive",
         "url": "https://open.spotify.com/album/7uAydPIaSI5OmH4e8WY0Eo"
       },
@@ -779,26 +795,6 @@
       "duration_ms": 236640,
       "name": "N.Y.C.T",
       "url": "https://open.spotify.com/track/4ksIFsGXezKXZX91dE6ClJ"
-    },
-    {
-      "added_at": "2023-10-11 09:01:58",
-      "album": {
-        "name": "New Moon",
-        "url": "https://open.spotify.com/album/7J8v0tZ6svPXbPvivnltq8"
-      },
-      "artists": [
-        {
-          "name": "Suen",
-          "url": "https://open.spotify.com/artist/6eaZmfhIThboEez0pzz7Vi"
-        },
-        {
-          "name": "Sik-K",
-          "url": "https://open.spotify.com/artist/5DIi2JWfQPTKffaVBlIYRn"
-        }
-      ],
-      "duration_ms": 205786,
-      "name": "My Prada (feat. Sik-K)",
-      "url": "https://open.spotify.com/track/4Lp82VUupwn647W6h0EFUu"
     },
     {
       "added_at": "2023-10-11 09:01:58",

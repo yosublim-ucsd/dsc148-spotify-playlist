@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWJOmJ7nRx0C.md) - [plain]
 
 > The hardest songs, loud\. Very loud\. Cover: Beartooth
 
-[Spotify](https://open.spotify.com/user/spotify) - 929,351 likes - 125 songs - 7 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 929,473 likes - 125 songs - 7 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWJOmJ7nRx0C.md) - [plain]
 | 124 | [Dead Weight](https://open.spotify.com/track/6zESIOIYKaxZQJP2hxgDlB) | [Bad/Love](https://open.spotify.com/artist/0lJyKe4CxWOeYOV4dbAFkZ) | [Dead Weight](https://open.spotify.com/album/7HuFADTbWIytpxrDfpKTwc) | 3:22 |
 | 125 | [Don't Let The Party Die](https://open.spotify.com/track/0h9HqYMU1EGRZ8E3aQ2lJE) | [Sleeping With Sirens](https://open.spotify.com/artist/3N8Hy6xQnQv1F1XCiyGQqA) | [Complete Collapse \(Deluxe\)](https://open.spotify.com/album/3povldXcm2CSdm3lpkE1tW) | 2:46 |
 
-Snapshot ID: `MCxhOWViYmVkN2I4NTJhNzE3NTk1OWUzYmJiNmE5MDc0NjdlYzg2MWY3`
+Snapshot ID: `MCw1NzYzM2E5M2YwYjhkZGRhYjgzMmMzM2VhN2NlYTlkM2JiYzdlYTJm`

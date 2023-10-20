@@ -2,9 +2,9 @@
 
 ### [Made In South Africa](https://open.spotify.com/playlist/37i9dQZF1DX9wXOYagay8L)
 
-> Beautiful proudly South African gems\. Cover: <a href="https://open.spotify.com/artist/6JzpDqY5CZkjLU40GmmTkM?si=eCV516INQ4eGFsexO1dB5g">Muneyi</a>
+> Beautiful proudly South African gems\. Cover: <a href="https://open.spotify.com/artist/4cdFNn4RtIOX2pIS3Ye3Vg?si=gVc1JfYsQ3Ouxl4WabMKBA">Darkie Fiction</a>
 
-493 songs - 1 day 11 hr 29 min
+494 songs - 1 day 11 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -111,6 +111,7 @@
 | [Fireworks \- Radio Edit](https://open.spotify.com/track/6sicIMPjlLJKb3pojISu07) | [Aubrey Qwana](https://open.spotify.com/artist/6uVEWgg7sAAzfPQsXjzTRi), [Blaq Diamond](https://open.spotify.com/artist/7hdf9DSpgCpqVh03Ql1LKe) | [Fireworks \(Radio Edit\)](https://open.spotify.com/album/5R1pxFKqW1qdBB0OfvHpP6) | 4:36 | 2023-01-19 | 2023-07-08 |
 | [Forever Yena](https://open.spotify.com/track/0Nz8E9XQGIrbYLzfLxfezE) | [Boyzin Bee](https://open.spotify.com/artist/0RU8XphQbWwo1jxy1QCOiE) | [Forever Yena](https://open.spotify.com/album/5bhO7IsgYb5fpcxuP6oyg1) | 2:56 | 2023-09-07 |  |
 | [Forever Yours](https://open.spotify.com/track/1JhdsJnSPVmzjilbLympm7) | [Hunter Rose](https://open.spotify.com/artist/2G6bNldbTZU1viUkX5Myuq) | [Forever Yours](https://open.spotify.com/album/5LlImAZTpN0uC56a2pI5jt) | 4:00 | 2022-03-10 | 2022-05-20 |
+| [Free](https://open.spotify.com/track/5T9CAx0lK25jCTj7LRAjHL) | [Darkie Fiction](https://open.spotify.com/artist/4cdFNn4RtIOX2pIS3Ye3Vg) | [Free](https://open.spotify.com/album/6DqoAUmZnzAE3quXt0bAgq) | 2:07 | 2023-10-20 |  |
 | [Gcwele](https://open.spotify.com/track/6rpJhzqqlpI1zkBxXsY7IZ) | [Ntando Yamahlubi](https://open.spotify.com/artist/6MRPRBeOdS17yOGNjKJFn8), [Vesta SA](https://open.spotify.com/artist/73fe0fC2vDCaXjTG8rQOAS), [Blaq Note](https://open.spotify.com/artist/4u5gGmVuOz6sxEgG4tbWV4), [Thatohatsi](https://open.spotify.com/artist/1g6DVpTS6w8meqwY8QGy1L), [Zulubutter](https://open.spotify.com/artist/5QQQvpDRs6C1wHwkCH7Wdb) | [Gcwele](https://open.spotify.com/album/6zNEYXdk27fgLJsoEKAA5D) | 7:25 | 2023-06-09 | 2023-08-04 |
 | [Get over U](https://open.spotify.com/track/0lFbOOZNpNi8TewfBei8qp) | [Zinah](https://open.spotify.com/artist/6gsa5KYo245MjohqCFGwQw) | [Rose Garden](https://open.spotify.com/album/4rAar6jaEScMXlVOdhP820) | 3:15 | 2022-02-24 | 2022-05-06 |
 | [Ghanama](https://open.spotify.com/track/0AZxr9dlswnn6TNxIMyijH) | [Makhadzi](https://open.spotify.com/artist/2aIcnnHTA16VbmhNJGLrGs), [Prince Benza](https://open.spotify.com/artist/5jCHpUIjSnOXUzVaxwBA2k) | [African Queen](https://open.spotify.com/album/72qVzkEjhc6ZlSh5QxEo4s) | 4:53 | 2021-07-12 | 2022-08-12 |
@@ -331,7 +332,7 @@
 | [Number 1](https://open.spotify.com/track/0CqLHQqZQHgKrIQLawgEpd) | [Nathi](https://open.spotify.com/artist/1YS0HL7FXRhO4x9XaBuato) | [Usiba Lwe Gazi](https://open.spotify.com/album/7lp0WAJZw1IoMzKyf6P7rh) | 4:17 | 2022-10-20 | 2022-10-22 |
 | [Number 1](https://open.spotify.com/track/28uEOZvK9boEWq4LgxFIuF) | [Nathi](https://open.spotify.com/artist/1YS0HL7FXRhO4x9XaBuato) | [Usiba Lwe Gazi](https://open.spotify.com/album/4kzfelmFoUzuDzyBszL7aq) | 4:17 | 2022-10-20 | 2023-02-01 |
 | [Nzwakazi](https://open.spotify.com/track/7qoqQWKWYZTuHjJuqvwe5t) | [Bonga Kwana](https://open.spotify.com/artist/60Wka611vbfLW4IG31w99x) | [New faces to old problems](https://open.spotify.com/album/6dppQTbTIWldHxHF8zJOAO) | 3:55 | 2021-11-04 | 2022-03-25 |
-| [Oe'Phihlile](https://open.spotify.com/track/4Z14QJJqzQiYFXsEiJkPnF) | [Lowsheen](https://open.spotify.com/artist/5lnxhnW7SIbxkkFVmVYEhU), [Makhadzi](https://open.spotify.com/artist/2aIcnnHTA16VbmhNJGLrGs), [Lioness Ratang](https://open.spotify.com/artist/5qltS8SwpvIgYGfaWpEK8s) | [Oe'Phihlile](https://open.spotify.com/album/1yfa56Cp1nEXqs4h1elpLQ) | 6:42 | 2023-08-24 |  |
+| [Oe'Phihlile](https://open.spotify.com/track/4Z14QJJqzQiYFXsEiJkPnF) | [Lowsheen](https://open.spotify.com/artist/5lnxhnW7SIbxkkFVmVYEhU), [Makhadzi](https://open.spotify.com/artist/2aIcnnHTA16VbmhNJGLrGs), [Lioness Ratang](https://open.spotify.com/artist/5qltS8SwpvIgYGfaWpEK8s) | [Oe'Phihlile](https://open.spotify.com/album/1yfa56Cp1nEXqs4h1elpLQ) | 6:42 | 2023-08-24 | 2023-10-20 |
 | [Oh Mama](https://open.spotify.com/track/4hQwThtNmUcBvkXEvAhP4S) | [Martin Khan](https://open.spotify.com/artist/3LPj8vGCW2lQFQ7PrZMB5A), [Nhlonipho](https://open.spotify.com/artist/4fmvHSoDtKFGNsQL3imnRN), [Mo\-T](https://open.spotify.com/artist/0fMnpjfqmm7KCtlB0izVOg) | [Oh Mama](https://open.spotify.com/album/7z7jzJ4js74BNUfFXvLREA) | 4:00 | 2023-05-11 | 2023-05-26 |
 | [Old Man](https://open.spotify.com/track/77krcHfId85O4se7W5HpTY) | [Thabo Krouwkam](https://open.spotify.com/artist/5HlMBH4nyRsup7lt6P5A54) | [Meet me in the middle](https://open.spotify.com/album/2lAuCRSEVMgTmdlHFJKlEq) | 3:06 | 2023-03-17 | 2023-03-25 |
 | [Only You](https://open.spotify.com/track/7Crbyf5q4AVNCtnVboEhcy) | [Halo Yagami](https://open.spotify.com/artist/3boR2ULQR1CX6TUBboHctW) | [Only You](https://open.spotify.com/album/5dtd5RmBNSujU8HBLWetT9) | 3:09 | 2023-03-09 | 2023-03-25 |

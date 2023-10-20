@@ -4,7 +4,7 @@
 
 > The <a href="spotify:genre:0JQ5DAqbMKFImHYGo3eTSg">best new music</a> by independent artists and labels\. Cover: Cleffy\. Artwork by Isu Kim.
 
-5,263 songs - 11 day 22 hr 54 min
+5,265 songs - 11 day 23 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1610,6 +1610,7 @@
 | [First Fall](https://open.spotify.com/track/6AN0JXPYfKBBt0448z4gIo) | [Surgeons Girl](https://open.spotify.com/artist/7CXSuH40c4n4hVbP1JDBFP) | [First Fall](https://open.spotify.com/album/7JBiWEAj1vO4zIY5q0WzF5) | 4:10 | 2022-09-28 | 2022-10-06 |
 | [First Taste of Gone](https://open.spotify.com/track/73WwVhoDuv9IuNU1i7gY1R) | [Josh Ross](https://open.spotify.com/artist/1ZGTSMjK1D2HrpPTOh916U) | [First Taste of Gone](https://open.spotify.com/album/1hqieJ5qNMuT4y0L64W00L) | 2:52 | 2022-02-16 | 2022-02-24 |
 | [First Time](https://open.spotify.com/track/5paTZFpCis3pMJc2VwONuR) | [11 Roses](https://open.spotify.com/artist/51ODAATeVPRJvesdcuDYzA) | [First Time](https://open.spotify.com/album/3qXh4c3Q57EkHoAMXcDqS3) | 3:26 | 2022-07-27 | 2022-08-04 |
+| [first time](https://open.spotify.com/track/7bbDRMb1AIjb8cWztwm8MS) | [jigitz](https://open.spotify.com/artist/7sfn5Z6ItzDkOF9cYzxWPZ) | [first time](https://open.spotify.com/album/5TSp9j0u2yoiX3vPQB0gIt) | 2:48 | 2023-10-19 |  |
 | [First to Love](https://open.spotify.com/track/0H9e3haW0exM6GkB1zkYoa) | [Maia Friedman](https://open.spotify.com/artist/3SAdHKW3ICNgtyFgaWdC6c) | [First To Love](https://open.spotify.com/album/2gH9deiCoLCJoHPhdn9IRt) | 4:38 | 2022-01-26 | 2022-02-03 |
 | [Fish](https://open.spotify.com/track/4qdZQrvshOGnnIqeWgnwhm) | [FRNCE](https://open.spotify.com/artist/6JgntWpSBHDYhbJbpMuD4f) | [Serendipia](https://open.spotify.com/album/3JbRrOq7D1TQMVwGkiPpWs) | 3:32 | 2022-01-26 | 2022-02-03 |
 | [Fish](https://open.spotify.com/track/3GHRiiO4GxqQhjMGbHxI21) | [PEARL](https://open.spotify.com/artist/6hZgNWpmI3Ti681I6IPEvW) | [Fish](https://open.spotify.com/album/7MiaK4y5UVaLSz9jwxHMBw) | 3:44 | 2023-06-14 | 2023-06-29 |
@@ -3138,6 +3139,7 @@
 | [My Head](https://open.spotify.com/track/6pkTMYZwusxzfMomTLUBqw) | [Valerie Rose](https://open.spotify.com/artist/07ti3q3QcT6Xe8eCFNlZlZ) | [My Head](https://open.spotify.com/album/1t49k729nvRVvD66IVMTbK) | 2:24 | 2022-10-19 | 2022-10-27 |
 | [my head feels like a moshpit](https://open.spotify.com/track/6HkGKVBDoPnmN1LEGvgjI9) | [Just Reality](https://open.spotify.com/artist/7CxHEVB1P6h0KG7vvEKDNa), [SALEUM](https://open.spotify.com/artist/3IZfOlxn36o1KSwrzU6fD1) | [my head feels like a moshpit](https://open.spotify.com/album/7eZLrFsjLKHs9v2640Xtfs) | 2:11 | 2023-01-18 | 2023-01-26 |
 | [My Honesty](https://open.spotify.com/track/5Ns3YcSiLiZ3bYNmq6F00b) | [Been Stellar](https://open.spotify.com/artist/3ep1YmatQ8L9UKCGYiJNBh) | [My Honesty](https://open.spotify.com/album/3LArpsuTipgbv0RQvdcxUF) | 3:55 | 2022-06-29 | 2022-07-07 |
+| [My Love, Pt\. 1](https://open.spotify.com/track/5BJDEyPcwQpunsTidFPfR8) | [Justend](https://open.spotify.com/artist/2UsrZRPk97l70i7PlXQ8hp) | [My Love, Pt\. 1](https://open.spotify.com/album/6IZsGlZ5lRiyR7NSp1xbJM) | 2:57 | 2023-10-19 |  |
 | [My Man \(Freestyle\)](https://open.spotify.com/track/0RHRh0C72thISwz7GCl8xY) | [Jeed](https://open.spotify.com/artist/6O5okGW7N019Tinwive4IF) | [My Man \(Freestyle\)](https://open.spotify.com/album/4894VocVu0Qm90wKyU76XD) | 2:30 | 2023-03-22 | 2023-03-30 |
 | [My Mind's Made Up](https://open.spotify.com/track/1GrY3M6m6CAsRMqTTyFolL) | [Grace Leer](https://open.spotify.com/artist/2zaXxMpZKyNK075LXZ3wDG) | [My Mind's Made Up](https://open.spotify.com/album/60hBTn4rw9qPxwDSnz91hX) | 3:28 | 2023-05-31 | 2023-06-08 |
 | [My Mistake](https://open.spotify.com/track/141LKU6Shr5ogV6hDYQeuf) | [BKAYE](https://open.spotify.com/artist/1GrQQZ7U31WfQPQbd3MHx9) | [My Mistake](https://open.spotify.com/album/2qq3PW9es1FCLr2CFKgqJN) | 3:15 | 2023-03-01 | 2023-03-09 |

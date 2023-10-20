@@ -4,7 +4,7 @@
 
 > Le patrimoine de la chanson française\. Photo : Charles Aznavour
 
-148 songs - 8 hr 4 min
+149 songs - 8 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -125,7 +125,8 @@
 | [Ne Me Quitte Pas](https://open.spotify.com/track/0B2mpfbg0an33QEYfKGChy) | [Jacques Brel](https://open.spotify.com/artist/4RN2vlFWepLa46qQIU2PHs) | [Infiniment](https://open.spotify.com/album/4d9l1TbzJDhwKylJLwJixn) | 4:11 | 2021-03-21 | 2022-07-29 |
 | [Ne me quitte pas \- Ré\-enregistrement 1972](https://open.spotify.com/track/45CkvJbPxUS5YLy8oOQTtG) | [Jacques Brel](https://open.spotify.com/artist/4RN2vlFWepLa46qQIU2PHs) | [15 Ans D'Amour](https://open.spotify.com/album/6Us9T05UuNDMP2NtVrSVyG) | 4:10 | 2021-03-21 |  |
 | [Ne me quitte pas \- Ré\-enregistrement 1972](https://open.spotify.com/track/2H77oG552Yaed5Muyb4QmU) | [Jacques Brel](https://open.spotify.com/artist/4RN2vlFWepLa46qQIU2PHs) | [Liefde aan de Sein](https://open.spotify.com/album/46kE3wBimtaWT8ZdFZMQhy) | 4:13 | 2021-03-21 | 2022-11-14 |
-| [Non, je ne regrette rien \- 2012 Remastered](https://open.spotify.com/track/6MqxXla8FnO99tgQ9vUHGd) | [Édith Piaf](https://open.spotify.com/artist/1WPcVNert9hn7mHsPKDn7j) | [Hymne à la môme \(Best of\)](https://open.spotify.com/album/02JgvxWwBVPdSqZv5otEJy) | 2:23 | 2021-03-21 |  |
+| [Non, je ne regrette rien](https://open.spotify.com/track/3dkIE8P7hvl3tHl9KSb6dA) | [Édith Piaf](https://open.spotify.com/artist/1WPcVNert9hn7mHsPKDn7j) | [Eternelle](https://open.spotify.com/album/2k3nz0I7mJzegtkooii4za) | 2:22 | 2023-10-19 |  |
+| [Non, je ne regrette rien \- 2012 Remastered](https://open.spotify.com/track/6MqxXla8FnO99tgQ9vUHGd) | [Édith Piaf](https://open.spotify.com/artist/1WPcVNert9hn7mHsPKDn7j) | [Hymne à la môme \(Best of\)](https://open.spotify.com/album/02JgvxWwBVPdSqZv5otEJy) | 2:23 | 2021-03-21 | 2023-10-20 |
 | [Paroles paroles](https://open.spotify.com/track/0sRA0BcQaCo2B7TWxdNQsl) | [Dalida](https://open.spotify.com/artist/04aQfpx1U1WQEJkrvGs4ig), [Alain Delon](https://open.spotify.com/artist/2e1aRMKieswINolf49MzQ8) | [Forever Dalida](https://open.spotify.com/album/5x57Ce1LSOrBpOeOSecDqa) | 4:03 | 2021-03-21 | 2022-07-29 |
 | [Paroles paroles](https://open.spotify.com/track/6TQwGGVZgUnUGjIWnNLPyJ) | [Dalida](https://open.spotify.com/artist/04aQfpx1U1WQEJkrvGs4ig), [Alain Delon](https://open.spotify.com/artist/2e1aRMKieswINolf49MzQ8) | [Soirée en couple](https://open.spotify.com/album/2ztZc25tAbPm2gXEx4rFL4) | 4:05 | 2021-03-21 | 2022-11-13 |
 | [Paroles paroles](https://open.spotify.com/track/4VvTGipG8YaF09z0kfGqaD) | [Dalida](https://open.spotify.com/artist/04aQfpx1U1WQEJkrvGs4ig), [Alain Delon](https://open.spotify.com/artist/2e1aRMKieswINolf49MzQ8) | [40 succès en or](https://open.spotify.com/album/4NFg1VigQEZRrtlE45UL5H) | 4:05 | 2021-03-21 |  |

@@ -4,12 +4,13 @@
 
 > A mediterranean sundown soundtrack.
 
-164 songs - 13 hr 35 min
+165 songs - 13 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [4:20](https://open.spotify.com/track/7Bb0O4hmvyRKcj7Yl3MnmW) | [RAS](https://open.spotify.com/artist/5quzk8QzHrBaPWz4JH15cj) | [RAS](https://open.spotify.com/album/0jQ3zArVV1wo3Fjobq1pG5) | 11:31 | 2022-09-05 |  |
-| [Abusey Junction](https://open.spotify.com/track/67SCL8j8laOVYkPiv4Ei8q) | [Kokoroko](https://open.spotify.com/artist/3u9rbdcmA6CxjxOAkjaeFr) | [KOKOROKO](https://open.spotify.com/album/7DEDf5W3DlySzcs4CQuiuF) | 7:04 | 2023-02-02 |  |
+| [Abusey Junction](https://open.spotify.com/track/3W4IoNW4011i8qfCwN75Va) | [Kokoroko](https://open.spotify.com/artist/3u9rbdcmA6CxjxOAkjaeFr) | [KOKOROKO](https://open.spotify.com/album/5GgdFrmouCR0Ud5Ag7IC8H) | 7:04 | 2023-07-14 |  |
+| [Abusey Junction](https://open.spotify.com/track/67SCL8j8laOVYkPiv4Ei8q) | [Kokoroko](https://open.spotify.com/artist/3u9rbdcmA6CxjxOAkjaeFr) | [KOKOROKO](https://open.spotify.com/album/7DEDf5W3DlySzcs4CQuiuF) | 7:04 | 2023-02-02 | 2023-10-20 |
 | [Abusey Junction](https://open.spotify.com/track/6G6gPQ4bGqNj7ZMGUpIDfa) | [Kokoroko](https://open.spotify.com/artist/3u9rbdcmA6CxjxOAkjaeFr) | [KOKOROKO](https://open.spotify.com/album/69O30wRnJwMunRrM6IgSsO) | 7:04 | 2022-09-05 | 2023-04-29 |
 | [African Spirits \- Fred P Interpretation](https://open.spotify.com/track/1tSili6kQNoNpCC9rEcqlr) | [Nicola Conte](https://open.spotify.com/artist/5dUI54FMDxPqaXbNs4kLpB), [Gianluca Petrella](https://open.spotify.com/artist/5lwjOWuZSgq4IC4KvheTMc), [Fred P](https://open.spotify.com/artist/4qgais7fd2CQHtwbpCC4Dz) | [African Spirits / Tribes \(Fred P Interpretation\)](https://open.spotify.com/album/62sxt5o7yzUKTH5aLV2Gqh) | 11:58 | 2023-02-02 | 2023-02-18 |
 | [Agave Harvest](https://open.spotify.com/track/2DjkmfxsTS03NaCzbaYSEC) | [Manuel Darquart](https://open.spotify.com/artist/0mumYdYeqKkr99t3iDEHGS) | [First Light \(Volume II\)](https://open.spotify.com/album/2dMHq7J4Lb1b47smh6mpAF) | 7:04 | 2022-09-05 | 2022-11-18 |

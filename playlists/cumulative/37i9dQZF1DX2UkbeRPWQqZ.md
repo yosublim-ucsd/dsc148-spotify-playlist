@@ -4,7 +4,7 @@
 
 > Sweet lullabies on guitar for little dreamers.
 
-256 songs - 8 hr 41 min
+257 songs - 8 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,6 +27,7 @@
 | [Animal Fair \(Instrumental Version\)](https://open.spotify.com/track/4XcNzENijnf2MnpPMlDOiA) | [Stephen Sullivan](https://open.spotify.com/artist/6OOJlmWt7Wuusrlky0U2la) | [Naptime Music on Peaceful Guitar](https://open.spotify.com/album/6pIgxFtjvDA2OvfEZndBWb) | 3:08 | 2021-11-11 | 2023-04-26 |
 | [Are You Sleeping/Frere Jacques](https://open.spotify.com/track/1YdSSgLpMWZcd19T1FoJVv) | [Tippy Tapp](https://open.spotify.com/artist/3mfGOb7OtunRN7s8MiRczA) | [Are You Sleeping/Frere Jacques](https://open.spotify.com/album/4VjJKT36JKTtQ6fLn1rX77) | 1:19 | 2021-11-11 | 2022-09-23 |
 | [Arrorró mi niño](https://open.spotify.com/track/2evLEM6b40sSXZ5dILCsQb) | [Joaquin Moreno Silva](https://open.spotify.com/artist/5vSCkD7iPcBU0GgEASL4ss) | [Arrorró mi niño](https://open.spotify.com/album/732cnh2czygqCKQtOrBnzI) | 1:48 | 2022-09-22 |  |
+| [Autumn Joy](https://open.spotify.com/track/6N72VsDHQL9QPe2XDY3YaQ) | [Thomas Scheller](https://open.spotify.com/artist/26Dtv4a7haiHQI10e0mDJg) | [Autumn Joy](https://open.spotify.com/album/1997Gm8TX9mrOZWi6At4K8) | 1:41 | 2023-10-20 |  |
 | [Ave Nocturne](https://open.spotify.com/track/28JvPv8QUEE747BM5ujR5B) | [Henrik Janson](https://open.spotify.com/artist/5kIhxGyX6VtcsLk88dwYED) | [Classical Baby Sleep Music](https://open.spotify.com/album/3c9bS2lz06ixypXB49deUz) | 2:49 | 2021-11-11 | 2023-06-16 |
 | [B\-I\-N\-G\-O](https://open.spotify.com/track/08FWkkXnC9Orj3NCVyWtay) | [Dean Dreams](https://open.spotify.com/artist/1TKNjw0zeyr7h15apaCSoN) | [B\-I\-N\-G\-O](https://open.spotify.com/album/2sn7rtgxCRD1PMTcCcSLiN) | 1:50 | 2023-02-17 |  |
 | [Baa Baa Black Sheep](https://open.spotify.com/track/6nj5OQscS6xp5OT0O7sxwn) | [Brown Owl Plays](https://open.spotify.com/artist/44YvYIWPDPNLJaHiHktrJD) | [Lullabies on Solo Acoustic Guitar for Babies and Their Parents](https://open.spotify.com/album/5uXkJiM9uP7nxeiME3AVPe) | 1:21 | 2021-11-11 | 2023-04-26 |
@@ -67,7 +68,7 @@
 | [Diana's Lullaby](https://open.spotify.com/track/37QpHcbzcbvyy7Uk6Y4dTT) | [Maisy Anderson](https://open.spotify.com/artist/1LZ0rsW9h1Aaoh9kJjWUeE) | [Diana's Lullaby](https://open.spotify.com/album/4m2rK0IW4trIi16iEnbZla) | 1:27 | 2023-04-25 |  |
 | [Didn't Leave Nobody But The Baby](https://open.spotify.com/track/0PBh9LFtymLaYnhvd6fe2k) | [Senji Kamal](https://open.spotify.com/artist/06WIFhsuEEEhVPORcRujvv) | [Didn't Leave Nobody But The Baby](https://open.spotify.com/album/2MBM8XF3O3GYRNEVSFd4oF) | 1:35 | 2022-10-14 |  |
 | [Din trygga famn](https://open.spotify.com/track/6JWXQkuARWRDnbW5WpWAjk) | [Thomas Scheller](https://open.spotify.com/artist/26Dtv4a7haiHQI10e0mDJg) | [Din trygga famn](https://open.spotify.com/album/4z1QL53Am7BcLI74DLFT78) | 2:06 | 2022-10-28 |  |
-| [Ding Dong](https://open.spotify.com/track/0hFiTplK7CL6dye0HXiWdA) | [Izakaru](https://open.spotify.com/artist/3EEBU8BY4dEYy9XrzIALCq) | [Ding Dong](https://open.spotify.com/album/53GSVnPKEgXxjgyGNdxj2L) | 2:03 | 2022-10-14 |  |
+| [Ding Dong](https://open.spotify.com/track/0hFiTplK7CL6dye0HXiWdA) | [Izakaru](https://open.spotify.com/artist/3EEBU8BY4dEYy9XrzIALCq) | [Ding Dong](https://open.spotify.com/album/53GSVnPKEgXxjgyGNdxj2L) | 2:03 | 2022-10-14 | 2023-10-20 |
 | [Do Re Mi](https://open.spotify.com/track/03rZlJKeFdFPg8UNYPtyfy) | [Yolanda Merino](https://open.spotify.com/artist/2nfRzxqddLRQtP2kFJOnNT) | [Do Re Mi](https://open.spotify.com/album/0SDkAS2e6XqfnsWkE6440z) | 1:47 | 2023-02-17 |  |
 | [Do You Know How Many Stars There Are?](https://open.spotify.com/track/63uUcdVFFBPHnBOcOxUijY) | [Michael Kolmstetter](https://open.spotify.com/artist/3AZEqZQrbhVYSO254o3y2L) | [Childhood Memories & Lullabies on Guitar](https://open.spotify.com/album/2cGfYsy7PrcUkRVZEgjfV1) | 2:01 | 2021-11-11 | 2023-10-06 |
 | [Doodle Day I Say Hey](https://open.spotify.com/track/2lCbRburWRvoWoJ7ax2hI4) | [Mimi Davies](https://open.spotify.com/artist/1TyyV46EBJAiR2JXpMLFEX) | [Doodle Day I Say Hey](https://open.spotify.com/album/1ksilsIko18Ctjf6iEvfy5) | 3:22 | 2021-11-11 |  |

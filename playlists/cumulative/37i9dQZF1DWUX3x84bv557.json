@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-02-25",
-  "description": "De nieuwste Nederlandse liedjes! Cover: Irene Hin",
+  "description": "De nieuwste Nederlandse liedjes! Cover: Metejoor",
   "name": "Je Moerstaal",
   "tracks": [
     {
@@ -252,6 +252,24 @@
       "duration_ms": 150249,
       "name": "Adem",
       "url": "https://open.spotify.com/track/64sKLLEhUOUrAhnF9FXOb1"
+    },
+    {
+      "album": {
+        "name": "Adem In",
+        "url": "https://open.spotify.com/album/0wNvqstrp3YwZQUIKFivVf"
+      },
+      "artists": [
+        {
+          "name": "Kraantje Pappie",
+          "url": "https://open.spotify.com/artist/5yDkaiPTFbHGWCMXAEBt5Q"
+        }
+      ],
+      "date_added": "2023-10-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144109,
+      "name": "Adem In",
+      "url": "https://open.spotify.com/track/6Kw6oM5xHYE4BZsymijkYG"
     },
     {
       "album": {
@@ -1546,7 +1564,7 @@
       ],
       "date_added": "2023-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-20",
       "duration_ms": 268670,
       "name": "De Geest van de Tijd",
       "url": "https://open.spotify.com/track/4W3RRfsw7rjKeRB9lMPwNF"
@@ -1991,6 +2009,24 @@
     },
     {
       "album": {
+        "name": "Dopamine",
+        "url": "https://open.spotify.com/album/4K5Zge9nkEolGmF0S3OOV9"
+      },
+      "artists": [
+        {
+          "name": "Guusje",
+          "url": "https://open.spotify.com/artist/3JrsxoRQjMCK7UjatNPTGx"
+        }
+      ],
+      "date_added": "2023-10-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174440,
+      "name": "Dopamine",
+      "url": "https://open.spotify.com/track/4rKgglMTWD9srdmmFd3iwS"
+    },
+    {
+      "album": {
         "name": "Down Met Jou",
         "url": "https://open.spotify.com/album/51UpNHvjjcnP1JhF0qj51M"
       },
@@ -2129,6 +2165,24 @@
     },
     {
       "album": {
+        "name": "Een Beetje Meer",
+        "url": "https://open.spotify.com/album/0LjN6nmQuz6bQEHTlFIKfz"
+      },
+      "artists": [
+        {
+          "name": "Shary-An",
+          "url": "https://open.spotify.com/artist/4YJo8C4fQjZXRewIuH6rnc"
+        }
+      ],
+      "date_added": "2023-10-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173425,
+      "name": "Een Beetje Meer",
+      "url": "https://open.spotify.com/track/77UIVVbNb6GW3h0gwwiUeK"
+    },
+    {
+      "album": {
         "name": "Een Chick Als (Jade)",
         "url": "https://open.spotify.com/album/666tEvxOWEPvh65hK7KKVN"
       },
@@ -2144,6 +2198,24 @@
       "duration_ms": 166000,
       "name": "Een Chick Als (Jade)",
       "url": "https://open.spotify.com/track/6YoYAPb0z1TGznmifvmCwm"
+    },
+    {
+      "album": {
+        "name": "Eenzaam Samen",
+        "url": "https://open.spotify.com/album/4WTBwa2BmjQFdFzuPHL2OY"
+      },
+      "artists": [
+        {
+          "name": "DAVE",
+          "url": "https://open.spotify.com/artist/1b8Wn3xSquDw84o7yJI6Jk"
+        }
+      ],
+      "date_added": "2023-10-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183120,
+      "name": "Eenzaam Samen",
+      "url": "https://open.spotify.com/track/5gAwwq5heHnzLpLIIFc4NF"
     },
     {
       "album": {
@@ -3020,7 +3092,7 @@
       ],
       "date_added": "2023-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-20",
       "duration_ms": 154383,
       "name": "Hou Me Los Van Dichtbij",
       "url": "https://open.spotify.com/track/7bG8a7JbcBftmxVtFMyz9Y"
@@ -3234,6 +3306,28 @@
       "duration_ms": 212574,
       "name": "Ik Heb Je Lief",
       "url": "https://open.spotify.com/track/6ZC1ZszuOswTI4yMSiAPT9"
+    },
+    {
+      "album": {
+        "name": "Ik Heb Jou",
+        "url": "https://open.spotify.com/album/0hvRDtidoBVzLAj0d7RfEh"
+      },
+      "artists": [
+        {
+          "name": "Dicecream",
+          "url": "https://open.spotify.com/artist/5Y35hxCbhuDsV4hjRpAa20"
+        },
+        {
+          "name": "Jaap Goud",
+          "url": "https://open.spotify.com/artist/0kY3JTHPCakGx8ydflXOyR"
+        }
+      ],
+      "date_added": "2023-10-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238087,
+      "name": "Ik Heb Jou",
+      "url": "https://open.spotify.com/track/4WdlPFMILpzOGx4LFLVkkC"
     },
     {
       "album": {
@@ -3508,7 +3602,7 @@
       ],
       "date_added": "2023-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-20",
       "duration_ms": 155592,
       "name": "Kasper",
       "url": "https://open.spotify.com/track/1NC2AjrlULPt0W2ZUprK30"
@@ -3526,10 +3620,28 @@
       ],
       "date_added": "2023-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-20",
       "duration_ms": 158769,
       "name": "Keep It Real",
       "url": "https://open.spotify.com/track/29ATYUGisQLeSCphYSB4LL"
+    },
+    {
+      "album": {
+        "name": "Kleine Versie Van Mezelf",
+        "url": "https://open.spotify.com/album/1ThUqYsEZVmnRVHbppBVlD"
+      },
+      "artists": [
+        {
+          "name": "Matz Voskamp",
+          "url": "https://open.spotify.com/artist/6QEKLZaC1LTv9ee9yTR0Hd"
+        }
+      ],
+      "date_added": "2023-10-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177374,
+      "name": "Kleine Versie Van Mezelf",
+      "url": "https://open.spotify.com/track/7rlXVJqu0f1H7YNbda8HfW"
     },
     {
       "album": {
@@ -4444,7 +4556,7 @@
       ],
       "date_added": "2023-08-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-20",
       "duration_ms": 210800,
       "name": "Naar Huis",
       "url": "https://open.spotify.com/track/30JpaNQvqcoyt44nJZFwrk"
@@ -4600,7 +4712,7 @@
       ],
       "date_added": "2023-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-20",
       "duration_ms": 135000,
       "name": "Niet Naar Huis",
       "url": "https://open.spotify.com/track/4ouO2G1LVrl7auDWbrI89h"
@@ -5168,7 +5280,7 @@
       ],
       "date_added": "2023-09-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-20",
       "duration_ms": 156470,
       "name": "Reden",
       "url": "https://open.spotify.com/track/27C4hWKoHD15w2UjiOGxdq"
@@ -5768,6 +5880,24 @@
       "duration_ms": 185712,
       "name": "Thuis Bij Jou",
       "url": "https://open.spotify.com/track/4WnSGN8pi4jqxLoNkBFhBX"
+    },
+    {
+      "album": {
+        "name": "Thuis Thuis",
+        "url": "https://open.spotify.com/album/33rVHZAjT2mWHpJBdVBwyb"
+      },
+      "artists": [
+        {
+          "name": "FAY",
+          "url": "https://open.spotify.com/artist/2rYvyXWazKzVHanTL5GyCE"
+        }
+      ],
+      "date_added": "2023-10-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188835,
+      "name": "Thuis Thuis",
+      "url": "https://open.spotify.com/track/6WHIHaHkbYUCuik1j9KnFP"
     },
     {
       "album": {
@@ -6472,7 +6602,7 @@
       ],
       "date_added": "2023-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-20",
       "duration_ms": 152941,
       "name": "Wat Als Het Lukt",
       "url": "https://open.spotify.com/track/0cyNDPp11HqsUH713X7WCe"
@@ -6592,6 +6722,24 @@
       "duration_ms": 199433,
       "name": "Wat Wil Je Van Mij",
       "url": "https://open.spotify.com/track/1KxRzfQuO8k0dCua9JVRgM"
+    },
+    {
+      "album": {
+        "name": "Waterdicht",
+        "url": "https://open.spotify.com/album/6GCt0ifIwBEcIKoBECBOKo"
+      },
+      "artists": [
+        {
+          "name": "Hannah Mae",
+          "url": "https://open.spotify.com/artist/5oNWzcU0mYK1zDUxBGHIaG"
+        }
+      ],
+      "date_added": "2023-10-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171932,
+      "name": "Waterdicht",
+      "url": "https://open.spotify.com/track/2mCItSCHlUYysNfNk8Fyng"
     },
     {
       "album": {

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-10-01",
-  "description": "The most intense local drill music firing up the continent. Cover:  <a href=\"https://open.spotify.com/artist/0Q7yvULFrthrEzwtn5hRcw?si=tLG-F3cnSCubrrFrRWIHhw\"> Jay Bahd</a>  ",
+  "description": "The most intense local drill music firing up the continent. Cover:  <a href=\"https://open.spotify.com/artist/08gM7TMuG3DTBmWUuH0w8T?si=OM3vTCGWTP-CdTqJ2D1Ing\"> Reggie</a> and  <a href=\"https://open.spotify.com/artist/7zB3I7PBh39rcwg2haB5Ac?si=oWJSpy8iSBmwCO8jeie_tw\"> Kofi Mole</a>  ",
   "name": "Asakaa",
   "tracks": [
     {
@@ -126,6 +126,28 @@
       "duration_ms": 211875,
       "name": "AGYEIWAA",
       "url": "https://open.spotify.com/track/6jiUTqGMy6CeiQtCxIjKKa"
+    },
+    {
+      "album": {
+        "name": "Air Force",
+        "url": "https://open.spotify.com/album/29RYoApzNyBXq1CvWtHR4c"
+      },
+      "artists": [
+        {
+          "name": "reggie",
+          "url": "https://open.spotify.com/artist/08gM7TMuG3DTBmWUuH0w8T"
+        },
+        {
+          "name": "Kofi Mole",
+          "url": "https://open.spotify.com/artist/7zB3I7PBh39rcwg2haB5Ac"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156937,
+      "name": "Air Force",
+      "url": "https://open.spotify.com/track/7AWMmFr7v8bxr7A3YsHlLj"
     },
     {
       "album": {
@@ -2714,7 +2736,7 @@
       ],
       "date_added": "2023-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-20",
       "duration_ms": 182789,
       "name": "We Goofed",
       "url": "https://open.spotify.com/track/1yN9EQOrLJlcAuBx6fCakL"

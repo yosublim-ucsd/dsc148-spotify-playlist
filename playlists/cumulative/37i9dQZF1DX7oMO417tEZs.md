@@ -4,7 +4,7 @@
 
 > new gems by artists carving their own lane\. Cover: Saya Gray
 
-986 songs - 2 day 6 hr 18 min
+987 songs - 2 day 6 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -846,7 +846,8 @@
 | [Telephone Light](https://open.spotify.com/track/1PZuzXgxUGiKjhLqKyPLrQ) | [Casey MQ](https://open.spotify.com/artist/2LCeCCDzbmCOqnV33eB3q8), [Petal Supply](https://open.spotify.com/artist/3QpNnKSjUIIMwFei8h3eOj) | [Telephone Light](https://open.spotify.com/album/6lRVRYtFI3V8VO8hNM9dzw) | 2:36 | 2022-07-01 | 2022-09-10 |
 | [Tell Me](https://open.spotify.com/track/0hUU81fjvfcvaiCCN51oRy) | [James Blake](https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU) | [Playing Robots Into Heaven](https://open.spotify.com/album/2ZwNcWl8h9blysDE8i4juL) | 5:00 | 2023-09-08 |  |
 | [Tellin' U \(Pat Lok Remix\)](https://open.spotify.com/track/7n7STJEnMARv29CtboEV3A) | [Sidibe](https://open.spotify.com/artist/5XWrDs9DhuuC96bXWAS6cj), [Pat Lok](https://open.spotify.com/artist/3ZPRZDAAuBrvx1tsIjeFxh) | [Tellin' U \(Pat Lok Remix\)](https://open.spotify.com/album/3NSIKCS2SCnWp2lCUhlDlu) | 3:27 | 2022-06-03 | 2022-06-25 |
-| [TEQUILA](https://open.spotify.com/track/2h3Pf8SrVoNpy3no4WQlEn) | [COBRAH](https://open.spotify.com/artist/1AHswQqsDNmu1xaE8KpBne) | [SUCCUBUS](https://open.spotify.com/album/5CFxHha8oJfS3RDGbb5YQZ) | 3:03 | 2023-10-13 |  |
+| [TEQUILA](https://open.spotify.com/track/2h3Pf8SrVoNpy3no4WQlEn) | [COBRAH](https://open.spotify.com/artist/1AHswQqsDNmu1xaE8KpBne) | [SUCCUBUS](https://open.spotify.com/album/5CFxHha8oJfS3RDGbb5YQZ) | 3:03 | 2023-10-13 | 2023-10-20 |
+| [TEQUILA](https://open.spotify.com/track/38LKH0Af9y2fdgQLpOr1sS) | [COBRAH](https://open.spotify.com/artist/1AHswQqsDNmu1xaE8KpBne) | [TEQUILA](https://open.spotify.com/album/5g9iR0BMaHokdsxPERf5rB) | 3:03 | 2023-10-13 |  |
 | [Terra](https://open.spotify.com/track/6YuYFcFId4QJSKRJIlQ0Mv) | [SHEBAD](https://open.spotify.com/artist/7ihwoO3fIjCKsTPoEbl7VK) | [Terra](https://open.spotify.com/album/428oCUhlcJu90Riw93VHWV) | 5:51 | 2022-03-25 | 2022-05-28 |
 | [The Bad Ones](https://open.spotify.com/track/0iOaXKUTATIIOqdfIvC8cz) | [Lady Donli](https://open.spotify.com/artist/5joHzVrVQzu41KFBlZQDvG) | [Pan African Rockstar](https://open.spotify.com/album/2kA7NTDqESZM0B7COf3cfh) | 2:05 | 2023-09-22 | 2023-09-30 |
 | [the BLACK seminole.](https://open.spotify.com/track/1rydhdFtKe2CRkiaVb7aGF) | [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw) | [Let’s Start Here.](https://open.spotify.com/album/6Per97deaWqrJlKQNX8RGK) | 6:51 | 2023-02-10 | 2023-08-12 |

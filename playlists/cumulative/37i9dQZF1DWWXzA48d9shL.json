@@ -4480,10 +4480,28 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-20",
       "duration_ms": 121966,
       "name": "HOLD THE MONEY",
       "url": "https://open.spotify.com/track/0IDnmk7esQTYWVbErDdJ7V"
+    },
+    {
+      "album": {
+        "name": "MANIC MAN",
+        "url": "https://open.spotify.com/album/0jqwLKjpjN4ikAbIi7bAHT"
+      },
+      "artists": [
+        {
+          "name": "DIRTYXAN",
+          "url": "https://open.spotify.com/artist/5BEGUGWpPDPKXCgqubqnLB"
+        }
+      ],
+      "date_added": "2023-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121966,
+      "name": "HOLD THE MONEY",
+      "url": "https://open.spotify.com/track/7GIQoV4S6xkko6fNzokflj"
     },
     {
       "album": {
@@ -6580,10 +6598,36 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-20",
       "duration_ms": 141688,
       "name": "MUDD",
       "url": "https://open.spotify.com/track/0MEMJNYVMS7TBNgFzV1aVN"
+    },
+    {
+      "album": {
+        "name": "MUDD",
+        "url": "https://open.spotify.com/album/1E4SvucOCxgyUiH5hU6BTH"
+      },
+      "artists": [
+        {
+          "name": "$werve",
+          "url": "https://open.spotify.com/artist/60vF1fLR6yzLxCQUlnAYYj"
+        },
+        {
+          "name": "Grioten",
+          "url": "https://open.spotify.com/artist/2UM0Qcw48WXGm5kN5hgpqt"
+        },
+        {
+          "name": "Day$okee",
+          "url": "https://open.spotify.com/artist/6aLKPuO7rSHfgRhDkYzfJF"
+        }
+      ],
+      "date_added": "2022-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141688,
+      "name": "MUDD",
+      "url": "https://open.spotify.com/track/5atfVRV16HQZTF8S6IuNWN"
     },
     {
       "album": {

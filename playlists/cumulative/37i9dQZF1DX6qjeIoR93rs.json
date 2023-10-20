@@ -165,6 +165,24 @@
     },
     {
       "album": {
+        "name": "Arabs Say KHOD",
+        "url": "https://open.spotify.com/album/0lMkfXfoeEbE3DUvIFB66s"
+      },
+      "artists": [
+        {
+          "name": "Tamer Nafar",
+          "url": "https://open.spotify.com/artist/4A5OCxQdnfyO73y9Kgoc30"
+        }
+      ],
+      "date_added": "2023-10-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192048,
+      "name": "Arabs Say KHOD",
+      "url": "https://open.spotify.com/track/1olrdm18fB6b45WiYB6TFr"
+    },
+    {
+      "album": {
         "name": "Second Verse",
         "url": "https://open.spotify.com/album/764NsuHgQFNbNEBogZxgY4"
       },
@@ -300,7 +318,7 @@
       ],
       "date_added": "2022-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-20",
       "duration_ms": 166421,
       "name": "Bel7afli",
       "url": "https://open.spotify.com/track/33sM7X3w7bnrjJqdEh8zn9"
@@ -542,6 +560,24 @@
       "duration_ms": 165000,
       "name": "Free Palestine",
       "url": "https://open.spotify.com/track/64q1CGvo0Xy2zcIY3P3Y5N"
+    },
+    {
+      "album": {
+        "name": "From Gaza, With Love",
+        "url": "https://open.spotify.com/album/11w9tokUs0UblHxAGtvND2"
+      },
+      "artists": [
+        {
+          "name": "Saint Levant",
+          "url": "https://open.spotify.com/artist/5ZZsFnpO7frU8h5xH1wtjT"
+        }
+      ],
+      "date_added": "2023-10-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 119747,
+      "name": "From Gaza, With Love",
+      "url": "https://open.spotify.com/track/3TzuOUqhDIS7gkKS4oy37V"
     },
     {
       "album": {
@@ -1308,7 +1344,7 @@
       ],
       "date_added": "2021-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-20",
       "duration_ms": 157800,
       "name": "Room",
       "url": "https://open.spotify.com/track/5u1ZzIFYcbEKhntyrZffO7"

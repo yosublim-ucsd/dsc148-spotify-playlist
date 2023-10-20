@@ -67,7 +67,7 @@ naming collisions when archiving personalized playlists, which have the
 same name for every user. To add an alias, add a single line
 containing the desired name to `playlists/registry/<playlist_id>`.
 
-## Playlists \(6892\)
+## Playlists \(6895\)
 
 - ["Suzume" & Songs from Makoto Shinkai's Movies \(\~2022\)](/playlists/pretty/37i9dQZF1DX0KA2LHWBFpC.md)
 - [\#FlashbackFriday](/playlists/pretty/2dWfCGZguakRQagX7wM6Mi.md)
@@ -204,6 +204,7 @@ containing the desired name to `playlists/registry/<playlist_id>`.
 - [2022 MAMA AWARDS: The Winners](/playlists/pretty/37i9dQZF1DX4OyEPaWHBdk.md)
 - [2022 Top Songs Copy \- made by Elizabeth](/playlists/pretty/7uVQFBe7HHB2LQRMiU1XI9.md)
 - [2023 Dove Awards Nominees](/playlists/pretty/37i9dQZF1DXbuw9ZO9Mfq5.md)
+- [2023 MAMA AWARDS: Worldwide Fans’ Choice Category](/playlists/pretty/37i9dQZF1DX4q2RwtiYXlg.md)
 - [2023 Weverse Con Festival](/playlists/pretty/37i9dQZF1DX7L8tfJz5HGb.md)
 - [2023 グラミー賞受賞作品](/playlists/pretty/37i9dQZF1DX67CQamTl3jY.md)
 - [21st Century Jazz](/playlists/pretty/37i9dQZF1DWTR6lD3pmkqP.md)
@@ -2121,6 +2122,7 @@ containing the desired name to `playlists/registry/<playlist_id>`.
 - [Fuego \#068](/playlists/pretty/37i9dQZF1DWZk0ZIifT5Nf.md)
 - [Fuego \#070](/playlists/pretty/37i9dQZF1DWTKyrpvG2Kdx.md)
 - [Fuego \#072 \- Saiko's Mixtape](/playlists/pretty/37i9dQZF1DX1QYk4eMLrC8.md)
+- [Fuego \#073 \- Ronald Acuña Jr.'s Mixtape](/playlists/pretty/37i9dQZF1DWWnwM5ZuDrb9.md)
 - [Fuego \- \#059 Sofia Bella's Mixtape](/playlists/pretty/37i9dQZF1DWW9fd5h9dO0R.md)
 - [Full Volume](/playlists/pretty/37i9dQZF1DWUv0cTKdT8jJ.md)
 - [Fun Run](/playlists/pretty/37i9dQZF1DXadOVCgGhS7j.md)
@@ -3206,6 +3208,7 @@ containing the desired name to `playlists/registry/<playlist_id>`.
 - [Mariana BO DJ Mix](/playlists/pretty/37i9dQZF1DX3fGCinqxSq6.md)
 - [Marie \- Sassy](/playlists/pretty/423y0vzm6cfn0Q1o3JBUDR.md)
 - [Marimba](/playlists/pretty/37i9dQZF1DX2tS0v7814se.md)
+- [Mario Bautista + Juan Gabriel](/playlists/pretty/37i9dQZF1DWW5agXJE7NOO.md)
 - [Mark Knight's DJ Mix](/playlists/pretty/37i9dQZF1DWUbKXPE8a2j2.md)
 - [Maroc Hits](/playlists/pretty/37i9dQZF1DX4NdDHVFmygr.md)
 - [Marsh DJ Mix](/playlists/pretty/37i9dQZF1DX5tKil5zHktA.md)
@@ -3744,7 +3747,7 @@ containing the desired name to `playlists/registry/<playlist_id>`.
 - [Panty & Stocking with Garterbelt  \-パンティ＆ストッキングwithガーターベルト\-](/playlists/pretty/37i9dQZF1DWZemQW6Onupx.md)
 - [Para Andar Agushto Papa](/playlists/pretty/37i9dQZF1DWT95n8rWIyjK.md)
 - [Para Enamorados](/playlists/pretty/37i9dQZF1DXa1S1d38suSz.md)
-- [ParadoxLive \-パラライ\-](/playlists/pretty/37i9dQZF1DWY3izH056ADq.md)
+- [Paradox Live \-パラライ\-](/playlists/pretty/37i9dQZF1DWY3izH056ADq.md)
 - [Parchadito](/playlists/pretty/37i9dQZF1DX56TFraF4fNu.md)
 - [Park Hangs](/playlists/pretty/37i9dQZF1DWSP55jZj2ES3.md)
 - [Parterre Paradise](/playlists/pretty/37i9dQZF1DXcHuf9Jbw0pv.md)
@@ -3906,6 +3909,7 @@ containing the desired name to `playlists/registry/<playlist_id>`.
 - [Power Workout](/playlists/pretty/37i9dQZF1DWUVpAXiEPK8P.md)
 - [Powerwalk!](/playlists/pretty/37i9dQZF1DX9BXb6GsGCLl.md)
 - [Praiana](/playlists/pretty/37i9dQZF1DX1AjDRHleN7v.md)
+- [Praise and Chill](/playlists/pretty/37i9dQZF1DWZRdj6RqDDMm.md)
 - [Praise and Worship](/playlists/pretty/37i9dQZF1DX8091X7wyurB.md)
 - [Pregame](/playlists/pretty/37i9dQZF1DX0u6E5bcKUrV.md)
 - [Pregnancy Yoga](/playlists/pretty/37i9dQZF1DX0kWFWFtanIn.md)
@@ -3985,7 +3989,6 @@ containing the desired name to `playlists/registry/<playlist_id>`.
 - [Quiet Hours](/playlists/pretty/37i9dQZF1DWVTkoPB1rnwz.md)
 - [Quiet Moment](/playlists/pretty/37i9dQZF1DX7KrTMVQnM02.md)
 - [Quiet Time](/playlists/pretty/37i9dQZF1DWVy2Fygel8HO.md)
-- [Quinceañera](/playlists/pretty/37i9dQZF1DWW5agXJE7NOO.md)
 - [Quinta Brunson's Taste](/playlists/pretty/37i9dQZF1DWTeh1F2FOPPN.md)
 - [Quintino's DJ Mix](/playlists/pretty/37i9dQZF1DXcLtS1nYvdS4.md)
 - [Quirktronica](/playlists/pretty/37i9dQZF1DWWQF5U0yJuLv.md)

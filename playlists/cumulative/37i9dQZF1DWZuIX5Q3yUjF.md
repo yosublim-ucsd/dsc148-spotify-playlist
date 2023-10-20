@@ -2,9 +2,9 @@
 
 ### [anima R&B](https://open.spotify.com/playlist/37i9dQZF1DWZuIX5Q3yUjF)
 
-> Il meglio dell'R&B italiano\. Cover: Shadaloo
+> Il meglio dell'R&B italiano\. Cover: Queen of Saba
 
-397 songs - 19 hr 37 min
+399 songs - 19 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -178,6 +178,7 @@
 | [Katábasis](https://open.spotify.com/track/4oB1ITrhWrneUtt96y7eVZ) | [Livrea](https://open.spotify.com/artist/64fhIeqXVHuWtTrmoT8HG0) | [Katábasis](https://open.spotify.com/album/0pS2dH0gx79Nw8z2BbJGZD) | 3:38 | 2022-11-17 | 2023-02-03 |
 | [Kelly](https://open.spotify.com/track/0J5rO7iKSFzzYfBLd0Xu86) | [Martina May](https://open.spotify.com/artist/1nEZxArpiNayoK02nNzJxR) | [L'R&B IN ITALIA NON ESISTE](https://open.spotify.com/album/41IqmB0uShPRiNVsYyOmbg) | 2:44 | 2022-11-24 | 2023-03-10 |
 | [Killer](https://open.spotify.com/track/5YFa84aeqziBwADCiX2i73) | [Evra](https://open.spotify.com/artist/2hwsMAV2ekfrmlkwmM8Blb), [Tuasorellaminore](https://open.spotify.com/artist/5XDbbJ70a1pfPPo4GRWceT) | [Killer](https://open.spotify.com/album/0j5ORtEDEXa4btbGSngtst) | 2:55 | 2022-07-07 | 2022-09-30 |
+| [Koala](https://open.spotify.com/track/3dvc2alQsbI9yOJgHCgGaD) | [Angela Iris](https://open.spotify.com/artist/7o1XRDbnk24xbZOvVNbn1C), [Harley](https://open.spotify.com/artist/73VBdYikibq60OH9xmoA8F), [Obi](https://open.spotify.com/artist/397C43QkYq9EVsZCkhh84L) | [Koala](https://open.spotify.com/album/16n5szWljslh8FIDKOg6zB) | 3:00 | 2023-10-19 |  |
 | [Ku](https://open.spotify.com/track/35Lf2OYrSXe4Dquhd87Djh) | [LNDFK](https://open.spotify.com/artist/2PyFLSnE2J670nBHdmwil4) | [Kuni](https://open.spotify.com/album/40dfgXsb0aemwlP10pfGCx) | 4:35 | 2022-07-28 | 2022-12-02 |
 | [Ku](https://open.spotify.com/track/40I9VS4TKqDHjd4wyFHw2Y) | [LNDFK](https://open.spotify.com/artist/2PyFLSnE2J670nBHdmwil4) | [Ku](https://open.spotify.com/album/4nGcz59HrKCQHjvJVrkwaH) | 4:35 | 2022-05-05 | 2022-07-29 |
 | [l'alba che tornerai](https://open.spotify.com/track/3RYvA40J85jtXgQOs7yYcN) | [Evra](https://open.spotify.com/artist/2hwsMAV2ekfrmlkwmM8Blb) | [l'alba che tornerai](https://open.spotify.com/album/4xQYDLZ35IlVXDjRikQer8) | 2:40 | 2023-01-12 | 2023-02-24 |
@@ -185,6 +186,7 @@
 | [L'R&B in Italia non esiste \(Interlude\)](https://open.spotify.com/track/5haGMsywnKV4e2FqsYjoKH) | [Martina May](https://open.spotify.com/artist/1nEZxArpiNayoK02nNzJxR) | [L'R&B IN ITALIA NON ESISTE](https://open.spotify.com/album/41IqmB0uShPRiNVsYyOmbg) | 2:23 | 2022-11-24 |  |
 | [L'ULTIMA CANZONE \(feat\. Giorgia\)](https://open.spotify.com/track/74zkabIZ8moMuJUuxTQcCR) | [Geolier](https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s), [Giorgia](https://open.spotify.com/artist/0gm1lHoOXAdy5OB4AwFYRr) | [IL CORAGGIO DEI BAMBINI \- ATTO II](https://open.spotify.com/album/0aGXQkS5LTFhYswwXJ8vJ6) | 3:22 | 2023-04-06 |  |
 | [l'ultima volta](https://open.spotify.com/track/1esjxDsgrkrBXGhpcMfc64) | [Elea](https://open.spotify.com/artist/4zTIQEV02QCXtgDd9XFvz3) | [l'ultima volta](https://open.spotify.com/album/3mh8M69DP6zlcAWUQNlMFn) | 2:38 | 2022-06-23 | 2022-11-11 |
+| [LA NIGHT](https://open.spotify.com/track/08o3UYTWcQZZo5o7ygl4OE) | [Florence](https://open.spotify.com/artist/5qyGTDa4a3jH5cGdH6G9M6), [dNoise](https://open.spotify.com/artist/410eOpymx2am8CnIi1TfRe) | [LA NIGHT](https://open.spotify.com/album/1QJ2j9bJkmlLrgs3LUAC34) | 2:20 | 2023-10-19 |  |
 | [La più bella](https://open.spotify.com/track/6mBrMo2CUoou15ZRqJpmI3) | [Mecna](https://open.spotify.com/artist/4yUvIAm9mSJyLt1WLrOxAZ), [CoCo](https://open.spotify.com/artist/5FEh6KHK99CyLXp3qFvZFM) | [La più bella](https://open.spotify.com/album/21XWxQ4WH8wyDoKb8rGP3Z) | 3:21 | 2022-05-05 | 2022-09-09 |
 | [La Ruota](https://open.spotify.com/track/07QINcI3c3RB3RKEDleJ1e) | [OIDA](https://open.spotify.com/artist/4P0X1UyVaHhoe2lCHKQRef) | [La Ruota](https://open.spotify.com/album/2gC0l4h2w09SRuQHUeDvnG) | 3:24 | 2022-06-09 | 2022-07-29 |
 | [LA TIGRE \(feat\. GELO\)](https://open.spotify.com/track/1WOcVg5uTpw0KdmY3yO2lI) | [Matteo Paolillo \- Icaro](https://open.spotify.com/artist/1bzx15Bv1ioIaewP85ad5J), [Lolloflow](https://open.spotify.com/artist/6od7hFnrVLa1zCuSyQimic), [GELO](https://open.spotify.com/artist/7s4IAtCfcA31LaTyEHUfjn) | [COME TE](https://open.spotify.com/album/5JitUbks61rKLb3lkg7SPZ) | 2:39 | 2023-05-18 | 2023-06-09 |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-02-03",
-  "description": "Indie, Pop und Rap mit deutschen Texten. Cover: Paula Hartmann",
+  "description": "Indie, Pop und Rap mit deutschen Texten. Cover: MilleniumKid, JBS",
   "name": "Wilde Herzen",
   "tracks": [
     {
@@ -670,6 +670,24 @@
       "duration_ms": 101106,
       "name": "AUS MEIN KOPF",
       "url": "https://open.spotify.com/track/5n76Jo6GkhtVVOWRISWqRr"
+    },
+    {
+      "album": {
+        "name": "aus meiner haut",
+        "url": "https://open.spotify.com/album/6h9M1nIcNDsRo62ozYGvUi"
+      },
+      "artists": [
+        {
+          "name": "Trille",
+          "url": "https://open.spotify.com/artist/7z7UeKh2Y7m3DLpVs0458h"
+        }
+      ],
+      "date_added": "2023-10-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208212,
+      "name": "aus meiner haut",
+      "url": "https://open.spotify.com/track/6jox6CN7tl8zzbacsgGczq"
     },
     {
       "album": {
@@ -1388,7 +1406,7 @@
       ],
       "date_added": "2023-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-20",
       "duration_ms": 174706,
       "name": "dein name",
       "url": "https://open.spotify.com/track/5GKQVFXPjvmCrDJ89TbZRo"
@@ -1767,6 +1785,24 @@
     },
     {
       "album": {
+        "name": "egal",
+        "url": "https://open.spotify.com/album/2GL4mUcEoAN3bwbaURkSRR"
+      },
+      "artists": [
+        {
+          "name": "falcke",
+          "url": "https://open.spotify.com/artist/2mnJSF6QbV1jn2QB4QARuf"
+        }
+      ],
+      "date_added": "2023-10-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169948,
+      "name": "egal",
+      "url": "https://open.spotify.com/track/70VQ7qsKBUhzWgRhQUcc3X"
+    },
+    {
+      "album": {
         "name": "Egal (was passiert)",
         "url": "https://open.spotify.com/album/4mNn1ZVQzxRhOQjFav5rMe"
       },
@@ -1814,7 +1850,7 @@
       ],
       "date_added": "2023-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-20",
       "duration_ms": 155773,
       "name": "Ein Anruf entfernt",
       "url": "https://open.spotify.com/track/3Xqqsi0zw6p3eYkKzzzag0"
@@ -2756,7 +2792,7 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-20",
       "duration_ms": 207217,
       "name": "Goldmund",
       "url": "https://open.spotify.com/track/5cGHrM4cc540PHUrOCJ4If"
@@ -3020,7 +3056,7 @@
       ],
       "date_added": "2023-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-20",
       "duration_ms": 152881,
       "name": "Himmelblau",
       "url": "https://open.spotify.com/track/2OF4X1tXz8ktEwwRXyQPJh"
@@ -3424,7 +3460,7 @@
       ],
       "date_added": "2023-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-20",
       "duration_ms": 189858,
       "name": "Irgendwo im Nirgendwo",
       "url": "https://open.spotify.com/track/2NJFMUUAOFj9V0uvEOzltu"
@@ -3638,6 +3674,24 @@
       "duration_ms": 191632,
       "name": "Kaviar in Dubai",
       "url": "https://open.spotify.com/track/4aDiJIDqubp3vguy9sIEz3"
+    },
+    {
+      "album": {
+        "name": "Kein Bock",
+        "url": "https://open.spotify.com/album/343ldWBHF7KtOJgDg4JnEc"
+      },
+      "artists": [
+        {
+          "name": "Paula Carolina",
+          "url": "https://open.spotify.com/artist/2j7Kbyq2wgLpC4tkfcixQZ"
+        }
+      ],
+      "date_added": "2023-10-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164550,
+      "name": "Kein Bock",
+      "url": "https://open.spotify.com/track/3WjaL0f86f9rS3VYTC8x49"
     },
     {
       "album": {
@@ -3991,24 +4045,20 @@
     },
     {
       "album": {
-        "name": "Laut Denken (feat. Levin Liam)",
+        "name": "Laut Denken",
         "url": "https://open.spotify.com/album/2TcpdBpjdbvCeeIAfFR783"
       },
       "artists": [
         {
           "name": "Flavio",
           "url": "https://open.spotify.com/artist/6TBB2wdiwVBJYCdaRhOErs"
-        },
-        {
-          "name": "Levin Liam",
-          "url": "https://open.spotify.com/artist/7qMDCTsnaGWM9h8rqTnk0q"
         }
       ],
       "date_added": "2023-09-14",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 137973,
-      "name": "Laut Denken (feat. Levin Liam)",
+      "name": "Laut Denken",
       "url": "https://open.spotify.com/track/0ByVX07lcLowwxoSOEeMGo"
     },
     {
@@ -4524,7 +4574,7 @@
       ],
       "date_added": "2023-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-20",
       "duration_ms": 163555,
       "name": "Moment",
       "url": "https://open.spotify.com/track/79uciSS2z1jLXt9Pz4K7tQ"
@@ -4962,6 +5012,24 @@
       "duration_ms": 265226,
       "name": "Orchideen",
       "url": "https://open.spotify.com/track/7gE1mJE9YhhuMKA9m2I2ot"
+    },
+    {
+      "album": {
+        "name": "Ostberlin",
+        "url": "https://open.spotify.com/album/6USNhwFlCTbCw2nXNwdila"
+      },
+      "artists": [
+        {
+          "name": "JUPYTER",
+          "url": "https://open.spotify.com/artist/4rmUcQqtKz1NLA2f23W041"
+        }
+      ],
+      "date_added": "2023-10-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202502,
+      "name": "Ostberlin",
+      "url": "https://open.spotify.com/track/1gXhckm6aRXlfiGVhtVoIf"
     },
     {
       "album": {
@@ -5432,7 +5500,7 @@
       ],
       "date_added": "2023-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-20",
       "duration_ms": 136880,
       "name": "rosa rugosa",
       "url": "https://open.spotify.com/track/6JbEv82gvOqbjEMJs24MiF"
@@ -5985,6 +6053,24 @@
     },
     {
       "album": {
+        "name": "F*CK you",
+        "url": "https://open.spotify.com/album/2qvrRdgLyWmYEevD9FH7mH"
+      },
+      "artists": [
+        {
+          "name": "Dominik Hartz",
+          "url": "https://open.spotify.com/artist/5UkjZuL8QQccOXbUWoREdI"
+        }
+      ],
+      "date_added": "2023-10-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141333,
+      "name": "SOLANGE DAS NOCH GEHT",
+      "url": "https://open.spotify.com/track/0zDRwSwqTdKzFjq8L9VxgC"
+    },
+    {
+      "album": {
         "name": "sommer (feat. CRO)",
         "url": "https://open.spotify.com/album/4UK5FLZLXuCFJwtNZg8l8L"
       },
@@ -6489,6 +6575,24 @@
     },
     {
       "album": {
+        "name": "tisch f\u00fcr zwei",
+        "url": "https://open.spotify.com/album/5iBIHBdTsKFtxsxZYNRaQg"
+      },
+      "artists": [
+        {
+          "name": "Blumengarten",
+          "url": "https://open.spotify.com/artist/5j3YjOV8eusoDutC6yPjhS"
+        }
+      ],
+      "date_added": "2023-10-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174418,
+      "name": "tisch f\u00fcr zwei",
+      "url": "https://open.spotify.com/track/3YcKmJbc2OvL9RN2c6LJal"
+    },
+    {
+      "album": {
         "name": "Titanic",
         "url": "https://open.spotify.com/album/1nGSeIbETSziWxhPQVNisu"
       },
@@ -6848,6 +6952,28 @@
       "duration_ms": 141176,
       "name": "vielleicht in einem jahr",
       "url": "https://open.spotify.com/track/7AcPEULNvoFNKyN3tQjkD5"
+    },
+    {
+      "album": {
+        "name": "Vielleicht Vielleicht",
+        "url": "https://open.spotify.com/album/3xunU89Mwwaw3gbwwLg0BX"
+      },
+      "artists": [
+        {
+          "name": "MilleniumKid",
+          "url": "https://open.spotify.com/artist/6nJEMDVNcq7fduXgk7EdGG"
+        },
+        {
+          "name": "JBS",
+          "url": "https://open.spotify.com/artist/6l8dHVPkuEFzpQjhCH4xXT"
+        }
+      ],
+      "date_added": "2023-10-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142598,
+      "name": "Vielleicht Vielleicht",
+      "url": "https://open.spotify.com/track/559mLg44MrcA7JzYGbpXfL"
     },
     {
       "album": {

@@ -599,6 +599,24 @@
     },
     {
       "album": {
+        "name": "Autumn Joy",
+        "url": "https://open.spotify.com/album/1997Gm8TX9mrOZWi6At4K8"
+      },
+      "artists": [
+        {
+          "name": "Thomas Scheller",
+          "url": "https://open.spotify.com/artist/26Dtv4a7haiHQI10e0mDJg"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 101106,
+      "name": "Autumn Joy",
+      "url": "https://open.spotify.com/track/6N72VsDHQL9QPe2XDY3YaQ"
+    },
+    {
+      "album": {
         "name": "Classical Baby Sleep Music",
         "url": "https://open.spotify.com/album/3c9bS2lz06ixypXB49deUz"
       },

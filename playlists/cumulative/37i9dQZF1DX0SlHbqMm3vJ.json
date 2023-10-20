@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "A collection R&B and Afropop cuts from West Africa\u2019s finest artists. Cover: Boj & Ajebutter22",
+  "description": "A collection R&B and Afropop cuts from West Africa\u2019s finest artists. Cover: Mayorkun",
   "name": "Ginger Me",
   "tracks": [
     {
@@ -2193,6 +2193,32 @@
     },
     {
       "album": {
+        "name": "Feels Like Home (Mixtape Vol.1)",
+        "url": "https://open.spotify.com/album/6iplwWv18qHohOXMh4Leff"
+      },
+      "artists": [
+        {
+          "name": "Seyi Shay",
+          "url": "https://open.spotify.com/artist/0WgwOS7j1CB5tIRa4QM50K"
+        },
+        {
+          "name": "Migz",
+          "url": "https://open.spotify.com/artist/2ofat3YqNTinjd9GPgl7lV"
+        },
+        {
+          "name": "Ariel",
+          "url": "https://open.spotify.com/artist/5sZBnbApV6GuQTOPx8xTD7"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194057,
+      "name": "Doing Me",
+      "url": "https://open.spotify.com/track/4optsmphrYWvFh027612MA"
+    },
+    {
+      "album": {
         "name": "Don't Lie/See It Through - A COLORS SHOW",
         "url": "https://open.spotify.com/album/34hzV4C7eRph8hagPfplsS"
       },
@@ -2980,6 +3006,24 @@
       "duration_ms": 159124,
       "name": "For My Hand (feat. Ed Sheeran)",
       "url": "https://open.spotify.com/track/4N7AXHRMQYh9GHQd5hE6NP"
+    },
+    {
+      "album": {
+        "name": "For You",
+        "url": "https://open.spotify.com/album/4VnRF5HOae0tK7It1e8AeE"
+      },
+      "artists": [
+        {
+          "name": "Elevated",
+          "url": "https://open.spotify.com/artist/5CrY5YQGk93PB7K1nNcM0q"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168712,
+      "name": "For You",
+      "url": "https://open.spotify.com/track/7kwvdtVviGrOFVnxYvxgWa"
     },
     {
       "album": {
@@ -4549,6 +4593,28 @@
     },
     {
       "album": {
+        "name": "Love.. For Free",
+        "url": "https://open.spotify.com/album/67d06FDN55b7vN6vaqKpiE"
+      },
+      "artists": [
+        {
+          "name": "Mayorkun",
+          "url": "https://open.spotify.com/artist/3DNCUaKdMZcMVJIS7yTskd"
+        },
+        {
+          "name": "Blxckie",
+          "url": "https://open.spotify.com/artist/4pQcWzOMSmmz5DK6TqO2FL"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178000,
+      "name": "Lose Control (feat. Blxckie)",
+      "url": "https://open.spotify.com/track/57NBD4H4CIFw5sdOuci0UB"
+    },
+    {
+      "album": {
         "name": "Body & Soul",
         "url": "https://open.spotify.com/album/1TGcgugu0CxUp5rhS7SyCW"
       },
@@ -4626,7 +4692,7 @@
       ],
       "date_added": "2022-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-20",
       "duration_ms": 147600,
       "name": "Love Don't Cost A Dime (Re-Up)",
       "url": "https://open.spotify.com/track/0hW02S9ACVYANz1ica10jH"
@@ -7266,7 +7332,7 @@
       ],
       "date_added": "2023-05-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-20",
       "duration_ms": 157722,
       "name": "Someone",
       "url": "https://open.spotify.com/track/7mJuTUAyp8EWh15UEoP8a8"
@@ -8260,7 +8326,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-20",
       "duration_ms": 174545,
       "name": "understand",
       "url": "https://open.spotify.com/track/6oOCGD2Sp9UTcDsuDz8Hdu"

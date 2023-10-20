@@ -4,7 +4,7 @@
 
 > Découvrez les meilleures nouveautés francophones\. Photo: Clodelle
 
-2,107 songs - 4 day 16 hr 30 min
+2,108 songs - 4 day 16 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1149,6 +1149,7 @@
 | [Lettre à mon ex](https://open.spotify.com/track/1PuggGQo0QwgudXOXPAuy5) | [KIKESA](https://open.spotify.com/artist/3U0pUvFUMv6gJiTFnXiueY) | [Lettre à mon ex](https://open.spotify.com/album/0bfuXUDgRkynuuaqjNRl7B) | 3:31 | 2022-02-18 | 2022-03-05 |
 | [LFQB](https://open.spotify.com/track/4kw4akPXc0aMJJIklnSc3B) | [Shotto Guapo](https://open.spotify.com/artist/5Gk8TXAgkY02R4PPtVrhvC) | [LFQB](https://open.spotify.com/album/6SrTR3iGnL2NUpjAKcP9Vc) | 2:38 | 2022-08-12 | 2022-08-27 |
 | [Li bwè](https://open.spotify.com/track/3TpTe5VLoxZOMdf1CRulm8) | [Willows](https://open.spotify.com/artist/0UNhcjtUIMb5u5v6niKshW) | [Li bwè](https://open.spotify.com/album/63LGM4e8OiMyH1VaCMiNzE) | 3:12 | 2023-01-20 | 2023-01-28 |
+| [Liberta](https://open.spotify.com/track/69lKtGrjuqYypkYHm6H2WY) | [DTF](https://open.spotify.com/artist/37ioGUZGhKk7VjWIocx8kM) | [Liberta](https://open.spotify.com/album/4ezzeRj05jnLrRqunm6qJn) | 2:28 | 2023-10-13 |  |
 | [Libre](https://open.spotify.com/track/5h9OvsTeNydBaZp7swQubV) | [Angèle](https://open.spotify.com/artist/3QVolfxko2UyCOtexhVTli) | [Nonante\-Cinq](https://open.spotify.com/album/3I756vFQ1PWvG2Q2jJsIkA) | 2:44 | 2021-12-31 | 2022-01-15 |
 | [Libre](https://open.spotify.com/track/6nc69Bx3qktJdCL9f0UlPn) | [Eli Rose](https://open.spotify.com/artist/6RBs2gBQlEgSAITbC9wB6h) | [Libre](https://open.spotify.com/album/2ojAwZApJXaaZXW5hgrf7c) | 2:28 | 2023-07-28 | 2023-08-12 |
 | [Libre](https://open.spotify.com/track/30VLQvNhylxnwSPWBXTt46) | [OneNessa](https://open.spotify.com/artist/72oaCcX2X3nBhyhZGEjnFK) | [Équinoxes](https://open.spotify.com/album/1IrhsqLBXAhTGhh1DYmw2E) | 2:46 | 2022-10-28 | 2022-11-12 |
@@ -2076,7 +2077,7 @@
 | [À deux \- Extrait de la Bande Originale du film « Les Déguns 2 »](https://open.spotify.com/track/2lTsd9ofFTLuOPj07J00aq) | [RK](https://open.spotify.com/artist/2s7fZ34RK8RUJQ2ewsh6I5) | [À deux \(Extrait de la Bande Originale du film « Les Déguns 2 »\)](https://open.spotify.com/album/0lccVcAosJkypnQzpJc96K) | 2:50 | 2023-08-11 | 2023-10-14 |
 | [À hauteur d'homme \- Live](https://open.spotify.com/track/4cdpUgva88X0YhKQo7nfu1) | [Vincent Vallières](https://open.spotify.com/artist/2iG6QPoQAVjR93cWyMKqen) | [L'entends\-tu encore, Vallières? \(le spectacle intégral / Live\)](https://open.spotify.com/album/6xPHbBQOt3OHsJCYdEwHYn) | 3:50 | 2022-11-11 | 2022-11-26 |
 | [À l'aube](https://open.spotify.com/track/6TCqAnjf9GpTIeGIthLZg0) | [Soso Maness](https://open.spotify.com/artist/0oeiA5U9u1U45Gos5cywUU), [Dinos](https://open.spotify.com/artist/1QPdp5duV6lV4XINCzjwQ2) | [À l'aube](https://open.spotify.com/album/6tNyzj2OVtD3W4rVoNFA0I) | 3:03 | 2022-05-13 | 2022-05-20 |
-| [À l'inverse](https://open.spotify.com/track/4ljLseBCdBixUTd56quaVZ) | [Nuit Incolore](https://open.spotify.com/artist/2oOAiE62UgqjCEWTHPdn0F) | [À l'inverse](https://open.spotify.com/album/7uGFdMiWN1Mdk4tmwKSrnX) | 2:55 | 2023-09-08 |  |
+| [À l'inverse](https://open.spotify.com/track/4ljLseBCdBixUTd56quaVZ) | [Nuit Incolore](https://open.spotify.com/artist/2oOAiE62UgqjCEWTHPdn0F) | [À l'inverse](https://open.spotify.com/album/7uGFdMiWN1Mdk4tmwKSrnX) | 2:55 | 2023-09-08 | 2023-10-20 |
 | [À la danse](https://open.spotify.com/track/5hv4VnqMXXi4xD1dfOfigp) | [Émilie Landry](https://open.spotify.com/artist/09wVe7ulMAlyVMZpKEI5ar) | [À la danse](https://open.spotify.com/album/7AMrml4ZxzpDudV4IDEiis) | 3:26 | 2022-07-01 | 2022-07-16 |
 | [À la maison](https://open.spotify.com/track/262iZhl0uou39JD0irMRdX) | [Pièce sur Pièce](https://open.spotify.com/artist/3qYKJEdlcaY29kCX0ADiUU) | [EP3](https://open.spotify.com/album/2YtgCxAn3lAwBOidRQ8lDe) | 4:42 | 2022-02-04 | 2022-02-12 |
 | [À la rencontre de Barbara \(feat\. Standard Emmanuel\)](https://open.spotify.com/track/0xDNmS1FLbONayk21JM7NT) | [Le Couleur](https://open.spotify.com/artist/0ChUTSO3tfQSVKMOpWkCJy), [Standard Emmanuel](https://open.spotify.com/artist/03eMkqsGXAfGVyH9DvbO7D) | [À la rencontre de Barbara \(feat\. Standard Emmanuel\)](https://open.spotify.com/album/6HxlVrZdTIK2KXSJ5GhIw4) | 5:33 | 2023-08-18 | 2023-08-26 |

@@ -16,7 +16,7 @@
       ],
       "date_added": "2022-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-20",
       "duration_ms": 335693,
       "name": "A Sixth Trumpet",
       "url": "https://open.spotify.com/track/0kqR9yoySq4IQSvEql8h4L"
@@ -52,7 +52,7 @@
       ],
       "date_added": "2020-10-20",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2023-10-20",
       "duration_ms": 233760,
       "name": "Above The Clouds Lies Eternal Sun",
       "url": "https://open.spotify.com/track/0WCvBujFldzGsAimcyjchH"
@@ -160,7 +160,7 @@
       ],
       "date_added": "2023-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-20",
       "duration_ms": 301022,
       "name": "Bloom",
       "url": "https://open.spotify.com/track/4AKNkgtTweGqn1GNffqSnw"
@@ -196,10 +196,28 @@
       ],
       "date_added": "2022-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-20",
       "duration_ms": 617897,
       "name": "Ce que r\u00e9v\u00e8le l'\u00e9clipse",
       "url": "https://open.spotify.com/track/32ALgQvmpOXfIIPMRDBXG9"
+    },
+    {
+      "album": {
+        "name": "Children",
+        "url": "https://open.spotify.com/album/54HUczZ6IE8t8rrDuhWLaE"
+      },
+      "artists": [
+        {
+          "name": "sleepmakeswaves",
+          "url": "https://open.spotify.com/artist/0EnDtiDrCgklr97QMJOSPv"
+        }
+      ],
+      "date_added": "2023-10-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274500,
+      "name": "Children",
+      "url": "https://open.spotify.com/track/6lgUuPNqAPnihWXs66mRVP"
     },
     {
       "album": {
@@ -286,7 +304,7 @@
       ],
       "date_added": "2022-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-20",
       "duration_ms": 441293,
       "name": "Debutante",
       "url": "https://open.spotify.com/track/0jpggEnuQFHj3uJIthfCQS"
@@ -358,7 +376,7 @@
       ],
       "date_added": "2023-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-20",
       "duration_ms": 291460,
       "name": "End Credits",
       "url": "https://open.spotify.com/track/421LXKD20JHZEUrJJqK7cg"
@@ -820,7 +838,7 @@
       ],
       "date_added": "2021-10-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-20",
       "duration_ms": 270032,
       "name": "Jelen",
       "url": "https://open.spotify.com/track/4SAEAnTnKSad9UoPFtq0v2"
@@ -892,7 +910,7 @@
       ],
       "date_added": "2022-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-20",
       "duration_ms": 397653,
       "name": "Logic of a Dream",
       "url": "https://open.spotify.com/track/1WQ96gvJgsd3CwxMPEUZYC"
@@ -914,6 +932,24 @@
       "duration_ms": 397653,
       "name": "Logic Of A Dream",
       "url": "https://open.spotify.com/track/4pp3ilXwxKvWRsDSm3Ld8K"
+    },
+    {
+      "album": {
+        "name": "Love in the Void",
+        "url": "https://open.spotify.com/album/1zlinQtrWot4RrBtxB4UTX"
+      },
+      "artists": [
+        {
+          "name": "Hammock",
+          "url": "https://open.spotify.com/artist/0VOR7Ie9xUSb45fzIIVJQ1"
+        }
+      ],
+      "date_added": "2023-10-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 303697,
+      "name": "Love in the Void",
+      "url": "https://open.spotify.com/track/6pta8oSJZZ8ypEgAN3zeNY"
     },
     {
       "album": {
@@ -968,7 +1004,7 @@
       ],
       "date_added": "2023-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-20",
       "duration_ms": 979560,
       "name": "Mogwai Fear Satan",
       "url": "https://open.spotify.com/track/0fvUM4C6KiRGfXEcUeNZXZ"
@@ -1094,7 +1130,7 @@
       ],
       "date_added": "2022-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-20",
       "duration_ms": 415386,
       "name": "Pat Stains",
       "url": "https://open.spotify.com/track/6AUEBEvvQcwptYx6AeAQ1s"
@@ -1389,6 +1425,24 @@
     },
     {
       "album": {
+        "name": "The Letters We'll Never Send",
+        "url": "https://open.spotify.com/album/1X72RQSH32yVaSlTvrIlsL"
+      },
+      "artists": [
+        {
+          "name": "Break My Fucking Sky",
+          "url": "https://open.spotify.com/artist/3mFTiX7WrhpcmoJLghp54A"
+        }
+      ],
+      "date_added": "2023-10-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 410935,
+      "name": "The Letters We'll Never Send",
+      "url": "https://open.spotify.com/track/4HrZYWhVwy6oOzn5BUPjIv"
+    },
+    {
+      "album": {
         "name": "The Longest Journey",
         "url": "https://open.spotify.com/album/7AckSB2G0cAqKMHjhlRCuy"
       },
@@ -1400,7 +1454,7 @@
       ],
       "date_added": "2021-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-20",
       "duration_ms": 280318,
       "name": "The Longest Journey",
       "url": "https://open.spotify.com/track/2rTLrieV0wgvqoMIE6p23B"
@@ -1436,7 +1490,7 @@
       ],
       "date_added": "2022-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-20",
       "duration_ms": 331360,
       "name": "The World I Remember",
       "url": "https://open.spotify.com/track/1NKpRhBMGNEBK17cC3G3gx"
@@ -1497,6 +1551,24 @@
     },
     {
       "album": {
+        "name": "Lateralus",
+        "url": "https://open.spotify.com/album/5l5m1hnH4punS1GQXgEi3T"
+      },
+      "artists": [
+        {
+          "name": "TOOL",
+          "url": "https://open.spotify.com/artist/2yEwvVSSSUkcLeSTNyHKh8"
+        }
+      ],
+      "date_added": "2023-10-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 395906,
+      "name": "Triad",
+      "url": "https://open.spotify.com/track/2D9rd6TIpqmDkog5Mx8kxl"
+    },
+    {
+      "album": {
         "name": "Survived the Great Flood",
         "url": "https://open.spotify.com/album/5acWZQPiULxgupTkAIdWbw"
       },
@@ -1526,7 +1598,7 @@
       ],
       "date_added": "2022-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-20",
       "duration_ms": 297888,
       "name": "Troglodyte",
       "url": "https://open.spotify.com/track/2eUvRQF5eZtSkwuz0NwzMZ"
@@ -1658,7 +1730,7 @@
       ],
       "date_added": "2020-10-20",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2023-10-20",
       "duration_ms": 178421,
       "name": "We Grew Old Too Soon",
       "url": "https://open.spotify.com/track/3bISPUFe5nbO9wTHH1fOEi"

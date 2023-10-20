@@ -4,7 +4,7 @@
 
 > Chill house beats for hanging out in the sun.
 
-396 songs - 20 hr 4 min
+397 songs - 20 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -285,6 +285,7 @@
 | [Radiance](https://open.spotify.com/track/2TA3D0izaG7KhrMaI4BcAj) | [Delphine Dekker](https://open.spotify.com/artist/5cKBlwzPmhqucVJ4CeaHuz) | [Radiance](https://open.spotify.com/album/5VaiAhqs8QZWxJhRA5F6pX) | 3:31 | 2022-04-05 |  |
 | [Radio Signals](https://open.spotify.com/track/2a2dInHxcHah7QAyRDdZHR) | [Paper Cat](https://open.spotify.com/artist/4vhrFsNjg8ErTHAJZ9b5NF) | [Radio Signals](https://open.spotify.com/album/00bVTZWCFrc8niXp7otN0O) | 3:04 | 2022-04-05 | 2022-07-29 |
 | [Ray of Light](https://open.spotify.com/track/52qHDEnksl0jZt3OJHDi3i) | [Duckmaw](https://open.spotify.com/artist/4T1LvLyHdDj300MVNb6VyD) | [Ray of Light](https://open.spotify.com/album/40cUksrjQvtzoCmKDMskYE) | 3:48 | 2022-09-23 |  |
+| [Ray Of Sun](https://open.spotify.com/track/3i2EyWC04DDRnGwCw6ovoI) | [Pink Villa](https://open.spotify.com/artist/4PtcKLZL32MSk0wzcJM2mk) | [Ray Of Sun](https://open.spotify.com/album/0Adp9JwGMLTuhYKalZO33I) | 3:04 | 2023-10-20 |  |
 | [Reels](https://open.spotify.com/track/6fVFTZa7AaCemySAj7RLID) | [YAN KAL](https://open.spotify.com/artist/04735OZRCyYdkA5Cay4qkG) | [Reels](https://open.spotify.com/album/2iM3u37XQuGEXl5xXtfpU5) | 2:31 | 2022-11-25 |  |
 | [Rejuvenation](https://open.spotify.com/track/2OoSVZpPiO8fmzey4DV2vy) | [Slow Reveal](https://open.spotify.com/artist/4auJYfz4JXxJCbshIMPuVv) | [Rejuvenation](https://open.spotify.com/album/0yNijVFEBsj0Kv2eO1Wcqi) | 2:37 | 2022-04-05 | 2022-07-29 |
 | [Relax \(Hold On\)](https://open.spotify.com/track/7j0xfPR1K5e0OYsLpXP8wD) | [Autohacker](https://open.spotify.com/artist/6sm7q9WmAu9389oxf09I8m) | [Relax \(Hold On\)](https://open.spotify.com/album/6dVR47c4jMAnRBuqYPol2n) | 2:37 | 2022-09-23 |  |

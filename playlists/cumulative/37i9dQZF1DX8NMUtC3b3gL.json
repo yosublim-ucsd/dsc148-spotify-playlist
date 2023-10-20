@@ -770,7 +770,7 @@
       ],
       "date_added": "2022-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-20",
       "duration_ms": 152456,
       "name": "Blown Away",
       "url": "https://open.spotify.com/track/2lRzzqXLvZ7J8x7rBN2Dn8"
@@ -1354,7 +1354,7 @@
       ],
       "date_added": "2022-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-20",
       "duration_ms": 187397,
       "name": "Clean Choices",
       "url": "https://open.spotify.com/track/3alz0TE86DIB2JnbbAOEME"
@@ -1452,7 +1452,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-20",
       "duration_ms": 99718,
       "name": "Cockpit Country",
       "url": "https://open.spotify.com/track/2C1NJiTMTVsLzpEn2BYw6e"
@@ -1720,7 +1720,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-20",
       "duration_ms": 135621,
       "name": "Creme De La Creme",
       "url": "https://open.spotify.com/track/5q3ixgSPx7VC5pC2O1CnQe"
@@ -3141,6 +3141,24 @@
     },
     {
       "album": {
+        "name": "goodnight paris",
+        "url": "https://open.spotify.com/album/1FXQ6DYZWVY6FLf0zvPDwy"
+      },
+      "artists": [
+        {
+          "name": "Clocktown Stars",
+          "url": "https://open.spotify.com/artist/41tAquCucBUKN6L1xeMWns"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171833,
+      "name": "goodnight paris",
+      "url": "https://open.spotify.com/track/4ml3CC6HTNaGnFgiRnAiFH"
+    },
+    {
+      "album": {
         "name": "gradient",
         "url": "https://open.spotify.com/album/144oCH8iXwpglwq3wisCrz"
       },
@@ -3750,7 +3768,7 @@
       ],
       "date_added": "2023-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-20",
       "duration_ms": 119911,
       "name": "Kitty Got Claws",
       "url": "https://open.spotify.com/track/4Pfh9UNVy3ok3CUbtHTip6"
@@ -4752,7 +4770,7 @@
       ],
       "date_added": "2023-08-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-20",
       "duration_ms": 153000,
       "name": "New Beat",
       "url": "https://open.spotify.com/track/14uY4GHgFvf4A0kRkrGTVZ"
@@ -6464,7 +6482,7 @@
       ],
       "date_added": "2023-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-20",
       "duration_ms": 152666,
       "name": "Smokey",
       "url": "https://open.spotify.com/track/1dLCk4vPlIGx1r1zSaxhpT"
@@ -6706,7 +6724,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-20",
       "duration_ms": 121739,
       "name": "star drive",
       "url": "https://open.spotify.com/track/1D1RwQ2Lt5F4gSsTApjoij"

@@ -851,6 +851,24 @@
     },
     {
       "album": {
+        "name": "Cabin Noise",
+        "url": "https://open.spotify.com/album/5FiZnf1mTrlZ0S5cvgj1V9"
+      },
+      "artists": [
+        {
+          "name": "Atmospheric Endeavors",
+          "url": "https://open.spotify.com/artist/3TNKOriU72JCIKSKVaebNC"
+        }
+      ],
+      "date_added": "2023-10-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145403,
+      "name": "Elevation Zen, 30,000 Feet",
+      "url": "https://open.spotify.com/track/41HWoRFce5JBSGwrvlPfOf"
+    },
+    {
+      "album": {
         "name": "Endless Noises Vol I",
         "url": "https://open.spotify.com/album/6R0QWZi79djGcOPj6iyFKG"
       },
@@ -3476,6 +3494,24 @@
       "duration_ms": 224397,
       "name": "Window Seat Sleep",
       "url": "https://open.spotify.com/track/7LP4Wszs1E6P7J3Y2qXANq"
+    },
+    {
+      "album": {
+        "name": "Cabin Noise",
+        "url": "https://open.spotify.com/album/5FiZnf1mTrlZ0S5cvgj1V9"
+      },
+      "artists": [
+        {
+          "name": "Atmospheric Endeavors",
+          "url": "https://open.spotify.com/artist/3TNKOriU72JCIKSKVaebNC"
+        }
+      ],
+      "date_added": "2023-10-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144064,
+      "name": "Wings Over Whispers - Cabin Noise",
+      "url": "https://open.spotify.com/track/5xMWFBcIkgLSZXh3q3L3Et"
     },
     {
       "album": {

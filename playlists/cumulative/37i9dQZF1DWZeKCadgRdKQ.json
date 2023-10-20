@@ -10845,6 +10845,24 @@
     },
     {
       "album": {
+        "name": "Whispering Breeze",
+        "url": "https://open.spotify.com/album/3yPoFOj1r3anzS3Nzmo7SS"
+      },
+      "artists": [
+        {
+          "name": "Halcyon",
+          "url": "https://open.spotify.com/artist/6uKnnABqlxCnC40GjvgkP1"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147638,
+      "name": "Whispering Breeze",
+      "url": "https://open.spotify.com/track/0fBNkBzlUGMCO3ZXXMe6l6"
+    },
+    {
+      "album": {
         "name": "White Waves",
         "url": "https://open.spotify.com/album/1Pe5dUn4lNyyrnqcPPbzOk"
       },

@@ -4,7 +4,7 @@
 
 > Soothing instrumental music for sleepy babies.
 
-704 songs - 20 hr 57 min
+708 songs - 21 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -73,7 +73,7 @@
 | [Bedtime](https://open.spotify.com/track/2pTOkVFHOtcXvN9qxV1Q2K) | [Elvira Sola](https://open.spotify.com/artist/3jFQv36BpFuX9vTVB8q7fI) | [My Best Friend](https://open.spotify.com/album/5oU1L1vPpJwwYRxVPw86gX) | 2:23 | 2022-07-27 |  |
 | [Bedtime](https://open.spotify.com/track/3tHjK3V0zAULNqAph7kXVK) | [Simon Slumber](https://open.spotify.com/artist/3oEHvxlE41NfDOh7zbofyL) | [Good Night](https://open.spotify.com/album/1wCrDGcUNFvJaWp1mDls6z) | 1:36 | 2023-03-10 |  |
 | [Bedtime Serenade](https://open.spotify.com/track/6dUV7BamznIH4XkQvhpqZh) | [Eijah Nilson](https://open.spotify.com/artist/4ve0embkjqNplBGRueIkHs) | [To The Moon And Back](https://open.spotify.com/album/7lSHuUiyH5oRdbmJ096zlz) | 1:55 | 2023-05-05 |  |
-| [Bedtime Stories](https://open.spotify.com/track/5bepHaIOiNwvZMrbd9PoSq) | [Alva Klarström](https://open.spotify.com/artist/50id9oYraGr4qm3XfTKMfO) | [Bedtime Stories](https://open.spotify.com/album/0jJALitDC5dHQYpMPIpbXj) | 1:48 | 2021-10-05 |  |
+| [Bedtime Stories](https://open.spotify.com/track/5bepHaIOiNwvZMrbd9PoSq) | [Alva Klarström](https://open.spotify.com/artist/50id9oYraGr4qm3XfTKMfO) | [Bedtime Stories](https://open.spotify.com/album/0jJALitDC5dHQYpMPIpbXj) | 1:48 | 2021-10-05 | 2023-10-20 |
 | [Before I Go To Sleep](https://open.spotify.com/track/5Y4ng1a6gsHCt55hDWIi9O) | [Kay Lozano](https://open.spotify.com/artist/4aneGgQXJW7ufSTcjHLXDw) | [Before I Go To Sleep](https://open.spotify.com/album/4RFKhar3rtwEXtKWGV44pi) | 1:20 | 2021-10-05 |  |
 | [Believe in Butterflies](https://open.spotify.com/track/2oOxKqYBmRy00z4zV7tUER) | [Piers Lancaster](https://open.spotify.com/artist/5JTYz3CN60YGOCeXTEgTyY) | [Believe in Butterflies](https://open.spotify.com/album/6eCrSRN3tI2jKdbLIEQ4yT) | 2:15 | 2021-10-05 | 2023-04-09 |
 | [Believe in the Moon](https://open.spotify.com/track/2tzG4LsT6mfDgkcQ3QWpQk) | [Tom Tilly](https://open.spotify.com/artist/7HPp7WF50ubbdWOHeWqhuc) | [Believe in the Moon](https://open.spotify.com/album/35CSrtpigvrlVKRqgx0Wt7) | 2:23 | 2021-10-05 | 2022-10-08 |
@@ -350,6 +350,7 @@
 | [Little George](https://open.spotify.com/track/2FQzlc7Ce8DRqJJXaoB9Yg) | [Thora Nelson](https://open.spotify.com/artist/32SpgZv8WZjxnzitTsP6R3) | [Little George](https://open.spotify.com/album/6MAEf2HE0oXGtnxmHRcXzh) | 1:57 | 2021-10-05 | 2022-10-08 |
 | [Little Jack Horner](https://open.spotify.com/track/4E4WPKft2WloG16jooo7po) | [Jake the Caterpillar](https://open.spotify.com/artist/1v5MENumid8rTCRoFmt8cv) | [Little Jack Horner](https://open.spotify.com/album/7xFxYvag2mw6hdpRQx8yn2) | 1:47 | 2021-10-05 | 2022-02-11 |
 | [Little Jack Horner](https://open.spotify.com/track/5327ijcJLfIFjWPR0KRvYY) | [Rose Robertson](https://open.spotify.com/artist/2rTeg3p3Bk2PkXjGmdETsn) | [Little Jack Horner](https://open.spotify.com/album/4HdcFTsmId8JPaTZoIkskz) | 1:06 | 2023-02-17 |  |
+| [Little Juniper Tree](https://open.spotify.com/track/73LIz9HyLLfU1KsSSI3Xjm) | [Klara Söderman](https://open.spotify.com/artist/3M4QRATGYND6tUfBYU0Qyt) | [Little Juniper Tree](https://open.spotify.com/album/1F0uOct26s41A46zw0jwom) | 1:01 | 2023-10-20 |  |
 | [Little Miss Muffet](https://open.spotify.com/track/5E0dLWKa34CD8rVcOUVjo8) | [Maria Nevradka](https://open.spotify.com/artist/1Sb4V0G6h38ODoNu7dXTnn) | [Little Miss Muffet](https://open.spotify.com/album/2Qq76At3oFq0KNw0huVtVx) | 1:36 | 2022-12-16 |  |
 | [Little Nap](https://open.spotify.com/track/7h9z7IKi8Ul6YF8mSHpj3b) | [Elna Wood](https://open.spotify.com/artist/4OQq1goOaeVyJ5NwObkaEf) | [Little Nap](https://open.spotify.com/album/7FS1M0fr7GvyjwGGjHF6XH) | 1:37 | 2023-02-17 | 2023-05-05 |
 | [Little Peter Rabbit](https://open.spotify.com/track/5ttHAlmM8KqEx0mKYN7MQd) | [Nellie Willis](https://open.spotify.com/artist/6uYMCXqOmlp8m8aYybT858) | [Little Peter Rabbit](https://open.spotify.com/album/5uN4LwuBjajB5LsX6D81Pu) | 1:51 | 2023-01-27 |  |
@@ -454,6 +455,7 @@
 | [On the Night You Were Born](https://open.spotify.com/track/3UdgbTMhsYFw6EfQ8alEP3) | [Colleen Kozak](https://open.spotify.com/artist/19yYfBfYNV2XUJvo8pfKvK) | [On the Night You Were Born](https://open.spotify.com/album/2t9UIgBagllTRvR8Yb5mjj) | 1:35 | 2021-10-05 | 2022-11-19 |
 | [Once Upon](https://open.spotify.com/track/2rfou3j13jIXEBvWoRRN60) | [Emilie Kirsstadt](https://open.spotify.com/artist/6l18YJDLUmzXwcG0P5iCrN) | [Once Upon](https://open.spotify.com/album/0nYLfxU39Hx9ArHkvZaklt) | 1:09 | 2023-04-07 |  |
 | [One Little Elephant](https://open.spotify.com/track/7BY2juS1phGDJV4Qspg5zE) | [Mila Westman](https://open.spotify.com/artist/1GGjTmD1eDeKr73r3VMiIJ) | [One Little Elephant](https://open.spotify.com/album/3U1Xww56QKp1FKW4ZfLccv) | 1:22 | 2023-06-15 |  |
+| [One More, Mommy!](https://open.spotify.com/track/1f7HZs5cKbpjbwIb51koAC) | [Gabriella Chiado](https://open.spotify.com/artist/5qEqJaMiZWbCFsnbDVRqOH) | [One More, Mommy!](https://open.spotify.com/album/2WREGOUQDi9sAf4iwzSn05) | 1:58 | 2023-10-20 |  |
 | [One Of A Kind](https://open.spotify.com/track/0dgkwzWUtsVvwAoJXOVUP1) | [Hashim Reese](https://open.spotify.com/artist/42gsXbwEvpqFJ1CrRJkv1h) | [One Of A Kind](https://open.spotify.com/album/4udIJ4PmznmTYAbljWAbll) | 1:18 | 2022-08-10 |  |
 | [Open, Shut Them](https://open.spotify.com/track/65c8jRrH1mxOMbm47H2bT5) | [Tom Tilly](https://open.spotify.com/artist/7HPp7WF50ubbdWOHeWqhuc) | [Old MacDonald Had a Farm](https://open.spotify.com/album/14rhsxNAMbwColnxVl43hR) | 1:54 | 2022-07-27 | 2023-09-08 |
 | [Opsis Kalopsis](https://open.spotify.com/track/6mAUs61UZZd5Y2IK5avEUK) | [Petra Mogensen](https://open.spotify.com/artist/6aNZ6GQv8yP3HFmpXtGY5r) | [Opsis Kalopsis](https://open.spotify.com/album/40ZJOOz5dQVA4qsp4OA6ke) | 1:02 | 2023-02-17 |  |
@@ -675,6 +677,7 @@
 | [Vargsången](https://open.spotify.com/track/6yTfAEsifDE2HSFmsk57YX) | [Little Vilma](https://open.spotify.com/artist/7l7puDAPlqZGBakfp8s3Wr) | [Babblarnas vaggvisa](https://open.spotify.com/album/4gNojEh1nck10cN21lkIf4) | 1:21 | 2022-10-28 | 2023-02-18 |
 | [Videvisan, sov du lilla videung](https://open.spotify.com/track/6YbCKS0x1KLR0cPqPQ0P80) | [Joen Brahe](https://open.spotify.com/artist/2gtqUlH6q4j2Pc7uVQsaoV) | [Videvisan, sov du lilla videung](https://open.spotify.com/album/1RmdToFyMqDM9ygtVLu26n) | 1:51 | 2023-01-27 | 2023-03-25 |
 | [Warm Breeze](https://open.spotify.com/track/2By5z0SpEoqzQ6sslvZWfp) | [Lily Lullaby](https://open.spotify.com/artist/59q70buEf9vwjspG2sNLET) | [Warm Breeze](https://open.spotify.com/album/31SAPV5z9PJ8SZqru2yGFf) | 1:33 | 2023-08-10 |  |
+| [Warm Milk](https://open.spotify.com/track/0L2o3G1JJfzDd6PWjZn6F2) | [Fraire Jaques](https://open.spotify.com/artist/449CtTB6t83bfPppU0GcfI) | [Warm Milk](https://open.spotify.com/album/76HAoSan8BRJWIteFhzh0h) | 3:10 | 2023-10-20 |  |
 | [We Are Three Musicians](https://open.spotify.com/track/6M0tKLVH56wlV7WEo9bgf1) | [Anton Bruch](https://open.spotify.com/artist/7zT8gDSxsr4jwMiv2gCqIs) | [We Are Three Musicians](https://open.spotify.com/album/1ststXxX5u4D6FXKAAEZMa) | 1:07 | 2023-08-31 |  |
 | [Weightless Sleep](https://open.spotify.com/track/1BA6K5gxk0oGldorRcH6gG) | [Goodnight sweetheart](https://open.spotify.com/artist/3hVfERu6fWfKySpoHenfnp) | [Weightless Sleep](https://open.spotify.com/album/5yQCAsPHnjxMhaKGKLs8Ax) | 2:19 | 2022-09-02 |  |
 | [Wer hat die schönsten Schäfchen?](https://open.spotify.com/track/0JBFJj0Nu7CoDnzSpNelXo) | [Finn Müller](https://open.spotify.com/artist/3Qg2TTPVf77Xb9jwI9Qs35) | [Wer hat die schönsten Schäfchen?](https://open.spotify.com/album/20HcCUrPq2LudI6Xiq6Asr) | 1:56 | 2021-10-05 | 2022-09-03 |
@@ -701,6 +704,7 @@
 | [Wonderland](https://open.spotify.com/track/3YWrNcxMP1QjWHqSbQsi5K) | [Yoni Laurent](https://open.spotify.com/artist/3oNMmoFpVOIq8Ce7tBRDRI) | [Now We Say Goodnight](https://open.spotify.com/album/1qAHkdmiy0gN732kxSm56u) | 1:59 | 2023-05-05 |  |
 | [Wrapped Up Warm](https://open.spotify.com/track/5C2ppe8ts6TqOYEFI1fZRm) | [Carolina Laurel](https://open.spotify.com/artist/4KQIvd8xhteThiwnEhjO7p) | [Wrapped Up Warm](https://open.spotify.com/album/5UrFG4FpSBwQd6RuublsMm) | 2:49 | 2022-04-20 | 2022-12-16 |
 | [Yankee Doodle](https://open.spotify.com/track/1FIlBc2LI8yjVvhRokhV9Y) | [Gregory Oberle](https://open.spotify.com/artist/4MxqhahGRT4BPz1PilXGeu) | [Yankee Doodle](https://open.spotify.com/album/7dmp93YWenoMivq7iSLT8j) | 1:55 | 2021-10-05 | 2022-09-03 |
+| [Yarn Belle](https://open.spotify.com/track/6mcSqjhcP11zWi9X01Qpwz) | [Jessica Foley](https://open.spotify.com/artist/3OHqjKHD5eVwaEN9GcubO2) | [Yarn Belle](https://open.spotify.com/album/0sc5wa801pYdKUSOqmkW6u) | 2:00 | 2023-10-20 |  |
 | [You And Me](https://open.spotify.com/track/6Gkekn4vTkqR1leDE7hjs0) | [Isaac Tira](https://open.spotify.com/artist/36itJVdaUkayBbmezbbDo7) | [Bedtime Melodies](https://open.spotify.com/album/3tBxqFudcu4upFnwbsMEG3) | 1:45 | 2023-05-05 |  |
 | [You are my light](https://open.spotify.com/track/0zDx0GsDAi9ZqI9Y80hOqk) | [Lova Carling](https://open.spotify.com/artist/7mZRGYwWF15QNqKAG9hNCI) | [Rest in my arms](https://open.spotify.com/album/6F2YEeLI953mLYFaBG32iW) | 2:03 | 2022-09-02 | 2023-06-23 |
 | [You Are My Sunshine](https://open.spotify.com/track/5eZuG8joz4MLuVD67vtqSF) | [Eliza Butler](https://open.spotify.com/artist/2lL0yNKcO6E6PMUtUQJoss) | [You Are My Sunshine](https://open.spotify.com/album/30uRRvbBZsUQBEjaiSbYXl) | 1:27 | 2022-11-18 |  |

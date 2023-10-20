@@ -1,12 +1,12 @@
 {
   "description": "Los sonidos tradicionales de la Isla del Encanto.",
-  "num_followers": 3162,
+  "num_followers": 3170,
   "original_name": "Bomba y Plena",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiYTQ1NmE3NDVkNDEzYmMxNzYzZTg3ODA2NTg0MWRiNzljOWYyOWVl",
+  "snapshot_id": "MCwwMTcxOTE2MDNiNGJmYTAyNjE0YzMyNDE0YTRmMTAzYWRjZWZmODQx",
   "tracks": [
     {
       "added_at": "2023-06-13 22:15:19",
@@ -95,22 +95,6 @@
     {
       "added_at": "2023-06-13 22:15:19",
       "album": {
-        "name": "Bombazo",
-        "url": "https://open.spotify.com/album/57x4LW3rXa6OUutg6UALTf"
-      },
-      "artists": [
-        {
-          "name": "Grupo Afro Boriqua, Director William Cepeda",
-          "url": "https://open.spotify.com/artist/3WtjPwL9iHJCBCjqxDJ1QM"
-        }
-      ],
-      "duration_ms": 152266,
-      "name": "El Doctor Guenaga",
-      "url": "https://open.spotify.com/track/134ufBK1yvRCdB11UoRshb"
-    },
-    {
-      "added_at": "2023-06-13 22:15:19",
-      "album": {
         "name": "Otro Formato de M\u00fasica",
         "url": "https://open.spotify.com/album/1hzY0te4MOmzdIv1EhtjjB"
       },
@@ -123,6 +107,22 @@
       "duration_ms": 296586,
       "name": "B\u00e1mbula",
       "url": "https://open.spotify.com/track/1fZXAwO0Rh3osppfV2SVAV"
+    },
+    {
+      "added_at": "2023-06-13 22:15:19",
+      "album": {
+        "name": "Bombazo",
+        "url": "https://open.spotify.com/album/57x4LW3rXa6OUutg6UALTf"
+      },
+      "artists": [
+        {
+          "name": "Grupo Afro Boriqua, Director William Cepeda",
+          "url": "https://open.spotify.com/artist/3WtjPwL9iHJCBCjqxDJ1QM"
+        }
+      ],
+      "duration_ms": 152266,
+      "name": "El Doctor Guenaga",
+      "url": "https://open.spotify.com/track/134ufBK1yvRCdB11UoRshb"
     },
     {
       "added_at": "2023-06-13 22:15:19",
@@ -243,22 +243,6 @@
     {
       "added_at": "2023-06-13 22:15:19",
       "album": {
-        "name": "Otro Formato de M\u00fasica",
-        "url": "https://open.spotify.com/album/1hzY0te4MOmzdIv1EhtjjB"
-      },
-      "artists": [
-        {
-          "name": "La Tribu de Abrante",
-          "url": "https://open.spotify.com/artist/3sito6EcNee484oIM6KHwO"
-        }
-      ],
-      "duration_ms": 214800,
-      "name": "Bomba para Afincar",
-      "url": "https://open.spotify.com/track/4CJwiynberc8SHwRaDaMaU"
-    },
-    {
-      "added_at": "2023-06-13 22:15:19",
-      "album": {
         "name": "Bombazo",
         "url": "https://open.spotify.com/album/57x4LW3rXa6OUutg6UALTf"
       },
@@ -271,6 +255,22 @@
       "duration_ms": 135840,
       "name": "El Conde De Loiza",
       "url": "https://open.spotify.com/track/5Pt8ozofQZg1dVdLSvWO4R"
+    },
+    {
+      "added_at": "2023-06-13 22:15:19",
+      "album": {
+        "name": "Otro Formato de M\u00fasica",
+        "url": "https://open.spotify.com/album/1hzY0te4MOmzdIv1EhtjjB"
+      },
+      "artists": [
+        {
+          "name": "La Tribu de Abrante",
+          "url": "https://open.spotify.com/artist/3sito6EcNee484oIM6KHwO"
+        }
+      ],
+      "duration_ms": 214800,
+      "name": "Bomba para Afincar",
+      "url": "https://open.spotify.com/track/4CJwiynberc8SHwRaDaMaU"
     },
     {
       "added_at": "2023-06-13 22:15:19",
@@ -323,22 +323,6 @@
     {
       "added_at": "2023-06-13 22:15:19",
       "album": {
-        "name": "Otro Formato de M\u00fasica",
-        "url": "https://open.spotify.com/album/1hzY0te4MOmzdIv1EhtjjB"
-      },
-      "artists": [
-        {
-          "name": "La Tribu de Abrante",
-          "url": "https://open.spotify.com/artist/3sito6EcNee484oIM6KHwO"
-        }
-      ],
-      "duration_ms": 289213,
-      "name": "Mi Maria Luisa",
-      "url": "https://open.spotify.com/track/0igorIl2Os6lbeiwX6AU1v"
-    },
-    {
-      "added_at": "2023-06-13 22:15:19",
-      "album": {
         "name": "Plena Combativa",
         "url": "https://open.spotify.com/album/0hueG0Ly9bLV4qkJQ43iuD"
       },
@@ -351,6 +335,22 @@
       "duration_ms": 299282,
       "name": "El Tumbe",
       "url": "https://open.spotify.com/track/0sq6x0JCaqJylE0yGQXCoH"
+    },
+    {
+      "added_at": "2023-06-13 22:15:19",
+      "album": {
+        "name": "Otro Formato de M\u00fasica",
+        "url": "https://open.spotify.com/album/1hzY0te4MOmzdIv1EhtjjB"
+      },
+      "artists": [
+        {
+          "name": "La Tribu de Abrante",
+          "url": "https://open.spotify.com/artist/3sito6EcNee484oIM6KHwO"
+        }
+      ],
+      "duration_ms": 289213,
+      "name": "Mi Maria Luisa",
+      "url": "https://open.spotify.com/track/0igorIl2Os6lbeiwX6AU1v"
     },
     {
       "added_at": "2023-06-13 22:15:19",
@@ -491,22 +491,6 @@
     {
       "added_at": "2023-06-13 22:15:19",
       "album": {
-        "name": "Candela!",
-        "url": "https://open.spotify.com/album/6fDIfyDziBLqYANN8GtUS1"
-      },
-      "artists": [
-        {
-          "name": "F\u00e9lix Aldu\u00e9n",
-          "url": "https://open.spotify.com/artist/7rXVbGmjHojoHXkunNoKa9"
-        }
-      ],
-      "duration_ms": 260946,
-      "name": "Ola de la Mar",
-      "url": "https://open.spotify.com/track/7kXpYpbjWQb1wlgYztYaC8"
-    },
-    {
-      "added_at": "2023-06-13 22:15:19",
-      "album": {
         "name": "Bomba De Loiza",
         "url": "https://open.spotify.com/album/3vGGMqUHgOQv3aOsom3plI"
       },
@@ -519,6 +503,22 @@
       "duration_ms": 176773,
       "name": "Bombero Eh",
       "url": "https://open.spotify.com/track/6IP4iBxur2Q6HnYaBbWuGj"
+    },
+    {
+      "added_at": "2023-06-13 22:15:19",
+      "album": {
+        "name": "Candela!",
+        "url": "https://open.spotify.com/album/6fDIfyDziBLqYANN8GtUS1"
+      },
+      "artists": [
+        {
+          "name": "F\u00e9lix Aldu\u00e9n",
+          "url": "https://open.spotify.com/artist/7rXVbGmjHojoHXkunNoKa9"
+        }
+      ],
+      "duration_ms": 260946,
+      "name": "Ola de la Mar",
+      "url": "https://open.spotify.com/track/7kXpYpbjWQb1wlgYztYaC8"
     },
     {
       "added_at": "2023-06-13 22:15:19",
@@ -587,22 +587,6 @@
     {
       "added_at": "2023-06-13 22:15:19",
       "album": {
-        "name": "Bomba De Loiza",
-        "url": "https://open.spotify.com/album/3vGGMqUHgOQv3aOsom3plI"
-      },
-      "artists": [
-        {
-          "name": "Hermanos Ayala",
-          "url": "https://open.spotify.com/artist/11sGNsoAafVYuvbsXre9BE"
-        }
-      ],
-      "duration_ms": 157720,
-      "name": "Meli Ton Ton Be",
-      "url": "https://open.spotify.com/track/0icYDIzJYlyXomaTrHGDtX"
-    },
-    {
-      "added_at": "2023-06-13 22:15:19",
-      "album": {
         "name": "Viento de Agua Unplugged: Materia Prima",
         "url": "https://open.spotify.com/album/2XFQHvOwAMDyDFeyuQm68u"
       },
@@ -615,6 +599,22 @@
       "duration_ms": 325666,
       "name": "Pa\u2019 un Plenero (plena)",
       "url": "https://open.spotify.com/track/4kwCrqBHB5j10zFinAKHid"
+    },
+    {
+      "added_at": "2023-06-13 22:15:19",
+      "album": {
+        "name": "A La Buena S\u00ed",
+        "url": "https://open.spotify.com/album/3ZT00YYCEhmE1eTi5LVwqT"
+      },
+      "artists": [
+        {
+          "name": "Chamir Bonano",
+          "url": "https://open.spotify.com/artist/0n7fusANHiFjz3vTvMaBe0"
+        }
+      ],
+      "duration_ms": 174345,
+      "name": "A La Buena S\u00ed",
+      "url": "https://open.spotify.com/track/1wbjlLVtfqlX6jyCpRbwdH"
     },
     {
       "added_at": "2023-06-13 22:15:19",
@@ -635,18 +635,18 @@
     {
       "added_at": "2023-06-13 22:15:19",
       "album": {
-        "name": "A La Buena S\u00ed",
-        "url": "https://open.spotify.com/album/3ZT00YYCEhmE1eTi5LVwqT"
+        "name": "Bomba De Loiza",
+        "url": "https://open.spotify.com/album/3vGGMqUHgOQv3aOsom3plI"
       },
       "artists": [
         {
-          "name": "Chamir Bonano",
-          "url": "https://open.spotify.com/artist/0n7fusANHiFjz3vTvMaBe0"
+          "name": "Hermanos Ayala",
+          "url": "https://open.spotify.com/artist/11sGNsoAafVYuvbsXre9BE"
         }
       ],
-      "duration_ms": 174345,
-      "name": "A La Buena S\u00ed",
-      "url": "https://open.spotify.com/track/1wbjlLVtfqlX6jyCpRbwdH"
+      "duration_ms": 157720,
+      "name": "Meli Ton Ton Be",
+      "url": "https://open.spotify.com/track/0icYDIzJYlyXomaTrHGDtX"
     },
     {
       "added_at": "2023-06-13 22:15:19",
@@ -719,22 +719,6 @@
     {
       "added_at": "2023-06-13 22:15:19",
       "album": {
-        "name": "\u00edEst\u00e1 es mi rumba!",
-        "url": "https://open.spotify.com/album/0oMPQ5BDsAcBTGkdo3nVkU"
-      },
-      "artists": [
-        {
-          "name": "Yuba Ire",
-          "url": "https://open.spotify.com/artist/2kBeW8r7YUM5n43ReapUfr"
-        }
-      ],
-      "duration_ms": 236785,
-      "name": "Julieta",
-      "url": "https://open.spotify.com/track/4THak1xPF11ZaOjglcy44M"
-    },
-    {
-      "added_at": "2023-06-13 22:15:19",
-      "album": {
         "name": "Bomba De Loiza",
         "url": "https://open.spotify.com/album/3vGGMqUHgOQv3aOsom3plI"
       },
@@ -747,6 +731,22 @@
       "duration_ms": 243586,
       "name": "La Negra Pancha",
       "url": "https://open.spotify.com/track/1IncQD0Q84IO6Hjun80mbZ"
+    },
+    {
+      "added_at": "2023-06-13 22:15:19",
+      "album": {
+        "name": "\u00edEst\u00e1 es mi rumba!",
+        "url": "https://open.spotify.com/album/0oMPQ5BDsAcBTGkdo3nVkU"
+      },
+      "artists": [
+        {
+          "name": "Yuba Ire",
+          "url": "https://open.spotify.com/artist/2kBeW8r7YUM5n43ReapUfr"
+        }
+      ],
+      "duration_ms": 236785,
+      "name": "Julieta",
+      "url": "https://open.spotify.com/track/4THak1xPF11ZaOjglcy44M"
     },
     {
       "added_at": "2023-06-13 22:15:19",

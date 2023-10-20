@@ -1,12 +1,12 @@
 {
   "description": "Os hits j\u00e1 consagrados e os novos nomes da cena pop dividindo o mesmo palco!  / Foto: Cleo",
-  "num_followers": 365482,
+  "num_followers": 365509,
   "original_name": "Palco POP",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5YzAyNzU5NWQ3OTA2NjBmZTI0NjlhYmRkZDI1OWJhNTU5OWI4N2M2",
+  "snapshot_id": "MCwxODg0OWJjMTczNTU3NzIzNDU5YzZmOWRmMTEyODRjN2NlMGIxMWMz",
   "tracks": [
     {
       "added_at": "2023-10-13 03:00:00",
@@ -631,6 +631,22 @@
     {
       "added_at": "2023-10-13 03:00:00",
       "album": {
+        "name": "Depois do Fim",
+        "url": "https://open.spotify.com/album/6Gh9k6PdqxQ6l3tZxZWSH9"
+      },
+      "artists": [
+        {
+          "name": "Lagum",
+          "url": "https://open.spotify.com/artist/5D56dZmhE9DgT01XixdHiD"
+        }
+      ],
+      "duration_ms": 139649,
+      "name": "Coisa Boa",
+      "url": "https://open.spotify.com/track/0Z5IDWR4JHuJo7FBsSoM1k"
+    },
+    {
+      "added_at": "2023-10-13 03:00:00",
+      "album": {
         "name": "I'm Good (Blue) [feat. Bebe Rexha, Ludmilla and LIT killah] [2023 Version]",
         "url": "https://open.spotify.com/album/360cogIQEaXAo8mpdcJFfI"
       },
@@ -655,22 +671,6 @@
       "duration_ms": 160961,
       "name": "I'm Good (Blue) [feat. Bebe Rexha, Ludmilla and LIT killah] - 2023 Version",
       "url": "https://open.spotify.com/track/68NaWutYrE6BcbWuY49HYP"
-    },
-    {
-      "added_at": "2023-10-13 03:00:00",
-      "album": {
-        "name": "Depois do Fim",
-        "url": "https://open.spotify.com/album/6Gh9k6PdqxQ6l3tZxZWSH9"
-      },
-      "artists": [
-        {
-          "name": "Lagum",
-          "url": "https://open.spotify.com/artist/5D56dZmhE9DgT01XixdHiD"
-        }
-      ],
-      "duration_ms": 139649,
-      "name": "Coisa Boa",
-      "url": "https://open.spotify.com/track/0Z5IDWR4JHuJo7FBsSoM1k"
     },
     {
       "added_at": "2023-10-13 03:00:00",
@@ -731,6 +731,22 @@
     {
       "added_at": "2023-10-13 03:00:00",
       "album": {
+        "name": "ADMIR\u00c1VEL CHIP NOVO (RE)ATIVADO",
+        "url": "https://open.spotify.com/album/6bIHDpi2YUAO3C2CinsGSZ"
+      },
+      "artists": [
+        {
+          "name": "Pabllo Vittar",
+          "url": "https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV"
+        }
+      ],
+      "duration_ms": 218709,
+      "name": "Equalize",
+      "url": "https://open.spotify.com/track/6ejNK6AivWJKC1QOZlzmq0"
+    },
+    {
+      "added_at": "2023-10-13 03:00:00",
+      "album": {
         "name": "Baile do Papato",
         "url": "https://open.spotify.com/album/2xReweSuwmZbdogHMILeek"
       },
@@ -759,22 +775,6 @@
       "duration_ms": 181670,
       "name": "24 Horas",
       "url": "https://open.spotify.com/track/3Q0LWpLuhEcCCWjpfBRnzH"
-    },
-    {
-      "added_at": "2023-10-13 03:00:00",
-      "album": {
-        "name": "ADMIR\u00c1VEL CHIP NOVO (RE)ATIVADO",
-        "url": "https://open.spotify.com/album/6bIHDpi2YUAO3C2CinsGSZ"
-      },
-      "artists": [
-        {
-          "name": "Pabllo Vittar",
-          "url": "https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV"
-        }
-      ],
-      "duration_ms": 218709,
-      "name": "Equalize",
-      "url": "https://open.spotify.com/track/6ejNK6AivWJKC1QOZlzmq0"
     },
     {
       "added_at": "2023-10-13 03:00:00",
@@ -847,26 +847,6 @@
     {
       "added_at": "2023-10-13 03:00:00",
       "album": {
-        "name": "Rabisca",
-        "url": "https://open.spotify.com/album/5SOcG7pOSSipVv3QhRE3jg"
-      },
-      "artists": [
-        {
-          "name": "Lexa",
-          "url": "https://open.spotify.com/artist/0jTDeBJQr3unrK29LklnAv"
-        },
-        {
-          "name": "Thiago Pantale\u00e3o",
-          "url": "https://open.spotify.com/artist/70HOdlw2Ud3B4A7W4CI1V6"
-        }
-      ],
-      "duration_ms": 123548,
-      "name": "Rabisca",
-      "url": "https://open.spotify.com/track/64NO1NaDBfju3wZDUXSS0a"
-    },
-    {
-      "added_at": "2023-10-13 03:00:00",
-      "album": {
         "name": "700 Por Minuto",
         "url": "https://open.spotify.com/album/1AiC9mfD2CthG6UFSHsh0O"
       },
@@ -883,6 +863,26 @@
       "duration_ms": 105553,
       "name": "700 Por Minuto",
       "url": "https://open.spotify.com/track/1wqpmI5TSI18ywTOCYe7PE"
+    },
+    {
+      "added_at": "2023-10-13 03:00:00",
+      "album": {
+        "name": "Rabisca",
+        "url": "https://open.spotify.com/album/5SOcG7pOSSipVv3QhRE3jg"
+      },
+      "artists": [
+        {
+          "name": "Lexa",
+          "url": "https://open.spotify.com/artist/0jTDeBJQr3unrK29LklnAv"
+        },
+        {
+          "name": "Thiago Pantale\u00e3o",
+          "url": "https://open.spotify.com/artist/70HOdlw2Ud3B4A7W4CI1V6"
+        }
+      ],
+      "duration_ms": 123548,
+      "name": "Rabisca",
+      "url": "https://open.spotify.com/track/64NO1NaDBfju3wZDUXSS0a"
     },
     {
       "added_at": "2023-10-13 03:00:00",
@@ -1151,26 +1151,6 @@
     {
       "added_at": "2023-10-13 03:00:00",
       "album": {
-        "name": "Linda",
-        "url": "https://open.spotify.com/album/68Q9h5ElIU7CYawTO5AsYh"
-      },
-      "artists": [
-        {
-          "name": "ANAJU",
-          "url": "https://open.spotify.com/artist/0OWvjDdxvQS2tF6VGAkHgN"
-        },
-        {
-          "name": "Neo Beats",
-          "url": "https://open.spotify.com/artist/6PERJZF7wohA034PAxDK0b"
-        }
-      ],
-      "duration_ms": 127500,
-      "name": "Linda",
-      "url": "https://open.spotify.com/track/5xN4B7ozxZL5kB8q91ShWL"
-    },
-    {
-      "added_at": "2023-10-13 03:00:00",
-      "album": {
         "name": "Caliente",
         "url": "https://open.spotify.com/album/7fzqKhbzHBuOnbo2yeTWr2"
       },
@@ -1191,6 +1171,26 @@
       "duration_ms": 133636,
       "name": "Caliente",
       "url": "https://open.spotify.com/track/2TrAxb7dg65ZFHoMzrGhcN"
+    },
+    {
+      "added_at": "2023-10-13 03:00:00",
+      "album": {
+        "name": "Linda",
+        "url": "https://open.spotify.com/album/68Q9h5ElIU7CYawTO5AsYh"
+      },
+      "artists": [
+        {
+          "name": "ANAJU",
+          "url": "https://open.spotify.com/artist/0OWvjDdxvQS2tF6VGAkHgN"
+        },
+        {
+          "name": "Neo Beats",
+          "url": "https://open.spotify.com/artist/6PERJZF7wohA034PAxDK0b"
+        }
+      ],
+      "duration_ms": 127500,
+      "name": "Linda",
+      "url": "https://open.spotify.com/track/5xN4B7ozxZL5kB8q91ShWL"
     },
     {
       "added_at": "2023-10-13 03:00:00",
@@ -1279,6 +1279,26 @@
     {
       "added_at": "2023-10-13 03:00:00",
       "album": {
+        "name": "93",
+        "url": "https://open.spotify.com/album/2sbYShIsSsFnm62JKjTqUJ"
+      },
+      "artists": [
+        {
+          "name": "Kynnie",
+          "url": "https://open.spotify.com/artist/20JcWtWgwyxcfUg8SyKwjy"
+        },
+        {
+          "name": "Thiago Pantale\u00e3o",
+          "url": "https://open.spotify.com/artist/70HOdlw2Ud3B4A7W4CI1V6"
+        }
+      ],
+      "duration_ms": 158829,
+      "name": "Pegada de Vil\u00e3",
+      "url": "https://open.spotify.com/track/0QNyFrnE4O6E4ZJDRvBuWm"
+    },
+    {
+      "added_at": "2023-10-13 03:00:00",
+      "album": {
         "name": "Abelha",
         "url": "https://open.spotify.com/album/6PgDRoJTBxFX6dLkQ83GRu"
       },
@@ -1303,26 +1323,6 @@
     {
       "added_at": "2023-10-13 03:00:00",
       "album": {
-        "name": "93",
-        "url": "https://open.spotify.com/album/2sbYShIsSsFnm62JKjTqUJ"
-      },
-      "artists": [
-        {
-          "name": "Kynnie",
-          "url": "https://open.spotify.com/artist/20JcWtWgwyxcfUg8SyKwjy"
-        },
-        {
-          "name": "Thiago Pantale\u00e3o",
-          "url": "https://open.spotify.com/artist/70HOdlw2Ud3B4A7W4CI1V6"
-        }
-      ],
-      "duration_ms": 158829,
-      "name": "Pegada de Vil\u00e3",
-      "url": "https://open.spotify.com/track/0QNyFrnE4O6E4ZJDRvBuWm"
-    },
-    {
-      "added_at": "2023-10-13 03:00:00",
-      "album": {
         "name": "ele diz que me ama s2",
         "url": "https://open.spotify.com/album/7d0qnsgDo4Ve7XaeK67U4P"
       },
@@ -1343,30 +1343,6 @@
       "duration_ms": 241371,
       "name": "ele diz que me ama s2",
       "url": "https://open.spotify.com/track/0qBp10DuUxfu3VPVxeohwJ"
-    },
-    {
-      "added_at": "2023-10-13 03:00:00",
-      "album": {
-        "name": "Cachoeira",
-        "url": "https://open.spotify.com/album/4mAithietzaFqqKXXniP44"
-      },
-      "artists": [
-        {
-          "name": "BADZILLA",
-          "url": "https://open.spotify.com/artist/3q8BlD7eg64KOuC179EE2g"
-        },
-        {
-          "name": "MC Taya",
-          "url": "https://open.spotify.com/artist/7vUQ69pnimnTG3WAWnVP9i"
-        },
-        {
-          "name": "Mc Fredd",
-          "url": "https://open.spotify.com/artist/4UHmkWMHvZlj2ryO8gpwM5"
-        }
-      ],
-      "duration_ms": 167366,
-      "name": "Cachoeira",
-      "url": "https://open.spotify.com/track/0LqOJ2Vcm5uupnsHin7gRC"
     },
     {
       "added_at": "2023-10-13 03:00:00",
@@ -1411,22 +1387,26 @@
     {
       "added_at": "2023-10-13 03:00:00",
       "album": {
-        "name": "DARK POP",
-        "url": "https://open.spotify.com/album/34Cq3Hc8acmmyF4Np0Bs1a"
+        "name": "Cachoeira",
+        "url": "https://open.spotify.com/album/4mAithietzaFqqKXXniP44"
       },
       "artists": [
         {
-          "name": "Cleo",
-          "url": "https://open.spotify.com/artist/0Re3qA28AJh2eIITpbREtx"
+          "name": "BADZILLA",
+          "url": "https://open.spotify.com/artist/3q8BlD7eg64KOuC179EE2g"
         },
         {
-          "name": "CHAMELEO",
-          "url": "https://open.spotify.com/artist/2ZteSwWooU45Mec1C2EdA0"
+          "name": "MC Taya",
+          "url": "https://open.spotify.com/artist/7vUQ69pnimnTG3WAWnVP9i"
+        },
+        {
+          "name": "Mc Fredd",
+          "url": "https://open.spotify.com/artist/4UHmkWMHvZlj2ryO8gpwM5"
         }
       ],
-      "duration_ms": 146224,
-      "name": "Voc\u00ea N\u00e3o Sabe Amar",
-      "url": "https://open.spotify.com/track/1oUksabtI48IdGhcBkzjHn"
+      "duration_ms": 167366,
+      "name": "Cachoeira",
+      "url": "https://open.spotify.com/track/0LqOJ2Vcm5uupnsHin7gRC"
     },
     {
       "added_at": "2023-10-13 03:00:00",
@@ -1443,6 +1423,26 @@
       "duration_ms": 203713,
       "name": "Carta Aberta",
       "url": "https://open.spotify.com/track/69Q81hch5PAcKbqAXuFfej"
+    },
+    {
+      "added_at": "2023-10-13 03:00:00",
+      "album": {
+        "name": "DARK POP",
+        "url": "https://open.spotify.com/album/34Cq3Hc8acmmyF4Np0Bs1a"
+      },
+      "artists": [
+        {
+          "name": "Cleo",
+          "url": "https://open.spotify.com/artist/0Re3qA28AJh2eIITpbREtx"
+        },
+        {
+          "name": "CHAMELEO",
+          "url": "https://open.spotify.com/artist/2ZteSwWooU45Mec1C2EdA0"
+        }
+      ],
+      "duration_ms": 146224,
+      "name": "Voc\u00ea N\u00e3o Sabe Amar",
+      "url": "https://open.spotify.com/track/1oUksabtI48IdGhcBkzjHn"
     },
     {
       "added_at": "2023-10-13 03:00:00",
@@ -1467,30 +1467,6 @@
       "duration_ms": 142105,
       "name": "Canc\u00fan",
       "url": "https://open.spotify.com/track/2gbmbB5KHCpLYgr7AMwNEn"
-    },
-    {
-      "added_at": "2023-10-13 03:00:00",
-      "album": {
-        "name": "Vai Ser Melhor",
-        "url": "https://open.spotify.com/album/6LnuFNW9xGi6qq97WngcYf"
-      },
-      "artists": [
-        {
-          "name": "Patrick",
-          "url": "https://open.spotify.com/artist/710fgkV14KVymsc3sMILXE"
-        },
-        {
-          "name": "Ajaxx",
-          "url": "https://open.spotify.com/artist/0y7B2G0jNMGWyQJsOoRMUt"
-        },
-        {
-          "name": "GT",
-          "url": "https://open.spotify.com/artist/1XR3lAp7FDsp1bgnREtkOH"
-        }
-      ],
-      "duration_ms": 201428,
-      "name": "Vai Ser Melhor",
-      "url": "https://open.spotify.com/track/6xKj3ymHzFKbg734crnhv5"
     },
     {
       "added_at": "2023-10-13 03:00:00",
@@ -1535,6 +1511,46 @@
     {
       "added_at": "2023-10-13 03:00:00",
       "album": {
+        "name": "Vai Ser Melhor",
+        "url": "https://open.spotify.com/album/6LnuFNW9xGi6qq97WngcYf"
+      },
+      "artists": [
+        {
+          "name": "Patrick",
+          "url": "https://open.spotify.com/artist/710fgkV14KVymsc3sMILXE"
+        },
+        {
+          "name": "Ajaxx",
+          "url": "https://open.spotify.com/artist/0y7B2G0jNMGWyQJsOoRMUt"
+        },
+        {
+          "name": "GT",
+          "url": "https://open.spotify.com/artist/1XR3lAp7FDsp1bgnREtkOH"
+        }
+      ],
+      "duration_ms": 201428,
+      "name": "Vai Ser Melhor",
+      "url": "https://open.spotify.com/track/6xKj3ymHzFKbg734crnhv5"
+    },
+    {
+      "added_at": "2023-10-13 03:00:00",
+      "album": {
+        "name": "Todo Mundo Que Amei J\u00e1 Me Fez Chorar",
+        "url": "https://open.spotify.com/album/78PwIdZ0l97RtXpcj1WMDw"
+      },
+      "artists": [
+        {
+          "name": "Cleo",
+          "url": "https://open.spotify.com/artist/0Re3qA28AJh2eIITpbREtx"
+        }
+      ],
+      "duration_ms": 178654,
+      "name": "Todo Mundo Que Amei J\u00e1 Me Fez Chorar",
+      "url": "https://open.spotify.com/track/1ba9HdaWfIYmIytRcI90eU"
+    },
+    {
+      "added_at": "2023-10-13 03:00:00",
+      "album": {
         "name": "Venturana",
         "url": "https://open.spotify.com/album/5S5jCik9vydVacGnKfrp1S"
       },
@@ -1567,22 +1583,6 @@
       "duration_ms": 130666,
       "name": "Promessas",
       "url": "https://open.spotify.com/track/0sm2tZy8hskQW46adEhKuB"
-    },
-    {
-      "added_at": "2023-10-13 03:00:00",
-      "album": {
-        "name": "Todo Mundo Que Amei J\u00e1 Me Fez Chorar",
-        "url": "https://open.spotify.com/album/78PwIdZ0l97RtXpcj1WMDw"
-      },
-      "artists": [
-        {
-          "name": "Cleo",
-          "url": "https://open.spotify.com/artist/0Re3qA28AJh2eIITpbREtx"
-        }
-      ],
-      "duration_ms": 178654,
-      "name": "Todo Mundo Que Amei J\u00e1 Me Fez Chorar",
-      "url": "https://open.spotify.com/track/1ba9HdaWfIYmIytRcI90eU"
     }
   ],
   "unique_name": "Palco POP",

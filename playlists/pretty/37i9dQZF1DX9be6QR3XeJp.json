@@ -1,13 +1,29 @@
 {
-  "description": "Discover your new favourite artists from UK&IE. Cover:  The Last Dinner Party",
-  "num_followers": 119716,
+  "description": "Discover your new favourite artists from UK&IE. Cover: Elmiene",
+  "num_followers": 119712,
   "original_name": "RADAR UK & Ireland",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxYTIxNTNiOTk3YjYwNDdkZDc0YTgxNWY1NjlmNzQ4YTU3Y2UxOTg3",
+  "snapshot_id": "MCxhY2Q3YjAyNDk0ZTA5ZTE3MGFjNmEwM2Q3NDNlNjFkOThmNDdjMGY3",
   "tracks": [
+    {
+      "added_at": "2023-10-19 23:00:00",
+      "album": {
+        "name": "Someday",
+        "url": "https://open.spotify.com/album/7p0qGzJYOpmXp18zjT8vo8"
+      },
+      "artists": [
+        {
+          "name": "Elmiene",
+          "url": "https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL"
+        }
+      ],
+      "duration_ms": 161529,
+      "name": "Someday",
+      "url": "https://open.spotify.com/track/5nV3xjY5nlQwAgpuSeinNG"
+    },
     {
       "added_at": "2023-10-12 23:00:00",
       "album": {

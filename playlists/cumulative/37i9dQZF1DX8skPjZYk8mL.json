@@ -113,6 +113,24 @@
     },
     {
       "album": {
+        "name": "A Little Boat",
+        "url": "https://open.spotify.com/album/44X6fpGpyp0stgq8Rs5KE0"
+      },
+      "artists": [
+        {
+          "name": "Simon Hill",
+          "url": "https://open.spotify.com/artist/3CNRDi8CRRB2IF1v9no6NQ"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 74366,
+      "name": "A Little Boat",
+      "url": "https://open.spotify.com/track/6ahZWO4bnowdtkAJwkahWD"
+    },
+    {
+      "album": {
         "name": "A Mother's Heart",
         "url": "https://open.spotify.com/album/1ATFQZOKu1iwKfezW8k6Fk"
       },
@@ -833,6 +851,24 @@
     },
     {
       "album": {
+        "name": "Autumn Joy",
+        "url": "https://open.spotify.com/album/1997Gm8TX9mrOZWi6At4K8"
+      },
+      "artists": [
+        {
+          "name": "Thomas Scheller",
+          "url": "https://open.spotify.com/artist/26Dtv4a7haiHQI10e0mDJg"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 101106,
+      "name": "Autumn Joy",
+      "url": "https://open.spotify.com/track/6N72VsDHQL9QPe2XDY3YaQ"
+    },
+    {
+      "album": {
         "name": "Ave Nocturne Ancora",
         "url": "https://open.spotify.com/album/1NMZccxgdQoweWiGwCmAio"
       },
@@ -952,7 +988,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-20",
       "duration_ms": 177727,
       "name": "Baby Bird Finds His Nest",
       "url": "https://open.spotify.com/track/1vsVVHBaRapF8CFfWbve80"
@@ -6539,6 +6575,24 @@
     },
     {
       "album": {
+        "name": "John Brown's Song",
+        "url": "https://open.spotify.com/album/6SecsP3G8PkZ8STwhLpdbB"
+      },
+      "artists": [
+        {
+          "name": "Claire Pasteur",
+          "url": "https://open.spotify.com/artist/6uxwKpyg4gLxdvZIWzBrDy"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 111374,
+      "name": "John Brown's Song",
+      "url": "https://open.spotify.com/track/2V9YbhqLsxC7Llpb6e1CS7"
+    },
+    {
+      "album": {
         "name": "Joyful Dreams",
         "url": "https://open.spotify.com/album/48BRkijGa9KDMkWltUiuTp"
       },
@@ -7292,6 +7346,24 @@
       "duration_ms": 68571,
       "name": "Little Jack Horner",
       "url": "https://open.spotify.com/track/4bcK8YQsYRGufJzOBdFMjQ"
+    },
+    {
+      "album": {
+        "name": "Little Juniper Tree",
+        "url": "https://open.spotify.com/album/1F0uOct26s41A46zw0jwom"
+      },
+      "artists": [
+        {
+          "name": "Klara S\u00f6derman",
+          "url": "https://open.spotify.com/artist/3M4QRATGYND6tUfBYU0Qyt"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 61467,
+      "name": "Little Juniper Tree",
+      "url": "https://open.spotify.com/track/73LIz9HyLLfU1KsSSI3Xjm"
     },
     {
       "album": {
@@ -9311,6 +9383,24 @@
     },
     {
       "album": {
+        "name": "Off To Neverland",
+        "url": "https://open.spotify.com/album/26VfqQhvyNkkBWsRtP8u7S"
+      },
+      "artists": [
+        {
+          "name": "Jim Fauer",
+          "url": "https://open.spotify.com/artist/0YCnUoDR3B1rEFUUQ6FXdG"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 114394,
+      "name": "Off To Neverland",
+      "url": "https://open.spotify.com/track/7vmFAq28mL1vKnhffypkrC"
+    },
+    {
+      "album": {
         "name": "Oh Dear What Can The Matter Be",
         "url": "https://open.spotify.com/album/5K3M9LU3glsJGEXUsNHDZk"
       },
@@ -9488,6 +9578,24 @@
       "duration_ms": 82603,
       "name": "One Little Elephant",
       "url": "https://open.spotify.com/track/7BY2juS1phGDJV4Qspg5zE"
+    },
+    {
+      "album": {
+        "name": "One More, Mommy!",
+        "url": "https://open.spotify.com/album/2WREGOUQDi9sAf4iwzSn05"
+      },
+      "artists": [
+        {
+          "name": "Gabriella Chiado",
+          "url": "https://open.spotify.com/artist/5qEqJaMiZWbCFsnbDVRqOH"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118250,
+      "name": "One More, Mommy!",
+      "url": "https://open.spotify.com/track/1f7HZs5cKbpjbwIb51koAC"
     },
     {
       "album": {
@@ -9776,6 +9884,24 @@
       "duration_ms": 78065,
       "name": "Pop Goes the Weasel",
       "url": "https://open.spotify.com/track/4EsbzD1hbc4Kk7utFWGwIV"
+    },
+    {
+      "album": {
+        "name": "Puff The Magic Dragon",
+        "url": "https://open.spotify.com/album/3IBre9mlcbQbm4h20IqReb"
+      },
+      "artists": [
+        {
+          "name": "Jana Smith",
+          "url": "https://open.spotify.com/artist/5FzBu7hUNL3F2cA92hqfBp"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 89843,
+      "name": "Puff The Magic Dragon",
+      "url": "https://open.spotify.com/track/7ooZyIfFnU4UxmjTVYD9g3"
     },
     {
       "album": {
@@ -13775,6 +13901,24 @@
     },
     {
       "album": {
+        "name": "Twinkling Dreams",
+        "url": "https://open.spotify.com/album/3I8IeoIkwK7kAYxunROibU"
+      },
+      "artists": [
+        {
+          "name": "David Aydin",
+          "url": "https://open.spotify.com/artist/44sI7kxhWJ08lYnGw492Om"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 79014,
+      "name": "Twinkling Dreams",
+      "url": "https://open.spotify.com/track/1sSohEBI1HerYA3gOaHJXd"
+    },
+    {
+      "album": {
         "name": "The Ice Cream King",
         "url": "https://open.spotify.com/album/1tGzbOO4dXF4Eh2v7mMJ8p"
       },
@@ -14060,6 +14204,24 @@
       "duration_ms": 89500,
       "name": "Warm Enough For Ice Cream",
       "url": "https://open.spotify.com/track/5HNtQTusF4gpK3LYKalUyF"
+    },
+    {
+      "album": {
+        "name": "Warm Milk",
+        "url": "https://open.spotify.com/album/76HAoSan8BRJWIteFhzh0h"
+      },
+      "artists": [
+        {
+          "name": "Fraire Jaques",
+          "url": "https://open.spotify.com/artist/449CtTB6t83bfPppU0GcfI"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190042,
+      "name": "Warm Milk",
+      "url": "https://open.spotify.com/track/0L2o3G1JJfzDd6PWjZn6F2"
     },
     {
       "album": {
@@ -14672,6 +14834,24 @@
       "duration_ms": 70562,
       "name": "Wilhelmina",
       "url": "https://open.spotify.com/track/5NBemQIlOEOXrXFAidkLkw"
+    },
+    {
+      "album": {
+        "name": "Willow Song",
+        "url": "https://open.spotify.com/album/0tXYySMuRWTa2PlZ3VgpDx"
+      },
+      "artists": [
+        {
+          "name": "Maurice Marsipano",
+          "url": "https://open.spotify.com/artist/3kYoyPRiKgh8gEqKxXOWSr"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 57430,
+      "name": "Willow Song",
+      "url": "https://open.spotify.com/track/4U7P98xdvMWtAkhP6M0Kj7"
     },
     {
       "album": {

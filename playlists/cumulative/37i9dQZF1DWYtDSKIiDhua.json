@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-06-09",
-  "description": "The R&B and good vibe tracks for your current mood. Cover: Rexx Life Raj, thuy",
+  "description": "The R&B and good vibe tracks for your current mood. Cover: Yuna",
   "name": "mood.",
   "tracks": [
     {
@@ -531,6 +531,24 @@
     },
     {
       "album": {
+        "name": "HAPPY",
+        "url": "https://open.spotify.com/album/5oCnZaBNDb10lteseSrklw"
+      },
+      "artists": [
+        {
+          "name": "qt.",
+          "url": "https://open.spotify.com/artist/2PZrzgPEzozv50Ccu7f3ld"
+        }
+      ],
+      "date_added": "2023-10-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234731,
+      "name": "April",
+      "url": "https://open.spotify.com/track/7ibfoNcwydFIAi5UfTnyoD"
+    },
+    {
+      "album": {
         "name": "Ash (feat. KURO)",
         "url": "https://open.spotify.com/album/0Mwvqjpntcqy8uz2UgMjvf"
       },
@@ -630,6 +648,24 @@
       "duration_ms": 232114,
       "name": "Bad Habit",
       "url": "https://open.spotify.com/track/5CM4UuQ9Gnd6K2YyKGPMoK"
+    },
+    {
+      "album": {
+        "name": "Bad Intentions",
+        "url": "https://open.spotify.com/album/6woTomg4IThua1tXT9bsVx"
+      },
+      "artists": [
+        {
+          "name": "Yuna",
+          "url": "https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1"
+        }
+      ],
+      "date_added": "2023-10-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143731,
+      "name": "Bad Intentions",
+      "url": "https://open.spotify.com/track/0d7Z3ZMcCXP25EidWPC0Sf"
     },
     {
       "album": {
@@ -4225,6 +4261,24 @@
     },
     {
       "album": {
+        "name": "2004",
+        "url": "https://open.spotify.com/album/2mz2plCCh1VzUymmWMGjCg"
+      },
+      "artists": [
+        {
+          "name": "Assia Keva",
+          "url": "https://open.spotify.com/artist/78rdZWsKiflQNcM4ecLyi8"
+        }
+      ],
+      "date_added": "2023-10-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217514,
+      "name": "I'm So High",
+      "url": "https://open.spotify.com/track/0OsOsFGRsNsn6ncyOkr2Uo"
+    },
+    {
+      "album": {
         "name": "I've Been Waiting For So Long",
         "url": "https://open.spotify.com/album/49zicyaNRnOcLYYx0Cd4Ab"
       },
@@ -5986,6 +6040,24 @@
       "duration_ms": 201000,
       "name": "more than friends",
       "url": "https://open.spotify.com/track/50I78egyg3X8uAIyi5Yxsk"
+    },
+    {
+      "album": {
+        "name": "Real World",
+        "url": "https://open.spotify.com/album/1oOQ3NNONlroyPGbElifW3"
+      },
+      "artists": [
+        {
+          "name": "RealestK",
+          "url": "https://open.spotify.com/artist/35R1B97CfrqKFFI3QBkTDx"
+        }
+      ],
+      "date_added": "2023-10-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182400,
+      "name": "Mr. Lonely",
+      "url": "https://open.spotify.com/track/0d1NK6DEtHLK0Mw4iij3uI"
     },
     {
       "album": {
@@ -8844,6 +8916,24 @@
       "duration_ms": 155298,
       "name": "Surprise",
       "url": "https://open.spotify.com/track/3xcapG4WdzvsER4g70MjKc"
+    },
+    {
+      "album": {
+        "name": "Lahai",
+        "url": "https://open.spotify.com/album/5GuWww4OaildzkmTTlfMN3"
+      },
+      "artists": [
+        {
+          "name": "Sampha",
+          "url": "https://open.spotify.com/artist/2WoVwexZuODvclzULjPQtm"
+        }
+      ],
+      "date_added": "2023-10-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185371,
+      "name": "Suspended",
+      "url": "https://open.spotify.com/track/1maIZ0gsjVbdANLvl4v0ao"
     },
     {
       "album": {

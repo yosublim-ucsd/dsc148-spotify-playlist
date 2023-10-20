@@ -4,7 +4,7 @@
 
 > Acuérdate de estos clásicos\. Foto: Don Omar.
 
-404 songs - 1 day 0 hr 19 min
+405 songs - 1 day 0 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -190,6 +190,7 @@
 | [los Disicipulos](https://open.spotify.com/track/2vWWy37CDlDlfPipzb4iIX) | [Eddie Dee](https://open.spotify.com/artist/7zLcnirfgw1VEHHshuGcDR), [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m), [Gallego](https://open.spotify.com/artist/6P9Adm5Ne2YtzhV1hOjQcC), [Tego Calderón](https://open.spotify.com/artist/3SUT1jjM5hzZj9TLfLZGIP), [Voltio](https://open.spotify.com/artist/3Okcq0dqLVlEFHRZ5t22bA), [Ivy Queen](https://open.spotify.com/artist/6p2442ymrT9lZEuCZJdYcH), [Johnny Prez](https://open.spotify.com/artist/6gm3ZEpugRTHbtEn3A6Siw), [Wiso G](https://open.spotify.com/artist/0LZaKjCxp13clON7dlplRt), [Zion & Lennox](https://open.spotify.com/artist/21451j1KhjAiaYKflxBjr1) | [12 Discipulos](https://open.spotify.com/album/7txBx0XCrl5IhJuTNgNV4w) | 4:29 | 2021-12-17 |  |
 | [Luna](https://open.spotify.com/track/0qFCBX8p5cgbLjJk90xy49) | [Alex Gargolas](https://open.spotify.com/artist/7awyvLSthqOcL5A3hnR1pf), [Don Omar](https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z) | [Alex Gárgolas Presenta: Las Gárgolas,Vol.4](https://open.spotify.com/album/5pB29lSqQXirGEdMfJhtWH) | 3:41 | 2022-11-02 |  |
 | [Luna](https://open.spotify.com/track/6l1DuBpGWcDqj3tl80MfVQ) | [Don Omar](https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z) | [Luna](https://open.spotify.com/album/2GAMP9XG7wUrnlRs8LLLsE) | 3:39 | 2021-12-17 | 2022-07-29 |
+| [Luna](https://open.spotify.com/track/3ho9M5jTEsJ7ymiBN7LoRd) | [Flex](https://open.spotify.com/artist/13VwGEitoK8J0qjNjbgeTN) | [Te Quiero](https://open.spotify.com/album/64lQg8aSBACpRFwTkfk6Nm) | 3:16 | 2023-10-05 |  |
 | [Machete](https://open.spotify.com/track/1n378okiaJGDR06by3YM2U) | [Héctor "El Father"](https://open.spotify.com/artist/2TjgzYcbTdsZjbT9OItIeB), [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m) | [Los Anormales](https://open.spotify.com/album/1g2W7SvrDcsxpRnGpGy6K0) | 3:02 | 2021-12-17 | 2022-11-13 |
 | [Mala Conducta \(feat\. Franco El Gorila\)](https://open.spotify.com/track/3tI4duDhHmmz1Sp7RX0Jbq) | [Alexis y Fido](https://open.spotify.com/artist/7tU1VKOuxiNZwBZC6RHidA), [Franco "El Gorilla"](https://open.spotify.com/artist/2biH2I1TvZlIIIc5W14oIJ) | [Perreología](https://open.spotify.com/album/4qXNRlaRSR6ps3oyeEcvVk) | 4:17 | 2021-12-17 |  |
 | [Maniatica](https://open.spotify.com/track/2FxV7yyyfkByIGmUp1o1dY) | [DJ Nelson](https://open.spotify.com/artist/2ydZrTy8U3kOMOzx20s3dg) | [Megahitz Volumen Uno](https://open.spotify.com/album/3KUOR2fvyW563YjY7byQ5U) | 4:22 | 2022-05-13 | 2023-07-25 |
@@ -325,7 +326,7 @@
 | [Sigue Bailando Mi Amor](https://open.spotify.com/track/0Ueebi9UrB6jtIcGYal2uM) | [El Roockie](https://open.spotify.com/artist/3sc8HnadkPW5YaIGbCljw4) | [Sigue Bailando Mi Amor](https://open.spotify.com/album/2MqCJi6VjXC2mYtnD219gr) | 3:18 | 2022-09-26 |  |
 | [Sin Miedo](https://open.spotify.com/track/6hWW4e5GeZpppndu1IwKzR) | [Reykon](https://open.spotify.com/artist/3PAwspMN27PDm81WwXDsMf) | [Sin Miedo](https://open.spotify.com/album/151z3gITteVJACjqfyFnvQ) | 3:16 | 2021-12-17 | 2023-08-15 |
 | [Sin Miedo](https://open.spotify.com/track/6aibYCJcHtpQgwq35ohOKs) | [Reykon](https://open.spotify.com/artist/3PAwspMN27PDm81WwXDsMf) | [Sin Miedo](https://open.spotify.com/album/3IhY9gtZHtaGPjvWR8PCcp) | 3:17 | 2023-08-14 |  |
-| [Sin Tu Amor \(feat\. Alex Pro\)](https://open.spotify.com/track/63hZCrRfcZza3npjwt3Ezs) | [Flex](https://open.spotify.com/artist/13VwGEitoK8J0qjNjbgeTN), [Alex Pro](https://open.spotify.com/artist/2v6k4KGZsj9Tx3gn2aECFO) | [Te Quiero](https://open.spotify.com/album/64lQg8aSBACpRFwTkfk6Nm) | 3:29 | 2023-07-31 |  |
+| [Sin Tu Amor \(feat\. Alex Pro\)](https://open.spotify.com/track/63hZCrRfcZza3npjwt3Ezs) | [Flex](https://open.spotify.com/artist/13VwGEitoK8J0qjNjbgeTN), [Alex Pro](https://open.spotify.com/artist/2v6k4KGZsj9Tx3gn2aECFO) | [Te Quiero](https://open.spotify.com/album/64lQg8aSBACpRFwTkfk6Nm) | 3:29 | 2023-07-31 | 2023-10-20 |
 | [Sol, Playa Y Arena](https://open.spotify.com/track/2OikDCslmF1Y04Szgbc8Hl) | [Tito "El Bambino"](https://open.spotify.com/artist/5fJsY7afrbsyzJj9wdzJMh) | [It's My Time](https://open.spotify.com/album/1xAIagWtSmzXVaVL6DZDIe) | 3:08 | 2021-12-17 |  |
 | [Sola](https://open.spotify.com/track/3bNRq6LJ3n1lp1A7qrrWK6) | [Héctor "El Father"](https://open.spotify.com/artist/2TjgzYcbTdsZjbT9OItIeB) | [The Bad Boy \(The Most Wanted Edition\)](https://open.spotify.com/album/4wucK3TtoeQPDQO0UVY0eS) | 2:53 | 2021-12-17 |  |
 | [Solitaria](https://open.spotify.com/track/07hNUXX5QqXgOAbcst7CPP) | [Alkilados](https://open.spotify.com/artist/2DP9xStkVVv753RBiEHXQB) | [Pura Playa](https://open.spotify.com/album/4MKfVmMrhQzmlolHL7VIlk) | 3:38 | 2022-05-13 |  |

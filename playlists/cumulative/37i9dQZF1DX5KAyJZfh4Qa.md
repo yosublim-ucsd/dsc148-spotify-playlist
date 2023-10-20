@@ -4,7 +4,7 @@
 
 > it's just one of those days w/ <a href="https://open.spotify.com/artist/0fNyhBvhR5Xw6s0EYQewUa?si=9cd8ab93c60b4919"> Sweet Pill</a>.
 
-154 songs - 8 hr 36 min
+155 songs - 8 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -69,7 +69,8 @@
 | [Heck](https://open.spotify.com/track/7q7vCKmFmGLhhPmFo3DNpw) | [underscores](https://open.spotify.com/artist/7HfUJxeVTgrvhk0eWHFzV7) | [boneyard aka fearmonger](https://open.spotify.com/album/0d5AkUvivi6Y6Vyv8OYjZO) | 1:58 | 2022-11-25 | 2023-03-11 |
 | [Hiraeth](https://open.spotify.com/track/7J1rx8Kkbuagoi3EYuyEl1) | [Common Sage](https://open.spotify.com/artist/3DE3WMda6z9BuyMEQyRNFn), [Further Seems Forever](https://open.spotify.com/artist/1Enp9WKfk0aI9CFi2YGBq7), [Jason Gleason](https://open.spotify.com/artist/1CW0lVVHTQXygXWLJJgYU9) | [Hiraeth](https://open.spotify.com/album/3iih8XrFxJMaDEjW6DEvON) | 3:45 | 2023-10-14 |  |
 | [Hollow](https://open.spotify.com/track/2UUw0f57ZMg6cYYkVrPvzr) | [Stay Inside](https://open.spotify.com/artist/59QLiM8EVDaCyuHV6ifMpv) | [Hollow](https://open.spotify.com/album/2UlJQbQVnrqFNGtcO6ZLbw) | 4:10 | 2022-11-25 |  |
-| [I Can Feel Every Cut](https://open.spotify.com/track/7o7asYZdFBfprsWVdw9LOz) | [Hollow](https://open.spotify.com/artist/64uA1WO40WSspFUnUYirSt) | [I Can Feel Every Cut](https://open.spotify.com/album/2t6Fuj0C8sORHsRAnqxLDG) | 3:38 | 2023-08-25 |  |
+| [I Can Feel Every Cut](https://open.spotify.com/track/6Zlg7H7DNZmE5aFqJ0LInj) | [Hollow](https://open.spotify.com/artist/64uA1WO40WSspFUnUYirSt) | [We're All Desperate Together](https://open.spotify.com/album/13Ek2l28XoGNc3hkUrzQpp) | 3:38 | 2023-09-29 |  |
+| [I Can Feel Every Cut](https://open.spotify.com/track/7o7asYZdFBfprsWVdw9LOz) | [Hollow](https://open.spotify.com/artist/64uA1WO40WSspFUnUYirSt) | [I Can Feel Every Cut](https://open.spotify.com/album/2t6Fuj0C8sORHsRAnqxLDG) | 3:38 | 2023-08-25 | 2023-10-20 |
 | [I found a date for the holidays \(maybe\)](https://open.spotify.com/track/43KBew1XbpDRXTgZweVAoH) | [Savings](https://open.spotify.com/artist/0rwySd43RW6Pq9QDfaGeLb) | [I found a date for the holidays \(maybe\)](https://open.spotify.com/album/5BT2nAqcagyoRFooZnr46L) | 2:42 | 2022-11-25 | 2023-03-18 |
 | [i heard they found you face down inside your living room](https://open.spotify.com/track/0GBmIoWGlCsBghx7mOE0Ll) | [Can't Swim](https://open.spotify.com/artist/62elZbH5Iop8UPcChp7OrU) | [i heard they found you face down inside your living room](https://open.spotify.com/album/69bjMy1M1LF1IeLraUUY5q) | 3:11 | 2022-11-25 |  |
 | [I Hope You Choke!](https://open.spotify.com/track/5q6pgHMUEIdq78NVmmytL5) | [Movements](https://open.spotify.com/artist/1kkyfIopIiVvaPHHlbsfac) | [RUCKUS!](https://open.spotify.com/album/3UO7dRJBreXDCBlqfCWBPo) | 3:19 | 2023-09-22 |  |

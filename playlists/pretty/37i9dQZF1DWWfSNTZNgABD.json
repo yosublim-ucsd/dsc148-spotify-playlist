@@ -1,12 +1,12 @@
 {
   "description": "The Latin soundtrack of the 2000s! Cover: Shakira",
-  "num_followers": 261422,
+  "num_followers": 261469,
   "original_name": "00s Latino",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlMmU3YjY3MWI3OTcwNWM3YmQ3NzQ3YjBiZWJlNWFkMjQ5OGFhYWVm",
+  "snapshot_id": "MCwyMGM2YjIzNDU1OTVhZTg0M2QwYTc3NWIyOTMwNWRhZWNkODUyZTc3",
   "tracks": [
     {
       "added_at": "2023-01-31 23:21:10",
@@ -451,22 +451,6 @@
     {
       "added_at": "2023-01-31 23:21:10",
       "album": {
-        "name": "Santo Pecado",
-        "url": "https://open.spotify.com/album/7jlpMHgMoGjy2mc0CwzCjf"
-      },
-      "artists": [
-        {
-          "name": "Ricardo Arjona",
-          "url": "https://open.spotify.com/artist/0h1zs4CTlU9D2QtgPxptUD"
-        }
-      ],
-      "duration_ms": 330373,
-      "name": "El Problema",
-      "url": "https://open.spotify.com/track/5UJsYyBi0CdSJl0ul5aTgO"
-    },
-    {
-      "added_at": "2023-01-31 23:21:10",
-      "album": {
         "name": "Esta Es Mi Vida",
         "url": "https://open.spotify.com/album/1DqezzIzunjysnTKPtxB98"
       },
@@ -479,6 +463,22 @@
       "duration_ms": 222626,
       "name": "Espacio sideral",
       "url": "https://open.spotify.com/track/3OIoy3TNU7CL5PTaHOGmbR"
+    },
+    {
+      "added_at": "2023-01-31 23:21:10",
+      "album": {
+        "name": "Santo Pecado",
+        "url": "https://open.spotify.com/album/7jlpMHgMoGjy2mc0CwzCjf"
+      },
+      "artists": [
+        {
+          "name": "Ricardo Arjona",
+          "url": "https://open.spotify.com/artist/0h1zs4CTlU9D2QtgPxptUD"
+        }
+      ],
+      "duration_ms": 330373,
+      "name": "El Problema",
+      "url": "https://open.spotify.com/track/5UJsYyBi0CdSJl0ul5aTgO"
     },
     {
       "added_at": "2023-01-31 23:21:10",
@@ -1283,22 +1283,6 @@
     {
       "added_at": "2023-01-31 23:21:10",
       "album": {
-        "name": "Ananda",
-        "url": "https://open.spotify.com/album/3crF1rm8dNCybqtUd1gNZj"
-      },
-      "artists": [
-        {
-          "name": "Paulina Rubio",
-          "url": "https://open.spotify.com/artist/1d6dwipPrsFSJVmFTTdFSS"
-        }
-      ],
-      "duration_ms": 224786,
-      "name": "Ni Una Sola Palabra",
-      "url": "https://open.spotify.com/track/5xXYuYk2CzHfk3kLKYmRRb"
-    },
-    {
-      "added_at": "2023-01-31 23:21:10",
-      "album": {
         "name": "The Last Don Live",
         "url": "https://open.spotify.com/album/0hFZpkgYSp761ZOM2EOZWQ"
       },
@@ -1311,6 +1295,22 @@
       "duration_ms": 254480,
       "name": "Pobre Diabla",
       "url": "https://open.spotify.com/track/1xbw6jObdWhPSoN9MflOSA"
+    },
+    {
+      "added_at": "2023-01-31 23:21:10",
+      "album": {
+        "name": "Ananda",
+        "url": "https://open.spotify.com/album/3crF1rm8dNCybqtUd1gNZj"
+      },
+      "artists": [
+        {
+          "name": "Paulina Rubio",
+          "url": "https://open.spotify.com/artist/1d6dwipPrsFSJVmFTTdFSS"
+        }
+      ],
+      "duration_ms": 224786,
+      "name": "Ni Una Sola Palabra",
+      "url": "https://open.spotify.com/track/5xXYuYk2CzHfk3kLKYmRRb"
     },
     {
       "added_at": "2023-01-31 23:21:10",
@@ -1367,18 +1367,18 @@
     {
       "added_at": "2023-01-31 23:21:10",
       "album": {
-        "name": "Thalia",
-        "url": "https://open.spotify.com/album/5aHuKZqTY34cuOcIFfohrt"
+        "name": "Sincero",
+        "url": "https://open.spotify.com/album/03dnIimGspec4sucffQWLO"
       },
       "artists": [
         {
-          "name": "Thalia",
-          "url": "https://open.spotify.com/artist/23wEWD21D4TPYiJugoXmYb"
+          "name": "Chayanne",
+          "url": "https://open.spotify.com/artist/1JbemQ1fPt2YmSLjAFhPBv"
         }
       ],
-      "duration_ms": 225840,
-      "name": "A Quien Le Importa",
-      "url": "https://open.spotify.com/track/0R5da1qbsZ8juxK3Dm8XCw"
+      "duration_ms": 280200,
+      "name": "Un Siglo Sin Ti",
+      "url": "https://open.spotify.com/track/145YOwjGncJQZPKbfol7Xr"
     }
   ],
   "unique_name": "00s Latino",

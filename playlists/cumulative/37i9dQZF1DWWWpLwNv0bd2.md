@@ -4,7 +4,7 @@
 
 > Check out the Latest Romance Tracks.<br/>Cover : Leo
 
-155 songs - 10 hr 24 min
+156 songs - 10 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -41,6 +41,7 @@
 | [Cute Ponnu](https://open.spotify.com/track/1Bpvh9xYlcxHkWJMQuiNiA) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [Vivek Siva](https://open.spotify.com/artist/7B0eBcEyMXoyqBrVyj7gFD) | [Cute Ponnu \(From "Enna Solla Pogirai"\)](https://open.spotify.com/album/7fVDf5Unepx5UYSruu3xWw) | 4:35 | 2021-11-29 | 2023-02-22 |
 | [Dhada Dhada](https://open.spotify.com/track/0hvh7UTvtucrG3GE7Hz2AF) | [Devi Sri Prasad](https://open.spotify.com/artist/5sSzCxHtgL82pYDvx2QyEU), [Haricharan](https://open.spotify.com/artist/1QvyquqkuuwUzdszyoKIy4) | [The Warriorr \(Tamil\)](https://open.spotify.com/album/6T16NSY4Djby3ggU3zd2vE) | 4:06 | 2022-06-04 | 2022-08-08 |
 | [Edho Solla \(From "Murungakkai Chips"\)](https://open.spotify.com/track/61cO5mTOB2RQ5Kp03sNm3E) | [Dharan Kumar](https://open.spotify.com/artist/1IeJ7wOH2CgIca4B1CBikF), [Sid Sriram](https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN) | [Edho Solla \(From "Murungakkai Chips"\)](https://open.spotify.com/album/6IY7I0TUaDMbrGxlm55Vpf) | 5:02 | 2021-11-29 | 2022-06-21 |
+| [En Rojaa Neeye \(From "Kushi"\)](https://open.spotify.com/track/13fsvYMK0cPDgYcWIasc2o) | [Hesham Abdul Wahab](https://open.spotify.com/artist/50iBEPSw6kQ8GQkumXz7XZ), [Madhan Karky](https://open.spotify.com/artist/0MC4IRJmruzbwPInw7vmL7) | [En Rojaa Neeye \(From "Kushi"\) \- Single](https://open.spotify.com/album/06B2tZByNLYFnNJAFVTDsv) | 4:03 | 2023-10-19 |  |
 | [Ennai Vittu](https://open.spotify.com/track/4FOCZFqxIS1Xc5JWla5VNj) | [Yuvan Shankar Raja](https://open.spotify.com/artist/6AiX12wXdXFoGJ2vk8zBjy), [Sid Sriram](https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN) | [Love Today \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4thX43Eb58eteV7DriC6H0) | 4:04 | 2023-01-04 |  |
 | [Eppa Paarthaalum](https://open.spotify.com/track/544aJ5szBIJQPTslMwpJ5W) | [Hiphop Tamizha](https://open.spotify.com/artist/7zFBW2JxM4bgTTKxCRcS8Q), [Armaan Malik](https://open.spotify.com/artist/4IKVDbCSBTxBeAsMKjAuTs) | [Aalambana \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/39KQ4Vr4myL0VV1c9IFUCR) | 3:29 | 2022-03-29 | 2023-06-16 |
 | [Gaandu Kannamma](https://open.spotify.com/track/7eS07q4Ft2ySmiH7NalStq) | [Vivek \- Mervin](https://open.spotify.com/artist/4hBCDHUWTljP6BDl5AekgW) | [Gaandu Kannamma](https://open.spotify.com/album/2yZXnhQoiiQN6PMNoGcQ4r) | 3:25 | 2021-11-29 | 2022-06-21 |

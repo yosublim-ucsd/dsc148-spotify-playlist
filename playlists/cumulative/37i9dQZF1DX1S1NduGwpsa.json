@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-04-20",
-  "description": "The best jazz new releases. Cover: Roberto Fonseca",
+  "description": "The best jazz new releases. Cover: L\u00e9on Phal",
   "name": "Jazz Club",
   "tracks": [
     {
@@ -94,6 +94,28 @@
       "duration_ms": 319379,
       "name": "A Lullaby for Constance",
       "url": "https://open.spotify.com/track/7sDCXDgzgv9LrrSxSerVEa"
+    },
+    {
+      "album": {
+        "name": "A Night To Remember",
+        "url": "https://open.spotify.com/album/73wBVA41AulgjGiL3rBwfe"
+      },
+      "artists": [
+        {
+          "name": "beabadoobee",
+          "url": "https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB"
+        },
+        {
+          "name": "Laufey",
+          "url": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
+        }
+      ],
+      "date_added": "2023-10-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233388,
+      "name": "A Night To Remember",
+      "url": "https://open.spotify.com/track/180AbZduI6bYQIzwCHRwu9"
     },
     {
       "album": {
@@ -418,7 +440,7 @@
       ],
       "date_added": "2023-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-20",
       "duration_ms": 440400,
       "name": "Apache Woman",
       "url": "https://open.spotify.com/track/6gH3Nrt0v6AZzCfaMAjyO2"
@@ -968,7 +990,7 @@
       ],
       "date_added": "2023-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-20",
       "duration_ms": 211186,
       "name": "Body of Mine",
       "url": "https://open.spotify.com/track/59Ll82ces41ZPuIOi9SVua"
@@ -1118,7 +1140,7 @@
       ],
       "date_added": "2023-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-20",
       "duration_ms": 216306,
       "name": "California and Me",
       "url": "https://open.spotify.com/track/5VP1yXviUwA0KA0ewit5pe"
@@ -1776,7 +1798,7 @@
       ],
       "date_added": "2023-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-20",
       "duration_ms": 293666,
       "name": "D'une \u00e9vidence \u00e0 l'autre",
       "url": "https://open.spotify.com/track/4sbVOd9hSB3rHxjQDlfIQX"
@@ -2475,6 +2497,24 @@
     },
     {
       "album": {
+        "name": "Feeling Good",
+        "url": "https://open.spotify.com/album/4mJZ4q8XBAJiAwKEEIHwq1"
+      },
+      "artists": [
+        {
+          "name": "Youn Sun Nah",
+          "url": "https://open.spotify.com/artist/10tYA1kHmiT7kCfF6HX0Wj"
+        }
+      ],
+      "date_added": "2023-10-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204640,
+      "name": "Feeling Good",
+      "url": "https://open.spotify.com/track/2PjW6wCK1eBD0CGcswZMTw"
+    },
+    {
+      "album": {
         "name": "First Shot",
         "url": "https://open.spotify.com/album/4r919vmWnr9CeRv3FpROhI"
       },
@@ -2564,6 +2604,28 @@
       "duration_ms": 410600,
       "name": "For The People",
       "url": "https://open.spotify.com/track/1I4hekWxSDBawYgh1AZuMg"
+    },
+    {
+      "album": {
+        "name": "Forest Habits",
+        "url": "https://open.spotify.com/album/3zFC5FLr1Q7sPbsatVEYPX"
+      },
+      "artists": [
+        {
+          "name": "Oliver Crosby",
+          "url": "https://open.spotify.com/artist/3JlivF1eIeK1qIg6BdFdNO"
+        },
+        {
+          "name": "Ted Taforo",
+          "url": "https://open.spotify.com/artist/7tbxW8j3pe34xRrPtS5igX"
+        }
+      ],
+      "date_added": "2023-10-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201430,
+      "name": "Forest Habits",
+      "url": "https://open.spotify.com/track/5HCYWa3Jg38TXYhlsvwAaX"
     },
     {
       "album": {
@@ -3270,7 +3332,7 @@
       ],
       "date_added": "2023-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-20",
       "duration_ms": 217376,
       "name": "How Did You Get In My Dreams?",
       "url": "https://open.spotify.com/track/3H54XoNyQQ8ZIIJUDMDSaO"
@@ -3694,7 +3756,7 @@
       ],
       "date_added": "2023-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-20",
       "duration_ms": 269160,
       "name": "It's Not Unusual",
       "url": "https://open.spotify.com/track/3l30P6I5HoyfcMNbWOgi9E"
@@ -4427,6 +4489,24 @@
     },
     {
       "album": {
+        "name": "MAD",
+        "url": "https://open.spotify.com/album/1bRx5KpYksNlMDbzbotYiU"
+      },
+      "artists": [
+        {
+          "name": "Caravan Palace",
+          "url": "https://open.spotify.com/artist/37J1PlAkhRK7yrZUtqaUpQ"
+        }
+      ],
+      "date_added": "2023-10-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167142,
+      "name": "MAD",
+      "url": "https://open.spotify.com/track/3dbkTfj3VgC7IUHxDH8dO4"
+    },
+    {
+      "album": {
         "name": "Madagascar",
         "url": "https://open.spotify.com/album/2q3pdlBV9ibyq86UNZLnVr"
       },
@@ -4484,6 +4564,24 @@
       "duration_ms": 132592,
       "name": "Madrid",
       "url": "https://open.spotify.com/track/7sn2vY1Uh0jLQNiFuMETSo"
+    },
+    {
+      "album": {
+        "name": "Maledetta Quella Notte",
+        "url": "https://open.spotify.com/album/53rZDVzeELEDGg9XSfoYym"
+      },
+      "artists": [
+        {
+          "name": "Il Mago Del Gelato",
+          "url": "https://open.spotify.com/artist/1HVA7XWQZ5OZgJLhSaTDXA"
+        }
+      ],
+      "date_added": "2023-10-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230250,
+      "name": "Maledetta Quella Notte",
+      "url": "https://open.spotify.com/track/2Wz8vQMgkpnUallH0caj1r"
     },
     {
       "album": {
@@ -4735,6 +4833,28 @@
     },
     {
       "album": {
+        "name": "Aw\u00e9 ! (Les In\u00e9dits)",
+        "url": "https://open.spotify.com/album/5QSIUcwXCeD2sBT8OQ2PSW"
+      },
+      "artists": [
+        {
+          "name": "Samy Thi\u00e9bault",
+          "url": "https://open.spotify.com/artist/797YMCRJhlhkokujV4RLih"
+        },
+        {
+          "name": "Eric Legnini",
+          "url": "https://open.spotify.com/artist/4iwk7yhBhcSyfbK4a4cnUi"
+        }
+      ],
+      "date_added": "2023-10-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142169,
+      "name": "Miami",
+      "url": "https://open.spotify.com/track/2T5yV3TK952ePPnWpIXE3h"
+    },
+    {
+      "album": {
         "name": "Mille rivages",
         "url": "https://open.spotify.com/album/6FNc6VIgy51x78oq812WKt"
       },
@@ -4958,6 +5078,24 @@
       "duration_ms": 234280,
       "name": "Nature Boy",
       "url": "https://open.spotify.com/track/5qRl4AhKqAHyombYJ2SqiZ"
+    },
+    {
+      "album": {
+        "name": "Behind the Tea Chronicles",
+        "url": "https://open.spotify.com/album/2NRg9UqRH3YFWJG7XEwba9"
+      },
+      "artists": [
+        {
+          "name": "Ed Motta",
+          "url": "https://open.spotify.com/artist/19nFjml2GjS4LuL4NrDa7D"
+        }
+      ],
+      "date_added": "2023-10-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 294777,
+      "name": "Newsroom Customers",
+      "url": "https://open.spotify.com/track/0Wz0QhOSNyRsNsABrQtlrP"
     },
     {
       "album": {
@@ -5765,6 +5903,28 @@
     },
     {
       "album": {
+        "name": "Retrograde",
+        "url": "https://open.spotify.com/album/3GANzjs5JVExRBMrub9hJa"
+      },
+      "artists": [
+        {
+          "name": "Thomas Enhco",
+          "url": "https://open.spotify.com/artist/7JpJd4JNH3oPZMWCwTKkYK"
+        },
+        {
+          "name": "St\u00e9phane Kerecki",
+          "url": "https://open.spotify.com/artist/4G14nUJ2VqZfvjmSlmot8B"
+        }
+      ],
+      "date_added": "2023-10-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239493,
+      "name": "Retrograde",
+      "url": "https://open.spotify.com/track/5uOOqzmhFT5bnwjbQtSJ9k"
+    },
+    {
+      "album": {
         "name": "Rituel du soleil",
         "url": "https://open.spotify.com/album/1349X3aKwOlh6XimmsJS5U"
       },
@@ -6052,7 +6212,7 @@
       ],
       "date_added": "2023-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-20",
       "duration_ms": 248862,
       "name": "September In The Rain",
       "url": "https://open.spotify.com/track/3B1p5fP7kwsWb7WnazHDrS"
@@ -7548,7 +7708,7 @@
       ],
       "date_added": "2023-08-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-20",
       "duration_ms": 247586,
       "name": "Vibing in Ay",
       "url": "https://open.spotify.com/track/4gTHcR3JBdVIY1f9XPD77U"

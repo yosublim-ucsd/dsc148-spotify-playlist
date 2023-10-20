@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZwtERXCS82H.md) - [plain]
 
 > Calm and quiet piano music for reading.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,082,947 likes - 318 songs - 13 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,083,232 likes - 318 songs - 13 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,7 +52,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZwtERXCS82H.md) - [plain]
 | 42 | [Release from silence](https://open.spotify.com/track/2t9Fi5LCyFyha1EfaPqVD9) | [Patrick Buote](https://open.spotify.com/artist/7ICIWajOxziHTqP1yzsz74) | [Release from silence](https://open.spotify.com/album/3CFaQNYtGUK5Y669NHFBgQ) | 2:17 |
 | 43 | [Opus 9](https://open.spotify.com/track/4OVIVWM4GB2OwmlEsZ4D3U) | [Karol Seifert](https://open.spotify.com/artist/3IQYEJG6lpSmC3r4NfWB9m) | [Opus 9](https://open.spotify.com/album/4AqJ6Q47iOfOLyHRyQvTQq) | 2:37 |
 | 44 | [Saudade](https://open.spotify.com/track/5N56pgOicPJjfMsYV5ppyK) | [Vivian Roost](https://open.spotify.com/artist/7aCsFWCF4YljmoHrXRA63I) | [Saudade](https://open.spotify.com/album/3uOzcnthiPwrYCrCyb4Txy) | 3:34 |
-| 45 | [the fairy's dance](https://open.spotify.com/track/3usYoqBDd9MBa2bbKZNnvm) | [Chloe.](https://open.spotify.com/artist/7hQIVTiivFO7UyBO3gnxZ5) | [the fairy's dance](https://open.spotify.com/album/3jqtmlqUYRg095KlIIfXCS) | 2:24 |
+| 45 | [the fairy's dance](https://open.spotify.com/track/3usYoqBDd9MBa2bbKZNnvm) | [Chloe](https://open.spotify.com/artist/36DT6rytTt5gYcvmDCVQqI) | [the fairy's dance](https://open.spotify.com/album/3jqtmlqUYRg095KlIIfXCS) | 2:24 |
 | 46 | [Consilium](https://open.spotify.com/track/5Yd5eQlc2x0ve3JCFSgoAQ) | [Joaquim Azevedo](https://open.spotify.com/artist/1ImirIGZrja33BIU3Ww2mH) | [Consilium](https://open.spotify.com/album/7pS00vJKlwX2kFPlTx51kJ) | 2:16 |
 | 47 | [Fable](https://open.spotify.com/track/5peqXtg8QfwrtkAVsX0hrf) | [Cinthya Garcia](https://open.spotify.com/artist/6bJ7NkfRa94C3IT6NGamEv) | [Fable](https://open.spotify.com/album/2bqm0uelNOxlsZUPlBYIf3) | 2:29 |
 | 48 | [Opposite Direction](https://open.spotify.com/track/7zTzbfW7X0K14PJvXRAoez) | [Levi Neroli](https://open.spotify.com/artist/2HTyHL2oeARjQT0ilYm93F) | [Opposite Direction](https://open.spotify.com/album/0abhpvivOsubnPSDujglNS) | 2:28 |
@@ -327,4 +327,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZwtERXCS82H.md) - [plain]
 | 317 | [Arturo](https://open.spotify.com/track/1PfP9J1Vuc3HQgAqkg0GFW) | [Lucas Forch](https://open.spotify.com/artist/13gyOR6KA3pA8MIuWW2Pcm) | [Beginnings](https://open.spotify.com/album/5MqvffTG1ZlTMBUlZ9ZoVD) | 2:52 |
 | 318 | [Prairie d'été](https://open.spotify.com/track/0rsGOnRV2avSVuin3XZ5FO) | [Lucile Colbert](https://open.spotify.com/artist/2ztM0XfKnV9j8twCZI9qzK) | [Prairie d'été](https://open.spotify.com/album/5XPBI5MTUG64NGaxrDWFcS) | 2:49 |
 
-Snapshot ID: `MCxhZjgwNWJiM2ZlMzNiNzMzN2I0ZmQyNmM3ZDJmNzQzZGVmODEyMjli`
+Snapshot ID: `MCw1ZGE2MGY2ZTQzODVmYjVkMTA0M2RiNTYxN2Y2NjdmZmIwODYyYmM2`

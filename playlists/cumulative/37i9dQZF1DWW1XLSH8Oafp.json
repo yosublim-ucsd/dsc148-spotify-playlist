@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-17",
-  "description": "ur on the list bb \ud83e\ude90 featuring PinkPantheress ",
+  "description": "ur on the list bb \ud83e\ude90 featuring Snakehips, Au/Ra",
   "name": "planet rave",
   "tracks": [
     {
@@ -1590,7 +1590,7 @@
       ],
       "date_added": "2023-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-20",
       "duration_ms": 231382,
       "name": "bluefairy",
       "url": "https://open.spotify.com/track/4EF0sD3FSWxf6w5VOuoQir"
@@ -2260,6 +2260,24 @@
       "duration_ms": 233793,
       "name": "Can't Stop - Egg Remix",
       "url": "https://open.spotify.com/track/5I31EqzRDHfKnVOdjHvNLG"
+    },
+    {
+      "album": {
+        "name": "Capable of love",
+        "url": "https://open.spotify.com/album/0v71HfYxKmyN4kGA96Iwn2"
+      },
+      "artists": [
+        {
+          "name": "PinkPantheress",
+          "url": "https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223680,
+      "name": "Capable of love",
+      "url": "https://open.spotify.com/track/4bqDgEc3V9o0gle8mvgCgN"
     },
     {
       "album": {
@@ -2945,6 +2963,28 @@
     },
     {
       "album": {
+        "name": "Dance With Me",
+        "url": "https://open.spotify.com/album/2MTBy7JV4GKCmE5wSLEUgN"
+      },
+      "artists": [
+        {
+          "name": "Symmetrik",
+          "url": "https://open.spotify.com/artist/3tpgt8THdKcWUuTgmBMhwm"
+        },
+        {
+          "name": "Rae Morris",
+          "url": "https://open.spotify.com/artist/67xyhWIvYQK5qr6b0gElst"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148965,
+      "name": "Dance With Me",
+      "url": "https://open.spotify.com/track/7tI027S6KnKQmnjN2uwDfP"
+    },
+    {
+      "album": {
         "name": "Dancing With A Ghost",
         "url": "https://open.spotify.com/album/6rRgBjM0ceIiy8MiguAX7D"
       },
@@ -3350,7 +3390,7 @@
       ],
       "date_added": "2023-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-20",
       "duration_ms": 111642,
       "name": "dream about u",
       "url": "https://open.spotify.com/track/6gJX9BvTXsh76nrXogo1D7"
@@ -3836,7 +3876,7 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-20",
       "duration_ms": 169795,
       "name": "Everything U Do",
       "url": "https://open.spotify.com/track/0qX63a02yvrn8QWwEW7ru0"
@@ -9252,6 +9292,24 @@
       "duration_ms": 138666,
       "name": "ONLINE INDUCED HIGH",
       "url": "https://open.spotify.com/track/2jqYdQrmCCTB0TvbNi7hRq"
+    },
+    {
+      "album": {
+        "name": "Only In My Mind",
+        "url": "https://open.spotify.com/album/4JWnSrjQv0zOW594N76PMf"
+      },
+      "artists": [
+        {
+          "name": "Kenya Grace",
+          "url": "https://open.spotify.com/artist/7uMDnSZyUYNBPLhPMNuaM2"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161137,
+      "name": "Only In My Mind",
+      "url": "https://open.spotify.com/track/4PrGyX4YgCT6V3YqY7XEUw"
     },
     {
       "album": {

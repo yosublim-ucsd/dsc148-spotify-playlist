@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-07-19",
-  "description": "Motion en good vibes! Cover: Alessio & Sluwe Ollie",
+  "description": "Motion en good vibes! Cover: LA$$A, Frsh & Yssi SB",
   "name": "La Vida Loca",
   "tracks": [
     {
@@ -920,7 +920,7 @@
       ],
       "date_added": "2023-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-20",
       "duration_ms": 146557,
       "name": "Arif Inou",
       "url": "https://open.spotify.com/track/6ycqSprB2ImMdNtnVuVj9N"
@@ -3022,7 +3022,7 @@
       ],
       "date_added": "2023-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-20",
       "duration_ms": 178000,
       "name": "Caribbean Vibes",
       "url": "https://open.spotify.com/track/5jeR4FjVJYGxriYcyTEDpC"
@@ -5473,6 +5473,24 @@
     },
     {
       "album": {
+        "name": "F\u00caTE",
+        "url": "https://open.spotify.com/album/5uqjckfbiL1I2l3SJITs6v"
+      },
+      "artists": [
+        {
+          "name": "Ajay",
+          "url": "https://open.spotify.com/artist/6blOShkI4PDC0gqCk6PQoa"
+        }
+      ],
+      "date_added": "2023-10-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145200,
+      "name": "F\u00caTE",
+      "url": "https://open.spotify.com/track/0bcg2JI4EvnFxSUrHG4I3o"
+    },
+    {
+      "album": {
         "name": "Doe Het Nou Gewoon",
         "url": "https://open.spotify.com/album/6wn3ieYWJTHLV4qNhfewt1"
       },
@@ -6147,6 +6165,24 @@
     },
     {
       "album": {
+        "name": "Heimwee",
+        "url": "https://open.spotify.com/album/07Ndtj0kll88VGabH13idl"
+      },
+      "artists": [
+        {
+          "name": "L CIANO",
+          "url": "https://open.spotify.com/artist/3KDvUuEB5x3C5ER17sK0rd"
+        }
+      ],
+      "date_added": "2023-10-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144000,
+      "name": "Heimwee",
+      "url": "https://open.spotify.com/track/3e4tQ9QyAx5LbeXI6Fi24q"
+    },
+    {
+      "album": {
         "name": "Helemaal Los",
         "url": "https://open.spotify.com/album/73QTzVqxmLLSEp6B2OVcAE"
       },
@@ -6254,6 +6290,32 @@
       "duration_ms": 176098,
       "name": "Het Einde",
       "url": "https://open.spotify.com/track/7rArlfR9jlQnFmxDECtieV"
+    },
+    {
+      "album": {
+        "name": "Het Kost Wat",
+        "url": "https://open.spotify.com/album/4UzcY48Xn0Aulqk3nfjqQ8"
+      },
+      "artists": [
+        {
+          "name": "LA$$A",
+          "url": "https://open.spotify.com/artist/36WPIJMvnC1lSvjwMHrGAR"
+        },
+        {
+          "name": "Frsh",
+          "url": "https://open.spotify.com/artist/19CxlXaWOlZh2pqZrJlHxN"
+        },
+        {
+          "name": "Yssi SB",
+          "url": "https://open.spotify.com/artist/0o1hCS1PDOc1UtVrcXB9s8"
+        }
+      ],
+      "date_added": "2023-10-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126606,
+      "name": "Het Kost Wat",
+      "url": "https://open.spotify.com/track/1JgVMnVVOhPBmUDD7SYva3"
     },
     {
       "album": {
@@ -7726,7 +7788,7 @@
       ],
       "date_added": "2023-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-20",
       "duration_ms": 197920,
       "name": "LALA",
       "url": "https://open.spotify.com/track/7ABLbnD53cQK00mhcaOUVG"
@@ -10537,6 +10599,40 @@
     },
     {
       "album": {
+        "name": "OA",
+        "url": "https://open.spotify.com/album/6YpCug9vNZz4uvlmlU7cet"
+      },
+      "artists": [
+        {
+          "name": "Anuel AA",
+          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
+        },
+        {
+          "name": "Quevedo",
+          "url": "https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K"
+        },
+        {
+          "name": "Maluma",
+          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
+        },
+        {
+          "name": "Mambo Kingz",
+          "url": "https://open.spotify.com/artist/2T1aUibqR2QC2sINIDQOAK"
+        },
+        {
+          "name": "DJ Luian",
+          "url": "https://open.spotify.com/artist/64aJYyrXljOodnUG6jvhRD"
+        }
+      ],
+      "date_added": "2023-10-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235200,
+      "name": "OA",
+      "url": "https://open.spotify.com/track/6gMj2DzKR2PjrrbNSwcGFR"
+    },
+    {
+      "album": {
         "name": "Offside",
         "url": "https://open.spotify.com/album/6RVtAsb3BS4hFagO0R4ZIn"
       },
@@ -12646,6 +12742,32 @@
       "duration_ms": 146285,
       "name": "Sende",
       "url": "https://open.spotify.com/track/3zkJlzwHX7MNBSEFHak4d3"
+    },
+    {
+      "album": {
+        "name": "Sensational (feat. Davido & Lojay)",
+        "url": "https://open.spotify.com/album/68nJVTjmRbl5se1eYTglBA"
+      },
+      "artists": [
+        {
+          "name": "Chris Brown",
+          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
+        },
+        {
+          "name": "Davido",
+          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
+        },
+        {
+          "name": "Lojay",
+          "url": "https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL"
+        }
+      ],
+      "date_added": "2023-10-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231109,
+      "name": "Sensational (feat. Davido & Lojay)",
+      "url": "https://open.spotify.com/track/5HM5trJxTouv3eUVcbW8sh"
     },
     {
       "album": {

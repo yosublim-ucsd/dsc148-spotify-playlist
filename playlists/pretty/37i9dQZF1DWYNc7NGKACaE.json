@@ -1,12 +1,12 @@
 {
   "description": "essa \u00e9 s\u00f3 pra quem vive no 2.0x\n",
-  "num_followers": 69715,
+  "num_followers": 69833,
   "original_name": "speed BR",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5ZjgzNjEzNDRjYzM0YzlhMTljYjI0ZDE0MzRjMjBkZGU3OWFjMTg3",
+  "snapshot_id": "MCw3MGFlNWJiMDNhOGRjNmJiNmNmZjVkYWVkZmU1N2E3ZDNlN2QyNDI1",
   "tracks": [
     {
       "added_at": "2023-09-26 16:36:45",
@@ -503,22 +503,6 @@
     {
       "added_at": "2023-09-26 16:36:45",
       "album": {
-        "name": "Jesus Invadiu a Cena (Deluxe)",
-        "url": "https://open.spotify.com/album/2i9A3MdMLm2DaslCoMZMKX"
-      },
-      "artists": [
-        {
-          "name": "VICTIN",
-          "url": "https://open.spotify.com/artist/3brCnZDTt5fHf0BBXvPa6p"
-        }
-      ],
-      "duration_ms": 146823,
-      "name": "Aff - Speed Up",
-      "url": "https://open.spotify.com/track/2KvhoUSJ3m6BYGefGVzjmX"
-    },
-    {
-      "added_at": "2023-09-26 16:36:45",
-      "album": {
         "name": "Amizade Colorida, \u00c9 QUE AGENTE TRANZA E NUNCA BRIGA",
         "url": "https://open.spotify.com/album/39tM6ABIBGChLivVHYCie3"
       },
@@ -535,6 +519,22 @@
       "duration_ms": 163384,
       "name": "Amizade Colorida, \u00c9 QUE AGENTE TRANZA E NUNCA BRIGA",
       "url": "https://open.spotify.com/track/3JHUfpS7hQPeYwjBBZ690R"
+    },
+    {
+      "added_at": "2023-09-26 16:36:45",
+      "album": {
+        "name": "Jesus Invadiu a Cena (Deluxe)",
+        "url": "https://open.spotify.com/album/2i9A3MdMLm2DaslCoMZMKX"
+      },
+      "artists": [
+        {
+          "name": "VICTIN",
+          "url": "https://open.spotify.com/artist/3brCnZDTt5fHf0BBXvPa6p"
+        }
+      ],
+      "duration_ms": 146823,
+      "name": "Aff - Speed Up",
+      "url": "https://open.spotify.com/track/2KvhoUSJ3m6BYGefGVzjmX"
     },
     {
       "added_at": "2023-09-26 16:36:45",
@@ -663,22 +663,6 @@
     {
       "added_at": "2023-09-26 16:36:45",
       "album": {
-        "name": "F* F* M* - No Beat S\u00c9RIE GOLD",
-        "url": "https://open.spotify.com/album/3NMKPK8rfEoipLRik4fqwi"
-      },
-      "artists": [
-        {
-          "name": "Dj LD da Favelinha",
-          "url": "https://open.spotify.com/artist/2fwT8MEPRpyAnwFw7DSyb7"
-        }
-      ],
-      "duration_ms": 176538,
-      "name": "F* F* M* - No Beat S\u00c9RIE GOLD",
-      "url": "https://open.spotify.com/track/0s8402HaaJsq8IyzDFS7Cm"
-    },
-    {
-      "added_at": "2023-09-26 16:36:45",
-      "album": {
         "name": "Semblante de Criminoso Speed",
         "url": "https://open.spotify.com/album/4OapHKHJ62yQphWbquFKQt"
       },
@@ -695,6 +679,22 @@
       "duration_ms": 98475,
       "name": "Semblante de Criminoso Speed",
       "url": "https://open.spotify.com/track/4NXhoDZKkhtWfulsgqsmOa"
+    },
+    {
+      "added_at": "2023-09-26 16:36:45",
+      "album": {
+        "name": "F* F* M* - No Beat S\u00c9RIE GOLD",
+        "url": "https://open.spotify.com/album/3NMKPK8rfEoipLRik4fqwi"
+      },
+      "artists": [
+        {
+          "name": "Dj LD da Favelinha",
+          "url": "https://open.spotify.com/artist/2fwT8MEPRpyAnwFw7DSyb7"
+        }
+      ],
+      "duration_ms": 176538,
+      "name": "F* F* M* - No Beat S\u00c9RIE GOLD",
+      "url": "https://open.spotify.com/track/0s8402HaaJsq8IyzDFS7Cm"
     },
     {
       "added_at": "2023-09-26 16:36:45",

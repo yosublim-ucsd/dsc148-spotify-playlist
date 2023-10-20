@@ -1,12 +1,12 @@
 {
   "description": "Celebre o nascimento de Jesus com louvores natalinos!",
-  "num_followers": 5985,
+  "num_followers": 6002,
   "original_name": "Louvores de Natal",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiMzRiY2FhMDlhY2YwNGYxNmZhMDU3NTU0NjI0MDZkM2VkODIyNzgy",
+  "snapshot_id": "MCxlMjQwYTRlMDNhZWI0OGUwZWNlNTIxMThlNjJmZjM3MTE3M2U4NDli",
   "tracks": [
     {
       "added_at": "2022-12-09 06:26:14",
@@ -551,26 +551,6 @@
     {
       "added_at": "2022-12-09 06:26:14",
       "album": {
-        "name": "\u00d3, Vinde, Adoremos",
-        "url": "https://open.spotify.com/album/18SwXFPhxjgOzEnJERhcBd"
-      },
-      "artists": [
-        {
-          "name": "Altomonte",
-          "url": "https://open.spotify.com/artist/0og3M3KKOkuzyw2L6PH6tu"
-        },
-        {
-          "name": "Zoe Lilly",
-          "url": "https://open.spotify.com/artist/65XV4wYM95HcitXnKDOFkp"
-        }
-      ],
-      "duration_ms": 195000,
-      "name": "\u00d3, Vinde, Adoremos",
-      "url": "https://open.spotify.com/track/5DVZUWNEIsKUq12krk7On2"
-    },
-    {
-      "added_at": "2022-12-09 06:26:14",
-      "album": {
         "name": "Gl\u00f3ria a Deus nas Alturas",
         "url": "https://open.spotify.com/album/3oNhHQUS1PmE0LM5Pyf3Pk"
       },
@@ -587,6 +567,26 @@
       "duration_ms": 242192,
       "name": "Gl\u00f3ria a Deus nas Alturas",
       "url": "https://open.spotify.com/track/7AblmQzKpVtPTvbMznVBvA"
+    },
+    {
+      "added_at": "2022-12-09 06:26:14",
+      "album": {
+        "name": "\u00d3, Vinde, Adoremos",
+        "url": "https://open.spotify.com/album/18SwXFPhxjgOzEnJERhcBd"
+      },
+      "artists": [
+        {
+          "name": "Altomonte",
+          "url": "https://open.spotify.com/artist/0og3M3KKOkuzyw2L6PH6tu"
+        },
+        {
+          "name": "Zoe Lilly",
+          "url": "https://open.spotify.com/artist/65XV4wYM95HcitXnKDOFkp"
+        }
+      ],
+      "duration_ms": 195000,
+      "name": "\u00d3, Vinde, Adoremos",
+      "url": "https://open.spotify.com/track/5DVZUWNEIsKUq12krk7On2"
     },
     {
       "added_at": "2022-12-09 06:26:14",
@@ -651,6 +651,22 @@
     {
       "added_at": "2022-12-09 06:26:14",
       "album": {
+        "name": "Natal",
+        "url": "https://open.spotify.com/album/62FdkxTeWXyDwBCEI8oqSR"
+      },
+      "artists": [
+        {
+          "name": "Voices",
+          "url": "https://open.spotify.com/artist/0MIuvybztu95QtdglGYTBD"
+        }
+      ],
+      "duration_ms": 204196,
+      "name": "Natal",
+      "url": "https://open.spotify.com/track/5JqMJ3rqFdyPjlzCEHrRnF"
+    },
+    {
+      "added_at": "2022-12-09 06:26:14",
+      "album": {
         "name": "Natal Real",
         "url": "https://open.spotify.com/album/2m49nalJlB2nQHMjZaeIDK"
       },
@@ -671,22 +687,6 @@
     {
       "added_at": "2022-12-09 06:26:14",
       "album": {
-        "name": "Natal",
-        "url": "https://open.spotify.com/album/62FdkxTeWXyDwBCEI8oqSR"
-      },
-      "artists": [
-        {
-          "name": "Voices",
-          "url": "https://open.spotify.com/artist/0MIuvybztu95QtdglGYTBD"
-        }
-      ],
-      "duration_ms": 204196,
-      "name": "Natal",
-      "url": "https://open.spotify.com/track/5JqMJ3rqFdyPjlzCEHrRnF"
-    },
-    {
-      "added_at": "2022-12-09 06:26:14",
-      "album": {
         "name": "O Natal de Todos N\u00f3s",
         "url": "https://open.spotify.com/album/75oUMpemNX3oJtjmbPLdxB"
       },
@@ -703,22 +703,6 @@
     {
       "added_at": "2022-12-09 06:26:14",
       "album": {
-        "name": "Cl\u00e1ssicos da M\u00fasica Crist\u00e3",
-        "url": "https://open.spotify.com/album/4yqfNbc2llXhuLAFIOVVXY"
-      },
-      "artists": [
-        {
-          "name": "Ellas",
-          "url": "https://open.spotify.com/artist/7dF8hILhALje8j53j84hDm"
-        }
-      ],
-      "duration_ms": 218314,
-      "name": "Vem Cear",
-      "url": "https://open.spotify.com/track/1lzrmVDUaFNEB5586Lpw5e"
-    },
-    {
-      "added_at": "2022-12-09 06:26:14",
-      "album": {
         "name": "O Natal de Todos N\u00f3s",
         "url": "https://open.spotify.com/album/75oUMpemNX3oJtjmbPLdxB"
       },
@@ -731,6 +715,22 @@
       "duration_ms": 219920,
       "name": "Nasce Jesus",
       "url": "https://open.spotify.com/track/7CSgp6bjKNHoKQgVzyilaM"
+    },
+    {
+      "added_at": "2022-12-09 06:26:14",
+      "album": {
+        "name": "Cl\u00e1ssicos da M\u00fasica Crist\u00e3",
+        "url": "https://open.spotify.com/album/4yqfNbc2llXhuLAFIOVVXY"
+      },
+      "artists": [
+        {
+          "name": "Ellas",
+          "url": "https://open.spotify.com/artist/7dF8hILhALje8j53j84hDm"
+        }
+      ],
+      "duration_ms": 218314,
+      "name": "Vem Cear",
+      "url": "https://open.spotify.com/track/1lzrmVDUaFNEB5586Lpw5e"
     },
     {
       "added_at": "2022-12-09 06:26:14",
@@ -811,22 +811,6 @@
     {
       "added_at": "2022-12-09 06:26:14",
       "album": {
-        "name": "Natal",
-        "url": "https://open.spotify.com/album/62FdkxTeWXyDwBCEI8oqSR"
-      },
-      "artists": [
-        {
-          "name": "Voices",
-          "url": "https://open.spotify.com/artist/0MIuvybztu95QtdglGYTBD"
-        }
-      ],
-      "duration_ms": 202013,
-      "name": "Vinde Celebremos",
-      "url": "https://open.spotify.com/track/4aXA1S57kbciLvJq2gYhSU"
-    },
-    {
-      "added_at": "2022-12-09 06:26:14",
-      "album": {
         "name": "Deus Emanuel",
         "url": "https://open.spotify.com/album/1p7afgoQGyBtbXhhsYwLFi"
       },
@@ -839,6 +823,22 @@
       "duration_ms": 313652,
       "name": "Deus Emanuel",
       "url": "https://open.spotify.com/track/00Wx6Gd3jm6N26zgch4Y7M"
+    },
+    {
+      "added_at": "2022-12-09 06:26:14",
+      "album": {
+        "name": "Natal",
+        "url": "https://open.spotify.com/album/62FdkxTeWXyDwBCEI8oqSR"
+      },
+      "artists": [
+        {
+          "name": "Voices",
+          "url": "https://open.spotify.com/artist/0MIuvybztu95QtdglGYTBD"
+        }
+      ],
+      "duration_ms": 202013,
+      "name": "Vinde Celebremos",
+      "url": "https://open.spotify.com/track/4aXA1S57kbciLvJq2gYhSU"
     },
     {
       "added_at": "2022-12-09 06:26:14",

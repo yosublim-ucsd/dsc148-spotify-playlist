@@ -4,7 +4,7 @@
 
 > Welcome to the dark side of the club.
 
-575 songs - 2 day 8 hr 39 min
+578 songs - 2 day 9 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -73,7 +73,7 @@
 | [Bring Me Up](https://open.spotify.com/track/2dOdWpX2Bipo5suEnchffo) | [BEC](https://open.spotify.com/artist/2rRlbUvyMjvEOdQPWtGoPI) | [Bring Me Up EP](https://open.spotify.com/album/76SdE7SogrA4DjCj15ISHN) | 5:46 | 2022-08-05 | 2023-02-25 |
 | [Brunt](https://open.spotify.com/track/6lXm60fg9Nh0mJONXKTvxv) | [Dense & Pika](https://open.spotify.com/artist/3tlt5onLwIKTuaOAyI6ytC) | [Brunt](https://open.spotify.com/album/3SY8NzLDUQuQFbRuezNpzY) | 6:30 | 2023-02-03 | 2023-09-16 |
 | [Bucuresti](https://open.spotify.com/track/1egsxAP2p3v3J3nO5TlUTX) | [Simina Grigoriu](https://open.spotify.com/artist/1PjzNHCXycxUqsP2yqFqhU) | [Bucuresti](https://open.spotify.com/album/6eyHlZ3c9L2nDrGNDGMhMN) | 6:25 | 2021-03-27 | 2021-10-09 |
-| [Burn](https://open.spotify.com/track/0WSDlDRc8Yex9b2UyTOciK) | [Somewhen](https://open.spotify.com/artist/0k47nZgznsmnNkSIJvjbVy) | [R005](https://open.spotify.com/album/7AeBk55EN88Zujns38BDTO) | 4:42 | 2023-09-08 |  |
+| [Burn](https://open.spotify.com/track/0WSDlDRc8Yex9b2UyTOciK) | [Somewhen](https://open.spotify.com/artist/0k47nZgznsmnNkSIJvjbVy) | [R005](https://open.spotify.com/album/7AeBk55EN88Zujns38BDTO) | 4:42 | 2023-09-08 | 2023-10-20 |
 | [Butoh](https://open.spotify.com/track/3uXQWCbqjtgOzSK5TuZZg4) | [Sven Väth](https://open.spotify.com/artist/5TQaBSTOSypp7S4jfSnN3F) | [Mystic Voices / Butoh](https://open.spotify.com/album/7m5hIO4QBaiyi3q83urXPs) | 7:59 | 2022-02-25 | 2022-04-29 |
 | [Cabroncete](https://open.spotify.com/track/1xPm1Gy46lvDV3WHOm2ndy) | [Fatima Hajji](https://open.spotify.com/artist/6jZSXmTCxZhFfYELtp78Ci) | [Cabroncete](https://open.spotify.com/album/2mMHq4hPrc3a7Es0iRHnxW) | 3:45 | 2023-01-06 | 2023-05-13 |
 | [Call Jane](https://open.spotify.com/track/2NGRFd7J0PdyDSMXvNsniW) | [Anna Amato](https://open.spotify.com/artist/244LldEKISk1ZWoBECOVcu) | [Call Jane](https://open.spotify.com/album/3SVXROaNwXao6vSnWorwgY) | 4:53 | 2023-06-02 | 2023-06-24 |
@@ -221,6 +221,7 @@
 | [Gravity](https://open.spotify.com/track/16Ivb2SNj3TymQvoHMJORs) | [Daniel Levak](https://open.spotify.com/artist/0M9vCRnHAMGWUi9i89LLeh) | [Gravity](https://open.spotify.com/album/6AZOXckAkp9cvaMJ7eDX2h) | 5:00 | 2023-08-18 |  |
 | [Gravity](https://open.spotify.com/track/0VTnsXnW2kuMFlwdKSTSBy) | [Space 92](https://open.spotify.com/artist/6TVdVlY6irsNPkMHT2HkfD) | [Gravity](https://open.spotify.com/album/45hEdeNHcpC2FIvgDMlaCP) | 6:05 | 2023-02-17 | 2023-08-19 |
 | [Gravity](https://open.spotify.com/track/6nmNeFAVqtAgnqqh1SFqh9) | [Thomas Hoffknecht](https://open.spotify.com/artist/5NZNUuAd9Z92Q4wAVRq3Cf) | [Gravity Mutations](https://open.spotify.com/album/63qvDEFV5snCcAWn0hkUwV) | 6:04 | 2020-05-24 | 2020-07-19 |
+| [Greater Purpose](https://open.spotify.com/track/0AebWDXqgiFwqczWRKt2kP) | [Belocca](https://open.spotify.com/artist/3jcvzSheHd14vjraXHLGPN), [IZREAL](https://open.spotify.com/artist/2CEWXoABoT26HwBxv9Rfgl) | [Greater Purpose](https://open.spotify.com/album/01zbGemPEWafx6eQFV2i0S) | 6:34 | 2023-10-20 |  |
 | [Hace Ejercicios](https://open.spotify.com/track/7K8hVSM4s25QKgyyioLWTP) | [Nina Kraviz](https://open.spotify.com/artist/1oZmFNkGAT93yD1xX4vTRE) | [hace ejercicios](https://open.spotify.com/album/4QFKs1Wn1pVxUXuXPrkQH4) | 7:40 | 2022-12-12 | 2023-01-28 |
 | [Hallucinations](https://open.spotify.com/track/3yDju1wZmu083M7RHATo3g) | [DESNA](https://open.spotify.com/artist/6mjU0EJu6TLflogUHAVNeg) | [Hallucinations](https://open.spotify.com/album/0V9ZwJNkNSZB68CuJDWVxK) | 6:12 | 2023-03-24 | 2023-06-17 |
 | [Harder Now](https://open.spotify.com/track/2X8XhkI3gPI710ah4KDqKs) | [Louisahhh](https://open.spotify.com/artist/42TogPbYEXl164PrqTEVBW), [Wax Wings](https://open.spotify.com/artist/36GCZfnizKMEEkU9k79Sm3) | [Harder Now](https://open.spotify.com/album/3yRPPTNgf1UHUwzdzskF7R) | 4:29 | 2021-10-23 | 2022-01-08 |
@@ -288,6 +289,7 @@
 | [Last Step](https://open.spotify.com/track/2LJFyZegquP5reY4Qi0egR) | [Ramon Tapia](https://open.spotify.com/artist/5BFl4h5TXYSSJsCteTX3s1) | [Last Step](https://open.spotify.com/album/6XWhttNgTS13vXLKnZn0BC) | 7:36 | 2020-04-18\* | 2020-09-04 |
 | [Last Summer](https://open.spotify.com/track/6phXaP28ZIrCuAfBKSnSpc) | [Rebekah](https://open.spotify.com/artist/7rmuxvt1D8dIU920lNcR67) | [Last Summer](https://open.spotify.com/album/6kamVfNDZrZOTpsEsyiP3J) | 4:59 | 2020-11-21 | 2021-05-03 |
 | [Latex](https://open.spotify.com/track/7Lp0NobaOnTfqcHPjVXzA6) | [Monika Kruse](https://open.spotify.com/artist/2xeHjPrS4EnEUIXHV9pkeg) | [Latex](https://open.spotify.com/album/3kjWRIgz8s6hTVx2PmvpI9) | 7:19 | 2021-07-10 | 2022-02-26 |
+| [Legacy](https://open.spotify.com/track/0aMonkh8OKgqx1K0viRHRT) | [Sara Landry](https://open.spotify.com/artist/7eILArMiTFTQf8SEh5fFHK) | [Legacy](https://open.spotify.com/album/3e337N4JrILh8eZsyjAL2b) | 6:49 | 2023-10-20 |  |
 | [Lehmann Club](https://open.spotify.com/track/0VkDJuw8fCuaLFRk8L7O3w) | [FJAAK](https://open.spotify.com/artist/4qG1qjeHfkASTdyRGbLWbV) | [SYS01LEHMANNCLUB](https://open.spotify.com/album/3QiooDugj3219S5ftxD7L4) | 4:52 | 2020-06-30 | 2021-01-30 |
 | [Liberty](https://open.spotify.com/track/7ACHeIO3dmqiR2NrD3oTzF) | [Joyhauser](https://open.spotify.com/artist/59a1Bp0JQfL2mGnpL0lW2Y) | [Liberty](https://open.spotify.com/album/5X3xCHpz9IYIbvbaFbRYs6) | 5:17 | 2023-04-21 | 2023-06-24 |
 | [Life Moves Fast](https://open.spotify.com/track/2qnLd7v8htk8uHQaoUecLs) | [Layton Giordani](https://open.spotify.com/artist/7mC3RkNNTV6p2j9w4F8Ip4) | [Life Moves Fast](https://open.spotify.com/album/0oNJfZFoypJFKQtOHAvPgW) | 3:53 | 2023-03-10 | 2023-07-16 |
@@ -387,6 +389,7 @@
 | [Power](https://open.spotify.com/track/1VZtBR63uLVG6v0NBid5Cv) | [Alignment](https://open.spotify.com/artist/4eFbq5PZgW7YbtA65PP4wS) | [Power EP](https://open.spotify.com/album/5FGxjyCy6PAMGFcvh8Kjnu) | 5:51 | 2021-06-26 | 2022-02-12 |
 | [Power Plant \- Radio Edit](https://open.spotify.com/track/6RzWVsOkcep95wOkHecytK) | [Thomas Hoffknecht](https://open.spotify.com/artist/5NZNUuAd9Z92Q4wAVRq3Cf) | [Power Plant](https://open.spotify.com/album/6CaMFGOv8TEtGMB2ibTvLY) | 4:35 | 2020-08-22 | 2020-12-05 |
 | [Predator \- Original Mix](https://open.spotify.com/track/4CbEP5CJiJsC3KE7Ssaorw) | [UMEK](https://open.spotify.com/artist/5Hini2nQyoglzpdKe41cZt) | [Predator EP](https://open.spotify.com/album/5cxcjuNazD5RsGoqMLgc5K) | 6:52 | 2020-06-13 | 2021-05-03 |
+| [Pria](https://open.spotify.com/track/5NLu9XiiF80Txfg2Pl8zE8) | [Charlotte de Witte](https://open.spotify.com/artist/1lJhME1ZpzsEa5M0wW6Mso) | [Power Of Thought EP](https://open.spotify.com/album/1WjosIw46H2KJUb9W462FU) | 7:00 | 2023-10-20 |  |
 | [Pulchra](https://open.spotify.com/track/63mFPNs3UaFmBB55YiW0it) | [Patrick Scuro](https://open.spotify.com/artist/6wfL4r7ReScDTARbtSRTvB) | [Pulchra](https://open.spotify.com/album/0ihSHBFI9OEuwPg4dqyi14) | 4:14 | 2023-01-06 | 2023-08-19 |
 | [Pulse \- Marie Vaunt Remix](https://open.spotify.com/track/0rUd34miBQcQTzevrULn3G) | [Gizmo & Mac](https://open.spotify.com/artist/7mnoyEA7pGl5D9QmJtNP7L), [Marie Vaunt](https://open.spotify.com/artist/50KydUSYhBFGorhAgUcrL5) | [Pulse](https://open.spotify.com/album/2POEND23KcLg9y4zzPSSuO) | 6:00 | 2022-06-28 | 2023-02-11 |
 | [Puzzle Pieces](https://open.spotify.com/track/0GqTvoYqPvahnhTpdT4HJb) | [BROKER](https://open.spotify.com/artist/4QUiib4G3f0RtgfiKF3KWy) | [Puzzle Pieces](https://open.spotify.com/album/3pbYFt2LXuxMkXgxNYQmt4) | 6:47 | 2021-05-03 | 2021-10-09 |
@@ -403,7 +406,7 @@
 | [Rebirth](https://open.spotify.com/track/73xLpiFcvK6r1B3dIlYvhU) | [Sara Landry](https://open.spotify.com/artist/7eILArMiTFTQf8SEh5fFHK) | [Rebirth](https://open.spotify.com/album/3Q3OOeGLLpokswb5pyHLnn) | 6:06 | 2021-05-03 | 2021-10-09 |
 | [Rebirth](https://open.spotify.com/track/1c3OaOeSogCpXTa8BhnBEq) | [Teenage Mutants](https://open.spotify.com/artist/3IFgjVPT8yeB4UnJCWOpZA) | [Rebirth](https://open.spotify.com/album/59WoCic1VzW9qox5cE3u0p) | 6:40 | 2021-10-09 | 2022-06-04 |
 | [Reddo](https://open.spotify.com/track/6TDGXhuLnKwiSQ5WxRufAo) | [Speedy & Steve](https://open.spotify.com/artist/04NdibuEZrYtuv7P5BtqCu) | [Speedy & Steve](https://open.spotify.com/album/0tqlp4hVNxzo28RN7kNrF7) | 6:41 | 2023-02-03 | 2023-03-11 |
-| [Reflection](https://open.spotify.com/track/21WIoAisDlLyEsRAZX35CT) | [Charlotte de Witte](https://open.spotify.com/artist/1lJhME1ZpzsEa5M0wW6Mso), [Enrico Sangiuliano](https://open.spotify.com/artist/1u7DsNFbakULvxnDGtMm90) | [Reflection EP](https://open.spotify.com/album/78bqEeos8LIGqSpTqNPNU6) | 6:46 | 2023-05-05 |  |
+| [Reflection](https://open.spotify.com/track/21WIoAisDlLyEsRAZX35CT) | [Charlotte de Witte](https://open.spotify.com/artist/1lJhME1ZpzsEa5M0wW6Mso), [Enrico Sangiuliano](https://open.spotify.com/artist/1u7DsNFbakULvxnDGtMm90) | [Reflection EP](https://open.spotify.com/album/78bqEeos8LIGqSpTqNPNU6) | 6:46 | 2023-05-05 | 2023-10-20 |
 | [Reflection](https://open.spotify.com/track/4prvj25xjRhb9LkXOFjGhH) | [Denise Schneider](https://open.spotify.com/artist/4SEeGhPJv9I6WQl2loHMmI) | [Reflection](https://open.spotify.com/album/2cX4zlGQSTwgL6b2ia98m6) | 6:13 | 2023-05-05 | 2023-07-05 |
 | [Reflection](https://open.spotify.com/track/67dg2dYPGza76ZEnp7k00d) | [Enrico Sangiuliano](https://open.spotify.com/artist/1u7DsNFbakULvxnDGtMm90), [Charlotte de Witte](https://open.spotify.com/artist/1lJhME1ZpzsEa5M0wW6Mso) | [Reflection EP](https://open.spotify.com/album/4Qqe2c9VgbdnbFO2F7AyGe) | 6:46 | 2023-04-07 | 2023-05-07 |
 | [Resist](https://open.spotify.com/track/5lRrhdbtPXkrBGkjzoFxh6) | [Spartaque](https://open.spotify.com/artist/2OpUrUeIF1sqWHwSbMPNkB) | [Resist](https://open.spotify.com/album/22haSyl2D5sWsF4mheiGDV) | 3:49 | 2023-07-04 | 2023-09-16 |
@@ -416,7 +419,7 @@
 | [Rift](https://open.spotify.com/track/0uK4cbZaSLz1CO5yhK8yqt) | [Goldzik](https://open.spotify.com/artist/4c4gA7LpXqXF7KNGWbAfFY) | [Collapse](https://open.spotify.com/album/554JhOaFnhG7vVkY9lEqUv) | 5:49 | 2022-01-21 | 2022-03-26 |
 | [Rising Heart](https://open.spotify.com/track/6PpwFNp103oI07s2otehgZ) | [Monika Kruse](https://open.spotify.com/artist/2xeHjPrS4EnEUIXHV9pkeg) | [Rising Heart](https://open.spotify.com/album/2NP9qvm3pd3hYlqt5Qkamt) | 7:34 | 2020-11-03 | 2021-04-13 |
 | [Ritual](https://open.spotify.com/track/5tPC9sy0oSG2snV5L3PYB1) | [Pleasurekraft](https://open.spotify.com/artist/4ipS3ZbqP46bs124yqp9N4) | [Umbilicis Universalis](https://open.spotify.com/album/67vRbAKHrUlH3ejiXFDKQy) | 7:00 | 2022-04-22 | 2022-06-18 |
-| [Robotic Arms](https://open.spotify.com/track/6FS5LBxQT7AfvcGzewS97H) | [Adam Beyer](https://open.spotify.com/artist/1btv9qmIpbp7q1ixCYNdHu) | [Robotic Arms](https://open.spotify.com/album/1znZNepyc0BEmAqyhPXTUR) | 3:50 | 2023-08-09 |  |
+| [Robotic Arms](https://open.spotify.com/track/6FS5LBxQT7AfvcGzewS97H) | [Adam Beyer](https://open.spotify.com/artist/1btv9qmIpbp7q1ixCYNdHu) | [Robotic Arms](https://open.spotify.com/album/1znZNepyc0BEmAqyhPXTUR) | 3:50 | 2023-08-09 | 2023-10-20 |
 | [Rock With Me](https://open.spotify.com/track/2BfFW4C5SIgbp33539WAah) | [Will Clarke](https://open.spotify.com/artist/1OmOdgwIzub8DYPxQYbbbi) | [Rock With Me](https://open.spotify.com/album/7g7DbWfA0XSpsnFsyrvRlP) | 3:25 | 2021-12-04 | 2022-08-06 |
 | [Roll the Dice](https://open.spotify.com/track/4WPdis6kH2iI0a7zXpmUfW) | [Bart Skils](https://open.spotify.com/artist/6iWBjg4b4ll4jLiParnWXT) | [Roll the Dice](https://open.spotify.com/album/01gHHJybHczwlyVZqwvCSZ) | 4:36 | 2023-04-07 | 2023-08-10 |
 | [Rooftop Ballerina](https://open.spotify.com/track/1WvZBiV9dZCxnCAEE0a5Pu) | [Simina Grigoriu](https://open.spotify.com/artist/1PjzNHCXycxUqsP2yqFqhU) | [Rooftop Ballerina / Pirouette](https://open.spotify.com/album/4MpubESyhiUyGSRFW5WKJT) | 7:23 | 2022-01-21 | 2022-08-13 |

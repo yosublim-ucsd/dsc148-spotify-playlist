@@ -552,7 +552,7 @@
       ],
       "date_added": "2023-07-27",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-05",
+      "date_removed": null,
       "duration_ms": 181344,
       "name": "amayadori",
       "url": "https://open.spotify.com/track/1Uvaa7vMJi5BLmptfLXSbt"
@@ -842,6 +842,24 @@
       "duration_ms": 114000,
       "name": "Awash",
       "url": "https://open.spotify.com/track/52yJEEIQMe7WbhGGqR8myV"
+    },
+    {
+      "album": {
+        "name": "Awesome City",
+        "url": "https://open.spotify.com/album/05PDJXae0t0adaepucRPVP"
+      },
+      "artists": [
+        {
+          "name": "DJ FRIP a.k.a. BeatLab",
+          "url": "https://open.spotify.com/artist/5nkZFBzkGZpfRxnWFZGtk7"
+        }
+      ],
+      "date_added": "2023-10-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160840,
+      "name": "Awesome City",
+      "url": "https://open.spotify.com/track/2RZbhMjj6piJ6W4M7Nsl7o"
     },
     {
       "album": {
@@ -3750,7 +3768,7 @@
       ],
       "date_added": "2023-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-20",
       "duration_ms": 143448,
       "name": "fly away",
       "url": "https://open.spotify.com/track/1jiX6dafwmq6nbdpnasx55"
@@ -4544,7 +4562,7 @@
       ],
       "date_added": "2022-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-20",
       "duration_ms": 178000,
       "name": "Hapuna",
       "url": "https://open.spotify.com/track/1iJ2MDg18Ufor1crX5TDFy"
@@ -12045,6 +12063,28 @@
     },
     {
       "album": {
+        "name": "VIVID",
+        "url": "https://open.spotify.com/album/1s96h3ZTUVClEPuL6vB2f8"
+      },
+      "artists": [
+        {
+          "name": "ninomiya tatsuki",
+          "url": "https://open.spotify.com/artist/68WyxSkXEJNwJUwlIIaIep"
+        },
+        {
+          "name": "Tyga Ichinose",
+          "url": "https://open.spotify.com/artist/0q3ojxiFcPDSS5p9GQaePK"
+        }
+      ],
+      "date_added": "2023-10-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135078,
+      "name": "VIVID",
+      "url": "https://open.spotify.com/track/5dWDYXom1nEpDmi77lD9sy"
+    },
+    {
+      "album": {
         "name": "Void",
         "url": "https://open.spotify.com/album/5tWnUMtomZthQIgvjDLypc"
       },
@@ -12586,7 +12626,7 @@
       ],
       "date_added": "2022-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-20",
       "duration_ms": 160500,
       "name": "YOU",
       "url": "https://open.spotify.com/track/4PqtfyBhGLQOgsDujv8mCN"

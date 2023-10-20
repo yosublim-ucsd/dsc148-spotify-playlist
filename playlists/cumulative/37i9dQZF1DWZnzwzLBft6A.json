@@ -592,7 +592,7 @@
       ],
       "date_added": "2021-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-20",
       "duration_ms": 250333,
       "name": "Concerto in D Minor, BWV 974: II. Adagio",
       "url": "https://open.spotify.com/track/2tObQO8pxckNOezskTjWVK"
@@ -807,6 +807,28 @@
     },
     {
       "album": {
+        "name": "J.S. Bach: Goldberg Variations",
+        "url": "https://open.spotify.com/album/5kBtLULy6vMwjFRSSEEIjP"
+      },
+      "artists": [
+        {
+          "name": "Johann Sebastian Bach",
+          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
+        },
+        {
+          "name": "V\u00edkingur \u00d3lafsson",
+          "url": "https://open.spotify.com/artist/0iqgjl0OG3z53PZVIB7ZyD"
+        }
+      ],
+      "date_added": "2023-10-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245379,
+      "name": "Goldberg Variations, BWV 988: Aria",
+      "url": "https://open.spotify.com/track/74OIJe9hgZswqyLyicfAy4"
+    },
+    {
+      "album": {
         "name": "Bach: Goldberg Variations, BWV 988",
         "url": "https://open.spotify.com/album/2ecywJZyq9FeZWhKUT0kIq"
       },
@@ -932,7 +954,7 @@
       ],
       "date_added": "2021-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-20",
       "duration_ms": 292986,
       "name": "Goldberg-Variationen, BWV 988: I. Aria",
       "url": "https://open.spotify.com/track/0VI8QAH1YupPK6xdCJuwpn"
@@ -2854,7 +2876,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-20",
       "duration_ms": 151573,
       "name": "Trio Sonata No. 1 in E-Flat Major, BWV 525: I. (Allegro moderato) (Transcr. Kurt\u00e1g) - Upright Piano",
       "url": "https://open.spotify.com/track/7guOIHeFJYxZyw6x53mURS"
@@ -3548,7 +3570,7 @@
       ],
       "date_added": "2021-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-20",
       "duration_ms": 266213,
       "name": "Widerstehe doch der S\u00fcnde, BWV 54 (Transcr. by V\u00edkingur \u00d3lafsson)",
       "url": "https://open.spotify.com/track/5xVcnhVL0AwcOgbpuxTu6W"

@@ -4,7 +4,7 @@
 
 > Cabin sleep noise and airplane sounds to help you drift away.
 
-194 songs - 8 hr 56 min
+196 songs - 9 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -55,6 +55,7 @@
 | [Dozy Noise](https://open.spotify.com/track/27W4LkxptBvhMxYAWMpsOL) | [Dozy FX](https://open.spotify.com/artist/3LErbZP1QobnVRGGCDaRdK) | [Dozy Noise](https://open.spotify.com/album/1Ao4sYFISxtmZaA7jedaJW) | 2:25 | 2023-05-26 |  |
 | [Draggy White Noise](https://open.spotify.com/track/0ohmRdDdzojvYGDLTVxj0a) | [Dancing Waves](https://open.spotify.com/artist/6I734cgGnMNAYXbDKI6pxm) | [Draggy White Noise](https://open.spotify.com/album/6RAfchUJLOleKFhhSgFsmu) | 4:22 | 2023-09-20 |  |
 | [Dreams & Calmness](https://open.spotify.com/track/295uck3ky42Qj4rxbISGG5) | [X.L.T](https://open.spotify.com/artist/5XmANDHn1nUVL3rVyohz9t) | [Dreams & Calmness](https://open.spotify.com/album/2HOETaIk01hB0glxrTVk39) | 2:39 | 2023-05-26 |  |
+| [Elevation Zen, 30,000 Feet](https://open.spotify.com/track/41HWoRFce5JBSGwrvlPfOf) | [Atmospheric Endeavors](https://open.spotify.com/artist/3TNKOriU72JCIKSKVaebNC) | [Cabin Noise](https://open.spotify.com/album/5FiZnf1mTrlZ0S5cvgj1V9) | 2:25 | 2023-10-19 |  |
 | [Endless Cabin Noise](https://open.spotify.com/track/0Gw1XXvd7BOn4QIBVjBnka) | [Thyyphoon](https://open.spotify.com/artist/02tTUqtZibCAHjNa0VR1v5) | [Endless Noises Vol I](https://open.spotify.com/album/6R0QWZi79djGcOPj6iyFKG) | 4:43 | 2023-05-26 |  |
 | [Endless White Noise](https://open.spotify.com/track/3F9zhwwhkj39u0rI07zaic) | [Thyyphoon](https://open.spotify.com/artist/02tTUqtZibCAHjNa0VR1v5) | [Endless Noises Vol II](https://open.spotify.com/album/4MrhA8HUGK31Z5kqa2wr6j) | 2:04 | 2023-09-20 |  |
 | [Enveloppe mon esprit](https://open.spotify.com/track/4xS7sINj4WKMF9NllK0a0U) | [Bruits Abstraits](https://open.spotify.com/artist/5XuNycZQddvgkuH8Jh7V7C) | [Soothing White Noise For Sleep](https://open.spotify.com/album/1ngnExY2eUxygabPL1i4F9) | 2:02 | 2023-09-20 |  |
@@ -201,6 +202,7 @@
 | [White Stars \- Seamless](https://open.spotify.com/track/3nCAqMROQBH3ctl495EgHB) | [Dormant Clouds](https://open.spotify.com/artist/08MfBIg9r4Dzm2ISLs1Us7) | [White Stars](https://open.spotify.com/album/0BLt2AQUVsNb1RqZaBOxf0) | 2:43 | 2023-09-20 |  |
 | [Whiter Shades](https://open.spotify.com/track/5UalLftI6bKXqNiQGKCmJm) | [Binaural Feels](https://open.spotify.com/artist/2bKTmGzvL5O7dxNlapbAoQ) | [Whiter Shades](https://open.spotify.com/album/4gKUiZWVyH8hOXmSyoL0SL) | 2:20 | 2023-09-20 |  |
 | [Window Seat Sleep](https://open.spotify.com/track/7LP4Wszs1E6P7J3Y2qXANq) | [Deepnoum](https://open.spotify.com/artist/6BF4rM6yrQ3SkKP8rcEdBi) | [Deep Brown Noise](https://open.spotify.com/album/7lh4bkGQuYliAX27V3xKZa) | 3:44 | 2023-05-26 |  |
+| [Wings Over Whispers \- Cabin Noise](https://open.spotify.com/track/5xMWFBcIkgLSZXh3q3L3Et) | [Atmospheric Endeavors](https://open.spotify.com/artist/3TNKOriU72JCIKSKVaebNC) | [Cabin Noise](https://open.spotify.com/album/5FiZnf1mTrlZ0S5cvgj1V9) | 2:24 | 2023-10-19 |  |
 | [Zone In](https://open.spotify.com/track/4Hib9DZdiZoRBaUn6SBcUA) | [Selective Sounds TTA](https://open.spotify.com/artist/4fvzIW1n8V7G1t95O5Q2lB) | [Calm Down Hertz](https://open.spotify.com/album/7v4rKByJHGo7BLJ9OCWSCP) | 2:25 | 2023-05-26 |  |
 
 \*This playlist was first scraped on 2023-05-26. Prior content cannot be recovered.

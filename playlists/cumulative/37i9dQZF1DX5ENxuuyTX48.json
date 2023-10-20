@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-03-26",
-  "description": "wru? OTW!  BERCHANDYA! Cover: Tilu, Ali Sariah",
+  "description": "wru? OTW!  BERCHANDYA! Cover: Assia Keva",
   "name": "OTW ",
   "tracks": [
     {
@@ -45,6 +45,24 @@
     },
     {
       "album": {
+        "name": "123",
+        "url": "https://open.spotify.com/album/4K9nMRQDomE5JjfgMgxQup"
+      },
+      "artists": [
+        {
+          "name": "Timah",
+          "url": "https://open.spotify.com/artist/2F5QdXyxUUViJAVvsikD7E"
+        }
+      ],
+      "date_added": "2023-10-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175274,
+      "name": "123",
+      "url": "https://open.spotify.com/track/241KqPn24NMnbsMnfUBmy5"
+    },
+    {
+      "album": {
         "name": "Memorandum",
         "url": "https://open.spotify.com/album/2ZI3XeIrCM1PsOtK3rlMth"
       },
@@ -78,7 +96,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-20",
       "duration_ms": 228292,
       "name": "3:07",
       "url": "https://open.spotify.com/track/3Z1rQsWrqtCk3lgQFbqnrI"
@@ -394,6 +412,28 @@
       "duration_ms": 212368,
       "name": "Aku Rindu (feat. Oslo Ibrahim)",
       "url": "https://open.spotify.com/track/3CatYmaiD3I6II8w57RQEg"
+    },
+    {
+      "album": {
+        "name": "Aku tak perlu",
+        "url": "https://open.spotify.com/album/6eQNQLDJnDKsgOq3xj96IR"
+      },
+      "artists": [
+        {
+          "name": "Aizat Amdan",
+          "url": "https://open.spotify.com/artist/2sS4H2xFvWaxaixeVZC4Vu"
+        },
+        {
+          "name": "Kenny",
+          "url": "https://open.spotify.com/artist/4S4rq4o8gDqTqVKPA7zJmY"
+        }
+      ],
+      "date_added": "2023-10-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220000,
+      "name": "Aku tak perlu",
+      "url": "https://open.spotify.com/track/2C4tiBmCGifcYd6NHJeupN"
     },
     {
       "album": {
@@ -893,6 +933,24 @@
     },
     {
       "album": {
+        "name": "Bad Intentions",
+        "url": "https://open.spotify.com/album/6woTomg4IThua1tXT9bsVx"
+      },
+      "artists": [
+        {
+          "name": "Yuna",
+          "url": "https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1"
+        }
+      ],
+      "date_added": "2023-10-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143731,
+      "name": "Bad Intentions",
+      "url": "https://open.spotify.com/track/0d7Z3ZMcCXP25EidWPC0Sf"
+    },
+    {
+      "album": {
         "name": "2016",
         "url": "https://open.spotify.com/album/3nrEhteC4SHPiLCSHvod71"
       },
@@ -1122,6 +1180,28 @@
       "duration_ms": 183524,
       "name": "Beraksi",
       "url": "https://open.spotify.com/track/3j9f7zTmK34v1737gSaBMl"
+    },
+    {
+      "album": {
+        "name": "Berat Hati",
+        "url": "https://open.spotify.com/album/6KkxKjkIQbOcczD6UJuHxL"
+      },
+      "artists": [
+        {
+          "name": "Dina Nadzir",
+          "url": "https://open.spotify.com/artist/18Cadv76vQqqyt5HhwEfVJ"
+        },
+        {
+          "name": "Hazrul Nizam",
+          "url": "https://open.spotify.com/artist/1QdTqQYcmC2ZgxedjFARhC"
+        }
+      ],
+      "date_added": "2023-10-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223019,
+      "name": "Berat Hati",
+      "url": "https://open.spotify.com/track/4Lfav8nWU9ZcQ8MV9IcGKM"
     },
     {
       "album": {
@@ -1479,6 +1559,24 @@
     },
     {
       "album": {
+        "name": "Bodoh",
+        "url": "https://open.spotify.com/album/0W6CtBfGyNGW7fwiUwL81Z"
+      },
+      "artists": [
+        {
+          "name": "Anggis Devaki",
+          "url": "https://open.spotify.com/artist/7lXTU6VtJQWfiN2vuZyzqf"
+        }
+      ],
+      "date_added": "2023-10-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248700,
+      "name": "Bodoh",
+      "url": "https://open.spotify.com/track/3sC5zNoeqCirdTFtuvpJ0D"
+    },
+    {
+      "album": {
         "name": "bodyclock",
         "url": "https://open.spotify.com/album/1EmrZlFUMa1cbq1Mp2X50o"
       },
@@ -1703,6 +1801,24 @@
     },
     {
       "album": {
+        "name": "Butuh Bertemu",
+        "url": "https://open.spotify.com/album/6nm1m09lDyHLglbiMgxsD2"
+      },
+      "artists": [
+        {
+          "name": "JESENN",
+          "url": "https://open.spotify.com/artist/3cNQyXzy5m2IL2qplegOSq"
+        }
+      ],
+      "date_added": "2023-10-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250043,
+      "name": "Butuh Bertemu",
+      "url": "https://open.spotify.com/track/0KdXl1c9HTJAnYiIL4ZOH9"
+    },
+    {
+      "album": {
         "name": "Bye",
         "url": "https://open.spotify.com/album/6qAjIPCAssJUpYidyXoIXp"
       },
@@ -1772,6 +1888,28 @@
       "duration_ms": 186290,
       "name": "Called it Love",
       "url": "https://open.spotify.com/track/7DGEGsOUG0lbPUlymrH4uJ"
+    },
+    {
+      "album": {
+        "name": "CANDU",
+        "url": "https://open.spotify.com/album/7xpAFHYdnqK3RlXyW6mlbL"
+      },
+      "artists": [
+        {
+          "name": "Hullera",
+          "url": "https://open.spotify.com/artist/2nQo9sYqeVB9Z6PzpclAUH"
+        },
+        {
+          "name": "BEL",
+          "url": "https://open.spotify.com/artist/7rGxHZF4k6Axs52ZohGs6r"
+        }
+      ],
+      "date_added": "2023-10-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181395,
+      "name": "CANDU",
+      "url": "https://open.spotify.com/track/6GyP0bFXdupUKjaLBuvuZC"
     },
     {
       "album": {
@@ -1888,10 +2026,28 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-20",
       "duration_ms": 150000,
       "name": "Chemistry",
       "url": "https://open.spotify.com/track/3QOstENZ1cTwT4KAWf81Tk"
+    },
+    {
+      "album": {
+        "name": "Distant Memories",
+        "url": "https://open.spotify.com/album/30ez8yRfd9IS3HfxGBABLc"
+      },
+      "artists": [
+        {
+          "name": "Kurosuke",
+          "url": "https://open.spotify.com/artist/5Le7DsHESXGLb12JNKPpnR"
+        }
+      ],
+      "date_added": "2023-10-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245253,
+      "name": "Ch\u00e9rie",
+      "url": "https://open.spotify.com/track/543porKxyhy643TaLca8PQ"
     },
     {
       "album": {
@@ -2116,10 +2272,28 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-07",
+      "date_removed": null,
       "duration_ms": 220230,
       "name": "Cukup",
       "url": "https://open.spotify.com/track/5zSJzkLYPRtqJvnnPuEc8V"
+    },
+    {
+      "album": {
+        "name": "INI AKU",
+        "url": "https://open.spotify.com/album/429fzbnYOVktk7X0sOLxiU"
+      },
+      "artists": [
+        {
+          "name": "Zynakal",
+          "url": "https://open.spotify.com/artist/3Cs5QQYz6pMhbEKaBNCtfi"
+        }
+      ],
+      "date_added": "2023-10-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159996,
+      "name": "Dah Bagi",
+      "url": "https://open.spotify.com/track/0M5s6bACgTh9nTRO6hR9oE"
     },
     {
       "album": {
@@ -2258,6 +2432,24 @@
       "duration_ms": 187500,
       "name": "Daylight (feat. GANGGA)",
       "url": "https://open.spotify.com/track/5C8SwYxHNCBcPaM9IZrU9C"
+    },
+    {
+      "album": {
+        "name": "Dear Mr. Petty",
+        "url": "https://open.spotify.com/album/15FZurr55KKY9jUXlKnIvx"
+      },
+      "artists": [
+        {
+          "name": "Sheryl Sheinafia",
+          "url": "https://open.spotify.com/artist/1lfMGY3PXMmj6qgwiPqp06"
+        }
+      ],
+      "date_added": "2023-10-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152333,
+      "name": "Dear Mr. Petty",
+      "url": "https://open.spotify.com/track/15HqS9r4uKHLNCVtW6aI2s"
     },
     {
       "album": {
@@ -2526,7 +2718,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-20",
       "duration_ms": 212682,
       "name": "Do Over",
       "url": "https://open.spotify.com/track/1GG0HmgAbXrjTZN7RvEjU1"
@@ -3735,6 +3927,24 @@
     },
     {
       "album": {
+        "name": "2004",
+        "url": "https://open.spotify.com/album/2mz2plCCh1VzUymmWMGjCg"
+      },
+      "artists": [
+        {
+          "name": "Assia Keva",
+          "url": "https://open.spotify.com/artist/78rdZWsKiflQNcM4ecLyi8"
+        }
+      ],
+      "date_added": "2023-10-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217514,
+      "name": "I'm So High",
+      "url": "https://open.spotify.com/track/0OsOsFGRsNsn6ncyOkr2Uo"
+    },
+    {
+      "album": {
         "name": "Sempurna & Terbaik",
         "url": "https://open.spotify.com/album/7xNeGuptan0Ucto6XWS7E0"
       },
@@ -3950,7 +4160,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-20",
       "duration_ms": 183008,
       "name": "Infinity & Beyond",
       "url": "https://open.spotify.com/track/73gPkadOmvXDNqvTUfYEix"
@@ -4030,6 +4240,42 @@
       "duration_ms": 169000,
       "name": "Is It True",
       "url": "https://open.spotify.com/track/0teG0iZkp0hNgLrb7coc9c"
+    },
+    {
+      "album": {
+        "name": "Island Sun",
+        "url": "https://open.spotify.com/album/3flMWI4gypriNfH8DXDNMO"
+      },
+      "artists": [
+        {
+          "name": "Pepita",
+          "url": "https://open.spotify.com/artist/7dwjCFo7cfTvB1ZtBxyaJa"
+        }
+      ],
+      "date_added": "2023-10-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195763,
+      "name": "Island Sun",
+      "url": "https://open.spotify.com/track/0pNhdN6YPPNox3HdGpkv4C"
+    },
+    {
+      "album": {
+        "name": "Isn\u2019t It?",
+        "url": "https://open.spotify.com/album/0EYkFbwDnXQupj3kHtKIK6"
+      },
+      "artists": [
+        {
+          "name": "After Nourway",
+          "url": "https://open.spotify.com/artist/1db4VIGVnfIOdVnQv5hQfH"
+        }
+      ],
+      "date_added": "2023-10-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228869,
+      "name": "Isn\u2019t It?",
+      "url": "https://open.spotify.com/track/6mpHzj3luxWzuGglDVowBZ"
     },
     {
       "album": {
@@ -4312,7 +4558,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-20",
       "duration_ms": 170160,
       "name": "Jangan Bawa Perasaan (Bercanda)",
       "url": "https://open.spotify.com/track/2jCMsksf7vgvkoNSkzaXP9"
@@ -4614,7 +4860,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-20",
       "duration_ms": 158000,
       "name": "Kaleidoskop",
       "url": "https://open.spotify.com/track/6HZF24opMZpIL8Tmn85HyN"
@@ -4798,7 +5044,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-20",
       "duration_ms": 205411,
       "name": "Kelamaan Teman",
       "url": "https://open.spotify.com/track/6T7xBcPOje6aqyraT0sgsK"
@@ -5484,7 +5730,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-20",
       "duration_ms": 157869,
       "name": "Last Night Was Amazing",
       "url": "https://open.spotify.com/track/3ySGTUxh4BEepw9vsTbW7Z"
@@ -5756,7 +6002,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-20",
       "duration_ms": 184245,
       "name": "Lone Wolf",
       "url": "https://open.spotify.com/track/3X2ISSBvNgWoszBED6HctH"
@@ -5908,7 +6154,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-20",
       "duration_ms": 222149,
       "name": "MAJAL",
       "url": "https://open.spotify.com/track/2Pbyp4hWzGILfOe8L7ol7C"
@@ -5944,7 +6190,7 @@
       ],
       "date_added": "2023-06-22",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-15",
+      "date_removed": null,
       "duration_ms": 246225,
       "name": "Malampagi",
       "url": "https://open.spotify.com/track/6QV8eV3QVFp5upaTYjm7Xy"
@@ -6247,6 +6493,46 @@
     },
     {
       "album": {
+        "name": "Menari Dengan Bebas",
+        "url": "https://open.spotify.com/album/2ZnhR5Qu78H3Dm7bW3AmAd"
+      },
+      "artists": [
+        {
+          "name": "Biru Baru",
+          "url": "https://open.spotify.com/artist/2zuPyFAXSFyGQJrNk2iy6V"
+        },
+        {
+          "name": "Feby Putri",
+          "url": "https://open.spotify.com/artist/66NmU5epI0ONGmdCRbLpmW"
+        }
+      ],
+      "date_added": "2023-10-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251000,
+      "name": "Menari Dengan Bebas",
+      "url": "https://open.spotify.com/track/2pqMccPlegBU49DQQG0dVV"
+    },
+    {
+      "album": {
+        "name": "Mencuba",
+        "url": "https://open.spotify.com/album/55ZxfSKNYReZpogQQGnZG9"
+      },
+      "artists": [
+        {
+          "name": "Irfan Haris",
+          "url": "https://open.spotify.com/artist/0k30WyXe7aXAIgFKgUVAtP"
+        }
+      ],
+      "date_added": "2023-10-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213103,
+      "name": "Mencuba",
+      "url": "https://open.spotify.com/track/5GIvD5a2MXrMsmFplhvEEM"
+    },
+    {
+      "album": {
         "name": "Mendekat Menjauh",
         "url": "https://open.spotify.com/album/6JNDl7p8geGNixg3HXEOn0"
       },
@@ -6436,7 +6722,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-20",
       "duration_ms": 317987,
       "name": "Merinduimu",
       "url": "https://open.spotify.com/track/5q99tqHMsUtX2frLz078Mj"
@@ -6502,7 +6788,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-20",
       "duration_ms": 165161,
       "name": "misscall",
       "url": "https://open.spotify.com/track/3LpppAp28FJ0M0L6NvHVQ0"
@@ -6672,7 +6958,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-20",
       "duration_ms": 177454,
       "name": "NEED",
       "url": "https://open.spotify.com/track/2VE0IzIr0CBpCVDAuk8Oc2"
@@ -6734,6 +7020,24 @@
       "duration_ms": 285430,
       "name": "Nelangsa Pasar Turi",
       "url": "https://open.spotify.com/track/0DhgjYNtV0bchCToeFwRpv"
+    },
+    {
+      "album": {
+        "name": "Never Really Easy",
+        "url": "https://open.spotify.com/album/2y4Uix3czeyY67W6yFHEDI"
+      },
+      "artists": [
+        {
+          "name": "Stephanie Poetri",
+          "url": "https://open.spotify.com/artist/0HS00NN7MAfF59aJnfcxSO"
+        }
+      ],
+      "date_added": "2023-10-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177545,
+      "name": "Never Really Easy",
+      "url": "https://open.spotify.com/track/2zryt5s8VzhpaNAEJKMz2k"
     },
     {
       "album": {
@@ -7058,7 +7362,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-20",
       "duration_ms": 158457,
       "name": "onemorenight",
       "url": "https://open.spotify.com/track/1s1KR1i4GhsNbl3EExYhSn"
@@ -7402,6 +7706,24 @@
       "duration_ms": 260346,
       "name": "penjaga hati",
       "url": "https://open.spotify.com/track/7F4tV8SiUy6itZTdAzdafO"
+    },
+    {
+      "album": {
+        "name": "Pentas",
+        "url": "https://open.spotify.com/album/1HIqXdcqQbPUZgJIBj06Xe"
+      },
+      "artists": [
+        {
+          "name": "Bil Musa",
+          "url": "https://open.spotify.com/artist/6tWZW3i1byYPxPNW7EZmr9"
+        }
+      ],
+      "date_added": "2023-10-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191822,
+      "name": "Pentas",
+      "url": "https://open.spotify.com/track/7qFcJmer7ZjSoML3UMmPIn"
     },
     {
       "album": {
@@ -8240,7 +8562,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-20",
       "duration_ms": 276000,
       "name": "Sanctuary",
       "url": "https://open.spotify.com/track/4C03G8jrKuzw6OZk7qlvNp"
@@ -8472,7 +8794,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-20",
       "duration_ms": 243706,
       "name": "Semayam (Original Soundtrack from Monisme)",
       "url": "https://open.spotify.com/track/202aTl9MBkTEfoupga1qSn"
@@ -8656,6 +8978,28 @@
       "duration_ms": 177245,
       "name": "Seperti Setiap Hari",
       "url": "https://open.spotify.com/track/1AyYT78SpaigFODEKbeZgn"
+    },
+    {
+      "album": {
+        "name": "Set Me Free (feat. Kay)",
+        "url": "https://open.spotify.com/album/0UDcHA1ClXIiUtbrvi1tVW"
+      },
+      "artists": [
+        {
+          "name": "CloutyKee",
+          "url": "https://open.spotify.com/artist/2n9mecSWoAALBBhFe97b9R"
+        },
+        {
+          "name": "Kay",
+          "url": "https://open.spotify.com/artist/0W8qrJ8zNJtQkrdzMlRXDp"
+        }
+      ],
+      "date_added": "2023-10-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197333,
+      "name": "Set Me Free (feat. Kay)",
+      "url": "https://open.spotify.com/track/2OAMcp8foXnDMrHUHvyoT0"
     },
     {
       "album": {
@@ -8876,7 +9220,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-20",
       "duration_ms": 183745,
       "name": "Solo Trip",
       "url": "https://open.spotify.com/track/1mXCwImDRQO7XLMjnVDH3u"
@@ -9000,7 +9344,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-20",
       "duration_ms": 234480,
       "name": "Space Between Us",
       "url": "https://open.spotify.com/track/3Pv0ZmLcYCYKVWCOwUBdoU"
@@ -9582,7 +9926,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-20",
       "duration_ms": 227785,
       "name": "Take Me To Your House",
       "url": "https://open.spotify.com/track/1i6bQ7PHUyMi60GDcTMnoq"
@@ -9752,7 +10096,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-20",
       "duration_ms": 152268,
       "name": "Tenang Tanya Tuhan",
       "url": "https://open.spotify.com/track/64Bp8rRO9uG1nV9834IJwL"
@@ -9824,7 +10168,7 @@
       ],
       "date_added": "2023-05-04",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-18",
+      "date_removed": null,
       "duration_ms": 251454,
       "name": "Terima Kasih Cinta",
       "url": "https://open.spotify.com/track/3YNMHA6FqeqWzZyw0JVyIi"
@@ -9846,7 +10190,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-20",
       "duration_ms": 197195,
       "name": "Terlanjur Cinta",
       "url": "https://open.spotify.com/track/423AHVkxvCkVB03V3sPTIz"

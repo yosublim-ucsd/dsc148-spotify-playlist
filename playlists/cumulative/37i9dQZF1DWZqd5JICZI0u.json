@@ -1706,7 +1706,7 @@
       ],
       "date_added": "2021-03-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-20",
       "duration_ms": 222291,
       "name": "Day One",
       "url": "https://open.spotify.com/track/4ahkHICHrJKitc3ki96AAY"
@@ -5148,6 +5148,24 @@
       "duration_ms": 157261,
       "name": "Night Traveller",
       "url": "https://open.spotify.com/track/0VwLK1YNGY2UDzv5GeiJWB"
+    },
+    {
+      "album": {
+        "name": "Nike",
+        "url": "https://open.spotify.com/album/2ueuAKCwB7vz2WIiNKEL9l"
+      },
+      "artists": [
+        {
+          "name": "Carufo",
+          "url": "https://open.spotify.com/artist/19iZvlebGTx7MIFfXSbnb6"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181204,
+      "name": "Nike",
+      "url": "https://open.spotify.com/track/3PzyB6DsbfPbiKS0COHjRk"
     },
     {
       "album": {

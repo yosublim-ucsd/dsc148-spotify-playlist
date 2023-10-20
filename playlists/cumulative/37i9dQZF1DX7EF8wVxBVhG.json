@@ -3030,7 +3030,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-20",
       "duration_ms": 130000,
       "name": "Cycles - Alpha Sinus 88Hz - 96Hz",
       "url": "https://open.spotify.com/track/1JY5XG8cu7ly1fYlDhhpSL"
@@ -4100,6 +4100,24 @@
       "duration_ms": 218655,
       "name": "Healing Alpha Sinus 106Hz - 113Hz",
       "url": "https://open.spotify.com/track/0SEvk8gI3L48Vtq1ZbUZNp"
+    },
+    {
+      "album": {
+        "name": "Higher Thoughts Gamma",
+        "url": "https://open.spotify.com/album/2UIfUohcmVxckCLD2BMLry"
+      },
+      "artists": [
+        {
+          "name": "Waves Of Sine",
+          "url": "https://open.spotify.com/artist/1Zg71yjBlaSt5KF93TDyxt"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161038,
+      "name": "Higher Thoughts Gamma 89-120hz",
+      "url": "https://open.spotify.com/track/6xhbriK10FiqnHV7YeISgP"
     },
     {
       "album": {

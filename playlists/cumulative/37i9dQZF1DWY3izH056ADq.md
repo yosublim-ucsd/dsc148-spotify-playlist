@@ -1,8 +1,8 @@
 [pretty](/playlists/pretty/37i9dQZF1DWY3izH056ADq.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWY3izH056ADq) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWY3izH056ADq)
 
-### [ParadoxLive \-パラライ\-](https://open.spotify.com/playlist/37i9dQZF1DWY3izH056ADq)
+### [Paradox Live \-パラライ\-](https://open.spotify.com/playlist/37i9dQZF1DWY3izH056ADq)
 
-> Enjoy music From "ParadoxLive"! HIPHOPメディアミックスプロジェクト「ParadoxLive（パラライ）」の楽曲&ドラマトラックを1つのプレイリストで。 ©Paradox Live2021
+> Enjoy music From "Paradox Live"! HIPHOPメディアミックスプロジェクト「Paradox Live（パラライ）」の楽曲&ドラマトラックを1つのプレイリストで。 ©Paradox Live2023
 
 126 songs - 20 hr 5 min
 

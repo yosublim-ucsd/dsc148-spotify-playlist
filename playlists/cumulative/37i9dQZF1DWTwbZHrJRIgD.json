@@ -1818,7 +1818,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-20",
       "duration_ms": 151578,
       "name": "Lafzon Mein - Reprise",
       "url": "https://open.spotify.com/track/3JQRUaygl3ApLh3hqKafIW"
@@ -3014,6 +3014,40 @@
       "duration_ms": 215498,
       "name": "Sun Zara (From \"Cirkus\")",
       "url": "https://open.spotify.com/track/6lBUJpovAhtc7WqhDNiLtX"
+    },
+    {
+      "album": {
+        "name": "Sunoh (From \"The Archies\")",
+        "url": "https://open.spotify.com/album/4hn7BSt8k7zIyyaNkkUXlJ"
+      },
+      "artists": [
+        {
+          "name": "Tejas Menon",
+          "url": "https://open.spotify.com/artist/3K804uiQa0RVIGiToYc8V8"
+        },
+        {
+          "name": "Javed Akhtar",
+          "url": "https://open.spotify.com/artist/3UpmjPgIFSGqnxXuiwD014"
+        },
+        {
+          "name": "Ankur Tewari",
+          "url": "https://open.spotify.com/artist/1ciT67XXpG2HOVsLQjKdv6"
+        },
+        {
+          "name": "The Islanders",
+          "url": "https://open.spotify.com/artist/13S9FAokOhD3RZeAz6ti4i"
+        },
+        {
+          "name": "Dot.",
+          "url": "https://open.spotify.com/artist/1Z0J1QCG3GekVONuHuhCu4"
+        }
+      ],
+      "date_added": "2023-10-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185462,
+      "name": "Sunoh (From \"The Archies\")",
+      "url": "https://open.spotify.com/track/2oNcmoIOlDTBKPh7FzXSAT"
     },
     {
       "album": {

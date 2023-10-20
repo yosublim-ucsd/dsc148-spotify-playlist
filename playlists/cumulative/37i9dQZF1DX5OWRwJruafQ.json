@@ -147,6 +147,28 @@
     },
     {
       "album": {
+        "name": "Mxrci Season, Vol. 1",
+        "url": "https://open.spotify.com/album/6aaKM8CzO2kABbJjPjNUdZ"
+      },
+      "artists": [
+        {
+          "name": "Bhalwaan",
+          "url": "https://open.spotify.com/artist/0B6Y4zlto5DbCaU6eNLvXi"
+        },
+        {
+          "name": "Mxrci",
+          "url": "https://open.spotify.com/artist/5Us2dsq4VHlfLbKOrskg7K"
+        }
+      ],
+      "date_added": "2023-10-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186553,
+      "name": "32 Bor",
+      "url": "https://open.spotify.com/track/2dc0rGPWK6vA29OfIG64dP"
+    },
+    {
+      "album": {
         "name": "65 Inch Ghodian",
         "url": "https://open.spotify.com/album/1Cr8qrPYfkbmvPcNVfdoeU"
       },
@@ -585,6 +607,24 @@
     },
     {
       "album": {
+        "name": "Bombay Wale",
+        "url": "https://open.spotify.com/album/7l6tVpdLTvnXqw0TlVrikR"
+      },
+      "artists": [
+        {
+          "name": "Bajwa",
+          "url": "https://open.spotify.com/artist/235cIEn6QoaIkUtO2lLQzA"
+        }
+      ],
+      "date_added": "2023-10-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184186,
+      "name": "Bombay Wale",
+      "url": "https://open.spotify.com/track/6jXneeDo8tzVKvb9aCiQ3m"
+    },
+    {
+      "album": {
         "name": "Busy Getting Paid",
         "url": "https://open.spotify.com/album/7cyE3wvdW2DEf6nUBmygBK"
       },
@@ -780,6 +820,32 @@
       "duration_ms": 155714,
       "name": "Chup Chup",
       "url": "https://open.spotify.com/track/1gwu4J4HIbbQrPUHHRc415"
+    },
+    {
+      "album": {
+        "name": "Cloud 9",
+        "url": "https://open.spotify.com/album/2dM980S2KzxsQ6YZuYqrxP"
+      },
+      "artists": [
+        {
+          "name": "The Landers",
+          "url": "https://open.spotify.com/artist/7KEQQy9VJpx2xaojUu2VTp"
+        },
+        {
+          "name": "Guri Singh",
+          "url": "https://open.spotify.com/artist/5iE9QAIBbfKv22XiqGEhRM"
+        },
+        {
+          "name": "Rich",
+          "url": "https://open.spotify.com/artist/02E5S0ecOieToq7uAZCL6H"
+        }
+      ],
+      "date_added": "2023-10-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121467,
+      "name": "Cloud 9",
+      "url": "https://open.spotify.com/track/0SeHL0qlP8g7HeyLIaA63y"
     },
     {
       "album": {
@@ -1140,7 +1206,7 @@
       ],
       "date_added": "2023-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-20",
       "duration_ms": 204660,
       "name": "Envy",
       "url": "https://open.spotify.com/track/1bQnVE1IwHM7xIuP3eb0Mk"
@@ -3548,7 +3614,7 @@
       ],
       "date_added": "2023-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-20",
       "duration_ms": 154736,
       "name": "Royal",
       "url": "https://open.spotify.com/track/1ef21vkRkY1XdkhBHiHcLo"
@@ -3930,7 +3996,7 @@
       ],
       "date_added": "2023-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-20",
       "duration_ms": 141682,
       "name": "Speedin",
       "url": "https://open.spotify.com/track/5VimYNGccxbDBktl7aNRCS"

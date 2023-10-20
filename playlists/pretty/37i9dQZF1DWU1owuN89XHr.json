@@ -1,12 +1,12 @@
 {
   "description": "Historias y versos que tocan la piel.",
-  "num_followers": 267864,
+  "num_followers": 267929,
   "original_name": "Esenciales Trova",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwMjk4ZTdhYWU5YTY3YTVlYTQxMmUwZjU2YThkYzU3ODU4ZDk1Y2Yy",
+  "snapshot_id": "MCxhZjIzZWVkZTcwMzI4NzVkY2Q5YTA5ODFhZGE1NmI3ZmViYjcwOGM2",
   "tracks": [
     {
       "added_at": "2021-07-29 16:46:05",
@@ -171,22 +171,18 @@
     {
       "added_at": "2021-07-29 16:46:05",
       "album": {
-        "name": "Antolog\u00eda Desordenada",
-        "url": "https://open.spotify.com/album/5hyxVY36Zb54xX5uEpVwCR"
+        "name": "Ca\u00edn",
+        "url": "https://open.spotify.com/album/2jgeDWVTL7oog1cn4QmWNM"
       },
       "artists": [
         {
-          "name": "Joan Manuel Serrat",
-          "url": "https://open.spotify.com/artist/1t7t8q4zoYHp22JLIx3FM7"
-        },
-        {
-          "name": "Silvio Rodr\u00edguez",
-          "url": "https://open.spotify.com/artist/4rUyBlggM5tZUH5QZn9ZuO"
+          "name": "Alejandro Filio",
+          "url": "https://open.spotify.com/artist/2zfJb2mtxjtjPWTldg9R6K"
         }
       ],
-      "duration_ms": 192840,
-      "name": "Lucia (with Silvio Rodr\u00edguez)",
-      "url": "https://open.spotify.com/track/44RRIuioxHdtujpJ3PDkxA"
+      "duration_ms": 230533,
+      "name": "Brazos de Sol",
+      "url": "https://open.spotify.com/track/60swUBt5uEqO1ix3kCQa7e"
     },
     {
       "added_at": "2021-07-29 16:46:05",
@@ -207,18 +203,22 @@
     {
       "added_at": "2021-07-29 16:46:05",
       "album": {
-        "name": "Ca\u00edn",
-        "url": "https://open.spotify.com/album/2jgeDWVTL7oog1cn4QmWNM"
+        "name": "Antolog\u00eda Desordenada",
+        "url": "https://open.spotify.com/album/5hyxVY36Zb54xX5uEpVwCR"
       },
       "artists": [
         {
-          "name": "Alejandro Filio",
-          "url": "https://open.spotify.com/artist/2zfJb2mtxjtjPWTldg9R6K"
+          "name": "Joan Manuel Serrat",
+          "url": "https://open.spotify.com/artist/1t7t8q4zoYHp22JLIx3FM7"
+        },
+        {
+          "name": "Silvio Rodr\u00edguez",
+          "url": "https://open.spotify.com/artist/4rUyBlggM5tZUH5QZn9ZuO"
         }
       ],
-      "duration_ms": 230533,
-      "name": "Brazos de Sol",
-      "url": "https://open.spotify.com/track/60swUBt5uEqO1ix3kCQa7e"
+      "duration_ms": 192840,
+      "name": "Lucia (with Silvio Rodr\u00edguez)",
+      "url": "https://open.spotify.com/track/44RRIuioxHdtujpJ3PDkxA"
     },
     {
       "added_at": "2021-07-29 16:46:05",
@@ -1275,6 +1275,22 @@
     {
       "added_at": "2021-07-29 16:46:05",
       "album": {
+        "name": "Tres De Copas",
+        "url": "https://open.spotify.com/album/0KDMxNFaMvMwc58iRZul3i"
+      },
+      "artists": [
+        {
+          "name": "Tres de Copas",
+          "url": "https://open.spotify.com/artist/2lCFn8Sdm6YQYmFXzrZItY"
+        }
+      ],
+      "duration_ms": 254786,
+      "name": "Hasta Donde tu vayas",
+      "url": "https://open.spotify.com/track/2xldlQfIZeDGsDztec4FkI"
+    },
+    {
+      "added_at": "2021-07-29 16:46:05",
+      "album": {
         "name": "Vamos a Bailar un Son (Special Edition)",
         "url": "https://open.spotify.com/album/0fJHl8bN8rprMMTLQkppdo"
       },
@@ -1291,22 +1307,6 @@
       "duration_ms": 189787,
       "name": "Como la Nube Se Impone al Sol (feat. Pablo Milan\u00e9s)",
       "url": "https://open.spotify.com/track/75vEpGK92zNmo0wTsYgODZ"
-    },
-    {
-      "added_at": "2021-07-29 16:46:05",
-      "album": {
-        "name": "Tres De Copas",
-        "url": "https://open.spotify.com/album/0KDMxNFaMvMwc58iRZul3i"
-      },
-      "artists": [
-        {
-          "name": "Tres de Copas",
-          "url": "https://open.spotify.com/artist/2lCFn8Sdm6YQYmFXzrZItY"
-        }
-      ],
-      "duration_ms": 254786,
-      "name": "Hasta Donde tu vayas",
-      "url": "https://open.spotify.com/track/2xldlQfIZeDGsDztec4FkI"
     },
     {
       "added_at": "2021-07-29 16:46:05",

@@ -5,6 +5,24 @@
   "tracks": [
     {
       "album": {
+        "name": "2 is 1",
+        "url": "https://open.spotify.com/album/4j8xQD1q8qVNU1EvBlJo0w"
+      },
+      "artists": [
+        {
+          "name": "Jeremy Hoist",
+          "url": "https://open.spotify.com/artist/5p5NVu6OfzW6dn4g1bFTPA"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132711,
+      "name": "2 is 1",
+      "url": "https://open.spotify.com/track/3UBFbgJfGzOMa7rCUA4bRY"
+    },
+    {
+      "album": {
         "name": "30 Degrees",
         "url": "https://open.spotify.com/album/29FHccTZVEAbgmLwCssMbA"
       },
@@ -502,7 +520,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-20",
       "duration_ms": 171420,
       "name": "Best of Luck",
       "url": "https://open.spotify.com/track/1qmbbOdAxdHuyxT3YU5jCh"
@@ -3278,6 +3296,24 @@
       "duration_ms": 197058,
       "name": "One for Babushka",
       "url": "https://open.spotify.com/track/6YfQRaPuHSNcNSyMQ3DXno"
+    },
+    {
+      "album": {
+        "name": "Only You",
+        "url": "https://open.spotify.com/album/0FNJ08trynaYdVegTEPSo9"
+      },
+      "artists": [
+        {
+          "name": "Y Factor",
+          "url": "https://open.spotify.com/artist/6Y0ggx6f5Fsb6hQF3Ge2tJ"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 111138,
+      "name": "Only You",
+      "url": "https://open.spotify.com/track/24Q5fLUIJ6OBv2h4fvzayF"
     },
     {
       "album": {

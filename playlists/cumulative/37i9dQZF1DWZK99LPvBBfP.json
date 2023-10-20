@@ -559,6 +559,32 @@
     },
     {
       "album": {
+        "name": "Don't You Want Me",
+        "url": "https://open.spotify.com/album/5EsmJemSNDssD0hy9bJA3N"
+      },
+      "artists": [
+        {
+          "name": "Felix",
+          "url": "https://open.spotify.com/artist/6iRRErKYy1iojOaJoq6Ltk"
+        },
+        {
+          "name": "Rollo Armstrong",
+          "url": "https://open.spotify.com/artist/6hFSukEzqXAkCIcXNnctZ4"
+        },
+        {
+          "name": "Red Jerry",
+          "url": "https://open.spotify.com/artist/5TmU0aKScXjIZuJlHQcKaW"
+        }
+      ],
+      "date_added": "2023-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187053,
+      "name": "Don't You Want Me - Hooj Mix Edit",
+      "url": "https://open.spotify.com/track/5yccftMOR4DWGxpVyuqaKs"
+    },
+    {
+      "album": {
         "name": "Defected Presents House Masters - Junior Jack",
         "url": "https://open.spotify.com/album/6R5BuoO5JiRKNM8N8OY4bw"
       },
@@ -1034,7 +1060,7 @@
       ],
       "date_added": "2023-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-20",
       "duration_ms": 450185,
       "name": "Jibaro (Enrolle)",
       "url": "https://open.spotify.com/track/39qNshURj4X8qghle1JSXq"

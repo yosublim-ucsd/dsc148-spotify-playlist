@@ -2,9 +2,9 @@
 
 ### [mood.](https://open.spotify.com/playlist/37i9dQZF1DWYtDSKIiDhua)
 
-> The R&B and good vibe tracks for your current mood\. Cover: Rexx Life Raj, thuy
+> The R&B and good vibe tracks for your current mood\. Cover: Yuna
 
-552 songs - 1 day 5 hr 48 min
+557 songs - 1 day 6 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,11 +35,13 @@
 | [Animal Farm](https://open.spotify.com/track/3gAXVQOR0h7Ks71lsr5MFZ) | [BIBI](https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9) | [Animal Farm](https://open.spotify.com/album/3Wn89ahl9ccGAxrjIB8Tvt) | 3:23 | 2022-09-29 | 2022-10-08 |
 | [Another One Of Me \(feat\. 21 Savage\)](https://open.spotify.com/track/4hGmQboiou09EwhcTWa0H6) | [Diddy](https://open.spotify.com/artist/59wfkuBoNyhDMQGCljbUbA), [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [French Montana](https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [The Love Album: Off The Grid](https://open.spotify.com/album/1Z67w2JtLfO8D2dP0Mwpy1) | 3:40 | 2023-09-14 | 2023-09-29 |
 | [April](https://open.spotify.com/track/24QSZBkPrq8nP5jC8UsA01) | [IZZY DANIYA](https://open.spotify.com/artist/4YTuQxRYY33qBIb7z9XG19) | [April](https://open.spotify.com/album/0wmXjCIz9FynQsAnIfQgLc) | 3:48 | 2023-06-22 | 2023-09-08 |
+| [April](https://open.spotify.com/track/7ibfoNcwydFIAi5UfTnyoD) | [qt.](https://open.spotify.com/artist/2PZrzgPEzozv50Ccu7f3ld) | [HAPPY](https://open.spotify.com/album/5oCnZaBNDb10lteseSrklw) | 3:54 | 2023-10-19 |  |
 | [Ash \(feat\. KURO\)](https://open.spotify.com/track/2aJN7TLwQRTxEtvSfvBLbE) | [Shoi](https://open.spotify.com/artist/4K30q4KklfsA9oHxwkXa4x), [KURO](https://open.spotify.com/artist/5fgP8B58gK5ImP0wcoyj10) | [Ash \(feat\. KURO\)](https://open.spotify.com/album/0Mwvqjpntcqy8uz2UgMjvf) | 2:17 | 2022-11-03 | 2022-11-11 |
 | [Attention \(Feat\. DAWN, BLASÉ\)](https://open.spotify.com/track/0sB1ut1esPaRqabYjWEj1Z) | [GEMINI](https://open.spotify.com/artist/67IWlRdLy3UcfY3q968euj), [DAWN 던](https://open.spotify.com/artist/7DxCK6bwfQC3F2ajZ02R2F), [BLASÉ](https://open.spotify.com/artist/6XsOOgLCtnkkOv2uhZXuB0) | [Love Sick](https://open.spotify.com/album/35taXjwOGmbL92CzJBjqek) | 2:58 | 2023-09-21 | 2023-09-29 |
 | [Baby Blue](https://open.spotify.com/track/5FZsJeAOphubEbGEzHATlq) | [Soong](https://open.spotify.com/artist/1hKtrBDlkEWMZuu6clRxKc) | [Baby Blue](https://open.spotify.com/album/7rFLaq2TZuwO3piSQXhHtr) | 3:16 | 2023-06-22 | 2023-07-08 |
 | [Back](https://open.spotify.com/track/0GEX3Viy33NfvCax4GUREd) | [JayO](https://open.spotify.com/artist/1IMENE2OCzsrXuu62aW1mD) | [Back](https://open.spotify.com/album/26PeJZE5BuDDc95AM07vX5) | 2:18 | 2023-10-05 |  |
 | [Bad Habit](https://open.spotify.com/track/5CM4UuQ9Gnd6K2YyKGPMoK) | [Steve Lacy](https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp) | [Bad Habit](https://open.spotify.com/album/69JpAhN3XgLkOsJ7MCtW4V) | 3:52 | 2022-06-30 | 2022-07-08 |
+| [Bad Intentions](https://open.spotify.com/track/0d7Z3ZMcCXP25EidWPC0Sf) | [Yuna](https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1) | [Bad Intentions](https://open.spotify.com/album/6woTomg4IThua1tXT9bsVx) | 2:23 | 2023-10-19 |  |
 | [Bad Life \(feat\. Kali Uchis\)](https://open.spotify.com/track/6RT5ir7all6RgZEAupLNlO) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO), [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [Bad Life \(feat\. Kali Uchis\)](https://open.spotify.com/album/5MBSSSfF904m3GaUapgRIs) | 3:17 | 2022-06-08 | 2022-07-15 |
 | [bad weather](https://open.spotify.com/track/1B7dvUWXL8tJFtsFgbj5mm) | [moon tang](https://open.spotify.com/artist/51ZhiTtynrHq7tD4xfGZV7) | [bad weather](https://open.spotify.com/album/7GcqB2QpeFKDg4gDcaN52q) | 2:53 | 2022-12-22 | 2023-01-14 |
 | [Bag Of You](https://open.spotify.com/track/3X7aFBB2ja4QT2XEuxKCIA) | [Mahalia](https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI) | [Bag Of You](https://open.spotify.com/album/4J2ZnI41Z9yElyzM2TzBrM) | 3:17 | 2022-11-10 | 2023-08-25 |
@@ -222,6 +224,7 @@
 | [i wanna be with you](https://open.spotify.com/track/6jvoDWyfrYTYycHkUSnJaw) | [NYK](https://open.spotify.com/artist/009SHiJ9rvFm3vNwL4SjZx) | [i wanna be with you](https://open.spotify.com/album/2IsobQl3rf7bfea3v48mRF) | 2:48 | 2022-08-25 | 2022-09-02 |
 | [I Wish you Roses](https://open.spotify.com/track/6BQrmjAgPfPTwILoFEK3Hd) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [I Wish you Roses](https://open.spotify.com/album/2XCrHIlpS6yq2Lix46lOPi) | 3:45 | 2023-01-19 | 2023-08-25 |
 | [I'm okay](https://open.spotify.com/track/1f4Lv8yuJXpqgnsUDQGw2w) | [Rocketman](https://open.spotify.com/artist/4PSlXQjt2u6ua1YxEsHfsQ) | [I'm okay](https://open.spotify.com/album/4J2IveoFpn7XFUQNCkn7TM) | 4:00 | 2023-03-23 | 2023-04-01 |
+| [I'm So High](https://open.spotify.com/track/0OsOsFGRsNsn6ncyOkr2Uo) | [Assia Keva](https://open.spotify.com/artist/78rdZWsKiflQNcM4ecLyi8) | [2004](https://open.spotify.com/album/2mz2plCCh1VzUymmWMGjCg) | 3:37 | 2023-10-19 |  |
 | [I've Been Waiting For So Long](https://open.spotify.com/track/2UOn7uM2hmqPaVee9yoDQL) | [Blackout On Mars](https://open.spotify.com/artist/77Rsubft2DC13eDnMHV8gW), [Peace Lo](https://open.spotify.com/artist/0NiSYetyXtCKWhDZXfqydC) | [I've Been Waiting For So Long](https://open.spotify.com/album/49zicyaNRnOcLYYx0Cd4Ab) | 3:37 | 2023-06-15 | 2023-09-08 |
 | [I'VE SEEN THIS MOVIE BEFORE Pt.2](https://open.spotify.com/track/6bZ6d4DqovVDecNAluId9h) | [hyejin](https://open.spotify.com/artist/5zLd9DhI6ebR8fvwunp4bX), [Aleebi](https://open.spotify.com/artist/5eo2IBMqyII25TtyBJ4359), [kasper](https://open.spotify.com/artist/4kwRGpvKw9YsV0DTRZQKyH) | [I'VE SEEN THIS MOVIE BEFORE Pt.2](https://open.spotify.com/album/3qJp0l4TtjzUNXQ3cJnMPh) | 3:28 | 2023-05-04 | 2023-06-09 |
 | [I.L.S.M](https://open.spotify.com/track/6aiLq4d0ePpfjy2hbuyoee) | [Aisha Retno](https://open.spotify.com/artist/1eizIry8svwmH0cSjLUEYy) | [I.L.S.M \(I Love Sadness More\)](https://open.spotify.com/album/1yOU9gLssu44JoIstpba0f) | 3:05 | 2022-11-17 | 2022-12-17 |
@@ -312,6 +315,7 @@
 | [Moonlight](https://open.spotify.com/track/2i2gDpKKWjvnRTOZRhaPh2) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [Moonlight](https://open.spotify.com/album/1y8Yw0NDcP2qxbZufIXt7u) | 3:07 | 2023-02-23 | 2023-03-04 |
 | [More](https://open.spotify.com/track/6VacU6Uf16RkcQWUv3Z5Vq) | [Rad Museum](https://open.spotify.com/artist/6UdKtISMXYKSR8jcgtFePo), [Sik\-K](https://open.spotify.com/artist/5DIi2JWfQPTKffaVBlIYRn) | [More](https://open.spotify.com/album/5fdVNrQ2PoMTyhFXPPWu7L) | 2:41 | 2023-01-26 | 2023-08-25 |
 | [more than friends](https://open.spotify.com/track/50I78egyg3X8uAIyi5Yxsk) | [Jud Flores](https://open.spotify.com/artist/5qmT05y59RBZzSGFmgGOV2) | [more than friends](https://open.spotify.com/album/2duVvMB4PJVqvVCg93o8jU) | 3:21 | 2022-11-10 | 2023-04-07 |
+| [Mr\. Lonely](https://open.spotify.com/track/0d1NK6DEtHLK0Mw4iij3uI) | [RealestK](https://open.spotify.com/artist/35R1B97CfrqKFFI3QBkTDx) | [Real World](https://open.spotify.com/album/1oOQ3NNONlroyPGbElifW3) | 3:02 | 2023-10-19 |  |
 | [MY LOVE \(feat\. RAVI\)](https://open.spotify.com/track/7cbKVbe8nbPj0qtpkguN3N) | [Seo In Guk](https://open.spotify.com/artist/433F0GjVZRnsjP8ztGEso1), [RAVI](https://open.spotify.com/artist/42xj5mBLvrFdW6tYns6mxs) | [LOVE&LOVE](https://open.spotify.com/album/1PYXDudDPVlluVB6sv0aY8) | 3:25 | 2022-06-16 | 2022-06-24 |
 | [My Luv \(feat\. Bibi Bourelly\)](https://open.spotify.com/track/5nrzA4GIsgS1wdwY3q7cnt) | [RINI](https://open.spotify.com/artist/2joIhhX3Feq47H4QXVDOr3), [Bibi Bourelly](https://open.spotify.com/artist/3jDtqAKltRxJi64svLZGj7) | [My Luv \(feat\. Bibi Bourelly\)](https://open.spotify.com/album/2wzmoGlE1JlvlASjEF3WRQ) | 2:32 | 2023-02-09 | 2023-04-28 |
 | [My Soles Worn Out](https://open.spotify.com/track/6gMGYMp9S0sjNoCoFy3nsJ) | [Jooyoung](https://open.spotify.com/artist/1vct46rBqLNRbE9wCibXUH) | [My Soles Worn Out](https://open.spotify.com/album/3LC5izvPoH4ZpQo2K05u6r) | 3:27 | 2023-06-15 | 2023-06-23 |
@@ -457,6 +461,7 @@
 | [Superglue](https://open.spotify.com/track/4sqlU5E6WJnctc2z5nwWWV) | [Tripov](https://open.spotify.com/artist/7EAQd1uHunanyGbZenLe6h) | [Honest Opinions](https://open.spotify.com/album/1cSFQc6e8l2gnxfojHxs8s) | 3:25 | 2023-05-04 | 2023-05-12 |
 | [Surf On \(Prod\. 2LSON\)](https://open.spotify.com/track/1OFnjepHEkLCH3S3Tpwzc4) | [COLESLAW](https://open.spotify.com/artist/3CKrhOBZ8cqULrPBwPwWIs) | [Surf On \(Prod\. 2LSON\)](https://open.spotify.com/album/5V3bSXd6v6uayhy73cYHW1) | 3:38 | 2022-07-14 | 2022-07-22 |
 | [Surprise](https://open.spotify.com/track/3xcapG4WdzvsER4g70MjKc) | [Chlöe](https://open.spotify.com/artist/1FtBEIWAwvw5ymBen5GICR) | [Surprise](https://open.spotify.com/album/2C3rUs6GnKWT0c101eBiQb) | 2:35 | 2022-06-16 | 2022-07-22 |
+| [Suspended](https://open.spotify.com/track/1maIZ0gsjVbdANLvl4v0ao) | [Sampha](https://open.spotify.com/artist/2WoVwexZuODvclzULjPQtm) | [Lahai](https://open.spotify.com/album/5GuWww4OaildzkmTTlfMN3) | 3:05 | 2023-10-19 |  |
 | [Sweet](https://open.spotify.com/track/5FAUwmHyCfhB04I4hhc7DV) | [Xydo](https://open.spotify.com/artist/0vcbn6MqAvgM8Gh6wh8d6X) | [Sweet](https://open.spotify.com/album/4rjYcvl3RNOvcEXGWkmZGX) | 3:04 | 2023-02-23 | 2023-03-18 |
 | [take it slow](https://open.spotify.com/track/3SgeEEibjPbN6OoazEt6eD) | [yedira](https://open.spotify.com/artist/2NqUNNVaealnNxAUcSX9Xq) | [take it slow](https://open.spotify.com/album/5n2RGIzRuQbaNn3Tq2wxug) | 3:26 | 2023-06-15 |  |
 | [Talk 2 Me Nice](https://open.spotify.com/track/729F2Yqzq0h67aCpFzZBeY) | [SAAY](https://open.spotify.com/artist/2pvCf5g7XBReiPIvcq7W18) | [S:INEMA](https://open.spotify.com/album/5eOTrxzkXgD6uMDP5kWW0j) | 3:58 | 2022-10-28 | 2023-02-24 |

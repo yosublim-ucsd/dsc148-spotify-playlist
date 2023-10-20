@@ -4,7 +4,7 @@
 
 > The official playlist for "ONE PIECE FILM RED"\. <a href="https://www.onepiece\-film.jp/">『ONE PIECE FILM RED』</a>公式プレイリスト。「ONE PIECE」映画作品の主題歌集。 ©尾田栄一郎／2022「ワンピース」製作委員会
 
-83 songs - 5 hr 16 min
+84 songs - 5 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,6 +42,7 @@
 | [アニマルバンド・アドリブ①](https://open.spotify.com/track/0Ed1dTGZb6ly50MCMTgMiC) | [Yasutaka Nakata](https://open.spotify.com/artist/2qNI3aGlywRzTkRBOy9YzG) | [ONE PIECE FILM RED Original Sound Track](https://open.spotify.com/album/1l2K2FjloL4AGyqRWf17U4) | 0:28 | 2022-10-27 |  |
 | [アニマルバンド・アドリブ②](https://open.spotify.com/track/2hqWiKkpzxnFdIRf0GjRyx) | [Yasutaka Nakata](https://open.spotify.com/artist/2qNI3aGlywRzTkRBOy9YzG) | [ONE PIECE FILM RED Original Sound Track](https://open.spotify.com/album/1l2K2FjloL4AGyqRWf17U4) | 1:33 | 2022-10-27 |  |
 | [ウィーアー! for the new world](https://open.spotify.com/track/1QpkD0qIOHfvFH5vUzkek7) | [Hiroshi Kitadani](https://open.spotify.com/artist/4AJU1RjcIcPXJ29eoV5Jop) | [ウィーゴー!](https://open.spotify.com/album/22vN8p8TlwrKbSrU4Z1pM5) | 3:59 | 2022-06-08 |  |
+| [ウタからのスペシャルメッセージ！](https://open.spotify.com/track/3qGNnwphQxp49rF7PvZEHJ) | [『ONE PIECE FILM RED』](https://open.spotify.com/artist/5ZcbyO3uLbSWaAka2Gesro) | [『ONE PIECE FILM RED』ウタからのスペシャルメッセージ！](https://open.spotify.com/album/1b4Mf96hYgQfNzsrIifMEq) | 0:35 | 2023-10-19 |  |
 | [ウタカタララバイ](https://open.spotify.com/track/3IhHrBYZaxySuRu1zI7Vuk) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [ウタの歌 ONE PIECE FILM RED](https://open.spotify.com/album/5WStsinR0ZOQRoCI6rQPZA) | 2:53 | 2022-08-09 | 2022-09-29 |
 | [ウタカタララバイ](https://open.spotify.com/track/5HnfjLWXhy0xFvFEcEM1w3) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [ウタカタララバイ](https://open.spotify.com/album/4vWfsyx7AkuLNuXwa075co) | 2:53 | 2022-08-05 | 2022-08-10 |
 | [ウタワールド](https://open.spotify.com/track/7HD0O2W3WOednmid8VmcSE) | [Yasutaka Nakata](https://open.spotify.com/artist/2qNI3aGlywRzTkRBOy9YzG) | [ONE PIECE FILM RED Original Sound Track](https://open.spotify.com/album/1l2K2FjloL4AGyqRWf17U4) | 0:37 | 2022-10-27 |  |
@@ -53,7 +54,7 @@
 | [フォーメーション・コビー](https://open.spotify.com/track/5Lomh2jFLmvOAkH3tCPT55) | [Yasutaka Nakata](https://open.spotify.com/artist/2qNI3aGlywRzTkRBOy9YzG) | [ONE PIECE FILM RED Original Sound Track](https://open.spotify.com/album/1l2K2FjloL4AGyqRWf17U4) | 4:41 | 2022-10-27 |  |
 | [ベポ!!](https://open.spotify.com/track/5CpmxK2tAls5TClXUmyeJg) | [Yasutaka Nakata](https://open.spotify.com/artist/2qNI3aGlywRzTkRBOy9YzG) | [ONE PIECE FILM RED Original Sound Track](https://open.spotify.com/album/1l2K2FjloL4AGyqRWf17U4) | 0:07 | 2022-10-27 |  |
 | [ライブ会場BGM](https://open.spotify.com/track/2bexD0MTqUXQ7K1mBafiqJ) | [Yasutaka Nakata](https://open.spotify.com/artist/2qNI3aGlywRzTkRBOy9YzG) | [ONE PIECE FILM RED Original Sound Track](https://open.spotify.com/album/1l2K2FjloL4AGyqRWf17U4) | 2:38 | 2022-10-27 |  |
-| [ルフィからのスペシャルメッセージ!](https://open.spotify.com/track/0JCQ1u56ZfhEZpGl0of9eE) | [『ONE PIECE FILM RED』](https://open.spotify.com/artist/5ZcbyO3uLbSWaAka2Gesro) | [『ONE PIECE FILM RED』ルフィからのスペシャルメッセージ!](https://open.spotify.com/album/5MLfhQGhRuDBCzGPxBo4qi) | 0:32 | 2022-06-08 |  |
+| [ルフィからのスペシャルメッセージ!](https://open.spotify.com/track/0JCQ1u56ZfhEZpGl0of9eE) | [『ONE PIECE FILM RED』](https://open.spotify.com/artist/5ZcbyO3uLbSWaAka2Gesro) | [『ONE PIECE FILM RED』ルフィからのスペシャルメッセージ!](https://open.spotify.com/album/5MLfhQGhRuDBCzGPxBo4qi) | 0:32 | 2022-06-08 | 2023-10-20 |
 | [ルフィの意思](https://open.spotify.com/track/30xfAgeDj8KeoHzJDgZMkg) | [Yasutaka Nakata](https://open.spotify.com/artist/2qNI3aGlywRzTkRBOy9YzG) | [ONE PIECE FILM RED Original Sound Track](https://open.spotify.com/album/1l2K2FjloL4AGyqRWf17U4) | 0:43 | 2022-10-27 |  |
 | [不安めいて](https://open.spotify.com/track/1LHogaibwGSGsptj5taP8T) | [Yasutaka Nakata](https://open.spotify.com/artist/2qNI3aGlywRzTkRBOy9YzG) | [ONE PIECE FILM RED Original Sound Track](https://open.spotify.com/album/1l2K2FjloL4AGyqRWf17U4) | 0:39 | 2022-10-27 |  |
 | [世界のつづき](https://open.spotify.com/track/17zp5n2rbiRJzQtCaZpXDD) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [ウタの歌 ONE PIECE FILM RED](https://open.spotify.com/album/5WStsinR0ZOQRoCI6rQPZA) | 4:47 | 2022-08-09 | 2022-09-29 |

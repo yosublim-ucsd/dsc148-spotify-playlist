@@ -4,7 +4,7 @@
 
 > Your crush begins here, with the Malaysian pop artist's intimate vocals and the lush production of her most memorable tunes.
 
-89 songs - 5 hr 23 min
+91 songs - 5 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,6 +15,7 @@
 | [ANGRY HEARTS](https://open.spotify.com/track/78ZSpNggaGhHY1HdcjGJr4) | [Charlie Heat](https://open.spotify.com/artist/0bbguzUos4LO6NikkdXdzw), [Yuna](https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1) | [ANGRY HEARTS](https://open.spotify.com/album/3H9mOpsztHarggXBOaNTsB) | 3:22 | 2023-04-27 |  |
 | [Asing](https://open.spotify.com/track/5R8ZfnGDbXOdoGtrJSIdsK) | [Yuna](https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1) | [Masih Yuna](https://open.spotify.com/album/6yzS4B3517AyjytLYAukvm) | 3:14 | 2023-04-27 |  |
 | [Baby Boy \(feat\. Yuna\)](https://open.spotify.com/track/2iQNtCDgx4oEhUBo8c5df4) | [Lincoln Jesser](https://open.spotify.com/artist/3GxiyVFhM1CWoYBMfZ9hYG), [Yuna](https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1) | [Baby Boy \(feat\. Yuna\)](https://open.spotify.com/album/52WULnV3arSE5JwhAhe3XV) | 3:34 | 2023-04-27 |  |
+| [Bad Intentions](https://open.spotify.com/track/0d7Z3ZMcCXP25EidWPC0Sf) | [Yuna](https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1) | [Bad Intentions](https://open.spotify.com/album/6woTomg4IThua1tXT9bsVx) | 2:23 | 2023-10-19 |  |
 | [Best Love](https://open.spotify.com/track/42ZTvtzDTTwq5J74RaZKUJ) | [Yuna](https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1) | [Chapters \(Deluxe\)](https://open.spotify.com/album/4hynGWtmIAaKmaOm8snH71) | 4:51 | 2023-04-27 |  |
 | [Best Of Me](https://open.spotify.com/track/7F0K8l8zL5ci567eovodtD) | [Yuna](https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1) | [Chapters \(Deluxe\)](https://open.spotify.com/album/4hynGWtmIAaKmaOm8snH71) | 3:53 | 2023-04-27 |  |
 | [Better Now](https://open.spotify.com/track/4baFSFLNit6bSF4tAt6NGS) | [Yuna](https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1) | [Better Now](https://open.spotify.com/album/67SECQMJ3wC0VislGuQDA0) | 3:52 | 2023-04-27 |  |
@@ -46,6 +47,7 @@
 | [Forget About You](https://open.spotify.com/track/4Z6rzupjLzFdjR489LBqwj) | [Yuna](https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1) | [Rouge](https://open.spotify.com/album/5By9BZR5hxGhbkeq7sAcqZ) | 4:28 | 2023-04-27 |  |
 | [Gelora Jiwa](https://open.spotify.com/track/5L6GF1QgRVb7Ox1aTFdQ7B) | [Yuna](https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1) | [P\. Ramlee : Satu Indiepretasi](https://open.spotify.com/album/3n3dlojrdjl8clhx3dT5lH) | 2:40 | 2023-04-27 |  |
 | [Girl U Used 2 Know](https://open.spotify.com/track/20CL5Ad8EQ5uIHLYZI6aZa) | [Yuna](https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1) | [Y2](https://open.spotify.com/album/1o1Jc1rX5e2OVDZKcl6ukX) | 3:17 | 2023-04-27 |  |
+| [Glory](https://open.spotify.com/track/3Ku8Zc9cnCkKwvXs7qErVQ) | [Yuna](https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1) | [Glory](https://open.spotify.com/album/51VWvFuTcJuqfvms0SLXQr) | 2:45 | 2023-10-19 |  |
 | [Gold \(feat\. Yuna\)](https://open.spotify.com/track/3wjen23Xb9H1kU4V50QyiZ) | [Adventure Club](https://open.spotify.com/artist/5CdJjUi9f0cVgo9nFuJrFa), [Yuna](https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1) | [Calling All Heroes](https://open.spotify.com/album/1gLPm1bWZFHv6ORBbEmQPM) | 4:17 | 2023-04-27 |  |
 | [Hello](https://open.spotify.com/track/1Kob3GjOFd7jvgf3CV97i4) | [Yuna](https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1) | [Y1](https://open.spotify.com/album/0xlpkNFvbonkCBiAZu0AdM) | 2:26 | 2023-04-27 |  |
 | [Hold On, We're Going Home](https://open.spotify.com/track/4QS7XNVxVCEMdsrUPqogTb) | [Yuna](https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1) | [Spotify Sessions](https://open.spotify.com/album/2k3Xk2QZPruEfsTnLXL4tv) | 4:26 | 2023-04-27 |  |

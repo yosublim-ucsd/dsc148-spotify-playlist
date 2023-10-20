@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Nos vemos el 17, 18 y 19 de Febrero en Las Estacas para disfrutar juntos! \u00bfA qui\u00e9n no te vas a perder? ",
-  "num_followers": 11900,
+  "num_followers": 11901,
   "original_name": "Carnaval de Bahidor\u00e1",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjNTI5MjI0MWU2ZGJjNTZhN2ZlZmFlMzczM2Q2MGYzYzFiZmQ0ZmQy",
+  "snapshot_id": "MCw1M2I4MDA2M2U3NTQxMGIyMWJlNDdlNmZhZGY5MzZkZjAyMzA0MmFj",
   "tracks": [
     {
       "added_at": "2023-02-03 06:30:00",
@@ -28,7 +28,7 @@
       "added_at": "2023-02-03 06:30:00",
       "album": {
         "name": "Carry Me Home",
-        "url": "https://open.spotify.com/album/3BVadsttoBuo4nmzPoax9g"
+        "url": "https://open.spotify.com/album/18xdK3SoHfN0nHVAQfKvnQ"
       },
       "artists": [
         {
@@ -38,7 +38,7 @@
       ],
       "duration_ms": 327560,
       "name": "Carry Me Home",
-      "url": "https://open.spotify.com/track/0lfCoE7BfCZaaLiKSxSYXL"
+      "url": "https://open.spotify.com/track/2mgIoFgItGxpYAQw5j1ShQ"
     },
     {
       "added_at": "2023-02-03 06:30:00",
@@ -323,6 +323,22 @@
     {
       "added_at": "2023-02-03 06:30:00",
       "album": {
+        "name": "KOKOROKO",
+        "url": "https://open.spotify.com/album/5GgdFrmouCR0Ud5Ag7IC8H"
+      },
+      "artists": [
+        {
+          "name": "Kokoroko",
+          "url": "https://open.spotify.com/artist/3u9rbdcmA6CxjxOAkjaeFr"
+        }
+      ],
+      "duration_ms": 372386,
+      "name": "Ti-de",
+      "url": "https://open.spotify.com/track/4JJEfYFamGRfmz9nG6fx1w"
+    },
+    {
+      "added_at": "2023-02-03 06:30:00",
+      "album": {
         "name": "Fin",
         "url": "https://open.spotify.com/album/4MeSw9nbALgbtx13UrwBXm"
       },
@@ -339,22 +355,6 @@
       "duration_ms": 293626,
       "name": "Destiny",
       "url": "https://open.spotify.com/track/5yQp0RrQ7wdMZoiQ6fnAme"
-    },
-    {
-      "added_at": "2023-02-03 06:30:00",
-      "album": {
-        "name": "Talabout",
-        "url": "https://open.spotify.com/album/4um67GUp8OfQFyfSMwtp7J"
-      },
-      "artists": [
-        {
-          "name": "Stavroz",
-          "url": "https://open.spotify.com/artist/7su1fG75ZwXHA6ei9Zcy7T"
-        }
-      ],
-      "duration_ms": 325760,
-      "name": "Merci \u00c9clair",
-      "url": "https://open.spotify.com/track/0tGWcbplNiSkw8RxhMPuMJ"
     },
     {
       "added_at": "2023-02-03 06:30:00",
@@ -379,18 +379,18 @@
     {
       "added_at": "2023-02-03 06:30:00",
       "album": {
-        "name": "Phase",
-        "url": "https://open.spotify.com/album/2YuHj1L5CPyZaFYrBfgbu6"
+        "name": "Talabout",
+        "url": "https://open.spotify.com/album/4um67GUp8OfQFyfSMwtp7J"
       },
       "artists": [
         {
-          "name": "Mildlife",
-          "url": "https://open.spotify.com/artist/1lsJmnN90u3KBvF3tGEWr3"
+          "name": "Stavroz",
+          "url": "https://open.spotify.com/artist/7su1fG75ZwXHA6ei9Zcy7T"
         }
       ],
-      "duration_ms": 289280,
-      "name": "Zwango Zop",
-      "url": "https://open.spotify.com/track/6MhQIRqZhXXjQYgyXewTmv"
+      "duration_ms": 325760,
+      "name": "Merci \u00c9clair",
+      "url": "https://open.spotify.com/track/0tGWcbplNiSkw8RxhMPuMJ"
     },
     {
       "added_at": "2023-02-03 06:30:00",
@@ -407,6 +407,22 @@
       "duration_ms": 222037,
       "name": "Jeans",
       "url": "https://open.spotify.com/track/2o5Pi9Q9mshFu6uvvgFg3c"
+    },
+    {
+      "added_at": "2023-02-03 06:30:00",
+      "album": {
+        "name": "Phase",
+        "url": "https://open.spotify.com/album/2YuHj1L5CPyZaFYrBfgbu6"
+      },
+      "artists": [
+        {
+          "name": "Mildlife",
+          "url": "https://open.spotify.com/artist/1lsJmnN90u3KBvF3tGEWr3"
+        }
+      ],
+      "duration_ms": 289280,
+      "name": "Zwango Zop",
+      "url": "https://open.spotify.com/track/6MhQIRqZhXXjQYgyXewTmv"
     },
     {
       "added_at": "2023-02-03 06:30:00",
@@ -467,38 +483,6 @@
     {
       "added_at": "2023-02-03 06:30:00",
       "album": {
-        "name": "Silent Spring EP",
-        "url": "https://open.spotify.com/album/2fz4ZOEnLKXo8cLUzDLC2u"
-      },
-      "artists": [
-        {
-          "name": "Stavroz",
-          "url": "https://open.spotify.com/artist/7su1fG75ZwXHA6ei9Zcy7T"
-        }
-      ],
-      "duration_ms": 435041,
-      "name": "Should've Brought an Umbrella",
-      "url": "https://open.spotify.com/track/6MDdQPkqN2K9xOyccN6Oj9"
-    },
-    {
-      "added_at": "2023-02-03 06:30:00",
-      "album": {
-        "name": "KOKOROKO",
-        "url": "https://open.spotify.com/album/7DEDf5W3DlySzcs4CQuiuF"
-      },
-      "artists": [
-        {
-          "name": "Kokoroko",
-          "url": "https://open.spotify.com/artist/3u9rbdcmA6CxjxOAkjaeFr"
-        }
-      ],
-      "duration_ms": 372386,
-      "name": "Ti-de",
-      "url": "https://open.spotify.com/track/4Hkcul01Ct8ToAZkc71Ktf"
-    },
-    {
-      "added_at": "2023-02-03 06:30:00",
-      "album": {
         "name": "Juntura",
         "url": "https://open.spotify.com/album/117GdDdyYQyaR3ddgcp1EN"
       },
@@ -519,6 +503,22 @@
     {
       "added_at": "2023-02-03 06:30:00",
       "album": {
+        "name": "Could We Be More",
+        "url": "https://open.spotify.com/album/48e8LFqiVUxumlXDIVyNYl"
+      },
+      "artists": [
+        {
+          "name": "Kokoroko",
+          "url": "https://open.spotify.com/artist/3u9rbdcmA6CxjxOAkjaeFr"
+        }
+      ],
+      "duration_ms": 239786,
+      "name": "Tojo",
+      "url": "https://open.spotify.com/track/5w3b1UFMnOqxeNSiJBLzqO"
+    },
+    {
+      "added_at": "2023-02-03 06:30:00",
+      "album": {
         "name": "1995",
         "url": "https://open.spotify.com/album/4YP2J5XSLVWWaztTV4PmW3"
       },
@@ -535,18 +535,18 @@
     {
       "added_at": "2023-02-03 06:30:00",
       "album": {
-        "name": "AMARILLO MI CORAZ\u00d3N",
-        "url": "https://open.spotify.com/album/2PJLX9PXiQ7hG3nILSDlXu"
+        "name": "Silent Spring EP",
+        "url": "https://open.spotify.com/album/2fz4ZOEnLKXo8cLUzDLC2u"
       },
       "artists": [
         {
-          "name": "SIMONA",
-          "url": "https://open.spotify.com/artist/7H7hLNfP9MzG8mt2A3s7nT"
+          "name": "Stavroz",
+          "url": "https://open.spotify.com/artist/7su1fG75ZwXHA6ei9Zcy7T"
         }
       ],
-      "duration_ms": 186964,
-      "name": "AMARILLO MI CORAZ\u00d3N",
-      "url": "https://open.spotify.com/track/0P2yIpAaEyOjxMfH4CrYyB"
+      "duration_ms": 435041,
+      "name": "Should've Brought an Umbrella",
+      "url": "https://open.spotify.com/track/6MDdQPkqN2K9xOyccN6Oj9"
     },
     {
       "added_at": "2023-02-03 06:30:00",
@@ -563,6 +563,22 @@
       "duration_ms": 377225,
       "name": "Psilocybin",
       "url": "https://open.spotify.com/track/2rSjE8wHrl9OiI4vmOduU8"
+    },
+    {
+      "added_at": "2023-02-03 06:30:00",
+      "album": {
+        "name": "AMARILLO MI CORAZ\u00d3N",
+        "url": "https://open.spotify.com/album/2PJLX9PXiQ7hG3nILSDlXu"
+      },
+      "artists": [
+        {
+          "name": "SIMONA",
+          "url": "https://open.spotify.com/artist/7H7hLNfP9MzG8mt2A3s7nT"
+        }
+      ],
+      "duration_ms": 186964,
+      "name": "AMARILLO MI CORAZ\u00d3N",
+      "url": "https://open.spotify.com/track/0P2yIpAaEyOjxMfH4CrYyB"
     },
     {
       "added_at": "2023-02-03 06:30:00",
@@ -599,22 +615,6 @@
     {
       "added_at": "2023-02-03 06:30:00",
       "album": {
-        "name": "Could We Be More",
-        "url": "https://open.spotify.com/album/48e8LFqiVUxumlXDIVyNYl"
-      },
-      "artists": [
-        {
-          "name": "Kokoroko",
-          "url": "https://open.spotify.com/artist/3u9rbdcmA6CxjxOAkjaeFr"
-        }
-      ],
-      "duration_ms": 239786,
-      "name": "Tojo",
-      "url": "https://open.spotify.com/track/5w3b1UFMnOqxeNSiJBLzqO"
-    },
-    {
-      "added_at": "2023-02-03 06:30:00",
-      "album": {
         "name": "Fin",
         "url": "https://open.spotify.com/album/4MeSw9nbALgbtx13UrwBXm"
       },
@@ -647,22 +647,6 @@
     {
       "added_at": "2023-02-03 06:30:00",
       "album": {
-        "name": "Reverie",
-        "url": "https://open.spotify.com/album/4gOjvaMgNOZ2u3ip4P3hSk"
-      },
-      "artists": [
-        {
-          "name": "Sama\u2019 Abdulhadi",
-          "url": "https://open.spotify.com/artist/52qyXsgOeHZZxHRRxyO8xm"
-        }
-      ],
-      "duration_ms": 397500,
-      "name": "Reverie",
-      "url": "https://open.spotify.com/track/4XwKweWkOkGrXAJks0B7j2"
-    },
-    {
-      "added_at": "2023-02-03 06:30:00",
-      "album": {
         "name": "SHUT UP",
         "url": "https://open.spotify.com/album/7llnim2vHi8vZJAsshGC34"
       },
@@ -687,18 +671,18 @@
     {
       "added_at": "2023-02-03 06:30:00",
       "album": {
-        "name": "Ape Escape 3 - Originape Soundtracks / \u30b5\u30eb\u30b2\u30c3\u30c1\u30e53\u30fb\u30aa\u30ea\u30b8\u30b5\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
-        "url": "https://open.spotify.com/album/5CBUobzAmO8mdaFeuG7HJe"
+        "name": "Reverie",
+        "url": "https://open.spotify.com/album/4gOjvaMgNOZ2u3ip4P3hSk"
       },
       "artists": [
         {
-          "name": "Soichi Terada",
-          "url": "https://open.spotify.com/artist/7nBJ5F2V7hDZE1hhKgqXM9"
+          "name": "Sama\u2019 Abdulhadi",
+          "url": "https://open.spotify.com/artist/52qyXsgOeHZZxHRRxyO8xm"
         }
       ],
-      "duration_ms": 124266,
-      "name": "\u3068\u3093\u3066\u3099\u3082\u30de\u30a6\u30f3\u30c6\u30f32 / Mount Amazing 2",
-      "url": "https://open.spotify.com/track/4qkpPliACyu6q4kK6NvJls"
+      "duration_ms": 397500,
+      "name": "Reverie",
+      "url": "https://open.spotify.com/track/4XwKweWkOkGrXAJks0B7j2"
     },
     {
       "added_at": "2023-02-03 06:30:00",
@@ -719,6 +703,22 @@
     {
       "added_at": "2023-02-03 06:30:00",
       "album": {
+        "name": "Window Shopping",
+        "url": "https://open.spotify.com/album/70J7rIqqTeuNxIogrSii36"
+      },
+      "artists": [
+        {
+          "name": "Stimming",
+          "url": "https://open.spotify.com/artist/2yPveJtn9DpeN0CgNJHvAQ"
+        }
+      ],
+      "duration_ms": 517758,
+      "name": "The Song",
+      "url": "https://open.spotify.com/track/6VM1kODr0GOt0y5VirvXW2"
+    },
+    {
+      "added_at": "2023-02-03 06:30:00",
+      "album": {
         "name": "Deepsoul",
         "url": "https://open.spotify.com/album/740mAq1Crswiib49Zn9JwM"
       },
@@ -735,18 +735,18 @@
     {
       "added_at": "2023-02-03 06:30:00",
       "album": {
-        "name": "Window Shopping",
-        "url": "https://open.spotify.com/album/70J7rIqqTeuNxIogrSii36"
+        "name": "Ape Escape 3 - Originape Soundtracks / \u30b5\u30eb\u30b2\u30c3\u30c1\u30e53\u30fb\u30aa\u30ea\u30b8\u30b5\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
+        "url": "https://open.spotify.com/album/5CBUobzAmO8mdaFeuG7HJe"
       },
       "artists": [
         {
-          "name": "Stimming",
-          "url": "https://open.spotify.com/artist/2yPveJtn9DpeN0CgNJHvAQ"
+          "name": "Soichi Terada",
+          "url": "https://open.spotify.com/artist/7nBJ5F2V7hDZE1hhKgqXM9"
         }
       ],
-      "duration_ms": 517758,
-      "name": "The Song",
-      "url": "https://open.spotify.com/track/6VM1kODr0GOt0y5VirvXW2"
+      "duration_ms": 124266,
+      "name": "\u3068\u3093\u3066\u3099\u3082\u30de\u30a6\u30f3\u30c6\u30f32 / Mount Amazing 2",
+      "url": "https://open.spotify.com/track/4qkpPliACyu6q4kK6NvJls"
     },
     {
       "added_at": "2023-02-03 06:30:00",
@@ -839,6 +839,30 @@
     {
       "added_at": "2023-02-03 06:30:00",
       "album": {
+        "name": "Goteo",
+        "url": "https://open.spotify.com/album/0bSLm9NcV2xx1cXNyQpy24"
+      },
+      "artists": [
+        {
+          "name": "Sangre Nueva",
+          "url": "https://open.spotify.com/artist/0YmokPIhVketCTSXBRp20R"
+        },
+        {
+          "name": "DJ Python",
+          "url": "https://open.spotify.com/artist/1LoZxxInSyuVFKSMAB4BPl"
+        },
+        {
+          "name": "Florentino",
+          "url": "https://open.spotify.com/artist/1rhVQSyhxNOMN6RHi2sB44"
+        }
+      ],
+      "duration_ms": 249600,
+      "name": "Sola",
+      "url": "https://open.spotify.com/track/2dTF9YQQT27wzJMZnaCcYh"
+    },
+    {
+      "added_at": "2023-02-03 06:30:00",
+      "album": {
         "name": "Late Night Tales Presents Version Excursion Selected by Don Letts",
         "url": "https://open.spotify.com/album/6mb75tHrQX7gCJ6B2TDR0W"
       },
@@ -863,30 +887,6 @@
       "duration_ms": 308307,
       "name": "E=MC2",
       "url": "https://open.spotify.com/track/68gtlnAd9Eb7IxmJ8aQvEa"
-    },
-    {
-      "added_at": "2023-02-03 06:30:00",
-      "album": {
-        "name": "Goteo",
-        "url": "https://open.spotify.com/album/0bSLm9NcV2xx1cXNyQpy24"
-      },
-      "artists": [
-        {
-          "name": "Sangre Nueva",
-          "url": "https://open.spotify.com/artist/0YmokPIhVketCTSXBRp20R"
-        },
-        {
-          "name": "DJ Python",
-          "url": "https://open.spotify.com/artist/1LoZxxInSyuVFKSMAB4BPl"
-        },
-        {
-          "name": "Florentino",
-          "url": "https://open.spotify.com/artist/1rhVQSyhxNOMN6RHi2sB44"
-        }
-      ],
-      "duration_ms": 249600,
-      "name": "Sola",
-      "url": "https://open.spotify.com/track/2dTF9YQQT27wzJMZnaCcYh"
     },
     {
       "added_at": "2023-02-03 06:30:00",
@@ -975,6 +975,34 @@
     {
       "added_at": "2023-02-03 06:30:00",
       "album": {
+        "name": "Goteo",
+        "url": "https://open.spotify.com/album/0bSLm9NcV2xx1cXNyQpy24"
+      },
+      "artists": [
+        {
+          "name": "Sangre Nueva",
+          "url": "https://open.spotify.com/artist/0YmokPIhVketCTSXBRp20R"
+        },
+        {
+          "name": "DJ Python",
+          "url": "https://open.spotify.com/artist/1LoZxxInSyuVFKSMAB4BPl"
+        },
+        {
+          "name": "Florentino",
+          "url": "https://open.spotify.com/artist/1rhVQSyhxNOMN6RHi2sB44"
+        },
+        {
+          "name": "Kelman Duran",
+          "url": "https://open.spotify.com/artist/6PIl48ctj6HDmqVM2uIikd"
+        }
+      ],
+      "duration_ms": 300000,
+      "name": "Hurt",
+      "url": "https://open.spotify.com/track/7nZfJZknW5vyEU2uWJhmiI"
+    },
+    {
+      "added_at": "2023-02-03 06:30:00",
+      "album": {
         "name": "the mirror",
         "url": "https://open.spotify.com/album/32pmXLNEJuWihhO1Vntab2"
       },
@@ -1023,34 +1051,6 @@
       "duration_ms": 488720,
       "name": "Zoras's Moon - Natasha Diggs Remix",
       "url": "https://open.spotify.com/track/4TWRxDQX1ZcgfgvFEtflVp"
-    },
-    {
-      "added_at": "2023-02-03 06:30:00",
-      "album": {
-        "name": "Goteo",
-        "url": "https://open.spotify.com/album/0bSLm9NcV2xx1cXNyQpy24"
-      },
-      "artists": [
-        {
-          "name": "Sangre Nueva",
-          "url": "https://open.spotify.com/artist/0YmokPIhVketCTSXBRp20R"
-        },
-        {
-          "name": "DJ Python",
-          "url": "https://open.spotify.com/artist/1LoZxxInSyuVFKSMAB4BPl"
-        },
-        {
-          "name": "Florentino",
-          "url": "https://open.spotify.com/artist/1rhVQSyhxNOMN6RHi2sB44"
-        },
-        {
-          "name": "Kelman Duran",
-          "url": "https://open.spotify.com/artist/6PIl48ctj6HDmqVM2uIikd"
-        }
-      ],
-      "duration_ms": 300000,
-      "name": "Hurt",
-      "url": "https://open.spotify.com/track/7nZfJZknW5vyEU2uWJhmiI"
     },
     {
       "added_at": "2023-02-03 06:30:00",

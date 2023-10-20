@@ -2,9 +2,9 @@
 
 ### [Jazz NXT](https://open.spotify.com/playlist/37i9dQZF1DX9zYTPIU0FeE)
 
-> Journey through the exciting and innovative sounds of South African Jazz\. Cover: <a href="https://open.spotify.com/artist/7xfBWpNiwO2yteiY68OB6C?si=EjNBNj\-rTx2PbN4oc64EcQ">Desire Marea</a>
+> Journey through the exciting and innovative sounds of South African Jazz\. Cover: <a href="https://open.spotify.com/artist/6fZnlEQhCdN5rTWuzKG7ao?si=PTlXF2E1SoKbV2yr7WZZXw">Nkosi Zondo</a>
 
-134 songs - 14 hr 9 min
+135 songs - 14 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,6 +21,7 @@
 | [Awakening](https://open.spotify.com/track/1hWcpSQLLaIg610CenNRpo) | [Marcus Wyatt & the ZAR Jazz Orchestra](https://open.spotify.com/artist/0d8s4yzcDxXQxe55hbtmZs) | [One Night in the Sun](https://open.spotify.com/album/29rBOmvMXW8KT79RdvW6NC) | 8:12 | 2022-04-28 | 2023-03-18 |
 | [Bamako Love Song](https://open.spotify.com/track/1kLnNSKAO9HxS4qKbR9aza) | [MABUTA](https://open.spotify.com/artist/4Z6IP9yKpOBbitoDKeMIFI), [Shane Cooper](https://open.spotify.com/artist/2NFkaT0OaYcQiY1UsW9JtZ), [Shabaka](https://open.spotify.com/artist/6ywMpa6AmGJpV5Sbyy58Js) | [Welcome to This World](https://open.spotify.com/album/42rE11bATq8xq7vID2ekDw) | 5:22 | 2022-04-28 | 2023-02-10 |
 | [Bayakhala](https://open.spotify.com/track/044VNnUGUaAOphHS0uHITs) | [The Brother Moves On](https://open.spotify.com/artist/1lk7zDKaonwqrwKwt8Krd7) | [Bayakhala](https://open.spotify.com/album/0X0kjZMbBYfMg00uuY6vkf) | 5:30 | 2022-08-18 | 2023-05-13 |
+| [Bela Bela \- Live Studio](https://open.spotify.com/track/29uC6WCV5q0jYJlfVw8IDc) | [Nkosi Zondo](https://open.spotify.com/artist/6fZnlEQhCdN5rTWuzKG7ao), [Bhekinkosi 'Soja' Hlatshwayo](https://open.spotify.com/artist/1pOOeJi41sMEExc6FXxWIR) | [Bela Bela \(Live Studio\)](https://open.spotify.com/album/7jwsvjLpVhlglv8Wy7NZOn) | 6:38 | 2023-10-19 |  |
 | [Bhaca Blue](https://open.spotify.com/track/4AncHenxnWxZS5ftGRZLc2) | [Steve Dyer](https://open.spotify.com/artist/61aqbPYgQBxkHz5zs4L1YO) | [Genesis of a Different World](https://open.spotify.com/album/1jpy0s4HMRWrT2RIJDWkp9) | 7:56 | 2022-04-28 |  |
 | [Breathe](https://open.spotify.com/track/0Ybt7GtFdFutFAcDG8BadS) | [Zarcia](https://open.spotify.com/artist/3zXWyPAkoMFgr92LxUzPvR) | [THERAPY](https://open.spotify.com/album/2IST9MireQnJPgGwTbkWM9) | 4:59 | 2022-04-28 |  |
 | [Breathe](https://open.spotify.com/track/2LpXQfDBYoJnK8MrNT8fR4) | [Zarcia](https://open.spotify.com/artist/3zXWyPAkoMFgr92LxUzPvR) | [Therapy](https://open.spotify.com/album/6jnWbrTXFf7LjWXmf0qr2r) | 5:01 | 2022-04-28 | 2022-10-20 |

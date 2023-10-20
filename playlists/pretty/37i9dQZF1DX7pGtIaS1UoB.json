@@ -1,12 +1,12 @@
 {
   "description": "\u9019\u4e9b\u6709\u7bc0\u594f\u6709\u6eab\u5ea6\u7684\u60c5\u6b4c\uff0c\u80fd\u8b93\u4f60\u6642\u6642\u523b\u523b\u90fd\u6709\u5728\u5e78\u798f\u4e2d\u904a\u8d70\u7684\u611f\u89ba\u3002",
-  "num_followers": 92853,
+  "num_followers": 92886,
   "original_name": "\u6696\u5fc3\u60c5\u6b4c",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhYzYxNDQ3NDdiMTAzNjkwOTBkOTkxNzIxOGY0MzkzZmI5ODJiMzFh",
+  "snapshot_id": "MCxmNWY5YjJkNzY3YzJjMTQ4OWI0NTdiNTRiZDM3NmYyZmY1YTZkZTNm",
   "tracks": [
     {
       "added_at": "2023-10-16 03:01:48",
@@ -37,7 +37,7 @@
         }
       ],
       "duration_ms": 192673,
-      "name": "BACK TO YOU",
+      "name": "Back To You",
       "url": "https://open.spotify.com/track/54vjqSoR0cfO7nGKNvZS5o"
     },
     {
@@ -291,22 +291,6 @@
     {
       "added_at": "2023-10-16 03:01:48",
       "album": {
-        "name": "\u81ea\u5b9a\u7fa9",
-        "url": "https://open.spotify.com/album/0OfgDIAou9mTshlocs9hXD"
-      },
-      "artists": [
-        {
-          "name": "\u8a31\u5d69",
-          "url": "https://open.spotify.com/artist/2hgxWUG24w1cFLBlPSEVcV"
-        }
-      ],
-      "duration_ms": 240027,
-      "name": "\u6709\u4f55\u4e0d\u53ef",
-      "url": "https://open.spotify.com/track/5rXBmcYNJYMYdhwxlMLh0s"
-    },
-    {
-      "added_at": "2023-10-16 03:01:48",
-      "album": {
         "name": "123\u6211\u7231\u4f60",
         "url": "https://open.spotify.com/album/2k5jM3yRT4kHDXpOglZjSo"
       },
@@ -319,6 +303,22 @@
       "duration_ms": 199530,
       "name": "123\u6211\u7231\u4f60",
       "url": "https://open.spotify.com/track/0F6nAVTpdghoq4CJDtxI4u"
+    },
+    {
+      "added_at": "2023-10-16 03:01:48",
+      "album": {
+        "name": "\u81ea\u5b9a\u7fa9",
+        "url": "https://open.spotify.com/album/0OfgDIAou9mTshlocs9hXD"
+      },
+      "artists": [
+        {
+          "name": "\u8a31\u5d69",
+          "url": "https://open.spotify.com/artist/2hgxWUG24w1cFLBlPSEVcV"
+        }
+      ],
+      "duration_ms": 240027,
+      "name": "\u6709\u4f55\u4e0d\u53ef",
+      "url": "https://open.spotify.com/track/5rXBmcYNJYMYdhwxlMLh0s"
     },
     {
       "added_at": "2023-10-16 03:01:48",

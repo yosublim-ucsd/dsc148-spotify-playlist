@@ -1,12 +1,12 @@
 {
   "description": "Celebra el eclipse con canciones de sol y luna \ud83c\udf1e\ud83c\udf11\ud83c\udf15",
-  "num_followers": 12000,
+  "num_followers": 12017,
   "original_name": "Eclipse 2023 ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4MzBjNWIwOGFlMTQxNzAwNmI3NWQ5NTZiNGVkYTQ4MTA2MTFmOGM4",
+  "snapshot_id": "MCxkZTU0Nzk2Mjk3MTRhMmE1NmY2ZmJjZjNmZTE5ZmE3NjJjNmY4ZmFl",
   "tracks": [
     {
       "added_at": "2023-10-13 20:29:57",
@@ -607,22 +607,6 @@
     {
       "added_at": "2023-10-13 20:29:57",
       "album": {
-        "name": "Eat, Pray, Love",
-        "url": "https://open.spotify.com/album/6AnpM7DFltgJLIjlToxYJ1"
-      },
-      "artists": [
-        {
-          "name": "Neil Young",
-          "url": "https://open.spotify.com/artist/6v8FB84lnmJs434UJf2Mrm"
-        }
-      ],
-      "duration_ms": 299106,
-      "name": "Harvest Moon",
-      "url": "https://open.spotify.com/track/2nekCvC9XRXQckWNnkIp2l"
-    },
-    {
-      "added_at": "2023-10-13 20:29:57",
-      "album": {
         "name": "Eres Diamante",
         "url": "https://open.spotify.com/album/6phS5YYVMKIpCKeymOdL7v"
       },
@@ -635,6 +619,22 @@
       "duration_ms": 240295,
       "name": "Ojos Noche",
       "url": "https://open.spotify.com/track/6ltxt8idwnKPqZ5wmTEkpV"
+    },
+    {
+      "added_at": "2023-10-13 20:29:57",
+      "album": {
+        "name": "Eat, Pray, Love",
+        "url": "https://open.spotify.com/album/6AnpM7DFltgJLIjlToxYJ1"
+      },
+      "artists": [
+        {
+          "name": "Neil Young",
+          "url": "https://open.spotify.com/artist/6v8FB84lnmJs434UJf2Mrm"
+        }
+      ],
+      "duration_ms": 299106,
+      "name": "Harvest Moon",
+      "url": "https://open.spotify.com/track/2nekCvC9XRXQckWNnkIp2l"
     },
     {
       "added_at": "2023-10-13 20:29:57",

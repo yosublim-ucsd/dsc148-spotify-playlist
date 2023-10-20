@@ -1,12 +1,12 @@
 {
   "description": "The Official Trap Nation Playlist ",
-  "num_followers": 2046835,
+  "num_followers": 2046875,
   "original_name": "Trap Nation",
   "owner": {
     "name": "Trap Nation",
     "url": "https://open.spotify.com/user/alltrapnation"
   },
-  "snapshot_id": "MTQwNjQsYmM1N2U4MTJiZTY3YmEwZmNiY2RkN2Y5Y2FhYjYzOTQzZWNhMjE1ZA==",
+  "snapshot_id": "MTQwNzUsNDVlOTUxMTFkNmRmYjI3N2JkY2FhNThmYTNkOThlMTA0MzFiNzU0Yg==",
   "tracks": [
     {
       "added_at": "2023-09-06 04:03:55",
@@ -445,6 +445,26 @@
       "url": "https://open.spotify.com/track/7qGoMOzR9pJ1bPl4bFmTN7"
     },
     {
+      "added_at": "2023-10-19 21:39:01",
+      "album": {
+        "name": "Fallen",
+        "url": "https://open.spotify.com/album/1ivE1jTe5sDLo3hh9eqef1"
+      },
+      "artists": [
+        {
+          "name": "Pauline Herr",
+          "url": "https://open.spotify.com/artist/66VgJGpaRMwrNaS2MPqIDf"
+        },
+        {
+          "name": "Jon Casey",
+          "url": "https://open.spotify.com/artist/5ttBnysifryX99bjzeFPGr"
+        }
+      ],
+      "duration_ms": 189517,
+      "name": "Fallen",
+      "url": "https://open.spotify.com/track/3VvQKhWigoAD5pfM6zul48"
+    },
+    {
       "added_at": "2023-09-06 04:03:55",
       "album": {
         "name": "First Steps",
@@ -459,6 +479,26 @@
       "duration_ms": 144000,
       "name": "Quick Musical Doodles",
       "url": "https://open.spotify.com/track/7tZdkPtebOG29TzPPHlsem"
+    },
+    {
+      "added_at": "2023-10-19 21:37:00",
+      "album": {
+        "name": "Misunderstood",
+        "url": "https://open.spotify.com/album/2IixWbqy7LkeR17eg0Hvu8"
+      },
+      "artists": [
+        {
+          "name": "Afinity",
+          "url": "https://open.spotify.com/artist/6N7etQK8kFwtD0Kch6FVvf"
+        },
+        {
+          "name": "Dia Frampton",
+          "url": "https://open.spotify.com/artist/3ppkM4QtM781APpaX7H9t7"
+        }
+      ],
+      "duration_ms": 240000,
+      "name": "Misunderstood",
+      "url": "https://open.spotify.com/track/3Mss2MDTVmUDJXeepx796f"
     },
     {
       "added_at": "2023-09-28 16:32:10",
@@ -525,6 +565,22 @@
       "url": "https://open.spotify.com/track/2Be2IeraxfBRyyZoID1cx2"
     },
     {
+      "added_at": "2023-10-19 21:07:39",
+      "album": {
+        "name": "CIRCUIT DREAMS",
+        "url": "https://open.spotify.com/album/1tz6AIBHxEH3rfBZ8ri80P"
+      },
+      "artists": [
+        {
+          "name": "Pirapus",
+          "url": "https://open.spotify.com/artist/7KgEOoJ0CawH7NOaLe34Qe"
+        }
+      ],
+      "duration_ms": 204137,
+      "name": "SO HIGH",
+      "url": "https://open.spotify.com/track/4iru4THOvnPBJMBwvrUDPS"
+    },
+    {
       "added_at": "2023-09-06 04:03:55",
       "album": {
         "name": "Xenogenesis",
@@ -539,6 +595,30 @@
       "duration_ms": 233379,
       "name": "Xenogenesis",
       "url": "https://open.spotify.com/track/5iRVNYbhfWNO2VzBykX7GS"
+    },
+    {
+      "added_at": "2023-10-19 21:23:21",
+      "album": {
+        "name": "Breathless",
+        "url": "https://open.spotify.com/album/1zQnD0tVmTaxXKD1TFu8Kg"
+      },
+      "artists": [
+        {
+          "name": "Jacknife",
+          "url": "https://open.spotify.com/artist/28YvCT7aJv6DMie7ltTeqo"
+        },
+        {
+          "name": "NEOTEK",
+          "url": "https://open.spotify.com/artist/44btqMHopGiWCGHMtFw3mv"
+        },
+        {
+          "name": "Bella Renee",
+          "url": "https://open.spotify.com/artist/7od8NRvfdfAanx6IcY7JSa"
+        }
+      ],
+      "duration_ms": 190344,
+      "name": "Breathless",
+      "url": "https://open.spotify.com/track/4jAfYYoloWzM9E7Zmej5uq"
     },
     {
       "added_at": "2023-09-06 04:03:55",
@@ -751,6 +831,26 @@
       "duration_ms": 224210,
       "name": "GUD VIBRATIONS",
       "url": "https://open.spotify.com/track/2BVUOGciUUUqOPSLtHwLGp"
+    },
+    {
+      "added_at": "2023-10-19 21:07:35",
+      "album": {
+        "name": "CIRCUIT DREAMS",
+        "url": "https://open.spotify.com/album/1tz6AIBHxEH3rfBZ8ri80P"
+      },
+      "artists": [
+        {
+          "name": "Pirapus",
+          "url": "https://open.spotify.com/artist/7KgEOoJ0CawH7NOaLe34Qe"
+        },
+        {
+          "name": "Roddy Campbell",
+          "url": "https://open.spotify.com/artist/2IA9Vt0HegYqYD3rRxwhH8"
+        }
+      ],
+      "duration_ms": 224914,
+      "name": "SUMS",
+      "url": "https://open.spotify.com/track/02hdD7Cf1YV6mbajuqF9FR"
     },
     {
       "added_at": "2023-09-29 20:11:41",

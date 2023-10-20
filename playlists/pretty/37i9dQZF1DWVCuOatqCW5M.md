@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVCuOatqCW5M.md) - [plain]
 
 > New music from popular Hindi artists\. Cover\- Vishal Mishra
 
-[Spotify](https://open.spotify.com/user/spotify) - 43,378 likes - 50 songs - 2 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 43,420 likes - 50 songs - 2 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVCuOatqCW5M.md) - [plain]
 | 49 | [Tum Jaise Ho](https://open.spotify.com/track/7ofq7AcSmMCB2fKpj1iDoo) | [Utsavi Jha](https://open.spotify.com/artist/51pcy004juIDA1mruOZJCX) | [Tum Jaise Ho](https://open.spotify.com/album/40CMf6LyJR9XT0gaUuQdX0) | 4:10 |
 | 50 | [Hum Toh Deewane](https://open.spotify.com/track/2A4lcqTJZgUs1XrW6TSvt0) | [Rajat Nagpal](https://open.spotify.com/artist/4yxICw7joYAxRI2sTRldLB), [Yasser Desai](https://open.spotify.com/artist/6RF8hEdlUKoLPQOHmBbHiM), [Rana Sotal](https://open.spotify.com/artist/0AS5y6FY1c4JRl0oWAYu2y) | [Hum Toh Deewane](https://open.spotify.com/album/7kLMXeP8ewLuQWcwA41qPg) | 3:01 |
 
-Snapshot ID: `MCw5OGZmYjY1OGY3NjcwNzUzZjJhODZiOTg4NjUwNTMxZjFiYjFkZjRj`
+Snapshot ID: `MCwzZGVmYTg3ZWU2MmJmNjlhZTAwYTlmNDY2ZDIwMmEyZTIyYzlmMzQ0`

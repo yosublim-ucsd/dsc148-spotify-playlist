@@ -3911,6 +3911,24 @@
     },
     {
       "album": {
+        "name": "Merci",
+        "url": "https://open.spotify.com/album/13MFgmWUFikSqJyscMRWOS"
+      },
+      "artists": [
+        {
+          "name": "R\u00eaveuse",
+          "url": "https://open.spotify.com/artist/0DeHCKY9cIUwGMZuyIWCe1"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187745,
+      "name": "Merci",
+      "url": "https://open.spotify.com/track/1679vhg48SfasuFs0xAKcS"
+    },
+    {
+      "album": {
         "name": "Mezame",
         "url": "https://open.spotify.com/album/170wLhbCsUgbtt6DCFX1iG"
       },
@@ -6640,7 +6658,7 @@
       ],
       "date_added": "2022-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-20",
       "duration_ms": 243909,
       "name": "The Glimmer Behind",
       "url": "https://open.spotify.com/track/6I7ADenBGoFh3eIhmQNme0"

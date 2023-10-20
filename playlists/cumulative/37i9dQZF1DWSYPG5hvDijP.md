@@ -4,7 +4,7 @@
 
 > New Hip Hop from India.
 
-161 songs - 8 hr 39 min
+162 songs - 8 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -72,6 +72,7 @@
 | [Golibaaz \(feat\. Jizzy\)](https://open.spotify.com/track/0fRmEv74VclQ4DFi4RVi5a) | [Burrah](https://open.spotify.com/artist/6YB1D1koiebYqzQesSUfIS), [Jizzy](https://open.spotify.com/artist/0Eou17pQD8Wd8sqQnoIOQ4) | [Golibaaz \(feat\. Jizzy\)](https://open.spotify.com/album/4o7G62VPpg3RE9unGYrFSF) | 3:23 | 2023-03-31 | 2023-07-21 |
 | [GTA NCR](https://open.spotify.com/track/5SVmwl5avNHU3clEo86jE9) | [Raga](https://open.spotify.com/artist/4MJZBb8KABfKw0gzfgacpO), [Wamp](https://open.spotify.com/artist/6zpUQnCceOC1hkBQWLrZKk) | [GTA NCR](https://open.spotify.com/album/5Cji4DtVI1prgnhDMGjxTE) | 2:41 | 2023-03-29 |  |
 | [GUESS](https://open.spotify.com/track/2Xv14bnP2GP8CybxqUswoK) | [Emiway Bantai](https://open.spotify.com/artist/008PpLcKUtVXle6JSwkq3I) | [GUESS](https://open.spotify.com/album/576uoepdv4Ygap72dx37gA) | 2:48 | 2023-03-29 | 2023-04-17 |
+| [Gulaab Aur Kaante](https://open.spotify.com/track/4EU7KUawcpfOVIdlDdHsLX) | [Nazz](https://open.spotify.com/artist/7iEUKVcv42PUcIS696yadB) | [Gulab Aur Kaante](https://open.spotify.com/album/37wInAUaqFnnUogrDxOMDu) | 3:28 | 2023-10-19 |  |
 | [Gully Ka Sher](https://open.spotify.com/track/6mvCUCswLeGI86YviMtCCb) | [Nazz](https://open.spotify.com/artist/7iEUKVcv42PUcIS696yadB) | [Gully Ka Sher](https://open.spotify.com/album/2FxoC4BBFOIYF3BetK17RG) | 3:12 | 2023-06-09 |  |
 | [Haath Varthi](https://open.spotify.com/track/0H8I33DTtRS9nEZX2FLJV5) | [MC STAN](https://open.spotify.com/artist/5uemEEtB1ZC3s1KM7gReeH), [KSHMR](https://open.spotify.com/artist/2wX6xSig4Rig5kZU6ePlWe), [Phenom](https://open.spotify.com/artist/03hG7s3MUquIZwa4OvtLD7) | [Haath Varthi](https://open.spotify.com/album/6H44Nod2PTvbTuu7PnUZWg) | 2:29 | 2023-05-12 |  |
 | [Haraami 2](https://open.spotify.com/track/0FHT6mYzdrpnxbCtmw7m6I) | [Rob C](https://open.spotify.com/artist/4hEz4Vg09BEJcypoN4WnAi), [DJ Lush](https://open.spotify.com/artist/7wF3w9xFKpJ4XoH3b52tH8), [Shubhankar Vaid](https://open.spotify.com/artist/29FZEz6utEPA25HVivPc5m), [Adi B](https://open.spotify.com/artist/410U8b20tmqVwS2T3g9gwU), [Ajay Rana](https://open.spotify.com/artist/6PSoBYTcsGfMnOg7RypdgG) | [Haraami 2](https://open.spotify.com/album/148IdeaVWQTqsk6jXhzGXi) | 3:51 | 2023-04-28 | 2023-07-21 |

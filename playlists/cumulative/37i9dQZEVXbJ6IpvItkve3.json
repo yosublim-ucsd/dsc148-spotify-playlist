@@ -370,7 +370,7 @@
       ],
       "date_added": "2023-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-20",
       "duration_ms": 244360,
       "name": "Another Love",
       "url": "https://open.spotify.com/track/3JvKfv6T31zO0ini8iNItO"
@@ -8362,7 +8362,7 @@
       ],
       "date_added": "2023-01-31",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-06",
+      "date_removed": null,
       "duration_ms": 184675,
       "name": "\u05d0\u05d9\u05df \u05d0\u05d5\u05ea\u05e0\u05d5 \u05d9\u05d5\u05ea\u05e8 (By Tamar Yahalomy & Yonatan Kalimi)",
       "url": "https://open.spotify.com/track/1zZ9bah4HU0TtICQzCFXp3"
@@ -12262,7 +12262,7 @@
       ],
       "date_added": "2021-03-27",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2023-10-20",
       "duration_ms": 197481,
       "name": "\u05dc\u05e9\u05d5\u05d1 \u05d4\u05d1\u05d9\u05ea\u05d4",
       "url": "https://open.spotify.com/track/52n4gF126eIllrGuc9Zus6"
@@ -12614,6 +12614,24 @@
       "duration_ms": 201173,
       "name": "\u05de\u05d5\u05d6\u05d9\u05e7\u05d4 \u05d8\u05d5\u05d1\u05d4",
       "url": "https://open.spotify.com/track/06RR5ewHedBUC9GRgWLwkK"
+    },
+    {
+      "album": {
+        "name": "\u05de\u05d5\u05dc\u05d3\u05ea",
+        "url": "https://open.spotify.com/album/24mJlivVrpy5nzUbA1vxOa"
+      },
+      "artists": [
+        {
+          "name": "Hanan Ben Ari",
+          "url": "https://open.spotify.com/artist/343YYaA5MSjiZZ5cGyTr4u"
+        }
+      ],
+      "date_added": "2023-10-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168813,
+      "name": "\u05de\u05d5\u05dc\u05d3\u05ea",
+      "url": "https://open.spotify.com/track/1f6O2TPzZQhW1Ky2iGYb5X"
     },
     {
       "album": {
@@ -13740,7 +13758,7 @@
       ],
       "date_added": "2023-06-15",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-06",
+      "date_removed": null,
       "duration_ms": 214000,
       "name": "\u05e1\u05d9\u05d2\u05dc\u05d9\u05d5\u05ea",
       "url": "https://open.spotify.com/track/3Q6d64XJr20cHQtRd07YGj"
@@ -13900,7 +13918,7 @@
       ],
       "date_added": "2022-11-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-20",
       "duration_ms": 199354,
       "name": "\u05e2\u05d3 \u05e9\u05ea\u05d1\u05d5\u05d0\u05d9 \u05e2\u05d3 \u05d0\u05dc\u05d9\u05d9",
       "url": "https://open.spotify.com/track/1Rh5r9vUOumJ1sbPuv3dkO"

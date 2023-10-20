@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVhn3qoy98w6.md) - [plain]
 
 > Artistas independientes emergentes, cada miércoles\. Foto: KHAAY.
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,067 likes - 50 songs - 2 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,085 likes - 50 songs - 2 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVhn3qoy98w6.md) - [plain]
 | 49 | [l3jos](https://open.spotify.com/track/1XMfJtXqHPYM1DC8IO5EJY) | [Pau Corea](https://open.spotify.com/artist/4ojsgMdSCtj1w9PuBB4ugG), [Ganges](https://open.spotify.com/artist/7gtqMRAdH6DvPm2gdoI17Q) | [Pau Corea](https://open.spotify.com/album/0Ev6Gu7X3eYE7FzM9wCD3f) | 2:54 |
 | 50 | [Audio08.wav](https://open.spotify.com/track/7mBNLF1h5D7POgJatSqJf0) | [Zheit](https://open.spotify.com/artist/2wa9XNQ6RvXwD2WBKpLFsz), [Hieva](https://open.spotify.com/artist/3vLNmRETMGAOugcWZ8AhFI) | [Audio08.wav](https://open.spotify.com/album/1sXFNQqjLzdPlr5vhsKmdL) | 2:04 |
 
-Snapshot ID: `MCw0OTQxZjc0ODNkYTQ1OTM2YjA5YzAwNzcyMjdkYjhiNTAxOTFkNjRh`
+Snapshot ID: `MCw5YzQ4NjJlNmRhZTMwNzk0YzQyNTgxZjYwNGZjODVkY2U1ODdlYTI0`

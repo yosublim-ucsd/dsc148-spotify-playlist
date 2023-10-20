@@ -4,7 +4,7 @@
 
 > Relax and unwind with chill, ambient music.
 
-767 songs - 1 day 16 hr 14 min
+769 songs - 1 day 16 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,6 +29,7 @@
 | [Above The Clouds](https://open.spotify.com/track/1qjktDcnb02OCdkbHMxXEp) | [Evan Michael Brown](https://open.spotify.com/artist/6JA76EJW25d9MGVwGCmX1z) | [Above The Clouds](https://open.spotify.com/album/6Sjxd5p5VEM0Mj6FnhqPpP) | 3:10 | 2019-05-26\* | 2020-01-03 |
 | [Acceptance](https://open.spotify.com/track/303e6fTCQ5d3ljcg1TQrkC) | [Johann Eder](https://open.spotify.com/artist/0aCbxLi0ypSIj30oAT4T3o) | [Acceptance](https://open.spotify.com/album/5TifGwgK5S9VTApf5z4Qfx) | 2:54 | 2019-06-29 | 2021-09-14 |
 | [Across The Purple Expanse](https://open.spotify.com/track/1nh7NOJDfy3oewkGM6u08b) | [Richter Gravitas](https://open.spotify.com/artist/2DLiGfmS8hciTINAkqY2XG) | [Across The Purple Expanse](https://open.spotify.com/album/4Qc09SX2XC8YlP1Hggb3Jd) | 2:14 | 2022-01-05 |  |
+| [Adeptio Adamo](https://open.spotify.com/track/35uDemMD6smsfRxe0Kjiga) | [Love Palmer](https://open.spotify.com/artist/34DhWHV7MhcJ3AyWpf5upI) | [Adeptio Adamo](https://open.spotify.com/album/43BZAF2mC41skEZlQ3XlBy) | 3:08 | 2023-10-20 |  |
 | [Adumbration](https://open.spotify.com/track/7EOou80jtKNv4t6P5ZYp1h) | [Adumbration](https://open.spotify.com/artist/5VWWftIdcTzXDWTicX5l0c) | [Adumbration](https://open.spotify.com/album/0ws0lcvTNJt39gO6CsHXXR) | 3:50 | 2019-10-26 | 2021-07-23 |
 | [Aero](https://open.spotify.com/track/2qEoxihjscVFFyPr2xvtfS) | [Madna Eúra](https://open.spotify.com/artist/0taUhbLc6gC65ufqheYsPe) | [Aero](https://open.spotify.com/album/3qvFfJjBCK4hwwrBNgQdou) | 2:52 | 2023-04-06 |  |
 | [After the storm](https://open.spotify.com/track/3WuOYQvrHVAANn735uiw1k) | [Glimmolo](https://open.spotify.com/artist/7g6rklSRWpUUeX8czkiTqM) | [Ascending](https://open.spotify.com/album/4cpBPNXBlDk70DloBxTjDz) | 3:41 | 2021-10-21 |  |
@@ -691,6 +692,7 @@
 | [The Room Within](https://open.spotify.com/track/3wrWMQWCtBV8162VgCU2o2) | [The Aural Healer](https://open.spotify.com/artist/5aS55avvX9UAYN3LVTRwyr) | [Simple Habit](https://open.spotify.com/album/6DcCzJdg8MRc9s6jFKtXl5) | 3:05 | 2019-06-29 | 2023-05-03 |
 | [The Second Moon](https://open.spotify.com/track/4sX9jVZrUiYAJmzKsezBpu) | [Lama House](https://open.spotify.com/artist/3We2SFbH59mXg6D42TPhWJ) | [Cumulus Motion](https://open.spotify.com/album/7iEuYy67Zb83EwSTZcWS7O) | 3:29 | 2019-07-27 | 2021-07-23 |
 | [The shamans dream](https://open.spotify.com/track/0EPyRnP2eCkzE82mwxXMcW) | [Bilbo Hendrix](https://open.spotify.com/artist/3CiyZU4yvvycuGoTlP7tvx) | [The Mystic Path](https://open.spotify.com/album/0MOWyb2qxF4hyGlk5mXQ0B) | 3:40 | 2021-06-24 | 2023-09-01 |
+| [The Sleep](https://open.spotify.com/track/5EE5uCFw7S9aOR0R2Ul3CG) | [Viro Marix](https://open.spotify.com/artist/0dSIbheAKaFJ9K2TxRJ3vv) | [The Sleep](https://open.spotify.com/album/2vmMeakgamRIeQdtkwMWJP) | 3:04 | 2023-10-20 |  |
 | [The Sun Will Rise Again](https://open.spotify.com/track/4MxfZWFxWBBWcdQtYUhWli) | [Remi Asana](https://open.spotify.com/artist/5z5yEQcD8JtwJRYJgCO7yc) | [The Sun Will Rise Again](https://open.spotify.com/album/1T0OyHWTbIbPSqXkLZsqfn) | 2:22 | 2020-11-19 |  |
 | [There in the Silence](https://open.spotify.com/track/2egPExekvgp8AU7cYJw2it) | [The Beautiful Star](https://open.spotify.com/artist/4V0NOMqZ61n2HOODkKvRrE) | [There in the Silence](https://open.spotify.com/album/7HUFtEOuoyH7BoU3I8zId2) | 4:01 | 2020-08-08 | 2023-05-20 |
 | [Tikslingas](https://open.spotify.com/track/2pMeoS1SZqigdBMxghMTbJ) | [Teo Walter](https://open.spotify.com/artist/6JZdERTqI6ikmDkKmY4BKR) | [Tikslingas](https://open.spotify.com/album/607nQKNmISVcmWP29QYBXm) | 3:31 | 2022-05-05 |  |

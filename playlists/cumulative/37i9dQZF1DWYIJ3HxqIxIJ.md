@@ -2,9 +2,9 @@
 
 ### [RADAR AU & NZ](https://open.spotify.com/playlist/37i9dQZF1DWYIJ3HxqIxIJ)
 
-> Teen Jesus and the Jean Teasers are our new RADAR artist to watch!
+> Vv Pete is our new RADAR artist to watch!
 
-259 songs - 13 hr 30 min
+262 songs - 13 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -101,7 +101,7 @@
 | [Headcase](https://open.spotify.com/track/4puDMkZIGlRQ4m8ht5AIEh) | [Matthew Young](https://open.spotify.com/artist/0EIJLgdMEPVJlnkmjWcx5q) | [Headcase](https://open.spotify.com/album/7El82WcUCLfUBRXEg8lJvs) | 3:06 | 2021-10-15 | 2022-08-16 |
 | [Headphones](https://open.spotify.com/track/04B64zIf89qyXyEoxFS3pH) | [Baker Boy](https://open.spotify.com/artist/6Qpa8xhGsGitz4WBf4BkpK), [Lara Andallo](https://open.spotify.com/artist/2vUHihKugU0Ml0VZVgzivx) | [Gela](https://open.spotify.com/album/6U4EyQWAc1wCohtIV3wBqz) | 2:46 | 2021-10-15 | 2022-08-16 |
 | [Healing](https://open.spotify.com/track/5LEqciYTIj0P54NFJpJk1I) | [JK\-47](https://open.spotify.com/artist/1MS6lYWuDWugNbdDhzEHvF), [Jay Orient](https://open.spotify.com/artist/7bgViO0G1B9CmxmNovYasB) | [Healing](https://open.spotify.com/album/1PInN5WeOf5BKxOSb24i9Z) | 2:52 | 2021-10-15 | 2022-08-16 |
-| [heart attack](https://open.spotify.com/track/4K3A14MMct4xoScHJK8oux) | [bella amor](https://open.spotify.com/artist/0YHLS3lTpmblVqI74qAz6M) | [heart attack](https://open.spotify.com/album/1HEpoOySrZ7XMUCvLOZ0by) | 3:02 | 2023-03-02 |  |
+| [heart attack](https://open.spotify.com/track/4K3A14MMct4xoScHJK8oux) | [bella amor](https://open.spotify.com/artist/0YHLS3lTpmblVqI74qAz6M) | [heart attack](https://open.spotify.com/album/1HEpoOySrZ7XMUCvLOZ0by) | 3:02 | 2023-03-02 | 2023-10-20 |
 | [High Again](https://open.spotify.com/track/4XcWqGBXUjLGTqPqIFqk3M) | [Rory Noble](https://open.spotify.com/artist/1iuPOeEcwxvQsjw7UTsvfV) | [High Again](https://open.spotify.com/album/2pXLICjn51Qj1YwfwdfT9N) | 3:42 | 2021-10-15 | 2022-08-16 |
 | [Hollywood](https://open.spotify.com/track/5cpkSEJ1TH2TeRp2eNMrlL) | [Drax Project](https://open.spotify.com/artist/6S0IvKlvPMX1RtAYtVpUV8) | [Diamond](https://open.spotify.com/album/4kDP3fZt29eW9rsATj7llc) | 3:34 | 2022-08-15 | 2023-03-02 |
 | [Home](https://open.spotify.com/track/1OZX3YkWr1hrmNGsAF4Hes) | [Sam Heselwood](https://open.spotify.com/artist/3NWsg1qe0HyufJEhf1KoI6) | [Home](https://open.spotify.com/album/0xRAs3x5scH14n4sAIqWw3) | 4:12 | 2023-06-22 | 2023-09-01 |
@@ -133,6 +133,7 @@
 | [King of Disappointment](https://open.spotify.com/track/2Iw07pDIocxjnRK4CpBNse) | [Jem Cassar\-Daley](https://open.spotify.com/artist/589TqkGa2orXeVV4EK653j) | [King of Disappointment](https://open.spotify.com/album/23fehF8H0YmZyTW6kPDN3X) | 4:11 | 2023-06-22 |  |
 | [Kool Aid](https://open.spotify.com/track/4mLGUGw4IWlXs1UbY5QBpP) | [Royel Otis](https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH) | [Kool Aid](https://open.spotify.com/album/5yBahiPHetqnjC6oKYMJph) | 3:36 | 2022-11-10 | 2023-03-02 |
 | [La Fiesta](https://open.spotify.com/track/6G0naKtVSu2Q1FS1ewQwYK) | [Jalmar](https://open.spotify.com/artist/48cWJwip5jzPIDK9kL2KYb), [Jaecy](https://open.spotify.com/artist/4hd0k0g3b2MLUiw0gPAsee) | [La Fiesta](https://open.spotify.com/album/6U8rFSFS3IbHR6tYBZUaKR) | 3:43 | 2021-10-15 | 2022-08-16 |
+| [Leave In The Morning](https://open.spotify.com/track/2NV0xEWJNdaMzdP94pksrl) | [Will Swinton](https://open.spotify.com/artist/1fUcXY3KcnNvCP2dnF7XCh) | [Leave In The Morning](https://open.spotify.com/album/1gRQl5tQu5KTWyvs3zdd2p) | 2:48 | 2023-10-19 |  |
 | [Leave It All Behind](https://open.spotify.com/track/3qVvrLFBxnn2QwLJp5b6ST) | [Bumpy](https://open.spotify.com/artist/1uAUZi6INPwUJIZw00ElUS) | [Leave It All Behind](https://open.spotify.com/album/7sDIYblX51PE0P5Dd2P4wh) | 3:55 | 2022-08-15 | 2023-03-02 |
 | [Lemon Lime](https://open.spotify.com/track/2WXkVx5MEJjZ7fpIbOGnJO) | [Jye](https://open.spotify.com/artist/2VXm4JOiSfNQJmo4IXjWOH) | [Lemon Lime](https://open.spotify.com/album/3ymqSQFuvE9pjyIcjcyIDM) | 4:38 | 2022-08-15 | 2022-11-11 |
 | [Life Feels Good](https://open.spotify.com/track/29ZE3uE9ezxblQUDORcVE4) | [Mikey Dam](https://open.spotify.com/artist/6U5CUX0APXFzqcfpoXxEyb) | [Life Feels Good](https://open.spotify.com/album/2JnKFRCfW7TgPgWA4y02jO) | 2:54 | 2021-10-15 | 2022-08-16 |
@@ -142,6 +143,7 @@
 | [M1](https://open.spotify.com/track/4MZQpYHloIv9IhX1yAdi5J) | [Hp Boyz](https://open.spotify.com/artist/0JlQaGJZfrqYeZG1AQICxp) | [AFTERPARTY](https://open.spotify.com/album/2kQlpPlBMk65AQgCquhaDR) | 2:57 | 2021-10-15 | 2022-08-16 |
 | [Magic](https://open.spotify.com/track/02IwpmWcx201kEvq51NA8s) | [Skin On Skin](https://open.spotify.com/artist/5mnxMXIM6BNhVVTXnBatKa) | [Magic](https://open.spotify.com/album/3JIB4mCyKaYhxuxyp31vcJ) | 4:53 | 2023-08-17 |  |
 | [Magic \(feat\. BARKAA & MADAM3EMPRESS\) \- Remix](https://open.spotify.com/track/4TRmv5FVCK9kr5khEsdfIH) | [Rico Nasty](https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU), [Barkaa](https://open.spotify.com/artist/7gGAAZB2j1TmXBwQYOQLwr), [MADAM3EMPRESS](https://open.spotify.com/artist/2adQUbouv2rghpbus8Zx73) | [Magic \(feat\. BARKAA & MADAM3EMPRESS\) \[Remix\]](https://open.spotify.com/album/2y7BeXWttwmaUt2Udad4qJ) | 2:23 | 2021-10-15 | 2022-08-16 |
+| [Mamas Car](https://open.spotify.com/track/51JtGJtPkfPz4qLHFIwC4j) | [Vv Pete](https://open.spotify.com/artist/66IkoRt5JAg88LCnPuyxXr) | [Mamas Car](https://open.spotify.com/album/5jSswkACL8ldBkgeuWKG4o) | 2:16 | 2023-10-19 |  |
 | [MBAPPÉ \(feat\. KAHUKX\)](https://open.spotify.com/track/69ECulmgzH6xt9pZH7bIYz) | [Day1](https://open.spotify.com/artist/0iFJbJ7jMv5QAmA6hWm6Ic), [KAHUKX](https://open.spotify.com/artist/3OkbxDtag6zvVnAaa9YLLC) | [MBAPPÉ \(feat\. KAHUKX\)](https://open.spotify.com/album/0kQpqZ5BSPyA2JF6payfYS) | 2:53 | 2022-08-15 | 2023-03-02 |
 | [Me Myself & I](https://open.spotify.com/track/0C9aH2f4LO8SPPqUWOrcbk) | [5 Seconds of Summer](https://open.spotify.com/artist/5Rl15oVamLq7FbSb0NNBNy) | [Me Myself & I](https://open.spotify.com/album/44rEE58rgbF88y9wrpadOl) | 2:57 | 2022-08-15 | 2022-11-25 |
 | [Me Myself & I](https://open.spotify.com/track/78Qk1m8zbvvvrmWH2M1yxT) | [5 Seconds of Summer](https://open.spotify.com/artist/5Rl15oVamLq7FbSb0NNBNy) | [5SOS5](https://open.spotify.com/album/26uA5pGrTovBLxikRsMQJ4) | 2:57 | 2022-11-10 | 2023-03-02 |
@@ -172,6 +174,7 @@
 | [ONLY YOU](https://open.spotify.com/track/0HP9SxexkUAX9SNhSxcW6T) | [Mason Dane](https://open.spotify.com/artist/77vYj1iBHh1gao0yd7ryGl) | [ONLY YOU](https://open.spotify.com/album/6JObmUc8uNzx4D4gOz2yIL) | 3:19 | 2023-03-02 | 2023-08-18 |
 | [Onto Me \(with UMI\)](https://open.spotify.com/track/49YDCahXCIaY44snUKv8JS) | [Tkay Maidza](https://open.spotify.com/artist/1kMPdZQVdUhMDKDWOJM5iK), [UMI](https://open.spotify.com/artist/4ClziihVpBeFXNyDH83Lde) | [Last Year Was Weird, Vol\. 3](https://open.spotify.com/album/5dtpyo5nsi19czgSeL9MHH) | 2:47 | 2021-10-15 | 2022-08-16 |
 | [Onto Me \(with UMI\)](https://open.spotify.com/track/4wyVzw1oscgehM9aOoIlJT) | [Tkay Maidza](https://open.spotify.com/artist/1kMPdZQVdUhMDKDWOJM5iK), [UMI](https://open.spotify.com/artist/4ClziihVpBeFXNyDH83Lde) | [Last Year Was Weird, Vol\. 3](https://open.spotify.com/album/0R12WqnT0IG2wZRpOl8NYU) | 2:47 | 2021-10-15 | 2022-07-29 |
+| [OUR PEOPLE \(feat\. The Presets\)](https://open.spotify.com/track/0mmLOdN3lD9zfvW91SNsrG) | [3%](https://open.spotify.com/artist/4CnzGjdsHYGHgmsDk1tNwg) | [OUR PEOPLE \(feat\. The Presets\)](https://open.spotify.com/album/4zVoQrcFwZgHVQPXJe9pKY) | 3:54 | 2023-10-19 |  |
 | [Outside Kinda Kids](https://open.spotify.com/track/1JEVnEFTbHCRbOkoWlYimI) | [Sam Heselwood](https://open.spotify.com/artist/3NWsg1qe0HyufJEhf1KoI6) | [Outside Kinda Kids](https://open.spotify.com/album/3AhDmGnoaRBKn2IMpUvrji) | 3:15 | 2022-08-15 | 2023-03-02 |
 | [Over The Moon](https://open.spotify.com/track/4hO2oP5JnkSHHBdLEPRWcV) | [Eddie Benjamin](https://open.spotify.com/artist/1AaSeUFzwt47HhkGtWE1xn) | [Weatherman](https://open.spotify.com/album/1ZffRASy91eeruaNOasuJ4) | 2:41 | 2023-06-27 |  |
 | [Past Life](https://open.spotify.com/track/2X7zQtHUw9om2KfVCsnC77) | [Sycco](https://open.spotify.com/artist/4meTRfbaVba24HXyBwbKJ0) | [Sycco's First EP](https://open.spotify.com/album/2Qf8PDAg70aIDYH8anNlbx) | 3:19 | 2021-10-15 | 2022-08-16 |
@@ -253,7 +256,7 @@
 | [vodka orange juice](https://open.spotify.com/track/2yx7j2SdTCDYcDGPRFdSBz) | [flowerkid](https://open.spotify.com/artist/4VFDBAAO80bu4bTcVJ6M8i) | [vodka orange juice](https://open.spotify.com/album/1WyIXN8s7H1sE4aZDOAhU9) | 3:59 | 2021-10-15 | 2022-08-16 |
 | [Waiting Game](https://open.spotify.com/track/6AGmPgPDllC5CWzKFR2xLt) | [G Flip](https://open.spotify.com/artist/4SdIXLzfabqU61iK7SnKAU), [renforshort](https://open.spotify.com/artist/3GYvf7puxwkr51EYoD9E7D) | [Waiting Game](https://open.spotify.com/album/7ALXdmY9yM6JvPZgyM7YxT) | 3:37 | 2021-10-15 | 2022-08-16 |
 | [Wasted You](https://open.spotify.com/track/28L2LpII3fEre94t6RtHic) | [Will Swinton](https://open.spotify.com/artist/1fUcXY3KcnNvCP2dnF7XCh) | [Wasted You](https://open.spotify.com/album/2emrhAuOMSvfs7i9nqhfJP) | 2:44 | 2023-03-02 | 2023-09-21 |
-| [Wasted You](https://open.spotify.com/track/4cxEhWVeCI5Y37vNjCVIlx) | [Will Swinton](https://open.spotify.com/artist/1fUcXY3KcnNvCP2dnF7XCh) | [Wasted You](https://open.spotify.com/album/1SZ4Pxkt81jWO3AuY5GskN) | 2:44 | 2023-08-17 |  |
+| [Wasted You](https://open.spotify.com/track/4cxEhWVeCI5Y37vNjCVIlx) | [Will Swinton](https://open.spotify.com/artist/1fUcXY3KcnNvCP2dnF7XCh) | [Wasted You](https://open.spotify.com/album/1SZ4Pxkt81jWO3AuY5GskN) | 2:44 | 2023-08-17 | 2023-10-20 |
 | [What If He Put His Hands on You](https://open.spotify.com/track/3QJFUk14nTZEqQcMxTVGiW) | [BAYNK](https://open.spotify.com/artist/28yVvEvA2lT3K5RNIhV1Dj) | [Mine / What If He Put His Hands on You](https://open.spotify.com/album/1aYhrhdTX6bo60T1tAsoxw) | 3:07 | 2021-10-15 | 2022-08-16 |
 | [When Skies Were Always Blue](https://open.spotify.com/track/1cxfKJMjgB4OY0mm3QVB6n) | [Molly Payton](https://open.spotify.com/artist/6mbzLeDgokrXD05pj6kf0N) | [When Skies Were Always Blue](https://open.spotify.com/album/6ONL60dY4YafW6hPNEsFiN) | 4:15 | 2021-10-15 | 2022-08-16 |
 | [Whirinaki Mai](https://open.spotify.com/track/22UVBLb7Gwq5futagSgqJi) | [Mikey Dam](https://open.spotify.com/artist/6U5CUX0APXFzqcfpoXxEyb) | [Whirinaki Mai](https://open.spotify.com/album/0NqWzlJqAeDmJ38FMm6Xv6) | 2:34 | 2022-11-10 | 2023-03-02 |

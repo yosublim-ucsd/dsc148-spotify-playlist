@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9H4ZHqhys8z.md) - [plain]
 
 > Άκου τις γυναίκες της Ελλάδας στη διαπασών\. Εξώφυλλο: Christina Salti
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,342 likes - 50 songs - 2 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,409 likes - 50 songs - 2 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,7 +49,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9H4ZHqhys8z.md) - [plain]
 | 39 | [Me Tin Proti Matia](https://open.spotify.com/track/3gtpC3RLHeS2g0AUe3vXmI) | [Andromache](https://open.spotify.com/artist/0dn2Cwr75Rl4bh7yTwTorv) | [Me Tin Proti Matia](https://open.spotify.com/album/6wP7alPsXyLxZLnpzbVFqn) | 3:52 |
 | 40 | [TUCUTUM](https://open.spotify.com/track/2sDBHUqdTjolmr3FKTaiNK) | [Marina Satti](https://open.spotify.com/artist/2W4apaxME2OLw8qqhZK7aJ) | [TUCUTUM](https://open.spotify.com/album/68beFGfJdSue6IShPYjqnM) | 3:26 |
 | 41 | [Pame Gia Alla](https://open.spotify.com/track/3vRadnByc3KWW4Gs9VBtg4) | [Elli Kokkinou](https://open.spotify.com/artist/3dHMnH9LXTSuhfdcWfjnoc) | [Pame Gia Alla](https://open.spotify.com/album/133SFNXVVMT0a6cS25nUy7) | 3:45 |
-| 42 | [Floga](https://open.spotify.com/track/57uiFyexstQyJ04VAAXa49) | [Anastasia](https://open.spotify.com/artist/2FTua3TeIGnmQQrN80DinP) | [Efhi](https://open.spotify.com/album/3XXC0tdNTNAWmsNjSCL8gB) | 2:59 |
+| 42 | [Floga](https://open.spotify.com/track/57uiFyexstQyJ04VAAXa49) | [Anastasia](https://open.spotify.com/artist/2FTua3TeIGnmQQrN80DinP) | [Efhi](https://open.spotify.com/album/3XXC0tdNTNAWmsNjSCL8gB) | 3:00 |
 | 43 | [Stohos](https://open.spotify.com/track/6J1bNEWWezdaQx0cDYAnvN) | [Kalomira](https://open.spotify.com/artist/5duetVmlUhQnoJ3dhqChFH) | [Stohos](https://open.spotify.com/album/1ybwL2H1oZ5odU8Achjkfk) | 3:31 |
 | 44 | [Mono Esy](https://open.spotify.com/track/43jJzlvgyVboZgWG7KknJ2) | [Natasha Kay](https://open.spotify.com/artist/6vmTc3lUmJaPI2CPPghlPk) | [Mono Esy](https://open.spotify.com/album/6fQ69R96T8VvduLXgLWhD0) | 3:08 |
 | 45 | [Gia Sena](https://open.spotify.com/track/7ugkvDqfRXJWZvNbj7zRvO) | [Demy](https://open.spotify.com/artist/12muvykhaMY3RlVrJQ2ApM), [JiMBo](https://open.spotify.com/artist/0YlvHD6F64gPLGnYsrPT7E), [Chris Karr](https://open.spotify.com/artist/1abOzCDBIXG889oTj0B2hH) | [Gia Sena](https://open.spotify.com/album/419oXUCYoO0XPhXCCFvvRu) | 2:48 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9H4ZHqhys8z.md) - [plain]
 | 49 | [Sugar Daddy](https://open.spotify.com/track/1SGJ9w1MipFc5HsghF5x4Y) | [Eleftheria Eleftheriou](https://open.spotify.com/artist/1xN3Gghqr2BsjaAG37EVM4) | [Sugar Daddy](https://open.spotify.com/album/0RJ1q6JNGkmM2zdPcbTCSt) | 2:47 |
 | 50 | [Anthismeno Kefali](https://open.spotify.com/track/3FNpoQXkWOjIpeE60qMEiV) | [Evridiki](https://open.spotify.com/artist/0WxbpUPH6SN75TSFAj3MAa), [Afanhs Hrwas](https://open.spotify.com/artist/0btMUAA4feVB0QQe32XC45) | [Anthismeno Kefali](https://open.spotify.com/album/6b8sCji5GeCCG3LZRP5EB3) | 3:46 |
 
-Snapshot ID: `MCwzMmEzOTk5NGY1Zjk4ZGEzN2QxYjlmZmY2ZGY5MWU0ZjI1ODM2YWY1`
+Snapshot ID: `MCwyNzllZGI1NjExNTA5NDhlYzY1NTllNjBmMTY2MTQ4ZGM2YWUzNWYz`

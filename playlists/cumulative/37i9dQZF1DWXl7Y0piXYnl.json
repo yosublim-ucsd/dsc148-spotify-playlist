@@ -485,6 +485,28 @@
     },
     {
       "album": {
+        "name": "Revep",
+        "url": "https://open.spotify.com/album/0nWCa0VuF2knFYgWrqyQJt"
+      },
+      "artists": [
+        {
+          "name": "alva noto",
+          "url": "https://open.spotify.com/artist/1zrqDVuh55auIRthalFdXp"
+        },
+        {
+          "name": "Ryuichi Sakamoto",
+          "url": "https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA"
+        }
+      ],
+      "date_added": "2023-10-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258680,
+      "name": "Ax Mr. L.",
+      "url": "https://open.spotify.com/track/1IsTjsZ93VVERHRD5jl1fL"
+    },
+    {
+      "album": {
         "name": "Objekt #5",
         "url": "https://open.spotify.com/album/7g6AaylaH6MMPVYfX8QWqj"
       },
@@ -544,6 +566,24 @@
       "duration_ms": 313933,
       "name": "Balapan",
       "url": "https://open.spotify.com/track/2aTQw92FaRms4GnXVhV9fe"
+    },
+    {
+      "album": {
+        "name": "BANGUK",
+        "url": "https://open.spotify.com/album/4XCuAOqmIZOkmVd6izgCAu"
+      },
+      "artists": [
+        {
+          "name": "KABEAUSH\u00c9",
+          "url": "https://open.spotify.com/artist/0NNG4hBbXRp6HQ2EMEkYlj"
+        }
+      ],
+      "date_added": "2023-10-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186468,
+      "name": "BANGUK",
+      "url": "https://open.spotify.com/track/1GWaIEbioQsRV6Yaq8VwmO"
     },
     {
       "album": {
@@ -1038,7 +1078,7 @@
       ],
       "date_added": "2023-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-20",
       "duration_ms": 434796,
       "name": "Changing Channels",
       "url": "https://open.spotify.com/track/1wKGelyxxXFwqvc2kTl3sw"
@@ -1278,6 +1318,32 @@
       "duration_ms": 217750,
       "name": "Dark Wing",
       "url": "https://open.spotify.com/track/5t2iOfBwpSkAUqdSkr8tNt"
+    },
+    {
+      "album": {
+        "name": "Dating is in China",
+        "url": "https://open.spotify.com/album/3ZGCiyAu4rKCJ9HfXmEO9e"
+      },
+      "artists": [
+        {
+          "name": "Modeselektor",
+          "url": "https://open.spotify.com/artist/2jYMYP2SVifgmzNRQJx3SJ"
+        },
+        {
+          "name": "Catnapp",
+          "url": "https://open.spotify.com/artist/2W47Nby5KFaS1pdUt7qmCU"
+        },
+        {
+          "name": "UNIIQU3",
+          "url": "https://open.spotify.com/artist/5aR8qSaApKChlZvzB0Jfpx"
+        }
+      ],
+      "date_added": "2023-10-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187722,
+      "name": "Dating is in China - UNIIQU3 Remix",
+      "url": "https://open.spotify.com/track/1ok1Ki15i19iS2h4QdaEwm"
     },
     {
       "album": {
@@ -1554,7 +1620,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-20",
       "duration_ms": 384120,
       "name": "Duality",
       "url": "https://open.spotify.com/track/6RpfZbwO3tGIQyGgG1NO5V"
@@ -1812,7 +1878,7 @@
       ],
       "date_added": "2023-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-20",
       "duration_ms": 269601,
       "name": "FAST LAND - Marie Davidson Remix",
       "url": "https://open.spotify.com/track/57NAzSK7j2HbHNuHyOy7ka"
@@ -2123,6 +2189,24 @@
     },
     {
       "album": {
+        "name": "Perspective",
+        "url": "https://open.spotify.com/album/1EUgDUpNiLQvLvCcM9il8r"
+      },
+      "artists": [
+        {
+          "name": "Jlin",
+          "url": "https://open.spotify.com/artist/23QKqAkKwti9zBiac6RFBA"
+        }
+      ],
+      "date_added": "2023-10-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264786,
+      "name": "Fourth Perspective",
+      "url": "https://open.spotify.com/track/5MyZMMwTyscbn2QLXQ4Ecg"
+    },
+    {
+      "album": {
         "name": "Everything is Curly",
         "url": "https://open.spotify.com/album/7GS8rvI5cXWassBuVpVfr1"
       },
@@ -2196,7 +2280,7 @@
       ],
       "date_added": "2023-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-20",
       "duration_ms": 195291,
       "name": "Game Over ( e 1 )",
       "url": "https://open.spotify.com/track/2WrtP0IBtd6WL7RnfhVVHX"
@@ -2385,6 +2469,24 @@
     },
     {
       "album": {
+        "name": "Surround",
+        "url": "https://open.spotify.com/album/1rnwK12BYEZDg4XWZEp98V"
+      },
+      "artists": [
+        {
+          "name": "Hiroshi Yoshimura",
+          "url": "https://open.spotify.com/artist/1DGpHnPOpMYY780hcQHmPB"
+        }
+      ],
+      "date_added": "2023-10-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 368240,
+      "name": "Green shower",
+      "url": "https://open.spotify.com/track/0PFufMouzpLw0B9G7QfLBN"
+    },
+    {
+      "album": {
         "name": "Amapiano Now",
         "url": "https://open.spotify.com/album/4utVlAAihkM0AmxX0pddst"
       },
@@ -2546,6 +2648,24 @@
       "duration_ms": 207360,
       "name": "Hold Back Love",
       "url": "https://open.spotify.com/track/5ehidRHI0uXVkWupwoXjjG"
+    },
+    {
+      "album": {
+        "name": "Changing Channels",
+        "url": "https://open.spotify.com/album/3bKp9TUgbHGhfRBsTQTAxS"
+      },
+      "artists": [
+        {
+          "name": "Pangaea",
+          "url": "https://open.spotify.com/artist/08Z0yhWGksNk3wceqlCeGE"
+        }
+      ],
+      "date_added": "2023-10-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211701,
+      "name": "Hole Away",
+      "url": "https://open.spotify.com/track/29GpLV8I6vIo0JGEecIQWu"
     },
     {
       "album": {
@@ -3103,6 +3223,24 @@
     },
     {
       "album": {
+        "name": "Lucky Luke",
+        "url": "https://open.spotify.com/album/6Iy1RcAXrBKYZLVqRMEkFA"
+      },
+      "artists": [
+        {
+          "name": "Axel Boman",
+          "url": "https://open.spotify.com/artist/59qo8jHDlC1i30HVjQQW3O"
+        }
+      ],
+      "date_added": "2023-10-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 384425,
+      "name": "Lucky Luke",
+      "url": "https://open.spotify.com/track/77p3eNLgFo8DG11y4ozW3R"
+    },
+    {
+      "album": {
         "name": "Lux 3",
         "url": "https://open.spotify.com/album/2p1XFdGAircrJRoZkmz357"
       },
@@ -3297,6 +3435,24 @@
     },
     {
       "album": {
+        "name": "Collapse Phase",
+        "url": "https://open.spotify.com/album/6w02nI3DgXQ3AfjLOIyac0"
+      },
+      "artists": [
+        {
+          "name": "Polito",
+          "url": "https://open.spotify.com/artist/6O6fqsTlbgAkpge0oKhATO"
+        }
+      ],
+      "date_added": "2023-10-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213529,
+      "name": "Mercado Waltz",
+      "url": "https://open.spotify.com/track/0dhpyYpoSFNdOSTw4xwjdk"
+    },
+    {
+      "album": {
         "name": "TRUST",
         "url": "https://open.spotify.com/album/1bvrpTqzbfMe4HvdbzwGu2"
       },
@@ -3380,7 +3536,7 @@
       ],
       "date_added": "2023-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-20",
       "duration_ms": 1094493,
       "name": "Mild Und Leise",
       "url": "https://open.spotify.com/track/0RWpM1R7tAEJJ6uY4x0R0N"
@@ -3442,7 +3598,7 @@
       ],
       "date_added": "2023-04-06",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-25",
+      "date_removed": null,
       "duration_ms": 245576,
       "name": "MORE LOVE - Sylvere Remix",
       "url": "https://open.spotify.com/track/4SUFmJ4wiX8IF8gtuE6WTe"
@@ -3610,7 +3766,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-20",
       "duration_ms": 580240,
       "name": "New Grass",
       "url": "https://open.spotify.com/track/3MSXyJUuFs9SZ7K5hd54nA"
@@ -3991,6 +4147,24 @@
     },
     {
       "album": {
+        "name": "Its me ( g 8 ) / Oway ( f 7 )",
+        "url": "https://open.spotify.com/album/6rZTJHYLDsA564tCn9kEJ9"
+      },
+      "artists": [
+        {
+          "name": "Actress",
+          "url": "https://open.spotify.com/artist/3bg5rmICvmA8dmYVAdKGYH"
+        }
+      ],
+      "date_added": "2023-10-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 303276,
+      "name": "Oway ( f 7 )",
+      "url": "https://open.spotify.com/track/7GqAYRm2ih2SluhHvLiBjA"
+    },
+    {
+      "album": {
         "name": "Dismantled Into Juice",
         "url": "https://open.spotify.com/album/3wd2PDRL7ZcpX0ndA4jzgV"
       },
@@ -4164,7 +4338,7 @@
       ],
       "date_added": "2023-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-20",
       "duration_ms": 272976,
       "name": "Phoenix",
       "url": "https://open.spotify.com/track/0OcbFVB8duEfGpbuelWIAb"
@@ -4236,7 +4410,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-20",
       "duration_ms": 350378,
       "name": "POLLEN POLLEN",
       "url": "https://open.spotify.com/track/5J90zTGuLkDGf4p6KkUi2Y"
@@ -4374,7 +4548,7 @@
       ],
       "date_added": "2023-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-20",
       "duration_ms": 197317,
       "name": "Raptor",
       "url": "https://open.spotify.com/track/7wqoXaaYeYV6zR4jegMgF4"
@@ -5014,7 +5188,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-20",
       "duration_ms": 271663,
       "name": "Squid",
       "url": "https://open.spotify.com/track/7yH6dUvFBeqRAb54z7z7GT"

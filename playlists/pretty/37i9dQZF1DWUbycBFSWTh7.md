@@ -4,16 +4,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUbycBFSWTh7.md) - [plain]
 
 > get into the groove
 
-[Spotify](https://open.spotify.com/user/spotify) - 182,828 likes - 100 songs - 9 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 182,907 likes - 100 songs - 9 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Motown Swagger](https://open.spotify.com/track/4wT8rqDlZPLfIN34TSibdd) | [Kolter](https://open.spotify.com/artist/2Invsp3HSrAeJy4u7Retry) | [Motown Swagger](https://open.spotify.com/album/07fDbONnuIiwwmc2MaaiyV) | 7:18 |
+| 1 | [Necesito](https://open.spotify.com/track/4Fd86IYmEFNA824soFtsLk) | [Ben Van Kuringen](https://open.spotify.com/artist/26l6VHwzbStlQFOsGqS0s2) | [Necesito](https://open.spotify.com/album/5lPrj1KoriabqtiYjyHrjZ) | 3:25 |
 | 2 | [Aperol Spiritz](https://open.spotify.com/track/7LHJGgiSJEsa1uaYqubGde) | [Luuk Van Dijk](https://open.spotify.com/artist/1KFfk3NtblIJtGEqyiR31t) | [Aperol Spiritz](https://open.spotify.com/album/2U4jv3hgtuYc95dCjjsTs2) | 5:15 |
 | 3 | [Shenkin \(pi\-c remix\)](https://open.spotify.com/track/57pHVJns05fr1dB8rckLbn) | [Iris Ell](https://open.spotify.com/artist/0Sk1qaUGMbaLJ6bStLeXdm), [Frida Melando](https://open.spotify.com/artist/534ZY7H55kjUhBSk0Ln5vh), [pi\-c](https://open.spotify.com/artist/3ME6Xrst3i91iKU61wcjZo) | [Shenkin \(Remixes\)](https://open.spotify.com/album/0K33p5RA9r3pX8imhF76dp) | 4:48 |
 | 4 | [Post Tenebras Lux](https://open.spotify.com/track/2kiKyF907YzNOQAwYynCpa) | [Folamour](https://open.spotify.com/artist/6pJY5At9SiMpAOBrw9YosS) | [Post Tenebras Lux](https://open.spotify.com/album/62WXhzZbrLVaUrkg5eVqX1) | 3:52 |
-| 5 | [Necesito](https://open.spotify.com/track/4Fd86IYmEFNA824soFtsLk) | [Ben Van Kuringen](https://open.spotify.com/artist/26l6VHwzbStlQFOsGqS0s2) | [Necesito](https://open.spotify.com/album/5lPrj1KoriabqtiYjyHrjZ) | 3:25 |
-| 6 | [Evermore](https://open.spotify.com/track/3p789UBiSbPjcLAcQKXh7j) | [Peven Everett](https://open.spotify.com/artist/0v2oB2xMS64U3lcU5DFuCY), [Deetron](https://open.spotify.com/artist/0d4nL4lAEkHJIqLZSHBuav) | [Evermore](https://open.spotify.com/album/0oxHLoGUSAqpaew0YjLq0m) | 6:29 |
+| 5 | [Evermore](https://open.spotify.com/track/3p789UBiSbPjcLAcQKXh7j) | [Peven Everett](https://open.spotify.com/artist/0v2oB2xMS64U3lcU5DFuCY), [Deetron](https://open.spotify.com/artist/0d4nL4lAEkHJIqLZSHBuav) | [Evermore](https://open.spotify.com/album/0oxHLoGUSAqpaew0YjLq0m) | 6:29 |
+| 6 | [Motown Swagger](https://open.spotify.com/track/4wT8rqDlZPLfIN34TSibdd) | [Kolter](https://open.spotify.com/artist/2Invsp3HSrAeJy4u7Retry) | [Motown Swagger](https://open.spotify.com/album/07fDbONnuIiwwmc2MaaiyV) | 7:18 |
 | 7 | [Keep Rocking](https://open.spotify.com/track/2v8xrpCugWBJgNbJfzErqQ) | [LoMalo](https://open.spotify.com/artist/7eI1cqfGN3bZijbM1rr9RN) | [Voice Memos](https://open.spotify.com/album/5fvdI0au0Ncr9EDbKBIzV6) | 2:53 |
 | 8 | [Strobe Queen](https://open.spotify.com/track/5eQkvoZXhrs33aa0foQsnM) | [Radio Slave](https://open.spotify.com/artist/4rzWjR3L3M54c6I25NzdM3) | [Strobe Queen](https://open.spotify.com/album/3hOCGfnOSj3FCppaoyORLk) | 5:11 |
 | 9 | [Cooking Up](https://open.spotify.com/track/0n94wJUljNAp0KvFplWYKM) | [Baka G](https://open.spotify.com/artist/7CfH9Pe1z2V3OuUCIH9ru4) | [Cooking Up](https://open.spotify.com/album/1Dj7hOK9AoNTXBjYaITnor) | 4:42 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUbycBFSWTh7.md) - [plain]
 | 99 | [Whatever](https://open.spotify.com/track/2UXF6Sz2y6cYk1tF5f1X7U) | [Kreech](https://open.spotify.com/artist/5ZcXIQ6novByvRJGlTebf3) | [Whatever](https://open.spotify.com/album/56tNvvH9GzTsPRhNuriPK0) | 3:46 |
 | 100 | [You \- Edit](https://open.spotify.com/track/6sHAIXsj6mBA9r8u43Xhkk) | [Dam Swindle](https://open.spotify.com/artist/6hJtgCB3L5cnJSND7sp6GU) | [You \(Edit\)](https://open.spotify.com/album/2gdiubN0Dd0Mk9qkjz8oUa) | 3:58 |
 
-Snapshot ID: `MCwwMTdkOThlYTMzZDY5MmJiZDJjMjgxNmRiOWFmMDE3NDc3ODAzNjhh`
+Snapshot ID: `MCwyNDNkYjk4Y2ExNTJmN2Q4OWFhMTU5ODFjYTVlMjZjNmUwMDZhMTRm`

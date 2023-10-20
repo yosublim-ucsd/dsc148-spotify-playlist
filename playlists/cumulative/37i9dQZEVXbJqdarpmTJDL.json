@@ -8629,7 +8629,7 @@
       "date_added": "2023-09-10",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 179112,
+      "duration_ms": 180326,
       "name": "Floga",
       "url": "https://open.spotify.com/track/57uiFyexstQyJ04VAAXa49"
     },
@@ -16320,7 +16320,7 @@
       ],
       "date_added": "2023-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-20",
       "duration_ms": 243428,
       "name": "Mexri Telous",
       "url": "https://open.spotify.com/track/5t4ea9v5BSCWNw0aMzUoLd"
@@ -21141,6 +21141,24 @@
     },
     {
       "album": {
+        "name": "PSILOS FREESTYLE",
+        "url": "https://open.spotify.com/album/6e6n2cuuuTg7P5TTqFvPvx"
+      },
+      "artists": [
+        {
+          "name": "SIDARTA",
+          "url": "https://open.spotify.com/artist/3jPN2U65cMPzvozEBue5zp"
+        }
+      ],
+      "date_added": "2023-10-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175789,
+      "name": "PSILOS FREESTYLE",
+      "url": "https://open.spotify.com/track/34oPAKE1SIIqR6mela35iL"
+    },
+    {
+      "album": {
         "name": "PULL UP",
         "url": "https://open.spotify.com/album/764wuci2T1E24TKz1zo0Lk"
       },
@@ -22712,6 +22730,24 @@
       "duration_ms": 216000,
       "name": "Shut Up",
       "url": "https://open.spotify.com/track/15q58chZS9QVCKQXz9lRkJ"
+    },
+    {
+      "album": {
+        "name": "Si No Est\u00e1s",
+        "url": "https://open.spotify.com/album/66k6EGkPtYoN44anGIsEPW"
+      },
+      "artists": [
+        {
+          "name": "i\u00f1igo quintero",
+          "url": "https://open.spotify.com/artist/0jbo7KFNMiIkfBR6ih0yhm"
+        }
+      ],
+      "date_added": "2023-10-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184061,
+      "name": "Si No Est\u00e1s",
+      "url": "https://open.spotify.com/track/2HafqoJbgXdtjwCOvNEF14"
     },
     {
       "album": {
@@ -26104,7 +26140,7 @@
       ],
       "date_added": "2023-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-20",
       "duration_ms": 85161,
       "name": "Tsiou",
       "url": "https://open.spotify.com/track/4ktTjOAAb4nYUSWDunxMeC"

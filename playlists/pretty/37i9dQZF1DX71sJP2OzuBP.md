@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX71sJP2OzuBP.md) - [plain]
 
 > 上班時間很長，就讓最新最動聽的國語歌陪你，舒服輕聽一起渡過吧！
 
-[Spotify](https://open.spotify.com/user/spotify) - 66,447 likes - 101 songs - 6 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 66,455 likes - 101 songs - 6 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX71sJP2OzuBP.md) - [plain]
 | 18 | [尋光而來 \(電視劇《照亮你》片尾曲\)](https://open.spotify.com/track/3aJPpo62uoNsrWgwvm7FD6) | [許靖韻](https://open.spotify.com/artist/70XRdb848u15UedRaqzOyy) | [尋光而來 \(電視劇《照亮你》片尾曲\)](https://open.spotify.com/album/2sDoBYcxYMov98rg2gPMWn) | 3:57 |
 | 19 | [風不言](https://open.spotify.com/track/49GFBEms6OLyWineMTecx4) | [赵乃吉](https://open.spotify.com/artist/3f4WIRKQFOQoKisLVwepp0) | [風不言](https://open.spotify.com/album/1Qj3quzodJE3Lycb4XTi5v) | 3:27 |
 | 20 | [雨季](https://open.spotify.com/track/7zJLX40mHrjN4NfoT4GZpR) | [Ariel Tsai](https://open.spotify.com/artist/5dS7yN8gXQcQNxuuVOABIk) | [雨季](https://open.spotify.com/album/3z2ycnShuTsTkPj78LNLa3) | 4:21 |
-| 21 | [BACK TO YOU](https://open.spotify.com/track/54vjqSoR0cfO7nGKNvZS5o) | [Laurence Larson](https://open.spotify.com/artist/4tR0tAbQcn21pbA1DmVndw) | [WANNA BE WITH YOU](https://open.spotify.com/album/1Fz3IuaEUglZrDfh7Ylwpm) | 3:12 |
+| 21 | [Back To You](https://open.spotify.com/track/54vjqSoR0cfO7nGKNvZS5o) | [Laurence Larson](https://open.spotify.com/artist/4tR0tAbQcn21pbA1DmVndw) | [WANNA BE WITH YOU](https://open.spotify.com/album/1Fz3IuaEUglZrDfh7Ylwpm) | 3:12 |
 | 22 | [斷捨離](https://open.spotify.com/track/3SGelhCWnm8CU2y18TwEgp) | [施語庭](https://open.spotify.com/artist/4IuEkOrNCePRLpRYVWbUql) | [斷捨離](https://open.spotify.com/album/3qE0In8H2JhWbS59UsYVws) | 3:49 |
 | 23 | [It's Him](https://open.spotify.com/track/00gQEfLKkxNS9Hn8fHOgFD) | [耿斯漢](https://open.spotify.com/artist/5jkvZWwbf42TNt1kFnGSce) | [Life , Live](https://open.spotify.com/album/0nPzIXkm0tW9HpoksQcaFR) | 4:10 |
 | 24 | [那一盞燈](https://open.spotify.com/track/2SOl4S3Oy23VUWPg2RGrcr) | [Chocogirl巧克力](https://open.spotify.com/artist/6K5uwIkesCxfYY1ZQCp6dq), [先生娛樂 \(Mr\. Music Channel\)](https://open.spotify.com/artist/0On5G4W5XlrbS56t7W6JbO) | [那一盞燈](https://open.spotify.com/album/6ElwbDwsaMr8f2oQsAzww7) | 3:39 |
@@ -105,9 +105,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX71sJP2OzuBP.md) - [plain]
 | 95 | [盲點](https://open.spotify.com/track/2gcpeSLGV7mPPs8QJ3ntG9) | [The Freshman](https://open.spotify.com/artist/2pZzvphS66rCxKBiJCrO9y) | [盲點](https://open.spotify.com/album/4dJPNBRgIqZbhwNDhnGR2W) | 4:43 |
 | 96 | [短髮](https://open.spotify.com/track/4iYgczBCsiJvyoe4DxKUN5) | [LIU KOI](https://open.spotify.com/artist/08oPfsqJWRQaDYTupwwXrE) | [短髮](https://open.spotify.com/album/4LhZQpSSYl9osaEUfOr8IJ) | 2:48 |
 | 97 | [Bad Girls Behave](https://open.spotify.com/track/2CspyaDniJQAhgAYamTyI3) | [Karencici](https://open.spotify.com/artist/6v6qfXRvTRGGsmGfDvtMIK) | [Bad Girls Behave](https://open.spotify.com/album/6c6ObiguaXrGWxcy3kP0pJ) | 2:50 |
-| 98 | [路易大衛的巨像畫](https://open.spotify.com/track/4PLlKTSedrT5ccpE0DBsF7) | [集夢所Dreamoresoul](https://open.spotify.com/artist/18oRbEbPXn6LQ0yAnOmtpj) | [路易大衛的巨像畫](https://open.spotify.com/album/7MRk2VVyU8W1bTyOkWkGMA) | 3:28 |
+| 98 | [路易大衛的具象畫](https://open.spotify.com/track/4PLlKTSedrT5ccpE0DBsF7) | [集夢所Dreamoresoul](https://open.spotify.com/artist/18oRbEbPXn6LQ0yAnOmtpj) | [路易大衛的具象畫](https://open.spotify.com/album/7MRk2VVyU8W1bTyOkWkGMA) | 3:28 |
 | 99 | [高枕無憂](https://open.spotify.com/track/4FAPERZU7w7HoBmO4NDbmo) | [ZENBØ](https://open.spotify.com/artist/4Rh3HXq1VRYzQJ3rl2MUfG) | [高枕無憂](https://open.spotify.com/album/7EPZK5VULueMIKPhpnnTEP) | 3:43 |
 | 100 | [唯一](https://open.spotify.com/track/6ENf77i5DmXDimXle5Ux3C) | [G.E.M.](https://open.spotify.com/artist/7aRC4L63dBn3CiLDuWaLSI) | [唯一](https://open.spotify.com/album/4o9Q4RFqR6deYGWOgUQ3nC) | 4:13 |
 | 101 | [是我活該](https://open.spotify.com/track/0fQqRo5jxW4J3Sesf9FC8Z) | [Ren Ran](https://open.spotify.com/artist/6f4srX54JFrLNK4aTJe2Sc) | [是我活該](https://open.spotify.com/album/3YGgn40r1TTw73F2829mvy) | 3:36 |
 
-Snapshot ID: `MCw0ZmQyNDEzNDI0MDFjN2ZhMTFiOTBmYWZkODczMzhlMzM5M2U2NjFl`
+Snapshot ID: `MCxjMDkwODJiOTQ3YjIyODIwNjZkM2ZhMWJlNWNmMGZhM2I1NzQzODgz`

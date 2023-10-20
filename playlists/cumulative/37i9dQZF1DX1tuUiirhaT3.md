@@ -4,7 +4,7 @@
 
 > Calm ambient music with gentle nature sounds.
 
-284 songs - 15 hr 3 min
+285 songs - 15 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -60,6 +60,7 @@
 | [Continuous Movement](https://open.spotify.com/track/1WKko6CV5UVITWLPM97WPl) | [Nolene Britton](https://open.spotify.com/artist/4Ii7tJkcwod6FcfQKbelmT) | [Continuous Movement](https://open.spotify.com/album/0cCmSDmOwDKT6Kp6RB4ltI) | 2:32 | 2023-03-16 |  |
 | [Creek Of Wonder \(Meditation\)](https://open.spotify.com/track/3rbYnf1AoDwPoNTBUYRPaI) | [Nature Pulse](https://open.spotify.com/artist/70vUxFU28oeZCt4GremOQ0) | [Creek Of Wonder](https://open.spotify.com/album/4OBLtNZOdzSkQRvok1BDew) | 3:04 | 2023-10-04 |  |
 | [Deep Canyon \- Sound Bath](https://open.spotify.com/track/0djnuIQ6iW0QIaIZRdgQaP) | [Montana Plains](https://open.spotify.com/artist/6XOiaS2D7BL25uNuKlS4nR) | [Deep Canyon \(Sound Bath\)](https://open.spotify.com/album/79kfrMA3wytdzEOsFwYdNn) | 2:01 | 2023-02-24 |  |
+| [Deep in the Forest](https://open.spotify.com/track/4DuZpMMRGsLlCCrrA6hwiT) | [moon echo](https://open.spotify.com/artist/36RuEVYPpPQPNKGjmrp3hN) | [Deep in the Forest](https://open.spotify.com/album/4V17VetgclqdDBWxdDkdkK) | 2:38 | 2023-10-20 |  |
 | [Delta Spirit](https://open.spotify.com/track/5Nl0Uy3C5GhECu1wePK0Ty) | [Spiritualizer](https://open.spotify.com/artist/608axORAeMj8OmGsz5eu8C) | [Spiritualizer](https://open.spotify.com/album/1CnFJVEozeGpXtd6ih5ldP) | 2:40 | 2022-03-04 |  |
 | [Desire](https://open.spotify.com/track/4B65VdJ4nSXcdNsjQcYPyl) | [Jero Toga](https://open.spotify.com/artist/7udo52qeGxSsK69WMRmBvP) | [Desire](https://open.spotify.com/album/5aKMHMuWCuWH2AeiLElqzQ) | 2:46 | 2021-12-17 |  |
 | [Devine Waves](https://open.spotify.com/track/38pWBkFjXOqZ5f6bGOj1L4) | [Bliss Phenomena](https://open.spotify.com/artist/5QggUZgvXPXT5X0jouJKBr) | [Devine Waves](https://open.spotify.com/album/7987vByLF9HkepU0VIabSG) | 2:21 | 2022-11-17 |  |
@@ -283,7 +284,7 @@
 | [Waves Music Relax](https://open.spotify.com/track/54MYgK99jBfryPIeg60h7l) | [Nature Sounds](https://open.spotify.com/artist/4NqS7DbPFYwZmniGHCPMpm) | [Sleep Music With Ambient Nature](https://open.spotify.com/album/2NE9EajerIuNkd0iH1bRNM) | 2:28 | 2021-12-17 |  |
 | [Wee Hours](https://open.spotify.com/track/2iW2dXJw0s2wfNBFEJv4Yo) | [Brendon Moeller](https://open.spotify.com/artist/3V3T5haMWZGfFxqVsAB9oB) | [Smouldering](https://open.spotify.com/album/5lF1AHJoWR1Fg8tN1mnJkC) | 3:55 | 2021-12-17 | 2022-05-07 |
 | [Weirwood](https://open.spotify.com/track/0rjq0cADIoP8x92YLcKSPP) | [Aatom](https://open.spotify.com/artist/3jZNP1cGIr9jG32lxHUezh) | [Weirwood](https://open.spotify.com/album/6hHYMZGKa2KY1jN0j0qile) | 2:27 | 2022-09-30 |  |
-| [When the Birds Wake Up](https://open.spotify.com/track/4hmjuap8P6VPRRFbjaDILB) | [Forest Gold](https://open.spotify.com/artist/12Lj4bvVL57SoslmmpalNU) | [When the Birds Wake Up](https://open.spotify.com/album/58JC8NSnvG4tvdJaQBFqBt) | 2:41 | 2021-12-17 |  |
+| [When the Birds Wake Up](https://open.spotify.com/track/4hmjuap8P6VPRRFbjaDILB) | [Forest Gold](https://open.spotify.com/artist/12Lj4bvVL57SoslmmpalNU) | [When the Birds Wake Up](https://open.spotify.com/album/58JC8NSnvG4tvdJaQBFqBt) | 2:41 | 2021-12-17 | 2023-10-20 |
 | [Whispering Dryad](https://open.spotify.com/track/3IqatHS3VQu8WWZpCBh6f5) | [Ashcan Johansen](https://open.spotify.com/artist/2ct2G7jHNMHPisFrLyBpMh) | [Shimmering Forest](https://open.spotify.com/album/1Y7mTexxu0dEAWw1OGfTR2) | 3:19 | 2022-12-02 |  |
 | [Wide Transfers](https://open.spotify.com/track/04XwIlZo2CWJU0OUdnVFFw) | [John Goodlove](https://open.spotify.com/artist/1k9phNanPQ2ScqreRWpy2j) | [Wide Transfers](https://open.spotify.com/album/3gURbHWPKttLCK2tQCs0Q6) | 3:40 | 2021-12-17 |  |
 | [Winter Petals](https://open.spotify.com/track/5rXxMpRv4tcWmMioTcTSrS) | [Cora Zea](https://open.spotify.com/artist/2GW7BMmmFwI0cDvop6sOWg) | [Cimarron Plains](https://open.spotify.com/album/51EtJKhNA69gKvzS4Ne7RA) | 4:04 | 2021-12-17 | 2022-07-29 |

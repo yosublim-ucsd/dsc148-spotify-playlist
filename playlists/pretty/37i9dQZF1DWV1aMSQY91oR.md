@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV1aMSQY91oR.md) - [plain]
 
 > The newest Hip\-Hop, refreshed weekly\. Cover: Offset
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,354 likes - 50 songs - 2 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,374 likes - 50 songs - 2 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV1aMSQY91oR.md) - [plain]
 | 49 | [BIG](https://open.spotify.com/track/3Zg6uh4AkLi43Nnm05Hf8Y) | [Rob $tone](https://open.spotify.com/artist/2hWs22BmQkK4czFtDLnar2) | [BIG](https://open.spotify.com/album/1aijOZDkDZ3W4I0VEGd99x) | 2:36 |
 | 50 | [10 Freaky 10's](https://open.spotify.com/track/0yY8KJYR55jUsVdKjthtri) | [Akintoye](https://open.spotify.com/artist/1EgCxqT8GgE5oXX3PkeGhq) | [10 Freaky 10's](https://open.spotify.com/album/2kGz0oeG0rnY5nzG7D8EQo) | 3:10 |
 
-Snapshot ID: `MCxlYzI0NjMyZjlhOWQ1MjAwYmMyMzJiMTViY2NlOWQzYTIzYjgyZTNk`
+Snapshot ID: `MCxmMzI5MDQ2ZmY4NmJhMmUwODMxOTIxN2JhOTcwZmE1MzZmYWFhYmJh`

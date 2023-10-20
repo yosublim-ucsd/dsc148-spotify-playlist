@@ -1,12 +1,12 @@
 {
   "description": "Gazing at pedals, soaring celestially high. Cover: Duster",
-  "num_followers": 122259,
+  "num_followers": 122484,
   "original_name": "Shoegaze Now",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzZmVmODE3MzQyNTczN2YzNmYwYTQzNTgzYjdiZDM2YTk5M2MwZTBl",
+  "snapshot_id": "MCw3ZDMzZGY4MzlhYzQ1NzZkNTQ1MDdmM2Y5ZDI5NmIyZDBmMWZmZDc2",
   "tracks": [
     {
       "added_at": "2023-09-29 15:11:53",
@@ -391,6 +391,22 @@
       "duration_ms": 228916,
       "name": "Comatose",
       "url": "https://open.spotify.com/track/1nrY9vaRGbSu8Oyp5Wlyu1"
+    },
+    {
+      "added_at": "2023-10-19 17:29:30",
+      "album": {
+        "name": "S\u00e1lvame",
+        "url": "https://open.spotify.com/album/2ybfm8UkHqZOLw1vvF2hfd"
+      },
+      "artists": [
+        {
+          "name": "Memory Leak",
+          "url": "https://open.spotify.com/artist/0i9cI6V5ZvmADyZcqLk8PJ"
+        }
+      ],
+      "duration_ms": 285000,
+      "name": "S\u00e1lvame",
+      "url": "https://open.spotify.com/track/27tshI1j4jX347xUP8zFeZ"
     },
     {
       "added_at": "2023-09-29 15:11:53",

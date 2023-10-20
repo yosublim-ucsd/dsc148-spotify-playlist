@@ -125,6 +125,24 @@
     },
     {
       "album": {
+        "name": "Distant Memories",
+        "url": "https://open.spotify.com/album/30ez8yRfd9IS3HfxGBABLc"
+      },
+      "artists": [
+        {
+          "name": "Kurosuke",
+          "url": "https://open.spotify.com/artist/5Le7DsHESXGLb12JNKPpnR"
+        }
+      ],
+      "date_added": "2023-10-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245253,
+      "name": "Ch\u00e9rie",
+      "url": "https://open.spotify.com/track/543porKxyhy643TaLca8PQ"
+    },
+    {
+      "album": {
         "name": "Cinta Yang Baru",
         "url": "https://open.spotify.com/album/4VY2hVNomWfL1TDgVCoVp8"
       },
@@ -1007,6 +1025,28 @@
     },
     {
       "album": {
+        "name": "Noisy Love",
+        "url": "https://open.spotify.com/album/1Z7ZRVIIrML6E5wTxPXjrv"
+      },
+      "artists": [
+        {
+          "name": "DE DE MOUSE",
+          "url": "https://open.spotify.com/artist/1mZtAFuxFAgqmTCqfKLWoj"
+        },
+        {
+          "name": "Mandark",
+          "url": "https://open.spotify.com/artist/7znAteIK9wAnN6URYwFsks"
+        }
+      ],
+      "date_added": "2023-10-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165065,
+      "name": "Noisy Love",
+      "url": "https://open.spotify.com/track/6FmPut7Qe0PIfdw4SLucPo"
+    },
+    {
+      "album": {
         "name": "not alright",
         "url": "https://open.spotify.com/album/4UrsL2atzrnEEeVeSxlfRB"
       },
@@ -1304,7 +1344,7 @@
       ],
       "date_added": "2022-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-20",
       "duration_ms": 277706,
       "name": "Senja dan Kahlua",
       "url": "https://open.spotify.com/track/0YtWMWrO3A5urhzDFAzTgx"
@@ -1472,7 +1512,7 @@
       ],
       "date_added": "2022-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-20",
       "duration_ms": 218910,
       "name": "Step in Step in",
       "url": "https://open.spotify.com/track/0qzFZw1TWpnc2XyGM8lhKs"

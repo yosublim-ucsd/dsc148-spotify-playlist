@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 
 > All\-new releases by Latin artists! Cover: Ivan Cornejo
 
-[Spotify](https://open.spotify.com/user/spotify) - 581,341 likes - 50 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 581,367 likes - 50 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 | 49 | [Una Vez Más](https://open.spotify.com/track/3mr30QQsPp1GrHKMVouolW) | [Astro Andy](https://open.spotify.com/artist/7Mx1mmKAtCnSUsemQwussI) | [Una Vez Más](https://open.spotify.com/album/50cY1PxotBkhDw3cOob6Me) | 3:00 |
 | 50 | [LADILLA](https://open.spotify.com/track/4M3koMnj680ydN4egdg1e8) | [Joa & Jalys](https://open.spotify.com/artist/4Qypd98pOg4Lp2kCxXBic9) | [LADILLA](https://open.spotify.com/album/1OeMWfABUKJbBe1WAhSela) | 2:31 |
 
-Snapshot ID: `MCxjMDU4ZGE4NzZhNzFhZWRkYjA2NjFmM2NlNDczZTUwOWI5OGZiZGRm`
+Snapshot ID: `MCxmODBmOGVmMWEyZTFiZDYzNWIxYjcyM2EwYTAwYmExYjk5NWY1YjBh`

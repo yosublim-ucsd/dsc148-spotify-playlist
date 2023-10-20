@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ddCYH6QIK5.md) - [plain]
 
 > The best new music by independent artists and labels, updated every Wednesday\. Cover: Malummí, Artwork: Isu Kim.
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,137 likes - 80 songs - 4 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,154 likes - 80 songs - 4 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ddCYH6QIK5.md) - [plain]
 | 79 | [tiramisu](https://open.spotify.com/track/6XrJtVLKuLXp48TIp0F6N4) | [\*maliiik](https://open.spotify.com/artist/63Oa7FWYtfPylgzUEWhZWd), [Atlas](https://open.spotify.com/artist/5vsCApsbreJsvZTe9ig2jM), [Arion Sinagra](https://open.spotify.com/artist/49VuA5NXSEaVAPo7b4Mxej) | [tiramisu](https://open.spotify.com/album/62IzfYYzeDpXwM3lUzcazq) | 3:12 |
 | 80 | [kkiosk](https://open.spotify.com/track/7DbIPcKMWbqdc7X7OtCvBx) | [SQF2000](https://open.spotify.com/artist/6KHWeZDPxz0eH7l7Z4ZMNR) | [kkiosk](https://open.spotify.com/album/4jtkT3kaZq1ETLr4gpyLoH) | 2:52 |
 
-Snapshot ID: `MCxlZTBjMTQ0ZDQ5MzcwYjg2NDdiMmQwMDBjN2ZmMDIyMzdjODFlZWNl`
+Snapshot ID: `MCwzNjI4YWI2N2FhMTA3MTA0ZDFiZmY3Y2ZhNWQ5YTI1ZGVkZDBiZTIw`

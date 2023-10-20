@@ -4,7 +4,7 @@
 
 > Driving electronic grooves for improved motivation and performance.
 
-150 songs - 8 hr 20 min
+151 songs - 8 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -74,6 +74,7 @@
 | [Grapefruit](https://open.spotify.com/track/7EC8AM9PK4WHwyD8WIdZPa) | [Young Community](https://open.spotify.com/artist/1dThUtszO1jevy1BfKlCcR) | [Grapefruit](https://open.spotify.com/album/6oUQuDi0THc5zLK2cpoO2q) | 4:03 | 2023-06-23 |  |
 | [Half\-Light](https://open.spotify.com/track/3VGEC6MUbZTRjg93etNpw8) | [Maudii](https://open.spotify.com/artist/4sh66zMHXR6pqwSnw82Tdj) | [Half\-Light](https://open.spotify.com/album/1OOB3nQBqEh34J0J1Ekbn2) | 2:47 | 2022-09-23 | 2023-07-18 |
 | [Hold On](https://open.spotify.com/track/3cBsoWySE5misjwiHXpe4h) | [Valter Knut](https://open.spotify.com/artist/4PjYynoChLbnYyhPVSMnbq) | [Hold On](https://open.spotify.com/album/1Yyshg4PD11md8uNRapu8x) | 2:32 | 2022-09-23 | 2023-07-18 |
+| [I Kinda Like It](https://open.spotify.com/track/5Z4zrfHfykFUhSqNnt2Ubd) | [Lofive](https://open.spotify.com/artist/2MIjUuqUlQPxk995OG41Tq) | [I Kinda Like It](https://open.spotify.com/album/4Fl0fWnj9sqmEI8mN3dIOu) | 2:27 | 2023-10-20 |  |
 | [I Need You](https://open.spotify.com/track/3owktfqOe8kZ9zCoTSZ0T8) | [Leon Jarvis](https://open.spotify.com/artist/7Iqe5ZQLFGySYpAFUDttXJ) | [I Need You](https://open.spotify.com/album/7dXyHoHeaB5K1hfWgtdMoA) | 2:42 | 2022-09-23 |  |
 | [I Promise You](https://open.spotify.com/track/52PxCQQlAme3g0UjH2smhF) | [Florem Ipsum](https://open.spotify.com/artist/594PMnBcYcEU1sTCC75Iir) | [I Promise You](https://open.spotify.com/album/3IKrjcrhhF9KVVyhLR9uiI) | 2:13 | 2022-12-09 | 2023-03-10 |
 | [If I Tried](https://open.spotify.com/track/7uhpIuXpKa6cMWe5uRD6aV) | [Zumaia](https://open.spotify.com/artist/30w51iPwkBwWcs6ZzrrxsH) | [If I Tried](https://open.spotify.com/album/0vp88bPsCQ66QG8eyqST33) | 2:33 | 2023-09-01 |  |
@@ -127,7 +128,7 @@
 | [Rude](https://open.spotify.com/track/28LJlaqXAzbuvrdUtmRA5X) | [Carl & Calitto](https://open.spotify.com/artist/4tMgaZrsUhfgvphSrUDEiD) | [Rude](https://open.spotify.com/album/55OM6ZMuUjcEwDprTSesjl) | 2:47 | 2022-10-14 | 2023-09-02 |
 | [Runaway](https://open.spotify.com/track/5jjCspZaeMpClv7S1H3a8E) | [Lombauer](https://open.spotify.com/artist/1xYnhHUchQSdNUiAFj1UFI) | [Runaway](https://open.spotify.com/album/3sOxykiyJjLNSiohhvL9hb) | 2:59 | 2022-09-23 |  |
 | [Running through Fire](https://open.spotify.com/track/6D4T0BRng7TOuoBvHCBAj5) | [Hercules' Revenge](https://open.spotify.com/artist/4qO1Q1xGNK6sczpkc2qoX7) | [Running through Fire](https://open.spotify.com/album/1hlKwTiR9SsrKiLzo1dxSl) | 3:17 | 2022-09-23 | 2023-07-18 |
-| [Rush](https://open.spotify.com/track/3CC9G02pqtJ88KCabogFba) | [Jones Meadow](https://open.spotify.com/artist/3MK71khOrqZwGpyfYzwKXR) | [Catch](https://open.spotify.com/album/4rS56AkPxsyz6CH2qwRRQa) | 2:56 | 2023-03-03 |  |
+| [Rush](https://open.spotify.com/track/3CC9G02pqtJ88KCabogFba) | [Jones Meadow](https://open.spotify.com/artist/3MK71khOrqZwGpyfYzwKXR) | [Catch](https://open.spotify.com/album/4rS56AkPxsyz6CH2qwRRQa) | 2:56 | 2023-03-03 | 2023-10-20 |
 | [Saltwater Dreams](https://open.spotify.com/track/6pRocudXtLnKRd61gtotIk) | [Sum Wave](https://open.spotify.com/artist/0bfdnPaHczaQt6tYe8J4Ci) | [Saltwater Dreams / Vague Sunset](https://open.spotify.com/album/6XIUklaqCksEasrYoQizZQ) | 2:47 | 2022-10-07 |  |
 | [Seadrift](https://open.spotify.com/track/3L3Zugtoy4iSpky2oiOjDI) | [Joshua Kimiko](https://open.spotify.com/artist/0rseV1mtdhrtR6FEHuvOIm) | [Seadrift](https://open.spotify.com/album/6EQYRA1zDcrhK0N9faGKbe) | 2:46 | 2022-09-23 |  |
 | [Serenity Lake](https://open.spotify.com/track/15eqN6GPpzHGifzihLGsGr) | [Béatrice Dupont](https://open.spotify.com/artist/4lGZ8fr3b2fq7uruNbUGcf) | [Serenity Lake](https://open.spotify.com/album/2otWMjizseTnAZrMGowQ91) | 2:36 | 2022-09-23 | 2023-07-18 |

@@ -4,7 +4,7 @@
 
 > Le canzoni italiane più romantiche di sempre ❤️
 
-197 songs - 12 hr 43 min
+198 songs - 12 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -114,6 +114,7 @@
 | [Le tasche piene di sassi](https://open.spotify.com/track/7FJ2MZUK52QYeARaSird6m) | [Giorgia](https://open.spotify.com/artist/0gm1lHoOXAdy5OB4AwFYRr) | [Le tasche piene di sassi](https://open.spotify.com/album/0995VBTDyPAQLGY7ru2jXK) | 3:45 | 2021-09-26 | 2022-07-28 |
 | [Luce \(Tramonti a Nord Est\)](https://open.spotify.com/track/09g4hFrDdBK3J52I3InPgl) | [Elisa](https://open.spotify.com/artist/2ARH58Hit3yC6ziGdhma23) | [Asile's World](https://open.spotify.com/album/4NAldsRyud3P1gM53MpSEs) | 4:24 | 2021-09-26 | 2022-07-28 |
 | [L’Amore È Una Cosa Semplice](https://open.spotify.com/track/7b0qDOmCeqHIAsGK7j0MbI) | [Tiziano Ferro](https://open.spotify.com/artist/11TplWqOPQBTmg2eiSLt1m) | [L'amore è una cosa semplice \(Special Edition\)](https://open.spotify.com/album/4VqOwLPLbdl3GTNoygOLW1) | 4:02 | 2021-09-26 | 2022-07-16 |
+| [MADAME \- L'anima](https://open.spotify.com/track/0uAnrNNITY7KwmOqdVEsIK) | [Marracash](https://open.spotify.com/artist/5AZuEF0feCXMkUCwQiQlW7), [Madame](https://open.spotify.com/artist/1vgQksyJ0IVz8y9XerEOy3) | [Persona](https://open.spotify.com/album/7cZB2w7ju8vYRGzTSJ1H1v) | 3:41 | 2023-02-20 |  |
 | [MADAME \- L'anima \(feat\. Madame\)](https://open.spotify.com/track/3go5ZuMoFTKl5ugai8nAKi) | [Marracash](https://open.spotify.com/artist/5AZuEF0feCXMkUCwQiQlW7), [Madame](https://open.spotify.com/artist/1vgQksyJ0IVz8y9XerEOy3) | [Persona](https://open.spotify.com/album/3ZOt77e63uMgJXU7xcFpqu) | 3:41 | 2021-09-26 | 2022-12-26 |
 | [Margarita \(con Marracash\)](https://open.spotify.com/track/6KfwIpX0Xo0lelmuUOnyZV) | [Elodie](https://open.spotify.com/artist/7GgpsUpkj3olseoaTY7TEY), [Marracash](https://open.spotify.com/artist/5AZuEF0feCXMkUCwQiQlW7) | [This Is Elodie](https://open.spotify.com/album/3EREGNLTHWi1SZCoDKT4Pd) | 2:57 | 2023-02-20 |  |
 | [Margherita](https://open.spotify.com/track/3OmkSLoCJEX505kQOZJg1K) | [Riccardo Cocciante](https://open.spotify.com/artist/7iZC2I6gz8gI0BLe2boBZR) | [Concerto Per Margherita](https://open.spotify.com/album/5cXd8lH3e53AtK7VXpA1Pe) | 4:30 | 2021-09-26 | 2022-07-06 |
@@ -189,7 +190,7 @@
 | [Tu](https://open.spotify.com/track/0ZZsGEpFws0EDn7Kos1U2z) | [Umberto Tozzi](https://open.spotify.com/artist/00w9sdZ78mWArooTmiSTld) | [Tu](https://open.spotify.com/album/1gmgzeAMpCDunSHil00fXW) | 4:11 | 2021-09-26 | 2022-07-22 |
 | [Tu](https://open.spotify.com/track/6Gbc24EJdvZgpY0b5pNxhA) | [Umberto Tozzi](https://open.spotify.com/artist/00w9sdZ78mWArooTmiSTld) | [Tu](https://open.spotify.com/album/0RCpPk09zv72rYvQbRVB6C) | 4:11 | 2021-09-26 |  |
 | [Tua Per Sempre](https://open.spotify.com/track/7a6b81vuhd20Fx4C7EQoZ9) | [Elisa](https://open.spotify.com/artist/2ARH58Hit3yC6ziGdhma23) | [Diari Aperti](https://open.spotify.com/album/2ShW1dnxI5hVcWwR3WOQEQ) | 3:27 | 2021-09-26 | 2022-07-29 |
-| [Un attimo ancora](https://open.spotify.com/track/0rork59Tm6wKPD4SMTay1n) | [Gemelli Diversi](https://open.spotify.com/artist/1rmR17cbB34R3cKheHJBDZ) | [Gemelli Diversi](https://open.spotify.com/album/2win94a4gptG9kru2p6Hka) | 4:00 | 2023-02-20 |  |
+| [Un attimo ancora](https://open.spotify.com/track/0rork59Tm6wKPD4SMTay1n) | [Gemelli Diversi](https://open.spotify.com/artist/1rmR17cbB34R3cKheHJBDZ) | [Gemelli Diversi](https://open.spotify.com/album/2win94a4gptG9kru2p6Hka) | 4:00 | 2023-02-20 | 2023-10-20 |
 | [Un attimo ancora](https://open.spotify.com/track/3lj6yA3gqDanIeNPGbMYRG) | [Gemelli Diversi](https://open.spotify.com/artist/1rmR17cbB34R3cKheHJBDZ) | [Gemelli Diversi](https://open.spotify.com/album/5fn80yeckiWYKTUooD9XmY) | 4:00 | 2021-09-26 | 2022-07-28 |
 | [Un'emozione da poco](https://open.spotify.com/track/0AsCObd7eD2NSSg3UBJLKo) | [Anna Oxa](https://open.spotify.com/artist/6iuybPv0Mii8x21mztjaUN) | [Gli Anni '70/New Package](https://open.spotify.com/album/728pPa8Nr1d9omkT8mRoh8) | 4:15 | 2021-09-26 | 2022-06-19 |
 | [Un'emozione per sempre](https://open.spotify.com/track/1Hd8GLavCUUUx3GJdunJ4E) | [Eros Ramazzotti](https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX) | [9](https://open.spotify.com/album/0orR3i1y0uPP6smKEFFbP8) | 3:56 | 2021-09-26 |  |

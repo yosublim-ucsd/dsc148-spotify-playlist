@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-12",
-  "description": "La nuova generazione del rap italiano. Aggiornata ogni venerd\u00ec. Cover: 8blevrai",
+  "description": "La nuova generazione del rap italiano. Aggiornata ogni venerd\u00ec. Cover: Il Ghost, Darden",
   "name": "Raptopia",
   "tracks": [
     {
@@ -1504,7 +1504,7 @@
       ],
       "date_added": "2023-09-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-20",
       "duration_ms": 181085,
       "name": "BATIMENT #1",
       "url": "https://open.spotify.com/track/7h1RaR7nQUWTB2uR5giojx"
@@ -2002,7 +2002,7 @@
       ],
       "date_added": "2023-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-20",
       "duration_ms": 137684,
       "name": "BLA",
       "url": "https://open.spotify.com/track/08z50YKD3TdfDQbrflFc8n"
@@ -2218,7 +2218,7 @@
       ],
       "date_added": "2023-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-20",
       "duration_ms": 96536,
       "name": "Boom Shakalaka",
       "url": "https://open.spotify.com/track/1Je1xW6Yt9Sh6rekur7sLm"
@@ -2414,7 +2414,7 @@
       ],
       "date_added": "2023-07-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-20",
       "duration_ms": 187548,
       "name": "Business (feat. Kid Yugi)",
       "url": "https://open.spotify.com/track/2xtRttQROrOFKg10rNLZ73"
@@ -4691,6 +4691,28 @@
     },
     {
       "album": {
+        "name": "ENERGIA",
+        "url": "https://open.spotify.com/album/6T7Eman1VdzGJ2yHL9uCHj"
+      },
+      "artists": [
+        {
+          "name": "Axell",
+          "url": "https://open.spotify.com/artist/2ySYVtBVDE24iUcJGfHRka"
+        },
+        {
+          "name": "Vaporstef",
+          "url": "https://open.spotify.com/artist/7CLam35Bb5uvhKfIccRCpz"
+        }
+      ],
+      "date_added": "2023-10-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160000,
+      "name": "ENERGIA",
+      "url": "https://open.spotify.com/track/3flXtITLXjeq6PoPKi92EF"
+    },
+    {
+      "album": {
         "name": "Entriamo d'abuso",
         "url": "https://open.spotify.com/album/7mW1GfBtSbbg57PTUi4Nvc"
       },
@@ -4776,6 +4798,28 @@
       "duration_ms": 136536,
       "name": "Er Fio De",
       "url": "https://open.spotify.com/track/1rPEVJfIOhLWSC5NsMZPLP"
+    },
+    {
+      "album": {
+        "name": "Erling Haaland",
+        "url": "https://open.spotify.com/album/7nbhR3LUN5AqhSXSlDyZqD"
+      },
+      "artists": [
+        {
+          "name": "Suspect CB",
+          "url": "https://open.spotify.com/artist/25qHQgRHUtHRnSZBzhixOz"
+        },
+        {
+          "name": "Ex\u2227",
+          "url": "https://open.spotify.com/artist/3qif25LstGEGZsuUO6FsPJ"
+        }
+      ],
+      "date_added": "2023-10-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142285,
+      "name": "Erling Haaland",
+      "url": "https://open.spotify.com/track/6tPhJyElDngbGI7WGCCwgQ"
     },
     {
       "album": {
@@ -6133,6 +6177,32 @@
     },
     {
       "album": {
+        "name": "Street Caldo II: Nerdsta",
+        "url": "https://open.spotify.com/album/2JEPWSMHOOI3ludBVXLYP0"
+      },
+      "artists": [
+        {
+          "name": "Zero Vicious",
+          "url": "https://open.spotify.com/artist/23hTdxGu1uB9NLfW3KmABu"
+        },
+        {
+          "name": "Guesan",
+          "url": "https://open.spotify.com/artist/1eMrj0akHMVF8HpxG1OrLD"
+        },
+        {
+          "name": "Ill Rave",
+          "url": "https://open.spotify.com/artist/2UED7orH77Ei8kwVG4TNAJ"
+        }
+      ],
+      "date_added": "2023-10-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230697,
+      "name": "Goblin Mode",
+      "url": "https://open.spotify.com/track/1sY3ohjjIhLs5nj0rugO83"
+    },
+    {
+      "album": {
         "name": "PAIN PARTY",
         "url": "https://open.spotify.com/album/72k7j2fiUIHpB8qCWbm75J"
       },
@@ -6310,6 +6380,24 @@
       "duration_ms": 157714,
       "name": "GTA",
       "url": "https://open.spotify.com/track/1sMzjYyFSWexHB145BgD6O"
+    },
+    {
+      "album": {
+        "name": "Umile (Deluxe)",
+        "url": "https://open.spotify.com/album/4asGsNx59kGDbKWXwnd89t"
+      },
+      "artists": [
+        {
+          "name": "Tony Boy",
+          "url": "https://open.spotify.com/artist/6PsQc21YZU7WNfiODG69Qk"
+        }
+      ],
+      "date_added": "2023-10-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174915,
+      "name": "Guai",
+      "url": "https://open.spotify.com/track/4zazC5BB1hOHRXvnbW8CNF"
     },
     {
       "album": {
@@ -6544,6 +6632,28 @@
       "duration_ms": 154482,
       "name": "HEART THIEF",
       "url": "https://open.spotify.com/track/5OLg9E4UPpFLdJMJl8t67c"
+    },
+    {
+      "album": {
+        "name": "HI TECH (feat. Dardan)",
+        "url": "https://open.spotify.com/album/6AajVc17THqnxw38GIWRji"
+      },
+      "artists": [
+        {
+          "name": "Il Ghost",
+          "url": "https://open.spotify.com/artist/2tOGpIgNsnDk6BxqFU2vCX"
+        },
+        {
+          "name": "Dardan",
+          "url": "https://open.spotify.com/artist/3pjq2pDV9RR6VY55wBjVnp"
+        }
+      ],
+      "date_added": "2023-10-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133751,
+      "name": "HI TECH (feat. Dardan)",
+      "url": "https://open.spotify.com/track/4l2ATeURkBNDMaj1s7cU6U"
     },
     {
       "album": {
@@ -8385,6 +8495,32 @@
     },
     {
       "album": {
+        "name": "Losca (feat. Kuremino)",
+        "url": "https://open.spotify.com/album/25E1RBw0SLcQ41RFA81cpq"
+      },
+      "artists": [
+        {
+          "name": "Andr\u00e8s Las",
+          "url": "https://open.spotify.com/artist/5yxzT7i5hJK48tqWWfU3iO"
+        },
+        {
+          "name": "Kuremino",
+          "url": "https://open.spotify.com/artist/1V4Yspflqmghgh91FQJW9n"
+        },
+        {
+          "name": "Pave",
+          "url": "https://open.spotify.com/artist/5Dtz5w5xVlRscuRR9dIUtV"
+        }
+      ],
+      "date_added": "2023-10-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161090,
+      "name": "Losca (feat. Kuremino)",
+      "url": "https://open.spotify.com/track/6yKvyPl3dgOsnid7PIFjRn"
+    },
+    {
+      "album": {
         "name": "LOST CONTROL",
         "url": "https://open.spotify.com/album/5UAfKgJeU7yiTvBOVBOHcg"
       },
@@ -8534,6 +8670,28 @@
       "duration_ms": 181138,
       "name": "Mademoiselle (Oh la la la)",
       "url": "https://open.spotify.com/track/5HOr82mREsf5YRLlYy8bXr"
+    },
+    {
+      "album": {
+        "name": "Madre mia",
+        "url": "https://open.spotify.com/album/7rCKIoBiJCTFZg13UMsJa4"
+      },
+      "artists": [
+        {
+          "name": "Blocage",
+          "url": "https://open.spotify.com/artist/44oncuQSlFMMh7PRslRKUk"
+        },
+        {
+          "name": "Voleur pnz",
+          "url": "https://open.spotify.com/artist/6BGAhqSN3qEqlZRpMogAFN"
+        }
+      ],
+      "date_added": "2023-10-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190080,
+      "name": "Madre mia",
+      "url": "https://open.spotify.com/track/4dKVc3Oa3JyXrplJ3ewXZI"
     },
     {
       "album": {
@@ -9188,6 +9346,36 @@
       "duration_ms": 140505,
       "name": "Merce",
       "url": "https://open.spotify.com/track/07E65Obut2yA4w5QwjdVbK"
+    },
+    {
+      "album": {
+        "name": "METEORITE",
+        "url": "https://open.spotify.com/album/1I5KZqe0ngRm1YGgabWQbn"
+      },
+      "artists": [
+        {
+          "name": "CEASEFIRE",
+          "url": "https://open.spotify.com/artist/5Wd4jzhxc6jIjBNZWFYFI9"
+        },
+        {
+          "name": "Talia",
+          "url": "https://open.spotify.com/artist/0Gm4i8B3ts9KHXxthgHBvB"
+        },
+        {
+          "name": "39redboy",
+          "url": "https://open.spotify.com/artist/0vNZqDX9vgQ2Bq2dhh982b"
+        },
+        {
+          "name": "loui",
+          "url": "https://open.spotify.com/artist/6KfMKEEQUwrKn3l4hZh4uA"
+        }
+      ],
+      "date_added": "2023-10-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126829,
+      "name": "METEORITE",
+      "url": "https://open.spotify.com/track/0QCMWRLyHl4fWUzkh81VEM"
     },
     {
       "album": {
@@ -9958,7 +10146,7 @@
       ],
       "date_added": "2023-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-20",
       "duration_ms": 196129,
       "name": "Naples",
       "url": "https://open.spotify.com/track/6hOndc2UrGv7jU12S6IvS0"
@@ -10916,7 +11104,7 @@
       ],
       "date_added": "2023-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-20",
       "duration_ms": 199679,
       "name": "PANAMA",
       "url": "https://open.spotify.com/track/0MzGKQtVElVJcmW0sXJpWa"
@@ -14686,7 +14874,7 @@
       ],
       "date_added": "2023-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-20",
       "duration_ms": 220255,
       "name": "TOP G (feat. Sacky)",
       "url": "https://open.spotify.com/track/7w3M35YQ9VD91c4Lpos8Zz"
@@ -15180,7 +15368,7 @@
       ],
       "date_added": "2023-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-20",
       "duration_ms": 165004,
       "name": "UN'ALTRA NIGHT",
       "url": "https://open.spotify.com/track/13X04wnewOCJCv6xLr9Cky"
@@ -15638,7 +15826,7 @@
       ],
       "date_added": "2023-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-20",
       "duration_ms": 154446,
       "name": "Voglio",
       "url": "https://open.spotify.com/track/3wjmdYObZwfPZNBuEggAcK"
@@ -16236,6 +16424,28 @@
       "duration_ms": 134159,
       "name": "\u00c8 chiaro",
       "url": "https://open.spotify.com/track/6KRdHoJs92lZjd3OAZfCyo"
+    },
+    {
+      "album": {
+        "name": "\u00c8 LOGICO",
+        "url": "https://open.spotify.com/album/2RlD80fBIQYNAgjhbGjQaN"
+      },
+      "artists": [
+        {
+          "name": "Low-Red",
+          "url": "https://open.spotify.com/artist/6iE4D1r501drzd1fyM6z9N"
+        },
+        {
+          "name": "ilovethisbeat",
+          "url": "https://open.spotify.com/artist/4KXuowxUNZQRZC5CoY1Z2P"
+        }
+      ],
+      "date_added": "2023-10-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170562,
+      "name": "\u00c8 LOGICO",
+      "url": "https://open.spotify.com/track/2GN9maAEurX0VvmVdjhLOM"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DWUQru3jd69v5"

@@ -4,7 +4,7 @@
 
 > Poslechněte si ženy z Česka a Slovenska na plnou hlasitost\. Cover: Vesna
 
-337 songs - 18 hr 6 min
+338 songs - 18 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -113,6 +113,7 @@
 | [Jezinky \(acapela\)](https://open.spotify.com/track/4XGxWLRQWGfsW3IA1ggJf3) | [Giudi](https://open.spotify.com/artist/1PpVDDj4MkhQlvvYy7SGfj) | [Jezinky \(acapela\)](https://open.spotify.com/album/3EE9GG0IhouS9ufrpJLuxb) | 2:59 | 2021-12-07 | 2022-06-01 |
 | [Jsem](https://open.spotify.com/track/091LqS4GafDKXraNTFZxhC) | [Tereza Balonová](https://open.spotify.com/artist/1kEe7RHajwXs74RkMIbAhq) | [Jsem](https://open.spotify.com/album/0pRARP9FOKcmcCKj2hFRdi) | 3:44 | 2022-03-07 | 2022-05-04 |
 | [Jsi déšť](https://open.spotify.com/track/1LxIits0TP5PSdsecQPs1P) | [Marta Kloučková](https://open.spotify.com/artist/1JLBMag1JfYXxTbSPv68Dc), [Ondřej Pivec](https://open.spotify.com/artist/32ZpxmOShPsshCEHHrK2SA) | [Jsi déšť](https://open.spotify.com/album/48TqDKuSAhleOtvCYLNfpd) | 3:50 | 2023-05-02 | 2023-08-02 |
+| [JUST](https://open.spotify.com/track/29EsizASwJW4Trv3dtN4Up) | [Lenka Piešová](https://open.spotify.com/artist/5FGpF878Fa50wFrDYPkQV2) | [JUST](https://open.spotify.com/album/2BI0Gp8UAceVUm6BJ0Etz1) | 3:12 | 2023-10-19 |  |
 | [Just Another Dream](https://open.spotify.com/track/39oWADXTHbyBXMaB9eQ1Uv) | [Anika Iris](https://open.spotify.com/artist/6qwBbYT3f2M1pZ1SKcsBDc) | [Just Another Dream](https://open.spotify.com/album/517LIc9zu3bC3oIqZMgaiF) | 3:11 | 2022-02-01 | 2022-07-01 |
 | [Já nechci víc](https://open.spotify.com/track/4vuXy2szP85SPkMgXlUmBU) | [Andrea Kalousová](https://open.spotify.com/artist/4VddqrWeNdiiqKVokwC252) | [Já nechci víc](https://open.spotify.com/album/3QzjiSzpBzQG0KUuhwz9uf) | 3:16 | 2023-07-04 | 2023-09-06 |
 | [Já Tě Mám](https://open.spotify.com/track/57OcPTvlX94sx5HmCXyacw) | [Anna Vaverková](https://open.spotify.com/artist/6g9ensOdCVDvhlP4pjrShZ) | [Já Tě Mám](https://open.spotify.com/album/1t4WJ31sxO05xTsPdtMdNg) | 3:28 | 2023-02-28 | 2023-04-19 |
@@ -127,7 +128,7 @@
 | [Když padá sníh](https://open.spotify.com/track/1xrMKGJ5nycrs0bb5fxFLi) | [Beata Hlavenková](https://open.spotify.com/artist/68dZWan7YTk0CRUFAcnL5a), [Patrick Karpentski](https://open.spotify.com/artist/7oF08zezX4pP7Lj3FmDZ8i), [Oskar Török](https://open.spotify.com/artist/6ggig1QTrvv08jV2Q92vhs), [Miloš Klápště](https://open.spotify.com/artist/1LLJW5e4EiNCrIAZUxf5Bm) | [Žijutě](https://open.spotify.com/album/5Wv0jQgHdS7x4keczmy9uB) | 4:17 | 2021-12-07 | 2022-03-08 |
 | [Keep Walking](https://open.spotify.com/track/5r5GgldyjiO7TuI8rySW4i) | [Evah](https://open.spotify.com/artist/1t9G8Ol2BuSJnbTAEOJYZh) | [Keep Walking](https://open.spotify.com/album/7KxooUJlQ8anJJYeB79jog) | 3:09 | 2022-11-01 | 2023-04-05 |
 | [KIDNAP ME \(feat\. Forest Blunt\)](https://open.spotify.com/track/24pHmfcztzriJ4paqhbyzK) | [ANNABELLE](https://open.spotify.com/artist/6ge7MfOUbSmEvDxOaHeKOm), [Forest Blunt](https://open.spotify.com/artist/1VYGcdpoaFPzLGZIdST4u0), [fiedlerski](https://open.spotify.com/artist/0ql0Aw24KJaMeOVlwadzFE) | [KIDNAP ME \(feat\. Forest Blunt\)](https://open.spotify.com/album/6nVZTvLnZw8bbWF5MNs5Qk) | 1:39 | 2023-04-04 | 2023-06-07 |
-| [Kliešte](https://open.spotify.com/track/7mzzdnceusRDv8vqB0xOqa) | [Zverina](https://open.spotify.com/artist/6SRlOtw0n5GR40B9RsaV6a) | [Kliešte](https://open.spotify.com/album/3oqtmBUTvfnvq1IHguLtnG) | 2:38 | 2023-09-05 |  |
+| [Kliešte](https://open.spotify.com/track/7mzzdnceusRDv8vqB0xOqa) | [Zverina](https://open.spotify.com/artist/6SRlOtw0n5GR40B9RsaV6a) | [Kliešte](https://open.spotify.com/album/3oqtmBUTvfnvq1IHguLtnG) | 2:38 | 2023-09-05 | 2023-10-20 |
 | [Kolotoč](https://open.spotify.com/track/79YdtbHUWRYAU4YxvprpmE) | [Holki](https://open.spotify.com/artist/5NpQsfL9sK0bNItQky55Gi) | [Kolotoč](https://open.spotify.com/album/5oRzRvCHH8B7wT3X59wp7X) | 2:43 | 2022-11-30 | 2023-04-05 |
 | [Kolty](https://open.spotify.com/track/7bwHQPAuWhxzqfbuiSyz0H) | [Tamara](https://open.spotify.com/artist/4hXIAjChioZM76d0afbqQL) | [Kolty](https://open.spotify.com/album/4oREeO6GohIdBM2X8NSrmJ) | 3:14 | 2023-07-04 | 2023-10-04 |
 | [Kúsok šťastia](https://open.spotify.com/track/3kxvDOXVsVpEPCbXRHj2GU) | [Dominika Mirgova](https://open.spotify.com/artist/5FxqSK3bTstp7wa05O01jt) | [Kúsok šťastia](https://open.spotify.com/album/5AjTy9FzS70ye4Fsl38izx) | 3:38 | 2023-08-01 | 2023-10-04 |

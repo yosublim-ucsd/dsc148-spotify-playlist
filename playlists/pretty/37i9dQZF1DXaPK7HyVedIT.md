@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaPK7HyVedIT.md) - [plain]
 
 > Eletrônico do momento para curtir onde estiver\. Foto: Flakkë
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,221,734 likes - 81 songs - 4 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,221,773 likes - 81 songs - 4 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -90,4 +90,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaPK7HyVedIT.md) - [plain]
 | 80 | [Down \- Illusionize, Viot Rework](https://open.spotify.com/track/6yJLDJD5DPa7ZG6ICH5vc0) | [illusionize](https://open.spotify.com/artist/3RloA7E4XMItSP4FjMBv3L), [Viot](https://open.spotify.com/artist/7fld8KFMgCmJlsVOJ1oo4M) | [Down \(Illusionize, Viot Rework\)](https://open.spotify.com/album/4es3qre14ZUWofRzMdbpvI) | 4:50 |
 | 81 | [You Talkin'](https://open.spotify.com/track/0V3OXJgLiRK8yezOxVsr49) | [Chapter & Verse](https://open.spotify.com/artist/5yPVuutf3WAXUt1VqDaN1t), [Victor Lou](https://open.spotify.com/artist/063wYkWkHrq5L5YWdrqjEt) | [You Talkin'](https://open.spotify.com/album/17OGNhyHM0gCe9ACFi7YFY) | 2:47 |
 
-Snapshot ID: `MCwxYTQ1MjJiNDcxMWMzNzBlMTQwZjkyYTkxMmNhNmVmN2Y5Yjg1Y2M2`
+Snapshot ID: `MCxjOWJjYmY1NTYyMTMyZGI3YjJkYzcwZjdiZTE2ZGEyYmI1ODI5N2Fi`

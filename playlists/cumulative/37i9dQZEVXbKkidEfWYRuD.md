@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Ukraine.
 
-1,252 songs - 2 day 9 hr 50 min
+1,254 songs - 2 day 9 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -39,9 +39,10 @@
 | [6AM в Будапеште](https://open.spotify.com/track/788Sc88rcCe1GWVZ3ofJKQ) | [OG Buda](https://open.spotify.com/artist/1H1zBr7TXFwTwsHU5kX9gW) | [Cкучаю, Но Работаю](https://open.spotify.com/album/1jfgIZ6NpbIMApVH5qq7um) | 3:06 | 2023-04-22 | 2023-04-24 |
 | [99 Problems](https://open.spotify.com/track/0r9fpWPI6z3V3YZXIiVaNC) | [Big Baby Tape](https://open.spotify.com/artist/5NMwoStnfHT4LdETlJSwDT), [kizaru](https://open.spotify.com/artist/5NipqMGsY4AUeb7kGT8aVz) | [BANDANA I](https://open.spotify.com/album/6kzabofELlyd7dYqY78dzu) | 2:39 | 2021-10-23 | 2022-07-22 |
 | [^\_\_^ ;D :3](https://open.spotify.com/track/4GUbuZEijCo6AlKFcBe5lN) | [OG Buda](https://open.spotify.com/artist/1H1zBr7TXFwTwsHU5kX9gW) | [FREERIO 2](https://open.spotify.com/album/4Bxc3xz4eRLzZBfluYRfiP) | 1:19 | 2022-04-30 | 2022-05-02 |
-| [A Different Kind of Blues](https://open.spotify.com/track/6ZG7EV2sV2M1MI9XxANAdF) | [IAMJJ](https://open.spotify.com/artist/5IXAoFwq3CLAMjvWorc6WJ), [Baker Grace](https://open.spotify.com/artist/70RgxMmZhLLWxRlbUFQKR2) | [A Different Kind of Blues](https://open.spotify.com/album/0Xw89z1Kmx2dt5q21N11CJ) | 3:18 | 2023-10-17 |  |
+| [A Different Kind of Blues](https://open.spotify.com/track/6ZG7EV2sV2M1MI9XxANAdF) | [IAMJJ](https://open.spotify.com/artist/5IXAoFwq3CLAMjvWorc6WJ), [Baker Grace](https://open.spotify.com/artist/70RgxMmZhLLWxRlbUFQKR2) | [A Different Kind of Blues](https://open.spotify.com/album/0Xw89z1Kmx2dt5q21N11CJ) | 3:18 | 2023-10-17 | 2023-10-20 |
 | [A&W](https://open.spotify.com/track/1wTopxO5eQBpxrBXPSbsUn) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [A&W](https://open.spotify.com/album/46XKgCOOHTZkQTdiMsBxHS) | 7:13 | 2023-02-16 | 2023-02-26 |
 | [abcdefu](https://open.spotify.com/track/4fouWK6XVHhzl78KzQ1UjL) | [GAYLE](https://open.spotify.com/artist/2VSHKHBTiXWplO8lxcnUC9) | [abcdefu](https://open.spotify.com/album/6tUQPKlpR4x1gjrXTtOImI) | 2:48 | 2021-11-28 | 2022-02-26 |
+| [absolute in doubt](https://open.spotify.com/track/19FhhS93siEpzNIUG0J7Xa) | [Lil Peep](https://open.spotify.com/artist/2kCcBybjl3SAtIcwdWpUe3), [Wicca Phase Springs Eternal](https://open.spotify.com/artist/70AkqfU43ou9hFxJZTDt7A) | [crybaby](https://open.spotify.com/album/4MTh1JiOhgK2BQQjKI5RyI) | 3:47 | 2023-10-19 |  |
 | [Abu Dhabi Ba6y](https://open.spotify.com/track/3Qo7FF0WmgEt3JG3B2qngy) | [Платина](https://open.spotify.com/artist/4TzGOY9RpErzedN02w8Boh), [OG Buda](https://open.spotify.com/artist/1H1zBr7TXFwTwsHU5kX9gW), [MAYOT](https://open.spotify.com/artist/3KtiWEUyKC5lgHedcN6y6C) | [Sosa Muzik](https://open.spotify.com/album/2YAGIocNPp0fc29od97AKh) | 3:00 | 2021-08-15 | 2021-11-14 |
 | [adaptive strike](https://open.spotify.com/track/5jXocrsUwpKwWyI5BZLKFA) | [shadowraze](https://open.spotify.com/artist/0TO6y1x0LQodwBnxGtQu9o), [LXNER](https://open.spotify.com/artist/0u32PEQJMO9ufiSInHtKXt), [quiizzzmeow](https://open.spotify.com/artist/2znSAMoC2z72k1BNWVMzKW) | [adaptive strike](https://open.spotify.com/album/1ZZyShGHtlIsCwLwiI3Sk5) | 2:16 | 2022-02-12 | 2022-07-02 |
 | [After Dark](https://open.spotify.com/track/0zCgWGmDF0aih5qexATyBn) | [Mr.Kitty](https://open.spotify.com/artist/0pWwt5vGNzezEhfAcc420Y) | [Time](https://open.spotify.com/album/0PLo7Nd9uUa6shrWWOmJsQ) | 4:17 | 2022-01-10 | 2022-10-15 |
@@ -72,7 +73,8 @@
 | [Back to Life \(Birthdae\)](https://open.spotify.com/track/4iGKPU8XBlsUoOoyvsFhLw) | [ScurtDae](https://open.spotify.com/artist/3asPo62n9VYDmN6FIkCcEk) | [Back to Life \(Birthdae\)](https://open.spotify.com/album/6caxt5SHHvkw9hfTMMgRgt) | 2:37 | 2022-08-18 | 2022-08-20 |
 | [Bad Habits](https://open.spotify.com/track/3rmo8F54jFF8OgYsqTxm5d) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [=](https://open.spotify.com/album/32iAEBstCjauDhyKpGjTuq) | 3:50 | 2021-10-31 | 2021-11-02 |
 | [Bad Habits](https://open.spotify.com/track/6PQ88X9TkUIAUIZJHW2upE) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Bad Habits](https://open.spotify.com/album/01NhUvviMytvV12pmJiDZH) | 3:51 | 2021-06-27 | 2021-10-16 |
-| [BAIXO](https://open.spotify.com/track/0RVmg31gzlshCm356g0HF2) | [xxanteria](https://open.spotify.com/artist/4nl0CCx6PpEOOr2Z2ThPdp) | [BAIXO](https://open.spotify.com/album/2Osz2h7ZjKHOZh5grL7o6G) | 1:44 | 2023-09-26 |  |
+| [BAIXO](https://open.spotify.com/track/0RVmg31gzlshCm356g0HF2) | [xxanteria](https://open.spotify.com/artist/4nl0CCx6PpEOOr2Z2ThPdp) | [BAIXO](https://open.spotify.com/album/2Osz2h7ZjKHOZh5grL7o6G) | 1:44 | 2023-09-26 | 2023-10-20 |
+| [BAIXO](https://open.spotify.com/track/0rb7HcBkdMPp04ybHBfX41) | [xxanteria](https://open.spotify.com/artist/4nl0CCx6PpEOOr2Z2ThPdp) | [NO GOING BACK](https://open.spotify.com/album/7pv0piZjVlLEIYUXEQKX6x) | 1:44 | 2023-10-19 |  |
 | [BALANCE](https://open.spotify.com/track/33aN03SdPY7SyO7jAWMTwc) | [INSTASAMKA](https://open.spotify.com/artist/2SeRP5iAIhVec4azKHJzjX) | [QUEEN OF RAP](https://open.spotify.com/album/4lvy6drxoogEkNehP9RLwR) | 2:16 | 2022-08-22 | 2022-08-28 |
 | [BALANCE](https://open.spotify.com/track/3yi4CF76vbCXfI1sb3FMuW) | [MORGENSHTERN](https://open.spotify.com/artist/0XNKQFs2Ewb3y0VsFUFc5l) | [LAST ONE](https://open.spotify.com/album/3Mp2TOTZpTGvU1cExaHs7w) | 2:47 | 2022-10-22 | 2022-10-29 |
 | [Bandana](https://open.spotify.com/track/16AzcbKli3UQsxj491hJLQ) | [Big Baby Tape](https://open.spotify.com/artist/5NMwoStnfHT4LdETlJSwDT), [kizaru](https://open.spotify.com/artist/5NipqMGsY4AUeb7kGT8aVz) | [BANDANA I](https://open.spotify.com/album/6kzabofELlyd7dYqY78dzu) | 2:31 | 2021-10-23 | 2022-07-11 |

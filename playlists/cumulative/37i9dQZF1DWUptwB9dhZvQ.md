@@ -2,9 +2,9 @@
 
 ### [Kollywood Themes](https://open.spotify.com/playlist/37i9dQZF1DWUptwB9dhZvQ)
 
-> Its time to relish the Best Themes of Kollywood!<br/>Cover : Jailer
+> Its time to relish the Best Themes of Kollywood!<br/>Cover : Leo
 
-148 songs - 4 hr 32 min
+149 songs - 4 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -77,6 +77,7 @@
 | [Kick Theme](https://open.spotify.com/track/2BFT2jy8PM6hJuegIg1CO2) | [Arjun Janya](https://open.spotify.com/artist/3IX32wm6CoEIYovZ0VcjBJ) | [Kick Theme \(From "Kick"\)](https://open.spotify.com/album/2FwI9IJfPgZJynjvTwtCt5) | 2:36 | 2023-01-18 | 2023-01-21 |
 | [Kick Theme \(From "Kick"\)](https://open.spotify.com/track/1bts9A6cTbCvvWTzx5VS8h) | [Arjun Janya](https://open.spotify.com/artist/3IX32wm6CoEIYovZ0VcjBJ) | [Kick Theme \(From "Kick"\) \- Single](https://open.spotify.com/album/5hPEWmXTxssIDurSN2lC8j) | 2:36 | 2023-01-18 | 2023-02-07 |
 | [Lokiverse \- Background Score](https://open.spotify.com/track/209pScL6fUhISxcLWkB6rf) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O) | [Vikram \(Original Background Score\)](https://open.spotify.com/album/6S5qpNyT3ZAg7m0e2XSOqx) | 2:36 | 2022-07-08 |  |
+| [Lokiverse 2.0](https://open.spotify.com/track/5OxVOeYmIzelfupJtq1X6G) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O) | [Leo \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2nZKDF0ZFy0Pv7uMakAwZh) | 1:54 | 2023-10-19 |  |
 | [Maanaadu Theme](https://open.spotify.com/track/6mCBXs5VNOS3OuiKrtyWxT) | [Yuvan Shankar Raja](https://open.spotify.com/artist/6AiX12wXdXFoGJ2vk8zBjy) | [Maanaadu \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4V7aye4YWto4yT0i6l5Vuq) | 2:19 | 2021-11-27 |  |
 | [Maara Theme \(Tamil\)](https://open.spotify.com/track/6yxXPjFdAGOhv0diL81YLu) | [G\. V\. Prakash](https://open.spotify.com/artist/5VVN3xZw1i2qihfITZlvCZ), [Suriya](https://open.spotify.com/artist/5jyOS8L5CughATUjhDX8GP) | [Soorarai Pottru \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1YXlDrh64M5ttCaRXn7fp5) | 1:10 | 2021-11-01 |  |
 | [Maaran \- Motion Poster Theme](https://open.spotify.com/track/6Yx0t6gQsokYuTlrUXtoc2) | [G\. V\. Prakash](https://open.spotify.com/artist/5VVN3xZw1i2qihfITZlvCZ) | [Maaran \- Motion Poster Theme](https://open.spotify.com/album/2w7PzPw9uy7699CjWv2amy) | 1:03 | 2022-01-16 | 2023-02-14 |

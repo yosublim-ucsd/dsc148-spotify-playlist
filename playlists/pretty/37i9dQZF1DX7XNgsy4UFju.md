@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7XNgsy4UFju.md) - [plain]
 
 > Home to all the latest indie jams\. Cover: Helena Deland
 
-[Spotify](https://open.spotify.com/user/spotify) - 157,947 likes - 100 songs - 5 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 157,978 likes - 100 songs - 5 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7XNgsy4UFju.md) - [plain]
 | 99 | [Odyssey](https://open.spotify.com/track/2xMDqXTRJTcsBFECwwZhYz) | [Beck](https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS), [Phoenix](https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU) | [Odyssey](https://open.spotify.com/album/2qk0NP9lpVaZIjkIY5oUFO) | 3:46 |
 | 100 | [What I Wouldn't Give](https://open.spotify.com/track/2jZ2NZAr4eYdiKFBdnLnUy) | [Loviet](https://open.spotify.com/artist/2oULrQuWXhDGUEBtWQPiA9) | [What I Wouldn't Give](https://open.spotify.com/album/3HE99KDQkRdkklFMCQEOdb) | 4:40 |
 
-Snapshot ID: `MCxkZWRkNmJjMTVmNjgyZGMwZmY1MWQ1Zjc3Yzk1NjFkZGU4YWY0OTJh`
+Snapshot ID: `MCwxNGExMjhkNWNkY2IzZjczZDZiMzVlZDA4YmU2NWIyMDYyOWY4ZTk3`

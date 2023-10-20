@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5OepaGriAIm.md) - [plain]
 
 > Trace the history of Jazz from timeless classics to boundary\-breaking contemporary favorites from the women of Jazz\. Cover: Diana Krall
 
-[Spotify](https://open.spotify.com/user/spotify) - 852,197 likes - 128 songs - 9 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 852,245 likes - 128 songs - 9 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -99,7 +99,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5OepaGriAIm.md) - [plain]
 | 89 | [Worrisome Heart](https://open.spotify.com/track/3zh5km8gPDYMiWvmLTsos0) | [Melody Gardot](https://open.spotify.com/artist/2P1puQXmG48EVLBrHbum1J) | [Worrisome Heart](https://open.spotify.com/album/5ahEd7berYIgjRYsIHZa8Y) | 4:21 |
 | 90 | [Leaping Up](https://open.spotify.com/track/2s9dOhFTlvqz4zGkelQ0Ro) | [MEGTARO](https://open.spotify.com/artist/3o3JLHE1KQzNc2wh46UiNI) | [Newselves](https://open.spotify.com/album/3HJTUfUEzmkCHyGqSPEf24) | 7:33 |
 | 91 | [If You Could See Me Now](https://open.spotify.com/track/1yDPuRttnvxpTsh402ySUH) | [Vanessa Rubin](https://open.spotify.com/artist/5Oe8V83r2RhPPuhnRH5saQ) | [The Dream Is You: Vanessa Rubin Sings Tadd Dameron](https://open.spotify.com/album/3cDsafLbjQuDNGxpuXdwXO) | 7:10 |
-| 92 | [Plain Gold Ring](https://open.spotify.com/track/6T85DjTrwiWpKbHyH4139E) | [Zara McFarlane](https://open.spotify.com/artist/2KwROtmoJfRcQHqDMiV6uo) | [If You Knew Her](https://open.spotify.com/album/5i3Kx7Nd8VIKvwijUSmC6T) | 4:25 |
+| 92 | [Plain Gold Ring](https://open.spotify.com/track/44M83sEYJvR5LVC8sRuuqc) | [Zara McFarlane](https://open.spotify.com/artist/2KwROtmoJfRcQHqDMiV6uo) | [If You Knew Her](https://open.spotify.com/album/024JPTAdAiUeNmy18sJKhU) | 4:25 |
 | 93 | [Falling In Love With Love](https://open.spotify.com/track/4yv0zk9Xn0QxOcJHXUy8Jh) | [Eliane Elias](https://open.spotify.com/artist/4qKIiUdFND09cgGOc5kfoR) | [Giants Of Jazz: Eliane Elias](https://open.spotify.com/album/1l0YJVQc77qZVy9qFyKiEh) | 6:26 |
 | 94 | [Lost In A Blue Note](https://open.spotify.com/track/29dFStdDNJHdgGPhwyKdbB) | [April Barrows](https://open.spotify.com/artist/49Pr1w34iIV8qlIcnsLdwQ) | [My Dream is You](https://open.spotify.com/album/26ACa71xPjvov8cZ4Rai52) | 4:24 |
 | 95 | [Droppin' Things](https://open.spotify.com/track/7rD7vPm565HRuERkOgDOm3) | [Cæcilie Norby](https://open.spotify.com/artist/6XFVoO2x9F6P1FxZy1PG4H), [Rita Marcotulli](https://open.spotify.com/artist/1KaiGnVyxEODkywQQBoSZJ), [Nicole Johänntgen](https://open.spotify.com/artist/1N6lrF2OteOhkbCKfMRPQJ), [Hildegunn Øiseth](https://open.spotify.com/artist/4UQCOsb6CvwVBk1yRUs8Xt), [Lisa Wulff](https://open.spotify.com/artist/5B91Sl3Ocu6vXdUav1w5Yq), [Dorota Piotrowska](https://open.spotify.com/artist/7eVFTjaGYrgLLZbVT5wybP) | [Sisters in Jazz](https://open.spotify.com/album/2xulZ94vvyf1aPLjwLGtLm) | 4:33 |
@@ -137,4 +137,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5OepaGriAIm.md) - [plain]
 | 127 | [Lullaby Of Birdland](https://open.spotify.com/track/5z161QQZMgQxSILnv3QoJk) | [Sarah Vaughan](https://open.spotify.com/artist/1bgyxtWjZwA5PQlDsvs9b8) | [Sarah Vaughan](https://open.spotify.com/album/7wX89EWCK8cNZeGnBS5bMG) | 4:00 |
 | 128 | [My Favourite Things](https://open.spotify.com/track/5RzDUxNC7hKjr8eTEX8n6b) | [Betty Carter](https://open.spotify.com/artist/6HB1MchEEMg40EisSJuenZ) | [Inside Betty Carter](https://open.spotify.com/album/3rFnwsVrrSYZQsCGTkOT7W) | 1:38 |
 
-Snapshot ID: `MCw1ZTI0ZGU1OGY1ODkzZTc5NGUwNDAxYmJiOTEwMzE5MzgwNmViZjI0`
+Snapshot ID: `MCw4N2Q4ZDA5ZWRhMmFjOGMwOGNhMjc0YzA2MDVkMjQyNzU2NWNiYmY5`

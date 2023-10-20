@@ -4,7 +4,7 @@
 
 > Relaxing and salutary ambient music.
 
-415 songs - 21 hr 42 min
+416 songs - 21 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -225,6 +225,7 @@
 | [Marola](https://open.spotify.com/track/4QPXwM90DJW5eQXTsfLKPc) | [Sleep Safari](https://open.spotify.com/artist/6sQz3KXQYUowjmWX4MUEY3) | [Marola](https://open.spotify.com/album/5BDUYHWCEQ2SA0NMNmqLfM) | 2:44 | 2022-05-26 | 2023-07-07 |
 | [Matterhorn Mountain](https://open.spotify.com/track/60jmPhNn2QVUPRfpjZZUB4) | [Moments of Clarity](https://open.spotify.com/artist/752MndEnUavC68pPM6NtxB) | [Mindful Sleep](https://open.spotify.com/album/2kFyWqR5s7lvq8uNYGx6mj) | 3:34 | 2022-05-26 |  |
 | [Melancholy](https://open.spotify.com/track/25kDEZNeYdOa61StT88v4G) | [Emanuel Green](https://open.spotify.com/artist/5Vdb46TtoBR9BKioOQfszd) | [Emotional State](https://open.spotify.com/album/7chN0A9m3xKUja0y0zzVpb) | 4:24 | 2022-05-26 | 2023-08-25 |
+| [Merci](https://open.spotify.com/track/1679vhg48SfasuFs0xAKcS) | [Rêveuse](https://open.spotify.com/artist/0DeHCKY9cIUwGMZuyIWCe1) | [Merci](https://open.spotify.com/album/13MFgmWUFikSqJyscMRWOS) | 3:07 | 2023-10-20 |  |
 | [Mezame](https://open.spotify.com/track/1F314dDh2Uis0hYkOa7vdz) | [Daniel Larkins](https://open.spotify.com/artist/1F0Dd3Y3rwwyiabyNJZFB4) | [Mezame](https://open.spotify.com/album/170wLhbCsUgbtt6DCFX1iG) | 2:49 | 2022-06-16 |  |
 | [Milujem](https://open.spotify.com/track/6QcpPiqS1BLG4W3W7ZsBf0) | [Nova Kral](https://open.spotify.com/artist/7uawp9f3qhlML7nNn4vB4B) | [Milujem](https://open.spotify.com/album/1YYl7pJswJ8lGeDJHdOiLq) | 3:07 | 2023-03-30 |  |
 | [Mind Portal](https://open.spotify.com/track/31uyD01UTR3mBFcRy5meSQ) | [UNIV3R](https://open.spotify.com/artist/3vN9aKPqZwe8e0ysc2cLKL) | [Mind Portal](https://open.spotify.com/album/6kEYsFk5fctyiPhqBER0EC) | 3:21 | 2022-05-26 |  |
@@ -376,7 +377,7 @@
 | [The Dreamer](https://open.spotify.com/track/7m1FO52k1xNJDUdiBvItiZ) | [Emma\-Lo Larsson](https://open.spotify.com/artist/5DoFMnoAqaEr0JNHLVfrWa) | [Off Time](https://open.spotify.com/album/62cNgLRqMR81YQk04NwAIR) | 3:16 | 2023-04-13 |  |
 | [The Forest](https://open.spotify.com/track/4NId2w4cZ9D61Stbr79isY) | [Mont Real](https://open.spotify.com/artist/5M5cSnU5RbCkYcKe1wUMKc) | [The NIght Sky](https://open.spotify.com/album/1Si7otf4LNskpi7tmv8XfG) | 4:54 | 2022-05-26 | 2023-04-22 |
 | [The Gift](https://open.spotify.com/track/1GF0zNrSjuQiw2Y16cYqnW) | [Laura Dawson](https://open.spotify.com/artist/1IM8iJAfKOjMCKp7UJGAP9) | [The Gift](https://open.spotify.com/album/1UjHHH07JQoG48ng4746ku) | 2:53 | 2022-05-26 |  |
-| [The Glimmer Behind](https://open.spotify.com/track/6I7ADenBGoFh3eIhmQNme0) | [Horai](https://open.spotify.com/artist/5oj6HTgSCgxQpidG7akxh8) | [The Glimmer Behind](https://open.spotify.com/album/1e8MW4mcpFTc7i3wLQXVoj) | 4:03 | 2022-05-26 |  |
+| [The Glimmer Behind](https://open.spotify.com/track/6I7ADenBGoFh3eIhmQNme0) | [Horai](https://open.spotify.com/artist/5oj6HTgSCgxQpidG7akxh8) | [The Glimmer Behind](https://open.spotify.com/album/1e8MW4mcpFTc7i3wLQXVoj) | 4:03 | 2022-05-26 | 2023-10-20 |
 | [The Long White](https://open.spotify.com/track/5mY0N7UZF81zOQv9N3RHZi) | [Ben Jinn](https://open.spotify.com/artist/40ZZSzRJe2W6JFoAGOcrfP) | [The Long White](https://open.spotify.com/album/6lVFVsL2h2IGhEhQ3CSSmX) | 3:10 | 2022-05-26 |  |
 | [The Lost Key](https://open.spotify.com/track/5acpnondtQUm1FJDXNT66J) | [Clouded Transparency](https://open.spotify.com/artist/5vuqXzXIvJedvrLxiekZk7) | [The Lost Key](https://open.spotify.com/album/35gj3vp6JpqYF58z4VsA6q) | 2:40 | 2022-05-26 |  |
 | [The Search](https://open.spotify.com/track/0peigjQiQdgHe2JvdfMxSJ) | [David Elo](https://open.spotify.com/artist/6j82CtAMpY8Oa3unyVmriF) | [Small Steps](https://open.spotify.com/album/2m6MYnrmMXSd78Knb0AWjq) | 2:48 | 2022-11-22 |  |

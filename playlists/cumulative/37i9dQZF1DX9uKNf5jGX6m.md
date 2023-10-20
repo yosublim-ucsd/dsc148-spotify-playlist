@@ -4,7 +4,7 @@
 
 > New age music for balancing mind and body.
 
-732 songs - 1 day 12 hr 38 min
+734 songs - 1 day 12 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -49,6 +49,7 @@
 | [Altitude](https://open.spotify.com/track/5VpRhHsT7DhWRyzLq40dRw) | [Yves Alija](https://open.spotify.com/artist/6pUJ81I1hkjgVQ6TW448Lw) | [Altitude](https://open.spotify.com/album/4Wv2qeeio7rqXy3jPZuHuf) | 3:45 | 2023-01-03 |  |
 | [Always Sleepy](https://open.spotify.com/track/7j6asqjTGFFpjg9TR0H5us) | [Warren Blues](https://open.spotify.com/artist/3YG7KJgAF3q7udoynLzWXU) | [The East Wind](https://open.spotify.com/album/14GlV5L5ms2sQx8TQ2ygYW) | 3:22 | 2023-06-20 |  |
 | [Amethyst](https://open.spotify.com/track/3d1399HgDr0DSrnmd2EUIx) | [Spirit Minds](https://open.spotify.com/artist/3GrOqlDYHDtloOS3v1cnvD) | [Amethyst](https://open.spotify.com/album/1yXjEkY9ngLsAW8Fc1Hur5) | 3:02 | 2022-09-22 | 2023-01-04 |
+| [Amigo](https://open.spotify.com/track/0WoUPm1OTP4VCRRWnxAUQw) | [Estienne Battier](https://open.spotify.com/artist/1C1PKWXXTSanOX47bqzqCD) | [Amigo](https://open.spotify.com/album/3vnCMe4Ef2eZKeTT9KDNoN) | 3:23 | 2023-10-20 |  |
 | [Amygdala](https://open.spotify.com/track/5921nMZXq52f54Jv57BE80) | [Michel LeBond](https://open.spotify.com/artist/49r28kFLIBUEgxnjLUvUwA) | [Soulythical](https://open.spotify.com/album/30Vh9X9ijMHyg7lcpoejNK) | 3:38 | 2021-12-21 | 2022-03-25 |
 | [An Instant](https://open.spotify.com/track/1V1lNO1kMb2QngcOHz5d3y) | [Orieta Carvahal](https://open.spotify.com/artist/71sP1BkkbvMv0IcFu706Dt) | [An Instant](https://open.spotify.com/album/7qDfAr30rO5WSnzMe7EkEh) | 3:38 | 2022-06-22 | 2022-10-16 |
 | [Anachronic](https://open.spotify.com/track/28BhahBC2qOpui6ryXoCev) | [Jeila Sander](https://open.spotify.com/artist/1AhX9oQWyvwH5cYYSQbqUZ) | [Anachronic](https://open.spotify.com/album/4xvH0fR97sPN1K2NXajyLB) | 2:48 | 2022-11-25 |  |
@@ -126,6 +127,7 @@
 | [Calming Down](https://open.spotify.com/track/30kmgRQJxOJM8JmhLCTF33) | [Johann Eder](https://open.spotify.com/artist/0aCbxLi0ypSIj30oAT4T3o) | [Acceptance](https://open.spotify.com/album/5TifGwgK5S9VTApf5z4Qfx) | 3:36 | 2021-12-21 | 2022-07-29 |
 | [Calming Seas](https://open.spotify.com/track/6fAmC1bZzVgA9E5gNrdy5k) | [Grant Murdoch](https://open.spotify.com/artist/69MHZfuz6RQx3JpGl1OXB0) | [Calming Seas](https://open.spotify.com/album/6RZEo3ZuNrZadQxwmxbtra) | 2:50 | 2022-10-15 |  |
 | [Calming Waves](https://open.spotify.com/track/59ki9ZGsm75Vbl4WM6BVjJ) | [Axel Pacem](https://open.spotify.com/artist/62RbCNMx3dAEBpaW4ev3iy) | [Calming Waves](https://open.spotify.com/album/0pxJDyihqbjbxEvzk75Yee) | 2:45 | 2022-07-28 | 2022-09-02 |
+| [Calmness](https://open.spotify.com/track/0Yhhi1zOg9EPd9L1EKm2rL) | [Sleep Advisor](https://open.spotify.com/artist/0Il8fx16KHOeF6EdGdCgE6) | [Calmness](https://open.spotify.com/album/3T2qoCs1p71NzQcYsgubDO) | 2:35 | 2023-10-20 |  |
 | [Camhanaich](https://open.spotify.com/track/2F6BFHUBjSKs93yibWOHTC) | [Irizarry Barraza](https://open.spotify.com/artist/3l8Rz2GBf5iqZUpd4FjlLW) | [Camhanaich](https://open.spotify.com/album/5IhRfaQePJeNe1IYnpeeXk) | 3:07 | 2022-11-25 | 2023-06-21 |
 | [Caminando](https://open.spotify.com/track/6dnW0O6xZKlPvMe7TzU1yH) | [Jademaia](https://open.spotify.com/artist/3uwKWfXJqlKUArdZKjx0uo) | [Invierno](https://open.spotify.com/album/3UKA0KYjJIv0LlfgpXuhrD) | 2:33 | 2022-11-25 |  |
 | [Campanis](https://open.spotify.com/track/3dKEGve9GLAg0q8REFQpgY) | [Zibra Inguzu](https://open.spotify.com/artist/1LNciO7hxkWoSQ3V8OWNQF) | [Yoga Gong Karma](https://open.spotify.com/album/1T9xagnSXjguJIoXiidlly) | 3:04 | 2021-12-21 | 2022-03-25 |

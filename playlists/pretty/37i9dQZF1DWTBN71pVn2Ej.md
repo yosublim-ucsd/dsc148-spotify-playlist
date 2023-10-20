@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTBN71pVn2Ej.md) - [plain]
 
 > The best alternative rock tracks right now.
 
-[Spotify](https://open.spotify.com/user/spotify) - 79,992 likes - 61 songs - 3 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 80,039 likes - 61 songs - 3 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -70,4 +70,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTBN71pVn2Ej.md) - [plain]
 | 60 | [Moments of Clarity](https://open.spotify.com/track/35abwQmAZvwCPBPzuXWob1) | [Narrow Head](https://open.spotify.com/artist/4g6ODwOQYRZLsP89kEoBIu) | [Moments of Clarity](https://open.spotify.com/album/2tT3FSTvD9zx1c6QyZcYis) | 3:50 |
 | 61 | [Parasite](https://open.spotify.com/track/3arD7QPp1MCbaNT5DraorN) | [cursetheknife](https://open.spotify.com/artist/4BmrwEGjJ60tg79uY4OjRA) | [Parasite](https://open.spotify.com/album/0tnF85Qv9oNbmb5JLjPwrJ) | 3:50 |
 
-Snapshot ID: `MCwyYTMxNWZmNTllYzE5ZDI3NjljZWQ2ODM5MTBkMTQ3MGQyY2JlMWY1`
+Snapshot ID: `MCw3NDNiYzJhYzE0MTA5MTRhN2MxYzBlOWQwM2MyMzhiMmI2N2ZmYmQ3`

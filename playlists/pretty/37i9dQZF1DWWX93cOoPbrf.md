@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWX93cOoPbrf.md) - [plain]
 
 > Lo más fresco de la cosecha 2023\. Herencia de Grandes en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 788,848 likes - 75 songs - 3 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 789,068 likes - 75 songs - 3 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWX93cOoPbrf.md) - [plain]
 | 74 | [Yo Fui El 4 De Los Antrax](https://open.spotify.com/track/6yWZvj6xQW6axcJtns5Cba) | [Grupo H\-100](https://open.spotify.com/artist/6w971ABEzbDRQVUfcbYrl9) | [Yo Fui El 4 De Los Antrax](https://open.spotify.com/album/7ygPV1gBmEI8nJinZpQ7Cn) | 3:09 |
 | 75 | [Confesiones Del RR \- En Vivo](https://open.spotify.com/track/4sNBqV3HWzYtVgNo3BmYBN) | [Jovanny Cadena Y Su Estilo Privado](https://open.spotify.com/artist/0aaYORc6Zmp1SCXhRRDwNW), [El León Y Su Gente](https://open.spotify.com/artist/4q9U0JuiWGhcZEFREIGCVH), [Máxima Ventaja](https://open.spotify.com/artist/5I8HriBeRyNsjTLSHsok0N) | [Confesiones Del RR \(En Vivo\)](https://open.spotify.com/album/4hXmypcqmI3CtGa2WVAkYr) | 3:39 |
 
-Snapshot ID: `MCw4M2QzNDgzZWY1ZGIyMzc2YzlmNGQyYzMzMzZlMmEzMDQ1MWM2MDJj`
+Snapshot ID: `MCw1YzkzZjNmM2U2NWU0YjY5ZjZmMDFmMzE2MDc4ODBjZTVlNDYzMjhk`

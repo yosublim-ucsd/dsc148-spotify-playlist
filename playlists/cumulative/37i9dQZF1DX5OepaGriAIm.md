@@ -4,7 +4,7 @@
 
 > Trace the history of Jazz from timeless classics to boundary\-breaking contemporary favorites from the women of Jazz\. Cover: Diana Krall
 
-191 songs - 13 hr 45 min
+192 songs - 13 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -138,8 +138,9 @@
 | [Placement and Longing Pt\. 1](https://open.spotify.com/track/3rSWE0C3rFWpATVNVH4Tym) | [Allison Philips Trio](https://open.spotify.com/artist/5kdwPeI1XJ4Ktzue7y9RR7) | [Placement and Longing Pt\. 1](https://open.spotify.com/album/0JKgzNrlmMtcaCxxKt3NwW) | 4:29 | 2021-12-02 |  |
 | [Plain Gold Ring](https://open.spotify.com/track/4AxT7oW02TqO772n6SGrfh) | [Zara McFarlane](https://open.spotify.com/artist/2KwROtmoJfRcQHqDMiV6uo) | [Plain Gold Ring](https://open.spotify.com/album/2ODjvtrRFwJ2WCl7fL4uzQ) | 4:24 | 2021-12-02 | 2022-07-29 |
 | [Plain Gold Ring](https://open.spotify.com/track/0qmB617DPQzWDtOud8mMBr) | [Zara McFarlane](https://open.spotify.com/artist/2KwROtmoJfRcQHqDMiV6uo) | [If You Knew Her](https://open.spotify.com/album/193bc1u332JaugMRrR0U2g) | 4:25 | 2022-03-08 | 2023-04-29 |
+| [Plain Gold Ring](https://open.spotify.com/track/44M83sEYJvR5LVC8sRuuqc) | [Zara McFarlane](https://open.spotify.com/artist/2KwROtmoJfRcQHqDMiV6uo) | [If You Knew Her](https://open.spotify.com/album/024JPTAdAiUeNmy18sJKhU) | 4:25 | 2023-10-13 |  |
 | [Plain Gold Ring](https://open.spotify.com/track/5Af8UcsPDlzpjI1ONQnTzu) | [Zara McFarlane](https://open.spotify.com/artist/2KwROtmoJfRcQHqDMiV6uo) | [Plain Gold Ring](https://open.spotify.com/album/2vrUwiDuHCuAsYwZI0n2n5) | 4:25 | 2022-10-07 | 2022-11-13 |
-| [Plain Gold Ring](https://open.spotify.com/track/6T85DjTrwiWpKbHyH4139E) | [Zara McFarlane](https://open.spotify.com/artist/2KwROtmoJfRcQHqDMiV6uo) | [If You Knew Her](https://open.spotify.com/album/5i3Kx7Nd8VIKvwijUSmC6T) | 4:25 | 2023-04-27 |  |
+| [Plain Gold Ring](https://open.spotify.com/track/6T85DjTrwiWpKbHyH4139E) | [Zara McFarlane](https://open.spotify.com/artist/2KwROtmoJfRcQHqDMiV6uo) | [If You Knew Her](https://open.spotify.com/album/5i3Kx7Nd8VIKvwijUSmC6T) | 4:25 | 2023-04-27 | 2023-10-20 |
 | [Prisoner of Love](https://open.spotify.com/track/1z0mMUQ42n0iqwhkoe1VYi) | [Veronica Swift](https://open.spotify.com/artist/0YyqJ4bcQqxXdsdpgQPwtl) | [Prisoner of Love](https://open.spotify.com/album/7zfYly2CEtkKne6EukRXjw) | 4:16 | 2021-12-02 | 2022-07-29 |
 | [Prisoner of Love](https://open.spotify.com/track/7jB2MgZ6ljFZaB63kwoWer) | [Veronica Swift](https://open.spotify.com/artist/0YyqJ4bcQqxXdsdpgQPwtl) | [This Bitter Earth](https://open.spotify.com/album/46Kn3u0Fzlvo1Zmba26EB7) | 4:16 | 2022-03-08 |  |
 | [Put It on the Line](https://open.spotify.com/track/0akuFDd8Xaxa4RG8deniAM) | [China Moses](https://open.spotify.com/artist/2KqBple0Yu8pssNGNvWNmV) | [Nightintales](https://open.spotify.com/album/2xPn8Txu2xvgZxgMq4uYkq) | 4:11 | 2021-12-02 |  |

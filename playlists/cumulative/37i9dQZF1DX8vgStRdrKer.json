@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-10-19",
-  "description": "This playlist features gospel songs from Africa and beyond aimed at bringing you up close with the Lord. Cover:   <a href=\"https://open.spotify.com/artist/0ZH0SbRhX3D2vaRGvTU3Rh?si=6tLU95YaS7ixMwjqBA0i8g\">Kinsu</a>",
+  "description": "This playlist features gospel songs from Africa and beyond aimed at bringing you up close with the Lord. Cover:   <a href=\"https://open.spotify.com/artist/1PQcG2ep2nohJCMyRFyWlv?si=JGZaHsURREKywHzP75LqTA\">Nkay</a>",
   "name": "Redeemed",
   "tracks": [
     {
@@ -804,7 +804,7 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-20",
       "duration_ms": 208695,
       "name": "Sacrifices",
       "url": "https://open.spotify.com/track/3ydFeDJhwMSWRFJFA3jsfG"
@@ -1008,6 +1008,28 @@
       "duration_ms": 194580,
       "name": "What Are We Waiting For? (The Single)",
       "url": "https://open.spotify.com/track/1PILWAtGLdG772MCA51sZ6"
+    },
+    {
+      "album": {
+        "name": "Find Me",
+        "url": "https://open.spotify.com/album/2i6vGDEC1cSBDqNOanDu5b"
+      },
+      "artists": [
+        {
+          "name": "Nkay",
+          "url": "https://open.spotify.com/artist/1PQcG2ep2nohJCMyRFyWlv"
+        },
+        {
+          "name": "Still Shadey",
+          "url": "https://open.spotify.com/artist/7r4NtPJ0mYRidQYQtxq8sV"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174000,
+      "name": "When I Rise",
+      "url": "https://open.spotify.com/track/6Vcb3GG1I9Chhwcc4OFEVS"
     },
     {
       "album": {

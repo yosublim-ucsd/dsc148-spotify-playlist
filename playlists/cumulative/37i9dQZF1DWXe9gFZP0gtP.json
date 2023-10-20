@@ -2516,6 +2516,24 @@
     {
       "album": {
         "name": "Hills",
+        "url": "https://open.spotify.com/album/2Qoz4wkyZ0mXLwsdSryAZ0"
+      },
+      "artists": [
+        {
+          "name": "Sizmara",
+          "url": "https://open.spotify.com/artist/54kLR6UglFWK1l2EkHmTmX"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153464,
+      "name": "Hills",
+      "url": "https://open.spotify.com/track/1PZbzrqct1Hh4FkBkAH85N"
+    },
+    {
+      "album": {
+        "name": "Hills",
         "url": "https://open.spotify.com/album/4jgjzmK773C6q9NGVAtD0l"
       },
       "artists": [
@@ -2526,7 +2544,7 @@
       ],
       "date_added": "2023-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-20",
       "duration_ms": 153464,
       "name": "Hills",
       "url": "https://open.spotify.com/track/6rMM5c330kAz3wKRmH4IRn"
@@ -4272,7 +4290,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-20",
       "duration_ms": 209578,
       "name": "Out of time",
       "url": "https://open.spotify.com/track/0JJCzXYsTdoGIKjEadzwke"
@@ -4780,6 +4798,24 @@
       "duration_ms": 183750,
       "name": "Remembering",
       "url": "https://open.spotify.com/track/466TP56KLeLMOeUqe5KVnr"
+    },
+    {
+      "album": {
+        "name": "Fulfillment",
+        "url": "https://open.spotify.com/album/5SWH88F9SLOOO6JPiL9TyL"
+      },
+      "artists": [
+        {
+          "name": "Arietis",
+          "url": "https://open.spotify.com/artist/03NS5oA1PstBjCg4kwn6lH"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165738,
+      "name": "Reminded Me",
+      "url": "https://open.spotify.com/track/7rvrtcrQ9unsg7wybxu8tv"
     },
     {
       "album": {

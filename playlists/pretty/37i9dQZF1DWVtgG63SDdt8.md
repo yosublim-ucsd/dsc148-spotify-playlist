@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 
 > The best new tracks of all genres of Christian, Gospel, Worship & Inspirational music\.  Cover: <a href="spotify:artist:1L9zhXcitRv35NwUZmwBZ4">Jonny Henninger</a> and <a href="spotify:artist:2PCl4hx9Qds8sjcnoWUdqp">Sondae</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 312,076 likes - 100 songs - 6 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 312,178 likes - 100 songs - 6 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,7 +50,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 | 40 | [Never Fails](https://open.spotify.com/track/68RvOZBOf7NZUxdmMJsTxk) | [Steve Williz](https://open.spotify.com/artist/6vmZrSrRaqE5TrcQwjJKso), [Prospa Ochimana](https://open.spotify.com/artist/4tFkCYyWjDUXCHKqBpqw4g) | [Never Fails](https://open.spotify.com/album/06vRJZ83bINOBKqmRCSijv) | 5:14 |
 | 41 | [Jesus Name Above All Names \- Highlife Version](https://open.spotify.com/track/2tDzZHlf27HrP68HeqPnvX) | [KXC](https://open.spotify.com/artist/4IRzqqB9lt9kxz86QP0kpO), [Alice\-Lily](https://open.spotify.com/artist/34Wg7Ym4mUTCJzQTiM8Pi4) | [Jesus Name Above All Names \(Highlife Version\)](https://open.spotify.com/album/6sEPCBeFOUIKMWgY3c6nyx) | 4:30 |
 | 42 | [Praise The Lord \- Live](https://open.spotify.com/track/6vLfrfDrcCfw1EkNgFQdhG) | [Rock City Worship](https://open.spotify.com/artist/3yAv8udgy9z6yF6rREcgfB) | [Testify \- EP \(Live\)](https://open.spotify.com/album/79dfXsRzT8FwQFJ1FlK93I) | 6:35 |
-| 43 | [If I Was A Bird](https://open.spotify.com/track/68u03f6kSYGcz41t9ypqSd) | [Mission House](https://open.spotify.com/artist/1kfAQBrI7qZInqadGFtW8C), [Dee Wilson](https://open.spotify.com/artist/7C1I0Npw9kRe5vPDhm0adW), [Jess Ray](https://open.spotify.com/artist/7pPNHLzwbrHYlCMTftK3A3), [Taylor Leonhardt](https://open.spotify.com/artist/1OUylyH2arsswxRe6dOz3i) | [If I Was A Bird + Abide](https://open.spotify.com/album/5BJ3hluoz34yMq4Oj4Z3NI) | 6:33 |
+| 43 | [If I Was A Bird \- Live](https://open.spotify.com/track/68u03f6kSYGcz41t9ypqSd) | [Mission House](https://open.spotify.com/artist/1kfAQBrI7qZInqadGFtW8C), [Dee Wilson](https://open.spotify.com/artist/7C1I0Npw9kRe5vPDhm0adW), [Jess Ray](https://open.spotify.com/artist/7pPNHLzwbrHYlCMTftK3A3), [Taylor Leonhardt](https://open.spotify.com/artist/1OUylyH2arsswxRe6dOz3i) | [If I Was A Bird + Abide \(Live\)](https://open.spotify.com/album/5BJ3hluoz34yMq4Oj4Z3NI) | 6:33 |
 | 44 | [High Tide](https://open.spotify.com/track/672QDMWdWFchsZEA52hOg3) | [7 Hills Worship](https://open.spotify.com/artist/0SLXOHoqcGPOsH9RZETtp1) | [High Tide](https://open.spotify.com/album/7DV8lsfYOWnHywy6YrgFXP) | 5:09 |
 | 45 | [NAMES](https://open.spotify.com/track/4L8YperO7Cb7nhZfIy5eAY) | [Ben Laine](https://open.spotify.com/artist/6S02dGCF9U11e99CrZOmYj) | [NAMES](https://open.spotify.com/album/7KHgymESdh3enYkMorYT35) | 4:33 |
 | 46 | [When You Run](https://open.spotify.com/track/3NEk3WLjvu1NmgTRTb2Fjq) | [Cliff Preston](https://open.spotify.com/artist/3wIWw1KUDe4DDgbsuQidCS), [The Band Table](https://open.spotify.com/artist/67IX3oYVot7E779xGELk4L), [People & Songs](https://open.spotify.com/artist/0DLoqaxhfWU5litFyzLqn8) | [When You Run](https://open.spotify.com/album/3EIKh1Wf73vWW8Oc8PtWX4) | 4:08 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 | 99 | [Go Tell It](https://open.spotify.com/track/4wzFTSSj7cKpso1g9PIAEr) | [Forrest Frank](https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ) | [Go Tell It](https://open.spotify.com/album/7zxSymD8q1DYZ0S4CKleNZ) | 2:43 |
 | 100 | [Say So \(Broken Halo\)](https://open.spotify.com/track/5VOGsx6cUWLeuHil1t1GNN) | [Apollo LTD](https://open.spotify.com/artist/2H3EMYFS69dhMmrX9JTkZp) | [Say So \(Broken Halo\)](https://open.spotify.com/album/3xTTSloMnGebuLtayYFccC) | 2:38 |
 
-Snapshot ID: `MCw2YzE4MmM0ZmM2MTlkNWIyYmQ2ZTI4ZjkxMGU0YWM3ZjY4NmIyZDVj`
+Snapshot ID: `MCxiOWJlM2YxNGY4OGM0NGVmZGRmNmZhMzUxODI4YjkxYTliNTQxNGZk`

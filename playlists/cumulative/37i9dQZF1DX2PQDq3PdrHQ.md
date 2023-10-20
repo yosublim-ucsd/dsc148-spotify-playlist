@@ -4,7 +4,7 @@
 
 > Instrumental beats for a restful night's sleep.
 
-636 songs - 1 day 0 hr 36 min
+638 songs - 1 day 0 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -181,6 +181,7 @@
 | [Enchanted](https://open.spotify.com/track/1inhsOmdJMXWnNEbEGVOZ2) | [Moetown](https://open.spotify.com/artist/62j9JVhnSbDgA6ADHCBNPz), [Sheath](https://open.spotify.com/artist/0IlAtf4VeHUzQYRM8GMWXw), [reysi](https://open.spotify.com/artist/2ma4p5K4XNOuJAZLlIHouS) | [Into the Unknown](https://open.spotify.com/album/2w8d5M1kvblFrAcc23XTNh) | 2:25 | 2022-10-28 |  |
 | [ether](https://open.spotify.com/track/4zrOqot4vi27IPPQ7u1B2l) | [kyoshi](https://open.spotify.com/artist/3f07ZRsXK7XDJfccmAJNi1) | [drifting off](https://open.spotify.com/album/7g0HJ1tAmHfR28Bg5hQKVU) | 2:58 | 2022-05-20 | 2022-09-17 |
 | [ether](https://open.spotify.com/track/7u4BjXWmBGN3LPvw0YnO92) | [kyoshi](https://open.spotify.com/artist/3f07ZRsXK7XDJfccmAJNi1) | [drifting off](https://open.spotify.com/album/3RHnY2PruOa8SLZyNbG22Y) | 2:58 | 2022-09-16 | 2023-01-20 |
+| [ethereal](https://open.spotify.com/track/4fC9s3NtmRHeK1B3xJC45M) | [louke's beats](https://open.spotify.com/artist/2dr9SIsVpmN3ijGzjsnT0E) | [ethereal](https://open.spotify.com/album/0UZKU872aVTdCf71eDHLkH) | 2:26 | 2023-10-20 |  |
 | [Even After](https://open.spotify.com/track/6ZrXmTGrIrXJ5dYCJi9YJs) | [So.Lo](https://open.spotify.com/artist/5vxaqyEjb7eMVm9bUnbwQj), [Goson](https://open.spotify.com/artist/3b0TLzX6FkeQvv9daBtFBe) | [Even After](https://open.spotify.com/album/7fjdQgP1T2Ipa9VMFHebgv) | 2:17 | 2022-07-08 |  |
 | [Evening Glow](https://open.spotify.com/track/5YmgGYuvTRawhddL0tesXV) | [Devon Rea](https://open.spotify.com/artist/5r4pQdeOkSMx1y2NNMDSlu) | [Evening Glow](https://open.spotify.com/album/7GnD0GoF9I8gMiHJTLgAtD) | 2:29 | 2022-05-27 | 2023-07-18 |
 | [evergreen](https://open.spotify.com/track/2SCLWAhvc18f3NPNdfeoTi) | [prospr.](https://open.spotify.com/artist/5BAnm1BkaWpBtvfABJvSzf), [Lifted LoFi](https://open.spotify.com/artist/0rgw0PdrFhmiayr1srwKkH) | [evergreen](https://open.spotify.com/album/35YDouLHRLwcSu89MBAotr) | 2:22 | 2022-06-03 | 2023-02-07 |
@@ -367,6 +368,7 @@
 | [moonlight](https://open.spotify.com/track/0tgOSi0Ew7wPIm1TyA3YPJ) | [drmycat](https://open.spotify.com/artist/50gpOabMr60yHviIA8gNY6) | [moonlight](https://open.spotify.com/album/0HBJZGo9r9xT0Dlhu6xcEh) | 2:12 | 2022-08-05 | 2023-07-18 |
 | [Moonlight](https://open.spotify.com/track/6WDUcgnQGHLDvu8iVP5VIM) | [Hocoro Beats](https://open.spotify.com/artist/0nJsfTU9WQgy4iER7rcbmJ) | [Moonlight](https://open.spotify.com/album/01Vz817482mLFogOI1e2zV) | 2:16 | 2022-06-24 | 2022-08-12 |
 | [Moonlight](https://open.spotify.com/track/6zJuCh8h890yf11u78TSLq) | [hushfall](https://open.spotify.com/artist/6wPZ8OOl7FlpRa1aUejY47), [irons](https://open.spotify.com/artist/4LbLkMAECFLrhXADjgT8Jn) | [Moonlight](https://open.spotify.com/album/5s9vXyaUaeQiop5EqTAYCQ) | 2:24 | 2022-05-20 | 2023-01-20 |
+| [Moonlight](https://open.spotify.com/track/0lPJh8EP9kStGPLw1IC4a0) | [Slumbering Elk](https://open.spotify.com/artist/3W4MGKEEUJe6RfPWvIq5Nc) | [Moonlight](https://open.spotify.com/album/5M9gQ8RqT4Ryqgmf0qv98E) | 2:23 | 2023-10-20 |  |
 | [Moonlight](https://open.spotify.com/track/0GJoH4mJRcB1NMA0sjdITI) | [SpoonBeats](https://open.spotify.com/artist/4oEls8QwyhaJninX4RFdcl) | [Moonlight](https://open.spotify.com/album/49G2tV3RB5YLfa9OM3reCv) | 2:11 | 2023-08-29 |  |
 | [Moonlit Lake](https://open.spotify.com/track/6QISW6d8YAHaMlyqU7ftqM) | [Mondo Loops](https://open.spotify.com/artist/1XFN3VcuKr4tsTtQlRiTgK), [Aiguille](https://open.spotify.com/artist/3MhGQxnXMGb8fgTlAqcxeu) | [Moonlit Lake](https://open.spotify.com/album/3bDsCHRo37R47zMD21eWs3) | 2:45 | 2022-07-01 |  |
 | [Moonscape](https://open.spotify.com/track/4jf6xXgvgVnXDMUNBAXTQ2) | [Krynoze](https://open.spotify.com/artist/3iGthn6RykA9JUHnilAIr0), [Sweet Medicine](https://open.spotify.com/artist/0CF9CnQbK6uS8u78KVnIPv), [G Mills](https://open.spotify.com/artist/0djvqMepj2XkHfvWTqkH1N) | [A Quiet Place](https://open.spotify.com/album/6qddHV8GGqTuSawsntlL5k) | 2:25 | 2022-12-12 | 2023-08-30 |
@@ -519,7 +521,7 @@
 | [slow move](https://open.spotify.com/track/3xpUN6eBlBi3P4ZPu7xBBy) | [hinako fukushi](https://open.spotify.com/artist/5glOFLmRNoXs1AC2jGYS6j) | [slow move](https://open.spotify.com/album/05QCXiRLNm7LJF9xp9j2wf) | 2:22 | 2023-01-13 |  |
 | [SLOWLY](https://open.spotify.com/track/13hIl9viyBhvPoLVag7BnQ) | [Sorsele](https://open.spotify.com/artist/2tTcT2ddh1bHSEsdLjLfpw) | [Slowly](https://open.spotify.com/album/0176EEPWJGAUTmjeetjYej) | 2:19 | 2023-03-01 |  |
 | [Smile Up](https://open.spotify.com/track/7lR1Eqou30iTbm75DHiPpL) | [Siktem](https://open.spotify.com/artist/3k4YXZEqBj8L4UsiPf8fgr) | [Smile Up](https://open.spotify.com/album/4LEXn8d1a2Qm7QLCR3xtPV) | 2:09 | 2022-06-10 | 2023-08-30 |
-| [smooth](https://open.spotify.com/track/5G8kS7n1eK2HShhGGjwm5q) | [Cat Dreams](https://open.spotify.com/artist/5FcssevMYhJmgxxVmIUkH1) | [smooth](https://open.spotify.com/album/6NZZ3hzPK50uVIpzLrD512) | 2:37 | 2023-07-17 |  |
+| [smooth](https://open.spotify.com/track/5G8kS7n1eK2HShhGGjwm5q) | [Cat Dreams](https://open.spotify.com/artist/5FcssevMYhJmgxxVmIUkH1) | [smooth](https://open.spotify.com/album/6NZZ3hzPK50uVIpzLrD512) | 2:37 | 2023-07-17 | 2023-10-20 |
 | [So Delightful](https://open.spotify.com/track/1gXIL1uhqbYLPvoEaHETed) | [Lo\-Fi Luke](https://open.spotify.com/artist/02CSsXlCyOTZgxKnmxweqc), [Crispy](https://open.spotify.com/artist/0FeKA3PTgdvhkEPyuVNJ8g) | [So Delightful](https://open.spotify.com/album/6JN2nu4e3qHtUC7vK9Ouhi) | 2:42 | 2023-01-20 | 2023-09-29 |
 | [Soft again](https://open.spotify.com/track/2JuQLeE0uxIsau25MlilQB) | [Socrab](https://open.spotify.com/artist/7zAOggQGCRZo03b0cTR3NB) | [Soft again](https://open.spotify.com/album/71mqo1FeVSpwXLfZuhihhH) | 2:28 | 2022-08-19 | 2022-09-30 |
 | [Soft As Snow](https://open.spotify.com/track/0wqfY3YTz0VS0motqaCZZ0) | [Cassette Treasures](https://open.spotify.com/artist/3oF0M86slqb8GWlqB2JXZw) | [Soft As Snow](https://open.spotify.com/album/2rrg5QWWaPDpsEQf1Yg5M2) | 1:58 | 2023-01-06 |  |

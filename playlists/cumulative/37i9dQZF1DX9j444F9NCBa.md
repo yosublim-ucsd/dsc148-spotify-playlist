@@ -4,7 +4,7 @@
 
 > Gentle instrumental covers of known songs.
 
-520 songs - 1 day 2 hr 27 min
+526 songs - 1 day 2 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -91,6 +91,7 @@
 | [Can't Stop The Feeling](https://open.spotify.com/track/5VgeeaV1T4nB79tqNnPti0) | [Nick Morales](https://open.spotify.com/artist/54hfWstQiYCPpIxmNFTWTa) | [Can't Stop The Feeling](https://open.spotify.com/album/72o6QQid3mYqEyMrHaTAUc) | 2:47 | 2022-01-21 | 2022-10-29 |
 | [Can't Stop This Feeling](https://open.spotify.com/track/4GlJ1fHjO8ZChYRDcrwFr8) | [Kit Sutton](https://open.spotify.com/artist/0mqyygSn1RlqnfLsUqOjCh) | [Can't Stop This Feeling](https://open.spotify.com/album/5JQvrqriLPbqUgJCpp8JA8) | 3:01 | 2023-04-14 | 2023-06-03 |
 | [Careless Whisper](https://open.spotify.com/track/3WpgHSVHeSPJXRLSYDJ2kW) | [Diego Bellucci](https://open.spotify.com/artist/1wkbTJShPHkMwIWUaMY6KZ) | [Acoustic Guitar Covers II](https://open.spotify.com/album/5oIcVw7vCzKHtvxTIcLA7d) | 3:12 | 2023-06-08 | 2023-08-11 |
+| [Castle on the Hill](https://open.spotify.com/track/50rkiMIech8x1lf3YtNVAS) | [Vic Carnes](https://open.spotify.com/artist/3b0FZ0avKzKFw9ZEJacpx0) | [Castle on the Hill](https://open.spotify.com/album/2eTKkBOv6vCCYyLXxFfoVa) | 3:02 | 2023-10-20 |  |
 | [Changes](https://open.spotify.com/track/1sPIqn1zSzBH6XSRN33L4e) | [Benjamin Pirlo](https://open.spotify.com/artist/7KiohRn8uUjyrxcn8cfKxB) | [Changes](https://open.spotify.com/album/3EPmgFC6pA8SYeIRMJWwMJ) | 3:09 | 2023-10-06 |  |
 | [Chasing cars](https://open.spotify.com/track/2mZRkIWQS1hqjLeCOFOoOL) | [Anissa Henderson](https://open.spotify.com/artist/7hWN9tSQOmj0pafX5UWsjE) | [Somewhere only we know](https://open.spotify.com/album/7sTmrR8KKOUvFIM1RgeSbx) | 3:40 | 2022-12-02 | 2023-04-14 |
 | [Chasing Cars](https://open.spotify.com/track/1L6AJIHq3ZQEBVGGvlltTp) | [Payton Howard](https://open.spotify.com/artist/46FYL5s6ojrHCMVeOCMq53) | [Chasing Cars](https://open.spotify.com/album/43yyM9q71QSiFRV2ZriGcq) | 2:40 | 2023-04-14 |  |
@@ -135,6 +136,7 @@
 | [Every Breath You Take](https://open.spotify.com/track/1RjNPuM8U0SWtPTnUzIXhG) | [Bart Cohen](https://open.spotify.com/artist/0QBLDqfkyZjtQJPlLeLvQh) | [Every Breath You Take](https://open.spotify.com/album/5tpnMfk0ZIYsjnwwsmzntv) | 2:45 | 2022-12-02 |  |
 | [Every Breath You Take](https://open.spotify.com/track/3qLlQ4RLl3B8PaEdIG6H0d) | [Tomas Lee](https://open.spotify.com/artist/4gAbYtySCDOGOXHEUjrQVe) | [Every Breath You Take](https://open.spotify.com/album/2OhAmXifsCYytlfNT5hRKB) | 3:47 | 2022-01-21 | 2022-12-02 |
 | [Everybody Hurts](https://open.spotify.com/track/28xm4Duefml0Tbk0T7ptIq) | [Lucian Byrne](https://open.spotify.com/artist/76JjyD3D3gmVw6h9Do2T2C) | [Everybody Hurts](https://open.spotify.com/album/1Kj4nj2ak9FzlEBSlX9zDq) | 2:33 | 2023-04-14 |  |
+| [Everybody's Changing](https://open.spotify.com/track/67IbvYxDxsgmgGa5XKj1d6) | [Sinead Fisher](https://open.spotify.com/artist/50JqVZOiKb0Rbeeeg8XJhz) | [Everybody's Changing](https://open.spotify.com/album/2ZQgqizSwUEQ69bmBBVkuo) | 3:22 | 2023-10-20 |  |
 | [Everytime](https://open.spotify.com/track/6JiJFGJOTJkQRoedadMhN8) | [Sarah Bowman](https://open.spotify.com/artist/2Wz8oWJF4XcdrxJeFkkWJI) | [Memories](https://open.spotify.com/album/6mHaTfEd8SfwreuI0Lh9AJ) | 4:05 | 2022-01-21 |  |
 | [Eye to Eye](https://open.spotify.com/track/5tIM8Dt62vUmgtRWdPIojK) | [Casimir Roux](https://open.spotify.com/artist/1IOFwDA1p2w7uEVaKXvHXW) | [Eye to Eye](https://open.spotify.com/album/6NgcOqej4Qo0xzw9cjNEVU) | 2:26 | 2022-12-16 |  |
 | [Fairytale](https://open.spotify.com/track/3nEy4BBcsUD9M2A45rLjkR) | [Taylor Bernette](https://open.spotify.com/artist/7vHCdssDmnIs4w9Q3osvKV) | [Fairytale](https://open.spotify.com/album/5vj9fKh95WbicPH55sVfeg) | 2:18 | 2023-01-20 |  |
@@ -316,6 +318,7 @@
 | [Moral Of The Story](https://open.spotify.com/track/6vb4cTyfOUuNUUNEaVICNj) | [Dani Mezzo](https://open.spotify.com/artist/6zRcJmTuAiLb7AHX7WLB1n) | [Moral Of The Story](https://open.spotify.com/album/62uE56qivExWUDjBJnzpwj) | 3:26 | 2022-12-02 |  |
 | [More Than Words](https://open.spotify.com/track/1L0jNfvlHUmlsZ9jZKQ16p) | [Elisa Couvez](https://open.spotify.com/artist/6wTOHmwrxnusgajauHkJ6s) | [More Than Words](https://open.spotify.com/album/47wXrjLN0MlwWwptEi1JHE) | 3:04 | 2022-10-14 |  |
 | [Morning Has Broken](https://open.spotify.com/track/0jLoULVwUgZkrqNC7JlSeE) | [Noah Jacob](https://open.spotify.com/artist/4Z5swVp8qC7FbtzOkNaChH) | [Morning Has Broken](https://open.spotify.com/album/4VfjuDo8r7kVuyqQPN9fdG) | 2:55 | 2022-10-14 |  |
+| [Moves Like Jagger](https://open.spotify.com/track/6zc8GnAqooH79uEs2kZmTb) | [Lukas Glenn](https://open.spotify.com/artist/5ynIpFDk091P5NvdaMsrEO) | [Moves Like Jagger](https://open.spotify.com/album/5m3fTHK0aSuD0OBFtxYCsi) | 2:55 | 2023-10-20 |  |
 | [My Favorite Things](https://open.spotify.com/track/29Z43s5cYYulFEkGJYMLkb) | [Thierry Marchal](https://open.spotify.com/artist/5AENpX9I8MY8ptOAihBszp) | [My Favorite Things](https://open.spotify.com/album/678aa3LRKcsZilzocaADh1) | 2:53 | 2023-01-06 | 2023-03-18 |
 | [my future](https://open.spotify.com/track/3tj775u3IAgXrMxxMqtG8k) | [Diana Juliet](https://open.spotify.com/artist/1BlPnxWt0crhcYDCPS8GeV) | [my future](https://open.spotify.com/album/7ELa0S1mF1IAk6uTAaYv34) | 3:33 | 2022-01-21 | 2023-03-25 |
 | [My Girl](https://open.spotify.com/track/47roQazXWhrHvl61NVGTF2) | [Playing To Pitch In](https://open.spotify.com/artist/6TRj5grL3SgjzITEJyMOx5) | [My Girl](https://open.spotify.com/album/17VtHnIsNBJYn9Ym8hOzyG) | 3:23 | 2022-09-30 | 2022-10-29 |
@@ -326,6 +329,7 @@
 | [Nights in white satin](https://open.spotify.com/track/2j8e5FzNDN1Qs0mAcCUzgN) | [Winston Brey](https://open.spotify.com/artist/5PTB02QceIVI0Fogokj6v7) | [Nights in white satin](https://open.spotify.com/album/4PO6LHupf2iLLOP13enrOl) | 2:06 | 2023-09-22 |  |
 | [No Surprises](https://open.spotify.com/track/51sVrKfRknbj5PGg3dVspr) | [Odette Pineda](https://open.spotify.com/artist/2Eiqzzb4kGdlWttizRLpaw) | [No Surprises](https://open.spotify.com/album/4xge3Hsn6XDhchQEElHkG9) | 3:38 | 2023-04-14 |  |
 | [Nothing Compares 2 U](https://open.spotify.com/track/0rPLpzCJKIwMkM5GHZNm4F) | [Isobel Fontenay](https://open.spotify.com/artist/17qS41Pzc9yp8aOWJiey0Z) | [Nothing Compares 2 U](https://open.spotify.com/album/2DNhkwLs1DMGYrQjBbamuF) | 3:13 | 2022-01-21 | 2023-04-29 |
+| [Nothing Compares to You](https://open.spotify.com/track/1Y1EQY6SvWIelDrbGPoGTO) | [Rhys Wells](https://open.spotify.com/artist/4im1JHdAIz4yOsjizlGZzt) | [Nothing Compares to You](https://open.spotify.com/album/3MKo4eOVqTJeokHlNJ6UMh) | 2:58 | 2023-10-20 |  |
 | [Numb \- Piano](https://open.spotify.com/track/0K7yOelIWqEZhn3YUZU70M) | [The Bedtime Orchestra](https://open.spotify.com/artist/2YNrq9cmdroJa9v8kmKmsr) | [Numb & I Ain't Worried \(Piano\)](https://open.spotify.com/album/2H6UhZkk0YaZ5lr8Vt15O5) | 2:10 | 2022-10-14 | 2023-04-12 |
 | [Numb \- Piano](https://open.spotify.com/track/5AYOA5nvtsFxEteyELq2Ki) | [The Bedtime Orchestra](https://open.spotify.com/artist/2YNrq9cmdroJa9v8kmKmsr) | [Relaxing Pop Piano Covers](https://open.spotify.com/album/6RInRZcSuXuuJFAMFkKdEy) | 2:10 | 2023-03-24 | 2023-06-03 |
 | [Old Town Road](https://open.spotify.com/track/0KUi4dptCJzeEHPr38B7j9) | [Loftet](https://open.spotify.com/artist/7JWt3Kh3FNVfaVQptxoT12) | [Diamonds](https://open.spotify.com/album/2iYGCPpY33blb2OeqDMJ3n) | 2:22 | 2023-05-12 |  |
@@ -338,7 +342,7 @@
 | [Over The Rainbow](https://open.spotify.com/track/4FWCkMiJX3Layn0g8P743S) | [Christian Lindquist](https://open.spotify.com/artist/2QiW536ikg1NgIkaCvRg8s) | [Over The Rainbow](https://open.spotify.com/album/4ewYdHP2TpZhrdxdCgFQCK) | 3:29 | 2022-10-28 | 2023-04-29 |
 | [Paint It Black \(Piano Instrumental\)](https://open.spotify.com/track/1JIZyPwBqHje2dzKXoONSy) | [Playa Piano](https://open.spotify.com/artist/163PshEvNd3i3RdxHXGTii) | [Paint It Black \(Piano Instrumental\)](https://open.spotify.com/album/772xaFGzw2bjGQHJuqAru4) | 2:55 | 2022-09-30 | 2023-03-18 |
 | [Paradise](https://open.spotify.com/track/0Q6QAQvZkxtnxiF6ihs5MU) | [Ivy Parry](https://open.spotify.com/artist/1yOVQN4qupWRciASq2Fz6I) | [Paradise](https://open.spotify.com/album/6o5K74D9l5UhzsSNvNu1x1) | 2:16 | 2022-10-28 |  |
-| [Pastime Paradise](https://open.spotify.com/track/32XwdgtZKcRtpDu0rt3z34) | [Luis Diseminado](https://open.spotify.com/artist/7HxrZhLg59A2fZKgDWbebz) | [Guitar Covers](https://open.spotify.com/album/41FqGppViwn20HibrPfdmx) | 2:56 | 2023-04-14 |  |
+| [Pastime Paradise](https://open.spotify.com/track/32XwdgtZKcRtpDu0rt3z34) | [Luis Diseminado](https://open.spotify.com/artist/7HxrZhLg59A2fZKgDWbebz) | [Guitar Covers](https://open.spotify.com/album/41FqGppViwn20HibrPfdmx) | 2:56 | 2023-04-14 | 2023-10-20 |
 | [Payphone](https://open.spotify.com/track/2UwA54hqWikeB4cnSD9Pje) | [Pequeño Casero](https://open.spotify.com/artist/78lsXTokMcrytsGHc6jtf9) | [Payphone](https://open.spotify.com/album/1UOZ6SGMGW1NWkq9vM3JTt) | 3:24 | 2023-09-22 |  |
 | [Peaches \- Piano](https://open.spotify.com/track/3ZnxEuvghnpte4SGlRbIXF) | [The Bedtime Orchestra](https://open.spotify.com/artist/2YNrq9cmdroJa9v8kmKmsr) | [Relaxing Pop Piano Covers](https://open.spotify.com/album/6RInRZcSuXuuJFAMFkKdEy) | 3:05 | 2023-03-24 | 2023-04-29 |
 | [Peaches \- Piano](https://open.spotify.com/track/6oLOJuEZ0PL00wODRJ4Y9G) | [The Bedtime Orchestra](https://open.spotify.com/artist/2YNrq9cmdroJa9v8kmKmsr) | [Peaches \(Piano\)](https://open.spotify.com/album/1q5CYDmxIcFSwjru9zJovW) | 3:05 | 2022-12-16 | 2023-04-12 |
@@ -482,6 +486,7 @@
 | [We Found Love](https://open.spotify.com/track/4JfQOPFcJBaG2P0EnquSlV) | [Josiah Burton](https://open.spotify.com/artist/7kHFdYLloUUlagYelqPEQ7) | [We Found Love](https://open.spotify.com/album/6cgaV6vKjXx8ca75asRIni) | 3:15 | 2023-04-14 |  |
 | [What A Wonderful World](https://open.spotify.com/track/69bWzUfWI7uL17QFyrqkGN) | [Jason Lumen](https://open.spotify.com/artist/071OvtGYQ4tEbj8YMxN0du) | [Isn't She Lovely](https://open.spotify.com/album/0H28qHLOBGRbjTJxT0jwuv) | 3:14 | 2023-03-17 | 2023-08-11 |
 | [What a wonderful world](https://open.spotify.com/track/01qdqaZOIx9JIlsvIvTa33) | [Wayne Mack](https://open.spotify.com/artist/62eR2vdahhu9BuJesGEQCI) | [Wayne Mack](https://open.spotify.com/album/4rfj34FpgZZvfxUUXda0oU) | 2:23 | 2022-01-21 | 2023-03-18 |
+| [What About Us](https://open.spotify.com/track/25wH8e8sodLucMgphXuGyi) | [Ron Marks](https://open.spotify.com/artist/0RCGr51rcB8GCdBZEHnpXX) | [What About Us](https://open.spotify.com/album/5aitqxtgtR1OuMcYHTuFcD) | 4:03 | 2023-10-20 |  |
 | [What Is Love](https://open.spotify.com/track/3tKauD5kFXQb4cju242NMv) | [Vakur Svalason](https://open.spotify.com/artist/6yfv7Ftp3LxeYueOlidnZ3) | [Say My Name](https://open.spotify.com/album/0LAO785ee5Dx0SNTMApanL) | 2:53 | 2023-03-17 | 2023-06-03 |
 | [What Was I Made For?](https://open.spotify.com/track/5yhPNVqJog8cR2e8AWADO6) | [Bea Westphal](https://open.spotify.com/artist/1WYKnoHGJ7nwH1S9SyZsYc) | [What Was I Made For?](https://open.spotify.com/album/1B034YD9BTZoSI4l6WCXuK) | 3:01 | 2023-09-08 |  |
 | [When I Held Ya](https://open.spotify.com/track/7lNpAXqQVSUjmaVDMljWPp) | [Isobel Fontenay](https://open.spotify.com/artist/17qS41Pzc9yp8aOWJiey0Z) | [When I Held Ya](https://open.spotify.com/album/0SK2OyGdMTXcayeC3M4X3v) | 3:10 | 2022-12-16 |  |
@@ -512,6 +517,7 @@
 | [Yellow](https://open.spotify.com/track/27DodeB1seENJxnWojPa6G) | [Walter Penn](https://open.spotify.com/artist/2CWnlvisVPTCncNKI0k3U9) | [Yellow](https://open.spotify.com/album/6ogaGgYB25jgZmCo405fq6) | 2:31 | 2023-03-17 |  |
 | [Yesterday](https://open.spotify.com/track/0EDfjeCbmClKsJF4GSZHlS) | [Chris Island](https://open.spotify.com/artist/2ul9XiZKBUguKSAl2b1His) | [Yesterday](https://open.spotify.com/album/0Ct4wtaDMViZzeyhjJozpc) | 3:10 | 2022-10-14 | 2022-12-02 |
 | [Yesterday](https://open.spotify.com/track/6xn1NNoi7RcrFK1zzX3YRg) | [Joseph Vaux](https://open.spotify.com/artist/3xeLXw1KYDFIZlod0XGHr1) | [Yesterday](https://open.spotify.com/album/3vH4vxMmOITNPGaORvzGdT) | 3:03 | 2022-12-02 |  |
+| [YMCA](https://open.spotify.com/track/5WLMPMlxqaLtfxkPfZXcAI) | [Winston Brey](https://open.spotify.com/artist/5PTB02QceIVI0Fogokj6v7) | [YMCA](https://open.spotify.com/album/6RImlcwKtHJmr3eiBmUQOE) | 2:12 | 2023-10-20 |  |
 | [You And I](https://open.spotify.com/track/7suanns4dc723GDVQ1V3MH) | [Matthew Rai](https://open.spotify.com/artist/5BqSUu52p300lc3r4riijz) | [You And I](https://open.spotify.com/album/1Ayycq9VDkdqrhj4UbQP3D) | 2:52 | 2023-02-10 |  |
 | [You Are The Reason \- Piano Version](https://open.spotify.com/track/2F05YYG6v1eYXMRlJrPBLX) | [Arden Brooks](https://open.spotify.com/artist/1u0BwfDCRUJ9WlO9YVpZ1m) | [Famous Songs on Piano 1](https://open.spotify.com/album/2v5hcKlCisxBRszKsSUzOe) | 3:59 | 2022-12-02 |  |
 | [You Are The Sunshine Of My Life](https://open.spotify.com/track/5WAQrNbnEDGOk1f3aLHOv6) | [Diego Bellucci](https://open.spotify.com/artist/1wkbTJShPHkMwIWUaMY6KZ) | [Acoustic Guitar Covers](https://open.spotify.com/album/4gcOb5WxltsSyhSfXS5uzI) | 2:29 | 2023-03-24 |  |

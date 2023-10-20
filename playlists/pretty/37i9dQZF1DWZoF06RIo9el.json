@@ -1,12 +1,12 @@
 {
   "description": "Lo mejor de octubre 2023",
-  "num_followers": 1536189,
+  "num_followers": 1536212,
   "original_name": "Lo mejor del mes",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmNGUyNzZjNTFhODczMTRkMjU5MzA2NmYyZTQ0MGRjYzY1OGQzMzk4",
+  "snapshot_id": "MCxiM2RiYjUxNDc2OTI4ZDZmYzc4YWE3ZjhjMzJkOTk1Mzg3ZTlkNmZl",
   "tracks": [
     {
       "added_at": "2023-10-12 21:24:35",
@@ -575,6 +575,22 @@
     {
       "added_at": "2023-10-12 21:24:35",
       "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/3ALicRgy6brNAYjFQPOFli"
+      },
+      "artists": [
+        {
+          "name": "Judeline",
+          "url": "https://open.spotify.com/artist/1H6X7yhnXZg73f9bssaj1Q"
+        }
+      ],
+      "duration_ms": 151214,
+      "name": "La Tortura - Spotify Singles",
+      "url": "https://open.spotify.com/track/5WW6WJUxZsfHF7Na5wwE02"
+    },
+    {
+      "added_at": "2023-10-12 21:24:35",
+      "album": {
         "name": "Podemos Repetirlo (Remix)",
         "url": "https://open.spotify.com/album/4QdedxNqGOqlhRPJpUlqMK"
       },
@@ -595,22 +611,6 @@
       "duration_ms": 280868,
       "name": "Podemos Repetirlo (Remix)",
       "url": "https://open.spotify.com/track/2OrVAG7wJfQ9HIlZM33Bd6"
-    },
-    {
-      "added_at": "2023-10-12 21:24:35",
-      "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/3ALicRgy6brNAYjFQPOFli"
-      },
-      "artists": [
-        {
-          "name": "Judeline",
-          "url": "https://open.spotify.com/artist/1H6X7yhnXZg73f9bssaj1Q"
-        }
-      ],
-      "duration_ms": 151214,
-      "name": "La Tortura - Spotify Singles",
-      "url": "https://open.spotify.com/track/5WW6WJUxZsfHF7Na5wwE02"
     },
     {
       "added_at": "2023-10-12 21:24:35",
@@ -691,22 +691,6 @@
     {
       "added_at": "2023-10-12 21:24:35",
       "album": {
-        "name": "Satus",
-        "url": "https://open.spotify.com/album/1lOibSxSky80FXEzR5Z2Gn"
-      },
-      "artists": [
-        {
-          "name": "3AM",
-          "url": "https://open.spotify.com/artist/1LU7BxbUvvuA4eNDdEO22D"
-        }
-      ],
-      "duration_ms": 149379,
-      "name": "Imagin\u00e1ndote",
-      "url": "https://open.spotify.com/track/6zxkr2tSIZMIKHaALNvoCr"
-    },
-    {
-      "added_at": "2023-10-12 21:24:35",
-      "album": {
         "name": "INSTAL\u00c1RTELO (feat. Sleezy O & Young Gallo)",
         "url": "https://open.spotify.com/album/1WEHAfCuVdBCKUU0cUMZjp"
       },
@@ -735,6 +719,22 @@
       "duration_ms": 240000,
       "name": "INSTAL\u00c1RTELO (feat. Sleezy O & Young Gallo)",
       "url": "https://open.spotify.com/track/4iiLT6wrLtcoW3vOUjjlbS"
+    },
+    {
+      "added_at": "2023-10-12 21:24:35",
+      "album": {
+        "name": "Satus",
+        "url": "https://open.spotify.com/album/1lOibSxSky80FXEzR5Z2Gn"
+      },
+      "artists": [
+        {
+          "name": "3AM",
+          "url": "https://open.spotify.com/artist/1LU7BxbUvvuA4eNDdEO22D"
+        }
+      ],
+      "duration_ms": 149379,
+      "name": "Imagin\u00e1ndote",
+      "url": "https://open.spotify.com/track/6zxkr2tSIZMIKHaALNvoCr"
     },
     {
       "added_at": "2023-10-12 21:24:35",

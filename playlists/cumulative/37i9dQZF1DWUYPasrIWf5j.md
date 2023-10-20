@@ -4,7 +4,7 @@
 
 > Instrumental covers of favourites played on ukulele.
 
-138 songs - 7 hr 56 min
+139 songs - 8 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,6 +29,7 @@
 | [Bubbly](https://open.spotify.com/track/35kTXi8zS7sslWKCLdeBvv) | [Shelli Daniels](https://open.spotify.com/artist/70tHHAa0DiXmNFKIPIg9Ws) | [Shelli plays the Uke](https://open.spotify.com/album/5e0jgZVk0lduI1ay8bY67C) | 2:58 | 2022-05-20 | 2023-04-28 |
 | [Build Me Up Buttercup \- Ukulele](https://open.spotify.com/track/4i98tUpkezJsE4nKMCvj60) | [Seth Luke](https://open.spotify.com/artist/2Z2anZ5fPhykLkMi7E7lC5) | [Better Together & Build Me Up Buttercup \(Ukulele\)](https://open.spotify.com/album/0toLJ6zVJ6nWxbJ0tGB1Hc) | 3:28 | 2023-03-16 |  |
 | [Build Me Up Buttercup \- Ukulele](https://open.spotify.com/track/6s2A4P2D14VpH3zNmnQU3H) | [Seth Luke](https://open.spotify.com/artist/2Z2anZ5fPhykLkMi7E7lC5) | [Better Together & Build Me Up Buttercup \(Ukulele\)](https://open.spotify.com/album/67inhQMLBbDsFQJsZZIr9K) | 3:28 | 2022-05-20 | 2023-04-13 |
+| [California Stars](https://open.spotify.com/track/4zs1BjUwkwSGaNMHfweh1Z) | [Cliff Hillis](https://open.spotify.com/artist/1mpEw4E2cHyrO6PZVMWqlW) | [California Stars](https://open.spotify.com/album/09gOk1XfZR9icyU09dC5kg) | 3:30 | 2023-10-20 |  |
 | [Can't Help Falling In Love](https://open.spotify.com/track/7cIIcCaaa4Db6tQJdR7VPp) | [Michael Sharon](https://open.spotify.com/artist/3nwEO3bnbLWk2QGHo7JSvm) | [Uke Classics](https://open.spotify.com/album/27AhRs4C9zr6daRn8f0ckn) | 3:09 | 2022-05-20 |  |
 | [Chandelier \- Ukulele Version](https://open.spotify.com/track/4zYScIQJOR961vVGVb4XTt) | [The Ukulele Boys](https://open.spotify.com/artist/3ulXcJHsniZBycOD3Tic9T) | [Chandelier \(Ukulele Version\)](https://open.spotify.com/album/1Oeat3PspWRfN6pzIt9jTM) | 3:29 | 2022-05-20 |  |
 | [Come On Get Higher](https://open.spotify.com/track/1kyWVfQ7VVJqyZ05gSUhQ0) | [Brandi Singer](https://open.spotify.com/artist/6M21uZWGDjG8BDYuFBTxzo) | [Ukelele Girl](https://open.spotify.com/album/6dMsLBwMpTlwWsE1U3Sz7R) | 3:37 | 2022-05-20 |  |

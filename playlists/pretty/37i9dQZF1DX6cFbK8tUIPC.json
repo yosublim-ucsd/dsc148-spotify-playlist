@@ -1,12 +1,12 @@
 {
   "description": "The cinnamon-infused, crisp-air-breathing, crunchy-leaves-walking, chunky-knit-wearing, seasonal-latte-drinking playlist. ",
-  "num_followers": 389149,
+  "num_followers": 389913,
   "original_name": "pumpkin spice",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwMzI3M2UxYTY0MWM1OWE3ODQ4NGM0OWRmM2IyZjdkMWJkMTYzN2Nl",
+  "snapshot_id": "MCwwMGZkYjZkODUwNmVlOTM4M2VhMzg2MjM3OGMyYmVjMGQ0NjU1MDM4",
   "tracks": [
     {
       "added_at": "2023-09-21 22:30:06",
@@ -339,6 +339,22 @@
       "duration_ms": 279453,
       "name": "Above The Clouds Of Pompeii",
       "url": "https://open.spotify.com/track/723paR6LrVISFCXFPf5z57"
+    },
+    {
+      "added_at": "2023-10-19 23:32:41",
+      "album": {
+        "name": "Turn The World On",
+        "url": "https://open.spotify.com/album/0zL6Nw3i8LCzj4HRI2olI3"
+      },
+      "artists": [
+        {
+          "name": "Bombay Bicycle Club",
+          "url": "https://open.spotify.com/artist/3pTE9iaJTkWns3mxpNQlJV"
+        }
+      ],
+      "duration_ms": 210173,
+      "name": "Turn The World On",
+      "url": "https://open.spotify.com/track/5zeMiru9wbjdLBNYhFZa3G"
     },
     {
       "added_at": "2023-09-21 22:30:06",
@@ -787,6 +803,22 @@
       "duration_ms": 221510,
       "name": "Black Friday",
       "url": "https://open.spotify.com/track/1XTY6rA7XQosc0ynkkE9kN"
+    },
+    {
+      "added_at": "2023-10-19 23:32:41",
+      "album": {
+        "name": "Funny",
+        "url": "https://open.spotify.com/album/7h9nhXGtNLJAoueYKkmcv2"
+      },
+      "artists": [
+        {
+          "name": "Searows",
+          "url": "https://open.spotify.com/artist/0nugNBwdWaptgIAsEtx1It"
+        }
+      ],
+      "duration_ms": 302578,
+      "name": "Funny",
+      "url": "https://open.spotify.com/track/0rcaFqednwwedMu68xpKlj"
     },
     {
       "added_at": "2023-09-21 22:30:06",

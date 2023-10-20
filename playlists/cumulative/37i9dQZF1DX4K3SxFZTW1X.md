@@ -4,13 +4,14 @@
 
 > Sophisticated palates only\. Curated by: <a href="https://www.instagram.com/colebennett/">Cole Bennett</a>
 
-51 songs - 2 hr 38 min
+52 songs - 2 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [02 Shit](https://open.spotify.com/track/0Yvadjr9DhqPbE9IoUCDGd) | [Cdot Honcho](https://open.spotify.com/artist/7LuvQlyXxSQI8h6V9doNQN) | [02 Shit](https://open.spotify.com/album/0nmIs8hoZBb7syvBM0FVNk) | 2:41 | 2023-09-01 |  |
 | [4 Me \(feat\. Kali Uchis\)](https://open.spotify.com/track/7H08E8B32OZ1vJE7AtCwaG) | [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs), [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [Love Sick](https://open.spotify.com/album/26z5llzd194mcCZHADWd6k) | 2:40 | 2023-09-01 |  |
-| [94 Camry Music](https://open.spotify.com/track/1l4667RlKg7diD6P1Dz9aL) | [femdot.](https://open.spotify.com/artist/7aGhkUVp7V3klWfTFe7AHS) | [94 Camry Music](https://open.spotify.com/album/77p3lCX2yWzyLqCV3v8yJF) | 3:41 | 2023-09-01 |  |
+| [94 Camry Music](https://open.spotify.com/track/1l4667RlKg7diD6P1Dz9aL) | [femdot.](https://open.spotify.com/artist/7aGhkUVp7V3klWfTFe7AHS) | [94 Camry Music](https://open.spotify.com/album/77p3lCX2yWzyLqCV3v8yJF) | 3:41 | 2023-09-01 | 2023-10-20 |
+| [94 Camry Music](https://open.spotify.com/track/29BXvdSR0ucyQ4m6WwdHRh) | [femdot.](https://open.spotify.com/artist/7aGhkUVp7V3klWfTFe7AHS) | [94 Camry Music](https://open.spotify.com/album/1tDSPAhxUETud8hNjFELcr) | 3:41 | 2023-09-01 |  |
 | [A2Z](https://open.spotify.com/track/4TPot2zdZDMXE8J8nkmvW3) | [BabyTron](https://open.spotify.com/artist/0sKsReKseslDlhxmbN6wLk) | [Out On Bond](https://open.spotify.com/album/1rM3JOw6PilCUL4GXU0WCi) | 2:40 | 2023-09-01 |  |
 | [Arya \(feat\. A$AP Rocky\)](https://open.spotify.com/track/0Rq6JJwpZ9f1SU6Cfhgjv7) | [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca), [Nigo](https://open.spotify.com/artist/2rAnv6brcXaglLZBB4XXEn) | [Arya](https://open.spotify.com/album/4r58Om6YuN9gjnHim6y6mg) | 2:42 | 2023-09-01 |  |
 | [Bag \(Future feat\. Yung Bans\)](https://open.spotify.com/track/09rpYKV7YcVTl4vzQgQjYG) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Yung Bans](https://open.spotify.com/artist/6WkUZyqghQei2G809wMKuZ) | [SUPERFLY \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0C0Vs4XobImmqpr6kIasde) | 3:16 | 2023-09-01 |  |

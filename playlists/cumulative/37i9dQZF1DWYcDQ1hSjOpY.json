@@ -1863,6 +1863,24 @@
     },
     {
       "album": {
+        "name": "Dancing Thoughts",
+        "url": "https://open.spotify.com/album/6KGNRJTcnjJ4x8KplkHd32"
+      },
+      "artists": [
+        {
+          "name": "Peaceful Storm",
+          "url": "https://open.spotify.com/artist/1F9BGQRXydW5pf28ukNEkm"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189500,
+      "name": "Dancing Thoughts",
+      "url": "https://open.spotify.com/track/79rm3OdsYXQwDZTQOdLU9M"
+    },
+    {
+      "album": {
         "name": "Dans Mes R\u00e8ves",
         "url": "https://open.spotify.com/album/1FEBGcOFl7kr7zf1GOK0rH"
       },
@@ -5449,6 +5467,24 @@
     },
     {
       "album": {
+        "name": "Paradox",
+        "url": "https://open.spotify.com/album/6yzFtuNu7WopvMMWvgi7Eu"
+      },
+      "artists": [
+        {
+          "name": "D\u00f3tira",
+          "url": "https://open.spotify.com/artist/28cLenuWuw1qNrnHDUHbr8"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184541,
+      "name": "Paradox",
+      "url": "https://open.spotify.com/track/5Y3UEfhQaXy2Iy5Hv2fJvc"
+    },
+    {
+      "album": {
         "name": "Paralian",
         "url": "https://open.spotify.com/album/25dxQmc3QBjDRrUENzXkHo"
       },
@@ -6220,6 +6256,24 @@
       "duration_ms": 168111,
       "name": "Safety",
       "url": "https://open.spotify.com/track/3EcvMo6Td4Kuv05GMNXZrs"
+    },
+    {
+      "album": {
+        "name": "Salve",
+        "url": "https://open.spotify.com/album/4viiLqGVcL9qE3u6gQy1d8"
+      },
+      "artists": [
+        {
+          "name": "Lidia Peralta",
+          "url": "https://open.spotify.com/artist/7uzvpSnBNJJABrXvCNKy80"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186428,
+      "name": "Salve",
+      "url": "https://open.spotify.com/track/7MZN4HZBax3kXmn4XX0J2i"
     },
     {
       "album": {

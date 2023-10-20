@@ -1365,6 +1365,24 @@
     },
     {
       "album": {
+        "name": "Gulab Aur Kaante",
+        "url": "https://open.spotify.com/album/37wInAUaqFnnUogrDxOMDu"
+      },
+      "artists": [
+        {
+          "name": "Nazz",
+          "url": "https://open.spotify.com/artist/7iEUKVcv42PUcIS696yadB"
+        }
+      ],
+      "date_added": "2023-10-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208314,
+      "name": "Gulaab Aur Kaante",
+      "url": "https://open.spotify.com/track/4EU7KUawcpfOVIdlDdHsLX"
+    },
+    {
+      "album": {
         "name": "Gully Ka Sher",
         "url": "https://open.spotify.com/album/2FxoC4BBFOIYF3BetK17RG"
       },

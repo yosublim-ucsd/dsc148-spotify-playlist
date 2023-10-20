@@ -4,7 +4,7 @@
 
 > Use Delta frequencies for the best night's sleep.
 
-113 songs - 5 hr 44 min
+115 songs - 5 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,6 +33,8 @@
 | [Dark Blue \(Delta 124 Hz \- 127 Hz\)](https://open.spotify.com/track/3XrAci11gTweKd4odCVBAO) | [Earth Alliance](https://open.spotify.com/artist/4u2F224Db72rESovXGKNGZ) | [Colors](https://open.spotify.com/album/5YRZc34LMwheVAwDJX9u2x) | 2:46 | 2023-01-20 |  |
 | [Deep Delta Sleep 96.8 Hz\-98.4 Hz](https://open.spotify.com/track/6LS66LUZJybYyZ4OTLvYhd) | [Syntropic Mind](https://open.spotify.com/artist/01O0xjXft0U8kHePVxE0iC) | [Deep Delta Sleep 96.8 Hz\-98.4 Hz](https://open.spotify.com/album/31X3Csbqb2ztASsvHZ7t4e) | 2:37 | 2023-08-03 |  |
 | [Deep Sleep 3 Hz Drone](https://open.spotify.com/track/279WfshbvRdtkSeHG69GMm) | [Dronal](https://open.spotify.com/artist/5JdRe38yBQW84oz1rjPvLL) | [Binaural Delta Sinus](https://open.spotify.com/album/5Nilmc6apWTsMi8cqBVjU9) | 3:45 | 2023-01-20 |  |
+| [Deep Sleep Binaural Delta 78.5Hz \- 79.9Hz](https://open.spotify.com/track/0WmfEIR6NXfT84mMFJsUHz) | [Gateway IV](https://open.spotify.com/artist/4YoqgU4m9qY7tUO4iwIM45) | [Delta Still](https://open.spotify.com/album/1KbXBAzOSYmSKc2REocKZZ) | 3:07 | 2023-10-20 |  |
+| [Deep Sleep Binaural Delta 82.9Hz \- 84.2Hz](https://open.spotify.com/track/4D8H4TKOrslVnSSOxkkkC3) | [Gateway IV](https://open.spotify.com/artist/4YoqgU4m9qY7tUO4iwIM45) | [Delta Still](https://open.spotify.com/album/1KbXBAzOSYmSKc2REocKZZ) | 2:55 | 2023-10-20 |  |
 | [Deep Sleep Delta Binaural 78.4Hz \- 80Hz](https://open.spotify.com/track/2LBY7o7yGN6twBv6LsiQx4) | [Dynamic Dimension](https://open.spotify.com/artist/2PWrvQ39kze8AxXW31eP69) | [Deep Sleep Delta Waves](https://open.spotify.com/album/0aA1BSj06GuIZ9ZJyo2nnZ) | 3:06 | 2023-09-27 |  |
 | [Deep Sleep Delta Binaural 82.8Hz \- 84.3Hz](https://open.spotify.com/track/13XtUIisqIt3ZRtF92yK1W) | [Dynamic Dimension](https://open.spotify.com/artist/2PWrvQ39kze8AxXW31eP69) | [Deep Sleep Delta Waves](https://open.spotify.com/album/0aA1BSj06GuIZ9ZJyo2nnZ) | 2:53 | 2023-09-27 |  |
 | [Deep Sleep Delta Binaural 83.8Hz \- 85.2Hz](https://open.spotify.com/track/0s840ASDKgRxLob8pGgUJD) | [Infinite Field](https://open.spotify.com/artist/4k5wUzbeVt1nviNANoqMI2) | [Deep Sleep Delta Binaural 83.8Hz \- 85.2Hz](https://open.spotify.com/album/0HKx7gDLPJlyf4tKPI3AmZ) | 3:13 | 2023-01-20 |  |

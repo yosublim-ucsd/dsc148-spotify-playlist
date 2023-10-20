@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 
 > New music from Bad Bunny, Troye Sivan, Offset, REZZMAU5 and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 349,669 likes - 99 songs - 5 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 349,710 likes - 99 songs - 5 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -93,7 +93,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 | 83 | [Sitcom](https://open.spotify.com/track/7fLbYOnVOj87FN6BkYdnDV) | [Land of Talk](https://open.spotify.com/artist/0mEF6nwliNqJuMldWFPuvo) | [Sitcom](https://open.spotify.com/album/3WPPGYahCn1SDYu79OyFrc) | 4:26 |
 | 84 | [Bobtail Road](https://open.spotify.com/track/5kPu5GCBKldjAy2sMgU2bU) | [Wyatt C\. Louis](https://open.spotify.com/artist/0U2aokEQQSzyTcQdpC6DsB) | [Bobtail Road](https://open.spotify.com/album/37pFeBTwztjSqMzYqTcEqV) | 3:32 |
 | 85 | [styrofoam](https://open.spotify.com/track/1ZakuNLOHhoPOlMjCNG5w9) | [harper](https://open.spotify.com/artist/4N6xX91ZPlHR2YZ2RBOdPK) | [styrofoam](https://open.spotify.com/album/0gSptDCMS0E8RuYLGr7WML) | 3:04 |
-| 86 | [TEQUILA](https://open.spotify.com/track/2h3Pf8SrVoNpy3no4WQlEn) | [COBRAH](https://open.spotify.com/artist/1AHswQqsDNmu1xaE8KpBne) | [SUCCUBUS](https://open.spotify.com/album/5CFxHha8oJfS3RDGbb5YQZ) | 3:03 |
+| 86 | [TEQUILA](https://open.spotify.com/track/38LKH0Af9y2fdgQLpOr1sS) | [COBRAH](https://open.spotify.com/artist/1AHswQqsDNmu1xaE8KpBne) | [TEQUILA](https://open.spotify.com/album/5g9iR0BMaHokdsxPERf5rB) | 3:03 |
 | 87 | [Shell Down](https://open.spotify.com/track/7KC612HKDkjnq1JwjoN8Mh) | [Cocanina](https://open.spotify.com/artist/6Jwx0B8JhSuBMy5ZBz7GIk), [Nessa Preppy](https://open.spotify.com/artist/17pN02mO1kZSkaic9K3ipT) | [Shell Down](https://open.spotify.com/album/3RmBYeM723eUKdwig8rEqM) | 1:40 |
 | 88 | [Only 2](https://open.spotify.com/track/5FBZzQJuI1jSNcCpUhjl8f) | [Zenesoul](https://open.spotify.com/artist/4fjVBrdMkkYdfJ3bL6lhKX) | [Only 2](https://open.spotify.com/album/05nAkuAyzlbph59Bqsmjfy) | 2:56 |
 | 89 | [311!](https://open.spotify.com/track/4tQPhI1lvsqsyqT7AOwwdG) | [Gallant](https://open.spotify.com/artist/7wFDo161xYdeaiLz3KIHoM), [sneek](https://open.spotify.com/artist/6O4EoU7wO1VU8yAEhbIii5), [Terrace Martin](https://open.spotify.com/artist/7MNEVabc4cs19CbzAFZmXz), [Robert Glasper & Keyon Harrold](https://open.spotify.com/artist/0PWMzZR4AE7UW9ypDiXVbJ) | [311!](https://open.spotify.com/album/0FW36xz6JNy9uIFx9TOWs3) | 3:26 |
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 | 98 | [I'm Starting to Think I'm Bad at Parties](https://open.spotify.com/track/5fnjga2XOQ8oLg02mwZlQg) | [The Darcys](https://open.spotify.com/artist/1kmnMzV27S3bXALqYnoGwH) | [I'm Starting to Think I'm Bad at Parties](https://open.spotify.com/album/7qgOdi95Bteq9cGT73c2nt) | 3:01 |
 | 99 | [Fine Pass](https://open.spotify.com/track/1L1ateHMb54rv0QsoD9YKy) | [TOME](https://open.spotify.com/artist/2aRiWRO2A7xUI2sqZyJJmX) | [Fine Pass](https://open.spotify.com/album/7fRa0SFSKPr2dX9Fnee44k) | 2:43 |
 
-Snapshot ID: `MCw2M2E5ODZkOTgyMmRjMzFkYjRhZWQ5MDk0ZjQ5YmYzNWQ0OWM1Zjgw`
+Snapshot ID: `MCw4MWU4MzlmZjVjMzM4NWM5NGQ0YWUxYWYxNDE1NzMzMDM3N2ViYmYx`

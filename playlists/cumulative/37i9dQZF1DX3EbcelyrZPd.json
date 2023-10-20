@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "Get your fill of vibes straight out of Tanzania. Cover: Marioo",
+  "description": "Get your fill of vibes straight out of Tanzania. Cover: Mocco Genius",
   "name": "Bongo Flava",
   "tracks": [
     {
@@ -782,7 +782,7 @@
       ],
       "date_added": "2023-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-20",
       "duration_ms": 187120,
       "name": "Everlyna (feat. Q Chief)",
       "url": "https://open.spotify.com/track/5YpIUBrsngudCul6Ep45vV"
@@ -884,6 +884,24 @@
       "duration_ms": 179091,
       "name": "Falling",
       "url": "https://open.spotify.com/track/4OjohSrMjXzPwH64ICPsiB"
+    },
+    {
+      "album": {
+        "name": "Far Away",
+        "url": "https://open.spotify.com/album/6IZQtDq5yQhutjBTIN3E15"
+      },
+      "artists": [
+        {
+          "name": "Beka Flavour",
+          "url": "https://open.spotify.com/artist/6jETz99dtLj1EgPF1C3xvU"
+        }
+      ],
+      "date_added": "2023-10-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182624,
+      "name": "Far Away",
+      "url": "https://open.spotify.com/track/57PEYoPJxjMy35SNHtvwmf"
     },
     {
       "album": {
@@ -2607,6 +2625,24 @@
     },
     {
       "album": {
+        "name": "Mi Nawe",
+        "url": "https://open.spotify.com/album/0jvLmR2XD7mM8zXNfuvPJ2"
+      },
+      "artists": [
+        {
+          "name": "Mocco Genius",
+          "url": "https://open.spotify.com/artist/0qR7Js4rYymyutq0Sh8Fz9"
+        }
+      ],
+      "date_added": "2023-10-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165425,
+      "name": "Mi Nawe",
+      "url": "https://open.spotify.com/track/6pWRJyR4x0undU6dIR2mpP"
+    },
+    {
+      "album": {
         "name": "Milele",
         "url": "https://open.spotify.com/album/4wIHp3uNOmvSxsmquGOqe7"
       },
@@ -3725,6 +3761,36 @@
     },
     {
       "album": {
+        "name": "Nikupende (feat. Afriikan Papi, Q-Mark & Slick Widit)",
+        "url": "https://open.spotify.com/album/5CaPbeq0J1ugZNNfN8MVYW"
+      },
+      "artists": [
+        {
+          "name": "Phina",
+          "url": "https://open.spotify.com/artist/1gFTuZHiQgl5NAgqNEK2Rl"
+        },
+        {
+          "name": "Afriikan Papi",
+          "url": "https://open.spotify.com/artist/4fDmMQuFAIHnsKbmfOY8yO"
+        },
+        {
+          "name": "Q-Mark",
+          "url": "https://open.spotify.com/artist/1PINqStNpc48PWNAMDQpVj"
+        },
+        {
+          "name": "Slick Widit",
+          "url": "https://open.spotify.com/artist/3bDWpyZXR29vsVsjguxLWe"
+        }
+      ],
+      "date_added": "2023-10-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266115,
+      "name": "Nikupende (feat. Afriikan Papi, Q-Mark & Slick Widit)",
+      "url": "https://open.spotify.com/track/0vmx7Ir3yqYzLvtDGmQK7l"
+    },
+    {
+      "album": {
         "name": "Nileweshe",
         "url": "https://open.spotify.com/album/3gRFo8kVuinEntUw0HRBRz"
       },
@@ -4340,7 +4406,7 @@
       ],
       "date_added": "2023-03-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-20",
       "duration_ms": 189093,
       "name": "Pwi Pwi",
       "url": "https://open.spotify.com/track/2mLo2SWYWjzXfC2mqvJoVY"
@@ -4732,7 +4798,7 @@
       ],
       "date_added": "2023-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-20",
       "duration_ms": 191062,
       "name": "Simuachi",
       "url": "https://open.spotify.com/track/6oE9HQVRYv0TQelwyXdmAo"

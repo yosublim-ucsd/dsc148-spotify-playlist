@@ -1,12 +1,12 @@
 {
   "description": "The best new rock tracks every week. Cover: blink-182",
-  "num_followers": 427353,
+  "num_followers": 427581,
   "original_name": "All New Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1MmEzZDY5ZDY0NWI1OWQyOGNhNjlmNGQ0Njg5N2M0MDU4NGZlNjI4",
+  "snapshot_id": "MCwxZGFhYjJiZDQwMTQ3YTViYTIzODFkNzQ2Zjg0NDhhODFiNmZkZTU2",
   "tracks": [
     {
       "added_at": "2023-10-13 04:01:00",
@@ -171,22 +171,6 @@
     {
       "added_at": "2023-10-13 04:01:00",
       "album": {
-        "name": "INTELLECTUAL PROPERTY",
-        "url": "https://open.spotify.com/album/3zrk39UHnfEr8PYZarjWMp"
-      },
-      "artists": [
-        {
-          "name": "Waterparks",
-          "url": "https://open.spotify.com/artist/3QaxveoTiMetZCMp1sftiu"
-        }
-      ],
-      "duration_ms": 159187,
-      "name": "SNEAKING OUT OF HEAVEN",
-      "url": "https://open.spotify.com/track/73nzSeXp43EsCJnehTvCbs"
-    },
-    {
-      "added_at": "2023-10-13 04:01:00",
-      "album": {
         "name": "Livelock",
         "url": "https://open.spotify.com/album/6wRy2dydFytIzBlEqVa5sh"
       },
@@ -199,6 +183,22 @@
       "duration_ms": 200573,
       "name": "Break the Brake",
       "url": "https://open.spotify.com/track/35tFDNRthpr63bVGF7G8GB"
+    },
+    {
+      "added_at": "2023-10-13 04:01:00",
+      "album": {
+        "name": "INTELLECTUAL PROPERTY",
+        "url": "https://open.spotify.com/album/3zrk39UHnfEr8PYZarjWMp"
+      },
+      "artists": [
+        {
+          "name": "Waterparks",
+          "url": "https://open.spotify.com/artist/3QaxveoTiMetZCMp1sftiu"
+        }
+      ],
+      "duration_ms": 159187,
+      "name": "SNEAKING OUT OF HEAVEN",
+      "url": "https://open.spotify.com/track/73nzSeXp43EsCJnehTvCbs"
     },
     {
       "added_at": "2023-10-13 04:01:00",
@@ -271,22 +271,6 @@
     {
       "added_at": "2023-10-13 04:01:00",
       "album": {
-        "name": "Dilemma Us from Evil",
-        "url": "https://open.spotify.com/album/6DTlM5mdnp1IUnhdb4gnV5"
-      },
-      "artists": [
-        {
-          "name": "Psychedelic Porn Crumpets",
-          "url": "https://open.spotify.com/artist/7GRrLcUxwtQLvOpO7OHO80"
-        }
-      ],
-      "duration_ms": 182914,
-      "name": "Dilemma Us from Evil",
-      "url": "https://open.spotify.com/track/7oI2AurJePKUTuTJn74jYZ"
-    },
-    {
-      "added_at": "2023-10-13 04:01:00",
-      "album": {
         "name": "Modern Love",
         "url": "https://open.spotify.com/album/2EuA14LzLXFRWWFkSvBnU6"
       },
@@ -299,6 +283,22 @@
       "duration_ms": 208773,
       "name": "Modern Love",
       "url": "https://open.spotify.com/track/0c1TvU8YThmexkEfFUt9wV"
+    },
+    {
+      "added_at": "2023-10-13 04:01:00",
+      "album": {
+        "name": "Dilemma Us from Evil",
+        "url": "https://open.spotify.com/album/6DTlM5mdnp1IUnhdb4gnV5"
+      },
+      "artists": [
+        {
+          "name": "Psychedelic Porn Crumpets",
+          "url": "https://open.spotify.com/artist/7GRrLcUxwtQLvOpO7OHO80"
+        }
+      ],
+      "duration_ms": 182914,
+      "name": "Dilemma Us from Evil",
+      "url": "https://open.spotify.com/track/7oI2AurJePKUTuTJn74jYZ"
     },
     {
       "added_at": "2023-10-13 04:01:00",
@@ -335,6 +335,22 @@
     {
       "added_at": "2023-10-13 04:01:00",
       "album": {
+        "name": "Carrie & Lowell & Cody (Pendent)",
+        "url": "https://open.spotify.com/album/1dVLmx7MeskNv1bwe6MY8Y"
+      },
+      "artists": [
+        {
+          "name": "Say Anything",
+          "url": "https://open.spotify.com/artist/3ImqpXKKgkH5VydfgX1hd4"
+        }
+      ],
+      "duration_ms": 236130,
+      "name": "Carrie & Lowell & Cody (Pendent)",
+      "url": "https://open.spotify.com/track/5AzFP6taTTCZp0SU18jxpc"
+    },
+    {
+      "added_at": "2023-10-13 04:01:00",
+      "album": {
         "name": "You're On Your Own, Kid",
         "url": "https://open.spotify.com/album/0xWds6GVsTmZUpyxZy3f3U"
       },
@@ -351,22 +367,6 @@
       "duration_ms": 185929,
       "name": "You're On Your Own, Kid",
       "url": "https://open.spotify.com/track/7o2iCC6ZAJYVMuXrv39NbL"
-    },
-    {
-      "added_at": "2023-10-13 04:01:00",
-      "album": {
-        "name": "Carrie & Lowell & Cody (Pendent)",
-        "url": "https://open.spotify.com/album/1dVLmx7MeskNv1bwe6MY8Y"
-      },
-      "artists": [
-        {
-          "name": "Say Anything",
-          "url": "https://open.spotify.com/artist/3ImqpXKKgkH5VydfgX1hd4"
-        }
-      ],
-      "duration_ms": 236130,
-      "name": "Carrie & Lowell & Cody (Pendent)",
-      "url": "https://open.spotify.com/track/5AzFP6taTTCZp0SU18jxpc"
     },
     {
       "added_at": "2023-10-13 04:01:00",
@@ -435,22 +435,6 @@
     {
       "added_at": "2023-10-13 04:01:00",
       "album": {
-        "name": "Backbone",
-        "url": "https://open.spotify.com/album/6xX5k5pieb7GtDHdNv1lRv"
-      },
-      "artists": [
-        {
-          "name": "MONOWHALES",
-          "url": "https://open.spotify.com/artist/6Ok8AIUj7YYGC981xWCbgQ"
-        }
-      ],
-      "duration_ms": 193049,
-      "name": "Backbone",
-      "url": "https://open.spotify.com/track/7cl08gllA42WPESPRGUlqQ"
-    },
-    {
-      "added_at": "2023-10-13 04:01:00",
-      "album": {
         "name": "Your Blood Awaits You",
         "url": "https://open.spotify.com/album/4wdhzesIo56No0S10XbWep"
       },
@@ -467,18 +451,18 @@
     {
       "added_at": "2023-10-13 04:01:00",
       "album": {
-        "name": "Best Friend",
-        "url": "https://open.spotify.com/album/5nJOWWjpN8WTkAInFSDaO6"
+        "name": "Backbone",
+        "url": "https://open.spotify.com/album/6xX5k5pieb7GtDHdNv1lRv"
       },
       "artists": [
         {
-          "name": "The Moving Stills",
-          "url": "https://open.spotify.com/artist/5MXKeoHi08yq7nnRNe3t4w"
+          "name": "MONOWHALES",
+          "url": "https://open.spotify.com/artist/6Ok8AIUj7YYGC981xWCbgQ"
         }
       ],
-      "duration_ms": 177176,
-      "name": "Best Friend",
-      "url": "https://open.spotify.com/track/6ZNlHegzWxt8Sm8meMRuu5"
+      "duration_ms": 193049,
+      "name": "Backbone",
+      "url": "https://open.spotify.com/track/7cl08gllA42WPESPRGUlqQ"
     },
     {
       "added_at": "2023-10-13 04:01:00",
@@ -495,6 +479,22 @@
       "duration_ms": 181600,
       "name": "Carried Away",
       "url": "https://open.spotify.com/track/4GEBSPiyXa9vu56cJtbn0j"
+    },
+    {
+      "added_at": "2023-10-13 04:01:00",
+      "album": {
+        "name": "Best Friend",
+        "url": "https://open.spotify.com/album/5nJOWWjpN8WTkAInFSDaO6"
+      },
+      "artists": [
+        {
+          "name": "The Moving Stills",
+          "url": "https://open.spotify.com/artist/5MXKeoHi08yq7nnRNe3t4w"
+        }
+      ],
+      "duration_ms": 177176,
+      "name": "Best Friend",
+      "url": "https://open.spotify.com/track/6ZNlHegzWxt8Sm8meMRuu5"
     },
     {
       "added_at": "2023-10-13 04:01:00",
@@ -579,6 +579,22 @@
     {
       "added_at": "2023-10-13 04:01:00",
       "album": {
+        "name": "Super Bon Bon",
+        "url": "https://open.spotify.com/album/0tkRK3oBZDifplfC3HvqBx"
+      },
+      "artists": [
+        {
+          "name": "Sunfish",
+          "url": "https://open.spotify.com/artist/6pSYsLGxRDhv5iEBzZAI4J"
+        }
+      ],
+      "duration_ms": 235979,
+      "name": "Super Bon Bon",
+      "url": "https://open.spotify.com/track/4ALTgkMyedQIg1E9APkVdw"
+    },
+    {
+      "added_at": "2023-10-13 04:01:00",
+      "album": {
         "name": "Never Grow Up",
         "url": "https://open.spotify.com/album/2Sltvvb2yH3gWqJp8lNGVG"
       },
@@ -643,22 +659,6 @@
     {
       "added_at": "2023-10-13 04:01:00",
       "album": {
-        "name": "Super Bon Bon",
-        "url": "https://open.spotify.com/album/0tkRK3oBZDifplfC3HvqBx"
-      },
-      "artists": [
-        {
-          "name": "Sunfish",
-          "url": "https://open.spotify.com/artist/6pSYsLGxRDhv5iEBzZAI4J"
-        }
-      ],
-      "duration_ms": 235979,
-      "name": "Super Bon Bon",
-      "url": "https://open.spotify.com/track/4ALTgkMyedQIg1E9APkVdw"
-    },
-    {
-      "added_at": "2023-10-13 04:01:00",
-      "album": {
         "name": "Born to Win",
         "url": "https://open.spotify.com/album/5DVy8NKNSeRGYIjH7rCftk"
       },
@@ -671,6 +671,22 @@
       "duration_ms": 151100,
       "name": "Born to Win",
       "url": "https://open.spotify.com/track/4fsVCgzknleqGFmV7WihCF"
+    },
+    {
+      "added_at": "2023-10-13 04:01:00",
+      "album": {
+        "name": "My Own Hell",
+        "url": "https://open.spotify.com/album/3MHaxJDs6Z9Z9iwVtZt8ip"
+      },
+      "artists": [
+        {
+          "name": "JULES IS DEAD",
+          "url": "https://open.spotify.com/artist/5inrtHsPByV845LcC1mDmM"
+        }
+      ],
+      "duration_ms": 205609,
+      "name": "My Own Hell",
+      "url": "https://open.spotify.com/track/3FiRWP4QJ1Di59fGDOYQAR"
     },
     {
       "added_at": "2023-10-13 04:01:00",
@@ -691,22 +707,6 @@
     {
       "added_at": "2023-10-13 04:01:00",
       "album": {
-        "name": "Gelled Water",
-        "url": "https://open.spotify.com/album/7cBhtxtvMTN8hwuS2qlATW"
-      },
-      "artists": [
-        {
-          "name": "Dro\u00efd Fant\u00f4m",
-          "url": "https://open.spotify.com/artist/7HrozFN6zYmxYBLejkkZuz"
-        }
-      ],
-      "duration_ms": 226906,
-      "name": "Gelled Water",
-      "url": "https://open.spotify.com/track/1pdkMHkkctz1IlomRCzErR"
-    },
-    {
-      "added_at": "2023-10-13 04:01:00",
-      "album": {
         "name": "Meridians",
         "url": "https://open.spotify.com/album/1SPGs4aTflXEvO5jSVIWuH"
       },
@@ -723,6 +723,22 @@
     {
       "added_at": "2023-10-13 04:01:00",
       "album": {
+        "name": "Gelled Water",
+        "url": "https://open.spotify.com/album/7cBhtxtvMTN8hwuS2qlATW"
+      },
+      "artists": [
+        {
+          "name": "Dro\u00efd Fant\u00f4m",
+          "url": "https://open.spotify.com/artist/7HrozFN6zYmxYBLejkkZuz"
+        }
+      ],
+      "duration_ms": 226906,
+      "name": "Gelled Water",
+      "url": "https://open.spotify.com/track/1pdkMHkkctz1IlomRCzErR"
+    },
+    {
+      "added_at": "2023-10-13 04:01:00",
+      "album": {
         "name": "Accidental Doom",
         "url": "https://open.spotify.com/album/3kZXb8vcfhNLKw58FyjbOr"
       },
@@ -735,22 +751,6 @@
       "duration_ms": 253200,
       "name": "Accidental Doom",
       "url": "https://open.spotify.com/track/4RWRV4KKmBJevD1jSupSry"
-    },
-    {
-      "added_at": "2023-10-13 04:01:00",
-      "album": {
-        "name": "My Own Hell",
-        "url": "https://open.spotify.com/album/3MHaxJDs6Z9Z9iwVtZt8ip"
-      },
-      "artists": [
-        {
-          "name": "JULES IS DEAD",
-          "url": "https://open.spotify.com/artist/5inrtHsPByV845LcC1mDmM"
-        }
-      ],
-      "duration_ms": 205609,
-      "name": "My Own Hell",
-      "url": "https://open.spotify.com/track/3FiRWP4QJ1Di59fGDOYQAR"
     },
     {
       "added_at": "2023-10-13 04:01:00",

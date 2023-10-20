@@ -4,10 +4,11 @@
 
 > Soft electronic music for your dinner.
 
-283 songs - 13 hr 48 min
+285 songs - 13 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| [2 is 1](https://open.spotify.com/track/3UBFbgJfGzOMa7rCUA4bRY) | [Jeremy Hoist](https://open.spotify.com/artist/5p5NVu6OfzW6dn4g1bFTPA) | [2 is 1](https://open.spotify.com/album/4j8xQD1q8qVNU1EvBlJo0w) | 2:12 | 2023-10-20 |  |
 | [30 Degrees](https://open.spotify.com/track/0YounOBAiTYt0LYuLBewVo) | [PALM ENGELS](https://open.spotify.com/artist/3z6rmjKj5BfheOkGxSmajN) | [30 Degrees](https://open.spotify.com/album/29FHccTZVEAbgmLwCssMbA) | 2:29 | 2022-07-29 | 2022-09-23 |
 | [Abloom](https://open.spotify.com/track/21jdnxa5TffMhHItXZ0y0R) | [Jasise](https://open.spotify.com/artist/1Q8mBvNTwlCJWrpyp4zwHt) | [Abloom](https://open.spotify.com/album/5G08OE0nZRJPJukutFrpcL) | 2:59 | 2021-11-11 |  |
 | [Acquacalda](https://open.spotify.com/track/6dMBQNftw7Pcrg02853Qae) | [Aeolian Islands](https://open.spotify.com/artist/0IP2xuR1mgcLD2xyeA2QTD) | [Acquacalda](https://open.spotify.com/album/2o8vAog28e5fSW2zNMKL8D) | 3:10 | 2021-11-11 | 2022-02-11 |
@@ -35,7 +36,7 @@
 | [Beleza](https://open.spotify.com/track/2kpPKUKlX5W4yZjcAHeySG) | [Damian Parker](https://open.spotify.com/artist/3sQBQExp7ULhVKEjUbfPwg) | [Beleza](https://open.spotify.com/album/1pxLUNVikMin57faqHjn5p) | 2:44 | 2021-11-11 | 2022-05-11 |
 | [Below Surface](https://open.spotify.com/track/7tK5mSBltgvDJ6CBuaPvi1) | [Souvren](https://open.spotify.com/artist/1bK9FSWyc2AxzWyR9SEMlX) | [Below Surface](https://open.spotify.com/album/1MiaH6pbnmXy8kQQ8SK6cg) | 3:02 | 2021-11-11 |  |
 | [beslow](https://open.spotify.com/track/07QmUmO6lJaMGr6jKCekXl) | [incovent](https://open.spotify.com/artist/7hxdstSD0iqnJwgwERrdDd) | [beslow](https://open.spotify.com/album/2zs9DYVAe53LBaoWzRzAQr) | 3:46 | 2022-07-08 | 2022-09-23 |
-| [Best of Luck](https://open.spotify.com/track/1qmbbOdAxdHuyxT3YU5jCh) | [Poof Tricks](https://open.spotify.com/artist/7bsFDdgLDm7RwRNPQhbq5q) | [Best of Luck](https://open.spotify.com/album/2H031CDVjncr8LcOEFRGD5) | 2:51 | 2022-01-21 |  |
+| [Best of Luck](https://open.spotify.com/track/1qmbbOdAxdHuyxT3YU5jCh) | [Poof Tricks](https://open.spotify.com/artist/7bsFDdgLDm7RwRNPQhbq5q) | [Best of Luck](https://open.spotify.com/album/2H031CDVjncr8LcOEFRGD5) | 2:51 | 2022-01-21 | 2023-10-20 |
 | [Bibaa](https://open.spotify.com/track/1Vh0lvwArznG7Y67uUFlBJ) | [Eye Tide](https://open.spotify.com/artist/1jEP1ZVf7FIRHLof2S0j48) | [Aston Villa](https://open.spotify.com/album/3ZmT16JHQLpKeTMw4CfPFO) | 3:37 | 2022-01-21 |  |
 | [Blinders](https://open.spotify.com/track/08G0wuFm4k0UjklJ05ePBg) | [Pimmo](https://open.spotify.com/artist/6Oe4ufKNdUJ2JnpbmEvRh9) | [Blinders](https://open.spotify.com/album/63htBYCdBMxsnlh5Y81LY6) | 3:48 | 2021-11-11 | 2022-07-22 |
 | [blu sparks](https://open.spotify.com/track/5RwVk97sKysWUoyBXbbRno) | [xThiago](https://open.spotify.com/artist/7nq1gvw8Yv2vVFlmGJ2fqd) | [blu sparks](https://open.spotify.com/album/3G91aiN6UnIHlSKU7Co8ij) | 3:16 | 2021-11-11 | 2022-09-17 |
@@ -190,6 +191,7 @@
 | [Old Fashioned](https://open.spotify.com/track/50VvyaIar4rnXV1twzQF8j) | [AVEVO](https://open.spotify.com/artist/2NH3ru36Tjtp62Mm3Mz2k3) | [Old Fashioned](https://open.spotify.com/album/5WpXyo5UI39l08h14H3gYe) | 2:39 | 2023-07-21 |  |
 | [Once More](https://open.spotify.com/track/1IV1l4rbdAFBOHBJTr1icq) | [Green Prize](https://open.spotify.com/artist/5U0BKGd2lBYbXI1v1EcFTB) | [Once More](https://open.spotify.com/album/5S6sjt5S3sVJyUD9JR35Z9) | 2:22 | 2021-11-11 | 2022-04-15 |
 | [One for Babushka](https://open.spotify.com/track/6YfQRaPuHSNcNSyMQ3DXno) | [Robo Rat](https://open.spotify.com/artist/2PMOIIBqxXT4hr76dZPItk) | [Claptrap](https://open.spotify.com/album/7j1jLxax94o0cRXF7bf81A) | 3:17 | 2021-11-11 |  |
+| [Only You](https://open.spotify.com/track/24Q5fLUIJ6OBv2h4fvzayF) | [Y Factor](https://open.spotify.com/artist/6Y0ggx6f5Fsb6hQF3Ge2tJ) | [Only You](https://open.spotify.com/album/0FNJ08trynaYdVegTEPSo9) | 1:51 | 2023-10-20 |  |
 | [Otra Vez](https://open.spotify.com/track/2o14tGWwxb5aM4V9hFSx9f) | [Rio Nilo](https://open.spotify.com/artist/4iS1CcjF3gNKPHrvNIoPLn) | [Olivo](https://open.spotify.com/album/4fcDiqGPdWJdZjyXJDmZu1) | 2:51 | 2022-04-15 | 2023-03-04 |
 | [Over and over](https://open.spotify.com/track/6B3yCWrksx9PrjGwu6zDzB) | [YAN KAL](https://open.spotify.com/artist/04735OZRCyYdkA5Cay4qkG) | [Over and over](https://open.spotify.com/album/2n98PgBJ7tkXSwNVEKDakd) | 3:45 | 2022-09-16 |  |
 | [Overtime](https://open.spotify.com/track/20po3c7qSftUPQpBrmDpX1) | [Cratouille](https://open.spotify.com/artist/71bT9EEHGRQNqKHVwS1kdR) | [Overtime](https://open.spotify.com/album/4XQpK5sCgogkGf6fCiK3QN) | 2:55 | 2021-11-11 | 2022-09-09 |

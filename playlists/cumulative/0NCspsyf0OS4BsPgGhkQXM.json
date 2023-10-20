@@ -2267,6 +2267,32 @@
     },
     {
       "album": {
+        "name": "Breathless",
+        "url": "https://open.spotify.com/album/1zQnD0tVmTaxXKD1TFu8Kg"
+      },
+      "artists": [
+        {
+          "name": "Jacknife",
+          "url": "https://open.spotify.com/artist/28YvCT7aJv6DMie7ltTeqo"
+        },
+        {
+          "name": "NEOTEK",
+          "url": "https://open.spotify.com/artist/44btqMHopGiWCGHMtFw3mv"
+        },
+        {
+          "name": "Bella Renee",
+          "url": "https://open.spotify.com/artist/7od8NRvfdfAanx6IcY7JSa"
+        }
+      ],
+      "date_added": "2023-10-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190344,
+      "name": "Breathless",
+      "url": "https://open.spotify.com/track/4jAfYYoloWzM9E7Zmej5uq"
+    },
+    {
+      "album": {
         "name": "Broken",
         "url": "https://open.spotify.com/album/5w6PRg76eYGyZpU2X61Adl"
       },
@@ -5316,6 +5342,28 @@
       "duration_ms": 210000,
       "name": "Fallen",
       "url": "https://open.spotify.com/track/541X1Kd0KzOLxspM1T8fiv"
+    },
+    {
+      "album": {
+        "name": "Fallen",
+        "url": "https://open.spotify.com/album/1ivE1jTe5sDLo3hh9eqef1"
+      },
+      "artists": [
+        {
+          "name": "Pauline Herr",
+          "url": "https://open.spotify.com/artist/66VgJGpaRMwrNaS2MPqIDf"
+        },
+        {
+          "name": "Jon Casey",
+          "url": "https://open.spotify.com/artist/5ttBnysifryX99bjzeFPGr"
+        }
+      ],
+      "date_added": "2023-10-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189517,
+      "name": "Fallen",
+      "url": "https://open.spotify.com/track/3VvQKhWigoAD5pfM6zul48"
     },
     {
       "album": {
@@ -10699,6 +10747,28 @@
     },
     {
       "album": {
+        "name": "Misunderstood",
+        "url": "https://open.spotify.com/album/2IixWbqy7LkeR17eg0Hvu8"
+      },
+      "artists": [
+        {
+          "name": "Afinity",
+          "url": "https://open.spotify.com/artist/6N7etQK8kFwtD0Kch6FVvf"
+        },
+        {
+          "name": "Dia Frampton",
+          "url": "https://open.spotify.com/artist/3ppkM4QtM781APpaX7H9t7"
+        }
+      ],
+      "date_added": "2023-10-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240000,
+      "name": "Misunderstood",
+      "url": "https://open.spotify.com/track/3Mss2MDTVmUDJXeepx796f"
+    },
+    {
+      "album": {
         "name": "Second Nature",
         "url": "https://open.spotify.com/album/2kD4XTloruMrJ1vRs9Giks"
       },
@@ -15027,6 +15097,24 @@
     },
     {
       "album": {
+        "name": "CIRCUIT DREAMS",
+        "url": "https://open.spotify.com/album/1tz6AIBHxEH3rfBZ8ri80P"
+      },
+      "artists": [
+        {
+          "name": "Pirapus",
+          "url": "https://open.spotify.com/artist/7KgEOoJ0CawH7NOaLe34Qe"
+        }
+      ],
+      "date_added": "2023-10-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204137,
+      "name": "SO HIGH",
+      "url": "https://open.spotify.com/track/4iru4THOvnPBJMBwvrUDPS"
+    },
+    {
+      "album": {
         "name": "Sober",
         "url": "https://open.spotify.com/album/2xAQ6N5SfAUdzJX0RDsKyP"
       },
@@ -15694,6 +15782,28 @@
       "duration_ms": 166153,
       "name": "Summertime Sadness",
       "url": "https://open.spotify.com/track/6dzgD9TYa77Um3BNhRRp3i"
+    },
+    {
+      "album": {
+        "name": "CIRCUIT DREAMS",
+        "url": "https://open.spotify.com/album/1tz6AIBHxEH3rfBZ8ri80P"
+      },
+      "artists": [
+        {
+          "name": "Pirapus",
+          "url": "https://open.spotify.com/artist/7KgEOoJ0CawH7NOaLe34Qe"
+        },
+        {
+          "name": "Roddy Campbell",
+          "url": "https://open.spotify.com/artist/2IA9Vt0HegYqYD3rRxwhH8"
+        }
+      ],
+      "date_added": "2023-10-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224914,
+      "name": "SUMS",
+      "url": "https://open.spotify.com/track/02hdD7Cf1YV6mbajuqF9FR"
     },
     {
       "album": {

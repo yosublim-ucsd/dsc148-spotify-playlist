@@ -226,7 +226,7 @@
       ],
       "date_added": "2023-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-20",
       "duration_ms": 170839,
       "name": "1-800-O\u015aWIECENIE",
       "url": "https://open.spotify.com/track/4voI3idZUVyfVI5Vb2zfAg"
@@ -1236,6 +1236,28 @@
       "duration_ms": 139672,
       "name": "Acapulco",
       "url": "https://open.spotify.com/track/3eJH2nAjvNXdmPfBkALiPZ"
+    },
+    {
+      "album": {
+        "name": "ADDERALL",
+        "url": "https://open.spotify.com/album/05EmVJT84UGUaeCWaebZDd"
+      },
+      "artists": [
+        {
+          "name": "Kukon",
+          "url": "https://open.spotify.com/artist/3U5Oag04Yl2WnvPULOlsMD"
+        },
+        {
+          "name": "Brodka",
+          "url": "https://open.spotify.com/artist/4D22jVMhvZgzvt8Hh9AcKY"
+        }
+      ],
+      "date_added": "2023-10-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158297,
+      "name": "ADDERALL",
+      "url": "https://open.spotify.com/track/1Ki7FuiF2krk4lD8zjV3Nz"
     },
     {
       "album": {
@@ -8250,7 +8272,7 @@
       ],
       "date_added": "2023-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-20",
       "duration_ms": 119120,
       "name": "ecstacy (slowed)",
       "url": "https://open.spotify.com/track/1JgknGBbrfmEHeOZH051SS"
@@ -25174,7 +25196,7 @@
       ],
       "date_added": "2022-06-11",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-06",
+      "date_removed": null,
       "duration_ms": 63802,
       "name": "Sonic Skit",
       "url": "https://open.spotify.com/track/5d2lkJfRpza95F0c1ZhTfX"

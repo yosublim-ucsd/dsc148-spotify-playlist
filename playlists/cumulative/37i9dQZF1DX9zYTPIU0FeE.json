@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-10-01",
-  "description": "Journey through the exciting and innovative sounds of South African Jazz. Cover: <a href=\"https://open.spotify.com/artist/7xfBWpNiwO2yteiY68OB6C?si=EjNBNj-rTx2PbN4oc64EcQ\">Desire Marea</a>",
+  "description": "Journey through the exciting and innovative sounds of South African Jazz. Cover: <a href=\"https://open.spotify.com/artist/6fZnlEQhCdN5rTWuzKG7ao?si=PTlXF2E1SoKbV2yr7WZZXw\">Nkosi Zondo</a>",
   "name": "Jazz NXT",
   "tracks": [
     {
@@ -244,6 +244,28 @@
       "duration_ms": 330124,
       "name": "Bayakhala",
       "url": "https://open.spotify.com/track/044VNnUGUaAOphHS0uHITs"
+    },
+    {
+      "album": {
+        "name": "Bela Bela (Live Studio)",
+        "url": "https://open.spotify.com/album/7jwsvjLpVhlglv8Wy7NZOn"
+      },
+      "artists": [
+        {
+          "name": "Nkosi Zondo",
+          "url": "https://open.spotify.com/artist/6fZnlEQhCdN5rTWuzKG7ao"
+        },
+        {
+          "name": "Bhekinkosi 'Soja' Hlatshwayo",
+          "url": "https://open.spotify.com/artist/1pOOeJi41sMEExc6FXxWIR"
+        }
+      ],
+      "date_added": "2023-10-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 398173,
+      "name": "Bela Bela - Live Studio",
+      "url": "https://open.spotify.com/track/29uC6WCV5q0jYJlfVw8IDc"
     },
     {
       "album": {

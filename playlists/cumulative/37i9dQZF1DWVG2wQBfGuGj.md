@@ -4,7 +4,7 @@
 
 > Surrender to the chill of the White Island with these laid\-back house and nu\-disco groovers.
 
-195 songs - 10 hr 6 min
+196 songs - 10 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -71,7 +71,7 @@
 | [finders keepers](https://open.spotify.com/track/7zOCuC0lIMGoTP8z0xUluv) | [Gabri From France](https://open.spotify.com/artist/4ybvTRsVimsKgk44cmwFSj) | [finders keepers](https://open.spotify.com/album/4YegljCmxI9QhS0wbG7ns9) | 2:55 | 2023-05-05 |  |
 | [Flight Home](https://open.spotify.com/track/0T6hXxaVQ3SKvnMweUX9P8) | [Alex R](https://open.spotify.com/artist/0UF2hegc0QcgMzZYI6bYB2) | [Flight Home](https://open.spotify.com/album/4x8lHP9jnahY4epxlwpG5P) | 4:06 | 2023-05-05 | 2023-08-19 |
 | [flirty talk](https://open.spotify.com/track/212O37gB5Oh2RIKOhXXn8m) | [genelion](https://open.spotify.com/artist/2TMzn3AIEg6b4Nd28MjUNA) | [flirty talk](https://open.spotify.com/album/7AFrOWKoPKNhLpbwqJPbLz) | 2:19 | 2023-05-05 |  |
-| [flux de vibrations](https://open.spotify.com/track/44pzUk3UueCxKWuj8rbfvu) | [Paon Bleu](https://open.spotify.com/artist/4WYWCaNbo0tE3g7D3CEjzZ) | [flux de vibrations](https://open.spotify.com/album/5alTmX5H7d7W8JTWQwxYM9) | 2:56 | 2023-05-05 |  |
+| [flux de vibrations](https://open.spotify.com/track/44pzUk3UueCxKWuj8rbfvu) | [Paon Bleu](https://open.spotify.com/artist/4WYWCaNbo0tE3g7D3CEjzZ) | [flux de vibrations](https://open.spotify.com/album/5alTmX5H7d7W8JTWQwxYM9) | 2:56 | 2023-05-05 | 2023-10-20 |
 | [Forever](https://open.spotify.com/track/0d3aVK5p4ULp4r2Nmd7f3C) | [Roffe & Friends](https://open.spotify.com/artist/62m78RjjiHUr7cr0vpvDig) | [Forever](https://open.spotify.com/album/608b83QDjBMRWUyeKuPqHR) | 3:37 | 2023-05-05 |  |
 | [Forever](https://open.spotify.com/track/4ShNQ8fptxSZJlxPrB9WH9) | [Sorealistic](https://open.spotify.com/artist/3JZ7YTqD3kuO06iDUjMoNS) | [Forever](https://open.spotify.com/album/702MvPJm14n0vapHvva2So) | 2:27 | 2023-05-05 | 2023-08-12 |
 | [FourTwenty](https://open.spotify.com/track/59nnEAlpfTItpuIfhsucbf) | [Mijjo](https://open.spotify.com/artist/0RCnXaNg2V72pjh7szTSNG) | [FourTwenty](https://open.spotify.com/album/7iKEO0B7yXtgFoJtCxkxRY) | 3:00 | 2023-05-05 |  |
@@ -165,6 +165,7 @@
 | [Straight Curves](https://open.spotify.com/track/2t7tr3u3eP9maEcdnxdWco) | [Poreniacs](https://open.spotify.com/artist/3UWaMtK5W6hxqll176xaTv) | [Straight Curves](https://open.spotify.com/album/5txvqoRrYhbH8xDGuSxbgt) | 2:31 | 2023-08-11 |  |
 | [Summer Haze](https://open.spotify.com/track/5hroJun9AzlCNFDC7ScBol) | [André Aguado](https://open.spotify.com/artist/6USxBSmx4wkhLW61dT1DgC) | [Summer Haze](https://open.spotify.com/album/7lZSOlmlbo5nfmXaNtZSzw) | 3:15 | 2023-05-05 |  |
 | [Summer Haze](https://open.spotify.com/track/1Rpb9M4NAROfBsuw0QAkUR) | [Innocent Panda](https://open.spotify.com/artist/4YxGTSc5GifPVUD3ILmbsv) | [Summer Haze](https://open.spotify.com/album/6QY9bO1j7bH2cI0BtMA4yV) | 3:28 | 2023-05-05 |  |
+| [summer somewhere](https://open.spotify.com/track/6vXYQh5NKBSDjOxgKXjXr6) | [Kacey View](https://open.spotify.com/artist/5V6YChLiAxyybNfGTpdXOi) | [summer somewhere](https://open.spotify.com/album/7g1pEXexNSRzZ6YMYfElbr) | 2:00 | 2023-10-20 |  |
 | [Summersome](https://open.spotify.com/track/0pL57Pk7EEgfy6z92VRa0G) | [Damian Holden](https://open.spotify.com/artist/6VgyMZzlNejIhFh7Yn6SlM) | [Summersome](https://open.spotify.com/album/4QO93jpdiy9nkHMk5KCuSy) | 2:30 | 2023-05-05 |  |
 | [Sunrise](https://open.spotify.com/track/5PMBsw2yDBmYJtAlz4G8FM) | [Part2](https://open.spotify.com/artist/07NTW8rhDS0FTuXB9eBuex) | [Sunrise](https://open.spotify.com/album/6EZZq0ZMxuB0mE1OVb3VPy) | 2:55 | 2023-05-05 |  |
 | [Sunset Groove](https://open.spotify.com/track/2b95f2mVCMMsd3hXti60if) | [Mandoja](https://open.spotify.com/artist/0BBuIQuQkbPCu68yfdkmmH) | [Sunset Groove](https://open.spotify.com/album/1NZrHUIs5K3k49LhxIysMf) | 2:58 | 2023-05-05 |  |

@@ -2753,6 +2753,24 @@
     },
     {
       "album": {
+        "name": "Saint-Denis",
+        "url": "https://open.spotify.com/album/3wCO7hvSkDUNEs0jPITJzh"
+      },
+      "artists": [
+        {
+          "name": "Jules Moreau",
+          "url": "https://open.spotify.com/artist/4EgOpuGf3Qe7DYYol4AJCz"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170706,
+      "name": "Saint-Denis",
+      "url": "https://open.spotify.com/track/5kg6zxNyVtRRJ6nkWrwjNg"
+    },
+    {
+      "album": {
         "name": "Enrique Ugarte: Valse Musette De Paris",
         "url": "https://open.spotify.com/album/40lbxc3DN4ml0PdpajRj4u"
       },

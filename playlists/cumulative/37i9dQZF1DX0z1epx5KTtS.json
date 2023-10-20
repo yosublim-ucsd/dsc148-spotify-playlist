@@ -1211,6 +1211,28 @@
     },
     {
       "album": {
+        "name": "Gnonmi Avec Lait (Remix)",
+        "url": "https://open.spotify.com/album/2ddu9tzfA9yX18TXIbahkx"
+      },
+      "artists": [
+        {
+          "name": "Fior 2 Bior",
+          "url": "https://open.spotify.com/artist/1Aa3gpwuQeWHXUkjCa6BrL"
+        },
+        {
+          "name": "Magic Diezel",
+          "url": "https://open.spotify.com/artist/6rZ6trCuPYGDWkwuWWDnwa"
+        }
+      ],
+      "date_added": "2023-10-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231176,
+      "name": "Gnonmi Avec Lait - Remix",
+      "url": "https://open.spotify.com/track/3QnS0A9QgUik2KThVN0TQf"
+    },
+    {
+      "album": {
         "name": "Godo Godo",
         "url": "https://open.spotify.com/album/7gdUmmaUUZLYvD9KaLnSaV"
       },
@@ -1302,7 +1324,7 @@
       ],
       "date_added": "2023-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-20",
       "duration_ms": 197511,
       "name": "Grimper",
       "url": "https://open.spotify.com/track/1MhIUr4BPM6djNmuyIRmFm"
@@ -2287,6 +2309,28 @@
     },
     {
       "album": {
+        "name": "Lumi\u00e8re",
+        "url": "https://open.spotify.com/album/6DbZeMqndcEBZiJT65WbbI"
+      },
+      "artists": [
+        {
+          "name": "Apoutchou National",
+          "url": "https://open.spotify.com/artist/7kHgJvT9eOCLwXr4xPIRnC"
+        },
+        {
+          "name": "Ks Bloom",
+          "url": "https://open.spotify.com/artist/0iSX5EqjPdp2xkU7fgw7bp"
+        }
+      ],
+      "date_added": "2023-10-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176560,
+      "name": "Papa arrive",
+      "url": "https://open.spotify.com/track/1623sw26SCie7IvE1yUKCp"
+    },
+    {
+      "album": {
         "name": "GRINTA",
         "url": "https://open.spotify.com/album/1vEPXP3H5oAg8OOYdKF3pX"
       },
@@ -2822,7 +2866,7 @@
       ],
       "date_added": "2023-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-20",
       "duration_ms": 85097,
       "name": "X plus",
       "url": "https://open.spotify.com/track/6MxBbEeCOkPv6qKjGMx5SP"

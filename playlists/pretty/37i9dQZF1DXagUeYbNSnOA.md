@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXagUeYbNSnOA.md) - [plain]
 
 > The best new music by independent artists and labels, featuring Olivia García\. Updates every Wednesday.
 
-[Spotify](https://open.spotify.com/user/spotify) - 172,440 likes - 50 songs - 2 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 172,483 likes - 50 songs - 2 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,15 +48,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXagUeYbNSnOA.md) - [plain]
 | 38 | [Alocate](https://open.spotify.com/track/2lrkyyy1rvS9sT7Nf0flYz) | [JerrySAN](https://open.spotify.com/artist/2lou6Y1PGYhtKFDqdLoN2r) | [Alocate](https://open.spotify.com/album/0UQCMdISZ8ITpQ3a9kCJMJ) | 2:26 |
 | 39 | [Levita](https://open.spotify.com/track/1U66GdBkvUEgF6wDo1O87d) | [JACE Carrillo](https://open.spotify.com/artist/3SkH0TcPc8cxGospxnjClx) | [Phenomena](https://open.spotify.com/album/0TSn5qofrwyg49HNrt1N1k) | 3:01 |
 | 40 | [la gravedad](https://open.spotify.com/track/5yxTppo1pOxR1yYtONIUrJ) | [mediopicky](https://open.spotify.com/artist/6vOfSVXZAWvuZliupPw4Wm) | [la gravedad](https://open.spotify.com/album/5Q7zP1RICrgVrQY2JEK4IM) | 2:17 |
-| 41 | [Dosix](https://open.spotify.com/track/3od8ElTDYe2ZToTFP5OsgZ) | [Lil Jay](https://open.spotify.com/artist/7neFhTFVookDs34nst9NKo) | [CATARSIX](https://open.spotify.com/album/3i5Ssjn9PE39EUdqE27ytp) | 2:06 |
-| 42 | [Hipnotizado](https://open.spotify.com/track/7os13mKds81NvwtSMz7kqw) | [Emyl Rusev](https://open.spotify.com/artist/6nlEU8dj964UFSPfojvK5L) | [Hipnotizado](https://open.spotify.com/album/0VKUaQ4Y8qAbbCFE4LLlH9) | 2:16 |
-| 43 | [Amanecer](https://open.spotify.com/track/0GPtTtncJBCsj960GfMSXy) | [Maikcel](https://open.spotify.com/artist/7ztqGuOjym3CJ0pYlFHLaK), [Lalo Cortés](https://open.spotify.com/artist/5aOSxuZtFtsOFvNB4xlssQ) | [Amanecer](https://open.spotify.com/album/4T5ZWgrw4oQg69VDoPZyXU) | 3:16 |
-| 44 | [Delirando](https://open.spotify.com/track/2YK1bWEZYctEqUmk6dnTFi) | [Eloisa](https://open.spotify.com/artist/1GbHLsyBjx0L5uJoPRoelG) | [Delirando](https://open.spotify.com/album/5IO7Xu0Nb5gP9DqNLsA0zf) | 2:34 |
+| 41 | [Hipnotizado](https://open.spotify.com/track/7os13mKds81NvwtSMz7kqw) | [Emyl Rusev](https://open.spotify.com/artist/6nlEU8dj964UFSPfojvK5L) | [Hipnotizado](https://open.spotify.com/album/0VKUaQ4Y8qAbbCFE4LLlH9) | 2:16 |
+| 42 | [Dosix](https://open.spotify.com/track/3od8ElTDYe2ZToTFP5OsgZ) | [Lil Jay](https://open.spotify.com/artist/7neFhTFVookDs34nst9NKo) | [CATARSIX](https://open.spotify.com/album/3i5Ssjn9PE39EUdqE27ytp) | 2:06 |
+| 43 | [Delirando](https://open.spotify.com/track/2YK1bWEZYctEqUmk6dnTFi) | [Eloisa](https://open.spotify.com/artist/1GbHLsyBjx0L5uJoPRoelG) | [Delirando](https://open.spotify.com/album/5IO7Xu0Nb5gP9DqNLsA0zf) | 2:34 |
+| 44 | [Amanecer](https://open.spotify.com/track/0GPtTtncJBCsj960GfMSXy) | [Maikcel](https://open.spotify.com/artist/7ztqGuOjym3CJ0pYlFHLaK), [Lalo Cortés](https://open.spotify.com/artist/5aOSxuZtFtsOFvNB4xlssQ) | [Amanecer](https://open.spotify.com/album/4T5ZWgrw4oQg69VDoPZyXU) | 3:16 |
 | 45 | [Llegale](https://open.spotify.com/track/18clgrJq3EfNWll8NacN2t) | [Slim Ans](https://open.spotify.com/artist/4JFse8c35wKHAuzJO9BTqO), [Polo Ml](https://open.spotify.com/artist/5bTmknFI6te1DhUpfWqhcR), [Krazy Flow ML](https://open.spotify.com/artist/42mthG3ab7EzyrZ4wnDV4Z), [Mundo Loco Crew](https://open.spotify.com/artist/6w0PX15pVK5D4SIB642QLI) | [Llegale](https://open.spotify.com/album/4vzKrk18fYxBDAtUAco127) | 3:11 |
 | 46 | [contratiempo](https://open.spotify.com/track/1MC66QbWw8yNMK27foDnOR) | [los romances](https://open.spotify.com/artist/7srAOn17fO00nYRZiJkH0J), [Teesan](https://open.spotify.com/artist/6KRHiXeNG8whhNjXit3M6X) | [contratiempo](https://open.spotify.com/album/3iWrV6f4obDnaZFErIiRd8) | 2:18 |
 | 47 | [TÓXICA](https://open.spotify.com/track/6ahdxx6xNTnA2MVDxhS3we) | [Legorreta](https://open.spotify.com/artist/7H7PSOSgC6q5dLbytIl4bV) | [TÓXICA](https://open.spotify.com/album/3tIg0qMA3ZngRWqyyYR8W7) | 2:35 |
-| 48 | [El Espejo](https://open.spotify.com/track/0wqKDRWbMCI1nAAkVcruhB) | [Juan Astronauta](https://open.spotify.com/artist/4pcBzfDpLQElWkjEif8BI3) | [El Espejo](https://open.spotify.com/album/5lZgcWviJISsiFoBMnX7d5) | 3:44 |
-| 49 | [Metro \(Una Fiesta de Disfraces\)](https://open.spotify.com/track/6pPlLe11poISH7sAfrzn3P) | [el pájaro del mar](https://open.spotify.com/artist/6ufE2Ze2PczyxVdbdJwQDd) | [Metro \(Una Fiesta de Disfraces\)](https://open.spotify.com/album/1GLy9HJJrGLKU7FTpSU0b3) | 4:00 |
+| 48 | [Metro \(Una Fiesta de Disfraces\)](https://open.spotify.com/track/6pPlLe11poISH7sAfrzn3P) | [el pájaro del mar](https://open.spotify.com/artist/6ufE2Ze2PczyxVdbdJwQDd) | [Metro \(Una Fiesta de Disfraces\)](https://open.spotify.com/album/1GLy9HJJrGLKU7FTpSU0b3) | 4:00 |
+| 49 | [El Espejo](https://open.spotify.com/track/0wqKDRWbMCI1nAAkVcruhB) | [Juan Astronauta](https://open.spotify.com/artist/4pcBzfDpLQElWkjEif8BI3) | [El Espejo](https://open.spotify.com/album/5lZgcWviJISsiFoBMnX7d5) | 3:44 |
 | 50 | [aguanta cine](https://open.spotify.com/track/0plt2LEHt0VR7HFMxnpXFP) | [El Perri De Matt](https://open.spotify.com/artist/2G8obXWuz3LmXSAstk0nmA) | [aguanta cine](https://open.spotify.com/album/4MGKawfEHL16KNAS9x8EG9) | 5:00 |
 
-Snapshot ID: `MCwxNGJiZDM4OTA3OWRhYWFhODFmZWZjMzAyMmMxNzhhYTc3YzEzNzVi`
+Snapshot ID: `MCxlZDRjMDRkOGU0ODc5YTM0NmY4ODE5OGU0NWE0NjhhNzBiN2ZlY2Zh`

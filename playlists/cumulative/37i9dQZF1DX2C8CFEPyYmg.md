@@ -4,7 +4,7 @@
 
 > Soothing strings for our sleepy little ones.
 
-466 songs - 14 hr 22 min
+467 songs - 14 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -41,6 +41,7 @@
 | [Are You Sleeping/Frere Jacques](https://open.spotify.com/track/1YdSSgLpMWZcd19T1FoJVv) | [Tippy Tapp](https://open.spotify.com/artist/3mfGOb7OtunRN7s8MiRczA) | [Are You Sleeping/Frere Jacques](https://open.spotify.com/album/4VjJKT36JKTtQ6fLn1rX77) | 1:19 | 2022-08-11 | 2022-09-23 |
 | [Arrorró mi niño](https://open.spotify.com/track/2evLEM6b40sSXZ5dILCsQb) | [Joaquin Moreno Silva](https://open.spotify.com/artist/5vSCkD7iPcBU0GgEASL4ss) | [Arrorró mi niño](https://open.spotify.com/album/732cnh2czygqCKQtOrBnzI) | 1:48 | 2022-09-22 |  |
 | [As You Fall Asleep](https://open.spotify.com/track/3e02zZNzCZ0i9WVMqhD0Xz) | [Kim Wayne](https://open.spotify.com/artist/61rwfAiRHfG3L9DEvzUQoW) | [As You Fall Asleep](https://open.spotify.com/album/3Wh3lssmmWfvlTC3xouIXP) | 1:28 | 2022-08-11 |  |
+| [Autumn Joy](https://open.spotify.com/track/6N72VsDHQL9QPe2XDY3YaQ) | [Thomas Scheller](https://open.spotify.com/artist/26Dtv4a7haiHQI10e0mDJg) | [Autumn Joy](https://open.spotify.com/album/1997Gm8TX9mrOZWi6At4K8) | 1:41 | 2023-10-20 |  |
 | [Ave Nocturne](https://open.spotify.com/track/28JvPv8QUEE747BM5ujR5B) | [Henrik Janson](https://open.spotify.com/artist/5kIhxGyX6VtcsLk88dwYED) | [Classical Baby Sleep Music](https://open.spotify.com/album/3c9bS2lz06ixypXB49deUz) | 2:49 | 2022-08-11 | 2023-02-18 |
 | [Ave Nocturne Ancora](https://open.spotify.com/track/6vK5Ece4msGMx1MgI1zVZZ) | [Eventime](https://open.spotify.com/artist/22Y9hEs4XJFHQnO3qkMDD8) | [Ave Nocturne Ancora](https://open.spotify.com/album/1NMZccxgdQoweWiGwCmAio) | 1:43 | 2022-08-11 | 2023-02-18 |
 | [B\-I\-N\-G\-O](https://open.spotify.com/track/08FWkkXnC9Orj3NCVyWtay) | [Dean Dreams](https://open.spotify.com/artist/1TKNjw0zeyr7h15apaCSoN) | [B\-I\-N\-G\-O](https://open.spotify.com/album/2sn7rtgxCRD1PMTcCcSLiN) | 1:50 | 2023-02-17 |  |

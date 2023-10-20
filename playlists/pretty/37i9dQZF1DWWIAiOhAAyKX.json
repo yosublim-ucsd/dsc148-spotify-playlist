@@ -1,12 +1,12 @@
 {
   "description": "if bunny is on, you know it's a good perreo.",
-  "num_followers": 201126,
+  "num_followers": 201245,
   "original_name": "Party Bunny",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxZjBmZTY0ZThlNTIwNTc4NTdiNjc0MmE5M2E3ZDc3N2U3YmIwYTM0",
+  "snapshot_id": "MCw5NmQwYjY2NmZiODEwMTYyNzJjYWYzMDhhMmQ1ODI0Y2RiOTQ2YTJh",
   "tracks": [
     {
       "added_at": "2023-10-13 04:01:00",
@@ -831,22 +831,18 @@
     {
       "added_at": "2023-10-13 04:01:00",
       "album": {
-        "name": "LAS QUE NO IBAN A SALIR",
-        "url": "https://open.spotify.com/album/4gvQO5mEuhbMSrLIuwXkmz"
+        "name": "X 100PRE",
+        "url": "https://open.spotify.com/album/7CjJb2mikwAWA1V6kewFBF"
       },
       "artists": [
         {
           "name": "Bad Bunny",
           "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
-        },
-        {
-          "name": "Nicky Jam",
-          "url": "https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT"
         }
       ],
-      "duration_ms": 202240,
-      "name": "BAD CON NICKY",
-      "url": "https://open.spotify.com/track/5bmSver2b3ZXyuyLKtgnFI"
+      "duration_ms": 188654,
+      "name": "Cuando Perriabas",
+      "url": "https://open.spotify.com/track/5mj8WVFcKdGA8p9HWGTSLc"
     }
   ],
   "unique_name": "Party Bunny",

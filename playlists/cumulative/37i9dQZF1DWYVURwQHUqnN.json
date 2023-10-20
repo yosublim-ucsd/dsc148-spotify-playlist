@@ -731,6 +731,24 @@
     },
     {
       "album": {
+        "name": "Salsa",
+        "url": "https://open.spotify.com/album/1dHwor6ZgMyqwNCb6gxx4x"
+      },
+      "artists": [
+        {
+          "name": "HDX",
+          "url": "https://open.spotify.com/artist/7GxsVvE196y7ZQKRmhyEY6"
+        }
+      ],
+      "date_added": "2023-10-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156493,
+      "name": "Salsa",
+      "url": "https://open.spotify.com/track/6Sn4DF082OidVgKmF2IJSo"
+    },
+    {
+      "album": {
         "name": "Reinsertado",
         "url": "https://open.spotify.com/album/6h5tdNdOnnFL6zbeMeeqdk"
       },
@@ -970,7 +988,7 @@
       ],
       "date_added": "2023-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-20",
       "duration_ms": 172750,
       "name": "Z\u00e9ro Soucis",
       "url": "https://open.spotify.com/track/0eDyUBPdPjS5t2IapdVYim"

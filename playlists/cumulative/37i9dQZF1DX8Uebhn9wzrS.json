@@ -234,7 +234,7 @@
       ],
       "date_added": "2022-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-20",
       "duration_ms": 111653,
       "name": "74 miles from you",
       "url": "https://open.spotify.com/track/3RsPo4nBGUTbQYtT3CGyIC"
@@ -1630,7 +1630,7 @@
       ],
       "date_added": "2023-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-20",
       "duration_ms": 123000,
       "name": "Antarctica",
       "url": "https://open.spotify.com/track/4XSdiAZD5pzVku3fnetINH"
@@ -1792,7 +1792,7 @@
       ],
       "date_added": "2023-07-13",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-19",
+      "date_removed": null,
       "duration_ms": 169301,
       "name": "arrival",
       "url": "https://open.spotify.com/track/7J1e0LTIZRjdz7i6WWdWcF"
@@ -2138,7 +2138,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-15",
+      "date_removed": null,
       "duration_ms": 95999,
       "name": "autumn nights",
       "url": "https://open.spotify.com/track/54fOJRAITOTPKTMtuBFwot"
@@ -3658,7 +3658,7 @@
       ],
       "date_added": "2023-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-20",
       "duration_ms": 135348,
       "name": "Bonsai",
       "url": "https://open.spotify.com/track/0JS2nQBvx8JDpNadPPlqNb"
@@ -5654,7 +5654,7 @@
       ],
       "date_added": "2023-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-20",
       "duration_ms": 144285,
       "name": "Cold Nose",
       "url": "https://open.spotify.com/track/4UmcSZJKJ63wnB5qHyYaIV"
@@ -6254,7 +6254,7 @@
       ],
       "date_added": "2022-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-20",
       "duration_ms": 126776,
       "name": "creative space",
       "url": "https://open.spotify.com/track/0tEX5NhgBIAMpmENzncJJt"
@@ -6948,7 +6948,7 @@
       ],
       "date_added": "2023-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-20",
       "duration_ms": 137897,
       "name": "Diaphane",
       "url": "https://open.spotify.com/track/00oTqcKHoGsI2RpajOg0hh"
@@ -12918,7 +12918,7 @@
       ],
       "date_added": "2023-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-20",
       "duration_ms": 162068,
       "name": "Il Pigro Mafioso (The Lazy Mobster)",
       "url": "https://open.spotify.com/track/7wUevqE8Kpl6p6xZKAi7gl"
@@ -13302,7 +13302,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-18",
+      "date_removed": null,
       "duration_ms": 100416,
       "name": "Inspired",
       "url": "https://open.spotify.com/track/7FtklceBvMCY4Fju8qATUH"
@@ -17346,7 +17346,7 @@
       ],
       "date_added": "2022-10-07",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-17",
+      "date_removed": null,
       "duration_ms": 136551,
       "name": "Mistle",
       "url": "https://open.spotify.com/track/09F4NbaDx67AaQdukx5tIw"
@@ -21122,7 +21122,7 @@
       ],
       "date_added": "2022-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-20",
       "duration_ms": 128033,
       "name": "perpetually tired",
       "url": "https://open.spotify.com/track/69d9hCmlb6V3Q3JA71yG3i"
@@ -21436,7 +21436,7 @@
       ],
       "date_added": "2022-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-20",
       "duration_ms": 133333,
       "name": "PMA",
       "url": "https://open.spotify.com/track/6XpsLtaW35rrpeOyJN7O5b"
@@ -24727,6 +24727,24 @@
     },
     {
       "album": {
+        "name": "Softly Whispering",
+        "url": "https://open.spotify.com/album/100YLSEn3RzaqIyNKQzEk3"
+      },
+      "artists": [
+        {
+          "name": "Convivial",
+          "url": "https://open.spotify.com/artist/59HctYEqVbvHq6aJ766KPH"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187022,
+      "name": "Softly Whispering",
+      "url": "https://open.spotify.com/track/6CVpyt67DY1JwuR8prqPmP"
+    },
+    {
+      "album": {
         "name": "Solar",
         "url": "https://open.spotify.com/album/3Ffecx6cyJhztdHVkBs4nr"
       },
@@ -26546,6 +26564,24 @@
       "duration_ms": 141300,
       "name": "surf & turf",
       "url": "https://open.spotify.com/track/6CxVGgxFnIIqKmZGHxWxDK"
+    },
+    {
+      "album": {
+        "name": "Surf Tiger",
+        "url": "https://open.spotify.com/album/4jTtUszaxX0G32HP7nG2SE"
+      },
+      "artists": [
+        {
+          "name": "ohlos",
+          "url": "https://open.spotify.com/artist/72l8ZKvwKkr1ZMLzDcFxQC"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182250,
+      "name": "Surf Tiger",
+      "url": "https://open.spotify.com/track/0jwpEqWMwo5fR1XQXic4lg"
     },
     {
       "album": {
@@ -29344,7 +29380,7 @@
       ],
       "date_added": "2022-12-02",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-19",
+      "date_removed": null,
       "duration_ms": 170109,
       "name": "waiting",
       "url": "https://open.spotify.com/track/3gF4gVrbTHmkOYv5pi3YMU"
@@ -30192,7 +30228,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-18",
+      "date_removed": null,
       "duration_ms": 157333,
       "name": "Where Were You",
       "url": "https://open.spotify.com/track/1vGQOxqFAlGJdyGRhcN8y9"
@@ -30738,7 +30774,7 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-17",
+      "date_removed": null,
       "duration_ms": 117160,
       "name": "wrapped arms",
       "url": "https://open.spotify.com/track/2ubSXCCGBqeqVmAO9MLtJC"

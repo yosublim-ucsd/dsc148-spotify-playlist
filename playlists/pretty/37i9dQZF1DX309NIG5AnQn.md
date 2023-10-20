@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX309NIG5AnQn.md) - [plain]
 
 > rock alternativo argentino\. <br/>📷 Mujer Cebra
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,164 likes - 84 songs - 4 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,180 likes - 84 songs - 4 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -93,4 +93,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX309NIG5AnQn.md) - [plain]
 | 83 | [Piedra del Águila](https://open.spotify.com/track/4MvI1v4gJiMXzkF2x8O7S1) | [Las Ligas Menores](https://open.spotify.com/artist/3MNvKeLzGSvOPtXJAjCOzf) | [Piedra del Águila](https://open.spotify.com/album/2njRQrcNYEI4hDVzD4qmuZ) | 3:14 |
 | 84 | [Aguardiente](https://open.spotify.com/track/34h4kkt4n6SVI5zsjYrFvy) | [Marina Fages](https://open.spotify.com/artist/1jBRvUY23iEpMeGCKZ2RO3) | [EL MUNDO PEQUEÑO](https://open.spotify.com/album/7wmhvmQJ2Ms31oXLF0mLzi) | 4:25 |
 
-Snapshot ID: `MCw4MTYwZWMyMjFhMGY4ZGFmYTA0NTAyMTViMDJjODI4NDNhOThlODlm`
+Snapshot ID: `MCw0ZWQxMTNiNTlmNmEzM2I0ZmM5ZDc3YzI5Yzg2MTE1OTBmZWY2NDI2`

@@ -4,7 +4,7 @@
 
 > Check out the latest hits from Sandalwood!<br/>Cover : Ghost
 
-910 songs - 2 day 8 hr 4 min
+911 songs - 2 day 8 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -465,6 +465,7 @@
 | [Kousalya Supraja Rama Title Track \(From "Kousalya Supraja Rama"\)](https://open.spotify.com/track/1TMscod5OKfvsC1wtZQSGM) | [Prithwi Bhat](https://open.spotify.com/artist/3oHfvwbDQywYV2Kh2Cvr21), [Pooja Rao](https://open.spotify.com/artist/6VngqEcZilQLW9DSLl10dS), [Arjun Janya](https://open.spotify.com/artist/3IX32wm6CoEIYovZ0VcjBJ), [Shashank](https://open.spotify.com/artist/37yERfVx2mLLJAVigQekAN) | [Kousalya Supraja Rama Title Track \(From "Kousalya Supraja Rama"\)](https://open.spotify.com/album/0Er80ezv0fvfWkiHKCmCku) | 2:35 | 2023-06-13 | 2023-07-13 |
 | [Kranti Deepa](https://open.spotify.com/track/1FGQznFkfQ2nggQ4fs41ke) | [Satvik C S](https://open.spotify.com/artist/5nqsLJcHlqXLCvvWjdEIoR) | [Kranti Deepa](https://open.spotify.com/album/4J1yPPWodToG9L4QJUrc8h) | 2:59 | 2023-01-12 | 2023-05-18 |
 | [KTM \(Teaser Song\) \- From "KTM"](https://open.spotify.com/track/5a24SEoGoRlgECb8doSbrx) | [Chethan Rao](https://open.spotify.com/artist/3YgleCCvfoIo8ItIcZqXLt) | [KTM \(Teaser Song\) \[From "KTM"\]](https://open.spotify.com/album/3PGMwOnECFQaeds3CVZOH7) | 1:25 | 2023-01-12 | 2023-03-16 |
+| [Kudi Nota Saalade \(From "Garuda Purana"\)](https://open.spotify.com/track/7cMJ3cMqmwyGCUyVdF5aTI) | [Rakesh Acharya](https://open.spotify.com/artist/6AueyJq6aqbvnRw0zpTSVD), [Punith Arya](https://open.spotify.com/artist/0mGt3IkzLWeqSelwUx9vDb) | [Kudi Nota Saalade \(From "Garuda Purana"\)](https://open.spotify.com/album/22ktJkdNdz59kqsdoafpdx) | 3:58 | 2023-10-19 |  |
 | [Kudi Notada](https://open.spotify.com/track/11i2BpO3ftiPOrHioCAsSp) | [Sanjith Hegde](https://open.spotify.com/artist/1plObTufEAfeL1hk8Qz24v) | [SriKrishna@gmail.com](https://open.spotify.com/album/7FfFqZax9QEBOiDuwxPIRP) | 4:18 | 2021-12-06 | 2022-03-14 |
 | [Kugraamave \- From "Minnal Murali"](https://open.spotify.com/track/1RspDNer9uYrIPKDlIKZux) | [Chethan Naik](https://open.spotify.com/artist/3DaORH0Tws7WPuMKnQQj3Y), [Sushin Shyam](https://open.spotify.com/artist/1qFp8zDvsXyCsC5dqz8X4S) | [Kugraamave \(From "Minnal Murali"\)](https://open.spotify.com/album/0xNFvStG5PYuHE5cBSConG) | 1:37 | 2021-12-06 | 2022-02-03 |
 | [Kuhoo Kuhoo Kogile](https://open.spotify.com/track/2hyky5lX55tBk7TChY4k5g) | [Sriharsha](https://open.spotify.com/artist/3EHmSOzWIh8sts1UUZhblN), [Sneha Nannival](https://open.spotify.com/artist/0mOdGu0qzkCZHw6FmgUeiR) | [Padmavathi](https://open.spotify.com/album/3goFq28WSimRrkQt0zKfdG) | 4:55 | 2022-06-24 | 2022-07-29 |

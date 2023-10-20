@@ -1,12 +1,12 @@
 {
   "description": "Spooky szn brings majestic energy ",
-  "num_followers": 161423,
+  "num_followers": 161819,
   "original_name": "Enchanting October",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0Nzc2MWY3Yzk2YjM3NWE1ZmU1MDVjOTczYTVhNDE4NzdlZmY4ZTVh",
+  "snapshot_id": "MCw3ZGRmN2IxMWNlOTNjNjhkNjRiM2E3NDkzNjA1YjY4N2UxMmU0Mjcw",
   "tracks": [
     {
       "added_at": "2023-10-01 04:00:00",
@@ -135,6 +135,22 @@
       "duration_ms": 241346,
       "name": "Tenerife Sea",
       "url": "https://open.spotify.com/track/1HbcclMpw0q2WDWpdGCKdS"
+    },
+    {
+      "added_at": "2023-10-19 22:39:43",
+      "album": {
+        "name": "I Won't Be Your Foe",
+        "url": "https://open.spotify.com/album/6OhfRDchySkjM7GEUtrBFV"
+      },
+      "artists": [
+        {
+          "name": "Dekker",
+          "url": "https://open.spotify.com/artist/2Udd2jgFaz8tXG1w3PyMtN"
+        }
+      ],
+      "duration_ms": 164195,
+      "name": "Maybe October",
+      "url": "https://open.spotify.com/track/2ou8EQgoiqk73toLQrEIsc"
     },
     {
       "added_at": "2023-09-08 16:10:42",

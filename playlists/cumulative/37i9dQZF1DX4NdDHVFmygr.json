@@ -2833,6 +2833,24 @@
     },
     {
       "album": {
+        "name": "La Tz\u00f6r\u00f6ni",
+        "url": "https://open.spotify.com/album/4GwUKOnGUSek37TvxSKZy4"
+      },
+      "artists": [
+        {
+          "name": "Houssainy",
+          "url": "https://open.spotify.com/artist/0Vd0wj4JUTJ6M4ts8Xhpko"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170625,
+      "name": "La Tz\u00f6r\u00f6ni",
+      "url": "https://open.spotify.com/track/32GxbI4EMezFdM9hROGw5u"
+    },
+    {
+      "album": {
         "name": "La vie",
         "url": "https://open.spotify.com/album/3Jip0bL2i2bNwT7CKq2HZE"
       },
@@ -5302,7 +5320,7 @@
       ],
       "date_added": "2023-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-20",
       "duration_ms": 190515,
       "name": "WAYLE",
       "url": "https://open.spotify.com/track/4spfhufsgVF65phjTLRyn0"

@@ -2115,6 +2115,24 @@
     },
     {
       "album": {
+        "name": "Eternelle",
+        "url": "https://open.spotify.com/album/2k3nz0I7mJzegtkooii4za"
+      },
+      "artists": [
+        {
+          "name": "\u00c9dith Piaf",
+          "url": "https://open.spotify.com/artist/1WPcVNert9hn7mHsPKDn7j"
+        }
+      ],
+      "date_added": "2023-10-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142280,
+      "name": "Non, je ne regrette rien",
+      "url": "https://open.spotify.com/track/3dkIE8P7hvl3tHl9KSb6dA"
+    },
+    {
+      "album": {
         "name": "Hymne \u00e0 la m\u00f4me (Best of)",
         "url": "https://open.spotify.com/album/02JgvxWwBVPdSqZv5otEJy"
       },
@@ -2126,7 +2144,7 @@
       ],
       "date_added": "2021-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-20",
       "duration_ms": 143653,
       "name": "Non, je ne regrette rien - 2012 Remastered",
       "url": "https://open.spotify.com/track/6MqxXla8FnO99tgQ9vUHGd"

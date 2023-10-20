@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7YCknf2jT6s.md) - [plain]
 
 > New jazz for open minds\. Cover: Esperanza Spalding
 
-[Spotify](https://open.spotify.com/user/spotify) - 903,407 likes - 100 songs - 8 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 903,504 likes - 100 songs - 8 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -102,11 +102,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7YCknf2jT6s.md) - [plain]
 | 92 | [Sunbursting](https://open.spotify.com/track/5i35BpUHPzdgWY6YJNFige) | [Bibio](https://open.spotify.com/artist/0qzzGu8qpbXYpzgV52wOFT), [Óskar Guðjónsson](https://open.spotify.com/artist/3ngZoLWB98itd0iXhKtl9N) | [Sunbursting](https://open.spotify.com/album/4YjPkjnA20KAcFmYa3Jz04) | 3:19 |
 | 93 | [Nice It Up](https://open.spotify.com/track/4gDrNs3PStP2UVt9tKca0F) | [Idris Ackamoor](https://open.spotify.com/artist/5364PA7k8ziFDp6SME0c4Y), [The Pyramids](https://open.spotify.com/artist/3kCWVwcSSSggzNsjm8a6h2) | [Afro Futuristic Dreams](https://open.spotify.com/album/7uDX4DjHqn19vrtTYCGcUM) | 7:34 |
 | 94 | [The Truth](https://open.spotify.com/track/1SduusBOhgViSC8RmQaMCl) | [Jerry Bergonzi](https://open.spotify.com/artist/5CSkWcdoRvgBQDwJTZZstJ) | [The Truth](https://open.spotify.com/album/6kcHtklp3Sz65XHayO9GKl) | 6:28 |
-| 95 | [Kairos \(Kefi\)](https://open.spotify.com/track/1BIuzWaarv9MXcHsJHXJ0I) | [Miguel Atwood\-Ferguson](https://open.spotify.com/artist/6SlLXvZvYEGnurxBUpUdri) | [Selections from Les Jardins Mystiques Vol.1](https://open.spotify.com/album/5D1cEhsNMQBy4ZNryMZHNU) | 5:08 |
+| 95 | [Kairos \(Kefi\)](https://open.spotify.com/track/5sQmnjPVFjmK4huKE4Ab4z) | [Miguel Atwood\-Ferguson](https://open.spotify.com/artist/6SlLXvZvYEGnurxBUpUdri) | [Selections from Les Jardins Mystiques Vol.1](https://open.spotify.com/album/5pPVN3FdmHNMmMKEL7N3gW) | 5:08 |
 | 96 | [Baltimore](https://open.spotify.com/track/0cOpvX0oS7rQTfJg9Sipw8) | [Joshua Redman](https://open.spotify.com/artist/3uaHfXYx9Fh4HjqMbrWn5S) | [where are we](https://open.spotify.com/album/6lI2Db6atrpRHt0l76DQCl) | 5:37 |
 | 97 | [Gone Bowling](https://open.spotify.com/track/67wFGvo3gRo4x9VK4wezWR) | [Keeth](https://open.spotify.com/artist/5sv0yfLOm69KAnjd5mg52u) | [Gone Bowling](https://open.spotify.com/album/3atYtuKUcOZAdzZ61Tu00I) | 2:20 |
 | 98 | [The Junglist \- Bonus Track](https://open.spotify.com/track/0Ew7cCW9CQWEZX8KrOIiFk) | [Sons Of Kemet](https://open.spotify.com/artist/3pvRbmrqOyFxB2Eext4Dki) | [Burn \(10th Anniversary Remaster\)](https://open.spotify.com/album/6KPAS8bKufxqev7XFgg8ss) | 5:18 |
 | 99 | [Beg, Borrow, Play](https://open.spotify.com/track/0IrxzInuw0Er7sBOcEJfkL) | [The Outer Worlds Jazz Ensemble](https://open.spotify.com/artist/04QqmBzHerxSqF3rAO31dc), [Chip Wickham](https://open.spotify.com/artist/62MkXCxcZ345tVUHsD9NK0) | [Beg, Borrow, Play](https://open.spotify.com/album/4BmZpUaGW0lSb2DQMgUJMG) | 4:26 |
 | 100 | [Libera Me](https://open.spotify.com/track/0sPKdhJuJke18NRP4rlFbE) | [Jack Lee](https://open.spotify.com/artist/12ZVNsCxj4KCcXvUmrHbIW), [Nathan East](https://open.spotify.com/artist/5XTyy46AbpxIhvs38nQekJ) | [Heart And Soul](https://open.spotify.com/album/35B0dmoLWUMpUzyFZwaEy7) | 7:14 |
 
-Snapshot ID: `MCxhYjRkMzFkMjY0YjA5NjM3YjAzYjQyODI2ZWZlYzk0ZjIyZDQ3MmVi`
+Snapshot ID: `MCw1YmZiYzQ0NTRlYmQyMWJhMGRkZmFiNTMyY2Y1MjJhMzc3NDVmMjA5`

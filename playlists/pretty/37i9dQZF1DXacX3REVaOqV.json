@@ -1,12 +1,12 @@
 {
   "description": "The best in house music",
-  "num_followers": 177541,
+  "num_followers": 177646,
   "original_name": "House Supreme",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzNzMyNjQ0NjA2Y2Y3M2Y5NTA4NjljNTAzMDEzYjUxZTc5ZGY2OTNh",
+  "snapshot_id": "MCxjMDUzYzViZDg1ZmYxOGZhNjYxMmM2YTQwOWE0OGU1MzA2NTU4OTRm",
   "tracks": [
     {
       "added_at": "2023-10-06 19:36:10",
@@ -1715,22 +1715,6 @@
     {
       "added_at": "2023-10-06 19:36:10",
       "album": {
-        "name": "Pass Me The Wine Please (My Body)",
-        "url": "https://open.spotify.com/album/14GfAKLoQ5oOKWpC7Qebri"
-      },
-      "artists": [
-        {
-          "name": "Sem Jacobs",
-          "url": "https://open.spotify.com/artist/4IDxbXfz5yMK7OGD4sdRjt"
-        }
-      ],
-      "duration_ms": 200156,
-      "name": "Pass Me The Wine Please (My Body) - Edit",
-      "url": "https://open.spotify.com/track/2SSKzTxfeLddZau6f6WDem"
-    },
-    {
-      "added_at": "2023-10-06 19:36:10",
-      "album": {
         "name": "Play It Down 100",
         "url": "https://open.spotify.com/album/2QfqR0h7cBP7Q8TjKlb8lU"
       },
@@ -1755,18 +1739,18 @@
     {
       "added_at": "2023-10-06 19:36:10",
       "album": {
-        "name": "Dancing Queen",
-        "url": "https://open.spotify.com/album/4aMPmrlaiwuMxxq57bMFZB"
+        "name": "Pass Me The Wine Please (My Body)",
+        "url": "https://open.spotify.com/album/14GfAKLoQ5oOKWpC7Qebri"
       },
       "artists": [
         {
-          "name": "Tobias Bergson",
-          "url": "https://open.spotify.com/artist/0OaBO8SytZzvzAO3NOWiv3"
+          "name": "Sem Jacobs",
+          "url": "https://open.spotify.com/artist/4IDxbXfz5yMK7OGD4sdRjt"
         }
       ],
-      "duration_ms": 174208,
-      "name": "Dancing Queen",
-      "url": "https://open.spotify.com/track/2ogG50cmJxJ6P8aRnQ8u7s"
+      "duration_ms": 200156,
+      "name": "Pass Me The Wine Please (My Body) - Edit",
+      "url": "https://open.spotify.com/track/2SSKzTxfeLddZau6f6WDem"
     },
     {
       "added_at": "2023-10-06 19:36:10",
@@ -1787,6 +1771,38 @@
       "duration_ms": 234285,
       "name": "Nu World - Solomun Remix",
       "url": "https://open.spotify.com/track/4gIXnT4VbM21eqhWMinnpo"
+    },
+    {
+      "added_at": "2023-10-06 19:36:10",
+      "album": {
+        "name": "Dancing Queen",
+        "url": "https://open.spotify.com/album/4aMPmrlaiwuMxxq57bMFZB"
+      },
+      "artists": [
+        {
+          "name": "Tobias Bergson",
+          "url": "https://open.spotify.com/artist/0OaBO8SytZzvzAO3NOWiv3"
+        }
+      ],
+      "duration_ms": 174208,
+      "name": "Dancing Queen",
+      "url": "https://open.spotify.com/track/2ogG50cmJxJ6P8aRnQ8u7s"
+    },
+    {
+      "added_at": "2023-10-06 19:36:10",
+      "album": {
+        "name": "OOH",
+        "url": "https://open.spotify.com/album/4buhxinCoBiAx52a6OQBSj"
+      },
+      "artists": [
+        {
+          "name": "Roog",
+          "url": "https://open.spotify.com/artist/1sGNgv5X8Br7YVlzVllFHh"
+        }
+      ],
+      "duration_ms": 172384,
+      "name": "OOH",
+      "url": "https://open.spotify.com/track/2gDPHig3qqmQAirerz12yd"
     },
     {
       "added_at": "2023-10-06 19:36:10",
@@ -1827,22 +1843,6 @@
       "duration_ms": 210181,
       "name": "It\u2019s Alright",
       "url": "https://open.spotify.com/track/3yilgLESv6zoBnGPsRM7Qh"
-    },
-    {
-      "added_at": "2023-10-06 19:36:10",
-      "album": {
-        "name": "OOH",
-        "url": "https://open.spotify.com/album/4buhxinCoBiAx52a6OQBSj"
-      },
-      "artists": [
-        {
-          "name": "Roog",
-          "url": "https://open.spotify.com/artist/1sGNgv5X8Br7YVlzVllFHh"
-        }
-      ],
-      "duration_ms": 172384,
-      "name": "OOH",
-      "url": "https://open.spotify.com/track/2gDPHig3qqmQAirerz12yd"
     },
     {
       "added_at": "2023-10-06 19:36:10",
@@ -1903,6 +1903,26 @@
     {
       "added_at": "2023-10-06 19:36:10",
       "album": {
+        "name": "Freedom (You Bring Me)",
+        "url": "https://open.spotify.com/album/0qOobOFo9xvOSFRd4pAxZP"
+      },
+      "artists": [
+        {
+          "name": "Snakehips",
+          "url": "https://open.spotify.com/artist/2FwJwEswyIUAljqgjNSHgP"
+        },
+        {
+          "name": "Armand Van Helden",
+          "url": "https://open.spotify.com/artist/3cQA9WH8liZfeja1DxcDYE"
+        }
+      ],
+      "duration_ms": 188920,
+      "name": "Freedom (You Bring Me)",
+      "url": "https://open.spotify.com/track/2I0EV5B4RgDQPcSuDGzz2N"
+    },
+    {
+      "added_at": "2023-10-06 19:36:10",
+      "album": {
         "name": "Move With Me (Todd Terry Extended Remix)",
         "url": "https://open.spotify.com/album/3hpoG2nJnwKPMfPlY207pp"
       },
@@ -1927,22 +1947,18 @@
     {
       "added_at": "2023-10-06 19:36:10",
       "album": {
-        "name": "Freedom (You Bring Me)",
-        "url": "https://open.spotify.com/album/0qOobOFo9xvOSFRd4pAxZP"
+        "name": "Put A Spell On You",
+        "url": "https://open.spotify.com/album/1DzwGAxGdHjyrjdlIwH1aj"
       },
       "artists": [
         {
-          "name": "Snakehips",
-          "url": "https://open.spotify.com/artist/2FwJwEswyIUAljqgjNSHgP"
-        },
-        {
-          "name": "Armand Van Helden",
-          "url": "https://open.spotify.com/artist/3cQA9WH8liZfeja1DxcDYE"
+          "name": "Roog",
+          "url": "https://open.spotify.com/artist/1sGNgv5X8Br7YVlzVllFHh"
         }
       ],
-      "duration_ms": 188920,
-      "name": "Freedom (You Bring Me)",
-      "url": "https://open.spotify.com/track/2I0EV5B4RgDQPcSuDGzz2N"
+      "duration_ms": 185806,
+      "name": "Put A Spell On You",
+      "url": "https://open.spotify.com/track/4EtEO4KP634oHaVSq9JAcf"
     },
     {
       "added_at": "2023-10-06 19:36:10",
@@ -2027,18 +2043,22 @@
     {
       "added_at": "2023-10-06 19:36:10",
       "album": {
-        "name": "Put A Spell On You",
-        "url": "https://open.spotify.com/album/1DzwGAxGdHjyrjdlIwH1aj"
+        "name": "Gonna Be Mine (feat. Sydney Jo Jackson)",
+        "url": "https://open.spotify.com/album/2GOpLg4olpbxvFhJL8pO5H"
       },
       "artists": [
         {
-          "name": "Roog",
-          "url": "https://open.spotify.com/artist/1sGNgv5X8Br7YVlzVllFHh"
+          "name": "Guz",
+          "url": "https://open.spotify.com/artist/2T86EVnDCP64EaVKRXIcRx"
+        },
+        {
+          "name": "Sydney Jo Jackson",
+          "url": "https://open.spotify.com/artist/3TV2LSYttSMFFHYIzbCvjn"
         }
       ],
-      "duration_ms": 185806,
-      "name": "Put A Spell On You",
-      "url": "https://open.spotify.com/track/4EtEO4KP634oHaVSq9JAcf"
+      "duration_ms": 140190,
+      "name": "Gonna Be Mine (feat. Sydney Jo Jackson)",
+      "url": "https://open.spotify.com/track/2elJe4Zx5TJzXTjPBVgtNW"
     },
     {
       "added_at": "2023-10-06 19:36:10",
@@ -2063,26 +2083,6 @@
       "duration_ms": 206740,
       "name": "Do What You Wanna Do (Live It Cool)",
       "url": "https://open.spotify.com/track/25xngz98icEi4W3O6682KD"
-    },
-    {
-      "added_at": "2023-10-06 19:36:10",
-      "album": {
-        "name": "Gonna Be Mine (feat. Sydney Jo Jackson)",
-        "url": "https://open.spotify.com/album/2GOpLg4olpbxvFhJL8pO5H"
-      },
-      "artists": [
-        {
-          "name": "Guz",
-          "url": "https://open.spotify.com/artist/2T86EVnDCP64EaVKRXIcRx"
-        },
-        {
-          "name": "Sydney Jo Jackson",
-          "url": "https://open.spotify.com/artist/3TV2LSYttSMFFHYIzbCvjn"
-        }
-      ],
-      "duration_ms": 140190,
-      "name": "Gonna Be Mine (feat. Sydney Jo Jackson)",
-      "url": "https://open.spotify.com/track/2elJe4Zx5TJzXTjPBVgtNW"
     },
     {
       "added_at": "2023-10-06 19:36:10",
@@ -2231,26 +2231,6 @@
     {
       "added_at": "2023-10-06 19:36:10",
       "album": {
-        "name": "Shed My Skin (Franky Rizardo Remix)",
-        "url": "https://open.spotify.com/album/29TzXw43pdAixdNKFHiwFG"
-      },
-      "artists": [
-        {
-          "name": "D*Note",
-          "url": "https://open.spotify.com/artist/1ho1S1LB2oNr73efwKHLaw"
-        },
-        {
-          "name": "Franky Rizardo",
-          "url": "https://open.spotify.com/artist/2UgphhGSlC9QWgaZWUOCkl"
-        }
-      ],
-      "duration_ms": 204375,
-      "name": "Shed My Skin - Franky Rizardo Remix",
-      "url": "https://open.spotify.com/track/0wUF06v3UukgpxMQxti6cA"
-    },
-    {
-      "added_at": "2023-10-06 19:36:10",
-      "album": {
         "name": "Calle EP",
         "url": "https://open.spotify.com/album/42oVlIMe03B1WQjTRaFlF3"
       },
@@ -2267,22 +2247,22 @@
     {
       "added_at": "2023-10-06 19:36:10",
       "album": {
-        "name": "Get Me High",
-        "url": "https://open.spotify.com/album/1yvjNoutqvda6wMMVSp2sN"
+        "name": "Shed My Skin (Franky Rizardo Remix)",
+        "url": "https://open.spotify.com/album/29TzXw43pdAixdNKFHiwFG"
       },
       "artists": [
         {
-          "name": "Mia More",
-          "url": "https://open.spotify.com/artist/5LokU7BD5Ue4oLzjtUWYGU"
+          "name": "D*Note",
+          "url": "https://open.spotify.com/artist/1ho1S1LB2oNr73efwKHLaw"
         },
         {
-          "name": "Able Faces",
-          "url": "https://open.spotify.com/artist/7nL523vzwv24ad0oFf2VZ2"
+          "name": "Franky Rizardo",
+          "url": "https://open.spotify.com/artist/2UgphhGSlC9QWgaZWUOCkl"
         }
       ],
-      "duration_ms": 145250,
-      "name": "Get Me High",
-      "url": "https://open.spotify.com/track/6kiNRgtGWVSV3lyLBSizY6"
+      "duration_ms": 204375,
+      "name": "Shed My Skin - Franky Rizardo Remix",
+      "url": "https://open.spotify.com/track/0wUF06v3UukgpxMQxti6cA"
     },
     {
       "added_at": "2023-10-06 19:36:10",
@@ -2307,6 +2287,26 @@
       "duration_ms": 204651,
       "name": "Harder (Shermanology Remix) - Radio Edit",
       "url": "https://open.spotify.com/track/2ZhZ76JnLYcjFmcExTdxNF"
+    },
+    {
+      "added_at": "2023-10-06 19:36:10",
+      "album": {
+        "name": "Get Me High",
+        "url": "https://open.spotify.com/album/1yvjNoutqvda6wMMVSp2sN"
+      },
+      "artists": [
+        {
+          "name": "Mia More",
+          "url": "https://open.spotify.com/artist/5LokU7BD5Ue4oLzjtUWYGU"
+        },
+        {
+          "name": "Able Faces",
+          "url": "https://open.spotify.com/artist/7nL523vzwv24ad0oFf2VZ2"
+        }
+      ],
+      "duration_ms": 145250,
+      "name": "Get Me High",
+      "url": "https://open.spotify.com/track/6kiNRgtGWVSV3lyLBSizY6"
     },
     {
       "added_at": "2023-10-06 19:36:10",
@@ -2367,22 +2367,6 @@
     {
       "added_at": "2023-10-06 19:36:10",
       "album": {
-        "name": "D.A.N.C.E.",
-        "url": "https://open.spotify.com/album/43ZNEDJJifJJZk7hFa9pvO"
-      },
-      "artists": [
-        {
-          "name": "Superlover",
-          "url": "https://open.spotify.com/artist/4OxEbB5MV7rDnbYtWUL1UO"
-        }
-      ],
-      "duration_ms": 275322,
-      "name": "D.A.N.C.E.",
-      "url": "https://open.spotify.com/track/0MZRo88rWKsWlRzM61Tyv2"
-    },
-    {
-      "added_at": "2023-10-06 19:36:10",
-      "album": {
         "name": "Chicago 87",
         "url": "https://open.spotify.com/album/0FQkFZnBlZR7mNybn4xQzB"
       },
@@ -2399,18 +2383,18 @@
     {
       "added_at": "2023-10-06 19:36:10",
       "album": {
-        "name": "Medicine",
-        "url": "https://open.spotify.com/album/4PdC05N3eKyTqAsG3NGybb"
+        "name": "D.A.N.C.E.",
+        "url": "https://open.spotify.com/album/43ZNEDJJifJJZk7hFa9pvO"
       },
       "artists": [
         {
-          "name": "Marcus Cito",
-          "url": "https://open.spotify.com/artist/3r26IN2ktuEyJs4hUoOlzC"
+          "name": "Superlover",
+          "url": "https://open.spotify.com/artist/4OxEbB5MV7rDnbYtWUL1UO"
         }
       ],
-      "duration_ms": 155520,
-      "name": "Medicine",
-      "url": "https://open.spotify.com/track/2jzmiQmmiO9M1uudbgdSM1"
+      "duration_ms": 275322,
+      "name": "D.A.N.C.E.",
+      "url": "https://open.spotify.com/track/0MZRo88rWKsWlRzM61Tyv2"
     },
     {
       "added_at": "2023-10-06 19:36:10",
@@ -2427,6 +2411,22 @@
       "duration_ms": 224761,
       "name": "Souljack",
       "url": "https://open.spotify.com/track/0W3w9pPy0JvezOG96J2biy"
+    },
+    {
+      "added_at": "2023-10-06 19:36:10",
+      "album": {
+        "name": "Medicine",
+        "url": "https://open.spotify.com/album/4PdC05N3eKyTqAsG3NGybb"
+      },
+      "artists": [
+        {
+          "name": "Marcus Cito",
+          "url": "https://open.spotify.com/artist/3r26IN2ktuEyJs4hUoOlzC"
+        }
+      ],
+      "duration_ms": 155520,
+      "name": "Medicine",
+      "url": "https://open.spotify.com/track/2jzmiQmmiO9M1uudbgdSM1"
     },
     {
       "added_at": "2023-10-06 19:36:10",
@@ -2507,46 +2507,6 @@
     {
       "added_at": "2023-10-06 19:36:10",
       "album": {
-        "name": "HOUSE",
-        "url": "https://open.spotify.com/album/2JqgwH2ZRmGhnwRJU4HWbi"
-      },
-      "artists": [
-        {
-          "name": "Gettoblaster",
-          "url": "https://open.spotify.com/artist/5LGa1U6Mwiib6ocVuJItcG"
-        },
-        {
-          "name": "Missy",
-          "url": "https://open.spotify.com/artist/1YILZCOXQSwtHs7CbbU0S4"
-        }
-      ],
-      "duration_ms": 342136,
-      "name": "HOUSE - Original Mix",
-      "url": "https://open.spotify.com/track/4HUKkJ0VWYcYPj3E40WYgJ"
-    },
-    {
-      "added_at": "2023-10-06 19:36:10",
-      "album": {
-        "name": "Red Alert (Remixes)",
-        "url": "https://open.spotify.com/album/60bXKwhboGfLtL8b3kfZRA"
-      },
-      "artists": [
-        {
-          "name": "Basement Jaxx",
-          "url": "https://open.spotify.com/artist/4YrKBkKSVeqDamzBPWVnSJ"
-        },
-        {
-          "name": "Grant Nelson",
-          "url": "https://open.spotify.com/artist/6uEi6lYYhf6Fkd40ZVCKqi"
-        }
-      ],
-      "duration_ms": 269666,
-      "name": "Red Alert - Grant Nelson Remix - Edit",
-      "url": "https://open.spotify.com/track/3uYz0ZtiATdgOU8TItF0vD"
-    },
-    {
-      "added_at": "2023-10-06 19:36:10",
-      "album": {
         "name": "Heard It All Before (Turbojazz & Sean McCabe Remixes)",
         "url": "https://open.spotify.com/album/3qUm2lJFKLDbIRwEDgk366"
       },
@@ -2571,6 +2531,26 @@
     {
       "added_at": "2023-10-06 19:36:10",
       "album": {
+        "name": "HOUSE",
+        "url": "https://open.spotify.com/album/2JqgwH2ZRmGhnwRJU4HWbi"
+      },
+      "artists": [
+        {
+          "name": "Gettoblaster",
+          "url": "https://open.spotify.com/artist/5LGa1U6Mwiib6ocVuJItcG"
+        },
+        {
+          "name": "Missy",
+          "url": "https://open.spotify.com/artist/1YILZCOXQSwtHs7CbbU0S4"
+        }
+      ],
+      "duration_ms": 342136,
+      "name": "HOUSE - Original Mix",
+      "url": "https://open.spotify.com/track/4HUKkJ0VWYcYPj3E40WYgJ"
+    },
+    {
+      "added_at": "2023-10-06 19:36:10",
+      "album": {
         "name": "Sunset Jam",
         "url": "https://open.spotify.com/album/70laYWlNtjTmkZjdZ4A3uM"
       },
@@ -2583,6 +2563,26 @@
       "duration_ms": 281824,
       "name": "Sunset Jam",
       "url": "https://open.spotify.com/track/4P5PgzROl9jfv7mHTjS2MM"
+    },
+    {
+      "added_at": "2023-10-06 19:36:10",
+      "album": {
+        "name": "Red Alert (Remixes)",
+        "url": "https://open.spotify.com/album/60bXKwhboGfLtL8b3kfZRA"
+      },
+      "artists": [
+        {
+          "name": "Basement Jaxx",
+          "url": "https://open.spotify.com/artist/4YrKBkKSVeqDamzBPWVnSJ"
+        },
+        {
+          "name": "Grant Nelson",
+          "url": "https://open.spotify.com/artist/6uEi6lYYhf6Fkd40ZVCKqi"
+        }
+      ],
+      "duration_ms": 269666,
+      "name": "Red Alert - Grant Nelson Remix - Edit",
+      "url": "https://open.spotify.com/track/3uYz0ZtiATdgOU8TItF0vD"
     },
     {
       "added_at": "2023-10-06 19:36:10",
@@ -2643,26 +2643,6 @@
     {
       "added_at": "2023-10-06 19:36:10",
       "album": {
-        "name": "Better Take That",
-        "url": "https://open.spotify.com/album/0Uva7Ssbo70ZuIMsA9r8ba"
-      },
-      "artists": [
-        {
-          "name": "Block & Crown",
-          "url": "https://open.spotify.com/artist/5jO3o2nsu0GTQBc8Lgcna7"
-        },
-        {
-          "name": "Sean Finn",
-          "url": "https://open.spotify.com/artist/5xUacP1mVGfiY7Zr9RskmS"
-        }
-      ],
-      "duration_ms": 175748,
-      "name": "Better Take That",
-      "url": "https://open.spotify.com/track/6x4lOp1oRmtfFgQIIw2ipY"
-    },
-    {
-      "added_at": "2023-10-06 19:36:10",
-      "album": {
         "name": "Release Me (feat. Rationale) [Jess Bays Remix]",
         "url": "https://open.spotify.com/album/19Tp9FoAw2zcmvizQ3mjO1"
       },
@@ -2683,6 +2663,26 @@
       "duration_ms": 180223,
       "name": "Release Me (feat. Rationale) - Jess Bays Remix",
       "url": "https://open.spotify.com/track/6stPuBpZMA4zqgAHOFNEzC"
+    },
+    {
+      "added_at": "2023-10-06 19:36:10",
+      "album": {
+        "name": "Better Take That",
+        "url": "https://open.spotify.com/album/0Uva7Ssbo70ZuIMsA9r8ba"
+      },
+      "artists": [
+        {
+          "name": "Block & Crown",
+          "url": "https://open.spotify.com/artist/5jO3o2nsu0GTQBc8Lgcna7"
+        },
+        {
+          "name": "Sean Finn",
+          "url": "https://open.spotify.com/artist/5xUacP1mVGfiY7Zr9RskmS"
+        }
+      ],
+      "duration_ms": 175748,
+      "name": "Better Take That",
+      "url": "https://open.spotify.com/track/6x4lOp1oRmtfFgQIIw2ipY"
     },
     {
       "added_at": "2023-10-06 19:36:10",
@@ -2727,6 +2727,22 @@
     {
       "added_at": "2023-10-06 19:36:10",
       "album": {
+        "name": "Fiesta en el Cielo EP",
+        "url": "https://open.spotify.com/album/4vyjGa1RxCZuPv5Q6AfZ0Q"
+      },
+      "artists": [
+        {
+          "name": "Kenny Brian",
+          "url": "https://open.spotify.com/artist/11Wf5ZORjHp2zPQxbRTyKc"
+        }
+      ],
+      "duration_ms": 140811,
+      "name": "Fiesta en el Cielo",
+      "url": "https://open.spotify.com/track/19HppP8DRZMJU15pXel51k"
+    },
+    {
+      "added_at": "2023-10-06 19:36:10",
+      "album": {
         "name": "The Reason",
         "url": "https://open.spotify.com/album/1KzFfzFJcAWqUEP4fSnmNO"
       },
@@ -2747,18 +2763,26 @@
     {
       "added_at": "2023-10-06 19:36:10",
       "album": {
-        "name": "Fiesta en el Cielo EP",
-        "url": "https://open.spotify.com/album/4vyjGa1RxCZuPv5Q6AfZ0Q"
+        "name": "Love Somebody Else",
+        "url": "https://open.spotify.com/album/55fImdHcBicoU5PoIWTZyn"
       },
       "artists": [
         {
-          "name": "Kenny Brian",
-          "url": "https://open.spotify.com/artist/11Wf5ZORjHp2zPQxbRTyKc"
+          "name": "Sandy Rivera",
+          "url": "https://open.spotify.com/artist/6eChRUoyiCUCrUbwbT9Jq3"
+        },
+        {
+          "name": "Aruhtra",
+          "url": "https://open.spotify.com/artist/0eNdTqhwRWK5udfkUOuMAv"
+        },
+        {
+          "name": "April Morgan",
+          "url": "https://open.spotify.com/artist/4yZgqRQwgyYlGEwINIslPz"
         }
       ],
-      "duration_ms": 140811,
-      "name": "Fiesta en el Cielo",
-      "url": "https://open.spotify.com/track/19HppP8DRZMJU15pXel51k"
+      "duration_ms": 160437,
+      "name": "Love Somebody Else - Sandy Rivera & Aruhtra's Mix",
+      "url": "https://open.spotify.com/track/6fbrnevm8nfmTn5cLlgHtX"
     },
     {
       "added_at": "2023-10-06 19:36:10",
@@ -2791,30 +2815,6 @@
       "duration_ms": 178346,
       "name": "Benin",
       "url": "https://open.spotify.com/track/3lnPWI5DH48A0Fg06uxuAS"
-    },
-    {
-      "added_at": "2023-10-06 19:36:10",
-      "album": {
-        "name": "Love Somebody Else",
-        "url": "https://open.spotify.com/album/55fImdHcBicoU5PoIWTZyn"
-      },
-      "artists": [
-        {
-          "name": "Sandy Rivera",
-          "url": "https://open.spotify.com/artist/6eChRUoyiCUCrUbwbT9Jq3"
-        },
-        {
-          "name": "Aruhtra",
-          "url": "https://open.spotify.com/artist/0eNdTqhwRWK5udfkUOuMAv"
-        },
-        {
-          "name": "April Morgan",
-          "url": "https://open.spotify.com/artist/4yZgqRQwgyYlGEwINIslPz"
-        }
-      ],
-      "duration_ms": 160437,
-      "name": "Love Somebody Else - Sandy Rivera & Aruhtra's Mix",
-      "url": "https://open.spotify.com/track/6fbrnevm8nfmTn5cLlgHtX"
     },
     {
       "added_at": "2023-10-06 19:36:10",

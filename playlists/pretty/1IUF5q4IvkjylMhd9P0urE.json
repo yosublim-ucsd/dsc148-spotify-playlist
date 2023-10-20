@@ -6,7 +6,7 @@
     "name": "XL Recordings",
     "url": "https://open.spotify.com/user/xlrecordings"
   },
-  "snapshot_id": "NjA2MSwzZTYzOTNmNDIwOTA5N2E5NDlmMGRmYjY2MWQ0YjZiZjJjOWEyMDU0",
+  "snapshot_id": "NjA2OCw5YzhjNzhmODU1YTkxNGRlYTNiZWZiNmNiOGRmZDU0ZjE0Yjc0MWE5",
   "tracks": [
     {
       "added_at": "2023-10-18 13:02:25",
@@ -79,6 +79,54 @@
       "duration_ms": 170831,
       "name": "River's End",
       "url": "https://open.spotify.com/track/0Yo5wv2yo8IP2IJMpPMgvx"
+    },
+    {
+      "added_at": "2023-10-18 13:02:25",
+      "album": {
+        "name": "I Came Home Late",
+        "url": "https://open.spotify.com/album/2Py2P92ndsLK4oQnbhhRud"
+      },
+      "artists": [
+        {
+          "name": "Ama Lou",
+          "url": "https://open.spotify.com/artist/2tAqnHDAgnGtjnlzyoa38L"
+        }
+      ],
+      "duration_ms": 305546,
+      "name": "Tokyo Cowboy",
+      "url": "https://open.spotify.com/track/4dPXu9qYlnXR8CfZgHu2jz"
+    },
+    {
+      "added_at": "2023-10-18 13:02:25",
+      "album": {
+        "name": "ANNIE, PICK A FLOWER.. (MY HOUSE)",
+        "url": "https://open.spotify.com/album/3lHbPfpCbfIbqW1Q4u9Vkq"
+      },
+      "artists": [
+        {
+          "name": "Saya Gray",
+          "url": "https://open.spotify.com/artist/4EnymklUyqZwvmHQGlRssl"
+        }
+      ],
+      "duration_ms": 228310,
+      "name": "ANNIE, PICK A FLOWER.. (MY HOUSE)",
+      "url": "https://open.spotify.com/track/2KHIUDMyKpCoatqCwDAtD4"
+    },
+    {
+      "added_at": "2023-10-18 13:02:25",
+      "album": {
+        "name": "trip9love...???",
+        "url": "https://open.spotify.com/album/0kgD4sTUloCGUbDGyTxqV7"
+      },
+      "artists": [
+        {
+          "name": "Tirzah",
+          "url": "https://open.spotify.com/artist/6f5lOlSFJw9K79gaNnmWAd"
+        }
+      ],
+      "duration_ms": 157519,
+      "name": "Promises",
+      "url": "https://open.spotify.com/track/02bDs4bBbp7qzW5E62JMu5"
     },
     {
       "added_at": "2023-10-18 13:02:25",
@@ -167,6 +215,26 @@
       "duration_ms": 151583,
       "name": "Arena!",
       "url": "https://open.spotify.com/track/14opyoO8p7wD8zM2wSxF3c"
+    },
+    {
+      "added_at": "2023-10-18 13:02:25",
+      "album": {
+        "name": "S e x",
+        "url": "https://open.spotify.com/album/1DnORgesBFu2C0lJ2ZPQuO"
+      },
+      "artists": [
+        {
+          "name": "George Riley",
+          "url": "https://open.spotify.com/artist/76rh78p0cww0l4OqgKabLQ"
+        },
+        {
+          "name": "Hudson Mohawke",
+          "url": "https://open.spotify.com/artist/6olWbKW2VLhFCHfOi0iEDb"
+        }
+      ],
+      "duration_ms": 181546,
+      "name": "S e x",
+      "url": "https://open.spotify.com/track/1o7dHA3jkon56D4Xn1jJWr"
     },
     {
       "added_at": "2023-10-18 13:02:25",
@@ -275,54 +343,6 @@
     {
       "added_at": "2023-10-18 13:02:25",
       "album": {
-        "name": "trip9love...???",
-        "url": "https://open.spotify.com/album/0kgD4sTUloCGUbDGyTxqV7"
-      },
-      "artists": [
-        {
-          "name": "Tirzah",
-          "url": "https://open.spotify.com/artist/6f5lOlSFJw9K79gaNnmWAd"
-        }
-      ],
-      "duration_ms": 157519,
-      "name": "Promises",
-      "url": "https://open.spotify.com/track/02bDs4bBbp7qzW5E62JMu5"
-    },
-    {
-      "added_at": "2023-10-18 13:02:25",
-      "album": {
-        "name": "ANNIE, PICK A FLOWER.. (MY HOUSE)",
-        "url": "https://open.spotify.com/album/3lHbPfpCbfIbqW1Q4u9Vkq"
-      },
-      "artists": [
-        {
-          "name": "Saya Gray",
-          "url": "https://open.spotify.com/artist/4EnymklUyqZwvmHQGlRssl"
-        }
-      ],
-      "duration_ms": 228310,
-      "name": "ANNIE, PICK A FLOWER.. (MY HOUSE)",
-      "url": "https://open.spotify.com/track/2KHIUDMyKpCoatqCwDAtD4"
-    },
-    {
-      "added_at": "2023-10-18 13:02:25",
-      "album": {
-        "name": "I Came Home Late",
-        "url": "https://open.spotify.com/album/2Py2P92ndsLK4oQnbhhRud"
-      },
-      "artists": [
-        {
-          "name": "Ama Lou",
-          "url": "https://open.spotify.com/artist/2tAqnHDAgnGtjnlzyoa38L"
-        }
-      ],
-      "duration_ms": 305546,
-      "name": "Tokyo Cowboy",
-      "url": "https://open.spotify.com/track/4dPXu9qYlnXR8CfZgHu2jz"
-    },
-    {
-      "added_at": "2023-10-18 13:02:25",
-      "album": {
         "name": "Arepa Mixtape",
         "url": "https://open.spotify.com/album/5sCt5vwJ4BXIYQApN0McEK"
       },
@@ -427,26 +447,6 @@
     {
       "added_at": "2023-10-18 13:02:25",
       "album": {
-        "name": "M1S0",
-        "url": "https://open.spotify.com/album/2GaDRIfWlNiqNSgOPGC2Dq"
-      },
-      "artists": [
-        {
-          "name": "M1RZA",
-          "url": "https://open.spotify.com/artist/526jdghvPpgH9YINmobF0u"
-        },
-        {
-          "name": "Miles Freedom",
-          "url": "https://open.spotify.com/artist/5yeHFthju8hgmolCw7Xo0H"
-        }
-      ],
-      "duration_ms": 146112,
-      "name": "I Need You",
-      "url": "https://open.spotify.com/track/6KCxvdFi6fnEwH6ZKV1kp2"
-    },
-    {
-      "added_at": "2023-10-18 13:02:25",
-      "album": {
         "name": "transcending (Karen Nyame KG remix)",
         "url": "https://open.spotify.com/album/2YsMVaww8xwajh6JeQw2dM"
       },
@@ -463,6 +463,26 @@
       "duration_ms": 215357,
       "name": "transcending (Karen Nyame KG remix) - Remix",
       "url": "https://open.spotify.com/track/42PqQa0vMYh8IxaVaHqUTe"
+    },
+    {
+      "added_at": "2023-10-18 13:02:25",
+      "album": {
+        "name": "M1S0",
+        "url": "https://open.spotify.com/album/2GaDRIfWlNiqNSgOPGC2Dq"
+      },
+      "artists": [
+        {
+          "name": "M1RZA",
+          "url": "https://open.spotify.com/artist/526jdghvPpgH9YINmobF0u"
+        },
+        {
+          "name": "Miles Freedom",
+          "url": "https://open.spotify.com/artist/5yeHFthju8hgmolCw7Xo0H"
+        }
+      ],
+      "duration_ms": 146112,
+      "name": "I Need You",
+      "url": "https://open.spotify.com/track/6KCxvdFi6fnEwH6ZKV1kp2"
     },
     {
       "added_at": "2023-10-18 13:02:25",
@@ -583,26 +603,6 @@
       "duration_ms": 104835,
       "name": "R you home yet?",
       "url": "https://open.spotify.com/track/716LrhBvsB5m2Kg6bses02"
-    },
-    {
-      "added_at": "2023-10-18 13:02:25",
-      "album": {
-        "name": "S e x",
-        "url": "https://open.spotify.com/album/1DnORgesBFu2C0lJ2ZPQuO"
-      },
-      "artists": [
-        {
-          "name": "George Riley",
-          "url": "https://open.spotify.com/artist/76rh78p0cww0l4OqgKabLQ"
-        },
-        {
-          "name": "Hudson Mohawke",
-          "url": "https://open.spotify.com/artist/6olWbKW2VLhFCHfOi0iEDb"
-        }
-      ],
-      "duration_ms": 181546,
-      "name": "S e x",
-      "url": "https://open.spotify.com/track/1o7dHA3jkon56D4Xn1jJWr"
     },
     {
       "added_at": "2023-09-12 16:50:12",
@@ -1841,30 +1841,6 @@
       "url": "https://open.spotify.com/track/1DdUs9oY428JlXblzh9Ozp"
     },
     {
-      "added_at": "2023-07-03 17:51:55",
-      "album": {
-        "name": "Landing",
-        "url": "https://open.spotify.com/album/3c5imeg6qIcWeRMdtjpHMn"
-      },
-      "artists": [
-        {
-          "name": "Kass Kass Rizer",
-          "url": "https://open.spotify.com/artist/7DZLreVM95J1B2xtu68QuI"
-        },
-        {
-          "name": "anyoneID",
-          "url": "https://open.spotify.com/artist/30w1pa6vyGrt8x7ArqcNvm"
-        },
-        {
-          "name": "Asna",
-          "url": "https://open.spotify.com/artist/7jQYOEGIQeI68MK9zMppRo"
-        }
-      ],
-      "duration_ms": 176571,
-      "name": "Boukan",
-      "url": "https://open.spotify.com/track/2YimFqnAuvoc6N9KJXkk8S"
-    },
-    {
       "added_at": "2023-05-23 17:10:56",
       "album": {
         "name": "Good Lies",
@@ -1879,302 +1855,6 @@
       "duration_ms": 169050,
       "name": "Feelings Plain",
       "url": "https://open.spotify.com/track/4tBJ2LiCwMs1ARUmu1Nhi8"
-    },
-    {
-      "added_at": "2023-05-23 17:11:11",
-      "album": {
-        "name": "Dismantled Into Juice",
-        "url": "https://open.spotify.com/album/3wd2PDRL7ZcpX0ndA4jzgV"
-      },
-      "artists": [
-        {
-          "name": "Blawan",
-          "url": "https://open.spotify.com/artist/64kN9EkSTHYhda2FupL0KI"
-        },
-        {
-          "name": "Monstera Black",
-          "url": "https://open.spotify.com/artist/4McIq91y9cJCNL6TaIbe6W"
-        }
-      ],
-      "duration_ms": 209247,
-      "name": "You Can Build Me",
-      "url": "https://open.spotify.com/track/5oDvyftFW854n3gTtwBosS"
-    },
-    {
-      "added_at": "2023-05-23 13:56:12",
-      "album": {
-        "name": "no pasa nada",
-        "url": "https://open.spotify.com/album/4rqzz39TFYZqLt5cUdXtGr"
-      },
-      "artists": [
-        {
-          "name": "GAZZI",
-          "url": "https://open.spotify.com/artist/07V8t8EEwskMdjlXWulRsK"
-        }
-      ],
-      "duration_ms": 256000,
-      "name": "rakata",
-      "url": "https://open.spotify.com/track/4EuJ3GLXOOdcXErXI5K5uX"
-    },
-    {
-      "added_at": "2023-05-23 13:56:12",
-      "album": {
-        "name": "If Only It Was Warmth",
-        "url": "https://open.spotify.com/album/0JJEK78MxbsBGXhHdE4oJF"
-      },
-      "artists": [
-        {
-          "name": "King Krule",
-          "url": "https://open.spotify.com/artist/4wyNyxs74Ux8UIDopNjIai"
-        }
-      ],
-      "duration_ms": 197979,
-      "name": "If Only It Was Warmth",
-      "url": "https://open.spotify.com/track/7qyD9SgoSNSavLDfNTsfqf"
-    },
-    {
-      "added_at": "2023-05-23 13:56:12",
-      "album": {
-        "name": "Big Shot City (Makaya McCraven Interpolation)",
-        "url": "https://open.spotify.com/album/1uib3EDOL75uSnMxzMHMBN"
-      },
-      "artists": [
-        {
-          "name": "Interpol",
-          "url": "https://open.spotify.com/artist/3WaJSfKnzc65VDgmj2zU8B"
-        },
-        {
-          "name": "Makaya McCraven",
-          "url": "https://open.spotify.com/artist/5FnpXrrMdJVZCK54oHWqUa"
-        }
-      ],
-      "duration_ms": 262462,
-      "name": "Big Shot City - Makaya McCraven Interpolation",
-      "url": "https://open.spotify.com/track/7DCiTmZKwIxILzlcu2nHA6"
-    },
-    {
-      "added_at": "2023-05-23 13:56:12",
-      "album": {
-        "name": "Twin",
-        "url": "https://open.spotify.com/album/3bIxBt4ugXjYeua4yVbynN"
-      },
-      "artists": [
-        {
-          "name": "Ouri",
-          "url": "https://open.spotify.com/artist/41gxyJbzbAaChEyrZ9j3rv"
-        }
-      ],
-      "duration_ms": 164058,
-      "name": "Twin",
-      "url": "https://open.spotify.com/track/7eNB1CxbNWiBVZwzXAJqgW"
-    },
-    {
-      "added_at": "2023-05-23 13:56:12",
-      "album": {
-        "name": "Caught Me Running",
-        "url": "https://open.spotify.com/album/5uWKr1TIWN0m1i3JSDYBGP"
-      },
-      "artists": [
-        {
-          "name": "Ama Lou",
-          "url": "https://open.spotify.com/artist/2tAqnHDAgnGtjnlzyoa38L"
-        }
-      ],
-      "duration_ms": 194906,
-      "name": "Caught Me Running",
-      "url": "https://open.spotify.com/track/1uEkWNy4InUrjWZaIEJDwT"
-    },
-    {
-      "added_at": "2023-05-23 13:56:12",
-      "album": {
-        "name": "It Must Change",
-        "url": "https://open.spotify.com/album/5osjby3YTPk2tEhRW2uJqk"
-      },
-      "artists": [
-        {
-          "name": "ANOHNI",
-          "url": "https://open.spotify.com/artist/6VJZYivuYJGCrPuOAnI7Qo"
-        },
-        {
-          "name": "Antony and the Johnsons",
-          "url": "https://open.spotify.com/artist/4fxp616ALtFWnXfwxnjLzW"
-        }
-      ],
-      "duration_ms": 295013,
-      "name": "It Must Change",
-      "url": "https://open.spotify.com/track/6jbfEdpOd0X5e756Yu7Hz0"
-    },
-    {
-      "added_at": "2023-05-23 14:00:19",
-      "album": {
-        "name": "One Wish",
-        "url": "https://open.spotify.com/album/6VxVfkMzswpWIkE1u25Yl2"
-      },
-      "artists": [
-        {
-          "name": "Bik\u00f4k\u00f4",
-          "url": "https://open.spotify.com/artist/5KV0DvKYHe4WwjaJghyIzV"
-        }
-      ],
-      "duration_ms": 161312,
-      "name": "One Wish",
-      "url": "https://open.spotify.com/track/0zrYEb18m1UV1NY0owf6TI"
-    },
-    {
-      "added_at": "2023-05-23 13:56:12",
-      "album": {
-        "name": "Jetski",
-        "url": "https://open.spotify.com/album/6uKrK3GbNTgnGiAZLExBsW"
-      },
-      "artists": [
-        {
-          "name": "Tiberius b",
-          "url": "https://open.spotify.com/artist/0Kt443UQm5aqR2WCwqSMe0"
-        }
-      ],
-      "duration_ms": 195675,
-      "name": "Jetski",
-      "url": "https://open.spotify.com/track/25UqWy5pedkjFuGUt2vKJG"
-    },
-    {
-      "added_at": "2023-05-23 13:56:12",
-      "album": {
-        "name": "Smile Please",
-        "url": "https://open.spotify.com/album/7ICcPNtiYMD2teS4rFClhS"
-      },
-      "artists": [
-        {
-          "name": "Dean Blunt",
-          "url": "https://open.spotify.com/artist/5CFSYjc0PAiQvndFjafabk"
-        },
-        {
-          "name": "Elias R\u00f8nnenfelt",
-          "url": "https://open.spotify.com/artist/1sMYEFib6APIW3JjkY8pYS"
-        }
-      ],
-      "duration_ms": 135434,
-      "name": "Smile Please",
-      "url": "https://open.spotify.com/track/0WbuDhRzi9VQdz1qmUY47l"
-    },
-    {
-      "added_at": "2023-05-23 13:56:12",
-      "album": {
-        "name": "changer",
-        "url": "https://open.spotify.com/album/21aXm7ct1WdqEoOd1Ss5fW"
-      },
-      "artists": [
-        {
-          "name": "bar italia",
-          "url": "https://open.spotify.com/artist/6tYmTHApvspl6KAgTfHjAY"
-        }
-      ],
-      "duration_ms": 208912,
-      "name": "changer",
-      "url": "https://open.spotify.com/track/1lamf6BO4jiXGOX56t6pC1"
-    },
-    {
-      "added_at": "2023-05-23 13:56:12",
-      "album": {
-        "name": "Sky At Night",
-        "url": "https://open.spotify.com/album/6NmwnJNdiXboOTibs5fCsW"
-      },
-      "artists": [
-        {
-          "name": "Laura Groves",
-          "url": "https://open.spotify.com/artist/680a4iDO5tGb0Mb3IIcrVz"
-        }
-      ],
-      "duration_ms": 271200,
-      "name": "Sky At Night",
-      "url": "https://open.spotify.com/track/105gi60g7dP1ZpdUFe20su"
-    },
-    {
-      "added_at": "2023-05-23 13:56:12",
-      "album": {
-        "name": "L.F.O.",
-        "url": "https://open.spotify.com/album/56FZp4N6OxLqFWcEG8qhmA"
-      },
-      "artists": [
-        {
-          "name": "SBTRKT",
-          "url": "https://open.spotify.com/artist/1O10apSOoAPjOu6UhUNmeI"
-        },
-        {
-          "name": "Sampha",
-          "url": "https://open.spotify.com/artist/2WoVwexZuODvclzULjPQtm"
-        },
-        {
-          "name": "George Riley",
-          "url": "https://open.spotify.com/artist/76rh78p0cww0l4OqgKabLQ"
-        }
-      ],
-      "duration_ms": 271633,
-      "name": "L.F.O.",
-      "url": "https://open.spotify.com/track/09s0LZjI9zgBvXRNNA6j7K"
-    },
-    {
-      "added_at": "2023-05-23 17:06:38",
-      "album": {
-        "name": "radio silence",
-        "url": "https://open.spotify.com/album/3nXkQxkAvtVVoTuERk0bGs"
-      },
-      "artists": [
-        {
-          "name": "Ragz Originale",
-          "url": "https://open.spotify.com/artist/0yw2O9rh7YQd5MqEHOFGzW"
-        }
-      ],
-      "duration_ms": 131932,
-      "name": "radio silence",
-      "url": "https://open.spotify.com/track/2bn8pNyHOK0rzna5FfDhbO"
-    },
-    {
-      "added_at": "2023-05-23 13:56:12",
-      "album": {
-        "name": "Just Cool",
-        "url": "https://open.spotify.com/album/1pD1bZq3gntKVyJOiESfQJ"
-      },
-      "artists": [
-        {
-          "name": "Obongjayar",
-          "url": "https://open.spotify.com/artist/6l7R1jntPahGxwJt7Tky8h"
-        }
-      ],
-      "duration_ms": 220243,
-      "name": "Just Cool",
-      "url": "https://open.spotify.com/track/553yNvwJjHlHwDF4fA9ZUP"
-    },
-    {
-      "added_at": "2023-05-23 17:21:50",
-      "album": {
-        "name": "Little Things",
-        "url": "https://open.spotify.com/album/4YBGGd7KYurLSbc6XKDnSO"
-      },
-      "artists": [
-        {
-          "name": "Jorja Smith",
-          "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
-        }
-      ],
-      "duration_ms": 204600,
-      "name": "Little Things",
-      "url": "https://open.spotify.com/track/1javLzBHyEKJJrG3s6FHaM"
-    },
-    {
-      "added_at": "2023-05-23 13:56:12",
-      "album": {
-        "name": "Too Early",
-        "url": "https://open.spotify.com/album/2ysvTBST3QhzfQWaAmSKLS"
-      },
-      "artists": [
-        {
-          "name": "SuperJazzClub",
-          "url": "https://open.spotify.com/artist/5CINjDZoikcuTmtw3wgPfp"
-        }
-      ],
-      "duration_ms": 206400,
-      "name": "Too Early",
-      "url": "https://open.spotify.com/track/4qZ8vQpRFqS15RGdE8skco"
     }
   ],
   "unique_name": "XL Play",

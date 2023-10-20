@@ -77,6 +77,24 @@
     },
     {
       "album": {
+        "name": "A Little Boat",
+        "url": "https://open.spotify.com/album/44X6fpGpyp0stgq8Rs5KE0"
+      },
+      "artists": [
+        {
+          "name": "Simon Hill",
+          "url": "https://open.spotify.com/artist/3CNRDi8CRRB2IF1v9no6NQ"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 74366,
+      "name": "A Little Boat",
+      "url": "https://open.spotify.com/track/6ahZWO4bnowdtkAJwkahWD"
+    },
+    {
+      "album": {
         "name": "Ten Little Indians",
         "url": "https://open.spotify.com/album/1BfD4AamDekxsxZPEloJP2"
       },
@@ -2183,6 +2201,24 @@
     },
     {
       "album": {
+        "name": "Mandy's Song (Music Box Version)",
+        "url": "https://open.spotify.com/album/4pfxpWd0pyC41zU8P33MAp"
+      },
+      "artists": [
+        {
+          "name": "Lille Du",
+          "url": "https://open.spotify.com/artist/1bNG6qjWLR1cCdvsrxenvH"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 115374,
+      "name": "Mandy's Song - Music Box Version",
+      "url": "https://open.spotify.com/track/74BZeqiAMkLK9050s5O7rK"
+    },
+    {
+      "album": {
         "name": "My Music Box",
         "url": "https://open.spotify.com/album/5i6CK7NPNIqLc3CCXtRXcl"
       },
@@ -3893,6 +3929,24 @@
     },
     {
       "album": {
+        "name": "Twinkling Dreams",
+        "url": "https://open.spotify.com/album/3I8IeoIkwK7kAYxunROibU"
+      },
+      "artists": [
+        {
+          "name": "David Aydin",
+          "url": "https://open.spotify.com/artist/44sI7kxhWJ08lYnGw492Om"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 79014,
+      "name": "Twinkling Dreams",
+      "url": "https://open.spotify.com/track/1sSohEBI1HerYA3gOaHJXd"
+    },
+    {
+      "album": {
         "name": "Until I Found You",
         "url": "https://open.spotify.com/album/2amJKlDL51npWq2CzPjBMO"
       },
@@ -4142,6 +4196,24 @@
       "duration_ms": 77663,
       "name": "Whisper",
       "url": "https://open.spotify.com/track/2zO8FacMH5qKmRl0K4KQCX"
+    },
+    {
+      "album": {
+        "name": "Willow Song",
+        "url": "https://open.spotify.com/album/0tXYySMuRWTa2PlZ3VgpDx"
+      },
+      "artists": [
+        {
+          "name": "Maurice Marsipano",
+          "url": "https://open.spotify.com/artist/3kYoyPRiKgh8gEqKxXOWSr"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 57430,
+      "name": "Willow Song",
+      "url": "https://open.spotify.com/track/4U7P98xdvMWtAkhP6M0Kj7"
     },
     {
       "album": {

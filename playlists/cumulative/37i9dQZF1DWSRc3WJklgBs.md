@@ -4,7 +4,7 @@
 
 > <a href="spotify:genre:edm\_dance">Dance music</a> for the heart <3
 
-1,208 songs - 2 day 22 hr 39 min
+1,209 songs - 2 day 22 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -396,7 +396,7 @@
 | [Great Escape](https://open.spotify.com/track/5fvniAXJaO2HTdl9jhZVfk) | [West Coast Massive](https://open.spotify.com/artist/3ip1sezZV57uOtHDnLXAkH), [TJYE](https://open.spotify.com/artist/4Sa5xkWOSDzLleiLUtFcug) | [Great Escape](https://open.spotify.com/album/5ANoF7ZdoJTwiLVYAhkAGg) | 2:49 | 2020-03-30 | 2021-09-25 |
 | [Grip \- Jay Pryor Remix](https://open.spotify.com/track/0xARbGHzPT1o5t1sFlmyO2) | [Seeb](https://open.spotify.com/artist/5iNrZmtVMtYev5M9yoWpEq), [Bastille](https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc), [Jay Pryor](https://open.spotify.com/artist/1ZUpQr4VSnnP86WbaRRMpd) | [Grip \(Jay Pryor Remix\)](https://open.spotify.com/album/51iLdXJaLZ4W1LzLWfWH9I) | 3:06 | 2019-08-09\* | 2020-03-29 |
 | [Haemon](https://open.spotify.com/track/4rOIc8jC9mG3RENFTOi4VJ) | [Joris Voorn](https://open.spotify.com/artist/4jGpKAmwvU263l0tUh4xKU) | [Antigone](https://open.spotify.com/album/6mA5zAxBOtN4ojyu6pDZyS) | 2:54 | 2019-08-09\* | 2020-03-29 |
-| [Half A World Away \(feat\. Sarah de Warren\)](https://open.spotify.com/track/0Uyi3DHJMoGURtYihR6LAN) | [Trivecta](https://open.spotify.com/artist/4AT7XlLBevgZIiKvZQ83ye), [Sarah de Warren](https://open.spotify.com/artist/2V431yZGG08uroH2CZAgur) | [The Way Back Up](https://open.spotify.com/album/6JI14Iisr1vEyw3YiMe1rs) | 4:27 | 2022-05-13 |  |
+| [Half A World Away \(feat\. Sarah de Warren\)](https://open.spotify.com/track/0Uyi3DHJMoGURtYihR6LAN) | [Trivecta](https://open.spotify.com/artist/4AT7XlLBevgZIiKvZQ83ye), [Sarah de Warren](https://open.spotify.com/artist/2V431yZGG08uroH2CZAgur) | [The Way Back Up](https://open.spotify.com/album/6JI14Iisr1vEyw3YiMe1rs) | 4:27 | 2022-05-13 | 2023-10-20 |
 | [Half As Much](https://open.spotify.com/track/0oZDHKtqVllajHTo94iNUv) | [Deerock](https://open.spotify.com/artist/3BCouSmFlw2lHBmJmi1umh), [Viiq](https://open.spotify.com/artist/4hHvJgsm5erOOP97SBJ8uQ) | [Half As Much](https://open.spotify.com/album/14egSyw9YbhRfXXrcCjYdf) | 2:21 | 2022-08-05 | 2022-11-19 |
 | [Hands](https://open.spotify.com/track/3JZ5bL6UYIeJ5x0SCXUQbO) | [Gareth Emery](https://open.spotify.com/artist/0hprEC0nsWuQPSHag1O2Vi), [Alastor](https://open.spotify.com/artist/0qLQkmES1i8yc5SYefKgAH), [London Thor](https://open.spotify.com/artist/7to9vdVy94a46Z14O2MmYr) | [Hands](https://open.spotify.com/album/1YkLoOSW0q3mRaYqNVWIxh) | 3:09 | 2019-08-09\* | 2019-08-27 |
 | [Hands \- Original Mix](https://open.spotify.com/track/1Bv3BlxR68DeIUHHTFaqWF) | [Gareth Emery](https://open.spotify.com/artist/0hprEC0nsWuQPSHag1O2Vi), [Alastor](https://open.spotify.com/artist/0qLQkmES1i8yc5SYefKgAH), [London Thor](https://open.spotify.com/artist/7to9vdVy94a46Z14O2MmYr) | [Hands](https://open.spotify.com/album/1YkLoOSW0q3mRaYqNVWIxh) | 5:14 | 2020-05-15 | 2021-08-14 |
@@ -1080,6 +1080,7 @@
 | [Touch \(feat\. Rromarin\)](https://open.spotify.com/track/1rySZnvbDyYKuNcbToWoDK) | [Golden Features](https://open.spotify.com/artist/2SrWifjYv7b5tR8EzEmn1x), [Rromarin](https://open.spotify.com/artist/4JEwT8UJ2ihmM7xWjrtPqP) | [Touch \(feat\. Rromarin\)](https://open.spotify.com/album/6qPjJY1vQCBKCzDJxQuvhJ) | 3:26 | 2022-07-01 | 2022-07-29 |
 | [Touch \(feat\. Rromarin\)](https://open.spotify.com/track/2HirdhcyrBod79Utk0acmI) | [Golden Features](https://open.spotify.com/artist/2SrWifjYv7b5tR8EzEmn1x), [Rromarin](https://open.spotify.com/artist/4JEwT8UJ2ihmM7xWjrtPqP) | [Touch \(feat\. Rromarin\)](https://open.spotify.com/album/6oqqJXzVvb3hHcdGxRCfxm) | 3:26 | 2022-07-22 | 2023-07-11 |
 | [Touch Me](https://open.spotify.com/track/7qdETIUEvsFoIh8Ed3YDpk) | [Jam City](https://open.spotify.com/artist/4jEa9eTpzzkuDQ9JMr0LT3), [Clara La San](https://open.spotify.com/artist/3u65Tx20y4WqxO7W7khEhj), [Aidan](https://open.spotify.com/artist/6C8vPirDpnA5E9PUfn4RaW) | [Jam City Presents EFM](https://open.spotify.com/album/0qeUqiPHZbBNfQjcWxIvWR) | 3:44 | 2023-05-26 |  |
+| [Touching Me](https://open.spotify.com/track/61UGcM7RcpgMsmsokgAnAZ) | [Camden Cox](https://open.spotify.com/artist/5mNpMP01Co4vXZ3U0fWP3C) | [Touching Me](https://open.spotify.com/album/1bDSoiZzTeV1ogWFC20Uii) | 2:36 | 2023-10-13 |  |
 | [Toxic](https://open.spotify.com/track/15DlPYUnP84cvA4zC2zMDa) | [JLV](https://open.spotify.com/artist/5CBNhusqki2s2jp4Lo6i2L) | [Toxic](https://open.spotify.com/album/2pcgvMdOZHUHVWT5JAC6gA) | 3:17 | 2022-05-27 | 2022-11-19 |
 | [Tracing Steps](https://open.spotify.com/track/0rY6eMNP3hXxEodeEOdKIk) | [Mat Zo](https://open.spotify.com/artist/2n7USVO8fO8FF8zq4kG2N1) | [Tracing Steps](https://open.spotify.com/album/1Vx5sLgGI2R3izkJ7sV2FG) | 6:42 | 2019-08-09\* | 2020-03-29 |
 | [Treat You Better](https://open.spotify.com/track/3B8Tx2eKzZ1u6bPnozOL1h) | [RÜFÜS DU SOL](https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj) | [SOLACE](https://open.spotify.com/album/5Jazpq8mEgSgQs06mdwkQd) | 4:33 | 2019-08-27 | 2020-10-30 |

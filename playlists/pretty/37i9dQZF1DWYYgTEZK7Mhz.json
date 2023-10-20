@@ -1,12 +1,12 @@
 {
   "description": "Un'estate al mare, stile balenare... \ud83c\udfdd\ufe0f Hit dell'estate italiana anni 60, 70 e 80!",
-  "num_followers": 23232,
+  "num_followers": 23280,
   "original_name": "Sapore di Sale",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwZGU5MTVlZTA2MzBiYTExNDljMjkxNWQ2OGZmZjU0M2NlZDQ2MDM3",
+  "snapshot_id": "MCw5NDY4YjdjNGI4MzM4MjNjMjJhYTZkNDNjYjIyMWYzZTQyZDVkNTFk",
   "tracks": [
     {
       "added_at": "2023-06-05 07:42:38",
@@ -59,22 +59,6 @@
     {
       "added_at": "2023-06-05 07:42:38",
       "album": {
-        "name": "Basta Chiudere Gli Occhi",
-        "url": "https://open.spotify.com/album/1Z8UL8WI8OmzcrwHVgHv3j"
-      },
-      "artists": [
-        {
-          "name": "Gino Paoli",
-          "url": "https://open.spotify.com/artist/2taCySpDIEEa2mvo2k7xkH"
-        }
-      ],
-      "duration_ms": 214306,
-      "name": "Sapore di sale",
-      "url": "https://open.spotify.com/track/3DAFQyYYpTDEuChTS8eTU7"
-    },
-    {
-      "added_at": "2023-06-05 07:42:38",
-      "album": {
         "name": "Traslocando",
         "url": "https://open.spotify.com/album/3OiG985bPYsI0pWrNenI2Z"
       },
@@ -87,6 +71,22 @@
       "duration_ms": 209466,
       "name": "Non sono una signora",
       "url": "https://open.spotify.com/track/1zj7vlb9EFZ8NqbSHofkGT"
+    },
+    {
+      "added_at": "2023-06-05 07:42:38",
+      "album": {
+        "name": "Basta Chiudere Gli Occhi",
+        "url": "https://open.spotify.com/album/1Z8UL8WI8OmzcrwHVgHv3j"
+      },
+      "artists": [
+        {
+          "name": "Gino Paoli",
+          "url": "https://open.spotify.com/artist/2taCySpDIEEa2mvo2k7xkH"
+        }
+      ],
+      "duration_ms": 214306,
+      "name": "Sapore di sale",
+      "url": "https://open.spotify.com/track/3DAFQyYYpTDEuChTS8eTU7"
     },
     {
       "added_at": "2023-06-05 07:42:38",
@@ -235,22 +235,6 @@
     {
       "added_at": "2023-06-05 07:42:38",
       "album": {
-        "name": "Italian Classics: Fred Bongusto, Vol. 1",
-        "url": "https://open.spotify.com/album/5nHzXZgjSFKOJqKkUGOyzQ"
-      },
-      "artists": [
-        {
-          "name": "Fred Bongusto",
-          "url": "https://open.spotify.com/artist/03zMprDSi8xGJbXYayx6ly"
-        }
-      ],
-      "duration_ms": 168642,
-      "name": "Una rotonda sul mare",
-      "url": "https://open.spotify.com/track/4qF6z47UqzpuA7lZOsXbQF"
-    },
-    {
-      "added_at": "2023-06-05 07:42:38",
-      "album": {
         "name": "Rita Pavone",
         "url": "https://open.spotify.com/album/1c5unYhvdg4dPgJQpsCTum"
       },
@@ -263,6 +247,22 @@
       "duration_ms": 137573,
       "name": "Il Ballo Del Mattone",
       "url": "https://open.spotify.com/track/7HsCbVk1DlfgBqxk7yX8ym"
+    },
+    {
+      "added_at": "2023-06-05 07:42:38",
+      "album": {
+        "name": "Italian Classics: Fred Bongusto, Vol. 1",
+        "url": "https://open.spotify.com/album/5nHzXZgjSFKOJqKkUGOyzQ"
+      },
+      "artists": [
+        {
+          "name": "Fred Bongusto",
+          "url": "https://open.spotify.com/artist/03zMprDSi8xGJbXYayx6ly"
+        }
+      ],
+      "duration_ms": 168642,
+      "name": "Una rotonda sul mare",
+      "url": "https://open.spotify.com/track/4qF6z47UqzpuA7lZOsXbQF"
     },
     {
       "added_at": "2023-06-05 07:42:38",
@@ -347,22 +347,6 @@
     {
       "added_at": "2023-06-05 07:42:38",
       "album": {
-        "name": "Ritratto Di Gianni",
-        "url": "https://open.spotify.com/album/47klfSZp0cH7rvCj9S0qmo"
-      },
-      "artists": [
-        {
-          "name": "Gianni Morandi",
-          "url": "https://open.spotify.com/artist/15FrhfFYJIx7Ijltkpjbsr"
-        }
-      ],
-      "duration_ms": 136000,
-      "name": "Se Puoi Uscire Una Domenica Sola Con Me",
-      "url": "https://open.spotify.com/track/0IX18Ln5xLonOn4DKXlcMt"
-    },
-    {
-      "added_at": "2023-06-05 07:42:38",
-      "album": {
         "name": "Rocco: Zijn Story In 21 Liedjes",
         "url": "https://open.spotify.com/album/0rD6ZFWRpMdZqAnvcIv66g"
       },
@@ -375,6 +359,22 @@
       "duration_ms": 164453,
       "name": "Marina",
       "url": "https://open.spotify.com/track/4hFhb8YNgPc94Fq0NANpIB"
+    },
+    {
+      "added_at": "2023-06-05 07:42:38",
+      "album": {
+        "name": "Ritratto Di Gianni",
+        "url": "https://open.spotify.com/album/47klfSZp0cH7rvCj9S0qmo"
+      },
+      "artists": [
+        {
+          "name": "Gianni Morandi",
+          "url": "https://open.spotify.com/artist/15FrhfFYJIx7Ijltkpjbsr"
+        }
+      ],
+      "duration_ms": 136000,
+      "name": "Se Puoi Uscire Una Domenica Sola Con Me",
+      "url": "https://open.spotify.com/track/0IX18Ln5xLonOn4DKXlcMt"
     },
     {
       "added_at": "2023-06-05 07:42:38",
@@ -495,6 +495,22 @@
     {
       "added_at": "2023-06-05 07:42:38",
       "album": {
+        "name": "Come lei non c'e' nessuno",
+        "url": "https://open.spotify.com/album/1qrNVv0IOFFmyff1kLJy4Q"
+      },
+      "artists": [
+        {
+          "name": "Rita Pavone",
+          "url": "https://open.spotify.com/artist/3xc8CD41vwsoBNkGXL3pS7"
+        }
+      ],
+      "duration_ms": 133026,
+      "name": "La partita di pallone",
+      "url": "https://open.spotify.com/track/467plYfT62efo0yW6qdqCl"
+    },
+    {
+      "added_at": "2023-06-05 07:42:38",
+      "album": {
         "name": "Gianni Morandi",
         "url": "https://open.spotify.com/album/1Z47BhRPU4sSFwXdJDYPsS"
       },
@@ -523,22 +539,6 @@
       "duration_ms": 136080,
       "name": "24,000 baci",
       "url": "https://open.spotify.com/track/0WYFtZ7NL2SHwhnisVHpwM"
-    },
-    {
-      "added_at": "2023-06-05 07:42:38",
-      "album": {
-        "name": "Come lei non c'e' nessuno",
-        "url": "https://open.spotify.com/album/1qrNVv0IOFFmyff1kLJy4Q"
-      },
-      "artists": [
-        {
-          "name": "Rita Pavone",
-          "url": "https://open.spotify.com/artist/3xc8CD41vwsoBNkGXL3pS7"
-        }
-      ],
-      "duration_ms": 133026,
-      "name": "La partita di pallone",
-      "url": "https://open.spotify.com/track/467plYfT62efo0yW6qdqCl"
     },
     {
       "added_at": "2023-06-05 07:42:38",
@@ -659,22 +659,6 @@
     {
       "added_at": "2023-06-05 07:42:38",
       "album": {
-        "name": "Addio al Nubilato",
-        "url": "https://open.spotify.com/album/6mHXzA1BnxyxJyLYXM0f0h"
-      },
-      "artists": [
-        {
-          "name": "Lu Colombo",
-          "url": "https://open.spotify.com/artist/5pxKcg9uA5SYFZZmTj4kUk"
-        }
-      ],
-      "duration_ms": 233744,
-      "name": "Maracaibo",
-      "url": "https://open.spotify.com/track/3lw94lsMCgCjIicjSlS121"
-    },
-    {
-      "added_at": "2023-06-05 07:42:38",
-      "album": {
         "name": "Nell'aria",
         "url": "https://open.spotify.com/album/1hj4hDj1BbuCEbSmwH3QqA"
       },
@@ -687,6 +671,22 @@
       "duration_ms": 242640,
       "name": "Nell'aria",
       "url": "https://open.spotify.com/track/6m00Mv5ElkFndzwrv0D8a0"
+    },
+    {
+      "added_at": "2023-06-05 07:42:38",
+      "album": {
+        "name": "Addio al Nubilato",
+        "url": "https://open.spotify.com/album/6mHXzA1BnxyxJyLYXM0f0h"
+      },
+      "artists": [
+        {
+          "name": "Lu Colombo",
+          "url": "https://open.spotify.com/artist/5pxKcg9uA5SYFZZmTj4kUk"
+        }
+      ],
+      "duration_ms": 233744,
+      "name": "Maracaibo",
+      "url": "https://open.spotify.com/track/3lw94lsMCgCjIicjSlS121"
     },
     {
       "added_at": "2023-06-05 07:42:38",

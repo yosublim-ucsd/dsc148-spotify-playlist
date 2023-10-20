@@ -1,12 +1,12 @@
 {
   "description": "Club classics from the homeland of dance music.",
-  "num_followers": 232668,
+  "num_followers": 232826,
   "original_name": "Ibiza Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0MTNhYzJhOTQ4MWI3NjY1ZDU2MzllODlmYWZmNDJmMjkxMDE5NDJk",
+  "snapshot_id": "MCxlYmVmYzM5MDQzNjg1NTIwMzJkNGIxM2JjZDhmNTZlYTBmZmI1ODY4",
   "tracks": [
     {
       "added_at": "2023-08-11 15:42:20",
@@ -1027,22 +1027,6 @@
     {
       "added_at": "2023-08-11 15:42:20",
       "album": {
-        "name": "Foundation",
-        "url": "https://open.spotify.com/album/3ogZnk3kh6WOdJi8v1W0fH"
-      },
-      "artists": [
-        {
-          "name": "Ten City",
-          "url": "https://open.spotify.com/artist/3DIaOWIVFxJdTYyEb9mXzi"
-        }
-      ],
-      "duration_ms": 255200,
-      "name": "That's the Way Love Is - Underground Mix; Edit",
-      "url": "https://open.spotify.com/track/5eFCFpmDbqGqpdOVE9CXCh"
-    },
-    {
-      "added_at": "2023-08-11 15:42:20",
-      "album": {
         "name": "Twenty",
         "url": "https://open.spotify.com/album/6CT7RUosxDLkY6Ysb118Uf"
       },
@@ -1055,6 +1039,22 @@
       "duration_ms": 224013,
       "name": "Poppiholla",
       "url": "https://open.spotify.com/track/2KKxGRR5TFNdICGxLrzvqs"
+    },
+    {
+      "added_at": "2023-08-11 15:42:20",
+      "album": {
+        "name": "Foundation",
+        "url": "https://open.spotify.com/album/3ogZnk3kh6WOdJi8v1W0fH"
+      },
+      "artists": [
+        {
+          "name": "Ten City",
+          "url": "https://open.spotify.com/artist/3DIaOWIVFxJdTYyEb9mXzi"
+        }
+      ],
+      "duration_ms": 255200,
+      "name": "That's the Way Love Is - Underground Mix; Edit",
+      "url": "https://open.spotify.com/track/5eFCFpmDbqGqpdOVE9CXCh"
     },
     {
       "added_at": "2023-08-11 15:42:20",
@@ -1379,18 +1379,26 @@
     {
       "added_at": "2023-08-11 15:42:20",
       "album": {
-        "name": "Angeles y demonios",
-        "url": "https://open.spotify.com/album/2w7OWXr7uD2QPYZM2qYEso"
+        "name": "Don't You Want Me",
+        "url": "https://open.spotify.com/album/5EsmJemSNDssD0hy9bJA3N"
       },
       "artists": [
         {
-          "name": "Elkin & Nelson",
-          "url": "https://open.spotify.com/artist/2B6jLXMjMSW7Jf8yBM6rVJ"
+          "name": "Felix",
+          "url": "https://open.spotify.com/artist/6iRRErKYy1iojOaJoq6Ltk"
+        },
+        {
+          "name": "Rollo Armstrong",
+          "url": "https://open.spotify.com/artist/6hFSukEzqXAkCIcXNnctZ4"
+        },
+        {
+          "name": "Red Jerry",
+          "url": "https://open.spotify.com/artist/5TmU0aKScXjIZuJlHQcKaW"
         }
       ],
-      "duration_ms": 450185,
-      "name": "Jibaro (Enrolle)",
-      "url": "https://open.spotify.com/track/39qNshURj4X8qghle1JSXq"
+      "duration_ms": 187053,
+      "name": "Don't You Want Me - Hooj Mix Edit",
+      "url": "https://open.spotify.com/track/5yccftMOR4DWGxpVyuqaKs"
     }
   ],
   "unique_name": "Ibiza Classics",

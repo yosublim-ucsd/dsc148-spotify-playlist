@@ -4,7 +4,7 @@
 
 > Let the hum of calming white noise box fans lull you to sleep.
 
-148 songs - 6 hr 36 min
+149 songs - 6 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -46,7 +46,7 @@
 | [Box Fan High Power](https://open.spotify.com/track/0C0d1O5avtx7ShNVMZPidh) | [Inlet Noise](https://open.spotify.com/artist/5dWOqC79FiRtKwb0FEQAvf) | [Air Conditioner & Fan Sounds](https://open.spotify.com/album/0RQrEFcbuzRCVAlgvP4395) | 3:48 | 2023-05-25 |  |
 | [Box Fan Lullabies: Melodies for Peaceful Sleep](https://open.spotify.com/track/2C2TBSaQR3mh8KWVILw97Z) | [Nozon](https://open.spotify.com/artist/1NYlBYTFUeQJBzcZItcE9v) | [Sleep Haven: Box Fan's Tranquil Whispers](https://open.spotify.com/album/3tb7eRikpZM3TAJMgTB4b0) | 2:34 | 2023-07-06 |  |
 | [Box Fan Lullabies: Serenades for Peaceful Sleep](https://open.spotify.com/track/4vz5U3D9UzspobK8hrFtW0) | [Cosmos Noise](https://open.spotify.com/artist/0Xm5ak5ChDxVwUuxnhmE33) | [Tranquil Whispers: Box Fan's Soothing Melodies](https://open.spotify.com/album/61E6AV1w5Hf1MwcU8SSsrg) | 2:32 | 2023-07-06 |  |
-| [Box Fan Medium Distant Unidirectional](https://open.spotify.com/track/1pi3vV0SIKf8ZYfRKOJdFc) | [Home Sounds](https://open.spotify.com/artist/7wYCOLJRTwlaS5jgf9rCiI) | [Relaxing Box Fans](https://open.spotify.com/album/1RA2FpNmkItxy3aiVMKX7Q) | 3:09 | 2023-05-25 |  |
+| [Box Fan Medium Distant Unidirectional](https://open.spotify.com/track/1pi3vV0SIKf8ZYfRKOJdFc) | [Home Sounds](https://open.spotify.com/artist/7wYCOLJRTwlaS5jgf9rCiI) | [Relaxing Box Fans](https://open.spotify.com/album/1RA2FpNmkItxy3aiVMKX7Q) | 3:09 | 2023-05-25 | 2023-10-20 |
 | [Box Fan Oasis: Melodies for Relaxation](https://open.spotify.com/track/0oLDM7xFL38hmJEYM6g74R) | [Noise Shapers](https://open.spotify.com/artist/4Ck8TQHS7YHz4ql7WbAwFY) | [Box Fan Oasis: Melodies for Relaxation](https://open.spotify.com/album/6gHA1yGBBX9Uxy99ZpH8Jf) | 2:14 | 2023-07-06 |  |
 | [Box Fan Rest Sound](https://open.spotify.com/track/6O5fgmjLSEtW1hHdFAR14I) | [Fan Sounds](https://open.spotify.com/artist/3rolEAXFOTW33tkUA2VOuo) | [Box Fan Hitzzz](https://open.spotify.com/album/178GPOUQv9AvmlVi0G5y3q) | 3:42 | 2023-05-25 |  |
 | [Box Fan Reverie: Tranquil Melodies for Rest](https://open.spotify.com/track/6YVe09dp3dCJbwCxJmhUx6) | [Electric Relaxing](https://open.spotify.com/artist/2f2KQ6nj6HuMLIq2B0SQ3s) | [Box Fan Reverie: Tranquil Melodies for Rest](https://open.spotify.com/album/1MwWFmfTZbc6kVrs3gKt3C) | 2:49 | 2023-07-06 |  |
@@ -54,7 +54,7 @@
 | [Box Fan Serenade: Your Bedtime Companion](https://open.spotify.com/track/2WXJGzNiXzeWgr1QNdkBmR) | [brozains](https://open.spotify.com/artist/7gUQb4sAvvLplz558JypaA) | [Whispering Winds: Box Fan Naptime](https://open.spotify.com/album/7GfHi4eRM0dkIWovS1nokK) | 2:20 | 2023-07-06 |  |
 | [Box Fan Serenity: A Melodic Journey to Rest](https://open.spotify.com/track/4QoXdDzCdPtA5E0yQ3eacI) | [Timasion](https://open.spotify.com/artist/4j41JyurhVC4wrVHoC6ZHP) | [Box Fan Serenity: A Melodic Journey to Rest](https://open.spotify.com/album/4h7gufPAQGzpGIrYbe3fIt) | 2:18 | 2023-07-06 |  |
 | [Box Fan Sleep Aid](https://open.spotify.com/track/3oFm5bzHlwAdmJ1oO9cWyp) | [Smoothe Sounds](https://open.spotify.com/artist/530BQdnWKWSFYjg8SKUGbN) | [Box Fan Sleep Aid](https://open.spotify.com/album/0Bkn2XiTP6H5QQZoHe0TJ3) | 3:01 | 2023-08-15 |  |
-| [Box Fan Sleep Aid Sounds](https://open.spotify.com/track/3GGeoYoC7gcq4AumW6afmn) | [Emotional Support Fan](https://open.spotify.com/artist/6MmL3GAvpQHHIKryoi4eIf) | [Calm Restful Box Fan Sounds](https://open.spotify.com/album/5PnBXTlS3RMT2Ynjq6i4iC) | 3:40 | 2023-08-15 |  |
+| [Box Fan Sleep Aid Sounds](https://open.spotify.com/track/3GGeoYoC7gcq4AumW6afmn) | [Emotional Support Fan](https://open.spotify.com/artist/6MmL3GAvpQHHIKryoi4eIf) | [Calm Restful Box Fan Sounds](https://open.spotify.com/album/5PnBXTlS3RMT2Ynjq6i4iC) | 3:40 | 2023-08-15 | 2023-10-20 |
 | [Box Fan Sleepscape](https://open.spotify.com/track/6aejoTzAd1fin1CLLO3DQM) | [Dozy Sounds](https://open.spotify.com/artist/6GjywyZ0Qtsu0f95gL5CDG) | [Dozy Air](https://open.spotify.com/album/20hMsJOvush0K4Sjc3MUqi) | 3:48 | 2023-05-25 |  |
 | [Box Fan Slumber](https://open.spotify.com/track/6u5Pm4LlHKFvaO9wdeBiSs) | [Dozy Sounds](https://open.spotify.com/artist/6GjywyZ0Qtsu0f95gL5CDG) | [Dozy Air](https://open.spotify.com/album/20hMsJOvush0K4Sjc3MUqi) | 3:09 | 2023-05-25 |  |
 | [Box Fan Sound](https://open.spotify.com/track/6g9DAYPHnSX0WgZinPUBIg) | [Sleep Guide](https://open.spotify.com/artist/6tgXScWP1HLGNgyOFcRg0K) | [Box Fan Sound](https://open.spotify.com/album/37K6llZSPwt6y4MXazi26g) | 1:30 | 2023-05-25 | 2023-06-23 |
@@ -66,7 +66,7 @@
 | [Broken Bedroom Fan](https://open.spotify.com/track/1YyJRtFjLbxDKSwkT4oZTN) | [No Placebo](https://open.spotify.com/artist/6PfMowhcQPSNiPw4Fag26i) | [Broken Bedroom Fan](https://open.spotify.com/album/7zPFLeFTAZ8J3tV1wIf51J) | 2:36 | 2023-05-25 |  |
 | [Brown Fan Noise](https://open.spotify.com/track/30C07kifcrut0Lz0x5yJkg) | [MKG Sound Library](https://open.spotify.com/artist/4w6WFLprJAqxXhKCWfxnHN) | [Fan Noise](https://open.spotify.com/album/6xbIBXN9DVYNaqAYk1tCMH) | 2:26 | 2023-05-25 |  |
 | [Brown Noise Box Fan](https://open.spotify.com/track/63zxOjVo4jnzSiV7fDg0l4) | [Robins Sound](https://open.spotify.com/artist/7kWBfpJPJPpsFTsCD6C5Pv) | [Brown Noise Box Fan](https://open.spotify.com/album/4F8Di8CAvS2VDpGHtjvUsP) | 2:14 | 2023-08-15 |  |
-| [Calm Fan](https://open.spotify.com/track/48FISy9hmvqREbJh6sdpSI) | [Home Sounds](https://open.spotify.com/artist/7wYCOLJRTwlaS5jgf9rCiI) | [Calming Fan Sounds](https://open.spotify.com/album/4n6bgMp0fNv2qfqeW6W3lL) | 2:48 | 2023-05-25 |  |
+| [Calm Fan](https://open.spotify.com/track/48FISy9hmvqREbJh6sdpSI) | [Home Sounds](https://open.spotify.com/artist/7wYCOLJRTwlaS5jgf9rCiI) | [Calming Fan Sounds](https://open.spotify.com/album/4n6bgMp0fNv2qfqeW6W3lL) | 2:48 | 2023-05-25 | 2023-10-20 |
 | [Calm Restful Box Fan Sounds](https://open.spotify.com/track/5Xwa50s98jHMvuK0Cgnmok) | [Emotional Support Fan](https://open.spotify.com/artist/6MmL3GAvpQHHIKryoi4eIf) | [Calm Restful Box Fan Sounds](https://open.spotify.com/album/5PnBXTlS3RMT2Ynjq6i4iC) | 3:09 | 2023-08-15 |  |
 | [Calming Box Fan](https://open.spotify.com/track/0tnoSJZm1EqtJ91Hd9t4gj) | [Les Dormeurs](https://open.spotify.com/artist/3GWrORsTiWBEnokDMTquye) | [Calming Box Fan](https://open.spotify.com/album/4YbwGSvxym6DMgF3RRNo5u) | 2:32 | 2023-07-06 |  |
 | [Calming Box Fan Noise](https://open.spotify.com/track/5YrMfr0tnczfPHUozcb0QF) | [Noise Station](https://open.spotify.com/artist/2NfMg903Rbr8UdXbjyGplm) | [Calming Box Fan Noise](https://open.spotify.com/album/5auyWPVUjzot1WMMqtzrtC) | 3:19 | 2023-07-06 |  |
@@ -87,6 +87,7 @@
 | [Fan of Fan](https://open.spotify.com/track/0LsoqN0ayMRrnOclvbRPDe) | [Robins Sound](https://open.spotify.com/artist/7kWBfpJPJPpsFTsCD6C5Pv) | [Fan of Fan](https://open.spotify.com/album/6Y9TL1Ih4eNP94aZSP2yLw) | 3:12 | 2023-07-06 |  |
 | [Fan Oscillator 3](https://open.spotify.com/track/7KX9CAVgKVzfIzG7Luf4GH) | [The Night Ferry](https://open.spotify.com/artist/5oJmfnmUzYimrw7CAk8Oyk) | [Fans To Make You Rest](https://open.spotify.com/album/4sYpk3pzq1kN5k2Hu7I2Ek) | 2:16 | 2023-05-25 |  |
 | [Fan Oscillator 3 \- Seamless](https://open.spotify.com/track/6ezR2lsj6lMRY8JOUxK7EL) | [The Night Ferry](https://open.spotify.com/artist/5oJmfnmUzYimrw7CAk8Oyk) | [Fans To Make You Rest](https://open.spotify.com/album/4sYpk3pzq1kN5k2Hu7I2Ek) | 2:16 | 2023-05-25 |  |
+| [Fan Pushing Air](https://open.spotify.com/track/7y2EoXFWBRPCv4i4KRyRYl) | [Robins Sound](https://open.spotify.com/artist/7kWBfpJPJPpsFTsCD6C5Pv) | [Fan Pushing Air](https://open.spotify.com/album/2O3nJmFMJx4ctT1AAuO0LX) | 2:34 | 2023-10-20 |  |
 | [Fan White Noise](https://open.spotify.com/track/49uNsUUFZlFgWVqLo7YQyc) | [Depth of Noise](https://open.spotify.com/artist/5fqU7hizLIOQ6FxU9BrlwH) | [Colorful Fan](https://open.spotify.com/album/31nJadrylksNbjllXnFEtw) | 2:36 | 2023-07-06 |  |
 | [Flowing Box Fan](https://open.spotify.com/track/1k6X3CrflDU7DFbGSAbiLM) | [ASMR Billy](https://open.spotify.com/artist/7zThNsQGpD1QW6XvXTlEAC) | [Relaxing Home Sounds](https://open.spotify.com/album/1mDBVN0tTb0d6BqERgao0d) | 3:00 | 2023-05-25 |  |
 | [Gentle Box Fan Breeze for Sleep](https://open.spotify.com/track/7eLfJLLi6z0cKsCjElmLrR) | [Fan Sounds](https://open.spotify.com/artist/3rolEAXFOTW33tkUA2VOuo) | [Box Fan Hitzzz](https://open.spotify.com/album/178GPOUQv9AvmlVi0G5y3q) | 2:05 | 2023-05-25 |  |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-11",
-  "description": "Il meglio dell'R&B italiano. Cover: Shadaloo",
+  "description": "Il meglio dell'R&B italiano. Cover: Queen of Saba",
   "name": "anima R&B",
   "tracks": [
     {
@@ -3325,6 +3325,32 @@
     },
     {
       "album": {
+        "name": "Koala",
+        "url": "https://open.spotify.com/album/16n5szWljslh8FIDKOg6zB"
+      },
+      "artists": [
+        {
+          "name": "Angela Iris",
+          "url": "https://open.spotify.com/artist/7o1XRDbnk24xbZOvVNbn1C"
+        },
+        {
+          "name": "Harley",
+          "url": "https://open.spotify.com/artist/73VBdYikibq60OH9xmoA8F"
+        },
+        {
+          "name": "Obi",
+          "url": "https://open.spotify.com/artist/397C43QkYq9EVsZCkhh84L"
+        }
+      ],
+      "date_added": "2023-10-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "Koala",
+      "url": "https://open.spotify.com/track/3dvc2alQsbI9yOJgHCgGaD"
+    },
+    {
+      "album": {
         "name": "Kuni",
         "url": "https://open.spotify.com/album/40dfgXsb0aemwlP10pfGCx"
       },
@@ -3452,6 +3478,28 @@
       "duration_ms": 158744,
       "name": "l'ultima volta",
       "url": "https://open.spotify.com/track/1esjxDsgrkrBXGhpcMfc64"
+    },
+    {
+      "album": {
+        "name": "LA NIGHT",
+        "url": "https://open.spotify.com/album/1QJ2j9bJkmlLrgs3LUAC34"
+      },
+      "artists": [
+        {
+          "name": "Florence",
+          "url": "https://open.spotify.com/artist/5qyGTDa4a3jH5cGdH6G9M6"
+        },
+        {
+          "name": "dNoise",
+          "url": "https://open.spotify.com/artist/410eOpymx2am8CnIi1TfRe"
+        }
+      ],
+      "date_added": "2023-10-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140877,
+      "name": "LA NIGHT",
+      "url": "https://open.spotify.com/track/08o3UYTWcQZZo5o7ygl4OE"
     },
     {
       "album": {

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-07-17",
-  "description": "Novos rappers, novos sons. Tamos juntos! Foto: THE F LIBRA.",
+  "description": "Novos rappers, novos sons. Tamos juntos! Foto: Sandrini 2830.",
   "name": "Ganda Cena",
   "tracks": [
     {
@@ -1869,6 +1869,24 @@
     },
     {
       "album": {
+        "name": "CCTV",
+        "url": "https://open.spotify.com/album/7ocUFN1RTtV5x26izeQYrX"
+      },
+      "artists": [
+        {
+          "name": "Sandrini 2830",
+          "url": "https://open.spotify.com/artist/336uZ00PeB8m0gPWb2AcR2"
+        }
+      ],
+      "date_added": "2023-10-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161640,
+      "name": "CCTV",
+      "url": "https://open.spotify.com/track/0lCLNYtUE8BOO9mNfijvxJ"
+    },
+    {
+      "album": {
         "name": "Change",
         "url": "https://open.spotify.com/album/3mEgwHNCBb4295yEMK7bN3"
       },
@@ -1884,6 +1902,24 @@
       "duration_ms": 258574,
       "name": "Change",
       "url": "https://open.spotify.com/track/7mAiamBfiH1idPEE8kpnfG"
+    },
+    {
+      "album": {
+        "name": "Chap\u00e9u",
+        "url": "https://open.spotify.com/album/4VUgVHgb93no8WRBNwORC1"
+      },
+      "artists": [
+        {
+          "name": "L-ALI",
+          "url": "https://open.spotify.com/artist/2O6Oes2ZnqSwoUHFl7rTyy"
+        }
+      ],
+      "date_added": "2023-10-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147000,
+      "name": "Chap\u00e9u",
+      "url": "https://open.spotify.com/track/3FblgHAY2NutLxHoChGmnj"
     },
     {
       "album": {
@@ -2160,7 +2196,7 @@
       ],
       "date_added": "2023-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-20",
       "duration_ms": 165773,
       "name": "Como Se Quer",
       "url": "https://open.spotify.com/track/5TKS3FAIgXUTIggBwipCeQ"
@@ -3565,6 +3601,24 @@
     },
     {
       "album": {
+        "name": "Europa Central Freestyle",
+        "url": "https://open.spotify.com/album/2LFKVzpqnSXkXT2EVXCbkB"
+      },
+      "artists": [
+        {
+          "name": "nastyfactor",
+          "url": "https://open.spotify.com/artist/6txPp4e05GExCjHl2oELQ1"
+        }
+      ],
+      "date_added": "2023-10-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144000,
+      "name": "Europa Central Freestyle",
+      "url": "https://open.spotify.com/track/08UvmQvOk2LBjOt0hU53U1"
+    },
+    {
+      "album": {
         "name": "Evita",
         "url": "https://open.spotify.com/album/7yGZfqPqtkpgb6Eq4djrMh"
       },
@@ -4092,6 +4146,24 @@
       "duration_ms": 153000,
       "name": "Freaky",
       "url": "https://open.spotify.com/track/3K4IBBLia2tIyjFvFfK8ca"
+    },
+    {
+      "album": {
+        "name": "Freddy & Jason",
+        "url": "https://open.spotify.com/album/5U2LOevIQZsqn43WEr3oRY"
+      },
+      "artists": [
+        {
+          "name": "C2",
+          "url": "https://open.spotify.com/artist/4Oxl90pG1fwP0Ws3kX0NIu"
+        }
+      ],
+      "date_added": "2023-10-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146494,
+      "name": "Freddy & Jason",
+      "url": "https://open.spotify.com/track/0eMxs8wLesf3wi2gyMq0pO"
     },
     {
       "album": {
@@ -4898,7 +4970,7 @@
       ],
       "date_added": "2023-07-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-20",
       "duration_ms": 162026,
       "name": "HOLOGRAMAS",
       "url": "https://open.spotify.com/track/0PmqwP7PfwYCUzZZuPv7ru"
@@ -6182,7 +6254,7 @@
       ],
       "date_added": "2023-07-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-20",
       "duration_ms": 148080,
       "name": "Maluca",
       "url": "https://open.spotify.com/track/1xwsTjTxnxs0EDdCBTTPbY"
@@ -7222,6 +7294,24 @@
       "duration_ms": 111930,
       "name": "Nada Mais Interessa",
       "url": "https://open.spotify.com/track/5V6iNdPfrNkRn1IK3e5JB5"
+    },
+    {
+      "album": {
+        "name": "Namora",
+        "url": "https://open.spotify.com/album/6B3IQPXXEHlzXE7NzQ1png"
+      },
+      "artists": [
+        {
+          "name": "Faro G",
+          "url": "https://open.spotify.com/artist/4seDADXKokUxbtWnCczwcK"
+        }
+      ],
+      "date_added": "2023-10-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207625,
+      "name": "Namora",
+      "url": "https://open.spotify.com/track/1uwXGg0mhXqkt2QsoiXuBK"
     },
     {
       "album": {
@@ -8281,6 +8371,28 @@
     },
     {
       "album": {
+        "name": "Out Of Here",
+        "url": "https://open.spotify.com/album/395Zg8HN6d8kx9HdbWV019"
+      },
+      "artists": [
+        {
+          "name": "DIGGA",
+          "url": "https://open.spotify.com/artist/1xaT7wj44eRYp4YHntRW6i"
+        },
+        {
+          "name": "JNY",
+          "url": "https://open.spotify.com/artist/2JW7JPlsb29nRKl5yEVNru"
+        }
+      ],
+      "date_added": "2023-10-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154200,
+      "name": "Out Of Here",
+      "url": "https://open.spotify.com/track/5uzQk0LgAtctYKMPtpMiOj"
+    },
+    {
+      "album": {
         "name": "Outlawz",
         "url": "https://open.spotify.com/album/3NwY5WK2PFzJ3JiDYx5FRU"
       },
@@ -8748,7 +8860,7 @@
       ],
       "date_added": "2023-07-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-20",
       "duration_ms": 215730,
       "name": "Pick Up The Phone",
       "url": "https://open.spotify.com/track/528QE0jkWkdZTzFmGg42LJ"
@@ -9198,7 +9310,7 @@
       ],
       "date_added": "2023-07-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-20",
       "duration_ms": 186666,
       "name": "Pussyclat",
       "url": "https://open.spotify.com/track/4y9F4RsAfmA4vCuwx7AyFi"
@@ -9457,6 +9569,28 @@
     },
     {
       "album": {
+        "name": "RANGE ROVER",
+        "url": "https://open.spotify.com/album/17tkX5TfPVrt0azHhpGhWx"
+      },
+      "artists": [
+        {
+          "name": "el Amukinado",
+          "url": "https://open.spotify.com/artist/0OMqwt5uyjQqbh7KL1Wlg2"
+        },
+        {
+          "name": "West Wood",
+          "url": "https://open.spotify.com/artist/0PktuNtu7TSLVCmuCBkAkO"
+        }
+      ],
+      "date_added": "2023-10-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178000,
+      "name": "RANGE ROVER",
+      "url": "https://open.spotify.com/track/4B8trlm0Eo8HPjMxNl7MwD"
+    },
+    {
+      "album": {
         "name": "RAPA",
         "url": "https://open.spotify.com/album/2pFQVSHynsuBTOwckGihFD"
       },
@@ -9486,7 +9620,7 @@
       ],
       "date_added": "2023-07-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-20",
       "duration_ms": 161282,
       "name": "Real",
       "url": "https://open.spotify.com/track/6yjVXxc9lzoE9e0B9aSJQY"
@@ -9902,7 +10036,7 @@
       ],
       "date_added": "2023-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-20",
       "duration_ms": 210000,
       "name": "Safoda 2",
       "url": "https://open.spotify.com/track/2AjwvWf0orrpbmJMqj9Ke4"
@@ -10877,6 +11011,24 @@
     },
     {
       "album": {
+        "name": "Subir",
+        "url": "https://open.spotify.com/album/2JySWL90gGWknXem0mducU"
+      },
+      "artists": [
+        {
+          "name": "T\u00e1cio",
+          "url": "https://open.spotify.com/artist/5qMixXh2A8NfCIBPvrrNOB"
+        }
+      ],
+      "date_added": "2023-10-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225529,
+      "name": "Subir",
+      "url": "https://open.spotify.com/track/6V305iDWbbTB6KqUfwIjzy"
+    },
+    {
+      "album": {
         "name": "Sunny Days",
         "url": "https://open.spotify.com/album/4OjoMiWyIYQkN5oshMfD1c"
       },
@@ -11330,7 +11482,7 @@
       ],
       "date_added": "2023-07-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-20",
       "duration_ms": 165312,
       "name": "Torre de Pisa",
       "url": "https://open.spotify.com/track/4kaal3AMWRFwZIubsyx1lI"
@@ -11912,6 +12064,32 @@
     {
       "album": {
         "name": "Viciado",
+        "url": "https://open.spotify.com/album/6L9MPqwQHdyZbQpZMqa1dc"
+      },
+      "artists": [
+        {
+          "name": "Kendez Wonder",
+          "url": "https://open.spotify.com/artist/7bQyAMbVtPv10rJcBGXZzs"
+        },
+        {
+          "name": "MEM",
+          "url": "https://open.spotify.com/artist/6Hfk8OlN3fiMSad3IxCNTy"
+        },
+        {
+          "name": "AET",
+          "url": "https://open.spotify.com/artist/1PSaLNwxWV9e6NCrxNbpIu"
+        }
+      ],
+      "date_added": "2023-10-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170920,
+      "name": "Viciado",
+      "url": "https://open.spotify.com/track/5nz79FGfxfLzttb1nLFuH5"
+    },
+    {
+      "album": {
+        "name": "Viciado",
         "url": "https://open.spotify.com/album/19PSSc9iyYbYaal7ePUG6W"
       },
       "artists": [
@@ -12118,7 +12296,7 @@
       ],
       "date_added": "2023-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-20",
       "duration_ms": 175200,
       "name": "Vis\u00e3o Turva",
       "url": "https://open.spotify.com/track/3zXSc7nF87nCKM7G7ILPUi"

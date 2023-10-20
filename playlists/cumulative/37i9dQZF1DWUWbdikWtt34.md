@@ -2,7 +2,7 @@
 
 ### [Dangdut Top](https://open.spotify.com/playlist/37i9dQZF1DWUWbdikWtt34)
 
-> Dendang Dangdut teratas\. Cover: Nilam Sari
+> Dendang Dangdut teratas\. Cover: Maulana Ardiansyah
 
 128 songs - 9 hr 55 min
 

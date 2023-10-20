@@ -179,6 +179,28 @@
     },
     {
       "album": {
+        "name": "A Night To Remember",
+        "url": "https://open.spotify.com/album/73wBVA41AulgjGiL3rBwfe"
+      },
+      "artists": [
+        {
+          "name": "beabadoobee",
+          "url": "https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB"
+        },
+        {
+          "name": "Laufey",
+          "url": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
+        }
+      ],
+      "date_added": "2023-10-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233388,
+      "name": "A Night To Remember",
+      "url": "https://open.spotify.com/track/180AbZduI6bYQIzwCHRwu9"
+    },
+    {
+      "album": {
         "name": "A Thousand Whys",
         "url": "https://open.spotify.com/album/6VouZ9MEp8j2prUzcoelIa"
       },
@@ -717,6 +739,24 @@
     },
     {
       "album": {
+        "name": "Bad Intentions",
+        "url": "https://open.spotify.com/album/6woTomg4IThua1tXT9bsVx"
+      },
+      "artists": [
+        {
+          "name": "Yuna",
+          "url": "https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1"
+        }
+      ],
+      "date_added": "2023-10-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143731,
+      "name": "Bad Intentions",
+      "url": "https://open.spotify.com/track/0d7Z3ZMcCXP25EidWPC0Sf"
+    },
+    {
+      "album": {
         "name": "bad weather",
         "url": "https://open.spotify.com/album/7GcqB2QpeFKDg4gDcaN52q"
       },
@@ -822,7 +862,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-20",
       "duration_ms": 175853,
       "name": "Beautiful Day",
       "url": "https://open.spotify.com/track/2gTLLRw4CBl709U3dRICEh"
@@ -2316,7 +2356,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-20",
       "duration_ms": 203532,
       "name": "Dancing with my phone",
       "url": "https://open.spotify.com/track/4Zh9zZmEBoDLTKQRjXwict"
@@ -2400,7 +2440,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-20",
       "duration_ms": 187500,
       "name": "Daylight (feat. GANGGA)",
       "url": "https://open.spotify.com/track/5C8SwYxHNCBcPaM9IZrU9C"
@@ -2476,6 +2516,24 @@
       "duration_ms": 211429,
       "name": "Dear Love",
       "url": "https://open.spotify.com/track/6GJBoOBGgvgmrmMhtdRYkf"
+    },
+    {
+      "album": {
+        "name": "Dear Mr. Petty",
+        "url": "https://open.spotify.com/album/15FZurr55KKY9jUXlKnIvx"
+      },
+      "artists": [
+        {
+          "name": "Sheryl Sheinafia",
+          "url": "https://open.spotify.com/artist/1lfMGY3PXMmj6qgwiPqp06"
+        }
+      ],
+      "date_added": "2023-10-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152333,
+      "name": "Dear Mr. Petty",
+      "url": "https://open.spotify.com/track/15HqS9r4uKHLNCVtW6aI2s"
     },
     {
       "album": {
@@ -2646,7 +2704,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-20",
       "duration_ms": 151960,
       "name": "Different Directions",
       "url": "https://open.spotify.com/track/59YYx42Tyvuq5REmjJTWyh"
@@ -5071,6 +5129,24 @@
     },
     {
       "album": {
+        "name": "Humble Pie Tattoo",
+        "url": "https://open.spotify.com/album/5jSWI40dDQcw7Z0lQzIJ2z"
+      },
+      "artists": [
+        {
+          "name": "The Chairs",
+          "url": "https://open.spotify.com/artist/4IlxI05VmVDx8ShdgKEnLK"
+        }
+      ],
+      "date_added": "2023-10-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212067,
+      "name": "Humble Pie Tattoo",
+      "url": "https://open.spotify.com/track/3b4mQzg1rKjS9MOJEIcxMl"
+    },
+    {
+      "album": {
         "name": "Hurry Home (with beabadoobee & Jay Som)",
         "url": "https://open.spotify.com/album/6vAkWJVChKrwbY9WTLeKZZ"
       },
@@ -5586,6 +5662,24 @@
       "duration_ms": 176000,
       "name": "i'm having a hard time being myself",
       "url": "https://open.spotify.com/track/0SWaiAaopRPU4waN2GO9lZ"
+    },
+    {
+      "album": {
+        "name": "2004",
+        "url": "https://open.spotify.com/album/2mz2plCCh1VzUymmWMGjCg"
+      },
+      "artists": [
+        {
+          "name": "Assia Keva",
+          "url": "https://open.spotify.com/artist/78rdZWsKiflQNcM4ecLyi8"
+        }
+      ],
+      "date_added": "2023-10-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217514,
+      "name": "I'm So High",
+      "url": "https://open.spotify.com/track/0OsOsFGRsNsn6ncyOkr2Uo"
     },
     {
       "album": {
@@ -8197,6 +8291,24 @@
     },
     {
       "album": {
+        "name": "Never Really Easy",
+        "url": "https://open.spotify.com/album/2y4Uix3czeyY67W6yFHEDI"
+      },
+      "artists": [
+        {
+          "name": "Stephanie Poetri",
+          "url": "https://open.spotify.com/artist/0HS00NN7MAfF59aJnfcxSO"
+        }
+      ],
+      "date_added": "2023-10-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177545,
+      "name": "Never Really Easy",
+      "url": "https://open.spotify.com/track/2zryt5s8VzhpaNAEJKMz2k"
+    },
+    {
+      "album": {
         "name": "NIKI",
         "url": "https://open.spotify.com/album/3epcB5Uca1mSCB7MJFXT4Y"
       },
@@ -8318,7 +8430,7 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-20",
       "duration_ms": 200360,
       "name": "no more you and i",
       "url": "https://open.spotify.com/track/7H6r6d4vum3mzN47bKG0sN"
@@ -8438,7 +8550,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-20",
       "duration_ms": 196866,
       "name": "nostalgia",
       "url": "https://open.spotify.com/track/6472TSRvXlqcmg3iSh4GEi"
@@ -9803,6 +9915,24 @@
     },
     {
       "album": {
+        "name": "Late Night",
+        "url": "https://open.spotify.com/album/1vj8CCni8X7U1im2eg62r3"
+      },
+      "artists": [
+        {
+          "name": "Jay Chang",
+          "url": "https://open.spotify.com/artist/7H2xroGGrPmbmHtwBOZyLT"
+        }
+      ],
+      "date_added": "2023-10-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192173,
+      "name": "Rockstar - ENG ver.",
+      "url": "https://open.spotify.com/track/7anWLNWoNdYKB0WeeZ99x9"
+    },
+    {
+      "album": {
         "name": "Crash & Burn",
         "url": "https://open.spotify.com/album/5oxH5EJsmjUgl3bFyohapb"
       },
@@ -11154,7 +11284,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-20",
       "duration_ms": 213272,
       "name": "STAY WITH ME",
       "url": "https://open.spotify.com/track/4frkW3V6yiL2RWP0Cf0aKY"
@@ -12439,6 +12569,24 @@
     },
     {
       "album": {
+        "name": "Trees",
+        "url": "https://open.spotify.com/album/3thHy8PLrO91F58ZzISe5h"
+      },
+      "artists": [
+        {
+          "name": "Woes",
+          "url": "https://open.spotify.com/artist/3RHT7tkSLfPzlgP44ysf6H"
+        }
+      ],
+      "date_added": "2023-10-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261959,
+      "name": "Trees",
+      "url": "https://open.spotify.com/track/6XiH66vP49sTNInC1qgkmO"
+    },
+    {
+      "album": {
         "name": "trippin",
         "url": "https://open.spotify.com/album/0wFS8hm2vYqo2LeUGpZV1j"
       },
@@ -12900,7 +13048,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-20",
       "duration_ms": 198404,
       "name": "vulnerable",
       "url": "https://open.spotify.com/track/4MiZmaNIbvO7yY8UltCATD"

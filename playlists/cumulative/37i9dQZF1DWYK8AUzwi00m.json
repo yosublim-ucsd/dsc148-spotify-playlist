@@ -124,7 +124,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-20",
       "duration_ms": 146769,
       "name": "All I Want For Christmas (Is My Two Front Teeth)",
       "url": "https://open.spotify.com/track/2h8EHpeJcIVOvWS4r4LwCo"
@@ -142,7 +142,7 @@
       ],
       "date_added": "2022-12-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-20",
       "duration_ms": 182400,
       "name": "all i want for christmas is lofi",
       "url": "https://open.spotify.com/track/7rNTCi9j9WIc1kxQSor5Ak"
@@ -718,7 +718,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-20",
       "duration_ms": 116939,
       "name": "Christmas Song",
       "url": "https://open.spotify.com/track/01xp3C9eyNtxaanU72cIq3"
@@ -754,7 +754,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-20",
       "duration_ms": 128058,
       "name": "Christmas song",
       "url": "https://open.spotify.com/track/5Lqcp4lVq1s1EMs1XIh6Xn"
@@ -808,7 +808,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-20",
       "duration_ms": 148757,
       "name": "Christmas Time Is Here",
       "url": "https://open.spotify.com/track/7KjH2BhYmBVApgIx5g6B1e"
@@ -1172,7 +1172,7 @@
       ],
       "date_added": "2022-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-20",
       "duration_ms": 160000,
       "name": "Deck the Halls - Lo-Fi",
       "url": "https://open.spotify.com/track/03cWzdHw0bWbHEv8wYgAzg"
@@ -1208,7 +1208,7 @@
       ],
       "date_added": "2022-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-20",
       "duration_ms": 169240,
       "name": "Deck the Lofi Halls",
       "url": "https://open.spotify.com/track/3470cOkNqWN4bWaf4fwvfU"
@@ -1694,7 +1694,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-20",
       "duration_ms": 198898,
       "name": "Have Yourself a Cozy Christmas",
       "url": "https://open.spotify.com/track/4FHpuJMkrevo3UXWNZ3KfG"
@@ -1712,7 +1712,7 @@
       ],
       "date_added": "2022-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-20",
       "duration_ms": 151000,
       "name": "Have Yourself A Merry Little Christmas",
       "url": "https://open.spotify.com/track/7nM2BaNa4Tc6X9nebfL7LM"
@@ -1730,7 +1730,7 @@
       ],
       "date_added": "2022-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-20",
       "duration_ms": 122025,
       "name": "have yourself a merry little christmas",
       "url": "https://open.spotify.com/track/6292joDDagvaWWfvf5tkPz"
@@ -1748,7 +1748,7 @@
       ],
       "date_added": "2022-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-20",
       "duration_ms": 156000,
       "name": "Have Yourself A Merry Little Christmas",
       "url": "https://open.spotify.com/track/0QKBgbbjuZxSdfgyzcaMaM"
@@ -1986,7 +1986,7 @@
       ],
       "date_added": "2022-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-20",
       "duration_ms": 119250,
       "name": "I Saw Mommy Kissing Santa CLaus",
       "url": "https://open.spotify.com/track/3G2c4L9fVB4x0JE5twoXMM"
@@ -2188,7 +2188,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-20",
       "duration_ms": 100500,
       "name": "It's Beginning to Look a Lot like Christmas",
       "url": "https://open.spotify.com/track/0Cxqg962cYJITTqO66oN8A"
@@ -2466,7 +2466,7 @@
       ],
       "date_added": "2022-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-20",
       "duration_ms": 117072,
       "name": "Jingle Bells",
       "url": "https://open.spotify.com/track/34s9iWyraj8Bc6JM9tDnfo"
@@ -2546,6 +2546,24 @@
       "duration_ms": 140571,
       "name": "Jingle Jungle",
       "url": "https://open.spotify.com/track/19FDpk9KZ09t6FtlvWhr2A"
+    },
+    {
+      "album": {
+        "name": "JOY",
+        "url": "https://open.spotify.com/album/33Me4g9n924cJ6ezfiOAXg"
+      },
+      "artists": [
+        {
+          "name": "Max Mix",
+          "url": "https://open.spotify.com/artist/2f8IL6GQhmOI1Of2fMHqka"
+        }
+      ],
+      "date_added": "2023-10-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189196,
+      "name": "JOY",
+      "url": "https://open.spotify.com/track/4PU3g1wGXO9hcLRGuSdP9C"
     },
     {
       "album": {
@@ -2632,7 +2650,7 @@
       ],
       "date_added": "2022-12-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-20",
       "duration_ms": 156279,
       "name": "Last Christmas",
       "url": "https://open.spotify.com/track/7oI18fYvFsZGJ20q1NG05s"
@@ -3464,7 +3482,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-20",
       "duration_ms": 174250,
       "name": "O Holy Night",
       "url": "https://open.spotify.com/track/6JKNmlDEVQbHuvKsTYA10h"
@@ -3792,7 +3810,7 @@
       ],
       "date_added": "2022-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-20",
       "duration_ms": 93333,
       "name": "Rudolph The Red-Nosed Reindeer",
       "url": "https://open.spotify.com/track/6oMFDK0E0KdZ9EtXHq7s9z"
@@ -4142,7 +4160,7 @@
       ],
       "date_added": "2022-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-20",
       "duration_ms": 98571,
       "name": "Silver Bells - LOUALLDAY Lofi Flip",
       "url": "https://open.spotify.com/track/1RJM6NnNYXjkEXbGhzHdej"
@@ -4568,7 +4586,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-20",
       "duration_ms": 117124,
       "name": "The Christmas Song",
       "url": "https://open.spotify.com/track/4JwPTsnZYEl85SZhtiDgYR"
@@ -4796,7 +4814,7 @@
       ],
       "date_added": "2022-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-20",
       "duration_ms": 135200,
       "name": "UNDER THE TREE",
       "url": "https://open.spotify.com/track/3iVLiS4wjwx31n8euW5al0"
@@ -5020,7 +5038,7 @@
       ],
       "date_added": "2022-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-20",
       "duration_ms": 117209,
       "name": "White Christmas - LOUALLDAY Lofi Flip",
       "url": "https://open.spotify.com/track/4XYKwuLc6ycLXdVXuZCd7c"
@@ -5172,7 +5190,7 @@
       ],
       "date_added": "2022-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-20",
       "duration_ms": 131428,
       "name": "Winter Wonderland - LOUALLDAY Lofi Flip",
       "url": "https://open.spotify.com/track/7wYEMHnKYNqIMxDmJL8l4n"

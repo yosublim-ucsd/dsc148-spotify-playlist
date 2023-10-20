@@ -4,7 +4,7 @@
 
 > Catch all the latest music from artists you follow, plus new singles picked for you\. Updates every Friday.
 
-748 songs - 2 day 0 hr 59 min
+749 songs - 2 day 1 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -228,6 +228,7 @@
 | [Fatha Fig Ya \(Food For Thought\)](https://open.spotify.com/track/05UEfL5UDBSV7Pcr2SzODn) | [Tech N9ne](https://open.spotify.com/artist/6UBA15slIuadJ8h2lPRPos), [RMR](https://open.spotify.com/artist/0j1Pwmd6nuk0BXD1RqoHDw) | [Fatha Fig Ya \(Food For Thought\)](https://open.spotify.com/album/0V1tnvp9lzVGdme28jtnN8) | 2:51 | 2023-06-16 | 2023-07-08 |
 | [Feel Like Makin' Love \(feat\. Roberta Flack\)](https://open.spotify.com/track/1cFZIDLjGngrmH6lnyprOA) | [Supershy](https://open.spotify.com/artist/2hk94pAZS1iYSqoICeTyh1), [Tom Misch](https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye), [Roberta Flack](https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA) | [Feel Like Makin' Love \(feat\. Roberta Flack\)](https://open.spotify.com/album/7dCOSRS3SsbW3Uysq5yuHl) | 3:35 | 2023-07-07 | 2023-07-15 |
 | [Feeling For You](https://open.spotify.com/track/1BSTT3sbQ1MVVacApHilK9) | [Milky Chance](https://open.spotify.com/artist/1hzfo8twXdOegF3xireCYs) | [Living In A Haze](https://open.spotify.com/album/0i97wLIXfWMDi3vyRDZBCn) | 3:41 | 2023-06-09 | 2023-07-09 |
+| [FELL IN LOVE](https://open.spotify.com/track/0rc6gtN1L7i0TacdfxhiND) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [FELL IN LOVE](https://open.spotify.com/album/3inphIxOlFnDL3CD3wkMe6) | 2:18 | 2023-10-13 |  |
 | [FIESTA](https://open.spotify.com/track/48juEfmXe0vq0FT5GRecCi) | [Advik Singh](https://open.spotify.com/artist/44h6HbtmEnmiSrkY4RtWFi), [Gianluca](https://open.spotify.com/artist/7q9P9jadKe86eEavevbEvK), [Rapsody](https://open.spotify.com/artist/6NL31G53xThQXkFs7lDpL5) | [FIESTA](https://open.spotify.com/album/6BJZICoGKwAp2QKx6FhDEz) | 3:09 | 2023-09-29 | 2023-10-06 |
 | [Finding Yourself](https://open.spotify.com/track/0t3YVK70KEmcYnoFj3xGLg) | [Elly Cooke](https://open.spotify.com/artist/5DqNmryn6SyOwDjfSbwOGe) | [Restless Heart](https://open.spotify.com/album/1dlAp4RV1eD55jQdSgyJuH) | 3:22 | 2023-08-04 | 2023-08-20 |
 | [Fingerblast](https://open.spotify.com/track/2EJQGBhREOhahAghqchmKt) | [Wheeler Walker Jr.](https://open.spotify.com/artist/6PjV05LlULv9XmFu7HeAia) | [Fingerblast](https://open.spotify.com/album/1rt0e7RP4a3PMHcQuzkUjq) | 2:52 | 2023-09-15 | 2023-10-08 |
@@ -347,7 +348,7 @@
 | [Je danse le mia \- Live Studio](https://open.spotify.com/track/4Rs6c0T5tMZQUFTavRfhME) | [IAM](https://open.spotify.com/artist/56Q6weEROZ1RsVrTak8Bm7) | [Warrior Tour \(Live Studio\)](https://open.spotify.com/album/1HYQOTEd2Wujrl4MLnzL9j) | 4:38 | 2023-09-15 | 2023-10-08 |
 | [Jealous \(feat\. Snoop Dogg\) \- Instrumental](https://open.spotify.com/track/4PUBPtUymTVXYR6DUaA3C3) | [Young Sagg](https://open.spotify.com/artist/7wGyQjvU5B5Qd2ev3wgNaj), [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG) | [Jealous \(feat\. Snoop Dogg\) \[Instrumental\]](https://open.spotify.com/album/2uXC3O4e1Bym8noosNhTGE) | 3:28 | 2023-04-14 | 2023-04-22 |
 | [Journey To The Real World \(From Barbie The Album\)](https://open.spotify.com/track/5xQjhPfF0J455duKo2Bv9w) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [Journey To The Real World \(From Barbie The Album\)](https://open.spotify.com/album/3PyQnHsgeniXrpuxJ4FmEv) | 1:27 | 2023-07-21 | 2023-08-05 |
-| [Joyride \- Vansire Remix](https://open.spotify.com/track/4nP5oZTjYn9TnUtHSXS79e) | [Karina Rykman](https://open.spotify.com/artist/4uiRvtezQs3mZ2OichIhYj), [Vansire](https://open.spotify.com/artist/6ft7JnxMyZhp7N52qzHymY) | [Joyride \(Vansire Remix\)](https://open.spotify.com/album/7kVC0fSOqrH4D14KtqreX3) | 3:23 | 2023-10-13 |  |
+| [Joyride \- Vansire Remix](https://open.spotify.com/track/4nP5oZTjYn9TnUtHSXS79e) | [Karina Rykman](https://open.spotify.com/artist/4uiRvtezQs3mZ2OichIhYj), [Vansire](https://open.spotify.com/artist/6ft7JnxMyZhp7N52qzHymY) | [Joyride \(Vansire Remix\)](https://open.spotify.com/album/7kVC0fSOqrH4D14KtqreX3) | 3:23 | 2023-10-13 | 2023-10-20 |
 | [JUMPIN](https://open.spotify.com/track/0qLrNIdgLhNw2sBEGqq1mY) | [Pitbull](https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg), [Lil Jon](https://open.spotify.com/artist/7sfl4Xt5KmfyDs2T3SVSMK) | [JUMPIN](https://open.spotify.com/album/1ZdWk1Dsey5PV8vm1o9aXK) | 2:24 | 2023-04-21 | 2023-04-29 |
 | [JUMPIN \- Timmy Trumpet Remix](https://open.spotify.com/track/527d6VKNmBHr22HhprrEm2) | [Pitbull](https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg), [Lil Jon](https://open.spotify.com/artist/7sfl4Xt5KmfyDs2T3SVSMK), [Timmy Trumpet](https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ) | [JUMPIN \(Timmy Trumpet Remix\)](https://open.spotify.com/album/5N10HsZvBZFjzMMJvNp5Gv) | 2:44 | 2023-08-25 | 2023-09-14 |
 | [Just Chillin \- Beat](https://open.spotify.com/track/3fMaz0UQd2urkpmG0Z59dS) | [DJ Marsiv](https://open.spotify.com/artist/16HroKQr2QoO2mBunvXSoh) | [Battle Pass Mixtape](https://open.spotify.com/album/7uAISPJ5P2xO7x1L1RrfrJ) | 2:30 | 2023-09-15 | 2023-09-17 |

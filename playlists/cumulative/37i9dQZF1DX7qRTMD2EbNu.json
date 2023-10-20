@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-10-01",
-  "description": "Hottest bars coming live from the 233.  Cover: <a href=\"https://open.spotify.com/artist/0pPz4oYqGp2Co2Sx7ORiYL?si=SedkyL7vRY2mNGxi-pAzgw\"> Medikal </a> ",
+  "description": "Hottest bars coming live from the 233.  Cover:  <a href=\"https://open.spotify.com/artist/08gM7TMuG3DTBmWUuH0w8T?si=OM3vTCGWTP-CdTqJ2D1Ing\"> Reggie</a> and  <a href=\"https://open.spotify.com/artist/7zB3I7PBh39rcwg2haB5Ac?si=oWJSpy8iSBmwCO8jeie_tw\"> Kofi Mole</a>  ",
   "name": "+233 Bars ",
   "tracks": [
     {
@@ -157,6 +157,24 @@
     },
     {
       "album": {
+        "name": "Abele",
+        "url": "https://open.spotify.com/album/30mrOSZFyBKgoJyOHtjIpx"
+      },
+      "artists": [
+        {
+          "name": "Gonaboy",
+          "url": "https://open.spotify.com/artist/4jSujazuMMQ5Pe2QV1Ca1s"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195170,
+      "name": "Abele",
+      "url": "https://open.spotify.com/track/3eZCsT8Wj5oSFSOJ4HUBvz"
+    },
+    {
+      "album": {
         "name": "The Unbroken (Clean)",
         "url": "https://open.spotify.com/album/6m2AB5GhRt6qEVNnllcPnd"
       },
@@ -282,6 +300,28 @@
       "duration_ms": 135831,
       "name": "Agatha",
       "url": "https://open.spotify.com/track/29j1Nc7uQj1LxeYjiszTGb"
+    },
+    {
+      "album": {
+        "name": "Air Force",
+        "url": "https://open.spotify.com/album/29RYoApzNyBXq1CvWtHR4c"
+      },
+      "artists": [
+        {
+          "name": "reggie",
+          "url": "https://open.spotify.com/artist/08gM7TMuG3DTBmWUuH0w8T"
+        },
+        {
+          "name": "Kofi Mole",
+          "url": "https://open.spotify.com/artist/7zB3I7PBh39rcwg2haB5Ac"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156937,
+      "name": "Air Force",
+      "url": "https://open.spotify.com/track/7AWMmFr7v8bxr7A3YsHlLj"
     },
     {
       "album": {
@@ -3671,6 +3711,28 @@
     },
     {
       "album": {
+        "name": "AREA BOYZ",
+        "url": "https://open.spotify.com/album/3Uo1dpUULgBeWEgjf5AMsd"
+      },
+      "artists": [
+        {
+          "name": "NSG",
+          "url": "https://open.spotify.com/artist/31Ua7zSTJxegjyd49ujbSA"
+        },
+        {
+          "name": "Sarkodie",
+          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249213,
+      "name": "LONELY (feat. Sarkodie)",
+      "url": "https://open.spotify.com/track/1z29fkHyKrvZDglpyptvq3"
+    },
+    {
+      "album": {
         "name": "Lost n found",
         "url": "https://open.spotify.com/album/2ha5ESH35aTlUTJineYYGH"
       },
@@ -6241,6 +6303,28 @@
     },
     {
       "album": {
+        "name": "WAGON",
+        "url": "https://open.spotify.com/album/3R46tuMqsgPdS1UDFXId3Q"
+      },
+      "artists": [
+        {
+          "name": "95ANTNY",
+          "url": "https://open.spotify.com/artist/6PQLGYWDUljiFCQlltL4Cw"
+        },
+        {
+          "name": "SPCE CRFT",
+          "url": "https://open.spotify.com/artist/3SboO2UuYwTEv0edpOzDXq"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156428,
+      "name": "WAGON",
+      "url": "https://open.spotify.com/track/5ZKGYRTZAXsX9FBvCXnIEy"
+    },
+    {
+      "album": {
         "name": "War with Us",
         "url": "https://open.spotify.com/album/2VZEGAa6Ayif90T8d5K88G"
       },
@@ -6394,6 +6478,28 @@
       "duration_ms": 225042,
       "name": "We Outside",
       "url": "https://open.spotify.com/track/2dpRceExYaJlY1kiWJazgm"
+    },
+    {
+      "album": {
+        "name": "P2 : THE BIG HEARTED BAD GUY",
+        "url": "https://open.spotify.com/album/5VRS9HeUxDmGRnmkfHPmp1"
+      },
+      "artists": [
+        {
+          "name": "A-Reece",
+          "url": "https://open.spotify.com/artist/5TirRF3azWV5OpyufcDCFP"
+        },
+        {
+          "name": "M.anifest",
+          "url": "https://open.spotify.com/artist/1DHw3LmhwuCZUaHtMhMpGX"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243134,
+      "name": "WEST AFRICA TIME",
+      "url": "https://open.spotify.com/track/2sj4rMabpUWzy6xATdkM0u"
     },
     {
       "album": {

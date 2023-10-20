@@ -383,6 +383,24 @@
     },
     {
       "album": {
+        "name": "Adeptio Adamo",
+        "url": "https://open.spotify.com/album/43BZAF2mC41skEZlQ3XlBy"
+      },
+      "artists": [
+        {
+          "name": "Love Palmer",
+          "url": "https://open.spotify.com/artist/34DhWHV7MhcJ3AyWpf5upI"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188354,
+      "name": "Adeptio Adamo",
+      "url": "https://open.spotify.com/track/35uDemMD6smsfRxe0Kjiga"
+    },
+    {
+      "album": {
         "name": "Adumbration",
         "url": "https://open.spotify.com/album/0ws0lcvTNJt39gO6CsHXXR"
       },
@@ -12308,6 +12326,24 @@
       "duration_ms": 220714,
       "name": "The shamans dream",
       "url": "https://open.spotify.com/track/0EPyRnP2eCkzE82mwxXMcW"
+    },
+    {
+      "album": {
+        "name": "The Sleep",
+        "url": "https://open.spotify.com/album/2vmMeakgamRIeQdtkwMWJP"
+      },
+      "artists": [
+        {
+          "name": "Viro Marix",
+          "url": "https://open.spotify.com/artist/0dSIbheAKaFJ9K2TxRJ3vv"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184067,
+      "name": "The Sleep",
+      "url": "https://open.spotify.com/track/5EE5uCFw7S9aOR0R2Ul3CG"
     },
     {
       "album": {

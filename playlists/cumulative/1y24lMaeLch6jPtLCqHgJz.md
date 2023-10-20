@@ -4,7 +4,7 @@
 
 > The biggest festival songs of 2023\. emotional festival music \- mainstage music \- edm 2023 \- edm hits \- progressive house \- bigroom \- future rave \- techno \- festival music
 
-230 songs - 11 hr 53 min
+231 songs - 11 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -161,6 +161,7 @@
 | [P.R.O.G.2](https://open.spotify.com/track/4lcK3zg0Du6Y09Ot8xAgyA) | [DubVision](https://open.spotify.com/artist/3XINWZaloea97SIRiyTJxX) | [P.R.O.G.2](https://open.spotify.com/album/1aTdsuEAUYDykn94WUxcCu) | 2:21 | 2023-04-21 | 2023-06-17 |
 | [Pages](https://open.spotify.com/track/4GZgln2CDUEQ0JVuPFaQK2) | [Martin Jensen](https://open.spotify.com/artist/4ehtJnVumNf6xzSCDk8aLB) | [Pages](https://open.spotify.com/album/602QhTBheuUjYdvY4IQOTY) | 3:15 | 2022-09-09 | 2022-12-17 |
 | [Paradise](https://open.spotify.com/track/2InkR3RbQnVc9EMHP9VRqY) | [KAAZE](https://open.spotify.com/artist/6WGE3kO8ULME2ErBcOksSR), [Jordan Grace](https://open.spotify.com/artist/0NST5cNxDtRZuToY6ngC0k) | [Paradise](https://open.spotify.com/album/6tGXsBn9Oqo2uYcmILI6fb) | 3:16 | 2022-08-04 | 2023-09-09 |
+| [Paradise](https://open.spotify.com/track/4bruCU0ILLoOfF3iE27opD) | [Robin Aristo](https://open.spotify.com/artist/0bwRoL3Q12u1FuEsT3X0cs) | [Paradise](https://open.spotify.com/album/7fshDHj8Sayc1AwggqjKot) | 3:22 | 2023-10-19 |  |
 | [Phoenix](https://open.spotify.com/track/2IsmnQVMlumwHQ4vAkaVIa) | [NAEMS](https://open.spotify.com/artist/5IGKglmmj5FyV0aJ53sEkO), [LostVolts](https://open.spotify.com/artist/4Immb1MDqUWYJgqmvaehef), [Arvenius](https://open.spotify.com/artist/0SuO4XuTPgJigDrvnsaOQq) | [Phoenix](https://open.spotify.com/album/6NPTOBUvyTYxn2X3Mo1taQ) | 3:15 | 2022-07-29 | 2023-04-14 |
 | [Promise You This](https://open.spotify.com/track/1Bhmriwl00coZVRqlnpl5z) | [NGHTIME!](https://open.spotify.com/artist/6rvAIasGNPgou3SL7ycYPA), [Robbie Rosen](https://open.spotify.com/artist/1569hvm0IW3DHOfruYP2lM) | [Promise You This](https://open.spotify.com/album/5ptuqlPeX3dxwA9GG5Qfhp) | 2:59 | 2023-07-14 | 2023-08-11 |
 | [Pull Me Through](https://open.spotify.com/track/2T1aCo4H9ojFkUxDU758oZ) | [Sick Individuals](https://open.spotify.com/artist/0XqFDQJjqW5PfhfBCb53LR) | [Pull Me Through](https://open.spotify.com/album/4PwQiZ7eS8n5LcOuLDofYL) | 3:02 | 2022-07-29 | 2023-09-09 |

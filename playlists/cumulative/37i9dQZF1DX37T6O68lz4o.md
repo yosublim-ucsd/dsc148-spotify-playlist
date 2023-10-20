@@ -2,7 +2,7 @@
 
 ### [Ripple Effect: New England](https://open.spotify.com/playlist/37i9dQZF1DX37T6O68lz4o)
 
-> New England music breaking waves\. Cover: <a href="https://open.spotify.com/artist/5and6mMu319HtYPWAacsju?si=h1ZEBxcITVGdqGQT6p6Fxg">Nay $peaks</a>
+> New England music breaking waves\. Cover: <a href="spotify:artist:1DSFf0RnfYrtNr0eKndzzc">Sança</a>
 
 419 songs - 19 hr 0 min
 

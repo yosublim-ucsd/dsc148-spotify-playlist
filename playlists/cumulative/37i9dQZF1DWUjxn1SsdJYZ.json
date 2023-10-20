@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-22",
-  "description": "The best drill, trap and genre bending rap from Australia and NZ. Cover: No Money Enterprise",
+  "description": "The best drill, trap and genre bending rap from Australia and NZ. Cover: Vv Pete",
   "name": "Local Hype",
   "tracks": [
     {
@@ -290,6 +290,28 @@
       "duration_ms": 194042,
       "name": "ABGz",
       "url": "https://open.spotify.com/track/2UuCc79U1gMcK1koGAPH2N"
+    },
+    {
+      "album": {
+        "name": "AF1",
+        "url": "https://open.spotify.com/album/7wBBZY4zAjlFThctx2y4yY"
+      },
+      "artists": [
+        {
+          "name": "Baby Lane",
+          "url": "https://open.spotify.com/artist/5pg4mI2k1dzw5UGi8Bd2cA"
+        },
+        {
+          "name": "OD",
+          "url": "https://open.spotify.com/artist/52mj5aYgAlSF03Gpx1KHX9"
+        }
+      ],
+      "date_added": "2023-10-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167141,
+      "name": "AF1",
+      "url": "https://open.spotify.com/track/41TCFuF8KNNcMSi0w8hU3k"
     },
     {
       "album": {
@@ -598,7 +620,7 @@
       ],
       "date_added": "2023-08-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-20",
       "duration_ms": 208938,
       "name": "BABY I'M HOME (w/ Kanii & 9lives)",
       "url": "https://open.spotify.com/track/34lGv6KdMFWZtsvvVcnp8S"
@@ -3392,7 +3414,7 @@
       ],
       "date_added": "2023-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-20",
       "duration_ms": 155270,
       "name": "FINAL STATEMENT!",
       "url": "https://open.spotify.com/track/1RKVs13pG0kIdNlhKeaUHr"
@@ -4184,6 +4206,28 @@
       "duration_ms": 162093,
       "name": "HARDCORE",
       "url": "https://open.spotify.com/track/5OPpGcWUVwGUNJW9piIs1c"
+    },
+    {
+      "album": {
+        "name": "Hardest Way",
+        "url": "https://open.spotify.com/album/0leNSvTAkW1VdEBIaRYgbh"
+      },
+      "artists": [
+        {
+          "name": "Jaypee",
+          "url": "https://open.spotify.com/artist/7h4LplHmoD6lyBfV9m8tRB"
+        },
+        {
+          "name": "Revus",
+          "url": "https://open.spotify.com/artist/2bvztHh7wnuRLZAwLZwpBa"
+        }
+      ],
+      "date_added": "2023-10-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179568,
+      "name": "Hardest Way",
+      "url": "https://open.spotify.com/track/7dcPBuUygiTgwvOoRad7SE"
     },
     {
       "album": {
@@ -4992,7 +5036,7 @@
       ],
       "date_added": "2023-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-20",
       "duration_ms": 127585,
       "name": "I'M BABY",
       "url": "https://open.spotify.com/track/59gMRfb6BmxurQ79RCURil"
@@ -6252,6 +6296,24 @@
       "duration_ms": 169180,
       "name": "Mamacita",
       "url": "https://open.spotify.com/track/1lWBBogPlnCmAGHUHzURhp"
+    },
+    {
+      "album": {
+        "name": "Mamas Car",
+        "url": "https://open.spotify.com/album/5jSswkACL8ldBkgeuWKG4o"
+      },
+      "artists": [
+        {
+          "name": "Vv Pete",
+          "url": "https://open.spotify.com/artist/66IkoRt5JAg88LCnPuyxXr"
+        }
+      ],
+      "date_added": "2023-10-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136734,
+      "name": "Mamas Car",
+      "url": "https://open.spotify.com/track/51JtGJtPkfPz4qLHFIwC4j"
     },
     {
       "album": {
@@ -7653,6 +7715,24 @@
     },
     {
       "album": {
+        "name": "OUR PEOPLE (feat. The Presets)",
+        "url": "https://open.spotify.com/album/4zVoQrcFwZgHVQPXJe9pKY"
+      },
+      "artists": [
+        {
+          "name": "3%",
+          "url": "https://open.spotify.com/artist/4CnzGjdsHYGHgmsDk1tNwg"
+        }
+      ],
+      "date_added": "2023-10-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234846,
+      "name": "OUR PEOPLE (feat. The Presets)",
+      "url": "https://open.spotify.com/track/0mmLOdN3lD9zfvW91SNsrG"
+    },
+    {
+      "album": {
         "name": "OUT OF SIGHT",
         "url": "https://open.spotify.com/album/5qdOHbi7GnkKVISrjGZ8iF"
       },
@@ -7792,7 +7872,7 @@
       ],
       "date_added": "2023-08-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-20",
       "duration_ms": 134250,
       "name": "pack-a-punch",
       "url": "https://open.spotify.com/track/5uDAM1qbQSPwT8fUInBbGS"
@@ -7920,6 +8000,24 @@
       "duration_ms": 192000,
       "name": "Payday",
       "url": "https://open.spotify.com/track/30DwyjRdWbvFlIR2TvdXcs"
+    },
+    {
+      "album": {
+        "name": "Pinnacle Bitch",
+        "url": "https://open.spotify.com/album/0odPeCpPLezE6U2cogRT2b"
+      },
+      "artists": [
+        {
+          "name": "Miss Kaninna",
+          "url": "https://open.spotify.com/artist/1ODboExevbfXfgKz7NPKxz"
+        }
+      ],
+      "date_added": "2023-10-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201235,
+      "name": "Pinnacle Bitch",
+      "url": "https://open.spotify.com/track/7zOHs1vpfnGnx2KFBjnNOE"
     },
     {
       "album": {
@@ -8124,6 +8222,24 @@
       "duration_ms": 119000,
       "name": "PRETTY",
       "url": "https://open.spotify.com/track/3j9dzoKjSbYAopfrwkXFmn"
+    },
+    {
+      "album": {
+        "name": "PRETTY GIRLS",
+        "url": "https://open.spotify.com/album/4vdZ3KWw1hi6yTMQ0WSvEZ"
+      },
+      "artists": [
+        {
+          "name": "Srirachi",
+          "url": "https://open.spotify.com/artist/3ESTGq7Ogq8simjShfeXOF"
+        }
+      ],
+      "date_added": "2023-10-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193465,
+      "name": "PRETTY GIRLS",
+      "url": "https://open.spotify.com/track/2TegXzhcQonA9Lv8fBzIco"
     },
     {
       "album": {
@@ -8776,6 +8892,28 @@
       "duration_ms": 152571,
       "name": "Rtr",
       "url": "https://open.spotify.com/track/1qCz701lWN4xaC5AGdvv3U"
+    },
+    {
+      "album": {
+        "name": "Ruby",
+        "url": "https://open.spotify.com/album/1blmgrdzwfAKML3bek7xfg"
+      },
+      "artists": [
+        {
+          "name": "Connor Price",
+          "url": "https://open.spotify.com/artist/5zixe6AbgXPqt4c1uSl94L"
+        },
+        {
+          "name": "Oliver Cronin",
+          "url": "https://open.spotify.com/artist/1dfo9BgmIfeKcAvKieKqiG"
+        }
+      ],
+      "date_added": "2023-10-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149250,
+      "name": "Ruby",
+      "url": "https://open.spotify.com/track/7MljuHS2zehnQXikZ2R1J1"
     },
     {
       "album": {
@@ -9432,6 +9570,24 @@
       "duration_ms": 232727,
       "name": "Solid Rock (feat. William Barton)",
       "url": "https://open.spotify.com/track/1j1gXN6uHuzNkdqLQ9fPl6"
+    },
+    {
+      "album": {
+        "name": "SOUTHSIDE DILLA",
+        "url": "https://open.spotify.com/album/0GfTdUYEfSFuJ3Stc3LZQl"
+      },
+      "artists": [
+        {
+          "name": "Day1",
+          "url": "https://open.spotify.com/artist/0iFJbJ7jMv5QAmA6hWm6Ic"
+        }
+      ],
+      "date_added": "2023-10-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129250,
+      "name": "SOUTHSIDE DILLA",
+      "url": "https://open.spotify.com/track/4ypmJ7f8TGY4cZzYn3YVyP"
     },
     {
       "album": {
@@ -10161,6 +10317,24 @@
     },
     {
       "album": {
+        "name": "THROW AWAY BARS",
+        "url": "https://open.spotify.com/album/2NFOlKJaGoL3mFMmGL9jnL"
+      },
+      "artists": [
+        {
+          "name": "SkuX",
+          "url": "https://open.spotify.com/artist/4HkdbjrOHNEnAj0wVccCgv"
+        }
+      ],
+      "date_added": "2023-10-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132408,
+      "name": "THROW AWAY BARS",
+      "url": "https://open.spotify.com/track/5dZgSlWGLKyf5LnCyyvU6x"
+    },
+    {
+      "album": {
         "name": "Til The Death",
         "url": "https://open.spotify.com/album/4mWRMbD7bTE2YTD6Q2UgoH"
       },
@@ -10745,6 +10919,24 @@
     },
     {
       "album": {
+        "name": "Twisted",
+        "url": "https://open.spotify.com/album/3PtHY9omop9pi4dlf1yR3l"
+      },
+      "artists": [
+        {
+          "name": "212 H.E.A.T.",
+          "url": "https://open.spotify.com/artist/45WN6Lgbxlm4AgFQyHJG5m"
+        }
+      ],
+      "date_added": "2023-10-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188689,
+      "name": "Twisted",
+      "url": "https://open.spotify.com/track/1EFpM5ZbpnJqcFe9FZaqme"
+    },
+    {
+      "album": {
         "name": "U AIN'T SH!T",
         "url": "https://open.spotify.com/album/7sAsB5uv491bSuYw6ZsOwm"
       },
@@ -10946,6 +11138,24 @@
       "duration_ms": 123426,
       "name": "Victorian Bitter",
       "url": "https://open.spotify.com/track/027z8cYDP8ADT0iDFEYjV0"
+    },
+    {
+      "album": {
+        "name": "Victory Lap",
+        "url": "https://open.spotify.com/album/722m60fIT76uzNcMLtIYNK"
+      },
+      "artists": [
+        {
+          "name": "BALLY BOY",
+          "url": "https://open.spotify.com/artist/3MCpCeJATfWO5bOy5nf2F9"
+        }
+      ],
+      "date_added": "2023-10-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152775,
+      "name": "Victory Lap",
+      "url": "https://open.spotify.com/track/3fdVYPuolN7ReRZPwXhfi1"
     },
     {
       "album": {
@@ -11518,6 +11728,24 @@
       "duration_ms": 142053,
       "name": "WOAH",
       "url": "https://open.spotify.com/track/0VzQP07n5NgOInr8iuk9Gr"
+    },
+    {
+      "album": {
+        "name": "WORST BEHAVIOUR",
+        "url": "https://open.spotify.com/album/0vRvrAcpn3MPWwaIYnU64v"
+      },
+      "artists": [
+        {
+          "name": "Kid Rey",
+          "url": "https://open.spotify.com/artist/7o3qyJI8ODvWje1f5U52jp"
+        }
+      ],
+      "date_added": "2023-10-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130612,
+      "name": "WORST BEHAVIOUR",
+      "url": "https://open.spotify.com/track/03GTtYFHCbaIDKySbAOYpP"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVbu3wLXA48X.md) - [plain]
 
 > Current indie tunes from Asia and around the world\. Cover: boygenius
 
-[Spotify](https://open.spotify.com/user/spotify) - 103,238 likes - 94 songs - 5 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 103,260 likes - 94 songs - 5 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,7 +48,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVbu3wLXA48X.md) - [plain]
 | 38 | [Levee](https://open.spotify.com/track/3LjINbaBQeitJZD36pVdP4) | [Wilco](https://open.spotify.com/artist/2QoU3awHVdcHS8LrZEKvSM) | [Cousin](https://open.spotify.com/album/1KZy1Oll0Cnnakyy6X92Wn) | 4:11 |
 | 39 | [Cool Girl](https://open.spotify.com/track/4aXUKyFqYBSI7J6A1PwjTh) | [Grrrl Gang](https://open.spotify.com/artist/4GgA61hzcYno3GYTrjhZ6A) | [Spunky!](https://open.spotify.com/album/6aZFHnpTwonsLw8qVI5DdB) | 1:45 |
 | 40 | [stand by me](https://open.spotify.com/track/4xHZVxc7NvQheFGnOqJ40Q) | [hanbee](https://open.spotify.com/artist/1so016J03vtcKN2mKWprQk) | [stand by me](https://open.spotify.com/album/0jhBekxMtqRBSHcC9tKKej) | 3:35 |
-| 41 | [What You Wanna Be \(feat\. The Kopycat\)](https://open.spotify.com/track/60T43Nrgz4idMlx76UpV9w) | [Matter Halo](https://open.spotify.com/artist/2KRTc4R7uXYt0NE3eyyBtT) | [Nightvision \(Love Is God 10/16 Edition\)](https://open.spotify.com/album/1moXnMVFwnceCSjuKlThls) | 5:48 |
+| 41 | [What You Wanna Be \(feat\. The Kopycat\)](https://open.spotify.com/track/60T43Nrgz4idMlx76UpV9w) | [Matter Halo](https://open.spotify.com/artist/2KRTc4R7uXYt0NE3eyyBtT), [The Kopycat](https://open.spotify.com/artist/7y4M1no7kXEEsCeIAZkeuR) | [Nightvision \(Love Is God 10/16 Edition\)](https://open.spotify.com/album/1moXnMVFwnceCSjuKlThls) | 5:48 |
 | 42 | [MEIGUANXIDEYO](https://open.spotify.com/track/4RDEVasHPf6KH7yTCjpL47) | [The Chairs](https://open.spotify.com/artist/4IlxI05VmVDx8ShdgKEnLK) | [MEIGUANXIDEYO](https://open.spotify.com/album/48zC40YjszPx0f83tzpKgu) | 3:40 |
 | 43 | [Will Anybody Ever Love Me?](https://open.spotify.com/track/4g37wGcNWcVCdY0UoRNPzu) | [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c) | [Will Anybody Ever Love Me?](https://open.spotify.com/album/0k9E8vq5iYJUNO40E2G6U1) | 4:09 |
 | 44 | [Baby Watch My Tears Dry](https://open.spotify.com/track/3nQrXhPKxXiqpeiyZZKVZQ) | [Molly Burch](https://open.spotify.com/artist/6bEYoIUTLdcs4lZBNVw5L5) | [Daydreamer](https://open.spotify.com/album/4F2XqvfLTTsIlM0QR52kX7) | 3:22 |
@@ -103,4 +103,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVbu3wLXA48X.md) - [plain]
 | 93 | [Broadview](https://open.spotify.com/track/1hTbH1tGOQ2sqVav7iDHfQ) | [Slow Pulp](https://open.spotify.com/artist/2JFTRDi5v7JtqoouVe1z5D) | [Yard](https://open.spotify.com/album/1KHEiLyeBq82jCqzllcXu9) | 4:05 |
 | 94 | [Blue Marbled Elm Trees](https://open.spotify.com/track/5DeuSsOtWl6vEnepxzrAJ6) | [King Creosote](https://open.spotify.com/artist/5SP6T04F8Ic9oftMVfdKkp) | [Blue Marbled Elm Trees](https://open.spotify.com/album/6wF2Wg85euCwati0jG8Svm) | 5:03 |
 
-Snapshot ID: `MCwxM2UyZmE2ODJhNjk2ZDZhZTIzM2M0YzU1NDg4ZTNlZWYzYTY4NDg3`
+Snapshot ID: `MCw2NTliNzIwY2RmMzgxNDU3ZWU4ZGM1ZjQ1YzFkNDRmMDM1ZDljZTM0`

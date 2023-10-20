@@ -1,12 +1,12 @@
 {
   "description": "Speaking to us sweetly from a window in the Tower of Song, this collection includes the legend's own tributes. Cover: <a href=\"spotify:artist:5l8VQNuIg0turYE1VtM9zV\">Leonard Cohen</a>",
-  "num_followers": 10087,
+  "num_followers": 10097,
   "original_name": "Leonard Cohen: Covered",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzNGQ0NDcyYjg1NTYyMGIxNmQwNjlhOTdmMDNhMDJiYWNjMzU2NDdk",
+  "snapshot_id": "MCwxYTZjYzYwMzE4NzUwYTA4NTgzYzA3MWYzNWM4NmE5MWM3YWU5OGU5",
   "tracks": [
     {
       "added_at": "2018-12-06 19:29:22",
@@ -401,22 +401,6 @@
       "url": "https://open.spotify.com/track/0a3wNNd7UI9wWJvVW4lFD1"
     },
     {
-      "added_at": "2018-12-06 19:29:22",
-      "album": {
-        "name": "Leonard Cohen: I'm Your Man",
-        "url": "https://open.spotify.com/album/1tz7sH3oRuXs7jNyWzdIQR"
-      },
-      "artists": [
-        {
-          "name": "Jarvis Cocker",
-          "url": "https://open.spotify.com/artist/13W7XLRXdWeLmIu9vacE1w"
-        }
-      ],
-      "duration_ms": 221093,
-      "name": "I Can't Forget",
-      "url": "https://open.spotify.com/track/1EIfLBzokPuUFaU8aZ9nf3"
-    },
-    {
       "added_at": "2022-10-14 04:00:00",
       "album": {
         "name": "Here It Is: A Tribute to Leonard Cohen",
@@ -435,6 +419,22 @@
       "duration_ms": 312760,
       "name": "Here It Is",
       "url": "https://open.spotify.com/track/0MJpdShAMrg3fpW83THGyC"
+    },
+    {
+      "added_at": "2018-12-06 19:29:22",
+      "album": {
+        "name": "Leonard Cohen: I'm Your Man",
+        "url": "https://open.spotify.com/album/1tz7sH3oRuXs7jNyWzdIQR"
+      },
+      "artists": [
+        {
+          "name": "Jarvis Cocker",
+          "url": "https://open.spotify.com/artist/13W7XLRXdWeLmIu9vacE1w"
+        }
+      ],
+      "duration_ms": 221093,
+      "name": "I Can't Forget",
+      "url": "https://open.spotify.com/track/1EIfLBzokPuUFaU8aZ9nf3"
     },
     {
       "added_at": "2018-12-06 19:29:22",
@@ -505,22 +505,6 @@
       "url": "https://open.spotify.com/track/1t8gcWQNb5bD9XssAzxbcw"
     },
     {
-      "added_at": "2018-12-06 19:29:22",
-      "album": {
-        "name": "Ron Sexsmith",
-        "url": "https://open.spotify.com/album/2PkdO3h0GUvaPyj4pzpitg"
-      },
-      "artists": [
-        {
-          "name": "Ron Sexsmith",
-          "url": "https://open.spotify.com/artist/2wXBWJhbm1gfEVjyEEuhDH"
-        }
-      ],
-      "duration_ms": 189840,
-      "name": "Heart With No Companion",
-      "url": "https://open.spotify.com/track/5YPLDqX401aAcjPONWMmui"
-    },
-    {
       "added_at": "2022-10-07 04:00:00",
       "album": {
         "name": "You Want It Darker",
@@ -539,6 +523,22 @@
       "duration_ms": 304680,
       "name": "You Want It Darker (feat. Iggy Pop)",
       "url": "https://open.spotify.com/track/4V9hISY6WBa3NPyBgcZ9dD"
+    },
+    {
+      "added_at": "2018-12-06 19:29:22",
+      "album": {
+        "name": "Ron Sexsmith",
+        "url": "https://open.spotify.com/album/2PkdO3h0GUvaPyj4pzpitg"
+      },
+      "artists": [
+        {
+          "name": "Ron Sexsmith",
+          "url": "https://open.spotify.com/artist/2wXBWJhbm1gfEVjyEEuhDH"
+        }
+      ],
+      "duration_ms": 189840,
+      "name": "Heart With No Companion",
+      "url": "https://open.spotify.com/track/5YPLDqX401aAcjPONWMmui"
     },
     {
       "added_at": "2018-12-06 19:29:22",

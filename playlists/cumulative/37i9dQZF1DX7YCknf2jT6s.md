@@ -4,7 +4,7 @@
 
 > New jazz for open minds\. Cover: Esperanza Spalding
 
-1,123 songs - 3 day 18 hr 25 min
+1,124 songs - 3 day 18 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -480,7 +480,8 @@
 | [Just Coolin’](https://open.spotify.com/track/1nvGD6MpBrI0tSwiGIcZxQ) | [Cory Weeds](https://open.spotify.com/artist/0YB9WHBn7xTEQsvcFZRUdy) | [Just Coolin’](https://open.spotify.com/album/1foQFrVtku49UFDayrWuNa) | 6:48 | 2022-02-18 | 2022-04-16 |
 | [Just Wrong](https://open.spotify.com/track/58LIZF789jf2itvFjYnRQS) | [Pino Palladino](https://open.spotify.com/artist/5vjTuHApbJQOo9L3Ro2KM8), [Blake Mills](https://open.spotify.com/artist/4LhV33vJvXmFGSM3m5RzUR) | [Notes With Attachments](https://open.spotify.com/album/5fsq4qeIWboRRPG7mGGfxr) | 4:44 | 2022-02-18 | 2022-03-05 |
 | [Jæwer](https://open.spotify.com/track/7rUa5hPOkfYrEuEeONzMMB) | [Claus Waidtløw](https://open.spotify.com/artist/3dz5vxw8WxPgcbD2HIVN5D), [Kaspar Vadsholt](https://open.spotify.com/artist/0OXMwGe6XaYuXQOIIBBNEZ), [Nice Chair](https://open.spotify.com/artist/4KRRW8ovgKX51Q7wmirbo6) | [Jæwer](https://open.spotify.com/album/3u30MLGrGIr8inGtoNZhPt) | 5:53 | 2022-10-14 | 2022-11-12 |
-| [Kairos \(Kefi\)](https://open.spotify.com/track/1BIuzWaarv9MXcHsJHXJ0I) | [Miguel Atwood\-Ferguson](https://open.spotify.com/artist/6SlLXvZvYEGnurxBUpUdri) | [Selections from Les Jardins Mystiques Vol.1](https://open.spotify.com/album/5D1cEhsNMQBy4ZNryMZHNU) | 5:08 | 2023-09-15 |  |
+| [Kairos \(Kefi\)](https://open.spotify.com/track/1BIuzWaarv9MXcHsJHXJ0I) | [Miguel Atwood\-Ferguson](https://open.spotify.com/artist/6SlLXvZvYEGnurxBUpUdri) | [Selections from Les Jardins Mystiques Vol.1](https://open.spotify.com/album/5D1cEhsNMQBy4ZNryMZHNU) | 5:08 | 2023-09-15 | 2023-10-20 |
+| [Kairos \(Kefi\)](https://open.spotify.com/track/5sQmnjPVFjmK4huKE4Ab4z) | [Miguel Atwood\-Ferguson](https://open.spotify.com/artist/6SlLXvZvYEGnurxBUpUdri) | [Selections from Les Jardins Mystiques Vol.1](https://open.spotify.com/album/5pPVN3FdmHNMmMKEL7N3gW) | 5:08 | 2023-09-15 |  |
 | [Kanazawa](https://open.spotify.com/track/6wbGYLokhtcUBJKLqoCwHs) | [Mark de Clive\-Lowe](https://open.spotify.com/artist/6K3loJxbWoXzVycXOBKh7P), [Shigeto](https://open.spotify.com/artist/48C2RLG6w7o4jAJjCJKZM8), [Melanie Charles](https://open.spotify.com/artist/3oVO0VgF32uQKPAEh77Gwe) | [Hotel San Claudio](https://open.spotify.com/album/0cuhODD4wYfCeeclaYsPYu) | 3:54 | 2023-03-24 | 2023-06-17 |
 | [Kantine](https://open.spotify.com/track/5OaD0R2xpY3dheQ3s2JXCF) | [Radio Citizen](https://open.spotify.com/artist/2tPR0lWEWNyDUHPeVEhewu) | [Kantine](https://open.spotify.com/album/3DMbmuLxjPzya3jm2z2dDA) | 4:42 | 2022-10-28 | 2023-01-14 |
 | [Karibu](https://open.spotify.com/track/7ihRrVAx9UROGsDhheMh8P) | [Henry Franklin](https://open.spotify.com/artist/3Uqiej8rzmFMC4HBcpOsTz), [Adrian Younge](https://open.spotify.com/artist/4aMeIY7MkJoZg7O91cmDDd), [Ali Shaheed Muhammad](https://open.spotify.com/artist/6adBZwsyxZuWDoty0Tg0lt) | [Karibu](https://open.spotify.com/album/6f3WF8cfMr9nPPbpCTYday) | 3:46 | 2022-08-08 | 2022-08-27 |

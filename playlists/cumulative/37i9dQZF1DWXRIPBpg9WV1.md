@@ -4,7 +4,7 @@
 
 > Relax and unwind with gentle guitar covers.
 
-257 songs - 12 hr 53 min
+258 songs - 12 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -155,6 +155,7 @@
 | [Midnight Rain](https://open.spotify.com/track/2O0NykJV0XOkbHAsedN21s) | [Zion Houston](https://open.spotify.com/artist/3RRD1mgaBFYXz3NFGiuDGj) | [Midnight Rain](https://open.spotify.com/album/1IV7ToivCrCyOBoQMbKGok) | 2:09 | 2022-12-02 |  |
 | [Mmm Mmm Mmm Mmm](https://open.spotify.com/track/6KpG42chPTbjaigDOyfO0M) | [Julius Reid](https://open.spotify.com/artist/0CKyUaC00wxvMDw4GVquX2) | [Mmm Mmm Mmm Mmm](https://open.spotify.com/album/1OGAxXCH1VkLBN38b8d1JK) | 3:24 | 2023-08-17 |  |
 | [Moon River](https://open.spotify.com/track/7HFhaGSj1ZOsNwyDilDEGm) | [Gustav Lundgren](https://open.spotify.com/artist/2Qb6yi78O4qlvQDB5JvZKV) | [Moon River](https://open.spotify.com/album/6IC8m7kndMMCp8OkNjnjPE) | 3:34 | 2022-05-20 | 2023-05-05 |
+| [Moves Like Jagger](https://open.spotify.com/track/6zc8GnAqooH79uEs2kZmTb) | [Lukas Glenn](https://open.spotify.com/artist/5ynIpFDk091P5NvdaMsrEO) | [Moves Like Jagger](https://open.spotify.com/album/5m3fTHK0aSuD0OBFtxYCsi) | 2:55 | 2023-10-20 |  |
 | [My Girl](https://open.spotify.com/track/4wye421ZuzNnDkriGPzp8j) | [River May](https://open.spotify.com/artist/6oTUPROiaMgKm92kbxRXyR) | [My Girl](https://open.spotify.com/album/6dNpdBtcDpYkF3rjMe3fx6) | 1:59 | 2022-12-02 | 2023-05-05 |
 | [Nothing Compares 2 U](https://open.spotify.com/track/5QO0KMwL5KkXhQU8jaXDWE) | [Anna Kitkowska](https://open.spotify.com/artist/45Miu8OyhYvkkQBXhn0MfQ) | [Nothing Compares 2 U](https://open.spotify.com/album/4hsnONUwdp2TtL2oUGLh4s) | 3:20 | 2023-05-05 |  |
 | [Once I Was 7 years Old](https://open.spotify.com/track/1rU3j7FTsJY6TFU8dkoR3d) | [Ela Hills](https://open.spotify.com/artist/4rPETLWsKT01K13kePkC0r) | [Once I Was 7 years Old](https://open.spotify.com/album/6iaQfBdiUrwwlJqTFcB7nY) | 2:05 | 2022-05-20 | 2023-02-24 |
@@ -185,7 +186,7 @@
 | [Smells Like Teen Spirit](https://open.spotify.com/track/5jzTlvI4E4CpuSSQI0dXlk) | [The Poet](https://open.spotify.com/artist/37LEXAV1tfykNBoe1FgSPy) | [Smells Like Teen Spirit](https://open.spotify.com/album/6KcNASw8nW3RtjXBAuludk) | 2:33 | 2023-05-05 |  |
 | [Smile](https://open.spotify.com/track/3Mq40Xn8tqVaoSQAr3ozeW) | [Acoustic Guitar Collective](https://open.spotify.com/artist/4uUpWtX0o0EM3p4P5L5X6n) | [Love Letters](https://open.spotify.com/album/2V55EhNJmfwsvu1mOKubZ7) | 2:17 | 2022-05-20 | 2022-07-02 |
 | [Snow On The Beach](https://open.spotify.com/track/3g2mR39gD6HT8jM5igcTqS) | [Brennan Lynch](https://open.spotify.com/artist/17pyV0hn7BcEd4esh9GvHX) | [Snow On The Beach](https://open.spotify.com/album/0kVPJ064l0EoD5U5XroBRD) | 3:08 | 2022-12-02 | 2023-06-03 |
-| [Someone Like You](https://open.spotify.com/track/6YKzJ4tyzRds7YXPo2F0qC) | [MAX Space](https://open.spotify.com/artist/7qg2pbKUVUesXTnAIzt2kJ) | [MAX Space](https://open.spotify.com/album/7jNlVPdSvOYn0GnJPEQgtN) | 4:09 | 2022-05-20 |  |
+| [Someone Like You](https://open.spotify.com/track/6YKzJ4tyzRds7YXPo2F0qC) | [MAX Space](https://open.spotify.com/artist/7qg2pbKUVUesXTnAIzt2kJ) | [MAX Space](https://open.spotify.com/album/7jNlVPdSvOYn0GnJPEQgtN) | 4:09 | 2022-05-20 | 2023-10-20 |
 | [Someone You Loved](https://open.spotify.com/track/6FPbcBmK0Je6EZvmXhHD5k) | [Lucian Byrne](https://open.spotify.com/artist/76JjyD3D3gmVw6h9Do2T2C) | [Running Up That Hill \(A Deal With God\)](https://open.spotify.com/album/0SsQ2kwzJx5Bdc5yvY7zF2) | 2:37 | 2022-12-02 | 2023-06-03 |
 | [Something Just Like This](https://open.spotify.com/track/2sOKWy70zpQiLejpYdCTKc) | [Brennan Lynch](https://open.spotify.com/artist/17pyV0hn7BcEd4esh9GvHX) | [Something Just Like This](https://open.spotify.com/album/6VWskgcznWktZ0CzRZVeql) | 2:15 | 2023-01-13 |  |
 | [Something Stupid](https://open.spotify.com/track/6nXgJ4xsUc5VPX1Pxiyy1D) | [Mario Cabrera](https://open.spotify.com/artist/2jxGXKxdhbWgtylGviMHZh) | [Something Stupid](https://open.spotify.com/album/0OATPNiA0gYUB6UhE0iIFv) | 2:46 | 2023-05-05 |  |

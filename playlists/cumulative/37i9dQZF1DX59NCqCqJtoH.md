@@ -4,7 +4,7 @@
 
 > we hear you.
 
-633 songs - 1 day 7 hr 20 min
+634 songs - 1 day 7 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -105,7 +105,7 @@
 | [Cross the Sea](https://open.spotify.com/track/1pRtM1cHkCBvGGgmIsBfj5) | [Alex G](https://open.spotify.com/artist/6lcwlkAjBPSKnFBZjjZFJs) | [Cross the Sea](https://open.spotify.com/album/5ScFaVUiLnexP71s2kXqPS) | 3:36 | 2022-08-09 | 2022-08-23 |
 | [crow's nest \(feat\. Ollie\)](https://open.spotify.com/track/376RbjUwbXiUaIVFpdgsZf) | [Powfu](https://open.spotify.com/artist/6bmlMHgSheBauioMgKv2tn), [Ollie](https://open.spotify.com/artist/5OyoCvyau6TiGqcCKnDBCR) | [tell me your feelings and i won't tell you mine pt\. 2](https://open.spotify.com/album/0hdZmnYgJaxpmZ6rLXTtO2) | 3:42 | 2023-04-26 | 2023-06-03 |
 | [crow's nest \(feat\. Ollie\)](https://open.spotify.com/track/4Fx7GtXOK8k3rxVgKzi6ko) | [Powfu](https://open.spotify.com/artist/6bmlMHgSheBauioMgKv2tn), [Ollie](https://open.spotify.com/artist/5OyoCvyau6TiGqcCKnDBCR) | [crow's nest](https://open.spotify.com/album/2hMXOaCFcRn3ZrZAIefdKE) | 3:42 | 2023-03-23 | 2023-05-07 |
-| [Cruel](https://open.spotify.com/track/6uJdUARnEctC9X4nrbaNP5) | [Hojean](https://open.spotify.com/artist/0ENnerFBtqPaVUcHadXU2w) | [Cruel](https://open.spotify.com/album/62ft4e9TqvJRNaUt9QYk2F) | 3:06 | 2023-09-15 |  |
+| [Cruel](https://open.spotify.com/track/6uJdUARnEctC9X4nrbaNP5) | [Hojean](https://open.spotify.com/artist/0ENnerFBtqPaVUcHadXU2w) | [Cruel](https://open.spotify.com/album/62ft4e9TqvJRNaUt9QYk2F) | 3:06 | 2023-09-15 | 2023-10-20 |
 | [Crybaby](https://open.spotify.com/track/2bXOylRRysIa9H2OBt1TBj) | [Dreamer Boy](https://open.spotify.com/artist/1UJKiAI4Evnhh1ExDse25D) | [Crybaby](https://open.spotify.com/album/1P7qBeQFQthjTSOTQ1FmEy) | 3:25 | 2021-04-02 | 2022-07-12 |
 | [Crying In My Car \(with Teezo Touchdown\)](https://open.spotify.com/track/1DTAoccmYHSdDfAyzdzsDl) | [Tyler Cole](https://open.spotify.com/artist/1xoxekeb8jUVHKJB7m6bfg), [Teezo Touchdown](https://open.spotify.com/artist/0fGcIStdT1OpFFhOC7Wp36) | [Crying In My Car](https://open.spotify.com/album/1GZ0dk7XtNsU6guKICEOBd) | 3:02 | 2023-08-18 | 2023-09-14 |
 | [curse,](https://open.spotify.com/track/4sOhW5vsO7eCC0OaxQi7DJ) | [normal the kid](https://open.spotify.com/artist/3qPVBAEhS0Rc09oB4O065V) | [curse,](https://open.spotify.com/album/7M6YYETrlwqiUxHBqaz5eO) | 3:58 | 2022-11-22 |  |
@@ -412,6 +412,7 @@
 | [Nothing](https://open.spotify.com/track/1lORkxEMmsCZqhoxcmk3A3) | [Bruno Major](https://open.spotify.com/artist/0hDjKSKjl1DC7ovYTDJHe8) | [To Let A Good Thing Die](https://open.spotify.com/album/4NWvFq8Cst2Y5iHOouXtMz) | 2:42 | 2022-10-14 | 2022-12-24 |
 | [Nothing](https://open.spotify.com/track/2IAR0DziHCjSu16gR4ihvy) | [Bruno Major](https://open.spotify.com/artist/0hDjKSKjl1DC7ovYTDJHe8) | [To Let A Good Thing Die](https://open.spotify.com/album/5ON0EY1YuVEJPwj17yYtwO) | 2:42 | 2022-03-29 | 2022-10-13 |
 | [Nothing Gives Me Pleasure](https://open.spotify.com/track/0Z30x3kCY22L0ZOEB4gHS2) | [Girlpool](https://open.spotify.com/artist/3BYXi96LqI8TwNljFKE0DZ) | [Nothing Gives Me Pleasure](https://open.spotify.com/album/1TzPeFabdi1ZXpIEAvubAj) | 3:48 | 2022-03-29 | 2022-04-19 |
+| [Nothing's New](https://open.spotify.com/track/0EF1EE8zusg3Y869e56JFd) | [Rio Romeo](https://open.spotify.com/artist/22y08IZx7u6SWpsfap1Cub) | [Good God!](https://open.spotify.com/album/3fIxJzinc2MADbgfkLrmYY) | 3:31 | 2023-10-19 |  |
 | [nowhere to hide](https://open.spotify.com/track/7xxMS1SNunq6HeBjqiswid) | [Kamal.](https://open.spotify.com/artist/2gIHyzlzKxntjQWf8xAGaI) | [nowhere to hide](https://open.spotify.com/album/22uIeW2YT5GtSjg6Tc5zh0) | 2:51 | 2022-03-29 | 2022-07-29 |
 | [Ocean Eyes](https://open.spotify.com/track/5kTvP86eP1OC1r8MNsSluO) | [moody woody](https://open.spotify.com/artist/46iFyIYGoz4XfOIEn6uMqo) | [Ocean Eyes](https://open.spotify.com/album/2NuRBh5wtqhzCqcwMVhIuv) | 1:42 | 2021-04-02 | 2022-04-09 |
 | [October Baby](https://open.spotify.com/track/5jirw3NThH8SMtvlrrfSw1) | [Sean Kennedy](https://open.spotify.com/artist/6kY7DKDwm2bt996rMF4CLK) | [October Baby](https://open.spotify.com/album/3gi1kfRG9RO7CLTTRhExBi) | 4:04 | 2022-04-08 | 2022-07-29 |

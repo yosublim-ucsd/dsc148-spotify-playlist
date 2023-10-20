@@ -4,7 +4,7 @@
 
 > Peaceful music box tunes for sleepy babies.
 
-234 songs - 5 hr 58 min
+238 songs - 6 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,6 +12,7 @@
 | [A Dog Named Doug](https://open.spotify.com/track/0ixMSZlYaSg7npBIxgPrt2) | [Eli Demir](https://open.spotify.com/artist/51Nt493ykLjC5PvLbGmP9N) | [A Dog Named Doug](https://open.spotify.com/album/1li4sJRjRLTEKK5Gp4kMUr) | 1:38 | 2022-04-22 |  |
 | [A Dream Come True](https://open.spotify.com/track/5Zb0Ko7LIfYlsF2r2TwVg9) | [Kara Bevans](https://open.spotify.com/artist/1Vmps5u9bAJFPr4QsYr3rr) | [A Dream Come True](https://open.spotify.com/album/5By1GSkEIbL1POMXxmDUju) | 2:02 | 2022-02-10 |  |
 | [A Goodnight Lullaby](https://open.spotify.com/track/4cKRxN6IuZsDXmvixgDLvH) | [Egil Nielsen](https://open.spotify.com/artist/0oZuyZXAZ8zvY3ygyApIHf) | [A Goodnight Lullaby](https://open.spotify.com/album/5bUFergE5isqK0EzbLnVQk) | 1:25 | 2022-02-10 |  |
+| [A Little Boat](https://open.spotify.com/track/6ahZWO4bnowdtkAJwkahWD) | [Simon Hill](https://open.spotify.com/artist/3CNRDi8CRRB2IF1v9no6NQ) | [A Little Boat](https://open.spotify.com/album/44X6fpGpyp0stgq8Rs5KE0) | 1:14 | 2023-10-20 |  |
 | [A Ram Sam Sam](https://open.spotify.com/track/56QKL1S0CywvdIjp0vHtjh) | [Carine Vester](https://open.spotify.com/artist/3lfo96yWyh9kw1mprRdOLU) | [Ten Little Indians](https://open.spotify.com/album/1BfD4AamDekxsxZPEloJP2) | 1:33 | 2022-02-10 | 2023-05-19 |
 | [A Smile for Everyone](https://open.spotify.com/track/6kkVJzTyJ4LKh4zM6TodVF) | [Miklos Whelan](https://open.spotify.com/artist/48jB9Z4z5OFMYizmWzOcmf) | [Flying](https://open.spotify.com/album/1fGV9ztSqsStPdKUfpKlKL) | 2:07 | 2022-02-10 |  |
 | [A Whole New World](https://open.spotify.com/track/4aJjW8KOhCj0AwozrV8NnC) | [Jesse Nielsen](https://open.spotify.com/artist/28hL1CMeKSmGDu43cUqsWW) | [Lullabies on Music Box](https://open.spotify.com/album/1hDnsG6Lx0x4J2Q8pdJTo1) | 1:29 | 2022-02-10 |  |
@@ -129,6 +130,7 @@
 | [Lullaby of Colors](https://open.spotify.com/track/0tBZQVRq7zRvTUHv7LnpkT) | [Peggy Roxie](https://open.spotify.com/artist/3FWKZdvRjRtGSgMNnVis04) | [Lullaby of Colors](https://open.spotify.com/album/7kf9KGjbvQqRIMHeynnkPP) | 1:10 | 2022-02-10 |  |
 | [Main Theme \(From "Babar"\) Music Box Version](https://open.spotify.com/track/4QYZumVgfGNaP52IVEb6uT) | [Orson's Library](https://open.spotify.com/artist/5n0BuzcgaUOeZFWxetkykT) | [Main Theme \(From "Babar"\)](https://open.spotify.com/album/6ErckQoCGdQh3P7GMtTSFL) | 1:17 | 2022-11-25 |  |
 | [Main Theme \(From "Björnes Magasin"\) Music Box Version](https://open.spotify.com/track/2eysdfS200MPTHZ5BsDH7m) | [Abie Anderson](https://open.spotify.com/artist/3o78La1Sg11Ola3Qk9hai0) | [Main Theme \(From Björnes Magasin\)](https://open.spotify.com/album/0K5lQvldUVSjuo9cB4LcKb) | 1:27 | 2022-11-25 | 2023-08-26 |
+| [Mandy's Song \- Music Box Version](https://open.spotify.com/track/74BZeqiAMkLK9050s5O7rK) | [Lille Du](https://open.spotify.com/artist/1bNG6qjWLR1cCdvsrxenvH) | [Mandy's Song \(Music Box Version\)](https://open.spotify.com/album/4pfxpWd0pyC41zU8P33MAp) | 1:55 | 2023-10-20 |  |
 | [Mary Had a Little Lamb](https://open.spotify.com/track/0HBraBC6wDKgcamaMPAzJH) | [Lea van der Eule](https://open.spotify.com/artist/2Irdbe7WQkenoyvCcEl6np) | [My Music Box](https://open.spotify.com/album/5i6CK7NPNIqLc3CCXtRXcl) | 1:52 | 2023-08-24 |  |
 | [Merrily We Roll Along](https://open.spotify.com/track/5BUh5drj0lOvk5Z3EwTcJr) | [Hampus I Backen](https://open.spotify.com/artist/7eh8uR2SdD0SSgIMaNOAHT) | [Merrily We Roll Along](https://open.spotify.com/album/0hlAAwwQ8rOTvDt78fZzCW) | 0:41 | 2023-06-21 |  |
 | [Milky Way Dreams](https://open.spotify.com/track/4tro0Lf8epqpNns2CZP7N6) | [Allan London](https://open.spotify.com/artist/3hZZcCyB8FOIGhgz5KU2aQ) | [Milky Way Dreams](https://open.spotify.com/album/1iyl2yPMtFOCNdvbGPQ7Dk) | 1:54 | 2023-09-22 |  |
@@ -224,6 +226,7 @@
 | [Tuck You In](https://open.spotify.com/track/7BAOAgb7oHDU7c2px6Jr2w) | [Cecilia Ness](https://open.spotify.com/artist/6FJsBO9iw7CuXvNkLh73o2) | [Tuck You In](https://open.spotify.com/album/5qONknLa05F4T926ZHio4k) | 1:32 | 2022-05-17 |  |
 | [Twinkle twinkle little star](https://open.spotify.com/track/3Q1gKxJo0xAsI1TpXdYccs) | [Rene Roses](https://open.spotify.com/artist/221z7KkoNPAehx4DhjF33f) | [Baby Lullabies](https://open.spotify.com/album/5B5AuzHG2fLyxayH4SAKCf) | 1:23 | 2023-02-17 |  |
 | [Twinkle twinkle little star](https://open.spotify.com/track/0GpjHdTg8HUBqqjjbuyRZx) | [Sabelia Robles](https://open.spotify.com/artist/6rq2TupUat1Bqgh9KSmc1e) | [Twinkle twinkle little star](https://open.spotify.com/album/38kjDndrsXh2BuxXhvuOlo) | 0:54 | 2022-02-10 | 2022-04-23 |
+| [Twinkling Dreams](https://open.spotify.com/track/1sSohEBI1HerYA3gOaHJXd) | [David Aydin](https://open.spotify.com/artist/44sI7kxhWJ08lYnGw492Om) | [Twinkling Dreams](https://open.spotify.com/album/3I8IeoIkwK7kAYxunROibU) | 1:19 | 2023-10-20 |  |
 | [Until I Found You](https://open.spotify.com/track/7lElQ1zwjKaEfINWBT4ATx) | [Nanny Pim](https://open.spotify.com/artist/35xpkDRoznKCO6bAK4X2tH) | [Until I Found You](https://open.spotify.com/album/2amJKlDL51npWq2CzPjBMO) | 1:07 | 2022-11-25 |  |
 | [Vem kan segla förutan vind](https://open.spotify.com/track/6NOOTscrozQ0KBJauyB0jc) | [Elliot Gordon](https://open.spotify.com/artist/57vFl2LNxCx1EPf2cqMe2a) | [Musix Box Lullabies](https://open.spotify.com/album/1u4RVkv7lRBGdiujfpOVxd) | 1:19 | 2023-03-16 | 2023-06-03 |
 | [Videvisan](https://open.spotify.com/track/21bIVZk8cGOCCoEfgnqVEm) | [Kerstin Kempe](https://open.spotify.com/artist/1QvAHSuu023cDHMSIhsslX) | [Videvisan](https://open.spotify.com/album/1zn9Dh2o6gdmi0iH0Atva4) | 1:22 | 2022-12-09 | 2023-08-25 |
@@ -238,6 +241,7 @@
 | [While you are sleeping](https://open.spotify.com/track/3R1aA8Uf8jPp8bp3NWt7c6) | [Jim WInce](https://open.spotify.com/artist/7Jr1tryBYAsWD0LeTwr1LF) | [While you are sleeping](https://open.spotify.com/album/1XoU21Cs3NsHizZw9iR0YG) | 1:21 | 2023-05-19 |  |
 | [Whiskers](https://open.spotify.com/track/75ihfv5Y3KwvIiP5OhQPOF) | [Cat Morris](https://open.spotify.com/artist/1z4h0BDNJOpTzksITIOM6k) | [Whiskers](https://open.spotify.com/album/7IwJhve8nfyWXz7sEhfYIs) | 1:53 | 2022-02-10 |  |
 | [Whisper](https://open.spotify.com/track/2zO8FacMH5qKmRl0K4KQCX) | [Joan Carlsen](https://open.spotify.com/artist/6I0M6KDTQZvSCKt7iF8B4T) | [Whisper](https://open.spotify.com/album/7hGRrzGnFNR0XAWWYs2fN6) | 1:17 | 2022-02-10 |  |
+| [Willow Song](https://open.spotify.com/track/4U7P98xdvMWtAkhP6M0Kj7) | [Maurice Marsipano](https://open.spotify.com/artist/3kYoyPRiKgh8gEqKxXOWSr) | [Willow Song](https://open.spotify.com/album/0tXYySMuRWTa2PlZ3VgpDx) | 0:57 | 2023-10-20 |  |
 | [Yesterday](https://open.spotify.com/track/6sGDR7NjjMNmoj2ORLOyFZ) | [Bella Notte](https://open.spotify.com/artist/5GWqn1K9HufkeR8NEMNn5S) | [Yesterday](https://open.spotify.com/album/4A57hMzEz3dI0cUDwB3qbw) | 1:35 | 2022-09-02 | 2023-04-21 |
 | [You Are My Sunshine](https://open.spotify.com/track/5WMbHgjzFrAzcSJk8ZrJc3) | [Jesse Nielsen](https://open.spotify.com/artist/28hL1CMeKSmGDu43cUqsWW) | [Lullabies on Music Box](https://open.spotify.com/album/1hDnsG6Lx0x4J2Q8pdJTo1) | 1:02 | 2022-02-10 | 2022-09-23 |
 | [You Are My Sunshine](https://open.spotify.com/track/1GP1eykR40sLBhjq7bBZUR) | [Melinah Daniels](https://open.spotify.com/artist/73f8r79Tbv2sxdpidr1xx1) | [You Are My Sunshine](https://open.spotify.com/album/3xFCbQQWDscvZBzjvUCgmg) | 1:46 | 2022-09-22 |  |

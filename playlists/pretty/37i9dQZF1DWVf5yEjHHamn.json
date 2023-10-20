@@ -1,12 +1,12 @@
 {
   "description": "Replongez dans les plus grands tubes d'\u00e9t\u00e9",
-  "num_followers": 71315,
+  "num_followers": 71314,
   "original_name": "Flashback tubes de l'\u00e9t\u00e9",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiZDNiOGExNThkY2E1ZGRhNDMyYmI1YTFiOWEyYTJiYjk3MmRhMjFm",
+  "snapshot_id": "MCxjOWNlY2ZmZDcxZTdjNzdiZTk5NmJkNzE5MDY0YTExMjVkMWI2NTky",
   "tracks": [
     {
       "added_at": "2023-09-06 08:00:00",
@@ -319,6 +319,22 @@
       "duration_ms": 254720,
       "name": "Obsesion",
       "url": "https://open.spotify.com/track/65H6t1WQBim6q93yM8fEwn"
+    },
+    {
+      "added_at": "2023-09-06 08:00:00",
+      "album": {
+        "name": "MONTERO (Call Me By Your Name)",
+        "url": "https://open.spotify.com/album/2Hjcfw8zHN4dJDZJGOzLd6"
+      },
+      "artists": [
+        {
+          "name": "Lil Nas X",
+          "url": "https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq"
+        }
+      ],
+      "duration_ms": 137875,
+      "name": "MONTERO (Call Me By Your Name)",
+      "url": "https://open.spotify.com/track/67BtfxlNbhBmCDR2L2l8qd"
     },
     {
       "added_at": "2023-09-06 08:00:00",

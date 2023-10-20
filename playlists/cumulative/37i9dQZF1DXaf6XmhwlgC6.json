@@ -557,6 +557,24 @@
     },
     {
       "album": {
+        "name": "Cloud Conversations",
+        "url": "https://open.spotify.com/album/3EBloB6rFTKshmepIRENZC"
+      },
+      "artists": [
+        {
+          "name": "Sounds of Ellinia",
+          "url": "https://open.spotify.com/artist/0o4rbXNv8YoDHK2nSnlJxr"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125183,
+      "name": "Cloud Conversations",
+      "url": "https://open.spotify.com/track/1tHpPWBx5XzXz5LuT2pewC"
+    },
+    {
+      "album": {
         "name": "Cocao",
         "url": "https://open.spotify.com/album/33xzZgkDcDw9IsET9d4co9"
       },
@@ -982,7 +1000,7 @@
       ],
       "date_added": "2022-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-20",
       "duration_ms": 242666,
       "name": "Fade Away",
       "url": "https://open.spotify.com/track/3MwcUcy1w5aN1gMxPgSfwq"

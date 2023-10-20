@@ -4,7 +4,7 @@
 
 > A taste of French café culture; the charming sounds of the Parisian streets.
 
-186 songs - 9 hr 2 min
+187 songs - 9 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -156,6 +156,7 @@
 | [Rue Jouvenet](https://open.spotify.com/track/5t43VxQuoRuJDJAJnxcCvg) | [Jo Courtin](https://open.spotify.com/artist/0u2nKLEi5PUDYJ3EOWGz6o) | [Accordion Vol\. 2: The Most Beautiful Songs \(Accordéon Vol\. 2: les Plus Belles Mélodies\)](https://open.spotify.com/album/67ZpNxpEBq9qnHjz9lbfKk) | 3:07 | 2022-02-18 |  |
 | [Rêve d'accordeonist](https://open.spotify.com/track/4xldnpXjo5O469G7cimsxd) | [Enrique Ugarte](https://open.spotify.com/artist/50XfjlKluHTqnuuNtr7SHI) | [Valse musette de Paris](https://open.spotify.com/album/6DhvEyNar7K1i3gVcS0rGH) | 2:52 | 2022-08-05 | 2022-11-13 |
 | [Rêve d'accordeonist](https://open.spotify.com/track/3ZDqCG9RzyaJSVxaQgvaal) | [Roger Dufas](https://open.spotify.com/artist/5ZA9UYzX5J1uxXspRhJJDg), [Manuel Puig](https://open.spotify.com/artist/4KW0gtV7MlESm0dB7zq55c), [Enrique Ugarte](https://open.spotify.com/artist/50XfjlKluHTqnuuNtr7SHI) | [Enrique Ugarte: Valse Musette De Paris](https://open.spotify.com/album/3eF4eKkt4DHrOUG1A0z6wC) | 2:52 | 2022-02-18 | 2022-07-29 |
+| [Saint\-Denis](https://open.spotify.com/track/5kg6zxNyVtRRJ6nkWrwjNg) | [Jules Moreau](https://open.spotify.com/artist/4EgOpuGf3Qe7DYYol4AJCz) | [Saint\-Denis](https://open.spotify.com/album/3wCO7hvSkDUNEs0jPITJzh) | 2:50 | 2023-10-20 |  |
 | [Sauvageonne](https://open.spotify.com/track/0Ff6dRcjdx0IdMWbpk5cVV) | [Enrique Ugarte](https://open.spotify.com/artist/50XfjlKluHTqnuuNtr7SHI) | [Enrique Ugarte: Valse Musette De Paris](https://open.spotify.com/album/40lbxc3DN4ml0PdpajRj4u) | 3:34 | 2022-02-18 |  |
 | [Sauvageonne](https://open.spotify.com/track/77zttmofwkD3dTNWEgxuOq) | [Joseph Colombo](https://open.spotify.com/artist/7iqAagE5deQbyOjrtnD7yk), [Enrique Ugarte](https://open.spotify.com/artist/50XfjlKluHTqnuuNtr7SHI) | [Enrique Ugarte: Valse Musette De Paris](https://open.spotify.com/album/3eF4eKkt4DHrOUG1A0z6wC) | 3:34 | 2022-02-18 | 2022-07-29 |
 | [Sensibilite Musette](https://open.spotify.com/track/6N7djpUh42oguiWKyoVivT) | [Stephanie Methot](https://open.spotify.com/artist/4oOUhXHZsHcKj3jhQbHvhe) | [Paris Cafe \- French Sidewalk Cafe Accordion Music](https://open.spotify.com/album/2pkJU8ud3RvuHNGkuDLr7R) | 2:22 | 2022-02-18 | 2022-07-29 |

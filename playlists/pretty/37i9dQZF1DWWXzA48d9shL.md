@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWXzA48d9shL.md) - [plain]
 
 > Rap from hell\. Cover: City Morgue
 
-[Spotify](https://open.spotify.com/user/spotify) - 541,868 likes - 116 songs - 4 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 542,332 likes - 116 songs - 4 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,7 +52,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWXzA48d9shL.md) - [plain]
 | 42 | [JUNK BUNK FREESTYLE](https://open.spotify.com/track/03SH0B5uTEeiOqGQg3TXoX) | [Lu](https://open.spotify.com/artist/67ZBvSCWPfqDt63Bu1PmZ4), [Pouya](https://open.spotify.com/artist/4nXOZlYoAD67hF9aUEncMY), [Kxllswxtch](https://open.spotify.com/artist/2VDZoCBGjxbHJbnzSX5nP6), [Terror Reid](https://open.spotify.com/artist/5No9X0ZejwFDnD1dVllwQA) | [JUNK BUNK FREESTYLE](https://open.spotify.com/album/05ZPaRg4xcVaMJsBRYQe3C) | 1:42 |
 | 43 | [DESIRE](https://open.spotify.com/track/25sabs7iC9eESyOpf0b6CY) | [LITTLE 4N](https://open.spotify.com/artist/66sdClSxeLEamPlKTQcrbd) | [DESIRE](https://open.spotify.com/album/4HRlH8H0ujyz46QqdEBI51) | 2:21 |
 | 44 | [Atxmic\-Bxmb.](https://open.spotify.com/track/14anA5oIZszxWvvOAfoE8y) | [Scarlxrd](https://open.spotify.com/artist/6rYogEVj60BCIsLukpAnwr) | [Atxmic\-Bxmb.](https://open.spotify.com/album/5m31ElwTduQrxwXOkAaIPc) | 2:37 |
-| 45 | [HOLD THE MONEY](https://open.spotify.com/track/0IDnmk7esQTYWVbErDdJ7V) | [DIRTYXAN](https://open.spotify.com/artist/5BEGUGWpPDPKXCgqubqnLB) | [HOLD THE MONEY](https://open.spotify.com/album/6tuhCrlbC6l80USBMAWhJO) | 2:01 |
+| 45 | [HOLD THE MONEY](https://open.spotify.com/track/7GIQoV4S6xkko6fNzokflj) | [DIRTYXAN](https://open.spotify.com/artist/5BEGUGWpPDPKXCgqubqnLB) | [MANIC MAN](https://open.spotify.com/album/0jqwLKjpjN4ikAbIi7bAHT) | 2:01 |
 | 46 | [SUN DOWN](https://open.spotify.com/track/02xFrkfvBPtobb5eyDJVwb) | [NIKKO](https://open.spotify.com/artist/3dnOnDLzcymqwDP7HMEFAC), [MVRTYR](https://open.spotify.com/artist/3xDaDai6irdnH3pLamd9lQ), [OUTCAST BLOCK](https://open.spotify.com/artist/532RZpJnwlMb6SHhxpqYZW) | [SUN DOWN](https://open.spotify.com/album/2b51lIKV1NAS5jx7JQxeie) | 1:58 |
 | 47 | [Run That](https://open.spotify.com/track/3YXh89Tf0LPFbEcWkTIHbr) | [XANAKIN SKYWOK](https://open.spotify.com/artist/2YHPVKeJcX02OyeNneU5v3) | [Run That](https://open.spotify.com/album/4nAd9j2Zz7h6sSKgr9fOJJ) | 1:25 |
 | 48 | [HONOR](https://open.spotify.com/track/1mX5x3uvqvlVcWW5P3C0C0) | [LITTLE 4N](https://open.spotify.com/artist/66sdClSxeLEamPlKTQcrbd) | [HONOR](https://open.spotify.com/album/6qmbOXtvvUE5UJvwLFwOpH) | 2:51 |
@@ -116,7 +116,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWXzA48d9shL.md) - [plain]
 | 106 | [SCARING THE HOES](https://open.spotify.com/track/5L0QxWi5Jo4gjw4yHR0kP1) | [JPEGMAFIA](https://open.spotify.com/artist/6yJ6QQ3Y5l0s0tn7b0arrO), [Danny Brown](https://open.spotify.com/artist/7aA592KWirLsnfb5ulGWvU) | [SCARING THE HOES](https://open.spotify.com/album/2W8QmJ48TFvnkjrrQOHDBR) | 2:22 |
 | 107 | [from hell, with love](https://open.spotify.com/track/1atUX5yDsZpz82R6B55UEP) | [Savage Ga$p](https://open.spotify.com/artist/0x7qiZJaal6j8qS7yCydFk) | [from hell, with love](https://open.spotify.com/album/5Z1wCaNwpco3vL0q42r1ph) | 1:49 |
 | 108 | [I FEEL ALIVE](https://open.spotify.com/track/6MK4FbbYR71obIQQHMxKXs) | [Kordhell](https://open.spotify.com/artist/2W6WP4pHQTFlbr2z9S4n54), [Scarlxrd](https://open.spotify.com/artist/6rYogEVj60BCIsLukpAnwr) | [PSYCHX](https://open.spotify.com/album/7GjyuDC6hZNicG8Gj7cR8R) | 2:02 |
-| 109 | [MUDD](https://open.spotify.com/track/0MEMJNYVMS7TBNgFzV1aVN) | [$werve](https://open.spotify.com/artist/60vF1fLR6yzLxCQUlnAYYj), [Grioten](https://open.spotify.com/artist/2UM0Qcw48WXGm5kN5hgpqt), [Day$okee](https://open.spotify.com/artist/6aLKPuO7rSHfgRhDkYzfJF) | [MUDD](https://open.spotify.com/album/2WwhmvIhoJ5FVzDPc2NuVH) | 2:21 |
+| 109 | [MUDD](https://open.spotify.com/track/5atfVRV16HQZTF8S6IuNWN) | [$werve](https://open.spotify.com/artist/60vF1fLR6yzLxCQUlnAYYj), [Grioten](https://open.spotify.com/artist/2UM0Qcw48WXGm5kN5hgpqt), [Day$okee](https://open.spotify.com/artist/6aLKPuO7rSHfgRhDkYzfJF) | [MUDD](https://open.spotify.com/album/1E4SvucOCxgyUiH5hU6BTH) | 2:21 |
 | 110 | [Kick Rocks \(feat\. Lil Darkie\)](https://open.spotify.com/track/3E6coZX2cGtJVVfC3qeDwQ) | [Freddie Dredd](https://open.spotify.com/artist/0dlDsD7y6ccmDm8tuWCU6F), [Lil Darkie](https://open.spotify.com/artist/62F9BiUmjqeXbBztCwiX1U) | [Kick Rocks \(feat\. Lil Darkie\)](https://open.spotify.com/album/6C0f36HZNOlyU5w1v4g1Ch) | 2:51 |
 | 111 | [2077](https://open.spotify.com/track/6kRxT8sggyNJ6mYoSKTwCh) | [do not resurrect](https://open.spotify.com/artist/0QRp7CyL31iErUn6cX0YU3) | [2077](https://open.spotify.com/album/4MWsQHhgiMXbH3KkffTd7i) | 2:15 |
 | 112 | [sorry im a haunted house](https://open.spotify.com/track/5TwVPtLbxVEdlmSXfIE9ny) | [Savage Ga$p](https://open.spotify.com/artist/0x7qiZJaal6j8qS7yCydFk), [KAMAARA](https://open.spotify.com/artist/06d6Jun2N1hugnXeN98kQ0) | [sorry im a haunted house](https://open.spotify.com/album/25oNU5hHbzv3GAF8UfLZUy) | 2:26 |
@@ -125,4 +125,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWXzA48d9shL.md) - [plain]
 | 115 | [MONEY POWER FAME](https://open.spotify.com/track/4EsaTQDXDnD9hsKUjqtSK1) | [Lil Darkie](https://open.spotify.com/artist/62F9BiUmjqeXbBztCwiX1U) | [MONEY POWER FAME](https://open.spotify.com/album/3X3p3ZZ7VnV5JYwtfHUVQy) | 3:04 |
 | 116 | [GOD MODE!](https://open.spotify.com/track/61ONKytCePkZCWzfipmPhy) | [SXMPRA](https://open.spotify.com/artist/14uo609t1MvRGZcskySt9R), [Dozy Doe](https://open.spotify.com/artist/3M5TXkT9LxgZPcLSKBr4Pf) | [GOD MODE!](https://open.spotify.com/album/5xqiMjCLUJBOtEM2hsCLaP) | 2:43 |
 
-Snapshot ID: `MCw2ZjgyYWRjYzRhYzBmNWI4NTA5ZWI5YzJjMmIzNzc5OGE5OWU1NzVj`
+Snapshot ID: `MCxmZDhkMmZmZGUwMjE4YjQyZmVjMTQ5MzI2NDYzNzljN2MxODI0YjBi`

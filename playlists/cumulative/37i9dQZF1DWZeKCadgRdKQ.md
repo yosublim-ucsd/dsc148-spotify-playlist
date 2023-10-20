@@ -4,7 +4,7 @@
 
 > Keep calm and focus with ambient and post\-rock music.
 
-624 songs - 1 day 9 hr 49 min
+625 songs - 1 day 9 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -608,6 +608,7 @@
 | [When They Come](https://open.spotify.com/track/100jBpD7nuiMriR7ErXQ9S) | [Threading Hair](https://open.spotify.com/artist/7KIgyuskfqOG0gHsnnHPPA) | [When They Come](https://open.spotify.com/album/2RBZ6bC1VSBugVSV3GXiEY) | 4:22 | 2019-12-31 | 2021-03-14 |
 | [When You Left](https://open.spotify.com/track/1uu52K2fxY7Hl4LQ8AtTyY) | [Rouge Haven](https://open.spotify.com/artist/7iLEu7Ib4kevZUat8dJkvR) | [When You Left](https://open.spotify.com/album/2xgM5u3ZY5wNvMF4hZGEn9) | 2:57 | 2020-06-19 | 2023-08-12 |
 | [Whispering](https://open.spotify.com/track/1hWZ0uScuJ6PSeoe2p4sKC) | [Space Access](https://open.spotify.com/artist/1s2VXzYMLAHNVLNohNAmQy) | [Whispering](https://open.spotify.com/album/1Yh3rxcjQCwJUNBEPDyvyp) | 2:12 | 2023-04-14 |  |
+| [Whispering Breeze](https://open.spotify.com/track/0fBNkBzlUGMCO3ZXXMe6l6) | [Halcyon](https://open.spotify.com/artist/6uKnnABqlxCnC40GjvgkP1) | [Whispering Breeze](https://open.spotify.com/album/3yPoFOj1r3anzS3Nzmo7SS) | 2:27 | 2023-10-20 |  |
 | [White Waves](https://open.spotify.com/track/2IqOZtwGjYV9sko1NCzbKI) | [Cooper Sams](https://open.spotify.com/artist/5dQtzw5YaP9ZCMv0GWymws) | [White Waves](https://open.spotify.com/album/1Pe5dUn4lNyyrnqcPPbzOk) | 3:51 | 2019-06-19\* | 2023-01-12 |
 | [Wild Flowers](https://open.spotify.com/track/3j2VxSCmFJcrNZ6QR7e8DR) | [MVS](https://open.spotify.com/artist/2iPiEjvpiyVOYH7JSRgqfW) | [Wild Flowers](https://open.spotify.com/album/029AFhYiRp84M6nfrpXTcU) | 2:14 | 2020-10-08 |  |
 | [Wild Trails](https://open.spotify.com/track/2urxHALnoeVxG82o57q0ny) | [Epi\-Soothe](https://open.spotify.com/artist/3nbFHhWXhyhU1QACy18PlF) | [Wild Trails](https://open.spotify.com/album/3tMJzCDzTcRS8o6pImIE2c) | 3:38 | 2019-09-14 | 2022-11-18 |

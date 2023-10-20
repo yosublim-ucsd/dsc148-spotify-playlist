@@ -1,12 +1,12 @@
 {
   "description": "Whale song from the deep underwater world of the oceans",
-  "num_followers": 163557,
+  "num_followers": 163657,
   "original_name": "Whale Sounds",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzZWExMDQxOTk3NDYwOWE4N2E2MmQyMDZkNmU3Mzk3ZTVjMmNjOGNm",
+  "snapshot_id": "MCw4MDc5N2ZiOTg0YTFlN2Y3ZjczOGVkYWM4ZTE4NDBhZGQ1YjI5Nzg0",
   "tracks": [
     {
       "added_at": "2023-06-20 11:32:10",
@@ -523,22 +523,6 @@
     {
       "added_at": "2023-06-20 11:32:10",
       "album": {
-        "name": "Whale Echoes",
-        "url": "https://open.spotify.com/album/0PmVS4rNzwKlxRLH7Cf2PV"
-      },
-      "artists": [
-        {
-          "name": "The Right Noises",
-          "url": "https://open.spotify.com/artist/68HmrxxSwi1z5OvNg7ufJQ"
-        }
-      ],
-      "duration_ms": 146423,
-      "name": "Whale Echoes",
-      "url": "https://open.spotify.com/track/7spTUvcgwfHUAiBy5wBUJL"
-    },
-    {
-      "added_at": "2023-06-20 11:32:10",
-      "album": {
         "name": "Binaural Whales Sound",
         "url": "https://open.spotify.com/album/3xenWQBXBV8ONUKEW0ww0b"
       },
@@ -551,6 +535,22 @@
       "duration_ms": 205784,
       "name": "Binaural Whales Sound 2",
       "url": "https://open.spotify.com/track/0QQL2dGifMFHOpHRTjPuHB"
+    },
+    {
+      "added_at": "2023-06-20 11:32:10",
+      "album": {
+        "name": "Whale Echoes",
+        "url": "https://open.spotify.com/album/0PmVS4rNzwKlxRLH7Cf2PV"
+      },
+      "artists": [
+        {
+          "name": "The Right Noises",
+          "url": "https://open.spotify.com/artist/68HmrxxSwi1z5OvNg7ufJQ"
+        }
+      ],
+      "duration_ms": 146423,
+      "name": "Whale Echoes",
+      "url": "https://open.spotify.com/track/7spTUvcgwfHUAiBy5wBUJL"
     },
     {
       "added_at": "2023-06-20 11:32:10",

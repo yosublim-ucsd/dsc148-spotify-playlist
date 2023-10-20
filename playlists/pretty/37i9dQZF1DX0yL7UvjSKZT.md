@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0yL7UvjSKZT.md) - [plain]
 
 > Fresh takes on that high lonesome sound\. Cover: Molly Tuttle
 
-[Spotify](https://open.spotify.com/user/spotify) - 251,196 likes - 150 songs - 9 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 251,218 likes - 150 songs - 9 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0yL7UvjSKZT.md) - [plain]
 | 11 | [Big Sky, MT](https://open.spotify.com/track/4eXJ8BSMHqi3GFkeYDafKd) | [The Arcadian Wild](https://open.spotify.com/artist/4tHZV2ZowPkzOvX4eG1inY) | [Welcome](https://open.spotify.com/album/0diSQW7E7oX750ztxS9fdy) | 4:58 |
 | 12 | [Daughter of the Highlands](https://open.spotify.com/track/6C7OVZKLsu1Nj73Xr5RoLl) | [Old Crow Medicine Show](https://open.spotify.com/artist/4DBi4EYXgiqbkxvWUXUzMi) | [Jubilee](https://open.spotify.com/album/1kFrfbpzO4oDKzLMhLtxHN) | 4:22 |
 | 13 | [American Pastoral](https://open.spotify.com/track/2MbRWtul1s1LOn8AGsj8iC) | [Andrew Montana](https://open.spotify.com/artist/05MbxRG8XyYmFhv7ZUMylc) | [American Pastoral](https://open.spotify.com/album/03g2OhvmhKFrK6uZ5ZJ3SV) | 3:17 |
-| 14 | [Can't Live Without Love](https://open.spotify.com/track/2lA4tBOeDhq58itnkz7tUp) | [Bronwyn Keith\-Hynes](https://open.spotify.com/artist/03d64K2pahKcY9cyDvh1XO), [Molly Tuttle](https://open.spotify.com/artist/4LX0KCPnH7gvxEbVXqXmAE), [Sam Bush](https://open.spotify.com/artist/3Fud2i8WgXSZCVmi961lXm) | [Can't Live Without Love](https://open.spotify.com/album/6nNbG7l5MjTclnCUJSPaXj) | 3:20 |
+| 14 | [Can't Live Without Love](https://open.spotify.com/track/2lA4tBOeDhq58itnkz7tUp) | [Bronwyn Keith\-Hynes](https://open.spotify.com/artist/03d64K2pahKcY9cyDvh1XO), [Sam Bush](https://open.spotify.com/artist/3Fud2i8WgXSZCVmi961lXm), [Molly Tuttle](https://open.spotify.com/artist/4LX0KCPnH7gvxEbVXqXmAE) | [Can't Live Without Love](https://open.spotify.com/album/6nNbG7l5MjTclnCUJSPaXj) | 3:20 |
 | 15 | [Red River](https://open.spotify.com/track/073ZDDiIREsuTrrgT0llpV) | [Grant\-Lee Phillips](https://open.spotify.com/artist/65xy6loxYxKy3M9uiRHzLv) | [Red River](https://open.spotify.com/album/1J7WgZ7mGdRbxkKnLUrBJs) | 3:20 |
 | 16 | [Running Out Of Hope, Arkansas \- Acoustic](https://open.spotify.com/track/0W6gyNHsRDjj4EXfJM0u7o) | [Brennen Leigh](https://open.spotify.com/artist/5hoqqYuJtD3clexwJn5wWW) | [Running Out Of Hope, Arkansas \(Acoustic\)](https://open.spotify.com/album/7vpCqY8FyAhITBlvaOUhdC) | 2:03 |
 | 17 | [Pull the Moon](https://open.spotify.com/track/0fhybVaiwileWneFHOBhhd) | [Caitlin Canty](https://open.spotify.com/artist/3QOwPxkPpGvhbiPaEs7Pnl) | [Quiet Flame](https://open.spotify.com/album/2Uyhtk4U9TxSFIIj8dOyZO) | 4:02 |
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0yL7UvjSKZT.md) - [plain]
 | 149 | [Part of Life](https://open.spotify.com/track/0BAVO0LRCe7CZzodzCFmal) | [Josh Oliver](https://open.spotify.com/artist/1SP0JtRy2Am9t3HTswRbrv) | [Part of Life](https://open.spotify.com/album/5QOtllslGWHQJg4u1T6GyD) | 3:06 |
 | 150 | [Easton](https://open.spotify.com/track/7zAYWInWkAiJ72hgpABu3F) | [Rachel Sumner](https://open.spotify.com/artist/5PYJwfdGBtiT2NuH0Z1CqU) | [Rachel Sumner & Traveling Light](https://open.spotify.com/album/4kZeNt7qRwoO8KTOgQ0QTb) | 5:34 |
 
-Snapshot ID: `MCxiODUzMzIwMzEzZmQ2M2MyOTZkNDc2NGU3NTRjYWVjYjZmMGZjYThi`
+Snapshot ID: `MCwyMDllMGE0MTM0YjYwOWNlNmNmMWEzYjdmZDU2YjIyOTNiZDE1NDAw`

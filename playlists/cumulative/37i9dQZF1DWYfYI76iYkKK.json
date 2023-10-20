@@ -113,6 +113,24 @@
     },
     {
       "album": {
+        "name": "Autumn Thoughts",
+        "url": "https://open.spotify.com/album/3WswVTMBhltPrx69ASQlAr"
+      },
+      "artists": [
+        {
+          "name": "Belish\u6c9b\u6c9b",
+          "url": "https://open.spotify.com/artist/0U15L0fBtF3CuBdv9PD7gD"
+        }
+      ],
+      "date_added": "2023-10-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 300000,
+      "name": "Autumn Thoughts",
+      "url": "https://open.spotify.com/track/1MSI7PsokUAHB8DHCYth4O"
+    },
+    {
+      "album": {
         "name": "Back To You",
         "url": "https://open.spotify.com/album/7pIR0hHMAMFyGlcBkryqRw"
       },
@@ -740,7 +758,7 @@
       ],
       "date_added": "2023-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-20",
       "duration_ms": 241893,
       "name": "Sent",
       "url": "https://open.spotify.com/track/5AoKmB6j3YcYqo33AdNUaM"
@@ -1112,6 +1130,24 @@
       "duration_ms": 295000,
       "name": "\u4e0d\u53ec\u4e4b\u81e3 Unrequited Love",
       "url": "https://open.spotify.com/track/1GED9FDaUzIHsBDwy8lzqy"
+    },
+    {
+      "album": {
+        "name": "\u4e0d\u559c\u6b61\u6c92\u6709\u4f60\u7684\u5730\u65b9",
+        "url": "https://open.spotify.com/album/75aDWkYgrA0ZAMEHpPCHeJ"
+      },
+      "artists": [
+        {
+          "name": "Eric Chou",
+          "url": "https://open.spotify.com/artist/5fEQLwq1BWWQNR8GzhOIvi"
+        }
+      ],
+      "date_added": "2023-10-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227269,
+      "name": "\u4e0d\u559c\u6b61\u6c92\u6709\u4f60\u7684\u5730\u65b9",
+      "url": "https://open.spotify.com/track/1R0OkkgvpoIqA0XdU0YSp4"
     },
     {
       "album": {
@@ -1594,7 +1630,7 @@
       ],
       "date_added": "2022-07-28",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-12",
+      "date_removed": null,
       "duration_ms": 266286,
       "name": "\u5047\u7537\u53cb",
       "url": "https://open.spotify.com/track/3EVdjgISSjvMSgPtov1vQX"
@@ -4525,6 +4561,24 @@
     },
     {
       "album": {
+        "name": "\u71b1\u5e36\u591c",
+        "url": "https://open.spotify.com/album/5lzWRb5S7b8VTBjDRGVJyG"
+      },
+      "artists": [
+        {
+          "name": "\u912d\u5c0f\u97fb",
+          "url": "https://open.spotify.com/artist/4L42YvpjP1uK3JzJafg2po"
+        }
+      ],
+      "date_added": "2023-10-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260100,
+      "name": "\u71b1\u5e36\u591c",
+      "url": "https://open.spotify.com/track/0XOZR0YbIHAYN9augG2Bou"
+    },
+    {
+      "album": {
         "name": "\u71e6\u721b\u7684\u4f60 (\u300a\u4e0d\u4e8c\u5144\u5f1f\u300b\u96fb\u5f71\u7247\u5c3e\u66f2)",
         "url": "https://open.spotify.com/album/2kC7kZrH85IxTVS8cB6gLH"
       },
@@ -4774,7 +4828,7 @@
       ],
       "date_added": "2022-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-20",
       "duration_ms": 222266,
       "name": "\u7aca\u7b11",
       "url": "https://open.spotify.com/track/6MLSFfBeiNWxyxjFrBbWom"
@@ -5084,7 +5138,7 @@
       ],
       "date_added": "2023-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-20",
       "duration_ms": 237563,
       "name": "\u83ab\u5fd8\u521d\u8877",
       "url": "https://open.spotify.com/track/0jZse1d0sIzWEDQI74f9KB"
@@ -5546,7 +5600,7 @@
       ],
       "date_added": "2023-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-20",
       "duration_ms": 193548,
       "name": "\u9019\u88e1\u4ec0\u9ebc\u90fd\u6c92\u6709 (\u96fb\u5f71\u300a\u5973\u9b3c\u6a4b 2\uff1a\u6028\u9b3c\u6a13\u300b\u4e3b\u984c\u66f2)",
       "url": "https://open.spotify.com/track/3ATpeBkHEdsZXFa32efrLm"

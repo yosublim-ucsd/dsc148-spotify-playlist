@@ -815,6 +815,28 @@
     },
     {
       "album": {
+        "name": "En Rojaa Neeye (From \"Kushi\") - Single",
+        "url": "https://open.spotify.com/album/06B2tZByNLYFnNJAFVTDsv"
+      },
+      "artists": [
+        {
+          "name": "Hesham Abdul Wahab",
+          "url": "https://open.spotify.com/artist/50iBEPSw6kQ8GQkumXz7XZ"
+        },
+        {
+          "name": "Madhan Karky",
+          "url": "https://open.spotify.com/artist/0MC4IRJmruzbwPInw7vmL7"
+        }
+      ],
+      "date_added": "2023-10-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243947,
+      "name": "En Rojaa Neeye (From \"Kushi\")",
+      "url": "https://open.spotify.com/track/13fsvYMK0cPDgYcWIasc2o"
+    },
+    {
+      "album": {
         "name": "Love Today (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/4thX43Eb58eteV7DriC6H0"
       },

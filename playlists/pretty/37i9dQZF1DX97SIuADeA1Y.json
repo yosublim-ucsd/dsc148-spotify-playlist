@@ -1,12 +1,12 @@
 {
   "description": "The bassline keeps you moving.",
-  "num_followers": 323549,
+  "num_followers": 323657,
   "original_name": "SLAP!",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5ZDgwZDFjOGNhZmViOGM2ZWI2ODdiZDQzNzNkMGM2YzA0MzA1YmY4",
+  "snapshot_id": "MCwzOGM2ZWE0YTUzMzNhYzUxMGM2NGJlMjE1NTg4MzhjOGFmODYzZDgw",
   "tracks": [
     {
       "added_at": "2023-09-08 11:07:56",
@@ -543,30 +543,6 @@
     {
       "added_at": "2023-09-08 11:07:56",
       "album": {
-        "name": "Queen of Kings",
-        "url": "https://open.spotify.com/album/6bEjekJctuBJt6KNSFQOic"
-      },
-      "artists": [
-        {
-          "name": "VARGENTA",
-          "url": "https://open.spotify.com/artist/4hg56haGFxxnKEt3AkW3fo"
-        },
-        {
-          "name": "MITCH DB",
-          "url": "https://open.spotify.com/artist/6fMSq8NSVe1QWRSTiBCxwL"
-        },
-        {
-          "name": "Maxim Schunk",
-          "url": "https://open.spotify.com/artist/0KLoDGhaSkX3k59O9PzniB"
-        }
-      ],
-      "duration_ms": 151415,
-      "name": "Queen of Kings",
-      "url": "https://open.spotify.com/track/5fjTWNXJij0V6JGgcnC61K"
-    },
-    {
-      "added_at": "2023-09-08 11:07:56",
-      "album": {
         "name": "Lady",
         "url": "https://open.spotify.com/album/0hZQmqMGLG95A46E8YoQN3"
       },
@@ -587,6 +563,30 @@
       "duration_ms": 155267,
       "name": "Lady",
       "url": "https://open.spotify.com/track/6ZLSMHpVJf7ZzHttdmROoD"
+    },
+    {
+      "added_at": "2023-09-08 11:07:56",
+      "album": {
+        "name": "Queen of Kings",
+        "url": "https://open.spotify.com/album/6bEjekJctuBJt6KNSFQOic"
+      },
+      "artists": [
+        {
+          "name": "VARGENTA",
+          "url": "https://open.spotify.com/artist/4hg56haGFxxnKEt3AkW3fo"
+        },
+        {
+          "name": "MITCH DB",
+          "url": "https://open.spotify.com/artist/6fMSq8NSVe1QWRSTiBCxwL"
+        },
+        {
+          "name": "Maxim Schunk",
+          "url": "https://open.spotify.com/artist/0KLoDGhaSkX3k59O9PzniB"
+        }
+      ],
+      "duration_ms": 151415,
+      "name": "Queen of Kings",
+      "url": "https://open.spotify.com/track/5fjTWNXJij0V6JGgcnC61K"
     },
     {
       "added_at": "2023-09-08 11:07:56",
@@ -703,6 +703,26 @@
     {
       "added_at": "2023-09-08 11:07:56",
       "album": {
+        "name": "Party All The Time",
+        "url": "https://open.spotify.com/album/3zGETi4jg5TAtkdUogqAxh"
+      },
+      "artists": [
+        {
+          "name": "Braaheim",
+          "url": "https://open.spotify.com/artist/5yczwlOmRZG3wUEtvLiGBg"
+        },
+        {
+          "name": "Masove",
+          "url": "https://open.spotify.com/artist/1SridnvhrGK3S0cfnVcOYR"
+        }
+      ],
+      "duration_ms": 134544,
+      "name": "Party All The Time",
+      "url": "https://open.spotify.com/track/1LBlcDruAKflMoNV0Ue0AK"
+    },
+    {
+      "added_at": "2023-09-08 11:07:56",
+      "album": {
         "name": "Flowers",
         "url": "https://open.spotify.com/album/2EiFRUPsvd47wrQbF5Lfv2"
       },
@@ -727,26 +747,6 @@
     {
       "added_at": "2023-09-08 11:07:56",
       "album": {
-        "name": "Party All The Time",
-        "url": "https://open.spotify.com/album/3zGETi4jg5TAtkdUogqAxh"
-      },
-      "artists": [
-        {
-          "name": "Braaheim",
-          "url": "https://open.spotify.com/artist/5yczwlOmRZG3wUEtvLiGBg"
-        },
-        {
-          "name": "Masove",
-          "url": "https://open.spotify.com/artist/1SridnvhrGK3S0cfnVcOYR"
-        }
-      ],
-      "duration_ms": 134544,
-      "name": "Party All The Time",
-      "url": "https://open.spotify.com/track/1LBlcDruAKflMoNV0Ue0AK"
-    },
-    {
-      "added_at": "2023-09-08 11:07:56",
-      "album": {
         "name": "Another Level (ft. Lovespeake)",
         "url": "https://open.spotify.com/album/2xeEcUG4blN1kzZYfid0Wd"
       },
@@ -763,26 +763,6 @@
       "duration_ms": 145941,
       "name": "Another Level (ft. Lovespeake)",
       "url": "https://open.spotify.com/track/2jSVBVxFFQY15Ce0V8HUH9"
-    },
-    {
-      "added_at": "2023-09-08 11:07:56",
-      "album": {
-        "name": "Baby Steps",
-        "url": "https://open.spotify.com/album/3F3aPvdeNuZRr8HHj2N3UB"
-      },
-      "artists": [
-        {
-          "name": "David Puentez",
-          "url": "https://open.spotify.com/artist/4gSsv9FQDyXx0GUkZYha7v"
-        },
-        {
-          "name": "ISAAK",
-          "url": "https://open.spotify.com/artist/4EsPdQD7LDT8meZpX0MX4p"
-        }
-      ],
-      "duration_ms": 143906,
-      "name": "Baby Steps",
-      "url": "https://open.spotify.com/track/2omzZ5Edn2sMpQxvARgbwj"
     },
     {
       "added_at": "2023-09-08 11:07:56",
@@ -807,6 +787,26 @@
       "duration_ms": 152903,
       "name": "Shooting Darts (with R3HAB & Prezioso)",
       "url": "https://open.spotify.com/track/5yj8QDJ967St7PUG7sFD0n"
+    },
+    {
+      "added_at": "2023-09-08 11:07:56",
+      "album": {
+        "name": "Baby Steps",
+        "url": "https://open.spotify.com/album/3F3aPvdeNuZRr8HHj2N3UB"
+      },
+      "artists": [
+        {
+          "name": "David Puentez",
+          "url": "https://open.spotify.com/artist/4gSsv9FQDyXx0GUkZYha7v"
+        },
+        {
+          "name": "ISAAK",
+          "url": "https://open.spotify.com/artist/4EsPdQD7LDT8meZpX0MX4p"
+        }
+      ],
+      "duration_ms": 143906,
+      "name": "Baby Steps",
+      "url": "https://open.spotify.com/track/2omzZ5Edn2sMpQxvARgbwj"
     },
     {
       "added_at": "2023-09-08 11:07:56",
@@ -959,26 +959,6 @@
     {
       "added_at": "2023-09-08 11:07:56",
       "album": {
-        "name": "Outta Love",
-        "url": "https://open.spotify.com/album/59FlDwNsfaskGibimitsIm"
-      },
-      "artists": [
-        {
-          "name": "David Puentez",
-          "url": "https://open.spotify.com/artist/4gSsv9FQDyXx0GUkZYha7v"
-        },
-        {
-          "name": "TEN TONNE SKELETON",
-          "url": "https://open.spotify.com/artist/1xTbla5aaPQxFEMr11yxTA"
-        }
-      ],
-      "duration_ms": 164704,
-      "name": "Outta Love",
-      "url": "https://open.spotify.com/track/0oLBr0Knuo63yDvnq3f5U3"
-    },
-    {
-      "added_at": "2023-09-08 11:07:56",
-      "album": {
         "name": "Wasting Youth",
         "url": "https://open.spotify.com/album/4X4Tu5rgFpKwk89wkSdCbZ"
       },
@@ -999,6 +979,26 @@
       "duration_ms": 135310,
       "name": "Wasting Youth",
       "url": "https://open.spotify.com/track/5SL2J25JUoQZHJVbR2biXm"
+    },
+    {
+      "added_at": "2023-09-08 11:07:56",
+      "album": {
+        "name": "Outta Love",
+        "url": "https://open.spotify.com/album/59FlDwNsfaskGibimitsIm"
+      },
+      "artists": [
+        {
+          "name": "David Puentez",
+          "url": "https://open.spotify.com/artist/4gSsv9FQDyXx0GUkZYha7v"
+        },
+        {
+          "name": "TEN TONNE SKELETON",
+          "url": "https://open.spotify.com/artist/1xTbla5aaPQxFEMr11yxTA"
+        }
+      ],
+      "duration_ms": 164704,
+      "name": "Outta Love",
+      "url": "https://open.spotify.com/track/0oLBr0Knuo63yDvnq3f5U3"
     },
     {
       "added_at": "2023-09-08 11:07:56",
@@ -1195,26 +1195,6 @@
     {
       "added_at": "2023-09-08 11:07:56",
       "album": {
-        "name": "Fire To Smoke",
-        "url": "https://open.spotify.com/album/5DZveTrXrFJSbYk2xSaADW"
-      },
-      "artists": [
-        {
-          "name": "Tiscore",
-          "url": "https://open.spotify.com/artist/2tOS3f6iaWspDI0WUowsZI"
-        },
-        {
-          "name": "Tiffany Aris",
-          "url": "https://open.spotify.com/artist/4D4y0HNxJLmJBNXQkrVbHo"
-        }
-      ],
-      "duration_ms": 163209,
-      "name": "Fire To Smoke",
-      "url": "https://open.spotify.com/track/0wpEtERZ78hweuJCWD9eAE"
-    },
-    {
-      "added_at": "2023-09-08 11:07:56",
-      "album": {
         "name": "Under the Influence",
         "url": "https://open.spotify.com/album/7GmeY098l16Trs88BcQeDx"
       },
@@ -1235,6 +1215,26 @@
       "duration_ms": 165853,
       "name": "Under the Influence",
       "url": "https://open.spotify.com/track/6nbVuVm0K2Rg4RSkuY63hr"
+    },
+    {
+      "added_at": "2023-09-08 11:07:56",
+      "album": {
+        "name": "Fire To Smoke",
+        "url": "https://open.spotify.com/album/5DZveTrXrFJSbYk2xSaADW"
+      },
+      "artists": [
+        {
+          "name": "Tiscore",
+          "url": "https://open.spotify.com/artist/2tOS3f6iaWspDI0WUowsZI"
+        },
+        {
+          "name": "Tiffany Aris",
+          "url": "https://open.spotify.com/artist/4D4y0HNxJLmJBNXQkrVbHo"
+        }
+      ],
+      "duration_ms": 163209,
+      "name": "Fire To Smoke",
+      "url": "https://open.spotify.com/track/0wpEtERZ78hweuJCWD9eAE"
     },
     {
       "added_at": "2023-09-08 11:07:56",

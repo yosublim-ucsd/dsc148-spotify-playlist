@@ -1704,7 +1704,7 @@
       ],
       "date_added": "2022-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-20",
       "duration_ms": 238889,
       "name": "Mc Mca",
       "url": "https://open.spotify.com/track/0wAgvKKxVwqJghZtNOa4GY"
@@ -2130,6 +2130,28 @@
       "duration_ms": 157360,
       "name": "Pretty Overload",
       "url": "https://open.spotify.com/track/6a2WQeQHhW1xUiIjskV672"
+    },
+    {
+      "album": {
+        "name": "Put On",
+        "url": "https://open.spotify.com/album/2kFKZPI547giFHReFIQ0c8"
+      },
+      "artists": [
+        {
+          "name": "Timmy Blanco",
+          "url": "https://open.spotify.com/artist/1Vn2QDLkrVV4M1Y85dePup"
+        },
+        {
+          "name": "Bout Paper Boyz",
+          "url": "https://open.spotify.com/artist/2EXPwSRAffYH1zNCalvcaB"
+        }
+      ],
+      "date_added": "2023-10-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151685,
+      "name": "Put On",
+      "url": "https://open.spotify.com/track/6Ia18AqCQfxwpjZeRFgiRW"
     },
     {
       "album": {

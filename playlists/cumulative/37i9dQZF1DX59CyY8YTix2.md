@@ -4,7 +4,7 @@
 
 > 国内ロックシーンで活躍する女性アーティストたちを特集。Japanese female rock icons\. Cover: カネヨリマサル \(Kaneyorimasaru\)
 
-1,181 songs - 3 day 2 hr 30 min
+1,183 songs - 3 day 2 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -384,7 +384,7 @@
 | [PARDON?](https://open.spotify.com/track/7l6yDpU2vIDXFQpdEYgpNO) | [Otoboke Beaver](https://open.spotify.com/artist/0HutkALC7kq2L8b9bnZUkq) | [Super Champon](https://open.spotify.com/album/23oUTiqIPyiA42tXNsIzis) | 1:45 | 2023-04-11 | 2023-07-26 |
 | [Passage](https://open.spotify.com/track/7goIf0C8Lxiscu1dcHCytg) | [EOW](https://open.spotify.com/artist/3hufeT9qrBonKU5iZxAeHI) | [Passage](https://open.spotify.com/album/5BvaC9LE6TbiMwRayGOmwa) | 4:37 | 2022-05-31 | 2022-07-05 |
 | [Pathfinder](https://open.spotify.com/track/1mwaY7gt7MnhwmRJOlbuVd) | [Puffy AmiYumi](https://open.spotify.com/artist/2wPaW7JIZGyM16donpyBmW) | [Pathfinder](https://open.spotify.com/album/62D375w5Wa8i2aNuxio3fb) | 4:19 | 2022-05-31 | 2022-07-24 |
-| [Patient!! \- BiSH Ver\. from BiSH THE NEXT \-](https://open.spotify.com/track/3ZiDfWNcvsovd3wH4Dv6GU) | [BiSH](https://open.spotify.com/artist/0ebinq3ZTOQAJNag4sBTJj), [BiSH THE NEXT](https://open.spotify.com/artist/78R2qYXRuOwSNo5WwbHw12) | [Patient!! \- BiSH Ver\. from BiSH THE NEXT \-](https://open.spotify.com/album/13oTb3UmeItwgyFIKiGbew) | 2:38 | 2023-05-30 |  |
+| [Patient!! \- BiSH Ver\. from BiSH THE NEXT \-](https://open.spotify.com/track/3ZiDfWNcvsovd3wH4Dv6GU) | [BiSH](https://open.spotify.com/artist/0ebinq3ZTOQAJNag4sBTJj), [BiSH THE NEXT](https://open.spotify.com/artist/78R2qYXRuOwSNo5WwbHw12) | [Patient!! \- BiSH Ver\. from BiSH THE NEXT \-](https://open.spotify.com/album/13oTb3UmeItwgyFIKiGbew) | 2:38 | 2023-05-30 | 2023-10-20 |
 | [PEACE&LOVE](https://open.spotify.com/track/5jNlUYqa30ObfBlzQTx4NI) | [cluppo](https://open.spotify.com/artist/0Hb4LfqZcAmGidmZJJzG2v) | [PEACE&LOVE/Flapping wings](https://open.spotify.com/album/5Cxu4fYWSh4ZqyUyPYy4gt) | 3:10 | 2022-07-14 | 2022-07-21 |
 | [Peep song](https://open.spotify.com/track/3YbO7N66pwaB3yxVQFjrXb) | [KUNG\-FU GIRL](https://open.spotify.com/artist/6BqS4eIwAiTHOtK1f4Rs1V) | [Peep song](https://open.spotify.com/album/5PSNHPbRj7MiF5gmJZxqs2) | 2:54 | 2022-06-02 | 2022-06-07 |
 | [pet](https://open.spotify.com/track/6GtIJouvgsWMPK1bjjRaiu) | [THE 118's](https://open.spotify.com/artist/2R1jsctVv0kiFjq9qz1Zym) | [pet](https://open.spotify.com/album/04RCPjfEdsY06g0MF0Hlgx) | 3:44 | 2022-06-23 | 2022-06-26 |
@@ -525,7 +525,7 @@
 | [Timeless Melody \- Album Ver.](https://open.spotify.com/track/6ZL95Gf3zyUx0PZrxbwZfX) | [Subway Daydream](https://open.spotify.com/artist/4Iiidb9Wqw3kMFVEMxtEyf) | [Ride](https://open.spotify.com/album/0fk8yp59UfhdKnRp9o7cvC) | 2:09 | 2023-01-17 | 2023-03-08 |
 | [tongue tongue](https://open.spotify.com/track/1xSx79gebsZE0VRMZmEDjp) | [のうへる](https://open.spotify.com/artist/2MLPWo466NGMWC4EcFPLsj) | [のうへる\#1](https://open.spotify.com/album/6nJZw4c4BL8GLvBib2xB1u) | 3:41 | 2022-05-31 | 2022-06-30 |
 | [Tonight](https://open.spotify.com/track/2yBA5e6jeGs7RIkFVJLIMr) | [Living Rita](https://open.spotify.com/artist/0ekt0GY3EGCsVugNHfBkHJ) | [Tonight](https://open.spotify.com/album/3rtFcwP8OWzESxLvtdghtB) | 5:10 | 2022-07-07 | 2022-07-12 |
-| [TOUSOU](https://open.spotify.com/track/5062X2MkfiRzOQYuwRt4SN) | [花冷え。](https://open.spotify.com/artist/4N2I7VsF86h59tbsvVoB1h) | [TOUSOU](https://open.spotify.com/album/50kJ5FvdMfhDsRcGHYRk3X) | 2:51 | 2023-06-20 |  |
+| [TOUSOU](https://open.spotify.com/track/5062X2MkfiRzOQYuwRt4SN) | [花冷え。](https://open.spotify.com/artist/4N2I7VsF86h59tbsvVoB1h) | [TOUSOU](https://open.spotify.com/album/50kJ5FvdMfhDsRcGHYRk3X) | 2:51 | 2023-06-20 | 2023-10-20 |
 | [Trash into the Sea \- re\-arranged by JunIzawa](https://open.spotify.com/track/6hou4tFkkHdzWqVpYyKL1z) | [miida](https://open.spotify.com/artist/6ANBWTINO0TqbV5fZMGVLX), [JunIzawa](https://open.spotify.com/artist/7784zrMh7ieZT0RZJgxV9I) | [Trash into The Sea \(re\-arranged by JunIzawa\)](https://open.spotify.com/album/0jYL5BHGkwG5nss3ajyTO9) | 4:20 | 2022-05-31 | 2022-06-15 |
 | [Tremolo](https://open.spotify.com/track/3kIFJsq83ecH3ingfUXVMZ) | [Chilli Beans.](https://open.spotify.com/artist/48apiuEaHdddhdRvfFjPB7) | [Daydream](https://open.spotify.com/album/7djGvLAgTKtlV9s9MXAXkV) | 3:11 | 2022-05-26 | 2022-07-29 |
 | [Tsuki ga Namida o Nagasuyoru](https://open.spotify.com/track/2wiFirrejFmndoqcCupcmF) | [Maica\_n](https://open.spotify.com/artist/5MDud7grDjx8ISAmWjLFeM) | [Tsuki ga Namida o Nagasuyoru](https://open.spotify.com/album/1TnIqeOXBIJMLTz22atSjq) | 3:39 | 2022-10-04 | 2022-10-19 |
@@ -672,6 +672,7 @@
 | [むてきのふたり](https://open.spotify.com/track/0hFOqosdZMOwyD4djEXRRg) | [the pullovers](https://open.spotify.com/artist/4DD2vjKX6FOZPgE0WbedXu) | [むてきのふたり](https://open.spotify.com/album/5ViSPjtzh45sdQsyC6Q03C) | 4:27 | 2023-01-17 | 2023-01-28 |
 | [め](https://open.spotify.com/track/0i5XBuAgDeGOH69pStboEW) | [ニューヤナセ](https://open.spotify.com/artist/4JyYJ2F9QIGXEE0j8bWepn) | [め](https://open.spotify.com/album/155FtxCoW6Go9Dl3NywQ6L) | 4:12 | 2022-06-07 | 2022-07-12 |
 | [めちゃポップ](https://open.spotify.com/track/52PMjLS9Em5sHsqklGPyzs) | [peanut butters](https://open.spotify.com/artist/54hEgY8Ut3i0OriX1fELbP) | [めちゃポップ](https://open.spotify.com/album/7p84GlLOFRtbcK3kxL4t4C) | 3:03 | 2022-05-26 | 2022-07-21 |
+| [めっちゃ走れ！リンネ](https://open.spotify.com/track/7ot1zXqjNccKV3whRINMPd) | [輪廻](https://open.spotify.com/artist/3KePD29FOQughZmXqHlt0v) | [めっちゃ走れ！リンネ](https://open.spotify.com/album/3e9yIJBmK8QdYDazSVw1qV) | 1:34 | 2023-10-19 |  |
 | [もしも](https://open.spotify.com/track/6xjv5IO0w8RI0WxuyLgXTT) | [Kaneyorimasaru](https://open.spotify.com/artist/5h5smZjPHUEDyYNuafjehf) | [かけがえなくなりたい](https://open.spotify.com/album/3CXoNGReKnWAudiXJwKALd) | 5:40 | 2022-06-14 | 2022-07-12 |
 | [やさしい怪物 feat\. 泣き虫](https://open.spotify.com/track/57RVe3PQDsOZHAIzVmwB3G) | [黒子首](https://open.spotify.com/artist/56pKIRNnzK6xCW508ohOo3), [Nakimushi](https://open.spotify.com/artist/2zv25U5N7QyNcn8I9kzZVn) | [やさしい怪物 feat\. 泣き虫](https://open.spotify.com/album/3vggBvyxFXRR6xCnkRxmRR) | 3:05 | 2022-05-31 | 2022-08-18 |
 | [ゆきさき](https://open.spotify.com/track/42vTTzG2N5A4genT0T0jGW) | [バウンダリー](https://open.spotify.com/artist/3WrFAQo5JpE89ynQIvouXC) | [ゆきさき](https://open.spotify.com/album/6fiL4oRAIl0pl8u5s0V9LW) | 3:30 | 2023-02-28 | 2023-03-02 |
@@ -803,6 +804,7 @@
 | [ハルノイデア](https://open.spotify.com/track/5taXM8Qw7JsuRGEHrYqadB) | [the blue hour](https://open.spotify.com/artist/7n1YSR5QaTKJ1kOQZuWCpP) | [annulus](https://open.spotify.com/album/1MGtkzzZQy6RDyjJkjAYAS) | 4:07 | 2022-06-07 | 2022-06-13 |
 | [ハートにティーン](https://open.spotify.com/track/06pArvncZpFTtja75xD8pG) | [Lady Flash](https://open.spotify.com/artist/0qCQsJMletua7H8PGqrZbR) | [どこにもいけないドア](https://open.spotify.com/album/7zzjaKRuiTXhlLKS1miIz9) | 3:06 | 2023-01-10 | 2023-01-25 |
 | [ハートのSEASON](https://open.spotify.com/track/4ECsu2hg43OGpgafFRuIhe) | [太田貴子](https://open.spotify.com/artist/36OGxNSKeYNF8epyYkiF4T) | [Voice of Angel](https://open.spotify.com/album/4bxxHa7fJ7HWKbNFcUPgZK) | 3:34 | 2022-06-16 | 2022-06-24 |
+| [バイバイヒーロー](https://open.spotify.com/track/5tMptuJ28ZseN6KFoFh8aW) | [こぶたのぶうぶうず](https://open.spotify.com/artist/6jx0JWfjAeXKGfx6MlTpgN) | [バイバイヒーロー](https://open.spotify.com/album/4emP64hdDOk51X15gCZWbK) | 4:56 | 2023-10-19 |  |
 | [バジリコ](https://open.spotify.com/track/2zwqBVbPizLtqsNNUqY8QW) | [PASSEPIED](https://open.spotify.com/artist/115IWAVy4OTxhE0xdDef1c) | [バジリコ](https://open.spotify.com/album/6mU8UJD5EGdn2lVmFzdYI4) | 3:08 | 2023-06-06 | 2023-06-14 |
 | [バッドリピートエンド](https://open.spotify.com/track/0647L6JfnQWufikSR6AabW) | [35.7](https://open.spotify.com/artist/0r2fuN8lNQF4p6KRgxCVnP) | [バッドリピートエンド](https://open.spotify.com/album/2PflW869EJaNYuPaHgK6gq) | 3:17 | 2023-04-20 | 2023-06-28 |
 | [バトルカメ](https://open.spotify.com/track/3VUs83asTlXKRp8Q1T1bmi) | [板歯目](https://open.spotify.com/artist/5DlTKCtag7pyzHlED3IGad) | [バトルカメ](https://open.spotify.com/album/2hpvAXCw3KkAk16HvjMnOZ) | 3:34 | 2022-06-07 | 2022-06-15 |

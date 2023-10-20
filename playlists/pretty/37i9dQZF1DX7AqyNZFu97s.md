@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7AqyNZFu97s.md) - [plain]
 
 > The best new music by independent artists in the UK + Ireland\. Cover: Lauren Dejey & JUST OSKA
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,775 likes - 80 songs - 4 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,781 likes - 80 songs - 4 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,7 +33,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7AqyNZFu97s.md) - [plain]
 | 23 | [Morally Grey](https://open.spotify.com/track/0OKMe15oWhcOevZ2hggnrG) | [April Jai](https://open.spotify.com/artist/2TUSOcgYseNtC3VosDywhQ) | [Morally Grey](https://open.spotify.com/album/4YK4WI5ly7gIQDNF01iaFE) | 2:42 |
 | 24 | [Poster Boy](https://open.spotify.com/track/2RT7X1L7IyJ6WBQC3ILRYz) | [Beljune](https://open.spotify.com/artist/6CJ0rqL7mweAPMxGSnB0mI) | [Poster Boy](https://open.spotify.com/album/0QZhtTXgrfLJSzzpRCvaxu) | 3:37 |
 | 25 | [nothing bad will ever happen to me](https://open.spotify.com/track/7w3GtUBAAqn4e8BI8R2Da3) | [rEDOLENT](https://open.spotify.com/artist/19rA63hvJkczptt2FWeneT) | [nothing bad will ever happen to me](https://open.spotify.com/album/4q8x1qZWpRpGCX91PHn8LT) | 2:39 |
-| 26 | [Super College Kids](https://open.spotify.com/track/61EDR55pz7hJIAjXF0qsdW) | [Tom Abisgold](https://open.spotify.com/artist/56YDHr494F1EXhj6Tm2EHQ) | [Super College Kids](https://open.spotify.com/album/17uMEmQvEAIhgTJRhBPGFU) | 4:14 |
+| 26 | [super college kids](https://open.spotify.com/track/61EDR55pz7hJIAjXF0qsdW) | [Tom Abisgold](https://open.spotify.com/artist/56YDHr494F1EXhj6Tm2EHQ) | [super college kids](https://open.spotify.com/album/17uMEmQvEAIhgTJRhBPGFU) | 4:14 |
 | 27 | [I Don’t](https://open.spotify.com/track/0R4GKfUbNQLp9bRYSE4HuV) | [RubyLi](https://open.spotify.com/artist/001uhXbkfYtvDUDLPWa5cq) | [I Don’t](https://open.spotify.com/album/16193D8F6EGaVfhlu5N7RK) | 2:23 |
 | 28 | [Made Me This Way](https://open.spotify.com/track/7bTh2RIAdaNob6tZTXxw24) | [Laura Davidson](https://open.spotify.com/artist/09HoJ8gs0b933TzQs0qvKf) | [Made Me This Way](https://open.spotify.com/album/7IqG3BT4MbGBdgoACs72Ok) | 2:34 |
 | 29 | [Open Ended](https://open.spotify.com/track/5SlEyBuGTGWvCCY7igLmny) | [Holly Munro](https://open.spotify.com/artist/2n9jieS7R5I7zRVKoYTziq) | [Open Ended](https://open.spotify.com/album/0ofMe7xxj2EZiFR9YVmBrw) | 3:24 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7AqyNZFu97s.md) - [plain]
 | 79 | [Memory](https://open.spotify.com/track/3VcqPv1b86jzRehX2Zp9kh) | [Flourish](https://open.spotify.com/artist/5FyEVZanhJH5rwTLxKrmJ7), [Issac Frank](https://open.spotify.com/artist/5WO9zC3eugins48Y4ERwAj) | [Memory](https://open.spotify.com/album/6YEKFQbcHqoNMmRoDzqZae) | 2:45 |
 | 80 | [Let Me Fall](https://open.spotify.com/track/2bEso4XPpdXo9wZ0HibrmX) | [Max Reece](https://open.spotify.com/artist/5MDdLRBK1NF9BFyJWL1qkN), [Maia Harper](https://open.spotify.com/artist/40UDWuI1a2kpO2qLucwkmU) | [Let Me Fall](https://open.spotify.com/album/0mtv46mVkEVAF218LJfVF2) | 2:18 |
 
-Snapshot ID: `MCw3YWNhODY5NjhhY2Y2N2U2NmM3NTQ2YWE3ZmM4NzNjNDNkOWIwNTUz`
+Snapshot ID: `MCwxZDlkMjFjNDE2MDI4ZjdhOTNiMDhhNDU0MmI3NGMxNWE1YzRmYzNm`

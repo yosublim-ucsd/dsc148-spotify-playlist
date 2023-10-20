@@ -1962,6 +1962,28 @@
     {
       "album": {
         "name": "Persona",
+        "url": "https://open.spotify.com/album/7cZB2w7ju8vYRGzTSJ1H1v"
+      },
+      "artists": [
+        {
+          "name": "Marracash",
+          "url": "https://open.spotify.com/artist/5AZuEF0feCXMkUCwQiQlW7"
+        },
+        {
+          "name": "Madame",
+          "url": "https://open.spotify.com/artist/1vgQksyJ0IVz8y9XerEOy3"
+        }
+      ],
+      "date_added": "2023-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221631,
+      "name": "MADAME - L'anima",
+      "url": "https://open.spotify.com/track/0uAnrNNITY7KwmOqdVEsIK"
+    },
+    {
+      "album": {
+        "name": "Persona",
         "url": "https://open.spotify.com/album/3ZOt77e63uMgJXU7xcFpqu"
       },
       "artists": [
@@ -3350,7 +3372,7 @@
       ],
       "date_added": "2023-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-20",
       "duration_ms": 240240,
       "name": "Un attimo ancora",
       "url": "https://open.spotify.com/track/0rork59Tm6wKPD4SMTay1n"

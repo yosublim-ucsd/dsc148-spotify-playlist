@@ -4,7 +4,7 @@
 
 > Photo: KeBlack
 
-46 songs - 2 hr 18 min
+47 songs - 2 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -43,6 +43,7 @@
 | [RS5](https://open.spotify.com/track/00GSNnSxVhNlQiJwuRGIGr) | [Benab](https://open.spotify.com/artist/0qO3t2MHM5NIEJ5fw9VndY), [Timal](https://open.spotify.com/artist/2ptKt4yP4mYRZmvi09JYyi) | [Drapeau Blanc](https://open.spotify.com/album/1iLGxODx0ibLx8EFpZOAQu) | 2:56 | 2023-09-28 |  |
 | [Rêves de gosse](https://open.spotify.com/track/6vmIRK3rnKhfiCo0fLb2UL) | [Sasso](https://open.spotify.com/artist/35B6bq5keTR1PYEahq1TAF) | [Rêves de gosse](https://open.spotify.com/album/0lKIcj2OM4dsPqrqowKqju) | 2:34 | 2023-09-28 |  |
 | [Saiyan](https://open.spotify.com/track/63jpYDOn7xGEPzpUxViZu2) | [Heuss L'enfoiré](https://open.spotify.com/artist/3YwqjMyrRfuixi2pbgTGCE), [Gazo](https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I) | [Saiyan](https://open.spotify.com/album/2wqGRwfRnCTVPVFf9RimRK) | 3:09 | 2023-09-28 |  |
+| [Salsa](https://open.spotify.com/track/6Sn4DF082OidVgKmF2IJSo) | [HDX](https://open.spotify.com/artist/7GxsVvE196y7ZQKRmhyEY6) | [Salsa](https://open.spotify.com/album/1dHwor6ZgMyqwNCb6gxx4x) | 2:36 | 2023-10-19 |  |
 | [Se Grita](https://open.spotify.com/track/55Q180Og5mkW2XeGPjB7yn) | [Morad](https://open.spotify.com/artist/4az97MtWmBQ5Db3GfDh9j9), [Jul](https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy) | [Reinsertado](https://open.spotify.com/album/6h5tdNdOnnFL6zbeMeeqdk) | 4:19 | 2023-09-28 |  |
 | [Seya](https://open.spotify.com/track/5EVY9jwZDhgyLDyNGCGWYh) | [SativaMusic](https://open.spotify.com/artist/6p46LxMXeRu3FRYN4tK5Lv), [Morad](https://open.spotify.com/artist/4az97MtWmBQ5Db3GfDh9j9), [GIMS](https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK) | [Seya](https://open.spotify.com/album/2VJcmi0iisyLekBIgoKKvw) | 3:08 | 2023-10-05 |  |
 | [T'as capté \(feat\. Bryan Mg\)](https://open.spotify.com/track/1qStFguolAbU8pPFoZu8xy) | [Lyna Mahyem](https://open.spotify.com/artist/0Yj3N31EWXHc6e3eDyJPLP), [Bryan Mg](https://open.spotify.com/artist/1PyToLP6F2rzV0ZSR71lgl) | [T'as capté \(feat\. Bryan Mg\)](https://open.spotify.com/album/1sluSODxoTSXYJbLJVl4uB) | 2:51 | 2023-09-28 | 2023-10-06 |
@@ -53,6 +54,6 @@
 | [VIDA LOCA](https://open.spotify.com/track/3m4e1Cr5hTz4iF2bU9QTz6) | [Dinor rdt](https://open.spotify.com/artist/3RJNCnIkqvVwEicgGo2nqJ), [Vegedream](https://open.spotify.com/artist/4eYnorQRhVHT2KBl2UyHHd) | [VIDA LOCA](https://open.spotify.com/album/19SQT2btnkRb7De5XkfpLM) | 2:49 | 2023-09-28 |  |
 | [VNTR](https://open.spotify.com/track/7C3F77AkLpgs2of59VGJYd) | [RK](https://open.spotify.com/artist/2s7fZ34RK8RUJQ2ewsh6I5) | [VNTR](https://open.spotify.com/album/2IZ78EPVEqj7f7KTiQ9hUV) | 3:38 | 2023-09-28 |  |
 | [Y Dor](https://open.spotify.com/track/4m4MwgqsswdG67P8SsQEii) | [Soolking](https://open.spotify.com/artist/0GgY7hjMoGDsX8ZDe2mwds), [Unleaded](https://open.spotify.com/artist/3zWMcT8MOIAnQMbGFmMFun), [DYSTINCT](https://open.spotify.com/artist/1cKyknhftNKXCjMBd2hDrG) | [Y Dor](https://open.spotify.com/album/5qfEAZy6hAgoH7uexHM8vR) | 2:25 | 2023-09-28 |  |
-| [Zéro Soucis](https://open.spotify.com/track/0eDyUBPdPjS5t2IapdVYim) | [Mkz](https://open.spotify.com/artist/738mFNWDY41RIA4TNT57Dp) | [Zéro Soucis](https://open.spotify.com/album/1ko9mdCInvVZpHv8yeuVUl) | 2:52 | 2023-09-28 |  |
+| [Zéro Soucis](https://open.spotify.com/track/0eDyUBPdPjS5t2IapdVYim) | [Mkz](https://open.spotify.com/artist/738mFNWDY41RIA4TNT57Dp) | [Zéro Soucis](https://open.spotify.com/album/1ko9mdCInvVZpHv8yeuVUl) | 2:52 | 2023-09-28 | 2023-10-20 |
 
 \*This playlist was first scraped on 2023-09-29. Prior content cannot be recovered.

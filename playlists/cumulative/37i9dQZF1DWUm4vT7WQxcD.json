@@ -2239,6 +2239,24 @@
     },
     {
       "album": {
+        "name": "Fan Pushing Air",
+        "url": "https://open.spotify.com/album/2O3nJmFMJx4ctT1AAuO0LX"
+      },
+      "artists": [
+        {
+          "name": "Robins Sound",
+          "url": "https://open.spotify.com/artist/7kWBfpJPJPpsFTsCD6C5Pv"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154200,
+      "name": "Fan Pushing Air",
+      "url": "https://open.spotify.com/track/7y2EoXFWBRPCv4i4KRyRYl"
+    },
+    {
+      "album": {
         "name": "Fan Room",
         "url": "https://open.spotify.com/album/4H4e6LRZkzIfyFd0cFOdm2"
       },
@@ -2524,7 +2542,7 @@
       ],
       "date_added": "2022-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-20",
       "duration_ms": 216483,
       "name": "Heat pump fan",
       "url": "https://open.spotify.com/track/1iNJRY6ycCPmxllaZN0R77"
@@ -2848,7 +2866,7 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-20",
       "duration_ms": 187200,
       "name": "Noise For Inner Peace",
       "url": "https://open.spotify.com/track/1HCnXHUQlW2AAEnwjJPGUU"
@@ -3462,7 +3480,7 @@
       ],
       "date_added": "2023-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-20",
       "duration_ms": 168000,
       "name": "Sleep Fan",
       "url": "https://open.spotify.com/track/6mhcE0Yjn7cv8IvhVXBvmY"

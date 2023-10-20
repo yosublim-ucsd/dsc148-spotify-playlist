@@ -872,7 +872,7 @@
       ],
       "date_added": "2018-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-20",
       "duration_ms": 299706,
       "name": "Hager Alegn",
       "url": "https://open.spotify.com/track/2p3jtfV6Zq0aegDj1Mpbm8"
@@ -1704,6 +1704,24 @@
       "duration_ms": 237333,
       "name": "Wetat",
       "url": "https://open.spotify.com/track/4bmybzAerSejzAKr5KTJCj"
+    },
+    {
+      "album": {
+        "name": "Am\u00e9n (The Nomad\u2019s Dream)",
+        "url": "https://open.spotify.com/album/0BBWvsze1fTh8HS6kKQjiD"
+      },
+      "artists": [
+        {
+          "name": "Berhana",
+          "url": "https://open.spotify.com/artist/0WjtdWS6su0f3jrW9aqEHl"
+        }
+      ],
+      "date_added": "2023-10-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157213,
+      "name": "Wow!",
+      "url": "https://open.spotify.com/track/0F95C4z2gQJ8NigLuO4z4u"
     },
     {
       "album": {

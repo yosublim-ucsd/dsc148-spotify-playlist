@@ -4,7 +4,7 @@
 
 > Soothing, minimalist ambient for deep sleep.
 
-457 songs - 22 hr 40 min
+460 songs - 22 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -111,6 +111,7 @@
 | [Cynefin](https://open.spotify.com/track/1C9e2HhO9qpMYl1FYg5yBZ) | [Chieloka](https://open.spotify.com/artist/3IBhxjT8AiBiz7DpMUEjEj) | [Cynefin](https://open.spotify.com/album/1GeP88hFXR90DgXtU860ov) | 3:23 | 2021-11-10 |  |
 | [D'une Certaine Distance](https://open.spotify.com/track/3bUaSIfWsg01lqJW9O5JCS) | [Aintzane Martzel](https://open.spotify.com/artist/48LwBBG7FfBjBUjGdaRCiO) | [D'une Certaine Distance](https://open.spotify.com/album/1XHuFjN6JmqlzCfZ91KRAh) | 2:51 | 2021-11-10 | 2023-05-06 |
 | [Dachaigh](https://open.spotify.com/track/7BqlHggYnNB26lfAw6y7Ch) | [Cadhla Byrne](https://open.spotify.com/artist/73717wA5LNgbEDtJ2lqSW1) | [Dachaigh](https://open.spotify.com/album/2UnxVf2gBHvYG9GvfGYWPw) | 3:17 | 2021-11-10 |  |
+| [Dancing Thoughts](https://open.spotify.com/track/79rm3OdsYXQwDZTQOdLU9M) | [Peaceful Storm](https://open.spotify.com/artist/1F9BGQRXydW5pf28ukNEkm) | [Dancing Thoughts](https://open.spotify.com/album/6KGNRJTcnjJ4x8KplkHd32) | 3:09 | 2023-10-20 |  |
 | [Dans Mes Rèves](https://open.spotify.com/track/5rnWDfjlHA2OVtes6J2RF7) | [Ervin Alba](https://open.spotify.com/artist/3gBRdpF4cFeZPXkvp0R1LQ) | [Dans Mes Rèves](https://open.spotify.com/album/1FEBGcOFl7kr7zf1GOK0rH) | 2:32 | 2022-06-16 |  |
 | [Decipio](https://open.spotify.com/track/6yIapt71wzgrXfUVpaQoiT) | [Palaestrio](https://open.spotify.com/artist/5sXyHDr8pH922zvnRRLCb4) | [Decipio](https://open.spotify.com/album/6UMkRmzBaWDK89m3qVaEoE) | 3:20 | 2023-10-13 |  |
 | [Deep Dive](https://open.spotify.com/track/5XpGnwCqMlGFi1x4YdlKFE) | [Ambienetic](https://open.spotify.com/artist/68sYM79L5H6v9c3x6IC0XD) | [Deep Dive](https://open.spotify.com/album/5QAkFwDV1ZSsxC1XyVu0sG) | 2:41 | 2021-11-10 |  |
@@ -310,6 +311,7 @@
 | [Orphic](https://open.spotify.com/track/6KyPQhcAuRJxeq0Rwab6Jk) | [The Nowhows](https://open.spotify.com/artist/0yv3AGgMUbIJR6DROh35j1) | [Orphic](https://open.spotify.com/album/0MrCJsyAgkx4K5aJmvfIMA) | 3:00 | 2022-09-13 |  |
 | [Panacea](https://open.spotify.com/track/09f1jQrl37fb3ZYoYBHVl9) | [Lyla Perez\-Vega](https://open.spotify.com/artist/0VWtwOJIkPQtVfH1JtQEic) | [Panacea](https://open.spotify.com/album/7Gf1shdQhSkxVu5GtXdLob) | 3:42 | 2022-01-28 |  |
 | [Panalipa Bisignatus](https://open.spotify.com/track/6LjyIMfDZkn2uY2sLM6Hdk) | [Sir Martin Walker](https://open.spotify.com/artist/5Bnqn1xdZlNk13QC9gc5Tu) | [Panalipa Bisignatus](https://open.spotify.com/album/77syYrRA3qfOI8bUmu1Hez) | 3:56 | 2021-11-10 | 2023-08-12 |
+| [Paradox](https://open.spotify.com/track/5Y3UEfhQaXy2Iy5Hv2fJvc) | [Dótira](https://open.spotify.com/artist/28cLenuWuw1qNrnHDUHbr8) | [Paradox](https://open.spotify.com/album/6yzFtuNu7WopvMMWvgi7Eu) | 3:04 | 2023-10-20 |  |
 | [Paralian](https://open.spotify.com/track/2tEsGZfscyYYnHF7exJFIA) | [Valérian Christophe](https://open.spotify.com/artist/6SCBzE0YewrwW07e57yvqv) | [Paralian](https://open.spotify.com/album/25dxQmc3QBjDRrUENzXkHo) | 2:35 | 2022-04-01 |  |
 | [Passages](https://open.spotify.com/track/5VzaFU0O3pTmG3fnjs0Ff0) | [Kim Nalah](https://open.spotify.com/artist/3EY39ZsyVU9c2Uw17ILmcJ) | [Passages](https://open.spotify.com/album/4XZCuM5CJRMMAvV1apBvXH) | 3:01 | 2023-09-29 |  |
 | [Passing Through](https://open.spotify.com/track/3clWNXDjKPbqvGviyo1Asg) | [Flying Rivers](https://open.spotify.com/artist/0dpYklrmz6pA7Yc3w48IPk) | [Millons of Trees](https://open.spotify.com/album/4RPxiQwUYBFwoXjLrpkNwl) | 2:33 | 2021-11-10 | 2023-09-09 |
@@ -353,6 +355,7 @@
 | [Runic Inscriptions on Parapets](https://open.spotify.com/track/5Zlpz6ITS8QTfmFY9RUT4F) | [Old Norse](https://open.spotify.com/artist/0mF2EOEFiENizRK7E4ybuX) | [Hall in Bonn](https://open.spotify.com/album/6pTkaZaATdn52njMTppf6u) | 3:12 | 2021-11-10 |  |
 | [Rêves](https://open.spotify.com/track/6RcqLuGZa6qzLEX5v5pAAH) | [Michèle Bastien](https://open.spotify.com/artist/4bQ7FkaUmaSF3mVLSba0F2) | [Rêves](https://open.spotify.com/album/3eF3T0tqfSALcDpR6dvOqI) | 2:18 | 2022-03-24 |  |
 | [Safety](https://open.spotify.com/track/3EcvMo6Td4Kuv05GMNXZrs) | [Gabriel Verci](https://open.spotify.com/artist/5fwefxhrUGOhSbrg5GfIF1) | [Mindful](https://open.spotify.com/album/3feONECTQLJQie9tsNFuX5) | 2:48 | 2022-06-24 |  |
+| [Salve](https://open.spotify.com/track/7MZN4HZBax3kXmn4XX0J2i) | [Lidia Peralta](https://open.spotify.com/artist/7uzvpSnBNJJABrXvCNKy80) | [Salve](https://open.spotify.com/album/4viiLqGVcL9qE3u6gQy1d8) | 3:06 | 2023-10-20 |  |
 | [Sanam](https://open.spotify.com/track/2SBaU2ShGWoAYDDqIi8LwG) | [Haldur](https://open.spotify.com/artist/4YtWA8Xtf6Qj764Q1xGfEx) | [Sanam](https://open.spotify.com/album/0lYU4WGw36TjLhOxf3yl7i) | 2:22 | 2022-08-23 |  |
 | [Santonana](https://open.spotify.com/track/0r60hv2JqbAk5SsaIrFu7r) | [Mellow Dreamer](https://open.spotify.com/artist/7cSenDphuZem2nLqSAOxBj) | [Santonana](https://open.spotify.com/album/7x5QB5SscxxWlaHm5zEWqS) | 3:30 | 2022-06-16 |  |
 | [Saturated Evenings](https://open.spotify.com/track/7oigJ0Iei2PLS2vwA3gnib) | [Mao\-Li](https://open.spotify.com/artist/2qIOoLj6ilaacPexeiw7RW) | [Saturated Evenings](https://open.spotify.com/album/7eJEukYUhvEnLJMH9z3e9c) | 3:37 | 2021-11-10 |  |

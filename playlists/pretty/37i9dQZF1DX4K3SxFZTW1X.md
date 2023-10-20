@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4K3SxFZTW1X.md) - [plain]
 
 > Sophisticated palates only\. Curated by: <a href="https://www.instagram.com/colebennett/">Cole Bennett</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,246 likes - 50 songs - 2 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,435 likes - 50 songs - 2 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,7 +47,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4K3SxFZTW1X.md) - [plain]
 | 37 | [COOLEST MONKEY IN THE JUNGLE](https://open.spotify.com/track/1D23GEeQ32aqLw5ZnY3Ivp) | [Ski Mask The Slump God](https://open.spotify.com/artist/2rhFzFmezpnW82MNqEKVry), [SahBabii](https://open.spotify.com/artist/7GuUYiGZOzQwq4L6gAfy1T) | [BEWARE THE BOOK OF ELI](https://open.spotify.com/album/2hdRJLsW5qdvVZ0yaYpqO4) | 2:32 |
 | 38 | [Arya \(feat\. A$AP Rocky\)](https://open.spotify.com/track/0Rq6JJwpZ9f1SU6Cfhgjv7) | [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca), [Nigo](https://open.spotify.com/artist/2rAnv6brcXaglLZBB4XXEn) | [Arya](https://open.spotify.com/album/4r58Om6YuN9gjnHim6y6mg) | 2:42 |
 | 39 | [LOSTINTHESAUCE!](https://open.spotify.com/track/4UrhaZoY8i1UHS4sDwKZqs) | [Kelo Of Dopeness](https://open.spotify.com/artist/6RADOfHOIkKxfQh1k5qnBb), [KAIDONTRAP](https://open.spotify.com/artist/1X34xldpZR6jPUuSliwjRZ), [CP](https://open.spotify.com/artist/4yyJIkmo80mhEQXr8DF2ub) | [DRUGSAREBAD!](https://open.spotify.com/album/2O7CKQadngZ5wkfnOSoB9R) | 4:07 |
-| 40 | [94 Camry Music](https://open.spotify.com/track/1l4667RlKg7diD6P1Dz9aL) | [femdot.](https://open.spotify.com/artist/7aGhkUVp7V3klWfTFe7AHS) | [94 Camry Music](https://open.spotify.com/album/77p3lCX2yWzyLqCV3v8yJF) | 3:41 |
+| 40 | [94 Camry Music](https://open.spotify.com/track/29BXvdSR0ucyQ4m6WwdHRh) | [femdot.](https://open.spotify.com/artist/7aGhkUVp7V3klWfTFe7AHS) | [94 Camry Music](https://open.spotify.com/album/1tDSPAhxUETud8hNjFELcr) | 3:41 |
 | 41 | [if looks could kill](https://open.spotify.com/track/1cdqNRXIRrvT4HnApj6yw6) | [Destroy Lonely](https://open.spotify.com/artist/1HPW4jeRjXBFRoUnSvBzoD) | [if looks could kill](https://open.spotify.com/album/1lbRv6yB7ZI2MuoGG9io6E) | 3:14 |
 | 42 | [What I Got](https://open.spotify.com/track/3B4q6KbHbGV51HO3GznBFF) | [Sublime](https://open.spotify.com/artist/0EdvGhlC1FkGItLOWQzG4J) | [Sublime](https://open.spotify.com/album/14eK347GdWO4mBBx78tsut) | 2:50 |
 | 43 | [Same Shit](https://open.spotify.com/track/1Cnhozh8HGlwvpe8ENMuvA) | [Warhol.SS](https://open.spotify.com/artist/3O7mUqVuHmLJqHXbFiQY62) | [3200](https://open.spotify.com/album/65BoRgyRssY9yJTiAZQHO0) | 2:48 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4K3SxFZTW1X.md) - [plain]
 | 49 | [YAKUZA TIES](https://open.spotify.com/track/0dIfSEyjNJsdTzJKdBC2co) | [Cochise](https://open.spotify.com/artist/46HzS7yz0c9udVwtbHk1sx) | [NO ONE'S NICE TO ME](https://open.spotify.com/album/5YvgvpgACOjrJHe7LFqJhc) | 1:56 |
 | 50 | [4 Me \(feat\. Kali Uchis\)](https://open.spotify.com/track/7H08E8B32OZ1vJE7AtCwaG) | [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs), [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [Love Sick](https://open.spotify.com/album/26z5llzd194mcCZHADWd6k) | 2:40 |
 
-Snapshot ID: `MCxiMGU5MzRhZWZhM2E0NDE4ODI4M2VjM2I1MGU5MDc1ZmQ5YmU2NDY3`
+Snapshot ID: `MCwyMDJjY2M5ZjYzNTk2NzNjNDJmODE0NDNjOWU4MjNmZjY3ZjdmNjNh`

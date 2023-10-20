@@ -4,7 +4,7 @@
 
 > Breathe\. Sense\. Feel\. Transcend.
 
-497 songs - 1 day 1 hr 41 min
+498 songs - 1 day 1 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -101,7 +101,7 @@
 | [Dans le noir](https://open.spotify.com/track/6oL6yOWVL8zJfwg2mlkMag) | [Charmaine D'Avis](https://open.spotify.com/artist/62nJsaKqTjBj5aHPE1RyqZ) | [Dans le noir](https://open.spotify.com/album/3xz6IHjv56jfGLIVTsgS1p) | 2:58 | 2022-01-11 |  |
 | [Dark Blue](https://open.spotify.com/track/2BTJLOrqvYeLLeEub0IDJx) | [Palace Flower](https://open.spotify.com/artist/1uU27K4D96Hn0ws2lULjHp) | [Dark Blue](https://open.spotify.com/album/4RlbWH1eu5h1ICu4zeA35n) | 2:54 | 2021-09-29 | 2023-06-24 |
 | [darker area](https://open.spotify.com/track/5zIMS6F6nMXAl4Jt1xu39L) | [Fluvis](https://open.spotify.com/artist/7bQwDNMLfpbXVUyUxfN7XX) | [darker area](https://open.spotify.com/album/2BsZnscrvvgIvlqHWyCjf7) | 3:38 | 2022-08-12 |  |
-| [Day One](https://open.spotify.com/track/4ahkHICHrJKitc3ki96AAY) | [Alma Meris](https://open.spotify.com/artist/7nHBvqVu3gxM1AFY5gHQs0) | [Day One](https://open.spotify.com/album/0GCpcuJ72RuNUVwurbmPTu) | 3:42 | 2021-03-02 |  |
+| [Day One](https://open.spotify.com/track/4ahkHICHrJKitc3ki96AAY) | [Alma Meris](https://open.spotify.com/artist/7nHBvqVu3gxM1AFY5gHQs0) | [Day One](https://open.spotify.com/album/0GCpcuJ72RuNUVwurbmPTu) | 3:42 | 2021-03-02 | 2023-10-20 |
 | [Decompress](https://open.spotify.com/track/0fA88Mx1JI2ixuWtOGef6i) | [Lucy Vincent](https://open.spotify.com/artist/3aZqkX0ePw0fBoERFYCD6Z) | [Decompress](https://open.spotify.com/album/56YSx23wvhofLJh70sunBG) | 4:43 | 2020-09-30\* | 2021-09-14 |
 | [Decumbent](https://open.spotify.com/track/45nNKzH7nKMfyFhUUqdyGY) | [Clifford Solum](https://open.spotify.com/artist/7fU4kMtmQKYqCJoJGEEjnu) | [Decumbent](https://open.spotify.com/album/5bf2DjnmsLeJOYVdDeUM5E) | 3:11 | 2020-09-30\* | 2022-08-13 |
 | [Deep And Hollow](https://open.spotify.com/track/6z1QfP61cL5IkPCVm3BKiw) | [Thoas Galla](https://open.spotify.com/artist/3nLy5nvClRzsJbCuRQfvZF) | [Deep And Hollow](https://open.spotify.com/album/7pYFDBdBF4Anj3eRP753pw) | 2:52 | 2023-09-01 |  |
@@ -293,6 +293,7 @@
 | [New Mantra](https://open.spotify.com/track/2bWcIXdN5tLko8ERJVh60p) | [Joseph Beg](https://open.spotify.com/artist/2N40EmjIUVBHidajBVs3Px) | [New Mantra](https://open.spotify.com/album/6qMPfsPHkOxfsv6dxS5DtN) | 4:54 | 2020-09-30\* | 2021-10-21 |
 | [Night Light](https://open.spotify.com/track/00mZmQ1kdWxmRtEA3A9olx) | [Above & Beyond](https://open.spotify.com/artist/10gzBoINW3cLJfZUka8Zoe) | [Flow State](https://open.spotify.com/album/0kWP6DpuAwyqICsF0HMOLb) | 2:03 | 2020-09-30\* | 2021-07-14 |
 | [Night Traveller](https://open.spotify.com/track/0VwLK1YNGY2UDzv5GeiJWB) | [Ami Sanou](https://open.spotify.com/artist/5Xqwv6jmmqS1Vx9vYJtAzY) | [Night Traveller](https://open.spotify.com/album/4Y6e0OS0PQTbUm6BPaxPly) | 2:37 | 2022-07-15 |  |
+| [Nike](https://open.spotify.com/track/3PzyB6DsbfPbiKS0COHjRk) | [Carufo](https://open.spotify.com/artist/19iZvlebGTx7MIFfXSbnb6) | [Nike](https://open.spotify.com/album/2ueuAKCwB7vz2WIiNKEL9l) | 3:01 | 2023-10-20 |  |
 | [No One Knows](https://open.spotify.com/track/55cj9j5lNgAsKIYjX2mJLm) | [Geneva Semere](https://open.spotify.com/artist/77VKKzoNiFyfVSn32eDiwD) | [No One Knows](https://open.spotify.com/album/5yog0IePhrPvYeh3SU7kGM) | 3:14 | 2021-05-18 |  |
 | [Noche Brilliante](https://open.spotify.com/track/2kVsD3DNreqNJ0CdM2ix2U) | [Santiago Penitente](https://open.spotify.com/artist/5GhwUrUTHxWEwJRQSXqNl9) | [Noche Brilliante](https://open.spotify.com/album/2HGRxLG4zOXpVAYQcRbE6e) | 2:21 | 2022-08-12 |  |
 | [Noctis](https://open.spotify.com/track/3SwiMJxBE5eqYdbXJBRtiT) | [Rosa Løvstrøm](https://open.spotify.com/artist/13f3uLVCX4o7wjqwtVlDwC) | [Noctis](https://open.spotify.com/album/07SebSgKlgeYAYb4I4lpiA) | 2:38 | 2020-09-30\* | 2022-12-31 |

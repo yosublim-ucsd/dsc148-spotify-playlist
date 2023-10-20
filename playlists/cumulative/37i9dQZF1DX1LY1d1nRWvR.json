@@ -469,6 +469,24 @@
     },
     {
       "album": {
+        "name": "Radio Highlife",
+        "url": "https://open.spotify.com/album/40LZ3m0pQOrEjEggY5Hm0T"
+      },
+      "artists": [
+        {
+          "name": "Auntie Flo",
+          "url": "https://open.spotify.com/artist/6XYOjW5wxf5V9hwAR58o4d"
+        }
+      ],
+      "date_added": "2021-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221813,
+      "name": "Isbj\u00f8rn",
+      "url": "https://open.spotify.com/track/4aXOm1VINrpS06azxb7DaW"
+    },
+    {
+      "album": {
         "name": "Rivers Of The Red Planet",
         "url": "https://open.spotify.com/album/11c0YSZe2AXCX2s5r0KFP7"
       },
@@ -1216,7 +1234,7 @@
     {
       "album": {
         "name": "Black Focus",
-        "url": "https://open.spotify.com/album/7HH2nntfXgLHCwjy6Xee79"
+        "url": "https://open.spotify.com/album/6pDAh84nyNU7x3xje9G03I"
       },
       "artists": [
         {
@@ -1227,6 +1245,24 @@
       "date_added": "2021-10-08",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 508773,
+      "name": "Strings of Light",
+      "url": "https://open.spotify.com/track/3hEOsfDNsdpV78Ty01vaxi"
+    },
+    {
+      "album": {
+        "name": "Black Focus",
+        "url": "https://open.spotify.com/album/7HH2nntfXgLHCwjy6Xee79"
+      },
+      "artists": [
+        {
+          "name": "Yussef Kamaal",
+          "url": "https://open.spotify.com/artist/710FHFQeXKC6dZGCxt7kQh"
+        }
+      ],
+      "date_added": "2021-10-08",
+      "date_added_asterisk": false,
+      "date_removed": "2023-10-20",
       "duration_ms": 508773,
       "name": "Strings of Light",
       "url": "https://open.spotify.com/track/4phT0Ii53pffqWYxJLQyOI"
@@ -1314,7 +1350,7 @@
       ],
       "date_added": "2021-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-20",
       "duration_ms": 409173,
       "name": "The Sapiens (Original Mix) [Mixed]",
       "url": "https://open.spotify.com/track/0g7DrfLCjrhogkP8cIAHm3"
@@ -1469,6 +1505,24 @@
     },
     {
       "album": {
+        "name": "Black Focus",
+        "url": "https://open.spotify.com/album/6pDAh84nyNU7x3xje9G03I"
+      },
+      "artists": [
+        {
+          "name": "Yussef Kamaal",
+          "url": "https://open.spotify.com/artist/710FHFQeXKC6dZGCxt7kQh"
+        }
+      ],
+      "date_added": "2021-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239480,
+      "name": "Yo Chavez",
+      "url": "https://open.spotify.com/track/7bufLy1mTp5ckluqJdDptX"
+    },
+    {
+      "album": {
         "name": "You Can't Steal My Joy",
         "url": "https://open.spotify.com/album/1eY0OQek6FHZWiPgJaXAzl"
       },
@@ -1480,7 +1534,7 @@
       ],
       "date_added": "2021-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-20",
       "duration_ms": 289053,
       "name": "You Can't Steal My Joy",
       "url": "https://open.spotify.com/track/1OlXIlGPGhoXI8f0Kj778C"

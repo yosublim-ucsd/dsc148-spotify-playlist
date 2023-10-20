@@ -3503,6 +3503,24 @@
     },
     {
       "album": {
+        "name": "Paradise",
+        "url": "https://open.spotify.com/album/7fshDHj8Sayc1AwggqjKot"
+      },
+      "artists": [
+        {
+          "name": "Robin Aristo",
+          "url": "https://open.spotify.com/artist/0bwRoL3Q12u1FuEsT3X0cs"
+        }
+      ],
+      "date_added": "2023-10-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202615,
+      "name": "Paradise",
+      "url": "https://open.spotify.com/track/4bruCU0ILLoOfF3iE27opD"
+    },
+    {
+      "album": {
         "name": "Phoenix",
         "url": "https://open.spotify.com/album/6NPTOBUvyTYxn2X3Mo1taQ"
       },

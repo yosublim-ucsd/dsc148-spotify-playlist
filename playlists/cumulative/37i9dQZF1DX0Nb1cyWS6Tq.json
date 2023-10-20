@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "You better duck, when I show you up, the goo goo muck! The Cramps on the cover.",
+  "description": "Come closer and see... into the dark. The Cure on cover.",
   "name": "Dark & Gothic",
   "tracks": [
     {
@@ -772,7 +772,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-20",
       "duration_ms": 398933,
       "name": "Burn",
       "url": "https://open.spotify.com/track/0tHOTQBn2M4CD2dcyHivth"
@@ -844,7 +844,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": null,
       "duration_ms": 253333,
       "name": "Charlotte Sometimes - Single Version",
       "url": "https://open.spotify.com/track/1rs7lqaXBlcw1N9wuHiQyJ"
@@ -4161,6 +4161,24 @@
     },
     {
       "album": {
+        "name": "Pornography",
+        "url": "https://open.spotify.com/album/33TDfmEXufojT6jxgb3BTK"
+      },
+      "artists": [
+        {
+          "name": "The Cure",
+          "url": "https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s"
+        }
+      ],
+      "date_added": "2021-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274240,
+      "name": "The Hanging Garden - 2005 Remaster",
+      "url": "https://open.spotify.com/track/6mbZmbZ8wr5DA2CAB3q1GW"
+    },
+    {
+      "album": {
         "name": "The Ghost Of Cain (Bonus Content)",
         "url": "https://open.spotify.com/album/3c7VsK9Ah0eX7kDWOWtjV1"
       },
@@ -4244,7 +4262,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-20",
       "duration_ms": 220093,
       "name": "The Lovecats",
       "url": "https://open.spotify.com/track/5rzr3lYGJiw3OXEg8imWgH"

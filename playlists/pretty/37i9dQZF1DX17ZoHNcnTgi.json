@@ -1,12 +1,12 @@
 {
   "description": "Una uni\u00f3n que no sabr\u00e1s olvidar. Escucha la Fusi\u00f3n entre Jos\u00e9 Alfredo y Silvana Estrada. ",
-  "num_followers": 18601,
+  "num_followers": 18654,
   "original_name": "Silvana Estrada + Jos\u00e9 Alfredo Jim\u00e9nez",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjOWUyMjFkNmIyYzgxZDY4MDRiZmU5YjkwNzEzZjBiMjgyYzMzZmVj",
+  "snapshot_id": "MCxlNTM5MDQ2ZjI0MzZjODlhYzNmY2YzNzVhOTE0MGU5ODc3NTBmOTdm",
   "tracks": [
     {
       "added_at": "2023-10-17 06:00:00",
@@ -247,22 +247,6 @@
     {
       "added_at": "2023-10-17 06:00:00",
       "album": {
-        "name": "Eco",
-        "url": "https://open.spotify.com/album/5iy3qKctiZAsvb2ORx8vR7"
-      },
-      "artists": [
-        {
-          "name": "Jorge Drexler",
-          "url": "https://open.spotify.com/artist/4ssUf5gLb1GBLxi1BhPrVt"
-        }
-      ],
-      "duration_ms": 202360,
-      "name": "Eco",
-      "url": "https://open.spotify.com/track/5mp2f2LfC7roht9TKWgPMc"
-    },
-    {
-      "added_at": "2023-10-17 06:00:00",
-      "album": {
         "name": "Lo Mejor De El Piporro",
         "url": "https://open.spotify.com/album/7Fk73SIehkIrO2uoo1L643"
       },
@@ -275,6 +259,22 @@
       "duration_ms": 211080,
       "name": "Lleg\u00f3 Borracho El Borracho",
       "url": "https://open.spotify.com/track/1ZBQmE5npCm3h5VTRVR8iy"
+    },
+    {
+      "added_at": "2023-10-17 06:00:00",
+      "album": {
+        "name": "Eco",
+        "url": "https://open.spotify.com/album/5iy3qKctiZAsvb2ORx8vR7"
+      },
+      "artists": [
+        {
+          "name": "Jorge Drexler",
+          "url": "https://open.spotify.com/artist/4ssUf5gLb1GBLxi1BhPrVt"
+        }
+      ],
+      "duration_ms": 202360,
+      "name": "Eco",
+      "url": "https://open.spotify.com/track/5mp2f2LfC7roht9TKWgPMc"
     },
     {
       "added_at": "2023-10-17 06:00:00",
@@ -363,6 +363,22 @@
     {
       "added_at": "2023-10-17 06:00:00",
       "album": {
+        "name": "Amar Y Vivir (En Vivo Desde La Ciudad De M\u00e9xico, 2017)",
+        "url": "https://open.spotify.com/album/4Xjf9chXOeW3SNxnARpMNT"
+      },
+      "artists": [
+        {
+          "name": "La Santa Cecilia",
+          "url": "https://open.spotify.com/artist/2FZrEn80eCoWrrkGXPLF0v"
+        }
+      ],
+      "duration_ms": 172000,
+      "name": "Nuestro Juramento - En Vivo",
+      "url": "https://open.spotify.com/track/2i1FTciX5iSP10f4BhOvId"
+    },
+    {
+      "added_at": "2023-10-17 06:00:00",
+      "album": {
         "name": "El Recital",
         "url": "https://open.spotify.com/album/61AAi7rA3R6I20cqO6lchG"
       },
@@ -379,22 +395,6 @@
       "duration_ms": 250533,
       "name": "Mandol\u00edn",
       "url": "https://open.spotify.com/track/0HxLlkUPaWb4zZInxl43Fw"
-    },
-    {
-      "added_at": "2023-10-17 06:00:00",
-      "album": {
-        "name": "Amar Y Vivir (En Vivo Desde La Ciudad De M\u00e9xico, 2017)",
-        "url": "https://open.spotify.com/album/4Xjf9chXOeW3SNxnARpMNT"
-      },
-      "artists": [
-        {
-          "name": "La Santa Cecilia",
-          "url": "https://open.spotify.com/artist/2FZrEn80eCoWrrkGXPLF0v"
-        }
-      ],
-      "duration_ms": 172000,
-      "name": "Nuestro Juramento - En Vivo",
-      "url": "https://open.spotify.com/track/2i1FTciX5iSP10f4BhOvId"
     },
     {
       "added_at": "2023-10-17 06:00:00",
@@ -531,26 +531,6 @@
     {
       "added_at": "2023-10-17 06:00:00",
       "album": {
-        "name": "Primera Fila (Edici\u00f3n Especial [En Vivo])",
-        "url": "https://open.spotify.com/album/3hNJfS7dWIu5yFiaDJA1LI"
-      },
-      "artists": [
-        {
-          "name": "Las Tres Grandes",
-          "url": "https://open.spotify.com/artist/7mR0zzf4j1B1XAAB5qJ8ia"
-        },
-        {
-          "name": "Paquita La Del Barrio",
-          "url": "https://open.spotify.com/artist/1q18ngxrhXlHasoNpc2dt7"
-        }
-      ],
-      "duration_ms": 221306,
-      "name": "Pa' Todo el A\u00f1o (with Paquita la del Barrio) - Primera Fila [En Vivo]",
-      "url": "https://open.spotify.com/track/34DKQzeut1KanGlRmSDW92"
-    },
-    {
-      "added_at": "2023-10-17 06:00:00",
-      "album": {
         "name": "Amar Y Vivir (En Vivo Desde La Ciudad De M\u00e9xico, 2017)",
         "url": "https://open.spotify.com/album/4Xjf9chXOeW3SNxnARpMNT"
       },
@@ -567,6 +547,26 @@
       "duration_ms": 141013,
       "name": "En El \u00daltimo Trago - En Vivo",
       "url": "https://open.spotify.com/track/0hFBWqc4gOLlUFsXzAMAnH"
+    },
+    {
+      "added_at": "2023-10-17 06:00:00",
+      "album": {
+        "name": "Primera Fila (Edici\u00f3n Especial [En Vivo])",
+        "url": "https://open.spotify.com/album/3hNJfS7dWIu5yFiaDJA1LI"
+      },
+      "artists": [
+        {
+          "name": "Las Tres Grandes",
+          "url": "https://open.spotify.com/artist/7mR0zzf4j1B1XAAB5qJ8ia"
+        },
+        {
+          "name": "Paquita La Del Barrio",
+          "url": "https://open.spotify.com/artist/1q18ngxrhXlHasoNpc2dt7"
+        }
+      ],
+      "duration_ms": 221306,
+      "name": "Pa' Todo el A\u00f1o (with Paquita la del Barrio) - Primera Fila [En Vivo]",
+      "url": "https://open.spotify.com/track/34DKQzeut1KanGlRmSDW92"
     },
     {
       "added_at": "2023-10-17 06:00:00",

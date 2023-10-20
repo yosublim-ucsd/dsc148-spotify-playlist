@@ -4,7 +4,7 @@
 
 > Kick it with some of the hottest bars from Uganda +256
 
-140 songs - 8 hr 2 min
+141 songs - 8 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -67,7 +67,8 @@
 | [I'm in Dior](https://open.spotify.com/track/1ryelu08lIki5tzxqeAsnn) | [Ekii](https://open.spotify.com/artist/4HIT5Z3VQvOsLj0fYBhK2h) | [I'm in Dior](https://open.spotify.com/album/6yzWdJRaBr7064Q7v9btod) | 3:24 | 2023-08-18 |  |
 | [Independent](https://open.spotify.com/track/424DjMFtS0JGIVM8aBFntp) | [GEOXwill](https://open.spotify.com/artist/5id5TWkdZmwJKutyO9u0dX), [Ogezi](https://open.spotify.com/artist/64qdnBh641xfeuHEevY9l2) | [Independent](https://open.spotify.com/album/59gYjH3D1JdjTvoQdcIat5) | 3:51 | 2022-10-14 | 2023-01-13 |
 | [Just Left Rubaga](https://open.spotify.com/track/0dLjBERZzgPpnx4KjRLmrp) | [Tucker HD](https://open.spotify.com/artist/3RDapQeJyAsiuFyZxFualp) | [Just Left Rubaga](https://open.spotify.com/album/5WxzIlz1Su1ru4LGe6ynfQ) | 2:02 | 2022-09-08 |  |
-| [Just Watch](https://open.spotify.com/track/2lWvfxjVmYCnQAtkJG0Y7H) | [BlaqAces](https://open.spotify.com/artist/1br4A9R7EZq1dZsld8M2Ii), [Mun G](https://open.spotify.com/artist/4YRE1c6l4kkNRfT1sXCjEU), [Moha](https://open.spotify.com/artist/6YlofgsrFOXGo0PuYMuhS6) | [Pitch Blaq Infinity](https://open.spotify.com/album/4AlcoiWsQuvoGWNF6GDebV) | 4:01 | 2023-01-20 |  |
+| [Just Watch](https://open.spotify.com/track/2lWvfxjVmYCnQAtkJG0Y7H) | [BlaqAces](https://open.spotify.com/artist/1br4A9R7EZq1dZsld8M2Ii), [Mun G](https://open.spotify.com/artist/4YRE1c6l4kkNRfT1sXCjEU), [Moha](https://open.spotify.com/artist/6YlofgsrFOXGo0PuYMuhS6) | [Pitch Blaq Infinity](https://open.spotify.com/album/4AlcoiWsQuvoGWNF6GDebV) | 4:01 | 2023-01-20 | 2023-10-20 |
+| [Just Watch](https://open.spotify.com/track/7B2Q0OPCUW7fkWfIbDvK7m) | [BlaqAces](https://open.spotify.com/artist/1br4A9R7EZq1dZsld8M2Ii), [Mun G](https://open.spotify.com/artist/2tSxVpWI1KAo7t1P3ihOoF), [Moha](https://open.spotify.com/artist/0YjEB5DV5nu7w3cjWn5ppi) | [Pitch Blaq Infinity](https://open.spotify.com/album/05hwkoZgB354CL68D32aN5) | 4:01 | 2023-09-11 |  |
 | [Kaazi](https://open.spotify.com/track/0lDoCgY33JV4rEllLJ8ubM) | [Paapa T](https://open.spotify.com/artist/7Ii9A3fiHC0LWGzgjekkba), [Rie](https://open.spotify.com/artist/67qQPzQB13ihMnIwS27kbr) | [Kaazi](https://open.spotify.com/album/57Ad8YNHXuOYMzpVVbvC9L) | 4:09 | 2022-09-08 |  |
 | [KIGOZI](https://open.spotify.com/track/4MxNH7v36HkhfRHUs1j5YL) | [Navio](https://open.spotify.com/artist/0itCt7khLTvv5WqlMJwYNQ) | [PRIDE](https://open.spotify.com/album/60KRJm8atxdl15fUM9t9Ht) | 3:55 | 2023-09-01 | 2023-09-12 |
 | [Kwetega](https://open.spotify.com/track/4h6XwEp0ElqD5xEYpcKGxr) | [Ruyonga](https://open.spotify.com/artist/7IFepiNUUVtAglkh1RUH5z) | [Kwetega](https://open.spotify.com/album/77agp9iFzPzhb7ssgWH2Kc) | 3:36 | 2023-01-20 | 2023-08-19 |

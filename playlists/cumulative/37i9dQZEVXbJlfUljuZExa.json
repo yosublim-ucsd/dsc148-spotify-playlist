@@ -10609,6 +10609,36 @@
     },
     {
       "album": {
+        "name": "Doa",
+        "url": "https://open.spotify.com/album/1q7G2G3XpM0GpKYAzc8PcS"
+      },
+      "artists": [
+        {
+          "name": "Unic",
+          "url": "https://open.spotify.com/artist/7IUkoUN4DEm9OOKTgH5Oim"
+        },
+        {
+          "name": "Ustaz Syed",
+          "url": "https://open.spotify.com/artist/2AKFqwIpmDqmVWR0Yw6r6n"
+        },
+        {
+          "name": "Abdul Kadir",
+          "url": "https://open.spotify.com/artist/5Uvia6sRySxXw4gy3TFp1N"
+        },
+        {
+          "name": "AlJoofre",
+          "url": "https://open.spotify.com/artist/1G3Y2dZQoZ9hrGEb5bf9VK"
+        }
+      ],
+      "date_added": "2023-10-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145036,
+      "name": "Qunut Nazilah",
+      "url": "https://open.spotify.com/track/5qYHD8Mu7HSC9RFzqkLmBA"
+    },
+    {
+      "album": {
         "name": "Jejak",
         "url": "https://open.spotify.com/album/3wPVyzCeB9iMdqW0RdVRvC"
       },
@@ -11312,7 +11342,7 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-20",
       "duration_ms": 285071,
       "name": "Satu-Satu",
       "url": "https://open.spotify.com/track/3d6BjQ0QOLTzuKoOQbeGgG"

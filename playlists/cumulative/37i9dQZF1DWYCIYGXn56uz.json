@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-03-28",
-  "description": "\u2728giovane\u2728pop\u2728z\u2728 Cover: Angelina Mango",
+  "description": "\u2728giovane\u2728pop\u2728z\u2728 Cover: NASKA",
   "name": "GENERAZIONE Z",
   "tracks": [
     {
@@ -522,7 +522,7 @@
       ],
       "date_added": "2023-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-20",
       "duration_ms": 186000,
       "name": "BLACKOUT",
       "url": "https://open.spotify.com/track/4HKQTz6RoJkFwlFLBAsJqm"
@@ -794,6 +794,28 @@
       "duration_ms": 137964,
       "name": "Ci penser\u00f2 domani",
       "url": "https://open.spotify.com/track/1feHjTOSRoZSh71HuIvnoT"
+    },
+    {
+      "album": {
+        "name": "Ci pensi mai?",
+        "url": "https://open.spotify.com/album/5ee4xYz1FK0VDC4bTARTiD"
+      },
+      "artists": [
+        {
+          "name": "Samurai Jay",
+          "url": "https://open.spotify.com/artist/2n0Ki4A5tKTEloq3WCt1IH"
+        },
+        {
+          "name": "DANI",
+          "url": "https://open.spotify.com/artist/0AKaGOjJkxnPFYwdK252sp"
+        }
+      ],
+      "date_added": "2023-10-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 104210,
+      "name": "Ci pensi mai?",
+      "url": "https://open.spotify.com/track/4vir2LGu3hdVNbzJqdEago"
     },
     {
       "album": {
@@ -1103,6 +1125,24 @@
     },
     {
       "album": {
+        "name": "Del + e del -",
+        "url": "https://open.spotify.com/album/6biAzgZtwwShblArNSSzPs"
+      },
+      "artists": [
+        {
+          "name": "Ethos",
+          "url": "https://open.spotify.com/artist/12UVpkOIcwo7yXfiHgPUj7"
+        }
+      ],
+      "date_added": "2023-10-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176190,
+      "name": "Del + e del -",
+      "url": "https://open.spotify.com/track/3XLiJfgPLGbOhemWzuNpHO"
+    },
+    {
+      "album": {
         "name": "TAXI DRIVER",
         "url": "https://open.spotify.com/album/4D04TN7Kw7Bq98kfDjUmgh"
       },
@@ -1234,7 +1274,7 @@
       ],
       "date_added": "2023-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-20",
       "duration_ms": 174826,
       "name": "DORMIVEGLIA",
       "url": "https://open.spotify.com/track/2NfilNriFp7SJjOF6n6N3L"
@@ -2029,6 +2069,24 @@
     },
     {
       "album": {
+        "name": "Laila",
+        "url": "https://open.spotify.com/album/2Zr3KYLoXtzxhoU2R09joT"
+      },
+      "artists": [
+        {
+          "name": "Wemme Flow",
+          "url": "https://open.spotify.com/artist/7H5agcXkVZfGrisEOqZ8ny"
+        }
+      ],
+      "date_added": "2023-10-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165120,
+      "name": "Laila",
+      "url": "https://open.spotify.com/track/2RDXSZsF1B28g2e4tjyVIa"
+    },
+    {
+      "album": {
         "name": "Le Cose In Comune",
         "url": "https://open.spotify.com/album/1tFaJjfjNZCbc81buL2Um0"
       },
@@ -2182,7 +2240,7 @@
       ],
       "date_added": "2023-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-20",
       "duration_ms": 191413,
       "name": "LOVE SONG",
       "url": "https://open.spotify.com/track/5OlOi3sB9hMntMhg6N7ERn"
@@ -2691,6 +2749,24 @@
     },
     {
       "album": {
+        "name": "La mia stanza (Deluxe)",
+        "url": "https://open.spotify.com/album/11N2afr57Zc4Zz9ntU3w7Q"
+      },
+      "artists": [
+        {
+          "name": "NASKA",
+          "url": "https://open.spotify.com/artist/4r1DHaB2yIhddOkTF92d1d"
+        }
+      ],
+      "date_added": "2023-10-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157175,
+      "name": "Non me ne frega un cazzo",
+      "url": "https://open.spotify.com/track/3pKo8ufvNGhDSJWxMn8Gpa"
+    },
+    {
+      "album": {
         "name": "Non Mi Mancherai",
         "url": "https://open.spotify.com/album/4PB54tmz9c5AhdIl1LxX10"
       },
@@ -2854,7 +2930,7 @@
       ],
       "date_added": "2023-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-20",
       "duration_ms": 180324,
       "name": "NULLA (feat. chiello)",
       "url": "https://open.spotify.com/track/2cUgStjffnjioamiHZV96J"
@@ -3287,6 +3363,24 @@
     },
     {
       "album": {
+        "name": "PIOVERE",
+        "url": "https://open.spotify.com/album/5aACZ8stKioaJl5aEGdMyv"
+      },
+      "artists": [
+        {
+          "name": "Elteep",
+          "url": "https://open.spotify.com/artist/0eoUjdIgU7Heid0Mv3EjLB"
+        }
+      ],
+      "date_added": "2023-10-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152000,
+      "name": "PIOVERE",
+      "url": "https://open.spotify.com/track/0NNWsInZjG2j0NGLBK7048"
+    },
+    {
+      "album": {
         "name": "piumone",
         "url": "https://open.spotify.com/album/3A46BaAEMjifTPqxKM3FRa"
       },
@@ -3408,7 +3502,7 @@
       ],
       "date_added": "2023-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-20",
       "duration_ms": 160600,
       "name": "POV",
       "url": "https://open.spotify.com/track/5mQFiACRHdBVugZX0QXwfS"
@@ -3636,7 +3730,7 @@
       ],
       "date_added": "2023-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-20",
       "duration_ms": 155555,
       "name": "Sangue e Aria",
       "url": "https://open.spotify.com/track/2FGQvZ0P8QcOqAshENIbK2"
@@ -3893,6 +3987,24 @@
     },
     {
       "album": {
+        "name": "Sitcom triste",
+        "url": "https://open.spotify.com/album/4s536NBIBRn8q829pTkzn6"
+      },
+      "artists": [
+        {
+          "name": "Sami River",
+          "url": "https://open.spotify.com/artist/5PUv5cQdVd7LmHvBj2r4c6"
+        }
+      ],
+      "date_added": "2023-10-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163862,
+      "name": "Sogni pi\u00f9 grandi",
+      "url": "https://open.spotify.com/track/66iaIDwL6Ud7g30xcdjGcY"
+    },
+    {
+      "album": {
         "name": "SOGNO",
         "url": "https://open.spotify.com/album/1sqrJ50Bu6DKuuRNQE7pk7"
       },
@@ -3970,7 +4082,7 @@
       ],
       "date_added": "2023-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-20",
       "duration_ms": 204605,
       "name": "Splendere",
       "url": "https://open.spotify.com/track/4caPWsdclt1rBrzPyMTo6J"
@@ -4022,6 +4134,24 @@
       "duration_ms": 153071,
       "name": "Storie",
       "url": "https://open.spotify.com/track/5TscVUsNQOV4TCOKbht9zu"
+    },
+    {
+      "album": {
+        "name": "Strappami",
+        "url": "https://open.spotify.com/album/1g68iPAK1qMQaC0uRHj98w"
+      },
+      "artists": [
+        {
+          "name": "FirkL\u00f8ver",
+          "url": "https://open.spotify.com/artist/4565nNjbVvjOjpZjtJnH3R"
+        }
+      ],
+      "date_added": "2023-10-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149565,
+      "name": "Strappami",
+      "url": "https://open.spotify.com/track/2hwhhzr8w5BDJVYYLWINTV"
     },
     {
       "album": {
@@ -4242,7 +4372,7 @@
       ],
       "date_added": "2023-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-20",
       "duration_ms": 159397,
       "name": "Tranquillo mai",
       "url": "https://open.spotify.com/track/0fhTCQPc8uFQGQY3iWb0sU"
@@ -4380,6 +4510,28 @@
       "duration_ms": 163200,
       "name": "un <3 in due",
       "url": "https://open.spotify.com/track/722fnHldLfC5ZI4QWdT3ak"
+    },
+    {
+      "album": {
+        "name": "UN MILIONE DI NOTTI",
+        "url": "https://open.spotify.com/album/0Pn7cZPPgzGwugQ2QgrlPV"
+      },
+      "artists": [
+        {
+          "name": "Mr.Rain",
+          "url": "https://open.spotify.com/artist/59MLbXG0jLVwJup3KAd6m1"
+        },
+        {
+          "name": "CLARA",
+          "url": "https://open.spotify.com/artist/6FPxOArEPVZUDv925qq8IQ"
+        }
+      ],
+      "date_added": "2023-10-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160000,
+      "name": "UN MILIONE DI NOTTI",
+      "url": "https://open.spotify.com/track/2ro9FlKCYKTLHB6Ke7Uqld"
     },
     {
       "album": {

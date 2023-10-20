@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "The contemporary new wave of alternative, genre-bending and creative afro-fusion music. Cover: <a href=\"https://open.spotify.com/artist/4iYJ88IcQS4GFqLqWGE5yx?si=tJ435HYvThO27-Ph66_iVQ\"> Tim Lyre </a> ",
+  "description": "The contemporary new wave of alternative, genre-bending and creative afro-fusion music. Cover: Kida Kudz, Boj and Pheelz ",
   "name": "Alt\u00e9 Cruise",
   "tracks": [
     {
@@ -1001,6 +1001,32 @@
     },
     {
       "album": {
+        "name": "Banger",
+        "url": "https://open.spotify.com/album/7qbMTYZNQiUFS3eZogAjDl"
+      },
+      "artists": [
+        {
+          "name": "Kida Kudz",
+          "url": "https://open.spotify.com/artist/4wrFUdBKN4RBMtC3ZoLVdw"
+        },
+        {
+          "name": "Boj",
+          "url": "https://open.spotify.com/artist/4qYpTEJThZ8FC8KzyFrSWW"
+        },
+        {
+          "name": "Pheelz",
+          "url": "https://open.spotify.com/artist/5Jv1MsZBh0sqokFq7pU8Xg"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123733,
+      "name": "Banger (feat. Boj)",
+      "url": "https://open.spotify.com/track/6GPxaASbGS5vbKaW7oYSvO"
+    },
+    {
+      "album": {
         "name": "Z Pack",
         "url": "https://open.spotify.com/album/5Ck8mMUb5nvnbNIKYTUjXF"
       },
@@ -1973,7 +1999,7 @@
     },
     {
       "album": {
-        "name": "Cinderella Girl (Where You Dey) [feat. Ludacris]",
+        "name": "CINDERELLA GIRL (WHERE YOU DEY) [feat. Ludacris]",
         "url": "https://open.spotify.com/album/2Qk595xR8M6ar44RYi9aPR"
       },
       "artists": [
@@ -1990,7 +2016,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 215217,
-      "name": "Cinderella Girl (Where You Dey) [feat. Ludacris]",
+      "name": "CINDERELLA GIRL (WHERE YOU DEY) [feat. Ludacris]",
       "url": "https://open.spotify.com/track/1E4ed73l5iopAIr9UkAlGy"
     },
     {
@@ -4250,7 +4276,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-20",
       "duration_ms": 88433,
       "name": "IMPOSTER SYNDROME",
       "url": "https://open.spotify.com/track/5ncZePvAr5oXKapJXVd9Us"
@@ -4819,6 +4845,28 @@
     },
     {
       "album": {
+        "name": "EZIOKWU",
+        "url": "https://open.spotify.com/album/6e1McsPwHgiySHVlpZRhFx"
+      },
+      "artists": [
+        {
+          "name": "ODUMODUBLVCK",
+          "url": "https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy"
+        },
+        {
+          "name": "Amaarae",
+          "url": "https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129056,
+      "name": "KUBOLOR (feat. Amaarae)",
+      "url": "https://open.spotify.com/track/7sFukIJffFFLwnazXIbqP5"
+    },
+    {
+      "album": {
         "name": "Last Thing",
         "url": "https://open.spotify.com/album/0OZATi1efmtpFw6d7ivEzf"
       },
@@ -5274,7 +5322,7 @@
       ],
       "date_added": "2023-06-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-20",
       "duration_ms": 219304,
       "name": "Love Me or Die",
       "url": "https://open.spotify.com/track/2cBHL4166AAaVN57hXlOkc"
@@ -9167,6 +9215,24 @@
     },
     {
       "album": {
+        "name": "Moneybag",
+        "url": "https://open.spotify.com/album/26MQEJC5dvEQL1rfShAXao"
+      },
+      "artists": [
+        {
+          "name": "AYL\u00d8",
+          "url": "https://open.spotify.com/artist/3KIiecqeFZHnbLK2MeagZd"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134526,
+      "name": "Touch\u00e9",
+      "url": "https://open.spotify.com/track/6AmCAKY1V1msPUiqogglVW"
+    },
+    {
+      "album": {
         "name": "Love is War",
         "url": "https://open.spotify.com/album/4T7WOGmFKYhXwGYMTylhfq"
       },
@@ -9792,7 +9858,7 @@
       ],
       "date_added": "2023-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-20",
       "duration_ms": 186000,
       "name": "Who Let Him In",
       "url": "https://open.spotify.com/track/3zKdTxoDlo5CT5HlqgUxJ3"

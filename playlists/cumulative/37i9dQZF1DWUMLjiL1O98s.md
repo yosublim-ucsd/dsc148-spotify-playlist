@@ -4,7 +4,7 @@
 
 > La nueva ola del Afrobeats con un toque latino\. Feid y Rema en portada
 
-136 songs - 6 hr 58 min
+137 songs - 7 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,6 +34,7 @@
 | [Cool and Deadly](https://open.spotify.com/track/57HKA3xerv37Z5YRWRBnt9) | [Art La Marley](https://open.spotify.com/artist/3s973qze1mFayzn7k7Z6qc), [Galindo Again](https://open.spotify.com/artist/3e3y36WvzuMeXpTf282KKW), [Ch3zy](https://open.spotify.com/artist/1RDlSkCUp7P0CZqzRuOlSO) | [Cool and Deadly](https://open.spotify.com/album/5zfYXAcZKjM9YFBTlOOW79) | 2:46 | 2023-06-30 |  |
 | [Cosita Bonita](https://open.spotify.com/track/6NBmug537PZ7Ya2mzWvoRY) | [Official el de la O](https://open.spotify.com/artist/7eFx97cnNCWdfSLPDFpLZZ) | [Cosita Bonita](https://open.spotify.com/album/6v5TCB3sJIitwyoMSL8Y2F) | 3:23 | 2023-06-30 |  |
 | [cómo dormiste?](https://open.spotify.com/track/3fjN3y5x4hN53rykAN2LHQ) | [Rels B](https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8) | [cómo dormiste?](https://open.spotify.com/album/2jt6z03JV7Ax8ZdlOrs9BK) | 1:52 | 2023-06-30 |  |
+| [Dem Time Deh](https://open.spotify.com/track/3WWCU2F78Mv0sOsWcVG3bf) | [Sean Paul](https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9), [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B) | [Dem Time Deh](https://open.spotify.com/album/1QeOEm9n7zYsIqHvg0KRY6) | 2:47 | 2023-10-20 |  |
 | [DESDE EL IPHONE](https://open.spotify.com/track/4Cf0UM9DGWCOWgwTnAZpIx) | [Nino Augustine](https://open.spotify.com/artist/56bt9xaV44RJf7KqqgMxsU) | [DESDE EL IPHONE](https://open.spotify.com/album/57XyDqDWBjzOsyyXgUN4VC) | 2:08 | 2023-09-01 |  |
 | [Despecho](https://open.spotify.com/track/4iqoaXqkaLvPOqagS3Gh7r) | [BARBEL](https://open.spotify.com/artist/6oYwraA8pyfDH4Otny6ooZ), [Kendall Brown](https://open.spotify.com/artist/67YvgO6sQgQQPrFhPESewC), [Caleb Rs](https://open.spotify.com/artist/3HcmYyZ26lw8nyF4adbkcK) | [Despecho](https://open.spotify.com/album/5f0xkA2fkluMBJ7Z9mKDC1) | 4:44 | 2023-07-07 |  |
 | [Djadja \(feat\. Maluma\) \- Remix](https://open.spotify.com/track/6AzKhCHOms83jvNVLsz0Bt) | [Aya Nakamura](https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg), [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau) | [Djadja \(feat\. Maluma\) \[Remix\]](https://open.spotify.com/album/0hUQJNECak9L5Baf75HfeV) | 2:46 | 2023-06-30 |  |

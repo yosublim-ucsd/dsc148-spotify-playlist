@@ -76,11 +76,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6W1YbI0Nbnc.md) - [plain]
 | 66 | [煙花紀](https://open.spotify.com/track/7y0if6xLlBD2SjLliFnRai) | [Joey Yung](https://open.spotify.com/artist/2zzKlxMsKTPMsZacZCPRNA) | [煙花紀](https://open.spotify.com/album/2RELGUewvDpIt0Cf1Xpfq4) | 4:43 |
 | 67 | [我們都是這樣長大的](https://open.spotify.com/track/37gQxPrcu81gpr5SbOlIJO) | [Sammi Cheng](https://open.spotify.com/artist/3XCnp5UV5wnNw49Xuka9qH) | [我們都是這樣長大的](https://open.spotify.com/album/4mL1ps3XVRbJP7ON16qf8j) | 4:43 |
 | 68 | [萬物有時](https://open.spotify.com/track/5gE4HG83INsGkkJPkwQVjk) | [Sammi Cheng](https://open.spotify.com/artist/3XCnp5UV5wnNw49Xuka9qH) | [萬物有時](https://open.spotify.com/album/6Xq3BT9jPBjAvlAPyEVMnF) | 3:44 |
-| 69 | [Long D](https://open.spotify.com/track/3tzjn5ILVuHc4eSLTH60lY) | [Jace Chan](https://open.spotify.com/artist/1SCaQu3jTbcKIjy8aC7KHa) | [Long D](https://open.spotify.com/album/3SGir5Xnex2E02jNYAzRnr) | 3:41 |
-| 70 | [沒有無緣無故的恨](https://open.spotify.com/track/6YI4OXOVtZ29Rc7GxOI4sY) | [Jace Chan](https://open.spotify.com/artist/1SCaQu3jTbcKIjy8aC7KHa) | [沒有無緣無故的恨](https://open.spotify.com/album/3UugGjG8QfPiwvBDbRuhL8) | 3:45 |
+| 69 | [Long D](https://open.spotify.com/track/3tzjn5ILVuHc4eSLTH60lY) | [JACE](https://open.spotify.com/artist/1SCaQu3jTbcKIjy8aC7KHa) | [Long D](https://open.spotify.com/album/3SGir5Xnex2E02jNYAzRnr) | 3:41 |
+| 70 | [沒有無緣無故的恨](https://open.spotify.com/track/6YI4OXOVtZ29Rc7GxOI4sY) | [JACE](https://open.spotify.com/artist/1SCaQu3jTbcKIjy8aC7KHa) | [沒有無緣無故的恨](https://open.spotify.com/album/3UugGjG8QfPiwvBDbRuhL8) | 3:45 |
 | 71 | [愛無所畏](https://open.spotify.com/track/6O5uUbslvuPgrJdMkCvpEz) | [Karen Mok](https://open.spotify.com/artist/6jlz5QSUqbKE4vnzo2qfP1) | [愛無所畏](https://open.spotify.com/album/4Tag19FbgclZkAmP77Gime) | 3:37 |
 | 72 | [忽然之間](https://open.spotify.com/track/1VY48jCBWuapKl0N5MXoJD) | [Karen Mok](https://open.spotify.com/artist/6jlz5QSUqbKE4vnzo2qfP1) | [就是莫文蔚](https://open.spotify.com/album/2uNig55B76kXgNg54GGY2D) | 3:19 |
 | 73 | [呼吸之間](https://open.spotify.com/track/1eVGIJZMTyms9dpWI70aJi) | [Janice Vidal](https://open.spotify.com/artist/68gYAqni9tSrACmLCp4qoM) | [呼吸之間](https://open.spotify.com/album/2W6R3leFpPzSrZLkF7oFJR) | 4:13 |
 | 74 | [It’s OK To Be Sad](https://open.spotify.com/track/0up477QX11ffSLneXa0xHA) | [Janice Vidal](https://open.spotify.com/artist/68gYAqni9tSrACmLCp4qoM) | [It’s OK To Be Sad](https://open.spotify.com/album/5HJdjpBgRxl4XcMuimvho9) | 3:59 |
 
-Snapshot ID: `MCxmZGVlY2RiMzIyZTkyMzM2ZmVhNmYzNDM2NDM4MjY5ZTlmY2E0ZjIy`
+Snapshot ID: `MCxlOWZjOTIxZjI4NjU3ZGVmYzI5NmYwNTgyMjkyMzFiOGI5ODg3NjMy`
