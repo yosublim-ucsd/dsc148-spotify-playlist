@@ -1,13 +1,45 @@
 {
   "description": "",
-  "num_followers": 28513,
+  "num_followers": 28520,
   "original_name": "Ninja Tune - New Releases",
   "owner": {
     "name": "Ninja Tune",
     "url": "https://open.spotify.com/user/ninja-tune"
   },
-  "snapshot_id": "MzUxMSwzYTMwZmM2OGY1MDhlZDg0N2VlMmIwMGI0MzA2YmE2YjI3Nzk3ZDdj",
+  "snapshot_id": "MzUxNSw2MmU2NDFkZmVmZWIyZDE3MGRjYjI4NGNmY2Y5ZGJkN2ZhNzk0ODIw",
   "tracks": [
+    {
+      "added_at": "2023-10-20 13:46:42",
+      "album": {
+        "name": "Bolted",
+        "url": "https://open.spotify.com/album/0BxkPi0ivE10et9zJ576x4"
+      },
+      "artists": [
+        {
+          "name": "Forest Swords",
+          "url": "https://open.spotify.com/artist/2VarlUiM6Lw0SA7BvwVPRP"
+        }
+      ],
+      "duration_ms": 236160,
+      "name": "Rubble",
+      "url": "https://open.spotify.com/track/0nbkQCyzpDHuANCnXbjUfc"
+    },
+    {
+      "added_at": "2023-10-20 13:46:21",
+      "album": {
+        "name": "When Will We Land?",
+        "url": "https://open.spotify.com/album/5LASDBDtLLEt3QqVtgOoaM"
+      },
+      "artists": [
+        {
+          "name": "Barry Can't Swim",
+          "url": "https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl"
+        }
+      ],
+      "duration_ms": 138951,
+      "name": "How It Feels",
+      "url": "https://open.spotify.com/track/3NZz7DWeVQesSOn6mO39F7"
+    },
     {
       "added_at": "2023-10-17 14:31:53",
       "album": {
@@ -695,42 +727,6 @@
       "duration_ms": 260493,
       "name": "Up Song - Live at Bush Hall",
       "url": "https://open.spotify.com/track/3b6suhvxtWPIF0tZe5xDCL"
-    },
-    {
-      "added_at": "2023-03-29 18:29:50",
-      "album": {
-        "name": "Fables",
-        "url": "https://open.spotify.com/album/5H2wrctr9Ft7PL6pn8UE81"
-      },
-      "artists": [
-        {
-          "name": "Rahill",
-          "url": "https://open.spotify.com/artist/0a0L1YLGhMT64hsSh9M9aM"
-        },
-        {
-          "name": "Beck",
-          "url": "https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS"
-        }
-      ],
-      "duration_ms": 291400,
-      "name": "Fables",
-      "url": "https://open.spotify.com/track/3I49KOk2e2Fxoh6IlSiTKX"
-    },
-    {
-      "added_at": "2023-02-03 15:01:51",
-      "album": {
-        "name": "Heavy Heavy",
-        "url": "https://open.spotify.com/album/6CmlLROLOUJZnZ8QeCCpqD"
-      },
-      "artists": [
-        {
-          "name": "Young Fathers",
-          "url": "https://open.spotify.com/artist/5mZC7ndY6oGMxJentRwsuV"
-        }
-      ],
-      "duration_ms": 218737,
-      "name": "Drum",
-      "url": "https://open.spotify.com/track/0woEYg2SEO3u2MFKmVnDgM"
     }
   ],
   "unique_name": "Ninja Tune - New Releases",

@@ -1,12 +1,12 @@
 {
   "description": "The best of today's funk. Cover: Kossisko",
-  "num_followers": 312433,
+  "num_followers": 312472,
   "original_name": "Nu-Funk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5MzRlYzNjY2EyZWE3MDRmOGMyNjFhMzdhMzMwNWQ0NTcyOTNjZDg1",
+  "snapshot_id": "MCwzMDgyYjQyODIxMTMzOWMyMGNjMjViMjA5ZmIyNjZhYzQ4MTEzZjcy",
   "tracks": [
     {
       "added_at": "2023-10-13 04:01:00",
@@ -53,6 +53,58 @@
       "url": "https://open.spotify.com/track/6WWwsE0oge62N2STOFOnvh"
     },
     {
+      "added_at": "2023-09-08 04:01:00",
+      "album": {
+        "name": "Slay",
+        "url": "https://open.spotify.com/album/6tPbp0tT4v9nJ1uBvPWKeW"
+      },
+      "artists": [
+        {
+          "name": "Kossisko",
+          "url": "https://open.spotify.com/artist/3TmVOBZL0RYrAAF3f2QSGq"
+        }
+      ],
+      "duration_ms": 241902,
+      "name": "Slay",
+      "url": "https://open.spotify.com/track/3c0N0LOdtvf2OTj6QHn2J0"
+    },
+    {
+      "added_at": "2023-10-20 04:00:00",
+      "album": {
+        "name": "Boyfriend",
+        "url": "https://open.spotify.com/album/0nzeplsr4yZbMptOu6jlhI"
+      },
+      "artists": [
+        {
+          "name": "Brother Zulu",
+          "url": "https://open.spotify.com/artist/2s2izwM5DBKt4BkK00CEnw"
+        },
+        {
+          "name": "Charles",
+          "url": "https://open.spotify.com/artist/1zQk335M5LE4TowdBTKOAp"
+        }
+      ],
+      "duration_ms": 188036,
+      "name": "Boyfriend",
+      "url": "https://open.spotify.com/track/56QF4yDJSPKs783imRYWX0"
+    },
+    {
+      "added_at": "2023-09-29 04:01:00",
+      "album": {
+        "name": "BLACK JAMES DEAN",
+        "url": "https://open.spotify.com/album/4YzlTpKfVP21MWqv9MBEp6"
+      },
+      "artists": [
+        {
+          "name": "Gerard Alain",
+          "url": "https://open.spotify.com/artist/2M1iqciaWLU8JSGJgFvhKx"
+        }
+      ],
+      "duration_ms": 153600,
+      "name": "BLACK JAMES DEAN",
+      "url": "https://open.spotify.com/track/16WZ9KBCv48ChvdyuSpZcH"
+    },
+    {
       "added_at": "2023-10-06 04:01:00",
       "album": {
         "name": "Vulfnik",
@@ -75,38 +127,6 @@
       "duration_ms": 257704,
       "name": "How Much Do You Love Me",
       "url": "https://open.spotify.com/track/5GpJ5L1VcqC3njxdZVCmIT"
-    },
-    {
-      "added_at": "2023-09-08 04:01:00",
-      "album": {
-        "name": "Slay",
-        "url": "https://open.spotify.com/album/6tPbp0tT4v9nJ1uBvPWKeW"
-      },
-      "artists": [
-        {
-          "name": "Kossisko",
-          "url": "https://open.spotify.com/artist/3TmVOBZL0RYrAAF3f2QSGq"
-        }
-      ],
-      "duration_ms": 241902,
-      "name": "Slay",
-      "url": "https://open.spotify.com/track/3c0N0LOdtvf2OTj6QHn2J0"
-    },
-    {
-      "added_at": "2023-09-29 04:01:00",
-      "album": {
-        "name": "BLACK JAMES DEAN",
-        "url": "https://open.spotify.com/album/4YzlTpKfVP21MWqv9MBEp6"
-      },
-      "artists": [
-        {
-          "name": "Gerard Alain",
-          "url": "https://open.spotify.com/artist/2M1iqciaWLU8JSGJgFvhKx"
-        }
-      ],
-      "duration_ms": 153600,
-      "name": "BLACK JAMES DEAN",
-      "url": "https://open.spotify.com/track/16WZ9KBCv48ChvdyuSpZcH"
     },
     {
       "added_at": "2023-08-25 04:01:00",
@@ -767,22 +787,6 @@
       "duration_ms": 188250,
       "name": "All Night Long - Ruck P Remix",
       "url": "https://open.spotify.com/track/6fYFZnIsm74om1JFSgZWZM"
-    },
-    {
-      "added_at": "2023-05-23 18:23:26",
-      "album": {
-        "name": "Celebrate",
-        "url": "https://open.spotify.com/album/0Tc9B9e1zH824KxL380K34"
-      },
-      "artists": [
-        {
-          "name": "Brother Zulu",
-          "url": "https://open.spotify.com/artist/2s2izwM5DBKt4BkK00CEnw"
-        }
-      ],
-      "duration_ms": 194529,
-      "name": "Celebrate",
-      "url": "https://open.spotify.com/track/4pWR6adQpusvmqyZyUqc3q"
     },
     {
       "added_at": "2023-06-09 04:01:00",

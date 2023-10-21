@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9FWIO38pHuz.md) - [plain]
 
 > Funk favorites from 2022\. Cover: Cory Henry \#SpotifyWrapped
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,571 likes - 75 songs - 4 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,569 likes - 75 songs - 4 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -76,7 +76,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9FWIO38pHuz.md) - [plain]
 | 66 | [Wicked Karma](https://open.spotify.com/track/1euxBryXMch8Oq4OD4GbWt) | [Orgone](https://open.spotify.com/artist/4WmMnGO1nLIsE85XwcBAZE) | [Lost Knights](https://open.spotify.com/album/06wmF4jhsHKfmqhKdAZfvi) | 3:53 |
 | 67 | [Talking Fast](https://open.spotify.com/track/2KguYnpztKqNOlSQ7017qQ) | [En Rie](https://open.spotify.com/artist/3P18mn1T53JU82867PDYbM), [Roboti Niro](https://open.spotify.com/artist/6F6xHCnBygWXQO5VSnSRAS) | [Nowadays](https://open.spotify.com/album/7M3R9UUicn3y1vHwQgqXsg) | 3:47 |
 | 68 | [End of Tha Night](https://open.spotify.com/track/4FCEeZGENqjVz9dDRsKJoM) | [Blaxian](https://open.spotify.com/artist/5hY9vFP2SpMfb5ZXqMI3o4), [Elijah Treat](https://open.spotify.com/artist/4SzodZqoVynssqd6ajKdpB) | [End of Tha Night](https://open.spotify.com/album/4H51nFp0Ojxn4mRa8WHraj) | 3:09 |
-| 69 | [When You Call Me](https://open.spotify.com/track/6nubhK0CsIhmCnjuMVUfvj) | [STR4TA](https://open.spotify.com/artist/5HintvHxi0uDBgNaRKWZOt) | [STR4TASFEAR](https://open.spotify.com/album/2CSRlL4oubFZsnNxQoaR6p) | 4:55 |
+| 69 | [When You Call Me](https://open.spotify.com/track/7bemHdceJfoCOeoF3lRGup) | [STR4TA](https://open.spotify.com/artist/5HintvHxi0uDBgNaRKWZOt) | [When You Call Me](https://open.spotify.com/album/24MRi6AuljdWhxVfPCyJGB) | 4:55 |
 | 70 | [Golden Limousine](https://open.spotify.com/track/1BdLSaXkqWLqbUPnK1ASh0) | [Golden Dawn Arkestra](https://open.spotify.com/artist/7b0pvMSrnBWY6s6DA00YMK) | [The Gold Album](https://open.spotify.com/album/35zeMiMgMj3JcWSGkBT8Ps) | 2:50 |
 | 71 | [Glad \- Vocal Mix](https://open.spotify.com/track/1lPpxO3lulSYSO8V7yLig9) | [Michele Chiavarini](https://open.spotify.com/artist/5ec2x41RmuQqBYAKbQ7nhr), [Andre Espeut](https://open.spotify.com/artist/3KYR1NVEcMfJ657LhKRpJn) | [Glad](https://open.spotify.com/album/7kxrxVUnCpG3m0bTePROaN) | 4:35 |
 | 72 | [Gigantic Energy](https://open.spotify.com/track/2PRmFMuhCCwa9fNtqRi4M1) | [Michael Thurber](https://open.spotify.com/artist/5zdCcd7nJejwygIgvJzjhf), [Huntertones](https://open.spotify.com/artist/3tv8xMO0AkcqN9Th8KHyGd) | [Gigantic Energy](https://open.spotify.com/album/2bIcCEYZZHRgOHZNEicdXw) | 4:24 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9FWIO38pHuz.md) - [plain]
 | 74 | [You Not Me \- Remix](https://open.spotify.com/track/6qmZKSHiYJCV09bSToTm3y) | [Baegod](https://open.spotify.com/artist/1F03cvxw1p5NzqkLnwDpcL), [XL Middleton](https://open.spotify.com/artist/6jvRzmQ1J8Kr2QEi6JzQmh) | [You Not Me \(Remix\)](https://open.spotify.com/album/5nCT2rB99boTMRmYIvky0d) | 2:34 |
 | 75 | [Pepper Dem](https://open.spotify.com/track/3NNozRRUuQnwMb3uASRpj4) | [Nathan Adams](https://open.spotify.com/artist/4Qc2hTBOx11WvgZMK2M4O9) | [Pepper Dem](https://open.spotify.com/album/2UffSLAJYhM96CBOt5dZtR) | 4:08 |
 
-Snapshot ID: `MCw3M2MyMzMxZGU0YTdmZjBjMDVmMmJjODA3YmU2YWIzNmExYmY3ZWYx`
+Snapshot ID: `MCxhNGVhM2Y1OTcyYzA3ZGYzMDUwMGQxMDVjM2U0MmI0MTEwMjY4NmFl`

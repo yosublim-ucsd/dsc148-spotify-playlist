@@ -2,9 +2,9 @@
 
 ### [Indigo](https://open.spotify.com/playlist/37i9dQZF1DWUgBy0IJPlHq)
 
-> A new shade of Country\. Cover: Zach Bryan & Kacey Musgraves
+> A new shade of Country\. Cover: Luke Grimes
 
-503 songs - 1 day 7 hr 1 min
+506 songs - 1 day 7 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,8 +22,10 @@
 | [A Song Can't Fix Everything \(feat\. Paul Cauthen\)](https://open.spotify.com/track/77nza5LdjuD35bjguHP0le) | [Sunny Sweeney](https://open.spotify.com/artist/3uBMhKEXqr2UtRlx7Jn9LL), [Paul Cauthen](https://open.spotify.com/artist/6yHM0XQEdu9sIlbILMaKBp) | [A Song Can't Fix Everything \(feat\. Paul Cauthen\)](https://open.spotify.com/album/6Pkjx1PBynwE3VzKXLbDgg) | 3:47 | 2022-06-03 | 2022-07-30 |
 | [Abilene](https://open.spotify.com/track/2xi9KMyT6acK7kDkdpptfN) | [Plains](https://open.spotify.com/artist/1vxqrtPBBQWCuoAcJqVCph), [Waxahatchee](https://open.spotify.com/artist/5IWCU0V9evBlW4gIeGY4zF), [Jess Williamson](https://open.spotify.com/artist/784kOgkd1H6jU4KgPMYHi9) | [Abilene](https://open.spotify.com/album/5IQl0bM8GiALIa6BtxMHRf) | 3:03 | 2022-09-02 | 2022-10-26 |
 | [Abilene](https://open.spotify.com/track/7eBJf9kAJn06HKp2lBEWi2) | [Plains](https://open.spotify.com/artist/1vxqrtPBBQWCuoAcJqVCph), [Waxahatchee](https://open.spotify.com/artist/5IWCU0V9evBlW4gIeGY4zF), [Jess Williamson](https://open.spotify.com/artist/784kOgkd1H6jU4KgPMYHi9) | [I Walked With You A Ways](https://open.spotify.com/album/7mdK7vYHrLMzPHGeGXQN0h) | 3:03 | 2022-10-14 | 2023-03-04 |
-| [Above My Head](https://open.spotify.com/track/01eVEqO0S7ktYP2rSmV94P) | [Drayton Farley](https://open.spotify.com/artist/05o2ENqv0CV8aD6BWKEaBD) | [Above My Head](https://open.spotify.com/album/6chTGihS0RawQYmJhyYpQt) | 4:42 | 2023-02-10 |  |
+| [Above My Head](https://open.spotify.com/track/01eVEqO0S7ktYP2rSmV94P) | [Drayton Farley](https://open.spotify.com/artist/05o2ENqv0CV8aD6BWKEaBD) | [Above My Head](https://open.spotify.com/album/6chTGihS0RawQYmJhyYpQt) | 4:42 | 2023-02-10 | 2023-10-21 |
+| [Above My Head](https://open.spotify.com/track/43N0Hhr1jUDFWhkaWrNzNR) | [Drayton Farley](https://open.spotify.com/artist/05o2ENqv0CV8aD6BWKEaBD) | [Twenty on High](https://open.spotify.com/album/7qAjWqcitYncXKTZzOAFQo) | 4:42 | 2023-10-20 |  |
 | [Ain't a Day Goes By](https://open.spotify.com/track/5QvCKK52a348z920a2fH3X) | [Melissa Carper](https://open.spotify.com/artist/1VA93XBE8WfC2Nbe8xNLRX) | [Ain't a Day Goes By](https://open.spotify.com/album/1JTRsrFrlm39gUqQMvhJNJ) | 3:32 | 2022-09-09 | 2023-04-15 |
+| [Ain't Dead Yet](https://open.spotify.com/track/7bh24ywGwlWCf3RReA5Dk1) | [Luke Grimes](https://open.spotify.com/artist/7Cezk2wEDBPfYCwEuKum1Y) | [Pain Pills Or Pews EP](https://open.spotify.com/album/4EeCNe24c0doMP5YOCtf3j) | 3:02 | 2023-10-20 |  |
 | [Ain't How It Used to Be](https://open.spotify.com/track/3hAbrlI4sOugXvyMa8BPmR) | [Will Hoge](https://open.spotify.com/artist/6a8DSomMqspxk3s3WlBjNT) | [Wings on My Shoes](https://open.spotify.com/album/3x6qsIvqAjncf61GgRegUv) | 3:35 | 2022-08-26 | 2023-05-06 |
 | [Ain't No Harmin' Me](https://open.spotify.com/track/1LnTC50m1LHC36jtKo0UJk) | [The War and Treaty](https://open.spotify.com/artist/6HhV0jtMMK5HYnYgG0xgtz) | [Ain't No Harmin' Me](https://open.spotify.com/album/0tk6hm3xKUefjBLDt4xkS9) | 3:50 | 2023-03-10 | 2023-05-27 |
 | [Ain't Proud](https://open.spotify.com/track/6ykRYSG0m2iuoArpjDpJrT) | [Wyatt Flores](https://open.spotify.com/artist/46lEQmDJLJeyltECJYJv1Y) | [Ain't Proud](https://open.spotify.com/album/2BMZC0Al0UlwdvvtwYSptW) | 3:26 | 2023-05-05 |  |
@@ -164,6 +166,7 @@
 | [For the Birds](https://open.spotify.com/track/5eCSVLc6dpco6I8yNSLTsq) | [Aaron Raitiere](https://open.spotify.com/artist/3Gbx4tL0G9U5j233fXABXw) | [For the Birds](https://open.spotify.com/album/3W4ao1ItDRAehHMxMrW6tA) | 3:41 | 2022-02-11 | 2022-08-20 |
 | [Forged In Hell And Heaven Sent](https://open.spotify.com/track/4YzjGUn7KgL2w5d89DeIV0) | [Drive\-By Truckers](https://open.spotify.com/artist/1rXr1ZnvbRoYBaedIl9v4v), [Margo Price](https://open.spotify.com/artist/09yvLritEUxHrzx5TlFvbl) | [Welcome 2 Club XIII](https://open.spotify.com/album/5QO99FKAyigde7NHHyGZaK) | 4:45 | 2022-07-22 | 2023-03-25 |
 | [Forged in Hell and Heaven Sent](https://open.spotify.com/track/7BI77Zk4GyY88tB3SJyx8p) | [Drive\-By Truckers](https://open.spotify.com/artist/1rXr1ZnvbRoYBaedIl9v4v), [Margo Price](https://open.spotify.com/artist/09yvLritEUxHrzx5TlFvbl) | [Welcome 2 Club XIII](https://open.spotify.com/album/36KLZL4EDBBiEkLdl1BEJ7) | 4:45 | 2022-06-03 | 2022-07-29 |
+| [Fox Hunt](https://open.spotify.com/track/32TjTdbpM9dv5gBVFXbU8S) | [Sierra Ferrell](https://open.spotify.com/artist/3oVcF3VdpMuvMvLLyHPT4t) | [Fox Hunt](https://open.spotify.com/album/2bLNZHyv1itJ94dG8Ob5Nq) | 3:16 | 2023-10-20 |  |
 | [Free and Clean \- DBPC](https://open.spotify.com/track/40A0f4gSfEgUtIxdrngA9c) | [J.R\. Carroll](https://open.spotify.com/artist/3KULmzjXBD6uu50to1WXRm) | [Death Before Pop Country](https://open.spotify.com/album/4RK05XX0OX5KsGWn0V5OjX) | 3:01 | 2022-11-25 | 2023-10-07 |
 | [Freedom](https://open.spotify.com/track/4lOjyWEkIRRuD3mdiR0yka) | [Lindsay Lou](https://open.spotify.com/artist/6yULqqTzvfwsEonNzu7iJQ), [Billy Strings](https://open.spotify.com/artist/1ZN1c1qWEGZNX1pGeKCPpf) | [Freedom](https://open.spotify.com/album/6FEPSiSEAwxe9FOpomdoOt) | 3:02 | 2022-07-08 | 2023-04-15 |
 | [Friends Again](https://open.spotify.com/track/2NwnqTNMYXw4Ldzb7zrmEJ) | [Jim Lauderdale](https://open.spotify.com/artist/0C6MCOqzlXMdX8Ij0mR6ct) | [Friends Again](https://open.spotify.com/album/4AjeNO2YStFRdGSyNKg95M) | 2:35 | 2022-08-05 | 2022-12-17 |

@@ -1370,7 +1370,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-21",
       "duration_ms": 224493,
       "name": "Cabin in the Woods",
       "url": "https://open.spotify.com/track/4RdguY01mI6MQsmCxCHwYs"
@@ -2800,10 +2800,28 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-21",
       "duration_ms": 185663,
       "name": "For Your Soul",
       "url": "https://open.spotify.com/track/0nCS9vXUbuD13169TCPCv2"
+    },
+    {
+      "album": {
+        "name": "Spectral Lines",
+        "url": "https://open.spotify.com/album/22nZ1NT4IWj6boYaz8xe2q"
+      },
+      "artists": [
+        {
+          "name": "Josh Ritter",
+          "url": "https://open.spotify.com/artist/6igfLpd8s6DBBAuwebRUuo"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185663,
+      "name": "For Your Soul",
+      "url": "https://open.spotify.com/track/5eimsB6KHfDsTSSETgx18Q"
     },
     {
       "album": {
@@ -2866,6 +2884,24 @@
       "duration_ms": 250840,
       "name": "Forgiving Ties",
       "url": "https://open.spotify.com/track/3pv0IJiSYPx531RuNSbtjR"
+    },
+    {
+      "album": {
+        "name": "Fox Hunt",
+        "url": "https://open.spotify.com/album/2bLNZHyv1itJ94dG8Ob5Nq"
+      },
+      "artists": [
+        {
+          "name": "Sierra Ferrell",
+          "url": "https://open.spotify.com/artist/3oVcF3VdpMuvMvLLyHPT4t"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196533,
+      "name": "Fox Hunt",
+      "url": "https://open.spotify.com/track/32TjTdbpM9dv5gBVFXbU8S"
     },
     {
       "album": {
@@ -4312,7 +4348,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-21",
       "duration_ms": 161733,
       "name": "In Dreams",
       "url": "https://open.spotify.com/track/0ewKJ6eM0Z761OissISTW7"
@@ -8349,6 +8385,24 @@
     },
     {
       "album": {
+        "name": "The Crowd Goes Wild",
+        "url": "https://open.spotify.com/album/4oNknSciThTh14sb2qZXR3"
+      },
+      "artists": [
+        {
+          "name": "Dylan LeBlanc",
+          "url": "https://open.spotify.com/artist/60rNO7ymhlxcYxrdkDYq1k"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214453,
+      "name": "The Crowd Goes Wlld",
+      "url": "https://open.spotify.com/track/2tLy1jxBdf5LF1IDznBCh9"
+    },
+    {
+      "album": {
         "name": "The Downward Road",
         "url": "https://open.spotify.com/album/0v9Fn7MgEKL8tfprlJX5Ld"
       },
@@ -8364,7 +8418,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-21",
       "duration_ms": 216266,
       "name": "The Downward Road",
       "url": "https://open.spotify.com/track/5C9y3R4oWlShFgvNqr6egt"
@@ -9218,7 +9272,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-21",
       "duration_ms": 206040,
       "name": "Tumble and Fall",
       "url": "https://open.spotify.com/track/2Uh4NCdcI7sWNbWfhxw73Q"
@@ -9561,6 +9615,24 @@
     },
     {
       "album": {
+        "name": "Pain Pills Or Pews EP",
+        "url": "https://open.spotify.com/album/4EeCNe24c0doMP5YOCtf3j"
+      },
+      "artists": [
+        {
+          "name": "Luke Grimes",
+          "url": "https://open.spotify.com/artist/7Cezk2wEDBPfYCwEuKum1Y"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225708,
+      "name": "Where It's Blue",
+      "url": "https://open.spotify.com/track/6i7QP9auNhpIZgPopuXPOm"
+    },
+    {
+      "album": {
         "name": "Where the Long Line Leads",
         "url": "https://open.spotify.com/album/14lpUo1KioAmaEksNyAyAC"
       },
@@ -9572,10 +9644,28 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-21",
       "duration_ms": 204618,
       "name": "Where the Long Line Leads",
       "url": "https://open.spotify.com/track/11U64nYtfHfPXpKmy8O29c"
+    },
+    {
+      "album": {
+        "name": "Celebrants",
+        "url": "https://open.spotify.com/album/2ruZGj3O7oL91f9re3BXLq"
+      },
+      "artists": [
+        {
+          "name": "Nickel Creek",
+          "url": "https://open.spotify.com/artist/3bcLBxvaI7GsBzGp3WHnwQ"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204618,
+      "name": "Where the Long Line Leads",
+      "url": "https://open.spotify.com/track/2nl7VPKy1XQ2NiUrdI5AeY"
     },
     {
       "album": {

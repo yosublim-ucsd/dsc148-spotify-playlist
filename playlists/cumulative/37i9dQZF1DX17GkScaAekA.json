@@ -673,6 +673,28 @@
     },
     {
       "album": {
+        "name": "Vivaldi: Four Seasons Winter Variation (After Violin Concerto in F Minor, Op. 8, No. 4, RV 297, III. Allegro-Lento)",
+        "url": "https://open.spotify.com/album/2l4Qv7ErSsOLMm4Jx6W4pC"
+      },
+      "artists": [
+        {
+          "name": "Antonio Vivaldi",
+          "url": "https://open.spotify.com/artist/2QOIawHpSlOwXDvSqQ9YJR"
+        },
+        {
+          "name": "Martin Stadtfeld",
+          "url": "https://open.spotify.com/artist/2Habwewg0ZpMr2YWSTANE9"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 103960,
+      "name": "Four Seasons Winter Variation (After Violin Concerto in F Minor, Op. 8, No. 4, RV 297, III. Allegro-Lento)",
+      "url": "https://open.spotify.com/track/4HGKwAl6H8z4J2DSaZamSg"
+    },
+    {
+      "album": {
         "name": "Gnossienne No. 1",
         "url": "https://open.spotify.com/album/4ZWDD7tNRRMB2eO4B5LsJh"
       },
@@ -1486,6 +1508,28 @@
       "duration_ms": 161560,
       "name": "Rondeau: Paula",
       "url": "https://open.spotify.com/track/5GeLatpepLly0qTAqP5VHm"
+    },
+    {
+      "album": {
+        "name": "Letter(s) to Erik Satie - 6 Gnossiennes: No. 3, Lent",
+        "url": "https://open.spotify.com/album/254MKjiyK6jpxy4lTuZybf"
+      },
+      "artists": [
+        {
+          "name": "Erik Satie",
+          "url": "https://open.spotify.com/artist/459INk8vcC0ebEef82WjIK"
+        },
+        {
+          "name": "Bertrand Chamayou",
+          "url": "https://open.spotify.com/artist/28Bn2PxtmXD8UbBSM968Fp"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165986,
+      "name": "Satie: 6 Gnossiennes: No. 3, Lent",
+      "url": "https://open.spotify.com/track/6L4nMQYd5z0bOiKWCPz3b2"
     },
     {
       "album": {

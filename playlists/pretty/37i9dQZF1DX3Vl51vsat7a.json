@@ -1,12 +1,12 @@
 {
   "description": "Discover your new favourite artists with a focus on Germany, Switzerland, Austria. Cover: Cloudy June",
-  "num_followers": 24574,
+  "num_followers": 24583,
   "original_name": "RADAR GSA",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2MmU4ZjE5Y2NmNmE3MTIwYzk4NDg4YWUzZDU2MjNkMjY2N2M5N2Zm",
+  "snapshot_id": "MCw0NjgwYjJmYzg1YjJmZDVhNGNlY2JkNmM5MzUxMWQwMzMzMjI0ZTlj",
   "tracks": [
     {
       "added_at": "2023-10-12 22:00:00",
@@ -231,7 +231,7 @@
     {
       "added_at": "2023-10-12 22:00:00",
       "album": {
-        "name": "Good Good",
+        "name": "good good",
         "url": "https://open.spotify.com/album/5G2EiAE53X62bW3erdq1lw"
       },
       "artists": [
@@ -241,7 +241,7 @@
         }
       ],
       "duration_ms": 155538,
-      "name": "Good Good",
+      "name": "good good",
       "url": "https://open.spotify.com/track/4clhJIomittfffOssrsKMh"
     },
     {

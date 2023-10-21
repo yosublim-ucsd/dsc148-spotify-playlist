@@ -621,6 +621,28 @@
     },
     {
       "album": {
+        "name": "Beside You (feat. LIMZY)",
+        "url": "https://open.spotify.com/album/3zUFUes1ztWrgPFWSkomfu"
+      },
+      "artists": [
+        {
+          "name": "Sumsher",
+          "url": "https://open.spotify.com/artist/5hb1plh7RDdl57ztwwzAzm"
+        },
+        {
+          "name": "Limzy",
+          "url": "https://open.spotify.com/artist/1S3po0DnvzmI2nDXxbxfUu"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188571,
+      "name": "Beside You (feat. LIMZY)",
+      "url": "https://open.spotify.com/track/6FCgF4BO3QzteywSsuJ7Tk"
+    },
+    {
+      "album": {
         "name": "Fisherman's knot",
         "url": "https://open.spotify.com/album/4h1KVlbxt4uCid76zyXtE7"
       },
@@ -1294,7 +1316,7 @@
       ],
       "date_added": "2023-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-21",
       "duration_ms": 184908,
       "name": "DO (Feat. LeeHi)",
       "url": "https://open.spotify.com/track/2MVEiDjCneHRZxmv10rb5l"
@@ -1893,6 +1915,24 @@
     },
     {
       "album": {
+        "name": "Hand\u3008Sanullim's 50th anniversary collaboration album\u3009",
+        "url": "https://open.spotify.com/album/1wxEWZ9ARGDnEWyfGv42tn"
+      },
+      "artists": [
+        {
+          "name": "OWALLOIL",
+          "url": "https://open.spotify.com/artist/59THIwTnvgT7SeGFzocky2"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232466,
+      "name": "Hand",
+      "url": "https://open.spotify.com/track/5Apwi7i7yPRP6LXVinpjuN"
+    },
+    {
+      "album": {
         "name": "Hangang",
         "url": "https://open.spotify.com/album/6ooXFjQ7yNU66cYeGSBv1r"
       },
@@ -2400,10 +2440,28 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-21",
       "duration_ms": 227186,
       "name": "insomnia (feat. KURO)",
       "url": "https://open.spotify.com/track/7Jartabvap5nlDW9IGXrPd"
+    },
+    {
+      "album": {
+        "name": "INVU",
+        "url": "https://open.spotify.com/album/0ToIkUqka6WWsMQw3TETdw"
+      },
+      "artists": [
+        {
+          "name": "BAMSOOSUNG",
+          "url": "https://open.spotify.com/artist/2iijjkoVBe57TcHnsR3sOy"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184821,
+      "name": "INVU",
+      "url": "https://open.spotify.com/track/7d3plYwBTEDTGaMJFihbcW"
     },
     {
       "album": {
@@ -2480,6 +2538,24 @@
       "duration_ms": 229570,
       "name": "LA VIE",
       "url": "https://open.spotify.com/track/0eW5FMPvIQXhMYZQhea7Hj"
+    },
+    {
+      "album": {
+        "name": "LAGUNA",
+        "url": "https://open.spotify.com/album/4RlL2z1IYi7sQdFVNAiKLy"
+      },
+      "artists": [
+        {
+          "name": "SINDOSI:22",
+          "url": "https://open.spotify.com/artist/7vevYh1lSMFrRhH72kFtpY"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 86933,
+      "name": "LAGUNA",
+      "url": "https://open.spotify.com/track/22owQfiAnHK01fMQ6LoIxg"
     },
     {
       "album": {
@@ -2890,7 +2966,7 @@
       ],
       "date_added": "2023-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-21",
       "duration_ms": 195306,
       "name": "Morning Coffee",
       "url": "https://open.spotify.com/track/1KH1fP5NAN04rOqToDCewI"
@@ -3104,7 +3180,7 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-21",
       "duration_ms": 171680,
       "name": "No.5",
       "url": "https://open.spotify.com/track/0qPE8po4lQB34Ag281MBMr"
@@ -3275,6 +3351,28 @@
     },
     {
       "album": {
+        "name": "Ordinary",
+        "url": "https://open.spotify.com/album/1TexFuMSAaTiaxUqKxZBo6"
+      },
+      "artists": [
+        {
+          "name": "Bas Bao",
+          "url": "https://open.spotify.com/artist/0hKuWSrSFMRRNAh6t8wGXT"
+        },
+        {
+          "name": "That",
+          "url": "https://open.spotify.com/artist/0XWHgRkMLtPTmrumiHhvTL"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207750,
+      "name": "Ordinary",
+      "url": "https://open.spotify.com/track/7eNqw8m9YmTgcKLeJU8WQr"
+    },
+    {
+      "album": {
         "name": "imagine club",
         "url": "https://open.spotify.com/album/1Fhu3FJHqttNA1d6e7VXxC"
       },
@@ -3398,7 +3496,7 @@
       ],
       "date_added": "2023-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-21",
       "duration_ms": 196074,
       "name": "Purple Love (Feat. Leellamarz)",
       "url": "https://open.spotify.com/track/0Jo0mDbEb7eJYf4H13M2az"
@@ -3972,6 +4070,28 @@
       "duration_ms": 243281,
       "name": "This night",
       "url": "https://open.spotify.com/track/4TpvzMWFgeIU188OdlNhGh"
+    },
+    {
+      "album": {
+        "name": "This song is about you",
+        "url": "https://open.spotify.com/album/2MoQ5Vu6dbwW3uodxU3w1M"
+      },
+      "artists": [
+        {
+          "name": "heyden",
+          "url": "https://open.spotify.com/artist/2ZIDhUnok7DtASQi5blDnE"
+        },
+        {
+          "name": "Grass",
+          "url": "https://open.spotify.com/artist/3IAV4UlkGi0MzK0rEijrHi"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187586,
+      "name": "This song is about you",
+      "url": "https://open.spotify.com/track/33RENj1uecpLxh3p25aTj0"
     },
     {
       "album": {
@@ -4768,7 +4888,7 @@
       ],
       "date_added": "2023-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-21",
       "duration_ms": 190246,
       "name": "Your Love (Feat. Lee Chanhyuk)",
       "url": "https://open.spotify.com/track/5oEqqlCFYDivgrCabSoaiW"

@@ -67,7 +67,7 @@ naming collisions when archiving personalized playlists, which have the
 same name for every user. To add an alias, add a single line
 containing the desired name to `playlists/registry/<playlist_id>`.
 
-## Playlists \(6895\)
+## Playlists \(6896\)
 
 - ["Suzume" & Songs from Makoto Shinkai's Movies \(\~2022\)](/playlists/pretty/37i9dQZF1DX0KA2LHWBFpC.md)
 - [\#FlashbackFriday](/playlists/pretty/2dWfCGZguakRQagX7wM6Mi.md)
@@ -220,7 +220,7 @@ containing the desired name to `playlists/registry/<playlist_id>`.
 - [396 Hz](/playlists/pretty/37i9dQZF1DX9JGJTJ2WFXi.md)
 - [40s Country](/playlists/pretty/37i9dQZF1DX0vVAWnG6fKT.md)
 - [417 Hz](/playlists/pretty/37i9dQZF1DWSRkksm0qURy.md)
-- [432 Hz Deep Meditation](/playlists/pretty/37i9dQZF1DX3DRt77Ekehy.md)
+- [432 Hz Meditation](/playlists/pretty/37i9dQZF1DX3DRt77Ekehy.md)
 - [4:00 AM GROOVE](/playlists/pretty/37i9dQZF1DXbShqaetC9Tw.md)
 - [4AM Chillout](/playlists/pretty/37i9dQZF1DXdbizRAR17Ui.md)
 - [4AM Perreo](/playlists/pretty/37i9dQZF1DX0J2sZQ1dV6f.md)
@@ -653,7 +653,6 @@ containing the desired name to `playlists/registry/<playlist_id>`.
 - [Baby Massage](/playlists/pretty/37i9dQZF1DX8tYYl2HSCud.md)
 - [Baby Sleep](/playlists/pretty/37i9dQZF1DX0DxcHtn4Hwo.md)
 - [Baby Sleep Aid Rain Sounds](/playlists/pretty/37i9dQZF1DXdp5bwJ1FHFe.md)
-- [Baby Sleep Aid: Brown Noise](/playlists/pretty/37i9dQZF1DWYS46hDOnlDC.md)
 - [Baby Sleep Aid: White Noise](/playlists/pretty/37i9dQZF1DXby8tlLbzqaH.md)
 - [Baby Sleep Nature Sounds](/playlists/pretty/37i9dQZF1DX5ZTdvWvQHAL.md)
 - [Bach Piano](/playlists/pretty/37i9dQZF1DWTLz6aEnpwGt.md)
@@ -705,6 +704,7 @@ containing the desired name to `playlists/registry/<playlist_id>`.
 - [Barefoot and Free](/playlists/pretty/37i9dQZF1DWY5zqHqQrusq.md)
 - [Barista Blend](/playlists/pretty/25zEHXJzEQZU1eyF6eqEzD.md)
 - [Baroque Classics](/playlists/pretty/37i9dQZF1DWXjj6kdiviS0.md)
+- [Barracuda Queens Official Playlist](/playlists/pretty/37i9dQZF1DX4gqLJRpBq2Z.md)
 - [Barça Legends: R10](/playlists/pretty/37i9dQZF1DX3qlucjkX5Dv.md)
 - [Bass Arcade](/playlists/pretty/37i9dQZF1DX0hvSv9Rf41p.md)
 - [Bass Explosion](/playlists/pretty/37i9dQZF1DX9Bom9R0tCgx.md)
@@ -897,7 +897,7 @@ containing the desired name to `playlists/registry/<playlist_id>`.
 - [Bollywood 2.O](/playlists/pretty/37i9dQZF1DX3A421vEQpsl.md)
 - [Bollywood Acoustic](/playlists/pretty/37i9dQZF1DWSwxyU5zGZYe.md)
 - [Bollywood Araby](/playlists/pretty/37i9dQZF1DX7cLxqtNO3zl.md)
-- [Bollywood Butter](/playlists/pretty/37i9dQZF1DWXtlo6ENS92N.md)
+- [Bollywood Central](/playlists/pretty/37i9dQZF1DWXtlo6ENS92N.md)
 - [Bollywood Dance Music](/playlists/pretty/37i9dQZF1DX8xfQRRX1PDm.md)
 - [Bollywood Jazz](/playlists/pretty/37i9dQZF1DX1lEmZQJ3oaw.md)
 - [Bollywood Mush](/playlists/pretty/37i9dQZF1DXdpQPPZq3F7n.md)
@@ -958,6 +958,7 @@ containing the desired name to `playlists/registry/<playlist_id>`.
 - [Broker \(브로커\)](/playlists/pretty/37i9dQZF1DX5ZabZ8cxclR.md)
 - [BrooklynVegan Weekly Playlist](/playlists/pretty/0ZQcCFqc1ziBiC1fvrrbsT.md)
 - [Brown Noise](/playlists/pretty/37i9dQZF1DX4hpot8sYudB.md)
+- [Brown Noise Baby Sleep](/playlists/pretty/37i9dQZF1DWYS46hDOnlDC.md)
 - [Brown and Black Excellence](/playlists/pretty/37i9dQZF1DWWwkbFYEItuo.md)
 - [BruceDropEmOff's Taste](/playlists/pretty/37i9dQZF1DWV8jiBuMzYD6.md)
 - [Brunch Jazz](/playlists/pretty/37i9dQZF1DX9BVquKzFnCW.md)

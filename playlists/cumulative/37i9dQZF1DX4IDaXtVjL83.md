@@ -2,9 +2,9 @@
 
 ### [K\-Pop X\-Overs](https://open.spotify.com/playlist/37i9dQZF1DX4IDaXtVjL83)
 
-> Watch out for all the collaborations and cross\-overs in the K\-Pop world! \(Cover: B.I, James Reid\)
+> Watch out for all the collaborations and cross\-overs in the K\-Pop world! \(Cover: The Kid LAROI, Jung Kook, Central Cee\)
 
-144 songs - 7 hr 45 min
+146 songs - 7 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,6 +17,7 @@
 | [About Time \(feat\. Kelsey Kuan & prettyhappy\)](https://open.spotify.com/track/3J7hHQpqeaAcjJfSwMtRyG) | [Dept](https://open.spotify.com/artist/48JtfAggQQpfUXQNxkGm5U), [Kelsey Kuan](https://open.spotify.com/artist/4aWzckAj2ZOeSBbLyYXtR9), [prettyhappy](https://open.spotify.com/artist/3doCkojWogBLg7PlYwaiG5) | [About Time](https://open.spotify.com/album/7c0ZJvTLEC3IRWyFdssXab) | 2:47 | 2022-02-16 | 2023-02-17 |
 | [Alcohol\-Free \- Japanese ver.](https://open.spotify.com/track/3gSGchfwjDKKVOE3RRXDSZ) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [\#TWICE4 \(Japanese ver.\)](https://open.spotify.com/album/5UMKm3ihuSD9WQDkwQ7btX) | 3:33 | 2022-03-16 |  |
 | [All Good\-JP Ver.\-](https://open.spotify.com/track/0UtMa8PmILmB188rSCBVb2) | [ASTRO](https://open.spotify.com/artist/4pz4uzOMpJQyV8UTsDy4H8) | [All Good\-JP Ver.\-](https://open.spotify.com/album/7HUcINwctfzAmaDrXiZm71) | 3:25 | 2021-12-20 | 2022-02-25 |
+| [All My Life \(Stray Kids Remix\)](https://open.spotify.com/track/5OHNBi6tsE0acRA9Kt4ybC) | [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7), [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [All My Life \(Remixes\)](https://open.spotify.com/album/11OlFW8YpwZTlhAdc0NCV7) | 3:37 | 2023-10-20 |  |
 | [AUTODEADMA \(feat\. WOOSEOK of PENTAGON\)](https://open.spotify.com/track/1huXH6cjXHN2ZpqnnG7dLo) | [Maymay Entrata](https://open.spotify.com/artist/4JliYPIw09GespZAmZv6rI), [WOOSEOK](https://open.spotify.com/artist/1JVVY2kKddJ0JkDkbEZk4V), [PENTAGON](https://open.spotify.com/artist/1wKpMkucynaTfG8lyPprYV) | [AUTODEADMA \(feat\. WOOSEOK of PENTAGON\)](https://open.spotify.com/album/1XSaxEw0RTVC2WRuFwONVP) | 3:32 | 2023-04-30 |  |
 | [Back for More \(with Anitta\)](https://open.spotify.com/track/6uTPA1xlcsk6dbchB2dhzl) | [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB), [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [Back for More \(with Anitta\)](https://open.spotify.com/album/5zhfCotijpaEJfQNVAC8mV) | 2:11 | 2023-09-15 |  |
 | [Bad Habits \- SHAUN Remix](https://open.spotify.com/track/1ojXznve83pqLCTdy3945M) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V), [SHAUN](https://open.spotify.com/artist/72nLe76yBFSlP6VBzME358) | [Bad Habits \(The Remixes\)](https://open.spotify.com/album/1cvxALyvpgUpRqxix4vhLK) | 3:44 | 2021-12-20 | 2022-04-20 |
@@ -126,6 +127,7 @@
 | [The Feels](https://open.spotify.com/track/6pgqZ7Iw4LfHlfgWWaRFSY) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [The Feels](https://open.spotify.com/album/744iq6HcpYJixN85Egbvt9) | 3:18 | 2021-12-20 | 2022-07-29 |
 | [The Weekend](https://open.spotify.com/track/5q3LwAHTqo9d3rET2EA9Nq) | [88rising](https://open.spotify.com/artist/1AhjOkOLkbHUfcHDSErXQs), [BIBI](https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9) | [The Weekend](https://open.spotify.com/album/6zQD9g698P2LjEtKpoBXWq) | 2:47 | 2021-12-20 |  |
 | [The Weekend \(with 347aidan\) \- Remix](https://open.spotify.com/track/0G7xOaJtStqoAEyLKNuRA3) | [88rising](https://open.spotify.com/artist/1AhjOkOLkbHUfcHDSErXQs), [BIBI](https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9), [347aidan](https://open.spotify.com/artist/0bBz5bRBkExaej2HxtVfCw) | [The Weekend \(with 347aidan\) \[Remix\]](https://open.spotify.com/album/6Ccx88JcI9DhF1HjtGExZR) | 2:47 | 2022-01-21 | 2022-12-06 |
+| [TOO MUCH](https://open.spotify.com/track/0rKWJnmo6Q0ovoPOLoLm0t) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J), [Jung Kook](https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc), [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [TOO MUCH](https://open.spotify.com/album/7gCggwpSuqUmVzWniLdpKR) | 3:23 | 2023-10-20 |  |
 | [Under the Full Moon \- Alok Remix](https://open.spotify.com/track/2P7EG5won3VGHTzqimR9N5) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [Sonnet](https://open.spotify.com/artist/2RtkJZ5bHvyy1g3tHxfv0B), [Kim Jun Su](https://open.spotify.com/artist/7CUcK2meST31pjD3V14khI) | [Under the Full Moon \(Alok Remix\)](https://open.spotify.com/album/1AGVgb3cJdeyAjm1WAQxIk) | 2:45 | 2022-07-22 |  |
 | [Under the Full Moon \- Alok Remix](https://open.spotify.com/track/6mMaK2MTTnJR1vug1ykPig) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [Sonnet](https://open.spotify.com/artist/2RtkJZ5bHvyy1g3tHxfv0B), [Kim Jun Su](https://open.spotify.com/artist/7CUcK2meST31pjD3V14khI) | [Under the Full Moon \(Alok Remix\)](https://open.spotify.com/album/4yC8CrziY3rJMkTKVM6lIG) | 2:45 | 2022-03-04 | 2022-07-29 |
 | [UNFORGIVEN \- Japanese ver.](https://open.spotify.com/track/07Kq5cRJkYNieu1rge3PZX) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p), [ナイル・ロジャース](https://open.spotify.com/artist/7sKzaEQMrAbbO3Q3cTzazQ), [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [UNFORGIVEN \(Japanese ver.\)](https://open.spotify.com/album/28unbkaJvfdbM5zffw9vpc) | 3:02 | 2023-08-18 |  |

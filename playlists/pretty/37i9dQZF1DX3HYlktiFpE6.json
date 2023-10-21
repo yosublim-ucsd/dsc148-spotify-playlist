@@ -1,13 +1,29 @@
 {
   "description": "Your favorite a cappella music from Pentatonix, the Glee cast, Pitch Perfect, and more. Just sing it! Cover: Pentatonix",
-  "num_followers": 101370,
+  "num_followers": 101376,
   "original_name": "All A Cappella",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3OTY1YjgzMDU5OTYxYTQ0NjcxNDIxNDBiZjA1YzNjYmFiNGVmYmQ3",
+  "snapshot_id": "MCxjMTcxYjYxNjY4NWFlYTBkM2IyM2E1MGY3NTcyOTYzNzI5ZmJhNDI0",
   "tracks": [
+    {
+      "added_at": "2023-10-20 04:00:00",
+      "album": {
+        "name": "Life is a Highway (Home Free's Version)",
+        "url": "https://open.spotify.com/album/62a9OZQr3Kczzt0tY1c1Dh"
+      },
+      "artists": [
+        {
+          "name": "Home Free",
+          "url": "https://open.spotify.com/artist/2MSlGNpwXDScUdspOK6TS7"
+        }
+      ],
+      "duration_ms": 198893,
+      "name": "Life is a Highway - Home Free's Version",
+      "url": "https://open.spotify.com/track/7nfcplt8hszPHYv0ECiPdg"
+    },
     {
       "added_at": "2023-08-11 04:01:00",
       "album": {
@@ -81,6 +97,26 @@
       "url": "https://open.spotify.com/track/4HcqUkRTvrRAiFVjeOS3w4"
     },
     {
+      "added_at": "2023-10-20 04:00:00",
+      "album": {
+        "name": "Time Warp",
+        "url": "https://open.spotify.com/album/0wUZZmPK9zUVoydNeQSsK2"
+      },
+      "artists": [
+        {
+          "name": "VoicePlay",
+          "url": "https://open.spotify.com/artist/4RuHLdmbr1G9BD5aN63Go3"
+        },
+        {
+          "name": "Ashley Diane",
+          "url": "https://open.spotify.com/artist/3frgulm2dfyi4iqRXIFuVw"
+        }
+      ],
+      "duration_ms": 120890,
+      "name": "Time Warp",
+      "url": "https://open.spotify.com/track/1sKXStlLjSdL7iGBzMaToM"
+    },
+    {
       "added_at": "2023-05-19 04:00:00",
       "album": {
         "name": "Affiliations, Vol. 3",
@@ -99,6 +135,22 @@
       "duration_ms": 167532,
       "name": "Meant to Be",
       "url": "https://open.spotify.com/track/5oEQ49k6hTkwkaRZ0uKB2I"
+    },
+    {
+      "added_at": "2023-10-20 04:00:00",
+      "album": {
+        "name": "Where Have You Been",
+        "url": "https://open.spotify.com/album/157Pscku6JDc4qZ4wyVqIT"
+      },
+      "artists": [
+        {
+          "name": "The Harvard Opportunes",
+          "url": "https://open.spotify.com/artist/2VyMwoZuuLbwsOjFVqw2O0"
+        }
+      ],
+      "duration_ms": 221030,
+      "name": "Where Have You Been",
+      "url": "https://open.spotify.com/track/5k8OhvOHnnkesuWHSZx3EQ"
     },
     {
       "added_at": "2021-12-24 05:00:00",
@@ -211,6 +263,22 @@
       "duration_ms": 197010,
       "name": "Delta Dawn",
       "url": "https://open.spotify.com/track/1sBbXkYUzsTnWfuzG0zeaf"
+    },
+    {
+      "added_at": "2023-10-20 04:00:00",
+      "album": {
+        "name": "Profiles",
+        "url": "https://open.spotify.com/album/3bEXompivsNWzJnqKGtTPO"
+      },
+      "artists": [
+        {
+          "name": "The Filharmonic",
+          "url": "https://open.spotify.com/artist/63QppfTaQHZpb8VhSlsvZz"
+        }
+      ],
+      "duration_ms": 192535,
+      "name": "Every Summertime",
+      "url": "https://open.spotify.com/track/22mBPR8JCwq0Pn1SLRdhBX"
     },
     {
       "added_at": "2023-05-03 13:16:53",
@@ -913,26 +981,6 @@
       "url": "https://open.spotify.com/track/2iSznonsMCSU95AHXFGVcH"
     },
     {
-      "added_at": "2023-01-13 05:01:00",
-      "album": {
-        "name": "Ordinary People",
-        "url": "https://open.spotify.com/album/7eUyybbl4WNllfbMIng1Sk"
-      },
-      "artists": [
-        {
-          "name": "VoicePlay",
-          "url": "https://open.spotify.com/artist/4RuHLdmbr1G9BD5aN63Go3"
-        },
-        {
-          "name": "J.None",
-          "url": "https://open.spotify.com/artist/3WbIAfBAZZolnww7HPuWqe"
-        }
-      ],
-      "duration_ms": 74059,
-      "name": "Ordinary People",
-      "url": "https://open.spotify.com/track/76gxuHuto98nHGREuQmYMn"
-    },
-    {
       "added_at": "2021-12-24 05:00:00",
       "album": {
         "name": "Surface Pressure",
@@ -1019,22 +1067,6 @@
     {
       "added_at": "2021-12-24 05:00:00",
       "album": {
-        "name": "Six Pack: Volume 2",
-        "url": "https://open.spotify.com/album/26vgJStksNILcA0C3FTtX6"
-      },
-      "artists": [
-        {
-          "name": "Straight No Chaser",
-          "url": "https://open.spotify.com/artist/1yQ8S4xdGOGbUcpaPR6hCM"
-        }
-      ],
-      "duration_ms": 213880,
-      "name": "Rhythm of Love / Can't Help Falling in Love - EP Version",
-      "url": "https://open.spotify.com/track/2gUJHhcjHiozaETPvjezUy"
-    },
-    {
-      "added_at": "2021-12-24 05:00:00",
-      "album": {
         "name": "Everyday Sounds I",
         "url": "https://open.spotify.com/album/7sbf6Hl244nxyDjyMlzm4U"
       },
@@ -1107,22 +1139,6 @@
       "duration_ms": 154146,
       "name": "Trebles Finals: Bright Lights Bigger City/Magic",
       "url": "https://open.spotify.com/track/2mgPmzcrz3sBCR7AvCr6mE"
-    },
-    {
-      "added_at": "2021-12-24 05:00:00",
-      "album": {
-        "name": "Crazy Life",
-        "url": "https://open.spotify.com/album/7qn9BbiBucTH28IoyEGMyy"
-      },
-      "artists": [
-        {
-          "name": "Home Free",
-          "url": "https://open.spotify.com/artist/2MSlGNpwXDScUdspOK6TS7"
-        }
-      ],
-      "duration_ms": 193733,
-      "name": "Wake Me Up",
-      "url": "https://open.spotify.com/track/60Q0ZSKKBea7otGijFgrQI"
     },
     {
       "added_at": "2021-12-24 05:00:00",
@@ -1243,22 +1259,6 @@
       "duration_ms": 232698,
       "name": "Defying Gravity",
       "url": "https://open.spotify.com/track/5rbOLgXDaMbQnPS5TgBsYv"
-    },
-    {
-      "added_at": "2023-01-13 05:01:00",
-      "album": {
-        "name": "Over the Bridge",
-        "url": "https://open.spotify.com/album/4dt8SuN0OuJzBITTMhrU78"
-      },
-      "artists": [
-        {
-          "name": "Hyannis Sound",
-          "url": "https://open.spotify.com/artist/4lEFWJCOBV28nMF30Kqr9p"
-        }
-      ],
-      "duration_ms": 240666,
-      "name": "Call Me Maybe / What Makes You Beautiful",
-      "url": "https://open.spotify.com/track/2qeGhGYTC0quepUOceljDH"
     },
     {
       "added_at": "2023-01-13 05:01:00",

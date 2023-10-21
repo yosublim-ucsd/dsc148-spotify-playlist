@@ -398,7 +398,7 @@
       ],
       "date_added": "2022-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-21",
       "duration_ms": 240666,
       "name": "Call Me Maybe / What Makes You Beautiful",
       "url": "https://open.spotify.com/track/2qeGhGYTC0quepUOceljDH"
@@ -856,6 +856,24 @@
       "duration_ms": 224824,
       "name": "Escape (The Pi\u00f1a Colada Song)",
       "url": "https://open.spotify.com/track/5Q9y6VbwQ5PvvnfAJJ8R1K"
+    },
+    {
+      "album": {
+        "name": "Profiles",
+        "url": "https://open.spotify.com/album/3bEXompivsNWzJnqKGtTPO"
+      },
+      "artists": [
+        {
+          "name": "The Filharmonic",
+          "url": "https://open.spotify.com/artist/63QppfTaQHZpb8VhSlsvZz"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192535,
+      "name": "Every Summertime",
+      "url": "https://open.spotify.com/track/22mBPR8JCwq0Pn1SLRdhBX"
     },
     {
       "album": {
@@ -1615,6 +1633,24 @@
     },
     {
       "album": {
+        "name": "Life is a Highway (Home Free's Version)",
+        "url": "https://open.spotify.com/album/62a9OZQr3Kczzt0tY1c1Dh"
+      },
+      "artists": [
+        {
+          "name": "Home Free",
+          "url": "https://open.spotify.com/artist/2MSlGNpwXDScUdspOK6TS7"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198893,
+      "name": "Life is a Highway - Home Free's Version",
+      "url": "https://open.spotify.com/track/7nfcplt8hszPHYv0ECiPdg"
+    },
+    {
+      "album": {
         "name": "Pasta Nights",
         "url": "https://open.spotify.com/album/0qLX5MqJJGCO7QecwlD1xv"
       },
@@ -1870,7 +1906,7 @@
       ],
       "date_added": "2022-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-21",
       "duration_ms": 74059,
       "name": "Ordinary People",
       "url": "https://open.spotify.com/track/76gxuHuto98nHGREuQmYMn"
@@ -2098,7 +2134,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-21",
       "duration_ms": 213880,
       "name": "Rhythm of Love / Can't Help Falling in Love - EP Version",
       "url": "https://open.spotify.com/track/2gUJHhcjHiozaETPvjezUy"
@@ -2781,6 +2817,28 @@
     },
     {
       "album": {
+        "name": "Time Warp",
+        "url": "https://open.spotify.com/album/0wUZZmPK9zUVoydNeQSsK2"
+      },
+      "artists": [
+        {
+          "name": "VoicePlay",
+          "url": "https://open.spotify.com/artist/4RuHLdmbr1G9BD5aN63Go3"
+        },
+        {
+          "name": "Ashley Diane",
+          "url": "https://open.spotify.com/artist/3frgulm2dfyi4iqRXIFuVw"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120890,
+      "name": "Time Warp",
+      "url": "https://open.spotify.com/track/1sKXStlLjSdL7iGBzMaToM"
+    },
+    {
+      "album": {
         "name": "Toto",
         "url": "https://open.spotify.com/album/1AG03Bhd06Y5W9m4LZjlQZ"
       },
@@ -2922,7 +2980,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-21",
       "duration_ms": 193733,
       "name": "Wake Me Up",
       "url": "https://open.spotify.com/track/60Q0ZSKKBea7otGijFgrQI"
@@ -3024,6 +3082,24 @@
       "duration_ms": 159844,
       "name": "When Will I Be Loved",
       "url": "https://open.spotify.com/track/6V1Guqqm0Y7hqwt98mQQ5X"
+    },
+    {
+      "album": {
+        "name": "Where Have You Been",
+        "url": "https://open.spotify.com/album/157Pscku6JDc4qZ4wyVqIT"
+      },
+      "artists": [
+        {
+          "name": "The Harvard Opportunes",
+          "url": "https://open.spotify.com/artist/2VyMwoZuuLbwsOjFVqw2O0"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221030,
+      "name": "Where Have You Been",
+      "url": "https://open.spotify.com/track/5k8OhvOHnnkesuWHSZx3EQ"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX3HYlktiFpE6"

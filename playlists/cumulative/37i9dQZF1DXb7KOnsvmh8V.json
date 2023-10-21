@@ -52,7 +52,7 @@
       ],
       "date_added": "2022-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-21",
       "duration_ms": 198400,
       "name": "A Hazy Shade Of Winter",
       "url": "https://open.spotify.com/track/07UJwROZlxGkoq0dlv4FvQ"
@@ -178,7 +178,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-21",
       "duration_ms": 144512,
       "name": "Baby, It's Cold Outside",
       "url": "https://open.spotify.com/track/7jCljZFQGhUqK1dNPtfvMQ"
@@ -268,7 +268,7 @@
       ],
       "date_added": "2022-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-21",
       "duration_ms": 324600,
       "name": "Christmas All Over Again",
       "url": "https://open.spotify.com/track/4iZI4cXUM9nnNIBKAMvZot"
@@ -610,7 +610,7 @@
       ],
       "date_added": "2022-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-21",
       "duration_ms": 213750,
       "name": "Country Christmas",
       "url": "https://open.spotify.com/track/1A81LCryI8Trjaml37TeLK"
@@ -960,7 +960,7 @@
       ],
       "date_added": "2022-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-21",
       "duration_ms": 199263,
       "name": "Holiday Road",
       "url": "https://open.spotify.com/track/6l3NlQ3EcvpundwJBxA9Mk"
@@ -1268,6 +1268,24 @@
       "duration_ms": 192420,
       "name": "It's Not Christmas 'Til You Come Home - Recorded At Spotify Studios NYC",
       "url": "https://open.spotify.com/track/7FWvBjQqt9DEDilkq18Mv9"
+    },
+    {
+      "album": {
+        "name": "It's the Holiday Season",
+        "url": "https://open.spotify.com/album/0nsxpYaQkE4WuR5BIN4dZC"
+      },
+      "artists": [
+        {
+          "name": "Kelsey Hodge",
+          "url": "https://open.spotify.com/artist/2zUiqmTRqR78NYrM2QuNLE"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166938,
+      "name": "It's the Holiday Season",
+      "url": "https://open.spotify.com/track/1bgd7mWTXuT2DRWvU9QfXO"
     },
     {
       "album": {
@@ -1885,6 +1903,24 @@
     },
     {
       "album": {
+        "name": "Oh, What a Merry Christmas Day",
+        "url": "https://open.spotify.com/album/4byYCx7X0hTKcp5WXgJOaz"
+      },
+      "artists": [
+        {
+          "name": "The Mistrals",
+          "url": "https://open.spotify.com/artist/2PSdm3Fy1O6xpCRUM5EJjk"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 108679,
+      "name": "Oh, What a Merry Christmas Day",
+      "url": "https://open.spotify.com/track/1UVtVJ2PyzFVxASoyCKZH5"
+    },
+    {
+      "album": {
         "name": "Old Time Christmas",
         "url": "https://open.spotify.com/album/400GevcjYjBmtOzCn6orRT"
       },
@@ -2094,7 +2130,7 @@
       ],
       "date_added": "2022-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-21",
       "duration_ms": 184067,
       "name": "Santa Bring My Baby Back To Me",
       "url": "https://open.spotify.com/track/4j1EbVcxa43YPP6c0YH1Xu"
@@ -2184,7 +2220,7 @@
       ],
       "date_added": "2022-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-21",
       "duration_ms": 195254,
       "name": "Santa Looked A Lot Like Daddy",
       "url": "https://open.spotify.com/track/3hMmHY59OdBqMvPurPp3Jv"
@@ -2292,7 +2328,7 @@
       ],
       "date_added": "2022-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-21",
       "duration_ms": 199811,
       "name": "Sleigh Ride",
       "url": "https://open.spotify.com/track/6LdQoDin2E7c3AGRfWAka2"
@@ -2574,7 +2610,7 @@
       ],
       "date_added": "2022-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-21",
       "duration_ms": 206437,
       "name": "Walking In The Air",
       "url": "https://open.spotify.com/track/4fgAnfGDUtwvc7hDQLoQK0"

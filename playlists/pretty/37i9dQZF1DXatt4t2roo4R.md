@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXatt4t2roo4R.md) - [plain]
 
 > 트와이스의 \[ONCE AGAIN\]  <a href="    ">팬미팅 이벤트 참여</a>는 클립스를 확인하세요! 팬미팅을 기다리며 트와이스의 대표곡들을 감상해보세요.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,288 likes - 25 songs - 1 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,797 likes - 25 songs - 1 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,4 +34,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXatt4t2roo4R.md) - [plain]
 | 24 | [MOONLIGHT SUNRISE](https://open.spotify.com/track/5NcLyVjUgG0yfwHgr5t81w) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [MOONLIGHT SUNRISE](https://open.spotify.com/album/3Haj0Fa9S49LCeYcOiODcL) | 3:00 |
 | 25 | [SET ME FREE](https://open.spotify.com/track/4OtVQ2ZxS7yigIjGz5yKg1) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [READY TO BE](https://open.spotify.com/album/7hzP5i7StxYG4StECA0rrJ) | 3:01 |
 
-Snapshot ID: `MCwyNWE2OWY3ZDEzNTI0MTQyZjUxZmQ2M2ViNTJlMzAyZDBlZGU2YWVl`
+Snapshot ID: `MCxjNTRjY2FjY2M5ZDkxMzM3YzllYTE5MGExYjgyNTQzMzViMzcyNDc5`

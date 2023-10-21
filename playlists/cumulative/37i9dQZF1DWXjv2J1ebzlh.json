@@ -10268,10 +10268,28 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-21",
       "duration_ms": 191560,
       "name": "Deixa A Gira Girar",
       "url": "https://open.spotify.com/track/3BD2hlwoExMUXUpxcYxaWx"
+    },
+    {
+      "album": {
+        "name": "Viva Brasil",
+        "url": "https://open.spotify.com/album/5dj8L0XDPdLC5DCN8GBsfK"
+      },
+      "artists": [
+        {
+          "name": "Os Tinco\u00e3s",
+          "url": "https://open.spotify.com/artist/2rnJUBfFhgXBrywGEQ8zC7"
+        }
+      ],
+      "date_added": "2023-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191560,
+      "name": "Deixa A Gira Girar",
+      "url": "https://open.spotify.com/track/5dQ3V2poMcbUPpY3TCTOmN"
     },
     {
       "album": {
@@ -27212,7 +27230,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 252627,
       "name": "N\u00f3s Precisamos de Voc\u00ea (feat. Moses Boyd)",
       "url": "https://open.spotify.com/track/6MJFcSht4BWGqHYeqzJibw"
@@ -27256,7 +27274,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-21",
       "duration_ms": 252627,
       "name": "N\u00f3s Precisamos de Voc\u00ea (feat. Moses Boyd)",
       "url": "https://open.spotify.com/track/73U5rRxyeVZWyKFTKuo9kY"

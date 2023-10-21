@@ -1,12 +1,12 @@
 {
   "description": "dark & dreamy for night creatures",
-  "num_followers": 187707,
+  "num_followers": 188183,
   "original_name": "IRL ANGEL ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1NjAwN2Y3YWUwMDVhNWU1NDNlYjQwMTM4NmYxYmFlY2NlZGVhY2Y3",
+  "snapshot_id": "MCw0ZGRkN2YwMzkzMjg4NmJmMmE5YzczODFmOTdkZjRiZTk4NGRkNDA3",
   "tracks": [
     {
       "added_at": "2023-10-11 04:10:00",
@@ -23,22 +23,6 @@
       "duration_ms": 194319,
       "name": "catalogue",
       "url": "https://open.spotify.com/track/2fjqgNiQI8SbUrfN5yn2GS"
-    },
-    {
-      "added_at": "2023-10-11 04:10:00",
-      "album": {
-        "name": "Your face",
-        "url": "https://open.spotify.com/album/19qeLWS7fwQMYuDosTCTFe"
-      },
-      "artists": [
-        {
-          "name": "Wisp",
-          "url": "https://open.spotify.com/artist/3TJZG17pjOKXwx1ELKJPfm"
-        }
-      ],
-      "duration_ms": 227426,
-      "name": "Your face",
-      "url": "https://open.spotify.com/track/7ne2hzW4jaU5tacaCI4kJH"
     },
     {
       "added_at": "2023-10-11 04:10:00",
@@ -73,6 +57,22 @@
       "url": "https://open.spotify.com/track/3th89PlDwtE7GHz7GD67rz"
     },
     {
+      "added_at": "2023-10-20 04:00:00",
+      "album": {
+        "name": "the star factory",
+        "url": "https://open.spotify.com/album/3uOmDnsAd5bFVaOx6nsUTB"
+      },
+      "artists": [
+        {
+          "name": "ivri",
+          "url": "https://open.spotify.com/artist/5EjK7aUvQ9LMNqc2zXiWLS"
+        }
+      ],
+      "duration_ms": 182233,
+      "name": "limbo",
+      "url": "https://open.spotify.com/track/0JFUAuI5jrh7xHaY0kRFW1"
+    },
+    {
       "added_at": "2023-10-11 04:10:00",
       "album": {
         "name": "forest green",
@@ -103,6 +103,38 @@
       "duration_ms": 206099,
       "name": "softscars",
       "url": "https://open.spotify.com/track/6qCzOLJmzAAsYF5xsz5ajF"
+    },
+    {
+      "added_at": "2023-10-20 04:00:00",
+      "album": {
+        "name": "Census Designated",
+        "url": "https://open.spotify.com/album/0rsCXQ9QyrLaTc2a5fvsZR"
+      },
+      "artists": [
+        {
+          "name": "Jane Remover",
+          "url": "https://open.spotify.com/artist/2rLGlNI6htigNxx172qxLu"
+        }
+      ],
+      "duration_ms": 360995,
+      "name": "Backseat Girl",
+      "url": "https://open.spotify.com/track/7y23wOenPKul2aNEF7Dcwr"
+    },
+    {
+      "added_at": "2023-10-11 04:10:00",
+      "album": {
+        "name": "Your face",
+        "url": "https://open.spotify.com/album/19qeLWS7fwQMYuDosTCTFe"
+      },
+      "artists": [
+        {
+          "name": "Wisp",
+          "url": "https://open.spotify.com/artist/3TJZG17pjOKXwx1ELKJPfm"
+        }
+      ],
+      "duration_ms": 227426,
+      "name": "Your face",
+      "url": "https://open.spotify.com/track/7ne2hzW4jaU5tacaCI4kJH"
     },
     {
       "added_at": "2023-10-11 04:10:00",
@@ -137,6 +169,22 @@
       "url": "https://open.spotify.com/track/7FcI2IZQ0iNgFfitw69FQe"
     },
     {
+      "added_at": "2023-10-20 04:00:00",
+      "album": {
+        "name": "bella / i can't find anyone",
+        "url": "https://open.spotify.com/album/3AJEvGdq17HHvF20ITVbD7"
+      },
+      "artists": [
+        {
+          "name": "EKKSTACY",
+          "url": "https://open.spotify.com/artist/0ynzbXwyCzxicMKHBoOkSH"
+        }
+      ],
+      "duration_ms": 199466,
+      "name": "bella",
+      "url": "https://open.spotify.com/track/2i5q9JRYHVkPNegErZ2WvA"
+    },
+    {
       "added_at": "2023-10-11 04:10:00",
       "album": {
         "name": "Queen Of Her Own Parade",
@@ -167,6 +215,22 @@
       "duration_ms": 208986,
       "name": "Bline",
       "url": "https://open.spotify.com/track/4EwI0qwKcsnquko3zESsPn"
+    },
+    {
+      "added_at": "2023-10-20 04:00:00",
+      "album": {
+        "name": "As She Grows",
+        "url": "https://open.spotify.com/album/4Jtp0VJExXGLjufjffIyLC"
+      },
+      "artists": [
+        {
+          "name": "cruush",
+          "url": "https://open.spotify.com/artist/09SorScmrKs8yZMG9hdr6N"
+        }
+      ],
+      "duration_ms": 134665,
+      "name": "As She Grows",
+      "url": "https://open.spotify.com/track/3SK2WIjwNZJ6mobbJqhDpO"
     },
     {
       "added_at": "2023-10-13 15:21:29",
@@ -201,6 +265,22 @@
       "url": "https://open.spotify.com/track/7hQmgR3ssV8Racno82rkB1"
     },
     {
+      "added_at": "2023-10-20 04:00:00",
+      "album": {
+        "name": "DISDAIN",
+        "url": "https://open.spotify.com/album/7BPRvaesFamtH4Xo82I8nO"
+      },
+      "artists": [
+        {
+          "name": "CORPSE",
+          "url": "https://open.spotify.com/artist/7yntSJ6uojO3z6GFUVwhAW"
+        }
+      ],
+      "duration_ms": 145333,
+      "name": "DISDAIN",
+      "url": "https://open.spotify.com/track/2hEI5r6nDn9ZdNqHluhbdq"
+    },
+    {
       "added_at": "2023-10-13 04:00:00",
       "album": {
         "name": "Waiting Around",
@@ -231,6 +311,22 @@
       "duration_ms": 176988,
       "name": "If I Die",
       "url": "https://open.spotify.com/track/2mTffb4JPUXq31NWaqQgIN"
+    },
+    {
+      "added_at": "2023-10-20 04:00:00",
+      "album": {
+        "name": "NOISE T.V",
+        "url": "https://open.spotify.com/album/3TxlPPVEkL4vlOcmpEJWLS"
+      },
+      "artists": [
+        {
+          "name": "LIL DUSTY G",
+          "url": "https://open.spotify.com/artist/3kBOtwy37e9fzJ3LFSnpbQ"
+        }
+      ],
+      "duration_ms": 178749,
+      "name": "VIOLET NOISE",
+      "url": "https://open.spotify.com/track/62zciqjLHP51CxpJGPGDGM"
     },
     {
       "added_at": "2023-10-11 04:10:00",
@@ -265,6 +361,38 @@
       "url": "https://open.spotify.com/track/6s3DBMoTmoKxZU4kXD5gyq"
     },
     {
+      "added_at": "2023-10-20 04:00:00",
+      "album": {
+        "name": "MODERN FEAR",
+        "url": "https://open.spotify.com/album/6OlwT8dt60p6qgvGUfAnEE"
+      },
+      "artists": [
+        {
+          "name": "Mind\u2019s Eye",
+          "url": "https://open.spotify.com/artist/4o6dCIkmONTJL0ByDDUNYd"
+        }
+      ],
+      "duration_ms": 225300,
+      "name": "MODERN FEAR",
+      "url": "https://open.spotify.com/track/2zy5jtyDojdssT4w32XsAV"
+    },
+    {
+      "added_at": "2023-10-20 04:00:00",
+      "album": {
+        "name": "Half Nelson",
+        "url": "https://open.spotify.com/album/4oCXc06Df2rCYru2NGYxYb"
+      },
+      "artists": [
+        {
+          "name": "Wayside",
+          "url": "https://open.spotify.com/artist/30dxyV2Ax6tiLYdaIFmm2x"
+        }
+      ],
+      "duration_ms": 191410,
+      "name": "Half Nelson",
+      "url": "https://open.spotify.com/track/4DzKsnD6cZyI9Pc53cbBD6"
+    },
+    {
       "added_at": "2023-10-11 04:10:00",
       "album": {
         "name": "Time",
@@ -297,6 +425,26 @@
       "url": "https://open.spotify.com/track/39iczvfNkZstM8KY8dNDFC"
     },
     {
+      "added_at": "2023-10-20 04:00:00",
+      "album": {
+        "name": "Take Me Down (Nourished by Time Version)",
+        "url": "https://open.spotify.com/album/3IixjGRUGeSJtzsA92Ybbr"
+      },
+      "artists": [
+        {
+          "name": "Pearly Drops",
+          "url": "https://open.spotify.com/artist/2eMb96S1ZJ1YQ7FhWAzWJL"
+        },
+        {
+          "name": "Nourished by Time",
+          "url": "https://open.spotify.com/artist/7zNkqI6qRr0OJ4XO1Pw29g"
+        }
+      ],
+      "duration_ms": 243387,
+      "name": "Take Me Down - Nourished by Time Version",
+      "url": "https://open.spotify.com/track/3biDGDnL1hdlXTHgLP3s4m"
+    },
+    {
       "added_at": "2023-10-11 04:10:00",
       "album": {
         "name": "Slumbernumb",
@@ -327,6 +475,22 @@
       "duration_ms": 194666,
       "name": "Tonight (demo)",
       "url": "https://open.spotify.com/track/6p5duPGjAdVYLq2kOGXYUD"
+    },
+    {
+      "added_at": "2023-10-20 04:00:00",
+      "album": {
+        "name": "Hard Candy",
+        "url": "https://open.spotify.com/album/0G92mUSxbHxB804ldhPOru"
+      },
+      "artists": [
+        {
+          "name": "Barrie",
+          "url": "https://open.spotify.com/artist/1pHO6SCEw9tuRx0IVMFL0g"
+        }
+      ],
+      "duration_ms": 113454,
+      "name": "Hard Candy",
+      "url": "https://open.spotify.com/track/4eEvoOiMlEaE2jbEPbYN7b"
     },
     {
       "added_at": "2023-10-11 04:10:00",

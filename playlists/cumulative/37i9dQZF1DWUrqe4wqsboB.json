@@ -479,6 +479,28 @@
     },
     {
       "album": {
+        "name": "La Espina",
+        "url": "https://open.spotify.com/album/31E2WkAxbbxIthqROYkvWp"
+      },
+      "artists": [
+        {
+          "name": "Raquel Sof\u00eda",
+          "url": "https://open.spotify.com/artist/0J9JLJmiTXJFvvyHS3Qzn4"
+        },
+        {
+          "name": "Taiguerz",
+          "url": "https://open.spotify.com/artist/2Yi5LaK2meRKaZ7oUUFHPu"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150636,
+      "name": "La Espina",
+      "url": "https://open.spotify.com/track/2K1PJYuqulzmR5zf6VqnmP"
+    },
+    {
+      "album": {
         "name": "La Estrella del Show",
         "url": "https://open.spotify.com/album/7DDXnFfS9GhbzewYgRAkKf"
       },
@@ -938,7 +960,7 @@
       ],
       "date_added": "2023-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-21",
       "duration_ms": 228413,
       "name": "Tenemos Historia",
       "url": "https://open.spotify.com/track/4v00NVNPRrqj7wMXT0VMrK"

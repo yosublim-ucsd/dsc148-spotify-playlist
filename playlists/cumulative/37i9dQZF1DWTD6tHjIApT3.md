@@ -4,7 +4,7 @@
 
 > 日本の女性アーティストの歌を特集。cover: Kyrie \(アイナ・ジ・エンド\)
 
-1,837 songs - 4 day 22 hr 46 min
+1,838 songs - 4 day 22 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -960,6 +960,7 @@
 | [toi et moi](https://open.spotify.com/track/24Hi2CcDwU5u8ft1tdaybX) | [Misato Ono](https://open.spotify.com/artist/6ksgv4sgEwgX9IjBuWR4AZ), [A.G.O](https://open.spotify.com/artist/5SeNiJVjU56de5iLf0XbwK) | [something invisible](https://open.spotify.com/album/5wl4BNy1DLACFO0aE4S4oq) | 3:36 | 2022-06-16 | 2022-06-22 |
 | [TOKYO 4AM](https://open.spotify.com/track/3lbZM8EtM1dnZDunARwI1N) | [CHANMINA](https://open.spotify.com/artist/2vjeuQwzSP5ErC1S41gONX) | [TOKYO 4AM](https://open.spotify.com/album/0mpL0xIydKRXWdL1UcDh0X) | 3:22 | 2022-09-01 | 2023-08-18 |
 | [Tokyo Addiction](https://open.spotify.com/track/1XC8TY0mBH8BiC5jU6ts4e) | [noa](https://open.spotify.com/artist/3YFWyQgtNl7SbZVu26hCRY) | [Tokyo Addiction](https://open.spotify.com/album/3r7J3qNWiYvmSi13vOi1yo) | 2:47 | 2023-06-20 | 2023-07-05 |
+| [Tokyo Calling](https://open.spotify.com/track/2WNjQidYVQO0oFFlTuF8fo) | [ATARASHII GAKKO!](https://open.spotify.com/artist/4OfU76YhPU04wlmbVFFgTJ) | [Tokyo Calling](https://open.spotify.com/album/3utC1QAo17IiIIkQZe7XO6) | 3:11 | 2023-10-19 |  |
 | [Tokyo Neon](https://open.spotify.com/track/77tBV0ZvVfY5bMQjTCJOqs) | [はらかなこ](https://open.spotify.com/artist/5GLpM2YT3pJFvS8Qguzhvj), [宏実](https://open.spotify.com/artist/6xG6CoJ4QmGXNCakdnnGio) | [Tokyo Neon](https://open.spotify.com/album/2BkZ8nhcWrn281nU0cJauO) | 3:31 | 2023-04-11 | 2023-04-19 |
 | [Tokyo no sora](https://open.spotify.com/track/3VUYVE9r80197lQ4NPFZLd) | [lily](https://open.spotify.com/artist/74999p5OcCByzjFmi8Eugu) | [Tokyo no sora](https://open.spotify.com/album/0W3JTaYdLhqLIV61C03xWa) | 4:24 | 2022-06-02 | 2022-07-26 |
 | [Tokyo Rouge](https://open.spotify.com/track/2mM4gR1CITXWMx5eRp0oem) | [Night Tempo](https://open.spotify.com/artist/76B4kqqCUdVdAo9AG5LNWF), [Maki Nomiya](https://open.spotify.com/artist/0PoKzYeBX3Lgg35BipPlAj) | [Ladies In The City](https://open.spotify.com/album/4aq2qIVPFSS5mkKKKKKSO7) | 3:43 | 2022-06-16 | 2022-06-22 |

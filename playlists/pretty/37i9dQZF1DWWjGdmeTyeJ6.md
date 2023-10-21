@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWjGdmeTyeJ6.md) - [plain]
 
 > The <a href="spotify:genre:0JQ5DAqbMKFImHYGo3eTSg">best new music</a> by independent artists and labels\. Cover: Cleffy\. Artwork by Isu Kim.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,162,119 likes - 105 songs - 5 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,162,130 likes - 105 songs - 5 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -114,4 +114,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWjGdmeTyeJ6.md) - [plain]
 | 104 | [What has gotten into you?](https://open.spotify.com/track/3o4lVNkYXzxKvpYs6VVqEb) | [Santa Chiara](https://open.spotify.com/artist/4ypMT9SN8PDvScLqLcGcEU) | [What has gotten into you?](https://open.spotify.com/album/4o7k0gfY0CCm1M2LxCxbj9) | 3:28 |
 | 105 | [Challenger Deep](https://open.spotify.com/track/1aFtASIZ0GtGLp1LTzj9ea) | [Daneshevskaya](https://open.spotify.com/artist/5vvsVz8bgdx1y9YaguZkxF) | [Challenger Deep](https://open.spotify.com/album/3knmKpCfct2IfzWPPwFQjM) | 3:54 |
 
-Snapshot ID: `MCw3NGE5MTExYmVkMTMyNjdiMWE2MmY4YWE0N2I0ZTFmN2U5MTM0Zjgz`
+Snapshot ID: `MCxiM2Y4MTEyMTAxZmE0MDI2NTE1NThlNTE0NGE0NzFlNmJlYmQ5ZjZk`

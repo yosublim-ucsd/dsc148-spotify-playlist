@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Spiritbox on top of the biggest Metal playlist.",
+  "description": "Catch Your Breath on top of the biggest Metal playlist.",
   "name": "Kickass Metal",
   "tracks": [
     {
@@ -77,6 +77,24 @@
     },
     {
       "album": {
+        "name": "Shame On Me",
+        "url": "https://open.spotify.com/album/4EcSKM9PjQiXywZ3ItofZG"
+      },
+      "artists": [
+        {
+          "name": "Catch Your Breath",
+          "url": "https://open.spotify.com/artist/2fqPOGxG12nEERj8YG7p22"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226240,
+      "name": "21 Gun Salute",
+      "url": "https://open.spotify.com/track/33GEGdCuSpbt3x6B33Jd82"
+    },
+    {
+      "album": {
         "name": "30 Under 13",
         "url": "https://open.spotify.com/album/3flz7O2lY60WbBoefXUk1b"
       },
@@ -142,7 +160,7 @@
       ],
       "date_added": "2023-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-21",
       "duration_ms": 235835,
       "name": "A Crooked Melody",
       "url": "https://open.spotify.com/track/57bIv3ROVypmo9bzJzUShI"
@@ -164,6 +182,24 @@
       "duration_ms": 294080,
       "name": "A Devil More Damned",
       "url": "https://open.spotify.com/track/4ZFfOL1iR8ZIgNdxur569O"
+    },
+    {
+      "album": {
+        "name": "The Above",
+        "url": "https://open.spotify.com/album/1InJp7zivXVxzyEPjNIX6C"
+      },
+      "artists": [
+        {
+          "name": "Code Orange",
+          "url": "https://open.spotify.com/artist/6qtECqesbU29iftyeWmldK"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201068,
+      "name": "A Drone Opting Out Of The Hive",
+      "url": "https://open.spotify.com/track/0CuZB4QJyWWlblKMxN7nTK"
     },
     {
       "album": {
@@ -302,7 +338,7 @@
       ],
       "date_added": "2023-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-21",
       "duration_ms": 189552,
       "name": "AmEN! (feat. Lil Uzi Vert and Daryl Palumbo of Glassjaw)",
       "url": "https://open.spotify.com/track/5viZ8CLipufc1Q1NXpMRNN"
@@ -1295,6 +1331,24 @@
     },
     {
       "album": {
+        "name": "Chaos Horrific",
+        "url": "https://open.spotify.com/album/2OsBHxwlW8kJx2YCnhH7rI"
+      },
+      "artists": [
+        {
+          "name": "Cannibal Corpse",
+          "url": "https://open.spotify.com/artist/0yLwGBQiBqhXOvmTfH2A7n"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212922,
+      "name": "Chaos Horrific",
+      "url": "https://open.spotify.com/track/4Zsix11Dx5iiS0X7EclZSF"
+    },
+    {
+      "album": {
         "name": "Church Burns",
         "url": "https://open.spotify.com/album/6Ox5BbUgNycErk1kekWaMB"
       },
@@ -1737,6 +1791,24 @@
     },
     {
       "album": {
+        "name": "DArkSide",
+        "url": "https://open.spotify.com/album/3E21iYJYv6lSkBkHBv3SKq"
+      },
+      "artists": [
+        {
+          "name": "Bring Me The Horizon",
+          "url": "https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164790,
+      "name": "DArkSide",
+      "url": "https://open.spotify.com/track/19vHgVS1aukRiQWhTqfKnE"
+    },
+    {
+      "album": {
         "name": "Days Of The Lost",
         "url": "https://open.spotify.com/album/7hFCSY0JLmWyeNT8NkBkm7"
       },
@@ -1973,6 +2045,24 @@
     },
     {
       "album": {
+        "name": "Descent",
+        "url": "https://open.spotify.com/album/6x8g593E1WZiNeYyAFKXvg"
+      },
+      "artists": [
+        {
+          "name": "Orbit Culture",
+          "url": "https://open.spotify.com/artist/7k29FbDq69ju2fe6zTskxY"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260375,
+      "name": "Descent",
+      "url": "https://open.spotify.com/track/46IwawpHVB7462bMZ10Wzf"
+    },
+    {
+      "album": {
         "name": "A Sign of Things to Come",
         "url": "https://open.spotify.com/album/7u3fc9ml1yP9vhzGsCMHJj"
       },
@@ -2038,7 +2128,7 @@
       ],
       "date_added": "2023-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-21",
       "duration_ms": 200495,
       "name": "Dial Tone",
       "url": "https://open.spotify.com/track/5tX5qGeEImk2CZYyGHrq9I"
@@ -2348,7 +2438,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-21",
       "duration_ms": 190773,
       "name": "Doubt Me",
       "url": "https://open.spotify.com/track/2eagADnpxQacZXpQxlZ8n3"
@@ -3266,7 +3356,7 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-21",
       "duration_ms": 368000,
       "name": "From The Inside",
       "url": "https://open.spotify.com/track/6ROHkoMA1RohwSGFgnEQzI"
@@ -5775,6 +5865,24 @@
     },
     {
       "album": {
+        "name": "Panic Attack",
+        "url": "https://open.spotify.com/album/02DtysqFzSbWAfptGA7mec"
+      },
+      "artists": [
+        {
+          "name": "Judas Priest",
+          "url": "https://open.spotify.com/artist/2tRsMl4eGxwoNabM08Dm4I"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 325987,
+      "name": "Panic Attack",
+      "url": "https://open.spotify.com/track/1yEz9RflAoVrjAbCLnEI35"
+    },
+    {
+      "album": {
         "name": "Parasite",
         "url": "https://open.spotify.com/album/0sx2ImaWkigyLHH45jdIo1"
       },
@@ -6324,6 +6432,24 @@
       "duration_ms": 175442,
       "name": "Revelation",
       "url": "https://open.spotify.com/track/5wfccHW5hemTM6o1uZqETU"
+    },
+    {
+      "album": {
+        "name": "Revelation",
+        "url": "https://open.spotify.com/album/3IZrMNBLyFuhJYlVRgPdhD"
+      },
+      "artists": [
+        {
+          "name": "Many Eyes",
+          "url": "https://open.spotify.com/artist/001Hfjmktqije9a7IvGuFb"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253746,
+      "name": "Revelation",
+      "url": "https://open.spotify.com/track/0cWQy0wDjVJbuUDDZabWfu"
     },
     {
       "album": {
@@ -7061,6 +7187,24 @@
     },
     {
       "album": {
+        "name": "Some Of Us",
+        "url": "https://open.spotify.com/album/1bnH6BatxymLa5sUq7e3qc"
+      },
+      "artists": [
+        {
+          "name": "Demon Hunter",
+          "url": "https://open.spotify.com/artist/6f3a43i1MJZwdjEpV1M0oH"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213553,
+      "name": "Some Of Us",
+      "url": "https://open.spotify.com/track/45YoWKaH5JdbpwpfRRQsqS"
+    },
+    {
+      "album": {
         "name": "Song of the Dusk",
         "url": "https://open.spotify.com/album/7G8frDmB5Nl7hNEvOHE3om"
       },
@@ -7072,7 +7216,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-21",
       "duration_ms": 583146,
       "name": "Song of the Dusk",
       "url": "https://open.spotify.com/track/59KysmBtOw5YYLV2UzbXeO"
@@ -7416,7 +7560,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-21",
       "duration_ms": 227958,
       "name": "Stay Alive",
       "url": "https://open.spotify.com/track/2gsMbIi220xUNmGcNEVUBR"
@@ -7542,7 +7686,7 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-21",
       "duration_ms": 245124,
       "name": "Summoned for Sacrifice",
       "url": "https://open.spotify.com/track/3UKHl5blhmofaIl8aFHAN1"
@@ -7676,7 +7820,7 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-21",
       "duration_ms": 204226,
       "name": "Take Shape (feat. Billy Corgan)",
       "url": "https://open.spotify.com/track/6uBtqwcoaMTcTewEXX9e7T"
@@ -8342,6 +8486,24 @@
       "duration_ms": 395716,
       "name": "The Summoning",
       "url": "https://open.spotify.com/track/761tGJAC4E2weJMJtNnl2B"
+    },
+    {
+      "album": {
+        "name": "The Surface",
+        "url": "https://open.spotify.com/album/5WmbnLQhy8ndx8S7puEolG"
+      },
+      "artists": [
+        {
+          "name": "Beartooth",
+          "url": "https://open.spotify.com/artist/6vwjIs0tbIiseJMR3pqwiL"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234138,
+      "name": "The Surface",
+      "url": "https://open.spotify.com/track/7AXvMZr3JvGCoDY5VS0eFZ"
     },
     {
       "album": {
@@ -9158,7 +9320,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-21",
       "duration_ms": 206850,
       "name": "Wasted Space",
       "url": "https://open.spotify.com/track/2swqb0ij8Xpksi4A7tqE6i"
@@ -9762,6 +9924,24 @@
       "duration_ms": 201395,
       "name": "Your Turn",
       "url": "https://open.spotify.com/track/75AZlyIs97sFPiQ1MJGaf8"
+    },
+    {
+      "album": {
+        "name": "Z0mbie",
+        "url": "https://open.spotify.com/album/39Lu0IyoWvizdSECrOOTLE"
+      },
+      "artists": [
+        {
+          "name": "Static-X",
+          "url": "https://open.spotify.com/artist/7JDSHlDdVTo7aZKdQZ53Vf"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191470,
+      "name": "Z0mbie",
+      "url": "https://open.spotify.com/track/1sigPT3Dq2zgrPL0YVMPOj"
     },
     {
       "album": {

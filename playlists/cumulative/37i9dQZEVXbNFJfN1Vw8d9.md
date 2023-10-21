@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Spain.
 
-839 songs - 1 day 21 hr 49 min
+840 songs - 1 day 21 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -213,6 +213,7 @@
 | [Diablo](https://open.spotify.com/track/511ZMyXhrPlJvQSYtBWDy3) | [Beret](https://open.spotify.com/artist/0ZHPrnImGh4re3TbSNkoZl), [Estopa](https://open.spotify.com/artist/5ZqnEfVdEGmoPxtELhN7ai) | [Diablo](https://open.spotify.com/album/3r78Qu7OFZre4Otl5eVvz7) | 2:44 | 2022-09-23 | 2022-11-13 |
 | [DIABLO](https://open.spotify.com/track/4QlMiL1BPCBzLfn1XbSkpg) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [MOTOMAMI](https://open.spotify.com/album/6jbtHi5R0jMXoliU2OS0lo) | 2:45 | 2022-03-20 | 2022-03-27 |
 | [DIAMONDS](https://open.spotify.com/track/6XjsXIb1DUhsmhflFAODv3) | [Mora](https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S), [Dei V](https://open.spotify.com/artist/2YRyPiW98bpkARAS4B3OQP) | [ESTRELLA](https://open.spotify.com/album/0SoJvPHbKVhvmVJOp3kzp3) | 3:13 | 2023-08-30 | 2023-09-03 |
+| [Dicelo](https://open.spotify.com/track/5asyOj4gG21a2pKzqBIMOk) | [Lianet Rivero](https://open.spotify.com/artist/3j8PyngjyNhnbOUlWX7Naf), [Lia](https://open.spotify.com/artist/3AWuifXTvl9lTa9lyjB94Z), [Gatillo](https://open.spotify.com/artist/299LR5yQ0wDij37IEsG1LT) | [Dicelo](https://open.spotify.com/album/65akUfK8vk8Nc4i6IM4igH) | 2:33 | 2023-10-20 |  |
 | [Dictadura](https://open.spotify.com/track/16RRpUyUDjkIept8AymRiL) | [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66) | [Las Leyendas Nunca Mueren](https://open.spotify.com/album/4MTtBjQEt7i752hISXjKqA) | 3:27 | 2021-11-28 | 2021-12-04 |
 | [Dictadura](https://open.spotify.com/track/4yoc5cUWk4OFvqOcvFvw0o) | [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66) | [Dictadura](https://open.spotify.com/album/45dcycgr7aPRo5boag4A6h) | 3:28 | 2021-10-31 | 2021-11-28 |
 | [Dile \(Homenaje\)](https://open.spotify.com/track/073yIM7v2j6XadD4Nkn0Fh) | [Jhay Cortez](https://open.spotify.com/artist/0EFisYRi20PTADoJrifHrz) | [Timelezz](https://open.spotify.com/album/3AwzfcsXeljU7JkG5GQn8Y) | 3:48 | 2021-09-15 | 2022-05-08 |
@@ -535,7 +536,7 @@
 | [No Estuviste En Lo Malo](https://open.spotify.com/track/3hQARI8XG01UawaCalyfjK) | [Morad](https://open.spotify.com/artist/4az97MtWmBQ5Db3GfDh9j9) | [Reinsertado](https://open.spotify.com/album/6h5tdNdOnnFL6zbeMeeqdk) | 4:07 | 2023-05-16 | 2023-06-24 |
 | [No Estuviste En Lo Malo \- REMIX](https://open.spotify.com/track/5hyKw9bjqXCcIxAoDmAxMJ) | [Morad](https://open.spotify.com/artist/4az97MtWmBQ5Db3GfDh9j9), [Beny Jr](https://open.spotify.com/artist/22dFwJoRBV51ue5TGnC7Dt), [DELLAFUENTE](https://open.spotify.com/artist/4bJh7sMPcVRiqe5jlnsWQV) | [No Estuviste En Lo Malo \(REMIX\)](https://open.spotify.com/album/494i7ANNVzcAf94KtyW2X5) | 4:28 | 2023-10-06 |  |
 | [No Me digas Nada](https://open.spotify.com/track/15wMJJiVpt2ABQw032Rywi) | [Quevedo](https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K) | [No Me digas Nada](https://open.spotify.com/album/57BBDrPxatN181aafBi7qC) | 2:28 | 2022-10-19 | 2023-02-15 |
-| [NO ME QUIERO CASAR](https://open.spotify.com/track/39L3LdlHS3gqB62HPWaJRg) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [nadie sabe lo que va a pasar mañana](https://open.spotify.com/album/4FftCsAcXXD1nFO9RFUNFO) | 3:45 | 2023-10-14 |  |
+| [NO ME QUIERO CASAR](https://open.spotify.com/track/39L3LdlHS3gqB62HPWaJRg) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [nadie sabe lo que va a pasar mañana](https://open.spotify.com/album/4FftCsAcXXD1nFO9RFUNFO) | 3:45 | 2023-10-14 | 2023-10-21 |
 | [NO PIENSO LLAMAR](https://open.spotify.com/track/3tPPP39TSamzLPOJomKALp) | [Soge Culebra](https://open.spotify.com/artist/2SNfNJDsahTSVFwgxposF5), [Quevedo](https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K), [GARABATTO](https://open.spotify.com/artist/6JaOGIlSvYswVLPmGUheOO) | [STORM](https://open.spotify.com/album/2VUckgtfYcasl2SoiuT77x) | 3:18 | 2023-10-14 |  |
 | [NO PIENSO LLAMAR](https://open.spotify.com/track/3xE3TyeIxL24IstPdy5IBv) | [Soge Culebra](https://open.spotify.com/artist/2SNfNJDsahTSVFwgxposF5), [Quevedo](https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K), [GARABATTO](https://open.spotify.com/artist/6JaOGIlSvYswVLPmGUheOO) | [NO PIENSO LLAMAR](https://open.spotify.com/album/03VZEfV1aKrAFDWgzbx915) | 3:18 | 2023-10-07 | 2023-10-15 |
 | [No Quiero Amor](https://open.spotify.com/track/0H0jMZIQY74YRIkjgssfsr) | [Rvfv](https://open.spotify.com/artist/2CCgb0KApjfQDuTppovpf8), [Omar Montes](https://open.spotify.com/artist/3lY9Fxceu60W1rbon7PkuF) | [No Quiero Amor](https://open.spotify.com/album/06mG9CXpQ1gqI1JepN6gAD) | 3:28 | 2021-06-13 | 2021-08-26 |

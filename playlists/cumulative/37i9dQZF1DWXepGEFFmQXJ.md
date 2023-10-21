@@ -4,7 +4,7 @@
 
 > The cream of today's Country crop\. Cover: Chris Stapelton
 
-478 songs - 1 day 2 hr 15 min
+479 songs - 1 day 2 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -392,7 +392,8 @@
 | [Stereotype](https://open.spotify.com/track/6N4iblHDsHG4jOdgjohRV5) | [Cole Swindell](https://open.spotify.com/artist/1mfDfLsMxYcOOZkzBxvSVW) | [Stereotype](https://open.spotify.com/album/4rl9XdFEi5hIagPjROoA55) | 3:42 | 2022-03-31 | 2022-07-15 |
 | [Stick Around](https://open.spotify.com/track/4KJmdT3lIvG64yEIAo9mIP) | [Matt Cornell](https://open.spotify.com/artist/01eCwGI76wbxMepuNTetLg) | [Stick Around](https://open.spotify.com/album/4g49f0BWOlCOjs6E7HMk41) | 3:23 | 2022-10-27 | 2023-02-24 |
 | [Still The One](https://open.spotify.com/track/6drVWzBYAceXUCAtdl1Fnu) | [Adam Brand](https://open.spotify.com/artist/42XeVHEwXlejTSpz3lU0Ia) | [Still The One](https://open.spotify.com/album/3tQSwavTtrMTGebddI8Fqw) | 2:38 | 2021-12-30 | 2022-05-06 |
-| [Straight and Narrow](https://open.spotify.com/track/40vKwNlXXKUmQMGceAoEpy) | [Sam Barber](https://open.spotify.com/artist/08GfvCW09pv2QP4y9sle2a) | [Straight and Narrow](https://open.spotify.com/album/0floBXCzvTvVMR3gXWZBav) | 3:19 | 2023-04-20 |  |
+| [Straight and Narrow](https://open.spotify.com/track/3fonAuTvuI5KMcmnueLAPq) | [Sam Barber](https://open.spotify.com/artist/08GfvCW09pv2QP4y9sle2a) | [Million Eyes](https://open.spotify.com/album/5jrPhnzA00KBWc3bJJUqTY) | 3:19 | 2023-10-19 |  |
+| [Straight and Narrow](https://open.spotify.com/track/40vKwNlXXKUmQMGceAoEpy) | [Sam Barber](https://open.spotify.com/artist/08GfvCW09pv2QP4y9sle2a) | [Straight and Narrow](https://open.spotify.com/album/0floBXCzvTvVMR3gXWZBav) | 3:19 | 2023-04-20 | 2023-10-21 |
 | [Stratosphere](https://open.spotify.com/track/7c2yHFDExS2ufE6Y4n1owc) | [Max Jackson](https://open.spotify.com/artist/6uxoiISyynknybWW6SQrTe) | [Stratosphere](https://open.spotify.com/album/7L9l55MMNZF9AIa65O4tAQ) | 3:07 | 2022-10-13 | 2023-01-06 |
 | [Street Called Main](https://open.spotify.com/track/1CkulMzIn6ISjxiJMxqDz4) | [Keith Urban](https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf) | [Street Called Main](https://open.spotify.com/album/6hcYMqdIwsg2xfbGsGoQxb) | 3:49 | 2022-10-27 | 2023-05-05 |
 | [Stronger](https://open.spotify.com/track/7omL77giPW28kmRZtOO9nU) | [Brooke Schubert](https://open.spotify.com/artist/37AhJFVvcLzRvWWHaHOrlq) | [Stronger](https://open.spotify.com/album/17topUiRhUH8Y5IVU73ua5) | 3:45 | 2023-09-28 |  |

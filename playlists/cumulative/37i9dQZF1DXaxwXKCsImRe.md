@@ -4,7 +4,7 @@
 
 > A Spotify program to promote exciting artists! RADAR BNLX: Shermanology \(cover\), Siggy & D1ns, Kids With Buns, Pommelien Thijs, Haunted Youth & Zoë Tauran
 
-155 songs - 8 hr 12 min
+156 songs - 8 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -136,6 +136,7 @@
 | [Souljack](https://open.spotify.com/track/0W3w9pPy0JvezOG96J2biy) | [Shermanology](https://open.spotify.com/artist/4Siyzg8kWayQfPQsPSl6JI) | [Souljack EP](https://open.spotify.com/album/4Wo7BhKv46vuyryLgrgJFK) | 3:44 | 2022-10-17 | 2023-09-15 |
 | [Spotlight](https://open.spotify.com/track/38PpCriX9SO5ueEoJeTbLN) | [TYNSKY](https://open.spotify.com/artist/31Sw8RRROaHLjst7yEXwZF) | [Spotlight](https://open.spotify.com/album/7FmvaMUnvgCE77Sr47GoZV) | 2:39 | 2023-01-27 | 2023-09-15 |
 | [Stranger](https://open.spotify.com/track/6HsP8AwuSVliAtYXr93br0) | [Keanu Silva](https://open.spotify.com/artist/1zLMhO4zzzxt5PMV4wMS3y), [Jhn McFly](https://open.spotify.com/artist/7zznl279cpu0bbWfEjBq5c), [Marissa](https://open.spotify.com/artist/7lRC2ICJeiCyz2wSU6BVkH) | [Stranger](https://open.spotify.com/album/1SYD9U5ySpahn116MFUxby) | 2:08 | 2022-08-25 | 2023-09-15 |
+| [stubborn mind](https://open.spotify.com/track/7CCG7aIeTh3HRHfjz3SxQR) | [Kids With Buns](https://open.spotify.com/artist/1HF3WeoXOBYHlVkLn20lXz) | [out of place](https://open.spotify.com/album/3v5oBoElWXugqDj7gCd1eO) | 3:00 | 2023-10-20 |  |
 | [Stuck in the Sky](https://open.spotify.com/track/0PZdvrkdzVpIyVCL7KLR2r) | [María Isabel](https://open.spotify.com/artist/318bGJ7GOvMhYhkNOe5kZ5) | [Stuck in the Sky](https://open.spotify.com/album/6lRsrrPqbQaPMSR9KSzega) | 2:14 | 2021-12-10 | 2022-08-26 |
 | [Supernova](https://open.spotify.com/track/0zY2rypOdM8xmsf4tUyafF) | [Saiko](https://open.spotify.com/artist/2O8vbr4RYPpk6MRA4fio7u) | [Supernova](https://open.spotify.com/album/5jVewtOpycGENT1zZW4wpR) | 3:10 | 2023-05-09 | 2023-09-15 |
 | [Sweet Love](https://open.spotify.com/track/0oGi9ZMVLf00i8K9qJIVkY) | [IBE](https://open.spotify.com/artist/3azm1qf9DUaUiYfWpPRjUT) | [Sweet Love](https://open.spotify.com/album/1ktETQfJTMuoyH0oq4xXrz) | 4:05 | 2022-07-12 |  |

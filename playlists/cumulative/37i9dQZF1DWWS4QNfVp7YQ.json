@@ -16,7 +16,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-21",
       "duration_ms": 189393,
       "name": "Afroguaracha",
       "url": "https://open.spotify.com/track/1PHiNCctsPo5yvKRCTbKDn"
@@ -142,6 +142,28 @@
       "duration_ms": 203076,
       "name": "Bao Bao",
       "url": "https://open.spotify.com/track/1PzVGPTfbvlcFcHf8HDlGh"
+    },
+    {
+      "album": {
+        "name": "Brindemos Por Ellas",
+        "url": "https://open.spotify.com/album/5MqF13YB9GTHdMIkTerpEs"
+      },
+      "artists": [
+        {
+          "name": "Cornetto",
+          "url": "https://open.spotify.com/artist/5VUUCzj7ZOGku7STS2vUQc"
+        },
+        {
+          "name": "Baby Joss",
+          "url": "https://open.spotify.com/artist/2zv53qyEf6YlpmOvRHbRUn"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208146,
+      "name": "Brindemos Por Ellas",
+      "url": "https://open.spotify.com/track/1MdQvMEpQ6xqsNW7HVH5v2"
     },
     {
       "album": {

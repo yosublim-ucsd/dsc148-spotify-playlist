@@ -688,7 +688,7 @@
       ],
       "date_added": "2023-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-21",
       "duration_ms": 227066,
       "name": "absolute in doubt",
       "url": "https://open.spotify.com/track/19FhhS93siEpzNIUG0J7Xa"
@@ -4329,6 +4329,28 @@
     },
     {
       "album": {
+        "name": "Myspace Addiction",
+        "url": "https://open.spotify.com/album/2Q2ZtKYsGAtTdnqSPWaA1S"
+      },
+      "artists": [
+        {
+          "name": "6arelyhuman",
+          "url": "https://open.spotify.com/artist/1oYXEVbGh1L7EWGm9C68cN"
+        },
+        {
+          "name": "Odetari",
+          "url": "https://open.spotify.com/artist/7ITMCzIU9uII8gwRg8JAhc"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127741,
+      "name": "GMFU",
+      "url": "https://open.spotify.com/track/6GdhBJBl51BAITWjFyhbtl"
+    },
+    {
+      "album": {
         "name": "GMFU (w/ 6arelyhuman)",
         "url": "https://open.spotify.com/album/0BkF8h20ihtHhQrvhg7b4E"
       },
@@ -4344,7 +4366,7 @@
       ],
       "date_added": "2023-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-21",
       "duration_ms": 127741,
       "name": "GMFU (w/ 6arelyhuman)",
       "url": "https://open.spotify.com/track/4D1k6x4MXTaSnljSvAXhaf"
@@ -7758,7 +7780,7 @@
       ],
       "date_added": "2022-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-21",
       "duration_ms": 145000,
       "name": "Murder In My Mind",
       "url": "https://open.spotify.com/track/6qyS9qBy0mEk3qYaH8mPss"
@@ -14841,6 +14863,24 @@
     },
     {
       "album": {
+        "name": "\u0413\u0434\u0435 \u0442\u044b?",
+        "url": "https://open.spotify.com/album/5uZc9E1YqlTFNNQ0Sb1iWK"
+      },
+      "artists": [
+        {
+          "name": "Gio Pika",
+          "url": "https://open.spotify.com/artist/3ZOk6bDH8ORFWZUA4qvevR"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228292,
+      "name": "\u0413\u0434\u0435 \u0442\u044b?",
+      "url": "https://open.spotify.com/track/7FTIhb3oMl8SZ1XbUoKbf2"
+    },
+    {
+      "album": {
         "name": "Sosa Muzik",
         "url": "https://open.spotify.com/album/2YAGIocNPp0fc29od97AKh"
       },
@@ -16728,6 +16768,28 @@
       "duration_ms": 150723,
       "name": "\u0417\u043d\u0430\u0439\u0434\u0438 \u043c\u0435\u043d\u0435",
       "url": "https://open.spotify.com/track/2xmQMKTjiOdkdGVgqDzezo"
+    },
+    {
+      "album": {
+        "name": "\u0417\u043d\u0430\u0439\u0434\u0438 \u043c\u0435\u043d\u0435 (KAVA Remix)",
+        "url": "https://open.spotify.com/album/4TFNfO3cTkY7Ajgzf4cyZM"
+      },
+      "artists": [
+        {
+          "name": "Klavdia Petrivna",
+          "url": "https://open.spotify.com/artist/5BwbVAdT6rFF2vGVE8su2y"
+        },
+        {
+          "name": "KAVA",
+          "url": "https://open.spotify.com/artist/3TPf0u6jcGKKpzYn0A57ye"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138214,
+      "name": "\u0417\u043d\u0430\u0439\u0434\u0438 \u043c\u0435\u043d\u0435 - KAVA Remix",
+      "url": "https://open.spotify.com/track/4RhA4AQeBc29toklGPMJUk"
     },
     {
       "album": {

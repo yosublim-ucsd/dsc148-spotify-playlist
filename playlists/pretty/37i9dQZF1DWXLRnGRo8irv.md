@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXLRnGRo8irv.md) - [plain]
 
 > 한국 여성 아티스트들의 음악을 즐겨보세요! \(커버: 화사\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,176 likes - 50 songs - 2 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,174 likes - 50 songs - 2 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXLRnGRo8irv.md) - [plain]
 | 49 | [Your Day](https://open.spotify.com/track/3srUzD5pG2ldBDmRKglsTv) | [NUITNUIT](https://open.spotify.com/artist/7magwQRiJcYtu4rix7MlqM) | [DAWN](https://open.spotify.com/album/3jUZjUDzOChOYl2akgVbp5) | 4:09 |
 | 50 | [We Gonna Be](https://open.spotify.com/track/44GFBehF6jUxinClMCu3Ik) | [NUITNUIT](https://open.spotify.com/artist/7magwQRiJcYtu4rix7MlqM) | [DAWN](https://open.spotify.com/album/3jUZjUDzOChOYl2akgVbp5) | 4:16 |
 
-Snapshot ID: `MCwwYjM1YzllZWFjOTBkZDI2OTNmOTllNzRlMDY3OTkyMGE4YWQwMjIx`
+Snapshot ID: `MCxiMWJiNGUyNWQ0M2VlZDBmYjQ5NGYzYTc0MDNjMDM4OGUxZTZmNDEw`

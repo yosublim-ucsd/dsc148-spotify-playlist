@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Ogo9pFvBkY.md) - [plain]
 
 > Relax and unwind with chill, ambient music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,211,416 likes - 210 songs - 10 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,215,344 likes - 210 songs - 10 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,7 +69,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Ogo9pFvBkY.md) - [plain]
 | 59 | [Seasons](https://open.spotify.com/track/74jdFBI7LmTV2FMdd5qTh3) | [Ghasel](https://open.spotify.com/artist/6ylMYNmAVRn0ROcAuIFgEC) | [Seasons](https://open.spotify.com/album/4q9CspBJjcPmfewtSY5tAg) | 2:49 |
 | 60 | [At Night I Fly](https://open.spotify.com/track/1kOo4z14fQRQdnYXU8VDcv) | [Yeur](https://open.spotify.com/artist/0KZsfOO2SqsGvLOReSMeQK) | [At Night I Fly](https://open.spotify.com/album/6U0puq2gcRqfDper0juJzK) | 2:33 |
 | 61 | [Montania](https://open.spotify.com/track/6t3e2UfHXGVdxXJhPYj6Lg) | [Calma Interiore](https://open.spotify.com/artist/1OmJlIsNDkAVfdkmHbvQFM) | [Montania](https://open.spotify.com/album/3dwBW5p65buVtiTmr2a0Wl) | 2:58 |
-| 62 | [View](https://open.spotify.com/track/3pAHf0eiUS1j7GwXzia6aq) | [Relax Yourself](https://open.spotify.com/artist/1oXaoCbLY1YghAsNg046iY), [Sizmara](https://open.spotify.com/artist/54kLR6UglFWK1l2EkHmTmX) | [View](https://open.spotify.com/album/7DIi1vnsQwqtJEDwg4e6RE) | 2:20 |
+| 62 | [View](https://open.spotify.com/track/4Ev7p6DnW0jIZ1OVmDp68L) | [Relax Yourself](https://open.spotify.com/artist/1oXaoCbLY1YghAsNg046iY), [Sizmara](https://open.spotify.com/artist/54kLR6UglFWK1l2EkHmTmX) | [View](https://open.spotify.com/album/6fiKIWt5RXOedncIS6e75t) | 2:20 |
 | 63 | [Somewhere in The Universe](https://open.spotify.com/track/3ZKOanKZHi3CGawcnXMk2y) | [AG Sintonia Project](https://open.spotify.com/artist/1us57VQ78Hp3nvNoPyozqF) | [Somewhere in The Universe](https://open.spotify.com/album/5kMzFWm1eX0at2tcZcm2Nx) | 5:10 |
 | 64 | [Climbing](https://open.spotify.com/track/1x7zBpMIdrySvhENuSY5JV) | [Barbena](https://open.spotify.com/artist/0DorMBZ5PrujJquR3bbTdL) | [Climbing](https://open.spotify.com/album/1O1JvywjelQdazDkPI9Lei) | 2:35 |
 | 65 | [Subtlety And Refinement](https://open.spotify.com/track/6J8qqQ9tEDF1Zq4gtqbzDJ) | [Michael Ojha](https://open.spotify.com/artist/4h15HPM1bGgwpOyfRk3w1w) | [Subtlety And Refinement](https://open.spotify.com/album/4xkIBfbQ2v989G6YkJO28y) | 2:54 |
@@ -219,4 +219,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Ogo9pFvBkY.md) - [plain]
 | 209 | [The Sun Will Rise Again](https://open.spotify.com/track/4MxfZWFxWBBWcdQtYUhWli) | [Remi Asana](https://open.spotify.com/artist/5z5yEQcD8JtwJRYJgCO7yc) | [The Sun Will Rise Again](https://open.spotify.com/album/1T0OyHWTbIbPSqXkLZsqfn) | 2:22 |
 | 210 | [Slowly Flying](https://open.spotify.com/track/13SRYtw5x5Z4OpFUYY4C1k) | [BlunD](https://open.spotify.com/artist/4Dc1j8HIqC0y6uSG8Gnk1T) | [Simple Soul](https://open.spotify.com/album/2RDfxKIgM9olAczjQK5Yku) | 3:34 |
 
-Snapshot ID: `MCxkYjcwMzRiOTExM2Q2ZjE2Njg2OTYxZGRmMDNkNDg4NDk0MzdmY2Jk`
+Snapshot ID: `MCxmMWVkOWQ5ZWE2Nzc5M2QxMGQ3YWNlOWFiYzc4ODI2Y2I5NDcxMzcw`

@@ -4,7 +4,7 @@
 
 > 独自の進化を遂げる日本のポップ文化。「キラキラポップ」なナンバーをひとつのプレイリストに。Curated by ふくりゅう（音楽コンシェルジュ）Cover: マコトコンドウ
 
-4,445 songs - 11 day 5 hr 49 min
+4,446 songs - 11 day 5 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1309,7 +1309,8 @@
 | [lost in heaven](https://open.spotify.com/track/4D4vnJbewpicVvQfd8ZRhV) | [Kaoruko](https://open.spotify.com/artist/4p8Qi7wNCoyMNEF7dX8qUl), [Yohji Igarashi](https://open.spotify.com/artist/4Wp4OXDldnaJ0JPRpkUKQs) | [opal](https://open.spotify.com/album/4PDInS0xBqDBG8OiBt9l2y) | 3:01 | 2023-02-06 | 2023-02-21 |
 | [Lost me in the spring](https://open.spotify.com/track/3f0kpCOw8mdqGfHIUnfeWK) | [湯木慧](https://open.spotify.com/artist/6CLuhpHEjf2V9eTf0yAYUr) | [Lost me in the spring](https://open.spotify.com/album/65Ky28Aj2m2doqoFPGAxjJ) | 4:07 | 2023-03-14 | 2023-03-28 |
 | [Lost My Words](https://open.spotify.com/track/6ERIerkxJ69oM98DUjr5qE) | [Jimanica](https://open.spotify.com/artist/5LV1KfgOBM5DDa5JgOyr8c), [高井息吹](https://open.spotify.com/artist/7zfwhvxWePJ4CqKqkbndML) | [Lost My Words](https://open.spotify.com/album/6vviZ23jazljURHNymPpox) | 4:53 | 2021-12-21 | 2021-12-30 |
-| [Lost Summer](https://open.spotify.com/track/2q3eW96Zin7rJ2ERLoKc6b) | [NEP](https://open.spotify.com/artist/0DoHQhgptAR78Dz6XF5SAP) | [Lost Summer](https://open.spotify.com/album/4qesoYrXFmLjtSzy3wP4XD) | 3:34 | 2023-10-02 |  |
+| [Lost Summer](https://open.spotify.com/track/2q3eW96Zin7rJ2ERLoKc6b) | [NEP](https://open.spotify.com/artist/0DoHQhgptAR78Dz6XF5SAP) | [Lost Summer](https://open.spotify.com/album/4qesoYrXFmLjtSzy3wP4XD) | 3:34 | 2023-10-02 | 2023-10-21 |
+| [Lost Summer](https://open.spotify.com/track/4Ci0WoCSGNehdZT9Lm9vmi) | [ネプ](https://open.spotify.com/artist/3s0gV7mmHu3tdSdCoB8Gbj) | [Lost Summer](https://open.spotify.com/album/4roJfs2ucXU2FgilX3pBrJ) | 3:34 | 2023-10-17 |  |
 | [lost?](https://open.spotify.com/track/2xi9OCMFFFzVsnSKB2cQRO) | [taiyo](https://open.spotify.com/artist/49d0T0TXuuNqcMiudgQgJY), [takachi](https://open.spotify.com/artist/2hek2B1ememFdxKOSx14Lt) | [lost?](https://open.spotify.com/album/7qfgfIqcbDAsL7ov4r4XtJ) | 2:50 | 2022-08-23 | 2022-09-06 |
 | [lostpeople](https://open.spotify.com/track/14haJ18mwSL6BwqMDHS6qX) | [Deep Sea Diving Club](https://open.spotify.com/artist/06kwmmM4VcnrOdBM25pREY) | [lostpeople](https://open.spotify.com/album/358geVKGrGtN2Tb9nNTw2P) | 3:39 | 2022-03-21 | 2022-04-06 |
 | [LOVE](https://open.spotify.com/track/6B3hW9N34J1rTT6aMbcMn4) | [Cape of good hope](https://open.spotify.com/artist/71qVt23XtBAsadtjkBwjAZ) | [LOVE](https://open.spotify.com/album/5Kala9TLYPDNiz03dS1UjT) | 3:08 | 2023-03-14 | 2023-03-28 |

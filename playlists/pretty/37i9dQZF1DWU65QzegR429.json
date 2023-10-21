@@ -1,12 +1,12 @@
 {
   "description": "Latin music making waves. Cover: Polim\u00e1 Westcoast",
-  "num_followers": 9857,
+  "num_followers": 9872,
   "original_name": "Latin Frequency",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkZGY2OWE0YmYzYWU5MTIwZGI3OGNhYWU0ZWIxNjVmOTJhMmI5MGYz",
+  "snapshot_id": "MCwxZGRlMTViMTA0NzI0MDYzNzJjOWY5NWMxNjZjMDgxNThkOGNkMjE2",
   "tracks": [
     {
       "added_at": "2023-07-24 18:55:43",
@@ -579,6 +579,22 @@
     {
       "added_at": "2023-07-24 18:55:43",
       "album": {
+        "name": "Tempo",
+        "url": "https://open.spotify.com/album/26OPZGfHxJqhRd2cHrsjMB"
+      },
+      "artists": [
+        {
+          "name": "Jenn Morel",
+          "url": "https://open.spotify.com/artist/7iWWbIVw66I3hHVy9crw6a"
+        }
+      ],
+      "duration_ms": 145576,
+      "name": "Tempo",
+      "url": "https://open.spotify.com/track/1A9PL1Y2cc8aBs6uLSdMHW"
+    },
+    {
+      "added_at": "2023-07-24 18:55:43",
+      "album": {
         "name": "Dembow Dominicano",
         "url": "https://open.spotify.com/album/1Q6G7NqJ3cN2rTtnNO25za"
       },
@@ -595,22 +611,6 @@
       "duration_ms": 156610,
       "name": "Dembow Dominicano",
       "url": "https://open.spotify.com/track/6IiPbCJXLJbigeFoWuftWa"
-    },
-    {
-      "added_at": "2023-07-24 18:55:43",
-      "album": {
-        "name": "Tempo",
-        "url": "https://open.spotify.com/album/26OPZGfHxJqhRd2cHrsjMB"
-      },
-      "artists": [
-        {
-          "name": "Jenn Morel",
-          "url": "https://open.spotify.com/artist/7iWWbIVw66I3hHVy9crw6a"
-        }
-      ],
-      "duration_ms": 145576,
-      "name": "Tempo",
-      "url": "https://open.spotify.com/track/1A9PL1Y2cc8aBs6uLSdMHW"
     },
     {
       "added_at": "2023-07-24 18:55:43",
@@ -919,6 +919,22 @@
     {
       "added_at": "2023-07-24 18:55:43",
       "album": {
+        "name": "Saque Otro Tema",
+        "url": "https://open.spotify.com/album/07P3YTWehCjPYI571sbkew"
+      },
+      "artists": [
+        {
+          "name": "Menor Menor",
+          "url": "https://open.spotify.com/artist/2663St0NB1IsbMnlF69AeW"
+        }
+      ],
+      "duration_ms": 171250,
+      "name": "Saque Otro Tema",
+      "url": "https://open.spotify.com/track/0JNCNJZC29fOBjiCIaDwIu"
+    },
+    {
+      "added_at": "2023-07-24 18:55:43",
+      "album": {
         "name": "Haters y Fan\u00e1ticos",
         "url": "https://open.spotify.com/album/5ozdJlbZNDyinRp5MGXqsb"
       },
@@ -935,22 +951,6 @@
       "duration_ms": 250440,
       "name": "Kilo Kilo",
       "url": "https://open.spotify.com/track/6QBrMT3F1gAcvdS7wIEeFO"
-    },
-    {
-      "added_at": "2023-07-24 18:55:43",
-      "album": {
-        "name": "Saque Otro Tema",
-        "url": "https://open.spotify.com/album/07P3YTWehCjPYI571sbkew"
-      },
-      "artists": [
-        {
-          "name": "Menor Menor",
-          "url": "https://open.spotify.com/artist/2663St0NB1IsbMnlF69AeW"
-        }
-      ],
-      "duration_ms": 171250,
-      "name": "Saque Otro Tema",
-      "url": "https://open.spotify.com/track/0JNCNJZC29fOBjiCIaDwIu"
     },
     {
       "added_at": "2023-07-24 18:55:43",

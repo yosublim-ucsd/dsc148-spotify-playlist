@@ -1,12 +1,12 @@
 {
   "description": "All eyes on you. Cover: Mad Tsai",
-  "num_followers": 348707,
+  "num_followers": 348888,
   "original_name": "Limelight",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxYWE0N2VkZWY4MTZlMjEwOTI1ZTQwOWVlYzg0NzU5ODczMTVmMGUw",
+  "snapshot_id": "MCxkN2M0OWNiNGFiMzRjMjM1ODI2NGM2MzVkZmJjOGU1OWY3ZGM4NWM0",
   "tracks": [
     {
       "added_at": "2023-10-13 04:25:49",
@@ -23,6 +23,22 @@
       "duration_ms": 194545,
       "name": "mad's world",
       "url": "https://open.spotify.com/track/1MZHbJsMBbq5P3Mq4xgu8G"
+    },
+    {
+      "added_at": "2023-10-16 13:46:34",
+      "album": {
+        "name": "Good God!",
+        "url": "https://open.spotify.com/album/3fIxJzinc2MADbgfkLrmYY"
+      },
+      "artists": [
+        {
+          "name": "Rio Romeo",
+          "url": "https://open.spotify.com/artist/22y08IZx7u6SWpsfap1Cub"
+        }
+      ],
+      "duration_ms": 211000,
+      "name": "Nothing's New",
+      "url": "https://open.spotify.com/track/0EF1EE8zusg3Y869e56JFd"
     },
     {
       "added_at": "2023-09-22 04:00:00",
@@ -89,20 +105,20 @@
       "url": "https://open.spotify.com/track/3vkCueOmm7xQDoJ17W1Pm3"
     },
     {
-      "added_at": "2023-10-16 13:46:34",
+      "added_at": "2023-10-20 04:00:00",
       "album": {
-        "name": "Good God!",
-        "url": "https://open.spotify.com/album/3fIxJzinc2MADbgfkLrmYY"
+        "name": "RECOVER",
+        "url": "https://open.spotify.com/album/3erra5YLQlS35zS8U3BNr1"
       },
       "artists": [
         {
-          "name": "Rio Romeo",
-          "url": "https://open.spotify.com/artist/22y08IZx7u6SWpsfap1Cub"
+          "name": "Brye",
+          "url": "https://open.spotify.com/artist/6Z5uMO0V6jlOuZ7LUDrSsC"
         }
       ],
-      "duration_ms": 211000,
-      "name": "Nothing's New",
-      "url": "https://open.spotify.com/track/0EF1EE8zusg3Y869e56JFd"
+      "duration_ms": 161540,
+      "name": "RECOVER",
+      "url": "https://open.spotify.com/track/1xM16w1mELJud010Pu69Vw"
     },
     {
       "added_at": "2023-09-22 04:00:00",
@@ -119,22 +135,6 @@
       "duration_ms": 219724,
       "name": "vampire",
       "url": "https://open.spotify.com/track/1kuGVB7EU95pJObxwvfwKS"
-    },
-    {
-      "added_at": "2023-09-22 04:00:00",
-      "album": {
-        "name": "NOTHING!",
-        "url": "https://open.spotify.com/album/1mqeIkHYdFh6N8CmCG9ijH"
-      },
-      "artists": [
-        {
-          "name": "Brye",
-          "url": "https://open.spotify.com/artist/6Z5uMO0V6jlOuZ7LUDrSsC"
-        }
-      ],
-      "duration_ms": 139614,
-      "name": "NOTHING!",
-      "url": "https://open.spotify.com/track/0LPru9yHo3roipmisve7Mz"
     },
     {
       "added_at": "2023-09-22 04:00:00",
@@ -335,22 +335,6 @@
       "duration_ms": 244880,
       "name": "What If",
       "url": "https://open.spotify.com/track/1ENH0YTu0OiRykq00M9Z0c"
-    },
-    {
-      "added_at": "2023-09-22 04:00:00",
-      "album": {
-        "name": "Gawk",
-        "url": "https://open.spotify.com/album/1vWOYk3hF5bgVUUUaPvYLh"
-      },
-      "artists": [
-        {
-          "name": "Vundabar",
-          "url": "https://open.spotify.com/artist/1W4itxt3vwhmrgLEBuVHJ6"
-        }
-      ],
-      "duration_ms": 155933,
-      "name": "Alien Blues",
-      "url": "https://open.spotify.com/track/11iIikXxC6NP0Ma8vMD27x"
     },
     {
       "added_at": "2023-09-22 04:00:00",

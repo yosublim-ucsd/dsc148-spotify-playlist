@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8GjsySWIS1x.md) - [plain]
 
 > The latest in gamer music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,029,306 likes - 62 songs - 3 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,029,427 likes - 62 songs - 3 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8GjsySWIS1x.md) - [plain]
 | 4 | [Phantom Liberty](https://open.spotify.com/track/7hRLd8al1yptBLnvDpL2VC) | [Dawid Podsiadło](https://open.spotify.com/artist/6EB8VE9f7Ut6NOgviN6gDW), [P.T\. Adamczyk](https://open.spotify.com/artist/27VhXJzIph9c75cBh1e8XM) | [Cyberpunk 2077: Phantom Liberty \(Original Score \- Deluxe Edition\)](https://open.spotify.com/album/7JuqioZeC7PFuW8zrXJSLh) | 5:47 |
 | 5 | [Moog City](https://open.spotify.com/track/0ybSZhfB9a28c7VFkxqRgT) | [Curly](https://open.spotify.com/artist/4AE4o0hck4magAI2urzzlh), [GameChops](https://open.spotify.com/artist/1T7zBkQCOCacKjbnmFX7cp) | [Vibecraft](https://open.spotify.com/album/6hiGG0ctPOusok3fm112FW) | 3:40 |
 | 6 | [RE\-IGNITION](https://open.spotify.com/track/3R1618eXJB4mMxIZzLv3Ac) | [VALORANT](https://open.spotify.com/artist/3wrFoI9EVjWg6m8xXeWr5t), [ARB4](https://open.spotify.com/artist/7e2hk3B42soSKnZhzCkOD8), [Jazz Alonso](https://open.spotify.com/artist/7eSY3eOVSH5SLYU0BV9sCY), [Emei](https://open.spotify.com/artist/7E2aQQjErJocovYFjYLzWU) | [RE\-IGNITION](https://open.spotify.com/album/0RaMpMa53l4NSA7QOlDlju) | 3:24 |
-| 7 | [Renegade](https://open.spotify.com/track/5JXWb7DqYJlXiFnJd9Vfgk) | [VALORANT](https://open.spotify.com/artist/3wrFoI9EVjWg6m8xXeWr5t), [99 God](https://open.spotify.com/artist/1fSNmkI8lKMFVMU2Y4hpgi), [C103](https://open.spotify.com/artist/5dBsvQle015D29PAVpUnDr) | [MYTH.mix](https://open.spotify.com/album/4RH3HIiMz1Cq16Dw8SDHAy) | 2:42 |
+| 7 | [RENEGADE](https://open.spotify.com/track/5JXWb7DqYJlXiFnJd9Vfgk) | [VALORANT](https://open.spotify.com/artist/3wrFoI9EVjWg6m8xXeWr5t), [99 God](https://open.spotify.com/artist/1fSNmkI8lKMFVMU2Y4hpgi), [C103](https://open.spotify.com/artist/5dBsvQle015D29PAVpUnDr) | [MYTH.mix](https://open.spotify.com/album/4RH3HIiMz1Cq16Dw8SDHAy) | 2:42 |
 | 8 | [Pacer](https://open.spotify.com/track/14MdehDJ3lgRO6SVe60eHk) | [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [Pacer](https://open.spotify.com/album/0C4bcDFbb7cQf2W3WH6RVm) | 2:56 |
 | 9 | [Make It Out Alive](https://open.spotify.com/track/4WVJeRP6hjMMBkmWsV4TtF) | [ONE OK ROCK](https://open.spotify.com/artist/7k73EtZwoPs516ZxE72KsO) | [Make It Out Alive](https://open.spotify.com/album/6FRkntES0AkBOQu9AOHNeo) | 3:29 |
 | 10 | [We Go](https://open.spotify.com/track/7hxvMTEUOXEKDZ3nnUqbdJ) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [Pokémon 2023 \(Original TV Series Soundtrack, Korea\)](https://open.spotify.com/album/2rTc5TdRP7hr7gE4h4lUR1) | 3:08 |
@@ -71,4 +71,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8GjsySWIS1x.md) - [plain]
 | 61 | [Pomegranate Lips](https://open.spotify.com/track/1mKuKTxekhyhbW1axz6lb2) | [Derivakat](https://open.spotify.com/artist/4T7KICeQg50AwFzauMCR9C) | [Pomegranate Lips](https://open.spotify.com/album/1CuRyhhGUWNEZCUHlQRyUi) | 2:39 |
 | 62 | [INDUSTRY BABY \(feat\. Jack Harlow\)](https://open.spotify.com/track/5Z9KJZvQzH6PFmb8SNkxuk) | [Lil Nas X](https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq), [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [MONTERO](https://open.spotify.com/album/6pOiDiuDQqrmo5DbG0ZubR) | 3:32 |
 
-Snapshot ID: `MCxhMmIyYTBkMjY3NWZjNDY4OGI2OTM3OGFlNDdmYzJlYjhhMjgyMjll`
+Snapshot ID: `MCwxNGIyNTQ3Y2RjZmFlODUyYjZiMzcxNTI5ZTliNzcxOTczMjQzM2Zh`

@@ -1,12 +1,12 @@
 {
   "description": "\u56fd\u5185\u5916\u306e\u69d8\u3005\u306a\u30b7\u30fc\u30f3\u3068\u5171\u9cf4\u3059\u308b\u65e5\u672c\u306e\u30e9\u30a6\u30c9\u30fb\u30ed\u30c3\u30af\u3092\u7279\u96c6\u3002Cover: Age Factory",
-  "num_followers": 40968,
+  "num_followers": 41018,
   "original_name": "Loud Rock Japan",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwNTJhYTY5NDljZGRhOGMwNjdhNDc2ZjM0MjU3NDVlYzBjNWViMzZi",
+  "snapshot_id": "MCwzOTU5NGYyNmZkZjZhZDJmMGRlNDM1MTIzYTAwNTgzYTdkODkxNDVi",
   "tracks": [
     {
       "added_at": "2023-10-19 15:00:00",
@@ -564,7 +564,7 @@
       "added_at": "2023-10-19 15:00:00",
       "album": {
         "name": "Everything is all lies",
-        "url": "https://open.spotify.com/album/5YIvr0nyy19d0iNOsAzoPX"
+        "url": "https://open.spotify.com/album/7r9qMbnNkHSOOl3BgpE937"
       },
       "artists": [
         {
@@ -574,7 +574,7 @@
       ],
       "duration_ms": 225371,
       "name": "Everything is all lies",
-      "url": "https://open.spotify.com/track/69IdF6DRfdfVzHcfTKSKGV"
+      "url": "https://open.spotify.com/track/7DW1eA2egBA4eoy0OzFKp2"
     },
     {
       "added_at": "2023-10-19 15:00:00",
@@ -663,22 +663,6 @@
     {
       "added_at": "2023-10-19 15:00:00",
       "album": {
-        "name": "\u66d6\u6627",
-        "url": "https://open.spotify.com/album/3BRmcqCvRvH8QVFfiAU5bY"
-      },
-      "artists": [
-        {
-          "name": "WANIMA",
-          "url": "https://open.spotify.com/artist/6YqdtpUutxodni6lUD4stM"
-        }
-      ],
-      "duration_ms": 222125,
-      "name": "\u66d6\u6627",
-      "url": "https://open.spotify.com/track/46LzUNQbhoNBTcBNp0dtsH"
-    },
-    {
-      "added_at": "2023-10-19 15:00:00",
-      "album": {
         "name": "\u6771\u4eac\u30df\u30c3\u30c9\u30ca\u30a4\u30c8",
         "url": "https://open.spotify.com/album/30LuOfT2yzjCCL8LNFrUUr"
       },
@@ -691,6 +675,22 @@
       "duration_ms": 226253,
       "name": "\u6771\u4eac\u30df\u30c3\u30c9\u30ca\u30a4\u30c8",
       "url": "https://open.spotify.com/track/6yOsud5tOWwu4Hj43cW7Vc"
+    },
+    {
+      "added_at": "2023-10-19 15:00:00",
+      "album": {
+        "name": "\u66d6\u6627",
+        "url": "https://open.spotify.com/album/3BRmcqCvRvH8QVFfiAU5bY"
+      },
+      "artists": [
+        {
+          "name": "WANIMA",
+          "url": "https://open.spotify.com/artist/6YqdtpUutxodni6lUD4stM"
+        }
+      ],
+      "duration_ms": 222125,
+      "name": "\u66d6\u6627",
+      "url": "https://open.spotify.com/track/46LzUNQbhoNBTcBNp0dtsH"
     },
     {
       "added_at": "2023-10-19 15:00:00",
@@ -727,6 +727,38 @@
     {
       "added_at": "2023-10-19 15:00:00",
       "album": {
+        "name": "Missing",
+        "url": "https://open.spotify.com/album/6mGi2j1maFymgzAoiiQVoY"
+      },
+      "artists": [
+        {
+          "name": "ELLEGARDEN",
+          "url": "https://open.spotify.com/artist/3cbd5GWGOknxmFAe77MDbk"
+        }
+      ],
+      "duration_ms": 181773,
+      "name": "The Autumn Song",
+      "url": "https://open.spotify.com/track/6UzbqphdFT8m90bUJVtJHY"
+    },
+    {
+      "added_at": "2023-10-19 15:00:00",
+      "album": {
+        "name": "ANTITHESE",
+        "url": "https://open.spotify.com/album/1brsSK66B0UZYqyLjvG9kK"
+      },
+      "artists": [
+        {
+          "name": "MY FIRST STORY",
+          "url": "https://open.spotify.com/artist/6cutt8thPFUICMfxaYerWd"
+        }
+      ],
+      "duration_ms": 260000,
+      "name": "Missing You",
+      "url": "https://open.spotify.com/track/4MzdrjWuEShth6tyABlzYo"
+    },
+    {
+      "added_at": "2023-10-19 15:00:00",
+      "album": {
         "name": "Jujutsu Kaisen (Original Television Soundtrack)",
         "url": "https://open.spotify.com/album/5QYGsl05fLEEE4fUjz4rkt"
       },
@@ -747,38 +779,6 @@
     {
       "added_at": "2023-10-19 15:00:00",
       "album": {
-        "name": "Missing",
-        "url": "https://open.spotify.com/album/6mGi2j1maFymgzAoiiQVoY"
-      },
-      "artists": [
-        {
-          "name": "ELLEGARDEN",
-          "url": "https://open.spotify.com/artist/3cbd5GWGOknxmFAe77MDbk"
-        }
-      ],
-      "duration_ms": 181773,
-      "name": "The Autumn Song",
-      "url": "https://open.spotify.com/track/6UzbqphdFT8m90bUJVtJHY"
-    },
-    {
-      "added_at": "2023-10-19 15:00:00",
-      "album": {
-        "name": "Bloody Power Fame",
-        "url": "https://open.spotify.com/album/4H9aESabZLTv3U8FEAxvsI"
-      },
-      "artists": [
-        {
-          "name": "coldrain",
-          "url": "https://open.spotify.com/artist/4pCVGaLWxDe4d8bsjsnmUM"
-        }
-      ],
-      "duration_ms": 238498,
-      "name": "Bloody Power Fame",
-      "url": "https://open.spotify.com/track/6oshufDccwvnIwKCvKayb6"
-    },
-    {
-      "added_at": "2023-10-19 15:00:00",
-      "album": {
         "name": "Monochrome",
         "url": "https://open.spotify.com/album/6IoOqdEHdwLgfUONXeYvoI"
       },
@@ -795,18 +795,18 @@
     {
       "added_at": "2023-10-19 15:00:00",
       "album": {
-        "name": "ANTITHESE",
-        "url": "https://open.spotify.com/album/1brsSK66B0UZYqyLjvG9kK"
+        "name": "Bloody Power Fame",
+        "url": "https://open.spotify.com/album/4H9aESabZLTv3U8FEAxvsI"
       },
       "artists": [
         {
-          "name": "MY FIRST STORY",
-          "url": "https://open.spotify.com/artist/6cutt8thPFUICMfxaYerWd"
+          "name": "coldrain",
+          "url": "https://open.spotify.com/artist/4pCVGaLWxDe4d8bsjsnmUM"
         }
       ],
-      "duration_ms": 260000,
-      "name": "Missing You",
-      "url": "https://open.spotify.com/track/4MzdrjWuEShth6tyABlzYo"
+      "duration_ms": 238498,
+      "name": "Bloody Power Fame",
+      "url": "https://open.spotify.com/track/6oshufDccwvnIwKCvKayb6"
     },
     {
       "added_at": "2023-10-19 15:00:00",
@@ -843,18 +843,34 @@
     {
       "added_at": "2023-10-19 15:00:00",
       "album": {
-        "name": "SEEDS OF HOPE",
-        "url": "https://open.spotify.com/album/47kmsCirEp0h93kZyTu4T5"
+        "name": "DYSTOPIA",
+        "url": "https://open.spotify.com/album/1Nqm7ntku7DKw37MVkqMGP"
       },
       "artists": [
         {
-          "name": "SiM",
-          "url": "https://open.spotify.com/artist/2BM933ADIluGGrPBOhPgIt"
+          "name": "Crystal Lake",
+          "url": "https://open.spotify.com/artist/0A7d0PJxaLO7CGI94ht6PX"
         }
       ],
-      "duration_ms": 175386,
-      "name": "KiLLiNG ME",
-      "url": "https://open.spotify.com/track/1yDYJ7npSt07XLLOKGVkd6"
+      "duration_ms": 253898,
+      "name": "DYSTOPIA",
+      "url": "https://open.spotify.com/track/4Qg1BZPTvFLegnFPdURGBf"
+    },
+    {
+      "added_at": "2023-10-19 15:00:00",
+      "album": {
+        "name": "CRAZY BEAUTIFUL NIGHT",
+        "url": "https://open.spotify.com/album/67xKEMSjfmnUn628A2FvYQ"
+      },
+      "artists": [
+        {
+          "name": "MY FIRST STORY",
+          "url": "https://open.spotify.com/artist/6cutt8thPFUICMfxaYerWd"
+        }
+      ],
+      "duration_ms": 218933,
+      "name": "CRAZY BEAUTIFUL NIGHT",
+      "url": "https://open.spotify.com/track/1BvsiUIXqmq0i7Fa8cC3LV"
     },
     {
       "added_at": "2023-10-19 15:00:00",
@@ -875,6 +891,22 @@
     {
       "added_at": "2023-10-19 15:00:00",
       "album": {
+        "name": "SEEDS OF HOPE",
+        "url": "https://open.spotify.com/album/47kmsCirEp0h93kZyTu4T5"
+      },
+      "artists": [
+        {
+          "name": "SiM",
+          "url": "https://open.spotify.com/artist/2BM933ADIluGGrPBOhPgIt"
+        }
+      ],
+      "duration_ms": 175386,
+      "name": "KiLLiNG ME",
+      "url": "https://open.spotify.com/track/1yDYJ7npSt07XLLOKGVkd6"
+    },
+    {
+      "added_at": "2023-10-19 15:00:00",
+      "album": {
         "name": "10-FEET\u5165\u308a\u53e3\u306e10\u66f2 2",
         "url": "https://open.spotify.com/album/3aTZAzTcYFO4fl35mqwdLw"
       },
@@ -887,38 +919,6 @@
       "duration_ms": 203830,
       "name": "\u30cf\u30ed\u30fc\u30d5\u30a3\u30af\u30b5\u30fc",
       "url": "https://open.spotify.com/track/5Dv0DjR4PlyGgUZhnBEpkh"
-    },
-    {
-      "added_at": "2023-10-19 15:00:00",
-      "album": {
-        "name": "BUG",
-        "url": "https://open.spotify.com/album/1Rav5NLGbB4c3nozaOPvRP"
-      },
-      "artists": [
-        {
-          "name": "THE ORAL CIGARETTES",
-          "url": "https://open.spotify.com/artist/4rqJz9fE9prZvQd8WsQv6q"
-        }
-      ],
-      "duration_ms": 231428,
-      "name": "BUG",
-      "url": "https://open.spotify.com/track/3ll3777Lzzs15BdKwzbgIU"
-    },
-    {
-      "added_at": "2023-10-19 15:00:00",
-      "album": {
-        "name": "ROAR",
-        "url": "https://open.spotify.com/album/09wcj80hhbm5MghpXgZmtn"
-      },
-      "artists": [
-        {
-          "name": "ulma sound junction",
-          "url": "https://open.spotify.com/artist/3h5skAdoPngCgx42LEYnse"
-        }
-      ],
-      "duration_ms": 203756,
-      "name": "ROAR",
-      "url": "https://open.spotify.com/track/6uivVGH9afiQOD9AbZatrq"
     },
     {
       "added_at": "2023-10-19 15:00:00",
@@ -955,22 +955,6 @@
     {
       "added_at": "2023-10-19 15:00:00",
       "album": {
-        "name": "CRAZY BEAUTIFUL NIGHT",
-        "url": "https://open.spotify.com/album/67xKEMSjfmnUn628A2FvYQ"
-      },
-      "artists": [
-        {
-          "name": "MY FIRST STORY",
-          "url": "https://open.spotify.com/artist/6cutt8thPFUICMfxaYerWd"
-        }
-      ],
-      "duration_ms": 218933,
-      "name": "CRAZY BEAUTIFUL NIGHT",
-      "url": "https://open.spotify.com/track/1BvsiUIXqmq0i7Fa8cC3LV"
-    },
-    {
-      "added_at": "2023-10-19 15:00:00",
-      "album": {
         "name": "ELEVEN FIRE CRACKERS",
         "url": "https://open.spotify.com/album/62h711GD0PJcK2HfqO7dmB"
       },
@@ -987,22 +971,34 @@
     {
       "added_at": "2023-10-19 15:00:00",
       "album": {
-        "name": "10-feat",
-        "url": "https://open.spotify.com/album/0fEuThtACeHQcSULrDR1ma"
+        "name": "BUG",
+        "url": "https://open.spotify.com/album/1Rav5NLGbB4c3nozaOPvRP"
       },
       "artists": [
         {
-          "name": "10-FEET",
-          "url": "https://open.spotify.com/artist/0QZqdhoRQkn1VphAa5eX8h"
-        },
-        {
-          "name": "WANIMA",
-          "url": "https://open.spotify.com/artist/6YqdtpUutxodni6lUD4stM"
+          "name": "THE ORAL CIGARETTES",
+          "url": "https://open.spotify.com/artist/4rqJz9fE9prZvQd8WsQv6q"
         }
       ],
-      "duration_ms": 236013,
-      "name": "VIBES BY VIBES",
-      "url": "https://open.spotify.com/track/4IQ8TRkM7s24li5Y6xbEtp"
+      "duration_ms": 231428,
+      "name": "BUG",
+      "url": "https://open.spotify.com/track/3ll3777Lzzs15BdKwzbgIU"
+    },
+    {
+      "added_at": "2023-10-19 15:00:00",
+      "album": {
+        "name": "ROAR",
+        "url": "https://open.spotify.com/album/09wcj80hhbm5MghpXgZmtn"
+      },
+      "artists": [
+        {
+          "name": "ulma sound junction",
+          "url": "https://open.spotify.com/artist/3h5skAdoPngCgx42LEYnse"
+        }
+      ],
+      "duration_ms": 203756,
+      "name": "ROAR",
+      "url": "https://open.spotify.com/track/6uivVGH9afiQOD9AbZatrq"
     },
     {
       "added_at": "2023-10-19 15:00:00",
@@ -1039,6 +1035,26 @@
     {
       "added_at": "2023-10-19 15:00:00",
       "album": {
+        "name": "10-feat",
+        "url": "https://open.spotify.com/album/0fEuThtACeHQcSULrDR1ma"
+      },
+      "artists": [
+        {
+          "name": "10-FEET",
+          "url": "https://open.spotify.com/artist/0QZqdhoRQkn1VphAa5eX8h"
+        },
+        {
+          "name": "WANIMA",
+          "url": "https://open.spotify.com/artist/6YqdtpUutxodni6lUD4stM"
+        }
+      ],
+      "duration_ms": 236013,
+      "name": "VIBES BY VIBES",
+      "url": "https://open.spotify.com/track/4IQ8TRkM7s24li5Y6xbEtp"
+    },
+    {
+      "added_at": "2023-10-19 15:00:00",
+      "album": {
         "name": "SLAY!!",
         "url": "https://open.spotify.com/album/1Si2sHK43ZueadlTaBP6bO"
       },
@@ -1059,22 +1075,6 @@
     {
       "added_at": "2023-10-19 15:00:00",
       "album": {
-        "name": "THE LAST ROCKSTARS (PARIS MIX)",
-        "url": "https://open.spotify.com/album/4tofpZnaMxN2eFbS6aBBor"
-      },
-      "artists": [
-        {
-          "name": "The Last Rockstars",
-          "url": "https://open.spotify.com/artist/4tCAdCQzODk8RI5LvTfujz"
-        }
-      ],
-      "duration_ms": 285700,
-      "name": "THE LAST ROCKSTARS (PARIS MIX)",
-      "url": "https://open.spotify.com/track/3V3BVSPAsXD3keTsZTXF4k"
-    },
-    {
-      "added_at": "2023-10-19 15:00:00",
-      "album": {
         "name": "THE OTHER ONE",
         "url": "https://open.spotify.com/album/0gboAM5pPE6N4WBgCmq70t"
       },
@@ -1087,6 +1087,22 @@
       "duration_ms": 244258,
       "name": "Light and Darkness",
       "url": "https://open.spotify.com/track/12dYN0rS95O37qxZh3pOLV"
+    },
+    {
+      "added_at": "2023-10-19 15:00:00",
+      "album": {
+        "name": "THE LAST ROCKSTARS (PARIS MIX)",
+        "url": "https://open.spotify.com/album/4tofpZnaMxN2eFbS6aBBor"
+      },
+      "artists": [
+        {
+          "name": "The Last Rockstars",
+          "url": "https://open.spotify.com/artist/4tCAdCQzODk8RI5LvTfujz"
+        }
+      ],
+      "duration_ms": 285700,
+      "name": "THE LAST ROCKSTARS (PARIS MIX)",
+      "url": "https://open.spotify.com/track/3V3BVSPAsXD3keTsZTXF4k"
     },
     {
       "added_at": "2023-10-19 15:00:00",
@@ -1219,22 +1235,6 @@
     {
       "added_at": "2023-10-19 15:00:00",
       "album": {
-        "name": "TAKING THEM DOWN",
-        "url": "https://open.spotify.com/album/4SRTjaKlxpG3Y1UKnQaVrU"
-      },
-      "artists": [
-        {
-          "name": "HYDE",
-          "url": "https://open.spotify.com/artist/0ZXSQd2JNOfwJcLNbX0jpN"
-        }
-      ],
-      "duration_ms": 172974,
-      "name": "TAKING THEM DOWN",
-      "url": "https://open.spotify.com/track/3c1lVormOG2JXVtRXCQBOX"
-    },
-    {
-      "added_at": "2023-10-19 15:00:00",
-      "album": {
         "name": "\u30b3\u30ea\u30f3\u30ba",
         "url": "https://open.spotify.com/album/2WaRUGRx1I5uRs0hrMEFYk"
       },
@@ -1247,6 +1247,22 @@
       "duration_ms": 168280,
       "name": "SLAM",
       "url": "https://open.spotify.com/track/1RPGY7aKPL5A5PVBimkbHW"
+    },
+    {
+      "added_at": "2023-10-19 15:00:00",
+      "album": {
+        "name": "TAKING THEM DOWN",
+        "url": "https://open.spotify.com/album/4SRTjaKlxpG3Y1UKnQaVrU"
+      },
+      "artists": [
+        {
+          "name": "HYDE",
+          "url": "https://open.spotify.com/artist/0ZXSQd2JNOfwJcLNbX0jpN"
+        }
+      ],
+      "duration_ms": 172974,
+      "name": "TAKING THEM DOWN",
+      "url": "https://open.spotify.com/track/3c1lVormOG2JXVtRXCQBOX"
     },
     {
       "added_at": "2023-10-19 15:00:00",
@@ -1579,22 +1595,6 @@
     {
       "added_at": "2023-10-19 15:00:00",
       "album": {
-        "name": "STEADY",
-        "url": "https://open.spotify.com/album/6a3SLIQtIoOTAUSRXRGq8w"
-      },
-      "artists": [
-        {
-          "name": "SHANK",
-          "url": "https://open.spotify.com/artist/7xx0gYr6iMecpDbSynNzWF"
-        }
-      ],
-      "duration_ms": 131680,
-      "name": "Drain Water",
-      "url": "https://open.spotify.com/track/0zSJONiunE3g3fGjq7W4kv"
-    },
-    {
-      "added_at": "2023-10-19 15:00:00",
-      "album": {
         "name": "\u30e6\u30a8\u30cb",
         "url": "https://open.spotify.com/album/1ZuPsCdjOY2hJyM3Y6KO84"
       },
@@ -1607,6 +1607,22 @@
       "duration_ms": 240550,
       "name": "\u30e6\u30a8\u30cb",
       "url": "https://open.spotify.com/track/7hZQgHQ1NH8WYs5UBtjRET"
+    },
+    {
+      "added_at": "2023-10-19 15:00:00",
+      "album": {
+        "name": "STEADY",
+        "url": "https://open.spotify.com/album/6a3SLIQtIoOTAUSRXRGq8w"
+      },
+      "artists": [
+        {
+          "name": "SHANK",
+          "url": "https://open.spotify.com/artist/7xx0gYr6iMecpDbSynNzWF"
+        }
+      ],
+      "duration_ms": 131680,
+      "name": "Drain Water",
+      "url": "https://open.spotify.com/track/0zSJONiunE3g3fGjq7W4kv"
     },
     {
       "added_at": "2023-10-19 15:00:00",
@@ -1643,22 +1659,6 @@
       "duration_ms": 147157,
       "name": "living dead!!",
       "url": "https://open.spotify.com/track/3oamfw1nAipiBdqnnaIMHL"
-    },
-    {
-      "added_at": "2023-10-19 15:00:00",
-      "album": {
-        "name": "RARA",
-        "url": "https://open.spotify.com/album/6vV4OJGtCjvJD6OdaoCQ9c"
-      },
-      "artists": [
-        {
-          "name": "NOISEMAKER",
-          "url": "https://open.spotify.com/artist/02usiGXga5g4aQteRySLXQ"
-        }
-      ],
-      "duration_ms": 235973,
-      "name": "NAME",
-      "url": "https://open.spotify.com/track/38b2nMKtd1qiVBkULMQti2"
     }
   ],
   "unique_name": "Loud Rock Japan",

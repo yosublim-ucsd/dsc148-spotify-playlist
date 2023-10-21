@@ -1407,6 +1407,28 @@
     },
     {
       "album": {
+        "name": "Blowfly (with Ab-Soul)",
+        "url": "https://open.spotify.com/album/6LTCNeWyfbzaIP3O0tcEXD"
+      },
+      "artists": [
+        {
+          "name": "Jay Rock",
+          "url": "https://open.spotify.com/artist/28ExwzUQsvgJooOI0X1mr3"
+        },
+        {
+          "name": "Ab-Soul",
+          "url": "https://open.spotify.com/artist/0g9vAlRPK9Gt3FKCekk4TW"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166238,
+      "name": "Blowfly (with Ab-Soul)",
+      "url": "https://open.spotify.com/track/2tRcF1bE5ESw9c8ljLXLsR"
+    },
+    {
+      "album": {
         "name": "BLUSH",
         "url": "https://open.spotify.com/album/41QRDll7uVEhOxYa35BdNY"
       },
@@ -1782,7 +1804,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-21",
       "duration_ms": 108281,
       "name": "Burning Desire",
       "url": "https://open.spotify.com/track/2KKrlVEhlXqfrLR1okapHp"
@@ -2426,6 +2448,24 @@
       "duration_ms": 227555,
       "name": "Dance Now (with Kenny Mason)",
       "url": "https://open.spotify.com/track/6EqF11d0EPJwVynLXu3gvY"
+    },
+    {
+      "album": {
+        "name": "California Poppy 3",
+        "url": "https://open.spotify.com/album/2rQcJDMTU24dEnylHwZX9q"
+      },
+      "artists": [
+        {
+          "name": "Rexx Life Raj",
+          "url": "https://open.spotify.com/artist/5rDXcEIODl8TgGTgrntnjX"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 111058,
+      "name": "Dandelion Root",
+      "url": "https://open.spotify.com/track/5yKFERRRuX8fxBGnJkFY8o"
     },
     {
       "album": {
@@ -10776,7 +10816,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-21",
       "duration_ms": 166727,
       "name": "The Weeping Poets ft. Jay Electronica",
       "url": "https://open.spotify.com/track/4VzTXmQtXHMpsEdfyTAYf2"

@@ -187,6 +187,28 @@
     },
     {
       "album": {
+        "name": "Aladdin",
+        "url": "https://open.spotify.com/album/2OX5dCrbWu0Yorv9vO2jZk"
+      },
+      "artists": [
+        {
+          "name": "Delacruz",
+          "url": "https://open.spotify.com/artist/1MzXJ8AaHdidMAnjgcahS4"
+        },
+        {
+          "name": "JOK3R",
+          "url": "https://open.spotify.com/artist/2YvHMMn0rYDvE3rs6dqzhq"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154374,
+      "name": "Aladdin",
+      "url": "https://open.spotify.com/track/0Bb8wTRAiaiZYuYYELvVJA"
+    },
+    {
+      "album": {
         "name": "Amizade Colorida",
         "url": "https://open.spotify.com/album/7hznLbksGP4RpBEPGNAkd2"
       },
@@ -284,6 +306,28 @@
       "duration_ms": 223138,
       "name": "Amor Espacial",
       "url": "https://open.spotify.com/track/0wcUKYS8PIpaYIVsQZsmmf"
+    },
+    {
+      "album": {
+        "name": "Amor Sem Compromisso",
+        "url": "https://open.spotify.com/album/6Rn2tE8jgyP4Gss1I5VCG6"
+      },
+      "artists": [
+        {
+          "name": "Brigadeiro",
+          "url": "https://open.spotify.com/artist/1mbVcuAPwoThnWBehQkJG0"
+        },
+        {
+          "name": "Mc Frog",
+          "url": "https://open.spotify.com/artist/5xKesKsXI1jv2TorLOnbbm"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210677,
+      "name": "Amor Sem Compromisso",
+      "url": "https://open.spotify.com/track/3YKfT0FuG5Gk3znshjLURM"
     },
     {
       "album": {
@@ -1258,7 +1302,7 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-21",
       "duration_ms": 153191,
       "name": "Cartier",
       "url": "https://open.spotify.com/track/7xo06VspucSbdF1tkJjbGZ"
@@ -2693,6 +2737,32 @@
     },
     {
       "album": {
+        "name": "Fala na Cara",
+        "url": "https://open.spotify.com/album/7lJy7mlkpSW21llZgg96bb"
+      },
+      "artists": [
+        {
+          "name": "Mc Paiva ZS",
+          "url": "https://open.spotify.com/artist/0gHj4MPwwcZ8Zl9CY0hqT5"
+        },
+        {
+          "name": "DJ Ak beats",
+          "url": "https://open.spotify.com/artist/685uhJgfQlrMNuarOzgyea"
+        },
+        {
+          "name": "Love Funk",
+          "url": "https://open.spotify.com/artist/64DTkZLH6KkkMwZEEZ5VWC"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171707,
+      "name": "Fala na Cara",
+      "url": "https://open.spotify.com/track/0OBv4CEP5FKS19ZQGHAUM6"
+    },
+    {
+      "album": {
         "name": "Fala Teu Nome",
         "url": "https://open.spotify.com/album/2Bzo75iiHVwCvHcPMDtimW"
       },
@@ -3012,7 +3082,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-21",
       "duration_ms": 134720,
       "name": "Flashs",
       "url": "https://open.spotify.com/track/4TdfOxBiAD4fvEcOxVhHfD"
@@ -3585,6 +3655,44 @@
     },
     {
       "album": {
+        "name": "Invis\u00edvel pt.2",
+        "url": "https://open.spotify.com/album/0KzFmbHMHXxpa0GUjuMZir"
+      },
+      "artists": [
+        {
+          "name": "Veigh",
+          "url": "https://open.spotify.com/artist/4YqwRbMLqGHRHLS1w2ZKse"
+        },
+        {
+          "name": "Supernova Ent",
+          "url": "https://open.spotify.com/artist/3prRKGJz16RRMRSIM97nHw"
+        },
+        {
+          "name": "Honaiser",
+          "url": "https://open.spotify.com/artist/0PNcEYeVDBqbywI00Y3ANT"
+        },
+        {
+          "name": "Toledo",
+          "url": "https://open.spotify.com/artist/7I4OIWw3Zm4lUmt2QHnz30"
+        },
+        {
+          "name": "Nagalli",
+          "url": "https://open.spotify.com/artist/6TPJK8tv3AKKSsw0lENTQk"
+        },
+        {
+          "name": "Bvga Beatz",
+          "url": "https://open.spotify.com/artist/7saGN6a32YNpiMPo2SWJxE"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174556,
+      "name": "Invis\u00edvel pt.2",
+      "url": "https://open.spotify.com/track/2PsrJc45N7xbFo2ZrL4bHD"
+    },
+    {
+      "album": {
         "name": "ISSO \u00c9 S\u00c9RIO",
         "url": "https://open.spotify.com/album/5bhn8wz8Ut5DzcYNhHEIZu"
       },
@@ -3867,6 +3975,32 @@
     },
     {
       "album": {
+        "name": "Licor Chocolate",
+        "url": "https://open.spotify.com/album/0EoPVWvpBZDPY2RUgHBeM9"
+      },
+      "artists": [
+        {
+          "name": "MC Marks",
+          "url": "https://open.spotify.com/artist/04QHNiih9ZesPvals6II1h"
+        },
+        {
+          "name": "Monize Teix",
+          "url": "https://open.spotify.com/artist/6fOxmn8oqM55jHElWXJgHK"
+        },
+        {
+          "name": "KANASHIRO",
+          "url": "https://open.spotify.com/artist/3mmlFKPzrG0ZGYneLDt1Y8"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152359,
+      "name": "Licor Chocolate",
+      "url": "https://open.spotify.com/track/6Zwof0OlxFU4HWglaCzsD0"
+    },
+    {
+      "album": {
         "name": "Jogador Caro",
         "url": "https://open.spotify.com/album/0f4FxrXUKmE3fW1ZpHodQ4"
       },
@@ -4032,7 +4166,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-21",
       "duration_ms": 160956,
       "name": "L\u00e1grimas De Um Babaca",
       "url": "https://open.spotify.com/track/4PF9WnMAgsCZVnX0lOUsEG"
@@ -4062,6 +4196,24 @@
       "duration_ms": 172029,
       "name": "Mais Um Trago",
       "url": "https://open.spotify.com/track/38Ykj18FJ3YyyyVRIAFaxO"
+    },
+    {
+      "album": {
+        "name": "Mais Um Voo",
+        "url": "https://open.spotify.com/album/27ZKtXmfYS7OXGb1aKoI7U"
+      },
+      "artists": [
+        {
+          "name": "Teto",
+          "url": "https://open.spotify.com/artist/68YeXpLt3jB7JHQS5ZjMGo"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194400,
+      "name": "Mais Um Voo",
+      "url": "https://open.spotify.com/track/39uMV1Ix79vlMNssVxACuU"
     },
     {
       "album": {
@@ -4864,7 +5016,7 @@
       ],
       "date_added": "2023-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-21",
       "duration_ms": 175384,
       "name": "N.Q.Q.P.",
       "url": "https://open.spotify.com/track/4gijewKQbEahUI01Tcz6hp"
@@ -4986,7 +5138,7 @@
       ],
       "date_added": "2023-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-21",
       "duration_ms": 160000,
       "name": "Noite de Ver\u00e3o",
       "url": "https://open.spotify.com/track/6ShMk27U60Vr1kpz5qexCN"
@@ -6604,7 +6756,7 @@
       ],
       "date_added": "2023-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-21",
       "duration_ms": 192676,
       "name": "Rabuda",
       "url": "https://open.spotify.com/track/0l3y8CWKRmrwyoGgC8bsDM"
@@ -7258,7 +7410,7 @@
       ],
       "date_added": "2023-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-21",
       "duration_ms": 182857,
       "name": "Seu Erro",
       "url": "https://open.spotify.com/track/6Lwxlj4xV0JG0VkTslT2Jh"
@@ -8021,6 +8173,24 @@
     },
     {
       "album": {
+        "name": "Brutas Amam, Choram e Sentem Raiva",
+        "url": "https://open.spotify.com/album/0LVN0GsRFWkrhfhMVbJuBj"
+      },
+      "artists": [
+        {
+          "name": "Ajuliacosta",
+          "url": "https://open.spotify.com/artist/0eHkGhhUyp3LZdtZjaA8gd"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262400,
+      "name": "T\u00e3o Gostoso",
+      "url": "https://open.spotify.com/track/0bgy7v2lKWmvaegE7JKF7m"
+    },
+    {
+      "album": {
         "name": "Nova Wave, Pt. 3",
         "url": "https://open.spotify.com/album/2b2WeLktAC6n3jLlq1pLqo"
       },
@@ -8036,7 +8206,7 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-21",
       "duration_ms": 213333,
       "name": "T\u00f3xica",
       "url": "https://open.spotify.com/track/4IuFdk5Hk90iUPPi98gWpN"

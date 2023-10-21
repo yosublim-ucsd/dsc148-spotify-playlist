@@ -1,12 +1,12 @@
 {
   "description": "Music from the most memorable Super Bowl halftime shows. Cover: Rihanna",
-  "num_followers": 87212,
+  "num_followers": 87248,
   "original_name": "Halftime Hits",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiY2I5MjZkMTdjOTRlZmY5NWQwZDg2MTJiM2U1NDQzZTBjODliNTI4",
+  "snapshot_id": "MCxmN2E2MTVhYTA1ZTFiZTJkZGZhOWQwNWJjMDA2YjVjMzM4NzcyYWZl",
   "tracks": [
     {
       "added_at": "2023-01-28 00:44:44",
@@ -675,22 +675,6 @@
     {
       "added_at": "2023-01-28 00:44:44",
       "album": {
-        "name": "Come On Over",
-        "url": "https://open.spotify.com/album/4UMe0Ods7kygK6OISasZe9"
-      },
-      "artists": [
-        {
-          "name": "Shania Twain",
-          "url": "https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL"
-        }
-      ],
-      "duration_ms": 234493,
-      "name": "Man! I Feel Like A Woman!",
-      "url": "https://open.spotify.com/track/6sxptembJVty4sNtcPMAVz"
-    },
-    {
-      "added_at": "2023-01-28 00:44:44",
-      "album": {
         "name": "Purple Rain",
         "url": "https://open.spotify.com/album/7nXJ5k4XgRj5OLg9m8V3zc"
       },
@@ -703,6 +687,22 @@
       "duration_ms": 520786,
       "name": "Purple Rain",
       "url": "https://open.spotify.com/track/54X78diSLoUDI3joC2bjMz"
+    },
+    {
+      "added_at": "2023-01-28 00:44:44",
+      "album": {
+        "name": "Come On Over",
+        "url": "https://open.spotify.com/album/4UMe0Ods7kygK6OISasZe9"
+      },
+      "artists": [
+        {
+          "name": "Shania Twain",
+          "url": "https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL"
+        }
+      ],
+      "duration_ms": 234493,
+      "name": "Man! I Feel Like A Woman!",
+      "url": "https://open.spotify.com/track/6sxptembJVty4sNtcPMAVz"
     },
     {
       "added_at": "2023-01-28 00:44:44",
@@ -1195,22 +1195,6 @@
     {
       "added_at": "2023-01-28 00:44:44",
       "album": {
-        "name": "Who Are You",
-        "url": "https://open.spotify.com/album/7at3CV9Y9P57wsEXkfU0q8"
-      },
-      "artists": [
-        {
-          "name": "The Who",
-          "url": "https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w"
-        }
-      ],
-      "duration_ms": 381626,
-      "name": "Who Are You",
-      "url": "https://open.spotify.com/track/23IJ5wLRhEZ9DOuia5mPiZ"
-    },
-    {
-      "added_at": "2023-01-28 00:44:44",
-      "album": {
         "name": "Celebration (double disc version)",
         "url": "https://open.spotify.com/album/43lok9zd7BW5CoYkXZs7S0"
       },
@@ -1223,6 +1207,22 @@
       "duration_ms": 316813,
       "name": "Vogue",
       "url": "https://open.spotify.com/track/27QvYgBk0CHOVHthWnkuWt"
+    },
+    {
+      "added_at": "2023-01-28 00:44:44",
+      "album": {
+        "name": "Who Are You",
+        "url": "https://open.spotify.com/album/7at3CV9Y9P57wsEXkfU0q8"
+      },
+      "artists": [
+        {
+          "name": "The Who",
+          "url": "https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w"
+        }
+      ],
+      "duration_ms": 381626,
+      "name": "Who Are You",
+      "url": "https://open.spotify.com/track/23IJ5wLRhEZ9DOuia5mPiZ"
     },
     {
       "added_at": "2023-01-28 00:44:44",
@@ -1571,22 +1571,6 @@
     {
       "added_at": "2023-01-28 00:44:44",
       "album": {
-        "name": "Order In The Court",
-        "url": "https://open.spotify.com/album/6CUx1FX3ctnbXGieFT7inL"
-      },
-      "artists": [
-        {
-          "name": "Queen Latifah",
-          "url": "https://open.spotify.com/artist/5m7wCUhYhBh7A3A3YMxrbt"
-        }
-      ],
-      "duration_ms": 240933,
-      "name": "Paper",
-      "url": "https://open.spotify.com/track/5wOFLFoIhXBaKGtgCc62wW"
-    },
-    {
-      "added_at": "2023-01-28 00:44:44",
-      "album": {
         "name": "Greatest Hits 1990-1992",
         "url": "https://open.spotify.com/album/1VvHSKStQBrQV5bOPBsq16"
       },
@@ -1599,6 +1583,22 @@
       "duration_ms": 159066,
       "name": "It's A Little Too Late",
       "url": "https://open.spotify.com/track/0j3Ly6UYhwEgAiXeCERVJM"
+    },
+    {
+      "added_at": "2023-01-28 00:44:44",
+      "album": {
+        "name": "Order In The Court",
+        "url": "https://open.spotify.com/album/6CUx1FX3ctnbXGieFT7inL"
+      },
+      "artists": [
+        {
+          "name": "Queen Latifah",
+          "url": "https://open.spotify.com/artist/5m7wCUhYhBh7A3A3YMxrbt"
+        }
+      ],
+      "duration_ms": 240933,
+      "name": "Paper",
+      "url": "https://open.spotify.com/track/5wOFLFoIhXBaKGtgCc62wW"
     },
     {
       "added_at": "2023-01-28 00:44:44",

@@ -273,6 +273,24 @@
     },
     {
       "album": {
+        "name": "Out of Reality EP",
+        "url": "https://open.spotify.com/album/7cmS4iTUYbnBXngtlq2br7"
+      },
+      "artists": [
+        {
+          "name": "Lauren Flax",
+          "url": "https://open.spotify.com/artist/1LUYSrytHIC78JbMgFBIG7"
+        }
+      ],
+      "date_added": "2023-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 402024,
+      "name": "Body Control",
+      "url": "https://open.spotify.com/track/2p7F1Vq0oW7B5RKk50RuHC"
+    },
+    {
+      "album": {
         "name": "Body Control",
         "url": "https://open.spotify.com/album/7ivvUoNWI6OjpfQfjm1gYi"
       },
@@ -2104,7 +2122,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-21",
       "duration_ms": 304366,
       "name": "Sister Species",
       "url": "https://open.spotify.com/track/0xi81plszmA40tDw7cefN1"

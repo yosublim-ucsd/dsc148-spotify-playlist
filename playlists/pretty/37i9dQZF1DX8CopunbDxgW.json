@@ -1,13 +1,121 @@
 {
-  "description": "The best indie dance tracks of the moment. Cover: Polo & Pan",
-  "num_followers": 863224,
+  "description": "The best indie dance tracks of the moment. Cover: Barry Can't Swim",
+  "num_followers": 863240,
   "original_name": "metropolis",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhZDU3OTJmYTdhNzRkMjA5Y2M3ZTI2YWE3ZjQxNmFlZTg3NzliMjQz",
+  "snapshot_id": "MCxkZDJmMWEzZDdmNjg3ZmViNzhkMDliODZmYTI5NWM5YzcyZmFjYmQ5",
   "tracks": [
+    {
+      "added_at": "2023-10-13 04:01:00",
+      "album": {
+        "name": "Moonlight",
+        "url": "https://open.spotify.com/album/6oaWJD1A4bgpiqNWvp0mwk"
+      },
+      "artists": [
+        {
+          "name": "Poolside",
+          "url": "https://open.spotify.com/artist/5szdY7KaSi7epwyffrbV8c"
+        }
+      ],
+      "duration_ms": 205026,
+      "name": "Moonlight",
+      "url": "https://open.spotify.com/track/3dyI5XL7jMz905RsJiGDjf"
+    },
+    {
+      "added_at": "2023-10-20 04:00:00",
+      "album": {
+        "name": "JOY (In Me All The Time)",
+        "url": "https://open.spotify.com/album/1wgSgebPc22KAzCsVcCPMG"
+      },
+      "artists": [
+        {
+          "name": "Joy Anonymous",
+          "url": "https://open.spotify.com/artist/3pK4EcflBpG1Kpmjk5LK2R"
+        }
+      ],
+      "duration_ms": 222439,
+      "name": "JOY (In Me All The Time)",
+      "url": "https://open.spotify.com/track/0cKYdxOPGO60h2c4DHbp7d"
+    },
+    {
+      "added_at": "2023-10-20 04:00:00",
+      "album": {
+        "name": "When Will We Land?",
+        "url": "https://open.spotify.com/album/5LASDBDtLLEt3QqVtgOoaM"
+      },
+      "artists": [
+        {
+          "name": "Barry Can't Swim",
+          "url": "https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl"
+        },
+        {
+          "name": "Falle Nioke",
+          "url": "https://open.spotify.com/artist/2WIUWjEtviW09sdJlb2G1J"
+        },
+        {
+          "name": "Blackboxx",
+          "url": "https://open.spotify.com/artist/1TCrt66TQ2EWptUaKv3C0z"
+        }
+      ],
+      "duration_ms": 257940,
+      "name": "I Won\u2019t Let You Down",
+      "url": "https://open.spotify.com/track/2WmcCOU2xeScvCKrpui6EV"
+    },
+    {
+      "added_at": "2023-10-20 04:00:00",
+      "album": {
+        "name": "Dollar $hort",
+        "url": "https://open.spotify.com/album/5AlNt9tbo2tP4KcHP1xIcG"
+      },
+      "artists": [
+        {
+          "name": "DRAMA",
+          "url": "https://open.spotify.com/artist/7LvvNoUPwTZpgXDWBRrfHg"
+        },
+        {
+          "name": "Flight Facilities",
+          "url": "https://open.spotify.com/artist/1lc8mnyGrCLtPhCoWjRxjM"
+        }
+      ],
+      "duration_ms": 195415,
+      "name": "Dollar $hort",
+      "url": "https://open.spotify.com/track/6UYLv08EVHZsmMP4SrgZVw"
+    },
+    {
+      "added_at": "2023-10-20 04:00:00",
+      "album": {
+        "name": "Always / Never",
+        "url": "https://open.spotify.com/album/16f1fDWr5jRAcGiqFoZSFI"
+      },
+      "artists": [
+        {
+          "name": "STRFKR",
+          "url": "https://open.spotify.com/artist/2Tz1DTzVJ5Gyh8ZwVr6ekU"
+        }
+      ],
+      "duration_ms": 221290,
+      "name": "Always / Never",
+      "url": "https://open.spotify.com/track/3n9EfOy7vlDIXbDyntRLxc"
+    },
+    {
+      "added_at": "2023-10-20 04:00:00",
+      "album": {
+        "name": "first time",
+        "url": "https://open.spotify.com/album/5TSp9j0u2yoiX3vPQB0gIt"
+      },
+      "artists": [
+        {
+          "name": "jigitz",
+          "url": "https://open.spotify.com/artist/7sfn5Z6ItzDkOF9cYzxWPZ"
+        }
+      ],
+      "duration_ms": 168727,
+      "name": "first time",
+      "url": "https://open.spotify.com/track/7bbDRMb1AIjb8cWztwm8MS"
+    },
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
@@ -23,6 +131,90 @@
       "duration_ms": 240013,
       "name": "Chamallow",
       "url": "https://open.spotify.com/track/6mdGfjrWlzVxcHcqbOVN3q"
+    },
+    {
+      "added_at": "2023-10-20 04:00:00",
+      "album": {
+        "name": "Turn Back Time",
+        "url": "https://open.spotify.com/album/0i6K3XnM3mjLlCKa2kPNIp"
+      },
+      "artists": [
+        {
+          "name": "Gilligan Moss",
+          "url": "https://open.spotify.com/artist/2fo0F81pRzdXjmWP6MkQqB"
+        }
+      ],
+      "duration_ms": 231316,
+      "name": "Turn Back Time",
+      "url": "https://open.spotify.com/track/4P2KkAmQ6lP0mlc1yriTXU"
+    },
+    {
+      "added_at": "2023-10-20 04:00:00",
+      "album": {
+        "name": "Mirror",
+        "url": "https://open.spotify.com/album/2WqbgScsOiTs0ps64zytjZ"
+      },
+      "artists": [
+        {
+          "name": "M83",
+          "url": "https://open.spotify.com/artist/63MQldklfxkjYDoUE4Tppz"
+        }
+      ],
+      "duration_ms": 344777,
+      "name": "Mirror",
+      "url": "https://open.spotify.com/track/0AXay1TwLmrkdWpVnHbmpl"
+    },
+    {
+      "added_at": "2023-10-20 04:00:00",
+      "album": {
+        "name": "When Will We Land?",
+        "url": "https://open.spotify.com/album/5LASDBDtLLEt3QqVtgOoaM"
+      },
+      "artists": [
+        {
+          "name": "Barry Can't Swim",
+          "url": "https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl"
+        }
+      ],
+      "duration_ms": 246840,
+      "name": "Always Get Through To You",
+      "url": "https://open.spotify.com/track/0g8nIlk2ltpZP8lYlPvRx1"
+    },
+    {
+      "added_at": "2023-10-20 04:00:00",
+      "album": {
+        "name": "Maybe I Need You",
+        "url": "https://open.spotify.com/album/1LUI4DIMhTERflh2YQXGNB"
+      },
+      "artists": [
+        {
+          "name": "Might Delete Later",
+          "url": "https://open.spotify.com/artist/71j4PhDtWqw0LIG5MXBLxT"
+        }
+      ],
+      "duration_ms": 189306,
+      "name": "Maybe I Need You",
+      "url": "https://open.spotify.com/track/6cuhCnAklXM2Kg5b2KovAw"
+    },
+    {
+      "added_at": "2023-10-20 04:00:00",
+      "album": {
+        "name": "Fire In My Soul",
+        "url": "https://open.spotify.com/album/15zwnxk4Xm7x0TlvYSmL7B"
+      },
+      "artists": [
+        {
+          "name": "Yulia Niko",
+          "url": "https://open.spotify.com/artist/3RUNl0j2ISAQdC2Fxhj2q3"
+        },
+        {
+          "name": "Carn Crua",
+          "url": "https://open.spotify.com/artist/6EBszIoLpJ4gSe2JVFKdFF"
+        }
+      ],
+      "duration_ms": 203821,
+      "name": "Fire In My Soul",
+      "url": "https://open.spotify.com/track/27R9400JMLICLaBB8lQhHD"
     },
     {
       "added_at": "2023-10-02 15:19:18",
@@ -41,42 +233,6 @@
       "url": "https://open.spotify.com/track/19kHhX6f6EfLU7rcO3RqjO"
     },
     {
-      "added_at": "2023-10-13 04:01:00",
-      "album": {
-        "name": "Moonlight",
-        "url": "https://open.spotify.com/album/6oaWJD1A4bgpiqNWvp0mwk"
-      },
-      "artists": [
-        {
-          "name": "Poolside",
-          "url": "https://open.spotify.com/artist/5szdY7KaSi7epwyffrbV8c"
-        }
-      ],
-      "duration_ms": 205026,
-      "name": "Moonlight",
-      "url": "https://open.spotify.com/track/3dyI5XL7jMz905RsJiGDjf"
-    },
-    {
-      "added_at": "2023-10-02 15:19:18",
-      "album": {
-        "name": "Deadbeat Gospel",
-        "url": "https://open.spotify.com/album/2idTKvVf3bPURpVdZ8k6ZH"
-      },
-      "artists": [
-        {
-          "name": "Barry Can't Swim",
-          "url": "https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl"
-        },
-        {
-          "name": "somedeadbeat",
-          "url": "https://open.spotify.com/artist/3ZNGHjHAtesA1czp8QKYK6"
-        }
-      ],
-      "duration_ms": 254791,
-      "name": "Deadbeat Gospel",
-      "url": "https://open.spotify.com/track/3pSkRsuZv57a1yCxJPiBiT"
-    },
-    {
       "added_at": "2023-10-02 15:19:18",
       "album": {
         "name": "Mosquito",
@@ -91,6 +247,58 @@
       "duration_ms": 146240,
       "name": "Mosquito",
       "url": "https://open.spotify.com/track/0LzidBf7cUsnZnG34OUPSF"
+    },
+    {
+      "added_at": "2023-10-20 04:00:00",
+      "album": {
+        "name": "Birth4000",
+        "url": "https://open.spotify.com/album/5jWraquGLoS4pFefyUytmx"
+      },
+      "artists": [
+        {
+          "name": "Floating Points",
+          "url": "https://open.spotify.com/artist/2AR42Ur9PcchQDtEdwkv4L"
+        }
+      ],
+      "duration_ms": 286274,
+      "name": "Birth4000",
+      "url": "https://open.spotify.com/track/0ULiCJAR2lmaHrXvs3exRm"
+    },
+    {
+      "added_at": "2023-10-20 04:00:00",
+      "album": {
+        "name": "S e x",
+        "url": "https://open.spotify.com/album/1DnORgesBFu2C0lJ2ZPQuO"
+      },
+      "artists": [
+        {
+          "name": "George Riley",
+          "url": "https://open.spotify.com/artist/76rh78p0cww0l4OqgKabLQ"
+        },
+        {
+          "name": "Hudson Mohawke",
+          "url": "https://open.spotify.com/artist/6olWbKW2VLhFCHfOi0iEDb"
+        }
+      ],
+      "duration_ms": 181546,
+      "name": "S e x",
+      "url": "https://open.spotify.com/track/1o7dHA3jkon56D4Xn1jJWr"
+    },
+    {
+      "added_at": "2023-10-20 04:00:00",
+      "album": {
+        "name": "Mind",
+        "url": "https://open.spotify.com/album/26VCvYswzzNkfANuWPvSUs"
+      },
+      "artists": [
+        {
+          "name": "Fredwave",
+          "url": "https://open.spotify.com/artist/2mP7s6geSborhRN3ohxJqz"
+        }
+      ],
+      "duration_ms": 101559,
+      "name": "Mind",
+      "url": "https://open.spotify.com/track/5lm9TqAUse9vloJKuPwCNq"
     },
     {
       "added_at": "2023-10-13 04:01:00",
@@ -307,22 +515,6 @@
       "duration_ms": 239946,
       "name": "Personal Effects",
       "url": "https://open.spotify.com/track/03BQfMy5WubpVtroojnaxA"
-    },
-    {
-      "added_at": "2023-10-02 15:19:18",
-      "album": {
-        "name": "Sunsleeper",
-        "url": "https://open.spotify.com/album/0ek3Sau5tGwOmwQFAzrx1M"
-      },
-      "artists": [
-        {
-          "name": "Barry Can't Swim",
-          "url": "https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl"
-        }
-      ],
-      "duration_ms": 222182,
-      "name": "Sunsleeper",
-      "url": "https://open.spotify.com/track/7yWd93ZTbCuhaH2QCsTHKc"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -2551,202 +2743,6 @@
       "duration_ms": 198750,
       "name": "SWIM",
       "url": "https://open.spotify.com/track/7pAEVIFvGRMACtxmVN7F7a"
-    },
-    {
-      "added_at": "2023-10-02 15:19:18",
-      "album": {
-        "name": "Daydreaming",
-        "url": "https://open.spotify.com/album/4kbNKlVp255OjdXPDii8Nz"
-      },
-      "artists": [
-        {
-          "name": "Young Franco",
-          "url": "https://open.spotify.com/artist/6mK0vAO13gT8jWYANyoXAl"
-        },
-        {
-          "name": "Franc Moody",
-          "url": "https://open.spotify.com/artist/10GT4yz8c6xjjnPGtGPI1l"
-        }
-      ],
-      "duration_ms": 183377,
-      "name": "Daydreaming",
-      "url": "https://open.spotify.com/track/4vOXQM1c4M6CCASiWkR2n0"
-    },
-    {
-      "added_at": "2023-10-02 15:19:18",
-      "album": {
-        "name": "Bubbly",
-        "url": "https://open.spotify.com/album/3Ow42KfNDAWbBmCIZ7YK5E"
-      },
-      "artists": [
-        {
-          "name": "Charlie Houston",
-          "url": "https://open.spotify.com/artist/6BkSTbIWZrLZZK0sa2GehR"
-        }
-      ],
-      "duration_ms": 160942,
-      "name": "Bubbly",
-      "url": "https://open.spotify.com/track/5Yxw8MJcI4AT58ur7e04Fw"
-    },
-    {
-      "added_at": "2023-10-02 15:19:18",
-      "album": {
-        "name": "Do Nothing",
-        "url": "https://open.spotify.com/album/4fc8M2b3XSKwo5YxekkZLT"
-      },
-      "artists": [
-        {
-          "name": "Fractures",
-          "url": "https://open.spotify.com/artist/7sjRnhONmeFL1tmlUvdq70"
-        }
-      ],
-      "duration_ms": 259120,
-      "name": "Do Nothing",
-      "url": "https://open.spotify.com/track/6CgsQGQXleG4nxzr4rRp1A"
-    },
-    {
-      "added_at": "2023-10-02 15:19:18",
-      "album": {
-        "name": "Amanhecer",
-        "url": "https://open.spotify.com/album/7aRUi6Gte0Sar15BpLnOBX"
-      },
-      "artists": [
-        {
-          "name": "carbeau",
-          "url": "https://open.spotify.com/artist/5MOkquoZnhyJEcXBpVHR2j"
-        }
-      ],
-      "duration_ms": 258659,
-      "name": "Amanhecer",
-      "url": "https://open.spotify.com/track/3MQ96GNZ6Y68u2Tg21LJ3n"
-    },
-    {
-      "added_at": "2023-10-02 15:19:18",
-      "album": {
-        "name": "Don't Let Go (feat. Roseau)",
-        "url": "https://open.spotify.com/album/1rxzpMLYFGhhQbxuAKlZfF"
-      },
-      "artists": [
-        {
-          "name": "CHANEY",
-          "url": "https://open.spotify.com/artist/2dUjApyXX9UqIsFGzoHyhX"
-        },
-        {
-          "name": "Roseau",
-          "url": "https://open.spotify.com/artist/00NNRHsBc0J7SEOuf80hgO"
-        }
-      ],
-      "duration_ms": 166303,
-      "name": "Don't Let Go (feat. Roseau)",
-      "url": "https://open.spotify.com/track/02NJ2ws6rsEeh7DhsHqqvv"
-    },
-    {
-      "added_at": "2023-10-02 15:19:18",
-      "album": {
-        "name": "one of one (feat. PawPaw Rod)",
-        "url": "https://open.spotify.com/album/0JEX5oLdEBXZEEszBXmXdF"
-      },
-      "artists": [
-        {
-          "name": "Drewbyrd",
-          "url": "https://open.spotify.com/artist/67kmAPaXes2HLVDJphvWMH"
-        },
-        {
-          "name": "PawPaw Rod",
-          "url": "https://open.spotify.com/artist/23KIrX6iPiVOkx60F4bjNq"
-        }
-      ],
-      "duration_ms": 186352,
-      "name": "one of one (feat. PawPaw Rod)",
-      "url": "https://open.spotify.com/track/79jxfE4mZToAneAv2C7Dng"
-    },
-    {
-      "added_at": "2023-10-02 15:19:18",
-      "album": {
-        "name": "Jupiter I.",
-        "url": "https://open.spotify.com/album/3D7B39pnYJKpc9wi2ZD0C8"
-      },
-      "artists": [
-        {
-          "name": "Saya No\u00e9",
-          "url": "https://open.spotify.com/artist/563nLkswIGnyeDcdWHeead"
-        }
-      ],
-      "duration_ms": 224500,
-      "name": "Jupiter I.",
-      "url": "https://open.spotify.com/track/494TCdCW0A02emykMUeiJZ"
-    },
-    {
-      "added_at": "2023-10-02 15:19:18",
-      "album": {
-        "name": "Wait For Me",
-        "url": "https://open.spotify.com/album/7uA6fHtMry9rLMil5bstUE"
-      },
-      "artists": [
-        {
-          "name": "robrobrob",
-          "url": "https://open.spotify.com/artist/7D7PELaOpXuUjEIX2Elkc2"
-        },
-        {
-          "name": "Tailor",
-          "url": "https://open.spotify.com/artist/2Qf8oz2NeIs8FVCJSsXkWH"
-        }
-      ],
-      "duration_ms": 235861,
-      "name": "Wait For Me",
-      "url": "https://open.spotify.com/track/6cYoKxvw88rUQ4FEKWcaDI"
-    },
-    {
-      "added_at": "2023-10-02 15:19:18",
-      "album": {
-        "name": "marry me",
-        "url": "https://open.spotify.com/album/3YQB61zHmPUUNFVHEtqKP1"
-      },
-      "artists": [
-        {
-          "name": "Kanii",
-          "url": "https://open.spotify.com/artist/1S82w4yw9TYIHZ889mPPaW"
-        }
-      ],
-      "duration_ms": 157604,
-      "name": "marry me",
-      "url": "https://open.spotify.com/track/38Kt8Elz6jRogLkl0OWQ0I"
-    },
-    {
-      "added_at": "2023-10-02 15:19:18",
-      "album": {
-        "name": "trip9love...???",
-        "url": "https://open.spotify.com/album/0kgD4sTUloCGUbDGyTxqV7"
-      },
-      "artists": [
-        {
-          "name": "Tirzah",
-          "url": "https://open.spotify.com/artist/6f5lOlSFJw9K79gaNnmWAd"
-        }
-      ],
-      "duration_ms": 182153,
-      "name": "No Limit",
-      "url": "https://open.spotify.com/track/1YR94xmVWP4Y4t8jojuFow"
-    },
-    {
-      "added_at": "2023-10-02 15:19:18",
-      "album": {
-        "name": "cry for help",
-        "url": "https://open.spotify.com/album/6JFrOuwXVsGIifVmwx9sn8"
-      },
-      "artists": [
-        {
-          "name": "Xedrin",
-          "url": "https://open.spotify.com/artist/0T8OlNkaNRP75U1kSlRyWG"
-        },
-        {
-          "name": "spiderblush",
-          "url": "https://open.spotify.com/artist/20b2KfO5KOXtq9jTWkfcQO"
-        }
-      ],
-      "duration_ms": 118151,
-      "name": "cry for help",
-      "url": "https://open.spotify.com/track/5gfYxsAS939n06daeVX7WF"
     }
   ],
   "unique_name": "metropolis",

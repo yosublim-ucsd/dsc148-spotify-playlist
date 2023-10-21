@@ -4,7 +4,7 @@
 
 > La playlist urban più grande d'Italia 🔥 Cover: Slings, Bello Figo
 
-367 songs - 18 hr 3 min
+368 songs - 18 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -133,6 +133,7 @@
 | [FIUMI ROSÉ \(feat\. Ernia & Neima Ezza\)](https://open.spotify.com/track/6Dc4svWZRieb8fCaQQGdot) | [Don Joe](https://open.spotify.com/artist/3WrMBQYO99lzSOhYGPiVoQ), [Ernia](https://open.spotify.com/artist/3fhMfkPPzksWuw0hEm4ldm), [Neima Ezza](https://open.spotify.com/artist/754BUADwzMYecBgOoBaetK) | [DON DADA](https://open.spotify.com/album/2hwelY2TJPQy1LVZn6XJdU) | 3:37 | 2023-03-23 | 2023-04-10 |
 | [FIUMI ROSÉ \(feat\. Ernia & Neima Ezza\)](https://open.spotify.com/track/6pGPbGOCkRg2bBOcwMqFB4) | [Don Joe](https://open.spotify.com/artist/3WrMBQYO99lzSOhYGPiVoQ), [Ernia](https://open.spotify.com/artist/3fhMfkPPzksWuw0hEm4ldm), [Neima Ezza](https://open.spotify.com/artist/754BUADwzMYecBgOoBaetK) | [DON DADA](https://open.spotify.com/album/2Z4OPYzsc9osAGBgHtsPnd) | 3:37 | 2023-04-07 | 2023-04-16 |
 | [FRAGILE](https://open.spotify.com/track/3viY8a90sk4tcalpfsBb3V) | [Nayt](https://open.spotify.com/artist/7tmTvmqgTBcX88ZrSHByrD), [3D](https://open.spotify.com/artist/5K92J8NwWAlu6fRN2uoHVN) | [HABITAT](https://open.spotify.com/album/01ZdL53MnBydytqMj22cIH) | 3:32 | 2023-06-19 | 2023-07-07 |
+| [Freaky \(feat\. Shiva & Niky Savage\)](https://open.spotify.com/track/32rxE3UsuYr3KndIKPfMg6) | [Slings](https://open.spotify.com/artist/0XMi14343o5LtUKVdKmMUj), [Shiva](https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS), [Niky Savage](https://open.spotify.com/artist/4w9mPW732RnZkoqsy3lRsg), [Finesse](https://open.spotify.com/artist/3GWuJyC9r6Ug0F6jeLzTpY) | [TRAPHOUSE](https://open.spotify.com/album/64jt2HI09H65a1YPqhOYfS) | 2:56 | 2023-10-20 |  |
 | [Freddy Krueger Freestyle](https://open.spotify.com/track/6TbFOSCtOicAETFf0DxHFt) | [Capo Plaza](https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n) | [Freddy Krueger Freestyle](https://open.spotify.com/album/6h801PlffuLHaO7tcmvz3y) | 1:39 | 2023-09-28 |  |
 | [FREE SOLO \(feat\. Marracash\)](https://open.spotify.com/track/0CuOlrm9gmvMUlRxBLHp0o) | [Ghali](https://open.spotify.com/artist/3egWSWp7Y4FyCKIyvXbw7L), [Marracash](https://open.spotify.com/artist/5AZuEF0feCXMkUCwQiQlW7) | [Sensazione ultra](https://open.spotify.com/album/7x0QV22Ci2ZOm9HweqBLhn) | 2:33 | 2022-05-19 | 2022-08-05 |
 | [GanGa \(feat\. Baby Gang\)](https://open.spotify.com/track/4lZ87DJUjjAEcOzF6Uhyfj) | [Sacky](https://open.spotify.com/artist/1sybJwRGo9WiiqcZLzzAbS), [Baby Gang](https://open.spotify.com/artist/3LvwPiJQJ0da0GurKMToV0) | [QUELLO VERO](https://open.spotify.com/album/5sKFWHoVyf9t65zdLmx6wg) | 2:41 | 2023-01-26 | 2023-03-18 |

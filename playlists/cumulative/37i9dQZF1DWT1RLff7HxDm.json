@@ -405,6 +405,24 @@
     },
     {
       "album": {
+        "name": "Cotton Candy (Live)",
+        "url": "https://open.spotify.com/album/3XGLVWhL9N8e1lotVkrE0G"
+      },
+      "artists": [
+        {
+          "name": "Robben Ford",
+          "url": "https://open.spotify.com/artist/7C1CFA2GWGFc51SrvX5Bvy"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260146,
+      "name": "Cotton Candy - Live",
+      "url": "https://open.spotify.com/track/2Reygj9CG2BmnNqZPULOuK"
+    },
+    {
+      "album": {
         "name": "The Definitive 24 Nights (Live)",
         "url": "https://open.spotify.com/album/7uLDovmFB97bee1kDTtCNl"
       },

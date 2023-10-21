@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa71eg5j9dKZ.md) - [plain]
 
 > The home for alternative electronic music\. Cover: Floating Points
 
-[Spotify](https://open.spotify.com/user/spotify) - 499,993 likes - 100 songs - 6 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 500,076 likes - 100 songs - 6 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa71eg5j9dKZ.md) - [plain]
 | 99 | [Want Me Back](https://open.spotify.com/track/4BVgc6D5Z3eYlQMIrPLRgB) | [Decades](https://open.spotify.com/artist/2jNb4TNoYjSHsK5ONo6miz) | [Want Me Back](https://open.spotify.com/album/1in9hgVPXUWwzgBEQZASwU) | 3:43 |
 | 100 | [Four Thirty](https://open.spotify.com/track/3GRzGFVipiF8cDS3heRdoP) | [Junior Simba](https://open.spotify.com/artist/0Tr6RBtxQ5DzImZISTfSKn) | [Focus](https://open.spotify.com/album/6ZfkXGIGWjgk7SUn0rOB3S) | 2:43 |
 
-Snapshot ID: `MCwzNDdkNWNiZGYyZDlhNDRlNjE0OTYwMjNjMGE0YWYyNGViYmZiZmIw`
+Snapshot ID: `MCxmYzY4YzE5MjM3MzhjMzQyNmJiYjc1MWU0NmE0NmVjZTRlMzJlNGQw`

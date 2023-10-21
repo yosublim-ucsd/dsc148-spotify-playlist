@@ -2853,6 +2853,28 @@
     },
     {
       "album": {
+        "name": "MEMENTO",
+        "url": "https://open.spotify.com/album/5wKEjEjxFRClAAL2j9bWHR"
+      },
+      "artists": [
+        {
+          "name": "Joony",
+          "url": "https://open.spotify.com/artist/0gY0jm6QAzJCAslmZC3T35"
+        },
+        {
+          "name": "Tony Shhnow",
+          "url": "https://open.spotify.com/artist/6w1PsA3Lux2vlfaymj66w8"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166000,
+      "name": "CLASSY (feat. Tony Shhnow)",
+      "url": "https://open.spotify.com/track/76a7EJ2vt0x9kQPmNRCruL"
+    },
+    {
+      "album": {
         "name": "Trendsetter",
         "url": "https://open.spotify.com/album/6B6TNpcbfLYdBweoByc1vi"
       },
@@ -3074,7 +3096,7 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-21",
       "duration_ms": 238893,
       "name": "Coulda Been",
       "url": "https://open.spotify.com/track/4ol33zicTUvhVeJHEJiM9c"
@@ -3681,6 +3703,28 @@
     },
     {
       "album": {
+        "name": "Do Something",
+        "url": "https://open.spotify.com/album/613CPQtjun3ifTRlCB3g21"
+      },
+      "artists": [
+        {
+          "name": "Lady London",
+          "url": "https://open.spotify.com/artist/44qqbgojo0P8r68CuRbSN4"
+        },
+        {
+          "name": "Jeremih",
+          "url": "https://open.spotify.com/artist/3KV3p5EY4AvKxOlhGHORLg"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165637,
+      "name": "Do Something (with Jeremih)",
+      "url": "https://open.spotify.com/track/3WaojRhCnye5o9CPS618wn"
+    },
+    {
+      "album": {
         "name": "Do The Most",
         "url": "https://open.spotify.com/album/7umiUkssxpb76qm8AT8Uq0"
       },
@@ -3784,6 +3828,32 @@
       "duration_ms": 184123,
       "name": "Dog Food (feat. Denzel Curry)",
       "url": "https://open.spotify.com/track/478bNaXnrz0uF2AwVl4gyT"
+    },
+    {
+      "album": {
+        "name": "Jim Jones Presents Byrdgang 2.0",
+        "url": "https://open.spotify.com/album/1EAT0YG3HgkgGEdMs9HkCL"
+      },
+      "artists": [
+        {
+          "name": "Jim Jones",
+          "url": "https://open.spotify.com/artist/6AMa1VFQ7qCi61tCRtVWXe"
+        },
+        {
+          "name": "Dyce Payso",
+          "url": "https://open.spotify.com/artist/2m1Dl2eo3Lg9z1fB7j5Hin"
+        },
+        {
+          "name": "Melii",
+          "url": "https://open.spotify.com/artist/4udfTw7V8jI4AHi7PEfJfj"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175536,
+      "name": "Don Julio",
+      "url": "https://open.spotify.com/track/6ieZa4v2pCBJmpSJYtkjk5"
     },
     {
       "album": {
@@ -5356,7 +5426,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-21",
       "duration_ms": 96548,
       "name": "FROM THE JUMP",
       "url": "https://open.spotify.com/track/1nl1d6sSgpJnUbh0SGAywr"
@@ -5408,6 +5478,24 @@
       "duration_ms": 165754,
       "name": "Frozen",
       "url": "https://open.spotify.com/track/4TZxTK5bGS8dxjLTjcQsxx"
+    },
+    {
+      "album": {
+        "name": "G-UNIT!",
+        "url": "https://open.spotify.com/album/1E1OBbtBkBGYJfNHS9ic4A"
+      },
+      "artists": [
+        {
+          "name": "JELEEL!",
+          "url": "https://open.spotify.com/artist/1FX1BFU0DbHRYgKP83pA0d"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 115973,
+      "name": "G-UNIT!",
+      "url": "https://open.spotify.com/track/3nWWQLTwwCAwfWQYazd6r7"
     },
     {
       "album": {
@@ -7047,6 +7135,28 @@
     },
     {
       "album": {
+        "name": "I Should've Known (feat. Kyle Richh)",
+        "url": "https://open.spotify.com/album/1VKYrgULdVHSutxuU2SXgJ"
+      },
+      "artists": [
+        {
+          "name": "Lil Tjay",
+          "url": "https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR"
+        },
+        {
+          "name": "Kyle Richh",
+          "url": "https://open.spotify.com/artist/0hF6lbAjRsq4svrQUr5sgU"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147691,
+      "name": "I Should've Known (feat. Kyle Richh)",
+      "url": "https://open.spotify.com/track/02WbmXcfVEPDOZH91K8OtL"
+    },
+    {
+      "album": {
         "name": "I Wish Heaven Had a Facetime",
         "url": "https://open.spotify.com/album/0nXEPSaS7hPSS3eX20h2lD"
       },
@@ -7152,7 +7262,7 @@
       ],
       "date_added": "2023-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-21",
       "duration_ms": 115725,
       "name": "Ick",
       "url": "https://open.spotify.com/track/7nn4MXs89QymmNzRreTywe"
@@ -7206,7 +7316,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-21",
       "duration_ms": 128000,
       "name": "In Da Area",
       "url": "https://open.spotify.com/track/2HJXPA4Tqfp6ezekrVgg8k"
@@ -7286,7 +7396,7 @@
       ],
       "date_added": "2023-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-21",
       "duration_ms": 156444,
       "name": "IN THIS (feat. Cash Cobain)",
       "url": "https://open.spotify.com/track/6B22fN7OoE3zGKcM6CrKtv"
@@ -7568,6 +7678,28 @@
     {
       "album": {
         "name": "jersey luv",
+        "url": "https://open.spotify.com/album/6z30pC8bxK3JIWRhLLbXwr"
+      },
+      "artists": [
+        {
+          "name": "GROOVY",
+          "url": "https://open.spotify.com/artist/6Y6qIKwe32BxNflpxbKsJc"
+        },
+        {
+          "name": "B Jack$",
+          "url": "https://open.spotify.com/artist/2bnV4zuMP2tBXzsGbPmkuo"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231090,
+      "name": "jersey luv",
+      "url": "https://open.spotify.com/track/50kWigrg0O9DFUzzbgJMZO"
+    },
+    {
+      "album": {
+        "name": "jersey luv",
         "url": "https://open.spotify.com/album/0d6POIYXleUr4Wrh0oRk8U"
       },
       "artists": [
@@ -7582,7 +7714,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-21",
       "duration_ms": 231106,
       "name": "jersey luv",
       "url": "https://open.spotify.com/track/2Z2MAil7tpZhHOB2noIJUd"
@@ -8768,11 +8900,15 @@
         {
           "name": "Sha EK",
           "url": "https://open.spotify.com/artist/3jVAqTL4NbB88q4lj94VX9"
+        },
+        {
+          "name": "Defiant Presents",
+          "url": "https://open.spotify.com/artist/6kOvJAZH29zNIKqPLOEC65"
         }
       ],
       "date_added": "2023-03-24",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-20",
+      "date_removed": null,
       "duration_ms": 81515,
       "name": "Luv 4 My Block",
       "url": "https://open.spotify.com/track/7M1kT1qfYZjE8L2Bik8eUO"
@@ -8812,7 +8948,7 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-21",
       "duration_ms": 148522,
       "name": "Luv U Better",
       "url": "https://open.spotify.com/track/5mptX9ZQT0n8tUY4kPAH6R"
@@ -8838,6 +8974,28 @@
       "duration_ms": 138336,
       "name": "LUXURY LIFE (feat. Coi Leray)",
       "url": "https://open.spotify.com/track/1v4trJXb9eBsIewxan0TBP"
+    },
+    {
+      "album": {
+        "name": "Lyrical Eazy",
+        "url": "https://open.spotify.com/album/534PxJHGdYXYCRnjNeWMuo"
+      },
+      "artists": [
+        {
+          "name": "Rick Ross",
+          "url": "https://open.spotify.com/artist/1sBkRIssrMs1AbVkOJbc7a"
+        },
+        {
+          "name": "Meek Mill",
+          "url": "https://open.spotify.com/artist/20sxb77xiYeusSH8cVdatc"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 100975,
+      "name": "Lyrical Eazy",
+      "url": "https://open.spotify.com/track/6xVdq7lcNHpELteLBfrkY2"
     },
     {
       "album": {
@@ -8972,7 +9130,7 @@
       ],
       "date_added": "2023-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-21",
       "duration_ms": 172892,
       "name": "Make Up Your Mind",
       "url": "https://open.spotify.com/track/1pi9osnCVKgqMuMrVfAcBM"
@@ -9106,6 +9264,24 @@
       "duration_ms": 152000,
       "name": "Maslow's Hammer",
       "url": "https://open.spotify.com/track/15gPvZFGYcznrSDxyv7zjC"
+    },
+    {
+      "album": {
+        "name": "Max Julien",
+        "url": "https://open.spotify.com/album/0pXT8h1meziQU01MyMA89Z"
+      },
+      "artists": [
+        {
+          "name": "Wale",
+          "url": "https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170800,
+      "name": "Max Julien",
+      "url": "https://open.spotify.com/track/6qYCswyML9pHuvYDBdZJYd"
     },
     {
       "album": {
@@ -10171,6 +10347,24 @@
     },
     {
       "album": {
+        "name": "NFL",
+        "url": "https://open.spotify.com/album/6rsIciAfxrSApDOpNXZSll"
+      },
+      "artists": [
+        {
+          "name": "Lil Uzi Vert",
+          "url": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185678,
+      "name": "NFL",
+      "url": "https://open.spotify.com/track/1X1dy95bo2OirAmMkBIwkS"
+    },
+    {
+      "album": {
         "name": "No 808\u2019s (feat. Vory)",
         "url": "https://open.spotify.com/album/2XToR89sscO3iyINxEvv7Z"
       },
@@ -10873,6 +11067,28 @@
     },
     {
       "album": {
+        "name": "On You",
+        "url": "https://open.spotify.com/album/0yrgidyI4lTZGvA6JA9tww"
+      },
+      "artists": [
+        {
+          "name": "Shordie Shordie",
+          "url": "https://open.spotify.com/artist/5fyvTyetDr7gvLafBsEEhU"
+        },
+        {
+          "name": "Murda Beatz",
+          "url": "https://open.spotify.com/artist/3CbYyyd8wH3RT6t0jwpdzC"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 119016,
+      "name": "On You",
+      "url": "https://open.spotify.com/track/7bk2AkYdSKrtnzq7OTgdB6"
+    },
+    {
+      "album": {
         "name": "One In A Million",
         "url": "https://open.spotify.com/album/4GfWSqLG2egaWii11rMC0b"
       },
@@ -11020,6 +11236,24 @@
       "duration_ms": 139200,
       "name": "One Track Minded",
       "url": "https://open.spotify.com/track/7IA8ksXrY276otudaP7knL"
+    },
+    {
+      "album": {
+        "name": "Options",
+        "url": "https://open.spotify.com/album/1qY5xOQy51e3XMTh6YJqq9"
+      },
+      "artists": [
+        {
+          "name": "J.I the Prince of N.Y",
+          "url": "https://open.spotify.com/artist/2eqoJbzUGDwys5ENUkbT3h"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165514,
+      "name": "Options",
+      "url": "https://open.spotify.com/track/2wdtc3sdFO1rkAQYFJholn"
     },
     {
       "album": {
@@ -11240,7 +11474,7 @@
       ],
       "date_added": "2023-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-21",
       "duration_ms": 183157,
       "name": "Painted Houses (feat. Conway the Machine)",
       "url": "https://open.spotify.com/track/3zdg5C4xnOx5riFGy1CXI6"
@@ -11442,6 +11676,28 @@
       "duration_ms": 175834,
       "name": "Pinot Noir",
       "url": "https://open.spotify.com/track/4Z2hR3qjHR4r7dwt7dKd1s"
+    },
+    {
+      "album": {
+        "name": "Pit Stop (feat. French Montana)",
+        "url": "https://open.spotify.com/album/6KwdG45dabKfLbbEFgEdCx"
+      },
+      "artists": [
+        {
+          "name": "Lola Brooke",
+          "url": "https://open.spotify.com/artist/2Ggj5XNlIb4Lnbqe307FyB"
+        },
+        {
+          "name": "French Montana",
+          "url": "https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167066,
+      "name": "Pit Stop (feat. French Montana)",
+      "url": "https://open.spotify.com/track/51fqkA2jYEfXiUkcQYpCyB"
     },
     {
       "album": {
@@ -11722,7 +11978,7 @@
       ],
       "date_added": "2023-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-21",
       "duration_ms": 192981,
       "name": "Posture (feat. Fetty Luciano & Fivio Foreign)",
       "url": "https://open.spotify.com/track/1ubO4gCUQgRFWOj9fVHlBS"
@@ -12208,7 +12464,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-21",
       "duration_ms": 147683,
       "name": "QUASIMODO",
       "url": "https://open.spotify.com/track/1W11UnukoRZivRrxFA3ICY"
@@ -16226,7 +16482,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-21",
       "duration_ms": 113333,
       "name": "Water",
       "url": "https://open.spotify.com/track/2oWwkZox6LKv7vQccsOlMv"
@@ -16996,7 +17252,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-21",
       "duration_ms": 208913,
       "name": "Wish U Well - Extended",
       "url": "https://open.spotify.com/track/3x43Q2uKL0Zwekouxc2p8l"

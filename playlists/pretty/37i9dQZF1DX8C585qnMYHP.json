@@ -1,12 +1,12 @@
 {
   "description": "The best new Experimental by independent artists and labels, with Of The Muses on cover. Updates every Wednesday.",
-  "num_followers": 118417,
+  "num_followers": 118511,
   "original_name": "Fresh Finds Experimental",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmNjYzNTMxYTRmY2ZhYmEwMWY3YjIyZjY4MWIwMGEzNzdiNzcwMzhi",
+  "snapshot_id": "MCw5MDRkNjU5NTg2NjA4ODA2ZjViMjMyN2I1MWNmNjNiODM5NGMzNTBk",
   "tracks": [
     {
       "added_at": "2023-10-11 18:36:09",
@@ -57,22 +57,6 @@
       "url": "https://open.spotify.com/track/3JRRWAm5wR9pal37nIIbyc"
     },
     {
-      "added_at": "2023-08-10 05:46:09",
-      "album": {
-        "name": "setar rock",
-        "url": "https://open.spotify.com/album/0sLE1MoYzMM6JgwuJR6Nzb"
-      },
-      "artists": [
-        {
-          "name": "Maral",
-          "url": "https://open.spotify.com/artist/6wRHw4vjJkG1V3fmwBXRpG"
-        }
-      ],
-      "duration_ms": 240250,
-      "name": "setar rock",
-      "url": "https://open.spotify.com/track/6MvywXbpxt5tYk1a5cA0rb"
-    },
-    {
       "added_at": "2023-06-28 01:00:55",
       "album": {
         "name": "No Way In",
@@ -87,6 +71,22 @@
       "duration_ms": 246125,
       "name": "No Way In",
       "url": "https://open.spotify.com/track/1OWabcOniKhLI5TATHvZgL"
+    },
+    {
+      "added_at": "2023-08-10 05:46:09",
+      "album": {
+        "name": "setar rock",
+        "url": "https://open.spotify.com/album/0sLE1MoYzMM6JgwuJR6Nzb"
+      },
+      "artists": [
+        {
+          "name": "Maral",
+          "url": "https://open.spotify.com/artist/6wRHw4vjJkG1V3fmwBXRpG"
+        }
+      ],
+      "duration_ms": 240250,
+      "name": "setar rock",
+      "url": "https://open.spotify.com/track/6MvywXbpxt5tYk1a5cA0rb"
     },
     {
       "added_at": "2023-08-30 04:00:00",
@@ -249,22 +249,6 @@
       "url": "https://open.spotify.com/track/6WpwLD1ybIjeb5xnoJlA5h"
     },
     {
-      "added_at": "2023-09-13 15:55:38",
-      "album": {
-        "name": "Step Outside This Area",
-        "url": "https://open.spotify.com/album/1r5MgVZWwQBnCMqABXtAyh"
-      },
-      "artists": [
-        {
-          "name": "Myles O'Reilly",
-          "url": "https://open.spotify.com/artist/7BHdwnkL0tV0SpfhTVRTjU"
-        }
-      ],
-      "duration_ms": 600000,
-      "name": "Fractus",
-      "url": "https://open.spotify.com/track/0ovXw0MenWBT4fn8LBWqCG"
-    },
-    {
       "added_at": "2023-06-07 04:04:27",
       "album": {
         "name": "Crispy Moon",
@@ -281,20 +265,20 @@
       "url": "https://open.spotify.com/track/3Q74p61vgqdsCBFQlOP1kQ"
     },
     {
-      "added_at": "2023-08-10 05:46:09",
+      "added_at": "2023-09-13 15:55:38",
       "album": {
-        "name": "MY BLACK CAT",
-        "url": "https://open.spotify.com/album/65rUCgwK0khKnH5uz8ZmvQ"
+        "name": "Step Outside This Area",
+        "url": "https://open.spotify.com/album/1r5MgVZWwQBnCMqABXtAyh"
       },
       "artists": [
         {
-          "name": "Nana Nina",
-          "url": "https://open.spotify.com/artist/51NvNgCzRqXjxfklCa8TVB"
+          "name": "Myles O'Reilly",
+          "url": "https://open.spotify.com/artist/7BHdwnkL0tV0SpfhTVRTjU"
         }
       ],
-      "duration_ms": 149433,
-      "name": "MY BLACK CAT",
-      "url": "https://open.spotify.com/track/2B5M0GZMNC8Yy33P2N4mxq"
+      "duration_ms": 600000,
+      "name": "Fractus",
+      "url": "https://open.spotify.com/track/0ovXw0MenWBT4fn8LBWqCG"
     },
     {
       "added_at": "2023-10-18 18:20:20",
@@ -311,6 +295,22 @@
       "duration_ms": 173311,
       "name": "Castle Song",
       "url": "https://open.spotify.com/track/4GYdKBuHZNRByw8bFES0EL"
+    },
+    {
+      "added_at": "2023-08-10 05:46:09",
+      "album": {
+        "name": "MY BLACK CAT",
+        "url": "https://open.spotify.com/album/65rUCgwK0khKnH5uz8ZmvQ"
+      },
+      "artists": [
+        {
+          "name": "Nana Nina",
+          "url": "https://open.spotify.com/artist/51NvNgCzRqXjxfklCa8TVB"
+        }
+      ],
+      "duration_ms": 149433,
+      "name": "MY BLACK CAT",
+      "url": "https://open.spotify.com/track/2B5M0GZMNC8Yy33P2N4mxq"
     },
     {
       "added_at": "2023-10-04 14:25:37",
@@ -377,22 +377,6 @@
       "url": "https://open.spotify.com/track/4krxkDBSFWRhvogjeVgN6Q"
     },
     {
-      "added_at": "2023-10-18 18:20:20",
-      "album": {
-        "name": "A Host for All Kinds of Life",
-        "url": "https://open.spotify.com/album/08pPPgrNVzEa12ksYN3Drl"
-      },
-      "artists": [
-        {
-          "name": "Green-House",
-          "url": "https://open.spotify.com/artist/0M6QGBKWICr8dxhh3UJW45"
-        }
-      ],
-      "duration_ms": 239656,
-      "name": "A Host for All Kinds of Life",
-      "url": "https://open.spotify.com/track/557lM1DeqevRyI3PQm1rI2"
-    },
-    {
       "added_at": "2023-08-01 21:02:30",
       "album": {
         "name": "Ulaan",
@@ -425,20 +409,20 @@
       "url": "https://open.spotify.com/track/2UwsVfyJpAKF0VFpfFc9JZ"
     },
     {
-      "added_at": "2023-08-16 06:00:00",
+      "added_at": "2023-10-18 18:20:20",
       "album": {
-        "name": "The Shuttle Bus",
-        "url": "https://open.spotify.com/album/1sZls3SUwE3dE7aLrRRHLe"
+        "name": "A Host for All Kinds of Life",
+        "url": "https://open.spotify.com/album/08pPPgrNVzEa12ksYN3Drl"
       },
       "artists": [
         {
-          "name": "group O",
-          "url": "https://open.spotify.com/artist/77MD0CeIUigcitW3c8OfvC"
+          "name": "Green-House",
+          "url": "https://open.spotify.com/artist/0M6QGBKWICr8dxhh3UJW45"
         }
       ],
-      "duration_ms": 215974,
-      "name": "The Shuttle Bus",
-      "url": "https://open.spotify.com/track/73w1icJpBicVXNIyq0bPgV"
+      "duration_ms": 239656,
+      "name": "A Host for All Kinds of Life",
+      "url": "https://open.spotify.com/track/557lM1DeqevRyI3PQm1rI2"
     },
     {
       "added_at": "2023-09-13 15:55:38",
@@ -477,6 +461,22 @@
       "url": "https://open.spotify.com/track/6S1i81DSaMsjU6KwlxpvzC"
     },
     {
+      "added_at": "2023-08-16 06:00:00",
+      "album": {
+        "name": "The Shuttle Bus",
+        "url": "https://open.spotify.com/album/1sZls3SUwE3dE7aLrRRHLe"
+      },
+      "artists": [
+        {
+          "name": "group O",
+          "url": "https://open.spotify.com/artist/77MD0CeIUigcitW3c8OfvC"
+        }
+      ],
+      "duration_ms": 215974,
+      "name": "The Shuttle Bus",
+      "url": "https://open.spotify.com/track/73w1icJpBicVXNIyq0bPgV"
+    },
+    {
       "added_at": "2023-10-04 14:25:37",
       "album": {
         "name": "RIFT (Ambient Version)",
@@ -507,6 +507,22 @@
       "duration_ms": 223735,
       "name": "how will we get back to life again?",
       "url": "https://open.spotify.com/track/2Ijzl5nr2rFV5FDFW6Fitn"
+    },
+    {
+      "added_at": "2023-10-04 14:25:37",
+      "album": {
+        "name": "Firefly",
+        "url": "https://open.spotify.com/album/2Na8p20PZQm4jyeSoyLxst"
+      },
+      "artists": [
+        {
+          "name": "Talik",
+          "url": "https://open.spotify.com/artist/4cmy7XSN6YNnPZyQu7hJHz"
+        }
+      ],
+      "duration_ms": 260157,
+      "name": "Gloworm",
+      "url": "https://open.spotify.com/track/1fwqhGIRtQeSNr21eSkhKF"
     },
     {
       "added_at": "2023-08-01 21:02:30",
@@ -573,22 +589,6 @@
       "url": "https://open.spotify.com/track/50w9wN70lWHaIe8atNxDtn"
     },
     {
-      "added_at": "2023-10-04 14:25:37",
-      "album": {
-        "name": "Firefly",
-        "url": "https://open.spotify.com/album/2Na8p20PZQm4jyeSoyLxst"
-      },
-      "artists": [
-        {
-          "name": "Talik",
-          "url": "https://open.spotify.com/artist/4cmy7XSN6YNnPZyQu7hJHz"
-        }
-      ],
-      "duration_ms": 260157,
-      "name": "Gloworm",
-      "url": "https://open.spotify.com/track/1fwqhGIRtQeSNr21eSkhKF"
-    },
-    {
       "added_at": "2023-07-18 19:13:40",
       "album": {
         "name": "Moriah Plaza",
@@ -621,22 +621,6 @@
       "url": "https://open.spotify.com/track/5DNJQWIQKqmfZGDC6lYJuR"
     },
     {
-      "added_at": "2023-08-30 04:00:00",
-      "album": {
-        "name": "Hint",
-        "url": "https://open.spotify.com/album/6kuAtwn4IGu4L0NnlBOJHc"
-      },
-      "artists": [
-        {
-          "name": "SPIME.IM",
-          "url": "https://open.spotify.com/artist/6zOLowG2X8FkUqPSEmetDJ"
-        }
-      ],
-      "duration_ms": 303500,
-      "name": "Hint",
-      "url": "https://open.spotify.com/track/5RTICRvRhMHjURWKZvYO9y"
-    },
-    {
       "added_at": "2023-08-01 13:11:26",
       "album": {
         "name": "V\u00e4ter und S\u00f6hne",
@@ -653,20 +637,20 @@
       "url": "https://open.spotify.com/track/04WCk14K32aUG6wjRpQBmy"
     },
     {
-      "added_at": "2023-10-04 14:25:37",
+      "added_at": "2023-08-30 04:00:00",
       "album": {
-        "name": "The Year of Pornography",
-        "url": "https://open.spotify.com/album/101nL8Co3vPsZg6rxQ1UFz"
+        "name": "Hint",
+        "url": "https://open.spotify.com/album/6kuAtwn4IGu4L0NnlBOJHc"
       },
       "artists": [
         {
-          "name": "August, Yours Truly",
-          "url": "https://open.spotify.com/artist/6JpmrFHdahRYn2FRpPdXX3"
+          "name": "SPIME.IM",
+          "url": "https://open.spotify.com/artist/6zOLowG2X8FkUqPSEmetDJ"
         }
       ],
-      "duration_ms": 321076,
-      "name": "The Year of Pornography",
-      "url": "https://open.spotify.com/track/1QJa6X5nPTV24H5exa8Juv"
+      "duration_ms": 303500,
+      "name": "Hint",
+      "url": "https://open.spotify.com/track/5RTICRvRhMHjURWKZvYO9y"
     },
     {
       "added_at": "2023-09-13 15:55:38",
@@ -683,6 +667,22 @@
       "duration_ms": 263451,
       "name": "How The River Flows",
       "url": "https://open.spotify.com/track/4M4ote4L4R4Zs4JeOmHzo6"
+    },
+    {
+      "added_at": "2023-10-04 14:25:37",
+      "album": {
+        "name": "The Year of Pornography",
+        "url": "https://open.spotify.com/album/101nL8Co3vPsZg6rxQ1UFz"
+      },
+      "artists": [
+        {
+          "name": "August, Yours Truly",
+          "url": "https://open.spotify.com/artist/6JpmrFHdahRYn2FRpPdXX3"
+        }
+      ],
+      "duration_ms": 321076,
+      "name": "The Year of Pornography",
+      "url": "https://open.spotify.com/track/1QJa6X5nPTV24H5exa8Juv"
     },
     {
       "added_at": "2023-07-18 19:13:40",
@@ -773,22 +773,6 @@
       "url": "https://open.spotify.com/track/2WEb5xogCboXRtXnU3W2a8"
     },
     {
-      "added_at": "2023-08-16 06:00:00",
-      "album": {
-        "name": "The Rot",
-        "url": "https://open.spotify.com/album/7tm2ZEs5F1ojgkcDjjcAK1"
-      },
-      "artists": [
-        {
-          "name": "fibril",
-          "url": "https://open.spotify.com/artist/4lJLsFUfYj3vw6jQaIeRB0"
-        }
-      ],
-      "duration_ms": 122258,
-      "name": "vie",
-      "url": "https://open.spotify.com/track/6zoJOYYbX1NOZb78eBztZe"
-    },
-    {
       "added_at": "2023-07-18 19:13:40",
       "album": {
         "name": "RPG",
@@ -803,6 +787,22 @@
       "duration_ms": 205000,
       "name": "Real World",
       "url": "https://open.spotify.com/track/6OQoynBENCLciCInK8T3YH"
+    },
+    {
+      "added_at": "2023-08-16 06:00:00",
+      "album": {
+        "name": "The Rot",
+        "url": "https://open.spotify.com/album/7tm2ZEs5F1ojgkcDjjcAK1"
+      },
+      "artists": [
+        {
+          "name": "fibril",
+          "url": "https://open.spotify.com/artist/4lJLsFUfYj3vw6jQaIeRB0"
+        }
+      ],
+      "duration_ms": 122258,
+      "name": "vie",
+      "url": "https://open.spotify.com/track/6zoJOYYbX1NOZb78eBztZe"
     },
     {
       "added_at": "2023-08-23 14:01:12",
@@ -1053,6 +1053,22 @@
       "url": "https://open.spotify.com/track/77HgouqzfPVG8yFiAON5ff"
     },
     {
+      "added_at": "2023-07-18 19:13:40",
+      "album": {
+        "name": "WIREPULLER",
+        "url": "https://open.spotify.com/album/7viJxU7RBGgNScHnDrLb6z"
+      },
+      "artists": [
+        {
+          "name": "UURYDON",
+          "url": "https://open.spotify.com/artist/52BXrT8rLQHuxQ2IxhTA5G"
+        }
+      ],
+      "duration_ms": 90266,
+      "name": "HAXAN",
+      "url": "https://open.spotify.com/track/1BrVmVhe95wzB4wLw1KztV"
+    },
+    {
       "added_at": "2023-10-04 14:25:37",
       "album": {
         "name": "Tall Vision-of-the-Voyage",
@@ -1071,22 +1087,6 @@
       "duration_ms": 227727,
       "name": "Sunbeam 1000hp (feat. Bingo Fury)",
       "url": "https://open.spotify.com/track/58jFqGaWoYufUkm8ZKlH05"
-    },
-    {
-      "added_at": "2023-07-18 19:13:40",
-      "album": {
-        "name": "WIREPULLER",
-        "url": "https://open.spotify.com/album/7viJxU7RBGgNScHnDrLb6z"
-      },
-      "artists": [
-        {
-          "name": "UURYDON",
-          "url": "https://open.spotify.com/artist/52BXrT8rLQHuxQ2IxhTA5G"
-        }
-      ],
-      "duration_ms": 90266,
-      "name": "HAXAN",
-      "url": "https://open.spotify.com/track/1BrVmVhe95wzB4wLw1KztV"
     },
     {
       "added_at": "2023-08-01 13:11:26",
@@ -1141,22 +1141,6 @@
       "url": "https://open.spotify.com/track/3ttvx9JURlyt351VhBFmkg"
     },
     {
-      "added_at": "2023-08-01 13:11:26",
-      "album": {
-        "name": "Two Monkeys",
-        "url": "https://open.spotify.com/album/0roIOBFDe3nLLmNobQbggs"
-      },
-      "artists": [
-        {
-          "name": "Everything Else",
-          "url": "https://open.spotify.com/artist/1xFZYGv7rqQ21JjoO4qhGd"
-        }
-      ],
-      "duration_ms": 284000,
-      "name": "Asleep",
-      "url": "https://open.spotify.com/track/7fE3ZAc2j7Z5Y4gQwW1lB0"
-    },
-    {
       "added_at": "2023-08-23 14:01:12",
       "album": {
         "name": "drizzy drone",
@@ -1171,6 +1155,22 @@
       "duration_ms": 384877,
       "name": "with my woes",
       "url": "https://open.spotify.com/track/3cZbVXCBhG9ZdbeNLhmQ1h"
+    },
+    {
+      "added_at": "2023-08-01 13:11:26",
+      "album": {
+        "name": "Two Monkeys",
+        "url": "https://open.spotify.com/album/0roIOBFDe3nLLmNobQbggs"
+      },
+      "artists": [
+        {
+          "name": "Everything Else",
+          "url": "https://open.spotify.com/artist/1xFZYGv7rqQ21JjoO4qhGd"
+        }
+      ],
+      "duration_ms": 284000,
+      "name": "Asleep",
+      "url": "https://open.spotify.com/track/7fE3ZAc2j7Z5Y4gQwW1lB0"
     },
     {
       "added_at": "2023-10-04 14:25:37",
@@ -1207,22 +1207,6 @@
     {
       "added_at": "2023-08-01 13:11:26",
       "album": {
-        "name": "Vol. II",
-        "url": "https://open.spotify.com/album/73YNaAGxipWa1Lqe3Y2Qf5"
-      },
-      "artists": [
-        {
-          "name": "Silicone Prairie",
-          "url": "https://open.spotify.com/artist/41Cb0AUOB1YtrPLiDffzb0"
-        }
-      ],
-      "duration_ms": 88756,
-      "name": "Willkommen",
-      "url": "https://open.spotify.com/track/2hlNKxlqObtksthAmbidXA"
-    },
-    {
-      "added_at": "2023-08-01 13:11:26",
-      "album": {
         "name": "Sleep Bag",
         "url": "https://open.spotify.com/album/40M1syabkQfYRZET6ZIaOz"
       },
@@ -1241,6 +1225,22 @@
       "url": "https://open.spotify.com/track/0h4MS5onjOSx9v1vbeuoQX"
     },
     {
+      "added_at": "2023-08-01 13:11:26",
+      "album": {
+        "name": "Vol. II",
+        "url": "https://open.spotify.com/album/73YNaAGxipWa1Lqe3Y2Qf5"
+      },
+      "artists": [
+        {
+          "name": "Silicone Prairie",
+          "url": "https://open.spotify.com/artist/41Cb0AUOB1YtrPLiDffzb0"
+        }
+      ],
+      "duration_ms": 88756,
+      "name": "Willkommen",
+      "url": "https://open.spotify.com/track/2hlNKxlqObtksthAmbidXA"
+    },
+    {
       "added_at": "2023-10-04 14:25:37",
       "album": {
         "name": "True",
@@ -1255,22 +1255,6 @@
       "duration_ms": 122331,
       "name": "Wired",
       "url": "https://open.spotify.com/track/1ttEhhzFufoxZYJw2S4l69"
-    },
-    {
-      "added_at": "2023-08-01 13:11:26",
-      "album": {
-        "name": "Rebirth",
-        "url": "https://open.spotify.com/album/631ofUEwlUCpCoeLVUseu6"
-      },
-      "artists": [
-        {
-          "name": "AIKA",
-          "url": "https://open.spotify.com/artist/45Yg0CLJFZcueQqoR4CS5m"
-        }
-      ],
-      "duration_ms": 114886,
-      "name": "Room of Fear",
-      "url": "https://open.spotify.com/track/0Xla3rLHq8UmkD0DX6J9hm"
     },
     {
       "added_at": "2023-08-23 14:01:12",
@@ -1321,6 +1305,22 @@
       "url": "https://open.spotify.com/track/2z0xkLDfg1BwlqKREicqpQ"
     },
     {
+      "added_at": "2023-08-01 13:11:26",
+      "album": {
+        "name": "Rebirth",
+        "url": "https://open.spotify.com/album/631ofUEwlUCpCoeLVUseu6"
+      },
+      "artists": [
+        {
+          "name": "AIKA",
+          "url": "https://open.spotify.com/artist/45Yg0CLJFZcueQqoR4CS5m"
+        }
+      ],
+      "duration_ms": 114886,
+      "name": "Room of Fear",
+      "url": "https://open.spotify.com/track/0Xla3rLHq8UmkD0DX6J9hm"
+    },
+    {
       "added_at": "2023-08-30 04:00:00",
       "album": {
         "name": "MSCTY x V&A Dundee",
@@ -1335,6 +1335,22 @@
       "duration_ms": 2699773,
       "name": "~",
       "url": "https://open.spotify.com/track/7a6GrnIsmcv0mqbNUMBLKe"
+    },
+    {
+      "added_at": "2023-10-18 18:20:20",
+      "album": {
+        "name": "All the Wonders of Six Little Spoons",
+        "url": "https://open.spotify.com/album/0Z3Z0B5XPq3BVsCwCWIZVD"
+      },
+      "artists": [
+        {
+          "name": "Szymon W\u00f3jcik",
+          "url": "https://open.spotify.com/artist/0D1zwUd1QfJuUA8rf3Kace"
+        }
+      ],
+      "duration_ms": 247010,
+      "name": "Go Red Laugh White",
+      "url": "https://open.spotify.com/track/3YY9jc0TCCJHJRzrNN9mly"
     },
     {
       "added_at": "2023-08-30 04:00:00",
@@ -1353,22 +1369,6 @@
       "url": "https://open.spotify.com/track/7GUaRliFFYyWV2NuUPjsPh"
     },
     {
-      "added_at": "2023-08-01 13:11:26",
-      "album": {
-        "name": "Sophia Oscillations",
-        "url": "https://open.spotify.com/album/4oqNidSgmpDNdm0XbRZuWu"
-      },
-      "artists": [
-        {
-          "name": "Mission To The Sun",
-          "url": "https://open.spotify.com/artist/4xYUhkQrEDVfK3Zq1MAuU1"
-        }
-      ],
-      "duration_ms": 261433,
-      "name": "Attrition",
-      "url": "https://open.spotify.com/track/2jehW2Iv3rbQnEFrAdrAjz"
-    },
-    {
       "added_at": "2023-08-23 14:01:12",
       "album": {
         "name": "Space Mirror",
@@ -1383,6 +1383,22 @@
       "duration_ms": 297989,
       "name": "Summer Session #2",
       "url": "https://open.spotify.com/track/3s4cyKx2GqEcBNWzchZcKG"
+    },
+    {
+      "added_at": "2023-08-01 13:11:26",
+      "album": {
+        "name": "Sophia Oscillations",
+        "url": "https://open.spotify.com/album/4oqNidSgmpDNdm0XbRZuWu"
+      },
+      "artists": [
+        {
+          "name": "Mission To The Sun",
+          "url": "https://open.spotify.com/artist/4xYUhkQrEDVfK3Zq1MAuU1"
+        }
+      ],
+      "duration_ms": 261433,
+      "name": "Attrition",
+      "url": "https://open.spotify.com/track/2jehW2Iv3rbQnEFrAdrAjz"
     },
     {
       "added_at": "2023-10-04 14:25:37",
@@ -1417,6 +1433,38 @@
       "url": "https://open.spotify.com/track/2D4zZ1OwJP2WjVbAj926bT"
     },
     {
+      "added_at": "2023-08-30 04:00:00",
+      "album": {
+        "name": "For The Upper Mantle",
+        "url": "https://open.spotify.com/album/3X9yEVBrw8dHTkETuvTMJy"
+      },
+      "artists": [
+        {
+          "name": "Third Space",
+          "url": "https://open.spotify.com/artist/4lrrni4g5Ll7Yltviu2JRH"
+        }
+      ],
+      "duration_ms": 1515348,
+      "name": "For The Upper Mantle",
+      "url": "https://open.spotify.com/track/30tgD1QE4NU8wr0g81Q9BJ"
+    },
+    {
+      "added_at": "2023-08-30 04:00:00",
+      "album": {
+        "name": "Space Mirror",
+        "url": "https://open.spotify.com/album/3HJEBCujpDy35mS7P5erJY"
+      },
+      "artists": [
+        {
+          "name": "Infinite River",
+          "url": "https://open.spotify.com/artist/5Pmm6i4hOWqqm2oVM90VAm"
+        }
+      ],
+      "duration_ms": 380695,
+      "name": "Summer Session #3",
+      "url": "https://open.spotify.com/track/1pnhHHes46zmwyrMY5VoUm"
+    },
+    {
       "added_at": "2023-10-04 14:25:37",
       "album": {
         "name": "Miracle-Tech",
@@ -1447,38 +1495,6 @@
       "duration_ms": 224146,
       "name": "A Black Moon Tide",
       "url": "https://open.spotify.com/track/5UkLcM1yFjeFBLUhwuKbkV"
-    },
-    {
-      "added_at": "2023-08-30 04:00:00",
-      "album": {
-        "name": "Space Mirror",
-        "url": "https://open.spotify.com/album/3HJEBCujpDy35mS7P5erJY"
-      },
-      "artists": [
-        {
-          "name": "Infinite River",
-          "url": "https://open.spotify.com/artist/5Pmm6i4hOWqqm2oVM90VAm"
-        }
-      ],
-      "duration_ms": 380695,
-      "name": "Summer Session #3",
-      "url": "https://open.spotify.com/track/1pnhHHes46zmwyrMY5VoUm"
-    },
-    {
-      "added_at": "2023-08-30 04:00:00",
-      "album": {
-        "name": "For The Upper Mantle",
-        "url": "https://open.spotify.com/album/3X9yEVBrw8dHTkETuvTMJy"
-      },
-      "artists": [
-        {
-          "name": "Third Space",
-          "url": "https://open.spotify.com/artist/4lrrni4g5Ll7Yltviu2JRH"
-        }
-      ],
-      "duration_ms": 1515348,
-      "name": "For The Upper Mantle",
-      "url": "https://open.spotify.com/track/30tgD1QE4NU8wr0g81Q9BJ"
     },
     {
       "added_at": "2023-09-13 15:55:38",
@@ -1571,22 +1587,6 @@
       "duration_ms": 174849,
       "name": "Cremated Pets",
       "url": "https://open.spotify.com/track/7x5J1gHY3meL2fU1qwEHd2"
-    },
-    {
-      "added_at": "2023-10-18 18:20:20",
-      "album": {
-        "name": "All the Wonders of Six Little Spoons",
-        "url": "https://open.spotify.com/album/0Z3Z0B5XPq3BVsCwCWIZVD"
-      },
-      "artists": [
-        {
-          "name": "Szymon W\u00f3jcik",
-          "url": "https://open.spotify.com/artist/0D1zwUd1QfJuUA8rf3Kace"
-        }
-      ],
-      "duration_ms": 247010,
-      "name": "Go Red Laugh White",
-      "url": "https://open.spotify.com/track/3YY9jc0TCCJHJRzrNN9mly"
     },
     {
       "added_at": "2023-10-18 18:20:20",

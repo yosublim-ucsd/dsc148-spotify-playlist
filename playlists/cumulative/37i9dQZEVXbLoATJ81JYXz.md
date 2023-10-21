@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Sweden.
 
-1,546 songs - 3 day 8 hr 9 min
+1,547 songs - 3 day 8 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -197,7 +197,7 @@
 | [Bye Bye](https://open.spotify.com/track/6XO8RlYuJCiI0v3IA48FeJ) | [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [Juice WRLD](https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz) | [Bye Bye](https://open.spotify.com/album/1oKYKiAwR31eJvkRwpQVrb) | 1:48 | 2022-10-15 | 2022-10-17 |
 | [Bäst här inne](https://open.spotify.com/track/1VoOX1ecMP7YVzyu32gWVf) | [Thomas Stenström](https://open.spotify.com/artist/2DWNa2o3BbsIHeBq7Iu6E7) | [Bäst här inne](https://open.spotify.com/album/08lVeLxkGMau5sBa2J6045) | 4:59 | 2023-09-25 | 2023-10-03 |
 | [Bäst här inne](https://open.spotify.com/track/2r8X5szspfSyhUlVes7plU) | [Thomas Stenström](https://open.spotify.com/artist/2DWNa2o3BbsIHeBq7Iu6E7) | [Bäst här inne](https://open.spotify.com/album/5StD84eoU8BOFcReirunrU) | 4:59 | 2023-09-23 | 2023-09-26 |
-| [Bäst här inne](https://open.spotify.com/track/7ifhAM3ObwyI92K2P8Dl6z) | [Thomas Stenström](https://open.spotify.com/artist/2DWNa2o3BbsIHeBq7Iu6E7) | [Superlativ 97](https://open.spotify.com/album/3bgfgOYm533nhDX9Dbp1Bu) | 4:59 | 2023-10-14 |  |
+| [Bäst här inne](https://open.spotify.com/track/7ifhAM3ObwyI92K2P8Dl6z) | [Thomas Stenström](https://open.spotify.com/artist/2DWNa2o3BbsIHeBq7Iu6E7) | [Superlativ 97](https://open.spotify.com/album/3bgfgOYm533nhDX9Dbp1Bu) | 4:59 | 2023-10-14 | 2023-10-21 |
 | [Bästa var du](https://open.spotify.com/track/544i2kupbLppslcGI1PhlL) | [estraden](https://open.spotify.com/artist/2Osj5g9VkHReOlZgfoEQao) | [Bästa var du](https://open.spotify.com/album/6S6WCiLAWuTOT1gBWOvm7m) | 3:18 | 2023-08-19 | 2023-09-10 |
 | [Bästis Festis](https://open.spotify.com/track/6xjKLvdIXKA3mXDZUsMmPC) | [Lov1](https://open.spotify.com/artist/2kSCHFK5uErN4BO7IkTrHK) | [Bästis Festis](https://open.spotify.com/album/2KjDSl0pA1On4JX6G9qjX6) | 2:26 | 2022-08-20 | 2022-09-21 |
 | [Bävling](https://open.spotify.com/track/6PmzO31LLWsHvY0tG37m8F) | [Irma](https://open.spotify.com/artist/5dnegcfdqoliHuDXVW5nYw) | [Bävling](https://open.spotify.com/album/6s5kpLikMJf3k3PvCExcEn) | 1:56 | 2023-03-11 | 2023-03-16 |
@@ -382,7 +382,7 @@
 | [En Chans](https://open.spotify.com/track/2JDsYmNrm68Om1TK0D4VeA) | [23](https://open.spotify.com/artist/2Dor6diK1zw9BEluKBOdoA), [C.Gambino](https://open.spotify.com/artist/6eWjyO1r0QlvsIuIIcgGxI) | [En Chans](https://open.spotify.com/album/2iWpYrj5Crkov7rTVn7TCU) | 2:04 | 2022-09-10 | 2022-10-16 |
 | [En dag när du blir stor](https://open.spotify.com/track/1qidz6rdewByKNznnl1wK4) | [Benjamin Ingrosso](https://open.spotify.com/artist/7jEEE187pVG6InOxn03oA5) | [En dag när du blir stor](https://open.spotify.com/album/1gDHNbSo1QK3QDyi26heOh) | 4:42 | 2021-11-28 | 2021-12-27 |
 | [En gång i tiden](https://open.spotify.com/track/5nGecVU5JehdLToBAjDj62) | [Benjamin Ingrosso](https://open.spotify.com/artist/7jEEE187pVG6InOxn03oA5) | [En gång i tiden \(del 2\)](https://open.spotify.com/album/2D0NU2s1xrC8wGRkMrJUjP) | 3:33 | 2021-04-18 | 2021-04-21 |
-| [En kväll i juni](https://open.spotify.com/track/6xYeTISkTw4S9K9hJgr1KJ) | [Lasse Berghagen](https://open.spotify.com/artist/7kdGjv0IIQJcU2bth1yoqY) | [20 av Lars Berghagens bästa](https://open.spotify.com/album/1P6QyxSmdRVaAPaHHfox4i) | 3:12 | 2022-06-25 | 2022-06-27 |
+| [En kväll i juni](https://open.spotify.com/track/6xYeTISkTw4S9K9hJgr1KJ) | [Lasse Berghagen](https://open.spotify.com/artist/7kdGjv0IIQJcU2bth1yoqY) | [20 av Lars Berghagens bästa](https://open.spotify.com/album/1P6QyxSmdRVaAPaHHfox4i) | 3:12 | 2022-06-25 |  |
 | [En lampa i mässing](https://open.spotify.com/track/4BJP5hoJG1UXiPTnyEQNFg) | [Lars Winnerbäck](https://open.spotify.com/artist/33zLgL7tT1vg7eRpWYX5uI) | [Neutronstjärnan](https://open.spotify.com/album/1HObi9uMTxl0DmKdaDWgwx) | 4:16 | 2023-09-23 | 2023-09-27 |
 | [En sekund](https://open.spotify.com/track/3HteneaA9R5zRXVvZRoT0i) | [Tjuvjakt](https://open.spotify.com/artist/0XDfNJsQy7B3q0GfsMHSkp), [Erik Lundin](https://open.spotify.com/artist/0dCSPVQ30JS4cRaCTtbEmp) | [En sekund \(Spotify Studio It's Hits Recording\)](https://open.spotify.com/album/0M5PVcCS8bM1fpZj7BEqCF) | 3:39 | 2021-09-26 | 2021-10-03 |
 | [En säng av rosor](https://open.spotify.com/track/14eKSIRO006SRXYpfoY8HK) | [Darin](https://open.spotify.com/artist/1rKFeRryEci6cxNkdvHzNr) | [En säng av rosor](https://open.spotify.com/album/5ZHVwbE2Pu2kYWqIlFpPz7) | 3:42 | 2021-04-05 | 2021-04-14 |
@@ -824,7 +824,7 @@
 | [Lonely In A Crowd \(feat\. Joakim Berg\)](https://open.spotify.com/track/33rAbleut8ComABiQJYpvp) | [Miriam Bryant](https://open.spotify.com/artist/2zd9YxlsQvA5mkZ1NarYVQ), [Joakim Berg](https://open.spotify.com/artist/5Z3qZD6rDNxloqapoa1QUC) | [PS jag hatar dig](https://open.spotify.com/album/0JUcDAaiv4ssfLlNdAufBs) | 3:39 | 2021-11-21 | 2021-11-28 |
 | [Look What You've Done](https://open.spotify.com/track/7jDtQkIxKFELTpQa27VWWR) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [Poster Girl](https://open.spotify.com/album/6hp2216exPe2qBLST3gpD8) | 3:01 | 2021-03-27\* | 2021-05-05 |
 | [Lord I Need You](https://open.spotify.com/track/5YRFttxjAEgm2nq5Z2tlqK) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [Donda](https://open.spotify.com/album/340MjPcVdiQRnMigrPybZA) | 2:42 | 2021-09-01 | 2021-09-02 |
-| [Lose Control](https://open.spotify.com/track/17phhZDn6oGtzMe56NuWvj) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [I've Tried Everything But Therapy \(Part 1\)](https://open.spotify.com/album/7nacKlk586eLRBSIsrk9DB) | 3:30 | 2023-10-14 |  |
+| [Lose Control](https://open.spotify.com/track/17phhZDn6oGtzMe56NuWvj) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [I've Tried Everything But Therapy \(Part 1\)](https://open.spotify.com/album/7nacKlk586eLRBSIsrk9DB) | 3:30 | 2023-10-14 | 2023-10-21 |
 | [Lose my mind](https://open.spotify.com/track/4Cz2101t2TdPKBsgb7O6dS) | [Myra Granberg](https://open.spotify.com/artist/6HYjkczJfUdGcwIGPOq5P2) | [Lose my mind](https://open.spotify.com/album/53H8HfdZu1DoXqPfTGj8CG) | 2:53 | 2021-04-18 | 2021-09-12 |
 | [Lose my mind](https://open.spotify.com/track/5D2ZobLrLLFcPoOWw5YE0e) | [Myra Granberg](https://open.spotify.com/artist/6HYjkczJfUdGcwIGPOq5P2) | [ANDRA SIDAN ÄR NI KLARA](https://open.spotify.com/album/2uRRdTqrjo0LdSS5WIrB1M) | 2:53 | 2021-09-12 | 2023-06-26 |
 | [Lost Cause](https://open.spotify.com/track/2xdwCJLfKCkat14mlgR26M) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [Lost Cause](https://open.spotify.com/album/0hPbP7ckqqFVftdTPatlED) | 3:32 | 2021-06-06 | 2021-06-16 |
@@ -1347,6 +1347,7 @@
 | [Tarzan](https://open.spotify.com/track/3gUZ8NErOBEHrixX9Hkpdt) | [Dree Low](https://open.spotify.com/artist/3tNPDodRNuLdezJnTsYOqy) | [PRICELESS](https://open.spotify.com/album/6PxUXGR120hMiXAozmB29G) | 3:21 | 2021-03-27\* | 2021-03-27 |
 | [Tattoo](https://open.spotify.com/track/1DmW5Ep6ywYwxc2HMT5BG6) | [Loreen](https://open.spotify.com/artist/49aaHxvAJ0tCh0F15OnwIl) | [Tattoo](https://open.spotify.com/album/0LRTS7FyYLppkDLOZT02Xp) | 3:03 | 2023-02-26 | 2023-08-20 |
 | [Team 2 much](https://open.spotify.com/track/7bSN1NwVdOTVNUKuwzj6ev) | [Eno](https://open.spotify.com/artist/3GBBxBdoolb0B5YizZq9bF), [Yasin](https://open.spotify.com/artist/6rYEqmajzlhGVaayOJ2bpJ) | [Team 2 much](https://open.spotify.com/album/6QSDohjNFcchOA3sIZcJFY) | 2:43 | 2022-06-04 | 2022-06-19 |
+| [Teddybjörnen Fredriksson](https://open.spotify.com/track/7qJez6y4GfrEoLVnHjBr0J) | [Lasse Berghagen](https://open.spotify.com/artist/7kdGjv0IIQJcU2bth1yoqY) | [Höstmys För Barn](https://open.spotify.com/album/6M7jh8AlCNMMrVgZJg2f0b) | 3:20 | 2023-10-20 |  |
 | [Tell The Vision \(feat\. Kanye West & Pusha T\)](https://open.spotify.com/track/2UwALqx6yOsXTFt7zRxnts) | [Pop Smoke](https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj), [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x), [Pusha T](https://open.spotify.com/artist/0ONHkAv9pCAFxb0zJwDNTy) | [Faith](https://open.spotify.com/album/2MlT9dGKoGH2hsfcz7UUXL) | 3:35 | 2021-07-18 | 2021-07-19 |
 | [Testa](https://open.spotify.com/track/3HckDDwpfFBRLvcbb0yBMW) | [Ant Wan](https://open.spotify.com/artist/51TXQniEQkYh89tfLjiuSy) | [The Only Wan](https://open.spotify.com/album/4OrCH3Tp7HUpfxKzwWuVp3) | 3:57 | 2022-09-03 | 2022-09-11 |
 | [THANK GOD](https://open.spotify.com/track/1PH2MDbcBAU094DlgTIND1) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [UTOPIA](https://open.spotify.com/album/18NOKLkZETa4sWwLMIm0UZ) | 3:04 | 2023-07-29 | 2023-07-31 |

@@ -1,12 +1,12 @@
 {
   "description": "The official EA SPORTS FC 24 Soundtrack.",
-  "num_followers": 59460,
+  "num_followers": 59828,
   "original_name": "EA SPORTS FC 24 Official Soundtrack",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3MTE2YWQwNzAzNmNmMmJmMzgwYjVhZDkyMjVmN2UwNDZmYjhhZDFk",
+  "snapshot_id": "MCw1MDk3ZGU4MDU1NDAwNWVhZDRmNTcyMWYyNDBkMzY4ZWNiY2Q5MDA5",
   "tracks": [
     {
       "added_at": "2023-10-06 19:23:39",
@@ -615,22 +615,6 @@
     {
       "added_at": "2023-10-06 19:23:39",
       "album": {
-        "name": "there she goes",
-        "url": "https://open.spotify.com/album/0oApyH6CKZ2O6tCVLzGcdL"
-      },
-      "artists": [
-        {
-          "name": "Ezekiel",
-          "url": "https://open.spotify.com/artist/4qUoZ6ErhTYFhAI0W1iI9q"
-        }
-      ],
-      "duration_ms": 162649,
-      "name": "there she goes",
-      "url": "https://open.spotify.com/track/3DVVQMU478kCIB9FC3mct5"
-    },
-    {
-      "added_at": "2023-10-06 19:23:39",
-      "album": {
         "name": "HOLD ON",
         "url": "https://open.spotify.com/album/44IVa7WdCY2II6a9AVnwpe"
       },
@@ -643,6 +627,22 @@
       "duration_ms": 245454,
       "name": "HOLD ON",
       "url": "https://open.spotify.com/track/3PspK6baTu8laBFO32ArQL"
+    },
+    {
+      "added_at": "2023-10-06 19:23:39",
+      "album": {
+        "name": "there she goes",
+        "url": "https://open.spotify.com/album/0oApyH6CKZ2O6tCVLzGcdL"
+      },
+      "artists": [
+        {
+          "name": "Ezekiel",
+          "url": "https://open.spotify.com/artist/4qUoZ6ErhTYFhAI0W1iI9q"
+        }
+      ],
+      "duration_ms": 162649,
+      "name": "there she goes",
+      "url": "https://open.spotify.com/track/3DVVQMU478kCIB9FC3mct5"
     },
     {
       "added_at": "2023-10-06 19:23:39",
@@ -827,26 +827,6 @@
     {
       "added_at": "2023-10-06 19:23:39",
       "album": {
-        "name": "I Just Wanna Dance",
-        "url": "https://open.spotify.com/album/56zVapikmKNxBhX4Osw5ts"
-      },
-      "artists": [
-        {
-          "name": "Higgo",
-          "url": "https://open.spotify.com/artist/0f1qSxprIDtLaJfIaEJb64"
-        },
-        {
-          "name": "mustbejohn",
-          "url": "https://open.spotify.com/artist/5hgZ7PGI0EM2UfiWAIKdFc"
-        }
-      ],
-      "duration_ms": 163750,
-      "name": "I Just Wanna Dance",
-      "url": "https://open.spotify.com/track/4dJsbFmhri91euJQbhVqT8"
-    },
-    {
-      "added_at": "2023-10-06 19:23:39",
-      "album": {
         "name": "Osama (Bruno Be, Ralk Rework)",
         "url": "https://open.spotify.com/album/5Tds5Ajn5nx4GMId45f9TV"
       },
@@ -871,6 +851,26 @@
       "duration_ms": 281794,
       "name": "Osama - Bruno Be, Ralk Rework",
       "url": "https://open.spotify.com/track/3pWC9DZvy8N8CUHKJJ8dBp"
+    },
+    {
+      "added_at": "2023-10-06 19:23:39",
+      "album": {
+        "name": "I Just Wanna Dance",
+        "url": "https://open.spotify.com/album/56zVapikmKNxBhX4Osw5ts"
+      },
+      "artists": [
+        {
+          "name": "Higgo",
+          "url": "https://open.spotify.com/artist/0f1qSxprIDtLaJfIaEJb64"
+        },
+        {
+          "name": "mustbejohn",
+          "url": "https://open.spotify.com/artist/5hgZ7PGI0EM2UfiWAIKdFc"
+        }
+      ],
+      "duration_ms": 163750,
+      "name": "I Just Wanna Dance",
+      "url": "https://open.spotify.com/track/4dJsbFmhri91euJQbhVqT8"
     },
     {
       "added_at": "2023-10-06 19:23:39",
@@ -1051,22 +1051,6 @@
     {
       "added_at": "2023-10-06 19:23:39",
       "album": {
-        "name": "FLATLINE",
-        "url": "https://open.spotify.com/album/68qY8pAl8uRX4XxzTJ64cf"
-      },
-      "artists": [
-        {
-          "name": "Frost Children",
-          "url": "https://open.spotify.com/artist/6R1kfr0GIWnwxY4zW11Vag"
-        }
-      ],
-      "duration_ms": 225883,
-      "name": "FLATLINE",
-      "url": "https://open.spotify.com/track/0i2RbagsiSkoYlyVyY06mj"
-    },
-    {
-      "added_at": "2023-10-06 19:23:39",
-      "album": {
         "name": "O Que Se Leva (D\u00f3i)",
         "url": "https://open.spotify.com/album/27uX1i9485ofNAO9EHIWBE"
       },
@@ -1091,6 +1075,22 @@
       "duration_ms": 170261,
       "name": "O Que Se Leva (D\u00f3i)",
       "url": "https://open.spotify.com/track/7AYctIsvlx9eNrOM2zhLiz"
+    },
+    {
+      "added_at": "2023-10-06 19:23:39",
+      "album": {
+        "name": "FLATLINE",
+        "url": "https://open.spotify.com/album/68qY8pAl8uRX4XxzTJ64cf"
+      },
+      "artists": [
+        {
+          "name": "Frost Children",
+          "url": "https://open.spotify.com/artist/6R1kfr0GIWnwxY4zW11Vag"
+        }
+      ],
+      "duration_ms": 225883,
+      "name": "FLATLINE",
+      "url": "https://open.spotify.com/track/0i2RbagsiSkoYlyVyY06mj"
     },
     {
       "added_at": "2023-10-06 19:23:39",
@@ -1135,6 +1135,22 @@
     {
       "added_at": "2023-10-06 19:23:39",
       "album": {
+        "name": "A STRANGER",
+        "url": "https://open.spotify.com/album/0o3v4DaaAydiFZLv9nsUeC"
+      },
+      "artists": [
+        {
+          "name": "DAMEDAME*",
+          "url": "https://open.spotify.com/artist/3X6c2uu6yXYP4XnprvDg11"
+        }
+      ],
+      "duration_ms": 167391,
+      "name": "A STRANGER",
+      "url": "https://open.spotify.com/track/6t26Su0fcxR2tbHzNfzE8I"
+    },
+    {
+      "added_at": "2023-10-06 19:23:39",
+      "album": {
         "name": "Not Today",
         "url": "https://open.spotify.com/album/1mnkQmiqItiPZVAu4jrk14"
       },
@@ -1151,22 +1167,6 @@
       "duration_ms": 252693,
       "name": "Not Today",
       "url": "https://open.spotify.com/track/2iGu9F7QQXW8h7Er5c8Gq3"
-    },
-    {
-      "added_at": "2023-10-06 19:23:39",
-      "album": {
-        "name": "A STRANGER",
-        "url": "https://open.spotify.com/album/0o3v4DaaAydiFZLv9nsUeC"
-      },
-      "artists": [
-        {
-          "name": "DAMEDAME*",
-          "url": "https://open.spotify.com/artist/3X6c2uu6yXYP4XnprvDg11"
-        }
-      ],
-      "duration_ms": 167391,
-      "name": "A STRANGER",
-      "url": "https://open.spotify.com/track/6t26Su0fcxR2tbHzNfzE8I"
     },
     {
       "added_at": "2023-10-06 19:23:39",
@@ -1267,22 +1267,6 @@
     {
       "added_at": "2023-10-06 19:23:39",
       "album": {
-        "name": "Pinking Shears",
-        "url": "https://open.spotify.com/album/5tEQyQksm6Hx1QPpvr8NYK"
-      },
-      "artists": [
-        {
-          "name": "Mandy, Indiana",
-          "url": "https://open.spotify.com/artist/2nDJxXJ7PtW7eLpFXcGH3u"
-        }
-      ],
-      "duration_ms": 152420,
-      "name": "Pinking Shears",
-      "url": "https://open.spotify.com/track/25nJyg6wnbRLN1zkmbX8cF"
-    },
-    {
-      "added_at": "2023-10-06 19:23:39",
-      "album": {
         "name": "Better Than I?",
         "url": "https://open.spotify.com/album/1C3pe9P7vbFgAXH4NUDRr5"
       },
@@ -1295,6 +1279,22 @@
       "duration_ms": 145861,
       "name": "Better Than I?",
       "url": "https://open.spotify.com/track/0nt7P9iu1hp7cxoNq7mZrG"
+    },
+    {
+      "added_at": "2023-10-06 19:23:39",
+      "album": {
+        "name": "Pinking Shears",
+        "url": "https://open.spotify.com/album/5tEQyQksm6Hx1QPpvr8NYK"
+      },
+      "artists": [
+        {
+          "name": "Mandy, Indiana",
+          "url": "https://open.spotify.com/artist/2nDJxXJ7PtW7eLpFXcGH3u"
+        }
+      ],
+      "duration_ms": 152420,
+      "name": "Pinking Shears",
+      "url": "https://open.spotify.com/track/25nJyg6wnbRLN1zkmbX8cF"
     },
     {
       "added_at": "2023-10-06 19:23:39",
@@ -1323,6 +1323,22 @@
     {
       "added_at": "2023-10-06 19:23:39",
       "album": {
+        "name": "The Gates Will Open",
+        "url": "https://open.spotify.com/album/1B8aBnkCqVbDcpk8kIfqzv"
+      },
+      "artists": [
+        {
+          "name": "Karma Kid",
+          "url": "https://open.spotify.com/artist/2X2cDFal9ci8yS5FDHYZv2"
+        }
+      ],
+      "duration_ms": 346775,
+      "name": "The Gates Will Open",
+      "url": "https://open.spotify.com/track/3mYH1lXw1QUPllZantOaw4"
+    },
+    {
+      "added_at": "2023-10-06 19:23:39",
+      "album": {
         "name": "i've got a bf (best friend)",
         "url": "https://open.spotify.com/album/5db7wptFrRLFAp6ob1oqec"
       },
@@ -1339,22 +1355,6 @@
       "duration_ms": 148852,
       "name": "i've got a bf (best friend)",
       "url": "https://open.spotify.com/track/34OjRqhUtpC3lkhsVpIr1D"
-    },
-    {
-      "added_at": "2023-10-06 19:23:39",
-      "album": {
-        "name": "The Gates Will Open",
-        "url": "https://open.spotify.com/album/1B8aBnkCqVbDcpk8kIfqzv"
-      },
-      "artists": [
-        {
-          "name": "Karma Kid",
-          "url": "https://open.spotify.com/artist/2X2cDFal9ci8yS5FDHYZv2"
-        }
-      ],
-      "duration_ms": 346775,
-      "name": "The Gates Will Open",
-      "url": "https://open.spotify.com/track/3mYH1lXw1QUPllZantOaw4"
     },
     {
       "added_at": "2023-10-06 19:23:39",
@@ -1431,22 +1431,6 @@
     {
       "added_at": "2023-10-06 19:23:39",
       "album": {
-        "name": "Who Else Would It Be",
-        "url": "https://open.spotify.com/album/25i87dAxFScrO1VjyyOLlm"
-      },
-      "artists": [
-        {
-          "name": "KayCyy",
-          "url": "https://open.spotify.com/artist/7gmVTgaiN0gpDJKvTHPTRL"
-        }
-      ],
-      "duration_ms": 91913,
-      "name": "Who Else Would It Be",
-      "url": "https://open.spotify.com/track/3WbusxungaQoyYLe33Yepv"
-    },
-    {
-      "added_at": "2023-10-06 19:23:39",
-      "album": {
         "name": "Waiting To Go",
         "url": "https://open.spotify.com/album/2OE4PqS7d2DgcZD0CljNmP"
       },
@@ -1471,6 +1455,22 @@
     {
       "added_at": "2023-10-06 19:23:39",
       "album": {
+        "name": "Who Else Would It Be",
+        "url": "https://open.spotify.com/album/25i87dAxFScrO1VjyyOLlm"
+      },
+      "artists": [
+        {
+          "name": "KayCyy",
+          "url": "https://open.spotify.com/artist/7gmVTgaiN0gpDJKvTHPTRL"
+        }
+      ],
+      "duration_ms": 91913,
+      "name": "Who Else Would It Be",
+      "url": "https://open.spotify.com/track/3WbusxungaQoyYLe33Yepv"
+    },
+    {
+      "added_at": "2023-10-06 19:23:39",
+      "album": {
         "name": "FIST IN THE SKY (feat. Jordan Mackampa)",
         "url": "https://open.spotify.com/album/1KZV8Ywiz12q19o5rtFMoU"
       },
@@ -1487,26 +1487,6 @@
       "duration_ms": 267066,
       "name": "FIST IN THE SKY (feat. Jordan Mackampa)",
       "url": "https://open.spotify.com/track/3yVz0LNJ7gdMsAfIAxlKJO"
-    },
-    {
-      "added_at": "2023-10-06 19:23:39",
-      "album": {
-        "name": "Tings My Way",
-        "url": "https://open.spotify.com/album/5ljS6V83W1O00uaXLFRYW5"
-      },
-      "artists": [
-        {
-          "name": "Freq Motif",
-          "url": "https://open.spotify.com/artist/3ZHj8c2bBRsMrD1CSKk1FK"
-        },
-        {
-          "name": "Magugu",
-          "url": "https://open.spotify.com/artist/6zfXNcgsqAJvIgEqWcX9hL"
-        }
-      ],
-      "duration_ms": 124878,
-      "name": "Tings My Way",
-      "url": "https://open.spotify.com/track/3xdiLJ5x946mdlj3vwbPPu"
     },
     {
       "added_at": "2023-10-06 19:23:39",
@@ -1535,6 +1515,26 @@
       "duration_ms": 178373,
       "name": "Relentless",
       "url": "https://open.spotify.com/track/4BTvXr4GKPvuHAWGr14ghc"
+    },
+    {
+      "added_at": "2023-10-06 19:23:39",
+      "album": {
+        "name": "Tings My Way",
+        "url": "https://open.spotify.com/album/5ljS6V83W1O00uaXLFRYW5"
+      },
+      "artists": [
+        {
+          "name": "Freq Motif",
+          "url": "https://open.spotify.com/artist/3ZHj8c2bBRsMrD1CSKk1FK"
+        },
+        {
+          "name": "Magugu",
+          "url": "https://open.spotify.com/artist/6zfXNcgsqAJvIgEqWcX9hL"
+        }
+      ],
+      "duration_ms": 124878,
+      "name": "Tings My Way",
+      "url": "https://open.spotify.com/track/3xdiLJ5x946mdlj3vwbPPu"
     },
     {
       "added_at": "2023-10-06 19:23:39",
@@ -1615,6 +1615,22 @@
     {
       "added_at": "2023-10-06 19:23:39",
       "album": {
+        "name": "Mantra No. 9",
+        "url": "https://open.spotify.com/album/2ZUa47nI8CFCIJhA94UGEj"
+      },
+      "artists": [
+        {
+          "name": "Fliptrix",
+          "url": "https://open.spotify.com/artist/5Dm525w7dCfRzudUS4EeQE"
+        }
+      ],
+      "duration_ms": 212213,
+      "name": "So Clear",
+      "url": "https://open.spotify.com/track/33IXYq3ncfQfh5KRzXeleo"
+    },
+    {
+      "added_at": "2023-10-06 19:23:39",
+      "album": {
         "name": "RTJ CU4TRO",
         "url": "https://open.spotify.com/album/1wJ0AElY0PY4pbzvKZw8io"
       },
@@ -1635,22 +1651,6 @@
       "duration_ms": 244440,
       "name": "fuera de vista (feat. Baco Exu Do Blues) - TROOKO's Versi\u00f3n",
       "url": "https://open.spotify.com/track/4tS1IvkIue4frsyOmZmb1W"
-    },
-    {
-      "added_at": "2023-10-06 19:23:39",
-      "album": {
-        "name": "Mantra No. 9",
-        "url": "https://open.spotify.com/album/2ZUa47nI8CFCIJhA94UGEj"
-      },
-      "artists": [
-        {
-          "name": "Fliptrix",
-          "url": "https://open.spotify.com/artist/5Dm525w7dCfRzudUS4EeQE"
-        }
-      ],
-      "duration_ms": 212213,
-      "name": "So Clear",
-      "url": "https://open.spotify.com/track/33IXYq3ncfQfh5KRzXeleo"
     },
     {
       "added_at": "2023-10-06 19:23:39",
@@ -1795,26 +1795,6 @@
     {
       "added_at": "2023-10-06 19:23:39",
       "album": {
-        "name": "MMM",
-        "url": "https://open.spotify.com/album/0Fbc2gf82fyBWrpDQqxnco"
-      },
-      "artists": [
-        {
-          "name": "Skinny Local",
-          "url": "https://open.spotify.com/artist/2Qqm503Ng7iC2dMxEobQa1"
-        },
-        {
-          "name": "Cartel Madras",
-          "url": "https://open.spotify.com/artist/3nwKi37CnuKq5BcPr267h3"
-        }
-      ],
-      "duration_ms": 144928,
-      "name": "MMM",
-      "url": "https://open.spotify.com/track/5ubj4AhuTnQ5qzuhv4CP3P"
-    },
-    {
-      "added_at": "2023-10-06 19:23:39",
-      "album": {
         "name": "Oh Ah (with Paul Beaubrun & Cimafunk)",
         "url": "https://open.spotify.com/album/4KPCyFjgJvvCdAPHDWTHJb"
       },
@@ -1835,6 +1815,26 @@
       "duration_ms": 111044,
       "name": "Oh Ah (with Paul Beaubrun & Cimafunk)",
       "url": "https://open.spotify.com/track/1IWxBDOExMnTPR9lJ0lGTS"
+    },
+    {
+      "added_at": "2023-10-06 19:23:39",
+      "album": {
+        "name": "MMM",
+        "url": "https://open.spotify.com/album/0Fbc2gf82fyBWrpDQqxnco"
+      },
+      "artists": [
+        {
+          "name": "Skinny Local",
+          "url": "https://open.spotify.com/artist/2Qqm503Ng7iC2dMxEobQa1"
+        },
+        {
+          "name": "Cartel Madras",
+          "url": "https://open.spotify.com/artist/3nwKi37CnuKq5BcPr267h3"
+        }
+      ],
+      "duration_ms": 144928,
+      "name": "MMM",
+      "url": "https://open.spotify.com/track/5ubj4AhuTnQ5qzuhv4CP3P"
     },
     {
       "added_at": "2023-10-06 19:23:39",

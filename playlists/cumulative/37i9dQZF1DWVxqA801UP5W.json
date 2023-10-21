@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-12-29",
-  "description": "All your favourite pop songs, remixed to perfection. Cover: Hannah Laing",
+  "description": "All your favourite pop songs, remixed to perfection. Cover: David Guetta, Zara Larsson ",
   "name": "Massive Pop Remixes",
   "tracks": [
     {
@@ -28,7 +28,7 @@
       ],
       "date_added": "2023-09-04",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-11",
+      "date_removed": null,
       "duration_ms": 144000,
       "name": "0800 HEAVEN (feat. Ella Henderson) - Ben Nicky Remix",
       "url": "https://open.spotify.com/track/1Iz54kcegQGncuWqO9JEem"
@@ -58,7 +58,7 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-21",
       "duration_ms": 144000,
       "name": "0800 HEAVEN (feat. Ella Henderson) - Ben Nicky Remix",
       "url": "https://open.spotify.com/track/3BAmNWlTP90FfHkvXd6tq0"
@@ -560,7 +560,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-21",
       "duration_ms": 186691,
       "name": "Disconnect - [IVY] & Sudley Remix",
       "url": "https://open.spotify.com/track/26fSSx1ulAT9znJnPzVL2r"
@@ -931,6 +931,28 @@
     },
     {
       "album": {
+        "name": "I'm Not a Girl, Not Yet a Woman (Snakehips Remix)",
+        "url": "https://open.spotify.com/album/6hB0pjxCzWPAIZDwpxQ5yh"
+      },
+      "artists": [
+        {
+          "name": "Britney Spears",
+          "url": "https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4"
+        },
+        {
+          "name": "Snakehips",
+          "url": "https://open.spotify.com/artist/2FwJwEswyIUAljqgjNSHgP"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167533,
+      "name": "I'm Not a Girl, Not Yet a Woman - Snakehips Remix",
+      "url": "https://open.spotify.com/track/4AWNbyE153F4Olg7fTJFD5"
+    },
+    {
+      "album": {
         "name": "If We Ever Broke Up (goddard. Remix)",
         "url": "https://open.spotify.com/album/0ToSBYDbCC4Up9JlpZkXSr"
       },
@@ -1230,7 +1252,7 @@
       ],
       "date_added": "2023-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-21",
       "duration_ms": 197500,
       "name": "Maria Maria - Diplo Remix",
       "url": "https://open.spotify.com/track/2qrYoFdbH1zWue91YfNYk5"
@@ -1724,7 +1746,7 @@
       ],
       "date_added": "2022-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-21",
       "duration_ms": 210491,
       "name": "Say So (Jax Jones Midnight Snack Remix)",
       "url": "https://open.spotify.com/track/7qrO2oI0A9DW6wQPjSADxx"
@@ -2020,6 +2042,28 @@
       "duration_ms": 254280,
       "name": "Streets - Disclosure Remix",
       "url": "https://open.spotify.com/track/4k6Emp6KJ4GNRyf6wUKODl"
+    },
+    {
+      "album": {
+        "name": "Tension (The Remixes)",
+        "url": "https://open.spotify.com/album/6OCoaXc7qY2Y39b8FMTEb9"
+      },
+      "artists": [
+        {
+          "name": "Kylie Minogue",
+          "url": "https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA"
+        },
+        {
+          "name": "Chromeo",
+          "url": "https://open.spotify.com/artist/2mV8aJphiSHYJf43DxL7Gt"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246533,
+      "name": "Tension (Chromeo Remix)",
+      "url": "https://open.spotify.com/track/1FvLE1PSYgWy9t98gHyoz8"
     },
     {
       "album": {

@@ -925,6 +925,24 @@
     },
     {
       "album": {
+        "name": "God and a Good Man",
+        "url": "https://open.spotify.com/album/3lwqtmWopuyOY3eR6dRyWG"
+      },
+      "artists": [
+        {
+          "name": "Meghan Patrick",
+          "url": "https://open.spotify.com/artist/5bQxLohAAiOat0EMYuHjzJ"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 296563,
+      "name": "God and a Good Man",
+      "url": "https://open.spotify.com/track/791WLUSDeAH9Ozg4ESAtgc"
+    },
+    {
+      "album": {
         "name": "Halfway To Houston",
         "url": "https://open.spotify.com/album/0Szi0bRjwXfF3c7U4bHD3Y"
       },

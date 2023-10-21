@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7AqyNZFu97s.md) - [plain]
 
 > The best new music by independent artists in the UK + Ireland\. Cover: Lauren Dejey & JUST OSKA
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,781 likes - 80 songs - 4 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,809 likes - 80 songs - 4 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7AqyNZFu97s.md) - [plain]
 | 79 | [Memory](https://open.spotify.com/track/3VcqPv1b86jzRehX2Zp9kh) | [Flourish](https://open.spotify.com/artist/5FyEVZanhJH5rwTLxKrmJ7), [Issac Frank](https://open.spotify.com/artist/5WO9zC3eugins48Y4ERwAj) | [Memory](https://open.spotify.com/album/6YEKFQbcHqoNMmRoDzqZae) | 2:45 |
 | 80 | [Let Me Fall](https://open.spotify.com/track/2bEso4XPpdXo9wZ0HibrmX) | [Max Reece](https://open.spotify.com/artist/5MDdLRBK1NF9BFyJWL1qkN), [Maia Harper](https://open.spotify.com/artist/40UDWuI1a2kpO2qLucwkmU) | [Let Me Fall](https://open.spotify.com/album/0mtv46mVkEVAF218LJfVF2) | 2:18 |
 
-Snapshot ID: `MCwxZDlkMjFjNDE2MDI4ZjdhOTNiMDhhNDU0MmI3NGMxNWE1YzRmYzNm`
+Snapshot ID: `MCw3YWNhODY5NjhhY2Y2N2U2NmM3NTQ2YWE3ZmM4NzNjNDNkOWIwNTUz`

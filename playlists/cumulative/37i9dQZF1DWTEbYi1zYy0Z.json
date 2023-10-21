@@ -4055,6 +4055,24 @@
     },
     {
       "album": {
+        "name": "Moving Too Fast",
+        "url": "https://open.spotify.com/album/2PTey5hRAnZnTG78rvvNox"
+      },
+      "artists": [
+        {
+          "name": "Randal Clark",
+          "url": "https://open.spotify.com/artist/6nyQjlgqFNP1ZkPECpByYy"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252906,
+      "name": "Make Safe",
+      "url": "https://open.spotify.com/track/2vY18rxipRFpTYwaSEEVr4"
+    },
+    {
+      "album": {
         "name": "Make Up Your Mind (Radio Edit)",
         "url": "https://open.spotify.com/album/7euOjpEALM3P4Q2p0U6hVC"
       },
@@ -4438,7 +4456,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-21",
       "duration_ms": 222920,
       "name": "Moving Too Fast",
       "url": "https://open.spotify.com/track/2O7uioEz4FLJiOgH2LIJLG"

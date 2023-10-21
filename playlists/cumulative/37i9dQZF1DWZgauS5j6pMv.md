@@ -4,7 +4,7 @@
 
 > The best of today's funk\. Cover: Kossisko
 
-354 songs - 20 hr 53 min
+355 songs - 20 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -47,6 +47,7 @@
 | [Body Weak \(Diamond Cut\)](https://open.spotify.com/track/1s0HuXwtPGA8PWVWQClUZq) | [Diamond Cafe](https://open.spotify.com/artist/5iy5vWoWLniL8EMg5pFRrh) | [Body Weak \(Diamond Cut\)](https://open.spotify.com/album/4QOSrIecDT4eeFYu3nrbqR) | 4:05 | 2023-09-01 |  |
 | [Boogie Down](https://open.spotify.com/track/3APtmyeA8mmubGvyCoW2Ga) | [Kurt Elling](https://open.spotify.com/artist/1UhC1mCcd9SFXLibHhMX61), [Charlie Hunter](https://open.spotify.com/artist/0si9BxvM2C33fAIkr1pgUc), [Nate Smith](https://open.spotify.com/artist/3C1TdpEowpf6AMf7PycuWy) | [Boogie Down](https://open.spotify.com/album/4Vakb3vIt914RvFrIiWS9h) | 3:16 | 2023-01-27 |  |
 | [Boy](https://open.spotify.com/track/0d6PTB1CDWFCWKiixR0YI7) | [TORA](https://open.spotify.com/artist/7wml1FKnTWVEj05OrqIVUg) | [Boy](https://open.spotify.com/album/4GRcZN5fLAhRnSXSyWTyLm) | 3:01 | 2021-10-29 | 2022-05-07 |
+| [Boyfriend](https://open.spotify.com/track/56QF4yDJSPKs783imRYWX0) | [Brother Zulu](https://open.spotify.com/artist/2s2izwM5DBKt4BkK00CEnw), [Charles](https://open.spotify.com/artist/1zQk335M5LE4TowdBTKOAp) | [Boyfriend](https://open.spotify.com/album/0nzeplsr4yZbMptOu6jlhI) | 3:08 | 2023-10-20 |  |
 | [Boys Don't Sob](https://open.spotify.com/track/2fkAbl3FCAj9BKc4Z5GIdr) | [The Free Label](https://open.spotify.com/artist/4YOL2g6AwphwsB1dOZZSOr) | [Boys Don't Sob](https://open.spotify.com/album/3ZFmah5FBGNwfXZx5y7N4J) | 2:56 | 2022-07-15 |  |
 | [Break Through To My Heart](https://open.spotify.com/track/4ZTejOswcSHkbPfiQi1DVR) | [Captain Planet](https://open.spotify.com/artist/1WfWKF1hFimJLzz6ix6aRi), [Maiya Sykes](https://open.spotify.com/artist/0f1RHEeWvaJDxBPY3UZ6Z4) | [Sounds Like Home](https://open.spotify.com/album/0ZWKbinvlLP8rYwx2zGszu) | 4:51 | 2023-06-09 |  |
 | [BREAKTHROUGH](https://open.spotify.com/track/3bfn8rA63B8QbqJjES4s4M) | [Cosmo's Midnight](https://open.spotify.com/artist/4VivsO1n4n2Mi2Btyb5gfL), [SIRUP](https://open.spotify.com/artist/1HzcHe0WFm4koBalCEOkVh), [Shin Sakiura](https://open.spotify.com/artist/43NKdJzrtzg9rAzmbIUdW8) | [Breakthrough](https://open.spotify.com/album/7vLtnkheg9udjZyXGYeZAx) | 2:58 | 2022-09-16 |  |
@@ -62,7 +63,7 @@
 | [Can't Steal My Heaven](https://open.spotify.com/track/5O5zZIKZRKwwNDlg8oJz4q) | [Caleb Hawley](https://open.spotify.com/artist/5GF3JcY2h0SUPkDlo7ByCB) | [Preshow Music](https://open.spotify.com/album/5IObpymLC1NwUeVDV3Jw3e) | 3:54 | 2023-04-14 |  |
 | [Catch Me If You Can](https://open.spotify.com/track/4D04v6javNlEsTHjFvxkxZ) | [Joseph Luca](https://open.spotify.com/artist/1IWfY0owaPFIphGyuZ0oBu) | [Catch Me If You Can](https://open.spotify.com/album/7MdPrJm69q7pETDcm0iYht) | 2:34 | 2022-09-23 | 2023-05-06 |
 | [Caught Up \(feat\. Phony Ppl\)](https://open.spotify.com/track/0rvxWzdAmOr6hzBPyLxFvR) | [VanJess](https://open.spotify.com/artist/0Ek89uaJyo6NfWK22awFvI), [Phony Ppl](https://open.spotify.com/artist/0oBsnAC3fzYkTHF3bkfNx6) | [Homegrown](https://open.spotify.com/album/6D701PBk88ecP19udi4EJj) | 3:01 | 2021-02-09 | 2022-01-29 |
-| [Celebrate](https://open.spotify.com/track/4pWR6adQpusvmqyZyUqc3q) | [Brother Zulu](https://open.spotify.com/artist/2s2izwM5DBKt4BkK00CEnw) | [Celebrate](https://open.spotify.com/album/0Tc9B9e1zH824KxL380K34) | 3:14 | 2023-05-23 |  |
+| [Celebrate](https://open.spotify.com/track/4pWR6adQpusvmqyZyUqc3q) | [Brother Zulu](https://open.spotify.com/artist/2s2izwM5DBKt4BkK00CEnw) | [Celebrate](https://open.spotify.com/album/0Tc9B9e1zH824KxL380K34) | 3:14 | 2023-05-23 | 2023-10-21 |
 | [Celebrate](https://open.spotify.com/track/2aiGoTb7zVtfNpkI93LDDC) | [The HamilTones](https://open.spotify.com/artist/1Nj9dLuiwh4DHn8AIkQyqs) | [1964](https://open.spotify.com/album/2ss2YFqs0iYN7z2dVcycqH) | 3:55 | 2020-11-20 | 2022-04-09 |
 | [Certified Juice](https://open.spotify.com/track/5otpV1DM4XIBHo77qnBAHd) | [Beard\-o\-Bees](https://open.spotify.com/artist/0IxwoJHyeRZ8PtDg2CywPs), [Wax Future](https://open.spotify.com/artist/0K1lAgVOuHWfaOU6jmKBRm), [BeesWax](https://open.spotify.com/artist/5dUnehl86GonicTLZZD2LK) | [Royal Jelly](https://open.spotify.com/album/640jUgptejUpYgCRgDFZke) | 3:19 | 2021-05-14 | 2022-06-18 |
 | [Chicken Wings](https://open.spotify.com/track/42F8JMc5pSlGShBkhR0uPQ) | [Samm Henshaw](https://open.spotify.com/artist/1Q2mS59tFYLm2KGFoCgWN4) | [Chicken Wings](https://open.spotify.com/album/0q22c9Zv8OZ7owt8o0jj4X) | 2:48 | 2021-10-01 | 2022-09-24 |

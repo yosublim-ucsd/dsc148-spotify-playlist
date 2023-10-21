@@ -243,6 +243,32 @@
     },
     {
       "album": {
+        "name": "Dacoromode",
+        "url": "https://open.spotify.com/album/4wsh2d30QdwnFQLEpSkXKz"
+      },
+      "artists": [
+        {
+          "name": "Tz da Coronel",
+          "url": "https://open.spotify.com/artist/3lIU3RoZiHen1QXAQ3KQ9e"
+        },
+        {
+          "name": "Dj Alle da coro",
+          "url": "https://open.spotify.com/artist/6fGH2Qk8eKAcvEU1nHOi8x"
+        },
+        {
+          "name": "C\u00fapula",
+          "url": "https://open.spotify.com/artist/6IlN4Mij49rPYznzeOMD1F"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146490,
+      "name": "Boa Sorte Mesmo",
+      "url": "https://open.spotify.com/track/4qWBGrLVgn1XiUTRzC3fkx"
+    },
+    {
+      "album": {
         "name": "Leva a S\u00e9rio",
         "url": "https://open.spotify.com/album/3fPE8q57zaq7s4cJZD3UZc"
       },
@@ -907,6 +933,32 @@
     },
     {
       "album": {
+        "name": "Novinha Grandona",
+        "url": "https://open.spotify.com/album/0S038UJN1XgC1Asdx97gLJ"
+      },
+      "artists": [
+        {
+          "name": "Plutonio",
+          "url": "https://open.spotify.com/artist/39HJXjH5hKcCzaU0g6mv8G"
+        },
+        {
+          "name": "Filipe Ret",
+          "url": "https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54"
+        },
+        {
+          "name": "Dallass",
+          "url": "https://open.spotify.com/artist/4LAFtDzlQM89xov636hMVv"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180800,
+      "name": "Novinha Grandona",
+      "url": "https://open.spotify.com/track/5VhV7UaJv6HTt6lbr9oxPx"
+    },
+    {
+      "album": {
         "name": "Nunca Sozinho",
         "url": "https://open.spotify.com/album/0aUlKZZU5PNjviB2BbVRW5"
       },
@@ -1196,7 +1248,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-21",
       "duration_ms": 128695,
       "name": "Romance de Novela",
       "url": "https://open.spotify.com/track/2fAp5BE5huI9De9vKFRMMx"
@@ -1602,7 +1654,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-21",
       "duration_ms": 164480,
       "name": "Zaza",
       "url": "https://open.spotify.com/track/1K07DYYzPPFxJonYXj7E8C"

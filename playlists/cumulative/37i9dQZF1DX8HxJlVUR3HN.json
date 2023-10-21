@@ -1071,6 +1071,24 @@
     },
     {
       "album": {
+        "name": "The Bell Behind The Door (Radio Edit)",
+        "url": "https://open.spotify.com/album/2726pTdi2qf62oMoZaXLZq"
+      },
+      "artists": [
+        {
+          "name": "Dynamite Shakers",
+          "url": "https://open.spotify.com/artist/0T6jBctjBGXqRmXI2pe0aT"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171720,
+      "name": "The Bell Behind The Door (Radio Edit)",
+      "url": "https://open.spotify.com/track/23wkntyHN3cKC7rcKZ6OCL"
+    },
+    {
+      "album": {
         "name": "The Light in The Dark",
         "url": "https://open.spotify.com/album/40nX8H16qVDUuQwTHlLFGe"
       },

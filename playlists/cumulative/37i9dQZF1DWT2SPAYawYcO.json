@@ -9877,6 +9877,24 @@
     },
     {
       "album": {
+        "name": "Falling in",
+        "url": "https://open.spotify.com/album/70Bdbs0ywY2qfwHJxuUuif"
+      },
+      "artists": [
+        {
+          "name": "Blondumb",
+          "url": "https://open.spotify.com/artist/021mK0NgHckx1TwdmzH6sl"
+        }
+      ],
+      "date_added": "2023-10-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137743,
+      "name": "Falling in",
+      "url": "https://open.spotify.com/track/4cbm57Rl7bs1loMHZbzUco"
+    },
+    {
+      "album": {
         "name": "Falling In Love",
         "url": "https://open.spotify.com/album/4RDu4REbJHnc4rgvulKdUs"
       },
@@ -9899,7 +9917,7 @@
     },
     {
       "album": {
-        "name": "Falling In Love Part 2",
+        "name": "Falling In Love",
         "url": "https://open.spotify.com/album/32w9Bry9qBA5SNY5PVg8pT"
       },
       "artists": [
@@ -10317,6 +10335,28 @@
     },
     {
       "album": {
+        "name": "Finding My Way",
+        "url": "https://open.spotify.com/album/2VJLah9SVibt5UYFU9HVM6"
+      },
+      "artists": [
+        {
+          "name": "PROPH3T",
+          "url": "https://open.spotify.com/artist/3CfDgUAqzcrVjX2GSgAroa"
+        },
+        {
+          "name": "Jaecy",
+          "url": "https://open.spotify.com/artist/4hd0k0g3b2MLUiw0gPAsee"
+        }
+      ],
+      "date_added": "2023-10-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162580,
+      "name": "Finding My Way",
+      "url": "https://open.spotify.com/track/33ArwFU5L9M5S1lnTmAjz7"
+    },
+    {
+      "album": {
         "name": "Fine Day Anthem",
         "url": "https://open.spotify.com/album/2mxzA7momOeBvCyKDgZRIb"
       },
@@ -10478,6 +10518,28 @@
       "duration_ms": 267561,
       "name": "Flashback",
       "url": "https://open.spotify.com/track/3VeAelsMAZSm5q8fAR8cIm"
+    },
+    {
+      "album": {
+        "name": "RAW",
+        "url": "https://open.spotify.com/album/25wBD0erftkJDAsnDp8mzu"
+      },
+      "artists": [
+        {
+          "name": "City Girls",
+          "url": "https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il"
+        },
+        {
+          "name": "Kim Petras",
+          "url": "https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J"
+        }
+      ],
+      "date_added": "2023-10-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165517,
+      "name": "Flashy (feat. Kim Petras)",
+      "url": "https://open.spotify.com/track/7rofRRaFwjPUdcPUnrtFAu"
     },
     {
       "album": {
@@ -17292,10 +17354,28 @@
       ],
       "date_added": "2023-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-21",
       "duration_ms": 209680,
       "name": "Letting Go",
       "url": "https://open.spotify.com/track/3aiMthkGe3NgAEeaQywc2E"
+    },
+    {
+      "album": {
+        "name": "Letting Go",
+        "url": "https://open.spotify.com/album/6i9Q0J3gdMhjra2NRrb5B4"
+      },
+      "artists": [
+        {
+          "name": "Hollow Coves",
+          "url": "https://open.spotify.com/artist/7IAFAOtc9kTYNTizhLSWM6"
+        }
+      ],
+      "date_added": "2023-10-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209680,
+      "name": "Letting Go",
+      "url": "https://open.spotify.com/track/5PTZ3ef9lHE6YJqxp9nhh9"
     },
     {
       "album": {
@@ -25754,10 +25834,28 @@
       ],
       "date_added": "2023-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-21",
       "duration_ms": 195525,
       "name": "SCARED TO DIE",
       "url": "https://open.spotify.com/track/3X4ZgzNt8276PH3mdjovrl"
+    },
+    {
+      "album": {
+        "name": "ENDLESS",
+        "url": "https://open.spotify.com/album/5S2eS7V3fIj3zVrdTjEHH6"
+      },
+      "artists": [
+        {
+          "name": "Clowns",
+          "url": "https://open.spotify.com/artist/2TuGrkN9bcjWU1GcrUarYn"
+        }
+      ],
+      "date_added": "2023-10-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195525,
+      "name": "SCARED TO DIE",
+      "url": "https://open.spotify.com/track/5egHfv3MM6LMHHTrkowFru"
     },
     {
       "album": {

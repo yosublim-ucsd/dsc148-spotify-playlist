@@ -2,7 +2,7 @@
 
 ### [Latin Christmas Classics](https://open.spotify.com/playlist/37i9dQZF1DX8qhRpXsdDY5)
 
-> Classic Latin tunes to get you in the Christmas spirit\. Cover: José Feliciano
+> Latin classics to get you in the Christmas spirit\. Cover: José Feliciano
 
 233 songs - 13 hr 51 min
 

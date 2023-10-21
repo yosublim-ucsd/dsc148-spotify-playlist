@@ -4,7 +4,7 @@
 
 > These LGBTQIA+ trailblazers knocked doors wide open with their music\. Cover: Tracy Chapman
 
-66 songs - 4 hr 14 min
+67 songs - 4 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,7 +18,8 @@
 | [Chanel](https://open.spotify.com/track/6Nle9hKrkL1wQpwNfEkxjh) | [Frank Ocean](https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM) | [Chanel](https://open.spotify.com/album/6OGzmhzHcjf0uN9j7dYvZH) | 3:30 | 2022-05-31 | 2023-06-02 |
 | [Closer to Fine](https://open.spotify.com/track/7rKyITVLEwldhdXIy7P6Vw) | [Indigo Girls](https://open.spotify.com/artist/4wM29TDTr3HI0qFY3KoSFG) | [Indigo Girls \(Expanded Edition\)](https://open.spotify.com/album/1rkuKm5mDoauq9XKjRV94x) | 4:01 | 2022-05-31 |  |
 | [Come To My Window](https://open.spotify.com/track/4LmlGaGTEbTGE5VngAbpA3) | [Melissa Etheridge](https://open.spotify.com/artist/01Ppu7N8uYJI8SAONo2YZA) | [Yes I Am](https://open.spotify.com/album/1qzfqlEyzPD0VyCcSSQwZD) | 3:56 | 2022-05-31 |  |
-| [Comin' Down](https://open.spotify.com/track/0HK3x7CCx8bFLFavoBqk4N) | [Jackie Shane](https://open.spotify.com/artist/6AXXiSvB6R7MpYsXW1inOx) | [Any Other Way](https://open.spotify.com/album/42dV7ReU7TgD0NCeDfLJUt) | 2:37 | 2022-05-31 |  |
+| [Comin' Down](https://open.spotify.com/track/0HK3x7CCx8bFLFavoBqk4N) | [Jackie Shane](https://open.spotify.com/artist/6AXXiSvB6R7MpYsXW1inOx) | [Any Other Way](https://open.spotify.com/album/42dV7ReU7TgD0NCeDfLJUt) | 2:37 | 2022-05-31 | 2023-10-21 |
+| [Comin' Down](https://open.spotify.com/track/6IKVrI3dGHr9sTifS9jf8m) | [Jackie Shane](https://open.spotify.com/artist/6AXXiSvB6R7MpYsXW1inOx) | [In My Tenement / Comin' Down](https://open.spotify.com/album/5eqJDQaYGJr9094yNm4XxJ) | 2:37 | 2023-06-01 |  |
 | [Constant Craving](https://open.spotify.com/track/0wCrg1LhgPcGMw51qqpI6k) | [k.d\. lang](https://open.spotify.com/artist/6W1BHDF0T4a4KYcSwzD586) | [Recollection](https://open.spotify.com/album/22TXLyA5GOT19O9hIdAHLE) | 4:37 | 2022-05-31 |  |
 | [Deceptacon](https://open.spotify.com/track/4l0HxP8wm5iWHqo9myvFsm) | [Le Tigre](https://open.spotify.com/artist/2n6FviARgtjjimZXu18uRM) | [Le Tigre](https://open.spotify.com/album/5k3SJlcTe5aDF7gDkcBnOL) | 3:04 | 2022-05-31 |  |
 | [Desire](https://open.spotify.com/track/6mH8uF35AIWGlmcQZMAQ9v) | [Years & Years](https://open.spotify.com/artist/5vBSrE1xujD2FXYRarbAXc) | [Communion \(Deluxe\)](https://open.spotify.com/album/09mWpzpUOSjjvK2iNqEIYn) | 3:26 | 2022-05-31 |  |

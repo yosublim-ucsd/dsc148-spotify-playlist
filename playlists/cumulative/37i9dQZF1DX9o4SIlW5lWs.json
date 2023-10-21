@@ -2983,6 +2983,24 @@
     },
     {
       "album": {
+        "name": "Loco",
+        "url": "https://open.spotify.com/album/7gFB9vr46W5vtS6LUXHQHK"
+      },
+      "artists": [
+        {
+          "name": "Valentino Merlo",
+          "url": "https://open.spotify.com/artist/55ru5B05MMBunM1tvH7Di6"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145204,
+      "name": "Loco",
+      "url": "https://open.spotify.com/track/4OWh4q7qfZpVFFXmmbnLbd"
+    },
+    {
+      "album": {
         "name": "Y la cumbia se baila as\u00ed...",
         "url": "https://open.spotify.com/album/1C4JGlucUtnJGEBj7I9BQN"
       },
@@ -4175,6 +4193,28 @@
     },
     {
       "album": {
+        "name": "Pideme la luna",
+        "url": "https://open.spotify.com/album/0O4nyQIKiBo9JaDBzkY94W"
+      },
+      "artists": [
+        {
+          "name": "Ke Aparato",
+          "url": "https://open.spotify.com/artist/6wIYNVaeKZpSC4asngCp6M"
+        },
+        {
+          "name": "Repiola",
+          "url": "https://open.spotify.com/artist/14rsSkmuSkij7q3SNsZSHQ"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171076,
+      "name": "Pideme la Luna",
+      "url": "https://open.spotify.com/track/69dck8DkCQr45RNexlWZq0"
+    },
+    {
+      "album": {
         "name": "Ep N-Blq 33",
         "url": "https://open.spotify.com/album/5h61fNKIiR3eleB74l8xCv"
       },
@@ -4486,7 +4526,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-21",
       "duration_ms": 211044,
       "name": "Quitame Ese Hombre",
       "url": "https://open.spotify.com/track/4VmrRnnsNxAQysmVMePzxt"
@@ -5936,7 +5976,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-21",
       "duration_ms": 215186,
       "name": "Vete",
       "url": "https://open.spotify.com/track/2P1NF2ouvMc3aOjeXdfynr"

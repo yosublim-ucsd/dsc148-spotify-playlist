@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7lk7hiGiH2z.md) - [plain]
 
 > Süßes sonst gibt's Saures! 🎃
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,439 likes - 45 songs - 2 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,591 likes - 45 songs - 2 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,9 +36,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7lk7hiGiH2z.md) - [plain]
 | 26 | [Monster & Drachen](https://open.spotify.com/track/5dWlVr7ZsSosxpoZO2KiHT) | [Dota Kehr](https://open.spotify.com/artist/4r6pmr8iusCbyG0TSi6Aga) | [Unter meinem Bett 4](https://open.spotify.com/album/6urz9b8HGTbqHBYOejq7c4) | 3:44 |
 | 27 | [Paranormal](https://open.spotify.com/track/6dmdfDexEUn0aSPgZQLbrv) | [Dolini](https://open.spotify.com/artist/4XKVz2WC7nZStQsHJv7zyS) | [Paranormal](https://open.spotify.com/album/7p7huTAyXP2i2WdfyB32rB) | 4:12 |
 | 28 | [Halloween Song](https://open.spotify.com/track/6NQJCS8jFOzOZfW0AgLJ5G) | [Bibi Blocksberg](https://open.spotify.com/artist/3t2iKODSDyzoDJw7AsD99u) | [Halloween Song](https://open.spotify.com/album/2xDOcXB86nEYmmb0tk6Sca) | 2:29 |
-| 29 | [Flattermaus](https://open.spotify.com/track/1P2KltPsS5Y2uC06zMgdtS) | [Die schwarzen Tasten \(mit Tobias Siebert von Klez.e\)](https://open.spotify.com/artist/2zebFEEqLv5mUOhyU7KWvn) | [Unter meinem Bett 4](https://open.spotify.com/album/6urz9b8HGTbqHBYOejq7c4) | 4:30 |
+| 29 | [Hui Buh \- Das Schlossgespenst](https://open.spotify.com/track/74skypXEi8IWrHoXZZ8sw8) | [Michael Schanze](https://open.spotify.com/artist/3qZlcxiBZnekq0NeAnPLy4), [Hans Clarin](https://open.spotify.com/artist/6i6Rf2vtI1fQ4E9oXx6oZX) | [Danke Rudi!](https://open.spotify.com/album/0PaCAksrWV8EIPLMdYmGAe) | 3:12 |
 | 30 | [Thriller \- Single Version](https://open.spotify.com/track/20efeySIfZoiSaISGLBbNs) | [Michael Jackson](https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm) | [The Essential Michael Jackson](https://open.spotify.com/album/77dNyQA0z8dV33M4so4eRY) | 5:12 |
-| 31 | [Hui Buh \- Das Schlossgespenst](https://open.spotify.com/track/74skypXEi8IWrHoXZZ8sw8) | [Michael Schanze](https://open.spotify.com/artist/3qZlcxiBZnekq0NeAnPLy4), [Hans Clarin](https://open.spotify.com/artist/6i6Rf2vtI1fQ4E9oXx6oZX) | [Danke Rudi!](https://open.spotify.com/album/0PaCAksrWV8EIPLMdYmGAe) | 3:12 |
+| 31 | [Flattermaus](https://open.spotify.com/track/1P2KltPsS5Y2uC06zMgdtS) | [Die schwarzen Tasten \(mit Tobias Siebert von Klez.e\)](https://open.spotify.com/artist/2zebFEEqLv5mUOhyU7KWvn) | [Unter meinem Bett 4](https://open.spotify.com/album/6urz9b8HGTbqHBYOejq7c4) | 4:30 |
 | 32 | [Dracula \- Remastered 2004](https://open.spotify.com/track/2qNDy6bmZyVnWJS8UeqbtA) | [Iris Gruttmann](https://open.spotify.com/artist/7ePL5iRMTwMrgA6DyFDA4l) | [Das große Felix Liederalbum 2](https://open.spotify.com/album/6UCseiCljsu6wn0tQuT5sq) | 4:49 |
 | 33 | [Hexentanz](https://open.spotify.com/track/1Ov76jLEZQsmTbPgqEFW4R) | [Volker Rosin](https://open.spotify.com/artist/4LDZtk1nfyhIx4bzDDHoBf) | [Discobär & Hexentanz](https://open.spotify.com/album/0usnfP6OACQXsJ2HtLFrx1) | 3:15 |
 | 34 | [Hexentanz](https://open.spotify.com/track/1neJ0rILtJuhFx6qFQM14S) | [Kinderchor Canzonetta Berlin](https://open.spotify.com/artist/2hPcTWItqk71rEzyaHQn7R), [Cattu der Traumfänger](https://open.spotify.com/artist/3k28tiwSdzje4lp5leH4Cx) | [Schau meine Hexe: Die schönsten Hexenlieder](https://open.spotify.com/album/0JEGG0YOqBir077LMClwRp) | 3:03 |
@@ -49,9 +49,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7lk7hiGiH2z.md) - [plain]
 | 39 | [Monster sind furchtbar](https://open.spotify.com/track/0hjaUOYr74luB7uhEVswQ9) | [Lauras Stern](https://open.spotify.com/artist/0xY8w0o3cSH3gzx4G4h8qD) | [Und die Traummonster \(Das Liederalbum zum Kinofilm\)](https://open.spotify.com/album/5rOYhAMUVFcoQSSRvhzEGe) | 3:28 |
 | 40 | [Monstertanz](https://open.spotify.com/track/1f7uRXBYPTZlq4uReNhFkY) | [Lila Lindwurm](https://open.spotify.com/artist/0PFXbbuM2IbvroXt2nGDoj) | [Monsterquatsch und Wackelzähne](https://open.spotify.com/album/4bE9UWQnSHZNN8xfAbSjvE) | 2:50 |
 | 41 | [Klapprige Knochen](https://open.spotify.com/track/7s7HHMpOqIklT2QAS1Kyyc) | [Volker Rosin](https://open.spotify.com/artist/4LDZtk1nfyhIx4bzDDHoBf) | [Das Kamel tanzt gern Cha Cha Cha](https://open.spotify.com/album/5CR8hZVrX8rTT2L2ZgCAb8) | 2:53 |
-| 42 | [Monsterparty](https://open.spotify.com/track/43fpx6UumXkrClViE5kfrV) | [LiederTiger](https://open.spotify.com/artist/0IONm6X452z32t8YECr2Zt) | [Kinderlieder für die Party \- EP](https://open.spotify.com/album/1Axi7PGr2v3JLEHHkoLAK7) | 2:10 |
-| 43 | [Halloweenparty im Kinderhaus](https://open.spotify.com/track/1YfNhJPhbmjhYsAfWU580m) | [Bettina Göschl](https://open.spotify.com/artist/2251fylYeBdwEiMHin6jeA), [Ulrich Maske](https://open.spotify.com/artist/1sW5adZ5VrzGmAZMIY0VSG), [Klaus\-Peter Wolf](https://open.spotify.com/artist/4uJ3i5zuKgoTPuz0pSZreo), [Matthias Meyer\-Göllner](https://open.spotify.com/artist/3wSCObv8i1PanMKLjj3hhC) | [Wir tanzen mit den Drachen im Wind \(Lieder, Geschichten und Gedichte zur Herbstzeit\)](https://open.spotify.com/album/1q5GB9X82GVAQTrTYVghkU) | 2:13 |
-| 44 | [Drei kleine Hexen](https://open.spotify.com/track/7prmyyJSIZbY7ZwlczWG0T) | [Rainer Wenzel](https://open.spotify.com/artist/0Pqj7d09m594nU0ckKJ9vh) | [Au Backe!](https://open.spotify.com/album/15TCbswxpNzD23AJJIG78I) | 2:48 |
+| 42 | [Halloweenparty im Kinderhaus](https://open.spotify.com/track/1YfNhJPhbmjhYsAfWU580m) | [Bettina Göschl](https://open.spotify.com/artist/2251fylYeBdwEiMHin6jeA), [Ulrich Maske](https://open.spotify.com/artist/1sW5adZ5VrzGmAZMIY0VSG), [Klaus\-Peter Wolf](https://open.spotify.com/artist/4uJ3i5zuKgoTPuz0pSZreo), [Matthias Meyer\-Göllner](https://open.spotify.com/artist/3wSCObv8i1PanMKLjj3hhC) | [Wir tanzen mit den Drachen im Wind \(Lieder, Geschichten und Gedichte zur Herbstzeit\)](https://open.spotify.com/album/1q5GB9X82GVAQTrTYVghkU) | 2:13 |
+| 43 | [Drei kleine Hexen](https://open.spotify.com/track/7prmyyJSIZbY7ZwlczWG0T) | [Rainer Wenzel](https://open.spotify.com/artist/0Pqj7d09m594nU0ckKJ9vh) | [Au Backe!](https://open.spotify.com/album/15TCbswxpNzD23AJJIG78I) | 2:48 |
+| 44 | [Monsterparty](https://open.spotify.com/track/43fpx6UumXkrClViE5kfrV) | [LiederTiger](https://open.spotify.com/artist/0IONm6X452z32t8YECr2Zt) | [Kinderlieder für die Party \- EP](https://open.spotify.com/album/1Axi7PGr2v3JLEHHkoLAK7) | 2:10 |
 | 45 | [In der Disko an der Geisterbahn](https://open.spotify.com/track/0Cf54rLmoPvCl3qL4DNP5n) | [Patricia](https://open.spotify.com/artist/5uhEKaUlEsILfNbjIiyZKo) | [Tanz doch mit!](https://open.spotify.com/album/444GkGF5I3iqs8YTAJSWzz) | 2:58 |
 
-Snapshot ID: `MCw2MTQzMTU4NzZhY2JmYjU1MWM2NmE4MjIzNzY2ZWU0YjcwYWE2MDcw`
+Snapshot ID: `MCw0ZTA5NGNmYzE0YzNkYzQ3ZTM0ZjkwZWZhNmNmOGY4MDhmZGQ2MjRk`

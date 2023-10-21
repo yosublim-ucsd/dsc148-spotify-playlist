@@ -288,7 +288,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-21",
       "duration_ms": 170880,
       "name": "Blow",
       "url": "https://open.spotify.com/track/6WKnqc5R9mjCTOlP2LiymZ"
@@ -368,7 +368,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-21",
       "duration_ms": 270720,
       "name": "Closer - Radio Edit",
       "url": "https://open.spotify.com/track/57YS2mQSZ2tvUMTbFlHvyC"
@@ -678,7 +678,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-21",
       "duration_ms": 178080,
       "name": "Heads In The Sky",
       "url": "https://open.spotify.com/track/3ZItkcRy61j0124JgCf0Tn"
@@ -864,7 +864,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-21",
       "duration_ms": 202500,
       "name": "Lights Come On",
       "url": "https://open.spotify.com/track/6GJVvN7zZdtB5Ymz2Ylnqw"
@@ -1289,6 +1289,24 @@
     },
     {
       "album": {
+        "name": "Rapid Funk",
+        "url": "https://open.spotify.com/album/2Sda8z8d1q68BwwYc6aGRV"
+      },
+      "artists": [
+        {
+          "name": "HNQO",
+          "url": "https://open.spotify.com/artist/6pkEHKolF0GKjOdbbIEuUg"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 335157,
+      "name": "Rapid Funk",
+      "url": "https://open.spotify.com/track/1etCgtpxiueemTIDxGYpDP"
+    },
+    {
+      "album": {
         "name": "Rhythm Don't Lie",
         "url": "https://open.spotify.com/album/0NDyZ6yUM0wnQUnywgJy7X"
       },
@@ -1326,7 +1344,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-21",
       "duration_ms": 204566,
       "name": "Rise Up",
       "url": "https://open.spotify.com/track/6Hqrdy1CKiqNvkrfNi9o81"
@@ -1348,7 +1366,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-21",
       "duration_ms": 232000,
       "name": "Roots",
       "url": "https://open.spotify.com/track/4TB0mfOWHxa2OhbCQRU9BB"
@@ -1384,7 +1402,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-21",
       "duration_ms": 329032,
       "name": "Something New",
       "url": "https://open.spotify.com/track/7AHDj60kuOh54SKmWm0TZJ"
@@ -1486,10 +1504,28 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-21",
       "duration_ms": 165230,
       "name": "Take It Slow",
       "url": "https://open.spotify.com/track/4vl3yZOTqu7y2WMB0kMvND"
+    },
+    {
+      "album": {
+        "name": "Take Me",
+        "url": "https://open.spotify.com/album/5g3Ev0vfFzVB8G4O8iYsxj"
+      },
+      "artists": [
+        {
+          "name": "Scorsi",
+          "url": "https://open.spotify.com/artist/0LQKGvxOXZHDCxuite9zcT"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206456,
+      "name": "Take Me",
+      "url": "https://open.spotify.com/track/0g7WVbBprvTUuRznA32ZU5"
     },
     {
       "album": {

@@ -490,7 +490,7 @@
       ],
       "date_added": "2022-05-17",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-17",
+      "date_removed": null,
       "duration_ms": 293960,
       "name": "Ground On Down",
       "url": "https://open.spotify.com/track/6THh5CL5PYf7OqOq9pTqNb"
@@ -580,7 +580,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-21",
       "duration_ms": 286950,
       "name": "Invincible",
       "url": "https://open.spotify.com/track/6NTaNlVIeigg3ERXef5wjM"
@@ -670,7 +670,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-21",
       "duration_ms": 223289,
       "name": "Jumpin' Jack Flash - Mono Version",
       "url": "https://open.spotify.com/track/3V4XaPTKFMigQEqzH9HDKS"
@@ -764,6 +764,24 @@
       "duration_ms": 190760,
       "name": "Life, Love & Laughter",
       "url": "https://open.spotify.com/track/4d0mp3RK1yCY2RkWvLibNV"
+    },
+    {
+      "album": {
+        "name": "Light On",
+        "url": "https://open.spotify.com/album/5zbsXC9sAXCkpNjso1U3au"
+      },
+      "artists": [
+        {
+          "name": "Sublime With Rome",
+          "url": "https://open.spotify.com/artist/3XXrhkZKSGd3CUJQFnx5tQ"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205373,
+      "name": "Light On",
+      "url": "https://open.spotify.com/track/1mAqeDjQMfKhjT6nLyQBZQ"
     },
     {
       "album": {

@@ -1,13 +1,61 @@
 {
   "description": "Let this smooth mix carry you home in style.",
-  "num_followers": 503762,
+  "num_followers": 503856,
   "original_name": "Evening Commute",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwMGRiZjRlZWEwMzljZTliOWY3MmIzZDgxMzU5N2M1YzcyOGMwNzEx",
+  "snapshot_id": "MCw2NmY3MDA3ZWNiYTFjMTA5OTllM2ZhYWQ1NjllMDE4YTIxZTI5NmI1",
   "tracks": [
+    {
+      "added_at": "2023-10-20 04:01:00",
+      "album": {
+        "name": "23",
+        "url": "https://open.spotify.com/album/2MqqJKk8mBYUBtYLZr9B0g"
+      },
+      "artists": [
+        {
+          "name": "Lawrence",
+          "url": "https://open.spotify.com/artist/5rwUYLyUq8gBsVaOUcUxpE"
+        }
+      ],
+      "duration_ms": 191139,
+      "name": "23",
+      "url": "https://open.spotify.com/track/5ctdVr5OyY7dZZhcsFeK9W"
+    },
+    {
+      "added_at": "2023-10-20 04:01:00",
+      "album": {
+        "name": "SUNDAY AT FOXWOODS",
+        "url": "https://open.spotify.com/album/6YYgBgZ9yBTZ0l0Wpk9NSQ"
+      },
+      "artists": [
+        {
+          "name": "BOYS LIKE GIRLS",
+          "url": "https://open.spotify.com/artist/0vWCyXMrrvMlCcepuOJaGI"
+        }
+      ],
+      "duration_ms": 180727,
+      "name": "MIRACLE",
+      "url": "https://open.spotify.com/track/5nzB0LJDNELDNb06PQMrWF"
+    },
+    {
+      "added_at": "2023-10-20 04:01:00",
+      "album": {
+        "name": "In His Mania",
+        "url": "https://open.spotify.com/album/2woJZoFrOoeKSHIftNknKp"
+      },
+      "artists": [
+        {
+          "name": "Spencer Sutherland",
+          "url": "https://open.spotify.com/artist/6mjz3NMhNE5SK7GsbJIg6C"
+        }
+      ],
+      "duration_ms": 190819,
+      "name": "Jealousy",
+      "url": "https://open.spotify.com/track/4pwt8iULKdutuGAPp4gxr5"
+    },
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
@@ -59,22 +107,6 @@
       "duration_ms": 178840,
       "name": "Love Somebody Again",
       "url": "https://open.spotify.com/track/5oMEctLBPeeRe1VvYiN8xP"
-    },
-    {
-      "added_at": "2023-09-22 04:01:00",
-      "album": {
-        "name": "NEW LOVE",
-        "url": "https://open.spotify.com/album/2lFihMx6pGcLNn6glKRvwM"
-      },
-      "artists": [
-        {
-          "name": "BOYS LIKE GIRLS",
-          "url": "https://open.spotify.com/artist/0vWCyXMrrvMlCcepuOJaGI"
-        }
-      ],
-      "duration_ms": 223200,
-      "name": "NEW LOVE",
-      "url": "https://open.spotify.com/track/4jxLWRKAzXyV8xmUJg7fpF"
     },
     {
       "added_at": "2023-10-13 04:01:00",
@@ -757,22 +789,6 @@
       "url": "https://open.spotify.com/track/2Jh44UZ8vuwjxtQlbxJJki"
     },
     {
-      "added_at": "2023-09-29 04:01:00",
-      "album": {
-        "name": "Finish Line",
-        "url": "https://open.spotify.com/album/5VhP72XtpbnGMOKTOjvAKK"
-      },
-      "artists": [
-        {
-          "name": "Billy Lockett",
-          "url": "https://open.spotify.com/artist/2lKeiALM1T2TZrOiTYlLNA"
-        }
-      ],
-      "duration_ms": 202000,
-      "name": "Finish Line",
-      "url": "https://open.spotify.com/track/3nRnQHg6DkhWMEIm4iJYdV"
-    },
-    {
       "added_at": "2023-09-04 21:51:37",
       "album": {
         "name": "Blonde",
@@ -1147,22 +1163,6 @@
       "duration_ms": 195221,
       "name": "Hyperfixations",
       "url": "https://open.spotify.com/track/0SbasC0l8MIf8EEIsC4gIi"
-    },
-    {
-      "added_at": "2023-09-04 21:51:37",
-      "album": {
-        "name": "Dippin My Feet",
-        "url": "https://open.spotify.com/album/2S2jgHkv3R3lmc92DPHSjy"
-      },
-      "artists": [
-        {
-          "name": "Rick Astley",
-          "url": "https://open.spotify.com/artist/0gxyHStUsqpMadRV0Di1Qt"
-        }
-      ],
-      "duration_ms": 193013,
-      "name": "Dippin My Feet",
-      "url": "https://open.spotify.com/track/0hb9885MfdqibhnFysxCon"
     },
     {
       "added_at": "2023-09-04 21:51:37",

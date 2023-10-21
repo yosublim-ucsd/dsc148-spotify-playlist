@@ -486,7 +486,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-21",
       "duration_ms": 241640,
       "name": "Christmas Time Is Here (feat. Diana Krall)",
       "url": "https://open.spotify.com/track/3HbTfyLd5T3gqCVuil03Gc"
@@ -664,7 +664,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-21",
       "duration_ms": 277360,
       "name": "Don't Save It All for Christmas Day",
       "url": "https://open.spotify.com/track/4ruIMJnh6mPhiNWE9amaEF"
@@ -820,7 +820,7 @@
       ],
       "date_added": "2022-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-21",
       "duration_ms": 281973,
       "name": "Grown-Up Christmas List (feat. Kelly Clarkson)",
       "url": "https://open.spotify.com/track/47qXmZMqUZDXSnP5zONlwY"
@@ -874,7 +874,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-21",
       "duration_ms": 263693,
       "name": "Happy New Year",
       "url": "https://open.spotify.com/track/4AsvGVDWs16fqIiIdDzyvX"
@@ -1130,7 +1130,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-21",
       "duration_ms": 183412,
       "name": "Here Comes Santa Claus (Right Down Santa Claus Lane)",
       "url": "https://open.spotify.com/track/0oxUZhytpftSGgBGDVlCMb"
@@ -1210,10 +1210,28 @@
       ],
       "date_added": "2022-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-21",
       "duration_ms": 181026,
       "name": "Holiday Party",
       "url": "https://open.spotify.com/track/2ZiKXOsDvx9TfXIJT5cZGN"
+    },
+    {
+      "album": {
+        "name": "Christmas",
+        "url": "https://open.spotify.com/album/4Eeeg4yMb5qtMEm0lk6lDM"
+      },
+      "artists": [
+        {
+          "name": "Cher",
+          "url": "https://open.spotify.com/artist/72OaDtakiy6yFqkt4TsiFt"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179213,
+      "name": "I Like Christmas",
+      "url": "https://open.spotify.com/track/7vbUA4qsHGQy7weCqhVmus"
     },
     {
       "album": {
@@ -1456,7 +1474,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-21",
       "duration_ms": 120693,
       "name": "Jingle Bells - Remastered 1999",
       "url": "https://open.spotify.com/track/4HEOgBHRCExyYVeTyrXsnL"
@@ -1474,7 +1492,7 @@
       ],
       "date_added": "2022-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-21",
       "duration_ms": 186484,
       "name": "Joy To The World",
       "url": "https://open.spotify.com/track/69RcXwRKDJdUtkZyF5D925"
@@ -1496,7 +1514,7 @@
       ],
       "date_added": "2022-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-21",
       "duration_ms": 224083,
       "name": "Kissin' In The Cold",
       "url": "https://open.spotify.com/track/2nZq5WQOW4FEPxCVTdNGfB"
@@ -1514,7 +1532,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-21",
       "duration_ms": 212453,
       "name": "Last Christmas",
       "url": "https://open.spotify.com/track/1jjuOT18tPbqXhaxvsBani"
@@ -1608,7 +1626,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-21",
       "duration_ms": 155453,
       "name": "Let It Snow! Let It Snow! Let It Snow! (with The B. Swanson Quartet)",
       "url": "https://open.spotify.com/track/4kKdvXD0ez7jp1296JmAts"
@@ -1648,7 +1666,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-21",
       "duration_ms": 221165,
       "name": "Linus & Lucy - Recorded at Spotify Studios NYC",
       "url": "https://open.spotify.com/track/0NZqj0STahY0l4UR81wQj4"
@@ -1666,7 +1684,7 @@
       ],
       "date_added": "2022-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-21",
       "duration_ms": 260693,
       "name": "Little Drummer Boy",
       "url": "https://open.spotify.com/track/2caTMVusg4KWdjYwNCnCtl"
@@ -1778,10 +1796,28 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-21",
       "duration_ms": 182946,
       "name": "Mistletoe",
       "url": "https://open.spotify.com/track/54K9GOVJqIaDZNXLnnxiKc"
+    },
+    {
+      "album": {
+        "name": "Wrapped In Red",
+        "url": "https://open.spotify.com/album/7Jahqd1kx9Qau0E9x9iZj6"
+      },
+      "artists": [
+        {
+          "name": "Kelly Clarkson",
+          "url": "https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169093,
+      "name": "My Favorite Things",
+      "url": "https://open.spotify.com/track/3DzYn4QDEQcyLMD1DQTbYw"
     },
     {
       "album": {
@@ -1796,7 +1832,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-21",
       "duration_ms": 173026,
       "name": "O Holy Night",
       "url": "https://open.spotify.com/track/6wCg6AcRdhQCwD0bh0F8zb"
@@ -1875,6 +1911,24 @@
     },
     {
       "album": {
+        "name": "Christmas",
+        "url": "https://open.spotify.com/album/4Eeeg4yMb5qtMEm0lk6lDM"
+      },
+      "artists": [
+        {
+          "name": "Cher",
+          "url": "https://open.spotify.com/artist/72OaDtakiy6yFqkt4TsiFt"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175693,
+      "name": "Please Come Home For Christmas",
+      "url": "https://open.spotify.com/track/2iBWfWGVv8MbL1Q4NCCk1z"
+    },
+    {
+      "album": {
         "name": "Please Come Home For Christmas",
         "url": "https://open.spotify.com/album/08IMJctnRCU6sW75YKjbpw"
       },
@@ -1886,7 +1940,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-21",
       "duration_ms": 197093,
       "name": "Please Come Home For Christmas",
       "url": "https://open.spotify.com/track/3cZRpCsi78sk2u4XW0vosp"
@@ -1904,10 +1958,32 @@
       ],
       "date_added": "2022-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-21",
       "duration_ms": 199080,
       "name": "Please Come Home for Christmas (Bells Will Be Ringing)",
       "url": "https://open.spotify.com/track/2mTtNTa2fnj9m4uyBbKPDr"
+    },
+    {
+      "album": {
+        "name": "Christmas",
+        "url": "https://open.spotify.com/album/4Eeeg4yMb5qtMEm0lk6lDM"
+      },
+      "artists": [
+        {
+          "name": "Cher",
+          "url": "https://open.spotify.com/artist/72OaDtakiy6yFqkt4TsiFt"
+        },
+        {
+          "name": "Cyndi Lauper",
+          "url": "https://open.spotify.com/artist/2BTZIqw0ntH9MvilQ3ewNY"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187880,
+      "name": "Put A Little Holiday In Your Heart (with Cyndi Lauper)",
+      "url": "https://open.spotify.com/track/0DSOt7MdnrRyh8oT8w1t6r"
     },
     {
       "album": {
@@ -2369,6 +2445,28 @@
     },
     {
       "album": {
+        "name": "No\u00ebl (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/27Ovu2vEYcN7dcd27yRkGg"
+      },
+      "artists": [
+        {
+          "name": "Josh Groban",
+          "url": "https://open.spotify.com/artist/6cXMpsP9x0SH4kFfMyVezF"
+        },
+        {
+          "name": "Faith Hill",
+          "url": "https://open.spotify.com/artist/25NQNriVT2YbSW80ILRWJa"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273573,
+      "name": "The First No\u00ebl (with Faith Hill)",
+      "url": "https://open.spotify.com/track/5fhjN7E4rV0GqsRSQBsWeo"
+    },
+    {
+      "album": {
         "name": "The Complete RCA Christmas Collection",
         "url": "https://open.spotify.com/album/6QSSyJyDQVshrNr7SnqKsE"
       },
@@ -2384,6 +2482,24 @@
       "duration_ms": 239293,
       "name": "The Twelve Days of Christmas",
       "url": "https://open.spotify.com/track/1phlddT9rezMBppm6WDVdW"
+    },
+    {
+      "album": {
+        "name": "These are Special Times",
+        "url": "https://open.spotify.com/album/5k27z7TrQn2O0mKMoiwHzN"
+      },
+      "artists": [
+        {
+          "name": "C\u00e9line Dion",
+          "url": "https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247840,
+      "name": "These Are the Special Times",
+      "url": "https://open.spotify.com/track/6HGf1xWwfRXPrjsRRygAPX"
     },
     {
       "album": {
@@ -2456,7 +2572,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-21",
       "duration_ms": 120960,
       "name": "Waltz Of The Flowers",
       "url": "https://open.spotify.com/track/71puJ5SVGNpKvK1sq0TMQ9"
@@ -2546,10 +2662,32 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-21",
       "duration_ms": 148146,
       "name": "What Christmas Means To Me",
       "url": "https://open.spotify.com/track/1V0qqWBbIWt8hlAjxTZedR"
+    },
+    {
+      "album": {
+        "name": "Christmas",
+        "url": "https://open.spotify.com/album/4Eeeg4yMb5qtMEm0lk6lDM"
+      },
+      "artists": [
+        {
+          "name": "Cher",
+          "url": "https://open.spotify.com/artist/72OaDtakiy6yFqkt4TsiFt"
+        },
+        {
+          "name": "Stevie Wonder",
+          "url": "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155360,
+      "name": "What Christmas Means To Me (with Stevie Wonder)",
+      "url": "https://open.spotify.com/track/6DIA408m0Am7GDTqCzsI59"
     },
     {
       "album": {

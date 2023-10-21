@@ -1705,6 +1705,24 @@
     },
     {
       "album": {
+        "name": "Empire",
+        "url": "https://open.spotify.com/album/0JRjksr7Dl8jX1ecE4r3uK"
+      },
+      "artists": [
+        {
+          "name": "Metropole Orkest",
+          "url": "https://open.spotify.com/artist/7JYdpWAsiqzrmMB3qxkEbI"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 287075,
+      "name": "Empire",
+      "url": "https://open.spotify.com/track/37IQoTfeVqNx5Q4KtUKgkD"
+    },
+    {
+      "album": {
         "name": "The Best of Groove Collective",
         "url": "https://open.spotify.com/album/6Z3d1nnm9V24kAb6t5ejuj"
       },
@@ -6034,7 +6052,7 @@
       ],
       "date_added": "2020-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-21",
       "duration_ms": 317957,
       "name": "Tell Me What To Do",
       "url": "https://open.spotify.com/track/5sModgX43bJ4fgnSRtLBVA"

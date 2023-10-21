@@ -1,12 +1,12 @@
 {
   "description": "A new take on a classic sound. Cover: Idina Menzel",
-  "num_followers": 100103,
+  "num_followers": 100145,
   "original_name": "Nu-Disco",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhYjVlYjczYTE3NGIwNTRmNTFkNzk3YTUwZDI0NTFiNWViYzIyNjJl",
+  "snapshot_id": "MCxhNjQyNDUxYmJlNzg2NjM0MmYzN2M4YWM3ZmJlOWQ4MjVjNTA5ZjNh",
   "tracks": [
     {
       "added_at": "2023-10-13 04:01:00",
@@ -143,6 +143,26 @@
       "duration_ms": 266693,
       "name": "Voices (feat. Kylie Minogue)",
       "url": "https://open.spotify.com/track/4dZ6T0on5EctKPKjgcOzrY"
+    },
+    {
+      "added_at": "2023-10-20 04:00:00",
+      "album": {
+        "name": "Tension (The Remixes)",
+        "url": "https://open.spotify.com/album/6OCoaXc7qY2Y39b8FMTEb9"
+      },
+      "artists": [
+        {
+          "name": "Kylie Minogue",
+          "url": "https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA"
+        },
+        {
+          "name": "Chromeo",
+          "url": "https://open.spotify.com/artist/2mV8aJphiSHYJf43DxL7Gt"
+        }
+      ],
+      "duration_ms": 246533,
+      "name": "Tension (Chromeo Remix)",
+      "url": "https://open.spotify.com/track/1FvLE1PSYgWy9t98gHyoz8"
     },
     {
       "added_at": "2023-09-15 04:01:00",
@@ -995,30 +1015,6 @@
       "duration_ms": 277438,
       "name": "The One That Got Away (feat. Obi Franky)",
       "url": "https://open.spotify.com/track/2zL0FVFVuoOBKhnNgKqGws"
-    },
-    {
-      "added_at": "2023-03-03 05:01:00",
-      "album": {
-        "name": "Light It Up",
-        "url": "https://open.spotify.com/album/6hd0Nf6SxuPSFbXsY9flai"
-      },
-      "artists": [
-        {
-          "name": "Shor Police",
-          "url": "https://open.spotify.com/artist/58Wsx9FbcjSM8a6kzLf03W"
-        },
-        {
-          "name": "Clinton Cerejo",
-          "url": "https://open.spotify.com/artist/2j9QVMZlqIj4Cb9UISBrXK"
-        },
-        {
-          "name": "Bianca Gomes",
-          "url": "https://open.spotify.com/artist/1vM5cIvyQYTdXXXHl5IV6T"
-        }
-      ],
-      "duration_ms": 194230,
-      "name": "Light It Up",
-      "url": "https://open.spotify.com/track/4NbaHNlUDO4ZUHEA3bPhrG"
     },
     {
       "added_at": "2022-07-29 04:02:00",

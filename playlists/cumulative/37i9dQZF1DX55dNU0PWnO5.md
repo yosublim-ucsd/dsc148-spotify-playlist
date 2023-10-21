@@ -4,7 +4,7 @@
 
 > Jazzy blips and blops\. Cover: berlioz
 
-382 songs - 23 hr 14 min
+383 songs - 23 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -174,6 +174,7 @@
 | [Inner Peace](https://open.spotify.com/track/0EncdyFKNletEI25jFT3Ao) | [Matt Wilde](https://open.spotify.com/artist/3zcRSyyzkg8qI2WPvXLaek), [Natty Reeves](https://open.spotify.com/artist/1fsSvgFWoQcgRDGyG6ZY64) | [Inner Peace](https://open.spotify.com/album/0oR0oXCg9PwlH5b0OglHBI) | 3:06 | 2022-04-15 |  |
 | [Intergalactic](https://open.spotify.com/track/33VfE4Ilw8MV3ZDKMpMHOm) | [Zeitgeist Freedom Energy Exchange](https://open.spotify.com/artist/2qDY4ib71XUC2Lo87r6HdM) | [Sci\-Fi Jazz Directions](https://open.spotify.com/album/0HD8XFL6F0sWMA73qPf78M) | 4:40 | 2022-08-08 |  |
 | [Intergalactic](https://open.spotify.com/track/69fbNFD7BeSj8IGqitLgqx) | [Zeitgeist Freedom Energy Exchange](https://open.spotify.com/artist/2qDY4ib71XUC2Lo87r6HdM) | [Intergalactic](https://open.spotify.com/album/4HmOs59sBZSsq3Kc052Nmp) | 4:40 | 2022-07-29 | 2022-08-26 |
+| [Intrusive Thoughts](https://open.spotify.com/track/6LoIULr7zGBlFJ7EDO8Ooq) | [Noah Rosen](https://open.spotify.com/artist/70WoazqQpqk0OaycqsPAmf) | [Intrusive Thoughts](https://open.spotify.com/album/4FhjqWL3DOx3rQGahA36v6) | 3:36 | 2023-10-20 |  |
 | [Intuition](https://open.spotify.com/track/7bK5fHHqzAUtQJlm5qMwbM) | [Elusive](https://open.spotify.com/artist/3omtF8ft7xflvmvfO5WUjI) | [Intuition](https://open.spotify.com/album/0NWMYeboKfGcIFnIFtmOkG) | 2:19 | 2022-11-18 | 2023-07-01 |
 | [Intuition](https://open.spotify.com/track/6no4jGyKsioNovuPIRMEns) | [Elusive](https://open.spotify.com/artist/3omtF8ft7xflvmvfO5WUjI) | [DejaViews](https://open.spotify.com/album/1gCZzLZXtsu2ZHFSmwtlJH) | 2:19 | 2022-11-25 |  |
 | [Island](https://open.spotify.com/track/2E3ihnEdEMY93Di07AugjH) | [Kiefer](https://open.spotify.com/artist/5lDtfHPqWN6MG9tFywnW8J) | [Bridges](https://open.spotify.com/album/6ubpIukPn7xjjeNOI5Wjix) | 3:16 | 2021-01-29 | 2022-02-27 |
@@ -257,7 +258,7 @@
 | [PPL \-PingPongLounge\-](https://open.spotify.com/track/6ACvAgc7FB9uBo3JKfnomk) | [LADAISLE](https://open.spotify.com/artist/1ccn3ILGtQ8vZIN0ZAWM1r) | [PPL \-PingPongLounge\-](https://open.spotify.com/album/4pxiAlpT6JAnUltiA33cmr) | 1:54 | 2021-02-19 | 2022-07-29 |
 | [Princess Meadow \(Morning\)](https://open.spotify.com/track/63KBUxunksAInY8IP2e15L) | [Joy Guerrilla](https://open.spotify.com/artist/1wKZCBliNvp21MffTj35TE) | [Princess Meadow \(Morning\)](https://open.spotify.com/album/0H8FLIbILUgsdxj2xkZJQK) | 2:11 | 2022-04-25 |  |
 | [PRNDL.exe](https://open.spotify.com/track/0e769kt6Sk1QMKZdeveyKx) | [PRNDL](https://open.spotify.com/artist/7lSHLl0pD4rZ1vrBZ0yVPU) | [PRNDL.wav](https://open.spotify.com/album/5iXVTGoscfB9MMl5YB8Hjr) | 2:57 | 2022-04-15 |  |
-| [Psicótico](https://open.spotify.com/track/0tgW4mrNhIvYjAQrlyYsLt) | [Noah Rosen](https://open.spotify.com/artist/70WoazqQpqk0OaycqsPAmf) | [Levels](https://open.spotify.com/album/7424QyIbYun7pe8Fw1xRpx) | 4:17 | 2023-05-12 |  |
+| [Psicótico](https://open.spotify.com/track/0tgW4mrNhIvYjAQrlyYsLt) | [Noah Rosen](https://open.spotify.com/artist/70WoazqQpqk0OaycqsPAmf) | [Levels](https://open.spotify.com/album/7424QyIbYun7pe8Fw1xRpx) | 4:17 | 2023-05-12 | 2023-10-21 |
 | [Pulse](https://open.spotify.com/track/0L23Lh4ALOAJSUVBxHWLMt) | [Slowya.roll](https://open.spotify.com/artist/3VlbOrMVyRIrtVE71jLu6N), [Matt Zara](https://open.spotify.com/artist/7esr72Ko5ghnnhZZSAxqHL) | [Pulse](https://open.spotify.com/album/47fhitalFxOfp647SOyW6y) | 3:32 | 2021-12-03 |  |
 | [r&r](https://open.spotify.com/track/3h1sX3o4ZqOQpVtxL3U1mE) | [berlioz](https://open.spotify.com/artist/3k3RY7kR8f0vp8Cq27P141) | [jazz is for ordinary people](https://open.spotify.com/album/4WGxcr3aYMv1Dm6Xl1bwRN) | 3:27 | 2023-06-23 |  |
 | [Raz](https://open.spotify.com/track/1IHqcR48RW48H7S6sbiRC6) | [Studnitzky](https://open.spotify.com/artist/3B74gpltsxmayfY8oLTyc6) | [Nocturnal](https://open.spotify.com/album/0CMehAXs4eKAafMc7Ghy5X) | 5:12 | 2022-04-29 |  |

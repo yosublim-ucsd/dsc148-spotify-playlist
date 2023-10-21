@@ -153,6 +153,24 @@
     },
     {
       "album": {
+        "name": "Summer23",
+        "url": "https://open.spotify.com/album/0bFEzvjsasoFJt9OBJVeC0"
+      },
+      "artists": [
+        {
+          "name": "MERCURY",
+          "url": "https://open.spotify.com/artist/7nZUfrzMjY1kuooTJcg5s2"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251081,
+      "name": "After",
+      "url": "https://open.spotify.com/track/0TLoVayT4L0wK8XqSJmcnN"
+    },
+    {
+      "album": {
         "name": "Airborne Panic Attack",
         "url": "https://open.spotify.com/album/5FdmmdyUz9j9B4sE3iRZ1v"
       },
@@ -662,6 +680,24 @@
       "duration_ms": 159441,
       "name": "big deal",
       "url": "https://open.spotify.com/track/4GEZ6cKhqcm5IbZsEKwEv3"
+    },
+    {
+      "album": {
+        "name": "Big Shot",
+        "url": "https://open.spotify.com/album/6xsThAkPhe4okfWN4cQWu5"
+      },
+      "artists": [
+        {
+          "name": "Helmet",
+          "url": "https://open.spotify.com/artist/0qB0cTENhSUc0feov5qbg0"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163649,
+      "name": "Big Shot",
+      "url": "https://open.spotify.com/track/1W8E07hkLSmtkIbpWmh3gv"
     },
     {
       "album": {
@@ -1270,7 +1306,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-21",
       "duration_ms": 236130,
       "name": "Carrie & Lowell & Cody (Pendent)",
       "url": "https://open.spotify.com/track/5AzFP6taTTCZp0SU18jxpc"
@@ -1346,6 +1382,24 @@
       "duration_ms": 157704,
       "name": "Centipede",
       "url": "https://open.spotify.com/track/49xISBZpODXRwd7vVxGL93"
+    },
+    {
+      "album": {
+        "name": "Chalk",
+        "url": "https://open.spotify.com/album/5tN7YlTteG5wZV44sNx1r6"
+      },
+      "artists": [
+        {
+          "name": "Split Chain",
+          "url": "https://open.spotify.com/artist/5J0ehnVK9YOBGWOwE022ar"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149263,
+      "name": "Chalk",
+      "url": "https://open.spotify.com/track/4Cvpb8DicKbLSiftBmac99"
     },
     {
       "album": {
@@ -1656,6 +1710,28 @@
       "duration_ms": 205813,
       "name": "Coming Home (feat. Patrick Miranda)",
       "url": "https://open.spotify.com/track/7rg2l98HzPTXC7yU7WeRix"
+    },
+    {
+      "album": {
+        "name": "Constant Headache",
+        "url": "https://open.spotify.com/album/7bjfE4DXQd0lN46FX4wIwK"
+      },
+      "artists": [
+        {
+          "name": "Tigers Jaw",
+          "url": "https://open.spotify.com/artist/0tLaqkKW7K6tc3QF9SM0M8"
+        },
+        {
+          "name": "Joyce Manor",
+          "url": "https://open.spotify.com/artist/7qbvNcfTfckhCNM8NiR8nN"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181430,
+      "name": "Constant Headache",
+      "url": "https://open.spotify.com/track/2xJV9FaGKNMIecMOtjGxX0"
     },
     {
       "album": {
@@ -2244,7 +2320,7 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-21",
       "duration_ms": 185000,
       "name": "Down, Down",
       "url": "https://open.spotify.com/track/0miXex5MBdN0ddRL79GX4I"
@@ -3116,7 +3192,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-21",
       "duration_ms": 197661,
       "name": "Grab The Wheel",
       "url": "https://open.spotify.com/track/6Ah3fGbAzn3mjKIySvl4YI"
@@ -4385,6 +4461,24 @@
     },
     {
       "album": {
+        "name": "Long Way",
+        "url": "https://open.spotify.com/album/2DfwEF4SRYhYRfZNxX3Z2K"
+      },
+      "artists": [
+        {
+          "name": "Lonely The Brave",
+          "url": "https://open.spotify.com/artist/7Ks1xbMXEQjy9aQObTJdId"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206605,
+      "name": "Long Way",
+      "url": "https://open.spotify.com/track/2q8zC3kA9AYPKsreJ1BoFM"
+    },
+    {
+      "album": {
         "name": "I Don't Belong Anywhere",
         "url": "https://open.spotify.com/album/2tg6crJ0g14sgA9qDLpRT3"
       },
@@ -4576,7 +4670,7 @@
       ],
       "date_added": "2023-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-21",
       "duration_ms": 170823,
       "name": "medicine",
       "url": "https://open.spotify.com/track/0VplI6SpGj9EDZgI0ms9M4"
@@ -5214,7 +5308,7 @@
       ],
       "date_added": "2023-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-21",
       "duration_ms": 186724,
       "name": "Nothing's Stopping Me Now",
       "url": "https://open.spotify.com/track/4UjQm1Qfdjh4NXdisHSuve"
@@ -5509,6 +5603,24 @@
     },
     {
       "album": {
+        "name": "KILLJOY",
+        "url": "https://open.spotify.com/album/5Zdlzx59oEEXQk8Kyh6lmN"
+      },
+      "artists": [
+        {
+          "name": "Coach Party",
+          "url": "https://open.spotify.com/artist/4trP4C2bZ0TqMUxw0tLRAZ"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 97845,
+      "name": "Parasite",
+      "url": "https://open.spotify.com/track/4EDSWFoLE7TgCrl0Eol9dV"
+    },
+    {
+      "album": {
         "name": "Parasite",
         "url": "https://open.spotify.com/album/0tnF85Qv9oNbmb5JLjPwrJ"
       },
@@ -5736,7 +5848,7 @@
       ],
       "date_added": "2023-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-21",
       "duration_ms": 236335,
       "name": "Proud Of You",
       "url": "https://open.spotify.com/track/0PAyt2UZAFlt8IxUm6bVSS"
@@ -6474,7 +6586,7 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-21",
       "duration_ms": 238891,
       "name": "Slow Death",
       "url": "https://open.spotify.com/track/45VA3UoPgC89TWIwOdwxav"

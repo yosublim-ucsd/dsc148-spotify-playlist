@@ -4,7 +4,7 @@
 
 > The perfect study beats\. Find your focus, crush your productivity.
 
-1,633 songs - 2 day 14 hr 0 min
+1,634 songs - 2 day 14 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1232,6 +1232,7 @@
 | [Scoop Up](https://open.spotify.com/track/4ZS9Md0rSWfDB2dLPkZyRL) | [JoJo Mojo](https://open.spotify.com/artist/3rk7Py7nULekgVHb7BjVH0) | [Scoop Up](https://open.spotify.com/album/2CEE6ue2zB4J1jJ9kSv7Kc) | 2:38 | 2022-12-23 | 2023-03-09 |
 | [Scratch and Sniff](https://open.spotify.com/track/0fnBFV0cLqTXwueVyNxCfV) | [Jorge and the Homies](https://open.spotify.com/artist/4G7T4kiobBHfAdTZ1YBQLI) | [The Historic](https://open.spotify.com/album/1Zw1lBWIR5YPqktU1TzzYr) | 2:50 | 2022-06-03 | 2022-11-19 |
 | [Sea of Thoughts](https://open.spotify.com/track/22z4OBkJ2VmGA7dSssWsy7) | [Soft Vessels](https://open.spotify.com/artist/6O4ZIYrg1s0J5HP8Z1oitv) | [Sea of Thoughts](https://open.spotify.com/album/795sBvT2shhNGKZJoEcb6B) | 3:02 | 2023-09-29 |  |
+| [Seasons](https://open.spotify.com/track/6RUXqsK0MlNGXFWBfZs400) | [M.I Hakone](https://open.spotify.com/artist/1Gi5R2l9oX8zs5iiy2vP7v) | [Seasons](https://open.spotify.com/album/1Gi40W4rRup1t8B0p5Y5Yf) | 2:04 | 2023-10-20 |  |
 | [Seattle](https://open.spotify.com/track/6OXNET31Fn6HyFBwVz8f1Y) | [Calmster](https://open.spotify.com/artist/4mlXfx2yLZtLMkZfbNbjAv) | [Seattle](https://open.spotify.com/album/7z312yRo96Kz4FmncwfLjB) | 2:21 | 2023-03-08 |  |
 | [Secluded](https://open.spotify.com/track/666JrVm5hw76aOoSgkeel0) | [Lazy Vibes](https://open.spotify.com/artist/4PRdB2p7ISxBvBTcKu1sTP), [With Astronauts](https://open.spotify.com/artist/7xK52ziaXaAbj3dN3riYRa), [Lazy Noodles](https://open.spotify.com/artist/1Go1Dbj9TUeoivCiVps571) | [Secluded](https://open.spotify.com/album/4UdNJEBJQxAyVV1YR4Db2g) | 2:37 | 2022-04-15 | 2022-07-22 |
 | [secrets i keep](https://open.spotify.com/track/66mov52eOGweiC5cec6FSO) | [O k O](https://open.spotify.com/artist/54FTacKE0BxtzKWB19zsem) | [secrets i keep](https://open.spotify.com/album/6LKZY7oL4ZFI5Ba6MN8Rpv) | 2:01 | 2022-04-15 | 2022-12-09 |
@@ -1309,7 +1310,7 @@
 | [Soft Light](https://open.spotify.com/track/2Wsb2fbA8no8F1Xe6BJiTT) | [Jk Beatbook](https://open.spotify.com/artist/1MKTpWgmy1GOLELKgYsSBz) | [Soft Light](https://open.spotify.com/album/5FtyeuqHAhq5wLfKZ8TFD5) | 2:38 | 2023-04-20 |  |
 | [Soft Slap](https://open.spotify.com/track/3umoNiC2gyJ4oaGj7t74Zk) | [Dream Web](https://open.spotify.com/artist/0xhiRy2F05NVIpB4GKReES) | [Soft Slap](https://open.spotify.com/album/4KZNYiyOffr0ugdRRcgFMK) | 4:03 | 2022-04-15 | 2022-05-27 |
 | [Softly Spoken](https://open.spotify.com/track/2MUyfYFjFfoHmQ1LnsNOU0) | [Flavors](https://open.spotify.com/artist/6Amqc7UjJa19q4jrfAHA77), [floridomi](https://open.spotify.com/artist/4I3pwCrFsOXd1laaCNzziZ), [chief.](https://open.spotify.com/artist/0HCAzT0cSCpiNje7AcAQaD) | [Softly Spoken](https://open.spotify.com/album/0SBcRk7L26ySFBEMYWujkB) | 2:12 | 2022-12-02 | 2023-09-16 |
-| [Softly Whispering](https://open.spotify.com/track/6CVpyt67DY1JwuR8prqPmP) | [Convivial](https://open.spotify.com/artist/59HctYEqVbvHq6aJ766KPH) | [Softly Whispering](https://open.spotify.com/album/100YLSEn3RzaqIyNKQzEk3) | 3:07 | 2023-10-20 |  |
+| [Softly Whispering](https://open.spotify.com/track/6CVpyt67DY1JwuR8prqPmP) | [Convivial](https://open.spotify.com/artist/59HctYEqVbvHq6aJ766KPH) | [Softly Whispering](https://open.spotify.com/album/100YLSEn3RzaqIyNKQzEk3) | 3:07 | 2023-10-20 | 2023-10-21 |
 | [Solar](https://open.spotify.com/track/0HlH9RWqLzlop5jeuNVlxV) | [Louk](https://open.spotify.com/artist/6ljotXgL1sbhiI7aiF7W8O), [delaney.](https://open.spotify.com/artist/33mF58EgWRWcLJWIddSH7h) | [Solar](https://open.spotify.com/album/3Ffecx6cyJhztdHVkBs4nr) | 2:35 | 2023-01-20 | 2023-09-22 |
 | [solar power](https://open.spotify.com/track/5yD3bPDztGiHCicBLyeI8w) | [titicon](https://open.spotify.com/artist/5v5Qkgl02bizOecA6OY7p3) | [supernova beats \#1](https://open.spotify.com/album/0C7D11HuXwMTRj03jIdwhn) | 1:25 | 2022-04-15 | 2022-07-15 |
 | [Solutions](https://open.spotify.com/track/09o5eBgKfrfXh6JZBd5S6I) | [Uli Tiro](https://open.spotify.com/artist/0330hhfjAyvYe2YFcVaD4t) | [Cold Nights](https://open.spotify.com/album/0rwTZ7187ULO6YpLEDGSsf) | 1:46 | 2023-04-20 |  |

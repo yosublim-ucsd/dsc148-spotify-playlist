@@ -2,9 +2,9 @@
 
 ### [Novos Beats](https://open.spotify.com/playlist/37i9dQZF1DWSLpR93nYbUo)
 
-> Ouça as novidades da cena eletrônica\. Foto: Low Disco
+> Ouça as novidades da cena eletrônica\. Foto: Beltran
 
-121 songs - 6 hr 53 min
+129 songs - 7 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -45,6 +45,7 @@
 | [Get The F\*\*\* Down](https://open.spotify.com/track/14zDs39mus5oEs4DKZpcz4) | [EME](https://open.spotify.com/artist/004h2uqVUpmOuz4oY6aTqw) | [Get The F\*\*\* Down](https://open.spotify.com/album/2GAkMksQoYhAAm22ZVVQV0) | 2:32 | 2023-07-21 | 2023-10-07 |
 | [Girl](https://open.spotify.com/track/0zRVIO4GWFugJk5taaym0f) | [Phael](https://open.spotify.com/artist/1zWOPmDwXSO50211NJHi0g), [Cool 7rack](https://open.spotify.com/artist/4csVM6wJgy2PcaH8aKSkT7) | [Girl](https://open.spotify.com/album/0P3BWt3FWwy4PCiVo4xO4z) | 3:03 | 2023-10-06 |  |
 | [HALO](https://open.spotify.com/track/7qVhddvtZxC02rmzqwO5Fb) | [Elekfantz](https://open.spotify.com/artist/2qPvJviDwokwrQtNzR1Udv), [Bruno Be](https://open.spotify.com/artist/37UXlMGND0Tr7Su43RxHQ0) | [HALO](https://open.spotify.com/album/01G8MH9AZimcasPjp2ZPxQ) | 3:09 | 2023-09-15 |  |
+| [Haunting Me](https://open.spotify.com/track/1rYSTJRgyGCa5Yl1SXC5sR) | [Kyllow](https://open.spotify.com/artist/6nui7g90m8m7RWTdqMljnM) | [Haunting Me](https://open.spotify.com/album/4xRmlHLvoZ2OEISy3SJ7TC) | 4:51 | 2023-10-20 |  |
 | [HIGH](https://open.spotify.com/track/03AMYFWydfyeyv6v94N8rs) | [Hoost](https://open.spotify.com/artist/6YCbTELaAeqFQfjzVMcNG9) | [HIGH](https://open.spotify.com/album/1ioCS6aAaw6zmMl2pGwYqT) | 3:05 | 2023-07-21 | 2023-10-07 |
 | [High](https://open.spotify.com/track/6n4GYiUFj4A67Cc7U4j4Uq) | [Overdriver Duo](https://open.spotify.com/artist/37knAlDxPb6FSnBQJNzM18) | [High](https://open.spotify.com/album/0mJbAkaZOAW9eFGIVUoPcX) | 3:05 | 2023-07-21 |  |
 | [High & Low](https://open.spotify.com/track/1qGWZn2Xhvk2Svp6Od6p5S) | [BAF](https://open.spotify.com/artist/1mhpQdXVCnq31AwzgCPxK9), [BOOTY LEAK](https://open.spotify.com/artist/6C8sBC5U3LyUE4GoleJWvx) | [High & Low](https://open.spotify.com/album/4dcBZK2j3GrHCxUH4SrlyL) | 2:36 | 2023-07-21 | 2023-09-16 |
@@ -54,8 +55,10 @@
 | [Hold Up](https://open.spotify.com/track/3SHGhQYHrGgsRdLZGjjyxt) | [Tough Art](https://open.spotify.com/artist/6XiVEatJ4Bq46wONrrSJwA) | [Hold Up](https://open.spotify.com/album/28XcE3EAhJSm7HhmYxKLNL) | 3:13 | 2023-08-04 |  |
 | [House Control](https://open.spotify.com/track/7tsH71rhspuf92v6wSldzM) | [The Fish House](https://open.spotify.com/artist/0TXfVIHlCROnWuH89PfnJj) | [House Control](https://open.spotify.com/album/5zihJErsGYTaRkZ7t7OyuB) | 1:55 | 2023-09-29 |  |
 | [I Just Wanna Be](https://open.spotify.com/track/76x5p6ksNyjjKJuUcQaNMN) | [Zoldan](https://open.spotify.com/artist/5qUFr89r11NBIg810d7wsU), [Camila Prado](https://open.spotify.com/artist/4KHE40K16DBCUkRmP3RyLu) | [I Just Wanna Be](https://open.spotify.com/album/4KDUAAmeJKcgdyRx6xjO5T) | 4:16 | 2023-07-21 | 2023-08-19 |
+| [I Need You](https://open.spotify.com/track/37Bz57c2aHf0G1SZSNlyYt) | [Kohen](https://open.spotify.com/artist/3Dkul6nShja7zaggvl66rB), [Adrian Mønteiro](https://open.spotify.com/artist/6ziI5fDvwg8r0QPT0nAT7r) | [I Need You](https://open.spotify.com/album/3WYVqWa7S671phWjQXi3hT) | 3:26 | 2023-10-20 |  |
 | [It's On You](https://open.spotify.com/track/3wJ3sXzuGNSgPSR7UPBNMD) | [Santti](https://open.spotify.com/artist/7e6KqpXfInWHjdQufAnsyj) | [It's On You](https://open.spotify.com/album/4FeYJE7QmZnyYTBiPG8VV7) | 3:23 | 2023-07-21 |  |
 | [Its Love](https://open.spotify.com/track/0CAsG2mvqgwPBu9V3eO3WE) | [Gangbang](https://open.spotify.com/artist/4xAlQ5oAnU0WpbN23f9Dkz) | [Its Love](https://open.spotify.com/album/2DM6PaURTWTxvpJUZ3YlF5) | 5:20 | 2023-07-21 | 2023-09-30 |
+| [Kairos](https://open.spotify.com/track/6wd0dPO0ajkgBkhWD7jaw4) | [Bolth](https://open.spotify.com/artist/7kMmkgaZH7GfBD3WdOUqlD) | [Kairos](https://open.spotify.com/album/1HAbjNEmRND9a1AWMg0L2u) | 3:06 | 2023-10-20 |  |
 | [Knifes & Spoons](https://open.spotify.com/track/5XmPHUdiDDVNrcZRrJytaT) | [Raz](https://open.spotify.com/artist/6AaKVN1QdU3HMRWH7tDva3) | [Knifes & Spoons](https://open.spotify.com/album/4IBj2HCDkWTA6TWlJOxRnJ) | 1:16 | 2023-08-18 |  |
 | [Laha](https://open.spotify.com/track/5kaBa5XzSlgiwg4ArBDmRZ) | [Brisotti](https://open.spotify.com/artist/3L0kwteWrevLGtjvQVYLcl) | [Laha EP](https://open.spotify.com/album/4OTtTRp0v3SXcX42mj7QoU) | 6:14 | 2023-09-29 |  |
 | [Lay Down](https://open.spotify.com/track/2xjPXHyvzpg1cFzBPpjd2J) | [Voltech](https://open.spotify.com/artist/66DRc0RcwzeQcm1wKdDQ4o) | [Lay Down](https://open.spotify.com/album/4wfYn8TbTw3ROMnXWJEseB) | 2:59 | 2023-10-06 |  |
@@ -104,9 +107,11 @@
 | [Shattered Ego](https://open.spotify.com/track/55x1qja65P0L0m8VisGMN9) | [Bolth](https://open.spotify.com/artist/7kMmkgaZH7GfBD3WdOUqlD) | [Shattered Ego](https://open.spotify.com/album/4QDz9D4zU81o43991NumKu) | 3:34 | 2023-09-15 | 2023-09-30 |
 | [Show You](https://open.spotify.com/track/3Prgb5oHGJpaVanWZUHODc) | [Brannco](https://open.spotify.com/artist/27TqtA3DJFLCXv7o8h0GgL), [No ExpressioN](https://open.spotify.com/artist/6RNcIa7VcxBBIgW6boctFo) | [Show You](https://open.spotify.com/album/6Y3EKiOO4EVu4if9Ge0KMr) | 2:39 | 2023-07-21 | 2023-08-19 |
 | [Siento Siento](https://open.spotify.com/track/6gBzC3Aldrj78W0dLWgqC3) | [Almanac](https://open.spotify.com/artist/2EJxcRlcIa5W1u2v42PvTv) | [Siento Siento](https://open.spotify.com/album/1pGfEaQriYYtZhvP1GBc8p) | 2:57 | 2023-07-28 |  |
+| [So Bad](https://open.spotify.com/track/1ZYHIV76qQYr59eIMqF92C) | [Vitor Bueno](https://open.spotify.com/artist/5iI1l0DvdS2382GUHF4bsi), [3Beat](https://open.spotify.com/artist/6GygHIe8zmVX42gMgFQ3z8), [LÖÖC](https://open.spotify.com/artist/4qWBiHPlkgepfncAsj1Zzu) | [So Bad](https://open.spotify.com/album/2vDifuf2AOtvrxVUbBZYGw) | 2:25 | 2023-10-20 |  |
 | [So Beautiful](https://open.spotify.com/track/1yLkoxMWyzo39M5AIeEceQ) | [Flux Zone](https://open.spotify.com/artist/5bc0ZhQrLswD1dDqRNvc5S) | [So Beautiful](https://open.spotify.com/album/23RzzkhH3R2swSwhasgq3N) | 5:30 | 2023-07-21 | 2023-10-14 |
 | [Still Alone \- Radio Mix](https://open.spotify.com/track/1Tdm1UZvAGhuftWElWq1SX) | [Bolth](https://open.spotify.com/artist/7kMmkgaZH7GfBD3WdOUqlD), [Airsand](https://open.spotify.com/artist/4rlSlj2XnxKA05eZ7sLWSC), [TuraniQa](https://open.spotify.com/artist/7kXkMWoPg5UfAc4LQmfI9V) | [Still Alone](https://open.spotify.com/album/6yuKeb3lMCXGSqnDfRIU86) | 3:16 | 2023-09-01 |  |
 | [Supermodel](https://open.spotify.com/track/4xwTi99Mgyecsb4MbujBQc) | [Slow Sense](https://open.spotify.com/artist/03wQGBVieetF4FUmhKHRpK) | [Supermodel](https://open.spotify.com/album/5YygfYum5iE1KeXOqvSQg5) | 2:38 | 2023-07-21 | 2023-09-16 |
+| [SUPRA](https://open.spotify.com/track/0scxHDtdgt3k0mQkQW86lE) | [Obzkure](https://open.spotify.com/artist/2A0Vr6jboum6XRvVfMD3Tl) | [Supra](https://open.spotify.com/album/28ERZnx6OhIDz3YZT2dGHF) | 2:43 | 2023-10-20 |  |
 | [Take \- Radio Edit](https://open.spotify.com/track/3p3di0xn3SIvOSxoI3wNVf) | [Phael](https://open.spotify.com/artist/1zWOPmDwXSO50211NJHi0g), [Cool 7rack](https://open.spotify.com/artist/4csVM6wJgy2PcaH8aKSkT7) | [Take](https://open.spotify.com/album/4t1IuRk9pZRPXKRvJsqRUP) | 2:30 | 2023-08-11 |  |
 | [Take It](https://open.spotify.com/track/3E6pRr10U7gMno9Ryz6HFC) | [Kubi](https://open.spotify.com/artist/6ePfLvMTRs5ma91LfsE523) | [Take It](https://open.spotify.com/album/5pZy8jhvkq18dX4LoEHuem) | 3:33 | 2023-07-21 | 2023-09-23 |
 | [Tasty](https://open.spotify.com/track/1T0qmEAMLiRkei11Xouph3) | [Gustavo Mota](https://open.spotify.com/artist/045FVvBNAc7VnPYvzAJpO1), [INGEK](https://open.spotify.com/artist/2gk1ww8aKvkheN0f6WJ0G2) | [Tasty](https://open.spotify.com/album/3GfSnsAJoEar9vU5DcKbxa) | 2:20 | 2023-09-29 |  |
@@ -119,7 +124,9 @@
 | [Tira A Camisa](https://open.spotify.com/track/74wXmElNAq0vNBS47FiZSz) | [Almanac](https://open.spotify.com/artist/2EJxcRlcIa5W1u2v42PvTv) | [Tira A Camisa](https://open.spotify.com/album/2uNjixcI6TJrlOcJfbJyuF) | 3:00 | 2023-09-22 |  |
 | [Tonight](https://open.spotify.com/track/4xF3hjfUUEAOQESZmBwbnv) | [Royale BR](https://open.spotify.com/artist/6OLLWuyehNLw5nFKLok3gs) | [Tonight](https://open.spotify.com/album/04F8y4KfwMra5M1l3gplna) | 3:00 | 2023-08-25 |  |
 | [Trippin](https://open.spotify.com/track/4iU5SbOCM3kEdkOV8Isbm1) | [Low Disco](https://open.spotify.com/artist/2vIT4AnEcrFuJaS2JYYVjx) | [Refused EP](https://open.spotify.com/album/6vX6OrdwL9rJwQold48e9C) | 3:16 | 2023-10-13 |  |
+| [Try](https://open.spotify.com/track/6SdMZ4jklZZNtuzNVQZPCY) | [Royale BR](https://open.spotify.com/artist/6OLLWuyehNLw5nFKLok3gs) | [Try](https://open.spotify.com/album/37WRmPS6elxB9UQZw84GTH) | 2:26 | 2023-10-20 |  |
 | [Tugudu](https://open.spotify.com/track/7pobnc2nZR6B1BWXksLPz9) | [Gustavo Mota](https://open.spotify.com/artist/045FVvBNAc7VnPYvzAJpO1) | [Tugudu](https://open.spotify.com/album/4X8ykiffFeI1RPpC0gVAxr) | 3:31 | 2023-09-01 |  |
+| [Unfair](https://open.spotify.com/track/3YvkoTPtxXvcEfs3vcZQVl) | [Beltran](https://open.spotify.com/artist/1jgSqmZTBltb5O2L7ErmEP) | [Unfair](https://open.spotify.com/album/0wGiod0Vq6XPiade8rEpbZ) | 4:07 | 2023-10-20 |  |
 | [Up N' Down \(feat\. JmNPR\)](https://open.spotify.com/track/0XT1NN2f0Zb3vjW4Z46Bmi) | [Deeper Purpose](https://open.spotify.com/artist/10Bo1ofGMWr6hFD7OM7W7r), [BRN](https://open.spotify.com/artist/3yujwOo5L5DZDOcGj8K9fj), [JmNPR](https://open.spotify.com/artist/30tkBTplmnwCCDx8Ueuau2) | [Up N' Down \(feat\. JmNPR\)](https://open.spotify.com/album/6q9a42z7A1E3a19aRcO1j9) | 3:28 | 2023-09-29 |  |
 | [Vai no Chão 2k23 \- Original Mix](https://open.spotify.com/track/6BH2EOiwGPsa99fYTOdPAr) | [Blaf Music \(Br\)](https://open.spotify.com/artist/3PvFN3ThKEI7t79YEW9M41), [Ali\_live](https://open.spotify.com/artist/03pwYVt6u2LbrDCUYnjGHz), [Cool 7rack](https://open.spotify.com/artist/4csVM6wJgy2PcaH8aKSkT7) | [Vai no Chão 2k23 \(Original Mix\)](https://open.spotify.com/album/39BfhReJ5DS5fOrM2nYdzy) | 3:54 | 2023-07-21 | 2023-09-23 |
 | [Velocidade](https://open.spotify.com/track/14QQZUBzohHF1BBSKZ1wfO) | [Almanac](https://open.spotify.com/artist/2EJxcRlcIa5W1u2v42PvTv) | [Velocidade](https://open.spotify.com/album/7LmXgG6EOwRJ5468fhAbI6) | 2:38 | 2023-08-25 |  |
@@ -128,6 +135,7 @@
 | [Wertzeung \- Radio Edit](https://open.spotify.com/track/25muAqGzh4IDJEXuvJ7sun) | [BAKKA \(BR\)](https://open.spotify.com/artist/5VQhfKlaFyzx7Kz1VEF2u8) | [Wertzeung](https://open.spotify.com/album/6QYbCPH3AiTO31FYcQuc0W) | 4:38 | 2023-07-21 | 2023-09-16 |
 | [What I Am](https://open.spotify.com/track/4e3UcIEatVBWujQdjHxBK6) | [GREG \(BR\)](https://open.spotify.com/artist/7K7I6veLj1PPzsrzVP6B79), [Gusty](https://open.spotify.com/artist/1EGzWaoNjgTZAYZgB1EwxW) | [What I Am](https://open.spotify.com/album/76XR4xB0JIm2gCizeu6pWu) | 2:38 | 2023-07-21 | 2023-09-16 |
 | [You Give Me a Feelin'](https://open.spotify.com/track/3WZvq6eOdH8nvtJHHINa23) | [SPECT3R](https://open.spotify.com/artist/4NWK1Lp9NUDfJpAnSmAo4t) | [You Give Me a Feelin'](https://open.spotify.com/album/7p3bpCZZ4VhXmcJJ3g1r3D) | 3:10 | 2023-07-21 | 2023-10-14 |
+| [Your Hands](https://open.spotify.com/track/21BVw3x8eljRQ7MHPV4vn6) | [Reezer](https://open.spotify.com/artist/0A0qH0k5vzwUrAAjcxZsN0) | [Your Hands](https://open.spotify.com/album/4d1U4rr00SMGwUeDqDNClS) | 2:54 | 2023-10-20 |  |
 | [Your Vibe](https://open.spotify.com/track/4EFch1nFqMzYj4fc4H9FUJ) | [Douth!](https://open.spotify.com/artist/3YGDb5v2LDFC9eNap5mpLz) | [Sensations](https://open.spotify.com/album/57QWCatGiqsnXk7qx1zYVV) | 3:39 | 2023-07-21 | 2023-10-07 |
 
 \*This playlist was first scraped on 2023-07-23. Prior content cannot be recovered.

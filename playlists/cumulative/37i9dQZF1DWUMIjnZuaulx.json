@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-01",
-  "description": "New songs from some of the latest and greatest Gospel music artists.  Cover: <a href=\"spotify:artist:22JNV0JWTJkY1qzKJhxdRe\">Travis Greene</a> and <a href=\"spotify:artist:58bqbgcmYuTyHDGGkHbrFH\">Forward City</a>",
+  "description": "New songs from some of the latest and greatest Gospel music artists.  Cover: <a href=\"spotify:artist:5ynRYAGjyPDE8unsFqi6MH\">Jekalyn Carr</a>",
   "name": "Fresh Gospel",
   "tracks": [
     {
@@ -1828,7 +1828,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-21",
       "duration_ms": 361821,
       "name": "God Of War (feat. ELEVATION RHYTHM)",
       "url": "https://open.spotify.com/track/5bHwjz8ENwXYFSmvsj9yzN"
@@ -1884,6 +1884,24 @@
       "duration_ms": 619333,
       "name": "God Turned It Around",
       "url": "https://open.spotify.com/track/5DGDEsOU9MovPuq0QRnbUG"
+    },
+    {
+      "album": {
+        "name": "God's Got Me",
+        "url": "https://open.spotify.com/album/2Hiq7pOHFd5lr2Yzrrw817"
+      },
+      "artists": [
+        {
+          "name": "Anthony Brown & group therAPy",
+          "url": "https://open.spotify.com/artist/4sgW8IRub0jAU29ecct87w"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 304680,
+      "name": "God's Got Me",
+      "url": "https://open.spotify.com/track/1wdPmjjm7MMWa50LNEPXNO"
     },
     {
       "album": {
@@ -7094,7 +7112,7 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-21",
       "duration_ms": 239266,
       "name": "Up Up Up (Introducing Zach Savage)",
       "url": "https://open.spotify.com/track/7g2SHePUAGKT8M9omdRmcy"
@@ -7834,6 +7852,24 @@
       "duration_ms": 358794,
       "name": "You Are",
       "url": "https://open.spotify.com/track/00c4MRmVGJS9cSZSxJju2F"
+    },
+    {
+      "album": {
+        "name": "JEKALYN",
+        "url": "https://open.spotify.com/album/4juJvUDtZiY996RJKlIxrK"
+      },
+      "artists": [
+        {
+          "name": "Jekalyn Carr",
+          "url": "https://open.spotify.com/artist/5ynRYAGjyPDE8unsFqi6MH"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 303647,
+      "name": "You Carried Me - Jekalyn's Version",
+      "url": "https://open.spotify.com/track/2q6utlOBBdiOMZ4TcQ1CRj"
     },
     {
       "album": {

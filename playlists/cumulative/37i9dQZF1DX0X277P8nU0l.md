@@ -4,7 +4,7 @@
 
 > Un café, un croissant et c‘est parti pour une bonne journée.
 
-162 songs - 9 hr 21 min
+163 songs - 9 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -83,7 +83,8 @@
 | [late night thoughts](https://open.spotify.com/track/3DZxxkVLybnofY4K2od9yW) | [shy martin](https://open.spotify.com/artist/7eCmccnRwPmRnWPw61x6jM) | [late night thoughts](https://open.spotify.com/album/6jjduNuyly6Y40kJWl5UZN) | 2:25 | 2023-02-09 | 2023-08-18 |
 | [Let Me In](https://open.spotify.com/track/08DHfDUaD0UH7INX02dbYf) | [Two Another](https://open.spotify.com/artist/35RvGPQ1OxbEZknWyiaAcs) | [Let Me In](https://open.spotify.com/album/3tob4xK2ghAVtEgTm7L7MQ) | 3:14 | 2023-01-26 | 2023-07-18 |
 | [Let's Get It On \- Flight Facilities Remix](https://open.spotify.com/track/6ouv16a31Ye7CouHrXL1I1) | [Marvin Gaye](https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA), [Flight Facilities](https://open.spotify.com/artist/1lc8mnyGrCLtPhCoWjRxjM) | [Let's Get It On \(Flight Facilities Remix\)](https://open.spotify.com/album/6dZyWgMFgbt59jwFN3MhZD) | 6:32 | 2022-12-21 | 2023-01-20 |
-| [Letting Go](https://open.spotify.com/track/3aiMthkGe3NgAEeaQywc2E) | [Hollow Coves](https://open.spotify.com/artist/7IAFAOtc9kTYNTizhLSWM6) | [Letting Go](https://open.spotify.com/album/6dnVKCwrjGIduN61L1uBmL) | 3:29 | 2023-10-19 |  |
+| [Letting Go](https://open.spotify.com/track/3aiMthkGe3NgAEeaQywc2E) | [Hollow Coves](https://open.spotify.com/artist/7IAFAOtc9kTYNTizhLSWM6) | [Letting Go](https://open.spotify.com/album/6dnVKCwrjGIduN61L1uBmL) | 3:29 | 2023-10-19 | 2023-10-21 |
+| [Letting Go](https://open.spotify.com/track/5PTZ3ef9lHE6YJqxp9nhh9) | [Hollow Coves](https://open.spotify.com/artist/7IAFAOtc9kTYNTizhLSWM6) | [Letting Go](https://open.spotify.com/album/6i9Q0J3gdMhjra2NRrb5B4) | 3:29 | 2023-10-19 |  |
 | [lighthouse](https://open.spotify.com/track/0v74b7nJnB4khRqiA8E3b9) | [Oscar Anton](https://open.spotify.com/artist/1g3dAnqp218LiNN9ng5dIh) | [postcard from NYC](https://open.spotify.com/album/0UjDR2kB0enEGBNDBGwQvR) | 2:18 | 2022-12-21 | 2023-02-10 |
 | [Like I Am](https://open.spotify.com/track/3a7ZJkD9zBIl1V1YKkTLZR) | [Ásgeir](https://open.spotify.com/artist/7xUZ4069zcyBM4Bn10NQ1c) | [Time On My Hands](https://open.spotify.com/album/0t8kLm7w7kw5k97T8iUge9) | 5:01 | 2022-12-21 | 2023-02-28 |
 | [Little Boy](https://open.spotify.com/track/7ocg33uDEQMpymbOnmWsQc) | [SAULT](https://open.spotify.com/artist/1uRxRKC7d9zwYGSRflTKDR) | [Untitled \(Rise\)](https://open.spotify.com/album/0K8jX7CLwxJaML5iXdxveF) | 3:53 | 2022-12-21 | 2023-03-25 |

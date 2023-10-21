@@ -196,10 +196,28 @@
       ],
       "date_added": "2022-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-21",
       "duration_ms": 157200,
       "name": "Comin' Down",
       "url": "https://open.spotify.com/track/0HK3x7CCx8bFLFavoBqk4N"
+    },
+    {
+      "album": {
+        "name": "In My Tenement / Comin' Down",
+        "url": "https://open.spotify.com/album/5eqJDQaYGJr9094yNm4XxJ"
+      },
+      "artists": [
+        {
+          "name": "Jackie Shane",
+          "url": "https://open.spotify.com/artist/6AXXiSvB6R7MpYsXW1inOx"
+        }
+      ],
+      "date_added": "2023-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157200,
+      "name": "Comin' Down",
+      "url": "https://open.spotify.com/track/6IKVrI3dGHr9sTifS9jf8m"
     },
     {
       "album": {

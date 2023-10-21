@@ -4,7 +4,7 @@
 
 > Cool vibes from the African continent.
 
-252 songs - 14 hr 23 min
+253 songs - 14 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -82,6 +82,7 @@
 | [Follow You](https://open.spotify.com/track/6RVmK3M5NsB2jwTUKiKp84) | [Fiokee](https://open.spotify.com/artist/0dIKXNriGyVYvw6Cw2jko5), [chike](https://open.spotify.com/artist/6zK1M4TcabpLQMNmmG2P0Q), [Gyakie](https://open.spotify.com/artist/1zO1FWFxxNUCqUuGATxZQZ) | [Follow You](https://open.spotify.com/album/5nf9tUvabTiuSMxGg93SF4) | 3:11 | 2021-10-11 | 2022-03-11 |
 | [Forbidden Fruit](https://open.spotify.com/track/0TpJiBJbQubqmn2xV7hw2E) | [Le Ru](https://open.spotify.com/artist/2Kgd8TvR0MGJ0NRFkGX0DJ) | [Forbidden Fruit](https://open.spotify.com/album/4LEk3GyCDWif1VgveeNHn0) | 2:57 | 2021-10-11 | 2022-02-25 |
 | [Foreigner](https://open.spotify.com/track/1nIhLChEGB8Y2dP7CHt3PN) | [Nonso Amadi](https://open.spotify.com/artist/6pOz4M7D8ENqfLSFvciEuV) | [Foreigner](https://open.spotify.com/album/4JUUgaTGiFYaZmA4mXlieZ) | 3:54 | 2022-02-24 | 2023-09-22 |
+| [Free](https://open.spotify.com/track/5T9CAx0lK25jCTj7LRAjHL) | [Darkie Fiction](https://open.spotify.com/artist/4cdFNn4RtIOX2pIS3Ye3Vg) | [Free](https://open.spotify.com/album/6DqoAUmZnzAE3quXt0bAgq) | 2:07 | 2023-10-20 |  |
 | [Free \(Sounds for Healing\)](https://open.spotify.com/track/3t2gYy9cEWzsM1bfb37tJa) | [WurlD](https://open.spotify.com/artist/5x2vmU3Hj2Y66luW7c7vIn), [Major League Djz](https://open.spotify.com/artist/0N3AcLTAS3vcx93PxN2Agb), [Yumbs](https://open.spotify.com/artist/2HLr9NzCqd6XRnpUSM6CvH) | [Free \(Sounds for Healing\)](https://open.spotify.com/album/1qa2PJk618Xu942YIcnnkQ) | 4:22 | 2022-10-13 |  |
 | [Furah](https://open.spotify.com/track/5ddDDkPFaCkbl9WBBlFeI4) | [Pson](https://open.spotify.com/artist/1Fxk1V3Q9mWXoUKX1LnEAt) | [Furah](https://open.spotify.com/album/5rD89G23WIlfKzGbGXiJJx) | 3:44 | 2023-01-19 | 2023-09-15 |
 | [FYN](https://open.spotify.com/track/0kmVNMFtYuiN3vjyxsyZZS) | [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS), [AJ Tracey](https://open.spotify.com/artist/4Xi6LSfFqv26XgP9NKN26U) | [Rave & Roses](https://open.spotify.com/album/0xrTH9uvOL1BoFAOR61zTG) | 3:27 | 2022-03-16 | 2023-02-17 |
@@ -246,7 +247,7 @@
 | [This Time \(feat\. Ami Faku\)](https://open.spotify.com/track/1fIXzuAcGq0mZqGkAy5Zs9) | [Nasty C](https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj), [Ami Faku](https://open.spotify.com/artist/3flcjKgRCeBVZTR8n8iShE) | [I Love It Here](https://open.spotify.com/album/3BzDtldlIXJJGh9Qc7tbLK) | 3:09 | 2023-09-14 |  |
 | [Ubala \(feat\. Sun\-El Musician\)](https://open.spotify.com/track/0n7R3uOg9iZI3vNm7yHSAf) | [Simmy](https://open.spotify.com/artist/3MjlXVCfmLdY9QQ2GCd7iA), [Sun\-El Musician](https://open.spotify.com/artist/0W8WpLB5WoXLgiA193LXk6) | [Tugela Fairy](https://open.spotify.com/album/3MlcN8FdjM15IID3d9Jxqk) | 4:08 | 2021-10-11 | 2023-01-20 |
 | [Udo](https://open.spotify.com/track/2EBMAyCUrqzPPjzgU76Amw) | [The Cavemen.](https://open.spotify.com/artist/1cnBVQulaNSvbind6A0dVD) | [Love and Highlife](https://open.spotify.com/album/6cUiseAcWeWyF5mgeknpRU) | 2:57 | 2021-10-28 | 2022-02-25 |
-| [Vanilla](https://open.spotify.com/track/1iwJvEnt629eyc2GYB9hGm) | [DJ Tunez](https://open.spotify.com/artist/64oW4P0vsDhlorOxZKQi6a), [Amexin](https://open.spotify.com/artist/2IKBoibZDvoYFcmUV4wELI) | [Vanilla](https://open.spotify.com/album/5U93xnuGmhv3iIb3hUfgRV) | 2:58 | 2023-02-16 |  |
+| [Vanilla](https://open.spotify.com/track/1iwJvEnt629eyc2GYB9hGm) | [DJ Tunez](https://open.spotify.com/artist/64oW4P0vsDhlorOxZKQi6a), [Amexin](https://open.spotify.com/artist/2IKBoibZDvoYFcmUV4wELI) | [Vanilla](https://open.spotify.com/album/5U93xnuGmhv3iIb3hUfgRV) | 2:58 | 2023-02-16 | 2023-10-21 |
 | [Waiting](https://open.spotify.com/track/5XCYhCn9eDYIrfrdBiVhAy) | [Ukweli](https://open.spotify.com/artist/5I48tG854vS1rY1isuMOgQ), [Xenia Manasseh](https://open.spotify.com/artist/2J4IvVbi2h1wB2A0p5kd86) | [Waiting](https://open.spotify.com/album/4bRnHj1ApFBEVMbvEw4H7E) | 2:44 | 2022-02-03 | 2022-10-01 |
 | [Waxtu](https://open.spotify.com/track/0rVGeHX2i6H5Entk7tUiiH) | [Kya Loum](https://open.spotify.com/artist/2UJgfqn7JRdgfIRu3cNJFm) | [Niit](https://open.spotify.com/album/0gp7HDhEZinV3HSFIXyV08) | 3:27 | 2022-10-13 | 2022-11-04 |
 | [Whine](https://open.spotify.com/track/5nak8AyQcdWySH1laRzNkL) | [Nviiri The Storyteller](https://open.spotify.com/artist/7xPDTxQrpZPvvI0LzuO73p), [Bensoul](https://open.spotify.com/artist/09vo12hHajgG2cZzq0rGmE) | [Whine](https://open.spotify.com/album/539PRaW5N5GFhv7YnFAMHl) | 2:59 | 2022-03-31 | 2022-06-04 |

@@ -1,13 +1,61 @@
 {
-  "description": "Dark, hard hitting pop. Cover: Ari Abdul",
-  "num_followers": 388578,
+  "description": "Dark, hard hitting pop. Cover: Dove Cameron",
+  "num_followers": 388847,
   "original_name": "SALT",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkNjQ3MzU5YTRmYjdkMDkwNDJlNmE3YmNjYTA4ZGMzODc4YzVhZGYw",
+  "snapshot_id": "MCw3N2ViMzhmZTk4YjVkOGM5YjI0MTI3YTU0MmQwNmVhM2E4YjczN2U2",
   "tracks": [
+    {
+      "added_at": "2023-10-20 04:00:00",
+      "album": {
+        "name": "Lethal Woman",
+        "url": "https://open.spotify.com/album/25JZaVPcasGATDbLqizABZ"
+      },
+      "artists": [
+        {
+          "name": "Dove Cameron",
+          "url": "https://open.spotify.com/artist/2W8yFh0Ga6Yf3jiayVxwkE"
+        }
+      ],
+      "duration_ms": 126264,
+      "name": "Lethal Woman",
+      "url": "https://open.spotify.com/track/4GnjXzJfmPcVEt0S7zIS9L"
+    },
+    {
+      "added_at": "2023-10-20 04:00:00",
+      "album": {
+        "name": "Scatterbrain",
+        "url": "https://open.spotify.com/album/7nMsq0A9k3KjCNBPu2RN3v"
+      },
+      "artists": [
+        {
+          "name": "Emei",
+          "url": "https://open.spotify.com/artist/7E2aQQjErJocovYFjYLzWU"
+        }
+      ],
+      "duration_ms": 149125,
+      "name": "711",
+      "url": "https://open.spotify.com/track/0DRJILxCmuHsrJpYYqXMed"
+    },
+    {
+      "added_at": "2023-10-20 04:00:00",
+      "album": {
+        "name": "Grim Reaper",
+        "url": "https://open.spotify.com/album/0lCbxop4nU0dSKUdZ0rQ5Y"
+      },
+      "artists": [
+        {
+          "name": "bludnymph",
+          "url": "https://open.spotify.com/artist/7GwwoezwdbKvUaNgtg51pX"
+        }
+      ],
+      "duration_ms": 170322,
+      "name": "Grim Reaper",
+      "url": "https://open.spotify.com/track/1TWC0DUf4xXC2QqpBovlws"
+    },
     {
       "added_at": "2023-10-13 04:00:00",
       "album": {
@@ -23,6 +71,38 @@
       "duration_ms": 161171,
       "name": "Bite Marks",
       "url": "https://open.spotify.com/track/2iFoEIA2RSH1wt4i1LRiia"
+    },
+    {
+      "added_at": "2023-10-20 04:00:00",
+      "album": {
+        "name": "UPSAHL PRESENTS: THE PHX TAPES",
+        "url": "https://open.spotify.com/album/4ehJjs7mB5D5sTgsEAKG8Y"
+      },
+      "artists": [
+        {
+          "name": "UPSAHL",
+          "url": "https://open.spotify.com/artist/1294QqYm1VuxxjRiL9M0h9"
+        }
+      ],
+      "duration_ms": 137003,
+      "name": "NO HANDS (SIDE A)",
+      "url": "https://open.spotify.com/track/322B6Not1OsMLCCxHg6sZl"
+    },
+    {
+      "added_at": "2023-10-20 04:00:00",
+      "album": {
+        "name": "me-a-holic",
+        "url": "https://open.spotify.com/album/7oRhBhXgzzU1dB8svLcEaP"
+      },
+      "artists": [
+        {
+          "name": "Halle Abadi",
+          "url": "https://open.spotify.com/artist/7mA4vx3PZgpnmvmvYblrTW"
+        }
+      ],
+      "duration_ms": 128851,
+      "name": "me-a-holic",
+      "url": "https://open.spotify.com/track/4n3g8GiuRDZ8WzRd7sU6r0"
     },
     {
       "added_at": "2023-10-13 04:00:00",
@@ -61,6 +141,38 @@
       "url": "https://open.spotify.com/track/2YWQGk9zzkAkGXmjP027db"
     },
     {
+      "added_at": "2023-10-06 04:00:00",
+      "album": {
+        "name": "Midnights",
+        "url": "https://open.spotify.com/album/151w1FgRZfnKZA9FEcg9Z3"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "duration_ms": 164801,
+      "name": "Vigilante Shit",
+      "url": "https://open.spotify.com/track/1xwAWUI6Dj0WGC3KiUPN0O"
+    },
+    {
+      "added_at": "2023-10-20 04:00:00",
+      "album": {
+        "name": "VILLAIN",
+        "url": "https://open.spotify.com/album/6mwWQJgPfc49JAeOXDOgy9"
+      },
+      "artists": [
+        {
+          "name": "Neoni",
+          "url": "https://open.spotify.com/artist/38wxcfNEqMwuPniHvplin5"
+        }
+      ],
+      "duration_ms": 204000,
+      "name": "VILLAIN",
+      "url": "https://open.spotify.com/track/5Y7xJHElBKXnsKQvFtTZLb"
+    },
+    {
       "added_at": "2023-10-13 04:00:00",
       "album": {
         "name": "i should call my friends",
@@ -75,6 +187,22 @@
       "duration_ms": 159981,
       "name": "i should call my friends",
       "url": "https://open.spotify.com/track/7u0JipKqt3pIxbvgjOqd4R"
+    },
+    {
+      "added_at": "2023-10-20 04:00:00",
+      "album": {
+        "name": "yellow tape",
+        "url": "https://open.spotify.com/album/3Xl7pPxG692nUmLdRsePHE"
+      },
+      "artists": [
+        {
+          "name": "REI AMI",
+          "url": "https://open.spotify.com/artist/6U1dV7aL68N7Gb0Naq34V5"
+        }
+      ],
+      "duration_ms": 140128,
+      "name": "yellow tape",
+      "url": "https://open.spotify.com/track/6XAzStbS0JfyN17D6vNv2L"
     },
     {
       "added_at": "2023-10-13 04:00:00",
@@ -93,6 +221,22 @@
       "url": "https://open.spotify.com/track/5sp71CUt0jXRNqHblPGp7b"
     },
     {
+      "added_at": "2023-10-20 04:00:00",
+      "album": {
+        "name": "Now That I've Been Honest",
+        "url": "https://open.spotify.com/album/1XVQCnrnScVpeirmTCOZHz"
+      },
+      "artists": [
+        {
+          "name": "Maddie Zahm",
+          "url": "https://open.spotify.com/artist/5dtPlx7yKOo7KdZGyrfFIq"
+        }
+      ],
+      "duration_ms": 173906,
+      "name": "Bedroom",
+      "url": "https://open.spotify.com/track/7fnICPO0s3jcQ049Yk0EmV"
+    },
+    {
       "added_at": "2023-10-13 04:00:00",
       "album": {
         "name": "WEIRDO",
@@ -107,6 +251,22 @@
       "duration_ms": 150558,
       "name": "WEIRDO",
       "url": "https://open.spotify.com/track/4q0l0eybNVn3ae13cj4OBw"
+    },
+    {
+      "added_at": "2023-10-20 04:00:00",
+      "album": {
+        "name": "bug",
+        "url": "https://open.spotify.com/album/7v6BsEI6lQeLqzGXsI4Wjs"
+      },
+      "artists": [
+        {
+          "name": "KiNG MALA",
+          "url": "https://open.spotify.com/artist/5Lz5CnywFeg4Rs4l76OtG2"
+        }
+      ],
+      "duration_ms": 142687,
+      "name": "bug",
+      "url": "https://open.spotify.com/track/5eG7N74vstGSTCr1NsJHkU"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -173,22 +333,6 @@
       "url": "https://open.spotify.com/track/1In2l2VqjtZIW9loAA341S"
     },
     {
-      "added_at": "2023-10-13 04:00:00",
-      "album": {
-        "name": "Spelling",
-        "url": "https://open.spotify.com/album/4h5jADzyNAA7MlHOpoMNoN"
-      },
-      "artists": [
-        {
-          "name": "Lolahol",
-          "url": "https://open.spotify.com/artist/1qw9DrknRpBITBeyhmeDSn"
-        }
-      ],
-      "duration_ms": 241133,
-      "name": "Spelling",
-      "url": "https://open.spotify.com/track/6pv0GmCpgk1wfRwrCD7WVt"
-    },
-    {
       "added_at": "2023-10-06 04:00:00",
       "album": {
         "name": "OOPS",
@@ -253,6 +397,22 @@
       "url": "https://open.spotify.com/track/28IiEPTbV34Y9rFUsKekOC"
     },
     {
+      "added_at": "2023-10-20 04:00:00",
+      "album": {
+        "name": "Cut You Off",
+        "url": "https://open.spotify.com/album/6n590MjEHxUtzB1xSdZuzR"
+      },
+      "artists": [
+        {
+          "name": "CHINCHILLA",
+          "url": "https://open.spotify.com/artist/7iNrvS80wnHDGVxw3qNRiI"
+        }
+      ],
+      "duration_ms": 213126,
+      "name": "Cut You Off",
+      "url": "https://open.spotify.com/track/4yPI6KSmMMyUnKarPbYlzB"
+    },
+    {
       "added_at": "2023-10-06 04:00:00",
       "album": {
         "name": "Pretty Distraction",
@@ -299,6 +459,22 @@
       "duration_ms": 163760,
       "name": "SHUT UP AND KISS ME",
       "url": "https://open.spotify.com/track/69XM2hnoX1hVwqDGnnGZSq"
+    },
+    {
+      "added_at": "2023-10-20 04:00:00",
+      "album": {
+        "name": "Cleveland",
+        "url": "https://open.spotify.com/album/4F1tKsIxoQMCUqzSXxtZVG"
+      },
+      "artists": [
+        {
+          "name": "maryjo",
+          "url": "https://open.spotify.com/artist/1s8g8pcFxAOyuQwG4Tku0H"
+        }
+      ],
+      "duration_ms": 190119,
+      "name": "Cleveland",
+      "url": "https://open.spotify.com/track/6ulsl4FHrnizQRUi4ra6yY"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -435,22 +611,6 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
-        "name": "Quarter Life Crisis",
-        "url": "https://open.spotify.com/album/5bTGBed0FKungdHiISflgl"
-      },
-      "artists": [
-        {
-          "name": "Baby Queen",
-          "url": "https://open.spotify.com/artist/4VqlewwKZJoIcA88PYHUDd"
-        }
-      ],
-      "duration_ms": 183524,
-      "name": "Quarter Life Crisis",
-      "url": "https://open.spotify.com/track/3W7uzoZe8xxHVv75WvhHaZ"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
         "name": "Other Boys",
         "url": "https://open.spotify.com/album/3eb9d46lBCh5p1XBn66jBQ"
       },
@@ -523,22 +683,6 @@
       "duration_ms": 188000,
       "name": "Sirens (feat. Sophie Powers)",
       "url": "https://open.spotify.com/track/0mRsuiV1DDTFCoig8O7Bga"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
-        "name": "A Series of Unfortunate Events",
-        "url": "https://open.spotify.com/album/791lKGOskm8eOC85qu1XGQ"
-      },
-      "artists": [
-        {
-          "name": "Ella Isaacson",
-          "url": "https://open.spotify.com/artist/69DKP6GuG0YiUc5K7tJ4an"
-        }
-      ],
-      "duration_ms": 165376,
-      "name": "A Series of Unfortunate Events",
-      "url": "https://open.spotify.com/track/4jkFpWbEpiS7LBmSidWwUX"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -1123,54 +1267,6 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
-        "name": "mess & a half",
-        "url": "https://open.spotify.com/album/5fYJXrMRovW3O0ePPDApwX"
-      },
-      "artists": [
-        {
-          "name": "KINGS",
-          "url": "https://open.spotify.com/artist/6YQuBpbzdPGNFnyADC9QC3"
-        }
-      ],
-      "duration_ms": 151618,
-      "name": "mess & a half",
-      "url": "https://open.spotify.com/track/0YMBYW5r3mTJ4WwaKLKVkf"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
-        "name": "Lights Out",
-        "url": "https://open.spotify.com/album/0EQff5ZxaJGqXNJMZIADyt"
-      },
-      "artists": [
-        {
-          "name": "bludnymph",
-          "url": "https://open.spotify.com/artist/7GwwoezwdbKvUaNgtg51pX"
-        }
-      ],
-      "duration_ms": 143233,
-      "name": "Lights Out",
-      "url": "https://open.spotify.com/track/3I7i0kt5EcuVdYWfSu2LSm"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
-        "name": "dopamine",
-        "url": "https://open.spotify.com/album/2emZOQ9v8v9csDYeqDWnE3"
-      },
-      "artists": [
-        {
-          "name": "Madelline",
-          "url": "https://open.spotify.com/artist/7t6dcfG1BhMh3LTAXhxmeL"
-        }
-      ],
-      "duration_ms": 165461,
-      "name": "dopamine",
-      "url": "https://open.spotify.com/track/3EwCOs6Dh5tlsbIpvMjH4I"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
         "name": "Nosebleed",
         "url": "https://open.spotify.com/album/47SX20nouYkuWaMtczHvE7"
       },
@@ -1215,22 +1311,6 @@
       "duration_ms": 154814,
       "name": "Mantrum",
       "url": "https://open.spotify.com/track/60521PjAnsrU4eC0BX46WB"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
-        "name": "Midnights",
-        "url": "https://open.spotify.com/album/151w1FgRZfnKZA9FEcg9Z3"
-      },
-      "artists": [
-        {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-        }
-      ],
-      "duration_ms": 164801,
-      "name": "Vigilante Shit",
-      "url": "https://open.spotify.com/track/1xwAWUI6Dj0WGC3KiUPN0O"
     },
     {
       "added_at": "2023-10-06 04:00:00",

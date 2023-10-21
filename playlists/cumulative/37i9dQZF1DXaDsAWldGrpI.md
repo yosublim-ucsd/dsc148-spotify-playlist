@@ -4,7 +4,7 @@
 
 > Your favorite artists, caught in the act! Recorded Live...just like you were there\. Cover: Luke Combs
 
-132 songs - 9 hr 19 min
+133 songs - 9 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,6 +21,7 @@
 | [Beautiful Crazy \(feat\. Leon Bridges\) \- Live](https://open.spotify.com/track/4uI6wu9V3heWDqweerxJYF) | [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS), [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Beautiful Crazy \(feat\. Leon Bridges\) \[Live\]](https://open.spotify.com/album/6reqV1RJWoivSKTkJNjhQO) | 3:06 | 2021-07-22 |  |
 | [Beyond \(feat\. Luke Combs\) \- Live](https://open.spotify.com/track/05zt3H2jdG0MA1V6Q2t2Et) | [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x), [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [Beyond \(feat\. Luke Combs\) \[Live\]](https://open.spotify.com/album/4hhm2iJ6yhnMnlTaa5hjNo) | 4:06 | 2021-07-22 |  |
 | [Big Star \(with Taylor Swift\) \- Live](https://open.spotify.com/track/7JKwboSAWRHJI5U1XGTqS3) | [Kenny Chesney](https://open.spotify.com/artist/3grHWM9bx2E9vwJCdlRv9O), [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Live in No Shoes Nation](https://open.spotify.com/album/2njb3cHa1yhUMdu8PT2VhY) | 5:06 | 2021-07-22 |  |
+| [Big Wheels \- Live](https://open.spotify.com/track/3iRrWEGec6fx4lRudewydr) | [Russell Dickerson](https://open.spotify.com/artist/1E2AEtxaFaJtH0lO7kgNKw) | [Pre Party](https://open.spotify.com/album/4DzRrORUYwUFOORTfqwWsV) | 2:33 | 2023-10-20 |  |
 | [Bless the Broken Road \- Live / 2011](https://open.spotify.com/track/3k9b7S4DKDvHZx5Krad6p4) | [Rascal Flatts](https://open.spotify.com/artist/0a1gHP0HAqALbEyxaD5Ngn) | [The Best of Rascal Flatts LIVE](https://open.spotify.com/album/0xNgmo1PeXN0adBq3oE1Sz) | 3:39 | 2021-07-22 |  |
 | [Bluebird \- Live](https://open.spotify.com/track/7tBgrBt5Jpq5a2mT95tfXW) | [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0) | [Bluebird \(Live\)](https://open.spotify.com/album/6EtMyunUuts0EP4LpjzlUb) | 3:40 | 2021-07-22 |  |
 | [Body Like A Back Road \- 15 In A 30 Tour Live](https://open.spotify.com/track/2zqSCyJ3aeJRGqPrHuHClk) | [Sam Hunt](https://open.spotify.com/artist/2kucQ9jQwuD8jWdtR9Ef38) | [Body Like A Back Road \(15 In A 30 Tour Live\)](https://open.spotify.com/album/2aO5dy6212d4dg93KXYF82) | 4:48 | 2021-07-22 |  |

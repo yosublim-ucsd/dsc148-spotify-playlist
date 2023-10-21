@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "The best dance hits in South Africa and across the globe. Cover: <a href=\"https://open.spotify.com/artist/479FU7Z02AG01paQ7HVs4s?si=NWgo6yJ-Q1m9Jpl3XoVTLg\">SVGO</a>",
+  "description": "The best dance hits in South Africa and across the globe. Cover: <a href=\"https://open.spotify.com/artist/5ktaq0WEJHPcb5xo7uq105?si=AmHcNx6vRn2YMJMwgwtHTw\">Darque</a>",
   "name": "mint South Africa",
   "tracks": [
     {
@@ -672,6 +672,28 @@
       "duration_ms": 397870,
       "name": "African Train - Argento Dust Remix",
       "url": "https://open.spotify.com/track/4sL981QJkhDgZRdj1UTxJQ"
+    },
+    {
+      "album": {
+        "name": "African Vibe PT 2 - Ka Valungu (3 Step Remix)",
+        "url": "https://open.spotify.com/album/5JvzmgfOX9gzhwcXUt2NrI"
+      },
+      "artists": [
+        {
+          "name": "Peta Teanet",
+          "url": "https://open.spotify.com/artist/7BeJbenrKbpNEUIsbvrl3d"
+        },
+        {
+          "name": "Heavy-K",
+          "url": "https://open.spotify.com/artist/0xAI0encQKIoTvNQXPh1ts"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 358008,
+      "name": "African Vibe PT 2 - Ka Valungu - 3 Step Remix",
+      "url": "https://open.spotify.com/track/3jbBtITwX7GLqWcqz3odek"
     },
     {
       "album": {
@@ -1880,7 +1902,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-21",
       "duration_ms": 322400,
       "name": "Asanda",
       "url": "https://open.spotify.com/track/4iq6mQd3Hkj1BUYC09t3rP"
@@ -1928,7 +1950,7 @@
       ],
       "date_added": "2023-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-21",
       "duration_ms": 473965,
       "name": "Awung'Fanele",
       "url": "https://open.spotify.com/track/78eFaunhRYXJL6Y8BQBR8D"
@@ -6936,7 +6958,7 @@
       ],
       "date_added": "2023-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-21",
       "duration_ms": 368531,
       "name": "Hold Me Down",
       "url": "https://open.spotify.com/track/5EEJKqvQyQ0ZdXD206QPir"
@@ -8028,6 +8050,32 @@
       "duration_ms": 379322,
       "name": "Imoto",
       "url": "https://open.spotify.com/track/1QI3YsyMxfD2j3xoJDHvTi"
+    },
+    {
+      "album": {
+        "name": "More Life (Deluxe)",
+        "url": "https://open.spotify.com/album/0zqcSYWjrgActtFPXJNdN6"
+      },
+      "artists": [
+        {
+          "name": "Darque",
+          "url": "https://open.spotify.com/artist/5ktaq0WEJHPcb5xo7uq105"
+        },
+        {
+          "name": "Kabza De Small",
+          "url": "https://open.spotify.com/artist/1bNjWBFWsAAzZSR59lRdpR"
+        },
+        {
+          "name": "Berita",
+          "url": "https://open.spotify.com/artist/5I5uSqffwEQVxqTbsmqxNQ"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 363585,
+      "name": "Impendulo",
+      "url": "https://open.spotify.com/track/530FzlkQy4SbifQE4lng9o"
     },
     {
       "album": {
@@ -14223,6 +14271,28 @@
     },
     {
       "album": {
+        "name": "Real Love",
+        "url": "https://open.spotify.com/album/7jENFxE6ngcSKd9UqjEKxY"
+      },
+      "artists": [
+        {
+          "name": "Martin Garrix",
+          "url": "https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ"
+        },
+        {
+          "name": "Lloyiso",
+          "url": "https://open.spotify.com/artist/3CrKgAMSBXsnTugbUqpu6g"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163000,
+      "name": "Real Love",
+      "url": "https://open.spotify.com/track/6afdNrotJ1PCt9DoFiHpLj"
+    },
+    {
+      "album": {
         "name": "Reasons",
         "url": "https://open.spotify.com/album/7vmQaVuwkGJiuAsXv1bguM"
       },
@@ -17350,7 +17420,7 @@
       ],
       "date_added": "2023-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-21",
       "duration_ms": 417812,
       "name": "The Rapture Pt.III",
       "url": "https://open.spotify.com/track/200DiJQhDi69nkGXOrrJgn"

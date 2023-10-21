@@ -1,12 +1,12 @@
 {
   "description": "Celebre o nascimento de Jesus com louvores natalinos!",
-  "num_followers": 6002,
+  "num_followers": 6018,
   "original_name": "Louvores de Natal",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlMjQwYTRlMDNhZWI0OGUwZWNlNTIxMThlNjJmZjM3MTE3M2U4NDli",
+  "snapshot_id": "MCxiMzRiY2FhMDlhY2YwNGYxNmZhMDU3NTU0NjI0MDZkM2VkODIyNzgy",
   "tracks": [
     {
       "added_at": "2022-12-09 06:26:14",
@@ -551,26 +551,6 @@
     {
       "added_at": "2022-12-09 06:26:14",
       "album": {
-        "name": "Gl\u00f3ria a Deus nas Alturas",
-        "url": "https://open.spotify.com/album/3oNhHQUS1PmE0LM5Pyf3Pk"
-      },
-      "artists": [
-        {
-          "name": "Laura Morena",
-          "url": "https://open.spotify.com/artist/09BDr1YTa7t1YaOg3kg8QU"
-        },
-        {
-          "name": "Sullivan Dutra",
-          "url": "https://open.spotify.com/artist/1hK8THIFG97c43aae8gLki"
-        }
-      ],
-      "duration_ms": 242192,
-      "name": "Gl\u00f3ria a Deus nas Alturas",
-      "url": "https://open.spotify.com/track/7AblmQzKpVtPTvbMznVBvA"
-    },
-    {
-      "added_at": "2022-12-09 06:26:14",
-      "album": {
         "name": "\u00d3, Vinde, Adoremos",
         "url": "https://open.spotify.com/album/18SwXFPhxjgOzEnJERhcBd"
       },
@@ -587,6 +567,26 @@
       "duration_ms": 195000,
       "name": "\u00d3, Vinde, Adoremos",
       "url": "https://open.spotify.com/track/5DVZUWNEIsKUq12krk7On2"
+    },
+    {
+      "added_at": "2022-12-09 06:26:14",
+      "album": {
+        "name": "Gl\u00f3ria a Deus nas Alturas",
+        "url": "https://open.spotify.com/album/3oNhHQUS1PmE0LM5Pyf3Pk"
+      },
+      "artists": [
+        {
+          "name": "Laura Morena",
+          "url": "https://open.spotify.com/artist/09BDr1YTa7t1YaOg3kg8QU"
+        },
+        {
+          "name": "Sullivan Dutra",
+          "url": "https://open.spotify.com/artist/1hK8THIFG97c43aae8gLki"
+        }
+      ],
+      "duration_ms": 242192,
+      "name": "Gl\u00f3ria a Deus nas Alturas",
+      "url": "https://open.spotify.com/track/7AblmQzKpVtPTvbMznVBvA"
     },
     {
       "added_at": "2022-12-09 06:26:14",
@@ -811,18 +811,18 @@
     {
       "added_at": "2022-12-09 06:26:14",
       "album": {
-        "name": "Deus Emanuel",
-        "url": "https://open.spotify.com/album/1p7afgoQGyBtbXhhsYwLFi"
+        "name": "Noite de Paz - Can\u00e7\u00f5es para Celebrar",
+        "url": "https://open.spotify.com/album/39EJNgjtmDNElujFEAbsA1"
       },
       "artists": [
         {
-          "name": "Adora\u00e7\u00e3o Central",
-          "url": "https://open.spotify.com/artist/3eAdvab03DC4n3jZ18HYP4"
+          "name": "Perlla",
+          "url": "https://open.spotify.com/artist/2DD48qUxMj0QmjMqWOZ4WK"
         }
       ],
-      "duration_ms": 313652,
-      "name": "Deus Emanuel",
-      "url": "https://open.spotify.com/track/00Wx6Gd3jm6N26zgch4Y7M"
+      "duration_ms": 193000,
+      "name": "Vem Chegando o Natal",
+      "url": "https://open.spotify.com/track/3gPpfWdDTHNniJpWql9BI5"
     },
     {
       "added_at": "2022-12-09 06:26:14",
@@ -843,18 +843,18 @@
     {
       "added_at": "2022-12-09 06:26:14",
       "album": {
-        "name": "Noite de Paz - Can\u00e7\u00f5es para Celebrar",
-        "url": "https://open.spotify.com/album/39EJNgjtmDNElujFEAbsA1"
+        "name": "Deus Emanuel",
+        "url": "https://open.spotify.com/album/1p7afgoQGyBtbXhhsYwLFi"
       },
       "artists": [
         {
-          "name": "Perlla",
-          "url": "https://open.spotify.com/artist/2DD48qUxMj0QmjMqWOZ4WK"
+          "name": "Adora\u00e7\u00e3o Central",
+          "url": "https://open.spotify.com/artist/3eAdvab03DC4n3jZ18HYP4"
         }
       ],
-      "duration_ms": 193000,
-      "name": "Vem Chegando o Natal",
-      "url": "https://open.spotify.com/track/3gPpfWdDTHNniJpWql9BI5"
+      "duration_ms": 313652,
+      "name": "Deus Emanuel",
+      "url": "https://open.spotify.com/track/00Wx6Gd3jm6N26zgch4Y7M"
     },
     {
       "added_at": "2022-12-09 06:26:14",

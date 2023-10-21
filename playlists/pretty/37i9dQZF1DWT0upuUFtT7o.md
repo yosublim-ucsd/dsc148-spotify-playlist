@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT0upuUFtT7o.md) - [plain]
 
 > The best new indie tracks from independent artists & labels\. Updates every Wednesday\. Cover: Meernaa <3
 
-[Spotify](https://open.spotify.com/user/spotify) - 191,511 likes - 100 songs - 5 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 191,535 likes - 100 songs - 5 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT0upuUFtT7o.md) - [plain]
 | 99 | [Hear You Calling](https://open.spotify.com/track/4kpAWvnP4j9ddwl6EOYF1C) | [PAWWS](https://open.spotify.com/artist/7oTof0LWYf6S0mGq8K02CT) | [Hear You Calling](https://open.spotify.com/album/5bwrOqoWSx2ty34QZuJIhR) | 3:49 |
 | 100 | [Love On Your Side](https://open.spotify.com/track/78lUOrSoLCeran06lDIgfK) | [Dandelion Head](https://open.spotify.com/artist/5a9RweUjrerIZxBbes92Bg) | [Blue Dream](https://open.spotify.com/album/2Fz6MRg7Z1QxqLCq8y6FOm) | 3:08 |
 
-Snapshot ID: `MCw2NzIzMzYzZGQzOWEyNTYzYWRiZDMyNmM4OWI3ZTk5NzgwMWIzZGM4`
+Snapshot ID: `MCw4ZGU2NTE5ZDlkM2FiMjQ2ZjBjMWEzNDg5OTFkYzc5MWRhM2VhMTVm`

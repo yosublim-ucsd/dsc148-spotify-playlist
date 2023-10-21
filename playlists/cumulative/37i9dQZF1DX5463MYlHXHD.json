@@ -423,6 +423,28 @@
     },
     {
       "album": {
+        "name": "Cachito",
+        "url": "https://open.spotify.com/album/4wiQsolniLNGuv8PpaCotJ"
+      },
+      "artists": [
+        {
+          "name": "El Perro",
+          "url": "https://open.spotify.com/artist/7eCZ5oRjRXT5FGfJ36pPTM"
+        },
+        {
+          "name": "K-LIBRE 9",
+          "url": "https://open.spotify.com/artist/0hhZgx8NFIbtCbqtptcbIn"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214648,
+      "name": "Cachito",
+      "url": "https://open.spotify.com/track/3CyYTW3cSscn3Y9elQqUcV"
+    },
+    {
+      "album": {
         "name": "CALLEJERO FINO | DJ TAO Turreo Sessions #723",
         "url": "https://open.spotify.com/album/3QH6xfxFEoQNVUdtlyHpup"
       },
@@ -578,6 +600,28 @@
       "duration_ms": 233247,
       "name": "Coraz\u00f3n de Madre (Destapate Una Cerveza)",
       "url": "https://open.spotify.com/track/3ZLU1OKjiCyM2Ka7vcjT5f"
+    },
+    {
+      "album": {
+        "name": "Coraz\u00f3n de Madre / Cosas Del Amor",
+        "url": "https://open.spotify.com/album/1p2Ds7qSk9Qo7D9f61Eljy"
+      },
+      "artists": [
+        {
+          "name": "Yerba Brava",
+          "url": "https://open.spotify.com/artist/7JRxvyluWYJ3M3ssmZrVs6"
+        },
+        {
+          "name": "Pala Ancha",
+          "url": "https://open.spotify.com/artist/2DRTGjBvhQtEYN9wYM3opQ"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229161,
+      "name": "Coraz\u00f3n de Madre / Cosas Del Amor",
+      "url": "https://open.spotify.com/track/6R2UbyXsPIpBlKBiqy4nHg"
     },
     {
       "album": {
@@ -1088,7 +1132,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-21",
       "duration_ms": 182334,
       "name": "Es Ilegal",
       "url": "https://open.spotify.com/track/5qw1YRbS8qjPHrPlo5vSgJ"
@@ -1457,6 +1501,28 @@
     },
     {
       "album": {
+        "name": "IRA",
+        "url": "https://open.spotify.com/album/3opqiuWSL4VaMF4jmxXx5c"
+      },
+      "artists": [
+        {
+          "name": "Cryollo",
+          "url": "https://open.spotify.com/artist/6alYcVCAp3aaGIIYW7aTEj"
+        },
+        {
+          "name": "Los Pibes Chorros",
+          "url": "https://open.spotify.com/artist/3TINnlLcMBQA88OoalsvYR"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262201,
+      "name": "IRA",
+      "url": "https://open.spotify.com/track/6QWMTay1cFyn1u4CJF8e6X"
+    },
+    {
+      "album": {
         "name": "Junto a una Estrella",
         "url": "https://open.spotify.com/album/7mJXyJZscONbOarv7T5YS6"
       },
@@ -1516,7 +1582,7 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-21",
       "duration_ms": 293041,
       "name": "La Bomba",
       "url": "https://open.spotify.com/track/0VK2WShGGSlD8wCD9DSxup"
@@ -2582,7 +2648,7 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-21",
       "duration_ms": 137608,
       "name": "Sabado Picado",
       "url": "https://open.spotify.com/track/0F0hZ3ztek0ldfjqNHFYmW"
@@ -2936,7 +3002,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-21",
       "duration_ms": 210165,
       "name": "Tengo en Venta el Corazon",
       "url": "https://open.spotify.com/track/6rZZPJBaR0FyK54DZRH316"
@@ -2962,6 +3028,28 @@
       "duration_ms": 115291,
       "name": "The la Planta: Rkt Session #6",
       "url": "https://open.spotify.com/track/3Zk3bA4hcGR49c0k9Fh7Nu"
+    },
+    {
+      "album": {
+        "name": "Toto Pago",
+        "url": "https://open.spotify.com/album/6oDx3WEDFC2lJs7Y6OPuRb"
+      },
+      "artists": [
+        {
+          "name": "frankotirador",
+          "url": "https://open.spotify.com/artist/3mkgLtC3wZ9xFKM7C6bA4w"
+        },
+        {
+          "name": "Colny Flow",
+          "url": "https://open.spotify.com/artist/5CKHozemkVTKIF8kg1v08C"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155387,
+      "name": "Toto Pago",
+      "url": "https://open.spotify.com/track/7lDiqbdr75lTntS5MMyr8X"
     },
     {
       "album": {

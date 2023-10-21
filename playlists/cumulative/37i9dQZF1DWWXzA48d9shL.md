@@ -2,9 +2,9 @@
 
 ### [TIRADE](https://open.spotify.com/playlist/37i9dQZF1DWWXzA48d9shL)
 
-> Rap from hell\. Cover: City Morgue
+> Rap from hell\. Cover: $uicideboy$
 
-517 songs - 20 hr 23 min
+519 songs - 20 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -392,12 +392,14 @@
 | [Riders](https://open.spotify.com/track/6wk8RkIpZ6mbQigwKPr1oW) | [onimanxd](https://open.spotify.com/artist/6LsSeFRnEOLIJHCpIhlP9b) | [Riders](https://open.spotify.com/album/4wYMrn6j9KBrYtek968NoK) | 1:47 | 2023-03-03 |  |
 | [RIOT](https://open.spotify.com/track/0H2fnXVXeTzl6H5ginSfRG) | [Curtis Waters](https://open.spotify.com/artist/2JbE7jUIGtpXSzytnyMg6U), [chlothegod](https://open.spotify.com/artist/10YC7gfEVGGez94KMAJoLx) | [RIOT](https://open.spotify.com/album/7L705LjLyc5QApMUSkBisK) | 2:46 | 2022-10-28 | 2022-11-26 |
 | [RIOT \(feat\. chlothegod\)](https://open.spotify.com/track/6VusBTuNTqDabs4P60FHvO) | [Curtis Waters](https://open.spotify.com/artist/2JbE7jUIGtpXSzytnyMg6U), [chlothegod](https://open.spotify.com/artist/10YC7gfEVGGez94KMAJoLx) | [RIOT \(feat\. chlothegod\)](https://open.spotify.com/album/6KlBRG3rt0hHxArsQJfH79) | 2:56 | 2023-06-23 |  |
-| [RITZ CARLTON](https://open.spotify.com/track/6Xqf6sebYxn05Kkh4hCvax) | [DIRTYXAN](https://open.spotify.com/artist/5BEGUGWpPDPKXCgqubqnLB) | [RITZ CARLTON](https://open.spotify.com/album/5p350CtKfGO7z9uJZL6sLS) | 2:48 | 2023-06-23 |  |
+| [RITZ CARLTON](https://open.spotify.com/track/0f15W2rrueW4URXoQGaqFC) | [DIRTYXAN](https://open.spotify.com/artist/5BEGUGWpPDPKXCgqubqnLB) | [MANIC MAN](https://open.spotify.com/album/0jqwLKjpjN4ikAbIi7bAHT) | 2:48 | 2023-06-23 |  |
+| [RITZ CARLTON](https://open.spotify.com/track/6Xqf6sebYxn05Kkh4hCvax) | [DIRTYXAN](https://open.spotify.com/artist/5BEGUGWpPDPKXCgqubqnLB) | [RITZ CARLTON](https://open.spotify.com/album/5p350CtKfGO7z9uJZL6sLS) | 2:48 | 2023-06-23 | 2023-10-21 |
 | [ROLEPLAY](https://open.spotify.com/track/6lBjqdPLsOxLSKrBPQufi5) | [OMXNEMO](https://open.spotify.com/artist/6QK0K28MJ2Fj2nsmrZv1O1), [YNG Martyr](https://open.spotify.com/artist/357dDcxIE2hkKGn03PClIF), [Lucie's Nightmare](https://open.spotify.com/artist/73cmp0OKYaPbYsCAgKqAcl), [ISSBROKIE](https://open.spotify.com/artist/23GnlSzW49oADOGGjvyfEI) | [ROLEPLAY](https://open.spotify.com/album/4tYEe0g5xT5kWJg5wFxrs1) | 2:58 | 2022-09-30 |  |
 | [Rose Colored Glasses](https://open.spotify.com/track/0cCgFH4qb2zA7Nfqej9fJd) | [5thFloorHomicide](https://open.spotify.com/artist/5G6sRziHhCPJFbhcebJQnp) | [Rose Colored Glasses](https://open.spotify.com/album/1jA83pq3azUgwlOcLEX2rX) | 2:31 | 2022-01-21 | 2022-04-20 |
 | [Roswell](https://open.spotify.com/track/4G01UY2AijcdKA3BS4liYH) | [Haarper](https://open.spotify.com/artist/3v0QTRruILayLe5VsaYdvk) | [Roswell](https://open.spotify.com/album/1NndovHvyyBEYUJO69NmKY) | 2:24 | 2022-07-08 | 2022-07-27 |
 | [Run That](https://open.spotify.com/track/3YXh89Tf0LPFbEcWkTIHbr) | [XANAKIN SKYWOK](https://open.spotify.com/artist/2YHPVKeJcX02OyeNneU5v3) | [Run That](https://open.spotify.com/album/4nAd9j2Zz7h6sSKgr9fOJJ) | 1:25 | 2023-08-04 |  |
 | [Sangria \(feat\. Denzel Curry\)](https://open.spotify.com/track/2fG0gdRKdTjyxYkTydQEv9) | [$NOT](https://open.spotify.com/artist/5IbEL2xjRtKsunfmsahLuO), [Denzel Curry](https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV) | [Sangria \(feat\. Denzel Curry\)](https://open.spotify.com/album/5JUzMtOlM52YO5rzdQwg38) | 2:06 | 2021-09-17 | 2022-07-30 |
+| [Sarcophagus III](https://open.spotify.com/track/2aShlCzmEwlId17KVpFdYu) | [$uicideboy$](https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0), [Ramirez](https://open.spotify.com/artist/3H6CaRooDAoCeRCpYwOXj2) | [G.R.E.Y.G.O.D.S.I.I.](https://open.spotify.com/album/5JPMrbyhWdReHLXNa0V1Vs) | 2:51 | 2023-10-20 |  |
 | [Sauna](https://open.spotify.com/track/0Z9mdR3xaZOkhidVO4A1MF) | [City Morgue](https://open.spotify.com/artist/1kMVs324xI4K0tQrKqA4c4), [ZillaKami](https://open.spotify.com/artist/4G1zP5i0r57g1c1CxrPhfM), [SosMula](https://open.spotify.com/artist/7fFfPSHnrplQpezV79CFYc) | [My Bloody America](https://open.spotify.com/album/6yRhGO6i0w7qlIdpOnToPI) | 1:47 | 2023-09-15 |  |
 | [SCARING THE HOES](https://open.spotify.com/track/5L0QxWi5Jo4gjw4yHR0kP1) | [JPEGMAFIA](https://open.spotify.com/artist/6yJ6QQ3Y5l0s0tn7b0arrO), [Danny Brown](https://open.spotify.com/artist/7aA592KWirLsnfb5ulGWvU) | [SCARING THE HOES](https://open.spotify.com/album/2W8QmJ48TFvnkjrrQOHDBR) | 2:22 | 2023-03-24 |  |
 | [Scorn](https://open.spotify.com/track/5raxeWh926F2Drzx1C0zlF) | [Jasiah](https://open.spotify.com/artist/7502fDxg339jvGV08Jd4R0), [Lil Darkie](https://open.spotify.com/artist/62F9BiUmjqeXbBztCwiX1U) | [Scorn](https://open.spotify.com/album/061VEDp0eD05Bcmk1hLE1r) | 2:48 | 2022-05-20 | 2022-05-28 |

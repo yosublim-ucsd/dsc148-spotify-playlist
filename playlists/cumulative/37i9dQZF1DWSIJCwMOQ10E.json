@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-10",
-  "description": "No hay nada como una Rumba Colombiana. \u00a1Hasta el amanecer! Foto: Carlos Vives\n",
+  "description": "No hay nada como una Rumba Colombiana. \u00a1Hasta el amanecer! Foto: Goyo",
   "name": "Rumba Colombiana",
   "tracks": [
     {
@@ -909,7 +909,7 @@
     },
     {
       "album": {
-        "name": "D\u00e9jalo En Visto",
+        "name": "D\u00c9JALO EN VISTO",
         "url": "https://open.spotify.com/album/5XtVHkEov3lgISXN8YUdbe"
       },
       "artists": [
@@ -926,7 +926,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 189918,
-      "name": "D\u00e9jalo En Visto",
+      "name": "D\u00c9JALO EN VISTO",
       "url": "https://open.spotify.com/track/5phSp1VmzYJTvu1qZYdQS0"
     },
     {
@@ -2496,7 +2496,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-21",
       "duration_ms": 259265,
       "name": "Ras Tas Tas Full Hd",
       "url": "https://open.spotify.com/track/1hS2YZVC9mptyXp7pbO13Z"
@@ -2902,6 +2902,24 @@
       "duration_ms": 273053,
       "name": "Tu Sonrisa",
       "url": "https://open.spotify.com/track/2pPgF067E3mtYhA5paJfcI"
+    },
+    {
+      "album": {
+        "name": "Tumbao",
+        "url": "https://open.spotify.com/album/5ZhMd0ABNjxYOFZtLeVoE2"
+      },
+      "artists": [
+        {
+          "name": "Goyo",
+          "url": "https://open.spotify.com/artist/2ECiXSK7umi1luAaQyrCUX"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159590,
+      "name": "Tumbao",
+      "url": "https://open.spotify.com/track/6FxReyACmhEHzJOszbh7xu"
     },
     {
       "album": {

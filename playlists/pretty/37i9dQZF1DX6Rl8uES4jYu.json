@@ -1,13 +1,45 @@
 {
   "description": "This fun, upbeat playlist will help get you up and ready to start your day! ",
-  "num_followers": 238774,
+  "num_followers": 238767,
   "original_name": "Ready for the Day",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwMjRlYzQ4MjllY2FjZWM3OTI1N2E3NzFlOTZmMWJlYjc4MzFjMWZl",
+  "snapshot_id": "MCxhYTBiYWMyMzIwNjgxZTMwMDUzYjJhN2RmMTMzNTA5MzZkNjhiNTM4",
   "tracks": [
+    {
+      "added_at": "2023-10-20 04:01:00",
+      "album": {
+        "name": "Shindo",
+        "url": "https://open.spotify.com/album/2bh7Q8cwGnCleeC8UhRmAM"
+      },
+      "artists": [
+        {
+          "name": "The Shindellas",
+          "url": "https://open.spotify.com/artist/2ymLCgoeNHbhPDwMb3N3iQ"
+        }
+      ],
+      "duration_ms": 255640,
+      "name": "Good as Gold",
+      "url": "https://open.spotify.com/track/5IKDh0vnVhvzOgQltv1ACE"
+    },
+    {
+      "added_at": "2023-10-20 04:01:00",
+      "album": {
+        "name": "Sunset",
+        "url": "https://open.spotify.com/album/7zAZZ3cUAbM6WPAecRTN01"
+      },
+      "artists": [
+        {
+          "name": "Tai Verdes",
+          "url": "https://open.spotify.com/artist/2kCO8LXN1usaOPL3iEE28I"
+        }
+      ],
+      "duration_ms": 193280,
+      "name": "Sunset",
+      "url": "https://open.spotify.com/track/5hFVuHDVUqR9FvVnHFoLLo"
+    },
     {
       "added_at": "2023-10-13 04:01:00",
       "album": {
@@ -1345,22 +1377,6 @@
       "url": "https://open.spotify.com/track/6Hjy33Aku74bDdbLWhe6U6"
     },
     {
-      "added_at": "2022-09-02 04:02:00",
-      "album": {
-        "name": "how deep?",
-        "url": "https://open.spotify.com/album/4vaxABro6oVySHD5okB7QE"
-      },
-      "artists": [
-        {
-          "name": "Tai Verdes",
-          "url": "https://open.spotify.com/artist/2kCO8LXN1usaOPL3iEE28I"
-        }
-      ],
-      "duration_ms": 154506,
-      "name": "how deep?",
-      "url": "https://open.spotify.com/track/0VcWp30A3hSJrPjdDEHeNE"
-    },
-    {
       "added_at": "2022-09-30 04:01:00",
       "album": {
         "name": "Better Days (feat. Aloe Blacc)",
@@ -1671,22 +1687,6 @@
       "duration_ms": 180053,
       "name": "Don't Trip",
       "url": "https://open.spotify.com/track/5mJpenSgvHOjfnK1Z4fc1p"
-    },
-    {
-      "added_at": "2022-04-29 04:02:00",
-      "album": {
-        "name": "Who?",
-        "url": "https://open.spotify.com/album/0B6zhl08QLXwQg2eBXofCx"
-      },
-      "artists": [
-        {
-          "name": "L\u00e9onie Gray",
-          "url": "https://open.spotify.com/artist/1kt4PKJ7KueinsGBtDdf7b"
-        }
-      ],
-      "duration_ms": 178961,
-      "name": "Easy",
-      "url": "https://open.spotify.com/track/2ipglkB6dSUbv9yePOI5r9"
     },
     {
       "added_at": "2022-04-29 04:02:00",

@@ -4,7 +4,7 @@
 
 > Icons only\. Cover: Duran Duran
 
-93 songs - 6 hr 2 min
+95 songs - 6 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,6 +24,7 @@
 | [Blue Bonnet Breeze](https://open.spotify.com/track/0A8FNbCPVN5g7DAVM9GO61) | [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU) | [Blue Bonnet Breeze](https://open.spotify.com/album/2ejNap6jVYJmjfh8HHDeJx) | 5:19 | 2022-02-11 | 2022-07-29 |
 | [Blue Bonnet Breeze](https://open.spotify.com/track/0wSRvzs3I0Dig07ejN2jiZ) | [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU) | [Run, Rose, Run](https://open.spotify.com/album/50A9Yv2SPJByoZIDO5WVzG) | 5:19 | 2022-02-11 |  |
 | [Brand New Day](https://open.spotify.com/track/10j6yneyjo8szVHBij2nVm) | [Eddie Money](https://open.spotify.com/artist/4Tw2N3wdvJPGEU7JqMxFfE) | [Brand New Day](https://open.spotify.com/album/345VHvecrNrNs7SWlTJqPj) | 3:56 | 2021-10-22 | 2022-04-29 |
+| [Brand New Sun](https://open.spotify.com/track/2o6aK5vgtn1t99QW7f41a0) | [Take That](https://open.spotify.com/artist/1XgFuvRd7r5g0h844A5ZUQ) | [Brand New Sun](https://open.spotify.com/album/7l0dx91ryn70a3nDws8yym) | 4:28 | 2023-10-20 |  |
 | [Break The Man](https://open.spotify.com/track/5NFoLXGzAzm3aFZEEaZ98c) | [Tears For Fears](https://open.spotify.com/artist/4bthk9UfsYUYdcFyqxmSUU) | [Break The Man](https://open.spotify.com/album/4KRvCp0VPZ8pUrAtpokokf) | 3:55 | 2022-01-14 | 2022-02-26 |
 | [Dancin' in the Aisles](https://open.spotify.com/track/2rHdLK2ul2kZsf25gBdPVF) | [Barry Manilow](https://open.spotify.com/artist/3alW3LYQS8K29z8C8NSLIX) | [Dancin' in the Aisles](https://open.spotify.com/album/3MaOmRCy1qfE5nSZvJMYpd) | 3:26 | 2021-10-22 |  |
 | [DANSE MACABRE](https://open.spotify.com/track/4yavYy5vhqkX8Sv8DRqVbJ) | [Duran Duran](https://open.spotify.com/artist/0lZoBs4Pzo7R89JM9lxwoT) | [DANSE MACABRE](https://open.spotify.com/album/06HreThIz90gKClFT9sz0v) | 4:22 | 2023-09-01 |  |
@@ -58,12 +59,13 @@
 | [Love Again](https://open.spotify.com/track/6gzgyr3CHPXIs97yeEqU8h) | [Céline Dion](https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK) | [I'll Be \(from the Motion Picture Soundtrack Love Again\)](https://open.spotify.com/album/6F7SW0EoekiKTOgcGzg1KB) | 3:32 | 2023-04-14 | 2023-05-15 |
 | [Love Again](https://open.spotify.com/track/7LYV8DzfYdArevWVyNNIZ0) | [Céline Dion](https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK) | [Love Again \(Soundtrack from the Motion Picture\)](https://open.spotify.com/album/1YV5gnob3qCnMQuVomwGwG) | 3:32 | 2023-04-14 |  |
 | [Me Not Loving You](https://open.spotify.com/track/2A1DHo5MnoDHKpoXTDR0vi) | [Debbie Gibson](https://open.spotify.com/artist/18jZvCsW1PJ4FDQ5gEXuKp) | [The Body Remembers](https://open.spotify.com/album/5gqkg3QPLgnGQQIVOOupdY) | 4:27 | 2021-10-22 | 2023-01-06 |
+| [Mess It Up](https://open.spotify.com/track/0Ag6LNrSfJVKRhGzD7ArDq) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [Hackney Diamonds](https://open.spotify.com/album/1AxMcdQRLguJqSZMxvRNdO) | 4:03 | 2023-10-20 |  |
 | [Metal Water Wood](https://open.spotify.com/track/74xme6fG8qeC7BfwXiDa7j) | [Tori Amos](https://open.spotify.com/artist/1KsASRNugxU85T0u6zSg32) | [Ocean to Ocean](https://open.spotify.com/album/08dsnxebW6wZCu8NpmK3kn) | 4:00 | 2021-10-29 |  |
 | [Moon Over Wichita](https://open.spotify.com/track/2kWASdkm5BAA5kGJ4jN39D) | [Burt Bacharach](https://open.spotify.com/artist/35y7CZMg7jbG8Q96JY7dyC), [Daniel Tashian](https://open.spotify.com/artist/4RldQHPp4l6UV78DAvf5qz) | [Moon Over Wichita/Heartbreak Storms](https://open.spotify.com/album/1gQZpefWws00Mglq7lv1oM) | 3:12 | 2022-04-01 |  |
 | [Move](https://open.spotify.com/track/46UPxQScuRtw2jvE23vuYJ) | [Santana](https://open.spotify.com/artist/6GI52t8N5F02MxU0g5U69P), [Rob Thomas](https://open.spotify.com/artist/3aBkeBhwadnWMWoVJ2CxJC), [American Authors](https://open.spotify.com/artist/0MlOPi3zIDMVrfA9R04Fe3) | [Move](https://open.spotify.com/album/1I3BqSode2tMfk4IbbTQnK) | 2:45 | 2021-10-22 | 2022-07-16 |
 | [Mr Haze](https://open.spotify.com/track/7G5WlOGP22EwQjb50il1ZZ) | [Texas](https://open.spotify.com/artist/5JsdVATHNPE0XdMFMRoSuf) | [Hi \(Deluxe\)](https://open.spotify.com/album/3vSFoYoiYD8ir8VYaGx6Vn) | 3:39 | 2021-10-22 | 2023-04-15 |
 | [Never Gonna Rain](https://open.spotify.com/track/6wlr3s1bhqNayqDNR2Wmnz) | [Bryan Adams](https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc) | [Never Gonna Rain](https://open.spotify.com/album/5D85XXgpIsodD6VJJ2bhia) | 3:17 | 2022-01-28 | 2022-03-12 |
-| [Newspaper Pane](https://open.spotify.com/track/6IseHnFfBqw6k0ACVshrzP) | [Elvis Costello](https://open.spotify.com/artist/2BGRfQgtzikz1pzAD0kaEn) | [Hey Clockface](https://open.spotify.com/album/5HwgDLgmrGk6rXd2UPWIsE) | 4:10 | 2021-10-22 |  |
+| [Newspaper Pane](https://open.spotify.com/track/6IseHnFfBqw6k0ACVshrzP) | [Elvis Costello](https://open.spotify.com/artist/2BGRfQgtzikz1pzAD0kaEn) | [Hey Clockface](https://open.spotify.com/album/5HwgDLgmrGk6rXd2UPWIsE) | 4:10 | 2021-10-22 | 2023-10-21 |
 | [No Small Thing](https://open.spotify.com/track/2ZBbHe0eGsOopMXmEaqUT6) | [Tears For Fears](https://open.spotify.com/artist/4bthk9UfsYUYdcFyqxmSUU) | [No Small Thing](https://open.spotify.com/album/2lT0SejUDTztqxLQtFPuzm) | 4:42 | 2021-12-03 | 2022-02-26 |
 | [One Day Longer](https://open.spotify.com/track/7Fi5nCKmCDd29fdhdE60Qz) | [Richard Marx](https://open.spotify.com/artist/0grdhNhiRLFBaFVyybqsj6) | [One Day Longer](https://open.spotify.com/album/34ygCQzhnvp9bwGX6HZlXt) | 4:07 | 2022-08-12 |  |
 | [One Hell Of A Life](https://open.spotify.com/track/0bQWgz0oobVeFcyG1oAhYd) | [Tom Jones](https://open.spotify.com/artist/1T0wRBO0CK0vK8ouUMqEl5) | [Surrounded By Time \(The Hourglass Edition\)](https://open.spotify.com/album/65FrNv74cknKGNRLOUVmgM) | 5:23 | 2021-12-03 |  |
@@ -93,7 +95,7 @@
 | [True To Yourself](https://open.spotify.com/track/3rYUollaaz3IHp94BiRzCx) | [Olivia Newton\-John](https://open.spotify.com/artist/4BoRxUdrcgbbq1rxJvvhg9), [Vanessa Amorosi](https://open.spotify.com/artist/5M0fvL9GMc2zTuIIQwresj) | [True To Yourself](https://open.spotify.com/album/6Y9rVFJIoUVpFwjbXTe6rE) | 4:01 | 2023-03-24 |  |
 | [Walls](https://open.spotify.com/track/4Re3AZ3OmQWxQHX0NtOzid) | [Cher](https://open.spotify.com/artist/72OaDtakiy6yFqkt4TsiFt) | [Walls](https://open.spotify.com/album/5QDnUqAeP7Zq51NASyfri1) | 3:32 | 2021-10-22 |  |
 | [We Are The People \(feat\. Bono & The Edge\) \- Official UEFA EURO 2020 Song](https://open.spotify.com/track/1LFVyrx9ZRJ2IyDLRPG8VK) | [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ), [Bono](https://open.spotify.com/artist/0m2Wc2gfNUWaAuBK7URPIJ), [The Edge](https://open.spotify.com/artist/1X8wFHJFucBUmBc7spQ4jP) | [We Are The People \(feat\. Bono & The Edge\) \[Official UEFA EURO 2020 Song\]](https://open.spotify.com/album/4Y3TDAf1jKhdithIywJKCb) | 3:37 | 2021-10-22 | 2022-03-26 |
-| [We Gotta Find Love](https://open.spotify.com/track/0TyXBdGk2qGLrZLWcj8qJd) | [Billy Ocean](https://open.spotify.com/artist/5IDs1CK15HegSAhGEbSYXo) | [One World](https://open.spotify.com/album/54Z9zCRlk506q4mS2MXwIL) | 4:46 | 2021-10-22 |  |
+| [We Gotta Find Love](https://open.spotify.com/track/0TyXBdGk2qGLrZLWcj8qJd) | [Billy Ocean](https://open.spotify.com/artist/5IDs1CK15HegSAhGEbSYXo) | [One World](https://open.spotify.com/album/54Z9zCRlk506q4mS2MXwIL) | 4:46 | 2021-10-22 | 2023-10-21 |
 | [What You Heard](https://open.spotify.com/track/4y4C6YlIAf9Wjx65uU7nOg) | [Amy Grant](https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es) | [What You Heard](https://open.spotify.com/album/5egLTfkAIvzX8y5FWFerxV) | 3:44 | 2023-04-28 |  |
 | [Whatever She Wants](https://open.spotify.com/track/658sx2DDcxQFawG7EELEpC) | [Michael Bolton](https://open.spotify.com/artist/6YHEMoNPbcheiWS2haGzkn) | [Whatever She Wants](https://open.spotify.com/album/3iAI36xSp4CxNOuddYICXX) | 3:02 | 2023-05-05 | 2023-06-17 |
 | [When You Danced With Me](https://open.spotify.com/track/46OKHucGhjhskazqD8tKnH) | [ABBA](https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV) | [Voyage](https://open.spotify.com/album/0uUtGVj0y9FjfKful7cABY) | 2:50 | 2021-11-05 |  |

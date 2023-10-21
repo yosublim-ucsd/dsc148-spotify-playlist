@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5LEXW9eXA0n.md) - [plain]
 
 > New & hot K\-Pop ballads\. \(Cover:LEE SEOK HOON\(이석훈\)\) \(가장 핫한 최신 국내 발라드를 만나보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 356,073 likes - 100 songs - 6 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 356,132 likes - 100 songs - 6 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5LEXW9eXA0n.md) - [plain]
 | 99 | [Flower\(Long For You\)](https://open.spotify.com/track/2lsZoElIkFgYukTEgZQrZd) | [Jang HeeWon](https://open.spotify.com/artist/1nISeMejedvyK4XXRacYAH) | [Rinza Noodle House \(Original Television Soundtrack\) Pt.2](https://open.spotify.com/album/4CavyFVmLF2o8iZL0TkgND) | 3:07 |
 | 100 | [Something Like That](https://open.spotify.com/track/2Yg4KA2rOakUT7D82XSLVc) | [Song Pu Reum](https://open.spotify.com/artist/1d0t8x4bbcIX2p8Ew11zve) | [Something Like That](https://open.spotify.com/album/0r5sHBZo7gzcEnbmA3s8AF) | 4:04 |
 
-Snapshot ID: `MCwxYmI0NTQ0NWRiNjEwMDZhODFjZGQ5ZjY4OTQ4YTM0YzkyZjRmOWYx`
+Snapshot ID: `MCw1NTc4MjgxMThiMWNhMWJiZDM2NDE1MjcwMzZhZDIxNjI4NGM1MDNk`

@@ -4,7 +4,7 @@
 
 > The latest music from our Country Heroes\. Cover: Reba McEntire
 
-233 songs - 13 hr 45 min
+236 songs - 13 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,6 +31,7 @@
 | [Amazed \- The Frontmen Edition](https://open.spotify.com/track/22gWPIZabvlWJz6ZTQUYA1) | [The Frontmen](https://open.spotify.com/artist/4Hug0FD34btM73TKK5sM7e) | [The Frontmen](https://open.spotify.com/album/6gx1ygsB7Y8RD30o6QItqg) | 4:00 | 2023-09-15 |  |
 | [Amazed \- The Frontmen Edition](https://open.spotify.com/track/67A9iiDoQcU9ppgYSUTX12) | [The Frontmen](https://open.spotify.com/artist/4Hug0FD34btM73TKK5sM7e) | [The Frontmen](https://open.spotify.com/album/1MOoTjq1P3tfT5vooMNkCA) | 4:00 | 2023-06-30 | 2023-09-22 |
 | [And Then Some](https://open.spotify.com/track/0nGPgNejfosCvKVEUD8Gim) | [Darryl Worley](https://open.spotify.com/artist/4zIBkSJcqRp4ADuFI94WvO) | [And Then Some](https://open.spotify.com/album/4COlxVYEBIH2TVtqCbAMeF) | 3:50 | 2021-10-15 |  |
+| [Angel in the Fire](https://open.spotify.com/track/42h3zdWgo1eHNDyjiJSq9f) | [Jessi Colter](https://open.spotify.com/artist/43HpW8B5gYRnYbSzm37n5v) | [Angel in the Fire](https://open.spotify.com/album/6ojbXCiwEFcC16vVEg7ott) | 4:07 | 2023-10-20 |  |
 | [Angelina](https://open.spotify.com/track/1uEx04wo96LJzR1A6nzgCi) | [Tracy Lawrence](https://open.spotify.com/artist/2BQVRw9md4UKcGUrDXABCD) | [Angelina](https://open.spotify.com/album/6CTPTBtlV9CjZvWT9zdF3B) | 2:55 | 2022-01-07 |  |
 | [Bad Storm Coming Tonight](https://open.spotify.com/track/36GHmqYW8fBK4LYM4Hr7zY) | [Collin Raye](https://open.spotify.com/artist/4AwLiAGc1rRLrCepj5rdTI) | [Bad Storm Coming Tonight](https://open.spotify.com/album/0QghGTf6Kmjb9KuZhxk7Gt) | 2:54 | 2021-10-15 | 2022-09-21 |
 | [Be A Light](https://open.spotify.com/track/5o6dFqafETxZNqUFt9ZqAC) | [Thomas Rhett](https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8), [Reba McEntire](https://open.spotify.com/artist/02rd0anEWfMtF7iMku9uor), [Hillary Scott](https://open.spotify.com/artist/0Sk6yoUQnccty5iMhVhz9D), [Chris Tomlin](https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m), [Keith Urban](https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf) | [Be A Light](https://open.spotify.com/album/6NUcdndmwC54yLd0KosGI2) | 2:53 | 2021-10-15 | 2022-09-21 |
@@ -167,6 +168,7 @@
 | [Prisoner of the Highway \(feat\. Jason Aldean\)](https://open.spotify.com/track/2RRE3hNrMaEu2DQPff2N1s) | [Ronnie Milsap](https://open.spotify.com/artist/6Sb8EHpZvyjSTT5KD9DjUZ), [Jason Aldean](https://open.spotify.com/artist/3FfvYsEGaIb52QPXhg4DcH) | [The Duets](https://open.spotify.com/album/1ru2yPj8ayXP2xAHQ3hbbb) | 4:02 | 2021-10-15 |  |
 | [Racing The Dark](https://open.spotify.com/track/6LF3H7uTWWSuvfPEMPwlht) | [Alan Jackson](https://open.spotify.com/artist/4mxWe1mtYIYfP040G38yvS) | [Racing The Dark](https://open.spotify.com/album/7KD78g9ijzy7lwT8wCb1MT) | 3:56 | 2021-11-19 |  |
 | [Railroad](https://open.spotify.com/track/3iQeaIWw809ryg4NOL3ySM) | [Skip Ewing](https://open.spotify.com/artist/2g1pnfZUsZAxpz9QGaBSq3) | [Railroad](https://open.spotify.com/album/4Cs0lNlp7rzH5l763weHC1) | 4:02 | 2021-10-15 |  |
+| [Raise The Bar](https://open.spotify.com/track/7yVL4aBAimYa28PToT2tEF) | [Craig Morgan](https://open.spotify.com/artist/6ktyNEnEukKzskQEiXgCFD), [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [Enlisted](https://open.spotify.com/album/3vIkNPu2pu3EejaNlm0bBb) | 2:44 | 2023-10-20 |  |
 | [Ready As I'll Never Be](https://open.spotify.com/track/3ClP57EQSyJyWLpYgGD131) | [Tanya Tucker](https://open.spotify.com/artist/7dmeVSH4lJqxXU7C87dKIB) | [Ready As I'll Never Be](https://open.spotify.com/album/5H0SF6b6zNFQ5GF6ixsZV1) | 4:01 | 2022-10-21 |  |
 | [Real Life \(I Never Was The Same Again\)](https://open.spotify.com/track/5mZ01tQEFBstAGa423rJdz) | [Jeff Carson](https://open.spotify.com/artist/1THO5gJEaoKK9ey0aZbCQE), [Craig Morgan](https://open.spotify.com/artist/6ktyNEnEukKzskQEiXgCFD) | [448](https://open.spotify.com/album/72w05PERbBG9DsIxVe17Mi) | 4:22 | 2023-05-12 |  |
 | [Redhead](https://open.spotify.com/track/3zAnuUCPKbRBsOsllYCmFC) | [Caylee Hammack](https://open.spotify.com/artist/1ok6sI97SuTRNc7Hjj7Uj9), [Reba McEntire](https://open.spotify.com/artist/02rd0anEWfMtF7iMku9uor) | [Redhead](https://open.spotify.com/album/7hCl3yuH8JK5vRR0iSQpwF) | 2:43 | 2021-10-15 |  |
@@ -239,6 +241,7 @@
 | [Wonderful Future](https://open.spotify.com/track/0FVX4SksBjtW12WwXmaTvA) | [Gene Watson](https://open.spotify.com/artist/3VQfHuqrRK1CNXR1V8PeR9), [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3) | [Outside the Box](https://open.spotify.com/album/7n8oIGDVjdkgiRql7hPwbT) | 2:54 | 2022-09-16 |  |
 | [Workin' My Way Down](https://open.spotify.com/track/6RauCs5nVH1UR2stIQNjXu) | [Earl Thomas Conley](https://open.spotify.com/artist/69baNgo5tsg1RjBgotRbEj) | [Promised Land: The Lost Album](https://open.spotify.com/album/6Jiv6V6D16E3SkkIcqCY77) | 3:24 | 2021-10-15 |  |
 | [World On Fire](https://open.spotify.com/track/680abMjLEy7wOLgR7zaQv4) | [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU) | [World On Fire](https://open.spotify.com/album/1PVoMQaN6xLMAsBOu27Lf7) | 4:21 | 2023-05-12 |  |
+| [Wrecking Ball](https://open.spotify.com/track/1Fl4vSE3PegDGtkNL7JXNl) | [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU), [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Wrecking Ball](https://open.spotify.com/album/6ckYZ5KfxoZisFywOMThYd) | 3:55 | 2023-10-20 |  |
 | [You Look Good](https://open.spotify.com/track/1iAPybXZz3fOL9okLCbtJO) | [Clay Walker](https://open.spotify.com/artist/4MPkNgar5uTd8Sqvrr7par) | [Texas to Tennessee](https://open.spotify.com/album/1mP7Dz3kH8vUPkraFnW6a6) | 2:55 | 2022-07-22 | 2022-09-21 |
 | [You Look Good](https://open.spotify.com/track/5LjNZZORcIjCuvHgZUMlMs) | [Clay Walker](https://open.spotify.com/artist/4MPkNgar5uTd8Sqvrr7par) | [You Look Good](https://open.spotify.com/album/2YprzSRabRlUGbRM0j80pm) | 2:55 | 2021-10-15 | 2022-07-29 |
 

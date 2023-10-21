@@ -733,6 +733,28 @@
     },
     {
       "album": {
+        "name": "Midnight",
+        "url": "https://open.spotify.com/album/24wsaxD6FbhBqDGxQmptC5"
+      },
+      "artists": [
+        {
+          "name": "aleemrk",
+          "url": "https://open.spotify.com/artist/384pA1WJO9B09gUcuIL2XP"
+        },
+        {
+          "name": "Jokhay",
+          "url": "https://open.spotify.com/artist/0Nl4kTPLk2ucrARvaf55zQ"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187857,
+      "name": "Midnight",
+      "url": "https://open.spotify.com/track/60zoHgHcJhStSg8qUbndjl"
+    },
+    {
+      "album": {
         "name": "Ordinary Miracle | \u06c1\u06cc\u0631\u06d2 \u0645\u0648\u062a\u06cc",
         "url": "https://open.spotify.com/album/17XSJDt998wsV2mrVN7LPr"
       },

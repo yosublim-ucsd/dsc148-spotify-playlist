@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-10-07",
-  "description": "where folk flowers bloom. cover: Noah Kahan ",
+  "description": "where folk flowers bloom. cover: Mitski <3",
   "name": "juniper",
   "tracks": [
     {
@@ -34,7 +34,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-21",
       "duration_ms": 150967,
       "name": "All Is Well",
       "url": "https://open.spotify.com/track/1wDSBJSCKxB8qZR6jnfqgt"
@@ -673,6 +673,24 @@
     },
     {
       "album": {
+        "name": "Georgia Walks",
+        "url": "https://open.spotify.com/album/5NQ5yCqEPIP4BW3BPKXAmU"
+      },
+      "artists": [
+        {
+          "name": "Hans Williams",
+          "url": "https://open.spotify.com/artist/3SEkDN2vusR7CIyehzfJaj"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247011,
+      "name": "Georgia Walks",
+      "url": "https://open.spotify.com/track/46ewa3Cu9oEqxNnh0LRWxs"
+    },
+    {
+      "album": {
         "name": "Good Morning, Al",
         "url": "https://open.spotify.com/album/66Z431cNHK8eTDjzSZhlR7"
       },
@@ -1023,6 +1041,24 @@
     },
     {
       "album": {
+        "name": "Lost & Found",
+        "url": "https://open.spotify.com/album/4DiQ4IeyIWXdexDkikRTRJ"
+      },
+      "artists": [
+        {
+          "name": "Darren Kiely",
+          "url": "https://open.spotify.com/artist/15Cdd3Wai5nQZATxnbEtK9"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249825,
+      "name": "Lost & Found",
+      "url": "https://open.spotify.com/track/2DjZwbUsZeLL7qzyej7K0V"
+    },
+    {
+      "album": {
         "name": "love is a black hole !",
         "url": "https://open.spotify.com/album/16d3wulra6dX9bVyENqGPU"
       },
@@ -1095,6 +1131,24 @@
     },
     {
       "album": {
+        "name": "mud on my superstars",
+        "url": "https://open.spotify.com/album/3hFlIKU66qbWphgI9DcUVP"
+      },
+      "artists": [
+        {
+          "name": "Keni Titus",
+          "url": "https://open.spotify.com/artist/3TCkIp7RQLM4MzP5q9iyzj"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163000,
+      "name": "mud on my superstars",
+      "url": "https://open.spotify.com/track/7Hhw8ulCFF8ZyxEiHnwkc6"
+    },
+    {
+      "album": {
         "name": "Are You Happy Now?",
         "url": "https://open.spotify.com/album/5NaLnnKsTGdzPuSZceQpa9"
       },
@@ -1110,6 +1164,24 @@
       "duration_ms": 242644,
       "name": "My Ego Dies At The End",
       "url": "https://open.spotify.com/track/2qpmDv8xnUxULb5TlDk9yS"
+    },
+    {
+      "album": {
+        "name": "my friend's toyota",
+        "url": "https://open.spotify.com/album/3nIvomXE7fMgjtLvrkLTPg"
+      },
+      "artists": [
+        {
+          "name": "asiris",
+          "url": "https://open.spotify.com/artist/4YFxglwXwymzvkPYndX3G2"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194400,
+      "name": "my friend's toyota",
+      "url": "https://open.spotify.com/track/5klqVId6gE0LT4QkbPUKCf"
     },
     {
       "album": {
@@ -1621,6 +1693,24 @@
     },
     {
       "album": {
+        "name": "there they go",
+        "url": "https://open.spotify.com/album/6MzGpvC1fI4kZ56DjcmadF"
+      },
+      "artists": [
+        {
+          "name": "zachy",
+          "url": "https://open.spotify.com/artist/7MWQhu1TA9OE4Lps563bN4"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133069,
+      "name": "there they go",
+      "url": "https://open.spotify.com/track/1Tr4Zir6TrVDXtJk4TRm6j"
+    },
+    {
+      "album": {
         "name": "Time Shrinks",
         "url": "https://open.spotify.com/album/70DhLvAJHcpWMoZVWTH1v0"
       },
@@ -1784,6 +1874,24 @@
       "duration_ms": 168263,
       "name": "Voyager",
       "url": "https://open.spotify.com/track/6Xl18Edf3v9Z2FLw1H69cr"
+    },
+    {
+      "album": {
+        "name": "Where'd The Time Go?",
+        "url": "https://open.spotify.com/album/7ttGJ6CYogFKE2twKTjSHM"
+      },
+      "artists": [
+        {
+          "name": "Kaleah Lee",
+          "url": "https://open.spotify.com/artist/6JgC582KHI4BpHIhbFHVAQ"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 105266,
+      "name": "Where'd The Time Go?",
+      "url": "https://open.spotify.com/track/2dXU17E5YrtwfQBlpyu8Ut"
     },
     {
       "album": {

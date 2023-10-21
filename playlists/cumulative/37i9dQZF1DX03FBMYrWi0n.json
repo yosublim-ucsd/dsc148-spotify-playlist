@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-02-11",
-  "description": "Le meilleur de la sc\u00e8ne alternative qu\u00e9b\u00e9coise actuelle. Photo: Population II",
+  "description": "Le meilleur de la sc\u00e8ne alternative qu\u00e9b\u00e9coise actuelle. Photo: Bibi Club",
   "name": "ALT_QC",
   "tracks": [
     {
@@ -290,7 +290,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-21",
       "duration_ms": 132596,
       "name": "Barracuda",
       "url": "https://open.spotify.com/track/5E5lbNZgB2HAIEuitVJSGw"
@@ -470,7 +470,7 @@
       ],
       "date_added": "2023-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-21",
       "duration_ms": 237000,
       "name": "Chambre d'\u00e9cho",
       "url": "https://open.spotify.com/track/3K39UcTMhkLDzMJCWR1Fo5"
@@ -1289,6 +1289,24 @@
     },
     {
       "album": {
+        "name": "Le feu",
+        "url": "https://open.spotify.com/album/3yrKC3JOwOu5z9RkdByzbA"
+      },
+      "artists": [
+        {
+          "name": "Bibi Club",
+          "url": "https://open.spotify.com/artist/3TcKgwcrTy4oLOQoEq3tGD"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231358,
+      "name": "Le feu",
+      "url": "https://open.spotify.com/track/6GaVUNzYZPpeU2qJrlVjtD"
+    },
+    {
+      "album": {
         "name": "Supermercado",
         "url": "https://open.spotify.com/album/2d9sRDbb3g46M3pufQwsiK"
       },
@@ -1592,7 +1610,7 @@
       ],
       "date_added": "2023-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-21",
       "duration_ms": 208754,
       "name": "Nue",
       "url": "https://open.spotify.com/track/1U4WYnIEBbwPxuLHwrves6"
@@ -1826,7 +1844,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-21",
       "duration_ms": 321005,
       "name": "Pourquoi qu'on dort pas",
       "url": "https://open.spotify.com/track/0e2zBjXM7NfhB780xyNhWX"
@@ -1844,7 +1862,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-09",
+      "date_removed": null,
       "duration_ms": 155380,
       "name": "Razz",
       "url": "https://open.spotify.com/track/7pvzD6IH4mQiPCviN6W42v"
@@ -1884,6 +1902,24 @@
       "duration_ms": 232429,
       "name": "Rock Band",
       "url": "https://open.spotify.com/track/7goO0mzvYZAukSS0aUnDc8"
+    },
+    {
+      "album": {
+        "name": "Romantisme",
+        "url": "https://open.spotify.com/album/1BdZFmzKE7B3QAxJJyXXx4"
+      },
+      "artists": [
+        {
+          "name": "\u00c9l\u00e9gie",
+          "url": "https://open.spotify.com/artist/2NPtkCfs31agTgNvldypV0"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233708,
+      "name": "Romantisme",
+      "url": "https://open.spotify.com/track/3IqqmMjTOCAjVr2hJay9VZ"
     },
     {
       "album": {
@@ -2078,7 +2114,7 @@
       ],
       "date_added": "2023-02-10",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-20",
+      "date_removed": null,
       "duration_ms": 396142,
       "name": "Sur la pointe des pieds",
       "url": "https://open.spotify.com/track/5kOivCUmRhPe9aSQCN7zy7"

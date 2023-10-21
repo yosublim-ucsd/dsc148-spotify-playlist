@@ -1,12 +1,12 @@
 {
   "description": "The sound of summer 2023!",
-  "num_followers": 695089,
+  "num_followers": 695049,
   "original_name": "Summer Hits UK 2023",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmMWJhMGQ1NTViNmY0YTIxOWE1MWMzYjExNDk4OGNmYjlhMmY5NDI3",
+  "snapshot_id": "MCxhYWQxNmYyNWQyM2VkNzcwZTkxOWFkYTg0MzgzOThjOTY2MmY3YTM1",
   "tracks": [
     {
       "added_at": "2023-09-08 15:58:47",
@@ -203,8 +203,8 @@
     {
       "added_at": "2023-09-08 15:58:47",
       "album": {
-        "name": "0800 HEAVEN",
-        "url": "https://open.spotify.com/album/0ufYMOnoFhramYoTojRkJv"
+        "name": "0800 HEAVEN (feat. Ella Henderson) [Symmetrik Remix]",
+        "url": "https://open.spotify.com/album/0JF8SIdrpcaF4Gk24mahv8"
       },
       "artists": [
         {
@@ -222,7 +222,7 @@
       ],
       "duration_ms": 159316,
       "name": "0800 HEAVEN",
-      "url": "https://open.spotify.com/track/75KZRDouF6WcfkThhnJSvB"
+      "url": "https://open.spotify.com/track/5UThF3rpyCS3sEP36H15W6"
     },
     {
       "added_at": "2023-09-08 15:58:47",
@@ -735,6 +735,30 @@
       "duration_ms": 124462,
       "name": "Feel It - Club Edit",
       "url": "https://open.spotify.com/track/71xKlOIhZKO55Rt3zSHzQt"
+    },
+    {
+      "added_at": "2023-09-08 15:58:47",
+      "album": {
+        "name": "Drinkin'",
+        "url": "https://open.spotify.com/album/2OjEzu9OvZLeGOJnAOxphI"
+      },
+      "artists": [
+        {
+          "name": "Joel Corry",
+          "url": "https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp"
+        },
+        {
+          "name": "MK",
+          "url": "https://open.spotify.com/artist/1yqxFtPHKcGcv6SXZNdyT9"
+        },
+        {
+          "name": "Rita Ora",
+          "url": "https://open.spotify.com/artist/5CCwRZC6euC8Odo6y9X8jr"
+        }
+      ],
+      "duration_ms": 149545,
+      "name": "Drinkin'",
+      "url": "https://open.spotify.com/track/2LCd6P35jFyZ9SN37o9D2q"
     },
     {
       "added_at": "2023-09-08 15:58:47",

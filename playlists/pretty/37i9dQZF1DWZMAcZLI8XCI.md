@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZMAcZLI8XCI.md) - [plain]
 
 > <a href="spotify:artist:3wc57nV2fGEoM8x4xPK1O9">Dixon</a>'s favorite tracks\. Updated regularly\. Curated by Dixon\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 44,541 likes - 63 songs - 5 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 44,550 likes - 63 songs - 5 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -72,4 +72,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZMAcZLI8XCI.md) - [plain]
 | 62 | [dev.jv.2.16.2023.wav](https://open.spotify.com/track/12hD15ouhCop0cnc6I81aR) | [ketamine\_shoppe](https://open.spotify.com/artist/4kZmYpKcwD9i0aifzO7A6o) | [dev.jv.2.16.2023.wav](https://open.spotify.com/album/31zDzGL9nzL8nSzcdBRHdf) | 6:17 |
 | 63 | [Water Hymn](https://open.spotify.com/track/3wsiOrVabcwXiSz6U5CJMR) | [Wanderwelle](https://open.spotify.com/artist/2042fteQud87cIM8K6VARW) | [All Hands Bury The Cliffs At Sea](https://open.spotify.com/album/0PxPgYaRsqhf83G7FHfoRC) | 4:50 |
 
-Snapshot ID: `MCw0ODNmYWVjN2ZiNGM4NjU0OTZhNzM0MzE2YjIwYWQ0MDAzYmU5ZmIx`
+Snapshot ID: `MCw1OTE5NmEwNmExN2FiODQ2OGU4YmFmMTA1ODBlYjQ0ODRhNTdkMTJk`

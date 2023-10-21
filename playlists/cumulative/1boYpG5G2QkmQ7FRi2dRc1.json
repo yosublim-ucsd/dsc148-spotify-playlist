@@ -7925,6 +7925,24 @@
     },
     {
       "album": {
+        "name": "GTFO",
+        "url": "https://open.spotify.com/album/31fLFrQhX0ezCLgKqsXa1v"
+      },
+      "artists": [
+        {
+          "name": "Madison Mars",
+          "url": "https://open.spotify.com/artist/4gJCFxvqKc43Ifk0UIBB42"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174000,
+      "name": "GTFO",
+      "url": "https://open.spotify.com/track/4b4CEuu5QUhccYGDustPJq"
+    },
+    {
+      "album": {
         "name": "Gushtose",
         "url": "https://open.spotify.com/album/2O4yQ8clSD8CC5s1eDd1p6"
       },
@@ -14235,6 +14253,28 @@
     },
     {
       "album": {
+        "name": "One Nation",
+        "url": "https://open.spotify.com/album/3JaFOAoAOI0eEGCrJw5FYY"
+      },
+      "artists": [
+        {
+          "name": "Julian Jordan",
+          "url": "https://open.spotify.com/artist/2vUCVkeZjzDcaoX4gagHdV"
+        },
+        {
+          "name": "Eleganto",
+          "url": "https://open.spotify.com/artist/0MMdZHo4Jeldyg5awD2w5V"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176250,
+      "name": "One Nation",
+      "url": "https://open.spotify.com/track/0oUDnuGOTU0rW6tkQOr0yj"
+    },
+    {
+      "album": {
         "name": "One Of A Kind (Truth x Lies Remix)",
         "url": "https://open.spotify.com/album/6x4mg8Sx0i4sRplTXR8mzL"
       },
@@ -15369,6 +15409,24 @@
     },
     {
       "album": {
+        "name": "Pulse",
+        "url": "https://open.spotify.com/album/42cgrGlqco9XP7gyhoxFM5"
+      },
+      "artists": [
+        {
+          "name": "Badflite",
+          "url": "https://open.spotify.com/artist/3AEEmo3VYEBbQBUUEY2fUS"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188041,
+      "name": "Pulse",
+      "url": "https://open.spotify.com/track/2wLwHrBJeJMRD4R4s6TCZU"
+    },
+    {
+      "album": {
         "name": "Push The Love (Seb Zito Remix)",
         "url": "https://open.spotify.com/album/0p31PmsmGMYkOvc7Zro3DQ"
       },
@@ -15716,6 +15774,32 @@
       "duration_ms": 163000,
       "name": "Real Love",
       "url": "https://open.spotify.com/track/6afdNrotJ1PCt9DoFiHpLj"
+    },
+    {
+      "album": {
+        "name": "Real Love (Liva K Remix)",
+        "url": "https://open.spotify.com/album/3joNpvmZheGoKgbIiQL1kd"
+      },
+      "artists": [
+        {
+          "name": "Martin Garrix",
+          "url": "https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ"
+        },
+        {
+          "name": "Lloyiso",
+          "url": "https://open.spotify.com/artist/3CrKgAMSBXsnTugbUqpu6g"
+        },
+        {
+          "name": "Liva K",
+          "url": "https://open.spotify.com/artist/63mVEANeXk1p622Ejj9rBj"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177577,
+      "name": "Real Love - Liva K Remix",
+      "url": "https://open.spotify.com/track/3TyPUGvK4G8pdrM3oEWlwg"
     },
     {
       "album": {

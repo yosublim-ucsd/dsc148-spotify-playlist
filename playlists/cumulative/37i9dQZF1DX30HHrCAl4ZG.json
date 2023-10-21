@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Explore all things indie rock right now. Featuring new music by Slow Pulp",
+  "description": "Explore all things indie rock right now. Featuring new music by Mannequin Pussy",
   "name": "Today's Indie Rock",
   "tracks": [
     {
@@ -1064,7 +1064,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-21",
       "duration_ms": 199983,
       "name": "Alone",
       "url": "https://open.spotify.com/track/1CfIN1M7ADg6kUgNthy96D"
@@ -1404,6 +1404,28 @@
       "duration_ms": 171392,
       "name": "Are You In",
       "url": "https://open.spotify.com/track/5vVqAE6Y9LLXj7YoCxbeRM"
+    },
+    {
+      "album": {
+        "name": "Are You Looking Up / You got it",
+        "url": "https://open.spotify.com/album/7l0sG15g8sYyDgebPA5UyX"
+      },
+      "artists": [
+        {
+          "name": "Mk.gee",
+          "url": "https://open.spotify.com/artist/7tr9pbgNEKtG0GQTKe08Tz"
+        },
+        {
+          "name": "Two star",
+          "url": "https://open.spotify.com/artist/3QCMLWLjJyGA8cQCPrusdv"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166520,
+      "name": "Are You Looking Up",
+      "url": "https://open.spotify.com/track/00uvWPbNBali6gKlZxUxIU"
     },
     {
       "album": {
@@ -2165,6 +2187,24 @@
     },
     {
       "album": {
+        "name": "bella / i can't find anyone",
+        "url": "https://open.spotify.com/album/3AJEvGdq17HHvF20ITVbD7"
+      },
+      "artists": [
+        {
+          "name": "EKKSTACY",
+          "url": "https://open.spotify.com/artist/0ynzbXwyCzxicMKHBoOkSH"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199466,
+      "name": "bella",
+      "url": "https://open.spotify.com/track/2i5q9JRYHVkPNegErZ2WvA"
+    },
+    {
+      "album": {
         "name": "Ben Franklin",
         "url": "https://open.spotify.com/album/2VfCI8EO1rfuGF0VmcM57O"
       },
@@ -2418,6 +2458,24 @@
       "duration_ms": 122184,
       "name": "biteback",
       "url": "https://open.spotify.com/track/1wG8jqQHtUWP22YaUIZNnS"
+    },
+    {
+      "album": {
+        "name": "Black Balloons",
+        "url": "https://open.spotify.com/album/6i1eBfd25KyOdtOaZpeJxW"
+      },
+      "artists": [
+        {
+          "name": "The Rare Occasions",
+          "url": "https://open.spotify.com/artist/1QfpRUtH14JLoY6F6AYmwt"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 113605,
+      "name": "Black Balloons",
+      "url": "https://open.spotify.com/track/6GcGjg0IfSzcnlrATESE4S"
     },
     {
       "album": {
@@ -3042,7 +3100,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-21",
       "duration_ms": 248853,
       "name": "boy blue",
       "url": "https://open.spotify.com/track/39ygtx2y6C3LFOggktXHEM"
@@ -3096,7 +3154,7 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-21",
       "duration_ms": 202920,
       "name": "Boyfriend",
       "url": "https://open.spotify.com/track/0ty4GQLhjq2lDzV8GpCNCT"
@@ -4272,6 +4330,24 @@
       "duration_ms": 166711,
       "name": "Clear Bones",
       "url": "https://open.spotify.com/track/21NVIBYBZIp7oa0OONZBZo"
+    },
+    {
+      "album": {
+        "name": "Close Quarters",
+        "url": "https://open.spotify.com/album/4JEizeJf7M3cbLEzbtmxif"
+      },
+      "artists": [
+        {
+          "name": "Vacations",
+          "url": "https://open.spotify.com/artist/0U7iI0Dk4Ojvi17nZboNO4"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220813,
+      "name": "Close Quarters",
+      "url": "https://open.spotify.com/track/7eCpxZdpP7kz9j2OUJLbpd"
     },
     {
       "album": {
@@ -5950,7 +6026,7 @@
       ],
       "date_added": "2023-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-21",
       "duration_ms": 267320,
       "name": "Dog",
       "url": "https://open.spotify.com/track/1MwBrXBadrxeRBC6wr1aFG"
@@ -6210,6 +6286,24 @@
       "duration_ms": 257000,
       "name": "Down That Road",
       "url": "https://open.spotify.com/track/6fGeA9cNR5CYDTSHtsCfgC"
+    },
+    {
+      "album": {
+        "name": "Dramamine",
+        "url": "https://open.spotify.com/album/1RgOz8zYC5GKsZEZPjQ0pT"
+      },
+      "artists": [
+        {
+          "name": "Middle Kids",
+          "url": "https://open.spotify.com/artist/6AawJaQO4i99Be2A3w7BTW"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177473,
+      "name": "Dramamine",
+      "url": "https://open.spotify.com/track/4LkUIkfIw7f3l7eJnOj9OW"
     },
     {
       "album": {
@@ -9127,6 +9221,24 @@
     },
     {
       "album": {
+        "name": "Headhunters",
+        "url": "https://open.spotify.com/album/0bPoR7rKYRoePTxcO69c5k"
+      },
+      "artists": [
+        {
+          "name": "Krooked Kings",
+          "url": "https://open.spotify.com/artist/6PbMwLmbus5mZl93tX1lXE"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184258,
+      "name": "Headhunters",
+      "url": "https://open.spotify.com/track/0e2UXJVBkra5oNKMoOF9BH"
+    },
+    {
+      "album": {
         "name": "Headset Go",
         "url": "https://open.spotify.com/album/0Dyt1CtkImtFkWOwKZLRhQ"
       },
@@ -9438,7 +9550,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-21",
       "duration_ms": 211855,
       "name": "Highlands",
       "url": "https://open.spotify.com/track/177wGtLGKq5S8FqcagPDj6"
@@ -9896,6 +10008,24 @@
       "duration_ms": 195044,
       "name": "I Don't Know",
       "url": "https://open.spotify.com/track/56PgQIFxAvXcEtXNYrsB0w"
+    },
+    {
+      "album": {
+        "name": "I Don't Know You",
+        "url": "https://open.spotify.com/album/0zT2ilSANN1bLI7gV6lqCl"
+      },
+      "artists": [
+        {
+          "name": "Mannequin Pussy",
+          "url": "https://open.spotify.com/artist/33yje3hgpNfdXpqdJQcrt9"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224373,
+      "name": "I Don't Know You",
+      "url": "https://open.spotify.com/track/43DsSmYR7rk3LKnyY8wkGI"
     },
     {
       "album": {
@@ -11095,6 +11225,24 @@
     },
     {
       "album": {
+        "name": "It Was Not A Beautiful Night",
+        "url": "https://open.spotify.com/album/32kSabsb9xQNIv2tI1kXPL"
+      },
+      "artists": [
+        {
+          "name": "Sabrina Song",
+          "url": "https://open.spotify.com/artist/7JXdTCq0awJfHZMJJkG0AS"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177631,
+      "name": "It Was Not A Beautiful Night",
+      "url": "https://open.spotify.com/track/3vIgkoS6GYppSgmKH2btkn"
+    },
+    {
+      "album": {
         "name": "It's Alive!",
         "url": "https://open.spotify.com/album/3lwc2UXhl9kklsEkzw1cI4"
       },
@@ -11214,7 +11362,7 @@
       ],
       "date_added": "2023-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-21",
       "duration_ms": 166690,
       "name": "I\u2019d Like You To Leave",
       "url": "https://open.spotify.com/track/2ufyUEytXZQvltIJsxEDwO"
@@ -11942,6 +12090,24 @@
       "duration_ms": 242965,
       "name": "Let Em Talk",
       "url": "https://open.spotify.com/track/3pJWlIHb7HNvVrzPmH0A9Z"
+    },
+    {
+      "album": {
+        "name": "Let Go",
+        "url": "https://open.spotify.com/album/195upAWApmh2TbhBjUKlAt"
+      },
+      "artists": [
+        {
+          "name": "NewDad",
+          "url": "https://open.spotify.com/artist/1yz8XixOiIJJ9IxjbnfYV6"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253964,
+      "name": "Let Go",
+      "url": "https://open.spotify.com/track/4rwIVNZDiswV0wXcLdtceO"
     },
     {
       "album": {
@@ -13155,6 +13321,24 @@
     },
     {
       "album": {
+        "name": "Sit Down for Dinner",
+        "url": "https://open.spotify.com/album/1DCI57XjibUHoaVGcg7wGS"
+      },
+      "artists": [
+        {
+          "name": "Blonde Redhead",
+          "url": "https://open.spotify.com/artist/5isqImG0rLfAgBJSPMEVXF"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 310094,
+      "name": "Melody Experiment",
+      "url": "https://open.spotify.com/track/04SwfL1yAlGgn0EftxX3Jy"
+    },
+    {
+      "album": {
         "name": "Melody Experiment",
         "url": "https://open.spotify.com/album/08WSSXUZVNGgS6yTQ0l4Ho"
       },
@@ -13166,7 +13350,7 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-21",
       "duration_ms": 310094,
       "name": "Melody Experiment",
       "url": "https://open.spotify.com/track/3cVEXHZ2G8tJMGoYff4B3q"
@@ -13408,10 +13592,28 @@
       ],
       "date_added": "2023-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-21",
       "duration_ms": 202605,
       "name": "Model",
       "url": "https://open.spotify.com/track/2Zazn9812HoUjjs1fN6cMP"
+    },
+    {
+      "album": {
+        "name": "Modern Girl",
+        "url": "https://open.spotify.com/album/4a6PlF2W6n5oZsKFyLqmP2"
+      },
+      "artists": [
+        {
+          "name": "Bleachers",
+          "url": "https://open.spotify.com/artist/2eam0iDomRHGBypaDQLwWI"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223100,
+      "name": "Modern Girl",
+      "url": "https://open.spotify.com/track/4TPgBDOEVwywalXHFUUUQY"
     },
     {
       "album": {
@@ -14570,7 +14772,7 @@
       ],
       "date_added": "2023-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-21",
       "duration_ms": 212985,
       "name": "Now I Know You",
       "url": "https://open.spotify.com/track/24ip7sFlOP3Ftl5EdxV6Zd"
@@ -14606,7 +14808,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-21",
       "duration_ms": 190663,
       "name": "NYE",
       "url": "https://open.spotify.com/track/5YVkywBzm2b9oqSKbZiAmp"
@@ -15548,7 +15750,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-21",
       "duration_ms": 168406,
       "name": "Pontiac",
       "url": "https://open.spotify.com/track/6v1YAvqoysAmUAxtLvp69r"
@@ -15966,7 +16168,7 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-21",
       "duration_ms": 250815,
       "name": "Push Back Baby",
       "url": "https://open.spotify.com/track/52fwtd7w8ssXTflCTPPluc"
@@ -17607,6 +17809,24 @@
     },
     {
       "album": {
+        "name": "Smoking Again",
+        "url": "https://open.spotify.com/album/3Py4Ssqx8NXu3nHZsm3BHz"
+      },
+      "artists": [
+        {
+          "name": "IAN SWEET",
+          "url": "https://open.spotify.com/artist/6mrOjLZyPub9LcecUarcMD"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256133,
+      "name": "Smoking Again",
+      "url": "https://open.spotify.com/track/6xwtRUcCmIyC8WdzvEcvs1"
+    },
+    {
+      "album": {
         "name": "Good Grief!",
         "url": "https://open.spotify.com/album/2HLIi5PEynIaVHEFDAmFpV"
       },
@@ -18102,7 +18322,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-21",
       "duration_ms": 147178,
       "name": "Split Up",
       "url": "https://open.spotify.com/track/1VNxSjEjFNcV1n2KET3QM9"
@@ -19286,7 +19506,7 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-21",
       "duration_ms": 191413,
       "name": "the comedown",
       "url": "https://open.spotify.com/track/3oHfyJpmuR3OzV7fZRGeDK"
@@ -21637,6 +21857,24 @@
     },
     {
       "album": {
+        "name": "When It Rains",
+        "url": "https://open.spotify.com/album/4O3VhOjF5bseqMZbUaj8EI"
+      },
+      "artists": [
+        {
+          "name": "Savoir Adore",
+          "url": "https://open.spotify.com/artist/2weMnYqCmtNUrSLAJq5dD8"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 291141,
+      "name": "When It Rains",
+      "url": "https://open.spotify.com/track/1V20vefZTBfVRWsZHlL2sO"
+    },
+    {
+      "album": {
         "name": "Where Are You Now? (feat. girlhouse)",
         "url": "https://open.spotify.com/album/5bIbXSqZjr3m6DBm6t7HPQ"
       },
@@ -21916,6 +22154,24 @@
       "duration_ms": 275560,
       "name": "Winona",
       "url": "https://open.spotify.com/track/72svIlAUCr5gbM591DQkdJ"
+    },
+    {
+      "album": {
+        "name": "Winter City Ghosts",
+        "url": "https://open.spotify.com/album/2xZBBrQYAmNJa5LvYt4ULO"
+      },
+      "artists": [
+        {
+          "name": "Sparky Deathcap",
+          "url": "https://open.spotify.com/artist/2Ru6erK9heeCeWQDx0sDmR"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233473,
+      "name": "Winter City Ghosts",
+      "url": "https://open.spotify.com/track/3IV9DBVv6Fez2B1Dcoibcc"
     },
     {
       "album": {

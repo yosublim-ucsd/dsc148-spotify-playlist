@@ -1,12 +1,12 @@
 {
   "description": "The decade when country and rockabilly came together. Cover: Johnny Cash",
-  "num_followers": 283136,
+  "num_followers": 283236,
   "original_name": "50s Country",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyMmY3YjU4ZTcwNGUyYmYyMTVmYTMzZWM5MGViOTA4NmY5NWYwNmU0",
+  "snapshot_id": "MCw1YzIwNzA4M2M4OWRiMDNmMTFjMDBlMTljMjI1ZTljMmIyMWNhOTBj",
   "tracks": [
     {
       "added_at": "2023-01-02 21:32:07",
@@ -775,18 +775,26 @@
     {
       "added_at": "2023-01-02 21:32:07",
       "album": {
-        "name": "Dance To The Bop",
-        "url": "https://open.spotify.com/album/3oavZnlCWGZJyXj8fuLVlR"
+        "name": "The Definitive Collection",
+        "url": "https://open.spotify.com/album/4IvUOgEsxPjkOgiF1Xpg1T"
       },
       "artists": [
         {
-          "name": "Gene Vincent & His Blue Caps",
-          "url": "https://open.spotify.com/artist/7lKaTIgVek1R2lqpCulQmq"
+          "name": "Ernest Tubb",
+          "url": "https://open.spotify.com/artist/7gS1Yv0RynyzKX5ICtKIhS"
+        },
+        {
+          "name": "Red Foley",
+          "url": "https://open.spotify.com/artist/56tggwKsz5OqCDf1i0Str9"
+        },
+        {
+          "name": "Sunshine Trio",
+          "url": "https://open.spotify.com/artist/0qDfuhpFr8McyDDbSa9BHn"
         }
       ],
-      "duration_ms": 156306,
-      "name": "Be-Bop-A-Lula",
-      "url": "https://open.spotify.com/track/0HUp7ipIDJvITTqizN6cxJ"
+      "duration_ms": 181653,
+      "name": "Goodnight, Irene",
+      "url": "https://open.spotify.com/track/70uBQNPGrjgfvwYhkWZksR"
     },
     {
       "added_at": "2023-01-02 21:32:07",
@@ -823,26 +831,18 @@
     {
       "added_at": "2023-01-02 21:32:07",
       "album": {
-        "name": "The Definitive Collection",
-        "url": "https://open.spotify.com/album/4IvUOgEsxPjkOgiF1Xpg1T"
+        "name": "Dance To The Bop",
+        "url": "https://open.spotify.com/album/3oavZnlCWGZJyXj8fuLVlR"
       },
       "artists": [
         {
-          "name": "Ernest Tubb",
-          "url": "https://open.spotify.com/artist/7gS1Yv0RynyzKX5ICtKIhS"
-        },
-        {
-          "name": "Red Foley",
-          "url": "https://open.spotify.com/artist/56tggwKsz5OqCDf1i0Str9"
-        },
-        {
-          "name": "Sunshine Trio",
-          "url": "https://open.spotify.com/artist/0qDfuhpFr8McyDDbSa9BHn"
+          "name": "Gene Vincent & His Blue Caps",
+          "url": "https://open.spotify.com/artist/7lKaTIgVek1R2lqpCulQmq"
         }
       ],
-      "duration_ms": 181653,
-      "name": "Goodnight, Irene",
-      "url": "https://open.spotify.com/track/70uBQNPGrjgfvwYhkWZksR"
+      "duration_ms": 156306,
+      "name": "Be-Bop-A-Lula",
+      "url": "https://open.spotify.com/track/0HUp7ipIDJvITTqizN6cxJ"
     },
     {
       "added_at": "2023-01-02 21:32:07",

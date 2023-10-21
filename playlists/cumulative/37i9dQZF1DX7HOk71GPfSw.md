@@ -4,7 +4,7 @@
 
 > dorian alert
 
-1,854 songs - 3 day 12 hr 18 min
+1,857 songs - 3 day 12 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -134,6 +134,7 @@
 | [April \(Eyes\)](https://open.spotify.com/track/2KaM0vJC3mpraNUjDmjr0C) | [pluko](https://open.spotify.com/artist/01qbSocTDAe2DmKayS89A5) | [APRIL \(EYES\)](https://open.spotify.com/album/7p24hLtyoSdmLHHFnr6Uft) | 2:08 | 2023-02-17 | 2023-05-06 |
 | [Argan](https://open.spotify.com/track/6zI1k0jHfaWydQn15SuG5r) | [Kuzu](https://open.spotify.com/artist/5uhwzozeBApn2zTs4FzDJW), [Oitido](https://open.spotify.com/artist/2pvLGa7fjBiZm6iOU1kwY5) | [Argan](https://open.spotify.com/album/3RRzlz8vQn9i2sHg0BJ815) | 3:12 | 2021-10-29 | 2022-02-26 |
 | [Armageddon](https://open.spotify.com/track/2WzZnoJFsyKPs7ZIrFv0dl) | [blackwinterwells](https://open.spotify.com/artist/4tF39UYlbBLqTo5JK3qX1u), [Tonser](https://open.spotify.com/artist/4XQCRgJvDzVmu6xjcv5dfm) | [Armageddon](https://open.spotify.com/album/52hz06264oPZjTsGO8pc8K) | 2:43 | 2020-11-14 | 2021-01-08 |
+| [arroz](https://open.spotify.com/track/1nrPicb4hDsUQayHExqFO7) | [Cma](https://open.spotify.com/artist/4D0v8wSG179N0eMjwXFlDN) | [arroz](https://open.spotify.com/album/0jjEpl7QHid5llB360u7rE) | 2:33 | 2023-10-20 |  |
 | [arsenic](https://open.spotify.com/track/6jRj5tzddShW6JVEktRePw) | [glaive](https://open.spotify.com/artist/4cJKDGSv4Dz9QycXYmo565) | [arsenic](https://open.spotify.com/album/1Ugw6rLUEMn4jFThArJjbL) | 1:51 | 2020-10-13\* | 2021-02-10 |
 | [artifact 22](https://open.spotify.com/track/1dnN0DI60lCnVEp0YpGCe2) | [fearofmakingout](https://open.spotify.com/artist/6dYf0mDvC886saRIV4on5c) | [artifact 22](https://open.spotify.com/album/2PFM9dsU68zeAWCA1dbAHb) | 1:44 | 2023-07-07 | 2023-07-22 |
 | [Ascension](https://open.spotify.com/track/3ih7DSjunO6fqpFJKc64rj) | [daine](https://open.spotify.com/artist/4lyCoxLN0aW7nJy5rec0tG) | [Ascension](https://open.spotify.com/album/2UAECkxh2d5EIRN05WWVL1) | 2:42 | 2020-11-04 | 2020-11-06 |
@@ -271,6 +272,7 @@
 | [brokeboy](https://open.spotify.com/track/5A2hkikTPwDiJECorH57vg) | [Internet Girl](https://open.spotify.com/artist/2eVTKG3Z5bbKk2OWMIe3iL), [Hugo Pooe](https://open.spotify.com/artist/786vB3MPgJ2kUzhNrbeaMZ) | [brokeboy](https://open.spotify.com/album/5aSHhl5C5pb1qhpHEDTa19) | 2:59 | 2022-03-18 | 2022-06-04 |
 | [broken](https://open.spotify.com/track/4i9cDKtznv2wd02wDJiIWO) | [meat computer](https://open.spotify.com/artist/7JU13ATc2v3kzIuSqNNPWN) | [broken](https://open.spotify.com/album/4oJ1ESU2EWeepS9v2V5OYI) | 2:18 | 2022-08-26 | 2022-09-04 |
 | [broken](https://open.spotify.com/track/2glnsTtO3HOwZ1iUMiMKja) | [midwxst](https://open.spotify.com/artist/7CGSp2GbiOpLPSq61qjxf8) | [broken](https://open.spotify.com/album/3PsSalVDMPwqFWmBZZQRHB) | 2:34 | 2022-07-08 | 2022-11-12 |
+| [brown eyes](https://open.spotify.com/track/2pLieFj49thsxTBBquLEz9) | [Swansea Skag](https://open.spotify.com/artist/4MV1kXqC76IgYoOdBQdp3T) | [brown eyes](https://open.spotify.com/album/2ZsjTlwVcwkYgcT0R7GA1X) | 2:06 | 2023-10-20 |  |
 | [Brutal Truth \(212\)](https://open.spotify.com/track/6SpalHVBf3ibmA0j05Hg40) | [saturn](https://open.spotify.com/artist/42IAg1RgfyE8c66KZcSlSR) | [Brutal Truth \(212\)](https://open.spotify.com/album/035mKv0gJKXC86WOS5EBnz) | 2:12 | 2021-12-10 | 2022-02-26 |
 | [bubblegum boy](https://open.spotify.com/track/5wvBwbVcQ10gmnaiwdsQTW) | [Apollo Monroe](https://open.spotify.com/artist/2zn8zIQSLOTHXK4G3CwdXF), [OLD PUP](https://open.spotify.com/artist/2LBKvUvIjvBIuBaKtlmwxq) | [bubblegum boy](https://open.spotify.com/album/61iAYxPyCp9G5aXx6SNSEE) | 3:18 | 2021-07-29 | 2021-09-18 |
 | [buffalo '66](https://open.spotify.com/track/4QgiWkurJSR5fJDn7MYhN9) | [aldn](https://open.spotify.com/artist/2GUw9Wzha61PkZoRVv1PDD) | [the end](https://open.spotify.com/album/3yAtabXHQMk1uJ9tqaCDDL) | 2:36 | 2023-07-21 |  |
@@ -398,6 +400,7 @@
 | [Daisy 2.0 \(feat\. Hatsune Miku\)](https://open.spotify.com/track/0s8RXkQW9lwGEV6WlG8KDq) | [Ashnikko](https://open.spotify.com/artist/3PyJHH2wyfQK3WZrk9rpmP), [Miku Hatsune](https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl) | [Daisy 2.0 \(feat\. Hatsune Miku\)](https://open.spotify.com/album/6JZYS7UElSfjyTgFgE1ApG) | 2:47 | 2021-01-08 | 2021-02-10 |
 | [dammit](https://open.spotify.com/track/3Dbs5eRMWdL4wec9Dulqmt) | [torr](https://open.spotify.com/artist/6fq8lpmabNBMPao92rMw3m) | [dammit](https://open.spotify.com/album/6xuifeIak1B5uTRH7dqFWM) | 2:25 | 2021-06-05 | 2021-09-24 |
 | [dance in the moonlight](https://open.spotify.com/track/2SP8AAgffttY401Ye5xpZH) | [Prentiss](https://open.spotify.com/artist/0uzKt8lgkTlxm4OUWiCX3H) | [dance in the moonlight](https://open.spotify.com/album/0QjzftDk0NKAv4WhAsQVDL) | 2:21 | 2021-05-15 | 2021-09-24 |
+| [Dang](https://open.spotify.com/track/7ddHGUPt5bOpVFAtX6TJN8) | [Caroline Polachek](https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a) | [Dang](https://open.spotify.com/album/3DZodwqZN2YkjgI0NAwyS8) | 2:44 | 2023-10-20 |  |
 | [danger](https://open.spotify.com/track/3Oh2SywMUJg6DE8HPckmkL) | [m1v](https://open.spotify.com/artist/5pfVvTVQiPCMClDlE3bj0S) | [danger](https://open.spotify.com/album/7ChY198ifAiVtE61EmHpVv) | 1:31 | 2021-01-08 | 2021-02-10 |
 | [darkage](https://open.spotify.com/track/2jAGD9wgFRad8RCrUi9dY5) | [Mixed Matches](https://open.spotify.com/artist/7A2xUGz3Mbq2tJdMfILN34) | [darkage/innocence](https://open.spotify.com/album/0zwPSDxKufsPnzATFYneGW) | 3:17 | 2023-06-30 |  |
 | [DARKWEB](https://open.spotify.com/track/1yfSkQAYrMNTpQllCNArOV) | [JACKIE EXTREME](https://open.spotify.com/artist/3lTxQgwx9i1S3u0UoZHCRr) | [CYBERBITCH](https://open.spotify.com/album/0HswpOOV1m7mmkBkfm3WOn) | 3:54 | 2021-02-10 | 2021-02-26 |

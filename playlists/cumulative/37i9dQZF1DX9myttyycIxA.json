@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Underground indie rock gems. Cover: Squirrel Flower",
+  "description": "Underground indie rock gems. Cover: Babehoven",
   "name": "undercurrents",
   "tracks": [
     {
@@ -1440,6 +1440,24 @@
       "duration_ms": 190066,
       "name": "Back To This",
       "url": "https://open.spotify.com/track/6S3FfGti4KjL8wIamymaep"
+    },
+    {
+      "album": {
+        "name": "Census Designated",
+        "url": "https://open.spotify.com/album/0rsCXQ9QyrLaTc2a5fvsZR"
+      },
+      "artists": [
+        {
+          "name": "Jane Remover",
+          "url": "https://open.spotify.com/artist/2rLGlNI6htigNxx172qxLu"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 360995,
+      "name": "Backseat Girl",
+      "url": "https://open.spotify.com/track/7y23wOenPKul2aNEF7Dcwr"
     },
     {
       "album": {
@@ -7291,6 +7309,24 @@
     },
     {
       "album": {
+        "name": "Pest",
+        "url": "https://open.spotify.com/album/55C7FxnZGpBDrv3uxbBYgI"
+      },
+      "artists": [
+        {
+          "name": "Daffo",
+          "url": "https://open.spotify.com/artist/0RsNTNwQqjREcl3VG81prp"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 119891,
+      "name": "Good God",
+      "url": "https://open.spotify.com/track/1Tqk6l1J3ANlVUpCG3Sdlo"
+    },
+    {
+      "album": {
         "name": "Good Recipe",
         "url": "https://open.spotify.com/album/2qJxomTOJ31stDwwmzqct1"
       },
@@ -10928,7 +10964,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-21",
       "duration_ms": 216208,
       "name": "live action epiphany",
       "url": "https://open.spotify.com/track/3vdd92KMv7oWoO2tFYHNbQ"
@@ -13340,7 +13376,7 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-21",
       "duration_ms": 117511,
       "name": "PHD",
       "url": "https://open.spotify.com/track/0MzNvq7rOR7zYfJcRf7Yzz"
@@ -13648,6 +13684,24 @@
       "duration_ms": 178236,
       "name": "Pretty Pictures",
       "url": "https://open.spotify.com/track/330fmJp9kvEMPjLhoc29Zl"
+    },
+    {
+      "album": {
+        "name": "pretty scars",
+        "url": "https://open.spotify.com/album/7rF8PnLMiuS6NyH8s2MVyo"
+      },
+      "artists": [
+        {
+          "name": "w1sh",
+          "url": "https://open.spotify.com/artist/57zmm9q6ZH4TJNa4sQgmYA"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136153,
+      "name": "pretty scars",
+      "url": "https://open.spotify.com/track/7dTs49ZdEWuHvyrbjrZyDa"
     },
     {
       "album": {
@@ -14210,6 +14264,24 @@
       "duration_ms": 210777,
       "name": "Room",
       "url": "https://open.spotify.com/track/0qyIfrncrrZQlx2jaffhYm"
+    },
+    {
+      "album": {
+        "name": "Root Canal",
+        "url": "https://open.spotify.com/album/7vhWbzeW452VtyAhpFsVyM"
+      },
+      "artists": [
+        {
+          "name": "Lowertown",
+          "url": "https://open.spotify.com/artist/1yI0RRPnOA9BFJmiZ6cEzw"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196533,
+      "name": "Root Canal",
+      "url": "https://open.spotify.com/track/41QKSwPaV7ADagGinXHeTv"
     },
     {
       "album": {
@@ -15952,7 +16024,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-21",
       "duration_ms": 147178,
       "name": "Split Up",
       "url": "https://open.spotify.com/track/1VNxSjEjFNcV1n2KET3QM9"
@@ -18426,7 +18498,7 @@
       ],
       "date_added": "2023-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-21",
       "duration_ms": 182778,
       "name": "Valley Ghoul",
       "url": "https://open.spotify.com/track/4Gpvffa23tFfBjbusONE01"

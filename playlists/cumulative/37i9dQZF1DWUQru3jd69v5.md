@@ -4,7 +4,7 @@
 
 > La nuova generazione del rap italiano\. Aggiornata ogni venerdì\. Cover: Il Ghost, Darden
 
-772 songs - 1 day 9 hr 39 min
+773 songs - 1 day 9 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -313,7 +313,7 @@
 | [GUERRA](https://open.spotify.com/track/3jsnqaZI1liYePMnHyhZF4) | [Young Slash](https://open.spotify.com/artist/7ajcXCqrSRoMtviBDVIjqn) | [DRILL LIFE 2 DELUXE](https://open.spotify.com/album/7kC5FpnIJf6y6ZqlNzZ81V) | 1:54 | 2023-07-27 | 2023-08-25 |
 | [Guess](https://open.spotify.com/track/0e4Dqn2igrNelqflegUa0N) | [Kalash247](https://open.spotify.com/artist/0uWqSeCUMHjnUwa3Ia3ZcL), [Uzi Lvke](https://open.spotify.com/artist/5n73VcgD8TKQvtG7gOSjjv), [Linch](https://open.spotify.com/artist/0NWr9rFOUD5cFtprFySf5p) | [247 \- EP](https://open.spotify.com/album/0DC5Ny65xEF66F00OiTsnR) | 3:01 | 2023-07-06 | 2023-08-02 |
 | [Guérrilla](https://open.spotify.com/track/5NUTv7iUQY77PyEqyqlgRw) | [Nabi](https://open.spotify.com/artist/5CqlDzj8DSqsklkXuTYfSd) | [Guérrilla](https://open.spotify.com/album/5OWqkBgQPvdll9AmXdjrBe) | 2:25 | 2022-05-10 | 2022-09-30 |
-| [Hagra](https://open.spotify.com/track/1PAKJ4G5tpNK0YYloB6dBv) | [Nabi](https://open.spotify.com/artist/5CqlDzj8DSqsklkXuTYfSd) | [Hagra](https://open.spotify.com/album/3Xmje1BFiERvTm1aRpGi0S) | 2:38 | 2023-06-21 |  |
+| [Hagra](https://open.spotify.com/track/1PAKJ4G5tpNK0YYloB6dBv) | [Nabi](https://open.spotify.com/artist/5CqlDzj8DSqsklkXuTYfSd) | [Hagra](https://open.spotify.com/album/3Xmje1BFiERvTm1aRpGi0S) | 2:38 | 2023-06-21 | 2023-10-21 |
 | [HAHA](https://open.spotify.com/track/4eYUoNStca0EVkLhFYlO3b) | [Rayan](https://open.spotify.com/artist/6doCr3greqY545Eo7IsY3m), [Intifaya](https://open.spotify.com/artist/1sSz8a84ezDX1LhXCIgt41) | [HAHA](https://open.spotify.com/album/0tjYg0AfX7eplMuykznGGV) | 2:57 | 2023-07-13 | 2023-08-11 |
 | [HALO MONSIEUR](https://open.spotify.com/track/6K2rrsC179D8tIDJIlws9t) | [Fata](https://open.spotify.com/artist/2e0HLVyPlF5jP9khNWfV3m) | [HALO MONSIEUR](https://open.spotify.com/album/04Qyq05nMkhB62qURUJk4j) | 3:01 | 2023-01-12 | 2023-02-10 |
 | [Hammamet \(feat\. Security & Kira\)](https://open.spotify.com/track/7ic3NIBsDDRrlH9uAzUYOH) | [Manali](https://open.spotify.com/artist/0aH4uMOQMV806IsaRf4nLh), [Depha Beat](https://open.spotify.com/artist/6bwVTFdmpdNygRD0jMUQGm), [Security](https://open.spotify.com/artist/7MKJc8WAYeq779QzmWPzlw), [Kira](https://open.spotify.com/artist/2HyasfYKBQnhWBIonOhabC) | [Marchingegno](https://open.spotify.com/album/17FGUh4lQoa0Z4vx0aLXBX) | 2:09 | 2022-12-15 | 2023-01-18 |
@@ -580,6 +580,7 @@
 | [PROZAC](https://open.spotify.com/track/35exRd1JBdAV03NvziRYs4) | [Baby Kirua](https://open.spotify.com/artist/6O2qQMtMDB9JJjNhDaXjNN) | [PROZAC](https://open.spotify.com/album/2e23M3Yc5hSRI91lv4Pke4) | 2:49 | 2023-04-14 | 2023-04-28 |
 | [PSG](https://open.spotify.com/track/50sLmAcDOEkiMeTbZnDTLl) | [Lefar](https://open.spotify.com/artist/6SNUCXTHmzFQayw62hSCcV) | [PSG](https://open.spotify.com/album/2VTHXl42e8utykEVef79Uk) | 2:34 | 2023-09-20 |  |
 | [PSG](https://open.spotify.com/track/0eSEWznFliPPpXmCSR10YA) | [Marlon](https://open.spotify.com/artist/7M7GtzszIlcS03qCa03oqh), [2nd world](https://open.spotify.com/artist/5WMWuJLN6grX3KQ42wKEZj) | [PSG](https://open.spotify.com/album/1VH2Hhq3cep5k7gcknPPkG) | 2:36 | 2022-06-23 | 2022-08-24 |
+| [Pugno di soldi \(feat\. RRARI DAL TACCO\)](https://open.spotify.com/track/15VGccFmGsB50LdXPLJvTr) | [Mando](https://open.spotify.com/artist/4GvngXAxZMchFmLkDaZOAc), [RRARI DAL TACCO](https://open.spotify.com/artist/30fnIb0InCgAp2IPY17nqd) | [Pugno di soldi \(feat\. RRARI DAL TACCO\)](https://open.spotify.com/album/429jV6d8r4akIQeeyOIj4q) | 2:07 | 2023-10-20 |  |
 | [Pula Ciao](https://open.spotify.com/track/0j6b6C1RjXJwqcgtQiaYv1) | [Kassimi](https://open.spotify.com/artist/2SLBMi00NHiYhfnJ36aTvd), [8blevrai](https://open.spotify.com/artist/0JTyCMDiDRxnkcDYhcB93D), [Yunes LaGrintaa](https://open.spotify.com/artist/2Ny7KtAFxJ0Ac3FPBiClWW) | [Pula Ciao](https://open.spotify.com/album/6ppGNR4fN65Zmcboef4BfT) | 3:01 | 2022-12-08 | 2023-01-04 |
 | [QUANTO CASINO](https://open.spotify.com/track/2UYfrM2ulvxYroL2ZQjRVY) | [Venz](https://open.spotify.com/artist/5VUUgGokjuoDnst6gNRZO5), [Thierry](https://open.spotify.com/artist/1vuHBEX5c5OA25opDvY3hx) | [QUANTO CASINO](https://open.spotify.com/album/0JzBL0zjYqwzU1edd9DZUk) | 2:46 | 2022-09-29 | 2022-10-07 |
 | [Quarto di Bue](https://open.spotify.com/track/2EE4ytQ5LpuyIjDircmLzQ) | [Kid Yugi](https://open.spotify.com/artist/0EUR8jz8L936AEbV2Spkca), [Night Skinny](https://open.spotify.com/artist/2E6AK3UPEGCvjnzuygCh2h) | [Quarto di Bue](https://open.spotify.com/album/2cYiDWSENKod8Ht0C13Bya) | 1:46 | 2023-04-27 | 2023-06-16 |

@@ -3186,7 +3186,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-21",
       "duration_ms": 166418,
       "name": "FULL CLIP",
       "url": "https://open.spotify.com/track/2gzJPzhQfUtAnP9cQSgKPA"
@@ -4596,7 +4596,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-19",
+      "date_removed": null,
       "duration_ms": 168000,
       "name": "Legalize Nuclear Bombs",
       "url": "https://open.spotify.com/track/5Tp9Ojtfm0VX7vR3u8oHwv"
@@ -6414,10 +6414,36 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-21",
       "duration_ms": 245536,
       "name": "RAD",
       "url": "https://open.spotify.com/track/06bf6XZYNj4mtDODZRDruu"
+    },
+    {
+      "album": {
+        "name": "HEARTWAVE",
+        "url": "https://open.spotify.com/album/4FevY6KzCiRMzeCO2D4jcB"
+      },
+      "artists": [
+        {
+          "name": "LSDREAM",
+          "url": "https://open.spotify.com/artist/3Hrqjumb6WHg2aAUHJHLND"
+        },
+        {
+          "name": "Joey Valence & Brae",
+          "url": "https://open.spotify.com/artist/1q4618qKswelCGLoanFKQh"
+        },
+        {
+          "name": "Xotix",
+          "url": "https://open.spotify.com/artist/4U9672jXtdpL01GCOiX7TW"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245536,
+      "name": "RAD",
+      "url": "https://open.spotify.com/track/6fdEHZu9ESPsZ2yc8wKwlP"
     },
     {
       "album": {

@@ -164,10 +164,28 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-21",
       "duration_ms": 146609,
       "name": "bleh",
       "url": "https://open.spotify.com/track/31zfOvtc8QNHr4GZbZHczn"
+    },
+    {
+      "album": {
+        "name": "1of1",
+        "url": "https://open.spotify.com/album/1uDRSDtUULUbusMjtRrwKi"
+      },
+      "artists": [
+        {
+          "name": "Hardrock",
+          "url": "https://open.spotify.com/artist/1EM110Ljwqga6grZH2Dym3"
+        }
+      ],
+      "date_added": "2023-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146750,
+      "name": "bleh",
+      "url": "https://open.spotify.com/track/5jhI9kdseTMJQYvjIm5MVU"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > Here's a taste of power pop\. <a href="spotify:genre:0JQ5IMCbQBLk5woFi85yOT">Click here for further discovery.</a> Cover: Cheap Trick
 
-174 songs - 9 hr 58 min
+175 songs - 10 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -58,7 +58,8 @@
 | [Drive Me Down](https://open.spotify.com/track/2aNdc37YEkejmcZIWzPRSU) | [Velvet Crush](https://open.spotify.com/artist/3d1zFz2gPJbDaQDTsyNmbZ) | [In The Presence Of Greatness](https://open.spotify.com/album/3XdW6yQqC0m4kh5zIIrcyH) | 3:55 | 2023-03-21 |  |
 | [Drive Me Down](https://open.spotify.com/track/5ftFciYQrVswUy6VsBHzBn) | [Velvet Crush](https://open.spotify.com/artist/3d1zFz2gPJbDaQDTsyNmbZ) | [In The Presence Of Greatness](https://open.spotify.com/album/06vX1nkwy1ZXfBD50VhtjB) | 3:55 | 2023-03-21 | 2023-04-29 |
 | [Dyslexic Heart](https://open.spotify.com/track/6h0lrpGtRIwbBiPHthDB3o) | [Paul Westerberg](https://open.spotify.com/artist/3N6WAAPHoIjo6na008793X) | [The Resterberg](https://open.spotify.com/album/1hBpssm4RfS8lD3CqmL5z2) | 4:31 | 2023-03-21 |  |
-| [Erica's Word](https://open.spotify.com/track/3zPnLX5UZgXX6eaAtSROHt) | [Game Theory](https://open.spotify.com/artist/3aCS3JvkoSr84i7ge9pA9o) | [The Big Shot Chronicles](https://open.spotify.com/album/2XauMPQuWJF0QAMBYU1kzV) | 3:54 | 2023-03-21 |  |
+| [Erica's Word](https://open.spotify.com/track/3zPnLX5UZgXX6eaAtSROHt) | [Game Theory](https://open.spotify.com/artist/3aCS3JvkoSr84i7ge9pA9o) | [The Big Shot Chronicles](https://open.spotify.com/album/2XauMPQuWJF0QAMBYU1kzV) | 3:54 | 2023-03-21 | 2023-10-21 |
+| [Erica's Word](https://open.spotify.com/track/7DIf1GG2V04EVfPg2iq28Y) | [Game Theory](https://open.spotify.com/artist/3aCS3JvkoSr84i7ge9pA9o) | [The Big Shot Chronicles](https://open.spotify.com/album/1UOR0sayUQipXwipanS1S3) | 3:54 | 2023-03-21 |  |
 | [Ever Fallen In Love With Someone \(You Shouldn't Have Fallen In Love With\)](https://open.spotify.com/track/7IDkNUudFjemSrQKfYHVfQ) | [Buzzcocks](https://open.spotify.com/artist/2DxlS3lTLFIq70S7ap5H3y) | [Driving You Insane](https://open.spotify.com/album/0ET9XafTL8sU2m9wYwckRE) | 3:04 | 2021-12-16 | 2022-07-27 |
 | [Every Word Means No](https://open.spotify.com/track/1HipoaSYHoDxgMxwTmGxQ7) | [Let's Active](https://open.spotify.com/artist/6HRtcKFPKPw6FtbGpvQviZ) | [Every Word Means No](https://open.spotify.com/album/4EDxkB8mdhOqeVHGn2GXiu) | 2:53 | 2023-03-21 |  |
 | [Everyday Is Like Sunday \- 2011 Remaster](https://open.spotify.com/track/0lVdukU9ejbFQwZIhg47hx) | [Morrissey](https://open.spotify.com/artist/3iTsJGG39nMg9YiolUgLMQ) | [Viva Hate \(2014 Remaster\)](https://open.spotify.com/album/0s5wo4mTZ5bJAgqiPBO3ou) | 3:35 | 2021-12-16 | 2022-07-29 |

@@ -4,7 +4,7 @@
 
 > Solo il meglio dello street rap italiano\. Cover: Baby Gang
 
-375 songs - 17 hr 18 min
+376 songs - 17 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -143,6 +143,7 @@
 | [FINCHÉ NON ARRIVA LA BELLA VITA](https://open.spotify.com/track/3UAqmfO3U40eRAM8Cy8dbR) | [Artie 5ive](https://open.spotify.com/artist/2R4kNOwHUUsuDYhKsESVbF) | [ASPETTANDO LA BELLA VITA \- Before and After](https://open.spotify.com/album/2Ai4mlifU1ng53CBXc93L5) | 2:00 | 2023-10-05 |  |
 | [Formentera](https://open.spotify.com/track/12IR65dUPwMXxB7Y3HGw1c) | [Néza](https://open.spotify.com/artist/6cE2WyjXwngsJynb3uk1WO) | [Formentera](https://open.spotify.com/album/4iUG3rZBWlkeCgfVAmIA65) | 2:58 | 2023-07-18 | 2023-10-13 |
 | [Fratello mio \(feat\. Baby Gang & Simba La Rue\)](https://open.spotify.com/track/3viRyhRcXI4Jc1KX1Y9o8w) | [Escomar](https://open.spotify.com/artist/6o4HwHVQqXnSxpHxII3KJw), [Baby Gang](https://open.spotify.com/artist/3LvwPiJQJ0da0GurKMToV0), [Simba La Rue](https://open.spotify.com/artist/2PEMswqQspTSsAltdeF5kO) | [Fratello mio \(feat\. Baby Gang & Simba La Rue\)](https://open.spotify.com/album/0mBnAfPBOCyX7Uzvzuvo0w) | 3:43 | 2022-07-27 | 2022-08-01 |
+| [Freaky \(feat\. Shiva & Niky Savage\)](https://open.spotify.com/track/32rxE3UsuYr3KndIKPfMg6) | [Slings](https://open.spotify.com/artist/0XMi14343o5LtUKVdKmMUj), [Shiva](https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS), [Niky Savage](https://open.spotify.com/artist/4w9mPW732RnZkoqsy3lRsg), [Finesse](https://open.spotify.com/artist/3GWuJyC9r6Ug0F6jeLzTpY) | [TRAPHOUSE](https://open.spotify.com/album/64jt2HI09H65a1YPqhOYfS) | 2:56 | 2023-10-20 |  |
 | [Freddy Krueger Freestyle](https://open.spotify.com/track/6TbFOSCtOicAETFf0DxHFt) | [Capo Plaza](https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n) | [Freddy Krueger Freestyle](https://open.spotify.com/album/6h801PlffuLHaO7tcmvz3y) | 1:39 | 2023-09-28 |  |
 | [Freestyle](https://open.spotify.com/track/2iu3TLcZuQwchIvhiN22ma) | [SPOOKYPBL](https://open.spotify.com/artist/6083C1SYbF1b4iMciTbpbv) | [Freestyle](https://open.spotify.com/album/04Z6YSQyZmwz15nrj3l0Ad) | 1:28 | 2022-07-21 | 2022-08-30 |
 | [Freestyle\#2](https://open.spotify.com/track/3GWunIYzxXspSGD7lzj0F1) | [SPOOKYPBL](https://open.spotify.com/artist/6083C1SYbF1b4iMciTbpbv) | [Freestyle\#2](https://open.spotify.com/album/4RJSyh82Vs7fi6e6EibCSN) | 2:12 | 2023-03-16 | 2023-05-11 |

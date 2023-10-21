@@ -4,7 +4,7 @@
 
 > Dreaming of a white Christmas ✨❄️
 
-321 songs - 17 hr 36 min
+322 songs - 17 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -47,6 +47,7 @@
 | [Christmas \(Baby Please Come Home\)](https://open.spotify.com/track/46pF1zFimM582ss1PrMy68) | [Darlene Love](https://open.spotify.com/artist/391oLRVmoTkumiN79HkTWu) | [A Christmas Gift For You From Phil Spector](https://open.spotify.com/album/2kzkwgOFAtRsDsas5Hi0Qu) | 2:46 | 2023-10-13 |  |
 | [Christmas \(Baby Please Come Home\)](https://open.spotify.com/track/0v0dIbR2koou6d1kO9u9SK) | [Tebey](https://open.spotify.com/artist/2S0WpGRnEPyS5OuMp3KOEo) | [Christmas \(Baby Please Come Home\)](https://open.spotify.com/album/0h1q1bGA00rmnYVjqIGWvd) | 2:45 | 2021-12-24 | 2023-04-11 |
 | [Christmas All Over Again](https://open.spotify.com/track/4KjzFAGNJr2SjaA8OIFZJc) | [Sophia Fracassi](https://open.spotify.com/artist/7MPa3OSyGyLNq9CedDr2LT) | [Christmas All Over Again](https://open.spotify.com/album/3gJpBRswNsXaxFIiongFJ8) | 3:06 | 2021-12-24 | 2023-08-07 |
+| [Christmas All Over Again](https://open.spotify.com/track/6zYDdWwGjEI6w8pRvQnkdn) | [Tyler Shaw](https://open.spotify.com/artist/3jERgGiTwNAPxNmDasAb31) | [Christmas All Over Again](https://open.spotify.com/album/7B3eH4HDNsYRZh8wzx6XMJ) | 2:43 | 2023-10-20 |  |
 | [Christmas Alone](https://open.spotify.com/track/4IMBxJ8v95UNXLeAzJTC64) | [Amay Laoni](https://open.spotify.com/artist/2d4upAuUXXLneWMHHloXSp) | [Christmas Alone](https://open.spotify.com/album/5sJ41KUJEVPl3wJQucvPjb) | 3:26 | 2021-12-24 | 2022-07-29 |
 | [Christmas Angel](https://open.spotify.com/track/0J4u3HXFFZMtKQb2fZPZbq) | [Josh Ramsay](https://open.spotify.com/artist/5lemlzREG6FOAergTgPi9B) | [Christmas Angel](https://open.spotify.com/album/6tjj25SBB1Slk8o3QDPXt5) | 2:10 | 2022-12-16 | 2023-09-09 |
 | [Christmas Anyway](https://open.spotify.com/track/34UyngzvrP2sXVxrUN2m7K) | [Stars](https://open.spotify.com/artist/2EO56JK4txid1Pss9GVbOL) | [Christmas Anyway](https://open.spotify.com/album/3QwgaIZn16DldwwYEdbQaq) | 4:32 | 2022-12-05 | 2023-10-14 |
@@ -293,7 +294,7 @@
 | [The Hour Before Christmas](https://open.spotify.com/track/3z4yuRyycQGV7bE3tDnDWh) | [MacKenzie Porter](https://open.spotify.com/artist/6nXco5Q3cJJ0ZutnBOsSpq) | [The Hour Before Christmas](https://open.spotify.com/album/1JcDZoymDDjxp4qfom6muu) | 3:47 | 2021-12-24 | 2022-07-28 |
 | [The Last Christmas \(We Ever Spend Apart\)](https://open.spotify.com/track/7IJuZ1XUVCpiOSWqEZySIk) | [Arkells](https://open.spotify.com/artist/3ShGiAyhxI6Rq3TknZ3gfk) | [The Last Christmas \(We Ever Spend Apart\)](https://open.spotify.com/album/6OHsKP52OjrBnA3vvKnN24) | 3:27 | 2021-12-24 |  |
 | [The World Needs Christmas](https://open.spotify.com/track/05HhA6gGqdiXLGsCDz2fqC) | [Emily & Mike](https://open.spotify.com/artist/3qoRVKcb2miU9EgU29CYql) | [The World Needs Christmas](https://open.spotify.com/album/4kIY9SXbCYYzW3PmxTI2jx) | 3:50 | 2021-12-24 | 2022-07-29 |
-| [This Christmas](https://open.spotify.com/track/69ICDnEzZqopqoQ7LG2e2u) | [Tyler Shaw](https://open.spotify.com/artist/3jERgGiTwNAPxNmDasAb31) | [This Christmas](https://open.spotify.com/album/1NWj1i8hK3e08JDDrKkVLL) | 2:27 | 2022-10-14 |  |
+| [This Christmas](https://open.spotify.com/track/69ICDnEzZqopqoQ7LG2e2u) | [Tyler Shaw](https://open.spotify.com/artist/3jERgGiTwNAPxNmDasAb31) | [This Christmas](https://open.spotify.com/album/1NWj1i8hK3e08JDDrKkVLL) | 2:27 | 2022-10-14 | 2023-10-21 |
 | [This Christmas Day](https://open.spotify.com/track/2a1N8RvxN5TajDX8ByRF5m) | [Mathew V](https://open.spotify.com/artist/5XG2NyvMVgff8ZAeKWX8yS) | [This Christmas Day](https://open.spotify.com/album/3Jrmm0yAEvd5p4GSDpODL9) | 2:56 | 2021-12-24 | 2022-08-14 |
 | [This is Christmas](https://open.spotify.com/track/27EP5GDTRtx45fzJX8vSrp) | [Suzie McNeil](https://open.spotify.com/artist/5YE5o5iV0OC0fSqBQmctF8) | [604 Records: The Second Noel](https://open.spotify.com/album/0wkGuSTPqrhtX25czWgPfw) | 3:52 | 2021-12-24 | 2023-10-14 |
 | [Throw Another Log \(On The Fire\)](https://open.spotify.com/track/3h1nmogA5dTrLn0I9Lkndf) | [Chic Gamine](https://open.spotify.com/artist/6GMElLPm8xlZbjP7HQkrpq) | [Christmas Vol.1](https://open.spotify.com/album/1sx4KP3bzJcEPOI1Rv6FNN) | 3:39 | 2021-12-24 | 2022-07-29 |

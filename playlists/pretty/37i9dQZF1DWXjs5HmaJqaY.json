@@ -1,15 +1,35 @@
 {
   "description": "<a href=\"spotify:artist:6caPJFLv1wesmM7gwK1ACy\">Boris Brejcha</a>'s favorite tracks. Updated regularly. Curated by Boris Brejcha. Discover more track IDs playlists <a href=\"spotify:genre:track_id\">here</a>.",
-  "num_followers": 159998,
+  "num_followers": 160108,
   "original_name": "Boris Brejcha's track IDs",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwNDNkMjRhMDQyZGMxMzJmM2IxNzFkNGY2MTAxYTY2OTJmOWFkNjUz",
+  "snapshot_id": "MCxiNDNkMDhhYjZjNTNjMzUxODNkYzBlYjgxOTgxYjc2NjA1ZjEwODg1",
   "tracks": [
     {
-      "added_at": "2023-10-06 12:25:14",
+      "added_at": "2023-10-20 10:46:19",
+      "album": {
+        "name": "My Favourite Stranger (Remixes)",
+        "url": "https://open.spotify.com/album/4sKi74JyzjNzfrb1KYNtue"
+      },
+      "artists": [
+        {
+          "name": "Depeche Mode",
+          "url": "https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX"
+        },
+        {
+          "name": "Boris Brejcha",
+          "url": "https://open.spotify.com/artist/6caPJFLv1wesmM7gwK1ACy"
+        }
+      ],
+      "duration_ms": 426506,
+      "name": "My Favourite Stranger - Boris Brejcha Remix",
+      "url": "https://open.spotify.com/track/4mh4D2lIo6kkhaqTh111De"
+    },
+    {
+      "added_at": "2023-10-20 10:46:19",
       "album": {
         "name": "Lost In Complexity (Edit) + Remixes",
         "url": "https://open.spotify.com/album/1C1pAoJA45saJXg3HZfBXC"
@@ -29,27 +49,7 @@
       "url": "https://open.spotify.com/track/5XkCL9BU3CzHdf4e3kJX7V"
     },
     {
-      "added_at": "2023-10-06 12:25:14",
-      "album": {
-        "name": "Vienna (Edit)",
-        "url": "https://open.spotify.com/album/1BgyJPvK4xVLYfmIEoH6Ju"
-      },
-      "artists": [
-        {
-          "name": "Boris Brejcha",
-          "url": "https://open.spotify.com/artist/6caPJFLv1wesmM7gwK1ACy"
-        },
-        {
-          "name": "Malena Narvay",
-          "url": "https://open.spotify.com/artist/6mL3mccPFjmWrHUTC2Cm3i"
-        }
-      ],
-      "duration_ms": 188160,
-      "name": "Vienna - Edit",
-      "url": "https://open.spotify.com/track/3a9Db9EqzCZG7RiJlaeiX1"
-    },
-    {
-      "added_at": "2023-10-06 12:25:14",
+      "added_at": "2023-10-20 10:46:19",
       "album": {
         "name": "My Truth",
         "url": "https://open.spotify.com/album/4eRmSQhzAi7HOyCt0nSrrL"
@@ -65,7 +65,7 @@
       "url": "https://open.spotify.com/track/1sEPac7uCsJZRtKKR1f1YB"
     },
     {
-      "added_at": "2023-10-06 12:25:14",
+      "added_at": "2023-10-20 10:46:19",
       "album": {
         "name": "Plastic City Radio Show Season Eight (Hosted by Youen & Patrick Podage)",
         "url": "https://open.spotify.com/album/7zriMCKAlPVXZtZdTQgv9l"
@@ -81,7 +81,7 @@
       "url": "https://open.spotify.com/track/4GqKpBcN60ozJc1r1rSkxT"
     },
     {
-      "added_at": "2023-10-06 12:25:14",
+      "added_at": "2023-10-20 10:46:19",
       "album": {
         "name": "Lovepack One",
         "url": "https://open.spotify.com/album/14RX2tQt9pqiRDJ163hCnj"
@@ -97,7 +97,23 @@
       "url": "https://open.spotify.com/track/0zfu5E1Iz3BrzHewwbcDRu"
     },
     {
-      "added_at": "2023-10-06 12:25:14",
+      "added_at": "2023-10-20 10:46:19",
+      "album": {
+        "name": "Beach Side Bliss",
+        "url": "https://open.spotify.com/album/6SBRlyqYyNPg6uYJZetVc1"
+      },
+      "artists": [
+        {
+          "name": "Loft 15 A",
+          "url": "https://open.spotify.com/artist/3H7elwiXJ63HlIyjOeLhtG"
+        }
+      ],
+      "duration_ms": 395520,
+      "name": "Beachside Bliss",
+      "url": "https://open.spotify.com/track/74OdLnGtAMfmyXdGeUvVj4"
+    },
+    {
+      "added_at": "2023-10-20 10:46:19",
       "album": {
         "name": "Casa Loca",
         "url": "https://open.spotify.com/album/47d33oQLiKE5Nj6EgSsr91"
@@ -117,7 +133,7 @@
       "url": "https://open.spotify.com/track/1IwNAEgSyAz5oGVgU5gMxs"
     },
     {
-      "added_at": "2023-10-06 12:25:14",
+      "added_at": "2023-10-20 10:46:19",
       "album": {
         "name": "Home (Nusha Remix)",
         "url": "https://open.spotify.com/album/1iaN5A5BuRQlMLUq2Dpvlk"
@@ -141,7 +157,7 @@
       "url": "https://open.spotify.com/track/78EH7GvqU5AvrPNv4NmzBo"
     },
     {
-      "added_at": "2023-10-06 12:25:14",
+      "added_at": "2023-10-20 10:46:19",
       "album": {
         "name": "Joy",
         "url": "https://open.spotify.com/album/5KgoKcCyd2nI7oraUvbXWv"
@@ -157,7 +173,7 @@
       "url": "https://open.spotify.com/track/17yYSZdxIfNNlI0Brpfvk0"
     },
     {
-      "added_at": "2023-10-06 12:25:14",
+      "added_at": "2023-10-20 10:46:19",
       "album": {
         "name": "Bruno",
         "url": "https://open.spotify.com/album/49qEVjH4D06eOqvQkGLdez"
@@ -173,7 +189,43 @@
       "url": "https://open.spotify.com/track/0bveAKf49WsDplk7iIjNnJ"
     },
     {
-      "added_at": "2023-10-06 12:25:14",
+      "added_at": "2023-10-20 10:46:19",
+      "album": {
+        "name": "Vienna (Edit)",
+        "url": "https://open.spotify.com/album/1BgyJPvK4xVLYfmIEoH6Ju"
+      },
+      "artists": [
+        {
+          "name": "Boris Brejcha",
+          "url": "https://open.spotify.com/artist/6caPJFLv1wesmM7gwK1ACy"
+        },
+        {
+          "name": "Malena Narvay",
+          "url": "https://open.spotify.com/artist/6mL3mccPFjmWrHUTC2Cm3i"
+        }
+      ],
+      "duration_ms": 188160,
+      "name": "Vienna - Edit",
+      "url": "https://open.spotify.com/track/3a9Db9EqzCZG7RiJlaeiX1"
+    },
+    {
+      "added_at": "2023-10-20 10:46:19",
+      "album": {
+        "name": "Where Did You Go Away",
+        "url": "https://open.spotify.com/album/6XkS3fLKFvRtQ4xv3gWwOj"
+      },
+      "artists": [
+        {
+          "name": "Loft 15 A",
+          "url": "https://open.spotify.com/artist/3H7elwiXJ63HlIyjOeLhtG"
+        }
+      ],
+      "duration_ms": 374000,
+      "name": "Where Did You Go Away",
+      "url": "https://open.spotify.com/track/2r4kgctK3SkVV60aG17szN"
+    },
+    {
+      "added_at": "2023-10-20 10:46:19",
       "album": {
         "name": "Hoax",
         "url": "https://open.spotify.com/album/2NVG3pJbAvK8MspezeqDxT"
@@ -189,7 +241,7 @@
       "url": "https://open.spotify.com/track/0apY6reg2xv1ZnnBH19qRC"
     },
     {
-      "added_at": "2023-10-06 12:25:14",
+      "added_at": "2023-10-20 10:46:19",
       "album": {
         "name": "My Method",
         "url": "https://open.spotify.com/album/2nkGcXqbOo0YQYzloSC4TZ"
@@ -205,7 +257,7 @@
       "url": "https://open.spotify.com/track/5fth5wifwmOsWuE0RnhJzz"
     },
     {
-      "added_at": "2023-10-06 12:25:14",
+      "added_at": "2023-10-20 10:46:19",
       "album": {
         "name": "Lost In Complexity (Edit) + Remixes",
         "url": "https://open.spotify.com/album/1C1pAoJA45saJXg3HZfBXC"
@@ -229,7 +281,7 @@
       "url": "https://open.spotify.com/track/627lNP3VLOIz68JigQiS9u"
     },
     {
-      "added_at": "2023-10-06 12:25:14",
+      "added_at": "2023-10-20 10:46:19",
       "album": {
         "name": "Voices",
         "url": "https://open.spotify.com/album/4REOwk3rHoHIETrGt1m1YX"
@@ -245,7 +297,7 @@
       "url": "https://open.spotify.com/track/1FwFv6kS81a4lsx9tJD2hE"
     },
     {
-      "added_at": "2023-10-06 12:25:14",
+      "added_at": "2023-10-20 10:46:19",
       "album": {
         "name": "Give A Little Bit",
         "url": "https://open.spotify.com/album/5yF5qpAoOQorS2xxO0RnYK"
@@ -261,7 +313,7 @@
       "url": "https://open.spotify.com/track/17mSLidLd8RFDgF2pNge3q"
     },
     {
-      "added_at": "2023-10-06 12:25:14",
+      "added_at": "2023-10-20 10:46:19",
       "album": {
         "name": "Retroworld EP",
         "url": "https://open.spotify.com/album/5UHJ8nskMFmTyCxVhwJEu9"
@@ -277,7 +329,7 @@
       "url": "https://open.spotify.com/track/1ZXG5VB314386cqUk2MIru"
     },
     {
-      "added_at": "2023-10-06 12:25:14",
+      "added_at": "2023-10-20 10:46:19",
       "album": {
         "name": "Time Of My Life (Edit) + Remixes",
         "url": "https://open.spotify.com/album/17NQzoUsxozpA9q0f45sVa"
@@ -297,7 +349,7 @@
       "url": "https://open.spotify.com/track/6nCa2xyV6szWUq2mXi7gV2"
     },
     {
-      "added_at": "2023-10-06 12:25:14",
+      "added_at": "2023-10-20 10:46:19",
       "album": {
         "name": "I Don't Care",
         "url": "https://open.spotify.com/album/2WaaeCOR2loQSDsTHjkd0t"
@@ -313,7 +365,7 @@
       "url": "https://open.spotify.com/track/7zaZlHay4Odn9bqxQLgB9E"
     },
     {
-      "added_at": "2023-10-06 12:25:14",
+      "added_at": "2023-10-20 10:46:19",
       "album": {
         "name": "R U FCKNG SERIOUS (2023 Remaster + Remixes)",
         "url": "https://open.spotify.com/album/6DFJ1oSqV2bgw3tXiCdn22"
@@ -337,7 +389,7 @@
       "url": "https://open.spotify.com/track/5SfyXx7eOVL3zI16uNjRRN"
     },
     {
-      "added_at": "2023-10-06 12:25:14",
+      "added_at": "2023-10-20 10:46:19",
       "album": {
         "name": "Apache (Nusha Remix)",
         "url": "https://open.spotify.com/album/0QzWgGeyFEcy2gWFzZykDQ"
@@ -357,7 +409,7 @@
       "url": "https://open.spotify.com/track/5CHtVqIbKlNFHvrHEUNwaj"
     },
     {
-      "added_at": "2023-10-06 12:25:14",
+      "added_at": "2023-10-20 10:46:19",
       "album": {
         "name": "Time Of My Life (Edit) + Remixes",
         "url": "https://open.spotify.com/album/17NQzoUsxozpA9q0f45sVa"
@@ -373,7 +425,7 @@
       "url": "https://open.spotify.com/track/1fuOLh6glZaxNvDxU6vXp4"
     },
     {
-      "added_at": "2023-10-06 12:25:14",
+      "added_at": "2023-10-20 10:46:19",
       "album": {
         "name": "Red Wedding",
         "url": "https://open.spotify.com/album/2iyr07RGqSkTHIT5BI0Rvq"
@@ -389,7 +441,7 @@
       "url": "https://open.spotify.com/track/6WO56O5QJgoSwDwOTsbIM9"
     },
     {
-      "added_at": "2023-10-06 12:25:14",
+      "added_at": "2023-10-20 10:46:19",
       "album": {
         "name": "Sound of Tomorrow",
         "url": "https://open.spotify.com/album/5xAXfZAzNCZVLXwciE2PtG"
@@ -409,7 +461,7 @@
       "url": "https://open.spotify.com/track/28f17VAedyfqKIx1MShnnG"
     },
     {
-      "added_at": "2023-10-06 12:25:14",
+      "added_at": "2023-10-20 10:46:19",
       "album": {
         "name": "Plastic City Radio Show Season Nine - Part 4",
         "url": "https://open.spotify.com/album/76JDFLjDgL2UflBm1JkXfT"
@@ -429,7 +481,7 @@
       "url": "https://open.spotify.com/track/4F50ZMSQuNew7uzG9b3Myu"
     },
     {
-      "added_at": "2023-10-06 12:25:14",
+      "added_at": "2023-10-20 10:46:19",
       "album": {
         "name": "It Is Me",
         "url": "https://open.spotify.com/album/3k7UtlFxEC8eYKy7ByHktx"
@@ -449,7 +501,7 @@
       "url": "https://open.spotify.com/track/2L4JHRLomRnZxp1bnxIHGz"
     },
     {
-      "added_at": "2023-10-06 12:25:14",
+      "added_at": "2023-10-20 10:46:19",
       "album": {
         "name": "Donnerchello",
         "url": "https://open.spotify.com/album/3VkUXlSrqfFUrjn6hsrTN7"
@@ -465,7 +517,7 @@
       "url": "https://open.spotify.com/track/1NKkZ1VBCwHM2fEo7CV8os"
     },
     {
-      "added_at": "2023-10-06 12:25:14",
+      "added_at": "2023-10-20 10:46:19",
       "album": {
         "name": "Elektronenschwungdynamik",
         "url": "https://open.spotify.com/album/7DLN31hXu37rDh3EuksFME"
@@ -481,7 +533,7 @@
       "url": "https://open.spotify.com/track/6TEAfm3Hh7JYNDHHj6MKHn"
     },
     {
-      "added_at": "2023-10-06 12:25:14",
+      "added_at": "2023-10-20 10:46:19",
       "album": {
         "name": "Terra",
         "url": "https://open.spotify.com/album/1Ll4ikN1IlxmjxIpRSl410"
@@ -497,7 +549,7 @@
       "url": "https://open.spotify.com/track/1XxMfOA5BqSSTbEp3I2eOX"
     },
     {
-      "added_at": "2023-10-06 12:25:14",
+      "added_at": "2023-10-20 10:46:19",
       "album": {
         "name": "You Can Forever Be",
         "url": "https://open.spotify.com/album/6rbZRt3dlMT8wAHIoxz7DV"
@@ -529,7 +581,7 @@
       "url": "https://open.spotify.com/track/6JAQXmvq7Ry0DhMYfRIJze"
     },
     {
-      "added_at": "2023-10-06 12:25:14",
+      "added_at": "2023-10-20 10:46:19",
       "album": {
         "name": "Sentio",
         "url": "https://open.spotify.com/album/5RTxWbp8cl9sBXZBQrBAPi"
@@ -545,7 +597,7 @@
       "url": "https://open.spotify.com/track/2M1b6XYvu63jK7JYNg9hHm"
     },
     {
-      "added_at": "2023-10-06 12:25:14",
+      "added_at": "2023-10-20 10:46:19",
       "album": {
         "name": "Rescue Me",
         "url": "https://open.spotify.com/album/1VO0UZdtY2nPzF47zYzcmU"
@@ -565,7 +617,7 @@
       "url": "https://open.spotify.com/track/0eRaC5PKJ4BEYI1L1m6Tfg"
     },
     {
-      "added_at": "2023-10-06 12:25:14",
+      "added_at": "2023-10-20 10:46:19",
       "album": {
         "name": "Freedom Remixes",
         "url": "https://open.spotify.com/album/0mvihIyrSPWeVF7zCpJPtv"
@@ -585,39 +637,7 @@
       "url": "https://open.spotify.com/track/4vl5XHDOzZfFSxh5kFC7A7"
     },
     {
-      "added_at": "2023-10-06 12:25:14",
-      "album": {
-        "name": "Dance with the Robots",
-        "url": "https://open.spotify.com/album/1ju9nrlL45s0DYtgHXUrHC"
-      },
-      "artists": [
-        {
-          "name": "Sikora",
-          "url": "https://open.spotify.com/artist/4cKdwlnRYAkd3MFwN4AJvj"
-        }
-      ],
-      "duration_ms": 403636,
-      "name": "Makeshift Parade",
-      "url": "https://open.spotify.com/track/3WhvxSrVEaaw4jAPXwfnMS"
-    },
-    {
-      "added_at": "2023-10-06 12:25:14",
-      "album": {
-        "name": "Space X (Edit)",
-        "url": "https://open.spotify.com/album/0isHRGzyIFvSKDeSdlem8j"
-      },
-      "artists": [
-        {
-          "name": "Boris Brejcha",
-          "url": "https://open.spotify.com/artist/6caPJFLv1wesmM7gwK1ACy"
-        }
-      ],
-      "duration_ms": 216960,
-      "name": "Space X - Edit",
-      "url": "https://open.spotify.com/track/7y2fFvQyCuEqhGbLaAEAIN"
-    },
-    {
-      "added_at": "2023-10-06 12:25:14",
+      "added_at": "2023-10-20 10:46:19",
       "album": {
         "name": "Last Call",
         "url": "https://open.spotify.com/album/4zZPozFyRWdIFhIBUWCpeR"
@@ -633,7 +653,7 @@
       "url": "https://open.spotify.com/track/45V4hmjgWU7mD97WoHSLhL"
     },
     {
-      "added_at": "2023-10-06 12:25:14",
+      "added_at": "2023-10-20 10:46:19",
       "album": {
         "name": "Dance with the Robots",
         "url": "https://open.spotify.com/album/1ju9nrlL45s0DYtgHXUrHC"
@@ -649,7 +669,7 @@
       "url": "https://open.spotify.com/track/43cvd7nBhsfPYW1yBVVtqI"
     },
     {
-      "added_at": "2023-10-06 12:25:14",
+      "added_at": "2023-10-20 10:46:19",
       "album": {
         "name": "Momentum",
         "url": "https://open.spotify.com/album/1hQTMJz6lWgj4CKPj8o0I9"
@@ -669,7 +689,7 @@
       "url": "https://open.spotify.com/track/78jpLxZ2o7iWFNI7YPaI7f"
     },
     {
-      "added_at": "2023-10-06 12:25:14",
+      "added_at": "2023-10-20 10:46:19",
       "album": {
         "name": "KOMMIT",
         "url": "https://open.spotify.com/album/3jjmGtJT3ZHFV272azCeYl"
@@ -685,7 +705,7 @@
       "url": "https://open.spotify.com/track/7EKpyfbmopbXMaMLW9QEd3"
     },
     {
-      "added_at": "2023-10-06 12:25:14",
+      "added_at": "2023-10-20 10:46:19",
       "album": {
         "name": "Electro Chemical Mind",
         "url": "https://open.spotify.com/album/7rBzbXM2aD8veaxD0yXf1p"
@@ -701,7 +721,7 @@
       "url": "https://open.spotify.com/track/01W3qXxnLN6kTH5YcCST1i"
     },
     {
-      "added_at": "2023-10-06 12:25:14",
+      "added_at": "2023-10-20 10:46:19",
       "album": {
         "name": "Echodeltaalfaxray",
         "url": "https://open.spotify.com/album/2U2sD0FAmRORmxhmJBDSJB"
@@ -721,7 +741,7 @@
       "url": "https://open.spotify.com/track/5OmDWhyNKMjew4AXxs9QwD"
     },
     {
-      "added_at": "2023-10-06 12:25:14",
+      "added_at": "2023-10-20 10:46:19",
       "album": {
         "name": "Moulin Rouge",
         "url": "https://open.spotify.com/album/2so5MifEWb91gnz2YtQysq"
@@ -741,7 +761,7 @@
       "url": "https://open.spotify.com/track/3HVuI6V6SO1kycXAPF4Ti6"
     },
     {
-      "added_at": "2023-10-06 12:25:14",
+      "added_at": "2023-10-20 10:46:19",
       "album": {
         "name": "Human Element",
         "url": "https://open.spotify.com/album/77sbAXerqRqJe1GqJYHlAx"
@@ -757,7 +777,7 @@
       "url": "https://open.spotify.com/track/0u2k5ZReAHv0Et3Gu8jqdn"
     },
     {
-      "added_at": "2023-10-06 12:25:14",
+      "added_at": "2023-10-20 10:46:19",
       "album": {
         "name": "IAM ALFRED HEINRICHS feat. Haexxa",
         "url": "https://open.spotify.com/album/1Cr9a95UD5guifadqpth5N"
@@ -777,7 +797,7 @@
       "url": "https://open.spotify.com/track/2fKUMYknbSWF7WOKwMQUZE"
     },
     {
-      "added_at": "2023-10-06 12:25:14",
+      "added_at": "2023-10-20 10:46:19",
       "album": {
         "name": "KOMMIT",
         "url": "https://open.spotify.com/album/3jjmGtJT3ZHFV272azCeYl"
@@ -793,7 +813,7 @@
       "url": "https://open.spotify.com/track/7F6T8NsGPnQn8GdYRkTblw"
     },
     {
-      "added_at": "2023-10-06 12:25:14",
+      "added_at": "2023-10-20 10:46:19",
       "album": {
         "name": "Hot Dance",
         "url": "https://open.spotify.com/album/5gWaYwgGYvNsEcmFJQQqts"
@@ -813,7 +833,7 @@
       "url": "https://open.spotify.com/track/0G5R2bLknNjGs9VExDGYNT"
     },
     {
-      "added_at": "2023-10-06 12:25:14",
+      "added_at": "2023-10-20 10:46:19",
       "album": {
         "name": "Shift Sequence Remixes Part 4",
         "url": "https://open.spotify.com/album/6jj2HwPNT9aeeydW2x0fTo"
@@ -833,23 +853,7 @@
       "url": "https://open.spotify.com/track/0rfFvNRcfEYdOCdxL6F2bz"
     },
     {
-      "added_at": "2023-10-06 12:25:14",
-      "album": {
-        "name": "Dawn of Man",
-        "url": "https://open.spotify.com/album/6ygNkqCX4Ud8CwRtzf700V"
-      },
-      "artists": [
-        {
-          "name": "Shydow",
-          "url": "https://open.spotify.com/artist/7MctCeJARCIyIfzE1RGFV9"
-        }
-      ],
-      "duration_ms": 377146,
-      "name": "Dawn of Man",
-      "url": "https://open.spotify.com/track/1eKXY9F9BZzDHraaFCajoh"
-    },
-    {
-      "added_at": "2023-10-06 12:25:14",
+      "added_at": "2023-10-20 10:46:19",
       "album": {
         "name": "Dance with the Robots",
         "url": "https://open.spotify.com/album/1ju9nrlL45s0DYtgHXUrHC"
@@ -869,7 +873,7 @@
       "url": "https://open.spotify.com/track/1GBvv1GMhhr89x99Fv1KDU"
     },
     {
-      "added_at": "2023-10-06 12:25:14",
+      "added_at": "2023-10-20 10:46:19",
       "album": {
         "name": "Massive Bells",
         "url": "https://open.spotify.com/album/5cqpAi3BPkcNuUWbRzsgoT"
@@ -889,7 +893,7 @@
       "url": "https://open.spotify.com/track/7w8M9HRuLI36enKabMRdzD"
     },
     {
-      "added_at": "2023-10-06 12:25:14",
+      "added_at": "2023-10-20 10:46:19",
       "album": {
         "name": "Adventures of Dama 2022",
         "url": "https://open.spotify.com/album/4nZ4TdGq90n6M6CW0a7oG8"
@@ -909,7 +913,7 @@
       "url": "https://open.spotify.com/track/2IhAnVqvBv2JWvMsh3zPES"
     },
     {
-      "added_at": "2023-10-06 12:25:14",
+      "added_at": "2023-10-20 10:46:19",
       "album": {
         "name": "Patterns",
         "url": "https://open.spotify.com/album/2UxYojBKGpTT9IKmKL130T"
@@ -925,7 +929,7 @@
       "url": "https://open.spotify.com/track/1Wrgevw8ryE5ygjDBa9f10"
     },
     {
-      "added_at": "2023-10-06 12:25:14",
+      "added_at": "2023-10-20 10:46:19",
       "album": {
         "name": "Follow The Lead",
         "url": "https://open.spotify.com/album/1dKEbgV1x6CkS4ozGCa5Tz"
@@ -941,7 +945,7 @@
       "url": "https://open.spotify.com/track/2KvWrnqhS7UfHlhYXrlqcV"
     },
     {
-      "added_at": "2023-10-06 12:25:14",
+      "added_at": "2023-10-20 10:46:19",
       "album": {
         "name": "It's Our Future - The Rico Puestel Remixes",
         "url": "https://open.spotify.com/album/7MIZ7x31D9tsW8foA4dBlJ"
@@ -961,7 +965,7 @@
       "url": "https://open.spotify.com/track/7mYCPswhMcmhsEzQ7L4pii"
     },
     {
-      "added_at": "2023-10-06 12:25:14",
+      "added_at": "2023-10-20 10:46:19",
       "album": {
         "name": "No Mercy",
         "url": "https://open.spotify.com/album/3QUoT1UOqQiUk2ZoPxWehG"
@@ -977,7 +981,7 @@
       "url": "https://open.spotify.com/track/4ur8HXSMHlUhTZLRjL1akF"
     },
     {
-      "added_at": "2023-10-06 12:25:14",
+      "added_at": "2023-10-20 10:46:19",
       "album": {
         "name": "So Cold",
         "url": "https://open.spotify.com/album/2OG9njNHJha0rvltAhAX4N"
@@ -993,7 +997,7 @@
       "url": "https://open.spotify.com/track/3wxiYRkslAAy8XtjvZTIxy"
     },
     {
-      "added_at": "2023-10-06 12:25:14",
+      "added_at": "2023-10-20 10:46:19",
       "album": {
         "name": "Cedes",
         "url": "https://open.spotify.com/album/7vqjuCQYlcv1LRMqNmXJxl"
@@ -1009,7 +1013,7 @@
       "url": "https://open.spotify.com/track/3gCqPq2W4Soe7v8QTor0mN"
     },
     {
-      "added_at": "2023-10-06 12:25:14",
+      "added_at": "2023-10-20 10:46:19",
       "album": {
         "name": "Are Am Eye? Roger Shah & Cores Remix",
         "url": "https://open.spotify.com/album/1sdYiS8ZuS0NmT6o9uyezT"
@@ -1033,7 +1037,7 @@
       "url": "https://open.spotify.com/track/6SoOlvrcw4GhmQoq9araKD"
     },
     {
-      "added_at": "2023-10-06 12:25:14",
+      "added_at": "2023-10-20 10:46:19",
       "album": {
         "name": "Dance with the Robots",
         "url": "https://open.spotify.com/album/1ju9nrlL45s0DYtgHXUrHC"
@@ -1049,7 +1053,7 @@
       "url": "https://open.spotify.com/track/5fYAIzCmrCEIk2OmooGp0n"
     },
     {
-      "added_at": "2023-10-06 12:25:14",
+      "added_at": "2023-10-20 10:46:19",
       "album": {
         "name": "On Off / Fast Forward",
         "url": "https://open.spotify.com/album/4FfB3ih0ergiHNHpSxzJR9"
@@ -1065,7 +1069,7 @@
       "url": "https://open.spotify.com/track/4scUsV40AYlpiXCb4s7UnN"
     },
     {
-      "added_at": "2023-10-06 12:25:14",
+      "added_at": "2023-10-20 10:46:19",
       "album": {
         "name": "Shift Sequence",
         "url": "https://open.spotify.com/album/4MeMM1mQNBMUlrJtDV8WXn"
@@ -1081,7 +1085,7 @@
       "url": "https://open.spotify.com/track/5Ek7y6nNqZaQaC8s005K5O"
     },
     {
-      "added_at": "2023-10-06 12:25:14",
+      "added_at": "2023-10-20 10:46:19",
       "album": {
         "name": "The Fire",
         "url": "https://open.spotify.com/album/3Fe4a70NPiblcAadRnUXcv"
@@ -1097,7 +1101,7 @@
       "url": "https://open.spotify.com/track/02xvpUN3o4BegUDrfqv5ao"
     },
     {
-      "added_at": "2023-10-06 12:25:14",
+      "added_at": "2023-10-20 10:46:19",
       "album": {
         "name": "SEX",
         "url": "https://open.spotify.com/album/3MvKaCc5pZCi7PrNt1S2Zd"
@@ -1117,7 +1121,7 @@
       "url": "https://open.spotify.com/track/72BS1ZITFhGIuc2sglMwYs"
     },
     {
-      "added_at": "2023-10-06 12:25:14",
+      "added_at": "2023-10-20 10:46:19",
       "album": {
         "name": "Another Day",
         "url": "https://open.spotify.com/album/0vrJ2GjVQ9lavv0u74PHJn"
@@ -1137,7 +1141,7 @@
       "url": "https://open.spotify.com/track/4SKkLIyC381iLFbjt0dIWM"
     },
     {
-      "added_at": "2023-10-06 12:25:14",
+      "added_at": "2023-10-20 10:46:19",
       "album": {
         "name": "Extra Welt Hits",
         "url": "https://open.spotify.com/album/3XKvUkeeuxTcKAKBrzR4lE"
@@ -1153,7 +1157,7 @@
       "url": "https://open.spotify.com/track/0tZFL2LU8XSThRttMJif6Q"
     },
     {
-      "added_at": "2023-10-06 12:25:14",
+      "added_at": "2023-10-20 10:46:19",
       "album": {
         "name": "Hungry 5 (The Best of 5 Years)",
         "url": "https://open.spotify.com/album/6cjXNVPvBuQdrCbllisAbD"
@@ -1173,7 +1177,7 @@
       "url": "https://open.spotify.com/track/1uXUZfJykefWuwj9VtyxIq"
     },
     {
-      "added_at": "2023-10-06 12:25:14",
+      "added_at": "2023-10-20 10:46:19",
       "album": {
         "name": "Marionette",
         "url": "https://open.spotify.com/album/4jB9tDebyvYZHEhfAnYV8E"
@@ -1189,7 +1193,7 @@
       "url": "https://open.spotify.com/track/0LG0XwV3KdCgHsGrqN1u4u"
     },
     {
-      "added_at": "2023-10-06 12:25:14",
+      "added_at": "2023-10-20 10:46:19",
       "album": {
         "name": "30 Years EP",
         "url": "https://open.spotify.com/album/7H8d96hgtZ7Q44M5ZtJMhZ"
@@ -1209,7 +1213,7 @@
       "url": "https://open.spotify.com/track/5oHZkmXPUVU9nX0b9xW2iL"
     },
     {
-      "added_at": "2023-10-06 12:25:14",
+      "added_at": "2023-10-20 10:46:19",
       "album": {
         "name": "Typerope EP",
         "url": "https://open.spotify.com/album/7GeBsbuHAU7CfzNmCMaotz"
@@ -1225,7 +1229,7 @@
       "url": "https://open.spotify.com/track/6EEcPi3jwGYlG7BdMlnf42"
     },
     {
-      "added_at": "2023-10-06 12:25:14",
+      "added_at": "2023-10-20 10:46:19",
       "album": {
         "name": "6 A.M. / Maurader",
         "url": "https://open.spotify.com/album/7p5TSQFCw8yYPI2FqjE98d"
@@ -1241,7 +1245,7 @@
       "url": "https://open.spotify.com/track/4oiMLvhZYMov0BjrTU2jyK"
     },
     {
-      "added_at": "2023-10-06 12:25:14",
+      "added_at": "2023-10-20 10:46:19",
       "album": {
         "name": "Dominator (Reb\u016bke Remix)",
         "url": "https://open.spotify.com/album/7n6n1dLOtrxPa3HV29b1Vr"
@@ -1261,7 +1265,7 @@
       "url": "https://open.spotify.com/track/6cKvyvg3sMnyZZsi8tgXMP"
     },
     {
-      "added_at": "2023-10-06 12:25:14",
+      "added_at": "2023-10-20 10:46:19",
       "album": {
         "name": "The House Of House",
         "url": "https://open.spotify.com/album/6wz1BxyLMqtnziouqFnFtp"

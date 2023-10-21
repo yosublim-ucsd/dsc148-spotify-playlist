@@ -103,6 +103,28 @@
     },
     {
       "album": {
+        "name": "A Trip to the Dentist",
+        "url": "https://open.spotify.com/album/7qd2alTTttaMaa9tjgR9Uu"
+      },
+      "artists": [
+        {
+          "name": "Jinkie Bays",
+          "url": "https://open.spotify.com/artist/3BwGQ1dHTUdDejGtNRCDMf"
+        },
+        {
+          "name": "The Brothers Nylon",
+          "url": "https://open.spotify.com/artist/5WLTGcENPt84BZtmx6rt50"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208000,
+      "name": "A Trip to the Dentist",
+      "url": "https://open.spotify.com/track/1J7C9vpaYQCXaYvbntXK16"
+    },
+    {
+      "album": {
         "name": "A Wild Mad Beat (Edit)",
         "url": "https://open.spotify.com/album/33DiXWQxPtC4HM2Pg2XqXn"
       },
@@ -1722,7 +1744,7 @@
       ],
       "date_added": "2020-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-21",
       "duration_ms": 155429,
       "name": "Get Funked",
       "url": "https://open.spotify.com/track/38sBy1Ig1pojTtcsOpNIYN"

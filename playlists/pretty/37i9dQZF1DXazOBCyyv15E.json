@@ -1,12 +1,12 @@
 {
   "description": "The home of the best new alternative music. Cover: Jockstrap",
-  "num_followers": 192516,
+  "num_followers": 192589,
   "original_name": "The Other List",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjYmE5MGIwNDhiZDQ3MTI5ZGJiNzc0YzI0MDJhMmI4NmZkOTJlOGE2",
+  "snapshot_id": "MCw3MGNjZjdkNjg3ZjZiM2JmMzk5NWRhY2ZmZmRiYjM1OWUxYTIxNTBi",
   "tracks": [
     {
       "added_at": "2023-10-19 23:00:00",
@@ -63,6 +63,22 @@
       "duration_ms": 322453,
       "name": "Heaven - feat. Damon Albarn",
       "url": "https://open.spotify.com/track/3ROgWZzcpQ0y8k67PzlbBC"
+    },
+    {
+      "added_at": "2023-10-20 10:45:54",
+      "album": {
+        "name": "Dang",
+        "url": "https://open.spotify.com/album/3DZodwqZN2YkjgI0NAwyS8"
+      },
+      "artists": [
+        {
+          "name": "Caroline Polachek",
+          "url": "https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a"
+        }
+      ],
+      "duration_ms": 164514,
+      "name": "Dang",
+      "url": "https://open.spotify.com/track/7ddHGUPt5bOpVFAtX6TJN8"
     },
     {
       "added_at": "2023-10-19 23:00:00",
@@ -1343,34 +1359,6 @@
       "duration_ms": 111746,
       "name": "teardrops on the radio",
       "url": "https://open.spotify.com/track/0WsA8fcWahmelR0Wo4OOWT"
-    },
-    {
-      "added_at": "2023-10-19 23:00:00",
-      "album": {
-        "name": "Fire Leap",
-        "url": "https://open.spotify.com/album/648ChSAlKMM1uPUvWjvpKr"
-      },
-      "artists": [
-        {
-          "name": "Katy J Pearson",
-          "url": "https://open.spotify.com/artist/6xBsaFua2lgAUlNv8Yh0nQ"
-        },
-        {
-          "name": "Drug Store Romeos",
-          "url": "https://open.spotify.com/artist/7MMjkDVrjxW9iObeZeeejh"
-        },
-        {
-          "name": "Wet Leg",
-          "url": "https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ"
-        },
-        {
-          "name": "Sarah Meth",
-          "url": "https://open.spotify.com/artist/2cveuRnx0cbS41GQTBcuRz"
-        }
-      ],
-      "duration_ms": 171098,
-      "name": "Fire Leap",
-      "url": "https://open.spotify.com/track/5WbLDvtHGLuqsVVWIJrP7U"
     }
   ],
   "unique_name": "The Other List",

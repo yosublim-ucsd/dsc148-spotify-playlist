@@ -8677,7 +8677,7 @@
         },
         {
           "name": "Ted Park",
-          "url": "https://open.spotify.com/artist/7s1z4FwBTOjCdQcmXLMbOG"
+          "url": "https://open.spotify.com/artist/4ph6JucAkc6pnPPad0uiJT"
         }
       ],
       "date_added": "2023-10-17",
@@ -14512,6 +14512,24 @@
       "duration_ms": 186370,
       "name": "Tokyo Blues",
       "url": "https://open.spotify.com/track/71jJYGlqd7el8nRIX4M786"
+    },
+    {
+      "album": {
+        "name": "Tokyo Calling",
+        "url": "https://open.spotify.com/album/3utC1QAo17IiIIkQZe7XO6"
+      },
+      "artists": [
+        {
+          "name": "ATARASHII GAKKO!",
+          "url": "https://open.spotify.com/artist/4OfU76YhPU04wlmbVFFgTJ"
+        }
+      ],
+      "date_added": "2023-10-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191180,
+      "name": "Tokyo Calling",
+      "url": "https://open.spotify.com/track/2WNjQidYVQO0oFFlTuF8fo"
     },
     {
       "album": {

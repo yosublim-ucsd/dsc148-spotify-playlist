@@ -4,13 +4,16 @@
 
 > Just wanna Praise the Lord and chill\. Here is a perfect one! Cover: <a href="https://open.spotify.com/artist/43bV8yQzojEPet60WrZJau?si=tV19pJIgSkSq1IjoAZtWIQ">Anendlessocean</a>
 
-67 songs - 4 hr 33 min
+70 songs - 4 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [Aka Ngozi \(The Hand of God\)](https://open.spotify.com/track/2eI4mkTZrQMEty3AOHJBlo) | [Esther Oji](https://open.spotify.com/artist/5Hd4U5JFovPR2yNcXa3Pm4) | [Aka Ngozi \(The Hand of God\)](https://open.spotify.com/album/7bjEV1bDmzGNRgTZhwYoDE) | 4:33 | 2023-10-20 |  |
 | [All I Need](https://open.spotify.com/track/3POO6wDiNOISVDiPFsiY0l) | [LAMB CULTURE.](https://open.spotify.com/artist/7ekDyLis0zh78DffR8wjW9), [Noël Mio](https://open.spotify.com/artist/7JzZd8sCTmIpJW62zNS0ta), [Reblah](https://open.spotify.com/artist/7EHtFdWeBK26GJ5lKt02SV) | [All I Need](https://open.spotify.com/album/5nUlpUbBsbb2mhc71xLMWL) | 2:58 | 2023-10-20 |  |
 | [All That Matters](https://open.spotify.com/track/6yjahWcsEY9blHb93BIJBm) | [Minister GUC](https://open.spotify.com/artist/5F9NFQsix9CwLRFKUbyCEL) | [All That Matters](https://open.spotify.com/album/0thQxFpkcVRp0DA1GybIfK) | 6:16 | 2023-10-20 |  |
+| [Alone](https://open.spotify.com/track/1aJb5rl14uELMauKzgjW0v) | [Anendlessocean](https://open.spotify.com/artist/43bV8yQzojEPet60WrZJau) | [Alone](https://open.spotify.com/album/3lFBphC8ENBweBOgbrCwwl) | 2:43 | 2023-10-20 |  |
+| [ANGELS](https://open.spotify.com/track/5kjPddNRxO0H4DkKfaZjNl) | [King Dareal](https://open.spotify.com/artist/2Fh0nGDeyjps1Y1L4bayKY), [The Love Trybe](https://open.spotify.com/artist/7JUHFG3LARPNiGoFqRuEjJ) | [ANGELS](https://open.spotify.com/album/3Inj7Hu0KzqT2VImIrnLpL) | 2:57 | 2023-10-20 |  |
+| [Away](https://open.spotify.com/track/7KYlHeaju35sZ2hCyPATwd) | [Dj Horphuray](https://open.spotify.com/artist/0VQxKhG5uvT0gIDqAuyl4L), [Sammy Hart](https://open.spotify.com/artist/7uj5a4BDtYb5oI4EfypnNv), [Prinx Emmanuel](https://open.spotify.com/artist/4HzpHfHz3EznjI4icnTvRz) | [Away](https://open.spotify.com/album/5LSYEsjO78YbfwSTq04wYL) | 3:30 | 2023-10-20 |  |
 | [Believe](https://open.spotify.com/track/39nqlDE3iN3gOp9I5Ng0NB) | [Cyfa](https://open.spotify.com/artist/3fItFJEQGwuAIQhFy92rJ9), [Swaggy Jay](https://open.spotify.com/artist/7xF9Cn1qxDwYhvrE4EGRU2) | [Believe](https://open.spotify.com/album/7CGzd4QXGgXYrciuPKMxPd) | 2:52 | 2023-10-20 |  |
 | [Big Stepper Pt\. 2](https://open.spotify.com/track/4HQxYIQangC0upgJ9psYgO) | [A Mose](https://open.spotify.com/artist/4ioJbpi0sNGUUq2b8tnH0X), [Festizie](https://open.spotify.com/artist/2uimm8D8LQw4mlFRGWPLQu) | [Big Stepper Pt\. 2](https://open.spotify.com/album/0ci3NNOgeqDg4ikDDaQgOD) | 2:49 | 2023-10-20 |  |
 | [Brighter Days](https://open.spotify.com/track/34XwFfq1XGOF0HHyVQl1nx) | [Blessing Offor](https://open.spotify.com/artist/55qfDfgj4Qi3JGe6KpqGtC) | [Brighter Days](https://open.spotify.com/album/6KSuDvpfQOEt7aD55Krul6) | 3:28 | 2023-10-20 |  |

@@ -4,7 +4,7 @@
 
 > Grandes relatos de toque reflexivo y visión consciente\. Cancerbero en portada.
 
-88 songs - 5 hr 47 min
+89 songs - 5 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -45,6 +45,7 @@
 | [En Defensa Propia](https://open.spotify.com/track/1YGRyW2Yf0U48A621H1IZR) | [Apache](https://open.spotify.com/artist/2pvyE8W9RWESQxkyAWZqgY) | [Ahora o Nunca](https://open.spotify.com/album/3ZrgPlBW4UBF7iSww4ugqE) | 6:13 | 2023-04-14 |  |
 | [En el Aire](https://open.spotify.com/track/2XDj1sDCtz9eN9lotxlhQ8) | [Astrid Cruz](https://open.spotify.com/artist/1WhuV4MAbMhWKjYXojKN8i) | [En el Aire](https://open.spotify.com/album/69TwSYaQOEdYI2Qq9FBgAT) | 3:01 | 2023-04-14 |  |
 | [Escaleras y Serpientes](https://open.spotify.com/track/6ginyVBjgynnyoSB47whnH) | [Metrik Vader](https://open.spotify.com/artist/47zSpyjndukb8rBLQSSU3T) | [Escaleras y Serpientes](https://open.spotify.com/album/53uvTdRvIxmC0bJDDEiI4j) | 3:12 | 2023-04-14 |  |
+| [Escorpión](https://open.spotify.com/track/48djoywLHuEwUlOpZP1tMR) | [Granuja](https://open.spotify.com/artist/5KBPxIED8ejHkvhs4KCzyS), [Rodesens](https://open.spotify.com/artist/1ggnt5q0Sm1yZj7l45ovd8), [InVnerable](https://open.spotify.com/artist/5DVq4JmHmFWBoFk7K0vCMY) | [Escorpión](https://open.spotify.com/album/3U0wjZVkZ7qtblFGLIzqpA) | 2:52 | 2023-10-20 |  |
 | [Espacio](https://open.spotify.com/track/4Qlji49yh5giZ1FaGrcka1) | [Bocafloja](https://open.spotify.com/artist/2bj9MQez88g09q4NSr2xjS) | [Espacio](https://open.spotify.com/album/4jsKse94WxNSuO6osmSyNs) | 4:35 | 2023-04-14 |  |
 | [Esto Es México](https://open.spotify.com/track/7wQnxrNTZiOPjZu1kXUttb) | [Elote el Barbaro](https://open.spotify.com/artist/0yWcBatdQPfGvY4XEGeD6m), [Sinful](https://open.spotify.com/artist/0Pe4PWfk1dWblSMuxQbKt2) | [Tiempos Muertos](https://open.spotify.com/album/23MFmAALUwxvxcW0yBBXpV) | 4:46 | 2023-04-14 |  |
 | [Fe de Errata](https://open.spotify.com/track/7lj2BqZyPehFyu3y6N1qqw) | [Lil Supa](https://open.spotify.com/artist/0qHbO3z6lgLE6ZYCkQBo1K) | [Claro](https://open.spotify.com/album/5AmcGezfEa27mu3Mx6bPas) | 3:06 | 2023-04-14 |  |

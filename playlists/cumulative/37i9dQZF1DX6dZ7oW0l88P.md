@@ -4,7 +4,7 @@
 
 > Beautiful and serene harp music for relaxation, meditation and unwinding from the day.
 
-151 songs - 7 hr 41 min
+158 songs - 8 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,6 +16,7 @@
 | [Amapola](https://open.spotify.com/track/7D974yUD17vx2AMIx0xw0d) | [Moldan Sevoni](https://open.spotify.com/artist/3G8BggMGTr06vVbV3WyBhP) | [Cinematic Harp](https://open.spotify.com/album/7niYLEnTIdgTYILsjaKlJ4) | 1:53 | 2022-05-11 | 2023-10-05 |
 | [An alarc'h Celtic Harp Music](https://open.spotify.com/track/7KkzxHONrs8jGmto2R1kSl) | [Celtic Dreams](https://open.spotify.com/artist/0HeQbxNWtbCAhAMH0Ivh00) | [Celtic Dream \- Celtic Spa Music for Relaxation meditation Massage and Yoga Relaxing Music for Stress Relief](https://open.spotify.com/album/7sBqo1AiYM7BLwOO3UNaEF) | 1:29 | 2022-05-11 | 2023-10-05 |
 | [Angelic Harp](https://open.spotify.com/track/6veBbD4BqHpjRg6Il27Wd9) | [Laura Lotti](https://open.spotify.com/artist/2RIXIXkQwCbradmk0Scqjj) | [Angelic Harp](https://open.spotify.com/album/76aM79V9VXvpcXry4Q1O3z) | 1:47 | 2023-01-05 | 2023-10-05 |
+| [Astra](https://open.spotify.com/track/0iiuaPoDanmPiJ8LqGmw8v) | [Campane](https://open.spotify.com/artist/0xauYNqgRVmneIDWAHe5hr) | [Astra](https://open.spotify.com/album/58jgMwZ6Tv8a8I9tzf4VAY) | 2:48 | 2023-10-20 |  |
 | [Atardecer](https://open.spotify.com/track/0FWNmkCXKuB7hjIQFdrWiq) | [Cote Saldias](https://open.spotify.com/artist/4RRzVF5BxmGPnK6698MSJn) | [Atardecer](https://open.spotify.com/album/2oxPuCTe0vf7QkS9gZSoXN) | 1:17 | 2022-08-10 | 2023-10-05 |
 | [Aurelia's Mermaid](https://open.spotify.com/track/7lSMV8D3zNIM42rxNce0EH) | [Laura Lotti](https://open.spotify.com/artist/2RIXIXkQwCbradmk0Scqjj) | [Aurelia's Mermaid](https://open.spotify.com/album/56DO2vkQEIDNhGudBJc4dr) | 1:53 | 2022-08-10 | 2023-10-05 |
 | [avril 14th](https://open.spotify.com/track/5U9ZQtbfA3856AoIEQlH5Q) | [Remy Van Kesteren](https://open.spotify.com/artist/5x183GdNFhX9FETwGNpOZE) | [avril 14th](https://open.spotify.com/album/66FQl6mNgy8j3iJhHLc064) | 2:07 | 2023-07-11 |  |
@@ -39,7 +40,9 @@
 | [Dimensions](https://open.spotify.com/track/73vGj4BNyEWG9g6OSXLelI) | [Valéry Guilloux](https://open.spotify.com/artist/75SvP483ULjCCmGKmGnBL7) | [Dimensions](https://open.spotify.com/album/4IfuoDG0kJ4AYcQ3o0hMMb) | 3:14 | 2023-10-09 |  |
 | [Down the River](https://open.spotify.com/track/6IcLI0Fo5egePIjWt05mUp) | [Morris Warwick](https://open.spotify.com/artist/6Wg9YE1YeFo3CIPJjBvisW) | [Down the River](https://open.spotify.com/album/1zU33D5pT0hbgkgRV7ThZj) | 1:08 | 2022-05-11 | 2023-10-05 |
 | [Echoes in the Chapel](https://open.spotify.com/track/0R4wW7bU9CsNeHqb4xCiFi) | [The Harp on the Hill](https://open.spotify.com/artist/2YJfV8rDuyZd1BNmWcPezU) | [For All Eternity](https://open.spotify.com/album/6KYaJUK5yIjiaKBgEF2eh0) | 2:36 | 2022-05-11 |  |
+| [Eufor De Santos](https://open.spotify.com/track/2XDc9YHG1oa698VTc0zKh3) | [Yvon Brosseau](https://open.spotify.com/artist/3HhJCAu0uQ95w9eHjxNBt8) | [Eufor De Santos](https://open.spotify.com/album/5KjpfwAkGA9GolYiaxe3Wn) | 3:10 | 2023-10-20 |  |
 | [Every Day a Miracle](https://open.spotify.com/track/2maARaLezrawwVepVgicoP) | [The Harp on the Hill](https://open.spotify.com/artist/2YJfV8rDuyZd1BNmWcPezU) | [In Praise of Creation](https://open.spotify.com/album/7i684VIx7XERrX8pXtamPS) | 2:33 | 2022-05-11 |  |
+| [Fading Mountains](https://open.spotify.com/track/4q72ylBTDHqTs60134HSHV) | [Nestos](https://open.spotify.com/artist/226hKCjt03DSIoyUpvNldF) | [Fading Mountains](https://open.spotify.com/album/53mOgfg2hYx2kbqBhGuExU) | 2:28 | 2023-10-20 |  |
 | [Feeling Happy](https://open.spotify.com/track/6YemG0JU5lTv7X3Qc5UajS) | [Chad Isaacson](https://open.spotify.com/artist/5UzSphuk1wV4EkpEpsxfJJ) | [Feeling Happy](https://open.spotify.com/album/05XQpRE0NTHqKH0hQXjbPz) | 1:42 | 2022-05-11 | 2023-10-05 |
 | [Finding Sense](https://open.spotify.com/track/016tIV3HidSnnPOYDQVPRf) | [Joana Watts](https://open.spotify.com/artist/1Hd2JLOIkYcfgaeRQjfxQW) | [Finding Sense](https://open.spotify.com/album/68h6kvmVPih7pZkR2iVD2A) | 4:19 | 2022-05-11 | 2022-07-29 |
 | [Fingall's Lamentation / Marbhna](https://open.spotify.com/track/46yX1HXCnHEMIp5WS9a8Cj) | [Gráinne Hambly](https://open.spotify.com/artist/17VnlCfMAbmvz2gr6fPidR) | [The Thorn Tree](https://open.spotify.com/album/5ix33voKR6WFRXSg7VNQiQ) | 5:15 | 2022-05-11 |  |
@@ -58,6 +61,7 @@
 | [Harpicious](https://open.spotify.com/track/7c3h8ow3py2JJUtRMpG1sF) | [Bellezza Eterna](https://open.spotify.com/artist/3ekUIJNMmdW9bAYSKDzNNk) | [Harpicious](https://open.spotify.com/album/73EzABIPlGC4Etx1DkctDf) | 3:20 | 2022-05-11 |  |
 | [Harps of Hope](https://open.spotify.com/track/6VhB28RNNJ3z9eO3XNj5OT) | [Wayne Jefferson](https://open.spotify.com/artist/58FV9KFo35OpIkNTySzSlN) | [Oceans of Peace](https://open.spotify.com/album/2s2MshJ817Zorku0oJNGPG) | 4:01 | 2022-05-11 |  |
 | [Healer](https://open.spotify.com/track/3PzA9cYVRZtCpfiHmKyxCK) | [Ellisar Dalana](https://open.spotify.com/artist/0VJq4X2fazAijd0hB6Nmab) | [Healer](https://open.spotify.com/album/1coZePEnmMuZyA3iun7buO) | 3:10 | 2023-10-09 |  |
+| [Heartstrings](https://open.spotify.com/track/0m6DiMeAO3gtaHVatapMsC) | [Mico Lee](https://open.spotify.com/artist/1YryB6FiuM7yTkHnR4REr0) | [Heartstrings](https://open.spotify.com/album/6AplTEsX5EaArn5R55sKKa) | 2:56 | 2023-10-20 |  |
 | [High Winds](https://open.spotify.com/track/1WOnU5JOwaUudohBX1lCbg) | [Zaid Kharal](https://open.spotify.com/artist/51C9KR7C0MbdzUwQ7uRiLj) | [High Winds](https://open.spotify.com/album/7BiSDta5reW3jBCzJJ9O1F) | 3:21 | 2023-10-04 |  |
 | [Il Nostro Viaggio](https://open.spotify.com/track/7s1ZDjdY7rdLeBHCuGGivL) | [Fleurs de Son](https://open.spotify.com/artist/4vlZU5f5zVuZsVk11MeDd3) | [Il Nostro Viaggio](https://open.spotify.com/album/4hwlkbgRByzifZq01kkERi) | 2:25 | 2023-09-20 |  |
 | [Imagination](https://open.spotify.com/track/4iJvgV83C0eljC2gZPXGyt) | [Zimdizi](https://open.spotify.com/artist/144HUlx66zGheUbx0092oN) | [Imagination](https://open.spotify.com/album/59ngJWf69ZTOcqluzAxTta) | 3:09 | 2023-01-05 |  |
@@ -105,6 +109,7 @@
 | [Pink Skies](https://open.spotify.com/track/6I5xLz1ySXcshaZVq0JWIK) | [The Tides](https://open.spotify.com/artist/0Z3GVEGMJYq0nTdZNJAx4V) | [Elegant Harps](https://open.spotify.com/album/75dmBNnTf360cAXEvJDXUW) | 2:39 | 2022-05-11 |  |
 | [Pluie](https://open.spotify.com/track/6vrUEVa0bxM0R9jIeksjKt) | [The Harp of Dreams](https://open.spotify.com/artist/2v3kkILrqKJtE3metPuPwM) | [Pluie](https://open.spotify.com/album/7l5gLw5l7sKQ1maQHT6uvz) | 1:22 | 2022-08-10 | 2023-10-05 |
 | [Pondering Soul](https://open.spotify.com/track/2JSQpRxp3Nj813yDwdXP5T) | [Lucy Vincent](https://open.spotify.com/artist/3aZqkX0ePw0fBoERFYCD6Z) | [Pondering Soul](https://open.spotify.com/album/486YRktaHQPELAWuaIOEjy) | 2:41 | 2022-05-11 |  |
+| [Prayer For Peace](https://open.spotify.com/track/6vy6tvn35Xdg5xXKPEqep1) | [Calma Totalis](https://open.spotify.com/artist/1s9skrP96FBxQyrPC3mlVy) | [Prayer For Peace](https://open.spotify.com/album/4pW97ofmIZv4xnIEP9GKH0) | 3:03 | 2023-10-20 |  |
 | [Prelude in C](https://open.spotify.com/track/5dfyZGnyhJnD0OP9i7Rxo4) | [Maria Duhova Trevor](https://open.spotify.com/artist/1moHmQ1eb3nFxuOXprU4Us) | [Healing Harp](https://open.spotify.com/album/6z8qAgApt7tid0srTfKJvF) | 2:22 | 2022-05-11 |  |
 | [Prism Clouds](https://open.spotify.com/track/76aTMdvmwpYNQPhThp4jyq) | [Jessica Gallo](https://open.spotify.com/artist/0AUXT7h44snL3V6J0jBame) | [Walk to the Sun](https://open.spotify.com/album/5ekA0XP5beaOWZVPbiAq6K) | 2:44 | 2022-05-11 |  |
 | [Pure Compassion](https://open.spotify.com/track/2lfF19uOXezWdCisdAtQJh) | [Trancistique](https://open.spotify.com/artist/5FIPYREWb6VB1awzWKGD0I) | [Pure Compassion](https://open.spotify.com/album/3PATLSMzIxGyO16NM4X44Y) | 2:44 | 2023-03-09 |  |
@@ -133,6 +138,7 @@
 | [Soft harp world](https://open.spotify.com/track/4Kx7N7sHcJ0MamSpuDKfV5) | [Lorenzo Tempesti](https://open.spotify.com/artist/0S6YGr0wEbA6C0BVpvvdJ6) | [Traveling in space](https://open.spotify.com/album/6b0oJa9QYiPNfF1os8pba9) | 3:38 | 2022-05-11 |  |
 | [Soft Touch](https://open.spotify.com/track/6ZEiwmGp8BInwOrn5jwRD6) | [Gemma Leslie](https://open.spotify.com/artist/5h4IQnkFpwCjNQm83ucDlL) | [Gentle Harp](https://open.spotify.com/album/3BAQzjKZhAoDFJzZevg26J) | 2:37 | 2022-05-11 |  |
 | [Sometimes He's In My Dreams](https://open.spotify.com/track/2BQplCyfCnTV5RvDYBz9UB) | [Mary Lattimore](https://open.spotify.com/artist/38MKhZmMRHAZRz8LqtKIBw) | [Silver Ladders](https://open.spotify.com/album/5Ykv18C5wYbOe3QsZX7kyy) | 3:46 | 2022-05-11 |  |
+| [State Of Harp](https://open.spotify.com/track/0yY37P9rT3l7LfI74AHJic) | [Karen Joyce](https://open.spotify.com/artist/7yb60ZMXVj2XWFhMH8Yuxd) | [State Of Harp](https://open.spotify.com/album/5CijIYsynZB0UpurMgPlf8) | 2:16 | 2023-10-20 |  |
 | [Stationary](https://open.spotify.com/track/0rfgpx592J4Ed7NVuzNSmL) | [Caiharice](https://open.spotify.com/artist/4FIDD82Hp8dfCV7hwuAfEn) | [Stationary](https://open.spotify.com/album/35R9NuEjzygzFFoEqS05lH) | 3:28 | 2023-10-04 |  |
 | [Strings Of Serenity](https://open.spotify.com/track/5MCD2VQD1zR35jJHczAkMk) | [X\-Genie](https://open.spotify.com/artist/7jpxxOSOJX0PCvKXAbQs2I) | [Strings Of Serenity](https://open.spotify.com/album/08ToMN7jrPEtekSMYn4RtX) | 2:51 | 2023-03-09 |  |
 | [Síocháin](https://open.spotify.com/track/6FUMrOxk7rMqh9aIaWfuWc) | [Sound Haven](https://open.spotify.com/artist/3UjSXLe8R1x6SipIecocL8) | [Síocháin](https://open.spotify.com/album/5NQTTuuPJjCXIHrS3Jjgkv) | 1:43 | 2022-05-11 | 2023-10-05 |
@@ -142,6 +148,7 @@
 | [The Dream is the Answer](https://open.spotify.com/track/1Kgs9sJrIvldhEOSci4oVY) | [Zen of Harp](https://open.spotify.com/artist/55AxE4yhhIf9nr1EtXi7Ti), [Alice in Freefall](https://open.spotify.com/artist/6sciWiZGwHsgkAmpB3uzsX) | [The Dream is the Answer](https://open.spotify.com/album/7BUPBhiY3axAbgvOEkQ1ZB) | 2:59 | 2023-09-20 |  |
 | [The Gift of Hope](https://open.spotify.com/track/5ULRfKbFbsERkfdp0jb4B5) | [The Harp on the Hill](https://open.spotify.com/artist/2YJfV8rDuyZd1BNmWcPezU) | [Harp of Grace](https://open.spotify.com/album/7qgdRGXRUIFQGhKtwXpcw6) | 2:23 | 2022-05-11 |  |
 | [The Ice Cream King](https://open.spotify.com/track/3bNEBw6cvY06icXZT9Jw3d) | [Leo Fosbrook](https://open.spotify.com/artist/3KWH7rrwTcMZJd9ni15iZW) | [The Ice Cream King](https://open.spotify.com/album/1tGzbOO4dXF4Eh2v7mMJ8p) | 1:05 | 2022-05-11 | 2023-10-05 |
+| [The Last Journey](https://open.spotify.com/track/4gSnNc4eQO8zElIves7Eal) | [Aden Cloud](https://open.spotify.com/artist/1X13YqlCwaDIj1uvC36gln) | [The Last Journey](https://open.spotify.com/album/1CdektVqdEjLf2SsWMyaAs) | 3:11 | 2023-10-20 |  |
 | [The Nightingale](https://open.spotify.com/track/4lWIoNHQPDfLIdF1iNbjqd) | [Maria Duhova Trevor](https://open.spotify.com/artist/1moHmQ1eb3nFxuOXprU4Us) | [Healing Harp](https://open.spotify.com/album/6z8qAgApt7tid0srTfKJvF) | 4:32 | 2022-05-11 |  |
 | [The Quiet Land of Erin](https://open.spotify.com/track/3L30p2tIeHnQ8kQouiCfcR) | [Sound Haven](https://open.spotify.com/artist/3UjSXLe8R1x6SipIecocL8) | [The Land of Erin](https://open.spotify.com/album/7MQx7F4CGoKeihChscOjDD) | 1:32 | 2022-05-11 | 2023-10-05 |
 | [The Unicorn](https://open.spotify.com/track/4UbQPN5TaYLhUcbfIEWTPM) | [Chalmeris](https://open.spotify.com/artist/6qVGXh4jAcWmYKF2ppO46R) | [The Unicorn](https://open.spotify.com/album/5Ltol1xE3q59jdjrgVTLdF) | 2:21 | 2022-05-11 | 2023-09-27 |

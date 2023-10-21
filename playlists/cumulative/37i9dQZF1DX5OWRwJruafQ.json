@@ -3577,6 +3577,24 @@
     },
     {
       "album": {
+        "name": "Chidiyan Da Chamba",
+        "url": "https://open.spotify.com/album/7Dsgh4TMCBZW64jpsEGyIv"
+      },
+      "artists": [
+        {
+          "name": "Simiran Kaur Dhadli",
+          "url": "https://open.spotify.com/artist/6HDjrqj5bbSESYOj89PtP9"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191595,
+      "name": "Rebel",
+      "url": "https://open.spotify.com/track/55nyHIEC9uSC5nqgMGiZIe"
+    },
+    {
+      "album": {
         "name": "Roots",
         "url": "https://open.spotify.com/album/2NChdk6UBRJfiCuanoEU92"
       },
@@ -3908,7 +3926,7 @@
       ],
       "date_added": "2023-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-21",
       "duration_ms": 219000,
       "name": "Sira Sira",
       "url": "https://open.spotify.com/track/2FXdd5VFHwUvGrFTDY1sID"

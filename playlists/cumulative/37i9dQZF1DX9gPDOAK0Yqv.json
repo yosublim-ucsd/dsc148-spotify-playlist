@@ -1345,6 +1345,28 @@
     },
     {
       "album": {
+        "name": "Radiant",
+        "url": "https://open.spotify.com/album/3XkKoyeXwOBTvFmfBL2cVI"
+      },
+      "artists": [
+        {
+          "name": "Dyzen",
+          "url": "https://open.spotify.com/artist/4iBwpHcklqLJMHgrTEHEYl"
+        },
+        {
+          "name": "Sideral",
+          "url": "https://open.spotify.com/artist/0og0eYW8h4bxYQXBYPvd0b"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 452682,
+      "name": "Dialogue",
+      "url": "https://open.spotify.com/track/52jhw6Sfp5ED2ilnikRyhP"
+    },
+    {
+      "album": {
         "name": "Disaster",
         "url": "https://open.spotify.com/album/7aKimU3WkMXCZjQIUzqpps"
       },
@@ -3606,7 +3628,7 @@
       ],
       "date_added": "2023-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-21",
       "duration_ms": 362218,
       "name": "Meli",
       "url": "https://open.spotify.com/track/3g6pA9NF7tNX8vrsaHL510"
@@ -6031,6 +6053,24 @@
     },
     {
       "album": {
+        "name": "Thade",
+        "url": "https://open.spotify.com/album/66T4JSExNeXeVUHg3WCstT"
+      },
+      "artists": [
+        {
+          "name": "Fatum",
+          "url": "https://open.spotify.com/artist/3pt2vTpH1eI776oDZT1G2C"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 285714,
+      "name": "Thade",
+      "url": "https://open.spotify.com/track/0wMOfxxAqGex1Mf0d4HyPO"
+    },
+    {
+      "album": {
         "name": "The Dark Sun",
         "url": "https://open.spotify.com/album/7iwjcAiaiCmfdSqyKGjMGY"
       },
@@ -6688,7 +6728,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-21",
       "duration_ms": 330777,
       "name": "Tunnel Vision",
       "url": "https://open.spotify.com/track/5OiHKfBSVXR2R0wf166GO5"

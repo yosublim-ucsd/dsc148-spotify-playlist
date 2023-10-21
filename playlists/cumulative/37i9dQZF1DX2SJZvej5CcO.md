@@ -4,7 +4,7 @@
 
 > Apasiónate con sus éxitos en español.
 
-70 songs - 4 hr 33 min
+71 songs - 4 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -43,6 +43,7 @@
 | [Frente a nosotros](https://open.spotify.com/track/7ejgpCjT3L5JRJWKnqeSbV) | [Laura Pausini](https://open.spotify.com/artist/2e4nwiX8ZCU09LGLOpeqTH) | [Frente a nosotros](https://open.spotify.com/album/2tlRHyJYMznfBLjYEY69zt) | 2:59 | 2023-10-13 |  |
 | [Gente \- New Version 2013](https://open.spotify.com/track/21iN6r50k8cWkcrpBHqdq9) | [Laura Pausini](https://open.spotify.com/artist/2e4nwiX8ZCU09LGLOpeqTH) | [20 The Greatest Hits](https://open.spotify.com/album/3CBMpoI2vZlKXs3wgnNWGn) | 3:48 | 2021-09-23 |  |
 | [He creído en mí](https://open.spotify.com/track/2oalJesy0oj61oxav56j0w) | [Laura Pausini](https://open.spotify.com/artist/2e4nwiX8ZCU09LGLOpeqTH) | [Similares](https://open.spotify.com/album/3polx9obFEloI0s73vcvUv) | 3:14 | 2021-09-23 |  |
+| [Hogar natural](https://open.spotify.com/track/6ghYXPIPncuPb1VQWkSh2F) | [Laura Pausini](https://open.spotify.com/artist/2e4nwiX8ZCU09LGLOpeqTH) | [Hogar natural](https://open.spotify.com/album/2Tu4cs2fi49dDTKlQaWxEi) | 3:33 | 2023-10-20 |  |
 | [Inolvidable](https://open.spotify.com/track/0mct3ztXaGdJW20o0mZt8c) | [Laura Pausini](https://open.spotify.com/artist/2e4nwiX8ZCU09LGLOpeqTH) | [Lo mejor de Laura Pausini \- Volveré junto a ti](https://open.spotify.com/album/0myaHlqK31HgqSV2k6Caqj) | 3:46 | 2021-09-23 |  |
 | [Jamás abandoné](https://open.spotify.com/track/2VWyrEzISUmbcRfCRG3ioL) | [Laura Pausini](https://open.spotify.com/artist/2e4nwiX8ZCU09LGLOpeqTH) | [Inédito Special Edition](https://open.spotify.com/album/13DLAQCznI2ZPKrQENjJM5) | 3:24 | 2021-09-23 |  |
 | [La Fuerza Del Corazón \- En Directo En El Estadio Vicente Calderón / 2017](https://open.spotify.com/track/7AtuQiAsRESlLdR3V0FXBJ) | [Alejandro Sanz](https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF), [Laura Pausini](https://open.spotify.com/artist/2e4nwiX8ZCU09LGLOpeqTH) | [+ Es + \(El Concierto / En Directo En El Estadio Vicente Calderón / 2017\)](https://open.spotify.com/album/6NmuOSiXv5WoA5lYjemVTt) | 5:16 | 2021-09-23 |  |

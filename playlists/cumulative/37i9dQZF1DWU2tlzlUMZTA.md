@@ -4,7 +4,7 @@
 
 > Where Bollywood meets the hood\. Cover: Badshah
 
-50 songs - 1 hr 45 min
+51 songs - 1 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -55,6 +55,7 @@
 | [Sheher Ki Ladki \(From "Khandaani Shafakhana"\)](https://open.spotify.com/track/24d3IPklAxzBJB2nuWeSpg) | [Badshah](https://open.spotify.com/artist/0y59o4v8uw5crbN9M3JiL1), [Tulsi Kumar](https://open.spotify.com/artist/0T1CMVkqffHlqEk4BcAph1), [Abhijeet](https://open.spotify.com/artist/2ZRrPOjBIWoKK5rHedLijj), [Chandra Dixit](https://open.spotify.com/artist/7yO17B2aZWbkuTh5kpgee4), [Tanishk Bagchi](https://open.spotify.com/artist/4f7KfxeHq9BiylGmyXepGt), [Anand\-Milind](https://open.spotify.com/artist/2owjgBZQ70LoCNHIgW3gSk) | [Sheher Ki Ladki \(From "Khandaani Shafakhana"\)](https://open.spotify.com/album/4aroXseEbgMQBVvF0SfAHz) | 2:52 | 2023-02-15 |  |
 | [Sher \(From "Selfiee"\)](https://open.spotify.com/track/7tO6bKdh9fzsTOP139HV3E) | [Vikram Montrose](https://open.spotify.com/artist/0aXLGxJ65wok0y1bVG6flg), [MC SQUARE](https://open.spotify.com/artist/5WZViOJ21095FUcGPMpKFF), [Abhinav Shekhar](https://open.spotify.com/artist/7bBqAz65fp8BVnuHQTFgSQ) | [Sher \(From "Selfiee"\)](https://open.spotify.com/album/0G7PspTECvtldL1jfXUs0s) | 2:36 | 2023-02-15 |  |
 | [Shor Machega \(From "Mumbai Saga"\)](https://open.spotify.com/track/6jWENK1fDLJutaCZJDrxxj) | [Yo Yo Honey Singh](https://open.spotify.com/artist/7uIbLdzzSEqnX0Pkrb56cR), [Hommie Dilliwala](https://open.spotify.com/artist/4nK9FAS3HuQXcJva8gEWYT) | [Shor Machega \(From "Mumbai Saga"\)](https://open.spotify.com/album/5WbtQsxa5kT6TOfGbOoi0c) | 3:28 | 2023-02-15 |  |
+| [The Hanuman](https://open.spotify.com/track/65pg4ChAw8KQnLGdnwheVP) | [Parmish Verma](https://open.spotify.com/artist/3OQRPFFS3OsltFjFAXu1kE), [DG IMMORTALS](https://open.spotify.com/artist/7jbG8tDQ5FmqBbTCj5dJdy) | [The Hanuman](https://open.spotify.com/album/2Np9r6zTp1DIPZd5aWYeD0) | 2:56 | 2023-10-20 |  |
 | [The Humma Song \(From "OK Jaanu"\)](https://open.spotify.com/track/7Ck2si1vtgdPXdKGtWGGXr) | [A.R\. Rahman](https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG), [Badshah](https://open.spotify.com/artist/0y59o4v8uw5crbN9M3JiL1), [Tanishk Bagchi](https://open.spotify.com/artist/4f7KfxeHq9BiylGmyXepGt), [Shashaa Tirupati](https://open.spotify.com/artist/12CpR4SNDzVIlDoPSeNFeW), [Jubin Nautiyal](https://open.spotify.com/artist/1tqysapcCh1lWEAc9dIFpa) | [The Humma Song \(From "OK Jaanu"\)](https://open.spotify.com/album/3vJoUE05bg6Ki7BrzTOAPl) | 2:59 | 2023-02-15 |  |
 | [Yaar Naa Miley](https://open.spotify.com/track/56lHtVpvNxFSKewJKpeYc3) | [Yo Yo Honey Singh](https://open.spotify.com/artist/7uIbLdzzSEqnX0Pkrb56cR), [Jasmine Sandlas](https://open.spotify.com/artist/0mJDQBWytBhOh5JB1DOQ1c) | [Kick](https://open.spotify.com/album/3cZzNUD8je3vJKARADXJDy) | 4:03 | 2023-02-15 |  |
 | [Zindagi Picture Hai](https://open.spotify.com/track/61aZkSLmYtcVror3d69l26) | [Salvage Audio Collective](https://open.spotify.com/artist/0vqvLnTCwFbwxMWBeBAXdR), [Kaam Bhaari](https://open.spotify.com/artist/5bTYVMQ6vmt4Bm12hM59N3) | [Bambai Meri Jaan \(Original Series Soundtrack\)](https://open.spotify.com/album/1YKJ7en4IlL2OewnsqemEb) | 2:10 | 2023-09-11 |  |

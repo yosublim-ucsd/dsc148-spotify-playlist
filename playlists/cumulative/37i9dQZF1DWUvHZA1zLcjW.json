@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-04-19",
-  "description": "Piezas cl\u00e1sicas para relajarte y dejarte llevar.",
+  "description": "Chilled classical tunes to help you relax and unwind.",
   "name": "Chilled Classical",
   "tracks": [
     {
@@ -815,6 +815,32 @@
     },
     {
       "album": {
+        "name": "Faur\u00e9: The music for Cello and Piano",
+        "url": "https://open.spotify.com/album/0W7WWtJXlAUzeq2mdUCm8u"
+      },
+      "artists": [
+        {
+          "name": "Gabriel Faur\u00e9",
+          "url": "https://open.spotify.com/artist/2gClsBep1tt1rv1CN210SO"
+        },
+        {
+          "name": "Xavier Phillips",
+          "url": "https://open.spotify.com/artist/6jjaGEO16mV3YN41fxKxCw"
+        },
+        {
+          "name": "C\u00e9dric Tiberghien",
+          "url": "https://open.spotify.com/artist/0sMptzkewzs9B6zO9UqUug"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208680,
+      "name": "Berceuse, Op. 16",
+      "url": "https://open.spotify.com/track/5JRQyJcdKLDmr5NtX7lIRz"
+    },
+    {
+      "album": {
         "name": "Elgar",
         "url": "https://open.spotify.com/album/3PwJLGFcKrecmaRbJQYMSg"
       },
@@ -960,7 +986,7 @@
       ],
       "date_added": "2023-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-21",
       "duration_ms": 157066,
       "name": "Changes",
       "url": "https://open.spotify.com/track/7wVqhYOPjaBBFpjYINK1ZC"
@@ -2824,10 +2850,36 @@
       ],
       "date_added": "2023-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-21",
       "duration_ms": 323990,
       "name": "Nocturnes, Op. 9: No. 2 in E-Flat Major, Andante - Arr. for Cello and Piano by G. Piatigorsky",
       "url": "https://open.spotify.com/track/1eq9giCnt1L9gbFGr3V0Yw"
+    },
+    {
+      "album": {
+        "name": "O Salutaris Hostia",
+        "url": "https://open.spotify.com/album/0CHixOCkBlCacAJGv7BifC"
+      },
+      "artists": [
+        {
+          "name": "\u0112riks E\u0161envalds",
+          "url": "https://open.spotify.com/artist/1luoTtYQjMoJPSzl9YCO1B"
+        },
+        {
+          "name": "Youth Choir \"Kamer...\"",
+          "url": "https://open.spotify.com/artist/1KLQ5jkwH7LW0DQ0I6pcKt"
+        },
+        {
+          "name": "Jur\u0123is C\u0101bulis",
+          "url": "https://open.spotify.com/artist/5vOGRpxH3nVvKLMp1RIsBn"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216906,
+      "name": "O Salutaris Hostia",
+      "url": "https://open.spotify.com/track/0yliZfVDGhX9f7uYxBJWzy"
     },
     {
       "album": {
@@ -4442,7 +4494,7 @@
       ],
       "date_added": "2023-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-21",
       "duration_ms": 391773,
       "name": "Violin Concerto in E Major, BWV 1042: II. Adagio",
       "url": "https://open.spotify.com/track/7M98TdPFGasFgIf9qKy8dJ"

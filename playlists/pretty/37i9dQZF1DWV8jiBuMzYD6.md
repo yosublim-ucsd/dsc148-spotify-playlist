@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV8jiBuMzYD6.md) - [plain]
 
 > Sophisticated palates only\. Curated by: <a href="https://www.instagram.com/raycondones/">BruceDropEmOff</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,385 likes - 47 songs - 2 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,659 likes - 47 songs - 2 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,7 +44,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV8jiBuMzYD6.md) - [plain]
 | 34 | [Gave You My All](https://open.spotify.com/track/5cXSGnW3Y3BrYyEYTQCGjk) | [Shawny Binladen](https://open.spotify.com/artist/0JfrGVffhKwF36QHW9HXOL) | [Merry Wickmas 2](https://open.spotify.com/album/41u5LevaGxYvQAavEby3jC) | 1:21 |
 | 35 | [Memory Lane](https://open.spotify.com/track/0qKqIfGF7BDIskwsiYo95u) | [9lokknine](https://open.spotify.com/artist/0ceH34CATvfgphxnLRWFkm) | [Mind Of Destruction](https://open.spotify.com/album/28oIbGBTJHVEbKhSbgJ0AV) | 4:05 |
 | 36 | [Honey Bees](https://open.spotify.com/track/2KLECbl5YJPZUZVi33tuFf) | [SahBabii](https://open.spotify.com/artist/7GuUYiGZOzQwq4L6gAfy1T) | [Squidtastic](https://open.spotify.com/album/0YksPVYor2eHo7ILCTAxJs) | 2:26 |
-| 37 | [bleh](https://open.spotify.com/track/31zfOvtc8QNHr4GZbZHczn) | [Hardrock](https://open.spotify.com/artist/1EM110Ljwqga6grZH2Dym3) | [bleh](https://open.spotify.com/album/5WwGgXUvWju2gb12HuW1cm) | 2:26 |
+| 37 | [bleh](https://open.spotify.com/track/5jhI9kdseTMJQYvjIm5MVU) | [Hardrock](https://open.spotify.com/artist/1EM110Ljwqga6grZH2Dym3) | [1of1](https://open.spotify.com/album/1uDRSDtUULUbusMjtRrwKi) | 2:26 |
 | 38 | [Fashion Habits](https://open.spotify.com/track/2ivRKtdr0RD9nLjeXgRBPV) | [Ken Carson](https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX) | [XTENDED](https://open.spotify.com/album/4Pangd3z0ZrONFpx3zMrFK) | 3:21 |
 | 39 | [eye to eye](https://open.spotify.com/track/7FSaNdtB9Foz1PCzuiZqVu) | [Hardrock](https://open.spotify.com/artist/1EM110Ljwqga6grZH2Dym3) | [1of1](https://open.spotify.com/album/1uDRSDtUULUbusMjtRrwKi) | 2:26 |
 | 40 | [Hood Cycle \(Bonus\)](https://open.spotify.com/track/5vaJVMWz7VHcGjYcfdwXvb) | [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [Still Swervin](https://open.spotify.com/album/7EHKnNdskf0X7Swu43CKnV) | 2:39 |
@@ -56,4 +56,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV8jiBuMzYD6.md) - [plain]
 | 46 | [Hello Stranger](https://open.spotify.com/track/7v8YDCoM60xCPuSbXerImD) | [Barbara Lewis](https://open.spotify.com/artist/2UocIcNiHj5n4tj1CnBzRq) | [Hello Stranger](https://open.spotify.com/album/4Xt36EzLCy3PbdpZedoopw) | 2:46 |
 | 47 | [Try Me](https://open.spotify.com/track/44AgaeLQCnvk3PPHIaDeDk) | [James Brown](https://open.spotify.com/artist/7GaxyUddsPok8BuhxN6OUW) | [Star Time](https://open.spotify.com/album/2yuTyv0L51qvYuI5RIktlA) | 2:31 |
 
-Snapshot ID: `MCxiN2FjNGRmYzk4NGM2MjBlY2MwZmFhOWZjOGE1NzIwNmVjNDFjNTM1`
+Snapshot ID: `MCxjMGNmZTkyY2FlNWU2NDdkMzQyNTRmY2I4MWYxMzYzYjdiNjFmODBh`

@@ -1,12 +1,12 @@
 {
   "description": "the pearls of an oyster.",
-  "num_followers": 126794,
+  "num_followers": 126820,
   "original_name": "Oyster",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5N2ZjOTQ3ZDdjMDk5NDg5NzVjNjA4YWVmOWQxZDU3ZmQ0ZWRjMDZk",
+  "snapshot_id": "MCxkN2IwMmNjNjM3ZDdkYjcwM2UwNGRkNzFlNDRmY2QwYmJkOGRiNzIz",
   "tracks": [
     {
       "added_at": "2023-10-19 22:00:00",
@@ -399,22 +399,6 @@
       "duration_ms": 148044,
       "name": "Young",
       "url": "https://open.spotify.com/track/0KYiuNWDyw9G08164XTCdS"
-    },
-    {
-      "added_at": "2023-10-19 22:00:00",
-      "album": {
-        "name": "Strangers",
-        "url": "https://open.spotify.com/album/18ogtNq9F7DmMkNYO6Xb4k"
-      },
-      "artists": [
-        {
-          "name": "Kenya Grace",
-          "url": "https://open.spotify.com/artist/7uMDnSZyUYNBPLhPMNuaM2"
-        }
-      ],
-      "duration_ms": 172964,
-      "name": "Strangers",
-      "url": "https://open.spotify.com/track/5mjYQaktjmjcMKcUIcqz4s"
     },
     {
       "added_at": "2023-10-19 22:00:00",

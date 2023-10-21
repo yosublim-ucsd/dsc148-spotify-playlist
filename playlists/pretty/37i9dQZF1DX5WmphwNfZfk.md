@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5WmphwNfZfk.md) - [plain]
 
 > 50 Canadian artists to watch, handpicked by our curators\. Cover: SadBoi
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,158 likes - 50 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,184 likes - 50 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,7 +47,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5WmphwNfZfk.md) - [plain]
 | 37 | [perky](https://open.spotify.com/track/3ij9bvJRbDU8ZJiYIUkzUV) | [Antoniya](https://open.spotify.com/artist/5kA25TZjzmQtCEFCIAwlOE) | [perky](https://open.spotify.com/album/1XBYiyhsR1Z9UQgbVI85gu) | 2:31 |
 | 38 | [You and I](https://open.spotify.com/track/1EMy0gThjvmvKVQqBhBrPY) | [Alice Aera](https://open.spotify.com/artist/1r6ajY5Cgb1Rhl88UWG4B7), [Majo](https://open.spotify.com/artist/3bFHx7H43rnf5GzOWnqwdf) | [You and I](https://open.spotify.com/album/4LOK8lJTo5ftB7gr4vnngj) | 3:06 |
 | 39 | [Ice Spice](https://open.spotify.com/track/5urWEm3xpFTiek4qSHouQZ) | [PARIS.](https://open.spotify.com/artist/5emuVqKy5SWNqFfvvnCxqE) | [Ice Spice](https://open.spotify.com/album/1uvDNSW0TUyxkcfyLyZJtC) | 2:09 |
-| 40 | [Ventriloquist](https://open.spotify.com/track/6DSBcwuz3OnlGEIoueZ3XB) | [JUGGER](https://open.spotify.com/artist/1j3LdvJRNNsZCMcsBrC8mX) | [Ventriloquist](https://open.spotify.com/album/04AMNJFXS2QJRKZxZINkHM) | 2:29 |
+| 40 | [VENTRILOQUIST](https://open.spotify.com/track/6DSBcwuz3OnlGEIoueZ3XB) | [JUGGER](https://open.spotify.com/artist/1j3LdvJRNNsZCMcsBrC8mX) | [VENTRILOQUIST](https://open.spotify.com/album/04AMNJFXS2QJRKZxZINkHM) | 2:29 |
 | 41 | [The King Of Western Swing](https://open.spotify.com/track/4bnQLzOF7YE7zW9OXI1A61) | [Boy Golden](https://open.spotify.com/artist/4oNZapwLKDfR92AX7LbRk1) | [The King of Western Swing](https://open.spotify.com/album/2GluYKA1cJzfbkjWjwkmuX) | 8:09 |
 | 42 | [No Other](https://open.spotify.com/track/43kWz4wZVjknxtnxMaFpxM) | [CHUNG](https://open.spotify.com/artist/3JaOZg9OeS0sOnwz9MtvOe), [mav](https://open.spotify.com/artist/2uP180gvgzqd5Epw6zfrKb) | [No Other](https://open.spotify.com/album/5uJYzZIeOXldD8eeHIXVzG) | 2:17 |
 | 43 | [Object Permanence](https://open.spotify.com/track/1ncLPvQe060nMDiJZYCscq) | [Sophia Stel](https://open.spotify.com/artist/18w9tq3c2x11niEFNYqeex) | [Object Permanence](https://open.spotify.com/album/3uykk3FDfJ6f2u8yxD8p0R) | 4:20 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5WmphwNfZfk.md) - [plain]
 | 49 | [fall](https://open.spotify.com/track/4QgVlI8j7UrbJk3fQNVcMb) | [Jay Portal](https://open.spotify.com/artist/2mE6lFglCyhkrseEcufU0d) | [fall](https://open.spotify.com/album/0bFqjbudaEwjUxclJ1tats) | 2:41 |
 | 50 | [Viv](https://open.spotify.com/track/6SMxtIKmMvfR0W7DFnpNyb) | [Ash Molloy](https://open.spotify.com/artist/7r9idpCLiq7S2KS1n5Fp7J) | [Viv](https://open.spotify.com/album/3uwkKLVkmD9zY5Ne3aegU0) | 3:50 |
 
-Snapshot ID: `MCxmOTlhM2Q2YzliZTdiMGI5M2NjOGU3MWIzMTNmZmVmN2E0MWM4MDU3`
+Snapshot ID: `MCwxNmU4ZWJlYzQ4Y2JiNWQ2NzNlMjg5ZTliN2E5ZjRjMWZjN2QyYWI3`

@@ -4,7 +4,7 @@
 
 > Hypnotic melodic <a href="spotify:genre:house">house</a> and <a href="spotify:genre:techno">techno</a> to light up the night.
 
-516 songs - 2 day 2 hr 14 min
+517 songs - 2 day 2 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -70,7 +70,7 @@
 | [Birds and Smoke](https://open.spotify.com/track/61r7nhS0hlGJeQXDHy58pL) | [Xinobi](https://open.spotify.com/artist/1w7cucUEPR1Yq9g03g6T8m) | [Birds and Smoke](https://open.spotify.com/album/362PlMh5VwHG30Wy6AX2un) | 6:08 | 2021-06-04 | 2022-07-29 |
 | [Birds and Smoke](https://open.spotify.com/track/6gFvgBSlJFjC4pswZJKSx6) | [Xinobi](https://open.spotify.com/artist/1w7cucUEPR1Yq9g03g6T8m) | [Walden Pond](https://open.spotify.com/album/5yS2vHJXAfLwUNYmuJ556C) | 6:08 | 2022-07-01 | 2023-02-21 |
 | [Black Rain \- Âme Remix](https://open.spotify.com/track/2xuCVDKo47AYxxjJtiTVCh) | [Rhye](https://open.spotify.com/artist/2AcUPzkVWo81vumdzeLLRN), [Âme](https://open.spotify.com/artist/5muFO8VqYRCRW13EkvX564) | [Black Rain \(Âme Remix\)](https://open.spotify.com/album/3NkwIxvLuql04EXtIa9TfF) | 5:52 | 2022-04-11 |  |
-| [Blaze \- J.O.P\. Remix](https://open.spotify.com/track/5FOt1Zf0nRcmuwk2czDOXj) | [Booka Shade](https://open.spotify.com/artist/2CKaDZ1Yo8YnWega9IeUzB), [Jan Blomqvist](https://open.spotify.com/artist/5wMlMjOLeJfS5DfxqGfm83), [JOPLYN](https://open.spotify.com/artist/32Jt1AK733JbFR82hEZ0Ih) | [Blaze \(J.O.P\. Remix\)](https://open.spotify.com/album/4jmzrmMmTgBydXQCqnPHL9) | 5:50 | 2023-07-28 |  |
+| [Blaze \- J.O.P\. Remix](https://open.spotify.com/track/5FOt1Zf0nRcmuwk2czDOXj) | [Booka Shade](https://open.spotify.com/artist/2CKaDZ1Yo8YnWega9IeUzB), [Jan Blomqvist](https://open.spotify.com/artist/5wMlMjOLeJfS5DfxqGfm83), [JOPLYN](https://open.spotify.com/artist/32Jt1AK733JbFR82hEZ0Ih) | [Blaze \(J.O.P\. Remix\)](https://open.spotify.com/album/4jmzrmMmTgBydXQCqnPHL9) | 5:50 | 2023-07-28 | 2023-10-21 |
 | [Blinded \- Colyn Remix](https://open.spotify.com/track/0I77MqBHPznJwG5nFOVwFX) | [Coloray](https://open.spotify.com/artist/6a3p6ZKDkTzrVbloxkD73E), [Colyn](https://open.spotify.com/artist/5vr1GvUstxr6nwxniKqLOh) | [Blinded Remixes](https://open.spotify.com/album/36Dm8iPeEe4hNpxw76e3rK) | 5:43 | 2023-10-06 |  |
 | [Blinding Lights \- Joris Voorn Remix](https://open.spotify.com/track/0fZ19tHX4FSslZn8EeKCpo) | [Alex Kennon](https://open.spotify.com/artist/1HMBuicB5RnpHxRDR51oMS), [Joris Voorn](https://open.spotify.com/artist/4jGpKAmwvU263l0tUh4xKU) | [Blinding Lights \(Joris Voorn Remix\)](https://open.spotify.com/album/2bZXQG0WrPR1LcrJ01Of7J) | 5:13 | 2021-05-03 | 2023-03-11 |
 | [Blue Rose](https://open.spotify.com/track/1WByZBGVI09ggCjH5wru9a) | [Enamour](https://open.spotify.com/artist/6D1PUSzHf2Z4jTFIdhjJoO) | [Blue Rose / Red Room](https://open.spotify.com/album/1SDs4zVPGrZSSTaRxmsFl3) | 4:49 | 2022-01-14 | 2022-07-27 |
@@ -308,6 +308,7 @@
 | [Morning Glory](https://open.spotify.com/track/2sqbxX6StkXMdSolVicfgV) | [Mondingo](https://open.spotify.com/artist/11g4H9gRvProNpOglq4APV), [Monoko](https://open.spotify.com/artist/3ozLI8p2mfK3CjqZ3qccVI) | [Morning Glory](https://open.spotify.com/album/1mUAhoAG05i5MK5ZFFcVUR) | 4:29 | 2023-09-22 |  |
 | [Mujer \(Anja Schneider Remix\)](https://open.spotify.com/track/5noZKtZK2JZsGK8JlUiVeB) | [Xinobi](https://open.spotify.com/artist/1w7cucUEPR1Yq9g03g6T8m), [Meta\_](https://open.spotify.com/artist/4b2jMQx1533SIiypVXVJ8J), [Anja Schneider](https://open.spotify.com/artist/0f14r70OISSfJoyqYaHbgV) | [Mujer \(Anja Schneider Remix\)](https://open.spotify.com/album/2tAqZzvr2JODFIr70Gkfd4) | 5:43 | 2022-07-01 | 2022-07-24 |
 | [Muyè](https://open.spotify.com/track/5WgW9bG91h4zRUnBr97d6c) | [Rampa](https://open.spotify.com/artist/08jywfUS0hp8XYlYs0cvz8), [Adam Port](https://open.spotify.com/artist/2loEsOijJ6XiGzWYFXMIRk), [&ME](https://open.spotify.com/artist/5mIowAJMp7RKNheelruV5z) | [You Are Safe](https://open.spotify.com/album/7lg5i5BW3Fhmay7kEpyORQ) | 7:49 | 2021-05-01 | 2022-08-04 |
+| [My Love for You \(Yebba's Heartbreak\) \- Edit](https://open.spotify.com/track/4IC4M64imsv7BGowdrFEzH) | [Marten Lou](https://open.spotify.com/artist/7MmHXD2ESooP0XdgrVuKTK) | [My Love for You \(Yebba's Heartbreak\)](https://open.spotify.com/album/2du5nqdaDnYOu3k1yCXbBc) | 3:25 | 2023-10-20 |  |
 | [My Time With You](https://open.spotify.com/track/1MqiNllDK5JEVV3FrETMQl) | [Lost Desert](https://open.spotify.com/artist/6N2bCZFo999TqhtdPTnLyq), [Lee Burridge](https://open.spotify.com/artist/0334oJHhRSKJRHKpE9i62h) | [Lost Desert & Friends III](https://open.spotify.com/album/4I0G615tBSwurLamowdpHD) | 6:49 | 2023-06-23 | 2023-08-07 |
 | [NA NA NA](https://open.spotify.com/track/7xMyPCsSnWJqsgjhgLy0dz) | [WAALAAXXX](https://open.spotify.com/artist/7wc6nhyFtZS1Lw4dS1LwnQ) | [NA NA NA](https://open.spotify.com/album/7IjkeZsYlHbD116c6ZA92P) | 7:10 | 2023-10-06 |  |
 | [Nabia](https://open.spotify.com/track/1W2eqS5HYJXHIhn7T8lWDZ) | [Be Svendsen](https://open.spotify.com/artist/4BaLB5aiExO29BEGVUisru) | [Nabia](https://open.spotify.com/album/47AuV8Pbbz8XYMddhvIU1n) | 8:57 | 2022-07-01 | 2023-03-11 |

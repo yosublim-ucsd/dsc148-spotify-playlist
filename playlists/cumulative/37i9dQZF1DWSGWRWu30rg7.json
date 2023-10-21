@@ -22893,6 +22893,24 @@
     },
     {
       "album": {
+        "name": "Kereta Sore",
+        "url": "https://open.spotify.com/album/1yP8xTDDpa8qc0vTHq3ezA"
+      },
+      "artists": [
+        {
+          "name": "Qonita",
+          "url": "https://open.spotify.com/artist/2DnzvzqfDX0Ef1ONKP4ZuR"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240534,
+      "name": "Kereta Sore",
+      "url": "https://open.spotify.com/track/7tc4dXT8oyGJQaDnNRP3AB"
+    },
+    {
+      "album": {
         "name": "Kesawan Kita Berdua",
         "url": "https://open.spotify.com/album/5Uvl473V66S4nChY4kgvmi"
       },
@@ -45270,6 +45288,28 @@
       "duration_ms": 98500,
       "name": "this life is pretty fucked up, but hey, we'll be fine",
       "url": "https://open.spotify.com/track/15K3AfycMK5U0pTQjwweBD"
+    },
+    {
+      "album": {
+        "name": "This Party Sucks Without You",
+        "url": "https://open.spotify.com/album/28mp8H5T0QuHfecFwPzqAg"
+      },
+      "artists": [
+        {
+          "name": "GANIAL",
+          "url": "https://open.spotify.com/artist/4dCpw5lYuXLZSCnb1HWvdC"
+        },
+        {
+          "name": "BURDN",
+          "url": "https://open.spotify.com/artist/4RPM7jrVHP9pMn8zoUjp6e"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188354,
+      "name": "This Party Sucks Without You",
+      "url": "https://open.spotify.com/track/7jaJc6EkzopfvWeUqtpxDi"
     },
     {
       "album": {

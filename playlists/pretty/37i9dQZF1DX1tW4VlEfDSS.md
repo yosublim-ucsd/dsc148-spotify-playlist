@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1tW4VlEfDSS.md) - [plain]
 
 > A feel\-good soulful house  and disco selection.
 
-[Spotify](https://open.spotify.com/user/spotify) - 348,707 likes - 60 songs - 3 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 348,737 likes - 60 songs - 3 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,10 +53,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1tW4VlEfDSS.md) - [plain]
 | 43 | [Love the Way \(Happiness\)](https://open.spotify.com/track/1okhlrAG0YsKTx9PpPprXv) | [Mojjo](https://open.spotify.com/artist/6AVyGjQ7gNzSkGlBldHS1j), [Meca](https://open.spotify.com/artist/4BXrJLagIbiwWnfJMd1sKQ), [LUISAH](https://open.spotify.com/artist/2jbmRtqNLORtXQWb8s9RFG) | [Love the Way \(Happiness\)](https://open.spotify.com/album/4qCfn7HrbThJdvhzh66g8R) | 3:35 |
 | 44 | [Voodoo Babe](https://open.spotify.com/track/2q4IaFpqebD6pMLvRrclvO) | [Never Dull](https://open.spotify.com/artist/2u3rmzZC0psTER2sDfUebm) | [Voodoo Babe](https://open.spotify.com/album/1lYsNEVEUxuXEAPFE07mAL) | 4:09 |
 | 45 | [Peace Now \- Folamour Remix](https://open.spotify.com/track/095eMtsXfbV9lLX9QfBvzj) | [Udo Jürgens](https://open.spotify.com/artist/2G0htB8PxlO2onxnIismur), [Folamour](https://open.spotify.com/artist/6pJY5At9SiMpAOBrw9YosS) | [Peace Now \(Folamour Remix\)](https://open.spotify.com/album/7HrFmMMJVi3RXaM8iSz1vR) | 3:14 |
-| 46 | [Everything Happens for a Reason](https://open.spotify.com/track/24XXMhcnFDkF7c1PAvt42b) | [Pool Attendant](https://open.spotify.com/artist/5f9BDhfsoR50sN9GvmCCur) | [Everything Happens for a Reason](https://open.spotify.com/album/1tKDdlmv0HPOEcwN3j7dmP) | 3:09 |
-| 47 | [Forever Man \(How Many Times\) \- Earth n Days Remix](https://open.spotify.com/track/0r5vc5j9eWQv6f0JAns0Ii) | [Beatchuggers](https://open.spotify.com/artist/036bcSagihiHvS91LAxiAR), [Earth n Days](https://open.spotify.com/artist/1DIvkVGJmk8Luy53ChhCjj) | [Forever Man \(How Many Times\) \[Earth n Days Remix\]](https://open.spotify.com/album/3yyp1dD6yJWpGdekqpIcC9) | 3:01 |
-| 48 | [Good For Me](https://open.spotify.com/track/2wxdmzjFaMfNgbPjCJQRo7) | [Morixo](https://open.spotify.com/artist/5h8i76jHsKRSZGINg6NZGA), [CHANEY](https://open.spotify.com/artist/2dUjApyXX9UqIsFGzoHyhX) | [Good For Me](https://open.spotify.com/album/43AlCqozg4WfDPBonV9SLK) | 2:42 |
-| 49 | [I Discover](https://open.spotify.com/track/74oBQ9l3m1Q32dAtQ4zrlb) | [Felix Da Housecat](https://open.spotify.com/artist/4rC8J4M4aOqsQSCP4yoyJI), [Chris Trucher](https://open.spotify.com/artist/5qtuQoZI8KbbCx3hD0MQ5D) | [I Discover](https://open.spotify.com/album/5IxqMn18v2DltVwchiRPpO) | 2:35 |
+| 46 | [Forever Man \(How Many Times\) \- Earth n Days Remix](https://open.spotify.com/track/0r5vc5j9eWQv6f0JAns0Ii) | [Beatchuggers](https://open.spotify.com/artist/036bcSagihiHvS91LAxiAR), [Earth n Days](https://open.spotify.com/artist/1DIvkVGJmk8Luy53ChhCjj) | [Forever Man \(How Many Times\) \[Earth n Days Remix\]](https://open.spotify.com/album/3yyp1dD6yJWpGdekqpIcC9) | 3:01 |
+| 47 | [Everything Happens for a Reason](https://open.spotify.com/track/24XXMhcnFDkF7c1PAvt42b) | [Pool Attendant](https://open.spotify.com/artist/5f9BDhfsoR50sN9GvmCCur) | [Everything Happens for a Reason](https://open.spotify.com/album/1tKDdlmv0HPOEcwN3j7dmP) | 3:09 |
+| 48 | [I Discover](https://open.spotify.com/track/74oBQ9l3m1Q32dAtQ4zrlb) | [Felix Da Housecat](https://open.spotify.com/artist/4rC8J4M4aOqsQSCP4yoyJI), [Chris Trucher](https://open.spotify.com/artist/5qtuQoZI8KbbCx3hD0MQ5D) | [I Discover](https://open.spotify.com/album/5IxqMn18v2DltVwchiRPpO) | 2:35 |
+| 49 | [Good For Me](https://open.spotify.com/track/2wxdmzjFaMfNgbPjCJQRo7) | [Morixo](https://open.spotify.com/artist/5h8i76jHsKRSZGINg6NZGA), [CHANEY](https://open.spotify.com/artist/2dUjApyXX9UqIsFGzoHyhX) | [Good For Me](https://open.spotify.com/album/43AlCqozg4WfDPBonV9SLK) | 2:42 |
 | 50 | [Affirmations \(feat\. Anelisa Lamola\)](https://open.spotify.com/track/38SHfJCoV4jdpeqX5lcn6H) | [Girls of the Internet](https://open.spotify.com/artist/5tGmvKTFVL9bGZTxtvopHE), [Anelisa Lamola](https://open.spotify.com/artist/4JQspweC9s9YK2H81Nylvi) | [Affirmations \(feat\. Anelisa Lamola\)](https://open.spotify.com/album/60OriTct3aVri7Q1btWjRo) | 3:21 |
 | 51 | [Need No Music](https://open.spotify.com/track/3LtqlDYfE6tYM15qugG6ow) | [Simon Field](https://open.spotify.com/artist/2S0tj8IQ2ytFKa5HdCni57) | [Need No Music](https://open.spotify.com/album/3Ff1Gp3HDGWS6Yb7X8ZoJJ) | 2:55 |
 | 52 | [Ghetto Rock](https://open.spotify.com/track/0CPP8Ln8Rl87Fl96zm9il8) | [Friend Within](https://open.spotify.com/artist/4FJPplt1JOVw8Q7NiwFmLv) | [Hope](https://open.spotify.com/album/0P99ZtWpQyIFHAmHWDAXaL) | 3:02 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1tW4VlEfDSS.md) - [plain]
 | 59 | [Second Chance \(feat\. Kimberly Davis\)](https://open.spotify.com/track/1hx5zZoz6ARiIAss9hL7tz) | [The Shapeshifters](https://open.spotify.com/artist/60FV7KyxIH9FH1uq7u8inP), [Kimberly Davis](https://open.spotify.com/artist/1mQYmp7PviGfyjSb2oJ6gJ) | [Second Chance \(feat\. Kimberly Davis\)](https://open.spotify.com/album/22pSFdjEFh3dbm3TCw8sXc) | 3:24 |
 | 60 | [Back Tae Ayr](https://open.spotify.com/track/1AH6GkZnybM0R5WZZTj7GF) | [Ewan McVicar](https://open.spotify.com/artist/4d2NUjh9ZrzG1ZZdhpSDKH) | [Back Tae Ayr](https://open.spotify.com/album/6YGqlfu2U6aUkzPSViek27) | 5:32 |
 
-Snapshot ID: `MCwzNDNkYjZiMTBiNjllNzVhMzY0YTFiMjZjZWY1YTlhNDJlNDNmOTMz`
+Snapshot ID: `MCxjZWMzMGVlOTEzMTRkMDZkNTk5MTQ1YmEyNjk2ZDAxZjA4YjJiZGJm`

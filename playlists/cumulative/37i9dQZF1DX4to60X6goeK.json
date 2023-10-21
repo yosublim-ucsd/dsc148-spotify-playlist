@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-13",
-  "description": "Go hard or go home. Cover: Tsuki",
+  "description": "Go hard or go home. Cover: Bou",
   "name": "Jump Up!",
   "tracks": [
     {
@@ -443,6 +443,24 @@
     },
     {
       "album": {
+        "name": "Chant",
+        "url": "https://open.spotify.com/album/1W9a0pnDZti59LWh8e1Tiu"
+      },
+      "artists": [
+        {
+          "name": "1991",
+          "url": "https://open.spotify.com/artist/2IP71LH7CbwddhsEXBI0fy"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224775,
+      "name": "Chant",
+      "url": "https://open.spotify.com/track/65SsbtgsqPYv1p4Rq93fC9"
+    },
+    {
+      "album": {
         "name": "Mercy & Misery / Clubcard",
         "url": "https://open.spotify.com/album/21GSw1OpXdBDiuYxFGET0J"
       },
@@ -462,6 +480,28 @@
       "duration_ms": 242758,
       "name": "Clubcard",
       "url": "https://open.spotify.com/track/69iCFPZbfFBrJ86RCi9Fk7"
+    },
+    {
+      "album": {
+        "name": "Cobra / Riddim",
+        "url": "https://open.spotify.com/album/47MY78pAUHzmtZuVWdX2JO"
+      },
+      "artists": [
+        {
+          "name": "Calyx",
+          "url": "https://open.spotify.com/artist/21Jj10ilqD3LqxZn5rD6V5"
+        },
+        {
+          "name": "Logan_olm",
+          "url": "https://open.spotify.com/artist/7ezXYwQkPrEkSXdVsFowz0"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230232,
+      "name": "Cobra",
+      "url": "https://open.spotify.com/track/6mViBmPiZS8g5CrzAyA005"
     },
     {
       "album": {
@@ -1072,7 +1112,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-21",
       "duration_ms": 290742,
       "name": "Got Beef",
       "url": "https://open.spotify.com/track/7ic3l3gvHqbp6a37kulofU"
@@ -1156,7 +1196,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-21",
       "duration_ms": 241687,
       "name": "Headshot",
       "url": "https://open.spotify.com/track/69rb5Dk1Ivg386QQhyzrUX"
@@ -2175,6 +2215,28 @@
     },
     {
       "album": {
+        "name": "Release Me",
+        "url": "https://open.spotify.com/album/1LodhytJqWA9yYSaPAUdcb"
+      },
+      "artists": [
+        {
+          "name": "Kanine",
+          "url": "https://open.spotify.com/artist/1KiNUGL3r0GgyLwqYCY1yV"
+        },
+        {
+          "name": "INDI",
+          "url": "https://open.spotify.com/artist/6T2L2KzWTtlOO4DvTe2vo9"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216551,
+      "name": "Release Me",
+      "url": "https://open.spotify.com/track/5hcbBprSX4taWpm6DVUuWi"
+    },
+    {
+      "album": {
         "name": "Resistance",
         "url": "https://open.spotify.com/album/1eEPCMMfN2W0hBXrnJFtAJ"
       },
@@ -2424,7 +2486,7 @@
       ],
       "date_added": "2022-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-21",
       "duration_ms": 253793,
       "name": "Staying Up Late Making Music",
       "url": "https://open.spotify.com/track/1vtnJhymEYOqmJ3zYHOUnd"

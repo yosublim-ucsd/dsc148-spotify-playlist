@@ -1770,7 +1770,7 @@
       ],
       "date_added": "2022-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-21",
       "duration_ms": 164164,
       "name": "Lost Generation",
       "url": "https://open.spotify.com/track/2dJdGmHTGFfqx1PmC860Xf"
@@ -3294,6 +3294,24 @@
       "duration_ms": 91820,
       "name": "SUICIDE YEAR",
       "url": "https://open.spotify.com/track/6hRvewF5MRAsqqxnNs3z2b"
+    },
+    {
+      "album": {
+        "name": "Surrender.",
+        "url": "https://open.spotify.com/album/34art8P69ejQB7wfLhiWln"
+      },
+      "artists": [
+        {
+          "name": "barnacle boi",
+          "url": "https://open.spotify.com/artist/6psDObCnL4BfpwqYzE0Dzu"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168750,
+      "name": "Surrender.",
+      "url": "https://open.spotify.com/track/738wYx1ExTMQZX6lMdlS6R"
     },
     {
       "album": {

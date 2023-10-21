@@ -4,7 +4,7 @@
 
 > Today's Bluegrass and old time favorites\. Cover: Willie Nelson
 
-480 songs - 1 day 4 hr 54 min
+481 songs - 1 day 4 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -462,7 +462,8 @@
 | [Where Can I Go](https://open.spotify.com/track/00LFs2Qlyf3cvxqm9HpsYs) | [The Gage Brothers](https://open.spotify.com/artist/6abvmfOggU7DH2Bw6fVONb) | [The Gage Brothers](https://open.spotify.com/album/2vEpxQdfCWadkoU7AJkyX1) | 3:07 | 2022-01-07 | 2022-02-24 |
 | [Where Do You Go](https://open.spotify.com/track/0m5afvtKSPqeYR9JIsUEmf) | [Flatt Lonesome](https://open.spotify.com/artist/5m7v6OS8omwyHvXARri5Zh) | [Silence In These Walls](https://open.spotify.com/album/3bI1z2FTpSSFrfGtU5Pt3F) | 3:51 | 2021-12-17 | 2022-07-24 |
 | [Where I'm From](https://open.spotify.com/track/5JT3ZBXUwNxdoWkeF2Ygv8) | [The Steel Wheels](https://open.spotify.com/artist/0J95YxeoXi3Um0VpxTwDhn) | [Everyone A Song, Vol\. 2](https://open.spotify.com/album/4VjBvRsHWA0S2a53poAf6P) | 4:29 | 2021-12-17 | 2022-06-23 |
-| [Where the Long Line Leads](https://open.spotify.com/track/11U64nYtfHfPXpKmy8O29c) | [Nickel Creek](https://open.spotify.com/artist/3bcLBxvaI7GsBzGp3WHnwQ) | [Where the Long Line Leads](https://open.spotify.com/album/14lpUo1KioAmaEksNyAyAC) | 3:24 | 2023-03-24 |  |
+| [Where the Long Line Leads](https://open.spotify.com/track/11U64nYtfHfPXpKmy8O29c) | [Nickel Creek](https://open.spotify.com/artist/3bcLBxvaI7GsBzGp3WHnwQ) | [Where the Long Line Leads](https://open.spotify.com/album/14lpUo1KioAmaEksNyAyAC) | 3:24 | 2023-03-24 | 2023-10-21 |
+| [Where the Long Line Leads](https://open.spotify.com/track/2nl7VPKy1XQ2NiUrdI5AeY) | [Nickel Creek](https://open.spotify.com/artist/3bcLBxvaI7GsBzGp3WHnwQ) | [Celebrants](https://open.spotify.com/album/2ruZGj3O7oL91f9re3BXLq) | 3:24 | 2023-10-20 |  |
 | [Whether or Not](https://open.spotify.com/track/0HqqlsNSYD0IsoiCypuMZ4) | [Deeper Shade Of Blue](https://open.spotify.com/artist/51LQcIwpY2hJc4Lr2nJ1Bn) | [Whether or Not](https://open.spotify.com/album/33OroPb7nmvOMIHQRRrUUy) | 4:05 | 2021-12-17 | 2022-02-19 |
 | [While I'm Waiting Here](https://open.spotify.com/track/2AHa3IJtKoe0pvO5ZX1WU8) | [Billy Strings](https://open.spotify.com/artist/1ZN1c1qWEGZNX1pGeKCPpf) | [Turmoil & Tinfoil](https://open.spotify.com/album/3CKP5G9f93RBbUi73HnyVC) | 4:36 | 2021-12-17 | 2023-05-06 |
 | [Whiskey](https://open.spotify.com/track/4uj4owY793HdrUdMJeH8Gc) | [Tejon Street Corner Thieves](https://open.spotify.com/artist/3k9kCfMqAsrd90TMsYzzmo) | [Thick As Thieves](https://open.spotify.com/album/1qL2Jl8sA1lIonNvTb6xAu) | 4:01 | 2022-05-27 |  |

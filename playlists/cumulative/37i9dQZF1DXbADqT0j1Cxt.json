@@ -1067,6 +1067,24 @@
     },
     {
       "album": {
+        "name": "Brother John",
+        "url": "https://open.spotify.com/album/0Ezi1LTWkJHw3jeFLa4gWa"
+      },
+      "artists": [
+        {
+          "name": "April Ball",
+          "url": "https://open.spotify.com/artist/2GUsnUd4hKTZUWYSXKMLae"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 108750,
+      "name": "Brother John",
+      "url": "https://open.spotify.com/track/1oke7KQOl3qlW7PPRq0oF4"
+    },
+    {
+      "album": {
         "name": "Amazing Grace",
         "url": "https://open.spotify.com/album/7tSnOYZYhCkvt1k1l2vkKq"
       },
@@ -3861,6 +3879,24 @@
     },
     {
       "album": {
+        "name": "John Brown's Song",
+        "url": "https://open.spotify.com/album/6SecsP3G8PkZ8STwhLpdbB"
+      },
+      "artists": [
+        {
+          "name": "Claire Pasteur",
+          "url": "https://open.spotify.com/artist/6uxwKpyg4gLxdvZIWzBrDy"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 111374,
+      "name": "John Brown's Song",
+      "url": "https://open.spotify.com/track/2V9YbhqLsxC7Llpb6e1CS7"
+    },
+    {
+      "album": {
         "name": "Yankee Doodle",
         "url": "https://open.spotify.com/album/7dmp93YWenoMivq7iSLT8j"
       },
@@ -4272,6 +4308,24 @@
       "duration_ms": 117124,
       "name": "Little George",
       "url": "https://open.spotify.com/track/2FQzlc7Ce8DRqJJXaoB9Yg"
+    },
+    {
+      "album": {
+        "name": "Little Juniper Tree",
+        "url": "https://open.spotify.com/album/1F0uOct26s41A46zw0jwom"
+      },
+      "artists": [
+        {
+          "name": "Klara S\u00f6derman",
+          "url": "https://open.spotify.com/artist/3M4QRATGYND6tUfBYU0Qyt"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 61467,
+      "name": "Little Juniper Tree",
+      "url": "https://open.spotify.com/track/73LIz9HyLLfU1KsSSI3Xjm"
     },
     {
       "album": {
@@ -5571,6 +5625,24 @@
     },
     {
       "album": {
+        "name": "Off To Neverland",
+        "url": "https://open.spotify.com/album/26VfqQhvyNkkBWsRtP8u7S"
+      },
+      "artists": [
+        {
+          "name": "Jim Fauer",
+          "url": "https://open.spotify.com/artist/0YCnUoDR3B1rEFUUQ6FXdG"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 114394,
+      "name": "Off To Neverland",
+      "url": "https://open.spotify.com/track/7vmFAq28mL1vKnhffypkrC"
+    },
+    {
+      "album": {
         "name": "This Land Is Your Land",
         "url": "https://open.spotify.com/album/1RFf5nn2xOnP9DWszeHHWr"
       },
@@ -5658,6 +5730,24 @@
       "duration_ms": 82603,
       "name": "One Little Elephant",
       "url": "https://open.spotify.com/track/7BY2juS1phGDJV4Qspg5zE"
+    },
+    {
+      "album": {
+        "name": "One More, Mommy!",
+        "url": "https://open.spotify.com/album/2WREGOUQDi9sAf4iwzSn05"
+      },
+      "artists": [
+        {
+          "name": "Gabriella Chiado",
+          "url": "https://open.spotify.com/artist/5qEqJaMiZWbCFsnbDVRqOH"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118250,
+      "name": "One More, Mommy!",
+      "url": "https://open.spotify.com/track/1f7HZs5cKbpjbwIb51koAC"
     },
     {
       "album": {
@@ -6194,7 +6284,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-21",
       "duration_ms": 128623,
       "name": "Rosenkind",
       "url": "https://open.spotify.com/track/00Svmn3xZkxULzAhqHnokf"
@@ -8066,7 +8156,7 @@
       ],
       "date_added": "2021-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-21",
       "duration_ms": 77500,
       "name": "Tom's Little House",
       "url": "https://open.spotify.com/track/6E4Rgag0G5DVkabunA9nKv"
@@ -8466,6 +8556,24 @@
       "duration_ms": 93663,
       "name": "Warm Breeze",
       "url": "https://open.spotify.com/track/2By5z0SpEoqzQ6sslvZWfp"
+    },
+    {
+      "album": {
+        "name": "Warm Milk",
+        "url": "https://open.spotify.com/album/76HAoSan8BRJWIteFhzh0h"
+      },
+      "artists": [
+        {
+          "name": "Fraire Jaques",
+          "url": "https://open.spotify.com/artist/449CtTB6t83bfPppU0GcfI"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190042,
+      "name": "Warm Milk",
+      "url": "https://open.spotify.com/track/0L2o3G1JJfzDd6PWjZn6F2"
     },
     {
       "album": {

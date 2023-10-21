@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVxStm5ni6tl.md) - [plain]
 
 > Discover the <a href="spotify:genre:0JQ5DAqbMKFImHYGo3eTSg">best new music</a> by independent artists and labels in Canada, updated every Wednesday\. Cover: harper, Artwork by: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,782 likes - 75 songs - 3 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,795 likes - 75 songs - 3 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -71,7 +71,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVxStm5ni6tl.md) - [plain]
 | 61 | [you look important](https://open.spotify.com/track/3Sun36ApDRbq48fWdeXuk3) | [Tino Sutra](https://open.spotify.com/artist/0UdWLioRqdeSw8NtyGlaZV) | [you look important](https://open.spotify.com/album/2AETnWHi6v6cZCzEcqsx8i) | 2:12 |
 | 62 | [Automatic Years](https://open.spotify.com/track/6nCKaBA1TdUDV2TYMgIoDA) | [Surf Hat](https://open.spotify.com/artist/4fFi5poEqNSf7iv0jOwEFy) | [Automatic Years](https://open.spotify.com/album/3Iy69jDnke3azUVgfGOEZ8) | 3:32 |
 | 63 | [Ailleurs](https://open.spotify.com/track/0w7qXeFzUkFzZfPgE7uOcN) | [Parazar](https://open.spotify.com/artist/6f0kSez71CExbBGe7WkonD), [Salimo](https://open.spotify.com/artist/3dbzTStecQkHOqwQaQR3Ur) | [Ailleurs](https://open.spotify.com/album/1RksQ6fF02hWCUuU1PuhI2) | 2:51 |
-| 64 | [Ventriloquist](https://open.spotify.com/track/6DSBcwuz3OnlGEIoueZ3XB) | [JUGGER](https://open.spotify.com/artist/1j3LdvJRNNsZCMcsBrC8mX) | [Ventriloquist](https://open.spotify.com/album/04AMNJFXS2QJRKZxZINkHM) | 2:29 |
+| 64 | [VENTRILOQUIST](https://open.spotify.com/track/6DSBcwuz3OnlGEIoueZ3XB) | [JUGGER](https://open.spotify.com/artist/1j3LdvJRNNsZCMcsBrC8mX) | [VENTRILOQUIST](https://open.spotify.com/album/04AMNJFXS2QJRKZxZINkHM) | 2:29 |
 | 65 | [Fold](https://open.spotify.com/track/325sNEWNzA8q5XvQpX8CxI) | [Blair Lee](https://open.spotify.com/artist/1pYkoc6a3QKymoCVfAWuNc) | [Fold](https://open.spotify.com/album/6Hta8XMZvDB2Tv2DvGFiva) | 2:55 |
 | 66 | [Nines](https://open.spotify.com/track/4t9HrqbWttZWPtMdrgMUVn) | [Nico Tripodi](https://open.spotify.com/artist/747Xualn4tPC0OkHFjidjN) | [Nines](https://open.spotify.com/album/0gL546TerpY926L0r7CVnl) | 2:10 |
 | 67 | [Teach Me How To Love](https://open.spotify.com/track/7cqYcFDDCD9ipzdUqK1yvC) | [Laraw](https://open.spotify.com/artist/7vxKZcJkulVyFjO6Bb1Pq1) | [Teach Me How To Love](https://open.spotify.com/album/1TPjPKBB0IHkg7vR90ACsg) | 2:52 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVxStm5ni6tl.md) - [plain]
 | 74 | [Be Your Rock](https://open.spotify.com/track/6YiGuj2SCjMO2Vi9x0uVyM) | [Yehra](https://open.spotify.com/artist/3PLqRcOQ0mbGN3mPELPAZI) | [Be Your Rock](https://open.spotify.com/album/3HpvTK4O2ssB8uO33Fb6So) | 2:31 |
 | 75 | [reason to live](https://open.spotify.com/track/22pEzfVt8rd7jwNQpiD5rm) | [distraction4ever](https://open.spotify.com/artist/7thbB90E6B9E50WqGJlcSh) | [reason to live](https://open.spotify.com/album/6ozLFVr3NpiqSqXAseJGDw) | 2:32 |
 
-Snapshot ID: `MCwwMTI5NDIwMmU0OThmNzJkMmRhYzAwMGRhZDc2NTFiNGFmMGQ5ZTU5`
+Snapshot ID: `MCwyZGEyMjU2ZDYxZjc1YzBlMTdlZjNkZmRkM2MyOTFiZGIwMmRhZTIw`

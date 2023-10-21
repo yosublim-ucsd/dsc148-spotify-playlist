@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "From joyful jubillance to hushed harmonies \u2013 this is some of the best in A Cappella Christmas.",
+  "description": "From joyful jubillance to hushed harmonies. Cover: Pentatonix ",
   "name": "A Cappella Christmas",
   "tracks": [
     {
@@ -56,7 +56,7 @@
       ],
       "date_added": "2022-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-21",
       "duration_ms": 170373,
       "name": "Carol Of The Bells Of Notre Dame",
       "url": "https://open.spotify.com/track/1KqASVrRuKk4sQ8c6Cbcr4"
@@ -204,7 +204,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-21",
       "duration_ms": 182386,
       "name": "Coventry Carol",
       "url": "https://open.spotify.com/track/64G40fpdMQE95CSIJx9Qr1"
@@ -240,7 +240,7 @@
       ],
       "date_added": "2017-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-21",
       "duration_ms": 126893,
       "name": "Dance of the Sugar Plum Fairy",
       "url": "https://open.spotify.com/track/0u0TlASkQWH2bGIZRu0HLh"
@@ -492,7 +492,7 @@
       ],
       "date_added": "2022-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-21",
       "duration_ms": 289216,
       "name": "He Is Born (feat. Ryan Innes)",
       "url": "https://open.spotify.com/track/2IYXqa0vvStkHWSQyXsGQo"
@@ -748,7 +748,7 @@
       ],
       "date_added": "2017-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-21",
       "duration_ms": 206706,
       "name": "Let It Go",
       "url": "https://open.spotify.com/track/2G7K3Op9y3HhqrF2TdHP95"
@@ -886,7 +886,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-21",
       "duration_ms": 162977,
       "name": "Mary, Did You Know?",
       "url": "https://open.spotify.com/track/45HOyUDpvVRNbC4iGj2tw5"
@@ -994,7 +994,7 @@
       ],
       "date_added": "2017-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-21",
       "duration_ms": 187840,
       "name": "Nutcracker",
       "url": "https://open.spotify.com/track/2QhveJeE3MHOYSDyrbqRBH"
@@ -1012,7 +1012,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-21",
       "duration_ms": 215933,
       "name": "O Come, All Ye Faithful",
       "url": "https://open.spotify.com/track/4kZqBZ1cihUH8SoBZ3PBrd"
@@ -1113,6 +1113,24 @@
     },
     {
       "album": {
+        "name": "The Greatest Christmas Hits",
+        "url": "https://open.spotify.com/album/4tRcSRjaE98LsBVOm6cSJT"
+      },
+      "artists": [
+        {
+          "name": "Pentatonix",
+          "url": "https://open.spotify.com/artist/26AHtbjWKiwYzsoGoUZq53"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200133,
+      "name": "Pure Imagination / Christmas Time Is Here",
+      "url": "https://open.spotify.com/track/18QnV6B8oCorqVYkz0Nljp"
+    },
+    {
+      "album": {
         "name": "I'll Have Another...Christmas Album",
         "url": "https://open.spotify.com/album/5fAtug9KJE3XhEf010Gkoj"
       },
@@ -1142,7 +1160,7 @@
       ],
       "date_added": "2017-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-21",
       "duration_ms": 142687,
       "name": "Santa and I Know It",
       "url": "https://open.spotify.com/track/4dZ3H2X79C2USvczNl2dVG"
@@ -1240,7 +1258,7 @@
       ],
       "date_added": "2017-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-21",
       "duration_ms": 178706,
       "name": "The 12 Days of Christmas",
       "url": "https://open.spotify.com/track/5f5wlkRHWhYxOdp1hOUsTb"
@@ -1298,6 +1316,24 @@
       "duration_ms": 100890,
       "name": "Up on the House Top",
       "url": "https://open.spotify.com/track/0OlajupYfpKTRLhE5Kxa0o"
+    },
+    {
+      "album": {
+        "name": "It Feels Like Christmas",
+        "url": "https://open.spotify.com/album/1e49L78osVK0BiJK1pngDS"
+      },
+      "artists": [
+        {
+          "name": "Voctave",
+          "url": "https://open.spotify.com/artist/6qCQcw3ZKdmAFv0v4u5ey2"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124186,
+      "name": "We Need a Little Christmas",
+      "url": "https://open.spotify.com/track/75ho68NuOvqytkUAVxYuW5"
     },
     {
       "album": {

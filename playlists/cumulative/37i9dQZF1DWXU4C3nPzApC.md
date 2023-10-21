@@ -4,7 +4,7 @@
 
 > The best music with a Nashville flavour\. Cover: Luke Combs
 
-151 songs - 8 hr 23 min
+152 songs - 8 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -130,7 +130,8 @@
 | [State of Confusion](https://open.spotify.com/track/4x75c8IwR61Kb5Qc5jYojA) | [Cody Feechan](https://open.spotify.com/artist/56nyJ2SOAZ68LazVaeMSZE) | [State of Confusion](https://open.spotify.com/album/0PE5kuealmExWNziGj2DJn) | 3:41 | 2021-12-17 | 2022-07-29 |
 | [State of Confusion](https://open.spotify.com/track/6ArMUBqG9GGwcIaB9Wxzds) | [Cody Feechan](https://open.spotify.com/artist/56nyJ2SOAZ68LazVaeMSZE) | [State of Confusion](https://open.spotify.com/album/2MAMSO7SadIyXAEVXxMDq6) | 3:41 | 2022-03-11 | 2023-03-08 |
 | [Steal My Love](https://open.spotify.com/track/0vzSAyinyA619ZbrOaAi04) | [Dan + Shay](https://open.spotify.com/artist/7z5WFjZAIYejWy0NI5lv4T) | [Good Things](https://open.spotify.com/album/7L8IHgiomfEpxOm61vgPTm) | 2:42 | 2021-12-17 | 2023-03-08 |
-| [Straight and Narrow](https://open.spotify.com/track/40vKwNlXXKUmQMGceAoEpy) | [Sam Barber](https://open.spotify.com/artist/08GfvCW09pv2QP4y9sle2a) | [Straight and Narrow](https://open.spotify.com/album/0floBXCzvTvVMR3gXWZBav) | 3:19 | 2023-08-25 |  |
+| [Straight and Narrow](https://open.spotify.com/track/3fonAuTvuI5KMcmnueLAPq) | [Sam Barber](https://open.spotify.com/artist/08GfvCW09pv2QP4y9sle2a) | [Million Eyes](https://open.spotify.com/album/5jrPhnzA00KBWc3bJJUqTY) | 3:19 | 2023-08-25 |  |
+| [Straight and Narrow](https://open.spotify.com/track/40vKwNlXXKUmQMGceAoEpy) | [Sam Barber](https://open.spotify.com/artist/08GfvCW09pv2QP4y9sle2a) | [Straight and Narrow](https://open.spotify.com/album/0floBXCzvTvVMR3gXWZBav) | 3:19 | 2023-08-25 | 2023-10-21 |
 | [Sunshine & White Wine](https://open.spotify.com/track/5ZrU3Wkpro4V1b9jNXuZRw) | [Savannah Jaine](https://open.spotify.com/artist/1EiW3GLNSmLFCr9TuPGUCO) | [Sunshine & White Wine](https://open.spotify.com/album/47lEkhKprkM7dEGOs7B6sW) | 3:44 | 2021-12-17 | 2023-03-08 |
 | [Swear It All Again](https://open.spotify.com/track/5dOnsC5uMCwBheWsVfYdxr) | [Una Healy](https://open.spotify.com/artist/0yPAOmYRSrkuKnp70eLKLx) | [Swear It All Again](https://open.spotify.com/album/27VDig0LRMovkOjmzR8Um2) | 3:19 | 2021-12-17 | 2022-03-09 |
 | [Talk to Me](https://open.spotify.com/track/75k7MsFFQkNnJ0PSddPqCQ) | [Brooke Law](https://open.spotify.com/artist/0mDLTE0tzaN3lPl91t550q) | [Talk to Me](https://open.spotify.com/album/5q3aM991a3xOTd1FDlNJ1W) | 2:51 | 2021-12-17 | 2022-01-12 |

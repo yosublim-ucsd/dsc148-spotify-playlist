@@ -4,7 +4,7 @@
 
 > The latest, greatest soundtracks from the big and small screen.
 
-289 songs - 14 hr 34 min
+290 songs - 14 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,6 +30,7 @@
 | [Bathroom Dance](https://open.spotify.com/track/4WiqPbWvLbv317E8fB4SJC) | [Hildur Guðnadóttir](https://open.spotify.com/artist/2lD1D6eEh7xQdBtnl2Ik7Y) | [Joker \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/16bF6lLLeVcBNgYNreGjYZ) | 2:08 | 2021-12-20 | 2022-07-09 |
 | [Benevolence \- Tetris Original Motion Picture Soundtrack](https://open.spotify.com/track/2Q1QzJ3BGNi484jCdUSf9Z) | [Aaron Hibell](https://open.spotify.com/artist/6KJPsGYJN54GllYOKTleaj) | [Tetris \(Motion Picture Soundtrack\)](https://open.spotify.com/album/1ADmUnR6Z8kRxwFna9ffK6) | 2:30 | 2023-04-12 |  |
 | [Beyond](https://open.spotify.com/track/3UIdfTWEMXcBZYgLN3mMvu) | [Mattia Vlad Morleo](https://open.spotify.com/artist/2VBeBMU2ZBdmqnsBZ45CXE) | [Il Grande Male \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5dHOnPMjwR3s3cjApZr5UL) | 3:12 | 2023-05-12 |  |
+| [Bodies Main Title](https://open.spotify.com/track/3tERZdN36IebQcY1Nutz6N) | [Jon Opstad](https://open.spotify.com/artist/64FMaf8JHBUhmBLcvNJXzp) | [Bodies \(Soundtrack from the Netflix Series\)](https://open.spotify.com/album/2f8zMjFjHos3kToO2DLsM2) | 1:08 | 2023-10-20 |  |
 | [Brianna](https://open.spotify.com/track/6wFLtag0kJnXwva2Qj1khj) | [The Album Leaf](https://open.spotify.com/artist/02uPe16VFxPaiueQsPEDkE) | [Synchronic \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3zUpvlv6hfVwFC1zwtDT6M) | 1:38 | 2021-12-20 |  |
 | [Burn Butcher Burn](https://open.spotify.com/track/6Hp57iv0VLGgmWyOFx8iUm) | [Joseph Trapanese](https://open.spotify.com/artist/566MlWaCa63jvMZV9YMj3V), [Joey Batey](https://open.spotify.com/artist/3yhgVqRLh6DyzacZyQPNWc) | [The Witcher: Season 2 \(Soundtrack from the Netflix Original Series\)](https://open.spotify.com/album/1rjv00YuOdsM7RHZY1jNTA) | 2:39 | 2021-12-20 |  |
 | [Bus Stop](https://open.spotify.com/track/0IKB0sdYNfXIvoxKWlh05D) | [jung jaeil](https://open.spotify.com/artist/34J5kKR5szbJ5fGK7f8HCU) | [Broker \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6Lz4m6rLilZB0iruHd50uo) | 0:43 | 2023-03-10 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0NKCe5F0ORuDO4sPmqhvcQ.md) - [plain]
 
 > selects from music we've been listening to @ Moving Castle\. Manila Killa's album, Dusk drops July 21st!
 
-[Moving Castle](https://open.spotify.com/user/moving-castle) - 20,911 likes - 118 songs - 6 hr 46 min
+[Moving Castle](https://open.spotify.com/user/moving-castle) - 20,911 likes - 122 songs - 6 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -126,5 +126,9 @@ pretty - [cumulative](/playlists/cumulative/0NKCe5F0ORuDO4sPmqhvcQ.md) - [plain]
 | 116 | [Fallin'](https://open.spotify.com/track/5S50KnoWF8B39yp0DziC7U) | [Late Night Therapy](https://open.spotify.com/artist/2mlllc3fdsSFJHJDBcg33I) | [Fallin'](https://open.spotify.com/album/5u0iectTVN6O01g7ca1yCt) | 4:32 |
 | 117 | [Moth Love](https://open.spotify.com/track/0lP6dtgyfTtVcxJ1GVmIyA) | [1tbsp](https://open.spotify.com/artist/6G01WYFYF91rjG5LtwMhY4) | [Moth Love](https://open.spotify.com/album/3TmRBALTpwplqDDM4ZRPMr) | 3:22 |
 | 118 | [Ripple \(feat\. grandpa julie\)](https://open.spotify.com/track/2SqlWDESCdIb0QKNP0sByv) | [juuku](https://open.spotify.com/artist/2ixBQngmF4ZFXYHi8sJTfl), [grandpa julie](https://open.spotify.com/artist/6P38Kx1SGQCgAQHqv0LjAs) | [Ripple \(feat\. grandpa julie\)](https://open.spotify.com/album/0quSSIvZNfb6kxR8JcMRgM) | 3:03 |
+| 119 | [Fight Me](https://open.spotify.com/track/2VMjr4nR9QptTiGOabyeFt) | [Teddy Killerz](https://open.spotify.com/artist/4xaF2VIGwhWyEMbM6GuLdm) | [Fight Me](https://open.spotify.com/album/2cCk1i1D2XQaclGYqaa5oY) | 3:51 |
+| 120 | [All About You](https://open.spotify.com/track/0Lc22wJyPHTKF8mEoOOGzT) | [Britt Lari](https://open.spotify.com/artist/7ErksWhMMsmGtgT1l1e159) | [All About You](https://open.spotify.com/album/0UPEviguYBkCVLWVTwXx2y) | 2:45 |
+| 121 | [Haunted](https://open.spotify.com/track/6OhmXq1u2nB8Wrm5wuPrqs) | [4B](https://open.spotify.com/artist/0LIl9fjMPEZp8UDiL8Yuo4) | [Haunted](https://open.spotify.com/album/25az9xpMDxpmAzCTCwX7hf) | 2:35 |
+| 122 | [cold showers](https://open.spotify.com/track/4N4M6MYPCpgJxKyv5fpgzg) | [BARDZ](https://open.spotify.com/artist/0grj6SCmh4vGKf6r7pbOTk), [Brooke Williams](https://open.spotify.com/artist/47eA8knxvpD9CZsqHn4Mxz) | [cold showers](https://open.spotify.com/album/1REUjAHkHYFLSuXP2rgrrb) | 2:48 |
 
-Snapshot ID: `MTA1MzcsMTRiMjM2MmUyY2Q4OTAyY2U2NTcxYzU2ZGZmM2NhN2FjYTg5M2FmNg==`
+Snapshot ID: `MTA1NDEsYjNmZTdkNDkwM2MyMGU2ODFlZjQzMzNlNWNmOTM4MzRhZDU3ODBhMA==`

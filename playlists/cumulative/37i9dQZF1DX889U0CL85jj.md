@@ -4,7 +4,7 @@
 
 > Just chill, and potentially disassociate, in 2023.
 
-572 songs - 1 day 9 hr 6 min
+573 songs - 1 day 9 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -272,7 +272,8 @@
 | [James](https://open.spotify.com/track/3yQmQSliq7uJhJet0YGmeX) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Typical of Me](https://open.spotify.com/album/1ZSqGiN0icYQ9AjMRCAiRo) | 2:55 | 2021-06-07 | 2022-07-29 |
 | [Jazz Club After Hours](https://open.spotify.com/track/0nPoWlU7nIz74B6px39NMz) | [Barry Can't Swim](https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl) | [Jazz Club After Hours](https://open.spotify.com/album/7hJi1Ehtns1r862nCGzUZv) | 4:54 | 2021-06-07 | 2022-10-22 |
 | [Je t'aime encore](https://open.spotify.com/track/0SANyOWaoaLPN7eFcEAXyy) | [Yelle](https://open.spotify.com/artist/0WbqAlM1WvfUD6dF7omThd) | [Je t'aime encore](https://open.spotify.com/album/2LwLu0fzlazgCv4wDc3xpQ) | 3:37 | 2020-05-08 | 2022-08-06 |
-| [Jealous](https://open.spotify.com/track/1pxV36wX49w3PAcv8etdRU) | [Johnny Yukon](https://open.spotify.com/artist/4fLF7NyMYLaMxUmZCSp5ex) | [Jealous](https://open.spotify.com/album/5SAR4b6aNdpzekzJoDVISc) | 3:01 | 2023-08-11 |  |
+| [Jealous](https://open.spotify.com/track/1pxV36wX49w3PAcv8etdRU) | [Johnny Yukon](https://open.spotify.com/artist/4fLF7NyMYLaMxUmZCSp5ex) | [Jealous](https://open.spotify.com/album/5SAR4b6aNdpzekzJoDVISc) | 3:01 | 2023-08-11 | 2023-10-21 |
+| [Jealous](https://open.spotify.com/track/7GahBNine4Ru5Shs1GGpcr) | [Johnny Yukon](https://open.spotify.com/artist/4fLF7NyMYLaMxUmZCSp5ex) | [MOVIES! WORLDWIDE: PART I](https://open.spotify.com/album/7hXTfD7rkqM78jsnBMT0md) | 3:01 | 2023-09-29 |  |
 | [Jersey City](https://open.spotify.com/track/7CsfpYeYnweWfSbQrEaZag) | [Golden Vessel](https://open.spotify.com/artist/6bJCrLZcvsBMzve04BmgwS), [rei so la](https://open.spotify.com/artist/6ZyqJ0aS979tbln9vjpVyF) | [Jersey City](https://open.spotify.com/album/4Ri515kpx3kCmtFedUjlB1) | 3:56 | 2021-10-08 | 2022-01-22 |
 | [julia](https://open.spotify.com/track/16R8t4bIoFrzxZm3ds4isv) | [Jeremy Zucker](https://open.spotify.com/artist/3gIRvgZssIb9aiirIg0nI3) | [julia](https://open.spotify.com/album/6wtw4xcJCFDzjI63pC30xB) | 4:20 | 2020-03-27 | 2022-01-22 |
 | [Just a Little Bit Lonely](https://open.spotify.com/track/5HkDr6w8kst095gAP09k8C) | [yaeow](https://open.spotify.com/artist/4Abe9XH0fplj8dbOddoYgH) | [Just a Little Bit Lonely](https://open.spotify.com/album/3H0itk6lTMK8zFHT7MvZul) | 2:03 | 2020-05-22 | 2022-01-22 |

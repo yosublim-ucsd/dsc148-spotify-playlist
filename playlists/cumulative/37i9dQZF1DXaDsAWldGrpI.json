@@ -251,6 +251,24 @@
     },
     {
       "album": {
+        "name": "Pre Party",
+        "url": "https://open.spotify.com/album/4DzRrORUYwUFOORTfqwWsV"
+      },
+      "artists": [
+        {
+          "name": "Russell Dickerson",
+          "url": "https://open.spotify.com/artist/1E2AEtxaFaJtH0lO7kgNKw"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153362,
+      "name": "Big Wheels - Live",
+      "url": "https://open.spotify.com/track/3iRrWEGec6fx4lRudewydr"
+    },
+    {
+      "album": {
         "name": "The Best of Rascal Flatts LIVE",
         "url": "https://open.spotify.com/album/0xNgmo1PeXN0adBq3oE1Sz"
       },

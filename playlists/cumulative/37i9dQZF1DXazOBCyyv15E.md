@@ -4,7 +4,7 @@
 
 > The home of the best new alternative music\. Cover: Jockstrap
 
-1,821 songs - 4 day 12 hr 17 min
+1,822 songs - 4 day 12 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -373,6 +373,7 @@
 | [Dance & Go](https://open.spotify.com/track/1XJnPs7UweoYZSZnkoW9CP) | [The Umlauts](https://open.spotify.com/artist/2LwlVrqI7U4WS448GpAozT) | [Slags](https://open.spotify.com/album/7HDxKgUjOb3rbzFMVPNxpP) | 4:03 | 2023-10-20 |  |
 | [Dance on the Rain](https://open.spotify.com/track/7LfjFGlaC9kktbEsfSQThH) | [Khazali](https://open.spotify.com/artist/4YrYwip7DToQ8tj6r7ZFVd) | [Dance on the Rain](https://open.spotify.com/album/0XbBAwdTn0ahj3prcY0HlQ) | 3:39 | 2022-02-11 | 2022-04-15 |
 | [Dandelion](https://open.spotify.com/track/5wC3UC33J8qiKRl3ecFaA3) | [Anna of the North](https://open.spotify.com/artist/1mSJCvDX0W7Dn7S9C6vmvI) | [Dandelion](https://open.spotify.com/album/1oOykmxvMTXnYOoHpySLCD) | 2:43 | 2022-07-01 | 2022-08-19 |
+| [Dang](https://open.spotify.com/track/7ddHGUPt5bOpVFAtX6TJN8) | [Caroline Polachek](https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a) | [Dang](https://open.spotify.com/album/3DZodwqZN2YkjgI0NAwyS8) | 2:44 | 2023-10-20 |  |
 | [Dangling](https://open.spotify.com/track/37dySZZK5SUzZbb2wHQRTb) | [VC Pines](https://open.spotify.com/artist/4LQgArm1pO5Q7GuDu2qXfC) | [Dangling](https://open.spotify.com/album/3CVGCgZ770NSXp52pWvAgi) | 2:48 | 2023-03-17 | 2023-04-21 |
 | [Dare To Dream](https://open.spotify.com/track/7gXldQvrCf4pMuXVH1X59U) | [Dylan Cartlidge](https://open.spotify.com/artist/0ofvvakxXcRhIy5fgIoB9z) | [Hope Above Adversity](https://open.spotify.com/album/3DVlr1EF2msBWa3JLVBJuA) | 3:18 | 2021-07-09 | 2021-09-10 |
 | [Dark Blue](https://open.spotify.com/track/4DferDVxwfwR4hQZiVBDvW) | [User2222](https://open.spotify.com/artist/4qhjS4KuMCen5RzxVe0kaA) | [Dark Blue](https://open.spotify.com/album/0nHEND5RLbesWdoVOxCwSO) | 3:33 | 2022-05-19 | 2022-08-06 |
@@ -538,7 +539,7 @@
 | [Fingers of Steel](https://open.spotify.com/track/1v1jlj1qT3oDjozh5rOlC6) | [shame](https://open.spotify.com/artist/4IeWU3NYBI9mISFVhzXG8f) | [Fingers of Steel](https://open.spotify.com/album/0T2Qic0OPQrVJmyMAxhH4y) | 4:21 | 2022-11-18 | 2023-02-03 |
 | [fingers through my hair](https://open.spotify.com/track/0IGi3VQhmYaDquo4VlSZpx) | [Sfven](https://open.spotify.com/artist/77NQclqFwTZe98FzGpHsIb) | [fingers through my hair](https://open.spotify.com/album/4n1BftyPbar1dDf8sAI4VV) | 2:20 | 2023-03-03 | 2023-04-21 |
 | [Fire](https://open.spotify.com/track/0L4o44xUXwJgWhgsoFde8X) | [Joesef](https://open.spotify.com/artist/28EyduqESEOVMO6vglvaUZ) | [Fire](https://open.spotify.com/album/6aIWbyEHrxBdWqloqYJ2y5) | 3:57 | 2021-09-24 | 2021-11-26 |
-| [Fire Leap](https://open.spotify.com/track/5WbLDvtHGLuqsVVWIJrP7U) | [Katy J Pearson](https://open.spotify.com/artist/6xBsaFua2lgAUlNv8Yh0nQ), [Drug Store Romeos](https://open.spotify.com/artist/7MMjkDVrjxW9iObeZeeejh), [Wet Leg](https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ), [Sarah Meth](https://open.spotify.com/artist/2cveuRnx0cbS41GQTBcuRz) | [Fire Leap](https://open.spotify.com/album/648ChSAlKMM1uPUvWjvpKr) | 2:51 | 2023-09-28 |  |
+| [Fire Leap](https://open.spotify.com/track/5WbLDvtHGLuqsVVWIJrP7U) | [Katy J Pearson](https://open.spotify.com/artist/6xBsaFua2lgAUlNv8Yh0nQ), [Drug Store Romeos](https://open.spotify.com/artist/7MMjkDVrjxW9iObeZeeejh), [Wet Leg](https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ), [Sarah Meth](https://open.spotify.com/artist/2cveuRnx0cbS41GQTBcuRz) | [Fire Leap](https://open.spotify.com/album/648ChSAlKMM1uPUvWjvpKr) | 2:51 | 2023-09-28 | 2023-10-21 |
 | [Fire Of Mercy](https://open.spotify.com/track/6oDHOPYBOGjrRYM3QMxznO) | [Hot Chip](https://open.spotify.com/artist/37uLId6Z5ZXCx19vuruvv5), [yunè pinku](https://open.spotify.com/artist/2sY4BbYrbvNVgsNzo6HddD) | [Fire Of Mercy](https://open.spotify.com/album/4MxTYuvXTiZpKH0nnzcu7V) | 3:59 | 2023-08-10 |  |
 | [Fired Up](https://open.spotify.com/track/030CNJwkkIkLedZhBlLReh) | [Evan Torrente](https://open.spotify.com/artist/4DVUPd8bfkx2b1TvHKFVVF) | [Fired Up](https://open.spotify.com/album/3P4xycP0wCQBxFGHWUVmud) | 3:01 | 2021-10-29 | 2021-12-03 |
 | [First Time](https://open.spotify.com/track/5OLVjtDBzeHtqGTn5Pwo1B) | [Lucy Dacus](https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP) | [Home Video](https://open.spotify.com/album/2nwfSapJ3YIq7Ofad4Vuh1) | 4:14 | 2021-06-25 | 2021-09-03 |

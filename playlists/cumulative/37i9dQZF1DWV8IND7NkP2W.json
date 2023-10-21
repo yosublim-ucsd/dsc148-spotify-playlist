@@ -856,10 +856,28 @@
       ],
       "date_added": "2023-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-21",
       "duration_ms": 160840,
       "name": "Awesome City",
       "url": "https://open.spotify.com/track/2RZbhMjj6piJ6W4M7Nsl7o"
+    },
+    {
+      "album": {
+        "name": "Awesome City",
+        "url": "https://open.spotify.com/album/5zXZG6idXS00IwMztd621i"
+      },
+      "artists": [
+        {
+          "name": "DJ FRIP a.k.a. BeatLab",
+          "url": "https://open.spotify.com/artist/5nkZFBzkGZpfRxnWFZGtk7"
+        }
+      ],
+      "date_added": "2023-10-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160840,
+      "name": "Awesome City",
+      "url": "https://open.spotify.com/track/5tmItGDYOoSnA44DZKLFU1"
     },
     {
       "album": {
@@ -12064,7 +12082,7 @@
     {
       "album": {
         "name": "VIVID",
-        "url": "https://open.spotify.com/album/1s96h3ZTUVClEPuL6vB2f8"
+        "url": "https://open.spotify.com/album/682KBDNKNKJdlo8KrDCeEQ"
       },
       "artists": [
         {
@@ -12079,6 +12097,28 @@
       "date_added": "2023-10-19",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 135078,
+      "name": "VIVID",
+      "url": "https://open.spotify.com/track/4Uu7OhRshxKLyOuIN2ukzv"
+    },
+    {
+      "album": {
+        "name": "VIVID",
+        "url": "https://open.spotify.com/album/1s96h3ZTUVClEPuL6vB2f8"
+      },
+      "artists": [
+        {
+          "name": "ninomiya tatsuki",
+          "url": "https://open.spotify.com/artist/68WyxSkXEJNwJUwlIIaIep"
+        },
+        {
+          "name": "Tyga Ichinose",
+          "url": "https://open.spotify.com/artist/0q3ojxiFcPDSS5p9GQaePK"
+        }
+      ],
+      "date_added": "2023-10-19",
+      "date_added_asterisk": false,
+      "date_removed": "2023-10-21",
       "duration_ms": 135078,
       "name": "VIVID",
       "url": "https://open.spotify.com/track/5dWDYXom1nEpDmi77lD9sy"

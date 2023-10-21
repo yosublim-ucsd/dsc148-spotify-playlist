@@ -4,7 +4,7 @@
 
 > The best new music from the wide world of punk\. Cover: blink\-182
 
-1,396 songs - 2 day 21 hr 48 min
+1,397 songs - 2 day 21 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1031,7 +1031,8 @@
 | [Save It For Myself](https://open.spotify.com/track/5AWQZVceAinzjsCQH50WlX) | [WALWIN](https://open.spotify.com/artist/25I3ONjJhbX1mE62i57djG), [You Over Me](https://open.spotify.com/artist/5se7CBddY96rvFP3oQ6Pim) | [Save It For Myself](https://open.spotify.com/album/5bzfUN9nM3mCr7goLdbrVF) | 3:19 | 2022-10-27 | 2023-02-17 |
 | [Say It \(To My Face\)](https://open.spotify.com/track/2UMeGWmUri9RVpmckPV9Jt) | [Meet Me @ The Altar](https://open.spotify.com/artist/4bzfsZhaLW6VWHLh1sqcrK) | [Say It \(To My Face\)](https://open.spotify.com/album/0zErHJ7vr4Ao9VgoX3RUYm) | 2:39 | 2022-09-29 | 2022-11-18 |
 | [Say It To My Face](https://open.spotify.com/track/2cPoeRmv4METe4ud4T451Z) | [DZ Deathrays](https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu) | [Positive Rising, Pt\. 2 \(Deluxe\)](https://open.spotify.com/album/3ISr49xTJE64EiGsZfDpiW) | 2:41 | 2021-12-17 | 2022-01-28 |
-| [SCARED TO DIE](https://open.spotify.com/track/3X4ZgzNt8276PH3mdjovrl) | [Clowns](https://open.spotify.com/artist/2TuGrkN9bcjWU1GcrUarYn) | [ENDLESS](https://open.spotify.com/album/6OZUwSH5xeiJJfz0U4x9w3) | 3:15 | 2023-10-19 |  |
+| [SCARED TO DIE](https://open.spotify.com/track/3X4ZgzNt8276PH3mdjovrl) | [Clowns](https://open.spotify.com/artist/2TuGrkN9bcjWU1GcrUarYn) | [ENDLESS](https://open.spotify.com/album/6OZUwSH5xeiJJfz0U4x9w3) | 3:15 | 2023-10-19 | 2023-10-21 |
+| [SCARED TO DIE](https://open.spotify.com/track/5egHfv3MM6LMHHTrkowFru) | [Clowns](https://open.spotify.com/artist/2TuGrkN9bcjWU1GcrUarYn) | [ENDLESS](https://open.spotify.com/album/5S2eS7V3fIj3zVrdTjEHH6) | 3:15 | 2023-10-19 |  |
 | [Scared?](https://open.spotify.com/track/0vBejLwuDFquvttNH3JL73) | [Death Tour](https://open.spotify.com/artist/08ET100WDKcE5HzPSWBJYg) | [Scared?](https://open.spotify.com/album/1VJ0RhYIFkHZF9pOnpj1SX) | 1:43 | 2021-12-17 | 2022-02-04 |
 | [SCARING ME](https://open.spotify.com/track/35Bv4QuokBrmWya208VcK2) | [cleopatrick](https://open.spotify.com/artist/6VTvaLJ9arNmKi8e1ekOwW) | [DOOM](https://open.spotify.com/album/6yAkt0vfWLVTgkcvp5dVio) | 3:51 | 2022-10-20 | 2023-02-17 |
 | [Scissors In My Skin](https://open.spotify.com/track/5nIVkLcLmLn6LcCy4KEeKQ) | [Eat Your Heart Out](https://open.spotify.com/artist/1Zj2DULoJ6vo0FZ2R8HM3i) | [Can't Stay Forever](https://open.spotify.com/album/46TgfggC57KO5h302rtEa6) | 3:16 | 2022-09-08 | 2022-10-21 |

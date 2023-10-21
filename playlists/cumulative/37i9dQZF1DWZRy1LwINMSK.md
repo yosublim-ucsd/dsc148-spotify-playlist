@@ -4,7 +4,7 @@
 
 > La casa del trap chileno\. Foto: King Savagge & Il Nene De Oro.
 
-182 songs - 9 hr 52 min
+184 songs - 9 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -73,6 +73,7 @@
 | [Glizzy](https://open.spotify.com/track/5CIRCz2npiu1N57wTPp0rM) | [Tunechikidd](https://open.spotify.com/artist/0QpMp8Y7jFzwCt8OZjKQdd) | [Glizzy](https://open.spotify.com/album/3t0PHupmoyPbOp7e1oEZWf) | 2:59 | 2023-05-05 | 2023-09-02 |
 | [Goldwyn Mayer](https://open.spotify.com/track/2Poyw927oAWqvg9KUqQKRE) | [Kreamly](https://open.spotify.com/artist/3g9MKjIP9xrMTY5Pbwr6Nk), [ITHAN NY](https://open.spotify.com/artist/0LshXUmIub6xKvOq4QmtNs), [Bryartz](https://open.spotify.com/artist/7kvnG7JhX0ycVMVb8SP8EL), [Il Nene De Oro](https://open.spotify.com/artist/6WzyAaCTzd5YoVMwdin58T), [Keed Baby](https://open.spotify.com/artist/5QSZ4mP3ycTPK4b0VJNmK4), [Tunechikidd](https://open.spotify.com/artist/0QpMp8Y7jFzwCt8OZjKQdd) | [Goldwyn Mayer](https://open.spotify.com/album/3zkV0pENU0hzyeC7eikPQy) | 3:33 | 2023-06-30 |  |
 | [Gracias a Dios](https://open.spotify.com/track/1QobAhxWT2U8jjHrLneOPw) | [Nico Baby](https://open.spotify.com/artist/523Q3hgqV3zr00ephVSfKX), [Carlitos Junior](https://open.spotify.com/artist/0fTQ3jEDT1eDQG3URLTwEo) | [Gracias a Dios](https://open.spotify.com/album/7BmXSMey61Y2vqoQx74hXf) | 3:11 | 2022-01-20 | 2022-05-28 |
+| [GUSTOSO](https://open.spotify.com/track/6FyFJ1eaGctrKTbIoLB8eS) | [Ak4:20](https://open.spotify.com/artist/1SiLK8gdECx2iEm2SSj0Bl) | [GUSTOSO](https://open.spotify.com/album/5bjaZJ1SIDCQXdQKbUt20W) | 2:17 | 2023-10-20 |  |
 | [Hablamos Mañana](https://open.spotify.com/track/1V8XneTrX6kKeoxYbk4x6h) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg), [Pablo Chill\-E](https://open.spotify.com/artist/2XcZshqzPKm3iZcmt73R8D) | [YHLQMDLG](https://open.spotify.com/album/5lJqux7orBlA1QzyiBGti1) | 4:00 | 2022-01-20 |  |
 | [Haciendo Billete](https://open.spotify.com/track/4MQp8Cw2tLo2MJYDR5GUdg) | [Marcianeke](https://open.spotify.com/artist/5XQWXnMwsvuvCPMneXUbsy), [DONNER](https://open.spotify.com/artist/2agGIdhbRlnsnQVWv6jkA6) | [Haciendo Billete](https://open.spotify.com/album/0xxvVt3drEUc0xIHy18n6C) | 2:34 | 2022-07-29 |  |
 | [Hard Style](https://open.spotify.com/track/625EI0fR4eCtnGmqiO23Tj) | [Ak4:20](https://open.spotify.com/artist/1SiLK8gdECx2iEm2SSj0Bl) | [Hard Style](https://open.spotify.com/album/2iykEcv7pdEkhRssq4L8E8) | 2:02 | 2022-01-20 |  |
@@ -85,6 +86,7 @@
 | [Intuición](https://open.spotify.com/track/2W5Wn1uCzCe198G4YQCFYc) | [Yaero](https://open.spotify.com/artist/2FtH56XmSAFxrEDtRvS93k) | [Intuición](https://open.spotify.com/album/5xMJ1s0acu2UzIDhbHIRas) | 2:56 | 2022-01-20 | 2023-05-01 |
 | [Jaguar](https://open.spotify.com/track/3k3Hm3PBmnE7bNCExKOxFm) | [Pablo Chill\-E](https://open.spotify.com/artist/2XcZshqzPKm3iZcmt73R8D), [ITHAN NY](https://open.spotify.com/artist/0LshXUmIub6xKvOq4QmtNs) | [Jaguar](https://open.spotify.com/album/5DxjVYkGm326bIHaFv6nvX) | 3:15 | 2022-01-20 |  |
 | [Jordan Bape](https://open.spotify.com/track/5dnoALe7sZbJQhklAGMBp2) | [Piero 47](https://open.spotify.com/artist/4xZrvfK8khgRIXk63gSFeB), [Galee Galee](https://open.spotify.com/artist/0x5lhIYknBUEozHuXjkwUs) | [Jordan Bape](https://open.spotify.com/album/2W0b733Gj2AgYOTWstFqwG) | 3:54 | 2022-04-08 |  |
+| [Joseando en el Block](https://open.spotify.com/track/6x9HJy6wQzqUZENgmnrKzr) | [Bastian la Amenaza](https://open.spotify.com/artist/1G5XkuGkIBMQYVjgXhjLWy), [Il Nene De Oro](https://open.spotify.com/artist/6WzyAaCTzd5YoVMwdin58T) | [Joseando en el Block](https://open.spotify.com/album/3pYiF4Z3xh1RrJpgU9UGBJ) | 3:03 | 2023-10-20 |  |
 | [Juegos de Matel \(feat\. El Menor y El Barto\)](https://open.spotify.com/track/6vdBpuktDTX4Y7JPAxgTNF) | [Gino Mella](https://open.spotify.com/artist/7HYJrA3HSTNDmkl5pylhaY), [El Menor](https://open.spotify.com/artist/5jAbdQuetN1LntrEphYBTW), [El Barto](https://open.spotify.com/artist/5RnwLXlnWPF57yzdmUnnvP) | [Juegos de Matel \(feat\. El Menor y El Barto\)](https://open.spotify.com/album/6N3LPbmSG9D6Of82jugIPN) | 3:59 | 2022-01-20 |  |
 | [Kitty Eight](https://open.spotify.com/track/5Al4QIZ4IYXTliQlPOEXFq) | [KITTY8](https://open.spotify.com/artist/6uiQqbYlT1KK7llfzAat2J) | [Kitty Eight](https://open.spotify.com/album/3EPnD2YrCKV2T8eV6oCFEk) | 2:31 | 2022-01-20 | 2022-04-29 |
 | [La Casualidad](https://open.spotify.com/track/3rqoDD2GJTpde3VO83T0LY) | [Metalingüística](https://open.spotify.com/artist/6jPnjdXijpUoqWR4YTWDo3), [Diego Smith](https://open.spotify.com/artist/60d7XKY1qqY5cPnXOCVvo6) | [La Casualidad](https://open.spotify.com/album/0uj09wSpaUp58kWvYnZ7tw) | 3:39 | 2022-01-20 | 2022-05-28 |

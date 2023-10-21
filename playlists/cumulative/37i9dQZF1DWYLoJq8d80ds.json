@@ -1027,6 +1027,28 @@
     },
     {
       "album": {
+        "name": "Jueves de Comadre",
+        "url": "https://open.spotify.com/album/4wQ5a8WKRMPlxX9U1wNaZM"
+      },
+      "artists": [
+        {
+          "name": "Los Tekis",
+          "url": "https://open.spotify.com/artist/0iutktJLkNNtErs8c3EoF6"
+        },
+        {
+          "name": "La Delio Valdez",
+          "url": "https://open.spotify.com/artist/3tzacGOmngxUV8W8lU9h3Q"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226634,
+      "name": "Jueves de Comadre",
+      "url": "https://open.spotify.com/track/7monAieCC4kzsdMSuSBXGj"
+    },
+    {
+      "album": {
         "name": "Juglar Chuncano",
         "url": "https://open.spotify.com/album/13Mj1uBTzv5Pp2JwPLBFla"
       },
@@ -1570,7 +1592,7 @@
       ],
       "date_added": "2023-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-21",
       "duration_ms": 134452,
       "name": "La Wasappera",
       "url": "https://open.spotify.com/track/2E0dGSoOrh0fGdLkbSgELi"
@@ -1700,7 +1722,7 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-21",
       "duration_ms": 238128,
       "name": "Los Paisajes",
       "url": "https://open.spotify.com/track/6EraKvLemUTpusIFpGdPTn"
@@ -2226,6 +2248,28 @@
       "duration_ms": 230960,
       "name": "P\u00edntame de Azul",
       "url": "https://open.spotify.com/track/42JmlitcqfYsUmDwgDMjQ1"
+    },
+    {
+      "album": {
+        "name": "Qui\u00e9reme (Capaz de Tudo)",
+        "url": "https://open.spotify.com/album/52yJUnLTzlHqRsOPIyumhS"
+      },
+      "artists": [
+        {
+          "name": "Ambo\u00e9",
+          "url": "https://open.spotify.com/artist/3CzMaJREWlNNmSe0vtBAKD"
+        },
+        {
+          "name": "Sergio Galleguillo",
+          "url": "https://open.spotify.com/artist/4gQOceTfcyC3AQHUE2gmVt"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224791,
+      "name": "Qui\u00e9reme (Capaz de Tudo)",
+      "url": "https://open.spotify.com/track/5iePevAtESGQehKoPgauq8"
     },
     {
       "album": {

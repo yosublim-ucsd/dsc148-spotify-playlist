@@ -2,9 +2,9 @@
 
 ### [undercurrents](https://open.spotify.com/playlist/37i9dQZF1DX9myttyycIxA)
 
-> Underground indie rock gems\. Cover: Squirrel Flower
+> Underground indie rock gems\. Cover: Babehoven
 
-1,072 songs - 2 day 13 hr 5 min
+1,076 songs - 2 day 13 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -85,6 +85,7 @@
 | [Back of My Hand](https://open.spotify.com/track/3iyq3JgucI2SvbrlYzDzKs) | [Bachelor](https://open.spotify.com/artist/7B1OPA8Ttxfv3XBDCkw24E), [Jay Som](https://open.spotify.com/artist/1wmiQ6ytATiGnJs6uFluKO), [Palehound](https://open.spotify.com/artist/4AgusFXPk24LCGMMplX34M) | [Doomin’ Sun](https://open.spotify.com/album/7bfialTRQQRpzjqn7s7cJY) | 3:29 | 2021-06-02 | 2022-04-29 |
 | [Back To The Radio](https://open.spotify.com/track/3UwdNQUttlGa8fX1Jq7VeN) | [Porridge Radio](https://open.spotify.com/artist/4vAQ4M7vgItwBtmBTgRu48) | [Back To The Radio](https://open.spotify.com/album/1o0lARFP2l0SYsY6H8PeGY) | 3:07 | 2022-03-04 | 2022-05-12 |
 | [Back To This](https://open.spotify.com/track/6S3FfGti4KjL8wIamymaep) | [Alaska Reid](https://open.spotify.com/artist/2CIThLiaeJxWgG5xAgL3p0) | [Back To This](https://open.spotify.com/album/2nv8JpceboLnk5WIHJaTXE) | 3:10 | 2023-03-10 | 2023-06-16 |
+| [Backseat Girl](https://open.spotify.com/track/7y23wOenPKul2aNEF7Dcwr) | [Jane Remover](https://open.spotify.com/artist/2rLGlNI6htigNxx172qxLu) | [Census Designated](https://open.spotify.com/album/0rsCXQ9QyrLaTc2a5fvsZR) | 6:00 | 2023-10-20 |  |
 | [Backwards Directions](https://open.spotify.com/track/5vbnQr1tWSSREmcIONIUm9) | [Abby Sage](https://open.spotify.com/artist/4aej3kKLxSLM0WauTSfZ7k) | [Backwards Directions](https://open.spotify.com/album/5mhk3C0cKun3x8MoIwkukF) | 3:07 | 2022-09-16 | 2023-06-16 |
 | [Bad Communicator](https://open.spotify.com/track/0Y7OIMb5lkLXvuKTZLs9mF) | [Lino City](https://open.spotify.com/artist/5CsXFUltfWQoIvYyTm0esr) | [Bad Communicator](https://open.spotify.com/album/7cfaJemeFAgpX8ON8t2ki8) | 2:37 | 2022-04-15 | 2022-05-20 |
 | [Bad Habit](https://open.spotify.com/track/3O7ij6i8NmdxxmOrpHDVJV) | [Cherry Glazerr](https://open.spotify.com/artist/3pIGm1omCcHIb1juBNHspg) | [I Don't Want You Anymore](https://open.spotify.com/album/5BDZURHIJ6XQWJVaT9sZIb) | 2:47 | 2023-09-29 |  |
@@ -403,6 +404,7 @@
 | [Gnaw](https://open.spotify.com/track/4KwttC1ZokLqillyhJgSe8) | [Alex G](https://open.spotify.com/artist/6lcwlkAjBPSKnFBZjjZFJs) | [Race](https://open.spotify.com/album/3hY0WIR79EKnQcwUsyRy5m) | 3:21 | 2021-03-19 | 2022-04-29 |
 | [Go Slow](https://open.spotify.com/track/7B7CJVHZq5EPzylyt87vB5) | [Jordana](https://open.spotify.com/artist/5Bw9kFNhy019e4IBCJZlzw) | [Go Slow](https://open.spotify.com/album/26FMqBnzWjXHsgogCXRGKb) | 3:20 | 2022-05-20 | 2022-10-08 |
 | [González](https://open.spotify.com/track/71BD7jwEW0JSE44U6e6yfz) | [LOKI](https://open.spotify.com/artist/71EJ8oMfR3a20cqp3VrhRe) | [González](https://open.spotify.com/album/7F5buTSZIQjentoHALV9pa) | 3:58 | 2021-06-25 | 2022-04-19 |
+| [Good God](https://open.spotify.com/track/1Tqk6l1J3ANlVUpCG3Sdlo) | [Daffo](https://open.spotify.com/artist/0RsNTNwQqjREcl3VG81prp) | [Pest](https://open.spotify.com/album/55C7FxnZGpBDrv3uxbBYgI) | 1:59 | 2023-10-20 |  |
 | [Good Recipe](https://open.spotify.com/track/36GVnM3i4StYPjaGn2UupK) | [Ruby Waters](https://open.spotify.com/artist/5ybU1P0ufoGH5CMclUKebd) | [Good Recipe](https://open.spotify.com/album/2qJxomTOJ31stDwwmzqct1) | 2:31 | 2021-08-27 | 2022-04-24 |
 | [Good Time](https://open.spotify.com/track/4lxo4Mw8nQw3FcZxKTrz4q) | [Young Guv](https://open.spotify.com/artist/1zEgVwAUxnTP5DDnmZbJnw) | [Good Time](https://open.spotify.com/album/5s5elrPArZP7JtpTgLPpcQ) | 3:07 | 2022-03-04 | 2022-04-21 |
 | [Good to Hear from You Johnny](https://open.spotify.com/track/5w1hXrnVh9NU7w5NuhMnfh) | [Billy Changer](https://open.spotify.com/artist/0kGUJJ5ppQF2jtZabzrbVt) | [Puzzles](https://open.spotify.com/album/0FiV1vpjD4WdC4RD8V6N1p) | 2:22 | 2022-12-09 | 2022-12-15 |
@@ -602,7 +604,7 @@
 | [Lip Service](https://open.spotify.com/track/2rWPsijkCV8r3FfE3qinNJ) | [Drugdealer](https://open.spotify.com/artist/0tMnuEXTeJeHbslcV8OybJ) | [Lip Service](https://open.spotify.com/album/1zbfbCs5iZhBMo2wP3L8vv) | 2:53 | 2023-03-17 | 2023-09-30 |
 | [Little Mermaid](https://open.spotify.com/track/5SfGNQKdfASuqIurZV0DXb) | [ash tuesday](https://open.spotify.com/artist/3kEaS1rKstrWw6Zb9H5vBE) | [Little Mermaid](https://open.spotify.com/album/4a4wMP1NHc7Bv78rocACxu) | 2:59 | 2023-03-03 | 2023-04-01 |
 | [Little Things](https://open.spotify.com/track/41YZXlOIGKmaa3RJpBn2Qy) | [Big Thief](https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ) | [Little Things/Sparrow](https://open.spotify.com/album/3ZftJ3ZvQf8Sas1pUVSjZU) | 5:44 | 2021-08-13 | 2022-04-29 |
-| [live action epiphany](https://open.spotify.com/track/3vdd92KMv7oWoO2tFYHNbQ) | [runo plum](https://open.spotify.com/artist/0pouttXEXIHvguV90fhB39) | [live action epiphany](https://open.spotify.com/album/7p0fPu61mdysXaRkqqgBDk) | 3:36 | 2023-09-15 |  |
+| [live action epiphany](https://open.spotify.com/track/3vdd92KMv7oWoO2tFYHNbQ) | [runo plum](https://open.spotify.com/artist/0pouttXEXIHvguV90fhB39) | [live action epiphany](https://open.spotify.com/album/7p0fPu61mdysXaRkqqgBDk) | 3:36 | 2023-09-15 | 2023-10-21 |
 | [Lizzy](https://open.spotify.com/track/7GWGiYSGyN5CuKN0U2acXD) | [Friedberg](https://open.spotify.com/artist/0lqPfG8vAR30UX3cWDbCEn) | [Lizzy](https://open.spotify.com/album/6Y183V3T55txTmHKcjtv9N) | 3:50 | 2021-03-05 | 2022-04-15 |
 | [loaded gun](https://open.spotify.com/track/0pZsHpKYy6BpBpez1X1dBs) | [girlhouse](https://open.spotify.com/artist/7AWyYXZ5tIc0xNSfKLD3QX) | [loaded gun](https://open.spotify.com/album/2Ez698EgVsoo910TP135N2) | 3:50 | 2021-03-05 | 2022-04-20 |
 | [Loaded Gun](https://open.spotify.com/track/7mH0fZKktrJ5Hbijrnp7OF) | [Quinn Christopherson](https://open.spotify.com/artist/0tzC81XDBWtTPfJyUg6O2j) | [I Am Bubblegum](https://open.spotify.com/album/45YoZEm1LM9BkOFKTBsjM3) | 3:42 | 2023-03-31 | 2023-06-16 |
@@ -734,7 +736,7 @@
 | [Perfect Wife](https://open.spotify.com/track/4sUkaBPPpnBKnmBfrgAyv1) | [Tasha](https://open.spotify.com/artist/4ZbFpxbORhzU78ve8e62Ej) | [Perfect Wife](https://open.spotify.com/album/0DZfn5TUMGAGKKjkDFJDzz) | 3:38 | 2021-09-10 | 2022-04-29 |
 | [Petals](https://open.spotify.com/track/6VX8tKJOpM4GaAdRMf7Dl1) | [Suave Punk](https://open.spotify.com/artist/7mHAXsMI3hAj3dUZMR4fnt) | [Petals](https://open.spotify.com/album/2n3QaYtHqERzKesRi0lmaq) | 4:01 | 2022-05-13 | 2022-07-09 |
 | [Phase](https://open.spotify.com/track/3IOpJYHofSXLSTyzXXc4uO) | [Bloomsday](https://open.spotify.com/artist/6DhYH5Yx7mZG0qkBmioMbI) | [Phase](https://open.spotify.com/album/0RVkJ3E9z3vm2DOnqpSmc4) | 4:08 | 2022-03-26 | 2022-04-14 |
-| [PHD](https://open.spotify.com/track/0MzNvq7rOR7zYfJcRf7Yzz) | [Malice K](https://open.spotify.com/artist/02teRYFHjIArrcuL5TkxmI) | [PHD](https://open.spotify.com/album/3clusQ6T8jI8LenvmGB15O) | 1:57 | 2023-09-29 |  |
+| [PHD](https://open.spotify.com/track/0MzNvq7rOR7zYfJcRf7Yzz) | [Malice K](https://open.spotify.com/artist/02teRYFHjIArrcuL5TkxmI) | [PHD](https://open.spotify.com/album/3clusQ6T8jI8LenvmGB15O) | 1:57 | 2023-09-29 | 2023-10-21 |
 | [photograph](https://open.spotify.com/track/0zFzJ5xtaSOtOhcmWBKJvu) | [Hether](https://open.spotify.com/artist/5O35zGUolf87RATk2NgSD3) | [photograph](https://open.spotify.com/album/6oPlHI8HkXSFBgUJAMmuGZ) | 3:18 | 2022-04-29 | 2022-06-19 |
 | [Pictures of You](https://open.spotify.com/track/04Ol1Crx7wXvJUR5d72SlG) | [Drugdealer](https://open.spotify.com/artist/0tMnuEXTeJeHbslcV8OybJ), [Kate Bollinger](https://open.spotify.com/artist/4eArh1v6UwBbKkjdgHCned) | [Pictures of You](https://open.spotify.com/album/4VykpJKWx1lQ0b4r9cRCTP) | 3:09 | 2022-10-14 | 2023-03-04 |
 | [Pictures of You](https://open.spotify.com/track/1XXwItGFhOuvQmopWby2dP) | [Drugdealer](https://open.spotify.com/artist/0tMnuEXTeJeHbslcV8OybJ), [Kate Bollinger](https://open.spotify.com/artist/4eArh1v6UwBbKkjdgHCned) | [Hiding in Plain Sight](https://open.spotify.com/album/7kaw62RSTT97qeCUyURCLN) | 3:09 | 2022-10-21 | 2022-11-12 |
@@ -751,6 +753,7 @@
 | [Pretty](https://open.spotify.com/track/5rg2cr5aokhrm5gQNpyHXi) | [Fox Academy](https://open.spotify.com/artist/0JqRJZzARcjmH60HwUenow), [Sipper](https://open.spotify.com/artist/2BjcWnk7C01aHhp59HqUED) | [Pretty](https://open.spotify.com/album/22dulUCoaoKoVpmg2irQmo) | 3:19 | 2022-04-29 | 2022-08-18 |
 | [pretty girl in la](https://open.spotify.com/track/5NdUIQzOj9YuxHKLEYRZCA) | [girlhouse](https://open.spotify.com/artist/7AWyYXZ5tIc0xNSfKLD3QX) | [the girlhouse ep](https://open.spotify.com/album/4iwP3pc1MGgEVtPygt5KZL) | 3:34 | 2021-05-14 | 2022-04-29 |
 | [Pretty Pictures](https://open.spotify.com/track/330fmJp9kvEMPjLhoc29Zl) | [Indigo De Souza](https://open.spotify.com/artist/3ir2pF2mkiEWqyPenKTh5e) | [Any Shape You Take](https://open.spotify.com/album/7G7lPTcJta35qGZ8LMIJ4y) | 2:58 | 2021-08-27 | 2022-04-29 |
+| [pretty scars](https://open.spotify.com/track/7dTs49ZdEWuHvyrbjrZyDa) | [w1sh](https://open.spotify.com/artist/57zmm9q6ZH4TJNa4sQgmYA) | [pretty scars](https://open.spotify.com/album/7rF8PnLMiuS6NyH8s2MVyo) | 2:16 | 2023-10-20 |  |
 | [princes of melancholia](https://open.spotify.com/track/6VTs85uQ0holJSYhflQsua) | [mehro](https://open.spotify.com/artist/1ZwhhTSUPr7EBZHd1GjOT7) | [Dark Corners and Alchemy](https://open.spotify.com/album/3pcb6cs5ZquBAOiZXuQQRA) | 2:33 | 2023-03-24 | 2023-06-16 |
 | [Prove It](https://open.spotify.com/track/6DK7eKgThVAYH0VtQhtG6x) | [Lala Lala](https://open.spotify.com/artist/492I2sQFcHDcsZECYX25dE) | [Prove It](https://open.spotify.com/album/0nUe42yrUWiUl7pTUhPwGy) | 2:47 | 2021-09-10 | 2022-04-29 |
 | [Prudence & Poise](https://open.spotify.com/track/3RMZ0lEGewSR0CPab6Kv1r) | [Soft Glas](https://open.spotify.com/artist/64YO6kjOrspjCGA2GQwsT0) | [Prudence & Poise](https://open.spotify.com/album/0Z2ZkWyy4ZhCb6CzBVDxI0) | 4:20 | 2021-03-05 | 2022-04-20 |
@@ -782,6 +785,7 @@
 | [River](https://open.spotify.com/track/3HEhC2ZJYWBX8EtVHOnIdr) | [The Song Confessional](https://open.spotify.com/artist/3zM0frH8HgM7cK5OXpHu4E), [Pom Pom Squad](https://open.spotify.com/artist/1yhTALwId0bpL1U1XRT3Zs) | [River](https://open.spotify.com/album/4l0KCP3KC7tCeSfdzBQqb0) | 4:31 | 2022-10-07 | 2022-12-15 |
 | [Ronnie](https://open.spotify.com/track/4qYfXg9G99RdC9ztNR8vQo) | [Tchotchke](https://open.spotify.com/artist/6DZl3jeTkvDHNspf3X9hKG) | [Tchotchke](https://open.spotify.com/album/0hIl9YXPRu5ZlqakOREbna) | 2:58 | 2022-07-29 | 2022-10-15 |
 | [Room](https://open.spotify.com/track/0qyIfrncrrZQlx2jaffhYm) | [Ethan Tasch](https://open.spotify.com/artist/5QeOEXfGjdzdEsUOHODPCw) | [Room](https://open.spotify.com/album/2eOU1jfnTXVVH14YJRkqz9) | 3:30 | 2021-03-05 | 2022-04-29 |
+| [Root Canal](https://open.spotify.com/track/41QKSwPaV7ADagGinXHeTv) | [Lowertown](https://open.spotify.com/artist/1yI0RRPnOA9BFJmiZ6cEzw) | [Root Canal](https://open.spotify.com/album/7vhWbzeW452VtyAhpFsVyM) | 3:16 | 2023-10-20 |  |
 | [Rosalie \(CH\. II\)](https://open.spotify.com/track/4pqM7ItJF81CipUjbFw0gt) | [Lewis Del Mar](https://open.spotify.com/artist/2oqwwcM17wrP9hBD25zKSR) | [Rosalie \(CH\. II\)](https://open.spotify.com/album/3YyhGAMr3nks9z7sTj6Zet) | 4:17 | 2021-03-05 | 2022-04-28 |
 | [Rotten](https://open.spotify.com/track/4euglpuBWHIqrTofPsdVTi) | [Porridge Radio](https://open.spotify.com/artist/4vAQ4M7vgItwBtmBTgRu48) | [Waterslide, Diving Board, Ladder To The Sky](https://open.spotify.com/album/6wdThJ2V58nkaWfv1jA4B5) | 3:00 | 2022-05-20 | 2022-10-01 |
 | [royal screw up \- demo](https://open.spotify.com/track/2ACZHfMqljJIF1eeyV5MXG) | [Soccer Mommy](https://open.spotify.com/artist/4wXchxfTTggLtzkoUhO86Q) | [color theory \(selected demos\)](https://open.spotify.com/album/6y6oq3lXDAHENr5ChHQlBW) | 4:14 | 2021-03-05 | 2022-04-28 |
@@ -876,7 +880,7 @@
 | [Spinning Wheel](https://open.spotify.com/track/5LtKOTf6vq5lTYyYVA0U9o) | [Rat Tally](https://open.spotify.com/artist/7kLaLiBdbGiIC6jYwcpZbb) | [Spinning Wheel](https://open.spotify.com/album/2sMt2rmTEt87ZdJFwBlfho) | 3:35 | 2022-07-05 | 2022-10-15 |
 | [Spitting Image](https://open.spotify.com/track/34FB1jk6Tq4q8cto3JlF8O) | [Sharon Silva](https://open.spotify.com/artist/6I55n82pFxEj4D3zMdnR9S) | [Spitting Image](https://open.spotify.com/album/0EqJ4c61p88qmPbjRx8Zlb) | 4:19 | 2021-06-25 | 2022-04-11 |
 | [Splendor](https://open.spotify.com/track/1SQcUBkH4zgYNRRnwUNx4x) | [Glixen](https://open.spotify.com/artist/3eimPofmo9TuKJTgpM9Bcj) | [Splendor](https://open.spotify.com/album/0YCFTmRRxUduoa0CmrT0To) | 4:13 | 2023-06-15 |  |
-| [Split Up](https://open.spotify.com/track/1VNxSjEjFNcV1n2KET3QM9) | [Boyish](https://open.spotify.com/artist/6VgPyGeGO86DztjK7GCYT3) | [Little Demon Boy](https://open.spotify.com/album/1DubHATL9RqfbfD6Y1lAWa) | 2:27 | 2023-09-08 |  |
+| [Split Up](https://open.spotify.com/track/1VNxSjEjFNcV1n2KET3QM9) | [Boyish](https://open.spotify.com/artist/6VgPyGeGO86DztjK7GCYT3) | [Little Demon Boy](https://open.spotify.com/album/1DubHATL9RqfbfD6Y1lAWa) | 2:27 | 2023-09-08 | 2023-10-21 |
 | [Spring Bug](https://open.spotify.com/track/1m9B9sIeBibHosu4h5uae6) | [Helena Deland](https://open.spotify.com/artist/0BJeP79i5wKgCqsEEiQ7G0) | [Spring Bug](https://open.spotify.com/album/3KqVVm7Gwy3lbz12qFTf0L) | 3:27 | 2023-06-09 | 2023-06-16 |
 | [Ssx](https://open.spotify.com/track/1eCImHqurFCsE6du2nF6jh) | [The Hellp](https://open.spotify.com/artist/5DslL3PUa3BcRlCCEP64A4) | [Vol\. 1](https://open.spotify.com/album/5HanfTZtL71gW1KGgg1HMA) | 3:36 | 2022-05-13 | 2022-07-02 |
 | [Stacking Chairs](https://open.spotify.com/track/32H8YnMqJVD7OXwJZh7fIj) | [Middle Kids](https://open.spotify.com/artist/6AawJaQO4i99Be2A3w7BTW) | [Stacking Chairs](https://open.spotify.com/album/0rzgO44IxONae6AEPpww41) | 3:08 | 2021-03-05 | 2022-04-29 |
@@ -1011,7 +1015,7 @@
 | [Urgent Care](https://open.spotify.com/track/3Df2PIo5qxZZpb1wgXOiuL) | [Runnner](https://open.spotify.com/artist/7adlRX57hqe6Pc4YHrSGG0) | [Urgent Care](https://open.spotify.com/album/25AzgKCXODbUo0YqXnlHVQ) | 2:17 | 2021-06-11 | 2022-04-22 |
 | [Utah](https://open.spotify.com/track/3HEBe9g9vNZ6AaAnRtsjvh) | [Kid Smoko](https://open.spotify.com/artist/16zg8eKBf9uqn7jLrCpo8I) | [Utah](https://open.spotify.com/album/3hWfrYNExzE25TccvjpHEC) | 2:49 | 2022-12-16 | 2023-03-04 |
 | [Utopia Planet](https://open.spotify.com/track/5N6R56riaRTpFsQ8XNzVdr) | [Lala Lala](https://open.spotify.com/artist/492I2sQFcHDcsZECYX25dE), [Sen Morimoto](https://open.spotify.com/artist/3zlWvRPwLwGSi2v6ltrhOl) | [Utopia Planet](https://open.spotify.com/album/6tum4O28Ck83eZ8DSvof7M) | 3:57 | 2021-10-08 | 2022-04-29 |
-| [Valley Ghoul](https://open.spotify.com/track/4Gpvffa23tFfBjbusONE01) | [Provoker](https://open.spotify.com/artist/62s5q1tm3UAcRnbGY9CCI9) | [Valley Ghoul](https://open.spotify.com/album/5FxIFpKhK6juAjoMzYmypW) | 3:02 | 2023-08-11 |  |
+| [Valley Ghoul](https://open.spotify.com/track/4Gpvffa23tFfBjbusONE01) | [Provoker](https://open.spotify.com/artist/62s5q1tm3UAcRnbGY9CCI9) | [Valley Ghoul](https://open.spotify.com/album/5FxIFpKhK6juAjoMzYmypW) | 3:02 | 2023-08-11 | 2023-10-21 |
 | [vampire](https://open.spotify.com/track/6jpKCpO79oyr0uSCay1Sa7) | [re6ce](https://open.spotify.com/artist/4ULUpM5hJYKWhWdIViYrGK) | [vampire](https://open.spotify.com/album/13WWTAEpg25HmUqtqpVI0P) | 2:40 | 2022-05-13 | 2022-08-06 |
 | [Vampires](https://open.spotify.com/track/570aJug2ngcmKkXiwepoAP) | [Hot Flash Heat Wave](https://open.spotify.com/artist/33LSz2nhC8pCPTb3pd5add) | [Sportswear](https://open.spotify.com/album/2JNvdQC3wLDgvCefjFXAfQ) | 3:52 | 2022-04-29 | 2022-08-27 |
 | [Vanishing Coin](https://open.spotify.com/track/7uVeLwQeth846ImdUx1Xk7) | [Tenci](https://open.spotify.com/artist/5ptfrHC6idq4KnsXBk5tup) | [Vanishing Coin](https://open.spotify.com/album/7B9zp7BG97OOKrCCsLVmlW) | 2:12 | 2022-09-23 | 2022-10-08 |

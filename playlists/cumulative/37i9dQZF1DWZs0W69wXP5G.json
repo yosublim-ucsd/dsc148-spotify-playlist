@@ -712,7 +712,7 @@
       ],
       "date_added": "2023-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-21",
       "duration_ms": 98480,
       "name": "Company - Live",
       "url": "https://open.spotify.com/track/1jcLzUX5Qmj1rmb77zVbtn"
@@ -1014,6 +1014,28 @@
       "duration_ms": 221880,
       "name": "Gaston",
       "url": "https://open.spotify.com/track/166GvTGtUQyLy4J52yaQnv"
+    },
+    {
+      "album": {
+        "name": "Gay Old Life (Radio Edit)",
+        "url": "https://open.spotify.com/album/4UlrflGOfsG9tGnsfL2mVg"
+      },
+      "artists": [
+        {
+          "name": "Nathan Lane",
+          "url": "https://open.spotify.com/artist/0P0do9GwiSgweSF6Ui3mrv"
+        },
+        {
+          "name": "Megan Mullally",
+          "url": "https://open.spotify.com/artist/7fMuncVtnMSI5VW5Kva22R"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200601,
+      "name": "Gay Old Life - Radio Edit",
+      "url": "https://open.spotify.com/track/7gbPVLwpcgYsRRTWNYJde0"
     },
     {
       "album": {
@@ -1842,7 +1864,7 @@
       ],
       "date_added": "2023-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-21",
       "duration_ms": 243847,
       "name": "Near You",
       "url": "https://open.spotify.com/track/1rRN1xidonGamn3WDOVzhO"
@@ -1860,7 +1882,7 @@
       ],
       "date_added": "2022-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-21",
       "duration_ms": 154099,
       "name": "New York Lonely Boy",
       "url": "https://open.spotify.com/track/21LzxdHPxlWGdcUH6FfBow"
@@ -2094,6 +2116,24 @@
       "duration_ms": 225621,
       "name": "Only Us (with Dan + Shay) - From The \u201cDear Evan Hansen\u201d Original Motion Picture Soundtrack",
       "url": "https://open.spotify.com/track/5uS9wvMZRGItgtOEzKZoTK"
+    },
+    {
+      "album": {
+        "name": "Out Alpha The Alpha",
+        "url": "https://open.spotify.com/album/4vgXGnGzxojy5spBZranjW"
+      },
+      "artists": [
+        {
+          "name": "Megan Thee Stallion",
+          "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226700,
+      "name": "Out Alpha The Alpha",
+      "url": "https://open.spotify.com/track/3GALk45nKwp5pg6zJp7nhm"
     },
     {
       "album": {
@@ -3122,6 +3162,28 @@
       "duration_ms": 296440,
       "name": "This Must Be the Place (Na\u00efve Melody) - Live",
       "url": "https://open.spotify.com/track/36tSwFpEeUd5xY3dcyZMjz"
+    },
+    {
+      "album": {
+        "name": "This Wish (From \"Wish\")",
+        "url": "https://open.spotify.com/album/123gDnj9pBl8GNRLyOViC9"
+      },
+      "artists": [
+        {
+          "name": "Ariana DeBose",
+          "url": "https://open.spotify.com/artist/1Np9GsrPO7dlczjvdehBxs"
+        },
+        {
+          "name": "Disney",
+          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205480,
+      "name": "This Wish - From \"Wish\"",
+      "url": "https://open.spotify.com/track/5yvHjO06WHe7ETlgirLjbw"
     },
     {
       "album": {

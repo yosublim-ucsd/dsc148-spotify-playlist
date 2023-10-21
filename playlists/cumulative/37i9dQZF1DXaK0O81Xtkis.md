@@ -2,9 +2,9 @@
 
 ### [soda](https://open.spotify.com/playlist/37i9dQZF1DXaK0O81Xtkis)
 
-> make it pop! cover: Aidan Bissett
+> make it pop! cover: MICHELLE
 
-784 songs - 1 day 15 hr 5 min
+790 songs - 1 day 15 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -148,6 +148,7 @@
 | [cut my hair](https://open.spotify.com/track/3PY9Ox9fKPqZJCzPjUQ0I6) | [MICO](https://open.spotify.com/artist/0wajW5BBnk40YAhJdTkrrG) | [cut my hair](https://open.spotify.com/album/09rSEws6lx6NhDxNhZJxQ1) | 2:56 | 2022-11-25 | 2023-03-11 |
 | [Cutie](https://open.spotify.com/track/4nLTOnpSCBwRlul92HLIyW) | [COIN](https://open.spotify.com/artist/0ZxZlO7oWCSYMXhehpyMvE) | [Cutie](https://open.spotify.com/album/5bn7iiPpq2Za6KX1PekKD2) | 3:04 | 2022-01-28 | 2022-02-26 |
 | [daisies](https://open.spotify.com/track/1l13o2Aj524pm3R0qDY4uL) | [JXN](https://open.spotify.com/artist/571VxoWCBMPacek7MmocqU) | [daisies](https://open.spotify.com/album/4NNX4e5yeyhDcuL2awCGpx) | 2:04 | 2023-08-11 |  |
+| [Damn, I miss you](https://open.spotify.com/track/0U5ok644ffKGSKW8HaaZsX) | [Mokita](https://open.spotify.com/artist/3sKeaby6GMSJWgYueZaSjE), [Nightly](https://open.spotify.com/artist/3qDMrpZHtZEtVl5i1l7hP3) | [Damn, I miss you](https://open.spotify.com/album/0Byim1JQ7KLiOph79QbFQQ) | 2:40 | 2023-10-20 |  |
 | [Dance Like This](https://open.spotify.com/track/3O8682mukvr6oq0YWDuwX6) | [Blanks](https://open.spotify.com/artist/7geo7fjTQyp13Wf2ALTZCF) | [Nothing Lasts Forever And That's OK](https://open.spotify.com/album/2jsBB0Mq3vX9FHLQPZ1gyH) | 3:07 | 2021-10-29 | 2022-03-18 |
 | [Dance With You](https://open.spotify.com/track/2nsf0yZBCWNq20FvTUCXpe) | [Arkells](https://open.spotify.com/artist/3ShGiAyhxI6Rq3TknZ3gfk), [Cœur De Pirate](https://open.spotify.com/artist/2eRNMtoi82UZUuaL6naDjA), [Aly & AJ](https://open.spotify.com/artist/5wugb0kaq0J6nyQ5Xgd17i) | [Dance With You](https://open.spotify.com/album/4e0RTJEbQGd7cfGd2CHSm4) | 3:46 | 2022-06-24 | 2022-08-20 |
 | [DANCING ALL ALONE](https://open.spotify.com/track/3vHKqg3WDgtWA5unl5layh) | [Clinton Kane](https://open.spotify.com/artist/7okSU80WTrn4LXlyXYbX3P) | [DANCING ALL ALONE](https://open.spotify.com/album/6E1rMJkFB1eJwgyMQhN1mg) | 2:51 | 2023-02-17 | 2023-05-13 |
@@ -211,7 +212,7 @@
 | [FAVORITE PART](https://open.spotify.com/track/1ssq7tSefgoZkTSTrI51rg) | [Jake Clark](https://open.spotify.com/artist/5fPvc8tIZfLbEm3GsbFHgd) | [FAVORITE PART](https://open.spotify.com/album/2ozUR3Sj5ZBn9W5zsMusVu) | 2:59 | 2022-12-02 | 2023-03-25 |
 | [favorite song](https://open.spotify.com/track/1DY1Jql0kdvh8r7HZiyZMe) | [sammy rash](https://open.spotify.com/artist/0yXuo2N8r6dzzGgnLNLGZm) | [favorite song](https://open.spotify.com/album/6JtejGkfjMcru8aO4opjAX) | 1:58 | 2023-05-26 | 2023-06-24 |
 | [Favourite Toy](https://open.spotify.com/track/7LwtKDNVK0s08ZoNkqlCzP) | [Jazmin Bean](https://open.spotify.com/artist/6blEmsLU25ewy8hHtgZaSL) | [Favourite Toy](https://open.spotify.com/album/6BkAzEqhZ7E9R6QfBJnjha) | 3:01 | 2023-08-11 | 2023-09-16 |
-| [fckboys](https://open.spotify.com/track/1FOYiATDkLEbiYwD8HmPxE) | [Annika Wells](https://open.spotify.com/artist/0kErUwb6xgWfkdn0RyZWHZ) | [fckboys](https://open.spotify.com/album/70aJ0Nb1J8GVJWs7luRSjp) | 2:43 | 2023-08-11 |  |
+| [fckboys](https://open.spotify.com/track/1FOYiATDkLEbiYwD8HmPxE) | [Annika Wells](https://open.spotify.com/artist/0kErUwb6xgWfkdn0RyZWHZ) | [fckboys](https://open.spotify.com/album/70aJ0Nb1J8GVJWs7luRSjp) | 2:43 | 2023-08-11 | 2023-10-21 |
 | [FEAR OF INTIMACY](https://open.spotify.com/track/55Px7prPLkT5scOzkE4gML) | [Jacob Sartorius](https://open.spotify.com/artist/6czdbISBoxGckbBX8F4m8L) | [FEAR OF INTIMACY](https://open.spotify.com/album/0dY4VGDWRrWy0rLnb2XScT) | 3:11 | 2022-02-04 | 2022-02-26 |
 | [Feel It](https://open.spotify.com/track/5UapJPoV8BX4xQYOIwjABo) | [Confetti](https://open.spotify.com/artist/1oyUjl52ohRrCv3EL1UdpM) | [The Guilty Pleasure Chest](https://open.spotify.com/album/1m0GLsVORJPj9jeqvTWB3W) | 2:41 | 2021-10-29 | 2022-01-22 |
 | [Feel my love](https://open.spotify.com/track/3xJjp7RYkmW2RRWcPfQY0e) | [Nic D](https://open.spotify.com/artist/1XlLhtgJjC4ROQZilBZAvw), [sammy rash](https://open.spotify.com/artist/0yXuo2N8r6dzzGgnLNLGZm) | [Feel my love](https://open.spotify.com/album/4vUImSqOSspVWu02FH4HTy) | 2:40 | 2023-04-07 | 2023-05-06 |
@@ -225,6 +226,7 @@
 | [flowers](https://open.spotify.com/track/6trA1yKo3IGgLyvg9lBwOJ) | [joan](https://open.spotify.com/artist/3HXLY1sNXIxHfulrjPiRf5) | [flowers](https://open.spotify.com/album/1ZmIdhZgJn91DMGk86iC1R) | 3:12 | 2022-11-18 | 2023-02-04 |
 | [For My Friends](https://open.spotify.com/track/6vs83ufnw4IVbotV0qv6C8) | [King Princess](https://open.spotify.com/artist/6beUvFUlKliUYJdLOXNj9C) | [For My Friends](https://open.spotify.com/album/7hfIFmFhdPoLzeeDGPaYAw) | 3:35 | 2022-03-18 | 2022-05-28 |
 | [Forever & Again \(From Barbie The Album\)](https://open.spotify.com/track/6Ky8ROf2VWY5vwoGfMet7x) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J) | [Forever & Again \(From Barbie The Album\)](https://open.spotify.com/album/0PHUzNM9vbkW3EMUiKOxo7) | 2:19 | 2023-07-21 | 2023-08-19 |
+| [Forgot About You](https://open.spotify.com/track/4hg4C9pqzoNW3sIFfoNrNL) | [Dylan Brady](https://open.spotify.com/artist/69Lf9TlJ7qID862aDGbZx1) | [Forgot About You](https://open.spotify.com/album/64f35H4RwwAQ2h03NNSRHj) | 3:08 | 2023-10-20 |  |
 | [Frank Ocean](https://open.spotify.com/track/6aCJMCOZEmcFsGDHY2jRte) | [Richard Fairlie](https://open.spotify.com/artist/3LsDFxj4WpnS55c4NW2VOb) | [Frank Ocean](https://open.spotify.com/album/0b2NhFLMS1EhbIyFCZzE3R) | 2:29 | 2023-06-30 | 2023-07-29 |
 | [Freak Like That](https://open.spotify.com/track/4jCA5lFRXy7PkryLP7UIc8) | [Austin George](https://open.spotify.com/artist/5SVHLhz1Vv5m4xmkT4Pk6D) | [Freak Like That](https://open.spotify.com/album/1QjzC5LHTgCcbvP66LibBE) | 2:15 | 2023-07-28 | 2023-09-16 |
 | [Free Love](https://open.spotify.com/track/3hX0cncUUZ3A6cx9w1dW4w) | [Felly](https://open.spotify.com/artist/2848adRcxvgWNRcz1g1tQD) | [Free Love](https://open.spotify.com/album/6XJGZ5RmmHVvOJEDFPL8f3) | 2:53 | 2023-02-24 | 2023-07-22 |
@@ -242,6 +244,7 @@
 | [Give Me A Kiss](https://open.spotify.com/track/0ocf3HwWhrXtA8r63Vcd2h) | [Crash Adams](https://open.spotify.com/artist/6d8NscVVbeMVINZwJDOoN5) | [Give Me A Kiss](https://open.spotify.com/album/4Cxkou3pFWfzoLsw9Aonfw) | 2:49 | 2022-08-12 | 2022-10-29 |
 | [Givin Up](https://open.spotify.com/track/3ioUU8TzRPMsN8C4sFi1fz) | [Saint Blonde](https://open.spotify.com/artist/0nLQlvzkknOFtgjAzBCcqq) | [Givin Up](https://open.spotify.com/album/63RtHHVvzPc2dXa8fdq3f9) | 2:28 | 2023-09-08 |  |
 | [Glad We Didn't Meet](https://open.spotify.com/track/0WFNSbhvCFNPuAdHfMEQV2) | [Mykyl](https://open.spotify.com/artist/42Gj65Q4XQ9hMhLQE5hi7r) | [Glad We Didn't Meet](https://open.spotify.com/album/26SFXMuuftdkZmt4E3gEOH) | 2:50 | 2023-02-24 | 2023-05-06 |
+| [GLOW](https://open.spotify.com/track/0i8EbwLvGtg3u9hq896b1A) | [MICHELLE](https://open.spotify.com/artist/4yYvor6Rq4fG82J1L47DYp) | [GLOW / AGNOSTIC](https://open.spotify.com/album/1bEikzQV0ZKvnYHTzIYjsi) | 2:46 | 2023-10-20 |  |
 | [Go Go Gadget](https://open.spotify.com/track/0LpqhIXxMm4VGXbybsNyBG) | [Jesse Gold](https://open.spotify.com/artist/0ScLk4lNexNrtkDmGQicRx), [Marc E\. Bassy](https://open.spotify.com/artist/3tQx1LPXbsYjE9VwN1Peaa) | [If Not Now](https://open.spotify.com/album/4xgOwzb89ZUFQ7U5lYGbcV) | 2:29 | 2022-10-28 | 2023-03-04 |
 | [Go Go Gadget Feat\. Marc E\. Bassy](https://open.spotify.com/track/5MJn7PREQVxQV0zzDEAUw3) | [Jesse Gold](https://open.spotify.com/artist/0ScLk4lNexNrtkDmGQicRx), [Marc E\. Bassy](https://open.spotify.com/artist/3tQx1LPXbsYjE9VwN1Peaa) | [If Not Now](https://open.spotify.com/album/3bnUQXYTmyk3b3JerLWmza) | 2:29 | 2022-10-28 | 2022-12-11 |
 | [god of the sunsets](https://open.spotify.com/track/5gOyjqIifZ9NqVcaIIlqv7) | [SEB](https://open.spotify.com/artist/7oPxPZSk7y5q0fhzpmX5Gi) | [god of the sunsets](https://open.spotify.com/album/5ZrAjc3ME3ghkUikJiYrms) | 2:04 | 2021-10-29 | 2022-01-08 |
@@ -252,6 +255,7 @@
 | [Good Grief!](https://open.spotify.com/track/2NM1xnjA3rV2vVlbRobkIH) | [Haiden](https://open.spotify.com/artist/79xvSUqngetd6CbJ1bgb4p) | [Good Grief!](https://open.spotify.com/album/014sDuoL5qu3jviq8vBi63) | 3:00 | 2022-10-21 | 2022-11-19 |
 | [Good Not Great](https://open.spotify.com/track/5K6VtWfjGkk1ahcVmPKbL9) | [JORDY](https://open.spotify.com/artist/0p9SPN0Vhv6aDRZCz4W13E) | [BOY](https://open.spotify.com/album/75Cps520layAjj3UTUMC9v) | 2:12 | 2023-04-21 | 2023-09-16 |
 | [Good Time](https://open.spotify.com/track/5J9H8Pzz3uCjwfgMBvvuM2) | [Leland Blue](https://open.spotify.com/artist/4TgfkZEpcjkYgRBKeqy1Mh) | [Good Time](https://open.spotify.com/album/5sjrMAgTMgB9oRQD6YLNOm) | 2:56 | 2022-02-11 | 2022-02-26 |
+| [Good To Be](https://open.spotify.com/track/2hPGC3ZuGsJUF1ixwzNMU6) | [Mark Ambor](https://open.spotify.com/artist/11p2E654TTU8e0nZWBR4AL) | [Good To Be](https://open.spotify.com/album/0GBpszNiUBiRAKZoCRb9KW) | 2:27 | 2023-10-20 |  |
 | [Gotta Do Something](https://open.spotify.com/track/7gYZ17ahhZZZ0KraoQZonQ) | [flor](https://open.spotify.com/artist/0szWPxzzE8DVEfXFRCLBUb) | [Future Shine](https://open.spotify.com/album/39Cn6MAkfo6qIKehVcZrdX) | 2:27 | 2022-05-06 | 2022-07-30 |
 | [Gracie](https://open.spotify.com/track/2woJ2PjBLoeKPn47ZHmT4w) | [Will Linley](https://open.spotify.com/artist/3xnCBQeZDec3FFo8vUSt4N) | [Gracie](https://open.spotify.com/album/2kfbfChhJMy2N01rdxlDni) | 2:45 | 2023-08-08 | 2023-10-07 |
 | [Greenlight](https://open.spotify.com/track/4jyOa6KwKYS0UrILssYhl4) | [Hayley Kiyoko](https://open.spotify.com/artist/3LjhVl7GzYsza1biQjTpaN) | [Greenlight](https://open.spotify.com/album/1KmqDc5fsvkcXDvMY829Iy) | 2:53 | 2023-05-26 | 2023-08-15 |
@@ -460,6 +464,7 @@
 | [Million Dollar Bills](https://open.spotify.com/track/0AAApVAymzFlQtHJdyw676) | [Jukebox The Ghost](https://open.spotify.com/artist/0L8jXe7QeS9oYUoXbANmX4) | [Million Dollar Bills](https://open.spotify.com/album/28hOjrWUi7zMpjPweimK06) | 3:11 | 2022-04-22 | 2022-05-20 |
 | [Million Dollar Smoothies \(From “American Song Contest”\)](https://open.spotify.com/track/2fvBdEhqqpWKRbxsr3fUC6) | [courtship.](https://open.spotify.com/artist/2OK16hAFRHoJiFZKeZe8A8), [American Song Contest](https://open.spotify.com/artist/3pPClIZCqgahG8bguvacGh) | [American Song Contest: Episode 2](https://open.spotify.com/album/6xtyV2AEW6TyiueK8wCmXq) | 2:43 | 2022-03-28 | 2022-05-28 |
 | [Mine](https://open.spotify.com/track/4nb1IKpcYekqY4enXOdNzm) | [Aaron Taos](https://open.spotify.com/artist/3AcBSoCVhxILXJnfLcJb66) | [Mine](https://open.spotify.com/album/19VC3wBEzuvT9K73l0Jkan) | 3:29 | 2022-01-07 | 2022-02-26 |
+| [MIRACLE](https://open.spotify.com/track/5nzB0LJDNELDNb06PQMrWF) | [BOYS LIKE GIRLS](https://open.spotify.com/artist/0vWCyXMrrvMlCcepuOJaGI) | [SUNDAY AT FOXWOODS](https://open.spotify.com/album/6YYgBgZ9yBTZ0l0Wpk9NSQ) | 3:00 | 2023-10-20 |  |
 | [Miracle](https://open.spotify.com/track/0RFjIMPz5LJuSjtdx5W8bE) | [Tors](https://open.spotify.com/artist/41dCbpok7A4uyNqbo3VVZ0) | [Miracle](https://open.spotify.com/album/3iO9vwhDcD5RBhJRUs6hyF) | 3:02 | 2023-10-13 |  |
 | [miss misery](https://open.spotify.com/track/3Bey9kH0UEORyDMxT7Oph8) | [Forrest Nolan](https://open.spotify.com/artist/3M8UUCqb0mIEn5S2lO13yv) | [miss misery](https://open.spotify.com/album/3AOmVaNza6c5sfnjDeYDVk) | 2:59 | 2023-02-17 | 2023-04-25 |
 | [Mistake](https://open.spotify.com/track/3cKEPwsUlavywIrz3yjfw4) | [Sawyer](https://open.spotify.com/artist/0kWDZRay8upBU5u89Kmc7F) | [Mistake](https://open.spotify.com/album/0C9TJmoKVNAcdnQxr6BmHh) | 2:28 | 2022-10-07 | 2023-03-04 |
@@ -604,6 +609,7 @@
 | [Sideways](https://open.spotify.com/track/1lVYnUQjno6unaOAGSsJBS) | [MisterWives](https://open.spotify.com/artist/5ivCbtrcD5N4rD337xIb2z) | [Nosebleeds](https://open.spotify.com/album/7EQ6sixCqVYPCPqARdU1Ct) | 2:44 | 2023-07-14 | 2023-09-16 |
 | [Silk Chiffon](https://open.spotify.com/track/0BLY78hYpsH9NqP6X0N8CX) | [MUNA](https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn), [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [Silk Chiffon](https://open.spotify.com/album/0tVci75UxNB1H29bpj86tj) | 3:26 | 2022-02-04 | 2022-03-18 |
 | [Silver Tongues](https://open.spotify.com/track/1nMglHq7NFuRLmKizMQajB) | [Louis Tomlinson](https://open.spotify.com/artist/57WHJIHrjOE3iAxpihhMnp) | [Silver Tongues](https://open.spotify.com/album/1uGtR2fbkl45slG5OyUtPt) | 3:25 | 2022-11-11 | 2023-02-11 |
+| [Skeleton Man](https://open.spotify.com/track/7uZXeExokDVRMeSlR4Mquo) | [Capital Cities](https://open.spotify.com/artist/4gwpcMTbLWtBUlOijbVpuu) | [Skeleton Man](https://open.spotify.com/album/2yiWt4khTjAFcWIsCDvhhg) | 3:09 | 2023-10-20 |  |
 | [skip curfew](https://open.spotify.com/track/2VeLmWAw5HtgedSL2Sp2TY) | [dempsey hope](https://open.spotify.com/artist/6ZzYOQMKYTj2lJeAitjSl7) | [i hate rollercoasters](https://open.spotify.com/album/0mOtflw3cAMTvFlAjn94A9) | 2:18 | 2021-12-03 | 2022-02-26 |
 | [sleepover](https://open.spotify.com/track/4WEi5dUbKYjiOuc3LCQY2n) | [dreamfone](https://open.spotify.com/artist/00BCWGiYaxkXLJOp3zakyc) | [sleepover](https://open.spotify.com/album/6mJomZ2MN6gyUxbO2efeGT) | 2:38 | 2023-09-22 |  |
 | [Slide](https://open.spotify.com/track/7BzduEaTDTxEhZvLJbZWW2) | [Boy In Space](https://open.spotify.com/artist/0xu4jAQQv7ZAqvFGdc9HgP) | [BACKYARD](https://open.spotify.com/album/1VJQGEoTco7jhMvYjJhZzR) | 2:35 | 2022-09-16 | 2022-09-24 |

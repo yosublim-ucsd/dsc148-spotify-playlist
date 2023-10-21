@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX889U0CL85jj.md) - [plain]
 
 > Just chill, and potentially disassociate, in 2023.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,462,865 likes - 150 songs - 8 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,463,095 likes - 150 songs - 8 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,7 +31,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX889U0CL85jj.md) - [plain]
 | 21 | [Stanley](https://open.spotify.com/track/3oEygw3VoOhoqPn6EoCw9n) | [North Americans](https://open.spotify.com/artist/0SsM5OCOiiwycZIO63OT1S) | [Going Steady](https://open.spotify.com/album/26P67Eiu9rHgW52g3vsRrY) | 2:06 |
 | 22 | [Bog Song](https://open.spotify.com/track/6r3lH9rMcwCDdx2SgcGRiH) | [Holy Wave](https://open.spotify.com/artist/0Cx9SrMKbfrkHvnqJLHq6b) | [Bog Song](https://open.spotify.com/album/2xLKqKxH6sfgeAUpR9cT1V) | 4:52 |
 | 23 | [Orange Blood](https://open.spotify.com/track/2mKz0wGscPw1xnTvrTlQUi) | [Mt\. Joy](https://open.spotify.com/artist/69tiO1fG8VWduDl3ji2qhI) | [Orange Blood](https://open.spotify.com/album/2H1cK9wMY3GreIFvcNnice) | 3:46 |
-| 24 | [Jealous](https://open.spotify.com/track/1pxV36wX49w3PAcv8etdRU) | [Johnny Yukon](https://open.spotify.com/artist/4fLF7NyMYLaMxUmZCSp5ex) | [Jealous](https://open.spotify.com/album/5SAR4b6aNdpzekzJoDVISc) | 3:01 |
+| 24 | [Jealous](https://open.spotify.com/track/7GahBNine4Ru5Shs1GGpcr) | [Johnny Yukon](https://open.spotify.com/artist/4fLF7NyMYLaMxUmZCSp5ex) | [MOVIES! WORLDWIDE: PART I](https://open.spotify.com/album/7hXTfD7rkqM78jsnBMT0md) | 3:01 |
 | 25 | [Stay](https://open.spotify.com/track/2raaAIwNBB924qU7Cp3NLx) | [Galdive](https://open.spotify.com/artist/0aMrhUHnOzfiPcMc2PGiaT) | [Stay](https://open.spotify.com/album/2pjKfsWv052j1F5qQ1BJvq) | 3:38 |
 | 26 | [Kimosabè](https://open.spotify.com/track/06oSt0nOjewappkOBrsFME) | [DOPE LEMON](https://open.spotify.com/artist/7oZLKL1GjYiaAgssXsLmW8) | [Kimosabè](https://open.spotify.com/album/3nZq3qWbHwdnTXZsk9DF5K) | 4:36 |
 | 27 | [I Think I Lost My Number Can I Have Yours?](https://open.spotify.com/track/7sm7RkEXLx4IFvvbw8h5rC) | [milk.](https://open.spotify.com/artist/2Sf3JoQvmbE3hi7hfwzofq) | [I Think I Lost My Number Can I Have Yours?](https://open.spotify.com/album/4b0zKPaz51p8EgPHksKoAn) | 3:28 |
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX889U0CL85jj.md) - [plain]
 | 149 | [No Men's Drive](https://open.spotify.com/track/4fNp0E73dcIDJCUeodd2Ar) | [Mihail](https://open.spotify.com/artist/6l5kIaZ51iCClkxrgr904F) | [To Whom We Return](https://open.spotify.com/album/7lFXTVyHJRfoAscycletMe) | 3:31 |
 | 150 | [In The Rear View](https://open.spotify.com/track/4kgXwktpr7IqnhPo84v6ul) | [Unknown Mortal Orchestra](https://open.spotify.com/artist/1LeVJ5GPeYDOVUjxx1y7Rp) | [V](https://open.spotify.com/album/1epwNzmWdqkBQQZpTa8KJD) | 4:04 |
 
-Snapshot ID: `MCw0M2NiYjFhOWJlZDFkZDU5NTFlNWRkNWE1MmMzNzlhMTAxZDY1ZDU5`
+Snapshot ID: `MCxmYzNkNTE4OGVlZGNhODQzMzJkYmM1ODc3MDI4ZDU0YzVlMzcxZjA2`

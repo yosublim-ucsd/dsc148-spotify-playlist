@@ -1450,7 +1450,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-21",
       "duration_ms": 131111,
       "name": "Algu\u00e9m Conseguiu Entender?",
       "url": "https://open.spotify.com/track/2CqTUaPznDgIQEDS9pSlcX"
@@ -13332,6 +13332,10 @@
           "url": "https://open.spotify.com/artist/6XX6KGpomRDPmGGm7bofCK"
         },
         {
+          "name": "DJ Oreia",
+          "url": "https://open.spotify.com/artist/1b8S7EPzdckRyIh0uSbOMI"
+        },
+        {
           "name": "Gabb MC",
           "url": "https://open.spotify.com/artist/5qyPbwqvOEp7FvR1EeTQQ2"
         },
@@ -15018,6 +15022,24 @@
       "duration_ms": 214832,
       "name": "Guardanapo",
       "url": "https://open.spotify.com/track/12RFg10vyL2N7EwTbytJrL"
+    },
+    {
+      "album": {
+        "name": "gugu, bb",
+        "url": "https://open.spotify.com/album/6SKzMcbmUOMQVcGXeqiTQ3"
+      },
+      "artists": [
+        {
+          "name": "goshaaboy",
+          "url": "https://open.spotify.com/artist/4T3fmyT9O6EqmCEN1T6pzc"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 110846,
+      "name": "gugu, bb",
+      "url": "https://open.spotify.com/track/5UDBj8YNqryb0AwQJt9Tci"
     },
     {
       "album": {
@@ -20378,6 +20400,28 @@
       "duration_ms": 126922,
       "name": "Mega Ela Me Mamou Com Bala Halls",
       "url": "https://open.spotify.com/track/6HJxvOdJgIWqVbMq1hhOmU"
+    },
+    {
+      "album": {
+        "name": "MEGA FUNK LOST",
+        "url": "https://open.spotify.com/album/5QuEEXjrT3chFSBnsRlsCS"
+      },
+      "artists": [
+        {
+          "name": "DJ Maninho",
+          "url": "https://open.spotify.com/artist/4XZR4NawJ2XBNzaINpqrI5"
+        },
+        {
+          "name": "DJ Dudu",
+          "url": "https://open.spotify.com/artist/2kge0I5DHgUgkmFXRey3iw"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161304,
+      "name": "MEGA FUNK LOST",
+      "url": "https://open.spotify.com/track/4kF6c7oMaNnkTlVTPvpipy"
     },
     {
       "album": {
@@ -30534,7 +30578,7 @@
       ],
       "date_added": "2023-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-21",
       "duration_ms": 384000,
       "name": "SET MC Kauan",
       "url": "https://open.spotify.com/track/4bRU8vV1N9cEkxPQW1XPau"

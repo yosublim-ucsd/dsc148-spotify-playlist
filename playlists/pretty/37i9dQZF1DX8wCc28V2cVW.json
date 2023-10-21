@@ -1,12 +1,12 @@
 {
   "description": "Be the first to hear the FINAL FANTASY XVI soundtrack and stay tuned for the  upcoming theme song. \u6700\u65b0\u4f5c\u300eFFXVI\u300f\u3092\u306f\u3058\u3081\u3068\u3059\u308b\u30d5\u30a1\u30a4\u30ca\u30eb\u30d5\u30a1\u30f3\u30bf\u30b8\u30fc\u306e\u73e0\u7389\u306e\u540d\u66f2\u96c6\u3002\u30c6\u30fc\u30de\u30bd\u30f3\u30b0\u3001\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af\u306e\u8ffd\u52a0\u3092\u304a\u5f85\u3061\u304f\u3060\u3055\u3044\u3002\u00a92019 SQUARE ENIX CO., LTD. All Rights Reserved.",
-  "num_followers": 180864,
+  "num_followers": 180908,
   "original_name": "FINAL FANTASY",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3MmI4MzZkZDFjM2YwY2RmMjM1OWNlZWUzOGJiMjdmNDI4M2VmOGU4",
+  "snapshot_id": "MCxhODY3ZWYzODRkYTI2MmMxYTRhNmExODkwZjZiMWM2OGEwNDRhN2M2",
   "tracks": [
     {
       "added_at": "2023-07-06 04:37:32",
@@ -975,22 +975,6 @@
     {
       "added_at": "2023-07-06 04:37:32",
       "album": {
-        "name": "FINAL FANTASY XIII-2 Original Soundtrack",
-        "url": "https://open.spotify.com/album/3VV4BLl2Eik6xVyHXlDjLK"
-      },
-      "artists": [
-        {
-          "name": "Naoshi Mizuta",
-          "url": "https://open.spotify.com/artist/7EcpyneWBtxsJ9dyYrFrZe"
-        }
-      ],
-      "duration_ms": 234893,
-      "name": "Full Speed Ahead",
-      "url": "https://open.spotify.com/track/5wPrzT7xRJ0RPw5Hlje4b1"
-    },
-    {
-      "added_at": "2023-07-06 04:37:32",
-      "album": {
         "name": "FINAL FANTASY XV Original Soundtrack (Volume 2\u30101/2\u3011)",
         "url": "https://open.spotify.com/album/1gg0RWUiWUCWnaxAi9W237"
       },
@@ -1003,6 +987,22 @@
       "duration_ms": 64599,
       "name": "My Life to Live",
       "url": "https://open.spotify.com/track/4CkP7nDkSq5F14mIUy4dva"
+    },
+    {
+      "added_at": "2023-07-06 04:37:32",
+      "album": {
+        "name": "FINAL FANTASY XIII-2 Original Soundtrack",
+        "url": "https://open.spotify.com/album/3VV4BLl2Eik6xVyHXlDjLK"
+      },
+      "artists": [
+        {
+          "name": "Naoshi Mizuta",
+          "url": "https://open.spotify.com/artist/7EcpyneWBtxsJ9dyYrFrZe"
+        }
+      ],
+      "duration_ms": 234893,
+      "name": "Full Speed Ahead",
+      "url": "https://open.spotify.com/track/5wPrzT7xRJ0RPw5Hlje4b1"
     },
     {
       "added_at": "2023-07-06 04:37:32",
@@ -1103,22 +1103,6 @@
     {
       "added_at": "2023-07-06 04:37:32",
       "album": {
-        "name": "LIGHTNING RETURNS:FINAL FANTASY XIII ORIGINAL SOUNDTRACK",
-        "url": "https://open.spotify.com/album/5AAlUHdWLoL1ih4vroqWSI"
-      },
-      "artists": [
-        {
-          "name": "Naoshi Mizuta",
-          "url": "https://open.spotify.com/artist/7EcpyneWBtxsJ9dyYrFrZe"
-        }
-      ],
-      "duration_ms": 343320,
-      "name": "Sunset Path",
-      "url": "https://open.spotify.com/track/75NI6pNNvOvpeb8SsBkedd"
-    },
-    {
-      "added_at": "2023-07-06 04:37:32",
-      "album": {
         "name": "FINAL FANTASY VII REMAKE Original Soundtrack",
         "url": "https://open.spotify.com/album/2ufkFJsK2Hh2ZdmgrRmCv3"
       },
@@ -1131,6 +1115,22 @@
       "duration_ms": 530733,
       "name": "FFVII REMAKE: \u30d8\u30ea\u30ac\u30f3\u30ca\u30fc (The Valkyrie)",
       "url": "https://open.spotify.com/track/31HTwiSRqOjVQ7GY9GViFj"
+    },
+    {
+      "added_at": "2023-07-06 04:37:32",
+      "album": {
+        "name": "LIGHTNING RETURNS:FINAL FANTASY XIII ORIGINAL SOUNDTRACK",
+        "url": "https://open.spotify.com/album/5AAlUHdWLoL1ih4vroqWSI"
+      },
+      "artists": [
+        {
+          "name": "Naoshi Mizuta",
+          "url": "https://open.spotify.com/artist/7EcpyneWBtxsJ9dyYrFrZe"
+        }
+      ],
+      "duration_ms": 343320,
+      "name": "Sunset Path",
+      "url": "https://open.spotify.com/track/75NI6pNNvOvpeb8SsBkedd"
     },
     {
       "added_at": "2023-07-06 04:37:32",
@@ -1167,18 +1167,26 @@
     {
       "added_at": "2023-07-06 04:37:32",
       "album": {
-        "name": "FINAL FANTASY TACTICS Original Soundtrack",
-        "url": "https://open.spotify.com/album/2ocBMg8FH8M91wOHMf2cKc"
+        "name": "FINAL FANTASY VII REMAKE Original Soundtrack",
+        "url": "https://open.spotify.com/album/2ufkFJsK2Hh2ZdmgrRmCv3"
       },
       "artists": [
         {
-          "name": "Masaharu Iwata",
-          "url": "https://open.spotify.com/artist/44WcmZasHi1s8IIRP9l8b3"
+          "name": "Tsuyoshi Sekito",
+          "url": "https://open.spotify.com/artist/0NTNUSfkUTEAPRcwSyl7a9"
+        },
+        {
+          "name": "\u9234\u6728 \u5149\u4eba",
+          "url": "https://open.spotify.com/artist/0NCvengLgu4uTKTeC7z2Eg"
+        },
+        {
+          "name": "\u571f\u5c90 \u671b",
+          "url": "https://open.spotify.com/artist/1DYPIMSm286DfApyzJmwW2"
         }
       ],
-      "duration_ms": 53666,
-      "name": "World Map",
-      "url": "https://open.spotify.com/track/63oTkgAeAr2FxrKBtIzkL0"
+      "duration_ms": 250573,
+      "name": "FFVII REMAKE: \u30b9\u30ab\u30fc\u30ec\u30c3\u30c8\u306e\u30c6\u30fc\u30de (Scarlet's Theme)",
+      "url": "https://open.spotify.com/track/3tnuyMU0FohoFg77aAghTn"
     },
     {
       "added_at": "2023-07-06 04:37:32",
@@ -1215,18 +1223,18 @@
     {
       "added_at": "2023-07-06 04:37:32",
       "album": {
-        "name": "FINAL FANTASY XI Original Soundtrack",
-        "url": "https://open.spotify.com/album/0tLTkzPj5Hye6VvhBPzYuR"
+        "name": "FINAL FANTASY VII REMAKE Original Soundtrack",
+        "url": "https://open.spotify.com/album/2ufkFJsK2Hh2ZdmgrRmCv3"
       },
       "artists": [
         {
-          "name": "Naoshi Mizuta",
-          "url": "https://open.spotify.com/artist/7EcpyneWBtxsJ9dyYrFrZe"
+          "name": "\u897f\u6728\u5eb7\u667a",
+          "url": "https://open.spotify.com/artist/6wOVIjB5RIWsJ2z3FXyPIt"
         }
       ],
-      "duration_ms": 147466,
-      "name": "Rolanberry Fields",
-      "url": "https://open.spotify.com/track/59P5OAoqxFZfXss9oNrSNH"
+      "duration_ms": 442586,
+      "name": "FFVII REMAKE: \u30b0\u30ed\u30a6\u30ac\u30a4\u30b9\u30c8 (Ghoul)",
+      "url": "https://open.spotify.com/track/5cV4tTVdcgnqfQc19m612K"
     }
   ],
   "unique_name": "FINAL FANTASY",

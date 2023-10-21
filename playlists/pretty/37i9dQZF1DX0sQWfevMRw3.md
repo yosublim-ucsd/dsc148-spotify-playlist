@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0sQWfevMRw3.md) - [plain]
 
 > DANSAR ALDRIG NYKTER!!
 
-[Spotify](https://open.spotify.com/user/spotify) - 149,780 likes - 100 songs - 4 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 149,978 likes - 100 songs - 4 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,7 +49,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0sQWfevMRw3.md) - [plain]
 | 39 | [COUNTRYBRUD](https://open.spotify.com/track/6xCbc6HKvpbuVA3qezMXFs) | [vem e du](https://open.spotify.com/artist/2KBgumo8NAu59C5DwsTBUQ), [Woodie](https://open.spotify.com/artist/0qrmko0TC9xE41TtCejiTx) | [COUNTRYBRUD](https://open.spotify.com/album/1aaIw45Ljv2FBprjgbJGj8) | 2:19 |
 | 40 | [LÄPPGLANS FRÅN DIOR \- EPA SATAN & GRETA TUBORG REMIX](https://open.spotify.com/track/04xFlIdZ0HoKIJQsPQ68Bj) | [vem e du](https://open.spotify.com/artist/2KBgumo8NAu59C5DwsTBUQ), [EPA SATAN](https://open.spotify.com/artist/1Tdt6GDut97A37pO8WFyMA), [Greta Tuborg](https://open.spotify.com/artist/2hRvedA9zoAUee7DvkVZoQ) | [LÄPPGLANS FRÅN DIOR \(EPA SATAN & GRETA TUBORG REMIX\)](https://open.spotify.com/album/0ncmCdtYBNHVyTRcPs4QVI) | 2:20 |
 | 41 | [NÄTTERNA PÅ SMÖGEN](https://open.spotify.com/track/20y6dLrUf6pcyhQ0C0baRx) | [Studavigå](https://open.spotify.com/artist/4dReOlQZoHTfnk2608Gwf6), [Maximus](https://open.spotify.com/artist/7KXt61GtLmrIizwZkpZa5C), [RIK1](https://open.spotify.com/artist/0YnSx8xXces528yeQtNRuz) | [NÄTTERNA PÅ SMÖGEN](https://open.spotify.com/album/0S97r72koBAgUPWmole90S) | 2:34 |
-| 42 | [FLICKOR BAK I BILEN](https://open.spotify.com/track/6l7E7Qe1YjGiAuumtj5R6U) | [Mr DUNK](https://open.spotify.com/artist/1JU1mufjlVqdr9iu5at4qt), [AiA](https://open.spotify.com/artist/6lap2ODdZ64eWxp9aIM6vI) | [FLICKOR BAK I BILEN](https://open.spotify.com/album/21BxTgtthTPefP1e7gXVtV) | 2:13 |
+| 42 | [FLICKOR BAK I BILEN](https://open.spotify.com/track/6l7E7Qe1YjGiAuumtj5R6U) | [Mr DUNK](https://open.spotify.com/artist/1JU1mufjlVqdr9iu5at4qt), [AiA](https://open.spotify.com/artist/10CqxrG6uGQyRqIj8x7oxB) | [FLICKOR BAK I BILEN](https://open.spotify.com/album/21BxTgtthTPefP1e7gXVtV) | 2:13 |
 | 43 | [Välkommen in](https://open.spotify.com/track/0U27rCNgFuBlk9WwRyClOp) | [Dolores](https://open.spotify.com/artist/4qyhURA0g9oibogcNPMZaP) | [Välkommen in](https://open.spotify.com/album/7Hf4qCMoZANvgHCbVlkNPd) | 1:52 |
 | 44 | [RAGGARHIMLEN](https://open.spotify.com/track/0MN7D4GKZjeGrsxbiW1z7J) | [Halva Priset](https://open.spotify.com/artist/05XcYmdt6oIP0URKWYnyWk), [Rasmus Gozzi](https://open.spotify.com/artist/3loTvAld5Tpk5aSNbboGpj), [FRÖKEN SNUSK](https://open.spotify.com/artist/6RjsbK9T7d1UQD1PFEYYGt) | [RAGGARHIMLEN](https://open.spotify.com/album/2TZaRMvxwjuvUZfroPmNpm) | 2:35 |
 | 45 | [En riktig Volvo EPA \- DJ Grillvante Remix](https://open.spotify.com/track/42ywLpSbvcjtipQGSR1KGS) | [Larz\-Kristerz](https://open.spotify.com/artist/17KXKtZXlDTWr7lHCsnNQ3) | [Landsvägsserenader](https://open.spotify.com/album/2saRKmaDdrDwo94tvvtERL) | 3:12 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0sQWfevMRw3.md) - [plain]
 | 99 | [FUCKED UP \- Hansell Remix](https://open.spotify.com/track/60S5aC7jL01SqODVWDhBWO) | [Raggarligan](https://open.spotify.com/artist/6uljULAp34CZrrwTVhImVH), [Hansell](https://open.spotify.com/artist/3Ee7c4D7yYLLub3zKe5j7J) | [FUCKED UP \(Hansell Remix\)](https://open.spotify.com/album/4iNEU8AqrNa1dDYKcnp8o8) | 1:50 |
 | 100 | [Ikväll Igen](https://open.spotify.com/track/4o5Ob60pz8QHcFKcr4MWyf) | [Bolaget](https://open.spotify.com/artist/55ZGFvikpNjQHvtTWS5aZF) | [Ikväll Igen](https://open.spotify.com/album/1ivEkyr50tSXBwwZ8z7E32) | 2:17 |
 
-Snapshot ID: `MCw0YjE4NTQ3OTkzODI1MjdkYjRjOTliNTY1OGJhN2U4ZTc4ZmIyOWI4`
+Snapshot ID: `MCxlYWU3MDg0NTUyODM2ZjhiMzIxYjcwYTNmYWEzNWMyNDJiM2RjMDQ1`

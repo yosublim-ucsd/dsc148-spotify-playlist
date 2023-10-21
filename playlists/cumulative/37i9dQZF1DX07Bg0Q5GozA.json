@@ -411,6 +411,24 @@
     },
     {
       "album": {
+        "name": "Allein",
+        "url": "https://open.spotify.com/album/3A8FdEiLZg5X2fFR0CxYWz"
+      },
+      "artists": [
+        {
+          "name": "J\u00fcrgen Paape",
+          "url": "https://open.spotify.com/artist/51qSeH9HimuYMMQ7qbWGrk"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 302020,
+      "name": "Allein in Italien",
+      "url": "https://open.spotify.com/track/716ROf2GNn9IdO7EwQYaOT"
+    },
+    {
+      "album": {
         "name": "Hermetica",
         "url": "https://open.spotify.com/album/7hpMuiN4TsnHWqqndo6IMK"
       },
@@ -6434,7 +6452,7 @@
       ],
       "date_added": "2023-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-21",
       "duration_ms": 178604,
       "name": "Ocean",
       "url": "https://open.spotify.com/track/3sQuubMtc3VraP4lEbrJ8j"

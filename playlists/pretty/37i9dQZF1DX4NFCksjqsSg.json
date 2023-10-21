@@ -1,12 +1,12 @@
 {
   "description": "Pas mal \"tes tounes de karaok\u00e9 pr\u00e9f\u00e9r\u00e9es\".",
-  "num_followers": 27567,
+  "num_followers": 27574,
   "original_name": "Fromage",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkMmVhYmRjMDA0NjJhMTNiMDljZDE1Njk0YjhhYmVkMTY3ODQ4OWRi",
+  "snapshot_id": "MCw1ZDgxOGI5YWIzODc3ZGFhNDk2ZTE2MTc0YWY0NGE1ODE1Y2M4NTYz",
   "tracks": [
     {
       "added_at": "2020-04-07 15:18:18",
@@ -323,7 +323,7 @@
     {
       "added_at": "2020-04-07 15:18:18",
       "album": {
-        "name": "Aime-Moi",
+        "name": "Aime-moi",
         "url": "https://open.spotify.com/album/1q8MKSc8nUG1OvCieROWV9"
       },
       "artists": [
@@ -923,22 +923,6 @@
     {
       "added_at": "2020-04-07 15:18:18",
       "album": {
-        "name": "Coffret 2CD-3",
-        "url": "https://open.spotify.com/album/04E38Naw2fZK4wHwev6gzm"
-      },
-      "artists": [
-        {
-          "name": "Michel Sardou",
-          "url": "https://open.spotify.com/artist/0krCd0zVANPv9ryri4T0TO"
-        }
-      ],
-      "duration_ms": 327200,
-      "name": "Je vais t'aimer",
-      "url": "https://open.spotify.com/track/7CLGJ43kUYypc1t3nVZ7jD"
-    },
-    {
-      "added_at": "2020-04-07 15:18:18",
-      "album": {
         "name": "35th Anniversary Collection",
         "url": "https://open.spotify.com/album/2YViwEGMIRU0HonwnkgTEE"
       },
@@ -951,6 +935,22 @@
       "duration_ms": 263786,
       "name": "Echapp\u00e9 belle - 2008 Digital Remaster",
       "url": "https://open.spotify.com/track/4SUoJetaqEiKRyiEh2HQG5"
+    },
+    {
+      "added_at": "2020-04-07 15:18:18",
+      "album": {
+        "name": "Coffret 2CD-3",
+        "url": "https://open.spotify.com/album/04E38Naw2fZK4wHwev6gzm"
+      },
+      "artists": [
+        {
+          "name": "Michel Sardou",
+          "url": "https://open.spotify.com/artist/0krCd0zVANPv9ryri4T0TO"
+        }
+      ],
+      "duration_ms": 327200,
+      "name": "Je vais t'aimer",
+      "url": "https://open.spotify.com/track/7CLGJ43kUYypc1t3nVZ7jD"
     },
     {
       "added_at": "2020-04-07 15:18:18",
@@ -1147,22 +1147,6 @@
     {
       "added_at": "2020-04-07 15:18:18",
       "album": {
-        "name": "Double",
-        "url": "https://open.spotify.com/album/6VCmNN4nO6kih1EIVlXfqL"
-      },
-      "artists": [
-        {
-          "name": "Roch Voisine",
-          "url": "https://open.spotify.com/artist/77xlFule9mFzOWT9Uk80xY"
-        }
-      ],
-      "duration_ms": 244933,
-      "name": "La berceuse du petit diable",
-      "url": "https://open.spotify.com/track/5HHgYm26FMwm6bpDrZuHcz"
-    },
-    {
-      "added_at": "2020-04-07 15:18:18",
-      "album": {
         "name": "La Collection",
         "url": "https://open.spotify.com/album/2pq3KQJYOgxpyQo27Bg0rX"
       },
@@ -1175,6 +1159,22 @@
       "duration_ms": 226013,
       "name": "Bye Bye Mon Cowboy - Original Version",
       "url": "https://open.spotify.com/track/1J9by690rO1VvQGrliaR0J"
+    },
+    {
+      "added_at": "2020-04-07 15:18:18",
+      "album": {
+        "name": "Double",
+        "url": "https://open.spotify.com/album/6VCmNN4nO6kih1EIVlXfqL"
+      },
+      "artists": [
+        {
+          "name": "Roch Voisine",
+          "url": "https://open.spotify.com/artist/77xlFule9mFzOWT9Uk80xY"
+        }
+      ],
+      "duration_ms": 244933,
+      "name": "La berceuse du petit diable",
+      "url": "https://open.spotify.com/track/5HHgYm26FMwm6bpDrZuHcz"
     },
     {
       "added_at": "2020-04-07 15:18:18",

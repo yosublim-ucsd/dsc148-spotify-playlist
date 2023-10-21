@@ -4,7 +4,7 @@
 
 > 
 
-244 songs - 11 hr 43 min
+245 songs - 11 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,6 +20,7 @@
 | [Allting](https://open.spotify.com/track/3RcOF4HdKHLqFrG0h9Fjcj) | [Spader Kung](https://open.spotify.com/artist/2mEFbDp6rw4nL1p3RRGZ6t) | [Allting](https://open.spotify.com/album/4TeP1PFOOZ9piaT5K1n6jk) | 3:26 | 2021-12-14 | 2022-07-04 |
 | [Amelia](https://open.spotify.com/track/4u3SRmpI2DEbuOZuejog83) | [Barbaras Grannar](https://open.spotify.com/artist/35ySzAXjdrvkFBPKNUBu1u) | [Amelia](https://open.spotify.com/album/4WR5DkdrAaD5okww70B1xY) | 4:11 | 2021-12-14 |  |
 | [Amelia](https://open.spotify.com/track/68XM4VDEjPlRwGveY3XRxd) | [Barbaras Grannar](https://open.spotify.com/artist/35ySzAXjdrvkFBPKNUBu1u) | [Amelia](https://open.spotify.com/album/41P1L8IxaiFsvfwCbVJTbY) | 4:11 | 2021-12-14 | 2022-07-29 |
+| [Anarki](https://open.spotify.com/track/53xCrPCHE7Rzree333H8UY) | [Klart Sämst](https://open.spotify.com/artist/0QiURAGUO0t3lg7H61VEcS) | [Sveriges sämsta dansband, kanske](https://open.spotify.com/album/2IGuo4VqaBNesfvBtYYkR4) | 2:20 | 2023-10-20 |  |
 | [Andrahandssorteringen](https://open.spotify.com/track/5UwgoIA4wVNZSO1Cs3dYCB) | [Kardinal Synd](https://open.spotify.com/artist/32KVyD0F48q3QNpSET788O) | [Andrahandssorteringen](https://open.spotify.com/album/4d7oAZlPz2hhqb7tDszFhO) | 3:18 | 2021-12-14 | 2022-07-27 |
 | [Apornas planet](https://open.spotify.com/track/6aljPke2KUxTQa8NgPHQI1) | [Mimikry](https://open.spotify.com/artist/0LQT5piMqjwpMkchYLfDxv) | [Visar vägen](https://open.spotify.com/album/3uf8YWyGgdJRJXh5olLWO1) | 3:26 | 2021-12-14 | 2022-07-17 |
 | [Arbetslös](https://open.spotify.com/track/4FCcmoFT4MuVX2HKLEx97U) | [VÄNSTERNÄVEN](https://open.spotify.com/artist/4cOYuFklSQ8HBFFpP7UPMl) | [Välkommen hit](https://open.spotify.com/album/7nZz1v6015OUHDxXK7CrAu) | 1:30 | 2021-12-14 | 2022-07-29 |
@@ -232,7 +233,7 @@
 | [Var en man](https://open.spotify.com/track/5Hfi7rpsoiK51gSqRUvfYN) | [Kardinal Synd](https://open.spotify.com/artist/32KVyD0F48q3QNpSET788O) | [Andrahandssorteringen](https://open.spotify.com/album/4d7oAZlPz2hhqb7tDszFhO) | 2:53 | 2021-12-14 | 2022-07-28 |
 | [Varje ensam natt](https://open.spotify.com/track/08PsVeAcmLKotmovg8ZADv) | [Hurula](https://open.spotify.com/artist/5haVwjDd8z1dsR0uQewwoP) | [Varje ensam natt](https://open.spotify.com/album/0JSfu5YQErdJflzgob8S3y) | 3:24 | 2021-12-14 |  |
 | [Varje ensam natt](https://open.spotify.com/track/0R5rlEIIGLsvBzDZSqlKOr) | [Hurula](https://open.spotify.com/artist/5haVwjDd8z1dsR0uQewwoP) | [Varje ensam natt](https://open.spotify.com/album/5r6qxnbzGq9k8TlPanAN6p) | 3:24 | 2021-12-14 | 2022-07-27 |
-| [Vägra](https://open.spotify.com/track/1xKkbE6TAk0fw982WRofnl) | [Borgerlig Begravning](https://open.spotify.com/artist/58oxi3Ei1SHkiWTZ1DP33q) | [Borgerlig begravning](https://open.spotify.com/album/7CrfHrApj1K5LpjSyiSUYH) | 2:01 | 2021-12-14 |  |
+| [Vägra](https://open.spotify.com/track/1xKkbE6TAk0fw982WRofnl) | [Borgerlig Begravning](https://open.spotify.com/artist/58oxi3Ei1SHkiWTZ1DP33q) | [Borgerlig begravning](https://open.spotify.com/album/7CrfHrApj1K5LpjSyiSUYH) | 2:01 | 2021-12-14 | 2023-10-21 |
 | [Vem sätter märket](https://open.spotify.com/track/6n6bwxNTBMhqzxlDcK6Gm7) | [Lastkaj 14](https://open.spotify.com/artist/6xTo3T8agKHb56mxJA3yJI) | [Vem sätter märket](https://open.spotify.com/album/0wK3Dh1UY6XVZOfhUvR6GF) | 3:10 | 2021-12-14 | 2022-11-13 |
 | [Vem Vågar Tro](https://open.spotify.com/track/5VAz683ouGZsuROud0rl44) | [Skumdum](https://open.spotify.com/artist/5s6MpxYo0TqzCuNIqVIRFS) | [Demons From The Past](https://open.spotify.com/album/6L76NkyJbhwhLLzFTQ36JU) | 3:03 | 2021-12-14 | 2022-07-17 |
 | [Vill inte va med](https://open.spotify.com/track/2i2sGdp41DUMH3VxUS6Zu9) | [Asta Kask](https://open.spotify.com/artist/5rGLwYZPJr2rUTiDk5JoWX) | [En För Alla Ingen För Nån](https://open.spotify.com/album/1XBQpz8taiwH4zGAalBDQf) | 2:49 | 2021-12-14 | 2022-07-29 |

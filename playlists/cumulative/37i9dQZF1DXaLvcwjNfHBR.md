@@ -2,7 +2,7 @@
 
 ### [Breaking Hits](https://open.spotify.com/playlist/37i9dQZF1DXaLvcwjNfHBR)
 
-> Your new favourite songs! Cover: Sam Smith + Charli XCX
+> Your new favourite songs! Cover: Charli XCX
 
 245 songs - 13 hr 10 min
 

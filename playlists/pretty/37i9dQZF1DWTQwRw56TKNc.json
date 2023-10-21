@@ -1,12 +1,12 @@
 {
   "description": "Relax with these timeless tunes. Cover: Yusuf / Cat Stevens",
-  "num_followers": 701494,
+  "num_followers": 702051,
   "original_name": "Mellow Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkMDYxYjMwZDg3YjMwNDBlNDY2MmRkMDc0NjA4MmZlMjUyMTMzZmUw",
+  "snapshot_id": "MCwwOGMwNjZmOWIwZDhmZWVlODk3ZDFlNWQwNWQyMDZiYjE1YWU1MWZl",
   "tracks": [
     {
       "added_at": "2023-05-31 15:02:03",
@@ -57,6 +57,22 @@
       "url": "https://open.spotify.com/track/1ne9wOtDF2jM6Cm8WBkaER"
     },
     {
+      "added_at": "2023-10-20 04:00:00",
+      "album": {
+        "name": "If You Could Read My Mind",
+        "url": "https://open.spotify.com/album/6bzqUICBtzct7TiQC8if9s"
+      },
+      "artists": [
+        {
+          "name": "Gordon Lightfoot",
+          "url": "https://open.spotify.com/artist/23rleGXVOVVgTk3xgtmfE4"
+        }
+      ],
+      "duration_ms": 228840,
+      "name": "If You Could Read My Mind",
+      "url": "https://open.spotify.com/track/57ct8jKi6trntXiRV0NnXi"
+    },
+    {
       "added_at": "2022-02-28 20:05:01",
       "album": {
         "name": "Hot Rocks (1964-1971)",
@@ -87,6 +103,22 @@
       "duration_ms": 257532,
       "name": "Lean on Me",
       "url": "https://open.spotify.com/track/5zCJvrT3C7cIfHsR5iG95l"
+    },
+    {
+      "added_at": "2023-10-20 04:00:00",
+      "album": {
+        "name": "Between the Lines (Remastered)",
+        "url": "https://open.spotify.com/album/6RjDm4cjV3MFndKrpLUxpO"
+      },
+      "artists": [
+        {
+          "name": "Janis Ian",
+          "url": "https://open.spotify.com/artist/5c9uFWpZY2MTlk7Rft0tgp"
+        }
+      ],
+      "duration_ms": 283880,
+      "name": "At Seventeen - Remastered",
+      "url": "https://open.spotify.com/track/7wJpqjqk8QbHpCakY1ZacY"
     },
     {
       "added_at": "2021-09-30 19:02:03",
@@ -249,6 +281,22 @@
       "url": "https://open.spotify.com/track/2Pr1nZpt8A8WP7QYpyq6L3"
     },
     {
+      "added_at": "2023-10-20 04:00:00",
+      "album": {
+        "name": "Phoebe Snow",
+        "url": "https://open.spotify.com/album/2WmtJRhLcDH9u6RPg65eHl"
+      },
+      "artists": [
+        {
+          "name": "Phoebe Snow",
+          "url": "https://open.spotify.com/artist/3iuobQyYhofKRr5W6HZoKt"
+        }
+      ],
+      "duration_ms": 278800,
+      "name": "Poetry Man",
+      "url": "https://open.spotify.com/track/5uhULfoDgTvz7BeWlqrV4a"
+    },
+    {
       "added_at": "2021-09-30 19:02:03",
       "album": {
         "name": "The Voice of Scott McKenzie (Expanded Edition)",
@@ -311,6 +359,22 @@
       "duration_ms": 155880,
       "name": "I'm On Fire",
       "url": "https://open.spotify.com/track/3PzsbWSQdLCKDLxn7YZfkM"
+    },
+    {
+      "added_at": "2023-10-20 04:00:00",
+      "album": {
+        "name": "Balm in Gilead",
+        "url": "https://open.spotify.com/album/186z0bI30XmfmtdXuMI51e"
+      },
+      "artists": [
+        {
+          "name": "Rickie Lee Jones",
+          "url": "https://open.spotify.com/artist/0dYkMe3wK29DulSa0uR8Rq"
+        }
+      ],
+      "duration_ms": 180493,
+      "name": "The Moon Is Made of Gold",
+      "url": "https://open.spotify.com/track/5zBtJauGTfVNkfcpAtKqOi"
     },
     {
       "added_at": "2021-09-30 19:02:03",
@@ -432,8 +496,8 @@
       },
       "artists": [
         {
-          "name": "Eagles",
-          "url": "https://open.spotify.com/artist/0ECwFtbIWEVNwjlrfc6xoL"
+          "name": "Aquilae",
+          "url": "https://open.spotify.com/artist/6mma1Dcg0UArJVyFxjtenB"
         }
       ],
       "duration_ms": 287090,
@@ -1003,22 +1067,6 @@
     {
       "added_at": "2021-09-30 19:02:03",
       "album": {
-        "name": "Blood On The Tracks",
-        "url": "https://open.spotify.com/album/4WD4pslu83FF6oMa1e19mF"
-      },
-      "artists": [
-        {
-          "name": "Bob Dylan",
-          "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
-        }
-      ],
-      "duration_ms": 341626,
-      "name": "Tangled up in Blue",
-      "url": "https://open.spotify.com/track/6Vcwr9tb3ZLO63F8DL8cqu"
-    },
-    {
-      "added_at": "2021-09-30 19:02:03",
-      "album": {
         "name": "Love Songs",
         "url": "https://open.spotify.com/album/2HBiEHyRhKl6dxWBKQpxID"
       },
@@ -1115,22 +1163,6 @@
     {
       "added_at": "2021-09-30 19:02:03",
       "album": {
-        "name": "The Times They Are A-Changin'",
-        "url": "https://open.spotify.com/album/7DZeLXvr9eTVpyI1OlqtcS"
-      },
-      "artists": [
-        {
-          "name": "Bob Dylan",
-          "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
-        }
-      ],
-      "duration_ms": 192053,
-      "name": "The Times They Are A-Changin'",
-      "url": "https://open.spotify.com/track/52vA3CYKZqZVdQnzRrdZt6"
-    },
-    {
-      "added_at": "2021-09-30 19:02:03",
-      "album": {
         "name": "Seals & Crofts' Greatest Hits",
         "url": "https://open.spotify.com/album/4dkdQY484elFRfcVNY6uzj"
       },
@@ -1143,22 +1175,6 @@
       "duration_ms": 254253,
       "name": "We May Never Pass This Way (Again)",
       "url": "https://open.spotify.com/track/7H25ehG6xvB8K2ltLhbRJP"
-    },
-    {
-      "added_at": "2021-09-30 19:02:03",
-      "album": {
-        "name": "River Of Dreams",
-        "url": "https://open.spotify.com/album/4HPnwQJAEvTY910q4RNeOu"
-      },
-      "artists": [
-        {
-          "name": "Billy Joel",
-          "url": "https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e"
-        }
-      ],
-      "duration_ms": 214400,
-      "name": "Lullabye (Goodnight, My Angel)",
-      "url": "https://open.spotify.com/track/4cURHmiuYii52BVbhrGbv0"
     },
     {
       "added_at": "2021-09-30 19:02:03",
@@ -1271,22 +1287,6 @@
       "duration_ms": 163360,
       "name": "People Get Ready",
       "url": "https://open.spotify.com/track/6AeG6jSoAVbmUFO6LyYmBf"
-    },
-    {
-      "added_at": "2021-09-30 19:02:03",
-      "album": {
-        "name": "Late for the Sky (Remastered)",
-        "url": "https://open.spotify.com/album/0aiTqo8YZI0dKDgcCnkkzP"
-      },
-      "artists": [
-        {
-          "name": "Jackson Browne",
-          "url": "https://open.spotify.com/artist/5lkiCO9UQ8B23dZ1o0UV4m"
-        }
-      ],
-      "duration_ms": 341690,
-      "name": "Late for the Sky - Remastered",
-      "url": "https://open.spotify.com/track/2WCoRl4kKbaZ6oGN6KD4HQ"
     },
     {
       "added_at": "2021-09-30 19:02:03",

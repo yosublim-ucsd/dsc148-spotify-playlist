@@ -3101,6 +3101,36 @@
     },
     {
       "album": {
+        "name": "Cheppava (From \"12th Fail\")",
+        "url": "https://open.spotify.com/album/21zfWV7r7NeZuBuaaucrUS"
+      },
+      "artists": [
+        {
+          "name": "Deepthi Suresh",
+          "url": "https://open.spotify.com/artist/4PY2xnTu90K0hvkgcljRJl"
+        },
+        {
+          "name": "S.P. Abhishek",
+          "url": "https://open.spotify.com/artist/0mT8jQ7Apit18Ny3xJ7r9g"
+        },
+        {
+          "name": "Shantanu Moitra",
+          "url": "https://open.spotify.com/artist/6hpDlOvqsnIxrPegGTWVY1"
+        },
+        {
+          "name": "Suresh Banisetty",
+          "url": "https://open.spotify.com/artist/6NuYXblq1QZ2PdAyP9Y9fF"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 305684,
+      "name": "Cheppava (From \"12th Fail\")",
+      "url": "https://open.spotify.com/track/2eaimnpsv7vegdFnqi9egj"
+    },
+    {
+      "album": {
         "name": "Paper Rocket (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/3lwB5hBZ2xVKPPxeDC3kVT"
       },
@@ -5362,6 +5392,32 @@
       "duration_ms": 168227,
       "name": "Fun Damaka (From \"Enaku Endey Kidaiyaathu\")",
       "url": "https://open.spotify.com/track/4oLyCPCDwJ0i7HghQ3t8Hg"
+    },
+    {
+      "album": {
+        "name": "Fun Maaro (From \"Sila Nodigalil\")",
+        "url": "https://open.spotify.com/album/2QxJ4SyMtFV4ck84ZLxdZs"
+      },
+      "artists": [
+        {
+          "name": "Varun Sunil",
+          "url": "https://open.spotify.com/artist/11JZ5lV4TLQWy1spUvUcZv"
+        },
+        {
+          "name": "Masala Coffee",
+          "url": "https://open.spotify.com/artist/3w277raenZNQPvrbv1DoMs"
+        },
+        {
+          "name": "Ku Karthik",
+          "url": "https://open.spotify.com/artist/7L5BLP9ezpFtEOas3AR0Ny"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183917,
+      "name": "Fun Maaro (From \"Sila Nodigalil\")",
+      "url": "https://open.spotify.com/track/5sTir10hmU4JTA7MvElsOJ"
     },
     {
       "album": {
@@ -15534,7 +15590,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-21",
       "duration_ms": 252739,
       "name": "Pudichirukka, Ver. 2",
       "url": "https://open.spotify.com/track/4fcCP3uBdXGKiPufrNkMuR"
@@ -16070,7 +16126,7 @@
       ],
       "date_added": "2023-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-21",
       "duration_ms": 243191,
       "name": "Raththam Title Track (From \"Raththam\")",
       "url": "https://open.spotify.com/track/7Beb5hmmY7syIjc37vy71X"
@@ -21734,6 +21790,28 @@
       "duration_ms": 218823,
       "name": "Vikram - Title Track",
       "url": "https://open.spotify.com/track/6FQQiTpYnfc5803p84bQp1"
+    },
+    {
+      "album": {
+        "name": "Villain Yaaru (From \"Leo\")",
+        "url": "https://open.spotify.com/album/0YJkfdRPKdiHurcdrl157z"
+      },
+      "artists": [
+        {
+          "name": "Anirudh Ravichander",
+          "url": "https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O"
+        },
+        {
+          "name": "Shakthisree Gopalan",
+          "url": "https://open.spotify.com/artist/7zAp0JbkavFg2rcMGvANtP"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185801,
+      "name": "Villain Yaaru (From \"Leo\")",
+      "url": "https://open.spotify.com/track/6p8DwAh6wJ7S6jmpyYlBYp"
     },
     {
       "album": {

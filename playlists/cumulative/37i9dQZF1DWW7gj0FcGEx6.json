@@ -417,6 +417,24 @@
     },
     {
       "album": {
+        "name": "Bodies (Soundtrack from the Netflix Series)",
+        "url": "https://open.spotify.com/album/2f8zMjFjHos3kToO2DLsM2"
+      },
+      "artists": [
+        {
+          "name": "Jon Opstad",
+          "url": "https://open.spotify.com/artist/64FMaf8JHBUhmBLcvNJXzp"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 68000,
+      "name": "Bodies Main Title",
+      "url": "https://open.spotify.com/track/3tERZdN36IebQcY1Nutz6N"
+    },
+    {
+      "album": {
         "name": "Synchronic (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/3zUpvlv6hfVwFC1zwtDT6M"
       },

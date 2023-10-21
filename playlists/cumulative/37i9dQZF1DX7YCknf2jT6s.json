@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-01",
-  "description": "New jazz for open minds. Cover: Esperanza Spalding",
+  "description": "New jazz for open minds. Cover: Terrace Martin",
   "name": "State of Jazz",
   "tracks": [
     {
@@ -150,6 +150,36 @@
       "duration_ms": 224346,
       "name": "2021",
       "url": "https://open.spotify.com/track/3CQ2vNvaPDHiVP3D5ldGvx"
+    },
+    {
+      "album": {
+        "name": "50 Years",
+        "url": "https://open.spotify.com/album/2sq05BkgQAE33vGTZ5kLFu"
+      },
+      "artists": [
+        {
+          "name": "Greg Spero",
+          "url": "https://open.spotify.com/artist/0zimAUeLZD9gEVSEgc9RRd"
+        },
+        {
+          "name": "Lindsey Webster",
+          "url": "https://open.spotify.com/artist/3lBD383C0a92MbCRj9dEHZ"
+        },
+        {
+          "name": "Ledaris \"LJ\" Jones",
+          "url": "https://open.spotify.com/artist/24fKdc1YoPQlaqiGZ0F6Wx"
+        },
+        {
+          "name": "Davonte \"Deuce\" Harris",
+          "url": "https://open.spotify.com/artist/7plArfgEJ3wHAeSa4EMojf"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183836,
+      "name": "50 Years",
+      "url": "https://open.spotify.com/track/3Dy0QWzEEKNpduq84nGxia"
     },
     {
       "album": {
@@ -1351,6 +1381,24 @@
     },
     {
       "album": {
+        "name": "Selections from Les Jardins Mystiques Vol.1",
+        "url": "https://open.spotify.com/album/5pPVN3FdmHNMmMKEL7N3gW"
+      },
+      "artists": [
+        {
+          "name": "Miguel Atwood-Ferguson",
+          "url": "https://open.spotify.com/artist/6SlLXvZvYEGnurxBUpUdri"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 752440,
+      "name": "Ano Yo",
+      "url": "https://open.spotify.com/track/6meoOCk11jpUWEs5NiDMjK"
+    },
+    {
+      "album": {
         "name": "Legacy: The Instrumental Jawn",
         "url": "https://open.spotify.com/album/0Ig0qPb8HhVnhM1o5GSAG4"
       },
@@ -1800,6 +1848,24 @@
       "duration_ms": 202019,
       "name": "Astagjol",
       "url": "https://open.spotify.com/track/1gOhMwo22VlzROpoGZLmTW"
+    },
+    {
+      "album": {
+        "name": "AT EASE",
+        "url": "https://open.spotify.com/album/5IaYIRrdDukByGOU3GylvN"
+      },
+      "artists": [
+        {
+          "name": "Moses Yoofee Trio",
+          "url": "https://open.spotify.com/artist/4Jmjucr9inAKcxy64DYNxS"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207812,
+      "name": "AT EASE",
+      "url": "https://open.spotify.com/track/1w8qCPaSGag0pzg9VkbVoj"
     },
     {
       "album": {
@@ -2522,6 +2588,24 @@
       "duration_ms": 380631,
       "name": "Beep Durple",
       "url": "https://open.spotify.com/track/0jpQ9EDSXQUiLyek5i6WYM"
+    },
+    {
+      "album": {
+        "name": "THIS",
+        "url": "https://open.spotify.com/album/64M3TxQcWOTsbX7hEMS7st"
+      },
+      "artists": [
+        {
+          "name": "JD Allen",
+          "url": "https://open.spotify.com/artist/5ACouApJyhZpZ3Eu2DtrlM"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 302624,
+      "name": "Beeyondsay",
+      "url": "https://open.spotify.com/track/7dqmOuvPK13WOqEJ7EthZh"
     },
     {
       "album": {
@@ -3250,6 +3334,24 @@
       "duration_ms": 218880,
       "name": "BLUE GIANT - \u300eBLUE GIANT\u300f\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af\u3088\u308a",
       "url": "https://open.spotify.com/track/1EKIT1QnEWYUlN3h20zZQF"
+    },
+    {
+      "album": {
+        "name": "Vol. 1",
+        "url": "https://open.spotify.com/album/5ogYqVF7SaAZSgdYM9sDba"
+      },
+      "artists": [
+        {
+          "name": "Chris Botti",
+          "url": "https://open.spotify.com/artist/3eFo5fMv53RYZBYlvT5Z6a"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205651,
+      "name": "Blue In Green",
+      "url": "https://open.spotify.com/track/4ODfxzVSPvIJOBs7OIGwvd"
     },
     {
       "album": {
@@ -4348,7 +4450,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-21",
       "duration_ms": 193342,
       "name": "Conga a la Americana",
       "url": "https://open.spotify.com/track/4SdIbOx6RHIYlRRnWCkeiH"
@@ -4442,7 +4544,7 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-23",
+      "date_removed": null,
       "duration_ms": 219999,
       "name": "Coral Way",
       "url": "https://open.spotify.com/track/7e3U7b3CLSxIyMJVUIirai"
@@ -4682,7 +4784,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-21",
       "duration_ms": 268784,
       "name": "D.O.T.S.",
       "url": "https://open.spotify.com/track/7rDKF3YrD0pVIW5CGPP3Ni"
@@ -5094,7 +5196,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-21",
       "duration_ms": 172598,
       "name": "Days to Save",
       "url": "https://open.spotify.com/track/5Z9XL2vGaVftUz5XqHmpoV"
@@ -5234,7 +5336,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-21",
       "duration_ms": 327417,
       "name": "Deluxe Refuge",
       "url": "https://open.spotify.com/track/3fbRtTiwsr5cYyLvVMrWF3"
@@ -6366,7 +6468,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-21",
       "duration_ms": 177906,
       "name": "Envy",
       "url": "https://open.spotify.com/track/6fvjWDduFww2xtnGDvoIqb"
@@ -6989,6 +7091,24 @@
     },
     {
       "album": {
+        "name": "Feed Them To The Machine",
+        "url": "https://open.spotify.com/album/3i3yBICZRJlHUMa3mKReWw"
+      },
+      "artists": [
+        {
+          "name": "Move 78",
+          "url": "https://open.spotify.com/artist/3gmX5TSkgW4iu2dm71QzWr"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177370,
+      "name": "Feed Them To The Machine",
+      "url": "https://open.spotify.com/track/69ttmOIzh9you9xe4whVDj"
+    },
+    {
+      "album": {
         "name": "Feelings",
         "url": "https://open.spotify.com/album/2fhRxWYRzfsTFtePAamCHo"
       },
@@ -7258,7 +7378,7 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-21",
       "duration_ms": 297293,
       "name": "Folksong",
       "url": "https://open.spotify.com/track/1SraTU38cGcQdi0nQngQkO"
@@ -7386,7 +7506,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-21",
       "duration_ms": 280822,
       "name": "Forget me",
       "url": "https://open.spotify.com/track/6ggsDCv63e5mOOwGg3TSke"
@@ -7960,6 +8080,28 @@
       "duration_ms": 253389,
       "name": "Give Me A Reason",
       "url": "https://open.spotify.com/track/3dvGUfs6L9q6AwuAGEaswW"
+    },
+    {
+      "album": {
+        "name": "I Left My Heart In Ladera",
+        "url": "https://open.spotify.com/album/42Y6YSyOePyAXG0QlOJylw"
+      },
+      "artists": [
+        {
+          "name": "Terrace Martin",
+          "url": "https://open.spotify.com/artist/7MNEVabc4cs19CbzAFZmXz"
+        },
+        {
+          "name": "Alex Isley",
+          "url": "https://open.spotify.com/artist/7E2ioKxoxI2J94tUkIx6As"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135189,
+      "name": "Glad I Found You",
+      "url": "https://open.spotify.com/track/2ShpBw0zpxdnclk7gv8eHY"
     },
     {
       "album": {
@@ -10786,7 +10928,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-21",
       "duration_ms": 308160,
       "name": "Kairos (Kefi)",
       "url": "https://open.spotify.com/track/5sQmnjPVFjmK4huKE4Ab4z"
@@ -10860,6 +11002,28 @@
       "duration_ms": 226906,
       "name": "Karibu",
       "url": "https://open.spotify.com/track/7ihRrVAx9UROGsDhheMh8P"
+    },
+    {
+      "album": {
+        "name": "Keep on Moving",
+        "url": "https://open.spotify.com/album/6vq0MMZbQj9clpD5LzPDW5"
+      },
+      "artists": [
+        {
+          "name": "FKAjazz",
+          "url": "https://open.spotify.com/artist/6a9Z8FfjrfedFsKkB8HYIr"
+        },
+        {
+          "name": "Brooke Leialoha",
+          "url": "https://open.spotify.com/artist/3fTehHmTes9L5PnktfOd8i"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168666,
+      "name": "Keep on Moving",
+      "url": "https://open.spotify.com/track/0wC3dtsSFOvRhVHLhPp7sl"
     },
     {
       "album": {
@@ -13989,6 +14153,24 @@
     },
     {
       "album": {
+        "name": "Behind the Tea Chronicles",
+        "url": "https://open.spotify.com/album/2NRg9UqRH3YFWJG7XEwba9"
+      },
+      "artists": [
+        {
+          "name": "Ed Motta",
+          "url": "https://open.spotify.com/artist/19nFjml2GjS4LuL4NrDa7D"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 294777,
+      "name": "Newsroom Customers",
+      "url": "https://open.spotify.com/track/0Wz0QhOSNyRsNsABrQtlrP"
+    },
+    {
+      "album": {
         "name": "Next Stop",
         "url": "https://open.spotify.com/album/5PnsHCt16798AKmngcZMBP"
       },
@@ -14022,7 +14204,7 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-21",
       "duration_ms": 454800,
       "name": "Nice It Up",
       "url": "https://open.spotify.com/track/4gDrNs3PStP2UVt9tKca0F"
@@ -14347,6 +14529,40 @@
     },
     {
       "album": {
+        "name": "Not My King",
+        "url": "https://open.spotify.com/album/1M79E2krDVMxYUy7OHGMYP"
+      },
+      "artists": [
+        {
+          "name": "Chiminyo",
+          "url": "https://open.spotify.com/artist/5Tq4hCIhkaXbgvsJewMJQ4"
+        },
+        {
+          "name": "Wonky Logic",
+          "url": "https://open.spotify.com/artist/34vOyXYbdhtzvcIWTBQkEl"
+        },
+        {
+          "name": "David Mrakpor",
+          "url": "https://open.spotify.com/artist/7JNCmuOVO13j5XNE8s1Bvr"
+        },
+        {
+          "name": "James Mollison",
+          "url": "https://open.spotify.com/artist/5FHf0e5ya34Q4nDr1RbITm"
+        },
+        {
+          "name": "Axel Kaner-Lidstrom",
+          "url": "https://open.spotify.com/artist/0R4jkE6q1364F71jgVku0B"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136776,
+      "name": "Not My King",
+      "url": "https://open.spotify.com/track/5rGMMibA5QXosSfJBW4MPo"
+    },
+    {
+      "album": {
         "name": "NOT TiGHT",
         "url": "https://open.spotify.com/album/6cXQ0dxd2pWCTFhZ8RIg2j"
       },
@@ -14644,7 +14860,7 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-21",
       "duration_ms": 192283,
       "name": "OCEAN",
       "url": "https://open.spotify.com/track/6CJdoJ0Dw0lOISH1sBwvbD"
@@ -18493,6 +18709,28 @@
     },
     {
       "album": {
+        "name": "Sleeper",
+        "url": "https://open.spotify.com/album/49ssk5poFZAKoOJcj7PpsD"
+      },
+      "artists": [
+        {
+          "name": "BADBADNOTGOOD",
+          "url": "https://open.spotify.com/artist/65dGLGjkw3UbddUg2GKQoZ"
+        },
+        {
+          "name": "Charlotte Day Wilson",
+          "url": "https://open.spotify.com/artist/3GQboECxDT1xqPPWC30p7v"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244271,
+      "name": "Sleeper",
+      "url": "https://open.spotify.com/track/5UWJ898JHDe9Ong9Gnkdhd"
+    },
+    {
+      "album": {
         "name": "Slosetta",
         "url": "https://open.spotify.com/album/5KfGEC7FwRFuH07JLwJQhJ"
       },
@@ -19867,6 +20105,32 @@
     },
     {
       "album": {
+        "name": "Discotheques 001",
+        "url": "https://open.spotify.com/album/3v11OGRfUdnN6IGp2tdcAm"
+      },
+      "artists": [
+        {
+          "name": "JaRon Marshall",
+          "url": "https://open.spotify.com/artist/6JwWBoX8tpTGJQ5X8HzSL8"
+        },
+        {
+          "name": "Paul Grant",
+          "url": "https://open.spotify.com/artist/69FGWeFKaCyCjiDU2afEUl"
+        },
+        {
+          "name": "Amahla",
+          "url": "https://open.spotify.com/artist/6IgxRCzTWMElloFPigZXdj"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212194,
+      "name": "Sunseekers",
+      "url": "https://open.spotify.com/track/2hD250ixyqBjvYHpsOOEqG"
+    },
+    {
+      "album": {
         "name": "Sunset Milk Tea",
         "url": "https://open.spotify.com/album/7sBUdKY1vdyGsF1riaUjEB"
       },
@@ -20924,7 +21188,7 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-21",
       "duration_ms": 239024,
       "name": "The Future's Ours",
       "url": "https://open.spotify.com/track/3hRfp5wpRURTzYfuc4lRWQ"
@@ -21888,7 +22152,7 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-21",
       "duration_ms": 388093,
       "name": "The Truth",
       "url": "https://open.spotify.com/track/1SduusBOhgViSC8RmQaMCl"
@@ -23280,7 +23544,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-21",
       "duration_ms": 456114,
       "name": "Valdez Off Crenshaw (feat. Kamasi Washington, Cory Henry & Robert 'Sput' Searight)",
       "url": "https://open.spotify.com/track/21k7x040W2grne2sr7qIip"

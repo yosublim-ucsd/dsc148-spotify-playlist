@@ -1,12 +1,12 @@
 {
   "description": "Chegou a hora de sair da cama e deixar seu dia mais pop! LEVANTA",
-  "num_followers": 585974,
+  "num_followers": 586061,
   "original_name": "Pulando da Cama",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwNGU3NjhjMDBmYzhmYmJjMTI4NWQxNzYzMThjNzkwNWZmOGM3MmZh",
+  "snapshot_id": "MCwyYjMxNGZkNGRiYTRiOTBlNGY5NjU5NjQ3MDQ1NDU1Mjk0N2E4Nzgz",
   "tracks": [
     {
       "added_at": "2023-08-11 03:00:00",
@@ -1027,18 +1027,22 @@
     {
       "added_at": "2023-08-11 03:00:00",
       "album": {
-        "name": "Feel Alive",
-        "url": "https://open.spotify.com/album/3zNr5IOpeOlfhpAHYz4ihP"
+        "name": "Monster",
+        "url": "https://open.spotify.com/album/3yVVL2EYLp8g7gT08VvYKy"
       },
       "artists": [
         {
-          "name": "KAMRAD",
-          "url": "https://open.spotify.com/artist/6zcWVbyNT0z94MBffsTJGP"
+          "name": "Shawn Mendes",
+          "url": "https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr"
+        },
+        {
+          "name": "Justin Bieber",
+          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
         }
       ],
-      "duration_ms": 148116,
-      "name": "Feel Alive",
-      "url": "https://open.spotify.com/track/0tb0RHrF4IpwPJOKYxnxxe"
+      "duration_ms": 178994,
+      "name": "Monster (Shawn Mendes & Justin Bieber)",
+      "url": "https://open.spotify.com/track/2Z8yfpFX0ZMavHkcIeHiO1"
     }
   ],
   "unique_name": "Pulando da Cama",

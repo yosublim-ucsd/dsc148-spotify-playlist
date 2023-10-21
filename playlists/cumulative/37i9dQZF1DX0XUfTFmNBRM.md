@@ -2,9 +2,9 @@
 
 ### [Hot Hits Hindi](https://open.spotify.com/playlist/37i9dQZF1DX0XUfTFmNBRM)
 
-> Hottest Hindi music served here\. Cover \- Jawan
+> Hottest Hindi music served here\. Cover \- Animal
 
-285 songs - 18 hr 59 min
+286 songs - 19 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -96,6 +96,7 @@
 | [Heer Raanjhana \(From "Bachchhan Paandey"\)](https://open.spotify.com/track/4lmtILzOIIvOzMBPMUzvKx) | [Amaal Mallik](https://open.spotify.com/artist/76fuWYgIf3TVIopTs3vaJ6), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw), [Shreya Ghoshal](https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy) | [Heer Raanjhana \(From "Bachchhan Paandey"\)](https://open.spotify.com/album/5y3SQgGGSM3nwRiIsdllq2) | 4:00 | 2022-03-17 | 2023-03-16 |
 | [Heer Ranjha](https://open.spotify.com/track/3wwLWFRLiReDf5AqgmAJwT) | [Rito Riba](https://open.spotify.com/artist/63QHbwCDdJ50C72D4ojeo1), [Rajat Nagpal](https://open.spotify.com/artist/4yxICw7joYAxRI2sTRldLB), [Rana Sotal](https://open.spotify.com/artist/0AS5y6FY1c4JRl0oWAYu2y) | [Heer Ranjha](https://open.spotify.com/album/5jZOJxJvZj63YKrPEWPy63) | 3:43 | 2022-11-02 |  |
 | [Heeriye \(feat\. Arijit Singh\)](https://open.spotify.com/track/5PUXKVVVQ74C3gl5vKy9Li) | [Jasleen Royal](https://open.spotify.com/artist/74OaRjmyh0XyRZsQQQ5l7c), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw), [Dulquer Salmaan](https://open.spotify.com/artist/3NHwwyb1coYa5cLyI72xSk) | [Heeriye \(feat\. Arijit Singh\)](https://open.spotify.com/album/1wt2WZBZZ9GhM0AC61l7SS) | 3:14 | 2023-08-10 |  |
+| [Hua Main \(From "ANIMAL"\)](https://open.spotify.com/track/54PRUdMOYzglMGnsg9kIta) | [Raghav Chaitanya](https://open.spotify.com/artist/3qpyErDI4i90q5EGgSRmNK), [Manoj Muntashir](https://open.spotify.com/artist/4cAERazLlAzVGA10ORWaUP), [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU) | [Hua Main \(From "ANIMAL"\)](https://open.spotify.com/album/1Vkdf3mTQV4RakJBz0HbgT) | 4:37 | 2023-10-20 |  |
 | [Hui Malang \(From "Malang \- Unleash The Madness"\)](https://open.spotify.com/track/5bAed2aRbQbjDZF9qkNSA2) | [Asees Kaur](https://open.spotify.com/artist/1sVmXkzX2ukc6QvasrDBES), [Ved Sharma](https://open.spotify.com/artist/7uX1emIGgmfAgtHNRAK50Z) | [Hui Malang \(From "Malang \- Unleash The Madness"\)](https://open.spotify.com/album/47nwWChrpvZ7T6lGRdbi97) | 3:12 | 2021-01-25\* | 2021-08-17 |
 | [Hum Nashe Mein Toh Nahin \(From "Bhool Bhulaiyaa 2"\)](https://open.spotify.com/track/6XZWokIxs4leaSmXmU8b26) | [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw), [Tulsi Kumar](https://open.spotify.com/artist/0T1CMVkqffHlqEk4BcAph1) | [Hum Nashe Mein Toh Nahin \(From "Bhool Bhulaiyaa 2"\)](https://open.spotify.com/album/3i3rwvDDpdY1BZmIW2pAvT) | 3:58 | 2022-05-09 | 2023-07-06 |
 | [Hum Toh Deewane](https://open.spotify.com/track/2A4lcqTJZgUs1XrW6TSvt0) | [Rajat Nagpal](https://open.spotify.com/artist/4yxICw7joYAxRI2sTRldLB), [Yasser Desai](https://open.spotify.com/artist/6RF8hEdlUKoLPQOHmBbHiM), [Rana Sotal](https://open.spotify.com/artist/0AS5y6FY1c4JRl0oWAYu2y) | [Hum Toh Deewane](https://open.spotify.com/album/7kLMXeP8ewLuQWcwA41qPg) | 3:01 | 2023-10-04 |  |
@@ -147,7 +148,7 @@
 | [Lo Aayi Barsaat](https://open.spotify.com/track/2VsWBRKYkZH9FdD7AE6hRQ) | [Darshan Raval](https://open.spotify.com/artist/2GoeZ0qOTt6kjsWW4eA6LS) | [Lo Aayi Barsaat](https://open.spotify.com/album/4A6JkFOHnUTSlZamQXCD58) | 3:42 | 2023-07-25 |  |
 | [Loca](https://open.spotify.com/track/10Hks1iBOnKIIhouOI4rrk) | [Yo Yo Honey Singh](https://open.spotify.com/artist/7uIbLdzzSEqnX0Pkrb56cR), [Simar Kaur](https://open.spotify.com/artist/5yI5MjFLwQwfP24OxchqN1) | [Loca](https://open.spotify.com/album/3YdxP4A4xMvbdqoVIRu5ee) | 3:30 | 2021-01-25\* | 2021-04-30 |
 | [Lut Gaye](https://open.spotify.com/track/2ufLEVbzvEcJ3subW8jBUp) | [Jubin Nautiyal](https://open.spotify.com/artist/1tqysapcCh1lWEAc9dIFpa), [Tanishk Bagchi](https://open.spotify.com/artist/4f7KfxeHq9BiylGmyXepGt), [Nusrat Fateh Ali Khan](https://open.spotify.com/artist/5HcunTidTUrOaf8V0iJcvl), [Emraan Hashmi](https://open.spotify.com/artist/44oMI9xI4kcCub3qbpYPdb) | [Lut Gaye](https://open.spotify.com/album/2IgqTqUjGQsmahYITOCdBX) | 3:48 | 2021-02-23 | 2023-05-24 |
-| [Maan Meri Jaan](https://open.spotify.com/track/1418IuVKQPTYqt7QNJ9RXN) | [King](https://open.spotify.com/artist/5NHm4TU5Twz7owibYxJfFU) | [Champagne Talk](https://open.spotify.com/album/15CyNDuGY5fsG0Hn9rjnpG) | 3:14 | 2022-11-10 |  |
+| [Maan Meri Jaan](https://open.spotify.com/track/1418IuVKQPTYqt7QNJ9RXN) | [King](https://open.spotify.com/artist/5NHm4TU5Twz7owibYxJfFU) | [Champagne Talk](https://open.spotify.com/album/15CyNDuGY5fsG0Hn9rjnpG) | 3:14 | 2022-11-10 | 2023-10-21 |
 | [Madhubala](https://open.spotify.com/track/3hcwpXiJtR7kwDrWllcH0v) | [Amit Trivedi](https://open.spotify.com/artist/7HCqGPJcQTyGJ2yqntbuyr) | [Songs of Love](https://open.spotify.com/album/0jpXgPEyyujKElDwbCWL7o) | 4:03 | 2021-04-06 | 2021-04-12 |
 | [Mahiye Jinna Sohna](https://open.spotify.com/track/2ncqKdTj6dz7tWoTMMrAtq) | [Darshan Raval](https://open.spotify.com/artist/2GoeZ0qOTt6kjsWW4eA6LS) | [Mahiye Jinna Sohna](https://open.spotify.com/album/4fiPkVR8M247hQBOYLkwBq) | 3:01 | 2023-07-05 |  |
 | [Main Agar](https://open.spotify.com/track/45IVxWsY3y0wLLk77bZWlA) | [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU), [Atif Aslam](https://open.spotify.com/artist/2oSONSC9zQ4UonDKnLqksx) | [Tubelight \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4Y3f3J030knsEk3epIvO0R) | 4:39 | 2021-04-06 | 2021-04-12 |

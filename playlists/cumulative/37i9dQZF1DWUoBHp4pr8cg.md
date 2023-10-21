@@ -2,7 +2,7 @@
 
 ### [Hip Hop Circle](https://open.spotify.com/playlist/37i9dQZF1DWUoBHp4pr8cg)
 
-> Only the hottest Hip Hop from Offset \(pictured\), Drake, Medikal, Doja Cat, and more...
+> Only the hottest Hip Hop from A\-Reece \(pictured\), Offset, Drake, and more...
 
 241 songs - 13 hr 7 min
 

@@ -2196,7 +2196,7 @@
       ],
       "date_added": "2022-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-21",
       "duration_ms": 178961,
       "name": "Easy",
       "url": "https://open.spotify.com/track/2ipglkB6dSUbv9yePOI5r9"
@@ -2869,6 +2869,24 @@
     },
     {
       "album": {
+        "name": "Shindo",
+        "url": "https://open.spotify.com/album/2bh7Q8cwGnCleeC8UhRmAM"
+      },
+      "artists": [
+        {
+          "name": "The Shindellas",
+          "url": "https://open.spotify.com/artist/2ymLCgoeNHbhPDwMb3N3iQ"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255640,
+      "name": "Good as Gold",
+      "url": "https://open.spotify.com/track/5IKDh0vnVhvzOgQltv1ACE"
+    },
+    {
+      "album": {
         "name": "Good Day",
         "url": "https://open.spotify.com/album/1HSgWrfiiWkMNUr8abCu1c"
       },
@@ -3206,7 +3224,7 @@
       ],
       "date_added": "2022-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-21",
       "duration_ms": 154506,
       "name": "how deep?",
       "url": "https://open.spotify.com/track/0VcWp30A3hSJrPjdDEHeNE"
@@ -6648,6 +6666,24 @@
       "duration_ms": 165000,
       "name": "Sunrise",
       "url": "https://open.spotify.com/track/4iOQb2ULpWOnTwLJVVd1is"
+    },
+    {
+      "album": {
+        "name": "Sunset",
+        "url": "https://open.spotify.com/album/7zAZZ3cUAbM6WPAecRTN01"
+      },
+      "artists": [
+        {
+          "name": "Tai Verdes",
+          "url": "https://open.spotify.com/artist/2kCO8LXN1usaOPL3iEE28I"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193280,
+      "name": "Sunset",
+      "url": "https://open.spotify.com/track/5hFVuHDVUqR9FvVnHFoLLo"
     },
     {
       "album": {

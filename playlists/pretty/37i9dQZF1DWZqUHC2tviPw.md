@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZqUHC2tviPw.md) - [plain]
 
 > Instrumental beats to boost your weight lifting workout.
 
-[Spotify](https://open.spotify.com/user/spotify) - 194,066 likes - 155 songs - 6 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 194,105 likes - 155 songs - 6 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,7 +26,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZqUHC2tviPw.md) - [plain]
 | 16 | [Audio Picasso](https://open.spotify.com/track/7KW45DQcGGcP1PQBXp8gZh) | [mzet](https://open.spotify.com/artist/4bpq7LWyKylbYqwDgly14Y), [typico](https://open.spotify.com/artist/4e1Z2c8EJSfqh5a0hW7jyq) | [LAVANDA](https://open.spotify.com/album/6ChuzmWlFaljOfOjDcTdsR) | 2:49 |
 | 17 | [Hunch](https://open.spotify.com/track/0Ha38zN6QMVjRKTbJYhjZ9) | [Azucares](https://open.spotify.com/artist/4nBe4luXcnZ8QqpoyZq4OC) | [Hunch / Qwuan](https://open.spotify.com/album/3VLPMI6Fx93tcU3FjuhtGJ) | 2:41 |
 | 18 | [Apolitikio](https://open.spotify.com/track/7gnP8uPbqEzAMNcJLTq6FU) | [Sardos97](https://open.spotify.com/artist/119BqJ7qRURlIOb22caU5W) | [Unreleased 2002\-2022 Vol.2](https://open.spotify.com/album/3pRq2E9J7ifJ7Zf7YJ2N0D) | 2:22 |
-| 19 | [Unleashed](https://open.spotify.com/track/6OoCs6YivnKTUwZ2iLjOHi) | [HiveMind](https://open.spotify.com/artist/4J3kswR8gVfSE4sOIwNeLA) | [Unleashed](https://open.spotify.com/album/6wVqII9WsXzgC3GFgnjTu5) | 3:22 |
+| 19 | [Unleashed \- Instrumental](https://open.spotify.com/track/6OoCs6YivnKTUwZ2iLjOHi) | [HiveMind](https://open.spotify.com/artist/4J3kswR8gVfSE4sOIwNeLA) | [Unleashed \(Instrumental\)](https://open.spotify.com/album/6wVqII9WsXzgC3GFgnjTu5) | 3:22 |
 | 20 | [Scam](https://open.spotify.com/track/6R9RkocTuXcrdESsnTlwC3) | [Classe Beats](https://open.spotify.com/artist/0pqLKPTH1BAW4brUdoXrzW) | [Scam](https://open.spotify.com/album/62J8F6JtP7ryZfmATk8oGg) | 2:46 |
 | 21 | [Count Your Blessings](https://open.spotify.com/track/1NbWD40pGtLkGpY1NMsyRX) | [ZooLoo One](https://open.spotify.com/artist/1bcgGPzzGefC11OU7foS7t) | [Outcast Society](https://open.spotify.com/album/50X5rlLKcD0wFWPsNTdpRu) | 2:33 |
 | 22 | [No home no future](https://open.spotify.com/track/62SxyqZXXVlDAycfkS1kj1) | [Captain XY](https://open.spotify.com/artist/0fYeCYtwaOrxHt0Wwkbb1t) | [No home no future](https://open.spotify.com/album/6eXnhjk6FecIfcvcqni0iH) | 2:23 |
@@ -164,4 +164,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZqUHC2tviPw.md) - [plain]
 | 154 | [Theme](https://open.spotify.com/track/6LGzIiVow9pEHzSc7Z2NC5) | [Grand Moist](https://open.spotify.com/artist/7kBEPXj7Sz1SfO73MoFENO) | [Theme](https://open.spotify.com/album/7HWzZzrVY6lIhyoO2V9wL6) | 2:35 |
 | 155 | [Lunch Break](https://open.spotify.com/track/3MGkKTSuULSWZFdKgUqFG8) | [DJ DENZ The Rooster](https://open.spotify.com/artist/05OAH9fFWOKINDaeJ9N3Pd) | [No Justice No Peace](https://open.spotify.com/album/5QOaH71IIS6PFIZlqhl6FD) | 2:59 |
 
-Snapshot ID: `MCw0NjcyYmI3NTc0MTI3ZDM4ZWRhNjBkOTBiMDUwM2IxNWI2YWQ2OWIz`
+Snapshot ID: `MCw0NjY0YjgyZGVjNWJjMDUxYmU5ZTNiMjgyMTQ0MWNlZTI1OTk2M2Uz`

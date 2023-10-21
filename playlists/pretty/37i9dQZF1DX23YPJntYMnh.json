@@ -1,12 +1,12 @@
 {
   "description": "Funk. But heavier. Cover: Red Hot Chili Peppers",
-  "num_followers": 467680,
+  "num_followers": 467722,
   "original_name": "Funk Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlYTg1YzYzY2QwNTk2YTA5NWYwNjBiZTE2YjliNDZmNTFkYTdhNTEw",
+  "snapshot_id": "MCwxODAwNGE5MTNhOTk3MDY2NzczZGU3YTdhMTcyZmNkMGQyZTBlM2Yy",
   "tracks": [
     {
       "added_at": "2023-10-13 04:01:00",
@@ -101,6 +101,22 @@
       "url": "https://open.spotify.com/track/0Am98XXjdvVo1O3fYpjaTs"
     },
     {
+      "added_at": "2023-10-20 04:01:00",
+      "album": {
+        "name": "Hard",
+        "url": "https://open.spotify.com/album/6ShQyPj3NmcKvuqB9Wrqze"
+      },
+      "artists": [
+        {
+          "name": "Thumpasaurus",
+          "url": "https://open.spotify.com/artist/13peDbMKVZpn5nanRC96WJ"
+        }
+      ],
+      "duration_ms": 236286,
+      "name": "Why Do I?",
+      "url": "https://open.spotify.com/track/5rdrbmZdMzq98Xk8OTybvo"
+    },
+    {
       "added_at": "2023-09-08 04:01:00",
       "album": {
         "name": "Eating Ghosts",
@@ -135,6 +151,26 @@
       "duration_ms": 233066,
       "name": "Always On The Run",
       "url": "https://open.spotify.com/track/3xxBAMUVusDLjLFwwL9qoY"
+    },
+    {
+      "added_at": "2023-10-20 16:27:12",
+      "album": {
+        "name": "Darkside",
+        "url": "https://open.spotify.com/album/2PFQU4eErXJ4ZEmusl8EgR"
+      },
+      "artists": [
+        {
+          "name": "Prince",
+          "url": "https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j"
+        },
+        {
+          "name": "The New Power Generation",
+          "url": "https://open.spotify.com/artist/1xtGjxE9c1YmEmFPCH6Izp"
+        }
+      ],
+      "duration_ms": 333680,
+      "name": "Darkside",
+      "url": "https://open.spotify.com/track/11DOcIM6IkO45qpyrdMJgc"
     },
     {
       "added_at": "2022-02-04 05:02:00",
@@ -865,22 +901,6 @@
       "url": "https://open.spotify.com/track/1jnYj6S2Ng6DcyE7ySChdK"
     },
     {
-      "added_at": "2022-02-25 05:02:00",
-      "album": {
-        "name": "Raise Vibration",
-        "url": "https://open.spotify.com/album/6zXOZuDsPTGu4yEKaTXzlH"
-      },
-      "artists": [
-        {
-          "name": "Lenny Kravitz",
-          "url": "https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7"
-        }
-      ],
-      "duration_ms": 319466,
-      "name": "Who Really Are the Monsters?",
-      "url": "https://open.spotify.com/track/3w1m4uW4EgWAxXyoKKUHDw"
-    },
-    {
       "added_at": "2022-02-04 05:02:00",
       "album": {
         "name": "The Essential Fishbone",
@@ -1383,22 +1403,6 @@
       "duration_ms": 297466,
       "name": "Got It Goin' On",
       "url": "https://open.spotify.com/track/0bsHXFE0GGn2HonbA8G0yf"
-    },
-    {
-      "added_at": "2022-02-04 05:02:00",
-      "album": {
-        "name": "Greatest Hits '93 - '03",
-        "url": "https://open.spotify.com/album/0OsjlbBaSZFbZnXGAUysMG"
-      },
-      "artists": [
-        {
-          "name": "311",
-          "url": "https://open.spotify.com/artist/41Q0HrwWBtuUkJc7C1Rp6K"
-        }
-      ],
-      "duration_ms": 222360,
-      "name": "Come Original",
-      "url": "https://open.spotify.com/track/7LG5qAX1r73gafhxvzu28K"
     },
     {
       "added_at": "2022-02-04 05:02:00",

@@ -1,7 +1,7 @@
 {
   "date_first_scraped": "2022-05-30",
-  "description": "B bole toh biggest blockbusters, right here! Koi Shaq? \ud83d\ude0e Cover - Jawan",
-  "name": "Bollywood Butter",
+  "description": "Bollywood Central, jab baje toh seedha dil ke centre mein lage. ",
+  "name": "Bollywood Central",
   "tracks": [
     {
       "album": {
@@ -186,7 +186,7 @@
       ],
       "date_added": "2023-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-21",
       "duration_ms": 196172,
       "name": "Banno",
       "url": "https://open.spotify.com/track/5ukDx1Fzu219N539FAhUKw"
@@ -1241,6 +1241,32 @@
     },
     {
       "album": {
+        "name": "Dhoom:3",
+        "url": "https://open.spotify.com/album/0Zwt7ZPZzacRD4wPSotgam"
+      },
+      "artists": [
+        {
+          "name": "Pritam",
+          "url": "https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU"
+        },
+        {
+          "name": "Sunidhi Chauhan",
+          "url": "https://open.spotify.com/artist/3eDT9fwXKuHWFvgZaaYC5v"
+        },
+        {
+          "name": "Amitabh Bhattacharya",
+          "url": "https://open.spotify.com/artist/2fMqTqiTxUDlmcOEPaQSsx"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235102,
+      "name": "Kamli",
+      "url": "https://open.spotify.com/track/2QY6SJXVnBFaqxOZhC1Fuu"
+    },
+    {
+      "album": {
         "name": "Kesariya (From \"Brahmastra\")",
         "url": "https://open.spotify.com/album/1HeX4SmCFW4EPHQDvHgrVS"
       },
@@ -1352,7 +1378,7 @@
       ],
       "date_added": "2023-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-21",
       "duration_ms": 387169,
       "name": "Laal Ishq",
       "url": "https://open.spotify.com/track/0uX0uSqMOav5axpzPODSg7"
@@ -2126,7 +2152,7 @@
       ],
       "date_added": "2023-07-05",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-11",
+      "date_removed": null,
       "duration_ms": 301889,
       "name": "Radha",
       "url": "https://open.spotify.com/track/5yYgGkyYJmmSwRp3caFplJ"
@@ -2208,6 +2234,24 @@
       "duration_ms": 228855,
       "name": "Ranjha (From \"Shershaah\")",
       "url": "https://open.spotify.com/track/72zHuDxFQTjbL51qJQSA7j"
+    },
+    {
+      "album": {
+        "name": "Pushpa The Rise Part - 01",
+        "url": "https://open.spotify.com/album/5fSvW3ie7cwECAt9h9pgQl"
+      },
+      "artists": [
+        {
+          "name": "Sunidhi Chauhan",
+          "url": "https://open.spotify.com/artist/3eDT9fwXKuHWFvgZaaYC5v"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227160,
+      "name": "Saami Saami",
+      "url": "https://open.spotify.com/track/3hRnAaDYPEIGTMS6JI1dle"
     },
     {
       "album": {
@@ -2422,7 +2466,7 @@
       ],
       "date_added": "2022-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-21",
       "duration_ms": 224072,
       "name": "Srivalli (From \"Pushpa The Rise Part - 01\")",
       "url": "https://open.spotify.com/track/7sVEoPc5ZUUQerRkgTypUZ"

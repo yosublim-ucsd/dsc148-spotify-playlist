@@ -1,12 +1,12 @@
 {
   "description": "the beat of your drift",
-  "num_followers": 6807836,
+  "num_followers": 6817696,
   "original_name": "phonk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyNjg1ZjA5ZTIyMzk5MzMzZjhiOTJmYjM1MzllNzZiNjI4OWVjZmFk",
+  "snapshot_id": "MCw4ZjBiMmY2NGZmNzA4N2E5N2RkYjc0Yzc2NDkzZmZmMWFhMjFiYzkz",
   "tracks": [
     {
       "added_at": "2023-09-08 15:16:54",
@@ -205,6 +205,22 @@
       "url": "https://open.spotify.com/track/1A7qPfbcyRVEdcZiwTFhZI"
     },
     {
+      "added_at": "2023-10-06 14:17:07",
+      "album": {
+        "name": "BAIXO",
+        "url": "https://open.spotify.com/album/2Osz2h7ZjKHOZh5grL7o6G"
+      },
+      "artists": [
+        {
+          "name": "xxanteria",
+          "url": "https://open.spotify.com/artist/4nl0CCx6PpEOOr2Z2ThPdp"
+        }
+      ],
+      "duration_ms": 104013,
+      "name": "BAIXO",
+      "url": "https://open.spotify.com/track/0RVmg31gzlshCm356g0HF2"
+    },
+    {
       "added_at": "2023-05-05 15:57:14",
       "album": {
         "name": "Life in Rio",
@@ -343,22 +359,6 @@
       "duration_ms": 146274,
       "name": "GigaChad Theme - Phonk House Version",
       "url": "https://open.spotify.com/track/7mLWNwcvwRdEviz6SfYp8A"
-    },
-    {
-      "added_at": "2023-10-06 14:17:07",
-      "album": {
-        "name": "BAIXO",
-        "url": "https://open.spotify.com/album/2Osz2h7ZjKHOZh5grL7o6G"
-      },
-      "artists": [
-        {
-          "name": "xxanteria",
-          "url": "https://open.spotify.com/artist/4nl0CCx6PpEOOr2Z2ThPdp"
-        }
-      ],
-      "duration_ms": 104013,
-      "name": "BAIXO",
-      "url": "https://open.spotify.com/track/0RVmg31gzlshCm356g0HF2"
     },
     {
       "added_at": "2023-05-19 15:58:05",
@@ -677,6 +677,22 @@
       "url": "https://open.spotify.com/track/586x98q1tY2vlDlhN1BwQM"
     },
     {
+      "added_at": "2023-10-20 10:30:53",
+      "album": {
+        "name": "DILATA\u00c7\u00c3O HIPN\u00d3TICA 6.0",
+        "url": "https://open.spotify.com/album/2bA0h58Fb6wT5ZgaP10sVs"
+      },
+      "artists": [
+        {
+          "name": "DJ FLG",
+          "url": "https://open.spotify.com/artist/6DlWUEM6Qr9z6p6YAOLBDh"
+        }
+      ],
+      "duration_ms": 150524,
+      "name": "DILATA\u00c7\u00c3O HIPN\u00d3TICA 6.0",
+      "url": "https://open.spotify.com/track/6WyOuugKx4QEZl4PmIyT9G"
+    },
+    {
       "added_at": "2023-08-11 14:10:06",
       "album": {
         "name": "The Automotivo Infernal 1.0",
@@ -747,8 +763,8 @@
     {
       "added_at": "2023-08-25 14:35:59",
       "album": {
-        "name": "RITMO BRUTALISMO",
-        "url": "https://open.spotify.com/album/7zUwTOB9AiMIj3bjElGJdZ"
+        "name": "Ritmo Brutalismo",
+        "url": "https://open.spotify.com/album/5TLSRYcgV2yXIvbRVRmoNS"
       },
       "artists": [
         {
@@ -756,9 +772,9 @@
           "url": "https://open.spotify.com/artist/71q5DhoPQTmQ8JpwKOp1FZ"
         }
       ],
-      "duration_ms": 136005,
-      "name": "RITMO BRUTALISMO",
-      "url": "https://open.spotify.com/track/2aufkp1EfbW2OAFEOgIfsU"
+      "duration_ms": 136031,
+      "name": "Ritmo Brutalismo",
+      "url": "https://open.spotify.com/track/24f8BIfC3iOpKXiOlhrmQK"
     },
     {
       "added_at": "2022-09-23 07:48:31",
@@ -843,30 +859,6 @@
       "duration_ms": 120000,
       "name": "SOCA SOCA",
       "url": "https://open.spotify.com/track/73hsuKcpEGujnjA1z5RE2m"
-    },
-    {
-      "added_at": "2023-10-06 14:17:07",
-      "album": {
-        "name": "Montagem Dilata\u00e7\u00e3o Hipn\u00f3tica 5.0",
-        "url": "https://open.spotify.com/album/3PSJUPT4YdbepqHW7ZXsYD"
-      },
-      "artists": [
-        {
-          "name": "DJ Crazy 013",
-          "url": "https://open.spotify.com/artist/3LMb9Tf8kmQWdKoDmoQM29"
-        },
-        {
-          "name": "Dj Gk7 Original",
-          "url": "https://open.spotify.com/artist/7tiJgTm0H2F1qtsjzVVWqB"
-        },
-        {
-          "name": "DJ Lipe Da Zn",
-          "url": "https://open.spotify.com/artist/6AGAWCe3ACpl0wPBgcmxEv"
-        }
-      ],
-      "duration_ms": 150130,
-      "name": "Montagem Dilata\u00e7\u00e3o Hipn\u00f3tica 5.0",
-      "url": "https://open.spotify.com/track/2FtXfaiyJDRMoqXNLooqwU"
     },
     {
       "added_at": "2023-02-10 16:54:18",
@@ -981,6 +973,22 @@
       "url": "https://open.spotify.com/track/7bxyNLXYaEYaZTxAuQTHlD"
     },
     {
+      "added_at": "2023-09-22 18:14:49",
+      "album": {
+        "name": "Montagem Coral",
+        "url": "https://open.spotify.com/album/3u9YkCaYo544roaesI591t"
+      },
+      "artists": [
+        {
+          "name": "young god",
+          "url": "https://open.spotify.com/artist/4J2LHP07P9VG5PQHZNFfjT"
+        }
+      ],
+      "duration_ms": 145111,
+      "name": "Montagem Coral",
+      "url": "https://open.spotify.com/track/2aHLWvUgwUnDRWYQjmYJPl"
+    },
+    {
       "added_at": "2023-10-13 15:24:44",
       "album": {
         "name": "Oppa",
@@ -1055,6 +1063,30 @@
       "duration_ms": 126857,
       "name": "MURDER PLOT",
       "url": "https://open.spotify.com/track/62ZAFyVwbc9f2M8qCW1qJr"
+    },
+    {
+      "added_at": "2023-10-06 14:17:07",
+      "album": {
+        "name": "Montagem Dilata\u00e7\u00e3o Hipn\u00f3tica 5.0",
+        "url": "https://open.spotify.com/album/3PSJUPT4YdbepqHW7ZXsYD"
+      },
+      "artists": [
+        {
+          "name": "DJ Crazy 013",
+          "url": "https://open.spotify.com/artist/3LMb9Tf8kmQWdKoDmoQM29"
+        },
+        {
+          "name": "Dj Gk7 Original",
+          "url": "https://open.spotify.com/artist/7tiJgTm0H2F1qtsjzVVWqB"
+        },
+        {
+          "name": "DJ Lipe Da Zn",
+          "url": "https://open.spotify.com/artist/6AGAWCe3ACpl0wPBgcmxEv"
+        }
+      ],
+      "duration_ms": 150130,
+      "name": "Montagem Dilata\u00e7\u00e3o Hipn\u00f3tica 5.0",
+      "url": "https://open.spotify.com/track/2FtXfaiyJDRMoqXNLooqwU"
     },
     {
       "added_at": "2022-06-17 04:02:00",
@@ -1185,20 +1217,28 @@
       "url": "https://open.spotify.com/track/4mMEvkDeY56be4l7Itb5aZ"
     },
     {
-      "added_at": "2023-09-22 18:14:49",
+      "added_at": "2023-10-20 10:30:53",
       "album": {
-        "name": "Montagem Coral",
-        "url": "https://open.spotify.com/album/3u9YkCaYo544roaesI591t"
+        "name": "Memphis Cult Vol. 6",
+        "url": "https://open.spotify.com/album/5TaVh9bj30QqGbvmC2CFoq"
       },
       "artists": [
         {
-          "name": "young god",
-          "url": "https://open.spotify.com/artist/4J2LHP07P9VG5PQHZNFfjT"
+          "name": "Memphis Cult",
+          "url": "https://open.spotify.com/artist/6n9sdNb7mWvVmARDT6ujnJ"
+        },
+        {
+          "name": "Groove Dealers",
+          "url": "https://open.spotify.com/artist/4WOeTZ6inhL1zz0u5v0Q8z"
+        },
+        {
+          "name": "SPLYXER",
+          "url": "https://open.spotify.com/artist/5erVsKXNZIBRE5ePB50c7j"
         }
       ],
-      "duration_ms": 145111,
-      "name": "Montagem Coral",
-      "url": "https://open.spotify.com/track/2aHLWvUgwUnDRWYQjmYJPl"
+      "duration_ms": 86709,
+      "name": "9mm",
+      "url": "https://open.spotify.com/track/2Dp5Rqruog8SR6x7UtlIpY"
     },
     {
       "added_at": "2022-12-09 08:15:38",
@@ -1251,6 +1291,22 @@
       "duration_ms": 87679,
       "name": "KAMI",
       "url": "https://open.spotify.com/track/6rm58LPjSArdS4zEHSKXDu"
+    },
+    {
+      "added_at": "2023-10-20 10:30:53",
+      "album": {
+        "name": "JUJALARIM FUNK",
+        "url": "https://open.spotify.com/album/0w7rzFrOSsiGvChfXdpCjz"
+      },
+      "artists": [
+        {
+          "name": "Eternxlkz",
+          "url": "https://open.spotify.com/artist/3Xd2WSaNywx5gn1pgRPFjF"
+        }
+      ],
+      "duration_ms": 121846,
+      "name": "JUJALARIM FUNK",
+      "url": "https://open.spotify.com/track/7A9G0xZfgNVM17TvBysVzl"
     },
     {
       "added_at": "2022-09-02 08:01:31",
@@ -1381,26 +1437,6 @@
       "url": "https://open.spotify.com/track/3xuOs8TPNwItkEYsApFEI2"
     },
     {
-      "added_at": "2023-05-19 15:58:05",
-      "album": {
-        "name": "VAI DJ NPC SOCA COM VONTADE / MACHUCA MACHUCA",
-        "url": "https://open.spotify.com/album/5nCc44klDwX9Oy8udBepD4"
-      },
-      "artists": [
-        {
-          "name": "DJ NpcSize",
-          "url": "https://open.spotify.com/artist/00B9mff8749d1A2LOLH41b"
-        },
-        {
-          "name": "Mc Larissa",
-          "url": "https://open.spotify.com/artist/6mTLUu4QRFZXFurxQyLzBX"
-        }
-      ],
-      "duration_ms": 182783,
-      "name": "VAI DJ NPC SOCA COM VONTADE / MACHUCA MACHUCA",
-      "url": "https://open.spotify.com/track/3qV8bXiqsR35JEMOy0tpJv"
-    },
-    {
       "added_at": "2022-05-13 04:02:00",
       "album": {
         "name": "PRINCE OF DARKNESS",
@@ -1517,22 +1553,6 @@
       "url": "https://open.spotify.com/track/54ggxbEopZwQ20zurJiHSD"
     },
     {
-      "added_at": "2023-10-06 14:17:07",
-      "album": {
-        "name": "poki poki",
-        "url": "https://open.spotify.com/album/5GP3S0Rk16GLOR896t31NE"
-      },
-      "artists": [
-        {
-          "name": "Hensonn",
-          "url": "https://open.spotify.com/artist/0snouHYzOWSgxRBYMQsa3H"
-        }
-      ],
-      "duration_ms": 96197,
-      "name": "poki poki",
-      "url": "https://open.spotify.com/track/2eccOEPsRxOCVLGhTbDZ0b"
-    },
-    {
       "added_at": "2023-06-30 16:50:50",
       "album": {
         "name": "Heavenly Key",
@@ -1547,22 +1567,6 @@
       "duration_ms": 125714,
       "name": "Heavenly Key",
       "url": "https://open.spotify.com/track/09m40hbfqNwnF5w2CbqIqt"
-    },
-    {
-      "added_at": "2023-05-26 13:00:00",
-      "album": {
-        "name": "City",
-        "url": "https://open.spotify.com/album/4VMkvhsq4zoNkYPcy3LMsr"
-      },
-      "artists": [
-        {
-          "name": "Lo'fi Chield",
-          "url": "https://open.spotify.com/artist/6jV68hjOzsCdKpqADyhyzt"
-        }
-      ],
-      "duration_ms": 151384,
-      "name": "City",
-      "url": "https://open.spotify.com/track/2SCM41M2pe6PF6eASyVWyy"
     },
     {
       "added_at": "2022-09-02 08:01:31",
@@ -1725,22 +1729,6 @@
       "url": "https://open.spotify.com/track/1vyg1TIfJK409mLL6LaxeG"
     },
     {
-      "added_at": "2023-09-22 18:14:49",
-      "album": {
-        "name": "TOMABEK FUNK",
-        "url": "https://open.spotify.com/album/2fJ51TYe4Dx86H2M3aavuq"
-      },
-      "artists": [
-        {
-          "name": "merunes",
-          "url": "https://open.spotify.com/artist/6BVew7phcmD5R1VEKV4cxa"
-        }
-      ],
-      "duration_ms": 86400,
-      "name": "TOMABEK FUNK",
-      "url": "https://open.spotify.com/track/2MYY6AYIdJkj9ln71NU6BR"
-    },
-    {
       "added_at": "2021-09-24 18:31:55",
       "album": {
         "name": "TOKYO DRIFT",
@@ -1843,6 +1831,30 @@
       "duration_ms": 159842,
       "name": "Mtg Ensurdec\u00eancia Estelar 1.0",
       "url": "https://open.spotify.com/track/2X1cIpDWE6nyBCde1iUBVM"
+    },
+    {
+      "added_at": "2023-10-20 10:30:53",
+      "album": {
+        "name": "TOMA FOR\u00c7A CARIOCA",
+        "url": "https://open.spotify.com/album/3J5TO3KwtIa9bnSuKrpJ9F"
+      },
+      "artists": [
+        {
+          "name": "Hussain Ali",
+          "url": "https://open.spotify.com/artist/6jisxxsMSH9OExkRD3YkwG"
+        },
+        {
+          "name": "CXRRUPTION",
+          "url": "https://open.spotify.com/artist/1DB5pMW7dF7wlBy15XhOoE"
+        },
+        {
+          "name": "DJ Agi",
+          "url": "https://open.spotify.com/artist/0SxD3ZSoGheh1nhp98gzEh"
+        }
+      ],
+      "duration_ms": 87384,
+      "name": "TOMA FOR\u00c7A CARIOCA",
+      "url": "https://open.spotify.com/track/6393p1eg8oyVrB4z5jck1L"
     },
     {
       "added_at": "2021-05-12 14:02:59",

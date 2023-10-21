@@ -1,12 +1,12 @@
 {
   "description": "Explore the dazzling sound of Japanese City Pop from the \u201880s./ \u90fd\u4f1a\u306e\u591c\u3092\u30af\u30eb\u30fc\u30b8\u30f3\u30b0\u3001\u9031\u672b\u306f\u6d77\u8fba\u3067\u30ea\u30be\u30fc\u30c8\u6c17\u5206\u3002\u714c\u3081\u304d\u306b\u6e80\u3061\u305f\u6bce\u65e5\u3092\u5f69\u3063\u305f\u3001\u9ec4\u91d1\u671f\u306e\u30b7\u30c6\u30a3\u30dd\u30c3\u30d7 \u3002",
-  "num_followers": 131554,
+  "num_followers": 131688,
   "original_name": "City Pop '80s",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiN2JkNWY4MTUwZTViNzc3NzFhZDAxZTRjOThhZGVhZGRlMzJkMWIy",
+  "snapshot_id": "MCw2OGUwYmIxY2ZkOWUyNjg1NjJhZWI0MDZkZDI0MDhjYTUwM2YzZDk2",
   "tracks": [
     {
       "added_at": "2023-03-21 15:00:00",
@@ -419,18 +419,18 @@
     {
       "added_at": "2023-03-21 15:00:00",
       "album": {
-        "name": "FIRST LIGHT (2018 Remaster)",
-        "url": "https://open.spotify.com/album/6iHAKqapZLwgw9yIrVgsUT"
+        "name": "Cologne",
+        "url": "https://open.spotify.com/album/5uEl2mEcKfGMij4tpMT164"
       },
       "artists": [
         {
-          "name": "Makoto Matsushita",
-          "url": "https://open.spotify.com/artist/5qm3bAgsYq5aBOymqkM4gG"
+          "name": "Kaoru Akimoto",
+          "url": "https://open.spotify.com/artist/4LUn6its1opwPzxJC1RM72"
         }
       ],
-      "duration_ms": 273220,
-      "name": "First Light - 2018 Remaster",
-      "url": "https://open.spotify.com/track/5Dra6dW1mc7BOh833TDowz"
+      "duration_ms": 303426,
+      "name": "\u6211\u304c\u307e\u307e\u306a\u30cf\u30a4\u30d2\u30fc\u30eb",
+      "url": "https://open.spotify.com/track/0SNdUPM8z7PlBlN3pyqVjB"
     },
     {
       "added_at": "2023-03-21 15:00:00",
@@ -451,18 +451,18 @@
     {
       "added_at": "2023-03-21 15:00:00",
       "album": {
-        "name": "Cologne",
-        "url": "https://open.spotify.com/album/5uEl2mEcKfGMij4tpMT164"
+        "name": "FIRST LIGHT (2018 Remaster)",
+        "url": "https://open.spotify.com/album/6iHAKqapZLwgw9yIrVgsUT"
       },
       "artists": [
         {
-          "name": "Kaoru Akimoto",
-          "url": "https://open.spotify.com/artist/4LUn6its1opwPzxJC1RM72"
+          "name": "Makoto Matsushita",
+          "url": "https://open.spotify.com/artist/5qm3bAgsYq5aBOymqkM4gG"
         }
       ],
-      "duration_ms": 303426,
-      "name": "\u6211\u304c\u307e\u307e\u306a\u30cf\u30a4\u30d2\u30fc\u30eb",
-      "url": "https://open.spotify.com/track/0SNdUPM8z7PlBlN3pyqVjB"
+      "duration_ms": 273220,
+      "name": "First Light - 2018 Remaster",
+      "url": "https://open.spotify.com/track/5Dra6dW1mc7BOh833TDowz"
     },
     {
       "added_at": "2023-03-21 15:00:00",
@@ -531,22 +531,6 @@
     {
       "added_at": "2023-03-21 15:00:00",
       "album": {
-        "name": "FIRST LIGHT (2018 Remaster)",
-        "url": "https://open.spotify.com/album/6iHAKqapZLwgw9yIrVgsUT"
-      },
-      "artists": [
-        {
-          "name": "Makoto Matsushita",
-          "url": "https://open.spotify.com/artist/5qm3bAgsYq5aBOymqkM4gG"
-        }
-      ],
-      "duration_ms": 269260,
-      "name": "September Rain - 2018 Remaster",
-      "url": "https://open.spotify.com/track/25z4QmWYR2stp1xbVcG51J"
-    },
-    {
-      "added_at": "2023-03-21 15:00:00",
-      "album": {
         "name": "River's Island",
         "url": "https://open.spotify.com/album/6HM0SPu1eIv721SbsO8l3o"
       },
@@ -579,6 +563,22 @@
       "duration_ms": 255960,
       "name": "Older Girl",
       "url": "https://open.spotify.com/track/6oGLKGeI4tM4jaVWe9sBoF"
+    },
+    {
+      "added_at": "2023-03-21 15:00:00",
+      "album": {
+        "name": "FIRST LIGHT (2018 Remaster)",
+        "url": "https://open.spotify.com/album/6iHAKqapZLwgw9yIrVgsUT"
+      },
+      "artists": [
+        {
+          "name": "Makoto Matsushita",
+          "url": "https://open.spotify.com/artist/5qm3bAgsYq5aBOymqkM4gG"
+        }
+      ],
+      "duration_ms": 269260,
+      "name": "September Rain - 2018 Remaster",
+      "url": "https://open.spotify.com/track/25z4QmWYR2stp1xbVcG51J"
     },
     {
       "added_at": "2023-03-21 15:00:00",

@@ -4,18 +4,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTEbYi1zYy0Z.md) - [plain]
 
 > So fresh, so smooth\. Cover: Jonathan Butler
 
-[Spotify](https://open.spotify.com/user/spotify) - 55,385 likes - 100 songs - 6 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 55,426 likes - 100 songs - 6 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Echoes](https://open.spotify.com/track/2IfPxItRt1NwJDeAZOQRck) | [Steve Cole](https://open.spotify.com/artist/6rpOQ4XZKUz0ayWSMgvmWb) | [Without a Doubt](https://open.spotify.com/album/72AWHYj9AguRbu2x7VzxY9) | 4:39 |
 | 2 | [Shore Thing](https://open.spotify.com/track/4bSWGX8MISGps0O6u6RWXJ) | [Rick Habana](https://open.spotify.com/artist/1auijsxorLLC20UDzLG7ds), [Kim Scott](https://open.spotify.com/artist/68nDtoCQKhf7AxQP0q3wSP) | [The Collaborations](https://open.spotify.com/album/7M0tYO1VeOg9TjIUDe5Ik6) | 4:02 |
-| 3 | [Forever Together](https://open.spotify.com/track/1GH50Go52ia1z82l7AZalJ) | [Braxton Brothers](https://open.spotify.com/artist/6nkylX7POzzqZ44nSYH2hw) | [Forever Together](https://open.spotify.com/album/5YI2HY4c5vDxTrDkNysfGu) | 4:16 |
-| 4 | [Dancin' Shoes](https://open.spotify.com/track/15i4GMjiFCHKWMYSUTp2CS) | [Paula Atherton](https://open.spotify.com/artist/22aM32I9ao0SJOxWXrsNO6) | [Dancin' Shoes](https://open.spotify.com/album/2bH1chYifngpHOjrlyppS5) | 4:14 |
-| 5 | [Ride the Vibes](https://open.spotify.com/track/2lJzoaHbYNzkvJdG2uSSqv) | [Willie Bradley](https://open.spotify.com/artist/4gbsj58PegOOgFxc5OfIt3), [Ragan Whiteside](https://open.spotify.com/artist/4cvyvGmavtDowPmJMHMlUq) | [Ride the Vibes](https://open.spotify.com/album/6KkYYjSl0cr57tiLlfT7HR) | 3:55 |
-| 6 | [Please Mr\. Groove](https://open.spotify.com/track/4t6HSsIeDTF8Iis2JTSHP5) | [Euge Groove](https://open.spotify.com/artist/05UwRaoOjJPuGzCtawrORF) | [Comfort Zone](https://open.spotify.com/album/3Mj5ZSwArYBRCCRt6ZnN3L) | 3:53 |
-| 7 | [Edelweiss](https://open.spotify.com/track/00Cs2pIEXYOWATPGeQywMm) | [Kenny G](https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB) | [Edelweiss](https://open.spotify.com/album/6W9KJZCfnCPm1IpoEgMrXb) | 3:27 |
-| 8 | [Moving Too Fast](https://open.spotify.com/track/2O7uioEz4FLJiOgH2LIJLG) | [Randal Clark](https://open.spotify.com/artist/6nyQjlgqFNP1ZkPECpByYy) | [Moving Too Fast](https://open.spotify.com/album/1AZI6eU4ps97LoiFqxoYua) | 3:42 |
+| 3 | [Make Safe](https://open.spotify.com/track/2vY18rxipRFpTYwaSEEVr4) | [Randal Clark](https://open.spotify.com/artist/6nyQjlgqFNP1ZkPECpByYy) | [Moving Too Fast](https://open.spotify.com/album/2PTey5hRAnZnTG78rvvNox) | 4:12 |
+| 4 | [Forever Together](https://open.spotify.com/track/1GH50Go52ia1z82l7AZalJ) | [Braxton Brothers](https://open.spotify.com/artist/6nkylX7POzzqZ44nSYH2hw) | [Forever Together](https://open.spotify.com/album/5YI2HY4c5vDxTrDkNysfGu) | 4:16 |
+| 5 | [Dancin' Shoes](https://open.spotify.com/track/15i4GMjiFCHKWMYSUTp2CS) | [Paula Atherton](https://open.spotify.com/artist/22aM32I9ao0SJOxWXrsNO6) | [Dancin' Shoes](https://open.spotify.com/album/2bH1chYifngpHOjrlyppS5) | 4:14 |
+| 6 | [Ride the Vibes](https://open.spotify.com/track/2lJzoaHbYNzkvJdG2uSSqv) | [Willie Bradley](https://open.spotify.com/artist/4gbsj58PegOOgFxc5OfIt3), [Ragan Whiteside](https://open.spotify.com/artist/4cvyvGmavtDowPmJMHMlUq) | [Ride the Vibes](https://open.spotify.com/album/6KkYYjSl0cr57tiLlfT7HR) | 3:55 |
+| 7 | [Please Mr\. Groove](https://open.spotify.com/track/4t6HSsIeDTF8Iis2JTSHP5) | [Euge Groove](https://open.spotify.com/artist/05UwRaoOjJPuGzCtawrORF) | [Comfort Zone](https://open.spotify.com/album/3Mj5ZSwArYBRCCRt6ZnN3L) | 3:53 |
+| 8 | [Edelweiss](https://open.spotify.com/track/00Cs2pIEXYOWATPGeQywMm) | [Kenny G](https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB) | [Edelweiss](https://open.spotify.com/album/6W9KJZCfnCPm1IpoEgMrXb) | 3:27 |
 | 9 | [Twilight](https://open.spotify.com/track/2yHVPYPyY6ufasL41DYwh7) | [Randy Scott](https://open.spotify.com/artist/2TN0yEsNdj8cY1854luIQw) | [Twilight](https://open.spotify.com/album/1Gr8ZUvFXgVZWzSLOMW7bE) | 4:33 |
 | 10 | [Victoria Falls](https://open.spotify.com/track/4fudubz4Z7yzxrbn6Ytgnr) | [Matthew Shell](https://open.spotify.com/artist/4XfIiCq9teZp4gSPE0iYC9), [Douglas Lira](https://open.spotify.com/artist/2Ljy5B4j9O8O3cYwCgcZQI), [Angie Nicole](https://open.spotify.com/artist/5tZTqwfxy4zLaEWkVejTws) | [Victoria Falls](https://open.spotify.com/album/0XeOa7J4MyLZcpvEDkq4fp) | 5:18 |
 | 11 | [Monalisa](https://open.spotify.com/track/1N26FYH3eEpD9k00ffxqFM) | [Brendan Ross](https://open.spotify.com/artist/3M01zUDEhtQi29cFkqhBhJ) | [Monalisa](https://open.spotify.com/album/1cHZpnvW34ebs0IcH0iMta) | 3:37 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTEbYi1zYy0Z.md) - [plain]
 | 99 | [Mama Smiles](https://open.spotify.com/track/6F0XssVvn2ePxP49sXLPZP) | [Michael Haggins](https://open.spotify.com/artist/6CKmfNuULyn3w1pMMHrHqx) | [Mama Smiles](https://open.spotify.com/album/4UOfNT5ngk0VXXBxSiH7hy) | 4:20 |
 | 100 | [Living in This House](https://open.spotify.com/track/5S2PbWaPKAsVf7D2cnzplv) | [Threestyle](https://open.spotify.com/artist/6Dj8bjGUnCYJddzoiTdJjX) | [Living in This House](https://open.spotify.com/album/2pz7mH3t10WshRh1P23qcP) | 3:54 |
 
-Snapshot ID: `MCxmMDExYTY2MTNiOGU0NjQxMDNjYmUzMGNlMTNhMjZmYTcxZThiNWYy`
+Snapshot ID: `MCwzMWRlMDdkYTY5MDA3YTI0OTI4MzVkYmNkMTI1MGVkMTZhN2I4ODMw`

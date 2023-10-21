@@ -1,12 +1,12 @@
 {
   "description": "High energy Techno to boost your workout.",
-  "num_followers": 232666,
+  "num_followers": 233069,
   "original_name": "Techno Workout",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkNWY4OTE5YTIxODE5NTQ1NjE4M2VlYjVhMDA3OWNhOGI5Mjg5Nzk3",
+  "snapshot_id": "MCw3ZDY5ZjY3NDM1MDM0MzNhMDdhZjVmZjMyYTdlN2ZlYTljZDY4OGVk",
   "tracks": [
     {
       "added_at": "2023-10-13 08:11:02",
@@ -499,6 +499,30 @@
     {
       "added_at": "2023-10-13 08:11:02",
       "album": {
+        "name": "Mercury",
+        "url": "https://open.spotify.com/album/5PrEi7aLxDosgWfIa3eegg"
+      },
+      "artists": [
+        {
+          "name": "HI-LO",
+          "url": "https://open.spotify.com/artist/0ETJQforv5OXgDgidQv9qd"
+        },
+        {
+          "name": "Space 92",
+          "url": "https://open.spotify.com/artist/6TVdVlY6irsNPkMHT2HkfD"
+        },
+        {
+          "name": "Oliver Heldens",
+          "url": "https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p"
+        }
+      ],
+      "duration_ms": 225346,
+      "name": "Mercury",
+      "url": "https://open.spotify.com/track/3NWMxXgzWvtO3j8o9eFkOi"
+    },
+    {
+      "added_at": "2023-10-13 08:11:02",
+      "album": {
         "name": "Bells of Notre Dame",
         "url": "https://open.spotify.com/album/32OCQHT0jFTEN1d8yP1Wtz"
       },
@@ -527,30 +551,6 @@
       "duration_ms": 485760,
       "name": "Black Unicorn",
       "url": "https://open.spotify.com/track/1WSF0LJGwJkYejuMtyJVuA"
-    },
-    {
-      "added_at": "2023-10-13 08:11:02",
-      "album": {
-        "name": "Mercury",
-        "url": "https://open.spotify.com/album/5PrEi7aLxDosgWfIa3eegg"
-      },
-      "artists": [
-        {
-          "name": "HI-LO",
-          "url": "https://open.spotify.com/artist/0ETJQforv5OXgDgidQv9qd"
-        },
-        {
-          "name": "Space 92",
-          "url": "https://open.spotify.com/artist/6TVdVlY6irsNPkMHT2HkfD"
-        },
-        {
-          "name": "Oliver Heldens",
-          "url": "https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p"
-        }
-      ],
-      "duration_ms": 225346,
-      "name": "Mercury",
-      "url": "https://open.spotify.com/track/3NWMxXgzWvtO3j8o9eFkOi"
     },
     {
       "added_at": "2023-10-13 08:11:02",
@@ -627,22 +627,6 @@
     {
       "added_at": "2023-10-13 08:11:02",
       "album": {
-        "name": "Inside My Head",
-        "url": "https://open.spotify.com/album/4hviWBBIv5SqDae4nljvEc"
-      },
-      "artists": [
-        {
-          "name": "AKKI (DE)",
-          "url": "https://open.spotify.com/artist/0hReHYoLJG38QBwYIZ8zKs"
-        }
-      ],
-      "duration_ms": 419164,
-      "name": "Inside My Head",
-      "url": "https://open.spotify.com/track/3YR7XdHKPA21815NjqWZeB"
-    },
-    {
-      "added_at": "2023-10-13 08:11:02",
-      "album": {
         "name": "Deep Down",
         "url": "https://open.spotify.com/album/5BmzD0le5f5nt4mbTzz2VT"
       },
@@ -655,6 +639,22 @@
       "duration_ms": 220488,
       "name": "Deep Down",
       "url": "https://open.spotify.com/track/2gyh8uqnB5jkZQT9norbkW"
+    },
+    {
+      "added_at": "2023-10-13 08:11:02",
+      "album": {
+        "name": "Inside My Head",
+        "url": "https://open.spotify.com/album/4hviWBBIv5SqDae4nljvEc"
+      },
+      "artists": [
+        {
+          "name": "AKKI (DE)",
+          "url": "https://open.spotify.com/artist/0hReHYoLJG38QBwYIZ8zKs"
+        }
+      ],
+      "duration_ms": 419164,
+      "name": "Inside My Head",
+      "url": "https://open.spotify.com/track/3YR7XdHKPA21815NjqWZeB"
     },
     {
       "added_at": "2023-10-13 08:11:02",
@@ -763,22 +763,6 @@
     {
       "added_at": "2023-10-13 08:11:02",
       "album": {
-        "name": "Experience",
-        "url": "https://open.spotify.com/album/2mHKmSPCtMud5SwgzMNEQ1"
-      },
-      "artists": [
-        {
-          "name": "Luna Lucci",
-          "url": "https://open.spotify.com/artist/2YDL5wHehd2wcAC9eBKmtp"
-        }
-      ],
-      "duration_ms": 348444,
-      "name": "Experience",
-      "url": "https://open.spotify.com/track/6ewzsniysRplwdDRA7eNdn"
-    },
-    {
-      "added_at": "2023-10-13 08:11:02",
-      "album": {
         "name": "Believe",
         "url": "https://open.spotify.com/album/3CBJ2fnrJfyp5UnrIt6Wvw"
       },
@@ -791,6 +775,22 @@
       "duration_ms": 408669,
       "name": "Believe",
       "url": "https://open.spotify.com/track/1STyRAWBlr18jm9aRBVrqE"
+    },
+    {
+      "added_at": "2023-10-13 08:11:02",
+      "album": {
+        "name": "Experience",
+        "url": "https://open.spotify.com/album/2mHKmSPCtMud5SwgzMNEQ1"
+      },
+      "artists": [
+        {
+          "name": "Luna Lucci",
+          "url": "https://open.spotify.com/artist/2YDL5wHehd2wcAC9eBKmtp"
+        }
+      ],
+      "duration_ms": 348444,
+      "name": "Experience",
+      "url": "https://open.spotify.com/track/6ewzsniysRplwdDRA7eNdn"
     },
     {
       "added_at": "2023-10-13 08:11:02",
@@ -827,18 +827,26 @@
     {
       "added_at": "2023-10-13 08:11:02",
       "album": {
-        "name": "Together One Time",
-        "url": "https://open.spotify.com/album/7oF7soCZFmCFhnLeDKQ19Y"
+        "name": "Flying Octopus",
+        "url": "https://open.spotify.com/album/5My1BEqn9HJ2ig4pDlsZ0m"
       },
       "artists": [
         {
-          "name": "Kaiserdisco",
-          "url": "https://open.spotify.com/artist/2lPXenWgbh51R950CMdk6i"
+          "name": "Reinier Zonneveld",
+          "url": "https://open.spotify.com/artist/21A7bhIL1m6CNZn8y57PIZ"
+        },
+        {
+          "name": "HI-LO",
+          "url": "https://open.spotify.com/artist/0ETJQforv5OXgDgidQv9qd"
+        },
+        {
+          "name": "Oliver Heldens",
+          "url": "https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p"
         }
       ],
-      "duration_ms": 288671,
-      "name": "Together One Time",
-      "url": "https://open.spotify.com/track/5UH3wpmBqgrTqMjtBdDv2s"
+      "duration_ms": 211617,
+      "name": "Flying Octopus",
+      "url": "https://open.spotify.com/track/0n2jPpNThUiLaf39k1Jfz7"
     },
     {
       "added_at": "2023-10-13 08:11:02",
@@ -867,18 +875,18 @@
     {
       "added_at": "2023-10-13 08:11:02",
       "album": {
-        "name": "Lonely Traveller",
-        "url": "https://open.spotify.com/album/4i9RkTe3UWHPknzuGLHHit"
+        "name": "Together One Time",
+        "url": "https://open.spotify.com/album/7oF7soCZFmCFhnLeDKQ19Y"
       },
       "artists": [
         {
-          "name": "Klanglos",
-          "url": "https://open.spotify.com/artist/1jV311C5ADuBqCPpprsjUp"
+          "name": "Kaiserdisco",
+          "url": "https://open.spotify.com/artist/2lPXenWgbh51R950CMdk6i"
         }
       ],
-      "duration_ms": 366038,
-      "name": "Lonely Traveller",
-      "url": "https://open.spotify.com/track/2tfiF1GUsv0z78VraiNU5A"
+      "duration_ms": 288671,
+      "name": "Together One Time",
+      "url": "https://open.spotify.com/track/5UH3wpmBqgrTqMjtBdDv2s"
     }
   ],
   "unique_name": "Techno Workout",

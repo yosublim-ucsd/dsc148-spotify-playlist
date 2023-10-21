@@ -1,12 +1,12 @@
 {
   "description": "The best of today's pop worship music.  Turn the beat up! Cover: Switch",
-  "num_followers": 124227,
+  "num_followers": 124258,
   "original_name": "Hits UP",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyZTdmZjIzYzcyMzVmZDUzMzcxNjE4YThmZDA4ZDMyZjE0YTFhZWQx",
+  "snapshot_id": "MCxkYjQzMzFkYmY0MjRkZjkxOGQ3M2E5ZjgwMDVkYjFhMWY2YzQyODc4",
   "tracks": [
     {
       "added_at": "2023-02-18 04:35:24",
@@ -491,18 +491,18 @@
     {
       "added_at": "2023-02-18 04:35:24",
       "album": {
-        "name": "BETTER WITH YOU",
-        "url": "https://open.spotify.com/album/7M3bVpD6IaQDDzVegVgJJz"
+        "name": "Wild",
+        "url": "https://open.spotify.com/album/35AsKn2qqeUGyxelYUX1qd"
       },
       "artists": [
         {
-          "name": "ELEVATION RHYTHM",
-          "url": "https://open.spotify.com/artist/0qZ8aSF0iMCQI99AAXikF8"
+          "name": "Local Sound",
+          "url": "https://open.spotify.com/artist/2cXyPSMdJcGw3t9yNhwTN2"
         }
       ],
-      "duration_ms": 166405,
-      "name": "BETTER WITH YOU",
-      "url": "https://open.spotify.com/track/3OAfKHdo5dhB14BN9WI8UT"
+      "duration_ms": 234443,
+      "name": "Wild",
+      "url": "https://open.spotify.com/track/2masBgZDOTFiuUbKTa7AXu"
     },
     {
       "added_at": "2023-02-18 04:35:24",
@@ -523,18 +523,18 @@
     {
       "added_at": "2023-02-18 04:35:24",
       "album": {
-        "name": "Wild",
-        "url": "https://open.spotify.com/album/35AsKn2qqeUGyxelYUX1qd"
+        "name": "BETTER WITH YOU",
+        "url": "https://open.spotify.com/album/7M3bVpD6IaQDDzVegVgJJz"
       },
       "artists": [
         {
-          "name": "Local Sound",
-          "url": "https://open.spotify.com/artist/2cXyPSMdJcGw3t9yNhwTN2"
+          "name": "ELEVATION RHYTHM",
+          "url": "https://open.spotify.com/artist/0qZ8aSF0iMCQI99AAXikF8"
         }
       ],
-      "duration_ms": 234443,
-      "name": "Wild",
-      "url": "https://open.spotify.com/track/2masBgZDOTFiuUbKTa7AXu"
+      "duration_ms": 166405,
+      "name": "BETTER WITH YOU",
+      "url": "https://open.spotify.com/track/3OAfKHdo5dhB14BN9WI8UT"
     },
     {
       "added_at": "2023-02-18 04:35:24",
@@ -615,6 +615,22 @@
     {
       "added_at": "2023-02-18 04:35:24",
       "album": {
+        "name": "Nobody",
+        "url": "https://open.spotify.com/album/0WYEPMMXkI0XVuKs3c9iZX"
+      },
+      "artists": [
+        {
+          "name": "Local Sound",
+          "url": "https://open.spotify.com/artist/2cXyPSMdJcGw3t9yNhwTN2"
+        }
+      ],
+      "duration_ms": 187692,
+      "name": "Nobody",
+      "url": "https://open.spotify.com/track/6v1Hgn7yTvz7vQkJiRBESz"
+    },
+    {
+      "added_at": "2023-02-18 04:35:24",
+      "album": {
         "name": "EXIT",
         "url": "https://open.spotify.com/album/23hocB8tXBHfvImk7SNPnv"
       },
@@ -643,22 +659,6 @@
       "duration_ms": 200360,
       "name": "Way Truth Life - Live",
       "url": "https://open.spotify.com/track/2eYJSfG4XE5M1PbcecUiMd"
-    },
-    {
-      "added_at": "2023-02-18 04:35:24",
-      "album": {
-        "name": "Nobody",
-        "url": "https://open.spotify.com/album/0WYEPMMXkI0XVuKs3c9iZX"
-      },
-      "artists": [
-        {
-          "name": "Local Sound",
-          "url": "https://open.spotify.com/artist/2cXyPSMdJcGw3t9yNhwTN2"
-        }
-      ],
-      "duration_ms": 187692,
-      "name": "Nobody",
-      "url": "https://open.spotify.com/track/6v1Hgn7yTvz7vQkJiRBESz"
     },
     {
       "added_at": "2023-02-18 04:35:24",
@@ -791,6 +791,22 @@
     {
       "added_at": "2023-02-18 04:35:24",
       "album": {
+        "name": "I Could Sing Of Your Love Forever",
+        "url": "https://open.spotify.com/album/16fMATKYNi10ChZuJj0dMd"
+      },
+      "artists": [
+        {
+          "name": "Local Sound",
+          "url": "https://open.spotify.com/artist/2cXyPSMdJcGw3t9yNhwTN2"
+        }
+      ],
+      "duration_ms": 212998,
+      "name": "I Could Sing of Your Love Forever",
+      "url": "https://open.spotify.com/track/1Qr7fNKEpGXK3DPXYawbzm"
+    },
+    {
+      "added_at": "2023-02-18 04:35:24",
+      "album": {
         "name": "LET YOURSELF BE LOVED",
         "url": "https://open.spotify.com/album/1Ru5mrSp6RQUPpQFf0doee"
       },
@@ -819,22 +835,6 @@
       "duration_ms": 168853,
       "name": "Better View",
       "url": "https://open.spotify.com/track/173RgJWVkioV5Ngb8U6q90"
-    },
-    {
-      "added_at": "2023-02-18 04:35:24",
-      "album": {
-        "name": "I Could Sing Of Your Love Forever",
-        "url": "https://open.spotify.com/album/16fMATKYNi10ChZuJj0dMd"
-      },
-      "artists": [
-        {
-          "name": "Local Sound",
-          "url": "https://open.spotify.com/artist/2cXyPSMdJcGw3t9yNhwTN2"
-        }
-      ],
-      "duration_ms": 212998,
-      "name": "I Could Sing of Your Love Forever",
-      "url": "https://open.spotify.com/track/1Qr7fNKEpGXK3DPXYawbzm"
     },
     {
       "added_at": "2023-02-18 04:35:24",
@@ -987,6 +987,26 @@
     {
       "added_at": "2023-02-18 04:35:24",
       "album": {
+        "name": "Canyon Worship 2021",
+        "url": "https://open.spotify.com/album/3MZH0Cvtpcxg0k0IxU2WYQ"
+      },
+      "artists": [
+        {
+          "name": "Canyon Worship",
+          "url": "https://open.spotify.com/artist/34byivaRKITJU1NfWWStSh"
+        },
+        {
+          "name": "Madison Russell",
+          "url": "https://open.spotify.com/artist/00xu7fxzwAYDL9K9dcVVld"
+        }
+      ],
+      "duration_ms": 208204,
+      "name": "All I Want",
+      "url": "https://open.spotify.com/track/5TG7qr0Fia6dVyfdDlaUFo"
+    },
+    {
+      "added_at": "2023-02-18 04:35:24",
+      "album": {
         "name": "Easy Never Needed You",
         "url": "https://open.spotify.com/album/0osacoD5uOk9ogjVxHbjUF"
       },
@@ -1015,26 +1035,6 @@
       "duration_ms": 223346,
       "name": "Hands High",
       "url": "https://open.spotify.com/track/6Hv6JPMfjyHa73pmuiRR05"
-    },
-    {
-      "added_at": "2023-02-18 04:35:24",
-      "album": {
-        "name": "Canyon Worship 2021",
-        "url": "https://open.spotify.com/album/3MZH0Cvtpcxg0k0IxU2WYQ"
-      },
-      "artists": [
-        {
-          "name": "Canyon Worship",
-          "url": "https://open.spotify.com/artist/34byivaRKITJU1NfWWStSh"
-        },
-        {
-          "name": "Madison Russell",
-          "url": "https://open.spotify.com/artist/00xu7fxzwAYDL9K9dcVVld"
-        }
-      ],
-      "duration_ms": 208204,
-      "name": "All I Want",
-      "url": "https://open.spotify.com/track/5TG7qr0Fia6dVyfdDlaUFo"
     },
     {
       "added_at": "2023-02-18 04:35:24",

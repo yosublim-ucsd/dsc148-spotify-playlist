@@ -491,6 +491,24 @@
     },
     {
       "album": {
+        "name": "Angel in the Fire",
+        "url": "https://open.spotify.com/album/6ojbXCiwEFcC16vVEg7ott"
+      },
+      "artists": [
+        {
+          "name": "Jessi Colter",
+          "url": "https://open.spotify.com/artist/43HpW8B5gYRnYbSzm37n5v"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247146,
+      "name": "Angel in the Fire",
+      "url": "https://open.spotify.com/track/42h3zdWgo1eHNDyjiJSq9f"
+    },
+    {
+      "album": {
         "name": "Angelina",
         "url": "https://open.spotify.com/album/6CTPTBtlV9CjZvWT9zdF3B"
       },
@@ -3163,6 +3181,28 @@
     },
     {
       "album": {
+        "name": "Enlisted",
+        "url": "https://open.spotify.com/album/3vIkNPu2pu3EejaNlm0bBb"
+      },
+      "artists": [
+        {
+          "name": "Craig Morgan",
+          "url": "https://open.spotify.com/artist/6ktyNEnEukKzskQEiXgCFD"
+        },
+        {
+          "name": "Luke Combs",
+          "url": "https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164837,
+      "name": "Raise The Bar",
+      "url": "https://open.spotify.com/track/7yVL4aBAimYa28PToT2tEF"
+    },
+    {
+      "album": {
         "name": "Ready As I'll Never Be",
         "url": "https://open.spotify.com/album/5H0SF6b6zNFQ5GF6ixsZV1"
       },
@@ -4648,6 +4688,28 @@
       "duration_ms": 261269,
       "name": "World On Fire",
       "url": "https://open.spotify.com/track/680abMjLEy7wOLgR7zaQv4"
+    },
+    {
+      "album": {
+        "name": "Wrecking Ball",
+        "url": "https://open.spotify.com/album/6ckYZ5KfxoZisFywOMThYd"
+      },
+      "artists": [
+        {
+          "name": "Dolly Parton",
+          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
+        },
+        {
+          "name": "Miley Cyrus",
+          "url": "https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235053,
+      "name": "Wrecking Ball",
+      "url": "https://open.spotify.com/track/1Fl4vSE3PegDGtkNL7JXNl"
     },
     {
       "album": {

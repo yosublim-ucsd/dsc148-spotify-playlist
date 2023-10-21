@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX17ZoHNcnTgi.md) - [plain]
 
 > Una unión que no sabrás olvidar\. Escucha la Fusión entre José Alfredo y Silvana Estrada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,654 likes - 50 songs - 2 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,672 likes - 50 songs - 2 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,8 +37,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX17ZoHNcnTgi.md) - [plain]
 | 27 | [Que Manera de Perder](https://open.spotify.com/track/2TcMkF8sfVHG4XIzILREw1) | [Omar Chaparro](https://open.spotify.com/artist/4c2iIMx6xBNZkK79QTilJ6) | [Que Manera de Perder](https://open.spotify.com/album/34bBC4en9SYn5waj8dLTx9) | 3:18 |
 | 28 | [Bodas Negras](https://open.spotify.com/track/0atTF42x0BcueI9yQU04Yf) | [Julio Jaramillo](https://open.spotify.com/artist/6HqPNOo6OV9rPbEY7MP9T8) | [Angustia](https://open.spotify.com/album/1IvomYo3VqEekPuQD7rUXK) | 3:01 |
 | 29 | [En El Ultimo Trago](https://open.spotify.com/track/2NHHppsOEAr4SUTJzHSmEt) | [José Alfredo Jimenez](https://open.spotify.com/artist/2T06whb4s6UiufL1j5Qtz9) | [Viejos Amigos](https://open.spotify.com/album/7rrux0UfvqKxxWBFexdd0d) | 2:16 |
-| 30 | [Te Lo Pido por Favor \- En Vivo \[En el Palacio de Bellas Artes\]](https://open.spotify.com/track/4tC3FF7ExJRq6cDuwuOLII) | [Juan Gabriel](https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq) | [En el Palacio de Bellas Artes](https://open.spotify.com/album/5M3SIJXfL9RQOCUOaXI7TI) | 3:04 |
-| 31 | [Cuido tu Recuerdo](https://open.spotify.com/track/68BdwnKqbYsBalv3IQbPRu) | [Laura Itandehui](https://open.spotify.com/artist/3uxDXFazxpQa87VTMJAdcK) | [Laura Itandehui](https://open.spotify.com/album/4LS3jrPzt2givh5P1n98Ot) | 3:27 |
+| 30 | [Cuido tu Recuerdo](https://open.spotify.com/track/68BdwnKqbYsBalv3IQbPRu) | [Laura Itandehui](https://open.spotify.com/artist/3uxDXFazxpQa87VTMJAdcK) | [Laura Itandehui](https://open.spotify.com/album/4LS3jrPzt2givh5P1n98Ot) | 3:27 |
+| 31 | [Te Lo Pido por Favor \- En Vivo \[En el Palacio de Bellas Artes\]](https://open.spotify.com/track/4tC3FF7ExJRq6cDuwuOLII) | [Juan Gabriel](https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq) | [En el Palacio de Bellas Artes](https://open.spotify.com/album/5M3SIJXfL9RQOCUOaXI7TI) | 3:04 |
 | 32 | [En El Último Trago \- En Vivo](https://open.spotify.com/track/0hFBWqc4gOLlUFsXzAMAnH) | [La Santa Cecilia](https://open.spotify.com/artist/2FZrEn80eCoWrrkGXPLF0v), [Eugenia Leon](https://open.spotify.com/artist/4rb77bUYfTSu6Hkb9Oar8y) | [Amar Y Vivir \(En Vivo Desde La Ciudad De México, 2017\)](https://open.spotify.com/album/4Xjf9chXOeW3SNxnARpMNT) | 2:21 |
 | 33 | [Pa' Todo el Año \(with Paquita la del Barrio\) \- Primera Fila \[En Vivo\]](https://open.spotify.com/track/34DKQzeut1KanGlRmSDW92) | [Las Tres Grandes](https://open.spotify.com/artist/7mR0zzf4j1B1XAAB5qJ8ia), [Paquita La Del Barrio](https://open.spotify.com/artist/1q18ngxrhXlHasoNpc2dt7) | [Primera Fila \(Edición Especial \[En Vivo\]\)](https://open.spotify.com/album/3hNJfS7dWIu5yFiaDJA1LI) | 3:41 |
 | 34 | [Las Ciudades](https://open.spotify.com/track/4cLD4mNNGeYWdppDDkZnPg) | [José Alfredo Jimenez](https://open.spotify.com/artist/2T06whb4s6UiufL1j5Qtz9), [Alicia Juarez](https://open.spotify.com/artist/2MwY1LeuAuGU4xygWhA8hT) | [Alicia Y Jose Alfredo \- Las Coplas Y Todos Sus Exitos](https://open.spotify.com/album/7MtAyy0prlLrru1tIkxwUf) | 2:02 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX17ZoHNcnTgi.md) - [plain]
 | 49 | [Aquellos ojos verdes](https://open.spotify.com/track/0ZZMqV6o9wgDyrrnsMwKUm) | [Bola De Nieve](https://open.spotify.com/artist/1pmg82OsemYIXnWLWxEmiZ) | [La flor de la canela](https://open.spotify.com/album/40feN08wkMH0KNZZoCpT36) | 3:09 |
 | 50 | [En nosotros](https://open.spotify.com/track/0ltvkhMeu0NFLJqbmOBtWs) | [Bola De Nieve](https://open.spotify.com/artist/1pmg82OsemYIXnWLWxEmiZ) | [La flor de la canela](https://open.spotify.com/album/40feN08wkMH0KNZZoCpT36) | 2:38 |
 
-Snapshot ID: `MCxlNTM5MDQ2ZjI0MzZjODlhYzNmY2YzNzVhOTE0MGU5ODc3NTBmOTdm`
+Snapshot ID: `MCxjOWUyMjFkNmIyYzgxZDY4MDRiZmU5YjkwNzEzZjBiMjgyYzMzZmVj`

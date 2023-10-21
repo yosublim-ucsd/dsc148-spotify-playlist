@@ -4,7 +4,7 @@
 
 > Música navideña para celebrar el nacimiento de nuestro Salvador.
 
-177 songs - 11 hr 53 min
+178 songs - 11 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -128,8 +128,9 @@
 | [Noche de paz](https://open.spotify.com/track/1FgGbxn7dhxkjxivVUxF96) | [Deluz](https://open.spotify.com/artist/5fCPGe3IiKm8Id0PZazH9R) | [Noche de paz](https://open.spotify.com/album/3ASFoKaxRtfLItf3UthC91) | 3:06 | 2021-12-24 | 2022-07-29 |
 | [Noche de paz](https://open.spotify.com/track/4KECWIRk40HKi3cqPxZnq0) | [Deluz](https://open.spotify.com/artist/5fCPGe3IiKm8Id0PZazH9R) | [Noche de paz](https://open.spotify.com/album/5xYN99mczSnd6XFrb3J7ku) | 3:06 | 2021-12-24 | 2023-09-29 |
 | [Noche de Paz](https://open.spotify.com/track/7yrj2HSUr4JxqKO6SpiAGn) | [Susy Gonzalez](https://open.spotify.com/artist/5CTNrReVSQ2TyN3QC1M1VG), [Lucia Parker](https://open.spotify.com/artist/182rLxt7agQBKxEQ463u1G) | [Noche de Paz](https://open.spotify.com/album/7qEzUr4aVYEMV7IPgqnSmj) | 4:46 | 2021-12-24 |  |
-| [Noche De Paz \(feat\. Betsy\)](https://open.spotify.com/track/487OTOaC3kiNZ19VVvwPI7) | [Betsy](https://open.spotify.com/artist/7giHVN9ZtS1y4CtkjNT6pK) | [Feliz Navidad](https://open.spotify.com/album/3oJSPmWFXWGbpF36xixwjc) | 3:06 | 2021-12-24 |  |
+| [Noche De Paz \(feat\. Betsy\)](https://open.spotify.com/track/487OTOaC3kiNZ19VVvwPI7) | [Betsy](https://open.spotify.com/artist/7giHVN9ZtS1y4CtkjNT6pK) | [Feliz Navidad](https://open.spotify.com/album/3oJSPmWFXWGbpF36xixwjc) | 3:06 | 2021-12-24 | 2023-10-21 |
 | [Oh Pueblecito De Belen](https://open.spotify.com/track/4lKI5ZRZ1bDp0F1GcYD58J) | [Ricardo Rodriguez](https://open.spotify.com/artist/6Y9YmXDo4ikF3jSI1PfB6l) | [En Navidad](https://open.spotify.com/album/4i4hrs3pRUer7gc8TIR2sI) | 3:05 | 2021-12-24 | 2023-07-22 |
+| [Oh Pueblecito de Belén](https://open.spotify.com/track/2GP30FqtFIXURVGj0T4GXk) | [Ricardo Rodriguez](https://open.spotify.com/artist/6Y9YmXDo4ikF3jSI1PfB6l) | [En Navidad](https://open.spotify.com/album/6o0ntlD4u83NeaMhLqisNP) | 3:07 | 2022-12-10 |  |
 | [Oh ven, Emanuel](https://open.spotify.com/track/04LgjXIG0KBOHTbMbhsOcC) | [Alfarero](https://open.spotify.com/artist/5IONMXTbTpZKzkiepXoohq) | [Oh ven, Emanuel](https://open.spotify.com/album/0QHibQsKvZz76UCLpNR9gV) | 4:14 | 2021-12-24 |  |
 | [Oh ven, Emanuel](https://open.spotify.com/track/5YQntlCDSQQk6x1cLKZYre) | [Alfarero](https://open.spotify.com/artist/5IONMXTbTpZKzkiepXoohq) | [Oh ven, Emanuel](https://open.spotify.com/album/2Iif4im5XNU94vBoMCOm6b) | 4:14 | 2021-12-24 | 2022-07-29 |
 | [Oh, Noche Santa](https://open.spotify.com/track/2IPzoGzqgaPURImpB0dLnb) | [Alysia](https://open.spotify.com/artist/5i1cFj8DOqbxlWSRzDaWlE), [Joivan Jimenez](https://open.spotify.com/artist/6Z6iqWKEiZ3n2zOkSVqnUu) | [Oh, Noche Santa](https://open.spotify.com/album/2pdxLLrvUCDz1KA2Li6DJZ) | 3:53 | 2021-12-24 |  |

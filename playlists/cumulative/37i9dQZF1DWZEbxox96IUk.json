@@ -124,10 +124,28 @@
       ],
       "date_added": "2022-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-21",
       "duration_ms": 204600,
       "name": "C'est l'amour (Version originale)",
       "url": "https://open.spotify.com/track/4avt9wdU3AuLGSu4GFTsu0"
+    },
+    {
+      "album": {
+        "name": "C'est l'amour",
+        "url": "https://open.spotify.com/album/0bcoBIHzBtAmMavPXiXfgP"
+      },
+      "artists": [
+        {
+          "name": "L\u00e9opold Nord & Vous",
+          "url": "https://open.spotify.com/artist/66M3IT7olPYfvGGRSfXQms"
+        }
+      ],
+      "date_added": "2022-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204600,
+      "name": "C'est l'amour - Version originale",
+      "url": "https://open.spotify.com/track/5fSpVOafE3DSUs0xztUf6k"
     },
     {
       "album": {

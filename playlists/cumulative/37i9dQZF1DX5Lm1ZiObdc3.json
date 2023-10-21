@@ -1099,6 +1099,32 @@
     },
     {
       "album": {
+        "name": "Perpetuum Mobile",
+        "url": "https://open.spotify.com/album/5HeJ1hzlpwrkt8Zs1bgRl7"
+      },
+      "artists": [
+        {
+          "name": "Penguin Cafe",
+          "url": "https://open.spotify.com/artist/1xU7tQkYahN1eWbgEzoure"
+        },
+        {
+          "name": "The City of Prague Philharmonic Orchestra",
+          "url": "https://open.spotify.com/artist/2oQJQUIpJFFnfKvHJA0xBu"
+        },
+        {
+          "name": "Guy Protheroe",
+          "url": "https://open.spotify.com/artist/1aps2Pe8j8EGjMHmIJfQOC"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 281178,
+      "name": "Perpetuum Mobile",
+      "url": "https://open.spotify.com/track/2oB8M5SgTEErVFwicI5Hjo"
+    },
+    {
+      "album": {
         "name": "African Heritage Symphonic Series, Vol. 1",
         "url": "https://open.spotify.com/album/2uWmtnkepfi7rZLijWYDhU"
       },

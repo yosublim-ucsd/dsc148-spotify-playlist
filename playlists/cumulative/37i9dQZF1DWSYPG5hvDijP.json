@@ -1252,7 +1252,7 @@
       ],
       "date_added": "2023-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-21",
       "duration_ms": 132000,
       "name": "Ghummi Ghummi",
       "url": "https://open.spotify.com/track/6NmOh0O40DecD1xCJSuf7p"
@@ -1378,7 +1378,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 208314,
-      "name": "Gulaab Aur Kaante",
+      "name": "Gulab Aur Kaante",
       "url": "https://open.spotify.com/track/4EU7KUawcpfOVIdlDdHsLX"
     },
     {
@@ -2297,6 +2297,24 @@
     },
     {
       "album": {
+        "name": "Mere Yaar",
+        "url": "https://open.spotify.com/album/3lzNDSREtv2HpZ0vqnVYHG"
+      },
+      "artists": [
+        {
+          "name": "Gopi Longia",
+          "url": "https://open.spotify.com/artist/11xVQwDq4SMw5791vgJNRE"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240870,
+      "name": "Mere Yaar",
+      "url": "https://open.spotify.com/track/4WGB2CIMUlIUKmNTA3cDm1"
+    },
+    {
+      "album": {
         "name": "Breadcrumbs",
         "url": "https://open.spotify.com/album/729KNJXudnLaQoZkCnYeDc"
       },
@@ -3150,7 +3168,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-21",
       "duration_ms": 132413,
       "name": "Tarakkiyan - From \"Multani Mitti\"",
       "url": "https://open.spotify.com/track/7sN02weI1CrnLIa5Nk0c3V"

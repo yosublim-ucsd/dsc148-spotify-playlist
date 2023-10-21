@@ -4,7 +4,7 @@
 
 > So fresh, so smooth\. Cover: Jonathan Butler
 
-389 songs - 1 day 3 hr 25 min
+390 songs - 1 day 3 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -215,6 +215,7 @@
 | [Love Nwantiti](https://open.spotify.com/track/06lydkzsIHhHmDZCgZKCDJ) | [J\. White](https://open.spotify.com/artist/10LN78B3CGfkHBYptZGbov) | [Love Nwantiti](https://open.spotify.com/album/1hAt5XyintKlTCsHBz6HHY) | 2:31 | 2023-07-07 |  |
 | [Magic City Streets](https://open.spotify.com/track/6WG2FanAGtFE6rsB3IvCAV) | [Kim Scott](https://open.spotify.com/artist/68nDtoCQKhf7AxQP0q3wSP) | [Magic City Streets](https://open.spotify.com/album/1zlO5c2oerKojvsCvk6mxm) | 3:40 | 2023-07-21 |  |
 | [Magnetic](https://open.spotify.com/track/4dIm1mKNrPj8zzADhw7BTq) | [Tony Craddock, Jr.](https://open.spotify.com/artist/75CcM6i2mssXh9hUXluBrH) | [Magnetic](https://open.spotify.com/album/7uk0OBS4QMrKvATYWugLMc) | 4:03 | 2021-04-23 | 2022-03-15 |
+| [Make Safe](https://open.spotify.com/track/2vY18rxipRFpTYwaSEEVr4) | [Randal Clark](https://open.spotify.com/artist/6nyQjlgqFNP1ZkPECpByYy) | [Moving Too Fast](https://open.spotify.com/album/2PTey5hRAnZnTG78rvvNox) | 4:12 | 2023-10-20 |  |
 | [Make Up Your Mind \- Radio Edit](https://open.spotify.com/track/0RGZmBcov71tCy54JdHwcu) | [Dee Brown](https://open.spotify.com/artist/5KQWbnjf2snsqPD9e3NNt7) | [Make Up Your Mind \(Radio Edit\)](https://open.spotify.com/album/7euOjpEALM3P4Q2p0U6hVC) | 4:00 | 2022-06-17 | 2023-04-29 |
 | [Making Love To You](https://open.spotify.com/track/76M4Z7niotejRyHwsFnEvh) | [Rocco Ventrella](https://open.spotify.com/artist/6X06HdPkKhybx6Q0FKESFJ), [Andrea Razzauti](https://open.spotify.com/artist/37JnRNxKxXJzBZ8Yo7itp1) | [Making Love To You](https://open.spotify.com/album/6BTMbPWNBqjkTzOczj8Kj7) | 4:45 | 2022-07-01 |  |
 | [Mama Smiles](https://open.spotify.com/track/6F0XssVvn2ePxP49sXLPZP) | [Michael Haggins](https://open.spotify.com/artist/6CKmfNuULyn3w1pMMHrHqx) | [Mama Smiles](https://open.spotify.com/album/4UOfNT5ngk0VXXBxSiH7hy) | 4:20 | 2022-09-30 |  |
@@ -233,7 +234,7 @@
 | [Moon Goddess](https://open.spotify.com/track/3ieIBo1fhTNzUsHSMZq3rU) | [Michael Lington](https://open.spotify.com/artist/23P8kVBVyDkO8s6sn1QDre) | [Moon Goddess](https://open.spotify.com/album/7J7ldYnPXb8DqXK5gQSeQi) | 4:05 | 2023-03-24 |  |
 | [Motor City Moves \(feat\. Lin Rountree\)](https://open.spotify.com/track/5P8qx52DAW0ZQ4qijSHePN) | [J\. White](https://open.spotify.com/artist/10LN78B3CGfkHBYptZGbov), [Lin Rountree](https://open.spotify.com/artist/4SVXSNL59kiSLgjwZeEfDg) | [Free](https://open.spotify.com/album/1JsNa5M9CjJcK56SbXlcsU) | 4:24 | 2022-10-07 | 2023-08-26 |
 | [Movin' N Groovin](https://open.spotify.com/track/5NmCYR2MIpJhHzB5nAwDUE) | [Tim Bowman](https://open.spotify.com/artist/0lVHG6dLy7suf4FaubTzF5), [Michael Broening](https://open.spotify.com/artist/3LSpP85R3Dszki2XgI2ORG) | [Movin' N Groovin](https://open.spotify.com/album/5mPrwquK15wRc4rvYBZ8gd) | 4:24 | 2022-03-25 | 2023-03-18 |
-| [Moving Too Fast](https://open.spotify.com/track/2O7uioEz4FLJiOgH2LIJLG) | [Randal Clark](https://open.spotify.com/artist/6nyQjlgqFNP1ZkPECpByYy) | [Moving Too Fast](https://open.spotify.com/album/1AZI6eU4ps97LoiFqxoYua) | 3:42 | 2023-10-06 |  |
+| [Moving Too Fast](https://open.spotify.com/track/2O7uioEz4FLJiOgH2LIJLG) | [Randal Clark](https://open.spotify.com/artist/6nyQjlgqFNP1ZkPECpByYy) | [Moving Too Fast](https://open.spotify.com/album/1AZI6eU4ps97LoiFqxoYua) | 3:42 | 2023-10-06 | 2023-10-21 |
 | [My Love](https://open.spotify.com/track/5GbDy0yVyeHz0s6klHzfou) | [Michael Lington](https://open.spotify.com/artist/23P8kVBVyDkO8s6sn1QDre), [Dave Koz](https://open.spotify.com/artist/0ZcJXldoq09BRIMl0Qh1Vm) | [Alone Together \(The Duets\)](https://open.spotify.com/album/5DpxfYMLNDr7wMI9fV87UD) | 4:47 | 2021-03-26 | 2022-03-17 |
 | [Mystical Moment](https://open.spotify.com/track/2MZPzcULtHa17kQaM0OGmT) | [Willie Bradley](https://open.spotify.com/artist/4gbsj58PegOOgFxc5OfIt3), [Nathan Mitchell](https://open.spotify.com/artist/3MFEZHs5sogmFDMISdJ5BX) | [It's My Time](https://open.spotify.com/album/5Q3khADDwTMYXoPkVBrBdZ) | 3:42 | 2021-07-02 | 2022-09-17 |
 | [New Lives](https://open.spotify.com/track/1Uv9mEVCgAFwdgnvZdyGXh) | [Michael Cates](https://open.spotify.com/artist/4OOHTZ8r9IzokEYsqeXA2A), [Greg Manning](https://open.spotify.com/artist/124ZXfDP304DWzmuOM6Jza) | [New Lives](https://open.spotify.com/album/0MkZW5ETQZkQ5q2Bf7YS1R) | 4:11 | 2023-07-28 | 2023-08-25 |

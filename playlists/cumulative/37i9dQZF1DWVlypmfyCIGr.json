@@ -24810,10 +24810,28 @@
       ],
       "date_added": "2023-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-21",
       "duration_ms": 214134,
       "name": "Lost Summer",
       "url": "https://open.spotify.com/track/2q3eW96Zin7rJ2ERLoKc6b"
+    },
+    {
+      "album": {
+        "name": "Lost Summer",
+        "url": "https://open.spotify.com/album/4roJfs2ucXU2FgilX3pBrJ"
+      },
+      "artists": [
+        {
+          "name": "\u30cd\u30d7",
+          "url": "https://open.spotify.com/artist/3s0gV7mmHu3tdSdCoB8Gbj"
+        }
+      ],
+      "date_added": "2023-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214134,
+      "name": "Lost Summer",
+      "url": "https://open.spotify.com/track/4Ci0WoCSGNehdZT9Lm9vmi"
     },
     {
       "album": {

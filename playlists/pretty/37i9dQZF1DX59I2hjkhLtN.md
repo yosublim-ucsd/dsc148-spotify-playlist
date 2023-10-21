@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59I2hjkhLtN.md) - [plain]
 
 > Novos rappers, novos sons\. Tamos juntos! Foto: Sandrini 2830.
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,430 likes - 100 songs - 5 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,448 likes - 100 songs - 5 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59I2hjkhLtN.md) - [plain]
 | 99 | [VIP](https://open.spotify.com/track/6aDCLSrSOkvrYZKA25vEyy) | [xanny7k](https://open.spotify.com/artist/5mtMzD3yu1LkWnCR29Jjt4) | [VIP](https://open.spotify.com/album/3SUSLyKZOWeNUk7rDQnYNf) | 2:25 |
 | 100 | [Mentirosa](https://open.spotify.com/track/0MV8lykHOTP1L0rluQwNqn) | [Guizzy](https://open.spotify.com/artist/00inQ4w5hP4mYdKHcykVdP) | [Mentirosa](https://open.spotify.com/album/31Dij2qzaZSYOaB6xXiXEU) | 2:26 |
 
-Snapshot ID: `MCwyNzUyMTYxZTIwYWFiYWRmYTQ3OWU1Y2UwMzEzYzhkODI1NTYyN2Rm`
+Snapshot ID: `MCxhYmRjM2Q1Y2FmMmNjYjQ2YzgwMzkyZDZkYTFjY2E2ZTYwZDk0NDU4`

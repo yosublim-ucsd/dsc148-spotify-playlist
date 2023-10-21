@@ -38,7 +38,7 @@
       ],
       "date_added": "2023-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-21",
       "duration_ms": 205734,
       "name": "A Part Of - Riva Starr Saturn Mix",
       "url": "https://open.spotify.com/track/6T0cqi5DxO1sf5B3EnKD9b"
@@ -845,6 +845,24 @@
     },
     {
       "album": {
+        "name": "Make It Work",
+        "url": "https://open.spotify.com/album/09Do0PDhXz1QeDAwHcFeF1"
+      },
+      "artists": [
+        {
+          "name": "Bklava",
+          "url": "https://open.spotify.com/artist/71t5uC7AYxisT7Z55Y2Kqd"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221846,
+      "name": "Make It Work",
+      "url": "https://open.spotify.com/track/6S9HZZ2TCwUyi7GuK1SwTs"
+    },
+    {
+      "album": {
         "name": "Mercy (feat. Jacob Lusk)",
         "url": "https://open.spotify.com/album/0fUKZB6bCIkamKICaWy2t2"
       },
@@ -868,6 +886,24 @@
       "duration_ms": 178242,
       "name": "Mercy (feat. Jacob Lusk)",
       "url": "https://open.spotify.com/track/4ejCsNXh66YasBUiwfBhDg"
+    },
+    {
+      "album": {
+        "name": "Minor Fools",
+        "url": "https://open.spotify.com/album/1Av53Ax9wI3qTHSBpmYzKx"
+      },
+      "artists": [
+        {
+          "name": "Dam Swindle",
+          "url": "https://open.spotify.com/artist/6hJtgCB3L5cnJSND7sp6GU"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232598,
+      "name": "Minor Fools - Edit",
+      "url": "https://open.spotify.com/track/5Tnn9kaAshnriaS9jKeMio"
     },
     {
       "album": {
@@ -1148,7 +1184,7 @@
       ],
       "date_added": "2023-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-21",
       "duration_ms": 174720,
       "name": "Ride Inside the Uk",
       "url": "https://open.spotify.com/track/2atgyIXUwUN7IsMFrygEpN"

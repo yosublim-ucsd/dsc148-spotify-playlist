@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2020-10-13",
-  "description": "Future K-Pop hits! Cover: JINI",
+  "description": "Future K-Pop hits! Cover: TREASURE",
   "name": "K-Pop Rising",
   "tracks": [
     {
@@ -956,6 +956,24 @@
       "duration_ms": 200786,
       "name": "B.A.D",
       "url": "https://open.spotify.com/track/3VJtASWPj2bu8aGL8cvtss"
+    },
+    {
+      "album": {
+        "name": "B.O.M.B (KABOOM ver.)",
+        "url": "https://open.spotify.com/album/4MPeGD5fJa85Q8k3AwFGJS"
+      },
+      "artists": [
+        {
+          "name": "TREASURE",
+          "url": "https://open.spotify.com/artist/3KonOYiLsU53m4yT7gNotP"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217229,
+      "name": "B.O.M.B - KABOOM ver.",
+      "url": "https://open.spotify.com/track/435tPAXJyzIEBzxYsHeUhd"
     },
     {
       "album": {
@@ -5829,6 +5847,24 @@
     },
     {
       "album": {
+        "name": "Give You My All",
+        "url": "https://open.spotify.com/album/7492V3qcwPAToQhe9KXo1A"
+      },
+      "artists": [
+        {
+          "name": "HIGHLIGHT",
+          "url": "https://open.spotify.com/artist/3T0fMfxYBU3q9oAUAdPIsr"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165266,
+      "name": "Give You My All",
+      "url": "https://open.spotify.com/track/5qnEx0iZtcFoUXPlY8iQhk"
+    },
+    {
+      "album": {
         "name": "BORDER : DAY ONE",
         "url": "https://open.spotify.com/album/3YxF7jTnpdNepWbO42f8lH"
       },
@@ -10032,7 +10068,7 @@
       ],
       "date_added": "2023-09-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-21",
       "duration_ms": 236640,
       "name": "N.Y.C.T",
       "url": "https://open.spotify.com/track/4ksIFsGXezKXZX91dE6ClJ"
@@ -12161,6 +12197,24 @@
     },
     {
       "album": {
+        "name": "Late Night",
+        "url": "https://open.spotify.com/album/1vj8CCni8X7U1im2eg62r3"
+      },
+      "artists": [
+        {
+          "name": "Jay Chang",
+          "url": "https://open.spotify.com/artist/7H2xroGGrPmbmHtwBOZyLT"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192173,
+      "name": "Rockstar",
+      "url": "https://open.spotify.com/track/7z8EC940EnKqsHQGz5NwEe"
+    },
+    {
+      "album": {
         "name": "Where is my Garden!",
         "url": "https://open.spotify.com/album/5A0G6El208bcSxPfNw0CrR"
       },
@@ -12454,7 +12508,7 @@
       ],
       "date_added": "2023-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-21",
       "duration_ms": 315333,
       "name": "Sage",
       "url": "https://open.spotify.com/track/6dM5NQE3BYCZZKWubBbR40"
@@ -14980,7 +15034,7 @@
       ],
       "date_added": "2023-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-21",
       "duration_ms": 214355,
       "name": "Time Spent Walking Through Memories (Feat. 10CM)",
       "url": "https://open.spotify.com/track/484dgUyawknLkNyQfXoDkh"

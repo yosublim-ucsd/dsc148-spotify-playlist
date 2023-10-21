@@ -4,7 +4,7 @@
 
 > A mix of folk and bluegrass covers of pop, rock, hip\-hop, folk, and indie songs\. Cover: The Cleverlys
 
-243 songs - 15 hr 34 min
+244 songs - 15 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -75,6 +75,7 @@
 | [Fake Empire](https://open.spotify.com/track/0YZWUkELGlFigAxGLMnfj8) | [Molly Tuttle](https://open.spotify.com/artist/4LX0KCPnH7gvxEbVXqXmAE) | [...but i'd rather be with you](https://open.spotify.com/album/1Misn812Z5W216eNI7NuIy) | 3:25 | 2021-08-20 |  |
 | [Feelin' Good Again](https://open.spotify.com/track/6NPQXZup3ytDnmgWFlaqqU) | [The Brother Brothers](https://open.spotify.com/artist/7bsyET4aRFBJ9dOtGeHCX5) | [Cover to Cover](https://open.spotify.com/album/4N2eJ7m1ziNW5ODI6jGOTB) | 3:31 | 2022-08-09 |  |
 | [Fields Of Gold](https://open.spotify.com/track/4buQZSZOZeyEwDFXsrGBCM) | [Danny Burns](https://open.spotify.com/artist/7vjM9siqHKUjRrgopSgNLU), [Tim O'Brien](https://open.spotify.com/artist/2nJQCVut36kUzDfy3eUZCM) | [Fields Of Gold](https://open.spotify.com/album/2Ik9BowAsjPPahUwRODcw3) | 3:30 | 2023-02-17 |  |
+| [Fire and Rain](https://open.spotify.com/track/4vqiHn2vIgs7HjJbc0pvYF) | [Ron Pope](https://open.spotify.com/artist/6CmXhyslohOFRJMtPpRm4O) | [Fire and Rain](https://open.spotify.com/album/7gQEW5gWpzPgrObCHeZRob) | 3:33 | 2023-10-20 |  |
 | [Float On](https://open.spotify.com/track/1MQGtGT7te6yAQMVKvvRbs) | [Ben Lee](https://open.spotify.com/artist/06y1hH4hu3rcTUXHJevPCf) | [John Tucker Must Die](https://open.spotify.com/album/4RvZcbxP0bgCfo5PrMaN4x) | 4:01 | 2021-08-20 | 2022-07-29 |
 | [Float On](https://open.spotify.com/track/3mGB1bpKzXqFAELigaTBxk) | [Ben Lee](https://open.spotify.com/artist/06y1hH4hu3rcTUXHJevPCf) | [John Tucker Must Die \(Music From The Motion Picture\)](https://open.spotify.com/album/7BjfZEpQGqsFcDnlH8n4lr) | 4:01 | 2022-05-27 | 2023-08-12 |
 | [Folsom Prison Blues](https://open.spotify.com/track/0BFN1J0LuXXVUExLKkuNvB) | [The String Revolution](https://open.spotify.com/artist/3a92Lwi4cm5FadiUpIpizc), [Tommy Emmanuel](https://open.spotify.com/artist/6HjfVflhYjbu6PSIsFOjwM) | [Folsom Prison Blues](https://open.spotify.com/album/0lRIWEVebJgKYWyQa2PNhW) | 3:26 | 2023-07-28 |  |

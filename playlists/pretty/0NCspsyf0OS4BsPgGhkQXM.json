@@ -1,12 +1,12 @@
 {
   "description": "The Official Trap Nation Playlist ",
-  "num_followers": 2046875,
+  "num_followers": 2046886,
   "original_name": "Trap Nation",
   "owner": {
     "name": "Trap Nation",
     "url": "https://open.spotify.com/user/alltrapnation"
   },
-  "snapshot_id": "MTQwNzUsNDVlOTUxMTFkNmRmYjI3N2JkY2FhNThmYTNkOThlMTA0MzFiNzU0Yg==",
+  "snapshot_id": "MTQwODYsOTkxNjk0MWQ5ZWNjZWY1NDllY2ZkNmZhZmE0M2FkNzBiMTFlOWI0MQ==",
   "tracks": [
     {
       "added_at": "2023-09-06 04:03:55",
@@ -325,6 +325,30 @@
       "url": "https://open.spotify.com/track/5NvBcltC9SGWoo9GnIrkhn"
     },
     {
+      "added_at": "2023-10-20 11:36:34",
+      "album": {
+        "name": "PIANO ESTELAR 1.0",
+        "url": "https://open.spotify.com/album/68qPPnuzxEsjktFUFSrCkK"
+      },
+      "artists": [
+        {
+          "name": "ICHIRO",
+          "url": "https://open.spotify.com/artist/5MUljcWL3VylwkBxs9xw0p"
+        },
+        {
+          "name": "Mc Rd",
+          "url": "https://open.spotify.com/artist/6ugw7JCu0AG7txRcRAxU8d"
+        },
+        {
+          "name": "WZ Beat",
+          "url": "https://open.spotify.com/artist/7hL2l7lWkA75BpTp7bPEt9"
+        }
+      ],
+      "duration_ms": 99764,
+      "name": "PIANO ESTELAR 1.0",
+      "url": "https://open.spotify.com/track/4LKYLc4RTBDJPEHyUEMS4m"
+    },
+    {
       "added_at": "2023-09-06 04:03:55",
       "album": {
         "name": "Queen Of The Clouds",
@@ -639,6 +663,30 @@
       "duration_ms": 197538,
       "name": "Toxic",
       "url": "https://open.spotify.com/track/2nUDK9SvpAA5EEMOJ4Bsn4"
+    },
+    {
+      "added_at": "2023-10-20 11:38:58",
+      "album": {
+        "name": "ROCK RN!",
+        "url": "https://open.spotify.com/album/61GQReFPkwPCAuc7VTjPne"
+      },
+      "artists": [
+        {
+          "name": "FXRCE",
+          "url": "https://open.spotify.com/artist/5UKXrvmyouEgmvon7DwwzA"
+        },
+        {
+          "name": "YXUNGXROTICA",
+          "url": "https://open.spotify.com/artist/7gyc1wWTGmRwZpYtiFwH1D"
+        },
+        {
+          "name": "fkbambam",
+          "url": "https://open.spotify.com/artist/1BZ5smaHoDSI2a61ErUch6"
+        }
+      ],
+      "duration_ms": 77142,
+      "name": "ROCK RN!",
+      "url": "https://open.spotify.com/track/70pbugu4TKU6GSpLOfCxCE"
     },
     {
       "added_at": "2023-09-22 16:39:09",
@@ -2863,6 +2911,82 @@
       "duration_ms": 198620,
       "name": "FAITHLESS",
       "url": "https://open.spotify.com/track/5EBDcfAWfJBhWK7YKmZou9"
+    },
+    {
+      "added_at": "2023-10-20 11:45:13",
+      "album": {
+        "name": "BLOODTHIRSTY",
+        "url": "https://open.spotify.com/album/13fgDQGxSb6iRWplj65WPp"
+      },
+      "artists": [
+        {
+          "name": "SAOTOMAMORE",
+          "url": "https://open.spotify.com/artist/4MxJYU17fdqZ9tzK1d7aeM"
+        },
+        {
+          "name": "KVSTET",
+          "url": "https://open.spotify.com/artist/606IuW05n19DWODtW9jbWo"
+        }
+      ],
+      "duration_ms": 124250,
+      "name": "BLOODTHIRSTY",
+      "url": "https://open.spotify.com/track/6ofeQNh1MzOPV0oeOwSs7q"
+    },
+    {
+      "added_at": "2023-10-20 11:48:16",
+      "album": {
+        "name": "Shots Fired",
+        "url": "https://open.spotify.com/album/2Hk4pwwXj54NG4mmGqrsdj"
+      },
+      "artists": [
+        {
+          "name": "2FISTD",
+          "url": "https://open.spotify.com/artist/08e2eWa0q9i4FZS6n8V4Rs"
+        },
+        {
+          "name": "CHXSE WAVE",
+          "url": "https://open.spotify.com/artist/6wmMB4J3qcm8KdKsjWXlWT"
+        }
+      ],
+      "duration_ms": 112000,
+      "name": "Shots Fired",
+      "url": "https://open.spotify.com/track/6lsHquwUgmI2kPDTYdTraV"
+    },
+    {
+      "added_at": "2023-10-20 11:49:25",
+      "album": {
+        "name": "Wolves",
+        "url": "https://open.spotify.com/album/4vUi3tv0KAxXvcLdeXRvb0"
+      },
+      "artists": [
+        {
+          "name": "Soulji",
+          "url": "https://open.spotify.com/artist/3sCSFXcnA4yqnV7KhnxPnl"
+        }
+      ],
+      "duration_ms": 232500,
+      "name": "Wolves",
+      "url": "https://open.spotify.com/track/4z7GNPrQaorf2sN6AkDONX"
+    },
+    {
+      "added_at": "2023-10-20 11:51:10",
+      "album": {
+        "name": "Heaven",
+        "url": "https://open.spotify.com/album/2ERoXsbrG37mm1xc6GAwcO"
+      },
+      "artists": [
+        {
+          "name": "LILO",
+          "url": "https://open.spotify.com/artist/0N4H4yivPGcRmkdqRrLeyA"
+        },
+        {
+          "name": "Khallil",
+          "url": "https://open.spotify.com/artist/7qu2bxmXLOP3Jz5djDHdi9"
+        }
+      ],
+      "duration_ms": 212967,
+      "name": "Heaven",
+      "url": "https://open.spotify.com/track/61OA68rx0CvGQR0hls0ZwK"
     }
   ],
   "unique_name": "Trap Nation",

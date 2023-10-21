@@ -4,7 +4,7 @@
 
 > it's a vibe \(◡ ‿ ◡ ✿\).
 
-1,124 songs - 2 day 9 hr 40 min
+1,126 songs - 2 day 9 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,7 +18,7 @@
 | [1998](https://open.spotify.com/track/3OVVy7tgErHyYP80fHBXyC) | [Flowerboy](https://open.spotify.com/artist/10HyhQTjkmDpWBpaUgO2GS) | [1998](https://open.spotify.com/album/2lwy8j9xnoBFAHuKZ2onna) | 2:22 | 2021-10-23 | 2021-11-13 |
 | [2 MUCH](https://open.spotify.com/track/5rStXNNkYIN1GMq8OIWrOy) | [Flowerboy](https://open.spotify.com/artist/10HyhQTjkmDpWBpaUgO2GS) | [2 MUCH](https://open.spotify.com/album/6Y76D62j01Kux6tcG60yyR) | 2:12 | 2021-07-31 | 2021-10-16 |
 | [2003](https://open.spotify.com/track/7HjVMDiXcG6bHC9FHGE428) | [adam brian paul](https://open.spotify.com/artist/3t5QpadlJRUDWaL2OXileh) | [2003](https://open.spotify.com/album/1W4pzoxMqrY1RgxV7wHs8m) | 3:39 | 2020-11-28 | 2021-03-06 |
-| [21](https://open.spotify.com/track/49RhtS6ytYNTNBWZTCim9W) | [Madisyn Gifford](https://open.spotify.com/artist/1cNquoaU6Fzw8gbQTxBZ85) | [21](https://open.spotify.com/album/2F93FcT55nGgGrRFGndqCc) | 2:40 | 2022-07-15 |  |
+| [21](https://open.spotify.com/track/49RhtS6ytYNTNBWZTCim9W) | [Madisyn Gifford](https://open.spotify.com/artist/1cNquoaU6Fzw8gbQTxBZ85) | [21](https://open.spotify.com/album/2F93FcT55nGgGrRFGndqCc) | 2:40 | 2022-07-15 | 2023-10-21 |
 | [21st Century Hobby](https://open.spotify.com/track/4RMGlgCIVjvnBYUGRsSe82) | [Oscar Lang](https://open.spotify.com/artist/6deCiWT7ATcDWP2Cvlalvn) | [21st Century Hobby](https://open.spotify.com/album/62nfKZNeYExKqSD87tWH8D) | 3:59 | 2021-06-12 | 2021-06-19 |
 | [23](https://open.spotify.com/track/23KrCGwx1EedHUaZsQe6H5) | [Wallice](https://open.spotify.com/artist/6d6ts87Fxm1EdULf4CaLw4) | [23](https://open.spotify.com/album/57q2kosvxOb8SfHusM99zM) | 2:44 | 2021-02-27 | 2021-05-15 |
 | [25](https://open.spotify.com/track/1osKpP5b18Xi1VmjXyF7Ig) | [daysormay](https://open.spotify.com/artist/1gneO1Mf6DCsgxUtDzF4lS) | [Just Existing](https://open.spotify.com/album/0HguTMRMvOvE7eSxM24tiC) | 2:42 | 2021-10-09 | 2022-02-05 |
@@ -545,7 +545,7 @@
 | [James Dean](https://open.spotify.com/track/77Gdk4vNjXNxQ3fTBu3Nbq) | [Tash Sultana](https://open.spotify.com/artist/6zVFRTB0Y1whWyH7ZNmywf) | [James Dean](https://open.spotify.com/album/2oLPnNQQIreeFE4csdq5An) | 4:26 | 2023-03-17 | 2023-05-11 |
 | [Jet Lag](https://open.spotify.com/track/3AvUUJ8HopzSeDTi9aFiCN) | [Daulton Hopkins](https://open.spotify.com/artist/2OKzhqOz5VFrrD1lCwfNSS) | [Jet Lag](https://open.spotify.com/album/3OACbRi43tEvh5GrPsWrJq) | 2:41 | 2021-02-06 | 2021-03-27 |
 | [Judge Me](https://open.spotify.com/track/0sWwA3apfTCkLMMrivpPeJ) | [Ludic](https://open.spotify.com/artist/6wSoQBJtmwMzGBYjF2tOPs) | [Judge Me](https://open.spotify.com/album/1koBXSMqbuHkIbQhaTQ7V5) | 3:20 | 2022-02-04 | 2022-03-19 |
-| [Julian, king of manhattan](https://open.spotify.com/track/5TrtrNlAvPJ4Rqh1UOb3HE) | [renforshort](https://open.spotify.com/artist/3GYvf7puxwkr51EYoD9E7D) | [dear amelia](https://open.spotify.com/album/2BFeOSMMljkZs37e4uYLtG) | 2:08 | 2022-07-22 |  |
+| [Julian, king of manhattan](https://open.spotify.com/track/5TrtrNlAvPJ4Rqh1UOb3HE) | [renforshort](https://open.spotify.com/artist/3GYvf7puxwkr51EYoD9E7D) | [dear amelia](https://open.spotify.com/album/2BFeOSMMljkZs37e4uYLtG) | 2:08 | 2022-07-22 | 2023-10-21 |
 | [Just Another Thursday](https://open.spotify.com/track/6IK8tNU8rayRzWblczyUcp) | [Delorians](https://open.spotify.com/artist/3veLkV7PryzEQXJnFxDhON) | [Just Another Thursday](https://open.spotify.com/album/4pERR8qSsioJ2JwV5WD5Mp) | 3:30 | 2023-02-24 |  |
 | [Just Because](https://open.spotify.com/track/263EQSN2t8ilPZ4W8s5RRD) | [Mallory Merk](https://open.spotify.com/artist/5GHFapUxfP2H2xxuMytwaF) | [Just Because](https://open.spotify.com/album/2lMu7R88lv31od8CcVXRjI) | 2:53 | 2021-02-27 | 2021-05-29 |
 | [Just Don't](https://open.spotify.com/track/2KIIrpnsVBuHWGjiVx8YkB) | [Zanski](https://open.spotify.com/artist/6IVta6osiP9HifjCLIw4cv) | [Just Don't](https://open.spotify.com/album/0XZGUc88dTR4FqXjnqbSec) | 4:01 | 2021-06-05 | 2021-09-11 |
@@ -830,6 +830,7 @@
 | [Satellite](https://open.spotify.com/track/7GB1amheHeYKw6Kqeatn9Q) | [Leith](https://open.spotify.com/artist/6NloIpzx0PEcGY2NJVVjc1) | [Birthdays In July](https://open.spotify.com/album/2kpybYnysuEAN1cOgoU9os) | 3:04 | 2022-10-07 | 2023-02-11 |
 | [SAVE ME](https://open.spotify.com/track/1sUsD3oaNVO0nIysvQUbo6) | [SEB](https://open.spotify.com/artist/7oPxPZSk7y5q0fhzpmX5Gi) | [SAVE ME](https://open.spotify.com/album/1tsTfiUC8uHWQEL3KmevsD) | 2:13 | 2022-04-22 | 2023-03-11 |
 | [say goodbye](https://open.spotify.com/track/6JdU7eaEl9fPAq0sEVNzGc) | [Sarcastic Sounds](https://open.spotify.com/artist/1bq8rqNnfrojn0OSAfeNXJ) | [say goodbye](https://open.spotify.com/album/1EmJAmRdDyfQAqhXOvKzSB) | 1:26 | 2021-05-15 | 2021-06-27 |
+| [Say It Back](https://open.spotify.com/track/4PUyuqdwCwKjnLZCt0KVJt) | [Peach Luffe](https://open.spotify.com/artist/6KvuacOcxH22xWgQTAwxui) | [Say It Back](https://open.spotify.com/album/5g6qj7zA7Hc4p7jKFcyxbO) | 3:02 | 2023-10-20 |  |
 | [say it over \(feat\. Cautious Clay\)](https://open.spotify.com/track/4jSE5cAaa5rwTyhDSXfwQN) | [Ruel](https://open.spotify.com/artist/5xkAtLTf309LAGZTbvULBn), [Cautious Clay](https://open.spotify.com/artist/6iWuBN32BqCJAeXW6o3nil) | [say it over \(feat\. Cautious Clay\)](https://open.spotify.com/album/66wHES29CUsAIaWHkusEka) | 3:58 | 2020-10-29\* | 2020-11-14 |
 | [Say Less](https://open.spotify.com/track/0C0mdumf7sO63zRFyBCXmo) | [Ethan Surman](https://open.spotify.com/artist/12o3BOYKBwjbsjrW0Fm7iu) | [Say Less](https://open.spotify.com/album/4pRXYx8SnrrUBADBLwSbff) | 3:26 | 2022-06-10 | 2022-09-24 |
 | [Science World](https://open.spotify.com/track/4kPpUlXzUKijZCQBIpNvQv) | [Angus Maude](https://open.spotify.com/artist/2gY6B2dPmOXJaqXjSV4GIo) | [Science World](https://open.spotify.com/album/3BLzYAEovHaSbvvdtcDewD) | 3:03 | 2021-07-04 | 2021-07-31 |
@@ -896,6 +897,7 @@
 | [Song From Hell](https://open.spotify.com/track/4uBl38yXhlcQoko7Hlgqnf) | [Peach Tree Rascals](https://open.spotify.com/artist/0imE3buPhAowREqCrr4CYe) | [Song From Hell](https://open.spotify.com/album/4Fwut2TN000rfci3Cyj7lL) | 3:03 | 2021-10-30 | 2022-03-12 |
 | [Sore Eyes](https://open.spotify.com/track/0peToxR0ejwehVaUEKZEzD) | [Babygirl](https://open.spotify.com/artist/6Y2m4AEOS9JFrsK2goyg7T) | [Sore Eyes](https://open.spotify.com/album/1pNb1AYhy42mSECLH04Vac) | 3:13 | 2023-03-17 | 2023-05-11 |
 | [Sore Eyes](https://open.spotify.com/track/1vyaeOV5TqHDFK7ugi05Sk) | [Babygirl](https://open.spotify.com/artist/6Y2m4AEOS9JFrsK2goyg7T) | [Be Still My Heart](https://open.spotify.com/album/2YHEafnqcoOmGpW8NwBMV0) | 3:13 | 2023-05-05 |  |
+| [Sorority](https://open.spotify.com/track/19CqaxojbrK0QthZtht4nR) | [ELIO](https://open.spotify.com/artist/6xgvgzXNv3ymcITXTrxRaA) | [Sorority](https://open.spotify.com/album/4jctcnJUa2R2N798kp83bl) | 3:33 | 2023-10-20 |  |
 | [Sorry](https://open.spotify.com/track/7ufvTDIjfqAhYZLXUX0lrF) | [Deb Never](https://open.spotify.com/artist/55EarwWraRQY9diMo9Oeul) | [Sorry](https://open.spotify.com/album/6j4oMq6GQubGAHoYqEGrwY) | 3:00 | 2021-04-24 | 2021-08-14 |
 | [space](https://open.spotify.com/track/069GJA2jMuhubyFsaQcRtd) | [Jades Goudreault](https://open.spotify.com/artist/1LFfKkCrn95l1ZuxCNa3yN) | [space](https://open.spotify.com/album/3gXgcspF6qBTJe9diFXCTV) | 4:02 | 2021-12-11 | 2022-04-09 |
 | [Space \(Ain't the Place for Me\)](https://open.spotify.com/track/6uoAXp5s8MBnd2oYibEf2j) | [Saint Zenon](https://open.spotify.com/artist/7zqRekdxVg93PQcJuIazlf), [it's matt](https://open.spotify.com/artist/2ZT5DWAr9Q612GvzgrUll8), [wordsbyjuni](https://open.spotify.com/artist/0yLJt17DnD4o5Z7HQMFFhy), [Edwin Raphael](https://open.spotify.com/artist/44DUgsrbRUlhwfLyj4ySUB), [Claire Ridgely](https://open.spotify.com/artist/0OE65qjIKHqSyU7YWpOQrv), [Half White Full Black](https://open.spotify.com/artist/2c8ObefSxH6n2N8n2gNUKG), [Fox Graham](https://open.spotify.com/artist/7jIYaVTYQWE2AvDS71uz0T), [Pops&Poolboy](https://open.spotify.com/artist/189r1RkN8w4D9mC6sl0KML) | [Space \(Ain't the Place for Me\)](https://open.spotify.com/album/5WxYgRO5bhFLpFgB2Amr8c) | 2:37 | 2021-10-23 | 2022-02-19 |

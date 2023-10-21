@@ -1,15 +1,123 @@
 {
   "description": "'Tis the season! All new holiday releases. Cover: Pentatonix",
-  "num_followers": 224593,
+  "num_followers": 224645,
   "original_name": "New Music Holiday",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5Yjc2NTU4NmMxYzhjYjVkZTQ0OWRlMzc2OTRlMmI4NTY4ZWNjMmNi",
+  "snapshot_id": "MCw5N2ZhNDU0ZTliNjRhMjMwZTk4ZmJhZjViODMzYmI5ZTgwNTVjNDA4",
   "tracks": [
     {
-      "added_at": "2023-10-13 19:01:19",
+      "added_at": "2023-10-20 05:39:35",
+      "album": {
+        "name": "Christmas",
+        "url": "https://open.spotify.com/album/4Eeeg4yMb5qtMEm0lk6lDM"
+      },
+      "artists": [
+        {
+          "name": "Cher",
+          "url": "https://open.spotify.com/artist/72OaDtakiy6yFqkt4TsiFt"
+        },
+        {
+          "name": "Michael Bubl\u00e9",
+          "url": "https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3"
+        }
+      ],
+      "duration_ms": 224586,
+      "name": "Home (with Michael Bubl\u00e9)",
+      "url": "https://open.spotify.com/track/4nX0jG14mSIi0LcmK3sq0b"
+    },
+    {
+      "added_at": "2023-10-20 05:39:35",
+      "album": {
+        "name": "The Greatest Christmas Hits",
+        "url": "https://open.spotify.com/album/4tRcSRjaE98LsBVOm6cSJT"
+      },
+      "artists": [
+        {
+          "name": "Pentatonix",
+          "url": "https://open.spotify.com/artist/26AHtbjWKiwYzsoGoUZq53"
+        }
+      ],
+      "duration_ms": 200133,
+      "name": "Pure Imagination / Christmas Time Is Here",
+      "url": "https://open.spotify.com/track/18QnV6B8oCorqVYkz0Nljp"
+    },
+    {
+      "added_at": "2023-10-20 05:39:35",
+      "album": {
+        "name": "Dear Santa",
+        "url": "https://open.spotify.com/album/2hhMU1z6iEq0UxYMBdp9xp"
+      },
+      "artists": [
+        {
+          "name": "OneRepublic",
+          "url": "https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ"
+        }
+      ],
+      "duration_ms": 169732,
+      "name": "Dear Santa",
+      "url": "https://open.spotify.com/track/5zqzV32ifPJ9XhqfyjYrBy"
+    },
+    {
+      "added_at": "2023-10-20 05:39:35",
+      "album": {
+        "name": "Everything You Want (feat. MUNA)",
+        "url": "https://open.spotify.com/album/3SxxeUmQRDHn2Yq5Xp0Kxx"
+      },
+      "artists": [
+        {
+          "name": "Matt Rogers",
+          "url": "https://open.spotify.com/artist/437cckneXTy4cj15iUWAVZ"
+        },
+        {
+          "name": "MUNA",
+          "url": "https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn"
+        }
+      ],
+      "duration_ms": 218602,
+      "name": "Everything You Want (feat. MUNA)",
+      "url": "https://open.spotify.com/track/7bJplW3g1hYRS5XIzYXxOG"
+    },
+    {
+      "added_at": "2023-10-20 05:39:35",
+      "album": {
+        "name": "Christmas",
+        "url": "https://open.spotify.com/album/4Eeeg4yMb5qtMEm0lk6lDM"
+      },
+      "artists": [
+        {
+          "name": "Cher",
+          "url": "https://open.spotify.com/artist/72OaDtakiy6yFqkt4TsiFt"
+        },
+        {
+          "name": "Stevie Wonder",
+          "url": "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
+        }
+      ],
+      "duration_ms": 155360,
+      "name": "What Christmas Means To Me (with Stevie Wonder)",
+      "url": "https://open.spotify.com/track/6DIA408m0Am7GDTqCzsI59"
+    },
+    {
+      "added_at": "2023-10-20 05:39:35",
+      "album": {
+        "name": "Like A Child",
+        "url": "https://open.spotify.com/album/16grvtJnFp58G4sS7rt7K9"
+      },
+      "artists": [
+        {
+          "name": "Blessing Offor",
+          "url": "https://open.spotify.com/artist/55qfDfgj4Qi3JGe6KpqGtC"
+        }
+      ],
+      "duration_ms": 172809,
+      "name": "Wonderful Christmastime",
+      "url": "https://open.spotify.com/track/1eDJEL8bpj88WReUBTaYxb"
+    },
+    {
+      "added_at": "2023-10-20 05:39:35",
       "album": {
         "name": "Please Santa Please",
         "url": "https://open.spotify.com/album/4ERnwq2BFXL3tcq0LAhXj7"
@@ -25,23 +133,7 @@
       "url": "https://open.spotify.com/track/2eesOzilqjDBePl9nSiUoz"
     },
     {
-      "added_at": "2023-10-13 19:01:19",
-      "album": {
-        "name": "DJ Play A Christmas Song",
-        "url": "https://open.spotify.com/album/6s5Q4m7eVFpdPwzGCLiYX8"
-      },
-      "artists": [
-        {
-          "name": "Cher",
-          "url": "https://open.spotify.com/artist/72OaDtakiy6yFqkt4TsiFt"
-        }
-      ],
-      "duration_ms": 209106,
-      "name": "DJ Play A Christmas Song",
-      "url": "https://open.spotify.com/track/2ljUUoqlnRUGGa7bmpvevC"
-    },
-    {
-      "added_at": "2023-10-13 19:01:19",
+      "added_at": "2023-10-20 05:39:35",
       "album": {
         "name": "A Classic Christmas",
         "url": "https://open.spotify.com/album/5zPiyi6NAqHkuETPjhBHW1"
@@ -57,7 +149,31 @@
       "url": "https://open.spotify.com/track/1C85AHCMc9BjX5SWeUEsHo"
     },
     {
-      "added_at": "2023-10-13 19:01:19",
+      "added_at": "2023-10-20 05:39:35",
+      "album": {
+        "name": "Let It Snow",
+        "url": "https://open.spotify.com/album/6nnnAQXgUIgz3BgmGGsFwW"
+      },
+      "artists": [
+        {
+          "name": "Andrea Bocelli",
+          "url": "https://open.spotify.com/artist/3EA9hVIzKfFiQI0Kikz2wo"
+        },
+        {
+          "name": "Matteo Bocelli",
+          "url": "https://open.spotify.com/artist/3SzmIPVTtVc0AzbR8kwk0w"
+        },
+        {
+          "name": "Virginia Bocelli",
+          "url": "https://open.spotify.com/artist/5zF9MgOi02PuW8KAH9VtyX"
+        }
+      ],
+      "duration_ms": 114080,
+      "name": "Let It Snow",
+      "url": "https://open.spotify.com/track/5QlJZG8DLzIvB61C5aDRpP"
+    },
+    {
+      "added_at": "2023-10-20 05:39:35",
       "album": {
         "name": "Christmas Wish",
         "url": "https://open.spotify.com/album/1HfHKTJRTvwjvSRi865iNv"
@@ -73,7 +189,27 @@
       "url": "https://open.spotify.com/track/6WARQvk8lSlBv7HTWpFpFv"
     },
     {
-      "added_at": "2023-10-13 19:01:19",
+      "added_at": "2023-10-20 05:39:35",
+      "album": {
+        "name": "Christmas Isn't Christmas",
+        "url": "https://open.spotify.com/album/0AGOmWdA3YPhNrKy4GUP3h"
+      },
+      "artists": [
+        {
+          "name": "Michael Bolton",
+          "url": "https://open.spotify.com/artist/6YHEMoNPbcheiWS2haGzkn"
+        },
+        {
+          "name": "Mickey Guyton",
+          "url": "https://open.spotify.com/artist/6nfN5B7Jmi853SHa9106Hz"
+        }
+      ],
+      "duration_ms": 192100,
+      "name": "Christmas Isn't Christmas",
+      "url": "https://open.spotify.com/track/0pRknaXkPSLsmmkXZz8G0P"
+    },
+    {
+      "added_at": "2023-10-20 05:39:35",
       "album": {
         "name": "We Wish You The Merriest",
         "url": "https://open.spotify.com/album/4ysE4YdybaD1lNHcPBSCkY"
@@ -93,7 +229,23 @@
       "url": "https://open.spotify.com/track/6ImuFqEAZf9dkpuYahSr0K"
     },
     {
-      "added_at": "2023-10-13 19:01:19",
+      "added_at": "2023-10-20 05:39:35",
+      "album": {
+        "name": "DJ Play A Christmas Song",
+        "url": "https://open.spotify.com/album/6s5Q4m7eVFpdPwzGCLiYX8"
+      },
+      "artists": [
+        {
+          "name": "Cher",
+          "url": "https://open.spotify.com/artist/72OaDtakiy6yFqkt4TsiFt"
+        }
+      ],
+      "duration_ms": 209106,
+      "name": "DJ Play A Christmas Song",
+      "url": "https://open.spotify.com/track/2ljUUoqlnRUGGa7bmpvevC"
+    },
+    {
+      "added_at": "2023-10-20 05:39:35",
       "album": {
         "name": "Also It\u2019s Christmas",
         "url": "https://open.spotify.com/album/1e8C8bsdMow7SMIRbSsnze"
@@ -109,7 +261,7 @@
       "url": "https://open.spotify.com/track/4pyDAtf3qYZAX0Eu7o3aQe"
     },
     {
-      "added_at": "2023-10-13 19:01:19",
+      "added_at": "2023-10-20 05:39:35",
       "album": {
         "name": "Have Yourself A Merry Little Christmas",
         "url": "https://open.spotify.com/album/5b8kLtDCLWYKyJFemtmu73"
@@ -125,7 +277,7 @@
       "url": "https://open.spotify.com/track/1jNPo7xE3lf5kEamRmQemB"
     },
     {
-      "added_at": "2023-10-13 19:01:19",
+      "added_at": "2023-10-20 05:39:35",
       "album": {
         "name": "Essential Christmas",
         "url": "https://open.spotify.com/album/5YDQLysdnsIzRxAFCazMIO"
@@ -141,7 +293,7 @@
       "url": "https://open.spotify.com/track/4C1wHfdwErRlzICLKBW1uE"
     },
     {
-      "added_at": "2023-10-13 19:01:19",
+      "added_at": "2023-10-20 05:39:35",
       "album": {
         "name": "Just A Dirtbag Christmas EP",
         "url": "https://open.spotify.com/album/3Xy6ARO2MgjPUSFIuP86uA"
@@ -157,7 +309,7 @@
       "url": "https://open.spotify.com/track/05lLXO1gallwajxAD4aTvE"
     },
     {
-      "added_at": "2023-10-13 19:01:19",
+      "added_at": "2023-10-20 05:39:35",
       "album": {
         "name": "Christmas Time Is Here",
         "url": "https://open.spotify.com/album/5lj22HAC5eNHZo58nxHuE4"
@@ -177,7 +329,7 @@
       "url": "https://open.spotify.com/track/1R1uA0lt0yz9o6U1v0XrZb"
     },
     {
-      "added_at": "2023-10-13 19:01:19",
+      "added_at": "2023-10-20 05:39:35",
       "album": {
         "name": "Christmas All Over Again",
         "url": "https://open.spotify.com/album/7B3eH4HDNsYRZh8wzx6XMJ"
@@ -193,7 +345,23 @@
       "url": "https://open.spotify.com/track/6zYDdWwGjEI6w8pRvQnkdn"
     },
     {
-      "added_at": "2023-10-13 19:01:19",
+      "added_at": "2023-10-20 05:39:35",
+      "album": {
+        "name": "Everybody Knows It's Christmas",
+        "url": "https://open.spotify.com/album/6tLo95XYo6NLecEzFehsdG"
+      },
+      "artists": [
+        {
+          "name": "Chris Isaak",
+          "url": "https://open.spotify.com/artist/7290H8m1Dwt8G7jm1y9CQx"
+        }
+      ],
+      "duration_ms": 163213,
+      "name": "Winter Wonderland",
+      "url": "https://open.spotify.com/track/41NcmmSQEwpqxxUZ8vebwq"
+    },
+    {
+      "added_at": "2023-10-20 05:39:35",
       "album": {
         "name": "Amazing Grace",
         "url": "https://open.spotify.com/album/2Af93EMMgovYkVVl1xFFI9"
@@ -221,7 +389,7 @@
       "url": "https://open.spotify.com/track/28jnXcjSRpWIOaM506zvGM"
     },
     {
-      "added_at": "2023-10-13 19:01:19",
+      "added_at": "2023-10-20 05:39:35",
       "album": {
         "name": "Last Christmas",
         "url": "https://open.spotify.com/album/5M5dF1R53sHPHUGuPMRz4R"
@@ -257,7 +425,7 @@
       "url": "https://open.spotify.com/track/0u74xi5AJEulKPccore7B2"
     },
     {
-      "added_at": "2023-10-13 19:01:19",
+      "added_at": "2023-10-20 05:39:35",
       "album": {
         "name": "Christmas with The Tenors",
         "url": "https://open.spotify.com/album/3KPvwbNGc4WL7IzvD0fP2V"
@@ -273,7 +441,7 @@
       "url": "https://open.spotify.com/track/4vpZ39U9F1jyw2bAHv1HUY"
     },
     {
-      "added_at": "2023-10-13 19:01:19",
+      "added_at": "2023-10-20 05:39:35",
       "album": {
         "name": "Joy To The World",
         "url": "https://open.spotify.com/album/2JT7bugcBLWQ4wOIjVoKdy"
@@ -289,7 +457,7 @@
       "url": "https://open.spotify.com/track/1G0oNJo3OpBbY6Y6infgnf"
     },
     {
-      "added_at": "2023-10-13 19:01:19",
+      "added_at": "2023-10-20 05:39:35",
       "album": {
         "name": "This Christmas (Feels Like Love)",
         "url": "https://open.spotify.com/album/5gtWO7LWHde4S1PbSDHlyc"
@@ -305,7 +473,7 @@
       "url": "https://open.spotify.com/track/6P0BB4NFxOKlMCZQFXVKmm"
     },
     {
-      "added_at": "2023-10-13 19:01:19",
+      "added_at": "2023-10-20 05:39:35",
       "album": {
         "name": "Please Come Home for Christmas",
         "url": "https://open.spotify.com/album/6vRbT0SJ0jkIj66OT4yrs8"
@@ -321,7 +489,7 @@
       "url": "https://open.spotify.com/track/3GZwaCUpDIOtZxZF7AbQLz"
     },
     {
-      "added_at": "2023-10-13 19:01:19",
+      "added_at": "2023-10-20 05:39:35",
       "album": {
         "name": "A Very Backstreet Christmas",
         "url": "https://open.spotify.com/album/5953GQNfxqEWdLobD6lG7T"
@@ -337,7 +505,7 @@
       "url": "https://open.spotify.com/track/5ODrf4Fhd38dyuCpj6gqpe"
     },
     {
-      "added_at": "2023-10-13 19:01:19",
+      "added_at": "2023-10-20 05:39:35",
       "album": {
         "name": "Holidays Around the World",
         "url": "https://open.spotify.com/album/73NpyNEQHBYey6oZZrFD6X"
@@ -357,7 +525,7 @@
       "url": "https://open.spotify.com/track/5glU2EWqa5hpYqGPboSNjV"
     },
     {
-      "added_at": "2023-10-13 19:01:19",
+      "added_at": "2023-10-20 05:39:35",
       "album": {
         "name": "Santa Claus Is Coming To Town",
         "url": "https://open.spotify.com/album/7bl7XG5249USUYe7Qw9Fan"
@@ -373,7 +541,7 @@
       "url": "https://open.spotify.com/track/6cpoRqHqat4rg4aJOZughV"
     },
     {
-      "added_at": "2023-10-13 19:01:19",
+      "added_at": "2023-10-20 05:39:35",
       "album": {
         "name": "Night Before Christmas",
         "url": "https://open.spotify.com/album/6YYiblw7X1CmTZykp5NejW"
@@ -389,7 +557,7 @@
       "url": "https://open.spotify.com/track/3i2qrGDUbSqCEhMemtbS3x"
     },
     {
-      "added_at": "2023-10-13 19:01:19",
+      "added_at": "2023-10-20 05:39:35",
       "album": {
         "name": "Every Christmas",
         "url": "https://open.spotify.com/album/417JYo0idxISlugwKE4fsb"
@@ -405,7 +573,7 @@
       "url": "https://open.spotify.com/track/4eTJECZAqZU9pfoB3JNwoF"
     },
     {
-      "added_at": "2023-10-13 19:01:19",
+      "added_at": "2023-10-20 05:39:35",
       "album": {
         "name": "Feliz Navidad (with The Simpsons)",
         "url": "https://open.spotify.com/album/0ZcvS854Zujt3tuVmKzEUY"
@@ -433,7 +601,7 @@
       "url": "https://open.spotify.com/track/4xBS1p60I9p8TxbBVcTrOQ"
     },
     {
-      "added_at": "2023-10-13 19:01:19",
+      "added_at": "2023-10-20 05:39:35",
       "album": {
         "name": "A Very Laufey Holiday",
         "url": "https://open.spotify.com/album/0NXOmjbsRluHO8QLpZFEBd"
@@ -449,7 +617,7 @@
       "url": "https://open.spotify.com/track/3vpW9dkAZFi8Sg0onz4wvR"
     },
     {
-      "added_at": "2023-10-13 19:01:19",
+      "added_at": "2023-10-20 05:39:35",
       "album": {
         "name": "Merry Christmas, Y\u2019all",
         "url": "https://open.spotify.com/album/23PILNfWCzNg9M4tSpBoaA"
@@ -465,7 +633,7 @@
       "url": "https://open.spotify.com/track/6kfDpP0HWb9Q67iaPs5HZw"
     },
     {
-      "added_at": "2023-10-13 19:01:19",
+      "added_at": "2023-10-20 05:39:35",
       "album": {
         "name": "Little Drummer Boy",
         "url": "https://open.spotify.com/album/1Qbu7yfsgiJKDc96hHe30t"
@@ -481,7 +649,7 @@
       "url": "https://open.spotify.com/track/0GtaQ9DJkI7KEvRQCG6aqK"
     },
     {
-      "added_at": "2023-10-13 19:01:19",
+      "added_at": "2023-10-20 05:39:35",
       "album": {
         "name": "Last Christmas",
         "url": "https://open.spotify.com/album/7cnslPbsTedVILoJNHJg9h"
@@ -497,7 +665,7 @@
       "url": "https://open.spotify.com/track/1cZEhMJnLxPTqXfbQy3FrS"
     },
     {
-      "added_at": "2023-10-13 19:01:19",
+      "added_at": "2023-10-20 05:39:35",
       "album": {
         "name": "Last Christmas / Winter Wonderland",
         "url": "https://open.spotify.com/album/4UvWqFOHO52TlLLEANkeqr"
@@ -513,7 +681,7 @@
       "url": "https://open.spotify.com/track/2C4YYe2aqRXKdKmb2nbUVr"
     },
     {
-      "added_at": "2023-10-13 19:01:19",
+      "added_at": "2023-10-20 05:39:35",
       "album": {
         "name": "O Holy Night",
         "url": "https://open.spotify.com/album/2NfBG1xSIrUstj0dxFUByP"
@@ -533,7 +701,7 @@
       "url": "https://open.spotify.com/track/4mB8BNXD3ASRsZtJpIJNTE"
     },
     {
-      "added_at": "2023-10-13 19:01:19",
+      "added_at": "2023-10-20 05:39:35",
       "album": {
         "name": "Christmas (Baby Please Come Home)",
         "url": "https://open.spotify.com/album/0pZykWJQyWBjOY8c2RSRv2"
@@ -549,7 +717,7 @@
       "url": "https://open.spotify.com/track/54H84HFq1hUDEOcYxbTjrL"
     },
     {
-      "added_at": "2023-10-13 19:01:19",
+      "added_at": "2023-10-20 05:39:35",
       "album": {
         "name": "Christmas Songs",
         "url": "https://open.spotify.com/album/6TrBZsEdcM4SiIAiEEZJbJ"
@@ -567,174 +735,6 @@
       "duration_ms": 140765,
       "name": "Jingle Bell Rock",
       "url": "https://open.spotify.com/track/2Txst52kJxfvQjVgbCcE2N"
-    },
-    {
-      "added_at": "2023-10-13 19:01:19",
-      "album": {
-        "name": "The Molly Burch Christmas Album - Expanded",
-        "url": "https://open.spotify.com/album/2pNWoLyf7n4o5MHZPXMMeZ"
-      },
-      "artists": [
-        {
-          "name": "Molly Burch",
-          "url": "https://open.spotify.com/artist/6bEYoIUTLdcs4lZBNVw5L5"
-        }
-      ],
-      "duration_ms": 210571,
-      "name": "Holiday Dreaming",
-      "url": "https://open.spotify.com/track/5o4ej9ImySc5pS2GvMazVv"
-    },
-    {
-      "added_at": "2023-10-13 19:01:19",
-      "album": {
-        "name": "I'll Be Waiting (Sad At Christmas)",
-        "url": "https://open.spotify.com/album/0jC03OijHmOVjS2sc9yUuM"
-      },
-      "artists": [
-        {
-          "name": "Cian Ducrot",
-          "url": "https://open.spotify.com/artist/49jTY62Cpw3RYo4dLuG43W"
-        }
-      ],
-      "duration_ms": 200968,
-      "name": "Hallelujah",
-      "url": "https://open.spotify.com/track/6P2ZBHJZfp2yltmlk2M2gD"
-    },
-    {
-      "added_at": "2023-10-13 19:01:19",
-      "album": {
-        "name": "Walking in The Air",
-        "url": "https://open.spotify.com/album/3K0oR5fAmNX2dx19FGUN51"
-      },
-      "artists": [
-        {
-          "name": "Birdy",
-          "url": "https://open.spotify.com/artist/2WX2uTcsvV5OnS0inACecP"
-        }
-      ],
-      "duration_ms": 239250,
-      "name": "Walking in The Air",
-      "url": "https://open.spotify.com/track/0c2L8oZyVWwesIZDocfJCB"
-    },
-    {
-      "added_at": "2023-10-13 19:01:19",
-      "album": {
-        "name": "Do You Hear What I Hear?",
-        "url": "https://open.spotify.com/album/2FJVY528PwIOfqDkAn25a4"
-      },
-      "artists": [
-        {
-          "name": "Andrea Bocelli",
-          "url": "https://open.spotify.com/artist/3EA9hVIzKfFiQI0Kikz2wo"
-        },
-        {
-          "name": "Matteo Bocelli",
-          "url": "https://open.spotify.com/artist/3SzmIPVTtVc0AzbR8kwk0w"
-        },
-        {
-          "name": "Virginia Bocelli",
-          "url": "https://open.spotify.com/artist/5zF9MgOi02PuW8KAH9VtyX"
-        },
-        {
-          "name": "Pentatonix",
-          "url": "https://open.spotify.com/artist/26AHtbjWKiwYzsoGoUZq53"
-        }
-      ],
-      "duration_ms": 185146,
-      "name": "Do You Hear What I Hear?",
-      "url": "https://open.spotify.com/track/4ALkaFHbQZtJ5h1FigF2Ps"
-    },
-    {
-      "added_at": "2023-10-13 19:01:19",
-      "album": {
-        "name": "Snow Falling",
-        "url": "https://open.spotify.com/album/1lUaMnSHkDKUBcg02uSWCl"
-      },
-      "artists": [
-        {
-          "name": "Todrick Hall",
-          "url": "https://open.spotify.com/artist/0gBvuNzrFCOVaiyKexoYMH"
-        },
-        {
-          "name": "Chance Dalton",
-          "url": "https://open.spotify.com/artist/6NqptR65eJmCAu500MWs7O"
-        }
-      ],
-      "duration_ms": 192307,
-      "name": "Snow Falling",
-      "url": "https://open.spotify.com/track/3yN2PMu5sCWo14L7kz9qya"
-    },
-    {
-      "added_at": "2023-10-13 19:01:19",
-      "album": {
-        "name": "Christmas List",
-        "url": "https://open.spotify.com/album/1bm1rDiR9fPUVuLfovUeHn"
-      },
-      "artists": [
-        {
-          "name": "Anson Seabra",
-          "url": "https://open.spotify.com/artist/2jHp7gQArCQrlMvdrIVFCg"
-        }
-      ],
-      "duration_ms": 201251,
-      "name": "Christmas List",
-      "url": "https://open.spotify.com/track/3tIFJcxOORa8WkTZBrpxSn"
-    },
-    {
-      "added_at": "2023-10-13 19:01:19",
-      "album": {
-        "name": "Holiday Party",
-        "url": "https://open.spotify.com/album/6KqZkIWf9uZAPTgH46kYx1"
-      },
-      "artists": [
-        {
-          "name": "Dan + Shay",
-          "url": "https://open.spotify.com/artist/7z5WFjZAIYejWy0NI5lv4T"
-        }
-      ],
-      "duration_ms": 181026,
-      "name": "Holiday Party",
-      "url": "https://open.spotify.com/track/2ZiKXOsDvx9TfXIJT5cZGN"
-    },
-    {
-      "added_at": "2023-10-13 19:01:19",
-      "album": {
-        "name": "Almost Too Early For Christmas",
-        "url": "https://open.spotify.com/album/6L73BGZiFb0G5bhAQGy9Mf"
-      },
-      "artists": [
-        {
-          "name": "Jimmy Fallon",
-          "url": "https://open.spotify.com/artist/7mAcgRMD6EfCKHO6cIkDOP"
-        },
-        {
-          "name": "Dolly Parton",
-          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
-        }
-      ],
-      "duration_ms": 183406,
-      "name": "Almost Too Early For Christmas (with Dolly Parton)",
-      "url": "https://open.spotify.com/track/68FoOz11KDYaK2MITDwHkG"
-    },
-    {
-      "added_at": "2023-10-13 19:01:19",
-      "album": {
-        "name": "Ain't Christmas (with Laufey)",
-        "url": "https://open.spotify.com/album/4O0enrkdTf0pNzVAx6QeEL"
-      },
-      "artists": [
-        {
-          "name": "Alexander 23",
-          "url": "https://open.spotify.com/artist/6sFHvCyqklnJpXC9Nh1aag"
-        },
-        {
-          "name": "Laufey",
-          "url": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
-        }
-      ],
-      "duration_ms": 189088,
-      "name": "Ain't Christmas (with Laufey)",
-      "url": "https://open.spotify.com/track/1ishMaKoZFGrxFdGLa2qZN"
     }
   ],
   "unique_name": "New Music Holiday",

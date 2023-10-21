@@ -4,7 +4,7 @@
 
 > Catch up with the Indie Songs from 'namma ooru'<br/>Cover : All OK
 
-191 songs - 10 hr 21 min
+192 songs - 10 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -122,6 +122,7 @@
 | [Nanna Hrudaya](https://open.spotify.com/track/0Q6hm7dHmqYFRhEzfPaDm1) | [Arfaz Ullal](https://open.spotify.com/artist/6jm35qfaNmKTW3kVgdZ5lq), [Param Nirvikar](https://open.spotify.com/artist/1tk2QKYPbug5bRElUoNDAU), [Harshavardan HJ](https://open.spotify.com/artist/5TXJcIQdOZI3wyfcTxmXlX) | [Nanna Hrudaya \- Single](https://open.spotify.com/album/2aoIHWyOsoWZLgpOEREUM3) | 3:37 | 2023-06-29 | 2023-07-18 |
 | [Nanna Jeevana](https://open.spotify.com/track/6QkP19yo5LfvFCCzWsCuHK) | [SK Parth](https://open.spotify.com/artist/1vgT333wFWG7yn99UqFMJl), [Prasanna Bhojashettar](https://open.spotify.com/artist/6d913SnOMtIZnOxh9IiURJ) | [Nanna Jeevana](https://open.spotify.com/album/56T8Ejzjwc4fD8stpVnofS) | 2:16 | 2023-10-06 |  |
 | [Nanna Kannada](https://open.spotify.com/track/6RiAPNVdi1eOa2rAuwVh2C) | [Rahul Dit\-O](https://open.spotify.com/artist/1wYqqLCZJQ3ZMfKUGgZQoe), [MC Bijju](https://open.spotify.com/artist/55M046miFPYqKWWS0UaDOp) | [Nanna Kannada](https://open.spotify.com/album/4LcpFWIzA5kFXryLKkLiH2) | 3:55 | 2022-04-01 | 2023-06-08 |
+| [Nannale Iruve](https://open.spotify.com/track/2y2IxFZjCEyKJeKDMDZ5d8) | [Dheemusix](https://open.spotify.com/artist/3vJ12GL0X2a48lbZYd3cjo), [Gagan SD](https://open.spotify.com/artist/56G6hPOGCql9tJB6DnuwuP), [Deepika S](https://open.spotify.com/artist/6QKndRubze318lol0g2M3L) | [Nannale Iruve](https://open.spotify.com/album/38wnSGbfXGc4hN7FAjogoG) | 3:21 | 2023-10-20 |  |
 | [Nanne Marethe](https://open.spotify.com/track/3RbxYSwVXgxn4nifFQxWIP) | [Vishwajeet Deshpande](https://open.spotify.com/artist/6sSDUutJb0nbe2ikDJVM7U), [M.M.Nadaf](https://open.spotify.com/artist/36D2R8MIVTMDjellXJMSWM), [Riyaz MN](https://open.spotify.com/artist/26XD6i7V9Zq6OoTABiVjjw) | [Nanne Marethe](https://open.spotify.com/album/2fdwYQ6gPqqRkBWmRA3360) | 3:01 | 2022-12-19 | 2023-08-22 |
 | [Nannee Hrudayava](https://open.spotify.com/track/07q9NsOTAaMeq19fvoHuFr) | [Manasa Holla](https://open.spotify.com/artist/1y81jcpvokCJQXfGs8HWTL), [Raveendra Muddi](https://open.spotify.com/artist/4JwXnFTEc2FiSnCkPCiICf) | [Nannee Hrudayava](https://open.spotify.com/album/4DJjMnY5H3xx0IKu0cqyXo) | 3:12 | 2023-06-13 | 2023-07-06 |
 | [Nannusire](https://open.spotify.com/track/6ASWvRVb8O7hSV26VGbech) | [Subhash Aras](https://open.spotify.com/artist/6jYzo3r1YFrtigzHUqwXQZ), [Sharath](https://open.spotify.com/artist/6ZEokyhrLMceIJsQnmAYup) | [Nannusire](https://open.spotify.com/album/5qLcmfn6W54grQN9mSHOWT) | 3:56 | 2023-01-04 | 2023-07-04 |

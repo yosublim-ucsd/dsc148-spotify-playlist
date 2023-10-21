@@ -2,7 +2,7 @@
 
 ### [new nü](https://open.spotify.com/playlist/37i9dQZF1DX1k0OdTn3ZMX)
 
-> nü\-metal revival is happening here and now with Limp Bizkit.
+> nü\-metal revival is happening here and now with SiM.
 
 65 songs - 3 hr 52 min
 

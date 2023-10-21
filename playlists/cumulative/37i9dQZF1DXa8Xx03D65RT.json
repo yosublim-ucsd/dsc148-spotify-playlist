@@ -5173,6 +5173,24 @@
     },
     {
       "album": {
+        "name": "Insignia",
+        "url": "https://open.spotify.com/album/6KljnSEKSgk32JLRN4Vd9H"
+      },
+      "artists": [
+        {
+          "name": "Aron Edwards",
+          "url": "https://open.spotify.com/artist/3HVOv7Lm5kDzwbpGibjL4W"
+        }
+      ],
+      "date_added": "2023-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178743,
+      "name": "Insignia",
+      "url": "https://open.spotify.com/track/17moSSyt9oOxVHyewjXLav"
+    },
+    {
+      "album": {
         "name": "Insomnia",
         "url": "https://open.spotify.com/album/03L0T3H6lTrd3upsTHFUPG"
       },
@@ -6268,7 +6286,7 @@
       ],
       "date_added": "2022-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-21",
       "duration_ms": 127000,
       "name": "Lillian",
       "url": "https://open.spotify.com/track/5lcjalUNbHaaSvXRTtYd1p"
@@ -8127,6 +8145,24 @@
     },
     {
       "album": {
+        "name": "Open Wings To Fly",
+        "url": "https://open.spotify.com/album/5Jv2ENPuHQZ2d5Eq8w6FIF"
+      },
+      "artists": [
+        {
+          "name": "Antoine Di Luzio",
+          "url": "https://open.spotify.com/artist/0nvI5DwMokXVsbHH7sBuwv"
+        }
+      ],
+      "date_added": "2023-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138492,
+      "name": "Open Wings To Fly",
+      "url": "https://open.spotify.com/track/4cYaNAmm0gtwTVAZKmANUF"
+    },
+    {
+      "album": {
         "name": "Ophelia",
         "url": "https://open.spotify.com/album/3ubhoB5TUsA9hae6cvn9y4"
       },
@@ -8354,7 +8390,7 @@
       ],
       "date_added": "2023-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-21",
       "duration_ms": 230183,
       "name": "Parisian Walkways",
       "url": "https://open.spotify.com/track/0Iv417JLAl33iLcVvfnkul"

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-09-09",
-  "description": "Listen to the finest Jazz made in Belgium. Cover: KAU",
+  "description": "Listen to the finest Jazz made in Belgium. Cover: Azmari",
   "name": "Belgo-Jazz",
   "tracks": [
     {
@@ -78,6 +78,24 @@
       "duration_ms": 331853,
       "name": "Absolution of a French Fry",
       "url": "https://open.spotify.com/track/5N8jkWa1Lmnsw1YJB58oAJ"
+    },
+    {
+      "album": {
+        "name": "Maelstr\u00f6m",
+        "url": "https://open.spotify.com/album/2tg20LGxMn7y2GW651dFDJ"
+      },
+      "artists": [
+        {
+          "name": "Azmari",
+          "url": "https://open.spotify.com/artist/2xKLLFEkYJvGtTihlsBLw1"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 402145,
+      "name": "Abyssal Wandering",
+      "url": "https://open.spotify.com/track/4NMNkomvSRGBmUc2ifC7kN"
     },
     {
       "album": {
@@ -2514,6 +2532,28 @@
       "duration_ms": 271041,
       "name": "Reminiscence",
       "url": "https://open.spotify.com/track/5mbDO1wbecRbF5iQqEn8ty"
+    },
+    {
+      "album": {
+        "name": "Reminiscence (Marc Mac Remix)",
+        "url": "https://open.spotify.com/album/0zPPIk1UeEAXc40fbhTjkd"
+      },
+      "artists": [
+        {
+          "name": "Lucid Lucia",
+          "url": "https://open.spotify.com/artist/2kq88GbQw1ieU5VvWVZFYI"
+        },
+        {
+          "name": "Marc Mac",
+          "url": "https://open.spotify.com/artist/2iEvHAPa3A9WCngwRFhOu3"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 315013,
+      "name": "Reminiscence - Marc Mac Remix",
+      "url": "https://open.spotify.com/track/7FX78izqEw284MLn5a6aNr"
     },
     {
       "album": {

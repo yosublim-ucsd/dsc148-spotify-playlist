@@ -4,7 +4,7 @@
 
 > smooth drifting only
 
-187 songs - 8 hr 22 min
+188 songs - 8 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -97,7 +97,7 @@
 | [LIBERTY](https://open.spotify.com/track/3jc2Sb5wbUqDIirFGRjcXd) | [ETERNVL SVDNESS](https://open.spotify.com/artist/0FNnibWWGPh1bSwBkcUrMg) | [LIBERTY](https://open.spotify.com/album/54npb8AVC4EgN3Y7tokAKu) | 2:44 | 2022-10-10 | 2023-06-24 |
 | [LIGHTS XFF](https://open.spotify.com/track/1hxhlE5DUTZTcToXlCDTSk) | [CYPARISS](https://open.spotify.com/artist/1GzMtNyLiP1oM7yW0DyRhP) | [LIGHTS XFF](https://open.spotify.com/album/285Vwbiv1lPB5hjFHUra02) | 2:20 | 2022-10-10 |  |
 | [look around](https://open.spotify.com/track/4uZVyTm6D7HdM8h4NRlieW) | [Øneheart](https://open.spotify.com/artist/0dgJbQ0bKPyUXco8hEXN7X) | [look around](https://open.spotify.com/album/7mRzNvTeo13aKg3NWPOMVY) | 2:07 | 2022-10-10 |  |
-| [Lost Generation](https://open.spotify.com/track/2dJdGmHTGFfqx1PmC860Xf) | [VØJ](https://open.spotify.com/artist/4KRllJ2dEeoqvxOQLOgOsI), [HEARTIXE](https://open.spotify.com/artist/6Gl15cYrIWazH6VTDKCcCk) | [Lost Generation](https://open.spotify.com/album/7gztQGFnpztN5N2rR4rnwm) | 2:44 | 2022-10-10 |  |
+| [Lost Generation](https://open.spotify.com/track/2dJdGmHTGFfqx1PmC860Xf) | [VØJ](https://open.spotify.com/artist/4KRllJ2dEeoqvxOQLOgOsI), [HEARTIXE](https://open.spotify.com/artist/6Gl15cYrIWazH6VTDKCcCk) | [Lost Generation](https://open.spotify.com/album/7gztQGFnpztN5N2rR4rnwm) | 2:44 | 2022-10-10 | 2023-10-21 |
 | [Lost Orion](https://open.spotify.com/track/3arscwcDkbfPtFUBXVVmt6) | [BLESSED MANE](https://open.spotify.com/artist/4RsEAdLhbUy7j3zHWauPwF) | [Memories](https://open.spotify.com/album/1D7xOjPYBLdkSnJzkQQSGf) | 3:06 | 2023-03-10 |  |
 | [Lost Orion](https://open.spotify.com/track/6kzg2WZovLAE3ZkvsW9YDK) | [BLESSED MANE](https://open.spotify.com/artist/4RsEAdLhbUy7j3zHWauPwF) | [Memories](https://open.spotify.com/album/78d6bKLGA4IaHS0WLKqGIk) | 3:06 | 2022-10-10 | 2023-08-18 |
 | [LOVELY BASTARDS](https://open.spotify.com/track/0EqczV3o6fwksegAavIHpX) | [ZWE1HVNDXR](https://open.spotify.com/artist/33rnQWadiG2aauIwIxPxfB), [yatashigang](https://open.spotify.com/artist/2GBDI5PSiEnVoH0YnFFRLx) | [LOVELY BASTARDS](https://open.spotify.com/album/2b3Kiolsu42XiVvhRmTEsM) | 1:56 | 2023-09-08 |  |
@@ -174,6 +174,7 @@
 | [STOP LIES](https://open.spotify.com/track/6FqFMy46LchyaU6IsYeSSY) | [ROMANE](https://open.spotify.com/artist/05ZFcoNvwrfxD1sIRmGqfp) | [STOP LIES](https://open.spotify.com/album/4B51pcp7eccRF5T2thjSEa) | 3:23 | 2022-10-10 | 2023-01-06 |
 | [STXPSISTER](https://open.spotify.com/track/0FPy83TDSljGoYKeIeQbzY) | [phonk.me](https://open.spotify.com/artist/3YNdAmDzM5zMbGYeaSCe6A), [NEEDAYOU](https://open.spotify.com/artist/1FY51GlAxrrJULx9RdZe9x) | [STXPSISTER](https://open.spotify.com/album/1dwj8twYDVa7UHDP9LAiuS) | 1:56 | 2023-01-20 | 2023-06-10 |
 | [SUICIDE YEAR](https://open.spotify.com/track/6hRvewF5MRAsqqxnNs3z2b) | [WEEDMANE](https://open.spotify.com/artist/6agBXAcUugzO8DQTChZZrx), [Suicideyear](https://open.spotify.com/artist/3WaNZnwUPrpOIS5ZcIyjTO) | [SUICIDE YEAR](https://open.spotify.com/album/6y0bYi0XTNsGQzbKMYNxg1) | 1:31 | 2022-10-10 |  |
+| [Surrender.](https://open.spotify.com/track/738wYx1ExTMQZX6lMdlS6R) | [barnacle boi](https://open.spotify.com/artist/6psDObCnL4BfpwqYzE0Dzu) | [Surrender.](https://open.spotify.com/album/34art8P69ejQB7wfLhiWln) | 2:48 | 2023-10-20 |  |
 | [TEARDROP](https://open.spotify.com/track/0HPsP6pwUJHKHySEXLST0u) | [L19U1D](https://open.spotify.com/artist/6eIJYF4G64wbLdUXpxCKd2), [attashe](https://open.spotify.com/artist/2D8oenshYhpgfJSaJ8o8on) | [TEARDROP](https://open.spotify.com/album/6dYneATOS4dlt88gyQWvMv) | 3:00 | 2022-10-14 |  |
 | [Teardrops](https://open.spotify.com/track/439JiYk1AGzECwkEiJm6WX) | [Fyex](https://open.spotify.com/artist/7i7ddOIQP0uI3ktGxI0zkM), [2Hounds](https://open.spotify.com/artist/0qeQAOjEYyeV2opWZdRcU9) | [Teardrops](https://open.spotify.com/album/3PVnEPRSacSJZ4plVjLm7S) | 3:00 | 2023-09-29 |  |
 | [Tell me what \- Alternative](https://open.spotify.com/track/3ZAVDqWDatGhJEbgTJrSpE) | [DVRST](https://open.spotify.com/artist/0XFgyr4jwM0MGeZZW0VzA5) | [CRESTA LA CULTURA, Vol.1](https://open.spotify.com/album/17yH3m2wuD17DaOEzorZHr) | 3:45 | 2022-10-10 | 2023-05-06 |

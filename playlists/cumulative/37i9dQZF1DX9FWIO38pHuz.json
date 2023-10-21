@@ -1660,10 +1660,28 @@
       ],
       "date_added": "2022-11-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-21",
       "duration_ms": 295357,
       "name": "When You Call Me",
       "url": "https://open.spotify.com/track/6nubhK0CsIhmCnjuMVUfvj"
+    },
+    {
+      "album": {
+        "name": "When You Call Me",
+        "url": "https://open.spotify.com/album/24MRi6AuljdWhxVfPCyJGB"
+      },
+      "artists": [
+        {
+          "name": "STR4TA",
+          "url": "https://open.spotify.com/artist/5HintvHxi0uDBgNaRKWZOt"
+        }
+      ],
+      "date_added": "2022-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 295357,
+      "name": "When You Call Me",
+      "url": "https://open.spotify.com/track/7bemHdceJfoCOeoF3lRGup"
     },
     {
       "album": {

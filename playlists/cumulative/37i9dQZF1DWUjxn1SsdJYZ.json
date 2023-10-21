@@ -3421,6 +3421,28 @@
     },
     {
       "album": {
+        "name": "Finding My Way",
+        "url": "https://open.spotify.com/album/2VJLah9SVibt5UYFU9HVM6"
+      },
+      "artists": [
+        {
+          "name": "PROPH3T",
+          "url": "https://open.spotify.com/artist/3CfDgUAqzcrVjX2GSgAroa"
+        },
+        {
+          "name": "Jaecy",
+          "url": "https://open.spotify.com/artist/4hd0k0g3b2MLUiw0gPAsee"
+        }
+      ],
+      "date_added": "2023-10-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162580,
+      "name": "Finding My Way",
+      "url": "https://open.spotify.com/track/33ArwFU5L9M5S1lnTmAjz7"
+    },
+    {
+      "album": {
         "name": "Harder, Faster",
         "url": "https://open.spotify.com/album/3LMgotL0DzrXu4pdlG578P"
       },

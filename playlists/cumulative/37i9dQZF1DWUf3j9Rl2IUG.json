@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-12-01",
-  "description": "Afrobeats' hottest singles. Cover:  <a href=\"https://open.spotify.com/artist/3L4ZO0ZaSe1qeucpQK8tBR?si=8l0ZFAOsS0K3OP-UZAArdw\"> DJ Neptune </a>  and <a href=\"https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF?si=ny0fp0AOTJmEpTxgXwTrIA\"> Joeboy </a>  ",
+  "description": "Afrobeats' hottest singles. Cover:  <a href=\"https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy?si=4RQWi4qnQYSr7OHrr08ouA\"> ODUMODUBLVCK </a>  ",
   "name": "Gbedu",
   "tracks": [
     {
@@ -1307,6 +1307,32 @@
     },
     {
       "album": {
+        "name": "Feels Like Home (Mixtape Vol.1)",
+        "url": "https://open.spotify.com/album/6iplwWv18qHohOXMh4Leff"
+      },
+      "artists": [
+        {
+          "name": "Seyi Shay",
+          "url": "https://open.spotify.com/artist/0WgwOS7j1CB5tIRa4QM50K"
+        },
+        {
+          "name": "Migz",
+          "url": "https://open.spotify.com/artist/2ofat3YqNTinjd9GPgl7lV"
+        },
+        {
+          "name": "Ariel",
+          "url": "https://open.spotify.com/artist/5sZBnbApV6GuQTOPx8xTD7"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194057,
+      "name": "Doing Me",
+      "url": "https://open.spotify.com/track/4optsmphrYWvFh027612MA"
+    },
+    {
+      "album": {
         "name": "Don't Call Me (feat. Zinoleesky)",
         "url": "https://open.spotify.com/album/2fvt1NxBjoCXfLrUlnsqkD"
       },
@@ -1322,7 +1348,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-21",
       "duration_ms": 178983,
       "name": "Don't Call Me (feat. Zinoleesky)",
       "url": "https://open.spotify.com/track/2XuLnQELesgnkCGZbSJHO0"
@@ -2084,6 +2110,28 @@
       "duration_ms": 138034,
       "name": "In My Mind",
       "url": "https://open.spotify.com/track/1IiNgs5RGEYyGQFLXJvte5"
+    },
+    {
+      "album": {
+        "name": "Incoming",
+        "url": "https://open.spotify.com/album/29IgCJBPJyr5pbhOB7MIvS"
+      },
+      "artists": [
+        {
+          "name": "Shatta Wale",
+          "url": "https://open.spotify.com/artist/42q0rYXtR561ypg1Fcw1PI"
+        },
+        {
+          "name": "Tekno",
+          "url": "https://open.spotify.com/artist/6IhG3Yxm3UW98jhyBvrIut"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162351,
+      "name": "Incoming",
+      "url": "https://open.spotify.com/track/56amD1DaOooWn1RwbJiJnq"
     },
     {
       "album": {
@@ -3038,7 +3086,7 @@
       ],
       "date_added": "2023-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-21",
       "duration_ms": 195668,
       "name": "No Days Off",
       "url": "https://open.spotify.com/track/3zlSLyucr1QS2XPfRnPdcy"

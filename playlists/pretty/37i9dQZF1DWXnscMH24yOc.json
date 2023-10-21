@@ -1,12 +1,12 @@
 {
   "description": "Kick back and relax with a collection of eclectic and unexpected reimaginings. Cover:  Joy Oladokun",
-  "num_followers": 443195,
+  "num_followers": 443277,
   "original_name": "Chill Covers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmZmRhMzRmMjUxNmRhNDJmMDdkN2NjMjYxMmM0NmE3NmQ0MmI5N2Mx",
+  "snapshot_id": "MCxlNWRiMGQyNzM3MTZmMDBlOTIxYzA5OWQ5MmMzYmQyMGFjMTMxMmVj",
   "tracks": [
     {
       "added_at": "2022-03-22 14:40:29",
@@ -515,6 +515,22 @@
     {
       "added_at": "2022-03-22 14:40:29",
       "album": {
+        "name": "Come As You Are",
+        "url": "https://open.spotify.com/album/0b3kdOPZ92v7bSjeYcbsuH"
+      },
+      "artists": [
+        {
+          "name": "Imaginary Future",
+          "url": "https://open.spotify.com/artist/470WlqN9HSRDGNaMufeHHF"
+        }
+      ],
+      "duration_ms": 165309,
+      "name": "Come As You Are",
+      "url": "https://open.spotify.com/track/7nQqRgkJz4yKbz0by1DY6t"
+    },
+    {
+      "added_at": "2022-03-22 14:40:29",
+      "album": {
         "name": "Giralunas, Un Homenaje a L.E.Aute",
         "url": "https://open.spotify.com/album/2xfwea7EUqYb6zas8PLNgd"
       },
@@ -531,22 +547,6 @@
       "duration_ms": 336813,
       "name": "Slowly",
       "url": "https://open.spotify.com/track/32DRpZgrvQZddDkKF2DoTr"
-    },
-    {
-      "added_at": "2022-03-22 14:40:29",
-      "album": {
-        "name": "Come As You Are",
-        "url": "https://open.spotify.com/album/0b3kdOPZ92v7bSjeYcbsuH"
-      },
-      "artists": [
-        {
-          "name": "Imaginary Future",
-          "url": "https://open.spotify.com/artist/470WlqN9HSRDGNaMufeHHF"
-        }
-      ],
-      "duration_ms": 165309,
-      "name": "Come As You Are",
-      "url": "https://open.spotify.com/track/7nQqRgkJz4yKbz0by1DY6t"
     },
     {
       "added_at": "2022-03-22 14:40:29",
@@ -663,22 +663,6 @@
     {
       "added_at": "2022-03-22 14:40:29",
       "album": {
-        "name": "In My Life",
-        "url": "https://open.spotify.com/album/5eAqisChf22yDfAABxciv1"
-      },
-      "artists": [
-        {
-          "name": "Imaginary Future",
-          "url": "https://open.spotify.com/artist/470WlqN9HSRDGNaMufeHHF"
-        }
-      ],
-      "duration_ms": 154290,
-      "name": "In My Life",
-      "url": "https://open.spotify.com/track/75ysa8MFPtBmESXm8bcgvd"
-    },
-    {
-      "added_at": "2022-03-22 14:40:29",
-      "album": {
         "name": "Covers",
         "url": "https://open.spotify.com/album/0DGxizS2jb1tTYimUJdQ15"
       },
@@ -691,6 +675,22 @@
       "duration_ms": 176497,
       "name": "It's Not Living (If It's Not with You)",
       "url": "https://open.spotify.com/track/0rZLcXPM6ozJK7BF28F9mK"
+    },
+    {
+      "added_at": "2022-03-22 14:40:29",
+      "album": {
+        "name": "In My Life",
+        "url": "https://open.spotify.com/album/5eAqisChf22yDfAABxciv1"
+      },
+      "artists": [
+        {
+          "name": "Imaginary Future",
+          "url": "https://open.spotify.com/artist/470WlqN9HSRDGNaMufeHHF"
+        }
+      ],
+      "duration_ms": 154290,
+      "name": "In My Life",
+      "url": "https://open.spotify.com/track/75ysa8MFPtBmESXm8bcgvd"
     },
     {
       "added_at": "2022-03-22 14:40:29",
@@ -812,22 +812,6 @@
       "added_at": "2022-03-22 14:40:29",
       "album": {
         "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/5biFYkYP5v0k9OavG4CCoK"
-      },
-      "artists": [
-        {
-          "name": "Iron & Wine",
-          "url": "https://open.spotify.com/artist/4M5nCE77Qaxayuhp3fVn4V"
-        }
-      ],
-      "duration_ms": 235579,
-      "name": "What I Am - Recorded at Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/6EjU3Hev5VZZmpPjoyNZVX"
-    },
-    {
-      "added_at": "2022-03-22 14:40:29",
-      "album": {
-        "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/3Teo9qaJ93m4gDLmmAH7GS"
       },
       "artists": [
@@ -839,6 +823,22 @@
       "duration_ms": 191444,
       "name": "Don't Start Now",
       "url": "https://open.spotify.com/track/4RftloQV6tARnLrBuXKzMr"
+    },
+    {
+      "added_at": "2022-03-22 14:40:29",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/5biFYkYP5v0k9OavG4CCoK"
+      },
+      "artists": [
+        {
+          "name": "Iron & Wine",
+          "url": "https://open.spotify.com/artist/4M5nCE77Qaxayuhp3fVn4V"
+        }
+      ],
+      "duration_ms": 235579,
+      "name": "What I Am - Recorded at Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/6EjU3Hev5VZZmpPjoyNZVX"
     },
     {
       "added_at": "2022-03-22 14:40:29",
@@ -1111,22 +1111,6 @@
     {
       "added_at": "2022-03-22 14:40:29",
       "album": {
-        "name": "Thank you for the happiest year of my life",
-        "url": "https://open.spotify.com/album/6qEadJcKQ41QhPHHl19rMh"
-      },
-      "artists": [
-        {
-          "name": "if we were lakes",
-          "url": "https://open.spotify.com/artist/06JENrckpSh4wgkXgAAm3z"
-        }
-      ],
-      "duration_ms": 229604,
-      "name": "Thank you for the happiest year of my life",
-      "url": "https://open.spotify.com/track/3H1K7ZuDdWGqQYVKhDcSo6"
-    },
-    {
-      "added_at": "2022-03-22 14:40:29",
-      "album": {
         "name": "Youth",
         "url": "https://open.spotify.com/album/5WjvWdND9pQf1bTZANVvvy"
       },
@@ -1139,6 +1123,22 @@
       "duration_ms": 160588,
       "name": "Youth",
       "url": "https://open.spotify.com/track/00urNqCMQhspKwipmP3EZN"
+    },
+    {
+      "added_at": "2022-03-22 14:40:29",
+      "album": {
+        "name": "Thank you for the happiest year of my life",
+        "url": "https://open.spotify.com/album/6qEadJcKQ41QhPHHl19rMh"
+      },
+      "artists": [
+        {
+          "name": "if we were lakes",
+          "url": "https://open.spotify.com/artist/06JENrckpSh4wgkXgAAm3z"
+        }
+      ],
+      "duration_ms": 229604,
+      "name": "Thank you for the happiest year of my life",
+      "url": "https://open.spotify.com/track/3H1K7ZuDdWGqQYVKhDcSo6"
     },
     {
       "added_at": "2022-03-22 14:40:29",
@@ -1195,22 +1195,6 @@
     {
       "added_at": "2022-03-22 14:40:29",
       "album": {
-        "name": "Nothing's Gonna Hurt You Baby (From \"Promising Young Woman\" Soundtrack)",
-        "url": "https://open.spotify.com/album/60H1ATlKVSVErAcZtr9rkY"
-      },
-      "artists": [
-        {
-          "name": "Donna Missal",
-          "url": "https://open.spotify.com/artist/4QFHHdZkeqmneDQqKIjAN8"
-        }
-      ],
-      "duration_ms": 197864,
-      "name": "Nothing's Gonna Hurt You Baby - From \"Promising Young Woman\" Soundtrack",
-      "url": "https://open.spotify.com/track/0DNJCBqcgQaBndHYHbx57y"
-    },
-    {
-      "added_at": "2022-03-22 14:40:29",
-      "album": {
         "name": "K.",
         "url": "https://open.spotify.com/album/5zm06yB6kALQUeaUxc8NCO"
       },
@@ -1259,6 +1243,22 @@
     {
       "added_at": "2022-03-22 14:40:29",
       "album": {
+        "name": "Nothing's Gonna Hurt You Baby (From \"Promising Young Woman\" Soundtrack)",
+        "url": "https://open.spotify.com/album/60H1ATlKVSVErAcZtr9rkY"
+      },
+      "artists": [
+        {
+          "name": "Donna Missal",
+          "url": "https://open.spotify.com/artist/4QFHHdZkeqmneDQqKIjAN8"
+        }
+      ],
+      "duration_ms": 197864,
+      "name": "Nothing's Gonna Hurt You Baby - From \"Promising Young Woman\" Soundtrack",
+      "url": "https://open.spotify.com/track/0DNJCBqcgQaBndHYHbx57y"
+    },
+    {
+      "added_at": "2022-03-22 14:40:29",
+      "album": {
         "name": "1979",
         "url": "https://open.spotify.com/album/40rI4qa8uU2W7u1z4JKVZg"
       },
@@ -1275,22 +1275,6 @@
     {
       "added_at": "2022-03-22 14:40:29",
       "album": {
-        "name": "Cats On Trees (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/490jDU3N2lYBkXm6Ag5A5y"
-      },
-      "artists": [
-        {
-          "name": "Cats On Trees",
-          "url": "https://open.spotify.com/artist/3Dcckn2A8PXmu8zLpMuO3B"
-        }
-      ],
-      "duration_ms": 181786,
-      "name": "Love You Like a Love Song",
-      "url": "https://open.spotify.com/track/0JnadInlpLB7yLuxyPvSBR"
-    },
-    {
-      "added_at": "2022-03-22 14:40:29",
-      "album": {
         "name": "The City Holds My Heart",
         "url": "https://open.spotify.com/album/0YCSQTk2QkPkHVHeGo1Pbu"
       },
@@ -1303,6 +1287,22 @@
       "duration_ms": 204160,
       "name": "Zombie",
       "url": "https://open.spotify.com/track/1oPMTvVb57KNBV354DxsX9"
+    },
+    {
+      "added_at": "2022-03-22 14:40:29",
+      "album": {
+        "name": "Cats On Trees (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/490jDU3N2lYBkXm6Ag5A5y"
+      },
+      "artists": [
+        {
+          "name": "Cats On Trees",
+          "url": "https://open.spotify.com/artist/3Dcckn2A8PXmu8zLpMuO3B"
+        }
+      ],
+      "duration_ms": 181786,
+      "name": "Love You Like a Love Song",
+      "url": "https://open.spotify.com/track/0JnadInlpLB7yLuxyPvSBR"
     },
     {
       "added_at": "2022-03-22 14:40:29",
@@ -1455,22 +1455,6 @@
     {
       "added_at": "2022-03-22 14:40:29",
       "album": {
-        "name": "Love on Top",
-        "url": "https://open.spotify.com/album/1uknqwvaj1ghvDnv9ic8Uv"
-      },
-      "artists": [
-        {
-          "name": "Sophie Rose",
-          "url": "https://open.spotify.com/artist/7zVoS1SW2Btj5qRbtlKuyp"
-        }
-      ],
-      "duration_ms": 228000,
-      "name": "Love on Top",
-      "url": "https://open.spotify.com/track/3enRbi2fzng1duViiUH9rh"
-    },
-    {
-      "added_at": "2022-03-22 14:40:29",
-      "album": {
         "name": "Vignettes",
         "url": "https://open.spotify.com/album/3q2dNzIenzJnFyDmV7cY3M"
       },
@@ -1483,6 +1467,22 @@
       "duration_ms": 256798,
       "name": "My City of Ruins",
       "url": "https://open.spotify.com/track/0F8Ec2ppXwQxDEdMRWEVaX"
+    },
+    {
+      "added_at": "2022-03-22 14:40:29",
+      "album": {
+        "name": "Love on Top",
+        "url": "https://open.spotify.com/album/1uknqwvaj1ghvDnv9ic8Uv"
+      },
+      "artists": [
+        {
+          "name": "Sophie Rose",
+          "url": "https://open.spotify.com/artist/7zVoS1SW2Btj5qRbtlKuyp"
+        }
+      ],
+      "duration_ms": 228000,
+      "name": "Love on Top",
+      "url": "https://open.spotify.com/track/3enRbi2fzng1duViiUH9rh"
     },
     {
       "added_at": "2022-03-22 14:40:29",
@@ -1503,22 +1503,6 @@
     {
       "added_at": "2022-03-22 14:40:29",
       "album": {
-        "name": "In Your Eyes (Acoustic)",
-        "url": "https://open.spotify.com/album/4wjW8JiSJksjix88SEnRTQ"
-      },
-      "artists": [
-        {
-          "name": "Gavin Mikhail",
-          "url": "https://open.spotify.com/artist/364ovD0MRp9ezaNTkRoLeA"
-        }
-      ],
-      "duration_ms": 273652,
-      "name": "In Your Eyes (Acoustic)",
-      "url": "https://open.spotify.com/track/5dQTVqWnlRhNgGUDbYOf8e"
-    },
-    {
-      "added_at": "2022-03-22 14:40:29",
-      "album": {
         "name": "Rebox",
         "url": "https://open.spotify.com/album/22ZihqEwCSdZhBphWYleEz"
       },
@@ -1531,6 +1515,22 @@
       "duration_ms": 149250,
       "name": "Tainted Love",
       "url": "https://open.spotify.com/track/3s5HZY2OntlppCPeWQfzp0"
+    },
+    {
+      "added_at": "2022-03-22 14:40:29",
+      "album": {
+        "name": "In Your Eyes (Acoustic)",
+        "url": "https://open.spotify.com/album/4wjW8JiSJksjix88SEnRTQ"
+      },
+      "artists": [
+        {
+          "name": "Gavin Mikhail",
+          "url": "https://open.spotify.com/artist/364ovD0MRp9ezaNTkRoLeA"
+        }
+      ],
+      "duration_ms": 273652,
+      "name": "In Your Eyes (Acoustic)",
+      "url": "https://open.spotify.com/track/5dQTVqWnlRhNgGUDbYOf8e"
     },
     {
       "added_at": "2022-03-22 14:40:29",
@@ -1599,22 +1599,6 @@
     {
       "added_at": "2022-03-22 14:40:29",
       "album": {
-        "name": "For The Young",
-        "url": "https://open.spotify.com/album/6qd53x1EBxp5wSlmqv9R7B"
-      },
-      "artists": [
-        {
-          "name": "Anna Ternheim",
-          "url": "https://open.spotify.com/artist/6xSTQT32ZxLQPe37QIC308"
-        }
-      ],
-      "duration_ms": 249400,
-      "name": "Show Me The Meaning Of Being Lonely",
-      "url": "https://open.spotify.com/track/4AxIU7R7grPIgl8m6xhvke"
-    },
-    {
-      "added_at": "2022-03-22 14:40:29",
-      "album": {
         "name": "Latch",
         "url": "https://open.spotify.com/album/3li5ucuODpV4x3lbIcihqi"
       },
@@ -1627,6 +1611,22 @@
       "duration_ms": 209819,
       "name": "Latch",
       "url": "https://open.spotify.com/track/2d1tlBbyST4TWmZ7xwdAXH"
+    },
+    {
+      "added_at": "2022-03-22 14:40:29",
+      "album": {
+        "name": "For The Young",
+        "url": "https://open.spotify.com/album/6qd53x1EBxp5wSlmqv9R7B"
+      },
+      "artists": [
+        {
+          "name": "Anna Ternheim",
+          "url": "https://open.spotify.com/artist/6xSTQT32ZxLQPe37QIC308"
+        }
+      ],
+      "duration_ms": 249400,
+      "name": "Show Me The Meaning Of Being Lonely",
+      "url": "https://open.spotify.com/track/4AxIU7R7grPIgl8m6xhvke"
     },
     {
       "added_at": "2022-03-22 14:40:29",

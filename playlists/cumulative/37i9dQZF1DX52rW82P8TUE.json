@@ -411,6 +411,24 @@
     },
     {
       "album": {
+        "name": "Minha Vida \u00c9 uma Viagem 6",
+        "url": "https://open.spotify.com/album/1A7Sa3Wv1F3XhTcaLug07F"
+      },
+      "artists": [
+        {
+          "name": "Minha Vida \u00e9 Uma Viagem",
+          "url": "https://open.spotify.com/artist/1o0rLhiJRM3IFLGlqBVolR"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231778,
+      "name": "Coral dos Bichos",
+      "url": "https://open.spotify.com/track/0pWnhGVmpCVXcKe4DZnQXR"
+    },
+    {
+      "album": {
         "name": "Bruna Kids",
         "url": "https://open.spotify.com/album/0W7kUdHwTI6L17XHH73HY2"
       },
@@ -912,7 +930,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-21",
       "duration_ms": 185585,
       "name": "N\u00e3o Temos Medo do Fogo",
       "url": "https://open.spotify.com/track/3tnh93byTIcpyhZYsLN93O"

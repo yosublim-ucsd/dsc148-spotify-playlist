@@ -2,7 +2,7 @@
 
 ### [mid:nite storm ](https://open.spotify.com/playlist/37i9dQZF1DWYiatDTQvsFP)
 
-> it's scary hours...⛈️  cover: 2Pac
+> it's scary hours...⛈️  cover: TLC
 
 274 songs - 18 hr 31 min
 

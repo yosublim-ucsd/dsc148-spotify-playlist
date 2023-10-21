@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-06-30",
-  "description": "Lo m\u00e1s potente del rock argentino, y algunos invitados de lujo. Foto: Estelares",
+  "description": "Lo m\u00e1s potente del rock argentino, y algunos invitados de lujo. Foto: \u00c1rbol",
   "name": "Rock Argentino",
   "tracks": [
     {
@@ -462,6 +462,24 @@
       "duration_ms": 226913,
       "name": "Cantar de la mala salud",
       "url": "https://open.spotify.com/track/2NYPExQi5gIQGX54iQoMoe"
+    },
+    {
+      "album": {
+        "name": "Casi casi",
+        "url": "https://open.spotify.com/album/77cFHisp9WEUfGxEVZLKx5"
+      },
+      "artists": [
+        {
+          "name": "\u00c1rbol",
+          "url": "https://open.spotify.com/artist/6OO01j5rLKCyPg4i3FuzIT"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132121,
+      "name": "Casi casi",
+      "url": "https://open.spotify.com/track/1KGKzr1V7uQwIbkwtzQxoZ"
     },
     {
       "album": {

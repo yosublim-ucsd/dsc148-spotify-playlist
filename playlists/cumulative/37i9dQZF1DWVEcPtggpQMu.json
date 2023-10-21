@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "Only the hottest South African rap from the streets. Cover: <a href=\"https://open.spotify.com/artist/7tB6fzororeAvyt9RzKePs?si=d_zVLn7WSheOzRdbqJddsQ\">Stogie T</a>",
+  "description": "Only the hottest South African rap from the streets. Cover: <a href=\"https://open.spotify.com/artist/4f2hVqzqXvQdVaC35D8sAc?si=JSQUXSDKQquDHp03tZQRCA\">Khuli Chana</a>",
   "name": "Mzansi Raps",
   "tracks": [
     {
@@ -1452,7 +1452,7 @@
       ],
       "date_added": "2023-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-21",
       "duration_ms": 234375,
       "name": "Better Than This (feat. Tellaman)",
       "url": "https://open.spotify.com/track/50PMuNQuMKQHCzxonOeDHE"
@@ -1558,7 +1558,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-21",
       "duration_ms": 201935,
       "name": "Big Yonkinto",
       "url": "https://open.spotify.com/track/4IvFWu97HE2SqiMENUWfxs"
@@ -1624,7 +1624,7 @@
       ],
       "date_added": "2023-08-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-21",
       "duration_ms": 80327,
       "name": "BLACK BLOOD",
       "url": "https://open.spotify.com/track/270GSJd0GkhCSMNYDlrtwN"
@@ -1879,6 +1879,24 @@
     },
     {
       "album": {
+        "name": "P2 : THE BIG HEARTED BAD GUY",
+        "url": "https://open.spotify.com/album/5VRS9HeUxDmGRnmkfHPmp1"
+      },
+      "artists": [
+        {
+          "name": "A-Reece",
+          "url": "https://open.spotify.com/artist/5TirRF3azWV5OpyufcDCFP"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 115575,
+      "name": "BRUCE WAYNE",
+      "url": "https://open.spotify.com/track/1eIk9KQ1zkDB4K3QO4cmlQ"
+    },
+    {
+      "album": {
         "name": "iVangeli",
         "url": "https://open.spotify.com/album/7d6zphfuSNz41GTNw1TlPM"
       },
@@ -2060,6 +2078,24 @@
       "duration_ms": 208000,
       "name": "Call Me Up",
       "url": "https://open.spotify.com/track/7cSlFpcnrIDsmwVw3QFoJA"
+    },
+    {
+      "album": {
+        "name": "CALLING FOR YOU",
+        "url": "https://open.spotify.com/album/2NbNT1yKWjHgQ4a2Ytv8vV"
+      },
+      "artists": [
+        {
+          "name": "DYLAN",
+          "url": "https://open.spotify.com/artist/0MiK2GCTKCn7okire8MtHu"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121304,
+      "name": "CALLING FOR YOU",
+      "url": "https://open.spotify.com/track/0ktPQbm5bTtSBKjdpk6uXl"
     },
     {
       "album": {
@@ -2842,7 +2878,7 @@
       ],
       "date_added": "2023-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-21",
       "duration_ms": 211722,
       "name": "Do I",
       "url": "https://open.spotify.com/track/1gP946Il5cA8KnRyBCIKn5"
@@ -2864,7 +2900,7 @@
       ],
       "date_added": "2023-08-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-21",
       "duration_ms": 123168,
       "name": "Don Juliano",
       "url": "https://open.spotify.com/track/3uWnFQFj3uG65Vy1o3cDk2"
@@ -3090,7 +3126,7 @@
       ],
       "date_added": "2023-08-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-21",
       "duration_ms": 136170,
       "name": "E re ke tsene dilong",
       "url": "https://open.spotify.com/track/6XccsSsFiHaEgcX5v6u1oK"
@@ -3160,7 +3196,7 @@
       ],
       "date_added": "2023-05-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-21",
       "duration_ms": 201290,
       "name": "Ekhoneni",
       "url": "https://open.spotify.com/track/6Poyt13mWsJMIBC6o5dKz1"
@@ -4642,7 +4678,7 @@
       ],
       "date_added": "2023-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-21",
       "duration_ms": 164571,
       "name": "Heavy Is The Head",
       "url": "https://open.spotify.com/track/0yPSzjrG3KN2VYwqa7hn9O"
@@ -4932,7 +4968,7 @@
       ],
       "date_added": "2023-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-21",
       "duration_ms": 222000,
       "name": "Hot Property",
       "url": "https://open.spotify.com/track/0QV4hHHHYfhmhpf6estDFk"
@@ -5410,7 +5446,7 @@
       ],
       "date_added": "2023-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-21",
       "duration_ms": 290006,
       "name": "iSphithiphithi",
       "url": "https://open.spotify.com/track/5yiBmiKsOmqpUhsKGbqEu9"
@@ -5640,7 +5676,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-21",
       "duration_ms": 124776,
       "name": "Just The Start",
       "url": "https://open.spotify.com/track/683EhjBwGmcv23ezqCM22h"
@@ -6222,7 +6258,7 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-21",
       "duration_ms": 206571,
       "name": "Lepanta",
       "url": "https://open.spotify.com/track/1AtEgqOGijcATNpVd1IDLa"
@@ -6782,7 +6818,7 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-21",
       "duration_ms": 248000,
       "name": "made it out (feat. A-Reece)",
       "url": "https://open.spotify.com/track/6YFCllvSJMVTkXxcU71Eb1"
@@ -7728,7 +7764,7 @@
       ],
       "date_added": "2022-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-21",
       "duration_ms": 146040,
       "name": "NEVER RIDE",
       "url": "https://open.spotify.com/track/3DFw8WqtxcGtUP8X1o4Yti"
@@ -7914,7 +7950,7 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-21",
       "duration_ms": 182684,
       "name": "No More",
       "url": "https://open.spotify.com/track/7cNUMPXO8gGjKnKkXVn5T0"
@@ -9160,7 +9196,7 @@
       ],
       "date_added": "2023-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-21",
       "duration_ms": 127741,
       "name": "Real Niggas Only",
       "url": "https://open.spotify.com/track/1sQVikNoENX6xhUppOJ5p3"
@@ -10192,7 +10228,7 @@
       ],
       "date_added": "2023-08-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-21",
       "duration_ms": 158769,
       "name": "Six",
       "url": "https://open.spotify.com/track/5fitiEwmfSL7U5fZLF5ilR"
@@ -10922,7 +10958,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-21",
       "duration_ms": 116846,
       "name": "Stru",
       "url": "https://open.spotify.com/track/2VMFLg4q2682hAwZsbMjyl"
@@ -11322,7 +11358,7 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-21",
       "duration_ms": 106151,
       "name": "THANK YOU JESUS",
       "url": "https://open.spotify.com/track/0CHrwFE4sBRp8t1y1aZ1dA"
@@ -11866,7 +11902,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-21",
       "duration_ms": 192452,
       "name": "Thuli Phongolo",
       "url": "https://open.spotify.com/track/74ITSBoDW0XMEGdR5c0dA1"
@@ -12098,7 +12134,7 @@
       ],
       "date_added": "2023-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-21",
       "duration_ms": 177010,
       "name": "Top Down",
       "url": "https://open.spotify.com/track/2SJGdst8T0bog2tIpg6JOp"
@@ -12404,7 +12440,7 @@
       ],
       "date_added": "2023-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-21",
       "duration_ms": 236170,
       "name": "Umntu",
       "url": "https://open.spotify.com/track/4HG5pEkuERhQ6Y9HWKiLkr"
@@ -13300,7 +13336,7 @@
       ],
       "date_added": "2023-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-21",
       "duration_ms": 223396,
       "name": "WROTE THE BOOK",
       "url": "https://open.spotify.com/track/72tqZ49DhmveB3GNqngaXN"

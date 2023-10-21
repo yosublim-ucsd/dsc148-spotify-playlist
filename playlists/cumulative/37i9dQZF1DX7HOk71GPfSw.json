@@ -2521,6 +2521,24 @@
     },
     {
       "album": {
+        "name": "arroz",
+        "url": "https://open.spotify.com/album/0jjEpl7QHid5llB360u7rE"
+      },
+      "artists": [
+        {
+          "name": "Cma",
+          "url": "https://open.spotify.com/artist/4D0v8wSG179N0eMjwXFlDN"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153195,
+      "name": "arroz",
+      "url": "https://open.spotify.com/track/1nrPicb4hDsUQayHExqFO7"
+    },
+    {
+      "album": {
         "name": "arsenic",
         "url": "https://open.spotify.com/album/1Ugw6rLUEMn4jFThArJjbL"
       },
@@ -5267,6 +5285,24 @@
     },
     {
       "album": {
+        "name": "brown eyes",
+        "url": "https://open.spotify.com/album/2ZsjTlwVcwkYgcT0R7GA1X"
+      },
+      "artists": [
+        {
+          "name": "Swansea Skag",
+          "url": "https://open.spotify.com/artist/4MV1kXqC76IgYoOdBQdp3T"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126624,
+      "name": "brown eyes",
+      "url": "https://open.spotify.com/track/2pLieFj49thsxTBBquLEz9"
+    },
+    {
+      "album": {
         "name": "Brutal Truth (212)",
         "url": "https://open.spotify.com/album/035mKv0gJKXC86WOS5EBnz"
       },
@@ -7822,6 +7858,24 @@
       "duration_ms": 141290,
       "name": "dance in the moonlight",
       "url": "https://open.spotify.com/track/2SP8AAgffttY401Ye5xpZH"
+    },
+    {
+      "album": {
+        "name": "Dang",
+        "url": "https://open.spotify.com/album/3DZodwqZN2YkjgI0NAwyS8"
+      },
+      "artists": [
+        {
+          "name": "Caroline Polachek",
+          "url": "https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164514,
+      "name": "Dang",
+      "url": "https://open.spotify.com/track/7ddHGUPt5bOpVFAtX6TJN8"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > Acoustic rock and pop that makes you feel good.
 
-392 songs - 22 hr 10 min
+393 songs - 22 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,6 +16,7 @@
 | [Adventure Of A Lifetime Cover](https://open.spotify.com/track/3a8QqO1PZkgi4Tgj0xgqqM) | [Ben Woodward](https://open.spotify.com/artist/142VT1MtWzaD13CnOiKFDn) | [Adventure Of A Lifetime Cover](https://open.spotify.com/album/3pWBzzybV6TALYFeITio9s) | 2:44 | 2022-04-22 |  |
 | [Adventure Of A Lifetime Cover](https://open.spotify.com/track/77nOGknpMSLeoHrytU9JwN) | [Ben Woodward](https://open.spotify.com/artist/142VT1MtWzaD13CnOiKFDn) | [Adventure Of A Lifetime Cover](https://open.spotify.com/album/1P9ed6EGxE6c7fQljopJJm) | 2:44 | 2021-03-12 | 2022-07-29 |
 | [Ain't Nobody \(Loves Me Better\) \- Acoustic](https://open.spotify.com/track/1OozJMmjaGAgX8WPTTMpcG) | [Jasmine Thompson](https://open.spotify.com/artist/2TL8gYTNgD6nXkyuUdDrMg) | [Ain't Nobody \(Loves Me Better\) \[Acoustic\] \[Acoustic Version\]](https://open.spotify.com/album/6PqlQy6kppsKtw3vqy3r0m) | 2:58 | 2021-03-12 |  |
+| [All My Broken Pieces](https://open.spotify.com/track/4VmFqEEqbLReGKJQhDl9c0) | [James Bay](https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD) | [All My Broken Pieces](https://open.spotify.com/album/4sbMRC8gsLRdloSLdNlwif) | 4:02 | 2023-10-20 |  |
 | [All That Matters \- Acoustic](https://open.spotify.com/track/5tAkpRX2FCx8XWQOzb0zBL) | [Tom Walker](https://open.spotify.com/artist/7z2avKuuiMAT4XZJFv8Rvh) | [All That Matters \(Acoustic\)](https://open.spotify.com/album/36t1ObyoXjycfyKsYWHdIr) | 3:14 | 2021-03-12 |  |
 | [All The Fucking Time \- Acoustic](https://open.spotify.com/track/5fPehuzkcZkDFFCwf3fRrc) | [Loote](https://open.spotify.com/artist/00TKPo9MxwZ0j4ooveIxWZ) | [All The Fucking Time](https://open.spotify.com/album/03XismopzA2tyBMH58uE7k) | 2:29 | 2021-03-12 |  |
 | [All the Pretty Girls](https://open.spotify.com/track/0QQIhT6PtJ5glyn4HKNKQ6) | [KALEO](https://open.spotify.com/artist/7jdFEYD2LTYjfwxOdlVjmc) | [A/B](https://open.spotify.com/album/4he4SQup02hEIQdwhZlZlk) | 4:29 | 2021-03-12 |  |

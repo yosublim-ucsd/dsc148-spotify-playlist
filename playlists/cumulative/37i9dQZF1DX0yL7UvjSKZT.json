@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Fresh takes on that high lonesome sound. Cover: Molly Tuttle ",
+  "description": "Fresh takes on that high lonesome sound. Cover: Sierra Ferrell",
   "name": "Indie Bluegrass",
   "tracks": [
     {
@@ -1479,6 +1479,24 @@
     },
     {
       "album": {
+        "name": "Million Eyes",
+        "url": "https://open.spotify.com/album/5jrPhnzA00KBWc3bJJUqTY"
+      },
+      "artists": [
+        {
+          "name": "Sam Barber",
+          "url": "https://open.spotify.com/artist/08GfvCW09pv2QP4y9sle2a"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182015,
+      "name": "Drowning",
+      "url": "https://open.spotify.com/track/2mxn3WDopcpvCMEwz4DFFH"
+    },
+    {
+      "album": {
         "name": "Drowning",
         "url": "https://open.spotify.com/album/0sHHqhHLztj8XsZfZAJvnw"
       },
@@ -1490,7 +1508,7 @@
       ],
       "date_added": "2023-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-21",
       "duration_ms": 182015,
       "name": "Drowning",
       "url": "https://open.spotify.com/track/5dXBit91O3HQg6jonJbqaQ"
@@ -1917,6 +1935,24 @@
     },
     {
       "album": {
+        "name": "Fox Hunt",
+        "url": "https://open.spotify.com/album/2bLNZHyv1itJ94dG8Ob5Nq"
+      },
+      "artists": [
+        {
+          "name": "Sierra Ferrell",
+          "url": "https://open.spotify.com/artist/3oVcF3VdpMuvMvLLyHPT4t"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196533,
+      "name": "Fox Hunt",
+      "url": "https://open.spotify.com/track/32TjTdbpM9dv5gBVFXbU8S"
+    },
+    {
+      "album": {
         "name": "Freedom",
         "url": "https://open.spotify.com/album/6FEPSiSEAwxe9FOpomdoOt"
       },
@@ -2227,6 +2263,24 @@
     },
     {
       "album": {
+        "name": "Celebrants",
+        "url": "https://open.spotify.com/album/2ruZGj3O7oL91f9re3BXLq"
+      },
+      "artists": [
+        {
+          "name": "Nickel Creek",
+          "url": "https://open.spotify.com/artist/3bcLBxvaI7GsBzGp3WHnwQ"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185816,
+      "name": "Holding Pattern",
+      "url": "https://open.spotify.com/track/29MlUsEsDHZ1vIv7I41UVq"
+    },
+    {
+      "album": {
         "name": "Holding Pattern",
         "url": "https://open.spotify.com/album/54yXHow53RS0QZJWWjU38r"
       },
@@ -2238,7 +2292,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-21",
       "duration_ms": 185816,
       "name": "Holding Pattern",
       "url": "https://open.spotify.com/track/5rR0Xg7Jn31EqbdueZYS3h"
@@ -2844,6 +2898,24 @@
       "duration_ms": 198000,
       "name": "Kill the Snake",
       "url": "https://open.spotify.com/track/1OOmfxYnKweraqU5y6nta5"
+    },
+    {
+      "album": {
+        "name": "Killjoy",
+        "url": "https://open.spotify.com/album/6CoCJcLjQnNvjYAv485Pec"
+      },
+      "artists": [
+        {
+          "name": "Sarah Gross",
+          "url": "https://open.spotify.com/artist/58lbHYipYB2JGbElUXeG2p"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237969,
+      "name": "Killjoy",
+      "url": "https://open.spotify.com/track/6cBVVOLuuCWXh9H9Q47pYF"
     },
     {
       "album": {
@@ -3927,6 +3999,28 @@
     },
     {
       "album": {
+        "name": "Raleigh and Spencer",
+        "url": "https://open.spotify.com/album/6mCrNmiRJPAvtSzZjIk7p0"
+      },
+      "artists": [
+        {
+          "name": "Laurel Hells Ramblers",
+          "url": "https://open.spotify.com/artist/1LDDG7bMMIEaBPAmImJmra"
+        },
+        {
+          "name": "Joshua Quimby",
+          "url": "https://open.spotify.com/artist/1fH3yHATnmsvIirfFNmlf0"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156522,
+      "name": "Raleigh and Spencer",
+      "url": "https://open.spotify.com/track/5jN4JkTORouAjbgs53rGLY"
+    },
+    {
+      "album": {
         "name": "Real World",
         "url": "https://open.spotify.com/album/6Z4aXYZHNwCcKhgrjfztZy"
       },
@@ -3942,6 +4036,24 @@
       "duration_ms": 197013,
       "name": "Real World",
       "url": "https://open.spotify.com/track/3bimtjFTf1f44qp2dH9m5F"
+    },
+    {
+      "album": {
+        "name": "Recommend Me",
+        "url": "https://open.spotify.com/album/6K2GTC8JlK5f7MBJbccpyq"
+      },
+      "artists": [
+        {
+          "name": "Steep Canyon Rangers",
+          "url": "https://open.spotify.com/artist/1a6tqLJPUs4DBAnNUZkr2O"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221878,
+      "name": "Recommend Me",
+      "url": "https://open.spotify.com/track/6X06BJkotsqzb09OReFhhO"
     },
     {
       "album": {
@@ -5870,10 +5982,28 @@
       ],
       "date_added": "2023-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-21",
       "duration_ms": 204618,
       "name": "Where the Long Line Leads",
       "url": "https://open.spotify.com/track/11U64nYtfHfPXpKmy8O29c"
+    },
+    {
+      "album": {
+        "name": "Celebrants",
+        "url": "https://open.spotify.com/album/2ruZGj3O7oL91f9re3BXLq"
+      },
+      "artists": [
+        {
+          "name": "Nickel Creek",
+          "url": "https://open.spotify.com/artist/3bcLBxvaI7GsBzGp3WHnwQ"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204618,
+      "name": "Where the Long Line Leads",
+      "url": "https://open.spotify.com/track/2nl7VPKy1XQ2NiUrdI5AeY"
     },
     {
       "album": {

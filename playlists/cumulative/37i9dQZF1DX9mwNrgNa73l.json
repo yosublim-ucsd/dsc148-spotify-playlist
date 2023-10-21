@@ -1402,7 +1402,7 @@
       ],
       "date_added": "2022-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-21",
       "duration_ms": 480304,
       "name": "Kinna Sohna Tainu",
       "url": "https://open.spotify.com/track/377rdybAWhu2uj7bNVHvLs"
@@ -1562,6 +1562,24 @@
       "duration_ms": 463786,
       "name": "Madari",
       "url": "https://open.spotify.com/track/7BGWfKugCG5QCXilymYBOy"
+    },
+    {
+      "album": {
+        "name": "Madni Di Gal Kariye",
+        "url": "https://open.spotify.com/album/5H33FAIYkmTqVLoyllN73B"
+      },
+      "artists": [
+        {
+          "name": "Zain Zohaib",
+          "url": "https://open.spotify.com/artist/0M4wzwZKh9SSHkOXYNvQlP"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 354026,
+      "name": "Madni Di Gal Kariye",
+      "url": "https://open.spotify.com/track/0XgLsusKUTmib2HZQMA02r"
     },
     {
       "album": {

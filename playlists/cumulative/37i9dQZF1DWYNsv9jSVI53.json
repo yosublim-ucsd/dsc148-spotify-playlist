@@ -96,10 +96,28 @@
       ],
       "date_added": "2022-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-21",
       "duration_ms": 120694,
       "name": "Black Night",
       "url": "https://open.spotify.com/track/1pJqA8DK4KR0UeQR1GKCrR"
+    },
+    {
+      "album": {
+        "name": "Black Night b/w I'm On The Mountain",
+        "url": "https://open.spotify.com/album/0nJgnNLA0jqNI02fDdLPTs"
+      },
+      "artists": [
+        {
+          "name": "Cheryl Thompson",
+          "url": "https://open.spotify.com/artist/0WA1uYD5c1dn1Oxt9OtN6V"
+        }
+      ],
+      "date_added": "2022-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120694,
+      "name": "Black Night",
+      "url": "https://open.spotify.com/track/4Tq3ZmWCiqGG6hZGeoDIiM"
     },
     {
       "album": {

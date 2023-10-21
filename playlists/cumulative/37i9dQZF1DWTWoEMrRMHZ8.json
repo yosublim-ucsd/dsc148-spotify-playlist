@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-18",
-  "description": "As belas novidades da MPB. Foto: Assucena",
+  "description": "As belas novidades da MPB. Foto: Chico Buarque",
   "name": "Divina MPB",
   "tracks": [
     {
@@ -546,7 +546,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-21",
       "duration_ms": 229427,
       "name": "Amado Bem-querer",
       "url": "https://open.spotify.com/track/4R6cDY5AhZkAh3NCkqybg3"
@@ -1840,10 +1840,28 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-21",
       "duration_ms": 203946,
       "name": "Camale\u00e3o Errante",
       "url": "https://open.spotify.com/track/4lJ4AUJRWtjS5h0iKe24TE"
+    },
+    {
+      "album": {
+        "name": "Me Chama De Gato Que Eu Sou Sua",
+        "url": "https://open.spotify.com/album/6UZpK4jB5MYVYJpwwi2mbP"
+      },
+      "artists": [
+        {
+          "name": "Ana Frango El\u00e9trico",
+          "url": "https://open.spotify.com/artist/7uvxsk688pwnBNA62cTKS1"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234013,
+      "name": "Camelo Azul",
+      "url": "https://open.spotify.com/track/0VNECwUMDCBv5nykInHDc8"
     },
     {
       "album": {
@@ -2263,6 +2281,24 @@
     },
     {
       "album": {
+        "name": "coisa mais bonita",
+        "url": "https://open.spotify.com/album/6quZjmU82PLIJQJPoYZTZb"
+      },
+      "artists": [
+        {
+          "name": "Caike Souza",
+          "url": "https://open.spotify.com/artist/6tjtXcfi8CU4froDsEydxa"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176103,
+      "name": "coisa mais bonita",
+      "url": "https://open.spotify.com/track/3mxWZCTWCx0zb5QVEfDh4M"
+    },
+    {
+      "album": {
         "name": "Coisa \u00e0 Toa",
         "url": "https://open.spotify.com/album/28v8FsFyuSZPgLYwu8z6Kn"
       },
@@ -2318,6 +2354,28 @@
       "duration_ms": 240383,
       "name": "Coisas Vazias Ficam pra Tr\u00e1s",
       "url": "https://open.spotify.com/track/5NhMbFwZMJiRrchR006I1z"
+    },
+    {
+      "album": {
+        "name": "Colombina",
+        "url": "https://open.spotify.com/album/2poSuWn4v2n7CqXRJKr27h"
+      },
+      "artists": [
+        {
+          "name": "Fernando Salem",
+          "url": "https://open.spotify.com/artist/0eyVFqgaOh0DkKyn2zUHn6"
+        },
+        {
+          "name": "Arnaldo Antunes",
+          "url": "https://open.spotify.com/artist/7lOUbhzQ1F3xcCMEcTtbO5"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124058,
+      "name": "Colombina",
+      "url": "https://open.spotify.com/track/0hIYS3mSzhMn1HlskG6Avd"
     },
     {
       "album": {
@@ -2514,7 +2572,7 @@
       ],
       "date_added": "2023-02-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-21",
       "duration_ms": 359706,
       "name": "Conviver - Ao Vivo",
       "url": "https://open.spotify.com/track/56n5c5qisRIcJqawTM7Bgr"
@@ -2746,6 +2804,24 @@
       "duration_ms": 185062,
       "name": "Desabriga",
       "url": "https://open.spotify.com/track/4lZACQsjOZo5XxwUBK3KW2"
+    },
+    {
+      "album": {
+        "name": "Desapre\u00e7o",
+        "url": "https://open.spotify.com/album/1FrOQslcNVclDGZeQfk2S4"
+      },
+      "artists": [
+        {
+          "name": "Joana Castanheira",
+          "url": "https://open.spotify.com/artist/4oeqovhGT9Bj4wbDeaTqXn"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214482,
+      "name": "Desapre\u00e7o",
+      "url": "https://open.spotify.com/track/18Oiw0ywofKXiZpKg1ztUJ"
     },
     {
       "album": {
@@ -3990,6 +4066,24 @@
       "duration_ms": 200813,
       "name": "Garota da Linha Azul",
       "url": "https://open.spotify.com/track/7KKPApvO78DY3bhqbZzAa5"
+    },
+    {
+      "album": {
+        "name": "Gente S\u00e9ria (Letra In\u00e9dita)",
+        "url": "https://open.spotify.com/album/5Vs97HPoTHUh3YgORdpjqs"
+      },
+      "artists": [
+        {
+          "name": "Joyce Moreno",
+          "url": "https://open.spotify.com/artist/5644bJMU3NkJN0edhyHV3v"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 106658,
+      "name": "Gente S\u00e9ria (Letra In\u00e9dita)",
+      "url": "https://open.spotify.com/track/1ckmCrRl0uPRvRicggdf40"
     },
     {
       "album": {
@@ -5636,7 +5730,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-21",
       "duration_ms": 211419,
       "name": "Moer Cana",
       "url": "https://open.spotify.com/track/1B0BzQySBv9BgtxBORXZcJ"
@@ -5734,7 +5828,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-21",
       "duration_ms": 210881,
       "name": "Motel Maravilha",
       "url": "https://open.spotify.com/track/1v8T7Pr4ZVL7V4VIfGWhvY"
@@ -6010,7 +6104,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-21",
       "duration_ms": 179703,
       "name": "Neguinha Sim!",
       "url": "https://open.spotify.com/track/7gRjxhujuKF4XO1BkE8Vri"
@@ -6362,7 +6456,7 @@
       ],
       "date_added": "2023-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-21",
       "duration_ms": 180125,
       "name": "N\u00e3o Duvido",
       "url": "https://open.spotify.com/track/68mKk6BejEeufAw3IOS2zF"
@@ -6460,6 +6554,28 @@
       "duration_ms": 168679,
       "name": "N\u00e3o Sei De Mais Nada",
       "url": "https://open.spotify.com/track/22uP000WPa2yUnfSKCB6zD"
+    },
+    {
+      "album": {
+        "name": "N\u00e3o Te Largo, N\u00e3o Te Troco (Ac\u00fastico)",
+        "url": "https://open.spotify.com/album/26z3fDJcPN0KaxrdFxC8yX"
+      },
+      "artists": [
+        {
+          "name": "Ana Gabriela",
+          "url": "https://open.spotify.com/artist/6a9WLQ5NsIV7U2qB16uFWD"
+        },
+        {
+          "name": "Melim",
+          "url": "https://open.spotify.com/artist/6uYrXgVHctAJtIdSODcyLJ"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230772,
+      "name": "N\u00e3o Te Largo, N\u00e3o Te Troco - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/20oATguIKxxfwp1h9MlNGZ"
     },
     {
       "album": {
@@ -6817,6 +6933,24 @@
     },
     {
       "album": {
+        "name": "O Meu Guri (Ao Vivo)",
+        "url": "https://open.spotify.com/album/0fa0zOVmsN69bNwSBcOxi1"
+      },
+      "artists": [
+        {
+          "name": "Chico Buarque",
+          "url": "https://open.spotify.com/artist/6tOsSffQQIXmK8TqsDck8t"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228933,
+      "name": "O Meu Guri",
+      "url": "https://open.spotify.com/track/5DhXCKF8ucbqj3mmx3p7i0"
+    },
+    {
+      "album": {
         "name": "alma doce",
         "url": "https://open.spotify.com/album/43oxXXEyDxbwlS0modn0cW"
       },
@@ -6988,6 +7122,24 @@
       "duration_ms": 231626,
       "name": "Onironauta",
       "url": "https://open.spotify.com/track/3FJ8ri983YCJZJ2LPnOADE"
+    },
+    {
+      "album": {
+        "name": "PEDRO PASCUAL",
+        "url": "https://open.spotify.com/album/7ERxJxap9tA4xBAQhmiKs5"
+      },
+      "artists": [
+        {
+          "name": "Pedro Pascual",
+          "url": "https://open.spotify.com/artist/2BnK5sGhQzbij0I5BWTYm4"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191043,
+      "name": "Ontem, Hoje e Amanh\u00e3",
+      "url": "https://open.spotify.com/track/29Ecov9FcydQR4VDr6GYso"
     },
     {
       "album": {
@@ -7316,7 +7468,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-21",
       "duration_ms": 193194,
       "name": "PALAVRANDO",
       "url": "https://open.spotify.com/track/6HR5hht8ACueSFNeDJT4S9"
@@ -9520,7 +9672,7 @@
       ],
       "date_added": "2023-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-21",
       "duration_ms": 300028,
       "name": "Serafim",
       "url": "https://open.spotify.com/track/6U5KA2ixrIUSpISQwaH6In"
@@ -9600,6 +9752,24 @@
       "duration_ms": 196045,
       "name": "Ser\u00e1 que eu t\u00f4 gostando dela?",
       "url": "https://open.spotify.com/track/2aFrwhmO0Yw2Qh3hTE8kAX"
+    },
+    {
+      "album": {
+        "name": "Ser\u00e1 que eu t\u00f4 gostando dela? (Ac\u00fastico)",
+        "url": "https://open.spotify.com/album/6uDkd4k8tUXoXNGkuw2C7T"
+      },
+      "artists": [
+        {
+          "name": "Tuca Oliveira",
+          "url": "https://open.spotify.com/artist/2VvZoYg1jc8rfndlvnn43k"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196319,
+      "name": "Ser\u00e1 que eu t\u00f4 gostando dela? (Ac\u00fastico)",
+      "url": "https://open.spotify.com/track/2NKaOIKEoRdCitUlZXLRLA"
     },
     {
       "album": {
@@ -9730,7 +9900,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-21",
       "duration_ms": 185443,
       "name": "Solid\u00e3o Bateu \u00e0 Porta",
       "url": "https://open.spotify.com/track/2r5e3RUADUfuvNki6zLntU"
@@ -9778,6 +9948,28 @@
       "duration_ms": 182587,
       "name": "Som de Alceu",
       "url": "https://open.spotify.com/track/5V09QKkoP6GbDLRl5TsBUg"
+    },
+    {
+      "album": {
+        "name": "Sonhos & Ilus\u00f5es (acoustic)",
+        "url": "https://open.spotify.com/album/7JMG9ZwaIjpQEiJKU5ie9f"
+      },
+      "artists": [
+        {
+          "name": "Julia Mestre",
+          "url": "https://open.spotify.com/artist/1FnGKreDca8xq3juSi5hAE"
+        },
+        {
+          "name": "MARO",
+          "url": "https://open.spotify.com/artist/3NP4jJcW3R6qO6rbtnH0wn"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241250,
+      "name": "Sonhos & Ilus\u00f5es - acoustic",
+      "url": "https://open.spotify.com/track/3zJ9bsVbbXvdCkh4sNxpXR"
     },
     {
       "album": {
@@ -10629,6 +10821,24 @@
     },
     {
       "album": {
+        "name": "Tudo Que Eu Quero",
+        "url": "https://open.spotify.com/album/1v543NNibkjFZElE3Bu8ig"
+      },
+      "artists": [
+        {
+          "name": "Silva",
+          "url": "https://open.spotify.com/artist/50sftj2oW2iBviA6RkTzsz"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122870,
+      "name": "Tudo Que Eu Quero",
+      "url": "https://open.spotify.com/track/5dnvAFzFy0cON4jq0JFcUF"
+    },
+    {
+      "album": {
         "name": "Tudo Vai Dar Certo",
         "url": "https://open.spotify.com/album/0GnrDJ5s5l8WAeVuDdsUiW"
       },
@@ -11200,7 +11410,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-21",
       "duration_ms": 207294,
       "name": "Viva Escultura",
       "url": "https://open.spotify.com/track/0RX9c9PLHNmGQux8nC6O7w"

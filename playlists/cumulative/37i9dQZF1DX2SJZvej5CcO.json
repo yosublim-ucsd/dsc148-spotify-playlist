@@ -651,6 +651,24 @@
     },
     {
       "album": {
+        "name": "Hogar natural",
+        "url": "https://open.spotify.com/album/2Tu4cs2fi49dDTKlQaWxEi"
+      },
+      "artists": [
+        {
+          "name": "Laura Pausini",
+          "url": "https://open.spotify.com/artist/2e4nwiX8ZCU09LGLOpeqTH"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213326,
+      "name": "Hogar natural",
+      "url": "https://open.spotify.com/track/6ghYXPIPncuPb1VQWkSh2F"
+    },
+    {
+      "album": {
         "name": "Lo mejor de Laura Pausini - Volver\u00e9 junto a ti",
         "url": "https://open.spotify.com/album/0myaHlqK31HgqSV2k6Caqj"
       },

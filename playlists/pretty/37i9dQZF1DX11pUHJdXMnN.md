@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11pUHJdXMnN.md) - [plain]
 
 > House and disco jams with an 80s\-infused retro flavour.
 
-[Spotify](https://open.spotify.com/user/spotify) - 61,585 likes - 45 songs - 3 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 61,608 likes - 45 songs - 3 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,4 +54,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11pUHJdXMnN.md) - [plain]
 | 44 | [What Are U Gonna Do](https://open.spotify.com/track/1LPrVY0aROcFkP2A9D9YCJ) | [Ladebare](https://open.spotify.com/artist/5AnAdS3TumeVuPszRkY13h), [Janai](https://open.spotify.com/artist/0x9rtwsyJne349H9TJGDk0) | [What Are U Gonna Do](https://open.spotify.com/album/243U9nGlE63ErtM8fE1g4U) | 3:00 |
 | 45 | [Up & Down](https://open.spotify.com/track/11DRarpv190YnCAXt85uFA) | [Purple Disco Machine](https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4), [Lorenz Rhode](https://open.spotify.com/artist/44fZOPBpIQYrr8faORvMiF) | [Emotion EP](https://open.spotify.com/album/1o9O7AGvoCSG8w2Ana24YA) | 6:49 |
 
-Snapshot ID: `MCw1NjY3YzFkMjc2ZWZiZDJjN2E3YzcxYzE1ZTRjN2VlNTQ1OGQ0MDk2`
+Snapshot ID: `MCw0N2Y0ODlhMTNiNThiZGY1MTk0NDM5ZWYwODdlZGZkYTRkYzk0Y2U4`

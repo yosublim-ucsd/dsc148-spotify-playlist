@@ -1051,6 +1051,24 @@
     },
     {
       "album": {
+        "name": "Estou Entrando em A\u00e7\u00e3o",
+        "url": "https://open.spotify.com/album/5pp8sRz0MtLYOa04rWA5RR"
+      },
+      "artists": [
+        {
+          "name": "Eula Cris",
+          "url": "https://open.spotify.com/artist/0XQgPT3Tn4phmgHSL7iwGt"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235000,
+      "name": "Estou Entrando em A\u00e7\u00e3o",
+      "url": "https://open.spotify.com/track/4VLvDWUuhETWPPDRC1tuz0"
+    },
+    {
+      "album": {
         "name": "Estrat\u00e9gia",
         "url": "https://open.spotify.com/album/0AgmbghBFTxFKMmJcQohqr"
       },
@@ -1316,6 +1334,24 @@
       "duration_ms": 319018,
       "name": "Eu Te Toquei - Ao Vivo",
       "url": "https://open.spotify.com/track/1iLSgpZIY86S7sNElnJnYp"
+    },
+    {
+      "album": {
+        "name": "Eu Vou na Frente",
+        "url": "https://open.spotify.com/album/2CxfBwzBDXCpgpfYZEtG1Z"
+      },
+      "artists": [
+        {
+          "name": "Nithael Alves",
+          "url": "https://open.spotify.com/artist/7bJNPAbxZjdvFLQqdG0mOd"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 279028,
+      "name": "Eu Vou na Frente",
+      "url": "https://open.spotify.com/track/7IhoNVHiXR4PQcYkV0bEwp"
     },
     {
       "album": {
@@ -2658,7 +2694,7 @@
       ],
       "date_added": "2023-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-21",
       "duration_ms": 423916,
       "name": "P\u00e1gina Virada - Ao Vivo",
       "url": "https://open.spotify.com/track/4XPbG1ZX2j45hGVDO3QCUD"
@@ -3518,7 +3554,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-21",
       "duration_ms": 284090,
       "name": "Vendavais",
       "url": "https://open.spotify.com/track/1kFTihWjdy8DCeSuxagORd"

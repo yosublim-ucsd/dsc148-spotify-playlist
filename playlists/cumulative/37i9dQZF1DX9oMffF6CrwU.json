@@ -637,6 +637,28 @@
     },
     {
       "album": {
+        "name": "hallow's eve",
+        "url": "https://open.spotify.com/album/6LdgrA1mQmS4BfHVlqAPOU"
+      },
+      "artists": [
+        {
+          "name": "Casey Dubie",
+          "url": "https://open.spotify.com/artist/1sYE9vIZsQ6cxgdr7ysq2F"
+        },
+        {
+          "name": "Timothy Edward Carpenter",
+          "url": "https://open.spotify.com/artist/5Ey3CuclF1I1yTc1i0YDgc"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133601,
+      "name": "hallow's eve",
+      "url": "https://open.spotify.com/track/257WCspICXPffkvdEvVaIP"
+    },
+    {
+      "album": {
         "name": "Goodbye And Hello",
         "url": "https://open.spotify.com/album/1jKfTvT64lcQwA74WmkKiJ"
       },

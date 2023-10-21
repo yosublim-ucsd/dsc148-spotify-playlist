@@ -4,7 +4,7 @@
 
 > When the funk is just too funky for words to keep up.
 
-249 songs - 17 hr 11 min
+250 songs - 17 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,6 +13,7 @@
 | [116th St.](https://open.spotify.com/track/3dyjYQhI5KTC82l0VUa6Qs) | [Lettuce](https://open.spotify.com/artist/1fZXjUQEkVbB0TvZX4qFR8) | [Mt\. Crushmore](https://open.spotify.com/album/42HcN7hOBcnRPNgy0NMwey) | 3:06 | 2020-11-13 |  |
 | [1am Funk Dance Party](https://open.spotify.com/track/7w5eQjBNpFZTqCvXwYa7cE) | [Scary Pockets](https://open.spotify.com/artist/1e16kiJQtCTveTl7TQnkFN), [STARBLASTER](https://open.spotify.com/artist/4bZJS8EXwIYuZAqV2p04PW) | [1am Funk Dance Party](https://open.spotify.com/album/5xX3YIFjwddRpvxrKNrpbt) | 22:24 | 2021-12-24 |  |
 | [7\-T's](https://open.spotify.com/track/008BspjuJpmAPCRi7fWbOY) | [Marcus Miller](https://open.spotify.com/artist/6fmq5mv6HnduZdlTOEYBC9), [Trombone Shorty](https://open.spotify.com/artist/37ZvFp654tY74Z1D2TLOGR) | [Laid Black](https://open.spotify.com/album/3REq2IkHZ1fo8BNWnfGGNc) | 5:55 | 2020-11-13 |  |
+| [A Trip to the Dentist](https://open.spotify.com/track/1J7C9vpaYQCXaYvbntXK16) | [Jinkie Bays](https://open.spotify.com/artist/3BwGQ1dHTUdDejGtNRCDMf), [The Brothers Nylon](https://open.spotify.com/artist/5WLTGcENPt84BZtmx6rt50) | [A Trip to the Dentist](https://open.spotify.com/album/7qd2alTTttaMaa9tjgR9Uu) | 3:28 | 2023-10-20 |  |
 | [A Wild Mad Beat \- Edit](https://open.spotify.com/track/44WPomHosQL0gwNyLykOzo) | [Soopasoul](https://open.spotify.com/artist/4qbiMv4o3ZLoZaJlXaE0I0) | [A Wild Mad Beat \(Edit\)](https://open.spotify.com/album/33DiXWQxPtC4HM2Pg2XqXn) | 4:07 | 2021-09-24 |  |
 | [Action Jackson](https://open.spotify.com/track/3mRUXKSWsu3L28U29piS4T) | [Liquid Soul](https://open.spotify.com/artist/2OayjBrvpxhiDrV2KzKehh) | [Evolution](https://open.spotify.com/album/0q9WG6GBo6K62n82VkMwva) | 3:13 | 2023-08-04 |  |
 | [Action Jackson](https://open.spotify.com/track/5CxEfPqz5QYFC2DG7lsJMI) | [Liquid Soul](https://open.spotify.com/artist/2OayjBrvpxhiDrV2KzKehh) | [Evolution](https://open.spotify.com/album/2nQVjO2R2aT5k2UmRYqua0) | 3:13 | 2020-11-13 | 2022-04-20 |
@@ -99,7 +100,7 @@
 | [Funky'n the Jazz](https://open.spotify.com/track/0DcwrYiT0pKy7e8htTWXAg) | [Too Funk Project](https://open.spotify.com/artist/1HRRQ8QMdzMuV0Mkz0cvCV) | [Funk Fusion](https://open.spotify.com/album/7cpCkGvdWZjpQPKdB68yDW) | 6:49 | 2023-08-04 |  |
 | [Funky'n the Jazz](https://open.spotify.com/track/5Kpd8ZD37Y4NzGvzx45Ks1) | [Too Funk Project](https://open.spotify.com/artist/1HRRQ8QMdzMuV0Mkz0cvCV) | [You Wanna Funk, Vol\. 1](https://open.spotify.com/album/6kNruQckYHaV9gunzHKYNK) | 6:49 | 2020-11-13 | 2022-04-21 |
 | [Get Da Steppin'](https://open.spotify.com/track/5E7o2WFaD9ZrYp4i9dSeEl) | [Delvon Lamarr Organ Trio](https://open.spotify.com/artist/7owr01EP6gwCYjnfQtPKy8) | [Get Da Steppin'](https://open.spotify.com/album/3tNWwvjgLdL7ayKGaUagrN) | 4:56 | 2022-01-28 | 2022-07-29 |
-| [Get Funked](https://open.spotify.com/track/38sBy1Ig1pojTtcsOpNIYN) | [Low\-Res Royalty](https://open.spotify.com/artist/0BHZPaU8Rm27DxydcWn8Xq) | [Get Funked](https://open.spotify.com/album/1sErMYQ42qnb0STz97sNkt) | 2:35 | 2020-11-13 |  |
+| [Get Funked](https://open.spotify.com/track/38sBy1Ig1pojTtcsOpNIYN) | [Low\-Res Royalty](https://open.spotify.com/artist/0BHZPaU8Rm27DxydcWn8Xq) | [Get Funked](https://open.spotify.com/album/1sErMYQ42qnb0STz97sNkt) | 2:35 | 2020-11-13 | 2023-10-21 |
 | [Get With It](https://open.spotify.com/track/2EjDv0D4fQfDVPYchQQzLc) | [Orgone](https://open.spotify.com/artist/4WmMnGO1nLIsE85XwcBAZE) | [Get With It](https://open.spotify.com/album/5kwsrHfXP95rGoSiMz5wVY) | 3:06 | 2021-04-16 | 2022-07-29 |
 | [Get With It](https://open.spotify.com/track/5poYqonWICaAZaQCZIPMcu) | [Orgone](https://open.spotify.com/artist/4WmMnGO1nLIsE85XwcBAZE) | [Moonshadows](https://open.spotify.com/album/3FJHBeJz2ImwMQEBXSGlGh) | 3:06 | 2021-04-16 | 2023-08-05 |
 | [Getaway Car](https://open.spotify.com/track/4wIMg49wp66ned9IZ6QUzf) | [Dave Koz](https://open.spotify.com/artist/0ZcJXldoq09BRIMl0Qh1Vm), [Cory Wong](https://open.spotify.com/artist/6xt9sJmmyYwWkJv8A6ssiU) | [Getaway Car](https://open.spotify.com/album/5WpaETJzHurpaWKwOkNs1J) | 3:28 | 2021-05-28 | 2023-08-05 |

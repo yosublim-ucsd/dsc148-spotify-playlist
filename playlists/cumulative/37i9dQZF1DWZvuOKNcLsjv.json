@@ -35667,6 +35667,24 @@
     },
     {
       "album": {
+        "name": "Whisper of the heart",
+        "url": "https://open.spotify.com/album/6Dfjxy6p9bcxmrUxXv4lwR"
+      },
+      "artists": [
+        {
+          "name": "\u30af\u30ec\u30ca\u30ba\u30e0",
+          "url": "https://open.spotify.com/artist/72PvGatrHUWZIbyyntvdpM"
+        }
+      ],
+      "date_added": "2023-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237975,
+      "name": "yunagieiso",
+      "url": "https://open.spotify.com/track/0VyYuzmkKGiJDRTo2T6AKO"
+    },
+    {
+      "album": {
         "name": "yunagieiso",
         "url": "https://open.spotify.com/album/7FD9T96o1fl2qTcRem8iNM"
       },
@@ -35678,7 +35696,7 @@
       ],
       "date_added": "2023-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-21",
       "duration_ms": 237975,
       "name": "yunagieiso",
       "url": "https://open.spotify.com/track/618pyNivEdcfLnc9TbKAuQ"

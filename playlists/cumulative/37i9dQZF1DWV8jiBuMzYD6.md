@@ -4,7 +4,7 @@
 
 > Sophisticated palates only\. Curated by: <a href="https://www.instagram.com/raycondones/">BruceDropEmOff</a>
 
-48 songs - 2 hr 14 min
+49 songs - 2 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,7 +16,8 @@
 | [Baking Soda](https://open.spotify.com/track/5cNx7JPZrX6bBUnrn1EmIr) | [MAVI](https://open.spotify.com/artist/1peoXq0RPx7czVoFjloeDQ) | [Laughing so Hard, it Hurts](https://open.spotify.com/album/0zI5KZ81RN2x6RrQchLLBQ) | 3:10 | 2023-10-06 |  |
 | [Better Days](https://open.spotify.com/track/37B4GLH6OzUTUAMLRoJpdf) | [JayDaYoungan](https://open.spotify.com/artist/0E3pLs4jXz9tDQGY8m1A1d) | [Forever 23](https://open.spotify.com/album/0J6Ujzcx1ladoPha3cFQCE) | 2:07 | 2023-10-06 |  |
 | [Beyond The Pines](https://open.spotify.com/track/5iXM27A8F24CV1mfscEnoB) | [Thouxanbanfauni](https://open.spotify.com/artist/1O8X4zxUh4AdAPFttOTlLr) | [The Ex Files](https://open.spotify.com/album/2i55FjuwKmK7sbo4G1ACYC) | 3:00 | 2023-10-06 |  |
-| [bleh](https://open.spotify.com/track/31zfOvtc8QNHr4GZbZHczn) | [Hardrock](https://open.spotify.com/artist/1EM110Ljwqga6grZH2Dym3) | [bleh](https://open.spotify.com/album/5WwGgXUvWju2gb12HuW1cm) | 2:26 | 2023-10-06 |  |
+| [bleh](https://open.spotify.com/track/31zfOvtc8QNHr4GZbZHczn) | [Hardrock](https://open.spotify.com/artist/1EM110Ljwqga6grZH2Dym3) | [bleh](https://open.spotify.com/album/5WwGgXUvWju2gb12HuW1cm) | 2:26 | 2023-10-06 | 2023-10-21 |
+| [bleh](https://open.spotify.com/track/5jhI9kdseTMJQYvjIm5MVU) | [Hardrock](https://open.spotify.com/artist/1EM110Ljwqga6grZH2Dym3) | [1of1](https://open.spotify.com/album/1uDRSDtUULUbusMjtRrwKi) | 2:26 | 2023-10-06 |  |
 | [Eye 2 Eye](https://open.spotify.com/track/1DItMaT9W8U8SrDv8p6rAX) | [Yung Bans](https://open.spotify.com/artist/6WkUZyqghQei2G809wMKuZ) | [Yung Bans Vol\. 3](https://open.spotify.com/album/78Mvyn2rBPIm7CSL12lzUa) | 2:34 | 2023-10-06 |  |
 | [eye to eye](https://open.spotify.com/track/7FSaNdtB9Foz1PCzuiZqVu) | [Hardrock](https://open.spotify.com/artist/1EM110Ljwqga6grZH2Dym3) | [1of1](https://open.spotify.com/album/1uDRSDtUULUbusMjtRrwKi) | 2:26 | 2023-10-06 |  |
 | [Fashion Habits](https://open.spotify.com/track/2ivRKtdr0RD9nLjeXgRBPV) | [Ken Carson](https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX) | [XTENDED](https://open.spotify.com/album/4Pangd3z0ZrONFpx3zMrFK) | 3:21 | 2023-10-06 |  |

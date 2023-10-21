@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVlypmfyCIGr.md) - [plain]
 
 > 独自の進化を遂げる日本のポップ文化。「キラキラポップ」なナンバーをひとつのプレイリストに。Curated by ふくりゅう（音楽コンシェルジュ）Cover: マコトコンドウ
 
-[Spotify](https://open.spotify.com/user/spotify) - 69,772 likes - 81 songs - 4 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 69,795 likes - 81 songs - 4 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,7 +26,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVlypmfyCIGr.md) - [plain]
 | 16 | [遥か](https://open.spotify.com/track/5DjOVg4mTlMHWsLREAHe7S) | [Ryujin Kiyoshi](https://open.spotify.com/artist/15c6wAJcxNMHjSZVjgE8VW) | [遥か](https://open.spotify.com/album/3YDS1skzsx5PZk0HspoEm9) | 3:01 |
 | 17 | [Psychedelic](https://open.spotify.com/track/4WcpmNZaCVS3OWNoRehz7b) | [LEX](https://open.spotify.com/artist/2KpK4apOMD6evPHoPggSVF), [KEIJU](https://open.spotify.com/artist/7K3bqkZs0SVUS9K13bnwHL) | [莉子](https://open.spotify.com/album/2P2gIq8l9Rk4EYPErK9KRb) | 3:21 |
 | 18 | [Noidleap](https://open.spotify.com/track/6Frb0urydHcSQB8qGkp731) | [Billyrrom](https://open.spotify.com/artist/7our8lu1Vk9CLnFEu3JEbc) | [noidleap](https://open.spotify.com/album/5KYaSgNi77IKgGkxuqrp7R) | 3:23 |
-| 19 | [Lost Summer](https://open.spotify.com/track/2q3eW96Zin7rJ2ERLoKc6b) | [NEP](https://open.spotify.com/artist/0DoHQhgptAR78Dz6XF5SAP) | [Lost Summer](https://open.spotify.com/album/4qesoYrXFmLjtSzy3wP4XD) | 3:34 |
+| 19 | [Lost Summer](https://open.spotify.com/track/4Ci0WoCSGNehdZT9Lm9vmi) | [ネプ](https://open.spotify.com/artist/3s0gV7mmHu3tdSdCoB8Gbj) | [Lost Summer](https://open.spotify.com/album/4roJfs2ucXU2FgilX3pBrJ) | 3:34 |
 | 20 | [プロポーズ文句](https://open.spotify.com/track/44cWeBUmdE4qZnHI0ePPm6) | [名誉伝説](https://open.spotify.com/artist/2tQe3JU05yYIs9350ppVPD) | [プロポーズ文句](https://open.spotify.com/album/4gR4C4GDqpCaV23RVg1Gj3) | 3:35 |
 | 21 | [Mayoigo \- VOLTA Remix](https://open.spotify.com/track/5rMvvhkUjdNKMiiGlAdEJp) | [Natsunose](https://open.spotify.com/artist/0wjfRLmHq20y874POC5pXC), [VOLTA](https://open.spotify.com/artist/6RO88j2OxaxtiB7OOZdHRz) | [Mayoigo \(VOLTA Remix\)](https://open.spotify.com/album/3iLCjHYHVE9vjqwDZRXgk8) | 1:28 |
 | 22 | [ふたりぼっち](https://open.spotify.com/track/1D5ZzYP5y8BGNRfyT7JTXf) | [クボタカイ](https://open.spotify.com/artist/0eg7sMst2b9wLVyMgtRFpY) | [ふたりぼっち](https://open.spotify.com/album/5dYY8qhnEXDrk8vZAPf8jf) | 3:04 |
@@ -90,4 +90,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVlypmfyCIGr.md) - [plain]
 | 80 | [good bye summer time](https://open.spotify.com/track/2GKe2DIHJS0MR2pnp76CA9) | [anna fujishiro](https://open.spotify.com/artist/2PrSK9P06senXWQxvBKpkH) | [good bye summer time](https://open.spotify.com/album/1DIACzv0BiHpbBMhvS6ceG) | 3:40 |
 | 81 | [花様年華](https://open.spotify.com/track/4LkH4PpFcaTXLVsum4dGPm) | [CHO CO PA CO CHO CO QUIN QUIN](https://open.spotify.com/artist/3mWeBqMtDhKO66qel3iO2C) | [tradition](https://open.spotify.com/album/5fj2vwRaYmwFoRKtuik6lm) | 3:29 |
 
-Snapshot ID: `MCxkOTQ1ZjUxNmJjMGY3ZDljOWZlYmEwYTUxNjgzOGQ3YzUxYzFjOTUy`
+Snapshot ID: `MCw3YTNjMDEzYWZmM2YzNGE4ZTYwZjAzODA1NjM3ZDE1YjJhMDNhNmZk`

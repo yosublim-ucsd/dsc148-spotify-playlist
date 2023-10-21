@@ -1,12 +1,12 @@
 {
   "description": "The best indie songs from all decades for your Halloween party",
-  "num_followers": 66798,
+  "num_followers": 67536,
   "original_name": "Indie Halloween",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzZWY1MTMxYjVhMzJjZDgyODAxY2I1MzcwZjQ5NGYyNTdhY2Q3Yjk2",
+  "snapshot_id": "MCw2MDQ5OTA1NGRkYmM3MjljNGYyZTZlMmU3NTQ3YmEwYjgyMjliNGUw",
   "tracks": [
     {
       "added_at": "2023-10-17 16:38:23",
@@ -139,22 +139,6 @@
     {
       "added_at": "2023-10-17 16:38:23",
       "album": {
-        "name": "Brothers",
-        "url": "https://open.spotify.com/album/7qE6RXYyz5kj5Tll7mJU0v"
-      },
-      "artists": [
-        {
-          "name": "The Black Keys",
-          "url": "https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz"
-        }
-      ],
-      "duration_ms": 191800,
-      "name": "Howlin' for You",
-      "url": "https://open.spotify.com/track/0grFc6klR3hxoHLcgCYsF4"
-    },
-    {
-      "added_at": "2023-10-17 16:38:23",
-      "album": {
         "name": "Your face",
         "url": "https://open.spotify.com/album/19qeLWS7fwQMYuDosTCTFe"
       },
@@ -167,6 +151,22 @@
       "duration_ms": 227426,
       "name": "Your face",
       "url": "https://open.spotify.com/track/7ne2hzW4jaU5tacaCI4kJH"
+    },
+    {
+      "added_at": "2023-10-17 16:38:23",
+      "album": {
+        "name": "Brothers",
+        "url": "https://open.spotify.com/album/7qE6RXYyz5kj5Tll7mJU0v"
+      },
+      "artists": [
+        {
+          "name": "The Black Keys",
+          "url": "https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz"
+        }
+      ],
+      "duration_ms": 191800,
+      "name": "Howlin' for You",
+      "url": "https://open.spotify.com/track/0grFc6klR3hxoHLcgCYsF4"
     },
     {
       "added_at": "2023-10-17 16:38:23",
@@ -587,22 +587,6 @@
     {
       "added_at": "2023-10-17 16:38:23",
       "album": {
-        "name": "Norm",
-        "url": "https://open.spotify.com/album/0TaN6TZg6BpT0lQNJAhGrC"
-      },
-      "artists": [
-        {
-          "name": "Andy Shauf",
-          "url": "https://open.spotify.com/artist/5mFKYdmiYwNJTDtSzgFyQx"
-        }
-      ],
-      "duration_ms": 179280,
-      "name": "Halloween Store",
-      "url": "https://open.spotify.com/track/3oWGBitSdsizfiIlCfwUqV"
-    },
-    {
-      "added_at": "2023-10-17 16:38:23",
-      "album": {
         "name": "The Great Awakening",
         "url": "https://open.spotify.com/album/1ji5VvsY621bB4egsnt2KN"
       },
@@ -615,6 +599,22 @@
       "duration_ms": 190728,
       "name": "Can't Get You Out of My Head",
       "url": "https://open.spotify.com/track/4PCCRQQOwrrRbkDTzxXl7h"
+    },
+    {
+      "added_at": "2023-10-17 16:38:23",
+      "album": {
+        "name": "Norm",
+        "url": "https://open.spotify.com/album/0TaN6TZg6BpT0lQNJAhGrC"
+      },
+      "artists": [
+        {
+          "name": "Andy Shauf",
+          "url": "https://open.spotify.com/artist/5mFKYdmiYwNJTDtSzgFyQx"
+        }
+      ],
+      "duration_ms": 179280,
+      "name": "Halloween Store",
+      "url": "https://open.spotify.com/track/3oWGBitSdsizfiIlCfwUqV"
     },
     {
       "added_at": "2023-10-17 16:38:23",
@@ -875,18 +875,18 @@
     {
       "added_at": "2023-10-17 16:38:23",
       "album": {
-        "name": "Friendly Fires",
-        "url": "https://open.spotify.com/album/3sGsbbZGQqc3npPtdlAgnU"
+        "name": "God Is Dead",
+        "url": "https://open.spotify.com/album/5BLV32zI1HWGP6DLkXMRKZ"
       },
       "artists": [
         {
-          "name": "Friendly Fires",
-          "url": "https://open.spotify.com/artist/3mZqziCJj4pq3P2VBpmK6p"
+          "name": "Twin Temple",
+          "url": "https://open.spotify.com/artist/5NYEE4kgrEZPlM3DxUsTyc"
         }
       ],
-      "duration_ms": 213640,
-      "name": "Skeleton Boy",
-      "url": "https://open.spotify.com/track/0O2UcLBP75ugJ8DxskP8gz"
+      "duration_ms": 241614,
+      "name": "Let's Have A Satanic Orgy",
+      "url": "https://open.spotify.com/track/1TytKeDnrjx0t29DYclf3W"
     },
     {
       "added_at": "2023-10-17 16:38:23",
@@ -907,34 +907,18 @@
     {
       "added_at": "2023-10-17 16:38:23",
       "album": {
-        "name": "God Is Dead",
-        "url": "https://open.spotify.com/album/5BLV32zI1HWGP6DLkXMRKZ"
+        "name": "Friendly Fires",
+        "url": "https://open.spotify.com/album/3sGsbbZGQqc3npPtdlAgnU"
       },
       "artists": [
         {
-          "name": "Twin Temple",
-          "url": "https://open.spotify.com/artist/5NYEE4kgrEZPlM3DxUsTyc"
+          "name": "Friendly Fires",
+          "url": "https://open.spotify.com/artist/3mZqziCJj4pq3P2VBpmK6p"
         }
       ],
-      "duration_ms": 241614,
-      "name": "Let's Have A Satanic Orgy",
-      "url": "https://open.spotify.com/track/1TytKeDnrjx0t29DYclf3W"
-    },
-    {
-      "added_at": "2023-10-17 16:38:23",
-      "album": {
-        "name": "Come Of Age",
-        "url": "https://open.spotify.com/album/2XWOaQwiK4GAODTPVwDSr4"
-      },
-      "artists": [
-        {
-          "name": "The Vaccines",
-          "url": "https://open.spotify.com/artist/0Ak6DLKHtpR6TEEnmcorKA"
-        }
-      ],
-      "duration_ms": 140906,
-      "name": "Ghost Town",
-      "url": "https://open.spotify.com/track/347OA86TbdeTydHhy90blH"
+      "duration_ms": 213640,
+      "name": "Skeleton Boy",
+      "url": "https://open.spotify.com/track/0O2UcLBP75ugJ8DxskP8gz"
     },
     {
       "added_at": "2023-10-17 16:38:23",
@@ -951,6 +935,22 @@
       "duration_ms": 311200,
       "name": "Halloween",
       "url": "https://open.spotify.com/track/3DN3nPW5VDyGa48ELeXPU0"
+    },
+    {
+      "added_at": "2023-10-17 16:38:23",
+      "album": {
+        "name": "Come Of Age",
+        "url": "https://open.spotify.com/album/2XWOaQwiK4GAODTPVwDSr4"
+      },
+      "artists": [
+        {
+          "name": "The Vaccines",
+          "url": "https://open.spotify.com/artist/0Ak6DLKHtpR6TEEnmcorKA"
+        }
+      ],
+      "duration_ms": 140906,
+      "name": "Ghost Town",
+      "url": "https://open.spotify.com/track/347OA86TbdeTydHhy90blH"
     },
     {
       "added_at": "2023-10-17 16:38:23",

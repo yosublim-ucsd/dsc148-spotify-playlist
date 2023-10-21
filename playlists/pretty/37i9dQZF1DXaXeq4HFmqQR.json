@@ -1,12 +1,12 @@
 {
   "description": "Mujeres a todo volumen. Foto: Marineros.",
-  "num_followers": 12860,
+  "num_followers": 12861,
   "original_name": "EQUAL Chile",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwZjVlYTU5NTA3ODcwMmZkNGRkOTdkNjdmNmQ0YmM3Mjc0NDc0YTcw",
+  "snapshot_id": "MCxjZDA3NjI2NmNiNTI1ODY4OTc1YjNlNWNlNGM2NDY3YjU5MGRkYmZm",
   "tracks": [
     {
       "added_at": "2023-10-04 04:00:00",
@@ -399,22 +399,6 @@
     {
       "added_at": "2023-10-04 04:00:00",
       "album": {
-        "name": "Todas Seremos Reinas",
-        "url": "https://open.spotify.com/album/3xpcyIxuRq6Zngha1LAqNd"
-      },
-      "artists": [
-        {
-          "name": "Denise Rosenthal",
-          "url": "https://open.spotify.com/artist/73SBwOgH6mrS09OyFHdR62"
-        }
-      ],
-      "duration_ms": 211680,
-      "name": "Flor De Azucena",
-      "url": "https://open.spotify.com/track/5YdQ2kntFxlQGsAKdnwS4n"
-    },
-    {
-      "added_at": "2023-10-04 04:00:00",
-      "album": {
         "name": "Hacerlo Mejor",
         "url": "https://open.spotify.com/album/6fdXfuTQQrBnpNTz8pXiJk"
       },
@@ -439,18 +423,18 @@
     {
       "added_at": "2023-10-04 04:00:00",
       "album": {
-        "name": "Cuerpo y Guitarra",
-        "url": "https://open.spotify.com/album/0uyq3UPenEoAZ2nJwZ70eQ"
+        "name": "Todas Seremos Reinas",
+        "url": "https://open.spotify.com/album/3xpcyIxuRq6Zngha1LAqNd"
       },
       "artists": [
         {
-          "name": "Mariel Mariel",
-          "url": "https://open.spotify.com/artist/5MbC0GPijb60evRCEQLJAz"
+          "name": "Denise Rosenthal",
+          "url": "https://open.spotify.com/artist/73SBwOgH6mrS09OyFHdR62"
         }
       ],
-      "duration_ms": 177056,
-      "name": "Cuerpo y Guitarra",
-      "url": "https://open.spotify.com/track/0zpaa6HC7WIeu5A0ZGynOq"
+      "duration_ms": 211680,
+      "name": "Flor De Azucena",
+      "url": "https://open.spotify.com/track/5YdQ2kntFxlQGsAKdnwS4n"
     },
     {
       "added_at": "2023-10-04 04:00:00",
@@ -467,6 +451,38 @@
       "duration_ms": 153462,
       "name": "Pl\u00e1stico",
       "url": "https://open.spotify.com/track/6HAEIK2FnaawhsaJBc2YGr"
+    },
+    {
+      "added_at": "2023-10-04 04:00:00",
+      "album": {
+        "name": "Cuerpo y Guitarra",
+        "url": "https://open.spotify.com/album/0uyq3UPenEoAZ2nJwZ70eQ"
+      },
+      "artists": [
+        {
+          "name": "Mariel Mariel",
+          "url": "https://open.spotify.com/artist/5MbC0GPijb60evRCEQLJAz"
+        }
+      ],
+      "duration_ms": 177056,
+      "name": "Cuerpo y Guitarra",
+      "url": "https://open.spotify.com/track/0zpaa6HC7WIeu5A0ZGynOq"
+    },
+    {
+      "added_at": "2023-10-04 04:00:00",
+      "album": {
+        "name": "Tiempo a mi favor",
+        "url": "https://open.spotify.com/album/0lxBKyCp0wv8asbF776NwF"
+      },
+      "artists": [
+        {
+          "name": "Ania Ivania",
+          "url": "https://open.spotify.com/artist/4X5zjb9hLr37IngXyDpdZb"
+        }
+      ],
+      "duration_ms": 214000,
+      "name": "Tiempo a mi favor",
+      "url": "https://open.spotify.com/track/6eDpmWdmQ35HYVwWZXxmoh"
     },
     {
       "added_at": "2023-10-04 04:00:00",
@@ -499,22 +515,6 @@
       "duration_ms": 178285,
       "name": "aterrizar",
       "url": "https://open.spotify.com/track/1WBfPZBIHbEmaS1PymNCTl"
-    },
-    {
-      "added_at": "2023-10-04 04:00:00",
-      "album": {
-        "name": "Tiempo a mi favor",
-        "url": "https://open.spotify.com/album/0lxBKyCp0wv8asbF776NwF"
-      },
-      "artists": [
-        {
-          "name": "Ania Ivania",
-          "url": "https://open.spotify.com/artist/4X5zjb9hLr37IngXyDpdZb"
-        }
-      ],
-      "duration_ms": 214000,
-      "name": "Tiempo a mi favor",
-      "url": "https://open.spotify.com/track/6eDpmWdmQ35HYVwWZXxmoh"
     },
     {
       "added_at": "2023-10-04 04:00:00",
@@ -595,22 +595,6 @@
     {
       "added_at": "2023-10-04 04:00:00",
       "album": {
-        "name": "Quiero Estar Sola",
-        "url": "https://open.spotify.com/album/5sEEKD6TjMPKp8De3Ss7ra"
-      },
-      "artists": [
-        {
-          "name": "Mar\u00eda Colores",
-          "url": "https://open.spotify.com/artist/6VQxtEeYFtNENvE6Qsvlan"
-        }
-      ],
-      "duration_ms": 174257,
-      "name": "Quiero Estar Sola",
-      "url": "https://open.spotify.com/track/1ycM7HfsgQ6CvfU0HKnVsX"
-    },
-    {
-      "added_at": "2023-10-04 04:00:00",
-      "album": {
         "name": "Valientes",
         "url": "https://open.spotify.com/album/1K2HuoKRr6EcSECJ6pX66Z"
       },
@@ -623,6 +607,22 @@
       "duration_ms": 241790,
       "name": "Valientes",
       "url": "https://open.spotify.com/track/25PChx1yPUT0BNmNyuxMsh"
+    },
+    {
+      "added_at": "2023-10-04 04:00:00",
+      "album": {
+        "name": "Quiero Estar Sola",
+        "url": "https://open.spotify.com/album/5sEEKD6TjMPKp8De3Ss7ra"
+      },
+      "artists": [
+        {
+          "name": "Mar\u00eda Colores",
+          "url": "https://open.spotify.com/artist/6VQxtEeYFtNENvE6Qsvlan"
+        }
+      ],
+      "duration_ms": 174257,
+      "name": "Quiero Estar Sola",
+      "url": "https://open.spotify.com/track/1ycM7HfsgQ6CvfU0HKnVsX"
     },
     {
       "added_at": "2023-10-04 04:00:00",
@@ -799,6 +799,26 @@
     {
       "added_at": "2023-10-04 04:00:00",
       "album": {
+        "name": "virgen suicida",
+        "url": "https://open.spotify.com/album/5cGNxuYfProCoCfmSFSdsH"
+      },
+      "artists": [
+        {
+          "name": "Vicenta",
+          "url": "https://open.spotify.com/artist/0fMFxEzzksKzDMk4bFZodo"
+        },
+        {
+          "name": "Cabiria",
+          "url": "https://open.spotify.com/artist/2y7OtEBQuQCeFh2a8bYZVC"
+        }
+      ],
+      "duration_ms": 173689,
+      "name": "correr",
+      "url": "https://open.spotify.com/track/6QjfzTIZ50ut9SqjnX4xu6"
+    },
+    {
+      "added_at": "2023-10-04 04:00:00",
+      "album": {
         "name": "Soltera (Remix)",
         "url": "https://open.spotify.com/album/6oduJOhQOBYZ8gnfSyUMvn"
       },
@@ -831,26 +851,6 @@
       "duration_ms": 171994,
       "name": "Tenk\u014d",
       "url": "https://open.spotify.com/track/7x0gw63e2KKC5C1ZQNkLYY"
-    },
-    {
-      "added_at": "2023-10-04 04:00:00",
-      "album": {
-        "name": "virgen suicida",
-        "url": "https://open.spotify.com/album/5cGNxuYfProCoCfmSFSdsH"
-      },
-      "artists": [
-        {
-          "name": "Vicenta",
-          "url": "https://open.spotify.com/artist/0fMFxEzzksKzDMk4bFZodo"
-        },
-        {
-          "name": "Cabiria",
-          "url": "https://open.spotify.com/artist/2y7OtEBQuQCeFh2a8bYZVC"
-        }
-      ],
-      "duration_ms": 173689,
-      "name": "correr",
-      "url": "https://open.spotify.com/track/6QjfzTIZ50ut9SqjnX4xu6"
     },
     {
       "added_at": "2023-10-04 04:00:00",

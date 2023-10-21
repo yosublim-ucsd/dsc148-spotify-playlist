@@ -4,7 +4,7 @@
 
 > Ist nur einmal im Jahr!
 
-88 songs - 4 hr 28 min
+89 songs - 4 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -79,6 +79,7 @@
 | [PECH & SCHWEFEL](https://open.spotify.com/track/29QMGzrf349SV10G5sxEk8) | [FiNCH](https://open.spotify.com/artist/1ZyqnbV7Brg5LgyS4EZCUD), [Matthias Reim](https://open.spotify.com/artist/3fgh28NoU2ArVdUdymvnf3) | [DORFDiSKO ZWEi](https://open.spotify.com/album/2Ca43km7ALoz3Qk6Gbj4JQ) | 3:18 | 2023-07-14 |  |
 | [Peter Pan](https://open.spotify.com/track/5CvAzdenlzv3ImMcG7awJV) | [Julian Sommer](https://open.spotify.com/artist/77puYb4Nubacm3PAzkY1UQ), [Mia Julia](https://open.spotify.com/artist/3tN4jv8IaO9UAKTWqpXaV4) | [Peter Pan](https://open.spotify.com/album/6z3sGEQXxPO0lx5SOWGHgn) | 3:30 | 2023-07-14 |  |
 | [Rapunzel \- DJ Robin Remix](https://open.spotify.com/track/2WQBFD9aMY1HldcU7Ekvp1) | [Die Draufgänger](https://open.spotify.com/artist/6poBa7e0hqMo8tfNjh0TAV), [Ikke Hüftgold](https://open.spotify.com/artist/2ctUnxn4qlNB9rYMyKJuMf), [DJ Robin](https://open.spotify.com/artist/06VwNCd4PPAxBuxheaf5bz) | [Rapunzel \(DJ Robin Remix\)](https://open.spotify.com/album/3dr4AKRx355JOuK77zvyvX) | 2:45 | 2023-07-14 |  |
+| [Sarà Perché Ti Amo \- Stereoact Remix](https://open.spotify.com/track/7DK22gpHTmpLocUUJgddzk) | [DJ Redblack](https://open.spotify.com/artist/3YwK1Kk8VSAtowOX2lRO0c), [Stereoact](https://open.spotify.com/artist/6dXL3SnQlCGX9LCUAyin6a) | [Sarà Perché Ti Amo \(Stereoact Remix\)](https://open.spotify.com/album/15GmPCNdbwRiGpK6DjtpQX) | 2:02 | 2023-10-20 |  |
 | [Saufen aufm Spielplatz](https://open.spotify.com/track/5U20wHHKhsNDONaKQOC4JG) | [BroyS](https://open.spotify.com/artist/3yDixC6rzq0qg2HmZTobCO), [Pbb Yea](https://open.spotify.com/artist/0LMiaB3r5vBn8zYpfZWeg9) | [Saufen aufm Spielplatz](https://open.spotify.com/album/0kd5J1CE0NNrppIM1hQi67) | 4:00 | 2023-07-14 |  |
 | [Saufi saufi](https://open.spotify.com/track/3IsASNnv8A9dS7GoZy1LY9) | [Tobee](https://open.spotify.com/artist/5HvFk00KrkDIPJuzSLFd0r) | [Saufi saufi](https://open.spotify.com/album/2m713Kjk2GYOeBxr7rnbr7) | 3:26 | 2023-07-14 |  |
 | [Sauftourist](https://open.spotify.com/track/61eiAAYLa2sygwdg7nt1qL) | [Ikke Hüftgold](https://open.spotify.com/artist/2ctUnxn4qlNB9rYMyKJuMf) | [Sauftourist](https://open.spotify.com/album/66sLyPMmwDoRqYo0XU3YLX) | 2:50 | 2023-07-14 | 2023-09-24 |
@@ -90,7 +91,7 @@
 | [Strobo Pop](https://open.spotify.com/track/0xTsllHxzqwYrsPUcruf72) | [Die Atzen](https://open.spotify.com/artist/1huEHiP7LUQ8QJHXbzrtDu), [Nena](https://open.spotify.com/artist/6Tz0QRoe083BcOo2YbG9lV) | [Party Chaos](https://open.spotify.com/album/68DUsll6ui4bYNyvEZmIzS) | 3:14 | 2023-07-14 |  |
 | [VAMOS](https://open.spotify.com/track/6Ng40TRrkhviBybqFF1s6P) | [FiNCH](https://open.spotify.com/artist/1ZyqnbV7Brg5LgyS4EZCUD), [Loona](https://open.spotify.com/artist/7ugN9bU7x54gVI2295brJF) | [VAMOS](https://open.spotify.com/album/6KdsuvLd4GiIwZyVa512sO) | 2:29 | 2023-07-14 |  |
 | [Vamos a la Playa](https://open.spotify.com/track/2Tk5B1h58lJRsrivGg1jaE) | [Loona](https://open.spotify.com/artist/7ugN9bU7x54gVI2295brJF) | [Stars](https://open.spotify.com/album/5DUf0pbwyBeH2zN1rhPlBO) | 2:59 | 2023-07-14 |  |
-| [Vatta Morgana](https://open.spotify.com/track/1ysveV4DKZ7lc6SvPYlmTH) | [DJ Robin](https://open.spotify.com/artist/06VwNCd4PPAxBuxheaf5bz), [Schürze](https://open.spotify.com/artist/3S46qb1V62vKdGl1sR6LEQ) | [Vatta Morgana](https://open.spotify.com/album/2N2wprOKBpBBq1XrXx7u7l) | 3:12 | 2023-08-31 |  |
+| [Vatta Morgana](https://open.spotify.com/track/1ysveV4DKZ7lc6SvPYlmTH) | [DJ Robin](https://open.spotify.com/artist/06VwNCd4PPAxBuxheaf5bz), [Schürze](https://open.spotify.com/artist/3S46qb1V62vKdGl1sR6LEQ) | [Vatta Morgana](https://open.spotify.com/album/2N2wprOKBpBBq1XrXx7u7l) | 3:12 | 2023-08-31 | 2023-10-21 |
 | [Verdammt, ich lieb Dich \- 2020 Remastered](https://open.spotify.com/track/2S3XOnYSBvRPAJukBB9dLt) | [Matthias Reim](https://open.spotify.com/artist/3fgh28NoU2ArVdUdymvnf3) | [Reim \(Expanded Edition\)](https://open.spotify.com/album/5VpPRQ5SHRyTLxBpDupDQg) | 3:40 | 2023-07-14 |  |
 | [Wahnsinn](https://open.spotify.com/track/2Nv773K16hckJrb3Ir7wOu) | [Wolfgang Petry](https://open.spotify.com/artist/0JLbfIT1Z20raMAVYWtCD7) | [Ich will mehr](https://open.spotify.com/album/77VmZTMiGJbIPBDchKu4hB) | 3:42 | 2023-08-28 |  |
 | [Wir eskalieren](https://open.spotify.com/track/2gxG1d0SZNpJHJFSQlE7Vm) | [FiNCH](https://open.spotify.com/artist/1ZyqnbV7Brg5LgyS4EZCUD), [Mia Julia](https://open.spotify.com/artist/3tN4jv8IaO9UAKTWqpXaV4) | [Wir eskalieren](https://open.spotify.com/album/2XgIdJXUCfdSJIbXAglyHA) | 3:36 | 2023-07-14 |  |

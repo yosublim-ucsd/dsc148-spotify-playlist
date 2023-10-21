@@ -1,13 +1,29 @@
 {
   "description": "Apasi\u00f3nate con sus \u00e9xitos en espa\u00f1ol.",
-  "num_followers": 257011,
+  "num_followers": 257124,
   "original_name": "This Is Laura Pausini",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1NjFkZWQ0NTRkYTNjZjRiZDNjMGQwOWU3ZWJkNjcwOGRlYzFlNmJj",
+  "snapshot_id": "MCwwMjkzMjI2Y2YxNDk0NGIwMGFkNjQzYWUyY2U5MjY3ZjYwY2RhZTRl",
   "tracks": [
+    {
+      "added_at": "2023-10-20 06:00:00",
+      "album": {
+        "name": "Hogar natural",
+        "url": "https://open.spotify.com/album/2Tu4cs2fi49dDTKlQaWxEi"
+      },
+      "artists": [
+        {
+          "name": "Laura Pausini",
+          "url": "https://open.spotify.com/artist/2e4nwiX8ZCU09LGLOpeqTH"
+        }
+      ],
+      "duration_ms": 213326,
+      "name": "Hogar natural",
+      "url": "https://open.spotify.com/track/6ghYXPIPncuPb1VQWkSh2F"
+    },
     {
       "added_at": "2023-10-13 06:00:00",
       "album": {

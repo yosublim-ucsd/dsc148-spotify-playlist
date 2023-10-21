@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9cjKvsL1KlZ.md) - [plain]
 
 > Sounds of New York curated by <a href="https://www.instagram.com/sidetalknyc/">Sidetalk</a>, New York’s one\-minute street show.
 
-[Spotify](https://open.spotify.com/user/spotify) - 94,657 likes - 50 songs - 2 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 94,789 likes - 50 songs - 2 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9cjKvsL1KlZ.md) - [plain]
 | 49 | [Houston Old Head](https://open.spotify.com/track/6lmMjq57ysbPyknJZjKuWI) | [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca) | [LIVE.LOVE.A$AP](https://open.spotify.com/album/4l6EPpP9hjQrLb8qNB9eC5) | 4:18 |
 | 50 | [She Got A Thing](https://open.spotify.com/track/26CqCHDhGPFqaL9GdhuYNV) | [Pop Smoke](https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj) | [Meet The Woo 2](https://open.spotify.com/album/4MZnolldq7ciKKlbVDzLm5) | 2:05 |
 
-Snapshot ID: `MCw1NGIzYzIyOTI1NTEwYjc0ZTI5M2MxMTY1NjRkMzljOGMwOGRkNGVk`
+Snapshot ID: `MCw3NmI0YzJhNjliYjk4NDVmMTdkYzllZDdkZTcyMTAyOGNjMGVkMmVk`

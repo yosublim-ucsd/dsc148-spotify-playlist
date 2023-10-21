@@ -739,6 +739,24 @@
     },
     {
       "album": {
+        "name": "Christmas All Over Again",
+        "url": "https://open.spotify.com/album/7B3eH4HDNsYRZh8wzx6XMJ"
+      },
+      "artists": [
+        {
+          "name": "Tyler Shaw",
+          "url": "https://open.spotify.com/artist/3jERgGiTwNAPxNmDasAb31"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163159,
+      "name": "Christmas All Over Again",
+      "url": "https://open.spotify.com/track/6zYDdWwGjEI6w8pRvQnkdn"
+    },
+    {
+      "album": {
         "name": "Christmas Alone",
         "url": "https://open.spotify.com/album/5sJ41KUJEVPl3wJQucvPjb"
       },
@@ -5342,7 +5360,7 @@
       ],
       "date_added": "2022-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-21",
       "duration_ms": 147673,
       "name": "This Christmas",
       "url": "https://open.spotify.com/track/69ICDnEzZqopqoQ7LG2e2u"

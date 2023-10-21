@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Con todo el sentimiento andino! Foto: William Luna",
-  "num_followers": 36825,
+  "num_followers": 36862,
   "original_name": "Huaynos Cl\u00e1sicos",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0NmFlMTM3YzRkNzRhN2M1NWE5N2JjYzVlNWMwNjgzYTBlMWQ3NmZl",
+  "snapshot_id": "MCwwZjVlNTQ1MzZkNjVmNGY5ZDlkZDBlNmY4ZTQxODg1NTNhZDA2N2E0",
   "tracks": [
     {
       "added_at": "2022-02-04 14:45:56",
@@ -591,22 +591,6 @@
     {
       "added_at": "2022-02-04 14:45:56",
       "album": {
-        "name": "Huaylash Pio Pio",
-        "url": "https://open.spotify.com/album/2baljY40vl4lfiDbQ3e7OO"
-      },
-      "artists": [
-        {
-          "name": "Eusebio \"Chato\" Grados",
-          "url": "https://open.spotify.com/artist/6zgB4oxPALPaoxlCPkvj32"
-        }
-      ],
-      "duration_ms": 219653,
-      "name": "El Pio, Pio",
-      "url": "https://open.spotify.com/track/2r9yZQgAutifXWUfefnUnz"
-    },
-    {
-      "added_at": "2022-02-04 14:45:56",
-      "album": {
         "name": "Cantares Huaracinos",
         "url": "https://open.spotify.com/album/1XdlfgaPbCWRq3XGmEP9OK"
       },
@@ -619,6 +603,22 @@
       "duration_ms": 186360,
       "name": "Al Comp\u00e1s de Mi Guitarra",
       "url": "https://open.spotify.com/track/2K7LHE6Y0JU1qoL7cyesxY"
+    },
+    {
+      "added_at": "2022-02-04 14:45:56",
+      "album": {
+        "name": "Huaylash Pio Pio",
+        "url": "https://open.spotify.com/album/2baljY40vl4lfiDbQ3e7OO"
+      },
+      "artists": [
+        {
+          "name": "Eusebio \"Chato\" Grados",
+          "url": "https://open.spotify.com/artist/6zgB4oxPALPaoxlCPkvj32"
+        }
+      ],
+      "duration_ms": 219653,
+      "name": "El Pio, Pio",
+      "url": "https://open.spotify.com/track/2r9yZQgAutifXWUfefnUnz"
     },
     {
       "added_at": "2022-02-04 14:45:56",
@@ -707,18 +707,18 @@
     {
       "added_at": "2022-02-04 14:45:56",
       "album": {
-        "name": "Grandes Exitos",
-        "url": "https://open.spotify.com/album/1x7195GR18267D7Ix6xpzE"
+        "name": "La princesa del Folklore",
+        "url": "https://open.spotify.com/album/45hG14f1YCGyg1ezB97HlR"
       },
       "artists": [
         {
-          "name": "Los Campesinos",
-          "url": "https://open.spotify.com/artist/4Y6bDQ3ZuNk1IcX4FmdrBZ"
+          "name": "Alicia Delgado",
+          "url": "https://open.spotify.com/artist/0rNV2u9J1LiJ2BRtN3oOtW"
         }
       ],
-      "duration_ms": 171866,
-      "name": "Profesorita",
-      "url": "https://open.spotify.com/track/19fr1BVHzzdxkJtHee5PU7"
+      "duration_ms": 270000,
+      "name": "D\u00f3nde Est\u00e1 tu Dinero",
+      "url": "https://open.spotify.com/track/6i1F5QTSueIXqY0lkmkjEo"
     },
     {
       "added_at": "2022-02-04 14:45:56",
@@ -739,18 +739,18 @@
     {
       "added_at": "2022-02-04 14:45:56",
       "album": {
-        "name": "La princesa del Folklore",
-        "url": "https://open.spotify.com/album/45hG14f1YCGyg1ezB97HlR"
+        "name": "Grandes Exitos",
+        "url": "https://open.spotify.com/album/1x7195GR18267D7Ix6xpzE"
       },
       "artists": [
         {
-          "name": "Alicia Delgado",
-          "url": "https://open.spotify.com/artist/0rNV2u9J1LiJ2BRtN3oOtW"
+          "name": "Los Campesinos",
+          "url": "https://open.spotify.com/artist/4Y6bDQ3ZuNk1IcX4FmdrBZ"
         }
       ],
-      "duration_ms": 270000,
-      "name": "D\u00f3nde Est\u00e1 tu Dinero",
-      "url": "https://open.spotify.com/track/6i1F5QTSueIXqY0lkmkjEo"
+      "duration_ms": 171866,
+      "name": "Profesorita",
+      "url": "https://open.spotify.com/track/19fr1BVHzzdxkJtHee5PU7"
     },
     {
       "added_at": "2022-02-04 14:45:56",
@@ -919,18 +919,18 @@
     {
       "added_at": "2022-02-04 14:45:56",
       "album": {
-        "name": "La Nueva Expresi\u00f3n del Folklore de Bolivia",
-        "url": "https://open.spotify.com/album/0X1nBJpPBaIT8mFh0XnBoU"
+        "name": "Cantares Huaracinos",
+        "url": "https://open.spotify.com/album/1XdlfgaPbCWRq3XGmEP9OK"
       },
       "artists": [
         {
-          "name": "Proyecci\u00f3n",
-          "url": "https://open.spotify.com/artist/119DPASXtwEkIiAoRSOUR8"
+          "name": "Jilguero Del Huascar\u00e1n",
+          "url": "https://open.spotify.com/artist/3ys2iBkiK7WY5yx248KIpx"
         }
       ],
-      "duration_ms": 240293,
-      "name": "Un Pasajero en T\u00fa Camino",
-      "url": "https://open.spotify.com/track/3LZccAbS0T0UdH661mUno3"
+      "duration_ms": 160200,
+      "name": "Carrito del Gobierno",
+      "url": "https://open.spotify.com/track/1Net8ueUaiGDbFvokcINq7"
     },
     {
       "added_at": "2022-02-04 14:45:56",
@@ -951,18 +951,18 @@
     {
       "added_at": "2022-02-04 14:45:56",
       "album": {
-        "name": "Cantares Huaracinos",
-        "url": "https://open.spotify.com/album/1XdlfgaPbCWRq3XGmEP9OK"
+        "name": "La Nueva Expresi\u00f3n del Folklore de Bolivia",
+        "url": "https://open.spotify.com/album/0X1nBJpPBaIT8mFh0XnBoU"
       },
       "artists": [
         {
-          "name": "Jilguero Del Huascar\u00e1n",
-          "url": "https://open.spotify.com/artist/3ys2iBkiK7WY5yx248KIpx"
+          "name": "Proyecci\u00f3n",
+          "url": "https://open.spotify.com/artist/119DPASXtwEkIiAoRSOUR8"
         }
       ],
-      "duration_ms": 160200,
-      "name": "Carrito del Gobierno",
-      "url": "https://open.spotify.com/track/1Net8ueUaiGDbFvokcINq7"
+      "duration_ms": 240293,
+      "name": "Un Pasajero en T\u00fa Camino",
+      "url": "https://open.spotify.com/track/3LZccAbS0T0UdH661mUno3"
     },
     {
       "added_at": "2022-02-04 14:45:56",

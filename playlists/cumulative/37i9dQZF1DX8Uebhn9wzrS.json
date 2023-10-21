@@ -23281,6 +23281,24 @@
     },
     {
       "album": {
+        "name": "Seasons",
+        "url": "https://open.spotify.com/album/1Gi40W4rRup1t8B0p5Y5Yf"
+      },
+      "artists": [
+        {
+          "name": "M.I Hakone",
+          "url": "https://open.spotify.com/artist/1Gi5R2l9oX8zs5iiy2vP7v"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124336,
+      "name": "Seasons",
+      "url": "https://open.spotify.com/track/6RUXqsK0MlNGXFWBfZs400"
+    },
+    {
+      "album": {
         "name": "Seattle",
         "url": "https://open.spotify.com/album/7z312yRo96Kz4FmncwfLjB"
       },
@@ -24738,7 +24756,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-21",
       "duration_ms": 187022,
       "name": "Softly Whispering",
       "url": "https://open.spotify.com/track/6CVpyt67DY1JwuR8prqPmP"

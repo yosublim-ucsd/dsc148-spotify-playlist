@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-01",
-  "description": "Damn son, where'd ya find this? Cover: TOBi",
+  "description": "Damn son, where'd ya find this? Cover: Jay Rock",
   "name": "Raw & Uncut",
   "tracks": [
     {
@@ -656,7 +656,7 @@
       ],
       "date_added": "2023-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-21",
       "duration_ms": 269439,
       "name": "Andre 3000 (feat. Bangladesh)",
       "url": "https://open.spotify.com/track/1Bm1hJhiao6NAT06jCdEsU"
@@ -1159,6 +1159,28 @@
     },
     {
       "album": {
+        "name": "Blowfly (with Ab-Soul)",
+        "url": "https://open.spotify.com/album/6LTCNeWyfbzaIP3O0tcEXD"
+      },
+      "artists": [
+        {
+          "name": "Jay Rock",
+          "url": "https://open.spotify.com/artist/28ExwzUQsvgJooOI0X1mr3"
+        },
+        {
+          "name": "Ab-Soul",
+          "url": "https://open.spotify.com/artist/0g9vAlRPK9Gt3FKCekk4TW"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166238,
+      "name": "Blowfly (with Ab-Soul)",
+      "url": "https://open.spotify.com/track/2tRcF1bE5ESw9c8ljLXLsR"
+    },
+    {
+      "album": {
         "name": "Better Than Drugs",
         "url": "https://open.spotify.com/album/1Z7KnOiOsVLzW2qkgYatxY"
       },
@@ -1390,7 +1412,7 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-21",
       "duration_ms": 180049,
       "name": "Brick By Brick (feat. Blu)",
       "url": "https://open.spotify.com/track/4qAC5kMzIxpY3k40KrfvCd"
@@ -3180,6 +3202,32 @@
       "duration_ms": 266153,
       "name": "First Draft",
       "url": "https://open.spotify.com/track/1gV4nzrOIwI93qOUm9SLMq"
+    },
+    {
+      "album": {
+        "name": "Flame",
+        "url": "https://open.spotify.com/album/3vbTjAEZTBJbX0epzTlEnN"
+      },
+      "artists": [
+        {
+          "name": "Conway the Machine",
+          "url": "https://open.spotify.com/artist/67gqUXxHedeUGDTxwBzdjS"
+        },
+        {
+          "name": "Conductor Williams",
+          "url": "https://open.spotify.com/artist/1VuBGdfqq86BQyiDactQAC"
+        },
+        {
+          "name": "7xvethegenius",
+          "url": "https://open.spotify.com/artist/3qIgGknqPwbSOTd6aLmah5"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 117713,
+      "name": "Flame",
+      "url": "https://open.spotify.com/track/2G9mG0wuRhtrpPBS3XSdAh"
     },
     {
       "album": {
@@ -8148,7 +8196,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-21",
       "duration_ms": 299703,
       "name": "Roc-A-Fella Y'all",
       "url": "https://open.spotify.com/track/5Ax1mDY1KtJUrTAOde9CRp"
@@ -8820,7 +8868,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-21",
       "duration_ms": 233642,
       "name": "Small Victories (feat. Dom Chronicles)",
       "url": "https://open.spotify.com/track/78ETzZgKUZBqeFjDambGmp"
@@ -9112,6 +9160,28 @@
       "duration_ms": 200753,
       "name": "Special Bullets",
       "url": "https://open.spotify.com/track/5vL9fTDxOGPB0RIyu2QrcZ"
+    },
+    {
+      "album": {
+        "name": "Spirit of Richard Wright (feat. Skyzoo)",
+        "url": "https://open.spotify.com/album/5luW3wKlUjaDwcb8q9SVUZ"
+      },
+      "artists": [
+        {
+          "name": "Elaquent",
+          "url": "https://open.spotify.com/artist/14rl122F3uMCloqdEVV9WL"
+        },
+        {
+          "name": "Skyzoo",
+          "url": "https://open.spotify.com/artist/0qHfqHyHZnxvv1lfkJraQc"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225882,
+      "name": "Spirit of Richard Wright (feat. Skyzoo)",
+      "url": "https://open.spotify.com/track/24JtWhwXWvdbjzzyZMekMn"
     },
     {
       "album": {
@@ -9552,6 +9622,24 @@
       "duration_ms": 144868,
       "name": "Taco",
       "url": "https://open.spotify.com/track/1wg19chzByanxCC8mKc8SI"
+    },
+    {
+      "album": {
+        "name": "Tantor",
+        "url": "https://open.spotify.com/album/6YYhvhhWZMdW1OPI7ZTa4M"
+      },
+      "artists": [
+        {
+          "name": "Danny Brown",
+          "url": "https://open.spotify.com/artist/7aA592KWirLsnfb5ulGWvU"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148658,
+      "name": "Tantor",
+      "url": "https://open.spotify.com/track/6MmnCLbZ5sEshGK7bJDQB6"
     },
     {
       "album": {

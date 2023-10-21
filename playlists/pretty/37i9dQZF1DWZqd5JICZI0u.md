@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZqd5JICZI0u.md) - [plain]
 
 > Breathe\. Sense\. Feel\. Transcend.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,769,311 likes - 232 songs - 11 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,770,398 likes - 232 songs - 11 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZqd5JICZI0u.md) - [plain]
 | 18 | [After Momentum](https://open.spotify.com/track/5tMn4xcTABTh3jLR3l29Ok) | [Alleviation](https://open.spotify.com/artist/35tzlkReXUs4XX5hXtaPpw), [Anarekli](https://open.spotify.com/artist/0owGYDx2xWGY0t6Nelyf4N), [Buneba](https://open.spotify.com/artist/4kckQx25UOWOjUMposE6ek) | [After Momentum](https://open.spotify.com/album/64V0wTmkNLiFl318Lv8E96) | 2:09 |
 | 19 | [Quiet Conscience](https://open.spotify.com/track/1NuVo3UQnj0O6ocHH3UjDT) | [Sleepy Sine](https://open.spotify.com/artist/0JIVfIfdmw45EoZuIWSZqa) | [Quiet Conscience](https://open.spotify.com/album/13sGYYGwXaUr4MWRP4rTeE) | 2:48 |
 | 20 | [Planet Calm](https://open.spotify.com/track/1DiSzonwA6obAjQSbz1vAx) | [Rebootist](https://open.spotify.com/artist/6kwfEowXeDA4ixlHvGmZpb) | [Talking Souls](https://open.spotify.com/album/5P7CUCHWkRwhFQT2iJ4e2B) | 3:10 |
-| 21 | [Tender Sunset](https://open.spotify.com/track/59IYKHiJ9BYEVmZYBeHuCO) | [Soothing Buzz](https://open.spotify.com/artist/7c6K2xsxh9HtmnzpNb4NIx) | [Tender Sunset](https://open.spotify.com/album/1UfxI8AwxoOqplTZprJDyI) | 2:09 |
+| 21 | [Tender Sunset](https://open.spotify.com/track/6Ao0ELZFd7KwZFFAxm2lYP) | [Soothing Buzz](https://open.spotify.com/artist/7c6K2xsxh9HtmnzpNb4NIx) | [Tender Sunset](https://open.spotify.com/album/6M7dR2as35hKUOyqP4gQXu) | 2:09 |
 | 22 | [Sovande](https://open.spotify.com/track/1dJJWFg94Ogmq3aiILfwv8) | [Morgondimma](https://open.spotify.com/artist/0mQskyOm143f9LT371ux2U) | [Sovande](https://open.spotify.com/album/1mnQAVjKz6Tjh001npCgKw) | 2:27 |
 | 23 | [Other Existence](https://open.spotify.com/track/5vrx4NkFNaawdXnCbsOU00) | [Juno Reed](https://open.spotify.com/artist/5Ouz17H301vQh6K1snZRln) | [Other Existence](https://open.spotify.com/album/1SuY40xqu9iaN3HQX5GwIv) | 2:21 |
 | 24 | [Huma](https://open.spotify.com/track/4sUDVt3gP4omAmrt6UzI4g) | [Soothing Dreamscapes](https://open.spotify.com/artist/2E7ynirvqKf8ZF7ATxFkTG) | [Freya](https://open.spotify.com/album/5HmDv1SzlqZzy4hE22Oycs) | 2:24 |
@@ -241,4 +241,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZqd5JICZI0u.md) - [plain]
 | 231 | [Stream Of Somnolence](https://open.spotify.com/track/2J3PRFCSCcuyHY4Dfi4hbh) | [Maurie](https://open.spotify.com/artist/0we3lcrMUMrc57nxVUC7g2) | [Stream Of Somnolence](https://open.spotify.com/album/1WyX4lP1K5UAGEerqUchTZ) | 3:05 |
 | 232 | [Večeras](https://open.spotify.com/track/7aYv33i1kUIlBcTMJPUzFm) | [Judi Khan](https://open.spotify.com/artist/7f2S72fSfAb1fpowkNB4WK) | [Večeras](https://open.spotify.com/album/1Ca4LT06gvbRZhNJRXljpY) | 3:05 |
 
-Snapshot ID: `MCwzY2M3MzMyMmI2ZDdmNWIwYTBhYzMzODllOGNhYmYyMjMyOWVmMjM0`
+Snapshot ID: `MCxjNjI0MTE3ZGI3ZjNjYmEwZWNlMzY1MDkxODNkYjBmZTAzODQ3Yzg4`

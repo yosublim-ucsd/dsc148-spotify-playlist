@@ -636,7 +636,7 @@
       ],
       "date_added": "2023-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-21",
       "duration_ms": 109235,
       "name": "9:25pm",
       "url": "https://open.spotify.com/track/6OCww5ebJEH0fvMHr8ZTfC"
@@ -654,7 +654,7 @@
       ],
       "date_added": "2023-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-21",
       "duration_ms": 114967,
       "name": "9am in Calabasas",
       "url": "https://open.spotify.com/track/6EdVTOk5e4RApmwHNBJew9"
@@ -2264,7 +2264,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-21",
       "duration_ms": 137691,
       "name": "buku",
       "url": "https://open.spotify.com/track/7eOAf1CKZenIfLyaV01MgX"
@@ -3685,6 +3685,24 @@
     },
     {
       "album": {
+        "name": "Diamonds Cry",
+        "url": "https://open.spotify.com/album/7EW3I0378mL1kzW8x9ddp2"
+      },
+      "artists": [
+        {
+          "name": "Tevomxntana",
+          "url": "https://open.spotify.com/artist/4R1Ph1IPb4wG0XWzzOcvQa"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121399,
+      "name": "Diamonds Cry",
+      "url": "https://open.spotify.com/track/3lq7nObJRC3GXoPDe8zZIW"
+    },
+    {
+      "album": {
         "name": "Die Young (feat. 347aidan)",
         "url": "https://open.spotify.com/album/33C2Ujqsq5tFa93LtafTHN"
       },
@@ -3718,7 +3736,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-21",
       "duration_ms": 149791,
       "name": "Different Goals",
       "url": "https://open.spotify.com/track/5ntzWMwkB9bwCKKOtE2aJ8"
@@ -4100,6 +4118,24 @@
       "duration_ms": 209269,
       "name": "Drowning (feat. Kodak Black)",
       "url": "https://open.spotify.com/track/1f5cbQtDrykjarZVrShaDI"
+    },
+    {
+      "album": {
+        "name": "DTD",
+        "url": "https://open.spotify.com/album/4f625P2oWOihcyjhPNYVlx"
+      },
+      "artists": [
+        {
+          "name": "Thouxanbanfauni",
+          "url": "https://open.spotify.com/artist/1O8X4zxUh4AdAPFttOTlLr"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168071,
+      "name": "DTD",
+      "url": "https://open.spotify.com/track/7rTsCvIxfjT5NsWYbiDdL1"
     },
     {
       "album": {
@@ -5406,10 +5442,28 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-21",
       "duration_ms": 117961,
       "name": "FUNCTIONING ALCOHOLIC",
       "url": "https://open.spotify.com/track/6vB0VGQhnd1Qvkmrt8kNmr"
+    },
+    {
+      "album": {
+        "name": "G-UNIT!",
+        "url": "https://open.spotify.com/album/1E1OBbtBkBGYJfNHS9ic4A"
+      },
+      "artists": [
+        {
+          "name": "JELEEL!",
+          "url": "https://open.spotify.com/artist/1FX1BFU0DbHRYgKP83pA0d"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 115973,
+      "name": "G-UNIT!",
+      "url": "https://open.spotify.com/track/3nWWQLTwwCAwfWQYazd6r7"
     },
     {
       "album": {
@@ -5586,7 +5640,7 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-21",
       "duration_ms": 82048,
       "name": "GFU!",
       "url": "https://open.spotify.com/track/4Xw4iQRKESkZXeaRBKMdey"
@@ -5666,6 +5720,42 @@
       "duration_ms": 153999,
       "name": "Ginseng Strip 2002",
       "url": "https://open.spotify.com/track/7v3rmoy5jcn4h5UqwQyCM3"
+    },
+    {
+      "album": {
+        "name": "Girls Cry 2!",
+        "url": "https://open.spotify.com/album/0z84eQJfxKXq5ldDJmO3D6"
+      },
+      "artists": [
+        {
+          "name": "Dina Ayada",
+          "url": "https://open.spotify.com/artist/5L88UL7xuw4CzYyzxqwgBz"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140000,
+      "name": "Girls Cry 2!",
+      "url": "https://open.spotify.com/track/5dQzV3qvv9XPgxSHTRyKhK"
+    },
+    {
+      "album": {
+        "name": "Busy Being Bad",
+        "url": "https://open.spotify.com/album/6hVTA7m6JrrK16haH4AAwI"
+      },
+      "artists": [
+        {
+          "name": "Kidd Kenn",
+          "url": "https://open.spotify.com/artist/5dkb0qOeUicNVLZKRGG92m"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216774,
+      "name": "Give Em A Show",
+      "url": "https://open.spotify.com/track/5l6eIWTmwDkadW03IDbYIe"
     },
     {
       "album": {
@@ -5847,6 +5937,24 @@
     },
     {
       "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/1fCKaE5RLL5N26iReqbVPp"
+      },
+      "artists": [
+        {
+          "name": "Odetari",
+          "url": "https://open.spotify.com/artist/7ITMCzIU9uII8gwRg8JAhc"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129445,
+      "name": "GREEN GOBLIN - Spotify Singles",
+      "url": "https://open.spotify.com/track/1OiiHxQFLMftJpw5C8Vrar"
+    },
+    {
+      "album": {
         "name": "GTTM",
         "url": "https://open.spotify.com/album/0135TgD7aR1sB0l1Ctx8Ic"
       },
@@ -5990,7 +6098,7 @@
       ],
       "date_added": "2023-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-21",
       "duration_ms": 135160,
       "name": "Hands up!",
       "url": "https://open.spotify.com/track/0Vqaw7CxyURWaRI9gNJthb"
@@ -7338,6 +7446,24 @@
       "duration_ms": 131422,
       "name": "ICEY",
       "url": "https://open.spotify.com/track/05k4xJfpBqkLoO9FBl9XrE"
+    },
+    {
+      "album": {
+        "name": "Now You See Me",
+        "url": "https://open.spotify.com/album/6WFa2y2gaNb7561mFsYG7T"
+      },
+      "artists": [
+        {
+          "name": "Lay Bankz",
+          "url": "https://open.spotify.com/artist/4OVbrPbhvK46A1uXTU1u5F"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 115725,
+      "name": "Ick",
+      "url": "https://open.spotify.com/track/7nn4MXs89QymmNzRreTywe"
     },
     {
       "album": {
@@ -9410,7 +9536,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-21",
       "duration_ms": 103783,
       "name": "MBGB2",
       "url": "https://open.spotify.com/track/5NJ4s5Daq5RUNmtNdjQrRv"
@@ -9722,6 +9848,24 @@
       "duration_ms": 150130,
       "name": "Money Galore",
       "url": "https://open.spotify.com/track/7hKf6BciAf9Qa1yWYtCxzQ"
+    },
+    {
+      "album": {
+        "name": "Monsoon",
+        "url": "https://open.spotify.com/album/62yXXgcKiIq7yXVgwFCgXY"
+      },
+      "artists": [
+        {
+          "name": "Fourfive",
+          "url": "https://open.spotify.com/artist/2Iwoy31N647ZAX06wPbcGg"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121600,
+      "name": "Monsoon",
+      "url": "https://open.spotify.com/track/4eQqu4v3amr4tOsiHFJKlw"
     },
     {
       "album": {
@@ -10344,7 +10488,7 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-21",
       "duration_ms": 172455,
       "name": "NODA",
       "url": "https://open.spotify.com/track/67yPNZ1tsrQGbHvCs5m8Od"
@@ -12165,6 +12309,24 @@
     },
     {
       "album": {
+        "name": "REFUND",
+        "url": "https://open.spotify.com/album/3CvC69rEdoAKLUKyUCx4Rr"
+      },
+      "artists": [
+        {
+          "name": "Anycia",
+          "url": "https://open.spotify.com/artist/4bOqkIGQCcuZgjfDxNuX1I"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 108936,
+      "name": "REFUND",
+      "url": "https://open.spotify.com/track/3DHybk9XQCME6I7vmfweHW"
+    },
+    {
+      "album": {
         "name": "RFGL",
         "url": "https://open.spotify.com/album/4UTAFypc6vOhVu74J0Srpn"
       },
@@ -13205,6 +13367,24 @@
     },
     {
       "album": {
+        "name": "Slow It Down",
+        "url": "https://open.spotify.com/album/5FoMKRPTtYoi072HZqy88d"
+      },
+      "artists": [
+        {
+          "name": "John Mackk",
+          "url": "https://open.spotify.com/artist/57Ay3Ye4cloEzuDSTYQ1kw"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134325,
+      "name": "Slow It Down",
+      "url": "https://open.spotify.com/track/0jRiVMnGBnuyXQsIVwbDSK"
+    },
+    {
+      "album": {
         "name": "Sneaky Link 2.0",
         "url": "https://open.spotify.com/album/3C4pz3mQxUAD5gFPTb1xWZ"
       },
@@ -13426,6 +13606,28 @@
       "duration_ms": 105826,
       "name": "Spinback",
       "url": "https://open.spotify.com/track/6bsRaxW3vYniwPytZQXZB6"
+    },
+    {
+      "album": {
+        "name": "Sir CEO",
+        "url": "https://open.spotify.com/album/4xYZJKqkjGcg7Od5GFalnx"
+      },
+      "artists": [
+        {
+          "name": "ASM Bopster",
+          "url": "https://open.spotify.com/artist/3bqMC7DfAQr0ZbC7R8htLz"
+        },
+        {
+          "name": "03 Greedo",
+          "url": "https://open.spotify.com/artist/0FtsMKmZEq8fBWqdSOWtqp"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184852,
+      "name": "Spirit (feat. 03 Greedo)",
+      "url": "https://open.spotify.com/track/1NrnZgvRMMSCvJzu9Qjr45"
     },
     {
       "album": {
@@ -14019,6 +14221,24 @@
     },
     {
       "album": {
+        "name": "TATTI",
+        "url": "https://open.spotify.com/album/6Z3TtvAdHtqtFCMtxhrpu8"
+      },
+      "artists": [
+        {
+          "name": "Bktherula",
+          "url": "https://open.spotify.com/artist/6OjtkJDlAZzlzAydEn78cK"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 101835,
+      "name": "TATTI",
+      "url": "https://open.spotify.com/track/67mSIbxWBzaFptWINhPN2U"
+    },
+    {
+      "album": {
         "name": "TBTF",
         "url": "https://open.spotify.com/album/7AcCd36B5Fu0N1qQZVBqVg"
       },
@@ -14298,7 +14518,7 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-21",
       "duration_ms": 137692,
       "name": "Think about me",
       "url": "https://open.spotify.com/track/1kt6YQqhZaQZCnF0cBkevw"
@@ -15334,7 +15554,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-21",
       "duration_ms": 113333,
       "name": "Water",
       "url": "https://open.spotify.com/track/2oWwkZox6LKv7vQccsOlMv"
@@ -15618,6 +15838,24 @@
       "duration_ms": 200933,
       "name": "where's the confetti?",
       "url": "https://open.spotify.com/track/3VL3aSOA8O3b5iOVBkD9iD"
+    },
+    {
+      "album": {
+        "name": "White Girl Wasted",
+        "url": "https://open.spotify.com/album/3sbTacnR7pI2YURDuDY2A7"
+      },
+      "artists": [
+        {
+          "name": "Tay Money",
+          "url": "https://open.spotify.com/artist/6R6EfP43F8ZuMcilsE4zs7"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158142,
+      "name": "White Girl Wasted",
+      "url": "https://open.spotify.com/track/52c1MKL7zhs29TnMZhpFeh"
     },
     {
       "album": {
@@ -15944,7 +16182,7 @@
       ],
       "date_added": "2023-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-21",
       "duration_ms": 126897,
       "name": "XTAYALIVE",
       "url": "https://open.spotify.com/track/1JjiTsqfpfMoukoIW9cM5O"
@@ -16144,7 +16382,7 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-21",
       "duration_ms": 134797,
       "name": "You Need Jesus",
       "url": "https://open.spotify.com/track/2JJjWLvlJhfYSfj4umyaTc"

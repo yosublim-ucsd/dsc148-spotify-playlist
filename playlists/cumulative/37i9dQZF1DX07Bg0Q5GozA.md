@@ -4,7 +4,7 @@
 
 > New music off the beaten track\. Cover: M83
 
-506 songs - 1 day 11 hr 0 min
+507 songs - 1 day 11 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,6 +29,7 @@
 | [All Night \(David Bay Remix\)](https://open.spotify.com/track/2tt9LTPUMpGEjDenQ2bwFI) | [Zimmer90](https://open.spotify.com/artist/7cViIoKAQrjHURdxb9ACCX), [David Bay](https://open.spotify.com/artist/5yHK7mClF5i8Jabk8IKISo) | [All Night \(David Bay Remix\)](https://open.spotify.com/album/3ANMqFaekbl9w4qFZj4Pdq) | 3:36 | 2023-04-13 | 2023-08-11 |
 | [All that I am](https://open.spotify.com/track/5V9Da2AvLFqb12cpZ40jPH) | [ÄTNA](https://open.spotify.com/artist/4ORnI4BzjKFbUply6fRvkX) | [All that I am](https://open.spotify.com/album/1rBwUaaFaq4cR8zkPija3W) | 4:37 | 2023-09-07 | 2023-09-22 |
 | [All The Things We Say](https://open.spotify.com/track/1KH8bxeGwgw1IxtzQUx6m5) | [Franc Moody](https://open.spotify.com/artist/10GT4yz8c6xjjnPGtGPI1l) | [All The Things We Say / Move Me](https://open.spotify.com/album/2ciY9tUIVAM1rEsr9wjXq4) | 3:51 | 2023-06-08 | 2023-09-22 |
+| [Allein in Italien](https://open.spotify.com/track/716ROf2GNn9IdO7EwQYaOT) | [Jürgen Paape](https://open.spotify.com/artist/51qSeH9HimuYMMQ7qbWGrk) | [Allein](https://open.spotify.com/album/3A8FdEiLZg5X2fFR0CxYWz) | 5:02 | 2023-10-20 |  |
 | [Alles](https://open.spotify.com/track/5jzKFezfgLc58sxOYHO7N7) | [Perel](https://open.spotify.com/artist/5cmqnZNaNDqgcsTOkQUmqB) | [Hermetica](https://open.spotify.com/album/7hpMuiN4TsnHWqqndo6IMK) | 6:07 | 2022-12-30 | 2023-01-02 |
 | [Alone with You \- Lazywax Remix](https://open.spotify.com/track/4jO4c0dhLI3OwCLeYvZSkn) | [Kraak & Smaak](https://open.spotify.com/artist/7c5qu1gNlg8jWDzzmlp89O), [Cleopold](https://open.spotify.com/artist/2BeARYDF52QQk5S2zgiVHe), [Lazywax](https://open.spotify.com/artist/0JmfcW7ntKscmNRiLbKEcw) | [Alone with You \(Lazywax Remix\)](https://open.spotify.com/album/0P9SMOg4aDG5X8Xc63lbTj) | 4:54 | 2023-05-18 | 2023-08-11 |
 | [Always](https://open.spotify.com/track/5uHgKIUzqrpRt10p1crJma) | [LEISURE](https://open.spotify.com/artist/7b04D0yLktCUpvxQBhmG7R) | [Always](https://open.spotify.com/album/1vBq4EJTv9SxqYJ01tCZDp) | 3:27 | 2023-06-01 | 2023-07-14 |
@@ -327,7 +328,7 @@
 | [Now Or Never](https://open.spotify.com/track/7xcmPlJlJZ4JsGapKjdkCu) | [TAM](https://open.spotify.com/artist/7x6QjaVDrueDmZ8k5qyhaz), [Moglii](https://open.spotify.com/artist/0lIIsJafIVVi3ruN2vFzpS) | [Now Or Never](https://open.spotify.com/album/4YKUIhAo0WvlE2qKkCvMUh) | 2:28 | 2023-04-13 | 2023-04-28 |
 | [Nowhere Game](https://open.spotify.com/track/3yT6Ho87fAxrvsbys6TGUx) | [Patrick Wolf](https://open.spotify.com/artist/6s92YZUPkTK1HL1WIGrPKE) | [Nowhere Game](https://open.spotify.com/album/3JZkS9acXygfFkIpMhi7o1) | 4:31 | 2023-01-26 | 2023-03-03 |
 | [O'Neal](https://open.spotify.com/track/4sWJCVOn705QUBCDt81bPB) | [Baltra](https://open.spotify.com/artist/2tEyBfwGBfQgLXeAJW0MgC) | [Rearview EP](https://open.spotify.com/album/1meEABy5Nr83dO5CZ3Qf5u) | 5:54 | 2022-12-30 | 2023-01-02 |
-| [Ocean](https://open.spotify.com/track/3sQuubMtc3VraP4lEbrJ8j) | [diaven](https://open.spotify.com/artist/73lvMyBnQcxjGo2JRaDtLG) | [Don't Come Too Close When I'm Not Alright](https://open.spotify.com/album/2ELmExDCOCaamOxZUTHNpx) | 2:58 | 2023-09-28 |  |
+| [Ocean](https://open.spotify.com/track/3sQuubMtc3VraP4lEbrJ8j) | [diaven](https://open.spotify.com/artist/73lvMyBnQcxjGo2JRaDtLG) | [Don't Come Too Close When I'm Not Alright](https://open.spotify.com/album/2ELmExDCOCaamOxZUTHNpx) | 2:58 | 2023-09-28 | 2023-10-21 |
 | [Oceans Niagara](https://open.spotify.com/track/2hFlY5xuAXrjY24v3a1mpZ) | [M83](https://open.spotify.com/artist/63MQldklfxkjYDoUE4Tppz) | [Oceans Niagara](https://open.spotify.com/album/05lNHHSVcb58JiL1d0kPIr) | 4:31 | 2023-01-12 | 2023-02-03 |
 | [Oh Laura](https://open.spotify.com/track/2Lq7rOLcBBTvBa86k1YTW0) | [SG Lewis](https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG) | [AudioLust & HigherLove](https://open.spotify.com/album/5861K3sQgAwu1sswhe5Gw8) | 3:36 | 2023-01-26 | 2023-03-18 |
 | [OKALRIGHTISEEYOU](https://open.spotify.com/track/3PkRzJh41SCMUc2JRJXFR0) | [Nic Hanson](https://open.spotify.com/artist/1NrFTpkB0RvbVLYl0p5Xvc) | [The Time](https://open.spotify.com/album/2wf89BqslFiWLJK0ZKHulS) | 2:34 | 2023-08-24 |  |

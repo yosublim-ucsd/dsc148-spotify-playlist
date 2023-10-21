@@ -1,12 +1,12 @@
 {
   "description": "Gospel music from across East Africa",
-  "num_followers": 3221,
+  "num_followers": 3234,
   "original_name": "Sunday Service",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1MWRkNGQ5NDUxNTQwZGZjNTQxZDhlNDVjY2YxZTcxZTQzZDIwNjcx",
+  "snapshot_id": "MCw4MjY5YTIwM2U0ZjlhNTM4YmNjZDM1MzY1Zjc2NTIwMmMzNmZhZjE2",
   "tracks": [
     {
       "added_at": "2023-06-16 00:01:00",
@@ -651,6 +651,22 @@
     {
       "added_at": "2023-10-20 00:01:00",
       "album": {
+        "name": "Umusirikare",
+        "url": "https://open.spotify.com/album/2gmosA09uXbSu5MvBBswLh"
+      },
+      "artists": [
+        {
+          "name": "Israel Mbonyi",
+          "url": "https://open.spotify.com/artist/6E6bGyrGJM33jnVivvn3kH"
+        }
+      ],
+      "duration_ms": 670000,
+      "name": "Nina Siri",
+      "url": "https://open.spotify.com/track/7wcBcpJnk3FkNvspFJN6SE"
+    },
+    {
+      "added_at": "2023-10-20 00:01:00",
+      "album": {
         "name": "Tulia",
         "url": "https://open.spotify.com/album/0EOHUyjyF25kXcMo0CxcmE"
       },
@@ -667,22 +683,6 @@
       "duration_ms": 216607,
       "name": "Mwanake (feat. Kaberere)",
       "url": "https://open.spotify.com/track/1nO0fZt8fzqEcwl7GTIFp2"
-    },
-    {
-      "added_at": "2023-10-20 00:01:00",
-      "album": {
-        "name": "Umusirikare",
-        "url": "https://open.spotify.com/album/2gmosA09uXbSu5MvBBswLh"
-      },
-      "artists": [
-        {
-          "name": "Israel Mbonyi",
-          "url": "https://open.spotify.com/artist/6E6bGyrGJM33jnVivvn3kH"
-        }
-      ],
-      "duration_ms": 670000,
-      "name": "Nina Siri",
-      "url": "https://open.spotify.com/track/7wcBcpJnk3FkNvspFJN6SE"
     },
     {
       "added_at": "2023-10-20 00:01:00",
@@ -815,6 +815,22 @@
     {
       "added_at": "2023-10-20 00:01:00",
       "album": {
+        "name": "NADEKA",
+        "url": "https://open.spotify.com/album/3yUcY9wjNDbc2Rw1kcvw5A"
+      },
+      "artists": [
+        {
+          "name": "Guardian Angel",
+          "url": "https://open.spotify.com/artist/4GH5MurAeyms73h1WLx1FZ"
+        }
+      ],
+      "duration_ms": 204042,
+      "name": "NADEKA",
+      "url": "https://open.spotify.com/track/4cveFG3uFYK6Pe7UMct8OE"
+    },
+    {
+      "added_at": "2023-10-20 00:01:00",
+      "album": {
         "name": "Tumeshinda",
         "url": "https://open.spotify.com/album/1RdqSSPAjSvXgGo7IhXNo9"
       },
@@ -831,22 +847,6 @@
       "duration_ms": 365417,
       "name": "Tumeshinda",
       "url": "https://open.spotify.com/track/4P7IRSGCVIynyzUWRoXHBK"
-    },
-    {
-      "added_at": "2023-10-20 00:01:00",
-      "album": {
-        "name": "NADEKA",
-        "url": "https://open.spotify.com/album/3yUcY9wjNDbc2Rw1kcvw5A"
-      },
-      "artists": [
-        {
-          "name": "Guardian Angel",
-          "url": "https://open.spotify.com/artist/4GH5MurAeyms73h1WLx1FZ"
-        }
-      ],
-      "duration_ms": 204042,
-      "name": "NADEKA",
-      "url": "https://open.spotify.com/track/4cveFG3uFYK6Pe7UMct8OE"
     },
     {
       "added_at": "2023-10-20 00:01:00",

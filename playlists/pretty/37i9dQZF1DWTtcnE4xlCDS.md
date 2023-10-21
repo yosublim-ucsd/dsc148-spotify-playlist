@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTtcnE4xlCDS.md) - [plain]
 
 > Enjoy music from DEN\-ON\-BU! 気鋭のコンポーザーが多数参加し、今話題のキャラクタープロジェクト<a href="https://denonbu.jp/">「電音部」</a>を特集!! キャラクターと紡ぐ電子音楽の世界に飛び込もう。
 
-[Spotify](https://open.spotify.com/user/spotify) - 40,941 likes - 129 songs - 7 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 40,991 likes - 129 songs - 7 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [West Side Phenomenon](https://open.spotify.com/track/0u9wKp3OtogOSOrg5qwgb0) | [電音部](https://open.spotify.com/artist/3wCJxpjgYDXbwLn4vmSBEx), [Shun Kusakawa](https://open.spotify.com/artist/32JLA3bhqwRfesRJwAXUwk), [天才凡人シマダ](https://open.spotify.com/artist/0fcXJpJvaeYImFBBby2xV2), [虎丸笑万\(CV:Lico\)](https://open.spotify.com/artist/0vsKwg9qupfYuYgYoX7igD), [飴村音凛\(CV:Noa\)](https://open.spotify.com/artist/0lFXZD9gGS5IzBWv1KZhf6), [東海林桃々子\(CV:Mone\)](https://open.spotify.com/artist/10ItJwGJ85nKGk1LfHtCMh) | [West Side Phenomenon](https://open.spotify.com/album/3f5Tz4HwKMqo2jg02y7XAB) | 2:43 |
+| 1 | [West Side Phenomenon](https://open.spotify.com/track/6tm3fw36TgfpnsRVBdw05G) | [電音部](https://open.spotify.com/artist/3wCJxpjgYDXbwLn4vmSBEx), [Shun Kusakawa](https://open.spotify.com/artist/32JLA3bhqwRfesRJwAXUwk), [TENSAI\-BONJIN SHIMADA](https://open.spotify.com/artist/1x1jZNAp6NfATMv8mIEufN), [Ema Toramaru\(CV:Livo\)](https://open.spotify.com/artist/7iXpUfIHuEmYA4KJRsa6U1), [Neri Amemura\(CV:Noa\)](https://open.spotify.com/artist/1TjKP4MnolLxJoNYVOdzNj), [Momoko Shoji\(CV:Mone\)](https://open.spotify.com/artist/15LoBou1qK3BPd0RaQk1Vr) | [West Side Phenomenon](https://open.spotify.com/album/4j7Ukj6KbSqIE7uKiMW3JT) | 2:43 |
 | 2 | [going…](https://open.spotify.com/track/0wk8XeHr4Za4KhTMX3W8XI) | [電音部](https://open.spotify.com/artist/3wCJxpjgYDXbwLn4vmSBEx), [Aiobahn](https://open.spotify.com/artist/3AMFQZ3Tt549kShRG2IBYT), [長原つぐみ](https://open.spotify.com/artist/37lLM43eUe0kG2W6b0BEto), [瀬戸海月 \(CV: シスター・クレア\)](https://open.spotify.com/artist/3fHDuekX2NfAhKC0f3Qde5) | [going…](https://open.spotify.com/album/1nB7jtEhhni9RsSsrOkVBK) | 4:05 |
 | 3 | [teardrop 2nd](https://open.spotify.com/track/4mTiz8TSXz7wdwxkK64WVk) | [電音部](https://open.spotify.com/artist/3wCJxpjgYDXbwLn4vmSBEx), [picco](https://open.spotify.com/artist/5Ag3wuPOl3y5hJgqhhqVVM), [桜乃美々兎 \(CV: 小坂井祐莉絵\)](https://open.spotify.com/artist/2she8Gi8cVSwSM8aTWmurk) | [teardrop 2nd](https://open.spotify.com/album/1Lijibbmer82LhVL0tpKGV) | 3:39 |
 | 4 | [Brickwall](https://open.spotify.com/track/0yxtiMujz3tRB64yuyaBUl) | [電音部](https://open.spotify.com/artist/3wCJxpjgYDXbwLn4vmSBEx), [hirihiri](https://open.spotify.com/artist/4sJMzQ4brQQcRxc5LGyai1), [yaca](https://open.spotify.com/artist/6bOI44vIWQPwNzm0ORkK8Q), [大神 纏 \(CV: 吉田凜音\)](https://open.spotify.com/artist/0KVD9C9bWghG5tKjDMZxrM) | [Brickwall](https://open.spotify.com/album/0xraxFTU7Mf4dGpEbhNp4z) | 3:00 |
@@ -138,4 +138,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTtcnE4xlCDS.md) - [plain]
 | 128 | [godz by Shin Wada](https://open.spotify.com/track/76jmYU2LOfwkAYXAwR0HE0) | [電音部](https://open.spotify.com/artist/3wCJxpjgYDXbwLn4vmSBEx), [Shin Wada](https://open.spotify.com/artist/23Wz4ZreztQA5JemdghQgM) | [DENONBU 2nd LIVE \-BREAK DOWN\- DANCE TRACK](https://open.spotify.com/album/0Xeug8gQCePtOOshuRT6yt) | 2:25 |
 | 129 | [\*g\*4U by Shinpei Nasuno](https://open.spotify.com/track/7FlvZnwCte3jOmkr4SAkPt) | [電音部](https://open.spotify.com/artist/3wCJxpjgYDXbwLn4vmSBEx), [Shinpei Nasuno](https://open.spotify.com/artist/5PR2yqnZM0wldX5hvDKtSO) | [DENONBU 2nd LIVE \-BREAK DOWN\- DANCE TRACK](https://open.spotify.com/album/0Xeug8gQCePtOOshuRT6yt) | 2:33 |
 
-Snapshot ID: `MCwwZTM4OWY4YWQxMTdlMGY2NWYzMGM2ZmRmNDk0ZjBiODBlOTY2MzVl`
+Snapshot ID: `MCw1YzRlZmQ4OGZmZmEwZjNhZjYwN2EzMWNmYTU4ZDhhYmQ3ZDFjYWI0`

@@ -324,10 +324,28 @@
       ],
       "date_added": "2023-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-21",
       "duration_ms": 225371,
       "name": "Everything is all lies",
       "url": "https://open.spotify.com/track/69IdF6DRfdfVzHcfTKSKGV"
+    },
+    {
+      "album": {
+        "name": "Everything is all lies",
+        "url": "https://open.spotify.com/album/7r9qMbnNkHSOOl3BgpE937"
+      },
+      "artists": [
+        {
+          "name": "DEVILOOF",
+          "url": "https://open.spotify.com/artist/4gSAE6I87LS39XMZpoQGPG"
+        }
+      ],
+      "date_added": "2023-10-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225371,
+      "name": "Everything is all lies",
+      "url": "https://open.spotify.com/track/7DW1eA2egBA4eoy0OzFKp2"
     },
     {
       "album": {

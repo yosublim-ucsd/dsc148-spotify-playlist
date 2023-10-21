@@ -4,7 +4,7 @@
 
 > A new take on a classic sound\. Cover: Idina Menzel
 
-224 songs - 14 hr 7 min
+225 songs - 14 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -129,7 +129,7 @@
 | [Let Your Body Move](https://open.spotify.com/track/0yQ5KcZnBCrUycJ81ewF5F) | [Jean Tonique](https://open.spotify.com/artist/6BVLQfvzlvlNZ43WjbFgbI) | [Let Your Body Move](https://open.spotify.com/album/3lqdJrVDVedT2dfnDWhxTG) | 4:02 | 2021-09-24 | 2022-11-19 |
 | [Let’s Keep On Dancing](https://open.spotify.com/track/2MTES4OZUVqTCmE99Rk7HR) | [Dylan Chambers](https://open.spotify.com/artist/2jP4GO0BDgY15BqUcUVhG9) | [Let’s Keep On Dancing](https://open.spotify.com/album/1vWSakTvo1YOgWLiShwpdr) | 3:19 | 2023-05-19 |  |
 | [Lifetime](https://open.spotify.com/track/4bmRJGOIegqYIBQrOga05Q) | [SG Lewis](https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG) | [Lifetime](https://open.spotify.com/album/6VBb4fvOomicHpUsSoi5fR) | 4:46 | 2022-11-04 |  |
-| [Light It Up](https://open.spotify.com/track/4NbaHNlUDO4ZUHEA3bPhrG) | [Shor Police](https://open.spotify.com/artist/58Wsx9FbcjSM8a6kzLf03W), [Clinton Cerejo](https://open.spotify.com/artist/2j9QVMZlqIj4Cb9UISBrXK), [Bianca Gomes](https://open.spotify.com/artist/1vM5cIvyQYTdXXXHl5IV6T) | [Light It Up](https://open.spotify.com/album/6hd0Nf6SxuPSFbXsY9flai) | 3:14 | 2023-03-03 |  |
+| [Light It Up](https://open.spotify.com/track/4NbaHNlUDO4ZUHEA3bPhrG) | [Shor Police](https://open.spotify.com/artist/58Wsx9FbcjSM8a6kzLf03W), [Clinton Cerejo](https://open.spotify.com/artist/2j9QVMZlqIj4Cb9UISBrXK), [Bianca Gomes](https://open.spotify.com/artist/1vM5cIvyQYTdXXXHl5IV6T) | [Light It Up](https://open.spotify.com/album/6hd0Nf6SxuPSFbXsY9flai) | 3:14 | 2023-03-03 | 2023-10-21 |
 | [Light up on the Weekend](https://open.spotify.com/track/1QMKUF63vVQQxrs2JRADnw) | [Me & My Toothbrush](https://open.spotify.com/artist/5X83BYTRaFGSoKLknnIpWz) | [Light up on the Weekend](https://open.spotify.com/album/0VII0KsD4bEWDciyFPmY9T) | 3:38 | 2023-03-17 | 2023-06-17 |
 | [Like You Do](https://open.spotify.com/track/63QhzuRjv4CwRiS5S2jbnd) | [Ken@Work](https://open.spotify.com/artist/2MEx3ga68IvvpzG5T0UlWj) | [Like You Do](https://open.spotify.com/album/0C6DTs2pX6d1DOV4OS6a9g) | 5:23 | 2022-11-18 | 2023-04-09 |
 | [Lionel Richie](https://open.spotify.com/track/12NoB9QOi50RHQl6C5xg3F) | [The Jack Moves](https://open.spotify.com/artist/6QR60hk0TiNHphDexqZ6Pp) | [Cruiserweight](https://open.spotify.com/album/1onqdmFxHDk2sMBhYATWX3) | 4:27 | 2022-10-14 |  |
@@ -197,6 +197,7 @@
 | [Take Me To Your Body](https://open.spotify.com/track/4Ct3Oh6BG30FJxerhB8vRT) | [Moon Boots](https://open.spotify.com/artist/3cIXmCH7iNcslTbwrwS7zy), [Nic Hanson](https://open.spotify.com/artist/1NrFTpkB0RvbVLYl0p5Xvc) | [Take Me To Your Body](https://open.spotify.com/album/5zRr1T7JkfEJp6Kf1LmmPG) | 3:28 | 2022-11-18 |  |
 | [Take Your Time \(Do It Right\)](https://open.spotify.com/track/76cVBDPi7Z9ZA74OBow3kY) | [Tensnake](https://open.spotify.com/artist/75nC6MXUalYZSOd7OfNkwq), [Teira](https://open.spotify.com/artist/3M6tK86Oc9mTbCH2kw3RWh) | [Take Your Time \(Do It Right\)](https://open.spotify.com/album/5flGddeRshLt7jHLHUfQ4Z) | 4:02 | 2023-04-14 |  |
 | [Telepathy](https://open.spotify.com/track/2xB5FQsZMhM9FHkvl8qh5C) | [Shaqdi](https://open.spotify.com/artist/4dpL6PzaCCpEekHtTHu3CN), [Blake Anthony](https://open.spotify.com/artist/79GLPoynz70rIoWB4ErgBb) | [Telepathy](https://open.spotify.com/album/2jgvP8GP6bzoQBfU5CM706) | 3:28 | 2022-02-25 | 2023-02-11 |
+| [Tension \(Chromeo Remix\)](https://open.spotify.com/track/1FvLE1PSYgWy9t98gHyoz8) | [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA), [Chromeo](https://open.spotify.com/artist/2mV8aJphiSHYJf43DxL7Gt) | [Tension \(The Remixes\)](https://open.spotify.com/album/6OCoaXc7qY2Y39b8FMTEb9) | 4:06 | 2023-10-20 |  |
 | [The Disco Song](https://open.spotify.com/track/1k5uC3EcnsIEbOMB680Afb) | [Macy Gray](https://open.spotify.com/artist/4ylR3zwA0zaapAu94fktwa), [The California Jet Club](https://open.spotify.com/artist/6OOn7tedu5plMS1AhGi022), [Jhonni Blaze](https://open.spotify.com/artist/1TPNC8TFcyC8s5TeSmQT23), [Maiya Sykes](https://open.spotify.com/artist/0f1RHEeWvaJDxBPY3UZ6Z4) | [The Disco Song](https://open.spotify.com/album/68Oj7EjlT1YShQUFOgBQMm) | 3:57 | 2021-09-17 | 2022-08-20 |
 | [The One That Got Away \(feat\. Obi Franky\)](https://open.spotify.com/track/2zL0FVFVuoOBKhnNgKqGws) | [The Shapeshifters](https://open.spotify.com/artist/60FV7KyxIH9FH1uq7u8inP), [Obi Franky](https://open.spotify.com/artist/7wcA5gBY4GRUDwcfyoj0p0) | [Let Loose](https://open.spotify.com/album/2RsEITh9OtP7am1v80Pbvg) | 4:37 | 2022-11-11 |  |
 | [The Way\(feat\. Norman Vladimir\)](https://open.spotify.com/track/4nmGmv2c6eryWwpCjkRS3N) | [JKriv](https://open.spotify.com/artist/1E7Z1EQlB22dXWNzsAxY0K), [Norman Vladimir](https://open.spotify.com/artist/0Z28GthKQS0BG8FvHMwYw1) | [The Way \(feat\. Norman Vladimir\)](https://open.spotify.com/album/3gVI5yKLE7ds74O2yZD03v) | 3:25 | 2022-01-28 | 2022-11-19 |

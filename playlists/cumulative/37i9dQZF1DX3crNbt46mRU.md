@@ -4,7 +4,7 @@
 
 > This week's top new releases\. Cover: Grand Corps Malade
 
-9,196 songs - 19 day 5 hr 56 min
+9,198 songs - 19 day 6 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -306,7 +306,7 @@
 | [Again](https://open.spotify.com/track/3Ys8E3yQA3itYjZtOgDZ8B) | [Kakkmaddafakka](https://open.spotify.com/artist/4HV7yKF3SRpY6I0gxu7hm9) | [Again](https://open.spotify.com/album/3d8cu7MZqUAMxEdsPHMzD0) | 3:32 | 2023-02-23 | 2023-03-03 |
 | [Again](https://open.spotify.com/track/4wcLynPZWGPThCEdDUFVMx) | [Stress](https://open.spotify.com/artist/2piHSX9fKmsCD8tbfX1cJg), [Marius Bear](https://open.spotify.com/artist/6thEUEg4pJq0H4aLVqNMwb) | [Again](https://open.spotify.com/album/1b2MHBqttHQ5kCDNIfu3PE) | 3:09 | 2022-11-03 | 2022-11-11 |
 | [Age of Anxiety II \(Rabbit Hole\)](https://open.spotify.com/track/2z0nkZLzKp1IbZzdQCaD6Z) | [Arcade Fire](https://open.spotify.com/artist/3kjuyTCjPG1WMFCiyc5IuB) | [WE](https://open.spotify.com/album/2sAePf08xIp4tnDlMUCV8B) | 6:41 | 2022-05-05 | 2022-05-13 |
-| [Aggression](https://open.spotify.com/track/6TducOLRoHNoWRWelWuoHG) | [AMBRA](https://open.spotify.com/artist/2Kbc5Ozhq7bADysLnZrfh5) | [blackout](https://open.spotify.com/album/7vjuuVDoYVPFtIR3bkIJsp) | 2:21 | 2023-10-19 |  |
+| [AGGRESSION](https://open.spotify.com/track/6TducOLRoHNoWRWelWuoHG) | [AMBRA](https://open.spotify.com/artist/2Kbc5Ozhq7bADysLnZrfh5) | [blackout](https://open.spotify.com/album/7vjuuVDoYVPFtIR3bkIJsp) | 2:21 | 2023-10-19 |  |
 | [Agora Hills](https://open.spotify.com/track/5PyDJG7SQRgWXefgexqIge) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Scarlet](https://open.spotify.com/album/1bBez9PNvkJPW08bU7NYta) | 4:25 | 2023-09-21 | 2023-09-23 |
 | [Agora Hills](https://open.spotify.com/track/7dJYggqjKo71KI9sLzqCs8) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Scarlet](https://open.spotify.com/album/6DmPNcfpkXBVRJsEIJY9tl) | 4:25 | 2023-09-22 | 2023-09-29 |
 | [AGUARDIENTE](https://open.spotify.com/track/6jhB0WW148mVOX7VuV2ga0) | [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [AGUARDIENTE](https://open.spotify.com/album/1ox6fzQPXwDtsTg8EQrplp) | 2:47 | 2023-03-09 | 2023-03-18 |
@@ -2825,6 +2825,7 @@
 | [Flashbacks](https://open.spotify.com/track/3CG1a516qQvGTxd9Mkyc90) | [Hava](https://open.spotify.com/artist/3Mn6d673ieRza7uw6zY2Zv) | [Segen und Fluch](https://open.spotify.com/album/33hoFyeXIrysMK2QgtwpSr) | 2:37 | 2022-03-10 | 2022-03-18 |
 | [Flashbacks](https://open.spotify.com/track/2LaoQ1RFj2sgaSlww14lz2) | [Josi](https://open.spotify.com/artist/5vQXzZjy86ijQhMjMb1ke4) | [Flashbacks](https://open.spotify.com/album/0xHQGfd1qEh1qPBAhcICVb) | 3:15 | 2022-03-10 | 2022-03-18 |
 | [Flashbacks](https://open.spotify.com/track/5tqMqakILBlR5hGkvTvoxR) | [WILDBWOYS](https://open.spotify.com/artist/44yXVrsMTsKGUBHZsYFZNq), [Azad](https://open.spotify.com/artist/7LQLsKs1Qulq0BxYdhRnBU), [DXVE](https://open.spotify.com/artist/5WaWH4bt6sGHjuQaFYQAWJ) | [Flashbacks](https://open.spotify.com/album/2WYqJGvjW0oWUJ79PbsjtB) | 2:05 | 2023-01-05 | 2023-01-13 |
+| [Flashy \(feat\. Kim Petras\)](https://open.spotify.com/track/7rofRRaFwjPUdcPUnrtFAu) | [City Girls](https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il), [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) | [RAW](https://open.spotify.com/album/25wBD0erftkJDAsnDp8mzu) | 2:45 | 2023-10-20 |  |
 | [Flatline \(feat\. Kenny Mason\)](https://open.spotify.com/track/17wZ58uIxULAVELzhEURni) | [TOBi](https://open.spotify.com/artist/0P54cVemq1DCHUfUMlWAoN), [Kenny Mason](https://open.spotify.com/artist/4mwdnO2jZrMmMVrjcHsZBv) | [Flatline \(feat\. Kenny Mason\)](https://open.spotify.com/album/7D2GAnlKHnfquzGKHSZSTx) | 4:00 | 2023-08-24 | 2023-09-01 |
 | [Flavio](https://open.spotify.com/track/4fsvWE5P0MC7KgwlSpCK1R) | [Gazzelle](https://open.spotify.com/artist/7KFOc3T4Xo8DVZt4PWw2qN) | [DENTRO](https://open.spotify.com/album/2z1yhHOmoGKbf6QG8HTjmV) | 3:02 | 2023-05-18 | 2023-05-26 |
 | [Flawlëss \(feat\. Lil Uzi Vert\)](https://open.spotify.com/track/1a019wP7IdYLexwbmfZPm3) | [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx), [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz) | [Lyfë](https://open.spotify.com/album/6Xo2PDEoQKzCndIbks2kvu) | 2:56 | 2022-09-09 | 2022-09-16 |
@@ -7074,6 +7075,7 @@
 | [Selma's Poem](https://open.spotify.com/track/1ZCNl1rU25UEOVu31CoB7O) | [Kid Riz](https://open.spotify.com/artist/3prhbrzge1TX4LaZRSfwme) | [Selma's Poem](https://open.spotify.com/album/3E96LH5gbN344RYRkY52Rk) | 2:49 | 2022-12-08 | 2022-12-16 |
 | [SENKRECHT LÄCHELN](https://open.spotify.com/track/6CsV0RfdbzgxDLxkBcNdp3) | [Schorl3](https://open.spotify.com/artist/7Mr6UlWMcbA6ZquKrmc2y5) | [PINGUINE SIND AUCH NUR PANDAVÖGEL](https://open.spotify.com/album/78PF1QjBGS1GLc1OG9zRPk) | 2:44 | 2022-08-18 | 2022-08-26 |
 | [Sensas](https://open.spotify.com/track/5vEAcnc5XpgeDRPeXmchUI) | [Naps](https://open.spotify.com/artist/6W5uA6CNMf3hd2j4a2XWCx) | [Sensas](https://open.spotify.com/album/2Gncxt53dY4n5DPZ78tRtd) | 2:35 | 2022-06-09 | 2022-06-17 |
+| [Sensational \(feat\. Davido & Lojay\)](https://open.spotify.com/track/5HM5trJxTouv3eUVcbW8sh) | [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z), [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh), [Lojay](https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL) | [Sensational \(feat\. Davido & Lojay\)](https://open.spotify.com/album/68nJVTjmRbl5se1eYTglBA) | 3:51 | 2023-10-20 |  |
 | [Sensations](https://open.spotify.com/track/1UfM6gnwpBhkzMw07kK6TP) | [Adèle Castillon](https://open.spotify.com/artist/4ueh4hmRvt62k4BgP8dIS0), [Videoclub](https://open.spotify.com/artist/3rp4f58JlRHkk8hpdLCer1) | [Plaisir Risque Dépendance](https://open.spotify.com/album/6Xadqm9viEhsKgp0zRp8Gc) | 2:42 | 2023-10-19 |  |
 | [Sensibile all'estate](https://open.spotify.com/track/62WIa7dpRu5iI5xNCICl2X) | [Jovanotti](https://open.spotify.com/artist/7tmMPdOmFvdRvbj2aWoiRi), [Sixpm](https://open.spotify.com/artist/1DqxHZcNsyQouEIgARx6Zx) | [Sensibile all'estate](https://open.spotify.com/album/25xW5IotEDwkY5N9A63pr2) | 3:09 | 2022-06-23 | 2022-07-01 |
 | [Sentimental](https://open.spotify.com/track/2X2h4pcHtGwCIsjzAngY7t) | [Slimane](https://open.spotify.com/artist/4OV6uYSnHxSYkjDYuBVBUz) | [Sentimental](https://open.spotify.com/album/3YNeiNBJjIAznSmjIp1Mjd) | 2:56 | 2022-08-18 | 2022-08-26 |

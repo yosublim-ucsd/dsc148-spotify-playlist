@@ -4,7 +4,7 @@
 
 > Relax to these chilled instrumental Christmas tunes.
 
-65 songs - 3 hr 37 min
+67 songs - 3 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,6 +19,7 @@
 | [Christmas, Why Can't I Find You? \- from 'How The Grinch Stole Christmas'](https://open.spotify.com/track/7Hexb3gBNmQ765WDGNpGbg) | [Elliott Jack Sansom](https://open.spotify.com/artist/22WxwAyT9U9wWsKA7ToO7K) | [Elliott Jack Sansom Plays Christmas Movie Themes](https://open.spotify.com/album/4aHKQXLjhsNzk9Ic6Ns5au) | 2:34 | 2022-11-04 |  |
 | [Coventry Carol](https://open.spotify.com/track/6MX93EaPA2m5YtMOxSlyvv) | [Balmorhea](https://open.spotify.com/artist/1U0FaHAc4fcwQcYEJFgkm9) | [Coventry Carol](https://open.spotify.com/album/3gNj1pBbG3MbswEnpdMDSl) | 3:29 | 2021-12-16 |  |
 | [Ding Dong! Merrily On High](https://open.spotify.com/track/44KfRf2QBhyChudtmInTXX) | [Traditional](https://open.spotify.com/artist/1U5zgr455OGyIkLNXvDdrf), [Nigel Hess](https://open.spotify.com/artist/6Yfm54ap3yAaipvsCodUbx), [Royal Philharmonic Orchestra](https://open.spotify.com/artist/0MvSBMGRQJY3mRwIbJsqF1) | [Silent Nights \- Die schönsten Melodien für eine entspannte Weihnachtszeit](https://open.spotify.com/album/1mjRsFJ7thLFUuZtoZQeSS) | 4:29 | 2022-10-07 |  |
+| [El Noi de la Mare \(Transc\. for Guitar by Miguel Llobet\)](https://open.spotify.com/track/7q7YGy7gwwB1a2KYy0mcGO) | [Traditional](https://open.spotify.com/artist/1U5zgr455OGyIkLNXvDdrf), [Plínio Fernandes](https://open.spotify.com/artist/0FK16dJDaoLTqNO9YhawG8) | [El Noi de la Mare \(Transc\. for Guitar by Miguel Llobet\)](https://open.spotify.com/album/5gs4oAgiXUZqG7sevHwakF) | 2:32 | 2023-10-20 |  |
 | [Fairytale of New York](https://open.spotify.com/track/2Lef0CHyds1JR5t8oPXXzw) | [Jem Finer](https://open.spotify.com/artist/5DJY4vHKN7NdsbU60GVIkW), [Shane MacGowan](https://open.spotify.com/artist/68lZHeroea1NAuEDsfBUjv), [Alexis Ffrench](https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX) | [Together At Last](https://open.spotify.com/album/0XWsqCngjp9vAcDzr8dp9T) | 3:12 | 2021-12-16 |  |
 | [Feliz Navidad](https://open.spotify.com/track/6fdLagw34w7uPH65UpGe7y) | [José Feliciano](https://open.spotify.com/artist/7K78lVZ8XzkjfRSI7570FF), [Alexis Ffrench](https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX) | [Home](https://open.spotify.com/album/0KEtzskgOyI7JeQGUkq5t1) | 4:23 | 2021-12-16 | 2023-10-14 |
 | [Frost](https://open.spotify.com/track/0dJ2ybe4xFAFc8jXwUVNjg) | [Gabríel Ólafs](https://open.spotify.com/artist/1vYrIm6O7VtBGszIWe75mB) | [Frost](https://open.spotify.com/album/4gn0GVFZ6ckwtHYuu6SKpH) | 2:05 | 2022-10-14 |  |
@@ -66,6 +67,7 @@
 | [The Christmas Song](https://open.spotify.com/track/2ZqwIozv140VtUIcKllHQJ) | [Elliott Jack Sansom](https://open.spotify.com/artist/22WxwAyT9U9wWsKA7ToO7K) | [The Christmas Song](https://open.spotify.com/album/1b1lifPc4Un5xuO9LJjcdd) | 3:15 | 2021-12-16 |  |
 | [The Christmas Song \(Chestnuts Roasting On An Open Fire\)](https://open.spotify.com/track/1oGv4rDnVsy1gjRe8xkzEz) | [Mel Tormé and Robert Wells](https://open.spotify.com/artist/2OsA2lCQCoBnZieSdGUVfN), [Elliott Jacqués](https://open.spotify.com/artist/22WxwAyT9U9wWsKA7ToO7K) | [The Christmas Song \(Chestnuts Roasting On An Open Fire\)](https://open.spotify.com/album/5Alx7HeL1vtAV2crddvB3h) | 3:15 | 2021-12-16 | 2022-07-29 |
 | [The First Noel](https://open.spotify.com/track/0f9O0RNskatv4lzUK6axjy) | [Chad Lawson](https://open.spotify.com/artist/72uoxerTvAd7x3cbfYmNc8) | [A Solo Piano Christmas](https://open.spotify.com/album/2bG3qQqkhWssPLeGtEwvzY) | 3:44 | 2021-12-16 |  |
+| [The Wexford Carol](https://open.spotify.com/track/2DUq09XWvzX2QRXKs3ZMUH) | [Carducci String Quartet](https://open.spotify.com/artist/4cKOYjPLQGb79166NxfeyI) | [The Wexford Carol](https://open.spotify.com/album/2avlZClfTbrRCAMttmcPuE) | 2:37 | 2023-10-20 |  |
 | [Walking in the Air \- Piano Solo](https://open.spotify.com/track/1s7kwpJPuBhHVO0WuEgFmE) | [Howard Blake](https://open.spotify.com/artist/3Hf08nPu2dPY3sdngyHQei), [Joe Alexander Shepherd](https://open.spotify.com/artist/0LN3ADKCdqFQv7uJ1kZjBa) | [Walking in the Air \(Piano Solo\)](https://open.spotify.com/album/2OL3V55VQa6cl2QNpOXF2K) | 3:39 | 2021-12-16 | 2022-07-29 |
 | [Walking in the Air \- Piano Solo](https://open.spotify.com/track/6hFwNd3XEQp56paHH8GD5g) | [Howard David Blake](https://open.spotify.com/artist/6N5z4tdsX1oGACw5lZGe72), [Joe Alexander Shepherd](https://open.spotify.com/artist/0LN3ADKCdqFQv7uJ1kZjBa) | [Walking in the Air \(Piano Solo\)](https://open.spotify.com/album/0bbA0VNAJ51xqLt4N13yks) | 3:39 | 2021-12-16 |  |
 | [We Three Kings](https://open.spotify.com/track/3wE6NC3et1CbZjcvWIQXUp) | [Robin Meloy Goldsby](https://open.spotify.com/artist/2ZS0eOeBhk5GgOetMqP7xb) | [December](https://open.spotify.com/album/4x04WzKXt5q1tqUf5Eais1) | 4:22 | 2021-12-16 |  |

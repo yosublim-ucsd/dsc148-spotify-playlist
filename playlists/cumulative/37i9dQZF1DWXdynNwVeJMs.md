@@ -2,9 +2,9 @@
 
 ### [Belgo\-Jazz](https://open.spotify.com/playlist/37i9dQZF1DWXdynNwVeJMs)
 
-> Listen to the finest Jazz made in Belgium\. Cover: KAU
+> Listen to the finest Jazz made in Belgium\. Cover: Azmari
 
-188 songs - 16 hr 10 min
+190 songs - 16 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,6 +12,7 @@
 | [A l'ouest](https://open.spotify.com/track/3O0rGtMkFOXlH4Tkc4NcOU) | [Lara Rosseel](https://open.spotify.com/artist/42u3vSYiwwVQVuGf5dwZ8G) | [A L'ouest](https://open.spotify.com/album/3o35QxHCAKcTNabPWcPCt4) | 4:03 | 2022-09-08 |  |
 | [Absolution of a French Fry](https://open.spotify.com/track/2zab7PHAybogB0HTOkUAxv) | [Steiger](https://open.spotify.com/artist/5AJUqsuVNsPpgGd44hgvNI) | [The New Lady Llama](https://open.spotify.com/album/2d3o91tzR0dqRkTcAcfOkm) | 5:31 | 2022-09-15 | 2023-04-14 |
 | [Absolution of a French Fry](https://open.spotify.com/track/5N8jkWa1Lmnsw1YJB58oAJ) | [Steiger](https://open.spotify.com/artist/5AJUqsuVNsPpgGd44hgvNI) | [Absolution Of A French Fry](https://open.spotify.com/album/1hzmwwYPpyNSXJ87K9PrQX) | 5:31 | 2022-09-08 | 2022-09-25 |
+| [Abyssal Wandering](https://open.spotify.com/track/4NMNkomvSRGBmUc2ifC7kN) | [Azmari](https://open.spotify.com/artist/2xKLLFEkYJvGtTihlsBLw1) | [Maelström](https://open.spotify.com/album/2tg20LGxMn7y2GW651dFDJ) | 6:42 | 2023-10-20 |  |
 | [Adagio \(For Bob Collymore\)](https://open.spotify.com/track/7kAnqpE4QtAWWhrDRQKN1w) | [Jef Neve](https://open.spotify.com/artist/5drkbPiwHU6Kzh1wzYwMAl) | [Mysterium](https://open.spotify.com/album/31ADJ69Qa2K7qOIRkB9tLp) | 4:31 | 2022-09-08 | 2023-03-03 |
 | [Alice](https://open.spotify.com/track/7IKA8BGPhbUlypRWFAHmXv) | [Stellar Legions](https://open.spotify.com/artist/0OVerCSCBhKBEXrCLPxxJO) | [Stellar Legions](https://open.spotify.com/album/4Q0An9lSHLeqIiZTDy8VeD) | 4:47 | 2022-10-20 |  |
 | [Alles hier hetzelfde](https://open.spotify.com/track/4s3tKQwPJhy5oJHvXnAQQN) | [aki](https://open.spotify.com/artist/12mAUPNqn3G6BAjL1IgqsB) | [Alles hier hetzelfde](https://open.spotify.com/album/7yOMFXSwvmEtauLoflkiN2) | 6:11 | 2022-09-08 |  |
@@ -140,6 +141,7 @@
 | [Reflet](https://open.spotify.com/track/7tNYzBbufvOtKyRcw0vPqd) | [Glass Museum](https://open.spotify.com/artist/0bq8ZdJxUOXswye4qT4zzU) | [Reflet](https://open.spotify.com/album/4Y2YPVgmP5iwUVBmhA8vD1) | 5:42 | 2022-09-15 | 2023-06-24 |
 | [Reminiscence](https://open.spotify.com/track/27ijI4NwO9znLJJ7a776Uj) | [Lucid Lucia](https://open.spotify.com/artist/2kq88GbQw1ieU5VvWVZFYI) | [Ever\-changing Light](https://open.spotify.com/album/5r5AlE4mnza28bHs9EWZiA) | 4:28 | 2022-10-07 |  |
 | [Reminiscence](https://open.spotify.com/track/5mbDO1wbecRbF5iQqEn8ty) | [Lucid Lucia](https://open.spotify.com/artist/2kq88GbQw1ieU5VvWVZFYI) | [Reminiscence](https://open.spotify.com/album/1lLkH3BBGY9BPoiIqQ8ZiU) | 4:31 | 2022-09-15 | 2022-10-09 |
+| [Reminiscence \- Marc Mac Remix](https://open.spotify.com/track/7FX78izqEw284MLn5a6aNr) | [Lucid Lucia](https://open.spotify.com/artist/2kq88GbQw1ieU5VvWVZFYI), [Marc Mac](https://open.spotify.com/artist/2iEvHAPa3A9WCngwRFhOu3) | [Reminiscence \(Marc Mac Remix\)](https://open.spotify.com/album/0zPPIk1UeEAXc40fbhTjkd) | 5:15 | 2023-10-20 |  |
 | [Rhymes On Our Mind](https://open.spotify.com/track/4Ry0Lk8vLR3avAZpYbw6tp) | [Condor Gruppe](https://open.spotify.com/artist/0qaYncC2MFURFgMB8MQvqm) | [Gulliver](https://open.spotify.com/album/6gMzMxSQ5zwlOtlfuEFo5h) | 5:59 | 2022-09-15 |  |
 | [Rhymes On Our Mind](https://open.spotify.com/track/6EJUuDETlcuLn76NNLc3Ey) | [Condor Gruppe](https://open.spotify.com/artist/0qaYncC2MFURFgMB8MQvqm) | [Rhymes On Our Mind](https://open.spotify.com/album/0rpq83kd4ptF8dTyBHu39b) | 5:59 | 2022-09-08 | 2022-09-25 |
 | [Rostfrei](https://open.spotify.com/track/6hmuL1lUUd10z0SxMANUO1) | [schroothoop](https://open.spotify.com/artist/2gbO1WIhdYAqbwwh6LaASF) | [Klein Gevaarlijk Afval](https://open.spotify.com/album/3Mbm4tvDYbzC9FzaQ340LZ) | 2:31 | 2022-09-08 | 2023-10-07 |

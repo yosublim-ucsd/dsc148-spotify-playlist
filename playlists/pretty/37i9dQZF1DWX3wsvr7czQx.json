@@ -1,13 +1,45 @@
 {
   "description": "Icons only. Cover: Duran Duran",
-  "num_followers": 11417,
+  "num_followers": 11435,
   "original_name": "Classic Artists New Music",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5OWZiOWM3MTJjODc5ZThkNDZlNjVhOTg1YzZkMjQzN2Y0OWI5N2Q5",
+  "snapshot_id": "MCw0MTBiMmQ2N2MwODY5MWE3YWM4YWY3MDVmZjgyMzNiMDJiZDA4NmZk",
   "tracks": [
+    {
+      "added_at": "2023-10-20 04:01:00",
+      "album": {
+        "name": "Brand New Sun",
+        "url": "https://open.spotify.com/album/7l0dx91ryn70a3nDws8yym"
+      },
+      "artists": [
+        {
+          "name": "Take That",
+          "url": "https://open.spotify.com/artist/1XgFuvRd7r5g0h844A5ZUQ"
+        }
+      ],
+      "duration_ms": 268088,
+      "name": "Brand New Sun",
+      "url": "https://open.spotify.com/track/2o6aK5vgtn1t99QW7f41a0"
+    },
+    {
+      "added_at": "2023-10-20 04:01:00",
+      "album": {
+        "name": "Hackney Diamonds",
+        "url": "https://open.spotify.com/album/1AxMcdQRLguJqSZMxvRNdO"
+      },
+      "artists": [
+        {
+          "name": "The Rolling Stones",
+          "url": "https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe"
+        }
+      ],
+      "duration_ms": 243687,
+      "name": "Mess It Up",
+      "url": "https://open.spotify.com/track/0Ag6LNrSfJVKRhGzD7ArDq"
+    },
     {
       "added_at": "2023-10-13 04:01:00",
       "album": {
@@ -723,38 +755,6 @@
       "duration_ms": 221426,
       "name": "Superwoman",
       "url": "https://open.spotify.com/track/6moeh7teMhi1ykOZNFDzP7"
-    },
-    {
-      "added_at": "2021-10-22 04:02:00",
-      "album": {
-        "name": "One World",
-        "url": "https://open.spotify.com/album/54Z9zCRlk506q4mS2MXwIL"
-      },
-      "artists": [
-        {
-          "name": "Billy Ocean",
-          "url": "https://open.spotify.com/artist/5IDs1CK15HegSAhGEbSYXo"
-        }
-      ],
-      "duration_ms": 286911,
-      "name": "We Gotta Find Love",
-      "url": "https://open.spotify.com/track/0TyXBdGk2qGLrZLWcj8qJd"
-    },
-    {
-      "added_at": "2021-10-22 04:02:00",
-      "album": {
-        "name": "Hey Clockface",
-        "url": "https://open.spotify.com/album/5HwgDLgmrGk6rXd2UPWIsE"
-      },
-      "artists": [
-        {
-          "name": "Elvis Costello",
-          "url": "https://open.spotify.com/artist/2BGRfQgtzikz1pzAD0kaEn"
-        }
-      ],
-      "duration_ms": 250089,
-      "name": "Newspaper Pane",
-      "url": "https://open.spotify.com/track/6IseHnFfBqw6k0ACVshrzP"
     },
     {
       "added_at": "2021-10-22 04:02:00",

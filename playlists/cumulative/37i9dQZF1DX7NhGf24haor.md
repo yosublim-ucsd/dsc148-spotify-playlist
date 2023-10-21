@@ -4,7 +4,7 @@
 
 > Updated weekly \| Hardstyle \| Cover: Coone
 
-618 songs - 1 day 9 hr 55 min
+618 songs - 1 day 9 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -229,7 +229,7 @@
 | [Human Error](https://open.spotify.com/track/2GELXkWZuBBSfpztDWC1qP) | [Zombic](https://open.spotify.com/artist/6t0ofV5WMAz84Iqu0YkmTV), [Danimal](https://open.spotify.com/artist/6SQ1RYZmxJGxii56ou9RQj), [Influencerz](https://open.spotify.com/artist/163A7vg111FgP21NQSD6dN) | [Human Error](https://open.spotify.com/album/7m28Qx33SLWgtn8xSQjtC5) | 2:22 | 2022-12-08 | 2023-01-27 |
 | [Hurricane \- More Kords & Regato Remix](https://open.spotify.com/track/6HrtyNzBUkAcs4EsBYLG15) | [Lazard](https://open.spotify.com/artist/52UNk4kJqcQ89cF4Mq6wRe), [Marc Kiss](https://open.spotify.com/artist/4o5VpOIpQtpayG0gbDaNzO), [More Kords](https://open.spotify.com/artist/732oUYDDflptHEHS7zy05D), [Blaikz](https://open.spotify.com/artist/0uqlT7M0lAL931lCyQLkde), [Regato](https://open.spotify.com/artist/66o7N7IajDEkUbZpHHVxAI) | [Hurricane \(More Kords & Regato Remix\)](https://open.spotify.com/album/3kJkZM5DgViRc3SMHFa8EB) | 2:45 | 2022-12-08 | 2023-02-10 |
 | [Hurt Myself](https://open.spotify.com/track/5cuoXXuCjuDrG6rBYwJPxb) | [Wasted Penguinz](https://open.spotify.com/artist/1Ok5WQlGEnuFOiUlpCKcVT), [D\-Charged](https://open.spotify.com/artist/6bPXSfsHFvyltUwfqUrrLy) | [Hurt Myself](https://open.spotify.com/album/0jbxJqUcOe8arLdlI9tuZo) | 3:21 | 2023-09-15 |  |
-| [Hyena](https://open.spotify.com/track/7BAjDuGkdlx4U0QkMApNZ1) | [Coone](https://open.spotify.com/artist/1Wt63OMKtv6v2ivHuQLm2C) | [Hyena](https://open.spotify.com/album/4b2WABe3g8eaUyO450fp5Z) | 3:18 | 2023-10-12 |  |
+| [Hyena](https://open.spotify.com/track/7BAjDuGkdlx4U0QkMApNZ1) | [Coone](https://open.spotify.com/artist/1Wt63OMKtv6v2ivHuQLm2C) | [Hyena](https://open.spotify.com/album/4b2WABe3g8eaUyO450fp5Z) | 3:32 | 2023-10-12 |  |
 | [I AM TECHNO](https://open.spotify.com/track/7du6lb0kc6ddcS9XtCnrIo) | [TNT](https://open.spotify.com/artist/1CqOLQmjzVWXQTiIN5Wucs), [Technoboy](https://open.spotify.com/artist/37jL2LnGjAkadOCszr8v7C), [Tuneboy](https://open.spotify.com/artist/3mZnhzeAyjpFhO3cIepzBr) | [I AM TECHNO](https://open.spotify.com/album/1a2FSIu7GSzAbvgptrf0An) | 3:33 | 2022-12-08 | 2023-01-27 |
 | [I Like Bass](https://open.spotify.com/track/7eNFtBAwul6cqskHAtlRbN) | [TNT](https://open.spotify.com/artist/1CqOLQmjzVWXQTiIN5Wucs), [Zatox](https://open.spotify.com/artist/27Z5l2Kfy1IaYZMg5INWqO), [Technoboy](https://open.spotify.com/artist/37jL2LnGjAkadOCszr8v7C), [Tuneboy](https://open.spotify.com/artist/3mZnhzeAyjpFhO3cIepzBr) | [I Like Bass](https://open.spotify.com/album/2TYqqDD5mwdd72JGvl4jOy) | 4:29 | 2023-01-12 | 2023-02-15 |
 | [I Like To Party](https://open.spotify.com/track/7piw0SrFyHjJwOivGxdrnb) | [AXMO](https://open.spotify.com/artist/5QWt56OIzFSPRpD7VeRkbc), [DJ Junior \(TW\)](https://open.spotify.com/artist/5guBrcv1BxjlJdKlW8MNyh) | [I Like To Party](https://open.spotify.com/album/5sXLI9fWW2vmRUzIjNaGHQ) | 2:39 | 2022-12-08 | 2023-01-13 |

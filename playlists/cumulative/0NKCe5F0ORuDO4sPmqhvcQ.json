@@ -289,6 +289,24 @@
     },
     {
       "album": {
+        "name": "All About You",
+        "url": "https://open.spotify.com/album/0UPEviguYBkCVLWVTwXx2y"
+      },
+      "artists": [
+        {
+          "name": "Britt Lari",
+          "url": "https://open.spotify.com/artist/7ErksWhMMsmGtgT1l1e159"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165180,
+      "name": "All About You",
+      "url": "https://open.spotify.com/track/0Lc22wJyPHTKF8mEoOOGzT"
+    },
+    {
+      "album": {
         "name": "all i need",
         "url": "https://open.spotify.com/album/766oNoOCHh5KNvykOsbWtd"
       },
@@ -1782,6 +1800,28 @@
       "duration_ms": 235636,
       "name": "Cold Comfort (feat. Andrew Paley) - OMAS Remix",
       "url": "https://open.spotify.com/track/54bvLApXwHqh869Uqt74TJ"
+    },
+    {
+      "album": {
+        "name": "cold showers",
+        "url": "https://open.spotify.com/album/1REUjAHkHYFLSuXP2rgrrb"
+      },
+      "artists": [
+        {
+          "name": "BARDZ",
+          "url": "https://open.spotify.com/artist/0grj6SCmh4vGKf6r7pbOTk"
+        },
+        {
+          "name": "Brooke Williams",
+          "url": "https://open.spotify.com/artist/47eA8knxvpD9CZsqHn4Mxz"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168653,
+      "name": "cold showers",
+      "url": "https://open.spotify.com/track/4N4M6MYPCpgJxKyv5fpgzg"
     },
     {
       "album": {
@@ -3513,6 +3553,24 @@
     },
     {
       "album": {
+        "name": "Fight Me",
+        "url": "https://open.spotify.com/album/2cCk1i1D2XQaclGYqaa5oY"
+      },
+      "artists": [
+        {
+          "name": "Teddy Killerz",
+          "url": "https://open.spotify.com/artist/4xaF2VIGwhWyEMbM6GuLdm"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231724,
+      "name": "Fight Me",
+      "url": "https://open.spotify.com/track/2VMjr4nR9QptTiGOabyeFt"
+    },
+    {
+      "album": {
         "name": "Fill Up My Soul",
         "url": "https://open.spotify.com/album/1umGjanxEtYyHRmC0QStND"
       },
@@ -3994,6 +4052,24 @@
       "duration_ms": 186400,
       "name": "Handyman",
       "url": "https://open.spotify.com/track/4wykWbZswhsDAhiCaSdN9F"
+    },
+    {
+      "album": {
+        "name": "Haunted",
+        "url": "https://open.spotify.com/album/25az9xpMDxpmAzCTCwX7hf"
+      },
+      "artists": [
+        {
+          "name": "4B",
+          "url": "https://open.spotify.com/artist/0LIl9fjMPEZp8UDiL8Yuo4"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155000,
+      "name": "Haunted",
+      "url": "https://open.spotify.com/track/6OhmXq1u2nB8Wrm5wuPrqs"
     },
     {
       "album": {

@@ -1,13 +1,29 @@
 {
-  "description": "From joyful jubillance to hushed harmonies \u2013 this is some of the best in A Cappella Christmas.",
-  "num_followers": 34695,
+  "description": "From joyful jubillance to hushed harmonies. Cover: Pentatonix ",
+  "num_followers": 34720,
   "original_name": "A Cappella Christmas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3YmYzNmEzNmNiNzA5Y2Y1MTBhMGE1MzNjN2RlNWNlYWY4ZTU4Mzhj",
+  "snapshot_id": "MCw2NWY5MDBkNmJhYjcyMWVjYTZkNWEyZjkzNmMwNDgwMzIxYWQzMjcz",
   "tracks": [
+    {
+      "added_at": "2023-10-20 04:01:00",
+      "album": {
+        "name": "The Greatest Christmas Hits",
+        "url": "https://open.spotify.com/album/4tRcSRjaE98LsBVOm6cSJT"
+      },
+      "artists": [
+        {
+          "name": "Pentatonix",
+          "url": "https://open.spotify.com/artist/26AHtbjWKiwYzsoGoUZq53"
+        }
+      ],
+      "duration_ms": 200133,
+      "name": "Pure Imagination / Christmas Time Is Here",
+      "url": "https://open.spotify.com/track/18QnV6B8oCorqVYkz0Nljp"
+    },
     {
       "added_at": "2022-12-12 14:51:10",
       "album": {
@@ -83,6 +99,22 @@
       "duration_ms": 159573,
       "name": "Christmas Night With You",
       "url": "https://open.spotify.com/track/2JS7lS8Ydlnd4p6NnXMdNQ"
+    },
+    {
+      "added_at": "2023-10-20 04:01:00",
+      "album": {
+        "name": "It Feels Like Christmas",
+        "url": "https://open.spotify.com/album/1e49L78osVK0BiJK1pngDS"
+      },
+      "artists": [
+        {
+          "name": "Voctave",
+          "url": "https://open.spotify.com/artist/6qCQcw3ZKdmAFv0v4u5ey2"
+        }
+      ],
+      "duration_ms": 124186,
+      "name": "We Need a Little Christmas",
+      "url": "https://open.spotify.com/track/75ho68NuOvqytkUAVxYuW5"
     },
     {
       "added_at": "2022-01-14 15:08:50",
@@ -227,22 +259,6 @@
       "duration_ms": 189742,
       "name": "Christmas Don't Be Late",
       "url": "https://open.spotify.com/track/5d2oZk4nUXRdd3yQ8AnXSr"
-    },
-    {
-      "added_at": "2022-01-14 15:08:50",
-      "album": {
-        "name": "That's Christmas To Me (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/082VlX7cBth0o8xqDGclNn"
-      },
-      "artists": [
-        {
-          "name": "Pentatonix",
-          "url": "https://open.spotify.com/artist/26AHtbjWKiwYzsoGoUZq53"
-        }
-      ],
-      "duration_ms": 206706,
-      "name": "Let It Go",
-      "url": "https://open.spotify.com/track/2G7K3Op9y3HhqrF2TdHP95"
     },
     {
       "added_at": "2022-01-14 15:08:50",
@@ -511,22 +527,6 @@
     {
       "added_at": "2022-01-14 15:08:50",
       "album": {
-        "name": "A Pentatonix Christmas Deluxe",
-        "url": "https://open.spotify.com/album/3sId8sOH47yqOWopzbEtJn"
-      },
-      "artists": [
-        {
-          "name": "Pentatonix",
-          "url": "https://open.spotify.com/artist/26AHtbjWKiwYzsoGoUZq53"
-        }
-      ],
-      "duration_ms": 182386,
-      "name": "Coventry Carol",
-      "url": "https://open.spotify.com/track/64G40fpdMQE95CSIJx9Qr1"
-    },
-    {
-      "added_at": "2022-01-14 15:08:50",
-      "album": {
         "name": "A Hollens Family Christmas",
         "url": "https://open.spotify.com/album/0OsTiVipKPPNi3b2EHwZ8L"
       },
@@ -615,38 +615,6 @@
     {
       "added_at": "2022-01-14 15:08:50",
       "album": {
-        "name": "A Pentatonix Christmas Deluxe",
-        "url": "https://open.spotify.com/album/3sId8sOH47yqOWopzbEtJn"
-      },
-      "artists": [
-        {
-          "name": "Pentatonix",
-          "url": "https://open.spotify.com/artist/26AHtbjWKiwYzsoGoUZq53"
-        }
-      ],
-      "duration_ms": 215933,
-      "name": "O Come, All Ye Faithful",
-      "url": "https://open.spotify.com/track/4kZqBZ1cihUH8SoBZ3PBrd"
-    },
-    {
-      "added_at": "2022-01-14 15:08:50",
-      "album": {
-        "name": "A Hollens Family Christmas",
-        "url": "https://open.spotify.com/album/0OsTiVipKPPNi3b2EHwZ8L"
-      },
-      "artists": [
-        {
-          "name": "Peter Hollens",
-          "url": "https://open.spotify.com/artist/7EIbKyiLnEJ1Y074UIUyZJ"
-        }
-      ],
-      "duration_ms": 162977,
-      "name": "Mary, Did You Know?",
-      "url": "https://open.spotify.com/track/45HOyUDpvVRNbC4iGj2tw5"
-    },
-    {
-      "added_at": "2022-01-14 15:08:50",
-      "album": {
         "name": "Evergreen",
         "url": "https://open.spotify.com/album/7HgVH7ChzqayHdf1eAi9c1"
       },
@@ -659,22 +627,6 @@
       "duration_ms": 156306,
       "name": "Home For The Holidays",
       "url": "https://open.spotify.com/track/3C5X3TE5feQ482zwMf1tcy"
-    },
-    {
-      "added_at": "2022-01-14 15:08:50",
-      "album": {
-        "name": "That's Christmas To Me (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/082VlX7cBth0o8xqDGclNn"
-      },
-      "artists": [
-        {
-          "name": "Pentatonix",
-          "url": "https://open.spotify.com/artist/26AHtbjWKiwYzsoGoUZq53"
-        }
-      ],
-      "duration_ms": 126893,
-      "name": "Dance of the Sugar Plum Fairy",
-      "url": "https://open.spotify.com/track/0u0TlASkQWH2bGIZRu0HLh"
     },
     {
       "added_at": "2022-01-14 15:08:50",
@@ -695,38 +647,6 @@
       "duration_ms": 179186,
       "name": "Feels like Christmas (feat. Jana Kramer)",
       "url": "https://open.spotify.com/track/5x1qZrVEvKhtW1Vh7Ztjyl"
-    },
-    {
-      "added_at": "2022-01-14 15:08:50",
-      "album": {
-        "name": "Under the Influence: Holiday Edition",
-        "url": "https://open.spotify.com/album/0fPXSeM8nko9aSxO6nM1zX"
-      },
-      "artists": [
-        {
-          "name": "Straight No Chaser",
-          "url": "https://open.spotify.com/artist/1yQ8S4xdGOGbUcpaPR6hCM"
-        }
-      ],
-      "duration_ms": 187840,
-      "name": "Nutcracker",
-      "url": "https://open.spotify.com/track/2QhveJeE3MHOYSDyrbqRBH"
-    },
-    {
-      "added_at": "2022-11-15 16:21:13",
-      "album": {
-        "name": "The Spirit Of The Season (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/5BCKBGFjhmVbHg29qQkzCT"
-      },
-      "artists": [
-        {
-          "name": "Voctave",
-          "url": "https://open.spotify.com/artist/6qCQcw3ZKdmAFv0v4u5ey2"
-        }
-      ],
-      "duration_ms": 170373,
-      "name": "Carol Of The Bells Of Notre Dame",
-      "url": "https://open.spotify.com/track/1KqASVrRuKk4sQ8c6Cbcr4"
     },
     {
       "added_at": "2022-01-14 15:08:50",
@@ -915,22 +835,6 @@
     {
       "added_at": "2022-01-14 15:08:50",
       "album": {
-        "name": "Christmas Cheers (Deluxe)",
-        "url": "https://open.spotify.com/album/2M5NEqQVs7kIit8QbtXrRs"
-      },
-      "artists": [
-        {
-          "name": "Straight No Chaser",
-          "url": "https://open.spotify.com/artist/1yQ8S4xdGOGbUcpaPR6hCM"
-        }
-      ],
-      "duration_ms": 178706,
-      "name": "The 12 Days of Christmas",
-      "url": "https://open.spotify.com/track/5f5wlkRHWhYxOdp1hOUsTb"
-    },
-    {
-      "added_at": "2022-01-14 15:08:50",
-      "album": {
         "name": "That's Christmas To Me (Deluxe Edition)",
         "url": "https://open.spotify.com/album/082VlX7cBth0o8xqDGclNn"
       },
@@ -947,42 +851,6 @@
       "duration_ms": 207853,
       "name": "Winter Wonderland / Don't Worry Be Happy (feat. Tori Kelly)",
       "url": "https://open.spotify.com/track/2kPpxNSgXRvu5yqkRLKJIu"
-    },
-    {
-      "added_at": "2022-01-14 15:08:50",
-      "album": {
-        "name": "Peppermint Winter",
-        "url": "https://open.spotify.com/album/38sMSmBxWWnErBR7ampOdG"
-      },
-      "artists": [
-        {
-          "name": "VoicePlay",
-          "url": "https://open.spotify.com/artist/4RuHLdmbr1G9BD5aN63Go3"
-        }
-      ],
-      "duration_ms": 142687,
-      "name": "Santa and I Know It",
-      "url": "https://open.spotify.com/track/4dZ3H2X79C2USvczNl2dVG"
-    },
-    {
-      "added_at": "2022-11-15 16:21:13",
-      "album": {
-        "name": "He Is Born",
-        "url": "https://open.spotify.com/album/0EN4NLHCDuXDbMQDIDZK0H"
-      },
-      "artists": [
-        {
-          "name": "BYU Vocal Point",
-          "url": "https://open.spotify.com/artist/5zhxxb24WP6q6rbLHAn2UQ"
-        },
-        {
-          "name": "Ryan Innes",
-          "url": "https://open.spotify.com/artist/0vBolemsRxQhb3TFeM4C79"
-        }
-      ],
-      "duration_ms": 289216,
-      "name": "He Is Born (feat. Ryan Innes)",
-      "url": "https://open.spotify.com/track/2IYXqa0vvStkHWSQyXsGQo"
     },
     {
       "added_at": "2022-01-14 15:08:50",

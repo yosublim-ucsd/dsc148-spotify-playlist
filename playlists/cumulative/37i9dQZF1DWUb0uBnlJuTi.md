@@ -4,7 +4,7 @@
 
 > Jazz\. But funky\. Cover: Takuya Kuroda
 
-358 songs - 1 day 3 hr 36 min
+359 songs - 1 day 3 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -86,6 +86,7 @@
 | [Dumb People](https://open.spotify.com/track/0bLLEb8lkYeyK7gqiilVy4) | [Jackson Mathod](https://open.spotify.com/artist/6RvLMgatQu3kdjDpYyQnTx), [David Mrakpor](https://open.spotify.com/artist/7JNCmuOVO13j5XNE8s1Bvr), [Harry Pope](https://open.spotify.com/artist/6HEABwt9mukkCM55kzNhV0) | [Dumb People](https://open.spotify.com/album/1iEOCeBsOTXhzHALELmghm) | 2:56 | 2021-03-05 | 2022-07-29 |
 | [Echo A.D.](https://open.spotify.com/track/00cDda3lfNh6lI9qoYwqnn) | [Black Market Brass](https://open.spotify.com/artist/5nNxPO2aR0S8363jLsmuwW) | [Echo A.D.](https://open.spotify.com/album/3nggWpLX9v8zCnpFcDsYMe) | 4:04 | 2023-08-11 |  |
 | [El Jonito](https://open.spotify.com/track/4LvpjpTB9SJEVNINopueyX) | [Laurent Coulondre](https://open.spotify.com/artist/1yv7gzHLWb53t8smEXXcUV), [Martin Wangermée](https://open.spotify.com/artist/6Cko0OY4MlDWb57nLFMV4q), [Alexis Bourguignon](https://open.spotify.com/artist/3KbkoymkBIQF812bJQYPPE), [Robinson Khoury](https://open.spotify.com/artist/1L0xfJpihhDB3N8GEbmV6J), [Stéphane Guillaume](https://open.spotify.com/artist/2JmUauyONacBoIcYvSggJr), [Lucas Saint\-Cricq](https://open.spotify.com/artist/7AB1iv55p57sSmfa9d7GsI), [Nicolas Folmer](https://open.spotify.com/artist/42oVkAbF0mIgvyFEIfeUUQ), [Adriano Dos Santos Tenorio](https://open.spotify.com/artist/4s4GAWdKDa4sB0wQpA70lS), [Jeremy Bruyere](https://open.spotify.com/artist/27B9cx6PSADN8csmFRU0Tj) | [El Jonito](https://open.spotify.com/album/6ssT3ZX7pn4Ud0V1JWeHuW) | 3:41 | 2022-06-03 |  |
+| [Empire](https://open.spotify.com/track/37IQoTfeVqNx5Q4KtUKgkD) | [Metropole Orkest](https://open.spotify.com/artist/7JYdpWAsiqzrmMB3qxkEbI) | [Empire](https://open.spotify.com/album/0JRjksr7Dl8jX1ecE4r3uK) | 4:47 | 2023-10-20 |  |
 | [Everything Is Changing](https://open.spotify.com/track/2plqXe2wauMgMHQLSDwWBD) | [Groove Collective](https://open.spotify.com/artist/4jtNe96TPlvnre0tgcL5pg) | [The Best of Groove Collective](https://open.spotify.com/album/6Z3d1nnm9V24kAb6t5ejuj) | 5:40 | 2020-10-09 | 2022-04-21 |
 | [Everything Is Changing](https://open.spotify.com/track/5CB7h8v5ASu05I9oN2AThZ) | [Groove Collective](https://open.spotify.com/artist/4jtNe96TPlvnre0tgcL5pg) | [Declassified](https://open.spotify.com/album/5Qi3Ifed8PIXJjlpGEcsMk) | 5:49 | 2020-10-09 |  |
 | [Expansions](https://open.spotify.com/track/1DoWUjcc5sqpRioFPioogU) | [Lonnie Liston Smith](https://open.spotify.com/artist/2hdpXvaQJHBCZIVUd6cLvK), [The Cosmic Echoes](https://open.spotify.com/artist/1FoHP9nats6BdxFSE3b1sb) | [Expansions](https://open.spotify.com/album/7p96a8I3q2MRN5Ely3WiVm) | 6:06 | 2020-10-09 |  |
@@ -287,7 +288,7 @@
 | [Take a Breath](https://open.spotify.com/track/0HHWb03tvmcBdgG19naupS) | [Lionmilk](https://open.spotify.com/artist/0ssDUMMQsAhDLqKwBqEnGZ), [Lionmilk Quartet](https://open.spotify.com/artist/6Iy1fMGJlsYpOhzXLKNe8I) | [Take a Breath](https://open.spotify.com/album/0OAvrB1xafqyl9Yf60LL5J) | 5:27 | 2021-06-25 | 2023-07-09 |
 | [Take a Breath \(Live\)](https://open.spotify.com/track/1qjy5HEADS29zdpNwvBVYT) | [Lionmilk](https://open.spotify.com/artist/0ssDUMMQsAhDLqKwBqEnGZ), [Lionmilk Quartet](https://open.spotify.com/artist/6Iy1fMGJlsYpOhzXLKNe8I) | [O.T.S\. \(Live\)](https://open.spotify.com/album/50R9IUC6X5mY1IJACWYyo1) | 5:27 | 2021-06-25 |  |
 | [Talent Stick](https://open.spotify.com/track/7yukuMCiNS57X6amD5MMwe) | [Surprise Chef](https://open.spotify.com/artist/2Ks1Z1scmEDZfaYaCS7Osj) | [Talent Stick](https://open.spotify.com/album/6iHyp8p7M8TYEZegzZxUBW) | 4:00 | 2023-04-28 | 2023-05-20 |
-| [Tell Me What To Do](https://open.spotify.com/track/5sModgX43bJ4fgnSRtLBVA) | [Johnny "Hammond" Smith](https://open.spotify.com/artist/1HlUMELUuz04YNiIbzWLsq) | [Gears](https://open.spotify.com/album/5rZFpmGxIAERAoqLsAlbfH) | 5:17 | 2020-10-09 |  |
+| [Tell Me What To Do](https://open.spotify.com/track/5sModgX43bJ4fgnSRtLBVA) | [Johnny "Hammond" Smith](https://open.spotify.com/artist/1HlUMELUuz04YNiIbzWLsq) | [Gears](https://open.spotify.com/album/5rZFpmGxIAERAoqLsAlbfH) | 5:17 | 2020-10-09 | 2023-10-21 |
 | [Tell Me What To Do](https://open.spotify.com/track/4uMmOXFsZ1YJSTqTNifMhF) | [Johnny "Hammond" Smith](https://open.spotify.com/artist/1HlUMELUuz04YNiIbzWLsq) | [Gears](https://open.spotify.com/album/65fQ2OhECWQBzLdtEKqK0U) | 5:19 | 2020-10-09 | 2022-04-17 |
 | [Tema de Benja](https://open.spotify.com/track/4oo9BSpAnBeEaYV74GuAaV) | [Daniel Maza](https://open.spotify.com/artist/5TI8IZa6vgPAcb8wuMZfN7), [Patricia "Piojo" Zappia](https://open.spotify.com/artist/0BDCAebyhWwaNQLpfa1aLK) | [Melomazeando](https://open.spotify.com/album/14Xe1tjzqLJ4FFVhASWQVl) | 4:55 | 2023-05-19 |  |
 | [That Bop](https://open.spotify.com/track/13l9DL9EA5hResA7mVmd7M) | [Bob James](https://open.spotify.com/artist/6ryjbFyWBZho9KGXqKZdqQ), [DJ Jazzy Jeff](https://open.spotify.com/artist/3nmiIgeri4vEY7y0VpbsCn) | [Jazz Hands](https://open.spotify.com/album/3KjGDmuYOd0EO8kSSQ8Kwh) | 4:43 | 2023-09-15 |  |

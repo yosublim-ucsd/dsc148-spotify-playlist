@@ -4,7 +4,7 @@
 
 > Classical compositions from Ravi Shankar and more.
 
-98 songs - 22 hr 44 min
+99 songs - 22 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,8 +32,9 @@
 | [Garjat Aayi Re \- Miyan Malhaar \- Teentaal](https://open.spotify.com/track/0dFhCT3tJ73gQYPHM0dbNh) | [Jazim Sharma](https://open.spotify.com/artist/5tUNLzDOTfdJ3WNBhNAJMB), [Kumar Sharma](https://open.spotify.com/artist/7ub0qIn7JQe3XCqzULgec6), [Kathak Rockers](https://open.spotify.com/artist/4JlRWfdSxNUonT3X0h12q3) | [Garjat Aayi Re](https://open.spotify.com/album/7zSXbsC4y9d7ylkApW3V8I) | 5:59 | 2023-06-02 |  |
 | [Hamari atariya pe](https://open.spotify.com/track/2TSYPHfKmLq28xptg9o48a) | [Piu Mukherjee](https://open.spotify.com/artist/1ccT0TPFhQ22JCgIH7hDar), [Emon Sarkar](https://open.spotify.com/artist/1kp7agAUErQy0sSd9uAq51), [Sudhendu Adhikary](https://open.spotify.com/artist/3pwwUYBpeVuWM5smc4rqI1), [Jyotirmoy Banerjee](https://open.spotify.com/artist/6Qm4nD6Y4CSNuAJRb4rEyn) | [Colors of Varanasi](https://open.spotify.com/album/0oqXnl3WDIAu51tgTeL1KK) | 7:41 | 2023-07-25 |  |
 | [Hori \- Thumri Raag Sohini](https://open.spotify.com/track/3oTddQU5p1cWeThUM59avZ) | [Sunanda Sharma](https://open.spotify.com/artist/1O1GPLg0gh9tsP7SfejbTW) | [Sur Tarangini Part 2](https://open.spotify.com/album/45ogchMjhkNMsjpMqNU6w3) | 13:28 | 2023-05-08 | 2023-07-08 |
+| [Jaa Kaga](https://open.spotify.com/track/33mqdecKrXjGk1JZQGuQ5f) | [Abby V](https://open.spotify.com/artist/73VDhvYEhL7FbnDPaNTUmX), [Ricky Kej](https://open.spotify.com/artist/2pG6h1xYYv5j7fuxackcfl), [Benny Dayal](https://open.spotify.com/artist/61if35zz1W11GejEkxTLEQ) | [Jaa Kaga](https://open.spotify.com/album/6Rw6ZLW1qBJczNKuJu18E1) | 5:10 | 2023-10-20 |  |
 | [Jagadodharana \(Kadri Gopalnath\-Sax\)](https://open.spotify.com/track/2XU5aiBsuXekPvn13J8eYp) | [Vadya Sangamam](https://open.spotify.com/artist/0aDuKft9jKKmEgVc0T49or) | [Vadya Sangamam](https://open.spotify.com/album/6e6OHCI1fsXNjEL0rYvoHo) | 7:26 | 2021-12-07 | 2022-12-10 |
-| [Jham Jham Jhamke](https://open.spotify.com/track/2PpdjrfcECccjK72Dda6kl) | [Sunanda Sharma](https://open.spotify.com/artist/58xqyuk3chk5HkHjIYQOd4) | [Jham Jham Jhamke](https://open.spotify.com/album/2CXcjcHBN8E7oIxFZPgSYO) | 4:50 | 2023-07-21 |  |
+| [Jham Jham Jhamke](https://open.spotify.com/track/2PpdjrfcECccjK72Dda6kl) | [Sunanda Sharma](https://open.spotify.com/artist/58xqyuk3chk5HkHjIYQOd4) | [Jham Jham Jhamke](https://open.spotify.com/album/2CXcjcHBN8E7oIxFZPgSYO) | 4:50 | 2023-07-21 | 2023-10-21 |
 | [Jhuki Aayi Badariya](https://open.spotify.com/track/5SXpSPaHd8y64hMBSQKRnw) | [Pamela Jain](https://open.spotify.com/artist/4BBdp811wrWrr1zk9dENUE) | [Jhuki Aayi Badariya](https://open.spotify.com/album/1qFdxQBXCkn0eayc88DTga) | 5:51 | 2023-07-17 |  |
 | [Kahanwa mano](https://open.spotify.com/track/7MHKVxhzSqBBSseuKV4tuV) | [Piu Mukherjee](https://open.spotify.com/artist/1ccT0TPFhQ22JCgIH7hDar), [Emon Sarkar](https://open.spotify.com/artist/1kp7agAUErQy0sSd9uAq51), [Sudhendu Adhikary](https://open.spotify.com/artist/3pwwUYBpeVuWM5smc4rqI1), [Jyotirmoy Banerjee](https://open.spotify.com/artist/6Qm4nD6Y4CSNuAJRb4rEyn) | [Colors of Varanasi](https://open.spotify.com/album/0oqXnl3WDIAu51tgTeL1KK) | 9:51 | 2023-07-25 |  |
 | [Kaliyugavaradana](https://open.spotify.com/track/27YrqgpUZ0xWwGW5TSy11W) | [U\. Srinivas](https://open.spotify.com/artist/4vC2GtOXDzAfthZ4gnFowC) | [Rama Sreerama](https://open.spotify.com/album/6GYoGq7MnyEe3CyTA7lEw0) | 4:44 | 2021-12-07 | 2022-07-29 |

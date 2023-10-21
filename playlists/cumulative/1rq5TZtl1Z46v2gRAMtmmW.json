@@ -1006,7 +1006,7 @@
       ],
       "date_added": "2023-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-21",
       "duration_ms": 218737,
       "name": "Drum",
       "url": "https://open.spotify.com/track/0woEYg2SEO3u2MFKmVnDgM"
@@ -1108,7 +1108,7 @@
       ],
       "date_added": "2023-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-21",
       "duration_ms": 291400,
       "name": "Fables",
       "url": "https://open.spotify.com/track/3I49KOk2e2Fxoh6IlSiTKX"
@@ -1700,6 +1700,24 @@
       "duration_ms": 138951,
       "name": "How It Feels",
       "url": "https://open.spotify.com/track/2DSQvvaojC1yu5phfWDKuB"
+    },
+    {
+      "album": {
+        "name": "When Will We Land?",
+        "url": "https://open.spotify.com/album/5LASDBDtLLEt3QqVtgOoaM"
+      },
+      "artists": [
+        {
+          "name": "Barry Can't Swim",
+          "url": "https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138951,
+      "name": "How It Feels",
+      "url": "https://open.spotify.com/track/3NZz7DWeVQesSOn6mO39F7"
     },
     {
       "album": {
@@ -2810,6 +2828,24 @@
       "duration_ms": 133000,
       "name": "Right Here",
       "url": "https://open.spotify.com/track/5lheFJ9dG8CvAUmDobTTYP"
+    },
+    {
+      "album": {
+        "name": "Bolted",
+        "url": "https://open.spotify.com/album/0BxkPi0ivE10et9zJ576x4"
+      },
+      "artists": [
+        {
+          "name": "Forest Swords",
+          "url": "https://open.spotify.com/artist/2VarlUiM6Lw0SA7BvwVPRP"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236160,
+      "name": "Rubble",
+      "url": "https://open.spotify.com/track/0nbkQCyzpDHuANCnXbjUfc"
     },
     {
       "album": {

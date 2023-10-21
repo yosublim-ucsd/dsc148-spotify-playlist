@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-24",
-  "description": "Tem rap nacional tem boom bap na \u00e1rea. Foto: Rapadura",
+  "description": "Tem rap nacional tem boom bap na \u00e1rea. Foto: Cesar Mc",
   "name": "Boom Rap",
   "tracks": [
     {
@@ -3438,7 +3438,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-21",
       "duration_ms": 152666,
       "name": "Jovem Suburbano",
       "url": "https://open.spotify.com/track/5RlXvYQ6ZC7wZ2CnIQjO5F"
@@ -4683,6 +4683,32 @@
     },
     {
       "album": {
+        "name": "Liga\u00e7\u00f5es Estranhas",
+        "url": "https://open.spotify.com/album/0M2JvghtMOUmJ9dV7IVALt"
+      },
+      "artists": [
+        {
+          "name": "Cesar Mc",
+          "url": "https://open.spotify.com/artist/19JY4BpaJkAlSR4iDxB1MX"
+        },
+        {
+          "name": "THXLIS",
+          "url": "https://open.spotify.com/artist/2PE39uGtlGUQ1LgZnfGJFS"
+        },
+        {
+          "name": "Vitinho Olimpo",
+          "url": "https://open.spotify.com/artist/0StjexbxySAdLjte5fuhxU"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 294400,
+      "name": "N\u00famero Desconhecido feat Cesar",
+      "url": "https://open.spotify.com/track/2PrJEyJvfWxihR1RHVC9ou"
+    },
+    {
+      "album": {
         "name": "O Balan\u00e7o Do Efeito Dunning-Kruger",
         "url": "https://open.spotify.com/album/1bBOQwVqfxleBP5K1c9DRb"
       },
@@ -4858,7 +4884,7 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-21",
       "duration_ms": 170261,
       "name": "O Que Se Leva (D\u00f3i)",
       "url": "https://open.spotify.com/track/7AYctIsvlx9eNrOM2zhLiz"
@@ -5507,6 +5533,28 @@
     },
     {
       "album": {
+        "name": "Psiu",
+        "url": "https://open.spotify.com/album/6RcCdEawmZ28PGs023jYMi"
+      },
+      "artists": [
+        {
+          "name": "R\u00f4 Rosa",
+          "url": "https://open.spotify.com/artist/5Et1UarIEfiHvErAJSer9B"
+        },
+        {
+          "name": "Patricio Sid",
+          "url": "https://open.spotify.com/artist/2A6L9Ua0JdmmELX1hz2HVu"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122727,
+      "name": "Psiu",
+      "url": "https://open.spotify.com/track/4ypg8CzKr3waYdtQTKQYnj"
+    },
+    {
+      "album": {
         "name": "Pulsa",
         "url": "https://open.spotify.com/album/2KzGC4EHnMCdjfAVOBuhUM"
       },
@@ -5518,7 +5566,7 @@
       ],
       "date_added": "2022-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-21",
       "duration_ms": 154054,
       "name": "Pulsa",
       "url": "https://open.spotify.com/track/6Z2Cn9IheRLbCRrquBDcbS"
@@ -6097,6 +6145,28 @@
     },
     {
       "album": {
+        "name": "Aproveite a Festa",
+        "url": "https://open.spotify.com/album/1ytAjXdd2f1DjK9BGWjZrN"
+      },
+      "artists": [
+        {
+          "name": "Gigante No Mic",
+          "url": "https://open.spotify.com/artist/5NjusDYM3H7nGyjgDOtLNX"
+        },
+        {
+          "name": "Dropallien",
+          "url": "https://open.spotify.com/artist/59uO2uoCSPFwU4pZYhhqyD"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224500,
+      "name": "Saca Rolha",
+      "url": "https://open.spotify.com/track/3DLD6Zrn4uHdElGBSc7MVR"
+    },
+    {
+      "album": {
         "name": "Sal",
         "url": "https://open.spotify.com/album/5TrDaGivu36WxNvbBZJr3b"
       },
@@ -6554,7 +6624,7 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-21",
       "duration_ms": 192000,
       "name": "Show da Minha Vida",
       "url": "https://open.spotify.com/track/1MayjEekMPzEOV8YDcVR42"
@@ -7276,6 +7346,24 @@
       "duration_ms": 160000,
       "name": "Tr\u00e2nsito da Cidade",
       "url": "https://open.spotify.com/track/5ho4sWitLTdIktXtHVV1Ei"
+    },
+    {
+      "album": {
+        "name": "Brutas Amam, Choram e Sentem Raiva",
+        "url": "https://open.spotify.com/album/0LVN0GsRFWkrhfhMVbJuBj"
+      },
+      "artists": [
+        {
+          "name": "Ajuliacosta",
+          "url": "https://open.spotify.com/artist/0eHkGhhUyp3LZdtZjaA8gd"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262400,
+      "name": "T\u00e3o Gostoso",
+      "url": "https://open.spotify.com/track/0bgy7v2lKWmvaegE7JKF7m"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > The official playlist for Russian Doll on Netflix.
 
-29 songs - 2 hr 16 min
+30 songs - 2 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,7 +12,8 @@
 | [99 Luftballons](https://open.spotify.com/track/4ZhPLoMzZwewHLLjV1J15c) | [Nena](https://open.spotify.com/artist/6Tz0QRoe083BcOo2YbG9lV) | [Nena](https://open.spotify.com/album/78hVLZZJhaXgrnfXKc6yxF) | 3:52 | 2022-04-28 |  |
 | [Alan's Elevator](https://open.spotify.com/track/3aSIYlOsdQvGiP9f7t4Uyn) | [Joe Wong](https://open.spotify.com/artist/62TZuRSv7K8KK5BmL90K32), [Judy Kang](https://open.spotify.com/artist/5lLKVIJzQ5XyH4js5EHkoR) | [Russian Doll: Seasons 1 & 2 \(Music From The Netflix Original Series\)](https://open.spotify.com/album/0Dt08kWhZvV18tp4bALqWY) | 0:34 | 2022-04-28 |  |
 | [Bela Lugosi's Dead \(Official Version\)](https://open.spotify.com/track/1wyVyr8OhYsC9l0WgPPbh8) | [Bauhaus](https://open.spotify.com/artist/5N5tQ9Dx1h8Od7aRmGj7Fi) | [The Bela Session](https://open.spotify.com/album/5NhiaFlFGgymG2rDNqAcm1) | 9:36 | 2022-04-28 |  |
-| [Black Night](https://open.spotify.com/track/1pJqA8DK4KR0UeQR1GKCrR) | [Cheryl Thompson](https://open.spotify.com/artist/0WA1uYD5c1dn1Oxt9OtN6V) | [You're Not from Around Here](https://open.spotify.com/album/01de6Zye614CkKr2dcLzrF) | 2:00 | 2022-04-28 |  |
+| [Black Night](https://open.spotify.com/track/1pJqA8DK4KR0UeQR1GKCrR) | [Cheryl Thompson](https://open.spotify.com/artist/0WA1uYD5c1dn1Oxt9OtN6V) | [You're Not from Around Here](https://open.spotify.com/album/01de6Zye614CkKr2dcLzrF) | 2:00 | 2022-04-28 | 2023-10-21 |
+| [Black Night](https://open.spotify.com/track/4Tq3ZmWCiqGG6hZGeoDIiM) | [Cheryl Thompson](https://open.spotify.com/artist/0WA1uYD5c1dn1Oxt9OtN6V) | [Black Night b/w I'm On The Mountain](https://open.spotify.com/album/0nJgnNLA0jqNI02fDdLPTs) | 2:00 | 2022-04-28 |  |
 | [Der Kommissar](https://open.spotify.com/track/3TBRJsLCcwroEkA3tD4u2N) | [Falco](https://open.spotify.com/artist/0hLd40hVpRDGENe4KGZLnW) | [Einzelhaft](https://open.spotify.com/album/4713DwyqNIrkyj17Q5Rsde) | 3:52 | 2022-04-28 |  |
 | [Dream Mother](https://open.spotify.com/track/5SLfUZcKNs3Ab2F1BOjQXr) | [Joe Wong](https://open.spotify.com/artist/62TZuRSv7K8KK5BmL90K32) | [Russian Doll: Seasons 1 & 2 \(Music From The Netflix Original Series\)](https://open.spotify.com/album/0Dt08kWhZvV18tp4bALqWY) | 1:46 | 2022-04-28 |  |
 | [Front](https://open.spotify.com/track/6SCAXoQUdLB7oPCwSA6YAd) | [Vex Ruffin](https://open.spotify.com/artist/6lxA3O2PKkIPpAjPHtQ8Kv) | [Conveyor](https://open.spotify.com/album/3SyLU1W5jMUGb9gys46jih) | 2:53 | 2022-04-28 |  |

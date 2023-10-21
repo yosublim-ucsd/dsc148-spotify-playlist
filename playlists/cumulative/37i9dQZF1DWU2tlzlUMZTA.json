@@ -1095,6 +1095,28 @@
     },
     {
       "album": {
+        "name": "The Hanuman",
+        "url": "https://open.spotify.com/album/2Np9r6zTp1DIPZd5aWYeD0"
+      },
+      "artists": [
+        {
+          "name": "Parmish Verma",
+          "url": "https://open.spotify.com/artist/3OQRPFFS3OsltFjFAXu1kE"
+        },
+        {
+          "name": "DG IMMORTALS",
+          "url": "https://open.spotify.com/artist/7jbG8tDQ5FmqBbTCj5dJdy"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176666,
+      "name": "The Hanuman",
+      "url": "https://open.spotify.com/track/65pg4ChAw8KQnLGdnwheVP"
+    },
+    {
+      "album": {
         "name": "The Humma Song (From \"OK Jaanu\")",
         "url": "https://open.spotify.com/album/3vJoUE05bg6Ki7BrzTOAPl"
       },

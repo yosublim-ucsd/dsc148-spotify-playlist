@@ -1,12 +1,12 @@
 {
   "description": "Ou\u00e7a e conhe\u00e7a as revela\u00e7\u00f5es da m\u00fasica gospel. Foto: Bea Rodrigues",
-  "num_followers": 116374,
+  "num_followers": 116430,
   "original_name": "Revela\u00e7\u00e3o Gospel",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2ODMzYTdkODUyZTVmMjNlZTcyNjE5NTI0YWNiNTc4ZDIyNWUxMDA2",
+  "snapshot_id": "MCxiNmQwOTMyY2QxZDY1N2IxZDE1MTFjNmIxNThkNzQwYThmNmZlZjhl",
   "tracks": [
     {
       "added_at": "2023-10-13 16:37:54",
@@ -247,6 +247,22 @@
     {
       "added_at": "2023-10-13 16:37:54",
       "album": {
+        "name": "Ver Al\u00e9m",
+        "url": "https://open.spotify.com/album/2fdhcfJpzjurHzB67acdaH"
+      },
+      "artists": [
+        {
+          "name": "Minist\u00e9rio F4ces",
+          "url": "https://open.spotify.com/artist/7327G3ak6m2PK6Lbu9S5wS"
+        }
+      ],
+      "duration_ms": 289879,
+      "name": "Ver Al\u00e9m",
+      "url": "https://open.spotify.com/track/32qzPIhyvl0astlQIsDNui"
+    },
+    {
+      "added_at": "2023-10-13 16:37:54",
+      "album": {
         "name": "Tua Presen\u00e7a Vale Mais (Ao Vivo)",
         "url": "https://open.spotify.com/album/4vUCJMvYEyDx8Osu1I6W49"
       },
@@ -263,22 +279,6 @@
       "duration_ms": 461818,
       "name": "N\u00e3o Temo Ondas - Ao Vivo",
       "url": "https://open.spotify.com/track/6Q9QRqD40yE9jn0iRRg5qX"
-    },
-    {
-      "added_at": "2023-10-13 16:37:54",
-      "album": {
-        "name": "Ver Al\u00e9m",
-        "url": "https://open.spotify.com/album/2fdhcfJpzjurHzB67acdaH"
-      },
-      "artists": [
-        {
-          "name": "Minist\u00e9rio F4ces",
-          "url": "https://open.spotify.com/artist/7327G3ak6m2PK6Lbu9S5wS"
-        }
-      ],
-      "duration_ms": 289879,
-      "name": "Ver Al\u00e9m",
-      "url": "https://open.spotify.com/track/32qzPIhyvl0astlQIsDNui"
     },
     {
       "added_at": "2023-10-13 16:37:54",
@@ -483,6 +483,22 @@
     {
       "added_at": "2023-10-13 16:37:54",
       "album": {
+        "name": "Me Mostra Tua Face",
+        "url": "https://open.spotify.com/album/2J6T1h7EXJyYwMTvpgbUCx"
+      },
+      "artists": [
+        {
+          "name": "RL Worship",
+          "url": "https://open.spotify.com/artist/5su32zrgIryPMprkwVWmmU"
+        }
+      ],
+      "duration_ms": 384724,
+      "name": "Me Mostra Tua Face",
+      "url": "https://open.spotify.com/track/3psQ9G2puOa5xPnQq4bJT2"
+    },
+    {
+      "added_at": "2023-10-13 16:37:54",
+      "album": {
         "name": "Quanto Amor",
         "url": "https://open.spotify.com/album/4K7OG0Y812Xl9UlpyNjJbj"
       },
@@ -511,22 +527,6 @@
       "duration_ms": 263260,
       "name": "Andar Sobre As \u00c1guas",
       "url": "https://open.spotify.com/track/40VTLWDGsKNLK9sHKIzZ7F"
-    },
-    {
-      "added_at": "2023-10-13 16:37:54",
-      "album": {
-        "name": "Me Mostra Tua Face",
-        "url": "https://open.spotify.com/album/2J6T1h7EXJyYwMTvpgbUCx"
-      },
-      "artists": [
-        {
-          "name": "RL Worship",
-          "url": "https://open.spotify.com/artist/5su32zrgIryPMprkwVWmmU"
-        }
-      ],
-      "duration_ms": 384724,
-      "name": "Me Mostra Tua Face",
-      "url": "https://open.spotify.com/track/3psQ9G2puOa5xPnQq4bJT2"
     },
     {
       "added_at": "2023-10-13 16:37:54",
@@ -635,18 +635,22 @@
     {
       "added_at": "2023-10-13 16:37:54",
       "album": {
-        "name": "Quando o Eterno For Real",
-        "url": "https://open.spotify.com/album/2XYkDU6G3HdRguQctcHmBk"
+        "name": "Meu Grande Amor (Ao Vivo)",
+        "url": "https://open.spotify.com/album/6cljyhbv9omnGm0UhJ4OlI"
       },
       "artists": [
         {
-          "name": "Vit\u00f3ria Costa",
-          "url": "https://open.spotify.com/artist/4ivt5LCWnYvngo0oxkDQHW"
+          "name": "Giselle Knevitz",
+          "url": "https://open.spotify.com/artist/2vJtvgrtI4T6edVZcC29SM"
+        },
+        {
+          "name": "Brasa Church Music",
+          "url": "https://open.spotify.com/artist/3dkGpbI5k8lDZ4Sk1ykv4A"
         }
       ],
-      "duration_ms": 290222,
-      "name": "Quando o Eterno For Real",
-      "url": "https://open.spotify.com/track/78lt1qOfZEjpZPv7JVfunA"
+      "duration_ms": 634368,
+      "name": "Meu Grande Amor - Ao Vivo",
+      "url": "https://open.spotify.com/track/5ezHz7zoux1YGn61T6E3XA"
     },
     {
       "added_at": "2023-10-13 16:37:54",
@@ -671,22 +675,18 @@
     {
       "added_at": "2023-10-13 16:37:54",
       "album": {
-        "name": "Meu Grande Amor (Ao Vivo)",
-        "url": "https://open.spotify.com/album/6cljyhbv9omnGm0UhJ4OlI"
+        "name": "Quando o Eterno For Real",
+        "url": "https://open.spotify.com/album/2XYkDU6G3HdRguQctcHmBk"
       },
       "artists": [
         {
-          "name": "Giselle Knevitz",
-          "url": "https://open.spotify.com/artist/2vJtvgrtI4T6edVZcC29SM"
-        },
-        {
-          "name": "Brasa Church Music",
-          "url": "https://open.spotify.com/artist/3dkGpbI5k8lDZ4Sk1ykv4A"
+          "name": "Vit\u00f3ria Costa",
+          "url": "https://open.spotify.com/artist/4ivt5LCWnYvngo0oxkDQHW"
         }
       ],
-      "duration_ms": 634368,
-      "name": "Meu Grande Amor - Ao Vivo",
-      "url": "https://open.spotify.com/track/5ezHz7zoux1YGn61T6E3XA"
+      "duration_ms": 290222,
+      "name": "Quando o Eterno For Real",
+      "url": "https://open.spotify.com/track/78lt1qOfZEjpZPv7JVfunA"
     },
     {
       "added_at": "2023-10-13 16:37:54",
@@ -843,22 +843,18 @@
     {
       "added_at": "2023-10-13 16:37:54",
       "album": {
-        "name": "Descansa em Mim",
-        "url": "https://open.spotify.com/album/3pVZs73gK7tDaS6rQwZjYc"
+        "name": "Eu Vou Mergulhar",
+        "url": "https://open.spotify.com/album/6rOWiP8QX8iub0JIU0pSFO"
       },
       "artists": [
         {
-          "name": "Pablo Canalis",
-          "url": "https://open.spotify.com/artist/6unLVeDztO40nUPUkl0zZm"
-        },
-        {
-          "name": "Do Nosso Canto",
-          "url": "https://open.spotify.com/artist/2XCsYQtJzn7Y68gXmbH2Xk"
+          "name": "Idma Brito",
+          "url": "https://open.spotify.com/artist/7enWqH5HtoEQJckRpx3ut2"
         }
       ],
-      "duration_ms": 305000,
-      "name": "Descansa em Mim",
-      "url": "https://open.spotify.com/track/33Kw7vIXjoeCvwTKeM4wR8"
+      "duration_ms": 291967,
+      "name": "Eu Vou Mergulhar",
+      "url": "https://open.spotify.com/track/75H1JdNy5JIndenoockhB3"
     },
     {
       "added_at": "2023-10-13 16:37:54",
@@ -879,18 +875,22 @@
     {
       "added_at": "2023-10-13 16:37:54",
       "album": {
-        "name": "Eu Vou Mergulhar",
-        "url": "https://open.spotify.com/album/6rOWiP8QX8iub0JIU0pSFO"
+        "name": "Descansa em Mim",
+        "url": "https://open.spotify.com/album/3pVZs73gK7tDaS6rQwZjYc"
       },
       "artists": [
         {
-          "name": "Idma Brito",
-          "url": "https://open.spotify.com/artist/7enWqH5HtoEQJckRpx3ut2"
+          "name": "Pablo Canalis",
+          "url": "https://open.spotify.com/artist/6unLVeDztO40nUPUkl0zZm"
+        },
+        {
+          "name": "Do Nosso Canto",
+          "url": "https://open.spotify.com/artist/2XCsYQtJzn7Y68gXmbH2Xk"
         }
       ],
-      "duration_ms": 291967,
-      "name": "Eu Vou Mergulhar",
-      "url": "https://open.spotify.com/track/75H1JdNy5JIndenoockhB3"
+      "duration_ms": 305000,
+      "name": "Descansa em Mim",
+      "url": "https://open.spotify.com/track/33Kw7vIXjoeCvwTKeM4wR8"
     },
     {
       "added_at": "2023-10-13 16:37:54",
@@ -1011,18 +1011,18 @@
     {
       "added_at": "2023-10-13 16:37:54",
       "album": {
-        "name": "Kethelen Baittinger",
-        "url": "https://open.spotify.com/album/1gLk6yyOrJakvzbaz5odg5"
+        "name": "N\u00e3o Serei o Mesmo",
+        "url": "https://open.spotify.com/album/3mnTNZd1y937CHweU2nMDN"
       },
       "artists": [
         {
-          "name": "Kethelen Baittinger",
-          "url": "https://open.spotify.com/artist/5LG8UU5L7I1QGFDGVH7MnA"
+          "name": "Renata Reis",
+          "url": "https://open.spotify.com/artist/5N1xm9Ct1wWvR5AfcVZMDS"
         }
       ],
-      "duration_ms": 366222,
-      "name": "Em uma s\u00f3 voz",
-      "url": "https://open.spotify.com/track/7t10vTBBTfdELqVlawK6vY"
+      "duration_ms": 397096,
+      "name": "N\u00e3o Serei o Mesmo - Ao Vivo",
+      "url": "https://open.spotify.com/track/69gwv2KxdlG7cEJnBLtYf6"
     },
     {
       "added_at": "2023-10-13 16:37:54",
@@ -1043,18 +1043,18 @@
     {
       "added_at": "2023-10-13 16:37:54",
       "album": {
-        "name": "N\u00e3o Serei o Mesmo",
-        "url": "https://open.spotify.com/album/3mnTNZd1y937CHweU2nMDN"
+        "name": "Kethelen Baittinger",
+        "url": "https://open.spotify.com/album/1gLk6yyOrJakvzbaz5odg5"
       },
       "artists": [
         {
-          "name": "Renata Reis",
-          "url": "https://open.spotify.com/artist/5N1xm9Ct1wWvR5AfcVZMDS"
+          "name": "Kethelen Baittinger",
+          "url": "https://open.spotify.com/artist/5LG8UU5L7I1QGFDGVH7MnA"
         }
       ],
-      "duration_ms": 397096,
-      "name": "N\u00e3o Serei o Mesmo - Ao Vivo",
-      "url": "https://open.spotify.com/track/69gwv2KxdlG7cEJnBLtYf6"
+      "duration_ms": 366222,
+      "name": "Em uma s\u00f3 voz",
+      "url": "https://open.spotify.com/track/7t10vTBBTfdELqVlawK6vY"
     }
   ],
   "unique_name": "Revela\u00e7\u00e3o Gospel",

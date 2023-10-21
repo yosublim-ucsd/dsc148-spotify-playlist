@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Czech Republic.
 
-1,219 songs - 2 day 14 hr 50 min
+1,220 songs - 2 day 14 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -959,7 +959,8 @@
 | [Slyšeli jsme v Betlémě](https://open.spotify.com/track/3XWxNH35PZZtJBbfrXOhYH) | [Dětský sbor Camerata](https://open.spotify.com/artist/7dqGBm7HHbJqx8jnGe3KZt) | [Vánoční koledy, Vol\. 1 \(Pokoj lidem dobré vůle\)](https://open.spotify.com/album/0qATwKlnuscpFBtUckKRl0) | 1:11 | 2021-12-25 | 2022-12-27 |
 | [Slyšte, slyšte pastuškové](https://open.spotify.com/track/4BpN3zJc4TH662myAth2R7) | [Dětský sbor](https://open.spotify.com/artist/0sySYREvn2IRaynpbf4Fmj) | [Vánoční koledy \(Tichá noc\)](https://open.spotify.com/album/1dZOrRi6207ALSq4NY5UeI) | 1:10 | 2021-12-25 | 2021-12-27 |
 | [Slyšte, slyšte pastuškové](https://open.spotify.com/track/5p44K6jIoiL7xK3ahR7Oxh) | [Dětský sbor Camerata](https://open.spotify.com/artist/7dqGBm7HHbJqx8jnGe3KZt) | [Vánoční koledy, Vol\. 1 \(Pokoj lidem dobré vůle\)](https://open.spotify.com/album/0qATwKlnuscpFBtUckKRl0) | 0:54 | 2022-12-25 | 2022-12-27 |
-| [Slzy](https://open.spotify.com/track/3zvg1jGv8J5laammbEvkzf) | [Sofian Medjmedj](https://open.spotify.com/artist/2ZHJEckf6HJXMSuD2icSSW), [Ben Cristovao](https://open.spotify.com/artist/1bpca6RQE5kp92pIwPMBE8) | [Slzy](https://open.spotify.com/album/3GYATvHPq0inFsTEVlxZkZ) | 2:30 | 2023-04-22 |  |
+| [Slzy](https://open.spotify.com/track/2aSjZFDJyTmakHyPxsEScQ) | [Sofian Medjmedj](https://open.spotify.com/artist/2ZHJEckf6HJXMSuD2icSSW), [Ben Cristovao](https://open.spotify.com/artist/1bpca6RQE5kp92pIwPMBE8) | [PROJECT⎜23](https://open.spotify.com/album/1vFLJs28d3t24ltDMgCORz) | 2:30 | 2023-10-20 |  |
+| [Slzy](https://open.spotify.com/track/3zvg1jGv8J5laammbEvkzf) | [Sofian Medjmedj](https://open.spotify.com/artist/2ZHJEckf6HJXMSuD2icSSW), [Ben Cristovao](https://open.spotify.com/artist/1bpca6RQE5kp92pIwPMBE8) | [Slzy](https://open.spotify.com/album/3GYATvHPq0inFsTEVlxZkZ) | 2:30 | 2023-04-22 | 2023-10-21 |
 | [Smokin Tráva, Poppin Xan](https://open.spotify.com/track/1jJlS7fpi630yDE4BZZIi9) | [Yzomandias](https://open.spotify.com/artist/721o1Z0J6jQupyzLt9RnEk), [Nik Tendo](https://open.spotify.com/artist/6gvVFtkTV4OCyQSCzGgU1h) | [Kruhy & Vlny](https://open.spotify.com/album/5oBkt45ptHRcJOp8xPpw1L) | 2:22 | 2022-11-18 | 2022-11-26 |
 | [SNAP](https://open.spotify.com/track/0QPRDC97rIQB3Jh3hrVJoH) | [Rosa Linn](https://open.spotify.com/artist/46xBNx0j6cwY6sD9LgMTm1) | [SNAP](https://open.spotify.com/album/4Cv9qCS1q3FDyyRFHGyc1g) | 2:59 | 2022-07-18 | 2022-07-31 |
 | [SNAP](https://open.spotify.com/track/6zJejIfVYLgjud3lTk4DLB) | [Rosa Linn](https://open.spotify.com/artist/46xBNx0j6cwY6sD9LgMTm1) | [SNAP PACK](https://open.spotify.com/album/2nzuzJvr3yowqbPaYjEYof) | 2:59 | 2022-07-30 | 2023-02-05 |

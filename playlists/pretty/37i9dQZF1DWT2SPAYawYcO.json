@@ -1,12 +1,12 @@
 {
   "description": "The best new songs of the week! Cover: Jung Kook, The Kid LAROI & Central Cee",
-  "num_followers": 365971,
+  "num_followers": 366139,
   "original_name": "New Music Friday AU & NZ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1NjU2M2ZjZGI2OTZjMjY1ZGE0NzUyYmQwYzJhNWY3OWM2MzJiMWQ1",
+  "snapshot_id": "MCwzMDkxNjZjOTg3ODEyMWFkZDU1Y2QxN2I2NmUxYmNlOWM4YTdmNzlh",
   "tracks": [
     {
       "added_at": "2023-10-19 23:00:00",
@@ -275,6 +275,26 @@
     {
       "added_at": "2023-10-19 23:00:00",
       "album": {
+        "name": "RAW",
+        "url": "https://open.spotify.com/album/25wBD0erftkJDAsnDp8mzu"
+      },
+      "artists": [
+        {
+          "name": "City Girls",
+          "url": "https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il"
+        },
+        {
+          "name": "Kim Petras",
+          "url": "https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J"
+        }
+      ],
+      "duration_ms": 165517,
+      "name": "Flashy (feat. Kim Petras)",
+      "url": "https://open.spotify.com/track/7rofRRaFwjPUdcPUnrtFAu"
+    },
+    {
+      "added_at": "2023-10-19 23:00:00",
+      "album": {
         "name": "Pinnacle Bitch",
         "url": "https://open.spotify.com/album/0odPeCpPLezE6U2cogRT2b"
       },
@@ -351,7 +371,7 @@
     {
       "added_at": "2023-10-19 23:00:00",
       "album": {
-        "name": "Falling In Love Part 2",
+        "name": "Falling In Love",
         "url": "https://open.spotify.com/album/32w9Bry9qBA5SNY5PVg8pT"
       },
       "artists": [
@@ -476,7 +496,7 @@
       "added_at": "2023-10-19 23:00:00",
       "album": {
         "name": "Letting Go",
-        "url": "https://open.spotify.com/album/6dnVKCwrjGIduN61L1uBmL"
+        "url": "https://open.spotify.com/album/6i9Q0J3gdMhjra2NRrb5B4"
       },
       "artists": [
         {
@@ -486,7 +506,7 @@
       ],
       "duration_ms": 209680,
       "name": "Letting Go",
-      "url": "https://open.spotify.com/track/3aiMthkGe3NgAEeaQywc2E"
+      "url": "https://open.spotify.com/track/5PTZ3ef9lHE6YJqxp9nhh9"
     },
     {
       "added_at": "2023-10-19 23:00:00",
@@ -719,6 +739,26 @@
       "duration_ms": 173937,
       "name": "Freedom",
       "url": "https://open.spotify.com/track/2toG8FXCAMobw0sPPJz78K"
+    },
+    {
+      "added_at": "2023-10-19 23:00:00",
+      "album": {
+        "name": "Finding My Way",
+        "url": "https://open.spotify.com/album/2VJLah9SVibt5UYFU9HVM6"
+      },
+      "artists": [
+        {
+          "name": "PROPH3T",
+          "url": "https://open.spotify.com/artist/3CfDgUAqzcrVjX2GSgAroa"
+        },
+        {
+          "name": "Jaecy",
+          "url": "https://open.spotify.com/artist/4hd0k0g3b2MLUiw0gPAsee"
+        }
+      ],
+      "duration_ms": 162580,
+      "name": "Finding My Way",
+      "url": "https://open.spotify.com/track/33ArwFU5L9M5S1lnTmAjz7"
     },
     {
       "added_at": "2023-10-19 23:00:00",
@@ -1340,7 +1380,7 @@
       "added_at": "2023-10-19 23:00:00",
       "album": {
         "name": "ENDLESS",
-        "url": "https://open.spotify.com/album/6OZUwSH5xeiJJfz0U4x9w3"
+        "url": "https://open.spotify.com/album/5S2eS7V3fIj3zVrdTjEHH6"
       },
       "artists": [
         {
@@ -1350,7 +1390,7 @@
       ],
       "duration_ms": 195525,
       "name": "SCARED TO DIE",
-      "url": "https://open.spotify.com/track/3X4ZgzNt8276PH3mdjovrl"
+      "url": "https://open.spotify.com/track/5egHfv3MM6LMHHTrkowFru"
     },
     {
       "added_at": "2023-10-19 23:00:00",
@@ -1475,6 +1515,22 @@
       "duration_ms": 162954,
       "name": "Honey feat. Lottie World",
       "url": "https://open.spotify.com/track/3covQX71QEt3mMP0IOFvRA"
+    },
+    {
+      "added_at": "2023-10-19 23:00:00",
+      "album": {
+        "name": "Falling in",
+        "url": "https://open.spotify.com/album/70Bdbs0ywY2qfwHJxuUuif"
+      },
+      "artists": [
+        {
+          "name": "Blondumb",
+          "url": "https://open.spotify.com/artist/021mK0NgHckx1TwdmzH6sl"
+        }
+      ],
+      "duration_ms": 137743,
+      "name": "Falling in",
+      "url": "https://open.spotify.com/track/4cbm57Rl7bs1loMHZbzUco"
     },
     {
       "added_at": "2023-10-19 23:00:00",

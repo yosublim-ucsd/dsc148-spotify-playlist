@@ -4,7 +4,7 @@
 
 > Unwind to the best Indian classical sounds out there.
 
-203 songs - 18 hr 9 min
+204 songs - 18 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -74,6 +74,7 @@
 | [Inteha](https://open.spotify.com/track/6QGi3529oKAbfObXWmWz95) | [Jazim Sharma](https://open.spotify.com/artist/5tUNLzDOTfdJ3WNBhNAJMB), [Tajasvi Sharma](https://open.spotify.com/artist/5EZnpkJGZLrfIeBnI0R6Ud) | [Inteha](https://open.spotify.com/album/7eD79Gc6BzP8BoAmYxQpru) | 4:16 | 2022-05-17 | 2023-05-24 |
 | [ISOLATED \(Part 2\)](https://open.spotify.com/track/37rIyfXlSeU4pALUVZ0XDO) | [Priyakshi Pachani](https://open.spotify.com/artist/5Mm8IaGkfrjF4ZF6eIjj1P), [Arghadeep Barua](https://open.spotify.com/artist/76zwIgoC4iyxTnLTeGiwUv), [Arnab Bashistha](https://open.spotify.com/artist/0nLfD8OW4b380nSxUKB12t) | [ISOLATED \(Part 2\)](https://open.spotify.com/album/5gMeHUxcnHEpR87wyWAJBD) | 3:47 | 2022-05-17 | 2023-05-24 |
 | [Ja Ja Re Apne](https://open.spotify.com/track/3COq2ajX5JKwferXjUWWLz) | [RaagNRocks](https://open.spotify.com/artist/3jTcN7ekTH3C1dnzRW65CY), [Nabanita Goswami](https://open.spotify.com/artist/6x3CZ20CvNvPKylTfC2nzB) | [Ja Ja Re Apne](https://open.spotify.com/album/4ho7R4LOcEWXen96udRpTr) | 4:54 | 2023-03-10 |  |
+| [Jaa Kaga](https://open.spotify.com/track/33mqdecKrXjGk1JZQGuQ5f) | [Abby V](https://open.spotify.com/artist/73VDhvYEhL7FbnDPaNTUmX), [Ricky Kej](https://open.spotify.com/artist/2pG6h1xYYv5j7fuxackcfl), [Benny Dayal](https://open.spotify.com/artist/61if35zz1W11GejEkxTLEQ) | [Jaa Kaga](https://open.spotify.com/album/6Rw6ZLW1qBJczNKuJu18E1) | 5:10 | 2023-10-20 |  |
 | [Jaanu Na \- Jodi Tare](https://open.spotify.com/track/1VRrV5xVD5iuI38NQSdwg1) | [Anweshaa](https://open.spotify.com/artist/785G4rs8cdeU7kKM2XgoI3) | [Tagore Songs \- Hindi Adaptations](https://open.spotify.com/album/4QuenfmhzueuIbon28NOiR) | 4:45 | 2022-05-17 | 2023-05-24 |
 | [Jagaave Saari Raina](https://open.spotify.com/track/7CQ0O1bdOHZINqyOf1W3kz) | [Rekha Bhardwaj](https://open.spotify.com/artist/3cqeO3muWIW5uSmUDNCmyT) | [Dedh Ishqiya](https://open.spotify.com/album/0x33kdKVOuPpUNyuQdX1LR) | 5:38 | 2023-03-02 |  |
 | [Jamuna Kinare](https://open.spotify.com/track/4CXTIuPWk4ArUANlD5k3Af) | [Sooryagayathri](https://open.spotify.com/artist/5qfJHcOsAD4qaRzxUJzr2K) | [Jamuna Kinare](https://open.spotify.com/album/2augZUhTpR5kFbuXZRzZut) | 7:41 | 2022-12-07 | 2023-04-22 |
@@ -112,7 +113,7 @@
 | [Maine Dekha Hai](https://open.spotify.com/track/5ju1GJqBZ0paALY3hU2wrC) | [Meghdeep Bose](https://open.spotify.com/artist/1e3Yx1PLC5EP8lz0OFOHda), [Sameer Rahat](https://open.spotify.com/artist/0GjCAhxXdNW2Cje8YIHxp0), [Pratibha Singh Baghel](https://open.spotify.com/artist/3oGu3v9t2QMZhTLXm3Wb7P) | [Maine Dekha Hai](https://open.spotify.com/album/5cIJrVphMW7otdZt5IiSWP) | 6:50 | 2022-05-17 | 2023-08-02 |
 | [Manavyalakinchara \(Mist of Capricorn\)](https://open.spotify.com/track/7AT9jIs9H7tFjxEXmilL94) | [Agam](https://open.spotify.com/artist/4DHXXUP4qza7DacDKVT23G) | [Manavyalakinchara \(Mist of Capricorn\) \- Single](https://open.spotify.com/album/2XK1UiouCCaYULpvuwn1WR) | 5:49 | 2022-05-17 | 2023-05-24 |
 | [Mann Bheetar](https://open.spotify.com/track/2yhih9jbMZKK9DqpwSTkgP) | [Shreya Ghoshal](https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy) | [Mann Bheetar](https://open.spotify.com/album/4lnlyIEjpXzFka1rZCXMHz) | 6:29 | 2022-05-17 | 2023-09-12 |
-| [Manwa](https://open.spotify.com/track/4vKwFMgFL0DkOFK2tYnm4z) | [Arth](https://open.spotify.com/artist/0evALJa0ucQicv1y7aZ06Z), [Krutartha](https://open.spotify.com/artist/2eGe7l1wgPrBMM7wTFs5Wr), [Shreyansh Kothari](https://open.spotify.com/artist/4xLhys8QEzlSbtyemH4Usd) | [Manwa](https://open.spotify.com/album/32wwi38EZ7cTTw4B6ZSlPE) | 3:02 | 2023-03-03 |  |
+| [Manwa](https://open.spotify.com/track/4vKwFMgFL0DkOFK2tYnm4z) | [Arth](https://open.spotify.com/artist/0evALJa0ucQicv1y7aZ06Z), [Krutartha](https://open.spotify.com/artist/2eGe7l1wgPrBMM7wTFs5Wr), [Shreyansh Kothari](https://open.spotify.com/artist/4xLhys8QEzlSbtyemH4Usd) | [Manwa](https://open.spotify.com/album/32wwi38EZ7cTTw4B6ZSlPE) | 3:02 | 2023-03-03 | 2023-10-21 |
 | [Mehki](https://open.spotify.com/track/3s7HqsfITsd6mc42L98RBx) | [Benny Dayal](https://open.spotify.com/artist/61if35zz1W11GejEkxTLEQ), [Hashbass](https://open.spotify.com/artist/0SFvkCtMeB2DSxgIPX6lzO), [1080g](https://open.spotify.com/artist/7apQmu6veMYstFKoQ1ALRG) | [Mehki](https://open.spotify.com/album/3be5Wwmsm1z3pXzDQnmFzQ) | 3:01 | 2023-02-20 | 2023-10-07 |
 | [Milan](https://open.spotify.com/track/0AFauuw4BMnqScJljkqWzd) | [Karsh Kale](https://open.spotify.com/artist/5KNQvpxpsSUsL8Mon7SjYn) | [Liberation](https://open.spotify.com/album/7F44heEFeNbL5dj7EUbgCL) | 8:54 | 2022-05-17 | 2023-05-24 |
 | [Miliha](https://open.spotify.com/track/5VOCIsiHepzYDaE5V1Qv6H) | [Advaita](https://open.spotify.com/artist/4FMduZvsMYM69TKN3i0YRp) | [Top 25 Fusion Ringtunes Vol\. 2](https://open.spotify.com/album/4atesUt90zJdViXSVetFda) | 1:01 | 2022-05-17 | 2023-03-31 |

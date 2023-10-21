@@ -56,7 +56,7 @@
       ],
       "date_added": "2023-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-21",
       "duration_ms": 496395,
       "name": "#RichieRich - Extended",
       "url": "https://open.spotify.com/track/1sy7y8mhsHfhgWk2EiKk2U"
@@ -462,7 +462,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-21",
       "duration_ms": 207483,
       "name": "Alzypher Vol. 9",
       "url": "https://open.spotify.com/track/4VgKKuLoLAcgNvJ8d0hKlA"
@@ -1044,7 +1044,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-21",
       "duration_ms": 265360,
       "name": "CIEN SHOWS",
       "url": "https://open.spotify.com/track/4EeKsQCjByEuwlQ71U3p2W"
@@ -1859,6 +1859,32 @@
     },
     {
       "album": {
+        "name": "Flavor",
+        "url": "https://open.spotify.com/album/1UpSx9vVKsQvl1VfzGtzDR"
+      },
+      "artists": [
+        {
+          "name": "T&K",
+          "url": "https://open.spotify.com/artist/62zZb3lpCFBqLDjMccQgND"
+        },
+        {
+          "name": "FERNANDOCOSTA",
+          "url": "https://open.spotify.com/artist/5dC7EcwWdf9Qj4VvJab4rZ"
+        },
+        {
+          "name": "Tensei One",
+          "url": "https://open.spotify.com/artist/1T7nUn5Rl3Rmu4HgyIckl7"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207259,
+      "name": "Flavor",
+      "url": "https://open.spotify.com/track/6JkjgPrTLBAD1fBh1OOfDQ"
+    },
+    {
+      "album": {
         "name": "Homies & Beaches",
         "url": "https://open.spotify.com/album/5zUU3TfeoCVuUnbU81IkKV"
       },
@@ -2434,7 +2460,7 @@
       ],
       "date_added": "2023-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-21",
       "duration_ms": 247500,
       "name": "La Plata",
       "url": "https://open.spotify.com/track/4J5tVP18No1PCLSmmFPYji"
@@ -2694,7 +2720,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-21",
       "duration_ms": 233142,
       "name": "Libre",
       "url": "https://open.spotify.com/track/6c0uR67qHuaEm4m7gGlUmw"
@@ -2933,6 +2959,32 @@
     },
     {
       "album": {
+        "name": "MAMITA",
+        "url": "https://open.spotify.com/album/2aXtUydfywc4SNl3g0UlWF"
+      },
+      "artists": [
+        {
+          "name": "Hard GZ",
+          "url": "https://open.spotify.com/artist/79N4S7UXdjo2fAh3OHJQuB"
+        },
+        {
+          "name": "Marcelus Airlinez",
+          "url": "https://open.spotify.com/artist/6FusXHu4kHX7uyPOnJ3H5Q"
+        },
+        {
+          "name": "Zxmyr",
+          "url": "https://open.spotify.com/artist/7IUaYyqcGB3aU2Tm4s5JY8"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183947,
+      "name": "MAMITA",
+      "url": "https://open.spotify.com/track/12aPSqJT6ECU9Wq6rG8sQU"
+    },
+    {
+      "album": {
         "name": "MANIFIESTO FREESTYLE",
         "url": "https://open.spotify.com/album/2xiR9BHSrYTogEJvEo4nVY"
       },
@@ -3006,6 +3058,32 @@
       "duration_ms": 178064,
       "name": "Me Levant\u00e9",
       "url": "https://open.spotify.com/track/1zDoyt30lppzmdUKxLZR3Q"
+    },
+    {
+      "album": {
+        "name": "Medicina Fina",
+        "url": "https://open.spotify.com/album/2TWt9tQmmxkBDxkv8XHHjC"
+      },
+      "artists": [
+        {
+          "name": "Neblinna",
+          "url": "https://open.spotify.com/artist/7H0rcOJgD1nrdMrH9cdHmL"
+        },
+        {
+          "name": "Neto Reyno",
+          "url": "https://open.spotify.com/artist/7sgnuH8OwU32WbGLZwD03q"
+        },
+        {
+          "name": "En Tu Area",
+          "url": "https://open.spotify.com/artist/73hhnQICS1EOzyLnnLA2gN"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155000,
+      "name": "Medicina Fina",
+      "url": "https://open.spotify.com/track/1OxCK5W8UqpAGSCSLOa6zo"
     },
     {
       "album": {
@@ -4427,6 +4505,28 @@
     },
     {
       "album": {
+        "name": "SUCIO",
+        "url": "https://open.spotify.com/album/79koG2MiYXk3fsceB8Oh0W"
+      },
+      "artists": [
+        {
+          "name": "Akapellah",
+          "url": "https://open.spotify.com/artist/6fMZytDgX1Q9OV6ndSugym"
+        },
+        {
+          "name": "Nach",
+          "url": "https://open.spotify.com/artist/66ArjpKRgw8vYBf9yhktto"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261677,
+      "name": "SUCIO",
+      "url": "https://open.spotify.com/track/5BPZWT8tc9KTIbyPF4CJ98"
+    },
+    {
+      "album": {
         "name": "Socios II",
         "url": "https://open.spotify.com/album/61RLppWoLAO4mG3xBRAOEi"
       },
@@ -4844,6 +4944,24 @@
       "duration_ms": 194723,
       "name": "Una Calada",
       "url": "https://open.spotify.com/track/3dO4nlMMWLo08eiprSMJqN"
+    },
+    {
+      "album": {
+        "name": "Una Leyenda Nunca Muere",
+        "url": "https://open.spotify.com/album/4x0pyBo6laY6Xcb9iP6pUg"
+      },
+      "artists": [
+        {
+          "name": "Neto Pe\u00f1a",
+          "url": "https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166500,
+      "name": "Una Leyenda Nunca Muere",
+      "url": "https://open.spotify.com/track/211Tp3Ah4FWYFWlGn8RRMl"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > O R&B com tempero e gostinho brasileiro para você ouvir\. Foto: Kynnie
 
-157 songs - 8 hr 1 min
+159 songs - 8 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -59,7 +59,7 @@
 | [Forasteiro](https://open.spotify.com/track/2y3cSgjC0OJm18XCTAYL64) | [Matheus Telles](https://open.spotify.com/artist/3N6sxbTtkfFYeTHr8RO2qS) | [Forasteiro](https://open.spotify.com/album/4zOhy2vPHpmepLnLm8uTCA) | 2:58 | 2023-08-11 | 2023-09-02 |
 | [Fuder e Dormir Juntin](https://open.spotify.com/track/5SbtLc9nK4o1Y2QSMQG4JE) | [Medulla](https://open.spotify.com/artist/7CVOAoQbR9WM67A4ppOLAN) | [Fuder e Dormir Juntin](https://open.spotify.com/album/53nXJdbxsoLg0BpJbOn3uA) | 3:00 | 2023-03-17 | 2023-09-02 |
 | [Garota Nota 100](https://open.spotify.com/track/7eA6fYJFYjGLrqpMYhRTAo) | [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi) | [Garota Nota 100](https://open.spotify.com/album/40x6HLtvlgqwUmp9O4mzKi) | 3:15 | 2023-01-20 | 2023-03-25 |
-| [Gosto de Você](https://open.spotify.com/track/75YFJjfgVCM46P6UUfGhDx) | [Lucas Pretti](https://open.spotify.com/artist/248XKLuHF7rx0BAJmgq1Op) | [Gosto de Você](https://open.spotify.com/album/4AL19qe0DttWN5gcCxsKrw) | 2:50 | 2022-11-18 |  |
+| [Gosto de Você](https://open.spotify.com/track/75YFJjfgVCM46P6UUfGhDx) | [Lucas Pretti](https://open.spotify.com/artist/248XKLuHF7rx0BAJmgq1Op) | [Gosto de Você](https://open.spotify.com/album/4AL19qe0DttWN5gcCxsKrw) | 2:50 | 2022-11-18 | 2023-10-21 |
 | [Imaturos](https://open.spotify.com/track/1pLMyLeCuV7LXnM4UlBJgw) | [Doug O.](https://open.spotify.com/artist/1mj6W331lVCliU08OYyMg0) | [Imaturos](https://open.spotify.com/album/2kK3WLKERpEahvQt5g3Twr) | 3:32 | 2023-08-04 |  |
 | [incenso](https://open.spotify.com/track/1zJb71H6zt6EljSfpvI83f) | [Camargo](https://open.spotify.com/artist/1gH9PRoYmehUf3bErRTN1f) | [incenso](https://open.spotify.com/album/6v5HmpIOk6DhQj2D1B9A5D) | 2:23 | 2023-01-27 | 2023-08-05 |
 | [incomum](https://open.spotify.com/track/0h6oF0wN1AWD1waKl979Jp) | [Luccas Carlos](https://open.spotify.com/artist/5WFFFHVqeVk5tLuYh2KjQy) | [jovemCARLOS](https://open.spotify.com/album/0YAr9017bY6ojo4GGk7ijC) | 3:37 | 2023-04-07 | 2023-04-18 |
@@ -143,6 +143,7 @@
 | [Sinal de Fumaça](https://open.spotify.com/track/76M93slEhL9Q9MEvbxycbe) | [Yas](https://open.spotify.com/artist/3tFl0Vh4EoMvMutypugPYO), [Thebosh](https://open.spotify.com/artist/6NCFegwTfE1dbVEOPrAGxI) | [Sinal de Fumaça](https://open.spotify.com/album/5OkI6zKfhKzl1w3CjpvnOi) | 2:30 | 2022-11-18 |  |
 | [Sintomas de Prazer \- Live](https://open.spotify.com/track/32RZ9zfGC4gvkkIm307Fpb) | [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi) | [Sintomas de Prazer \- Live](https://open.spotify.com/album/08eESUu8Nzhm255cuw74X4) | 2:31 | 2023-09-01 |  |
 | [Sobrenome](https://open.spotify.com/track/7lfKqObVLqhJ8O5PF8UwtW) | [Dagrace](https://open.spotify.com/artist/5RWAfDPfPQklvfe40tNxWT), [Dodoin](https://open.spotify.com/artist/4I0iZ0003sCk7k5eHKzKh1) | [Sobrenome](https://open.spotify.com/album/5CXvCpwUJ9GdHjumehKIQ7) | 2:14 | 2022-11-18 |  |
+| [Solo](https://open.spotify.com/track/1RNaYWa47ci3S75qifl7si) | [Salah](https://open.spotify.com/artist/4vx0e5kKIYBc7kCNqVjuef), [Atlas](https://open.spotify.com/artist/3tgwJ3YqzYI5jc4XxgCHRk) | [Solo](https://open.spotify.com/album/08tpiPjnSV3WujNwdrGeeq) | 2:58 | 2023-10-20 |  |
 | [Sozinho](https://open.spotify.com/track/7m75tNUYyt3Bz21tIDdq3j) | [Tállia](https://open.spotify.com/artist/4WVJKn89nXJQunOVVkcfDj), [Klismman](https://open.spotify.com/artist/3jZdI7WRp6aZdMA6OgvVxJ) | [Sozinho](https://open.spotify.com/album/31NtdfxBPy3XzI0CpxuY7d) | 2:31 | 2022-11-18 |  |
 | [Suplicar](https://open.spotify.com/track/2HmwK2dChMGAOv3gd2HQiN) | [Gloria Groove](https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw) | [Suplicar](https://open.spotify.com/album/1rbmSJSM5ie2j5zIH7Nf0X) | 3:06 | 2022-11-18 | 2023-04-29 |
 | [Só Você](https://open.spotify.com/track/4xXTMynUAc9pRq0DXLC8f3) | [Aysha Lima](https://open.spotify.com/artist/2PIknYaeoCcwkNQ8leGQ7U), [Filiph Neo](https://open.spotify.com/artist/5CrfWOM93nq6YMF6lvWuLv) | [Só Você](https://open.spotify.com/album/4k8YNiDI2cA6mAcNQselNg) | 3:43 | 2023-01-13 | 2023-04-01 |
@@ -160,8 +161,9 @@
 | [Uma Chance](https://open.spotify.com/track/2QPZQP2MDGC5ePtfSI9ihO) | [Crod](https://open.spotify.com/artist/1VI8uzUXTMpjdIvM6Rsh0j) | [Uma Chance Pra Ficar Tudo bem](https://open.spotify.com/album/3E7fL2Muf5c8OvC8A54Mp3) | 2:34 | 2022-11-18 |  |
 | [Uma Vida é Pouco Pra Te Amar](https://open.spotify.com/track/6QWAEJf3F8sX0P8jVMpFsr) | [IZA](https://open.spotify.com/artist/3zgnrYIltMkgeejmvMCnes) | [AFRODHIT](https://open.spotify.com/album/31sonubmJGHeNaAUPrcHj5) | 3:32 | 2023-08-04 |  |
 | [Ventilador](https://open.spotify.com/track/5pks7N1kfqxMjh44BktzGM) | [Nagy](https://open.spotify.com/artist/2QX3kFP9WdmGPeFKPfd9Mv) | [Ventilador](https://open.spotify.com/album/53ARAS1GKpLQYtHusiYkUs) | 2:59 | 2022-11-18 |  |
-| [Versão Beta](https://open.spotify.com/track/4zFUgRg9wz4ASTEwP7iLGw) | [Yas](https://open.spotify.com/artist/3tFl0Vh4EoMvMutypugPYO), [PNDA](https://open.spotify.com/artist/6DYuSFwiyWFr9HE1BBOYWI) | [Versão Beta](https://open.spotify.com/album/1I8UNZ5kbxS30jr20UUDrL) | 2:13 | 2023-07-21 |  |
+| [Versão Beta](https://open.spotify.com/track/4zFUgRg9wz4ASTEwP7iLGw) | [Yas](https://open.spotify.com/artist/3tFl0Vh4EoMvMutypugPYO), [PNDA](https://open.spotify.com/artist/6DYuSFwiyWFr9HE1BBOYWI) | [Versão Beta](https://open.spotify.com/album/1I8UNZ5kbxS30jr20UUDrL) | 2:13 | 2023-07-21 | 2023-10-21 |
 | [Vestido Vermelho](https://open.spotify.com/track/11xqJp6dCzVm3PxEroeVih) | [Filipe Papi](https://open.spotify.com/artist/4PIbPYHfWC6FC2RL6livhm) | [Vestido Vermelho](https://open.spotify.com/album/06vVPATP7xd4AvQzeevpss) | 2:50 | 2022-11-18 |  |
+| [VIAJO](https://open.spotify.com/track/5b75hdsXdMeTgvyFvd6PRV) | [Diego Amani](https://open.spotify.com/artist/7C4JFPMFLycKlz7m7KKfgu) | [VIAJO](https://open.spotify.com/album/1x9EmDVZIOPbnJDDi90htI) | 3:50 | 2023-10-20 |  |
 | [Vigésimo Andar](https://open.spotify.com/track/6v2AEuks4HqnGo4aiEhuxZ) | [Victor Xamã](https://open.spotify.com/artist/6sLPSvN2Z4R1ndAS068ibP), [Luedji Luna](https://open.spotify.com/artist/0sWTkzCrdEvuX7Du6MFLzc), [Duda Raupp](https://open.spotify.com/artist/1TblNIhFNuu2fTJbTp6rDp), [Flavia K](https://open.spotify.com/artist/4IlT0E6L6RdAetLBw5aDgn) | [GARCIA](https://open.spotify.com/album/6QWmIGUIKxpMphCOQb5s6b) | 4:00 | 2023-03-31 | 2023-04-24 |
 | [Volta](https://open.spotify.com/track/1jcpYFepwi07ZSuq5H0m5z) | [Murilo Magalhães](https://open.spotify.com/artist/4TlfxFPeRDsDbWxm3iBt9A), [FELL](https://open.spotify.com/artist/0tiAA1lSHnRZapINp4gMBB), [WALL](https://open.spotify.com/artist/047ncrQayjiFjUVlWAAhLY), [Briozzini](https://open.spotify.com/artist/3F7B2VzJ2nvWQPKEQuBHTj) | [Volta](https://open.spotify.com/album/62zSQrFRSQI9dsJS1Uw8TL) | 3:24 | 2022-11-18 |  |
 | [Água \- Dj Nyack Remix](https://open.spotify.com/track/4GPV2BdcXmOWArbqlwwAgX) | [Amanda Magalhães](https://open.spotify.com/artist/5wQwhxkFXV3FVQcK8Jc0sO), [Vico](https://open.spotify.com/artist/57O39UjU77GwgwlCLqHnFC), [Dj Nyack](https://open.spotify.com/artist/6qWqYtNvKPE8HwgmoPfkHx) | [Água \(Dj Nyack Remix\)](https://open.spotify.com/album/0RqBQ7jwjFzVVLt0Tsrrpx) | 3:53 | 2023-03-10 | 2023-07-22 |

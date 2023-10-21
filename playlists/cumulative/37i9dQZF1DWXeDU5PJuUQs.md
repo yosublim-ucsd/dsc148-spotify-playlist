@@ -4,7 +4,7 @@
 
 > Unas buenas cumbias con el calor de la gente! <br/>Foto: Ke Personajes.
 
-138 songs - 9 hr 5 min
+139 songs - 9 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -110,7 +110,7 @@
 | [Presentación / Dejémoslo Así \- En Vivo](https://open.spotify.com/track/0KOhixb30mbp9ylyQXnufj) | [Dalila](https://open.spotify.com/artist/3ruk44IzmsPppwo7VOknwZ) | [En Vivo en Ciudad Cultural Konex](https://open.spotify.com/album/6Vyd5KnNi0zKuYXbbfqNTy) | 4:06 | 2022-01-07 | 2022-07-28 |
 | [Pupilas Lejanas \- En Vivo](https://open.spotify.com/track/7aQN2YfQGTPZGc2LDo5VCR) | [Los del Fuego](https://open.spotify.com/artist/5L6GbwWUM3Oi5GPnkmmp24) | [En Vivo](https://open.spotify.com/album/0wdwM7dPqceHeIdCXL5UGL) | 1:11 | 2022-01-03 | 2022-07-27 |
 | [Que Vuelvas \- En Vivo](https://open.spotify.com/track/0Z5bUqfLXTPT0DfX5gIa6f) | [La Base](https://open.spotify.com/artist/2WXllWJylpBWxIAHHcTEQ0) | [Que Vuelvas \(En Vivo\)](https://open.spotify.com/album/55f3uyiaumuYOnewFODFYD) | 1:48 | 2023-03-10 |  |
-| [Quiero Yo Saber \(Donde Esta El Amor\)](https://open.spotify.com/track/7iwRxlSdAWVvpQGlx1yYmc) | [Leo Mattioli](https://open.spotify.com/artist/2Mu8h5sFkOziL0Rfn7FXIA) | [Ay, Amor \(En Vivo\)](https://open.spotify.com/album/6oYbjZU53uWm8p3vcFTDQZ) | 3:13 | 2021-12-10 |  |
+| [Quiero Yo Saber \(Donde Esta El Amor\)](https://open.spotify.com/track/7iwRxlSdAWVvpQGlx1yYmc) | [Leo Mattioli](https://open.spotify.com/artist/2Mu8h5sFkOziL0Rfn7FXIA) | [Ay, Amor \(En Vivo\)](https://open.spotify.com/album/6oYbjZU53uWm8p3vcFTDQZ) | 3:13 | 2021-12-10 | 2023-10-21 |
 | [Sabes \(En Vivo\)\[Remasterizado 2021\]](https://open.spotify.com/track/7bGNfa1I1JC99U7tcMOZBk) | [Los del Fuego](https://open.spotify.com/artist/5L6GbwWUM3Oi5GPnkmmp24) | [En Vivo en Joya 2019 \(Remasterizado 2021\)](https://open.spotify.com/album/137WQeUeXMRTBzjE1Kvq54) | 1:15 | 2021-12-10 |  |
 | [Se Te Ve la Tanga \- En Vivo](https://open.spotify.com/track/0lZxPTnWhyktE0T5dMAA0j) | [Damas Gratis](https://open.spotify.com/artist/3YeBTR1Q1rUxKguz4jP6UV) | [En Vivo \- Hasta las Manos](https://open.spotify.com/album/34hLpBNhr8YQXksZp9Vgwi) | 5:01 | 2021-12-10 | 2022-07-29 |
 | [Sencillamente \- En Vivo](https://open.spotify.com/track/1k7eymTgq5eGY73TxSA9if) | [El Polaco](https://open.spotify.com/artist/3ucYybVr1mTuB04HtoBDCc), [Los del Fuego](https://open.spotify.com/artist/5L6GbwWUM3Oi5GPnkmmp24) | [Sencillamente \(En Vivo\)](https://open.spotify.com/album/148HwFdc4WPUhEEK0eeSGQ) | 2:11 | 2021-12-10 | 2023-01-18 |
@@ -119,6 +119,7 @@
 | [Si Te Vas \- Vivo](https://open.spotify.com/track/4v17MVpCUu5l2p0mSlw8PK) | [Damas Gratis](https://open.spotify.com/artist/3YeBTR1Q1rUxKguz4jP6UV), [El Mago Y La Nueva](https://open.spotify.com/artist/0pelomsVlROuivdE2RgeDU) | [Si Te Vas \(Vivo\)](https://open.spotify.com/album/3P9PZxc8N5rAXTQfqWS3sM) | 4:35 | 2021-12-10 | 2023-09-16 |
 | [Sobreviviendo \(En Vivo\)\[Remasterizado 2021\]](https://open.spotify.com/track/3OXxqVWiyMMkqQuLrlmLaB) | [Los del Fuego](https://open.spotify.com/artist/5L6GbwWUM3Oi5GPnkmmp24) | [En Vivo en Joya 2019 \(Remasterizado 2021\)](https://open.spotify.com/album/137WQeUeXMRTBzjE1Kvq54) | 1:19 | 2021-12-10 | 2023-10-08 |
 | [Sobrio \- En Vivo](https://open.spotify.com/track/3HrvBkmU54RnjhHD09ddDk) | [La T y La M](https://open.spotify.com/artist/1FxPMQ9A0882eNDx3ZkD6B) | [Le Mandamos Cumbia Perro \(En Vivo\)](https://open.spotify.com/album/7FhhJjQ9dez8uMOblDZ8Fm) | 1:11 | 2023-01-17 |  |
+| [Sola y Suelta \- En Vivo](https://open.spotify.com/track/4WLsKfXYMXlF3Kus95sSNC) | [Luana](https://open.spotify.com/artist/6uJKnn4CV4IIop8mg4kCUy) | [Sola Y Suelta \(En Vivo\)](https://open.spotify.com/album/2DX8ZsbgoEXTZTLeHzOoun) | 2:49 | 2023-10-20 |  |
 | [Solo Aspirina \- En Vivo](https://open.spotify.com/track/6uZwsrPLO56Y4CnVF2aks3) | [Damas Gratis](https://open.spotify.com/artist/3YeBTR1Q1rUxKguz4jP6UV) | [En Vivo \- Hasta las Manos](https://open.spotify.com/album/34hLpBNhr8YQXksZp9Vgwi) | 3:55 | 2022-01-03 | 2022-07-23 |
 | [Soy Mala Fama \- En Vivo](https://open.spotify.com/track/5Otrrijwbk7pDKPN7QZv3t) | [Mala Fama](https://open.spotify.com/artist/1AvkrI2S7knrbaZxydvc9B) | [El Origen \(En Vivo en Teatro Opera\)](https://open.spotify.com/album/58vHChksRDkwhI3xPDgXqL) | 3:18 | 2022-01-03 | 2022-07-20 |
 | [Soy Mala Fama \- En Vivo](https://open.spotify.com/track/6OgfQgwYmhqvmTPKPebPv4) | [Mala Fama](https://open.spotify.com/artist/1AvkrI2S7knrbaZxydvc9B) | [20 Años Agitando el Avispero \(En Vivo\)](https://open.spotify.com/album/2vNZWsRlcCzRJevQ0v2Ip9) | 3:18 | 2022-07-15 |  |

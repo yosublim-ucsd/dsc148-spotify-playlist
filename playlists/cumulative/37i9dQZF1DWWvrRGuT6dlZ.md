@@ -4,7 +4,7 @@
 
 > Unearthing your new favourite artists\. Cover: Elaine, ICEBOX\. Artwork: Isu Kim.
 
-541 songs - 1 day 5 hr 49 min
+542 songs - 1 day 5 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -69,6 +69,7 @@
 | [Breakthrough](https://open.spotify.com/track/107SfezUTfJRAYdyIoksJ5) | [Jazswin J](https://open.spotify.com/artist/5khaAS15wiYpjswSBerBMZ) | [Breakthrough](https://open.spotify.com/album/5uK2oAf9AxCBhWEPFyyGRU) | 3:52 | 2022-06-16 | 2022-09-23 |
 | [Breathe](https://open.spotify.com/track/0Ap3cJ4QMTgqhXDzH2zd5d) | [Charmaine Koh](https://open.spotify.com/artist/4AXM9QrBp5qGABjIQVPBQI) | [Sunflower at Sundown](https://open.spotify.com/album/0ZlZoBp9Bs9EZ1YJ2zpk59) | 3:34 | 2022-09-01 | 2023-08-18 |
 | [Broken Reflection](https://open.spotify.com/track/7boZJzzpdwFUOYjAIRNzIo) | [Mia Insyirah](https://open.spotify.com/artist/0PAUnfVTskeFqLIQV1IjV2) | [Broken Reflection](https://open.spotify.com/album/70tSiWNRM6jDvYat6H9Hhs) | 2:27 | 2021-12-01 | 2022-01-14 |
+| [BRUTAL](https://open.spotify.com/track/6XcZTucMhI6GR6fZsFL8Ig) | [Mardiana](https://open.spotify.com/artist/3svIMmaQEnyipJfbbW6dyH) | [BRUTAL](https://open.spotify.com/album/6mQ76kFb5eM0uTeiVVGqeG) | 3:24 | 2023-10-19 |  |
 | [BUBBLY](https://open.spotify.com/track/1YxMfqTpk22khi8ZfmSK0G) | [Ethan Low](https://open.spotify.com/artist/09O5HSw8RO3aAnWNCADaKS) | [BUBBLY](https://open.spotify.com/album/4vIEdzVa15kQvoalvxPIz5) | 2:51 | 2023-03-02 |  |
 | [Busybody](https://open.spotify.com/track/09URAYmN2Jy551pXuBHdDl) | [Alan D](https://open.spotify.com/artist/3u4VRULomA2rso0lBPV5VQ), [Yutaka](https://open.spotify.com/artist/6avZECpdmNKvVi3RKbys3f), [MassMusic](https://open.spotify.com/artist/3bPWkIDNYSm7X6loZhpo22) | [Busybody](https://open.spotify.com/album/3pI2WoMOqoLxy7OoRlk552) | 3:24 | 2023-02-03 | 2023-06-23 |
 | [Call Me Sweet](https://open.spotify.com/track/08P78OIZjosuCEcfMxU0iq) | [Bittersweet](https://open.spotify.com/artist/3A2xivbWFzprF2vmp644ii) | [Call Me Sweet](https://open.spotify.com/album/6sBot4UKvvyWqzhpWHugpL) | 2:40 | 2022-01-13 | 2022-03-11 |

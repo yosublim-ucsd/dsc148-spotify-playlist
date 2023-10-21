@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXLbJb1PtkXq.md) - [plain]
 
 > Les plus grands hits français des années 90\. Photo: Manau
 
-[Spotify](https://open.spotify.com/user/spotify) - 160,282 likes - 50 songs - 3 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 160,404 likes - 50 songs - 3 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,7 +42,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXLbJb1PtkXq.md) - [plain]
 | 32 | [Mets de l'huile !](https://open.spotify.com/track/4r2HwSAerK0TNpqWsJeeH0) | [Regg'Lyss](https://open.spotify.com/artist/13hAr4uB2YbrodOVdKS3K4) | [Regg'Lyss..\. Mets de l'huile !](https://open.spotify.com/album/3sZdwmQdutuGMYNscf37D4) | 4:07 |
 | 33 | [Mon papa à moi est un gangster](https://open.spotify.com/track/230WQfgxWrDowOttZT7Lhq) | [Stomy Bugsy](https://open.spotify.com/artist/6vDYFCXQbWPqlUEyBaVbMW) | [Le calibre qu'il te faut](https://open.spotify.com/album/5IuN6I7Al7EaSNEhlE2SMe) | 6:01 |
 | 34 | [Il me dit que je suis belle \(Version album\)](https://open.spotify.com/track/5oHLDVSTy3M5mXWNAgnzvF) | [Patricia Kaas](https://open.spotify.com/artist/4JQHNk6teUNYxC27Bg0UPI) | [Je te dis vous](https://open.spotify.com/album/6IRWC0tQS54aZeL6ptB2TG) | 5:21 |
-| 35 | [Foule sentimentale](https://open.spotify.com/track/2W4ZxAHZAXOf6r65pCskGR) | [Alain Souchon](https://open.spotify.com/artist/5LVp2pGNzmOQqXzziBBR5x) | [C'est déja ça](https://open.spotify.com/album/2aZRmXEvD458ZCk1C0Wdu5) | 5:24 |
+| 35 | [Foule sentimentale](https://open.spotify.com/track/2W4ZxAHZAXOf6r65pCskGR) | [Alain Souchon](https://open.spotify.com/artist/5LVp2pGNzmOQqXzziBBR5x) | [C'est déjà ça](https://open.spotify.com/album/2aZRmXEvD458ZCk1C0Wdu5) | 5:24 |
 | 36 | [Si tu veux m'essayer](https://open.spotify.com/track/3eIdv7Lh8zzsQV5SI8ni7z) | [Florent Pagny](https://open.spotify.com/artist/0g7hZVprd3orBpMrSLWeJ9) | [Rester Vrai](https://open.spotify.com/album/2FGyjN6ri4SYTmunXvCnwx) | 4:02 |
 | 37 | [Je T’aime](https://open.spotify.com/track/28mwuJqKOjRpqo14GuKSkj) | [Lara Fabian](https://open.spotify.com/artist/7ocwZINHqO9DZJgFtc1B20) | [Pure](https://open.spotify.com/album/1VOw4yLcyAgwPR3dGPXRnm) | 4:21 |
 | 38 | [Le pouvoir des fleurs](https://open.spotify.com/track/4msnxiNpg9Mvm6f0NMYFKx) | [Laurent Voulzy](https://open.spotify.com/artist/6ogXCiVOaz2afPmMNHph7Z) | [Caché derrière](https://open.spotify.com/album/6Q4Tu5UQrWPQzaxyyoT1Ia) | 3:35 |
@@ -53,10 +53,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXLbJb1PtkXq.md) - [plain]
 | 43 | [Chacun sa route](https://open.spotify.com/track/77qA7VUqdhaAmq1YLznI0I) | [KOD](https://open.spotify.com/artist/5j3swYwEody8T0sJWuDgqV) | [Chacun sa route](https://open.spotify.com/album/5KDf5WNcaJQKuIjrxVriGB) | 3:01 |
 | 44 | [Caroline](https://open.spotify.com/track/7esR7jO5Fyl78B6CwwhZJy) | [MC Solaar](https://open.spotify.com/artist/3nU8TSIICYDbUqRpJISTRE) | [Qui sème le vent récolte le tempo](https://open.spotify.com/album/5hM61fBUA5OIMJUUuMrzyH) | 4:43 |
 | 45 | [Je sais pas jouer](https://open.spotify.com/track/5d1tSaiS9zqCEfeNn1lEqk) | [Pierpoljak](https://open.spotify.com/artist/3CRdoyoe02HlMCvt6VD7RG) | [Kingston Karma](https://open.spotify.com/album/61ibLaYRWUXsuNaCoyacBo) | 4:09 |
-| 46 | [L'amour à la machine](https://open.spotify.com/track/2qHYEIBD2g14bOT2YkZ2Ye) | [Alain Souchon](https://open.spotify.com/artist/5LVp2pGNzmOQqXzziBBR5x) | [C'est déja ça](https://open.spotify.com/album/2aZRmXEvD458ZCk1C0Wdu5) | 3:46 |
+| 46 | [L'amour à la machine](https://open.spotify.com/track/2qHYEIBD2g14bOT2YkZ2Ye) | [Alain Souchon](https://open.spotify.com/artist/5LVp2pGNzmOQqXzziBBR5x) | [C'est déjà ça](https://open.spotify.com/album/2aZRmXEvD458ZCk1C0Wdu5) | 3:46 |
 | 47 | [Mangez\-moi ! Mangez\-moi ! \- Ragga Mix](https://open.spotify.com/track/34cT8Qvq2IYoqCQ3dlNvrW) | [Billy Ze Kick et Les Gamins En Folie](https://open.spotify.com/artist/3mWNKpH81QK05ax6Uxbvjg) | [Billy Ze Kick Et Les Gamins En Folie](https://open.spotify.com/album/4kvAnqql69qfbr3YaTN6tJ) | 3:52 |
 | 48 | [Balance\-toi \- Radio Version](https://open.spotify.com/track/6ZfrnowxbITds4rttdhEje) | [Réciprok](https://open.spotify.com/artist/6bp3RLqgKEQTWPbqws84X5) | [Il y a des jours comme ça...](https://open.spotify.com/album/0r2GeqQOV5AU1oHYwz65Xd) | 3:30 |
 | 49 | [Bienvenue chez moi](https://open.spotify.com/track/17UfIUXlkq6u0ZiDqqda1R) | [Florent Pagny](https://open.spotify.com/artist/0g7hZVprd3orBpMrSLWeJ9) | [Bienvenue chez moi](https://open.spotify.com/album/6Pb6dzCoqNp4DdV7pCrfv5) | 4:09 |
 | 50 | [Paris a le Blues](https://open.spotify.com/track/2fJy6kGyMOusAwdzTmxIN3) | [Mad In Paris](https://open.spotify.com/artist/3fsoaS1PLh7xYiJsVb7QR0) | [Mad In Paris](https://open.spotify.com/album/6FGWuEYu8CKh6CQgrB6aoA) | 4:51 |
 
-Snapshot ID: `MCxmMmJiOTg5ZDU0MjY5OTU1N2JkMjMxZWM1NDYwOWJlODAxM2Y1ZTY5`
+Snapshot ID: `MCw5YjUwMjQ0ZmNlNDU2OTY5NTUxMDQzNDRiODZjY2QyYmM3ZDZlZDM4`

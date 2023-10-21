@@ -431,6 +431,24 @@
     },
     {
       "album": {
+        "name": "When Will We Land?",
+        "url": "https://open.spotify.com/album/5LASDBDtLLEt3QqVtgOoaM"
+      },
+      "artists": [
+        {
+          "name": "Barry Can't Swim",
+          "url": "https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246840,
+      "name": "Always Get Through To You",
+      "url": "https://open.spotify.com/track/0g8nIlk2ltpZP8lYlPvRx1"
+    },
+    {
+      "album": {
         "name": "Angels (Jacana People Remix)",
         "url": "https://open.spotify.com/album/0hPU9q7zQCVKlD9LfRGlIl"
       },
@@ -1208,6 +1226,28 @@
       "duration_ms": 179293,
       "name": "Body",
       "url": "https://open.spotify.com/track/0eh14ZZmEHKKOdZvYbFUxF"
+    },
+    {
+      "album": {
+        "name": "The Juicebox",
+        "url": "https://open.spotify.com/album/2EpbqvHpamUFsBboRaSbG1"
+      },
+      "artists": [
+        {
+          "name": "Emotional Oranges",
+          "url": "https://open.spotify.com/artist/12trz2INGglrKMzLmg0y2C"
+        },
+        {
+          "name": "Biig Piig",
+          "url": "https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150700,
+      "name": "Body & Soul (feat. Biig Piig)",
+      "url": "https://open.spotify.com/track/6ltcWFTmyRQbSNCNOTK0uM"
     },
     {
       "album": {
@@ -2048,7 +2088,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-21",
       "duration_ms": 204878,
       "name": "Diana (You Don't Even Know)",
       "url": "https://open.spotify.com/track/2j8aMIzFC5QhzyMOx7Sbj6"
@@ -3714,7 +3754,7 @@
       ],
       "date_added": "2022-04-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-21",
       "duration_ms": 208505,
       "name": "Hallucinate",
       "url": "https://open.spotify.com/track/1nYeVF5vIBxMxfPoL0SIWg"
@@ -7237,6 +7277,24 @@
     },
     {
       "album": {
+        "name": "Rock The Party",
+        "url": "https://open.spotify.com/album/2LTuGODIFJpmyHUmr14uOK"
+      },
+      "artists": [
+        {
+          "name": "Wh0",
+          "url": "https://open.spotify.com/artist/132Hhe61bhvXtkygENHZHA"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165602,
+      "name": "Rock The Party",
+      "url": "https://open.spotify.com/track/11r62EzV26sCJ6Avh8SUcz"
+    },
+    {
+      "album": {
         "name": "Sixteen Oceans",
         "url": "https://open.spotify.com/album/5gIa8hTQGPwVeNYjDwrraZ"
       },
@@ -7324,6 +7382,24 @@
       "duration_ms": 210293,
       "name": "Salted Caramel Ice Cream",
       "url": "https://open.spotify.com/track/13QZb2ua0JY2VJU9wG4PmQ"
+    },
+    {
+      "album": {
+        "name": "Saving Up",
+        "url": "https://open.spotify.com/album/3XTTqxcEOZgaTobJlRefvF"
+      },
+      "artists": [
+        {
+          "name": "Dom Dolla",
+          "url": "https://open.spotify.com/artist/205i7E8fNVfojowcQSfK9m"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207514,
+      "name": "Saving Up",
+      "url": "https://open.spotify.com/track/787Y2idwCU2Rk60Prv4wpr"
     },
     {
       "album": {
@@ -7440,7 +7516,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-21",
       "duration_ms": 197282,
       "name": "Serotonin",
       "url": "https://open.spotify.com/track/7CR35H2vSr3ly23iqFEpIC"
@@ -7866,7 +7942,7 @@
       ],
       "date_added": "2022-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-21",
       "duration_ms": 323109,
       "name": "Something About Your Love",
       "url": "https://open.spotify.com/track/7cujJQPxdHeDz5mKLmv0bu"

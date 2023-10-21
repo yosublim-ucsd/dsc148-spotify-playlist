@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "The hardest songs, loud. Very loud. Cover: Beartooth",
+  "description": "The hardest songs, loud. Very loud. Cover: Oxymorrons",
   "name": "Rock Hard",
   "tracks": [
     {
@@ -1258,7 +1258,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-21",
       "duration_ms": 216280,
       "name": "Bang Ya Head (feat. Fred Durst)",
       "url": "https://open.spotify.com/track/6cGoPSnvtuT3NnHH4DaDU0"
@@ -1710,7 +1710,7 @@
       ],
       "date_added": "2022-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-21",
       "duration_ms": 189736,
       "name": "Black Sheep",
       "url": "https://open.spotify.com/track/7mJycBkeGO6rBA2zIQsP5t"
@@ -2208,6 +2208,24 @@
       "duration_ms": 179688,
       "name": "Break the Mold",
       "url": "https://open.spotify.com/track/5hjvbLXLfNgRmylohmmSy7"
+    },
+    {
+      "album": {
+        "name": "Breakout // Silver",
+        "url": "https://open.spotify.com/album/0IYNo3hRLEUi2FMFrsN4Uy"
+      },
+      "artists": [
+        {
+          "name": "Amber Wild",
+          "url": "https://open.spotify.com/artist/2j6qFsDbHa8AvJu9srRBrS"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223080,
+      "name": "Breakout",
+      "url": "https://open.spotify.com/track/3rWtfyhHQM7PmeXJjcK2D2"
     },
     {
       "album": {
@@ -5987,6 +6005,24 @@
     },
     {
       "album": {
+        "name": "Freaky",
+        "url": "https://open.spotify.com/album/4EqlXSe3nybb853Ey0ZvMy"
+      },
+      "artists": [
+        {
+          "name": "IMMERSE",
+          "url": "https://open.spotify.com/artist/3S3vmLBBxnscJGPLeqVKQN"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192542,
+      "name": "Freaky",
+      "url": "https://open.spotify.com/track/6HNdvD3w5HAV9FDUQAZzLS"
+    },
+    {
+      "album": {
         "name": "FREEZE MY MIND",
         "url": "https://open.spotify.com/album/4oftMPvr73IcHkeTxDSlwr"
       },
@@ -6922,7 +6958,7 @@
       ],
       "date_added": "2023-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-21",
       "duration_ms": 221200,
       "name": "Hate Me (feat. Loveless)",
       "url": "https://open.spotify.com/track/70RYhIYRYeL1YNJcAIBjjm"
@@ -7688,7 +7724,7 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-21",
       "duration_ms": 199196,
       "name": "I Hope You Choke!",
       "url": "https://open.spotify.com/track/5q6pgHMUEIdq78NVmmytL5"
@@ -7728,7 +7764,7 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-21",
       "duration_ms": 188859,
       "name": "I Remember",
       "url": "https://open.spotify.com/track/3XDP2NR8lCbyU2mohcsZXq"
@@ -8346,7 +8382,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-21",
       "duration_ms": 245240,
       "name": "Jesus He Knows Me",
       "url": "https://open.spotify.com/track/1zd8h6ho3mlbhkZnADHVzP"
@@ -9419,6 +9455,24 @@
     },
     {
       "album": {
+        "name": "Melanin Punk",
+        "url": "https://open.spotify.com/album/0l0pfg7fOxU9YHQkHhXTTD"
+      },
+      "artists": [
+        {
+          "name": "Oxymorrons",
+          "url": "https://open.spotify.com/artist/3GDw9k8FzlOUxPzDUaUhlZ"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193136,
+      "name": "Look Alive (Netic)",
+      "url": "https://open.spotify.com/track/4LAI7qgpkx8uoMdpobZrPg"
+    },
+    {
+      "album": {
         "name": "Look Alive (Netic)",
         "url": "https://open.spotify.com/album/5Emtf7kVxU2hgZqDquGux1"
       },
@@ -9430,7 +9484,7 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-21",
       "duration_ms": 193136,
       "name": "Look Alive (Netic)",
       "url": "https://open.spotify.com/track/5NGlVLen8xMEJ6TnwGTCtI"
@@ -9538,7 +9592,7 @@
       ],
       "date_added": "2023-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-21",
       "duration_ms": 199342,
       "name": "Lost",
       "url": "https://open.spotify.com/track/373gDROnujxNTFa1FojYIl"
@@ -10400,7 +10454,7 @@
       ],
       "date_added": "2023-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-21",
       "duration_ms": 198486,
       "name": "Monsters (feat. Aaron Gillespie of Underoath)",
       "url": "https://open.spotify.com/track/26bgULl57xDw3Pska642zL"
@@ -10838,6 +10892,24 @@
       "duration_ms": 187787,
       "name": "New Era",
       "url": "https://open.spotify.com/track/4zNXCkMYWJSHN7t23Eek2r"
+    },
+    {
+      "album": {
+        "name": "Hard Reset",
+        "url": "https://open.spotify.com/album/5H49CClHBLpUgyKN8ZCour"
+      },
+      "artists": [
+        {
+          "name": "The Word Alive",
+          "url": "https://open.spotify.com/artist/1CF8aEN939swnuIZGFI7Hk"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176000,
+      "name": "New Reality",
+      "url": "https://open.spotify.com/track/60Eor8frfId0DeigqrVSE4"
     },
     {
       "album": {
@@ -12836,6 +12908,24 @@
     {
       "album": {
         "name": "Revelation",
+        "url": "https://open.spotify.com/album/3IZrMNBLyFuhJYlVRgPdhD"
+      },
+      "artists": [
+        {
+          "name": "Many Eyes",
+          "url": "https://open.spotify.com/artist/001Hfjmktqije9a7IvGuFb"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253746,
+      "name": "Revelation",
+      "url": "https://open.spotify.com/track/0cWQy0wDjVJbuUDDZabWfu"
+    },
+    {
+      "album": {
+        "name": "Revelation",
         "url": "https://open.spotify.com/album/5Z1UhmhiCVlbtou41VXwP8"
       },
       "artists": [
@@ -13106,7 +13196,7 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-21",
       "duration_ms": 201402,
       "name": "Safe And Sound",
       "url": "https://open.spotify.com/track/12D1KLVjHdKiAckFi6ZEP1"
@@ -14312,7 +14402,7 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-21",
       "duration_ms": 192000,
       "name": "SPIDERS AND LUCID DREAMING",
       "url": "https://open.spotify.com/track/7L6wWDgQ11Ds9hh4cWIEFD"
@@ -16497,6 +16587,24 @@
     },
     {
       "album": {
+        "name": "TK421",
+        "url": "https://open.spotify.com/album/7IncAEknANwQthqiwWySBP"
+      },
+      "artists": [
+        {
+          "name": "Lenny Kravitz",
+          "url": "https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195266,
+      "name": "TK421",
+      "url": "https://open.spotify.com/track/58d6jpiFmElbSX36MnnGFO"
+    },
+    {
+      "album": {
         "name": "Together Right",
         "url": "https://open.spotify.com/album/5wiYwpkw5aYVKIot1wmrO9"
       },
@@ -16548,6 +16656,24 @@
       "duration_ms": 145367,
       "name": "Tomorrow Never Comes",
       "url": "https://open.spotify.com/track/7jm8Fq5juL6aYdQC3aHj83"
+    },
+    {
+      "album": {
+        "name": "Tonight (demo)",
+        "url": "https://open.spotify.com/album/4xqKuomusHqZlIfH7Ys1ag"
+      },
+      "artists": [
+        {
+          "name": "Amira Elfeky",
+          "url": "https://open.spotify.com/artist/6Z4kwq0LOaYQW2CqudoOIk"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194666,
+      "name": "Tonight (demo)",
+      "url": "https://open.spotify.com/track/6p5duPGjAdVYLq2kOGXYUD"
     },
     {
       "album": {
@@ -17546,7 +17672,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-21",
       "duration_ms": 375026,
       "name": "We Love You",
       "url": "https://open.spotify.com/track/4Cb1wCZV9jCeBMcVYH9ihH"
@@ -17680,7 +17806,7 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-21",
       "duration_ms": 239863,
       "name": "Werewolf (feat. Bring Me The Horizon)",
       "url": "https://open.spotify.com/track/3ySqZ8yGoh4Emi9HiPCCdP"
@@ -18020,10 +18146,28 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-21",
       "duration_ms": 174919,
       "name": "WILDLIFE",
       "url": "https://open.spotify.com/track/3RDSLS7jjYebu90AsfXHsk"
+    },
+    {
+      "album": {
+        "name": "Will I Run?",
+        "url": "https://open.spotify.com/album/3vSYFCoj6LqTRxdYh9r6pq"
+      },
+      "artists": [
+        {
+          "name": "Hollow Front",
+          "url": "https://open.spotify.com/artist/50YmW8f4U5IxTIwYI9mGAe"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242195,
+      "name": "Will I Run?",
+      "url": "https://open.spotify.com/track/2FLVcNtaeQPcfpW6B15IEE"
     },
     {
       "album": {

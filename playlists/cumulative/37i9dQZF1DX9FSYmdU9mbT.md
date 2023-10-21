@@ -4,7 +4,7 @@
 
 > Os grandes artistas da MPB\. Foto: Elis Regina
 
-140 songs - 8 hr 57 min
+141 songs - 9 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,7 +20,7 @@
 | [Anunciação \- Ao Vivo](https://open.spotify.com/track/3JrFuUhcNLHiD3hJPVaHTy) | [Alceu Valença](https://open.spotify.com/artist/559vxOLTzlAv0zB77JMcdG), [Elba Ramalho](https://open.spotify.com/artist/4ph6Bt1mkDlmf32PSvRa8A), [Geraldo Azevedo](https://open.spotify.com/artist/65TbyndeGrDlFd4IkZNfbN) | [O Grande Encontro 20 Anos: Alceu, Elba e Geraldo \(Ao Vivo\)](https://open.spotify.com/album/33HKZh4hP8FmsVmPGoaDYC) | 5:27 | 2021-12-31 |  |
 | [Apenas Mais uma de Amor](https://open.spotify.com/track/6YNCE5qtrTa7YcnAOAEsDQ) | [Lulu Santos](https://open.spotify.com/artist/0A1oy7PC7fdzURgaLaWkL1) | [Lulu Acústico](https://open.spotify.com/album/14xCfgcBE9uCrwwR36NoVB) | 3:38 | 2021-12-31 |  |
 | [Aquarela](https://open.spotify.com/track/1bnSsCeLiWIDcw214J5Eso) | [Toquinho](https://open.spotify.com/artist/7rPqFVgJYARiFsLDlN6W6y) | [Nossa Velha Infância](https://open.spotify.com/album/0J3tpUINMvTiOCklBoxBb5) | 4:13 | 2022-11-09 | 2022-11-13 |
-| [Aquarela](https://open.spotify.com/track/5iPTYBZyOEleyWkE7NTYCc) | [Toquinho](https://open.spotify.com/artist/7rPqFVgJYARiFsLDlN6W6y) | [Personalidade](https://open.spotify.com/album/10hZyN6wHBQ94xt8aoaq9o) | 4:16 | 2022-06-24 |  |
+| [Aquarela](https://open.spotify.com/track/5iPTYBZyOEleyWkE7NTYCc) | [Toquinho](https://open.spotify.com/artist/7rPqFVgJYARiFsLDlN6W6y) | [Personalidade](https://open.spotify.com/album/10hZyN6wHBQ94xt8aoaq9o) | 4:16 | 2022-06-24 | 2023-10-21 |
 | [Aquarela](https://open.spotify.com/track/4LhxdvP3lfgH3ciOyO1BX1) | [Toquinho](https://open.spotify.com/artist/7rPqFVgJYARiFsLDlN6W6y) | [Aquarela](https://open.spotify.com/album/4mlIaAkjf82LrzAw4Ez1vl) | 4:18 | 2021-12-31 | 2022-07-29 |
 | [Aquarela](https://open.spotify.com/track/5JP9AC0yt5Q2wtWjY9Atv9) | [Toquinho](https://open.spotify.com/artist/7rPqFVgJYARiFsLDlN6W6y), [Carlinhos Brown](https://open.spotify.com/artist/5jvQoouPSDvUEwynz5KPpv) | [Novas Cores, Eternas Canções \(Deluxe\)](https://open.spotify.com/album/7nowUNu0pHcEL9qK24CfRR) | 3:25 | 2023-04-07 |  |
 | [Aquarela](https://open.spotify.com/track/5y2kS20GQdDWwyTEa63GIf) | [Toquinho](https://open.spotify.com/artist/7rPqFVgJYARiFsLDlN6W6y), [Carlinhos Brown](https://open.spotify.com/artist/5jvQoouPSDvUEwynz5KPpv) | [Novas Cores, Eternas Canções \(Deluxe\)](https://open.spotify.com/album/5oqdvIvL2zEZv6UFUMwClP) | 3:25 | 2023-04-07 | 2023-07-23 |
@@ -137,6 +137,7 @@
 | [Sorte](https://open.spotify.com/track/6yHqnquTGEC6ABIRfrBp6x) | [Ney Matogrosso](https://open.spotify.com/artist/2SFIMUkCdZowbeisskDdhn) | [Sorte](https://open.spotify.com/album/6zjlLpKWlTOedQcBlJbuNh) | 3:04 | 2021-12-31 |  |
 | [Toda Menina Baiana \- Live](https://open.spotify.com/track/0drLWHcGw3j6xZKn7zGJ7X) | [Caetano Veloso](https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ), [Gilberto Gil](https://open.spotify.com/artist/7oEkUINVIj1Nr3Wnj8tzqr), [Ivete Sangalo](https://open.spotify.com/artist/7dzq55YG3wjViqexDwiycQ) | [Especial Ivete, Gil E Caetano](https://open.spotify.com/album/3hOAYii7ltL7zatrSVtBQc) | 3:22 | 2021-12-31 |  |
 | [Toda Menina Baiana \- Live](https://open.spotify.com/track/0oTinlPq1IRtjP6n7ZsXjy) | [Caetano Veloso](https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ), [Gilberto Gil](https://open.spotify.com/artist/7oEkUINVIj1Nr3Wnj8tzqr), [Ivete Sangalo](https://open.spotify.com/artist/7dzq55YG3wjViqexDwiycQ) | [Inverno MPB](https://open.spotify.com/album/24xQXjLv8gfAe8ndJ1vyxb) | 3:22 | 2022-06-24 | 2023-08-11 |
+| [Tua Fera](https://open.spotify.com/track/6bOv2Ns9jgO9lXRM7QyJUd) | [Joanna](https://open.spotify.com/artist/3TbM7sfQ1oDiZVGScaKr02) | [Joanna '88](https://open.spotify.com/album/3Dyd7zVKxrtVYeSuSY5vnR) | 5:48 | 2023-10-20 |  |
 | [Tá perdoado](https://open.spotify.com/track/5ua6ByZaOw4hlMP6i8Vjdz) | [Maria Rita](https://open.spotify.com/artist/1C8UBSZs5rOPfxuxTMS6OI) | [Samba Meu](https://open.spotify.com/album/6oExFGPwXHfHwBFsgQsUC9) | 3:47 | 2021-12-31 |  |
 | [Vitoriosa](https://open.spotify.com/track/4CG3tZlqn6KjM4wGSRaO8e) | [Ivan Lins](https://open.spotify.com/artist/64neTfIIdYKNhJ9zxoz3jF) | [Meu Pai É um Romântico](https://open.spotify.com/album/7moS3MqWSLCfY7QKGUk2WJ) | 3:58 | 2022-11-09 | 2022-11-14 |
 | [Vitoriosa](https://open.spotify.com/track/3vJJqxkNLVHibD3gRttOHP) | [Ivan Lins](https://open.spotify.com/artist/64neTfIIdYKNhJ9zxoz3jF) | [Ivan Lins](https://open.spotify.com/album/3hXVmp2gOuoo2Oa3glN108) | 4:01 | 2022-06-24 |  |
@@ -147,6 +148,6 @@
 | [Águas De Março](https://open.spotify.com/track/15ouqiBsgL12olEwP3COsH) | [Elis Regina](https://open.spotify.com/artist/0yFvXd36g5sNKYDi0Kkvl8), [Antônio Carlos Jobim](https://open.spotify.com/artist/3pO5VjZ4wOHCMBXOvbMISG) | [Elis & Tom](https://open.spotify.com/album/3SE9n6EaVOJ81KA1KPLUWS) | 3:34 | 2022-11-09 |  |
 | [Águas De Março](https://open.spotify.com/track/3PzD3zi0UeNw3dTYGbAZCy) | [Elis Regina](https://open.spotify.com/artist/0yFvXd36g5sNKYDi0Kkvl8), [Antônio Carlos Jobim](https://open.spotify.com/artist/3pO5VjZ4wOHCMBXOvbMISG) | [Mulheres da MPB](https://open.spotify.com/album/5xmXt1N4JJU6oupEeC2z2B) | 3:34 | 2022-11-09 | 2022-11-14 |
 | [É O Que Me Interessa \- Ao Vivo](https://open.spotify.com/track/4NTR6pdFJ0WeDcNk5SQ222) | [Lenine](https://open.spotify.com/artist/4YLBdrR3DVSMncm785NH6C) | [Lenine Em Trânsito \(Ao Vivo / Deluxe\)](https://open.spotify.com/album/2i3C0flV9Ja7NWidhVLKl2) | 4:01 | 2021-12-31 | 2023-05-27 |
-| [É o Que Me Interessa \- Ao Vivo](https://open.spotify.com/track/6LjrP4M1HHQk6CbpV4Cvdd) | [Lenine](https://open.spotify.com/artist/4YLBdrR3DVSMncm785NH6C) | [Lenine Em Trânsito \(Deluxe\) \[Ao Vivo\]](https://open.spotify.com/album/2qE704S1dUX6fllitqbJWz) | 4:01 | 2023-04-07 |  |
+| [É o Que Me Interessa \- Ao Vivo](https://open.spotify.com/track/6LjrP4M1HHQk6CbpV4Cvdd) | [Lenine](https://open.spotify.com/artist/4YLBdrR3DVSMncm785NH6C) | [Lenine Em Trânsito \(Deluxe\) \[Ao Vivo\]](https://open.spotify.com/album/2qE704S1dUX6fllitqbJWz) | 4:01 | 2023-04-07 | 2023-10-21 |
 
 \*This playlist was first scraped on 2022-01-18. Prior content cannot be recovered.

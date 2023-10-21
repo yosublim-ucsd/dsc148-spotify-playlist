@@ -2,14 +2,14 @@
 
 ### [piola](https://open.spotify.com/playlist/37i9dQZF1DX6hYrNXR8P2U)
 
-> Más música, menos etiquetas\. <br/>📷 WOS
+> Más música, menos etiquetas\. <br/>📷 Dillom
 
-100 songs - 5 hr 18 min
+102 songs - 5 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [19](https://open.spotify.com/track/00WIAzbf3lxd19SrbvsC2u) | [Catalina Ammaturo](https://open.spotify.com/artist/2qDGiovKpP5yS5jD2WfH7a) | [19](https://open.spotify.com/album/7zZQf07iMUNH5YCFePfCtS) | 3:27 | 2023-10-13 |  |
-| [40 y MM](https://open.spotify.com/track/7DBZjgdH5YHr8CQY5DKDAc) | [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr) | [40 y MM](https://open.spotify.com/album/3kwh1wumBMqfivrWVKEGNO) | 3:22 | 2023-10-13 |  |
+| [40 y MM](https://open.spotify.com/track/7DBZjgdH5YHr8CQY5DKDAc) | [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr) | [40 y MM](https://open.spotify.com/album/3kwh1wumBMqfivrWVKEGNO) | 3:22 | 2023-10-13 | 2023-10-21 |
 | [Abrazarnos](https://open.spotify.com/track/0RcrD7lqjXRpgM3kc9Ukwv) | [Emmanuel Horvilleur](https://open.spotify.com/artist/3Pc0Gebx1aAAJlZh3zysmI) | [Abrazarnos](https://open.spotify.com/album/1p95pqB21gB14xssLZ6AjE) | 3:34 | 2023-10-13 |  |
 | [Alquiler](https://open.spotify.com/track/0ZGYFU5Vx8UIWLax710E0g) | [Eve Calletti](https://open.spotify.com/artist/55eyl0WBtTXDb9jpXVS9AP) | [Alquiler](https://open.spotify.com/album/7KRroI1HJyQs0lltlKHsCI) | 2:35 | 2023-10-13 |  |
 | [AMIGOS NUEVOS](https://open.spotify.com/track/2IEO7E3Qh7nYgKjdVagZKq) | [Dillom](https://open.spotify.com/artist/4cJD9t5QBFTUQcd3xfbOb2) | [POST MORTEM](https://open.spotify.com/album/39g3CsFBc9YK9Z6AbvvkgF) | 2:19 | 2023-10-13 |  |
@@ -32,6 +32,7 @@
 | [Cuando la Luna Caiga](https://open.spotify.com/track/4kbQVab7ftejREWGo8ebUi) | [Pyura](https://open.spotify.com/artist/77cMdN9JK8HlrCtHdPKSHi), [Plastilina](https://open.spotify.com/artist/0NAzHtE2ceqgTPJZfrhzG9) | [Cuando la Luna Caiga](https://open.spotify.com/album/0Q64aIzoIOqP5Xw5dzbn35) | 4:33 | 2023-10-13 |  |
 | [CUANDO ME CANSE DE MI](https://open.spotify.com/track/2FOHQIcqFT3et7rAioADgK) | [DANDARA](https://open.spotify.com/artist/4K7qwv5pUgPFaORjdUQFb0), [Urbanse](https://open.spotify.com/artist/66X3l109SsMthurq0pHk3g) | [CUANDO ME CANSE DE MI](https://open.spotify.com/album/4HP7e9eSfKsG7liqyEBalt) | 3:54 | 2023-10-13 |  |
 | [Cure For Me \(feat\. Silvana Estrada\) \- Live](https://open.spotify.com/track/6PzoioDNJ88Vpgd9ZmyOVG) | [AURORA](https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N), [Silvana Estrada](https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7) | [Cure For Me \(feat\. Silvana Estrada\) \[Live\]](https://open.spotify.com/album/4DDaWo4xz93U8e9BTTaLGI) | 3:51 | 2023-10-13 |  |
+| [Dame Una Oportunidad](https://open.spotify.com/track/3TedsdGhsTOv7afpvNapKc) | [Julieta Venegas](https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm) | [Dame Una Oportunidad](https://open.spotify.com/album/6QllYuDuxeQNLGTfEOK3vO) | 3:18 | 2023-10-20 |  |
 | [Delirando](https://open.spotify.com/track/2YK1bWEZYctEqUmk6dnTFi) | [Eloisa](https://open.spotify.com/artist/1GbHLsyBjx0L5uJoPRoelG) | [Delirando](https://open.spotify.com/album/5IO7Xu0Nb5gP9DqNLsA0zf) | 2:34 | 2023-10-13 |  |
 | [DESCARTABLE](https://open.spotify.com/track/7J00DHotXFrXatl9X6xY9r) | [WOS](https://open.spotify.com/artist/5YCc6xS5Gpj3EkaYGdjyNK) | [DESCARTABLE](https://open.spotify.com/album/7irH2ykRChk6KjZ1Q8WmwY) | 3:01 | 2023-10-13 |  |
 | [Desorden](https://open.spotify.com/track/52EmSXkdJ2wvrfu4aUAfoY) | [Varese](https://open.spotify.com/artist/5DG278QHnEKfWW9zAGFeRg) | [Desorden](https://open.spotify.com/album/1AePedyRPFkUCs80EPerMZ) | 3:56 | 2023-10-13 |  |
@@ -50,7 +51,7 @@
 | [Hasta Que Llegue El Verano](https://open.spotify.com/track/6o2txs2fVptvzLjvlhbTjH) | [Chechi de Marcos](https://open.spotify.com/artist/7Mxqqaq1c8KVXiVLbdGasH), [Conociendo Rusia](https://open.spotify.com/artist/79R7PUc6T6j09G8mJzNml2) | [Hasta Que Llegue El Verano](https://open.spotify.com/album/6TDE63e1LQdZ3A688Kerur) | 3:47 | 2023-10-13 |  |
 | [HULK](https://open.spotify.com/track/37YZ0f70v8Rvh3XP6r9lye) | [Sara Hebe](https://open.spotify.com/artist/4pFUriuYqqAmBCvqF9o6LW) | [HULK](https://open.spotify.com/album/1iRvYnmy5Pf5f1Sny4gizy) | 3:12 | 2023-10-13 |  |
 | [Humo y Menta](https://open.spotify.com/track/7EMBexYQA1lrH1DhoQSnrP) | [El príncipe idiota](https://open.spotify.com/artist/5xEgsOYkENDU9TRoKMWW3u), [Charlie Desidney](https://open.spotify.com/artist/3917O9DQNLgjxTSYOly6Uu) | [Humo y Menta](https://open.spotify.com/album/6OBbs5S884aHFo58MDOUsZ) | 3:03 | 2023-10-13 |  |
-| [Huracán](https://open.spotify.com/track/1bfVtL4K4hlzxw2enSM40V) | [Luca Bocci](https://open.spotify.com/artist/1h3H1KWtfAC1YRqYrQmXLF) | [Huracán](https://open.spotify.com/album/5IPTv2WalvKpcLN2Znypzs) | 3:11 | 2023-10-13 |  |
+| [Huracán](https://open.spotify.com/track/1bfVtL4K4hlzxw2enSM40V) | [Luca Bocci](https://open.spotify.com/artist/1h3H1KWtfAC1YRqYrQmXLF) | [Huracán](https://open.spotify.com/album/5IPTv2WalvKpcLN2Znypzs) | 3:11 | 2023-10-13 | 2023-10-21 |
 | [Idealizar](https://open.spotify.com/track/5StAfgJRRAOiOvkys7qgBs) | [Santy\-P](https://open.spotify.com/artist/2PFhyG1gFk1fU3Ko3pb5QL) | [Idealizar](https://open.spotify.com/album/7Gpwv2ArJ7unBiWl0ED8Ak) | 2:41 | 2023-10-13 |  |
 | [INFLEXIÓN](https://open.spotify.com/track/0QTklhlD3bQz6vq1QcPKjc) | [Evlay](https://open.spotify.com/artist/2JsDK87cAxuUlz4L4izU7A), [An Espil](https://open.spotify.com/artist/0GEBrC42d3MZT2LpDPh2qt) | [INFLEXIÓN](https://open.spotify.com/album/4q3w1YExFuQ0uXEWd9wFMo) | 3:37 | 2023-10-13 |  |
 | [Ir derecho](https://open.spotify.com/track/7jK1aQltgQJ32aGYj6U7lh) | [El Kuelgue](https://open.spotify.com/artist/6jRUKVZllu1wtgXHbqvUmT) | [Hola Precioso](https://open.spotify.com/album/03oOcZPLDZdsocx9QkkNty) | 3:26 | 2023-10-13 |  |
@@ -108,5 +109,6 @@
 | [Xtasis](https://open.spotify.com/track/3YhDwzSVlVULhqWv2D3M2b) | [FRANSIA](https://open.spotify.com/artist/3wuwaLRUrbF4nI4NQ4Vet7) | [Xtasis](https://open.spotify.com/album/1sTh1Y7r8r24MRuFcLL7pe) | 3:23 | 2023-10-13 |  |
 | [Yegua](https://open.spotify.com/track/1g5e3TeiR729trUSWY5BBa) | [Lali](https://open.spotify.com/artist/22P1OY4TRFRwhP0q29loQ8) | [Spotify Singles](https://open.spotify.com/album/3sjYvK0dmsaQSqQZR5Tn51) | 2:43 | 2023-10-13 |  |
 | [Yo Soy la Disco](https://open.spotify.com/track/0rn3fjWIwf0iy5bEqGDQHC) | [Emmanuel Horvilleur](https://open.spotify.com/artist/3Pc0Gebx1aAAJlZh3zysmI) | [Yo Soy la Disco](https://open.spotify.com/album/4RSicaPRTPGECUSEejgv7g) | 3:23 | 2023-10-13 |  |
+| [¿Cuánto Cotizará Mi Alma?](https://open.spotify.com/track/3HzRUVUhEB5upfj92jcPpI) | [Amelia](https://open.spotify.com/artist/54DOvUaX10WtpRddMhbI4P) | [¿Cuánto Cotizará Mi Alma?](https://open.spotify.com/album/4kQXXs8lhIt8Q3vSLQCO9P) | 3:47 | 2023-10-20 |  |
 
 \*This playlist was first scraped on 2023-10-15. Prior content cannot be recovered.

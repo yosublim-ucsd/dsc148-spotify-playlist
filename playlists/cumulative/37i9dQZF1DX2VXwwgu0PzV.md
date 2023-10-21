@@ -4,7 +4,7 @@
 
 > Music for when you've got your Jesus on and your swag up \. <br/>Cover: <a href="https://open.spotify.com/artist/7JzZd8sCTmIpJW62zNS0ta?si=buZB\_ByvSiaAfMN7mBHiXg">Noël Mio</a>
 
-429 songs - 1 day 1 hr 28 min
+430 songs - 1 day 1 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,7 +22,7 @@
 | [All in All](https://open.spotify.com/track/4Xv7URg3SYCDFNBPjfYCd9) | [Glenn Barnes](https://open.spotify.com/artist/0biIkjNVgihbgL1V4RBILY) | [All in All](https://open.spotify.com/album/4wj9LDl2efBCaLCpKPH7Cl) | 6:34 | 2023-06-30 | 2023-07-07 |
 | [All Praise](https://open.spotify.com/track/3BsOTPBMlPsjA9dApbFuXM) | [Senz](https://open.spotify.com/artist/0sFh3JCmyuSZrPRwwdkTDH) | [All Praise](https://open.spotify.com/album/05dhDZ8PFLjyLQ1hw1Dgc1) | 3:21 | 2023-03-10 | 2023-03-18 |
 | [All the way](https://open.spotify.com/track/4lvZurxRtbkepGI9yE1YRw) | [ANOWI Noah](https://open.spotify.com/artist/46F10sHrFACpiNeOrXxnSY), [Maikon West](https://open.spotify.com/artist/3QKJ7PXenJvvf1MiicgBIG) | [All the way](https://open.spotify.com/album/65E6vK16UeRhr3yBFU78oX) | 2:20 | 2023-06-23 | 2023-07-07 |
-| [Alone](https://open.spotify.com/track/1aJb5rl14uELMauKzgjW0v) | [Anendlessocean](https://open.spotify.com/artist/43bV8yQzojEPet60WrZJau) | [Alone](https://open.spotify.com/album/3lFBphC8ENBweBOgbrCwwl) | 2:43 | 2023-08-11 |  |
+| [Alone](https://open.spotify.com/track/1aJb5rl14uELMauKzgjW0v) | [Anendlessocean](https://open.spotify.com/artist/43bV8yQzojEPet60WrZJau) | [Alone](https://open.spotify.com/album/3lFBphC8ENBweBOgbrCwwl) | 2:43 | 2023-08-11 | 2023-10-21 |
 | [Alone](https://open.spotify.com/track/2Im4gW7xrTDqQFOIjxkb7j) | [Anendlessocean](https://open.spotify.com/artist/43bV8yQzojEPet60WrZJau) | [Decagon](https://open.spotify.com/album/5zcepYAcGr8m0YEmd9k3kl) | 2:43 | 2023-10-13 |  |
 | [Altar](https://open.spotify.com/track/7MwkYzOeTZG3rtNWo6D7kK) | [Hulvey](https://open.spotify.com/artist/3zSrc5vUlUxyDdS0KrxFJO), [Forrest Frank](https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ) | [Altar](https://open.spotify.com/album/1T43dJrSpIutVfxgb6PzEd) | 3:34 | 2023-10-06 |  |
 | [Always](https://open.spotify.com/track/0plxrbRcqrB8keTOROLuZG) | [Sammie Ekpoh](https://open.spotify.com/artist/58Z6C1up0cgaEMwspOtqO0) | [Always](https://open.spotify.com/album/5Mw6o78l98BRNFrARStgZw) | 3:21 | 2023-02-02 | 2023-04-07 |
@@ -231,6 +231,7 @@
 | [Jeje](https://open.spotify.com/track/1LOFnqOoyXiuaT8HUyDrP7) | [Dj Horphuray](https://open.spotify.com/artist/0VQxKhG5uvT0gIDqAuyl4L), [Greatman Takit](https://open.spotify.com/artist/7gYaU22zgz0lVLc0iJEqq5) | [Jesus Music](https://open.spotify.com/album/5JKkyl5RZ00GqSJQ3O7cO0) | 2:27 | 2023-02-02 | 2023-03-25 |
 | [Jesu ni Logo](https://open.spotify.com/track/3QIzMA6hCj4b5jUIrQceax) | [Gaise Baba](https://open.spotify.com/artist/5pFY8yo0PDefGs7laYnNwo), [Gil Joe](https://open.spotify.com/artist/7wEZIbeR4EyyHKhMEvBo5h), [Marizu](https://open.spotify.com/artist/4rwolwLHj97rPwbhyNSeU9) | [A Decade After](https://open.spotify.com/album/2pxHAlyrr3PYW8jQPYxmg5) | 3:57 | 2023-02-02 | 2023-02-11 |
 | [Jesus \(I'm Yours\)](https://open.spotify.com/track/5IpM5VBsjHyHaaGN4vxsqQ) | [Hills Music](https://open.spotify.com/artist/7zG8lYti0IvGed5TIPXATE), [Rehmahz](https://open.spotify.com/artist/2n4Cjxgsst568zKdsmsEnY), [LAMB CULTURE.](https://open.spotify.com/artist/7ekDyLis0zh78DffR8wjW9) | [Jesus \(I'm Yours\)](https://open.spotify.com/album/1MkXYkXFkGcOsGMZtyDSiY) | 2:15 | 2023-04-21 | 2023-05-26 |
+| [Jesus Christ is seen](https://open.spotify.com/track/3vqe006cBlMnYYAmbrYvXj) | [Ebuka Songs](https://open.spotify.com/artist/1voWj2pMS3ApzUroyIcHXM) | [Jesus Christ is seen](https://open.spotify.com/album/6zhXvRi37zhARlTYinBHJp) | 3:03 | 2023-10-20 |  |
 | [Jesus Is Not A Scam \- Live](https://open.spotify.com/track/6qdgk35vRqgJV0hTFREzlw) | [Jimmy D Psalmist](https://open.spotify.com/artist/6weeLM99JwrUAncX6igRcs) | [Jesus Is Not A Scam \(Live\)](https://open.spotify.com/album/0z3XoOAg6Y5r4qxmaEsHRl) | 5:48 | 2023-08-25 | 2023-10-20 |
 | [Jesus You Set Me Free](https://open.spotify.com/track/6B8rlAW9iprZCrz5zld4qw) | [JOSHUA LAZER](https://open.spotify.com/artist/2CtZZgLqDy4tgYKMLHdpO0) | [Jesus You Set Me Free](https://open.spotify.com/album/5h4BZhMSikZrXMR1n1b1tv) | 2:43 | 2023-04-07 | 2023-06-23 |
 | [Jireh \(feat\. Chandler Moore & Naomi Raine\)](https://open.spotify.com/track/1goiRWxiG3GTlODrdDZ7NR) | [Elevation Worship](https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix), [Maverick City Music](https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV), [Chandler Moore](https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk), [Naomi Raine](https://open.spotify.com/artist/4rc8nzClXj7sUjvsHVg6AD) | [Old Church Basement](https://open.spotify.com/album/1lsf7hKaOd3r214nvwmtwg) | 9:58 | 2023-08-11 |  |

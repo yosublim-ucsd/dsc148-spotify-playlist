@@ -248,7 +248,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-21",
       "duration_ms": 256626,
       "name": "Aquarela",
       "url": "https://open.spotify.com/track/5iPTYBZyOEleyWkE7NTYCc"
@@ -2495,6 +2495,24 @@
     },
     {
       "album": {
+        "name": "Joanna '88",
+        "url": "https://open.spotify.com/album/3Dyd7zVKxrtVYeSuSY5vnR"
+      },
+      "artists": [
+        {
+          "name": "Joanna",
+          "url": "https://open.spotify.com/artist/3TbM7sfQ1oDiZVGScaKr02"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 348626,
+      "name": "Tua Fera",
+      "url": "https://open.spotify.com/track/6bOv2Ns9jgO9lXRM7QyJUd"
+    },
+    {
+      "album": {
         "name": "Samba Meu",
         "url": "https://open.spotify.com/album/6oExFGPwXHfHwBFsgQsUC9"
       },
@@ -2702,7 +2720,7 @@
       ],
       "date_added": "2023-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-21",
       "duration_ms": 241241,
       "name": "\u00c9 o Que Me Interessa - Ao Vivo",
       "url": "https://open.spotify.com/track/6LjrP4M1HHQk6CbpV4Cvdd"

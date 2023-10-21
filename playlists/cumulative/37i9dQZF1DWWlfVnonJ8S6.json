@@ -557,6 +557,32 @@
     },
     {
       "album": {
+        "name": "Deva Deva (Lofi Flip)",
+        "url": "https://open.spotify.com/album/1ZG8StWnS1dwUsTsVAWbDC"
+      },
+      "artists": [
+        {
+          "name": "Pritam",
+          "url": "https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU"
+        },
+        {
+          "name": "Arijit Singh",
+          "url": "https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw"
+        },
+        {
+          "name": "VIBIE",
+          "url": "https://open.spotify.com/artist/1btklM4yoTaKiVjLodLrOh"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143535,
+      "name": "Deva Deva - Lofi Flip",
+      "url": "https://open.spotify.com/track/6eA9uBWWbDeDqbhFSPrMSl"
+    },
+    {
+      "album": {
         "name": "Dil Diyan Gallan - LoFi Mix",
         "url": "https://open.spotify.com/album/12bhlzntHlNGwWAzIHij3d"
       },
@@ -804,6 +830,28 @@
       "duration_ms": 201586,
       "name": "Ghumshudaa (Lofi Flip) [feat. King]",
       "url": "https://open.spotify.com/track/5qG6pu4Vq9f7wB0NAso4UN"
+    },
+    {
+      "album": {
+        "name": "Haaye Dard Slowed + Reverb Pitch Down",
+        "url": "https://open.spotify.com/album/3p0UHOI4WmLmabZF4GIIYG"
+      },
+      "artists": [
+        {
+          "name": "Darshan Raval",
+          "url": "https://open.spotify.com/artist/2GoeZ0qOTt6kjsWW4eA6LS"
+        },
+        {
+          "name": "Trosk",
+          "url": "https://open.spotify.com/artist/63VhQFmCaLpDaNuPWftJCN"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211200,
+      "name": "Haaye Dard Slowed + Reverb Pitch Down",
+      "url": "https://open.spotify.com/track/0bZGhUsFXWeABbmqIOfSX4"
     },
     {
       "album": {
@@ -1170,7 +1218,7 @@
       ],
       "date_added": "2022-08-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-01",
+      "date_removed": null,
       "duration_ms": 151968,
       "name": "Janam Janam - Lofi Flip",
       "url": "https://open.spotify.com/track/1VlaAFoLyWmNH0YrOWx7Eg"
@@ -1196,6 +1244,36 @@
       "duration_ms": 184888,
       "name": "Jashne Bahara - Lofi Flip",
       "url": "https://open.spotify.com/track/21hHDH6amg7qm9QR9vfqb9"
+    },
+    {
+      "album": {
+        "name": "Jeeta Tha Jiske Liye (Lo-Fi Remix)",
+        "url": "https://open.spotify.com/album/5dA0Tiz8hxaYB0plLmmIoc"
+      },
+      "artists": [
+        {
+          "name": "Kumar Sanu",
+          "url": "https://open.spotify.com/artist/4K6blSRoklNdpw4mzLxwfn"
+        },
+        {
+          "name": "Alka Yagnik",
+          "url": "https://open.spotify.com/artist/3gBKY0y3dFFVRqicLnVZYz"
+        },
+        {
+          "name": "Ajay Devgan",
+          "url": "https://open.spotify.com/artist/1H7XdAotpijnnZPOlpDJfv"
+        },
+        {
+          "name": "Mann Taneja",
+          "url": "https://open.spotify.com/artist/4nrzV0KNK93wplq40UzfkW"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 282000,
+      "name": "Jeeta Tha Jiske Liye - Lo-Fi Remix",
+      "url": "https://open.spotify.com/track/69K3PXMRmZjHNWIR7YpC10"
     },
     {
       "album": {
@@ -1618,7 +1696,7 @@
       ],
       "date_added": "2023-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-21",
       "duration_ms": 200000,
       "name": "Mahiye Jinna Sohna Lofi Remix",
       "url": "https://open.spotify.com/track/5JEb1IrNFtO44gQ4nZg7hL"
@@ -1704,6 +1782,32 @@
       "duration_ms": 190480,
       "name": "Main Tumhara : Lo-fi Version - Tribute to Sushant Singh Rajput",
       "url": "https://open.spotify.com/track/7uNEFfWr0kPmmyOTfvNMdf"
+    },
+    {
+      "album": {
+        "name": "Manchala (Lofi Flip)",
+        "url": "https://open.spotify.com/album/3Reg7FLsxOjXIq5rgh6us8"
+      },
+      "artists": [
+        {
+          "name": "Kritiman Mishra",
+          "url": "https://open.spotify.com/artist/5OD147PIZedUodUrxiEqEX"
+        },
+        {
+          "name": "Shafqat Amanat Ali",
+          "url": "https://open.spotify.com/artist/5SuRAj1A9FEHj5NxS86YAm"
+        },
+        {
+          "name": "Vishal-Shekhar",
+          "url": "https://open.spotify.com/artist/6Mv8GjQa7LKUGCAqa9qqdb"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188571,
+      "name": "Manchala - Lofi Flip",
+      "url": "https://open.spotify.com/track/0AyazRXKKJsyEHc4SvAYgr"
     },
     {
       "album": {
@@ -2104,7 +2208,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-21",
       "duration_ms": 285656,
       "name": "Nahin Milta",
       "url": "https://open.spotify.com/track/0cUdmruT6kjxa5KpteSdwc"
@@ -2230,7 +2334,7 @@
       ],
       "date_added": "2023-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-21",
       "duration_ms": 410026,
       "name": "Paniya",
       "url": "https://open.spotify.com/track/0UaDj2d7v1a1CzyMeigKiX"
@@ -2704,6 +2808,28 @@
       "duration_ms": 267834,
       "name": "Saiyyan - Lofi Flip",
       "url": "https://open.spotify.com/track/77IPBSEbMAiH7gOGfLllKz"
+    },
+    {
+      "album": {
+        "name": "90s Love Lofi Mix",
+        "url": "https://open.spotify.com/album/79PMTVnmE16dRReyS2Q5Uy"
+      },
+      "artists": [
+        {
+          "name": "Alka Yagnik",
+          "url": "https://open.spotify.com/artist/3gBKY0y3dFFVRqicLnVZYz"
+        },
+        {
+          "name": "Pratik Gadre",
+          "url": "https://open.spotify.com/artist/6uUpEcCX17G8P2PhFwHGDL"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156585,
+      "name": "Sajan Sajan Teri Dulhan (Lofi)",
+      "url": "https://open.spotify.com/track/3xE5UlsKs6c0HYS1W8ZqeP"
     },
     {
       "album": {

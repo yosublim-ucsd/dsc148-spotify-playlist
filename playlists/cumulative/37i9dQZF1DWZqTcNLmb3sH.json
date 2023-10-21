@@ -2261,6 +2261,32 @@
     },
     {
       "album": {
+        "name": "Badavana Hrudaya (From \"Garadi\")",
+        "url": "https://open.spotify.com/album/6Gunb1nReLJv4aiECOyuoH"
+      },
+      "artists": [
+        {
+          "name": "Vijay Prakash",
+          "url": "https://open.spotify.com/artist/4iA6bUhiZyvRKJf4FNVX39"
+        },
+        {
+          "name": "V. Harikrishna",
+          "url": "https://open.spotify.com/artist/2zPbgeprcP9vP4hbb0xQUX"
+        },
+        {
+          "name": "Yogaraj Bhat",
+          "url": "https://open.spotify.com/artist/09Vx5BBfyoDuot8jRhMVd1"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271333,
+      "name": "Badavana Hrudaya (From \"Garadi\")",
+      "url": "https://open.spotify.com/track/3LDvqJXBZPbzcQACtexfTv"
+    },
+    {
+      "album": {
         "name": "Jai Bhim (Kannada) [Original Motion Picture Soundtrack]",
         "url": "https://open.spotify.com/album/2mKp7nZpE6Hvsv1EE9uIMx"
       },
@@ -2748,6 +2774,24 @@
       "duration_ms": 279000,
       "name": "Beesi Baruva Gaali (From \"Tanuja\")",
       "url": "https://open.spotify.com/track/3G42lzA61ZRC9g5SSz3dQ0"
+    },
+    {
+      "album": {
+        "name": "Bejaru (From \"Onty Bunty Love Story\")",
+        "url": "https://open.spotify.com/album/67dQta8A17Oc9sMCYuzUwu"
+      },
+      "artists": [
+        {
+          "name": "Vishak Naglapur",
+          "url": "https://open.spotify.com/artist/5p9aoNIm2ZPMWAM1EUTL0F"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264999,
+      "name": "Bejaru (From \"Onty Bunty Love Story\")",
+      "url": "https://open.spotify.com/track/6F898H615c94hTQoKfCs3T"
     },
     {
       "album": {
@@ -3766,6 +3810,36 @@
       "duration_ms": 61866,
       "name": "Chaser - From \"Chaser\"",
       "url": "https://open.spotify.com/track/6d2sQoVR7WUFiIQtBNjzLa"
+    },
+    {
+      "album": {
+        "name": "Cheppava (From \"12th Fail\")",
+        "url": "https://open.spotify.com/album/21zfWV7r7NeZuBuaaucrUS"
+      },
+      "artists": [
+        {
+          "name": "Deepthi Suresh",
+          "url": "https://open.spotify.com/artist/4PY2xnTu90K0hvkgcljRJl"
+        },
+        {
+          "name": "S.P. Abhishek",
+          "url": "https://open.spotify.com/artist/0mT8jQ7Apit18Ny3xJ7r9g"
+        },
+        {
+          "name": "Shantanu Moitra",
+          "url": "https://open.spotify.com/artist/6hpDlOvqsnIxrPegGTWVY1"
+        },
+        {
+          "name": "Suresh Banisetty",
+          "url": "https://open.spotify.com/artist/6NuYXblq1QZ2PdAyP9Y9fF"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 305684,
+      "name": "Cheppava (From \"12th Fail\")",
+      "url": "https://open.spotify.com/track/2eaimnpsv7vegdFnqi9egj"
     },
     {
       "album": {
@@ -6574,7 +6648,7 @@
       ],
       "date_added": "2023-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-21",
       "duration_ms": 225600,
       "name": "Garadi Title Track (From \"Garadi\")",
       "url": "https://open.spotify.com/track/6uaOJCLS6kZXidqfykTAgP"
@@ -8836,7 +8910,7 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-21",
       "duration_ms": 235312,
       "name": "Jana Jana Hodi Shiva (From \"Mangalavaaram\")",
       "url": "https://open.spotify.com/track/4DoZrVNR0Ko2Pp99MpfG76"
@@ -9994,7 +10068,7 @@
       ],
       "date_added": "2023-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-21",
       "duration_ms": 243080,
       "name": "Kanna Baana - From \"Chikku\"",
       "url": "https://open.spotify.com/track/46giPH7ozi1yQhqFoMbQ0u"
@@ -10138,7 +10212,7 @@
       ],
       "date_added": "2023-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-21",
       "duration_ms": 91391,
       "name": "Kannage Heertavne (From \"Thothapuri 2\")",
       "url": "https://open.spotify.com/track/7ATXgR6z3OFbuhW4r4ZG48"
@@ -10896,7 +10970,7 @@
       ],
       "date_added": "2023-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-21",
       "duration_ms": 210666,
       "name": "Kushi Title Song (From \"Kushi\") (Kannada)",
       "url": "https://open.spotify.com/track/6L4iCUZgIHf6OcxA32cMdz"
@@ -17916,6 +17990,40 @@
       "duration_ms": 186382,
       "name": "Rich Rich (From \"Maha Purusha\")",
       "url": "https://open.spotify.com/track/2xvbI9OQX8cAUviRI1HUjW"
+    },
+    {
+      "album": {
+        "name": "Shantala (Kannada)",
+        "url": "https://open.spotify.com/album/4RKiBuhfvguhg2QNK4ltWg"
+      },
+      "artists": [
+        {
+          "name": "Vishal Chandrashekhar",
+          "url": "https://open.spotify.com/artist/0rL4uL3xfYOt2p7NHhS8qr"
+        },
+        {
+          "name": "Priya Prakash",
+          "url": "https://open.spotify.com/artist/3hHVnX47eTvjEzihcOWOG1"
+        },
+        {
+          "name": "Feji",
+          "url": "https://open.spotify.com/artist/5u4EqWwVkgK60JH2ZkPybR"
+        },
+        {
+          "name": "Renuka",
+          "url": "https://open.spotify.com/artist/2o7fW1wIbJrOVVeNsNEJbo"
+        },
+        {
+          "name": "Kinnal Raj",
+          "url": "https://open.spotify.com/artist/6fYwsvBDdHgmAtfnjGJqOD"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220086,
+      "name": "Rise of Shantala",
+      "url": "https://open.spotify.com/track/5tLJBlEImSeJJ4GvcaCO2W"
     },
     {
       "album": {

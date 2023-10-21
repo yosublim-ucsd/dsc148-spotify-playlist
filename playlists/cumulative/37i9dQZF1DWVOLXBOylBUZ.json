@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-13",
-  "description": "Latinoam\u00e9rica baila al ritmo de Yng Lvcas.",
+  "description": "Latinoam\u00e9rica baila al ritmo de Sean Paul y Manuel Turizo.",
   "name": "El Ritmo",
   "tracks": [
     {
@@ -1230,7 +1230,7 @@
       ],
       "date_added": "2022-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-21",
       "duration_ms": 199831,
       "name": "APA",
       "url": "https://open.spotify.com/track/3vKYvbzB7801a5qd47pxkm"
@@ -4269,6 +4269,28 @@
     },
     {
       "album": {
+        "name": "Dem Time Deh",
+        "url": "https://open.spotify.com/album/1QeOEm9n7zYsIqHvg0KRY6"
+      },
+      "artists": [
+        {
+          "name": "Sean Paul",
+          "url": "https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9"
+        },
+        {
+          "name": "Manuel Turizo",
+          "url": "https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167191,
+      "name": "Dem Time Deh",
+      "url": "https://open.spotify.com/track/3WWCU2F78Mv0sOsWcVG3bf"
+    },
+    {
+      "album": {
         "name": "Versos de un Card\u00edaco",
         "url": "https://open.spotify.com/album/37kW73lswREZ5Bj410ZXTX"
       },
@@ -5469,7 +5491,7 @@
     },
     {
       "album": {
-        "name": "En Mi Piel",
+        "name": "EN MI PIEL",
         "url": "https://open.spotify.com/album/2G87V7lMtUFAUXb9DqWaF3"
       },
       "artists": [
@@ -5486,7 +5508,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 209655,
-      "name": "En Mi Piel",
+      "name": "EN MI PIEL",
       "url": "https://open.spotify.com/track/7xkMZiXypSSqi7EIIYLDHF"
     },
     {

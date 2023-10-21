@@ -4,7 +4,7 @@
 
 > The Midwest is always on time\. Cover: Icewear Vezzo
 
-588 songs - 1 day 3 hr 27 min
+589 songs - 1 day 3 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -132,6 +132,7 @@
 | [Cross The Globe \(feat\. Juice WRLD\)](https://open.spotify.com/track/52WWw9qNZXZZtWU336TtKG) | [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7), [Juice WRLD](https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz) | [Almost Healed](https://open.spotify.com/album/6ciIG1XKTlVIn0Yl8rvsce) | 2:04 | 2023-05-26 | 2023-06-20 |
 | [Dancing With The Devil](https://open.spotify.com/track/1siBeqPJIFu48T8ZihxeuN) | [Babyface Ray](https://open.spotify.com/artist/3zZ88AwlTwfCJkowsFCvLA), [Landstrip Chip](https://open.spotify.com/artist/30bCJGAVNB4s6UkQy8a87a), [Pusha T](https://open.spotify.com/artist/0ONHkAv9pCAFxb0zJwDNTy) | [Dancing With The Devil](https://open.spotify.com/album/3GQZZxIdXi7ZLr63tdhDxM) | 2:49 | 2022-01-14 | 2022-01-29 |
 | [Dark Hearted](https://open.spotify.com/track/2vcdlFDuB7tjdYTCf0u6AL) | [Freddie Gibbs](https://open.spotify.com/artist/0Y4inQK6OespitzD6ijMwb) | [Dark Hearted](https://open.spotify.com/album/3uSh69KCgMerblCUeYohUl) | 3:25 | 2022-09-23 | 2023-01-28 |
+| [Delulu](https://open.spotify.com/track/6OaDh6LbMSh7Wvz1Me7xwn) | [Bfb Da Packman](https://open.spotify.com/artist/3C1bStPNVIPmGIrORT5OlF), [DDG](https://open.spotify.com/artist/0WK3H9OErSn5zKOkOV5egm) | [Delulu](https://open.spotify.com/album/4MRFGgo8ZRBvdb55aBkiLQ) | 2:26 | 2023-10-20 |  |
 | [Did Shit To Me \(feat\. Doodie Lo\)](https://open.spotify.com/track/68hn4O7tjgp4ITx5dSpuNL) | [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7), [Doodie Lo](https://open.spotify.com/artist/5YlfEcVGygV1M3jH9GxkU7) | [Did Shit To Me \(feat\. Doodie Lo\)](https://open.spotify.com/album/5ruuJ043cD6LUtzBP2kprc) | 2:36 | 2022-06-24 | 2022-10-15 |
 | [Different Bag](https://open.spotify.com/track/6cZljJ7RUqXVTUWZ16FR2e) | [YN Jay](https://open.spotify.com/artist/3gIWD9hK0VEhgsSrLu19PU), [Rio Da Yung Og](https://open.spotify.com/artist/6O1vRHWVGKJTnWuJmItnsx) | [Been Havin](https://open.spotify.com/album/4qi1x43ZO0EGSUQQ8aPt02) | 3:22 | 2023-07-28 | 2023-09-16 |
 | [DILLA BAP](https://open.spotify.com/track/5CzilSE4MP5p8eUa15rd1V) | [Stalley](https://open.spotify.com/artist/1wUmdemiR9Dxw8A2el365A) | [Somebody Up There Loves Me](https://open.spotify.com/album/6U0Hys1jBHL30PSbqWY7wE) | 3:07 | 2022-12-09 | 2023-01-21 |

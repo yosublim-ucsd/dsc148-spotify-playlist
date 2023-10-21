@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa0YHdTEui7J.md) - [plain]
 
 > <a href="spotify:artist:4cvdQRyHmkSQSakUrW2oxv"> Michael Bibi</a>'s favorite tracks\. Updated regularly\. Curated by Michael Bibi\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 71,091 likes - 100 songs - 10 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 71,115 likes - 100 songs - 10 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -71,7 +71,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa0YHdTEui7J.md) - [plain]
 | 61 | [Loneliness \- Original Mix](https://open.spotify.com/track/5pK94TjTQ9sLOPYdhDVbxj) | [Luca Bacchetti](https://open.spotify.com/artist/5RcxHMJklIX1MhY7MgG9NA), [Guti](https://open.spotify.com/artist/2r5GDEgYazyOCSj5xi67MM) | [Who Can You Trust](https://open.spotify.com/album/4xb5rnjb7IKc3Nfd12umgC) | 8:40 |
 | 62 | [Boogieman](https://open.spotify.com/track/4lx2Fql3pV0zwOAa3GoT17) | [ANOTR](https://open.spotify.com/artist/4p5WgeiPSPpqPDs7T6OkWf) | [Boogieman](https://open.spotify.com/album/6wT17A4wWIh31jYShWuBBY) | 3:00 |
 | 63 | [Upon Burning Skies](https://open.spotify.com/track/0ImWqzGKxRkRD28Zlck86R) | [Sable Sheep](https://open.spotify.com/artist/4XaYCUxd6APqq2eMhOTm5R) | [Upon Burning Skies](https://open.spotify.com/album/5WANTczHKKfzfKSKTh28i3) | 8:24 |
-| 64 | [Eyes On Fire \- Michael Bibi Remix](https://open.spotify.com/track/4iwbpbaCayPJVbjILoaFV0) | [Blue Foundation](https://open.spotify.com/artist/1FWybrAwiSa0zKibdLfZZr), [Michael Bibi](https://open.spotify.com/artist/4cvdQRyHmkSQSakUrW2oxv) | [Eyes On Fire \(Michael Bibi Remix\)](https://open.spotify.com/album/5o2VFMAuqgdxhxpbJGoZZg) | 6:01 |
+| 64 | [Eyes on Fire \- Michael Bibi Remix](https://open.spotify.com/track/4iwbpbaCayPJVbjILoaFV0) | [Blue Foundation](https://open.spotify.com/artist/1FWybrAwiSa0zKibdLfZZr), [Michael Bibi](https://open.spotify.com/artist/4cvdQRyHmkSQSakUrW2oxv) | [Eyes On Fire \(Michael Bibi Remix\)](https://open.spotify.com/album/5o2VFMAuqgdxhxpbJGoZZg) | 6:01 |
 | 65 | [Days \- Soul Clap Remix](https://open.spotify.com/track/3YBL3hMnn9SliOQWCLc1ND) | [Creep](https://open.spotify.com/artist/7uxdd0kdUdXLwkJKBQkVtP), [Soul Clap](https://open.spotify.com/artist/5QR4Lj1NcJQlNeIIJ6BQos) | [Days \(Remixes\)](https://open.spotify.com/album/6GdH73bw6Zkjo2p5M6zLkX) | 5:33 |
 | 66 | [10AM Fuse](https://open.spotify.com/track/03cy6hMyW9Y07tJuF2bIg3) | [Seb Zito](https://open.spotify.com/artist/2IwfvuKftX9D7CFF4qCTM8) | [Theory To Start EP](https://open.spotify.com/album/0VWMSL6qWgOj2bUlHkaoFv) | 7:03 |
 | 67 | [Bad Boy](https://open.spotify.com/track/1AnpldetwK3OnL6tLrvgzf) | [Richy Ahmed](https://open.spotify.com/artist/1ac5NUFh98sMs0DGX4xlSt) | [Bad Boy/Italo 80](https://open.spotify.com/album/0mpgrUKS4nq1jvfJST56fK) | 6:01 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa0YHdTEui7J.md) - [plain]
 | 99 | [Groove Dealer](https://open.spotify.com/track/0NDbTnVPCszdI2G9FQWfKx) | [Blackchild \(ITA\)](https://open.spotify.com/artist/0UVthdD1eqqsoNLX9ek4Xb) | [Groove Dealer EP](https://open.spotify.com/album/3YO1Tk3rbxnr4HFHeb6UXD) | 6:58 |
 | 100 | [It'll All Be Over \- DJ Koze Remix \- Radio Edit](https://open.spotify.com/track/48dojgnBKfp3drKOFdwycc) | [Gerry Read](https://open.spotify.com/artist/5FIfw6s4iYUFu6tA3iIIOQ), [DJ Koze](https://open.spotify.com/artist/1kR99O4MgSTasyeJh8UFCg) | [It'll All Be Over \(DJ Koze Remix \- Radio Edit\)](https://open.spotify.com/album/0T4xFSNi3vOmlC4GUXPfIE) | 3:08 |
 
-Snapshot ID: `MCwwN2UwMTM0YTg4MGU2NzZiNjNhYWJmNmJjMjFmNDY5M2UwYWM4YWI5`
+Snapshot ID: `MCw2YzM5MjFmYWYwMGI4MTZiY2FhMWYzM2UzMTY5NzYwMTk2NTYzMDg5`

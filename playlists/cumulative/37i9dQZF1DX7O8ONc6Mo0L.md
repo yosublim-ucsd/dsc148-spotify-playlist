@@ -4,7 +4,7 @@
 
 > Relaxe com hinos acústicos\. Foto: AMÉM
 
-130 songs - 9 hr 37 min
+131 songs - 9 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -77,6 +77,7 @@
 | [Me Ensina a Depender \- Acústico](https://open.spotify.com/track/3uwk3N4xVvtdS4mk2AaOB0) | [Mateus Brito](https://open.spotify.com/artist/12sMRxeNux6TB0Kz1rVcLN) | [Me Ensina a Depender \(Acústico\)](https://open.spotify.com/album/3xTpjjSHdWJfwYO3lM7kiG) | 4:50 | 2022-09-02 | 2022-10-08 |
 | [Melhor Lugar: Sessão Acústica](https://open.spotify.com/track/7fpvwvVR2zhNaWUAUDXznF) | [Marcelo Markes](https://open.spotify.com/artist/6SuvEQMnKI1I4rfErcOdi2) | [Melhor Lugar: Sessão Acústica](https://open.spotify.com/album/1Rz6o5OcmhO1YevBCg8bvw) | 4:12 | 2022-09-02 | 2023-09-02 |
 | [Meu Barquinho](https://open.spotify.com/track/7ap8AwNHEltHYVd889t6Wc) | [André e Felipe](https://open.spotify.com/artist/5QQUuUIP9gjrkI8amLfIlb), [Preto no Branco](https://open.spotify.com/artist/0JC6R3kbXUHe5QrxqzFwom) | [Meu Barquinho](https://open.spotify.com/album/313crnqVtVcq7iTiaxn4Va) | 3:56 | 2022-09-02 |  |
+| [Meu Mundo \- Acústico](https://open.spotify.com/track/2Sjz40NGcmkosB4eZ5OoM5) | [Theo Rubia](https://open.spotify.com/artist/3bTnUXCo3suJiLVb79pExe) | [Meu Mundo \(Acústico\)](https://open.spotify.com/album/0qGQ9lwXuXjCBaFDfJVnHR) | 4:08 | 2023-10-20 |  |
 | [Milagres \- Acústico](https://open.spotify.com/track/6ael0a5FVQXGupOfzpkoOB) | [Lukas Agustinho](https://open.spotify.com/artist/14IQ7niDNXIIrOSjr32E7O) | [Milagres \(Acústico\)](https://open.spotify.com/album/7p8ZJylSvIeJZcGGUvBcnE) | 4:50 | 2022-09-02 |  |
 | [Minha Calmaria](https://open.spotify.com/track/3DHI4jh4qmLTuorSESIEt9) | [Gabriel Brito](https://open.spotify.com/artist/4LXMmTqllPBxNh4msJMYCm), [André e Felipe](https://open.spotify.com/artist/5QQUuUIP9gjrkI8amLfIlb) | [Minha Calmaria](https://open.spotify.com/album/07TYQRsbsnnCUWM6Si7Ve8) | 3:39 | 2022-09-02 | 2022-11-13 |
 | [Minha Calmaria](https://open.spotify.com/track/6ljL3K3Poa4le6P52a6bbJ) | [Gabriel Brito](https://open.spotify.com/artist/4LXMmTqllPBxNh4msJMYCm), [André e Felipe](https://open.spotify.com/artist/5QQUuUIP9gjrkI8amLfIlb) | [Minha Calmaria](https://open.spotify.com/album/7yEu4W8HFWye8SXWakWNeJ) | 3:39 | 2022-10-28 |  |
@@ -98,7 +99,7 @@
 | [O Céu É Jesus](https://open.spotify.com/track/7FoJ89DvZTV589vo6gH6lv) | [Novo Tempo](https://open.spotify.com/artist/4hSwClI41RKuFb46itnL5e), [Weslley Fonseca](https://open.spotify.com/artist/44tt6vxqg3vYCiTm8p8Rg9), [Jader Santos](https://open.spotify.com/artist/0LgOPOdCNpAxAkFWiliKpx) | [O Céu É Jesus](https://open.spotify.com/album/3xmhcwV8E7soL1h9OalIut) | 5:30 | 2023-05-19 | 2023-10-07 |
 | [O Dia Que Será Pra Sempre](https://open.spotify.com/track/4stbVaoXgrjq9bCj2SStmG) | [Rodolfo Abrantes](https://open.spotify.com/artist/0M8rmgpYMtvYbHvXD3cHkN) | [O Dia Que Será Pra Sempre](https://open.spotify.com/album/2KTRJyzvBRhjQpmMJ6m85C) | 4:43 | 2022-09-02 |  |
 | [O Lugar \(Ao Vivo\)](https://open.spotify.com/track/21KjObq0eAFQD3Dahk5O2m) | [Gabi Oliveira](https://open.spotify.com/artist/3zEDRm9Asx2fUq0ukH97GD), [Paulo Neto](https://open.spotify.com/artist/24lc8iaQY0UHitOufmSGko) | [O Lugar \(Ao Vivo\)](https://open.spotify.com/album/3b5JIWeAc983PvpFjscVjb) | 3:31 | 2022-09-02 |  |
-| [O Que Meu Deus Vai Fazer \(Essência Sessions\)](https://open.spotify.com/track/5NWZfAvvjPkXxz00Vugg9q) | [Weslei Santos](https://open.spotify.com/artist/4y6Ve3GJGW72qVUqalUvKi) | [O Que Meu Deus Vai Fazer \(Essência Sessions\)](https://open.spotify.com/album/2YzdSN1IQZJlISrbINPnSM) | 4:31 | 2022-09-02 |  |
+| [O Que Meu Deus Vai Fazer \(Essência Sessions\)](https://open.spotify.com/track/5NWZfAvvjPkXxz00Vugg9q) | [Weslei Santos](https://open.spotify.com/artist/4y6Ve3GJGW72qVUqalUvKi) | [O Que Meu Deus Vai Fazer \(Essência Sessions\)](https://open.spotify.com/album/2YzdSN1IQZJlISrbINPnSM) | 4:31 | 2022-09-02 | 2023-10-21 |
 | [O Que Se Faz Aqui pra Ser Feliz \- Acústico](https://open.spotify.com/track/3LH84g4ns7kiJtOvZkyoea) | [Nathan Asafe](https://open.spotify.com/artist/5ChPhSZzFXnTujdXY0FhMA) | [O Que Se Faz Aqui pra Ser Feliz \(Acústico\)](https://open.spotify.com/album/2Io37WuevaunbyNIzqpj0v) | 5:02 | 2022-09-02 |  |
 | [O Tamanho da Tua Dor](https://open.spotify.com/track/2mDecxwnK1KzuDonVfYL90) | [Gabriel Brito](https://open.spotify.com/artist/4LXMmTqllPBxNh4msJMYCm) | [O Tamanho da Tua Dor](https://open.spotify.com/album/2mhTrOtvd1RBNPKamuICTg) | 3:36 | 2022-11-25 |  |
 | [O Tempo Voa](https://open.spotify.com/track/7bwnpc3RD1K90md80Yk9gP) | [Jairo Bonfim](https://open.spotify.com/artist/1DcX51Pc5bYQX0o2fvdGK4) | [O Tempo Voa](https://open.spotify.com/album/720WqhrubKhHaG6Acp8yT8) | 4:37 | 2023-01-14 | 2023-02-11 |

@@ -4,7 +4,7 @@
 
 > Dembow dominicano to el día\. Foto: Tokischa
 
-411 songs - 22 hr 22 min
+412 songs - 22 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,7 +22,7 @@
 | [Amaneci Contento](https://open.spotify.com/track/7LYul65sg4QXvejKlzqN4t) | [Secreto "El Famoso Biberon"](https://open.spotify.com/artist/37UACiDcdzEYii0iU0QpAf) | [Exito, Vol 1](https://open.spotify.com/album/3ZrQLEdE1eL42Z4IRYcfai) | 3:59 | 2022-05-28 | 2023-03-04 |
 | [Amaneci Contento](https://open.spotify.com/track/2Al5sYcnRhzNnhz7GyPCyp) | [Secreto "El Famoso Biberon"](https://open.spotify.com/artist/37UACiDcdzEYii0iU0QpAf) | [Exitos, Vol\. 1](https://open.spotify.com/album/5xvwSHItuJUUyeklBpjJdZ) | 3:59 | 2021-12-10 | 2022-06-30 |
 | [Ando en 30](https://open.spotify.com/track/26MGlZKXyaJ5ElE5wn7ZDW) | [Chael Produciendo](https://open.spotify.com/artist/2iI5KWXLjw1tqLQsdjuo0e), [Dowba Montana](https://open.spotify.com/artist/39FKVjqhZLz4E1iG77d5AO), [Yomel El Meloso](https://open.spotify.com/artist/34Y7klgDHuaH1qWA9TJkul) | [Ando en 30](https://open.spotify.com/album/0kaO1SK6vJmRhLh11W2d6D) | 3:00 | 2022-03-18 |  |
-| [Ayayai](https://open.spotify.com/track/0YI55FQIlBuy7CKSVZ5ygp) | [Breycoo](https://open.spotify.com/artist/5Sewfh7SjZE6gheTG6L35H), [El Pepo Show](https://open.spotify.com/artist/12DrMYv3haAHRxjWzxVRFB) | [Ayayai](https://open.spotify.com/album/5La0K5s0ftUoLMUGAAHgjG) | 2:46 | 2023-02-18 |  |
+| [Ayayai](https://open.spotify.com/track/0YI55FQIlBuy7CKSVZ5ygp) | [Breycoo](https://open.spotify.com/artist/5Sewfh7SjZE6gheTG6L35H), [El Pepo Show](https://open.spotify.com/artist/12DrMYv3haAHRxjWzxVRFB) | [Ayayai](https://open.spotify.com/album/5La0K5s0ftUoLMUGAAHgjG) | 2:46 | 2023-02-18 | 2023-10-21 |
 | [Bailalo](https://open.spotify.com/track/5qq6alfo5oP3H2vAdnAXkW) | [El Fother](https://open.spotify.com/artist/0pm4ijsngxgyYEZl0UeXug), [Bulova](https://open.spotify.com/artist/6NAhbfEqeWELwfjH391Vz0) | [Bailalo](https://open.spotify.com/album/1rfDlUcAZZALSkz3FWGbwQ) | 4:10 | 2021-12-10 | 2022-07-28 |
 | [Bailalo](https://open.spotify.com/track/0WIZPUEYMsLBMidzp9wf5j) | [El Fother](https://open.spotify.com/artist/0pm4ijsngxgyYEZl0UeXug), [Bulova](https://open.spotify.com/artist/6NAhbfEqeWELwfjH391Vz0) | [HIT DEMBOW](https://open.spotify.com/album/53nhDhd29gXKOnE3vUS1DR) | 4:10 | 2022-05-28 |  |
 | [Bailalo](https://open.spotify.com/track/7nO4lwCsURRXPjHo2ogvyF) | [Es Ariiel](https://open.spotify.com/artist/5GZ8MDYCuRFNoWG6Hepilz) | [Bailalo](https://open.spotify.com/album/7sGSTHZcGu1bMJ5amdW648) | 3:30 | 2022-01-04 | 2022-07-14 |
@@ -318,6 +318,7 @@
 | [Quitenselo](https://open.spotify.com/track/0tIhSpgIkSbvSbauCXN9pu) | [El Alfa](https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm) | [El Hombre](https://open.spotify.com/album/4PmIVwteqF16NOwoc2N0Pv) | 3:24 | 2022-01-04 | 2022-07-29 |
 | [Rana](https://open.spotify.com/track/1XOFnpxpyaad0MRTs4I76s) | [Karetta el Gucci](https://open.spotify.com/artist/4ygcJmgRCkZ0AoKkMt1xiZ) | [Rana](https://open.spotify.com/album/3WCzzLcbbgF6dZu3XsPNks) | 3:13 | 2022-01-04 | 2022-07-07 |
 | [Rana](https://open.spotify.com/track/34ZrmCQFQGTUZxdLIaaNoa) | [Karetta el Gucci](https://open.spotify.com/artist/4ygcJmgRCkZ0AoKkMt1xiZ) | [Rana](https://open.spotify.com/album/4er80flcemlR8QahrCEuXM) | 3:13 | 2022-05-28 |  |
+| [Rapidito](https://open.spotify.com/track/24xjiVlidLDSP4myhRMT6Z) | [Bulin 47](https://open.spotify.com/artist/4J0m1OquRGY8HYHxMocXfy) | [Lava Urbana 2018](https://open.spotify.com/album/34qnQKWjuu4peE4ULEFPXm) | 2:50 | 2023-10-19 |  |
 | [Rapidito](https://open.spotify.com/track/3ZJ1F8QrGVN6uz9HTF4Mrg) | [Bulin 47](https://open.spotify.com/artist/4J0m1OquRGY8HYHxMocXfy) | [Lava Urbana 2018](https://open.spotify.com/album/18kVz52nMnczVM4Sj26527) | 2:50 | 2021-12-10 | 2023-09-08 |
 | [Rapidito](https://open.spotify.com/track/4VA8RiUCoXtTDswsldRjtW) | [Bulin 47](https://open.spotify.com/artist/4J0m1OquRGY8HYHxMocXfy) | [Lava Urbana 2018](https://open.spotify.com/album/38iwVUt05Ygofjmc5gvyRF) | 2:50 | 2021-12-10 | 2022-07-28 |
 | [Rebota](https://open.spotify.com/track/2YRvdf9cdS88y1wB1WhKoE) | [Guaynaa](https://open.spotify.com/artist/0BqURncJM5B1BBu7UM51eq) | [Rebota](https://open.spotify.com/album/0WtvTluO0QSmXndhOydGDA) | 3:24 | 2021-12-10 | 2022-07-27 |

@@ -1175,6 +1175,24 @@
     },
     {
       "album": {
+        "name": "BRUTAL",
+        "url": "https://open.spotify.com/album/6mQ76kFb5eM0uTeiVVGqeG"
+      },
+      "artists": [
+        {
+          "name": "Mardiana",
+          "url": "https://open.spotify.com/artist/3svIMmaQEnyipJfbbW6dyH"
+        }
+      ],
+      "date_added": "2023-10-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204672,
+      "name": "BRUTAL",
+      "url": "https://open.spotify.com/track/6XcZTucMhI6GR6fZsFL8Ig"
+    },
+    {
+      "album": {
         "name": "BUBBLY",
         "url": "https://open.spotify.com/album/4vIEdzVa15kQvoalvxPIz5"
       },

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYNsv9jSVI53.md) - [plain]
 
 > The official playlist for Russian Doll on Netflix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 36,624 likes - 26 songs - 2 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 36,666 likes - 26 songs - 2 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYNsv9jSVI53.md) - [plain]
 | 6 | [Love In Outerspace](https://open.spotify.com/track/2DQJgjvLmHlmnnm9oiUszK) | [Sun Ra](https://open.spotify.com/artist/0tIODqvzGUoEaK26rK4pvX) | [Haverford College, Jan\. 25th, 1980 \(Solo Rhodes Piano\)](https://open.spotify.com/album/0jVth1ufo1rI9gD7yCIQQQ) | 4:13 |
 | 7 | [Put A Straw Under Baby \- 2004 Digital Remaster](https://open.spotify.com/track/3FglRwYchsaJ4NURtnTMHq) | [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [Taking Tiger Mountain \(By Strategy\) \[2004 Remaster\]](https://open.spotify.com/album/1IMbtEVdtaFz0PPiq4brLZ) | 3:25 |
 | 8 | [Puddin' N' Tain](https://open.spotify.com/track/3PSE5zXhf70R9czOlfgWeM) | [The Alley Cats](https://open.spotify.com/artist/6pSo5F15qsAxY0qYkpmsvJ) | [The Phil Spector Collection](https://open.spotify.com/album/5NKKNLuM9Y0thrHgX709mp) | 2:47 |
-| 9 | [Black Night](https://open.spotify.com/track/1pJqA8DK4KR0UeQR1GKCrR) | [Cheryl Thompson](https://open.spotify.com/artist/0WA1uYD5c1dn1Oxt9OtN6V) | [You're Not from Around Here](https://open.spotify.com/album/01de6Zye614CkKr2dcLzrF) | 2:00 |
+| 9 | [Black Night](https://open.spotify.com/track/4Tq3ZmWCiqGG6hZGeoDIiM) | [Cheryl Thompson](https://open.spotify.com/artist/0WA1uYD5c1dn1Oxt9OtN6V) | [Black Night b/w I'm On The Mountain](https://open.spotify.com/album/0nJgnNLA0jqNI02fDdLPTs) | 2:00 |
 | 10 | [Sunday Morning](https://open.spotify.com/track/11607FzqoipskTsXrwEHnJ) | [The Velvet Underground](https://open.spotify.com/artist/1nJvji2KIlWSseXRSlNYsC), [Nico](https://open.spotify.com/artist/0IwlY33zbBXN7zlS9DP2Cj) | [The Velvet Underground & Nico 45th Anniversary](https://open.spotify.com/album/4xwx0x7k6c5VuThz5qVqmV) | 2:55 |
 | 11 | [Der Kommissar](https://open.spotify.com/track/3TBRJsLCcwroEkA3tD4u2N) | [Falco](https://open.spotify.com/artist/0hLd40hVpRDGENe4KGZLnW) | [Einzelhaft](https://open.spotify.com/album/4713DwyqNIrkyj17Q5Rsde) | 3:52 |
 | 12 | [Morgen](https://open.spotify.com/track/4Gy2ccb1lUzc5sNmwKtTFt) | [Ivo Robic](https://open.spotify.com/artist/6ouLM9uXt774BmPfmTzgX8) | [Izvorne Snimke 1949\. \- 1959.](https://open.spotify.com/album/3zZ53e51GTH3G3e36U7KnV) | 2:35 |
@@ -35,4 +35,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYNsv9jSVI53.md) - [plain]
 | 25 | [Showtime](https://open.spotify.com/track/7ld59FzTeRSyR58BSOilTs) | [Joe Wong](https://open.spotify.com/artist/62TZuRSv7K8KK5BmL90K32) | [Russian Doll: Seasons 1 & 2 \(Music From The Netflix Original Series\)](https://open.spotify.com/album/0Dt08kWhZvV18tp4bALqWY) | 1:31 |
 | 26 | [Dream Mother](https://open.spotify.com/track/5SLfUZcKNs3Ab2F1BOjQXr) | [Joe Wong](https://open.spotify.com/artist/62TZuRSv7K8KK5BmL90K32) | [Russian Doll: Seasons 1 & 2 \(Music From The Netflix Original Series\)](https://open.spotify.com/album/0Dt08kWhZvV18tp4bALqWY) | 1:46 |
 
-Snapshot ID: `MCxlZmE2MzlkMTRmZTA5ZjhlMWMwZmRhOTg1Y2M1Mzg0ODczZjA5ODQz`
+Snapshot ID: `MCxlYWUxNzFkZGI0YmZmNWQxMjc5YjIyZTVmNWEzYzVmMzFiMTdjMWU4`

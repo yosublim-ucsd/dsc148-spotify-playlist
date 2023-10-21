@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "The best indie dance tracks of the moment. Cover: Polo & Pan",
+  "description": "The best indie dance tracks of the moment. Cover: Barry Can't Swim",
   "name": "metropolis",
   "tracks": [
     {
@@ -893,6 +893,42 @@
     },
     {
       "album": {
+        "name": "Always / Never",
+        "url": "https://open.spotify.com/album/16f1fDWr5jRAcGiqFoZSFI"
+      },
+      "artists": [
+        {
+          "name": "STRFKR",
+          "url": "https://open.spotify.com/artist/2Tz1DTzVJ5Gyh8ZwVr6ekU"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221290,
+      "name": "Always / Never",
+      "url": "https://open.spotify.com/track/3n9EfOy7vlDIXbDyntRLxc"
+    },
+    {
+      "album": {
+        "name": "When Will We Land?",
+        "url": "https://open.spotify.com/album/5LASDBDtLLEt3QqVtgOoaM"
+      },
+      "artists": [
+        {
+          "name": "Barry Can't Swim",
+          "url": "https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246840,
+      "name": "Always Get Through To You",
+      "url": "https://open.spotify.com/track/0g8nIlk2ltpZP8lYlPvRx1"
+    },
+    {
+      "album": {
         "name": "Amanhecer",
         "url": "https://open.spotify.com/album/7aRUi6Gte0Sar15BpLnOBX"
       },
@@ -904,7 +940,7 @@
       ],
       "date_added": "2023-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-21",
       "duration_ms": 258659,
       "name": "Amanhecer",
       "url": "https://open.spotify.com/track/3MQ96GNZ6Y68u2Tg21LJ3n"
@@ -1823,6 +1859,24 @@
     },
     {
       "album": {
+        "name": "Birth4000",
+        "url": "https://open.spotify.com/album/5jWraquGLoS4pFefyUytmx"
+      },
+      "artists": [
+        {
+          "name": "Floating Points",
+          "url": "https://open.spotify.com/artist/2AR42Ur9PcchQDtEdwkv4L"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 286274,
+      "name": "Birth4000",
+      "url": "https://open.spotify.com/track/0ULiCJAR2lmaHrXvs3exRm"
+    },
+    {
+      "album": {
         "name": "So Long Forever",
         "url": "https://open.spotify.com/album/6cmFNl8lllA6BGc7SKLy3y"
       },
@@ -2390,7 +2444,7 @@
       ],
       "date_added": "2023-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-21",
       "duration_ms": 160942,
       "name": "Bubbly",
       "url": "https://open.spotify.com/track/5Yxw8MJcI4AT58ur7e04Fw"
@@ -3600,7 +3654,7 @@
       ],
       "date_added": "2023-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-21",
       "duration_ms": 118151,
       "name": "cry for help",
       "url": "https://open.spotify.com/track/5gfYxsAS939n06daeVX7WF"
@@ -3734,7 +3788,7 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-21",
       "duration_ms": 183377,
       "name": "Daydreaming",
       "url": "https://open.spotify.com/track/4vOXQM1c4M6CCASiWkR2n0"
@@ -3814,7 +3868,7 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-21",
       "duration_ms": 254791,
       "name": "Deadbeat Gospel",
       "url": "https://open.spotify.com/track/3pSkRsuZv57a1yCxJPiBiT"
@@ -4042,7 +4096,7 @@
       ],
       "date_added": "2023-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-21",
       "duration_ms": 259120,
       "name": "Do Nothing",
       "url": "https://open.spotify.com/track/6CgsQGQXleG4nxzr4rRp1A"
@@ -4082,6 +4136,28 @@
       "duration_ms": 207413,
       "name": "Do Your Worst",
       "url": "https://open.spotify.com/track/0Vgvm8cSsoMYFoSMtrngmv"
+    },
+    {
+      "album": {
+        "name": "Dollar $hort",
+        "url": "https://open.spotify.com/album/5AlNt9tbo2tP4KcHP1xIcG"
+      },
+      "artists": [
+        {
+          "name": "DRAMA",
+          "url": "https://open.spotify.com/artist/7LvvNoUPwTZpgXDWBRrfHg"
+        },
+        {
+          "name": "Flight Facilities",
+          "url": "https://open.spotify.com/artist/1lc8mnyGrCLtPhCoWjRxjM"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195415,
+      "name": "Dollar $hort",
+      "url": "https://open.spotify.com/track/6UYLv08EVHZsmMP4SrgZVw"
     },
     {
       "album": {
@@ -4264,7 +4340,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-21",
       "duration_ms": 166303,
       "name": "Don't Let Go (feat. Roseau)",
       "url": "https://open.spotify.com/track/02NJ2ws6rsEeh7DhsHqqvv"
@@ -5881,6 +5957,28 @@
     },
     {
       "album": {
+        "name": "Fire In My Soul",
+        "url": "https://open.spotify.com/album/15zwnxk4Xm7x0TlvYSmL7B"
+      },
+      "artists": [
+        {
+          "name": "Yulia Niko",
+          "url": "https://open.spotify.com/artist/3RUNl0j2ISAQdC2Fxhj2q3"
+        },
+        {
+          "name": "Carn Crua",
+          "url": "https://open.spotify.com/artist/6EBszIoLpJ4gSe2JVFKdFF"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203821,
+      "name": "Fire In My Soul",
+      "url": "https://open.spotify.com/track/27R9400JMLICLaBB8lQhHD"
+    },
+    {
+      "album": {
         "name": "Fire Of Mercy",
         "url": "https://open.spotify.com/album/4MxTYuvXTiZpKH0nnzcu7V"
       },
@@ -5940,6 +6038,24 @@
       "duration_ms": 243331,
       "name": "Firepit",
       "url": "https://open.spotify.com/track/598YYFar90QPnyGE3jmgGo"
+    },
+    {
+      "album": {
+        "name": "first time",
+        "url": "https://open.spotify.com/album/5TSp9j0u2yoiX3vPQB0gIt"
+      },
+      "artists": [
+        {
+          "name": "jigitz",
+          "url": "https://open.spotify.com/artist/7sfn5Z6ItzDkOF9cYzxWPZ"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168727,
+      "name": "first time",
+      "url": "https://open.spotify.com/track/7bbDRMb1AIjb8cWztwm8MS"
     },
     {
       "album": {
@@ -8391,6 +8507,32 @@
     },
     {
       "album": {
+        "name": "When Will We Land?",
+        "url": "https://open.spotify.com/album/5LASDBDtLLEt3QqVtgOoaM"
+      },
+      "artists": [
+        {
+          "name": "Barry Can't Swim",
+          "url": "https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl"
+        },
+        {
+          "name": "Falle Nioke",
+          "url": "https://open.spotify.com/artist/2WIUWjEtviW09sdJlb2G1J"
+        },
+        {
+          "name": "Blackboxx",
+          "url": "https://open.spotify.com/artist/1TCrt66TQ2EWptUaKv3C0z"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257940,
+      "name": "I Won\u2019t Let You Down",
+      "url": "https://open.spotify.com/track/2WmcCOU2xeScvCKrpui6EV"
+    },
+    {
+      "album": {
         "name": "I YOU SHE",
         "url": "https://open.spotify.com/album/7tBQBS0T6plojk62SkKyvm"
       },
@@ -9297,6 +9439,24 @@
     },
     {
       "album": {
+        "name": "JOY (In Me All The Time)",
+        "url": "https://open.spotify.com/album/1wgSgebPc22KAzCsVcCPMG"
+      },
+      "artists": [
+        {
+          "name": "Joy Anonymous",
+          "url": "https://open.spotify.com/artist/3pK4EcflBpG1Kpmjk5LK2R"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222439,
+      "name": "JOY (In Me All The Time)",
+      "url": "https://open.spotify.com/track/0cKYdxOPGO60h2c4DHbp7d"
+    },
+    {
+      "album": {
         "name": "Jungle",
         "url": "https://open.spotify.com/album/3iDLGLmecmdkmdxYmuol5d"
       },
@@ -9326,7 +9486,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-21",
       "duration_ms": 224500,
       "name": "Jupiter I.",
       "url": "https://open.spotify.com/track/494TCdCW0A02emykMUeiJZ"
@@ -11284,7 +11444,7 @@
       ],
       "date_added": "2023-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-21",
       "duration_ms": 157604,
       "name": "marry me",
       "url": "https://open.spotify.com/track/38Kt8Elz6jRogLkl0OWQ0I"
@@ -11346,6 +11506,24 @@
       "duration_ms": 203496,
       "name": "Mass Appeal",
       "url": "https://open.spotify.com/track/2xj5J9KdJbFmm5xBB3XjNa"
+    },
+    {
+      "album": {
+        "name": "Maybe I Need You",
+        "url": "https://open.spotify.com/album/1LUI4DIMhTERflh2YQXGNB"
+      },
+      "artists": [
+        {
+          "name": "Might Delete Later",
+          "url": "https://open.spotify.com/artist/71j4PhDtWqw0LIG5MXBLxT"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189306,
+      "name": "Maybe I Need You",
+      "url": "https://open.spotify.com/track/6cuhCnAklXM2Kg5b2KovAw"
     },
     {
       "album": {
@@ -11499,6 +11677,24 @@
     },
     {
       "album": {
+        "name": "Mind",
+        "url": "https://open.spotify.com/album/26VCvYswzzNkfANuWPvSUs"
+      },
+      "artists": [
+        {
+          "name": "Fredwave",
+          "url": "https://open.spotify.com/artist/2mP7s6geSborhRN3ohxJqz"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 101559,
+      "name": "Mind",
+      "url": "https://open.spotify.com/track/5lm9TqAUse9vloJKuPwCNq"
+    },
+    {
+      "album": {
         "name": "Stimulate (Deluxe)",
         "url": "https://open.spotify.com/album/1n3V1SMu8hLeccUhgTunwx"
       },
@@ -11594,6 +11790,24 @@
       "duration_ms": 152562,
       "name": "miracle",
       "url": "https://open.spotify.com/track/0AYDyOjY8Mu2b9JCqzPSHh"
+    },
+    {
+      "album": {
+        "name": "Mirror",
+        "url": "https://open.spotify.com/album/2WqbgScsOiTs0ps64zytjZ"
+      },
+      "artists": [
+        {
+          "name": "M83",
+          "url": "https://open.spotify.com/artist/63MQldklfxkjYDoUE4Tppz"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 344777,
+      "name": "Mirror",
+      "url": "https://open.spotify.com/track/0AXay1TwLmrkdWpVnHbmpl"
     },
     {
       "album": {
@@ -12280,7 +12494,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-21",
       "duration_ms": 182153,
       "name": "No Limit",
       "url": "https://open.spotify.com/track/1YR94xmVWP4Y4t8jojuFow"
@@ -12930,7 +13144,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-21",
       "duration_ms": 186352,
       "name": "one of one (feat. PawPaw Rod)",
       "url": "https://open.spotify.com/track/79jxfE4mZToAneAv2C7Dng"
@@ -14809,6 +15023,28 @@
     },
     {
       "album": {
+        "name": "S e x",
+        "url": "https://open.spotify.com/album/1DnORgesBFu2C0lJ2ZPQuO"
+      },
+      "artists": [
+        {
+          "name": "George Riley",
+          "url": "https://open.spotify.com/artist/76rh78p0cww0l4OqgKabLQ"
+        },
+        {
+          "name": "Hudson Mohawke",
+          "url": "https://open.spotify.com/artist/6olWbKW2VLhFCHfOi0iEDb"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181546,
+      "name": "S e x",
+      "url": "https://open.spotify.com/track/1o7dHA3jkon56D4Xn1jJWr"
+    },
+    {
+      "album": {
         "name": "Feeling Lucky?",
         "url": "https://open.spotify.com/album/03pjOrBIZRXTl0svkvKldT"
       },
@@ -16438,7 +16674,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-21",
       "duration_ms": 222182,
       "name": "Sunsleeper",
       "url": "https://open.spotify.com/track/7yWd93ZTbCuhaH2QCsTHKc"
@@ -18228,7 +18464,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-07",
+      "date_removed": null,
       "duration_ms": 231316,
       "name": "Turn Back Time",
       "url": "https://open.spotify.com/track/4P2KkAmQ6lP0mlc1yriTXU"
@@ -18658,7 +18894,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-21",
       "duration_ms": 235861,
       "name": "Wait For Me",
       "url": "https://open.spotify.com/track/6cYoKxvw88rUQ4FEKWcaDI"

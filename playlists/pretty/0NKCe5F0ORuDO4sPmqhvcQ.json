@@ -6,7 +6,7 @@
     "name": "Moving Castle",
     "url": "https://open.spotify.com/user/moving-castle"
   },
-  "snapshot_id": "MTA1MzcsMTRiMjM2MmUyY2Q4OTAyY2U2NTcxYzU2ZGZmM2NhN2FjYTg5M2FmNg==",
+  "snapshot_id": "MTA1NDEsYjNmZTdkNDkwM2MyMGU2ODFlZjQzMzNlNWNmOTM4MzRhZDU3ODBhMA==",
   "tracks": [
     {
       "added_at": "2023-10-06 14:55:50",
@@ -2195,6 +2195,74 @@
       "duration_ms": 183428,
       "name": "Ripple (feat. grandpa julie)",
       "url": "https://open.spotify.com/track/2SqlWDESCdIb0QKNP0sByv"
+    },
+    {
+      "added_at": "2023-10-20 18:10:10",
+      "album": {
+        "name": "Fight Me",
+        "url": "https://open.spotify.com/album/2cCk1i1D2XQaclGYqaa5oY"
+      },
+      "artists": [
+        {
+          "name": "Teddy Killerz",
+          "url": "https://open.spotify.com/artist/4xaF2VIGwhWyEMbM6GuLdm"
+        }
+      ],
+      "duration_ms": 231724,
+      "name": "Fight Me",
+      "url": "https://open.spotify.com/track/2VMjr4nR9QptTiGOabyeFt"
+    },
+    {
+      "added_at": "2023-10-20 18:21:44",
+      "album": {
+        "name": "All About You",
+        "url": "https://open.spotify.com/album/0UPEviguYBkCVLWVTwXx2y"
+      },
+      "artists": [
+        {
+          "name": "Britt Lari",
+          "url": "https://open.spotify.com/artist/7ErksWhMMsmGtgT1l1e159"
+        }
+      ],
+      "duration_ms": 165180,
+      "name": "All About You",
+      "url": "https://open.spotify.com/track/0Lc22wJyPHTKF8mEoOOGzT"
+    },
+    {
+      "added_at": "2023-10-20 18:22:44",
+      "album": {
+        "name": "Haunted",
+        "url": "https://open.spotify.com/album/25az9xpMDxpmAzCTCwX7hf"
+      },
+      "artists": [
+        {
+          "name": "4B",
+          "url": "https://open.spotify.com/artist/0LIl9fjMPEZp8UDiL8Yuo4"
+        }
+      ],
+      "duration_ms": 155000,
+      "name": "Haunted",
+      "url": "https://open.spotify.com/track/6OhmXq1u2nB8Wrm5wuPrqs"
+    },
+    {
+      "added_at": "2023-10-20 20:52:18",
+      "album": {
+        "name": "cold showers",
+        "url": "https://open.spotify.com/album/1REUjAHkHYFLSuXP2rgrrb"
+      },
+      "artists": [
+        {
+          "name": "BARDZ",
+          "url": "https://open.spotify.com/artist/0grj6SCmh4vGKf6r7pbOTk"
+        },
+        {
+          "name": "Brooke Williams",
+          "url": "https://open.spotify.com/artist/47eA8knxvpD9CZsqHn4Mxz"
+        }
+      ],
+      "duration_ms": 168653,
+      "name": "cold showers",
+      "url": "https://open.spotify.com/track/4N4M6MYPCpgJxKyv5fpgzg"
     }
   ],
   "unique_name": "Moving Castle Monthly",

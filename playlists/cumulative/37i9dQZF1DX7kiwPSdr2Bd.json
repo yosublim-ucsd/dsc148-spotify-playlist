@@ -488,7 +488,7 @@
       ],
       "date_added": "2023-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-21",
       "duration_ms": 499584,
       "name": "Can\u00e7\u00e3o do C\u00e9u - Ao vivo",
       "url": "https://open.spotify.com/track/3ZO97iaXkDq9Y7sMv0atus"
@@ -1441,6 +1441,28 @@
     },
     {
       "album": {
+        "name": "Eu Mais Deus (Ao Vivo)",
+        "url": "https://open.spotify.com/album/1IudxS4wetQCAuugeZLLwX"
+      },
+      "artists": [
+        {
+          "name": "J\u00e9ssica Augusto",
+          "url": "https://open.spotify.com/artist/5lToDW3d2jgmKpVMi9RhHH"
+        },
+        {
+          "name": "Todah Music",
+          "url": "https://open.spotify.com/artist/1A5kGvmKIVtX7NhcbtTZJY"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 419665,
+      "name": "Eu Mais Deus - Ao Vivo",
+      "url": "https://open.spotify.com/track/2Ivq3QTLrQwqP9WOzJkUB6"
+    },
+    {
+      "album": {
         "name": "Kemilly Santos ao Vivo em S\u00e3o Paulo",
         "url": "https://open.spotify.com/album/1KAi9GUnEOYjhuVxi5xVm9"
       },
@@ -2060,6 +2082,28 @@
       "duration_ms": 579047,
       "name": "Melhor Amigo",
       "url": "https://open.spotify.com/track/2gXdP86FzOS4o1dJ92atfJ"
+    },
+    {
+      "album": {
+        "name": "Meu Amigo \u00c9 Deus (Ao Vivo)",
+        "url": "https://open.spotify.com/album/6YorWlOuBChcgJjZWnKktu"
+      },
+      "artists": [
+        {
+          "name": "Soraya Moraes",
+          "url": "https://open.spotify.com/artist/0IPQAIkLxcVSsxlTPPn3Bp"
+        },
+        {
+          "name": "Todah Music",
+          "url": "https://open.spotify.com/artist/1A5kGvmKIVtX7NhcbtTZJY"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 412695,
+      "name": "Meu Amigo \u00c9 Deus - Ao Vivo",
+      "url": "https://open.spotify.com/track/1gT5kwHXiHmDUbxg0E43ol"
     },
     {
       "album": {
@@ -3361,6 +3405,24 @@
     },
     {
       "album": {
+        "name": "Sei Que Est\u00e1s Aqui (Esp\u00edrito Santo)",
+        "url": "https://open.spotify.com/album/54o7ZDu0O8qCAp5wynnTo9"
+      },
+      "artists": [
+        {
+          "name": "Anayle Sullivan",
+          "url": "https://open.spotify.com/artist/1c2JR0YnL2s5tupBNip7LP"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 343393,
+      "name": "Sei Que Est\u00e1s Aqui (Esp\u00edrito Santo)",
+      "url": "https://open.spotify.com/track/217Of1vISdw7jjTtO62jHT"
+    },
+    {
+      "album": {
         "name": "Sempre Vou Te Amar (Ao Vivo)",
         "url": "https://open.spotify.com/album/4zL7PT3uZnulGZeD3CNlrL"
       },
@@ -3394,7 +3456,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-21",
       "duration_ms": 309537,
       "name": "Senhor Formoso \u00c9s / Ele \u00e9 Exaltado",
       "url": "https://open.spotify.com/track/4qs5rB4poxnuCBb5k5Ix5T"
@@ -3828,7 +3890,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-21",
       "duration_ms": 351808,
       "name": "Vida Aos Sepulcros - Ao Vivo",
       "url": "https://open.spotify.com/track/1KJDPb9x2L1mDRl5O2YEjs"

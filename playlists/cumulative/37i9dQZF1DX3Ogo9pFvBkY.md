@@ -4,7 +4,7 @@
 
 > Relax and unwind with chill, ambient music.
 
-769 songs - 1 day 16 hr 20 min
+770 songs - 1 day 16 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -737,7 +737,8 @@
 | [Velvet Fog](https://open.spotify.com/track/3XjuI2bR7r8XEWTCEIBuW0) | [Brendon Moeller](https://open.spotify.com/artist/3V3T5haMWZGfFxqVsAB9oB) | [Soaring](https://open.spotify.com/album/5LRb99HtgyQVkhKfdfAMGP) | 6:15 | 2020-01-03 | 2020-05-18 |
 | [Versuchen](https://open.spotify.com/track/5dhj9EMLIeq5R1zEo3PSni) | [Leo Baumgart](https://open.spotify.com/artist/0qFeRGzewB33eItfoNqrvd) | [Versuchen](https://open.spotify.com/album/6n04Dj1nhdwLCmm3421TC0) | 2:16 | 2021-06-16 |  |
 | [Vi møtes igjen](https://open.spotify.com/track/7tqxrJUeyG2a7mjtkkk8Oz) | [Tine Mydland](https://open.spotify.com/artist/2EvTWBcDR6yBKnXj4aCgQp) | [Vi møtes igjen](https://open.spotify.com/album/7pfvZelJPPsQL4FG7yKO1n) | 3:05 | 2020-09-16 | 2023-05-20 |
-| [View](https://open.spotify.com/track/3pAHf0eiUS1j7GwXzia6aq) | [Relax Yourself](https://open.spotify.com/artist/1oXaoCbLY1YghAsNg046iY), [Sizmara](https://open.spotify.com/artist/54kLR6UglFWK1l2EkHmTmX) | [View](https://open.spotify.com/album/7DIi1vnsQwqtJEDwg4e6RE) | 2:20 | 2022-09-30 |  |
+| [View](https://open.spotify.com/track/3pAHf0eiUS1j7GwXzia6aq) | [Relax Yourself](https://open.spotify.com/artist/1oXaoCbLY1YghAsNg046iY), [Sizmara](https://open.spotify.com/artist/54kLR6UglFWK1l2EkHmTmX) | [View](https://open.spotify.com/album/7DIi1vnsQwqtJEDwg4e6RE) | 2:20 | 2022-09-30 | 2023-10-21 |
+| [View](https://open.spotify.com/track/4Ev7p6DnW0jIZ1OVmDp68L) | [Relax Yourself](https://open.spotify.com/artist/1oXaoCbLY1YghAsNg046iY), [Sizmara](https://open.spotify.com/artist/54kLR6UglFWK1l2EkHmTmX) | [View](https://open.spotify.com/album/6fiKIWt5RXOedncIS6e75t) | 2:20 | 2023-10-20 |  |
 | [Vintage](https://open.spotify.com/track/30yViv5GnGGkvYH9StQzCg) | [Wintera Torres](https://open.spotify.com/artist/4M6Hd7GmBRIx2X6EPO7xg7) | [Nanosecond](https://open.spotify.com/album/7N2dqQlHBnRJgob86XdUJS) | 2:28 | 2023-05-02 |  |
 | [Violin Tales](https://open.spotify.com/track/0EbvVi0EEW2uSepHX83sY4) | [Leyenda](https://open.spotify.com/artist/1kgpTcXkeXeImymThm78ZB) | [Lost Tales](https://open.spotify.com/album/1rSfn4Fgame8VjA4vb7HjX) | 3:23 | 2019-05-26\* | 2020-01-03 |
 | [Vivante](https://open.spotify.com/track/6S0hwfRH6W5iLbAXl3cmB4) | [Darcel Gau](https://open.spotify.com/artist/7DTzBBL4JizumnVd4vLCTo) | [Vivante](https://open.spotify.com/album/5Kzb8AvMcFS801pp6SR012) | 2:13 | 2020-10-08 |  |

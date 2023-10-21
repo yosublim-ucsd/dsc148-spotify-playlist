@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX78toxP7mOaJ.md) - [plain]
 
 > Fresh rock from independent artists every Wednesday\. Cover: CARR \| Artwork: Jim Klok
 
-[Spotify](https://open.spotify.com/user/spotify) - 128,055 likes - 126 songs - 6 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 128,102 likes - 126 songs - 6 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -96,7 +96,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX78toxP7mOaJ.md) - [plain]
 | 86 | [Don't Hate Me](https://open.spotify.com/track/3IZX6KX7yL1EbQo0KxoTPT) | [Monday](https://open.spotify.com/artist/6IU3rw9IqxQpToMrg59Jio) | [Forever Yours](https://open.spotify.com/album/0B1eQLFEKR25dQ6Ot1A8zA) | 2:56 |
 | 87 | [Passing](https://open.spotify.com/track/6xWBnKAcKAM7HJ2hw6GGYM) | [Career Woman](https://open.spotify.com/artist/17RK5BpOKQ4YVtCHFWKK3y) | [Passing](https://open.spotify.com/album/7mhfR2VLl5BcrIVxbNuSV2) | 1:53 |
 | 88 | [This Shadow](https://open.spotify.com/track/4mWaL2Y7ZpoEsaJCVtJawK) | [Maggot Heart](https://open.spotify.com/artist/1fPlNcA88PnTHeLk7k57UJ) | [This Shadow](https://open.spotify.com/album/5Z2MKGswtMMQtvEN2qQX0G) | 5:35 |
-| 89 | [Domino](https://open.spotify.com/track/2sljACn0yvJccfg4Ub4cME) | [Sedona](https://open.spotify.com/artist/4ai3OpxVFijS26mHVzevoi) | [Domino \(Acoustic\)](https://open.spotify.com/album/0r1cEHZp9EsImonU8X8Aik) | 3:37 |
+| 89 | [Domino](https://open.spotify.com/track/2sljACn0yvJccfg4Ub4cME) | [Sedona](https://open.spotify.com/artist/4ai3OpxVFijS26mHVzevoi) | [Domino](https://open.spotify.com/album/0r1cEHZp9EsImonU8X8Aik) | 3:37 |
 | 90 | [Eutherians \(Ultramarine\)](https://open.spotify.com/track/28e2ijIPbnUzeU8b9xntzn) | [ME REX](https://open.spotify.com/artist/4i3bRgGFFhxCNJg4xURPJm) | [Eutherians \(Ultramarine\)](https://open.spotify.com/album/2F5jGyZ9z14KGjH4tdhPTA) | 4:13 |
 | 91 | [This One](https://open.spotify.com/track/5Qp6SIUrqZFSyYZHJkb6I0) | [Reggie Pearl](https://open.spotify.com/artist/0bqF0eDCWNkie7lHRS9fDe) | [This One](https://open.spotify.com/album/7xcV8IGE3Djn5vbk6ehdin) | 3:04 |
 | 92 | [Freaks Like Us](https://open.spotify.com/track/0chJDuzoUhpvfLJiSP4cEe) | [Dead Nature](https://open.spotify.com/artist/1H5QzIYx4Bl7urDoSCMtcp) | [Freaks Like Us](https://open.spotify.com/album/6aaFOSMUUxYBAJ3fcxZmBo) | 4:54 |
@@ -135,4 +135,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX78toxP7mOaJ.md) - [plain]
 | 125 | [Wind Up Merchant](https://open.spotify.com/track/4Op4RqAgY4FE1GotwYLw4x) | [My First Time](https://open.spotify.com/artist/2YCAJa2kGotOZAe5lWC4D0) | [Wind Up Merchant](https://open.spotify.com/album/0UHMSyyN0zZVcq7HBbXIsp) | 2:35 |
 | 126 | [Heavyweight](https://open.spotify.com/track/04bKfN1DmIwHAhvjaWmPgv) | [No Longer Kids](https://open.spotify.com/artist/39DMM7nr6ktYt2KfN6Bevg) | [Heavyweight](https://open.spotify.com/album/1cbUAh7LGxNsLpql5guTfB) | 3:11 |
 
-Snapshot ID: `MCwzNDBmYjQ1NTQ1MmM3N2Q0ZDliZWM0NzAzM2RiNzQ0YTI3NTg0Y2Fl`
+Snapshot ID: `MCwyYTY3ZDVjMzRiOTI5ZDZhY2RjNTJkMDhmNjMzM2U1MDRlZjRkYmIw`

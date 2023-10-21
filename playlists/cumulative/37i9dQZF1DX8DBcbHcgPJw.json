@@ -473,6 +473,28 @@
     },
     {
       "album": {
+        "name": "Aquellos Tiempos",
+        "url": "https://open.spotify.com/album/7cq6fr12VRaq8kgbvX8oJV"
+      },
+      "artists": [
+        {
+          "name": "La T y La M",
+          "url": "https://open.spotify.com/artist/1FxPMQ9A0882eNDx3ZkD6B"
+        },
+        {
+          "name": "Sael",
+          "url": "https://open.spotify.com/artist/6Itjwvv5YmsC8ZcI5N4Jux"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133711,
+      "name": "Aquellos Tiempos",
+      "url": "https://open.spotify.com/track/2J0L0LpkfmrVyZ9ez9ZfdY"
+    },
+    {
+      "album": {
         "name": "Asi Fue / Lloraras Mas de 10 Veces / Te Quiero",
         "url": "https://open.spotify.com/album/2UBWfidfb9slANGxBGUjkq"
       },
@@ -1484,7 +1506,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-21",
       "duration_ms": 192232,
       "name": "Cumbia de Antes",
       "url": "https://open.spotify.com/track/4oXjgj94T3tEagqvv8npZV"
@@ -2822,7 +2844,7 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-21",
       "duration_ms": 136000,
       "name": "Fr\u00e1gil",
       "url": "https://open.spotify.com/track/1qd5uMqqXcrr5YYdDhBnAc"
@@ -3374,7 +3396,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-21",
       "duration_ms": 145056,
       "name": "La Dif\u00edcil",
       "url": "https://open.spotify.com/track/2tgImTwBcW1lOWRaUYUUx2"
@@ -3542,7 +3564,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-21",
       "duration_ms": 164538,
       "name": "La Ruidosa",
       "url": "https://open.spotify.com/track/4IAfTVYUNOwogrxgGPz8b8"
@@ -4090,6 +4112,28 @@
       "duration_ms": 131004,
       "name": "Locuras contigo",
       "url": "https://open.spotify.com/track/5jMvnSyOgGY8JpvHqeyVOg"
+    },
+    {
+      "album": {
+        "name": "LOKITA",
+        "url": "https://open.spotify.com/album/4HcuTZU8zMdNHKfwWp9NMR"
+      },
+      "artists": [
+        {
+          "name": "RYH",
+          "url": "https://open.spotify.com/artist/51zgwqGYELQ4W7SobIyv8R"
+        },
+        {
+          "name": "El Villano",
+          "url": "https://open.spotify.com/artist/6nEgkeR03q2qtKZmrVq100"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151623,
+      "name": "LOKITA",
+      "url": "https://open.spotify.com/track/4bDKRo2qGLPQlbcEWCluKT"
     },
     {
       "album": {
@@ -5114,7 +5158,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-14",
+      "date_removed": null,
       "duration_ms": 152942,
       "name": "Noche de Party",
       "url": "https://open.spotify.com/track/4PDoCa5P0QK7KFhTsEKJB8"
@@ -5380,6 +5424,32 @@
       "duration_ms": 128537,
       "name": "Pasemos La Noche",
       "url": "https://open.spotify.com/track/0bUVn2PxF5NSKyPEyCDA6U"
+    },
+    {
+      "album": {
+        "name": "Pastillitas Pal Olvido",
+        "url": "https://open.spotify.com/album/4asUUGlYirr2pu5KjjDxFf"
+      },
+      "artists": [
+        {
+          "name": "El Reja",
+          "url": "https://open.spotify.com/artist/7HSeegdmjLYRJpkOYIaZIW"
+        },
+        {
+          "name": "Lira",
+          "url": "https://open.spotify.com/artist/1kyy6AW7C6Rr2jrYwz95Gi"
+        },
+        {
+          "name": "Max Carra",
+          "url": "https://open.spotify.com/artist/483P9cJ9pdCoc08XvNunPL"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160062,
+      "name": "Pastillitas Pal Olvido",
+      "url": "https://open.spotify.com/track/1tj0RZaEzgvV6ZqAeOE18H"
     },
     {
       "album": {

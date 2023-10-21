@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-04-19",
-  "description": "Some of the biggest artists, recorded live. It\u2019s (almost) like you were there.  Cover: Kelly Clarkson",
+  "description": "Some of the biggest artists, recorded live. It\u2019s (almost) like you were there.  Cover: Taylor Swift",
   "name": "Pop Live",
   "tracks": [
     {
@@ -491,6 +491,24 @@
     },
     {
       "album": {
+        "name": "The Cruelest Summer",
+        "url": "https://open.spotify.com/album/1nqF9ybDGwuGl1rVERp5Q4"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229566,
+      "name": "Cruel Summer - Live from TS | The Eras Tour",
+      "url": "https://open.spotify.com/track/6ClYMObS7f3Nn4AiZHYQt3"
+    },
+    {
+      "album": {
         "name": "Live At Wembley Arena",
         "url": "https://open.spotify.com/album/1mc8M9eR9ZIBxqWA2CA4Wo"
       },
@@ -829,6 +847,32 @@
     },
     {
       "album": {
+        "name": "My 21st Century Symphony. (Live at the Royal Albert Hall)",
+        "url": "https://open.spotify.com/album/0F0Fsao0H2ceIQdzGNTkrP"
+      },
+      "artists": [
+        {
+          "name": "RAYE",
+          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
+        },
+        {
+          "name": "The Heritage Orchestra",
+          "url": "https://open.spotify.com/artist/6r2opkx0McCgqlKKiTxGKx"
+        },
+        {
+          "name": "Anna Lapwood",
+          "url": "https://open.spotify.com/artist/0e2JUvil990IURjsq2PmqP"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 422283,
+      "name": "Escapism. - Live at the Royal Albert Hall",
+      "url": "https://open.spotify.com/track/3nb5nlbw4uM5posrOgKm6j"
+    },
+    {
+      "album": {
         "name": "One Voice",
         "url": "https://open.spotify.com/album/69TPOVVeA5VBEPWLrCMQ4f"
       },
@@ -948,7 +992,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-21",
       "duration_ms": 312211,
       "name": "Fastlove - Live",
       "url": "https://open.spotify.com/track/2cM4093hKmkWTF0Rc5OdJa"
@@ -2512,7 +2556,7 @@
       ],
       "date_added": "2023-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-21",
       "duration_ms": 299573,
       "name": "Moves Like Jagger - Live In Manchester",
       "url": "https://open.spotify.com/track/5TeLifYMYzXQxNmJv0sHLL"

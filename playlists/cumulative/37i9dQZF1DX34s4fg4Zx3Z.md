@@ -4,7 +4,7 @@
 
 > Khám phá 🎶 đáng nghe từ những 🎼 có thể bạn chưa biết\. Ảnh bìa: NGHI; thiết kế: Isu Kim
 
-1,346 songs - 3 day 6 hr 55 min
+1,347 songs - 3 day 6 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -94,7 +94,7 @@
 | [Anniverse](https://open.spotify.com/track/44pwrSHblfKSqwh6Ar2UEf) | [Linh Thộn](https://open.spotify.com/artist/50bDh0lNWnngFN237F1rJq) | [Anniverse](https://open.spotify.com/album/16E5aldZmJZYnCej4uf8kU) | 2:27 | 2022-03-08 | 2023-01-06 |
 | [APOLLO 11 \(feat\. Imatxi\)](https://open.spotify.com/track/4uZmWzi1lQr1wbaVK0WYop) | [Flymingo](https://open.spotify.com/artist/4iQrbBMUZeRFvCLsPmZb7B), [Imatxi](https://open.spotify.com/artist/2cZyDcLOcp6FPndTzJZrQ3) | [APOLLO 11](https://open.spotify.com/album/1DIo4e2RAQusr8aSc1Edx8) | 3:17 | 2022-01-06 | 2022-01-15 |
 | [apple of my eyes](https://open.spotify.com/track/3T6c8p48siqycCgkHcXlL0) | [kwkt](https://open.spotify.com/artist/0sZh9WUdVMwB3BXnLkf6Yy) | [apple of my eyes](https://open.spotify.com/album/1vUwRr0bJMeeSWxJy9ctL6) | 2:17 | 2022-08-26 | 2022-09-19 |
-| [April](https://open.spotify.com/track/7ibfoNcwydFIAi5UfTnyoD) | [qt.](https://open.spotify.com/artist/2PZrzgPEzozv50Ccu7f3ld) | [HAPPY](https://open.spotify.com/album/5oCnZaBNDb10lteseSrklw) | 3:54 | 2023-10-19 |  |
+| [April \(hi vọng em\)](https://open.spotify.com/track/7ibfoNcwydFIAi5UfTnyoD) | [qt.](https://open.spotify.com/artist/2PZrzgPEzozv50Ccu7f3ld) | [HAPPY](https://open.spotify.com/album/5oCnZaBNDb10lteseSrklw) | 3:54 | 2023-10-19 |  |
 | [Awful Day](https://open.spotify.com/track/0ibbMM3GdmtESZfGv8vsEV) | [Teddie J](https://open.spotify.com/artist/5L6kiKUKCDWxCg3gOKDEMk), [Mon Dương](https://open.spotify.com/artist/4JUvycEAovQNosslTeQ2tS) | [Awful Day](https://open.spotify.com/album/7mQQvvwhHQ8SLQVCRKXgTw) | 4:12 | 2022-01-26 | 2022-04-05 |
 | [B A B Y B O O](https://open.spotify.com/track/78r5FdPLQW2w2uFeU3rTeH) | [Traang](https://open.spotify.com/artist/2OTl1gQWIVgQTBm0v6Ut51) | [B A B Y B O O](https://open.spotify.com/album/0nJkYgpER1LQuSnppLKOzZ) | 2:12 | 2022-03-17 | 2022-04-15 |
 | [BABI CHO ANH MỘNG MER](https://open.spotify.com/track/7k0j1hALeDvdCshyo1CpRF) | [Daduc](https://open.spotify.com/artist/2IoOywNR2WMJSIVdPYhUCB), [DAGIAM](https://open.spotify.com/artist/0ACCThk8sjoRlvmeBJ90Hg) | [BABI CHO ANH MỘNG MER](https://open.spotify.com/album/5XxY2OkSjmDPJRWLEUQMim) | 3:23 | 2022-04-22 | 2022-07-10 |
@@ -806,6 +806,7 @@
 | [Như Ngày Đầu](https://open.spotify.com/track/7p5kzU31pqb3teG2C2C8bB) | [Starry Night](https://open.spotify.com/artist/3eIwGWU86iuKq4HoUoZl6P) | [Như Ngày Đầu](https://open.spotify.com/album/6lyQW4iFBtl1KsfvaJll1d) | 4:30 | 2023-06-26 | 2023-07-14 |
 | [Như Ngón Tay Ta Đan Vào Nhau](https://open.spotify.com/track/0yJ6z2SkZj3to9AfOXyUeS) | [Fong](https://open.spotify.com/artist/5Y9b5Ez8MKbGOdRGF9exkq), [Zxdiac](https://open.spotify.com/artist/2JdXVtDSwx0INNNd4pyZYI) | [Như Ngón Tay Ta Đan Vào Nhau](https://open.spotify.com/album/5Vt6QOKttJbwHIYvBlkvff) | 3:31 | 2022-06-30 | 2023-01-06 |
 | [Nhưng Anh Vẫn Muốn](https://open.spotify.com/track/2KzKTozn1e5OekCPW5j7KF) | [orei](https://open.spotify.com/artist/57jlfYAkmb8Kijuihad9T3) | [Nhưng Anh Vẫn Muốn](https://open.spotify.com/album/7gebVwJfyPGML33YTbcmhU) | 3:37 | 2023-08-10 | 2023-09-13 |
+| [Nhạc Bùn](https://open.spotify.com/track/3bG2AaDkN7LhlfdpN8VR7H) | [Truc Ban Bun](https://open.spotify.com/artist/1gRltC2Wy0Gi2cxsDDJrh6), [Shartnuss](https://open.spotify.com/artist/2BoU3GzyaG397l5ci1twa9) | [Nhạc Bùn](https://open.spotify.com/album/3KbGb0ByJbmo1sc1kxCs3h) | 4:16 | 2023-10-19 |  |
 | [Nhạc Lớp 2](https://open.spotify.com/track/2MHbagFEPARSCganAMXoEk) | [Peakrozes](https://open.spotify.com/artist/7kdaxyNyACi5ZVN0hQ9dMg), [Namchan](https://open.spotify.com/artist/50nO5ayfr3HKGM19l7vsO6) | [Nhạc Lớp 2](https://open.spotify.com/album/2zRARPSnqvvxJV1jpYbLkp) | 2:42 | 2023-04-19 | 2023-05-05 |
 | [Nhất Trên Đời](https://open.spotify.com/track/0QONI1k5CxAgrKCJUcVYrJ) | [VAnh](https://open.spotify.com/artist/4QC9UUJeYEo4wnbTvuOHLo), [BMZ](https://open.spotify.com/artist/3euFcFd5Dc7JAz6t7oKg7m) | [Nhất Trên Đời](https://open.spotify.com/album/615Fpqzao6j8N0HGPXcUwU) | 3:04 | 2023-01-12 | 2023-01-19 |
 | [Nhầm To Rồi Đấy](https://open.spotify.com/track/3IRMnNVRLEzCQ6XQ6gz6JO) | [Woni](https://open.spotify.com/artist/0bTZ4h4TZrOB8cHsqeW0sm), [Vy Dương](https://open.spotify.com/artist/72LLiDCylhkxp2NQnesTAE) | [Nhầm To Rồi Đấy](https://open.spotify.com/album/2Ql65m5p0u716JqMNE3l84) | 3:32 | 2022-03-10 | 2022-03-18 |

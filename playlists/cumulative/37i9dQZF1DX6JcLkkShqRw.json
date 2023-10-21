@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "Flow sudamericano con Lucky Brown & Jere Klein.",
+  "description": "Flow sudamericano con Neo Pistea, Bhavi, KHEA y C.R.O.",
   "name": "Flow al Sur",
   "tracks": [
     {
@@ -672,7 +672,7 @@
       ],
       "date_added": "2022-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-21",
       "duration_ms": 191555,
       "name": "A Veces (feat. Feid)",
       "url": "https://open.spotify.com/track/63OA8vSo2PhUkmQopR1l64"
@@ -796,7 +796,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-21",
       "duration_ms": 125142,
       "name": "ACTITUD",
       "url": "https://open.spotify.com/track/2ZHN30E4lGPIyRfzy6HPGe"
@@ -2704,7 +2704,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-21",
       "duration_ms": 147666,
       "name": "Bonito",
       "url": "https://open.spotify.com/track/2pAwXswCcaUtMzC5lpskME"
@@ -3643,6 +3643,44 @@
     },
     {
       "album": {
+        "name": "Como Antes (feat. Carlitos Rossy, Agus Padilla & Best)",
+        "url": "https://open.spotify.com/album/2sho86nPrAUwBZoKDggCrs"
+      },
+      "artists": [
+        {
+          "name": "Jairo Vera",
+          "url": "https://open.spotify.com/artist/5CAruGjgds3QlF5ICtEnnc"
+        },
+        {
+          "name": "Gino Mella",
+          "url": "https://open.spotify.com/artist/7HYJrA3HSTNDmkl5pylhaY"
+        },
+        {
+          "name": "J Alvarez",
+          "url": "https://open.spotify.com/artist/6XFITTl7cFTdopDY3lUdlY"
+        },
+        {
+          "name": "Carlitos Rossy",
+          "url": "https://open.spotify.com/artist/0FDJB5xf8i09jDjIg1qNED"
+        },
+        {
+          "name": "Agus Padilla",
+          "url": "https://open.spotify.com/artist/2qmA5QmaGZH3ky4qq25d1m"
+        },
+        {
+          "name": "Best",
+          "url": "https://open.spotify.com/artist/4Ng3fh1nc5L04iXPL8vqc7"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 276927,
+      "name": "Como Antes (feat. Carlitos Rossy, Agus Padilla & Best)",
+      "url": "https://open.spotify.com/track/2l3bporWnhbXY7O7pLcBUf"
+    },
+    {
+      "album": {
         "name": "Como Batman",
         "url": "https://open.spotify.com/album/3L7hRsR6jJtpxKq9S3zRnC"
       },
@@ -4052,6 +4090,24 @@
       "duration_ms": 117533,
       "name": "Copacabana",
       "url": "https://open.spotify.com/track/6TdKDyEmYreudp1NcvorV8"
+    },
+    {
+      "album": {
+        "name": "COPY+PASTE",
+        "url": "https://open.spotify.com/album/2PHqlhJf3wMNXfUvCGMPWk"
+      },
+      "artists": [
+        {
+          "name": "Paloma Mami",
+          "url": "https://open.spotify.com/artist/7rOlQwf8OuFLFQp4aydjBt"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139746,
+      "name": "COPY+PASTE",
+      "url": "https://open.spotify.com/track/4lNJPSKTlH5H2LQAX0pqH2"
     },
     {
       "album": {
@@ -5617,6 +5673,28 @@
     },
     {
       "album": {
+        "name": "Donde Sea",
+        "url": "https://open.spotify.com/album/1m6ADtns6lBk1GnjHxkrkH"
+      },
+      "artists": [
+        {
+          "name": "Balbi El Chamako",
+          "url": "https://open.spotify.com/artist/3k090bKo2iSqNdowffKHrt"
+        },
+        {
+          "name": "Lucky Brown",
+          "url": "https://open.spotify.com/artist/11HepfI1lj6KJHj651rZhM"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162507,
+      "name": "Donde Sea",
+      "url": "https://open.spotify.com/track/76PbCscOhFQDNbcec2o8fe"
+    },
+    {
+      "album": {
         "name": "DONDE SEA",
         "url": "https://open.spotify.com/album/6fX3aAR6VgAmRKPCTlheG6"
       },
@@ -6290,7 +6368,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-21",
       "duration_ms": 129813,
       "name": "En Perso",
       "url": "https://open.spotify.com/track/6fR7jewLNbI89yUC9cio6v"
@@ -6452,6 +6530,28 @@
       "duration_ms": 179368,
       "name": "Es Hoy",
       "url": "https://open.spotify.com/track/5H4HVd8d7dtT81qs1WMKbI"
+    },
+    {
+      "album": {
+        "name": "ESA LA K TENI",
+        "url": "https://open.spotify.com/album/0RwZTPvTXOZaCliG1PzHD9"
+      },
+      "artists": [
+        {
+          "name": "Martinwhite",
+          "url": "https://open.spotify.com/artist/1PANUPmT5KUDGs3Xgkhw3T"
+        },
+        {
+          "name": "Harry Nach",
+          "url": "https://open.spotify.com/artist/0NnUMWDCDi1snuMja6IdxH"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146776,
+      "name": "ESA LA K TENI",
+      "url": "https://open.spotify.com/track/6TKtO9kl5eujW026n4drO3"
     },
     {
       "album": {
@@ -7206,6 +7306,32 @@
       "duration_ms": 240484,
       "name": "Follow Me",
       "url": "https://open.spotify.com/track/6OW1NKPsqCnsvbb1XQgWf4"
+    },
+    {
+      "album": {
+        "name": "For Real",
+        "url": "https://open.spotify.com/album/39DtqhbsXyhlGd2TKUkCvO"
+      },
+      "artists": [
+        {
+          "name": "Sofia Hervier",
+          "url": "https://open.spotify.com/artist/0bk1zGf1qLB7YC2NXPByE3"
+        },
+        {
+          "name": "Esteza",
+          "url": "https://open.spotify.com/artist/4ywTwQEW20qTHhC7nJPZsJ"
+        },
+        {
+          "name": "LUCATO",
+          "url": "https://open.spotify.com/artist/7g45ys9hIN4FYd3evubK8l"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157099,
+      "name": "For Real",
+      "url": "https://open.spotify.com/track/6o2TubE4xoZMLnOnT3irwU"
     },
     {
       "album": {
@@ -8056,6 +8182,28 @@
       "duration_ms": 240078,
       "name": "Hay Amores Que Matan",
       "url": "https://open.spotify.com/track/7M2JpesNr8szASXoW8fyG1"
+    },
+    {
+      "album": {
+        "name": "Haze",
+        "url": "https://open.spotify.com/album/66SQPXKl6mPe2FvnJ7E0Fv"
+      },
+      "artists": [
+        {
+          "name": "GUNTTER",
+          "url": "https://open.spotify.com/artist/3psizJPIbIEEctInvdWSZk"
+        },
+        {
+          "name": "IcyCold",
+          "url": "https://open.spotify.com/artist/2hTZ25RcIVEvv3cb3EiWpM"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230731,
+      "name": "Haze",
+      "url": "https://open.spotify.com/track/3ovV159vKt8tf7pIlILxWN"
     },
     {
       "album": {
@@ -12972,7 +13120,7 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-21",
       "duration_ms": 156521,
       "name": "M\u00edrame",
       "url": "https://open.spotify.com/track/3pbySFbqs0u2nhhti6PhGQ"
@@ -14257,6 +14405,36 @@
     },
     {
       "album": {
+        "name": "OCASO",
+        "url": "https://open.spotify.com/album/4aGeeKBhCMXmnGerGbGGcI"
+      },
+      "artists": [
+        {
+          "name": "Bhavi",
+          "url": "https://open.spotify.com/artist/7fT2Me47PQ8T7954PKrcwR"
+        },
+        {
+          "name": "C.R.O",
+          "url": "https://open.spotify.com/artist/4puAp107dCehraE47QXVQX"
+        },
+        {
+          "name": "KHEA",
+          "url": "https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR"
+        },
+        {
+          "name": "Neo Pistea",
+          "url": "https://open.spotify.com/artist/01m2XZ7m7rAz6KY3scTdaV"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233273,
+      "name": "OCASO",
+      "url": "https://open.spotify.com/track/2KibbfI1tM4ofl4f3ojVBF"
+    },
+    {
+      "album": {
         "name": "Ocho",
         "url": "https://open.spotify.com/album/4tQk8SwZ5dF5n5LihU6KJz"
       },
@@ -14996,6 +15174,32 @@
       "duration_ms": 196415,
       "name": "Pal Carajo el Amor",
       "url": "https://open.spotify.com/track/4AM8g5OElpKpuHjMuH1PSk"
+    },
+    {
+      "album": {
+        "name": "Paleta",
+        "url": "https://open.spotify.com/album/2DZ3uDCcvlRMclDxa7XZV1"
+      },
+      "artists": [
+        {
+          "name": "Ceaese",
+          "url": "https://open.spotify.com/artist/580taoAhpqvyGCRoJsVdw9"
+        },
+        {
+          "name": "Ms Nina",
+          "url": "https://open.spotify.com/artist/43Hr2FjhVehkROIIEb7EfQ"
+        },
+        {
+          "name": "Julianno Sosa",
+          "url": "https://open.spotify.com/artist/4IC2X34tZmHG3VfTbpzvwL"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161216,
+      "name": "Paleta",
+      "url": "https://open.spotify.com/track/625y4TWL5q781xk7LOBTkv"
     },
     {
       "album": {
@@ -17096,7 +17300,7 @@
       ],
       "date_added": "2023-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-21",
       "duration_ms": 127200,
       "name": "RICKY RICON",
       "url": "https://open.spotify.com/track/5iPk6ylNdN0Rw8bMtQzIgh"
@@ -18265,6 +18469,28 @@
     },
     {
       "album": {
+        "name": "Sin Ganas",
+        "url": "https://open.spotify.com/album/2zFs2lhofV1rVbs86T8W5G"
+      },
+      "artists": [
+        {
+          "name": "POLO133",
+          "url": "https://open.spotify.com/artist/7aMgUfXztSt88ctfcG5lCe"
+        },
+        {
+          "name": "MYKKA",
+          "url": "https://open.spotify.com/artist/7qUmZzfGAo66NPgOEx0MWa"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130746,
+      "name": "Sin Ganas",
+      "url": "https://open.spotify.com/track/6F4Rx74JlcSGA5B6EAyYWB"
+    },
+    {
+      "album": {
         "name": "SIN GOTEO",
         "url": "https://open.spotify.com/album/4TntxQrt5dfhnYhrrvPoUo"
       },
@@ -19118,7 +19344,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-21",
       "duration_ms": 214801,
       "name": "Te Gust\u00f3",
       "url": "https://open.spotify.com/track/0Ec5NO9g6ImmDzC0BksSPR"
@@ -20598,7 +20824,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-21",
       "duration_ms": 177854,
       "name": "t\u00fa no",
       "url": "https://open.spotify.com/track/1yo6ROQQqWAHNb6alahCoY"
@@ -21494,7 +21720,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-21",
       "duration_ms": 191370,
       "name": "VITAMINA D",
       "url": "https://open.spotify.com/track/3fyTzHQ46mylLRmHL1kphx"

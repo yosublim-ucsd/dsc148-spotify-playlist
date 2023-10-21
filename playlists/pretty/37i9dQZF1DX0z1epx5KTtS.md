@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0z1epx5KTtS.md) - [plain]
 
 > African dance party music from Paris to Abidjan\. Photo : Serge Beynaud
 
-[Spotify](https://open.spotify.com/user/spotify) - 75,703 likes - 40 songs - 2 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 75,754 likes - 40 songs - 2 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0z1epx5KTtS.md) - [plain]
 | 39 | [On Est Puissant](https://open.spotify.com/track/4mWZwZ51xakJxKs9sMbASX) | [Revolution](https://open.spotify.com/artist/599jagD7OBej5DjDC24Ext) | [On Est Puissant](https://open.spotify.com/album/6uCH7SU24RiZ1qIlkdsTOO) | 3:25 |
 | 40 | [Abidjan Est Doux](https://open.spotify.com/track/4qR40v3cDfonhumDnEMbZF) | [Santrinos Raphael](https://open.spotify.com/artist/0fmjzVxcH2aZo4tRAiRT1h), [Debordo Leekunfa](https://open.spotify.com/artist/5FifERNGZjGW4axWwm0Q8f) | [Abidjan Est Doux](https://open.spotify.com/album/6ILXeDfNlfiHuf7FS46ad4) | 3:44 |
 
-Snapshot ID: `MCwwMGJjZjJkZmI0MGU1MTZjZmM2NzllN2IxNmIyNDhlYzllZTlkOTM3`
+Snapshot ID: `MCwyNGY1M2FmMmJiZjJhMDlkNGMwZmRiNzZhMDAyNmEzNTY2ZmFhMTdh`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Vl51vsat7a.md) - [plain]
 
 > Discover your new favourite artists with a focus on Germany, Switzerland, Austria\. Cover: Cloudy June
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,574 likes - 60 songs - 3 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,583 likes - 60 songs - 3 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Vl51vsat7a.md) - [plain]
 | 11 | [Piccolo](https://open.spotify.com/track/0g3hdWIwkYStsPojCvDIG0) | [MAJAN](https://open.spotify.com/artist/60pVmLS5zlt31OWk340O3U) | [Piccolo](https://open.spotify.com/album/3Imzkvlri6mG8V04fsdFkv) | 2:27 |
 | 12 | [All that I am](https://open.spotify.com/track/5V9Da2AvLFqb12cpZ40jPH) | [ÄTNA](https://open.spotify.com/artist/4ORnI4BzjKFbUply6fRvkX) | [All that I am](https://open.spotify.com/album/1rBwUaaFaq4cR8zkPija3W) | 4:37 |
 | 13 | [Summertime Love](https://open.spotify.com/track/1E9EYbxszlcWOzJcl5ZCDC) | [Mathea](https://open.spotify.com/artist/3r5Kc95Oz8lDc8BL9ChO7n) | [Summertime Love](https://open.spotify.com/album/6EwEfoNXHySH3y02pMYxAb) | 2:35 |
-| 14 | [Good Good](https://open.spotify.com/track/4clhJIomittfffOssrsKMh) | [LIE NING](https://open.spotify.com/artist/1X6lOLyGCw9kfdChwHIbVs) | [Good Good](https://open.spotify.com/album/5G2EiAE53X62bW3erdq1lw) | 2:35 |
+| 14 | [good good](https://open.spotify.com/track/4clhJIomittfffOssrsKMh) | [LIE NING](https://open.spotify.com/artist/1X6lOLyGCw9kfdChwHIbVs) | [good good](https://open.spotify.com/album/5G2EiAE53X62bW3erdq1lw) | 2:35 |
 | 15 | [Bulletproof](https://open.spotify.com/track/0wQ0yPIeyJAvSBCRu9PGon) | [Keir](https://open.spotify.com/artist/2YOYjcNXjBJSW1STwwhE74) | [KEIR](https://open.spotify.com/album/6DIwGl4xl6vRf3LTzJuyuJ) | 2:34 |
 | 16 | [S1](https://open.spotify.com/track/5M9h1FePRQwKlOOFdt9OSF) | [01099](https://open.spotify.com/artist/3Z3aTg9PwJ37e8xeO0aUC9) | [S1](https://open.spotify.com/album/28Ud7hGlfVUwAMWxkW1RoJ) | 3:12 |
 | 17 | [One More Time](https://open.spotify.com/track/1s2LA4dVnWikMXVtyBRaj1) | [CÉLINE](https://open.spotify.com/artist/5ZYOlPpI9FZu2uIPkTB0UA) | [One More Time](https://open.spotify.com/album/18Vr8wifIO7BQsPEgD1OgN) | 2:49 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Vl51vsat7a.md) - [plain]
 | 59 | [Lipsticks & Heartbreaks](https://open.spotify.com/track/5WX5hHwiJnFx9IIcCKxWWP) | [Kynda Gray](https://open.spotify.com/artist/3LPEGy5eAGPgKYJVrkRuSX) | [Lipsticks & Heartbreaks](https://open.spotify.com/album/5mkpbYUEBkj9tRJ3aKGUdc) | 2:10 |
 | 60 | [Paranoid](https://open.spotify.com/track/0HMqKvy71TIbFMZP573ggQ) | [Leoniden](https://open.spotify.com/artist/1zwtew8BGPk66RKGQqtPCX) | [Complex Happenings Reduced To A Simple Design](https://open.spotify.com/album/759AQPUMn36dDf7cRSwsmF) | 3:16 |
 
-Snapshot ID: `MCw2MmU4ZjE5Y2NmNmE3MTIwYzk4NDg4YWUzZDU2MjNkMjY2N2M5N2Zm`
+Snapshot ID: `MCw0NjgwYjJmYzg1YjJmZDVhNGNlY2JkNmM5MzUxMWQwMzMzMjI0ZTlj`

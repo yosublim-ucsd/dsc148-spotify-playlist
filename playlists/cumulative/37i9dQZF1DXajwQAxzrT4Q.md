@@ -4,7 +4,7 @@
 
 > Bounce to the Brick City sound\. From New Jersey to the world\. Cover: Lay Bankz
 
-288 songs - 11 hr 39 min
+289 songs - 11 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -146,7 +146,8 @@
 | [Jersey](https://open.spotify.com/track/7MyhIzwqpwfetObvzcTbkm) | [DJ Sliink](https://open.spotify.com/artist/0t9dGS12PMZmiJiZa9vpyk), [DJ Jayhood](https://open.spotify.com/artist/7s0NPSWJQJOS4TNhENy85G) | [Jersey](https://open.spotify.com/album/5EnJvSStUdPIIARqHW0LAG) | 2:23 | 2022-02-11 | 2022-07-28 |
 | [Jersey Anniversary](https://open.spotify.com/track/4dNU2ZPVNFv5kDGee25DSU) | [KiaBHN](https://open.spotify.com/artist/6qEQN3nqhzCkT8tFvlmPLk), [Tony! Toni! Toné!](https://open.spotify.com/artist/7vWlb4pM85jCHvV771qZZW), [DJ BigO](https://open.spotify.com/artist/2Cy1KpNWiTxaVCwDgz0jRD), [Vivid The Producer](https://open.spotify.com/artist/00NSEb3Siwey1RGnfGayah), [DJ Sliink](https://open.spotify.com/artist/0t9dGS12PMZmiJiZa9vpyk) | [Gratitude](https://open.spotify.com/album/6YH27S9buQftksi0FRgh0f) | 3:12 | 2022-07-08 |  |
 | [Jersey Club Movie](https://open.spotify.com/track/0kLyN93Q5LbMY8Ac1rR4sR) | [UNIIQU3](https://open.spotify.com/artist/5aR8qSaApKChlZvzB0Jfpx) | [Jersey Club Movie](https://open.spotify.com/album/5dwSceWZg4NNLabLstdnDN) | 1:37 | 2023-04-27 | 2023-08-12 |
-| [jersey luv](https://open.spotify.com/track/2Z2MAil7tpZhHOB2noIJUd) | [GROOVY](https://open.spotify.com/artist/6Y6qIKwe32BxNflpxbKsJc), [B Jack$](https://open.spotify.com/artist/2bnV4zuMP2tBXzsGbPmkuo) | [jersey luv](https://open.spotify.com/album/0d6POIYXleUr4Wrh0oRk8U) | 3:51 | 2023-07-10 |  |
+| [jersey luv](https://open.spotify.com/track/50kWigrg0O9DFUzzbgJMZO) | [GROOVY](https://open.spotify.com/artist/6Y6qIKwe32BxNflpxbKsJc), [B Jack$](https://open.spotify.com/artist/2bnV4zuMP2tBXzsGbPmkuo) | [jersey luv](https://open.spotify.com/album/6z30pC8bxK3JIWRhLLbXwr) | 3:51 | 2023-09-29 |  |
+| [jersey luv](https://open.spotify.com/track/2Z2MAil7tpZhHOB2noIJUd) | [GROOVY](https://open.spotify.com/artist/6Y6qIKwe32BxNflpxbKsJc), [B Jack$](https://open.spotify.com/artist/2bnV4zuMP2tBXzsGbPmkuo) | [jersey luv](https://open.spotify.com/album/0d6POIYXleUr4Wrh0oRk8U) | 3:51 | 2023-07-10 | 2023-10-21 |
 | [Jimmy Crooks](https://open.spotify.com/track/5gRf48AnnCzltY9iYhE5p3) | [Tricks](https://open.spotify.com/artist/4rB77iwq0xxEWn1Di6ihxT) | [Jimmy Crooks](https://open.spotify.com/album/6fYt6tWcPaURUSfzovB2vG) | 2:25 | 2022-07-22 | 2022-12-31 |
 | [JIMMY CROOKS \- Remix](https://open.spotify.com/track/1Fyezl6Ep6Swory5K78NR3) | [Tricks](https://open.spotify.com/artist/4rB77iwq0xxEWn1Di6ihxT) | [JIMMY CROOKS \(Remix\)](https://open.spotify.com/album/2MA1NPxeBKMzkCxWYguYYT) | 2:25 | 2022-07-08 | 2022-07-29 |
 | [Just Like Dattt](https://open.spotify.com/track/33b1eMX4Ou2lBun4Q3Gw0U) | [Dj Crazy](https://open.spotify.com/artist/0vqv7Yvt85sVlmdESOFPuK), [D4M $loan](https://open.spotify.com/artist/4MBzjGQUGCFZQw4PWKjLcT) | [LETS GO CRAZY ALBUM](https://open.spotify.com/album/3Kt9ARmqOw5IDcVOUspokD) | 2:21 | 2022-12-30 | 2023-01-06 |

@@ -1,12 +1,12 @@
 {
   "description": "Many would say that this decade is a \"Golden Era\" for country music. Cover: Patsy Cline",
-  "num_followers": 371131,
+  "num_followers": 371234,
   "original_name": "60s Country",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1NGNjMDAyMWE4MzNmOGNlMjdhODJjOTIzMDk4N2JmOTZlNzk5YmEy",
+  "snapshot_id": "MCw4NjBhZTY3YWQ0NjliYmFjMzc3MGIyZmRmYjdkMjFmNzI1OGY1ODkw",
   "tracks": [
     {
       "added_at": "2023-05-19 04:01:00",
@@ -599,22 +599,6 @@
     {
       "added_at": "2023-05-19 04:01:00",
       "album": {
-        "name": "Johnny Tillotson's Best",
-        "url": "https://open.spotify.com/album/23FZ6dkeF3N8cAfVqzggFR"
-      },
-      "artists": [
-        {
-          "name": "Johnny Tillotson",
-          "url": "https://open.spotify.com/artist/36msvw9B10rxW90NSQ2794"
-        }
-      ],
-      "duration_ms": 127106,
-      "name": "Why Do I Love You So - 1960 #42 Billboard chart hit",
-      "url": "https://open.spotify.com/track/2hh6RGmBNTGB7fi62fYgUL"
-    },
-    {
-      "added_at": "2023-05-19 04:01:00",
-      "album": {
         "name": "All-American Cowboy",
         "url": "https://open.spotify.com/album/5tSfvArzn1TQdXx2UKJlv0"
       },
@@ -627,6 +611,22 @@
       "duration_ms": 160784,
       "name": "Skip a Rope",
       "url": "https://open.spotify.com/track/2kzVFcp3kSU1Qld4dYBM7L"
+    },
+    {
+      "added_at": "2023-05-19 04:01:00",
+      "album": {
+        "name": "Johnny Tillotson's Best",
+        "url": "https://open.spotify.com/album/23FZ6dkeF3N8cAfVqzggFR"
+      },
+      "artists": [
+        {
+          "name": "Johnny Tillotson",
+          "url": "https://open.spotify.com/artist/36msvw9B10rxW90NSQ2794"
+        }
+      ],
+      "duration_ms": 127106,
+      "name": "Why Do I Love You So - 1960 #42 Billboard chart hit",
+      "url": "https://open.spotify.com/track/2hh6RGmBNTGB7fi62fYgUL"
     },
     {
       "added_at": "2023-05-19 04:01:00",
@@ -823,22 +823,6 @@
     {
       "added_at": "2023-05-19 04:01:00",
       "album": {
-        "name": "Glen Campbell - The Capitol Years 1965 - 1977",
-        "url": "https://open.spotify.com/album/5MrXG5mhgenrHar4S8iQdy"
-      },
-      "artists": [
-        {
-          "name": "Glen Campbell",
-          "url": "https://open.spotify.com/artist/59hLmB5DrdihCYtNeFeW1U"
-        }
-      ],
-      "duration_ms": 160866,
-      "name": "Galveston",
-      "url": "https://open.spotify.com/track/6oXkUmLOdmsEQS4AlEIKZ8"
-    },
-    {
-      "added_at": "2023-05-19 04:01:00",
-      "album": {
         "name": "RCA Country Legends",
         "url": "https://open.spotify.com/album/1mHCzqO6vjOdtwLZbWC4N6"
       },
@@ -851,6 +835,22 @@
       "duration_ms": 141466,
       "name": "Please Help Me, I'm Falling",
       "url": "https://open.spotify.com/track/0dc0eU5THc1uE0Q0KV73XN"
+    },
+    {
+      "added_at": "2023-05-19 04:01:00",
+      "album": {
+        "name": "Glen Campbell - The Capitol Years 1965 - 1977",
+        "url": "https://open.spotify.com/album/5MrXG5mhgenrHar4S8iQdy"
+      },
+      "artists": [
+        {
+          "name": "Glen Campbell",
+          "url": "https://open.spotify.com/artist/59hLmB5DrdihCYtNeFeW1U"
+        }
+      ],
+      "duration_ms": 160866,
+      "name": "Galveston",
+      "url": "https://open.spotify.com/track/6oXkUmLOdmsEQS4AlEIKZ8"
     },
     {
       "added_at": "2023-05-19 04:01:00",
@@ -1443,6 +1443,22 @@
     {
       "added_at": "2023-05-19 04:01:00",
       "album": {
+        "name": "Country Heart: 24 Favorite Songs",
+        "url": "https://open.spotify.com/album/15HPAnwnYAOmyOOTvQpgjn"
+      },
+      "artists": [
+        {
+          "name": "George Jones",
+          "url": "https://open.spotify.com/artist/2OpqcUtj10HHvGG6h9VYC5"
+        }
+      ],
+      "duration_ms": 138000,
+      "name": "Walk Through This World With Me",
+      "url": "https://open.spotify.com/track/61l4nlG7v1D9V14PfBWz0P"
+    },
+    {
+      "added_at": "2023-05-19 04:01:00",
+      "album": {
         "name": "Capitol Collectors Series",
         "url": "https://open.spotify.com/album/6HMxJGDVtEsqpeOJlJHNhH"
       },
@@ -1475,18 +1491,18 @@
     {
       "added_at": "2023-05-19 04:01:00",
       "album": {
-        "name": "Country Heart: 24 Favorite Songs",
-        "url": "https://open.spotify.com/album/15HPAnwnYAOmyOOTvQpgjn"
+        "name": "The Complete Capitol Singles: 1957-1966",
+        "url": "https://open.spotify.com/album/1WllgaSsuf3emf53KiMKAy"
       },
       "artists": [
         {
-          "name": "George Jones",
-          "url": "https://open.spotify.com/artist/2OpqcUtj10HHvGG6h9VYC5"
+          "name": "Buck Owens & The Buckaroos",
+          "url": "https://open.spotify.com/artist/41GBMTInlbb2bey1N6VAzV"
         }
       ],
-      "duration_ms": 138000,
-      "name": "Walk Through This World With Me",
-      "url": "https://open.spotify.com/track/61l4nlG7v1D9V14PfBWz0P"
+      "duration_ms": 121893,
+      "name": "Love's Gonna Live Here - Mono Single Version",
+      "url": "https://open.spotify.com/track/3ykinxbR3mQYkMHCA47GWr"
     },
     {
       "added_at": "2023-05-19 04:01:00",
@@ -1519,22 +1535,6 @@
       "duration_ms": 182573,
       "name": "Saginaw, Michigan",
       "url": "https://open.spotify.com/track/0ulPILleWfE1NBzUWIiNi9"
-    },
-    {
-      "added_at": "2023-05-19 04:01:00",
-      "album": {
-        "name": "The Complete Capitol Singles: 1957-1966",
-        "url": "https://open.spotify.com/album/1WllgaSsuf3emf53KiMKAy"
-      },
-      "artists": [
-        {
-          "name": "Buck Owens & The Buckaroos",
-          "url": "https://open.spotify.com/artist/41GBMTInlbb2bey1N6VAzV"
-        }
-      ],
-      "duration_ms": 121893,
-      "name": "Love's Gonna Live Here - Mono Single Version",
-      "url": "https://open.spotify.com/track/3ykinxbR3mQYkMHCA47GWr"
     },
     {
       "added_at": "2023-05-19 04:01:00",

@@ -11665,6 +11665,24 @@
     },
     {
       "album": {
+        "name": "News Of The World (Deluxe Remastered Version)",
+        "url": "https://open.spotify.com/album/6Di4m5k1BtMJ0R44bWNutu"
+      },
+      "artists": [
+        {
+          "name": "Queen",
+          "url": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
+        }
+      ],
+      "date_added": "2022-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207600,
+      "name": "Sheer Heart Attack - Remastered 2011",
+      "url": "https://open.spotify.com/track/5AHQ3hXjXQzmtCT5iEkh2f"
+    },
+    {
+      "album": {
         "name": "Night Moves",
         "url": "https://open.spotify.com/album/5QkOpsZupEPLq186YOrBNe"
       },
@@ -12754,8 +12772,8 @@
       },
       "artists": [
         {
-          "name": "Eagles",
-          "url": "https://open.spotify.com/artist/0ECwFtbIWEVNwjlrfc6xoL"
+          "name": "Aquilae",
+          "url": "https://open.spotify.com/artist/6mma1Dcg0UArJVyFxjtenB"
         }
       ],
       "date_added": "2022-01-05",
@@ -13488,7 +13506,7 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-21",
       "duration_ms": 500960,
       "name": "The Prophet's Song - Remastered 2011",
       "url": "https://open.spotify.com/track/1Ji1gZtpgMBepbNpyiLfgv"

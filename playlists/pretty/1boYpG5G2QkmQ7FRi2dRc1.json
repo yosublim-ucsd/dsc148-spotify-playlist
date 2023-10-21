@@ -1,13 +1,89 @@
 {
   "description": "A weekly selection of tracks that I love to listen to at home or play out at a party.",
-  "num_followers": 302476,
+  "num_followers": 302463,
   "original_name": "Martin Garrix Radio",
   "owner": {
     "name": "Martin Garrix",
     "url": "https://open.spotify.com/user/martingarrix"
   },
-  "snapshot_id": "MTk5NCw2YjgyZDE0MTJjZmIwNWZhODMwYWNmZDNkOWNmZjllOTk0MmRkMzA5",
+  "snapshot_id": "MTk5NyxjNjM4ZjYzNzQ4NzYyZTZmODg4YjcyMTZjNTBhOTljOWFiYTI0ZmM2",
   "tracks": [
+    {
+      "added_at": "2023-10-20 09:28:48",
+      "album": {
+        "name": "Real Love (Liva K Remix)",
+        "url": "https://open.spotify.com/album/3joNpvmZheGoKgbIiQL1kd"
+      },
+      "artists": [
+        {
+          "name": "Martin Garrix",
+          "url": "https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ"
+        },
+        {
+          "name": "Lloyiso",
+          "url": "https://open.spotify.com/artist/3CrKgAMSBXsnTugbUqpu6g"
+        },
+        {
+          "name": "Liva K",
+          "url": "https://open.spotify.com/artist/63mVEANeXk1p622Ejj9rBj"
+        }
+      ],
+      "duration_ms": 177577,
+      "name": "Real Love - Liva K Remix",
+      "url": "https://open.spotify.com/track/3TyPUGvK4G8pdrM3oEWlwg"
+    },
+    {
+      "added_at": "2023-10-20 09:29:21",
+      "album": {
+        "name": "One Nation",
+        "url": "https://open.spotify.com/album/3JaFOAoAOI0eEGCrJw5FYY"
+      },
+      "artists": [
+        {
+          "name": "Julian Jordan",
+          "url": "https://open.spotify.com/artist/2vUCVkeZjzDcaoX4gagHdV"
+        },
+        {
+          "name": "Eleganto",
+          "url": "https://open.spotify.com/artist/0MMdZHo4Jeldyg5awD2w5V"
+        }
+      ],
+      "duration_ms": 176250,
+      "name": "One Nation",
+      "url": "https://open.spotify.com/track/0oUDnuGOTU0rW6tkQOr0yj"
+    },
+    {
+      "added_at": "2023-10-20 09:29:34",
+      "album": {
+        "name": "GTFO",
+        "url": "https://open.spotify.com/album/31fLFrQhX0ezCLgKqsXa1v"
+      },
+      "artists": [
+        {
+          "name": "Madison Mars",
+          "url": "https://open.spotify.com/artist/4gJCFxvqKc43Ifk0UIBB42"
+        }
+      ],
+      "duration_ms": 174000,
+      "name": "GTFO",
+      "url": "https://open.spotify.com/track/4b4CEuu5QUhccYGDustPJq"
+    },
+    {
+      "added_at": "2023-10-20 09:29:34",
+      "album": {
+        "name": "Pulse",
+        "url": "https://open.spotify.com/album/42cgrGlqco9XP7gyhoxFM5"
+      },
+      "artists": [
+        {
+          "name": "Badflite",
+          "url": "https://open.spotify.com/artist/3AEEmo3VYEBbQBUUEY2fUS"
+        }
+      ],
+      "duration_ms": 188041,
+      "name": "Pulse",
+      "url": "https://open.spotify.com/track/2wLwHrBJeJMRD4R4s6TCZU"
+    },
     {
       "added_at": "2023-10-15 21:30:12",
       "album": {

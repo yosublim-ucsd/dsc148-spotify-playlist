@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYF9TpSdRtkF.md) - [plain]
 
 > Music from "THE IDOLM@STER MILLION LIVE!"\. アイドルマスター ミリオンライブ！の楽曲を1つのプレイリストで。<br/>THE IDOLM@STER™& ©Bandai Namco Entertainment Inc.
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,346 likes - 75 songs - 5 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,358 likes - 75 songs - 5 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYF9TpSdRtkF.md) - [plain]
 | 74 | [LOVE is GAME](https://open.spotify.com/track/28JdMWZlK5qsUmqX3ytdnJ) | [天空橋朋花 \(CV.小岩井ことり\)](https://open.spotify.com/artist/5yvZ8R7mFGLF2j7DkiAiIU), [高槻やよい \(CV.仁後真耶子\)](https://open.spotify.com/artist/0ROzUCx8jDj405w1GBxZlb), [佐竹美奈子 \(CV.大関英里\)](https://open.spotify.com/artist/1MHpk1EUgDP1vwPORrBagq), [七尾百合子 \(CV.伊藤美来\)](https://open.spotify.com/artist/47xiXXUX21xJD21A8Uz6ZE) | [THE IDOLM@STER MILLION THE@TER SEASON](https://open.spotify.com/album/64joBVtf8tyQcjA4OqKmKZ) | 4:08 |
 | 75 | [ロケットスター](https://open.spotify.com/track/1e0DHXLeziWJjICQSapDYx) | [伊吹 翼 \(CV.Machico\)](https://open.spotify.com/artist/4xjWa7X3thhXaePyQtPBG1) | [THE IDOLM@STER MILLION LIVE! M@STER SPARKLE 02](https://open.spotify.com/album/1FepCERIBwbpDzoVq8Rs2m) | 4:36 |
 
-Snapshot ID: `MCw1OWMzOWMwMzUzNmFhZWUxMWQ0YjM1ZjhjMDY5ODZjMzhmOTAxMDYz`
+Snapshot ID: `MCw2NjE5NThkYzExNzIzYjFhNzg0OTIwZDc1OWUxYmQwYWY5ZThkMDM2`

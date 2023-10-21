@@ -2,9 +2,9 @@
 
 ### [Rap québ](https://open.spotify.com/playlist/37i9dQZF1DWTZeTXqKTge4)
 
-> Le meilleur du hip\-hop québécois\. Photo: Fredz
+> Le meilleur du hip\-hop québécois\. Photo: Yes\*
 
-489 songs - 1 day 0 hr 51 min
+491 songs - 1 day 0 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -287,7 +287,7 @@
 | [Mal au coeur](https://open.spotify.com/track/4pM6aTuzZvjWAM1rV5aTsn) | [Izuku](https://open.spotify.com/artist/07nPO9PmOxJX3XXsCsVVW8) | [Mal au coeur](https://open.spotify.com/album/1a3Wpn0NDPrEoerucPrsg9) | 2:19 | 2022-02-04 | 2022-06-11 |
 | [Malsain et sauf](https://open.spotify.com/track/7j3la4hrPWrfAfnbPitoGI) | [Lost](https://open.spotify.com/artist/5Pd7zqwUqC1INMJAT2Df7b) | [Malsain et sauf](https://open.spotify.com/album/32GEpdgSryJ1QSRsvN4EiN) | 3:14 | 2023-02-03 | 2023-03-18 |
 | [Manny](https://open.spotify.com/track/2Qw5seczc3eGdzoOuEv9L8) | [Vaï](https://open.spotify.com/artist/6IjtuYp9QWhZbWaddsGQ7y) | [Victor Alpha India](https://open.spotify.com/album/7qnEzD68cXQgiAloqkCfYH) | 2:33 | 2022-01-07 | 2022-03-26 |
-| [Many Men](https://open.spotify.com/track/5Hknkme6xbFMFZSznFQmUx) | [Yes\*](https://open.spotify.com/artist/4jZA2jnUB8cz6EgOto9sMS) | [Many Men](https://open.spotify.com/album/7fJ0Kv2ZFAr56IeVm3CRla) | 2:41 | 2023-06-23 |  |
+| [Many Men](https://open.spotify.com/track/5Hknkme6xbFMFZSznFQmUx) | [Yes\*](https://open.spotify.com/artist/4jZA2jnUB8cz6EgOto9sMS) | [Many Men](https://open.spotify.com/album/7fJ0Kv2ZFAr56IeVm3CRla) | 2:41 | 2023-06-23 | 2023-10-21 |
 | [Marrakech](https://open.spotify.com/track/3Imu0WHSlEWiv4fZngTD2l) | [Rmax](https://open.spotify.com/artist/1T3SPxUzMi2bt89Ux9A8U9) | [Marrakech](https://open.spotify.com/album/7b4wIbfPAoDOXsBLYEzki2) | 3:31 | 2022-01-21 | 2022-04-29 |
 | [Matusalem](https://open.spotify.com/track/2RMo8LiuGhVaA0j8TlLbpK) | [Koriass](https://open.spotify.com/artist/4aLij7W6aqtpsRriCSjGLq), [Jay Scøtt](https://open.spotify.com/artist/3G9XTWY09egHqHlbRcP5cx) | [Abri de fortune \(pour fin du monde\)](https://open.spotify.com/album/0amYsj30gPQuSgc2ukxNdO) | 3:42 | 2022-06-10 | 2023-03-11 |
 | [Mauvais Ressentiment](https://open.spotify.com/track/7Gqxw0JjHdPW6crGmFMIlA) | [David Campana](https://open.spotify.com/artist/0yVnVpHr5djmPUqPtg3efc) | [Mauvais Ressentiment](https://open.spotify.com/album/2i2QBPdBMAGlBuvCdzfp5e) | 2:57 | 2023-08-18 |  |
@@ -392,7 +392,7 @@
 | [Rien de Gratuit](https://open.spotify.com/track/15ADBflaWuW4SjL6iDhIdS) | [Mango Flow](https://open.spotify.com/artist/31GJoOOSo8GvnOqT5Wyn9w), [Möre Beats](https://open.spotify.com/artist/5DVyNUkITuc6f16kpEivmg), [PCL](https://open.spotify.com/artist/2cvJjcIAUzPDKRFEUL4WBg) | [Rien de Gratuit](https://open.spotify.com/album/5cxFUUtscaXNxkugoZGycO) | 3:34 | 2022-01-28 | 2022-02-19 |
 | [Rien de moins](https://open.spotify.com/track/2qO3vIBPP5OBsOm67dG9W0) | [Loud](https://open.spotify.com/artist/5DXzQwj6Kgr5kBjVlYdSHo), [White\-B](https://open.spotify.com/artist/2HnpdXm17xsrVYtmsf7CHM) | [Aucune promesse](https://open.spotify.com/album/2UVAEGSrXaicQMavEAmVUP) | 2:54 | 2022-05-20 | 2022-06-18 |
 | [Rien de moins](https://open.spotify.com/track/5o2DRtfBYlufpEgKrVJewh) | [Loud](https://open.spotify.com/artist/5DXzQwj6Kgr5kBjVlYdSHo), [White\-B](https://open.spotify.com/artist/2HnpdXm17xsrVYtmsf7CHM) | [Rien de moins](https://open.spotify.com/album/29zusoGlreGGCT2f5wrjUG) | 2:54 | 2022-03-18 | 2022-05-20 |
-| [Rien à faire](https://open.spotify.com/track/3ljhLVFBJQvXERjqQpZjal) | [Loud](https://open.spotify.com/artist/5DXzQwj6Kgr5kBjVlYdSHo), [Ya Cetidon](https://open.spotify.com/artist/2CRqfNWZYEQ7KuWr9XewAj) | [Double Feature](https://open.spotify.com/album/4XBegyvbWGCWkzrYrwZr41) | 2:48 | 2023-07-14 |  |
+| [Rien à faire](https://open.spotify.com/track/3ljhLVFBJQvXERjqQpZjal) | [Loud](https://open.spotify.com/artist/5DXzQwj6Kgr5kBjVlYdSHo), [Ya Cetidon](https://open.spotify.com/artist/2CRqfNWZYEQ7KuWr9XewAj) | [Double Feature](https://open.spotify.com/album/4XBegyvbWGCWkzrYrwZr41) | 2:48 | 2023-07-14 | 2023-10-21 |
 | [Ring 3x](https://open.spotify.com/track/6w8joIVK7Bh4vD3QFq0959) | [Guessmi](https://open.spotify.com/artist/1iPrqRhbEuH0BRuIv16zv2) | [Ring 3x](https://open.spotify.com/album/16SrMJEC3LX9OJ3xZTbNCG) | 2:44 | 2022-09-02 | 2022-10-01 |
 | [RING RING](https://open.spotify.com/track/6Ya5EWkJfiCdwzEnl2K1kk) | [Dope.Gng](https://open.spotify.com/artist/3GrmxSIFXZLdfdGkk28sVE) | [NRNTB\_ROSE](https://open.spotify.com/album/58fzZ8IZk3JZbxKcVeUZbk) | 2:08 | 2023-09-15 |  |
 | [Risque](https://open.spotify.com/track/4jH3ztl0lHmltux05WwZTy) | [Jeekay](https://open.spotify.com/artist/38POyyW13rAIhFtElJXFwJ), [Shreez](https://open.spotify.com/artist/0qNrNX9FKJM0ZJFbcbMlMp) | [Risque](https://open.spotify.com/album/3fUq3cuqBk7NPJROi9XzHo) | 3:03 | 2022-05-13 | 2022-11-26 |
@@ -442,8 +442,10 @@
 | [Thank God](https://open.spotify.com/track/1G5HR5KwSAOdACXPGZOoCo) | [Mike Shabb](https://open.spotify.com/artist/6neEhK0FxJha78nD9giAjW) | [Hood Olympics](https://open.spotify.com/album/0iqGtWPjeNmqJgSSMb6EG5) | 2:15 | 2023-08-11 |  |
 | [The Top](https://open.spotify.com/track/0CGDrIdIsKucUtnkUFSK7b) | [GreenWoodz](https://open.spotify.com/artist/4unjY2cWa4org4JmrS0GES) | [TPL](https://open.spotify.com/album/3xASLbzCdazOv4wGh3oHmZ) | 3:02 | 2023-09-22 |  |
 | [Thème](https://open.spotify.com/track/1fhyZmvBwVrHZjRMlc6Rh1) | [J.BO](https://open.spotify.com/artist/6qfbY11F2cczEo2xrQeQBG) | [Thème](https://open.spotify.com/album/5xcBdCm3sYvoBRBf6Q6WPQ) | 2:18 | 2023-04-14 | 2023-06-17 |
+| [Tiffany](https://open.spotify.com/track/3bKLR7Mc0SNBTBuN8OYPrj) | [Yes\*](https://open.spotify.com/artist/4jZA2jnUB8cz6EgOto9sMS) | [Tiffany](https://open.spotify.com/album/3Dy3beQddT9J0cTFje1uay) | 3:37 | 2023-10-20 |  |
 | [Tikisson Woke](https://open.spotify.com/track/1jle97DJnKMS38gA3v0tC7) | [Alaclair Ensemble](https://open.spotify.com/artist/6qQ2if1od4FAg6ilAETwMG) | [LAIT PATERNEL](https://open.spotify.com/album/3Lpk09crIfWNa05skISIUF) | 4:26 | 2023-09-01 |  |
 | [Titulaire](https://open.spotify.com/track/1t3g4YEWcJXuau9ZuCCkwB) | [Stone](https://open.spotify.com/artist/7MJR0VMo0Jp7eUd2mbs7vQ) | [Titulaire](https://open.spotify.com/album/0M3hYvMSfsp0Bopt8xODgH) | 2:18 | 2023-01-28 | 2023-04-22 |
+| [Toi\-même tu sais](https://open.spotify.com/track/0OCoD7jCBxX0tqwRHTX4tL) | [Loud](https://open.spotify.com/artist/5DXzQwj6Kgr5kBjVlYdSHo), [Ya Cetidon](https://open.spotify.com/artist/2CRqfNWZYEQ7KuWr9XewAj) | [Double Feature](https://open.spotify.com/album/4XBegyvbWGCWkzrYrwZr41) | 2:55 | 2023-10-20 |  |
 | [Top](https://open.spotify.com/track/7L25Tg4Jxxk1Q5tS59QfUB) | [Shreez](https://open.spotify.com/artist/0qNrNX9FKJM0ZJFbcbMlMp), [FouKi](https://open.spotify.com/artist/3IMC79WXhjXUkDHhpsSN8n) | [Top](https://open.spotify.com/album/5CyS1dpJOA6CAts78IybcG) | 4:01 | 2022-07-29 | 2022-10-08 |
 | [TOUJOU LAKAY](https://open.spotify.com/track/53hOZGibisDj5z7Fq9ePFW) | [David Campana](https://open.spotify.com/artist/0yVnVpHr5djmPUqPtg3efc), [Tows](https://open.spotify.com/artist/0PT0yTrzxUDE7WLZr96qej) | [TOUJOU LAKAY](https://open.spotify.com/album/5hWB7wmExm1ko9U914T8eL) | 3:07 | 2022-01-28 | 2022-02-12 |
 | [Tour de Piste](https://open.spotify.com/track/0IxArEbwRpBYcwNg1hy3H0) | [Jam Khalil](https://open.spotify.com/artist/0pQTmAZD71vfB70Jn3Yzh8) | [Tour de Piste](https://open.spotify.com/album/5xZmN73bdOUrl79C6MOM1g) | 2:09 | 2023-04-07 | 2023-04-29 |

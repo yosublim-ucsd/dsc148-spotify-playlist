@@ -1392,7 +1392,7 @@
       ],
       "date_added": "2023-08-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-21",
       "duration_ms": 196406,
       "name": "Bonita",
       "url": "https://open.spotify.com/track/48ww1RXAxDm9XbePE72Gys"
@@ -5432,7 +5432,7 @@
       ],
       "date_added": "2023-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-21",
       "duration_ms": 223367,
       "name": "Los Rockstars",
       "url": "https://open.spotify.com/track/5zRPfjD3qUsog7tAcAMpWr"
@@ -6237,6 +6237,28 @@
     },
     {
       "album": {
+        "name": "Mi Bb <3",
+        "url": "https://open.spotify.com/album/4nZUrFJR3QVMBPh8wrIDSH"
+      },
+      "artists": [
+        {
+          "name": "Santi Valencia",
+          "url": "https://open.spotify.com/artist/4Cf4Xv9y3CV23K63A1p8MX"
+        },
+        {
+          "name": "Lleflight",
+          "url": "https://open.spotify.com/artist/5GpRyfJV04fcnHBDzfVb8V"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160258,
+      "name": "Mi Bb <3",
+      "url": "https://open.spotify.com/track/27YhVhtOV6uBL4j4pqu4Rd"
+    },
+    {
+      "album": {
         "name": "Mi Facha",
         "url": "https://open.spotify.com/album/5hFqiyEaMcMEC9uBuG8U6Y"
       },
@@ -7038,7 +7060,7 @@
       ],
       "date_added": "2022-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-21",
       "duration_ms": 182603,
       "name": "Mu\u00f1eca",
       "url": "https://open.spotify.com/track/5MxnvIBS4UMUpbZUKQsuNA"
@@ -7394,7 +7416,7 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-21",
       "duration_ms": 150326,
       "name": "No Soy Cualquier Ex",
       "url": "https://open.spotify.com/track/25vSSr6p4EMxgmcjQhP2rh"
@@ -7969,6 +7991,32 @@
     },
     {
       "album": {
+        "name": "Paleta",
+        "url": "https://open.spotify.com/album/2DZ3uDCcvlRMclDxa7XZV1"
+      },
+      "artists": [
+        {
+          "name": "Ceaese",
+          "url": "https://open.spotify.com/artist/580taoAhpqvyGCRoJsVdw9"
+        },
+        {
+          "name": "Ms Nina",
+          "url": "https://open.spotify.com/artist/43Hr2FjhVehkROIIEb7EfQ"
+        },
+        {
+          "name": "Julianno Sosa",
+          "url": "https://open.spotify.com/artist/4IC2X34tZmHG3VfTbpzvwL"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161216,
+      "name": "Paleta",
+      "url": "https://open.spotify.com/track/625y4TWL5q781xk7LOBTkv"
+    },
+    {
+      "album": {
         "name": "PALOMA",
         "url": "https://open.spotify.com/album/5u9yLF7HfBzZCu2uOmqGWl"
       },
@@ -8300,6 +8348,28 @@
       "duration_ms": 185154,
       "name": "Perdidos",
       "url": "https://open.spotify.com/track/6ughI6FwGbF0cLicG7lrat"
+    },
+    {
+      "album": {
+        "name": "Perdiendo",
+        "url": "https://open.spotify.com/album/3XLYgTeuLc2EeXzNVLdHHj"
+      },
+      "artists": [
+        {
+          "name": "Alex Got",
+          "url": "https://open.spotify.com/artist/16fOP8AoBwsszz9nX0qbnX"
+        },
+        {
+          "name": "Jamby El Favo",
+          "url": "https://open.spotify.com/artist/128ftF9X7Kd7Di2fq3wYVs"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210000,
+      "name": "Perdiendo",
+      "url": "https://open.spotify.com/track/2HP3id5Tvymk9ysjEU0DPJ"
     },
     {
       "album": {
@@ -10201,6 +10271,32 @@
     },
     {
       "album": {
+        "name": "SOLO RESPIRA",
+        "url": "https://open.spotify.com/album/4J5RkXVrNIXFDPCQnltPkl"
+      },
+      "artists": [
+        {
+          "name": "Gino Mella",
+          "url": "https://open.spotify.com/artist/7HYJrA3HSTNDmkl5pylhaY"
+        },
+        {
+          "name": "Ak4:20",
+          "url": "https://open.spotify.com/artist/1SiLK8gdECx2iEm2SSj0Bl"
+        },
+        {
+          "name": "Best",
+          "url": "https://open.spotify.com/artist/4Ng3fh1nc5L04iXPL8vqc7"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155096,
+      "name": "SOLO RESPIRA",
+      "url": "https://open.spotify.com/track/4ZTYnXDN5xBl9yazQ9HpIZ"
+    },
+    {
+      "album": {
         "name": "Solos",
         "url": "https://open.spotify.com/album/4OwkPWtn9O1h6KQ2iaLY6K"
       },
@@ -10234,6 +10330,24 @@
       "duration_ms": 227129,
       "name": "Soltera",
       "url": "https://open.spotify.com/track/4M2zTsuNHFkxg4CNafKclc"
+    },
+    {
+      "album": {
+        "name": "Somos Diferentes",
+        "url": "https://open.spotify.com/album/2aYzVJioWFr3Qoti8X7EmK"
+      },
+      "artists": [
+        {
+          "name": "Nickoog Clk",
+          "url": "https://open.spotify.com/artist/6rHwFb0YjWexAYxTjm4eIj"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152104,
+      "name": "Somos Diferentes",
+      "url": "https://open.spotify.com/track/0bS0fLAHqIdaiYYLBiWUw3"
     },
     {
       "album": {
@@ -11868,7 +11982,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-21",
       "duration_ms": 192004,
       "name": "V\u00c1MONOS PA LA EUROPA",
       "url": "https://open.spotify.com/track/2VfBDjJ0tZ9XUi24aQibTM"

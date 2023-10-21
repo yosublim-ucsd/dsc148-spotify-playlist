@@ -4,7 +4,7 @@
 
 > Así suena la música urbana de Panamá hoy\. Foto: BARBEL
 
-206 songs - 11 hr 56 min
+207 songs - 11 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,6 +28,7 @@
 | [Bebé](https://open.spotify.com/track/0xoAAswcj1bAKo81wlq0KP) | [Joey Montana](https://open.spotify.com/artist/3ATyg4fGC9F8trfb0GRWmX), [Boza](https://open.spotify.com/artist/2NfSBtmWe7oPw1EmetJVso) | [Bebé](https://open.spotify.com/album/6Y2ZY68I8zsiiF4aQaZVar) | 3:05 | 2022-03-11 | 2022-05-28 |
 | [Bebé](https://open.spotify.com/track/6nBneNxyfeOFnKsCH166RT) | [Pash](https://open.spotify.com/artist/6iOnQUuxAqtZ2fnVOrNq4s), [Maeo](https://open.spotify.com/artist/3twM6hBRnxGCEeNwg5YNtr), [Aldair Productions](https://open.spotify.com/artist/6WFulj4XIc6vkUDXGaDvbN) | [Bebé](https://open.spotify.com/album/5A48sQUDmhbkIkERFTFlDL) | 2:45 | 2022-07-01 | 2022-07-30 |
 | [Bellaka](https://open.spotify.com/track/27gwPvs0GWwhn1adLDLJXp) | [Nomad](https://open.spotify.com/artist/04SfRkZuVH053pkLLcP64q) | [Bellaka](https://open.spotify.com/album/3qOxqleZsIrSpvUqwPCoWH) | 2:33 | 2023-03-31 | 2023-04-15 |
+| [Billete En Flores](https://open.spotify.com/track/0pk3eRSUDPTw28MVas98Tl) | [Aldo Ranks](https://open.spotify.com/artist/0lsEtpjLWn4S7KBra82VG3) | [Billete En Flores](https://open.spotify.com/album/3sBBkEDHo8VxXKWG6dHYhR) | 3:14 | 2023-10-20 |  |
 | [Bonita](https://open.spotify.com/track/5S1etwYpbj8f7aVUXa91pB) | [Mr\. Saik](https://open.spotify.com/artist/7fzjOp0zWBmu7M5R7kZW60) | [Bonita](https://open.spotify.com/album/2J86tRQLHdrWeb3sNSp1ln) | 3:07 | 2022-03-11 | 2022-05-20 |
 | [Borracho](https://open.spotify.com/track/0rsTDgGRlXKuzSAxcdb4Ns) | [Sech](https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht), [DJ Khaled](https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP) | [Borracho](https://open.spotify.com/album/0DzwLlhnxgjPgL3uWNZTWG) | 3:39 | 2022-03-11 | 2023-04-01 |
 | [BRUJERIA](https://open.spotify.com/track/5uiH9Ei2V6fyuJHK57xISQ) | [Farah](https://open.spotify.com/artist/499MeLMskp0GHYO1587gZK) | [BRUJERIA](https://open.spotify.com/album/6w5sd8h4qYq52tKIzSgmsv) | 2:35 | 2022-03-11 | 2022-05-28 |
@@ -196,7 +197,7 @@
 | [Tu Demente](https://open.spotify.com/track/0poH5h0DOuJ75OCOKqqotN) | [Mole](https://open.spotify.com/artist/63IHQNSZV6VYMqeRZjMAxq), [T.O.T](https://open.spotify.com/artist/0KEa1ChgXvRCPL9Jju7cbw), [Nerry Money](https://open.spotify.com/artist/6g6DtbtyBi3Ir0mxiDlouJ), [Greyko](https://open.spotify.com/artist/3TVhsE1YU8cRkNCdfvjQFB) | [Tu Demente](https://open.spotify.com/album/429PprGv5svm3oBVbua2aH) | 5:04 | 2023-04-14 | 2023-05-06 |
 | [Tu Loco](https://open.spotify.com/track/2KQj2OQo0UcJ2uFAe5LG47) | [Mole](https://open.spotify.com/artist/63IHQNSZV6VYMqeRZjMAxq), [BARBEL](https://open.spotify.com/artist/6oYwraA8pyfDH4Otny6ooZ) | [Tu Loco](https://open.spotify.com/album/0t9xJs4Z8Po09tdPwg05xi) | 5:19 | 2023-01-13 |  |
 | [TU NO TA LINDO RMX](https://open.spotify.com/track/2XV6pyJyineBFSxR73BWAQ) | [Mista Bombo](https://open.spotify.com/artist/0dOCP5MXmqLp0fNfN0mL3V), [Akanni](https://open.spotify.com/artist/0wgIOP9UaikBczBsamAyFh), [Yemil](https://open.spotify.com/artist/7g4cPtKxNx146qdaY90TG4), [Chamaco](https://open.spotify.com/artist/1xCbQhtV5c1Vc1I1n2jyv0), [Italian Somali](https://open.spotify.com/artist/0Jke1IdFus3BTqdprlpIi3), [T.O.T](https://open.spotify.com/artist/0vrFM3YVw7VifP7cATMbkd) | [TU NO TA LINDO RMX](https://open.spotify.com/album/2tsQAkFL0mxJXy4t9A347Y) | 3:45 | 2022-03-11 | 2022-07-30 |
-| [TU TETA](https://open.spotify.com/track/0l9ish1O7LHCxMLaPeMKXO) | [Nerry Money](https://open.spotify.com/artist/6g6DtbtyBi3Ir0mxiDlouJ), [Haquil](https://open.spotify.com/artist/3JptABIhEERG63NRckg6EG) | [TU TETA](https://open.spotify.com/album/0kjwuRncNOwvS3JmApTlsC) | 2:31 | 2023-09-08 |  |
+| [TU TETA](https://open.spotify.com/track/0l9ish1O7LHCxMLaPeMKXO) | [Nerry Money](https://open.spotify.com/artist/6g6DtbtyBi3Ir0mxiDlouJ), [Haquil](https://open.spotify.com/artist/3JptABIhEERG63NRckg6EG) | [TU TETA](https://open.spotify.com/album/0kjwuRncNOwvS3JmApTlsC) | 2:31 | 2023-09-08 | 2023-10-21 |
 | [TUS FALLOS](https://open.spotify.com/track/1Q5ccy6FsY9LIrXebNYOXF) | [Jorkan](https://open.spotify.com/artist/7LCgsRll55YeMXV0LGYYCm), [BARBEL](https://open.spotify.com/artist/6oYwraA8pyfDH4Otny6ooZ), [El Tachi](https://open.spotify.com/artist/18rdlyUjloy7fRK1g62tUt) | [NOW OR NEVER](https://open.spotify.com/album/6Acc7psb5dKniQEOBBtl5x) | 6:24 | 2022-03-11 | 2022-09-17 |
 | [TUS FALLOS](https://open.spotify.com/track/5Hps3yUtidx9sRv9pBpp6Y) | [Jorkan](https://open.spotify.com/artist/7LCgsRll55YeMXV0LGYYCm), [BARBEL](https://open.spotify.com/artist/6oYwraA8pyfDH4Otny6ooZ), [Tachi](https://open.spotify.com/artist/4rGGVLUW4jKwW7HVwTr40U) | [NOW OR NEVER](https://open.spotify.com/album/1wOulBM8dCd21Wn0WHWWcJ) | 6:24 | 2022-09-09 |  |
 | [Tus Labios](https://open.spotify.com/track/0HVvp9utYjZ9RCKgBNIGUY) | [Sech](https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht) | [Tus Labios](https://open.spotify.com/album/4fQLquz6RHPXSFeIRNiWYD) | 2:55 | 2023-08-18 |  |

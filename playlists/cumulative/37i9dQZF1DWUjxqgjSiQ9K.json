@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-01",
-  "description": "Las canciones de fe que m\u00e1s se escuchan en Latinoam\u00e9rica.  Foto: <a href=\"spotify:artist:1w76rpst0I6hGUgCR2B33C\">Generaci\u00f3n 12</a>",
+  "description": "Las canciones de fe que m\u00e1s se escuchan en Latinoam\u00e9rica.  Foto: <a href=\"spotify:artist:77Zo41CMTIsSUP47AkNhie\">Jose Luis Reyes</a>",
   "name": "\u00c9xitos Cristianos",
   "tracks": [
     {
@@ -2120,7 +2120,7 @@
       ],
       "date_added": "2023-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-21",
       "duration_ms": 271374,
       "name": "Corriente / Un D\u00eda A La Vez (Medley) - En Vivo",
       "url": "https://open.spotify.com/track/7deRNBsb0iL1xzYea8aAj2"
@@ -5296,7 +5296,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-21",
       "duration_ms": 638250,
       "name": "Levantate, Hecho Est\u00e1 - En Vivo",
       "url": "https://open.spotify.com/track/3REis70Ezgzwg3mkA2hJSz"
@@ -7500,7 +7500,7 @@
       ],
       "date_added": "2023-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-21",
       "duration_ms": 228112,
       "name": "Prioridad",
       "url": "https://open.spotify.com/track/30tXzCwahCEoAQreBgEfel"
@@ -9023,6 +9023,24 @@
     },
     {
       "album": {
+        "name": "Mis Favoritas, \u00c9xitos de Jose Luis Reyes",
+        "url": "https://open.spotify.com/album/6MDICk3UvUd1UHaaBoiOj4"
+      },
+      "artists": [
+        {
+          "name": "Jose Luis Reyes",
+          "url": "https://open.spotify.com/artist/77Zo41CMTIsSUP47AkNhie"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 275251,
+      "name": "Tan Solo Cree",
+      "url": "https://open.spotify.com/track/019riTfHIfZVlgLhYsLtnl"
+    },
+    {
+      "album": {
         "name": "Thalles Ac\u00fastico En Vivo En Colombia",
         "url": "https://open.spotify.com/album/0RGjDEyl6kD3YVhQ6NQdau"
       },
@@ -9042,6 +9060,24 @@
       "duration_ms": 478549,
       "name": "Tan Solo Una Orden (feat. Alex Campos) - En Vivo",
       "url": "https://open.spotify.com/track/7DNHrOf6ON5QBj3vfo3SFo"
+    },
+    {
+      "album": {
+        "name": "Stories On Stories",
+        "url": "https://open.spotify.com/album/11x6snME6Sa5BG8aEIzEBr"
+      },
+      "artists": [
+        {
+          "name": "Christine D'Clario",
+          "url": "https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240457,
+      "name": "Tantas Historias",
+      "url": "https://open.spotify.com/track/6f1jhlNzYyUvK2XwxCk2pT"
     },
     {
       "album": {
@@ -9988,6 +10024,24 @@
       "duration_ms": 319440,
       "name": "Ven Av\u00edvanos",
       "url": "https://open.spotify.com/track/5MZUbhVPuW6Jr5dd34ypj1"
+    },
+    {
+      "album": {
+        "name": "Ven Manifi\u00e9state",
+        "url": "https://open.spotify.com/album/27ytu5xJsNG05fpEgryJOS"
+      },
+      "artists": [
+        {
+          "name": "Montesanto",
+          "url": "https://open.spotify.com/artist/71UQaXNOhfg5hlYglhzVCJ"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 618860,
+      "name": "Ven Manifi\u00e9state",
+      "url": "https://open.spotify.com/track/3szLV66DcjeMUepvDLnSt3"
     },
     {
       "album": {

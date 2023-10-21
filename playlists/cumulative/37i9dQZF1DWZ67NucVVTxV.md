@@ -4,7 +4,7 @@
 
 > Grind day motivation
 
-357 songs - 17 hr 25 min
+358 songs - 17 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,7 +28,8 @@
 | [Aluta](https://open.spotify.com/track/42zyObr3pHrqizANcRdSQK) | [OV](https://open.spotify.com/artist/6m4OztP0eEgXadXD9biIN0) | [Aluta](https://open.spotify.com/album/5AGGhnDzlCCPjq74uDfZ4t) | 3:04 | 2023-09-14 | 2023-09-22 |
 | [Anthem](https://open.spotify.com/track/2se2ioj0MpIqDl7doDHmOX) | [255](https://open.spotify.com/artist/7dNuDxuZN795qebo6RlTwK), [King Perryy](https://open.spotify.com/artist/2Srxd4jkUb5hcZEJO1SPnW), [Blaqbonez](https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W), [SFR](https://open.spotify.com/artist/53EHeXzGs4HheTCTnwfPEr) | [Anthem](https://open.spotify.com/album/22cggFEzLwSE5qvfGGqVyJ) | 2:53 | 2022-09-09 | 2022-09-20 |
 | [Ara \(Gen Gen Tin\)](https://open.spotify.com/track/1j9I9JrUTXNblSWazCq9CU) | [Bella Shmurda](https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM) | [Ara \(Gen Gen Tin\)](https://open.spotify.com/album/4ysDR8PYoFO4R6rNMOYSSO) | 2:26 | 2023-03-10 |  |
-| [AREA BOYZ PRAYER \(feat\. Seyi Vibez\)](https://open.spotify.com/track/2lmfZ6qrn17iG01MEx74bs) | [NSG](https://open.spotify.com/artist/31Ua7zSTJxegjyd49ujbSA), [Seyi Vibez](https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx) | [AREA BOYZ PRAYER \(feat\. Seyi Vibez\)](https://open.spotify.com/album/3rkabBLFLtoodzjSQug4B3) | 4:10 | 2023-10-20 |  |
+| [AREA BOYZ PRAYER \(feat\. Seyi Vibez\)](https://open.spotify.com/track/2lmfZ6qrn17iG01MEx74bs) | [NSG](https://open.spotify.com/artist/31Ua7zSTJxegjyd49ujbSA), [Seyi Vibez](https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx) | [AREA BOYZ PRAYER \(feat\. Seyi Vibez\)](https://open.spotify.com/album/3rkabBLFLtoodzjSQug4B3) | 4:10 | 2023-10-20 | 2023-10-21 |
+| [AREA BOYZ PRAYER \(feat\. Seyi Vibez\)](https://open.spotify.com/track/4q66cTrveS3OCh2cIeOKRS) | [NSG](https://open.spotify.com/artist/31Ua7zSTJxegjyd49ujbSA), [Seyi Vibez](https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx) | [AREA BOYZ](https://open.spotify.com/album/3Uo1dpUULgBeWEgjf5AMsd) | 4:10 | 2023-10-20 |  |
 | [As I Wake Up](https://open.spotify.com/track/2j6L2Mqm0HWLQWuw5Vythm) | [Skales](https://open.spotify.com/artist/1ixqGowpDM21RwyJmJ7hpv) | [As I Wake Up](https://open.spotify.com/album/5T8xA88j50McKpbcK7RRP3) | 3:27 | 2023-06-22 | 2023-07-14 |
 | [Asiwaju](https://open.spotify.com/track/7ErtOGQ9DwyQa3lwP77j4u) | [Ruger](https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H) | [Asiwaju](https://open.spotify.com/album/5xqEVPQeBA9GUnEFJhyCtt) | 3:36 | 2022-11-28 |  |
 | [Ask About Me](https://open.spotify.com/track/7E86nXdcmISA9vBH0Egx7O) | [Mohbad](https://open.spotify.com/artist/0a8YNI8VHVPYKIPvCiJDxa) | [Ask About Me](https://open.spotify.com/album/6u0gaySWdi8suKJ8WE91Z9) | 2:55 | 2023-04-14 |  |

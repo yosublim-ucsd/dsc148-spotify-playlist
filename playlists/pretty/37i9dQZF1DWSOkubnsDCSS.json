@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyOWI3ZGNiN2ZiN2YxNjA2MDNmOTNhZTBmYjQ0N2ZkM2QyNmEwY2I4",
+  "snapshot_id": "MCw1MGQ2ZGZhOTFkM2Q0NDY4MmRhYWIzYTQwMGVjOTI0ODgxZjE1YWUy",
   "tracks": [
     {
       "added_at": "2023-07-25 10:34:22",
@@ -755,26 +755,22 @@
     {
       "added_at": "2023-07-25 10:34:22",
       "album": {
-        "name": "Quest for Coin II",
-        "url": "https://open.spotify.com/album/3e5vMNSNvMfxHfaJPFgAOz"
+        "name": "IC3 (feat. Skepta)",
+        "url": "https://open.spotify.com/album/7v6szHhIR7htrfITIGCvFB"
       },
       "artists": [
         {
-          "name": "Ezra Collective",
-          "url": "https://open.spotify.com/artist/5BRAUN0yN8557PLRZIr02W"
+          "name": "Ghetts",
+          "url": "https://open.spotify.com/artist/7zJL978NtANOysfGY21ty6"
         },
         {
-          "name": "Jme",
-          "url": "https://open.spotify.com/artist/4IZLJdhHCqAvT4pjn8TLH5"
-        },
-        {
-          "name": "Swindle",
-          "url": "https://open.spotify.com/artist/1gH9xoeNySnEkCtR2kbPiQ"
+          "name": "Skepta",
+          "url": "https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN"
         }
       ],
-      "duration_ms": 176760,
-      "name": "Quest For Coin II",
-      "url": "https://open.spotify.com/track/6SfoGYDuS67WmwU9HCEpL0"
+      "duration_ms": 231106,
+      "name": "IC3 (feat. Skepta) - Single Version",
+      "url": "https://open.spotify.com/track/0BMszcKwCrUDHZX3CEEj6L"
     },
     {
       "added_at": "2023-07-25 10:34:22",
@@ -795,22 +791,26 @@
     {
       "added_at": "2023-07-25 10:34:22",
       "album": {
-        "name": "IC3 (feat. Skepta)",
-        "url": "https://open.spotify.com/album/7v6szHhIR7htrfITIGCvFB"
+        "name": "Quest for Coin II",
+        "url": "https://open.spotify.com/album/3e5vMNSNvMfxHfaJPFgAOz"
       },
       "artists": [
         {
-          "name": "Ghetts",
-          "url": "https://open.spotify.com/artist/7zJL978NtANOysfGY21ty6"
+          "name": "Ezra Collective",
+          "url": "https://open.spotify.com/artist/5BRAUN0yN8557PLRZIr02W"
         },
         {
-          "name": "Skepta",
-          "url": "https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN"
+          "name": "Jme",
+          "url": "https://open.spotify.com/artist/4IZLJdhHCqAvT4pjn8TLH5"
+        },
+        {
+          "name": "Swindle",
+          "url": "https://open.spotify.com/artist/1gH9xoeNySnEkCtR2kbPiQ"
         }
       ],
-      "duration_ms": 231106,
-      "name": "IC3 (feat. Skepta) - Single Version",
-      "url": "https://open.spotify.com/track/0BMszcKwCrUDHZX3CEEj6L"
+      "duration_ms": 176760,
+      "name": "Quest For Coin II",
+      "url": "https://open.spotify.com/track/6SfoGYDuS67WmwU9HCEpL0"
     },
     {
       "added_at": "2023-07-25 10:34:22",
@@ -907,18 +907,18 @@
     {
       "added_at": "2023-07-25 10:34:22",
       "album": {
-        "name": "One Man Soldier",
-        "url": "https://open.spotify.com/album/2phnwJOpSPnv5vqoX2YGhe"
+        "name": "Conflict Of Interest",
+        "url": "https://open.spotify.com/album/4GJnb2XwVlS2HrVsBa9fI4"
       },
       "artists": [
         {
-          "name": "Jaykae",
-          "url": "https://open.spotify.com/artist/1sLYZv95ZXwVfyGHan5w45"
+          "name": "Ghetts",
+          "url": "https://open.spotify.com/artist/7zJL978NtANOysfGY21ty6"
         }
       ],
-      "duration_ms": 175054,
-      "name": "One Man Soldier",
-      "url": "https://open.spotify.com/track/1Z6KnIZboD7NjyZaQGbJIb"
+      "duration_ms": 190773,
+      "name": "Fire and Brimstone",
+      "url": "https://open.spotify.com/track/2lyDT6B5SciPljZUBrNJCu"
     },
     {
       "added_at": "2023-07-25 10:34:22",
@@ -943,18 +943,18 @@
     {
       "added_at": "2023-07-25 10:34:22",
       "album": {
-        "name": "Conflict Of Interest",
-        "url": "https://open.spotify.com/album/4GJnb2XwVlS2HrVsBa9fI4"
+        "name": "One Man Soldier",
+        "url": "https://open.spotify.com/album/2phnwJOpSPnv5vqoX2YGhe"
       },
       "artists": [
         {
-          "name": "Ghetts",
-          "url": "https://open.spotify.com/artist/7zJL978NtANOysfGY21ty6"
+          "name": "Jaykae",
+          "url": "https://open.spotify.com/artist/1sLYZv95ZXwVfyGHan5w45"
         }
       ],
-      "duration_ms": 190773,
-      "name": "Fire and Brimstone",
-      "url": "https://open.spotify.com/track/2lyDT6B5SciPljZUBrNJCu"
+      "duration_ms": 175054,
+      "name": "One Man Soldier",
+      "url": "https://open.spotify.com/track/1Z6KnIZboD7NjyZaQGbJIb"
     },
     {
       "added_at": "2023-07-25 10:34:22",
@@ -1083,18 +1083,22 @@
     {
       "added_at": "2023-07-25 10:34:22",
       "album": {
-        "name": "No Safety",
-        "url": "https://open.spotify.com/album/4ahUWycw2YJcadTRFDlb4i"
+        "name": "Bulldozer",
+        "url": "https://open.spotify.com/album/3mmGpsFRLodEWkK3kmBsHt"
       },
       "artists": [
         {
-          "name": "Devlin",
-          "url": "https://open.spotify.com/artist/7Ks3elJhSP20mD04lgiA68"
+          "name": "DJ Lag",
+          "url": "https://open.spotify.com/artist/1svX5cMlY22N60RxwzeJNO"
+        },
+        {
+          "name": "Novelist",
+          "url": "https://open.spotify.com/artist/4OPTZC24954HYBeHKeoLSc"
         }
       ],
-      "duration_ms": 180428,
-      "name": "No Safety",
-      "url": "https://open.spotify.com/track/5MFSmJiHubzqQDoxvtAZMV"
+      "duration_ms": 301950,
+      "name": "Bulldozer",
+      "url": "https://open.spotify.com/track/63aJ6gi41fLZdmd29AMi01"
     },
     {
       "added_at": "2023-07-25 10:34:22",
@@ -1111,6 +1115,22 @@
       "duration_ms": 187034,
       "name": "Top G",
       "url": "https://open.spotify.com/track/2Ktxau7EN5L82j2E9BnQKZ"
+    },
+    {
+      "added_at": "2023-07-25 10:34:22",
+      "album": {
+        "name": "No Safety",
+        "url": "https://open.spotify.com/album/4ahUWycw2YJcadTRFDlb4i"
+      },
+      "artists": [
+        {
+          "name": "Devlin",
+          "url": "https://open.spotify.com/artist/7Ks3elJhSP20mD04lgiA68"
+        }
+      ],
+      "duration_ms": 180428,
+      "name": "No Safety",
+      "url": "https://open.spotify.com/track/5MFSmJiHubzqQDoxvtAZMV"
     },
     {
       "added_at": "2023-07-25 10:34:22",
@@ -1135,26 +1155,6 @@
       "duration_ms": 202515,
       "name": "Shade",
       "url": "https://open.spotify.com/track/1X1nYXRCRr4trswoE8uGhY"
-    },
-    {
-      "added_at": "2023-07-25 10:34:22",
-      "album": {
-        "name": "Bulldozer",
-        "url": "https://open.spotify.com/album/3mmGpsFRLodEWkK3kmBsHt"
-      },
-      "artists": [
-        {
-          "name": "DJ Lag",
-          "url": "https://open.spotify.com/artist/1svX5cMlY22N60RxwzeJNO"
-        },
-        {
-          "name": "Novelist",
-          "url": "https://open.spotify.com/artist/4OPTZC24954HYBeHKeoLSc"
-        }
-      ],
-      "duration_ms": 301950,
-      "name": "Bulldozer",
-      "url": "https://open.spotify.com/track/63aJ6gi41fLZdmd29AMi01"
     },
     {
       "added_at": "2023-07-25 10:34:22",
@@ -1279,26 +1279,6 @@
     {
       "added_at": "2023-07-25 10:34:22",
       "album": {
-        "name": "The Trials & Tribulations of C.E.O",
-        "url": "https://open.spotify.com/album/1utnE6WPg1slBBVU9EsN4N"
-      },
-      "artists": [
-        {
-          "name": "Chiedu Oraka",
-          "url": "https://open.spotify.com/artist/1yBSLjT7AXadtGIS7MOIfe"
-        },
-        {
-          "name": "Tawanda",
-          "url": "https://open.spotify.com/artist/2CWniSH2Pip8TM7i6w7mgJ"
-        }
-      ],
-      "duration_ms": 210000,
-      "name": "The Trials & Tribulations of C.E.O",
-      "url": "https://open.spotify.com/track/486RqKUdFOFNeRjfaC6Uf8"
-    },
-    {
-      "added_at": "2023-07-25 10:34:22",
-      "album": {
         "name": "No Celebrations EP",
         "url": "https://open.spotify.com/album/5i2fTMDge5lHM9RtLFrcLT"
       },
@@ -1315,6 +1295,26 @@
       "duration_ms": 162000,
       "name": "Come From",
       "url": "https://open.spotify.com/track/7dmlWyfECfsgQ9OFTVPejU"
+    },
+    {
+      "added_at": "2023-07-25 10:34:22",
+      "album": {
+        "name": "The Trials & Tribulations of C.E.O",
+        "url": "https://open.spotify.com/album/1utnE6WPg1slBBVU9EsN4N"
+      },
+      "artists": [
+        {
+          "name": "Chiedu Oraka",
+          "url": "https://open.spotify.com/artist/1yBSLjT7AXadtGIS7MOIfe"
+        },
+        {
+          "name": "Tawanda",
+          "url": "https://open.spotify.com/artist/2CWniSH2Pip8TM7i6w7mgJ"
+        }
+      ],
+      "duration_ms": 210000,
+      "name": "The Trials & Tribulations of C.E.O",
+      "url": "https://open.spotify.com/track/486RqKUdFOFNeRjfaC6Uf8"
     },
     {
       "added_at": "2023-07-25 10:34:22",
@@ -1547,22 +1547,6 @@
     {
       "added_at": "2023-07-25 10:34:22",
       "album": {
-        "name": "Memories Over Money",
-        "url": "https://open.spotify.com/album/4vFmGMlqvicwm7LoKaemMq"
-      },
-      "artists": [
-        {
-          "name": "Kamakaze",
-          "url": "https://open.spotify.com/artist/6C0Tazx8fb7cJIhm2s2Ttm"
-        }
-      ],
-      "duration_ms": 163750,
-      "name": "Safe N Sound",
-      "url": "https://open.spotify.com/track/4U69PPfjElDD721ptDKP1m"
-    },
-    {
-      "added_at": "2023-07-25 10:34:22",
-      "album": {
         "name": "Bout Dis",
         "url": "https://open.spotify.com/album/6qc3p8JJZmvxciKnXVvQPi"
       },
@@ -1583,6 +1567,22 @@
       "duration_ms": 240000,
       "name": "Bout Dis",
       "url": "https://open.spotify.com/track/0W2DfGz6T8nq7j9QLxksDx"
+    },
+    {
+      "added_at": "2023-07-25 10:34:22",
+      "album": {
+        "name": "Memories Over Money",
+        "url": "https://open.spotify.com/album/4vFmGMlqvicwm7LoKaemMq"
+      },
+      "artists": [
+        {
+          "name": "Kamakaze",
+          "url": "https://open.spotify.com/artist/6C0Tazx8fb7cJIhm2s2Ttm"
+        }
+      ],
+      "duration_ms": 163750,
+      "name": "Safe N Sound",
+      "url": "https://open.spotify.com/track/4U69PPfjElDD721ptDKP1m"
     },
     {
       "added_at": "2023-07-25 10:34:22",
@@ -1627,6 +1627,26 @@
     {
       "added_at": "2023-07-25 10:34:22",
       "album": {
+        "name": "Gridlock",
+        "url": "https://open.spotify.com/album/2IQnBlvVYriEHdktWKPoHU"
+      },
+      "artists": [
+        {
+          "name": "Eyez",
+          "url": "https://open.spotify.com/artist/3lbE4VUYGYUusBmdfPbtJV"
+        },
+        {
+          "name": "Zdot",
+          "url": "https://open.spotify.com/artist/3Vg8iAEbLFGTO3ZqPtlIsN"
+        }
+      ],
+      "duration_ms": 155571,
+      "name": "Gridlock",
+      "url": "https://open.spotify.com/track/3P2hQR4co5NaqnbHuX2eJo"
+    },
+    {
+      "added_at": "2023-07-25 10:34:22",
+      "album": {
         "name": "Man in Meridian",
         "url": "https://open.spotify.com/album/5FnZx8CDt31zZy5vVhzK4m"
       },
@@ -1655,26 +1675,6 @@
       "duration_ms": 285255,
       "name": "Man in Meridian",
       "url": "https://open.spotify.com/track/2kr904XjBkf3RivRwXZxc0"
-    },
-    {
-      "added_at": "2023-07-25 10:34:22",
-      "album": {
-        "name": "Gridlock",
-        "url": "https://open.spotify.com/album/2IQnBlvVYriEHdktWKPoHU"
-      },
-      "artists": [
-        {
-          "name": "Eyez",
-          "url": "https://open.spotify.com/artist/3lbE4VUYGYUusBmdfPbtJV"
-        },
-        {
-          "name": "Zdot",
-          "url": "https://open.spotify.com/artist/3Vg8iAEbLFGTO3ZqPtlIsN"
-        }
-      ],
-      "duration_ms": 155571,
-      "name": "Gridlock",
-      "url": "https://open.spotify.com/track/3P2hQR4co5NaqnbHuX2eJo"
     },
     {
       "added_at": "2023-07-25 10:34:22",

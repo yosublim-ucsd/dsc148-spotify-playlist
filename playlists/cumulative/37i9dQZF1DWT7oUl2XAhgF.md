@@ -4,7 +4,7 @@
 
 > A new take on a classic sound\. Cover: Jalen Ngonda
 
-353 songs - 21 hr 27 min
+355 songs - 21 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -61,7 +61,7 @@
 | [Dancing Dimensions](https://open.spotify.com/track/4NIS3J8jBhjKzk1joQWTAe) | [Ural Thomas and the Pain](https://open.spotify.com/artist/3CVDnjIPKEN8xYJ2kIpq4t) | [Dancing Dimensions](https://open.spotify.com/album/6u2hyLFGZJ8T7n2k81BSCC) | 3:36 | 2022-03-04 | 2023-09-30 |
 | [Dare You Be Mine](https://open.spotify.com/track/3VP7lVUgeTTz51Jqha8467) | [Vintage Trouble](https://open.spotify.com/artist/72Pauuctba5lMzC89R0Vk0) | [Dare You Be Mine](https://open.spotify.com/album/0fqhDU5uAW2majEJfsdzyO) | 3:27 | 2022-12-16 | 2023-02-03 |
 | [Dawn](https://open.spotify.com/track/1GjayjS8KEuljD5GhTuDDq) | [Emma Donovan](https://open.spotify.com/artist/1zq7VkmDHaXYNCqnNeJvLs), [The Putbacks](https://open.spotify.com/artist/1MFxqj3TBAaTuiEgLnBfsR) | [Dawn](https://open.spotify.com/album/4VIuikghlCfEl022xOlhaR) | 3:52 | 2021-07-09 | 2022-07-24 |
-| [Days of Confusion](https://open.spotify.com/track/00gKRt8jsyhNgYrJFerCuS) | [Steffen Morrison](https://open.spotify.com/artist/2KV4sKhTlyrtxaJWZTPj8r) | [Days of Confusion](https://open.spotify.com/album/6T9KzoLYoleQCawdwPm42p) | 3:14 | 2023-01-27 |  |
+| [Days of Confusion](https://open.spotify.com/track/00gKRt8jsyhNgYrJFerCuS) | [Steffen Morrison](https://open.spotify.com/artist/2KV4sKhTlyrtxaJWZTPj8r) | [Days of Confusion](https://open.spotify.com/album/6T9KzoLYoleQCawdwPm42p) | 3:14 | 2023-01-27 | 2023-10-21 |
 | [Deja Vu](https://open.spotify.com/track/6yHZVOMyiHvTJDU700B5d3) | [Jesse Barrera](https://open.spotify.com/artist/51KbY36mrjHRQwvSbel74l), [Patrick Hizon](https://open.spotify.com/artist/7sH3l8uRghf9V149Gnu63X) | [Deja Vu](https://open.spotify.com/album/3aB1d4YjUoxiIAq6jDo9e9) | 2:42 | 2023-07-14 |  |
 | [Diamond Violence](https://open.spotify.com/track/5txRJup3ndKlzrapHKQyAp) | [Marker Starling](https://open.spotify.com/artist/3ng4JmUTAES0oTSlDkF3if) | [Diamond Violence](https://open.spotify.com/album/4HNPUulBgryvb3GMgfSHrl) | 5:03 | 2022-09-16 | 2022-09-24 |
 | [Digging up Graves](https://open.spotify.com/track/1P2dAOEpNQzC1eXW5er10B) | [Karen Lee Andrews](https://open.spotify.com/artist/3GBnhIpKY4jSuD6uAKxN20) | [EDIN](https://open.spotify.com/album/50py568QonJj2aTffsp4Qm) | 3:43 | 2022-10-07 | 2022-11-12 |
@@ -134,6 +134,7 @@
 | [I Do](https://open.spotify.com/track/2ROGRLF59VgUst8a6f6oez) | [Lady Wray](https://open.spotify.com/artist/1plioVQ0mcgAO7uhvWkJJy) | [Piece of Me](https://open.spotify.com/album/6YZfQdeTTIIkPUEAFmXvMB) | 3:00 | 2022-01-28 | 2022-07-29 |
 | [i found a diamond](https://open.spotify.com/track/3oRbkpNDMAIfwaLgWg6yco) | [Alex Cherney](https://open.spotify.com/artist/0MnGfy4FclSRUj9NnVKujd), [The Brothers Nylon](https://open.spotify.com/artist/5WLTGcENPt84BZtmx6rt50) | [i found a diamond](https://open.spotify.com/album/2DtOE3ffS4sZakYgD3VMIm) | 4:08 | 2023-06-30 | 2023-07-29 |
 | [I Like the Way You Love Me](https://open.spotify.com/track/1ENu4Hu1Rf45NxIde0X1rr) | [Cota](https://open.spotify.com/artist/2e1yGR8FqYaOz962igAVIM) | [I Like the Way You Love Me](https://open.spotify.com/album/4xVKAnImpAKsUJ1Z2WGkDR) | 2:26 | 2023-03-17 | 2023-06-24 |
+| [I Miss You \- Radio Edit](https://open.spotify.com/track/3qyZk0hMioN5kEMCPDPxzo) | [J.P\. Bimeni](https://open.spotify.com/artist/3CzQotBuoiDb8B9VAkh5fx), [The Black Belts](https://open.spotify.com/artist/0E2ByLJA2G0NMjQg0Dn8ct) | [Free Me](https://open.spotify.com/album/5I6bqE1FN7H0ecfdpz8lTY) | 3:19 | 2023-10-20 |  |
 | [I Miss You Baby, Pt\. 1](https://open.spotify.com/track/3Jf2y674Wnhjz2RwPRsp84) | [The California Honeydrops](https://open.spotify.com/artist/21t0aavYGSGFkYYFhu6urk) | [I Miss You Baby, Pt\. 1](https://open.spotify.com/album/46INZCbg8BTR4f66KzhzHF) | 4:04 | 2022-08-26 | 2022-09-24 |
 | [I Need A Dollar](https://open.spotify.com/track/3oUphdZVPyrsprZ8FgbmQS) | [Aloe Blacc](https://open.spotify.com/artist/0id62QV2SZZfvBn9xpmuCl) | [Good Things](https://open.spotify.com/album/6G9PvX9f6Dq26JzsiVHIdl) | 4:03 | 2021-07-09 | 2023-01-28 |
 | [I Need a Win](https://open.spotify.com/track/2QF4b6mH7o8oBj3ky1IuCX) | [Mamas Gun](https://open.spotify.com/artist/09bP40OuEV5tOM1rQnZNxI) | [Golden Days](https://open.spotify.com/album/5LuNtoT969MSX9o07N1sDO) | 4:40 | 2021-07-09 | 2022-07-29 |
@@ -159,6 +160,7 @@
 | [It's Gonna Be Alright](https://open.spotify.com/track/3Kjs1dtKH9D3SciHvX2zQR) | [Acantha Lang](https://open.spotify.com/artist/6WrjOtCau0UPAB3QSeOWzO) | [It's Gonna Be Alright](https://open.spotify.com/album/5A9rqHvuJE8xJlWgzmWTHP) | 4:36 | 2022-07-01 | 2022-08-10 |
 | [It's Gonna Be Alright](https://open.spotify.com/track/74kOgrikSn2UQ8UptnRUxb) | [Acantha Lang](https://open.spotify.com/artist/6WrjOtCau0UPAB3QSeOWzO) | [It's Gonna Be Alright](https://open.spotify.com/album/193sR0w8SGseTgMIEU6VKw) | 4:36 | 2022-07-29 | 2023-05-11 |
 | [It's Gonna Be Alright](https://open.spotify.com/track/1PmcWcWiC1qy3D4o7aZO3C) | [Acantha Lang](https://open.spotify.com/artist/6WrjOtCau0UPAB3QSeOWzO) | [It’s Gonna Be Alright](https://open.spotify.com/album/4wDe4yF1Ij4lTBOsqLPxPA) | 4:37 | 2022-07-29 | 2023-05-20 |
+| [I’ll Be Loving You](https://open.spotify.com/track/1L2ynW4tupwphXv7z7aOgL) | [McKinley James](https://open.spotify.com/artist/3mddgnxcr3vrHOb9f8AavB) | [I'll Be Loving You](https://open.spotify.com/album/0Am0k5KrvnhpwATTwPefgy) | 2:47 | 2023-10-20 |  |
 | [Jean Leon](https://open.spotify.com/track/4UvTu4SIHtRQl173OZbFRj) | [Micah Edwards](https://open.spotify.com/artist/75OSuJw6r1LCdYgmTt0gHs) | [Jean Leon](https://open.spotify.com/album/1yxktlUWjFQb7EHerR7Wme) | 2:53 | 2022-02-15 |  |
 | [Joy & Pain](https://open.spotify.com/track/1iHj6nbjMHFpH73fl4AyWB) | [Lady Wray](https://open.spotify.com/artist/1plioVQ0mcgAO7uhvWkJJy) | [Joy & Pain](https://open.spotify.com/album/6OoLcz38MMFvn9l6nAweXC) | 3:43 | 2022-01-14 | 2022-07-29 |
 | [Joy & Pain](https://open.spotify.com/track/456nsH3QN5RspaYysK2GKY) | [Lady Wray](https://open.spotify.com/artist/1plioVQ0mcgAO7uhvWkJJy) | [Piece of Me](https://open.spotify.com/album/6YZfQdeTTIIkPUEAFmXvMB) | 3:43 | 2022-01-14 | 2023-02-18 |
@@ -198,7 +200,7 @@
 | [Loving You Is Easy](https://open.spotify.com/track/4Q5uCevQDZ2dCrPq0isNPQ) | [Dylan Chambers](https://open.spotify.com/artist/2jP4GO0BDgY15BqUcUVhG9) | [Loving You Is Easy](https://open.spotify.com/album/7gGU9LnpOyctBMvxA1vxyx) | 3:24 | 2022-06-10 | 2022-07-02 |
 | [Make a Wish](https://open.spotify.com/track/6rHLPqcyk7ggv0PvTjt5yd) | [Joey Dosik](https://open.spotify.com/artist/3kANxNTLNOhxpOPoCbGq9E) | [Make a Wish](https://open.spotify.com/album/7zdPOJg2rtxiRYeYaDVwrC) | 3:09 | 2022-05-13 | 2023-02-25 |
 | [Make It Better \(feat\. Smokey Robinson\)](https://open.spotify.com/track/4SBVWkRIMJ6WBCYPvr5Bwr) | [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa), [Smokey Robinson](https://open.spotify.com/artist/0h9smro0z3HqUbD94jotU8) | [Ventura](https://open.spotify.com/album/0YF8PfcGbsKg5IaFyPnlyY) | 3:39 | 2021-07-09 |  |
-| [Making Up Making Love](https://open.spotify.com/track/7wrmrF5iU0lGSlYkTsaNGW) | [Joey Dosik](https://open.spotify.com/artist/3kANxNTLNOhxpOPoCbGq9E) | [The Nostalgiac](https://open.spotify.com/album/0HZQqwnq5WDugzJSh4l3fD) | 4:18 | 2023-06-23 |  |
+| [Making Up Making Love](https://open.spotify.com/track/7wrmrF5iU0lGSlYkTsaNGW) | [Joey Dosik](https://open.spotify.com/artist/3kANxNTLNOhxpOPoCbGq9E) | [The Nostalgiac](https://open.spotify.com/album/0HZQqwnq5WDugzJSh4l3fD) | 4:18 | 2023-06-23 | 2023-10-21 |
 | [Me Or Her](https://open.spotify.com/track/4ZJBr569wzQGM8JJhpLqms) | [WILSN](https://open.spotify.com/artist/2ymjQZjPQe0pziQ67Y8Ncr) | [Me Or Her](https://open.spotify.com/album/4NoRqooBul0OF8yCFA6mKJ) | 2:50 | 2022-08-09 | 2022-09-17 |
 | [Minotaur](https://open.spotify.com/track/0JPVY47L4Dwi0kjbVbEO6a) | [St\. Paul & The Broken Bones](https://open.spotify.com/artist/4fXkvh05wFhuH77MfD4m9o) | [Minotaur](https://open.spotify.com/album/7dHYk2N7AgCFh1eAfHpGlz) | 4:38 | 2022-01-14 | 2022-07-29 |
 | [More To Learn](https://open.spotify.com/track/7IX7LDLs3vCtrY7poNX0p4) | [Allen Stone](https://open.spotify.com/artist/536osqBGKzeozje8BfcGsa), [Swatkins](https://open.spotify.com/artist/0HnF3y5xRlNr6eGQmFZgjP), [Eric Krasno](https://open.spotify.com/artist/6tQIsqw6DrDfdoPwOrOD6k) | [More To Learn](https://open.spotify.com/album/3r7mEDjTNdNxWfjS1mClE2) | 4:30 | 2022-03-04 |  |

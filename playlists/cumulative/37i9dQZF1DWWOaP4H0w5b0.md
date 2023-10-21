@@ -4,7 +4,7 @@
 
 > Want some metal? Better to start with the essentials\. Cover: Metallica
 
-183 songs - 13 hr 55 min
+184 songs - 14 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -82,7 +82,8 @@
 | [Highway Star](https://open.spotify.com/track/4gVTozEmzwAUXpwj3jEetX) | [Deep Purple](https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf) | [Machine Head](https://open.spotify.com/album/1EK3a0Yctg4d3nGQzE4Uty) | 6:08 | 2022-08-12 |  |
 | [Holy Diver](https://open.spotify.com/track/57fqmDaokbxZ3TaB0jp39q) | [Dio](https://open.spotify.com/artist/4CYeVo5iZbtYGBN4Isc3n6) | [Holy Diver](https://open.spotify.com/album/2ivNJLSx8Rbvnsvcn01Yt3) | 5:53 | 2022-08-12 |  |
 | [Holy Wars...The Punishment Due \- 2004 Remix](https://open.spotify.com/track/5LyRtsQLhcXmy50VXhQXXS) | [Megadeth](https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf) | [Rust In Peace \(2004 Remix / Expanded Edition\)](https://open.spotify.com/album/0qaLL09EtF1hiUis7PRvaJ) | 6:32 | 2023-03-06 |  |
-| [Hunting High And Low](https://open.spotify.com/track/1O9FvxRfkBxuhj1Se3Kj81) | [Stratovarius](https://open.spotify.com/artist/1O8CSXsPwEqxcoBE360PPO) | [Infinite:Special Edition](https://open.spotify.com/album/7av5omhXg7iU3MVFtDZ76r) | 4:08 | 2023-01-29 |  |
+| [Hunting High And Low](https://open.spotify.com/track/1O9FvxRfkBxuhj1Se3Kj81) | [Stratovarius](https://open.spotify.com/artist/1O8CSXsPwEqxcoBE360PPO) | [Infinite:Special Edition](https://open.spotify.com/album/7av5omhXg7iU3MVFtDZ76r) | 4:08 | 2023-01-29 | 2023-10-21 |
+| [Hunting High and Low](https://open.spotify.com/track/3zfPEepH4NjKnHGO9i40cb) | [Stratovarius](https://open.spotify.com/artist/1O8CSXsPwEqxcoBE360PPO) | [Infinite](https://open.spotify.com/album/5XRFahLMgvX2nXZnbkDIRc) | 4:08 | 2023-08-23 |  |
 | [I Don't Believe In Love \- Remastered 2003](https://open.spotify.com/track/3p9GbXMy1f9Efhdfj0QNBG) | [Queensrÿche](https://open.spotify.com/artist/2OgUPVlWYgGBGMefZgGvCO) | [Operation: Mindcrime \(Remastered / Expanded Edition\)](https://open.spotify.com/album/16VzTNaeadMjxI03Xi9s6n) | 4:23 | 2022-10-05 |  |
 | [I Stand Alone](https://open.spotify.com/track/44NRdYQw7P0GWuiunRv3hr) | [Godsmack](https://open.spotify.com/artist/6gZq1Q6bdOxsUPUG1TaFbF) | [Faceless](https://open.spotify.com/album/7xhudjssYTY8qRl1s9R3wu) | 4:06 | 2022-08-12 | 2023-01-30 |
 | [I Wanna Be Somebody](https://open.spotify.com/track/6w8dBm5KlXxWejYrbGS1EJ) | [W.A.S.P.](https://open.spotify.com/artist/3BVkDHWRvLJEyKdvhLbjsq) | [W.A.S.P.](https://open.spotify.com/album/25pbI5TFqt2tzGS4XSMnog) | 3:43 | 2022-08-12 |  |

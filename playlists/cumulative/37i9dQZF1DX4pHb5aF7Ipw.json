@@ -833,6 +833,24 @@
     },
     {
       "album": {
+        "name": "Mere Yaar",
+        "url": "https://open.spotify.com/album/3lzNDSREtv2HpZ0vqnVYHG"
+      },
+      "artists": [
+        {
+          "name": "Gopi Longia",
+          "url": "https://open.spotify.com/artist/11xVQwDq4SMw5791vgJNRE"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240870,
+      "name": "Mere Yaar",
+      "url": "https://open.spotify.com/track/4WGB2CIMUlIUKmNTA3cDm1"
+    },
+    {
+      "album": {
         "name": "Mic Naal",
         "url": "https://open.spotify.com/album/3HHbnXG28SluMAf6vg1rYO"
       },

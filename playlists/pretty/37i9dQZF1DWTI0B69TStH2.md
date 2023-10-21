@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTI0B69TStH2.md) - [plain]
 
 > Najciekawsze muzyczne odkrycia od niezależnych polskich artystów\. Cover:  <a href="spotify:artist:3SOW8wH1Xm0epMxdIO1eAE">PYCORKA</a> \| Playlista odświeżana w każdą środę.
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,321 likes - 100 songs - 5 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,322 likes - 100 songs - 5 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTI0B69TStH2.md) - [plain]
 | 99 | [Półprzytomni](https://open.spotify.com/track/4VZFDMh3JrMn4Xah5FJ0Dq) | [Rafał Majewski](https://open.spotify.com/artist/31XDbNUBOylbr2gh6EFCPm) | [Półprzytomni](https://open.spotify.com/album/7c7ng1FAJZwDAL7Y8V428v) | 3:10 |
 | 100 | [Witaj Smutku](https://open.spotify.com/track/4qzFX2rVDAtCyGSCrIFt2G) | [Martyna Zając &](https://open.spotify.com/artist/3Hi70wFFPAkNTbqihObgi6) | [Witaj Smutku](https://open.spotify.com/album/0E0sMnHYgsILXHXs6oluXP) | 3:22 |
 
-Snapshot ID: `MCwxODg0ZTg4ODJhMzQ1MjA1ODIzMjVmYzNjN2FjMjY4ZDE1MzQ3Y2Rk`
+Snapshot ID: `MCw1NjM0OGUyNTBlMDU3MGY2YTVkZWFhNGRmN2UyMWNjMDQxYjYyZmY4`

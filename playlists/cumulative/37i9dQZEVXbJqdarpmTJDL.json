@@ -1738,7 +1738,7 @@
       ],
       "date_added": "2023-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-21",
       "duration_ms": 127714,
       "name": "An Apopse Figo",
       "url": "https://open.spotify.com/track/09u3uU5KzkdsoUTDeBF10J"
@@ -8102,6 +8102,24 @@
       "duration_ms": 164117,
       "name": "ETSI EIMAI EGW",
       "url": "https://open.spotify.com/track/35J3oXYrkLk7WoW748XmtH"
+    },
+    {
+      "album": {
+        "name": "Euro Gangsta",
+        "url": "https://open.spotify.com/album/7DOnQ7kpPMbytOLzLvXynp"
+      },
+      "artists": [
+        {
+          "name": "Mad Clip",
+          "url": "https://open.spotify.com/artist/3KcZf8BFeFBtnGyOZmUggd"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159340,
+      "name": "Euro Gangsta",
+      "url": "https://open.spotify.com/track/0ifihkLHfnm6Ym3jekzZQv"
     },
     {
       "album": {
@@ -15864,7 +15882,7 @@
       ],
       "date_added": "2023-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-21",
       "duration_ms": 161612,
       "name": "MAYA",
       "url": "https://open.spotify.com/track/0TsD4iSubzoyfG0RcfWIHR"
@@ -17460,6 +17478,32 @@
       "duration_ms": 180382,
       "name": "Mpampas",
       "url": "https://open.spotify.com/track/3tx1bEUOT7YpHPLj4u1ekC"
+    },
+    {
+      "album": {
+        "name": "Mploko",
+        "url": "https://open.spotify.com/album/3B1tWnU5aTSRJswkJGYF3f"
+      },
+      "artists": [
+        {
+          "name": "Ethismos",
+          "url": "https://open.spotify.com/artist/3us9fVKGxelK4OfEMng997"
+        },
+        {
+          "name": "Negros Tou Moria",
+          "url": "https://open.spotify.com/artist/0kw0RBxQ5PjqTePr8TrTI1"
+        },
+        {
+          "name": "Melow",
+          "url": "https://open.spotify.com/artist/6AIQTOOpTjnDu66SLPNN61"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232466,
+      "name": "Mploko",
+      "url": "https://open.spotify.com/track/1ucfIAu4IwIXxkl1fstUim"
     },
     {
       "album": {
@@ -20042,7 +20086,7 @@
       ],
       "date_added": "2023-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-21",
       "duration_ms": 182400,
       "name": "Pes",
       "url": "https://open.spotify.com/track/4sltRhFlzu0BwXq9OUnwSG"
@@ -23340,6 +23384,28 @@
       "duration_ms": 228000,
       "name": "Sorry",
       "url": "https://open.spotify.com/track/25EQ2K52izRy1WkMFbym2Z"
+    },
+    {
+      "album": {
+        "name": "SOS",
+        "url": "https://open.spotify.com/album/5jiohoUO0HwpQ8l6VmeRvu"
+      },
+      "artists": [
+        {
+          "name": "Kidd",
+          "url": "https://open.spotify.com/artist/1RqOmrtivmvKrfBO81j1ou"
+        },
+        {
+          "name": "Lil Koni",
+          "url": "https://open.spotify.com/artist/4md2OwykkDpAVx2keVXBBV"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170322,
+      "name": "SOS",
+      "url": "https://open.spotify.com/track/4ZMb2KrcIvgVIxqFRti1Fl"
     },
     {
       "album": {

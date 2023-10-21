@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KBgD4Jf5tY.md) - [plain]
 
 > Solo musica italiana indipendente, aggiornata ogni mercoledì\. Cover: <a href="spotify:artist:2SU1nwN4pyNj6cSVoOzcsc">Gheba</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,507 likes - 50 songs - 2 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,510 likes - 50 songs - 2 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KBgD4Jf5tY.md) - [plain]
 | 49 | [I Don't Love You \(Anymore\)](https://open.spotify.com/track/413J57t7ydyRaNqEscI6IB) | [Musa](https://open.spotify.com/artist/1eXhw6R7CRTzWYvY5f7hNL) | [I Don't Love You \(Anymore\)](https://open.spotify.com/album/5h6eAnmVkGSZGbibhV4DnX) | 2:43 |
 | 50 | [lontana da me](https://open.spotify.com/track/4OgP6efwjtjnK8RyjDwHdj) | [Alep](https://open.spotify.com/artist/6U44adz6EiX4SRfst11K2H) | [lontana da me](https://open.spotify.com/album/2gMvS1sy8fxWUk5jknJq3W) | 2:33 |
 
-Snapshot ID: `MCwyYzdlMWM4ZTNiNjdiMDBmOWY5MzA3YmE5ZjlkODRiZjQ0ZjhkNzY3`
+Snapshot ID: `MCwyMzlmYWExZjE2NDRhYWY2OGQ3N2I5ZDg3ZjAzMWU3NzVjNDI1MGZj`

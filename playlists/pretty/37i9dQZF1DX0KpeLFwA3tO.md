@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KpeLFwA3tO.md) - [plain]
 
 > The best new music from the wide world of punk\. Cover: blink\-182
 
-[Spotify](https://open.spotify.com/user/spotify) - 295,711 likes - 100 songs - 5 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 295,758 likes - 100 songs - 5 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KpeLFwA3tO.md) - [plain]
 | 8 | [Stare At The Sun](https://open.spotify.com/track/0dNuX5ft4fSSgKsRau3JEP) | [Frost Children](https://open.spotify.com/artist/6R1kfr0GIWnwxY4zW11Vag) | [Stare At The Sun](https://open.spotify.com/album/238Qlq3yh7LNfO3e5TD1uu) | 3:32 |
 | 9 | [High Tea](https://open.spotify.com/track/2jpkUfj8a8G32DzsIYXxHM) | [HotWax](https://open.spotify.com/artist/237mvWGlQNJJhc9b8pSawZ) | [Invite me, kindly](https://open.spotify.com/album/77D1XYQxm5bRFsiWUNTXal) | 2:56 |
 | 10 | [Arm's Length](https://open.spotify.com/track/6fWAXy4IHbjUWhpgkN2dD3) | [Arm's Length](https://open.spotify.com/artist/1KXSj6uiC8Wtl2wCckVmAD) | [Arm's Length](https://open.spotify.com/album/2QnjmgW00UvoUemLxN6LeA) | 4:33 |
-| 11 | [SCARED TO DIE](https://open.spotify.com/track/3X4ZgzNt8276PH3mdjovrl) | [Clowns](https://open.spotify.com/artist/2TuGrkN9bcjWU1GcrUarYn) | [ENDLESS](https://open.spotify.com/album/6OZUwSH5xeiJJfz0U4x9w3) | 3:15 |
+| 11 | [SCARED TO DIE](https://open.spotify.com/track/5egHfv3MM6LMHHTrkowFru) | [Clowns](https://open.spotify.com/artist/2TuGrkN9bcjWU1GcrUarYn) | [ENDLESS](https://open.spotify.com/album/5S2eS7V3fIj3zVrdTjEHH6) | 3:15 |
 | 12 | [My One Wish](https://open.spotify.com/track/5TO9cofRiOhakgaMh3f75i) | [Ken Yokoyama](https://open.spotify.com/artist/4pPZ7nNH108ax8A1sjxfpX) | [My One Wish](https://open.spotify.com/album/0LPc8YbGDUS4xkphNIQIbk) | 2:52 |
 | 13 | [All Better](https://open.spotify.com/track/2DfZp0Ho5MhZwTANjHtlHe) | [Crow Baby](https://open.spotify.com/artist/7cBPTTqPfTOtwNwXJ2YFK1) | [All Better](https://open.spotify.com/album/0yEXMoT2VV4BZIZZIJXPEr) | 3:14 |
 | 14 | [FELL IN LOVE](https://open.spotify.com/track/0rc6gtN1L7i0TacdfxhiND) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [FELL IN LOVE](https://open.spotify.com/album/3inphIxOlFnDL3CD3wkMe6) | 2:18 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KpeLFwA3tO.md) - [plain]
 | 99 | [I Don’t Hate You](https://open.spotify.com/track/07EUiDdpkB8Zo5AZLzYDxU) | [Slow Joy](https://open.spotify.com/artist/5p119sPXEyp2exxbpInGqL) | [I Don’t Hate You](https://open.spotify.com/album/3tWcMdxF1NBUvLplGZtnFV) | 3:04 |
 | 100 | [Stockholm Syndrome](https://open.spotify.com/track/6v05B04FBFqXPpYYP9oedP) | [Homesafe](https://open.spotify.com/artist/5vV4gEs3O35SdrdwhvhYwe) | [Stockholm Syndrome](https://open.spotify.com/album/3qEjfWQeyI7KED7GXGDujw) | 2:41 |
 
-Snapshot ID: `MCxmMTIxNjVkMWE4Y2UzNjlmMzMwYTg5MzM2N2IwNzE2NmU2NzA4ZDMy`
+Snapshot ID: `MCxkOGNlM2FjNDA5ZTJhMmQ3NGRiY2Q3MzZiMzg4NGY3MTM5OTA2MjAw`

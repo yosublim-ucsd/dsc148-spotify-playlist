@@ -4,7 +4,7 @@
 
 > Music from and inspired by Wendell & Wild, curated by Tunde Adebimpe of TV on the Radio\. Watch now on Netflix.
 
-48 songs - 2 hr 56 min
+49 songs - 3 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -53,7 +53,8 @@
 | [Stranded](https://open.spotify.com/track/3pmlLEyIP75XR6yHbb82MV) | [The Gories](https://open.spotify.com/artist/5tcr1ujTO3Q0WH2wkY7RWh) | [I Know You Be Houserockin'](https://open.spotify.com/album/3IZmApu7YaxO4kTcY3dB8p) | 2:05 | 2022-10-26 |  |
 | [The Wolf](https://open.spotify.com/track/43oYjiz2EkXnTra3qmHl5d) | [The Brat](https://open.spotify.com/artist/3VEpuBJqSgbYq8WwmX6tCS) | [Straight Outta East L.A.](https://open.spotify.com/album/6bHLHjo0gOBCcC4cL4YVQu) | 3:12 | 2022-10-26 |  |
 | [Who Rize Above](https://open.spotify.com/track/4GlYEuj1GwAhFE8nZdrUIR) | [Dragons Of Zynth](https://open.spotify.com/artist/4xKhzglPVswJVUyAtO9kBX) | [Coronation Thieves](https://open.spotify.com/album/2mevkWFwP79haXF7PcBynq) | 6:36 | 2022-10-26 |  |
-| [Wolf Like Me](https://open.spotify.com/track/03wKMRNYVvw6s9nm4I4jUS) | [TV On The Radio](https://open.spotify.com/artist/3HJIB8sYPyxrFGuwvKXSLR) | [Return To Cookie Mountain](https://open.spotify.com/album/7xn8nwwutlJFMb7Zf9NEHi) | 4:39 | 2022-10-26 |  |
+| [Wolf Like Me](https://open.spotify.com/track/6Zgd7SomLTZkL1WPh4CUnV) | [TV On The Radio](https://open.spotify.com/artist/3HJIB8sYPyxrFGuwvKXSLR) | [Return To Cookie Mountain](https://open.spotify.com/album/4sD8WQQ8f1x3L4YFa9qFIO) | 4:37 | 2022-10-26 |  |
+| [Wolf Like Me](https://open.spotify.com/track/03wKMRNYVvw6s9nm4I4jUS) | [TV On The Radio](https://open.spotify.com/artist/3HJIB8sYPyxrFGuwvKXSLR) | [Return To Cookie Mountain](https://open.spotify.com/album/7xn8nwwutlJFMb7Zf9NEHi) | 4:39 | 2022-10-26 | 2023-10-21 |
 | [You Sexy Thing](https://open.spotify.com/track/714hERk9U1W8FMYkoC83CO) | [Hot Chocolate](https://open.spotify.com/artist/72VzFto8DYvKHocaHYNWSi) | [Hot Chocolate](https://open.spotify.com/album/10oMdAuUD0Tcc4BowCWUni) | 4:04 | 2022-10-26 |  |
 | [Young, Gifted, Black, in Leather](https://open.spotify.com/track/0DQpx4vZsdZCvRHSuoZrYe) | [Special Interest](https://open.spotify.com/artist/2CYTLJOt91YLe1JLStFu6m) | [Spiraling](https://open.spotify.com/album/2yUIhvhhjcN6W7703Ir6R2) | 2:49 | 2022-10-26 |  |
 

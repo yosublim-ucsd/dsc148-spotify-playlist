@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7t977T5F4kQ.md) - [plain]
 
 > The hottest hip\-life and highlife bangers from Ghana right now\.  Cover:   <a href="https://open.spotify.com/artist/62sda22OXnPueH8d35gZKf?si=5gZ509tfQq\-jkEMtvo7aCw"> Sista Afia </a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,376 likes - 80 songs - 4 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,428 likes - 80 songs - 4 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7t977T5F4kQ.md) - [plain]
 | 79 | [Your Love](https://open.spotify.com/track/1ShiPLLMEUiVQXH7ve6YNd) | [Herman Suede](https://open.spotify.com/artist/795E5FXQUgbjuPBxk6igGm) | [Your Love](https://open.spotify.com/album/2fPnNvgrjv72VfQcW5pTzc) | 3:14 |
 | 80 | [Party Of The Year \(feat\. Mr Drew\)](https://open.spotify.com/track/2l7g9za5ukNtQN4h1vSCbK) | [Keche](https://open.spotify.com/artist/7I8VnUISFUDhcyfzdFk19E), [Mr Drew](https://open.spotify.com/artist/4pW48O5XBTgEEJWfr8btdK) | [Party Of The Year \(feat\. Mr Drew\)](https://open.spotify.com/album/3P2LqB5XCENC53WdDEB8jV) | 3:27 |
 
-Snapshot ID: `MCwxNDdmMWFiYWFkYmM0NTM4NTJkZWJhNTU0YjdmYjBjZmI5NTg3NzQ3`
+Snapshot ID: `MCxlMDhkMmM2ZDQ0MzE1MTQ0YjM5ZDIwMTM0YTlhYjRkYWU4MGRmNTQ1`

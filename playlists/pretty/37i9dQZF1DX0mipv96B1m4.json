@@ -1,12 +1,12 @@
 {
   "description": "Top flight Caribbean influenced bangers made in Uganda ",
-  "num_followers": 823,
+  "num_followers": 825,
   "original_name": "Kidandali Parte",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkYjA3OGE0ZmJlMTZjYzcwNGI0MTllNzdmZWIyMGY4MTVlYWM1MzVm",
+  "snapshot_id": "MCw0ZDU1NjE3ZTQ3YmM5NGZjMWQ5MjhiZjNkN2VkZjQzZmM1YTE2ZTM5",
   "tracks": [
     {
       "added_at": "2023-08-18 12:29:53",
@@ -595,22 +595,30 @@
     {
       "added_at": "2023-08-18 12:29:53",
       "album": {
-        "name": "Feel Me",
-        "url": "https://open.spotify.com/album/5UclCEq9PPTybmhQt1aX2R"
+        "name": "We Can",
+        "url": "https://open.spotify.com/album/1woz3iK06NUsrX18WrhgpC"
       },
       "artists": [
         {
-          "name": "Daddy Andre",
-          "url": "https://open.spotify.com/artist/4lKjCuPd5ch3mlJOs6Yowo"
+          "name": "DJ Shiru",
+          "url": "https://open.spotify.com/artist/5HqHB9sOaP0RaBmZozwEho"
         },
         {
-          "name": "Karole Kasita",
-          "url": "https://open.spotify.com/artist/1RDiu2gDimIlyTwYha6OM0"
+          "name": "Keicy",
+          "url": "https://open.spotify.com/artist/5Xg53515cZvxy46kVXf1vW"
+        },
+        {
+          "name": "BEN",
+          "url": "https://open.spotify.com/artist/4FR3mobLORBTuXIxGJTkFW"
+        },
+        {
+          "name": "Winnie Nwagi",
+          "url": "https://open.spotify.com/artist/6D2BPqCTzdBn26ficmaciD"
         }
       ],
-      "duration_ms": 196963,
-      "name": "Gyal A Bubble",
-      "url": "https://open.spotify.com/track/1gi6SX3ZHw1IMEtPCL6iwj"
+      "duration_ms": 220408,
+      "name": "Born To Love You - 2020 Remix",
+      "url": "https://open.spotify.com/track/5qJo1Tflqbi1XHj76W3rJZ"
     },
     {
       "added_at": "2023-08-18 12:29:53",
@@ -643,30 +651,22 @@
     {
       "added_at": "2023-08-18 12:29:53",
       "album": {
-        "name": "We Can",
-        "url": "https://open.spotify.com/album/1woz3iK06NUsrX18WrhgpC"
+        "name": "Feel Me",
+        "url": "https://open.spotify.com/album/5UclCEq9PPTybmhQt1aX2R"
       },
       "artists": [
         {
-          "name": "DJ Shiru",
-          "url": "https://open.spotify.com/artist/5HqHB9sOaP0RaBmZozwEho"
+          "name": "Daddy Andre",
+          "url": "https://open.spotify.com/artist/4lKjCuPd5ch3mlJOs6Yowo"
         },
         {
-          "name": "Keicy",
-          "url": "https://open.spotify.com/artist/5Xg53515cZvxy46kVXf1vW"
-        },
-        {
-          "name": "BEN",
-          "url": "https://open.spotify.com/artist/4FR3mobLORBTuXIxGJTkFW"
-        },
-        {
-          "name": "Winnie Nwagi",
-          "url": "https://open.spotify.com/artist/6D2BPqCTzdBn26ficmaciD"
+          "name": "Karole Kasita",
+          "url": "https://open.spotify.com/artist/1RDiu2gDimIlyTwYha6OM0"
         }
       ],
-      "duration_ms": 220408,
-      "name": "Born To Love You - 2020 Remix",
-      "url": "https://open.spotify.com/track/5qJo1Tflqbi1XHj76W3rJZ"
+      "duration_ms": 196963,
+      "name": "Gyal A Bubble",
+      "url": "https://open.spotify.com/track/1gi6SX3ZHw1IMEtPCL6iwj"
     },
     {
       "added_at": "2023-08-18 12:29:53",
@@ -727,26 +727,6 @@
     {
       "added_at": "2023-08-18 12:29:53",
       "album": {
-        "name": "Bwonjagala",
-        "url": "https://open.spotify.com/album/6YZJxiQl1xFwi8Wgu0Dg3Q"
-      },
-      "artists": [
-        {
-          "name": "Daddy Andre",
-          "url": "https://open.spotify.com/artist/4lKjCuPd5ch3mlJOs6Yowo"
-        },
-        {
-          "name": "Fille",
-          "url": "https://open.spotify.com/artist/5SqLkoaEA3HOgPkesCQkKx"
-        }
-      ],
-      "duration_ms": 178834,
-      "name": "Bwonjagala",
-      "url": "https://open.spotify.com/track/0lEioGELKR2846vLXkzvUM"
-    },
-    {
-      "added_at": "2023-08-18 12:29:53",
-      "album": {
         "name": "Welcome",
         "url": "https://open.spotify.com/album/7mEKmY87y2j2jkeRcspMwU"
       },
@@ -759,6 +739,22 @@
       "duration_ms": 193959,
       "name": "Welcome",
       "url": "https://open.spotify.com/track/64i9EECIIkiccTlc0SJVDO"
+    },
+    {
+      "added_at": "2023-08-18 12:29:53",
+      "album": {
+        "name": "Tebali Ready",
+        "url": "https://open.spotify.com/album/4yafC0oNDkExVSN21Nie1P"
+      },
+      "artists": [
+        {
+          "name": "A Pass",
+          "url": "https://open.spotify.com/artist/70FdrG5oIuFyE1eA8HC8XX"
+        }
+      ],
+      "duration_ms": 159853,
+      "name": "Tebali Ready",
+      "url": "https://open.spotify.com/track/11GS4DjFxj9GHPnlOhKe5K"
     },
     {
       "added_at": "2023-08-18 12:29:53",
@@ -787,34 +783,42 @@
     {
       "added_at": "2023-08-18 12:29:53",
       "album": {
-        "name": "Tebali Ready",
-        "url": "https://open.spotify.com/album/4yafC0oNDkExVSN21Nie1P"
+        "name": "Bwonjagala",
+        "url": "https://open.spotify.com/album/6YZJxiQl1xFwi8Wgu0Dg3Q"
       },
       "artists": [
         {
-          "name": "A Pass",
-          "url": "https://open.spotify.com/artist/70FdrG5oIuFyE1eA8HC8XX"
+          "name": "Daddy Andre",
+          "url": "https://open.spotify.com/artist/4lKjCuPd5ch3mlJOs6Yowo"
+        },
+        {
+          "name": "Fille",
+          "url": "https://open.spotify.com/artist/5SqLkoaEA3HOgPkesCQkKx"
         }
       ],
-      "duration_ms": 159853,
-      "name": "Tebali Ready",
-      "url": "https://open.spotify.com/track/11GS4DjFxj9GHPnlOhKe5K"
+      "duration_ms": 178834,
+      "name": "Bwonjagala",
+      "url": "https://open.spotify.com/track/0lEioGELKR2846vLXkzvUM"
     },
     {
       "added_at": "2023-08-18 12:29:53",
       "album": {
-        "name": "I Need Your Love",
-        "url": "https://open.spotify.com/album/5pQKSW1zMqLpggnJ0X12Cb"
+        "name": "Roots",
+        "url": "https://open.spotify.com/album/0ZQlhloe2p4y4jNHz2lw2U"
       },
       "artists": [
         {
-          "name": "Pallaso",
-          "url": "https://open.spotify.com/artist/6U4AfG84hnUE6pzjoS1cz5"
+          "name": "Eddy Kenzo",
+          "url": "https://open.spotify.com/artist/3eTpitQsrNQdmkQJHS2v2j"
+        },
+        {
+          "name": "Cindy Sanyu & Beenie Gunter",
+          "url": "https://open.spotify.com/artist/51xOpwMyXoEXi04AEbpYpg"
         }
       ],
-      "duration_ms": 169430,
-      "name": "I Need Your Love",
-      "url": "https://open.spotify.com/track/2ZI4xbS2lfBgsG6P4K4e8s"
+      "duration_ms": 282215,
+      "name": "DanceHall",
+      "url": "https://open.spotify.com/track/6P8VucWdTtvHu5VOp5RW1k"
     },
     {
       "added_at": "2023-08-18 12:29:53",
@@ -839,22 +843,18 @@
     {
       "added_at": "2023-08-18 12:29:53",
       "album": {
-        "name": "Roots",
-        "url": "https://open.spotify.com/album/0ZQlhloe2p4y4jNHz2lw2U"
+        "name": "I Need Your Love",
+        "url": "https://open.spotify.com/album/5pQKSW1zMqLpggnJ0X12Cb"
       },
       "artists": [
         {
-          "name": "Eddy Kenzo",
-          "url": "https://open.spotify.com/artist/3eTpitQsrNQdmkQJHS2v2j"
-        },
-        {
-          "name": "Cindy Sanyu & Beenie Gunter",
-          "url": "https://open.spotify.com/artist/51xOpwMyXoEXi04AEbpYpg"
+          "name": "Pallaso",
+          "url": "https://open.spotify.com/artist/6U4AfG84hnUE6pzjoS1cz5"
         }
       ],
-      "duration_ms": 282215,
-      "name": "DanceHall",
-      "url": "https://open.spotify.com/track/6P8VucWdTtvHu5VOp5RW1k"
+      "duration_ms": 169430,
+      "name": "I Need Your Love",
+      "url": "https://open.spotify.com/track/2ZI4xbS2lfBgsG6P4K4e8s"
     },
     {
       "added_at": "2023-08-18 12:29:53",
@@ -939,26 +939,22 @@
     {
       "added_at": "2023-08-18 12:29:53",
       "album": {
-        "name": "Nothing to Something",
-        "url": "https://open.spotify.com/album/1VG1MkMJs5v7o3phdQ5vtv"
+        "name": "Misege",
+        "url": "https://open.spotify.com/album/4lXTMOCiwMZ7cNiuO629Br"
       },
       "artists": [
         {
-          "name": "DJ Shiru",
-          "url": "https://open.spotify.com/artist/5HqHB9sOaP0RaBmZozwEho"
+          "name": "Dax Vibez",
+          "url": "https://open.spotify.com/artist/3CX4qYIxJf5ezSHTYsGaMT"
         },
         {
-          "name": "Bebe Cool",
-          "url": "https://open.spotify.com/artist/6x4C5hivCmfL4SIluxGV81"
-        },
-        {
-          "name": "Sumi Crazy",
-          "url": "https://open.spotify.com/artist/0RD6wSCv8A4zf8hblm8fvB"
+          "name": "ZEX BILANGILANGI",
+          "url": "https://open.spotify.com/artist/2DOFhYsDkJP2H8bdvLcS9c"
         }
       ],
-      "duration_ms": 218400,
-      "name": "Wi Di Best (feat. Bebe Cool & Sumi Crazy)",
-      "url": "https://open.spotify.com/track/6oZMoPM3UFaUozKIiRNjVK"
+      "duration_ms": 188235,
+      "name": "Misege",
+      "url": "https://open.spotify.com/track/6gi8P6lydT1Q4QuByWpbaf"
     }
   ],
   "unique_name": "Kidandali Parte",

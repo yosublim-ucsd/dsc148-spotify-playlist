@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYtDSKIiDhua.md) - [plain]
 
 > The R&B and good vibe tracks for your current mood\. Cover: Yuna
 
-[Spotify](https://open.spotify.com/user/spotify) - 110,656 likes - 85 songs - 4 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 110,701 likes - 85 songs - 4 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYtDSKIiDhua.md) - [plain]
 | 6 | [Summers Around The Corner](https://open.spotify.com/track/6AY1IWGyVFkdkq8AA5F2zT) | [Rexx Life Raj](https://open.spotify.com/artist/5rDXcEIODl8TgGTgrntnjX), [thuy](https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a) | [Summers Around The Corner](https://open.spotify.com/album/3E4ICiqiWEXTncH5RxR1tB) | 3:48 |
 | 7 | [Chemistry](https://open.spotify.com/track/3QOstENZ1cTwT4KAWf81Tk) | [Rangga Jones](https://open.spotify.com/artist/330A2O2MYF4bWFjwM5PJ4z), [Jolianne](https://open.spotify.com/artist/0GuaoBVOFuVXuhbrmSD1je) | [Chemistry](https://open.spotify.com/album/6HW5qoGmSJQNUFWAYB5zjN) | 2:30 |
 | 8 | [I'm So High](https://open.spotify.com/track/0OsOsFGRsNsn6ncyOkr2Uo) | [Assia Keva](https://open.spotify.com/artist/78rdZWsKiflQNcM4ecLyi8) | [2004](https://open.spotify.com/album/2mz2plCCh1VzUymmWMGjCg) | 3:37 |
-| 9 | [April](https://open.spotify.com/track/7ibfoNcwydFIAi5UfTnyoD) | [qt.](https://open.spotify.com/artist/2PZrzgPEzozv50Ccu7f3ld) | [HAPPY](https://open.spotify.com/album/5oCnZaBNDb10lteseSrklw) | 3:54 |
+| 9 | [April \(hi vọng em\)](https://open.spotify.com/track/7ibfoNcwydFIAi5UfTnyoD) | [qt.](https://open.spotify.com/artist/2PZrzgPEzozv50Ccu7f3ld) | [HAPPY](https://open.spotify.com/album/5oCnZaBNDb10lteseSrklw) | 3:54 |
 | 10 | [STAY WITH ME](https://open.spotify.com/track/4frkW3V6yiL2RWP0Cf0aKY) | [Dan$on](https://open.spotify.com/artist/1H95nqLZEVhgVtON6hxg2T) | [STAY WITH ME](https://open.spotify.com/album/64rsgcGXEhiKWQOJ5Zl9de) | 3:33 |
 | 11 | [It's You \(feat\. BIA\)](https://open.spotify.com/track/2vrrcekBMTpaadCzsBgGxw) | [RealestK](https://open.spotify.com/artist/35R1B97CfrqKFFI3QBkTDx), [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER) | [It's You \(feat\. BIA\)](https://open.spotify.com/album/1bHsKvnj1DJaE2c9Ea4mHY) | 2:12 |
 | 12 | [BRB](https://open.spotify.com/track/1E1P4FFDWZQarIllFj7pCf) | [kasper](https://open.spotify.com/artist/4kwRGpvKw9YsV0DTRZQKyH) | [BRB](https://open.spotify.com/album/59gHk4tDlPnS9PUxdxYQ99) | 3:32 |
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYtDSKIiDhua.md) - [plain]
 | 84 | [This Is](https://open.spotify.com/track/2zuDMKJ2rSgCMtJknUJBZ9) | [Ella Mai](https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap) | [Heart On My Sleeve \(Deluxe Edition\)](https://open.spotify.com/album/5PSR9tquibfWRiWVSkn6qD) | 3:26 |
 | 85 | [Where I Go \(feat\. H.E.R.\)](https://open.spotify.com/track/3MlQPB0wJuopo3NTZGlMpI) | [NxWorries](https://open.spotify.com/artist/6PEMFpe3PTOksdV4ZXUpbE), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa), [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os), [Knxwledge](https://open.spotify.com/artist/17Zu03OgBVxgLxWmRUyNOJ) | [Where I Go \(feat\. H.E.R.\)](https://open.spotify.com/album/1o8zUe3QYHV42SHSsg6ffu) | 3:21 |
 
-Snapshot ID: `MCw4MzlmMjI4ZGMzNzMzNGU1OWYxODBhYzA1MGYxNzgwMjY0NmY1Zjlm`
+Snapshot ID: `MCxmMzNmNDM2ZGJhMWEzODViNDY3ZWNlNGM0NGIyOTRhOWQyZGI3Zjg2`

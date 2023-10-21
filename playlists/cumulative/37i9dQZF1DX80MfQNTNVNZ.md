@@ -4,7 +4,7 @@
 
 > Groove\-heavy, soothing tunes for the soul and R&B
 
-441 songs - 1 day 2 hr 19 min
+442 songs - 1 day 2 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -179,7 +179,8 @@
 | [Inferno](https://open.spotify.com/track/5Qg1StPjfDnTY42zF7i02d) | [JMSN](https://open.spotify.com/artist/6HCkJzbswOIc7Qc5TJ1n5l) | [Velvet](https://open.spotify.com/album/2wN3fuTXmj387DO7wxNjz8) | 4:24 | 2021-12-23 | 2022-07-09 |
 | [Intimidated \(feat\. H.E.R.\)](https://open.spotify.com/track/0dFdGPVLs3k0z9ezYWZzUa) | [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu), [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os) | [Intimidated](https://open.spotify.com/album/4BwfoXhDqTfiGS6pZueR9g) | 3:27 | 2021-12-23 |  |
 | [Into The Night \(feat\. ZIN & 黒田卓也\)](https://open.spotify.com/track/3bD6V7HK99QSLLmZFlJP3w) | [Kei Owada](https://open.spotify.com/artist/3uxdiisUeUl9eXJ9KfDy4C), [ZIN](https://open.spotify.com/artist/2W8tmumOv76P22QElkqPCS), [Takuya Kuroda](https://open.spotify.com/artist/4DbVGBurfbrdLW2ZwfwdmP) | [Into The Night \(feat\. ZIN & 黒田卓也\)](https://open.spotify.com/album/3r1jhjYj8DPOTlawfBTmVP) | 4:47 | 2023-08-10 | 2023-08-25 |
-| [Into You](https://open.spotify.com/track/497AWVm2pmy8yfB6kdLXkL) | [Incognito](https://open.spotify.com/artist/5moJNCJeiNwuQAhDLJXULs), [Cherri V](https://open.spotify.com/artist/1I8ac7F9m1rf0KT3l1iAiP), [Mo Hausler](https://open.spotify.com/artist/3guLjrFJ3vivD0E6L2bbHV) | [Into You](https://open.spotify.com/album/3oY8hVG88vEFLywJyLDnSO) | 4:15 | 2023-10-19 |  |
+| [Into You](https://open.spotify.com/track/6qbkhCaiIvU2fCEbUeZ4KW) | [Incognito](https://open.spotify.com/artist/5moJNCJeiNwuQAhDLJXULs), [Cherri V](https://open.spotify.com/artist/1I8ac7F9m1rf0KT3l1iAiP) | [Into You](https://open.spotify.com/album/4ph7aQr7TBj4CHxSUf5sXj) | 4:15 | 2023-10-19 |  |
+| [Into You](https://open.spotify.com/track/497AWVm2pmy8yfB6kdLXkL) | [Incognito](https://open.spotify.com/artist/5moJNCJeiNwuQAhDLJXULs), [Cherri V](https://open.spotify.com/artist/1I8ac7F9m1rf0KT3l1iAiP), [Mo Hausler](https://open.spotify.com/artist/3guLjrFJ3vivD0E6L2bbHV) | [Into You](https://open.spotify.com/album/3oY8hVG88vEFLywJyLDnSO) | 4:15 | 2023-10-19 | 2023-10-21 |
 | [Isolated](https://open.spotify.com/track/0icYUkm7H0I21NG2oTdpG8) | [Nightmares On Wax](https://open.spotify.com/artist/4tNxq9NGKTKaX8OkZBLgf0), [Pip Millett](https://open.spotify.com/artist/1QfEfvB62EEl4upf2ANKkR), [Sabrina Mahfouz](https://open.spotify.com/artist/6D8Yw8YdWpwqkJLx0HnEXH) | [Shout Out! To Freedom...](https://open.spotify.com/album/58jh2fv0ZWkGTNzQ1O7Tsq) | 4:13 | 2022-03-24 | 2022-07-26 |
 | [It Run's Through Me](https://open.spotify.com/track/51Q2IPSmoFuDAkMmaYwjjF) | [Tom Misch](https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye), [De La Soul](https://open.spotify.com/artist/1Z8ODXyhEBi3WynYw0Rya6) | [Geography](https://open.spotify.com/album/2g49Kw03cpc5HQygEw450P) | 4:21 | 2022-04-14 | 2022-04-20 |
 | [It Runs Through Me](https://open.spotify.com/track/02CygBCQOIyEuhNZqHHcNx) | [Tom Misch](https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye), [De La Soul](https://open.spotify.com/artist/1Z8ODXyhEBi3WynYw0Rya6) | [Geography](https://open.spotify.com/album/28enuddLPEA914scE6Drvk) | 4:21 | 2022-07-28 | 2022-11-17 |

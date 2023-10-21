@@ -1,13 +1,29 @@
 {
   "description": "Gazing at pedals, soaring celestially high. Cover: Duster",
-  "num_followers": 122484,
+  "num_followers": 122751,
   "original_name": "Shoegaze Now",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3ZDMzZGY4MzlhYzQ1NzZkNTQ1MDdmM2Y5ZDI5NmIyZDBmMWZmZDc2",
+  "snapshot_id": "MCwwZDhhZWI5ZWRmMmRhZWRhNDRmNzU2ODc5MTQ5ODg4MzVjMjdlMDM0",
   "tracks": [
+    {
+      "added_at": "2023-10-20 14:32:39",
+      "album": {
+        "name": "Census Designated",
+        "url": "https://open.spotify.com/album/0rsCXQ9QyrLaTc2a5fvsZR"
+      },
+      "artists": [
+        {
+          "name": "Jane Remover",
+          "url": "https://open.spotify.com/artist/2rLGlNI6htigNxx172qxLu"
+        }
+      ],
+      "duration_ms": 360995,
+      "name": "Backseat Girl",
+      "url": "https://open.spotify.com/track/7y23wOenPKul2aNEF7Dcwr"
+    },
     {
       "added_at": "2023-09-29 15:11:53",
       "album": {
@@ -55,6 +71,22 @@
       "duration_ms": 229432,
       "name": "blurry",
       "url": "https://open.spotify.com/track/2UkC6lFTKIAIiAErr6fDo0"
+    },
+    {
+      "added_at": "2023-10-20 14:32:39",
+      "album": {
+        "name": "Tomorrow's Fire",
+        "url": "https://open.spotify.com/album/5GYQtBhrKfobrD0RkFF43Z"
+      },
+      "artists": [
+        {
+          "name": "Squirrel Flower",
+          "url": "https://open.spotify.com/artist/7bI1v9NGBBhq8iGfytctni"
+        }
+      ],
+      "duration_ms": 117533,
+      "name": "Full Time Job",
+      "url": "https://open.spotify.com/track/5v1HtDgl2JSKF3mqvtM4PP"
     },
     {
       "added_at": "2023-07-19 14:26:49",
@@ -105,6 +137,22 @@
       "url": "https://open.spotify.com/track/2ceUzieIOIwYKA9zOiWkto"
     },
     {
+      "added_at": "2023-10-20 14:32:39",
+      "album": {
+        "name": "NPC",
+        "url": "https://open.spotify.com/album/2djvGQmMqVG6b1rP7G2Kbb"
+      },
+      "artists": [
+        {
+          "name": "Tanukichan",
+          "url": "https://open.spotify.com/artist/7d0wUlQ0ZXIGFa0YzuBiR6"
+        }
+      ],
+      "duration_ms": 218173,
+      "name": "NPC",
+      "url": "https://open.spotify.com/track/1UbE5driFCXOtqjRoqOqqQ"
+    },
+    {
       "added_at": "2023-10-13 15:37:01",
       "album": {
         "name": "happyyy",
@@ -151,6 +199,22 @@
       "duration_ms": 203294,
       "name": "life imitates life",
       "url": "https://open.spotify.com/track/5E9qBEUja2yAjUPhQO8Gx7"
+    },
+    {
+      "added_at": "2023-10-20 14:32:39",
+      "album": {
+        "name": "DISDAIN",
+        "url": "https://open.spotify.com/album/7BPRvaesFamtH4Xo82I8nO"
+      },
+      "artists": [
+        {
+          "name": "CORPSE",
+          "url": "https://open.spotify.com/artist/7yntSJ6uojO3z6GFUVwhAW"
+        }
+      ],
+      "duration_ms": 145333,
+      "name": "DISDAIN",
+      "url": "https://open.spotify.com/track/2hEI5r6nDn9ZdNqHluhbdq"
     },
     {
       "added_at": "2023-09-29 15:11:53",
@@ -233,6 +297,22 @@
       "url": "https://open.spotify.com/track/6yjtcpFf9dLgflkS52PYNa"
     },
     {
+      "added_at": "2023-10-20 14:32:39",
+      "album": {
+        "name": "pretty scars",
+        "url": "https://open.spotify.com/album/7rF8PnLMiuS6NyH8s2MVyo"
+      },
+      "artists": [
+        {
+          "name": "w1sh",
+          "url": "https://open.spotify.com/artist/57zmm9q6ZH4TJNa4sQgmYA"
+        }
+      ],
+      "duration_ms": 136153,
+      "name": "pretty scars",
+      "url": "https://open.spotify.com/track/7dTs49ZdEWuHvyrbjrZyDa"
+    },
+    {
       "added_at": "2023-09-25 20:38:31",
       "album": {
         "name": "dying to reach you",
@@ -311,22 +391,6 @@
       "duration_ms": 388615,
       "name": "Mantra",
       "url": "https://open.spotify.com/track/5iPdRGqkEDG3Y8xTt76Z4T"
-    },
-    {
-      "added_at": "2023-09-29 15:11:53",
-      "album": {
-        "name": "Stratosphere",
-        "url": "https://open.spotify.com/album/2S3289mypNw2zP0OpFexMb"
-      },
-      "artists": [
-        {
-          "name": "Duster",
-          "url": "https://open.spotify.com/artist/5AyEXCtu3xnnsTGCo4RVZh"
-        }
-      ],
-      "duration_ms": 141040,
-      "name": "Inside Out",
-      "url": "https://open.spotify.com/track/6WlmEymaXKMRs3D2c4j6os"
     },
     {
       "added_at": "2023-09-25 20:38:31",
@@ -561,22 +625,6 @@
       "url": "https://open.spotify.com/track/07WWAnpW4RVPY4D2lmlClG"
     },
     {
-      "added_at": "2023-09-25 20:38:31",
-      "album": {
-        "name": "Tomorrow's Fire",
-        "url": "https://open.spotify.com/album/5GYQtBhrKfobrD0RkFF43Z"
-      },
-      "artists": [
-        {
-          "name": "Squirrel Flower",
-          "url": "https://open.spotify.com/artist/7bI1v9NGBBhq8iGfytctni"
-        }
-      ],
-      "duration_ms": 145266,
-      "name": "Intheskatepark",
-      "url": "https://open.spotify.com/track/7gcWoC7vErUI4Vcni2ajBu"
-    },
-    {
       "added_at": "2023-08-11 16:31:35",
       "album": {
         "name": "everything is alive",
@@ -625,22 +673,6 @@
       "url": "https://open.spotify.com/track/1Rgb55W0TNZThWOW7Qby8a"
     },
     {
-      "added_at": "2023-08-23 04:00:00",
-      "album": {
-        "name": "Lips",
-        "url": "https://open.spotify.com/album/7Kvgk3FSRAKFKVZrvhNjmy"
-      },
-      "artists": [
-        {
-          "name": "Jane Remover",
-          "url": "https://open.spotify.com/artist/2rLGlNI6htigNxx172qxLu"
-        }
-      ],
-      "duration_ms": 310773,
-      "name": "Lips",
-      "url": "https://open.spotify.com/track/05SEi2EuY93D6UHHUSNZGc"
-    },
-    {
       "added_at": "2023-09-25 20:38:31",
       "album": {
         "name": "Coping Habits",
@@ -663,8 +695,8 @@
     {
       "added_at": "2023-08-11 16:31:35",
       "album": {
-        "name": "Before",
-        "url": "https://open.spotify.com/album/3Bdi9ZTTSMOAZFvRIny7xp"
+        "name": "Sit Down for Dinner",
+        "url": "https://open.spotify.com/album/1DCI57XjibUHoaVGcg7wGS"
       },
       "artists": [
         {
@@ -674,7 +706,7 @@
       ],
       "duration_ms": 268122,
       "name": "Before",
-      "url": "https://open.spotify.com/track/55stf0i4B9KxBNfasksfx4"
+      "url": "https://open.spotify.com/track/1R0Q2qjI1YoViP4O3QDr31"
     },
     {
       "added_at": "2023-09-01 13:51:56",
@@ -743,22 +775,6 @@
       "duration_ms": 166690,
       "name": "I\u2019d Like You To Leave",
       "url": "https://open.spotify.com/track/2ufyUEytXZQvltIJsxEDwO"
-    },
-    {
-      "added_at": "2023-07-21 04:00:00",
-      "album": {
-        "name": "everything is alive",
-        "url": "https://open.spotify.com/album/2jSmcj39eQiU76EbMGuxS0"
-      },
-      "artists": [
-        {
-          "name": "Slowdive",
-          "url": "https://open.spotify.com/artist/72X6FHxaShda0XeQw3vbeF"
-        }
-      ],
-      "duration_ms": 232537,
-      "name": "skin in the game",
-      "url": "https://open.spotify.com/track/2EpduTUFSZfeb0GI4CaCQD"
     },
     {
       "added_at": "2023-09-01 13:51:56",
@@ -1083,8 +1099,8 @@
     {
       "added_at": "2023-06-30 04:00:00",
       "album": {
-        "name": "Melody Experiment",
-        "url": "https://open.spotify.com/album/08WSSXUZVNGgS6yTQ0l4Ho"
+        "name": "Sit Down for Dinner",
+        "url": "https://open.spotify.com/album/1DCI57XjibUHoaVGcg7wGS"
       },
       "artists": [
         {
@@ -1094,7 +1110,7 @@
       ],
       "duration_ms": 310094,
       "name": "Melody Experiment",
-      "url": "https://open.spotify.com/track/3cVEXHZ2G8tJMGoYff4B3q"
+      "url": "https://open.spotify.com/track/04SwfL1yAlGgn0EftxX3Jy"
     },
     {
       "added_at": "2023-06-30 04:00:00",
@@ -1441,22 +1457,6 @@
       "url": "https://open.spotify.com/track/2ONwyCrocSyMLAQsfzFtoa"
     },
     {
-      "added_at": "2023-01-12 03:03:40",
-      "album": {
-        "name": "pg.4 a picture of three hedges/through your window",
-        "url": "https://open.spotify.com/album/12TPSTIy5SbQnGRirNzNcB"
-      },
-      "artists": [
-        {
-          "name": "julie",
-          "url": "https://open.spotify.com/artist/3VNzWLePg9jTvQ2ximYOzW"
-        }
-      ],
-      "duration_ms": 249826,
-      "name": "pg.4 a picture of three hedges",
-      "url": "https://open.spotify.com/track/4qtRBRNDFVbZ2kk3BEaRf3"
-    },
-    {
       "added_at": "2023-06-23 04:00:00",
       "album": {
         "name": "do you remember...",
@@ -1593,22 +1593,6 @@
       "url": "https://open.spotify.com/track/2nKrmlSHiJcNnnED2QLaAz"
     },
     {
-      "added_at": "2023-02-17 03:32:14",
-      "album": {
-        "name": "Nuclear Daisies",
-        "url": "https://open.spotify.com/album/0C7POl3J3CmtKZvuDScWiF"
-      },
-      "artists": [
-        {
-          "name": "Nuclear Daisies",
-          "url": "https://open.spotify.com/artist/4YeyVA4cQEijNzJIBMqYOo"
-        }
-      ],
-      "duration_ms": 194181,
-      "name": "Heaven in Your Head",
-      "url": "https://open.spotify.com/track/3CSRKYbNultfhwhzOFakGF"
-    },
-    {
       "added_at": "2023-03-31 18:27:23",
       "album": {
         "name": "Debris",
@@ -1641,54 +1625,6 @@
       "url": "https://open.spotify.com/track/7qnvCyjTg93bXo2pD2yrkx"
     },
     {
-      "added_at": "2023-02-21 01:31:43",
-      "album": {
-        "name": "Sink",
-        "url": "https://open.spotify.com/album/3gdzC6RB8QGu2rulkyD6aI"
-      },
-      "artists": [
-        {
-          "name": "Dog Ears",
-          "url": "https://open.spotify.com/artist/3JIof4HxulwCqTMAUdJQO1"
-        }
-      ],
-      "duration_ms": 161400,
-      "name": "Sink",
-      "url": "https://open.spotify.com/track/59oSaOV2RMpdcWzlPsvy42"
-    },
-    {
-      "added_at": "2023-03-17 17:35:12",
-      "album": {
-        "name": "Big Sonic Chill",
-        "url": "https://open.spotify.com/album/4AHs5grKVa8hEZ5QC2acDd"
-      },
-      "artists": [
-        {
-          "name": "Sparkler",
-          "url": "https://open.spotify.com/artist/5z02NYGqi7UljYwTcRK66K"
-        }
-      ],
-      "duration_ms": 267500,
-      "name": "Tea Garden",
-      "url": "https://open.spotify.com/track/2KYQPlfhrmmrW6RKzkGgbi"
-    },
-    {
-      "added_at": "2023-03-17 17:35:12",
-      "album": {
-        "name": "Animita",
-        "url": "https://open.spotify.com/album/2gz1tfqRhfFjD4noTtqKUs"
-      },
-      "artists": [
-        {
-          "name": "Adelaida",
-          "url": "https://open.spotify.com/artist/5ugKDsPNjtGyV7WxD7nTYS"
-        }
-      ],
-      "duration_ms": 265606,
-      "name": "Efervecencia",
-      "url": "https://open.spotify.com/track/2YYyNYvGBlobj2UjpWGcNo"
-    },
-    {
       "added_at": "2023-04-14 23:09:55",
       "album": {
         "name": "Pressure",
@@ -1703,54 +1639,6 @@
       "duration_ms": 173453,
       "name": "Pressure",
       "url": "https://open.spotify.com/track/10FlXJUgM6r159dNILdFDt"
-    },
-    {
-      "added_at": "2023-02-17 03:32:14",
-      "album": {
-        "name": "Wake",
-        "url": "https://open.spotify.com/album/6YraI2Zbhs2OXrwFJn9HZ8"
-      },
-      "artists": [
-        {
-          "name": "Animal Ghosts",
-          "url": "https://open.spotify.com/artist/2LIlJiCuWBLpBSZQnTvEZU"
-        }
-      ],
-      "duration_ms": 295714,
-      "name": "You",
-      "url": "https://open.spotify.com/track/4KAXCtaIkLzAlajKxpeTDb"
-    },
-    {
-      "added_at": "2023-02-17 03:32:14",
-      "album": {
-        "name": "Here at All",
-        "url": "https://open.spotify.com/album/4C02KdIWuoGpzoNndlW1XU"
-      },
-      "artists": [
-        {
-          "name": "Gleemer",
-          "url": "https://open.spotify.com/artist/4UjrcYERvCDC44O0uBSOFa"
-        }
-      ],
-      "duration_ms": 234706,
-      "name": "In Your Way",
-      "url": "https://open.spotify.com/track/0RLikYdZ4mltKZicGohFmg"
-    },
-    {
-      "added_at": "2023-02-17 03:32:14",
-      "album": {
-        "name": "Possessions",
-        "url": "https://open.spotify.com/album/1sZkGikz7VbeytHdaBgWhr"
-      },
-      "artists": [
-        {
-          "name": "Blushing",
-          "url": "https://open.spotify.com/artist/27rWdoCAtvpwChpCDz9PK0"
-        }
-      ],
-      "duration_ms": 152760,
-      "name": "Sour Punch",
-      "url": "https://open.spotify.com/track/13pNdu3UOvwz0NxU2EEgVD"
     }
   ],
   "unique_name": "Shoegaze Now",

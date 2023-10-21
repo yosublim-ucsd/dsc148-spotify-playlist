@@ -1,12 +1,12 @@
 {
   "description": "Releases from the legendary Blues label.",
-  "num_followers": 20535,
+  "num_followers": 20559,
   "original_name": "Legendary Labels: Alligator",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1YTJhNjcxNjQ2OTVkZTU0ODYyZGI4NmE2ZTIyMWI1NjcxMmQ3Nzg0",
+  "snapshot_id": "MCw0NmEyYjcyOTg0MWIyOWRiNzRhYjYwNzNiOWIxNzI2MTBmOGUxMGM4",
   "tracks": [
     {
       "added_at": "2023-05-17 15:52:13",
@@ -75,6 +75,22 @@
     {
       "added_at": "2023-05-17 15:52:13",
       "album": {
+        "name": "Hound Dog Taylor and The Houserockers",
+        "url": "https://open.spotify.com/album/3whc6JMkDLZMngoWFIMJYV"
+      },
+      "artists": [
+        {
+          "name": "Hound Dog Taylor & The HouseRockers",
+          "url": "https://open.spotify.com/artist/3vk5zTU4vGTefHNqZzDD4a"
+        }
+      ],
+      "duration_ms": 215800,
+      "name": "Give Me Back My Wig",
+      "url": "https://open.spotify.com/track/65dalI2zUxJy2ITurZAaUb"
+    },
+    {
+      "added_at": "2023-05-17 15:52:13",
+      "album": {
         "name": "Country Ghetto",
         "url": "https://open.spotify.com/album/2Z4n6K4UZKC6EV6AhFgazV"
       },
@@ -91,22 +107,6 @@
       "duration_ms": 358306,
       "name": "The Sun Is Shining Down",
       "url": "https://open.spotify.com/track/411kkbixYrnqF7IAU8cSko"
-    },
-    {
-      "added_at": "2023-05-17 15:52:13",
-      "album": {
-        "name": "Hound Dog Taylor and The Houserockers",
-        "url": "https://open.spotify.com/album/3whc6JMkDLZMngoWFIMJYV"
-      },
-      "artists": [
-        {
-          "name": "Hound Dog Taylor & The HouseRockers",
-          "url": "https://open.spotify.com/artist/3vk5zTU4vGTefHNqZzDD4a"
-        }
-      ],
-      "duration_ms": 215800,
-      "name": "Give Me Back My Wig",
-      "url": "https://open.spotify.com/track/65dalI2zUxJy2ITurZAaUb"
     },
     {
       "added_at": "2023-05-17 15:52:13",

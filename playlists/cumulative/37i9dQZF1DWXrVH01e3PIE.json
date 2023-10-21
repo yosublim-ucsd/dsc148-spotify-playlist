@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-24",
-  "description": "LIT killah & Tiago PZK en la casa del Trap Argentino.",
+  "description": "Orodembow & 0-600 en la casa del Trap Argentino.",
   "name": "Trapperz Argentina",
   "tracks": [
     {
@@ -514,7 +514,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-21",
       "duration_ms": 154181,
       "name": "Bad B*tches",
       "url": "https://open.spotify.com/track/3XQlzdBYy7aXYwdD82WSu7"
@@ -2463,6 +2463,28 @@
     },
     {
       "album": {
+        "name": "LIBRE",
+        "url": "https://open.spotify.com/album/7Fli0EzDcjYjXZywh3gAsp"
+      },
+      "artists": [
+        {
+          "name": "ORO600",
+          "url": "https://open.spotify.com/artist/5rHC8VSODpT9V7a8ZQu1h6"
+        },
+        {
+          "name": "Neo Pistea",
+          "url": "https://open.spotify.com/artist/01m2XZ7m7rAz6KY3scTdaV"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205714,
+      "name": "LIBRE",
+      "url": "https://open.spotify.com/track/4hCHvrNozvAGPJGeadXJML"
+    },
+    {
+      "album": {
         "name": "Lil Tecca",
         "url": "https://open.spotify.com/album/5D89k9Xb7ezT3CSUTAbca9"
       },
@@ -3197,6 +3219,36 @@
     },
     {
       "album": {
+        "name": "OCASO",
+        "url": "https://open.spotify.com/album/4aGeeKBhCMXmnGerGbGGcI"
+      },
+      "artists": [
+        {
+          "name": "Bhavi",
+          "url": "https://open.spotify.com/artist/7fT2Me47PQ8T7954PKrcwR"
+        },
+        {
+          "name": "C.R.O",
+          "url": "https://open.spotify.com/artist/4puAp107dCehraE47QXVQX"
+        },
+        {
+          "name": "KHEA",
+          "url": "https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR"
+        },
+        {
+          "name": "Neo Pistea",
+          "url": "https://open.spotify.com/artist/01m2XZ7m7rAz6KY3scTdaV"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233273,
+      "name": "OCASO",
+      "url": "https://open.spotify.com/track/2KibbfI1tM4ofl4f3ojVBF"
+    },
+    {
+      "album": {
         "name": "Offline Remix",
         "url": "https://open.spotify.com/album/0wTBnt7BJB19IBSQAH3b4H"
       },
@@ -3607,6 +3659,28 @@
     },
     {
       "album": {
+        "name": "Pro Player",
+        "url": "https://open.spotify.com/album/7yJYBoYjDduMIj5FFYPxhL"
+      },
+      "artists": [
+        {
+          "name": "R Climent",
+          "url": "https://open.spotify.com/artist/7qNTiLJpuCUFJ8G7Jf5fzP"
+        },
+        {
+          "name": "Frijo",
+          "url": "https://open.spotify.com/artist/4D2d63igYEdzhzFnxrSow7"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189295,
+      "name": "Pro Player",
+      "url": "https://open.spotify.com/track/3WJnf9Xe51wEmCPzrYFihE"
+    },
+    {
+      "album": {
         "name": "Puestos Pal Mill\u00f3n",
         "url": "https://open.spotify.com/album/6rY2sf7BkUmRRhmFzOZoQY"
       },
@@ -3622,7 +3696,7 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-21",
       "duration_ms": 174857,
       "name": "Puestos Pal Mill\u00f3n",
       "url": "https://open.spotify.com/track/5qBVWOBdNAIRimwp79OHJ7"
@@ -4410,7 +4484,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-21",
       "duration_ms": 161311,
       "name": "Surfeando el Tsunami",
       "url": "https://open.spotify.com/track/5VxQlDyKX3gpdOXKTXUngX"

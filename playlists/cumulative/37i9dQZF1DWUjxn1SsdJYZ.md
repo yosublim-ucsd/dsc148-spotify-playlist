@@ -4,7 +4,7 @@
 
 > The best drill, trap and genre bending rap from Australia and NZ\. Cover: Vv Pete
 
-589 songs - 1 day 3 hr 25 min
+590 songs - 1 day 3 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -176,6 +176,7 @@
 | [Favourite](https://open.spotify.com/track/2T1HDMEh7BDKfCZlKxET3D) | [NASA NOVA](https://open.spotify.com/artist/06QjJe1vLugKmPVdMKVCUR), [Youngn Lipz](https://open.spotify.com/artist/36PxHmbx5QrRTpuCaw4FuV) | [Favourite](https://open.spotify.com/album/6yZo8WscLdGcBeMyN8J3VH) | 2:27 | 2022-05-26 | 2022-10-28 |
 | [Final Resort \(feat\. Wewantwraiths & Ay Huncho\)](https://open.spotify.com/track/02FOaMsuOp5zzg85esljQz) | [Sus](https://open.spotify.com/artist/1tWZDk56cffZfgjmgHWuXD), [wewantwraiths](https://open.spotify.com/artist/3LYyk2fBTwdAw3aN6hrrY2), [Ay Huncho](https://open.spotify.com/artist/3HKD4MjCgkSrWjhebSa1Np) | [Final Resort \(feat\. Wewantwraiths & Ay Huncho\)](https://open.spotify.com/album/6GmB5KetDvtxQHuuv7z7KI) | 3:02 | 2023-07-18 |  |
 | [FINAL STATEMENT!](https://open.spotify.com/track/1RKVs13pG0kIdNlhKeaUHr) | [Mulalo](https://open.spotify.com/artist/5gUm9HBoHkyMtwmPyDJfNn) | [FINAL STATEMENT!](https://open.spotify.com/album/5JkVDoJ471lwIrMZFuWavz) | 2:35 | 2023-05-18 | 2023-10-20 |
+| [Finding My Way](https://open.spotify.com/track/33ArwFU5L9M5S1lnTmAjz7) | [PROPH3T](https://open.spotify.com/artist/3CfDgUAqzcrVjX2GSgAroa), [Jaecy](https://open.spotify.com/artist/4hd0k0g3b2MLUiw0gPAsee) | [Finding My Way](https://open.spotify.com/album/2VJLah9SVibt5UYFU9HVM6) | 2:42 | 2023-10-19 |  |
 | [Flashback](https://open.spotify.com/track/3VeAelsMAZSm5q8fAR8cIm) | [Benjamin](https://open.spotify.com/artist/1gXHnuUhhoG0Oia1mJafPE) | [Harder, Faster](https://open.spotify.com/album/3LMgotL0DzrXu4pdlG578P) | 4:27 | 2023-07-27 |  |
 | [Flex](https://open.spotify.com/track/3Cijp6fEvRThV1D0Xj9ux7) | [Yaar Kahlon](https://open.spotify.com/artist/1r08QeUOiKLWK7vDaKOrnK), [Sznny](https://open.spotify.com/artist/1a67IzqPCit3VxHjXE9dWQ) | [Flex](https://open.spotify.com/album/7ILBIkY6fElee33cslAarz) | 2:17 | 2023-01-05 | 2023-02-03 |
 | [Flows](https://open.spotify.com/track/3diJK6RzqoTaEUPF7X2c5Y) | [Southsidefredo](https://open.spotify.com/artist/7K5G8SF435R5tVM3rApmTb) | [Flows](https://open.spotify.com/album/3938pXJM3DhXENSWet0Oie) | 2:34 | 2022-07-25 | 2022-11-25 |

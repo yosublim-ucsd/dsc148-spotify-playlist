@@ -4,12 +4,12 @@
 
 > Soulful takes on all your Holiday favorites\. Cover: James Brown
 
-62 songs - 3 hr 25 min
+63 songs - 3 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [Ain't No Chimneys in the Projects](https://open.spotify.com/track/4RZZkgTr9PtlcmSGVBezxu) | [Sharon Jones & The Dap\-Kings](https://open.spotify.com/artist/6LufpoVlIYKQCu9Gjpk8B7) | [It's a Holiday Soul Party](https://open.spotify.com/album/206CtiH7Yc0YfOtW2UtP7T) | 2:22 | 2021-11-12 |  |
-| [All I Want For Christmas Is You](https://open.spotify.com/track/63lR9Mt4cwmfszoyvzOtJl) | [Carla Thomas](https://open.spotify.com/artist/1QAGLCom3FHTTiuRFsjzOj) | [Christmas Songs](https://open.spotify.com/album/5eIJz39Pokn99EILRqveXO) | 1:41 | 2022-12-06 |  |
+| [All I Want For Christmas Is You](https://open.spotify.com/track/63lR9Mt4cwmfszoyvzOtJl) | [Carla Thomas](https://open.spotify.com/artist/1QAGLCom3FHTTiuRFsjzOj) | [Christmas Songs](https://open.spotify.com/album/5eIJz39Pokn99EILRqveXO) | 1:41 | 2022-12-06 | 2023-10-21 |
 | [Angels We Have Heard On High](https://open.spotify.com/track/5TICk0rfgLn67MEIHWjur2) | [Aretha Franklin](https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok) | [This Christmas](https://open.spotify.com/album/3r8Q53TiFAKYR19SBLYL75) | 5:25 | 2021-11-12 |  |
 | [Back Door Santa](https://open.spotify.com/track/3pPtkupun3NGY1qm8D6UIZ) | [Clarence Carter](https://open.spotify.com/artist/7lffJlv0nRl0sIsHDmo0SB) | [Testifyin'](https://open.spotify.com/album/7r20K314cjpVSBSWpAhM4N) | 2:16 | 2021-11-12 |  |
 | [Christmas Every Day](https://open.spotify.com/track/4kMoIhNVzcLnstzwpeN8BB) | [The Miracles](https://open.spotify.com/artist/6TqQLejnHXMGr7KcegxUND) | [Christmas With The Miracles](https://open.spotify.com/album/4qcVByf8Hb7gSwypa4eXmI) | 2:27 | 2021-11-12 |  |
@@ -36,6 +36,7 @@
 | [Jingle Bell Rock](https://open.spotify.com/track/5YHiQdrWm4PmBSMah8tgvQ) | [Con Funk Shun](https://open.spotify.com/artist/2hUkfSXyuDfQbUeNOShRiz) | [Home For Christmas](https://open.spotify.com/album/22iQ0h9GXq3J1HpPLq6ns1) | 3:23 | 2022-11-18 |  |
 | [Jingle Bell Rock](https://open.spotify.com/track/1tJ2IxYebzo8BH1DfugyL3) | [The Platters](https://open.spotify.com/artist/6KWcxMWVNVIYbdOQyJtsSy) | [Christmas With The Platters](https://open.spotify.com/album/3WdCWL7bYtiSLRAlxxq1Q2) | 1:51 | 2021-11-12 |  |
 | [Joy To The World](https://open.spotify.com/track/5xuwoFhGhv1u8FnfmXjYi9) | [James Casey](https://open.spotify.com/artist/6pWMQpuRTqhLCEZA0h2AuC) | [A Little Something For Everyone](https://open.spotify.com/album/6tKPpbcaVKvnGYyX6oG6yz) | 3:40 | 2022-12-06 |  |
+| [Joy To The World](https://open.spotify.com/track/1G0oNJo3OpBbY6Y6infgnf) | [Teddy Pendergrass](https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ) | [Joy To The World](https://open.spotify.com/album/2JT7bugcBLWQ4wOIjVoKdy) | 5:01 | 2023-10-20 |  |
 | [Just Another Christmas Song \(This Time I'll Sing Along\)](https://open.spotify.com/track/0PWxoYDj5ngr9QCUQ25lnw) | [Sharon Jones & The Dap\-Kings](https://open.spotify.com/artist/6LufpoVlIYKQCu9Gjpk8B7) | [It's a Holiday Soul Party](https://open.spotify.com/album/206CtiH7Yc0YfOtW2UtP7T) | 3:08 | 2021-11-12 |  |
 | [May Christmas Bring You Happiness](https://open.spotify.com/track/3wpn5NCocub0rM2Qj8ujFI) | [Luther Vandross](https://open.spotify.com/artist/19y5MFBH7gohEdGwKM7QsP) | [Christmas Music: 111 Christmas Songs](https://open.spotify.com/album/622lCf9Fo0DgSPsWTvGCho) | 4:29 | 2022-12-06 |  |
 | [Merry Christmas Baby](https://open.spotify.com/track/00Rlpe9Mh9jxaKf8wIBeHX) | [Jordan Mailata](https://open.spotify.com/artist/5HuUp43KWjjxtmQXB0OlUf), [Lady Alma](https://open.spotify.com/artist/61DvlgEM6AtszTLLPP4diu) | [Merry Christmas Baby](https://open.spotify.com/album/1QrvcSGTYq213gxbABZRPA) | 4:18 | 2022-12-09 |  |

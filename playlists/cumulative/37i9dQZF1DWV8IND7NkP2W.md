@@ -4,7 +4,7 @@
 
 > The ultimate Lo\-Fi soundtrack for a long haul journey, to the bustling metropolis in Japan that never sleeps\. 日本のプロデューサーによるインスト楽曲を特集。
 
-672 songs - 1 day 6 hr 5 min
+674 songs - 1 day 6 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -50,7 +50,8 @@
 | [August](https://open.spotify.com/track/70k46TfLjn6qblZCUCf9bH) | [MIZUKAMI](https://open.spotify.com/artist/3coUJaSHEnYwQT6NAM9BN4), [Chillin' Spot](https://open.spotify.com/artist/2m2qscBJxMvD2sWSijVHwd) | [August](https://open.spotify.com/album/5wzbMXEUG0Nk5tPmzWceiS) | 3:49 | 2023-08-29 |  |
 | [August](https://open.spotify.com/track/0My6Dyc0r3CmybSjOS925M) | [Qindnesic](https://open.spotify.com/artist/2Nt6Q3Rj1de4HX7jn1NOba) | [August](https://open.spotify.com/album/2cibXowpQl5M6R4AC1x9MY) | 2:14 | 2022-01-06 | 2022-07-25 |
 | [Awash](https://open.spotify.com/track/52yJEEIQMe7WbhGGqR8myV) | [Eccy](https://open.spotify.com/artist/7uld07kmI7qKWujYC7dnbO) | [Nutrients](https://open.spotify.com/album/7ApnDVqkJTEWUB7ye95jVd) | 1:54 | 2022-01-13 | 2022-07-08 |
-| [Awesome City](https://open.spotify.com/track/2RZbhMjj6piJ6W4M7Nsl7o) | [DJ FRIP a.k.a\. BeatLab](https://open.spotify.com/artist/5nkZFBzkGZpfRxnWFZGtk7) | [Awesome City](https://open.spotify.com/album/05PDJXae0t0adaepucRPVP) | 2:40 | 2023-10-19 |  |
+| [Awesome City](https://open.spotify.com/track/2RZbhMjj6piJ6W4M7Nsl7o) | [DJ FRIP a.k.a\. BeatLab](https://open.spotify.com/artist/5nkZFBzkGZpfRxnWFZGtk7) | [Awesome City](https://open.spotify.com/album/05PDJXae0t0adaepucRPVP) | 2:40 | 2023-10-19 | 2023-10-21 |
+| [Awesome City](https://open.spotify.com/track/5tmItGDYOoSnA44DZKLFU1) | [DJ FRIP a.k.a\. BeatLab](https://open.spotify.com/artist/5nkZFBzkGZpfRxnWFZGtk7) | [Awesome City](https://open.spotify.com/album/5zXZG6idXS00IwMztd621i) | 2:40 | 2023-10-19 |  |
 | [B\-Boy Meets B\-Girl](https://open.spotify.com/track/5n0NIb4O98klpL6E0vSs0F) | [KO\-ney](https://open.spotify.com/artist/19MYvIFOGSUHW7nvZtrsc0) | [B\-Boy Meets B\-Girl](https://open.spotify.com/album/5ORiWIvK84Z1wE5V5o2jEe) | 4:24 | 2022-07-21 | 2022-07-29 |
 | [Baby Since I Got You](https://open.spotify.com/track/7hAdCAQps5pBHyGE6RIWhW) | [Yaboy](https://open.spotify.com/artist/261tfDi8O7e45yOgAiukDl) | [Having A Ball](https://open.spotify.com/album/3Umnf8FuQpVwrEwK0r2RCK) | 2:18 | 2021-12-23 | 2022-04-16 |
 | [Back in a day](https://open.spotify.com/track/1IBRiarB9kjiU0TtUhZbBP) | [Shin\-Ski](https://open.spotify.com/artist/6Ei1ABb1YNXZviQKBE7RI7) | [Back in a day](https://open.spotify.com/album/4atci2khIlJisfCFMmjcUf) | 1:54 | 2023-01-12 | 2023-01-14 |
@@ -637,7 +638,8 @@
 | [utatane](https://open.spotify.com/track/0tqoNuBVHZ0IG5B9rxeFi8) | [hario island](https://open.spotify.com/artist/4SSYmqlXA8awmX7PHheCJN) | [utatane](https://open.spotify.com/album/2OQ9WXPNJkksdtFqQhgqdl) | 3:12 | 2023-05-25 |  |
 | [utsuroi](https://open.spotify.com/track/3AgJ12XgvmFmyFZEBx3auH) | [Shimon Hoshino](https://open.spotify.com/artist/0glynIW7kVokBq524NHRQH) | [utsuroi](https://open.spotify.com/album/71CddnY001Q5e6BebJrfIs) | 2:29 | 2023-04-13 | 2023-04-28 |
 | [Views \- Instrumental](https://open.spotify.com/track/2T2V3tQ742UrCPMfYrMxz5) | [Nathan Kawanishi](https://open.spotify.com/artist/2Jo4Zz3YTkRH5hq65BFMqe) | [Views \(Instrumental\)](https://open.spotify.com/album/56WEsAYBimDZwH5cfMkkkh) | 1:51 | 2021-12-23 | 2022-07-23 |
-| [VIVID](https://open.spotify.com/track/5dWDYXom1nEpDmi77lD9sy) | [ninomiya tatsuki](https://open.spotify.com/artist/68WyxSkXEJNwJUwlIIaIep), [Tyga Ichinose](https://open.spotify.com/artist/0q3ojxiFcPDSS5p9GQaePK) | [VIVID](https://open.spotify.com/album/1s96h3ZTUVClEPuL6vB2f8) | 2:15 | 2023-10-19 |  |
+| [VIVID](https://open.spotify.com/track/4Uu7OhRshxKLyOuIN2ukzv) | [ninomiya tatsuki](https://open.spotify.com/artist/68WyxSkXEJNwJUwlIIaIep), [Tyga Ichinose](https://open.spotify.com/artist/0q3ojxiFcPDSS5p9GQaePK) | [VIVID](https://open.spotify.com/album/682KBDNKNKJdlo8KrDCeEQ) | 2:15 | 2023-10-19 |  |
+| [VIVID](https://open.spotify.com/track/5dWDYXom1nEpDmi77lD9sy) | [ninomiya tatsuki](https://open.spotify.com/artist/68WyxSkXEJNwJUwlIIaIep), [Tyga Ichinose](https://open.spotify.com/artist/0q3ojxiFcPDSS5p9GQaePK) | [VIVID](https://open.spotify.com/album/1s96h3ZTUVClEPuL6vB2f8) | 2:15 | 2023-10-19 | 2023-10-21 |
 | [Void](https://open.spotify.com/track/1tBS3K8IdJSF556lcdnMHj) | [KO\-ney](https://open.spotify.com/artist/19MYvIFOGSUHW7nvZtrsc0), [Shiloh Dynasty](https://open.spotify.com/artist/1wxPItEzr7U7rGSMPqZ25r) | [Void](https://open.spotify.com/album/5tWnUMtomZthQIgvjDLypc) | 1:25 | 2022-01-27 | 2022-07-06 |
 | [Void](https://open.spotify.com/track/5d3vsDFDDEBdZSpmKcaO7f) | [KO\-ney](https://open.spotify.com/artist/19MYvIFOGSUHW7nvZtrsc0), [Shiloh Dynasty](https://open.spotify.com/artist/1wxPItEzr7U7rGSMPqZ25r) | [Void](https://open.spotify.com/album/4II68c2qHou7hW8jltuggK) | 1:25 | 2022-07-28 | 2022-12-24 |
 | [WADOU \- DJ Mitsu the Beats Remix \- Instrumental](https://open.spotify.com/track/4dRKbDciUYkFPrtbdcFuYh) | [HUNGER](https://open.spotify.com/artist/1q0gLEvNcnAfPzBgCHG4NG) | [SHITRATSUZUMIX Instrumental](https://open.spotify.com/album/0OPYh4NzIkPDlTONjmXMpO) | 2:37 | 2022-01-27 | 2022-04-19 |

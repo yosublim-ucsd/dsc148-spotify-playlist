@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-24",
-  "description": "Lan\u00e7amentos e novos nomes do trap nacional. Foto: Mc Igu",
+  "description": "Lan\u00e7amentos e novos nomes do trap nacional. Foto: Ebony",
   "name": "Dose Trap",
   "tracks": [
     {
@@ -5568,7 +5568,7 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-21",
       "duration_ms": 138387,
       "name": "Desculpa B\u00ea",
       "url": "https://open.spotify.com/track/0bhfKU4pKo8tTYgU0pDIvp"
@@ -6097,6 +6097,32 @@
     },
     {
       "album": {
+        "name": "Digital no Dedo",
+        "url": "https://open.spotify.com/album/5EAYnT8rIkwBhB5WSjjgd6"
+      },
+      "artists": [
+        {
+          "name": "Apollo",
+          "url": "https://open.spotify.com/artist/0C2PcyYwXHcPgQpqMdx3O6"
+        },
+        {
+          "name": "Trevor Whippa",
+          "url": "https://open.spotify.com/artist/60hytLnjov7Xhc21EQYHOO"
+        },
+        {
+          "name": "6ee",
+          "url": "https://open.spotify.com/artist/44sYX4gwGmUZBnNT2AZTPW"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147692,
+      "name": "Digital no Dedo",
+      "url": "https://open.spotify.com/track/3THlqb3N3VEakS86ZYWElA"
+    },
+    {
+      "album": {
         "name": "Dilema",
         "url": "https://open.spotify.com/album/6KTNTXSNPs6BtsxE6CwjIy"
       },
@@ -6370,6 +6396,32 @@
       "duration_ms": 159307,
       "name": "Domin\u00f3",
       "url": "https://open.spotify.com/track/7cYAE74uGy0ggBLilqvjxn"
+    },
+    {
+      "album": {
+        "name": "Dono do Jogo",
+        "url": "https://open.spotify.com/album/029FwfYQhK9X2jA1SEI3Ou"
+      },
+      "artists": [
+        {
+          "name": "Klauss",
+          "url": "https://open.spotify.com/artist/0bZivyTNoMgVXGCFgiWCUY"
+        },
+        {
+          "name": "Baratapai",
+          "url": "https://open.spotify.com/artist/7nahK9VX0AFY1KZmT04lGY"
+        },
+        {
+          "name": "Original Quality",
+          "url": "https://open.spotify.com/artist/5ZTnWo7IY6rdIxm6aTSR84"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143111,
+      "name": "Dono do Jogo",
+      "url": "https://open.spotify.com/track/7HPNcm9QLTmtVShavw2A7i"
     },
     {
       "album": {
@@ -7408,6 +7460,24 @@
       "duration_ms": 146068,
       "name": "Eu Falo N\u00e3o",
       "url": "https://open.spotify.com/track/3z19LCfZ3LlasNpqjDWx3P"
+    },
+    {
+      "album": {
+        "name": "Eu Nunca Disse Que Era Santo",
+        "url": "https://open.spotify.com/album/41UNNtwwiBMkG1E8gyXbgH"
+      },
+      "artists": [
+        {
+          "name": "Denov",
+          "url": "https://open.spotify.com/artist/2SlZVZE3TXpp604Gh8t0ZW"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180064,
+      "name": "Eu Nunca Disse Que Era Santo",
+      "url": "https://open.spotify.com/track/6bs24nkxIzb4SrsriiwD0O"
     },
     {
       "album": {
@@ -9438,7 +9508,7 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-21",
       "duration_ms": 147777,
       "name": "Indom\u00e1vel",
       "url": "https://open.spotify.com/track/0lZp0muwBhwatS2psDYezn"
@@ -9582,7 +9652,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-21",
       "duration_ms": 203294,
       "name": "Jardim das Flores",
       "url": "https://open.spotify.com/track/2guOhSMSG1p8WePFWhkhlj"
@@ -11146,7 +11216,7 @@
       ],
       "date_added": "2023-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-21",
       "duration_ms": 138715,
       "name": "Manda \u00c1udio",
       "url": "https://open.spotify.com/track/106v1J8uUOsa6Q0pAcxsKr"
@@ -12043,6 +12113,24 @@
     },
     {
       "album": {
+        "name": "Brutas Amam, Choram e Sentem Raiva",
+        "url": "https://open.spotify.com/album/0LVN0GsRFWkrhfhMVbJuBj"
+      },
+      "artists": [
+        {
+          "name": "Ajuliacosta",
+          "url": "https://open.spotify.com/artist/0eHkGhhUyp3LZdtZjaA8gd"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118545,
+      "name": "Mil e uma Treta",
+      "url": "https://open.spotify.com/track/41i1EFJa4guXadDAIHbXad"
+    },
+    {
+      "album": {
         "name": "MILH\u00c3O",
         "url": "https://open.spotify.com/album/1Spq0JuJCNe4LhsCuslywf"
       },
@@ -12066,6 +12154,28 @@
       "duration_ms": 222525,
       "name": "MILH\u00c3O",
       "url": "https://open.spotify.com/track/2VHnX3S0s5SQMSxZ9XI3Ho"
+    },
+    {
+      "album": {
+        "name": "Mimada",
+        "url": "https://open.spotify.com/album/6TVYMqgLPijxGPq1Cf9pM1"
+      },
+      "artists": [
+        {
+          "name": "Leal",
+          "url": "https://open.spotify.com/artist/1BnymgkHol5jSOx3KBkBjs"
+        },
+        {
+          "name": "Vidal",
+          "url": "https://open.spotify.com/artist/10duOEQIy2Bhu9Dm1SIMtI"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166875,
+      "name": "Mimada",
+      "url": "https://open.spotify.com/track/4JJTsvPWjxPaL1Bfa2WpCj"
     },
     {
       "album": {
@@ -12763,6 +12873,40 @@
     },
     {
       "album": {
+        "name": "Noite De Crime",
+        "url": "https://open.spotify.com/album/2mAWHAHzgPmfMPtDCexGGB"
+      },
+      "artists": [
+        {
+          "name": "Lil Kid 777",
+          "url": "https://open.spotify.com/artist/6BMdcFB9reoqzrsCgvkUGq"
+        },
+        {
+          "name": "TrapLaudo",
+          "url": "https://open.spotify.com/artist/39QiJaZ1HzRcpY9xlMKCsF"
+        },
+        {
+          "name": "Dj Murillo e LT no Beat",
+          "url": "https://open.spotify.com/artist/1Zl5Ac1YyOHBkJKInGxbaS"
+        },
+        {
+          "name": "Mc IG",
+          "url": "https://open.spotify.com/artist/2q9wk5fkeU2C9CgCKdh4AN"
+        },
+        {
+          "name": "Mahogany",
+          "url": "https://open.spotify.com/artist/1Xen5gCoZ4JGIeRg8rbdub"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217777,
+      "name": "Noite De Crime",
+      "url": "https://open.spotify.com/track/54Z5EnzeXMk8WHAhghm2p7"
+    },
+    {
+      "album": {
         "name": "Noite do Vetin",
         "url": "https://open.spotify.com/album/6n39cL5rwG5fqp8YNOFwnd"
       },
@@ -13222,7 +13366,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-21",
       "duration_ms": 236070,
       "name": "O Pre\u00e7o",
       "url": "https://open.spotify.com/track/4UGZKUL3ltVNIgDveQD26H"
@@ -14391,6 +14535,28 @@
     },
     {
       "album": {
+        "name": "Terapia",
+        "url": "https://open.spotify.com/album/17X8o2Rs7cH5hBCKp92lKW"
+      },
+      "artists": [
+        {
+          "name": "Ebony",
+          "url": "https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb"
+        },
+        {
+          "name": "AG Beatz",
+          "url": "https://open.spotify.com/artist/3vy0Vu1deAyyjs5WgeEcFJ"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133517,
+      "name": "Pensamentos Intrusivos",
+      "url": "https://open.spotify.com/track/3owZapu16Fb3v2xb8K6CO9"
+    },
+    {
+      "album": {
         "name": "Pensamentos Negativos",
         "url": "https://open.spotify.com/album/1d1n79fvIMJnUclallzcSj"
       },
@@ -14450,6 +14616,36 @@
       "duration_ms": 155558,
       "name": "Perdido no Tempo",
       "url": "https://open.spotify.com/track/7FHXiJIbam1nfZhhg3rcgk"
+    },
+    {
+      "album": {
+        "name": "Perfume",
+        "url": "https://open.spotify.com/album/3YIVhG7GqCTMp6tb0PHcKc"
+      },
+      "artists": [
+        {
+          "name": "PK Delas",
+          "url": "https://open.spotify.com/artist/6gqBZ0kAjgVLsZQKkHcaB3"
+        },
+        {
+          "name": "MC Teteu",
+          "url": "https://open.spotify.com/artist/6ulkDr2Bnu7Qlbrs5iDOF1"
+        },
+        {
+          "name": "Glaxdow",
+          "url": "https://open.spotify.com/artist/3B9B025GMpqnlHUzkH06Z2"
+        },
+        {
+          "name": "Yndj\u00e3o",
+          "url": "https://open.spotify.com/artist/17MauDKLFFguNNCvF2d7FV"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226909,
+      "name": "Perfume",
+      "url": "https://open.spotify.com/track/2OdqSovUFu6rsNTQU5ObRL"
     },
     {
       "album": {
@@ -17494,7 +17690,7 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-21",
       "duration_ms": 217043,
       "name": "Sirenes",
       "url": "https://open.spotify.com/track/1wiMMoJ80HHpnDkZtNrzFF"
@@ -17564,7 +17760,7 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-21",
       "duration_ms": 109331,
       "name": "SNOOP DOGG",
       "url": "https://open.spotify.com/track/1jDK0EnZAsDCODereBhqza"
@@ -17626,7 +17822,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-21",
       "duration_ms": 167051,
       "name": "Solteira Desapegada",
       "url": "https://open.spotify.com/track/2VA2YomrRj8hHJ7wmpoDeZ"
@@ -19134,7 +19330,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-21",
       "duration_ms": 206106,
       "name": "TUDO \u00c9 SOBRE M\u00daSICA",
       "url": "https://open.spotify.com/track/15APNO11OHG2LfvFzgvvE3"
@@ -19280,7 +19476,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-21",
       "duration_ms": 125156,
       "name": "Unha de Fibra",
       "url": "https://open.spotify.com/track/0c1xXhNTF6Hhg5JHIcyMxO"
@@ -19635,6 +19831,32 @@
     },
     {
       "album": {
+        "name": "Veneno de Cobra",
+        "url": "https://open.spotify.com/album/2f1q4JyKZaeIj4hasNjEwR"
+      },
+      "artists": [
+        {
+          "name": "DRIFTBOYS",
+          "url": "https://open.spotify.com/artist/4lRyeGs0RSaR04GzElXSch"
+        },
+        {
+          "name": "Massaru",
+          "url": "https://open.spotify.com/artist/6NPvzQnxY7WwRMoN2qVBHU"
+        },
+        {
+          "name": "Raiashi",
+          "url": "https://open.spotify.com/artist/3reOtkxaUD4rX043tu5ytw"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250520,
+      "name": "Veneno de Cobra",
+      "url": "https://open.spotify.com/track/18aHjKYoZmfSnjrNdHt6IY"
+    },
+    {
+      "album": {
         "name": "Vibe Giyu Tomioka",
         "url": "https://open.spotify.com/album/6lm0DAsLuZf0a9zM3UxZ1S"
       },
@@ -19732,6 +19954,36 @@
       "duration_ms": 137581,
       "name": "Vinculo",
       "url": "https://open.spotify.com/track/78U6oE0dUCMRRmXM1iFuFN"
+    },
+    {
+      "album": {
+        "name": "Vinho Na Ta\u00e7a",
+        "url": "https://open.spotify.com/album/0duS3cqiluQMHazOr1TkKb"
+      },
+      "artists": [
+        {
+          "name": "2050",
+          "url": "https://open.spotify.com/artist/5VwzkQP7ZcksbrUUzh3gji"
+        },
+        {
+          "name": "Mc Felixxx",
+          "url": "https://open.spotify.com/artist/1iOEXBqcRUWxN5tBxESHxZ"
+        },
+        {
+          "name": "Coelho",
+          "url": "https://open.spotify.com/artist/5IQ5ayF3TFHtgMqENq0xPa"
+        },
+        {
+          "name": "FePache",
+          "url": "https://open.spotify.com/artist/2yWRKlF2dCTeQ3Qt0Le4KL"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154838,
+      "name": "Vinho Na Ta\u00e7a",
+      "url": "https://open.spotify.com/track/7xpwb4dLyLbaurxaznR295"
     },
     {
       "album": {

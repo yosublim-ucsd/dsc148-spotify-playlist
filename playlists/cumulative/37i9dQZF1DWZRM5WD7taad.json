@@ -1352,7 +1352,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-21",
       "duration_ms": 207000,
       "name": "El Card\u00f3n",
       "url": "https://open.spotify.com/track/2L5z9XcA1PCxUOJ3W24tnX"
@@ -3105,6 +3105,24 @@
     },
     {
       "album": {
+        "name": "NO+SAD",
+        "url": "https://open.spotify.com/album/5PayAvswrSHHs3J0nrnIam"
+      },
+      "artists": [
+        {
+          "name": "Mon Laferte",
+          "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174053,
+      "name": "NO+SAD",
+      "url": "https://open.spotify.com/track/1hdpMoNDNKvsgosL6c7ywF"
+    },
+    {
+      "album": {
         "name": "Nota De Voz",
         "url": "https://open.spotify.com/album/51R0wIm1SJy3Oo1AdBpjKj"
       },
@@ -3628,7 +3646,7 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-21",
       "duration_ms": 152666,
       "name": "Resurgir",
       "url": "https://open.spotify.com/track/7EiggHJ0lC1qUj6qNeM2hN"
@@ -4406,6 +4424,24 @@
       "duration_ms": 160167,
       "name": "Tu F**Kin' Canci\u00f3n",
       "url": "https://open.spotify.com/track/5N7WeB2rZ6DdI30K2iaKcR"
+    },
+    {
+      "album": {
+        "name": "Tumbao",
+        "url": "https://open.spotify.com/album/5ZhMd0ABNjxYOFZtLeVoE2"
+      },
+      "artists": [
+        {
+          "name": "Goyo",
+          "url": "https://open.spotify.com/artist/2ECiXSK7umi1luAaQyrCUX"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159590,
+      "name": "Tumbao",
+      "url": "https://open.spotify.com/track/6FxReyACmhEHzJOszbh7xu"
     },
     {
       "album": {

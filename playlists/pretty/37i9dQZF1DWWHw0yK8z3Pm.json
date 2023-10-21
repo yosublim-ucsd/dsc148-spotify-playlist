@@ -1,12 +1,12 @@
 {
   "description": "Fearless sounds at the crossroads of Country and Folk. Cover: Tyler Childers",
-  "num_followers": 53387,
+  "num_followers": 53504,
   "original_name": "Renegades",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiODEzYmUyNjFiNmZiMTQ3MzkyYTE1NWEyMmRiMmNlNzI0MmM2MWEw",
+  "snapshot_id": "MCxjZTU4ODU4N2JkOTNiMzk4M2IwNzNlZDI4MjRiNDQzZDZlZDY1ZTMw",
   "tracks": [
     {
       "added_at": "2023-10-13 04:00:00",
@@ -759,6 +759,22 @@
     {
       "added_at": "2023-10-13 04:00:00",
       "album": {
+        "name": "Million Eyes",
+        "url": "https://open.spotify.com/album/5jrPhnzA00KBWc3bJJUqTY"
+      },
+      "artists": [
+        {
+          "name": "Sam Barber",
+          "url": "https://open.spotify.com/artist/08GfvCW09pv2QP4y9sle2a"
+        }
+      ],
+      "duration_ms": 186635,
+      "name": "Dancing in the Sky",
+      "url": "https://open.spotify.com/track/7siXHCf5qUbyJrhNYQXKFr"
+    },
+    {
+      "added_at": "2023-10-13 04:00:00",
+      "album": {
         "name": "American Love Song",
         "url": "https://open.spotify.com/album/6MiafQveSkts5v397zarWq"
       },
@@ -871,22 +887,6 @@
     {
       "added_at": "2023-10-13 04:00:00",
       "album": {
-        "name": "Million Eyes",
-        "url": "https://open.spotify.com/album/5jrPhnzA00KBWc3bJJUqTY"
-      },
-      "artists": [
-        {
-          "name": "Sam Barber",
-          "url": "https://open.spotify.com/artist/08GfvCW09pv2QP4y9sle2a"
-        }
-      ],
-      "duration_ms": 186635,
-      "name": "Dancing in the Sky",
-      "url": "https://open.spotify.com/track/7siXHCf5qUbyJrhNYQXKFr"
-    },
-    {
-      "added_at": "2023-10-13 04:00:00",
-      "album": {
         "name": "68",
         "url": "https://open.spotify.com/album/51JORfnib4vdjiXHAouErb"
       },
@@ -903,18 +903,18 @@
     {
       "added_at": "2023-10-13 04:00:00",
       "album": {
-        "name": "Where My Wild Things Are",
-        "url": "https://open.spotify.com/album/6oWKCBaxJvccxzbe6shr9N"
+        "name": "Lonely Like Me",
+        "url": "https://open.spotify.com/album/2apvtGe2jSNLqT0vOJvwmf"
       },
       "artists": [
         {
-          "name": "Ryan Bingham",
-          "url": "https://open.spotify.com/artist/31z9f9AyPawiq0qlBO1M3i"
+          "name": "Nick Shoulders",
+          "url": "https://open.spotify.com/artist/4Vydw38lzh6aKIGqzZdwRS"
         }
       ],
-      "duration_ms": 237781,
-      "name": "Where My Wild Things Are",
-      "url": "https://open.spotify.com/track/208hyGbFtTa7I7zYzOm13P"
+      "duration_ms": 242254,
+      "name": "Snakes and Waterfalls",
+      "url": "https://open.spotify.com/track/6f3lNzsCCWKFWfAG4uuqpC"
     },
     {
       "added_at": "2023-10-13 04:00:00",
@@ -935,18 +935,18 @@
     {
       "added_at": "2023-10-13 04:00:00",
       "album": {
-        "name": "Lonely Like Me",
-        "url": "https://open.spotify.com/album/2apvtGe2jSNLqT0vOJvwmf"
+        "name": "Where My Wild Things Are",
+        "url": "https://open.spotify.com/album/6oWKCBaxJvccxzbe6shr9N"
       },
       "artists": [
         {
-          "name": "Nick Shoulders",
-          "url": "https://open.spotify.com/artist/4Vydw38lzh6aKIGqzZdwRS"
+          "name": "Ryan Bingham",
+          "url": "https://open.spotify.com/artist/31z9f9AyPawiq0qlBO1M3i"
         }
       ],
-      "duration_ms": 242254,
-      "name": "Snakes and Waterfalls",
-      "url": "https://open.spotify.com/track/6f3lNzsCCWKFWfAG4uuqpC"
+      "duration_ms": 237781,
+      "name": "Where My Wild Things Are",
+      "url": "https://open.spotify.com/track/208hyGbFtTa7I7zYzOm13P"
     },
     {
       "added_at": "2023-10-13 04:00:00",
@@ -1243,22 +1243,6 @@
     {
       "added_at": "2023-10-13 04:00:00",
       "album": {
-        "name": "Reasons Why",
-        "url": "https://open.spotify.com/album/3RfPLlT6L2KXC1meUTVeoh"
-      },
-      "artists": [
-        {
-          "name": "Ariel Posen",
-          "url": "https://open.spotify.com/artist/2eiy8nxhJQnnBYMMXR6u5y"
-        }
-      ],
-      "duration_ms": 213248,
-      "name": "So Easy",
-      "url": "https://open.spotify.com/track/1yVG9iuNxfOe30LRKy1dJf"
-    },
-    {
-      "added_at": "2023-10-13 04:00:00",
-      "album": {
         "name": "Encinal Canyon",
         "url": "https://open.spotify.com/album/0KPk5jj3IJzBo01Klqrrzn"
       },
@@ -1271,6 +1255,22 @@
       "duration_ms": 206168,
       "name": "Encinal Canyon",
       "url": "https://open.spotify.com/track/7l02bzJ5vV8wk67iEpeotE"
+    },
+    {
+      "added_at": "2023-10-13 04:00:00",
+      "album": {
+        "name": "Reasons Why",
+        "url": "https://open.spotify.com/album/3RfPLlT6L2KXC1meUTVeoh"
+      },
+      "artists": [
+        {
+          "name": "Ariel Posen",
+          "url": "https://open.spotify.com/artist/2eiy8nxhJQnnBYMMXR6u5y"
+        }
+      ],
+      "duration_ms": 213248,
+      "name": "So Easy",
+      "url": "https://open.spotify.com/track/1yVG9iuNxfOe30LRKy1dJf"
     },
     {
       "added_at": "2023-10-13 04:00:00",
@@ -1439,22 +1439,6 @@
     {
       "added_at": "2023-10-13 04:00:00",
       "album": {
-        "name": "Peacemaker",
-        "url": "https://open.spotify.com/album/4BAve16knUSPUFxMOb3vXJ"
-      },
-      "artists": [
-        {
-          "name": "Great Lake Swimmers",
-          "url": "https://open.spotify.com/artist/2HcZuUtnktqMHm4H1R9gAR"
-        }
-      ],
-      "duration_ms": 233626,
-      "name": "Peacemaker",
-      "url": "https://open.spotify.com/track/5YmT2lYxtHHgSlMowSlvUe"
-    },
-    {
-      "added_at": "2023-10-13 04:00:00",
-      "album": {
         "name": "Traveller",
         "url": "https://open.spotify.com/album/2wIEh2fmEXXcpHoW0MeOpn"
       },
@@ -1471,18 +1455,18 @@
     {
       "added_at": "2023-10-13 04:00:00",
       "album": {
-        "name": "Nightroamer",
-        "url": "https://open.spotify.com/album/0znJUYNB3QOMzDeVxsDeoc"
+        "name": "Peacemaker",
+        "url": "https://open.spotify.com/album/4BAve16knUSPUFxMOb3vXJ"
       },
       "artists": [
         {
-          "name": "Sarah Shook & the Disarmers",
-          "url": "https://open.spotify.com/artist/6ahZTaoJs2D0gcscsEx64r"
+          "name": "Great Lake Swimmers",
+          "url": "https://open.spotify.com/artist/2HcZuUtnktqMHm4H1R9gAR"
         }
       ],
-      "duration_ms": 166248,
-      "name": "Talkin' to Myself",
-      "url": "https://open.spotify.com/track/6HkEvfSpXWeiNV9Z7bpmwP"
+      "duration_ms": 233626,
+      "name": "Peacemaker",
+      "url": "https://open.spotify.com/track/5YmT2lYxtHHgSlMowSlvUe"
     },
     {
       "added_at": "2023-10-13 04:00:00",
@@ -1503,18 +1487,18 @@
     {
       "added_at": "2023-10-13 04:00:00",
       "album": {
-        "name": "Strays",
-        "url": "https://open.spotify.com/album/5ahtNEdaVlgHdt75PZwbtj"
+        "name": "Nightroamer",
+        "url": "https://open.spotify.com/album/0znJUYNB3QOMzDeVxsDeoc"
       },
       "artists": [
         {
-          "name": "Margo Price",
-          "url": "https://open.spotify.com/artist/09yvLritEUxHrzx5TlFvbl"
+          "name": "Sarah Shook & the Disarmers",
+          "url": "https://open.spotify.com/artist/6ahZTaoJs2D0gcscsEx64r"
         }
       ],
-      "duration_ms": 243586,
-      "name": "Change Of Heart",
-      "url": "https://open.spotify.com/track/7xagVKfjYQTAdzvtJHPdVc"
+      "duration_ms": 166248,
+      "name": "Talkin' to Myself",
+      "url": "https://open.spotify.com/track/6HkEvfSpXWeiNV9Z7bpmwP"
     },
     {
       "added_at": "2023-10-13 04:00:00",
@@ -1535,6 +1519,22 @@
     {
       "added_at": "2023-10-13 04:00:00",
       "album": {
+        "name": "Strays",
+        "url": "https://open.spotify.com/album/5ahtNEdaVlgHdt75PZwbtj"
+      },
+      "artists": [
+        {
+          "name": "Margo Price",
+          "url": "https://open.spotify.com/artist/09yvLritEUxHrzx5TlFvbl"
+        }
+      ],
+      "duration_ms": 243586,
+      "name": "Change Of Heart",
+      "url": "https://open.spotify.com/track/7xagVKfjYQTAdzvtJHPdVc"
+    },
+    {
+      "added_at": "2023-10-13 04:00:00",
+      "album": {
         "name": "Glory",
         "url": "https://open.spotify.com/album/0flu8soCpwi7nj3U21kizB"
       },
@@ -1551,22 +1551,6 @@
     {
       "added_at": "2023-10-13 04:00:00",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/48eE2fd87vxdyIgTQU4sw7"
-      },
-      "artists": [
-        {
-          "name": "The War and Treaty",
-          "url": "https://open.spotify.com/artist/6HhV0jtMMK5HYnYgG0xgtz"
-        }
-      ],
-      "duration_ms": 234799,
-      "name": "Whiskey River (Recorded At Luck Reunion) - Spotify Singles",
-      "url": "https://open.spotify.com/track/6zQW6QKb3b3X1OoFpBM7gU"
-    },
-    {
-      "added_at": "2023-10-13 04:00:00",
-      "album": {
         "name": "Dom Louis",
         "url": "https://open.spotify.com/album/0gxSPjAI7bRL1qhMzQyQT6"
       },
@@ -1579,6 +1563,22 @@
       "duration_ms": 175423,
       "name": "First Light",
       "url": "https://open.spotify.com/track/7MwtFy3hEW9ru5lF2vNHOL"
+    },
+    {
+      "added_at": "2023-10-13 04:00:00",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/48eE2fd87vxdyIgTQU4sw7"
+      },
+      "artists": [
+        {
+          "name": "The War and Treaty",
+          "url": "https://open.spotify.com/artist/6HhV0jtMMK5HYnYgG0xgtz"
+        }
+      ],
+      "duration_ms": 234799,
+      "name": "Whiskey River (Recorded At Luck Reunion) - Spotify Singles",
+      "url": "https://open.spotify.com/track/6zQW6QKb3b3X1OoFpBM7gU"
     },
     {
       "added_at": "2023-10-13 04:00:00",

@@ -2453,6 +2453,24 @@
     },
     {
       "album": {
+        "name": "out of place",
+        "url": "https://open.spotify.com/album/3v5oBoElWXugqDj7gCd1eO"
+      },
+      "artists": [
+        {
+          "name": "Kids With Buns",
+          "url": "https://open.spotify.com/artist/1HF3WeoXOBYHlVkLn20lXz"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180280,
+      "name": "stubborn mind",
+      "url": "https://open.spotify.com/track/7CCG7aIeTh3HRHfjz3SxQR"
+    },
+    {
+      "album": {
         "name": "Stuck in the Sky",
         "url": "https://open.spotify.com/album/6lRsrrPqbQaPMSR9KSzega"
       },

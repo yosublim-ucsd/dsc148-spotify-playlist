@@ -1,13 +1,29 @@
 {
   "description": "Ease into the day",
-  "num_followers": 642882,
+  "num_followers": 642865,
   "original_name": "Mellow Morning",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3YTZjYzI5MjRmMTAxZGVmNzQ0Y2U0MDU2NmYyYzk1YjE5OGJmMzRl",
+  "snapshot_id": "MCw2Y2I4OWQ4OWRkOTk0OWFjMTliN2E0ODE0MWUwNTQ0YzFlN2M0MDA5",
   "tracks": [
+    {
+      "added_at": "2023-10-20 04:00:00",
+      "album": {
+        "name": "Regardless",
+        "url": "https://open.spotify.com/album/3kf4QtJyUo1YGs9eNJLOD7"
+      },
+      "artists": [
+        {
+          "name": "Naomi Sharon",
+          "url": "https://open.spotify.com/artist/27WVFBOddxovimxMmBN4fb"
+        }
+      ],
+      "duration_ms": 189257,
+      "name": "Regardless",
+      "url": "https://open.spotify.com/track/1lkG393ntU03g6Y2pNKTj6"
+    },
     {
       "added_at": "2023-09-22 04:01:00",
       "album": {
@@ -1571,34 +1587,6 @@
       "duration_ms": 260660,
       "name": "Underneath",
       "url": "https://open.spotify.com/track/3n93ndjS1jPBLRByWlOSnq"
-    },
-    {
-      "added_at": "2023-09-01 04:00:00",
-      "album": {
-        "name": "Good In Me",
-        "url": "https://open.spotify.com/album/7kRF85QX88b5aPkxE2jbRX"
-      },
-      "artists": [
-        {
-          "name": "Bones & The Boy",
-          "url": "https://open.spotify.com/artist/0AF2gJIJJdCVC4nNRcYI9B"
-        },
-        {
-          "name": "Gentle Bones",
-          "url": "https://open.spotify.com/artist/4jGPdu95icCKVF31CcFKbS"
-        },
-        {
-          "name": "lullaboy",
-          "url": "https://open.spotify.com/artist/7zrkFhYAp6dBxsydmJkouN"
-        },
-        {
-          "name": "Yung Lee Records",
-          "url": "https://open.spotify.com/artist/4GozvPZO3g0cI5I2TEDovw"
-        }
-      ],
-      "duration_ms": 148027,
-      "name": "Good In Me",
-      "url": "https://open.spotify.com/track/1JuUVeHRjVl081qqccxySe"
     },
     {
       "added_at": "2023-09-01 04:00:00",

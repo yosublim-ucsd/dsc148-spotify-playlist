@@ -180,7 +180,7 @@
       ],
       "date_added": "2022-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-21",
       "duration_ms": 188976,
       "name": "Ball",
       "url": "https://open.spotify.com/track/2LowbYxM2uUKTkIplQdHaS"
@@ -522,6 +522,28 @@
       "duration_ms": 173583,
       "name": "Feelin",
       "url": "https://open.spotify.com/track/4jRzr8vtAycrPT1FKUR4bq"
+    },
+    {
+      "album": {
+        "name": "CHF on a Hollow Night",
+        "url": "https://open.spotify.com/album/1VuGBhknDEQZjtf3KRgvL9"
+      },
+      "artists": [
+        {
+          "name": "Ynnek",
+          "url": "https://open.spotify.com/artist/2wu6U4rf0z3MR6sIeWlghK"
+        },
+        {
+          "name": "EUGKEN",
+          "url": "https://open.spotify.com/artist/5c3Bdw6ZfisVBsFavzFPHV"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176923,
+      "name": "Find you a Place / Safehouse",
+      "url": "https://open.spotify.com/track/3ofbT62Ef6nMtPRRhbnHkZ"
     },
     {
       "album": {
@@ -1029,6 +1051,24 @@
     },
     {
       "album": {
+        "name": "Mdhambi",
+        "url": "https://open.spotify.com/album/5IsxHtDjpP0t6XEViVu2KE"
+      },
+      "artists": [
+        {
+          "name": "Dicazzi",
+          "url": "https://open.spotify.com/artist/4hWi07h5D1vykcvmWFUZCo"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165333,
+      "name": "Mdhambi",
+      "url": "https://open.spotify.com/track/2KAaty1XUWrsELJHLDZKOg"
+    },
+    {
+      "album": {
         "name": "Metaphysics",
         "url": "https://open.spotify.com/album/5X38tXa491DTPdAug4cC9S"
       },
@@ -1526,7 +1566,7 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-21",
       "duration_ms": 246000,
       "name": "RONALDO",
       "url": "https://open.spotify.com/track/5ToRj9d8fINrXGGKZOT42q"
@@ -1815,6 +1855,24 @@
     },
     {
       "album": {
+        "name": "Statement",
+        "url": "https://open.spotify.com/album/7g4SgzEN2mhydgogaj0pwy"
+      },
+      "artists": [
+        {
+          "name": "FreshBoys",
+          "url": "https://open.spotify.com/artist/4ksHkRc0gFw34fr9vAJEdU"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197802,
+      "name": "Statement",
+      "url": "https://open.spotify.com/track/1ofdmUVbuHEob1qsT7IX6p"
+    },
+    {
+      "album": {
         "name": "Step",
         "url": "https://open.spotify.com/album/6etPKI16rigpOtRpHLwZCC"
       },
@@ -1912,7 +1970,7 @@
       ],
       "date_added": "2022-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-21",
       "duration_ms": 147328,
       "name": "TAKE ONE. (EPISODE 1) - Radio Edit",
       "url": "https://open.spotify.com/track/164OfQPxYLyw6REpeCN8SF"

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-03-09",
-  "description": "Le rap francophone est en forme. Photo: Dave, Tiakola",
+  "description": "Le rap francophone est en forme. Photo: Ikaz Boi, Tiakola ",
   "name": "Connexion Rap",
   "tracks": [
     {
@@ -140,6 +140,28 @@
       "duration_ms": 160306,
       "name": "BALLE DANS LE COEUR",
       "url": "https://open.spotify.com/track/42koItqq5r5ZoXj8TTt36D"
+    },
+    {
+      "album": {
+        "name": "Bando",
+        "url": "https://open.spotify.com/album/12ETKZ6rG26pNR4J7m3nfv"
+      },
+      "artists": [
+        {
+          "name": "Cupidon",
+          "url": "https://open.spotify.com/artist/5iLIhZFtUFijzNwplwZtlV"
+        },
+        {
+          "name": "Tizzo",
+          "url": "https://open.spotify.com/artist/0NAWq4CW7DxGwgIm1Ock5C"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192333,
+      "name": "Bando",
+      "url": "https://open.spotify.com/track/6cdv3hsd42vgkyGloyPSRl"
     },
     {
       "album": {
@@ -842,7 +864,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-21",
       "duration_ms": 235328,
       "name": "Harry Potter",
       "url": "https://open.spotify.com/track/3eNknjtpGp0Su9Nx1VTvEE"
@@ -1867,6 +1889,28 @@
     },
     {
       "album": {
+        "name": "Double Feature",
+        "url": "https://open.spotify.com/album/4XBegyvbWGCWkzrYrwZr41"
+      },
+      "artists": [
+        {
+          "name": "Loud",
+          "url": "https://open.spotify.com/artist/5DXzQwj6Kgr5kBjVlYdSHo"
+        },
+        {
+          "name": "Ya Cetidon",
+          "url": "https://open.spotify.com/artist/2CRqfNWZYEQ7KuWr9XewAj"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175238,
+      "name": "Toi-m\u00eame tu sais",
+      "url": "https://open.spotify.com/track/0OCoD7jCBxX0tqwRHTX4tL"
+    },
+    {
+      "album": {
         "name": "Tout c'que j'connais",
         "url": "https://open.spotify.com/album/5atVuDm8WzCguB6Itn4IyD"
       },
@@ -2046,7 +2090,7 @@
       ],
       "date_added": "2023-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-21",
       "duration_ms": 187000,
       "name": "zzz",
       "url": "https://open.spotify.com/track/7dO2JbXPSd8MhXv38IKi2x"

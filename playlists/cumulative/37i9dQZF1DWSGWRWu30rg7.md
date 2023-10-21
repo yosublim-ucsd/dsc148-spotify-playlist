@@ -4,7 +4,7 @@
 
 > Temukan beragam musik terbaru dari talenta segar dalam negeri\. Cover: Rony Parulian
 
-2,664 songs - 6 day 19 hr 33 min
+2,666 songs - 6 day 19 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1226,6 +1226,7 @@
 | [Kenanglah \- From "Aku Rindu The Movie"](https://open.spotify.com/track/48E6l8PGj1Vdg0IFKKgJku) | [Olivia Pardede](https://open.spotify.com/artist/2cuE5tGqzoDkpipSAmWhsD) | [Kenanglah \(From "Aku Rindu The Movie"\)](https://open.spotify.com/album/45FNHacQQT8ycAAgR8KS7X) | 4:27 | 2023-10-12 |  |
 | [Kepada Diri Sendiri](https://open.spotify.com/track/7zouGhO0zEvrelH1tiq18o) | [Wallaby Project](https://open.spotify.com/artist/2VHDONmZoqBV5bzdgGiWzR) | [Kepada Diri Sendiri](https://open.spotify.com/album/2GHY60HYUpUZtVp13f5dGS) | 5:52 | 2023-06-29 | 2023-07-15 |
 | [KepadaA](https://open.spotify.com/track/0vWdjSN3S9Mx9OgZEr8006) | [Risti Panjali](https://open.spotify.com/artist/4VV5JkDFGzbPEPP1z1wQNl) | [KepadaA](https://open.spotify.com/album/4qUxE8fEkrd2EQLcgyQwMP) | 5:06 | 2023-07-06 | 2023-07-21 |
+| [Kereta Sore](https://open.spotify.com/track/7tc4dXT8oyGJQaDnNRP3AB) | [Qonita](https://open.spotify.com/artist/2DnzvzqfDX0Ef1ONKP4ZuR) | [Kereta Sore](https://open.spotify.com/album/1yP8xTDDpa8qc0vTHq3ezA) | 4:00 | 2023-10-20 |  |
 | [Kesawan Kita Berdua](https://open.spotify.com/track/5DTJxbVTc3s4nqOtYygY1h) | [1080](https://open.spotify.com/artist/5Qn4BYoGzCNEfJlUq2plLJ) | [Kesawan Kita Berdua](https://open.spotify.com/album/5Uvl473V66S4nChY4kgvmi) | 3:44 | 2023-07-06 | 2023-07-21 |
 | [Kesimpulan \(Semua Karena Cinta\)](https://open.spotify.com/track/6dkHK8kTwDRWfRsstK4P8X) | [Mutiara Azka](https://open.spotify.com/artist/73t08q7TLi6Jta1BiMGFpz) | [Kesimpulan \(Semua Karena Cinta\)](https://open.spotify.com/album/2CKl3EXdqOMeSPF5oqxTph) | 3:05 | 2023-03-09 | 2023-03-25 |
 | [Kesuwen Kere](https://open.spotify.com/track/0A6hVkbe8zmKabavWlkLLh) | [Brindil Kurus](https://open.spotify.com/artist/79nzELBdfcyh5rh8rRfyOb) | [Kesuwen Kere](https://open.spotify.com/album/77GWym7bHrGOnn4mSqs2Pg) | 3:28 | 2023-04-27 | 2023-05-19 |
@@ -2424,6 +2425,7 @@
 | [this is not where the story ends](https://open.spotify.com/track/7zZmLFTUzoZH72APPFe7UH) | [Allegra Aneira](https://open.spotify.com/artist/2KoWr7pmIeHY2xUcIxUwmP) | [this is not where the story ends](https://open.spotify.com/album/6jXKZFDfRFM2LVaTv3xO0P) | 2:58 | 2023-01-12 | 2023-01-27 |
 | [This Is Where I Leave You](https://open.spotify.com/track/1XdkU9HeHcHaKxLjIjP7c0) | [Danny Leone](https://open.spotify.com/artist/54TPhv2iPcuPObOzxZLQbO) | [This Is Where I Leave You](https://open.spotify.com/album/2glM5A2KXvltgXvkotGJaE) | 4:05 | 2022-05-26 | 2022-06-10 |
 | [this life is pretty fucked up, but hey, we'll be fine](https://open.spotify.com/track/15K3AfycMK5U0pTQjwweBD) | [The Caroline's](https://open.spotify.com/artist/6PQfZOWv5DHSmshOM1uMGM) | [on my way to u](https://open.spotify.com/album/3TDWJTovGAXX9AEarGeI0l) | 1:38 | 2022-01-20 | 2022-02-04 |
+| [This Party Sucks Without You](https://open.spotify.com/track/7jaJc6EkzopfvWeUqtpxDi) | [GANIAL](https://open.spotify.com/artist/4dCpw5lYuXLZSCnb1HWvdC), [BURDN](https://open.spotify.com/artist/4RPM7jrVHP9pMn8zoUjp6e) | [This Party Sucks Without You](https://open.spotify.com/album/28mp8H5T0QuHfecFwPzqAg) | 3:08 | 2023-10-20 |  |
 | [This Room \(Original Motion Picture Soundtrack\)](https://open.spotify.com/track/7mAQLLykI3O82duX5EMl3D) | [Nathantania](https://open.spotify.com/artist/4RbKEhVQDaQcBwlMLxkb4v) | [This Room \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1d5k8JZNqrdNStFLbtZ9ow) | 4:37 | 2022-05-19 | 2022-06-03 |
 | [This Song](https://open.spotify.com/track/4iU7WDqW9faZAVCvNghtLD) | [Perantaranya](https://open.spotify.com/artist/2BGEARzgCcVxwfJZeuJzm7) | [This Song](https://open.spotify.com/album/0A5jDKJJ3bFRlYfJOmHNKw) | 3:20 | 2022-06-23 | 2022-07-29 |
 | [This Too Shall Pass](https://open.spotify.com/track/6oYS0wwAn3UsTpufhbBoum) | [Kyster](https://open.spotify.com/artist/4Vyk9OFMKrxgTl4xOtngDt), [Khrsma](https://open.spotify.com/artist/5Pm8w6h0bsrkbKle2oPQVf) | [This Too Shall Pass](https://open.spotify.com/album/1wp7iC2lipqQIDP2lKrhrm) | 3:15 | 2023-07-27 | 2023-08-12 |

@@ -924,10 +924,28 @@
       ],
       "date_added": "2023-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-21",
       "duration_ms": 234146,
       "name": "Erica's Word",
       "url": "https://open.spotify.com/track/3zPnLX5UZgXX6eaAtSROHt"
+    },
+    {
+      "album": {
+        "name": "The Big Shot Chronicles",
+        "url": "https://open.spotify.com/album/1UOR0sayUQipXwipanS1S3"
+      },
+      "artists": [
+        {
+          "name": "Game Theory",
+          "url": "https://open.spotify.com/artist/3aCS3JvkoSr84i7ge9pA9o"
+        }
+      ],
+      "date_added": "2023-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234146,
+      "name": "Erica's Word",
+      "url": "https://open.spotify.com/track/7DIf1GG2V04EVfPg2iq28Y"
     },
     {
       "album": {

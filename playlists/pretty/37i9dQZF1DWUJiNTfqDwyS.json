@@ -1,12 +1,12 @@
 {
   "description": "A collection of the best Metal covers out there. Cover: Ghost",
-  "num_followers": 337988,
+  "num_followers": 338506,
   "original_name": "Metal Covers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzNTY2NjZkZGFlYTkxZjliMjEzZDU1N2M5MjdjNTNkNjVkZDE1MzIw",
+  "snapshot_id": "MCwwNWI2NDAzN2E1OGNlZTc5YTg4NmJmNjEzYWFmNGMxNjBjNTgwYTEz",
   "tracks": [
     {
       "added_at": "2023-08-23 14:56:37",
@@ -447,22 +447,6 @@
     {
       "added_at": "2023-08-23 14:56:37",
       "album": {
-        "name": "Awaken the Fire",
-        "url": "https://open.spotify.com/album/0Si0TtlRSqqwWRe4DnVVmk"
-      },
-      "artists": [
-        {
-          "name": "Like A Storm",
-          "url": "https://open.spotify.com/artist/5gFZo6Oh5WehnbEj0XtxiF"
-        }
-      ],
-      "duration_ms": 207753,
-      "name": "Gangsters Paradise",
-      "url": "https://open.spotify.com/track/6xPD22JavtFYbyHl2AMVsn"
-    },
-    {
-      "added_at": "2023-08-23 14:56:37",
-      "album": {
         "name": "The Predator",
         "url": "https://open.spotify.com/album/4yX8VXD0hHqYMRKa3OraQj"
       },
@@ -475,6 +459,22 @@
       "duration_ms": 275968,
       "name": "Someone Like You",
       "url": "https://open.spotify.com/track/4aKOM2dmLTB5U5qsFhb8u4"
+    },
+    {
+      "added_at": "2023-08-23 14:56:37",
+      "album": {
+        "name": "Awaken the Fire",
+        "url": "https://open.spotify.com/album/0Si0TtlRSqqwWRe4DnVVmk"
+      },
+      "artists": [
+        {
+          "name": "Like A Storm",
+          "url": "https://open.spotify.com/artist/5gFZo6Oh5WehnbEj0XtxiF"
+        }
+      ],
+      "duration_ms": 207753,
+      "name": "Gangsters Paradise",
+      "url": "https://open.spotify.com/track/6xPD22JavtFYbyHl2AMVsn"
     },
     {
       "added_at": "2023-08-23 14:56:37",
@@ -639,6 +639,22 @@
     {
       "added_at": "2023-08-23 14:56:37",
       "album": {
+        "name": "Greatest Lovesongs Vol. 666",
+        "url": "https://open.spotify.com/album/6meTP5bnTECxbCBv8hzD7c"
+      },
+      "artists": [
+        {
+          "name": "HIM",
+          "url": "https://open.spotify.com/artist/74aLweE8FHHf4yN5TWv1GM"
+        }
+      ],
+      "duration_ms": 234026,
+      "name": "Wicked Game",
+      "url": "https://open.spotify.com/track/0evX82L72YwaZIEKw5fEQT"
+    },
+    {
+      "added_at": "2023-08-23 14:56:37",
+      "album": {
         "name": "Ruthless",
         "url": "https://open.spotify.com/album/5cfpgi0vLEmw2w5BZwSdtt"
       },
@@ -667,22 +683,6 @@
       "duration_ms": 260720,
       "name": "Heroes",
       "url": "https://open.spotify.com/track/1WE1WsxSqVofH8ugxJkc0c"
-    },
-    {
-      "added_at": "2023-08-23 14:56:37",
-      "album": {
-        "name": "Greatest Lovesongs Vol. 666",
-        "url": "https://open.spotify.com/album/6meTP5bnTECxbCBv8hzD7c"
-      },
-      "artists": [
-        {
-          "name": "HIM",
-          "url": "https://open.spotify.com/artist/74aLweE8FHHf4yN5TWv1GM"
-        }
-      ],
-      "duration_ms": 234026,
-      "name": "Wicked Game",
-      "url": "https://open.spotify.com/track/0evX82L72YwaZIEKw5fEQT"
     },
     {
       "added_at": "2023-08-23 14:56:37",

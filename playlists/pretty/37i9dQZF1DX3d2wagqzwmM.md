@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3d2wagqzwmM.md) - [plain]
 
 > Big rooms and big sounds\. Cover: LUM!X
 
-[Spotify](https://open.spotify.com/user/spotify) - 461,331 likes - 80 songs - 4 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 461,677 likes - 80 songs - 4 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -81,12 +81,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3d2wagqzwmM.md) - [plain]
 | 71 | [MOLLY \(Will Sparks Remix\)](https://open.spotify.com/track/6NHiXIDWuFMYNWza24rk9y) | [Cedric Gervais](https://open.spotify.com/artist/4Wjf8diP59VmPG7fi4y724), [Joel Corry](https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp), [Will Sparks](https://open.spotify.com/artist/1u7OVFmWah4wQhOPIbUb8U) | [MOLLY \(Will Sparks Remix\)](https://open.spotify.com/album/6Vm4caxFmf5yGaFbSpOg2e) | 3:19 |
 | 72 | [Lose It](https://open.spotify.com/track/0fWJG4fB5xWnpA7FWF6PXd) | [Bassjackers](https://open.spotify.com/artist/6xQvQwZQQuq9R3TdPNbcR8), [SaberZ](https://open.spotify.com/artist/7wVdHjM4odGF5lGsqVSHJT) | [Lose It](https://open.spotify.com/album/1WaJKd3G4P2d6KQch1PyYj) | 2:43 |
 | 73 | [Alone](https://open.spotify.com/track/7vSx1uzjLF2elseUEFDDgu) | [AFROJACK](https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz), [Mike Williams](https://open.spotify.com/artist/3IpvVrP3VLhruTmnququq7) | [Alone](https://open.spotify.com/album/3z7h4c33zeC577R9EWwksj) | 4:11 |
-| 74 | [Never Be Alone](https://open.spotify.com/track/3ewziyfcz9bPtaqISZs67N) | [Gabry Ponte](https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D), [Sash!](https://open.spotify.com/artist/5XTxV2ifoYkmNb13Gb6cKz) | [Never Be Alone](https://open.spotify.com/album/3K8MJLnd39gLaoFCZZwVxx) | 2:56 |
-| 75 | [Sandstorm](https://open.spotify.com/track/2IkFYu5yQsH0eIt8vIk5To) | [DJ Kuba](https://open.spotify.com/artist/1dhLLX9IY5DD8uElJwjZFX), [Neitan](https://open.spotify.com/artist/0zKD9ej0a7KR2evA0Hu0KG), [Rudeejay](https://open.spotify.com/artist/2zC8RU0p5FvJeCPPLVBR8K) | [Sandstorm](https://open.spotify.com/album/0Jwi5rqy7CKTxVj0NQMNUY) | 3:25 |
-| 76 | [TARAKA \- Tiësto Remix](https://open.spotify.com/track/3tDhrE0UftmIEuPwBLUf7d) | [Gordo](https://open.spotify.com/artist/4Ge9GwmWnOQsohwPTrXyHc), [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z) | [TARAKA \(Tiësto Remix\)](https://open.spotify.com/album/6busnvOpzGXyFGe7hJXMa3) | 4:24 |
-| 77 | [Minerva](https://open.spotify.com/track/7D9NidXOJwb3ZAPJ7LOkoD) | [SaberZ](https://open.spotify.com/artist/7wVdHjM4odGF5lGsqVSHJT) | [Minerva](https://open.spotify.com/album/1V2i9HepUHLseVkSdAeSuv) | 2:52 |
-| 78 | [Eternal](https://open.spotify.com/track/4ywSs3wQa6U85OYS6qzX9A) | [VINAI](https://open.spotify.com/artist/4mrBetqy378Jf1y6NLszlx), [Olly James](https://open.spotify.com/artist/04Ze9i5w3NXno5DdMNpJZC) | [Eternal](https://open.spotify.com/album/03GTeOx1Ko7sZZxQdiaNOq) | 3:05 |
-| 79 | [Give Me](https://open.spotify.com/track/5kbFc1QbGvCRJmQTldYod4) | [AVAO](https://open.spotify.com/artist/6bdAgX0KYeVKzqNhnARYBw) | [Give Me](https://open.spotify.com/album/1yMWuEo9Za8Jodpd8C7GdZ) | 2:36 |
-| 80 | [Dance With The Devil \(The 6th Gate\) \(Reinier Zonneveld Remix\)](https://open.spotify.com/track/4Q6TuhtBOgaV0m8mlccIpU) | [Reinier Zonneveld](https://open.spotify.com/artist/21A7bhIL1m6CNZn8y57PIZ), [D\-Devils](https://open.spotify.com/artist/00Q38FFuCE7XCDMhuYYTao) | [Heaven Is Mad \(For You\)](https://open.spotify.com/album/5AwdBViQX8KJyd4cX2RBP7) | 3:12 |
+| 74 | [Dance With The Devil \(The 6th Gate\) \(Reinier Zonneveld Remix\)](https://open.spotify.com/track/4Q6TuhtBOgaV0m8mlccIpU) | [Reinier Zonneveld](https://open.spotify.com/artist/21A7bhIL1m6CNZn8y57PIZ), [D\-Devils](https://open.spotify.com/artist/00Q38FFuCE7XCDMhuYYTao) | [Heaven Is Mad \(For You\)](https://open.spotify.com/album/5AwdBViQX8KJyd4cX2RBP7) | 3:12 |
+| 75 | [Never Be Alone](https://open.spotify.com/track/3ewziyfcz9bPtaqISZs67N) | [Gabry Ponte](https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D), [Sash!](https://open.spotify.com/artist/5XTxV2ifoYkmNb13Gb6cKz) | [Never Be Alone](https://open.spotify.com/album/3K8MJLnd39gLaoFCZZwVxx) | 2:56 |
+| 76 | [Sandstorm](https://open.spotify.com/track/2IkFYu5yQsH0eIt8vIk5To) | [DJ Kuba](https://open.spotify.com/artist/1dhLLX9IY5DD8uElJwjZFX), [Neitan](https://open.spotify.com/artist/0zKD9ej0a7KR2evA0Hu0KG), [Rudeejay](https://open.spotify.com/artist/2zC8RU0p5FvJeCPPLVBR8K) | [Sandstorm](https://open.spotify.com/album/0Jwi5rqy7CKTxVj0NQMNUY) | 3:25 |
+| 77 | [TARAKA \- Tiësto Remix](https://open.spotify.com/track/3tDhrE0UftmIEuPwBLUf7d) | [Gordo](https://open.spotify.com/artist/4Ge9GwmWnOQsohwPTrXyHc), [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z) | [TARAKA \(Tiësto Remix\)](https://open.spotify.com/album/6busnvOpzGXyFGe7hJXMa3) | 4:24 |
+| 78 | [Minerva](https://open.spotify.com/track/7D9NidXOJwb3ZAPJ7LOkoD) | [SaberZ](https://open.spotify.com/artist/7wVdHjM4odGF5lGsqVSHJT) | [Minerva](https://open.spotify.com/album/1V2i9HepUHLseVkSdAeSuv) | 2:52 |
+| 79 | [Eternal](https://open.spotify.com/track/4ywSs3wQa6U85OYS6qzX9A) | [VINAI](https://open.spotify.com/artist/4mrBetqy378Jf1y6NLszlx), [Olly James](https://open.spotify.com/artist/04Ze9i5w3NXno5DdMNpJZC) | [Eternal](https://open.spotify.com/album/03GTeOx1Ko7sZZxQdiaNOq) | 3:05 |
+| 80 | [Give Me](https://open.spotify.com/track/5kbFc1QbGvCRJmQTldYod4) | [AVAO](https://open.spotify.com/artist/6bdAgX0KYeVKzqNhnARYBw) | [Give Me](https://open.spotify.com/album/1yMWuEo9Za8Jodpd8C7GdZ) | 2:36 |
 
-Snapshot ID: `MCxjNWRhZDIzMzI0MTZlZmMyZjAwZTBiNTVlMTVjMTE2ZTVjOGE1N2Zk`
+Snapshot ID: `MCxjNzdhMWNmNmY2MjQyNGU1NmNkZWJkYjFiOWE1MjViYmY5NTVkMzlk`

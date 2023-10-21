@@ -4,7 +4,7 @@
 
 > 前週大きく注目を浴びた楽曲。ネクスト・ヒットをいち早く。 cover: Troye Sivan\(トロイ・シヴァン\)
 
-2,181 songs - 5 day 7 hr 11 min
+2,182 songs - 5 day 7 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1807,7 +1807,8 @@
 | [yourself](https://open.spotify.com/track/3mVnVdtUao1V2xw9N5nnDA) | [野田愛実](https://open.spotify.com/artist/3B94FuZdngvnr2LrwDxLk7) | [yourself](https://open.spotify.com/album/6mBx7KynAj48DmygolkAnX) | 3:08 | 2023-08-20 | 2023-09-25 |
 | [YOUTH](https://open.spotify.com/track/5CWAOY9n4c4Uo6YlBYLgQb) | [TENDRE](https://open.spotify.com/artist/6cMnpAZ9QN0wn4dVd0Tinb) | [BEGINNING \- EP](https://open.spotify.com/album/4VGyyc8FtjNz7YUYGfeHUd) | 3:46 | 2023-04-16 | 2023-04-24 |
 | [Yumemiru Superman](https://open.spotify.com/track/6zZ4L0BmNEMVoo8oWUFzQr) | [Saucy Dog](https://open.spotify.com/artist/4WqXqPmUuenMIr4QaFrZXN) | [But Really](https://open.spotify.com/album/70tdhywzgwknIJi3CaXGHK) | 3:12 | 2023-07-23 | 2023-08-07 |
-| [yunagieiso](https://open.spotify.com/track/618pyNivEdcfLnc9TbKAuQ) | [クレナズム](https://open.spotify.com/artist/72PvGatrHUWZIbyyntvdpM) | [yunagieiso](https://open.spotify.com/album/7FD9T96o1fl2qTcRem8iNM) | 3:57 | 2023-10-01 |  |
+| [yunagieiso](https://open.spotify.com/track/0VyYuzmkKGiJDRTo2T6AKO) | [クレナズム](https://open.spotify.com/artist/72PvGatrHUWZIbyyntvdpM) | [Whisper of the heart](https://open.spotify.com/album/6Dfjxy6p9bcxmrUxXv4lwR) | 3:57 | 2023-10-15 |  |
+| [yunagieiso](https://open.spotify.com/track/618pyNivEdcfLnc9TbKAuQ) | [クレナズム](https://open.spotify.com/artist/72PvGatrHUWZIbyyntvdpM) | [yunagieiso](https://open.spotify.com/album/7FD9T96o1fl2qTcRem8iNM) | 3:57 | 2023-10-01 | 2023-10-21 |
 | [Yuri no Saku Basho de](https://open.spotify.com/track/1LSTFX8pTDfApxMsuaHTok) | [10\-FEET](https://open.spotify.com/artist/0QZqdhoRQkn1VphAa5eX8h) | [25 \-A Tribute To Dragon Ash\-\(Another Edition\)](https://open.spotify.com/album/6EjpgYYtbyZbtLzXQmfBm9) | 3:16 | 2023-02-26 | 2023-03-13 |
 | [zakkou pt.1](https://open.spotify.com/track/67dKai3GGTl9qmiA9gx6op) | [Mom](https://open.spotify.com/artist/7LuHX3X7qR5K8ft7ilZKUj) | [zakkou pt.1](https://open.spotify.com/album/3tWkNzVGvimOBE6vl3C2NK) | 3:23 | 2023-09-10 | 2023-09-18 |
 | [Zero](https://open.spotify.com/track/4VMKxZjlFfSQCOWdPtiPep) | [Kzyboost](https://open.spotify.com/artist/4zJ19jYGUpEGwnTVEYDPil), [Daichi Yamamoto](https://open.spotify.com/artist/5jgE1ulvZ7sJpjlTwAOWPd), [ZIN](https://open.spotify.com/artist/2W8tmumOv76P22QElkqPCS) | [Zero](https://open.spotify.com/album/5vDm30Day2utiYiHiXwgqB) | 3:32 | 2023-05-14 | 2023-05-23 |

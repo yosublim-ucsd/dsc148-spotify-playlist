@@ -4,7 +4,7 @@
 
 > Stay relaxed with these low\-key beats and instrumentals.
 
-501 songs - 20 hr 30 min
+502 songs - 20 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,7 +30,8 @@
 | [Apology To Myself](https://open.spotify.com/track/1HAfzaTtEOwry54gB6uMwd) | [Minthaze](https://open.spotify.com/artist/0GDuz9Xe0BQHtO6uEOHm1v) | [Apology To Myself](https://open.spotify.com/album/2JZgOyJ5uc8DCeayHQs80H) | 1:40 | 2019-05-26\* | 2019-06-15 |
 | [archipelago](https://open.spotify.com/track/2cJrM72wG5Kj1497cklAUi) | [mvnitou](https://open.spotify.com/artist/1u5Lht40OtsxS78hPb3wr9) | [archipelago](https://open.spotify.com/album/4uV1hspSYL4kVL8bHX85Pj) | 2:58 | 2020-11-06 | 2021-10-23 |
 | [Arigato Mama](https://open.spotify.com/track/2yxnnVeeS0s4hUqhFiDEdi) | [Dj Yutaka](https://open.spotify.com/artist/6PjCaQSdfVd1YIdO3vnsAn) | [Arigato Mama](https://open.spotify.com/album/70gkTjKai4oN4fEtDXL8Ce) | 3:09 | 2023-05-11 |  |
-| [Awesome City](https://open.spotify.com/track/2RZbhMjj6piJ6W4M7Nsl7o) | [DJ FRIP a.k.a\. BeatLab](https://open.spotify.com/artist/5nkZFBzkGZpfRxnWFZGtk7) | [Awesome City](https://open.spotify.com/album/05PDJXae0t0adaepucRPVP) | 2:40 | 2023-10-19 |  |
+| [Awesome City](https://open.spotify.com/track/2RZbhMjj6piJ6W4M7Nsl7o) | [DJ FRIP a.k.a\. BeatLab](https://open.spotify.com/artist/5nkZFBzkGZpfRxnWFZGtk7) | [Awesome City](https://open.spotify.com/album/05PDJXae0t0adaepucRPVP) | 2:40 | 2023-10-19 | 2023-10-21 |
+| [Awesome City](https://open.spotify.com/track/5tmItGDYOoSnA44DZKLFU1) | [DJ FRIP a.k.a\. BeatLab](https://open.spotify.com/artist/5nkZFBzkGZpfRxnWFZGtk7) | [Awesome City](https://open.spotify.com/album/5zXZG6idXS00IwMztd621i) | 2:40 | 2023-10-19 |  |
 | [Baby, It's Over](https://open.spotify.com/track/2VOpnswDATUVkyLA4FNO2C) | [iamalex](https://open.spotify.com/artist/6M6LWvHKgBle8SUtSpq6SU), [Pure Colors](https://open.spotify.com/artist/6pa33j3GieYhexuZGFA0ql) | [Baby, It's Over](https://open.spotify.com/album/30gtureHZGCuC3g0WoCxyP) | 2:28 | 2020-07-18 |  |
 | [Back & Forth](https://open.spotify.com/track/6LDYOZ1ZEDNwsPbbA3ShnV) | [The Other Guys](https://open.spotify.com/artist/0FRkEQ2lzu4ZSPV1Yv5g8X) | [Back & Forth](https://open.spotify.com/album/2np06G3wE3BOHhVm1WiMRa) | 2:11 | 2020-11-06 | 2022-07-01 |
 | [Back in a day](https://open.spotify.com/track/1IBRiarB9kjiU0TtUhZbBP) | [Shin\-Ski](https://open.spotify.com/artist/6Ei1ABb1YNXZviQKBE7RI7) | [Back in a day](https://open.spotify.com/album/4atci2khIlJisfCFMmjcUf) | 1:54 | 2023-01-12 | 2023-01-14 |
@@ -77,7 +78,7 @@
 | [ChunkySoul!!!](https://open.spotify.com/track/1tsSV0cI3Qc5WhZqNYCruu) | [9th Wonder](https://open.spotify.com/artist/4s8ZGMVf3OiPktSP4ulpqU) | [Zion II](https://open.spotify.com/album/5fnXMRZFd0SkPitan6pLu4) | 2:03 | 2019-05-26\* | 2020-01-14 |
 | [City Strollin'](https://open.spotify.com/track/0DZyMqCAMr4LALQKA1QizL) | [DESH](https://open.spotify.com/artist/6nJ2MPazBFrwU07sGCpdcO), [Nocatchphraze](https://open.spotify.com/artist/4efXbuujGTBlH1mfRkvnpJ), [Soul Food Horns](https://open.spotify.com/artist/42gnrsSSKKNNmfAJ0o3oyN) | [City Strollin'](https://open.spotify.com/album/2AV89a2bJw3pjTpfCa3hg4) | 3:18 | 2021-10-30 | 2022-07-29 |
 | [Cloud Walking](https://open.spotify.com/track/1A2KuZ3ojY7MdfZrkecxiY) | [Mujo](https://open.spotify.com/artist/0vg08N1z9G9LrGLkG1nNDS), [Hakone](https://open.spotify.com/artist/7CWzXEtz9IgGotcYUQuixF), [Homage](https://open.spotify.com/artist/0Nax9ohdb2ezDUpPmT3iMz) | [Collabs, Vol 2](https://open.spotify.com/album/4xN8ZoRTp9aE1mu61uO1oe) | 1:58 | 2020-06-19 | 2022-04-20 |
-| [Cloud9](https://open.spotify.com/track/1guVDJWyU2q5BGIaos8jZ2) | [edbl](https://open.spotify.com/artist/7ncd26zzbpqgZRroBKmReO), [JPRK](https://open.spotify.com/artist/3ZYTH2LzMs6c3DiRn6n2qH) | [Cloud9](https://open.spotify.com/album/5if4TAmZGtsuUpyIqRludq) | 2:06 | 2023-03-23 | 2023-10-20 |
+| [Cloud9](https://open.spotify.com/track/1guVDJWyU2q5BGIaos8jZ2) | [edbl](https://open.spotify.com/artist/7ncd26zzbpqgZRroBKmReO), [JPRK](https://open.spotify.com/artist/3ZYTH2LzMs6c3DiRn6n2qH) | [Cloud9](https://open.spotify.com/album/5if4TAmZGtsuUpyIqRludq) | 2:06 | 2023-03-23 |  |
 | [Clout Chaser](https://open.spotify.com/track/6pnQl5hBvh6gaG3nfs5UN5) | [Lofi Fruits Music](https://open.spotify.com/artist/1dABGukgZ8XKKOdd2rVSHM), [Fets](https://open.spotify.com/artist/0GJ3FYu5TXpDjqvPs9iA4u), [Tempura](https://open.spotify.com/artist/3WLUyDqIO1ihcIgNzIu6ZB) | [Clout Chaser](https://open.spotify.com/album/6K53BqCNrtbrdYT4C39XzI) | 1:52 | 2023-04-27 |  |
 | [Clout Chaser](https://open.spotify.com/track/4JiMEB4RvSXODgSnuv12n7) | [Sorbet](https://open.spotify.com/artist/6qTV5zSs0XxRpVhb1ADE0H), [Fets](https://open.spotify.com/artist/0GJ3FYu5TXpDjqvPs9iA4u), [Sea Flap Flap](https://open.spotify.com/artist/4aPzws5w5zMmiRvcF4j9ZL) | [Clout Chaser](https://open.spotify.com/album/3z5CpWdWFgwbBkaBoSJDrf) | 1:52 | 2020-06-19 | 2022-07-06 |
 | [Coastal Drift](https://open.spotify.com/track/2VBmbnFWjxMsjHA4QTeU6o) | [DYVN](https://open.spotify.com/artist/0txJ9PYLXPk2Ojegw5Ty9X), [Rudy Raw](https://open.spotify.com/artist/4ZITuhWAaVoUTge2JwIton) | [Coastal Drift](https://open.spotify.com/album/4VCAfD5ZkAdRplyNULBJKd) | 2:12 | 2020-06-29 | 2022-04-20 |
@@ -405,7 +406,7 @@
 | [So They Say](https://open.spotify.com/track/1DniIBl2EA2OtOrrW8CJJe) | [Ol' Burger Beats](https://open.spotify.com/artist/4rDDy4hN7Tbrv0ntOvVKPz) | [Daybreaks](https://open.spotify.com/album/0rMhANpygU5WO7RYo2xq54) | 2:18 | 2022-07-28 | 2022-11-20 |
 | [So They Say](https://open.spotify.com/track/74lV5FmHUsOobeO2LhvK2R) | [Ol' Burger Beats](https://open.spotify.com/artist/4rDDy4hN7Tbrv0ntOvVKPz) | [So They Say](https://open.spotify.com/album/0QfciNzmUbcv769u2mP1pO) | 2:18 | 2019-06-14 | 2022-07-29 |
 | [Soft Spot](https://open.spotify.com/track/0rUnSGgKJNNuwmp4WhtHvL) | [Louk](https://open.spotify.com/artist/6ljotXgL1sbhiI7aiF7W8O) | [Soft Spot](https://open.spotify.com/album/2KURAyUaY1QkqBtkuPPSlJ) | 2:55 | 2023-05-25 | 2023-05-27 |
-| [Soft Spot](https://open.spotify.com/track/2cfgnwGPrKkcvVjuxzSt6s) | [Louk](https://open.spotify.com/artist/6ljotXgL1sbhiI7aiF7W8O) | [Soft Spot](https://open.spotify.com/album/7zy4ZCdOKzyEg2d9mjdLpk) | 2:55 | 2023-05-25 |  |
+| [Soft Spot](https://open.spotify.com/track/2cfgnwGPrKkcvVjuxzSt6s) | [Louk](https://open.spotify.com/artist/6ljotXgL1sbhiI7aiF7W8O) | [Soft Spot](https://open.spotify.com/album/7zy4ZCdOKzyEg2d9mjdLpk) | 2:55 | 2023-05-25 | 2023-10-21 |
 | [Sometimes \- Remix Instrumental](https://open.spotify.com/track/16SesduvzOpOsTnDBzucJl) | [J Dilla](https://open.spotify.com/artist/0IVcLMMbm05VIjnzPkGCyp) | [Jay Deelicious 95\-98 \- The Delicious Vinyl Years \(Originals, Remixes & Rarities\)](https://open.spotify.com/album/6oCNEIjBtMujq1papEFLjc) | 4:03 | 2019-05-26\* | 2023-08-18 |
 | [sora no kanata](https://open.spotify.com/track/10g1elNvLdmdDgCzoJfwJY) | [maeshima soshi](https://open.spotify.com/artist/4O49GHbECmNppFvzK0WZXf) | [sora no kanata](https://open.spotify.com/album/1ueh8S99rxAHLIbMyTSOnK) | 3:18 | 2022-07-28 | 2022-08-01 |
 | [sora no kanata](https://open.spotify.com/track/5WTQJ99h1iioTt4RPhOX8g) | [maeshima soshi](https://open.spotify.com/artist/4O49GHbECmNppFvzK0WZXf) | [sora no kanata](https://open.spotify.com/album/35qhWebItQ3GV3QS7o56Cw) | 3:18 | 2022-04-21 | 2022-07-29 |

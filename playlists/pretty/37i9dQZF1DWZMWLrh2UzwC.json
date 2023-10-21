@@ -1,12 +1,12 @@
 {
   "description": "The best newly released songs of the week. Cover: Yuna",
-  "num_followers": 61831,
+  "num_followers": 61853,
   "original_name": "New Music Friday Malaysia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0MWZlZGRhYWE2ZjE1ZTFlYmQ3MmE3NzU5MjZiMWI2NTA2NDdmNzQ3",
+  "snapshot_id": "MCw0ZWVkY2ViOGQ4YzRmZmU4ZjI3N2Q2Yjg1NGU1YmU3NjcwOTMzODI4",
   "tracks": [
     {
       "added_at": "2023-10-19 16:00:00",
@@ -223,6 +223,22 @@
       "duration_ms": 205500,
       "name": "Nafsi Sufiya - From \"That Cover Girl\"",
       "url": "https://open.spotify.com/track/3uTLehtqvFpwoMFutWGB3u"
+    },
+    {
+      "added_at": "2023-10-19 16:00:00",
+      "album": {
+        "name": "Good Enough",
+        "url": "https://open.spotify.com/album/5cLw2Xn82F1BANsOY6MLNO"
+      },
+      "artists": [
+        {
+          "name": "CHANYEOL",
+          "url": "https://open.spotify.com/artist/6jV25rzTKQ2zMgrqHha1V5"
+        }
+      ],
+      "duration_ms": 196773,
+      "name": "Good Enough",
+      "url": "https://open.spotify.com/track/0joaMfmFVNsqTSGgX767KN"
     },
     {
       "added_at": "2023-10-19 16:00:00",
@@ -495,6 +511,22 @@
     {
       "added_at": "2023-10-19 16:00:00",
       "album": {
+        "name": "BRUTAL",
+        "url": "https://open.spotify.com/album/6mQ76kFb5eM0uTeiVVGqeG"
+      },
+      "artists": [
+        {
+          "name": "Mardiana",
+          "url": "https://open.spotify.com/artist/3svIMmaQEnyipJfbbW6dyH"
+        }
+      ],
+      "duration_ms": 204672,
+      "name": "BRUTAL",
+      "url": "https://open.spotify.com/track/6XcZTucMhI6GR6fZsFL8Ig"
+    },
+    {
+      "added_at": "2023-10-19 16:00:00",
+      "album": {
         "name": "Set Me Free (feat. Kay)",
         "url": "https://open.spotify.com/album/0UDcHA1ClXIiUtbrvi1tVW"
       },
@@ -724,7 +756,7 @@
       "added_at": "2023-10-19 16:00:00",
       "album": {
         "name": "Wait and See",
-        "url": "https://open.spotify.com/album/0i4KKLE0p2SF42jRAJZX6I"
+        "url": "https://open.spotify.com/album/06BpiyAlNX77cuQZ7JQHm5"
       },
       "artists": [
         {
@@ -738,7 +770,7 @@
       ],
       "duration_ms": 181666,
       "name": "Wait and See",
-      "url": "https://open.spotify.com/track/1M7vZmqwUqMW4Pw1b4ckKv"
+      "url": "https://open.spotify.com/track/1bojxXpAm2fZqvQGIDfWyk"
     },
     {
       "added_at": "2023-10-19 16:00:00",
@@ -1191,6 +1223,22 @@
     {
       "added_at": "2023-10-19 16:00:00",
       "album": {
+        "name": "Tokyo Calling",
+        "url": "https://open.spotify.com/album/3utC1QAo17IiIIkQZe7XO6"
+      },
+      "artists": [
+        {
+          "name": "ATARASHII GAKKO!",
+          "url": "https://open.spotify.com/artist/4OfU76YhPU04wlmbVFFgTJ"
+        }
+      ],
+      "duration_ms": 191180,
+      "name": "Tokyo Calling",
+      "url": "https://open.spotify.com/track/2WNjQidYVQO0oFFlTuF8fo"
+    },
+    {
+      "added_at": "2023-10-19 16:00:00",
+      "album": {
         "name": "Prince Shoutoku",
         "url": "https://open.spotify.com/album/0pF7LdM6RM99pJZXq9dOIN"
       },
@@ -1356,7 +1404,7 @@
       "added_at": "2023-10-19 16:00:00",
       "album": {
         "name": "NOVELLA",
-        "url": "https://open.spotify.com/album/3VGGNbHaMvCdXKv0n0jtWw"
+        "url": "https://open.spotify.com/album/2falvYz05K16aqjg0wLToV"
       },
       "artists": [
         {
@@ -1366,7 +1414,7 @@
       ],
       "duration_ms": 193997,
       "name": "NOBODY'S HOME",
-      "url": "https://open.spotify.com/track/0eUK1v1iiLDPt0y9SEzmDC"
+      "url": "https://open.spotify.com/track/6XXARH6IW2ynfTH39XULx9"
     },
     {
       "added_at": "2023-10-19 16:00:00",
