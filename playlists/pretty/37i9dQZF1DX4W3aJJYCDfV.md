@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 
 > Brand new music from The Kid LAROI, Jung Kook + Central Cee \(pictured\), Charli XCX + Sam Smith, Griff and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 840,405 likes - 153 songs - 8 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 840,492 likes - 153 songs - 8 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -162,4 +162,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 | 152 | [idontwannatry](https://open.spotify.com/track/7tK4bYeQHmdh9gi7Bw1q7T) | [joey maxwell](https://open.spotify.com/artist/24HpqK3rYuuJgdh2WkNtTq) | [don't know how to feel about this](https://open.spotify.com/album/02bDdHPPsKGOVVSbCDMxGS) | 2:37 |
 | 153 | [Tantor](https://open.spotify.com/track/6MmnCLbZ5sEshGK7bJDQB6) | [Danny Brown](https://open.spotify.com/artist/7aA592KWirLsnfb5ulGWvU) | [Tantor](https://open.spotify.com/album/6YYhvhhWZMdW1OPI7ZTa4M) | 2:28 |
 
-Snapshot ID: `MCw1NjljZWJkOTMzNzNiMTQ2NDgyNWRkZDlmODg5MjdlN2FlOTQyOWVl`
+Snapshot ID: `MCw3NTQyZDA1NmUyZTU3ZjExMmFmNDYwNGJmNWU2MDY3NjA0ZWRjODg3`

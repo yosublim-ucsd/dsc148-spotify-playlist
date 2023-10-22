@@ -4,7 +4,7 @@
 
 > Dive into the deep end of the tech house spectrum.
 
-229 songs - 18 hr 47 min
+230 songs - 18 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -89,7 +89,7 @@
 | [Hyper](https://open.spotify.com/track/39pclaQXwUGiwcA47Hk3QF) | [Raumakustik](https://open.spotify.com/artist/0DH2O8Nvb5KxMaI9jCZUqW) | [Hyper](https://open.spotify.com/album/1l0vbfG18jQVRTiYUdEad8) | 3:43 | 2022-07-15 |  |
 | [I Am Somebody](https://open.spotify.com/track/75EaT3OH1MdJxKT1ZUsNK0) | [Technasia](https://open.spotify.com/artist/0rnKlPis7AQgoIe2NEVWa5) | [I Am Somebody](https://open.spotify.com/album/1G3BKcXKXfUaZ3qz8lNsWv) | 6:57 | 2022-06-03 |  |
 | [Inertia](https://open.spotify.com/track/6kcysA1uaHhFBv9vu1Lt3f) | [GRRL](https://open.spotify.com/artist/0JpzRsUcCKSyr44mQiosNg), [Made of Oak](https://open.spotify.com/artist/6dWVt38ueCw46cGnWDbTl8) | [Inertia](https://open.spotify.com/album/4iM8Xi48cQyUyizWfoGb1I) | 3:32 | 2022-07-08 | 2022-07-29 |
-| [Into The Hood](https://open.spotify.com/track/3A3aYBchPWOXGC20NuG5pR) | [Adam Ten](https://open.spotify.com/artist/05tmGPn4fFdVpnsMt0YW5S), [Yamagucci](https://open.spotify.com/artist/6EuSg8aungYTh6vNgL1EpG) | [Into The Hood](https://open.spotify.com/album/2wlhcGHzVyQD3LksH4wSOp) | 6:02 | 2023-06-30 |  |
+| [Into The Hood](https://open.spotify.com/track/3A3aYBchPWOXGC20NuG5pR) | [Adam Ten](https://open.spotify.com/artist/05tmGPn4fFdVpnsMt0YW5S), [Yamagucci](https://open.spotify.com/artist/6EuSg8aungYTh6vNgL1EpG) | [Into The Hood](https://open.spotify.com/album/2wlhcGHzVyQD3LksH4wSOp) | 6:02 | 2023-06-30 | 2023-10-22 |
 | [Its Time to Move](https://open.spotify.com/track/5LZNaPmgnxH2YHwmU9G0GL) | [Sosa UK](https://open.spotify.com/artist/3JlN0MeWVJq0vjvsvWCRZ5) | [Its Time to Move](https://open.spotify.com/album/6G4C4RQkB3CbLOoaYSM6ya) | 2:42 | 2023-09-22 |  |
 | [Jump Ship](https://open.spotify.com/track/25jHZWxC5NFkaqT5Hb5uKS) | [Rebūke](https://open.spotify.com/artist/113reBz1jA6rVxbXl55mlj) | [Jump Ship](https://open.spotify.com/album/5f0oTxXSCY7PlFltoLUssp) | 6:21 | 2022-06-03 | 2023-10-15 |
 | [Kick It](https://open.spotify.com/track/5s5RKNozjSH616u91ZiqY7) | [Archie Hamilton](https://open.spotify.com/artist/0DfYCARYRJ4vlSWlief3jv) | [Kick It EP](https://open.spotify.com/album/66aMMGxNQQQqGXO7Bpx6lZ) | 7:02 | 2022-07-08 | 2022-10-22 |
@@ -219,6 +219,7 @@
 | [TRiPPPY](https://open.spotify.com/track/7prJ30LIy445yr1uzsy9Lr) | [Cour T.](https://open.spotify.com/artist/2800ldRznHIt29Q3cUdU5o) | [TRiPPPY](https://open.spotify.com/album/5iRqBscsuyaj50XKN6xAvQ) | 5:30 | 2023-08-18 |  |
 | [Troll](https://open.spotify.com/track/2QLlGPzBYeixEyqJKqzqj9) | [Dimmish](https://open.spotify.com/artist/3BPvVhOECwv7HSHVZaq3BG) | [Lunar EP](https://open.spotify.com/album/3u0oUHmJjfBn9pmbsulv3L) | 7:42 | 2022-06-03 | 2022-07-27 |
 | [Tunnel](https://open.spotify.com/track/0zi1coACnVRJskyFHyLQje) | [DJOKO](https://open.spotify.com/artist/3fdC2UHP39tyWCUsHB6qlv) | [Ride On EP & Mancini Remix](https://open.spotify.com/album/4wZKnCELfrXj676lyK8GAl) | 5:53 | 2022-06-03 | 2022-07-27 |
+| [Unfair](https://open.spotify.com/track/3YvkoTPtxXvcEfs3vcZQVl) | [Beltran](https://open.spotify.com/artist/1jgSqmZTBltb5O2L7ErmEP) | [Unfair](https://open.spotify.com/album/0wGiod0Vq6XPiade8rEpbZ) | 4:07 | 2023-10-20 |  |
 | [Unique](https://open.spotify.com/track/7chDllCV1g3mIf27gjOJnl) | [Fleur Shore](https://open.spotify.com/artist/7GyRA9n7JVslQGcbo72Dil) | [Unique EP](https://open.spotify.com/album/1p5cdny6T3dcuF0vFlkpjF) | 4:03 | 2023-09-22 | 2023-10-21 |
 | [Untitled A](https://open.spotify.com/track/0dCoAtdih1oipgbx4jFqcg) | [Interplanetary Criminal](https://open.spotify.com/artist/6uJ51uV5rYzu1MJkC4CceI), [DJ Cosworth](https://open.spotify.com/artist/0Sgo1SIN7qc7fDw7v14IDm) | [Untitled](https://open.spotify.com/album/1KemAxEMdpdvlJQNLXIRIy) | 5:48 | 2022-10-12 | 2023-10-21 |
 | [Walk The Line \- Radio Edit](https://open.spotify.com/track/4xt43vcfXajgYbcDdOjOgI) | [Jesse Jonez](https://open.spotify.com/artist/4uRQ0KBoYFYkziR9SIZW3i) | [Walk The Line \(Radio Edit\)](https://open.spotify.com/album/16VndWG1tn0N7Qpp7sz51Z) | 3:21 | 2023-03-24 | 2023-04-29 |

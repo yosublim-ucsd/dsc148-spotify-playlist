@@ -983,6 +983,24 @@
     },
     {
       "album": {
+        "name": "Alt vi har er nu (Artigeardit, Lamin)",
+        "url": "https://open.spotify.com/album/0OO5fNXA3JRABs8vRpvSSQ"
+      },
+      "artists": [
+        {
+          "name": "TV 2 Play",
+          "url": "https://open.spotify.com/artist/0R3vuLe6DSrs1gpqOI27uO"
+        }
+      ],
+      "date_added": "2023-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162510,
+      "name": "Alt vi har er nu (Artigeardit, Lamin)",
+      "url": "https://open.spotify.com/track/13ORFYlIGeLnai3mhgKFxZ"
+    },
+    {
+      "album": {
         "name": "L\u00c6NGE LEVE",
         "url": "https://open.spotify.com/album/1IHiXXZxuoJKJos1bcPTQ7"
       },
@@ -1718,7 +1736,7 @@
       ],
       "date_added": "2023-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-22",
       "duration_ms": 173069,
       "name": "Balancen (feat. Kesi)",
       "url": "https://open.spotify.com/track/4sGUkfsLxIK4tZxLZt0unU"
@@ -5131,6 +5149,24 @@
     },
     {
       "album": {
+        "name": "Disko i KBH",
+        "url": "https://open.spotify.com/album/0Bpz3P0FbSRpxPTRwKXvFf"
+      },
+      "artists": [
+        {
+          "name": "Bl\u00e6st",
+          "url": "https://open.spotify.com/artist/3elCsuJ1JjDeAd8mjlRRX5"
+        }
+      ],
+      "date_added": "2023-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175426,
+      "name": "Disko i KBH",
+      "url": "https://open.spotify.com/track/0pOsvtGX3tuYk0CKf0cxij"
+    },
+    {
+      "album": {
         "name": "Dit Liv Dit Valg",
         "url": "https://open.spotify.com/album/09R2hCTELJT7zgswNn3uj4"
       },
@@ -5160,7 +5196,7 @@
       ],
       "date_added": "2023-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-22",
       "duration_ms": 108542,
       "name": "DK Goat",
       "url": "https://open.spotify.com/track/264O5da5Insceb26qjx5tF"
@@ -11144,7 +11180,7 @@
       ],
       "date_added": "2023-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-22",
       "duration_ms": 260111,
       "name": "IDGAF (feat. Yeat)",
       "url": "https://open.spotify.com/track/2YSzYUF3jWqb9YP9VXmpjE"
@@ -11748,6 +11784,24 @@
       "duration_ms": 297000,
       "name": "Jail pt 2",
       "url": "https://open.spotify.com/track/7f1w2rZoIf7g56McEUTh5W"
+    },
+    {
+      "album": {
+        "name": "Januar til December",
+        "url": "https://open.spotify.com/album/3M6Mm4PXOPoV7wF5vt4YYT"
+      },
+      "artists": [
+        {
+          "name": "Thor Farlov",
+          "url": "https://open.spotify.com/artist/0YF2oUwHHPo0VTGuqgYG0X"
+        }
+      ],
+      "date_added": "2023-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166324,
+      "name": "Januar til December",
+      "url": "https://open.spotify.com/track/3eBZvO3q5DlsC8q578fVmK"
     },
     {
       "album": {
@@ -22419,6 +22473,32 @@
     },
     {
       "album": {
+        "name": "TOO MUCH",
+        "url": "https://open.spotify.com/album/7gCggwpSuqUmVzWniLdpKR"
+      },
+      "artists": [
+        {
+          "name": "The Kid LAROI",
+          "url": "https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J"
+        },
+        {
+          "name": "Jung Kook",
+          "url": "https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc"
+        },
+        {
+          "name": "Central Cee",
+          "url": "https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r"
+        }
+      ],
+      "date_added": "2023-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203894,
+      "name": "TOO MUCH",
+      "url": "https://open.spotify.com/track/0rKWJnmo6Q0ovoPOLoLm0t"
+    },
+    {
+      "album": {
         "name": "TILLYKKE",
         "url": "https://open.spotify.com/album/4bJGHh9r2ssr5vt6y2OZLg"
       },
@@ -24140,7 +24220,7 @@
       ],
       "date_added": "2023-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-22",
       "duration_ms": 222369,
       "name": "What Was I Made For? [From The Motion Picture \"Barbie\"]",
       "url": "https://open.spotify.com/track/6wf7Yu7cxBSPrRlWeSeK0Q"

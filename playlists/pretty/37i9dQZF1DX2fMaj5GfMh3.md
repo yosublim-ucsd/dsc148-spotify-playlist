@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2fMaj5GfMh3.md) - [plain]
 
 > Troye deze week op de cover van Fresh Pop.
 
-[Spotify](https://open.spotify.com/user/spotify) - 95,474 likes - 99 songs - 4 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 95,489 likes - 99 songs - 4 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2fMaj5GfMh3.md) - [plain]
 | 98 | [Everyone Who Falls In Love \(Has Someone Else They’re Thinking Of\)](https://open.spotify.com/track/56arqTWhgLtut9Ii9r3CiL) | [Cian Ducrot](https://open.spotify.com/artist/49jTY62Cpw3RYo4dLuG43W) | [Everyone Who Falls In Love \(Has Someone Else They’re Thinking Of\)](https://open.spotify.com/album/5fFkNwu56uYC6CB7Td6Rns) | 2:36 |
 | 99 | [hell is a teenage girl](https://open.spotify.com/track/4FvcW8lzYpZ4bq9awSHZ1N) | [Nessa Barrett](https://open.spotify.com/artist/7pwufEBGfggjoI8twqlsmQ) | [hell is a teenage girl](https://open.spotify.com/album/2xhb39yawrcKkdIPvL2VJ4) | 3:15 |
 
-Snapshot ID: `MCwzYTA0YmIwMjU5ZjNjYTRhYWU1YTYwMDMwZDZlZGNhZDUyNzkzZWM0`
+Snapshot ID: `MCwzM2M3ZGE0MWYyZDc2NmY5MmExMDM0ZTk3OGYyZjk1ZDU0M2U3OWMw`

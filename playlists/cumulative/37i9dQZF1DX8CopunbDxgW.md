@@ -4,7 +4,7 @@
 
 > The best indie dance tracks of the moment\. Cover: Barry Can't Swim
 
-999 songs - 2 day 16 hr 31 min
+1,000 songs - 2 day 16 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -113,7 +113,7 @@
 | [Blood](https://open.spotify.com/track/6qGyxIijWIscsjxHLZBLhG) | [Chrome Sparks](https://open.spotify.com/artist/2pTCZ9C1fXdaVlv6d5EIXM), [Reo Cragun](https://open.spotify.com/artist/08v1r0jqDyvSo2LtSqHxcy) | [Blood](https://open.spotify.com/album/4IDiAoz7AJPidIn5Z2SIc4) | 2:41 | 2021-10-15 | 2022-02-10 |
 | [Blood In The Snow](https://open.spotify.com/track/5yiEvFextSviCStbutB8UI) | [Totally Enormous Extinct Dinosaurs](https://open.spotify.com/artist/0g3NiCRhEv7M4SEDMrpItN) | [Blood in the Snow](https://open.spotify.com/album/4l1KlOM9JXnH9Q1LmoAEjP) | 4:46 | 2022-04-01 | 2022-07-26 |
 | [Bloom \(ft\. Ell Murphy\)](https://open.spotify.com/track/2Qgt58CMtZXxlrJsdlfDx7) | [Mafro](https://open.spotify.com/artist/2Y9v3pyVuYM0o8bSLAUUZm), [Ell Murphy](https://open.spotify.com/artist/4r0F1gbqeQsaPg5d2nm5EJ) | [Bloom](https://open.spotify.com/album/11mDSGxGocTqdiPgYqYfRh) | 4:19 | 2023-01-20 | 2023-02-18 |
-| [Blooming](https://open.spotify.com/track/1elYcP79l3nmmajOjwztZ3) | [Bronze Whale](https://open.spotify.com/artist/448VwSmqc6SpRDqK5WYXIt), [Martron](https://open.spotify.com/artist/25Amc1hdYDyPHAeprRXCgx) | [Blooming](https://open.spotify.com/album/0B8uraCrsNiMvlbFCtZCvK) | 3:54 | 2023-06-09 |  |
+| [Blooming](https://open.spotify.com/track/1elYcP79l3nmmajOjwztZ3) | [Bronze Whale](https://open.spotify.com/artist/448VwSmqc6SpRDqK5WYXIt), [Martron](https://open.spotify.com/artist/25Amc1hdYDyPHAeprRXCgx) | [Blooming](https://open.spotify.com/album/0B8uraCrsNiMvlbFCtZCvK) | 3:54 | 2023-06-09 | 2023-10-22 |
 | [Blue Hour](https://open.spotify.com/track/7lggwV1nP2sMYOieWNvjfw) | [Nosaj Thing](https://open.spotify.com/artist/0IVapwlnM3dEOiMsHXsghT), [Julianna Barwick](https://open.spotify.com/artist/0HWfFWL4vVrbaBQqxVCwCi) | [Blue Hour](https://open.spotify.com/album/2m57meR4I847cmV8m7cNxn) | 3:31 | 2022-09-02 | 2022-09-18 |
 | [Blue World](https://open.spotify.com/track/2EQqbpuyUD4jwQHwoE6eQq) | [Jesse Mac Cormack](https://open.spotify.com/artist/2H8M8TXbgq7ZF676K4Zm2C) | [Blue World](https://open.spotify.com/album/4px3NENks6BfQoYDXBI4lM) | 4:41 | 2022-04-08 | 2022-07-29 |
 | [Blutooth](https://open.spotify.com/track/4mhHWZBaSyLeTeXrLp1xuK) | [Blu DeTiger](https://open.spotify.com/artist/5NyCIBCeU080ynEj33S4hC), [Chromeo](https://open.spotify.com/artist/2mV8aJphiSHYJf43DxL7Gt) | [Blutooth / enough 4 u](https://open.spotify.com/album/5fehd9MptgZcNgSLxAPBNN) | 2:58 | 2022-05-20 | 2023-03-18 |
@@ -136,6 +136,7 @@
 | [Bugatti](https://open.spotify.com/track/6z5zNAr1yKd88C8S9ppMl1) | [Tiga](https://open.spotify.com/artist/5l9wiTZVfqQTfMDOt0HtwC) | [No Fantasy Required](https://open.spotify.com/album/55bIeFDVLsLwa3WEnSJe0C) | 5:20 | 2023-02-24 | 2023-03-04 |
 | [Burning](https://open.spotify.com/track/07IAGsfYqS8sZSECzK1hZK) | [Yeah Yeah Yeahs](https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2) | [Burning](https://open.spotify.com/album/71Dk5SUWHmMrRnfPwYRnGB) | 4:05 | 2022-08-12 | 2022-10-22 |
 | [Burning](https://open.spotify.com/track/4JFet0crxTPHFV2n1ZqZKV) | [Yeah Yeah Yeahs](https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2) | [Cool It Down](https://open.spotify.com/album/7ug0WdvzC2sLXTrtHUwNsj) | 4:05 | 2022-09-09 | 2023-07-29 |
+| [Burnt Orange \- Edit](https://open.spotify.com/track/1O73n53LZxJNLeGdhwChtt) | [Elkka](https://open.spotify.com/artist/5Ly0z60jjgsY4rkmjRFtPS) | [Burnt Orange](https://open.spotify.com/album/3krmis8XpyRrEGKQ4LXRf4) | 4:31 | 2023-10-21 |  |
 | [Buttercup](https://open.spotify.com/track/5d2KbiTK6AVaJeJC1oc8H3) | [Mochakk](https://open.spotify.com/artist/0rTh1tAdrEbdKZBTiiAQSo) | [Buttercup](https://open.spotify.com/album/6MzjAQSkgKKnJgvTAOda2k) | 4:38 | 2022-09-17 | 2022-10-06 |
 | [Butterflies \(with Starrah & Four Tet\)](https://open.spotify.com/track/6cq5CiTm239TeNEE6YjqfE) | [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX), [Starrah](https://open.spotify.com/artist/6DpWtzfwV8fcwP6fXckDVu), [Four Tet](https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh) | [Butterflies \(with Starrah & Four Tet\)](https://open.spotify.com/album/1j2uX2CKl8szGRxKqsXOfm) | 3:15 | 2021-05-14 | 2023-02-18 |
 | [Butterfly Wings \- Franc Moody Remix](https://open.spotify.com/track/5iOOpXSpuKOcvrVMi28AIr) | [FELIVAND](https://open.spotify.com/artist/6QCstr3yhEVSZPQyDvvYjK), [Franc Moody](https://open.spotify.com/artist/10GT4yz8c6xjjnPGtGPI1l) | [Butterfly Wings \(Franc Moody Remix\)](https://open.spotify.com/album/6Oo3cX5rOtUITuwQbjz4Wz) | 3:32 | 2022-04-29 | 2022-07-29 |

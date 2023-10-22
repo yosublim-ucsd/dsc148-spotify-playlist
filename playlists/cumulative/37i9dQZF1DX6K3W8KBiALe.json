@@ -2678,7 +2678,7 @@
       ],
       "date_added": "2022-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-22",
       "duration_ms": 326746,
       "name": "Swan Lake, Op. 20",
       "url": "https://open.spotify.com/track/7h6yBVpb3t2nAHr4AKxIbS"
@@ -2734,6 +2734,28 @@
       "duration_ms": 326746,
       "name": "Swan Lake, Op. 20",
       "url": "https://open.spotify.com/track/4X8337xyAGtHW3A1IoPydh"
+    },
+    {
+      "album": {
+        "name": "First Loves",
+        "url": "https://open.spotify.com/album/7aismkghMPms1qV3WIUL3P"
+      },
+      "artists": [
+        {
+          "name": "Tim Fain",
+          "url": "https://open.spotify.com/artist/57kiTKiEiK5gi3Q9AqziAP"
+        },
+        {
+          "name": "Robert Koenig",
+          "url": "https://open.spotify.com/artist/341WcirhxlVkGhNh57R9hB"
+        }
+      ],
+      "date_added": "2022-07-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 326774,
+      "name": "Swan Lake, Op. 20",
+      "url": "https://open.spotify.com/track/4TDBXNZ1pZsVBs7olabev1"
     },
     {
       "album": {

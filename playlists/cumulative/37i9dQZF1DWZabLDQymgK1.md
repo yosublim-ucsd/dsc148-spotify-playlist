@@ -4,7 +4,7 @@
 
 > Homoelectric is a legendary queer\-clubbing utopia, creating a safe space at the heart of Manchester’s LGBTQIA+ scene\. This is their sound of Pride.
 
-69 songs - 6 hr 20 min
+70 songs - 6 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,8 +19,9 @@
 | [Bourgie Bourgie](https://open.spotify.com/track/5ul1HJv0yJHYzvUKWjMmz2) | [John Davis](https://open.spotify.com/artist/6e7u1ZLjBS8Pp9CQxGA0rc), [The Monster Orchestra](https://open.spotify.com/artist/1I0M6cH3V4GnOunNUix9s2) | [Joey Negro and Sean P Present the Best of Disco Spectrum](https://open.spotify.com/album/6Snhq073bHXQHQi4BVzD4K) | 6:09 | 2021-06-02 | 2022-07-29 |
 | [BOURGIE, BOURGIE](https://open.spotify.com/track/1LieR25D1qtdj3TdeCRAzY) | [John Davis & The Monster Orchestra](https://open.spotify.com/artist/4N81xA4vupQhBTvKFHCD36) | [The Monster Strikes Again](https://open.spotify.com/album/3pJ6NLQXBjbpOMw6xptsAR) | 6:12 | 2021-06-02 |  |
 | [Bourgie, Bourgie \- Original Mix](https://open.spotify.com/track/1QWNYyZMTOCtrds6F6bH7L) | [John Davis & The Monster Orchestra](https://open.spotify.com/artist/4N81xA4vupQhBTvKFHCD36) | [Bourgie, Bourgie](https://open.spotify.com/album/23R8OiWrISAae5OtHjvccN) | 6:12 | 2021-06-02 | 2022-11-13 |
-| [Caught Out There](https://open.spotify.com/track/1ZNOEXFljuBPOf5m0SREdi) | [Kelis](https://open.spotify.com/artist/0IF46mUS8NXjgHabxk2MCM) | [The Hits](https://open.spotify.com/album/2pPNC9cSF3mhMZcT7t3iw7) | 4:09 | 2021-06-02 |  |
+| [Caught Out There](https://open.spotify.com/track/1ZNOEXFljuBPOf5m0SREdi) | [Kelis](https://open.spotify.com/artist/0IF46mUS8NXjgHabxk2MCM) | [The Hits](https://open.spotify.com/album/2pPNC9cSF3mhMZcT7t3iw7) | 4:09 | 2021-06-02 | 2023-10-22 |
 | [Caught Out There \- Single Radio Edit](https://open.spotify.com/track/3anCuIMGHPXLfPdoxZaGPg) | [Kelis](https://open.spotify.com/artist/0IF46mUS8NXjgHabxk2MCM) | [Women Of R&B](https://open.spotify.com/album/6UXnUgKNd8oH238Qkf1mNR) | 4:09 | 2021-06-02 | 2022-11-13 |
+| [Caught Out There \- Single Radio Edit](https://open.spotify.com/track/3P03oJn7H7AITkUBKLwIS7) | [Kelis](https://open.spotify.com/artist/0IF46mUS8NXjgHabxk2MCM) | [Caught Out There](https://open.spotify.com/album/2g3cVTWysnhifMXYVLVuNT) | 4:11 | 2021-06-02 |  |
 | [Caught Out There \- Single Radio Edit](https://open.spotify.com/track/70lvdxEHWpIigLeYOLhrxR) | [Kelis](https://open.spotify.com/artist/0IF46mUS8NXjgHabxk2MCM) | [The Hits](https://open.spotify.com/album/0nEmvXtfDOXW3sFAoqOitl) | 4:11 | 2021-06-02 | 2022-07-29 |
 | [Closing Shot \(Radio Edit\)](https://open.spotify.com/track/2ffZME1OiF4Qlxz8DVHoZl) | [Lindstrøm](https://open.spotify.com/artist/2vTtjIqZ7hW0W15t1ApKTB) | [Closing Shot](https://open.spotify.com/album/1skGl2lZ48OV8KUalrFBPD) | 4:28 | 2021-06-02 |  |
 | [Closing Shot \- Radio Edit](https://open.spotify.com/track/5CcJXOp5pTsh4rZRMiiNJp) | [Lindstrøm](https://open.spotify.com/artist/2vTtjIqZ7hW0W15t1ApKTB) | [Closing Shot](https://open.spotify.com/album/4FTzWteiP0vCyT9h3dz7G3) | 4:28 | 2021-06-02 | 2022-07-29 |

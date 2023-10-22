@@ -8284,6 +8284,32 @@
     {
       "album": {
         "name": "The Krusty Pack",
+        "url": "https://open.spotify.com/album/30usiZ0nf9JCMxn9ABDFU6"
+      },
+      "artists": [
+        {
+          "name": "Kash Krabs",
+          "url": "https://open.spotify.com/artist/2p7jmj2D8qdDkM0dkHXhWP"
+        },
+        {
+          "name": "Oddwin",
+          "url": "https://open.spotify.com/artist/2nLKb5KOTjny5GUxbR8doa"
+        },
+        {
+          "name": "Sauceward",
+          "url": "https://open.spotify.com/artist/56J1JQFJpRFSVdMftVtJjv"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 112464,
+      "name": "KRUSTY KREW ANTHEM (BACK ON THE GRILL)",
+      "url": "https://open.spotify.com/track/2lBm6toXTg5vyqgGkwRmKx"
+    },
+    {
+      "album": {
+        "name": "The Krusty Pack",
         "url": "https://open.spotify.com/album/1jBNhLA91c4XVAEhUtsELd"
       },
       "artists": [
@@ -8302,7 +8328,7 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-22",
       "duration_ms": 112464,
       "name": "KRUSTY KREW ANTHEM (BACK ON THE GRILL)",
       "url": "https://open.spotify.com/track/7KbcPfcBMquaJGf4BVesOv"
@@ -11180,6 +11206,28 @@
     {
       "album": {
         "name": "WISH YOU WERE HERE",
+        "url": "https://open.spotify.com/album/0PxvbdJQowxgtKBhNJAMep"
+      },
+      "artists": [
+        {
+          "name": "Dro Kenji",
+          "url": "https://open.spotify.com/artist/46fHMu9KxdQwcGV9xI1L9R"
+        },
+        {
+          "name": "Mike Dimes",
+          "url": "https://open.spotify.com/artist/6rIaHuCIUu32uj2CjlEBN3"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 112000,
+      "name": "PAMPER PAMPER",
+      "url": "https://open.spotify.com/track/10Ov8KUvheyNHKlCBK5VLd"
+    },
+    {
+      "album": {
+        "name": "WISH YOU WERE HERE",
         "url": "https://open.spotify.com/album/6H565RedLjINKxrjk1RBz6"
       },
       "artists": [
@@ -11194,7 +11242,7 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-22",
       "duration_ms": 112000,
       "name": "PAMPER PAMPER",
       "url": "https://open.spotify.com/track/6RZeZKaJfK1su5TdM6hWir"

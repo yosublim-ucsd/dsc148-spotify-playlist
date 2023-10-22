@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUX3x84bv557.md) - [plain]
 
 > De nieuwste Nederlandse liedjes! Cover: Metejoor
 
-[Spotify](https://open.spotify.com/user/spotify) - 158,926 likes - 60 songs - 2 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 158,960 likes - 60 songs - 2 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,7 +30,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUX3x84bv557.md) - [plain]
 | 20 | [Alles Kan Vanavond](https://open.spotify.com/track/5m7dZjtgshqh2pKZKir7SG) | [André Hazes Jr.](https://open.spotify.com/artist/5l2Xy4aUoJDRSpsYHyOumD) | [Op Mijn Lijf Geschreven](https://open.spotify.com/album/7df3CFydeyJeyw2K09Igjd) | 2:55 |
 | 21 | [Voicemail](https://open.spotify.com/track/5I8IKmeOT9L7yB0D41483W) | [Sleeq](https://open.spotify.com/artist/2qvTXvob9J4bX63ZrZyliD) | [Voicemail](https://open.spotify.com/album/37x0oNIyroVzO6YWXbfJto) | 2:57 |
 | 22 | [Dat Heb Jij Gedaan](https://open.spotify.com/track/0BQgYJF7yFEQUw8xQmnY6q) | [Numidia](https://open.spotify.com/artist/3OMZaRPVE5OI1IkDbZFBFU) | [Beste Zangers 2023 \(Numidia\)](https://open.spotify.com/album/57TKivJiNHJ8xsi9jmVdKx) | 3:37 |
-| 23 | [Eenzaam Samen](https://open.spotify.com/track/5gAwwq5heHnzLpLIIFc4NF) | [DAVE](https://open.spotify.com/artist/1b8Wn3xSquDw84o7yJI6Jk) | [Eenzaam Samen](https://open.spotify.com/album/4WTBwa2BmjQFdFzuPHL2OY) | 3:03 |
+| 23 | [Eenzaam Samen](https://open.spotify.com/track/5gAwwq5heHnzLpLIIFc4NF) | [DAVE](https://open.spotify.com/artist/1b8Wn3xSquDw84o7yJI6Jk) | [Eenzaam Samen](https://open.spotify.com/album/4WTBwa2BmjQFdFzuPHL2OY) | 2:54 |
 | 24 | [Dresscode](https://open.spotify.com/track/20Il3468yznPyLB8fjZEBX) | [Marc Floor](https://open.spotify.com/artist/68Y9QV4i004HBLR6AI5TBc) | [Van Huis Uit](https://open.spotify.com/album/3c5HcU9hSV8SjM51ZO31aY) | 2:24 |
 | 25 | [Vanavond Komt Ze Naar Mij](https://open.spotify.com/track/1XlUhojwsf89SFoxuwvXW8) | [Adriaan Persons](https://open.spotify.com/artist/1TPrAXJAcBA8sUPNN39eZg) | [Vanavond Komt Ze Naar Mij](https://open.spotify.com/album/1kTXTth3kzIUg2mtiUxyOt) | 3:08 |
 | 26 | [Ik Heb Jou](https://open.spotify.com/track/4WdlPFMILpzOGx4LFLVkkC) | [Dicecream](https://open.spotify.com/artist/5Y35hxCbhuDsV4hjRpAa20), [Jaap Goud](https://open.spotify.com/artist/0kY3JTHPCakGx8ydflXOyR) | [Ik Heb Jou](https://open.spotify.com/album/0hvRDtidoBVzLAj0d7RfEh) | 3:58 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUX3x84bv557.md) - [plain]
 | 59 | [Wakker](https://open.spotify.com/track/3qD6YcX8EYahVoqfZyIzYC) | [Nobu](https://open.spotify.com/artist/5yuxqGyvuCkRY8X53yVy5u) | [Wakker](https://open.spotify.com/album/1bEM1VmjCucrV6SRcN8PRL) | 2:19 |
 | 60 | [Elke Avond Feest](https://open.spotify.com/track/2w1tIkkgJWKfSensaU0vXd) | [Pjotr](https://open.spotify.com/artist/0gRFVzEkjFmFifMlqVlTta) | [Elke Avond Feest](https://open.spotify.com/album/4LjBa0yk1oYtaOlwrbSVcZ) | 2:34 |
 
-Snapshot ID: `MCw4YmFiMTBmMWNhMzJiYTBhYmEwMmIyYjE3ZWZiN2FjZDBkNThhMWE2`
+Snapshot ID: `MCwzYTM2YjA0ODJmNjdiMmY1NTkyNTdjOGViOWUxZjQyNmVhMmU1OGMx`

@@ -1,12 +1,12 @@
 {
   "description": "Endlich wieder Strickpullover & Gem\u00fctlichkeit.",
-  "num_followers": 1281947,
+  "num_followers": 1282166,
   "original_name": "Herbstgef\u00fchle",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmNDI2ZjQxY2YxNDVmZmFlYjA0MjU1YThiNjU5MjU3ZjhjZGJhOWQ4",
+  "snapshot_id": "MCw1MThjMDlhZWE2ODRmOGY3ODIyZWU3NzUwN2Q4ZTliNDdlYWYyMzEy",
   "tracks": [
     {
       "added_at": "2023-10-20 14:05:39",
@@ -171,6 +171,22 @@
     {
       "added_at": "2023-10-20 14:05:39",
       "album": {
+        "name": "Volcano",
+        "url": "https://open.spotify.com/album/5xnXOCf5aZgZ43DgGN4EDv"
+      },
+      "artists": [
+        {
+          "name": "Jungle",
+          "url": "https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071"
+        }
+      ],
+      "duration_ms": 209482,
+      "name": "Back On 74",
+      "url": "https://open.spotify.com/track/19kHhX6f6EfLU7rcO3RqjO"
+    },
+    {
+      "added_at": "2023-10-20 14:05:39",
+      "album": {
         "name": "adore u",
         "url": "https://open.spotify.com/album/7K3BWpksmH4L7BoqUdhZrL"
       },
@@ -187,22 +203,6 @@
       "duration_ms": 220653,
       "name": "adore u",
       "url": "https://open.spotify.com/track/3YgtkOxZsTuaZdL8McA1FQ"
-    },
-    {
-      "added_at": "2023-10-20 14:05:39",
-      "album": {
-        "name": "Volcano",
-        "url": "https://open.spotify.com/album/5xnXOCf5aZgZ43DgGN4EDv"
-      },
-      "artists": [
-        {
-          "name": "Jungle",
-          "url": "https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071"
-        }
-      ],
-      "duration_ms": 209482,
-      "name": "Back On 74",
-      "url": "https://open.spotify.com/track/19kHhX6f6EfLU7rcO3RqjO"
     },
     {
       "added_at": "2023-10-20 14:05:39",
@@ -335,6 +335,22 @@
     {
       "added_at": "2023-10-20 14:05:39",
       "album": {
+        "name": "Something To Give Each Other",
+        "url": "https://open.spotify.com/album/5UcGyEltve5psjxSRsHx8E"
+      },
+      "artists": [
+        {
+          "name": "Troye Sivan",
+          "url": "https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP"
+        }
+      ],
+      "duration_ms": 198448,
+      "name": "Got Me Started",
+      "url": "https://open.spotify.com/track/31MNHKE86sEXzIglbGQ6mu"
+    },
+    {
+      "added_at": "2023-10-20 14:05:39",
+      "album": {
         "name": "Love Again",
         "url": "https://open.spotify.com/album/3z53jSP5i9bCPVOu3PARM8"
       },
@@ -363,22 +379,6 @@
       "duration_ms": 214586,
       "name": "Radio",
       "url": "https://open.spotify.com/track/3QhfFRPkhPCR1RMJWV1gde"
-    },
-    {
-      "added_at": "2023-10-20 14:05:39",
-      "album": {
-        "name": "Something To Give Each Other",
-        "url": "https://open.spotify.com/album/5UcGyEltve5psjxSRsHx8E"
-      },
-      "artists": [
-        {
-          "name": "Troye Sivan",
-          "url": "https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP"
-        }
-      ],
-      "duration_ms": 198448,
-      "name": "Got Me Started",
-      "url": "https://open.spotify.com/track/31MNHKE86sEXzIglbGQ6mu"
     },
     {
       "added_at": "2023-10-20 14:05:39",
@@ -663,22 +663,6 @@
     {
       "added_at": "2023-10-20 14:05:39",
       "album": {
-        "name": "Gr\u00fcne Augen l\u00fcgen nicht",
-        "url": "https://open.spotify.com/album/3abp46f8f2mmo86iem7Hkf"
-      },
-      "artists": [
-        {
-          "name": "JEREMIAS",
-          "url": "https://open.spotify.com/artist/011bJBtG8SdkBqBiSpBllF"
-        }
-      ],
-      "duration_ms": 179140,
-      "name": "Gr\u00fcne Augen l\u00fcgen nicht",
-      "url": "https://open.spotify.com/track/4lptrKbbydmqa74YS0a1rt"
-    },
-    {
-      "added_at": "2023-10-20 14:05:39",
-      "album": {
         "name": "Yours",
         "url": "https://open.spotify.com/album/6XUpmmF38NqTp1Nf6QcUfq"
       },
@@ -691,6 +675,22 @@
       "duration_ms": 216338,
       "name": "Broken",
       "url": "https://open.spotify.com/track/0OW2r3EJzCg7K5Ml0AUVEo"
+    },
+    {
+      "added_at": "2023-10-20 14:05:39",
+      "album": {
+        "name": "Gr\u00fcne Augen l\u00fcgen nicht",
+        "url": "https://open.spotify.com/album/3abp46f8f2mmo86iem7Hkf"
+      },
+      "artists": [
+        {
+          "name": "JEREMIAS",
+          "url": "https://open.spotify.com/artist/011bJBtG8SdkBqBiSpBllF"
+        }
+      ],
+      "duration_ms": 179140,
+      "name": "Gr\u00fcne Augen l\u00fcgen nicht",
+      "url": "https://open.spotify.com/track/4lptrKbbydmqa74YS0a1rt"
     },
     {
       "added_at": "2023-10-20 14:05:39",
@@ -791,22 +791,6 @@
     {
       "added_at": "2023-10-20 14:05:39",
       "album": {
-        "name": "Dive",
-        "url": "https://open.spotify.com/album/3R7QQAIWQNYV5I2GViJqee"
-      },
-      "artists": [
-        {
-          "name": "Olivia Dean",
-          "url": "https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW"
-        }
-      ],
-      "duration_ms": 200759,
-      "name": "Dive",
-      "url": "https://open.spotify.com/track/39X2xdmnX3UAWNmyhKdVtc"
-    },
-    {
-      "added_at": "2023-10-20 14:05:39",
-      "album": {
         "name": "Forget Somebody",
         "url": "https://open.spotify.com/album/68xO5TGhgtqwNpPgxuYTCo"
       },
@@ -835,6 +819,22 @@
       "duration_ms": 197976,
       "name": "American Town",
       "url": "https://open.spotify.com/track/58oljhgRB2FFtF1l2v31QJ"
+    },
+    {
+      "added_at": "2023-10-20 14:05:39",
+      "album": {
+        "name": "Dive",
+        "url": "https://open.spotify.com/album/3R7QQAIWQNYV5I2GViJqee"
+      },
+      "artists": [
+        {
+          "name": "Olivia Dean",
+          "url": "https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW"
+        }
+      ],
+      "duration_ms": 200759,
+      "name": "Dive",
+      "url": "https://open.spotify.com/track/39X2xdmnX3UAWNmyhKdVtc"
     },
     {
       "added_at": "2023-10-20 14:05:39",
@@ -923,22 +923,6 @@
     {
       "added_at": "2023-10-20 14:05:39",
       "album": {
-        "name": "Softly",
-        "url": "https://open.spotify.com/album/7qlt7zR5715v6Ey0lQsjcN"
-      },
-      "artists": [
-        {
-          "name": "Arlo Parks",
-          "url": "https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx"
-        }
-      ],
-      "duration_ms": 188780,
-      "name": "Softly",
-      "url": "https://open.spotify.com/track/3fpfQC77x3uwESSJ6VmUKM"
-    },
-    {
-      "added_at": "2023-10-20 14:05:39",
-      "album": {
         "name": "Utopie",
         "url": "https://open.spotify.com/album/7k8u3WFdC2fHOmp9VWsC2E"
       },
@@ -951,6 +935,22 @@
       "duration_ms": 163026,
       "name": "Utopie",
       "url": "https://open.spotify.com/track/5dEk2G5Cdklq7eZFCrTIkm"
+    },
+    {
+      "added_at": "2023-10-20 14:05:39",
+      "album": {
+        "name": "Softly",
+        "url": "https://open.spotify.com/album/7qlt7zR5715v6Ey0lQsjcN"
+      },
+      "artists": [
+        {
+          "name": "Arlo Parks",
+          "url": "https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx"
+        }
+      ],
+      "duration_ms": 188780,
+      "name": "Softly",
+      "url": "https://open.spotify.com/track/3fpfQC77x3uwESSJ6VmUKM"
     },
     {
       "added_at": "2023-10-20 14:05:39",
@@ -1043,6 +1043,22 @@
     {
       "added_at": "2023-10-20 14:05:39",
       "album": {
+        "name": "rimini tape",
+        "url": "https://open.spotify.com/album/364XipkMF0Rp55oBjaHFtU"
+      },
+      "artists": [
+        {
+          "name": "ENNIO",
+          "url": "https://open.spotify.com/artist/6ztKrKekC3nb3nCBoy9HUt"
+        }
+      ],
+      "duration_ms": 174546,
+      "name": "Rimini",
+      "url": "https://open.spotify.com/track/2JNIWfyUG8AXC2staqyay5"
+    },
+    {
+      "added_at": "2023-10-20 14:05:39",
+      "album": {
         "name": "Ribbons",
         "url": "https://open.spotify.com/album/6BmbMSgAflE0vEOeey6zO7"
       },
@@ -1103,22 +1119,6 @@
       "duration_ms": 198970,
       "name": "Bedroom Exile",
       "url": "https://open.spotify.com/track/2VudXzMgyFNDLydViVrQ7e"
-    },
-    {
-      "added_at": "2023-10-20 14:05:39",
-      "album": {
-        "name": "rimini tape",
-        "url": "https://open.spotify.com/album/364XipkMF0Rp55oBjaHFtU"
-      },
-      "artists": [
-        {
-          "name": "ENNIO",
-          "url": "https://open.spotify.com/artist/6ztKrKekC3nb3nCBoy9HUt"
-        }
-      ],
-      "duration_ms": 174546,
-      "name": "Rimini",
-      "url": "https://open.spotify.com/track/2JNIWfyUG8AXC2staqyay5"
     },
     {
       "added_at": "2023-10-20 14:05:39",
@@ -1311,26 +1311,22 @@
     {
       "added_at": "2023-10-20 14:05:39",
       "album": {
-        "name": "Flaws in Our Design",
-        "url": "https://open.spotify.com/album/6qhaIg3gQcKrcQYv8BzCso"
+        "name": "Maybe Don't (feat. JP Saxe)",
+        "url": "https://open.spotify.com/album/2X5tbY4Yam5ir3dG8eJSHa"
       },
       "artists": [
         {
-          "name": "ODESZA",
-          "url": "https://open.spotify.com/artist/21mKp7DqtSNHhCAU2ugvUw"
+          "name": "Maisie Peters",
+          "url": "https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs"
         },
         {
-          "name": "Yellow House",
-          "url": "https://open.spotify.com/artist/2jAzx88tHo3KNYauXANisl"
-        },
-        {
-          "name": "Preston.",
-          "url": "https://open.spotify.com/artist/6N69WEWIfckF4KpLH6WLLC"
+          "name": "JP Saxe",
+          "url": "https://open.spotify.com/artist/66W9LaWS0DPdL7Sz8iYGYe"
         }
       ],
-      "duration_ms": 186795,
-      "name": "Waiting Forever",
-      "url": "https://open.spotify.com/track/4Slh7mZfToAtPaQXdoBM3c"
+      "duration_ms": 174600,
+      "name": "Maybe Don't (feat. JP Saxe)",
+      "url": "https://open.spotify.com/track/7ksYNhalX8IWKku513n8QG"
     }
   ],
   "unique_name": "Herbstgef\u00fchle",

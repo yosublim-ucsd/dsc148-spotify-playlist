@@ -1,12 +1,12 @@
 {
   "description": "El poder real del Hip Hop latinoamericano y espa\u00f1ol. La Banda Bast\u00f6n en portada. ",
-  "num_followers": 168518,
+  "num_followers": 168570,
   "original_name": "Cl\u00e1sicos del Hip Hop Latino",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzNWE5NmU4YjM1NGYxMzM4NDhiMmU3MDNkYmYxOGU4ZTAxYTViMDQy",
+  "snapshot_id": "MCw2ZDk0NDI3MDhjMGVmMTUwODhmYTYwYzBiNGVlNWI2NTM2NTMyNzIy",
   "tracks": [
     {
       "added_at": "2023-08-08 02:05:58",
@@ -399,18 +399,26 @@
     {
       "added_at": "2023-08-08 02:05:58",
       "album": {
-        "name": "ANDR\u00d3MEDA",
-        "url": "https://open.spotify.com/album/5hP0Os6zCLLnf5ADAeIVs7"
+        "name": "Activados y Prendidos",
+        "url": "https://open.spotify.com/album/0bcrVkXzYnNahQtugk52pj"
       },
       "artists": [
         {
-          "name": "WOS",
-          "url": "https://open.spotify.com/artist/5YCc6xS5Gpj3EkaYGdjyNK"
+          "name": "Santa Estilo",
+          "url": "https://open.spotify.com/artist/59XuCTeNNS0fVgBrFoPNfG"
+        },
+        {
+          "name": "Cartel De Santa",
+          "url": "https://open.spotify.com/artist/07PdYoE4jVRF6Ut40GgVSP"
+        },
+        {
+          "name": "Millonario",
+          "url": "https://open.spotify.com/artist/2N2aJ1SXQxMkhHD8C6fhYD"
         }
       ],
-      "duration_ms": 171475,
-      "name": "ANDR\u00d3MEDA",
-      "url": "https://open.spotify.com/track/3hNKWD8kkxOEJ7K90PjWri"
+      "duration_ms": 208026,
+      "name": "Pesao",
+      "url": "https://open.spotify.com/track/6yZbbWkQ0cIjNXhOaBAfWP"
     },
     {
       "added_at": "2023-08-08 02:05:58",
@@ -447,26 +455,18 @@
     {
       "added_at": "2023-08-08 02:05:58",
       "album": {
-        "name": "Activados y Prendidos",
-        "url": "https://open.spotify.com/album/0bcrVkXzYnNahQtugk52pj"
+        "name": "ANDR\u00d3MEDA",
+        "url": "https://open.spotify.com/album/5hP0Os6zCLLnf5ADAeIVs7"
       },
       "artists": [
         {
-          "name": "Santa Estilo",
-          "url": "https://open.spotify.com/artist/59XuCTeNNS0fVgBrFoPNfG"
-        },
-        {
-          "name": "Cartel De Santa",
-          "url": "https://open.spotify.com/artist/07PdYoE4jVRF6Ut40GgVSP"
-        },
-        {
-          "name": "Millonario",
-          "url": "https://open.spotify.com/artist/2N2aJ1SXQxMkhHD8C6fhYD"
+          "name": "WOS",
+          "url": "https://open.spotify.com/artist/5YCc6xS5Gpj3EkaYGdjyNK"
         }
       ],
-      "duration_ms": 208026,
-      "name": "Pesao",
-      "url": "https://open.spotify.com/track/6yZbbWkQ0cIjNXhOaBAfWP"
+      "duration_ms": 171475,
+      "name": "ANDR\u00d3MEDA",
+      "url": "https://open.spotify.com/track/3hNKWD8kkxOEJ7K90PjWri"
     },
     {
       "added_at": "2023-08-08 02:05:58",
@@ -935,22 +935,6 @@
     {
       "added_at": "2023-08-08 02:05:58",
       "album": {
-        "name": "Barrio Fino (Bonus Track Version)",
-        "url": "https://open.spotify.com/album/4pLuE50wL9T26lSv42X0J2"
-      },
-      "artists": [
-        {
-          "name": "Daddy Yankee",
-          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
-        }
-      ],
-      "duration_ms": 206800,
-      "name": "Salud y Vida",
-      "url": "https://open.spotify.com/track/25KbjEXRp7kYaxhEQixl2D"
-    },
-    {
-      "added_at": "2023-08-08 02:05:58",
-      "album": {
         "name": "Edici\u00f3n Especial",
         "url": "https://open.spotify.com/album/5DUcnGGmAANjBJuXVG0KxQ"
       },
@@ -963,6 +947,22 @@
       "duration_ms": 218697,
       "name": "Grandes Pasos",
       "url": "https://open.spotify.com/track/1kTDUMGq732oIs3XJK1bre"
+    },
+    {
+      "added_at": "2023-08-08 02:05:58",
+      "album": {
+        "name": "Barrio Fino (Bonus Track Version)",
+        "url": "https://open.spotify.com/album/4pLuE50wL9T26lSv42X0J2"
+      },
+      "artists": [
+        {
+          "name": "Daddy Yankee",
+          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
+        }
+      ],
+      "duration_ms": 206800,
+      "name": "Salud y Vida",
+      "url": "https://open.spotify.com/track/25KbjEXRp7kYaxhEQixl2D"
     },
     {
       "added_at": "2023-08-08 02:05:58",
@@ -1015,6 +1015,26 @@
       "duration_ms": 242680,
       "name": "Con el Coco Rapado",
       "url": "https://open.spotify.com/track/3dvbimQJp4NyG6X6WBnW5X"
+    },
+    {
+      "added_at": "2023-08-08 02:05:58",
+      "album": {
+        "name": "Verte Cerquita",
+        "url": "https://open.spotify.com/album/77Q12SIPTgFOPBZ2qRR1Kv"
+      },
+      "artists": [
+        {
+          "name": "Movimiento Original",
+          "url": "https://open.spotify.com/artist/50u2mXgysmTttY0BizYWAo"
+        },
+        {
+          "name": "Nanpa B\u00e1sico",
+          "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
+        }
+      ],
+      "duration_ms": 232721,
+      "name": "Verte Cerquita",
+      "url": "https://open.spotify.com/track/6eTCWWKBtnJI9Ui9OlLEyO"
     },
     {
       "added_at": "2023-08-08 02:05:58",
@@ -1115,26 +1135,6 @@
       "duration_ms": 250732,
       "name": "Jamming Sin Fronteras",
       "url": "https://open.spotify.com/track/5Ot6yfkeBUKllxb0ghQQij"
-    },
-    {
-      "added_at": "2023-08-08 02:05:58",
-      "album": {
-        "name": "Verte Cerquita",
-        "url": "https://open.spotify.com/album/77Q12SIPTgFOPBZ2qRR1Kv"
-      },
-      "artists": [
-        {
-          "name": "Movimiento Original",
-          "url": "https://open.spotify.com/artist/50u2mXgysmTttY0BizYWAo"
-        },
-        {
-          "name": "Nanpa B\u00e1sico",
-          "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
-        }
-      ],
-      "duration_ms": 232721,
-      "name": "Verte Cerquita",
-      "url": "https://open.spotify.com/track/6eTCWWKBtnJI9Ui9OlLEyO"
     },
     {
       "added_at": "2023-08-08 02:05:58",
@@ -1243,6 +1243,22 @@
     {
       "added_at": "2023-08-08 02:05:58",
       "album": {
+        "name": "Teorema",
+        "url": "https://open.spotify.com/album/4BrZpyJrJ3cPWgqIr6FLIU"
+      },
+      "artists": [
+        {
+          "name": "Movimiento Original",
+          "url": "https://open.spotify.com/artist/50u2mXgysmTttY0BizYWAo"
+        }
+      ],
+      "duration_ms": 204125,
+      "name": "Natural",
+      "url": "https://open.spotify.com/track/3tsBwY0wRBkiy8EBOY3O7z"
+    },
+    {
+      "added_at": "2023-08-08 02:05:58",
+      "album": {
         "name": "El Morroeste",
         "url": "https://open.spotify.com/album/1FaFnc7lRcUSy2fk8DSHNe"
       },
@@ -1275,22 +1291,6 @@
       "duration_ms": 168000,
       "name": "Nunca Imagin\u00e9",
       "url": "https://open.spotify.com/track/3SERRzMQ0DL3aImY2smoe9"
-    },
-    {
-      "added_at": "2023-08-08 02:05:58",
-      "album": {
-        "name": "Teorema",
-        "url": "https://open.spotify.com/album/4BrZpyJrJ3cPWgqIr6FLIU"
-      },
-      "artists": [
-        {
-          "name": "Movimiento Original",
-          "url": "https://open.spotify.com/artist/50u2mXgysmTttY0BizYWAo"
-        }
-      ],
-      "duration_ms": 204125,
-      "name": "Natural",
-      "url": "https://open.spotify.com/track/3tsBwY0wRBkiy8EBOY3O7z"
     },
     {
       "added_at": "2023-08-08 02:05:58",
@@ -1443,22 +1443,6 @@
     {
       "added_at": "2023-08-08 02:05:58",
       "album": {
-        "name": "Faruz Fit, Vol. 1",
-        "url": "https://open.spotify.com/album/4Uo5YhvoKTSbSGjv8iv9DL"
-      },
-      "artists": [
-        {
-          "name": "Faruz Feet",
-          "url": "https://open.spotify.com/artist/6tJRAxu0HwB2GI9GueEj4l"
-        }
-      ],
-      "duration_ms": 204214,
-      "name": "Natural",
-      "url": "https://open.spotify.com/track/4awFUpxIo94l8m7DpQwD8e"
-    },
-    {
-      "added_at": "2023-08-08 02:05:58",
-      "album": {
         "name": "Apaga el celular",
         "url": "https://open.spotify.com/album/4hl6j5ZMGsCxBhw3BuDDbK"
       },
@@ -1475,6 +1459,22 @@
     {
       "added_at": "2023-08-08 02:05:58",
       "album": {
+        "name": "Faruz Fit, Vol. 1",
+        "url": "https://open.spotify.com/album/4Uo5YhvoKTSbSGjv8iv9DL"
+      },
+      "artists": [
+        {
+          "name": "Faruz Feet",
+          "url": "https://open.spotify.com/artist/6tJRAxu0HwB2GI9GueEj4l"
+        }
+      ],
+      "duration_ms": 204214,
+      "name": "Natural",
+      "url": "https://open.spotify.com/track/4awFUpxIo94l8m7DpQwD8e"
+    },
+    {
+      "added_at": "2023-08-08 02:05:58",
+      "album": {
         "name": "Rolemos Otro",
         "url": "https://open.spotify.com/album/01AooA3ywuIEk6EQaoWjh3"
       },
@@ -1487,6 +1487,22 @@
       "duration_ms": 194828,
       "name": "Rolemos Otro",
       "url": "https://open.spotify.com/track/75WXBeClIQQl6ql1nZbDF5"
+    },
+    {
+      "added_at": "2023-08-08 02:05:58",
+      "album": {
+        "name": "Vivir para Contarlo",
+        "url": "https://open.spotify.com/album/6LeLj7gigY7PBgPVZ6P25f"
+      },
+      "artists": [
+        {
+          "name": "Violadores Del Verso",
+          "url": "https://open.spotify.com/artist/1DH9RJ0xBVje6gQmK3LWUY"
+        }
+      ],
+      "duration_ms": 332853,
+      "name": "Cantando",
+      "url": "https://open.spotify.com/track/5AIwfXYjGkWCs4KeeTk2Rq"
     },
     {
       "added_at": "2023-08-08 02:05:58",
@@ -1515,22 +1531,6 @@
       "duration_ms": 271733,
       "name": "Pavos Reales (con Hermano L, Shabu One Shant y Mcklopedia)",
       "url": "https://open.spotify.com/track/4HVYBeELSvhfGmWwFoZr4p"
-    },
-    {
-      "added_at": "2023-08-08 02:05:58",
-      "album": {
-        "name": "Vivir para Contarlo",
-        "url": "https://open.spotify.com/album/6LeLj7gigY7PBgPVZ6P25f"
-      },
-      "artists": [
-        {
-          "name": "Violadores Del Verso",
-          "url": "https://open.spotify.com/artist/1DH9RJ0xBVje6gQmK3LWUY"
-        }
-      ],
-      "duration_ms": 332853,
-      "name": "Cantando",
-      "url": "https://open.spotify.com/track/5AIwfXYjGkWCs4KeeTk2Rq"
     },
     {
       "added_at": "2023-08-08 02:05:58",
@@ -1615,22 +1615,6 @@
     {
       "added_at": "2023-08-08 02:05:58",
       "album": {
-        "name": "Minotauro",
-        "url": "https://open.spotify.com/album/2hAcA9mRxXHUvAJ5SIj1dg"
-      },
-      "artists": [
-        {
-          "name": "Proof",
-          "url": "https://open.spotify.com/artist/2Gcx4c9rFAAloAYV2cMGUd"
-        }
-      ],
-      "duration_ms": 245958,
-      "name": "Minotauro",
-      "url": "https://open.spotify.com/track/3EaQ8vn5i8TUyE5jmSAn2U"
-    },
-    {
-      "added_at": "2023-08-08 02:05:58",
-      "album": {
         "name": "Los Grandes \u00c9xitos En Espa\u00f1ol (Spanish Greatest Hits)",
         "url": "https://open.spotify.com/album/7u6yoSRjIBM2EI52DJLMkZ"
       },
@@ -1647,6 +1631,22 @@
       "duration_ms": 237760,
       "name": "Siempre Peligroso (feat. Fermin IV Caballero)",
       "url": "https://open.spotify.com/track/1hSJnfkEqbGF5afz5aqKqi"
+    },
+    {
+      "added_at": "2023-08-08 02:05:58",
+      "album": {
+        "name": "Minotauro",
+        "url": "https://open.spotify.com/album/2hAcA9mRxXHUvAJ5SIj1dg"
+      },
+      "artists": [
+        {
+          "name": "Proof",
+          "url": "https://open.spotify.com/artist/2Gcx4c9rFAAloAYV2cMGUd"
+        }
+      ],
+      "duration_ms": 245958,
+      "name": "Minotauro",
+      "url": "https://open.spotify.com/track/3EaQ8vn5i8TUyE5jmSAn2U"
     },
     {
       "added_at": "2023-08-08 02:05:58",

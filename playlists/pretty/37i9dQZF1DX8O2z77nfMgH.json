@@ -1,12 +1,12 @@
 {
   "description": "Lanzamientos de la semana. M\u00fasica nueva de toda la regi\u00f3n. Foto: Kali Uchis",
-  "num_followers": 929316,
+  "num_followers": 929331,
   "original_name": "Novedades Viernes Latinoam\u00e9rica",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzOWZkY2UzYjJmNmMwYjkwNjNkNWE2NzQyNDdkYmMxZDFlNmE5Yjkx",
+  "snapshot_id": "MCxkY2RmOWFmODAxMDhjZTExYTM3ZWEyN2U1MDZmZWQwYmJhNGVkNDUx",
   "tracks": [
     {
       "added_at": "2023-10-20 13:31:24",
@@ -351,13 +351,17 @@
     {
       "added_at": "2023-10-20 13:31:24",
       "album": {
-        "name": "Bienvenidos a mi barrio",
+        "name": "Bienvenidos a Mi Barrio",
         "url": "https://open.spotify.com/album/7c6XRLWcvCYf5slViBDKmF"
       },
       "artists": [
         {
           "name": "Callejero Fino",
           "url": "https://open.spotify.com/artist/6GRwwWAtmusrgAL5JF9Dfr"
+        },
+        {
+          "name": "DJ Tao",
+          "url": "https://open.spotify.com/artist/5CA5IqbsFr4hpNLdjgO0BU"
         }
       ],
       "duration_ms": 173329,

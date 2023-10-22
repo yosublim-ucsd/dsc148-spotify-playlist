@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Hungary.
 
-919 songs - 2 day 0 hr 0 min
+920 songs - 2 day 0 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -168,7 +168,7 @@
 | [Csakaszesz](https://open.spotify.com/track/1oE9IMmIrHx7DPIFL43WEn) | [KKevin](https://open.spotify.com/artist/2O9w0WQhGtr7oQWG6nUqh5) | [Nitro](https://open.spotify.com/album/58zbBHgXAqP06UBBjwOSs5) | 2:37 | 2023-06-23 | 2023-08-24 |
 | [Csakaszesz](https://open.spotify.com/track/623u7OpPyVRc77cGOlX65n) | [KKevin](https://open.spotify.com/artist/2O9w0WQhGtr7oQWG6nUqh5) | [Csakaszesz](https://open.spotify.com/album/3bvEZQLNygrRkdyf5J9I8k) | 2:37 | 2023-05-27 | 2023-06-24 |
 | [Csavargó](https://open.spotify.com/track/1jI95q1ZSLZuVNdOMwaoUL) | [KKevin](https://open.spotify.com/artist/2O9w0WQhGtr7oQWG6nUqh5), [L.L\. Junior](https://open.spotify.com/artist/3cG03cMdrtBCrmM0843f9O) | [Csavargó](https://open.spotify.com/album/7brKQyvjCymITjb8SEZiZe) | 2:54 | 2023-01-23 | 2023-10-11 |
-| [Csinibaba](https://open.spotify.com/track/33zWUivvsRkfnOYx4FUmPt) | [Kiss Kevin](https://open.spotify.com/artist/2qiyCYzYvsFEsMn1gSMNed) | [Csinibaba](https://open.spotify.com/album/21YFZ4eoDDoj1KPnhhFaY7) | 2:30 | 2022-09-22 |  |
+| [Csinibaba](https://open.spotify.com/track/33zWUivvsRkfnOYx4FUmPt) | [Kiss Kevin](https://open.spotify.com/artist/2qiyCYzYvsFEsMn1gSMNed) | [Csinibaba](https://open.spotify.com/album/21YFZ4eoDDoj1KPnhhFaY7) | 2:30 | 2022-09-22 | 2023-10-22 |
 | [Csirió](https://open.spotify.com/track/0jJVsraMUoXKk8SCiE5fQz) | [T\. Danny](https://open.spotify.com/artist/3RDALl5RyRDHPryF1uyWwG), [KKevin](https://open.spotify.com/artist/2O9w0WQhGtr7oQWG6nUqh5) | [AZ ALBUM](https://open.spotify.com/album/3TqmUOKPmFUO7Dg3VDgEXN) | 2:28 | 2023-02-24 | 2023-04-09 |
 | [Csirió](https://open.spotify.com/track/6OP0vGVuzlr50nFFAEDhlN) | [T\. Danny](https://open.spotify.com/artist/3RDALl5RyRDHPryF1uyWwG), [KKevin](https://open.spotify.com/artist/2O9w0WQhGtr7oQWG6nUqh5) | [Csirió](https://open.spotify.com/album/0CF7rMETFQHiS26Vp4se5v) | 2:28 | 2023-02-07 | 2023-02-25 |
 | [Csokko](https://open.spotify.com/track/38qhsm0c4QVk6BMhtvZFWv) | [ByeAlex és a Slepp](https://open.spotify.com/artist/2dmFGufs1lJpgKnb5NyPNS) | [Csokko](https://open.spotify.com/album/72PNr1fXIAE9PXpbMaIT7o) | 2:42 | 2023-04-21 | 2023-09-03 |
@@ -560,6 +560,7 @@
 | [Még Egyszer](https://open.spotify.com/track/5FCNUpLjSpMdb3dJV83EQi) | [T\. Danny](https://open.spotify.com/artist/3RDALl5RyRDHPryF1uyWwG) | [Még Egyszer](https://open.spotify.com/album/5czNnCtX4HeOlSWmr0DoV5) | 2:36 | 2022-01-28 | 2022-02-26 |
 | [N95](https://open.spotify.com/track/2FeBslNBMdR9V58uv6hd2t) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [Mr\. Morale & The Big Steppers](https://open.spotify.com/album/1atjqOZTCdrjxjMyCPZc2g) | 3:15 | 2022-05-14 | 2022-05-31 |
 | [Na Csumi](https://open.spotify.com/track/44xRCZ5b6sWKtK1QdBgCie) | [T\. Danny](https://open.spotify.com/artist/3RDALl5RyRDHPryF1uyWwG) | [AZ ALBUM](https://open.spotify.com/album/3TqmUOKPmFUO7Dg3VDgEXN) | 1:56 | 2023-02-24 | 2023-03-02 |
+| [Nagy a zaj](https://open.spotify.com/track/03x6Xr8YYjQB1m7rmEIubA) | [Aza](https://open.spotify.com/artist/2WLKFllDVAhtb60gNHJGUH), [Azahriah](https://open.spotify.com/artist/6EIriUxo7vznEgJtTDlXpq) | [Nagy a zaj](https://open.spotify.com/album/4wJNylQFGcI1clSiiNuMbT) | 3:00 | 2023-10-21 |  |
 | [NAGYKABÁT \(ne játszd az agyad\)](https://open.spotify.com/track/2E1E9HnhYHAbiwkBorPV1Q) | [Carson Coma](https://open.spotify.com/artist/1q7g5SBAxtjizS3Vcof6Y6) | [IV](https://open.spotify.com/album/0nPDuXV2pZFJbBcI7VNCw3) | 3:25 | 2023-06-02 | 2023-06-04 |
 | [NDA](https://open.spotify.com/track/38GBNKZUhfBkk3oNlWzRYd) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [Happier Than Ever](https://open.spotify.com/album/0JGOiO34nwfUdDrD612dOp) | 3:15 | 2021-08-05 | 2021-08-06 |
 | [NDA](https://open.spotify.com/track/6uqyE384HDSsuwpoF4mjrL) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [NDA](https://open.spotify.com/album/6pFgyYC8zPwVPPS4cbJO29) | 3:15 | 2021-07-11 | 2021-07-18 |

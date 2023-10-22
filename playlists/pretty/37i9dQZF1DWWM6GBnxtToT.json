@@ -1,12 +1,12 @@
 {
   "description": "Diese Songs zaubern dir ein Grinsen ins Gesicht.",
-  "num_followers": 576977,
+  "num_followers": 577107,
   "original_name": "Feelgood Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwODVjODQ1NjM1ZGI0NmE4MzU5ZmU0YjkxOTNkMTk1ODFlMzVkOGRl",
+  "snapshot_id": "MCw1NzM5NTllMDUxMGVhN2Y5ZWE4YzI5MWI4YzgzMDllY2RkY2VmM2Uy",
   "tracks": [
     {
       "added_at": "2023-10-19 09:54:20",
@@ -255,22 +255,6 @@
     {
       "added_at": "2023-10-19 09:54:20",
       "album": {
-        "name": "Chaise Longue",
-        "url": "https://open.spotify.com/album/2X6hKiTx3P5LGBEvc8oJq6"
-      },
-      "artists": [
-        {
-          "name": "Wet Leg",
-          "url": "https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ"
-        }
-      ],
-      "duration_ms": 196905,
-      "name": "Chaise Longue",
-      "url": "https://open.spotify.com/track/7iqAuZe5yS0suLQcFfVK39"
-    },
-    {
-      "added_at": "2023-10-19 09:54:20",
-      "album": {
         "name": "Polydans",
         "url": "https://open.spotify.com/album/4jsQ9yGCEyEjjQzcsICK2U"
       },
@@ -283,6 +267,22 @@
       "duration_ms": 220726,
       "name": "Strangers",
       "url": "https://open.spotify.com/track/6VS4OTcpylKl984tzFYC11"
+    },
+    {
+      "added_at": "2023-10-19 09:54:20",
+      "album": {
+        "name": "Chaise Longue",
+        "url": "https://open.spotify.com/album/2X6hKiTx3P5LGBEvc8oJq6"
+      },
+      "artists": [
+        {
+          "name": "Wet Leg",
+          "url": "https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ"
+        }
+      ],
+      "duration_ms": 196905,
+      "name": "Chaise Longue",
+      "url": "https://open.spotify.com/track/7iqAuZe5yS0suLQcFfVK39"
     },
     {
       "added_at": "2023-10-19 09:54:20",
@@ -695,22 +695,6 @@
     {
       "added_at": "2023-10-19 09:54:20",
       "album": {
-        "name": "Demons",
-        "url": "https://open.spotify.com/album/2aiprMxQgmNnlEMRWKdR6n"
-      },
-      "artists": [
-        {
-          "name": "Yeah But No",
-          "url": "https://open.spotify.com/artist/0ItjeUHfPa2W8ZMP7wi12J"
-        }
-      ],
-      "duration_ms": 214826,
-      "name": "Run Run Run",
-      "url": "https://open.spotify.com/track/5BiNNRfucEIJ62KyjDP81B"
-    },
-    {
-      "added_at": "2023-10-19 09:54:20",
-      "album": {
         "name": "Around The Sun",
         "url": "https://open.spotify.com/album/2l6iKC0utkn2ADXNN8KpyB"
       },
@@ -727,6 +711,22 @@
       "duration_ms": 234493,
       "name": "Around The Sun",
       "url": "https://open.spotify.com/track/0VrdF2Q4bSf5DWCnEPii0P"
+    },
+    {
+      "added_at": "2023-10-19 09:54:20",
+      "album": {
+        "name": "Demons",
+        "url": "https://open.spotify.com/album/2aiprMxQgmNnlEMRWKdR6n"
+      },
+      "artists": [
+        {
+          "name": "Yeah But No",
+          "url": "https://open.spotify.com/artist/0ItjeUHfPa2W8ZMP7wi12J"
+        }
+      ],
+      "duration_ms": 214826,
+      "name": "Run Run Run",
+      "url": "https://open.spotify.com/track/5BiNNRfucEIJ62KyjDP81B"
     },
     {
       "added_at": "2023-10-19 09:54:20",
@@ -1015,22 +1015,6 @@
     {
       "added_at": "2023-10-19 09:54:20",
       "album": {
-        "name": "Good Mmornin",
-        "url": "https://open.spotify.com/album/3FoDNOhHqVS1c9mw6NJW3T"
-      },
-      "artists": [
-        {
-          "name": "Rayland Baxter",
-          "url": "https://open.spotify.com/artist/251UrhgNbMr15NLzQ2KyKq"
-        }
-      ],
-      "duration_ms": 336506,
-      "name": "Small Worlds",
-      "url": "https://open.spotify.com/track/1Wi0vXVg2cAXmfkrHwoQx4"
-    },
-    {
-      "added_at": "2023-10-19 09:54:20",
-      "album": {
         "name": "Polydans",
         "url": "https://open.spotify.com/album/4jsQ9yGCEyEjjQzcsICK2U"
       },
@@ -1043,6 +1027,22 @@
       "duration_ms": 262798,
       "name": "See You Again",
       "url": "https://open.spotify.com/track/09RYDCoPd0hiw5RS1gEK8i"
+    },
+    {
+      "added_at": "2023-10-19 09:54:20",
+      "album": {
+        "name": "Good Mmornin",
+        "url": "https://open.spotify.com/album/3FoDNOhHqVS1c9mw6NJW3T"
+      },
+      "artists": [
+        {
+          "name": "Rayland Baxter",
+          "url": "https://open.spotify.com/artist/251UrhgNbMr15NLzQ2KyKq"
+        }
+      ],
+      "duration_ms": 336506,
+      "name": "Small Worlds",
+      "url": "https://open.spotify.com/track/1Wi0vXVg2cAXmfkrHwoQx4"
     },
     {
       "added_at": "2023-10-19 09:54:20",
@@ -1083,22 +1083,6 @@
     {
       "added_at": "2023-10-19 09:54:20",
       "album": {
-        "name": "Go Out",
-        "url": "https://open.spotify.com/album/2z6JzCGNzecll4UW7BSDm4"
-      },
-      "artists": [
-        {
-          "name": "KYTES",
-          "url": "https://open.spotify.com/artist/1q8H46YhdCtAO8tXHIWe2d"
-        }
-      ],
-      "duration_ms": 154452,
-      "name": "Go Out",
-      "url": "https://open.spotify.com/track/7sDwxV8qrVNdxvljSkjp0n"
-    },
-    {
-      "added_at": "2023-10-19 09:54:20",
-      "album": {
         "name": "Mellow Moon",
         "url": "https://open.spotify.com/album/2v64PkXSyny26cEsuEyGzr"
       },
@@ -1115,6 +1099,22 @@
     {
       "added_at": "2023-10-19 09:54:20",
       "album": {
+        "name": "Go Out",
+        "url": "https://open.spotify.com/album/2z6JzCGNzecll4UW7BSDm4"
+      },
+      "artists": [
+        {
+          "name": "KYTES",
+          "url": "https://open.spotify.com/artist/1q8H46YhdCtAO8tXHIWe2d"
+        }
+      ],
+      "duration_ms": 154452,
+      "name": "Go Out",
+      "url": "https://open.spotify.com/track/7sDwxV8qrVNdxvljSkjp0n"
+    },
+    {
+      "added_at": "2023-10-19 09:54:20",
+      "album": {
         "name": "Here, Right Now",
         "url": "https://open.spotify.com/album/0pz6QxOt98LbnryystoGza"
       },
@@ -1127,6 +1127,26 @@
       "duration_ms": 175560,
       "name": "Going with You",
       "url": "https://open.spotify.com/track/6QKC7DcD9RcR3coic9d2oD"
+    },
+    {
+      "added_at": "2023-10-19 09:54:20",
+      "album": {
+        "name": "Passion (feat. Nile Rodgers)",
+        "url": "https://open.spotify.com/album/3PPX05eUVd7M3SBnU3Ev5I"
+      },
+      "artists": [
+        {
+          "name": "Roosevelt",
+          "url": "https://open.spotify.com/artist/4AQrqVz6BYwy29iMxcGtx7"
+        },
+        {
+          "name": "Nile Rodgers",
+          "url": "https://open.spotify.com/artist/3yDIp0kaq9EFKe07X1X2rz"
+        }
+      ],
+      "duration_ms": 221135,
+      "name": "Passion (feat. Nile Rodgers)",
+      "url": "https://open.spotify.com/track/7jtdG988aYR7IkFObSWfJe"
     },
     {
       "added_at": "2023-10-19 09:54:20",
@@ -1163,26 +1183,6 @@
     {
       "added_at": "2023-10-19 09:54:20",
       "album": {
-        "name": "Hole Digger",
-        "url": "https://open.spotify.com/album/0A6bncjAHwmgyeHkmlzvWb"
-      },
-      "artists": [
-        {
-          "name": "Camel Power Club",
-          "url": "https://open.spotify.com/artist/2ziSUHAT6LbHKCJIlwHhDG"
-        },
-        {
-          "name": "Desingly",
-          "url": "https://open.spotify.com/artist/7e75N4iueWn6bCBMR74oWd"
-        }
-      ],
-      "duration_ms": 185076,
-      "name": "Hole Digger",
-      "url": "https://open.spotify.com/track/3UCg61B7K1MYvxhIrR83jf"
-    },
-    {
-      "added_at": "2023-10-19 09:54:20",
-      "album": {
         "name": "Bleach",
         "url": "https://open.spotify.com/album/4LqbOcnsIgwtuzrcxHMq2L"
       },
@@ -1199,22 +1199,22 @@
     {
       "added_at": "2023-10-19 09:54:20",
       "album": {
-        "name": "Passion (feat. Nile Rodgers)",
-        "url": "https://open.spotify.com/album/3PPX05eUVd7M3SBnU3Ev5I"
+        "name": "Hole Digger",
+        "url": "https://open.spotify.com/album/0A6bncjAHwmgyeHkmlzvWb"
       },
       "artists": [
         {
-          "name": "Roosevelt",
-          "url": "https://open.spotify.com/artist/4AQrqVz6BYwy29iMxcGtx7"
+          "name": "Camel Power Club",
+          "url": "https://open.spotify.com/artist/2ziSUHAT6LbHKCJIlwHhDG"
         },
         {
-          "name": "Nile Rodgers",
-          "url": "https://open.spotify.com/artist/3yDIp0kaq9EFKe07X1X2rz"
+          "name": "Desingly",
+          "url": "https://open.spotify.com/artist/7e75N4iueWn6bCBMR74oWd"
         }
       ],
-      "duration_ms": 221135,
-      "name": "Passion (feat. Nile Rodgers)",
-      "url": "https://open.spotify.com/track/7jtdG988aYR7IkFObSWfJe"
+      "duration_ms": 185076,
+      "name": "Hole Digger",
+      "url": "https://open.spotify.com/track/3UCg61B7K1MYvxhIrR83jf"
     },
     {
       "added_at": "2023-10-19 09:54:20",
@@ -1319,22 +1319,6 @@
     {
       "added_at": "2023-10-19 09:54:20",
       "album": {
-        "name": "Twister",
-        "url": "https://open.spotify.com/album/0fjgBCuKoWbHTcKNcr5uYc"
-      },
-      "artists": [
-        {
-          "name": "LEISURE",
-          "url": "https://open.spotify.com/artist/7b04D0yLktCUpvxQBhmG7R"
-        }
-      ],
-      "duration_ms": 216626,
-      "name": "On My Mind",
-      "url": "https://open.spotify.com/track/5QMfuFrKuULYDpWJo0bbeo"
-    },
-    {
-      "added_at": "2023-10-19 09:54:20",
-      "album": {
         "name": "Kalif Onya",
         "url": "https://open.spotify.com/album/0CrAZ1bf2mckuZSGsLckDl"
       },
@@ -1351,18 +1335,18 @@
     {
       "added_at": "2023-10-19 09:54:20",
       "album": {
-        "name": "How 2 Dance",
-        "url": "https://open.spotify.com/album/6wMFBGcgf2wz0WpBnOizLp"
+        "name": "Twister",
+        "url": "https://open.spotify.com/album/0fjgBCuKoWbHTcKNcr5uYc"
       },
       "artists": [
         {
-          "name": "Kaiser Chiefs",
-          "url": "https://open.spotify.com/artist/0LbLWjaweRbO4FDKYlbfNt"
+          "name": "LEISURE",
+          "url": "https://open.spotify.com/artist/7b04D0yLktCUpvxQBhmG7R"
         }
       ],
-      "duration_ms": 163987,
-      "name": "How 2 Dance",
-      "url": "https://open.spotify.com/track/5zRxPWBznEa5HAc3TQbQMb"
+      "duration_ms": 216626,
+      "name": "On My Mind",
+      "url": "https://open.spotify.com/track/5QMfuFrKuULYDpWJo0bbeo"
     },
     {
       "added_at": "2023-10-19 09:54:20",
@@ -1379,6 +1363,22 @@
       "duration_ms": 198510,
       "name": "Little Lucille",
       "url": "https://open.spotify.com/track/4EZMIxbJgUQnz6ZhW9924G"
+    },
+    {
+      "added_at": "2023-10-19 09:54:20",
+      "album": {
+        "name": "How 2 Dance",
+        "url": "https://open.spotify.com/album/6wMFBGcgf2wz0WpBnOizLp"
+      },
+      "artists": [
+        {
+          "name": "Kaiser Chiefs",
+          "url": "https://open.spotify.com/artist/0LbLWjaweRbO4FDKYlbfNt"
+        }
+      ],
+      "duration_ms": 163987,
+      "name": "How 2 Dance",
+      "url": "https://open.spotify.com/track/5zRxPWBznEa5HAc3TQbQMb"
     },
     {
       "added_at": "2023-10-19 09:54:20",

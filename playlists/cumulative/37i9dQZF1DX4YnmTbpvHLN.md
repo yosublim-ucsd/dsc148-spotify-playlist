@@ -4,7 +4,7 @@
 
 > Degusta de lo más delicioso para cenar.
 
-384 songs - 1 day 0 hr 33 min
+386 songs - 1 day 0 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -80,6 +80,7 @@
 | [Clear as Autumn Nights](https://open.spotify.com/track/2PVMfghJc3ayLHjGbGjg3J) | [Martin Landström](https://open.spotify.com/artist/4S6bYPPOxQPs9hSnUBbGBN) | [This Is What I Want for Christmas](https://open.spotify.com/album/6auL7NTcuJr1TVvUcxizeV) | 5:01 | 2022-06-29 |  |
 | [Clear Out](https://open.spotify.com/track/0YEVAn2vGbx9jI7xY6Fguf) | [Annie Berenson](https://open.spotify.com/artist/1R3a9JWK2lSTjSr2Dw9Qay) | [Clear Out](https://open.spotify.com/album/2UAUzLv0n1w1QQ8U6iR2JU) | 3:25 | 2023-09-22 |  |
 | [Clear Sight](https://open.spotify.com/track/6LLyyfz8BYrHtd3yPkrPad) | [Midtown Trio](https://open.spotify.com/artist/6WVEwzrXXaJ8JTk1KLkleT) | [Clear Sight](https://open.spotify.com/album/7HPrgW1TsSF5rZAUoGKX4S) | 2:47 | 2022-09-29 |  |
+| [Closing Time](https://open.spotify.com/track/2qLTH8o4woaUd81rgUAeZp) | [The Southern Belle](https://open.spotify.com/artist/7b5QwOkTlJ9LVWJfofwAWV) | [Closing Time](https://open.spotify.com/album/6uvsg6dcwLw85DY6z4jMvh) | 3:36 | 2023-10-20 |  |
 | [Come on..\. Lucky!](https://open.spotify.com/track/0gyjqALKXPICWiV5j7Bddn) | [The Three Queens](https://open.spotify.com/artist/0Rk4ZISv9eXs3Thg7rco7h) | [Come on..\. Lucky!](https://open.spotify.com/album/29N1R6VjY2ynfNJwAXROnX) | 2:44 | 2023-04-20 |  |
 | [Comeuppance](https://open.spotify.com/track/3iU2rkahLELzejRd4zhtK8) | [Clover Post](https://open.spotify.com/artist/2XWP1prJQm6CLoHKAqXCEz) | [Comeuppance](https://open.spotify.com/album/0i12bOmKWymeeCHCTzj7En) | 4:35 | 2022-12-23 |  |
 | [Conceptions](https://open.spotify.com/track/1WmWY8MVCl3iPZ4u1k9sLa) | [Mitch Coleman](https://open.spotify.com/artist/5YyVZ8kxK9sRVEg1pBh1PV) | [Conceptions](https://open.spotify.com/album/2wjpd8DCfjtzzKxc9p2dvw) | 3:16 | 2023-01-12 |  |
@@ -120,10 +121,10 @@
 | [Food is the dream](https://open.spotify.com/track/0w0fqaQcl9OFquSsm7Gjqm) | [Dan Evans\-Parker](https://open.spotify.com/artist/4OSxWbYWRbUZzmkKS6PRM4) | [Food is the dream](https://open.spotify.com/album/5yzCocNQq9wnxBlQ6YFcOq) | 2:21 | 2023-08-11 |  |
 | [Fools Rush In](https://open.spotify.com/track/1POSSxzIB7fLcHDDfbmjDZ) | [The Southern Belle](https://open.spotify.com/artist/7b5QwOkTlJ9LVWJfofwAWV) | [Fools Rush In](https://open.spotify.com/album/2L8LchgYAzo2n0vuR5kYk7) | 4:33 | 2022-12-01 |  |
 | [For a While](https://open.spotify.com/track/3M8PoIsAz4I62I71qPTQd4) | [Anita Rosswell](https://open.spotify.com/artist/6Qer09QopgWLGMd601P0Zk) | [For a While](https://open.spotify.com/album/74HIDxeupE887o5N8kaTrj) | 3:55 | 2022-06-29 |  |
-| [For All We Know](https://open.spotify.com/track/0Y79Rig8KQP92y2npdG66D) | [Christian Warner Band](https://open.spotify.com/artist/33v9UFXH7pCXb4kmEz91SF) | [Estrellita](https://open.spotify.com/album/5nam9UDpTq9AqnwtSSBUdj) | 4:58 | 2022-06-29 |  |
+| [For All We Know](https://open.spotify.com/track/0Y79Rig8KQP92y2npdG66D) | [Christian Warner Band](https://open.spotify.com/artist/33v9UFXH7pCXb4kmEz91SF) | [Estrellita](https://open.spotify.com/album/5nam9UDpTq9AqnwtSSBUdj) | 4:58 | 2022-06-29 | 2023-10-22 |
 | [For Ellen](https://open.spotify.com/track/3TPSdihMAJJgLL9JP02puJ) | [High North Trio](https://open.spotify.com/artist/4ecpTLtCqe62hwHasUcfUY) | [For Ellen](https://open.spotify.com/album/10WEn2GOYd9c6rPhxv4h8Q) | 3:18 | 2022-06-29 |  |
 | [For the First Time](https://open.spotify.com/track/2BlPcDhmDzUyD5cWFyvmoy) | [Tom Stills Quartet](https://open.spotify.com/artist/2AE39jS64KnonFYcLHAUv0) | [For the First Time](https://open.spotify.com/album/09juioZQplX39Yj4EDyYWN) | 4:34 | 2022-06-29 |  |
-| [Forever](https://open.spotify.com/track/7eIBRnjrFylXHqi7EZ0cHz) | [Wildflower Trio](https://open.spotify.com/artist/201JTvpknVv2BZgtwDaQH6) | [Forever](https://open.spotify.com/album/1hvk3jX5E5WHgGzY3DYGw4) | 3:07 | 2023-10-20 | 2023-10-21 |
+| [Forever](https://open.spotify.com/track/7eIBRnjrFylXHqi7EZ0cHz) | [Wildflower Trio](https://open.spotify.com/artist/201JTvpknVv2BZgtwDaQH6) | [Forever](https://open.spotify.com/album/1hvk3jX5E5WHgGzY3DYGw4) | 3:07 | 2023-10-20 |  |
 | [Forever and Always](https://open.spotify.com/track/5SLaynsQunaaRIQ6uhCJu6) | [The Dox Band](https://open.spotify.com/artist/5nk8TLI3DoGV9Fyaa7V9JL) | [Forever and Always](https://open.spotify.com/album/4nglRTnyGlgMkRGJf35pzU) | 3:58 | 2023-05-04 |  |
 | [Forever and ever](https://open.spotify.com/track/2ydGIFOEzRCyMXr4ZolD6j) | [Norberg](https://open.spotify.com/artist/4clALHmaxBpsJ0aWHb3Rdy) | [Forever and ever](https://open.spotify.com/album/4wxQDdcPhzvEj55fuCDcG8) | 4:19 | 2023-06-09 |  |
 | [Forever Promises](https://open.spotify.com/track/4a1J9yup472zZW604BHbha) | [Magpie Jazz Trio](https://open.spotify.com/artist/4TOpL8dUMkZ1oydrBsfuWf) | [Forever Promises](https://open.spotify.com/album/3N6pPJE8XPhs4CtJTa2YYx) | 3:13 | 2022-11-17 |  |
@@ -144,7 +145,7 @@
 | [How About You](https://open.spotify.com/track/4tVteS21UzbqesfNG7uT8D) | [Neo Fourths Trio](https://open.spotify.com/artist/5lWDE7rJapJvf0NUUHc6xe) | [How About You](https://open.spotify.com/album/5DUxax2EBK8DvoRMmiEi7m) | 3:22 | 2023-10-13 |  |
 | [How Deep Is The Ocean \(How High Is The Sky\)](https://open.spotify.com/track/2yVSmhgifg9zyolZ2FOgPM) | [Ben Webster](https://open.spotify.com/artist/34W7ZCX0LZeJd8q6boKGOk), [Oscar Peterson](https://open.spotify.com/artist/6zkX5fhrSD4tdVOmimR9wB) | [Ben Webster Meets Oscar Peterson](https://open.spotify.com/album/52vxvueV32JO6tZHaSojRZ) | 2:33 | 2022-06-29 |  |
 | [I Could Write A Book](https://open.spotify.com/track/7nbQBpnj4CfKEycYy1dNLT) | [Jacob Schwarz Trio](https://open.spotify.com/artist/4xN1VyTbKQakR98CT0NNfY) | [Jazz Nights](https://open.spotify.com/album/6RT1EEN4J9A229oyoZ6jHM) | 3:09 | 2022-06-29 |  |
-| [I Didn't Know About You](https://open.spotify.com/track/4n3zpZjTVMy3GbguVibX0g) | [Figgy Mold](https://open.spotify.com/artist/1nr44rcCUJR2qL0SKfCOYF) | [I Didn't Know About You](https://open.spotify.com/album/1DArZKNaRwXBjvjY7U9UX4) | 3:50 | 2022-06-29 |  |
+| [I Didn't Know About You](https://open.spotify.com/track/4n3zpZjTVMy3GbguVibX0g) | [Figgy Mold](https://open.spotify.com/artist/1nr44rcCUJR2qL0SKfCOYF) | [I Didn't Know About You](https://open.spotify.com/album/1DArZKNaRwXBjvjY7U9UX4) | 3:50 | 2022-06-29 | 2023-10-22 |
 | [I Fall in Love Too Easily](https://open.spotify.com/track/7kdPpPFzjLo8piKWbuQ0e4) | [Brad Mehldau](https://open.spotify.com/artist/2vI9KFm0fwSfPrpEgOeIbq) | [The Art of the Trio, Vol\. 1](https://open.spotify.com/album/3MIOYuA2uqGXFiwDbBK9Fc) | 7:18 | 2022-06-29 | 2023-09-09 |
 | [I Fall In Love Too Easily](https://open.spotify.com/track/7CFnOzCVrrPbmJk9aCTk9q) | [The Jazz Cultivators](https://open.spotify.com/artist/24LiiowKnaEDD4I3CCdI3v) | [Speak Low](https://open.spotify.com/album/1yGFyTpml5nZFJ692JMOrN) | 3:58 | 2022-06-29 |  |
 | [I Get a Kick Out of You](https://open.spotify.com/track/3nCttR5RYHt0bz1gBBv1UH) | [Gregory Wilf Experience](https://open.spotify.com/artist/3l2vfOjFAJjiiHf3N71Gk4) | [I Get a Kick Out of You](https://open.spotify.com/album/67f9WSsP51Y1F4CRA1SIcD) | 5:26 | 2022-06-29 |  |
@@ -232,7 +233,7 @@
 | [Morii](https://open.spotify.com/track/25uH0QfCoOQ5Jw2c0rXGWf) | [Billy Hicks Quartet](https://open.spotify.com/artist/4ICOVaHa5cPigwgMb9opB5) | [Morii](https://open.spotify.com/album/1ESEXNpgchtK0kal3g1lyo) | 3:48 | 2023-02-16 |  |
 | [Morristown Blue](https://open.spotify.com/track/2yfDEMRiDN5lvCYJiRvefD) | [Mitch Coleman](https://open.spotify.com/artist/5YyVZ8kxK9sRVEg1pBh1PV) | [Morristown Blue](https://open.spotify.com/album/3mvq8WFbWietlyrYBceJPw) | 3:49 | 2023-04-02 |  |
 | [Mulled Wine](https://open.spotify.com/track/0vmKw0Rn07BRuhBBfOqIPq) | [Mabon Clarke Quartet](https://open.spotify.com/artist/1PxVNcTPbAGfnt4i21wDzc) | [Mulled Wine](https://open.spotify.com/album/4CkQOAKGVlc6mjXHRwsKbK) | 3:27 | 2023-04-14 |  |
-| [My Foolish Heart](https://open.spotify.com/track/37edmjxy5GvRtRJy0AzqxI) | [Archie Taylor](https://open.spotify.com/artist/6p8c1ewQ2thcBnDzhkoZaL) | [My Foolish Heart](https://open.spotify.com/album/5B5dPODzC33uqYMkaYwjtu) | 5:10 | 2022-06-29 |  |
+| [My Foolish Heart](https://open.spotify.com/track/37edmjxy5GvRtRJy0AzqxI) | [Archie Taylor](https://open.spotify.com/artist/6p8c1ewQ2thcBnDzhkoZaL) | [My Foolish Heart](https://open.spotify.com/album/5B5dPODzC33uqYMkaYwjtu) | 5:10 | 2022-06-29 | 2023-10-22 |
 | [My Funny Valentine](https://open.spotify.com/track/25ceraPwnnfVyH9wDrudOF) | [Rachel Karpov Quartet](https://open.spotify.com/artist/5lSexwyo0rcjtp4Rmna4y0) | [My Foolish Heart](https://open.spotify.com/album/6eouaRzhxuU4jw30rCkZnK) | 5:16 | 2022-06-29 |  |
 | [My Heart Stood Still](https://open.spotify.com/track/1QbgNds5Ye8BovkywTbliF) | [Baxter Williams](https://open.spotify.com/artist/10yIBprceJrz7GP0BkENlg) | [My Heart Stood Still](https://open.spotify.com/album/2gfF3mlpt7aEvSiSyi1CEj) | 4:06 | 2022-12-01 | 2023-09-09 |
 | [My Heart Stood Still](https://open.spotify.com/track/6lQueMqkFE124HnWZOYFy6) | [Yorkville](https://open.spotify.com/artist/6VR3RgGN43zxy9ckRugsXn) | [My Heart Stood Still](https://open.spotify.com/album/0a85Gg3FchhEyk8qToXqo0) | 3:21 | 2023-04-14 |  |
@@ -383,6 +384,7 @@
 | [You Confuse Me](https://open.spotify.com/track/46WT4GuSWziUJIDtjUJHQr) | [Jeff Laine & Co](https://open.spotify.com/artist/4i2Ps9G6SHd16reEGA5xva) | [You Confuse Me](https://open.spotify.com/album/4lXqZHzOGouVzTh2J2FFip) | 3:11 | 2022-06-29 |  |
 | [You Do Something To Me](https://open.spotify.com/track/064k0lT6tP4AdWull7SSz0) | [Belmont Central](https://open.spotify.com/artist/0A1I0z7snq8RVRDjVA5qzE) | [You Do Something To Me](https://open.spotify.com/album/3Lbgbr1X5ACTAeWIYgsFEU) | 3:10 | 2023-03-28 |  |
 | [You Don't Know What Love Is](https://open.spotify.com/track/4bDk3TKM6kF1MT2Tzek7QJ) | [The Sweetgreens](https://open.spotify.com/artist/106pccUBSkmw5RR27vUT2N) | [You Don't Know What Love Is](https://open.spotify.com/album/3WpU0MCWwrDDqsA3KZQJnt) | 2:30 | 2022-06-29 |  |
+| [You Gave Me That Look](https://open.spotify.com/track/2BBxt787LSuIdPXN6YM3S1) | [Original Three](https://open.spotify.com/artist/0Zi9ASlerELD4nnDLV7wv3) | [You Gave Me That Look](https://open.spotify.com/album/4ZFC18j6lyUKueqtxiorZa) | 5:04 | 2023-10-20 |  |
 | [You Gets You](https://open.spotify.com/track/7iwkqiTANcoolkeTwZygcb) | [Alex Decante](https://open.spotify.com/artist/52Sd0A8IsB2XLpEUIvs6En) | [You Gets You](https://open.spotify.com/album/2czKkrGOjLJ8rLDQnnH3aU) | 3:47 | 2022-06-29 |  |
 | [You Go To My Head](https://open.spotify.com/track/0TR8L8n8nXPvp1JpqdyPcp) | [Lia Riggs Trio](https://open.spotify.com/artist/2CYlWsH8q2kD5tMQUE6Z5U) | [You Go To My Head](https://open.spotify.com/album/7FEy0OXhxkb2FnGRLj7XbS) | 4:29 | 2022-06-29 |  |
 | [You Go To My Heart](https://open.spotify.com/track/43bLhZkulGIf55O7fpRRok) | [Darlington](https://open.spotify.com/artist/6Kv77H8NfrNdRoGMCeuIVz) | [You Go To My Heart](https://open.spotify.com/album/370Ld8YCqxXQvHIyAh7Efy) | 3:41 | 2023-04-14 |  |

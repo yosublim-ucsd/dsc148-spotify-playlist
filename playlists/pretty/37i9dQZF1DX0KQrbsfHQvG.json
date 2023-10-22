@@ -1,12 +1,12 @@
 {
   "description": "Get up. Stand up. Be the revolution.",
-  "num_followers": 187485,
+  "num_followers": 187545,
   "original_name": "Rise Up",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjYTUwNjc4Mzc2NTI2NDg3YTM2MTliODg4OTg3YWRkYTc3N2ZjN2Yz",
+  "snapshot_id": "MCxhMDk2OTdlNWIwYTBlNDU0ZGI0Y2I1NzAzMzY5YjNkZWMxYzA3NzFm",
   "tracks": [
     {
       "added_at": "2023-06-23 04:01:00",
@@ -643,22 +643,6 @@
     {
       "added_at": "2023-06-23 04:01:00",
       "album": {
-        "name": "Prophets Of Rage",
-        "url": "https://open.spotify.com/album/3SQmvD9SGyuJEqLKGVLX8j"
-      },
-      "artists": [
-        {
-          "name": "Prophets Of Rage",
-          "url": "https://open.spotify.com/artist/1fSzW5cXBmquli5laFnoGY"
-        }
-      ],
-      "duration_ms": 190180,
-      "name": "Prophets Of Rage",
-      "url": "https://open.spotify.com/track/1bTVbi6uwmGwlsXy2soxpg"
-    },
-    {
-      "added_at": "2023-06-23 04:01:00",
-      "album": {
         "name": "Us and Them (Deluxe Edition)",
         "url": "https://open.spotify.com/album/311sQUy4H8IFHsY9j8kx5q"
       },
@@ -675,18 +659,18 @@
     {
       "added_at": "2023-06-23 04:01:00",
       "album": {
-        "name": "21st Century Liability",
-        "url": "https://open.spotify.com/album/1p64R5tjTpC2oH24YLdQgq"
+        "name": "Prophets Of Rage",
+        "url": "https://open.spotify.com/album/3SQmvD9SGyuJEqLKGVLX8j"
       },
       "artists": [
         {
-          "name": "YUNGBLUD",
-          "url": "https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW"
+          "name": "Prophets Of Rage",
+          "url": "https://open.spotify.com/artist/1fSzW5cXBmquli5laFnoGY"
         }
       ],
-      "duration_ms": 193371,
-      "name": "Machine Gun (F**k The NRA)",
-      "url": "https://open.spotify.com/track/223Ng7eyUcCmFwX9lZdqjD"
+      "duration_ms": 190180,
+      "name": "Prophets Of Rage",
+      "url": "https://open.spotify.com/track/1bTVbi6uwmGwlsXy2soxpg"
     },
     {
       "added_at": "2023-06-23 04:01:00",
@@ -703,6 +687,22 @@
       "duration_ms": 281626,
       "name": "The Doomed",
       "url": "https://open.spotify.com/track/44OUZyiPnJc4pOZw4J6pid"
+    },
+    {
+      "added_at": "2023-06-23 04:01:00",
+      "album": {
+        "name": "21st Century Liability",
+        "url": "https://open.spotify.com/album/1p64R5tjTpC2oH24YLdQgq"
+      },
+      "artists": [
+        {
+          "name": "YUNGBLUD",
+          "url": "https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW"
+        }
+      ],
+      "duration_ms": 193371,
+      "name": "Machine Gun (F**k The NRA)",
+      "url": "https://open.spotify.com/track/223Ng7eyUcCmFwX9lZdqjD"
     },
     {
       "added_at": "2023-06-23 04:01:00",
@@ -807,22 +807,6 @@
     {
       "added_at": "2023-06-23 04:01:00",
       "album": {
-        "name": "21st Century Liability",
-        "url": "https://open.spotify.com/album/1p64R5tjTpC2oH24YLdQgq"
-      },
-      "artists": [
-        {
-          "name": "YUNGBLUD",
-          "url": "https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW"
-        }
-      ],
-      "duration_ms": 189262,
-      "name": "21st Century Liability",
-      "url": "https://open.spotify.com/track/5tJd3cKHXsDlSq6vIV4Tgj"
-    },
-    {
-      "added_at": "2023-06-23 04:01:00",
-      "album": {
         "name": "Loner",
         "url": "https://open.spotify.com/album/08iSi4GIyoDt2zSvNyru7M"
       },
@@ -835,6 +819,22 @@
       "duration_ms": 215200,
       "name": "Middle Fingers",
       "url": "https://open.spotify.com/track/1RgvTl4vQN4qECtnO1guEp"
+    },
+    {
+      "added_at": "2023-06-23 04:01:00",
+      "album": {
+        "name": "The Peace And The Panic",
+        "url": "https://open.spotify.com/album/76NbbdvTc4yP50p5m4u9H3"
+      },
+      "artists": [
+        {
+          "name": "Neck Deep",
+          "url": "https://open.spotify.com/artist/2TM0qnbJH4QPhGMCdPt7fH"
+        }
+      ],
+      "duration_ms": 196849,
+      "name": "Don't Wait (ft. Sam Carter)",
+      "url": "https://open.spotify.com/track/2ClpbVJnjvYLpYqYhSnEkL"
     },
     {
       "added_at": "2023-06-23 04:01:00",
@@ -855,18 +855,18 @@
     {
       "added_at": "2023-06-23 04:01:00",
       "album": {
-        "name": "The Peace And The Panic",
-        "url": "https://open.spotify.com/album/76NbbdvTc4yP50p5m4u9H3"
+        "name": "21st Century Liability",
+        "url": "https://open.spotify.com/album/1p64R5tjTpC2oH24YLdQgq"
       },
       "artists": [
         {
-          "name": "Neck Deep",
-          "url": "https://open.spotify.com/artist/2TM0qnbJH4QPhGMCdPt7fH"
+          "name": "YUNGBLUD",
+          "url": "https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW"
         }
       ],
-      "duration_ms": 196849,
-      "name": "Don't Wait (ft. Sam Carter)",
-      "url": "https://open.spotify.com/track/2ClpbVJnjvYLpYqYhSnEkL"
+      "duration_ms": 189262,
+      "name": "21st Century Liability",
+      "url": "https://open.spotify.com/track/5tJd3cKHXsDlSq6vIV4Tgj"
     },
     {
       "added_at": "2023-06-23 04:01:00",
@@ -903,22 +903,6 @@
     {
       "added_at": "2023-06-23 04:01:00",
       "album": {
-        "name": "Bullet",
-        "url": "https://open.spotify.com/album/31GP9htiyPg1uFYGXLV24h"
-      },
-      "artists": [
-        {
-          "name": "Hyro The Hero",
-          "url": "https://open.spotify.com/artist/54okLCsuAzwltG8zHECNpm"
-        }
-      ],
-      "duration_ms": 173733,
-      "name": "Bullet - Single Version",
-      "url": "https://open.spotify.com/track/1R1B4ToHa8KZ4LAObK12Pv"
-    },
-    {
-      "added_at": "2023-06-23 04:01:00",
-      "album": {
         "name": "You Will Not Be Saved",
         "url": "https://open.spotify.com/album/5Fv7nPEq5xHavK28lt8K5F"
       },
@@ -931,6 +915,22 @@
       "duration_ms": 175586,
       "name": "WWYDF",
       "url": "https://open.spotify.com/track/52jC5QLj1sazMXPIxl68l0"
+    },
+    {
+      "added_at": "2023-06-23 04:01:00",
+      "album": {
+        "name": "Bullet",
+        "url": "https://open.spotify.com/album/31GP9htiyPg1uFYGXLV24h"
+      },
+      "artists": [
+        {
+          "name": "Hyro The Hero",
+          "url": "https://open.spotify.com/artist/54okLCsuAzwltG8zHECNpm"
+        }
+      ],
+      "duration_ms": 173733,
+      "name": "Bullet - Single Version",
+      "url": "https://open.spotify.com/track/1R1B4ToHa8KZ4LAObK12Pv"
     },
     {
       "added_at": "2023-06-23 04:01:00",

@@ -1,12 +1,12 @@
 {
   "description": "Rock unplugged. ",
-  "num_followers": 324908,
+  "num_followers": 324969,
   "original_name": "Stripped Down",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0ODRjZDM3ODBlZTMyNWUyYjZlN2RhNjI3MmI4YjUzMjU1YjhkODI2",
+  "snapshot_id": "MCxjZDhkMzI0ODM0NTBlYjk5YmIyNmMzOWViMTVkN2MyYjFhMzE5ODg1",
   "tracks": [
     {
       "added_at": "2023-05-19 04:01:00",
@@ -447,22 +447,6 @@
     {
       "added_at": "2023-05-19 04:01:00",
       "album": {
-        "name": "Broken Machine (Deluxe)",
-        "url": "https://open.spotify.com/album/0r7wrRVD77lNrD9t2QgZrq"
-      },
-      "artists": [
-        {
-          "name": "Nothing But Thieves",
-          "url": "https://open.spotify.com/artist/1kDGbuxWknIKx4FlgWxiSp"
-        }
-      ],
-      "duration_ms": 214413,
-      "name": "Sorry - Acoustic",
-      "url": "https://open.spotify.com/track/0Akytll1e5KvwNKvhqIZFn"
-    },
-    {
-      "added_at": "2023-05-19 04:01:00",
-      "album": {
         "name": "Synchronize (Acoustic Version)",
         "url": "https://open.spotify.com/album/0OKRhsvtbTpL0pXOSyyd9L"
       },
@@ -479,34 +463,18 @@
     {
       "added_at": "2023-05-19 04:01:00",
       "album": {
-        "name": "Same Kind Of Different",
-        "url": "https://open.spotify.com/album/0xm7ZjtMsPLjqjIP39H8bt"
+        "name": "Broken Machine (Deluxe)",
+        "url": "https://open.spotify.com/album/0r7wrRVD77lNrD9t2QgZrq"
       },
       "artists": [
         {
-          "name": "Dean Lewis",
-          "url": "https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y"
+          "name": "Nothing But Thieves",
+          "url": "https://open.spotify.com/artist/1kDGbuxWknIKx4FlgWxiSp"
         }
       ],
-      "duration_ms": 241292,
-      "name": "Waves",
-      "url": "https://open.spotify.com/track/0hNOP5epEjX8Zj5aSGr6JU"
-    },
-    {
-      "added_at": "2023-05-19 04:01:00",
-      "album": {
-        "name": "Surface Sounds",
-        "url": "https://open.spotify.com/album/1ZuNUNl8jvYmW4w1lR2CW3"
-      },
-      "artists": [
-        {
-          "name": "KALEO",
-          "url": "https://open.spotify.com/artist/7jdFEYD2LTYjfwxOdlVjmc"
-        }
-      ],
-      "duration_ms": 232529,
-      "name": "Backbone",
-      "url": "https://open.spotify.com/track/2mVblJ1gaLw0TZz822Oy31"
+      "duration_ms": 214413,
+      "name": "Sorry - Acoustic",
+      "url": "https://open.spotify.com/track/0Akytll1e5KvwNKvhqIZFn"
     },
     {
       "added_at": "2023-05-19 04:01:00",
@@ -527,6 +495,38 @@
     {
       "added_at": "2023-05-19 04:01:00",
       "album": {
+        "name": "Surface Sounds",
+        "url": "https://open.spotify.com/album/1ZuNUNl8jvYmW4w1lR2CW3"
+      },
+      "artists": [
+        {
+          "name": "KALEO",
+          "url": "https://open.spotify.com/artist/7jdFEYD2LTYjfwxOdlVjmc"
+        }
+      ],
+      "duration_ms": 232529,
+      "name": "Backbone",
+      "url": "https://open.spotify.com/track/2mVblJ1gaLw0TZz822Oy31"
+    },
+    {
+      "added_at": "2023-05-19 04:01:00",
+      "album": {
+        "name": "Same Kind Of Different",
+        "url": "https://open.spotify.com/album/0xm7ZjtMsPLjqjIP39H8bt"
+      },
+      "artists": [
+        {
+          "name": "Dean Lewis",
+          "url": "https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y"
+        }
+      ],
+      "duration_ms": 241292,
+      "name": "Waves",
+      "url": "https://open.spotify.com/track/0hNOP5epEjX8Zj5aSGr6JU"
+    },
+    {
+      "added_at": "2023-05-19 04:01:00",
+      "album": {
         "name": "How Did You Love",
         "url": "https://open.spotify.com/album/0PFYjO7SxBpUUtwR91gvJP"
       },
@@ -539,6 +539,22 @@
       "duration_ms": 185955,
       "name": "How Did You Love - Acoustic",
       "url": "https://open.spotify.com/track/4bUbgl5yiMEfGFy8CQNnXB"
+    },
+    {
+      "added_at": "2023-05-19 04:01:00",
+      "album": {
+        "name": "Against The Wall (Acoustic Version)",
+        "url": "https://open.spotify.com/album/52Luu2iy2mBDEyHWfLpzWf"
+      },
+      "artists": [
+        {
+          "name": "Seether",
+          "url": "https://open.spotify.com/artist/6B5c4sch27tWHAGdarpPaW"
+        }
+      ],
+      "duration_ms": 206824,
+      "name": "Against The Wall - Acoustic Version",
+      "url": "https://open.spotify.com/track/7iHpX7m9owsqawBy008yvF"
     },
     {
       "added_at": "2023-05-19 04:01:00",
@@ -579,22 +595,6 @@
     {
       "added_at": "2023-05-19 04:01:00",
       "album": {
-        "name": "Against The Wall (Acoustic Version)",
-        "url": "https://open.spotify.com/album/52Luu2iy2mBDEyHWfLpzWf"
-      },
-      "artists": [
-        {
-          "name": "Seether",
-          "url": "https://open.spotify.com/artist/6B5c4sch27tWHAGdarpPaW"
-        }
-      ],
-      "duration_ms": 206824,
-      "name": "Against The Wall - Acoustic Version",
-      "url": "https://open.spotify.com/track/7iHpX7m9owsqawBy008yvF"
-    },
-    {
-      "added_at": "2023-05-19 04:01:00",
-      "album": {
         "name": "Kill The Noise (Acoustic)",
         "url": "https://open.spotify.com/album/4NuxF7PTPbjtboHpQ6b3NI"
       },
@@ -627,22 +627,6 @@
     {
       "added_at": "2023-05-19 04:01:00",
       "album": {
-        "name": "Zen X Four",
-        "url": "https://open.spotify.com/album/1JifpVW1p2sb6tuzifgFmV"
-      },
-      "artists": [
-        {
-          "name": "Bush",
-          "url": "https://open.spotify.com/artist/78SHxLdtysAXgywQ4vE0Oa"
-        }
-      ],
-      "duration_ms": 212893,
-      "name": "Glycerine - Acoustic",
-      "url": "https://open.spotify.com/track/3ZoAB9gq2RGW5KdHnRvH75"
-    },
-    {
-      "added_at": "2023-05-19 04:01:00",
-      "album": {
         "name": "Simulation Theory (Super Deluxe)",
         "url": "https://open.spotify.com/album/5OZgDtx180ZZPMpm36J2zC"
       },
@@ -655,6 +639,22 @@
       "duration_ms": 226333,
       "name": "Something Human (Acoustic)",
       "url": "https://open.spotify.com/track/1D2ISRyHAs9QBHIWVQIbgM"
+    },
+    {
+      "added_at": "2023-05-19 04:01:00",
+      "album": {
+        "name": "Zen X Four",
+        "url": "https://open.spotify.com/album/1JifpVW1p2sb6tuzifgFmV"
+      },
+      "artists": [
+        {
+          "name": "Bush",
+          "url": "https://open.spotify.com/artist/78SHxLdtysAXgywQ4vE0Oa"
+        }
+      ],
+      "duration_ms": 212893,
+      "name": "Glycerine - Acoustic",
+      "url": "https://open.spotify.com/track/3ZoAB9gq2RGW5KdHnRvH75"
     },
     {
       "added_at": "2023-05-19 04:01:00",
@@ -723,22 +723,6 @@
     {
       "added_at": "2023-05-19 04:01:00",
       "album": {
-        "name": "Complete Collapse (Acoustic)",
-        "url": "https://open.spotify.com/album/2mHENK3IjJu3gfbXwjxA64"
-      },
-      "artists": [
-        {
-          "name": "Sleeping With Sirens",
-          "url": "https://open.spotify.com/artist/3N8Hy6xQnQv1F1XCiyGQqA"
-        }
-      ],
-      "duration_ms": 184426,
-      "name": "Complete Collapse - Acoustic",
-      "url": "https://open.spotify.com/track/0OIky9LZNVaUp4GakW7777"
-    },
-    {
-      "added_at": "2023-05-19 04:01:00",
-      "album": {
         "name": "Across A Wire (Live In New York)",
         "url": "https://open.spotify.com/album/1tqB9q7YnXgWekLtO6wggy"
       },
@@ -751,6 +735,22 @@
       "duration_ms": 317333,
       "name": "Mr. Jones - Live At Chelsea Studios, New York/1997",
       "url": "https://open.spotify.com/track/0waRf9ctHjM169N6rWtKx1"
+    },
+    {
+      "added_at": "2023-05-19 04:01:00",
+      "album": {
+        "name": "Complete Collapse (Acoustic)",
+        "url": "https://open.spotify.com/album/2mHENK3IjJu3gfbXwjxA64"
+      },
+      "artists": [
+        {
+          "name": "Sleeping With Sirens",
+          "url": "https://open.spotify.com/artist/3N8Hy6xQnQv1F1XCiyGQqA"
+        }
+      ],
+      "duration_ms": 184426,
+      "name": "Complete Collapse - Acoustic",
+      "url": "https://open.spotify.com/track/0OIky9LZNVaUp4GakW7777"
     },
     {
       "added_at": "2023-05-19 04:01:00",

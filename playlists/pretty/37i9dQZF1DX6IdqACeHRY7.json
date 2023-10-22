@@ -1,12 +1,12 @@
 {
   "description": "Behagelig musik.",
-  "num_followers": 150545,
+  "num_followers": 150585,
   "original_name": "Ren hygge",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyOGEyYjJmYmFiNmQxMTIxNjA4YWMzZTcyYjkzN2IwNWU1ODJmMTRj",
+  "snapshot_id": "MCxiZDc5MDIzY2ZkZGFkMjBhMDc3MjZmNDM5MTRmNjE4ZWY0NTk2ODk0",
   "tracks": [
     {
       "added_at": "2023-09-27 08:08:12",
@@ -259,22 +259,6 @@
     {
       "added_at": "2023-09-27 08:08:12",
       "album": {
-        "name": "~how i'm feeling~",
-        "url": "https://open.spotify.com/album/3ZuE680xhR1A4bCFGvL8mi"
-      },
-      "artists": [
-        {
-          "name": "Lauv",
-          "url": "https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv"
-        }
-      ],
-      "duration_ms": 189906,
-      "name": "Feelings",
-      "url": "https://open.spotify.com/track/6r3duEAfFTH83DuoywkG20"
-    },
-    {
-      "added_at": "2023-09-27 08:08:12",
-      "album": {
         "name": "Chaos And The Calm",
         "url": "https://open.spotify.com/album/5BxvswQSGWrBbVCdx6mFGO"
       },
@@ -287,6 +271,22 @@
       "duration_ms": 260532,
       "name": "Let It Go",
       "url": "https://open.spotify.com/track/13HVjjWUZFaWilh2QUJKsP"
+    },
+    {
+      "added_at": "2023-09-27 08:08:12",
+      "album": {
+        "name": "~how i'm feeling~",
+        "url": "https://open.spotify.com/album/3ZuE680xhR1A4bCFGvL8mi"
+      },
+      "artists": [
+        {
+          "name": "Lauv",
+          "url": "https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv"
+        }
+      ],
+      "duration_ms": 189906,
+      "name": "Feelings",
+      "url": "https://open.spotify.com/track/6r3duEAfFTH83DuoywkG20"
     },
     {
       "added_at": "2023-09-27 08:08:12",
@@ -355,26 +355,6 @@
     {
       "added_at": "2023-09-27 08:08:12",
       "album": {
-        "name": "There's No Way (feat. Julia Michaels)",
-        "url": "https://open.spotify.com/album/0fZ8R5krm1zAkzUFjqwtpU"
-      },
-      "artists": [
-        {
-          "name": "Lauv",
-          "url": "https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv"
-        },
-        {
-          "name": "Julia Michaels",
-          "url": "https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m"
-        }
-      ],
-      "duration_ms": 174860,
-      "name": "There's No Way (feat. Julia Michaels)",
-      "url": "https://open.spotify.com/track/3F7bhRhNpY4YKrwa4kGeUz"
-    },
-    {
-      "added_at": "2023-09-27 08:08:12",
-      "album": {
         "name": "Little Voice",
         "url": "https://open.spotify.com/album/2Z9WUERfMjOgQ6ze9TcGbF"
       },
@@ -403,6 +383,26 @@
       "duration_ms": 238746,
       "name": "Hold Back The River",
       "url": "https://open.spotify.com/track/7tmtOEDxPN7CWaQWBsG1DY"
+    },
+    {
+      "added_at": "2023-09-27 08:08:12",
+      "album": {
+        "name": "There's No Way (feat. Julia Michaels)",
+        "url": "https://open.spotify.com/album/0fZ8R5krm1zAkzUFjqwtpU"
+      },
+      "artists": [
+        {
+          "name": "Lauv",
+          "url": "https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv"
+        },
+        {
+          "name": "Julia Michaels",
+          "url": "https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m"
+        }
+      ],
+      "duration_ms": 174860,
+      "name": "There's No Way (feat. Julia Michaels)",
+      "url": "https://open.spotify.com/track/3F7bhRhNpY4YKrwa4kGeUz"
     },
     {
       "added_at": "2023-09-27 08:08:12",
@@ -1215,6 +1215,22 @@
     {
       "added_at": "2023-09-27 08:08:12",
       "album": {
+        "name": "Eyes Closed",
+        "url": "https://open.spotify.com/album/75oiBuTpJDC9XGUWwpSSbi"
+      },
+      "artists": [
+        {
+          "name": "HAEVN",
+          "url": "https://open.spotify.com/artist/65Tmt9uAPTYGl1ZhsOeEJ6"
+        }
+      ],
+      "duration_ms": 190266,
+      "name": "Back in the Water",
+      "url": "https://open.spotify.com/track/1EpMvEVHU883c7m6PzcsAj"
+    },
+    {
+      "added_at": "2023-09-27 08:08:12",
+      "album": {
         "name": "Lifeline",
         "url": "https://open.spotify.com/album/5zA6sCY6TFsPBi2ZdMy58w"
       },
@@ -1231,22 +1247,6 @@
       "duration_ms": 200347,
       "name": "Lifeline",
       "url": "https://open.spotify.com/track/66JzG73Z9KwNNjm5kVlnqI"
-    },
-    {
-      "added_at": "2023-09-27 08:08:12",
-      "album": {
-        "name": "Eyes Closed",
-        "url": "https://open.spotify.com/album/75oiBuTpJDC9XGUWwpSSbi"
-      },
-      "artists": [
-        {
-          "name": "HAEVN",
-          "url": "https://open.spotify.com/artist/65Tmt9uAPTYGl1ZhsOeEJ6"
-        }
-      ],
-      "duration_ms": 190266,
-      "name": "Back in the Water",
-      "url": "https://open.spotify.com/track/1EpMvEVHU883c7m6PzcsAj"
     },
     {
       "added_at": "2023-09-27 08:08:12",
@@ -1411,22 +1411,6 @@
     {
       "added_at": "2023-09-27 08:08:12",
       "album": {
-        "name": "Runaway",
-        "url": "https://open.spotify.com/album/4iioyYjn5y3TYGTdl7qdL5"
-      },
-      "artists": [
-        {
-          "name": "Sasha Alex Sloan",
-          "url": "https://open.spotify.com/artist/4xnihxcoXWK3UqryOSnbw5"
-        }
-      ],
-      "duration_ms": 218946,
-      "name": "Runaway",
-      "url": "https://open.spotify.com/track/7oHijHxh7cI40fNC4S619V"
-    },
-    {
-      "added_at": "2023-09-27 08:08:12",
-      "album": {
         "name": "This Morning",
         "url": "https://open.spotify.com/album/67eaxqhdQCoFBqWyCWsUmF"
       },
@@ -1439,6 +1423,22 @@
       "duration_ms": 196826,
       "name": "This Morning",
       "url": "https://open.spotify.com/track/3phOtFs7faVgUInMMaJ3RD"
+    },
+    {
+      "added_at": "2023-09-27 08:08:12",
+      "album": {
+        "name": "Runaway",
+        "url": "https://open.spotify.com/album/4iioyYjn5y3TYGTdl7qdL5"
+      },
+      "artists": [
+        {
+          "name": "Sasha Alex Sloan",
+          "url": "https://open.spotify.com/artist/4xnihxcoXWK3UqryOSnbw5"
+        }
+      ],
+      "duration_ms": 218946,
+      "name": "Runaway",
+      "url": "https://open.spotify.com/track/7oHijHxh7cI40fNC4S619V"
     },
     {
       "added_at": "2023-09-27 08:08:12",
@@ -1491,22 +1491,6 @@
     {
       "added_at": "2023-09-27 08:08:12",
       "album": {
-        "name": "The Sun Will Come up, The Seasons Will Change",
-        "url": "https://open.spotify.com/album/5XsBQrYhmDWyYfXGlfsZJU"
-      },
-      "artists": [
-        {
-          "name": "Nina Nesbitt",
-          "url": "https://open.spotify.com/artist/7AzjETXRUKNRSJHMW9GIqd"
-        }
-      ],
-      "duration_ms": 232800,
-      "name": "Is It Really Me You're Missing",
-      "url": "https://open.spotify.com/track/2lgyZWQSJWmswrLJyM27kB"
-    },
-    {
-      "added_at": "2023-09-27 08:08:12",
-      "album": {
         "name": "Chapters",
         "url": "https://open.spotify.com/album/3GNzXsFbzdwM0WKCZtgeNP"
       },
@@ -1519,6 +1503,22 @@
       "duration_ms": 215320,
       "name": "Suitcase",
       "url": "https://open.spotify.com/track/6dQ1FEt4FByE6tU0dvQNmr"
+    },
+    {
+      "added_at": "2023-09-27 08:08:12",
+      "album": {
+        "name": "The Sun Will Come up, The Seasons Will Change",
+        "url": "https://open.spotify.com/album/5XsBQrYhmDWyYfXGlfsZJU"
+      },
+      "artists": [
+        {
+          "name": "Nina Nesbitt",
+          "url": "https://open.spotify.com/artist/7AzjETXRUKNRSJHMW9GIqd"
+        }
+      ],
+      "duration_ms": 232800,
+      "name": "Is It Really Me You're Missing",
+      "url": "https://open.spotify.com/track/2lgyZWQSJWmswrLJyM27kB"
     },
     {
       "added_at": "2023-09-27 08:08:12",
@@ -1571,22 +1571,6 @@
     {
       "added_at": "2023-09-27 08:08:12",
       "album": {
-        "name": "Only You",
-        "url": "https://open.spotify.com/album/6sHajzVPJWUs96opVi2lqe"
-      },
-      "artists": [
-        {
-          "name": "Parson James",
-          "url": "https://open.spotify.com/artist/48sLioddyaXkuhyHXSkpsB"
-        }
-      ],
-      "duration_ms": 198897,
-      "name": "Only You",
-      "url": "https://open.spotify.com/track/3wD9lRUL8hYJzPnJDSCzD9"
-    },
-    {
-      "added_at": "2023-09-27 08:08:12",
-      "album": {
         "name": "For You",
         "url": "https://open.spotify.com/album/7mNUdtUxh2dKzqYMgP67LX"
       },
@@ -1599,6 +1583,22 @@
       "duration_ms": 203546,
       "name": "For You",
       "url": "https://open.spotify.com/track/0CJvDUBeEL1Rmpx7MH28CQ"
+    },
+    {
+      "added_at": "2023-09-27 08:08:12",
+      "album": {
+        "name": "Only You",
+        "url": "https://open.spotify.com/album/6sHajzVPJWUs96opVi2lqe"
+      },
+      "artists": [
+        {
+          "name": "Parson James",
+          "url": "https://open.spotify.com/artist/48sLioddyaXkuhyHXSkpsB"
+        }
+      ],
+      "duration_ms": 198897,
+      "name": "Only You",
+      "url": "https://open.spotify.com/track/3wD9lRUL8hYJzPnJDSCzD9"
     },
     {
       "added_at": "2023-09-27 08:08:12",
@@ -1619,6 +1619,22 @@
     {
       "added_at": "2023-09-27 08:08:12",
       "album": {
+        "name": "Moonlight",
+        "url": "https://open.spotify.com/album/5GNmyL3vXER32gOF5GqfjX"
+      },
+      "artists": [
+        {
+          "name": "Lilly Ahlberg",
+          "url": "https://open.spotify.com/artist/2s8bgT1CE6KOA0a2omeCDk"
+        }
+      ],
+      "duration_ms": 211514,
+      "name": "Moonlight",
+      "url": "https://open.spotify.com/track/4rpyV1HHZ7oomxZrqqXtOx"
+    },
+    {
+      "added_at": "2023-09-27 08:08:12",
+      "album": {
         "name": "Somebody Loved",
         "url": "https://open.spotify.com/album/5EtmydsGgsDtdLDEsbOFZL"
       },
@@ -1635,18 +1651,18 @@
     {
       "added_at": "2023-09-27 08:08:12",
       "album": {
-        "name": "Moonlight",
-        "url": "https://open.spotify.com/album/5GNmyL3vXER32gOF5GqfjX"
+        "name": "Raised Under Grey Skies (Deluxe)",
+        "url": "https://open.spotify.com/album/3cS0qzNDjE5SjdAL1W98fo"
       },
       "artists": [
         {
-          "name": "Lilly Ahlberg",
-          "url": "https://open.spotify.com/artist/2s8bgT1CE6KOA0a2omeCDk"
+          "name": "JP Cooper",
+          "url": "https://open.spotify.com/artist/4kYGAK2zu9EAomwj3hXkXy"
         }
       ],
-      "duration_ms": 211514,
-      "name": "Moonlight",
-      "url": "https://open.spotify.com/track/4rpyV1HHZ7oomxZrqqXtOx"
+      "duration_ms": 183591,
+      "name": "Closer",
+      "url": "https://open.spotify.com/track/0ol0U7r1cOiiKCjvTsLVmU"
     },
     {
       "added_at": "2023-09-27 08:08:12",
@@ -1671,38 +1687,6 @@
     {
       "added_at": "2023-09-27 08:08:12",
       "album": {
-        "name": "Keeping Faith",
-        "url": "https://open.spotify.com/album/4lxNvi3XfEZfon54OltWQh"
-      },
-      "artists": [
-        {
-          "name": "Amy Wadge",
-          "url": "https://open.spotify.com/artist/0Zh5nyS0km753bfcX4QGHp"
-        }
-      ],
-      "duration_ms": 172058,
-      "name": "Faith's Song",
-      "url": "https://open.spotify.com/track/4HFUxZOWqVemXYF1T7QQ1l"
-    },
-    {
-      "added_at": "2023-09-27 08:08:12",
-      "album": {
-        "name": "Raised Under Grey Skies (Deluxe)",
-        "url": "https://open.spotify.com/album/3cS0qzNDjE5SjdAL1W98fo"
-      },
-      "artists": [
-        {
-          "name": "JP Cooper",
-          "url": "https://open.spotify.com/artist/4kYGAK2zu9EAomwj3hXkXy"
-        }
-      ],
-      "duration_ms": 183591,
-      "name": "Closer",
-      "url": "https://open.spotify.com/track/0ol0U7r1cOiiKCjvTsLVmU"
-    },
-    {
-      "added_at": "2023-09-27 08:08:12",
-      "album": {
         "name": "Perfect to Me (Acoustic)",
         "url": "https://open.spotify.com/album/4bVFapJCV0zmEd2e6qq74v"
       },
@@ -1715,6 +1699,22 @@
       "duration_ms": 213213,
       "name": "Perfect To Me - Acoustic",
       "url": "https://open.spotify.com/track/5OWrEfTdsOsTxMbznYDVL0"
+    },
+    {
+      "added_at": "2023-09-27 08:08:12",
+      "album": {
+        "name": "Keeping Faith",
+        "url": "https://open.spotify.com/album/4lxNvi3XfEZfon54OltWQh"
+      },
+      "artists": [
+        {
+          "name": "Amy Wadge",
+          "url": "https://open.spotify.com/artist/0Zh5nyS0km753bfcX4QGHp"
+        }
+      ],
+      "duration_ms": 172058,
+      "name": "Faith's Song",
+      "url": "https://open.spotify.com/track/4HFUxZOWqVemXYF1T7QQ1l"
     },
     {
       "added_at": "2023-09-27 08:08:12",
@@ -1771,22 +1771,6 @@
     {
       "added_at": "2023-09-27 08:08:12",
       "album": {
-        "name": "i loved you first",
-        "url": "https://open.spotify.com/album/77GA1E8JXxpzlFFnGxbLEg"
-      },
-      "artists": [
-        {
-          "name": "joan",
-          "url": "https://open.spotify.com/artist/3HXLY1sNXIxHfulrjPiRf5"
-        }
-      ],
-      "duration_ms": 227067,
-      "name": "i loved you first",
-      "url": "https://open.spotify.com/track/3FpEXAupLwCHwzeUBxF99S"
-    },
-    {
-      "added_at": "2023-09-27 08:08:12",
-      "album": {
         "name": "Flux",
         "url": "https://open.spotify.com/album/1BhppSJet8I7mHzvacPpZD"
       },
@@ -1799,6 +1783,22 @@
       "duration_ms": 229783,
       "name": "Flux",
       "url": "https://open.spotify.com/track/4zb3kFL9fXrrfTwIY4CcDy"
+    },
+    {
+      "added_at": "2023-09-27 08:08:12",
+      "album": {
+        "name": "i loved you first",
+        "url": "https://open.spotify.com/album/77GA1E8JXxpzlFFnGxbLEg"
+      },
+      "artists": [
+        {
+          "name": "joan",
+          "url": "https://open.spotify.com/artist/3HXLY1sNXIxHfulrjPiRf5"
+        }
+      ],
+      "duration_ms": 227067,
+      "name": "i loved you first",
+      "url": "https://open.spotify.com/track/3FpEXAupLwCHwzeUBxF99S"
     },
     {
       "added_at": "2023-09-27 08:08:12",

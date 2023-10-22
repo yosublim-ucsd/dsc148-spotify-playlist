@@ -4,7 +4,7 @@
 
 > Classic party anthems from the club to your ears!
 
-121 songs - 9 hr 27 min
+122 songs - 9 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,7 +20,7 @@
 | [Bigger Than Prince \- Hot Since 82 Remix](https://open.spotify.com/track/3PW35Q7BLZ4xoHgCRxUZ4f) | [Green Velvet](https://open.spotify.com/artist/3ABaec4jjl95VqmG1iD4k2) | [The Chapters of Green Velvet](https://open.spotify.com/album/1hn0CRNZw1u16Jd2Vvopt4) | 6:34 | 2020-11-06 | 2022-07-29 |
 | [Blind Faith](https://open.spotify.com/track/04OxTCLGgDKfO0MMA2lcxv) | [Chase & Status](https://open.spotify.com/artist/3jNkaOXasoc7RsxdchvEVq), [Liam Bailey](https://open.spotify.com/artist/022EiWsch2zvty0qBUksDO) | [No More Idols](https://open.spotify.com/album/245j9BaZFuEso2vfLRVnQr) | 3:53 | 2020-11-06 |  |
 | [Buggin' \- Edit](https://open.spotify.com/track/2TqSk3lGTFTO2N6qDWpODA) | [Hot Since 82](https://open.spotify.com/artist/1tRBmMtER4fGrzrt8O9VpS), [Jem Cooke](https://open.spotify.com/artist/0AkL5tzM3UsDlWak9E0OwH) | [8\-track](https://open.spotify.com/album/3ophs4Ci76rbhWzu2QwCGC) | 4:35 | 2020-11-06 |  |
-| [Burns \- Edit](https://open.spotify.com/track/7J8iTj9FU0Mw8VBbGBpFIY) | [George FitzGerald](https://open.spotify.com/artist/3KOHpygRuo1ruQAbEneR3t) | [Burns \(Edit\)](https://open.spotify.com/album/1R4DzksK2cx84kO7B4SEoa) | 3:10 | 2020-11-06 |  |
+| [Burns \- Edit](https://open.spotify.com/track/7J8iTj9FU0Mw8VBbGBpFIY) | [George FitzGerald](https://open.spotify.com/artist/3KOHpygRuo1ruQAbEneR3t) | [Burns \(Edit\)](https://open.spotify.com/album/1R4DzksK2cx84kO7B4SEoa) | 3:10 | 2020-11-06 | 2023-10-22 |
 | [Callin'](https://open.spotify.com/track/0oNmrG9mCMH51Gfnwme4nF) | [Huxley](https://open.spotify.com/artist/6fJvW51nWhRImJyos6O7sT), [S\-Man](https://open.spotify.com/artist/3FcrDo2TeEXNjKyafHeQR1) | [The Machine](https://open.spotify.com/album/7gzGEJQwvntO39sNvQiDcZ) | 6:31 | 2020-11-06 | 2022-07-22 |
 | [Chunky](https://open.spotify.com/track/5SB73InpxuEQ20qEWhOQFV) | [Format:B](https://open.spotify.com/artist/5Am25tT39BPzreHngMkuux) | [Chunky](https://open.spotify.com/album/79oalwUgqtwuzWPNYDMEEH) | 2:38 | 2020-11-06 |  |
 | [Cola](https://open.spotify.com/track/1HrMWH5GUdK6Yi94rbANJA) | [CamelPhat](https://open.spotify.com/artist/240wlM8vDrf6S4zCyzGj2W), [Elderbrook](https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64) | [Cola](https://open.spotify.com/album/4Mz3YFnTKm7JbuOi25mDWH) | 3:43 | 2020-11-06 | 2022-07-29 |
@@ -128,6 +128,7 @@
 | [White Noise](https://open.spotify.com/track/1j29DJ3SWu4fAtOeoPSYBL) | [Disclosure](https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et), [AlunaGeorge](https://open.spotify.com/artist/2VAnyOxzJuSAj7XIuEOT38) | [Deep House 2020](https://open.spotify.com/album/29HYXKZgizMLBuVOdI7oI7) | 5:40 | 2020-11-06 | 2022-11-13 |
 | [White Noise](https://open.spotify.com/track/3nOMGGeQppHhfrkQ65VLVQ) | [Disclosure](https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et), [AlunaGeorge](https://open.spotify.com/artist/2VAnyOxzJuSAj7XIuEOT38) | [White Noise](https://open.spotify.com/album/1c1OQBsCs2F4kRY8CXauuo) | 5:40 | 2020-11-06 | 2022-07-29 |
 | [Woman of the Ghetto \- Catz 'n Dogz Remix](https://open.spotify.com/track/7vPeeVHtpJIJwy6PsONjvb) | [Marlena Shaw](https://open.spotify.com/artist/0hirZ8kPPdM9pzXpoagB4w), [Catz 'n Dogz](https://open.spotify.com/artist/5tYqFEuFELxnJZgGmmsfSh) | [Woman of the Ghetto](https://open.spotify.com/album/2qAYzFQzljys16Tvf63YLE) | 5:56 | 2020-11-06 | 2022-07-25 |
+| [Ya Kidding](https://open.spotify.com/track/23u8Srx4MNpBjrM66Tj7On) | [FISHER](https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt) | [Ya Kidding](https://open.spotify.com/album/3pmLTOrDeJHsj01Fnu5030) | 3:58 | 2020-11-06 |  |
 | [Ya Kidding](https://open.spotify.com/track/3fDgxdcf0jeJgGiZJGUmyK) | [FISHER](https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt) | [Ya Kidding](https://open.spotify.com/album/3asXE8koS98nGPVDSPKe5e) | 3:58 | 2020-11-06 | 2023-10-16 |
 
 \*This playlist was first scraped on 2022-01-18. Prior content cannot be recovered.

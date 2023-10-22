@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTg6mb85CdOP.md) - [plain]
 
 > ¡Nos vemos el 17, 18 y 19 de Febrero en Las Estacas para disfrutar juntos! ¿A quién no te vas a perder?
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,903 likes - 68 songs - 5 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,905 likes - 68 songs - 5 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,23 +24,23 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTg6mb85CdOP.md) - [plain]
 | 14 | [Red Room](https://open.spotify.com/track/55mvtucws4Mnro27744t9X) | [Hiatus Kaiyote](https://open.spotify.com/artist/43JlwunhXm1oqdKyOa2Z9Y) | [Mood Valiant](https://open.spotify.com/album/456WeVeZk38VJuqg2sL7QG) | 3:52 |
 | 15 | [Necesidades Perras](https://open.spotify.com/track/7fIKuaWqRXCpBBn8gamcNl) | [La Muchacha](https://open.spotify.com/artist/74IAICxWfYBsjabuEbKQXV) | [Polen](https://open.spotify.com/album/1rD9bUmZqj20KBJ4zmcfFN) | 3:00 |
 | 16 | [Hoy Como Ayer](https://open.spotify.com/track/61PINnmqnoF9cTFfbGu3by) | [Hermanos Gutiérrez](https://open.spotify.com/artist/73mSg0dykFyhvU96tb5xQV) | [Hoy Como Ayer](https://open.spotify.com/album/28NDhMP2u9FUfp7grF1LhM) | 2:02 |
-| 17 | [Tiempo Perfecto](https://open.spotify.com/track/2gJ5HpHVVkFu5eQkw0eIt0) | [AQUIHAYAQUIHAY](https://open.spotify.com/artist/3zMBw1jxFritUP7Mpce68i) | [Tiempo Perfecto](https://open.spotify.com/album/3Wy3lKA5xLbmitR75IuhkI) | 4:59 |
-| 18 | [Are You Feeling Sad?](https://open.spotify.com/track/60v8m0VhlTqw7GgIQDxNbq) | [Little Dragon](https://open.spotify.com/artist/6Tyzp9KzpiZ04DABQoedps), [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [New Me, Same Us](https://open.spotify.com/album/3PuofR78j1BFBGBrNCCYUF) | 2:38 |
+| 17 | [Are You Feeling Sad?](https://open.spotify.com/track/60v8m0VhlTqw7GgIQDxNbq) | [Little Dragon](https://open.spotify.com/artist/6Tyzp9KzpiZ04DABQoedps), [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [New Me, Same Us](https://open.spotify.com/album/3PuofR78j1BFBGBrNCCYUF) | 2:38 |
+| 18 | [Tiempo Perfecto](https://open.spotify.com/track/2gJ5HpHVVkFu5eQkw0eIt0) | [AQUIHAYAQUIHAY](https://open.spotify.com/artist/3zMBw1jxFritUP7Mpce68i) | [Tiempo Perfecto](https://open.spotify.com/album/3Wy3lKA5xLbmitR75IuhkI) | 4:59 |
 | 19 | [Nena \- A COLORS SHOW](https://open.spotify.com/track/7rlKjHvYFlAjMIUDY1CMLu) | [YEИDRY](https://open.spotify.com/artist/3Lk9AWrpD4bminO5LwmBOw) | [Nena \- A COLORS SHOW](https://open.spotify.com/album/1kPIabHrJ8UwfkleGFtQ8m) | 2:33 |
 | 20 | [Ti\-de](https://open.spotify.com/track/4JJEfYFamGRfmz9nG6fx1w) | [Kokoroko](https://open.spotify.com/artist/3u9rbdcmA6CxjxOAkjaeFr) | [KOKOROKO](https://open.spotify.com/album/5GgdFrmouCR0Ud5Ag7IC8H) | 6:12 |
 | 21 | [Destiny](https://open.spotify.com/track/5yQp0RrQ7wdMZoiQ6fnAme) | [John Talabot](https://open.spotify.com/artist/1YvN5uOGQkHVUUlZUcnotD), [Pional](https://open.spotify.com/artist/49mZfy9v5oNXAxp8FadWwI) | [Fin](https://open.spotify.com/album/4MeSw9nbALgbtx13UrwBXm) | 4:53 |
 | 22 | [Nakamarra](https://open.spotify.com/track/23D6FgVV4VygFfJxAtk72J) | [Hiatus Kaiyote](https://open.spotify.com/artist/43JlwunhXm1oqdKyOa2Z9Y), [Q\-Tip](https://open.spotify.com/artist/3ZotbHeyVQKxQCPDJuQ4SU) | [Tawk Tomahawk](https://open.spotify.com/album/3s7dB6EHrYkaWjzfVbZfCo) | 4:35 |
 | 23 | [Merci Éclair](https://open.spotify.com/track/0tGWcbplNiSkw8RxhMPuMJ) | [Stavroz](https://open.spotify.com/artist/7su1fG75ZwXHA6ei9Zcy7T) | [Talabout](https://open.spotify.com/album/4um67GUp8OfQFyfSMwtp7J) | 5:25 |
-| 24 | [Jeans](https://open.spotify.com/track/2o5Pi9Q9mshFu6uvvgFg3c) | [AQUIHAYAQUIHAY](https://open.spotify.com/artist/3zMBw1jxFritUP7Mpce68i) | [DROPOUT](https://open.spotify.com/album/72UjDMnMsU8gD9AQDbeeYW) | 3:42 |
-| 25 | [Zwango Zop](https://open.spotify.com/track/6MhQIRqZhXXjQYgyXewTmv) | [Mildlife](https://open.spotify.com/artist/1lsJmnN90u3KBvF3tGEWr3) | [Phase](https://open.spotify.com/album/2YuHj1L5CPyZaFYrBfgbu6) | 4:49 |
-| 26 | [Te Queria](https://open.spotify.com/track/10Jr2PJeIMPYYRWsWximsP) | [Lido Pimienta](https://open.spotify.com/artist/1IdkKQ9CM1i0wygfxYV4Z3) | [Miss Colombia](https://open.spotify.com/album/6H6MZ54B5FLBLXXxWGEl7y) | 4:02 |
-| 27 | [Raw Cuts \#3](https://open.spotify.com/track/615MwwslOSkBtkBbnhtD7b) | [Danilo Plessow](https://open.spotify.com/artist/3frW3pRt2IpKAysgM8ksle), [Motor City Drum Ensemble](https://open.spotify.com/artist/4TlzX7s6kuZDtiBpsopcBf) | [Raw Cuts \#3](https://open.spotify.com/album/5qZrE4W59S3tOInGjTDzLe) | 6:54 |
-| 28 | [All Night Long](https://open.spotify.com/track/4hgda2zsC0CPHtxT55FJho) | [Pachyman](https://open.spotify.com/artist/515f4vsvg0JQWrmt7qpR6l), [Winter](https://open.spotify.com/artist/4Eun8YBC7P0psGdIf0GRtl) | [All Night Long](https://open.spotify.com/album/2PuKW3LCrVlfbIY1u4RoMe) | 4:20 |
+| 24 | [Zwango Zop](https://open.spotify.com/track/6MhQIRqZhXXjQYgyXewTmv) | [Mildlife](https://open.spotify.com/artist/1lsJmnN90u3KBvF3tGEWr3) | [Phase](https://open.spotify.com/album/2YuHj1L5CPyZaFYrBfgbu6) | 4:49 |
+| 25 | [Te Queria](https://open.spotify.com/track/10Jr2PJeIMPYYRWsWximsP) | [Lido Pimienta](https://open.spotify.com/artist/1IdkKQ9CM1i0wygfxYV4Z3) | [Miss Colombia](https://open.spotify.com/album/6H6MZ54B5FLBLXXxWGEl7y) | 4:02 |
+| 26 | [Raw Cuts \#3](https://open.spotify.com/track/615MwwslOSkBtkBbnhtD7b) | [Danilo Plessow](https://open.spotify.com/artist/3frW3pRt2IpKAysgM8ksle), [Motor City Drum Ensemble](https://open.spotify.com/artist/4TlzX7s6kuZDtiBpsopcBf) | [Raw Cuts \#3](https://open.spotify.com/album/5qZrE4W59S3tOInGjTDzLe) | 6:54 |
+| 27 | [All Night Long](https://open.spotify.com/track/4hgda2zsC0CPHtxT55FJho) | [Pachyman](https://open.spotify.com/artist/515f4vsvg0JQWrmt7qpR6l), [Winter](https://open.spotify.com/artist/4Eun8YBC7P0psGdIf0GRtl) | [All Night Long](https://open.spotify.com/album/2PuKW3LCrVlfbIY1u4RoMe) | 4:20 |
+| 28 | [Jeans](https://open.spotify.com/track/2o5Pi9Q9mshFu6uvvgFg3c) | [AQUIHAYAQUIHAY](https://open.spotify.com/artist/3zMBw1jxFritUP7Mpce68i) | [DROPOUT](https://open.spotify.com/album/72UjDMnMsU8gD9AQDbeeYW) | 3:42 |
 | 29 | [Las Hierbas](https://open.spotify.com/track/0UOai7VVRHNZwS3hmOWehN) | [La Muchacha](https://open.spotify.com/artist/74IAICxWfYBsjabuEbKQXV), [Santiago Navas](https://open.spotify.com/artist/5ErW25NvyMqecQD268Cdxo) | [Juntura](https://open.spotify.com/album/117GdDdyYQyaR3ddgcp1EN) | 2:41 |
 | 30 | [Tojo](https://open.spotify.com/track/5w3b1UFMnOqxeNSiJBLzqO) | [Kokoroko](https://open.spotify.com/artist/3u9rbdcmA6CxjxOAkjaeFr) | [Could We Be More](https://open.spotify.com/album/48e8LFqiVUxumlXDIVyNYl) | 3:59 |
-| 31 | [Cuánto Más](https://open.spotify.com/track/1JtUWtyTkuqPtzOpA5A6l0) | [Mabiland](https://open.spotify.com/artist/2oXKVuZqDv85M1ynjVMp3J) | [1995](https://open.spotify.com/album/4YP2J5XSLVWWaztTV4PmW3) | 3:31 |
+| 31 | [Psilocybin](https://open.spotify.com/track/2rSjE8wHrl9OiI4vmOduU8) | [DESIREE](https://open.spotify.com/artist/6TZbLCcOCv1DJvN28x3FBa) | [Femme Tech](https://open.spotify.com/album/3oMUty55rKKpoCrA0mme5J) | 6:17 |
 | 32 | [Should've Brought an Umbrella](https://open.spotify.com/track/6MDdQPkqN2K9xOyccN6Oj9) | [Stavroz](https://open.spotify.com/artist/7su1fG75ZwXHA6ei9Zcy7T) | [Silent Spring EP](https://open.spotify.com/album/2fz4ZOEnLKXo8cLUzDLC2u) | 7:15 |
-| 33 | [Psilocybin](https://open.spotify.com/track/2rSjE8wHrl9OiI4vmOduU8) | [DESIREE](https://open.spotify.com/artist/6TZbLCcOCv1DJvN28x3FBa) | [Femme Tech](https://open.spotify.com/album/3oMUty55rKKpoCrA0mme5J) | 6:17 |
+| 33 | [Cuánto Más](https://open.spotify.com/track/1JtUWtyTkuqPtzOpA5A6l0) | [Mabiland](https://open.spotify.com/artist/2oXKVuZqDv85M1ynjVMp3J) | [1995](https://open.spotify.com/album/4YP2J5XSLVWWaztTV4PmW3) | 3:31 |
 | 34 | [AMARILLO MI CORAZÓN](https://open.spotify.com/track/0P2yIpAaEyOjxMfH4CrYyB) | [SIMONA](https://open.spotify.com/artist/7H7hLNfP9MzG8mt2A3s7nT) | [AMARILLO MI CORAZÓN](https://open.spotify.com/album/2PJLX9PXiQ7hG3nILSDlXu) | 3:06 |
 | 35 | [Diving into Minds](https://open.spotify.com/track/0JmuFZNZNs7hJIWflYE3CA) | [Soichi Terada](https://open.spotify.com/artist/7nBJ5F2V7hDZE1hhKgqXM9) | [Asakusa Light](https://open.spotify.com/album/0CN1YXeVCXpPqe8ItuPaN3) | 4:31 |
 | 36 | [UNA PENA \- ORGINAL](https://open.spotify.com/track/0KD97PT97Qi2a7Zuq2gJkL) | [Stimming](https://open.spotify.com/artist/2yPveJtn9DpeN0CgNJHvAQ) | [Una Pena](https://open.spotify.com/album/4KHVqwTF2jO1gTYHATQVMM) | 8:05 |
@@ -77,4 +77,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTg6mb85CdOP.md) - [plain]
 | 67 | [El Peruanito](https://open.spotify.com/track/4eMUX8A7fy1SgV5Lgyc5Z5) | [Los Cotopla Boyz](https://open.spotify.com/artist/0YkRMiBfwJaxLp2WhSl9eV) | [Mamarron, Vol.1](https://open.spotify.com/album/6MEwYeSu3l3mHBoJvtp2Zy) | 3:31 |
 | 68 | [fuck this shit \(Facer v shorta\)](https://open.spotify.com/track/33mJM2VfL0QRPtVn5tHE1k) | [Ruiseñor](https://open.spotify.com/artist/58QcmTFKcNJrvRAZxuadGD) | [Coleccion Urbana](https://open.spotify.com/album/1A74wottgv3CRTddEoZcLv) | 3:04 |
 
-Snapshot ID: `MCxjNTI5MjI0MWU2ZGJjNTZhN2ZlZmFlMzczM2Q2MGYzYzFiZmQ0ZmQy`
+Snapshot ID: `MCw1M2I4MDA2M2U3NTQxMGIyMWJlNDdlNmZhZGY5MzZkZjAyMzA0MmFj`

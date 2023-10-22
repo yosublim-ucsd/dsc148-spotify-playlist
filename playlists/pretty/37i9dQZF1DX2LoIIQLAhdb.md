@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2LoIIQLAhdb.md) - [plain]
 
 > Le R&B français, nouvelle ère\. Photo : Ronisia
 
-[Spotify](https://open.spotify.com/user/spotify) - 163,216 likes - 39 songs - 1 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 163,406 likes - 39 songs - 1 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2LoIIQLAhdb.md) - [plain]
 | 5 | [Samira 3](https://open.spotify.com/track/3BYP7bPPxttHpYQfzdyBuz) | [Scridge](https://open.spotify.com/artist/6fYEeLBc96CguiLq9FPBQU), [Isleym](https://open.spotify.com/artist/3vw5HmeFoWnWYhcOpB8INb) | [Samira 3](https://open.spotify.com/album/5CFFfeCizwxS98Dlnhaixv) | 3:27 |
 | 6 | [Warda](https://open.spotify.com/track/1LSz924w38ZryrV1nGnFIV) | [Nej](https://open.spotify.com/artist/3BQ9mWlgFRfMr5EdNfc10a) | [ATHENA](https://open.spotify.com/album/4krkLLyWeRYqr8JLIAx0KP) | 3:11 |
 | 7 | [Dans La Chambre / Money](https://open.spotify.com/track/2pMVcip68iC4QhkyHsfbVt) | [L2B](https://open.spotify.com/artist/4hYxvgmTzS29XAXlo5adgM), [Franglish](https://open.spotify.com/artist/4uJNQGa3L2frXDxwgouTIw) | [Dans La Chambre / Money](https://open.spotify.com/album/2uhMxgJf8jLDnnDvH4kJ1x) | 4:45 |
-| 8 | [Vécu \- Bonus track](https://open.spotify.com/track/1HuefEfJ2y1o9QjmVmwPAY) | [ISK](https://open.spotify.com/artist/1HH5TlkjRt2FG8dpkWNm5j), [Lyna Mahyem](https://open.spotify.com/artist/0Yj3N31EWXHc6e3eDyJPLP) | [Vécu \(Bonus Track\)](https://open.spotify.com/album/7dmoqxxkrkcgMNMRLM6pkf) | 3:00 |
+| 8 | [Vécu \- Bonus Track](https://open.spotify.com/track/1HuefEfJ2y1o9QjmVmwPAY) | [ISK](https://open.spotify.com/artist/1HH5TlkjRt2FG8dpkWNm5j), [Lyna Mahyem](https://open.spotify.com/artist/0Yj3N31EWXHc6e3eDyJPLP) | [Vécu \(Bonus Track\)](https://open.spotify.com/album/7dmoqxxkrkcgMNMRLM6pkf) | 3:00 |
 | 9 | [Carry Me](https://open.spotify.com/track/3vxS3k5siCY0mFfGGTx4pk) | [Tayc](https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60) | [Carry Me](https://open.spotify.com/album/2hEk1tP9rtBhcwNTNSMkDs) | 3:43 |
 | 10 | [Délire \(feat\. Tiakola\)](https://open.spotify.com/track/5JzxQS6OW4GEruKqShvUo8) | [Joé Dwèt Filé](https://open.spotify.com/artist/26zgIfFyTCImkHAp5gwKW8), [Tiakola](https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh) | [Délire \(feat\. Tiakola\)](https://open.spotify.com/album/459LQDfdX2DMzsymKkRRfP) | 3:26 |
 | 11 | [RALENTIS](https://open.spotify.com/track/2czrgYc5DCObCgvuxboSx8) | [Still Fresh](https://open.spotify.com/artist/3AGggQTwJaSofLcpDlYhV4) | [RALENTIS](https://open.spotify.com/album/3oRMxvh84xIQUVJJxyDqQM) | 2:12 |
@@ -48,4 +48,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2LoIIQLAhdb.md) - [plain]
 | 38 | [Encore](https://open.spotify.com/track/6VCJY8e0hyDFclsuWWN764) | [Squidji](https://open.spotify.com/artist/15LZyW96TXq91lUBjMHQok) | [Encore](https://open.spotify.com/album/2vN8NilAhMUK3hW508tdXq) | 2:20 |
 | 39 | [Non Stop](https://open.spotify.com/track/4jMzUThjgs1szjOYUZSzFi) | [IPNDEGO](https://open.spotify.com/artist/1NnXEta54oioiS58v4Ahrj) | [Non Stop](https://open.spotify.com/album/5MJA5T2zaFcFJwNRA6t6qq) | 3:09 |
 
-Snapshot ID: `MCwyYzhlYTFlOGMzNzAzMTZiZTdiYjRhZjMzNjk1MGZjNjA5NDhhMTJi`
+Snapshot ID: `MCxlY2UyYWNlMjlkODgwMzE4OGQ0YzgzNmIzNDg4MjhiNzY0YmM5YjZh`

@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUjxn1SsdJYZ.md) - [plain]
 
 > The best drill, trap and genre bending rap from Australia and NZ\. Cover: Vv Pete
 
-[Spotify](https://open.spotify.com/user/spotify) - 139,666 likes - 109 songs - 4 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 139,672 likes - 109 songs - 4 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [THROW AWAY BARS](https://open.spotify.com/track/5dZgSlWGLKyf5LnCyyvU6x) | [SkuX](https://open.spotify.com/artist/4HkdbjrOHNEnAj0wVccCgv) | [THROW AWAY BARS](https://open.spotify.com/album/2NFOlKJaGoL3mFMmGL9jnL) | 2:12 |
 | 2 | [Victory Lap](https://open.spotify.com/track/3fdVYPuolN7ReRZPwXhfi1) | [BALLY BOY](https://open.spotify.com/artist/3MCpCeJATfWO5bOy5nf2F9) | [Victory Lap](https://open.spotify.com/album/722m60fIT76uzNcMLtIYNK) | 2:32 |
-| 3 | [Mamas Car](https://open.spotify.com/track/51JtGJtPkfPz4qLHFIwC4j) | [Vv Pete](https://open.spotify.com/artist/66IkoRt5JAg88LCnPuyxXr) | [Mamas Car](https://open.spotify.com/album/5jSswkACL8ldBkgeuWKG4o) | 2:16 |
+| 3 | [Mamas Car](https://open.spotify.com/track/51JtGJtPkfPz4qLHFIwC4j) | [Vv Pete](https://open.spotify.com/artist/66IkoRt5JAg88LCnPuyxXr), [UTILITY](https://open.spotify.com/artist/07SL7uPXhqtBGz0Pqljjgi) | [Mamas Car](https://open.spotify.com/album/5jSswkACL8ldBkgeuWKG4o) | 2:16 |
 | 4 | [We Ride](https://open.spotify.com/track/0ZndP0d6W6ICRmSlKgMiS4) | [ENZO](https://open.spotify.com/artist/6QDf4GRNBNpCitIgKv0Ybe) | [We Ride](https://open.spotify.com/album/54BeNq6d1lkoLM8foqjx9k) | 3:07 |
 | 5 | [OUR PEOPLE \(feat\. The Presets\)](https://open.spotify.com/track/0mmLOdN3lD9zfvW91SNsrG) | [3%](https://open.spotify.com/artist/4CnzGjdsHYGHgmsDk1tNwg) | [OUR PEOPLE \(feat\. The Presets\)](https://open.spotify.com/album/4zVoQrcFwZgHVQPXJe9pKY) | 3:54 |
 | 6 | [SOUTHSIDE DILLA](https://open.spotify.com/track/4ypmJ7f8TGY4cZzYn3YVyP) | [Day1](https://open.spotify.com/artist/0iFJbJ7jMv5QAmA6hWm6Ic) | [SOUTHSIDE DILLA](https://open.spotify.com/album/0GfTdUYEfSFuJ3Stc3LZQl) | 2:09 |
@@ -118,4 +118,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUjxn1SsdJYZ.md) - [plain]
 | 108 | [Let It Go](https://open.spotify.com/track/1tKII756LdsDLEjDKkwT7H) | [Hp Boyz](https://open.spotify.com/artist/0JlQaGJZfrqYeZG1AQICxp), [HP ONIT](https://open.spotify.com/artist/3yclhvFQ2T4HgVpAjtckXG), [HP YJ](https://open.spotify.com/artist/5marR6RSTdYzvnGsHiH5rc) | [Let It Go](https://open.spotify.com/album/3ZwhtVi5KQG8y7c079jrRQ) | 2:43 |
 | 109 | [Blacked Out Tint](https://open.spotify.com/track/24rcytWl0Fq9CmC9QU2Hns) | [DIBZ](https://open.spotify.com/artist/6zFwkIEBUP5ASaxlgpniej) | [Blacked Out Tint](https://open.spotify.com/album/4QPr1TkGC7FLVK03uyTzQG) | 2:35 |
 
-Snapshot ID: `MCxhNTA5NjEyMzA3MzFlOGI3MGJhNmI1NmZmMDI1MWQ3NjU0NTBhZDNl`
+Snapshot ID: `MCw4MDkxNzg0OGRlNWFlMWIxMmFkYmZhZWE3ZjhlZWU1NTFjZTA4YzQy`

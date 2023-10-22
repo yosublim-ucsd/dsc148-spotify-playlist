@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZvuOKNcLsjv.md) - [plain]
 
 > 前週大きく注目を浴びた楽曲。ネクスト・ヒットをいち早く。 cover: Troye Sivan\(トロイ・シヴァン\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 39,646 likes - 100 songs - 5 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 39,673 likes - 100 songs - 5 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZvuOKNcLsjv.md) - [plain]
 | 99 | [喜哀](https://open.spotify.com/track/0LiN597XAlatsK7v6zsnAv) | [OMSB](https://open.spotify.com/artist/69qFe6XoI53jVctgtSug7d) | [喜哀](https://open.spotify.com/album/2OKqZXUJTOYHY3ADbtHWRk) | 4:13 |
 | 100 | [Around the Corner](https://open.spotify.com/track/5lh9ngWl6clqFCCQTMf8vp) | [Lamp](https://open.spotify.com/artist/0rFHElzeddB9ymDjgpBENX) | [Dusk to Dawn](https://open.spotify.com/album/7rAKQOCXiqYF1PnWBot3Be) | 3:46 |
 
-Snapshot ID: `MCw1ZTBlNmI3NGM0YmE5ODdlYjQ5ZDZkOTkwZmY1NDJmZjdlNDdhNDA4`
+Snapshot ID: `MCw2MjQ4Njc3OGVkNWM4OWI0NWZhM2EzMDgzYTVmOTFmOTFmYjFjZjlm`

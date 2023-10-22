@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVS1LdzBKmob.md) - [plain]
 
 > Crystal singing bowls, frequencies and gongs to lift you up and transcend.
 
-[Spotify](https://open.spotify.com/user/spotify) - 108,050 likes - 103 songs - 6 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 108,170 likes - 103 songs - 6 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -112,4 +112,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVS1LdzBKmob.md) - [plain]
 | 102 | [Lullaby](https://open.spotify.com/track/5vjsIox5BJAP1YIERBLdfn) | [Alain Presencer](https://open.spotify.com/artist/1TFojWUtNPFxCm61M7TJMT) | [Singing Bowls of Tibet](https://open.spotify.com/album/1Xm1grJslIgHqR3hqe3FQk) | 2:48 |
 | 103 | [Echos Of Angels](https://open.spotify.com/track/21CRn1nc9hSAlCZomJrNhn) | [Crystal Voices](https://open.spotify.com/artist/1jFFGDV4GwVwWres1suUPC) | [Crystal Voices: The Harmonic Vibrations Of Crystal Singing Bowls](https://open.spotify.com/album/6k4BaemsQh3Aih4F2z1itg) | 4:32 |
 
-Snapshot ID: `MCxmMTJjOTJjMjQ2Mzg5MTI1MDY2MmMzNmUwMTgxZmUwODUwYTM4YWRj`
+Snapshot ID: `MCwzNmMwZDU0NjMxZTA0Mjk3ZmNkYjhlODBiYmEwMDhhMDUzYjVhOGNi`

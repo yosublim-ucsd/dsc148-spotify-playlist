@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4JAvHpjipBk.md) - [plain]
 
 > New music from blink\-182, The Kid LAROI, Charli XCX & Sam Smith, Caroline Polachek, Gucci Mane and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,166,035 likes - 100 songs - 5 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,166,357 likes - 100 songs - 5 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4JAvHpjipBk.md) - [plain]
 | 99 | [first time](https://open.spotify.com/track/7bbDRMb1AIjb8cWztwm8MS) | [jigitz](https://open.spotify.com/artist/7sfn5Z6ItzDkOF9cYzxWPZ) | [first time](https://open.spotify.com/album/5TSp9j0u2yoiX3vPQB0gIt) | 2:48 |
 | 100 | [DISDAIN](https://open.spotify.com/track/2hEI5r6nDn9ZdNqHluhbdq) | [CORPSE](https://open.spotify.com/artist/7yntSJ6uojO3z6GFUVwhAW) | [DISDAIN](https://open.spotify.com/album/7BPRvaesFamtH4Xo82I8nO) | 2:25 |
 
-Snapshot ID: `MCw5MDhhNGQ3ZjcxNGVjOTUzZmM5ZGRhYTU2OTdmZmM1NDRlYmQxNjZk`
+Snapshot ID: `MCw0MDAwZTBjNDdmNzA2YTM5NDdlYTNlYjAwZmMwZTUyMjA4MWZhNzBm`

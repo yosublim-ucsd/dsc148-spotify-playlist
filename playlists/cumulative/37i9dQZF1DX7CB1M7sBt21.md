@@ -4,7 +4,7 @@
 
 > Ingenting peppar en under ett träningspass som riktigt bra musik.
 
-186 songs - 9 hr 3 min
+187 songs - 9 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -51,6 +51,7 @@
 | [Don't Call Me Up](https://open.spotify.com/track/5WHTFyqSii0lmT9R21abT8) | [Mabel](https://open.spotify.com/artist/1MIVXf74SZHmTIp4V4paH4) | [Ivy To Roses \(Mixtape\)](https://open.spotify.com/album/0syM7OUAhV7S6XmOa4nLUZ) | 2:58 | 2022-07-28 | 2023-10-13 |
 | [Don't Cry For Me \(with Jason Derulo\)](https://open.spotify.com/track/0FLwo3U1NrjocfK2FDisrX) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [Martin Jensen](https://open.spotify.com/artist/4ehtJnVumNf6xzSCDk8aLB), [Jason Derulo](https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y) | [Don't Cry For Me \(with Jason Derulo\)](https://open.spotify.com/album/6ZPH8jjxr3QtODz3bXX4kP) | 2:35 | 2021-11-19 |  |
 | [Down Under](https://open.spotify.com/track/0K3F6uP4XEmYSAPvpSDx7J) | [LVNDSCAPE](https://open.spotify.com/artist/2QlwnS23KrBeshXFyK5U6M), [Rat City](https://open.spotify.com/artist/6VSMAVF00xwG8Adoqnbqy6) | [Down Under](https://open.spotify.com/album/2G98Mtl6h6ONfPLldnGz3y) | 3:22 | 2021-11-19 | 2022-07-29 |
+| [Dreaming](https://open.spotify.com/track/4NUmZ5svM1Bbmaz5udqUeJ) | [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [P!nk](https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR), [Sting](https://open.spotify.com/artist/0Ty63ceoRnnJKVEYP0VQpk) | [Dreaming](https://open.spotify.com/album/7msKLkViyWdF6X3QdlC6wK) | 2:50 | 2023-10-19 |  |
 | [Dumb](https://open.spotify.com/track/5ij0EuOJmqzwBqVIzBAXbb) | [A7S](https://open.spotify.com/artist/5Wg2b4Mp42gicxEeDNawf7) | [Dumb](https://open.spotify.com/album/3DmtKnIJ7d7OJlLe3eHHmz) | 2:29 | 2023-07-13 |  |
 | [Dunka dumma hjärta dunka](https://open.spotify.com/track/1tEJvOKcs46f2dmsgV27qR) | [Felicia Takman](https://open.spotify.com/artist/3KdFzFHhUFCRdbllsQ1lZd) | [Dunka dumma hjärta dunka](https://open.spotify.com/album/2xIMS0C3lm1PioECFDfdUm) | 3:02 | 2021-11-19 |  |
 | [EveryTime I Cry](https://open.spotify.com/track/0mV43B6pJWRjcM5TmzNe6d) | [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [EveryTime I Cry](https://open.spotify.com/album/5W79aGcuoBYk0Mb2QL2Jcw) | 2:57 | 2021-11-19 |  |
@@ -90,7 +91,7 @@
 | [I Want It All](https://open.spotify.com/track/3oSCJeOl0XjcpNcigO9vj7) | [Lucas & Steve](https://open.spotify.com/artist/5wwneIFdawNgQ7GvKK29Z3) | [Letters To Remember](https://open.spotify.com/album/5ewnC9DmcClqT2cqKvvNCe) | 3:11 | 2021-11-19 |  |
 | [I'm Alive](https://open.spotify.com/track/0dCnXyvbJzy6Cpy9P93O12) | [Lance & Linton](https://open.spotify.com/artist/6M3rUPqXzEcBsKFl0f9q8c), [NC Carson](https://open.spotify.com/artist/4mmCU7zVOOUa384vOn7aKT) | [I'm Alive](https://open.spotify.com/album/7BcuhifD9uKb3aFVQsb0wt) | 3:04 | 2021-11-19 |  |
 | [If You're Looking for Trouble](https://open.spotify.com/track/7hmY7jkHkoOOmzHkvVyBUK) | [Basixx](https://open.spotify.com/artist/3yoJOUgWeJEC81UoZhYIdd), [TASH](https://open.spotify.com/artist/0HpJaHrAoLTxAeveCl2nhJ) | [Trouble](https://open.spotify.com/album/4MvCkpCGff4pYf7VcfCetq) | 3:12 | 2021-11-19 | 2022-07-29 |
-| [Ignorant \(feat\. Puri, Landon Cube\) \- Spotify Singles](https://open.spotify.com/track/6B40gOyEJU52bnuyepRubO) | [Averagekidluke](https://open.spotify.com/artist/6lFrRAoT64zvrLiL1edMhk), [Puri](https://open.spotify.com/artist/3ADyFy1orEwODaiHmRRMQp), [Landon Cube](https://open.spotify.com/artist/04ei5kNgmDuNAydFhhIHnD) | [Ignorant / Good Time](https://open.spotify.com/album/5lEr77mX7UpUDwZQpAl7No) | 3:56 | 2023-10-12 |  |
+| [Ignorant \(feat\. Puri, Landon Cube\) \- Spotify Singles](https://open.spotify.com/track/6B40gOyEJU52bnuyepRubO) | [Averagekidluke](https://open.spotify.com/artist/6lFrRAoT64zvrLiL1edMhk), [Puri](https://open.spotify.com/artist/3ADyFy1orEwODaiHmRRMQp), [Landon Cube](https://open.spotify.com/artist/04ei5kNgmDuNAydFhhIHnD) | [Ignorant / Good Time](https://open.spotify.com/album/5lEr77mX7UpUDwZQpAl7No) | 3:56 | 2023-10-12 | 2023-10-22 |
 | [In The City](https://open.spotify.com/track/3xY5aYJcdvZX9xQxNd02ku) | [Charli XCX](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5), [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [In The City](https://open.spotify.com/album/4yb3RB7teZSVscBmOoDWvT) | 2:56 | 2023-10-19 |  |
 | [Insomnia](https://open.spotify.com/track/7hzlzoOwCZ4D3Ow5YZK4kj) | [Daya](https://open.spotify.com/artist/6Dd3NScHWwnW6obMFbl1BH) | [Insomnia](https://open.spotify.com/album/673e3sPgdJWrPAIBvaKysa) | 2:59 | 2022-07-28 | 2023-10-13 |
 | [Jag mår bra nu \(feat\. Newkid\)](https://open.spotify.com/track/247LJ2oARxtQuFAlbPIx79) | [Molly Sandén](https://open.spotify.com/artist/0NRMzT05nsc8mTm4iUvuHY), [Newkid](https://open.spotify.com/artist/5wXRHaEx8AvtUv0gyZHGf6) | [Jag mår bra nu \(feat\. Newkid\)](https://open.spotify.com/album/46NgeK47Px9EjXI1ZdsWkY) | 3:09 | 2021-11-19 |  |

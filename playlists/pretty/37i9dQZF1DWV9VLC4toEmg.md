@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV9VLC4toEmg.md) - [plain]
 
 > Spa treatment role\-play and ASMR massage sounds to give you tingles and help you relax.
 
-[Spotify](https://open.spotify.com/user/spotify) - 36,357 likes - 47 songs - 3 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 36,382 likes - 47 songs - 3 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,9 +30,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV9VLC4toEmg.md) - [plain]
 | 20 | [Oil Massage](https://open.spotify.com/track/6zl4uiCSDE1RyH55jrV9gX) | [ASMR LillyVinnily](https://open.spotify.com/artist/2SOg0KlxmlG4REkUHl2pvJ) | [ASMR \| Some of My Favourite Sounds](https://open.spotify.com/album/6tFZnaQPznbCNkHokxTvFp) | 2:50 |
 | 21 | [Serum Massage](https://open.spotify.com/track/1SumfX4KD5sKrdnNo2gJYA) | [ASMR Bakery](https://open.spotify.com/artist/54Mf3tKmBGQbBQlPfC6N7T) | [ASMR Taking Care of Teddy, Head Massage, Facial Cleansing, Fur Combing and Ear Cleaning \(No Talking\)](https://open.spotify.com/album/53qvsFoqNPARRdybQzNw0c) | 6:08 |
 | 22 | [Helping you fall sleep with a relaxing hand and head massage Pt.2](https://open.spotify.com/track/0llPJPAIBv48UDRI0piTAX) | [Catplant ASMR](https://open.spotify.com/artist/5qw3MMovQQEq4URS46Ij5C) | [Helping you fall sleep with a relaxing hand and head massage](https://open.spotify.com/album/0Mxearp6dO183ZajtJdtM6) | 4:45 |
-| 23 | [Ear Muff Mic Scratching Pt.2](https://open.spotify.com/track/4ixjpI5tKBm6JfXNF8J8Us) | [HeatheredEffect ASMR](https://open.spotify.com/artist/11uBB2l2Ne1rZCyS1xnv1L) | [Ear Muff Mic Scratching Pt.2](https://open.spotify.com/album/2ifFLVJpBwip4cSvPBG1Ns) | 4:17 |
+| 23 | [Lotion Ear Massage Pt\. 1](https://open.spotify.com/track/0gdo2UXeAnAp8ZQmO4wd9n) | [fastASMR](https://open.spotify.com/artist/56Il8oV0mbdnHbOimlgy6v) | [Lotion Ear Massage](https://open.spotify.com/album/2r5FkTCW4b3gz77UteYh1t) | 6:07 |
 | 24 | [7 Tingle Massages Pt.2](https://open.spotify.com/track/1tvP8rFCsboSjB62yu4mz1) | [ASMR Glow](https://open.spotify.com/artist/3pIhTb0jnfckdPD74sAppI) | [7 Tingly Massages](https://open.spotify.com/album/4rsAtuIMx3RkhaV5Leqx2T) | 5:36 |
-| 25 | [Lotion Ear Massage Pt\. 1](https://open.spotify.com/track/0gdo2UXeAnAp8ZQmO4wd9n) | [fastASMR](https://open.spotify.com/artist/56Il8oV0mbdnHbOimlgy6v) | [Lotion Ear Massage](https://open.spotify.com/album/2r5FkTCW4b3gz77UteYh1t) | 6:07 |
+| 25 | [Ear Muff Mic Scratching Pt.2](https://open.spotify.com/track/4ixjpI5tKBm6JfXNF8J8Us) | [HeatheredEffect ASMR](https://open.spotify.com/artist/11uBB2l2Ne1rZCyS1xnv1L) | [Ear Muff Mic Scratching Pt.2](https://open.spotify.com/album/2ifFLVJpBwip4cSvPBG1Ns) | 4:17 |
 | 26 | [FLUFFY SCALP MASSAGE and May Patron Appreciation Pt.4](https://open.spotify.com/track/5WSLqWqfG7KSghwQgpCtMg) | [Seafoam Kitten's ASMR](https://open.spotify.com/artist/6uh6geb4QlGeZjRo9FP3p1) | [FLUFFY SCALP MASSAGE and May Patron Appreciation](https://open.spotify.com/album/7nlbdgNJjmpbUBOi7xWtJd) | 4:45 |
 | 27 | [Deep Tissue Massage Pt.1](https://open.spotify.com/track/5gc80AtEjJ49fKoGBNUzxt) | [Catplant ASMR](https://open.spotify.com/artist/5qw3MMovQQEq4URS46Ij5C) | [Deep Tissue Massage](https://open.spotify.com/album/2Y2wFM1PPkAK8Rt453Ijz9) | 7:50 |
 | 28 | [Rubbing Moisterizer in Hands](https://open.spotify.com/track/7CmU5zWpXNOrUlB90DMRoO) | [Leslie R ASMR](https://open.spotify.com/artist/4oiOCPh21xh4jTpoeGHOsK) | [My ASMR World](https://open.spotify.com/album/5NTLeAufx999xaNaHVP4Yq) | 3:10 |
@@ -56,4 +56,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV9VLC4toEmg.md) - [plain]
 | 46 | [Real Relaxing Brushing Sounds, Pt\. 4](https://open.spotify.com/track/1kYA2IGzg8FQWm2ISv2BwY) | [Relax Academy ASMR](https://open.spotify.com/artist/36Kz9Uv48lAjIm5F2dbd0k) | [ASMR Brush Massage, Relaxing Brushing Sounds Real Person](https://open.spotify.com/album/4yZCHZC1WUf1wIsSM5Mds3) | 2:28 |
 | 47 | [Hailey and the Lotion Bottle](https://open.spotify.com/track/6gEn9TUf8GLboqCnEsb7qy) | [My ASMR Room](https://open.spotify.com/artist/74ewzpfsEL70CLM2hU9K4B) | [Playing with Scissors](https://open.spotify.com/album/1Xl8Mtft1lQkVB4bt8HEIW) | 3:16 |
 
-Snapshot ID: `MCxhOTNkODE1ZjlmM2FhYjI5ODEwYzA0NjNlNGQyNGMyMTc0MzI5NGI3`
+Snapshot ID: `MCw3M2M2NDc5ZWZlYTYwZThlMWU4YTUzOGQ5YWY1NWYwYTBhNTVmYzEx`

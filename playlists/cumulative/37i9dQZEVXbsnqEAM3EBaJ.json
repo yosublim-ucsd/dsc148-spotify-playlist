@@ -629,6 +629,24 @@
     },
     {
       "album": {
+        "name": "Back In Town (Live)",
+        "url": "https://open.spotify.com/album/6II4ncJJBSusGhr6FAjmBj"
+      },
+      "artists": [
+        {
+          "name": "The Doors",
+          "url": "https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 92564,
+      "name": "Alabama Song - Live 1968",
+      "url": "https://open.spotify.com/track/0xreRyss0BadDkBWX5mGRN"
+    },
+    {
+      "album": {
         "name": "Alias (Live at Metal Church)",
         "url": "https://open.spotify.com/album/5N9WwSmIA11ku8OIl3fqeZ"
       },
@@ -1072,7 +1090,7 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-22",
       "duration_ms": 185653,
       "name": "Amphetamine Smiles",
       "url": "https://open.spotify.com/track/5My3w0udRZoFmhSi7lBqXQ"
@@ -2028,7 +2046,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-22",
       "duration_ms": 508693,
       "name": "Black (Live in St Paul, 8/31/2023)",
       "url": "https://open.spotify.com/track/5ORLnavt8Dcrm0udZ51S87"
@@ -9030,7 +9048,7 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-22",
       "duration_ms": 193213,
       "name": "La Versi\u00f3n En Mi Cabeza",
       "url": "https://open.spotify.com/track/70iA1uzud3bwrJzQQZ5D6i"
@@ -9066,7 +9084,7 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-22",
       "duration_ms": 175767,
       "name": "Landmines",
       "url": "https://open.spotify.com/track/05FEHgvSVpx3jnM2zNeSo9"
@@ -9572,7 +9590,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-22",
       "duration_ms": 637076,
       "name": "Light My Fire - Live 1968",
       "url": "https://open.spotify.com/track/6TYAu5iSN0ztGAEK83LunO"
@@ -15634,7 +15652,7 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-22",
       "duration_ms": 306423,
       "name": "Sweet Sounds Of Heaven (feat. Lady Gaga & Stevie Wonder) - Edit",
       "url": "https://open.spotify.com/track/6HCUMOcGa4LyjcBXjl7z0Y"

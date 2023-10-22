@@ -1,12 +1,12 @@
 {
   "description": "\uc378\ud0c0\uace0 \uacc4\uc2e0\uac00\uc694? \uc124\ub808\uc784\uc774 \ub2f4\uae34 \ub178\ub798\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694.",
-  "num_followers": 8940,
+  "num_followers": 8950,
   "original_name": "\uc378",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjOTg3MjhjOWZlYmQzNGE1YTA0YjFiZGUyYTVlYmI3MWIzODQzN2Zi",
+  "snapshot_id": "MCw1YWQ0MDdkMjUyNmM1YjU2Y2FiNWM4ZjA3ODNlOTM1OTk1M2I2NmRj",
   "tracks": [
     {
       "added_at": "2023-10-16 07:48:41",
@@ -499,22 +499,6 @@
     {
       "added_at": "2023-10-16 07:48:41",
       "album": {
-        "name": "Before the Petals Fall",
-        "url": "https://open.spotify.com/album/168wOyzeKZdYSmSQu0Fkq3"
-      },
-      "artists": [
-        {
-          "name": "CHEN",
-          "url": "https://open.spotify.com/artist/0UEP2XBR9aC5NBKcAKnBIq"
-        }
-      ],
-      "duration_ms": 229346,
-      "name": "Before the Petals Fall",
-      "url": "https://open.spotify.com/track/3IgT7VsDxWZsg90OrqK90t"
-    },
-    {
-      "added_at": "2023-10-16 07:48:41",
-      "album": {
         "name": "CYAN",
         "url": "https://open.spotify.com/album/54mKbSh20yke318bPZMsjb"
       },
@@ -531,18 +515,18 @@
     {
       "added_at": "2023-10-16 07:48:41",
       "album": {
-        "name": "bimil:ier vol.1 \"so this is love\"",
-        "url": "https://open.spotify.com/album/5uGkgOzshdeNMMsR34kucM"
+        "name": "Before the Petals Fall",
+        "url": "https://open.spotify.com/album/168wOyzeKZdYSmSQu0Fkq3"
       },
       "artists": [
         {
-          "name": "DAY6 (Even of Day)",
-          "url": "https://open.spotify.com/artist/6uAlmplr9znkwaYj3ysgLd"
+          "name": "CHEN",
+          "url": "https://open.spotify.com/artist/0UEP2XBR9aC5NBKcAKnBIq"
         }
       ],
-      "duration_ms": 203425,
-      "name": "so this is love",
-      "url": "https://open.spotify.com/track/18xXVZwosvArMOJOs7wd6S"
+      "duration_ms": 229346,
+      "name": "Before the Petals Fall",
+      "url": "https://open.spotify.com/track/3IgT7VsDxWZsg90OrqK90t"
     },
     {
       "added_at": "2023-10-16 07:48:41",
@@ -559,6 +543,22 @@
       "duration_ms": 205693,
       "name": "How Do You Think",
       "url": "https://open.spotify.com/track/1xfu5RELA5t2E2KeOG2ePD"
+    },
+    {
+      "added_at": "2023-10-16 07:48:41",
+      "album": {
+        "name": "bimil:ier vol.1 \"so this is love\"",
+        "url": "https://open.spotify.com/album/5uGkgOzshdeNMMsR34kucM"
+      },
+      "artists": [
+        {
+          "name": "DAY6 (Even of Day)",
+          "url": "https://open.spotify.com/artist/6uAlmplr9znkwaYj3ysgLd"
+        }
+      ],
+      "duration_ms": 203425,
+      "name": "so this is love",
+      "url": "https://open.spotify.com/track/18xXVZwosvArMOJOs7wd6S"
     },
     {
       "added_at": "2023-10-16 07:48:41",
@@ -783,22 +783,6 @@
     {
       "added_at": "2023-10-16 07:48:41",
       "album": {
-        "name": "flutter",
-        "url": "https://open.spotify.com/album/4DYirkpT6zwQBYx08vGvLV"
-      },
-      "artists": [
-        {
-          "name": "KyoungSeo",
-          "url": "https://open.spotify.com/artist/4rxWm4OrS8IRQ3YxDUwnJA"
-        }
-      ],
-      "duration_ms": 196920,
-      "name": "flutter",
-      "url": "https://open.spotify.com/track/3kVJpd0l97dvphaiML7p61"
-    },
-    {
-      "added_at": "2023-10-16 07:48:41",
-      "album": {
         "name": "My First June",
         "url": "https://open.spotify.com/album/7DeVjzaqs8JcuHetuERgE7"
       },
@@ -815,6 +799,22 @@
       "duration_ms": 230640,
       "name": "Fool",
       "url": "https://open.spotify.com/track/4EIJ8e7f0104nDFFVhWg0x"
+    },
+    {
+      "added_at": "2023-10-16 07:48:41",
+      "album": {
+        "name": "flutter",
+        "url": "https://open.spotify.com/album/4DYirkpT6zwQBYx08vGvLV"
+      },
+      "artists": [
+        {
+          "name": "KyoungSeo",
+          "url": "https://open.spotify.com/artist/4rxWm4OrS8IRQ3YxDUwnJA"
+        }
+      ],
+      "duration_ms": 196920,
+      "name": "flutter",
+      "url": "https://open.spotify.com/track/3kVJpd0l97dvphaiML7p61"
     },
     {
       "added_at": "2023-10-16 07:48:41",

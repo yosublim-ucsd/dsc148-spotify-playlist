@@ -4,7 +4,7 @@
 
 > Indie soul that's highkey fire
 
-547 songs - 1 day 6 hr 2 min
+549 songs - 1 day 6 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,6 +17,7 @@
 | [311 \(with Gwen Bunn\)](https://open.spotify.com/track/2K4R3bKsoJV8Rm9I67ddm7) | [Jordan Ward](https://open.spotify.com/artist/3DGlTwdM5Dim9XQipb3jMf), [Gwen Bunn](https://open.spotify.com/artist/6dPh96zLnVMZVHnr66WRjg) | [FORWARD](https://open.spotify.com/album/3B091Vt3mViGBReaUvMUCc) | 2:31 | 2023-03-03 |  |
 | [69 Camaro](https://open.spotify.com/track/50S52c98UbsIIiG0F1uyat) | [Kyle Dion](https://open.spotify.com/artist/5qfkUSH3ip5dD2eEPhjkT3) | [SUGA](https://open.spotify.com/album/4ZQjhcYbZl4KhMoBekUzUL) | 2:34 | 2022-09-29 | 2022-10-13 |
 | [69 Camaro](https://open.spotify.com/track/70XkGdEfN4RM7bEwaNaBao) | [Kyle Dion](https://open.spotify.com/artist/5qfkUSH3ip5dD2eEPhjkT3) | [SUGA](https://open.spotify.com/album/5E5QGOClKXPXlVwOW9cWUz) | 2:34 | 2022-09-29 | 2023-06-17 |
+| [90s \- Remix](https://open.spotify.com/track/1NzjKlRWYEfH3UORKH0zyD) | [Braxton Cook](https://open.spotify.com/artist/60k4atxgEIMFz4DWHp0le1), [Ian Ewing](https://open.spotify.com/artist/6QrRSfwkZsixVIgDRhpToh), [Masego](https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig), [Jay Prince](https://open.spotify.com/artist/2TLYSzGyVYkxAgYSCqUnQj) | [90s \(Remix\)](https://open.spotify.com/album/0241uDx21SHRh0BJK0auir) | 3:25 | 2023-10-20 |  |
 | [A Comma](https://open.spotify.com/track/4XNA6lxhJgZuampAzUGjUg) | [serpentwithfeet](https://open.spotify.com/artist/1O9iHQjrVuiAYOJFCBeFSl) | [Apparition EP](https://open.spotify.com/album/7FCpNm4l9fNtBeakrvpVf8) | 2:47 | 2021-12-15 | 2022-06-14 |
 | [A Dream](https://open.spotify.com/track/0Ntl87gyxtztbpfK8hfqQr) | [Xavier Omär](https://open.spotify.com/artist/3UjPnt2nRmw10N58bBeNOg), [pat junior](https://open.spotify.com/artist/0lOsH3CaZpQIE3QO40SFvx) | [b l u r r](https://open.spotify.com/album/1lKab1olSSCNuFg3f2Jif0) | 2:41 | 2023-01-27 |  |
 | [Abeg \(feat\. Amindi\)](https://open.spotify.com/track/4rRhOCXEvlQeMMLXDDigAP) | [SOLIS](https://open.spotify.com/artist/6Yv9GLPMVN1okoETQXHUAh), [Amindi](https://open.spotify.com/artist/1xQIR56DxgWYZPUvOLRIua) | [Stairway To Heaven](https://open.spotify.com/album/2gllP0wR0siE0NYM9U5Tjb) | 3:23 | 2021-12-15 | 2022-04-08 |
@@ -257,6 +258,7 @@
 | [Jealous](https://open.spotify.com/track/0MuyhT3nN12w71WurEWSTN) | [Khamari](https://open.spotify.com/artist/6kmDosYCYjFQtywDq0DLPZ) | [Jealous](https://open.spotify.com/album/5LTnPoGjyuWwLwOcLJzFL3) | 2:08 | 2021-12-15 | 2022-07-17 |
 | [Jealous](https://open.spotify.com/track/6M3nptRy5w6wiKk5mMjWHN) | [Khamari](https://open.spotify.com/artist/6kmDosYCYjFQtywDq0DLPZ) | [Eldorado](https://open.spotify.com/album/5cjB2vtGhbo12x1gAdJvvY) | 2:08 | 2023-02-16 | 2023-08-19 |
 | [Jewels in the Night](https://open.spotify.com/track/6HZTp6aIfkqEp5DBJR4JIx) | [GINGE](https://open.spotify.com/artist/5FuFC5tiYFDxVJQVupJ6Zt) | [Jewels in the Night](https://open.spotify.com/album/0TFdoAI3m8f9HrDeTvSy3P) | 3:45 | 2022-06-30 | 2023-04-05 |
+| [Jonathan L\. Seagull](https://open.spotify.com/track/0jBmIDMdIOOct8T62qBeRh) | [Sampha](https://open.spotify.com/artist/2WoVwexZuODvclzULjPQtm) | [Lahai](https://open.spotify.com/album/5GuWww4OaildzkmTTlfMN3) | 4:34 | 2023-10-20 |  |
 | [Juno](https://open.spotify.com/track/6OpU3cvY19M2hFxTbLKy5L) | [Choker](https://open.spotify.com/artist/5XQRfs0gXs30aWUn1Umves) | [Honeybloom](https://open.spotify.com/album/6CwBR2GHX84xyA8T95HTM3) | 3:51 | 2021-12-15 | 2022-04-04 |
 | [Just A Little](https://open.spotify.com/track/3SOL11Sz3MwFoCye7r8gQW) | [Col3trane](https://open.spotify.com/artist/4hTL3jOgvZwOqegEZTOrCc) | [Chekhov's Gun](https://open.spotify.com/album/5Ej0IOSmRQbb1o961TqMzG) | 3:41 | 2023-06-09 |  |
 | [Just Expectationz](https://open.spotify.com/track/10GbMfN6Bt4V9k1blNBjzz) | [Azekel](https://open.spotify.com/artist/446nYwuXzCKnDwZUu4kGQA), [Ivy Sole](https://open.spotify.com/artist/4NcMrSi3B8eUVy6e1Ni3wu) | [Just Expectationz](https://open.spotify.com/album/4fuHL63s4VtjWQLy5QqlTa) | 3:48 | 2023-02-16 | 2023-09-18 |
@@ -412,7 +414,7 @@
 | [Running](https://open.spotify.com/track/1et9bfdvDHld2wPBZfT1OA) | [Nicotine](https://open.spotify.com/artist/0tpIaEojsimd2hK4Y3nZIX) | [An Open Letter](https://open.spotify.com/album/2d1Mpponk9uBdLfM9pfH1i) | 4:07 | 2021-12-15 | 2022-04-20 |
 | [Running](https://open.spotify.com/track/1zKU2Hf1juriWhxwLlWaxT) | [Nicotine](https://open.spotify.com/artist/0tpIaEojsimd2hK4Y3nZIX) | [An Open Letter](https://open.spotify.com/album/6fopcA6Az8eSWnGQYO7fVt) | 4:07 | 2022-09-29 | 2022-10-18 |
 | [Rush](https://open.spotify.com/track/5KWamIPJw0yIM5AO2acHfy) | [Hamzaa](https://open.spotify.com/artist/3TXjnAw0sg1VVdnR9fGdBs), [1SRAEL](https://open.spotify.com/artist/1y02diTxNa2t9KTLm5S7bb) | [RUSH](https://open.spotify.com/album/6qXJvv0V4AOJN3EHQS0YIl) | 3:40 | 2023-07-28 |  |
-| [Sadboy](https://open.spotify.com/track/7I3ruC2uRcHSd5IYMkabSJ) | [Reggie Becton](https://open.spotify.com/artist/6tDysK3IF96GLkAcaSzXfC) | [Sadboy, Vol\. 1](https://open.spotify.com/album/1TTd0iMUtCjzvoQTzMcCLo) | 2:10 | 2023-05-05 |  |
+| [Sadboy](https://open.spotify.com/track/7I3ruC2uRcHSd5IYMkabSJ) | [Reggie Becton](https://open.spotify.com/artist/6tDysK3IF96GLkAcaSzXfC) | [Sadboy, Vol\. 1](https://open.spotify.com/album/1TTd0iMUtCjzvoQTzMcCLo) | 2:10 | 2023-05-05 | 2023-10-22 |
 | [Santorini](https://open.spotify.com/track/3JSaYIRPbfRgK8LfbDEYsH) | [Christian Kuria](https://open.spotify.com/artist/4uaGojdWj4H6cTJydZUPWG) | [Suspension of Disbelief](https://open.spotify.com/album/3dUPM1NIw5YPL4YQhU7aG2) | 2:28 | 2023-03-03 |  |
 | [Save Me, Pt\. 2](https://open.spotify.com/track/3ZxOiRrYY7h9BIE552XeOW) | [Neema Nekesa](https://open.spotify.com/artist/3hkQvRtfUiRaZRK3gBsIOI) | [Save Me, Pt\. 2](https://open.spotify.com/album/5x2Jk0WaGbKFjFB1HtAu8F) | 2:31 | 2021-12-15 | 2023-04-29 |
 | [say im ur luv](https://open.spotify.com/track/0Bs3Lwzs8y9BzKUgvFXPUx) | [UMI](https://open.spotify.com/artist/4ClziihVpBeFXNyDH83Lde) | [Forest in the City](https://open.spotify.com/album/7ijzh3hVmlwWRxuJGPSoeR) | 2:31 | 2023-01-27 | 2023-08-12 |
@@ -460,7 +462,7 @@
 | [Spooky \- Recorded at RAK Studios, London](https://open.spotify.com/track/2y0odeTeYsxWvYQ5rYANu0) | [Maribou State](https://open.spotify.com/artist/7zrkALJ9ayRjzysp4QYoEg), [Holly Walker](https://open.spotify.com/artist/5vssQp6TyMHsx4mihKVAsC) | [Spotify Singles](https://open.spotify.com/album/0aqv2HD8GPGDDM0CokS0Fk) | 3:41 | 2021-12-15 | 2022-04-08 |
 | [Starts with a Text](https://open.spotify.com/track/55PclVSKZK3aLxxARrZ0DW) | [Bawo](https://open.spotify.com/artist/1nrJKGxkiSY6FjJRXcc9CB) | [Starts with a Text](https://open.spotify.com/album/04fKp2Y7ThOEUstlz9C3SY) | 2:59 | 2023-01-27 | 2023-03-11 |
 | [Stay](https://open.spotify.com/track/067TB7SiK4ZRF5hURd2sJh) | [NNAVY](https://open.spotify.com/artist/3X9xtTCJtryAoqsSMKCzXu) | [Blue](https://open.spotify.com/album/3jsEUHsf88LQ49JgTq5AHH) | 4:30 | 2021-12-15 |  |
-| [STAY HERE \(feat\. Amaria\)](https://open.spotify.com/track/6xuGIouNLgWg4VEhEMp5NJ) | [Noah Guy](https://open.spotify.com/artist/0Cj5PLNNGVOsXUig1ic4s5), [Amaria](https://open.spotify.com/artist/2clS9uX2uOrHHqkyDMkzA1) | [STAY HERE](https://open.spotify.com/album/7u1fxY1Iy0RLXgd7HAokB6) | 4:27 | 2023-07-07 |  |
+| [STAY HERE \(feat\. Amaria\)](https://open.spotify.com/track/6xuGIouNLgWg4VEhEMp5NJ) | [Noah Guy](https://open.spotify.com/artist/0Cj5PLNNGVOsXUig1ic4s5), [Amaria](https://open.spotify.com/artist/2clS9uX2uOrHHqkyDMkzA1) | [STAY HERE](https://open.spotify.com/album/7u1fxY1Iy0RLXgd7HAokB6) | 4:27 | 2023-07-07 | 2023-10-22 |
 | [Stay High \- Childish Gambino Version](https://open.spotify.com/track/6Rrehwtm21J7E6r5b2kEHq) | [Childish Gambino](https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL), [Brittany Howard](https://open.spotify.com/artist/4XquDVA8pkg5Lx91No1JxB) | [Stay High \(Childish Gambino Version\)](https://open.spotify.com/album/3xCcyKRPqKMFMwXYfLSYLD) | 3:38 | 2021-12-15 | 2022-02-12 |
 | [Stole My Love](https://open.spotify.com/track/1ex37MbvUY3yBvwsh8yZVl) | [Jay Isaiah](https://open.spotify.com/artist/0oMty0VPLJbB8WAQ8otDAs) | [Stole My Love](https://open.spotify.com/album/7f44ShiYsYglLbfIwZAXOE) | 3:31 | 2021-12-15 | 2022-09-30 |
 | [stronger than pride](https://open.spotify.com/track/54URaRW4KVRnIklZvxS353) | [Ambré](https://open.spotify.com/artist/6gj3sMEZYP6IESIptoXnrP) | [stronger than pride](https://open.spotify.com/album/5StH2wfzayHmArLMOxmPd3) | 2:26 | 2023-09-16 |  |

@@ -1,12 +1,12 @@
 {
   "description": "Lo \u00faltimo y lo mejor de la salsa. Cover: Adolescent's Orquestra",
-  "num_followers": 1833416,
+  "num_followers": 1833532,
   "original_name": "Salsa Nation",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmNzcyNzRlMWEwMjU5NTgyY2FlYmE3ZjViZGM3MTMwOTUzMWYwNDI1",
+  "snapshot_id": "MCw0NGFlMThhNjk3MmI4MDNmMDQ2OTZmNzBmNjJlNWFiYWY5NjQ0NGUx",
   "tracks": [
     {
       "added_at": "2023-10-19 19:29:00",
@@ -151,22 +151,6 @@
     {
       "added_at": "2023-10-19 19:29:00",
       "album": {
-        "name": "Oro Salsero",
-        "url": "https://open.spotify.com/album/21W5Yp75UyOaWI2QALA7PS"
-      },
-      "artists": [
-        {
-          "name": "Lalo Rodriguez",
-          "url": "https://open.spotify.com/artist/5LmwELEKyxDFxrbZzR8K4U"
-        }
-      ],
-      "duration_ms": 311400,
-      "name": "Ven Dev\u00f3rame Otra Vez",
-      "url": "https://open.spotify.com/track/2HbmLkHkkI15eES8kpWRuI"
-    },
-    {
-      "added_at": "2023-10-19 19:29:00",
-      "album": {
         "name": "Para La Eternidad",
         "url": "https://open.spotify.com/album/2MSP1JG7KflqYqAHtk7wlB"
       },
@@ -179,6 +163,22 @@
       "duration_ms": 278866,
       "name": "La Vida Es Un Carnaval",
       "url": "https://open.spotify.com/track/1BwrMGGhPA6GarWIYaFrW8"
+    },
+    {
+      "added_at": "2023-10-19 19:29:00",
+      "album": {
+        "name": "Oro Salsero",
+        "url": "https://open.spotify.com/album/21W5Yp75UyOaWI2QALA7PS"
+      },
+      "artists": [
+        {
+          "name": "Lalo Rodriguez",
+          "url": "https://open.spotify.com/artist/5LmwELEKyxDFxrbZzR8K4U"
+        }
+      ],
+      "duration_ms": 311400,
+      "name": "Ven Dev\u00f3rame Otra Vez",
+      "url": "https://open.spotify.com/track/2HbmLkHkkI15eES8kpWRuI"
     },
     {
       "added_at": "2023-10-19 19:29:00",
@@ -575,6 +575,22 @@
     {
       "added_at": "2023-10-19 19:29:00",
       "album": {
+        "name": "MAFIOSA",
+        "url": "https://open.spotify.com/album/2UViwTgvnwO2aKYLFrQ9RH"
+      },
+      "artists": [
+        {
+          "name": "NATHY PELUSO",
+          "url": "https://open.spotify.com/artist/3VHAySZQPlfGlNLslzXYpN"
+        }
+      ],
+      "duration_ms": 266217,
+      "name": "MAFIOSA",
+      "url": "https://open.spotify.com/track/1X1vW0xDpkOS35ZxcPqLv6"
+    },
+    {
+      "added_at": "2023-10-19 19:29:00",
+      "album": {
         "name": "@dannocean",
         "url": "https://open.spotify.com/album/27588WrJksr8zu7ujmRsOA"
       },
@@ -591,22 +607,6 @@
       "duration_ms": 212914,
       "name": "SI ES AMOR",
       "url": "https://open.spotify.com/track/7JahThtCGJ9cdn6HWTWf9S"
-    },
-    {
-      "added_at": "2023-10-19 19:29:00",
-      "album": {
-        "name": "MAFIOSA",
-        "url": "https://open.spotify.com/album/2UViwTgvnwO2aKYLFrQ9RH"
-      },
-      "artists": [
-        {
-          "name": "NATHY PELUSO",
-          "url": "https://open.spotify.com/artist/3VHAySZQPlfGlNLslzXYpN"
-        }
-      ],
-      "duration_ms": 266217,
-      "name": "MAFIOSA",
-      "url": "https://open.spotify.com/track/1X1vW0xDpkOS35ZxcPqLv6"
     },
     {
       "added_at": "2023-10-19 19:29:00",
@@ -1631,26 +1631,18 @@
     {
       "added_at": "2023-10-19 19:29:00",
       "album": {
-        "name": "Nuestra Esquina",
-        "url": "https://open.spotify.com/album/2KmfhRaTEiEARwxWlyyRDD"
+        "name": "From Miami a La Habana",
+        "url": "https://open.spotify.com/album/1tNsdZEoSb3YrilndEMSmn"
       },
       "artists": [
         {
-          "name": "N'Klabe",
-          "url": "https://open.spotify.com/artist/3sXLxfvWccL0EI4Q3xxO3q"
-        },
-        {
-          "name": "La Tribu de Abrante",
-          "url": "https://open.spotify.com/artist/3sito6EcNee484oIM6KHwO"
-        },
-        {
-          "name": "Farina",
-          "url": "https://open.spotify.com/artist/7cYik4OyfBXYV5Z2TI7p90"
+          "name": "TIMBALIVE",
+          "url": "https://open.spotify.com/artist/5skRgtmxRx7ukwds6UlS7R"
         }
       ],
-      "duration_ms": 213000,
-      "name": "Pa'lante y Pa'tras - Remix",
-      "url": "https://open.spotify.com/track/0j1Fh9m0wZbvTIl8xIlSKH"
+      "duration_ms": 263680,
+      "name": "El Dinero",
+      "url": "https://open.spotify.com/track/0CEcTqeL5BC0V7gzmwytn3"
     },
     {
       "added_at": "2023-10-19 19:29:00",
@@ -1675,18 +1667,26 @@
     {
       "added_at": "2023-10-19 19:29:00",
       "album": {
-        "name": "From Miami a La Habana",
-        "url": "https://open.spotify.com/album/1tNsdZEoSb3YrilndEMSmn"
+        "name": "Nuestra Esquina",
+        "url": "https://open.spotify.com/album/2KmfhRaTEiEARwxWlyyRDD"
       },
       "artists": [
         {
-          "name": "TIMBALIVE",
-          "url": "https://open.spotify.com/artist/5skRgtmxRx7ukwds6UlS7R"
+          "name": "N'Klabe",
+          "url": "https://open.spotify.com/artist/3sXLxfvWccL0EI4Q3xxO3q"
+        },
+        {
+          "name": "La Tribu de Abrante",
+          "url": "https://open.spotify.com/artist/3sito6EcNee484oIM6KHwO"
+        },
+        {
+          "name": "Farina",
+          "url": "https://open.spotify.com/artist/7cYik4OyfBXYV5Z2TI7p90"
         }
       ],
-      "duration_ms": 263680,
-      "name": "El Dinero",
-      "url": "https://open.spotify.com/track/0CEcTqeL5BC0V7gzmwytn3"
+      "duration_ms": 213000,
+      "name": "Pa'lante y Pa'tras - Remix",
+      "url": "https://open.spotify.com/track/0j1Fh9m0wZbvTIl8xIlSKH"
     },
     {
       "added_at": "2023-10-19 19:29:00",

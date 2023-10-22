@@ -2588,7 +2588,7 @@
       ],
       "date_added": "2023-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-22",
       "duration_ms": 173741,
       "name": "De hade vart slut",
       "url": "https://open.spotify.com/track/5DpRttmHx6XejVWeGjO7D5"
@@ -5746,7 +5746,7 @@
       ],
       "date_added": "2023-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-22",
       "duration_ms": 144339,
       "name": "Helt allena",
       "url": "https://open.spotify.com/track/0br1JkuKdoIvPc1rPyT6qG"
@@ -8838,7 +8838,7 @@
       ],
       "date_added": "2023-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-22",
       "duration_ms": 214800,
       "name": "Misemotional",
       "url": "https://open.spotify.com/track/02veTwzG1FDUKtcFzpC9mJ"
@@ -10266,6 +10266,24 @@
       "duration_ms": 228200,
       "name": "Piller",
       "url": "https://open.spotify.com/track/5O7wcEKtYa8T7aAPPYEK4B"
+    },
+    {
+      "album": {
+        "name": "Pistol - Spotify Singles",
+        "url": "https://open.spotify.com/album/4VuiBokNrif0KZFLNCNNAj"
+      },
+      "artists": [
+        {
+          "name": "Parham",
+          "url": "https://open.spotify.com/artist/3ldCASdD4QRyfTt6lpPn6y"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218181,
+      "name": "Pistol - Spotify Singles",
+      "url": "https://open.spotify.com/track/4CzSEr6SjL2cRnWEPmG0QK"
     },
     {
       "album": {
@@ -13305,6 +13323,24 @@
     },
     {
       "album": {
+        "name": "Teach Me",
+        "url": "https://open.spotify.com/album/1G5PjW6Cy80XPTmyRr2nyv"
+      },
+      "artists": [
+        {
+          "name": "Augustine",
+          "url": "https://open.spotify.com/artist/1esNGCDFDiy6sKEqPhlLb4"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160058,
+      "name": "Teach Me",
+      "url": "https://open.spotify.com/track/69C61BkstEREBdizQrgbQi"
+    },
+    {
+      "album": {
         "name": "What They'll Say About Us",
         "url": "https://open.spotify.com/album/4mdAcPpvearpFuQm4VZc6a"
       },
@@ -14274,6 +14310,24 @@
       "duration_ms": 191999,
       "name": "Vad har du gjort",
       "url": "https://open.spotify.com/track/222DxaxvpiumRDT0xVM6Vj"
+    },
+    {
+      "album": {
+        "name": "Valborg - Spotify Singles",
+        "url": "https://open.spotify.com/album/2gh1otyRAP056ov4kwzPpz"
+      },
+      "artists": [
+        {
+          "name": "Hanna Ferm",
+          "url": "https://open.spotify.com/artist/2xQUbkvQFCU8DpdBFbMfLq"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153830,
+      "name": "Valborg - Spotify Singles",
+      "url": "https://open.spotify.com/track/6rHvgDYUjdYRf4K5jVLfpw"
     },
     {
       "album": {

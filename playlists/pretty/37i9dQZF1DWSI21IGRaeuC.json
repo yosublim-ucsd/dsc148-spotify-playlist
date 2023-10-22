@@ -1,12 +1,12 @@
 {
   "description": "Dive into the deep end of the tech house spectrum.",
-  "num_followers": 27472,
+  "num_followers": 27530,
   "original_name": "Minimal Tech",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxNWU2MWNjYjJhYTNiNzk5ZDY3MGI2YzFhZjBmODExNmNiOGI0ZDQz",
+  "snapshot_id": "MCw4M2FmOWRjMDAyYWMxNTgwNWY1NGFjNTdkNTVkMzliNTBiNGFjYzhl",
   "tracks": [
     {
       "added_at": "2023-10-20 04:01:00",
@@ -831,18 +831,22 @@
     {
       "added_at": "2023-10-20 04:01:00",
       "album": {
-        "name": "Rudeboi",
-        "url": "https://open.spotify.com/album/3aFcW1f1Deq9F7cwJDkbd5"
+        "name": "Hip Trumpets",
+        "url": "https://open.spotify.com/album/4VUQYr2q75PTwBQqg4Lno4"
       },
       "artists": [
         {
-          "name": "Eli Brown",
-          "url": "https://open.spotify.com/artist/5lVNSw2GPci8kebrAQpZqU"
+          "name": "Yolanda Be Cool",
+          "url": "https://open.spotify.com/artist/4KkHjCe8ouh8C2P9LPoD4F"
+        },
+        {
+          "name": "KVISION",
+          "url": "https://open.spotify.com/artist/2Ha11athGRqW6lDwDDgTpR"
         }
       ],
-      "duration_ms": 181054,
-      "name": "Rudeboi",
-      "url": "https://open.spotify.com/track/3oUkoGYPWVxt3NrohcoMHY"
+      "duration_ms": 195238,
+      "name": "Hip Trumpets",
+      "url": "https://open.spotify.com/track/4kYT3hIu8BKMxFqfApbIou"
     },
     {
       "added_at": "2023-10-20 04:01:00",
@@ -863,22 +867,18 @@
     {
       "added_at": "2023-10-20 04:01:00",
       "album": {
-        "name": "Hip Trumpets",
-        "url": "https://open.spotify.com/album/4VUQYr2q75PTwBQqg4Lno4"
+        "name": "Rudeboi",
+        "url": "https://open.spotify.com/album/3aFcW1f1Deq9F7cwJDkbd5"
       },
       "artists": [
         {
-          "name": "Yolanda Be Cool",
-          "url": "https://open.spotify.com/artist/4KkHjCe8ouh8C2P9LPoD4F"
-        },
-        {
-          "name": "KVISION",
-          "url": "https://open.spotify.com/artist/2Ha11athGRqW6lDwDDgTpR"
+          "name": "Eli Brown",
+          "url": "https://open.spotify.com/artist/5lVNSw2GPci8kebrAQpZqU"
         }
       ],
-      "duration_ms": 195238,
-      "name": "Hip Trumpets",
-      "url": "https://open.spotify.com/track/4kYT3hIu8BKMxFqfApbIou"
+      "duration_ms": 181054,
+      "name": "Rudeboi",
+      "url": "https://open.spotify.com/track/3oUkoGYPWVxt3NrohcoMHY"
     },
     {
       "added_at": "2023-10-20 04:01:00",
@@ -999,26 +999,6 @@
     {
       "added_at": "2023-10-20 04:01:00",
       "album": {
-        "name": "Scout",
-        "url": "https://open.spotify.com/album/5FMzEjhMgICTx0ynFYbTig"
-      },
-      "artists": [
-        {
-          "name": "SLUMBERJACK",
-          "url": "https://open.spotify.com/artist/55BFQS36sJYz2B0ClypIvS"
-        },
-        {
-          "name": "Posij",
-          "url": "https://open.spotify.com/artist/7nmucrDZXxIQNGLwCqPQpO"
-        }
-      ],
-      "duration_ms": 234193,
-      "name": "Scout",
-      "url": "https://open.spotify.com/track/1wvlh0A1mMVAb7Gw2dGV9a"
-    },
-    {
-      "added_at": "2023-10-20 04:01:00",
-      "album": {
         "name": "This Energy EP",
         "url": "https://open.spotify.com/album/6BhhDPtDrqadoXUT3y9FUU"
       },
@@ -1055,6 +1035,26 @@
     {
       "added_at": "2023-10-20 04:01:00",
       "album": {
+        "name": "Scout",
+        "url": "https://open.spotify.com/album/5FMzEjhMgICTx0ynFYbTig"
+      },
+      "artists": [
+        {
+          "name": "SLUMBERJACK",
+          "url": "https://open.spotify.com/artist/55BFQS36sJYz2B0ClypIvS"
+        },
+        {
+          "name": "Posij",
+          "url": "https://open.spotify.com/artist/7nmucrDZXxIQNGLwCqPQpO"
+        }
+      ],
+      "duration_ms": 234193,
+      "name": "Scout",
+      "url": "https://open.spotify.com/track/1wvlh0A1mMVAb7Gw2dGV9a"
+    },
+    {
+      "added_at": "2023-10-20 04:01:00",
+      "album": {
         "name": "Club Vibes Part 01",
         "url": "https://open.spotify.com/album/03zo0uqSccDlJjgWfUT5zk"
       },
@@ -1071,22 +1071,6 @@
     {
       "added_at": "2023-10-20 04:01:00",
       "album": {
-        "name": "Bliss",
-        "url": "https://open.spotify.com/album/6t0gCJ3EsuUoIeAZJ7XfgS"
-      },
-      "artists": [
-        {
-          "name": "Kyle Walker",
-          "url": "https://open.spotify.com/artist/4kB1srfgZ4eok7CmDqyOJP"
-        }
-      ],
-      "duration_ms": 220957,
-      "name": "Bliss",
-      "url": "https://open.spotify.com/track/1Rrn1xTm9PP6bRWoCJ9CiG"
-    },
-    {
-      "added_at": "2023-10-20 04:01:00",
-      "album": {
         "name": "What's Your Name",
         "url": "https://open.spotify.com/album/7JrzBm1nyUSYZ0VD6TCN59"
       },
@@ -1099,6 +1083,22 @@
       "duration_ms": 444444,
       "name": "What's Your Name",
       "url": "https://open.spotify.com/track/2hGFAk0wIN0HYOnKXLopC3"
+    },
+    {
+      "added_at": "2023-10-20 04:01:00",
+      "album": {
+        "name": "Bliss",
+        "url": "https://open.spotify.com/album/6t0gCJ3EsuUoIeAZJ7XfgS"
+      },
+      "artists": [
+        {
+          "name": "Kyle Walker",
+          "url": "https://open.spotify.com/artist/4kB1srfgZ4eok7CmDqyOJP"
+        }
+      ],
+      "duration_ms": 220957,
+      "name": "Bliss",
+      "url": "https://open.spotify.com/track/1Rrn1xTm9PP6bRWoCJ9CiG"
     },
     {
       "added_at": "2023-10-20 04:01:00",
@@ -1371,22 +1371,6 @@
     {
       "added_at": "2023-10-20 04:01:00",
       "album": {
-        "name": "Gozar",
-        "url": "https://open.spotify.com/album/5AQeJCMWPNAPw8wPmZlqUW"
-      },
-      "artists": [
-        {
-          "name": "Paskman",
-          "url": "https://open.spotify.com/artist/70s7RdFqr3UEBlooMGUQdO"
-        }
-      ],
-      "duration_ms": 204384,
-      "name": "Gozar",
-      "url": "https://open.spotify.com/track/5pwPJceEvQK9B41jCZ7HD1"
-    },
-    {
-      "added_at": "2023-10-20 04:01:00",
-      "album": {
         "name": "Lucky Bastard",
         "url": "https://open.spotify.com/album/026hdeEIIpCADMGbXyVlcQ"
       },
@@ -1399,6 +1383,22 @@
       "duration_ms": 185759,
       "name": "Lucky Bastard",
       "url": "https://open.spotify.com/track/2hGg0mGHm3A0fqgpfpLwEi"
+    },
+    {
+      "added_at": "2023-10-20 04:01:00",
+      "album": {
+        "name": "Gozar",
+        "url": "https://open.spotify.com/album/5AQeJCMWPNAPw8wPmZlqUW"
+      },
+      "artists": [
+        {
+          "name": "Paskman",
+          "url": "https://open.spotify.com/artist/70s7RdFqr3UEBlooMGUQdO"
+        }
+      ],
+      "duration_ms": 204384,
+      "name": "Gozar",
+      "url": "https://open.spotify.com/track/5pwPJceEvQK9B41jCZ7HD1"
     },
     {
       "added_at": "2023-10-20 04:01:00",
@@ -1435,22 +1435,6 @@
     {
       "added_at": "2023-10-20 04:01:00",
       "album": {
-        "name": "You & Me",
-        "url": "https://open.spotify.com/album/7g0uWDHesKV8s9JvFHRLIS"
-      },
-      "artists": [
-        {
-          "name": "Ky William",
-          "url": "https://open.spotify.com/artist/2dIpuJtQApGRmGeUobllYq"
-        }
-      ],
-      "duration_ms": 221818,
-      "name": "You & Me",
-      "url": "https://open.spotify.com/track/5QQSZ36V2Jsh6jgnc2Bysn"
-    },
-    {
-      "added_at": "2023-10-20 04:01:00",
-      "album": {
         "name": "No Bueno (Extended Mix)",
         "url": "https://open.spotify.com/album/6z3pZ6w15ymHLm4dyOHo6u"
       },
@@ -1483,22 +1467,18 @@
     {
       "added_at": "2023-10-20 04:01:00",
       "album": {
-        "name": "Kuneh",
-        "url": "https://open.spotify.com/album/7yxzjaabbnrkLcBYVRoBI7"
+        "name": "You & Me",
+        "url": "https://open.spotify.com/album/7g0uWDHesKV8s9JvFHRLIS"
       },
       "artists": [
         {
-          "name": "Ninetoes",
-          "url": "https://open.spotify.com/artist/5MP4PiGA5PNFrsVjtauFnC"
-        },
-        {
-          "name": "Davide Squillace",
-          "url": "https://open.spotify.com/artist/1wQoXZDTq0UCJhXffsm7Nh"
+          "name": "Ky William",
+          "url": "https://open.spotify.com/artist/2dIpuJtQApGRmGeUobllYq"
         }
       ],
-      "duration_ms": 188976,
-      "name": "Kuneh - Edit",
-      "url": "https://open.spotify.com/track/3NdCkGGx6tlWlQamjRjq3o"
+      "duration_ms": 221818,
+      "name": "You & Me",
+      "url": "https://open.spotify.com/track/5QQSZ36V2Jsh6jgnc2Bysn"
     },
     {
       "added_at": "2023-10-20 04:01:00",
@@ -1535,22 +1515,22 @@
     {
       "added_at": "2023-10-20 04:01:00",
       "album": {
-        "name": "Tears In Berghain EP",
-        "url": "https://open.spotify.com/album/7ez8S0rG2f4hec5NIJOaWY"
+        "name": "Kuneh",
+        "url": "https://open.spotify.com/album/7yxzjaabbnrkLcBYVRoBI7"
       },
       "artists": [
         {
-          "name": "Bjarki",
-          "url": "https://open.spotify.com/artist/6FtSCON62H1CEJtN39y9yI"
+          "name": "Ninetoes",
+          "url": "https://open.spotify.com/artist/5MP4PiGA5PNFrsVjtauFnC"
         },
         {
-          "name": "Kuldaboli",
-          "url": "https://open.spotify.com/artist/3iqkQOfaf7oQtPfmGaMl4W"
+          "name": "Davide Squillace",
+          "url": "https://open.spotify.com/artist/1wQoXZDTq0UCJhXffsm7Nh"
         }
       ],
-      "duration_ms": 267122,
-      "name": "Tears In Berghain",
-      "url": "https://open.spotify.com/track/0DJQZ0od70Z6SkuoEeOYAa"
+      "duration_ms": 188976,
+      "name": "Kuneh - Edit",
+      "url": "https://open.spotify.com/track/3NdCkGGx6tlWlQamjRjq3o"
     },
     {
       "added_at": "2023-10-20 04:01:00",
@@ -1571,34 +1551,22 @@
     {
       "added_at": "2023-10-20 04:01:00",
       "album": {
-        "name": "Honey Bee",
-        "url": "https://open.spotify.com/album/6Q5TXCW5VO7fc5pdR1PBtX"
+        "name": "Tears In Berghain EP",
+        "url": "https://open.spotify.com/album/7ez8S0rG2f4hec5NIJOaWY"
       },
       "artists": [
         {
-          "name": "Ninetoes",
-          "url": "https://open.spotify.com/artist/5MP4PiGA5PNFrsVjtauFnC"
-        }
-      ],
-      "duration_ms": 263931,
-      "name": "Honey Bee - Edit",
-      "url": "https://open.spotify.com/track/7KJwlAWtpbQzTGkJSrBbnk"
-    },
-    {
-      "added_at": "2023-10-20 04:01:00",
-      "album": {
-        "name": "Hydroponic EP",
-        "url": "https://open.spotify.com/album/0wmLrDb6pibDQtAtWFvB4P"
-      },
-      "artists": [
+          "name": "Bjarki",
+          "url": "https://open.spotify.com/artist/6FtSCON62H1CEJtN39y9yI"
+        },
         {
-          "name": "Dennis Cruz",
-          "url": "https://open.spotify.com/artist/27mWOSZjlpmtoqsRjRwQyu"
+          "name": "Kuldaboli",
+          "url": "https://open.spotify.com/artist/3iqkQOfaf7oQtPfmGaMl4W"
         }
       ],
-      "duration_ms": 434000,
-      "name": "Hydroponic",
-      "url": "https://open.spotify.com/track/2DxIgWLfSqB8kfmPql4Hg8"
+      "duration_ms": 267122,
+      "name": "Tears In Berghain",
+      "url": "https://open.spotify.com/track/0DJQZ0od70Z6SkuoEeOYAa"
     },
     {
       "added_at": "2023-10-20 04:01:00",
@@ -1619,6 +1587,22 @@
     {
       "added_at": "2023-10-20 04:01:00",
       "album": {
+        "name": "Hydroponic EP",
+        "url": "https://open.spotify.com/album/0wmLrDb6pibDQtAtWFvB4P"
+      },
+      "artists": [
+        {
+          "name": "Dennis Cruz",
+          "url": "https://open.spotify.com/artist/27mWOSZjlpmtoqsRjRwQyu"
+        }
+      ],
+      "duration_ms": 434000,
+      "name": "Hydroponic",
+      "url": "https://open.spotify.com/track/2DxIgWLfSqB8kfmPql4Hg8"
+    },
+    {
+      "added_at": "2023-10-20 04:01:00",
+      "album": {
         "name": "Pronosticos Cachito",
         "url": "https://open.spotify.com/album/50SQ7JTtUKAjggTuf6Sv6e"
       },
@@ -1631,6 +1615,22 @@
       "duration_ms": 240000,
       "name": "Pronosticos Cachito",
       "url": "https://open.spotify.com/track/3lBQvzsycvySqg739cOGew"
+    },
+    {
+      "added_at": "2023-10-20 04:01:00",
+      "album": {
+        "name": "Rok The House",
+        "url": "https://open.spotify.com/album/03T4gaOwcdDyEkmznuaYq1"
+      },
+      "artists": [
+        {
+          "name": "Ben Sterling",
+          "url": "https://open.spotify.com/artist/79uJoLQkQ621xZy7MyH4uL"
+        }
+      ],
+      "duration_ms": 255000,
+      "name": "Rok The House",
+      "url": "https://open.spotify.com/track/1A6KKdSY4hpCBqJOmeQEWQ"
     },
     {
       "added_at": "2023-10-20 04:01:00",
@@ -1651,18 +1651,18 @@
     {
       "added_at": "2023-10-20 04:01:00",
       "album": {
-        "name": "Rok The House",
-        "url": "https://open.spotify.com/album/03T4gaOwcdDyEkmznuaYq1"
+        "name": "Honey Bee",
+        "url": "https://open.spotify.com/album/6Q5TXCW5VO7fc5pdR1PBtX"
       },
       "artists": [
         {
-          "name": "Ben Sterling",
-          "url": "https://open.spotify.com/artist/79uJoLQkQ621xZy7MyH4uL"
+          "name": "Ninetoes",
+          "url": "https://open.spotify.com/artist/5MP4PiGA5PNFrsVjtauFnC"
         }
       ],
-      "duration_ms": 255000,
-      "name": "Rok The House",
-      "url": "https://open.spotify.com/track/1A6KKdSY4hpCBqJOmeQEWQ"
+      "duration_ms": 263931,
+      "name": "Honey Bee - Edit",
+      "url": "https://open.spotify.com/track/7KJwlAWtpbQzTGkJSrBbnk"
     },
     {
       "added_at": "2023-10-20 04:01:00",
@@ -1759,22 +1759,18 @@
     {
       "added_at": "2023-10-20 04:01:00",
       "album": {
-        "name": "Into The Hood",
-        "url": "https://open.spotify.com/album/2wlhcGHzVyQD3LksH4wSOp"
+        "name": "Unfair",
+        "url": "https://open.spotify.com/album/0wGiod0Vq6XPiade8rEpbZ"
       },
       "artists": [
         {
-          "name": "Adam Ten",
-          "url": "https://open.spotify.com/artist/05tmGPn4fFdVpnsMt0YW5S"
-        },
-        {
-          "name": "Yamagucci",
-          "url": "https://open.spotify.com/artist/6EuSg8aungYTh6vNgL1EpG"
+          "name": "Beltran",
+          "url": "https://open.spotify.com/artist/1jgSqmZTBltb5O2L7ErmEP"
         }
       ],
-      "duration_ms": 362180,
-      "name": "Into The Hood",
-      "url": "https://open.spotify.com/track/3A3aYBchPWOXGC20NuG5pR"
+      "duration_ms": 247566,
+      "name": "Unfair",
+      "url": "https://open.spotify.com/track/3YvkoTPtxXvcEfs3vcZQVl"
     },
     {
       "added_at": "2023-10-20 04:01:00",

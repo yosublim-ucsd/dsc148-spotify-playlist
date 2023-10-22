@@ -1,12 +1,12 @@
 {
   "description": "For body and mind, blues straight from the soul.",
-  "num_followers": 63695,
+  "num_followers": 63750,
   "original_name": "Healin' Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwZDM1OWU2NGZkNzBhZGY3NDYxNjNjNzMwZGJjNjcwMjc2ZDFkODc1",
+  "snapshot_id": "MCxjYjRhN2E5NTk4YWUxMTI1N2FiNGI3NzgxOTgzMzRiN2IxOGRjNTM0",
   "tracks": [
     {
       "added_at": "2023-10-05 13:06:44",
@@ -475,22 +475,6 @@
     {
       "added_at": "2023-10-05 13:06:44",
       "album": {
-        "name": "Blues To The Bone",
-        "url": "https://open.spotify.com/album/1FbyARbzpYjJBoHm9UgDyQ"
-      },
-      "artists": [
-        {
-          "name": "Etta James",
-          "url": "https://open.spotify.com/artist/0iOVhN3tnSvgDbcg25JoJb"
-        }
-      ],
-      "duration_ms": 215333,
-      "name": "Dust My Broom",
-      "url": "https://open.spotify.com/track/7ab9T50hNO7ULa2pvtcjjZ"
-    },
-    {
-      "added_at": "2023-10-05 13:06:44",
-      "album": {
         "name": "Done Come Too Far",
         "url": "https://open.spotify.com/album/3509A3ATMDnr5hYBji4RcV"
       },
@@ -503,6 +487,22 @@
       "duration_ms": 210731,
       "name": "Barefoot In Heaven",
       "url": "https://open.spotify.com/track/2YJWdK1kvJksztXC9wzwM1"
+    },
+    {
+      "added_at": "2023-10-05 13:06:44",
+      "album": {
+        "name": "Blues To The Bone",
+        "url": "https://open.spotify.com/album/1FbyARbzpYjJBoHm9UgDyQ"
+      },
+      "artists": [
+        {
+          "name": "Etta James",
+          "url": "https://open.spotify.com/artist/0iOVhN3tnSvgDbcg25JoJb"
+        }
+      ],
+      "duration_ms": 215333,
+      "name": "Dust My Broom",
+      "url": "https://open.spotify.com/track/7ab9T50hNO7ULa2pvtcjjZ"
     },
     {
       "added_at": "2023-10-05 13:06:44",
@@ -539,22 +539,6 @@
     {
       "added_at": "2023-10-05 13:06:44",
       "album": {
-        "name": "Don't Lose This",
-        "url": "https://open.spotify.com/album/3OEEKjCodSc3o3jf6EGyO1"
-      },
-      "artists": [
-        {
-          "name": "Pops Staples",
-          "url": "https://open.spotify.com/artist/0F8Bkp3cWlXJKp1GmFV5n3"
-        }
-      ],
-      "duration_ms": 246826,
-      "name": "Friendship",
-      "url": "https://open.spotify.com/track/364TGoiK2nPK0YYa4Z4p2Y"
-    },
-    {
-      "added_at": "2023-10-05 13:06:44",
-      "album": {
         "name": "Rancho Texicano: The Very Best of ZZ Top",
         "url": "https://open.spotify.com/album/6ti1HC6R2Op1enYiuCDf6k"
       },
@@ -567,6 +551,22 @@
       "duration_ms": 279173,
       "name": "Blue Jean Blues",
       "url": "https://open.spotify.com/track/2YRF157SH4KOtDlaVjHoaB"
+    },
+    {
+      "added_at": "2023-10-05 13:06:44",
+      "album": {
+        "name": "Don't Lose This",
+        "url": "https://open.spotify.com/album/3OEEKjCodSc3o3jf6EGyO1"
+      },
+      "artists": [
+        {
+          "name": "Pops Staples",
+          "url": "https://open.spotify.com/artist/0F8Bkp3cWlXJKp1GmFV5n3"
+        }
+      ],
+      "duration_ms": 246826,
+      "name": "Friendship",
+      "url": "https://open.spotify.com/track/364TGoiK2nPK0YYa4Z4p2Y"
     },
     {
       "added_at": "2023-10-05 13:06:44",
@@ -887,22 +887,18 @@
     {
       "added_at": "2023-10-05 13:06:44",
       "album": {
-        "name": "The Blues Album",
-        "url": "https://open.spotify.com/album/4Oi6hTkomUsifP4dqmKZlS"
+        "name": "You Don't Know Me",
+        "url": "https://open.spotify.com/album/4uc55G1No3AyUqiWBpd9LC"
       },
       "artists": [
         {
-          "name": "Joanne Shaw Taylor",
-          "url": "https://open.spotify.com/artist/3FmTlY1F9dQyRursrsUaU7"
-        },
-        {
-          "name": "Mike Farris",
-          "url": "https://open.spotify.com/artist/2lGlFTygMMk37JsYm8a46o"
+          "name": "HeavyDrunk",
+          "url": "https://open.spotify.com/artist/0txqFPQebPvVitCyaj4rVp"
         }
       ],
-      "duration_ms": 289266,
-      "name": "I Don't Know What You've Got",
-      "url": "https://open.spotify.com/track/2I5D6pMboqouze5XiRNK0D"
+      "duration_ms": 210851,
+      "name": "Love & Devotion",
+      "url": "https://open.spotify.com/track/0HdYXZKwBLwhKMVBVerHms"
     },
     {
       "added_at": "2023-10-05 13:06:44",
@@ -923,18 +919,22 @@
     {
       "added_at": "2023-10-05 13:06:44",
       "album": {
-        "name": "You Don't Know Me",
-        "url": "https://open.spotify.com/album/4uc55G1No3AyUqiWBpd9LC"
+        "name": "The Blues Album",
+        "url": "https://open.spotify.com/album/4Oi6hTkomUsifP4dqmKZlS"
       },
       "artists": [
         {
-          "name": "HeavyDrunk",
-          "url": "https://open.spotify.com/artist/0txqFPQebPvVitCyaj4rVp"
+          "name": "Joanne Shaw Taylor",
+          "url": "https://open.spotify.com/artist/3FmTlY1F9dQyRursrsUaU7"
+        },
+        {
+          "name": "Mike Farris",
+          "url": "https://open.spotify.com/artist/2lGlFTygMMk37JsYm8a46o"
         }
       ],
-      "duration_ms": 210851,
-      "name": "Love & Devotion",
-      "url": "https://open.spotify.com/track/0HdYXZKwBLwhKMVBVerHms"
+      "duration_ms": 289266,
+      "name": "I Don't Know What You've Got",
+      "url": "https://open.spotify.com/track/2I5D6pMboqouze5XiRNK0D"
     },
     {
       "added_at": "2023-10-05 13:06:44",

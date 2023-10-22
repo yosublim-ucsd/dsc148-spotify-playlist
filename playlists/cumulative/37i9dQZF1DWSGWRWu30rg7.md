@@ -4,7 +4,7 @@
 
 > Temukan beragam musik terbaru dari talenta segar dalam negeri\. Cover: Rony Parulian
 
-2,666 songs - 6 day 19 hr 40 min
+2,667 songs - 6 day 19 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -122,6 +122,7 @@
 | [Alone](https://open.spotify.com/track/679RBqJouy6FK0mT53oeG1) | [Old Polaroid](https://open.spotify.com/artist/3qwiP6NgwG5DFU071XHqGT) | [Pluviophile](https://open.spotify.com/album/3ZoUb0RxeEWP76RD00mFs3) | 2:51 | 2023-08-17 | 2023-09-01 |
 | [Alone](https://open.spotify.com/track/5WSjhargBuvS6Di9QqG2Uv) | [Revo Marty](https://open.spotify.com/artist/0j2PjDgskS5HrDs3qFaJkT) | [Alone](https://open.spotify.com/album/3WM2PGtlS9FNZoPERCviOj) | 3:31 | 2023-02-16 | 2023-03-03 |
 | [alone in a dark room](https://open.spotify.com/track/1vRZBuYwtCP1I0mSbQeZv0) | [Andhika Dewa](https://open.spotify.com/artist/32k61yXf2smHfReCToDfFf) | [alone in a dark room](https://open.spotify.com/album/3ppjujxfPN9AnvLuog1O3p) | 3:03 | 2022-02-10 | 2022-02-25 |
+| [Alur](https://open.spotify.com/track/4RbxBIaqalrbL7E7UBeIqP) | [Hindami](https://open.spotify.com/artist/7pED4CbTvA0wd6D8lWkgrR) | [Akhir Dua Lima](https://open.spotify.com/album/3VGZa4obs9Pb2jVsrBes88) | 3:16 | 2023-10-20 |  |
 | [Always Be Happy](https://open.spotify.com/track/25cuEMcqnZGVenr0VsoyMy) | [Riv.](https://open.spotify.com/artist/5Kocp4of19Jvt5EfBFkOK7), [Joses](https://open.spotify.com/artist/33FSz3aHm16CjRup1E1cBg) | [Always Be Happy](https://open.spotify.com/album/5ox4KSW4vm2Mbmy52xlItA) | 5:00 | 2022-01-06 | 2022-01-14 |
 | [Always Be Mine](https://open.spotify.com/track/052YAXRKWeYXTmlyQm81Ge) | [Wetbox](https://open.spotify.com/artist/0Rv518aK56GVppmTefGITz) | [Always Be Mine](https://open.spotify.com/album/1gfMCs93ymmW1aOAY5nQdn) | 2:46 | 2022-01-06 | 2022-01-14 |
 | [always u](https://open.spotify.com/track/4tpUBXRCLrwe2tNBxnGbtj) | [The Candle Light Children](https://open.spotify.com/artist/59PyMbVTNW1JNa6aCHGFGW) | [always u](https://open.spotify.com/album/1DKsvrgmCAdpHfci5KajK1) | 3:50 | 2022-03-10 | 2022-03-25 |
@@ -274,7 +275,7 @@
 | [Berjuang / Menghilang](https://open.spotify.com/track/3fhLR0o3H5lghWV5CVFORe) | [Fredo Aquinaldo](https://open.spotify.com/artist/5XygoDukeHMwxWq0XITRoh) | [Berjuang / Menghilang](https://open.spotify.com/album/5C1WL7PB0JsjRfywCGHzpa) | 4:07 | 2023-06-29 | 2023-07-15 |
 | [Berjuang Bersama](https://open.spotify.com/track/3nWTtVsanCp5bW8bZDrVEn) | [ZEA](https://open.spotify.com/artist/5Eg4m2mzK27b1KpaGawjYA) | [Berjuang Bersama](https://open.spotify.com/album/0EIhyjE1beAXY9dRduQmO2) | 3:11 | 2023-06-08 | 2023-06-23 |
 | [Berlabuh](https://open.spotify.com/track/3SUAqFRI0BJnmDGPWYiA7F) | [JESENN](https://open.spotify.com/artist/3cNQyXzy5m2IL2qplegOSq) | [JILID 1](https://open.spotify.com/album/3pDXPXp2avRg4esfa4Q0lP) | 3:31 | 2022-02-24 | 2022-03-11 |
-| [Berlari \- From "Dua Wajah Arjuna"](https://open.spotify.com/track/3yMNcIb9O0i35qmN22nWmz) | [joy imanuel](https://open.spotify.com/artist/7uyOCBfUtyV2IHEKZYYxMz) | [Berlari \(From "Dua Wajah Arjuna"\)](https://open.spotify.com/album/6a8ix6Zcqd7ilHgl6GMhV5) | 3:20 | 2023-10-19 |  |
+| [Berlari \- From "Dua Wajah Arjuna"](https://open.spotify.com/track/3yMNcIb9O0i35qmN22nWmz) | [Joy Imanuel](https://open.spotify.com/artist/5f5V3YIwYfx5DB0GfP45Tu) | [Berlari \(From "Dua Wajah Arjuna"\)](https://open.spotify.com/album/6a8ix6Zcqd7ilHgl6GMhV5) | 3:20 | 2023-10-19 |  |
 | [Berlayar Bersamamu](https://open.spotify.com/track/0pa2We94VjKzJQEF93LHgU) | [Redinka Nahumury](https://open.spotify.com/artist/6TuB4MqYsKjhB2ZIZjKl2c) | [Berlayar Bersamamu](https://open.spotify.com/album/3mZ01C3018kD6X716ANfvQ) | 2:47 | 2022-06-02 | 2022-06-24 |
 | [Bermula](https://open.spotify.com/track/0FBM74sHoZXPR0pJWLSJe5) | [Chūsha](https://open.spotify.com/artist/14qvOZ9N420mYXnkGfR2Ly) | [Bermula](https://open.spotify.com/album/3JZR2CpwCMcOGb4Riq29cy) | 1:12 | 2022-04-07 | 2022-04-22 |
 | [Berpisah Lebih Indah](https://open.spotify.com/track/5OhSbOu2OuOBlcqT5XR6Xc) | [Raissa Ramadhani](https://open.spotify.com/artist/7F4To7Rp9vdkoaCi70TYD5) | [Berpisah Lebih Indah](https://open.spotify.com/album/2Jb8niTzCRPmE1WaNeJNTz) | 3:57 | 2022-08-25 | 2023-01-13 |

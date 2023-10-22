@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYIJ3HxqIxIJ.md) - [plain]
 
 > Vv Pete is our new RADAR artist to watch!
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,928 likes - 66 songs - 3 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,932 likes - 66 songs - 3 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Mamas Car](https://open.spotify.com/track/51JtGJtPkfPz4qLHFIwC4j) | [Vv Pete](https://open.spotify.com/artist/66IkoRt5JAg88LCnPuyxXr) | [Mamas Car](https://open.spotify.com/album/5jSswkACL8ldBkgeuWKG4o) | 2:16 |
+| 1 | [Mamas Car](https://open.spotify.com/track/51JtGJtPkfPz4qLHFIwC4j) | [Vv Pete](https://open.spotify.com/artist/66IkoRt5JAg88LCnPuyxXr), [UTILITY](https://open.spotify.com/artist/07SL7uPXhqtBGz0Pqljjgi) | [Mamas Car](https://open.spotify.com/album/5jSswkACL8ldBkgeuWKG4o) | 2:16 |
 | 2 | [OUR PEOPLE \(feat\. The Presets\)](https://open.spotify.com/track/0mmLOdN3lD9zfvW91SNsrG) | [3%](https://open.spotify.com/artist/4CnzGjdsHYGHgmsDk1tNwg) | [OUR PEOPLE \(feat\. The Presets\)](https://open.spotify.com/album/4zVoQrcFwZgHVQPXJe9pKY) | 3:54 |
 | 3 | [I Used To Be Fun](https://open.spotify.com/track/7sCMZKSjZbx563QSkqxTqC) | [Teen Jesus and the Jean Teasers](https://open.spotify.com/artist/3KrgUUwoRQ6OQp4IOmqnSF) | [I Used To Be Fun](https://open.spotify.com/album/5gpJSwcv4t4W5s9YAFxjlI) | 2:41 |
 | 4 | [PLAYLIST \(ROCK DA BOAT\)](https://open.spotify.com/track/7D6jnDW82vRRMiCRLcy0pl) | [PANIA](https://open.spotify.com/artist/5amlDCKh0QTWhI6BOMn6Pf) | [WE STILL YOUNG](https://open.spotify.com/album/2UlMKNVdCbVxTG4LwxpiTz) | 2:47 |
@@ -62,7 +62,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYIJ3HxqIxIJ.md) - [plain]
 | 52 | [Sunday Morning](https://open.spotify.com/track/2btftog5enfQLHGvpqNd4N) | [Aidan Fine](https://open.spotify.com/artist/0KDjHOiKe5QcKHwpvKb33V) | [Sunday Morning](https://open.spotify.com/album/1eQ589pdoxuc82OSxCtk9j) | 2:07 |
 | 53 | [The City](https://open.spotify.com/track/1GNU5GDMAP2xTlLa7qN18k) | [RIIKI REID](https://open.spotify.com/artist/5E9EpWliOZr1yTJ8A7XSqC) | [The City](https://open.spotify.com/album/0gsbIh3mdGUbtHZ0sXOlhO) | 3:02 |
 | 54 | [Blackphemy](https://open.spotify.com/track/5rYBgw7CHL5G4S6UJKOZ5H) | [Yb.](https://open.spotify.com/artist/3grUv9qZhOiskIVa9fff8i) | [Blackphemy](https://open.spotify.com/album/4PDdJvVN3LysSlGBoJKzCW) | 3:24 |
-| 55 | [Till You’re Ready](https://open.spotify.com/track/6uhOg5d86Bvr5KQ3Tj6eo1) | [Navvy](https://open.spotify.com/artist/59uIMi3xrGO0kwfy7Zea24) | [Till You’re Ready](https://open.spotify.com/album/77stMVoaQ9h2oIkHFbFXNU) | 2:56 |
+| 55 | [Til You’re Ready](https://open.spotify.com/track/7bhY6srx85phHa7TlTAkmV) | [Navvy](https://open.spotify.com/artist/59uIMi3xrGO0kwfy7Zea24) | [Til You’re Ready](https://open.spotify.com/album/1zPr41pgLuvGCqRV1mK3Iu) | 2:58 |
 | 56 | [Rolling Loud](https://open.spotify.com/track/55cEKK9VLkExu4RQO7gnPY) | [Youngn Lipz](https://open.spotify.com/artist/36PxHmbx5QrRTpuCaw4FuV), [Hooligan Hefs](https://open.spotify.com/artist/1VXE1xqGNlT9HG6TcjpQ9I) | [Rolling Loud](https://open.spotify.com/album/1PwWWKOV3XgyRLGSWjO5Nm) | 2:55 |
 | 57 | [Rollin'](https://open.spotify.com/track/1o8aLzMLNpW6wsMpVCpLpy) | [Chanel Loren](https://open.spotify.com/artist/50D6HQtMzB5fH7eXFA3tJK) | [Rollin'](https://open.spotify.com/album/5qVB1w5FpWODqzRjMT3mnN) | 2:43 |
 | 58 | [Better](https://open.spotify.com/track/3rpTiyMmUCnyDxRKSREQ2M) | [Ziggy Ramo](https://open.spotify.com/artist/068h92tgvxKyexVLhE75Q7), [Jantine](https://open.spotify.com/artist/3Hlhy5mpM8cT1Guv1GOhQG) | [Sugar Coated Lies](https://open.spotify.com/album/5r8SQ07PNhCm8C1ZZBfm0H) | 3:51 |
@@ -75,4 +75,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYIJ3HxqIxIJ.md) - [plain]
 | 65 | [Perfect For You](https://open.spotify.com/track/4BYKEjoZaJrw3qwCPhGpbP) | [Peach PRC](https://open.spotify.com/artist/006j2rer9tZJCYniu7SaWS) | [Perfect For You](https://open.spotify.com/album/1FCUqRoNBgaoLJFqbA13ir) | 2:58 |
 | 66 | [Rhythms](https://open.spotify.com/track/7B1k04cXHoNGF1ve0k3acD) | [Beddy Rays](https://open.spotify.com/artist/4qn6hSO1qLlaAW8jiyOw18) | [Rhythms](https://open.spotify.com/album/2J7YuvDTltVy6R3noYv416) | 3:15 |
 
-Snapshot ID: `MCw0OGYyOTIyYTJkOTRiN2M3YjQzOGEzNjQwODQ3ZDE2ZGM5NDE5ZDc1`
+Snapshot ID: `MCxiYjFhNGMyMGQyZjI5YTMwZTIxZDQ2ZDk0NmU2NzNhNDgwNTU1OTMx`

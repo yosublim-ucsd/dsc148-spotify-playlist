@@ -4,7 +4,7 @@
 
 > 시원한 국내음악들과 드라이빙을 즐겨보세요! \(Tap your feet to the K\-Pop beats on your way through the driving moments.\)
 
-678 songs - 1 day 13 hr 28 min
+679 songs - 1 day 13 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -53,7 +53,7 @@
 | [Attention](https://open.spotify.com/track/7FmMYtdjfJSeZjC2e2Pt6t) | [SHINee](https://open.spotify.com/artist/2hRQKC0gqlZGPrmUKbcchR) | [Don't Call Me \- The 7th Album](https://open.spotify.com/album/6bfcHf3khPey88qjiiw8V3) | 3:44 | 2021-12-07 | 2022-04-09 |
 | [AWay](https://open.spotify.com/track/6kDjvnLPUyDn0GVc6BLG6A) | [JEONG EUN JI](https://open.spotify.com/artist/7cgAZ03K2mMaWB70gwZs92) | [Simple](https://open.spotify.com/album/3UM9M1xTkqU6Df6Cciui5J) | 3:20 | 2022-03-24 | 2022-04-20 |
 | [Ay\-Yo](https://open.spotify.com/track/2KwOuFfwQyT9mZqjvchd81) | [NCT 127](https://open.spotify.com/artist/7f4ignuCJhLXfZ9giKT7rH) | [Ay\-Yo \- The 4th Album Repackage](https://open.spotify.com/album/3VjW3uIc8WG4tXF2wKW9BJ) | 3:41 | 2023-02-14 | 2023-08-24 |
-| [AYA](https://open.spotify.com/track/4BZXVFYCb76Q0Klojq4piV) | [MAMAMOO](https://open.spotify.com/artist/0XATRDCYuuGhk0oE7C0o5G) | [TRAVEL](https://open.spotify.com/album/3xje7wSW2xwQx2GNJ5cfNu) | 3:31 | 2022-03-24 |  |
+| [AYA](https://open.spotify.com/track/4BZXVFYCb76Q0Klojq4piV) | [MAMAMOO](https://open.spotify.com/artist/0XATRDCYuuGhk0oE7C0o5G) | [TRAVEL](https://open.spotify.com/album/3xje7wSW2xwQx2GNJ5cfNu) | 3:31 | 2022-03-24 | 2023-10-22 |
 | [B Me](https://open.spotify.com/track/5eIB5RjmpZTE2S83gvekvz) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [IN LIFE](https://open.spotify.com/album/0aERWcI2KYSCM4biUihB9X) | 3:25 | 2023-05-02 | 2023-06-04 |
 | [Bad Boy](https://open.spotify.com/track/1WCOna34eEMPgjfOOZkGQc) | [CHUNG HA](https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y), [Christopher](https://open.spotify.com/artist/3zDRCqOhJXJfS2YWOEwGMC) | [Bad Boy](https://open.spotify.com/album/4IRuxkSbw7iZZmnr6Rly2Q) | 3:02 | 2021-12-07 | 2023-07-04 |
 | [Bad Decisions \(with BTS & Snoop Dogg\)](https://open.spotify.com/track/0xzI1KAr0Yd9tv8jlIk3sn) | [benny blanco](https://open.spotify.com/artist/5CiGnKThu5ctn9pBxv7DGa), [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX), [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG) | [Bad Decisions \(with BTS & Snoop Dogg\)](https://open.spotify.com/album/2km2gV8HN1lk1e1GEDl7SN) | 2:52 | 2022-08-12 |  |
@@ -605,6 +605,7 @@
 | [Too Bad](https://open.spotify.com/track/4Xv8foqi6HXnQURBR0FdAZ) | [WEi](https://open.spotify.com/artist/7IkfFdVcI6HrRKuOO9NvX5) | [Love Pt.1 : First Love](https://open.spotify.com/album/77eiNb82HouMWEiK2xe3sp) | 3:16 | 2022-05-03 | 2022-05-05 |
 | [Too Good](https://open.spotify.com/track/37S1i9Qcv42l4CU7vf7zfl) | [IMLAY](https://open.spotify.com/artist/4b7ZEkk5uXPlwX2IPuV7Q2), [CHENLE](https://open.spotify.com/artist/6mt12wGFaBAJPjK076GOJz) | [UTOPIA](https://open.spotify.com/album/0kNMPuueq2wfvDk6dN0EA3) | 3:41 | 2021-12-29 | 2022-07-27 |
 | [Too Late \(Feat\. Munch Man, BELL\)](https://open.spotify.com/track/2Xo6j96qDkcVacTz5nH9vN) | [ANDO](https://open.spotify.com/artist/5BVuWXvqlzHEQVXIiKKjoR), [Munchman](https://open.spotify.com/artist/7u2Nz7Bj2vbCps9AH5q6do), [여지영](https://open.spotify.com/artist/5fDALg3kklxRb6SV7lZxD3) | [TWO HEART](https://open.spotify.com/album/6TuNNvxe3ArEVFIyvdiYdu) | 3:18 | 2022-03-24 | 2022-04-19 |
+| [TOO MUCH](https://open.spotify.com/track/0rKWJnmo6Q0ovoPOLoLm0t) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J), [Jung Kook](https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc), [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [TOO MUCH](https://open.spotify.com/album/7gCggwpSuqUmVzWniLdpKR) | 3:23 | 2023-10-20 |  |
 | [Too young to die \(Prod\. FRANTS\)](https://open.spotify.com/track/4vYEpQ762uNTfIgZ6Rqyd2) | [HOOK](https://open.spotify.com/artist/3pS5aTs5sdGlypb1vVWhvA), [SUNMI](https://open.spotify.com/artist/6MoXcK2GyGg7FIyxPU5yW6) | [Street Woman Fighter\(SWF\) Special](https://open.spotify.com/album/3iW6rZmhiSLNveTOrX26z6) | 2:55 | 2022-03-24 | 2022-04-13 |
 | [Touch my body](https://open.spotify.com/track/33CmoSmppc5Xf65cf3Bv1X) | [Hyolyn](https://open.spotify.com/artist/78sJswwVn4P8aEhkF4K6fQ) | [<Queendom2> Part.1\-1](https://open.spotify.com/album/29VuFjH8b0MmLmRPeKb1cK) | 3:34 | 2022-05-01 | 2022-06-23 |
 | [Transpacific Express](https://open.spotify.com/track/7r6UTroPQZKYNBWNsTRFLP) | [Edge of Silence](https://open.spotify.com/artist/4sjA20fiNs4PiloG2u5UIW), [Jihae](https://open.spotify.com/artist/6MvUEokbcGawJLAs8P8Yow) | [Transpacific Express](https://open.spotify.com/album/0PY4eZ22SfSHc4ldFJPoDg) | 3:24 | 2022-01-03 | 2022-04-10 |

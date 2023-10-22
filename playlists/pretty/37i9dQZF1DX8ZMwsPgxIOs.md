@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8ZMwsPgxIOs.md) - [plain]
 
 > Techno is a state of mind\. Cover: Rebūke
 
-[Spotify](https://open.spotify.com/user/spotify) - 114,779 likes - 80 songs - 5 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 114,829 likes - 80 songs - 5 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8ZMwsPgxIOs.md) - [plain]
 | 79 | [Cruising In My Herse](https://open.spotify.com/track/5NoVq4jZJkdVMvRlWFCEMk) | [Alt8](https://open.spotify.com/artist/7uS4z6GqvIIdZbVq327Ak9) | [Cruising In My Herse](https://open.spotify.com/album/7pzQwVl5jIciRHLLg9hmeQ) | 5:35 |
 | 80 | [Eternity Of Echoes](https://open.spotify.com/track/0NXejdY0rXJfMkocRP1osb) | [Shiken Hanzo](https://open.spotify.com/artist/3lttA5nBNjUeWtLqvOnncr) | [Eternity Of Echoes](https://open.spotify.com/album/4b41tw2qshMUH0F5H6m485) | 5:18 |
 
-Snapshot ID: `MCxhZWZiOTg4YjM5ZjIzNDdiYWE3NTY1NzZkYWUyMzYxZWU0NTFlYTM5`
+Snapshot ID: `MCwxMDI3ZDc1YWIxYWI5YWUyOGZhYmE3ZWQwMDQ0YjVjY2UyMDdkNDJm`

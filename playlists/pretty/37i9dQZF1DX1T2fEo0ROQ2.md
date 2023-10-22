@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1T2fEo0ROQ2.md) - [plain]
 
 > Relaxing and salutary ambient music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 377,828 likes - 258 songs - 12 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 377,892 likes - 258 songs - 12 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1T2fEo0ROQ2.md) - [plain]
 | 18 | [We Belong Here](https://open.spotify.com/track/0F6iu3jm5bJpTsyDKSaE4a) | [Aaera Mio](https://open.spotify.com/artist/5v8MkoVgzby0RDMNi54att) | [We Belong Here](https://open.spotify.com/album/5X9ocpEU3hId5Xqi2sHAEa) | 3:02 |
 | 19 | [Bound](https://open.spotify.com/track/3XQSFyFxgCGKOKRqtmAAMM) | [Miuna](https://open.spotify.com/artist/5RzVJFB7a7Xbd0sMx7gFH7) | [Shine On](https://open.spotify.com/album/24jlpflXVOUZlACOIbEmvn) | 2:24 |
 | 20 | [Sunset Sky](https://open.spotify.com/track/7vwmP5FaH3TNKrJ5MBXSF8) | [Sanyo Green](https://open.spotify.com/artist/3U92xEbJZRc7MDmXXCXiBy) | [Sunset Sky](https://open.spotify.com/album/59WTZuYhCDdgKZs5a2EawB) | 3:09 |
-| 21 | [Earthly Love](https://open.spotify.com/track/4HdAZDJUp0fCPhTaSjPco6) | [Sizmara](https://open.spotify.com/artist/54kLR6UglFWK1l2EkHmTmX) | [Earthly Love](https://open.spotify.com/album/55WYwfIVdbZLRmbAltgiSy) | 2:33 |
+| 21 | [Earthly Love](https://open.spotify.com/track/5dkXkBZcI58lWOTVzZl8id) | [Sizmara](https://open.spotify.com/artist/54kLR6UglFWK1l2EkHmTmX) | [Earthly Love](https://open.spotify.com/album/1AS3GOWwU940geT2t10CH6) | 2:33 |
 | 22 | [Pas De Soucis](https://open.spotify.com/track/5vNmFEcBUbdiM0gIP2rpyj) | [Norah Wallentin](https://open.spotify.com/artist/1NGzUi7PsLrERtIIPY3Cm3) | [Pas De Soucis](https://open.spotify.com/album/5mUbuyifZ9AykEdvXPcqtQ) | 2:19 |
 | 23 | [Pressure Behavior](https://open.spotify.com/track/22aK1Gkcy25yWYHtHPB2zJ) | [Udda Jnhale](https://open.spotify.com/artist/61dB4bXX3NDinvPlTy0v2P) | [I start to feel](https://open.spotify.com/album/7KiKS5NY51JOiE0sjH40XK) | 3:18 |
 | 24 | [Himmel](https://open.spotify.com/track/27baICs60YE6REfpKvtmDV) | [Leo Baumgart](https://open.spotify.com/artist/0qFeRGzewB33eItfoNqrvd) | [Himmel](https://open.spotify.com/album/6lSg3KYWMk1wgl6lpEhda8) | 3:05 |
@@ -267,4 +267,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1T2fEo0ROQ2.md) - [plain]
 | 257 | [Body & Soul](https://open.spotify.com/track/2reANGLp6a9iZvh1Q6qIS7) | [IFEELU](https://open.spotify.com/artist/59TdBGgpKBf2dRrmguF06s) | [Body & Soul](https://open.spotify.com/album/57SxIpC8RwW3ztJ3Rn4kIb) | 2:55 |
 | 258 | [Departing](https://open.spotify.com/track/6iVbAwerjjEoH5NnEfFkkn) | [Airship Express](https://open.spotify.com/artist/57Inb370WrtJEz0OtdNwiG) | [Departing](https://open.spotify.com/album/2L8PDzXReUaVksMHgNd5HB) | 2:10 |
 
-Snapshot ID: `MCw3YzMxNzUyNjNlNzM1YTRhZWY0MjZlNzMwYzc3ZjNkNzBhY2ZlMWIx`
+Snapshot ID: `MCxkNTg0Y2YzMGNlZDQyMGY4YjgyZWZiODQwZjVjMWVkZTRlZDUyNWJj`

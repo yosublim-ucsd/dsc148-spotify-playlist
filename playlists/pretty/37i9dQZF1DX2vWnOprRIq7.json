@@ -1,12 +1,12 @@
 {
   "description": "El lado fluorescente del indie latino featuring Carolo.",
-  "num_followers": 16622,
+  "num_followers": 16628,
   "original_name": "NE\u00d3N",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxODVhZGJhMzJkYmQ4Yzc2NzRiZDY1YjVmNjI3ZDI0YmFjZTQ4ZTM1",
+  "snapshot_id": "MCw3NjFlNDhkMDIwZThkYjhmYzc1ZDExNjgyMmJlZWVkMDUyMzA5OTJk",
   "tracks": [
     {
       "added_at": "2023-10-06 03:00:00",
@@ -259,6 +259,22 @@
     {
       "added_at": "2023-10-06 03:00:00",
       "album": {
+        "name": "ESFERA DE AMOR",
+        "url": "https://open.spotify.com/album/2MxR4pWsCM8n0Bp8RhYcu9"
+      },
+      "artists": [
+        {
+          "name": "SIMONA",
+          "url": "https://open.spotify.com/artist/7H7hLNfP9MzG8mt2A3s7nT"
+        }
+      ],
+      "duration_ms": 151698,
+      "name": "POLIDRAMA",
+      "url": "https://open.spotify.com/track/541cVQIUsnOYmOna54whVE"
+    },
+    {
+      "added_at": "2023-10-06 03:00:00",
+      "album": {
         "name": "Desconfiguraci\u00f3n, Vol. 3",
         "url": "https://open.spotify.com/album/2Tft9TpEiPB08wAXHx9HGS"
       },
@@ -275,22 +291,6 @@
       "duration_ms": 432000,
       "name": "Infieles - Remix",
       "url": "https://open.spotify.com/track/67wjqZ4apqGHmwHoGi3qAB"
-    },
-    {
-      "added_at": "2023-10-06 03:00:00",
-      "album": {
-        "name": "ESFERA DE AMOR",
-        "url": "https://open.spotify.com/album/2MxR4pWsCM8n0Bp8RhYcu9"
-      },
-      "artists": [
-        {
-          "name": "SIMONA",
-          "url": "https://open.spotify.com/artist/7H7hLNfP9MzG8mt2A3s7nT"
-        }
-      ],
-      "duration_ms": 151698,
-      "name": "POLIDRAMA",
-      "url": "https://open.spotify.com/track/541cVQIUsnOYmOna54whVE"
     },
     {
       "added_at": "2023-10-06 03:00:00",
@@ -347,22 +347,6 @@
     {
       "added_at": "2023-10-06 03:00:00",
       "album": {
-        "name": "Mosaicos",
-        "url": "https://open.spotify.com/album/5o2sEyIX07DbCg86qRWOOC"
-      },
-      "artists": [
-        {
-          "name": "ODD MAMI",
-          "url": "https://open.spotify.com/artist/2Y6AtL4xQFvg8nroRM3ZV6"
-        }
-      ],
-      "duration_ms": 146791,
-      "name": "Sed",
-      "url": "https://open.spotify.com/track/0tv5fCvV6pLcwstfO2zxLP"
-    },
-    {
-      "added_at": "2023-10-06 03:00:00",
-      "album": {
         "name": "Amor de Verano (Remix)",
         "url": "https://open.spotify.com/album/6ynnVbhwIZWRyuqaMulSgc"
       },
@@ -383,6 +367,22 @@
       "duration_ms": 174418,
       "name": "Amor de Verano - Remix",
       "url": "https://open.spotify.com/track/17JNR3nqwbVAJf9dA5Eklk"
+    },
+    {
+      "added_at": "2023-10-06 03:00:00",
+      "album": {
+        "name": "Mosaicos",
+        "url": "https://open.spotify.com/album/5o2sEyIX07DbCg86qRWOOC"
+      },
+      "artists": [
+        {
+          "name": "ODD MAMI",
+          "url": "https://open.spotify.com/artist/2Y6AtL4xQFvg8nroRM3ZV6"
+        }
+      ],
+      "duration_ms": 146791,
+      "name": "Sed",
+      "url": "https://open.spotify.com/track/0tv5fCvV6pLcwstfO2zxLP"
     },
     {
       "added_at": "2023-10-06 03:00:00",
@@ -651,22 +651,6 @@
     {
       "added_at": "2023-10-06 03:00:00",
       "album": {
-        "name": "Hyperreal",
-        "url": "https://open.spotify.com/album/50ZzEixwx59PVmSUKthqId"
-      },
-      "artists": [
-        {
-          "name": "Neoma",
-          "url": "https://open.spotify.com/artist/1rS9ZvNEWqnKY19g6uiqip"
-        }
-      ],
-      "duration_ms": 180867,
-      "name": "HYPERREAL",
-      "url": "https://open.spotify.com/track/50GATIYGEwMVtSkc2UxVd3"
-    },
-    {
-      "added_at": "2023-10-06 03:00:00",
-      "album": {
         "name": "Si s\u00f3lo",
         "url": "https://open.spotify.com/album/7IJgiR4o8PFOW8udQhD4fV"
       },
@@ -679,6 +663,22 @@
       "duration_ms": 222090,
       "name": "Si S\u00f3lo",
       "url": "https://open.spotify.com/track/1LXJPTOrPyOukkgiAj6U4K"
+    },
+    {
+      "added_at": "2023-10-06 03:00:00",
+      "album": {
+        "name": "Hyperreal",
+        "url": "https://open.spotify.com/album/50ZzEixwx59PVmSUKthqId"
+      },
+      "artists": [
+        {
+          "name": "Neoma",
+          "url": "https://open.spotify.com/artist/1rS9ZvNEWqnKY19g6uiqip"
+        }
+      ],
+      "duration_ms": 180867,
+      "name": "HYPERREAL",
+      "url": "https://open.spotify.com/track/50GATIYGEwMVtSkc2UxVd3"
     },
     {
       "added_at": "2023-10-06 03:00:00",
@@ -719,30 +719,6 @@
     {
       "added_at": "2023-10-06 03:00:00",
       "album": {
-        "name": "Pervertida",
-        "url": "https://open.spotify.com/album/07oXThRDn2gQ4hvcNMWFRK"
-      },
-      "artists": [
-        {
-          "name": "Vera Frod",
-          "url": "https://open.spotify.com/artist/2ffhBFNgQMHzaJt0v4A8fX"
-        },
-        {
-          "name": "Punga",
-          "url": "https://open.spotify.com/artist/0wpeDItjD9NshrMSwk6plk"
-        },
-        {
-          "name": "MAG",
-          "url": "https://open.spotify.com/artist/4btSpSQaEy7tSM9zfJk8Iz"
-        }
-      ],
-      "duration_ms": 149538,
-      "name": "Pervertida",
-      "url": "https://open.spotify.com/track/3NdVUpnmEzQgJXREHnOZAk"
-    },
-    {
-      "added_at": "2023-10-06 03:00:00",
-      "album": {
         "name": "Ojos De Fuego (Sinego Remix)",
         "url": "https://open.spotify.com/album/3CmRZMXi7a6xg6wzqrBDZd"
       },
@@ -763,6 +739,30 @@
       "duration_ms": 371857,
       "name": "Ojos De Fuego - Sinego Remix",
       "url": "https://open.spotify.com/track/1QPHeiHP9neITJ5wDLbchb"
+    },
+    {
+      "added_at": "2023-10-06 03:00:00",
+      "album": {
+        "name": "Pervertida",
+        "url": "https://open.spotify.com/album/07oXThRDn2gQ4hvcNMWFRK"
+      },
+      "artists": [
+        {
+          "name": "Vera Frod",
+          "url": "https://open.spotify.com/artist/2ffhBFNgQMHzaJt0v4A8fX"
+        },
+        {
+          "name": "Punga",
+          "url": "https://open.spotify.com/artist/0wpeDItjD9NshrMSwk6plk"
+        },
+        {
+          "name": "MAG",
+          "url": "https://open.spotify.com/artist/4btSpSQaEy7tSM9zfJk8Iz"
+        }
+      ],
+      "duration_ms": 149538,
+      "name": "Pervertida",
+      "url": "https://open.spotify.com/track/3NdVUpnmEzQgJXREHnOZAk"
     },
     {
       "added_at": "2023-10-06 03:00:00",
@@ -807,6 +807,26 @@
       "duration_ms": 313608,
       "name": "No Ves Tal Vez - Evlay Remix",
       "url": "https://open.spotify.com/track/6u9UrHLwwM51a69QUN9xcF"
+    },
+    {
+      "added_at": "2023-10-06 03:00:00",
+      "album": {
+        "name": "Salto al Alba",
+        "url": "https://open.spotify.com/album/0znSItsZWQGn9mQG73lFSr"
+      },
+      "artists": [
+        {
+          "name": "Florencia Lira",
+          "url": "https://open.spotify.com/artist/2hM4CiRoa5h6YTiUfbWTCo"
+        },
+        {
+          "name": "PORO",
+          "url": "https://open.spotify.com/artist/4DqLqBHceXcFZVxFTF2cgS"
+        }
+      ],
+      "duration_ms": 247149,
+      "name": "Tiene Sentido",
+      "url": "https://open.spotify.com/track/0ByHt3Ov5pnJbPqeL6qp1X"
     },
     {
       "added_at": "2023-10-06 03:00:00",
@@ -863,26 +883,6 @@
       "duration_ms": 242238,
       "name": "Cerca",
       "url": "https://open.spotify.com/track/0zwXoziSBZBHK6Z0HDBxJc"
-    },
-    {
-      "added_at": "2023-10-06 03:00:00",
-      "album": {
-        "name": "Salto al Alba",
-        "url": "https://open.spotify.com/album/0znSItsZWQGn9mQG73lFSr"
-      },
-      "artists": [
-        {
-          "name": "Florencia Lira",
-          "url": "https://open.spotify.com/artist/2hM4CiRoa5h6YTiUfbWTCo"
-        },
-        {
-          "name": "PORO",
-          "url": "https://open.spotify.com/artist/4DqLqBHceXcFZVxFTF2cgS"
-        }
-      ],
-      "duration_ms": 247149,
-      "name": "Tiene Sentido",
-      "url": "https://open.spotify.com/track/0ByHt3Ov5pnJbPqeL6qp1X"
     },
     {
       "added_at": "2023-10-06 03:00:00",
@@ -955,22 +955,18 @@
     {
       "added_at": "2023-10-06 03:00:00",
       "album": {
-        "name": "Bajo la piel",
-        "url": "https://open.spotify.com/album/06KYlFtTKi0XoT444EMjDM"
+        "name": "Affaire",
+        "url": "https://open.spotify.com/album/43wkXdPtvXxK5q3Wsh4ljE"
       },
       "artists": [
         {
-          "name": "Proyecto Gomez Casa",
-          "url": "https://open.spotify.com/artist/2llTGhog6PYF3KfYg5sTYe"
-        },
-        {
-          "name": "Alejo y Valentin",
-          "url": "https://open.spotify.com/artist/18e0X2rB92SDmDYGCFTGum"
+          "name": "Mailen Pankonin",
+          "url": "https://open.spotify.com/artist/3YB6vxmSJc6YpW3Otha1v5"
         }
       ],
-      "duration_ms": 240113,
-      "name": "Bajo la piel",
-      "url": "https://open.spotify.com/track/30vd3jTxbr6UYuuTvayxPX"
+      "duration_ms": 202625,
+      "name": "Hoy me di cuenta",
+      "url": "https://open.spotify.com/track/4djtv8k6I0tZMNQewhvakT"
     },
     {
       "added_at": "2023-10-06 03:00:00",
@@ -987,22 +983,6 @@
       "duration_ms": 208747,
       "name": "KRAUT!",
       "url": "https://open.spotify.com/track/2Y5yB0mTnXqlUqX98sh3Xz"
-    },
-    {
-      "added_at": "2023-10-06 03:00:00",
-      "album": {
-        "name": "Affaire",
-        "url": "https://open.spotify.com/album/43wkXdPtvXxK5q3Wsh4ljE"
-      },
-      "artists": [
-        {
-          "name": "Mailen Pankonin",
-          "url": "https://open.spotify.com/artist/3YB6vxmSJc6YpW3Otha1v5"
-        }
-      ],
-      "duration_ms": 202625,
-      "name": "Hoy me di cuenta",
-      "url": "https://open.spotify.com/track/4djtv8k6I0tZMNQewhvakT"
     },
     {
       "added_at": "2023-10-06 03:00:00",
@@ -1027,6 +1007,26 @@
     {
       "added_at": "2023-10-06 03:00:00",
       "album": {
+        "name": "Bajo la piel",
+        "url": "https://open.spotify.com/album/06KYlFtTKi0XoT444EMjDM"
+      },
+      "artists": [
+        {
+          "name": "Proyecto Gomez Casa",
+          "url": "https://open.spotify.com/artist/2llTGhog6PYF3KfYg5sTYe"
+        },
+        {
+          "name": "Alejo y Valentin",
+          "url": "https://open.spotify.com/artist/18e0X2rB92SDmDYGCFTGum"
+        }
+      ],
+      "duration_ms": 240113,
+      "name": "Bajo la piel",
+      "url": "https://open.spotify.com/track/30vd3jTxbr6UYuuTvayxPX"
+    },
+    {
+      "added_at": "2023-10-06 03:00:00",
+      "album": {
         "name": "Carmes\u00ed",
         "url": "https://open.spotify.com/album/79Lk7RVCEpU0PJXzp5A0Iz"
       },
@@ -1039,26 +1039,6 @@
       "duration_ms": 254583,
       "name": "Carmes\u00ed",
       "url": "https://open.spotify.com/track/1LdKISORlAZuiuoMxW91FL"
-    },
-    {
-      "added_at": "2023-10-06 03:00:00",
-      "album": {
-        "name": "Nadie+",
-        "url": "https://open.spotify.com/album/5bpk7x7dhCGetRY2onJA1X"
-      },
-      "artists": [
-        {
-          "name": "Alfonsina",
-          "url": "https://open.spotify.com/artist/2PiVgpD2ynESIozDDEEh8k"
-        },
-        {
-          "name": "R.L.G",
-          "url": "https://open.spotify.com/artist/5To36hmLSdEjhfoakePQra"
-        }
-      ],
-      "duration_ms": 142525,
-      "name": "Nadie+",
-      "url": "https://open.spotify.com/track/4Hc0J63unKggiHSpP47tXw"
     },
     {
       "added_at": "2023-10-06 03:00:00",
@@ -1091,6 +1071,26 @@
       "duration_ms": 276156,
       "name": "Nina",
       "url": "https://open.spotify.com/track/6X4UMsSCMKJKhmio8tOpED"
+    },
+    {
+      "added_at": "2023-10-06 03:00:00",
+      "album": {
+        "name": "Nadie+",
+        "url": "https://open.spotify.com/album/5bpk7x7dhCGetRY2onJA1X"
+      },
+      "artists": [
+        {
+          "name": "Alfonsina",
+          "url": "https://open.spotify.com/artist/2PiVgpD2ynESIozDDEEh8k"
+        },
+        {
+          "name": "R.L.G",
+          "url": "https://open.spotify.com/artist/5To36hmLSdEjhfoakePQra"
+        }
+      ],
+      "duration_ms": 142525,
+      "name": "Nadie+",
+      "url": "https://open.spotify.com/track/4Hc0J63unKggiHSpP47tXw"
     },
     {
       "added_at": "2023-10-06 03:00:00",
@@ -1255,18 +1255,22 @@
     {
       "added_at": "2023-10-06 03:00:00",
       "album": {
-        "name": "Encandilante divino",
-        "url": "https://open.spotify.com/album/1pAW7DAbgkwnMwNAXjbrPH"
+        "name": "El Estado de las Cosas Como Son",
+        "url": "https://open.spotify.com/album/5LBsNRXKNO8498xYBB0ANE"
       },
       "artists": [
         {
-          "name": "Abril Alconada",
-          "url": "https://open.spotify.com/artist/6AiyCX8zKYigmhbxVxXXf0"
+          "name": "In\u00e9s Mauri",
+          "url": "https://open.spotify.com/artist/2HCy7IPI79aGrEYSWfjwaF"
+        },
+        {
+          "name": "Desaria",
+          "url": "https://open.spotify.com/artist/7foAh38jbvCS0d9AiOW1V8"
         }
       ],
-      "duration_ms": 163676,
-      "name": "Azar",
-      "url": "https://open.spotify.com/track/5fCPshFzp2QsWDbdXjo42v"
+      "duration_ms": 182312,
+      "name": "El Estado de las Cosas Como Son",
+      "url": "https://open.spotify.com/track/3p8GZ3T1dmgJWk294B6Vli"
     },
     {
       "added_at": "2023-10-06 03:00:00",
@@ -1287,22 +1291,18 @@
     {
       "added_at": "2023-10-06 03:00:00",
       "album": {
-        "name": "El Estado de las Cosas Como Son",
-        "url": "https://open.spotify.com/album/5LBsNRXKNO8498xYBB0ANE"
+        "name": "Encandilante divino",
+        "url": "https://open.spotify.com/album/1pAW7DAbgkwnMwNAXjbrPH"
       },
       "artists": [
         {
-          "name": "In\u00e9s Mauri",
-          "url": "https://open.spotify.com/artist/2HCy7IPI79aGrEYSWfjwaF"
-        },
-        {
-          "name": "Desaria",
-          "url": "https://open.spotify.com/artist/7foAh38jbvCS0d9AiOW1V8"
+          "name": "Abril Alconada",
+          "url": "https://open.spotify.com/artist/6AiyCX8zKYigmhbxVxXXf0"
         }
       ],
-      "duration_ms": 182312,
-      "name": "El Estado de las Cosas Como Son",
-      "url": "https://open.spotify.com/track/3p8GZ3T1dmgJWk294B6Vli"
+      "duration_ms": 163676,
+      "name": "Azar",
+      "url": "https://open.spotify.com/track/5fCPshFzp2QsWDbdXjo42v"
     },
     {
       "added_at": "2023-10-06 03:00:00",
@@ -1359,22 +1359,6 @@
     {
       "added_at": "2023-10-06 03:00:00",
       "album": {
-        "name": "Pasar\u00e1",
-        "url": "https://open.spotify.com/album/4dLe34FABKIx05p6u5ajHC"
-      },
-      "artists": [
-        {
-          "name": "Ino Guridi",
-          "url": "https://open.spotify.com/artist/2VZdNAReEB4AWkJ5MPj3g7"
-        }
-      ],
-      "duration_ms": 214989,
-      "name": "D\u00edas",
-      "url": "https://open.spotify.com/track/033LUswuPS3Hg1QYYd0lJm"
-    },
-    {
-      "added_at": "2023-10-06 03:00:00",
-      "album": {
         "name": "Estrellas, Piernas y Serpientes",
         "url": "https://open.spotify.com/album/4ji5kipvo6MkhrjVAdboZl"
       },
@@ -1391,6 +1375,22 @@
       "duration_ms": 207500,
       "name": "Moto",
       "url": "https://open.spotify.com/track/1AeMG2TNofR1A8xoJ7Nl5O"
+    },
+    {
+      "added_at": "2023-10-06 03:00:00",
+      "album": {
+        "name": "Pasar\u00e1",
+        "url": "https://open.spotify.com/album/4dLe34FABKIx05p6u5ajHC"
+      },
+      "artists": [
+        {
+          "name": "Ino Guridi",
+          "url": "https://open.spotify.com/artist/2VZdNAReEB4AWkJ5MPj3g7"
+        }
+      ],
+      "duration_ms": 214989,
+      "name": "D\u00edas",
+      "url": "https://open.spotify.com/track/033LUswuPS3Hg1QYYd0lJm"
     },
     {
       "added_at": "2023-10-06 03:00:00",
@@ -1463,26 +1463,6 @@
     {
       "added_at": "2023-10-06 03:00:00",
       "album": {
-        "name": "Lineas del Cielo",
-        "url": "https://open.spotify.com/album/5ho7ZrIlccfeO2hXnVmYmc"
-      },
-      "artists": [
-        {
-          "name": "Alfonsina",
-          "url": "https://open.spotify.com/artist/2PiVgpD2ynESIozDDEEh8k"
-        },
-        {
-          "name": "MaisonMusic",
-          "url": "https://open.spotify.com/artist/4sVdc8xEu0jQAB77aq1Cd9"
-        }
-      ],
-      "duration_ms": 160093,
-      "name": "Lineas del Cielo",
-      "url": "https://open.spotify.com/track/462HCRcBrPdgOULlkefcmK"
-    },
-    {
-      "added_at": "2023-10-06 03:00:00",
-      "album": {
         "name": "Uh",
         "url": "https://open.spotify.com/album/08F1JJE42aA2P7mlQjAldU"
       },
@@ -1495,26 +1475,6 @@
       "duration_ms": 156000,
       "name": "Uh",
       "url": "https://open.spotify.com/track/0qQM9TJBrvNJu62aaxcYxF"
-    },
-    {
-      "added_at": "2023-10-06 03:00:00",
-      "album": {
-        "name": "Tiempo Sin Piel",
-        "url": "https://open.spotify.com/album/4zPQIbjtEJVPeXUZ1UIFSz"
-      },
-      "artists": [
-        {
-          "name": "Surikata Ki",
-          "url": "https://open.spotify.com/artist/7bwitWynogcb1LuOM02ln7"
-        },
-        {
-          "name": "Ignacia",
-          "url": "https://open.spotify.com/artist/4iRLbZ6V8scJryvHJrirlg"
-        }
-      ],
-      "duration_ms": 248700,
-      "name": "Tiempo Sin Piel",
-      "url": "https://open.spotify.com/track/1v934v2OwYtvdQTgNnpHfZ"
     },
     {
       "added_at": "2023-10-06 03:00:00",
@@ -1535,6 +1495,26 @@
     {
       "added_at": "2023-10-06 03:00:00",
       "album": {
+        "name": "Lineas del Cielo",
+        "url": "https://open.spotify.com/album/5ho7ZrIlccfeO2hXnVmYmc"
+      },
+      "artists": [
+        {
+          "name": "Alfonsina",
+          "url": "https://open.spotify.com/artist/2PiVgpD2ynESIozDDEEh8k"
+        },
+        {
+          "name": "MaisonMusic",
+          "url": "https://open.spotify.com/artist/4sVdc8xEu0jQAB77aq1Cd9"
+        }
+      ],
+      "duration_ms": 160093,
+      "name": "Lineas del Cielo",
+      "url": "https://open.spotify.com/track/462HCRcBrPdgOULlkefcmK"
+    },
+    {
+      "added_at": "2023-10-06 03:00:00",
+      "album": {
         "name": "Debilidad",
         "url": "https://open.spotify.com/album/21pyXWvMYZ6OALRRsAt6IP"
       },
@@ -1547,6 +1527,26 @@
       "duration_ms": 263546,
       "name": "Debilidad",
       "url": "https://open.spotify.com/track/3YJJtTITDvpaAqZmBR3Knj"
+    },
+    {
+      "added_at": "2023-10-06 03:00:00",
+      "album": {
+        "name": "Tiempo Sin Piel",
+        "url": "https://open.spotify.com/album/4zPQIbjtEJVPeXUZ1UIFSz"
+      },
+      "artists": [
+        {
+          "name": "Surikata Ki",
+          "url": "https://open.spotify.com/artist/7bwitWynogcb1LuOM02ln7"
+        },
+        {
+          "name": "Ignacia",
+          "url": "https://open.spotify.com/artist/4iRLbZ6V8scJryvHJrirlg"
+        }
+      ],
+      "duration_ms": 248700,
+      "name": "Tiempo Sin Piel",
+      "url": "https://open.spotify.com/track/1v934v2OwYtvdQTgNnpHfZ"
     },
     {
       "added_at": "2023-10-06 03:00:00",

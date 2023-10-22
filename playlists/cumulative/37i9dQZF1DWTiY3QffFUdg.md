@@ -4,7 +4,7 @@
 
 > <a href="spotify:genre:techno">techno</a> starter pack
 
-94 songs - 5 hr 43 min
+95 songs - 5 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -89,10 +89,11 @@
 | [Tell Me Why](https://open.spotify.com/track/4BvBTmceA5V1pDuaC3RabS) | [Mike Candys](https://open.spotify.com/artist/24Sxfn1uAoJmuR9N72drt9), [Jack Holiday](https://open.spotify.com/artist/64yON9pK0j392YkionGKAF) | [Tell Me Why](https://open.spotify.com/album/224hEKX6NC4pzENbWL2vXj) | 2:15 | 2023-10-20 |  |
 | [The Age Of Love \(Charlotte de Witte & Enrico Sangiuliano Remix\)](https://open.spotify.com/track/6R84ZlQF7gGkPB6o3GLZXB) | [Age Of Love](https://open.spotify.com/artist/03tes5RhEvH2dX2eDeGnRn), [Charlotte de Witte](https://open.spotify.com/artist/1lJhME1ZpzsEa5M0wW6Mso), [Enrico Sangiuliano](https://open.spotify.com/artist/1u7DsNFbakULvxnDGtMm90) | [The Age Of Love \(Charlotte de Witte & Enrico Sangiuliano Remix\) \[Charlotte de Witte & Enrico Sangiuliano Remix \- Edit\]](https://open.spotify.com/album/7CXTNkULXDTd2oHt4S9dp7) | 8:09 | 2023-08-11 |  |
 | [The Blaze](https://open.spotify.com/track/0jHezfBKttmYivLmNvUzzt) | [Massano](https://open.spotify.com/artist/6htWLP8aiuf19FYMA4VQAZ) | [The Theory EP](https://open.spotify.com/album/0kV5GMyTCu0SEV60COyDLr) | 4:30 | 2023-08-11 | 2023-09-06 |
+| [The Chant](https://open.spotify.com/track/16NC74ajzZCjs4RbA1Zxwn) | [Will Sparks](https://open.spotify.com/artist/1u7OVFmWah4wQhOPIbUb8U) | [Accepted Concept](https://open.spotify.com/album/5026e5pinYOgls5mjv1duU) | 2:51 | 2023-10-20 |  |
 | [The Parade \(Techno Remix\)](https://open.spotify.com/track/3j9RucX8VImndwic630g9w) | [GYMBRO](https://open.spotify.com/artist/1dVQrgVgad6dhS9ATZGy9D) | [The Parade \(Techno Remix\)](https://open.spotify.com/album/7phtUgPQObPbFNrWOMyyiK) | 1:55 | 2023-09-01 | 2023-09-28 |
 | [The Procedure \- Original Mix](https://open.spotify.com/track/4ECckb5B0UtR6f9RbKL5SS) | [DANNY AVILA](https://open.spotify.com/artist/1Xv1qZHJ1hnRlWHRTZ3uci), [Heerhorst](https://open.spotify.com/artist/4C3vrP3HDWOph3a6XSAVWR) | [The Procedure EP](https://open.spotify.com/album/1nKD4vwGp5TJPRsKjFCKiQ) | 3:13 | 2023-08-25 | 2023-10-08 |
 | [The Stutter](https://open.spotify.com/track/6TIZPCn9PQ9kmfK4SbhIKS) | [Deeper Purpose](https://open.spotify.com/artist/10Bo1ofGMWr6hFD7OM7W7r) | [The Stutter](https://open.spotify.com/album/77Q9sOBlstkdIyA2gmNbv4) | 3:27 | 2023-08-11 | 2023-09-17 |
-| [The Unexpected](https://open.spotify.com/track/4WSEpqcROxEExCChwHqoMf) | [Mha Iri](https://open.spotify.com/artist/5VMXbzLVkLd4Cq4rBzx4T3) | [The Unexpected](https://open.spotify.com/album/2sQexrsGSYkPFOf2Q9em0z) | 4:00 | 2023-09-15 |  |
+| [The Unexpected](https://open.spotify.com/track/4WSEpqcROxEExCChwHqoMf) | [Mha Iri](https://open.spotify.com/artist/5VMXbzLVkLd4Cq4rBzx4T3) | [The Unexpected](https://open.spotify.com/album/2sQexrsGSYkPFOf2Q9em0z) | 4:00 | 2023-09-15 | 2023-10-22 |
 | [The Violator](https://open.spotify.com/track/3WMSOkdBmgxgkQkZkkgqZc) | [Lilly Palmer](https://open.spotify.com/artist/4h8IEOdrg60WM5XGyNOCVU) | [The Violator](https://open.spotify.com/album/1kLSXmk2rBzGoPizreKGnB) | 4:01 | 2023-09-19 |  |
 | [This Is The Life](https://open.spotify.com/track/3Me5bYXeDXqjBVgug53Ula) | [LIZOT](https://open.spotify.com/artist/12A83CWwFiyXy90ScLWPIe), [KYANU](https://open.spotify.com/artist/3VuZZ1n0XGacnz96Ys8mrZ) | [This Is The Life](https://open.spotify.com/album/5hFY0oK1Ow8h9xIAtliOvp) | 2:11 | 2023-10-13 |  |
 | [Time](https://open.spotify.com/track/20QjNItuQEZvwXnIy5Va37) | [Patrick Scuro](https://open.spotify.com/artist/6wfL4r7ReScDTARbtSRTvB), [Nicolas Julian](https://open.spotify.com/artist/5Y1nFir8L9kJP7n1yZSeYb) | [Time](https://open.spotify.com/album/2uDgmgef8WIKFJuzR1RnDg) | 3:32 | 2023-08-11 | 2023-09-17 |

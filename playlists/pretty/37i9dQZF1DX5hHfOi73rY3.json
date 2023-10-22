@@ -1,12 +1,12 @@
 {
   "description": "Classic party anthems from the club to your ears!",
-  "num_followers": 274334,
+  "num_followers": 274388,
   "original_name": "Warehouse Party",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2NjAyZDYzYTNiNWZjNWYyMzUyM2ZkMmMxYThjYjg5YTQwMzBlNWE1",
+  "snapshot_id": "MCw3MzljZGVkZmI5YTIwNWRhZmYwN2VkNzg0MDE3YzZlMjQ3N2E4MGY4",
   "tracks": [
     {
       "added_at": "2020-11-06 16:59:04",
@@ -859,6 +859,22 @@
     {
       "added_at": "2020-11-06 16:59:04",
       "album": {
+        "name": "Deep Down Low",
+        "url": "https://open.spotify.com/album/1md43OqpB2SKqTmKR1q1YQ"
+      },
+      "artists": [
+        {
+          "name": "Valentino Khan",
+          "url": "https://open.spotify.com/artist/0deIjoDjl9g9Zpw0sCIOHh"
+        }
+      ],
+      "duration_ms": 190476,
+      "name": "Deep Down Low",
+      "url": "https://open.spotify.com/track/48zgbsLhb3MirBgXt44nlH"
+    },
+    {
+      "added_at": "2020-11-06 16:59:04",
+      "album": {
         "name": "8-track",
         "url": "https://open.spotify.com/album/3ophs4Ci76rbhWzu2QwCGC"
       },
@@ -879,34 +895,18 @@
     {
       "added_at": "2020-11-06 16:59:04",
       "album": {
-        "name": "Deep Down Low",
-        "url": "https://open.spotify.com/album/1md43OqpB2SKqTmKR1q1YQ"
+        "name": "Ya Kidding",
+        "url": "https://open.spotify.com/album/3pmLTOrDeJHsj01Fnu5030"
       },
       "artists": [
         {
-          "name": "Valentino Khan",
-          "url": "https://open.spotify.com/artist/0deIjoDjl9g9Zpw0sCIOHh"
+          "name": "FISHER",
+          "url": "https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt"
         }
       ],
-      "duration_ms": 190476,
-      "name": "Deep Down Low",
-      "url": "https://open.spotify.com/track/48zgbsLhb3MirBgXt44nlH"
-    },
-    {
-      "added_at": "2020-11-06 16:59:04",
-      "album": {
-        "name": "Burns (Edit)",
-        "url": "https://open.spotify.com/album/1R4DzksK2cx84kO7B4SEoa"
-      },
-      "artists": [
-        {
-          "name": "George FitzGerald",
-          "url": "https://open.spotify.com/artist/3KOHpygRuo1ruQAbEneR3t"
-        }
-      ],
-      "duration_ms": 190750,
-      "name": "Burns - Edit",
-      "url": "https://open.spotify.com/track/7J8iTj9FU0Mw8VBbGBpFIY"
+      "duration_ms": 238080,
+      "name": "Ya Kidding",
+      "url": "https://open.spotify.com/track/23u8Srx4MNpBjrM66Tj7On"
     }
   ],
   "unique_name": "Warehouse Party",

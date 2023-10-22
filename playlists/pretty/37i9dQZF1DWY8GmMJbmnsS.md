@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY8GmMJbmnsS.md) - [plain]
 
 > All of your classic soul ballads, right here\. Cover: Percy Sledge
 
-[Spotify](https://open.spotify.com/user/spotify) - 338,067 likes - 50 songs - 2 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 338,145 likes - 50 songs - 2 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY8GmMJbmnsS.md) - [plain]
 | 49 | [Crying in the Chapel \- Remastered](https://open.spotify.com/track/53AD8JznNIb0jUZvwFY6MB) | [Sonny Til & The Orioles](https://open.spotify.com/artist/0xu2ZjoR7pUPjMIDcJ67dW) | [Anthology: The Deluxe Collection \(Remastered\)](https://open.spotify.com/album/5GuwHCtGYe062YWhAyc0jF) | 3:01 |
 | 50 | [Hypnotized](https://open.spotify.com/track/4TTKacCeIq21weP36gy6AS) | [Linda Jones](https://open.spotify.com/artist/7erYZsfekXYGWvup1bnkUZ) | [The Complete Atco, Loma & Warner Bros\. Recordings](https://open.spotify.com/album/3JZq1orvyb2MxF4iFDY80t) | 2:40 |
 
-Snapshot ID: `MCw2MTRiYzY4MjY3OTczYzhhNzNmODQ1YzM0MDk4NjMwODhkZGJmZjJl`
+Snapshot ID: `MCwyNGU1ZTMxZGVkODhiZDYwYWE2ZDY4ZTFjYzVkYTUzYWExZDM4MTI2`

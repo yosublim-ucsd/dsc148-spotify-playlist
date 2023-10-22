@@ -1,12 +1,12 @@
 {
   "description": "Uplifting anthems to power you through 'til the weekend.",
-  "num_followers": 1085881,
+  "num_followers": 1085907,
   "original_name": "Feel Good Friday",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkM2NjOGFjY2ExM2Q5ZWNlMDI1MDQ1MWMwY2JmYzk1NTkwZTJlZWUy",
+  "snapshot_id": "MCw4MDUwZDA5NDcwMTcwMGE0MDc1ZjVjM2Q3ZjU0MjVhODAzMGI0MmRi",
   "tracks": [
     {
       "added_at": "2020-08-27 16:10:25",
@@ -1031,22 +1031,6 @@
     {
       "added_at": "2020-08-27 16:10:25",
       "album": {
-        "name": "Rapture EP",
-        "url": "https://open.spotify.com/album/0v1VLjgwVun46wA13DWUJI"
-      },
-      "artists": [
-        {
-          "name": "Koffee",
-          "url": "https://open.spotify.com/artist/1gWjcmBsveEYMxOZ0VRi32"
-        }
-      ],
-      "duration_ms": 191502,
-      "name": "Toast",
-      "url": "https://open.spotify.com/track/7sd72KZS8D59g5NmhxyHpJ"
-    },
-    {
-      "added_at": "2020-08-27 16:10:25",
-      "album": {
         "name": "I Will Never Let You Down",
         "url": "https://open.spotify.com/album/415fhs8Ft2VMFY0rWLK4BD"
       },
@@ -1059,6 +1043,22 @@
       "duration_ms": 203466,
       "name": "I Will Never Let You Down",
       "url": "https://open.spotify.com/track/2ia7iiEtpiOL2ZVuWxBZGB"
+    },
+    {
+      "added_at": "2020-08-27 16:10:25",
+      "album": {
+        "name": "Rapture EP",
+        "url": "https://open.spotify.com/album/0v1VLjgwVun46wA13DWUJI"
+      },
+      "artists": [
+        {
+          "name": "Koffee",
+          "url": "https://open.spotify.com/artist/1gWjcmBsveEYMxOZ0VRi32"
+        }
+      ],
+      "duration_ms": 191502,
+      "name": "Toast",
+      "url": "https://open.spotify.com/track/7sd72KZS8D59g5NmhxyHpJ"
     },
     {
       "added_at": "2020-08-27 16:10:25",
@@ -1287,22 +1287,6 @@
     {
       "added_at": "2020-08-27 16:10:25",
       "album": {
-        "name": "d-d-don't don't stop the beat (Explicit Content U.S. Version)",
-        "url": "https://open.spotify.com/album/7xJ6am4jsZw1Bg0S0g0hmI"
-      },
-      "artists": [
-        {
-          "name": "Junior Senior",
-          "url": "https://open.spotify.com/artist/7xNPROyVfkH4mcIxxCxySm"
-        }
-      ],
-      "duration_ms": 181906,
-      "name": "Move Your Feet",
-      "url": "https://open.spotify.com/track/4jacsL77ZYnpInmTtUBaJW"
-    },
-    {
-      "added_at": "2020-08-27 16:10:25",
-      "album": {
         "name": "The Soul Sessions",
         "url": "https://open.spotify.com/album/188TILSlxecPremJwHDkk7"
       },
@@ -1315,6 +1299,22 @@
       "duration_ms": 260013,
       "name": "Super Duper Love",
       "url": "https://open.spotify.com/track/30yn7KuCLbXGCXxjsB0C8K"
+    },
+    {
+      "added_at": "2020-08-27 16:10:25",
+      "album": {
+        "name": "d-d-don't don't stop the beat (Explicit Content U.S. Version)",
+        "url": "https://open.spotify.com/album/7xJ6am4jsZw1Bg0S0g0hmI"
+      },
+      "artists": [
+        {
+          "name": "Junior Senior",
+          "url": "https://open.spotify.com/artist/7xNPROyVfkH4mcIxxCxySm"
+        }
+      ],
+      "duration_ms": 181906,
+      "name": "Move Your Feet",
+      "url": "https://open.spotify.com/track/4jacsL77ZYnpInmTtUBaJW"
     },
     {
       "added_at": "2020-08-27 16:10:25",
@@ -1419,22 +1419,6 @@
     {
       "added_at": "2020-08-27 16:10:25",
       "album": {
-        "name": "So Good To Me (Remixes)",
-        "url": "https://open.spotify.com/album/3coyILlnBFrIV8ZW7EjVxV"
-      },
-      "artists": [
-        {
-          "name": "Chris Malinchak",
-          "url": "https://open.spotify.com/artist/5UVzX8pQe6bb5ueNdfViih"
-        }
-      ],
-      "duration_ms": 158677,
-      "name": "So Good to Me - Radio Edit",
-      "url": "https://open.spotify.com/track/4YYODVaWvNDvqsYiQtJJrM"
-    },
-    {
-      "added_at": "2020-08-27 16:10:25",
-      "album": {
         "name": "Movin' Too Fast (Ultimate Collection)",
         "url": "https://open.spotify.com/album/0kIgzYlCvb6kifRgHl1scM"
       },
@@ -1451,6 +1435,22 @@
       "duration_ms": 238093,
       "name": "Moving Too Fast - Radio Edit",
       "url": "https://open.spotify.com/track/4FLFm76nwepkcxzqS8PzH4"
+    },
+    {
+      "added_at": "2020-08-27 16:10:25",
+      "album": {
+        "name": "So Good To Me (Remixes)",
+        "url": "https://open.spotify.com/album/3coyILlnBFrIV8ZW7EjVxV"
+      },
+      "artists": [
+        {
+          "name": "Chris Malinchak",
+          "url": "https://open.spotify.com/artist/5UVzX8pQe6bb5ueNdfViih"
+        }
+      ],
+      "duration_ms": 158677,
+      "name": "So Good to Me - Radio Edit",
+      "url": "https://open.spotify.com/track/4YYODVaWvNDvqsYiQtJJrM"
     },
     {
       "added_at": "2020-08-27 16:10:25",
@@ -1587,26 +1587,6 @@
     {
       "added_at": "2020-08-27 16:10:25",
       "album": {
-        "name": "Invincible",
-        "url": "https://open.spotify.com/album/3gnDAi2njt1vvEyC9qoNJA"
-      },
-      "artists": [
-        {
-          "name": "Five",
-          "url": "https://open.spotify.com/artist/6rEzedK7cKWjeQWdAYvWVG"
-        },
-        {
-          "name": "Steve Mac",
-          "url": "https://open.spotify.com/artist/78E5Zx38dgv90Q7VN2AplD"
-        }
-      ],
-      "duration_ms": 198066,
-      "name": "Keep On Movin'",
-      "url": "https://open.spotify.com/track/2fHruzatznikGKFeL9Gujm"
-    },
-    {
-      "added_at": "2020-08-27 16:10:25",
-      "album": {
         "name": "Between You and Me",
         "url": "https://open.spotify.com/album/1ZwqV0aR3jirvbjp96bLQn"
       },
@@ -1623,6 +1603,26 @@
       "duration_ms": 211440,
       "name": "Between You and Me",
       "url": "https://open.spotify.com/track/1k0HaXwqnev6ITPjYqvtxF"
+    },
+    {
+      "added_at": "2020-08-27 16:10:25",
+      "album": {
+        "name": "Invincible",
+        "url": "https://open.spotify.com/album/3gnDAi2njt1vvEyC9qoNJA"
+      },
+      "artists": [
+        {
+          "name": "Five",
+          "url": "https://open.spotify.com/artist/6rEzedK7cKWjeQWdAYvWVG"
+        },
+        {
+          "name": "Steve Mac",
+          "url": "https://open.spotify.com/artist/78E5Zx38dgv90Q7VN2AplD"
+        }
+      ],
+      "duration_ms": 198066,
+      "name": "Keep On Movin'",
+      "url": "https://open.spotify.com/track/2fHruzatznikGKFeL9Gujm"
     },
     {
       "added_at": "2020-08-27 16:10:25",

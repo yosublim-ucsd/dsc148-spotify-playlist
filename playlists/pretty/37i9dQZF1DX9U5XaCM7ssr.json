@@ -1,12 +1,12 @@
 {
   "description": "Lagu-lagu mengsedih yang menyayat hati \ud83d\ude2d",
-  "num_followers": 1100049,
+  "num_followers": 1100356,
   "original_name": "Generasi Galau",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4MzVjNzZkYjIxMjAzZTg1MTRmODNkYWExMTY3YjI4NDMzZTU5YWYw",
+  "snapshot_id": "MCw1YWI5ZmExOGZhZWEyYzQ3MGYyMzg2ZDJkNWYzYjEwNGI5MDIxYzQ4",
   "tracks": [
     {
       "added_at": "2023-10-19 04:52:45",
@@ -487,22 +487,6 @@
     {
       "added_at": "2023-10-19 04:52:45",
       "album": {
-        "name": "ASHER",
-        "url": "https://open.spotify.com/album/4km2qQIoGCCevm1Qf51OcE"
-      },
-      "artists": [
-        {
-          "name": "Fabio Asher",
-          "url": "https://open.spotify.com/artist/6FTLayBxjkQeanFdUusk1I"
-        }
-      ],
-      "duration_ms": 246730,
-      "name": "Rumah Singgah",
-      "url": "https://open.spotify.com/track/6raMBnVBIvvUngMLyDdzyP"
-    },
-    {
-      "added_at": "2023-10-19 04:52:45",
-      "album": {
         "name": "f\u00e1bula",
         "url": "https://open.spotify.com/album/1vva4fJyjXaJ2RDsGmIbCv"
       },
@@ -515,6 +499,22 @@
       "duration_ms": 243724,
       "name": "Sial",
       "url": "https://open.spotify.com/track/6O0WEM0QNEhqpU50BKui7o"
+    },
+    {
+      "added_at": "2023-10-19 04:52:45",
+      "album": {
+        "name": "ASHER",
+        "url": "https://open.spotify.com/album/4km2qQIoGCCevm1Qf51OcE"
+      },
+      "artists": [
+        {
+          "name": "Fabio Asher",
+          "url": "https://open.spotify.com/artist/6FTLayBxjkQeanFdUusk1I"
+        }
+      ],
+      "duration_ms": 246730,
+      "name": "Rumah Singgah",
+      "url": "https://open.spotify.com/track/6raMBnVBIvvUngMLyDdzyP"
     },
     {
       "added_at": "2023-10-19 04:52:45",
@@ -567,30 +567,18 @@
     {
       "added_at": "2023-10-19 04:52:45",
       "album": {
-        "name": "Menyesal",
-        "url": "https://open.spotify.com/album/13zfefPjKHsxUJm9SZFDtE"
+        "name": "Resah Jadi Luka",
+        "url": "https://open.spotify.com/album/3gUZpvR4h9ErseH3AzaHJL"
       },
       "artists": [
         {
-          "name": "Yovie Widianto",
-          "url": "https://open.spotify.com/artist/7Ln5yumFjHCkeZ8bAzHUcp"
-        },
-        {
-          "name": "Lyodra",
-          "url": "https://open.spotify.com/artist/6Sv2jkzH9sWQjwghW5ArMG"
-        },
-        {
-          "name": "Tiara Andini",
-          "url": "https://open.spotify.com/artist/0kPb52ySN2k9P6wEZPTUzm"
-        },
-        {
-          "name": "Ziva Magnolya",
-          "url": "https://open.spotify.com/artist/2wZWkw5jo8P4NVonVanxYd"
+          "name": "Daun Jatuh",
+          "url": "https://open.spotify.com/artist/3EaScgA3zh2rORlbrAL8RI"
         }
       ],
-      "duration_ms": 203454,
-      "name": "Menyesal",
-      "url": "https://open.spotify.com/track/29lBFGkfr7EoJlb3lxi9Ij"
+      "duration_ms": 290466,
+      "name": "Resah Jadi Luka",
+      "url": "https://open.spotify.com/track/2sULdMKWdBdK2ZtntuFvSb"
     },
     {
       "added_at": "2023-10-19 04:52:45",
@@ -627,18 +615,30 @@
     {
       "added_at": "2023-10-19 04:52:45",
       "album": {
-        "name": "Resah Jadi Luka",
-        "url": "https://open.spotify.com/album/3gUZpvR4h9ErseH3AzaHJL"
+        "name": "Menyesal",
+        "url": "https://open.spotify.com/album/13zfefPjKHsxUJm9SZFDtE"
       },
       "artists": [
         {
-          "name": "Daun Jatuh",
-          "url": "https://open.spotify.com/artist/3EaScgA3zh2rORlbrAL8RI"
+          "name": "Yovie Widianto",
+          "url": "https://open.spotify.com/artist/7Ln5yumFjHCkeZ8bAzHUcp"
+        },
+        {
+          "name": "Lyodra",
+          "url": "https://open.spotify.com/artist/6Sv2jkzH9sWQjwghW5ArMG"
+        },
+        {
+          "name": "Tiara Andini",
+          "url": "https://open.spotify.com/artist/0kPb52ySN2k9P6wEZPTUzm"
+        },
+        {
+          "name": "Ziva Magnolya",
+          "url": "https://open.spotify.com/artist/2wZWkw5jo8P4NVonVanxYd"
         }
       ],
-      "duration_ms": 290466,
-      "name": "Resah Jadi Luka",
-      "url": "https://open.spotify.com/track/2sULdMKWdBdK2ZtntuFvSb"
+      "duration_ms": 203454,
+      "name": "Menyesal",
+      "url": "https://open.spotify.com/track/29lBFGkfr7EoJlb3lxi9Ij"
     },
     {
       "added_at": "2023-10-19 04:52:45",
@@ -739,22 +739,6 @@
     {
       "added_at": "2023-10-19 04:52:45",
       "album": {
-        "name": "Yang Patah Tumbuh, Yang Hilang Berganti",
-        "url": "https://open.spotify.com/album/1e1NmOduCFHp1z29cSzyMa"
-      },
-      "artists": [
-        {
-          "name": "Banda Neira",
-          "url": "https://open.spotify.com/artist/3f49JTIdjQTVVx2Y6ifVLc"
-        }
-      ],
-      "duration_ms": 408288,
-      "name": "Sampai Jadi Debu (Menampilkan Gardika Gigih)",
-      "url": "https://open.spotify.com/track/0ROj512WvJ1eqeELd7MEdJ"
-    },
-    {
-      "added_at": "2023-10-19 04:52:45",
-      "album": {
         "name": "f\u00e1bula",
         "url": "https://open.spotify.com/album/1vva4fJyjXaJ2RDsGmIbCv"
       },
@@ -767,6 +751,22 @@
       "duration_ms": 262753,
       "name": "Bohongi Hati",
       "url": "https://open.spotify.com/track/6gARWk9hXgTUImaKUsTu6w"
+    },
+    {
+      "added_at": "2023-10-19 04:52:45",
+      "album": {
+        "name": "Yang Patah Tumbuh, Yang Hilang Berganti",
+        "url": "https://open.spotify.com/album/1e1NmOduCFHp1z29cSzyMa"
+      },
+      "artists": [
+        {
+          "name": "Banda Neira",
+          "url": "https://open.spotify.com/artist/3f49JTIdjQTVVx2Y6ifVLc"
+        }
+      ],
+      "duration_ms": 408288,
+      "name": "Sampai Jadi Debu (Menampilkan Gardika Gigih)",
+      "url": "https://open.spotify.com/track/0ROj512WvJ1eqeELd7MEdJ"
     },
     {
       "added_at": "2023-10-19 04:52:45",
@@ -803,22 +803,6 @@
     {
       "added_at": "2023-10-19 04:52:45",
       "album": {
-        "name": "Tak Ingin Usai",
-        "url": "https://open.spotify.com/album/2DskseIWepQ89TxfXn3MtY"
-      },
-      "artists": [
-        {
-          "name": "Keisya Levronka",
-          "url": "https://open.spotify.com/artist/4EiSzlOeMnJcp2U8ayCQ3a"
-        }
-      ],
-      "duration_ms": 278500,
-      "name": "Tak Ingin Usai",
-      "url": "https://open.spotify.com/track/1b0aDgrG775i4sPQgJGmkU"
-    },
-    {
-      "added_at": "2023-10-19 04:52:45",
-      "album": {
         "name": "Sang Dewi",
         "url": "https://open.spotify.com/album/5JO7f6aqA0Tw1vfZuwLr0I"
       },
@@ -835,6 +819,22 @@
       "duration_ms": 247993,
       "name": "Sang Dewi",
       "url": "https://open.spotify.com/track/5fDCy4Hse30ZsjaTUGKVh5"
+    },
+    {
+      "added_at": "2023-10-19 04:52:45",
+      "album": {
+        "name": "Tak Ingin Usai",
+        "url": "https://open.spotify.com/album/2DskseIWepQ89TxfXn3MtY"
+      },
+      "artists": [
+        {
+          "name": "Keisya Levronka",
+          "url": "https://open.spotify.com/artist/4EiSzlOeMnJcp2U8ayCQ3a"
+        }
+      ],
+      "duration_ms": 278500,
+      "name": "Tak Ingin Usai",
+      "url": "https://open.spotify.com/track/1b0aDgrG775i4sPQgJGmkU"
     },
     {
       "added_at": "2023-10-19 04:52:45",

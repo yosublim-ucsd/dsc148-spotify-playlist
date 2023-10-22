@@ -1,12 +1,12 @@
 {
   "description": "Cumbia pa' volar la chapa. Foto: BM & La Champions Liga.",
-  "num_followers": 559671,
+  "num_followers": 559842,
   "original_name": "Cumbia de Barrio",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0NmRiMmFhMjk5ZGFkZTUxMDAzZGI4YjdmMjY1Yjg3YTBmNmQ4NDgz",
+  "snapshot_id": "MCxkYjFkMDE5MDAzM2Y4NDUxOTE3ZjYzZjM3OTYyMWYwMmM5ZWM2YWU1",
   "tracks": [
     {
       "added_at": "2023-10-20 13:43:35",
@@ -520,7 +520,7 @@
           "url": "https://open.spotify.com/artist/3TINnlLcMBQA88OoalsvYR"
         }
       ],
-      "duration_ms": 262201,
+      "duration_ms": 253610,
       "name": "IRA",
       "url": "https://open.spotify.com/track/6QWMTay1cFyn1u4CJF8e6X"
     },
@@ -723,6 +723,26 @@
     {
       "added_at": "2023-10-20 13:43:35",
       "album": {
+        "name": "GUSTY DJ I Alejo Isakk Session en el Barrio #5",
+        "url": "https://open.spotify.com/album/4jeXKUAhhCVQm5qefqqjfT"
+      },
+      "artists": [
+        {
+          "name": "Gusty dj",
+          "url": "https://open.spotify.com/artist/5f9pQjPeDbuRF1GowQXo3L"
+        },
+        {
+          "name": "Alejo Isakk",
+          "url": "https://open.spotify.com/artist/2cdoH2XFAhj0LlSo4P2fJJ"
+        }
+      ],
+      "duration_ms": 165605,
+      "name": "GUSTY DJ I Alejo Isakk Session en el Barrio #5",
+      "url": "https://open.spotify.com/track/3EuhCgpwvuxzpVRKerf9UN"
+    },
+    {
+      "added_at": "2023-10-20 13:43:35",
+      "album": {
         "name": "Vamos A Amanecer (Remix)",
         "url": "https://open.spotify.com/album/5xcEXfGJCm9aqLqUGqh8bs"
       },
@@ -743,26 +763,6 @@
       "duration_ms": 173465,
       "name": "Vamos A Amanecer - Remix",
       "url": "https://open.spotify.com/track/0nk7pbLOJEGRlzSdN1erGe"
-    },
-    {
-      "added_at": "2023-10-20 13:43:35",
-      "album": {
-        "name": "GUSTY DJ I Alejo Isakk Session en el Barrio #5",
-        "url": "https://open.spotify.com/album/4jeXKUAhhCVQm5qefqqjfT"
-      },
-      "artists": [
-        {
-          "name": "Gusty dj",
-          "url": "https://open.spotify.com/artist/5f9pQjPeDbuRF1GowQXo3L"
-        },
-        {
-          "name": "Alejo Isakk",
-          "url": "https://open.spotify.com/artist/2cdoH2XFAhj0LlSo4P2fJJ"
-        }
-      ],
-      "duration_ms": 165605,
-      "name": "GUSTY DJ I Alejo Isakk Session en el Barrio #5",
-      "url": "https://open.spotify.com/track/3EuhCgpwvuxzpVRKerf9UN"
     },
     {
       "added_at": "2023-10-20 13:43:35",
@@ -947,38 +947,6 @@
     {
       "added_at": "2023-10-20 13:43:35",
       "album": {
-        "name": "No Lo Compren",
-        "url": "https://open.spotify.com/album/31nDorIqLwLOrjNtf31zGR"
-      },
-      "artists": [
-        {
-          "name": "El Dipy",
-          "url": "https://open.spotify.com/artist/2Bof5crSbhfBwf2pHNjPlw"
-        }
-      ],
-      "duration_ms": 217013,
-      "name": "Soy Soltero",
-      "url": "https://open.spotify.com/track/09bBwB9wctmnYtxMOdNGRd"
-    },
-    {
-      "added_at": "2023-10-20 13:43:35",
-      "album": {
-        "name": "100% Negro Cumbiero",
-        "url": "https://open.spotify.com/album/1sbZFQTIJl41nnRvXYI4gf"
-      },
-      "artists": [
-        {
-          "name": "Damas Gratis",
-          "url": "https://open.spotify.com/artist/3YeBTR1Q1rUxKguz4jP6UV"
-        }
-      ],
-      "duration_ms": 212253,
-      "name": "El humo de mi fasito",
-      "url": "https://open.spotify.com/track/0afBIRqOPTLPNHzRMPLEf0"
-    },
-    {
-      "added_at": "2023-10-20 13:43:35",
-      "album": {
         "name": "PICA",
         "url": "https://open.spotify.com/album/1vyX43WgFXa8BLmIG3DlnN"
       },
@@ -999,6 +967,38 @@
       "duration_ms": 164531,
       "name": "PICA",
       "url": "https://open.spotify.com/track/5FKeJ9Z6W4mgG5aUOok3Qn"
+    },
+    {
+      "added_at": "2023-10-20 13:43:35",
+      "album": {
+        "name": "100% Negro Cumbiero",
+        "url": "https://open.spotify.com/album/1sbZFQTIJl41nnRvXYI4gf"
+      },
+      "artists": [
+        {
+          "name": "Damas Gratis",
+          "url": "https://open.spotify.com/artist/3YeBTR1Q1rUxKguz4jP6UV"
+        }
+      ],
+      "duration_ms": 212253,
+      "name": "El humo de mi fasito",
+      "url": "https://open.spotify.com/track/0afBIRqOPTLPNHzRMPLEf0"
+    },
+    {
+      "added_at": "2023-10-20 13:43:35",
+      "album": {
+        "name": "No Lo Compren",
+        "url": "https://open.spotify.com/album/31nDorIqLwLOrjNtf31zGR"
+      },
+      "artists": [
+        {
+          "name": "El Dipy",
+          "url": "https://open.spotify.com/artist/2Bof5crSbhfBwf2pHNjPlw"
+        }
+      ],
+      "duration_ms": 217013,
+      "name": "Soy Soltero",
+      "url": "https://open.spotify.com/track/09bBwB9wctmnYtxMOdNGRd"
     },
     {
       "added_at": "2023-10-20 13:43:35",
@@ -1127,42 +1127,6 @@
     {
       "added_at": "2023-10-20 13:43:35",
       "album": {
-        "name": "Chocolate",
-        "url": "https://open.spotify.com/album/57pKlw31D8Y0bAQAmcZDy8"
-      },
-      "artists": [
-        {
-          "name": "Callejero Fino",
-          "url": "https://open.spotify.com/artist/6GRwwWAtmusrgAL5JF9Dfr"
-        },
-        {
-          "name": "Four Plack",
-          "url": "https://open.spotify.com/artist/3mEKRofaEAL1E4wmR1kCAW"
-        }
-      ],
-      "duration_ms": 157591,
-      "name": "Chocolate",
-      "url": "https://open.spotify.com/track/7IcdA7TnEtxAUvby7MukZY"
-    },
-    {
-      "added_at": "2023-10-20 13:43:35",
-      "album": {
-        "name": "Es Corta la Bocha",
-        "url": "https://open.spotify.com/album/3G9FLQq5jEbBVfdsjxp1BM"
-      },
-      "artists": [
-        {
-          "name": "Eh!!! Guacho",
-          "url": "https://open.spotify.com/artist/2iRVMe7HOINAwwEpGCU2mF"
-        }
-      ],
-      "duration_ms": 187693,
-      "name": "Orgullosa",
-      "url": "https://open.spotify.com/track/7bgzGkSLclStkyn3WAUGv0"
-    },
-    {
-      "added_at": "2023-10-20 13:43:35",
-      "album": {
         "name": "Tamo Chelo (Remix)",
         "url": "https://open.spotify.com/album/7mFkiXqQqnWYveSQeA9GXE"
       },
@@ -1199,6 +1163,42 @@
       "duration_ms": 338437,
       "name": "Tamo Chelo - Remix",
       "url": "https://open.spotify.com/track/0utOOrcBB24KZil9cgAwXB"
+    },
+    {
+      "added_at": "2023-10-20 13:43:35",
+      "album": {
+        "name": "Chocolate",
+        "url": "https://open.spotify.com/album/57pKlw31D8Y0bAQAmcZDy8"
+      },
+      "artists": [
+        {
+          "name": "Callejero Fino",
+          "url": "https://open.spotify.com/artist/6GRwwWAtmusrgAL5JF9Dfr"
+        },
+        {
+          "name": "Four Plack",
+          "url": "https://open.spotify.com/artist/3mEKRofaEAL1E4wmR1kCAW"
+        }
+      ],
+      "duration_ms": 157591,
+      "name": "Chocolate",
+      "url": "https://open.spotify.com/track/7IcdA7TnEtxAUvby7MukZY"
+    },
+    {
+      "added_at": "2023-10-20 13:43:35",
+      "album": {
+        "name": "Es Corta la Bocha",
+        "url": "https://open.spotify.com/album/3G9FLQq5jEbBVfdsjxp1BM"
+      },
+      "artists": [
+        {
+          "name": "Eh!!! Guacho",
+          "url": "https://open.spotify.com/artist/2iRVMe7HOINAwwEpGCU2mF"
+        }
+      ],
+      "duration_ms": 187693,
+      "name": "Orgullosa",
+      "url": "https://open.spotify.com/track/7bgzGkSLclStkyn3WAUGv0"
     },
     {
       "added_at": "2023-10-20 13:43:35",
@@ -1539,6 +1539,22 @@
     {
       "added_at": "2023-10-20 13:43:35",
       "album": {
+        "name": "Pibes Chorros - Criando Cuervos",
+        "url": "https://open.spotify.com/album/4nMOd2K00P2kLWJj8FyFOs"
+      },
+      "artists": [
+        {
+          "name": "Los Pibes Chorros",
+          "url": "https://open.spotify.com/artist/3TINnlLcMBQA88OoalsvYR"
+        }
+      ],
+      "duration_ms": 224093,
+      "name": "Una copa mas",
+      "url": "https://open.spotify.com/track/0tAKVEBAQnXc8LrWuSZOdv"
+    },
+    {
+      "added_at": "2023-10-20 13:43:35",
+      "album": {
         "name": "38",
         "url": "https://open.spotify.com/album/4YtUu37m5y31rp8jrWJ9wk"
       },
@@ -1563,22 +1579,6 @@
       "duration_ms": 161000,
       "name": "38",
       "url": "https://open.spotify.com/track/4My1ij0QUaZrojxzkV0OEx"
-    },
-    {
-      "added_at": "2023-10-20 13:43:35",
-      "album": {
-        "name": "Pibes Chorros - Criando Cuervos",
-        "url": "https://open.spotify.com/album/4nMOd2K00P2kLWJj8FyFOs"
-      },
-      "artists": [
-        {
-          "name": "Los Pibes Chorros",
-          "url": "https://open.spotify.com/artist/3TINnlLcMBQA88OoalsvYR"
-        }
-      ],
-      "duration_ms": 224093,
-      "name": "Una copa mas",
-      "url": "https://open.spotify.com/track/0tAKVEBAQnXc8LrWuSZOdv"
     },
     {
       "added_at": "2023-10-20 13:43:35",
@@ -1695,6 +1695,22 @@
     {
       "added_at": "2023-10-20 13:43:35",
       "album": {
+        "name": "Me Declaro Culpable",
+        "url": "https://open.spotify.com/album/39h88ns1BmKSs8pgdrhLXG"
+      },
+      "artists": [
+        {
+          "name": "Nene Malo",
+          "url": "https://open.spotify.com/artist/58UPAlQ4MRWEDLhfdP4VcN"
+        }
+      ],
+      "duration_ms": 197040,
+      "name": "Es un Secreto",
+      "url": "https://open.spotify.com/track/79R4NmcyCKcVkwzL2PUS8x"
+    },
+    {
+      "added_at": "2023-10-20 13:43:35",
+      "album": {
         "name": "La Gilera (Remix)",
         "url": "https://open.spotify.com/album/6PGwcy5RlZKN3PRIRsAwm3"
       },
@@ -1715,22 +1731,6 @@
       "duration_ms": 147107,
       "name": "La Gilera - Remix",
       "url": "https://open.spotify.com/track/75ShCUU5RS4NE8allIpJPa"
-    },
-    {
-      "added_at": "2023-10-20 13:43:35",
-      "album": {
-        "name": "Me Declaro Culpable",
-        "url": "https://open.spotify.com/album/39h88ns1BmKSs8pgdrhLXG"
-      },
-      "artists": [
-        {
-          "name": "Nene Malo",
-          "url": "https://open.spotify.com/artist/58UPAlQ4MRWEDLhfdP4VcN"
-        }
-      ],
-      "duration_ms": 197040,
-      "name": "Es un Secreto",
-      "url": "https://open.spotify.com/track/79R4NmcyCKcVkwzL2PUS8x"
     },
     {
       "added_at": "2023-10-20 13:43:35",
@@ -2063,54 +2063,6 @@
     {
       "added_at": "2023-10-20 13:43:35",
       "album": {
-        "name": "Es Corta la Bocha",
-        "url": "https://open.spotify.com/album/3G9FLQq5jEbBVfdsjxp1BM"
-      },
-      "artists": [
-        {
-          "name": "Eh!!! Guacho",
-          "url": "https://open.spotify.com/artist/2iRVMe7HOINAwwEpGCU2mF"
-        }
-      ],
-      "duration_ms": 132840,
-      "name": "Ritmo Sabroson",
-      "url": "https://open.spotify.com/track/4NyLrceESCSUGDhIt8DhBk"
-    },
-    {
-      "added_at": "2023-10-20 13:43:35",
-      "album": {
-        "name": "Alta Gira",
-        "url": "https://open.spotify.com/album/1tlUQn78wbsFerurcSe8Hy"
-      },
-      "artists": [
-        {
-          "name": "Los Gedes",
-          "url": "https://open.spotify.com/artist/466KoO2fOYbRfjIbOgNobf"
-        }
-      ],
-      "duration_ms": 247144,
-      "name": "Vos de Bebe",
-      "url": "https://open.spotify.com/track/2mVBkHUzTGdHZsZ90F77bF"
-    },
-    {
-      "added_at": "2023-10-20 13:43:35",
-      "album": {
-        "name": "Salvaje",
-        "url": "https://open.spotify.com/album/1CBTqGy6fo7NzRcHGxe9lP"
-      },
-      "artists": [
-        {
-          "name": "Los Dragones",
-          "url": "https://open.spotify.com/artist/0FtOEaKA25lR6G48iP1Jnt"
-        }
-      ],
-      "duration_ms": 211461,
-      "name": "El Mamado del Auto",
-      "url": "https://open.spotify.com/track/59a51WlcUh2OiYm3HZQuXk"
-    },
-    {
-      "added_at": "2023-10-20 13:43:35",
-      "album": {
         "name": "Bata Boom (Remix)",
         "url": "https://open.spotify.com/album/3loPcEq9lvN6llnOoJb8z3"
       },
@@ -2135,6 +2087,54 @@
       "duration_ms": 187105,
       "name": "Bata Boom - Remix",
       "url": "https://open.spotify.com/track/5iIi6vDS3ruNjn5sgwBSag"
+    },
+    {
+      "added_at": "2023-10-20 13:43:35",
+      "album": {
+        "name": "Alta Gira",
+        "url": "https://open.spotify.com/album/1tlUQn78wbsFerurcSe8Hy"
+      },
+      "artists": [
+        {
+          "name": "Los Gedes",
+          "url": "https://open.spotify.com/artist/466KoO2fOYbRfjIbOgNobf"
+        }
+      ],
+      "duration_ms": 247144,
+      "name": "Vos de Bebe",
+      "url": "https://open.spotify.com/track/2mVBkHUzTGdHZsZ90F77bF"
+    },
+    {
+      "added_at": "2023-10-20 13:43:35",
+      "album": {
+        "name": "Es Corta la Bocha",
+        "url": "https://open.spotify.com/album/3G9FLQq5jEbBVfdsjxp1BM"
+      },
+      "artists": [
+        {
+          "name": "Eh!!! Guacho",
+          "url": "https://open.spotify.com/artist/2iRVMe7HOINAwwEpGCU2mF"
+        }
+      ],
+      "duration_ms": 132840,
+      "name": "Ritmo Sabroson",
+      "url": "https://open.spotify.com/track/4NyLrceESCSUGDhIt8DhBk"
+    },
+    {
+      "added_at": "2023-10-20 13:43:35",
+      "album": {
+        "name": "Salvaje",
+        "url": "https://open.spotify.com/album/1CBTqGy6fo7NzRcHGxe9lP"
+      },
+      "artists": [
+        {
+          "name": "Los Dragones",
+          "url": "https://open.spotify.com/artist/0FtOEaKA25lR6G48iP1Jnt"
+        }
+      ],
+      "duration_ms": 211461,
+      "name": "El Mamado del Auto",
+      "url": "https://open.spotify.com/track/59a51WlcUh2OiYm3HZQuXk"
     },
     {
       "added_at": "2023-10-20 13:43:35",
@@ -2279,22 +2279,6 @@
     {
       "added_at": "2023-10-20 13:43:35",
       "album": {
-        "name": "25 Horas de Gira",
-        "url": "https://open.spotify.com/album/3KDbFoymkpijR5jsI13zKL"
-      },
-      "artists": [
-        {
-          "name": "El Guachoon",
-          "url": "https://open.spotify.com/artist/74f8yYPROjWNuz2WJOpQTr"
-        }
-      ],
-      "duration_ms": 193515,
-      "name": "Gobernada",
-      "url": "https://open.spotify.com/track/51nQJy39tCUGvF6aCUJqW5"
-    },
-    {
-      "added_at": "2023-10-20 13:43:35",
-      "album": {
         "name": "Sin Ayuda",
         "url": "https://open.spotify.com/album/5Lq3TDrL7390XY5a9Wm2OV"
       },
@@ -2311,6 +2295,22 @@
       "duration_ms": 229500,
       "name": "Sin Ayuda",
       "url": "https://open.spotify.com/track/11mbrI6qv47pr41GzU3reG"
+    },
+    {
+      "added_at": "2023-10-20 13:43:35",
+      "album": {
+        "name": "25 Horas de Gira",
+        "url": "https://open.spotify.com/album/3KDbFoymkpijR5jsI13zKL"
+      },
+      "artists": [
+        {
+          "name": "El Guachoon",
+          "url": "https://open.spotify.com/artist/74f8yYPROjWNuz2WJOpQTr"
+        }
+      ],
+      "duration_ms": 193515,
+      "name": "Gobernada",
+      "url": "https://open.spotify.com/track/51nQJy39tCUGvF6aCUJqW5"
     },
     {
       "added_at": "2023-10-20 13:43:35",
@@ -2347,22 +2347,6 @@
     {
       "added_at": "2023-10-20 13:43:35",
       "album": {
-        "name": "Triste y Solitario",
-        "url": "https://open.spotify.com/album/5hXFSBG6SAR974UC9p95zK"
-      },
-      "artists": [
-        {
-          "name": "El Perro",
-          "url": "https://open.spotify.com/artist/7eCZ5oRjRXT5FGfJ36pPTM"
-        }
-      ],
-      "duration_ms": 221022,
-      "name": "Triste y Solitario",
-      "url": "https://open.spotify.com/track/1SCETKwDlQs1uzymfwjKKp"
-    },
-    {
-      "added_at": "2023-10-20 13:43:35",
-      "album": {
         "name": "L-Gante - El Apache Ness - Perro Primo",
         "url": "https://open.spotify.com/album/0GnWjEYxMShvTyDeBynKBs"
       },
@@ -2383,6 +2367,30 @@
       "duration_ms": 203867,
       "name": "L-Gante - El Apache Ness - Perro Primo",
       "url": "https://open.spotify.com/track/7xPuaedCi3GLu5TmtuUkt9"
+    },
+    {
+      "added_at": "2023-10-20 13:43:35",
+      "album": {
+        "name": "Sabado Picado",
+        "url": "https://open.spotify.com/album/3jE8jm4PpLL3diaIqngVyl"
+      },
+      "artists": [
+        {
+          "name": "El Reja",
+          "url": "https://open.spotify.com/artist/7HSeegdmjLYRJpkOYIaZIW"
+        },
+        {
+          "name": "Markito Navaja",
+          "url": "https://open.spotify.com/artist/5cpU1d4hNVlVL3zNcguTS0"
+        },
+        {
+          "name": "Joaco Lopez",
+          "url": "https://open.spotify.com/artist/72TU86QoReKLAjNKWvBiOR"
+        }
+      ],
+      "duration_ms": 137608,
+      "name": "Sabado Picado",
+      "url": "https://open.spotify.com/track/0F0hZ3ztek0ldfjqNHFYmW"
     },
     {
       "added_at": "2023-10-20 13:43:35",

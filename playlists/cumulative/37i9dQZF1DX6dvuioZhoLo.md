@@ -4,7 +4,7 @@
 
 > New makes old\. Cover: Sierra Ferrell
 
-221 songs - 13 hr 1 min
+222 songs - 13 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -79,6 +79,7 @@
 | [Heart of Somebody](https://open.spotify.com/track/1qSllfUSfvfH0oDHQqROoK) | [Caroline Spence](https://open.spotify.com/artist/4De2r7QdHl1eZwnEnQ1IzE) | [Spades and Roses](https://open.spotify.com/album/17G3ABTFVs6dpdmk2gPPxC) | 3:32 | 2021-11-12 | 2022-07-29 |
 | [Heart of Somebody](https://open.spotify.com/track/7jPSQZlOVALxgylW3ne4wH) | [Caroline Spence](https://open.spotify.com/artist/4De2r7QdHl1eZwnEnQ1IzE) | [Spades & Roses](https://open.spotify.com/album/4kMU5M6qBNCiw8Z5nVY4mq) | 3:32 | 2022-04-01 |  |
 | [Heartbreak Blues](https://open.spotify.com/track/1dNAFligPl5TPPXxQ1EBgd) | [Holly Macve](https://open.spotify.com/artist/2E51tnARTxTvmYznDHfE5V) | [Golden Eagle](https://open.spotify.com/album/3ZVKsaGLzKLXyLpDht0SF6) | 4:07 | 2021-11-12 | 2022-07-29 |
+| [Heartbreak Blues](https://open.spotify.com/track/7lbCzpJx4waIGVSqLwH6tg) | [Holly Macve](https://open.spotify.com/artist/2E51tnARTxTvmYznDHfE5V) | [Golden Eagle](https://open.spotify.com/album/1mmQW9vAtSUvvNVzbJmUxL) | 4:07 | 2023-10-06 |  |
 | [Hell's Bells](https://open.spotify.com/track/5o2a1mjibu0Tb2qQaqh0b3) | [Lauren Shera](https://open.spotify.com/artist/4BHgCTlgRJGkP54Ppwsz8R) | [Gold and Rust](https://open.spotify.com/album/1i2UKFquAa9QjWi936r05T) | 4:47 | 2022-04-01 | 2022-04-20 |
 | [Hey Baby](https://open.spotify.com/track/4MaNTAN78ylZnCMCKBFiU9) | [The Cactus Blossoms](https://open.spotify.com/artist/7kWwQAe9JnYNMk4kuEe73S) | [One Day](https://open.spotify.com/album/0KP0kzTCtYthC6dVndh1Jj) | 2:50 | 2023-04-21 |  |
 | [Hey Baby](https://open.spotify.com/track/6kyUPFuPaaprlnKeVaQQMS) | [The Cactus Blossoms](https://open.spotify.com/artist/7kWwQAe9JnYNMk4kuEe73S) | [One Day](https://open.spotify.com/album/0kVNpxNis78JrqQgsir4QN) | 2:50 | 2022-02-18 | 2023-04-30 |
@@ -147,7 +148,7 @@
 | [Motorcycle](https://open.spotify.com/track/0YnbCBn2UdoM5Y1l6Am5EY) | [Colter Wall](https://open.spotify.com/artist/3xYXYzm9H3RzyQgBrYwIcx) | [Colter Wall](https://open.spotify.com/album/63o3vkvtW2Cn8QMiuBN1vN) | 2:17 | 2022-04-01 | 2023-08-31 |
 | [Motorcycle](https://open.spotify.com/track/7gxDLGeMXbgdXDso2dqIFQ) | [Colter Wall](https://open.spotify.com/artist/3xYXYzm9H3RzyQgBrYwIcx) | [Motorcycle](https://open.spotify.com/album/3mf03CMVAcUwJ0Odp7aeN8) | 2:17 | 2021-11-12 | 2022-07-29 |
 | [Motorcycle](https://open.spotify.com/track/1z2UyZvguJYmNd47EZP7Qp) | [Colter Wall](https://open.spotify.com/artist/3xYXYzm9H3RzyQgBrYwIcx) | [Colter Wall](https://open.spotify.com/album/0R8H8XYAiHsh2dwzb4RHsI) | 2:17 | 2023-08-11 |  |
-| [Motorcycle](https://open.spotify.com/track/0mSZBCx1e6hfk4AxsiCT9T) | [Jade Jackson](https://open.spotify.com/artist/2KklSK3N4XIGKfW1THLjLP) | [Gilded](https://open.spotify.com/album/4OIwzZLC5NvLeP81v53jmP) | 3:06 | 2022-04-01 | 2023-01-15 |
+| [Motorcycle](https://open.spotify.com/track/0mSZBCx1e6hfk4AxsiCT9T) | [Jade Jackson](https://open.spotify.com/artist/2KklSK3N4XIGKfW1THLjLP) | [Gilded](https://open.spotify.com/album/4OIwzZLC5NvLeP81v53jmP) | 3:06 | 2022-04-01 |  |
 | [Motorcycle](https://open.spotify.com/track/4qd7c6XSzByd6Dz1QdLAnV) | [Jade Jackson](https://open.spotify.com/artist/2KklSK3N4XIGKfW1THLjLP) | [Motorcycle](https://open.spotify.com/album/1jQcb2lUXTMt27UH9XjquE) | 3:06 | 2021-11-12 | 2022-07-25 |
 | [My Boots](https://open.spotify.com/track/3WFkgqIclweIZ9kNQXbhe9) | [Whitney Rose](https://open.spotify.com/artist/1kltSDXx78MGhHmxbe35tx) | [South Texas Suite](https://open.spotify.com/album/6jtK4NrygZZTIKrzBzDnFJ) | 4:47 | 2021-11-12 | 2022-05-26 |
 | [My Heart Skips A Beat](https://open.spotify.com/track/2M2W0AOYzKABAo1CyfZoCE) | [The Secret Sisters](https://open.spotify.com/artist/5fIZHCg2de8322HZodBDWL) | [The Secret Sisters](https://open.spotify.com/album/4xuicwuqEAjIHe2awEubrI) | 2:23 | 2021-11-12 |  |
@@ -180,7 +181,7 @@
 | [Run\-down Neighborhood](https://open.spotify.com/track/5a0zfY27mdOdvjwypqVVhT) | [Lindi Ortega](https://open.spotify.com/artist/0F8GZ29QxpnfOZvM25l7tJ) | [Faded Gloryville](https://open.spotify.com/album/2wnC0fWey2uAnCBsrdTeqf) | 3:06 | 2022-04-01 |  |
 | [Runnin'](https://open.spotify.com/track/2EM8Ann4TIcFjnVtNpkT8D) | [Leah Blevins](https://open.spotify.com/artist/1cpkiJukYGm0dr7Fm9HpNW) | [Runnin'](https://open.spotify.com/album/0qcRycVTiFPrDF2DKQdRCv) | 3:57 | 2021-11-12 | 2022-07-29 |
 | [Rustin' In The Rain](https://open.spotify.com/track/7CYYZVnDYoUtNlSxNNz4P9) | [Tyler Childers](https://open.spotify.com/artist/13ZEDW6vyBF12HYcZRr4EV) | [Rustin' In The Rain](https://open.spotify.com/album/7rSObXhKazzmeZFHuGX1mx) | 3:36 | 2023-09-08 |  |
-| [Same Devil \(feat\. Brandi Carlile\)](https://open.spotify.com/track/11ztTGjFtV3MNoNx0XvApC) | [Brandy Clark](https://open.spotify.com/artist/5vMAKlvvMNSRQRYCAvpG6S), [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej) | [Same Devil \(feat\. Brandi Carlile\)](https://open.spotify.com/album/6XL1xCLdUOU6j35YspCkqO) | 3:07 | 2021-11-12 |  |
+| [Same Devil \(feat\. Brandi Carlile\)](https://open.spotify.com/track/11ztTGjFtV3MNoNx0XvApC) | [Brandy Clark](https://open.spotify.com/artist/5vMAKlvvMNSRQRYCAvpG6S), [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej) | [Same Devil \(feat\. Brandi Carlile\)](https://open.spotify.com/album/6XL1xCLdUOU6j35YspCkqO) | 3:07 | 2021-11-12 | 2023-10-22 |
 | [Shakedown](https://open.spotify.com/track/5TiFSXE1DInbcr0xYeM2k4) | [Valerie June](https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM) | [Shakedown](https://open.spotify.com/album/6H2F39aTyw02VjBsUyYmUb) | 2:46 | 2021-11-12 | 2022-07-29 |
 | [Shakedown](https://open.spotify.com/track/6vyVxWBHLIqNdhy4IGz1LN) | [Valerie June](https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM) | [The Order Of Time](https://open.spotify.com/album/4TVWSt83FpSfocgA3omB0k) | 2:46 | 2022-04-01 |  |
 | [Snakelife](https://open.spotify.com/track/0NNgcqGAz5470XPqrFv8bB) | [Allison Russell](https://open.spotify.com/artist/3JBmecDGXTll46ygrnGTM6) | [Snakelife](https://open.spotify.com/album/4vsViZG1HskPq7Sx2YSnZU) | 4:37 | 2023-08-11 |  |
@@ -225,7 +226,7 @@
 | [Where Ya Been?](https://open.spotify.com/track/5FBjLI91XAAfkJIObf6lvV) | [Luke Bell](https://open.spotify.com/artist/4D3lmUAeXE2SMsOKd2B8XQ) | [Luke Bell](https://open.spotify.com/album/5gtzbumKYEG1Uz4BvB8hbj) | 3:29 | 2021-11-12 |  |
 | [Yellow Room](https://open.spotify.com/track/7jD4TV5mua3KeLqOIqFXm0) | [Liz Rose](https://open.spotify.com/artist/7pcKyVIatvXoHdZRr4Q3vT) | [Swimming Alone](https://open.spotify.com/album/6SifWWoghYvzA2Q4n6zAzk) | 3:19 | 2022-04-01 | 2022-04-21 |
 | [You Don't Own Me](https://open.spotify.com/track/6ZVCTPK8A83OogGsI0Dxjl) | [Whitney Rose](https://open.spotify.com/artist/1kltSDXx78MGhHmxbe35tx) | [You Don't Own Me](https://open.spotify.com/album/7BOSDXG0al6FLZZyUqGIBe) | 2:48 | 2022-04-01 | 2022-04-19 |
-| [You Don't Scare Me](https://open.spotify.com/track/6gNeydQ1T8JfthxH1PtuxM) | [Whitney Rose](https://open.spotify.com/artist/1kltSDXx78MGhHmxbe35tx) | [Rule 62](https://open.spotify.com/album/2gnifAAMU2Q7A2ZtqNIlAf) | 4:10 | 2021-11-12 |  |
+| [You Don't Scare Me](https://open.spotify.com/track/6gNeydQ1T8JfthxH1PtuxM) | [Whitney Rose](https://open.spotify.com/artist/1kltSDXx78MGhHmxbe35tx) | [Rule 62](https://open.spotify.com/album/2gnifAAMU2Q7A2ZtqNIlAf) | 4:10 | 2021-11-12 | 2023-10-22 |
 | [You Never Can Tell \(C'est la Vie\) \- 2003 Remaster](https://open.spotify.com/track/1qVLm98UAAFyYuq4HCKFBV) | [Emmylou Harris](https://open.spotify.com/artist/5s6TJEuHTr9GR894wc6VfP) | [Luxury Liner \(Expanded & Remastered\)](https://open.spotify.com/album/2MY03ZPfqzrUmM5xPcyfrx) | 3:28 | 2022-04-01 |  |
 | [You're Leaving Me](https://open.spotify.com/track/3nIU8jZVOqFv88bQbMrrNF) | [Lydia Loveless](https://open.spotify.com/artist/4aZmKktp90vPbhbdgf2fpn) | [You're Leaving Me](https://open.spotify.com/album/33hGtYb71bdoDzQoJ4RIYP) | 2:29 | 2022-02-18 | 2022-07-28 |
 | [You've Lost That Lovin' Feelin'](https://open.spotify.com/track/7enr4eQzPkih9M7TkeDuw0) | [The Unrighteous Brothers](https://open.spotify.com/artist/4Q1IDfpCe7ZRhPDfqeb5dd), [Paul Cauthen](https://open.spotify.com/artist/6yHM0XQEdu9sIlbILMaKBp), [Orville Peck](https://open.spotify.com/artist/46auOkH1pk28rWrSoUNhLo) | [Unchained Melody / You've Lost That Lovin' Feelin'](https://open.spotify.com/album/2wuSSfY2acuozXaOth22B1) | 3:49 | 2021-11-12 |  |

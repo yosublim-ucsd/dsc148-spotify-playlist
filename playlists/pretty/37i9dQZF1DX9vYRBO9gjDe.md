@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9vYRBO9gjDe.md) - [plain]
 
 > Spotify Japanのデイリー急上昇チャート。10月19日付。
 
-[Spotify](https://open.spotify.com/user/spotify) - 286,866 likes - 50 songs - 2 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 286,934 likes - 50 songs - 2 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9vYRBO9gjDe.md) - [plain]
 | 49 | [Paint My Bedroom Black](https://open.spotify.com/track/7cK2XNWfStvxYg6NOfFLoe) | [Holly Humberstone](https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx) | [Paint My Bedroom Black](https://open.spotify.com/album/0o9lEiGZLsVcfTwl6z77oB) | 3:49 |
 | 50 | [涙くん、今日もおはようっ](https://open.spotify.com/track/3pUwKM67uYbqJY6EwJgTRu) | [ano](https://open.spotify.com/artist/7Il739Q5W4yJUYC3hfnX6z) | [涙くん、今日もおはようっ](https://open.spotify.com/album/07BYtVaRKiY9twxagUl3lt) | 4:31 |
 
-Snapshot ID: `MCxkMTg1MTVkYjRlM2E2MjBiNDUxN2Y0MzgyZDZlOWQ1NGYwYjZlYWUz`
+Snapshot ID: `MCw3ZGJmMjQxZjRjZDNiNzYxMzNmYWE1YTE2MDkxZTFkNTg3NGQwY2Yx`

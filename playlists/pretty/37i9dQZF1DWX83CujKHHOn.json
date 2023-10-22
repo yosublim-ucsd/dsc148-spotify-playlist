@@ -1,12 +1,12 @@
 {
   "description": "Being alone (again) can be tough, but these songs will keep you company.",
-  "num_followers": 3347429,
+  "num_followers": 3347560,
   "original_name": "Alone Again",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiYzY0YmQ3MjVmNDdkY2U1MmNlNzUzN2ViNTNkNzljMTM5YzQ5MDcw",
+  "snapshot_id": "MCxhMTY0MzJmYmY1MTYwNjhhZDM5YjIyYmViNTE1ZWI1M2E1MDkxOWUz",
   "tracks": [
     {
       "added_at": "2023-04-07 20:03:50",
@@ -303,22 +303,6 @@
     {
       "added_at": "2023-04-07 20:03:50",
       "album": {
-        "name": "dont smile at me",
-        "url": "https://open.spotify.com/album/7fRrTyKvE4Skh93v97gtcU"
-      },
-      "artists": [
-        {
-          "name": "Billie Eilish",
-          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
-        }
-      ],
-      "duration_ms": 177523,
-      "name": "watch",
-      "url": "https://open.spotify.com/track/7eB1V5LvAdxCc7brfGhRRo"
-    },
-    {
-      "added_at": "2023-04-07 20:03:50",
-      "album": {
         "name": "folklore",
         "url": "https://open.spotify.com/album/2fenSS68JI1h4Fo296JfGr"
       },
@@ -331,6 +315,22 @@
       "duration_ms": 255893,
       "name": "my tears ricochet",
       "url": "https://open.spotify.com/track/1MgV7FIyNxIG7WzMRJV5HC"
+    },
+    {
+      "added_at": "2023-04-07 20:03:50",
+      "album": {
+        "name": "dont smile at me",
+        "url": "https://open.spotify.com/album/7fRrTyKvE4Skh93v97gtcU"
+      },
+      "artists": [
+        {
+          "name": "Billie Eilish",
+          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
+        }
+      ],
+      "duration_ms": 177523,
+      "name": "watch",
+      "url": "https://open.spotify.com/track/7eB1V5LvAdxCc7brfGhRRo"
     },
     {
       "added_at": "2023-04-07 20:03:50",
@@ -1183,6 +1183,22 @@
     {
       "added_at": "2023-04-07 20:03:50",
       "album": {
+        "name": "Music Box",
+        "url": "https://open.spotify.com/album/5Mr8FpZP1DaLDxjbMD7GcR"
+      },
+      "artists": [
+        {
+          "name": "Mariah Carey",
+          "url": "https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ"
+        }
+      ],
+      "duration_ms": 215110,
+      "name": "Without You",
+      "url": "https://open.spotify.com/track/0pkIJFV6mviH9dmBYsFwTM"
+    },
+    {
+      "added_at": "2023-04-07 20:03:50",
+      "album": {
         "name": "Yours Truly",
         "url": "https://open.spotify.com/album/6czdbbMtGbAkZ6ud2OMTcg"
       },
@@ -1199,22 +1215,6 @@
       "duration_ms": 327773,
       "name": "Almost Is Never Enough",
       "url": "https://open.spotify.com/track/442j8VxaB60dWf9cBFuX5w"
-    },
-    {
-      "added_at": "2023-04-07 20:03:50",
-      "album": {
-        "name": "Music Box",
-        "url": "https://open.spotify.com/album/5Mr8FpZP1DaLDxjbMD7GcR"
-      },
-      "artists": [
-        {
-          "name": "Mariah Carey",
-          "url": "https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ"
-        }
-      ],
-      "duration_ms": 215110,
-      "name": "Without You",
-      "url": "https://open.spotify.com/track/0pkIJFV6mviH9dmBYsFwTM"
     },
     {
       "added_at": "2023-04-07 20:03:50",
@@ -1319,22 +1319,6 @@
     {
       "added_at": "2023-04-07 20:03:50",
       "album": {
-        "name": "Safe Haven",
-        "url": "https://open.spotify.com/album/6FgtuX3PtiB5civjHYhc52"
-      },
-      "artists": [
-        {
-          "name": "Ruth B.",
-          "url": "https://open.spotify.com/artist/2WzaAvm2bBCf4pEhyuDgCY"
-        }
-      ],
-      "duration_ms": 303653,
-      "name": "If By Chance",
-      "url": "https://open.spotify.com/track/21dpBHPTV7ythCHBI6Slcw"
-    },
-    {
-      "added_at": "2023-04-07 20:03:50",
-      "album": {
         "name": "x (Wembley Edition)",
         "url": "https://open.spotify.com/album/6NoBzYmh5gUusGPCfg0pct"
       },
@@ -1347,6 +1331,22 @@
       "duration_ms": 258986,
       "name": "Photograph",
       "url": "https://open.spotify.com/track/6fxVffaTuwjgEk5h9QyRjy"
+    },
+    {
+      "added_at": "2023-04-07 20:03:50",
+      "album": {
+        "name": "Safe Haven",
+        "url": "https://open.spotify.com/album/6FgtuX3PtiB5civjHYhc52"
+      },
+      "artists": [
+        {
+          "name": "Ruth B.",
+          "url": "https://open.spotify.com/artist/2WzaAvm2bBCf4pEhyuDgCY"
+        }
+      ],
+      "duration_ms": 303653,
+      "name": "If By Chance",
+      "url": "https://open.spotify.com/track/21dpBHPTV7ythCHBI6Slcw"
     },
     {
       "added_at": "2023-04-07 20:03:50",
@@ -1547,22 +1547,6 @@
     {
       "added_at": "2023-04-07 20:03:50",
       "album": {
-        "name": "Good Without",
-        "url": "https://open.spotify.com/album/1TushXSMlKucNp0KziSAU4"
-      },
-      "artists": [
-        {
-          "name": "Mimi Webb",
-          "url": "https://open.spotify.com/artist/3GxKJzJK4LpsYGXQrw77wz"
-        }
-      ],
-      "duration_ms": 182121,
-      "name": "Good Without",
-      "url": "https://open.spotify.com/track/15OCqNPYoLziEAsbVnqRj5"
-    },
-    {
-      "added_at": "2023-04-07 20:03:50",
-      "album": {
         "name": "The Fault In Our Stars: Music From The Motion Picture",
         "url": "https://open.spotify.com/album/7bXOViTvx6EHXuYFuI2yfj"
       },
@@ -1575,6 +1559,22 @@
       "duration_ms": 234986,
       "name": "All of the Stars",
       "url": "https://open.spotify.com/track/3SZLtkoHoECHHuOnNkNCuS"
+    },
+    {
+      "added_at": "2023-04-07 20:03:50",
+      "album": {
+        "name": "Good Without",
+        "url": "https://open.spotify.com/album/1TushXSMlKucNp0KziSAU4"
+      },
+      "artists": [
+        {
+          "name": "Mimi Webb",
+          "url": "https://open.spotify.com/artist/3GxKJzJK4LpsYGXQrw77wz"
+        }
+      ],
+      "duration_ms": 182121,
+      "name": "Good Without",
+      "url": "https://open.spotify.com/track/15OCqNPYoLziEAsbVnqRj5"
     },
     {
       "added_at": "2023-04-07 20:03:50",
@@ -1627,22 +1627,6 @@
     {
       "added_at": "2023-04-07 20:03:50",
       "album": {
-        "name": "Coping",
-        "url": "https://open.spotify.com/album/52dIh2e2qt0uiDQySjlrHN"
-      },
-      "artists": [
-        {
-          "name": "Rosie Darling",
-          "url": "https://open.spotify.com/artist/6kDXH8d9LugUAsHIozzDAI"
-        }
-      ],
-      "duration_ms": 190266,
-      "name": "Coping",
-      "url": "https://open.spotify.com/track/4RX020eHQpZbZFP5jpbwOP"
-    },
-    {
-      "added_at": "2023-04-07 20:03:50",
-      "album": {
         "name": "Need You Now",
         "url": "https://open.spotify.com/album/4oT0DxRmc0jr7DCKultQqh"
       },
@@ -1655,6 +1639,22 @@
       "duration_ms": 236440,
       "name": "Need You Now",
       "url": "https://open.spotify.com/track/7h70RTLbnhDyPGXjl3iEhh"
+    },
+    {
+      "added_at": "2023-04-07 20:03:50",
+      "album": {
+        "name": "Coping",
+        "url": "https://open.spotify.com/album/52dIh2e2qt0uiDQySjlrHN"
+      },
+      "artists": [
+        {
+          "name": "Rosie Darling",
+          "url": "https://open.spotify.com/artist/6kDXH8d9LugUAsHIozzDAI"
+        }
+      ],
+      "duration_ms": 190266,
+      "name": "Coping",
+      "url": "https://open.spotify.com/track/4RX020eHQpZbZFP5jpbwOP"
     },
     {
       "added_at": "2023-04-07 20:03:50",
@@ -1691,6 +1691,22 @@
     {
       "added_at": "2023-04-07 20:03:50",
       "album": {
+        "name": "In The Lonely Hour (Drowning Shadows Edition)",
+        "url": "https://open.spotify.com/album/0f8RtEC5UUqMX2cveYlylg"
+      },
+      "artists": [
+        {
+          "name": "Sam Smith",
+          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
+        }
+      ],
+      "duration_ms": 162732,
+      "name": "Make It To Me",
+      "url": "https://open.spotify.com/track/13CHIxzN5Z4mbjjADGplNT"
+    },
+    {
+      "added_at": "2023-04-07 20:03:50",
+      "album": {
         "name": "Shawn Mendes",
         "url": "https://open.spotify.com/album/2VP96XdMOKTXefI8Nui23s"
       },
@@ -1719,22 +1735,6 @@
       "duration_ms": 236885,
       "name": "Losing Us.",
       "url": "https://open.spotify.com/track/6embPWj9qvusLg9JpbAmCQ"
-    },
-    {
-      "added_at": "2023-04-07 20:03:50",
-      "album": {
-        "name": "In The Lonely Hour (Drowning Shadows Edition)",
-        "url": "https://open.spotify.com/album/0f8RtEC5UUqMX2cveYlylg"
-      },
-      "artists": [
-        {
-          "name": "Sam Smith",
-          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
-        }
-      ],
-      "duration_ms": 162732,
-      "name": "Make It To Me",
-      "url": "https://open.spotify.com/track/13CHIxzN5Z4mbjjADGplNT"
     },
     {
       "added_at": "2023-04-07 20:03:50",
@@ -1803,22 +1803,6 @@
     {
       "added_at": "2023-04-07 20:03:50",
       "album": {
-        "name": "Handwritten",
-        "url": "https://open.spotify.com/album/6sUOosXuYt0oUeczJRbedZ"
-      },
-      "artists": [
-        {
-          "name": "Shawn Mendes",
-          "url": "https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr"
-        }
-      ],
-      "duration_ms": 214533,
-      "name": "Life Of The Party",
-      "url": "https://open.spotify.com/track/14hJ5tc1VCFMWhVn9axRTC"
-    },
-    {
-      "added_at": "2023-04-07 20:03:50",
-      "album": {
         "name": "lovestrong.",
         "url": "https://open.spotify.com/album/3XNK8vPk3O1rjhDZyOMJ6n"
       },
@@ -1879,6 +1863,22 @@
       "duration_ms": 202360,
       "name": "Moonlight",
       "url": "https://open.spotify.com/track/1qcJdr8TYuGjFhjRoYNC3e"
+    },
+    {
+      "added_at": "2023-04-07 20:03:50",
+      "album": {
+        "name": "Handwritten",
+        "url": "https://open.spotify.com/album/6sUOosXuYt0oUeczJRbedZ"
+      },
+      "artists": [
+        {
+          "name": "Shawn Mendes",
+          "url": "https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr"
+        }
+      ],
+      "duration_ms": 214533,
+      "name": "Life Of The Party",
+      "url": "https://open.spotify.com/track/14hJ5tc1VCFMWhVn9axRTC"
     },
     {
       "added_at": "2023-06-16 07:56:00",
@@ -2131,22 +2131,6 @@
     {
       "added_at": "2023-04-07 20:03:50",
       "album": {
-        "name": "Why Don't You Stay (WorldTour Ver.)",
-        "url": "https://open.spotify.com/album/66zUgJ1HeZL7C6ric4SYp0"
-      },
-      "artists": [
-        {
-          "name": "Jeff Satur",
-          "url": "https://open.spotify.com/artist/5xq3BK55BJmutN0X7eTyQB"
-        }
-      ],
-      "duration_ms": 256336,
-      "name": "Why Don't You Stay (WorldTour Ver.)",
-      "url": "https://open.spotify.com/track/5zav9TbX94CL4JScexrMmf"
-    },
-    {
-      "added_at": "2023-04-07 20:03:50",
-      "album": {
         "name": "Bridges",
         "url": "https://open.spotify.com/album/4Qw1soNFVQu96dlP7yDBSO"
       },
@@ -2159,6 +2143,22 @@
       "duration_ms": 212950,
       "name": "Cross Your Mind",
       "url": "https://open.spotify.com/track/5sPaFuUttXaGeMhq1HKJG5"
+    },
+    {
+      "added_at": "2023-04-07 20:03:50",
+      "album": {
+        "name": "Why Don't You Stay (WorldTour Ver.)",
+        "url": "https://open.spotify.com/album/66zUgJ1HeZL7C6ric4SYp0"
+      },
+      "artists": [
+        {
+          "name": "Jeff Satur",
+          "url": "https://open.spotify.com/artist/5xq3BK55BJmutN0X7eTyQB"
+        }
+      ],
+      "duration_ms": 256336,
+      "name": "Why Don't You Stay (WorldTour Ver.)",
+      "url": "https://open.spotify.com/track/5zav9TbX94CL4JScexrMmf"
     },
     {
       "added_at": "2023-04-07 20:03:50",
@@ -2195,6 +2195,22 @@
     {
       "added_at": "2023-04-07 20:03:50",
       "album": {
+        "name": "The Thrill Of It All (Special Edition)",
+        "url": "https://open.spotify.com/album/3TJz2UBNYJtlEly0sPeNrQ"
+      },
+      "artists": [
+        {
+          "name": "Sam Smith",
+          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
+        }
+      ],
+      "duration_ms": 203289,
+      "name": "Burning",
+      "url": "https://open.spotify.com/track/2mb6YdoavL6db22p7XKJQZ"
+    },
+    {
+      "added_at": "2023-04-07 20:03:50",
+      "album": {
         "name": "Hopeful",
         "url": "https://open.spotify.com/album/2HkUMYp8oYG62y7qKK2olM"
       },
@@ -2223,22 +2239,6 @@
       "duration_ms": 204398,
       "name": "you don't love me anymore",
       "url": "https://open.spotify.com/track/306BR5TD0UlriDlzObxvk9"
-    },
-    {
-      "added_at": "2023-04-07 20:03:50",
-      "album": {
-        "name": "The Thrill Of It All (Special Edition)",
-        "url": "https://open.spotify.com/album/3TJz2UBNYJtlEly0sPeNrQ"
-      },
-      "artists": [
-        {
-          "name": "Sam Smith",
-          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
-        }
-      ],
-      "duration_ms": 203289,
-      "name": "Burning",
-      "url": "https://open.spotify.com/track/2mb6YdoavL6db22p7XKJQZ"
     },
     {
       "added_at": "2023-04-07 20:03:50",
@@ -2323,22 +2323,6 @@
     {
       "added_at": "2023-04-07 20:03:50",
       "album": {
-        "name": "If I Stay (Original Motion Picture Soundtrack) [Deluxe Version]",
-        "url": "https://open.spotify.com/album/0mefrJRDTY0Q1eVZVqAAYU"
-      },
-      "artists": [
-        {
-          "name": "Willamette Stone",
-          "url": "https://open.spotify.com/artist/19gmxCK2V3jLMi5fDYyKtS"
-        }
-      ],
-      "duration_ms": 200560,
-      "name": "Heart Like Yours",
-      "url": "https://open.spotify.com/track/1ym2ZnNbIV6TB4YUjAl2Z5"
-    },
-    {
-      "added_at": "2023-04-07 20:03:50",
-      "album": {
         "name": "English Rain",
         "url": "https://open.spotify.com/album/7kyjDxYcff3MeWKtw0fnLW"
       },
@@ -2351,6 +2335,22 @@
       "duration_ms": 181400,
       "name": "Please Don't Say You Love Me",
       "url": "https://open.spotify.com/track/2PIlBukQ6limukVR8Ubb5o"
+    },
+    {
+      "added_at": "2023-04-07 20:03:50",
+      "album": {
+        "name": "If I Stay (Original Motion Picture Soundtrack) [Deluxe Version]",
+        "url": "https://open.spotify.com/album/0mefrJRDTY0Q1eVZVqAAYU"
+      },
+      "artists": [
+        {
+          "name": "Willamette Stone",
+          "url": "https://open.spotify.com/artist/19gmxCK2V3jLMi5fDYyKtS"
+        }
+      ],
+      "duration_ms": 200560,
+      "name": "Heart Like Yours",
+      "url": "https://open.spotify.com/track/1ym2ZnNbIV6TB4YUjAl2Z5"
     },
     {
       "added_at": "2023-04-07 20:03:50",

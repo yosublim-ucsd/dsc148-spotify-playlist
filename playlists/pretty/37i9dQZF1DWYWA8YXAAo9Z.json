@@ -1,12 +1,12 @@
 {
   "description": "Pushing the envelope; musicians at the forefront of modular synthesis.  ",
-  "num_followers": 48051,
+  "num_followers": 48080,
   "original_name": "Modular Synths",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1MzIyNWMyMTExN2EzYTMyMWQxZTY1MThhMTZhNTcyOTU1NDM0NTJh",
+  "snapshot_id": "MCw5MTc0MjhjMTZjYTdiYWYxM2RiZWY3OTUzOWM5YmIyZDhjMmMzNGMw",
   "tracks": [
     {
       "added_at": "2023-10-02 13:18:34",
@@ -379,22 +379,18 @@
     {
       "added_at": "2023-10-02 13:18:34",
       "album": {
-        "name": "Where Do You Get Your Dreams From?",
-        "url": "https://open.spotify.com/album/5iRXJPVZYkftgKcg5XwMVm"
+        "name": "Languid Gongue",
+        "url": "https://open.spotify.com/album/3h6haEyUYaLtJeEKxLce2s"
       },
       "artists": [
         {
-          "name": "Sven Laux",
-          "url": "https://open.spotify.com/artist/1uOymh5ziYDMdP8NRtGk5q"
-        },
-        {
-          "name": "Logic Moon",
-          "url": "https://open.spotify.com/artist/3cqJW0hZR5efv5YWJKVMw8"
+          "name": "Luke Sanger",
+          "url": "https://open.spotify.com/artist/6rCLSvQw54lPJfibDyFZcG"
         }
       ],
-      "duration_ms": 405333,
-      "name": "Where Do You Get Your Dreams From?",
-      "url": "https://open.spotify.com/track/6eLF3s5IIfgSWGQXOgQxzB"
+      "duration_ms": 330000,
+      "name": "Efflorescence",
+      "url": "https://open.spotify.com/track/2ZIv64u8EDj0BjecR7IaB2"
     },
     {
       "added_at": "2023-10-02 13:18:34",
@@ -415,34 +411,22 @@
     {
       "added_at": "2023-10-02 13:18:34",
       "album": {
-        "name": "Languid Gongue",
-        "url": "https://open.spotify.com/album/3h6haEyUYaLtJeEKxLce2s"
+        "name": "Where Do You Get Your Dreams From?",
+        "url": "https://open.spotify.com/album/5iRXJPVZYkftgKcg5XwMVm"
       },
       "artists": [
         {
-          "name": "Luke Sanger",
-          "url": "https://open.spotify.com/artist/6rCLSvQw54lPJfibDyFZcG"
-        }
-      ],
-      "duration_ms": 330000,
-      "name": "Efflorescence",
-      "url": "https://open.spotify.com/track/2ZIv64u8EDj0BjecR7IaB2"
-    },
-    {
-      "added_at": "2023-10-02 13:18:34",
-      "album": {
-        "name": "Elm",
-        "url": "https://open.spotify.com/album/4l3FTRLR6VAEDpSl1CJaFR"
-      },
-      "artists": [
+          "name": "Sven Laux",
+          "url": "https://open.spotify.com/artist/1uOymh5ziYDMdP8NRtGk5q"
+        },
         {
-          "name": "Land Systems",
-          "url": "https://open.spotify.com/artist/79sKZqPGJ3uPzyC4SlgvAe"
+          "name": "Logic Moon",
+          "url": "https://open.spotify.com/artist/3cqJW0hZR5efv5YWJKVMw8"
         }
       ],
-      "duration_ms": 158729,
-      "name": "Sequoia Slumber",
-      "url": "https://open.spotify.com/track/4nKRsX9uHP9p94yVk0vTbK"
+      "duration_ms": 405333,
+      "name": "Where Do You Get Your Dreams From?",
+      "url": "https://open.spotify.com/track/6eLF3s5IIfgSWGQXOgQxzB"
     },
     {
       "added_at": "2023-10-02 13:18:34",
@@ -459,6 +443,22 @@
       "duration_ms": 457487,
       "name": "Come Back To Bali",
       "url": "https://open.spotify.com/track/5bMRA7SYWh3tpeij7yH8zi"
+    },
+    {
+      "added_at": "2023-10-02 13:18:34",
+      "album": {
+        "name": "Elm",
+        "url": "https://open.spotify.com/album/4l3FTRLR6VAEDpSl1CJaFR"
+      },
+      "artists": [
+        {
+          "name": "Land Systems",
+          "url": "https://open.spotify.com/artist/79sKZqPGJ3uPzyC4SlgvAe"
+        }
+      ],
+      "duration_ms": 158729,
+      "name": "Sequoia Slumber",
+      "url": "https://open.spotify.com/track/4nKRsX9uHP9p94yVk0vTbK"
     },
     {
       "added_at": "2023-10-02 13:18:34",
@@ -543,6 +543,22 @@
     {
       "added_at": "2023-10-02 13:18:34",
       "album": {
+        "name": "Amygdala",
+        "url": "https://open.spotify.com/album/1MuIg8soW5Fhfg9i1BT6wZ"
+      },
+      "artists": [
+        {
+          "name": "JakoJako",
+          "url": "https://open.spotify.com/artist/2ROWhaqtdj8ztIxWekIW4E"
+        }
+      ],
+      "duration_ms": 319047,
+      "name": "Amygdala",
+      "url": "https://open.spotify.com/track/4Di1dq49uG26tIHEsAxaQy"
+    },
+    {
+      "added_at": "2023-10-02 13:18:34",
+      "album": {
         "name": "I Could Be Your Dog / I Could Be Your Moon",
         "url": "https://open.spotify.com/album/0Mh4KBhAf7Rvq2kHCu61YK"
       },
@@ -559,22 +575,6 @@
       "duration_ms": 166001,
       "name": "Glendora",
       "url": "https://open.spotify.com/track/5jKHOuBAsM9jZnE9f0WEUv"
-    },
-    {
-      "added_at": "2023-10-02 13:18:34",
-      "album": {
-        "name": "Amygdala",
-        "url": "https://open.spotify.com/album/1MuIg8soW5Fhfg9i1BT6wZ"
-      },
-      "artists": [
-        {
-          "name": "JakoJako",
-          "url": "https://open.spotify.com/artist/2ROWhaqtdj8ztIxWekIW4E"
-        }
-      ],
-      "duration_ms": 319047,
-      "name": "Amygdala",
-      "url": "https://open.spotify.com/track/4Di1dq49uG26tIHEsAxaQy"
     },
     {
       "added_at": "2023-10-02 13:18:34",
@@ -667,18 +667,18 @@
     {
       "added_at": "2023-10-02 13:18:34",
       "album": {
-        "name": "Becoming Ferromagnetic",
-        "url": "https://open.spotify.com/album/54VwG9mPpNyqR3MHrXaYEJ"
+        "name": "Open Space Volume 1",
+        "url": "https://open.spotify.com/album/4P7MM9wLkv3pZIeA79ti8N"
       },
       "artists": [
         {
-          "name": "Kaitlyn Aurelia Smith",
-          "url": "https://open.spotify.com/artist/6P86FLVAK4sxu8OhyQJBvH"
+          "name": "JakoJako",
+          "url": "https://open.spotify.com/artist/2ROWhaqtdj8ztIxWekIW4E"
         }
       ],
-      "duration_ms": 328275,
-      "name": "Becoming Ferromagnetic",
-      "url": "https://open.spotify.com/track/4H2BkZLuxpYgMgtvFbV0ZB"
+      "duration_ms": 316786,
+      "name": "Deine Augen",
+      "url": "https://open.spotify.com/track/0NUhOwhK0N6M0bVa8OSHbc"
     },
     {
       "added_at": "2023-10-02 13:18:34",
@@ -715,18 +715,18 @@
     {
       "added_at": "2023-10-02 13:18:34",
       "album": {
-        "name": "Open Space Volume 1",
-        "url": "https://open.spotify.com/album/4P7MM9wLkv3pZIeA79ti8N"
+        "name": "Becoming Ferromagnetic",
+        "url": "https://open.spotify.com/album/54VwG9mPpNyqR3MHrXaYEJ"
       },
       "artists": [
         {
-          "name": "JakoJako",
-          "url": "https://open.spotify.com/artist/2ROWhaqtdj8ztIxWekIW4E"
+          "name": "Kaitlyn Aurelia Smith",
+          "url": "https://open.spotify.com/artist/6P86FLVAK4sxu8OhyQJBvH"
         }
       ],
-      "duration_ms": 316786,
-      "name": "Deine Augen",
-      "url": "https://open.spotify.com/track/0NUhOwhK0N6M0bVa8OSHbc"
+      "duration_ms": 328275,
+      "name": "Becoming Ferromagnetic",
+      "url": "https://open.spotify.com/track/4H2BkZLuxpYgMgtvFbV0ZB"
     },
     {
       "added_at": "2023-10-02 13:18:34",
@@ -763,6 +763,22 @@
     {
       "added_at": "2023-10-02 13:18:34",
       "album": {
+        "name": "Being There (Ambient)",
+        "url": "https://open.spotify.com/album/4TgYATdyNPcnECEGe9CekR"
+      },
+      "artists": [
+        {
+          "name": "Afterlife",
+          "url": "https://open.spotify.com/artist/6gnvHPFDgWP4LiES4X0Ajz"
+        }
+      ],
+      "duration_ms": 303157,
+      "name": "Drive West On Sunset - Ambient",
+      "url": "https://open.spotify.com/track/5EQEPfClSpuXVh6o6N78FF"
+    },
+    {
+      "added_at": "2023-10-02 13:18:34",
+      "album": {
         "name": "Mirages",
         "url": "https://open.spotify.com/album/1YHTOqf2Ph97yqfLVr9QYT"
       },
@@ -795,22 +811,6 @@
       "duration_ms": 311783,
       "name": "Park Line",
       "url": "https://open.spotify.com/track/4PlMwTtwkL0J19Tt6DdBvs"
-    },
-    {
-      "added_at": "2023-10-02 13:18:34",
-      "album": {
-        "name": "Being There (Ambient)",
-        "url": "https://open.spotify.com/album/4TgYATdyNPcnECEGe9CekR"
-      },
-      "artists": [
-        {
-          "name": "Afterlife",
-          "url": "https://open.spotify.com/artist/6gnvHPFDgWP4LiES4X0Ajz"
-        }
-      ],
-      "duration_ms": 303157,
-      "name": "Drive West On Sunset - Ambient",
-      "url": "https://open.spotify.com/track/5EQEPfClSpuXVh6o6N78FF"
     },
     {
       "added_at": "2023-10-02 13:18:34",
@@ -919,22 +919,6 @@
     {
       "added_at": "2023-10-02 13:18:34",
       "album": {
-        "name": "Vu Hijera",
-        "url": "https://open.spotify.com/album/2Kwr8i8ureCJGKaEZyRCZC"
-      },
-      "artists": [
-        {
-          "name": "Digital Moss",
-          "url": "https://open.spotify.com/artist/56m25Ot58GnKosZoB220kB"
-        }
-      ],
-      "duration_ms": 261333,
-      "name": "Vu Hijera",
-      "url": "https://open.spotify.com/track/2IAGuKZ9hvXySsCxPyatvv"
-    },
-    {
-      "added_at": "2023-10-02 13:18:34",
-      "album": {
         "name": "Orange Blue Green",
         "url": "https://open.spotify.com/album/1yjuya6bhnOi8wW2CxEAiz"
       },
@@ -947,6 +931,22 @@
       "duration_ms": 165925,
       "name": "Orange Blue Green",
       "url": "https://open.spotify.com/track/1nAGVg9aGh00zL74giYTIH"
+    },
+    {
+      "added_at": "2023-10-02 13:18:34",
+      "album": {
+        "name": "Vu Hijera",
+        "url": "https://open.spotify.com/album/2Kwr8i8ureCJGKaEZyRCZC"
+      },
+      "artists": [
+        {
+          "name": "Digital Moss",
+          "url": "https://open.spotify.com/artist/56m25Ot58GnKosZoB220kB"
+        }
+      ],
+      "duration_ms": 261333,
+      "name": "Vu Hijera",
+      "url": "https://open.spotify.com/track/2IAGuKZ9hvXySsCxPyatvv"
     },
     {
       "added_at": "2023-10-02 13:18:34",
@@ -1099,6 +1099,26 @@
     {
       "added_at": "2023-10-02 13:18:34",
       "album": {
+        "name": "Five Steps",
+        "url": "https://open.spotify.com/album/3jZZwuakkVTYAEIsOBWmcR"
+      },
+      "artists": [
+        {
+          "name": "Jonathan Fitoussi",
+          "url": "https://open.spotify.com/artist/2EuDyGDH8HMwcmWo8UzR7b"
+        },
+        {
+          "name": "Clemens Hourriere",
+          "url": "https://open.spotify.com/artist/0Q92u4ProQgv8AezwCVuG6"
+        }
+      ],
+      "duration_ms": 280087,
+      "name": "La colline",
+      "url": "https://open.spotify.com/track/6pALQ3Z6wSlt2GXePgGeV5"
+    },
+    {
+      "added_at": "2023-10-02 13:18:34",
+      "album": {
         "name": "Milan",
         "url": "https://open.spotify.com/album/7oTgSbWQOVPZ15YUUybwSo"
       },
@@ -1123,22 +1143,18 @@
     {
       "added_at": "2023-10-02 13:18:34",
       "album": {
-        "name": "Five Steps",
-        "url": "https://open.spotify.com/album/3jZZwuakkVTYAEIsOBWmcR"
+        "name": "The Sparrow",
+        "url": "https://open.spotify.com/album/2DLMVaEDhrEeAmhV9JCytt"
       },
       "artists": [
         {
-          "name": "Jonathan Fitoussi",
-          "url": "https://open.spotify.com/artist/2EuDyGDH8HMwcmWo8UzR7b"
-        },
-        {
-          "name": "Clemens Hourriere",
-          "url": "https://open.spotify.com/artist/0Q92u4ProQgv8AezwCVuG6"
+          "name": "Sam Prekop",
+          "url": "https://open.spotify.com/artist/4Vtlz5IfA9y4EBwmp20wwk"
         }
       ],
-      "duration_ms": 280087,
-      "name": "La colline",
-      "url": "https://open.spotify.com/track/6pALQ3Z6wSlt2GXePgGeV5"
+      "duration_ms": 357906,
+      "name": "Every Night",
+      "url": "https://open.spotify.com/track/0uNy3DnZuVajMHDMDcFrIG"
     },
     {
       "added_at": "2023-10-02 13:18:34",
@@ -1159,34 +1175,18 @@
     {
       "added_at": "2023-10-02 13:18:34",
       "album": {
-        "name": "The Sparrow",
-        "url": "https://open.spotify.com/album/2DLMVaEDhrEeAmhV9JCytt"
+        "name": "Generative Ambient Vol 1: Modular Synth Instrumentals",
+        "url": "https://open.spotify.com/album/4ggW8kXcgYFxKOtiApiqry"
       },
       "artists": [
         {
-          "name": "Sam Prekop",
-          "url": "https://open.spotify.com/artist/4Vtlz5IfA9y4EBwmp20wwk"
+          "name": "PalKid",
+          "url": "https://open.spotify.com/artist/0q9Ts8UgxT6USu2ElZgsqW"
         }
       ],
-      "duration_ms": 357906,
-      "name": "Every Night",
-      "url": "https://open.spotify.com/track/0uNy3DnZuVajMHDMDcFrIG"
-    },
-    {
-      "added_at": "2023-10-02 13:18:34",
-      "album": {
-        "name": "Interlude 03",
-        "url": "https://open.spotify.com/album/3I4QlhS7yM9wzEHu10yhVl"
-      },
-      "artists": [
-        {
-          "name": "Farsi",
-          "url": "https://open.spotify.com/artist/2nv9kDqXrE3yfgrzMtby5M"
-        }
-      ],
-      "duration_ms": 199680,
-      "name": "Interlude 03",
-      "url": "https://open.spotify.com/track/0yMMD5kMxkUq2SevZvY71t"
+      "duration_ms": 139847,
+      "name": "Cloudwalker",
+      "url": "https://open.spotify.com/track/2gLhikHEeRFCjvOM5Li9NR"
     },
     {
       "added_at": "2023-10-02 13:18:34",
@@ -1207,6 +1207,22 @@
     {
       "added_at": "2023-10-02 13:18:34",
       "album": {
+        "name": "Interlude 03",
+        "url": "https://open.spotify.com/album/3I4QlhS7yM9wzEHu10yhVl"
+      },
+      "artists": [
+        {
+          "name": "Farsi",
+          "url": "https://open.spotify.com/artist/2nv9kDqXrE3yfgrzMtby5M"
+        }
+      ],
+      "duration_ms": 199680,
+      "name": "Interlude 03",
+      "url": "https://open.spotify.com/track/0yMMD5kMxkUq2SevZvY71t"
+    },
+    {
+      "added_at": "2023-10-02 13:18:34",
+      "album": {
         "name": "Wrecked Exotic",
         "url": "https://open.spotify.com/album/7CRIEFkHlGxpkQtoAkZuBz"
       },
@@ -1219,22 +1235,6 @@
       "duration_ms": 290555,
       "name": "Paravents",
       "url": "https://open.spotify.com/track/2VXY64VOGme1uH6PTsN3Zy"
-    },
-    {
-      "added_at": "2023-10-02 13:18:34",
-      "album": {
-        "name": "Wing Pinger",
-        "url": "https://open.spotify.com/album/6faDBvP6e2Uej2TDl1xSha"
-      },
-      "artists": [
-        {
-          "name": "Scanner",
-          "url": "https://open.spotify.com/artist/7FEmduuEjfoagq6Qrgviji"
-        }
-      ],
-      "duration_ms": 511730,
-      "name": "Wing Pinger 01",
-      "url": "https://open.spotify.com/track/47TiKrNev9micS2sZDzoNJ"
     },
     {
       "added_at": "2023-10-02 13:18:34",
@@ -1255,6 +1255,22 @@
     {
       "added_at": "2023-10-02 13:18:34",
       "album": {
+        "name": "Wing Pinger",
+        "url": "https://open.spotify.com/album/6faDBvP6e2Uej2TDl1xSha"
+      },
+      "artists": [
+        {
+          "name": "Scanner",
+          "url": "https://open.spotify.com/artist/7FEmduuEjfoagq6Qrgviji"
+        }
+      ],
+      "duration_ms": 511730,
+      "name": "Wing Pinger 01",
+      "url": "https://open.spotify.com/track/47TiKrNev9micS2sZDzoNJ"
+    },
+    {
+      "added_at": "2023-10-02 13:18:34",
+      "album": {
         "name": "Aerious EP",
         "url": "https://open.spotify.com/album/6CSRlgX420AoIGGeWjsG0D"
       },
@@ -1267,22 +1283,6 @@
       "duration_ms": 277753,
       "name": "Reflections On The Waterfront",
       "url": "https://open.spotify.com/track/5wavDaYcx6gdSBMagQtWCY"
-    },
-    {
-      "added_at": "2023-10-02 13:18:34",
-      "album": {
-        "name": "Tides: Music for Meditation and Yoga",
-        "url": "https://open.spotify.com/album/3RV45YANay6vYeX0BKbGnh"
-      },
-      "artists": [
-        {
-          "name": "Kaitlyn Aurelia Smith",
-          "url": "https://open.spotify.com/artist/6P86FLVAK4sxu8OhyQJBvH"
-        }
-      ],
-      "duration_ms": 308000,
-      "name": "Tides I",
-      "url": "https://open.spotify.com/track/7E7NGJaerM9PyGI7RLrDvV"
     }
   ],
   "unique_name": "Modular Synths",

@@ -4,7 +4,7 @@
 
 > Rimas argentinas\. Foto: Trueno.
 
-230 songs - 11 hr 47 min
+230 songs - 11 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -90,7 +90,7 @@
 | [Fat Bootys](https://open.spotify.com/track/5pqpyl2TBu9cPsbVxTOK18) | [Slim Dee](https://open.spotify.com/artist/7jiMD3vf8pQSfYOqsftWVg), [Knno](https://open.spotify.com/artist/4aLLA7KPs9GYejRA9gbGZO) | [Fat Bootys](https://open.spotify.com/album/2pBzS1nKpmFDID3l0XJSAJ) | 3:22 | 2021-11-26 | 2023-04-29 |
 | [Fe en el caos](https://open.spotify.com/track/2O1LF9Tatpg2nz435MCuWH) | [Santoz](https://open.spotify.com/artist/3TBQtYdNFCgig6ZrFUJkLx), [WHO'SNEAKY](https://open.spotify.com/artist/0PR49uPdrblEFjaqJUMq4B) | [Distopya](https://open.spotify.com/album/13etVEwAt5iRwXXYa3vaao) | 2:44 | 2023-08-11 |  |
 | [FEEL ME??](https://open.spotify.com/track/4kELKaXaNP4EQR8Q8xNIID) | [Trueno](https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz) | [FEEL ME??](https://open.spotify.com/album/5Db8gqfsfw0tcuACuLFzpR) | 3:07 | 2021-11-26 |  |
-| [Flavor](https://open.spotify.com/track/6JkjgPrTLBAD1fBh1OOfDQ) | [T&K](https://open.spotify.com/artist/62zZb3lpCFBqLDjMccQgND), [FERNANDOCOSTA](https://open.spotify.com/artist/5dC7EcwWdf9Qj4VvJab4rZ), [Tensei One](https://open.spotify.com/artist/1T7nUn5Rl3Rmu4HgyIckl7) | [Flavor](https://open.spotify.com/album/1UpSx9vVKsQvl1VfzGtzDR) | 3:27 | 2023-10-20 |  |
+| [Flavor](https://open.spotify.com/track/6JkjgPrTLBAD1fBh1OOfDQ) | [T&K](https://open.spotify.com/artist/62zZb3lpCFBqLDjMccQgND), [FERNANDOCOSTA](https://open.spotify.com/artist/5dC7EcwWdf9Qj4VvJab4rZ), [Tensei One](https://open.spotify.com/artist/1T7nUn5Rl3Rmu4HgyIckl7) | [Flavor](https://open.spotify.com/album/1UpSx9vVKsQvl1VfzGtzDR) | 2:36 | 2023-10-20 |  |
 | [FRAWA](https://open.spotify.com/track/2HkWX0LPuRAyHO3o7q4pZq) | [Veeyam](https://open.spotify.com/artist/0mUKZR7k8cOSewS6faryVf), [Urbanse](https://open.spotify.com/artist/66X3l109SsMthurq0pHk3g), [Kamada](https://open.spotify.com/artist/5p3CzYVyNJ3qvuS6aXxo9R), [ÑERO](https://open.spotify.com/artist/22ExohHmyt51cObHLDBnyO) | [FRAWA](https://open.spotify.com/album/4ZYoANZBG4nKwRIOghMpug) | 4:09 | 2021-11-26 | 2023-05-13 |
 | [Fruto Rojo](https://open.spotify.com/track/3D0AqjaNwys5tVrzlkAtii) | [Homer El Mero Mero](https://open.spotify.com/artist/0Xo4VFS3v07L0GwIVkZLfg) | [Fruto Rojo](https://open.spotify.com/album/2AtPMbtlkpJeb8kLvRODIR) | 3:09 | 2022-11-07 | 2022-11-13 |
 | [Fruto Rojo](https://open.spotify.com/track/40gTdgKJk6m1w3DKPSrtZ1) | [Homer El Mero Mero](https://open.spotify.com/artist/0Xo4VFS3v07L0GwIVkZLfg) | [Fruto Rojo](https://open.spotify.com/album/7gUDkJObuad3qfTtK3R52D) | 3:09 | 2021-11-26 | 2022-07-29 |

@@ -1,12 +1,12 @@
 {
   "description": "Relax to acoustic versions of your favorite rock songs.",
-  "num_followers": 951938,
+  "num_followers": 952171,
   "original_name": "Acoustic Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzNTJhNTU5NDI5NjBkZGFmYzZhMzI1MTMwZWJjODczMWZlNjY4YWMy",
+  "snapshot_id": "MCwwMGYzYzk5ZTQ5NWRhMzgwYWM2MTlhODc3MTYzMzk3NDBiODQ0NWEz",
   "tracks": [
     {
       "added_at": "2023-09-20 15:37:37",
@@ -531,22 +531,6 @@
     {
       "added_at": "2023-09-20 15:37:37",
       "album": {
-        "name": "12\" Masters - The Essential Mixes",
-        "url": "https://open.spotify.com/album/2jJ6cDLNPwLyVNC1qqVwOT"
-      },
-      "artists": [
-        {
-          "name": "Avril Lavigne",
-          "url": "https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j"
-        }
-      ],
-      "duration_ms": 237533,
-      "name": "When You're Gone - Acoustic Version",
-      "url": "https://open.spotify.com/track/3fcOPNiuzOsjwaguaxrAon"
-    },
-    {
-      "added_at": "2023-09-20 15:37:37",
-      "album": {
         "name": "Spotify Sessions",
         "url": "https://open.spotify.com/album/148mo9e8hv2UZsxS2YKf9T"
       },
@@ -559,6 +543,22 @@
       "duration_ms": 224353,
       "name": "Island in the Sun - Live from Spotify NYC",
       "url": "https://open.spotify.com/track/6QuYC4Vcr3myWxZRJxg4NZ"
+    },
+    {
+      "added_at": "2023-09-20 15:37:37",
+      "album": {
+        "name": "12\" Masters - The Essential Mixes",
+        "url": "https://open.spotify.com/album/2jJ6cDLNPwLyVNC1qqVwOT"
+      },
+      "artists": [
+        {
+          "name": "Avril Lavigne",
+          "url": "https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j"
+        }
+      ],
+      "duration_ms": 237533,
+      "name": "When You're Gone - Acoustic Version",
+      "url": "https://open.spotify.com/track/3fcOPNiuzOsjwaguaxrAon"
     },
     {
       "added_at": "2023-09-20 15:37:37",
@@ -579,22 +579,6 @@
     {
       "added_at": "2023-09-20 15:37:37",
       "album": {
-        "name": "California (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/0jLf8ecN5HjstQqPAjJlsS"
-      },
-      "artists": [
-        {
-          "name": "blink-182",
-          "url": "https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP"
-        }
-      ],
-      "duration_ms": 235746,
-      "name": "Bored To Death (Acoustic)",
-      "url": "https://open.spotify.com/track/2hQRxgtDliE6eD7NmEfpuD"
-    },
-    {
-      "added_at": "2023-09-20 15:37:37",
-      "album": {
         "name": "Stay With Me",
         "url": "https://open.spotify.com/album/0fsWxXjjgHAnFLCEAGWHS5"
       },
@@ -607,6 +591,22 @@
       "duration_ms": 198573,
       "name": "Stay With Me - Acoustic Version",
       "url": "https://open.spotify.com/track/39IX2P1yPA5opcTaHXLPlW"
+    },
+    {
+      "added_at": "2023-09-20 15:37:37",
+      "album": {
+        "name": "California (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/0jLf8ecN5HjstQqPAjJlsS"
+      },
+      "artists": [
+        {
+          "name": "blink-182",
+          "url": "https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP"
+        }
+      ],
+      "duration_ms": 235746,
+      "name": "Bored To Death (Acoustic)",
+      "url": "https://open.spotify.com/track/2hQRxgtDliE6eD7NmEfpuD"
     },
     {
       "added_at": "2023-09-20 15:37:37",

@@ -1,12 +1,12 @@
 {
   "description": "The very best in Scandifolk - from Icelandic blues rock to Norwegicana.",
-  "num_followers": 190663,
+  "num_followers": 190747,
   "original_name": "Nordic Folk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiNzZhN2IxMmYxYmJkNzIxZWFlZDk1OTI3M2U1NmQ0OTNmMDAyMDZm",
+  "snapshot_id": "MCwxMGIxMjQ2MjFmMmQ4YzE1ZmEwMGI1YTZiMTUxY2I4OWVhM2I3Yzli",
   "tracks": [
     {
       "added_at": "2023-10-19 22:00:00",
@@ -619,6 +619,22 @@
     {
       "added_at": "2023-10-19 22:00:00",
       "album": {
+        "name": "Alle Snakker Sant",
+        "url": "https://open.spotify.com/album/45MigZAWPOEXhoQfZONmS3"
+      },
+      "artists": [
+        {
+          "name": "Siri Nilsen",
+          "url": "https://open.spotify.com/artist/1tN0vK9jF9KVzvJHzWQaUM"
+        }
+      ],
+      "duration_ms": 168373,
+      "name": "Alle Snakker Sant",
+      "url": "https://open.spotify.com/track/34gxnmqg4Nbzziv265qul7"
+    },
+    {
+      "added_at": "2023-10-19 22:00:00",
+      "album": {
         "name": "Floating Harmonies",
         "url": "https://open.spotify.com/album/47zAxwGvi23uYEItSkTRgY"
       },
@@ -635,18 +651,18 @@
     {
       "added_at": "2023-10-19 22:00:00",
       "album": {
-        "name": "Alle Snakker Sant",
-        "url": "https://open.spotify.com/album/45MigZAWPOEXhoQfZONmS3"
+        "name": "Pixie's Parasol",
+        "url": "https://open.spotify.com/album/4giKFINYxPLvnV0fBsv4Vw"
       },
       "artists": [
         {
-          "name": "Siri Nilsen",
-          "url": "https://open.spotify.com/artist/1tN0vK9jF9KVzvJHzWQaUM"
+          "name": "Smith & Thell",
+          "url": "https://open.spotify.com/artist/1ZrBGJWLL8NiAjgNifCy90"
         }
       ],
-      "duration_ms": 168373,
-      "name": "Alle Snakker Sant",
-      "url": "https://open.spotify.com/track/34gxnmqg4Nbzziv265qul7"
+      "duration_ms": 182946,
+      "name": "Pixie's Parasol",
+      "url": "https://open.spotify.com/track/00Gbi2ytn6ZmA1ObVcPT93"
     },
     {
       "added_at": "2023-10-19 22:00:00",
@@ -667,22 +683,6 @@
       "duration_ms": 168556,
       "name": "Mornings and Afternoons",
       "url": "https://open.spotify.com/track/4YlmenydUtibsOpCxzrwEf"
-    },
-    {
-      "added_at": "2023-10-19 22:00:00",
-      "album": {
-        "name": "Pixie's Parasol",
-        "url": "https://open.spotify.com/album/4giKFINYxPLvnV0fBsv4Vw"
-      },
-      "artists": [
-        {
-          "name": "Smith & Thell",
-          "url": "https://open.spotify.com/artist/1ZrBGJWLL8NiAjgNifCy90"
-        }
-      ],
-      "duration_ms": 182946,
-      "name": "Pixie's Parasol",
-      "url": "https://open.spotify.com/track/00Gbi2ytn6ZmA1ObVcPT93"
     },
     {
       "added_at": "2023-10-19 22:00:00",
@@ -791,22 +791,6 @@
     {
       "added_at": "2023-10-19 22:00:00",
       "album": {
-        "name": "By the time you hear this",
-        "url": "https://open.spotify.com/album/3QDLru0GgwjIQL3xox7mL9"
-      },
-      "artists": [
-        {
-          "name": "Tuvaband",
-          "url": "https://open.spotify.com/artist/1PELQpIrHccFmlReFjINVT"
-        }
-      ],
-      "duration_ms": 194081,
-      "name": "By the time you hear this",
-      "url": "https://open.spotify.com/track/0aGBL8l3yHYXkRt1rd7mB6"
-    },
-    {
-      "added_at": "2023-10-19 22:00:00",
-      "album": {
         "name": "Joni Was Right",
         "url": "https://open.spotify.com/album/4b9Jd0hGddS6xH6zjsCEV7"
       },
@@ -839,18 +823,18 @@
     {
       "added_at": "2023-10-19 22:00:00",
       "album": {
-        "name": "Dad Told Me",
-        "url": "https://open.spotify.com/album/2mboC8ajeSsXhwG4IQMzb2"
+        "name": "By the time you hear this",
+        "url": "https://open.spotify.com/album/3QDLru0GgwjIQL3xox7mL9"
       },
       "artists": [
         {
-          "name": "Hello Saferide",
-          "url": "https://open.spotify.com/artist/4Qxe8uorrQxMoMkhv0HrK3"
+          "name": "Tuvaband",
+          "url": "https://open.spotify.com/artist/1PELQpIrHccFmlReFjINVT"
         }
       ],
-      "duration_ms": 155213,
-      "name": "Oh God",
-      "url": "https://open.spotify.com/track/3LHSrehhdEgEvQRpFpc0VC"
+      "duration_ms": 194081,
+      "name": "By the time you hear this",
+      "url": "https://open.spotify.com/track/0aGBL8l3yHYXkRt1rd7mB6"
     },
     {
       "added_at": "2023-10-19 22:00:00",
@@ -871,6 +855,22 @@
     {
       "added_at": "2023-10-19 22:00:00",
       "album": {
+        "name": "Dad Told Me",
+        "url": "https://open.spotify.com/album/2mboC8ajeSsXhwG4IQMzb2"
+      },
+      "artists": [
+        {
+          "name": "Hello Saferide",
+          "url": "https://open.spotify.com/artist/4Qxe8uorrQxMoMkhv0HrK3"
+        }
+      ],
+      "duration_ms": 155213,
+      "name": "Oh God",
+      "url": "https://open.spotify.com/track/3LHSrehhdEgEvQRpFpc0VC"
+    },
+    {
+      "added_at": "2023-10-19 22:00:00",
+      "album": {
         "name": "bl\u00f3mi",
         "url": "https://open.spotify.com/album/0Cq0t6HFg2UeAEqwED7ezE"
       },
@@ -887,18 +887,22 @@
     {
       "added_at": "2023-10-19 22:00:00",
       "album": {
-        "name": "Still Here",
-        "url": "https://open.spotify.com/album/4eLSzWcNiF99ezdryVRdKN"
+        "name": "Svarteboka",
+        "url": "https://open.spotify.com/album/34RiGqZ1AlGsAPtecMiclC"
       },
       "artists": [
         {
-          "name": "Darling West",
-          "url": "https://open.spotify.com/artist/0mKLP9jGn5eAZDlaq7UYQY"
+          "name": "G\u00e5te",
+          "url": "https://open.spotify.com/artist/3YxkGgMvqCQA75aFpy6524"
+        },
+        {
+          "name": "Djerv",
+          "url": "https://open.spotify.com/artist/0maicLMFF0aeHwJlQgZrNa"
         }
       ],
-      "duration_ms": 218306,
-      "name": "Still Here",
-      "url": "https://open.spotify.com/track/0KawFoaUEu2ICSJ0CawwCJ"
+      "duration_ms": 240360,
+      "name": "Svarteboka",
+      "url": "https://open.spotify.com/track/5hssjRpOTbxPmWBPTV4KIK"
     },
     {
       "added_at": "2023-10-19 22:00:00",
@@ -935,22 +939,18 @@
     {
       "added_at": "2023-10-19 22:00:00",
       "album": {
-        "name": "Svarteboka",
-        "url": "https://open.spotify.com/album/34RiGqZ1AlGsAPtecMiclC"
+        "name": "Still Here",
+        "url": "https://open.spotify.com/album/4eLSzWcNiF99ezdryVRdKN"
       },
       "artists": [
         {
-          "name": "G\u00e5te",
-          "url": "https://open.spotify.com/artist/3YxkGgMvqCQA75aFpy6524"
-        },
-        {
-          "name": "Djerv",
-          "url": "https://open.spotify.com/artist/0maicLMFF0aeHwJlQgZrNa"
+          "name": "Darling West",
+          "url": "https://open.spotify.com/artist/0mKLP9jGn5eAZDlaq7UYQY"
         }
       ],
-      "duration_ms": 240360,
-      "name": "Svarteboka",
-      "url": "https://open.spotify.com/track/5hssjRpOTbxPmWBPTV4KIK"
+      "duration_ms": 218306,
+      "name": "Still Here",
+      "url": "https://open.spotify.com/track/0KawFoaUEu2ICSJ0CawwCJ"
     },
     {
       "added_at": "2023-10-19 22:00:00",

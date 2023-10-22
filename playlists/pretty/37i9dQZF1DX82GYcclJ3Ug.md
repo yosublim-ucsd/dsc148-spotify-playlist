@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX82GYcclJ3Ug.md) - [plain]
 
 > No rules or boundaries\. The very best new alternative tracks\. Cover: IDLES
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,118,812 likes - 125 songs - 6 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,118,838 likes - 125 songs - 6 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,7 +48,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX82GYcclJ3Ug.md) - [plain]
 | 38 | [What Doesn't Kill You Makes You Paranoid](https://open.spotify.com/track/1na4kP9vFyaXHq8ZOGOC16) | [The Beaches](https://open.spotify.com/artist/6ws5XBA70XgeBpnLZhQBoy) | [What Doesn't Kill You Makes You Paranoid](https://open.spotify.com/album/6XAKGZmFNNij9L9dYTAznJ) | 3:51 |
 | 39 | [Chaos Party](https://open.spotify.com/track/6oF2soqgQMtooPKPfwvLuv) | [Briston Maroney](https://open.spotify.com/artist/7vtSUU3zpHeYJfX6BPNrJd) | [Ultrapure](https://open.spotify.com/album/1KLpFZbmz9I4irFMe9sht9) | 2:59 |
 | 40 | [Another good year for the roses](https://open.spotify.com/track/1YoOb9usnbDLSAACSSCwzP) | [Kurt Vile](https://open.spotify.com/artist/5gspAQIAH8nJUrMYgXjCJ2) | [Another good year for the roses](https://open.spotify.com/album/56qRporNZTzZiqwfJaEsV0) | 5:34 |
-| 41 | [Hope is a Dangerous Little Thing](https://open.spotify.com/track/5AXCGDpDg4rOdf3xg2Y939) | [The Menzingers](https://open.spotify.com/artist/7HWFXU9pHBj0u58yoRwwOJ) | [Hope is a Dangerous Little Thing](https://open.spotify.com/album/13JTf9C01ApbfehYZoc7lX) | 3:12 |
+| 41 | [Hope is a Dangerous Little Thing](https://open.spotify.com/track/089lW2lTDsHUDsNlzim7Qc) | [The Menzingers](https://open.spotify.com/artist/7HWFXU9pHBj0u58yoRwwOJ) | [Some Of It Was True](https://open.spotify.com/album/1haMGMoO3UjtVB1l3BHMFZ) | 3:12 |
 | 42 | [Days Of Oblivion](https://open.spotify.com/track/2p83KMWc8xidIJ0RwXsz25) | [Metric](https://open.spotify.com/artist/1rCIEwPp5OnXW0ornlSsRl) | [Formentera II](https://open.spotify.com/album/4SH7eiRuT8MdrLnL52gB1O) | 5:59 |
 | 43 | [Run Away With Me](https://open.spotify.com/track/2DUt3aAwcVeeHwcQPjFqLH) | [Cold War Kids](https://open.spotify.com/artist/6VDdCwrBM4qQaGxoAyxyJC) | [Run Away With Me](https://open.spotify.com/album/17HtJeuxy9kO8agW21ua9I) | 3:12 |
 | 44 | [Heartbreak Kid](https://open.spotify.com/track/52J6YtU7jLcoBKShJxMITp) | [The Vaccines](https://open.spotify.com/artist/0Ak6DLKHtpR6TEEnmcorKA) | [Heartbreak Kid](https://open.spotify.com/album/6iDURKweXeDCpXnIXcTchM) | 3:00 |
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX82GYcclJ3Ug.md) - [plain]
 | 124 | [Impressively Average](https://open.spotify.com/track/1sL6n9kMtrlAvPokQKlZGP) | [Brigitte Calls Me Baby](https://open.spotify.com/artist/3sB1RV3IE5yCyMbl01FzBN) | [Impressively Average](https://open.spotify.com/album/0I60bBbjgow9th1gEfPKxv) | 3:18 |
 | 125 | [DUMB](https://open.spotify.com/track/47MthNdmvuTrV3SP4MPFGV) | [Hunter Oliveri](https://open.spotify.com/artist/1y3NQbmjuRQshFiRjiterz) | [DUMB](https://open.spotify.com/album/1CEYnd0M5NIW7u6HheJka5) | 2:53 |
 
-Snapshot ID: `MCxjMTA0OTEwOTFjMzhiZTkzNDAxMDg3MTgwNmUxMWI2NDFiZjEzN2M0`
+Snapshot ID: `MCw1NjI0YTljMzM2MDU2NWQ3MjBhNDc3ZDhlODM2MjgzMDEzYjA2NGE0`

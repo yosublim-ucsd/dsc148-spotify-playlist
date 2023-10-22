@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXepGEFFmQXJ.md) - [plain]
 
 > The cream of today's Country crop\. Cover: Chris Stapelton
 
-[Spotify](https://open.spotify.com/user/spotify) - 367,114 likes - 77 songs - 4 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 367,382 likes - 77 songs - 4 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -86,4 +86,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXepGEFFmQXJ.md) - [plain]
 | 76 | [We Ride](https://open.spotify.com/track/72kGuWpRiuA149Bn5lDkIO) | [Bryan Martin](https://open.spotify.com/artist/0ChjBYedhZTQnWZWQYg15U) | [Poets & Old Souls](https://open.spotify.com/album/19X9Ts9AYIRrqthSTf3qss) | 3:08 |
 | 77 | [Dance With You](https://open.spotify.com/track/5SIb4S2seQAeCHPXxiNHBL) | [Brett Young](https://open.spotify.com/artist/0fiWOxhsBsQQvFDtxUQWo0) | [Dance With You](https://open.spotify.com/album/7rbVJCe9cnXniQ9cgJW7lp) | 3:03 |
 
-Snapshot ID: `MCw0ZWE0NzgwOTRjMmE4MTdiODNkOTMzZWRlZWEyOWQyZGQ3ZjE5NzM1`
+Snapshot ID: `MCxlZmE2ODI2ZGIyMTdhYTg5OWM1NmY0OTc3YzNhOThiOWIxNWJlMjU0`

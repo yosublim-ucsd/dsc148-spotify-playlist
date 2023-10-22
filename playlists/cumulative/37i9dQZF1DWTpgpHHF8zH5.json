@@ -2672,6 +2672,24 @@
     {
       "album": {
         "name": "Homesick",
+        "url": "https://open.spotify.com/album/5OFe2ng2xlcSALvSJslaTQ"
+      },
+      "artists": [
+        {
+          "name": "K\u00e1llay Saunders",
+          "url": "https://open.spotify.com/artist/7DJiupNnzTkhLPygjCaVKj"
+        }
+      ],
+      "date_added": "2023-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164398,
+      "name": "Homesick",
+      "url": "https://open.spotify.com/track/0uuIhWZb3Q2QqzDcBAKoYz"
+    },
+    {
+      "album": {
+        "name": "Homesick",
         "url": "https://open.spotify.com/album/6fFU7FRsq7htaCfTsHAkCn"
       },
       "artists": [
@@ -2682,7 +2700,7 @@
       ],
       "date_added": "2023-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-22",
       "duration_ms": 164398,
       "name": "Homesick",
       "url": "https://open.spotify.com/track/4xJJc0HHDDSRb202uqDbsc"

@@ -2746,7 +2746,7 @@
       ],
       "date_added": "2023-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-22",
       "duration_ms": 221510,
       "name": "Black Friday",
       "url": "https://open.spotify.com/track/1XTY6rA7XQosc0ynkkE9kN"
@@ -4916,6 +4916,28 @@
       "duration_ms": 144000,
       "name": "Danse p\u00e5 panseret",
       "url": "https://open.spotify.com/track/4docWah77XQ5t9jexaJKBG"
+    },
+    {
+      "album": {
+        "name": "Danseproblem",
+        "url": "https://open.spotify.com/album/5du6PDgOJPuXt6EwK8Y3HE"
+      },
+      "artists": [
+        {
+          "name": "Bausa",
+          "url": "https://open.spotify.com/artist/7krakxeyEmge6pzTthKNyg"
+        },
+        {
+          "name": "Coucheron",
+          "url": "https://open.spotify.com/artist/6ly2Z6h9dOerORbK1l2N8D"
+        }
+      ],
+      "date_added": "2023-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163655,
+      "name": "Danseproblem",
+      "url": "https://open.spotify.com/track/4MyPCOodOr2arMPmDxHqBX"
     },
     {
       "album": {
@@ -8382,7 +8404,7 @@
       ],
       "date_added": "2023-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-22",
       "duration_ms": 175075,
       "name": "Fyll & Faenskap",
       "url": "https://open.spotify.com/track/3r0aM0M0toxEPbkYtXhNAZ"
@@ -11900,7 +11922,7 @@
       ],
       "date_added": "2022-08-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-22",
       "duration_ms": 175238,
       "name": "I'm Good (Blue)",
       "url": "https://open.spotify.com/track/4uUG5RXrOk84mYEfFvj3cK"
@@ -12183,6 +12205,24 @@
     },
     {
       "album": {
+        "name": "Igjen og Igjen",
+        "url": "https://open.spotify.com/album/5mQGd56qOD3sxv9GhtRUSk"
+      },
+      "artists": [
+        {
+          "name": "Ballinciaga",
+          "url": "https://open.spotify.com/artist/7GgWpPrcNYH90st7I3nJtv"
+        }
+      ],
+      "date_added": "2023-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135683,
+      "name": "Igjen og Igjen",
+      "url": "https://open.spotify.com/track/0p1utKz9q8yMCXVsZGxP5w"
+    },
+    {
+      "album": {
         "name": "Ikke La Meg G\u00e5",
         "url": "https://open.spotify.com/album/5LOoTpjQqlREFGW5FjEVWH"
       },
@@ -12329,6 +12369,28 @@
     },
     {
       "album": {
+        "name": "In The City",
+        "url": "https://open.spotify.com/album/4yb3RB7teZSVscBmOoDWvT"
+      },
+      "artists": [
+        {
+          "name": "Charli XCX",
+          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
+        },
+        {
+          "name": "Sam Smith",
+          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
+        }
+      ],
+      "date_added": "2023-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176479,
+      "name": "In The City",
+      "url": "https://open.spotify.com/track/3xY5aYJcdvZX9xQxNd02ku"
+    },
+    {
+      "album": {
         "name": "In The Stars",
         "url": "https://open.spotify.com/album/6dSmXsyGAnFtq048IFhiYd"
       },
@@ -12438,7 +12500,7 @@
       ],
       "date_added": "2023-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-22",
       "duration_ms": 143669,
       "name": "Is It Love",
       "url": "https://open.spotify.com/track/5JEzgajKcC4eIQfRu3cZk7"
@@ -15854,7 +15916,7 @@
       ],
       "date_added": "2023-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-22",
       "duration_ms": 179396,
       "name": "marionett",
       "url": "https://open.spotify.com/track/0L4BkyT2W2hjR91aVFCauZ"
@@ -16194,6 +16256,24 @@
       "duration_ms": 184040,
       "name": "menn som meg",
       "url": "https://open.spotify.com/track/2wltzM6xElc7E6Ryn6Tqbo"
+    },
+    {
+      "album": {
+        "name": "Det var aldri meg",
+        "url": "https://open.spotify.com/album/5IqtgESYSJ5kiGVd8xGyOJ"
+      },
+      "artists": [
+        {
+          "name": "Stig Brenner",
+          "url": "https://open.spotify.com/artist/35j3Bv3gRKUHbiFSxVjjIf"
+        }
+      ],
+      "date_added": "2023-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194526,
+      "name": "Ment for hverandre",
+      "url": "https://open.spotify.com/track/2ruaU00oF7QNnZl3pU6IDo"
     },
     {
       "album": {
@@ -17078,7 +17158,7 @@
       ],
       "date_added": "2023-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-22",
       "duration_ms": 137773,
       "name": "My Love Mine All Mine",
       "url": "https://open.spotify.com/track/3vkCueOmm7xQDoJ17W1Pm3"
@@ -18876,6 +18956,24 @@
       "duration_ms": 215684,
       "name": "Pause fra m\u00e6 sj\u00f8l",
       "url": "https://open.spotify.com/track/480JvLYE83nvigCc8TM8eS"
+    },
+    {
+      "album": {
+        "name": "<3",
+        "url": "https://open.spotify.com/album/4o5ub6S6vw3sXNdNy7iP9p"
+      },
+      "artists": [
+        {
+          "name": "Emma Steinbakken",
+          "url": "https://open.spotify.com/artist/3GIadM69XShFZNB3gP67Td"
+        }
+      ],
+      "date_added": "2023-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184397,
+      "name": "Peace",
+      "url": "https://open.spotify.com/track/5jeSK21nrfn5EassQR4D6u"
     },
     {
       "album": {
@@ -22457,6 +22555,24 @@
     },
     {
       "album": {
+        "name": "Sprite",
+        "url": "https://open.spotify.com/album/3dM7Puknln54aDQmGa17KQ"
+      },
+      "artists": [
+        {
+          "name": "Marstein",
+          "url": "https://open.spotify.com/artist/7KjsjftPKKarTvZlawniPi"
+        }
+      ],
+      "date_added": "2023-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165570,
+      "name": "Sprite",
+      "url": "https://open.spotify.com/track/2wmUMn0pawCGlWdonLkWQS"
+    },
+    {
+      "album": {
         "name": "st.hanshaugen",
         "url": "https://open.spotify.com/album/5DlkNvQUsnE09AXuvJb41d"
       },
@@ -22952,7 +23068,7 @@
       ],
       "date_added": "2023-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-22",
       "duration_ms": 171764,
       "name": "Superman",
       "url": "https://open.spotify.com/track/5VHLutQ8ioNLLbDsePHv9K"
@@ -24206,6 +24322,32 @@
       "duration_ms": 348710,
       "name": "Tomme T\u00f8nner",
       "url": "https://open.spotify.com/track/3BAmsMIDJRaxbww5gUn9I4"
+    },
+    {
+      "album": {
+        "name": "TOO MUCH",
+        "url": "https://open.spotify.com/album/7gCggwpSuqUmVzWniLdpKR"
+      },
+      "artists": [
+        {
+          "name": "The Kid LAROI",
+          "url": "https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J"
+        },
+        {
+          "name": "Jung Kook",
+          "url": "https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc"
+        },
+        {
+          "name": "Central Cee",
+          "url": "https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r"
+        }
+      ],
+      "date_added": "2023-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203894,
+      "name": "TOO MUCH",
+      "url": "https://open.spotify.com/track/0rKWJnmo6Q0ovoPOLoLm0t"
     },
     {
       "album": {

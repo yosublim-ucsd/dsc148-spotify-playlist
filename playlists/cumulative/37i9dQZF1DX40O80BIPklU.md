@@ -4,7 +4,7 @@
 
 > Nuestro hip\-hop se escribe con Ñ, aquí los que dominan el juego de las rimas\. Métricas Frías en portada.
 
-238 songs - 13 hr 34 min
+238 songs - 13 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -93,7 +93,7 @@
 | [Estrecho / Alvarado \(feat\. pablopablo\)](https://open.spotify.com/track/4E6kns35AUSkJhHpXYRRKF) | [C\. Tangana](https://open.spotify.com/artist/5TYxZTjIPqKM8K8NuP9woO), [pablopablo](https://open.spotify.com/artist/4jbtfb5mOGveUu9bTYIvEZ) | [Estrecho / Alvarado \(feat\. pablopablo\)](https://open.spotify.com/album/1Z3NkOHY0rbefHDkIttPhP) | 2:30 | 2023-05-05 |  |
 | [Fe](https://open.spotify.com/track/5E3DUwke6Or4h5rosrn5Z1) | [Lefty Sm](https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf) | [Fe](https://open.spotify.com/album/0Roxdafecg5p3VQXUBfNkP) | 4:14 | 2021-12-30 | 2022-01-29 |
 | [FEEL ME??](https://open.spotify.com/track/4kELKaXaNP4EQR8Q8xNIID) | [Trueno](https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz) | [FEEL ME??](https://open.spotify.com/album/5Db8gqfsfw0tcuACuLFzpR) | 3:07 | 2021-12-30 |  |
-| [Flavor](https://open.spotify.com/track/6JkjgPrTLBAD1fBh1OOfDQ) | [T&K](https://open.spotify.com/artist/62zZb3lpCFBqLDjMccQgND), [FERNANDOCOSTA](https://open.spotify.com/artist/5dC7EcwWdf9Qj4VvJab4rZ), [Tensei One](https://open.spotify.com/artist/1T7nUn5Rl3Rmu4HgyIckl7) | [Flavor](https://open.spotify.com/album/1UpSx9vVKsQvl1VfzGtzDR) | 3:27 | 2023-10-20 |  |
+| [Flavor](https://open.spotify.com/track/6JkjgPrTLBAD1fBh1OOfDQ) | [T&K](https://open.spotify.com/artist/62zZb3lpCFBqLDjMccQgND), [FERNANDOCOSTA](https://open.spotify.com/artist/5dC7EcwWdf9Qj4VvJab4rZ), [Tensei One](https://open.spotify.com/artist/1T7nUn5Rl3Rmu4HgyIckl7) | [Flavor](https://open.spotify.com/album/1UpSx9vVKsQvl1VfzGtzDR) | 2:36 | 2023-10-20 |  |
 | [Fly](https://open.spotify.com/track/1h0HwPZPmXruxfzZuEwi7G) | [M2H](https://open.spotify.com/artist/7bWN0FHvLppK8ozEH6exdi) | [Homies & Beaches](https://open.spotify.com/album/5zUU3TfeoCVuUnbU81IkKV) | 3:27 | 2023-02-24 | 2023-07-18 |
 | [Freud](https://open.spotify.com/track/7xFvOja9qVdmXU84rH9sX3) | [Tayko](https://open.spotify.com/artist/3TqicTPfXQLiPPZWKtHk0m) | [Ecolocalización](https://open.spotify.com/album/0VoXLs9SrZgi9AFdkNbW8P) | 1:56 | 2023-09-08 |  |
 | [Fruto Rojo](https://open.spotify.com/track/40gTdgKJk6m1w3DKPSrtZ1) | [Homer El Mero Mero](https://open.spotify.com/artist/0Xo4VFS3v07L0GwIVkZLfg) | [Fruto Rojo](https://open.spotify.com/album/7gUDkJObuad3qfTtK3R52D) | 3:09 | 2021-12-30 | 2022-05-27 |

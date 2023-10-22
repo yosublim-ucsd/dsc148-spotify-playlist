@@ -1,12 +1,12 @@
 {
   "description": "Descubre la escena del jazz en M\u00e9xico en la curadur\u00eda de los expertos Mariana P\u00e9rez,  Juan Carlos Reyes, Erik Montenegro y Jos\u00e9 Enrique Fern\u00e1ndez.",
-  "num_followers": 58028,
+  "num_followers": 58036,
   "original_name": "Jazz en M\u00e9xico",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjYzU3MDgxZGM5YTVlNDc2ZTJkYzY4NTg2NDRhM2NhMWVmZWE1YTVi",
+  "snapshot_id": "MCw2MDMyMzdjODhlZDIxZWRjMDY5N2U4YzQzNTQwYTg2Y2Y2NDYzNGM0",
   "tracks": [
     {
       "added_at": "2021-07-28 16:44:28",
@@ -479,22 +479,6 @@
     {
       "added_at": "2021-07-28 16:44:28",
       "album": {
-        "name": "Ventana espacial",
-        "url": "https://open.spotify.com/album/0sbaxSNpm7Fje9gOx6FhxG"
-      },
-      "artists": [
-        {
-          "name": "Filip y Woppe",
-          "url": "https://open.spotify.com/artist/0M9WmsqRszIYOTIxPfZLgC"
-        }
-      ],
-      "duration_ms": 254720,
-      "name": "Ventana espacial",
-      "url": "https://open.spotify.com/track/3HTcmAbqboUt0io2WCuI34"
-    },
-    {
-      "added_at": "2021-07-28 16:44:28",
-      "album": {
         "name": "Paisaje Gris",
         "url": "https://open.spotify.com/album/4WAskgkj1leGkHgXXobvRG"
       },
@@ -511,6 +495,22 @@
       "duration_ms": 259133,
       "name": "Paisaje Gris",
       "url": "https://open.spotify.com/track/7Fo5vh8oUOsw8LsziLXe60"
+    },
+    {
+      "added_at": "2021-07-28 16:44:28",
+      "album": {
+        "name": "Ventana espacial",
+        "url": "https://open.spotify.com/album/0sbaxSNpm7Fje9gOx6FhxG"
+      },
+      "artists": [
+        {
+          "name": "Filip y Woppe",
+          "url": "https://open.spotify.com/artist/0M9WmsqRszIYOTIxPfZLgC"
+        }
+      ],
+      "duration_ms": 254720,
+      "name": "Ventana espacial",
+      "url": "https://open.spotify.com/track/3HTcmAbqboUt0io2WCuI34"
     },
     {
       "added_at": "2021-07-28 16:44:28",
@@ -697,22 +697,6 @@
       "url": "https://open.spotify.com/track/3KV4Rqy4xUPFDxtNQ9yTqp"
     },
     {
-      "added_at": "2021-07-28 16:44:28",
-      "album": {
-        "name": "Jazz",
-        "url": "https://open.spotify.com/album/5UlTOip0x8FRlBjf3hSNtv"
-      },
-      "artists": [
-        {
-          "name": "Chucho Zarzosa Y Su Conjunto",
-          "url": "https://open.spotify.com/artist/5rX3FXPe4kE1fJNCQhlJ3E"
-        }
-      ],
-      "duration_ms": 157586,
-      "name": "Tipitipit\u00edn",
-      "url": "https://open.spotify.com/track/17QiAjaQ2uGVY7aLEfPmoj"
-    },
-    {
       "added_at": "2022-08-16 16:23:25",
       "album": {
         "name": "Cronolog\u00edas",
@@ -731,6 +715,22 @@
       "duration_ms": 403365,
       "name": "Era La Luz De Abril",
       "url": "https://open.spotify.com/track/4BcjeQiwliBHPVoqZAPmEc"
+    },
+    {
+      "added_at": "2021-07-28 16:44:28",
+      "album": {
+        "name": "Jazz",
+        "url": "https://open.spotify.com/album/5UlTOip0x8FRlBjf3hSNtv"
+      },
+      "artists": [
+        {
+          "name": "Chucho Zarzosa Y Su Conjunto",
+          "url": "https://open.spotify.com/artist/5rX3FXPe4kE1fJNCQhlJ3E"
+        }
+      ],
+      "duration_ms": 157586,
+      "name": "Tipitipit\u00edn",
+      "url": "https://open.spotify.com/track/17QiAjaQ2uGVY7aLEfPmoj"
     },
     {
       "added_at": "2021-07-28 16:44:28",
@@ -783,6 +783,22 @@
     {
       "added_at": "2021-07-28 16:44:28",
       "album": {
+        "name": "Andamos Huyendo",
+        "url": "https://open.spotify.com/album/6FJPUB4pLZxCKGUJDgDHQQ"
+      },
+      "artists": [
+        {
+          "name": "Amanda Tovalin",
+          "url": "https://open.spotify.com/artist/5KxINF9FVTlXn05DJB6WBK"
+        }
+      ],
+      "duration_ms": 291647,
+      "name": "Andamos Huyendo",
+      "url": "https://open.spotify.com/track/4utJIPfz1GOEnp3KNWkW1J"
+    },
+    {
+      "added_at": "2021-07-28 16:44:28",
+      "album": {
         "name": "D\u00edas Lentos",
         "url": "https://open.spotify.com/album/53squJdAH3nKDaHsHbpU38"
       },
@@ -811,22 +827,6 @@
       "duration_ms": 155120,
       "name": "Bula",
       "url": "https://open.spotify.com/track/5pt7eRGJRbcK0zuEPEU1To"
-    },
-    {
-      "added_at": "2021-07-28 16:44:28",
-      "album": {
-        "name": "Andamos Huyendo",
-        "url": "https://open.spotify.com/album/6FJPUB4pLZxCKGUJDgDHQQ"
-      },
-      "artists": [
-        {
-          "name": "Amanda Tovalin",
-          "url": "https://open.spotify.com/artist/5KxINF9FVTlXn05DJB6WBK"
-        }
-      ],
-      "duration_ms": 291647,
-      "name": "Andamos Huyendo",
-      "url": "https://open.spotify.com/track/4utJIPfz1GOEnp3KNWkW1J"
     },
     {
       "added_at": "2021-07-28 16:44:28",

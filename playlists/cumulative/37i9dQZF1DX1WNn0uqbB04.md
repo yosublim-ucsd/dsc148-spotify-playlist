@@ -4,7 +4,7 @@
 
 > El Tango está más vivo que nunca\. Disfrutá los clásicos en <a href="spotify:user:spotify:playlist:37i9dQZF1DXcCT9tm6fRIV">Tangos y Milongas</a>
 
-71 songs - 4 hr 31 min
+72 songs - 4 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,6 +27,7 @@
 | [Funky Tango \- Remasterizado 2023](https://open.spotify.com/track/26w0kTFqcEkBN3rI0QIe5n) | [Luis Salinas](https://open.spotify.com/artist/6lfuGeSEIAZl1WlXN3lSjk), [Lito Vitale](https://open.spotify.com/artist/7lw1BVWquad5hKtDPU26JG), [Juan Salinas](https://open.spotify.com/artist/3LkShlQRHHeTS7Y6iyOeX8) | [Funky Tango \(Remasterizado 2023\)](https://open.spotify.com/album/7u4d8qxwnhU36rDgz1q81c) | 7:58 | 2023-08-04 |  |
 | [Ghost Town](https://open.spotify.com/track/3vEZd9EiNj1fiwY6oFclTu) | [MLNGA CLUB](https://open.spotify.com/artist/7ANcrZTJw6ufk0i6GS0yvh), [Mela Green](https://open.spotify.com/artist/1OoRlzoPBEdN9gPMt7Dx69), [Mermans Mosengo](https://open.spotify.com/artist/1F1ezryBLCpGjEm4hFnaDc) | [Ghost Town](https://open.spotify.com/album/3drZDHi0DVKGn6mLwDueij) | 4:29 | 2023-08-04 |  |
 | [Hotel Victoria \- original](https://open.spotify.com/track/1QeIGML6ntT3Ml8uFy4Kr0) | [San Telmo Lounge](https://open.spotify.com/artist/30HyR7VywzVrsKvpl2vXu4) | [Madrugada En Backcelonia](https://open.spotify.com/album/6pptnPvirGvArFZd0cYwmY) | 3:22 | 2023-08-04 |  |
+| [Kirón Tango](https://open.spotify.com/track/7IHzhCcYunBzdLXKKawyrt) | [Sudestada Tango](https://open.spotify.com/artist/3wIDWa1hCa2EFZJKOjgS1S) | [Sudestada Tango Lounge 2](https://open.spotify.com/album/3iNJRIotoqncIRI0fwY2pv) | 4:55 | 2023-08-04 |  |
 | [La Bohemia](https://open.spotify.com/track/59IVKAGNRh8KtmDT0AZUf1) | [Electro Dub Tango](https://open.spotify.com/artist/5Lgxp1cY9aLySrsmoWtQ3x) | [Electro Dub Tango](https://open.spotify.com/album/7hQ3XsiHgR5NFNF3MHHvBQ) | 3:59 | 2023-08-04 |  |
 | [La Cumparsita](https://open.spotify.com/track/3YPPSOb7gaR8BTm52YHcc7) | [bulevard tango club](https://open.spotify.com/artist/57uCjKMQo88UcRsvUbOgD5) | [Tango On The Dance Floor](https://open.spotify.com/album/50gdTPBTIv93tWQhJqCQ94) | 3:26 | 2023-08-04 |  |
 | [La Del Subte](https://open.spotify.com/track/2jH02gTgXEd8Uac7gMu22d) | [Electro Dub Tango](https://open.spotify.com/artist/5Lgxp1cY9aLySrsmoWtQ3x) | [Electro Dub Tango](https://open.spotify.com/album/7hQ3XsiHgR5NFNF3MHHvBQ) | 3:37 | 2023-08-04 |  |
@@ -54,7 +55,7 @@
 | [Piazzojazz](https://open.spotify.com/track/7jxmEREf58Pq2a34p7urqH) | [Claudio Constantini](https://open.spotify.com/artist/4qXRvJuWOfBFJWqCGmIuJQ), [Federico Lechner](https://open.spotify.com/artist/5tEyp8bbcmlvlJHfGqzKui), [Hernan hock](https://open.spotify.com/artist/218kMSXSeUCGA6qnhj4BTV), [Antonio Miguel](https://open.spotify.com/artist/12WYaGwaAQfZF0hyTJgDDm), [Andrés Litwin](https://open.spotify.com/artist/2By1V9ksNozsu4QKLCQRve) | [Obstinado](https://open.spotify.com/album/7suichuH4uRGvVt3b5lUZ2) | 4:48 | 2023-08-04 |  |
 | [Plano Secuencia](https://open.spotify.com/track/5yDSP6ATR47lNYsLVCaAat) | [Carlos Libedinsky](https://open.spotify.com/artist/70sNEhx3ntOpapyIUpL79n) | [Narcotango](https://open.spotify.com/album/38eacUHVe4O9Ovy7YxhedA) | 4:12 | 2023-08-04 |  |
 | [Plegaria para un niño dormido](https://open.spotify.com/track/3hW3s0ClWYEKdDVZnwKZYU) | [Mariano Godoy](https://open.spotify.com/artist/7gpYDxVfirNyKXORQncECR) | [Invierno](https://open.spotify.com/album/7d20OGQ2xh0Io9rsPBjtUa) | 3:47 | 2023-08-04 |  |
-| [Porque Canto Asi](https://open.spotify.com/track/7mhcAUfgNvWpt1kw64UMpw) | [La Milonga Electrica](https://open.spotify.com/artist/7cJt9z3hi4iwfG6v1buiO6) | [Porque Canto Asi](https://open.spotify.com/album/0DVKuygci9kepNkgBfVXmP) | 2:14 | 2023-08-04 |  |
+| [Porque Canto Asi](https://open.spotify.com/track/7mhcAUfgNvWpt1kw64UMpw) | [La Milonga Electrica](https://open.spotify.com/artist/7cJt9z3hi4iwfG6v1buiO6) | [Porque Canto Asi](https://open.spotify.com/album/0DVKuygci9kepNkgBfVXmP) | 2:14 | 2023-08-04 | 2023-10-22 |
 | [Preludio para el Año 3001 \(Sgoliat vs KoolTURE Remix\)](https://open.spotify.com/track/4sHTrFv2n14HlExW74hEa2) | [Celeste Carballo](https://open.spotify.com/artist/1FIaDvGsK56jO0K0BUs1iW), [Sgoliat vs KoolTURE](https://open.spotify.com/artist/1Nj1CJBwJxilEpdplcoun1) | [Preludio para el Año 3001 \(Sgoliat vs KoolTURE Remix\)](https://open.spotify.com/album/6ryjto0IP1T2u03yYQ5UF8) | 3:36 | 2023-08-04 |  |
 | [Regina](https://open.spotify.com/track/4HJaTZTBxNZ7kxZExuMMDr) | [Electrocutango](https://open.spotify.com/artist/2cj1R53AEPGh3hNvipWs0i) | [Felino](https://open.spotify.com/album/2fCOloYpBVq62UjAz24FhS) | 5:43 | 2023-08-04 |  |
 | [Roberto](https://open.spotify.com/track/3GITRjbGkiq3H1ZUaiBX3s) | [BIFE](https://open.spotify.com/artist/1UmyLRbgkEd90qEvMECEzk), [Noelia Sinkunas](https://open.spotify.com/artist/4HUdSdEPd2TFlEBO334EuF) | [Veinte Veinte](https://open.spotify.com/album/6ky4237OIoampV0wzjCYyG) | 2:33 | 2023-08-04 |  |

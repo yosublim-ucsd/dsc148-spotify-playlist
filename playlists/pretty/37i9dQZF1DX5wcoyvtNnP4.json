@@ -1,12 +1,12 @@
 {
   "description": "Entspannung pur oder viel los? Hier findest du die passenden Beats f\u00fcr deine Pl\u00e4ne!",
-  "num_followers": 492843,
+  "num_followers": 492846,
   "original_name": "Wochenende",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4MGZjNTUxODA2OTE4Yjk5NzdhNzdmYmU0NTYyZDk5ODk5MjY3NDU4",
+  "snapshot_id": "MCw3NjRhOGQ3MGZjY2RkNWViZDQzNDQ1MjU1MDkzMzliZWM1ZmMxYTA2",
   "tracks": [
     {
       "added_at": "2023-10-13 08:00:00",
@@ -291,22 +291,6 @@
     {
       "added_at": "2023-10-13 08:00:00",
       "album": {
-        "name": "Padam Padam",
-        "url": "https://open.spotify.com/album/7vH3G0c3n1WsgTJHBmZxdV"
-      },
-      "artists": [
-        {
-          "name": "Kylie Minogue",
-          "url": "https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA"
-        }
-      ],
-      "duration_ms": 166266,
-      "name": "Padam Padam",
-      "url": "https://open.spotify.com/track/3k0DJq2HdWJqnqor8NX0ac"
-    },
-    {
-      "added_at": "2023-10-13 08:00:00",
-      "album": {
         "name": "Asking",
         "url": "https://open.spotify.com/album/1UrVUYOo7y1pAo7EJYQOmZ"
       },
@@ -331,6 +315,38 @@
     {
       "added_at": "2023-10-13 08:00:00",
       "album": {
+        "name": "Padam Padam",
+        "url": "https://open.spotify.com/album/7vH3G0c3n1WsgTJHBmZxdV"
+      },
+      "artists": [
+        {
+          "name": "Kylie Minogue",
+          "url": "https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA"
+        }
+      ],
+      "duration_ms": 166266,
+      "name": "Padam Padam",
+      "url": "https://open.spotify.com/track/3k0DJq2HdWJqnqor8NX0ac"
+    },
+    {
+      "added_at": "2023-10-13 08:00:00",
+      "album": {
+        "name": "Something To Give Each Other",
+        "url": "https://open.spotify.com/album/5UcGyEltve5psjxSRsHx8E"
+      },
+      "artists": [
+        {
+          "name": "Troye Sivan",
+          "url": "https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP"
+        }
+      ],
+      "duration_ms": 156391,
+      "name": "Rush",
+      "url": "https://open.spotify.com/track/4ZnkygoWLzcGbQYCm3lkae"
+    },
+    {
+      "added_at": "2023-10-13 08:00:00",
+      "album": {
         "name": "Phone",
         "url": "https://open.spotify.com/album/7ajeVOWfz9qfKlEXDBN5Uo"
       },
@@ -351,26 +367,6 @@
       "duration_ms": 155076,
       "name": "Phone",
       "url": "https://open.spotify.com/track/0GTuyzPTs2G0wqFD1trSOw"
-    },
-    {
-      "added_at": "2023-10-13 08:00:00",
-      "album": {
-        "name": "Forget You",
-        "url": "https://open.spotify.com/album/2R2x6ovmNARV2vz6WLcCF6"
-      },
-      "artists": [
-        {
-          "name": "FAST BOY",
-          "url": "https://open.spotify.com/artist/56Qz2XwGj7FxnNKrfkWjnb"
-        },
-        {
-          "name": "Topic",
-          "url": "https://open.spotify.com/artist/0u6GtibW46tFX7koQ6uNJZ"
-        }
-      ],
-      "duration_ms": 147986,
-      "name": "Forget You",
-      "url": "https://open.spotify.com/track/1YWr18dWRmuvPgAsPBsOow"
     },
     {
       "added_at": "2023-10-13 08:00:00",
@@ -439,18 +435,22 @@
     {
       "added_at": "2023-10-13 08:00:00",
       "album": {
-        "name": "Something To Give Each Other",
-        "url": "https://open.spotify.com/album/5UcGyEltve5psjxSRsHx8E"
+        "name": "Forget You",
+        "url": "https://open.spotify.com/album/2R2x6ovmNARV2vz6WLcCF6"
       },
       "artists": [
         {
-          "name": "Troye Sivan",
-          "url": "https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP"
+          "name": "FAST BOY",
+          "url": "https://open.spotify.com/artist/56Qz2XwGj7FxnNKrfkWjnb"
+        },
+        {
+          "name": "Topic",
+          "url": "https://open.spotify.com/artist/0u6GtibW46tFX7koQ6uNJZ"
         }
       ],
-      "duration_ms": 156391,
-      "name": "Rush",
-      "url": "https://open.spotify.com/track/4ZnkygoWLzcGbQYCm3lkae"
+      "duration_ms": 147986,
+      "name": "Forget You",
+      "url": "https://open.spotify.com/track/1YWr18dWRmuvPgAsPBsOow"
     },
     {
       "added_at": "2023-10-13 08:00:00",
@@ -515,26 +515,6 @@
     {
       "added_at": "2023-10-13 08:00:00",
       "album": {
-        "name": "Waterfall",
-        "url": "https://open.spotify.com/album/11tmmS5xSi2aa7VNokfYCD"
-      },
-      "artists": [
-        {
-          "name": "Michael Schulte",
-          "url": "https://open.spotify.com/artist/21aa4pj9BvbFB2iT8kRpnq"
-        },
-        {
-          "name": "R3HAB",
-          "url": "https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ"
-        }
-      ],
-      "duration_ms": 137999,
-      "name": "Waterfall",
-      "url": "https://open.spotify.com/track/7aJgh6LCvhXJfD7PHjhG70"
-    },
-    {
-      "added_at": "2023-10-13 08:00:00",
-      "album": {
         "name": "Dive",
         "url": "https://open.spotify.com/album/4kdsVtA4bh3j0E2H0rdUTI"
       },
@@ -555,6 +535,26 @@
     {
       "added_at": "2023-10-13 08:00:00",
       "album": {
+        "name": "Waterfall",
+        "url": "https://open.spotify.com/album/11tmmS5xSi2aa7VNokfYCD"
+      },
+      "artists": [
+        {
+          "name": "Michael Schulte",
+          "url": "https://open.spotify.com/artist/21aa4pj9BvbFB2iT8kRpnq"
+        },
+        {
+          "name": "R3HAB",
+          "url": "https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ"
+        }
+      ],
+      "duration_ms": 137999,
+      "name": "Waterfall",
+      "url": "https://open.spotify.com/track/7aJgh6LCvhXJfD7PHjhG70"
+    },
+    {
+      "added_at": "2023-10-13 08:00:00",
+      "album": {
         "name": "Hold Me",
         "url": "https://open.spotify.com/album/7osmi3cnYDpPDYflMWa80W"
       },
@@ -567,26 +567,6 @@
       "duration_ms": 140000,
       "name": "Hold Me",
       "url": "https://open.spotify.com/track/4SnuG111QPmgwRmlwhJ4Mg"
-    },
-    {
-      "added_at": "2023-10-13 08:00:00",
-      "album": {
-        "name": "Clouds",
-        "url": "https://open.spotify.com/album/5ll0DBe2cSrSWiCSZ8IYXR"
-      },
-      "artists": [
-        {
-          "name": "BUNT.",
-          "url": "https://open.spotify.com/artist/2CpLIMBoE2ZzyY3ZBCRZ7j"
-        },
-        {
-          "name": "Nate Traveller",
-          "url": "https://open.spotify.com/artist/34qyuX5yO72yzL8Z4JclBc"
-        }
-      ],
-      "duration_ms": 158760,
-      "name": "Clouds",
-      "url": "https://open.spotify.com/track/5985LToyqbVWWNczsD9g5N"
     },
     {
       "added_at": "2023-10-13 08:00:00",
@@ -611,6 +591,26 @@
       "duration_ms": 172151,
       "name": "Rush (feat. PinkPantheress & Hyunjin of Stray Kids)",
       "url": "https://open.spotify.com/track/12qq70vp6hMUikpAyeyDPc"
+    },
+    {
+      "added_at": "2023-10-13 08:00:00",
+      "album": {
+        "name": "Clouds",
+        "url": "https://open.spotify.com/album/5ll0DBe2cSrSWiCSZ8IYXR"
+      },
+      "artists": [
+        {
+          "name": "BUNT.",
+          "url": "https://open.spotify.com/artist/2CpLIMBoE2ZzyY3ZBCRZ7j"
+        },
+        {
+          "name": "Nate Traveller",
+          "url": "https://open.spotify.com/artist/34qyuX5yO72yzL8Z4JclBc"
+        }
+      ],
+      "duration_ms": 158760,
+      "name": "Clouds",
+      "url": "https://open.spotify.com/track/5985LToyqbVWWNczsD9g5N"
     },
     {
       "added_at": "2023-10-13 08:00:00",
@@ -699,18 +699,22 @@
     {
       "added_at": "2023-10-13 08:00:00",
       "album": {
-        "name": "Lose It All (I Don't Wanna)",
-        "url": "https://open.spotify.com/album/2oYcDcUIFEuqhDp2wIHx34"
+        "name": "Paradise",
+        "url": "https://open.spotify.com/album/7Ddr2KE2jdn3QRvcuFGDE3"
       },
       "artists": [
         {
-          "name": "BUNT.",
-          "url": "https://open.spotify.com/artist/2CpLIMBoE2ZzyY3ZBCRZ7j"
+          "name": "Sophie and the Giants",
+          "url": "https://open.spotify.com/artist/4FrXHrpbDLNyO3pbVv8RmF"
+        },
+        {
+          "name": "Purple Disco Machine",
+          "url": "https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4"
         }
       ],
-      "duration_ms": 139071,
-      "name": "Lose It All (I Don't Wanna)",
-      "url": "https://open.spotify.com/track/6FWAIkMvnS0ABEdBKcIp5K"
+      "duration_ms": 197640,
+      "name": "Paradise",
+      "url": "https://open.spotify.com/track/3ol5EIFVcL4XneXKXjQpfx"
     },
     {
       "added_at": "2023-10-13 08:00:00",
@@ -731,26 +735,6 @@
       "duration_ms": 141027,
       "name": "Delilah",
       "url": "https://open.spotify.com/track/60O0CjviBowszlKb9R4Xjm"
-    },
-    {
-      "added_at": "2023-10-13 08:00:00",
-      "album": {
-        "name": "Paradise",
-        "url": "https://open.spotify.com/album/7Ddr2KE2jdn3QRvcuFGDE3"
-      },
-      "artists": [
-        {
-          "name": "Sophie and the Giants",
-          "url": "https://open.spotify.com/artist/4FrXHrpbDLNyO3pbVv8RmF"
-        },
-        {
-          "name": "Purple Disco Machine",
-          "url": "https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4"
-        }
-      ],
-      "duration_ms": 197640,
-      "name": "Paradise",
-      "url": "https://open.spotify.com/track/3ol5EIFVcL4XneXKXjQpfx"
     },
     {
       "added_at": "2023-10-13 08:00:00",
@@ -799,22 +783,18 @@
     {
       "added_at": "2023-10-13 08:00:00",
       "album": {
-        "name": "Starlight",
-        "url": "https://open.spotify.com/album/7xWgrLBIQVECzOsNvo2OHU"
+        "name": "Lose It All (I Don't Wanna)",
+        "url": "https://open.spotify.com/album/2oYcDcUIFEuqhDp2wIHx34"
       },
       "artists": [
         {
-          "name": "Drenchill",
-          "url": "https://open.spotify.com/artist/3nmaO18tcMzfrrR7sdJHnH"
-        },
-        {
-          "name": "Jorik Burema",
-          "url": "https://open.spotify.com/artist/5m9bQKYt5uwDbtBGB6x78P"
+          "name": "BUNT.",
+          "url": "https://open.spotify.com/artist/2CpLIMBoE2ZzyY3ZBCRZ7j"
         }
       ],
-      "duration_ms": 121000,
-      "name": "Starlight",
-      "url": "https://open.spotify.com/track/01a7nB3AywapMgbLi3LGbZ"
+      "duration_ms": 139071,
+      "name": "Lose It All (I Don't Wanna)",
+      "url": "https://open.spotify.com/track/6FWAIkMvnS0ABEdBKcIp5K"
     },
     {
       "added_at": "2023-10-13 08:00:00",
@@ -831,6 +811,26 @@
       "duration_ms": 175671,
       "name": "Do It Again",
       "url": "https://open.spotify.com/track/1IeQnQxCs2YJN6u3wQbUyX"
+    },
+    {
+      "added_at": "2023-10-13 08:00:00",
+      "album": {
+        "name": "Starlight",
+        "url": "https://open.spotify.com/album/7xWgrLBIQVECzOsNvo2OHU"
+      },
+      "artists": [
+        {
+          "name": "Drenchill",
+          "url": "https://open.spotify.com/artist/3nmaO18tcMzfrrR7sdJHnH"
+        },
+        {
+          "name": "Jorik Burema",
+          "url": "https://open.spotify.com/artist/5m9bQKYt5uwDbtBGB6x78P"
+        }
+      ],
+      "duration_ms": 121000,
+      "name": "Starlight",
+      "url": "https://open.spotify.com/track/01a7nB3AywapMgbLi3LGbZ"
     },
     {
       "added_at": "2023-10-13 08:00:00",
@@ -1079,26 +1079,6 @@
     {
       "added_at": "2023-10-13 08:00:00",
       "album": {
-        "name": "Tell Me",
-        "url": "https://open.spotify.com/album/7qnMJEfvGH0G9X6Y3RgJrP"
-      },
-      "artists": [
-        {
-          "name": "James Carter",
-          "url": "https://open.spotify.com/artist/5344K3N7rx7kw1HjO8psuq"
-        },
-        {
-          "name": "Hanne Mj\u00f8en",
-          "url": "https://open.spotify.com/artist/2xDZ8qyyE2Ti4wL1Ob1T7V"
-        }
-      ],
-      "duration_ms": 127500,
-      "name": "Tell Me",
-      "url": "https://open.spotify.com/track/19BoXyNUZB8M9PgAyMHVRg"
-    },
-    {
-      "added_at": "2023-10-13 08:00:00",
-      "album": {
         "name": "Better Me",
         "url": "https://open.spotify.com/album/5IYf8D3VoKSaFcDJm6o9qL"
       },
@@ -1115,6 +1095,26 @@
       "duration_ms": 166080,
       "name": "Better Me",
       "url": "https://open.spotify.com/track/7JStcVqmZ7NbI76tRerzaB"
+    },
+    {
+      "added_at": "2023-10-13 08:00:00",
+      "album": {
+        "name": "Tell Me",
+        "url": "https://open.spotify.com/album/7qnMJEfvGH0G9X6Y3RgJrP"
+      },
+      "artists": [
+        {
+          "name": "James Carter",
+          "url": "https://open.spotify.com/artist/5344K3N7rx7kw1HjO8psuq"
+        },
+        {
+          "name": "Hanne Mj\u00f8en",
+          "url": "https://open.spotify.com/artist/2xDZ8qyyE2Ti4wL1Ob1T7V"
+        }
+      ],
+      "duration_ms": 127500,
+      "name": "Tell Me",
+      "url": "https://open.spotify.com/track/19BoXyNUZB8M9PgAyMHVRg"
     },
     {
       "added_at": "2023-10-13 08:00:00",
@@ -1375,6 +1375,22 @@
     {
       "added_at": "2023-10-13 08:00:00",
       "album": {
+        "name": "Burning My Bridges",
+        "url": "https://open.spotify.com/album/2rLID7wv6SFT9x9Y3g0A84"
+      },
+      "artists": [
+        {
+          "name": "CLMD",
+          "url": "https://open.spotify.com/artist/7LiVklVR1325BIOqD9kykr"
+        }
+      ],
+      "duration_ms": 188000,
+      "name": "Burning My Bridges",
+      "url": "https://open.spotify.com/track/1gRBmiwyf7vRj2MNRvngqQ"
+    },
+    {
+      "added_at": "2023-10-13 08:00:00",
+      "album": {
         "name": "I Need to Know (feat. Flynn)",
         "url": "https://open.spotify.com/album/6DDH4S5xfDx1Alsa5gtmiA"
       },
@@ -1391,22 +1407,6 @@
       "duration_ms": 155519,
       "name": "I Need to Know (feat. Flynn)",
       "url": "https://open.spotify.com/track/2iPbxmQ4Qil8KsGFeykGyv"
-    },
-    {
-      "added_at": "2023-10-13 08:00:00",
-      "album": {
-        "name": "Burning My Bridges",
-        "url": "https://open.spotify.com/album/2rLID7wv6SFT9x9Y3g0A84"
-      },
-      "artists": [
-        {
-          "name": "CLMD",
-          "url": "https://open.spotify.com/artist/7LiVklVR1325BIOqD9kykr"
-        }
-      ],
-      "duration_ms": 188000,
-      "name": "Burning My Bridges",
-      "url": "https://open.spotify.com/track/1gRBmiwyf7vRj2MNRvngqQ"
     },
     {
       "added_at": "2023-10-13 08:00:00",

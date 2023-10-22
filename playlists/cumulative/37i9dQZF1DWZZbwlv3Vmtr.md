@@ -4,7 +4,7 @@
 
 > Uptempo instrumental hip hop beats.
 
-809 songs - 1 day 7 hr 27 min
+810 songs - 1 day 7 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -54,7 +54,7 @@
 | [Baia Del Sole](https://open.spotify.com/track/08ZuawhWrtqcOiwTctQA6S) | [Mindr](https://open.spotify.com/artist/7AObJiF0vqNNnysunp45om), [Soul Food Horns](https://open.spotify.com/artist/42gnrsSSKKNNmfAJ0o3oyN) | [Baia Del Sole](https://open.spotify.com/album/1eBsecVp130mrzeKJ257oG) | 2:24 | 2022-07-29 | 2022-09-30 |
 | [Bakery](https://open.spotify.com/track/6fvn2bC5eyxUBr5I2lFHRD) | [Lemeria](https://open.spotify.com/artist/6djoTVe8DDQ9I7tFOL673y), [Chill Select](https://open.spotify.com/artist/5orR9ec1E60lLb1U76m3ul) | [Bakery \| A Walk In Central Park](https://open.spotify.com/album/2ZNLy8gIAiDnhhh2CyhbvX) | 2:13 | 2022-09-23 |  |
 | [Baleari](https://open.spotify.com/track/2FzjrkecNKLDLGKYCyR0WF) | [Valhallz](https://open.spotify.com/artist/5lIQiCIm32WqGlcDYxJRWh) | [Baleari](https://open.spotify.com/album/5a4Mfj0XeE99KXxIJlf34Y) | 3:29 | 2023-09-08 |  |
-| [bar on mars](https://open.spotify.com/track/66Hc6Rfa9gckPX9Ixijv6Z) | [drawn animal](https://open.spotify.com/artist/1Y6lFDIG5QZMrt1AlvW89P) | [bar on mars](https://open.spotify.com/album/7EwBkebIhk8eH0vHeRs98I) | 2:02 | 2022-07-22 |  |
+| [bar on mars](https://open.spotify.com/track/66Hc6Rfa9gckPX9Ixijv6Z) | [drawn animal](https://open.spotify.com/artist/1Y6lFDIG5QZMrt1AlvW89P) | [bar on mars](https://open.spotify.com/album/7EwBkebIhk8eH0vHeRs98I) | 2:02 | 2022-07-22 | 2023-10-22 |
 | [barista](https://open.spotify.com/track/0wAlWdKvZ4WS4NJ5veqcOU) | [Emotional thistle](https://open.spotify.com/artist/308rengQaTapxWBn0scsQk) | [barista](https://open.spotify.com/album/5lBIty29ReEAnUdxWzcelj) | 2:42 | 2022-12-09 |  |
 | [Beach & Berries](https://open.spotify.com/track/10zYErxZB71gJnKk5iaQD9) | [Kantboll](https://open.spotify.com/artist/0bKRZMzwgUflqx6PP7Glfn) | [Beach & Berries](https://open.spotify.com/album/4q6YuYWtSiwaLvEZid6GzQ) | 2:04 | 2022-04-15 | 2022-07-08 |
 | [beatheart](https://open.spotify.com/track/64q8ufbBeVKpIOdQOX3oDb) | [its\-ya\-boi](https://open.spotify.com/artist/1FbBiHKRJo32d7cDKVXkqK) | [beatheart](https://open.spotify.com/album/7Hw3BQdIFLbN0cosNLEHu9) | 2:32 | 2022-11-11 |  |
@@ -286,7 +286,7 @@
 | [Hydration](https://open.spotify.com/track/03DCmsx6VR45Z9qe6pgkYd) | [Birds Of The West](https://open.spotify.com/artist/37qnORF8QfcLsPYb6lRhiq), [sloh rou](https://open.spotify.com/artist/0D4FGltctqk7z1BdC1088j) | [Hydration](https://open.spotify.com/album/35RHe0a6DBNCVFbV986sFJ) | 2:13 | 2022-06-03 | 2022-11-21 |
 | [Hydration](https://open.spotify.com/track/4pQEbbG05eWiyMDwLKiQ6Z) | [sloh rou](https://open.spotify.com/artist/0D4FGltctqk7z1BdC1088j), [Birds Of The West](https://open.spotify.com/artist/37qnORF8QfcLsPYb6lRhiq) | [Hydration](https://open.spotify.com/album/5t9uEMj1slT2hIoeIyBykx) | 2:13 | 2022-11-11 | 2022-12-10 |
 | [I Can Feel It](https://open.spotify.com/track/3bFQS0uqG7zJ830fYLkKly) | [Living Room](https://open.spotify.com/artist/0sLb0ouettR8lDLnEgCSVK), [ZeDe](https://open.spotify.com/artist/0xtxiEdr8VEnERqcadfVNK) | [I Can Feel It](https://open.spotify.com/album/3DdGNzsi4JXy8BTFVgqjjq) | 1:42 | 2022-07-08 | 2023-10-13 |
-| [I hear ya](https://open.spotify.com/track/1JBwa5F6ooAsnyqF0EJSGj) | [Wickr Light](https://open.spotify.com/artist/1O6Otzn0IiJCXJ1v953CoY) | [I hear ya](https://open.spotify.com/album/2W2RbeXcXpLqYJQAgQb0Kd) | 1:57 | 2022-10-14 |  |
+| [I hear ya](https://open.spotify.com/track/1JBwa5F6ooAsnyqF0EJSGj) | [Wickr Light](https://open.spotify.com/artist/1O6Otzn0IiJCXJ1v953CoY) | [I hear ya](https://open.spotify.com/album/2W2RbeXcXpLqYJQAgQb0Kd) | 1:57 | 2022-10-14 | 2023-10-22 |
 | [I Know](https://open.spotify.com/track/79AMJyh9oHGXinUaxh6Dd4) | [Nollex](https://open.spotify.com/artist/19WVYQtlRI6EPouvwegNNH) | [Harlow](https://open.spotify.com/album/0X7ddNw3fLTJXDZQ8xW2BQ) | 4:54 | 2022-04-15 | 2022-09-24 |
 | [I loff you](https://open.spotify.com/track/7yfaO25yXHqLsQVZuAP214) | [IzaBeats](https://open.spotify.com/artist/4DtFzX8vn47Rdc5c4fHcEk) | [I loff you](https://open.spotify.com/album/08YlwEjC8omTL6IM2rpvAp) | 1:56 | 2022-04-15 | 2023-10-06 |
 | [I'm Out](https://open.spotify.com/track/50oE6KjOO1CrikNQ7DTlS1) | [Glass Globe](https://open.spotify.com/artist/0crpGDMvXANXQ6wyjkcDzu) | [Home Alone](https://open.spotify.com/album/1BcrJRI3FXOpFqxUUeoXeN) | 2:02 | 2022-04-15 | 2023-07-20 |
@@ -590,7 +590,7 @@
 | [See The Flowers](https://open.spotify.com/track/77MvpbDU4b23vr2rkEYOsq) | [Zumak](https://open.spotify.com/artist/6be30BeZ9kqClak0AY5Gi7) | [JAX](https://open.spotify.com/album/3pn1d4UvE6lWQxocZG3hnj) | 2:12 | 2022-04-15 |  |
 | [Selected](https://open.spotify.com/track/7G4scWFcZcwVE1jRLuXLsf) | [Bullseye Release](https://open.spotify.com/artist/4GoC6ks1pVomJYIA3JyRCm) | [Selected](https://open.spotify.com/album/6q0y2RlQ7wRpvz0B2LJXDW) | 3:10 | 2022-04-15 | 2022-05-20 |
 | [Sentimental Mood](https://open.spotify.com/track/3Xl7gON72joBquu8YJG8z9) | [Crate Diggers](https://open.spotify.com/artist/0WOGvsLAjAft28z7O3QHQ8) | [Mixtape](https://open.spotify.com/album/2bOYfvwq6ZYGzPtkDjbD95) | 1:49 | 2022-04-15 | 2022-05-14 |
-| [Serene](https://open.spotify.com/track/2y095NA9mFeb4qaSyXe4Uz) | [Damzouka](https://open.spotify.com/artist/74F699PZqX9RIHr4mpALcq) | [Serene](https://open.spotify.com/album/4Vf9zmnJt6SppVluU3diU5) | 2:24 | 2022-11-25 | 2023-10-20 |
+| [Serene](https://open.spotify.com/track/2y095NA9mFeb4qaSyXe4Uz) | [Damzouka](https://open.spotify.com/artist/74F699PZqX9RIHr4mpALcq) | [Serene](https://open.spotify.com/album/4Vf9zmnJt6SppVluU3diU5) | 2:24 | 2022-11-25 |  |
 | [Serenity](https://open.spotify.com/track/5bEZ6aLBteghtOzynCO4WT) | [Lemeria](https://open.spotify.com/artist/6djoTVe8DDQ9I7tFOL673y), [Chill Select](https://open.spotify.com/artist/5orR9ec1E60lLb1U76m3ul) | [Come Back \| Serenity](https://open.spotify.com/album/6ClJ6EUajiUuSxLAjbaCXH) | 2:08 | 2022-10-14 |  |
 | [Seven](https://open.spotify.com/track/3UdSY1SgSF60lpYdMbmeXm) | [Von Von Bon](https://open.spotify.com/artist/46ex27gVTAa49Ikzk0M6jU) | [Seven](https://open.spotify.com/album/2Oiaj5rQK2zBL5xBtGUhlV) | 2:29 | 2022-04-15 |  |
 | [Seven lifes](https://open.spotify.com/track/0ODqF4q7w8uZ80auAlUww8) | [Lunatic Sad](https://open.spotify.com/artist/2zdUTbS2EdmbSrzK96XvEp) | [Seven lifes](https://open.spotify.com/album/1nTnXy5pPuajYkihPVFWTj) | 2:16 | 2022-09-09 | 2023-07-20 |
@@ -679,6 +679,7 @@
 | [Supalonley](https://open.spotify.com/track/3Bhi8rQjwOviWEpnt17Ser) | [Instant Influence](https://open.spotify.com/artist/5Enyz9z97MuIj0QCfUOT1X) | [Supalonely](https://open.spotify.com/album/3gT6m4IDzhjMUot8ZgKAIM) | 3:07 | 2022-11-25 |  |
 | [Superfly](https://open.spotify.com/track/6jT11modKRcuxt9pmvAzy2) | [Kevoe West](https://open.spotify.com/artist/6Va1VmR8BklpY5M7UBlhqU) | [Superfly](https://open.spotify.com/album/4jqthv8J5DGQ40yFC2zNjF) | 1:51 | 2022-04-15 | 2022-07-29 |
 | [Superman in the Tree](https://open.spotify.com/track/3zK9cqal7EHHYp9f328vcv) | [Siktem](https://open.spotify.com/artist/3k4YXZEqBj8L4UsiPf8fgr) | [Superman in the Tree](https://open.spotify.com/album/2XIDp5ZIYl5oycOJLee6xD) | 2:14 | 2022-05-20 | 2023-10-20 |
+| [Surf Tiger](https://open.spotify.com/track/0jwpEqWMwo5fR1XQXic4lg) | [ohlos](https://open.spotify.com/artist/72l8ZKvwKkr1ZMLzDcFxQC) | [Surf Tiger](https://open.spotify.com/album/4jTtUszaxX0G32HP7nG2SE) | 3:02 | 2023-10-20 |  |
 | [Swaype](https://open.spotify.com/track/0YRWFGr8QkH3GhmcLYOUTv) | [Wavy Naps](https://open.spotify.com/artist/0kFUFC571jik6K7viLxtPX) | [Swaype](https://open.spotify.com/album/14psBo6XTptrqiGfRHGRow) | 2:25 | 2023-10-13 |  |
 | [Swing Set](https://open.spotify.com/track/6NvN5QdlI7GItnKdhvtrwG) | [No2Pencil](https://open.spotify.com/artist/20DC1aiFjxdo2DtT5x8DCV) | [Backyard](https://open.spotify.com/album/1xaXyuZwmLAXCKEimpeebP) | 2:17 | 2022-04-15 | 2022-09-03 |
 | [Symbols](https://open.spotify.com/track/5ICH0pKxnPXbO2HxRIZu7B) | [illuZion](https://open.spotify.com/artist/0qJvuARFT6tPz8bkQTQpzj) | [Symbols](https://open.spotify.com/album/27nTElJC0ZAZmaxhXVEXVB) | 2:04 | 2022-12-09 | 2023-10-08 |

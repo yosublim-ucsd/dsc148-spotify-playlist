@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4OR8pnFkwhR.md) - [plain]
 
 > Spotifyが注目するニューカマー・プレイリスト。Cover: なとり
 
-[Spotify](https://open.spotify.com/user/spotify) - 62,529 likes - 70 songs - 4 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 62,626 likes - 70 songs - 4 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4OR8pnFkwhR.md) - [plain]
 | 69 | [愛の囚人たち](https://open.spotify.com/track/4E8aWkJkqZjph3XM6p5ooS) | [ルイ](https://open.spotify.com/artist/11YYwcMwOT9LS7GA4CO4R8) | [愛の囚人たち](https://open.spotify.com/album/2sGCP5Zmup2JnMOBCnUKrZ) | 4:41 |
 | 70 | [愛のレコード](https://open.spotify.com/track/6MG5pzwOflDAFcp0vBjdh5) | [北谷 琉喜](https://open.spotify.com/artist/6b2avTcQHdmOBEQVaxQE5P) | [愛のレコード](https://open.spotify.com/album/28x4qiVqe3aWX6WxCL9WMK) | 4:33 |
 
-Snapshot ID: `MCxjNTg1NDE5ZTc4MTMxOWEzZjM1MDhmODUwNDRmMmE4ZTIwZTg3NzA4`
+Snapshot ID: `MCw0NGZmYjk5NDYwZGQyZWUxYWY3MDNkOTllZjhhNTQ0OGMwNjdlMDgz`

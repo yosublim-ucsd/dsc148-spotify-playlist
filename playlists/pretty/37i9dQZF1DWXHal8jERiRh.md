@@ -1,0 +1,35 @@
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXHal8jERiRh.md) - [plain](/playlists/plain/37i9dQZF1DWXHal8jERiRh) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWXHal8jERiRh)
+
+### [7인의 탈출\(The Escape of the Seven\)](https://open.spotify.com/playlist/37i9dQZF1DWXHal8jERiRh)
+
+> Listen to the soundtracks of the The Escape of the Seven\. \(7인의 탈출의 사운드 트랙들을 즐겨보세요!\) You can also listen to songs selected by the cast\. \(출연진들이 직접 선정한 추천곡들도 들어보실 수 있습니다.\)
+
+[Spotify](https://open.spotify.com/user/spotify) - 2 likes - 23 songs - 1 hr 7 min
+
+| No. | Title | Artist(s) | Album | Length |
+|---|---|---|---|---|
+| 1 | [Curated by Lee Yubi](https://open.spotify.com/track/0PcrcVmCHTe3vdkke3HyGC) | [The Escape of the Seven](https://open.spotify.com/artist/2e40rNSF1VHxeDBkJR0xZ5) | [The Escape of the Seven audio liner](https://open.spotify.com/album/5Ss3JF1zGufz0NLnBIi2q9) | 0:20 |
+| 2 | [Prelude To The Glory](https://open.spotify.com/track/4FQQun1A4LoltKWawFzmht) | [Jung Se Rin](https://open.spotify.com/artist/1ueh3BEkIrO9i87v8Ymr5e) | [The Glory, Pt\. 2 \(Original Soundtrack from the Netflix Series\)](https://open.spotify.com/album/0bt1BOedK4Rmq0FgNKLPux) | 4:34 |
+| 3 | [Long Black Night](https://open.spotify.com/track/0oi3D2PxgQMZIPUoIJw3It) | [KimYeji](https://open.spotify.com/artist/3XyqYcDNFPFWbyGn8pFTf9) | [The Glory, Pt\. 1 \(Original Soundtrack from the Netflix Series\)](https://open.spotify.com/album/0OR9LHwVKfeRjkHxcDm1mc) | 4:09 |
+| 4 | [you should see me in a crown](https://open.spotify.com/track/3XF5xLJHOQQRbWya6hBp7d) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?](https://open.spotify.com/album/0S0KGZnfBGSIssfF54WSJh) | 3:00 |
+| 5 | [Control](https://open.spotify.com/track/3SKzTIl9mW0DadTys9SFo3) | [Halsey](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2) | [BADLANDS \(Deluxe\)](https://open.spotify.com/album/5OZJflQcQCdZLQjtUudCin) | 3:34 |
+| 6 | [The Whisper Of Forest](https://open.spotify.com/track/3Otuszwf8HYjUyZwoehVNh) | [SURAN](https://open.spotify.com/artist/1mORehSVEd7lcaT2d7Sl2K) | [The Glory, Pt\. 1 \(Original Soundtrack from the Netflix Series\)](https://open.spotify.com/album/0OR9LHwVKfeRjkHxcDm1mc) | 4:17 |
+| 7 | [all the good girls go to hell](https://open.spotify.com/track/6IRdLKIyS4p7XNiP8r6rsx) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?](https://open.spotify.com/album/0S0KGZnfBGSIssfF54WSJh) | 2:48 |
+| 8 | [Gasoline](https://open.spotify.com/track/2IO7yf562c1zLzpanal1DT) | [Halsey](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2) | [BADLANDS \(Deluxe\)](https://open.spotify.com/album/5OZJflQcQCdZLQjtUudCin) | 3:19 |
+| 9 | [Beautiful Is Boring](https://open.spotify.com/track/6uguPVToau9mv1nDKU1JL8) | [BONES UK](https://open.spotify.com/artist/16kd5X3pBMOtXdLlX5LcAw) | [Bones UK](https://open.spotify.com/album/6YkF6eWFU0EhVHBnYzAgqv) | 3:51 |
+| 10 | [What's A Girl To Do?](https://open.spotify.com/track/6nX4R2UiVrg6XZphd3QjaI) | [Bat For Lashes](https://open.spotify.com/artist/6l77PmL5iuEEcYjGl8K6s7) | [Fur and Gold](https://open.spotify.com/album/0MBMbIshl7jfto6yWs8BFN) | 2:58 |
+| 11 | [ilomilo](https://open.spotify.com/track/7qEKqBCD2vE5vIBsrUitpD) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?](https://open.spotify.com/album/0S0KGZnfBGSIssfF54WSJh) | 2:36 |
+| 12 | [Wicked](https://open.spotify.com/track/3B4u3uZGm7PCfhc18oTi1J) | [Seori](https://open.spotify.com/artist/2bWTIIQP9zaVc55RaMGu7e) | [Remarriage and Desires \(Original Soundtrack from The Netflix Series\)](https://open.spotify.com/album/2YM9Oahck5kVuWGiFQK1dg) | 3:14 |
+| 13 | [The Way To Get To You](https://open.spotify.com/track/6P5gda3H0xUSFcnYVxR6QU) | [Lee Yun Ji](https://open.spotify.com/artist/1dKNPccLLzE4YURnf2ab99) | [The Glory, Pt\. 2 \(Original Soundtrack from the Netflix Series\)](https://open.spotify.com/album/0bt1BOedK4Rmq0FgNKLPux) | 2:54 |
+| 14 | [Lonely Sailing](https://open.spotify.com/track/60HW5OezE9PdVounCVzOrY) | [Kim Yuna](https://open.spotify.com/artist/5jiscb6yxuu9hj4BoW5Wea) | [The World of the Married, Pt\. 1 \(Original Television Soundtrack\)](https://open.spotify.com/album/2NQlkVEtbwLnNr8XfaSAvD) | 4:41 |
+| 15 | [Sad](https://open.spotify.com/track/5GCgK80s9iTYIguVt8AAso) | [Sonnet Son](https://open.spotify.com/artist/1Dq0pavG6AfUkfbYmRRBjC) | [The World of the Married, Pt\. 3 \(Original Television Soundtrack\)](https://open.spotify.com/album/1gP5RgwQ47g8d1KrAsKnSS) | 3:36 |
+| 16 | [Vortex Of Revenge](https://open.spotify.com/track/0ciNC39cTmJkZ9vtapdYoL) | [Jeong Hye Bin](https://open.spotify.com/artist/21SWU9RDrrnMYHEmMnoC23) | [The Glory, Pt\. 2 \(Original Soundtrack from the Netflix Series\)](https://open.spotify.com/album/0bt1BOedK4Rmq0FgNKLPux) | 2:48 |
+| 17 | [Endless Story](https://open.spotify.com/track/5qGw224wECCHxTEfa1k42v) | [Gaemi](https://open.spotify.com/artist/40yhtwh7I0fHUlcL80rAdp), [Lee Gun Young](https://open.spotify.com/artist/1hliskWXXblmLcokaMUjhY) | [The World of the Married Special \(Original Television Soundtrack\)](https://open.spotify.com/album/7E2Lp36dLyyJn2zaSkE8GW) | 2:53 |
+| 18 | [Losing Her Heart to a Fake](https://open.spotify.com/track/6TqMHhBiuFUl5XJDLNYzJE) | [조영욱과 THE SOUNDTRACKINGS](https://open.spotify.com/artist/41bmPr1AQcL6i7MZHj80pX) | [THE HANDMAIDEN \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0mzJHO9z7mbZaN9JKLHIAk) | 1:19 |
+| 19 | [Designed Revenge](https://open.spotify.com/track/5pvKruLtg3tV1VbrjjWkA1) | [Jung Se Rin](https://open.spotify.com/artist/1ueh3BEkIrO9i87v8Ymr5e) | [The Glory, Pt\. 2 \(Original Soundtrack from the Netflix Series\)](https://open.spotify.com/album/0bt1BOedK4Rmq0FgNKLPux) | 4:07 |
+| 20 | [The Duchess Juliette](https://open.spotify.com/track/5zcvtY9ubOHVjWZ20lXyuA) | [조영욱과 THE SOUNDTRACKINGS](https://open.spotify.com/artist/41bmPr1AQcL6i7MZHj80pX) | [THE HANDMAIDEN \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0mzJHO9z7mbZaN9JKLHIAk) | 1:43 |
+| 21 | [Title Of The Glory](https://open.spotify.com/track/4Nu2PLji2KqE8C68wOzRyI) | [Jung Se Rin](https://open.spotify.com/artist/1ueh3BEkIrO9i87v8Ymr5e) | [The Glory, Pt\. 2 \(Original Soundtrack from the Netflix Series\)](https://open.spotify.com/album/0bt1BOedK4Rmq0FgNKLPux) | 1:06 |
+| 22 | [The Tree from Mount Fuji](https://open.spotify.com/track/4VulISo0xgXeWnOQsS1IgN) | [조영욱과 THE SOUNDTRACKINGS](https://open.spotify.com/artist/41bmPr1AQcL6i7MZHj80pX) | [THE HANDMAIDEN \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0mzJHO9z7mbZaN9JKLHIAk) | 2:28 |
+| 23 | [Fire!](https://open.spotify.com/track/3KxwePed3M2ItHEyxI59Gt) | [조영욱과 THE SOUNDTRACKINGS](https://open.spotify.com/artist/41bmPr1AQcL6i7MZHj80pX) | [THE HANDMAIDEN \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0mzJHO9z7mbZaN9JKLHIAk) | 1:15 |
+
+Snapshot ID: `MCxmYjM3MDE1NjY5OWU2MjRlNGRlMDg4Zjc1NjNkZDVjMmVhZmYwYzRh`

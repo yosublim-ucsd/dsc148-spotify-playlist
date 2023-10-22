@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1UnoGuyf388.md) - [plain]
 
 > Pop music driving the current, every week\.  Cover: Tinashe
 
-[Spotify](https://open.spotify.com/user/spotify) - 29,544 likes - 75 songs - 3 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 29,584 likes - 75 songs - 3 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,7 +30,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1UnoGuyf388.md) - [plain]
 | 20 | [Never Let You Down](https://open.spotify.com/track/6zWPfPb2nJNYWjAjNK8b2K) | [Aloe Blacc](https://open.spotify.com/artist/0id62QV2SZZfvBn9xpmuCl) | [Never Let You Down](https://open.spotify.com/album/53nMugCwdCih4FQorDoNiS) | 3:21 |
 | 21 | [Motion \(feat\. Chris Brown\)](https://open.spotify.com/track/3TV0uB4XI6vBoN7MjOhiAC) | [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq), [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [Motion \(feat\. Chris Brown\)](https://open.spotify.com/album/7tpEGkrQn7roe8BPqSkt3u) | 2:27 |
 | 22 | [Something In My Eye](https://open.spotify.com/track/2DW8K92zcLza0lsTlBg7Ld) | [Tayla Parx](https://open.spotify.com/artist/1LzWWI9v4UKdbBgz8fqi15) | [Something In My Eye](https://open.spotify.com/album/4b19y9VplmgR8kOXFpH3B1) | 2:44 |
-| 23 | [Cheat \(feat\. JoJo\)](https://open.spotify.com/track/1mXJlLzoEk3STrioO2ehRE) | [Mahalia](https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI), [JoJo](https://open.spotify.com/artist/5xuNBZoM7z1Vv8IQ6uM0p6) | [Cheat \(feat\. JoJo\)](https://open.spotify.com/album/249LVBE0PeIQJfuUXepYfw) | 3:22 |
+| 23 | [Cheat \(feat\. JoJo\)](https://open.spotify.com/track/2APWeDZZLBBwAmVVECtgMr) | [Mahalia](https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI), [JoJo](https://open.spotify.com/artist/5xuNBZoM7z1Vv8IQ6uM0p6) | [IRL \(Deluxe\)](https://open.spotify.com/album/76G7P45A56sBfsNXj2yZyD) | 3:22 |
 | 24 | [Turn Your Phone Off](https://open.spotify.com/track/6htWGNhskc5f0Xke88Vn5z) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t), [Destroy Lonely](https://open.spotify.com/artist/1HPW4jeRjXBFRoUnSvBzoD) | [Turn Your Phone Off](https://open.spotify.com/album/2vumYq4zWRAEYa3f0567CL) | 2:56 |
 | 25 | [Lift Me Up](https://open.spotify.com/track/2ELn4AbxtbATXMsPDkEyjh) | [Lachi](https://open.spotify.com/artist/07D2qGlJUOVf83OM5ujJZD), [James Ian](https://open.spotify.com/artist/5oOFQ8WI7kQxsyTw2gkC8b), [Gaelynn Lea](https://open.spotify.com/artist/68zltLWXjBB3dIqHikDXZy) | [Lift Me Up](https://open.spotify.com/album/7nNO2GemVOjoyDpji26fnz) | 3:47 |
 | 26 | [Trashboi](https://open.spotify.com/track/1Z6paKXkwnkJkvUZZJoZl8) | [Flyana Boss](https://open.spotify.com/artist/0CLW5934vy2XusynS1px1S) | [You Wish + Trashboi](https://open.spotify.com/album/1tHZNwa8uy5Cre8Evb5YKv) | 2:24 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1UnoGuyf388.md) - [plain]
 | 74 | [Big Energy](https://open.spotify.com/track/5lHxARJJrZc3ss4ZVmGWfz) | [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ) | [Big Energy](https://open.spotify.com/album/4tY28Pau74a3kkOEQGGS0b) | 2:53 |
 | 75 | [People](https://open.spotify.com/track/26b3oVLrRUaaybJulow9kz) | [Libianca](https://open.spotify.com/artist/7kjSuFGKhLm8b5qXoMhRkJ) | [People](https://open.spotify.com/album/5Hmh6N8oisrcuZKa8EY5dn) | 3:04 |
 
-Snapshot ID: `MCw4NGIwOGEzZjE1MTIyNDZiMzM1MDkxMWNiYmMwZjU4NWVjNmJkNzZj`
+Snapshot ID: `MCwzNTE1YTg3N2E2MzdjNjhjNjk2NzQ2ODkyOTk4OTg3YzgxMTQ4MDY5`

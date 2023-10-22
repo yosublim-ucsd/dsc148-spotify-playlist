@@ -1,12 +1,12 @@
 {
   "description": "As belas novidades da MPB. Foto: Chico Buarque",
-  "num_followers": 344958,
+  "num_followers": 345042,
   "original_name": "Divina MPB",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2MzYwZDdmYzQxZWQ3ZjFjMGI5ZjgxMTQwMTYxZmJiOTk1YTA0ZjRj",
+  "snapshot_id": "MCxiYTc2NTBkOWI1NGFhNGU2MTMxMDNmNmJhYjA3YmEwNWMxZDRjYzFl",
   "tracks": [
     {
       "added_at": "2023-10-20 03:00:00",
@@ -819,22 +819,6 @@
     {
       "added_at": "2023-10-20 03:00:00",
       "album": {
-        "name": "Ata-me",
-        "url": "https://open.spotify.com/album/5m1WwMk6bpyxqU5A0TCRog"
-      },
-      "artists": [
-        {
-          "name": "Ala\u00edde Costa",
-          "url": "https://open.spotify.com/artist/2KkoeJkkFr802J5gPjlRGs"
-        }
-      ],
-      "duration_ms": 216986,
-      "name": "Ata-me",
-      "url": "https://open.spotify.com/track/3zFak51eEEHDHxmBnms9sm"
-    },
-    {
-      "added_at": "2023-10-20 03:00:00",
-      "album": {
         "name": "Faz Parte Do Meu Show",
         "url": "https://open.spotify.com/album/4YyhntF13f93ty7GdhyjI1"
       },
@@ -851,6 +835,22 @@
       "duration_ms": 163426,
       "name": "Faz Parte Do Meu Show",
       "url": "https://open.spotify.com/track/2c9cy32pkhuznDXIN0eWMG"
+    },
+    {
+      "added_at": "2023-10-20 03:00:00",
+      "album": {
+        "name": "Ata-me",
+        "url": "https://open.spotify.com/album/5m1WwMk6bpyxqU5A0TCRog"
+      },
+      "artists": [
+        {
+          "name": "Ala\u00edde Costa",
+          "url": "https://open.spotify.com/artist/2KkoeJkkFr802J5gPjlRGs"
+        }
+      ],
+      "duration_ms": 216986,
+      "name": "Ata-me",
+      "url": "https://open.spotify.com/track/3zFak51eEEHDHxmBnms9sm"
     },
     {
       "added_at": "2023-10-20 03:00:00",
@@ -1003,6 +1003,22 @@
     {
       "added_at": "2023-10-20 03:00:00",
       "album": {
+        "name": "Romaria",
+        "url": "https://open.spotify.com/album/5teLxHpmV0NIhOwOSpM1qE"
+      },
+      "artists": [
+        {
+          "name": "Fagner",
+          "url": "https://open.spotify.com/artist/5j3htXVskZF0u8qWY5zcF8"
+        }
+      ],
+      "duration_ms": 233459,
+      "name": "Romaria",
+      "url": "https://open.spotify.com/track/6HHPpfH68lFCVIUSuxbuff"
+    },
+    {
+      "added_at": "2023-10-20 03:00:00",
+      "album": {
         "name": "Aqui em Casa (Ao vivo na Casa de Francisca)",
         "url": "https://open.spotify.com/album/5edRUvrs7Ixak0FPMB9LPI"
       },
@@ -1039,22 +1055,6 @@
       "duration_ms": 168681,
       "name": "Preciso Me Encontrar",
       "url": "https://open.spotify.com/track/6zN82PWvDughq3NzbUNIxR"
-    },
-    {
-      "added_at": "2023-10-20 03:00:00",
-      "album": {
-        "name": "Romaria",
-        "url": "https://open.spotify.com/album/5teLxHpmV0NIhOwOSpM1qE"
-      },
-      "artists": [
-        {
-          "name": "Fagner",
-          "url": "https://open.spotify.com/artist/5j3htXVskZF0u8qWY5zcF8"
-        }
-      ],
-      "duration_ms": 233459,
-      "name": "Romaria",
-      "url": "https://open.spotify.com/track/6HHPpfH68lFCVIUSuxbuff"
     },
     {
       "added_at": "2023-10-20 03:00:00",
@@ -1275,22 +1275,6 @@
     {
       "added_at": "2023-10-20 03:00:00",
       "album": {
-        "name": "Lusco-Fusco",
-        "url": "https://open.spotify.com/album/7qnm8QNLlJPLSDVSQtftMW"
-      },
-      "artists": [
-        {
-          "name": "Assucena",
-          "url": "https://open.spotify.com/artist/4JUqukNJyqVXHjdRlFcFu8"
-        }
-      ],
-      "duration_ms": 272842,
-      "name": "Reluzente",
-      "url": "https://open.spotify.com/track/2UeumKHIIwlHuZS09znv0P"
-    },
-    {
-      "added_at": "2023-10-20 03:00:00",
-      "album": {
         "name": "desculpe o au\u00ea",
         "url": "https://open.spotify.com/album/7rgBUsjxNkW8UhXQ0OFOKu"
       },
@@ -1307,6 +1291,22 @@
       "duration_ms": 178867,
       "name": "desculpe o au\u00ea",
       "url": "https://open.spotify.com/track/6jCMnAiCyLMugJtcDUGYKY"
+    },
+    {
+      "added_at": "2023-10-20 03:00:00",
+      "album": {
+        "name": "Lusco-Fusco",
+        "url": "https://open.spotify.com/album/7qnm8QNLlJPLSDVSQtftMW"
+      },
+      "artists": [
+        {
+          "name": "Assucena",
+          "url": "https://open.spotify.com/artist/4JUqukNJyqVXHjdRlFcFu8"
+        }
+      ],
+      "duration_ms": 272842,
+      "name": "Reluzente",
+      "url": "https://open.spotify.com/track/2UeumKHIIwlHuZS09znv0P"
     },
     {
       "added_at": "2023-10-20 03:00:00",
@@ -1391,22 +1391,6 @@
     {
       "added_at": "2023-10-20 03:00:00",
       "album": {
-        "name": "Paci\u00eancia",
-        "url": "https://open.spotify.com/album/6cXORwSG04rxXhOJwYDNYK"
-      },
-      "artists": [
-        {
-          "name": "A Banda Mais Bonita da Cidade",
-          "url": "https://open.spotify.com/artist/2vyvksxB1aCmd0vl2geGYR"
-        }
-      ],
-      "duration_ms": 226240,
-      "name": "Paci\u00eancia",
-      "url": "https://open.spotify.com/track/0Mqz6vciorU81IDJf1Q7X9"
-    },
-    {
-      "added_at": "2023-10-20 03:00:00",
-      "album": {
         "name": "Jo\u00e3o Bosco e Orquestra Ouro Preto: G\u00eanesis",
         "url": "https://open.spotify.com/album/7u5u9iacVfaJLU5BTQqD7C"
       },
@@ -1423,6 +1407,22 @@
       "duration_ms": 319000,
       "name": "Papel Mach\u00ea",
       "url": "https://open.spotify.com/track/4LLd9bypGJLoHO0mK1twcn"
+    },
+    {
+      "added_at": "2023-10-20 03:00:00",
+      "album": {
+        "name": "Paci\u00eancia",
+        "url": "https://open.spotify.com/album/6cXORwSG04rxXhOJwYDNYK"
+      },
+      "artists": [
+        {
+          "name": "A Banda Mais Bonita da Cidade",
+          "url": "https://open.spotify.com/artist/2vyvksxB1aCmd0vl2geGYR"
+        }
+      ],
+      "duration_ms": 226240,
+      "name": "Paci\u00eancia",
+      "url": "https://open.spotify.com/track/0Mqz6vciorU81IDJf1Q7X9"
     },
     {
       "added_at": "2023-10-20 03:00:00",
@@ -1447,6 +1447,26 @@
       "duration_ms": 234405,
       "name": "Aqui em Casa",
       "url": "https://open.spotify.com/track/3AtSBHBXc5rN50VrJQmTTe"
+    },
+    {
+      "added_at": "2023-10-20 03:00:00",
+      "album": {
+        "name": "Sonhos & Ilus\u00f5es (acoustic)",
+        "url": "https://open.spotify.com/album/7JMG9ZwaIjpQEiJKU5ie9f"
+      },
+      "artists": [
+        {
+          "name": "Julia Mestre",
+          "url": "https://open.spotify.com/artist/1FnGKreDca8xq3juSi5hAE"
+        },
+        {
+          "name": "MARO",
+          "url": "https://open.spotify.com/artist/3NP4jJcW3R6qO6rbtnH0wn"
+        }
+      ],
+      "duration_ms": 241250,
+      "name": "Sonhos & Ilus\u00f5es - acoustic",
+      "url": "https://open.spotify.com/track/3zJ9bsVbbXvdCkh4sNxpXR"
     },
     {
       "added_at": "2023-10-20 03:00:00",
@@ -1507,6 +1527,22 @@
     {
       "added_at": "2023-10-20 03:00:00",
       "album": {
+        "name": "Oswaldo Montenegro e Orquestra",
+        "url": "https://open.spotify.com/album/1MtecGxFiRth68STj2JSHf"
+      },
+      "artists": [
+        {
+          "name": "Oswaldo Montenegro",
+          "url": "https://open.spotify.com/artist/1nv813b9IAJBc2354wQodV"
+        }
+      ],
+      "duration_ms": 168162,
+      "name": "A Lista",
+      "url": "https://open.spotify.com/track/47Tc85pV7z2ivBetN14Y8t"
+    },
+    {
+      "added_at": "2023-10-20 03:00:00",
+      "album": {
         "name": "Tenho Sede",
         "url": "https://open.spotify.com/album/32GFhnNQcD177HFEO68C4C"
       },
@@ -1555,38 +1591,6 @@
     {
       "added_at": "2023-10-20 03:00:00",
       "album": {
-        "name": "Oswaldo Montenegro e Orquestra",
-        "url": "https://open.spotify.com/album/1MtecGxFiRth68STj2JSHf"
-      },
-      "artists": [
-        {
-          "name": "Oswaldo Montenegro",
-          "url": "https://open.spotify.com/artist/1nv813b9IAJBc2354wQodV"
-        }
-      ],
-      "duration_ms": 168162,
-      "name": "A Lista",
-      "url": "https://open.spotify.com/track/47Tc85pV7z2ivBetN14Y8t"
-    },
-    {
-      "added_at": "2023-10-20 03:00:00",
-      "album": {
-        "name": "Tamb\u00e9m Pede Bis",
-        "url": "https://open.spotify.com/album/5pqZHhdxpz9jo5shnKnV6D"
-      },
-      "artists": [
-        {
-          "name": "Pedro Miranda",
-          "url": "https://open.spotify.com/artist/32ChsjOKXXZrpDI6aAPo5l"
-        }
-      ],
-      "duration_ms": 171805,
-      "name": "Tamb\u00e9m Pede Bis",
-      "url": "https://open.spotify.com/track/7ArxNzr5D7OvRqes0S8CHY"
-    },
-    {
-      "added_at": "2023-10-20 03:00:00",
-      "album": {
         "name": "Querer Bem",
         "url": "https://open.spotify.com/album/5EsxhSjXVxOFehJlRk4peT"
       },
@@ -1603,6 +1607,22 @@
       "duration_ms": 194752,
       "name": "Querer Bem",
       "url": "https://open.spotify.com/track/3RcuVUmmvEj93JXG5iC6rj"
+    },
+    {
+      "added_at": "2023-10-20 03:00:00",
+      "album": {
+        "name": "Tamb\u00e9m Pede Bis",
+        "url": "https://open.spotify.com/album/5pqZHhdxpz9jo5shnKnV6D"
+      },
+      "artists": [
+        {
+          "name": "Pedro Miranda",
+          "url": "https://open.spotify.com/artist/32ChsjOKXXZrpDI6aAPo5l"
+        }
+      ],
+      "duration_ms": 171805,
+      "name": "Tamb\u00e9m Pede Bis",
+      "url": "https://open.spotify.com/track/7ArxNzr5D7OvRqes0S8CHY"
     },
     {
       "added_at": "2023-10-20 03:00:00",
@@ -1747,54 +1767,18 @@
     {
       "added_at": "2023-10-20 03:00:00",
       "album": {
-        "name": "Sonhos & Ilus\u00f5es (acoustic)",
-        "url": "https://open.spotify.com/album/7JMG9ZwaIjpQEiJKU5ie9f"
+        "name": "Ser\u00e1 que eu t\u00f4 gostando dela? (Ac\u00fastico)",
+        "url": "https://open.spotify.com/album/6uDkd4k8tUXoXNGkuw2C7T"
       },
       "artists": [
         {
-          "name": "Julia Mestre",
-          "url": "https://open.spotify.com/artist/1FnGKreDca8xq3juSi5hAE"
-        },
-        {
-          "name": "MARO",
-          "url": "https://open.spotify.com/artist/3NP4jJcW3R6qO6rbtnH0wn"
+          "name": "Tuca Oliveira",
+          "url": "https://open.spotify.com/artist/2VvZoYg1jc8rfndlvnn43k"
         }
       ],
-      "duration_ms": 241250,
-      "name": "Sonhos & Ilus\u00f5es - acoustic",
-      "url": "https://open.spotify.com/track/3zJ9bsVbbXvdCkh4sNxpXR"
-    },
-    {
-      "added_at": "2023-10-20 03:00:00",
-      "album": {
-        "name": "Desapre\u00e7o",
-        "url": "https://open.spotify.com/album/1FrOQslcNVclDGZeQfk2S4"
-      },
-      "artists": [
-        {
-          "name": "Joana Castanheira",
-          "url": "https://open.spotify.com/artist/4oeqovhGT9Bj4wbDeaTqXn"
-        }
-      ],
-      "duration_ms": 214482,
-      "name": "Desapre\u00e7o",
-      "url": "https://open.spotify.com/track/18Oiw0ywofKXiZpKg1ztUJ"
-    },
-    {
-      "added_at": "2023-10-20 03:00:00",
-      "album": {
-        "name": "Gente S\u00e9ria (Letra In\u00e9dita)",
-        "url": "https://open.spotify.com/album/5Vs97HPoTHUh3YgORdpjqs"
-      },
-      "artists": [
-        {
-          "name": "Joyce Moreno",
-          "url": "https://open.spotify.com/artist/5644bJMU3NkJN0edhyHV3v"
-        }
-      ],
-      "duration_ms": 106658,
-      "name": "Gente S\u00e9ria (Letra In\u00e9dita)",
-      "url": "https://open.spotify.com/track/1ckmCrRl0uPRvRicggdf40"
+      "duration_ms": 196319,
+      "name": "Ser\u00e1 que eu t\u00f4 gostando dela? (Ac\u00fastico)",
+      "url": "https://open.spotify.com/track/2NKaOIKEoRdCitUlZXLRLA"
     },
     {
       "added_at": "2023-10-20 03:00:00",
@@ -1819,22 +1803,34 @@
     {
       "added_at": "2023-10-20 03:00:00",
       "album": {
-        "name": "Doce Carnaval",
-        "url": "https://open.spotify.com/album/6yeamXA0Sxk8QvgOkRZXXB"
+        "name": "PEDRO PASCUAL",
+        "url": "https://open.spotify.com/album/7ERxJxap9tA4xBAQhmiKs5"
       },
       "artists": [
         {
-          "name": "Alexia Bomtempo",
-          "url": "https://open.spotify.com/artist/28HvZHehbCmYkf6o1W8vp9"
-        },
-        {
-          "name": "Roberta S\u00e1",
-          "url": "https://open.spotify.com/artist/4vKCAkbdulcqatglgbi5CG"
+          "name": "Pedro Pascual",
+          "url": "https://open.spotify.com/artist/2BnK5sGhQzbij0I5BWTYm4"
         }
       ],
-      "duration_ms": 193186,
-      "name": "Banho de Cheiro",
-      "url": "https://open.spotify.com/track/4HdKCNf0qZ0weLDBsZKJl5"
+      "duration_ms": 191043,
+      "name": "Ontem, Hoje e Amanh\u00e3",
+      "url": "https://open.spotify.com/track/29Ecov9FcydQR4VDr6GYso"
+    },
+    {
+      "added_at": "2023-10-20 03:00:00",
+      "album": {
+        "name": "Gente S\u00e9ria (Letra In\u00e9dita)",
+        "url": "https://open.spotify.com/album/5Vs97HPoTHUh3YgORdpjqs"
+      },
+      "artists": [
+        {
+          "name": "Joyce Moreno",
+          "url": "https://open.spotify.com/artist/5644bJMU3NkJN0edhyHV3v"
+        }
+      ],
+      "duration_ms": 106658,
+      "name": "Gente S\u00e9ria (Letra In\u00e9dita)",
+      "url": "https://open.spotify.com/track/1ckmCrRl0uPRvRicggdf40"
     },
     {
       "added_at": "2023-10-20 03:00:00",
@@ -1855,34 +1851,38 @@
     {
       "added_at": "2023-10-20 03:00:00",
       "album": {
-        "name": "Ser\u00e1 que eu t\u00f4 gostando dela? (Ac\u00fastico)",
-        "url": "https://open.spotify.com/album/6uDkd4k8tUXoXNGkuw2C7T"
+        "name": "Desapre\u00e7o",
+        "url": "https://open.spotify.com/album/1FrOQslcNVclDGZeQfk2S4"
       },
       "artists": [
         {
-          "name": "Tuca Oliveira",
-          "url": "https://open.spotify.com/artist/2VvZoYg1jc8rfndlvnn43k"
+          "name": "Joana Castanheira",
+          "url": "https://open.spotify.com/artist/4oeqovhGT9Bj4wbDeaTqXn"
         }
       ],
-      "duration_ms": 196319,
-      "name": "Ser\u00e1 que eu t\u00f4 gostando dela? (Ac\u00fastico)",
-      "url": "https://open.spotify.com/track/2NKaOIKEoRdCitUlZXLRLA"
+      "duration_ms": 214482,
+      "name": "Desapre\u00e7o",
+      "url": "https://open.spotify.com/track/18Oiw0ywofKXiZpKg1ztUJ"
     },
     {
       "added_at": "2023-10-20 03:00:00",
       "album": {
-        "name": "PEDRO PASCUAL",
-        "url": "https://open.spotify.com/album/7ERxJxap9tA4xBAQhmiKs5"
+        "name": "Doce Carnaval",
+        "url": "https://open.spotify.com/album/6yeamXA0Sxk8QvgOkRZXXB"
       },
       "artists": [
         {
-          "name": "Pedro Pascual",
-          "url": "https://open.spotify.com/artist/2BnK5sGhQzbij0I5BWTYm4"
+          "name": "Alexia Bomtempo",
+          "url": "https://open.spotify.com/artist/28HvZHehbCmYkf6o1W8vp9"
+        },
+        {
+          "name": "Roberta S\u00e1",
+          "url": "https://open.spotify.com/artist/4vKCAkbdulcqatglgbi5CG"
         }
       ],
-      "duration_ms": 191043,
-      "name": "Ontem, Hoje e Amanh\u00e3",
-      "url": "https://open.spotify.com/track/29Ecov9FcydQR4VDr6GYso"
+      "duration_ms": 193186,
+      "name": "Banho de Cheiro",
+      "url": "https://open.spotify.com/track/4HdKCNf0qZ0weLDBsZKJl5"
     },
     {
       "added_at": "2023-10-20 03:00:00",

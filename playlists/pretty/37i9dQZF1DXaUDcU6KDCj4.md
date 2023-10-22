@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaUDcU6KDCj4.md) - [plain]
 
 > Hear what's new in folk, roots & indie singer\-songwriter\. Cover: Mustafa
 
-[Spotify](https://open.spotify.com/user/spotify) - 794,297 likes - 150 songs - 9 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 794,338 likes - 150 songs - 9 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaUDcU6KDCj4.md) - [plain]
 | 149 | [Dumb](https://open.spotify.com/track/3aYNByMwUHzFjLD2XpjP7Z) | [Garrett Kato](https://open.spotify.com/artist/4S3VOqqGguEZu3vbJMig4t) | [Nighthawks](https://open.spotify.com/album/6fvPCH09RdjrTF56T9fZfu) | 3:04 |
 | 150 | [Didn't Know You Then](https://open.spotify.com/track/6oyDy1XJfGKBjvwdQMWpOX) | [Buck Meek](https://open.spotify.com/artist/4mYY0UqYdvgdz60psupYBR) | [Haunted Mountain](https://open.spotify.com/album/0Dw5lEKTJgSULnuv7iYBKg) | 4:13 |
 
-Snapshot ID: `MCxlOGM5ZDJjZWY4MDliYjg4NDVhMjVjMmFmYWYwNWRkOGNiNTRlNDM0`
+Snapshot ID: `MCwwOTk2YmRiNTc0ZmZiZDNkY2MzMGNmYTBjNjcwMmUzZTFkMGZhYmU3`

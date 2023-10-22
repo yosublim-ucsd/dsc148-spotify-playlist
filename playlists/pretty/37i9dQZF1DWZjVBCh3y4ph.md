@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZjVBCh3y4ph.md) - [plain]
 
 > Les hits zouk du moment\. Photo : Joé Dwèt Filé
 
-[Spotify](https://open.spotify.com/user/spotify) - 50,702 likes - 40 songs - 2 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 50,795 likes - 40 songs - 2 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZjVBCh3y4ph.md) - [plain]
 | 39 | [Je le savais](https://open.spotify.com/track/0GmFgFtkqsgnrFMWJZ1x99) | [Taylor Gasy](https://open.spotify.com/artist/547AvIcjAqi3Vz78SppsjN) | [Je le savais](https://open.spotify.com/album/6n9uhoJnNGaNd6mENrluEC) | 2:42 |
 | 40 | [Stop](https://open.spotify.com/track/2eYCmlVnHxy838TI9LKE05) | [Colette GAZE](https://open.spotify.com/artist/2rRmWyQHBvAMVd1O4q9Q6U) | [Stop](https://open.spotify.com/album/1V7JUIgcybhG8s3SRzpD4V) | 3:14 |
 
-Snapshot ID: `MCxjYTIxZDA5MjYxNmRjMGY4MThhYWYwM2YwNTExNzkyYWU4M2I2ZDVi`
+Snapshot ID: `MCw5NmRhNjQ0NTE2Y2MwNTdhM2MzZDI5YTU1ZDg5MTY3NmIyY2MzMmJh`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVCHIm2MEeIy.md) - [plain]
 
 > The dancefloor is the place to be 🪩
 
-[Spotify](https://open.spotify.com/user/spotify) - 848,240 likes - 70 songs - 5 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 848,358 likes - 70 songs - 5 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,8 +49,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVCHIm2MEeIy.md) - [plain]
 | 39 | [You Can Dance Now](https://open.spotify.com/track/2pCPnTHLdQXaL0AO5faZmR) | [Liva K](https://open.spotify.com/artist/63mVEANeXk1p622Ejj9rBj) | [You Can Dance Now](https://open.spotify.com/album/3RStRb08OCSQiiPn7YRSi2) | 4:04 |
 | 40 | [Petit Matin](https://open.spotify.com/track/0MOwzHYBsXeVkb98ewMMZP) | [NTO](https://open.spotify.com/artist/7ry8L53T4oJtSIogGYuioq) | [Petit Matin](https://open.spotify.com/album/0P57bvDYTfxQt9V4ChSvDi) | 7:27 |
 | 41 | [Luna](https://open.spotify.com/track/19nIwUJ2K8fSF2VUoOXEUM) | [Ann Clue](https://open.spotify.com/artist/5fasubnSIOTRYlIZA17ong) | [Luna](https://open.spotify.com/album/42RzcaAaTLCowXNlHAK1Du) | 3:50 |
-| 42 | [Cinecittà](https://open.spotify.com/track/7BpAUyMcDLWfFZo8tvJvh5) | [Carlita](https://open.spotify.com/artist/1GVbOnrND8b3eh2JZ4opw8), [DJ Tennis](https://open.spotify.com/artist/6vJvFV1A2CpT8s5B1oUN6t), [Alex Metric](https://open.spotify.com/artist/6RDNTAgm2s6ae71nXWGnJD) | [Cinecittà](https://open.spotify.com/album/6V7vOaDpcH3fHQbkFzSBB2) | 3:28 |
-| 43 | [RIDERS ON THE STORM](https://open.spotify.com/track/6X9FcXuVtEUMaZrgcXING2) | [RUBACK](https://open.spotify.com/artist/2fdRphXxW7ncxOnkX4J3Pg), [Dubdogz](https://open.spotify.com/artist/4cdyqaBREB68H77QKCrKP1), [Sevenn](https://open.spotify.com/artist/7bNqXqIrIfwJnipx7oGeU4) | [RIDERS ON THE STORM](https://open.spotify.com/album/1NW9uJa0pdHCzueCxOFUQS) | 5:10 |
+| 42 | [RIDERS ON THE STORM](https://open.spotify.com/track/6X9FcXuVtEUMaZrgcXING2) | [RUBACK](https://open.spotify.com/artist/2fdRphXxW7ncxOnkX4J3Pg), [Dubdogz](https://open.spotify.com/artist/4cdyqaBREB68H77QKCrKP1), [Sevenn](https://open.spotify.com/artist/7bNqXqIrIfwJnipx7oGeU4) | [RIDERS ON THE STORM](https://open.spotify.com/album/1NW9uJa0pdHCzueCxOFUQS) | 5:10 |
+| 43 | [Cinecittà](https://open.spotify.com/track/7BpAUyMcDLWfFZo8tvJvh5) | [Carlita](https://open.spotify.com/artist/1GVbOnrND8b3eh2JZ4opw8), [DJ Tennis](https://open.spotify.com/artist/6vJvFV1A2CpT8s5B1oUN6t), [Alex Metric](https://open.spotify.com/artist/6RDNTAgm2s6ae71nXWGnJD) | [Cinecittà](https://open.spotify.com/album/6V7vOaDpcH3fHQbkFzSBB2) | 3:28 |
 | 44 | [Haute Definition](https://open.spotify.com/track/5ogJoH7CMHtyxIsxExxm4B) | [Vitalic](https://open.spotify.com/artist/4M84umUNRbZy1mJleyyRM9) | [Dissidænce Episode 1](https://open.spotify.com/album/3x4w1TdlWi3d81ibVmR4Lj) | 3:58 |
 | 45 | [Footprints](https://open.spotify.com/track/0pJFuImM8bxl1Oj9HW4oVt) | [Kaz James](https://open.spotify.com/artist/1XGHs7YFtpCbDGKaNdPPtA) | [Footprints](https://open.spotify.com/album/1r8Scfn2BamZqnc0wH72Ar) | 5:48 |
 | 46 | [Untold](https://open.spotify.com/track/5oWNQlLaRLALWkKz3JuTap) | [Stil & Bense](https://open.spotify.com/artist/5nuJOwgBqKBIWyCr0dQgEH), [Margret](https://open.spotify.com/artist/6tFdm9EEawUx8EUkpWQH4l) | [Untold](https://open.spotify.com/album/2U3a211EBDRSdPZfM4pukk) | 6:42 |
@@ -75,8 +75,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVCHIm2MEeIy.md) - [plain]
 | 65 | [Silence & Secrets \- Adriatique Remix](https://open.spotify.com/track/5twGTwrfKmxSc21cTGNPNn) | [WhoMadeWho](https://open.spotify.com/artist/50Lr1puweM1hFsF1LpIZLM), [Adriatique](https://open.spotify.com/artist/02DWGcShQivFepRvGJ7xhB) | [Silence & Secrets \(Adriatique Remix\)](https://open.spotify.com/album/0Y0xhBcScceez0FfDnap8p) | 7:21 |
 | 66 | [Heaven \- Oliver Schories Club Mix](https://open.spotify.com/track/2ZtjuNdPKbiRlxCAm7J8Tt) | [Oliver Schories](https://open.spotify.com/artist/0iTjLBepeGaLgZS18kxgRq), [Fredrik Ferrier](https://open.spotify.com/artist/2HkqD9bmnrPK7mXNMpZQIQ) | [Heaven \(Oliver Schories Club Mix\)](https://open.spotify.com/album/2n0qGGx3bVrgRBTu3P3Stn) | 3:45 |
 | 67 | [Der Mond \- 1980 Version](https://open.spotify.com/track/0mTq8qD7jCebFoN5HP7NqY) | [Moonbootica](https://open.spotify.com/artist/1YkHCcMgZ6fTQMeEQyYKTf), [Jan Delay](https://open.spotify.com/artist/4KivBMgSnZ7hCDfPm46fKc) | [Classic Gold Remixed \(Pt.2\)](https://open.spotify.com/album/6CcQYWYQnnG9oYutc0EP2y) | 5:24 |
-| 68 | [The Gates Of Babylonia](https://open.spotify.com/track/4JaCQuCXKEMo3jVDql5pqY) | [Stereo Express](https://open.spotify.com/artist/3j2zB13syOvCyrkJIomEA2) | [The Gates Of Babylonia](https://open.spotify.com/album/1WWuZ6jS4s45506fTQll3h) | 6:29 |
-| 69 | [Darkness & Light](https://open.spotify.com/track/4vsFruj3yvncBgnVeSpTfj) | [8Kays](https://open.spotify.com/artist/6VJ8RuUWKIgm5p5uEvZCfQ), [Cari Golden](https://open.spotify.com/artist/3M2wBPMgou1UoOONLwqgVp) | [Darkness & Light](https://open.spotify.com/album/5vIdAN7XFmCxFHpbBOrrMN) | 3:56 |
+| 68 | [Darkness & Light](https://open.spotify.com/track/4vsFruj3yvncBgnVeSpTfj) | [8Kays](https://open.spotify.com/artist/6VJ8RuUWKIgm5p5uEvZCfQ), [Cari Golden](https://open.spotify.com/artist/3M2wBPMgou1UoOONLwqgVp) | [Darkness & Light](https://open.spotify.com/album/5vIdAN7XFmCxFHpbBOrrMN) | 3:56 |
+| 69 | [The Gates Of Babylonia](https://open.spotify.com/track/4JaCQuCXKEMo3jVDql5pqY) | [Stereo Express](https://open.spotify.com/artist/3j2zB13syOvCyrkJIomEA2) | [The Gates Of Babylonia](https://open.spotify.com/album/1WWuZ6jS4s45506fTQll3h) | 6:29 |
 | 70 | [Loving You Like Always \- Sainte Vie Remix](https://open.spotify.com/track/4wp5DGGbvBcalN7rq8Dn2d) | [NTO](https://open.spotify.com/artist/7ry8L53T4oJtSIogGYuioq), [Sainte Vie](https://open.spotify.com/artist/30oVwXZSlElygdNpcUIFBk), [Tricky](https://open.spotify.com/artist/6hhA8TKRNryM8FNzqCqdDO) | [Loving You Like Always \(Sainte Vie Remix\)](https://open.spotify.com/album/4qsf7fsxmloPBkIKTQxmJ0) | 6:52 |
 
-Snapshot ID: `MCxiNTYwYWM1YmEzOGU0ZmM3Yzg1OGNmNWMzZmQ1YTI2Zjk1ZDdhYWZl`
+Snapshot ID: `MCw0YmVhZjgwZGM2OWUxZWNkODI5M2E3YWVjODAxYjNlYzFhZTYxOGY0`

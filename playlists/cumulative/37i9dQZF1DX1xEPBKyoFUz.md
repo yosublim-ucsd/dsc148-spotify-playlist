@@ -4,7 +4,7 @@
 
 > Plug\-in to the official Kickback 2023 playlist, co\-created by gamers, producers, and the Atlanta community.
 
-528 songs - 1 day 7 hr 8 min
+529 songs - 1 day 7 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -342,7 +342,8 @@
 | [Power Trip \(feat\. Miguel\)](https://open.spotify.com/track/2uwnP6tZVVmTovzX5ELooy) | [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5), [Miguel](https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK) | [Born Sinner \(Deluxe Version\)](https://open.spotify.com/album/5FP9keIJnlSCKnkdVOf623) | 4:01 | 2022-11-09 | 2023-03-07 |
 | [Prime \(2012 Unfinished\)](https://open.spotify.com/track/1iAsoOFV16Ax6OFKMq8sld) | [Daft Punk](https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi) | [Random Access Memories \(10th Anniversary Edition\)](https://open.spotify.com/album/4mAhdh996uW5SnnFKXUmC0) | 4:46 | 2023-06-19 | 2023-07-21 |
 | [Psychic](https://open.spotify.com/track/64pUytZWfCpeeMBN0XAadF) | [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z), [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [Breezy](https://open.spotify.com/album/31U6s6obQrBLTqyvqfqzlM) | 3:40 | 2022-08-31 | 2022-11-10 |
-| [PSYCHO \(feat\. Future\)](https://open.spotify.com/track/4yaPq3rYoVuiEaYseu8WwM) | [Trippie Redd](https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [MANSION MUSIK](https://open.spotify.com/album/0gYO5kywXhGIuXpQiewdNZ) | 4:38 | 2023-10-05 |  |
+| [PSYCHO](https://open.spotify.com/track/5iB06Mrc7Wl8iAKDdBf0BI) | [Trippie Redd](https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [MANSION MUSIK](https://open.spotify.com/album/2n80BeH2HCeIwf3xKSDQUj) | 4:38 | 2023-10-05 |  |
+| [PSYCHO \(feat\. Future\)](https://open.spotify.com/track/4yaPq3rYoVuiEaYseu8WwM) | [Trippie Redd](https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [MANSION MUSIK](https://open.spotify.com/album/0gYO5kywXhGIuXpQiewdNZ) | 4:38 | 2023-10-05 | 2023-10-22 |
 | [PUFFIN ON ZOOTIEZ](https://open.spotify.com/track/5qgFgsrrxOjyPmX5YCuK2E) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [I NEVER LIKED YOU](https://open.spotify.com/album/6ViO9Wx6dWzeUq6DmGTaHl) | 2:52 | 2022-06-03 | 2022-09-01 |
 | [put out fye](https://open.spotify.com/track/5FaS5hLw4UEo9nui6Ll0o3) | [Summrs](https://open.spotify.com/artist/5L15t6I0PQS9SBXbiklPEN) | [What We Have](https://open.spotify.com/album/6mNYZNJ4a0tzSS3nPVnkO2) | 2:52 | 2022-06-03 | 2022-06-14 |
 | [Put Your Head On My Shoulder](https://open.spotify.com/track/2DpJ9T2RVRanZcYFHKOAfA) | [Paul Anka](https://open.spotify.com/artist/7ceUfdWq2t5nbatS6ollHh) | [Put Your Head On My Shoulder: The Very Best Of Paul Anka](https://open.spotify.com/album/75zBkbUSaFzpyPa1mBDjON) | 2:34 | 2023-03-31 | 2023-06-20 |

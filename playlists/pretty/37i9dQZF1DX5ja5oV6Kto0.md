@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5ja5oV6Kto0.md) - [plain]
 
 > The contemporary new wave of alternative, genre\-bending and creative afro\-fusion music\. Cover: Kida Kudz, Boj and Pheelz
 
-[Spotify](https://open.spotify.com/user/spotify) - 85,177 likes - 80 songs - 3 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 85,209 likes - 80 songs - 3 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5ja5oV6Kto0.md) - [plain]
 | 79 | [Boytoy](https://open.spotify.com/track/26JP5SQwytblnVcW1x9kGc) | [SGaWD](https://open.spotify.com/artist/4ufHiOJK9tL0y3QfNwGJ6l) | [Boytoy](https://open.spotify.com/album/3FrtQZ6SzVEnCu8jebdrP7) | 2:19 |
 | 80 | [Play](https://open.spotify.com/track/7jdL6NTClwvVkJipnLRdhi) | [Kah\-Lo](https://open.spotify.com/artist/59iOp415oyqGlBHyAhu4z3) | [Pain/Pleasure](https://open.spotify.com/album/2PDLRqHuLXz6X9pzaeRh19) | 3:19 |
 
-Snapshot ID: `MCxkZDgyOTYzNmY2MGI0MTA3ODY2MjdiMTQ1ZTY3OTI5MTRhMjc3OTE1`
+Snapshot ID: `MCxmZDU2YzkzMzZkZmMwOGMyNmU0ODVhMmMwY2Q2MzQxNDU1YjUyM2Zj`

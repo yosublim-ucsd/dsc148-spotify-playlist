@@ -4,7 +4,7 @@
 
 > n3xt l3v3l gaming beats.
 
-195 songs - 7 hr 58 min
+197 songs - 8 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,6 +25,7 @@
 | [Baleari](https://open.spotify.com/track/2FzjrkecNKLDLGKYCyR0WF) | [Valhallz](https://open.spotify.com/artist/5lIQiCIm32WqGlcDYxJRWh) | [Baleari](https://open.spotify.com/album/5a4Mfj0XeE99KXxIJlf34Y) | 3:29 | 2023-09-08 |  |
 | [barred](https://open.spotify.com/track/5G8twxy897fzWrjYgrt6Mi) | [May\-Flowa](https://open.spotify.com/artist/3nYAsFmuTO2M6A9Gpb8CCr) | [barred](https://open.spotify.com/album/7p996F0pe2XTafw6uyQoD1) | 1:56 | 2023-09-29 |  |
 | [Be Alright](https://open.spotify.com/track/7ymPlo1nmsg5g5bGfrrqmh) | [Beation](https://open.spotify.com/artist/6V0pdsJyn81xdeFmeHWQfa) | [Be Alright](https://open.spotify.com/album/59gXyig25Qw52kJr4rtgQP) | 2:12 | 2023-01-20 | 2023-10-19 |
+| [be glossy](https://open.spotify.com/track/2D2dkAz0unaWMCgSadf7Yp) | [Hype Right](https://open.spotify.com/artist/5WyDwnrZMIyg4iDWrZuva4) | [double espresso](https://open.spotify.com/album/1PxI6cttkIIoRuwqgWS6GU) | 1:34 | 2023-10-20 |  |
 | [Beach & Berries](https://open.spotify.com/track/10zYErxZB71gJnKk5iaQD9) | [Kantboll](https://open.spotify.com/artist/0bKRZMzwgUflqx6PP7Glfn) | [Beach & Berries](https://open.spotify.com/album/4q6YuYWtSiwaLvEZid6GzQ) | 2:04 | 2022-04-22 | 2023-01-11 |
 | [Beauty](https://open.spotify.com/track/5qVYvn1qfR6oIsV2O3WgxN) | [W8lss](https://open.spotify.com/artist/5WNLGMfzBzzqeRuODrfQZ7) | [Beauty](https://open.spotify.com/album/5H5LBXcN86oigxMAyVZAKE) | 1:51 | 2023-09-29 |  |
 | [behind the hill](https://open.spotify.com/track/4ymiPIQcRZgppsh4ocLfps) | [kenshin kai](https://open.spotify.com/artist/62UDyIYUmhoCAVbC8huIyS) | [behind the hill](https://open.spotify.com/album/5xQO5k3msz12al8SmyxZQv) | 2:12 | 2022-04-22 |  |
@@ -59,7 +60,7 @@
 | [Flip Around](https://open.spotify.com/track/2nQqrEnAZgyP3GcT7tMIdz) | [Eli Stewart](https://open.spotify.com/artist/2cyxeWKnrm59EavSUK4h7O) | [Flip Around](https://open.spotify.com/album/4LZgxPGON2n2BTm3njiVcE) | 2:37 | 2022-04-22 |  |
 | [Fly by Night](https://open.spotify.com/track/5u3vpXS3p1NEPGpK87MfTO) | [Ballpoint](https://open.spotify.com/artist/5vbgY6zVUKz1haJv618QvC) | [Fly By Night](https://open.spotify.com/album/3XDxXhJUcii0AcwIiqkIsm) | 2:09 | 2022-04-22 |  |
 | [Foemeo](https://open.spotify.com/track/6yRz4gpq370pGg5hKTp91X) | [Earium](https://open.spotify.com/artist/2zoujD3saJt6zYDh6Wu1Uq) | [Foemeo](https://open.spotify.com/album/0H5rVwDQTq53oKuwSAMvoc) | 2:15 | 2022-04-22 |  |
-| [Force For Good](https://open.spotify.com/track/1hsjVfesh0OmNUVR22FoSW) | [Sleepy Tigers](https://open.spotify.com/artist/1DK5TN3sWOFCRHTQYODjpH) | [Force For Good](https://open.spotify.com/album/6a8iGSnoU0xLvNEiFRbmAe) | 2:48 | 2022-04-22 |  |
+| [Force For Good](https://open.spotify.com/track/1hsjVfesh0OmNUVR22FoSW) | [Sleepy Tigers](https://open.spotify.com/artist/1DK5TN3sWOFCRHTQYODjpH) | [Force For Good](https://open.spotify.com/album/6a8iGSnoU0xLvNEiFRbmAe) | 2:48 | 2022-04-22 | 2023-10-22 |
 | [Free Snacks](https://open.spotify.com/track/6dDQqJL7cYfeYmFzBFcGXr) | [Sarah, the Illstrumentalist](https://open.spotify.com/artist/4D8x1OO5HeS7yQaSoSbAc6), [Megan Wofford](https://open.spotify.com/artist/3ac7SLoq4Rbms8XZE0rdkA) | [Free Snacks](https://open.spotify.com/album/5JClcgCx1zjbTpzMCDBY2o) | 2:33 | 2022-04-22 | 2023-09-09 |
 | [Fresher Scents](https://open.spotify.com/track/2AyGe2TYtgvJ7xyM3db0jH) | [Nokawa](https://open.spotify.com/artist/2oEffj6YkFOVSxj6uiK8g7) | [Fresher Scents](https://open.spotify.com/album/2MRysprtYZtG0PxCRS2gVj) | 1:51 | 2022-04-22 |  |
 | [Fromage Frais](https://open.spotify.com/track/6VhMdls0mTxYlMj62ZVGK8) | [Damien Thorpe](https://open.spotify.com/artist/2gWKTDvpiP3BHKAU07jBYW) | [Fromage Frais](https://open.spotify.com/album/4r833ilfTlysiJbHPxN79J) | 2:31 | 2022-05-13 | 2023-09-09 |
@@ -125,7 +126,7 @@
 | [Not Like This](https://open.spotify.com/track/7HY7caGt2kKJAtu756UcB8) | [Prince Enigma](https://open.spotify.com/artist/25Koobl2J39h8hlZzsT30t) | [Not Like This](https://open.spotify.com/album/7eWBzYLHIvD6Tj1JeG8NUX) | 2:43 | 2023-09-29 |  |
 | [oasis](https://open.spotify.com/track/7GIBH22qY9MFfnoZZtBn4P) | [Cyan\_95](https://open.spotify.com/artist/2F0ArRuBoD4jl4bM8fNyiU) | [oasis](https://open.spotify.com/album/0quVUjufhVdhBPiggdCl3k) | 2:10 | 2023-09-29 |  |
 | [Office Hours](https://open.spotify.com/track/1wT08JjKyu3iUj52fAQAZz) | [Assistant Manager](https://open.spotify.com/artist/15sr5wzsH17p3tFje4h9Tl) | [Office Hours](https://open.spotify.com/album/5sqwRtt3nAnfnlAKITRF1c) | 1:58 | 2022-04-22 |  |
-| [Old Fashioned](https://open.spotify.com/track/0lOP0k0Flt9K3oGd78OwMw) | [lowclowds](https://open.spotify.com/artist/25oJa6BWwoxxrNa299VMh1) | [Old Fashioned](https://open.spotify.com/album/7r26BSZm9wHxpagpuT47hj) | 3:17 | 2022-04-22 |  |
+| [Old Fashioned](https://open.spotify.com/track/0lOP0k0Flt9K3oGd78OwMw) | [lowclowds](https://open.spotify.com/artist/25oJa6BWwoxxrNa299VMh1) | [Old Fashioned](https://open.spotify.com/album/7r26BSZm9wHxpagpuT47hj) | 3:17 | 2022-04-22 | 2023-10-22 |
 | [On The Tools](https://open.spotify.com/track/6ngXfR9v3aibV1eFFMI92z) | [Nose Deck Tail](https://open.spotify.com/artist/1QyQ9LA9HRLGfuNeGwJ1pM) | [On The Tools](https://open.spotify.com/album/4qs7aCCS0H7OaH1yw0f5ZP) | 3:12 | 2022-04-22 |  |
 | [On The Wall](https://open.spotify.com/track/3jnW3GdgCYBQ6PCaSY4wUC) | [Auto Smile](https://open.spotify.com/artist/3hcGTiuDVvU1UZiHECDyQP) | [On The Wall](https://open.spotify.com/album/0JHJWQGpFUY9OQE0cra2ju) | 2:07 | 2022-04-22 | 2023-09-09 |
 | [One Day Soon](https://open.spotify.com/track/0PvHzafa2I1vuVo2uwC7xq) | [Lazy Leopard](https://open.spotify.com/artist/41IKlkMyLVlT0OAkxXQtw4) | [One Day Soon](https://open.spotify.com/album/0kGTLVRLQbPyu9DvDcK1bK) | 1:47 | 2022-04-22 |  |
@@ -200,6 +201,7 @@
 | [Willow Whip](https://open.spotify.com/track/11NjsqNM0Kwnqop5rCYlpq) | [Vanilla Beach](https://open.spotify.com/artist/4gJj9oQfNWsfgwKYeUdlCe) | [Willow Whip](https://open.spotify.com/album/5G7mHOpSZbzMi857KYssc5) | 3:07 | 2022-04-22 | 2023-09-09 |
 | [Worth It](https://open.spotify.com/track/79s7lALWj5I5LS2v37APK3) | [Fadez N Rizer](https://open.spotify.com/artist/0Byvk0rx8JPDyTBHKnIfbP) | [Worth It](https://open.spotify.com/album/7rix5AYPgRpy0AD9EfUT9x) | 2:46 | 2022-05-16 |  |
 | [Write Off](https://open.spotify.com/track/621MnT5Wi73X0Gp2lmwZ0M) | [Charles Hewits](https://open.spotify.com/artist/2ZvZcOt4Ybj9aTI4FZ1amd) | [Write Off](https://open.spotify.com/album/3pgXKSIeRbS7RLbeLnubHd) | 2:44 | 2022-04-22 |  |
+| [Yahooee](https://open.spotify.com/track/1Ou9wBe9oTjj4Seohu0Vvf) | [Nick's chill factory](https://open.spotify.com/artist/3QJraihPHVrl3gSNaXLEr9) | [Yahooee](https://open.spotify.com/album/5z9Clk4g8ToC3tuU0yPQ13) | 2:18 | 2023-10-20 |  |
 | [yeppurs](https://open.spotify.com/track/5P14FWcco2lfKl8ivOYIBL) | [pukks](https://open.spotify.com/artist/13FOxVWcunkuGPcJrulWhy) | [jalapeno](https://open.spotify.com/album/671hq6yLBZGDj3c8rikD1L) | 1:56 | 2022-04-22 | 2023-04-12 |
 | [Zen Garden](https://open.spotify.com/track/7qxegYMSSDPWUzoYwuRyGP) | [TheDewk](https://open.spotify.com/artist/5gnerJQeC6DOhWziTjPITZ) | [Zen Garden](https://open.spotify.com/album/4xQA5eeimIihBD6lVHqy6U) | 2:45 | 2022-04-22 |  |
 | [Zero Kid](https://open.spotify.com/track/2KqytWnOq1LQiIdcQo9F6o) | [Cade Farrow](https://open.spotify.com/artist/5TQdkMfx0iTM2E4esccYaL) | [Zero Kid](https://open.spotify.com/album/2xmauxQf9b99OJKrppq6lb) | 2:19 | 2022-04-22 | 2023-09-09 |

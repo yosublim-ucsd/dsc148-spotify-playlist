@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0j8ATpV1eln.md) - [plain]
 
 > 2001年バンドSound Scheduleのメンバーとしてデビュー。ソロ名義「オーイシマサヨシ」およびユニットOxTでは、アニメ音楽シーンの立役者として知られる作曲家/アーティスト。
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,944 likes - 82 songs - 5 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,948 likes - 82 songs - 5 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Princess' Happy Ending](https://open.spotify.com/track/5q1Kl4azsGJXk6N8wLMQdI) | [Sumire Uesaka](https://open.spotify.com/artist/4hRg5l2hXQl3lAzffFF8P8) | [Princess' Happy Ending](https://open.spotify.com/album/3Mug6SQYCxcd0CtlLVqd4O) | 3:28 |
+| 1 | [Princess' Happy Ending](https://open.spotify.com/track/24vRXvYkICy96v83qLHhMT) | [Sumire Uesaka](https://open.spotify.com/artist/4hRg5l2hXQl3lAzffFF8P8) | [Princess' Happy Ending](https://open.spotify.com/album/35HvSyER3h21DPhsyv545F) | 3:28 |
 | 2 | [最果てのスーパースター](https://open.spotify.com/track/2LFuq0tLY45nizYFHFpeT7) | [Gero×天月×FAKE TYPE.](https://open.spotify.com/artist/6jD8iEr7TX9hRAQOgcrncM) | [THE ORIGIN](https://open.spotify.com/album/6WJxW7FvMwPXkh27Yus0VB) | 2:43 |
 | 3 | [Ogon Koro](https://open.spotify.com/track/6NKTXbkkPNBtqNMXUXgOfj) | [Masayoshi Oishi](https://open.spotify.com/artist/2NmgIfLAFl1DD1FZOY4YqC) | [Ogon Koro](https://open.spotify.com/album/6D5OUhDJ00zkuHe2Xk2WsH) | 3:21 |
 | 4 | [Shinda!](https://open.spotify.com/track/2wLuWWfrOHnPjbC3CUuuZ9) | [Masayoshi Oishi](https://open.spotify.com/artist/2NmgIfLAFl1DD1FZOY4YqC) | [Shinda!](https://open.spotify.com/album/2VQMSyKrXpA0m6PECjU8sm) | 3:40 |
@@ -91,4 +91,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0j8ATpV1eln.md) - [plain]
 | 81 | [Moratorium Dance Floor \- Live](https://open.spotify.com/track/6YImKwLnSElvNSeMVbWixk) | [Masayoshi Oishi](https://open.spotify.com/artist/2NmgIfLAFl1DD1FZOY4YqC) | [Masayoshi Oishi One\-Man Live Entertainer](https://open.spotify.com/album/4TQelLZa9wM5cW9OdWIdLM) | 3:54 |
 | 82 | [Otomodachi Film \- Live](https://open.spotify.com/track/6YMWAFs84TJWbW0zBZAhQQ) | [Masayoshi Oishi](https://open.spotify.com/artist/2NmgIfLAFl1DD1FZOY4YqC) | [Masayoshi Oishi One\-Man Live Entertainer](https://open.spotify.com/album/4TQelLZa9wM5cW9OdWIdLM) | 3:33 |
 
-Snapshot ID: `MCwwYjkxMDZlZTIyZjRkMDRkMmM0OWRhNWFiOTg3YzJhZmRiNTUxNWM4`
+Snapshot ID: `MCw3MDZhNzdlOTdjMTNlMzZjZTU3Nzg5ZWFhMzRiNjM5MTA0ZTFlZmZj`

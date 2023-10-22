@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O2z77nfMgH.md) - [plain]
 
 > Lanzamientos de la semana\. Música nueva de toda la región\. Foto: Kali Uchis
 
-[Spotify](https://open.spotify.com/user/spotify) - 929,316 likes - 70 songs - 3 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 929,331 likes - 70 songs - 3 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,7 +26,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O2z77nfMgH.md) - [plain]
 | 16 | [CHULA](https://open.spotify.com/track/3X39TEP3dMfJzvYJrp18UH) | [Michelle Maciel](https://open.spotify.com/artist/4WFwvZ4L8FZbt3qubbQJS6), [El Frizian](https://open.spotify.com/artist/2Oc5k5AzcBOoH470jTgZzp) | [CHULA](https://open.spotify.com/album/4KblreEPyinh0NwO6TjTSa) | 2:48 |
 | 17 | [She is wow](https://open.spotify.com/track/6757J4yuJkeZplKJhHcs8N) | [Los Tigres Del Norte](https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy) | [She is wow](https://open.spotify.com/album/2LReSlehquP6maXXFBpqwL) | 3:06 |
 | 18 | [Demasiado](https://open.spotify.com/track/2KlBM1T4tycrEs4PihwZBa) | [Gente De Zona](https://open.spotify.com/artist/2cy1zPcrFcXAJTP0APWewL) | [Demasiado](https://open.spotify.com/album/6A3Dfm8EF4TBMnlYOP9hY0) | 3:19 |
-| 19 | [Bienvenidos a Mi Barrio](https://open.spotify.com/track/4uRBz2dXQnwi0GyZzvijyM) | [Callejero Fino](https://open.spotify.com/artist/6GRwwWAtmusrgAL5JF9Dfr) | [Bienvenidos a mi barrio](https://open.spotify.com/album/7c6XRLWcvCYf5slViBDKmF) | 2:53 |
+| 19 | [Bienvenidos a Mi Barrio](https://open.spotify.com/track/4uRBz2dXQnwi0GyZzvijyM) | [Callejero Fino](https://open.spotify.com/artist/6GRwwWAtmusrgAL5JF9Dfr), [DJ Tao](https://open.spotify.com/artist/5CA5IqbsFr4hpNLdjgO0BU) | [Bienvenidos a Mi Barrio](https://open.spotify.com/album/7c6XRLWcvCYf5slViBDKmF) | 2:53 |
 | 20 | [Count Money](https://open.spotify.com/track/7LmPLDKwlYZLscMSH16maY) | [Oplus](https://open.spotify.com/artist/2JQQDzeOEkRz7ld1pekbw0), [Pablo Chill\-E](https://open.spotify.com/artist/2XcZshqzPKm3iZcmt73R8D), [Kaydy Cain](https://open.spotify.com/artist/4nXXIxTneJksvGXrlmX8oA), [The Best Soundz](https://open.spotify.com/artist/2exrpIj2TWt6s5YBqTqqbr), [Felp 22](https://open.spotify.com/artist/56IPf5d631ccKOTmo8RFHK) | [Count Money](https://open.spotify.com/album/5QtYYHL5Z88Dz4mEy8qmSG) | 3:43 |
 | 21 | [Mentiras](https://open.spotify.com/track/2wUmYFiVDBPem4AfPGscsM) | [Dharius](https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0), [C\-Kan](https://open.spotify.com/artist/1QhaqxeqF9sipS2gwbEKpu), [MC Davo](https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I) | [Mentiras](https://open.spotify.com/album/2OppjQEXGEldFhZA7PZwPK) | 4:43 |
 | 22 | [Volver A Empezar](https://open.spotify.com/track/2x4iEvdZuTYNbIVGXeOrlY) | [Asan](https://open.spotify.com/artist/6Nl4VXcX86fBMO4YE6oYfN), [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg) | [Bellas Artes Malas Vidas](https://open.spotify.com/album/6nQnNie5sdURxPiMW9cp0Y) | 3:56 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O2z77nfMgH.md) - [plain]
 | 69 | [Track 001](https://open.spotify.com/track/1vYa4X5IWUNj96pqGyA7Ck) | [Vera Delacruz](https://open.spotify.com/artist/1A8TnoKY8MmXA4pKYNm4Bt) | [Track 001](https://open.spotify.com/album/4d6T4rYs3jZZRMCRLWl8oi) | 3:07 |
 | 70 | [De Pie Es La Lucha](https://open.spotify.com/track/5Gag8UscRudKeuAIOK9srO) | [Eddy Mugre](https://open.spotify.com/artist/4Jj53RUvud8LQYuM3cPh25) | [The Vibraphone is Back](https://open.spotify.com/album/6eLC0XQ6OEOUyGuiDLQ0ZA) | 3:33 |
 
-Snapshot ID: `MCwzOWZkY2UzYjJmNmMwYjkwNjNkNWE2NzQyNDdkYmMxZDFlNmE5Yjkx`
+Snapshot ID: `MCxkY2RmOWFmODAxMDhjZTExYTM3ZWEyN2U1MDZmZWQwYmJhNGVkNDUx`

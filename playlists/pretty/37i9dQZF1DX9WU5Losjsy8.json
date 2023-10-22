@@ -1,12 +1,12 @@
 {
   "description": "Ist nur einmal im Jahr!",
-  "num_followers": 364658,
+  "num_followers": 364921,
   "original_name": "Malle Party 2023",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmOTdjOTQ5NGQzZGUxZDY1ODJhMzZmMmRkOWY2ZTVlYTg3MjY5MjBm",
+  "snapshot_id": "MCxmYWEzMzc1OTFkMzM4NTcwYWI0OWQ3YjRmMWVkYWFkZGVmN2QwNDYw",
   "tracks": [
     {
       "added_at": "2023-10-20 15:43:15",
@@ -415,6 +415,22 @@
     {
       "added_at": "2023-10-20 15:43:15",
       "album": {
+        "name": "King Kong",
+        "url": "https://open.spotify.com/album/4RBDtEQ86Uj6hQ1b31H03n"
+      },
+      "artists": [
+        {
+          "name": "HBz",
+          "url": "https://open.spotify.com/artist/7I2JG3CcPawkeQPE7uypHJ"
+        }
+      ],
+      "duration_ms": 156120,
+      "name": "King Kong",
+      "url": "https://open.spotify.com/track/7GIlBNE6pZRfoRfo4oL7f0"
+    },
+    {
+      "added_at": "2023-10-20 15:43:15",
+      "album": {
         "name": "Rapunzel (DJ Robin Remix)",
         "url": "https://open.spotify.com/album/3dr4AKRx355JOuK77zvyvX"
       },
@@ -435,22 +451,6 @@
       "duration_ms": 165045,
       "name": "Rapunzel - DJ Robin Remix",
       "url": "https://open.spotify.com/track/2WQBFD9aMY1HldcU7Ekvp1"
-    },
-    {
-      "added_at": "2023-10-20 15:43:15",
-      "album": {
-        "name": "King Kong",
-        "url": "https://open.spotify.com/album/4RBDtEQ86Uj6hQ1b31H03n"
-      },
-      "artists": [
-        {
-          "name": "HBz",
-          "url": "https://open.spotify.com/artist/7I2JG3CcPawkeQPE7uypHJ"
-        }
-      ],
-      "duration_ms": 156120,
-      "name": "King Kong",
-      "url": "https://open.spotify.com/track/7GIlBNE6pZRfoRfo4oL7f0"
     },
     {
       "added_at": "2023-10-20 15:43:15",
@@ -507,6 +507,22 @@
     {
       "added_at": "2023-10-20 15:43:15",
       "album": {
+        "name": "Auf dem Besen an den Tresen",
+        "url": "https://open.spotify.com/album/47ih6wlWo3moVGDo6EiwuH"
+      },
+      "artists": [
+        {
+          "name": "Milla Pink",
+          "url": "https://open.spotify.com/artist/3SPz8uSbGWbwUF6zWGUpJ5"
+        }
+      ],
+      "duration_ms": 182608,
+      "name": "Auf dem Besen an den Tresen",
+      "url": "https://open.spotify.com/track/4z57csWGtiNCLzxBMsnIDU"
+    },
+    {
+      "added_at": "2023-10-20 15:43:15",
+      "album": {
         "name": "BIER",
         "url": "https://open.spotify.com/album/2SDMGLfkqgDiysROV2CfhC"
       },
@@ -527,22 +543,6 @@
       "duration_ms": 129652,
       "name": "BIER",
       "url": "https://open.spotify.com/track/44Elooy8S8twBdOoVVHPDA"
-    },
-    {
-      "added_at": "2023-10-20 15:43:15",
-      "album": {
-        "name": "Auf dem Besen an den Tresen",
-        "url": "https://open.spotify.com/album/47ih6wlWo3moVGDo6EiwuH"
-      },
-      "artists": [
-        {
-          "name": "Milla Pink",
-          "url": "https://open.spotify.com/artist/3SPz8uSbGWbwUF6zWGUpJ5"
-        }
-      ],
-      "duration_ms": 182608,
-      "name": "Auf dem Besen an den Tresen",
-      "url": "https://open.spotify.com/track/4z57csWGtiNCLzxBMsnIDU"
     },
     {
       "added_at": "2023-10-20 15:43:15",
@@ -635,6 +635,22 @@
     {
       "added_at": "2023-10-20 15:43:15",
       "album": {
+        "name": "MDMA",
+        "url": "https://open.spotify.com/album/283DpmSSsjHAafXO5zfd4G"
+      },
+      "artists": [
+        {
+          "name": "Little Sis Nora",
+          "url": "https://open.spotify.com/artist/1KYt3TMGpa1LtVi0m2A0F9"
+        }
+      ],
+      "duration_ms": 128713,
+      "name": "MDMA",
+      "url": "https://open.spotify.com/track/4c1TXKNAh4yb5cb0zE3x1X"
+    },
+    {
+      "added_at": "2023-10-20 15:43:15",
+      "album": {
         "name": "Partysau",
         "url": "https://open.spotify.com/album/7os2XcLO5jiSftCstEWzAI"
       },
@@ -651,22 +667,6 @@
       "duration_ms": 115680,
       "name": "Partysau",
       "url": "https://open.spotify.com/track/0tEr9vAe483LIkxQOEk55R"
-    },
-    {
-      "added_at": "2023-10-20 15:43:15",
-      "album": {
-        "name": "MDMA",
-        "url": "https://open.spotify.com/album/283DpmSSsjHAafXO5zfd4G"
-      },
-      "artists": [
-        {
-          "name": "Little Sis Nora",
-          "url": "https://open.spotify.com/artist/1KYt3TMGpa1LtVi0m2A0F9"
-        }
-      ],
-      "duration_ms": 128713,
-      "name": "MDMA",
-      "url": "https://open.spotify.com/track/4c1TXKNAh4yb5cb0zE3x1X"
     },
     {
       "added_at": "2023-10-20 15:43:15",
@@ -1511,26 +1511,18 @@
     {
       "added_at": "2023-10-20 15:43:15",
       "album": {
-        "name": "Blockfl\u00f6tenunterricht",
-        "url": "https://open.spotify.com/album/1SmbclDf51xHvmCnWocak8"
+        "name": "Marie",
+        "url": "https://open.spotify.com/album/4mcC9YpL3rtRWUDpGPE2XP"
       },
       "artists": [
         {
-          "name": "HBz",
-          "url": "https://open.spotify.com/artist/7I2JG3CcPawkeQPE7uypHJ"
-        },
-        {
-          "name": "Mia Julia",
-          "url": "https://open.spotify.com/artist/3tN4jv8IaO9UAKTWqpXaV4"
-        },
-        {
-          "name": "Pottsau",
-          "url": "https://open.spotify.com/artist/0XRGK8re2VVOL05DsNnsu6"
+          "name": "Die Draufg\u00e4nger",
+          "url": "https://open.spotify.com/artist/6poBa7e0hqMo8tfNjh0TAV"
         }
       ],
-      "duration_ms": 155139,
-      "name": "Blockfl\u00f6tenunterricht",
-      "url": "https://open.spotify.com/track/6wWF5ahS0ebMhgOk6JbrcB"
+      "duration_ms": 200314,
+      "name": "Marie",
+      "url": "https://open.spotify.com/track/1vCEGctxBKGxWeMS46cCoe"
     }
   ],
   "unique_name": "Malle Party 2023",

@@ -1208,6 +1208,24 @@
     {
       "album": {
         "name": "Step Forward",
+        "url": "https://open.spotify.com/album/3wGPw3tffcWEPsCprWzvP3"
+      },
+      "artists": [
+        {
+          "name": "New York Ska-Jazz Ensemble",
+          "url": "https://open.spotify.com/artist/0ADVX4vKQN1saCsOdl67Fj"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256000,
+      "name": "Boogie Stop Shuffle",
+      "url": "https://open.spotify.com/track/16kCh9rnBTGunZJ9LVeRo8"
+    },
+    {
+      "album": {
+        "name": "Step Forward",
         "url": "https://open.spotify.com/album/7CTa40f16I1EjYJUa724iE"
       },
       "artists": [
@@ -5718,7 +5736,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-22",
       "duration_ms": 162786,
       "name": "No More Sorrow",
       "url": "https://open.spotify.com/track/5EmDJCyGAHu5DpijFXAu6r"
@@ -8166,6 +8184,28 @@
     {
       "album": {
         "name": "...and the usual suspects",
+        "url": "https://open.spotify.com/album/4RBq321rOdaU2pwSIIS5zJ"
+      },
+      "artists": [
+        {
+          "name": "Oxo86",
+          "url": "https://open.spotify.com/artist/0HsB2g2AEmb44yfaKKUtF5"
+        },
+        {
+          "name": "Ole - Brutal Bravo",
+          "url": "https://open.spotify.com/artist/1UUxklAL8KBU8eiQPwtMXx"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239725,
+      "name": "Sometimes",
+      "url": "https://open.spotify.com/track/3eSIZFcNGhA4bPJ9CMmjdF"
+    },
+    {
+      "album": {
+        "name": "...and the usual suspects",
         "url": "https://open.spotify.com/album/4JSDJl3up38ofpV6G0cPGe"
       },
       "artists": [
@@ -9882,7 +9922,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-22",
       "duration_ms": 188800,
       "name": "Utakatarattara",
       "url": "https://open.spotify.com/track/43xCf1kLDNLNzdDu5V5qZS"

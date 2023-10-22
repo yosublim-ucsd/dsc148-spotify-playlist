@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 
 > New music from Mustafa, TALK, Rêve, Sabrina Carpenter and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 349,831 likes - 100 songs - 5 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 349,873 likes - 100 songs - 5 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 | 99 | [Endless](https://open.spotify.com/track/21WrAUXoRE7d4eZ1esLTn3) | [Emilie Kahn](https://open.spotify.com/artist/5m2lu7cT7DE9J21Guso5EO) | [Endless](https://open.spotify.com/album/4whX5DCinatrkayabQF4gO) | 3:30 |
 | 100 | [Adeline](https://open.spotify.com/track/4FRWGnCl3aJOgkwhZWFoD6) | [j ember](https://open.spotify.com/artist/4UUDpbs7gikfzHz0CRvdnv) | [Adeline](https://open.spotify.com/album/2vAz96dnUJQIUx2L9Xmlel) | 3:48 |
 
-Snapshot ID: `MCxlOWNiNmIzMmNlN2JjYjhiOThkZmY1NzhhZThlMmU4ODM3YWRlNWM5`
+Snapshot ID: `MCw4NjE0YzZjZGE1MTI1YWMxYzA1YThlMjg3MDA4ODdiOThkZmMzYjU1`

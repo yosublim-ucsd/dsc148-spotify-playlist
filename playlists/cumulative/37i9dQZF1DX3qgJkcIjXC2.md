@@ -4,7 +4,7 @@
 
 > Spotify's first ever all\-women soccer playlist\. Built by your favorite players.
 
-131 songs - 7 hr 47 min
+133 songs - 7 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -79,7 +79,8 @@
 | [Little Things](https://open.spotify.com/track/1javLzBHyEKJJrG3s6FHaM) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [Little Things](https://open.spotify.com/album/4YBGGd7KYurLSbc6XKDnSO) | 3:24 | 2023-07-12 |  |
 | [live more & love more](https://open.spotify.com/track/1Oj4FgVngNgBTvd0a9nI2k) | [Cat Burns](https://open.spotify.com/artist/6WFDpw4u23uSpon4BHvFRn) | [live more & love more](https://open.spotify.com/album/5sgznu5iMVavhZy04BsUb4) | 2:38 | 2023-07-12 |  |
 | [Lonely](https://open.spotify.com/track/5rPIC7hQVaDSZryekHY89Z) | [Koffee](https://open.spotify.com/artist/1gWjcmBsveEYMxOZ0VRi32) | [Gifted](https://open.spotify.com/album/3OcgIT5qeI4lZnaUHqLQLi) | 4:08 | 2023-07-12 |  |
-| [MEZZO MONDO](https://open.spotify.com/track/5jFEjdZ3LYGOyEjfltgJeq) | [Emma](https://open.spotify.com/artist/0gzwXezN4IUHAwLufA6YcX) | [MEZZO MONDO](https://open.spotify.com/album/29WjYlJJ9IwJzDzLtIvXX1) | 3:34 | 2023-07-12 |  |
+| [MEZZO MONDO](https://open.spotify.com/track/4olVyzLKm4DqRkvtokAf1F) | [Emma](https://open.spotify.com/artist/0gzwXezN4IUHAwLufA6YcX) | [SOUVENIR](https://open.spotify.com/album/2heGtnvVhJfT1j5Z3UpjCA) | 3:34 | 2023-08-02 |  |
+| [MEZZO MONDO](https://open.spotify.com/track/5jFEjdZ3LYGOyEjfltgJeq) | [Emma](https://open.spotify.com/artist/0gzwXezN4IUHAwLufA6YcX) | [MEZZO MONDO](https://open.spotify.com/album/29WjYlJJ9IwJzDzLtIvXX1) | 3:34 | 2023-07-12 | 2023-10-22 |
 | [Mon Amour](https://open.spotify.com/track/1UcJs6RsX9upkeaFCNPBNs) | [Annalisa](https://open.spotify.com/artist/0EqkKYDK9EkKY5N7zU3FPv) | [Mon Amour](https://open.spotify.com/album/6q7bwUSY4WvyD6WkyDtbzH) | 3:23 | 2023-07-12 |  |
 | [Mother's Daughter](https://open.spotify.com/track/4tc97Wa8SP5f9gaaOar8Kq) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [SHE IS COMING](https://open.spotify.com/album/45wbw92Z6V8G8iPKFzSEPN) | 3:39 | 2023-07-12 |  |
 | [Na You Dey Reign](https://open.spotify.com/track/2cf0ayENplwaFuiG0aphAS) | [Mercy Chinwo](https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp) | [Na You Dey Reign](https://open.spotify.com/album/7EUG7ICDtR5G6FLseXjADm) | 4:27 | 2023-08-02 |  |
@@ -120,7 +121,8 @@
 | [Tears Dry On Their Own](https://open.spotify.com/track/6yLX8QnxlnEqZfs3YKCfjF) | [Amy Winehouse](https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR) | [Back To Black](https://open.spotify.com/album/097eYvf9NKjFnv4xA9s2oV) | 3:05 | 2023-07-12 |  |
 | [Telephone](https://open.spotify.com/track/7rl7ao5pb9BhvAzPdWStxi) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms), [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [The Fame Monster \(Deluxe Edition\)](https://open.spotify.com/album/6DGZdMi124iOOih9GMlhN2) | 3:40 | 2023-07-12 |  |
 | [Tennis Court](https://open.spotify.com/track/74fpNVAJrKGQuqHETi4WSt) | [Lorde](https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm) | [Pure Heroine](https://open.spotify.com/album/0rmhjUgoVa17LZuS8xWQ3v) | 3:18 | 2023-07-12 |  |
-| [Terms and Conditions](https://open.spotify.com/track/3vv2KJC3vaWPXXF5Ba7biE) | [Mahalia](https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI) | [Terms and Conditions](https://open.spotify.com/album/7CJe1NJRPmK5et3uevNQw5) | 3:29 | 2023-07-12 |  |
+| [Terms and Conditions](https://open.spotify.com/track/0gR8uAS5TNzsuWzWw9OR8C) | [Mahalia](https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI) | [IRL](https://open.spotify.com/album/7bKq4j24ElIraQgGgitmTh) | 3:29 | 2023-08-02 |  |
+| [Terms and Conditions](https://open.spotify.com/track/3vv2KJC3vaWPXXF5Ba7biE) | [Mahalia](https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI) | [Terms and Conditions](https://open.spotify.com/album/7CJe1NJRPmK5et3uevNQw5) | 3:29 | 2023-07-12 | 2023-10-22 |
 | [THE BOOGIE](https://open.spotify.com/track/2qdVGxtESeHLeuOI2RbYNM) | [Lex Leosis](https://open.spotify.com/artist/3l5iTPvfsSfyeaurhaAeh6), [Teon Gibbs](https://open.spotify.com/artist/6C526McCewIs40ZHQLrmZm) | [THE BOOGIE](https://open.spotify.com/album/6aG9Dc8vW4m9l8AiqKjXGa) | 2:13 | 2023-08-02 |  |
 | [This Is](https://open.spotify.com/track/3pdUv2fviypOdl1PTHDunH) | [Ella Mai](https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap) | [Heart On My Sleeve \(Deluxe Edition\)](https://open.spotify.com/album/4a1RnC5ioi77nDnOJXvTKs) | 3:26 | 2023-07-12 |  |
 | [Toast](https://open.spotify.com/track/7sd72KZS8D59g5NmhxyHpJ) | [Koffee](https://open.spotify.com/artist/1gWjcmBsveEYMxOZ0VRi32) | [Rapture EP](https://open.spotify.com/album/0v1VLjgwVun46wA13DWUJI) | 3:11 | 2023-07-12 |  |

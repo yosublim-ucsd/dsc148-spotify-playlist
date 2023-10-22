@@ -4,7 +4,7 @@
 
 > Hottest Anime tracks & best new sounds for all Anime fans! 最新アニメシーンの話題曲をまとめてお届け！Illustration by <a href="https://kazuhisauragami.com/"> Kazuhisa Uragami</a>
 
-1,000 songs - 2 day 15 hr 8 min
+1,001 songs - 2 day 15 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -408,7 +408,8 @@
 | [Preview](https://open.spotify.com/track/5WsbwswBs3C0vheCVFFy1Z) | [内田彩](https://open.spotify.com/artist/0M6zW75xJfkFNrxxawEdLz) | [Preview](https://open.spotify.com/album/1KZJgrEJoKlHtA2sH3OAUk) | 4:06 | 2023-04-06 | 2023-05-12 |
 | [PRIDE](https://open.spotify.com/track/4w1J2ejTHgtxRR6IvFoB8n) | [Novelbright](https://open.spotify.com/artist/0jWCX6zp4RjWrmZRxJ2uri) | [PRIDE](https://open.spotify.com/album/7A0ixTAOm6k9iyuYVX7lBb) | 3:37 | 2022-11-08 | 2023-01-13 |
 | [PRIDE](https://open.spotify.com/track/6YSiCQPEEEimysown5ad19) | [チョーキューメイ](https://open.spotify.com/artist/5ZFxExn8YICZm9JFo9dqTq) | [PRIDE](https://open.spotify.com/album/2NJhxr7Tt12VB7urrMuZmt) | 4:06 | 2023-07-18 | 2023-09-27 |
-| [Princess' Happy Ending](https://open.spotify.com/track/5q1Kl4azsGJXk6N8wLMQdI) | [Sumire Uesaka](https://open.spotify.com/artist/4hRg5l2hXQl3lAzffFF8P8) | [Princess' Happy Ending](https://open.spotify.com/album/3Mug6SQYCxcd0CtlLVqd4O) | 3:28 | 2023-10-17 |  |
+| [Princess' Happy Ending](https://open.spotify.com/track/24vRXvYkICy96v83qLHhMT) | [Sumire Uesaka](https://open.spotify.com/artist/4hRg5l2hXQl3lAzffFF8P8) | [Princess' Happy Ending](https://open.spotify.com/album/35HvSyER3h21DPhsyv545F) | 3:28 | 2023-10-19 |  |
+| [Princess' Happy Ending](https://open.spotify.com/track/5q1Kl4azsGJXk6N8wLMQdI) | [Sumire Uesaka](https://open.spotify.com/artist/4hRg5l2hXQl3lAzffFF8P8) | [Princess' Happy Ending](https://open.spotify.com/album/3Mug6SQYCxcd0CtlLVqd4O) | 3:28 | 2023-10-17 | 2023-10-22 |
 | [PSYCHO:LOGY](https://open.spotify.com/track/62BaD9fEhYmzRQxM3peM0O) | [Shouta Aoi](https://open.spotify.com/artist/4Kg3vBPMPfnYrnZo2A4czS) | [PSYCHO:LOGY](https://open.spotify.com/album/7396ox4eZXw2eCJNpYIs7B) | 3:54 | 2022-10-11 | 2022-11-25 |
 | [Queen of the Night](https://open.spotify.com/track/1gzlOAq7ozJ8X8VIbUN8yd) | [KanoeRana](https://open.spotify.com/artist/41xWPhTGTkBVZwftEX2Xft) | [Queen of the Night](https://open.spotify.com/album/3lU8QCp5YQfe488NNe7qQ2) | 4:13 | 2023-10-07 |  |
 | [Quiet explosion](https://open.spotify.com/track/221x9VoSuIZLz05MfJ9hVT) | [Mamoru Miyano](https://open.spotify.com/artist/1iR65pQAV4ssTTf9JRNr9X) | [Quiet explosion](https://open.spotify.com/album/3d4pqoNGR66q2B2A0DJaL9) | 3:26 | 2023-04-11 | 2023-04-27 |

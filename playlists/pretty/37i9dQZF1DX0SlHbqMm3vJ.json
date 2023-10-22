@@ -1,12 +1,12 @@
 {
   "description": "A collection R&B and Afropop cuts from West Africa\u2019s finest artists. Cover: Mayorkun",
-  "num_followers": 216162,
+  "num_followers": 216177,
   "original_name": "Ginger Me",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkY2ZiNTAxOTFkNjczYTM2ZDJiNzc4OWFiZWJjZDI4NTE1OThmNjc1",
+  "snapshot_id": "MCwxNDRjODViNGE2MGIxMzFkOTc4MjI0NGJjMjNjYjU2NzU0OWY2NTA1",
   "tracks": [
     {
       "added_at": "2023-10-20 00:01:00",
@@ -1323,22 +1323,6 @@
     {
       "added_at": "2023-10-20 00:01:00",
       "album": {
-        "name": "Sharp Attack",
-        "url": "https://open.spotify.com/album/0SjvPXWpMpndsohnyiS5n0"
-      },
-      "artists": [
-        {
-          "name": "Ninety",
-          "url": "https://open.spotify.com/artist/221i8CC98rJBZAaMM9sGLK"
-        }
-      ],
-      "duration_ms": 163413,
-      "name": "Sharp Attack",
-      "url": "https://open.spotify.com/track/2W45RFSn0zM0eH0GFHimHS"
-    },
-    {
-      "added_at": "2023-10-20 00:01:00",
-      "album": {
         "name": "Analyze Love",
         "url": "https://open.spotify.com/album/3tMt7EOBb1KBbfiKKJaWKj"
       },
@@ -1355,6 +1339,22 @@
       "duration_ms": 140410,
       "name": "Chocolati",
       "url": "https://open.spotify.com/track/2GnmljVcpgOs1kX2ysKazT"
+    },
+    {
+      "added_at": "2023-10-20 00:01:00",
+      "album": {
+        "name": "Sharp Attack",
+        "url": "https://open.spotify.com/album/0SjvPXWpMpndsohnyiS5n0"
+      },
+      "artists": [
+        {
+          "name": "Ninety",
+          "url": "https://open.spotify.com/artist/221i8CC98rJBZAaMM9sGLK"
+        }
+      ],
+      "duration_ms": 163413,
+      "name": "Sharp Attack",
+      "url": "https://open.spotify.com/track/2W45RFSn0zM0eH0GFHimHS"
     },
     {
       "added_at": "2023-10-20 00:01:00",

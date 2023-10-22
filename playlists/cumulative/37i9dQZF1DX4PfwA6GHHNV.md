@@ -4,7 +4,7 @@
 
 > pra curtir o puro afrobeats feito no Brasil.
 
-61 songs - 2 hr 54 min
+62 songs - 2 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,7 +24,7 @@
 | [Corpo Nu](https://open.spotify.com/track/7MJPdQG7vz2LanUrsVuyJN) | [Rare G](https://open.spotify.com/artist/2D0VerErpBua0yB6lozwRH), [Alee](https://open.spotify.com/artist/6rk6Izp6o42fUdE0jRqAP4), [Dallass](https://open.spotify.com/artist/4LAFtDzlQM89xov636hMVv) | [Corpo Nu](https://open.spotify.com/album/34yxeyLDLdBXvd3iCl35Ec) | 3:11 | 2023-09-15 |  |
 | [Deixa Eu Mostrar](https://open.spotify.com/track/28dzpx9Sn1jmAvCNLoKqd8) | [Danny](https://open.spotify.com/artist/7hD5x2RknluqTntIyuxzSa) | [Deixa Eu Mostrar](https://open.spotify.com/album/54aMRwjpAThmHSElGPvYQB) | 2:18 | 2023-09-15 |  |
 | [Deixa Falar](https://open.spotify.com/track/0FiYoFSKLu3UgbmfR6i0Ph) | [Yas](https://open.spotify.com/artist/3tFl0Vh4EoMvMutypugPYO) | [Deixa Falar](https://open.spotify.com/album/3dHxbFlLTseVIyhHyusGqu) | 2:16 | 2023-09-15 |  |
-| [Desacelera](https://open.spotify.com/track/6AKle6rT20sIcA55YYH8oY) | [Pejota](https://open.spotify.com/artist/3W10YNoIzqgJymjc5ULDzu), [Emiká](https://open.spotify.com/artist/4en1RCnkxLeusJGKXW9JDB) | [Desacelera](https://open.spotify.com/album/60lpVugPjTAKSHvTAjKfwo) | 2:44 | 2023-10-20 |  |
+| [Desacelera](https://open.spotify.com/track/6AKle6rT20sIcA55YYH8oY) | [Pejota](https://open.spotify.com/artist/3W10YNoIzqgJymjc5ULDzu), [Emiká](https://open.spotify.com/artist/4en1RCnkxLeusJGKXW9JDB) | [Desacelera](https://open.spotify.com/album/60lpVugPjTAKSHvTAjKfwo) | 2:44 | 2023-10-20 | 2023-10-22 |
 | [Do Mesmo Lado](https://open.spotify.com/track/58pRRdXapyxE1OUzZWXa4u) | [Criolo](https://open.spotify.com/artist/37ZflmHTdxkSLQuT8w9NBs), [Tropkillaz](https://open.spotify.com/artist/5bzWtCkjIAMgN93gLt56SO) | [Do Mesmo Lado](https://open.spotify.com/album/7wN4k8G4LfIsYxNnShicSu) | 2:38 | 2023-10-13 |  |
 | [Do Nada](https://open.spotify.com/track/6pSfaweiI9EbBCT4nJtnWF) | [Liu Beatz](https://open.spotify.com/artist/106xNJkxSAfb0o8GIt6joQ), [Kailê](https://open.spotify.com/artist/2FEn5mw19sRyH19X1snQLu), [Stanley Castro](https://open.spotify.com/artist/7LLv5yYIB0JNOIiYBeOGah) | [Do Nada](https://open.spotify.com/album/5mknumaaSzVG9Tul1H1v1F) | 3:25 | 2023-09-29 |  |
 | [Em Mim](https://open.spotify.com/track/0waABf8cZaYuSyRMCvQlFm) | [Liu Beatz](https://open.spotify.com/artist/106xNJkxSAfb0o8GIt6joQ), [Guetta FInelly](https://open.spotify.com/artist/1V9u0JLL2G1CTkI9Uf4nJX) | [Em Mim](https://open.spotify.com/album/24yXgj5YYaX70GSzazTuPq) | 2:06 | 2023-09-15 |  |
@@ -54,6 +54,7 @@
 | [Perigo](https://open.spotify.com/track/5hFhHT6WwgT6u7uiX3zlFQ) | [Peninha'](https://open.spotify.com/artist/02e9lRqB5AyDxWiLhakLu7), [Altamira](https://open.spotify.com/artist/12xPPAGu03vdZR3AmWNIxZ), [JovemBlues](https://open.spotify.com/artist/2ZHImurdtryvP7qUCFdDZH), [Thebosh](https://open.spotify.com/artist/6NCFegwTfE1dbVEOPrAGxI), [Liu Beatz](https://open.spotify.com/artist/106xNJkxSAfb0o8GIt6joQ) | [Perigo](https://open.spotify.com/album/1oFEEJiCKaUPk8h4yqVwvT) | 2:40 | 2023-09-15 |  |
 | [Promessas](https://open.spotify.com/track/0sm2tZy8hskQW46adEhKuB) | [Altamira](https://open.spotify.com/artist/12xPPAGu03vdZR3AmWNIxZ), [Kailê](https://open.spotify.com/artist/2FEn5mw19sRyH19X1snQLu) | [Promessas](https://open.spotify.com/album/5SzwkmVh7Udr3jRLgG2Bo3) | 2:10 | 2023-09-15 |  |
 | [Proveito](https://open.spotify.com/track/5N3znAB19oFAkGNrcBTPeD) | [Luedji Luna](https://open.spotify.com/artist/0sWTkzCrdEvuX7Du6MFLzc), [Zudizilla](https://open.spotify.com/artist/3QyfatVntfbVCZDKYFyim6) | [Proveito](https://open.spotify.com/album/6oFCxp73Skel2DgCzPQAH6) | 3:36 | 2023-09-15 |  |
+| [Quando cê vem](https://open.spotify.com/track/5yUVU8gXMjqNf7LMqvfoto) | [Alta Hits](https://open.spotify.com/artist/5gSCmAPeZWVeVIfW2i2Pyv), [Kailê](https://open.spotify.com/artist/2FEn5mw19sRyH19X1snQLu) | [Quando cê vem](https://open.spotify.com/album/3ujLo8nafDUnNuoAvROAuX) | 3:36 | 2023-10-20 |  |
 | [Quando Você Me Olha](https://open.spotify.com/track/6Z852WH6is9vPVdllAox6K) | [Bia Ferreira](https://open.spotify.com/artist/0Aj4m8El9TdnqyVHhkuloa) | [Faminta](https://open.spotify.com/album/6ekaLRjzflYYAS7qFBgNCj) | 3:33 | 2023-09-15 |  |
 | [Ressaca](https://open.spotify.com/track/6G5jevhPxuWf3bWiWosEzQ) | [Coruja Bc1](https://open.spotify.com/artist/6mw0OyFqwxCOmz1v3W3htO) | [Ressaca](https://open.spotify.com/album/7n6OgUHqVmMddUERyTONlG) | 3:58 | 2023-09-15 |  |
 | [S\-E\-X\-O](https://open.spotify.com/track/4ZmJCtrAAGzuYE97Is9Df7) | [HODARI](https://open.spotify.com/artist/21Z6OxfrB1jTI53TaDMm67) | [HODARI](https://open.spotify.com/album/2Jav8IMez2x2KzEbwSy154) | 3:04 | 2023-09-15 |  |

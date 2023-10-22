@@ -4,7 +4,7 @@
 
 > When everything around you is falling apart.
 
-86 songs - 5 hr 43 min
+87 songs - 5 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -82,7 +82,8 @@
 | [Roke Na Ruke Naina \(From "Badrinath Ki Dulhania"\)](https://open.spotify.com/track/6jzUvO5F2fnOvYqCTMd5U1) | [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw) | [Heart Touching Songs](https://open.spotify.com/album/17tjOnr6MqgosUNRmThObQ) | 4:38 | 2023-05-15 |  |
 | [Saaya](https://open.spotify.com/track/5fMbzjIsGUT4tVm55TOn8O) | [Mitraz](https://open.spotify.com/artist/3iGhlvzpXc0UHBQ7klAItX) | [Saaya](https://open.spotify.com/album/1Ov7xUOV1socUOw4KNKRLu) | 2:44 | 2023-05-15 |  |
 | [Tanha Rahun Main](https://open.spotify.com/track/0nJptnLo28LIFeZzcUlYG7) | [Pratsofficial](https://open.spotify.com/artist/29ggvWc5EMcSk5RLQ5aXHr), [Jahnavi Rao](https://open.spotify.com/artist/2OjHId4Ml8WRQL40hRj1Z6) | [Tanha Rahun Main](https://open.spotify.com/album/1wdykphFC8ZpQMDx7znwdx) | 4:50 | 2023-05-15 |  |
-| [Tera Chehra \(From "Sanam Teri Kasam"\)](https://open.spotify.com/track/6scAzfVRotuyZgGw8RRTN9) | [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw) | [Sanam Teri Kasam \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/20gToc2WrKuZEAMnZTjJ5s) | 4:34 | 2023-05-15 |  |
+| [Tera Chehra](https://open.spotify.com/track/5ov7wqme60lAfm92HuSbu4) | [egethevac](https://open.spotify.com/artist/0terBPKCAkmkh0u5QmFL7L) | [Tera Chehra](https://open.spotify.com/album/3SQyGqCCyLm4c60zqxe1x7) | 4:34 | 2023-10-17 |  |
+| [Tera Chehra \(From "Sanam Teri Kasam"\)](https://open.spotify.com/track/6scAzfVRotuyZgGw8RRTN9) | [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw) | [Sanam Teri Kasam \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/20gToc2WrKuZEAMnZTjJ5s) | 4:34 | 2023-05-15 | 2023-10-22 |
 | [Tera Zikr](https://open.spotify.com/track/0OfaueVeRebAfWsAHajj3z) | [Darshan Raval](https://open.spotify.com/artist/2GoeZ0qOTt6kjsWW4eA6LS) | [Tera Zikr](https://open.spotify.com/album/2khzKvw27vsWmb8xgnqxKb) | 3:28 | 2023-05-15 |  |
 | [Teri Yaad](https://open.spotify.com/track/3uUAbrwsttRpv2kfAvAUN9) | [Aditya Rikhari](https://open.spotify.com/artist/3ozYqVCLohfpXIhalkhM8D) | [Teri Yaad](https://open.spotify.com/album/1QE4rDAvMrYGSpVdbrFIRH) | 3:50 | 2023-05-15 |  |
 | [Tu hai kahan](https://open.spotify.com/track/3zSSCPpLZ5Oc8nelhhGjKz) | [AUR](https://open.spotify.com/artist/2cjQTf2J5yCaNY8qHpW855) | [Tu hai kahan](https://open.spotify.com/album/73vfz6Szer7i3GFIesix6l) | 4:23 | 2023-10-19 |  |

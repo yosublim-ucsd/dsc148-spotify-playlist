@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVn8zvR5ROMB.md) - [plain]
 
 > All of the newest country music releases in one playlist! Featuring Luke Grimes, Sam Hunt, Morgan Wade and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 223,540 likes - 75 songs - 4 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 223,868 likes - 75 songs - 4 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVn8zvR5ROMB.md) - [plain]
 | 74 | [Run Out](https://open.spotify.com/track/4uzkxvMRxOYs6gkI7qbe8o) | [Buck Twenty](https://open.spotify.com/artist/2qcJRDDUhoE32dwaMnnBgq) | [Run Out](https://open.spotify.com/album/0z4zdfSoUpR1bQGyLj1xDn) | 2:28 |
 | 75 | [I'm On the Whiskey](https://open.spotify.com/track/1NTGMWWIHteuQudgJXluU6) | [Chancey Williams](https://open.spotify.com/artist/6kaBU6Hz3GSkpRh6tfuA98) | [I'm On the Whiskey](https://open.spotify.com/album/0uUIJDaLtNuTSpuaAVGtUW) | 3:01 |
 
-Snapshot ID: `MCxmMGRhZDZhNWQxYzNjNjIxMTA0ZDQ3MzA1NjUyMzg4MTVmZDM0ZjFl`
+Snapshot ID: `MCxhNjlkN2FhNDAzYWVhNzIxMjkzZWJlYTMxOTFjNmRlNTNmZDgyOTRl`

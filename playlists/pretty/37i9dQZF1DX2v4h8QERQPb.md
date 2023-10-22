@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2v4h8QERQPb.md) - [plain]
 
 > Rimas argentinas\. Foto: Trueno.
 
-[Spotify](https://open.spotify.com/user/spotify) - 178,468 likes - 100 songs - 5 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 178,557 likes - 100 songs - 5 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2v4h8QERQPb.md) - [plain]
 | 6 | [El Canton Norte](https://open.spotify.com/track/5I1i5jcNTDAyndNwyPo2wu) | [Homer El Mero Mero](https://open.spotify.com/artist/0Xo4VFS3v07L0GwIVkZLfg) | [El 17](https://open.spotify.com/album/4ROGPs1BsQad0yWdZ0dXSj) | 2:45 |
 | 7 | [FUCK EL POLICE \- REMIX](https://open.spotify.com/track/3oIsx1ixRKtt4bZu9qT8Ut) | [Trueno](https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz), [Cypress Hill](https://open.spotify.com/artist/4P0dddbxPil35MNN9G2MEX) | [FUCK EL POLICE \(REMIX\)](https://open.spotify.com/album/5c5xfOQXKfJBHXNj1iAO5s) | 2:22 |
 | 8 | [Pa Morir Se Nace](https://open.spotify.com/track/5LM38gYHNnfUpOJorx79Yf) | [Homer El Mero Mero](https://open.spotify.com/artist/0Xo4VFS3v07L0GwIVkZLfg), [Lil Troca](https://open.spotify.com/artist/51Q6RZOMEMuZHySsfWLTtk) | [Pa Morir Se Nace](https://open.spotify.com/album/7o5b0dMIzT4kT5KnSX7fiF) | 2:05 |
-| 9 | [Flavor](https://open.spotify.com/track/6JkjgPrTLBAD1fBh1OOfDQ) | [T&K](https://open.spotify.com/artist/62zZb3lpCFBqLDjMccQgND), [FERNANDOCOSTA](https://open.spotify.com/artist/5dC7EcwWdf9Qj4VvJab4rZ), [Tensei One](https://open.spotify.com/artist/1T7nUn5Rl3Rmu4HgyIckl7) | [Flavor](https://open.spotify.com/album/1UpSx9vVKsQvl1VfzGtzDR) | 3:27 |
+| 9 | [Flavor](https://open.spotify.com/track/6JkjgPrTLBAD1fBh1OOfDQ) | [T&K](https://open.spotify.com/artist/62zZb3lpCFBqLDjMccQgND), [FERNANDOCOSTA](https://open.spotify.com/artist/5dC7EcwWdf9Qj4VvJab4rZ), [Tensei One](https://open.spotify.com/artist/1T7nUn5Rl3Rmu4HgyIckl7) | [Flavor](https://open.spotify.com/album/1UpSx9vVKsQvl1VfzGtzDR) | 2:36 |
 | 10 | [Novella \- Remix](https://open.spotify.com/track/7sSFw4sAVYDvMOrOYR5nKd) | [Marcelus Airlinez](https://open.spotify.com/artist/6FusXHu4kHX7uyPOnJ3H5Q), [Nucleo Aka Tintasucia](https://open.spotify.com/artist/3aiHWojYZp0ySEtBhywttr), [T&K](https://open.spotify.com/artist/62zZb3lpCFBqLDjMccQgND) | [Novella \(Remix\)](https://open.spotify.com/album/2lOaWxOv0IyIadLpK8LyyG) | 3:49 |
 | 11 | [La Vibe](https://open.spotify.com/track/3YCMLVzfHHZIcuQTjoeVGg) | [Dani Ribba](https://open.spotify.com/artist/6cC67GpmPCjQjOYLpmOGhN) | [La Vibe](https://open.spotify.com/album/1x2JTHTEXqF5XvadfXOujT) | 3:15 |
 | 12 | [Sobreviviente](https://open.spotify.com/track/6Vexfm0u1aiWDvyRxllGEg) | [Homer El Mero Mero](https://open.spotify.com/artist/0Xo4VFS3v07L0GwIVkZLfg) | [Sobreviviente](https://open.spotify.com/album/6VtNNW6TcBHzhEWnp7IDDV) | 3:00 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2v4h8QERQPb.md) - [plain]
 | 99 | [Sucio](https://open.spotify.com/track/02sz23KvVaBWsgtWAzZChM) | [Socio](https://open.spotify.com/artist/3UppqcmU2AFZ0YtWTYfxeD), [T&K](https://open.spotify.com/artist/62zZb3lpCFBqLDjMccQgND) | [Para La Envidia](https://open.spotify.com/album/7uvrUI2nKiAtVxBE5zCzjx) | 4:35 |
 | 100 | [Familia](https://open.spotify.com/track/44QmE5ujaF7M96CeJNGenk) | [Bardero$](https://open.spotify.com/artist/5Q2fyL2TcdUY9IqKTkGk5G) | [Familia](https://open.spotify.com/album/6PQv6xBgadgMfa6vx0rphw) | 3:46 |
 
-Snapshot ID: `MCxmMGZiYjEzMjEwMGQ0NTRmZWJkNGU3ZDQ2MDRmNzA2M2Q2ZDRlYmYx`
+Snapshot ID: `MCxmZDJjODcyMzUxMzI1ZjcyZjY0YWY3NWFmNGIwOTllODY2NGM3ODU5`

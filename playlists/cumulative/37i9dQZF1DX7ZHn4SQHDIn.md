@@ -4,7 +4,7 @@
 
 > All in us! ITZY is back with their first Japanese album!
 
-129 songs - 6 hr 51 min
+130 songs - 6 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -102,6 +102,7 @@
 | [Sooo LUCKY](https://open.spotify.com/track/6zqZfHvp3f9r4AF6G7Nhgl) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [CRAZY IN LOVE](https://open.spotify.com/album/4U7rGOkJgtxs27H9L93Xli) | 3:22 | 2022-07-22 |  |
 | [Sorry Not Sorry](https://open.spotify.com/track/4BV9bZOeH869aewS9lwTtM) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [GUESS WHO](https://open.spotify.com/album/4lS8nhX8cplsYPzKjvhw6G) | 3:09 | 2022-07-22 |  |
 | [Sorry Not Sorry](https://open.spotify.com/track/5QaqP49NaSt1geAPNgDxYE) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [GUESS WHO](https://open.spotify.com/album/1PKhKkeCqANY5E9RGcUWUX) | 3:09 | 2022-04-20 | 2022-07-29 |
+| [Spice](https://open.spotify.com/track/2uIZvCteW9ZapDvSkfRJ69) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [RINGO](https://open.spotify.com/album/1kRAzoCTDLqwU6nX2I2Nmc) | 3:11 | 2023-10-17 |  |
 | [Spice](https://open.spotify.com/track/4mFwA8AtXjuriVlQiRyeWr) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [Voltage](https://open.spotify.com/album/6BhKPFeQDaBldGMl1vd28h) | 3:11 | 2022-04-20 |  |
 | [STYLE](https://open.spotify.com/track/0aZ8DSEdBJbBfrNtnqgJy3) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [RINGO](https://open.spotify.com/album/1kRAzoCTDLqwU6nX2I2Nmc) | 3:03 | 2023-10-17 |  |
 | [Sugar\-holic](https://open.spotify.com/track/47YvjyoCQpYwZbRj0Rs985) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [Sugar\-holic](https://open.spotify.com/album/1eFW6R2WJUCHWSHchYkLN2) | 3:03 | 2023-10-11 |  |

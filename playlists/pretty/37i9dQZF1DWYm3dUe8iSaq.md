@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYm3dUe8iSaq.md) - [plain]
 
 > Indie folk songs to help your worries get lost in the woods.
 
-[Spotify](https://open.spotify.com/user/spotify) - 273,332 likes - 80 songs - 4 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 273,444 likes - 80 songs - 4 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Moonflowers \(Binaural Acoustic Version\)](https://open.spotify.com/track/0ryEcI7PMq0Iwhn3jZHIQZ) | [Tommy Ashby](https://open.spotify.com/artist/7y1RS42LqlRYnpONXTjN3t) | [Moonflowers \(Binaural Acoustic Version\)](https://open.spotify.com/album/30l7reiNe2bU3AMLNx5J8I) | 3:03 |
 | 2 | [This Is How We Move](https://open.spotify.com/track/7BDBOaBevxxjq2VN3WrUyS) | [Billie Marten](https://open.spotify.com/artist/02YLJJnWC7YQVixkjEBRn7) | [Drop Cherries](https://open.spotify.com/album/7asv9hl6KprOE0AR0kubiL) | 3:06 |
 | 3 | [Our Time](https://open.spotify.com/track/44cqu9aiiJarV1znSUY1YZ) | [Roo Panes](https://open.spotify.com/artist/0XHM5ZNJDU8e4CfbWMeSzC) | [Our Time](https://open.spotify.com/album/7AvyzgmBfIOyRRBqY85puH) | 3:24 |
-| 4 | [Forever For Now](https://open.spotify.com/track/56CveEemU2lye9WOHVaoh6) | [Morgan Harper\-Jones](https://open.spotify.com/artist/73s0o3W8ycCcK4hRjuGNrj) | [Forever For Now](https://open.spotify.com/album/5fYvianKo0w7xm0BRXIgfw) | 4:14 |
+| 4 | [Forever For Now](https://open.spotify.com/track/56CveEemU2lye9WOHVaoh6) | [Morgan Harper\-Jones](https://open.spotify.com/artist/73s0o3W8ycCcK4hRjuGNrj) | [Forever For Now](https://open.spotify.com/album/5fYvianKo0w7xm0BRXIgfw) | 4:13 |
 | 5 | [oMo \(Man\)](https://open.spotify.com/track/373XAEtCUiQCCHQZxOjihL) | [Daudi Matsiko](https://open.spotify.com/artist/41QVnDFGdU4ALpM7zCe9CL) | [oMo \(Man\)](https://open.spotify.com/album/4HbYYzLD9gLtWOvUVjuBhI) | 3:08 |
 | 6 | [Bullet](https://open.spotify.com/track/02xiL1bRrT2lEtrxul4JzB) | [Elizabeth M\. Drummond](https://open.spotify.com/artist/2IHOf4FCu5FCjH0QSPHvCT) | [Bullet](https://open.spotify.com/album/7bUTtLWrkKLsntpZTcacGR) | 3:51 |
 | 7 | [Petals](https://open.spotify.com/track/2cp6SJzNJZUuWWy5T2chH7) | [Gary O'Neill](https://open.spotify.com/artist/4xYcXa6VNU7ZmsPj3N7a9r) | [Petals](https://open.spotify.com/album/6MFWv27QjN5lg5d2OD8kAM) | 4:31 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYm3dUe8iSaq.md) - [plain]
 | 79 | [The World Seen Through Your Eyes](https://open.spotify.com/track/3wZJx9WqtJpWwtJ0rRjRFv) | [Findlay Brown](https://open.spotify.com/artist/5SxW5qi5l3VJnO0qzsI8Rs) | [The World Seen Through Your Eyes](https://open.spotify.com/album/2dpFmlFSx2XbdNBDRPYciW) | 2:30 |
 | 80 | [I Hate Myself](https://open.spotify.com/track/0c0S1M4ik3EnhHdqH43VTv) | [Florence Pugh](https://open.spotify.com/artist/0wU0ByZ6OSInRD0ZmVfcIq) | [Allison's Songs](https://open.spotify.com/album/3LGwrBU9oDIZRPICGaAMhH) | 4:02 |
 
-Snapshot ID: `MCxlYjFhZDBhYWRmYTg0MTM2MGM5OWE5MTE5MDcyNThkNDgwZTE2NjQ3`
+Snapshot ID: `MCwxZGM5MWE0ZTAzNWUzZWMyNjE2OGZhMDdmNDI1MmIwOGE0MTA2MWYx`

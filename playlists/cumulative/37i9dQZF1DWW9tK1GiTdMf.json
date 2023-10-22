@@ -3577,6 +3577,28 @@
     },
     {
       "album": {
+        "name": "High Concept",
+        "url": "https://open.spotify.com/album/5DSSWFgWsyelKKtMEUe1cK"
+      },
+      "artists": [
+        {
+          "name": "salem ilese",
+          "url": "https://open.spotify.com/artist/3QJUFtGBGL05vo0kCJZsmT"
+        },
+        {
+          "name": "vaultboy",
+          "url": "https://open.spotify.com/artist/0K87f3owemzI8NUCoEIXOB"
+        }
+      ],
+      "date_added": "2023-10-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140853,
+      "name": "don't shop when ur hungry !!",
+      "url": "https://open.spotify.com/track/4McWu9XZhVIE0YelQzP5D3"
+    },
+    {
+      "album": {
         "name": "don\u2019t call me pretty",
         "url": "https://open.spotify.com/album/02EVktWJJ2yuJs2Q1eqiSB"
       },
@@ -3610,7 +3632,7 @@
       ],
       "date_added": "2023-08-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-22",
       "duration_ms": 140853,
       "name": "don\u2019t shop when ur hungry !! (feat. vaultboy)",
       "url": "https://open.spotify.com/track/2U2nYZb993yZhtaTJ9sGHl"

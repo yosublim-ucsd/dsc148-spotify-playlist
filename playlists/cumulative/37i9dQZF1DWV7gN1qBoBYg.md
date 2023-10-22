@@ -4,7 +4,7 @@
 
 > Welcome to RADAR: A space for storytelling going beyond the music featuring Jaeger, Sam Ezeh, LOVA, Mina Okabe, Augustine & IVAN$ITO from the Nordics!
 
-57 songs - 2 hr 49 min
+58 songs - 2 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,7 +12,8 @@
 | [All My Thoughts](https://open.spotify.com/track/1XUFRMGnLUjESmegODafq9) | [Mina Okabe](https://open.spotify.com/artist/5BS8KSKJPeLeXfABQx0bXl) | [Better Days](https://open.spotify.com/album/5SrnJoj6SyYblCwkraKsha) | 3:20 | 2022-04-25 |  |
 | [Awful Lot of Time](https://open.spotify.com/track/2rHwZH39RB1aCRQSQETOzf) | [Augustine](https://open.spotify.com/artist/1esNGCDFDiy6sKEqPhlLb4) | [Weeks Above The Earth](https://open.spotify.com/album/030P1hbKI1OLAPVpThG5gl) | 3:46 | 2022-04-25 |  |
 | [Backseat](https://open.spotify.com/track/4Sec4YoFHueidjEW8fQDSj) | [Augustine](https://open.spotify.com/artist/1esNGCDFDiy6sKEqPhlLb4) | [Weeks Above The Earth](https://open.spotify.com/album/030P1hbKI1OLAPVpThG5gl) | 3:04 | 2022-04-25 |  |
-| [Black Converse](https://open.spotify.com/track/2NQtXwEgMkIeTiThSdbWPq) | [LOVA](https://open.spotify.com/artist/1l2NYhptmHjo64MDOcej1x) | [Varm Sommar 2020](https://open.spotify.com/album/5bBWHe49fHsZ2vQyPS9gWy) | 3:06 | 2022-04-25 |  |
+| [Black Converse](https://open.spotify.com/track/2NQtXwEgMkIeTiThSdbWPq) | [LOVA](https://open.spotify.com/artist/1l2NYhptmHjo64MDOcej1x) | [Varm Sommar 2020](https://open.spotify.com/album/5bBWHe49fHsZ2vQyPS9gWy) | 3:06 | 2022-04-25 | 2023-10-22 |
+| [Black Converse](https://open.spotify.com/track/7axPmEf1nwosqBDVoMugvD) | [LOVA](https://open.spotify.com/artist/1l2NYhptmHjo64MDOcej1x) | [Grown\-ish](https://open.spotify.com/album/4HsUtIgXcWzJetVBHPybg0) | 3:06 | 2023-10-05 |  |
 | [Blue Dream \(Outro\)](https://open.spotify.com/track/0z87dq19ylNYib5WN0HVIn) | [Sam Ezeh](https://open.spotify.com/artist/5Ys0Puc1F5jOw7EpmhMSTK) | [Sapphire Alley](https://open.spotify.com/album/6logejZ3K4RYStEMnpZ5Gd) | 1:09 | 2022-04-25 |  |
 | [Bonsai Love](https://open.spotify.com/track/0g34K1VMsymkjGyPpeuL0x) | [Sam Ezeh](https://open.spotify.com/artist/5Ys0Puc1F5jOw7EpmhMSTK) | [Night at Ezeh's](https://open.spotify.com/album/0HeJ5vvU2LxmL5QNtCxIrl) | 2:59 | 2022-04-25 |  |
 | [CELEBRAR](https://open.spotify.com/track/5ZIU6eFkgCMiZX0ZdPtloV) | [IVAN$ITO](https://open.spotify.com/artist/0cPmSFfjpop7imPVWSk2yc) | [$OLO MEMOS](https://open.spotify.com/album/1HEVveDgR4D3nJViD3q9Yq) | 2:29 | 2022-04-25 |  |

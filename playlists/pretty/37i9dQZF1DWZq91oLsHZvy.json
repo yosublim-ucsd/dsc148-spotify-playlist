@@ -1,12 +1,12 @@
 {
   "description": "Let's go!",
-  "num_followers": 328524,
+  "num_followers": 328797,
   "original_name": "Indie x Running",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1NDhkZWJjZmI4YjIxZWQxMGY0NWZkMThjZDZmZTBkZmE1NmNhYTM3",
+  "snapshot_id": "MCwyNzM0ZmU4MzliOTE3NGFjM2NkNjFhODIyNTgzNjk4MDFmNzQyMTZh",
   "tracks": [
     {
       "added_at": "2023-01-20 11:00:00",
@@ -809,20 +809,20 @@
       "url": "https://open.spotify.com/track/2GuXIMRlaxVLcU0a5jacHw"
     },
     {
-      "added_at": "2023-02-10 12:43:59",
+      "added_at": "2023-01-20 11:00:00",
       "album": {
-        "name": "My Love",
-        "url": "https://open.spotify.com/album/2vVVdpXVsEKwChwFpuTWqZ"
+        "name": "Inside In / Inside Out",
+        "url": "https://open.spotify.com/album/4MhInH4XT7ReDV5fCZjaSz"
       },
       "artists": [
         {
-          "name": "Florence + The Machine",
-          "url": "https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG"
+          "name": "The Kooks",
+          "url": "https://open.spotify.com/artist/1GLtl8uqKmnyCWxHmw9tL4"
         }
       ],
-      "duration_ms": 177511,
-      "name": "My Love - Edit",
-      "url": "https://open.spotify.com/track/0vQYe6g8bNbdUKnUnXdQQV"
+      "duration_ms": 169306,
+      "name": "She Moves In Her Own Way",
+      "url": "https://open.spotify.com/track/2SGBEDwsOAOAHrrdAd304i"
     },
     {
       "added_at": "2023-01-20 11:00:00",
@@ -841,20 +841,20 @@
       "url": "https://open.spotify.com/track/7iqAuZe5yS0suLQcFfVK39"
     },
     {
-      "added_at": "2023-01-20 11:00:00",
+      "added_at": "2023-02-10 12:43:59",
       "album": {
-        "name": "Inside In / Inside Out",
-        "url": "https://open.spotify.com/album/4MhInH4XT7ReDV5fCZjaSz"
+        "name": "My Love",
+        "url": "https://open.spotify.com/album/2vVVdpXVsEKwChwFpuTWqZ"
       },
       "artists": [
         {
-          "name": "The Kooks",
-          "url": "https://open.spotify.com/artist/1GLtl8uqKmnyCWxHmw9tL4"
+          "name": "Florence + The Machine",
+          "url": "https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG"
         }
       ],
-      "duration_ms": 169306,
-      "name": "She Moves In Her Own Way",
-      "url": "https://open.spotify.com/track/2SGBEDwsOAOAHrrdAd304i"
+      "duration_ms": 177511,
+      "name": "My Love - Edit",
+      "url": "https://open.spotify.com/track/0vQYe6g8bNbdUKnUnXdQQV"
     },
     {
       "added_at": "2023-01-20 11:00:00",
@@ -1101,6 +1101,22 @@
       "url": "https://open.spotify.com/track/21rpBPAlXAvBavvu5kCQzs"
     },
     {
+      "added_at": "2023-05-16 12:08:08",
+      "album": {
+        "name": "Sofa Kings",
+        "url": "https://open.spotify.com/album/6qKsVbDuX5sKB4OTqkNc0C"
+      },
+      "artists": [
+        {
+          "name": "Royel Otis",
+          "url": "https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH"
+        }
+      ],
+      "duration_ms": 190626,
+      "name": "Going Kokomo",
+      "url": "https://open.spotify.com/track/4E4Gxykl5nYMSIwlIVzjGr"
+    },
+    {
       "added_at": "2023-01-20 11:00:00",
       "album": {
         "name": "How Do You Feel Now?",
@@ -1119,22 +1135,6 @@
       "duration_ms": 234773,
       "name": "Tongues",
       "url": "https://open.spotify.com/track/5mCprFWOqe0jB96v9RhLBo"
-    },
-    {
-      "added_at": "2023-05-16 12:08:08",
-      "album": {
-        "name": "Sofa Kings",
-        "url": "https://open.spotify.com/album/6qKsVbDuX5sKB4OTqkNc0C"
-      },
-      "artists": [
-        {
-          "name": "Royel Otis",
-          "url": "https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH"
-        }
-      ],
-      "duration_ms": 190626,
-      "name": "Going Kokomo",
-      "url": "https://open.spotify.com/track/4E4Gxykl5nYMSIwlIVzjGr"
     },
     {
       "added_at": "2023-01-20 11:00:00",
@@ -1289,22 +1289,6 @@
       "url": "https://open.spotify.com/track/0NYLOvWtvJdyeceDD9R1Vw"
     },
     {
-      "added_at": "2023-01-20 11:00:00",
-      "album": {
-        "name": "Bankrupt!",
-        "url": "https://open.spotify.com/album/1MJotRlrO8AFegESeJRuBV"
-      },
-      "artists": [
-        {
-          "name": "Phoenix",
-          "url": "https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU"
-        }
-      ],
-      "duration_ms": 219973,
-      "name": "Entertainment",
-      "url": "https://open.spotify.com/track/1fyVtrPPWQ6vWnchDoJc7o"
-    },
-    {
       "added_at": "2023-05-17 13:32:35",
       "album": {
         "name": "Out Of My League",
@@ -1319,6 +1303,22 @@
       "duration_ms": 181135,
       "name": "Out Of My League",
       "url": "https://open.spotify.com/track/7vAMRzLhIxvRGwmyKm3tlk"
+    },
+    {
+      "added_at": "2023-01-20 11:00:00",
+      "album": {
+        "name": "Bankrupt!",
+        "url": "https://open.spotify.com/album/1MJotRlrO8AFegESeJRuBV"
+      },
+      "artists": [
+        {
+          "name": "Phoenix",
+          "url": "https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU"
+        }
+      ],
+      "duration_ms": 219973,
+      "name": "Entertainment",
+      "url": "https://open.spotify.com/track/1fyVtrPPWQ6vWnchDoJc7o"
     },
     {
       "added_at": "2023-01-20 11:00:00",
@@ -1533,26 +1533,6 @@
       "url": "https://open.spotify.com/track/52pWggDlN5mVeX111i06PP"
     },
     {
-      "added_at": "2023-05-17 13:32:35",
-      "album": {
-        "name": "Redlight (feat. Teezo Touchdown)",
-        "url": "https://open.spotify.com/album/7u7KN63awFeiDCfk9dq1xm"
-      },
-      "artists": [
-        {
-          "name": "BETWEEN FRIENDS",
-          "url": "https://open.spotify.com/artist/2HkSsS8O2U2gPhnCGVN5vn"
-        },
-        {
-          "name": "Teezo Touchdown",
-          "url": "https://open.spotify.com/artist/0fGcIStdT1OpFFhOC7Wp36"
-        }
-      ],
-      "duration_ms": 173720,
-      "name": "Redlight (feat. Teezo Touchdown)",
-      "url": "https://open.spotify.com/track/7mcYosmfRFxXJN3hwwNXnL"
-    },
-    {
       "added_at": "2023-01-20 11:00:00",
       "album": {
         "name": "Dawn Of The Freak",
@@ -1647,6 +1627,22 @@
       "duration_ms": 318419,
       "name": "Dancing Anymore",
       "url": "https://open.spotify.com/track/3Xd0819paqFQB4LBA8XVb0"
+    },
+    {
+      "added_at": "2023-06-09 11:33:29",
+      "album": {
+        "name": "Speedracer",
+        "url": "https://open.spotify.com/album/6iYJWiUGoeuKN3tlZBlyE4"
+      },
+      "artists": [
+        {
+          "name": "Teenage Dads",
+          "url": "https://open.spotify.com/artist/0GEHcYh6naBVfaLKy7CEhw"
+        }
+      ],
+      "duration_ms": 178348,
+      "name": "Speedracer",
+      "url": "https://open.spotify.com/track/5NZFQfsInH8LasOfEZVsfm"
     }
   ],
   "unique_name": "Indie x Running",

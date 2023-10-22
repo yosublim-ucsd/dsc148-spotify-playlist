@@ -1,12 +1,12 @@
 {
   "description": "Su m\u00fasica, como ellos, es eterna. Juan Gabriel en portada.",
-  "num_followers": 52935,
+  "num_followers": 52991,
   "original_name": "Inmortales de la Canci\u00f3n",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwODdmMmU0ZjhhNjFiODlmMTMzMTA0Y2E4NDAwNzkwODc1ZmNjYmNl",
+  "snapshot_id": "MCw5YTZkZDFkNWFkMDE5MTA5YTYzNjcyYTliN2EzYmYyOTYzMzZlYTc0",
   "tracks": [
     {
       "added_at": "2023-10-17 06:00:00",
@@ -799,6 +799,22 @@
     {
       "added_at": "2023-10-17 06:00:00",
       "album": {
+        "name": "Mis Favoritas",
+        "url": "https://open.spotify.com/album/0BcspqaDGksQoDQkKSGCdO"
+      },
+      "artists": [
+        {
+          "name": "Johnny Ventura",
+          "url": "https://open.spotify.com/artist/7fvEDuYk5vkKKZGpv6Knus"
+        }
+      ],
+      "duration_ms": 184986,
+      "name": "Merenguero Hasta la Tambora - Radio Version",
+      "url": "https://open.spotify.com/track/6IGgyTBzPgG0c8RHz2PZ4Z"
+    },
+    {
+      "added_at": "2023-10-17 06:00:00",
+      "album": {
         "name": "M\u00eda Un A\u00f1o",
         "url": "https://open.spotify.com/album/2wBBAPcIsgXx9fsXygNmVT"
       },
@@ -815,22 +831,6 @@
       "duration_ms": 174626,
       "name": "M\u00eda Un A\u00f1o",
       "url": "https://open.spotify.com/track/0q2CjjP0hoopNMz2924hey"
-    },
-    {
-      "added_at": "2023-10-17 06:00:00",
-      "album": {
-        "name": "Mis Favoritas",
-        "url": "https://open.spotify.com/album/0BcspqaDGksQoDQkKSGCdO"
-      },
-      "artists": [
-        {
-          "name": "Johnny Ventura",
-          "url": "https://open.spotify.com/artist/7fvEDuYk5vkKKZGpv6Knus"
-        }
-      ],
-      "duration_ms": 184986,
-      "name": "Merenguero Hasta la Tambora - Radio Version",
-      "url": "https://open.spotify.com/track/6IGgyTBzPgG0c8RHz2PZ4Z"
     }
   ],
   "unique_name": "Inmortales de la Canci\u00f3n",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OQlaot30zi.md) - [plain]
 
 > Sempre aggiornata\. Con nuovi brani di Tony Boy, Slings, Shiva, Medy e tanti altri.
 
-[Spotify](https://open.spotify.com/user/spotify) - 37,514 likes - 100 songs - 4 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 37,549 likes - 100 songs - 4 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OQlaot30zi.md) - [plain]
 | 99 | [RIGHT NOW](https://open.spotify.com/track/297PW1HJOcvwUJ1MivA7IL) | [SixOneSix](https://open.spotify.com/artist/5QK6u3vdOJBt4hJjJoYCLd), [Young AM](https://open.spotify.com/artist/2upvuqOIxuRf1vq9KsojFJ) | [RIGHT NOW](https://open.spotify.com/album/6QFSqhW28t4XaQZ0KZ6zOp) | 2:19 |
 | 100 | [QUELLO CHE HO](https://open.spotify.com/track/1nqwcLNAILQFS6V86S9cV6) | [DAVIDE](https://open.spotify.com/artist/5DO6UaclvCEpCitUQDGrBL) | [QUELLO CHE HO](https://open.spotify.com/album/1ysRGJ2FlscSKragAzfgdV) | 2:32 |
 
-Snapshot ID: `MCw1Nzc1YTBlYTJhYThjMTVjZDhmOGMyMGFmMGEwZGRlODhhMTczOTQ0`
+Snapshot ID: `MCw4ZGZkNzExODQwMTdhYjM3NmQzN2E4MzljOWUzNjk5NzFlYTU4OTYx`

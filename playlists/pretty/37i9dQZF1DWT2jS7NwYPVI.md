@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2jS7NwYPVI.md) - [plain]
 
 > Your cheat sheet for everything on the rise in the rock/alt world\. Cover: Picture Parlour
 
-[Spotify](https://open.spotify.com/user/spotify) - 433,436 likes - 121 songs - 6 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 433,692 likes - 121 songs - 6 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -130,4 +130,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2jS7NwYPVI.md) - [plain]
 | 120 | [Karaoke](https://open.spotify.com/track/7keNZhvY8vbs3AyqDewmjj) | [Viji](https://open.spotify.com/artist/5T8jStToPqlBhbVU5WNHvi) | [Karaoke](https://open.spotify.com/album/7FfYlliKoC99WzeDwyIbqn) | 3:20 |
 | 121 | [My Own Hell](https://open.spotify.com/track/3FiRWP4QJ1Di59fGDOYQAR) | [JULES IS DEAD](https://open.spotify.com/artist/5inrtHsPByV845LcC1mDmM) | [My Own Hell](https://open.spotify.com/album/3MHaxJDs6Z9Z9iwVtZt8ip) | 3:25 |
 
-Snapshot ID: `MCw0NzM0MmFmZmE4NjE5ZWVmMzk0YjM2NDhlYzE0MzNhYWY5OWZiY2Ex`
+Snapshot ID: `MCxkY2NmNWFmY2JmODU2Y2EzOGEzNGU3NjA2YThhYWRmNzVkYzZmMTEz`

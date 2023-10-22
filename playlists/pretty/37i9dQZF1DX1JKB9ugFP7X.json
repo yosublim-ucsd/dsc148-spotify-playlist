@@ -1,12 +1,12 @@
 {
   "description": "Escucha lo mejor del pop electr\u00f3nico en espa\u00f1ol.",
-  "num_followers": 23616,
+  "num_followers": 23618,
   "original_name": "ElectroPop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1YjM3ZTAyNmY3MjE5ZDM0ZGQ3YWUwNmY4YjljYTM2YmViODJhYzRm",
+  "snapshot_id": "MCwyZDEyYmRjMGZhNjRkZGU3MTI3NWJlOTIzMjA4YjZhMjBiODM2ZDdi",
   "tracks": [
     {
       "added_at": "2023-09-08 03:00:00",
@@ -675,22 +675,6 @@
     {
       "added_at": "2023-09-08 03:00:00",
       "album": {
-        "name": "Mosaicos",
-        "url": "https://open.spotify.com/album/5o2sEyIX07DbCg86qRWOOC"
-      },
-      "artists": [
-        {
-          "name": "ODD MAMI",
-          "url": "https://open.spotify.com/artist/2Y6AtL4xQFvg8nroRM3ZV6"
-        }
-      ],
-      "duration_ms": 146791,
-      "name": "Sed",
-      "url": "https://open.spotify.com/track/0tv5fCvV6pLcwstfO2zxLP"
-    },
-    {
-      "added_at": "2023-09-08 03:00:00",
-      "album": {
         "name": "Desorden",
         "url": "https://open.spotify.com/album/1AePedyRPFkUCs80EPerMZ"
       },
@@ -703,6 +687,22 @@
       "duration_ms": 236571,
       "name": "Desorden",
       "url": "https://open.spotify.com/track/52EmSXkdJ2wvrfu4aUAfoY"
+    },
+    {
+      "added_at": "2023-09-08 03:00:00",
+      "album": {
+        "name": "Mosaicos",
+        "url": "https://open.spotify.com/album/5o2sEyIX07DbCg86qRWOOC"
+      },
+      "artists": [
+        {
+          "name": "ODD MAMI",
+          "url": "https://open.spotify.com/artist/2Y6AtL4xQFvg8nroRM3ZV6"
+        }
+      ],
+      "duration_ms": 146791,
+      "name": "Sed",
+      "url": "https://open.spotify.com/track/0tv5fCvV6pLcwstfO2zxLP"
     },
     {
       "added_at": "2023-09-08 03:00:00",
@@ -815,22 +815,6 @@
     {
       "added_at": "2023-09-08 03:00:00",
       "album": {
-        "name": "Mango Negro",
-        "url": "https://open.spotify.com/album/2h6a8lF0snB00Jj1JsezRF"
-      },
-      "artists": [
-        {
-          "name": "Rubio",
-          "url": "https://open.spotify.com/artist/79YjWaAoD88XGLETIsnnQV"
-        }
-      ],
-      "duration_ms": 208095,
-      "name": "Volver",
-      "url": "https://open.spotify.com/track/1t59IuGyLPy0ge1nKeQNXL"
-    },
-    {
-      "added_at": "2023-09-08 03:00:00",
-      "album": {
         "name": "Ficci\u00f3n",
         "url": "https://open.spotify.com/album/7kqvgYRCFIHjRTEXnVjSWW"
       },
@@ -843,6 +827,22 @@
       "duration_ms": 201601,
       "name": "Ficci\u00f3n",
       "url": "https://open.spotify.com/track/19ql2PoaEn31alAgeIpsp1"
+    },
+    {
+      "added_at": "2023-09-08 03:00:00",
+      "album": {
+        "name": "Mango Negro",
+        "url": "https://open.spotify.com/album/2h6a8lF0snB00Jj1JsezRF"
+      },
+      "artists": [
+        {
+          "name": "Rubio",
+          "url": "https://open.spotify.com/artist/79YjWaAoD88XGLETIsnnQV"
+        }
+      ],
+      "duration_ms": 208095,
+      "name": "Volver",
+      "url": "https://open.spotify.com/track/1t59IuGyLPy0ge1nKeQNXL"
     },
     {
       "added_at": "2023-09-08 03:00:00",
@@ -903,6 +903,22 @@
     {
       "added_at": "2023-09-08 03:00:00",
       "album": {
+        "name": "Desaparecer",
+        "url": "https://open.spotify.com/album/0yuO4ugzCbvXyyJLSfLHqh"
+      },
+      "artists": [
+        {
+          "name": "Varese",
+          "url": "https://open.spotify.com/artist/5DG278QHnEKfWW9zAGFeRg"
+        }
+      ],
+      "duration_ms": 260000,
+      "name": "Desaparecer",
+      "url": "https://open.spotify.com/track/1mbA8WPUU8vUQzjyULTTCd"
+    },
+    {
+      "added_at": "2023-09-08 03:00:00",
+      "album": {
         "name": "No Ves Tal Vez (Evlay Remix)",
         "url": "https://open.spotify.com/album/0GHjBHc8ZxFE22P9YATmku"
       },
@@ -927,38 +943,6 @@
     {
       "added_at": "2023-09-08 03:00:00",
       "album": {
-        "name": "Chicos de la Luz",
-        "url": "https://open.spotify.com/album/1JAJem5IxeIq8Rwo6EhIWe"
-      },
-      "artists": [
-        {
-          "name": "Astro",
-          "url": "https://open.spotify.com/artist/0V2YTCyeeSs4sivZL99x3g"
-        }
-      ],
-      "duration_ms": 279600,
-      "name": "Caribbean",
-      "url": "https://open.spotify.com/track/6yciTnwFKwtN2WyrxaLyNz"
-    },
-    {
-      "added_at": "2023-09-08 03:00:00",
-      "album": {
-        "name": "Desaparecer",
-        "url": "https://open.spotify.com/album/0yuO4ugzCbvXyyJLSfLHqh"
-      },
-      "artists": [
-        {
-          "name": "Varese",
-          "url": "https://open.spotify.com/artist/5DG278QHnEKfWW9zAGFeRg"
-        }
-      ],
-      "duration_ms": 260000,
-      "name": "Desaparecer",
-      "url": "https://open.spotify.com/track/1mbA8WPUU8vUQzjyULTTCd"
-    },
-    {
-      "added_at": "2023-09-08 03:00:00",
-      "album": {
         "name": "Poncholandia",
         "url": "https://open.spotify.com/album/7IY4JeLJedz5xyMDi0gfzW"
       },
@@ -975,6 +959,22 @@
       "duration_ms": 280000,
       "name": "Sola por la Ciudad",
       "url": "https://open.spotify.com/track/1UH3xWxB8T2kTZlg37tfFs"
+    },
+    {
+      "added_at": "2023-09-08 03:00:00",
+      "album": {
+        "name": "Chicos de la Luz",
+        "url": "https://open.spotify.com/album/1JAJem5IxeIq8Rwo6EhIWe"
+      },
+      "artists": [
+        {
+          "name": "Astro",
+          "url": "https://open.spotify.com/artist/0V2YTCyeeSs4sivZL99x3g"
+        }
+      ],
+      "duration_ms": 279600,
+      "name": "Caribbean",
+      "url": "https://open.spotify.com/track/6yciTnwFKwtN2WyrxaLyNz"
     },
     {
       "added_at": "2023-09-08 03:00:00",
@@ -1071,22 +1071,18 @@
     {
       "added_at": "2023-09-08 03:00:00",
       "album": {
-        "name": "Voces",
-        "url": "https://open.spotify.com/album/6Qm4Tz23VhWx1rY2ZGZKr5"
+        "name": "El Mundo Ser\u00e1 Nuestro",
+        "url": "https://open.spotify.com/album/4HU8TUSho4zUe3eG9I2xnX"
       },
       "artists": [
         {
-          "name": "Julais",
-          "url": "https://open.spotify.com/artist/7DdjptBHc71Ltjq2lGjBpF"
-        },
-        {
-          "name": "Eve Calletti",
-          "url": "https://open.spotify.com/artist/55eyl0WBtTXDb9jpXVS9AP"
+          "name": "GLAS",
+          "url": "https://open.spotify.com/artist/4Z1zjj6iQYhxLY9zE9sJch"
         }
       ],
-      "duration_ms": 192786,
-      "name": "Voces",
-      "url": "https://open.spotify.com/track/4E3Qq52I36ROOLPrr9iDiy"
+      "duration_ms": 278120,
+      "name": "El Mundo Ser\u00e1 Nuestro",
+      "url": "https://open.spotify.com/track/44ISmW3lNQUqyqRRKrTw2K"
     },
     {
       "added_at": "2023-09-08 03:00:00",
@@ -1115,18 +1111,22 @@
     {
       "added_at": "2023-09-08 03:00:00",
       "album": {
-        "name": "El Mundo Ser\u00e1 Nuestro",
-        "url": "https://open.spotify.com/album/4HU8TUSho4zUe3eG9I2xnX"
+        "name": "Voces",
+        "url": "https://open.spotify.com/album/6Qm4Tz23VhWx1rY2ZGZKr5"
       },
       "artists": [
         {
-          "name": "GLAS",
-          "url": "https://open.spotify.com/artist/4Z1zjj6iQYhxLY9zE9sJch"
+          "name": "Julais",
+          "url": "https://open.spotify.com/artist/7DdjptBHc71Ltjq2lGjBpF"
+        },
+        {
+          "name": "Eve Calletti",
+          "url": "https://open.spotify.com/artist/55eyl0WBtTXDb9jpXVS9AP"
         }
       ],
-      "duration_ms": 278120,
-      "name": "El Mundo Ser\u00e1 Nuestro",
-      "url": "https://open.spotify.com/track/44ISmW3lNQUqyqRRKrTw2K"
+      "duration_ms": 192786,
+      "name": "Voces",
+      "url": "https://open.spotify.com/track/4E3Qq52I36ROOLPrr9iDiy"
     },
     {
       "added_at": "2023-09-08 03:00:00",
@@ -1227,22 +1227,6 @@
     {
       "added_at": "2023-09-08 03:00:00",
       "album": {
-        "name": "MELONI",
-        "url": "https://open.spotify.com/album/1r1GGAlVXkvKowtbnwy0XO"
-      },
-      "artists": [
-        {
-          "name": "SIMONA",
-          "url": "https://open.spotify.com/artist/7H7hLNfP9MzG8mt2A3s7nT"
-        }
-      ],
-      "duration_ms": 178050,
-      "name": "MELONI",
-      "url": "https://open.spotify.com/track/0ErlJwEdhMnZTDveD7GYUX"
-    },
-    {
-      "added_at": "2023-09-08 03:00:00",
-      "album": {
         "name": "Guazatumba",
         "url": "https://open.spotify.com/album/63nVyKVXvnLNnVR6x3mlxC"
       },
@@ -1255,6 +1239,22 @@
       "duration_ms": 229726,
       "name": "Circular",
       "url": "https://open.spotify.com/track/21Rw3bEHD9hdwDIpD3BaWk"
+    },
+    {
+      "added_at": "2023-09-08 03:00:00",
+      "album": {
+        "name": "MELONI",
+        "url": "https://open.spotify.com/album/1r1GGAlVXkvKowtbnwy0XO"
+      },
+      "artists": [
+        {
+          "name": "SIMONA",
+          "url": "https://open.spotify.com/artist/7H7hLNfP9MzG8mt2A3s7nT"
+        }
+      ],
+      "duration_ms": 178050,
+      "name": "MELONI",
+      "url": "https://open.spotify.com/track/0ErlJwEdhMnZTDveD7GYUX"
     },
     {
       "added_at": "2023-09-08 03:00:00",
@@ -1379,6 +1379,22 @@
     {
       "added_at": "2023-09-08 03:00:00",
       "album": {
+        "name": "Dir\u00e9 tu nombre",
+        "url": "https://open.spotify.com/album/04ABlbA8bASVGdjfq1aNwr"
+      },
+      "artists": [
+        {
+          "name": "Agua Florida",
+          "url": "https://open.spotify.com/artist/6OhBvIgI7E71kveV1vItnq"
+        }
+      ],
+      "duration_ms": 179950,
+      "name": "Dir\u00e9 tu nombre",
+      "url": "https://open.spotify.com/track/6cf6NHFQPDDhkxQX5j96J8"
+    },
+    {
+      "added_at": "2023-09-08 03:00:00",
+      "album": {
         "name": "BOTON",
         "url": "https://open.spotify.com/album/3f3dFNqTR47VfyDeGtZ427"
       },
@@ -1399,38 +1415,6 @@
     {
       "added_at": "2023-09-08 03:00:00",
       "album": {
-        "name": "Dir\u00e9 tu nombre",
-        "url": "https://open.spotify.com/album/04ABlbA8bASVGdjfq1aNwr"
-      },
-      "artists": [
-        {
-          "name": "Agua Florida",
-          "url": "https://open.spotify.com/artist/6OhBvIgI7E71kveV1vItnq"
-        }
-      ],
-      "duration_ms": 179950,
-      "name": "Dir\u00e9 tu nombre",
-      "url": "https://open.spotify.com/track/6cf6NHFQPDDhkxQX5j96J8"
-    },
-    {
-      "added_at": "2023-09-08 03:00:00",
-      "album": {
-        "name": "Lucidez",
-        "url": "https://open.spotify.com/album/1XZRNnQ1dcp59OJrq5DtUD"
-      },
-      "artists": [
-        {
-          "name": "Antonia Navarro",
-          "url": "https://open.spotify.com/artist/1xmUtLnSPwuJOVGB5kZwSt"
-        }
-      ],
-      "duration_ms": 371735,
-      "name": "Lucidez",
-      "url": "https://open.spotify.com/track/1d9Y8VhQKy03r996XabxX8"
-    },
-    {
-      "added_at": "2023-09-08 03:00:00",
-      "album": {
         "name": "Latina",
         "url": "https://open.spotify.com/album/3QPv9v7HojqK3ebBcfBpzR"
       },
@@ -1447,6 +1431,22 @@
       "duration_ms": 187248,
       "name": "Latina",
       "url": "https://open.spotify.com/track/0bVVqy2JB5oztWohSkWhPU"
+    },
+    {
+      "added_at": "2023-09-08 03:00:00",
+      "album": {
+        "name": "Lucidez",
+        "url": "https://open.spotify.com/album/1XZRNnQ1dcp59OJrq5DtUD"
+      },
+      "artists": [
+        {
+          "name": "Antonia Navarro",
+          "url": "https://open.spotify.com/artist/1xmUtLnSPwuJOVGB5kZwSt"
+        }
+      ],
+      "duration_ms": 371735,
+      "name": "Lucidez",
+      "url": "https://open.spotify.com/track/1d9Y8VhQKy03r996XabxX8"
     },
     {
       "added_at": "2023-09-08 03:00:00",
@@ -1523,22 +1523,6 @@
     {
       "added_at": "2023-09-08 03:00:00",
       "album": {
-        "name": "FRIENDZONE",
-        "url": "https://open.spotify.com/album/1NHbPkbVifHFoUNUjds3rj"
-      },
-      "artists": [
-        {
-          "name": "Lucas & The Woods",
-          "url": "https://open.spotify.com/artist/4OIDWn0ASVx73rysnf6pqA"
-        }
-      ],
-      "duration_ms": 210659,
-      "name": "FRIENDZONE",
-      "url": "https://open.spotify.com/track/6ifxoXGBxLp7O967IDt67l"
-    },
-    {
-      "added_at": "2023-09-08 03:00:00",
-      "album": {
         "name": "Formas",
         "url": "https://open.spotify.com/album/1EGRoPgHHReeUzwtktkirF"
       },
@@ -1551,6 +1535,22 @@
       "duration_ms": 213018,
       "name": "Housie",
       "url": "https://open.spotify.com/track/0bk5rMOL7200N3fvqhSfL6"
+    },
+    {
+      "added_at": "2023-09-08 03:00:00",
+      "album": {
+        "name": "FRIENDZONE",
+        "url": "https://open.spotify.com/album/1NHbPkbVifHFoUNUjds3rj"
+      },
+      "artists": [
+        {
+          "name": "Lucas & The Woods",
+          "url": "https://open.spotify.com/artist/4OIDWn0ASVx73rysnf6pqA"
+        }
+      ],
+      "duration_ms": 210659,
+      "name": "FRIENDZONE",
+      "url": "https://open.spotify.com/track/6ifxoXGBxLp7O967IDt67l"
     },
     {
       "added_at": "2023-09-08 03:00:00",
@@ -1611,26 +1611,6 @@
     {
       "added_at": "2023-09-08 03:00:00",
       "album": {
-        "name": "El Estado de las Cosas Como Son",
-        "url": "https://open.spotify.com/album/5LBsNRXKNO8498xYBB0ANE"
-      },
-      "artists": [
-        {
-          "name": "In\u00e9s Mauri",
-          "url": "https://open.spotify.com/artist/2HCy7IPI79aGrEYSWfjwaF"
-        },
-        {
-          "name": "Desaria",
-          "url": "https://open.spotify.com/artist/7foAh38jbvCS0d9AiOW1V8"
-        }
-      ],
-      "duration_ms": 182312,
-      "name": "El Estado de las Cosas Como Son",
-      "url": "https://open.spotify.com/track/3p8GZ3T1dmgJWk294B6Vli"
-    },
-    {
-      "added_at": "2023-09-08 03:00:00",
-      "album": {
         "name": "Secreto a Voces",
         "url": "https://open.spotify.com/album/2mnjtPOAd0i4j7HkbL9ie7"
       },
@@ -1647,6 +1627,26 @@
       "duration_ms": 231569,
       "name": "Secreto a Voces",
       "url": "https://open.spotify.com/track/6N9vUjcRG2OPvVXSxlyT2c"
+    },
+    {
+      "added_at": "2023-09-08 03:00:00",
+      "album": {
+        "name": "El Estado de las Cosas Como Son",
+        "url": "https://open.spotify.com/album/5LBsNRXKNO8498xYBB0ANE"
+      },
+      "artists": [
+        {
+          "name": "In\u00e9s Mauri",
+          "url": "https://open.spotify.com/artist/2HCy7IPI79aGrEYSWfjwaF"
+        },
+        {
+          "name": "Desaria",
+          "url": "https://open.spotify.com/artist/7foAh38jbvCS0d9AiOW1V8"
+        }
+      ],
+      "duration_ms": 182312,
+      "name": "El Estado de las Cosas Como Son",
+      "url": "https://open.spotify.com/track/3p8GZ3T1dmgJWk294B6Vli"
     },
     {
       "added_at": "2023-09-08 03:00:00",
@@ -1671,26 +1671,6 @@
     {
       "added_at": "2023-09-08 03:00:00",
       "album": {
-        "name": "Todas las Luces (Remix)",
-        "url": "https://open.spotify.com/album/5Fr5IOMBv1NOgi1WNyr5J0"
-      },
-      "artists": [
-        {
-          "name": "Nadar de Noche",
-          "url": "https://open.spotify.com/artist/4XnY6XFP4XOowCR7184get"
-        },
-        {
-          "name": "Disonar",
-          "url": "https://open.spotify.com/artist/5l1T9yWFAtznVgMMwhdnXM"
-        }
-      ],
-      "duration_ms": 220000,
-      "name": "Todas las Luces - Remix",
-      "url": "https://open.spotify.com/track/0qAKOBaiohXNTHgQU6NfvR"
-    },
-    {
-      "added_at": "2023-09-08 03:00:00",
-      "album": {
         "name": "Nft",
         "url": "https://open.spotify.com/album/6K8hkoBWggnzNWvkbRdxim"
       },
@@ -1707,6 +1687,26 @@
       "duration_ms": 221711,
       "name": "Nft",
       "url": "https://open.spotify.com/track/3PPacFl0rmIS8P2eUtigwo"
+    },
+    {
+      "added_at": "2023-09-08 03:00:00",
+      "album": {
+        "name": "Todas las Luces (Remix)",
+        "url": "https://open.spotify.com/album/5Fr5IOMBv1NOgi1WNyr5J0"
+      },
+      "artists": [
+        {
+          "name": "Nadar de Noche",
+          "url": "https://open.spotify.com/artist/4XnY6XFP4XOowCR7184get"
+        },
+        {
+          "name": "Disonar",
+          "url": "https://open.spotify.com/artist/5l1T9yWFAtznVgMMwhdnXM"
+        }
+      ],
+      "duration_ms": 220000,
+      "name": "Todas las Luces - Remix",
+      "url": "https://open.spotify.com/track/0qAKOBaiohXNTHgQU6NfvR"
     },
     {
       "added_at": "2023-09-08 03:00:00",

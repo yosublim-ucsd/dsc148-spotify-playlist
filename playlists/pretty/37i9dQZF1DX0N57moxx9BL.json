@@ -1,12 +1,12 @@
 {
   "description": "Listen to the recent hits of Christian Rock.  Cover:  <a href=\"https://open.spotify.com/artist/01crEa9G3pNpXZ5m7wuHOk?si=gnYOdOZxT_-mL-QVsbRxKQ\">Red</a> ",
-  "num_followers": 138226,
+  "num_followers": 138306,
   "original_name": "Top Christian Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2MjVhMWZlYTU0M2FkN2M2ZjU1YzIxOTg5NGNjZmIzZDdiZjQzZWUy",
+  "snapshot_id": "MCw0YmE1ZmI1ZWM0YmNmMTUxYWEzYzRhM2E2YzdjYjZkODI5NDc5ZTg5",
   "tracks": [
     {
       "added_at": "2023-08-04 12:11:34",
@@ -895,6 +895,22 @@
     {
       "added_at": "2023-08-04 12:11:34",
       "album": {
+        "name": "Barbarians (Live)",
+        "url": "https://open.spotify.com/album/6L4poo7GcNGGcgcQPiB6Zo"
+      },
+      "artists": [
+        {
+          "name": "Freedom Church",
+          "url": "https://open.spotify.com/artist/1OgH8GLEEZWPtW9XJJDQYh"
+        }
+      ],
+      "duration_ms": 382125,
+      "name": "Chariots - Live",
+      "url": "https://open.spotify.com/track/6DuEUsG8YvsNq91I2a9djH"
+    },
+    {
+      "added_at": "2023-08-04 12:11:34",
+      "album": {
         "name": "SILENCE THE WORLD",
         "url": "https://open.spotify.com/album/7oEjybhppczzGPKjbV8sTw"
       },
@@ -911,22 +927,6 @@
       "duration_ms": 433866,
       "name": "SILENCE THE WORLD",
       "url": "https://open.spotify.com/track/01Pair9pvTuMRBcKzpwJ2P"
-    },
-    {
-      "added_at": "2023-08-04 12:11:34",
-      "album": {
-        "name": "Barbarians (Live)",
-        "url": "https://open.spotify.com/album/6L4poo7GcNGGcgcQPiB6Zo"
-      },
-      "artists": [
-        {
-          "name": "Freedom Church",
-          "url": "https://open.spotify.com/artist/1OgH8GLEEZWPtW9XJJDQYh"
-        }
-      ],
-      "duration_ms": 382125,
-      "name": "Chariots - Live",
-      "url": "https://open.spotify.com/track/6DuEUsG8YvsNq91I2a9djH"
     },
     {
       "added_at": "2023-08-04 12:11:34",
@@ -1239,22 +1239,6 @@
     {
       "added_at": "2023-08-04 12:11:34",
       "album": {
-        "name": "Real Emotion",
-        "url": "https://open.spotify.com/album/4FBgDUQc9uZCuNwySaZPWL"
-      },
-      "artists": [
-        {
-          "name": "Paper Route",
-          "url": "https://open.spotify.com/artist/2EoJ4ILZNAHjVtZgmWBaID"
-        }
-      ],
-      "duration_ms": 254866,
-      "name": "Balconies",
-      "url": "https://open.spotify.com/track/5qGemnxUmsiA4vHME1K3Fo"
-    },
-    {
-      "added_at": "2023-08-04 12:11:34",
-      "album": {
         "name": "The Final Battle",
         "url": "https://open.spotify.com/album/5ReMXko8PPw0Om5O6PZsRy"
       },
@@ -1267,6 +1251,22 @@
       "duration_ms": 233686,
       "name": "Ashes to Ashes",
       "url": "https://open.spotify.com/track/0VdFJsLHyBZrA5G2R32JIj"
+    },
+    {
+      "added_at": "2023-08-04 12:11:34",
+      "album": {
+        "name": "Real Emotion",
+        "url": "https://open.spotify.com/album/4FBgDUQc9uZCuNwySaZPWL"
+      },
+      "artists": [
+        {
+          "name": "Paper Route",
+          "url": "https://open.spotify.com/artist/2EoJ4ILZNAHjVtZgmWBaID"
+        }
+      ],
+      "duration_ms": 254866,
+      "name": "Balconies",
+      "url": "https://open.spotify.com/track/5qGemnxUmsiA4vHME1K3Fo"
     },
     {
       "added_at": "2023-08-04 12:11:34",
@@ -1419,22 +1419,6 @@
     {
       "added_at": "2023-08-04 12:11:34",
       "album": {
-        "name": "I'm Only Dreaming",
-        "url": "https://open.spotify.com/album/3VwF0Dev44PXIFKyi3UOtP"
-      },
-      "artists": [
-        {
-          "name": "Eisley",
-          "url": "https://open.spotify.com/artist/2IL35FbYiOta150uSYBCEg"
-        }
-      ],
-      "duration_ms": 236969,
-      "name": "Louder Than a Lion",
-      "url": "https://open.spotify.com/track/4gwcz4UeluIazCZf7XGOBT"
-    },
-    {
-      "added_at": "2023-08-04 12:11:34",
-      "album": {
         "name": "Pariah",
         "url": "https://open.spotify.com/album/4K5ENmroeroLov90S2QVyv"
       },
@@ -1455,18 +1439,18 @@
     {
       "added_at": "2023-08-04 12:11:34",
       "album": {
-        "name": "Pulp",
-        "url": "https://open.spotify.com/album/4nAhfRvtz1ZkTh0ivN5iHQ"
+        "name": "I'm Only Dreaming",
+        "url": "https://open.spotify.com/album/3VwF0Dev44PXIFKyi3UOtP"
       },
       "artists": [
         {
-          "name": "Love Ghost",
-          "url": "https://open.spotify.com/artist/7oYWWttOyiltgT19mfoUWi"
+          "name": "Eisley",
+          "url": "https://open.spotify.com/artist/2IL35FbYiOta150uSYBCEg"
         }
       ],
-      "duration_ms": 239655,
-      "name": "Pulp",
-      "url": "https://open.spotify.com/track/53hcnXo6HTK3fZTbh9DqPv"
+      "duration_ms": 236969,
+      "name": "Louder Than a Lion",
+      "url": "https://open.spotify.com/track/4gwcz4UeluIazCZf7XGOBT"
     },
     {
       "added_at": "2023-08-04 12:11:34",
@@ -1495,18 +1479,18 @@
     {
       "added_at": "2023-08-04 12:11:34",
       "album": {
-        "name": "Faith Over Fear",
-        "url": "https://open.spotify.com/album/1AIYD2XjncX9ir1zRTrgV0"
+        "name": "Pulp",
+        "url": "https://open.spotify.com/album/4nAhfRvtz1ZkTh0ivN5iHQ"
       },
       "artists": [
         {
-          "name": "Aaron Michaels",
-          "url": "https://open.spotify.com/artist/2aNlHGoWugw2nY0gNmu3fd"
+          "name": "Love Ghost",
+          "url": "https://open.spotify.com/artist/7oYWWttOyiltgT19mfoUWi"
         }
       ],
-      "duration_ms": 194298,
-      "name": "Faith Over Fear",
-      "url": "https://open.spotify.com/track/7Cta8xZQzWkvYOKVxL64gC"
+      "duration_ms": 239655,
+      "name": "Pulp",
+      "url": "https://open.spotify.com/track/53hcnXo6HTK3fZTbh9DqPv"
     },
     {
       "added_at": "2023-08-04 12:11:34",
@@ -1539,6 +1523,22 @@
       "duration_ms": 257466,
       "name": "The Truth",
       "url": "https://open.spotify.com/track/5a4OVAt24QUhbmUOGFJ7Ju"
+    },
+    {
+      "added_at": "2023-08-04 12:11:34",
+      "album": {
+        "name": "Faith Over Fear",
+        "url": "https://open.spotify.com/album/1AIYD2XjncX9ir1zRTrgV0"
+      },
+      "artists": [
+        {
+          "name": "Aaron Michaels",
+          "url": "https://open.spotify.com/artist/2aNlHGoWugw2nY0gNmu3fd"
+        }
+      ],
+      "duration_ms": 194298,
+      "name": "Faith Over Fear",
+      "url": "https://open.spotify.com/track/7Cta8xZQzWkvYOKVxL64gC"
     },
     {
       "added_at": "2023-08-04 12:11:34",
@@ -1631,22 +1631,6 @@
     {
       "added_at": "2023-08-04 12:11:34",
       "album": {
-        "name": "Blood On Me",
-        "url": "https://open.spotify.com/album/7rSuzamwwlO5KhyV7ceI3V"
-      },
-      "artists": [
-        {
-          "name": "Kid Created Playa",
-          "url": "https://open.spotify.com/artist/2CpAiDocx8gIbL9MQG2XIv"
-        }
-      ],
-      "duration_ms": 203702,
-      "name": "Blood On Me",
-      "url": "https://open.spotify.com/track/5qXDPLvzc5SQeOlZDqMyS1"
-    },
-    {
-      "added_at": "2023-08-04 12:11:34",
-      "album": {
         "name": "You Are",
         "url": "https://open.spotify.com/album/6ASmnavwt4fCGYY8Zcnm51"
       },
@@ -1659,6 +1643,22 @@
       "duration_ms": 211906,
       "name": "You Are",
       "url": "https://open.spotify.com/track/5To1qef7yQNIiFa6lLfvrY"
+    },
+    {
+      "added_at": "2023-08-04 12:11:34",
+      "album": {
+        "name": "Blood On Me",
+        "url": "https://open.spotify.com/album/7rSuzamwwlO5KhyV7ceI3V"
+      },
+      "artists": [
+        {
+          "name": "Kid Created Playa",
+          "url": "https://open.spotify.com/artist/2CpAiDocx8gIbL9MQG2XIv"
+        }
+      ],
+      "duration_ms": 203702,
+      "name": "Blood On Me",
+      "url": "https://open.spotify.com/track/5qXDPLvzc5SQeOlZDqMyS1"
     }
   ],
   "unique_name": "Top Christian Rock",

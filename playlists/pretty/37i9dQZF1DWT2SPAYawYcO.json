@@ -1,12 +1,12 @@
 {
   "description": "The best new songs of the week! Cover: Jung Kook, The Kid LAROI & Central Cee",
-  "num_followers": 366139,
+  "num_followers": 366196,
   "original_name": "New Music Friday AU & NZ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzMDkxNjZjOTg3ODEyMWFkZDU1Y2QxN2I2NmUxYmNlOWM4YTdmNzlh",
+  "snapshot_id": "MCw1NjU2M2ZjZGI2OTZjMjY1ZGE0NzUyYmQwYzJhNWY3OWM2MzJiMWQ1",
   "tracks": [
     {
       "added_at": "2023-10-19 23:00:00",
@@ -110,6 +110,10 @@
         {
           "name": "Vv Pete",
           "url": "https://open.spotify.com/artist/66IkoRt5JAg88LCnPuyxXr"
+        },
+        {
+          "name": "UTILITY",
+          "url": "https://open.spotify.com/artist/07SL7uPXhqtBGz0Pqljjgi"
         }
       ],
       "duration_ms": 136734,

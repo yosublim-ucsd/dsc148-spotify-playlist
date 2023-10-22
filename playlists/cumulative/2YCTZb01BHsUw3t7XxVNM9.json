@@ -7999,6 +7999,32 @@
     },
     {
       "album": {
+        "name": "The Rebellion of Phantom",
+        "url": "https://open.spotify.com/album/4k11gYcrFxakAe1KUTgekq"
+      },
+      "artists": [
+        {
+          "name": "DJ Myosuke",
+          "url": "https://open.spotify.com/artist/0GsEX8wr2fhu19PIwQh1oG"
+        },
+        {
+          "name": "Gram",
+          "url": "https://open.spotify.com/artist/3WtLwZYH0N8mqSaUjEW1kF"
+        },
+        {
+          "name": "Valkyria",
+          "url": "https://open.spotify.com/artist/6VBtv6VrmPo7gew0XeYsTc"
+        }
+      ],
+      "date_added": "2023-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189732,
+      "name": "The Rebellion of Phantom",
+      "url": "https://open.spotify.com/track/75epRWAPKkQcnUUp9AzkUk"
+    },
+    {
+      "album": {
         "name": "Prophet of Doom",
         "url": "https://open.spotify.com/album/5VNlFNgoyCVjXqHTqzrQbl"
       },

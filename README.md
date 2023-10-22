@@ -67,7 +67,7 @@ naming collisions when archiving personalized playlists, which have the
 same name for every user. To add an alias, add a single line
 containing the desired name to `playlists/registry/<playlist_id>`.
 
-## Playlists \(6896\)
+## Playlists \(6899\)
 
 - ["Suzume" & Songs from Makoto Shinkai's Movies \(\~2022\)](/playlists/pretty/37i9dQZF1DX0KA2LHWBFpC.md)
 - [\#FlashbackFriday](/playlists/pretty/2dWfCGZguakRQagX7wM6Mi.md)
@@ -259,9 +259,11 @@ containing the desired name to `playlists/registry/<playlist_id>`.
 - [70s Soul Classics](/playlists/pretty/37i9dQZF1DWULEW2RfoSCi.md)
 - [70s Summer Rock](/playlists/pretty/37i9dQZF1DX821Oj2DrHJk.md)
 - [741 Hz](/playlists/pretty/37i9dQZF1DX9t48dpVo99H.md)
+- [7인의 탈출\(The Escape of the Seven\)](/playlists/pretty/37i9dQZF1DWXHal8jERiRh.md)
 - [8 Bit Hits](/playlists/pretty/37i9dQZF1DWVr03NrIUlx5.md)
 - [8 Hours of Brown Noise Sleep](/playlists/pretty/37i9dQZF1DWVSZlCPJ6VZl.md)
 - [8 Hours of Sleep Music](/playlists/pretty/37i9dQZF1DWUnYXoRsooMF.md)
+- [8 Hours of Study Music](/playlists/pretty/37i9dQZF1DX2XFkp2ZtYHj.md)
 - [8 Hours of White Noise Sleep](/playlists/pretty/37i9dQZF1DX9M0XCg3OHJ6.md)
 - [808 Classics](/playlists/pretty/37i9dQZF1DX2SiqF4iBnmO.md)
 - [808.](/playlists/pretty/37i9dQZF1DX2y6end4Tb8T.md)
@@ -1075,6 +1077,7 @@ containing the desired name to `playlists/registry/<playlist_id>`.
 - [Cena con Guitarras](/playlists/pretty/37i9dQZF1DXd0RRszxFFrw.md)
 - [Cena con Jazz](/playlists/pretty/37i9dQZF1DX4YnmTbpvHLN.md)
 - [Cena con Piano](/playlists/pretty/37i9dQZF1DXeaTPCSrnmwu.md)
+- [Certi: R&B](/playlists/pretty/37i9dQZF1DX7PmlEGx13u9.md)
 - [Chai & Acoustic](/playlists/pretty/37i9dQZF1DWUI804Xnly9d.md)
 - [Chainsaw Man チェンソーマン](/playlists/pretty/37i9dQZF1DWUxyGpMcGpaI.md)
 - [Chakra](/playlists/pretty/37i9dQZF1DX74VGmwslvwH.md)

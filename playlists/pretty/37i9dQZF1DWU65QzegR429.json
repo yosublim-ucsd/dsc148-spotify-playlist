@@ -1,12 +1,12 @@
 {
   "description": "Latin music making waves. Cover: Polim\u00e1 Westcoast",
-  "num_followers": 9872,
+  "num_followers": 9887,
   "original_name": "Latin Frequency",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxZGRlMTViMTA0NzI0MDYzNzJjOWY5NWMxNjZjMDgxNThkOGNkMjE2",
+  "snapshot_id": "MCxkZGY2OWE0YmYzYWU5MTIwZGI3OGNhYWU0ZWIxNjVmOTJhMmI5MGYz",
   "tracks": [
     {
       "added_at": "2023-07-24 18:55:43",
@@ -171,6 +171,22 @@
     {
       "added_at": "2023-07-24 18:55:43",
       "album": {
+        "name": "Mi Regalo Mas Bonito",
+        "url": "https://open.spotify.com/album/6DPhumayXNmnw4woMnSNk9"
+      },
+      "artists": [
+        {
+          "name": "La Ross Maria",
+          "url": "https://open.spotify.com/artist/5AmJYBIvICxss43P05MkU8"
+        }
+      ],
+      "duration_ms": 151467,
+      "name": "Mi Regalo Mas Bonito",
+      "url": "https://open.spotify.com/track/3JgGutjAwNXGAxcXaqVgWe"
+    },
+    {
+      "added_at": "2023-07-24 18:55:43",
+      "album": {
         "name": "T'as peur",
         "url": "https://open.spotify.com/album/5iq2ffpT0zwW0CLI646Z8d"
       },
@@ -187,22 +203,6 @@
       "duration_ms": 215284,
       "name": "T'as peur",
       "url": "https://open.spotify.com/track/0KERPiv5izyNsVcXYNEugE"
-    },
-    {
-      "added_at": "2023-07-24 18:55:43",
-      "album": {
-        "name": "Mi Regalo Mas Bonito",
-        "url": "https://open.spotify.com/album/6DPhumayXNmnw4woMnSNk9"
-      },
-      "artists": [
-        {
-          "name": "La Ross Maria",
-          "url": "https://open.spotify.com/artist/5AmJYBIvICxss43P05MkU8"
-        }
-      ],
-      "duration_ms": 151467,
-      "name": "Mi Regalo Mas Bonito",
-      "url": "https://open.spotify.com/track/3JgGutjAwNXGAxcXaqVgWe"
     },
     {
       "added_at": "2023-07-24 18:55:43",
@@ -579,22 +579,6 @@
     {
       "added_at": "2023-07-24 18:55:43",
       "album": {
-        "name": "Tempo",
-        "url": "https://open.spotify.com/album/26OPZGfHxJqhRd2cHrsjMB"
-      },
-      "artists": [
-        {
-          "name": "Jenn Morel",
-          "url": "https://open.spotify.com/artist/7iWWbIVw66I3hHVy9crw6a"
-        }
-      ],
-      "duration_ms": 145576,
-      "name": "Tempo",
-      "url": "https://open.spotify.com/track/1A9PL1Y2cc8aBs6uLSdMHW"
-    },
-    {
-      "added_at": "2023-07-24 18:55:43",
-      "album": {
         "name": "Dembow Dominicano",
         "url": "https://open.spotify.com/album/1Q6G7NqJ3cN2rTtnNO25za"
       },
@@ -611,6 +595,22 @@
       "duration_ms": 156610,
       "name": "Dembow Dominicano",
       "url": "https://open.spotify.com/track/6IiPbCJXLJbigeFoWuftWa"
+    },
+    {
+      "added_at": "2023-07-24 18:55:43",
+      "album": {
+        "name": "Tempo",
+        "url": "https://open.spotify.com/album/26OPZGfHxJqhRd2cHrsjMB"
+      },
+      "artists": [
+        {
+          "name": "Jenn Morel",
+          "url": "https://open.spotify.com/artist/7iWWbIVw66I3hHVy9crw6a"
+        }
+      ],
+      "duration_ms": 145576,
+      "name": "Tempo",
+      "url": "https://open.spotify.com/track/1A9PL1Y2cc8aBs6uLSdMHW"
     },
     {
       "added_at": "2023-07-24 18:55:43",
@@ -823,6 +823,22 @@
     {
       "added_at": "2023-07-24 18:55:43",
       "album": {
+        "name": "Sugar Boi",
+        "url": "https://open.spotify.com/album/6ZompWFaxtNkSguDPSVszb"
+      },
+      "artists": [
+        {
+          "name": "Immasoul",
+          "url": "https://open.spotify.com/artist/21neefJLiFuSR6sQlHDblG"
+        }
+      ],
+      "duration_ms": 174133,
+      "name": "Sugar Boi",
+      "url": "https://open.spotify.com/track/4wSGokexiP0n1wfGZALMLi"
+    },
+    {
+      "added_at": "2023-07-24 18:55:43",
+      "album": {
         "name": "Holy Ghost $$$",
         "url": "https://open.spotify.com/album/4pWMN5lBEFrwZde1kdCqrh"
       },
@@ -851,22 +867,6 @@
       "duration_ms": 217411,
       "name": "Para Mi",
       "url": "https://open.spotify.com/track/4DW0XUPnGT6hWuJYZxErVX"
-    },
-    {
-      "added_at": "2023-07-24 18:55:43",
-      "album": {
-        "name": "Sugar Boi",
-        "url": "https://open.spotify.com/album/6ZompWFaxtNkSguDPSVszb"
-      },
-      "artists": [
-        {
-          "name": "Immasoul",
-          "url": "https://open.spotify.com/artist/21neefJLiFuSR6sQlHDblG"
-        }
-      ],
-      "duration_ms": 174133,
-      "name": "Sugar Boi",
-      "url": "https://open.spotify.com/track/4wSGokexiP0n1wfGZALMLi"
     },
     {
       "added_at": "2023-07-24 18:55:43",
@@ -903,22 +903,6 @@
     {
       "added_at": "2023-07-24 18:55:43",
       "album": {
-        "name": "Maya",
-        "url": "https://open.spotify.com/album/7pXHSP4BzhDOQvm6W3k00v"
-      },
-      "artists": [
-        {
-          "name": "Joyce Santana",
-          "url": "https://open.spotify.com/artist/4zOhMWD0LoBe2nP7s9cHhX"
-        }
-      ],
-      "duration_ms": 187914,
-      "name": "Maya",
-      "url": "https://open.spotify.com/track/0FcOIIBRs6eW2YGonS4z9r"
-    },
-    {
-      "added_at": "2023-07-24 18:55:43",
-      "album": {
         "name": "Saque Otro Tema",
         "url": "https://open.spotify.com/album/07P3YTWehCjPYI571sbkew"
       },
@@ -931,6 +915,22 @@
       "duration_ms": 171250,
       "name": "Saque Otro Tema",
       "url": "https://open.spotify.com/track/0JNCNJZC29fOBjiCIaDwIu"
+    },
+    {
+      "added_at": "2023-07-24 18:55:43",
+      "album": {
+        "name": "Maya",
+        "url": "https://open.spotify.com/album/7pXHSP4BzhDOQvm6W3k00v"
+      },
+      "artists": [
+        {
+          "name": "Joyce Santana",
+          "url": "https://open.spotify.com/artist/4zOhMWD0LoBe2nP7s9cHhX"
+        }
+      ],
+      "duration_ms": 187914,
+      "name": "Maya",
+      "url": "https://open.spotify.com/track/0FcOIIBRs6eW2YGonS4z9r"
     },
     {
       "added_at": "2023-07-24 18:55:43",
@@ -987,22 +987,6 @@
     {
       "added_at": "2023-07-24 18:55:43",
       "album": {
-        "name": "Pa' El Alma",
-        "url": "https://open.spotify.com/album/0mQ5Zogqooq2V1S2k3gYUY"
-      },
-      "artists": [
-        {
-          "name": "Anmily Brown",
-          "url": "https://open.spotify.com/artist/1lrVxCIGcyqltmJ7hUdNmT"
-        }
-      ],
-      "duration_ms": 200930,
-      "name": "M\u00edrame",
-      "url": "https://open.spotify.com/track/4xuYmM0jxeQ7svyfZpciVl"
-    },
-    {
-      "added_at": "2023-07-24 18:55:43",
-      "album": {
         "name": "Rojo Rub\u00ed",
         "url": "https://open.spotify.com/album/6S1KXwY7uaibxhjMmKGCbk"
       },
@@ -1035,6 +1019,22 @@
       "duration_ms": 195276,
       "name": "Dime La Verdad",
       "url": "https://open.spotify.com/track/2ksfEETsqZ0La3QnJcfxbV"
+    },
+    {
+      "added_at": "2023-07-24 18:55:43",
+      "album": {
+        "name": "Pa' El Alma",
+        "url": "https://open.spotify.com/album/0mQ5Zogqooq2V1S2k3gYUY"
+      },
+      "artists": [
+        {
+          "name": "Anmily Brown",
+          "url": "https://open.spotify.com/artist/1lrVxCIGcyqltmJ7hUdNmT"
+        }
+      ],
+      "duration_ms": 200930,
+      "name": "M\u00edrame",
+      "url": "https://open.spotify.com/track/4xuYmM0jxeQ7svyfZpciVl"
     },
     {
       "added_at": "2023-07-24 18:55:43",

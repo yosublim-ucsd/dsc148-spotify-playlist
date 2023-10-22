@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSrj7tqQ9IOu.md) - [plain]
 
 > The best French indie tracks right now\. Cover : Adèle Castillon
 
-[Spotify](https://open.spotify.com/user/spotify) - 404,705 likes - 50 songs - 2 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 404,724 likes - 50 songs - 2 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSrj7tqQ9IOu.md) - [plain]
 | 9 | [Winter Solstice \- Braxe + Falcon Remix](https://open.spotify.com/track/5Wa4A6bu00160DzJWdyiC7) | [Phoenix](https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU), [Braxe + Falcon](https://open.spotify.com/artist/10sZHUBkoiCLucz4bbCEBA), [Alan Braxe](https://open.spotify.com/artist/24JRvbKfTcF2x7c2kCCJrW), [DJ Falcon](https://open.spotify.com/artist/7mLoDOOVW8VlPUTii10xH5) | [Winter Solstice \(Braxe + Falcon Remix\)](https://open.spotify.com/album/7ivaa2qMMkk1RfF1TDkcYz) | 4:00 |
 | 10 | [The Devil I Know](https://open.spotify.com/track/2ihQW4P9ZUhjNJLL7DYz1w) | [Peter Dallas](https://open.spotify.com/artist/47Te42t2C14Fo2yXqa6kZh), [éol](https://open.spotify.com/artist/3Qsh8vZLpSAHADVBkGD70N) | [The Devil I Know](https://open.spotify.com/album/0hJR4tbsE32LpjbdD8km3d) | 2:40 |
 | 11 | [L'an prochain](https://open.spotify.com/track/5KcrRKstOkD5USI4wA2hEV) | [Emma Hoet](https://open.spotify.com/artist/2XPd4InVAVACQRNm6DLIz9), [Jules Jaconelli](https://open.spotify.com/artist/5vQd9dKRdEZFKuMjtF4qoJ) | [L'an prochain](https://open.spotify.com/album/6kExkDePwNliVyZfXLRscx) | 3:20 |
-| 12 | [Cinéma](https://open.spotify.com/track/6KXJymOSI776EMEgY96JbP) | [Elephanz](https://open.spotify.com/artist/2CD8tl357w6zYA3XYuOJPO), [Zahia](https://open.spotify.com/artist/7tHaht7JQfkiOSH5QcPSTh) | [Rien De Personnel](https://open.spotify.com/album/5kO9QAxCNOKUwSQuvi4KAO) | 3:09 |
+| 12 | [Cinéma](https://open.spotify.com/track/6KXJymOSI776EMEgY96JbP) | [Elephanz](https://open.spotify.com/artist/2CD8tl357w6zYA3XYuOJPO), [Zahia Dehar](https://open.spotify.com/artist/5b6Y4VfGSc8rw3XA7PZPDh) | [Rien De Personnel](https://open.spotify.com/album/5kO9QAxCNOKUwSQuvi4KAO) | 3:09 |
 | 13 | [The Secret \(The Promise Version\)](https://open.spotify.com/track/5QjzQ7asp6pyZ3vA5hdJdH) | [Yodelice](https://open.spotify.com/artist/167abweXl3demO9x0VMMeJ) | [The Secret \(The Promise Version\)](https://open.spotify.com/album/5WljcXBf72wU7zEVumjKiT) | 3:30 |
 | 14 | [Game Boys](https://open.spotify.com/track/3QNhfuJkl6IWxnojizLG55) | [Camp Claude](https://open.spotify.com/artist/0TNyEQ0n7diilLgG1ozfrB), [Diane Sagnier](https://open.spotify.com/artist/7grNqGVCIRH4ZM3UR1QAay), [Rocket Mike](https://open.spotify.com/artist/18ssEKS9fXX1nbMg7mAzaU), [Leo Hellden](https://open.spotify.com/artist/2xuVdExl3fVXV8NjGOaSpL) | [Moody Moon](https://open.spotify.com/album/5KwugNWAlyYhFCGx2obkTY) | 2:53 |
 | 15 | [Chamallow](https://open.spotify.com/track/6mdGfjrWlzVxcHcqbOVN3q) | [Polo & Pan](https://open.spotify.com/artist/45yEuthJ9yq1rNXAOpBnqM) | [Carrossel Do Tempo](https://open.spotify.com/album/65mUUfH7lL3pVvAM8BCQ90) | 4:00 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSrj7tqQ9IOu.md) - [plain]
 | 49 | [L'été](https://open.spotify.com/track/3BsWBBgjhc9Iaqh74ffpTf) | [Pépite](https://open.spotify.com/artist/0oA0cg7ajEwV0EXKCAlQ63) | [L'été](https://open.spotify.com/album/7xTNZ0EmI8hmzZLFwQRUAB) | 3:20 |
 | 50 | [bb l'eau salée <3](https://open.spotify.com/track/6qMeuBJkaGj9rGDkw550pV) | [BARON.E](https://open.spotify.com/artist/1caQnYGFCNkm8cVRIzLZBE) | [bb l'eau salée <3](https://open.spotify.com/album/7vZ6cKjPGMmx8BIlWifr0n) | 3:24 |
 
-Snapshot ID: `MCwwOTI2OTkzNjA2NDdiM2QzNDFiY2NkNGVlM2Q0NTc4MWY5OGVkNmFk`
+Snapshot ID: `MCxiNDEyOWY5N2M0NjM0MzZiZTIxN2UyMmY4ODcxMjYzYmQ5YWU3YjY3`

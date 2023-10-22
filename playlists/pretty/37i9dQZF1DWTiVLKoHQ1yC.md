@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTiVLKoHQ1yC.md) - [plain]
 
 > Come alive with this progressive & melodic house selection.
 
-[Spotify](https://open.spotify.com/user/spotify) - 166,806 likes - 60 songs - 4 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 166,921 likes - 60 songs - 4 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,9 +33,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTiVLKoHQ1yC.md) - [plain]
 | 23 | [Zeit & Raum](https://open.spotify.com/track/2JgYy5MXQOxxsF5jCa8mnT) | [Ben Böhmer](https://open.spotify.com/artist/5tDjiBYUsTqzd0RkTZxK7u) | [Phases EP](https://open.spotify.com/album/3KkF7vJ9dwemVpVWTNiuC6) | 4:13 |
 | 24 | [Lost Gravity](https://open.spotify.com/track/4UwtgYX9wp4z9zLIfzVviV) | [Tinlicker](https://open.spotify.com/artist/5EmEZjq8eHEC6qFnT63Lza) | [Lost Gravity EP](https://open.spotify.com/album/6tQSndkw5ajwFDt0u1Cb1W) | 5:05 |
 | 25 | [Alkantara](https://open.spotify.com/track/4UnF7mAMF48oueqqhSLrai) | [Bottai](https://open.spotify.com/artist/2wghI3P3W8vxgsb0le3Fgk) | [Alkantara](https://open.spotify.com/album/208tzedbu4E8jrZp9dfsZo) | 3:36 |
-| 26 | [Starz](https://open.spotify.com/track/4QdrjvWnftlEW1tlRwxYvx) | [andhim](https://open.spotify.com/artist/6XJeFzmI6vrWyHcdB7EImP) | [Starz](https://open.spotify.com/album/6ABh7hs4z4lrjmp1R22R9t) | 5:00 |
+| 26 | [Was It the Wind That Stirred The Trees](https://open.spotify.com/track/444nE6DEGBPTjLgR39BjdT) | [Boy North](https://open.spotify.com/artist/5RWTv1TLAxHSP7N33pFJfN) | [Was It the Wind That Stirred The Trees](https://open.spotify.com/album/0e9kIrv9PyjGWubMLQXJyY) | 3:48 |
 | 27 | [Lost In You](https://open.spotify.com/track/2aqx6MOQxskEH5OlpTtyp2) | [Marsh](https://open.spotify.com/artist/1eucLGnPT27tdEh6MU29wp) | [Lost In You EP](https://open.spotify.com/album/2N2GUBaJpYW7xHbDU5lnHl) | 3:30 |
-| 28 | [Was It the Wind That Stirred The Trees](https://open.spotify.com/track/444nE6DEGBPTjLgR39BjdT) | [Boy North](https://open.spotify.com/artist/5RWTv1TLAxHSP7N33pFJfN) | [Was It the Wind That Stirred The Trees](https://open.spotify.com/album/0e9kIrv9PyjGWubMLQXJyY) | 3:48 |
+| 28 | [Starz](https://open.spotify.com/track/4QdrjvWnftlEW1tlRwxYvx) | [andhim](https://open.spotify.com/artist/6XJeFzmI6vrWyHcdB7EImP) | [Starz](https://open.spotify.com/album/6ABh7hs4z4lrjmp1R22R9t) | 5:00 |
 | 29 | [No Judgement \- Kölsch Remix Edit](https://open.spotify.com/track/0Dwb20y4Y174GDvLw0Dr51) | [Franky Rizardo](https://open.spotify.com/artist/2UgphhGSlC9QWgaZWUOCkl), [Joe Goddard](https://open.spotify.com/artist/380fnmlGnkyueBMqGWx2k5), [Kölsch](https://open.spotify.com/artist/2D9Oe8R9UhbMvFAsMJpXj0) | [No Judgement \(Kölsch Remix Edit\)](https://open.spotify.com/album/6cUbkloy5dDTZ9muvMLiOo) | 4:17 |
 | 30 | [Lose Your Head \- CamelPhat Remix](https://open.spotify.com/track/16Tsi2k0C9QNpyIXyMBbo6) | [London Grammar](https://open.spotify.com/artist/3Bd1cgCjtCI32PYvDC3ynO), [CamelPhat](https://open.spotify.com/artist/240wlM8vDrf6S4zCyzGj2W) | [The Remixes](https://open.spotify.com/album/0SI7sJIrvhZtGbUo97t0aX) | 3:36 |
 | 31 | [Piece Of Art](https://open.spotify.com/track/05Z9XLTEN2aJx3y6YWlGoJ) | [Kryder](https://open.spotify.com/artist/1xfLBmx0n8DQri9HxJsq9O) | [Piece Of Art](https://open.spotify.com/album/2FxV796hbaU52R033iD7s5) | 3:16 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTiVLKoHQ1yC.md) - [plain]
 | 59 | [Hope In Balance](https://open.spotify.com/track/4QoiPRqq271TEpzY6F785o) | [São Miguel](https://open.spotify.com/artist/1iVxCBBr46gznMxUBnnuMq), [Sebastian Reynoso](https://open.spotify.com/artist/4TYYLNG592TpKs4mfyQCFX) | [Hope In Balance](https://open.spotify.com/album/6KWDP1PTwlvP9lkWfYttyO) | 4:38 |
 | 60 | [Need You By My Side](https://open.spotify.com/track/09xjDhkPAbr3OqP9zYjnM8) | [Boy North](https://open.spotify.com/artist/5RWTv1TLAxHSP7N33pFJfN) | [Need You by My Side](https://open.spotify.com/album/1dQQsumH9Y0MO5xbq3Tr9s) | 3:20 |
 
-Snapshot ID: `MCwzMzlmNzc1NjAzMDg1Nzk2MGIzNWZhNmY1YWY2NmEzZDE5MTI0MTY0`
+Snapshot ID: `MCxiMzBhOGFmNjRkMThiYTg4Nzg4ZWY3MWI1YmJkNGQ1MTNiZDRmMzk2`

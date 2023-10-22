@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWvrRGuT6dlZ.md) - [plain]
 
 > Unearthing your new favourite artists\. Cover: Elaine, ICEBOX\. Artwork: Isu Kim.
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,593 likes - 150 songs - 8 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,605 likes - 150 songs - 8 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWvrRGuT6dlZ.md) - [plain]
 | 149 | [Shackle](https://open.spotify.com/track/2BPyKPCI4MMzUishOYGYJu) | [MSPUIYI](https://open.spotify.com/artist/1kcyeJ6CdwVqRsKEmkb9Ul), [NYK](https://open.spotify.com/artist/009SHiJ9rvFm3vNwL4SjZx) | [Shackle](https://open.spotify.com/album/0PMR3GiPKDrdJslDDoEgHN) | 3:16 |
 | 150 | [Twenty](https://open.spotify.com/track/3iGMa0hrJQv9EtFeTnBbyA) | [Wen Wei](https://open.spotify.com/artist/12LXmUdAbhmRP9CCa7wGHn) | [Twenty](https://open.spotify.com/album/6lzxaxTTPsO3OXnXHcEqJI) | 3:48 |
 
-Snapshot ID: `MCwyMTM2NTM4MzhlNDUzZGUxYzVhMWEwMmZmNDRlMDBkZGM1NzU5Yzc2`
+Snapshot ID: `MCwxNDczZDU4ZDJmNTEyMzBmODcyODQ4YTc1YzAxM2M1ZGJjMTQ2MjEw`

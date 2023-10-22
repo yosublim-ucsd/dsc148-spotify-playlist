@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSjkhfyRmxay.md) - [plain]
 
 > Canciones tranquilas para meditación y el tiempo de yoga familiar.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,123 likes - 194 songs - 10 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,122 likes - 194 songs - 10 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -203,4 +203,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSjkhfyRmxay.md) - [plain]
 | 193 | [Chasing Love](https://open.spotify.com/track/5HCMc28iow2u67EgxHejfZ) | [Mondbery](https://open.spotify.com/artist/3Ao4LdOPmNHIsDq8Y5gTmh) | [Chasing Love](https://open.spotify.com/album/3r9LKZab8u1XmEJbxQjSjV) | 2:11 |
 | 194 | [Closed Captions](https://open.spotify.com/track/3K3mUDPEx0sbqBWDMPmaWM) | [Broken Legacy](https://open.spotify.com/artist/3hG7itMdTJT8vc0JYh771M) | [Closed Captions](https://open.spotify.com/album/7yxynO2PaBolNG90xpL0W6) | 2:54 |
 
-Snapshot ID: `MCxhZGRhOTA4OGMxMmVlOGIzMGEyMjU1ZDJmN2MwMDgxZDNkZDM2MzRl`
+Snapshot ID: `MCwxODM5MTE5YmQ4YjMyMGM5Mjk4NzUwZDc2NjhmZWU0NWUxY2RkNTBk`

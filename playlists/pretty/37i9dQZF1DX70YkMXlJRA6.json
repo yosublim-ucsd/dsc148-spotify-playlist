@@ -1,12 +1,12 @@
 {
   "description": "Deja a tu cuerpo vibrar con el sabor electropical de distintas latitudes.",
-  "num_followers": 47010,
+  "num_followers": 47037,
   "original_name": "Club Electropical",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiOTljOGQ2YzQ0NGE5NmU4Mjk0OTlkMjU3MWRiNjk2MmJjYWM2NTk0",
+  "snapshot_id": "MCw3OThiYjhkMGYzY2ZlNDdkNDJhMzFiYmMzMTZlNjg2MWRkMGVjNzUy",
   "tracks": [
     {
       "added_at": "2022-06-07 16:47:23",
@@ -415,26 +415,6 @@
     {
       "added_at": "2022-06-07 16:47:23",
       "album": {
-        "name": "Mira Bien",
-        "url": "https://open.spotify.com/album/09TCMzRYLVe74o9uoEywaU"
-      },
-      "artists": [
-        {
-          "name": "Tonga Conga",
-          "url": "https://open.spotify.com/artist/2p0241roffcxojfJcnmvsU"
-        },
-        {
-          "name": "Mula",
-          "url": "https://open.spotify.com/artist/7bWZkUZ5drGDoGAFhGoYGE"
-        }
-      ],
-      "duration_ms": 207386,
-      "name": "Mira Bien",
-      "url": "https://open.spotify.com/track/0MBhNioCkdEUAusgm0FATa"
-    },
-    {
-      "added_at": "2022-06-07 16:47:23",
-      "album": {
         "name": "Et ta m\u00e8re (Solar Remix) [feat. Reyna Tropical]",
         "url": "https://open.spotify.com/album/3kzzsWSctX6CVegsmQB1cx"
       },
@@ -455,18 +435,22 @@
     {
       "added_at": "2022-06-07 16:47:23",
       "album": {
-        "name": "Agua",
-        "url": "https://open.spotify.com/album/37RnWMoZSgAtUKLmeslblE"
+        "name": "Mira Bien",
+        "url": "https://open.spotify.com/album/09TCMzRYLVe74o9uoEywaU"
       },
       "artists": [
         {
-          "name": "Bomba Est\u00e9reo",
-          "url": "https://open.spotify.com/artist/5n9bMYfz9qss2VOW89EVs2"
+          "name": "Tonga Conga",
+          "url": "https://open.spotify.com/artist/2p0241roffcxojfJcnmvsU"
+        },
+        {
+          "name": "Mula",
+          "url": "https://open.spotify.com/artist/7bWZkUZ5drGDoGAFhGoYGE"
         }
       ],
-      "duration_ms": 200666,
-      "name": "Agua",
-      "url": "https://open.spotify.com/track/2yhdug7HfG1Yt2KM3KQDBw"
+      "duration_ms": 207386,
+      "name": "Mira Bien",
+      "url": "https://open.spotify.com/track/0MBhNioCkdEUAusgm0FATa"
     },
     {
       "added_at": "2023-03-23 21:34:53",
@@ -491,6 +475,22 @@
       "duration_ms": 395632,
       "name": "Gato Negro - Daniel Hokum & okuma Remix",
       "url": "https://open.spotify.com/track/4lCjFg06zDoSOSFVxSQyzp"
+    },
+    {
+      "added_at": "2022-06-07 16:47:23",
+      "album": {
+        "name": "Agua",
+        "url": "https://open.spotify.com/album/37RnWMoZSgAtUKLmeslblE"
+      },
+      "artists": [
+        {
+          "name": "Bomba Est\u00e9reo",
+          "url": "https://open.spotify.com/artist/5n9bMYfz9qss2VOW89EVs2"
+        }
+      ],
+      "duration_ms": 200666,
+      "name": "Agua",
+      "url": "https://open.spotify.com/track/2yhdug7HfG1Yt2KM3KQDBw"
     },
     {
       "added_at": "2022-06-07 16:47:23",
@@ -533,22 +533,6 @@
       "url": "https://open.spotify.com/track/5h5Mc6KAFfrVzsP9ENIH0S"
     },
     {
-      "added_at": "2022-06-07 16:47:23",
-      "album": {
-        "name": "Baile Fodongo",
-        "url": "https://open.spotify.com/album/64c3abWCWgsE90nB69DsPE"
-      },
-      "artists": [
-        {
-          "name": "Altoparlante",
-          "url": "https://open.spotify.com/artist/1KNxS8isGUfOMFXmPNRlIU"
-        }
-      ],
-      "duration_ms": 306599,
-      "name": "Baile Fodongo",
-      "url": "https://open.spotify.com/track/1dlyPfKv2Bl5nYZzpO1VUX"
-    },
-    {
       "added_at": "2022-11-12 17:24:45",
       "album": {
         "name": "Piedras del Sol",
@@ -571,6 +555,22 @@
     {
       "added_at": "2022-06-07 16:47:23",
       "album": {
+        "name": "Baile Fodongo",
+        "url": "https://open.spotify.com/album/64c3abWCWgsE90nB69DsPE"
+      },
+      "artists": [
+        {
+          "name": "Altoparlante",
+          "url": "https://open.spotify.com/artist/1KNxS8isGUfOMFXmPNRlIU"
+        }
+      ],
+      "duration_ms": 306599,
+      "name": "Baile Fodongo",
+      "url": "https://open.spotify.com/track/1dlyPfKv2Bl5nYZzpO1VUX"
+    },
+    {
+      "added_at": "2022-06-07 16:47:23",
+      "album": {
         "name": "Magnetica",
         "url": "https://open.spotify.com/album/4RcIb3FX6H4PLqsjzB9onL"
       },
@@ -583,6 +583,26 @@
       "duration_ms": 230746,
       "name": "Sol Clap",
       "url": "https://open.spotify.com/track/1AgPNdwUyMtlvYCPbcf9ta"
+    },
+    {
+      "added_at": "2022-06-07 16:47:23",
+      "album": {
+        "name": "M\u00fasica Para Pick Up",
+        "url": "https://open.spotify.com/album/1XpYE30QnfPWIZxBEgK1Vo"
+      },
+      "artists": [
+        {
+          "name": "Pernett",
+          "url": "https://open.spotify.com/artist/2ovmrverobmQvD14n5REoU"
+        },
+        {
+          "name": "The Caribbean Ravers",
+          "url": "https://open.spotify.com/artist/48u4Rcx3bbMC5PtUm2AVcd"
+        }
+      ],
+      "duration_ms": 245426,
+      "name": "The Caribbean Raver",
+      "url": "https://open.spotify.com/track/1CKL36QvlImNhsMAbwhGIQ"
     },
     {
       "added_at": "2023-03-24 19:41:45",
@@ -607,22 +627,18 @@
     {
       "added_at": "2022-06-07 16:47:23",
       "album": {
-        "name": "M\u00fasica Para Pick Up",
-        "url": "https://open.spotify.com/album/1XpYE30QnfPWIZxBEgK1Vo"
+        "name": "Beat Cari",
+        "url": "https://open.spotify.com/album/2IsafQn6ZO6kBoBJSYVa8B"
       },
       "artists": [
         {
-          "name": "Pernett",
-          "url": "https://open.spotify.com/artist/2ovmrverobmQvD14n5REoU"
-        },
-        {
-          "name": "The Caribbean Ravers",
-          "url": "https://open.spotify.com/artist/48u4Rcx3bbMC5PtUm2AVcd"
+          "name": "CERO39",
+          "url": "https://open.spotify.com/artist/1B6UFfDLZPbLl1rpOmHmi0"
         }
       ],
-      "duration_ms": 245426,
-      "name": "The Caribbean Raver",
-      "url": "https://open.spotify.com/track/1CKL36QvlImNhsMAbwhGIQ"
+      "duration_ms": 332142,
+      "name": "Beat Cari",
+      "url": "https://open.spotify.com/track/627qPCQJceR1uXss77Gv8B"
     },
     {
       "added_at": "2022-06-07 16:47:23",
@@ -643,22 +659,6 @@
     {
       "added_at": "2022-06-07 16:47:23",
       "album": {
-        "name": "Beat Cari",
-        "url": "https://open.spotify.com/album/2IsafQn6ZO6kBoBJSYVa8B"
-      },
-      "artists": [
-        {
-          "name": "CERO39",
-          "url": "https://open.spotify.com/artist/1B6UFfDLZPbLl1rpOmHmi0"
-        }
-      ],
-      "duration_ms": 332142,
-      "name": "Beat Cari",
-      "url": "https://open.spotify.com/track/627qPCQJceR1uXss77Gv8B"
-    },
-    {
-      "added_at": "2022-06-07 16:47:23",
-      "album": {
         "name": "Pulso",
         "url": "https://open.spotify.com/album/7j3Y99ykzAuIKBKEZRQRUr"
       },
@@ -671,26 +671,6 @@
       "duration_ms": 284000,
       "name": "Costa Para\u00edso",
       "url": "https://open.spotify.com/track/3OwpEodtG16GbtDouOtHyK"
-    },
-    {
-      "added_at": "2022-06-30 17:42:11",
-      "album": {
-        "name": "Duele",
-        "url": "https://open.spotify.com/album/3cbrDaekOIx1EhHbtbr2nk"
-      },
-      "artists": [
-        {
-          "name": "Tonga Conga",
-          "url": "https://open.spotify.com/artist/2p0241roffcxojfJcnmvsU"
-        },
-        {
-          "name": "Vanessa Zamora",
-          "url": "https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC"
-        }
-      ],
-      "duration_ms": 197733,
-      "name": "Duele",
-      "url": "https://open.spotify.com/track/1q8pjaEhNAAFVzMyTb3pc9"
     },
     {
       "added_at": "2022-06-07 16:47:23",
@@ -711,6 +691,26 @@
       "duration_ms": 243000,
       "name": "Levante la Mano (Tonga Conga Remix)",
       "url": "https://open.spotify.com/track/631PEGUWU0kD8sNCh6AmOK"
+    },
+    {
+      "added_at": "2022-06-30 17:42:11",
+      "album": {
+        "name": "Duele",
+        "url": "https://open.spotify.com/album/3cbrDaekOIx1EhHbtbr2nk"
+      },
+      "artists": [
+        {
+          "name": "Tonga Conga",
+          "url": "https://open.spotify.com/artist/2p0241roffcxojfJcnmvsU"
+        },
+        {
+          "name": "Vanessa Zamora",
+          "url": "https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC"
+        }
+      ],
+      "duration_ms": 197733,
+      "name": "Duele",
+      "url": "https://open.spotify.com/track/1q8pjaEhNAAFVzMyTb3pc9"
     },
     {
       "added_at": "2022-06-07 16:47:23",
@@ -875,6 +875,22 @@
     {
       "added_at": "2022-06-07 16:47:23",
       "album": {
+        "name": "Planeta",
+        "url": "https://open.spotify.com/album/5zGB9eumbNxficstbn9e7R"
+      },
+      "artists": [
+        {
+          "name": "Bleepolar",
+          "url": "https://open.spotify.com/artist/5bJyVqX3ILcqs9CGDrDHYQ"
+        }
+      ],
+      "duration_ms": 210748,
+      "name": "Planeta",
+      "url": "https://open.spotify.com/track/2feE2TzHjLRK2gVMLzfWBU"
+    },
+    {
+      "added_at": "2022-06-07 16:47:23",
+      "album": {
         "name": "Diablo",
         "url": "https://open.spotify.com/album/6wTBAa1tAJ5B0VulRrSNOI"
       },
@@ -891,22 +907,6 @@
       "duration_ms": 172293,
       "name": "Diablo",
       "url": "https://open.spotify.com/track/4cC3UZROu1UdjLyHzNjvdk"
-    },
-    {
-      "added_at": "2022-06-07 16:47:23",
-      "album": {
-        "name": "Planeta",
-        "url": "https://open.spotify.com/album/5zGB9eumbNxficstbn9e7R"
-      },
-      "artists": [
-        {
-          "name": "Bleepolar",
-          "url": "https://open.spotify.com/artist/5bJyVqX3ILcqs9CGDrDHYQ"
-        }
-      ],
-      "duration_ms": 210748,
-      "name": "Planeta",
-      "url": "https://open.spotify.com/track/2feE2TzHjLRK2gVMLzfWBU"
     },
     {
       "added_at": "2022-06-07 16:47:23",

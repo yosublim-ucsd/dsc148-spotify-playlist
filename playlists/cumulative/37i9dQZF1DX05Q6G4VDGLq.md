@@ -4,7 +4,7 @@
 
 > Dulce jazz ideal para estudiar o relajarse.
 
-744 songs - 1 day 20 hr 42 min
+747 songs - 1 day 20 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -126,11 +126,12 @@
 | [Chimes](https://open.spotify.com/track/6gzPmb75SbQGuCWwtAoutC) | [Duponte et Duponte](https://open.spotify.com/artist/2deWXMlH853VExXZNmSe5o) | [Chimes](https://open.spotify.com/album/2n04MCWQqg1W7hXDVa5pzi) | 2:43 | 2022-06-28 |  |
 | [Clear as Autumn Nights](https://open.spotify.com/track/2PVMfghJc3ayLHjGbGjg3J) | [Martin Landström](https://open.spotify.com/artist/4S6bYPPOxQPs9hSnUBbGBN) | [This Is What I Want for Christmas](https://open.spotify.com/album/6auL7NTcuJr1TVvUcxizeV) | 5:01 | 2022-06-28 |  |
 | [Clear Sight](https://open.spotify.com/track/6LLyyfz8BYrHtd3yPkrPad) | [Midtown Trio](https://open.spotify.com/artist/6WVEwzrXXaJ8JTk1KLkleT) | [Clear Sight](https://open.spotify.com/album/7HPrgW1TsSF5rZAUoGKX4S) | 2:47 | 2022-09-29 |  |
+| [Closing Time](https://open.spotify.com/track/2qLTH8o4woaUd81rgUAeZp) | [The Southern Belle](https://open.spotify.com/artist/7b5QwOkTlJ9LVWJfofwAWV) | [Closing Time](https://open.spotify.com/album/6uvsg6dcwLw85DY6z4jMvh) | 3:36 | 2023-10-20 |  |
 | [Cloudy Days](https://open.spotify.com/track/1pODhqs4Aha6fD3Suxfv0d) | [Saphena Trio](https://open.spotify.com/artist/5G4s0oLrYmbqzsUoqJWyJd) | [Cloudy Days](https://open.spotify.com/album/542dNOx7fG1JsFFiEZaW2j) | 4:36 | 2023-10-06 |  |
 | [Clowns And Crowns](https://open.spotify.com/track/2xQWfbb9oAoPpeLNNIyOoR) | [Mike Coen](https://open.spotify.com/artist/17USEyRv0BAOsxvM5pnsA8) | [Clowns And Crowns](https://open.spotify.com/album/4LECNBb5hlVQolcsuoNt0p) | 4:01 | 2023-03-23 |  |
 | [Coffee Break](https://open.spotify.com/track/3d5AaKfto6cBmNjBVzBgFC) | [Vince Glen](https://open.spotify.com/artist/6Pm6y2MWQf8dMQJKJqSTic) | [Coffee Break](https://open.spotify.com/album/0d3mmV0a3l6uBdPOJndjjX) | 5:04 | 2022-06-28 |  |
 | [Come on..\. Lucky!](https://open.spotify.com/track/0gyjqALKXPICWiV5j7Bddn) | [The Three Queens](https://open.spotify.com/artist/0Rk4ZISv9eXs3Thg7rco7h) | [Come on..\. Lucky!](https://open.spotify.com/album/29N1R6VjY2ynfNJwAXROnX) | 2:44 | 2023-04-27 |  |
-| [Come Sunday](https://open.spotify.com/track/6XBbCNww5IHS2fPCdvpSyk) | [Gustaf Scheringer Trio](https://open.spotify.com/artist/0g6Xp2bFgFDypArAQ1rSsU) | [Come Sunday](https://open.spotify.com/album/3KHznapFExslE80Vo6XPAB) | 4:19 | 2022-08-30 |  |
+| [Come Sunday](https://open.spotify.com/track/6XBbCNww5IHS2fPCdvpSyk) | [Gustaf Scheringer Trio](https://open.spotify.com/artist/0g6Xp2bFgFDypArAQ1rSsU) | [Come Sunday](https://open.spotify.com/album/3KHznapFExslE80Vo6XPAB) | 4:19 | 2022-08-30 | 2023-10-22 |
 | [Comeuppance](https://open.spotify.com/track/3iU2rkahLELzejRd4zhtK8) | [Clover Post](https://open.spotify.com/artist/2XWP1prJQm6CLoHKAqXCEz) | [Comeuppance](https://open.spotify.com/album/0i12bOmKWymeeCHCTzj7En) | 4:35 | 2023-06-15 |  |
 | [Confidant](https://open.spotify.com/track/2uW43oEqS8nCOcMP7nwNLE) | [Bernstein Square](https://open.spotify.com/artist/0RdMRIhMDTQEpMcALRyQTK) | [Confidant](https://open.spotify.com/album/4SBCeZYO6ldszj9bzQHfPl) | 4:04 | 2022-06-28 |  |
 | [Constantly Changing](https://open.spotify.com/track/51mO5KysnUohGZS49sH3OM) | [Courtney Salas Group](https://open.spotify.com/artist/7hQlDvOgJjwCaF5Ecsvnj7) | [Constantly Changing](https://open.spotify.com/album/4DFOdq7KsYcOB1b5bTMDPJ) | 3:17 | 2022-06-28 |  |
@@ -356,7 +357,7 @@
 | [La Vie en rose](https://open.spotify.com/track/5E5quIvMG1ZlnwFqSolvhx) | [Tate Jackson Trio](https://open.spotify.com/artist/2xOmrHsNNnSQQwav65tSwZ) | [La Vie en rose](https://open.spotify.com/album/5FHVsjOvLsFzLPyxWBmM9E) | 2:48 | 2022-06-28 |  |
 | [Lady in the Blue Dress](https://open.spotify.com/track/4PtCTyed2hD6brWYYBZSQj) | [James Jackson Jazz Trio](https://open.spotify.com/artist/2VQmB7dgKLHJve0htcYfiQ) | [Lady in the Blue Dress](https://open.spotify.com/album/2nN6DzHIhxoFSzfEdxZszD) | 4:07 | 2022-06-28 |  |
 | [Laike](https://open.spotify.com/track/13xSrXLmna4YBMQUvSSbJT) | [Petter Bergander Trio](https://open.spotify.com/artist/5eWoy0qvKyobodZPFQVDW2) | [Kierkegaard´s Waltz](https://open.spotify.com/album/3gEJSUXhbeLwzMQxNIgGpw) | 5:54 | 2022-06-28 | 2022-07-29 |
-| [Laike](https://open.spotify.com/track/6tsxr5sJbe2iDq9VAcAcnu) | [Petter Bergander Trio](https://open.spotify.com/artist/5eWoy0qvKyobodZPFQVDW2) | [Kierkegaard's Waltz](https://open.spotify.com/album/2xwCjVaMRUCPGLMglXOaIs) | 5:54 | 2022-09-21 |  |
+| [Laike](https://open.spotify.com/track/6tsxr5sJbe2iDq9VAcAcnu) | [Petter Bergander Trio](https://open.spotify.com/artist/5eWoy0qvKyobodZPFQVDW2) | [Kierkegaard's Waltz](https://open.spotify.com/album/2xwCjVaMRUCPGLMglXOaIs) | 5:54 | 2022-09-21 | 2023-10-22 |
 | [Lake Arrowhead](https://open.spotify.com/track/1iceRErjDazYdrZoB8eo48) | [George Kuntz Four](https://open.spotify.com/artist/6bPFM0SEcXOJwLr0aY024d) | [Lake Arrowhead](https://open.spotify.com/album/2PER2MGdknFkZG5AAXDA9v) | 3:38 | 2023-04-20 |  |
 | [Lament](https://open.spotify.com/track/3HeycjEKlBwsSyAm78dle6) | [Astoria Three](https://open.spotify.com/artist/72pfIIbH2JQbShGyx4c7ri) | [Lament](https://open.spotify.com/album/42sHzP8X3IDIZLdIQem4b7) | 2:55 | 2022-06-28 |  |
 | [Landing](https://open.spotify.com/track/5Ay0F2FMw9j8HiAKqDI8re) | [Red Brick Lane](https://open.spotify.com/artist/2zw8MpGMCASv0YfeAuUUzJ) | [Landing](https://open.spotify.com/album/3iwyJEQgPwHdyBl2eCxjjZ) | 3:01 | 2022-06-28 |  |
@@ -374,6 +375,7 @@
 | [Least\-Dressed Woman](https://open.spotify.com/track/4LuOtrVQrtJB8pdD5H7vi2) | [The Three Queens](https://open.spotify.com/artist/0Rk4ZISv9eXs3Thg7rco7h) | [Least\-Dressed Woman](https://open.spotify.com/album/24GEw2L1N3Woo4WBdExMPc) | 3:12 | 2023-06-15 |  |
 | [Lesters's Tears](https://open.spotify.com/track/4h4NyGcAmkInin8wNidCfS) | [Tadd Norman](https://open.spotify.com/artist/51qxeic1xO4PPLgxnKPjzo) | [Lesters's Tears](https://open.spotify.com/album/4QV6IWuWigFnh8XXrPyMRX) | 3:52 | 2023-05-11 |  |
 | [Let's go uptown](https://open.spotify.com/track/4zYPDHYsvTdUMMy8gRkBAA) | [Newington Green](https://open.spotify.com/artist/33hLFARszQC3uxE93PiNeE) | [Let's go uptown](https://open.spotify.com/album/30OyjkGuNWO3QGGtlcjZw3) | 2:20 | 2023-01-26 |  |
+| [Like a Starfish in the Sea](https://open.spotify.com/track/3BoZ25lh3CE3wkrkVl49qT) | [Prism Trio](https://open.spotify.com/artist/6oDehRFhqt0eSSSIKD4XgE) | [Beauty Becomes You](https://open.spotify.com/album/4sBnW9DTjFjoZQQtVRedpm) | 3:07 | 2023-10-20 |  |
 | [Like Naomi](https://open.spotify.com/track/4iSBCmDWlP2Pp30uDg34vZ) | [Japari Park](https://open.spotify.com/artist/5waLCZV0AzAqjHOln3XZMW) | [Like Naomi](https://open.spotify.com/album/3HqJKYNSlszttPwKtghxFC) | 3:52 | 2023-06-15 |  |
 | [Lily\-white](https://open.spotify.com/track/68Pfz62lgw8iaV4r9rAiC5) | [Southside Trio](https://open.spotify.com/artist/2XVJkKNBPA834yV4NKISBw) | [Lily\-white](https://open.spotify.com/album/7kvJgDGsdssa8n3Rv5HFNI) | 2:22 | 2023-08-25 |  |
 | [Limerence](https://open.spotify.com/track/7C3UrJfqTmzpUtKG6XIgAV) | [Andy Goodman](https://open.spotify.com/artist/2zsZdG7rQdh5YDhxCSeVJi) | [Limerence](https://open.spotify.com/album/4dfayCxblG2wzUIJUYQeXG) | 3:47 | 2023-06-15 |  |
@@ -572,7 +574,7 @@
 | [Slow Dance](https://open.spotify.com/track/5AbIjlheQPOLLgGanARp5h) | [Jonah Anderson](https://open.spotify.com/artist/5Pb7mQGBSkDqTrQKTKeSZa) | [Slow Dance](https://open.spotify.com/album/6UqEbtOPsQfr9dgxNJjSLy) | 3:53 | 2023-09-08 |  |
 | [Slow fox](https://open.spotify.com/track/1wfEcUI12BqJQEPjXm3j03) | [The Stilltones](https://open.spotify.com/artist/4ggqOcGiYxjjAaKhYzXUzR) | [Slow fox](https://open.spotify.com/album/7IUSsZavpXkMkTx19eJaiA) | 3:35 | 2023-09-22 |  |
 | [Small Steps](https://open.spotify.com/track/4OpfAngpSybDsNk7TTaO1B) | [Herman Fred Trio](https://open.spotify.com/artist/1sTe1YB89lKzCmOju2ipvk) | [Small Steps](https://open.spotify.com/album/1GI9Bz7hFaoAn9Ugy9D0hA) | 3:32 | 2022-11-10 | 2023-09-02 |
-| [Smoke Gets In Your Eyes](https://open.spotify.com/track/5fBpjh6BGlsKG8n328kcF4) | [Charles Daisey & Friends](https://open.spotify.com/artist/3w2I7PA6Gx8aD6IZMBJP20) | [Smoke Gets In Your Eyes](https://open.spotify.com/album/2AFoG96YrQjDuCwIxJCGj1) | 4:26 | 2022-06-28 |  |
+| [Smoke Gets In Your Eyes](https://open.spotify.com/track/5fBpjh6BGlsKG8n328kcF4) | [Charles Daisey & Friends](https://open.spotify.com/artist/3w2I7PA6Gx8aD6IZMBJP20) | [Smoke Gets In Your Eyes](https://open.spotify.com/album/2AFoG96YrQjDuCwIxJCGj1) | 4:26 | 2022-06-28 | 2023-10-22 |
 | [Smooth Sailing](https://open.spotify.com/track/6yRs3JOb7GP0PYhlG6hVbe) | [Norberg](https://open.spotify.com/artist/4clALHmaxBpsJ0aWHb3Rdy) | [Smooth Sailing](https://open.spotify.com/album/1k28WBci9JPB2zCTplu2GJ) | 2:05 | 2023-08-10 |  |
 | [Sno Peas](https://open.spotify.com/track/0miIOTXulrs7IwTwsstbjG) | [Mandevilla](https://open.spotify.com/artist/4Na5KNSDTg543P1FMbaAMk) | [On A Misty Night](https://open.spotify.com/album/4wOwSu9EKBoAywQp51RVV9) | 2:52 | 2022-06-28 |  |
 | [Snow Keeps Falling](https://open.spotify.com/track/2bNYgVK6yXzAuFD6uMWKsv) | [Ronald & the Fairies](https://open.spotify.com/artist/7EyQn2KSLStE6tXcdpDOXm) | [Snow Keeps Falling](https://open.spotify.com/album/1rKjHI0aRqFSIP6mUDAW38) | 2:31 | 2022-06-28 |  |
@@ -740,6 +742,7 @@
 | [You Are Too Beautiful](https://open.spotify.com/track/3rGH9xLvAP2R6445FaLVs8) | [Grace Carey](https://open.spotify.com/artist/6r8iQcLJAEKpFGN0FSusEd) | [You Are Too Beautiful](https://open.spotify.com/album/33NCFfEVLRuMZduy6wUiQA) | 3:18 | 2023-06-01 |  |
 | [You Confuse Me](https://open.spotify.com/track/46WT4GuSWziUJIDtjUJHQr) | [Jeff Laine & Co](https://open.spotify.com/artist/4i2Ps9G6SHd16reEGA5xva) | [You Confuse Me](https://open.spotify.com/album/4lXqZHzOGouVzTh2J2FFip) | 3:11 | 2022-06-28 |  |
 | [You Do Something To Me](https://open.spotify.com/track/064k0lT6tP4AdWull7SSz0) | [Belmont Central](https://open.spotify.com/artist/0A1I0z7snq8RVRDjVA5qzE) | [You Do Something To Me](https://open.spotify.com/album/3Lbgbr1X5ACTAeWIYgsFEU) | 3:10 | 2023-03-23 |  |
+| [You Gave Me That Look](https://open.spotify.com/track/2BBxt787LSuIdPXN6YM3S1) | [Original Three](https://open.spotify.com/artist/0Zi9ASlerELD4nnDLV7wv3) | [You Gave Me That Look](https://open.spotify.com/album/4ZFC18j6lyUKueqtxiorZa) | 5:04 | 2023-10-20 |  |
 | [You Gets You](https://open.spotify.com/track/7iwkqiTANcoolkeTwZygcb) | [Alex Decante](https://open.spotify.com/artist/52Sd0A8IsB2XLpEUIvs6En) | [You Gets You](https://open.spotify.com/album/2czKkrGOjLJ8rLDQnnH3aU) | 3:47 | 2022-06-28 | 2022-10-08 |
 | [You Know How It Goes](https://open.spotify.com/track/3TR8fYlSYXGANhHjjRb6hX) | [Astoria Three](https://open.spotify.com/artist/72pfIIbH2JQbShGyx4c7ri) | [You Know How It Goes](https://open.spotify.com/album/4RmNODl5TII1EIBiasiP3c) | 3:48 | 2022-11-17 | 2022-12-24 |
 | [You Know Its Me](https://open.spotify.com/track/05fdpG9n1YmQU1wOTCLaj8) | [The Ebbing Tides](https://open.spotify.com/artist/4WW6fT5v4jH5eHqCn9myM3) | [You Know Its Me](https://open.spotify.com/album/2ET8mBknnRZFO1gea0toYN) | 2:28 | 2023-01-19 |  |

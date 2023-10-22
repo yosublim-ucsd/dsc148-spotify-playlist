@@ -4,7 +4,7 @@
 
 > Relaxing and salutary ambient music.
 
-416 songs - 21 hr 45 min
+417 songs - 21 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -116,7 +116,8 @@
 | [Drifting](https://open.spotify.com/track/07HyW4lru1xdPooGfX3s6x) | [Vibrational Winds](https://open.spotify.com/artist/3S51HXTFUW0h2esKYpsZ5y) | [Drifting](https://open.spotify.com/album/6TDEdmR4SSC7mUXXU8EdbQ) | 3:13 | 2022-05-26 | 2023-08-25 |
 | [Dyheu](https://open.spotify.com/track/4M4cdo4JsVFHwVwhjMRzR4) | [Lee Azalea](https://open.spotify.com/artist/5nQNc4ExpTTrS00gqk1J2y) | [Dyheu](https://open.spotify.com/album/5BakAaou4Ns1pxprMEeDUO) | 2:36 | 2023-03-30 |  |
 | [Earth](https://open.spotify.com/track/6UFSJF8pGDYJelHoadqPEe) | [John Ocean](https://open.spotify.com/artist/0UWgEdhywZEON8EtIBYGoL) | [Elements](https://open.spotify.com/album/21ARxTWYYBim8u58eH9NRi) | 3:24 | 2022-05-26 | 2022-09-03 |
-| [Earthly Love](https://open.spotify.com/track/4HdAZDJUp0fCPhTaSjPco6) | [Sizmara](https://open.spotify.com/artist/54kLR6UglFWK1l2EkHmTmX) | [Earthly Love](https://open.spotify.com/album/55WYwfIVdbZLRmbAltgiSy) | 2:33 | 2023-07-07 |  |
+| [Earthly Love](https://open.spotify.com/track/4HdAZDJUp0fCPhTaSjPco6) | [Sizmara](https://open.spotify.com/artist/54kLR6UglFWK1l2EkHmTmX) | [Earthly Love](https://open.spotify.com/album/55WYwfIVdbZLRmbAltgiSy) | 2:33 | 2023-07-07 | 2023-10-22 |
+| [Earthly Love](https://open.spotify.com/track/5dkXkBZcI58lWOTVzZl8id) | [Sizmara](https://open.spotify.com/artist/54kLR6UglFWK1l2EkHmTmX) | [Earthly Love](https://open.spotify.com/album/1AS3GOWwU940geT2t10CH6) | 2:33 | 2023-10-20 |  |
 | [Eclipse](https://open.spotify.com/track/2roGc5wvCNpRmUckCDMUON) | [Indra Jamal](https://open.spotify.com/artist/093uaz0ncoUvd9mN3jKF3E) | [Eclipse](https://open.spotify.com/album/4CLRGpIhLUCwhSJXydDeme) | 3:02 | 2022-05-26 |  |
 | [Eclipse](https://open.spotify.com/track/1a21XB3h0NPXc3e7AoYc3O) | [Olivier Lupin](https://open.spotify.com/artist/3ho5RtJG5r5HUTsUC7ZLSN) | [Eclipse](https://open.spotify.com/album/4aXLfqcjaxpUTZvIuUbQLJ) | 2:22 | 2022-05-26 |  |
 | [Ecstasies of Desire](https://open.spotify.com/track/4oTsb3maEdFoUeQpLdKUT7) | [Zarobi](https://open.spotify.com/artist/6Z65n1gThYKu7yuFqF5XmB) | [Ecstasies of Desire](https://open.spotify.com/album/4EBdkEei2r6qVyMT5RVSQF) | 2:31 | 2022-05-26 |  |

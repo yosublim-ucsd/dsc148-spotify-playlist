@@ -4,7 +4,7 @@
 
 > Heavy Metal forever \\m/ classics to brand new tracks, play it loud\. Cover: Judas Priest
 
-742 songs - 2 day 7 hr 5 min
+743 songs - 2 day 7 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -614,7 +614,8 @@
 | [The Chapeltown Rag](https://open.spotify.com/track/4DQEhtFcX9nK0zWNjb1xBw) | [Slipknot](https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8) | [The Chapeltown Rag](https://open.spotify.com/album/4I3hdRt7CVofGcgbheQ2fk) | 4:51 | 2022-07-13 | 2022-10-08 |
 | [The Circle Of Five](https://open.spotify.com/track/5jdR14PR0vkIpEWwhcl2S2) | [Burning Witches](https://open.spotify.com/artist/0eNuNAhL4dW2nvKbSe2mS8) | [The Circle Of Five](https://open.spotify.com/album/5VJp3QUj1sZYDoSQIJ706N) | 5:25 | 2021-12-29 | 2022-07-15 |
 | [The Day The World Stood Still](https://open.spotify.com/track/4Ent8F0wqsVBlR45MnVJoI) | [The Raven Age](https://open.spotify.com/artist/1Ia5iTYHMBsMQfi7Fbcbuw) | [The Day The World Stood Still](https://open.spotify.com/album/6o0LeUB677iN5E2hmcLRJN) | 4:46 | 2021-12-17 | 2022-04-20 |
-| [The Dirt I'm Buried In](https://open.spotify.com/track/4sg5Vfd2fM6Y8gMz5VYXz6) | [Avatar](https://open.spotify.com/artist/4jpaXieuls7LVzG1uma5Rs) | [The Dirt I'm Buried In](https://open.spotify.com/album/3EMCGsx2qeFTthjuyFdMfr) | 4:04 | 2023-01-13 |  |
+| [The Dirt I'm Buried In](https://open.spotify.com/track/4OjAxkNVwleUdCUS098eBw) | [Avatar](https://open.spotify.com/artist/4jpaXieuls7LVzG1uma5Rs) | [Dance Devil Dance](https://open.spotify.com/album/5GH4bz50nqlXUm4xyK4tC2) | 4:04 | 2023-10-13 |  |
+| [The Dirt I'm Buried In](https://open.spotify.com/track/4sg5Vfd2fM6Y8gMz5VYXz6) | [Avatar](https://open.spotify.com/artist/4jpaXieuls7LVzG1uma5Rs) | [The Dirt I'm Buried In](https://open.spotify.com/album/3EMCGsx2qeFTthjuyFdMfr) | 4:04 | 2023-01-13 | 2023-10-22 |
 | [The Dying Song \(Time To Sing\)](https://open.spotify.com/track/6rsoBvxrlxdmqJyGPPciyq) | [Slipknot](https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8) | [The End, So Far](https://open.spotify.com/album/3hWTXO0w02D6YpVRyLRmQz) | 3:23 | 2022-12-16 |  |
 | [The Earth, the Moon, the Sun](https://open.spotify.com/track/4zwUVVDEHuXZ8h2JZzAnvH) | [Diviner](https://open.spotify.com/artist/7kMNJQdOwnb5V30mkqg62S) | [The Earth, the Moon, the Sun](https://open.spotify.com/album/7C7G9aCcYI3GLqOZP1YnNy) | 5:21 | 2021-12-17 | 2022-05-23 |
 | [The Evil in You](https://open.spotify.com/track/4NBHoM14KNvtYVEJ3L5Xqb) | [At Vance](https://open.spotify.com/artist/4alZ73UZp90icEjdKjSIxw) | [The Evil in You](https://open.spotify.com/album/3qiVYUJv8F8OG1RxwvJxNx) | 5:11 | 2021-12-17 | 2022-07-23 |

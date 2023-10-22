@@ -1,12 +1,12 @@
 {
   "description": "Music that created modern indie as we know it. Cover: Yeah Yeah Yeahs",
-  "num_followers": 438819,
+  "num_followers": 438927,
   "original_name": "The 2000s Indie Scene",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmZWM1NTQ3OGNlZjczNGM5MTQ0MjlkY2Q4MjJkOTYxMmFiMzM2NTZm",
+  "snapshot_id": "MCwzY2JlY2M0ZWNhMDg3OWI1MmI4NWNmZDhmMjlmMDc3OTU1NTA5MzQ3",
   "tracks": [
     {
       "added_at": "2023-10-19 19:07:56",
@@ -1175,22 +1175,6 @@
     {
       "added_at": "2023-01-18 01:04:44",
       "album": {
-        "name": "The Satanic Satanist",
-        "url": "https://open.spotify.com/album/72uoxpSaDs7keunx3LbvrX"
-      },
-      "artists": [
-        {
-          "name": "Portugal. The Man",
-          "url": "https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T"
-        }
-      ],
-      "duration_ms": 179360,
-      "name": "People Say",
-      "url": "https://open.spotify.com/track/0WTq8iUzSlGDAbowEdRKKD"
-    },
-    {
-      "added_at": "2023-01-18 01:04:44",
-      "album": {
         "name": "Life For Rent",
         "url": "https://open.spotify.com/album/0X9QCwbxIRm4MWKWnIHNaA"
       },
@@ -1203,6 +1187,22 @@
       "duration_ms": 240040,
       "name": "White Flag",
       "url": "https://open.spotify.com/track/4kbz7rHVbyjKasuuqelccQ"
+    },
+    {
+      "added_at": "2023-01-18 01:04:44",
+      "album": {
+        "name": "The Satanic Satanist",
+        "url": "https://open.spotify.com/album/72uoxpSaDs7keunx3LbvrX"
+      },
+      "artists": [
+        {
+          "name": "Portugal. The Man",
+          "url": "https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T"
+        }
+      ],
+      "duration_ms": 179360,
+      "name": "People Say",
+      "url": "https://open.spotify.com/track/0WTq8iUzSlGDAbowEdRKKD"
     },
     {
       "added_at": "2023-01-18 01:04:44",

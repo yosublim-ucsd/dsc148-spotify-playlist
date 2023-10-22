@@ -1,12 +1,12 @@
 {
   "description": "",
-  "num_followers": 104707,
+  "num_followers": 104744,
   "original_name": "Ver\u00e3o 2023",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxMjEwZTIzZjkwYWQxZTI1YTEzNzZkYjMxY2EzNmEzNWI4ODI1ODJj",
+  "snapshot_id": "MCwxYThiMGE0MThhZDMxNTY0OWQxODRiZGVmYTEwODZiZmJmODVhYzIx",
   "tracks": [
     {
       "added_at": "2023-08-29 17:00:51",
@@ -535,6 +535,22 @@
     {
       "added_at": "2023-08-29 17:00:51",
       "album": {
+        "name": "Tattoo",
+        "url": "https://open.spotify.com/album/0LRTS7FyYLppkDLOZT02Xp"
+      },
+      "artists": [
+        {
+          "name": "Loreen",
+          "url": "https://open.spotify.com/artist/49aaHxvAJ0tCh0F15OnwIl"
+        }
+      ],
+      "duration_ms": 183374,
+      "name": "Tattoo",
+      "url": "https://open.spotify.com/track/1DmW5Ep6ywYwxc2HMT5BG6"
+    },
+    {
+      "added_at": "2023-08-29 17:00:51",
+      "album": {
         "name": "RR",
         "url": "https://open.spotify.com/album/50uChhk7AKkzDKytDixjYW"
       },
@@ -551,22 +567,6 @@
       "duration_ms": 194543,
       "name": "BESO",
       "url": "https://open.spotify.com/track/609E1JCInJncactoMmkDon"
-    },
-    {
-      "added_at": "2023-08-29 17:00:51",
-      "album": {
-        "name": "Tattoo",
-        "url": "https://open.spotify.com/album/0LRTS7FyYLppkDLOZT02Xp"
-      },
-      "artists": [
-        {
-          "name": "Loreen",
-          "url": "https://open.spotify.com/artist/49aaHxvAJ0tCh0F15OnwIl"
-        }
-      ],
-      "duration_ms": 183374,
-      "name": "Tattoo",
-      "url": "https://open.spotify.com/track/1DmW5Ep6ywYwxc2HMT5BG6"
     },
     {
       "added_at": "2023-08-29 17:00:51",
@@ -1335,26 +1335,6 @@
     {
       "added_at": "2023-08-29 17:00:51",
       "album": {
-        "name": "Tchuco Nela",
-        "url": "https://open.spotify.com/album/15MbkLbjzgrQchBQwybR5L"
-      },
-      "artists": [
-        {
-          "name": "MC Rogerinho",
-          "url": "https://open.spotify.com/artist/5JbQpbeFaKfuZVFzKwaawP"
-        },
-        {
-          "name": "Wesley Safad\u00e3o",
-          "url": "https://open.spotify.com/artist/1AL2GKpmRrKXkYIcASuRFa"
-        }
-      ],
-      "duration_ms": 170880,
-      "name": "Tchuco Nela",
-      "url": "https://open.spotify.com/track/3ShKPhFkexrwl7WoyTtNND"
-    },
-    {
-      "added_at": "2023-08-29 17:00:51",
-      "album": {
         "name": "Malvad\u00e3o 3",
         "url": "https://open.spotify.com/album/1XrBVMRctpsTGw189yBIsl"
       },
@@ -1379,6 +1359,26 @@
       "duration_ms": 141769,
       "name": "Malvad\u00e3o 3",
       "url": "https://open.spotify.com/track/0NBgyml7T0IvUNbXIkcSpH"
+    },
+    {
+      "added_at": "2023-08-29 17:00:51",
+      "album": {
+        "name": "Tchuco Nela",
+        "url": "https://open.spotify.com/album/15MbkLbjzgrQchBQwybR5L"
+      },
+      "artists": [
+        {
+          "name": "MC Rogerinho",
+          "url": "https://open.spotify.com/artist/5JbQpbeFaKfuZVFzKwaawP"
+        },
+        {
+          "name": "Wesley Safad\u00e3o",
+          "url": "https://open.spotify.com/artist/1AL2GKpmRrKXkYIcASuRFa"
+        }
+      ],
+      "duration_ms": 170880,
+      "name": "Tchuco Nela",
+      "url": "https://open.spotify.com/track/3ShKPhFkexrwl7WoyTtNND"
     },
     {
       "added_at": "2023-08-29 17:00:51",
@@ -1771,6 +1771,22 @@
     {
       "added_at": "2023-08-29 17:00:51",
       "album": {
+        "name": "Borboletas",
+        "url": "https://open.spotify.com/album/1i51I1eMbdhkaH8AShzWjh"
+      },
+      "artists": [
+        {
+          "name": "Gama WNTD",
+          "url": "https://open.spotify.com/artist/0T49oz78JYl4FkVJPGlJiD"
+        }
+      ],
+      "duration_ms": 204281,
+      "name": "Borboletas",
+      "url": "https://open.spotify.com/track/1h1JMmAzXR6lWJ7KnJQkU7"
+    },
+    {
+      "added_at": "2023-08-29 17:00:51",
+      "album": {
         "name": "Socadona (feat. Mr. Vegas)",
         "url": "https://open.spotify.com/album/7DtOy4YHoRoFQDbCNi9rDi"
       },
@@ -1799,42 +1815,6 @@
     {
       "added_at": "2023-08-29 17:00:51",
       "album": {
-        "name": "Borboletas",
-        "url": "https://open.spotify.com/album/1i51I1eMbdhkaH8AShzWjh"
-      },
-      "artists": [
-        {
-          "name": "Gama WNTD",
-          "url": "https://open.spotify.com/artist/0T49oz78JYl4FkVJPGlJiD"
-        }
-      ],
-      "duration_ms": 204281,
-      "name": "Borboletas",
-      "url": "https://open.spotify.com/track/1h1JMmAzXR6lWJ7KnJQkU7"
-    },
-    {
-      "added_at": "2023-08-29 17:00:51",
-      "album": {
-        "name": "Sentir Saudade (feat. Bia Caboz)",
-        "url": "https://open.spotify.com/album/1NyzzX2INte0TLjsSsbHqv"
-      },
-      "artists": [
-        {
-          "name": "Kura",
-          "url": "https://open.spotify.com/artist/3NwcP2GO2sZZS2BVvWcc9T"
-        },
-        {
-          "name": "Bia Caboz",
-          "url": "https://open.spotify.com/artist/0riQxiJoPm0Wh4M9ofN50a"
-        }
-      ],
-      "duration_ms": 205440,
-      "name": "Sentir Saudade (feat. Bia Caboz)",
-      "url": "https://open.spotify.com/track/2vpOZH0GPh2uYVap8hHaC1"
-    },
-    {
-      "added_at": "2023-08-29 17:00:51",
-      "album": {
         "name": "underwater",
         "url": "https://open.spotify.com/album/6uJWdgjsmnvZZIia4xEDTr"
       },
@@ -1855,6 +1835,26 @@
       "duration_ms": 236814,
       "name": "underwater",
       "url": "https://open.spotify.com/track/4vfHRcjchtEjRLspB4HUpc"
+    },
+    {
+      "added_at": "2023-08-29 17:00:51",
+      "album": {
+        "name": "Sentir Saudade (feat. Bia Caboz)",
+        "url": "https://open.spotify.com/album/1NyzzX2INte0TLjsSsbHqv"
+      },
+      "artists": [
+        {
+          "name": "Kura",
+          "url": "https://open.spotify.com/artist/3NwcP2GO2sZZS2BVvWcc9T"
+        },
+        {
+          "name": "Bia Caboz",
+          "url": "https://open.spotify.com/artist/0riQxiJoPm0Wh4M9ofN50a"
+        }
+      ],
+      "duration_ms": 205440,
+      "name": "Sentir Saudade (feat. Bia Caboz)",
+      "url": "https://open.spotify.com/track/2vpOZH0GPh2uYVap8hHaC1"
     },
     {
       "added_at": "2023-08-29 17:00:51",

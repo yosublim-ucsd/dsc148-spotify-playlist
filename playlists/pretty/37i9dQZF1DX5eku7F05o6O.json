@@ -1,12 +1,12 @@
 {
   "description": "Le plus beau, le plus triste. Photo: Alexandra Streliski",
-  "num_followers": 3667,
+  "num_followers": 3665,
   "original_name": "Tout doux",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlNTNmYTIwZjBmODc3NGFkNjg2NDhmNjU3Nzk1NWY4NTIzZDU2YzY2",
+  "snapshot_id": "MCwzODY5YjM3N2Q0ODc2YzZhYmFjNDIwYTU3MmZlYWI3OWU5ZjY5Yzky",
   "tracks": [
     {
       "added_at": "2021-02-06 03:12:40",
@@ -239,18 +239,18 @@
     {
       "added_at": "2021-02-06 03:12:40",
       "album": {
-        "name": "Mara Tremblay",
-        "url": "https://open.spotify.com/album/7xY5VWfJROGenbou4vtfz6"
+        "name": "La mort des \u00e9toiles",
+        "url": "https://open.spotify.com/album/6irhBIxDE9UcjLOE4Ih063"
       },
       "artists": [
         {
-          "name": "Mara Tremblay",
-          "url": "https://open.spotify.com/artist/1tt3YXVP4AltaStku4rpf3"
+          "name": "Les s\u0153urs Boulay",
+          "url": "https://open.spotify.com/artist/4x2kecgGRpDooou3CIYnlr"
         }
       ],
-      "duration_ms": 245093,
-      "name": "Les Aurores",
-      "url": "https://open.spotify.com/track/1AaMx4sHbjGx5h38jsjBCF"
+      "duration_ms": 259733,
+      "name": "La mort des \u00e9toiles",
+      "url": "https://open.spotify.com/track/43ScxV6zQAbwCZyPfPhRaI"
     },
     {
       "added_at": "2021-02-06 03:12:40",
@@ -275,18 +275,18 @@
     {
       "added_at": "2021-02-06 03:12:40",
       "album": {
-        "name": "La mort des \u00e9toiles",
-        "url": "https://open.spotify.com/album/6irhBIxDE9UcjLOE4Ih063"
+        "name": "Mara Tremblay",
+        "url": "https://open.spotify.com/album/7xY5VWfJROGenbou4vtfz6"
       },
       "artists": [
         {
-          "name": "Les s\u0153urs Boulay",
-          "url": "https://open.spotify.com/artist/4x2kecgGRpDooou3CIYnlr"
+          "name": "Mara Tremblay",
+          "url": "https://open.spotify.com/artist/1tt3YXVP4AltaStku4rpf3"
         }
       ],
-      "duration_ms": 259733,
-      "name": "La mort des \u00e9toiles",
-      "url": "https://open.spotify.com/track/43ScxV6zQAbwCZyPfPhRaI"
+      "duration_ms": 245093,
+      "name": "Les Aurores",
+      "url": "https://open.spotify.com/track/1AaMx4sHbjGx5h38jsjBCF"
     },
     {
       "added_at": "2021-02-06 03:12:40",
@@ -551,6 +551,22 @@
     {
       "added_at": "2021-02-06 03:12:40",
       "album": {
+        "name": "EP",
+        "url": "https://open.spotify.com/album/63RCfZKMzbxI8ltgzSzM1G"
+      },
+      "artists": [
+        {
+          "name": "Lydia K\u00e9pinski",
+          "url": "https://open.spotify.com/artist/6lqpzCZWhymonpvpAVKx0C"
+        }
+      ],
+      "duration_ms": 180000,
+      "name": "M'attends-tu",
+      "url": "https://open.spotify.com/track/1fxOtL0FoCD9kSY9Luis96"
+    },
+    {
+      "added_at": "2021-02-06 03:12:40",
+      "album": {
         "name": "Siberia (Acoustic)",
         "url": "https://open.spotify.com/album/0Q2uO7vZmCMsuodQwchAOH"
       },
@@ -567,22 +583,6 @@
       "duration_ms": 179682,
       "name": "Peace Sign (feat. Coeur de Pirate) [Acoustic]",
       "url": "https://open.spotify.com/track/1jbmOarFutcvbIJpRUPwoF"
-    },
-    {
-      "added_at": "2021-02-06 03:12:40",
-      "album": {
-        "name": "EP",
-        "url": "https://open.spotify.com/album/63RCfZKMzbxI8ltgzSzM1G"
-      },
-      "artists": [
-        {
-          "name": "Lydia K\u00e9pinski",
-          "url": "https://open.spotify.com/artist/6lqpzCZWhymonpvpAVKx0C"
-        }
-      ],
-      "duration_ms": 180000,
-      "name": "M'attends-tu",
-      "url": "https://open.spotify.com/track/1fxOtL0FoCD9kSY9Luis96"
     },
     {
       "added_at": "2021-02-06 03:12:40",
@@ -931,22 +931,6 @@
     {
       "added_at": "2021-02-06 03:12:40",
       "album": {
-        "name": "Ubiquit\u00e9",
-        "url": "https://open.spotify.com/album/5SC0ot9Pkx2U33PD0VCBT8"
-      },
-      "artists": [
-        {
-          "name": "Martin Lizotte",
-          "url": "https://open.spotify.com/artist/4BHr9YxHWGZd8OVIcCVnd5"
-        }
-      ],
-      "duration_ms": 200255,
-      "name": "Voltige",
-      "url": "https://open.spotify.com/track/3k4RLVYe0AGrVfuwYJyCMy"
-    },
-    {
-      "added_at": "2021-02-06 03:12:40",
-      "album": {
         "name": "Les amours parall\u00e8les",
         "url": "https://open.spotify.com/album/6t5F9hgEjkanSW3opjKB82"
       },
@@ -959,6 +943,22 @@
       "duration_ms": 218935,
       "name": "L\u2019oiseau m\u00e9canique",
       "url": "https://open.spotify.com/track/1TCklgqTPFMMD8YV5G4wNB"
+    },
+    {
+      "added_at": "2021-02-06 03:12:40",
+      "album": {
+        "name": "Ubiquit\u00e9",
+        "url": "https://open.spotify.com/album/5SC0ot9Pkx2U33PD0VCBT8"
+      },
+      "artists": [
+        {
+          "name": "Martin Lizotte",
+          "url": "https://open.spotify.com/artist/4BHr9YxHWGZd8OVIcCVnd5"
+        }
+      ],
+      "duration_ms": 200255,
+      "name": "Voltige",
+      "url": "https://open.spotify.com/track/3k4RLVYe0AGrVfuwYJyCMy"
     },
     {
       "added_at": "2021-02-06 03:12:40",
@@ -995,22 +995,6 @@
     {
       "added_at": "2021-02-06 03:12:40",
       "album": {
-        "name": "And The Boys",
-        "url": "https://open.spotify.com/album/29j3QuJ0u2TAflB5oOzRCu"
-      },
-      "artists": [
-        {
-          "name": "Angus & Julia Stone",
-          "url": "https://open.spotify.com/artist/4tvKz56Tr39bkhcQUTO0Xr"
-        }
-      ],
-      "duration_ms": 250240,
-      "name": "And The Boys - French Version",
-      "url": "https://open.spotify.com/track/4EYhacL135vKV7bujL7pRs"
-    },
-    {
-      "added_at": "2021-02-06 03:12:40",
-      "album": {
         "name": "Sentiments humains",
         "url": "https://open.spotify.com/album/6iExYO8AbDltsJz1Tre3qS"
       },
@@ -1023,6 +1007,22 @@
       "duration_ms": 237200,
       "name": "Nous restions l\u00e0",
       "url": "https://open.spotify.com/track/24PaQVwM1wwWuyoKLDTrXg"
+    },
+    {
+      "added_at": "2021-02-06 03:12:40",
+      "album": {
+        "name": "And The Boys",
+        "url": "https://open.spotify.com/album/29j3QuJ0u2TAflB5oOzRCu"
+      },
+      "artists": [
+        {
+          "name": "Angus & Julia Stone",
+          "url": "https://open.spotify.com/artist/4tvKz56Tr39bkhcQUTO0Xr"
+        }
+      ],
+      "duration_ms": 250240,
+      "name": "And The Boys - French Version",
+      "url": "https://open.spotify.com/track/4EYhacL135vKV7bujL7pRs"
     },
     {
       "added_at": "2021-02-06 03:12:40",
@@ -1111,22 +1111,6 @@
     {
       "added_at": "2021-02-06 03:12:40",
       "album": {
-        "name": "A Wider Space, B-Sides",
-        "url": "https://open.spotify.com/album/5mUBEzLAxef1iGhMFIEcLx"
-      },
-      "artists": [
-        {
-          "name": "Groenland",
-          "url": "https://open.spotify.com/artist/5jf8dqTo3zaKS16FmTFxWC"
-        }
-      ],
-      "duration_ms": 222720,
-      "name": "Cabin (VF)",
-      "url": "https://open.spotify.com/track/1LEB7rebJJrztPAKKa8zay"
-    },
-    {
-      "added_at": "2021-02-06 03:12:40",
-      "album": {
         "name": "Bygone",
         "url": "https://open.spotify.com/album/6kULtQJS1RP8J2s3Ra7aT2"
       },
@@ -1155,6 +1139,22 @@
       "duration_ms": 246613,
       "name": "J'irai l\u00e0",
       "url": "https://open.spotify.com/track/2TgmYxs09xgmfy16ENWLkG"
+    },
+    {
+      "added_at": "2021-02-06 03:12:40",
+      "album": {
+        "name": "A Wider Space, B-Sides",
+        "url": "https://open.spotify.com/album/5mUBEzLAxef1iGhMFIEcLx"
+      },
+      "artists": [
+        {
+          "name": "Groenland",
+          "url": "https://open.spotify.com/artist/5jf8dqTo3zaKS16FmTFxWC"
+        }
+      ],
+      "duration_ms": 222720,
+      "name": "Cabin (VF)",
+      "url": "https://open.spotify.com/track/1LEB7rebJJrztPAKKa8zay"
     },
     {
       "added_at": "2021-02-06 03:12:40",
@@ -1271,22 +1271,6 @@
     {
       "added_at": "2021-02-06 03:12:40",
       "album": {
-        "name": "Parades",
-        "url": "https://open.spotify.com/album/68gezXq5hixi4zYIow8L22"
-      },
-      "artists": [
-        {
-          "name": "Mina Tindle",
-          "url": "https://open.spotify.com/artist/1myZw5gJTFWZUrqv4Qdq2E"
-        }
-      ],
-      "duration_ms": 213106,
-      "name": "Je sais",
-      "url": "https://open.spotify.com/track/3LDuDSAyLuICLyhieUy6v0"
-    },
-    {
-      "added_at": "2021-02-06 03:12:40",
-      "album": {
         "name": "Le plein de r\u00e9confort",
         "url": "https://open.spotify.com/album/3vkPYDNAcj1AeHtkrau0bd"
       },
@@ -1299,6 +1283,22 @@
       "duration_ms": 215295,
       "name": "Le plein de r\u00e9confort",
       "url": "https://open.spotify.com/track/5bK1QSJQr6bzmw14C38cB8"
+    },
+    {
+      "added_at": "2021-02-06 03:12:40",
+      "album": {
+        "name": "Parades",
+        "url": "https://open.spotify.com/album/68gezXq5hixi4zYIow8L22"
+      },
+      "artists": [
+        {
+          "name": "Mina Tindle",
+          "url": "https://open.spotify.com/artist/1myZw5gJTFWZUrqv4Qdq2E"
+        }
+      ],
+      "duration_ms": 213106,
+      "name": "Je sais",
+      "url": "https://open.spotify.com/track/3LDuDSAyLuICLyhieUy6v0"
     },
     {
       "added_at": "2021-02-06 03:12:40",
@@ -1515,22 +1515,6 @@
     {
       "added_at": "2021-02-06 03:12:40",
       "album": {
-        "name": "Les filles sages vont au paradis les autres vont o\u00f9 elles veulent",
-        "url": "https://open.spotify.com/album/60gk5lYerWSscx4ec7iNnn"
-      },
-      "artists": [
-        {
-          "name": "Samuele",
-          "url": "https://open.spotify.com/artist/0p0KSaRWc5tzxkzbujbScQ"
-        }
-      ],
-      "duration_ms": 256361,
-      "name": "Dactylo",
-      "url": "https://open.spotify.com/track/4XX69muE4DKyvFKZ6I6K7m"
-    },
-    {
-      "added_at": "2021-02-06 03:12:40",
-      "album": {
         "name": "Et toi, tu fais quoi?",
         "url": "https://open.spotify.com/album/2DcbZ4lcUpvrnorUuiAXZX"
       },
@@ -1543,6 +1527,22 @@
       "duration_ms": 189586,
       "name": "Jamais seule",
       "url": "https://open.spotify.com/track/6NrmySVZbHNk5vBbZeYOop"
+    },
+    {
+      "added_at": "2021-02-06 03:12:40",
+      "album": {
+        "name": "Les filles sages vont au paradis les autres vont o\u00f9 elles veulent",
+        "url": "https://open.spotify.com/album/60gk5lYerWSscx4ec7iNnn"
+      },
+      "artists": [
+        {
+          "name": "Samuele",
+          "url": "https://open.spotify.com/artist/0p0KSaRWc5tzxkzbujbScQ"
+        }
+      ],
+      "duration_ms": 256361,
+      "name": "Dactylo",
+      "url": "https://open.spotify.com/track/4XX69muE4DKyvFKZ6I6K7m"
     },
     {
       "added_at": "2021-02-06 03:12:40",

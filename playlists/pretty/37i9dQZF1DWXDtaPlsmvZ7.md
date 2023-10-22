@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXDtaPlsmvZ7.md) - [plain]
 
 > A mover el cucu con estas cadenciosas versiones cumbiatizadas.
 
-[Spotify](https://open.spotify.com/user/spotify) - 105,987 likes - 75 songs - 4 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 106,021 likes - 75 songs - 4 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -73,15 +73,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXDtaPlsmvZ7.md) - [plain]
 | 63 | [Luces](https://open.spotify.com/track/2A7ZbcDSmZEP7pzomG43Sv) | [Bial Hclap](https://open.spotify.com/artist/6f2R15yk7Bem9aU3nyXXo1), [Valzzi](https://open.spotify.com/artist/0IbphE6Bv2bv5nuFHY6bfD) | [Luces](https://open.spotify.com/album/1nyyJVjVHzC8TdX7IoVU0o) | 3:02 |
 | 64 | [La Mejor Version de Mi](https://open.spotify.com/track/6yBbgqbWxMVLqnzGwiiB8r) | [Las Culisueltas](https://open.spotify.com/artist/6GfDEGpIgzDdxCBpNCF4Np), [La Sonora Master](https://open.spotify.com/artist/34ncxwjKmuXtfWo8wh91sL) | [Tropitango](https://open.spotify.com/album/4dOlABdZn7dUJwrzJCX4pb) | 1:52 |
 | 65 | [Dulce \(A La La La La Long\)](https://open.spotify.com/track/6wUz0vZ4F3ceJVN6XoTtbT) | [Los Fumancheros](https://open.spotify.com/artist/1ddoQssa4i9K8i5NXDknd7) | [Dulce \(A La La La La Long\)](https://open.spotify.com/album/1CKYVWjxAdkdNbd6RPaCN0) | 3:32 |
-| 66 | [Ya No Tiene Novio \- Version Cumbia](https://open.spotify.com/track/2akbizyZrFqGzUZzSUQiVq) | [Otto Bunge](https://open.spotify.com/artist/52B23cu0u8HfuhNLQIhtZn), [Cande Grau](https://open.spotify.com/artist/6HxOHuLKJXWfA1txQu0A1o), [Agu Cartier](https://open.spotify.com/artist/4fqtP4zl3FiAwzrmPUInbW) | [Ya No Tiene Novio \(Version Cumbia\)](https://open.spotify.com/album/6Ke6vYnNX8xsOHiLKl9m77) | 3:00 |
-| 67 | [Como Yo Nadie Te a Amado / MI Historia Entre Tus Dedos](https://open.spotify.com/track/5A9eRb37HxwUTHn8WHTQ8J) | [Marito](https://open.spotify.com/artist/6635eN3p3KGQiPdlFFvred) | [Como Yo Nadie Te Ha Amado / Mi Historia Entre Tus Dedos](https://open.spotify.com/album/4HCrPU5PaQr2QXtYghu5uM) | 5:53 |
+| 66 | [Como Yo Nadie Te a Amado / MI Historia Entre Tus Dedos](https://open.spotify.com/track/5A9eRb37HxwUTHn8WHTQ8J) | [Marito](https://open.spotify.com/artist/6635eN3p3KGQiPdlFFvred) | [Como Yo Nadie Te Ha Amado / Mi Historia Entre Tus Dedos](https://open.spotify.com/album/4HCrPU5PaQr2QXtYghu5uM) | 5:53 |
+| 67 | [Ya No Tiene Novio \- Version Cumbia](https://open.spotify.com/track/2akbizyZrFqGzUZzSUQiVq) | [Otto Bunge](https://open.spotify.com/artist/52B23cu0u8HfuhNLQIhtZn), [Cande Grau](https://open.spotify.com/artist/6HxOHuLKJXWfA1txQu0A1o), [Agu Cartier](https://open.spotify.com/artist/4fqtP4zl3FiAwzrmPUInbW) | [Ya No Tiene Novio \(Version Cumbia\)](https://open.spotify.com/album/6Ke6vYnNX8xsOHiLKl9m77) | 3:00 |
 | 68 | [Despacito](https://open.spotify.com/track/4MJFHjrzeFsia49jrsh2lu) | [Nuevo Klan](https://open.spotify.com/artist/6wwRGPHUmHBGYbyHnBa50u) | [2017 \(\#Veintediecisiete\)](https://open.spotify.com/album/6cOefEIxlLxmiK3oz0OypE) | 4:38 |
 | 69 | [¿Por Qué Te Vas?](https://open.spotify.com/track/5MyvrPjiTEq8KgJWFfzT9y) | [Elidian](https://open.spotify.com/artist/1cmdGf7H8WvP2EImi02Vz4) | [¿Por qué Te Vas?](https://open.spotify.com/album/7IjO1vAxpTqnlKmzDcb01o) | 3:35 |
 | 70 | [Puntos Suspensivos](https://open.spotify.com/track/2ySUUTXVJkPqOfN2jmPeAW) | [Latam Sonora](https://open.spotify.com/artist/4AxOu00BxKnsEKsDf4lfpa) | [Puntos Suspensivos](https://open.spotify.com/album/0QyB4CmC5FdWCtdJiZ9h3K) | 2:50 |
 | 71 | [Reggaeton Lento](https://open.spotify.com/track/5pT4ZI8pghpB294iQOds0E) | [LemonChamp](https://open.spotify.com/artist/3Tralte9fDtBGOq8ULPaXn) | [Lemonchamp](https://open.spotify.com/album/4Ie3Z2Ss3MPXX0OVjAnT9y) | 2:36 |
 | 72 | [Procura](https://open.spotify.com/track/4EhJSTlHXyP5dbz1CaZZmU) | [Cristian Jacobo](https://open.spotify.com/artist/02HnByHOPN5e2RXNHZ9HhW) | [Procura](https://open.spotify.com/album/0M0rRbZMiMlwEyXn06zJPy) | 4:32 |
 | 73 | [Felices Los 4 \- Version Cumbia](https://open.spotify.com/track/70VKTITzq3LkUUMmWFrZ8l) | [Alex Dover](https://open.spotify.com/artist/1mZ4z5FjhzO1nEVCsl3wUz), [Chule](https://open.spotify.com/artist/09QoQi6E7GP5AePICzRcZe) | [Felices Los 4 \(Version Cumbia\)](https://open.spotify.com/album/735ID4Ax2DldOpClH686PW) | 2:48 |
-| 74 | [Clavado en un Bar](https://open.spotify.com/track/41OhLBVZ1vhQSbw7WDfcAq) | [El Combo Loco](https://open.spotify.com/artist/1xWqDlS9XUQQlKzbm4dWEn) | [El Combo Loco](https://open.spotify.com/album/37AK87c1LWBvaSNoBI0jNO) | 3:21 |
-| 75 | [Bidi Bidi Bom Bom](https://open.spotify.com/track/5rb3whySuw8zcp0HtUVeEO) | [Musicalísimo Fuego Indio](https://open.spotify.com/artist/0rH58cEKLQvObKk2mR7rZN) | [Retro Con](https://open.spotify.com/album/3lbfNpHzH7PMTgmwYJpwHt) | 3:25 |
+| 74 | [Bidi Bidi Bom Bom](https://open.spotify.com/track/5rb3whySuw8zcp0HtUVeEO) | [Musicalísimo Fuego Indio](https://open.spotify.com/artist/0rH58cEKLQvObKk2mR7rZN) | [Retro Con](https://open.spotify.com/album/3lbfNpHzH7PMTgmwYJpwHt) | 3:25 |
+| 75 | [Clavado en un Bar](https://open.spotify.com/track/41OhLBVZ1vhQSbw7WDfcAq) | [El Combo Loco](https://open.spotify.com/artist/1xWqDlS9XUQQlKzbm4dWEn) | [El Combo Loco](https://open.spotify.com/album/37AK87c1LWBvaSNoBI0jNO) | 3:21 |
 
-Snapshot ID: `MCw4MjAwMmU1NmNmMjQ5MjgwNWQ1Y2UyODU2YzkwN2M2MjcyYzY5YmE3`
+Snapshot ID: `MCxiODljYjg4ZjEyNzg1MzFjYTBkYjM4NjI5NzkwYmZmZTc0MGY0NTY1`

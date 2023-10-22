@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZZCoBbLu26P.md) - [plain]
 
 > Queens everywhere \- givin' us life\. Cover: Tia Kofi
 
-[Spotify](https://open.spotify.com/user/spotify) - 82,960 likes - 90 songs - 5 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 82,977 likes - 90 songs - 5 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZZCoBbLu26P.md) - [plain]
 | 89 | [AAA \(feat\. Alaska Thunderfuck, Courtney Act & Willam \)](https://open.spotify.com/track/4aCczCIMedqUdGUcUqVb1N) | [The AAA Girls](https://open.spotify.com/artist/0RQTMmeu6M6VQg5zPeWKgw), [Alaska Thunderfuck](https://open.spotify.com/artist/4k2ggpJpzdQHCBQ84f1jBy), [Courtney Act](https://open.spotify.com/artist/1zoflf6jZMLDZ65uJXAAwq), [Willam](https://open.spotify.com/artist/6l0msaZPAzFDz1UDDv6BV8) | [Access All Areas](https://open.spotify.com/album/4K8CUDdTzgmhtlVPTpGIS9) | 3:13 |
 | 90 | [Pray for Love \- Formation Remix](https://open.spotify.com/track/3sOd6DeqHC1wkKBqyZbfE4) | [Love Ssega](https://open.spotify.com/artist/5NxG91O2LcOKUktBYVWiWd) | [Pray for Love](https://open.spotify.com/album/66CHixhq5wWkHHhsGJ3wpl) | 3:55 |
 
-Snapshot ID: `MCw0OGZjNzU2M2MwOTc3ZjJmYWQ2OTYyNGIyOWQ4MzEzNWM3MTM0ZmZm`
+Snapshot ID: `MCwxYWRkYTZiYTI5OTEzZWJiM2YwYjFmNTUyYmM3NDk1NWZjOTI3ZTQx`

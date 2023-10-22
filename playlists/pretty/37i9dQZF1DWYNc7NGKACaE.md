@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYNc7NGKACaE.md) - [plain]
 
 > essa é só pra quem vive no 2.0x
 
-[Spotify](https://open.spotify.com/user/spotify) - 69,946 likes - 65 songs - 2 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 70,047 likes - 65 songs - 2 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,8 +25,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYNc7NGKACaE.md) - [plain]
 | 15 | [Deixa Escondido \(Speed\) \- Remix](https://open.spotify.com/track/3yH9JvETN22IB1KDEMBv7Y) | [Vitux](https://open.spotify.com/artist/53uZ1yBIdMXGoGIJlVab5t) | [Deixa Escondido \(Speed\) \[Remix\]](https://open.spotify.com/album/1205QRpQV4bEJw6YsShzkh) | 2:31 |
 | 16 | [HOJE ELA PEDE PANDORA \- Speed UP](https://open.spotify.com/track/2c7sA8ePcA4AvoBdWBoSyE) | [Sujiro Kimimami](https://open.spotify.com/artist/2nqx2yufaBmTkQyQJtNBrR), [SUPER XANDÃO](https://open.spotify.com/artist/3uhZu06g8d2N7gMIHDGgSP) | [HOJE ELA PEDE PANDORA \(Speed UP\)](https://open.spotify.com/album/7GRLhqWvMLlGeI504mVAmF) | 3:22 |
 | 17 | [Brotei No Baile Da Matinha \- Tiktok](https://open.spotify.com/track/5kMfOzYm4xE5zdt2cH2rFy) | [BR DA TIJUCA](https://open.spotify.com/artist/7KEk6kxe9YqyuVg9QeMVNQ), [Dj Cabelão Do Turano](https://open.spotify.com/artist/06E0qNGr33u2Dlxy21C3Rb), [Medellin](https://open.spotify.com/artist/06zC1Z0YDLeWPBLIEAkswh) | [Brotei No Baile Da Matinha \(Tiktok\)](https://open.spotify.com/album/4K63K2sdjaW6ySiaynrEGo) | 1:46 |
-| 18 | [Put0 & Cheiroso \(Speed Plug\)](https://open.spotify.com/track/4A8qiMlkmXJDo9D8G3coYr) | [Jvcriaa](https://open.spotify.com/artist/0vu0cYjf77leIXg2xaj6uG), [éoTGL](https://open.spotify.com/artist/5h32OOrRYLBSUfE7COLjfx), [ProdbySnow](https://open.spotify.com/artist/2u1iQQ4ZbVvPEwhpWVExUe), [Denzelthreal](https://open.spotify.com/artist/1CZmKC8jyRLzsDmYuCw850), [Oficialtalim](https://open.spotify.com/artist/48NAhXDturv64ONhQZpkAM) | [Put0 & Cheiroso \(Speed Plug\)](https://open.spotify.com/album/2ybG6TaxLTpdxlD3iKSE1D) | 2:39 |
-| 19 | [SIMPLESMENTE ELA, NÃO CONSIGO VIVER LONGE](https://open.spotify.com/track/4vZ0z3T7VLK0cAmytlaL7j) | [Funk SÉRIE GOLD](https://open.spotify.com/artist/1IaKgxqkPHO3AZxeKi1n5n) | [SIMPLESMENTE ELA, NÃO CONSIGO VIVER LONGE](https://open.spotify.com/album/3usDkrN06OZGhSRPB3bwnG) | 2:33 |
+| 18 | [SIMPLESMENTE ELA, NÃO CONSIGO VIVER LONGE](https://open.spotify.com/track/4vZ0z3T7VLK0cAmytlaL7j) | [Funk SÉRIE GOLD](https://open.spotify.com/artist/1IaKgxqkPHO3AZxeKi1n5n) | [SIMPLESMENTE ELA, NÃO CONSIGO VIVER LONGE](https://open.spotify.com/album/3usDkrN06OZGhSRPB3bwnG) | 2:33 |
+| 19 | [Put0 & Cheiroso \(Speed Plug\)](https://open.spotify.com/track/4A8qiMlkmXJDo9D8G3coYr) | [Jvcriaa](https://open.spotify.com/artist/0vu0cYjf77leIXg2xaj6uG), [éoTGL](https://open.spotify.com/artist/5h32OOrRYLBSUfE7COLjfx), [ProdbySnow](https://open.spotify.com/artist/2u1iQQ4ZbVvPEwhpWVExUe), [Denzelthreal](https://open.spotify.com/artist/1CZmKC8jyRLzsDmYuCw850), [Oficialtalim](https://open.spotify.com/artist/48NAhXDturv64ONhQZpkAM) | [Put0 & Cheiroso \(Speed Plug\)](https://open.spotify.com/album/2ybG6TaxLTpdxlD3iKSE1D) | 2:39 |
 | 20 | [Ela Tá Querendo \- Remix](https://open.spotify.com/track/3AB3etyCs8orfDXKB7OVez) | [Gabb MC](https://open.spotify.com/artist/5qyPbwqvOEp7FvR1EeTQQ2), [Gaab](https://open.spotify.com/artist/2iK1rsbYstkSVn57M4s8ut), [2L Motta](https://open.spotify.com/artist/6vlGnGiNA4XMXY6aPhBowm), [DJ MK De Niterói](https://open.spotify.com/artist/4QBJyByBb8tDUFD9XRi5Rs), [Love Funk](https://open.spotify.com/artist/64DTkZLH6KkkMwZEEZ5VWC) | [Ela Tá Querendo \(Remix\)](https://open.spotify.com/album/205zkN1K6TB8WPFwXxVq3O) | 1:15 |
 | 21 | [Subzero \(Speed Plug\)](https://open.spotify.com/track/7nRkeXa1Kn63CV1WmVxttB) | [Caeljugz](https://open.spotify.com/artist/70QYj3IRKyvbr7xZcpzkZw) | [Subzero \(Speed Plug\)](https://open.spotify.com/album/44mblZRV7Zfkd4NJXO58dI) | 2:05 |
 | 22 | [Bora Bill \( Speed Up \)](https://open.spotify.com/track/0AYpmDJgiWUZeFyNRQNYOL) | [neri´s](https://open.spotify.com/artist/4xZLCFL4431VfYQAP7cffQ) | [Bora Bill \( Speed Up \)](https://open.spotify.com/album/4UwzWJtLo9CqnFkgxQJgpn) | 1:44 |
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYNc7NGKACaE.md) - [plain]
 | 64 | [Tipo Naldo \- Speed Up](https://open.spotify.com/track/2qtBBIFce6oCciYrb84Mgh) | [tiaresz](https://open.spotify.com/artist/4v6LpdfGfBSAdeVdBgUasP), [DJ Wkilla](https://open.spotify.com/artist/5nHUlAMjYkOtzSvqwzcdUW) | [Tipo Naldo](https://open.spotify.com/album/02ZI31XkyjAi7w9zANAUMQ) | 2:18 |
 | 65 | [Como Era Antes..\. \(Speed Up\)](https://open.spotify.com/track/1ehN4TuEBlGb3ievwvTIhQ) | [rs9](https://open.spotify.com/artist/3pg4wlhwWAUDvmONc1O0i9) | [Como Era Antes](https://open.spotify.com/album/6ftwzFoSNWFnJLcZ2seY98) | 1:04 |
 
-Snapshot ID: `MCw5ZjgzNjEzNDRjYzM0YzlhMTljYjI0ZDE0MzRjMjBkZGU3OWFjMTg3`
+Snapshot ID: `MCw3MGFlNWJiMDNhOGRjNmJiNmNmZjVkYWVkZmU1N2E3ZDNlN2QyNDI1`

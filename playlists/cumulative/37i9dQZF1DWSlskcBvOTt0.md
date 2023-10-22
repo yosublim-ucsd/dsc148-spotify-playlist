@@ -4,7 +4,7 @@
 
 > Hypnotic melodic <a href="spotify:genre:house">house</a> and <a href="spotify:genre:techno">techno</a> to light up the night.
 
-517 songs - 2 day 2 hr 17 min
+518 songs - 2 day 2 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,7 +23,7 @@
 | [Alabora \- Foxall Pale Blue Remix](https://open.spotify.com/track/32hpq6FjVS2QrE5Z0q8Ffa) | [Beyhude](https://open.spotify.com/artist/65orViGnlMcbptdIGceZzo), [Foxall](https://open.spotify.com/artist/3iT6d90Vy630068736OgW8) | [Alabora](https://open.spotify.com/album/5aFbgu112bBrasrwQWVk2O) | 7:50 | 2021-05-07 | 2023-08-08 |
 | [Alive](https://open.spotify.com/track/43yv23e1pejzlyvs5Fsa5w) | [Franky Wah](https://open.spotify.com/artist/3IG3Ub4ra8AuSxCFDVkVco), [Vintage Culture](https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts) | [Alive](https://open.spotify.com/album/2AP6dy9DNEXjERfyveb35H) | 3:53 | 2023-03-31 |  |
 | [Alkebulan \- David Mayer Remix](https://open.spotify.com/track/4Bl14xQWo7Q6jagOcPZ5mI) | [ANT LaROCK](https://open.spotify.com/artist/6u4RO7eYTIJW3TEITwgzhS), [Roland Clark](https://open.spotify.com/artist/4OGlp2UdUQGPJVbvJ82Cz5), [David Mayer](https://open.spotify.com/artist/7Mf7RKErlQ5maEdHTXNexf) | [Alkebulan Remix](https://open.spotify.com/album/2JoZyLBoWtjzNLJKsXNoVs) | 7:50 | 2021-04-21 | 2023-01-11 |
-| [All Good Alright](https://open.spotify.com/track/0bHqE2BMCWnkJDXUXcQAH0) | [Dancing on Lego](https://open.spotify.com/artist/7srXfOyKg6eNopdl2VDyj5), [Super Flu](https://open.spotify.com/artist/1iZiG82D4w7FLHvOUUj4zW) | [All Good Alright](https://open.spotify.com/album/0PFSf0OonpHtU3jdt1aAni) | 3:23 | 2023-09-08 |  |
+| [All Good Alright](https://open.spotify.com/track/0bHqE2BMCWnkJDXUXcQAH0) | [Dancing on Lego](https://open.spotify.com/artist/7srXfOyKg6eNopdl2VDyj5), [Super Flu](https://open.spotify.com/artist/1iZiG82D4w7FLHvOUUj4zW) | [All Good Alright](https://open.spotify.com/album/0PFSf0OonpHtU3jdt1aAni) | 3:23 | 2023-09-08 | 2023-10-22 |
 | [All I Ever Wanted](https://open.spotify.com/track/73RyhUtQnXgHB0Ko51EniR) | [Adriatique](https://open.spotify.com/artist/02DWGcShQivFepRvGJ7xhB), [Marino Canal](https://open.spotify.com/artist/6qdVbTc8Uvy0VJyDZbYTd8) | [All I Ever Wanted](https://open.spotify.com/album/79nKwdi5pP3PwYlaSmFqHT) | 6:32 | 2022-10-14 |  |
 | [All I Got](https://open.spotify.com/track/5bsWIPw0w09vT2lDV2nDQw) | [Miss Monique](https://open.spotify.com/artist/29TpNOsTNYbLb6Xa10H0PR) | [All I Got](https://open.spotify.com/album/7wVulFxf5NeMvGnhTHD36h) | 5:04 | 2022-09-30 |  |
 | [All I Need \- DESIREE Remix](https://open.spotify.com/track/6q9RvlTvMSZSQfI6v0dKE4) | [LP Giobbi](https://open.spotify.com/artist/3oKnyRhYWzNsTiss5n4Z1J), [DESIREE](https://open.spotify.com/artist/6TZbLCcOCv1DJvN28x3FBa) | [Light Places Remixes](https://open.spotify.com/album/397G1LdjSwnHKWa6PdkYgS) | 5:39 | 2023-07-21 | 2023-10-02 |
@@ -379,6 +379,7 @@
 | [Ramona](https://open.spotify.com/track/1EroNKATh80TwDZLtPKPNN) | [Fort Romeau](https://open.spotify.com/artist/5MKqWyqq5CStK7AhkTvzQF) | [Ramona](https://open.spotify.com/album/25bJfT3QJehxDxwSAOkKIc) | 7:03 | 2021-10-15 | 2022-07-17 |
 | [Rational Utopia](https://open.spotify.com/track/1zZrBI8daxuMRJQqE0CkaO) | [Toto Chiavetta](https://open.spotify.com/artist/0DBwNrdGSluzJl24pHRiOk) | [Rational Utopia](https://open.spotify.com/album/0FFLuWqNeJc2HxROaNDH99) | 8:18 | 2022-06-10 | 2022-08-04 |
 | [Raven](https://open.spotify.com/track/3DSz44pPAfri3xhLvoGLaY) | [Definition](https://open.spotify.com/artist/7KT19dObRj1T5OgnyQFm4C) | [Lux EP](https://open.spotify.com/album/5U8s00tqXWFwUfXD8eprtV) | 7:19 | 2021-04-21 | 2022-07-29 |
+| [Real Love \- Liva K Remix](https://open.spotify.com/track/3TyPUGvK4G8pdrM3oEWlwg) | [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ), [Lloyiso](https://open.spotify.com/artist/3CrKgAMSBXsnTugbUqpu6g), [Liva K](https://open.spotify.com/artist/63mVEANeXk1p622Ejj9rBj) | [Real Love \(Liva K Remix\)](https://open.spotify.com/album/3joNpvmZheGoKgbIiQL1kd) | 2:57 | 2023-10-20 |  |
 | [Regado](https://open.spotify.com/track/4v6sh0roVtsDwDLCCRIFeV) | [Trikk](https://open.spotify.com/artist/4wPR8PhvdOB0vksHMUWDZY) | [Regado](https://open.spotify.com/album/2fOtyH0xBYLXZInmq1KItS) | 5:07 | 2023-01-13 | 2023-02-26 |
 | [Regina Blue](https://open.spotify.com/track/4TR6mBYhwSML6pxV0gF4Ts) | [Sébastien Léger](https://open.spotify.com/artist/17j0kFtqn9Fss3D916jSlp) | [Regina Blue EP](https://open.spotify.com/album/43QIn889yImNDXw4bWTk0f) | 8:45 | 2022-09-02 |  |
 | [Reign \- Okuma Remix](https://open.spotify.com/track/07ysv62qaOQmIEIvcIX2Wr) | [Depart](https://open.spotify.com/artist/5Mqcuj649T5GFhMGlaNGHy), [okuma](https://open.spotify.com/artist/5KxadtK47w9IzFK0V4O38Q) | [One by One Remixes](https://open.spotify.com/album/2VFxjPMUpN6n2aU8UdN4Ap) | 7:11 | 2021-05-07 | 2022-07-29 |

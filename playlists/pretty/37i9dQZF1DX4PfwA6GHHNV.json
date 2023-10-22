@@ -1,12 +1,12 @@
 {
   "description": "pra curtir o puro afrobeats feito no Brasil.",
-  "num_followers": 11989,
+  "num_followers": 12035,
   "original_name": "pique afrobeats",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4MzAwMmVjMzYwYTkwNTUxNWRhMmYxNzdkMDdiNzlmMzYyODBiOTVl",
+  "snapshot_id": "MCwwOWQxNjFkYjMxNTNiOTM1ZmQ4NjgwNzkwNjViYzMzMTgyMmZmNTc4",
   "tracks": [
     {
       "added_at": "2023-10-20 03:04:46",
@@ -119,6 +119,26 @@
     {
       "added_at": "2023-10-20 03:04:46",
       "album": {
+        "name": "Do Mesmo Lado",
+        "url": "https://open.spotify.com/album/7wN4k8G4LfIsYxNnShicSu"
+      },
+      "artists": [
+        {
+          "name": "Criolo",
+          "url": "https://open.spotify.com/artist/37ZflmHTdxkSLQuT8w9NBs"
+        },
+        {
+          "name": "Tropkillaz",
+          "url": "https://open.spotify.com/artist/5bzWtCkjIAMgN93gLt56SO"
+        }
+      ],
+      "duration_ms": 158109,
+      "name": "Do Mesmo Lado",
+      "url": "https://open.spotify.com/track/58pRRdXapyxE1OUzZWXa4u"
+    },
+    {
+      "added_at": "2023-10-20 03:04:46",
+      "album": {
         "name": "SSA",
         "url": "https://open.spotify.com/album/4MbRQR6jIWe9IQArJXVUFd"
       },
@@ -147,26 +167,6 @@
       "duration_ms": 221359,
       "name": "SSA",
       "url": "https://open.spotify.com/track/0DI7TtujPBwhpjmUncFpU9"
-    },
-    {
-      "added_at": "2023-10-20 03:04:46",
-      "album": {
-        "name": "Do Mesmo Lado",
-        "url": "https://open.spotify.com/album/7wN4k8G4LfIsYxNnShicSu"
-      },
-      "artists": [
-        {
-          "name": "Criolo",
-          "url": "https://open.spotify.com/artist/37ZflmHTdxkSLQuT8w9NBs"
-        },
-        {
-          "name": "Tropkillaz",
-          "url": "https://open.spotify.com/artist/5bzWtCkjIAMgN93gLt56SO"
-        }
-      ],
-      "duration_ms": 158109,
-      "name": "Do Mesmo Lado",
-      "url": "https://open.spotify.com/track/58pRRdXapyxE1OUzZWXa4u"
     },
     {
       "added_at": "2023-10-20 03:04:46",
@@ -271,30 +271,6 @@
     {
       "added_at": "2023-10-20 03:04:46",
       "album": {
-        "name": "Suite 45",
-        "url": "https://open.spotify.com/album/2Ggkip4YzkulFaN224drEx"
-      },
-      "artists": [
-        {
-          "name": "Enzo Bala",
-          "url": "https://open.spotify.com/artist/3Cv1SqJgZTgIcM5Q7fzpq3"
-        },
-        {
-          "name": "Kiaz",
-          "url": "https://open.spotify.com/artist/6Ae0wz09vBFYZXJ2bJAKUl"
-        },
-        {
-          "name": "Azevedo",
-          "url": "https://open.spotify.com/artist/0wopeyG3WHLoKcmrFD2jrY"
-        }
-      ],
-      "duration_ms": 176326,
-      "name": "Suite 45",
-      "url": "https://open.spotify.com/track/1cJWeIZR2dFwCMibjx7zWc"
-    },
-    {
-      "added_at": "2023-10-20 03:04:46",
-      "album": {
         "name": "Sabe Que \u00c9 Gostosa",
         "url": "https://open.spotify.com/album/3ZQOEv7DHr6xKvbzl8blVC"
       },
@@ -315,6 +291,30 @@
       "duration_ms": 214545,
       "name": "Sabe Que \u00c9 Gostosa",
       "url": "https://open.spotify.com/track/6adhxEi2jRAMIiZ5Yjbdcd"
+    },
+    {
+      "added_at": "2023-10-20 03:04:46",
+      "album": {
+        "name": "Suite 45",
+        "url": "https://open.spotify.com/album/2Ggkip4YzkulFaN224drEx"
+      },
+      "artists": [
+        {
+          "name": "Enzo Bala",
+          "url": "https://open.spotify.com/artist/3Cv1SqJgZTgIcM5Q7fzpq3"
+        },
+        {
+          "name": "Kiaz",
+          "url": "https://open.spotify.com/artist/6Ae0wz09vBFYZXJ2bJAKUl"
+        },
+        {
+          "name": "Azevedo",
+          "url": "https://open.spotify.com/artist/0wopeyG3WHLoKcmrFD2jrY"
+        }
+      ],
+      "duration_ms": 176326,
+      "name": "Suite 45",
+      "url": "https://open.spotify.com/track/1cJWeIZR2dFwCMibjx7zWc"
     },
     {
       "added_at": "2023-10-20 03:04:46",
@@ -1019,6 +1019,26 @@
     {
       "added_at": "2023-10-20 03:04:46",
       "album": {
+        "name": "Quando c\u00ea vem",
+        "url": "https://open.spotify.com/album/3ujLo8nafDUnNuoAvROAuX"
+      },
+      "artists": [
+        {
+          "name": "Alta Hits",
+          "url": "https://open.spotify.com/artist/5gSCmAPeZWVeVIfW2i2Pyv"
+        },
+        {
+          "name": "Kail\u00ea",
+          "url": "https://open.spotify.com/artist/2FEn5mw19sRyH19X1snQLu"
+        }
+      ],
+      "duration_ms": 216666,
+      "name": "Quando c\u00ea vem",
+      "url": "https://open.spotify.com/track/5yUVU8gXMjqNf7LMqvfoto"
+    },
+    {
+      "added_at": "2023-10-20 03:04:46",
+      "album": {
         "name": "5 Sentidos",
         "url": "https://open.spotify.com/album/1s28pGCRDJ4u6D7OCStD3z"
       },
@@ -1039,26 +1059,6 @@
       "duration_ms": 164406,
       "name": "5 Sentidos",
       "url": "https://open.spotify.com/track/05mGzXNuvGKByWkzDp2ID1"
-    },
-    {
-      "added_at": "2023-10-20 03:04:46",
-      "album": {
-        "name": "Desacelera",
-        "url": "https://open.spotify.com/album/60lpVugPjTAKSHvTAjKfwo"
-      },
-      "artists": [
-        {
-          "name": "Pejota",
-          "url": "https://open.spotify.com/artist/3W10YNoIzqgJymjc5ULDzu"
-        },
-        {
-          "name": "Emik\u00e1",
-          "url": "https://open.spotify.com/artist/4en1RCnkxLeusJGKXW9JDB"
-        }
-      ],
-      "duration_ms": 164007,
-      "name": "Desacelera",
-      "url": "https://open.spotify.com/track/6AKle6rT20sIcA55YYH8oY"
     }
   ],
   "unique_name": "pique afrobeats",

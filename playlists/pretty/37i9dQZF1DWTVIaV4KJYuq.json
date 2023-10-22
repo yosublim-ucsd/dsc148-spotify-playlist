@@ -1,12 +1,12 @@
 {
   "description": "All the classic songs you love\u2014covered. Cover: Brandi Carlile",
-  "num_followers": 686398,
+  "num_followers": 686477,
   "original_name": "Classic Covers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkOTZkZDM0ZTdiZjBiZmM3ZThjZGMzMWNjZTkyYTI4MTliNWE4YjRh",
+  "snapshot_id": "MCw3ODdmZjJlNjIyZjIzZTFkYjcwY2E1NDRkYjc2ODkyMzE5NzQ2ZTJk",
   "tracks": [
     {
       "added_at": "2023-10-20 16:58:03",
@@ -1027,22 +1027,6 @@
     {
       "added_at": "2023-10-20 16:58:03",
       "album": {
-        "name": "Wish You Were Here",
-        "url": "https://open.spotify.com/album/6dGngnY6ND7aoag5IGkx9C"
-      },
-      "artists": [
-        {
-          "name": "The Milk Carton Kids",
-          "url": "https://open.spotify.com/artist/7fxtWEwKKrFaykKItspdYg"
-        }
-      ],
-      "duration_ms": 285719,
-      "name": "Wish You Were Here",
-      "url": "https://open.spotify.com/track/6Hm8qbvIicqaQmAWyevlda"
-    },
-    {
-      "added_at": "2023-10-20 16:58:03",
-      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/4P4Melmltlh69qk94BPZDY"
       },
@@ -1055,6 +1039,22 @@
       "duration_ms": 196772,
       "name": "I Can't Make You Love Me - Spotify Singles",
       "url": "https://open.spotify.com/track/6AdxrIYy5CT1LLzLYAQOwy"
+    },
+    {
+      "added_at": "2023-10-20 16:58:03",
+      "album": {
+        "name": "Wish You Were Here",
+        "url": "https://open.spotify.com/album/6dGngnY6ND7aoag5IGkx9C"
+      },
+      "artists": [
+        {
+          "name": "The Milk Carton Kids",
+          "url": "https://open.spotify.com/artist/7fxtWEwKKrFaykKItspdYg"
+        }
+      ],
+      "duration_ms": 285719,
+      "name": "Wish You Were Here",
+      "url": "https://open.spotify.com/track/6Hm8qbvIicqaQmAWyevlda"
     },
     {
       "added_at": "2023-10-20 16:58:03",
@@ -1175,22 +1175,6 @@
     {
       "added_at": "2023-10-20 16:58:03",
       "album": {
-        "name": "Hallelujah",
-        "url": "https://open.spotify.com/album/0s4mjch2kYLFQQNbgPNbuE"
-      },
-      "artists": [
-        {
-          "name": "Tenille Townes",
-          "url": "https://open.spotify.com/artist/3TyeX0lk4B7k56ukfzEE0z"
-        }
-      ],
-      "duration_ms": 229574,
-      "name": "Hallelujah",
-      "url": "https://open.spotify.com/track/0wDRNOFe1nzWFDQc5FoKk1"
-    },
-    {
-      "added_at": "2023-10-20 16:58:03",
-      "album": {
         "name": "Believe",
         "url": "https://open.spotify.com/album/2fEYL3YBVILeEuiKJL7S2n"
       },
@@ -1203,6 +1187,22 @@
       "duration_ms": 236666,
       "name": "Believe",
       "url": "https://open.spotify.com/track/1ty3N197je3o1dN0F6Fu1G"
+    },
+    {
+      "added_at": "2023-10-20 16:58:03",
+      "album": {
+        "name": "Hallelujah",
+        "url": "https://open.spotify.com/album/0s4mjch2kYLFQQNbgPNbuE"
+      },
+      "artists": [
+        {
+          "name": "Tenille Townes",
+          "url": "https://open.spotify.com/artist/3TyeX0lk4B7k56ukfzEE0z"
+        }
+      ],
+      "duration_ms": 229574,
+      "name": "Hallelujah",
+      "url": "https://open.spotify.com/track/0wDRNOFe1nzWFDQc5FoKk1"
     },
     {
       "added_at": "2023-10-20 16:58:03",
@@ -1271,6 +1271,22 @@
     {
       "added_at": "2023-10-20 16:58:03",
       "album": {
+        "name": "Judah & The Lion (Unplugged)",
+        "url": "https://open.spotify.com/album/6YdwCaQPQ4j3h8F8fFWeUi"
+      },
+      "artists": [
+        {
+          "name": "Judah & the Lion",
+          "url": "https://open.spotify.com/artist/3wWtfT7S2uVJJ3hGZlOLkZ"
+        }
+      ],
+      "duration_ms": 251805,
+      "name": "Soak up the Sun - Unplugged",
+      "url": "https://open.spotify.com/track/0eUty3IjjOqEheyWEb9Rsb"
+    },
+    {
+      "added_at": "2023-10-20 16:58:03",
+      "album": {
         "name": "Sobrevolando",
         "url": "https://open.spotify.com/album/3rCmFIVWG9ktkGhKNcZnli"
       },
@@ -1319,18 +1335,18 @@
     {
       "added_at": "2023-10-20 16:58:03",
       "album": {
-        "name": "Judah & The Lion (Unplugged)",
-        "url": "https://open.spotify.com/album/6YdwCaQPQ4j3h8F8fFWeUi"
+        "name": "I Remember Everything",
+        "url": "https://open.spotify.com/album/3ei2zsbxwzra1rMmokmYZM"
       },
       "artists": [
         {
-          "name": "Judah & the Lion",
-          "url": "https://open.spotify.com/artist/3wWtfT7S2uVJJ3hGZlOLkZ"
+          "name": "Brandi Carlile",
+          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
         }
       ],
-      "duration_ms": 251805,
-      "name": "Soak up the Sun - Unplugged",
-      "url": "https://open.spotify.com/track/0eUty3IjjOqEheyWEb9Rsb"
+      "duration_ms": 156146,
+      "name": "I Remember Everything",
+      "url": "https://open.spotify.com/track/1J6OHcQjnrD0upP4skciHO"
     },
     {
       "added_at": "2023-10-20 16:58:03",
@@ -1347,22 +1363,6 @@
       "duration_ms": 197647,
       "name": "It's Too Late",
       "url": "https://open.spotify.com/track/4GvAhHdh2mvlSlHcqGC20V"
-    },
-    {
-      "added_at": "2023-10-20 16:58:03",
-      "album": {
-        "name": "I Remember Everything",
-        "url": "https://open.spotify.com/album/3ei2zsbxwzra1rMmokmYZM"
-      },
-      "artists": [
-        {
-          "name": "Brandi Carlile",
-          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
-        }
-      ],
-      "duration_ms": 156146,
-      "name": "I Remember Everything",
-      "url": "https://open.spotify.com/track/1J6OHcQjnrD0upP4skciHO"
     },
     {
       "added_at": "2023-10-20 16:58:03",
@@ -1463,22 +1463,6 @@
     {
       "added_at": "2023-10-20 16:58:03",
       "album": {
-        "name": "A Whiter Shade of Pale",
-        "url": "https://open.spotify.com/album/2cT21JKia9DgqhvdakdHfC"
-      },
-      "artists": [
-        {
-          "name": "Houndmouth",
-          "url": "https://open.spotify.com/artist/7EGwUS3c5dXduO4sMyLWC5"
-        }
-      ],
-      "duration_ms": 285428,
-      "name": "A Whiter Shade of Pale",
-      "url": "https://open.spotify.com/track/0b5LFCOeFZfVlX0gxLTDaW"
-    },
-    {
-      "added_at": "2023-10-20 16:58:03",
-      "album": {
         "name": "Judah & The Lion (Live)",
         "url": "https://open.spotify.com/album/67GBzlYsDzYVJvdQ9l5HXy"
       },
@@ -1491,6 +1475,22 @@
       "duration_ms": 227600,
       "name": "I Won't Back Down - Live",
       "url": "https://open.spotify.com/track/0xmbLELG8S9b49SrdnOj7A"
+    },
+    {
+      "added_at": "2023-10-20 16:58:03",
+      "album": {
+        "name": "A Whiter Shade of Pale",
+        "url": "https://open.spotify.com/album/2cT21JKia9DgqhvdakdHfC"
+      },
+      "artists": [
+        {
+          "name": "Houndmouth",
+          "url": "https://open.spotify.com/artist/7EGwUS3c5dXduO4sMyLWC5"
+        }
+      ],
+      "duration_ms": 285428,
+      "name": "A Whiter Shade of Pale",
+      "url": "https://open.spotify.com/track/0b5LFCOeFZfVlX0gxLTDaW"
     },
     {
       "added_at": "2023-10-20 16:58:03",
@@ -1647,18 +1647,18 @@
     {
       "added_at": "2023-10-20 16:58:03",
       "album": {
-        "name": "(500) Days of Summer (Music from the Motion Picture)",
-        "url": "https://open.spotify.com/album/2n5AOB0lGse7qp38HvVROB"
+        "name": "Dreams (Lanie's Version)",
+        "url": "https://open.spotify.com/album/0KlsuFkgIWDhHmgJuCxXdb"
       },
       "artists": [
         {
-          "name": "She & Him",
-          "url": "https://open.spotify.com/artist/3CIRif6ZAedT7kZSPvj2A4"
+          "name": "Lanie Gardner",
+          "url": "https://open.spotify.com/artist/5lhCycgJCjQIMpWNk4DycY"
         }
       ],
-      "duration_ms": 132493,
-      "name": "Please, Please, Please, Let Me Get What I Want",
-      "url": "https://open.spotify.com/track/3XcYPyuk0BwiB4w6tgKpOC"
+      "duration_ms": 260000,
+      "name": "Dreams - Lanie's Version",
+      "url": "https://open.spotify.com/track/2HA6QsvyuQRoYhKoBZdyN2"
     },
     {
       "added_at": "2023-10-20 16:58:03",
@@ -1679,6 +1679,22 @@
     {
       "added_at": "2023-10-20 16:58:03",
       "album": {
+        "name": "(500) Days of Summer (Music from the Motion Picture)",
+        "url": "https://open.spotify.com/album/2n5AOB0lGse7qp38HvVROB"
+      },
+      "artists": [
+        {
+          "name": "She & Him",
+          "url": "https://open.spotify.com/artist/3CIRif6ZAedT7kZSPvj2A4"
+        }
+      ],
+      "duration_ms": 132493,
+      "name": "Please, Please, Please, Let Me Get What I Want",
+      "url": "https://open.spotify.com/track/3XcYPyuk0BwiB4w6tgKpOC"
+    },
+    {
+      "added_at": "2023-10-20 16:58:03",
+      "album": {
         "name": "You Don't Know How It Feels",
         "url": "https://open.spotify.com/album/7pWTvThKZquHfq4E0e5KwX"
       },
@@ -1691,22 +1707,6 @@
       "duration_ms": 222008,
       "name": "You Don't Know How It Feels",
       "url": "https://open.spotify.com/track/4jRfYs49suF4VINcWVXAvb"
-    },
-    {
-      "added_at": "2023-10-20 16:58:03",
-      "album": {
-        "name": "Dreams (Lanie's Version)",
-        "url": "https://open.spotify.com/album/0KlsuFkgIWDhHmgJuCxXdb"
-      },
-      "artists": [
-        {
-          "name": "Lanie Gardner",
-          "url": "https://open.spotify.com/artist/5lhCycgJCjQIMpWNk4DycY"
-        }
-      ],
-      "duration_ms": 260000,
-      "name": "Dreams - Lanie's Version",
-      "url": "https://open.spotify.com/track/2HA6QsvyuQRoYhKoBZdyN2"
     },
     {
       "added_at": "2023-10-20 16:58:03",

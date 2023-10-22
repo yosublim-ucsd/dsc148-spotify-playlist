@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0SlHbqMm3vJ.md) - [plain]
 
 > A collection R&B and Afropop cuts from West Africa’s finest artists\. Cover: Mayorkun
 
-[Spotify](https://open.spotify.com/user/spotify) - 216,162 likes - 79 songs - 3 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 216,177 likes - 79 songs - 3 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -77,8 +77,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0SlHbqMm3vJ.md) - [plain]
 | 67 | [Saati Ramoni](https://open.spotify.com/track/6zLC5tfSmJmotGcOKF37Gc) | [MUIS](https://open.spotify.com/artist/5UhxuCNM1djBJLm5VhvuRy) | [Saati Ramoni](https://open.spotify.com/album/0VmgXMeTpKOknX6Vy6dBbV) | 3:09 |
 | 68 | [Healing](https://open.spotify.com/track/1RMMMuAV8WdmbQVIf5Eivv) | [Tay Iwar](https://open.spotify.com/artist/0iqznAW9pzZ7KOjx8aCMWo) | [Healing](https://open.spotify.com/album/3M5dZ8GosZndWwOdrRuhlG) | 2:59 |
 | 69 | [21](https://open.spotify.com/track/6pZggWHbaEqA3d3WVVT35u) | [KAESTYLE](https://open.spotify.com/artist/0o4t6y0LBJWs76vvuuzg50), [LeriQ](https://open.spotify.com/artist/18wUkq9ZzqAVgDfxnYhLTl) | [Asylum](https://open.spotify.com/album/3XOj6M8MfJPr6BGpOuI9ho) | 2:25 |
-| 70 | [Sharp Attack](https://open.spotify.com/track/2W45RFSn0zM0eH0GFHimHS) | [Ninety](https://open.spotify.com/artist/221i8CC98rJBZAaMM9sGLK) | [Sharp Attack](https://open.spotify.com/album/0SjvPXWpMpndsohnyiS5n0) | 2:43 |
-| 71 | [Chocolati](https://open.spotify.com/track/2GnmljVcpgOs1kX2ysKazT) | [Azekel](https://open.spotify.com/artist/446nYwuXzCKnDwZUu4kGQA), [Nao](https://open.spotify.com/artist/7aFTOGFDEqDtJUCziLVsVC) | [Analyze Love](https://open.spotify.com/album/3tMt7EOBb1KBbfiKKJaWKj) | 2:20 |
+| 70 | [Chocolati](https://open.spotify.com/track/2GnmljVcpgOs1kX2ysKazT) | [Azekel](https://open.spotify.com/artist/446nYwuXzCKnDwZUu4kGQA), [Nao](https://open.spotify.com/artist/7aFTOGFDEqDtJUCziLVsVC) | [Analyze Love](https://open.spotify.com/album/3tMt7EOBb1KBbfiKKJaWKj) | 2:20 |
+| 71 | [Sharp Attack](https://open.spotify.com/track/2W45RFSn0zM0eH0GFHimHS) | [Ninety](https://open.spotify.com/artist/221i8CC98rJBZAaMM9sGLK) | [Sharp Attack](https://open.spotify.com/album/0SjvPXWpMpndsohnyiS5n0) | 2:43 |
 | 72 | [Gloves](https://open.spotify.com/track/6k1gqRBg66PEEcAxyGjuyT) | [Nissi](https://open.spotify.com/artist/4586oPyU8t6d4hGb1BPFTU) | [UNBOXED](https://open.spotify.com/album/32rtIPEj2JkLqRDzpGRNR9) | 3:42 |
 | 73 | [Echo](https://open.spotify.com/track/0OYjR9VR2c7ZTRdW58nTtl) | [Darkua](https://open.spotify.com/artist/4zDTokzX1QoX7Wh9PKYcgP) | [Echo](https://open.spotify.com/album/0FvnSxzhdYUeHwOHCnC5H1) | 3:04 |
 | 74 | [Jam One Kele](https://open.spotify.com/track/76QO1kpcj4a2loIWPT3oCn) | [Sarz](https://open.spotify.com/artist/408vMm7y1227ASq7GmWygZ), [Millymay\_pod](https://open.spotify.com/artist/5tL2K1ihStDSZ0TyEIzENy), [Gimba](https://open.spotify.com/artist/6ce9dKPssK7XOIyar9S4vK), [Fxrtune](https://open.spotify.com/artist/5FWZoWPhJAzysoaslzFaZF) | [Jam One Kele](https://open.spotify.com/album/1cWUxbpDvU1n9WHga7X1m2) | 2:29 |
@@ -88,4 +88,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0SlHbqMm3vJ.md) - [plain]
 | 78 | [Doing Me](https://open.spotify.com/track/4optsmphrYWvFh027612MA) | [Seyi Shay](https://open.spotify.com/artist/0WgwOS7j1CB5tIRa4QM50K), [Migz](https://open.spotify.com/artist/2ofat3YqNTinjd9GPgl7lV), [Ariel](https://open.spotify.com/artist/5sZBnbApV6GuQTOPx8xTD7) | [Feels Like Home \(Mixtape Vol.1\)](https://open.spotify.com/album/6iplwWv18qHohOXMh4Leff) | 3:14 |
 | 79 | [For You](https://open.spotify.com/track/7kwvdtVviGrOFVnxYvxgWa) | [Elevated](https://open.spotify.com/artist/5CrY5YQGk93PB7K1nNcM0q) | [For You](https://open.spotify.com/album/4VnRF5HOae0tK7It1e8AeE) | 2:48 |
 
-Snapshot ID: `MCxkY2ZiNTAxOTFkNjczYTM2ZDJiNzc4OWFiZWJjZDI4NTE1OThmNjc1`
+Snapshot ID: `MCwxNDRjODViNGE2MGIxMzFkOTc4MjI0NGJjMjNjYjU2NzU0OWY2NTA1`

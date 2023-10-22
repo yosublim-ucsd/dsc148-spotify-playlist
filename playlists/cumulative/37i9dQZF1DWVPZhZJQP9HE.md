@@ -4,7 +4,7 @@
 
 > Tune into the finest of Tamil Indie music!<br/>Cover : Ashwin Vinayagamoorthy
 
-451 songs - 1 day 2 hr 49 min
+452 songs - 1 day 2 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -374,7 +374,8 @@
 | [Serithaana](https://open.spotify.com/track/5cdUR8s0paGuX4G2qANUeu) | [Vidusan Kaneswaran](https://open.spotify.com/artist/320KWuazpEd0eY3PHQ35Zs), [Supaveen](https://open.spotify.com/artist/4amcdwiQHHj0QWiWt7DzDt) | [Serithaana](https://open.spotify.com/album/3qUobbcOQKOPuzJBOiSGF6) | 3:22 | 2023-04-28 |  |
 | [Shades of Kadhal](https://open.spotify.com/track/7kJVLzF7COXgFVlKRaYwoK) | [Maran](https://open.spotify.com/artist/7JhSxGPLRqMPRncKAaNCmU) | [Shades of Kadhal](https://open.spotify.com/album/17zOJvxutXuxVYYx9O1Zsk) | 2:56 | 2021-12-01 | 2023-02-07 |
 | [She](https://open.spotify.com/track/58HUT7xifgToUC45ol5YsI) | [JAXK](https://open.spotify.com/artist/534u9oSsp7SDPju0QdH9wq) | [Lost In Your Love](https://open.spotify.com/album/5XeSjQGfJiI8kJ9jjvO1Gl) | 3:00 | 2023-02-09 | 2023-08-03 |
-| [Sila Naalai](https://open.spotify.com/track/5shrA3OgSbbvpyiIKA174Y) | [Uthara Unnikrishnan](https://open.spotify.com/artist/1JBngqswTsCSvZ9eFVjnlO), [Adithya RK](https://open.spotify.com/artist/2AQwMDyDvgpZcHLITOpgpm) | [Sila Naalai](https://open.spotify.com/album/4zQvSjEKARV2R8qiG0Gcac) | 4:32 | 2023-10-20 |  |
+| [Sila Naalai](https://open.spotify.com/track/0mqRWtlpot25AjLWpTrz5h) | [Uthara Unnikrishnan](https://open.spotify.com/artist/1JBngqswTsCSvZ9eFVjnlO), [Adithya RK](https://open.spotify.com/artist/2AQwMDyDvgpZcHLITOpgpm) | [Sila Naalai](https://open.spotify.com/album/6f275rNLlNviCg4DfstYpS) | 4:32 | 2023-10-20 |  |
+| [Sila Naalai](https://open.spotify.com/track/5shrA3OgSbbvpyiIKA174Y) | [Uthara Unnikrishnan](https://open.spotify.com/artist/1JBngqswTsCSvZ9eFVjnlO), [Adithya RK](https://open.spotify.com/artist/2AQwMDyDvgpZcHLITOpgpm) | [Sila Naalai](https://open.spotify.com/album/4zQvSjEKARV2R8qiG0Gcac) | 4:32 | 2023-10-20 | 2023-10-22 |
 | [Siragu](https://open.spotify.com/track/12g1n6nQSnIjf8UNq7nwnc) | [Nivas](https://open.spotify.com/artist/4xhaMczwBV4FBeTAxr6I7O) | [Siragu](https://open.spotify.com/album/7F5bScEtT8WzIcnng6d85U) | 3:12 | 2023-06-16 |  |
 | [Siragukal](https://open.spotify.com/track/71JsLclzOWuItFYo6qbI6Z) | [ML Sudharsun](https://open.spotify.com/artist/7qShjZOQN4jHHdkXamhLhC), [Sanjay Romauld](https://open.spotify.com/artist/06LNABO6f8L8bO9gWCrjoq) | [Siragukal](https://open.spotify.com/album/5lVz8dbskvLAdpHdD34MWX) | 3:57 | 2023-01-20 | 2023-04-04 |
 | [Sirikkiriye \- From "Azhagi"](https://open.spotify.com/track/0yZgCSrAQ2TF06H31LJLdB) | [Praveen Ram](https://open.spotify.com/artist/6HyAuuOnTQuz48aHvCAAa7), [Praveen Gunendran](https://open.spotify.com/artist/1AXchzqueZFYKft4uSMMzC) | [Sirikkiriye \(From "Azhagi"\)](https://open.spotify.com/album/7kHdcZPNjizrptjbl31GSo) | 3:42 | 2022-09-12 | 2023-02-07 |

@@ -4,7 +4,7 @@
 
 > Make it new\. Fresh takes on vintage soul, folk, blues, and roots rock\. Cover: Abraham Alexander
 
-251 songs - 15 hr 0 min
+252 songs - 15 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -80,7 +80,8 @@
 | [First Time Feeling](https://open.spotify.com/track/4FBwo4kO38ZKBFF29U9GCJ) | [Leah Blevins](https://open.spotify.com/artist/1cpkiJukYGm0dr7Fm9HpNW) | [First Time Feeling](https://open.spotify.com/album/7lAuqI7aCLX66UAyT74Yuu) | 3:06 | 2021-10-01 |  |
 | [For the Time Being](https://open.spotify.com/track/0b0rwzZCms56M9VvEWkd0M) | [Sammy Rae & The Friends](https://open.spotify.com/artist/3lFDsTyYNPQc8WzJExnQWn), [Will Leet](https://open.spotify.com/artist/2ArFmY25rRvP5RFJpHkqLi) | [For the Time Being](https://open.spotify.com/album/34yEKd4Ee3yKFyhlKtAL8o) | 4:05 | 2022-08-02 |  |
 | [For Your Consideration](https://open.spotify.com/track/4CbSiue28BxbRsUqdpYgTp) | [Maggie Rose](https://open.spotify.com/artist/4FrAfXWWNZapoX4O1LEoLn) | [Have a Seat](https://open.spotify.com/album/0F6xm3rQ5sANn76KdVGQrJ) | 3:51 | 2021-10-01 | 2022-08-30 |
-| [For Your Soul](https://open.spotify.com/track/58T6ntGjb6nD43bUroY0rB) | [Josh Ritter](https://open.spotify.com/artist/6igfLpd8s6DBBAuwebRUuo) | [Honey I Do](https://open.spotify.com/album/2ts6mxjGbTChq8bBgpSZM6) | 3:05 | 2023-03-24 |  |
+| [For Your Soul](https://open.spotify.com/track/58T6ntGjb6nD43bUroY0rB) | [Josh Ritter](https://open.spotify.com/artist/6igfLpd8s6DBBAuwebRUuo) | [Honey I Do](https://open.spotify.com/album/2ts6mxjGbTChq8bBgpSZM6) | 3:05 | 2023-03-24 | 2023-10-22 |
+| [For Your Soul](https://open.spotify.com/track/5eimsB6KHfDsTSSETgx18Q) | [Josh Ritter](https://open.spotify.com/artist/6igfLpd8s6DBBAuwebRUuo) | [Spectral Lines](https://open.spotify.com/album/22nZ1NT4IWj6boYaz8xe2q) | 3:05 | 2023-09-15 |  |
 | [Funky Ghost](https://open.spotify.com/track/2UcssYWDdgSTA5SSus7DUv) | [Bandits on the Run](https://open.spotify.com/artist/40wE5c0s5AtxRwWXoPzBg6) | [The Criminal Record](https://open.spotify.com/album/4mPo1YkLytNQdFAl4fNaHV) | 4:08 | 2021-10-01 | 2023-04-05 |
 | [Go Down River](https://open.spotify.com/track/4V4wsqkdFEQ4weme7FlnNC) | [The Heavy Heavy](https://open.spotify.com/artist/5WSRRbhBJlhqvzgbOm3U2Q) | [Life and Life Only](https://open.spotify.com/album/6DeM7Vy5gmjq9FbLUcZFMr) | 4:26 | 2022-06-20 |  |
 | [Go Down River](https://open.spotify.com/track/5gWVKOLeoNkmsMHLUrXGzU) | [The Heavy Heavy](https://open.spotify.com/artist/5WSRRbhBJlhqvzgbOm3U2Q) | [Life and Life Only](https://open.spotify.com/album/2eLDIgJg4QDe5pkmwEc7pB) | 4:26 | 2021-10-01 | 2022-06-21 |

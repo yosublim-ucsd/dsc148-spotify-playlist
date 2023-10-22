@@ -4,7 +4,7 @@
 
 > ค้นพบที่สุดศิลปินรุ่นใหม่ของประเทศไทยได้ที่นี่เลย\. ปก: TOFFE
 
-129 songs - 8 hr 9 min
+131 songs - 8 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -69,11 +69,11 @@
 | [จากตรงนี้ที่\(เคย\)สวยงาม \[La La Bye\]](https://open.spotify.com/track/4fwPmzupzsPEzwquuuVaiw) | [AYLA's](https://open.spotify.com/artist/2XiaPu2j4nBMhF8pIlt6Bk) | [จากตรงนี้ที่\(เคย\)สวยงาม \[La La Bye\]](https://open.spotify.com/album/1XgD84QIPjOXQps6PisWMM) | 4:48 | 2023-04-13 |  |
 | [จิ๊กโก๋ลาบวช](https://open.spotify.com/track/6pQjWG8NCPuZUKPZJssaTJ) | [SPRITE](https://open.spotify.com/artist/0sfCNfNJnqVgcPHcO9htcy) | [จิ๊กโก๋ลาบวช](https://open.spotify.com/album/3QlEM3qaBzU9YESHaQqFxf) | 2:09 | 2023-08-25 | 2023-09-02 |
 | [ฉันสัญญาจะไม่ร้องไห้ \(ดวงดาวที่โหดร้าย\)](https://open.spotify.com/track/5Rrn7VUOFMyYK5Gy7cA4AK) | [เรนิษรา](https://open.spotify.com/artist/2UmVsCJpQoAGPcaKbCyheW) | [ฉันสัญญาจะไม่ร้องไห้ \(ดวงดาวที่โหดร้าย\)](https://open.spotify.com/album/0Dl48BAHraILiXW5rO9uIC) | 4:38 | 2023-04-13 | 2023-08-26 |
-| [ชน](https://open.spotify.com/track/3EVlTT0RzXqVapGHqvxkdf) | [YourMOOD](https://open.spotify.com/artist/5YcdFv3OumeTW8cVW788gT) | [ชน](https://open.spotify.com/album/7qcNglOOUH0QeyTtiezm7m) | 2:29 | 2023-09-29 |  |
+| [ชน](https://open.spotify.com/track/3EVlTT0RzXqVapGHqvxkdf) | [YourMOOD](https://open.spotify.com/artist/5YcdFv3OumeTW8cVW788gT) | [ชน](https://open.spotify.com/album/7qcNglOOUH0QeyTtiezm7m) | 2:29 | 2023-09-29 | 2023-10-22 |
 | [ชอบอยู่ รู้ยัง \(FYI\)](https://open.spotify.com/track/7tRUgI2s5RRJrUYsqCg4FN) | [PiXXiE](https://open.spotify.com/artist/6HlUN1Md7UT62mNJHOYRsK) | [ชอบอยู่ รู้ยัง \(FYI\)](https://open.spotify.com/album/5FrFp41GTSuc0q4m63bTPO) | 3:05 | 2023-04-18 | 2023-06-23 |
 | [ซูลูปาก้า ตาปาเฮ้](https://open.spotify.com/track/3Ry2KPewzbt43hiQPTnDTK) | [THEMOONWILLALWAYSBEWITHME](https://open.spotify.com/artist/0yVywi4NwefY85n4BxZMaz) | [ซูลูปาก้า ตาปาเฮ้](https://open.spotify.com/album/31CyxkIPcTXFvzzARTGr9J) | 3:45 | 2022-09-15 |  |
 | [ดวงตา \(Eyes\)](https://open.spotify.com/track/2cgk7fHnqkY7lhDP0F1KZb) | [Patrickananda](https://open.spotify.com/artist/4gjXKx2a7GaIYwSDCBveJx) | [LAVNDR](https://open.spotify.com/album/2oUXL1OYvl6rdGJInjBUkN) | 3:33 | 2022-09-15 | 2023-01-11 |
-| [ดาว \(Down\)](https://open.spotify.com/track/3uoMU6t9HYyS6mzOjYNavf) | [TOFFE](https://open.spotify.com/artist/2seAV47mn1Z0NnjI78vLPn) | [ดาว \(Down\)](https://open.spotify.com/album/0IaQviNjdSyVrrZ0q7ZfqB) | 3:23 | 2023-04-13 |  |
+| [ดาว \(Down\)](https://open.spotify.com/track/3uoMU6t9HYyS6mzOjYNavf) | [TOFFE](https://open.spotify.com/artist/2seAV47mn1Z0NnjI78vLPn) | [ดาว \(Down\)](https://open.spotify.com/album/0IaQviNjdSyVrrZ0q7ZfqB) | 3:23 | 2023-04-13 | 2023-10-22 |
 | [ตัดใจรอบที่ล้าน](https://open.spotify.com/track/7tLzCItsc7GUBnfxhHFljI) | [wish.](https://open.spotify.com/artist/6GZyaaDSiWwDYjBySZh3rR) | [ตัดใจรอบที่ล้าน](https://open.spotify.com/album/2eId6fIdesXWoFQvyV69u8) | 3:41 | 2023-05-08 | 2023-08-26 |
 | [ตัดไปให้พอ](https://open.spotify.com/track/498pVEIIkgYvIkqm68PEqO) | [Flower.far](https://open.spotify.com/artist/4aMPZAY3aJQokQfO5ZEryr) | [ตัดไปให้พอ](https://open.spotify.com/album/4Q629xdrAylg8VOpX1KC1f) | 4:38 | 2023-04-13 | 2023-09-16 |
 | [ถ้าต่อจากนี้ไม่มีฉันแล้ว](https://open.spotify.com/track/5eov9qKm4v1r0f7zUL33yD) | [AYLA's](https://open.spotify.com/artist/2XiaPu2j4nBMhF8pIlt6Bk) | [ถ้าต่อจากนี้ไม่มีฉันแล้ว \(What if?\)](https://open.spotify.com/album/5Ix5ljszzUoHnVOaKO5uFB) | 3:49 | 2023-09-15 |  |
@@ -96,6 +96,7 @@
 | [รอวันเธอลืมเขา](https://open.spotify.com/track/7IhbsxmWUQi7Q6PSR8Ecq5) | [The White Hair Cut](https://open.spotify.com/artist/2uL9cdYQwaJbvudGv4VxOc) | [รอวันเธอลืมเขา](https://open.spotify.com/album/5KYd61ZcqKn5TyYpIHeP3B) | 3:58 | 2022-11-23 | 2023-04-14 |
 | [รักรออยู่ไม่ไกล](https://open.spotify.com/track/72UBnP9Be8bZFgGTfm5rwU) | [PURPEECH](https://open.spotify.com/artist/3xlC7Dw0uiwprXDHCU9SAu) | [รักรออยู่ไม่ไกล](https://open.spotify.com/album/44X6txRQMIIwqW8tw0LTdm) | 4:19 | 2023-09-01 |  |
 | [รู้ดีว่าเธออ่ะใจร้าย](https://open.spotify.com/track/3mpTTxDQH6qp1gtHVyU5iW) | [wish.](https://open.spotify.com/artist/6GZyaaDSiWwDYjBySZh3rR) | [รู้ดีว่าเธออ่ะใจร้าย](https://open.spotify.com/album/31xweD8WIV6QX6dN548PhF) | 3:52 | 2023-08-25 |  |
+| [ลองเลิกกันดีไหม \(Next Chapter\)](https://open.spotify.com/track/7sBi5mkwgckfb68RDRWKMS) | [PiXXiE](https://open.spotify.com/artist/6HlUN1Md7UT62mNJHOYRsK) | [ลองเลิกกันดีไหม \(Next Chapter\)](https://open.spotify.com/album/1fkjw8BqsMHwXc5gWzDGUo) | 3:35 | 2023-10-21 |  |
 | [ลาก่อน](https://open.spotify.com/track/3vfwUrq22haMmIJyyyI7Hq) | [YourMOOD](https://open.spotify.com/artist/5YcdFv3OumeTW8cVW788gT) | [ลาก่อน](https://open.spotify.com/album/2MM6NjLf7zzQxVNfD93wU1) | 3:08 | 2022-09-15 |  |
 | [ลาลับไป](https://open.spotify.com/track/7r2AEI9Ey8quvF0nt36y4o) | [Saran](https://open.spotify.com/artist/3moR9d0X97NAtZRhHWOta5), [JUEDJANG](https://open.spotify.com/artist/1QA9rYsSUnQlc9XNqtfMDo), [THAOWANZ](https://open.spotify.com/artist/2oWR5K3i3LCNx5e7DI1wdQ) | [ลาลับไป](https://open.spotify.com/album/0KQCPZz56DPPRPDS1MxNNk) | 3:58 | 2023-03-20 | 2023-04-21 |
 | [ลืมแทบไม่ไหว](https://open.spotify.com/track/7DNNJcCstLheOvqLsiq2Qz) | [Saran](https://open.spotify.com/artist/3moR9d0X97NAtZRhHWOta5), [MaiMhon](https://open.spotify.com/artist/4eFeCIHTS2zPKAOPdaKTxg) | [ลืมแทบไม่ไหว](https://open.spotify.com/album/0n7QgYSZ3K4Brs1K2SB9Fk) | 5:54 | 2022-09-15 |  |
@@ -111,6 +112,7 @@
 | [อกหักแต่บอกแฟนไม่ได้ \(Shhhh!\)](https://open.spotify.com/track/1BhiR1qlAMzWhi0AgEPilB) | [SLAPKISS](https://open.spotify.com/artist/6GBIcdZ5aBhhsd7Y6c3O3g) | [อกหักแต่บอกแฟนไม่ได้ \(Shhhh!\)](https://open.spotify.com/album/3VnwBDrzS0Ly8e3Q7nmOzy) | 3:42 | 2022-09-15 | 2023-04-14 |
 | [อาจเป็นเพราะฉันเอง \(me.\)](https://open.spotify.com/track/4rWdiOhPQVk4vKff04obZl) | [PURPEECH](https://open.spotify.com/artist/3xlC7Dw0uiwprXDHCU9SAu) | [อาจเป็นเพราะฉันเอง \(me.\)](https://open.spotify.com/album/1p1xh6fnnEINwLJ1NY7JFL) | 4:43 | 2023-04-13 |  |
 | [อาบน้ำตา](https://open.spotify.com/track/6GWjK0rBQScvGI5fiw4NP4) | [YourMOOD](https://open.spotify.com/artist/5YcdFv3OumeTW8cVW788gT) | [อาบน้ำตา](https://open.spotify.com/album/2OitjfqfGzFLpPHP5gNeps) | 3:15 | 2023-03-23 | 2023-08-26 |
+| [เค้าว่า](https://open.spotify.com/track/3vgVKUta7uffJmjq5Vnrk2) | [PUN](https://open.spotify.com/artist/6HEMZkIMQAPnd36iLsUlTx) | [เค้าว่า](https://open.spotify.com/album/23hZGZbO7D3oiGp0Db1V4r) | 3:41 | 2023-10-21 |  |
 | [เดินมาส่ง \- BYE](https://open.spotify.com/track/7jq0O5rfrzEIqNOsc7v9JT) | [First Anuwat](https://open.spotify.com/artist/4KjqrvqKO5fbI5yDR5yzny), [Saran](https://open.spotify.com/artist/3moR9d0X97NAtZRhHWOta5) | [เดินมาส่ง \(BYE\)](https://open.spotify.com/album/0gHWs2N0DKlZHGcJpvpeCA) | 3:25 | 2023-06-22 |  |
 | [เทาหรือเปล่อ เธอหรือเปล่า](https://open.spotify.com/track/5rbRomil1aCyQGxT7RAnpu) | [THEMOONWILLALWAYSBEWITHME](https://open.spotify.com/artist/0yVywi4NwefY85n4BxZMaz) | [เทาหรือเปล่อ เธอหรือเปล่า](https://open.spotify.com/album/3677ZTRAFynHYRu2rkgyFC) | 3:29 | 2023-03-20 | 2023-04-19 |
 | [เธอทำให้ฉันกลายเป็นเด็ก](https://open.spotify.com/track/2jhMzVTUrycGnB1QzpWova) | [Saran](https://open.spotify.com/artist/3moR9d0X97NAtZRhHWOta5), [THAOWANZ](https://open.spotify.com/artist/2oWR5K3i3LCNx5e7DI1wdQ) | [เธอทำให้ฉันกลายเป็นเด็ก](https://open.spotify.com/album/1m5YwT664K3xwfTwdBa5ex) | 3:33 | 2022-09-15 | 2023-03-25 |

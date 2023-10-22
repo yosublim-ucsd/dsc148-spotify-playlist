@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5vMTfJy5XKE.md) - [plain]
 
 > 'Tis the season! All new holiday releases\. Cover: Pentatonix
 
-[Spotify](https://open.spotify.com/user/spotify) - 224,645 likes - 40 songs - 2 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 224,711 likes - 40 songs - 2 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5vMTfJy5XKE.md) - [plain]
 | 39 | [Christmas \(Baby Please Come Home\)](https://open.spotify.com/track/54H84HFq1hUDEOcYxbTjrL) | [Caylee Hammack](https://open.spotify.com/artist/1ok6sI97SuTRNc7Hjj7Uj9) | [Christmas \(Baby Please Come Home\)](https://open.spotify.com/album/0pZykWJQyWBjOY8c2RSRv2) | 2:42 |
 | 40 | [Jingle Bell Rock](https://open.spotify.com/track/2Txst52kJxfvQjVgbCcE2N) | [David Foster](https://open.spotify.com/artist/0SgQK24WzZf2pXBXYqHJYF), [Katharine McPhee](https://open.spotify.com/artist/5oWOx0BBDSMoFB8JDrjQre) | [Christmas Songs](https://open.spotify.com/album/6TrBZsEdcM4SiIAiEEZJbJ) | 2:20 |
 
-Snapshot ID: `MCw5N2ZhNDU0ZTliNjRhMjMwZTk4ZmJhZjViODMzYmI5ZTgwNTVjNDA4`
+Snapshot ID: `MCxlMDE2ZGEwZWFiOTdkMGZlMzBlNGNmN2I2Zjc5MjZiNGQ4YzcxYWYy`

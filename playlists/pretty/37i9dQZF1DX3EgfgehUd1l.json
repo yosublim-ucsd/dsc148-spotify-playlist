@@ -1,12 +1,12 @@
 {
   "description": "Vintage easy listening from the fifties...",
-  "num_followers": 159079,
+  "num_followers": 159191,
   "original_name": "Easy 50s",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkNzA0MWRjY2E5MDUyZWVkMjZkNDE3OWQ4MmQ1NDU1OTZjZTFjOGEw",
+  "snapshot_id": "MCxmNjhjMGM0MGZhNjVkYjM1ZDJmMGUyY2E3ZjQ1ZGQwNjYwMTU0NjY2",
   "tracks": [
     {
       "added_at": "2023-10-17 16:18:55",
@@ -903,22 +903,6 @@
     {
       "added_at": "2023-10-17 16:18:55",
       "album": {
-        "name": "What Do You Want to Make Those Eyes At Me For?",
-        "url": "https://open.spotify.com/album/3sA8LG6XghvwNgzLCRplKv"
-      },
-      "artists": [
-        {
-          "name": "Emile Ford & The Checkmates",
-          "url": "https://open.spotify.com/artist/2qyvlQ4Ku5zc2mk4pYamzC"
-        }
-      ],
-      "duration_ms": 124200,
-      "name": "What Do You Want to Make Those Eyes at Me for",
-      "url": "https://open.spotify.com/track/5LpUlD9Egwtf4SgDRE9HVs"
-    },
-    {
-      "added_at": "2023-10-17 16:18:55",
-      "album": {
         "name": "Pat Boone Sings (Expanded Edition)",
         "url": "https://open.spotify.com/album/5Btlm07VEQhfqvsTbkjL9H"
       },
@@ -931,6 +915,22 @@
       "duration_ms": 115506,
       "name": "Sugar Moon",
       "url": "https://open.spotify.com/track/6hc2AUvS54icf4z9qQHbaT"
+    },
+    {
+      "added_at": "2023-10-17 16:18:55",
+      "album": {
+        "name": "What Do You Want to Make Those Eyes At Me For?",
+        "url": "https://open.spotify.com/album/3sA8LG6XghvwNgzLCRplKv"
+      },
+      "artists": [
+        {
+          "name": "Emile Ford & The Checkmates",
+          "url": "https://open.spotify.com/artist/2qyvlQ4Ku5zc2mk4pYamzC"
+        }
+      ],
+      "duration_ms": 124200,
+      "name": "What Do You Want to Make Those Eyes at Me for",
+      "url": "https://open.spotify.com/track/5LpUlD9Egwtf4SgDRE9HVs"
     },
     {
       "added_at": "2023-10-17 16:18:55",
@@ -951,22 +951,6 @@
     {
       "added_at": "2023-10-17 16:18:55",
       "album": {
-        "name": "16 Most Requested Songs",
-        "url": "https://open.spotify.com/album/4ZtM1Q25o7B11vrYKbOF0m"
-      },
-      "artists": [
-        {
-          "name": "Doris Day",
-          "url": "https://open.spotify.com/artist/3ESG6pj6a0LvUKklENalT6"
-        }
-      ],
-      "duration_ms": 124640,
-      "name": "Whatever Will Be, Will Be (Que Sera, Sera) - Single Version",
-      "url": "https://open.spotify.com/track/3Dnv944x31XU4FFMlkfnWN"
-    },
-    {
-      "added_at": "2023-10-17 16:18:55",
-      "album": {
         "name": "Presenting Marion Ryan",
         "url": "https://open.spotify.com/album/07J0yWEzGdx2ElM6p4iP9D"
       },
@@ -979,6 +963,22 @@
       "duration_ms": 175053,
       "name": "Love Me Forever",
       "url": "https://open.spotify.com/track/3jtuTk2DS22xjOEJbbkTjC"
+    },
+    {
+      "added_at": "2023-10-17 16:18:55",
+      "album": {
+        "name": "16 Most Requested Songs",
+        "url": "https://open.spotify.com/album/4ZtM1Q25o7B11vrYKbOF0m"
+      },
+      "artists": [
+        {
+          "name": "Doris Day",
+          "url": "https://open.spotify.com/artist/3ESG6pj6a0LvUKklENalT6"
+        }
+      ],
+      "duration_ms": 124640,
+      "name": "Whatever Will Be, Will Be (Que Sera, Sera) - Single Version",
+      "url": "https://open.spotify.com/track/3Dnv944x31XU4FFMlkfnWN"
     },
     {
       "added_at": "2023-10-17 16:18:55",
@@ -1015,22 +1015,6 @@
     {
       "added_at": "2023-10-17 16:18:55",
       "album": {
-        "name": "Mr. Broadway",
-        "url": "https://open.spotify.com/album/1Ye8xbzoKJ8XjfzRsFcuWa"
-      },
-      "artists": [
-        {
-          "name": "Tony Bennett",
-          "url": "https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV"
-        }
-      ],
-      "duration_ms": 187586,
-      "name": "Stranger in Paradise",
-      "url": "https://open.spotify.com/track/0VSkGr3AikTWSUaJQL6GNC"
-    },
-    {
-      "added_at": "2023-10-17 16:18:55",
-      "album": {
         "name": "The Gold Collection",
         "url": "https://open.spotify.com/album/0hyzSiJY6YjK7ryjlF9F6i"
       },
@@ -1043,6 +1027,22 @@
       "duration_ms": 137320,
       "name": "Don't Forbid Me",
       "url": "https://open.spotify.com/track/5XjPPdhCGeAEecJlxAJt3M"
+    },
+    {
+      "added_at": "2023-10-17 16:18:55",
+      "album": {
+        "name": "Mr. Broadway",
+        "url": "https://open.spotify.com/album/1Ye8xbzoKJ8XjfzRsFcuWa"
+      },
+      "artists": [
+        {
+          "name": "Tony Bennett",
+          "url": "https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV"
+        }
+      ],
+      "duration_ms": 187586,
+      "name": "Stranger in Paradise",
+      "url": "https://open.spotify.com/track/0VSkGr3AikTWSUaJQL6GNC"
     },
     {
       "added_at": "2023-10-17 16:18:55",
@@ -1127,6 +1127,22 @@
     {
       "added_at": "2023-10-17 16:18:55",
       "album": {
+        "name": "Pat Boone Sings",
+        "url": "https://open.spotify.com/album/0vdjMYJN23OwAzxkG1mSvW"
+      },
+      "artists": [
+        {
+          "name": "Pat Boone",
+          "url": "https://open.spotify.com/artist/7fmKtIgmxqNEKjATioVNsu"
+        }
+      ],
+      "duration_ms": 163360,
+      "name": "April Love",
+      "url": "https://open.spotify.com/track/5dC8EKphA0ffPseGxT3xFE"
+    },
+    {
+      "added_at": "2023-10-17 16:18:55",
+      "album": {
         "name": "The Legendary Masters Series (Volume 1)",
         "url": "https://open.spotify.com/album/5R27t83T8Jhltww09lriMo"
       },
@@ -1171,22 +1187,6 @@
       "duration_ms": 158560,
       "name": "Outside of Heaven",
       "url": "https://open.spotify.com/track/5TPvEyuAu8QVDpp3Zf4g3k"
-    },
-    {
-      "added_at": "2023-10-17 16:18:55",
-      "album": {
-        "name": "Pat Boone Sings",
-        "url": "https://open.spotify.com/album/0vdjMYJN23OwAzxkG1mSvW"
-      },
-      "artists": [
-        {
-          "name": "Pat Boone",
-          "url": "https://open.spotify.com/artist/7fmKtIgmxqNEKjATioVNsu"
-        }
-      ],
-      "duration_ms": 163360,
-      "name": "April Love",
-      "url": "https://open.spotify.com/track/5dC8EKphA0ffPseGxT3xFE"
     },
     {
       "added_at": "2023-10-17 16:18:55",
@@ -1255,22 +1255,6 @@
     {
       "added_at": "2023-10-17 16:18:55",
       "album": {
-        "name": "Presenting Eddie Fisher",
-        "url": "https://open.spotify.com/album/4ovVdpqVKmgKzzcU4ZERS3"
-      },
-      "artists": [
-        {
-          "name": "Eddie Fisher",
-          "url": "https://open.spotify.com/artist/6bHSJldq5J4lYowHOm9OOX"
-        }
-      ],
-      "duration_ms": 180866,
-      "name": "Cindy Oh Cindy",
-      "url": "https://open.spotify.com/track/7AvyAuG888oz51hEWEXkv5"
-    },
-    {
-      "added_at": "2023-10-17 16:18:55",
-      "album": {
         "name": "Command Performance",
         "url": "https://open.spotify.com/album/44i8VkJcTp0sKdBtXGa2nk"
       },
@@ -1319,6 +1303,22 @@
       "duration_ms": 144466,
       "name": "Rose Marie",
       "url": "https://open.spotify.com/track/0DRw1YzAejMK8Qv2MAPzJl"
+    },
+    {
+      "added_at": "2023-10-17 16:18:55",
+      "album": {
+        "name": "Presenting Eddie Fisher",
+        "url": "https://open.spotify.com/album/4ovVdpqVKmgKzzcU4ZERS3"
+      },
+      "artists": [
+        {
+          "name": "Eddie Fisher",
+          "url": "https://open.spotify.com/artist/6bHSJldq5J4lYowHOm9OOX"
+        }
+      ],
+      "duration_ms": 180866,
+      "name": "Cindy Oh Cindy",
+      "url": "https://open.spotify.com/track/7AvyAuG888oz51hEWEXkv5"
     },
     {
       "added_at": "2023-10-17 16:18:55",

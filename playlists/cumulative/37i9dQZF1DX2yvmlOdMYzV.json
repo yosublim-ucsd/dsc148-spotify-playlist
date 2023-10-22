@@ -191,6 +191,36 @@
     },
     {
       "album": {
+        "name": "90s (Remix)",
+        "url": "https://open.spotify.com/album/0241uDx21SHRh0BJK0auir"
+      },
+      "artists": [
+        {
+          "name": "Braxton Cook",
+          "url": "https://open.spotify.com/artist/60k4atxgEIMFz4DWHp0le1"
+        },
+        {
+          "name": "Ian Ewing",
+          "url": "https://open.spotify.com/artist/6QrRSfwkZsixVIgDRhpToh"
+        },
+        {
+          "name": "Masego",
+          "url": "https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig"
+        },
+        {
+          "name": "Jay Prince",
+          "url": "https://open.spotify.com/artist/2TLYSzGyVYkxAgYSCqUnQj"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205330,
+      "name": "90s - Remix",
+      "url": "https://open.spotify.com/track/1NzjKlRWYEfH3UORKH0zyD"
+    },
+    {
+      "album": {
         "name": "Apparition EP",
         "url": "https://open.spotify.com/album/7FCpNm4l9fNtBeakrvpVf8"
       },
@@ -4887,6 +4917,24 @@
     },
     {
       "album": {
+        "name": "Lahai",
+        "url": "https://open.spotify.com/album/5GuWww4OaildzkmTTlfMN3"
+      },
+      "artists": [
+        {
+          "name": "Sampha",
+          "url": "https://open.spotify.com/artist/2WoVwexZuODvclzULjPQtm"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274599,
+      "name": "Jonathan L. Seagull",
+      "url": "https://open.spotify.com/track/0jBmIDMdIOOct8T62qBeRh"
+    },
+    {
+      "album": {
         "name": "Honeybloom",
         "url": "https://open.spotify.com/album/6CwBR2GHX84xyA8T95HTM3"
       },
@@ -7876,7 +7924,7 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-22",
       "duration_ms": 130021,
       "name": "Sadboy",
       "url": "https://open.spotify.com/track/7I3ruC2uRcHSd5IYMkabSJ"
@@ -8836,7 +8884,7 @@
       ],
       "date_added": "2023-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-22",
       "duration_ms": 267272,
       "name": "STAY HERE (feat. Amaria)",
       "url": "https://open.spotify.com/track/6xuGIouNLgWg4VEhEMp5NJ"

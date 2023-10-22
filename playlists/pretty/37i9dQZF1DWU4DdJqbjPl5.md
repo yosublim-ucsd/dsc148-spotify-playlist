@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU4DdJqbjPl5.md) - [plain]
 
 > The smoothest Afro R&B out right now\. Cover:  <a href="https://open.spotify.com/artist/2lzhfTv334wDq7W7tFyJHa?si=XDkvdjjtQWiCAwzE2UloVA"> Lisa Odour \-Noah </a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 167,998 likes - 75 songs - 4 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 168,254 likes - 75 songs - 4 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU4DdJqbjPl5.md) - [plain]
 | 74 | [Hero](https://open.spotify.com/track/31iNSE9TF3ehPE7cX8OSek) | [Zubi](https://open.spotify.com/artist/1u58ZRn45A7jc3QmucALbY) | [Journey to Idan](https://open.spotify.com/album/2U6DR87NV7jBoc2d5cHRxt) | 3:47 |
 | 75 | [AMINA](https://open.spotify.com/track/71nnieDlMZ21AhPQ8ySK5x) | [SuperJazzClub](https://open.spotify.com/artist/5CINjDZoikcuTmtw3wgPfp) | [AMINA](https://open.spotify.com/album/3Yj8pwMeifcSfO9ezAh4i5) | 2:52 |
 
-Snapshot ID: `MCw5MDg0ODNjOTE1NmNhZDBkZjViNDUwM2QwNTIwMzY5YWVkZmEzYjk0`
+Snapshot ID: `MCw5ZTU5OTBiMDAzOTFkZWY4OGViZWE2OTUyZTk0NzE0ZGZlOTllOTU3`

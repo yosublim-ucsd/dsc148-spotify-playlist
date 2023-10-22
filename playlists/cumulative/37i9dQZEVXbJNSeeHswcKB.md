@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Belgium.
 
-1,188 songs - 2 day 17 hr 37 min
+1,189 songs - 2 day 17 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -77,6 +77,7 @@
 | [Ancelotti](https://open.spotify.com/track/3jBIofMaOimfUgK4E3hBGB) | [Freeze corleone](https://open.spotify.com/artist/76Pl0epAMXVXJspaSuz8im) | [ADC](https://open.spotify.com/album/4EsdvWk2Agy9jmUEWAzZWM) | 3:40 | 2023-09-12 | 2023-09-24 |
 | [Anders](https://open.spotify.com/track/4AbKYcsZDCrA2rNVGwlhkz) | [Bazart](https://open.spotify.com/artist/3kcwSBHk3lMgHMHuxjJLNZ) | [Onderweg](https://open.spotify.com/album/3rlL1ism5q5VEALSLopF1p) | 3:50 | 2021-07-26 | 2021-09-05 |
 | [Andiamo](https://open.spotify.com/track/6NYnHglZxfbS15WpvUoK0k) | [RZ](https://open.spotify.com/artist/77cVQzbhjZZZSkeQtFYDPw), [Bimbim](https://open.spotify.com/artist/1jVkYEim3l4F8IgNh6undg) | [Andiamo](https://open.spotify.com/album/7JwH3B7aYhrmLbuMlt4qHx) | 2:17 | 2022-10-30 | 2022-11-02 |
+| [Angry](https://open.spotify.com/track/5op6kdhlMQ4L0KH30GCZ5T) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [Hackney Diamonds](https://open.spotify.com/album/1AxMcdQRLguJqSZMxvRNdO) | 3:46 | 2023-10-21 |  |
 | [Another Love](https://open.spotify.com/track/3JvKfv6T31zO0ini8iNItO) | [Tom Odell](https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX) | [Long Way Down \(Deluxe\)](https://open.spotify.com/album/0Gf1yE895FKK4YWVRuAeg8) | 4:04 | 2023-06-06 |  |
 | [Another Love](https://open.spotify.com/track/7jtQIBanIiJOMS6RyCx6jZ) | [Tom Odell](https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX) | [Long Way Down](https://open.spotify.com/album/0KGBW1MQtC2aFPCDUdAkdJ) | 4:04 | 2021-04-20 | 2023-06-07 |
 | [Anti\-Hero](https://open.spotify.com/track/0V3wPSX9ygBnCm8psDIegu) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Midnights](https://open.spotify.com/album/151w1FgRZfnKZA9FEcg9Z3) | 3:20 | 2022-10-22 | 2023-06-26 |
@@ -653,7 +654,7 @@
 | [Love Of My Life](https://open.spotify.com/track/1mw0RgNXIpYRyyCdBQbLgA) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Harry's House](https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h) | 3:11 | 2022-05-21 | 2022-05-29 |
 | [Love Song](https://open.spotify.com/track/65PPYvLLxqXwYEIdpW8fy6) | [Trobi](https://open.spotify.com/artist/0MBLQbpbPvJ4oXM0Cj4aKR), [Ronnie Flex](https://open.spotify.com/artist/5eir5zFJpES4j7gsymbVyl), [Bilal Wahib](https://open.spotify.com/artist/5wV3FoaNbDB6X9INuQvs1K) | [Love Song](https://open.spotify.com/album/5gSWvabgQgkAa7whhV3jA7) | 3:01 | 2022-12-31 | 2023-01-02 |
 | [Love Tonight \- Edit](https://open.spotify.com/track/6OufwUcCqo81guU2jAlDVP) | [Shouse](https://open.spotify.com/artist/2TcGJdSOiOvITBzhvfX8XB) | [Love Tonight](https://open.spotify.com/album/5KXv2MHeoLSqZ96jRuFF9H) | 4:01 | 2021-07-04 | 2022-02-20 |
-| [lovely \(with Khalid\)](https://open.spotify.com/track/0u2P5u6lvoDfwTYjAADbn4) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH), [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [lovely \(with Khalid\)](https://open.spotify.com/album/2sBB17RXTamvj7Ncps15AK) | 3:20 | 2022-11-14 |  |
+| [lovely \(with Khalid\)](https://open.spotify.com/track/0u2P5u6lvoDfwTYjAADbn4) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH), [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [lovely \(with Khalid\)](https://open.spotify.com/album/2sBB17RXTamvj7Ncps15AK) | 3:20 | 2022-11-14 | 2023-10-22 |
 | [L’enfer](https://open.spotify.com/track/1CsuHmKOfCYxPoO4xjlAWV) | [Stromae](https://open.spotify.com/artist/5j4HeCoUlzhfWtjAfM1acR) | [Multitude](https://open.spotify.com/album/5JY3b9cELQsoG7D5TJMOgw) | 3:09 | 2022-03-05 | 2022-07-17 |
 | [L’enfer](https://open.spotify.com/track/7bp3zmEvpHLa0h32nhDUkB) | [Stromae](https://open.spotify.com/artist/5j4HeCoUlzhfWtjAfM1acR) | [L’enfer](https://open.spotify.com/album/7bSSz8KnOpZaJor6Cs3GkM) | 3:09 | 2022-01-10 | 2022-03-06 |
 | [M sans N](https://open.spotify.com/track/3Jw8hFmLwHhc7XudQl3Yqk) | [Olivia Dorato](https://open.spotify.com/artist/6LQ3jfXh6wB8tHoMKUosVL) | [M sans N](https://open.spotify.com/album/3Rd2Kl97Y8NfJZ1sNQQP3i) | 2:34 | 2022-10-16 | 2022-10-19 |

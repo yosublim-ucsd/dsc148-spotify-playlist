@@ -4,7 +4,7 @@
 
 > Shaka Ponk au top des meilleurs morceaux rock du moment.
 
-64 songs - 3 hr 35 min
+65 songs - 3 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -60,7 +60,8 @@
 | [Sugar Rush](https://open.spotify.com/track/4Q2guVruhbhzux6NApPTkP) | [Tip Stevens](https://open.spotify.com/artist/0dDbdyjsq9HEPNKPyNElgd) | [Sugar Rush](https://open.spotify.com/album/5lft83Fx1Dth0Frg1ptTUE) | 4:05 | 2023-10-05 |  |
 | [Sweet Life](https://open.spotify.com/track/3XHdtukUPR5db9KVyZwDCt) | [Rival Sons](https://open.spotify.com/artist/356c8AN5YWKvz86B4Sb1yf) | [Mercy](https://open.spotify.com/album/7m5exqpKRweMqgxgOk6wY1) | 3:33 | 2023-10-19 |  |
 | [S’old](https://open.spotify.com/track/0eMecDjtpUfpi0mc1qzKVi) | [Taking Back Sunday](https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1) | [S'old](https://open.spotify.com/album/1jsyRZ5yUSQGOigC50bNef) | 2:43 | 2023-09-28 |  |
-| [Take a Bow](https://open.spotify.com/track/7Di847sIIrgAWLer6C33pJ) | [Mammoth WVH](https://open.spotify.com/artist/6WKdhhc03LqnixYI2ZzWzO) | [Take a Bow](https://open.spotify.com/album/6jYav3AeS4FJ89epXScuuG) | 6:54 | 2023-09-28 |  |
+| [Take a Bow](https://open.spotify.com/track/08rBgaCVTpoVWkmrvR7pEI) | [Mammoth WVH](https://open.spotify.com/artist/6WKdhhc03LqnixYI2ZzWzO) | [Mammoth II](https://open.spotify.com/album/2ZVBJR0iHqyTLV15RlPdTf) | 6:54 | 2023-10-19 |  |
+| [Take a Bow](https://open.spotify.com/track/7Di847sIIrgAWLer6C33pJ) | [Mammoth WVH](https://open.spotify.com/artist/6WKdhhc03LqnixYI2ZzWzO) | [Take a Bow](https://open.spotify.com/album/6jYav3AeS4FJ89epXScuuG) | 6:54 | 2023-09-28 | 2023-10-22 |
 | [Take Me With You](https://open.spotify.com/track/3GpoRL1PBnTerVSaVG5tGW) | [Neck Deep](https://open.spotify.com/artist/2TM0qnbJH4QPhGMCdPt7fH) | [Take Me With You](https://open.spotify.com/album/5nlMjtTBb8QwtiWs7TY8L4) | 3:17 | 2023-09-28 |  |
 | [Taste The Sun](https://open.spotify.com/track/2DSMg1St3kwmv7uvrRBJZv) | [The Pale White](https://open.spotify.com/artist/3uhfMjcE5HJqMIWh3Iolw0) | [Taste The Sun](https://open.spotify.com/album/4GWmCsQY6CQnw5Xf3sbxl7) | 4:03 | 2023-10-05 |  |
 | [The Storm](https://open.spotify.com/track/7dK3KXph8IKzuMo89sh6Kg) | [Hawthorne Heights](https://open.spotify.com/artist/126FigDBtqwS2YsOYMTPQe) | [The Storm](https://open.spotify.com/album/3JDUl3oKejH3cGOLBFlJgf) | 2:53 | 2023-09-28 | 2023-10-06 |

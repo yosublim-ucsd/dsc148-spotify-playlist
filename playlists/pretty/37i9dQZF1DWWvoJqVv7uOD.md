@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWvoJqVv7uOD.md) - [plain]
 
 > Easy listening mix of recent hits, everyday favorites & some new songs you'll love\. Cover: Dermot Kennedy
 
-[Spotify](https://open.spotify.com/user/spotify) - 401,163 likes - 91 songs - 4 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 401,256 likes - 91 songs - 4 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -100,4 +100,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWvoJqVv7uOD.md) - [plain]
 | 90 | [For You](https://open.spotify.com/track/6eniusd0uJLr2s4I2kRl20) | [Matteo Bocelli](https://open.spotify.com/artist/3SzmIPVTtVc0AzbR8kwk0w) | [For You](https://open.spotify.com/album/4ZOY8uT6Z9Zw1PERLu0g3e) | 3:13 |
 | 91 | [Better Man](https://open.spotify.com/track/7qqOrc0Uvpvl5NvoAPRGLE) | [Sekou](https://open.spotify.com/artist/1mYgKcXdbklH5RwjU6XA8c) | [Better Man](https://open.spotify.com/album/1hfIWkFQJnxCtCTWshLEX7) | 3:12 |
 
-Snapshot ID: `MCxjMTBkMDdhYzdjMWEyYWRhOWViYzBkMDY0NDNiYmEzYWRlYjAzYmQ0`
+Snapshot ID: `MCw4MWFmMDA1YmIxMzhkNjAyZmY5NTMwYzhkNmYyNmI0YzJlMWM5NTMz`

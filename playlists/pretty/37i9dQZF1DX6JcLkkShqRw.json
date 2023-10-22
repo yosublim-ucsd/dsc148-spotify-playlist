@@ -1,12 +1,12 @@
 {
   "description": "Flow sudamericano con Neo Pistea, Bhavi, KHEA y C.R.O.",
-  "num_followers": 315994,
+  "num_followers": 316051,
   "original_name": "Flow al Sur",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjZTNiNDgxYTg5NDcxYzAxN2E3M2RhNWI4MDFhMjUzZmM1YzQ1MTU4",
+  "snapshot_id": "MCwxMDI4MjEwNzgwZmM1NjZlZWE2ZmRkNTE5MjI4N2YwNWZiODU4OTYw",
   "tracks": [
     {
       "added_at": "2023-10-20 14:47:12",
@@ -119,6 +119,22 @@
     {
       "added_at": "2023-10-20 14:47:12",
       "album": {
+        "name": "c\u00f3mo dormiste?",
+        "url": "https://open.spotify.com/album/2jt6z03JV7Ax8ZdlOrs9BK"
+      },
+      "artists": [
+        {
+          "name": "Rels B",
+          "url": "https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8"
+        }
+      ],
+      "duration_ms": 112572,
+      "name": "c\u00f3mo dormiste?",
+      "url": "https://open.spotify.com/track/3fjN3y5x4hN53rykAN2LHQ"
+    },
+    {
+      "added_at": "2023-10-20 14:47:12",
+      "album": {
         "name": "Caba\u00f1a",
         "url": "https://open.spotify.com/album/4pB67EzrWH1xI6h7y4DbRT"
       },
@@ -139,22 +155,6 @@
       "duration_ms": 178836,
       "name": "Caba\u00f1a",
       "url": "https://open.spotify.com/track/6UR1k5NGqgNGzgVmMtT768"
-    },
-    {
-      "added_at": "2023-10-20 14:47:12",
-      "album": {
-        "name": "c\u00f3mo dormiste?",
-        "url": "https://open.spotify.com/album/2jt6z03JV7Ax8ZdlOrs9BK"
-      },
-      "artists": [
-        {
-          "name": "Rels B",
-          "url": "https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8"
-        }
-      ],
-      "duration_ms": 112572,
-      "name": "c\u00f3mo dormiste?",
-      "url": "https://open.spotify.com/track/3fjN3y5x4hN53rykAN2LHQ"
     },
     {
       "added_at": "2023-10-20 14:47:12",
@@ -1039,8 +1039,8 @@
     {
       "added_at": "2023-10-20 14:47:12",
       "album": {
-        "name": "MI CIUDAD",
-        "url": "https://open.spotify.com/album/05uxQGOTCeBXhdofQ9U15S"
+        "name": "YSYSMO",
+        "url": "https://open.spotify.com/album/2Vo0I6ocNBz16QklB1zVc3"
       },
       "artists": [
         {
@@ -1048,17 +1048,17 @@
           "url": "https://open.spotify.com/artist/2qWK8K2Jfh67UqtwY8tCW6"
         },
         {
-          "name": "Bhavi",
-          "url": "https://open.spotify.com/artist/7fT2Me47PQ8T7954PKrcwR"
+          "name": "SPONSOR DIOS",
+          "url": "https://open.spotify.com/artist/5PYNYuJvINkkQZV6ncScjf"
         },
         {
-          "name": "Tiago PZK",
-          "url": "https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1"
+          "name": "Evlay",
+          "url": "https://open.spotify.com/artist/2JsDK87cAxuUlz4L4izU7A"
         }
       ],
-      "duration_ms": 220551,
-      "name": "MI CIUDAD",
-      "url": "https://open.spotify.com/track/4CQmxttSVcdfdf0B7cWqJR"
+      "duration_ms": 134581,
+      "name": "C\u00d3MO CHILLA ELLA",
+      "url": "https://open.spotify.com/track/0W3TCDzYM7xFrZSaXnQvs4"
     },
     {
       "added_at": "2023-10-20 14:47:12",
@@ -1155,8 +1155,8 @@
     {
       "added_at": "2023-10-20 14:47:12",
       "album": {
-        "name": "YSYSMO",
-        "url": "https://open.spotify.com/album/2Vo0I6ocNBz16QklB1zVc3"
+        "name": "MI CIUDAD",
+        "url": "https://open.spotify.com/album/05uxQGOTCeBXhdofQ9U15S"
       },
       "artists": [
         {
@@ -1164,17 +1164,17 @@
           "url": "https://open.spotify.com/artist/2qWK8K2Jfh67UqtwY8tCW6"
         },
         {
-          "name": "SPONSOR DIOS",
-          "url": "https://open.spotify.com/artist/5PYNYuJvINkkQZV6ncScjf"
+          "name": "Bhavi",
+          "url": "https://open.spotify.com/artist/7fT2Me47PQ8T7954PKrcwR"
         },
         {
-          "name": "Evlay",
-          "url": "https://open.spotify.com/artist/2JsDK87cAxuUlz4L4izU7A"
+          "name": "Tiago PZK",
+          "url": "https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1"
         }
       ],
-      "duration_ms": 134581,
-      "name": "C\u00d3MO CHILLA ELLA",
-      "url": "https://open.spotify.com/track/0W3TCDzYM7xFrZSaXnQvs4"
+      "duration_ms": 220551,
+      "name": "MI CIUDAD",
+      "url": "https://open.spotify.com/track/4CQmxttSVcdfdf0B7cWqJR"
     },
     {
       "added_at": "2023-10-20 14:47:12",
@@ -1335,22 +1335,18 @@
     {
       "added_at": "2023-10-20 14:47:12",
       "album": {
-        "name": "Toda Guapa",
-        "url": "https://open.spotify.com/album/5jBPkUmcXBzPyff2y1Wzc2"
+        "name": "511",
+        "url": "https://open.spotify.com/album/10vvdzSUQmL6hYsoPDhG3X"
       },
       "artists": [
         {
-          "name": "Lucky Brown",
-          "url": "https://open.spotify.com/artist/11HepfI1lj6KJHj651rZhM"
-        },
-        {
-          "name": "Fran C",
-          "url": "https://open.spotify.com/artist/5NenY2Jl9wwLRxf86go4Y8"
+          "name": "Milo j",
+          "url": "https://open.spotify.com/artist/19HM5j0ULGSmEoRcrSe5x3"
         }
       ],
-      "duration_ms": 155275,
-      "name": "Toda Guapa",
-      "url": "https://open.spotify.com/track/6XLOKUNpCZRkWAKfEDeArF"
+      "duration_ms": 106095,
+      "name": "TOI HECHO",
+      "url": "https://open.spotify.com/track/1qjb7lJPQ4oxQ3kSeZYXlt"
     },
     {
       "added_at": "2023-10-20 14:47:12",
@@ -1375,18 +1371,22 @@
     {
       "added_at": "2023-10-20 14:47:12",
       "album": {
-        "name": "511",
-        "url": "https://open.spotify.com/album/10vvdzSUQmL6hYsoPDhG3X"
+        "name": "Toda Guapa",
+        "url": "https://open.spotify.com/album/5jBPkUmcXBzPyff2y1Wzc2"
       },
       "artists": [
         {
-          "name": "Milo j",
-          "url": "https://open.spotify.com/artist/19HM5j0ULGSmEoRcrSe5x3"
+          "name": "Lucky Brown",
+          "url": "https://open.spotify.com/artist/11HepfI1lj6KJHj651rZhM"
+        },
+        {
+          "name": "Fran C",
+          "url": "https://open.spotify.com/artist/5NenY2Jl9wwLRxf86go4Y8"
         }
       ],
-      "duration_ms": 106095,
-      "name": "TOI HECHO",
-      "url": "https://open.spotify.com/track/1qjb7lJPQ4oxQ3kSeZYXlt"
+      "duration_ms": 155275,
+      "name": "Toda Guapa",
+      "url": "https://open.spotify.com/track/6XLOKUNpCZRkWAKfEDeArF"
     },
     {
       "added_at": "2023-10-20 14:47:12",
@@ -1527,26 +1527,6 @@
     {
       "added_at": "2023-10-20 14:47:12",
       "album": {
-        "name": "CRIS MJ | DJ TAO Turreo Sessions #20",
-        "url": "https://open.spotify.com/album/4HCyWSPj8iDtCN291g4n39"
-      },
-      "artists": [
-        {
-          "name": "DJ Tao",
-          "url": "https://open.spotify.com/artist/5CA5IqbsFr4hpNLdjgO0BU"
-        },
-        {
-          "name": "Cris Mj",
-          "url": "https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE"
-        }
-      ],
-      "duration_ms": 210012,
-      "name": "CRIS MJ | DJ TAO Turreo Sessions #20",
-      "url": "https://open.spotify.com/track/6bAxW5fCFc4mfe8otIxWf9"
-    },
-    {
-      "added_at": "2023-10-20 14:47:12",
-      "album": {
         "name": "Salimo de Noche",
         "url": "https://open.spotify.com/album/0S3Zf8tQnpcnRbzY9qJ2x8"
       },
@@ -1567,6 +1547,26 @@
     {
       "added_at": "2023-10-20 14:47:12",
       "album": {
+        "name": "CRIS MJ | DJ TAO Turreo Sessions #20",
+        "url": "https://open.spotify.com/album/4HCyWSPj8iDtCN291g4n39"
+      },
+      "artists": [
+        {
+          "name": "DJ Tao",
+          "url": "https://open.spotify.com/artist/5CA5IqbsFr4hpNLdjgO0BU"
+        },
+        {
+          "name": "Cris Mj",
+          "url": "https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE"
+        }
+      ],
+      "duration_ms": 210012,
+      "name": "CRIS MJ | DJ TAO Turreo Sessions #20",
+      "url": "https://open.spotify.com/track/6bAxW5fCFc4mfe8otIxWf9"
+    },
+    {
+      "added_at": "2023-10-20 14:47:12",
+      "album": {
         "name": "Baila para Mi",
         "url": "https://open.spotify.com/album/6YfDEmXLmPFRlz4iScphbu"
       },
@@ -1579,30 +1579,6 @@
       "duration_ms": 164322,
       "name": "Baila para Mi",
       "url": "https://open.spotify.com/track/2KxfFzjyd5mpJu66s66w2S"
-    },
-    {
-      "added_at": "2023-10-20 14:47:12",
-      "album": {
-        "name": "Diamante en Bruto",
-        "url": "https://open.spotify.com/album/15qXNgOYFYITRFMAcKY9Ib"
-      },
-      "artists": [
-        {
-          "name": "C.R.O",
-          "url": "https://open.spotify.com/artist/4puAp107dCehraE47QXVQX"
-        },
-        {
-          "name": "Franky Style",
-          "url": "https://open.spotify.com/artist/1cLDC1abeY1jIY5AX2Rtbx"
-        },
-        {
-          "name": "Lil Troca",
-          "url": "https://open.spotify.com/artist/51Q6RZOMEMuZHySsfWLTtk"
-        }
-      ],
-      "duration_ms": 175265,
-      "name": "Diamante en Bruto",
-      "url": "https://open.spotify.com/track/74Qx3wwFjYvEYvfSsOnLWy"
     },
     {
       "added_at": "2023-10-20 14:47:12",
@@ -1627,6 +1603,30 @@
       "duration_ms": 249463,
       "name": "TU DIABLO",
       "url": "https://open.spotify.com/track/7yYUEygHvdK2wnOzupPfZw"
+    },
+    {
+      "added_at": "2023-10-20 14:47:12",
+      "album": {
+        "name": "Diamante en Bruto",
+        "url": "https://open.spotify.com/album/15qXNgOYFYITRFMAcKY9Ib"
+      },
+      "artists": [
+        {
+          "name": "C.R.O",
+          "url": "https://open.spotify.com/artist/4puAp107dCehraE47QXVQX"
+        },
+        {
+          "name": "Franky Style",
+          "url": "https://open.spotify.com/artist/1cLDC1abeY1jIY5AX2Rtbx"
+        },
+        {
+          "name": "Lil Troca",
+          "url": "https://open.spotify.com/artist/51Q6RZOMEMuZHySsfWLTtk"
+        }
+      ],
+      "duration_ms": 175265,
+      "name": "Diamante en Bruto",
+      "url": "https://open.spotify.com/track/74Qx3wwFjYvEYvfSsOnLWy"
     },
     {
       "added_at": "2023-10-20 14:47:12",
@@ -1775,22 +1775,6 @@
     {
       "added_at": "2023-10-20 14:47:12",
       "album": {
-        "name": "Anti Rana",
-        "url": "https://open.spotify.com/album/5waPP31TcvQa9KCO1eO6XW"
-      },
-      "artists": [
-        {
-          "name": "El Jordan 23",
-          "url": "https://open.spotify.com/artist/1fIJZfSmqQkuqfKNRmrS1V"
-        }
-      ],
-      "duration_ms": 189216,
-      "name": "Anti Rana",
-      "url": "https://open.spotify.com/track/1Zjdt705TM2Hr26YDKgnyc"
-    },
-    {
-      "added_at": "2023-10-20 14:47:12",
-      "album": {
         "name": "FINALMENTE RICO",
         "url": "https://open.spotify.com/album/5w6b1S6V1hgZetL2YaQPJk"
       },
@@ -1807,6 +1791,22 @@
       "duration_ms": 187200,
       "name": "GANAS",
       "url": "https://open.spotify.com/track/2RQsLucjZb02cKkz3s8NZ5"
+    },
+    {
+      "added_at": "2023-10-20 14:47:12",
+      "album": {
+        "name": "Anti Rana",
+        "url": "https://open.spotify.com/album/5waPP31TcvQa9KCO1eO6XW"
+      },
+      "artists": [
+        {
+          "name": "El Jordan 23",
+          "url": "https://open.spotify.com/artist/1fIJZfSmqQkuqfKNRmrS1V"
+        }
+      ],
+      "duration_ms": 189216,
+      "name": "Anti Rana",
+      "url": "https://open.spotify.com/track/1Zjdt705TM2Hr26YDKgnyc"
     },
     {
       "added_at": "2023-10-20 14:47:12",
@@ -2083,6 +2083,26 @@
     {
       "added_at": "2023-10-20 14:47:12",
       "album": {
+        "name": "Numero 1",
+        "url": "https://open.spotify.com/album/5QK2JiVGO67uLi0vqi9Wg6"
+      },
+      "artists": [
+        {
+          "name": "Oscu",
+          "url": "https://open.spotify.com/artist/5iDqEobZRSTiBSAk6jLp4A"
+        },
+        {
+          "name": "Nobeat",
+          "url": "https://open.spotify.com/artist/3TKS1JzWOLAnicuOCOyVlW"
+        }
+      ],
+      "duration_ms": 164000,
+      "name": "Numero 1",
+      "url": "https://open.spotify.com/track/6HXvazdtAr9hy0kThzxrE3"
+    },
+    {
+      "added_at": "2023-10-20 14:47:12",
+      "album": {
         "name": "LOKOTRON REMIX",
         "url": "https://open.spotify.com/album/20AWnC24OYqJyZfmzcEc9N"
       },
@@ -2115,26 +2135,6 @@
       "duration_ms": 370666,
       "name": "LOKOTRON REMIX",
       "url": "https://open.spotify.com/track/5uq1p5tvZhSTRpZZTwuQPj"
-    },
-    {
-      "added_at": "2023-10-20 14:47:12",
-      "album": {
-        "name": "Numero 1",
-        "url": "https://open.spotify.com/album/5QK2JiVGO67uLi0vqi9Wg6"
-      },
-      "artists": [
-        {
-          "name": "Oscu",
-          "url": "https://open.spotify.com/artist/5iDqEobZRSTiBSAk6jLp4A"
-        },
-        {
-          "name": "Nobeat",
-          "url": "https://open.spotify.com/artist/3TKS1JzWOLAnicuOCOyVlW"
-        }
-      ],
-      "duration_ms": 164000,
-      "name": "Numero 1",
-      "url": "https://open.spotify.com/track/6HXvazdtAr9hy0kThzxrE3"
     }
   ],
   "unique_name": "Flow al Sur",

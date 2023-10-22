@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 
 > All the New Joints featuring 21 Savage, Lil Uzi Vert, City Girls and more\. Cover: Gucci Mane
 
-[Spotify](https://open.spotify.com/user/spotify) - 236,627 likes - 49 songs - 2 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 236,801 likes - 49 songs - 2 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,7 +44,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 | 34 | [LSG](https://open.spotify.com/track/1cPT4wyiE3w8VNfpHPEa0k) | [G Perico](https://open.spotify.com/artist/4Q2hTDZYFCohf17D5GvkIb), [Gotdamnitdupri](https://open.spotify.com/artist/5JPm0OhnoxswDh5mxZ0JYs) | [LA Summers 3](https://open.spotify.com/album/64rtlOuiSsbSBJ3Qo1cdRA) | 2:57 |
 | 35 | [Life of the Party](https://open.spotify.com/track/1cub6yoVokdIB7MAF8Brza) | [ALLBLACK](https://open.spotify.com/artist/1cutd8e41XvxXnFPOFIxMD), [E\-40](https://open.spotify.com/artist/3crnzLy8R4lVwaigKEOz7V) | [Life of the Party](https://open.spotify.com/album/2o0XNHxZQoR4vMXLpOQjx2) | 2:51 |
 | 36 | [White Girl Wasted](https://open.spotify.com/track/52c1MKL7zhs29TnMZhpFeh) | [Tay Money](https://open.spotify.com/artist/6R6EfP43F8ZuMcilsE4zs7) | [White Girl Wasted](https://open.spotify.com/album/3sbTacnR7pI2YURDuDY2A7) | 2:38 |
-| 37 | [You Gone Hurt Me](https://open.spotify.com/track/4HQbVwocOhSsNeSEBArinQ) | [21 Lil Harold](https://open.spotify.com/artist/6X9Dt3dsZDeWzMBfekaoPB) | [You Gone Hurt Me](https://open.spotify.com/album/7HUtZRaiRc4p7JPicgOl0n) | 2:57 |
+| 37 | [You Gon Hurt Me](https://open.spotify.com/track/4HQbVwocOhSsNeSEBArinQ) | [21 Lil Harold](https://open.spotify.com/artist/6X9Dt3dsZDeWzMBfekaoPB) | [You Gon Hurt Me](https://open.spotify.com/album/7HUtZRaiRc4p7JPicgOl0n) | 2:57 |
 | 38 | [Shrimp Fried Rice](https://open.spotify.com/track/1mEDMUYAU9aenmkASPOUpA) | [Valee](https://open.spotify.com/artist/4hRL2QmahOYxXNmNKtG1AI), [MVW](https://open.spotify.com/artist/6DPonzduAacLR7OvVxXsTq) | [VALEEDATION](https://open.spotify.com/album/2e9V1h51xXENkXinC5NLlK) | 2:28 |
 | 39 | [Girls Cry 2!](https://open.spotify.com/track/5dQzV3qvv9XPgxSHTRyKhK) | [Dina Ayada](https://open.spotify.com/artist/5L88UL7xuw4CzYyzxqwgBz) | [Girls Cry 2!](https://open.spotify.com/album/0z84eQJfxKXq5ldDJmO3D6) | 2:20 |
 | 40 | [REFUND](https://open.spotify.com/track/3DHybk9XQCME6I7vmfweHW) | [Anycia](https://open.spotify.com/artist/4bOqkIGQCcuZgjfDxNuX1I) | [REFUND](https://open.spotify.com/album/3CvC69rEdoAKLUKyUCx4Rr) | 1:48 |
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 | 48 | [Give Em A Show](https://open.spotify.com/track/5l6eIWTmwDkadW03IDbYIe) | [Kidd Kenn](https://open.spotify.com/artist/5dkb0qOeUicNVLZKRGG92m) | [Busy Being Bad](https://open.spotify.com/album/6hVTA7m6JrrK16haH4AAwI) | 3:36 |
 | 49 | [Contacts](https://open.spotify.com/track/0EKNlEfWLUUlXFV2Xv5Ynj) | [Shordie Shordie](https://open.spotify.com/artist/5fyvTyetDr7gvLafBsEEhU), [Murda Beatz](https://open.spotify.com/artist/3CbYyyd8wH3RT6t0jwpdzC) | [Contacts](https://open.spotify.com/album/1i0cSt3OejDSrTE7b6op3l) | 2:23 |
 
-Snapshot ID: `MCw2NDk2MDVjMDA0MTU3OWRiMjU4NmUyYjM5YTU5YjVhMTZmYTcxODNj`
+Snapshot ID: `MCw4NDIzNDI1NzA2YWQ3NDE3NWM4ZTk5YjQ1MTA0YTUxNTA4ZGU3YzMy`

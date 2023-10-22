@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZdKbfDnTWVN.md) - [plain]
 
 > The best of bars, beats & rhymes from the 254\. Cover: <a href="https://open.spotify.com/artist/10jefIr7Jj7c0dDJEqRcWK?si=pdat4ZEbS9GP1JuDOOI\_TQ"> Wakadinali </a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,281 likes - 60 songs - 3 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,294 likes - 60 songs - 3 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZdKbfDnTWVN.md) - [plain]
 | 59 | [Smash](https://open.spotify.com/track/2Azllbj8lN32T84iCwKhfd) | [Dope\-I\-Mean](https://open.spotify.com/artist/2oZxeOa6ShBENROOYB5TsW), [Boutross](https://open.spotify.com/artist/60llzVzPwr1pfNy7qerr7y) | [Smash](https://open.spotify.com/album/5Ga0YvnWe3Me0N0CLDnM4x) | 2:58 |
 | 60 | [ROLL THE DICE \(Prod\. Gesaffelstein\)](https://open.spotify.com/track/7CAg4N1S926AymvuLjnJcy) | [KayCyy](https://open.spotify.com/artist/7gmVTgaiN0gpDJKvTHPTRL), [Gesaffelstein](https://open.spotify.com/artist/3hteYQFiMFbJY7wS0xDymP) | [ROLL THE DICE \(Prod\. Gesaffelstein\)](https://open.spotify.com/album/6P4c5OMZZQZVJLQJrYgjbd) | 2:44 |
 
-Snapshot ID: `MCw4MmRhZmNmOWQxYzI0NTM3NzYxNWQ2MzU5N2VkYWExNTRhMjcxNzk5`
+Snapshot ID: `MCw4M2Y4NTQ0ODZhZWMxNWRjYjQ2NzE4ODY4YWYyMWY2OTc2NmE4ZTU0`

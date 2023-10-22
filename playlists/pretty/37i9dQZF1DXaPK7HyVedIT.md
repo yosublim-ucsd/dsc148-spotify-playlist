@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaPK7HyVedIT.md) - [plain]
 
 > Eletrônico do momento para curtir onde estiver\. Foto: RUBACK
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,221,840 likes - 80 songs - 4 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,221,933 likes - 80 songs - 4 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaPK7HyVedIT.md) - [plain]
 | 2 | [Computers Take Over The World \- Cat Dealers Remix](https://open.spotify.com/track/1EMJQUJy57fHZ4dyqrFvjN) | [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5), [Cat Dealers](https://open.spotify.com/artist/3q2dSq7VZnj8TmoJUyRm40) | [Computers Take Over The World \(Remixes\)](https://open.spotify.com/album/6VhnussdJIvf9LGBVkUr6J) | 2:59 |
 | 3 | [Acid Peppers](https://open.spotify.com/track/4GvP0i8hmuyFPoLfxOq29d) | [KVSH](https://open.spotify.com/artist/2uGKgNuq7MnKksXiSO6HjB) | [Acid Peppers](https://open.spotify.com/album/6oka5q4Rg2o2wOWQ2Jzzei) | 2:49 |
 | 4 | [Hear U](https://open.spotify.com/track/4OqzTUnNcYXJ8hLhvkwa5i) | [Cat Dealers](https://open.spotify.com/artist/3q2dSq7VZnj8TmoJUyRm40), [HRRTZ](https://open.spotify.com/artist/6VpuPMBN4oVa62K1wS9bGS), [Nathan Nicholson](https://open.spotify.com/artist/4q8SjmBr5X7DUmVvrnNrsd) | [Hear U](https://open.spotify.com/album/3ipY5dqZuxwkQUNyfFhgPD) | 3:28 |
-| 5 | [Enemy](https://open.spotify.com/track/2x5fhx5v2EPX5WnszVGcpY) | [Carola](https://open.spotify.com/artist/1ms2l3rB6iHHxtPvR9kxgW), [DSCO](https://open.spotify.com/artist/0hjGca5Xj7A8t2DEvcoppj), [KAF3R](https://open.spotify.com/artist/0onxcomzS4gSqUyQsfImJf) | [Enemy](https://open.spotify.com/album/1dweo5Pzxv5Rp2uWvO9bsG) | 3:10 |
+| 5 | [Enemy](https://open.spotify.com/track/2x5fhx5v2EPX5WnszVGcpY) | [Carola](https://open.spotify.com/artist/1ms2l3rB6iHHxtPvR9kxgW), [DSCO](https://open.spotify.com/artist/1TBKSZvY5884MPpmHY0Zgd), [KAF3R](https://open.spotify.com/artist/0onxcomzS4gSqUyQsfImJf) | [Enemy](https://open.spotify.com/album/1dweo5Pzxv5Rp2uWvO9bsG) | 3:10 |
 | 6 | [Keep On Rising \(feat\. Michelle Shellers\) \[Fancy Inc and Bruno Be Remix\]](https://open.spotify.com/track/6L7N045eN7RyCMPsxmBcLH) | [Ian Carey](https://open.spotify.com/artist/2QFXAOEj2ow8a3xVkD8Ntg), [Fancy Inc](https://open.spotify.com/artist/4Eoddnw0pOewmCHQYofuwh), [Bruno Be](https://open.spotify.com/artist/37UXlMGND0Tr7Su43RxHQ0), [Michelle Shellers](https://open.spotify.com/artist/6nT13KD6zp5yKAdoWBuO2u) | [Keep On Rising \(feat\. Michelle Shellers\) \[Fancy Inc and Bruno Be Remix\]](https://open.spotify.com/album/6Mdtnc3pmXz5KjdWOiyivx) | 3:03 |
 | 7 | [Preacher](https://open.spotify.com/track/3I1bYmKfG8ncIdNGsQmZok) | [Öwnboss](https://open.spotify.com/artist/37czgDRfGMvgRiUKHvnnhj), [Outflux](https://open.spotify.com/artist/1aZrHGcyFNnEEE79aRU4jT), [No/Me](https://open.spotify.com/artist/4L0It80jhQQKMTU2r02nkL) | [Preacher](https://open.spotify.com/album/0OiCQxj9JxilgP7HVIuBjk) | 2:55 |
 | 8 | [TikTak](https://open.spotify.com/track/1aWMQBfDA9AYHrysNuMJIc) | [Laidback Luke](https://open.spotify.com/artist/53cQZtWDwDJwVCNZlfJ6Qk), [Öwnboss](https://open.spotify.com/artist/37czgDRfGMvgRiUKHvnnhj), [Kapuzen](https://open.spotify.com/artist/33t6iueXWtstQC1Q0RdojN) | [TikTak](https://open.spotify.com/album/3HteKaFElXCIRl6UG21C9u) | 2:17 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaPK7HyVedIT.md) - [plain]
 | 79 | [CKULO](https://open.spotify.com/track/2S4LxGDb2UwzGpoHp5sqwg) | [Mr\. Pig](https://open.spotify.com/artist/4psozRvxjEJEOANLHTwA7J), [INNDRIVE](https://open.spotify.com/artist/6Ult8lRnG7Dh7KZtVlpAJX) | [CKULO](https://open.spotify.com/album/3hnJU2TvsaJZvUWp9bVfJW) | 2:32 |
 | 80 | [Alcalina](https://open.spotify.com/track/4NNfMsL0JnIZXi16qF9HAM) | [Renato Cohen](https://open.spotify.com/artist/7C26wQyStqkNFW94iutvVD) | [Sunlight / Alcalina](https://open.spotify.com/album/2jagSL9eFHxqGSYKcOKlfM) | 3:52 |
 
-Snapshot ID: `MCwyYzIyNDAzMGM1YTY3MGM3OTA2OWIzNTMxMjI1YzJkN2YxMWE0M2Iz`
+Snapshot ID: `MCw0ZjFjZWE0YjY5N2Y2OGJlZWQ0MzUxZTU2MzU5ZDAyNTZiNTE0YzNh`

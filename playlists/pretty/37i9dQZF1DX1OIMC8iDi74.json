@@ -1,12 +1,12 @@
 {
   "description": "The best of electronic trap. Cover: RL Grime",
-  "num_followers": 891631,
+  "num_followers": 891694,
   "original_name": "Trap Mojito",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzODIxZWI0M2E1NTVhM2MwMTA1M2Y5ZTcxNzlhOGRiNDdmMGUzNTU1",
+  "snapshot_id": "MCxjYWI5MThlODQ0YWJiMDhjMjQ4OGNiNzA2ZTU2NGE1M2JlNTM2N2Zm",
   "tracks": [
     {
       "added_at": "2023-10-13 19:22:57",
@@ -615,22 +615,6 @@
     {
       "added_at": "2023-10-13 19:22:57",
       "album": {
-        "name": "Lone Wolf",
-        "url": "https://open.spotify.com/album/0ZOHOmSoA2F394OWEqvAIY"
-      },
-      "artists": [
-        {
-          "name": "Zomboy",
-          "url": "https://open.spotify.com/artist/0ycHhPwPvoaO4VGzmMnXGq"
-        }
-      ],
-      "duration_ms": 256500,
-      "name": "Lone Wolf",
-      "url": "https://open.spotify.com/track/76I3PmbGZazzNlEwlp1y85"
-    },
-    {
-      "added_at": "2023-10-13 19:22:57",
-      "album": {
         "name": "Better With You",
         "url": "https://open.spotify.com/album/4CoLHunP23dUcORSP1Nfzb"
       },
@@ -651,6 +635,22 @@
       "duration_ms": 192941,
       "name": "Better With You",
       "url": "https://open.spotify.com/track/3D37T7euWvVJ45evRmriIh"
+    },
+    {
+      "added_at": "2023-10-13 19:22:57",
+      "album": {
+        "name": "Lone Wolf",
+        "url": "https://open.spotify.com/album/0ZOHOmSoA2F394OWEqvAIY"
+      },
+      "artists": [
+        {
+          "name": "Zomboy",
+          "url": "https://open.spotify.com/artist/0ycHhPwPvoaO4VGzmMnXGq"
+        }
+      ],
+      "duration_ms": 256500,
+      "name": "Lone Wolf",
+      "url": "https://open.spotify.com/track/76I3PmbGZazzNlEwlp1y85"
     },
     {
       "added_at": "2023-10-13 19:22:57",
@@ -779,22 +779,6 @@
     {
       "added_at": "2023-10-13 19:22:57",
       "album": {
-        "name": "Shiawase",
-        "url": "https://open.spotify.com/album/64SYVRoKKBGR1wmb6S1l7d"
-      },
-      "artists": [
-        {
-          "name": "Dion Timmer",
-          "url": "https://open.spotify.com/artist/06VibSJEr3GLxLBBZhRums"
-        }
-      ],
-      "duration_ms": 217787,
-      "name": "Shiawase",
-      "url": "https://open.spotify.com/track/4hAb4pbqgfgwraiHongYZR"
-    },
-    {
-      "added_at": "2023-10-13 19:22:57",
-      "album": {
         "name": "Jungle Juice",
         "url": "https://open.spotify.com/album/3ZWcx0FGgPqxpxcQ87cuZM"
       },
@@ -811,6 +795,22 @@
       "duration_ms": 274966,
       "name": "Jungle Juice",
       "url": "https://open.spotify.com/track/1VxQboO0KAsIm8MjSShBJv"
+    },
+    {
+      "added_at": "2023-10-13 19:22:57",
+      "album": {
+        "name": "Shiawase",
+        "url": "https://open.spotify.com/album/64SYVRoKKBGR1wmb6S1l7d"
+      },
+      "artists": [
+        {
+          "name": "Dion Timmer",
+          "url": "https://open.spotify.com/artist/06VibSJEr3GLxLBBZhRums"
+        }
+      ],
+      "duration_ms": 217787,
+      "name": "Shiawase",
+      "url": "https://open.spotify.com/track/4hAb4pbqgfgwraiHongYZR"
     },
     {
       "added_at": "2023-10-13 19:22:57",
@@ -987,26 +987,6 @@
     {
       "added_at": "2023-10-13 19:22:57",
       "album": {
-        "name": "Sober",
-        "url": "https://open.spotify.com/album/5QAitMOxUFNdCzmbpkdGwt"
-      },
-      "artists": [
-        {
-          "name": "Slushii",
-          "url": "https://open.spotify.com/artist/41rVuRHYAiH7ltBTHVR9We"
-        },
-        {
-          "name": "Kaivon",
-          "url": "https://open.spotify.com/artist/55FVjkpZs1zuo3zqBgrKtC"
-        }
-      ],
-      "duration_ms": 224017,
-      "name": "Sober",
-      "url": "https://open.spotify.com/track/3XlHlWFhlI4OZiguOMcuuc"
-    },
-    {
-      "added_at": "2023-10-13 19:22:57",
-      "album": {
         "name": "OCCULT CLASSIC",
         "url": "https://open.spotify.com/album/2xCNIURBZpbjPLoaxSRujw"
       },
@@ -1023,6 +1003,26 @@
       "duration_ms": 226973,
       "name": "I Do Coke",
       "url": "https://open.spotify.com/track/3PvhJcV5xv7E1ImIfbRYeM"
+    },
+    {
+      "added_at": "2023-10-13 19:22:57",
+      "album": {
+        "name": "Sober",
+        "url": "https://open.spotify.com/album/5QAitMOxUFNdCzmbpkdGwt"
+      },
+      "artists": [
+        {
+          "name": "Slushii",
+          "url": "https://open.spotify.com/artist/41rVuRHYAiH7ltBTHVR9We"
+        },
+        {
+          "name": "Kaivon",
+          "url": "https://open.spotify.com/artist/55FVjkpZs1zuo3zqBgrKtC"
+        }
+      ],
+      "duration_ms": 224017,
+      "name": "Sober",
+      "url": "https://open.spotify.com/track/3XlHlWFhlI4OZiguOMcuuc"
     },
     {
       "added_at": "2023-10-13 19:22:57",
@@ -1195,26 +1195,6 @@
     {
       "added_at": "2023-10-13 19:22:57",
       "album": {
-        "name": "Eden (feat. fussy)",
-        "url": "https://open.spotify.com/album/5PFB53TFWypfqXhOjXi6Lj"
-      },
-      "artists": [
-        {
-          "name": "Juelz",
-          "url": "https://open.spotify.com/artist/04p1jV00pBnrmh2rKl0jnT"
-        },
-        {
-          "name": "fussy",
-          "url": "https://open.spotify.com/artist/789btpHpNQjZGwJIplXJuk"
-        }
-      ],
-      "duration_ms": 176761,
-      "name": "Eden (feat. fussy)",
-      "url": "https://open.spotify.com/track/0dCtaEXGzrVxlqteDis4vP"
-    },
-    {
-      "added_at": "2023-10-13 19:22:57",
-      "album": {
         "name": "Angels Landing",
         "url": "https://open.spotify.com/album/6HmjU8l5u5jmG8Mtrp6jRn"
       },
@@ -1231,6 +1211,26 @@
       "duration_ms": 233600,
       "name": "Angels Landing",
       "url": "https://open.spotify.com/track/7z8zdcW66DyZ931P6BjnX7"
+    },
+    {
+      "added_at": "2023-10-13 19:22:57",
+      "album": {
+        "name": "Eden (feat. fussy)",
+        "url": "https://open.spotify.com/album/5PFB53TFWypfqXhOjXi6Lj"
+      },
+      "artists": [
+        {
+          "name": "Juelz",
+          "url": "https://open.spotify.com/artist/04p1jV00pBnrmh2rKl0jnT"
+        },
+        {
+          "name": "fussy",
+          "url": "https://open.spotify.com/artist/789btpHpNQjZGwJIplXJuk"
+        }
+      ],
+      "duration_ms": 176761,
+      "name": "Eden (feat. fussy)",
+      "url": "https://open.spotify.com/track/0dCtaEXGzrVxlqteDis4vP"
     },
     {
       "added_at": "2023-10-13 19:22:57",
@@ -1347,38 +1347,6 @@
     {
       "added_at": "2023-10-13 19:22:57",
       "album": {
-        "name": "Came Up",
-        "url": "https://open.spotify.com/album/1UKFMf12OfFIpeRFLvgfqD"
-      },
-      "artists": [
-        {
-          "name": "Flosstradamus",
-          "url": "https://open.spotify.com/artist/2FmzVitXZjIkFolH8HXd4j"
-        },
-        {
-          "name": "FKi 1st",
-          "url": "https://open.spotify.com/artist/53ixqKNKVTgtSx3m3DGMA2"
-        },
-        {
-          "name": "graves",
-          "url": "https://open.spotify.com/artist/4E69riquObrTmBTVuF1b7B"
-        },
-        {
-          "name": "Post Malone",
-          "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
-        },
-        {
-          "name": "KEY!",
-          "url": "https://open.spotify.com/artist/2tMOCIpxj6jwM9e6pmwGiP"
-        }
-      ],
-      "duration_ms": 214929,
-      "name": "Came Up",
-      "url": "https://open.spotify.com/track/7f4Pjqs3XHSfV1UwX5vjxo"
-    },
-    {
-      "added_at": "2023-10-13 19:22:57",
-      "album": {
         "name": "I Admit It (feat. 24kGoldn)",
         "url": "https://open.spotify.com/album/2pHkZymG4rqjYfIP5GfeDO"
       },
@@ -1395,6 +1363,22 @@
       "duration_ms": 173950,
       "name": "I Admit It (feat. 24kGoldn)",
       "url": "https://open.spotify.com/track/5QUbOFOkbDlt4ZY7bdL4Am"
+    },
+    {
+      "added_at": "2023-10-13 19:22:57",
+      "album": {
+        "name": "The Drop EP",
+        "url": "https://open.spotify.com/album/2HbsPbdhF3TfA34vn9q7Wg"
+      },
+      "artists": [
+        {
+          "name": "Bro Safari",
+          "url": "https://open.spotify.com/artist/6d9SnuHI2bRer7c76d8sLq"
+        }
+      ],
+      "duration_ms": 229850,
+      "name": "The Drop",
+      "url": "https://open.spotify.com/track/51hSi1p7g2KdXg7fJA1Hgp"
     },
     {
       "added_at": "2023-10-13 19:22:57",
@@ -1423,18 +1407,34 @@
     {
       "added_at": "2023-10-13 19:22:57",
       "album": {
-        "name": "The Drop EP",
-        "url": "https://open.spotify.com/album/2HbsPbdhF3TfA34vn9q7Wg"
+        "name": "Came Up",
+        "url": "https://open.spotify.com/album/1UKFMf12OfFIpeRFLvgfqD"
       },
       "artists": [
         {
-          "name": "Bro Safari",
-          "url": "https://open.spotify.com/artist/6d9SnuHI2bRer7c76d8sLq"
+          "name": "Flosstradamus",
+          "url": "https://open.spotify.com/artist/2FmzVitXZjIkFolH8HXd4j"
+        },
+        {
+          "name": "FKi 1st",
+          "url": "https://open.spotify.com/artist/53ixqKNKVTgtSx3m3DGMA2"
+        },
+        {
+          "name": "graves",
+          "url": "https://open.spotify.com/artist/4E69riquObrTmBTVuF1b7B"
+        },
+        {
+          "name": "Post Malone",
+          "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
+        },
+        {
+          "name": "KEY!",
+          "url": "https://open.spotify.com/artist/2tMOCIpxj6jwM9e6pmwGiP"
         }
       ],
-      "duration_ms": 229850,
-      "name": "The Drop",
-      "url": "https://open.spotify.com/track/51hSi1p7g2KdXg7fJA1Hgp"
+      "duration_ms": 214929,
+      "name": "Came Up",
+      "url": "https://open.spotify.com/track/7f4Pjqs3XHSfV1UwX5vjxo"
     },
     {
       "added_at": "2023-10-13 19:22:57",
@@ -1659,6 +1659,22 @@
     {
       "added_at": "2023-10-13 19:22:57",
       "album": {
+        "name": "Issa Bounce",
+        "url": "https://open.spotify.com/album/7wveyi2W3dCEn8lUHIQdRi"
+      },
+      "artists": [
+        {
+          "name": "UpsideDown",
+          "url": "https://open.spotify.com/artist/0Vjwka9dESqFMtbXD1phDu"
+        }
+      ],
+      "duration_ms": 117600,
+      "name": "Issa Bounce",
+      "url": "https://open.spotify.com/track/7zeL5uEA13GJ6VN732HYyS"
+    },
+    {
+      "added_at": "2023-10-13 19:22:57",
+      "album": {
         "name": "High Like This",
         "url": "https://open.spotify.com/album/1AHQrn7hhAuNghkFtCXEnD"
       },
@@ -1679,22 +1695,6 @@
       "duration_ms": 192725,
       "name": "High Like This",
       "url": "https://open.spotify.com/track/3Ukb1tpAsQOdUSVKAW94Cj"
-    },
-    {
-      "added_at": "2023-10-13 19:22:57",
-      "album": {
-        "name": "Issa Bounce",
-        "url": "https://open.spotify.com/album/7wveyi2W3dCEn8lUHIQdRi"
-      },
-      "artists": [
-        {
-          "name": "UpsideDown",
-          "url": "https://open.spotify.com/artist/0Vjwka9dESqFMtbXD1phDu"
-        }
-      ],
-      "duration_ms": 117600,
-      "name": "Issa Bounce",
-      "url": "https://open.spotify.com/track/7zeL5uEA13GJ6VN732HYyS"
     },
     {
       "added_at": "2023-10-13 19:22:57",
@@ -1771,6 +1771,22 @@
     {
       "added_at": "2023-10-13 19:22:57",
       "album": {
+        "name": "Moving Points",
+        "url": "https://open.spotify.com/album/5eQvhdesnKTbBVxBPJuBJE"
+      },
+      "artists": [
+        {
+          "name": "Jerry Folk",
+          "url": "https://open.spotify.com/artist/356FCJoyYWyzONni54Dgrv"
+        }
+      ],
+      "duration_ms": 121007,
+      "name": "Red Ish",
+      "url": "https://open.spotify.com/track/6O8U8Biv6ztOLUcQPBEW1P"
+    },
+    {
+      "added_at": "2023-10-13 19:22:57",
+      "album": {
         "name": "LOUD",
         "url": "https://open.spotify.com/album/20YsYld8q3KoVj8uT7kHGK"
       },
@@ -1787,22 +1803,6 @@
       "duration_ms": 165675,
       "name": "LOUD",
       "url": "https://open.spotify.com/track/4gWvFjp9fFZ77mOW5FUaDh"
-    },
-    {
-      "added_at": "2023-10-13 19:22:57",
-      "album": {
-        "name": "Moving Points",
-        "url": "https://open.spotify.com/album/5eQvhdesnKTbBVxBPJuBJE"
-      },
-      "artists": [
-        {
-          "name": "Jerry Folk",
-          "url": "https://open.spotify.com/artist/356FCJoyYWyzONni54Dgrv"
-        }
-      ],
-      "duration_ms": 121007,
-      "name": "Red Ish",
-      "url": "https://open.spotify.com/track/6O8U8Biv6ztOLUcQPBEW1P"
     },
     {
       "added_at": "2023-10-13 19:22:57",

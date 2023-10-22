@@ -1,12 +1,12 @@
 {
   "description": "Tracks para inspirar tu ofni perfecto \ud83c\udf3c",
-  "num_followers": 1668,
+  "num_followers": 1675,
   "original_name": "GRWM\u2728",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2NWExN2U2ZTFhOTNiNjE1MmY0ZTk3MWVkN2E5ZjA4NjAxNWEzZTBh",
+  "snapshot_id": "MCwxYTliYWQ0YzMzODFhMzFiNjVkZGI3MDRjNzE1YjQzNDQ4ZjlmYjVh",
   "tracks": [
     {
       "added_at": "2023-09-22 17:01:25",
@@ -415,6 +415,22 @@
     {
       "added_at": "2023-09-22 17:01:25",
       "album": {
+        "name": "Midnights",
+        "url": "https://open.spotify.com/album/151w1FgRZfnKZA9FEcg9Z3"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "duration_ms": 191039,
+      "name": "Mastermind",
+      "url": "https://open.spotify.com/track/7FmYn9e7KHMXcxqGSj9LjH"
+    },
+    {
+      "added_at": "2023-09-22 17:01:25",
+      "album": {
         "name": "Sure Thing (Sped Up)",
         "url": "https://open.spotify.com/album/0IrjdFRneYtHj0CwmAphDT"
       },
@@ -431,18 +447,18 @@
     {
       "added_at": "2023-09-22 17:01:25",
       "album": {
-        "name": "Midnights",
-        "url": "https://open.spotify.com/album/151w1FgRZfnKZA9FEcg9Z3"
+        "name": "X 100PRE",
+        "url": "https://open.spotify.com/album/7CjJb2mikwAWA1V6kewFBF"
       },
       "artists": [
         {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
         }
       ],
-      "duration_ms": 191039,
-      "name": "Mastermind",
-      "url": "https://open.spotify.com/track/7FmYn9e7KHMXcxqGSj9LjH"
+      "duration_ms": 233128,
+      "name": "Otra Noche en Miami",
+      "url": "https://open.spotify.com/track/4vCAzANUWDE24URV6wQ4ra"
     },
     {
       "added_at": "2023-09-22 17:01:25",
@@ -463,22 +479,6 @@
       "duration_ms": 166882,
       "name": "WATATI (feat. Aldo Ranks) [From Barbie The Album]",
       "url": "https://open.spotify.com/track/6MZi5j60L80SZLBxN0bv8s"
-    },
-    {
-      "added_at": "2023-09-22 17:01:25",
-      "album": {
-        "name": "X 100PRE",
-        "url": "https://open.spotify.com/album/7CjJb2mikwAWA1V6kewFBF"
-      },
-      "artists": [
-        {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
-        }
-      ],
-      "duration_ms": 233128,
-      "name": "Otra Noche en Miami",
-      "url": "https://open.spotify.com/track/4vCAzANUWDE24URV6wQ4ra"
     },
     {
       "added_at": "2023-09-22 17:01:25",
@@ -755,6 +755,22 @@
     {
       "added_at": "2023-09-22 17:01:25",
       "album": {
+        "name": "Give It To Me (Tiktok Remix)",
+        "url": "https://open.spotify.com/album/429LXyHyMVLd2k69iLUe2d"
+      },
+      "artists": [
+        {
+          "name": "Levis Remix",
+          "url": "https://open.spotify.com/artist/11zVzNHj5hETQ17BilwY3I"
+        }
+      ],
+      "duration_ms": 171865,
+      "name": "Give It To Me Tiktok - Remix",
+      "url": "https://open.spotify.com/track/77p46YUr5SA0Ft7CUt7P7C"
+    },
+    {
+      "added_at": "2023-09-22 17:01:25",
+      "album": {
         "name": "Afro",
         "url": "https://open.spotify.com/album/4UB2nT0IAEunpdUFiuFUxA"
       },
@@ -771,22 +787,6 @@
       "duration_ms": 186895,
       "name": "Tucu",
       "url": "https://open.spotify.com/track/4oSDSQzBBB2BIvHeHcXoyu"
-    },
-    {
-      "added_at": "2023-09-22 17:01:25",
-      "album": {
-        "name": "Give It To Me (Tiktok Remix)",
-        "url": "https://open.spotify.com/album/429LXyHyMVLd2k69iLUe2d"
-      },
-      "artists": [
-        {
-          "name": "Levis Remix",
-          "url": "https://open.spotify.com/artist/11zVzNHj5hETQ17BilwY3I"
-        }
-      ],
-      "duration_ms": 171865,
-      "name": "Give It To Me Tiktok - Remix",
-      "url": "https://open.spotify.com/track/77p46YUr5SA0Ft7CUt7P7C"
     },
     {
       "added_at": "2023-09-22 17:01:25",

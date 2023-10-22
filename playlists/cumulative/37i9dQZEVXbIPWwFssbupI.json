@@ -228,7 +228,7 @@
       ],
       "date_added": "2023-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-22",
       "duration_ms": 160000,
       "name": "10.03.2023",
       "url": "https://open.spotify.com/track/2hfeuQkhID6cCWloWe6ugO"
@@ -334,6 +334,28 @@
       "duration_ms": 162544,
       "name": "17%",
       "url": "https://open.spotify.com/track/4Pqh6V967VGBSIxvy3EQik"
+    },
+    {
+      "album": {
+        "name": "TRAP$TAR 3",
+        "url": "https://open.spotify.com/album/1Wk9tbsibudYX1zKKGdDV5"
+      },
+      "artists": [
+        {
+          "name": "Leto",
+          "url": "https://open.spotify.com/artist/6HCBnyTBSLdb3TFn2ayulY"
+        },
+        {
+          "name": "Ninho",
+          "url": "https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH"
+        }
+      ],
+      "date_added": "2023-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206946,
+      "name": "187 mesures (feat. Ninho)",
+      "url": "https://open.spotify.com/track/46TdVjDXpTKcPqsHItxDKn"
     },
     {
       "album": {
@@ -1744,7 +1766,7 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-22",
       "duration_ms": 244360,
       "name": "Another Love",
       "url": "https://open.spotify.com/track/3JvKfv6T31zO0ini8iNItO"
@@ -2406,7 +2428,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-22",
       "duration_ms": 193813,
       "name": "Avec Toi",
       "url": "https://open.spotify.com/track/656vbT8JKkVx7g1yG12L89"
@@ -4892,7 +4914,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-22",
       "duration_ms": 258431,
       "name": "Can't Hold Us (feat. Ray Dalton)",
       "url": "https://open.spotify.com/track/22skzmqfdWrjJylampe0kt"
@@ -7165,6 +7187,28 @@
     },
     {
       "album": {
+        "name": "TRAP$TAR 3",
+        "url": "https://open.spotify.com/album/1Wk9tbsibudYX1zKKGdDV5"
+      },
+      "artists": [
+        {
+          "name": "Leto",
+          "url": "https://open.spotify.com/artist/6HCBnyTBSLdb3TFn2ayulY"
+        },
+        {
+          "name": "Gazo",
+          "url": "https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I"
+        }
+      ],
+      "date_added": "2023-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160858,
+      "name": "Dans le noir",
+      "url": "https://open.spotify.com/track/70bMoHeE4bJ8AwP3qrUe1F"
+    },
+    {
+      "album": {
         "name": "Dans le R\u00e9seau",
         "url": "https://open.spotify.com/album/4V2hxSDKR1ftk7AUybMAQG"
       },
@@ -7710,7 +7754,7 @@
       ],
       "date_added": "2023-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-22",
       "duration_ms": 179161,
       "name": "Desire (with Sam Smith)",
       "url": "https://open.spotify.com/track/22dUzMFttcR3uU17NcOAIv"
@@ -7818,7 +7862,7 @@
       ],
       "date_added": "2022-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-22",
       "duration_ms": 240413,
       "name": "DIE",
       "url": "https://open.spotify.com/track/3D29kjUyWxsT3jUUTtARVQ"
@@ -10086,7 +10130,7 @@
       ],
       "date_added": "2022-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-22",
       "duration_ms": 210933,
       "name": "FLEURS (feat. Tiakola)",
       "url": "https://open.spotify.com/track/0i9RysNKssk6syOrKDX3U2"
@@ -11084,6 +11128,32 @@
       "duration_ms": 233456,
       "name": "Glimpse of Us",
       "url": "https://open.spotify.com/track/6xGruZOHLs39ZbVccQTuPZ"
+    },
+    {
+      "album": {
+        "name": "TRAP$TAR 3",
+        "url": "https://open.spotify.com/album/1Wk9tbsibudYX1zKKGdDV5"
+      },
+      "artists": [
+        {
+          "name": "Leto",
+          "url": "https://open.spotify.com/artist/6HCBnyTBSLdb3TFn2ayulY"
+        },
+        {
+          "name": "Rsko",
+          "url": "https://open.spotify.com/artist/3L774tiJRvPmAS90pOLB44"
+        },
+        {
+          "name": "Tiakola",
+          "url": "https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh"
+        }
+      ],
+      "date_added": "2023-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 281360,
+      "name": "God Bless",
+      "url": "https://open.spotify.com/track/5tFxDBCS5t0af9v9HiysLr"
     },
     {
       "album": {
@@ -12260,6 +12330,28 @@
       "duration_ms": 182857,
       "name": "Iko Iko (My Bestie)",
       "url": "https://open.spotify.com/track/7MC4XR9M9amdmKQr2iDF7i"
+    },
+    {
+      "album": {
+        "name": "TRAP$TAR 3",
+        "url": "https://open.spotify.com/album/1Wk9tbsibudYX1zKKGdDV5"
+      },
+      "artists": [
+        {
+          "name": "Leto",
+          "url": "https://open.spotify.com/artist/6HCBnyTBSLdb3TFn2ayulY"
+        },
+        {
+          "name": "Koba LaD",
+          "url": "https://open.spotify.com/artist/1q7T9rFQ2a2ukA1PU51fo3"
+        }
+      ],
+      "date_added": "2023-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162525,
+      "name": "Immonde",
+      "url": "https://open.spotify.com/track/0tGshe4WNGp7rvXHxDQvbH"
     },
     {
       "album": {
@@ -13976,6 +14068,24 @@
       "duration_ms": 179986,
       "name": "Kobe",
       "url": "https://open.spotify.com/track/0d9SLQIkIWUFKeKqxVYRlz"
+    },
+    {
+      "album": {
+        "name": "TRAP$TAR 3",
+        "url": "https://open.spotify.com/album/1Wk9tbsibudYX1zKKGdDV5"
+      },
+      "artists": [
+        {
+          "name": "Leto",
+          "url": "https://open.spotify.com/artist/6HCBnyTBSLdb3TFn2ayulY"
+        }
+      ],
+      "date_added": "2023-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161221,
+      "name": "Koke",
+      "url": "https://open.spotify.com/track/6mabgsLAUmCQmWunduWXgr"
     },
     {
       "album": {
@@ -17604,7 +17714,7 @@
       ],
       "date_added": "2023-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-22",
       "duration_ms": 176786,
       "name": "Mamma Mia",
       "url": "https://open.spotify.com/track/3p26SlvvvwRo3WY9pUTlE0"
@@ -18094,6 +18204,28 @@
       "duration_ms": 187680,
       "name": "Mauvaise journ\u00e9e",
       "url": "https://open.spotify.com/track/0jbGm0dpPUnr8omDSpLKW6"
+    },
+    {
+      "album": {
+        "name": "Instinct",
+        "url": "https://open.spotify.com/album/34wyg9ysgPMJlBrtn4mckJ"
+      },
+      "artists": [
+        {
+          "name": "Softo",
+          "url": "https://open.spotify.com/artist/58WoaFxsPISuJ0iCyfizNp"
+        },
+        {
+          "name": "Ninho",
+          "url": "https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH"
+        }
+      ],
+      "date_added": "2023-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204705,
+      "name": "Mauvaise Nouvelle",
+      "url": "https://open.spotify.com/track/4ckEvXcaBNkzjtqbfYxXGe"
     },
     {
       "album": {
@@ -22361,6 +22493,24 @@
     },
     {
       "album": {
+        "name": "TRAP$TAR 3",
+        "url": "https://open.spotify.com/album/1Wk9tbsibudYX1zKKGdDV5"
+      },
+      "artists": [
+        {
+          "name": "Leto",
+          "url": "https://open.spotify.com/artist/6HCBnyTBSLdb3TFn2ayulY"
+        }
+      ],
+      "date_added": "2023-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121446,
+      "name": "Pr\u00e9judice",
+      "url": "https://open.spotify.com/track/4izmyQcssvHEpC8cCFqQam"
+    },
+    {
+      "album": {
         "name": "Mr. Morale & The Big Steppers",
         "url": "https://open.spotify.com/album/1atjqOZTCdrjxjMyCPZc2g"
       },
@@ -23764,7 +23914,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-22",
       "duration_ms": 143264,
       "name": "RUNAWAY",
       "url": "https://open.spotify.com/track/07fbDnkKdZGk1gLvknxrns"
@@ -26135,6 +26285,28 @@
     },
     {
       "album": {
+        "name": "TRAP$TAR 3",
+        "url": "https://open.spotify.com/album/1Wk9tbsibudYX1zKKGdDV5"
+      },
+      "artists": [
+        {
+          "name": "Leto",
+          "url": "https://open.spotify.com/artist/6HCBnyTBSLdb3TFn2ayulY"
+        },
+        {
+          "name": "SDM",
+          "url": "https://open.spotify.com/artist/0LKAV3zJ8a8AIGnyc5OvfB"
+        }
+      ],
+      "date_added": "2023-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163067,
+      "name": "Sur le banc",
+      "url": "https://open.spotify.com/track/4uvnHIXK2Pk1AYjBLI5IYG"
+    },
+    {
+      "album": {
         "name": "V",
         "url": "https://open.spotify.com/album/03ZLnEibkBpQxhXKaQiqfU"
       },
@@ -27492,6 +27664,24 @@
       "duration_ms": 185413,
       "name": "Toute la noche (feat. Ma\u00eetre Gims)",
       "url": "https://open.spotify.com/track/7kmueDSUCCcDnEed0Tseow"
+    },
+    {
+      "album": {
+        "name": "TRAP$TAR 3",
+        "url": "https://open.spotify.com/album/1Wk9tbsibudYX1zKKGdDV5"
+      },
+      "artists": [
+        {
+          "name": "Leto",
+          "url": "https://open.spotify.com/artist/6HCBnyTBSLdb3TFn2ayulY"
+        }
+      ],
+      "date_added": "2023-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179415,
+      "name": "Toute \u00e9preuve",
+      "url": "https://open.spotify.com/track/5upp18sWYDfl5mt22PkpKJ"
     },
     {
       "album": {
@@ -28863,6 +29053,24 @@
     },
     {
       "album": {
+        "name": "TRAP$TAR 3",
+        "url": "https://open.spotify.com/album/1Wk9tbsibudYX1zKKGdDV5"
+      },
+      "artists": [
+        {
+          "name": "Leto",
+          "url": "https://open.spotify.com/artist/6HCBnyTBSLdb3TFn2ayulY"
+        }
+      ],
+      "date_added": "2023-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198080,
+      "name": "Vovo",
+      "url": "https://open.spotify.com/track/2ohO63bidj6AMGmRxqWGt0"
+    },
+    {
+      "album": {
         "name": "Akimbo",
         "url": "https://open.spotify.com/album/6V9TAy7JYau3aChQfx4hCq"
       },
@@ -29026,7 +29234,7 @@
       ],
       "date_added": "2023-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-22",
       "duration_ms": 225431,
       "name": "Waves",
       "url": "https://open.spotify.com/track/0YbFEoJi7Esa7lhIrEpBjl"

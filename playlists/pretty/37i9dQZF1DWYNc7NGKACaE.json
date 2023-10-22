@@ -1,12 +1,12 @@
 {
   "description": "essa \u00e9 s\u00f3 pra quem vive no 2.0x\n",
-  "num_followers": 69946,
+  "num_followers": 70047,
   "original_name": "speed BR",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5ZjgzNjEzNDRjYzM0YzlhMTljYjI0ZDE0MzRjMjBkZGU3OWFjMTg3",
+  "snapshot_id": "MCw3MGFlNWJiMDNhOGRjNmJiNmNmZjVkYWVkZmU1N2E3ZDNlN2QyNDI1",
   "tracks": [
     {
       "added_at": "2023-09-26 16:36:45",
@@ -351,6 +351,22 @@
     {
       "added_at": "2023-09-26 16:36:45",
       "album": {
+        "name": "SIMPLESMENTE ELA, N\u00c3O CONSIGO VIVER LONGE",
+        "url": "https://open.spotify.com/album/3usDkrN06OZGhSRPB3bwnG"
+      },
+      "artists": [
+        {
+          "name": "Funk S\u00c9RIE GOLD",
+          "url": "https://open.spotify.com/artist/1IaKgxqkPHO3AZxeKi1n5n"
+        }
+      ],
+      "duration_ms": 153795,
+      "name": "SIMPLESMENTE ELA, N\u00c3O CONSIGO VIVER LONGE",
+      "url": "https://open.spotify.com/track/4vZ0z3T7VLK0cAmytlaL7j"
+    },
+    {
+      "added_at": "2023-09-26 16:36:45",
+      "album": {
         "name": "Put0 & Cheiroso (Speed Plug)",
         "url": "https://open.spotify.com/album/2ybG6TaxLTpdxlD3iKSE1D"
       },
@@ -379,22 +395,6 @@
       "duration_ms": 159937,
       "name": "Put0 & Cheiroso (Speed Plug)",
       "url": "https://open.spotify.com/track/4A8qiMlkmXJDo9D8G3coYr"
-    },
-    {
-      "added_at": "2023-09-26 16:36:45",
-      "album": {
-        "name": "SIMPLESMENTE ELA, N\u00c3O CONSIGO VIVER LONGE",
-        "url": "https://open.spotify.com/album/3usDkrN06OZGhSRPB3bwnG"
-      },
-      "artists": [
-        {
-          "name": "Funk S\u00c9RIE GOLD",
-          "url": "https://open.spotify.com/artist/1IaKgxqkPHO3AZxeKi1n5n"
-        }
-      ],
-      "duration_ms": 153795,
-      "name": "SIMPLESMENTE ELA, N\u00c3O CONSIGO VIVER LONGE",
-      "url": "https://open.spotify.com/track/4vZ0z3T7VLK0cAmytlaL7j"
     },
     {
       "added_at": "2023-09-26 16:36:45",

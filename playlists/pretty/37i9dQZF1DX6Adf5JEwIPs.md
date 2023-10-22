@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Adf5JEwIPs.md) - [plain]
 
 > Lo más nuevo de la Música Mexicana\. Cover: Michelle Maciel & El Frizian
 
-[Spotify](https://open.spotify.com/user/spotify) - 630,200 likes - 50 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 630,379 likes - 50 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Adf5JEwIPs.md) - [plain]
 | 6 | [Polvo Soy](https://open.spotify.com/track/32j8TGCQDBzKEmYmvCCNG2) | [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv), [Los Dareyes De La Sierra](https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0) | [Polvo Soy](https://open.spotify.com/album/7D0Kkh6JDZkP2fF3JWJ7rI) | 2:53 |
 | 7 | [Noruega](https://open.spotify.com/track/2tmFNOYiBXllSBmfdm6OF5) | [Virlan Garcia](https://open.spotify.com/artist/0vjeBgTzYTwmYoVySJzXGD), [Grupo Los de la O](https://open.spotify.com/artist/1glBi4zyzqaSQoy8ReU0rz) | [Noruega](https://open.spotify.com/album/728gIavs2Kutq5E8FuiPCC) | 2:35 |
 | 8 | [Nunca Lo Verán](https://open.spotify.com/track/3Uh5K9rApfAWRJI1RZoQlu) | [Tito Torbellino Jr](https://open.spotify.com/artist/0dXXFVCw0LKzmHFrTLUaQJ) | [Torbellino](https://open.spotify.com/album/17iZYgtqUiYhuZz0FMPacF) | 2:36 |
-| 9 | [En Cambio No](https://open.spotify.com/track/6pQAlLDQpmq7vcdbFW7ESj) | [Los Dos Carnales](https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3) | [En Cambio No](https://open.spotify.com/album/2hNjG4PRS550kZO1sjj02l) | 4:04 |
+| 9 | [En Cambio No](https://open.spotify.com/track/6pQAlLDQpmq7vcdbFW7ESj) | [Los Dos Carnales](https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3), [LP Norteño](https://open.spotify.com/artist/7k3P0gw7SZwWZ718CsDpy5) | [En Cambio No](https://open.spotify.com/album/2hNjG4PRS550kZO1sjj02l) | 4:04 |
 | 10 | [Nuestro Amor](https://open.spotify.com/track/4lYaJTrvWTWQQYFYNLnZ2A) | [Calibre 50](https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P) | [Nuestro Amor](https://open.spotify.com/album/5AQegA6YR71m4uILP9njWn) | 3:00 |
 | 11 | [She is wow](https://open.spotify.com/track/6757J4yuJkeZplKJhHcs8N) | [Los Tigres Del Norte](https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy) | [She is wow](https://open.spotify.com/album/2LReSlehquP6maXXFBpqwL) | 3:06 |
 | 12 | [CRAZYZ](https://open.spotify.com/track/4zfQER4owi8q6NL8Gg63Ya) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt) | [Pa las Baby's Y Belikeada](https://open.spotify.com/album/3zu0hJJew2qXZNlselIQk8) | 3:24 |
@@ -52,11 +52,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Adf5JEwIPs.md) - [plain]
 | 42 | [Me Duele](https://open.spotify.com/track/4rY3kaY6MNaSrGRl6EJqpG) | [Misael Gutiérrez](https://open.spotify.com/artist/4TAlMkVgr4FK7INJXQLzfS), [ARRIOLA](https://open.spotify.com/artist/40C6ypaqw5koNMf06hVked), [SAIBU](https://open.spotify.com/artist/5mSb56qJRcHVRRDveOmcfO) | [Me Duele](https://open.spotify.com/album/58k7QfgebaK8F4T904P0hA) | 3:07 |
 | 43 | [La Titana](https://open.spotify.com/track/6HuaZbcUxjO199oFYdQwL4) | [Lucas Bun](https://open.spotify.com/artist/7oXdAnN1t1cLruHJWuR7Cx) | [La Titana](https://open.spotify.com/album/5E0bgiQJPkLJ0ZGGiW1Ojr) | 2:42 |
 | 44 | [Nunca Tristes \(Me Vale Madre\)](https://open.spotify.com/track/59yjWVG0TwnaNVyAmZqiYa) | [Los mismos De La M](https://open.spotify.com/artist/2OtwuHrORYlzWWIKGxfLR8) | [Nunca Tristes \(Me Vale Madre\)](https://open.spotify.com/album/3rzPg4ipPvN3QObe6FyEj8) | 2:21 |
-| 45 | [Cúbreme](https://open.spotify.com/track/6YCsNv4f9cHSuWRKWZ2Car) | [Gabriella](https://open.spotify.com/artist/1n6ZR4WIvyvuioc07O5UiM) | [Siempre](https://open.spotify.com/album/5dNYwOCnXWUW3G241sdEwt) | 3:21 |
+| 45 | [Cúbreme](https://open.spotify.com/track/6YCsNv4f9cHSuWRKWZ2Car) | [Gabriella](https://open.spotify.com/artist/1n6ZR4WIvyvuioc07O5UiM) | [Siempre Gabriella](https://open.spotify.com/album/5dNYwOCnXWUW3G241sdEwt) | 3:21 |
 | 46 | [Corazón Frío](https://open.spotify.com/track/0KSwFEkVh0KCBR0TwqBVen) | [Jasiel Nuñez](https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy), [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK) | [Corazón Frío](https://open.spotify.com/album/7aC9iMxYc7mHTN3mJWZFc1) | 4:23 |
 | 47 | [BUEN PROVECHO](https://open.spotify.com/track/51xrXvVm8jZjVWtChbDB1Q) | [La Adictiva](https://open.spotify.com/artist/49EE6lVLgU8sp7dFgPshgM), [Gerardo Coronel](https://open.spotify.com/artist/6JoYL9QYbdgPb6EuE5J2pC) | [BUEN PROVECHO](https://open.spotify.com/album/2tESdgGf46wSHu5526o7rK) | 2:41 |
 | 48 | [Como Pancho Villa](https://open.spotify.com/track/2jZlmAzzsdaVZQk9GmJOmb) | [Chino Pacas](https://open.spotify.com/artist/2rmkQLzj0k4nZdQehOUByO) | [Como Pancho Villa](https://open.spotify.com/album/7tTzvgXlpz8SjQMe89ZEob) | 2:23 |
 | 49 | [Rosas](https://open.spotify.com/track/3uFzo9GFVS3Yw4KIVdsYHN) | [Grupo Arriesgado](https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh) | [Rosas](https://open.spotify.com/album/6sDgZzqJBy8r5TWPPVjL1E) | 4:33 |
 | 50 | [QUE NOTICIÓN](https://open.spotify.com/track/4ChA6km0qGQJ0ULF7bS13f) | [Luis Alfonso Partida El Yaki](https://open.spotify.com/artist/5l6N2hoIaP7snXdjnCULvk) | [QUE NOTICIÓN](https://open.spotify.com/album/6wiPzklqA9XPFnyotZuIYp) | 2:34 |
 
-Snapshot ID: `MCw1ZGI0NDNmMjIwMmU2YjdiM2MyNjU4Mzg5MDEwNmViNTA5NDIxMjAy`
+Snapshot ID: `MCw1YTZiMjNhMzE1N2YxZDVjMGU3MDdiNGU2ZmJkOTYwYjE0ZTc5Mzdk`

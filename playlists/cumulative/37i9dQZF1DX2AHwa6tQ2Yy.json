@@ -20,7 +20,7 @@
       ],
       "date_added": "2022-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-22",
       "duration_ms": 252616,
       "name": "'Round Midnight",
       "url": "https://open.spotify.com/track/6rlqNxNTuK3elWsYjc4psh"
@@ -746,6 +746,28 @@
       "duration_ms": 190049,
       "name": "Do Ya Feel It?",
       "url": "https://open.spotify.com/track/6cyHaLHMOtj8mOqHTYwe1U"
+    },
+    {
+      "album": {
+        "name": "Dollar $hort",
+        "url": "https://open.spotify.com/album/5AlNt9tbo2tP4KcHP1xIcG"
+      },
+      "artists": [
+        {
+          "name": "DRAMA",
+          "url": "https://open.spotify.com/artist/7LvvNoUPwTZpgXDWBRrfHg"
+        },
+        {
+          "name": "Flight Facilities",
+          "url": "https://open.spotify.com/artist/1lc8mnyGrCLtPhCoWjRxjM"
+        }
+      ],
+      "date_added": "2023-10-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195415,
+      "name": "Dollar $hort",
+      "url": "https://open.spotify.com/track/6UYLv08EVHZsmMP4SrgZVw"
     },
     {
       "album": {

@@ -1,12 +1,12 @@
 {
   "description": "Novidades e hits do pop nacional pra te deixar mais leve! Foto: Silva",
-  "num_followers": 433166,
+  "num_followers": 433209,
   "original_name": "Pop Leve",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0ZGFkM2M4YmRjOTcxOTZkODA3MzYzMzY5ZDM0Y2JiYTgzZjljNjZk",
+  "snapshot_id": "MCwzNGE3NGIzMzA0ZWFmNDExZGZmOTliMzBlMzNjN2VkMmRlZjg5NmY3",
   "tracks": [
     {
       "added_at": "2023-10-20 03:00:00",
@@ -419,26 +419,6 @@
     {
       "added_at": "2023-10-20 03:00:00",
       "album": {
-        "name": "Durar (Uma vida com voc\u00ea) [with TIAGO IORC]",
-        "url": "https://open.spotify.com/album/430iYZPfCsaNzNMxihU9cT"
-      },
-      "artists": [
-        {
-          "name": "Laura Pausini",
-          "url": "https://open.spotify.com/artist/2e4nwiX8ZCU09LGLOpeqTH"
-        },
-        {
-          "name": "TIAGO IORC",
-          "url": "https://open.spotify.com/artist/4iWkwAVzssjb8XgxdoOL6M"
-        }
-      ],
-      "duration_ms": 199618,
-      "name": "Durar (Uma vida com voc\u00ea) [with TIAGO IORC]",
-      "url": "https://open.spotify.com/track/3Ywf2aS3WBZOmND8yrE0ZF"
-    },
-    {
-      "added_at": "2023-10-20 03:00:00",
-      "album": {
         "name": "Codinome Beija-Flor",
         "url": "https://open.spotify.com/album/2aoPktEuK22sa3LfIzXVBv"
       },
@@ -455,6 +435,26 @@
       "duration_ms": 149000,
       "name": "Codinome Beija-Flor",
       "url": "https://open.spotify.com/track/1xvxg4ozT4BraLO662IEwA"
+    },
+    {
+      "added_at": "2023-10-20 03:00:00",
+      "album": {
+        "name": "Durar (Uma vida com voc\u00ea) [with TIAGO IORC]",
+        "url": "https://open.spotify.com/album/430iYZPfCsaNzNMxihU9cT"
+      },
+      "artists": [
+        {
+          "name": "Laura Pausini",
+          "url": "https://open.spotify.com/artist/2e4nwiX8ZCU09LGLOpeqTH"
+        },
+        {
+          "name": "TIAGO IORC",
+          "url": "https://open.spotify.com/artist/4iWkwAVzssjb8XgxdoOL6M"
+        }
+      ],
+      "duration_ms": 199618,
+      "name": "Durar (Uma vida com voc\u00ea) [with TIAGO IORC]",
+      "url": "https://open.spotify.com/track/3Ywf2aS3WBZOmND8yrE0ZF"
     },
     {
       "added_at": "2023-10-20 03:00:00",
@@ -567,22 +567,6 @@
     {
       "added_at": "2023-10-20 03:00:00",
       "album": {
-        "name": "A Bolha Ao Vivo em S\u00e3o Paulo, Pt. 1",
-        "url": "https://open.spotify.com/album/3wSkX7zkudaB1kR3b1xs9f"
-      },
-      "artists": [
-        {
-          "name": "Vitor Kley",
-          "url": "https://open.spotify.com/artist/4FGcERJWMg8ENOLixwF71U"
-        }
-      ],
-      "duration_ms": 204246,
-      "name": "O Dia De Amanh\u00e3 - Ao Vivo",
-      "url": "https://open.spotify.com/track/0JBGw4tc3YPt2zsTUoW8yX"
-    },
-    {
-      "added_at": "2023-10-20 03:00:00",
-      "album": {
         "name": "De Volta Ao Novo - Volume 1",
         "url": "https://open.spotify.com/album/1aVg4WwzPENRZ46K9cgYcC"
       },
@@ -595,6 +579,22 @@
       "duration_ms": 186280,
       "name": "N-U-M-A-B-O-A",
       "url": "https://open.spotify.com/track/2x9dBaNLNfny3dZ0lFcwwd"
+    },
+    {
+      "added_at": "2023-10-20 03:00:00",
+      "album": {
+        "name": "A Bolha Ao Vivo em S\u00e3o Paulo, Pt. 1",
+        "url": "https://open.spotify.com/album/3wSkX7zkudaB1kR3b1xs9f"
+      },
+      "artists": [
+        {
+          "name": "Vitor Kley",
+          "url": "https://open.spotify.com/artist/4FGcERJWMg8ENOLixwF71U"
+        }
+      ],
+      "duration_ms": 204246,
+      "name": "O Dia De Amanh\u00e3 - Ao Vivo",
+      "url": "https://open.spotify.com/track/0JBGw4tc3YPt2zsTUoW8yX"
     },
     {
       "added_at": "2023-10-20 03:00:00",
@@ -651,6 +651,22 @@
     {
       "added_at": "2023-10-20 03:00:00",
       "album": {
+        "name": "M\u00faltipla",
+        "url": "https://open.spotify.com/album/0dZLS5MG9AhHOeOqjmhUl2"
+      },
+      "artists": [
+        {
+          "name": "Bia Marques",
+          "url": "https://open.spotify.com/artist/0fUdNywWe3Nfb8eClIue8R"
+        }
+      ],
+      "duration_ms": 161540,
+      "name": "Nem Eu Me Entendo",
+      "url": "https://open.spotify.com/track/6FU5kC8lWZiIOgApwwH33S"
+    },
+    {
+      "added_at": "2023-10-20 03:00:00",
+      "album": {
         "name": "N\u00f3 de Marinheiro",
         "url": "https://open.spotify.com/album/54DlwnuTFRJrla9vBfrleb"
       },
@@ -667,22 +683,6 @@
       "duration_ms": 183503,
       "name": "N\u00f3 de Marinheiro",
       "url": "https://open.spotify.com/track/5NpflpKeOfJcHaaczrJgGj"
-    },
-    {
-      "added_at": "2023-10-20 03:00:00",
-      "album": {
-        "name": "M\u00faltipla",
-        "url": "https://open.spotify.com/album/0dZLS5MG9AhHOeOqjmhUl2"
-      },
-      "artists": [
-        {
-          "name": "Bia Marques",
-          "url": "https://open.spotify.com/artist/0fUdNywWe3Nfb8eClIue8R"
-        }
-      ],
-      "duration_ms": 161540,
-      "name": "Nem Eu Me Entendo",
-      "url": "https://open.spotify.com/track/6FU5kC8lWZiIOgApwwH33S"
     },
     {
       "added_at": "2023-10-20 03:00:00",
@@ -735,22 +735,6 @@
     {
       "added_at": "2023-10-20 03:00:00",
       "album": {
-        "name": "n\u00f3sdois",
-        "url": "https://open.spotify.com/album/07N7v9V7dpt4fm0Pl0OcPe"
-      },
-      "artists": [
-        {
-          "name": "N\u00f3s Dois",
-          "url": "https://open.spotify.com/artist/43KMDeX4Bs6jlla2AS8Q0g"
-        }
-      ],
-      "duration_ms": 163815,
-      "name": "Juntin",
-      "url": "https://open.spotify.com/track/4T2QY2HaVaK8AGhN2pGblJ"
-    },
-    {
-      "added_at": "2023-10-20 03:00:00",
-      "album": {
         "name": "tudo, eu, enfim.",
         "url": "https://open.spotify.com/album/61c5R2RNKApj9EuAVFQIQq"
       },
@@ -767,18 +751,18 @@
     {
       "added_at": "2023-10-20 03:00:00",
       "album": {
-        "name": "Em Voc\u00ea",
-        "url": "https://open.spotify.com/album/3ReDz50ziIEzT11g81ROPz"
+        "name": "n\u00f3sdois",
+        "url": "https://open.spotify.com/album/07N7v9V7dpt4fm0Pl0OcPe"
       },
       "artists": [
         {
-          "name": "Pedro Pond\u00e9",
-          "url": "https://open.spotify.com/artist/6vIvJUBbfQsBZ9NiWxWoSl"
+          "name": "N\u00f3s Dois",
+          "url": "https://open.spotify.com/artist/43KMDeX4Bs6jlla2AS8Q0g"
         }
       ],
-      "duration_ms": 142750,
-      "name": "Em Voc\u00ea",
-      "url": "https://open.spotify.com/track/5BrgjbuLt8jjE52IgzA7iR"
+      "duration_ms": 163815,
+      "name": "Juntin",
+      "url": "https://open.spotify.com/track/4T2QY2HaVaK8AGhN2pGblJ"
     },
     {
       "added_at": "2023-10-20 03:00:00",
@@ -795,6 +779,22 @@
       "duration_ms": 197802,
       "name": "Coisas De Voc\u00ea",
       "url": "https://open.spotify.com/track/2zgYAkkDhKAm5ERlJXSTR9"
+    },
+    {
+      "added_at": "2023-10-20 03:00:00",
+      "album": {
+        "name": "Em Voc\u00ea",
+        "url": "https://open.spotify.com/album/3ReDz50ziIEzT11g81ROPz"
+      },
+      "artists": [
+        {
+          "name": "Pedro Pond\u00e9",
+          "url": "https://open.spotify.com/artist/6vIvJUBbfQsBZ9NiWxWoSl"
+        }
+      ],
+      "duration_ms": 142750,
+      "name": "Em Voc\u00ea",
+      "url": "https://open.spotify.com/track/5BrgjbuLt8jjE52IgzA7iR"
     },
     {
       "added_at": "2023-10-20 03:00:00",
@@ -947,6 +947,22 @@
     {
       "added_at": "2023-10-20 03:00:00",
       "album": {
+        "name": "Coisas De Voc\u00ea",
+        "url": "https://open.spotify.com/album/2p5dEvoXbC6XmakeJg1Vur"
+      },
+      "artists": [
+        {
+          "name": "AMARINA",
+          "url": "https://open.spotify.com/artist/51NkA7l8OQvbk3p40xzdYG"
+        }
+      ],
+      "duration_ms": 153428,
+      "name": "Virginiana",
+      "url": "https://open.spotify.com/track/6tR1f269nLcaN5bSVimgT8"
+    },
+    {
+      "added_at": "2023-10-20 03:00:00",
+      "album": {
         "name": "T\u00f4 te olhando",
         "url": "https://open.spotify.com/album/1dA5DEFhICKQiv9rwFRV7Z"
       },
@@ -963,22 +979,6 @@
       "duration_ms": 150306,
       "name": "T\u00f4 te olhando",
       "url": "https://open.spotify.com/track/7FvZAnyZVwuCU0j5ta9TNj"
-    },
-    {
-      "added_at": "2023-10-20 03:00:00",
-      "album": {
-        "name": "Coisas De Voc\u00ea",
-        "url": "https://open.spotify.com/album/2p5dEvoXbC6XmakeJg1Vur"
-      },
-      "artists": [
-        {
-          "name": "AMARINA",
-          "url": "https://open.spotify.com/artist/51NkA7l8OQvbk3p40xzdYG"
-        }
-      ],
-      "duration_ms": 153428,
-      "name": "Virginiana",
-      "url": "https://open.spotify.com/track/6tR1f269nLcaN5bSVimgT8"
     },
     {
       "added_at": "2023-10-20 03:00:00",
@@ -1483,22 +1483,6 @@
     {
       "added_at": "2023-10-20 03:00:00",
       "album": {
-        "name": "Amanheceu Assim",
-        "url": "https://open.spotify.com/album/3PULKRZQ4tZ5cFLBy4webU"
-      },
-      "artists": [
-        {
-          "name": "St\u00e9fano Ferraz",
-          "url": "https://open.spotify.com/artist/566ggMCCnCX4jnrZNaLWZa"
-        }
-      ],
-      "duration_ms": 204935,
-      "name": "Amanheceu Assim",
-      "url": "https://open.spotify.com/track/6ZN54IpPKw9YtBw6vuMAKw"
-    },
-    {
-      "added_at": "2023-10-20 03:00:00",
-      "album": {
         "name": "Samba Azul",
         "url": "https://open.spotify.com/album/4yGKNoM67bEOR8rE9T1Tgo"
       },
@@ -1511,6 +1495,22 @@
       "duration_ms": 182004,
       "name": "Samba Azul",
       "url": "https://open.spotify.com/track/3fABA4ex5mUpAbiFG09zKl"
+    },
+    {
+      "added_at": "2023-10-20 03:00:00",
+      "album": {
+        "name": "Amanheceu Assim",
+        "url": "https://open.spotify.com/album/3PULKRZQ4tZ5cFLBy4webU"
+      },
+      "artists": [
+        {
+          "name": "St\u00e9fano Ferraz",
+          "url": "https://open.spotify.com/artist/566ggMCCnCX4jnrZNaLWZa"
+        }
+      ],
+      "duration_ms": 204935,
+      "name": "Amanheceu Assim",
+      "url": "https://open.spotify.com/track/6ZN54IpPKw9YtBw6vuMAKw"
     },
     {
       "added_at": "2023-10-20 03:00:00",

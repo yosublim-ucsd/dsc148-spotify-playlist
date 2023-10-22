@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV8SP2WsR9MK.md) - [plain]
 
 > The classic Jazz guitarists and their finest pieces\. Cover: Grant Green
 
-[Spotify](https://open.spotify.com/user/spotify) - 76,260 likes - 100 songs - 9 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 76,340 likes - 100 songs - 9 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -77,9 +77,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV8SP2WsR9MK.md) - [plain]
 | 67 | [I'll Be Seeing You](https://open.spotify.com/track/1kirrr7NRQrqAa9sxdaXiQ) | [Jonathan Kreisberg](https://open.spotify.com/artist/7MWuLeRKJ1WCx4GQRzT3Hy), [Gary Versace](https://open.spotify.com/artist/3bklSQEy3caQzQT5GQ5Nhp), [Matt Penman](https://open.spotify.com/artist/7HSQeZZSI9YNyVe2emSM9k), [Mark Ferber](https://open.spotify.com/artist/2BrGFbXBIGLSy4lRO8Pf6w) | [Night Songs](https://open.spotify.com/album/1sVOdEgJidStrGyDLrwqcx) | 7:23 |
 | 68 | [Polka Dots and Moonbeams](https://open.spotify.com/track/5VRDZxFLIIjGTH2Q33Aq14) | [Lenny Breau](https://open.spotify.com/artist/5ZNvJC7YIhztLqxS58c1or), [Chet Atkins](https://open.spotify.com/artist/4dZrt8Ong5t7YYpvbfp0RU) | [Standard Brands](https://open.spotify.com/album/2XskO7sdfBIG31loR0X55e) | 5:48 |
 | 69 | [Moonlight In Vermont](https://open.spotify.com/track/73CYjb6oGhV4CqohyR2OVV) | [Jimmy Bruno](https://open.spotify.com/artist/1oTIG44ppYw0nUBqFvZ5Q5) | [Burnin'](https://open.spotify.com/album/0mF2ClZgcgBlyibysq4B5K) | 8:12 |
-| 70 | [Freedom Dance](https://open.spotify.com/track/3wSD488adiUFtKzxHb8fmi) | [Lionel Loueke](https://open.spotify.com/artist/6q6EXv5ybArXqifMdmTIig) | [Heritage](https://open.spotify.com/album/09y9mx5jM6g9pqqrFnUoXy) | 4:40 |
+| 70 | [Shape Of Things That Are And Were](https://open.spotify.com/track/62AZ6ukR1dxo5F2sbfFQ1L) | [George Benson](https://open.spotify.com/artist/4N8BwYTEC6XqykGvXXlmfv) | [The Shape Of Things To Come](https://open.spotify.com/album/5104eCHmSmfLDol9ZDQn0B) | 5:47 |
 | 71 | [You Are Too Beautiful](https://open.spotify.com/track/7dOfAphsqSBeYQWtBPa8xO) | [Don Thompson](https://open.spotify.com/artist/1l2y80b850BRWQ3Y6YhLaX), [Ed Bickert](https://open.spotify.com/artist/28OasCag6MpcSYdG8blWHA) | [At the Garden Party](https://open.spotify.com/album/2GHEmpg1poRNNgLSh8Q81q) | 6:34 |
-| 72 | [Shape Of Things That Are And Were](https://open.spotify.com/track/62AZ6ukR1dxo5F2sbfFQ1L) | [George Benson](https://open.spotify.com/artist/4N8BwYTEC6XqykGvXXlmfv) | [The Shape Of Things To Come](https://open.spotify.com/album/5104eCHmSmfLDol9ZDQn0B) | 5:47 |
+| 72 | [Freedom Dance](https://open.spotify.com/track/3wSD488adiUFtKzxHb8fmi) | [Lionel Loueke](https://open.spotify.com/artist/6q6EXv5ybArXqifMdmTIig) | [Heritage](https://open.spotify.com/album/09y9mx5jM6g9pqqrFnUoXy) | 4:40 |
 | 73 | [For Toddlers Only](https://open.spotify.com/track/19GBMJXq6kXHemriVnEtnC) | [Russell Malone](https://open.spotify.com/artist/4U5eHAv5qBumRcWEl84ZCb) | [Jazz Guitar](https://open.spotify.com/album/6mFt5Ao230rf7Dedo8C6mK) | 5:18 |
 | 74 | [I Never Knew](https://open.spotify.com/track/6Xugk0xzYvSkmH77VL1GwL) | [Kenny Burrell](https://open.spotify.com/artist/1sdyFmN4bVOcuFDpTVsxBB), [John Coltrane](https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf) | [Kenny Burrell & John Coltrane](https://open.spotify.com/album/4BZcEZub79xqoEJwtVNQoY) | 7:02 |
 | 75 | [Have You Met Miss Jones?](https://open.spotify.com/track/10iq9kylUDnPeLJikEdCvl) | [Tal Farlow](https://open.spotify.com/artist/0dIXV3ffgWlMcnywNIy0Wf) | [The Artistry Of Tal Farlow](https://open.spotify.com/album/3DhbpcnuskeHWkCzWAM9cO) | 4:56 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV8SP2WsR9MK.md) - [plain]
 | 99 | [Never Will I Marry](https://open.spotify.com/track/4TrYsGEGHFqysMRmkgW548) | [Sam Yahel Trio](https://open.spotify.com/artist/3ISh6Jz1xLIprziBMg5Iuu), [Peter Bernstein](https://open.spotify.com/artist/5vCIoZWrnWUkjCKmtaADQc), [Brian Blade](https://open.spotify.com/artist/0nXwIc4NAbu2K881ealRDu) | [Trio](https://open.spotify.com/album/34rwazvp4s6hULceKvV5MV) | 5:54 |
 | 100 | [Tenderly](https://open.spotify.com/track/7kxl3YY1zqfybhYMylZGRz) | [Barney Kessel](https://open.spotify.com/artist/6pVkGhtBvjj1P52yn0tNLG) | [Easy Like](https://open.spotify.com/album/4FEQUVniR5kClrtPy9uVJD) | 3:15 |
 
-Snapshot ID: `MCxhMDg4ZjU4ZjFkMmRmY2M5MTQ5MjRiNTZjYzc4ZWVlNmJiZjhkOWQ4`
+Snapshot ID: `MCw1MjZiZTc3ZDcwMGNkMDU5MWZjM2M1OThkYThjZDQzMDQwYzM2ZmMx`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4WAExTTn6PI.md) - [plain]
 
 > Americana's artists and hits of tomorrow\. Cover: Margo Cilker
 
-[Spotify](https://open.spotify.com/user/spotify) - 32,329 likes - 100 songs - 6 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 32,382 likes - 100 songs - 6 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4WAExTTn6PI.md) - [plain]
 | 99 | [Stolen Love](https://open.spotify.com/track/6PHlD7DXAfcCW2Rvp0K3OW) | [Josiah and the Bonnevilles](https://open.spotify.com/artist/3FMcVBx2TMq2f5gEPcUieC) | [Stolen Love](https://open.spotify.com/album/4SUHzoDXhSbdakZP4Fr635) | 3:43 |
 | 100 | [Lungs](https://open.spotify.com/track/59yvm9n65pPkykLU3e0Kf0) | [S.G\. Goodman](https://open.spotify.com/artist/7hzn6FoCsEaUNPnPn7TJWd) | [Lungs](https://open.spotify.com/album/2gXXc2kHhKHtDpaXNi0M6g) | 2:57 |
 
-Snapshot ID: `MCxmOTlmYjkyNDQwNjc0MzgzMGU3OTI5YWViMTRmYmU5YmYyMDIwMGNi`
+Snapshot ID: `MCw1OGYzYzExYWQxODc2ZmJmZGE4MzY3OTViZGM5ZDhiNDRkNmZjNWRi`

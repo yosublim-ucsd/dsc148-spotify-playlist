@@ -4,7 +4,7 @@
 
 > Calling all sneaky links! 👀
 
-49 songs - 2 hr 41 min
+50 songs - 2 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -46,7 +46,8 @@
 | [Selfish](https://open.spotify.com/track/2xbI8Vmyv3TkpTdywpPyNw) | [PnB Rock](https://open.spotify.com/artist/21WS9wngs9AqFckK7yYJPM) | [GTTM: Goin Thru the Motions](https://open.spotify.com/album/7eFfp9r4A30ueN9A5EJbk2) | 4:05 | 2023-06-16 |  |
 | [Spin Bout U](https://open.spotify.com/track/2ZL7WZcjuYKi1KUDtp4kCC) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [Her Loss](https://open.spotify.com/album/5MS3MvWHJ3lOZPLiMxzOU6) | 3:34 | 2023-06-16 |  |
 | [This Could Be Us](https://open.spotify.com/track/4jTiyLlOJVJj3mCr7yfPQD) | [Rae Sremmurd](https://open.spotify.com/artist/7iZtZyCzp3LItcw1wtPI3D) | [SremmLife](https://open.spotify.com/album/6eDx949ONWDCN0O22wFZf7) | 3:26 | 2023-06-16 |  |
-| [Took My Breath Away \(feat\. Skye Morales\)](https://open.spotify.com/track/4rm5u0dOb7eVBpsB4hsP6g) | [Trippie Redd](https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax), [Skye Morales](https://open.spotify.com/artist/7aqNn14e0HTC6IU6yuGx4p) | [Took My Breath Away \(feat\. Skye Morales\)](https://open.spotify.com/album/0OvsEm90C9FfkKSNnDwhGw) | 3:00 | 2023-06-16 |  |
+| [Took My Breath Away](https://open.spotify.com/track/60ZBVsi7jhY5aIZDpa2XJi) | [Trippie Redd](https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax), [Skye Morales](https://open.spotify.com/artist/7aqNn14e0HTC6IU6yuGx4p) | [A Love Letter To You 5](https://open.spotify.com/album/0ITPUZfqnXi720BiYRJWPq) | 3:00 | 2023-06-16 |  |
+| [Took My Breath Away \(feat\. Skye Morales\)](https://open.spotify.com/track/4rm5u0dOb7eVBpsB4hsP6g) | [Trippie Redd](https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax), [Skye Morales](https://open.spotify.com/artist/7aqNn14e0HTC6IU6yuGx4p) | [Took My Breath Away \(feat\. Skye Morales\)](https://open.spotify.com/album/0OvsEm90C9FfkKSNnDwhGw) | 3:00 | 2023-06-16 | 2023-10-22 |
 | [Toxic](https://open.spotify.com/track/2JZYXjz0H86eOrXcTr0MIm) | [YG](https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY) | [I GOT ISSUES](https://open.spotify.com/album/4fu0jN1IzoaXgzCfqdjOjJ) | 3:33 | 2023-06-16 |  |
 | [WAIT FOR U \(feat\. Drake & Tems\)](https://open.spotify.com/track/59nOXPmaKlBfGMDeOVGrIK) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [I NEVER LIKED YOU](https://open.spotify.com/album/6tE9Dnp2zInFij4jKssysL) | 3:09 | 2023-06-16 |  |
 | [West Coast Weekend](https://open.spotify.com/track/3qnznOzVFYuDWjidDAxEV4) | [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp), [YG](https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY), [Blxst](https://open.spotify.com/artist/4qXC0i02bSFstECuXP2ZpL) | [West Coast Weekend](https://open.spotify.com/album/0JGkeI57qkg0jZbqPzzc25) | 3:19 | 2023-06-16 |  |

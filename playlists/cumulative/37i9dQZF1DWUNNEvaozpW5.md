@@ -4,7 +4,7 @@
 
 > Lo mejor del rock de aquí, como Arco.
 
-335 songs - 21 hr 46 min
+336 songs - 21 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -128,6 +128,7 @@
 | [El Limite](https://open.spotify.com/track/0NFcUhw2uKzX0zqH81tWOu) | [La Frontera](https://open.spotify.com/artist/4WeIMVqCUH09dxtBsstIw3) | [La Rosa De Los Vientos](https://open.spotify.com/album/51ohZ4F4nZ40R8eGyK7tZT) | 4:35 | 2022-05-26 |  |
 | [El ritmo del garaje](https://open.spotify.com/track/020aPMXlwYFpPB7cI8Kuc1) | [Loquillo](https://open.spotify.com/artist/5Fv0DQ1ZBuc2DlidtOUCZr) | [Heroes De Los 80](https://open.spotify.com/album/6Lml9AoEtkTD7BW6J57wzd) | 4:53 | 2022-05-19 |  |
 | [El roce de tu cuerpo](https://open.spotify.com/track/3EPd9riN2R8Zjl6GkrxxGl) | [Platero Y Tu](https://open.spotify.com/artist/1fQt5j7DTPuAOjdbTYgWav) | [Muy Deficiente](https://open.spotify.com/album/6nSNoI4zgtfMm1H9NXI4r1) | 4:10 | 2022-05-19 |  |
+| [El sombrerero loco](https://open.spotify.com/track/5W6B8o2GIICi43uDMNIFHT) | [Mägo de Oz](https://open.spotify.com/artist/5ZNxiPcbKgaNcBrERMpqeu) | [El sombrerero loco](https://open.spotify.com/album/64KmxosC8CmHppBI2leRdl) | 4:30 | 2023-10-19 |  |
 | [El Tranvia Verde](https://open.spotify.com/track/3Vicw4XozrQPiwQqBDbrTR) | [Angel Petisme](https://open.spotify.com/artist/6jDdexjSLFcddpgDdobILe) | [El Tranvía Verde](https://open.spotify.com/album/1xvduOhDmT5JwFBRMYQLoL) | 5:05 | 2022-09-22 | 2022-10-07 |
 | [El Ático](https://open.spotify.com/track/01L1D88jqcMuAOvLRyYVbj) | [Ska\-P](https://open.spotify.com/artist/2fiiGUBgPsIKDCE0bTthnl) | [El Ático](https://open.spotify.com/album/6u178zpBY3ZU10qIjYjzbm) | 4:02 | 2023-06-15 | 2023-07-14 |
 | [Ellos Dicen Mierda](https://open.spotify.com/track/6bsiPYRqISKkHN9FpgffKP) | [La Polla Records](https://open.spotify.com/artist/3vHlZN6pTa2zOl2eVxiEdJ) | [Ellos Dicen Mierda](https://open.spotify.com/album/0QjDaIXJLrgirtJMFWIu8R) | 4:39 | 2022-07-21 | 2022-10-25 |
@@ -272,7 +273,7 @@
 | [Red Onions](https://open.spotify.com/track/4PnuLi3DwLUIrPbL5Oqgqm) | [Kike Jambalaya](https://open.spotify.com/artist/5TknYICOG7yd700QbBGVfq) | [Red Onions](https://open.spotify.com/album/0rXexh0GPwNCDFmy3W3J7i) | 3:11 | 2023-04-06 | 2023-04-25 |
 | [Respirar](https://open.spotify.com/track/3suezOyQvBNkgZPbgAtIJu) | [Albertucho](https://open.spotify.com/artist/1kcjyRBcnuC94JVRshXjI6) | [Respirar](https://open.spotify.com/album/2eqkan0najTgJ8MDf3n9y9) | 3:45 | 2023-03-23 | 2023-04-14 |
 | [Revolución turra \- En directo Razzmatazz](https://open.spotify.com/track/000bhyTmlJJJnWzA2xrhAa) | [Andrés Calamaro](https://open.spotify.com/artist/3tAICgiSR5PfYY4B8qsoAU) | [Revolución turra \(En directo Razzmatazz\)](https://open.spotify.com/album/2sUNWdu8cnAq19y2mgO5wO) | 3:16 | 2023-06-01 | 2023-06-09 |
-| [Rey del Glam](https://open.spotify.com/track/7tWHQ6cmZ1Li3g1OdlHWz1) | [Loquillo](https://open.spotify.com/artist/5Fv0DQ1ZBuc2DlidtOUCZr) | [Rock and Roll Actitud \(1978\-2018\)](https://open.spotify.com/album/5UWflqGh9hNMGZQV3Jmn92) | 4:59 | 2022-05-19 |  |
+| [Rey del Glam](https://open.spotify.com/track/7tWHQ6cmZ1Li3g1OdlHWz1) | [Loquillo](https://open.spotify.com/artist/5Fv0DQ1ZBuc2DlidtOUCZr) | [Rock and Roll Actitud \(1978\-2018\)](https://open.spotify.com/album/5UWflqGh9hNMGZQV3Jmn92) | 4:59 | 2022-05-19 | 2023-10-22 |
 | [Rock And Roll en la Plaza del Pueblo](https://open.spotify.com/track/5fCYRuYxc1ox7yWKcKD6tf) | [Tequila](https://open.spotify.com/artist/6stZWw6L5Sjy5m7OdUR3rO) | [Matricula De Honor/New Booklet](https://open.spotify.com/album/4ajHTO6YQLBIgfsF9MpKBv) | 3:00 | 2023-08-31 |  |
 | [Rock and Roll Star \- 2017 Remaster](https://open.spotify.com/track/6UJZUMcCgKHi4uGozQc8EE) | [Loquillo](https://open.spotify.com/artist/5Fv0DQ1ZBuc2DlidtOUCZr) | [Rock and Roll Actitud \(1978\-2018\)](https://open.spotify.com/album/5UWflqGh9hNMGZQV3Jmn92) | 4:09 | 2023-08-21 |  |
 | [Rock and Roll Star \- Remaster 2017](https://open.spotify.com/track/3EV5Oh2zrKF0FIKWxnE3L0) | [Loquillo](https://open.spotify.com/artist/5Fv0DQ1ZBuc2DlidtOUCZr) | [Los tiempos están cambiando \(Remaster 2017\)](https://open.spotify.com/album/1sLl4Mj1wY4FSVzRhIT99m) | 4:09 | 2022-05-19 | 2022-07-29 |

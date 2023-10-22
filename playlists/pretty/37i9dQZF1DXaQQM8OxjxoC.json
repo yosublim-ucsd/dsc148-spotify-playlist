@@ -1,12 +1,12 @@
 {
   "description": "Discover the music of Brahms.",
-  "num_followers": 95372,
+  "num_followers": 95408,
   "original_name": "This Is Brahms",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjYjZmMDMyY2EwYzcxM2FjMWE2NDdlNzk2NDFjZGUzOGNlODVkNDYz",
+  "snapshot_id": "MCwyMDNjNjA1YzUwY2IzMzljYmU0MjQwMTY3MWE2MjQ2YjkzNWQ4MmNi",
   "tracks": [
     {
       "added_at": "2022-09-30 04:00:00",
@@ -423,6 +423,26 @@
     {
       "added_at": "2022-09-30 04:00:00",
       "album": {
+        "name": "Work From Home Brahms & Liszt",
+        "url": "https://open.spotify.com/album/7jLXjNiQpAppnvDyQzUdmr"
+      },
+      "artists": [
+        {
+          "name": "Johannes Brahms",
+          "url": "https://open.spotify.com/artist/5wTAi7QkpP6kp8a54lmTOq"
+        },
+        {
+          "name": "Arturo Benedetti Michelangeli",
+          "url": "https://open.spotify.com/artist/0eQTutigtSNq6DmsYU9hPS"
+        }
+      ],
+      "duration_ms": 567533,
+      "name": "4 Ballades, Op. 10: No. 4 In B",
+      "url": "https://open.spotify.com/track/2wcqhYITSlQzZ8dqw6n9VQ"
+    },
+    {
+      "added_at": "2022-09-30 04:00:00",
+      "album": {
         "name": "Brahms: Violin Sonatas Nos. 1-3, Opp. 78, 100 and 108",
         "url": "https://open.spotify.com/album/1GdppnWjYz74M3mgcG6Cno"
       },
@@ -443,26 +463,6 @@
       "duration_ms": 314280,
       "name": "Violin Sonata No. 3 in D Minor, Op. 108: Adagio",
       "url": "https://open.spotify.com/track/3YJPZ6X05hk3HP9O35ozgf"
-    },
-    {
-      "added_at": "2022-09-30 04:00:00",
-      "album": {
-        "name": "Work From Home Brahms & Liszt",
-        "url": "https://open.spotify.com/album/7jLXjNiQpAppnvDyQzUdmr"
-      },
-      "artists": [
-        {
-          "name": "Johannes Brahms",
-          "url": "https://open.spotify.com/artist/5wTAi7QkpP6kp8a54lmTOq"
-        },
-        {
-          "name": "Arturo Benedetti Michelangeli",
-          "url": "https://open.spotify.com/artist/0eQTutigtSNq6DmsYU9hPS"
-        }
-      ],
-      "duration_ms": 567533,
-      "name": "4 Ballades, Op. 10: No. 4 In B",
-      "url": "https://open.spotify.com/track/2wcqhYITSlQzZ8dqw6n9VQ"
     },
     {
       "added_at": "2022-09-30 04:00:00",
@@ -803,30 +803,6 @@
     {
       "added_at": "2022-09-30 04:00:00",
       "album": {
-        "name": "Brahms: Violin Sonatas Nos. 1-3, Opp. 78, 100 and 108",
-        "url": "https://open.spotify.com/album/1GdppnWjYz74M3mgcG6Cno"
-      },
-      "artists": [
-        {
-          "name": "Johannes Brahms",
-          "url": "https://open.spotify.com/artist/5wTAi7QkpP6kp8a54lmTOq"
-        },
-        {
-          "name": "Ilya Kaler",
-          "url": "https://open.spotify.com/artist/5b3ITDEG6aHMNbA75778I8"
-        },
-        {
-          "name": "Alexander Peskanov",
-          "url": "https://open.spotify.com/artist/3ign9P0e3deW95GcSEhCBU"
-        }
-      ],
-      "duration_ms": 492840,
-      "name": "Violin Sonata No. 3 in D Minor, Op. 108: Allegro",
-      "url": "https://open.spotify.com/track/6XFWv2NGUsS4YdeUTmMDP0"
-    },
-    {
-      "added_at": "2022-09-30 04:00:00",
-      "album": {
         "name": "Johannes Brahms - Sonaten f\u00fcr Viola und Klavier",
         "url": "https://open.spotify.com/album/3yiMLkiQKbp7yed4opl90W"
       },
@@ -851,8 +827,8 @@
     {
       "added_at": "2022-09-30 04:00:00",
       "album": {
-        "name": "Brahms: Piano Trios Nos. 1 and 2",
-        "url": "https://open.spotify.com/album/0rjSpkVUOnqeKdxN79f0Mw"
+        "name": "Brahms: Violin Sonatas Nos. 1-3, Opp. 78, 100 and 108",
+        "url": "https://open.spotify.com/album/1GdppnWjYz74M3mgcG6Cno"
       },
       "artists": [
         {
@@ -860,37 +836,17 @@
           "url": "https://open.spotify.com/artist/5wTAi7QkpP6kp8a54lmTOq"
         },
         {
-          "name": "Vienna Piano Trio",
-          "url": "https://open.spotify.com/artist/4djoug6i6Z2jtif3jgxZOE"
-        }
-      ],
-      "duration_ms": 398533,
-      "name": "Piano Trio No. 1 in B Major, Op. 8: II. Scherzo - Allegro molto",
-      "url": "https://open.spotify.com/track/2fVZ7fi3S5S5FVMSO09TjZ"
-    },
-    {
-      "added_at": "2022-09-30 04:00:00",
-      "album": {
-        "name": "Brahms: Violin Sonatas Nos. 1 - 3",
-        "url": "https://open.spotify.com/album/3E02OHILMUyEHQxNBDLFT1"
-      },
-      "artists": [
-        {
-          "name": "Johannes Brahms",
-          "url": "https://open.spotify.com/artist/5wTAi7QkpP6kp8a54lmTOq"
+          "name": "Ilya Kaler",
+          "url": "https://open.spotify.com/artist/5b3ITDEG6aHMNbA75778I8"
         },
         {
-          "name": "Renaud Capu\u00e7on",
-          "url": "https://open.spotify.com/artist/6ttz1LgWFVgRiNDOjtDb2L"
-        },
-        {
-          "name": "Nicholas Angelich",
-          "url": "https://open.spotify.com/artist/1yTwwVZPzT44dkQYwitq7E"
+          "name": "Alexander Peskanov",
+          "url": "https://open.spotify.com/artist/3ign9P0e3deW95GcSEhCBU"
         }
       ],
-      "duration_ms": 532200,
-      "name": "Brahms: Violin Sonata No. 2 in A Major, Op. 100: I. Allegro amabile",
-      "url": "https://open.spotify.com/track/4RvTsN0Kwc1UN34strbfZu"
+      "duration_ms": 492840,
+      "name": "Violin Sonata No. 3 in D Minor, Op. 108: Allegro",
+      "url": "https://open.spotify.com/track/6XFWv2NGUsS4YdeUTmMDP0"
     },
     {
       "added_at": "2022-09-30 04:00:00",
@@ -931,6 +887,50 @@
       "duration_ms": 128560,
       "name": "7 Fantasies, Op. 116: No. 1, Capriccio in D Minor",
       "url": "https://open.spotify.com/track/5HVBbaakyTZ6qI0NExpFDN"
+    },
+    {
+      "added_at": "2022-09-30 04:00:00",
+      "album": {
+        "name": "Brahms: Violin Sonatas Nos. 1 - 3",
+        "url": "https://open.spotify.com/album/3E02OHILMUyEHQxNBDLFT1"
+      },
+      "artists": [
+        {
+          "name": "Johannes Brahms",
+          "url": "https://open.spotify.com/artist/5wTAi7QkpP6kp8a54lmTOq"
+        },
+        {
+          "name": "Renaud Capu\u00e7on",
+          "url": "https://open.spotify.com/artist/6ttz1LgWFVgRiNDOjtDb2L"
+        },
+        {
+          "name": "Nicholas Angelich",
+          "url": "https://open.spotify.com/artist/1yTwwVZPzT44dkQYwitq7E"
+        }
+      ],
+      "duration_ms": 532200,
+      "name": "Brahms: Violin Sonata No. 2 in A Major, Op. 100: I. Allegro amabile",
+      "url": "https://open.spotify.com/track/4RvTsN0Kwc1UN34strbfZu"
+    },
+    {
+      "added_at": "2022-09-30 04:00:00",
+      "album": {
+        "name": "Brahms: Piano Trios Nos. 1 and 2",
+        "url": "https://open.spotify.com/album/0rjSpkVUOnqeKdxN79f0Mw"
+      },
+      "artists": [
+        {
+          "name": "Johannes Brahms",
+          "url": "https://open.spotify.com/artist/5wTAi7QkpP6kp8a54lmTOq"
+        },
+        {
+          "name": "Vienna Piano Trio",
+          "url": "https://open.spotify.com/artist/4djoug6i6Z2jtif3jgxZOE"
+        }
+      ],
+      "duration_ms": 398533,
+      "name": "Piano Trio No. 1 in B Major, Op. 8: II. Scherzo - Allegro molto",
+      "url": "https://open.spotify.com/track/2fVZ7fi3S5S5FVMSO09TjZ"
     },
     {
       "added_at": "2022-09-30 04:00:00",
@@ -1279,26 +1279,6 @@
     {
       "added_at": "2022-09-30 04:00:00",
       "album": {
-        "name": "Nicholas Angelich Plays Brahms",
-        "url": "https://open.spotify.com/album/4V8IDsiiF69tkqoOYYfI0r"
-      },
-      "artists": [
-        {
-          "name": "Johannes Brahms",
-          "url": "https://open.spotify.com/artist/5wTAi7QkpP6kp8a54lmTOq"
-        },
-        {
-          "name": "Nicholas Angelich",
-          "url": "https://open.spotify.com/artist/1yTwwVZPzT44dkQYwitq7E"
-        }
-      ],
-      "duration_ms": 428586,
-      "name": "4 Ballades, Op. 10: No. 2, Andante",
-      "url": "https://open.spotify.com/track/0aasC2nwTu6i7f68hFlfbv"
-    },
-    {
-      "added_at": "2022-09-30 04:00:00",
-      "album": {
         "name": "Brahms: String Quartets & Piano Quintet",
         "url": "https://open.spotify.com/album/5w26O4luj61UJ6FxHYgrgA"
       },
@@ -1323,6 +1303,26 @@
     {
       "added_at": "2022-09-30 04:00:00",
       "album": {
+        "name": "Nicholas Angelich Plays Brahms",
+        "url": "https://open.spotify.com/album/4V8IDsiiF69tkqoOYYfI0r"
+      },
+      "artists": [
+        {
+          "name": "Johannes Brahms",
+          "url": "https://open.spotify.com/artist/5wTAi7QkpP6kp8a54lmTOq"
+        },
+        {
+          "name": "Nicholas Angelich",
+          "url": "https://open.spotify.com/artist/1yTwwVZPzT44dkQYwitq7E"
+        }
+      ],
+      "duration_ms": 428586,
+      "name": "4 Ballades, Op. 10: No. 2, Andante",
+      "url": "https://open.spotify.com/track/0aasC2nwTu6i7f68hFlfbv"
+    },
+    {
+      "added_at": "2022-09-30 04:00:00",
+      "album": {
         "name": "Brahms: Symphony No. 1 / Tragic Overture / Academic Festival Overture",
         "url": "https://open.spotify.com/album/2iF4wVy2x7tRTtlwej32t4"
       },
@@ -1343,34 +1343,6 @@
       "duration_ms": 844826,
       "name": "Tragic Overture, Op. 81: Allegro non troppo",
       "url": "https://open.spotify.com/track/34fK2CZySXJ8b20Hyql4nd"
-    },
-    {
-      "added_at": "2022-09-30 04:00:00",
-      "album": {
-        "name": "Brahms: Works for Chorus & Orchestra",
-        "url": "https://open.spotify.com/album/3sGSqNLCwZo59I1slXC5au"
-      },
-      "artists": [
-        {
-          "name": "Johannes Brahms",
-          "url": "https://open.spotify.com/artist/5wTAi7QkpP6kp8a54lmTOq"
-        },
-        {
-          "name": "San Francisco Symphony Chorus",
-          "url": "https://open.spotify.com/artist/5lByk1u1t6mtgI2cuLyMso"
-        },
-        {
-          "name": "San Francisco Symphony",
-          "url": "https://open.spotify.com/artist/1qHStDLIc8uV7hvTG6FGRJ"
-        },
-        {
-          "name": "Herbert Blomstedt",
-          "url": "https://open.spotify.com/artist/3H5lFsmGtr8CoZexz2rznB"
-        }
-      ],
-      "duration_ms": 1029160,
-      "name": "Schicksalslied, Op. 54",
-      "url": "https://open.spotify.com/track/6u4fX2ADbEwD8n13r2bZbp"
     },
     {
       "added_at": "2022-09-30 04:00:00",
@@ -1411,6 +1383,34 @@
       "duration_ms": 353906,
       "name": "Two Songs, Op. 91: Geistliches Wiegenlied",
       "url": "https://open.spotify.com/track/2VhyrhMr3r7zJ96FMJx0Xg"
+    },
+    {
+      "added_at": "2022-09-30 04:00:00",
+      "album": {
+        "name": "Brahms: Works for Chorus & Orchestra",
+        "url": "https://open.spotify.com/album/3sGSqNLCwZo59I1slXC5au"
+      },
+      "artists": [
+        {
+          "name": "Johannes Brahms",
+          "url": "https://open.spotify.com/artist/5wTAi7QkpP6kp8a54lmTOq"
+        },
+        {
+          "name": "San Francisco Symphony Chorus",
+          "url": "https://open.spotify.com/artist/5lByk1u1t6mtgI2cuLyMso"
+        },
+        {
+          "name": "San Francisco Symphony",
+          "url": "https://open.spotify.com/artist/1qHStDLIc8uV7hvTG6FGRJ"
+        },
+        {
+          "name": "Herbert Blomstedt",
+          "url": "https://open.spotify.com/artist/3H5lFsmGtr8CoZexz2rznB"
+        }
+      ],
+      "duration_ms": 1029160,
+      "name": "Schicksalslied, Op. 54",
+      "url": "https://open.spotify.com/track/6u4fX2ADbEwD8n13r2bZbp"
     },
     {
       "added_at": "2022-09-30 04:00:00",

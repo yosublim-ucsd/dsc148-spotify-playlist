@@ -4,7 +4,7 @@
 
 > next gen pop Cover: Tate McRae
 
-1,754 songs - 3 day 13 hr 9 min
+1,756 songs - 3 day 13 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -59,6 +59,7 @@
 | [A Concert Six Months From Now](https://open.spotify.com/track/1FaXNkTPTe6k8mCCi6OVbh) | [FINNEAS](https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX) | [A Concert Six Months From Now](https://open.spotify.com/album/0tivTdbZdEUeC4NvXnle3J) | 3:25 | 2021-08-07 | 2021-08-28 |
 | [a little more time](https://open.spotify.com/track/5UhZyWfrSEhGYfIIFNYscF) | [ROLE MODEL](https://open.spotify.com/artist/1dy5WNgIKQU6ezkpZs4y8z) | [a little more time](https://open.spotify.com/album/7GRsfBAEdhJTdcwoqTXedi) | 3:30 | 2023-02-17 | 2023-04-15 |
 | [A Man Like Me](https://open.spotify.com/track/1pJklQvgj7BmpMrO9E2P3u) | [Johnny Orlando](https://open.spotify.com/artist/6aX6KqXgEcARRHwvWxHcFW) | [The Ride: Part 2](https://open.spotify.com/album/3GD05St31XOYQZ0Hboop4T) | 2:30 | 2023-09-29 | 2023-10-14 |
+| [A Night To Remember](https://open.spotify.com/track/180AbZduI6bYQIzwCHRwu9) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB), [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [A Night To Remember](https://open.spotify.com/album/73wBVA41AulgjGiL3rBwfe) | 3:53 | 2023-10-20 |  |
 | [A\-O\-K](https://open.spotify.com/track/4CbrNGvwVjneG8Nk9YQqMR) | [Tai Verdes](https://open.spotify.com/artist/2kCO8LXN1usaOPL3iEE28I) | [A\-O\-K](https://open.spotify.com/album/3A8u7ZzojDwy7GlCJphBQR) | 2:53 | 2021-05-08 | 2021-11-27 |
 | [abcdefu](https://open.spotify.com/track/4fouWK6XVHhzl78KzQ1UjL) | [GAYLE](https://open.spotify.com/artist/2VSHKHBTiXWplO8lxcnUC9) | [abcdefu](https://open.spotify.com/album/6tUQPKlpR4x1gjrXTtOImI) | 2:48 | 2021-09-28 | 2022-03-18 |
 | [About a Breakup](https://open.spotify.com/track/38Lzl3hFC8AmlcpnIAfBps) | [salem ilese](https://open.spotify.com/artist/3QJUFtGBGL05vo0kCJZsmT) | [About a Breakup](https://open.spotify.com/album/1uAnTBreKEvqneOZJU7Hlg) | 2:42 | 2021-04-24 | 2021-05-22 |
@@ -437,6 +438,7 @@
 | [Don't Leave Yet](https://open.spotify.com/track/2YGLz59p5T0CMXeceMltiD) | [Eric Nam](https://open.spotify.com/artist/2FLqlgckDKdmpBrvLAT5BM) | [Don't Leave Yet](https://open.spotify.com/album/3waB8KtFMT0fggbkjbK7Kj) | 2:45 | 2023-08-11 | 2023-09-09 |
 | [don't miss me](https://open.spotify.com/track/5MG69A9XyXDbBbeOxdR3Tl) | [Claire Rosinkranz](https://open.spotify.com/artist/3V0ZQW0dNuVaFtbVYgSI24) | [don’t miss me](https://open.spotify.com/album/2uXE0PE2nWgjXDV6nZi1l0) | 2:03 | 2021-11-27 | 2022-06-25 |
 | [Don't Need A Man](https://open.spotify.com/track/0frVq7ypwqVdroMcrlyr5e) | [Liv Grace Blue](https://open.spotify.com/artist/5Cb72YLWR9MV0z46xNpmEl) | [Don't Need A Man](https://open.spotify.com/album/6Z7bYtuGfAFehZEpKF2XED) | 2:29 | 2021-03-31 | 2021-07-10 |
+| [don't shop when ur hungry !!](https://open.spotify.com/track/4McWu9XZhVIE0YelQzP5D3) | [salem ilese](https://open.spotify.com/artist/3QJUFtGBGL05vo0kCJZsmT), [vaultboy](https://open.spotify.com/artist/0K87f3owemzI8NUCoEIXOB) | [High Concept](https://open.spotify.com/album/5DSSWFgWsyelKKtMEUe1cK) | 2:20 | 2023-10-20 |  |
 | [Don't Talk](https://open.spotify.com/track/3mXjVkMtEqWZ2iMHYtincz) | [MASN](https://open.spotify.com/artist/4HAfqyKr4Sqtab6ttHWXgE) | [Don't Talk](https://open.spotify.com/album/7eX7Ucv3YIEQLj1J8fRgEh) | 2:12 | 2021-07-17 | 2021-08-14 |
 | [Don't Tell My Mom](https://open.spotify.com/track/52xPJ6sISOam1g1blK9RF0) | [Reneé Rapp](https://open.spotify.com/artist/2hUYKu1x0UZQXvzCmggvSn) | [Don’t Tell My Mom](https://open.spotify.com/album/3TE6FmGfVRv442zvXQVsqv) | 3:08 | 2022-09-30 | 2022-11-12 |
 | [Don't Text Me When You're Drunk](https://open.spotify.com/track/0IKpTI3268FUkZ2Z606A0u) | [Stacey Ryan](https://open.spotify.com/artist/3sXwEUqxSzb11VpuFa5cvJ), [Zai1k](https://open.spotify.com/artist/2ORU5xiGsr9qfRKNvZ3UII) | [Don't Text Me When You're Drunk](https://open.spotify.com/album/51knfgOiqxO4wdvKEDf3GN) | 3:14 | 2022-01-16 | 2022-04-16 |
@@ -445,7 +447,7 @@
 | [Don’t Call Me](https://open.spotify.com/track/3bU91SbdFFrxKTu6L02r5r) | [maryjo](https://open.spotify.com/artist/1s8g8pcFxAOyuQwG4Tku0H) | [Don’t Call Me](https://open.spotify.com/album/5Q4FL6AO9WxaWTLGX4uuYN) | 2:48 | 2023-08-01 | 2023-09-09 |
 | [don’t call me pretty](https://open.spotify.com/track/6XV4GwRq92E9N3MmXxuxLy) | [GAYLE](https://open.spotify.com/artist/2VSHKHBTiXWplO8lxcnUC9) | [don’t call me pretty](https://open.spotify.com/album/02EVktWJJ2yuJs2Q1eqiSB) | 3:01 | 2023-05-05 | 2023-06-17 |
 | [Don’t Go \(with Justin Bieber & Don Toliver\)](https://open.spotify.com/track/55sgQENF3LY1sUcJUwasLl) | [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX), [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s), [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs) | [Don’t Go \(with Justin Bieber & Don Toliver\)](https://open.spotify.com/album/76HLs4wSTOuCNwcGl4dycr) | 2:48 | 2021-08-21 | 2021-09-17 |
-| [don’t shop when ur hungry !! \(feat\. vaultboy\)](https://open.spotify.com/track/2U2nYZb993yZhtaTJ9sGHl) | [salem ilese](https://open.spotify.com/artist/3QJUFtGBGL05vo0kCJZsmT), [vaultboy](https://open.spotify.com/artist/0K87f3owemzI8NUCoEIXOB) | [don't shop when ur hungry !! \(feat\. vaultboy\)](https://open.spotify.com/album/1SxCpc68MAkp1WbnENuhxq) | 2:20 | 2023-08-18 |  |
+| [don’t shop when ur hungry !! \(feat\. vaultboy\)](https://open.spotify.com/track/2U2nYZb993yZhtaTJ9sGHl) | [salem ilese](https://open.spotify.com/artist/3QJUFtGBGL05vo0kCJZsmT), [vaultboy](https://open.spotify.com/artist/0K87f3owemzI8NUCoEIXOB) | [don't shop when ur hungry !! \(feat\. vaultboy\)](https://open.spotify.com/album/1SxCpc68MAkp1WbnENuhxq) | 2:20 | 2023-08-18 | 2023-10-22 |
 | [Don’t Trip \(with GAYLE\)](https://open.spotify.com/track/6mWCikZXHCCnEwkwyJ2L8G) | [Justus Bennetts](https://open.spotify.com/artist/4PcesEvU9iICf7dwNt5B3l), [GAYLE](https://open.spotify.com/artist/2VSHKHBTiXWplO8lxcnUC9) | [Don’t Trip \(with GAYLE\)](https://open.spotify.com/album/3R59vyW9DWkchzNHN4XehZ) | 2:27 | 2022-02-25 | 2022-04-02 |
 | [Doodoodoo](https://open.spotify.com/track/02Jf3pdSKAUgseNZSiJbwp) | [Curtis Waters](https://open.spotify.com/artist/2JbE7jUIGtpXSzytnyMg6U) | [Doodoodoo](https://open.spotify.com/album/1m3Iv9AHZuPQBB9IhAZwkW) | 2:53 | 2021-02-16\* | 2021-03-06 |
 | [dopamine](https://open.spotify.com/track/3EwCOs6Dh5tlsbIpvMjH4I) | [Madelline](https://open.spotify.com/artist/7t6dcfG1BhMh3LTAXhxmeL) | [dopamine](https://open.spotify.com/album/2emZOQ9v8v9csDYeqDWnE3) | 2:45 | 2023-04-21 | 2023-07-22 |

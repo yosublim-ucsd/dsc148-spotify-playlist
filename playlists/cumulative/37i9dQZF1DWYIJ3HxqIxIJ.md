@@ -4,7 +4,7 @@
 
 > Vv Pete is our new RADAR artist to watch!
 
-262 songs - 13 hr 39 min
+263 songs - 13 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -143,7 +143,7 @@
 | [M1](https://open.spotify.com/track/4MZQpYHloIv9IhX1yAdi5J) | [Hp Boyz](https://open.spotify.com/artist/0JlQaGJZfrqYeZG1AQICxp) | [AFTERPARTY](https://open.spotify.com/album/2kQlpPlBMk65AQgCquhaDR) | 2:57 | 2021-10-15 | 2022-08-16 |
 | [Magic](https://open.spotify.com/track/02IwpmWcx201kEvq51NA8s) | [Skin On Skin](https://open.spotify.com/artist/5mnxMXIM6BNhVVTXnBatKa) | [Magic](https://open.spotify.com/album/3JIB4mCyKaYhxuxyp31vcJ) | 4:53 | 2023-08-17 |  |
 | [Magic \(feat\. BARKAA & MADAM3EMPRESS\) \- Remix](https://open.spotify.com/track/4TRmv5FVCK9kr5khEsdfIH) | [Rico Nasty](https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU), [Barkaa](https://open.spotify.com/artist/7gGAAZB2j1TmXBwQYOQLwr), [MADAM3EMPRESS](https://open.spotify.com/artist/2adQUbouv2rghpbus8Zx73) | [Magic \(feat\. BARKAA & MADAM3EMPRESS\) \[Remix\]](https://open.spotify.com/album/2y7BeXWttwmaUt2Udad4qJ) | 2:23 | 2021-10-15 | 2022-08-16 |
-| [Mamas Car](https://open.spotify.com/track/51JtGJtPkfPz4qLHFIwC4j) | [Vv Pete](https://open.spotify.com/artist/66IkoRt5JAg88LCnPuyxXr) | [Mamas Car](https://open.spotify.com/album/5jSswkACL8ldBkgeuWKG4o) | 2:16 | 2023-10-19 |  |
+| [Mamas Car](https://open.spotify.com/track/51JtGJtPkfPz4qLHFIwC4j) | [Vv Pete](https://open.spotify.com/artist/66IkoRt5JAg88LCnPuyxXr), [UTILITY](https://open.spotify.com/artist/07SL7uPXhqtBGz0Pqljjgi) | [Mamas Car](https://open.spotify.com/album/5jSswkACL8ldBkgeuWKG4o) | 2:16 | 2023-10-19 |  |
 | [MBAPPÉ \(feat\. KAHUKX\)](https://open.spotify.com/track/69ECulmgzH6xt9pZH7bIYz) | [Day1](https://open.spotify.com/artist/0iFJbJ7jMv5QAmA6hWm6Ic), [KAHUKX](https://open.spotify.com/artist/3OkbxDtag6zvVnAaa9YLLC) | [MBAPPÉ \(feat\. KAHUKX\)](https://open.spotify.com/album/0kQpqZ5BSPyA2JF6payfYS) | 2:53 | 2022-08-15 | 2023-03-02 |
 | [Me Myself & I](https://open.spotify.com/track/0C9aH2f4LO8SPPqUWOrcbk) | [5 Seconds of Summer](https://open.spotify.com/artist/5Rl15oVamLq7FbSb0NNBNy) | [Me Myself & I](https://open.spotify.com/album/44rEE58rgbF88y9wrpadOl) | 2:57 | 2022-08-15 | 2022-11-25 |
 | [Me Myself & I](https://open.spotify.com/track/78Qk1m8zbvvvrmWH2M1yxT) | [5 Seconds of Summer](https://open.spotify.com/artist/5Rl15oVamLq7FbSb0NNBNy) | [5SOS5](https://open.spotify.com/album/26uA5pGrTovBLxikRsMQJ4) | 2:57 | 2022-11-10 | 2023-03-02 |
@@ -243,7 +243,8 @@
 | [Threads](https://open.spotify.com/track/2SJ0exVB6NRWLbdjCsNWAd) | [Indy](https://open.spotify.com/artist/6vxqYQ8aMNtCuks7tVencQ) | [Threads](https://open.spotify.com/album/1SZmDUuIlro250y8TPMMbd) | 3:52 | 2022-11-10 | 2023-03-02 |
 | [Threads](https://open.spotify.com/track/15oHRVscvEQR8zBWzsMVjI) | [Liyah Knight](https://open.spotify.com/artist/5We4m1ZNMQBteKJNc7CvhF) | [Threads](https://open.spotify.com/album/7thTWoiQF0LW9Jg6flrk2z) | 3:25 | 2021-10-15 | 2022-08-16 |
 | [Til The Death](https://open.spotify.com/track/0OUHnvZ9PD337H7k6zbTgY) | [Lisi](https://open.spotify.com/artist/01Gj5Tpdz9igIh1uqH8bvu) | [Til The Death](https://open.spotify.com/album/4mWRMbD7bTE2YTD6Q2UgoH) | 3:18 | 2021-10-15 | 2022-08-16 |
-| [Till You’re Ready](https://open.spotify.com/track/6uhOg5d86Bvr5KQ3Tj6eo1) | [Navvy](https://open.spotify.com/artist/59uIMi3xrGO0kwfy7Zea24) | [Till You’re Ready](https://open.spotify.com/album/77stMVoaQ9h2oIkHFbFXNU) | 2:56 | 2023-03-12 |  |
+| [Til You’re Ready](https://open.spotify.com/track/7bhY6srx85phHa7TlTAkmV) | [Navvy](https://open.spotify.com/artist/59uIMi3xrGO0kwfy7Zea24) | [Til You’re Ready](https://open.spotify.com/album/1zPr41pgLuvGCqRV1mK3Iu) | 2:58 | 2023-10-19 |  |
+| [Till You’re Ready](https://open.spotify.com/track/6uhOg5d86Bvr5KQ3Tj6eo1) | [Navvy](https://open.spotify.com/artist/59uIMi3xrGO0kwfy7Zea24) | [Till You’re Ready](https://open.spotify.com/album/77stMVoaQ9h2oIkHFbFXNU) | 2:56 | 2023-03-12 | 2023-10-22 |
 | [Timebomb](https://open.spotify.com/track/3H6F5djWiLqN1ePTHMzs3E) | [Charley](https://open.spotify.com/artist/7BL2IU83ZaHfvJTkIE90v2) | [TIMEBOMBS](https://open.spotify.com/album/2fznRO2wXuzjjKvA5WvLiP) | 2:51 | 2023-06-27 |  |
 | [Too Easy](https://open.spotify.com/track/4AjaZOpRvW2p6LbmkMBVZ8) | [merci, mercy](https://open.spotify.com/artist/524oC8NzSWvqPbwiRkYSLH) | [is it me, or is it you?](https://open.spotify.com/album/4ZSt8gHnOnfHZz4UMsgMH5) | 3:06 | 2022-11-10 | 2023-03-02 |
 | [Touch Me \(Hold My Hand\)](https://open.spotify.com/track/65WxintbjsESKlBJBlyGzK) | [BAYNK](https://open.spotify.com/artist/28yVvEvA2lT3K5RNIhV1Dj) | [Esther / Touch Me \(Hold My Hand\)](https://open.spotify.com/album/3w2eNXuWshQnWBI8wurPbJ) | 4:01 | 2021-10-15 | 2022-08-16 |

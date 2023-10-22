@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYoYGBbGKurt.md) - [plain]
 
 > Lazy slow lofi beats for laid\-back moments.
 
-[Spotify](https://open.spotify.com/user/spotify) - 594,037 likes - 375 songs - 14 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 594,057 likes - 375 songs - 14 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -352,7 +352,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYoYGBbGKurt.md) - [plain]
 | 342 | [Lazy Afternoon](https://open.spotify.com/track/3yQ8tNg2WieEbTtHcvjKPB) | [sleepsleepsleep](https://open.spotify.com/artist/014LowNhgN2d8KreuoFRFd) | [Lazy Afternoon](https://open.spotify.com/album/6gsabbw0tVacAtgWbsu2JY) | 2:06 |
 | 343 | [Sweet And Sour](https://open.spotify.com/track/1pOVUZj53BISvRtOME19Gw) | [Uli Tiro](https://open.spotify.com/artist/0330hhfjAyvYe2YFcVaD4t), [MALIWA](https://open.spotify.com/artist/0u3T2vPkvzAH861FkJtS2I), [Golden Ticket Tapes](https://open.spotify.com/artist/1XHE2jFO11NVGUBv25uDVZ) | [Sweet And Sour](https://open.spotify.com/album/2ReChmGQuFGegE2vaqRw9o) | 1:53 |
 | 344 | [napoli](https://open.spotify.com/track/2XJK1DKXPtfPQ6Mxm9iAEM) | [Wun Two](https://open.spotify.com/artist/69cjjIQEN8M6heOBT2SqZE) | [Cashmere Dreams](https://open.spotify.com/album/1AC4GcnWskAraRKxBcLQq0) | 1:52 |
-| 345 | [Blunotte](https://open.spotify.com/track/7xJ9d7j9fcB2czQyPbLyhy) | [Koralle](https://open.spotify.com/artist/3OW3qK7Wl9ESAGLvjVOw2h), [FloFilz](https://open.spotify.com/artist/39ZQx0618UYVBgGTDOJ2ds) | [Blunotte](https://open.spotify.com/album/5U5C9RGGsnUR5okigKTANF) | 2:22 |
+| 345 | [Blunotte](https://open.spotify.com/track/425HNsoUUAUGNPFbPZuyE2) | [Koralle](https://open.spotify.com/artist/3OW3qK7Wl9ESAGLvjVOw2h), [FloFilz](https://open.spotify.com/artist/39ZQx0618UYVBgGTDOJ2ds) | [Insomnia](https://open.spotify.com/album/0B79D0ahoTfJSul9Gx7SIJ) | 2:22 |
 | 346 | [ideary](https://open.spotify.com/track/2T8MAO4Ci0QZubMZF4JBrK) | [Plusma](https://open.spotify.com/artist/1BrPtX4urPftXEDWrVTdRH), [Miramare](https://open.spotify.com/artist/1GobnwKx4ZG8tvfqJxOMXg), [a boy with a balloon](https://open.spotify.com/artist/2RU6buhw0TjkxXj5oIyDX8) | [ideary](https://open.spotify.com/album/2kX0cLl1Uu7Be4zGCMO8IO) | 2:08 |
 | 347 | [Gratefulness](https://open.spotify.com/track/2AbUPIumDoBR9tfKGv3c7e) | [Wilczynski](https://open.spotify.com/artist/5RBoyuxAJsUAavA4oNFh94) | [Gratefulness](https://open.spotify.com/album/6byxwHuEF8XkItdtC4gFYv) | 2:20 |
 | 348 | [Drift Bird](https://open.spotify.com/track/0KkPlMsjzHyLflIBKlNjOy) | [tillDawn](https://open.spotify.com/artist/0LqQ7Y65LM0zomhoexwyzV), [DisHand](https://open.spotify.com/artist/0fWugqSess3tlDdzjPu1gy) | [Drift Bird](https://open.spotify.com/album/4sS5OTae0b9Zy9uN2QEqVu) | 2:31 |
@@ -384,4 +384,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYoYGBbGKurt.md) - [plain]
 | 374 | [Driftin' Blues](https://open.spotify.com/track/1fjPX6GXvJ7OQMuIk9jW83) | [Dulcet](https://open.spotify.com/artist/7kOMTlIze4HK68RCpaLBTp) | [Driftin' Blues](https://open.spotify.com/album/3WV5TzmUJ4xuccEY9qOHYB) | 1:49 |
 | 375 | [Lofi Dream](https://open.spotify.com/track/02mHW5SE0g0D6PFua2ZEz6) | [Nova Night](https://open.spotify.com/artist/5BVLrCpEMxXA6r5woi5f53), [Mondo Loops](https://open.spotify.com/artist/1XFN3VcuKr4tsTtQlRiTgK) | [Lofi Dream](https://open.spotify.com/album/6PYP8V2TuS1jtG8luQ9j2H) | 2:03 |
 
-Snapshot ID: `MCxmZmU3ZjcxMjliMjI0YzhlNTllNzFkMjZlZDNmMTM3NjgyZmZkMjNh`
+Snapshot ID: `MCwyMTZkZDJiMDJmMzc0NjA2MGJmMjIxNTE4YzgzYTlhNzNkNDhkOTZk`

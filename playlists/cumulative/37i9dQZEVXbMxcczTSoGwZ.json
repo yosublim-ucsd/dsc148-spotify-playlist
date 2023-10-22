@@ -2154,7 +2154,7 @@
       ],
       "date_added": "2023-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-22",
       "duration_ms": 215159,
       "name": "Badman",
       "url": "https://open.spotify.com/track/4E6HHoNChau72S0IeRKyrK"
@@ -6407,6 +6407,24 @@
     },
     {
       "album": {
+        "name": "euro musik",
+        "url": "https://open.spotify.com/album/5RAmd82hWPvFBmUs73B5gO"
+      },
+      "artists": [
+        {
+          "name": "Cledos",
+          "url": "https://open.spotify.com/artist/0xbbe6a1x6g5eGBQfzjWSe"
+        }
+      ],
+      "date_added": "2023-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176850,
+      "name": "euro",
+      "url": "https://open.spotify.com/track/4d8H46Vif1ySvApG4WS2J8"
+    },
+    {
+      "album": {
         "name": "Traveller",
         "url": "https://open.spotify.com/album/0YmXsxNobUAYohMk3qFSea"
       },
@@ -9365,6 +9383,24 @@
     },
     {
       "album": {
+        "name": "Huhhahhei",
+        "url": "https://open.spotify.com/album/1VTKgQzzYIsOM7qDZSwnpx"
+      },
+      "artists": [
+        {
+          "name": "K\u00e4\u00e4rij\u00e4",
+          "url": "https://open.spotify.com/artist/6LkMGN0t3HDNL8hIvma70r"
+        }
+      ],
+      "date_added": "2023-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188449,
+      "name": "Huhhahhei",
+      "url": "https://open.spotify.com/track/6FlgcrEoaGurTfbcSeqHVm"
+    },
+    {
+      "album": {
         "name": "HULK FLOWGAN",
         "url": "https://open.spotify.com/album/1yirTtr9e2be0cPSjuTRYM"
       },
@@ -11012,7 +11048,7 @@
       ],
       "date_added": "2023-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-22",
       "duration_ms": 194003,
       "name": "It's Crazy It's Party (feat. Tommy Cash)",
       "url": "https://open.spotify.com/track/1FtibWDIm2kxf7zOlUcXvx"
@@ -13922,10 +13958,32 @@
       ],
       "date_added": "2023-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-22",
       "duration_ms": 156671,
       "name": "Kuka se on (feat. Isac Elliot)",
       "url": "https://open.spotify.com/track/5rJrd2aw3iCaGD87Ztdo4c"
+    },
+    {
+      "album": {
+        "name": "euro musik",
+        "url": "https://open.spotify.com/album/5RAmd82hWPvFBmUs73B5gO"
+      },
+      "artists": [
+        {
+          "name": "Cledos",
+          "url": "https://open.spotify.com/artist/0xbbe6a1x6g5eGBQfzjWSe"
+        },
+        {
+          "name": "Isac Elliot",
+          "url": "https://open.spotify.com/artist/3aD9K1zaLQ3G7yp9XV5E4D"
+        }
+      ],
+      "date_added": "2023-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156671,
+      "name": "Kuka se on (feat. Isac Elliot)",
+      "url": "https://open.spotify.com/track/7ag60dkTuD8xoMOxh6f4xS"
     },
     {
       "album": {
@@ -15132,7 +15190,7 @@
       ],
       "date_added": "2023-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-22",
       "duration_ms": 202663,
       "name": "LESSGO (feat. VJ)",
       "url": "https://open.spotify.com/track/3LLnO4U1A5CJFtdP7AwasZ"
@@ -15380,6 +15438,28 @@
       "duration_ms": 185680,
       "name": "Light Switch",
       "url": "https://open.spotify.com/track/3AVXwaOGCEL8cmBecfcsFJ"
+    },
+    {
+      "album": {
+        "name": "euro musik",
+        "url": "https://open.spotify.com/album/5RAmd82hWPvFBmUs73B5gO"
+      },
+      "artists": [
+        {
+          "name": "Cledos",
+          "url": "https://open.spotify.com/artist/0xbbe6a1x6g5eGBQfzjWSe"
+        },
+        {
+          "name": "VJ",
+          "url": "https://open.spotify.com/artist/4JdNUmnUaGFg9kX947oHg2"
+        }
+      ],
+      "date_added": "2023-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141081,
+      "name": "Liian moni (feat. VJ)",
+      "url": "https://open.spotify.com/track/3QUpgNvOU1AQsxVrdUby1H"
     },
     {
       "album": {
@@ -17667,6 +17747,28 @@
     },
     {
       "album": {
+        "name": "Minimi (feat. Purplape)",
+        "url": "https://open.spotify.com/album/65xRptwAW4alJtexDzKfci"
+      },
+      "artists": [
+        {
+          "name": "Jore & Zpoppa",
+          "url": "https://open.spotify.com/artist/3kKa5RWsRwK2f5Xu2RHBB7"
+        },
+        {
+          "name": "Purplape",
+          "url": "https://open.spotify.com/artist/1f0beje3cU2AASjPmpGE7V"
+        }
+      ],
+      "date_added": "2023-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179570,
+      "name": "Minimi (feat. Purplape)",
+      "url": "https://open.spotify.com/track/3YS6ps8C4Dh3DbizRvgpjc"
+    },
+    {
+      "album": {
         "name": "Minne ikin\u00e4 s\u00e4 meet",
         "url": "https://open.spotify.com/album/4KR53Dg7HEAtpWXt1zyEp8"
       },
@@ -17952,7 +18054,7 @@
       ],
       "date_added": "2023-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-22",
       "duration_ms": 114350,
       "name": "Missaat Mut",
       "url": "https://open.spotify.com/track/4I7nd2tef4qV15OAczVuJb"
@@ -18904,7 +19006,7 @@
       ],
       "date_added": "2023-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-22",
       "duration_ms": 159326,
       "name": "Mussukka",
       "url": "https://open.spotify.com/track/0O4jcIw70DqQGHHn0oseUn"
@@ -21589,6 +21691,24 @@
     },
     {
       "album": {
+        "name": "H\u00f6yheni\u00e4 ja saaria",
+        "url": "https://open.spotify.com/album/1uZ1gPFFuroiiFWp2K4htG"
+      },
+      "artists": [
+        {
+          "name": "Aliisa Syrj\u00e4",
+          "url": "https://open.spotify.com/artist/22MRXgWTSxSeQG9NLCMezd"
+        }
+      ],
+      "date_added": "2023-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200686,
+      "name": "Perill\u00e4",
+      "url": "https://open.spotify.com/track/78CwzrOPZ6b9wWStb1pdGR"
+    },
+    {
+      "album": {
         "name": "Periodi",
         "url": "https://open.spotify.com/album/2NHwYiSoQiEfKkbQcnQw7S"
       },
@@ -22794,6 +22914,36 @@
       "duration_ms": 132670,
       "name": "R.E.S.P.E.C.T.",
       "url": "https://open.spotify.com/track/78P8mP7LWZ1bx7pllu9xsH"
+    },
+    {
+      "album": {
+        "name": "Rajal (feat. ibe, Ares & Elastinen)",
+        "url": "https://open.spotify.com/album/43jsrZfxsf5FYf20772F3t"
+      },
+      "artists": [
+        {
+          "name": "MD$",
+          "url": "https://open.spotify.com/artist/0bYIAEOrNahTLQkecy5944"
+        },
+        {
+          "name": "ibe",
+          "url": "https://open.spotify.com/artist/2Pn8JMNrnRnSpNRPPgtiWA"
+        },
+        {
+          "name": "Ares",
+          "url": "https://open.spotify.com/artist/1iRlPYW9AnnyLTPfy53Mj9"
+        },
+        {
+          "name": "Elastinen",
+          "url": "https://open.spotify.com/artist/7DdW8Ert3Z36hb1FkaZWiI"
+        }
+      ],
+      "date_added": "2023-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185007,
+      "name": "Rajal (feat. ibe, Ares & Elastinen)",
+      "url": "https://open.spotify.com/track/5grPmKSW7p7wxMzaje5SRP"
     },
     {
       "album": {
@@ -24676,7 +24826,7 @@
       ],
       "date_added": "2022-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-22",
       "duration_ms": 154570,
       "name": "Shamppanjadieetill\u00e4",
       "url": "https://open.spotify.com/track/3KOKML3DT5AbPOQYWjBZTh"
@@ -25130,7 +25280,7 @@
       ],
       "date_added": "2023-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-22",
       "duration_ms": 151147,
       "name": "Sisko",
       "url": "https://open.spotify.com/track/6aJc9yW2geBF4OsrqOslOQ"
@@ -25724,7 +25874,7 @@
       ],
       "date_added": "2023-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-22",
       "duration_ms": 177639,
       "name": "Stadin puistot (feat. AHTI)",
       "url": "https://open.spotify.com/track/5Om2bI3bo28V7XKvDHYy7d"
@@ -26098,6 +26248,24 @@
       "duration_ms": 226986,
       "name": "Streets",
       "url": "https://open.spotify.com/track/60ynsPSSKe6O3sfwRnIBRf"
+    },
+    {
+      "album": {
+        "name": "Sua sattuu",
+        "url": "https://open.spotify.com/album/601hM6FNzVx3Snye4EJFdZ"
+      },
+      "artists": [
+        {
+          "name": "Mirella",
+          "url": "https://open.spotify.com/artist/5m8QXFAKCuty66pOzy9aPZ"
+        }
+      ],
+      "date_added": "2023-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183814,
+      "name": "Sua sattuu",
+      "url": "https://open.spotify.com/track/3UJLagt67XWKaEZbePUS88"
     },
     {
       "album": {
@@ -28357,6 +28525,28 @@
     },
     {
       "album": {
+        "name": "euro musik",
+        "url": "https://open.spotify.com/album/5RAmd82hWPvFBmUs73B5gO"
+      },
+      "artists": [
+        {
+          "name": "Cledos",
+          "url": "https://open.spotify.com/artist/0xbbe6a1x6g5eGBQfzjWSe"
+        },
+        {
+          "name": "Ege Zulu",
+          "url": "https://open.spotify.com/artist/0PyeoSEt7RQPbjuzy3JK9O"
+        }
+      ],
+      "date_added": "2023-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165408,
+      "name": "Tuntuu hyv\u00e4lt (feat. Ege Zulu)",
+      "url": "https://open.spotify.com/track/5hykFjl2n0CpLS1yYTvdMX"
+    },
+    {
+      "album": {
         "name": "Legenda - Lauluni aiheet I",
         "url": "https://open.spotify.com/album/1bY0E8xATOozhSsuYkSVVc"
       },
@@ -30304,7 +30494,7 @@
       ],
       "date_added": "2023-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-22",
       "duration_ms": 209302,
       "name": "Viimeisi\u00e4 sanoja",
       "url": "https://open.spotify.com/track/2qLzkSZ3nstuozJLipRIrS"
@@ -30580,6 +30770,32 @@
       "duration_ms": 217854,
       "name": "Voimaa ja valoa",
       "url": "https://open.spotify.com/track/3F2Sm1D7m7uz1i0Ytrh19c"
+    },
+    {
+      "album": {
+        "name": "Voimaantunu",
+        "url": "https://open.spotify.com/album/3nmdPvniUdbuQPL8ZN9u2A"
+      },
+      "artists": [
+        {
+          "name": "B\u00e4m\u00e4",
+          "url": "https://open.spotify.com/artist/1nDMB5M5uBTt0SQWFgZtc1"
+        },
+        {
+          "name": "Aina",
+          "url": "https://open.spotify.com/artist/3M36KGUt2RuwXQuxTDQIEY"
+        },
+        {
+          "name": "Sointu Borg",
+          "url": "https://open.spotify.com/artist/34qCYPy8p0qTLUjkskB7Dz"
+        }
+      ],
+      "date_added": "2023-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195258,
+      "name": "Voimaantunu",
+      "url": "https://open.spotify.com/track/1P5dnsR8u5iyEsyIuB8t4O"
     },
     {
       "album": {

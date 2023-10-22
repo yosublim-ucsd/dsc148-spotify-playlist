@@ -1,12 +1,12 @@
 {
   "description": "A mix of punk rock to get you through your workout.",
-  "num_followers": 540992,
+  "num_followers": 541044,
   "original_name": "Punk Rock Workout",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjMWRjZjM2NzRjY2NhNTM0NWRlODEzNWEwZDc3ZDJkYjM1NDc1ZjVi",
+  "snapshot_id": "MCxlNDIwYjA1NDFjYjQzNDI3ZWU5M2YwZWNhZmUyMzRlMTBkMzM2ZTNi",
   "tracks": [
     {
       "added_at": "2020-11-20 21:27:18",
@@ -673,22 +673,6 @@
       "url": "https://open.spotify.com/track/10UlU5E5RfydywnKmA1nFL"
     },
     {
-      "added_at": "2020-11-20 21:27:18",
-      "album": {
-        "name": "The Shape Of Punk To Come (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/2Us9qPHLvLoTl6HkYAPcz2"
-      },
-      "artists": [
-        {
-          "name": "Refused",
-          "url": "https://open.spotify.com/artist/5sdxGvwxI1TkTA6Pu2jnTb"
-        }
-      ],
-      "duration_ms": 310200,
-      "name": "New Noise",
-      "url": "https://open.spotify.com/track/35iLpqqQg4KrfYAzbvN1vH"
-    },
-    {
       "added_at": "2021-07-08 22:59:55",
       "album": {
         "name": "Joy as an Act of Resistance.",
@@ -703,6 +687,22 @@
       "duration_ms": 228831,
       "name": "Never Fight A Man With A Perm",
       "url": "https://open.spotify.com/track/4B4CQ84BBpHK5d02cWKUb0"
+    },
+    {
+      "added_at": "2020-11-20 21:27:18",
+      "album": {
+        "name": "The Shape Of Punk To Come (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/2Us9qPHLvLoTl6HkYAPcz2"
+      },
+      "artists": [
+        {
+          "name": "Refused",
+          "url": "https://open.spotify.com/artist/5sdxGvwxI1TkTA6Pu2jnTb"
+        }
+      ],
+      "duration_ms": 310200,
+      "name": "New Noise",
+      "url": "https://open.spotify.com/track/35iLpqqQg4KrfYAzbvN1vH"
     },
     {
       "added_at": "2020-11-20 21:27:18",
@@ -851,22 +851,6 @@
     {
       "added_at": "2020-11-20 21:27:18",
       "album": {
-        "name": "All Distortions Are Intentional",
-        "url": "https://open.spotify.com/album/3fM2J0ilTBGwnzcN3SqUcG"
-      },
-      "artists": [
-        {
-          "name": "Neck Deep",
-          "url": "https://open.spotify.com/artist/2TM0qnbJH4QPhGMCdPt7fH"
-        }
-      ],
-      "duration_ms": 189101,
-      "name": "When You Know",
-      "url": "https://open.spotify.com/track/3DaSurzbFuzWE45tQm1TO5"
-    },
-    {
-      "added_at": "2020-11-20 21:27:18",
-      "album": {
         "name": "War on Errorism",
         "url": "https://open.spotify.com/album/579FRQBE6RnFZXn6dG0DeV"
       },
@@ -879,6 +863,22 @@
       "duration_ms": 189733,
       "name": "The Separation of Church and Skate",
       "url": "https://open.spotify.com/track/1NVjbk3Q06lEvAPUlTauzr"
+    },
+    {
+      "added_at": "2020-11-20 21:27:18",
+      "album": {
+        "name": "All Distortions Are Intentional",
+        "url": "https://open.spotify.com/album/3fM2J0ilTBGwnzcN3SqUcG"
+      },
+      "artists": [
+        {
+          "name": "Neck Deep",
+          "url": "https://open.spotify.com/artist/2TM0qnbJH4QPhGMCdPt7fH"
+        }
+      ],
+      "duration_ms": 189101,
+      "name": "When You Know",
+      "url": "https://open.spotify.com/track/3DaSurzbFuzWE45tQm1TO5"
     },
     {
       "added_at": "2020-11-20 21:27:18",
@@ -947,22 +947,6 @@
     {
       "added_at": "2020-11-20 21:27:18",
       "album": {
-        "name": "High Hopes",
-        "url": "https://open.spotify.com/album/4TGgIBpUlNWUnVFIAx7P8w"
-      },
-      "artists": [
-        {
-          "name": "Yours Truly",
-          "url": "https://open.spotify.com/artist/76NpRNEWMaNdOudixwOPRo"
-        }
-      ],
-      "duration_ms": 231400,
-      "name": "High Hopes",
-      "url": "https://open.spotify.com/track/2DmNhvPUecofT7Zu7DJxS1"
-    },
-    {
-      "added_at": "2020-11-20 21:27:18",
-      "album": {
         "name": "Transplants",
         "url": "https://open.spotify.com/album/0lf0Mw6dwcAWxIIVXEv0fQ"
       },
@@ -979,18 +963,18 @@
     {
       "added_at": "2020-11-20 21:27:18",
       "album": {
-        "name": "She's A God",
-        "url": "https://open.spotify.com/album/69MzaYbPgU7af0CPD5Ck1s"
+        "name": "High Hopes",
+        "url": "https://open.spotify.com/album/4TGgIBpUlNWUnVFIAx7P8w"
       },
       "artists": [
         {
-          "name": "Neck Deep",
-          "url": "https://open.spotify.com/artist/2TM0qnbJH4QPhGMCdPt7fH"
+          "name": "Yours Truly",
+          "url": "https://open.spotify.com/artist/76NpRNEWMaNdOudixwOPRo"
         }
       ],
-      "duration_ms": 200330,
-      "name": "She's A God",
-      "url": "https://open.spotify.com/track/3rmVrevtGa5y7wieirt7rZ"
+      "duration_ms": 231400,
+      "name": "High Hopes",
+      "url": "https://open.spotify.com/track/2DmNhvPUecofT7Zu7DJxS1"
     },
     {
       "added_at": "2020-11-20 21:27:18",
@@ -1023,6 +1007,22 @@
       "duration_ms": 199416,
       "name": "She's Quiet",
       "url": "https://open.spotify.com/track/3YUJ8NyZfqeDcI5815TuXw"
+    },
+    {
+      "added_at": "2020-11-20 21:27:18",
+      "album": {
+        "name": "She's A God",
+        "url": "https://open.spotify.com/album/69MzaYbPgU7af0CPD5Ck1s"
+      },
+      "artists": [
+        {
+          "name": "Neck Deep",
+          "url": "https://open.spotify.com/artist/2TM0qnbJH4QPhGMCdPt7fH"
+        }
+      ],
+      "duration_ms": 200330,
+      "name": "She's A God",
+      "url": "https://open.spotify.com/track/3rmVrevtGa5y7wieirt7rZ"
     },
     {
       "added_at": "2020-11-20 21:27:18",
@@ -1359,22 +1359,6 @@
     {
       "added_at": "2020-11-20 21:27:18",
       "album": {
-        "name": "Shapeshifter",
-        "url": "https://open.spotify.com/album/1ljgNdyFCcnQxAbzejZrax"
-      },
-      "artists": [
-        {
-          "name": "Knuckle Puck",
-          "url": "https://open.spotify.com/artist/5ABfpj7Z00wfPiv2uW4MFm"
-        }
-      ],
-      "duration_ms": 185419,
-      "name": "Gone",
-      "url": "https://open.spotify.com/track/2MyUIH6eOOfzgxAEw8qz5R"
-    },
-    {
-      "added_at": "2020-11-20 21:27:18",
-      "album": {
         "name": "Composure",
         "url": "https://open.spotify.com/album/574qjeKnYHIU246L4MMNbX"
       },
@@ -1387,6 +1371,22 @@
       "duration_ms": 193280,
       "name": "Me First",
       "url": "https://open.spotify.com/track/72yApMP8fkW15lWdMjerBp"
+    },
+    {
+      "added_at": "2020-11-20 21:27:18",
+      "album": {
+        "name": "Shapeshifter",
+        "url": "https://open.spotify.com/album/1ljgNdyFCcnQxAbzejZrax"
+      },
+      "artists": [
+        {
+          "name": "Knuckle Puck",
+          "url": "https://open.spotify.com/artist/5ABfpj7Z00wfPiv2uW4MFm"
+        }
+      ],
+      "duration_ms": 185419,
+      "name": "Gone",
+      "url": "https://open.spotify.com/track/2MyUIH6eOOfzgxAEw8qz5R"
     },
     {
       "added_at": "2020-11-20 21:27:18",

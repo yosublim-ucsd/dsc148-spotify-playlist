@@ -1,12 +1,12 @@
 {
   "description": "Let the songs speak. Cover: VEDO",
-  "num_followers": 43069,
+  "num_followers": 43067,
   "original_name": "Some Kinda Way",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiYzczNjNlMDc0MTAzNTdlMTNlOGY5YmQ3YjQzZWJlNjRiODc2ZWRh",
+  "snapshot_id": "MCw4ODEwMWU2YWM2NDYxNmY5ZjVhNjA5NGNmNTA1MzhlZWY4ODZhYzVm",
   "tracks": [
     {
       "added_at": "2023-10-06 04:00:00",
@@ -561,6 +561,22 @@
       "url": "https://open.spotify.com/track/7bUdqWKa9h02dNfnj3YfAO"
     },
     {
+      "added_at": "2023-03-03 05:16:10",
+      "album": {
+        "name": "Overrated",
+        "url": "https://open.spotify.com/album/3AtfoVhfF6k3scHxvOz5iL"
+      },
+      "artists": [
+        {
+          "name": "Kenya Vaun",
+          "url": "https://open.spotify.com/artist/34lwpzvwbRDx9hnbQkwbJk"
+        }
+      ],
+      "duration_ms": 187484,
+      "name": "Overrated",
+      "url": "https://open.spotify.com/track/70Kv6vWsCZeQryTBebFvbX"
+    },
+    {
       "added_at": "2022-10-21 04:00:00",
       "album": {
         "name": "Ready",
@@ -591,22 +607,6 @@
       "duration_ms": 205369,
       "name": "Fake Love",
       "url": "https://open.spotify.com/track/4WKCqaRaYMKbDhw9rSdIUI"
-    },
-    {
-      "added_at": "2023-03-03 05:16:10",
-      "album": {
-        "name": "Overrated",
-        "url": "https://open.spotify.com/album/3AtfoVhfF6k3scHxvOz5iL"
-      },
-      "artists": [
-        {
-          "name": "Kenya Vaun",
-          "url": "https://open.spotify.com/artist/34lwpzvwbRDx9hnbQkwbJk"
-        }
-      ],
-      "duration_ms": 187484,
-      "name": "Overrated",
-      "url": "https://open.spotify.com/track/70Kv6vWsCZeQryTBebFvbX"
     },
     {
       "added_at": "2023-05-19 04:00:00",
@@ -825,22 +825,6 @@
       "url": "https://open.spotify.com/track/40K5pLCfoUzZDWZwMFUZ7V"
     },
     {
-      "added_at": "2023-04-07 04:00:00",
-      "album": {
-        "name": "Kissing On Your Tattoos",
-        "url": "https://open.spotify.com/album/4WnGoXv9inlFuNT75MScMN"
-      },
-      "artists": [
-        {
-          "name": "Yung Bleu",
-          "url": "https://open.spotify.com/artist/3KNIG74xSTc3dj0TRy7pGX"
-        }
-      ],
-      "duration_ms": 153599,
-      "name": "Kissing On Your Tattoos",
-      "url": "https://open.spotify.com/track/0WdifxR7rIz3kI2Qhv0C7H"
-    },
-    {
       "added_at": "2023-04-21 04:00:00",
       "album": {
         "name": "Sin on Purpose",
@@ -855,6 +839,22 @@
       "duration_ms": 143360,
       "name": "Sin on Purpose",
       "url": "https://open.spotify.com/track/49kfmYktbmzmjrZ6dhiVo8"
+    },
+    {
+      "added_at": "2023-04-07 04:00:00",
+      "album": {
+        "name": "Kissing On Your Tattoos",
+        "url": "https://open.spotify.com/album/4WnGoXv9inlFuNT75MScMN"
+      },
+      "artists": [
+        {
+          "name": "Yung Bleu",
+          "url": "https://open.spotify.com/artist/3KNIG74xSTc3dj0TRy7pGX"
+        }
+      ],
+      "duration_ms": 153599,
+      "name": "Kissing On Your Tattoos",
+      "url": "https://open.spotify.com/track/0WdifxR7rIz3kI2Qhv0C7H"
     },
     {
       "added_at": "2023-06-16 05:24:07",
@@ -913,6 +913,22 @@
       "url": "https://open.spotify.com/track/2IkJZzXP6fg0A7WOpp1xAE"
     },
     {
+      "added_at": "2023-07-28 08:00:10",
+      "album": {
+        "name": "Pretty Ass Bish",
+        "url": "https://open.spotify.com/album/2h9UYKJHwFPF25rg28AQj8"
+      },
+      "artists": [
+        {
+          "name": "Che Ecru",
+          "url": "https://open.spotify.com/artist/45AMD9qU0ERQY5RvR7deHR"
+        }
+      ],
+      "duration_ms": 143743,
+      "name": "Pretty Ass Bish",
+      "url": "https://open.spotify.com/track/1UbTy9jNH2JdFrkehNv8J8"
+    },
+    {
       "added_at": "2022-12-16 05:00:00",
       "album": {
         "name": "Meet Me Upstrz",
@@ -929,20 +945,20 @@
       "url": "https://open.spotify.com/track/4w1tInexl8p2Tc13q2T1NI"
     },
     {
-      "added_at": "2023-07-28 08:00:10",
+      "added_at": "2023-07-21 04:00:00",
       "album": {
-        "name": "Pretty Ass Bish",
-        "url": "https://open.spotify.com/album/2h9UYKJHwFPF25rg28AQj8"
+        "name": "Nuclear Reactor",
+        "url": "https://open.spotify.com/album/0PIMYn5bA5pRN6vNfpezm6"
       },
       "artists": [
         {
-          "name": "Che Ecru",
-          "url": "https://open.spotify.com/artist/45AMD9qU0ERQY5RvR7deHR"
+          "name": "OSA",
+          "url": "https://open.spotify.com/artist/13wBNPUEHHtM5rjD9u6BYW"
         }
       ],
-      "duration_ms": 143743,
-      "name": "Pretty Ass Bish",
-      "url": "https://open.spotify.com/track/1UbTy9jNH2JdFrkehNv8J8"
+      "duration_ms": 195498,
+      "name": "Nuclear Reactor",
+      "url": "https://open.spotify.com/track/12P1Scb3vywGXUU5LdJIxi"
     },
     {
       "added_at": "2023-02-10 05:00:00",
@@ -995,22 +1011,6 @@
       "duration_ms": 194160,
       "name": "Timeless",
       "url": "https://open.spotify.com/track/4xs4pD7Piz2HyQgdMcobKd"
-    },
-    {
-      "added_at": "2023-07-21 04:00:00",
-      "album": {
-        "name": "Nuclear Reactor",
-        "url": "https://open.spotify.com/album/0PIMYn5bA5pRN6vNfpezm6"
-      },
-      "artists": [
-        {
-          "name": "OSA",
-          "url": "https://open.spotify.com/artist/13wBNPUEHHtM5rjD9u6BYW"
-        }
-      ],
-      "duration_ms": 195498,
-      "name": "Nuclear Reactor",
-      "url": "https://open.spotify.com/track/12P1Scb3vywGXUU5LdJIxi"
     },
     {
       "added_at": "2023-02-17 05:00:00",
@@ -1129,26 +1129,6 @@
       "url": "https://open.spotify.com/track/7ewblRqDhpyWHdZd0taBB1"
     },
     {
-      "added_at": "2023-03-03 05:16:10",
-      "album": {
-        "name": "Swerve",
-        "url": "https://open.spotify.com/album/4bwRO6SKUjysjbdYZz2f8u"
-      },
-      "artists": [
-        {
-          "name": "Dende",
-          "url": "https://open.spotify.com/artist/0xq4TZno4XwBzkbLnBAhlF"
-        },
-        {
-          "name": "Eimaral Sol",
-          "url": "https://open.spotify.com/artist/1WSDSHfrAxY3kkUjmd9zeH"
-        }
-      ],
-      "duration_ms": 199563,
-      "name": "Swerve",
-      "url": "https://open.spotify.com/track/73Vj0bDzuk77zsgxA0ujKG"
-    },
-    {
       "added_at": "2023-02-17 05:00:00",
       "album": {
         "name": "What It Do",
@@ -1169,24 +1149,24 @@
       "url": "https://open.spotify.com/track/6KkeXDWP0gvoJkouKmF6De"
     },
     {
-      "added_at": "2023-07-21 04:00:00",
+      "added_at": "2023-03-03 05:16:10",
       "album": {
-        "name": "Presence",
-        "url": "https://open.spotify.com/album/7qLaG83ajGXlT4qwVwZNXs"
+        "name": "Swerve",
+        "url": "https://open.spotify.com/album/4bwRO6SKUjysjbdYZz2f8u"
       },
       "artists": [
         {
-          "name": "Gemaine",
-          "url": "https://open.spotify.com/artist/6WnCnGe06iOO6fTPYAPF03"
+          "name": "Dende",
+          "url": "https://open.spotify.com/artist/0xq4TZno4XwBzkbLnBAhlF"
         },
         {
-          "name": "Jacob Latimore",
-          "url": "https://open.spotify.com/artist/7t7KCNFOwuMChaQg6L8I69"
+          "name": "Eimaral Sol",
+          "url": "https://open.spotify.com/artist/1WSDSHfrAxY3kkUjmd9zeH"
         }
       ],
-      "duration_ms": 184736,
-      "name": "Presence",
-      "url": "https://open.spotify.com/track/2Yld53VYV6QE7Dy7uqYHHD"
+      "duration_ms": 199563,
+      "name": "Swerve",
+      "url": "https://open.spotify.com/track/73Vj0bDzuk77zsgxA0ujKG"
     },
     {
       "added_at": "2023-06-02 04:00:00",
@@ -1207,6 +1187,26 @@
       "duration_ms": 203136,
       "name": "Stay",
       "url": "https://open.spotify.com/track/4PKOBlfJKfaPzD1fWCaKmL"
+    },
+    {
+      "added_at": "2023-07-21 04:00:00",
+      "album": {
+        "name": "Presence",
+        "url": "https://open.spotify.com/album/7qLaG83ajGXlT4qwVwZNXs"
+      },
+      "artists": [
+        {
+          "name": "Gemaine",
+          "url": "https://open.spotify.com/artist/6WnCnGe06iOO6fTPYAPF03"
+        },
+        {
+          "name": "Jacob Latimore",
+          "url": "https://open.spotify.com/artist/7t7KCNFOwuMChaQg6L8I69"
+        }
+      ],
+      "duration_ms": 184736,
+      "name": "Presence",
+      "url": "https://open.spotify.com/track/2Yld53VYV6QE7Dy7uqYHHD"
     },
     {
       "added_at": "2022-09-30 04:04:59",
@@ -1669,22 +1669,6 @@
       "url": "https://open.spotify.com/track/3Pf6GfPT5emtTRghA3u7HC"
     },
     {
-      "added_at": "2023-08-18 04:00:00",
-      "album": {
-        "name": "C+A",
-        "url": "https://open.spotify.com/album/27yBMv7dvHS7Lvi3Mpfh6X"
-      },
-      "artists": [
-        {
-          "name": "SAHXL",
-          "url": "https://open.spotify.com/artist/4vPtTSgLvrvLnk1mYnTI7h"
-        }
-      ],
-      "duration_ms": 159225,
-      "name": "C+A",
-      "url": "https://open.spotify.com/track/6JMSuPOANWkvzhjlHB7P96"
-    },
-    {
       "added_at": "2023-03-31 04:00:00",
       "album": {
         "name": "Riptide",
@@ -1701,20 +1685,20 @@
       "url": "https://open.spotify.com/track/2gZfjMGvp0mwR8bdiv9SBG"
     },
     {
-      "added_at": "2023-09-22 04:00:00",
+      "added_at": "2023-08-18 04:00:00",
       "album": {
-        "name": "OMM (ON MY MIND)",
-        "url": "https://open.spotify.com/album/4mymgTMpML68SYUEklclr4"
+        "name": "C+A",
+        "url": "https://open.spotify.com/album/27yBMv7dvHS7Lvi3Mpfh6X"
       },
       "artists": [
         {
-          "name": "Jor'dan Armstrong",
-          "url": "https://open.spotify.com/artist/2s0Vf0XkLyHCQfyvFDnTi8"
+          "name": "SAHXL",
+          "url": "https://open.spotify.com/artist/4vPtTSgLvrvLnk1mYnTI7h"
         }
       ],
-      "duration_ms": 192555,
-      "name": "OMM (ON MY MIND)",
-      "url": "https://open.spotify.com/track/2Z5hM3KQYNgupmC93TggBl"
+      "duration_ms": 159225,
+      "name": "C+A",
+      "url": "https://open.spotify.com/track/6JMSuPOANWkvzhjlHB7P96"
     },
     {
       "added_at": "2023-03-10 05:00:00",
@@ -1733,6 +1717,22 @@
       "url": "https://open.spotify.com/track/74cfwBYBzG8QOvxcBZBeKE"
     },
     {
+      "added_at": "2023-09-22 04:00:00",
+      "album": {
+        "name": "OMM (ON MY MIND)",
+        "url": "https://open.spotify.com/album/4mymgTMpML68SYUEklclr4"
+      },
+      "artists": [
+        {
+          "name": "Jor'dan Armstrong",
+          "url": "https://open.spotify.com/artist/2s0Vf0XkLyHCQfyvFDnTi8"
+        }
+      ],
+      "duration_ms": 192555,
+      "name": "OMM (ON MY MIND)",
+      "url": "https://open.spotify.com/track/2Z5hM3KQYNgupmC93TggBl"
+    },
+    {
       "added_at": "2023-06-16 05:24:07",
       "album": {
         "name": "Pretty Conversation",
@@ -1749,20 +1749,20 @@
       "url": "https://open.spotify.com/track/282Gfam1HA1HeQLINewp9V"
     },
     {
-      "added_at": "2023-06-23 04:00:00",
+      "added_at": "2023-06-09 04:00:00",
       "album": {
-        "name": "Toxic",
-        "url": "https://open.spotify.com/album/2ZibN1oYDxhohvvdKuhb93"
+        "name": "Take Control",
+        "url": "https://open.spotify.com/album/4tgqTwEENoVMhIOk8y9eGa"
       },
       "artists": [
         {
-          "name": "Liyah Katana",
-          "url": "https://open.spotify.com/artist/4NoMOvHrwo6D39dNV6ntzu"
+          "name": "Nbdy",
+          "url": "https://open.spotify.com/artist/1fQWUHoSWhlrc9rmHi2xnE"
         }
       ],
-      "duration_ms": 153386,
-      "name": "TOXIC",
-      "url": "https://open.spotify.com/track/2KbtgZpqmeAbjBDuW5HtDM"
+      "duration_ms": 143903,
+      "name": "Karma",
+      "url": "https://open.spotify.com/track/2AQoGOVd3PT40O7xZ2Qojq"
     }
   ],
   "unique_name": "Some Kinda Way",

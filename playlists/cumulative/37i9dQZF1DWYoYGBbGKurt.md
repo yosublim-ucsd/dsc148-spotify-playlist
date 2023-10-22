@@ -4,7 +4,7 @@
 
 > Lazy slow lofi beats for laid\-back moments.
 
-1,615 songs - 2 day 14 hr 13 min
+1,616 songs - 2 day 14 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -170,7 +170,8 @@
 | [Blue Skies](https://open.spotify.com/track/0tDRTPduFjI70EiYXNN92W) | [Aoko](https://open.spotify.com/artist/2AneE7YpS3dgN9XjDgv2pO), [brass.beats](https://open.spotify.com/artist/12j0D8vG0bxUv8sPoV61So) | [Blue Skies](https://open.spotify.com/album/2lOJHbB1CbKAX7zpHI5riG) | 2:36 | 2022-09-16 | 2022-12-24 |
 | [Blue Sky](https://open.spotify.com/track/72wU2pULJn543SMa52Y0lH) | [.GR](https://open.spotify.com/artist/1OMpdIjoqWbL5f559HWCA9) | [Blue Sky](https://open.spotify.com/album/5u6mLR1LxLF2XFILsJCerf) | 2:19 | 2022-09-23 | 2022-12-24 |
 | [Blueberry](https://open.spotify.com/track/0VEOJhK5Pf6HLKD5a9FHVN) | [Otis Neon](https://open.spotify.com/artist/3GMuWlPjxsaDOInrqPP1k5) | [Blueberry](https://open.spotify.com/album/5uab19M3OkQEGScyvDvkXu) | 1:42 | 2023-03-01 | 2023-08-22 |
-| [Blunotte](https://open.spotify.com/track/7xJ9d7j9fcB2czQyPbLyhy) | [Koralle](https://open.spotify.com/artist/3OW3qK7Wl9ESAGLvjVOw2h), [FloFilz](https://open.spotify.com/artist/39ZQx0618UYVBgGTDOJ2ds) | [Blunotte](https://open.spotify.com/album/5U5C9RGGsnUR5okigKTANF) | 2:22 | 2023-06-05 |  |
+| [Blunotte](https://open.spotify.com/track/425HNsoUUAUGNPFbPZuyE2) | [Koralle](https://open.spotify.com/artist/3OW3qK7Wl9ESAGLvjVOw2h), [FloFilz](https://open.spotify.com/artist/39ZQx0618UYVBgGTDOJ2ds) | [Insomnia](https://open.spotify.com/album/0B79D0ahoTfJSul9Gx7SIJ) | 2:22 | 2023-10-20 |  |
+| [Blunotte](https://open.spotify.com/track/7xJ9d7j9fcB2czQyPbLyhy) | [Koralle](https://open.spotify.com/artist/3OW3qK7Wl9ESAGLvjVOw2h), [FloFilz](https://open.spotify.com/artist/39ZQx0618UYVBgGTDOJ2ds) | [Blunotte](https://open.spotify.com/album/5U5C9RGGsnUR5okigKTANF) | 2:22 | 2023-06-05 | 2023-10-22 |
 | [blunt smokers](https://open.spotify.com/track/6e47tJyzfjkGhrQrm8xu6Y) | [DAISI](https://open.spotify.com/artist/6puAtSfW1mN8JoGYgG1x2i) | [blunt smokers](https://open.spotify.com/album/5LPdm1VBxSUkDVcyo7ImKY) | 1:49 | 2023-07-13 |  |
 | [Blush](https://open.spotify.com/track/6smVZWU1IXU6HCGR5DN61g) | [Kyoto Dreams](https://open.spotify.com/artist/4iEdyYO8Va1fewpUAi6Mt2) | [Blush](https://open.spotify.com/album/6jWdLsVGwOaMVZlU5WIQ3V) | 2:37 | 2021-12-07 | 2022-08-05 |
 | [Boarded](https://open.spotify.com/track/3TYZ8OUPMZ0O6AiMRmv5lP) | [Sidual.](https://open.spotify.com/artist/5ghUUQxtMMankpzWRxckkI) | [Boarded](https://open.spotify.com/album/0971OYZtfCZfegzT2TDmqh) | 2:20 | 2021-12-07 | 2022-04-22 |

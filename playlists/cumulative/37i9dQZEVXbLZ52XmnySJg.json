@@ -1301,6 +1301,24 @@
     },
     {
       "album": {
+        "name": "Leo (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/2nZKDF0ZFy0Pv7uMakAwZh"
+      },
+      "artists": [
+        {
+          "name": "Anirudh Ravichander",
+          "url": "https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O"
+        }
+      ],
+      "date_added": "2023-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229677,
+      "name": "Badass",
+      "url": "https://open.spotify.com/track/23y8MwhdvbSalGitHeokpk"
+    },
+    {
+      "album": {
         "name": "Badass (From \"Leo\")",
         "url": "https://open.spotify.com/album/4f9WYw6XMUlo3O9dJ15HvP"
       },
@@ -1312,7 +1330,7 @@
       ],
       "date_added": "2023-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-22",
       "duration_ms": 229677,
       "name": "Badass (From \"Leo\")",
       "url": "https://open.spotify.com/track/32qnBgfzURbwNayQIEB5W5"
@@ -1936,7 +1954,7 @@
       ],
       "date_added": "2023-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-22",
       "duration_ms": 220943,
       "name": "Blue Eyes",
       "url": "https://open.spotify.com/track/7wW9scVNLYFLsmBb1yAUmS"
@@ -2397,7 +2415,7 @@
         },
         {
           "name": "Intense",
-          "url": "https://open.spotify.com/artist/4RoQtkwhuRs1MivL5XuB4E"
+          "url": "https://open.spotify.com/artist/0OS0NZnK7TGIAWx8MkWNFN"
         }
       ],
       "date_added": "2023-10-12",
@@ -7294,7 +7312,7 @@
       ],
       "date_added": "2021-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-22",
       "duration_ms": 234722,
       "name": "Kaise Hua (From \"Kabir Singh\")",
       "url": "https://open.spotify.com/track/1y1rQTkWmrZdJmjwuK07GC"
@@ -8131,7 +8149,7 @@
         },
         {
           "name": "Intense",
-          "url": "https://open.spotify.com/artist/4RoQtkwhuRs1MivL5XuB4E"
+          "url": "https://open.spotify.com/artist/0OS0NZnK7TGIAWx8MkWNFN"
         },
         {
           "name": "Sultaan",
@@ -8518,6 +8536,24 @@
       "duration_ms": 156330,
       "name": "Lokiverse - Background Score",
       "url": "https://open.spotify.com/track/209pScL6fUhISxcLWkB6rf"
+    },
+    {
+      "album": {
+        "name": "Leo (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/2nZKDF0ZFy0Pv7uMakAwZh"
+      },
+      "artists": [
+        {
+          "name": "Anirudh Ravichander",
+          "url": "https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O"
+        }
+      ],
+      "date_added": "2023-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 114193,
+      "name": "Lokiverse 2.0",
+      "url": "https://open.spotify.com/track/5OxVOeYmIzelfupJtq1X6G"
     },
     {
       "album": {
@@ -10389,6 +10425,32 @@
     },
     {
       "album": {
+        "name": "Leo (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/2nZKDF0ZFy0Pv7uMakAwZh"
+      },
+      "artists": [
+        {
+          "name": "Anirudh Ravichander",
+          "url": "https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O"
+        },
+        {
+          "name": "Thalapathy Vijay",
+          "url": "https://open.spotify.com/artist/0fhunuOz2OuOEr3YK5ctSm"
+        },
+        {
+          "name": "Asal Kolaar",
+          "url": "https://open.spotify.com/artist/4b1WCDqAVVgxK7KozLkOqc"
+        }
+      ],
+      "date_added": "2023-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248181,
+      "name": "Naa Ready",
+      "url": "https://open.spotify.com/track/13ZISM2bmrMBCRlMzl669x"
+    },
+    {
+      "album": {
         "name": "Naa Ready (From \"Leo\")",
         "url": "https://open.spotify.com/album/7qRoSVSyHeA9qtOXUpBwRI"
       },
@@ -10408,7 +10470,7 @@
       ],
       "date_added": "2023-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-22",
       "duration_ms": 248181,
       "name": "Naa Ready (From \"Leo\")",
       "url": "https://open.spotify.com/track/1B02UI29t3PTh3m98absaP"
@@ -10846,7 +10908,7 @@
       ],
       "date_added": "2023-09-10",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-20",
+      "date_removed": null,
       "duration_ms": 202556,
       "name": "Not Ramaiya Vastavaiya",
       "url": "https://open.spotify.com/track/5inzjqKe05zP1eInEO8O1i"

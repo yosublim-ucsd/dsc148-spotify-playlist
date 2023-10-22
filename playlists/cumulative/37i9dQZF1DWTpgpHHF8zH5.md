@@ -4,7 +4,7 @@
 
 > Musica per sorridere, darti la carica e affrontare la giornata!
 
-337 songs - 17 hr 11 min
+338 songs - 17 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -141,7 +141,8 @@
 | [Here Comes The Sun \- Remastered 2009](https://open.spotify.com/track/6dGnYIeXmHdcikdzNNDMm2) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [Abbey Road \(Remastered\)](https://open.spotify.com/album/0ETFjACtuP2ADo6LFhL6HN) | 3:05 | 2022-07-22 | 2022-09-24 |
 | [Hold On](https://open.spotify.com/track/4u4NyuceXP7Uzh7XFJKCr1) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [Hold On](https://open.spotify.com/album/1btu3XEwHsImFreF8dVV6J) | 2:50 | 2022-07-22 |  |
 | [Holiday](https://open.spotify.com/track/0GfCR4T6WOErZOw1557ln7) | [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [Holiday / Reason You](https://open.spotify.com/album/1NbIj94iC99QFhVA1nBuGX) | 2:39 | 2023-02-17 | 2023-03-25 |
-| [Homesick](https://open.spotify.com/track/4xJJc0HHDDSRb202uqDbsc) | [Kállay Saunders](https://open.spotify.com/artist/7DJiupNnzTkhLPygjCaVKj) | [Homesick](https://open.spotify.com/album/6fFU7FRsq7htaCfTsHAkCn) | 2:44 | 2023-04-20 |  |
+| [Homesick](https://open.spotify.com/track/0uuIhWZb3Q2QqzDcBAKoYz) | [Kállay Saunders](https://open.spotify.com/artist/7DJiupNnzTkhLPygjCaVKj) | [Homesick](https://open.spotify.com/album/5OFe2ng2xlcSALvSJslaTQ) | 2:44 | 2023-10-18 |  |
+| [Homesick](https://open.spotify.com/track/4xJJc0HHDDSRb202uqDbsc) | [Kállay Saunders](https://open.spotify.com/artist/7DJiupNnzTkhLPygjCaVKj) | [Homesick](https://open.spotify.com/album/6fFU7FRsq7htaCfTsHAkCn) | 2:44 | 2023-04-20 | 2023-10-22 |
 | [Hundred Miles](https://open.spotify.com/track/38muRUB5vaK3pW0Iu4A0iZ) | [Yall](https://open.spotify.com/artist/0ZRBa9pTfhhCsJW95F1ugg), [Gabriela Richardson](https://open.spotify.com/artist/69YKwunlA0xl2yMS12cyMu) | [Hundred Miles](https://open.spotify.com/album/7E9LC8e041XMFN7w25Ovde) | 2:52 | 2023-01-10 |  |
 | [I & I](https://open.spotify.com/track/6pBJ7HhuCdbBD8BzAJd2Hu) | [Jubël](https://open.spotify.com/artist/4FcZfItjVIsfO9TynErl7X) | [I & I](https://open.spotify.com/album/2LwFUHCNwdosCBH6mkeqfg) | 3:19 | 2022-05-06 | 2022-07-29 |
 | [I Ain't Worried](https://open.spotify.com/track/4h9wh7iOZ0GGn8QVp4RAOB) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [I Ain’t Worried \(Music From The Motion Picture "Top Gun: Maverick"\)](https://open.spotify.com/album/04PEOM6kIEeq9lRp1asNP2) | 2:28 | 2022-05-19 |  |

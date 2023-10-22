@@ -1,12 +1,12 @@
 {
   "description": "De Argentina para el mundo, los m\u00e1s destacados int\u00e9rpretes y compositores. Foto: Roxana Amed.",
-  "num_followers": 31326,
+  "num_followers": 31338,
   "original_name": "Jazz Argentino",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjNzY1MWEzNjkxNjBjYWNiNmJiMjY1Y2IyYmE5MjFjMTJjN2MxZDQ5",
+  "snapshot_id": "MCw2MGY0OTA3MmVkYjU2ODMzYzk4ZDgwYTc1M2VlNjI4YmU4ZmVjMWRm",
   "tracks": [
     {
       "added_at": "2023-08-11 14:55:45",
@@ -531,6 +531,22 @@
     {
       "added_at": "2023-08-11 14:55:45",
       "album": {
+        "name": "Jazz Argentino",
+        "url": "https://open.spotify.com/album/6t7ajkFism3z8iKREL1Keg"
+      },
+      "artists": [
+        {
+          "name": "Baby L\u00f3pez Furst",
+          "url": "https://open.spotify.com/artist/6gZQ1gJJ069kkcJogwx5l7"
+        }
+      ],
+      "duration_ms": 303186,
+      "name": "Una Abeja Durmiente",
+      "url": "https://open.spotify.com/track/6wCpCPfH7jPgwYv3srAfMn"
+    },
+    {
+      "added_at": "2023-08-11 14:55:45",
+      "album": {
         "name": "El Bosque Brillante",
         "url": "https://open.spotify.com/album/3HirbZyCVagyslZeWB2HHg"
       },
@@ -563,22 +579,6 @@
     {
       "added_at": "2023-08-11 14:55:45",
       "album": {
-        "name": "All of Me",
-        "url": "https://open.spotify.com/album/3mpL1WNuZK9uPnYoLHojkE"
-      },
-      "artists": [
-        {
-          "name": "Walter Malosetti",
-          "url": "https://open.spotify.com/artist/2UemHWCXZWSkmxElFolmVp"
-        }
-      ],
-      "duration_ms": 279640,
-      "name": "There Will Never Be Another You",
-      "url": "https://open.spotify.com/track/4KL3VTE99YiRXtnfCouTWD"
-    },
-    {
-      "added_at": "2023-08-11 14:55:45",
-      "album": {
         "name": "ONTOLOGY",
         "url": "https://open.spotify.com/album/2Orbo9LLzUgeGYLv7Y13ZS"
       },
@@ -595,6 +595,22 @@
       "duration_ms": 345370,
       "name": "El Regreso (feat. Martin Bejerano)",
       "url": "https://open.spotify.com/track/35YdBVFv2Oij9ve8P6FP5F"
+    },
+    {
+      "added_at": "2023-08-11 14:55:45",
+      "album": {
+        "name": "All of Me",
+        "url": "https://open.spotify.com/album/3mpL1WNuZK9uPnYoLHojkE"
+      },
+      "artists": [
+        {
+          "name": "Walter Malosetti",
+          "url": "https://open.spotify.com/artist/2UemHWCXZWSkmxElFolmVp"
+        }
+      ],
+      "duration_ms": 279640,
+      "name": "There Will Never Be Another You",
+      "url": "https://open.spotify.com/track/4KL3VTE99YiRXtnfCouTWD"
     },
     {
       "added_at": "2023-08-11 14:55:45",
@@ -635,22 +651,6 @@
     {
       "added_at": "2023-08-11 14:55:45",
       "album": {
-        "name": "Jazz Argentino",
-        "url": "https://open.spotify.com/album/6t7ajkFism3z8iKREL1Keg"
-      },
-      "artists": [
-        {
-          "name": "Baby L\u00f3pez Furst",
-          "url": "https://open.spotify.com/artist/6gZQ1gJJ069kkcJogwx5l7"
-        }
-      ],
-      "duration_ms": 303186,
-      "name": "Una Abeja Durmiente",
-      "url": "https://open.spotify.com/track/6wCpCPfH7jPgwYv3srAfMn"
-    },
-    {
-      "added_at": "2023-08-11 14:55:45",
-      "album": {
         "name": "De Este Lado",
         "url": "https://open.spotify.com/album/1jChxnoLvKbJcLkf9Oku8G"
       },
@@ -675,22 +675,6 @@
       "duration_ms": 471146,
       "name": "Promesas Sobre el Bidet",
       "url": "https://open.spotify.com/track/10U3XS2qEsDX8YUErjgMeJ"
-    },
-    {
-      "added_at": "2023-08-11 14:55:45",
-      "album": {
-        "name": "Lua",
-        "url": "https://open.spotify.com/album/593aZvfhvWuTuAtHrlOhbs"
-      },
-      "artists": [
-        {
-          "name": "Hern\u00e1n Jacinto",
-          "url": "https://open.spotify.com/artist/3waJSGCslQ87FHecJ3aRpl"
-        }
-      ],
-      "duration_ms": 251376,
-      "name": "Arenales Blues",
-      "url": "https://open.spotify.com/track/5OoRI3CMMFFJOz619NVzXI"
     },
     {
       "added_at": "2023-08-11 14:55:45",
@@ -767,6 +751,22 @@
     {
       "added_at": "2023-08-11 14:55:45",
       "album": {
+        "name": "Lua",
+        "url": "https://open.spotify.com/album/593aZvfhvWuTuAtHrlOhbs"
+      },
+      "artists": [
+        {
+          "name": "Hern\u00e1n Jacinto",
+          "url": "https://open.spotify.com/artist/3waJSGCslQ87FHecJ3aRpl"
+        }
+      ],
+      "duration_ms": 251376,
+      "name": "Arenales Blues",
+      "url": "https://open.spotify.com/track/5OoRI3CMMFFJOz619NVzXI"
+    },
+    {
+      "added_at": "2023-08-11 14:55:45",
+      "album": {
         "name": "Wallflower",
         "url": "https://open.spotify.com/album/3830K875C6mYbKSPfd5F7u"
       },
@@ -839,34 +839,6 @@
     {
       "added_at": "2023-08-11 14:55:45",
       "album": {
-        "name": "Pettinato Plays Garc\u00eda",
-        "url": "https://open.spotify.com/album/4gQalZNL9vDaIu2FkTjaiO"
-      },
-      "artists": [
-        {
-          "name": "Roberto Pettinato",
-          "url": "https://open.spotify.com/artist/1RhJ2fO0OeSKrLoYRGCrb5"
-        },
-        {
-          "name": "Andr\u00e9s Marino",
-          "url": "https://open.spotify.com/artist/0ZLoxnTo4vfJHdHBV93CnP"
-        },
-        {
-          "name": "Hern\u00e1n Cassibba",
-          "url": "https://open.spotify.com/artist/0Ot2klGEPr9a6SasU8SxP8"
-        },
-        {
-          "name": "Omar Menendez",
-          "url": "https://open.spotify.com/artist/6UvK0mGX8XoVtbYUImxvKK"
-        }
-      ],
-      "duration_ms": 339612,
-      "name": "Veinte Trajes Verdes",
-      "url": "https://open.spotify.com/track/1LVbxSyJpuep1OHKULZwa2"
-    },
-    {
-      "added_at": "2023-08-11 14:55:45",
-      "album": {
         "name": "No Fear",
         "url": "https://open.spotify.com/album/3WObdi8u7iylDJ48ANdfXf"
       },
@@ -899,6 +871,34 @@
       "duration_ms": 402265,
       "name": "Primavera Porte\u00f1a",
       "url": "https://open.spotify.com/track/4kDEbag3hNbXV2A6GUcDYw"
+    },
+    {
+      "added_at": "2023-08-11 14:55:45",
+      "album": {
+        "name": "Pettinato Plays Garc\u00eda",
+        "url": "https://open.spotify.com/album/4gQalZNL9vDaIu2FkTjaiO"
+      },
+      "artists": [
+        {
+          "name": "Roberto Pettinato",
+          "url": "https://open.spotify.com/artist/1RhJ2fO0OeSKrLoYRGCrb5"
+        },
+        {
+          "name": "Andr\u00e9s Marino",
+          "url": "https://open.spotify.com/artist/0ZLoxnTo4vfJHdHBV93CnP"
+        },
+        {
+          "name": "Hern\u00e1n Cassibba",
+          "url": "https://open.spotify.com/artist/0Ot2klGEPr9a6SasU8SxP8"
+        },
+        {
+          "name": "Omar Menendez",
+          "url": "https://open.spotify.com/artist/6UvK0mGX8XoVtbYUImxvKK"
+        }
+      ],
+      "duration_ms": 339612,
+      "name": "Veinte Trajes Verdes",
+      "url": "https://open.spotify.com/track/1LVbxSyJpuep1OHKULZwa2"
     },
     {
       "added_at": "2023-08-11 14:55:45",
@@ -995,6 +995,22 @@
     {
       "added_at": "2023-08-11 14:55:45",
       "album": {
+        "name": "Studio 2",
+        "url": "https://open.spotify.com/album/4uBkzGNVkHVt5GXg12yKLt"
+      },
+      "artists": [
+        {
+          "name": "Escalandrum",
+          "url": "https://open.spotify.com/artist/3QZEbpYuO36TVmqHEbxpkZ"
+        }
+      ],
+      "duration_ms": 327520,
+      "name": "Acu\u00e1tico",
+      "url": "https://open.spotify.com/track/4gXsislzJBKC3iuX9Dc9e1"
+    },
+    {
+      "added_at": "2023-08-11 14:55:45",
+      "album": {
         "name": "En Las Afueras",
         "url": "https://open.spotify.com/album/3HFpmU9TMoadAv0ZX2N6my"
       },
@@ -1059,22 +1075,6 @@
       "duration_ms": 319386,
       "name": "Superestrella",
       "url": "https://open.spotify.com/track/4jB6brPwacdWQsRVBHMZGO"
-    },
-    {
-      "added_at": "2023-08-11 14:55:45",
-      "album": {
-        "name": "Studio 2",
-        "url": "https://open.spotify.com/album/4uBkzGNVkHVt5GXg12yKLt"
-      },
-      "artists": [
-        {
-          "name": "Escalandrum",
-          "url": "https://open.spotify.com/artist/3QZEbpYuO36TVmqHEbxpkZ"
-        }
-      ],
-      "duration_ms": 327520,
-      "name": "Acu\u00e1tico",
-      "url": "https://open.spotify.com/track/4gXsislzJBKC3iuX9Dc9e1"
     },
     {
       "added_at": "2023-08-11 14:55:45",
@@ -1147,26 +1147,6 @@
     {
       "added_at": "2023-08-11 14:55:45",
       "album": {
-        "name": "Mensajes Secretos",
-        "url": "https://open.spotify.com/album/2FutkIdGZozf7lwp0PMk9g"
-      },
-      "artists": [
-        {
-          "name": "Marta Bellomo",
-          "url": "https://open.spotify.com/artist/7x3oAEeK0qQgiuTNbHBFFm"
-        },
-        {
-          "name": "Alejandro Moro",
-          "url": "https://open.spotify.com/artist/0HPnoTmtj7B0nFxvNcLfo7"
-        }
-      ],
-      "duration_ms": 364056,
-      "name": "Desde El Corazon",
-      "url": "https://open.spotify.com/track/4PCBKDDelvSbxLXO72o5DR"
-    },
-    {
-      "added_at": "2023-08-11 14:55:45",
-      "album": {
         "name": "Sesiones 2017-2020",
         "url": "https://open.spotify.com/album/17NlLQlimG217X7OALtTSy"
       },
@@ -1179,22 +1159,6 @@
       "duration_ms": 374748,
       "name": "Nublado",
       "url": "https://open.spotify.com/track/1kVLgCqLkgrBtCVgAJiXuC"
-    },
-    {
-      "added_at": "2023-08-11 14:55:45",
-      "album": {
-        "name": "Inocencia Repetida",
-        "url": "https://open.spotify.com/album/1ovII6dFGZDpvYU47qu4fX"
-      },
-      "artists": [
-        {
-          "name": "Ignacio Montoya Carlotto",
-          "url": "https://open.spotify.com/artist/3XBkATZOl4DCTfQTYpI4fK"
-        }
-      ],
-      "duration_ms": 157533,
-      "name": "Coplas de Luna Quieta",
-      "url": "https://open.spotify.com/track/6wehSI1xwaBBy4U3bUUwZs"
     },
     {
       "added_at": "2023-08-11 14:55:45",
@@ -1235,6 +1199,42 @@
       "duration_ms": 419426,
       "name": "Tatami",
       "url": "https://open.spotify.com/track/2o08Et8AGn8tEusatrFYAJ"
+    },
+    {
+      "added_at": "2023-08-11 14:55:45",
+      "album": {
+        "name": "Mensajes Secretos",
+        "url": "https://open.spotify.com/album/2FutkIdGZozf7lwp0PMk9g"
+      },
+      "artists": [
+        {
+          "name": "Marta Bellomo",
+          "url": "https://open.spotify.com/artist/7x3oAEeK0qQgiuTNbHBFFm"
+        },
+        {
+          "name": "Alejandro Moro",
+          "url": "https://open.spotify.com/artist/0HPnoTmtj7B0nFxvNcLfo7"
+        }
+      ],
+      "duration_ms": 364056,
+      "name": "Desde El Corazon",
+      "url": "https://open.spotify.com/track/4PCBKDDelvSbxLXO72o5DR"
+    },
+    {
+      "added_at": "2023-08-11 14:55:45",
+      "album": {
+        "name": "Inocencia Repetida",
+        "url": "https://open.spotify.com/album/1ovII6dFGZDpvYU47qu4fX"
+      },
+      "artists": [
+        {
+          "name": "Ignacio Montoya Carlotto",
+          "url": "https://open.spotify.com/artist/3XBkATZOl4DCTfQTYpI4fK"
+        }
+      ],
+      "duration_ms": 157533,
+      "name": "Coplas de Luna Quieta",
+      "url": "https://open.spotify.com/track/6wehSI1xwaBBy4U3bUUwZs"
     },
     {
       "added_at": "2023-08-11 14:55:45",
@@ -1347,30 +1347,18 @@
     {
       "added_at": "2023-08-11 14:55:45",
       "album": {
-        "name": "Tr\u00edas",
-        "url": "https://open.spotify.com/album/3r9kmsMm2FztYolno45BT2"
+        "name": "Ausencias",
+        "url": "https://open.spotify.com/album/2dHnj5p5fotsLObRmWJjxM"
       },
       "artists": [
         {
-          "name": "Juan Cruz De Urquiza",
-          "url": "https://open.spotify.com/artist/0nRwYzrk9wrf5ZIsvPuxwl"
-        },
-        {
-          "name": "Hern\u00e1n Jacinto",
-          "url": "https://open.spotify.com/artist/3waJSGCslQ87FHecJ3aRpl"
-        },
-        {
-          "name": "Carlos Alvarez",
-          "url": "https://open.spotify.com/artist/3n4bsQdUztlsnOwCfEYsSI"
-        },
-        {
-          "name": "Carto Brand\u00e1n",
-          "url": "https://open.spotify.com/artist/6V37ntXjzq4ozdp0SYKsmB"
+          "name": "Dino Saluzzi",
+          "url": "https://open.spotify.com/artist/0XsuWf5f3kRzml20heorPz"
         }
       ],
-      "duration_ms": 640853,
-      "name": "Trias",
-      "url": "https://open.spotify.com/track/7sTSysRFQYhAW6SqmCUaaw"
+      "duration_ms": 298880,
+      "name": "Ausencias",
+      "url": "https://open.spotify.com/track/5z53V0J5v7VNZpIOV5bycT"
     }
   ],
   "unique_name": "Jazz Argentino",

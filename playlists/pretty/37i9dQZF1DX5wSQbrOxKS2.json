@@ -1,12 +1,12 @@
 {
   "description": "La discoth\u00e8que id\u00e9ale.",
-  "num_followers": 361193,
+  "num_followers": 361308,
   "original_name": "Quand la musique est bonne !",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlNzdmYjVjMmNmYTg3YjNmNmFjOTIyMDdmZDQyZTFkYzcyYWVhNDhh",
+  "snapshot_id": "MCw0YTE5MGIxODcyMzc3Y2I2N2FkZTllMzgyNWQyOWE5NWMxZDBlMTQ0",
   "tracks": [
     {
       "added_at": "2023-10-12 14:27:47",
@@ -727,22 +727,6 @@
     {
       "added_at": "2023-10-12 14:27:47",
       "album": {
-        "name": "August And Everything After",
-        "url": "https://open.spotify.com/album/4nKfZbCALT9H9LfedtDwnZ"
-      },
-      "artists": [
-        {
-          "name": "Counting Crows",
-          "url": "https://open.spotify.com/artist/0vEsuISMWAKNctLlUAhSZC"
-        }
-      ],
-      "duration_ms": 272293,
-      "name": "Mr. Jones",
-      "url": "https://open.spotify.com/track/5DiXcVovI0FcY2s0icWWUu"
-    },
-    {
-      "added_at": "2023-10-12 14:27:47",
-      "album": {
         "name": "H2O",
         "url": "https://open.spotify.com/album/7ygXmT175bKbOpiPjNwXOB"
       },
@@ -755,6 +739,22 @@
       "duration_ms": 273173,
       "name": "Maneater",
       "url": "https://open.spotify.com/track/7j74lucZ59vqN67Ipe2ZcY"
+    },
+    {
+      "added_at": "2023-10-12 14:27:47",
+      "album": {
+        "name": "August And Everything After",
+        "url": "https://open.spotify.com/album/4nKfZbCALT9H9LfedtDwnZ"
+      },
+      "artists": [
+        {
+          "name": "Counting Crows",
+          "url": "https://open.spotify.com/artist/0vEsuISMWAKNctLlUAhSZC"
+        }
+      ],
+      "duration_ms": 272293,
+      "name": "Mr. Jones",
+      "url": "https://open.spotify.com/track/5DiXcVovI0FcY2s0icWWUu"
     },
     {
       "added_at": "2023-10-12 14:27:47",

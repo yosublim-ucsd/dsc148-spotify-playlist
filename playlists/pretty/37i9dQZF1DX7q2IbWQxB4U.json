@@ -1,12 +1,12 @@
 {
   "description": "De la cuna pa'l mundo. Celebrando la cultura y m\u00fasica de Puerto Rico con los sonidos de la Casa.",
-  "num_followers": 5800,
+  "num_followers": 5811,
   "original_name": "Casa Spotify Puerto Rico",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjM2Q2MWY2ZDM2Y2E0NDgxMjIzN2RjZTY3ZThlZDAxNTI2YWNhM2I0",
+  "snapshot_id": "MCxmYzBmYjI4ZDAyYzExZDNlODE2NmQ5NjEyZjM0YjI4Y2M3MTlhNDk2",
   "tracks": [
     {
       "added_at": "2023-06-27 18:03:27",
@@ -639,8 +639,8 @@
     {
       "added_at": "2023-06-27 18:03:27",
       "album": {
-        "name": "Podemos Repetirlo",
-        "url": "https://open.spotify.com/album/6FRoZB7Ppyz9EVph8nQoJX"
+        "name": "Los Bandoleros",
+        "url": "https://open.spotify.com/album/4g9Ot68iaFXL0z4Zadz7Pw"
       },
       "artists": [
         {
@@ -648,13 +648,13 @@
           "url": "https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z"
         },
         {
-          "name": "Chencho Corleone",
-          "url": "https://open.spotify.com/artist/37230BxxYs9ksS7OkZw3IU"
+          "name": "Tego Calder\u00f3n",
+          "url": "https://open.spotify.com/artist/3SUT1jjM5hzZj9TLfLZGIP"
         }
       ],
-      "duration_ms": 211707,
-      "name": "Podemos Repetirlo",
-      "url": "https://open.spotify.com/track/0If7xxzqs7Dv1SSO2MFKXF"
+      "duration_ms": 305666,
+      "name": "Bandoleros",
+      "url": "https://open.spotify.com/track/4MLSjN1xAevuHXoSs8etwl"
     },
     {
       "added_at": "2023-06-27 18:03:27",
@@ -823,8 +823,8 @@
     {
       "added_at": "2023-06-27 18:03:27",
       "album": {
-        "name": "Los Bandoleros",
-        "url": "https://open.spotify.com/album/4g9Ot68iaFXL0z4Zadz7Pw"
+        "name": "Podemos Repetirlo",
+        "url": "https://open.spotify.com/album/6FRoZB7Ppyz9EVph8nQoJX"
       },
       "artists": [
         {
@@ -832,13 +832,13 @@
           "url": "https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z"
         },
         {
-          "name": "Tego Calder\u00f3n",
-          "url": "https://open.spotify.com/artist/3SUT1jjM5hzZj9TLfLZGIP"
+          "name": "Chencho Corleone",
+          "url": "https://open.spotify.com/artist/37230BxxYs9ksS7OkZw3IU"
         }
       ],
-      "duration_ms": 305666,
-      "name": "Bandoleros",
-      "url": "https://open.spotify.com/track/4MLSjN1xAevuHXoSs8etwl"
+      "duration_ms": 211707,
+      "name": "Podemos Repetirlo",
+      "url": "https://open.spotify.com/track/0If7xxzqs7Dv1SSO2MFKXF"
     },
     {
       "added_at": "2023-06-27 18:03:27",

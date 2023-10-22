@@ -1,12 +1,12 @@
 {
   "description": "The biggest metal songs of the 2000s. Cover: Slipknot",
-  "num_followers": 1211662,
+  "num_followers": 1212495,
   "original_name": "00s Metal Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0MzUxMmEzMDJhNzk0ZWVlZDU5YjA2ZTNlMDU1N2RmMGY0YTAzZGVk",
+  "snapshot_id": "MCw1ZDBmOThjMTQwMjhkOTc4NjJhMTlmNTI3OGMxNjhlZWJmNDI2OWFm",
   "tracks": [
     {
       "added_at": "2023-02-08 17:32:03",
@@ -523,22 +523,6 @@
     {
       "added_at": "2023-02-08 17:32:03",
       "album": {
-        "name": "War Is the Answer",
-        "url": "https://open.spotify.com/album/5wqJcLJsFqVg1lWowuyv3V"
-      },
-      "artists": [
-        {
-          "name": "Five Finger Death Punch",
-          "url": "https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM"
-        }
-      ],
-      "duration_ms": 262440,
-      "name": "Bad Company",
-      "url": "https://open.spotify.com/track/2KZXCH4npY28gtZKXcB2N8"
-    },
-    {
-      "added_at": "2023-02-08 17:32:03",
-      "album": {
         "name": "15",
         "url": "https://open.spotify.com/album/2KhDo0Er6dNxcK8zL6252l"
       },
@@ -551,6 +535,22 @@
       "duration_ms": 204960,
       "name": "Crazy Bitch",
       "url": "https://open.spotify.com/track/3Lc65aYhtNRO19Fnq2oMb8"
+    },
+    {
+      "added_at": "2023-02-08 17:32:03",
+      "album": {
+        "name": "War Is the Answer",
+        "url": "https://open.spotify.com/album/5wqJcLJsFqVg1lWowuyv3V"
+      },
+      "artists": [
+        {
+          "name": "Five Finger Death Punch",
+          "url": "https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM"
+        }
+      ],
+      "duration_ms": 262440,
+      "name": "Bad Company",
+      "url": "https://open.spotify.com/track/2KZXCH4npY28gtZKXcB2N8"
     },
     {
       "added_at": "2023-02-08 17:32:03",
@@ -783,18 +783,18 @@
     {
       "added_at": "2023-02-08 17:32:03",
       "album": {
-        "name": "Iowa",
-        "url": "https://open.spotify.com/album/5Zs0mNCTs73CqPKbZPWFX9"
+        "name": "Once",
+        "url": "https://open.spotify.com/album/2wM6svkNOCsYP8sr9gP2zc"
       },
       "artists": [
         {
-          "name": "Slipknot",
-          "url": "https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8"
+          "name": "Nightwish",
+          "url": "https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1"
         }
       ],
-      "duration_ms": 254000,
-      "name": "The Heretic Anthem",
-      "url": "https://open.spotify.com/track/3OYZWMm5m2DEwq2Tc1ukTh"
+      "duration_ms": 276200,
+      "name": "Nemo",
+      "url": "https://open.spotify.com/track/1RNwniZkJqdw9LMkkyynjx"
     },
     {
       "added_at": "2023-02-08 17:32:03",
@@ -815,18 +815,18 @@
     {
       "added_at": "2023-02-08 17:32:03",
       "album": {
-        "name": "Once",
-        "url": "https://open.spotify.com/album/2wM6svkNOCsYP8sr9gP2zc"
+        "name": "Iowa",
+        "url": "https://open.spotify.com/album/5Zs0mNCTs73CqPKbZPWFX9"
       },
       "artists": [
         {
-          "name": "Nightwish",
-          "url": "https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1"
+          "name": "Slipknot",
+          "url": "https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8"
         }
       ],
-      "duration_ms": 276200,
-      "name": "Nemo",
-      "url": "https://open.spotify.com/track/1RNwniZkJqdw9LMkkyynjx"
+      "duration_ms": 254000,
+      "name": "The Heretic Anthem",
+      "url": "https://open.spotify.com/track/3OYZWMm5m2DEwq2Tc1ukTh"
     },
     {
       "added_at": "2023-02-08 17:32:03",
@@ -991,22 +991,6 @@
     {
       "added_at": "2023-02-08 17:32:03",
       "album": {
-        "name": "Twilight Of The Thunder God",
-        "url": "https://open.spotify.com/album/3j0GCUTDz53x9Mzl8L1Fwz"
-      },
-      "artists": [
-        {
-          "name": "Amon Amarth",
-          "url": "https://open.spotify.com/artist/3pulcT2wt7FEG10lQlqDJL"
-        }
-      ],
-      "duration_ms": 248746,
-      "name": "Twilight Of The Thunder God",
-      "url": "https://open.spotify.com/track/5u3l2TONYacJgmRPQVaF9y"
-    },
-    {
-      "added_at": "2023-02-08 17:32:03",
-      "album": {
         "name": "Lateralus",
         "url": "https://open.spotify.com/album/5l5m1hnH4punS1GQXgEi3T"
       },
@@ -1023,18 +1007,18 @@
     {
       "added_at": "2023-02-08 17:32:03",
       "album": {
-        "name": "Inhuman Rampage",
-        "url": "https://open.spotify.com/album/5hzFLt9DwW1RXr7omvS4B5"
+        "name": "Twilight Of The Thunder God",
+        "url": "https://open.spotify.com/album/3j0GCUTDz53x9Mzl8L1Fwz"
       },
       "artists": [
         {
-          "name": "DragonForce",
-          "url": "https://open.spotify.com/artist/2pH3wEn4eYlMMIIQyKPbVR"
+          "name": "Amon Amarth",
+          "url": "https://open.spotify.com/artist/3pulcT2wt7FEG10lQlqDJL"
         }
       ],
-      "duration_ms": 441560,
-      "name": "Through the Fire and Flames",
-      "url": "https://open.spotify.com/track/6nnacTL5on2aVsRhVDNUSo"
+      "duration_ms": 248746,
+      "name": "Twilight Of The Thunder God",
+      "url": "https://open.spotify.com/track/5u3l2TONYacJgmRPQVaF9y"
     },
     {
       "added_at": "2023-02-08 17:32:03",
@@ -1051,6 +1035,22 @@
       "duration_ms": 236333,
       "name": "Eat You Alive",
       "url": "https://open.spotify.com/track/0EtzpDX05udzfLcGntGbGU"
+    },
+    {
+      "added_at": "2023-02-08 17:32:03",
+      "album": {
+        "name": "Inhuman Rampage",
+        "url": "https://open.spotify.com/album/5hzFLt9DwW1RXr7omvS4B5"
+      },
+      "artists": [
+        {
+          "name": "DragonForce",
+          "url": "https://open.spotify.com/artist/2pH3wEn4eYlMMIIQyKPbVR"
+        }
+      ],
+      "duration_ms": 441560,
+      "name": "Through the Fire and Flames",
+      "url": "https://open.spotify.com/track/6nnacTL5on2aVsRhVDNUSo"
     },
     {
       "added_at": "2023-02-08 17:32:03",
@@ -1151,22 +1151,6 @@
     {
       "added_at": "2023-02-08 17:32:03",
       "album": {
-        "name": "The Dethalbum",
-        "url": "https://open.spotify.com/album/6YVSzU89AisNDfVK4HUt69"
-      },
-      "artists": [
-        {
-          "name": "Metalocalypse: Dethklok",
-          "url": "https://open.spotify.com/artist/7u12AuhJ5AaJIgZAZe0US8"
-        }
-      ],
-      "duration_ms": 204360,
-      "name": "Murmaider",
-      "url": "https://open.spotify.com/track/5ghMfHMHakVS0omjj2cBSA"
-    },
-    {
-      "added_at": "2023-02-08 17:32:03",
-      "album": {
         "name": "Reise, Reise",
         "url": "https://open.spotify.com/album/09qHS2BgOLqi3SMkbauxdJ"
       },
@@ -1179,6 +1163,22 @@
       "duration_ms": 226760,
       "name": "Amerika",
       "url": "https://open.spotify.com/track/33ayEZDfgARpadIdqo87JQ"
+    },
+    {
+      "added_at": "2023-02-08 17:32:03",
+      "album": {
+        "name": "The Dethalbum",
+        "url": "https://open.spotify.com/album/6YVSzU89AisNDfVK4HUt69"
+      },
+      "artists": [
+        {
+          "name": "Metalocalypse: Dethklok",
+          "url": "https://open.spotify.com/artist/7u12AuhJ5AaJIgZAZe0US8"
+        }
+      ],
+      "duration_ms": 204360,
+      "name": "Murmaider",
+      "url": "https://open.spotify.com/track/5ghMfHMHakVS0omjj2cBSA"
     },
     {
       "added_at": "2023-02-08 17:32:03",
@@ -1215,22 +1215,6 @@
     {
       "added_at": "2023-02-08 17:32:03",
       "album": {
-        "name": "Are You Dead Yet?",
-        "url": "https://open.spotify.com/album/79DzJ47LPkstBgi1Hu5Opm"
-      },
-      "artists": [
-        {
-          "name": "Children Of Bodom",
-          "url": "https://open.spotify.com/artist/1xUhNgw4eJDZfvumIpcz1B"
-        }
-      ],
-      "duration_ms": 234880,
-      "name": "Are You Dead Yet?",
-      "url": "https://open.spotify.com/track/52s05aBQd2LVc6EWIQCQI1"
-    },
-    {
-      "added_at": "2023-02-08 17:32:03",
-      "album": {
         "name": "Century Child",
         "url": "https://open.spotify.com/album/2fmfAN3tCHMIU8WZuG35ZK"
       },
@@ -1243,6 +1227,22 @@
       "duration_ms": 248706,
       "name": "The Phantom Of The Opera",
       "url": "https://open.spotify.com/track/6VOxRb9IAJQDDyHBlyEdPF"
+    },
+    {
+      "added_at": "2023-02-08 17:32:03",
+      "album": {
+        "name": "Are You Dead Yet?",
+        "url": "https://open.spotify.com/album/79DzJ47LPkstBgi1Hu5Opm"
+      },
+      "artists": [
+        {
+          "name": "Children Of Bodom",
+          "url": "https://open.spotify.com/artist/1xUhNgw4eJDZfvumIpcz1B"
+        }
+      ],
+      "duration_ms": 234880,
+      "name": "Are You Dead Yet?",
+      "url": "https://open.spotify.com/track/52s05aBQd2LVc6EWIQCQI1"
     },
     {
       "added_at": "2023-02-08 17:32:03",

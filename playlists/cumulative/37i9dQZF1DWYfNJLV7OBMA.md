@@ -4,7 +4,7 @@
 
 > Trending Sinhalese pop hits\. Cover \- DILU Beats
 
-336 songs - 19 hr 56 min
+337 songs - 20 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -39,7 +39,8 @@
 | [Ayachanawak](https://open.spotify.com/track/0uKRyCRmpd2ZXkuRavXkOC) | [Lahiru Gayashan](https://open.spotify.com/artist/45GkvwPofecgSmp6jxZOkp), [EVO BEATS](https://open.spotify.com/artist/2D3YwelCtVLnZIoq2NlSox) | [Ayachanawak](https://open.spotify.com/album/37NsQnQBIAYiBWccwGZGKR) | 4:19 | 2022-08-12 | 2022-11-05 |
 | [Ayale](https://open.spotify.com/track/0CPSVXtQDqY241diciihH9) | [Tehan Perera](https://open.spotify.com/artist/1iH07mFEjrWomKuOTLzfWQ), [Kaizer Kaiz](https://open.spotify.com/artist/79GTGDgSIN8i5DAngINh7k) | [Ayale](https://open.spotify.com/album/0x5NdOHAt7AW7LBtirXx5B) | 3:13 | 2022-09-09 | 2022-12-01 |
 | [Ayasini Adare](https://open.spotify.com/track/1HD7DeA3hhCeijasjiJyzw) | [Gagana Hirusha](https://open.spotify.com/artist/1Rvu2A6aE9gkEhFvjAD5pr), [Mahiru Senarathne](https://open.spotify.com/artist/3Od0SSFki2d6U1jnmoUaBC), [Yashodha Medagedara](https://open.spotify.com/artist/4HS3LeXxugXaMidDkWMcCs) | [Ayasini Adare](https://open.spotify.com/album/0kgcIObhp6U2Aer7G9S9GO) | 3:51 | 2022-06-16 | 2022-07-16 |
-| [Ayemath Adaren](https://open.spotify.com/track/5AFdPg3PlQGncQLq0z1AWM) | [Thilina Ruhunage](https://open.spotify.com/artist/3uxggUmuI6OX5tcW12y7cn), [Athma Liyanage](https://open.spotify.com/artist/5VCJFF8MGzfQI7EjbuV1nX) | [Ayemath Adaren](https://open.spotify.com/album/0VRegvF3mP3k0Blm3oD1HB) | 3:57 | 2022-08-29 |  |
+| [Ayemath Adaren](https://open.spotify.com/track/3oZB7RNTLRMAHZEhD4uGoj) | [Thilina Ruhunage](https://open.spotify.com/artist/3uxggUmuI6OX5tcW12y7cn), [Athma Liyanage](https://open.spotify.com/artist/5VCJFF8MGzfQI7EjbuV1nX) | [Ayemath Adaren](https://open.spotify.com/album/25qXO4urjPQLpl0DXwGG2W) | 3:57 | 2023-10-17 |  |
+| [Ayemath Adaren](https://open.spotify.com/track/5AFdPg3PlQGncQLq0z1AWM) | [Thilina Ruhunage](https://open.spotify.com/artist/3uxggUmuI6OX5tcW12y7cn), [Athma Liyanage](https://open.spotify.com/artist/5VCJFF8MGzfQI7EjbuV1nX) | [Ayemath Adaren](https://open.spotify.com/album/0VRegvF3mP3k0Blm3oD1HB) | 3:57 | 2022-08-29 | 2023-10-22 |
 | [Bhagyaawi](https://open.spotify.com/track/7A9qM5nCUDCuXxcoOBW7i8) | [Sri Lakmal](https://open.spotify.com/artist/7AP2ZNX6G5mFHLV3OFwj72), [Tharaka S\. Jayawardane](https://open.spotify.com/artist/10LrC9Mf1UXLPy9iFqFrD6) | [Bhagyaawi](https://open.spotify.com/album/3BqaGayGiwyBiSd4SrTOdf) | 3:46 | 2022-08-29 | 2022-09-24 |
 | [Boho De](https://open.spotify.com/track/4wAlwgiU1CuXMs1VIR2WkI) | [Yuki Navaratne](https://open.spotify.com/artist/00ZpGGB5F7Ytw781Qsr1sR) | [Boho De](https://open.spotify.com/album/5pscBsQIFkm3bruaDT2LaK) | 4:01 | 2023-05-26 | 2023-07-25 |
 | [Bombe Motai](https://open.spotify.com/track/3lhzp32wNGbyTc2cgNJGj5) | [Wasthi](https://open.spotify.com/artist/6SuMIiPGM6P4hLLNdT0nNt), [Anushka Udana](https://open.spotify.com/artist/0zJOY7KeiOgOIGQ150u7hz), [Sunil Perera](https://open.spotify.com/artist/2PdCTAeJIdsgQBN9556Ej6) | [Bombe Motai](https://open.spotify.com/album/4SJ90vTwJNJCagrvV4yzfp) | 2:50 | 2023-08-17 |  |

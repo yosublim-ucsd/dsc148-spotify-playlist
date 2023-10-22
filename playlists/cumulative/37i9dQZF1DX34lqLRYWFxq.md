@@ -4,7 +4,7 @@
 
 > What's new in Rock this week\. Cover: EKKSTACY
 
-601 songs - 1 day 9 hr 13 min
+602 songs - 1 day 9 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -243,7 +243,8 @@
 | [Hollywood Ending](https://open.spotify.com/track/12YUVwIZP9ymCIka2EETxj) | [SUCKERPUNCH!](https://open.spotify.com/artist/02tk2pnlF7dDfwMVhth4pp) | [Hollywood Ending](https://open.spotify.com/album/7AkgeWkZDxLKYrt3FSb4J9) | 2:47 | 2023-04-14 | 2023-07-01 |
 | [Home](https://open.spotify.com/track/4OwToWXzwBlOX2i015SKRQ) | [Texas King](https://open.spotify.com/artist/55GkrWxCOER93qGLMiX2cj) | [Home](https://open.spotify.com/album/5MvScV58d1usJ112nvYLFQ) | 3:06 | 2023-04-28 | 2023-07-08 |
 | [HONEY \(ARE U COMING?\)](https://open.spotify.com/track/3tNMdL4qjzNHfo7rlVMESK) | [Måneskin](https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr) | [HONEY \(ARE U COMING?\)](https://open.spotify.com/album/48hTnkFG81hz49oW8KjUa9) | 2:47 | 2023-09-01 | 2023-10-07 |
-| [Hope is a Dangerous Little Thing](https://open.spotify.com/track/5AXCGDpDg4rOdf3xg2Y939) | [The Menzingers](https://open.spotify.com/artist/7HWFXU9pHBj0u58yoRwwOJ) | [Hope is a Dangerous Little Thing](https://open.spotify.com/album/13JTf9C01ApbfehYZoc7lX) | 3:12 | 2023-10-13 |  |
+| [Hope is a Dangerous Little Thing](https://open.spotify.com/track/089lW2lTDsHUDsNlzim7Qc) | [The Menzingers](https://open.spotify.com/artist/7HWFXU9pHBj0u58yoRwwOJ) | [Some Of It Was True](https://open.spotify.com/album/1haMGMoO3UjtVB1l3BHMFZ) | 3:12 | 2023-10-20 |  |
+| [Hope is a Dangerous Little Thing](https://open.spotify.com/track/5AXCGDpDg4rOdf3xg2Y939) | [The Menzingers](https://open.spotify.com/artist/7HWFXU9pHBj0u58yoRwwOJ) | [Hope is a Dangerous Little Thing](https://open.spotify.com/album/13JTf9C01ApbfehYZoc7lX) | 3:12 | 2023-10-13 | 2023-10-22 |
 | [hot girls in hell](https://open.spotify.com/track/7vys2uYSgV5eN1QvdBw6iz) | [LØLØ](https://open.spotify.com/artist/5MjcGshMggPgIHinIUDaX0) | [hot girls in hell](https://open.spotify.com/album/7Cg3eGiwQB6KVfVoEMWi8y) | 2:50 | 2023-07-21 | 2023-09-16 |
 | [House Lights](https://open.spotify.com/track/6DTTBFpkmfNgM6wUBjFmt0) | [The Glorious Sons](https://open.spotify.com/artist/5CPxrqCStgt6AfI4fLiedH) | [House Lights](https://open.spotify.com/album/2Mr5EhElYjGcaccWCRrPJY) | 4:13 | 2023-08-04 | 2023-08-26 |
 | [How To Live With Yourself](https://open.spotify.com/track/3bl8Ux4VCjaZTBWn4cLZIY) | [PUP](https://open.spotify.com/artist/6A7uqgC2N1nUhrCLAytHxN) | [How To Live With Yourself / Smoke Screen](https://open.spotify.com/album/4kYAjbGqM71mhKgNyiVoUv) | 2:45 | 2023-06-09 | 2023-08-26 |

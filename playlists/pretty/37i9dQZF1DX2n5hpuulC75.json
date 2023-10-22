@@ -1,12 +1,12 @@
 {
   "description": "Chill tunes for mellow moods.",
-  "num_followers": 258452,
+  "num_followers": 258462,
   "original_name": "Mellow Mood",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxNWQwODlhYzlhM2E2NjJjZGUxN2Q4MmY3M2Q3MmIzODAzZmRiMDMw",
+  "snapshot_id": "MCxkZTkzY2JkYTQ5ZmYzYzRkZjYzNjZmM2RlNDM1MDQyMWY1MWQ1YTNj",
   "tracks": [
     {
       "added_at": "2018-12-11 21:12:31",
@@ -95,22 +95,6 @@
     {
       "added_at": "2018-12-11 21:12:31",
       "album": {
-        "name": "You",
-        "url": "https://open.spotify.com/album/4Fzw1NdiDb9pGJPRAVlKXv"
-      },
-      "artists": [
-        {
-          "name": "Petit Biscuit",
-          "url": "https://open.spotify.com/artist/6gK1Uct5FEdaUWRWpU4Cl2"
-        }
-      ],
-      "duration_ms": 231131,
-      "name": "You",
-      "url": "https://open.spotify.com/track/4gRuC34ZpRcpVXxMXM1csQ"
-    },
-    {
-      "added_at": "2018-12-11 21:12:31",
-      "album": {
         "name": "Vallis Alps",
         "url": "https://open.spotify.com/album/5mLmU1wyeAM453ysZZozm2"
       },
@@ -123,6 +107,22 @@
       "duration_ms": 324106,
       "name": "Young",
       "url": "https://open.spotify.com/track/0ad87RTfHWmC2Syh1nOxEd"
+    },
+    {
+      "added_at": "2018-12-11 21:12:31",
+      "album": {
+        "name": "You",
+        "url": "https://open.spotify.com/album/4Fzw1NdiDb9pGJPRAVlKXv"
+      },
+      "artists": [
+        {
+          "name": "Petit Biscuit",
+          "url": "https://open.spotify.com/artist/6gK1Uct5FEdaUWRWpU4Cl2"
+        }
+      ],
+      "duration_ms": 231131,
+      "name": "You",
+      "url": "https://open.spotify.com/track/4gRuC34ZpRcpVXxMXM1csQ"
     },
     {
       "added_at": "2018-12-11 21:12:31",
@@ -317,22 +317,6 @@
       "url": "https://open.spotify.com/track/04qxabD9hKT45HsrOQqdVg"
     },
     {
-      "added_at": "2019-09-16 15:44:25",
-      "album": {
-        "name": "Bismillah",
-        "url": "https://open.spotify.com/album/6gnNCtxxhwKTYGIDVqeMUd"
-      },
-      "artists": [
-        {
-          "name": "Peter Cat Recording Co.",
-          "url": "https://open.spotify.com/artist/41Nu7NgAj9rJxjj7JDuXrV"
-        }
-      ],
-      "duration_ms": 313266,
-      "name": "Where the Money Flows",
-      "url": "https://open.spotify.com/track/35592qATAP1u72mO9oelLc"
-    },
-    {
       "added_at": "2018-12-11 21:12:31",
       "album": {
         "name": "Someone\u2019s EP I",
@@ -347,6 +331,22 @@
       "duration_ms": 87037,
       "name": "INT.",
       "url": "https://open.spotify.com/track/0WDSwWdXOjXmzw6QOOxl7C"
+    },
+    {
+      "added_at": "2019-09-16 15:44:25",
+      "album": {
+        "name": "Bismillah",
+        "url": "https://open.spotify.com/album/6gnNCtxxhwKTYGIDVqeMUd"
+      },
+      "artists": [
+        {
+          "name": "Peter Cat Recording Co.",
+          "url": "https://open.spotify.com/artist/41Nu7NgAj9rJxjj7JDuXrV"
+        }
+      ],
+      "duration_ms": 313266,
+      "name": "Where the Money Flows",
+      "url": "https://open.spotify.com/track/35592qATAP1u72mO9oelLc"
     },
     {
       "added_at": "2018-12-11 21:12:31",
@@ -705,22 +705,6 @@
       "url": "https://open.spotify.com/track/5qVW9YK5Hfm07IUiMHR3te"
     },
     {
-      "added_at": "2018-12-11 21:12:31",
-      "album": {
-        "name": "Island -EP",
-        "url": "https://open.spotify.com/album/6iIWUNhbE9TbbLqDyMfh6W"
-      },
-      "artists": [
-        {
-          "name": "Nuit Oce\u0101n",
-          "url": "https://open.spotify.com/artist/4qhCtPKoctC2e4ADsXifH4"
-        }
-      ],
-      "duration_ms": 185758,
-      "name": "Together Alone",
-      "url": "https://open.spotify.com/track/2WgDeHNKHm2pjk9ee9eHzB"
-    },
-    {
       "added_at": "2019-05-24 08:01:00",
       "album": {
         "name": "another time (world$tar money)",
@@ -739,6 +723,22 @@
       "duration_ms": 181681,
       "name": "another time (world$tar money)",
       "url": "https://open.spotify.com/track/3pq5SHP8DwySlbUL0KIoRy"
+    },
+    {
+      "added_at": "2018-12-11 21:12:31",
+      "album": {
+        "name": "Island -EP",
+        "url": "https://open.spotify.com/album/6iIWUNhbE9TbbLqDyMfh6W"
+      },
+      "artists": [
+        {
+          "name": "Nuit Oce\u0101n",
+          "url": "https://open.spotify.com/artist/4qhCtPKoctC2e4ADsXifH4"
+        }
+      ],
+      "duration_ms": 185758,
+      "name": "Together Alone",
+      "url": "https://open.spotify.com/track/2WgDeHNKHm2pjk9ee9eHzB"
     },
     {
       "added_at": "2018-12-11 21:12:31",
@@ -795,22 +795,6 @@
     {
       "added_at": "2018-12-11 21:12:31",
       "album": {
-        "name": "Canyon",
-        "url": "https://open.spotify.com/album/3wuICxTDIz3Mvg9qZ24WJT"
-      },
-      "artists": [
-        {
-          "name": "Glded",
-          "url": "https://open.spotify.com/artist/6LQHbUxsIOTU2vkzbUaXCH"
-        }
-      ],
-      "duration_ms": 189445,
-      "name": "Canyon",
-      "url": "https://open.spotify.com/track/6aVohiCJIKSl1KRprTMOHX"
-    },
-    {
-      "added_at": "2018-12-11 21:12:31",
-      "album": {
         "name": "Home (feat. LEES)",
         "url": "https://open.spotify.com/album/6HHTFLG0HLCh7a9q7hInxt"
       },
@@ -827,6 +811,22 @@
       "duration_ms": 198776,
       "name": "Home (feat. LEES)",
       "url": "https://open.spotify.com/track/6OgN82jpQlTgVEBMbKzBpF"
+    },
+    {
+      "added_at": "2018-12-11 21:12:31",
+      "album": {
+        "name": "Canyon",
+        "url": "https://open.spotify.com/album/3wuICxTDIz3Mvg9qZ24WJT"
+      },
+      "artists": [
+        {
+          "name": "Glded",
+          "url": "https://open.spotify.com/artist/6LQHbUxsIOTU2vkzbUaXCH"
+        }
+      ],
+      "duration_ms": 189445,
+      "name": "Canyon",
+      "url": "https://open.spotify.com/track/6aVohiCJIKSl1KRprTMOHX"
     },
     {
       "added_at": "2018-12-11 21:12:31",

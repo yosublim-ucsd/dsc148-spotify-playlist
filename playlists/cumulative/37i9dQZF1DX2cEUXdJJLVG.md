@@ -4,7 +4,7 @@
 
 > Funky & groovy tunes for poolside chilling.
 
-278 songs - 16 hr 44 min
+279 songs - 16 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -102,7 +102,8 @@
 | [Hard to Get](https://open.spotify.com/track/5y8AZ1jWdnPHrQoyhswqFw) | [Thomas Ford](https://open.spotify.com/artist/4prjwjwLedf54KWAs54ErF) | [Hard to Get](https://open.spotify.com/album/4TTi9VEk5HZmsnsywsOIuQ) | 3:03 | 2022-09-09 |  |
 | [Heels \- Moods Remix](https://open.spotify.com/track/2YrSZEwN7rDAdBNZc7Pzb5) | [NoMBe](https://open.spotify.com/artist/5Lhxlge1CR1DrgDAje8Qaw), [Moods](https://open.spotify.com/artist/14uVJsPC4DByeuD0cq36ez) | [Heels \(Moods Remix\)](https://open.spotify.com/album/1UUn9hgxPip1wXzHXpKxO1) | 3:21 | 2022-09-09 | 2022-10-13 |
 | [Heels \- Moods Remix](https://open.spotify.com/track/4yxuB1iEhSGtk1QL88P1rc) | [NoMBe](https://open.spotify.com/artist/5Lhxlge1CR1DrgDAje8Qaw), [Moods](https://open.spotify.com/artist/14uVJsPC4DByeuD0cq36ez) | [Heels \(Moods Remix\)](https://open.spotify.com/album/0GaaGrBX3pZVBPR9s6O1nt) | 3:21 | 2022-10-12 | 2022-10-15 |
-| [Hey Amy!](https://open.spotify.com/track/2FKMmtp1DyWn6iiplWyX9o) | [Isabèl Usher](https://open.spotify.com/artist/66Q9dkZ7EXdwU2h6tEkUdC), [Ketta](https://open.spotify.com/artist/23iAWqyfMe6hnEkfI6UFTe), [Joshua J](https://open.spotify.com/artist/2AZupS7RiLA0sh5uzwsr2l) | [Hey Amy!](https://open.spotify.com/album/3R4FcKqbpFAxmOdn2p725V) | 2:57 | 2022-09-09 |  |
+| [Hey Amy!](https://open.spotify.com/track/2FKMmtp1DyWn6iiplWyX9o) | [Isabèl Usher](https://open.spotify.com/artist/66Q9dkZ7EXdwU2h6tEkUdC), [Ketta](https://open.spotify.com/artist/23iAWqyfMe6hnEkfI6UFTe), [Joshua J](https://open.spotify.com/artist/2AZupS7RiLA0sh5uzwsr2l) | [Hey Amy!](https://open.spotify.com/album/3R4FcKqbpFAxmOdn2p725V) | 2:57 | 2022-09-09 | 2023-10-22 |
+| [Hey Amy!](https://open.spotify.com/track/64x6DYFIlWKRtGMeOdNkfN) | [Isabèl Usher](https://open.spotify.com/artist/66Q9dkZ7EXdwU2h6tEkUdC), [Ketta](https://open.spotify.com/artist/23iAWqyfMe6hnEkfI6UFTe), [Joshua J](https://open.spotify.com/artist/2AZupS7RiLA0sh5uzwsr2l) | [Hey Amy!](https://open.spotify.com/album/7AFsIiFME2aS8qccETnkBp) | 2:57 | 2023-10-12 |  |
 | [Hey Stranger \(feat\. MAAD, JAEL & Jengi\)](https://open.spotify.com/track/1a6Khakt7DtZXzxePM5vwx) | [Midas Hutch](https://open.spotify.com/artist/3sN7A6NULbpDrV5bAD9B6g), [MAAD](https://open.spotify.com/artist/01XujQ0Nax028Ufr2jl7vd), [JAEL](https://open.spotify.com/artist/5p77ntJBUVTiJ00bmwhQaO), [Jengi](https://open.spotify.com/artist/4lgrPvofm0IT605L9OrOTN) | [Hey Stranger \(feat\. MAAD, JAEL & Jengi\)](https://open.spotify.com/album/5YRCULdZwINYqFIAnowGbK) | 3:21 | 2022-09-09 | 2023-07-08 |
 | [Holdin' On](https://open.spotify.com/track/68oX0D73hEJzpYypu8LI3e) | [FS Green](https://open.spotify.com/artist/2xjVYIMLS3nR5Y1UOr02Vb) | [Holdin' On / Anything \(U Wanna Do\)](https://open.spotify.com/album/3xsQ8OnFMMhHu5ufvLzRZJ) | 4:01 | 2023-07-07 |  |
 | [hollatchu](https://open.spotify.com/track/4uYOA92uCIEShlFD7YoHiU) | [Jitwam](https://open.spotify.com/artist/3yg8VEfEzpr8T9NkiEsycS), [Jaydonclover](https://open.spotify.com/artist/0l5zmyAZvL7Z8JWFzXzMWz), [YUNGMORPHEUS](https://open.spotify.com/artist/5PUI10TbC61V7ypB2h8Vfy) | [hollatchu](https://open.spotify.com/album/6v2Carq39870pglhzZeHqx) | 4:02 | 2023-04-20 |  |

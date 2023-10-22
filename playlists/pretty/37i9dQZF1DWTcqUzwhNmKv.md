@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTcqUzwhNmKv.md) - [plain]
 
 > Catch Your Breath on top of the biggest Metal playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,455,195 likes - 75 songs - 5 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,455,408 likes - 75 songs - 5 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,7 +47,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTcqUzwhNmKv.md) - [plain]
 | 37 | [Bite Your Tongue](https://open.spotify.com/track/1lnW6hdkIDZU6JA53R0emi) | [Attila](https://open.spotify.com/artist/4Uv5bceTJ2h3tLlssUNDNP) | [Bite Your Tongue](https://open.spotify.com/album/0nlj4yiTOT5UrrvIHX19MM) | 3:18 |
 | 38 | [Halo](https://open.spotify.com/track/0CjJJrpnQCpQMsT4nzezII) | [Pendulum](https://open.spotify.com/artist/7MqnCTCAX6SsIYYdJCQj9B), [Bullet For My Valentine](https://open.spotify.com/artist/7iWiAD5LLKyiox2grgfmUT) | [Halo](https://open.spotify.com/album/4f9UGlRncIgchuFWcMhkef) | 2:47 |
 | 39 | [Ghost Of Me](https://open.spotify.com/track/25Yfk4XBeglz1QoXhDqJ2w) | [Make Them Suffer](https://open.spotify.com/artist/0FZcPgWI3BsFQl4rOAGSHT) | [Ghost Of Me](https://open.spotify.com/album/6XHoTtC0sNkJbnKXkCC4ov) | 3:51 |
-| 40 | [The Dirt I'm Buried In](https://open.spotify.com/track/4sg5Vfd2fM6Y8gMz5VYXz6) | [Avatar](https://open.spotify.com/artist/4jpaXieuls7LVzG1uma5Rs) | [The Dirt I'm Buried In](https://open.spotify.com/album/3EMCGsx2qeFTthjuyFdMfr) | 4:04 |
+| 40 | [The Dirt I'm Buried In](https://open.spotify.com/track/4OjAxkNVwleUdCUS098eBw) | [Avatar](https://open.spotify.com/artist/4jpaXieuls7LVzG1uma5Rs) | [Dance Devil Dance](https://open.spotify.com/album/5GH4bz50nqlXUm4xyK4tC2) | 4:04 |
 | 41 | [Some Of Us](https://open.spotify.com/track/45YoWKaH5JdbpwpfRRQsqS) | [Demon Hunter](https://open.spotify.com/artist/6f3a43i1MJZwdjEpV1M0oH) | [Some Of Us](https://open.spotify.com/album/1bnH6BatxymLa5sUq7e3qc) | 3:33 |
 | 42 | [If I Could](https://open.spotify.com/track/7MSGK0KByE9M66NOMup1AT) | [Skindred](https://open.spotify.com/artist/3jTlKw98Ql1jGRPYqhqHap) | [If I Could](https://open.spotify.com/album/6szEjP6Wd7OcTeITpFlNtR) | 3:29 |
 | 43 | [Lowest In Me](https://open.spotify.com/track/1cdCfqSwdXM0BQEDy5Fc7M) | [Staind](https://open.spotify.com/artist/5KDIH2gF0VpelTqyQS7udb) | [Lowest In Me](https://open.spotify.com/album/1ns3CtSmx6z1p7pNIUbNxv) | 3:07 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTcqUzwhNmKv.md) - [plain]
 | 74 | [Obliquity of the Ecliptic](https://open.spotify.com/track/0c1EnTUEQoXVH73NbVDi3D) | [Blood Incantation](https://open.spotify.com/artist/6FGv87WQ3mJWn3cmLUww6x) | [Luminescent Bridge](https://open.spotify.com/album/6fw6OaFAR6IsxWk1ZjIYUJ) | 8:53 |
 | 75 | [Beholden to Clan](https://open.spotify.com/track/5LxBDSxTZH9hrNTMXnMEGT) | [Wolves In The Throne Room](https://open.spotify.com/artist/5lqyPWmAivV75tII5Vxpet) | [Crypt of Ancestral Knowledge](https://open.spotify.com/album/2gWPiPmcyw7Hdha3wR74g4) | 6:57 |
 
-Snapshot ID: `MCwwODhkYzczYTU5OTA2MTljMDU1OTEwNmVjZTg0YzYwM2MyYmQ2NGQ3`
+Snapshot ID: `MCw5YjA1NTI3NGFmZjlhYmY5ODZiODhhNmRkNDE4NWI5NTNjYWE2Yjcy`

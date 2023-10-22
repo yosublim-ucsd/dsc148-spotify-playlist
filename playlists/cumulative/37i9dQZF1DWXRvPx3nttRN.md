@@ -4,7 +4,7 @@
 
 > Acoustic rock and pop that makes you feel good.
 
-393 songs - 22 hr 14 min
+394 songs - 22 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -283,7 +283,8 @@
 | [Sing to You \- Acoustic](https://open.spotify.com/track/1pVz7AJO2UZd5ouOhoIlhS) | [John Splithoff](https://open.spotify.com/artist/7A2x4Urpc4VKF1pb7qnNqD) | [Make It Happen \(Deluxe Edition\)](https://open.spotify.com/album/5RbJ1jOe7KFVfbB5GOLhUT) | 3:36 | 2021-03-12 |  |
 | [Slow Dancing in a Burning Room](https://open.spotify.com/track/2jdAk8ATWIL3dwT47XpRfu) | [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14) | [Continuum](https://open.spotify.com/album/1Xsprdt1q9rOzTic7b9zYM) | 4:02 | 2022-04-22 |  |
 | [Slow Dancing in a Burning Room](https://open.spotify.com/track/3JH3oqHNVUYFVr1JyVlRsC) | [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14) | [Continuum](https://open.spotify.com/album/64GHlpPoKzuFlUL2mtkEcX) | 4:02 | 2021-03-12 | 2022-07-29 |
-| [Solo Dance \- Acoustic Mix](https://open.spotify.com/track/0AmsMeTJXTfpDJlCMy6rUU) | [Martin Jensen](https://open.spotify.com/artist/4ehtJnVumNf6xzSCDk8aLB) | [Solo Dance \- From Morning Till Midnight](https://open.spotify.com/album/2cHikunURpC7UwZSxbJLv0) | 3:12 | 2022-04-22 |  |
+| [Solo Dance \- Acoustic Mix](https://open.spotify.com/track/0AmsMeTJXTfpDJlCMy6rUU) | [Martin Jensen](https://open.spotify.com/artist/4ehtJnVumNf6xzSCDk8aLB) | [Solo Dance \- From Morning Till Midnight](https://open.spotify.com/album/2cHikunURpC7UwZSxbJLv0) | 3:12 | 2022-04-22 | 2023-10-22 |
+| [Solo Dance \- Acoustic Mix](https://open.spotify.com/track/0q4XJllUHlZ6TJ1WP1lH2e) | [Martin Jensen](https://open.spotify.com/artist/4ehtJnVumNf6xzSCDk8aLB) | [Solo Dance \- From Morning Till Midnight](https://open.spotify.com/album/4bQZJYQp1pVFrIoYuOKpXI) | 3:12 | 2023-10-20 |  |
 | [Solo Dance \- Acoustic Mix](https://open.spotify.com/track/5PUqb7aCQHByJ0waXwdxkw) | [Martin Jensen](https://open.spotify.com/artist/4ehtJnVumNf6xzSCDk8aLB) | [Solo Dance \(From Morning Till Midnight\)](https://open.spotify.com/album/4V1rw5qBzsBQriGLwql8vU) | 3:12 | 2021-03-12 | 2022-07-29 |
 | [Somebody That I Used to Know](https://open.spotify.com/track/4Mbi3OxFhQTZY3X8hGSTp7) | [Walk Off the Earth](https://open.spotify.com/artist/6jEiUoyyJNPHzSR0Nib6HX) | [Surf Music Chill](https://open.spotify.com/album/7uwawRuxHhKsxeesnevBQn) | 4:03 | 2022-04-22 | 2022-11-13 |
 | [Somebody That I Used to Know](https://open.spotify.com/track/6mLufFjkRHCHaV1KJAOcte) | [Walk off the Earth](https://open.spotify.com/artist/6jEiUoyyJNPHzSR0Nib6HX) | [R.E.V.O.](https://open.spotify.com/album/4E2tpJR1a6bsKNrAZcXGvP) | 4:08 | 2022-04-22 |  |

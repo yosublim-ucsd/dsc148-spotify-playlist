@@ -1,12 +1,12 @@
 {
   "description": "Eagles, The Byrds and all your favorite country rock",
-  "num_followers": 148878,
+  "num_followers": 148959,
   "original_name": "Country Rock Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4OGE3MmMzZTZkNTIxZWY2ZjllMzg2MzExNWQyMmJjMDg4YWIzY2Vj",
+  "snapshot_id": "MCxkYzQwNjYyNGVhNDM1ZTZjYzA1Nzk1OWJmNTZkOGExNDQwZGMxYjM3",
   "tracks": [
     {
       "added_at": "2020-08-05 15:52:11",
@@ -661,22 +661,6 @@
       "url": "https://open.spotify.com/track/3PqhliKIHScPgJgse7KHTq"
     },
     {
-      "added_at": "2020-08-05 15:52:11",
-      "album": {
-        "name": "The Desert Rose Band",
-        "url": "https://open.spotify.com/album/4Web53QnajhmXAA6PXK5ih"
-      },
-      "artists": [
-        {
-          "name": "The Desert Rose Band",
-          "url": "https://open.spotify.com/artist/19FK6WGl1TLyFNsXXqTz8u"
-        }
-      ],
-      "duration_ms": 177706,
-      "name": "Love Reunited",
-      "url": "https://open.spotify.com/track/59kLqy6RhRKWFWFgdFSB63"
-    },
-    {
       "added_at": "2022-06-01 14:18:36",
       "album": {
         "name": "Austinology - Alleys of Austin",
@@ -723,6 +707,22 @@
     {
       "added_at": "2020-08-05 15:52:11",
       "album": {
+        "name": "The Desert Rose Band",
+        "url": "https://open.spotify.com/album/4Web53QnajhmXAA6PXK5ih"
+      },
+      "artists": [
+        {
+          "name": "The Desert Rose Band",
+          "url": "https://open.spotify.com/artist/19FK6WGl1TLyFNsXXqTz8u"
+        }
+      ],
+      "duration_ms": 177706,
+      "name": "Love Reunited",
+      "url": "https://open.spotify.com/track/59kLqy6RhRKWFWFgdFSB63"
+    },
+    {
+      "added_at": "2020-08-05 15:52:11",
+      "album": {
         "name": "Commander Cody & His Lost Planet Airmen",
         "url": "https://open.spotify.com/album/5M8Zfk4Gsf31MoGk3JXubL"
       },
@@ -755,22 +755,6 @@
     {
       "added_at": "2020-08-05 15:52:11",
       "album": {
-        "name": "Sittin' In",
-        "url": "https://open.spotify.com/album/1EtuN2j0AKVwsiqrddMtco"
-      },
-      "artists": [
-        {
-          "name": "Loggins & Messina",
-          "url": "https://open.spotify.com/artist/7emRV8AluG3d4e5T0DZiK9"
-        }
-      ],
-      "duration_ms": 169306,
-      "name": "Listen to a Country Song",
-      "url": "https://open.spotify.com/track/5YEgs7DjcGk9pYP6l0u85h"
-    },
-    {
-      "added_at": "2020-08-05 15:52:11",
-      "album": {
         "name": "Slippin Away",
         "url": "https://open.spotify.com/album/6p9yV1ZDhYDfvf6MSnw72Y"
       },
@@ -787,22 +771,34 @@
     {
       "added_at": "2020-08-05 15:52:11",
       "album": {
-        "name": "Best Of",
-        "url": "https://open.spotify.com/album/53g97Xwkme1StWj2GC3BkG"
+        "name": "Sittin' In",
+        "url": "https://open.spotify.com/album/1EtuN2j0AKVwsiqrddMtco"
       },
       "artists": [
         {
-          "name": "Nitty Gritty Dirt Band",
-          "url": "https://open.spotify.com/artist/7y70dch6JuuuNnwlsOQvwW"
-        },
-        {
-          "name": "Nicolette Larson",
-          "url": "https://open.spotify.com/artist/0NCXrh1XOnHNp4mM0JUFJw"
+          "name": "Loggins & Messina",
+          "url": "https://open.spotify.com/artist/7emRV8AluG3d4e5T0DZiK9"
         }
       ],
-      "duration_ms": 235106,
-      "name": "Make A Little Magic - 2001 Remaster",
-      "url": "https://open.spotify.com/track/6bYroZcslsd84iw56ft2a6"
+      "duration_ms": 169306,
+      "name": "Listen to a Country Song",
+      "url": "https://open.spotify.com/track/5YEgs7DjcGk9pYP6l0u85h"
+    },
+    {
+      "added_at": "2020-08-05 15:52:11",
+      "album": {
+        "name": "Black & White",
+        "url": "https://open.spotify.com/album/71upkCAZBdlRRxoSbG8wvQ"
+      },
+      "artists": [
+        {
+          "name": "Tony Joe White",
+          "url": "https://open.spotify.com/artist/6QvgWa4x3Ij4tvBpFMo11P"
+        }
+      ],
+      "duration_ms": 144720,
+      "name": "Ten More Miles to Louisiana",
+      "url": "https://open.spotify.com/track/1E252QgKGNYBXfwaiXZtZy"
     },
     {
       "added_at": "2020-08-05 15:52:11",
@@ -823,18 +819,22 @@
     {
       "added_at": "2020-08-05 15:52:11",
       "album": {
-        "name": "Black & White",
-        "url": "https://open.spotify.com/album/71upkCAZBdlRRxoSbG8wvQ"
+        "name": "Best Of",
+        "url": "https://open.spotify.com/album/53g97Xwkme1StWj2GC3BkG"
       },
       "artists": [
         {
-          "name": "Tony Joe White",
-          "url": "https://open.spotify.com/artist/6QvgWa4x3Ij4tvBpFMo11P"
+          "name": "Nitty Gritty Dirt Band",
+          "url": "https://open.spotify.com/artist/7y70dch6JuuuNnwlsOQvwW"
+        },
+        {
+          "name": "Nicolette Larson",
+          "url": "https://open.spotify.com/artist/0NCXrh1XOnHNp4mM0JUFJw"
         }
       ],
-      "duration_ms": 144720,
-      "name": "Ten More Miles to Louisiana",
-      "url": "https://open.spotify.com/track/1E252QgKGNYBXfwaiXZtZy"
+      "duration_ms": 235106,
+      "name": "Make A Little Magic - 2001 Remaster",
+      "url": "https://open.spotify.com/track/6bYroZcslsd84iw56ft2a6"
     },
     {
       "added_at": "2020-08-05 15:52:11",

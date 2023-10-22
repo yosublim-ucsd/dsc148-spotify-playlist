@@ -4,7 +4,7 @@
 
 > alternative meets electronic Cover: Layto
 
-269 songs - 14 hr 7 min
+270 songs - 14 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -56,7 +56,8 @@
 | [Crown](https://open.spotify.com/track/2WvJe9V3Ee7CL8Fn6DwF8i) | [WE ARE FURY](https://open.spotify.com/artist/44Wi4QHWK4CzACCqCyxo3x), [Brassie](https://open.spotify.com/artist/7mEgHnF1FvDGiUg2K1Pt2n), [Kyle Reynolds](https://open.spotify.com/artist/5yhR0OqJhkbQ2y76XUte3R) | [Crown](https://open.spotify.com/album/1IKHE6yFVUkJR9peiUHwFQ) | 2:51 | 2023-08-18 |  |
 | [CRÈME BRÛLÉE!](https://open.spotify.com/track/0vG00tUzNqeQ4Yt2y5Bcyb) | [spill tab](https://open.spotify.com/artist/3qqkHeEhezlIaNj1vFYH2r) | [CRÈME BRÛLÉE!](https://open.spotify.com/album/58eBBZo09rnbbhX03ggp9c) | 2:15 | 2022-11-25 |  |
 | [DANCEFLOOR](https://open.spotify.com/track/1Pvq76uvP8iMC7K0BXNE1c) | [NOISY](https://open.spotify.com/artist/5bt1iZVk3VV1LxRL4wzZ9F), [Charlotte Plank](https://open.spotify.com/artist/4U5QErgn94wZGw1rJz01BO) | [DANCEFLOOR](https://open.spotify.com/album/1POG70eBb9W3K3BHhGKNMO) | 2:52 | 2023-08-18 |  |
-| [Dancing On My Grave](https://open.spotify.com/track/7yJSJthb06XSJyVrI6aJ2o) | [Groupthink](https://open.spotify.com/artist/6RQvRKNtkO1CeNyGkY8ok0), [KennyHoopla](https://open.spotify.com/artist/5ObBtv5VunwwhQaXXnUrsM) | [Dancing On My Grave](https://open.spotify.com/album/28qVezLAgShXv5A4loiqyx) | 2:40 | 2023-04-21 |  |
+| [Dancing On My Grave](https://open.spotify.com/track/5SEVkAkzDaWPXw44o9VPNt) | [Groupthink](https://open.spotify.com/artist/6RQvRKNtkO1CeNyGkY8ok0), [KennyHoopla](https://open.spotify.com/artist/5ObBtv5VunwwhQaXXnUrsM) | [before the afters](https://open.spotify.com/album/5XTV8RuXj4pdd2wS5I7wyl) | 2:40 | 2023-08-18 |  |
+| [Dancing On My Grave](https://open.spotify.com/track/7yJSJthb06XSJyVrI6aJ2o) | [Groupthink](https://open.spotify.com/artist/6RQvRKNtkO1CeNyGkY8ok0), [KennyHoopla](https://open.spotify.com/artist/5ObBtv5VunwwhQaXXnUrsM) | [Dancing On My Grave](https://open.spotify.com/album/28qVezLAgShXv5A4loiqyx) | 2:40 | 2023-04-21 | 2023-10-22 |
 | [Days Go By](https://open.spotify.com/track/0OCIiW9YJEqpHZZAyLuqU3) | [NOISY](https://open.spotify.com/artist/5bt1iZVk3VV1LxRL4wzZ9F) | [Days Go By](https://open.spotify.com/album/3hEjE2rKrMxZNV0qO40aTV) | 2:50 | 2021-05-21 | 2022-08-14 |
 | [Days Go By](https://open.spotify.com/track/3HQgbZUdzP6kn27L5c0LcV) | [NOISY](https://open.spotify.com/artist/5bt1iZVk3VV1LxRL4wzZ9F) | [Young Dumb](https://open.spotify.com/album/3t55Gq48Pbw1uw51T4WSoi) | 2:50 | 2022-11-25 | 2023-04-22 |
 | [Dead](https://open.spotify.com/track/3z4bbV92bY6K2A5EMXpLhI) | [Baby Jane](https://open.spotify.com/artist/3scHMUcB85BflinC8FclbI) | [Dead](https://open.spotify.com/album/4c2aw2xQDzSHqesCIfeCMm) | 2:37 | 2022-04-01 | 2022-07-28 |

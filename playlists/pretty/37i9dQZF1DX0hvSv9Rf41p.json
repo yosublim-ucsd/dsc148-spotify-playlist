@@ -1,12 +1,12 @@
 {
   "description": "All things <a href=\"spotify:genre:bass\">bass</a> with GRiZ",
-  "num_followers": 975841,
+  "num_followers": 976039,
   "original_name": "Bass Arcade",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5Y2QyMGYzOGM0MjFkZDQzMTU1ODY0Zjk0MjI1N2Q0NDdmMzI1NDlj",
+  "snapshot_id": "MCwxN2RjOTA4M2EyYjA1ZmVhODliY2U5MDFhNWY0YmY4ZDQ3YzM1ZTk1",
   "tracks": [
     {
       "added_at": "2023-10-20 04:01:00",
@@ -923,6 +923,26 @@
     {
       "added_at": "2023-10-20 04:01:00",
       "album": {
+        "name": "Uh Uh",
+        "url": "https://open.spotify.com/album/4jSCuNWv43WQQWngBGrIBC"
+      },
+      "artists": [
+        {
+          "name": "What So Not",
+          "url": "https://open.spotify.com/artist/4AA8eXtzqh5ykxtafLaPOi"
+        },
+        {
+          "name": "SLUMBERJACK",
+          "url": "https://open.spotify.com/artist/55BFQS36sJYz2B0ClypIvS"
+        }
+      ],
+      "duration_ms": 193098,
+      "name": "Uh Uh",
+      "url": "https://open.spotify.com/track/59cFhnC1ZxXKvPIF1Y66fj"
+    },
+    {
+      "added_at": "2023-10-20 04:01:00",
+      "album": {
         "name": "Heritage",
         "url": "https://open.spotify.com/album/4hO0xNT3cqylkfL5Raw3zG"
       },
@@ -943,22 +963,42 @@
     {
       "added_at": "2023-10-20 04:01:00",
       "album": {
-        "name": "Uh Uh",
-        "url": "https://open.spotify.com/album/4jSCuNWv43WQQWngBGrIBC"
+        "name": "Moonlight",
+        "url": "https://open.spotify.com/album/1MyRd6S8tq6eG9nzsdStA6"
       },
       "artists": [
         {
-          "name": "What So Not",
-          "url": "https://open.spotify.com/artist/4AA8eXtzqh5ykxtafLaPOi"
+          "name": "Seven Lions",
+          "url": "https://open.spotify.com/artist/6fcTRFpz0yH79qSKfof7lp"
         },
         {
-          "name": "SLUMBERJACK",
-          "url": "https://open.spotify.com/artist/55BFQS36sJYz2B0ClypIvS"
+          "name": "Kill The Noise",
+          "url": "https://open.spotify.com/artist/3qnMl4DHT4gndzFAcG4FlM"
         }
       ],
-      "duration_ms": 193098,
-      "name": "Uh Uh",
-      "url": "https://open.spotify.com/track/59cFhnC1ZxXKvPIF1Y66fj"
+      "duration_ms": 217600,
+      "name": "Moonlight",
+      "url": "https://open.spotify.com/track/6sXg6Tv9mq5Qv0TWVdfcUE"
+    },
+    {
+      "added_at": "2023-10-20 04:01:00",
+      "album": {
+        "name": "SHYPOP",
+        "url": "https://open.spotify.com/album/54nbjxcvF5fRiDmp6IoWm8"
+      },
+      "artists": [
+        {
+          "name": "ISOxo",
+          "url": "https://open.spotify.com/artist/4zVCMnjw54nkhGHU4e1Pav"
+        },
+        {
+          "name": "Ninajirachi",
+          "url": "https://open.spotify.com/artist/3MekbRujJg5VZThubOlrkR"
+        }
+      ],
+      "duration_ms": 208941,
+      "name": "SHYPOP",
+      "url": "https://open.spotify.com/track/2iggQ4lOp55ohzosZMYhSd"
     },
     {
       "added_at": "2023-10-20 04:01:00",
@@ -987,22 +1027,18 @@
     {
       "added_at": "2023-10-20 04:01:00",
       "album": {
-        "name": "SHYPOP",
-        "url": "https://open.spotify.com/album/54nbjxcvF5fRiDmp6IoWm8"
+        "name": "Muscaria / Everglade March (VIP)",
+        "url": "https://open.spotify.com/album/1Y5nL86z3vHZHbpaB3TV7u"
       },
       "artists": [
         {
-          "name": "ISOxo",
-          "url": "https://open.spotify.com/artist/4zVCMnjw54nkhGHU4e1Pav"
-        },
-        {
-          "name": "Ninajirachi",
-          "url": "https://open.spotify.com/artist/3MekbRujJg5VZThubOlrkR"
+          "name": "Of The Trees",
+          "url": "https://open.spotify.com/artist/5V7NIXgCnX2KuQ01Bxg20c"
         }
       ],
-      "duration_ms": 208941,
-      "name": "SHYPOP",
-      "url": "https://open.spotify.com/track/2iggQ4lOp55ohzosZMYhSd"
+      "duration_ms": 169462,
+      "name": "Muscaria",
+      "url": "https://open.spotify.com/track/2oHt6KQZ5IXExcBEQhObjZ"
     },
     {
       "added_at": "2023-10-20 04:01:00",
@@ -1027,42 +1063,6 @@
     {
       "added_at": "2023-10-20 04:01:00",
       "album": {
-        "name": "Muscaria / Everglade March (VIP)",
-        "url": "https://open.spotify.com/album/1Y5nL86z3vHZHbpaB3TV7u"
-      },
-      "artists": [
-        {
-          "name": "Of The Trees",
-          "url": "https://open.spotify.com/artist/5V7NIXgCnX2KuQ01Bxg20c"
-        }
-      ],
-      "duration_ms": 169462,
-      "name": "Muscaria",
-      "url": "https://open.spotify.com/track/2oHt6KQZ5IXExcBEQhObjZ"
-    },
-    {
-      "added_at": "2023-10-20 04:01:00",
-      "album": {
-        "name": "Find It In Your Mind",
-        "url": "https://open.spotify.com/album/2bLajnFeXD9VhyaT62LzNR"
-      },
-      "artists": [
-        {
-          "name": "Zingara",
-          "url": "https://open.spotify.com/artist/5LxbXRVEMOw6i1WSa2YQn1"
-        },
-        {
-          "name": "Steller",
-          "url": "https://open.spotify.com/artist/7fNu9x4iV166BQmQQKOmXl"
-        }
-      ],
-      "duration_ms": 199147,
-      "name": "Find It In Your Mind",
-      "url": "https://open.spotify.com/track/29ytM04QyJTJWVzod8J75t"
-    },
-    {
-      "added_at": "2023-10-20 04:01:00",
-      "album": {
         "name": "Embers",
         "url": "https://open.spotify.com/album/4hhmTA5VDMXfEyjDudkMBn"
       },
@@ -1083,22 +1083,22 @@
     {
       "added_at": "2023-10-20 04:01:00",
       "album": {
-        "name": "Dopamine",
-        "url": "https://open.spotify.com/album/0WBKJgbjqaNdw2AqHQWuvf"
+        "name": "Find It In Your Mind",
+        "url": "https://open.spotify.com/album/2bLajnFeXD9VhyaT62LzNR"
       },
       "artists": [
         {
-          "name": "Wooli",
-          "url": "https://open.spotify.com/artist/1Uyqa2sdHm1bL5JK4IC4zc"
+          "name": "Zingara",
+          "url": "https://open.spotify.com/artist/5LxbXRVEMOw6i1WSa2YQn1"
         },
         {
-          "name": "Tape B",
-          "url": "https://open.spotify.com/artist/59tlsKpLWoLTxjNNS2wdPi"
+          "name": "Steller",
+          "url": "https://open.spotify.com/artist/7fNu9x4iV166BQmQQKOmXl"
         }
       ],
-      "duration_ms": 158896,
-      "name": "Dopamine",
-      "url": "https://open.spotify.com/track/6VZlZwLkThFbO3gmBYeDUK"
+      "duration_ms": 199147,
+      "name": "Find It In Your Mind",
+      "url": "https://open.spotify.com/track/29ytM04QyJTJWVzod8J75t"
     },
     {
       "added_at": "2023-10-20 04:01:00",
@@ -1135,6 +1135,26 @@
       "duration_ms": 221142,
       "name": "dontstopme!",
       "url": "https://open.spotify.com/track/6IJg6Lj08UReeoz9590Ps5"
+    },
+    {
+      "added_at": "2023-10-20 04:01:00",
+      "album": {
+        "name": "Dopamine",
+        "url": "https://open.spotify.com/album/0WBKJgbjqaNdw2AqHQWuvf"
+      },
+      "artists": [
+        {
+          "name": "Wooli",
+          "url": "https://open.spotify.com/artist/1Uyqa2sdHm1bL5JK4IC4zc"
+        },
+        {
+          "name": "Tape B",
+          "url": "https://open.spotify.com/artist/59tlsKpLWoLTxjNNS2wdPi"
+        }
+      ],
+      "duration_ms": 158896,
+      "name": "Dopamine",
+      "url": "https://open.spotify.com/track/6VZlZwLkThFbO3gmBYeDUK"
     },
     {
       "added_at": "2023-10-20 04:01:00",
@@ -1211,6 +1231,30 @@
       "duration_ms": 140196,
       "name": "On & On",
       "url": "https://open.spotify.com/track/5OBxgQAkvL5INmylerFSWv"
+    },
+    {
+      "added_at": "2023-10-20 04:01:00",
+      "album": {
+        "name": "Skull Machine",
+        "url": "https://open.spotify.com/album/4N45nvS8gGoJ9kRxnBnk6J"
+      },
+      "artists": [
+        {
+          "name": "Black Tiger Sex Machine",
+          "url": "https://open.spotify.com/artist/0o9qzOHuHkGZ3xMFKpMFkC"
+        },
+        {
+          "name": "Kai Wachi",
+          "url": "https://open.spotify.com/artist/2fNr4ldujwq97v1jWeqs8K"
+        },
+        {
+          "name": "Wasiu",
+          "url": "https://open.spotify.com/artist/5U1eJDpMKZiQustw16e0g2"
+        }
+      ],
+      "duration_ms": 195310,
+      "name": "Skull Machine",
+      "url": "https://open.spotify.com/track/5ScWfZGzV29Pr9dk7gLl95"
     },
     {
       "added_at": "2023-10-20 04:01:00",
@@ -1311,26 +1355,6 @@
     {
       "added_at": "2023-10-20 04:01:00",
       "album": {
-        "name": "Dream Sequence",
-        "url": "https://open.spotify.com/album/2M3r10nJAuWXUoUkZAmvqM"
-      },
-      "artists": [
-        {
-          "name": "IMANU",
-          "url": "https://open.spotify.com/artist/5Y7rFm0tiJTVDzGLMzz0W1"
-        },
-        {
-          "name": "The Glitch Mob",
-          "url": "https://open.spotify.com/artist/3a9qv6NLHnsVxJUtKOMHvD"
-        }
-      ],
-      "duration_ms": 215111,
-      "name": "Dream Sequence",
-      "url": "https://open.spotify.com/track/1YrVLt1ET4GzwS3HfOcxWw"
-    },
-    {
-      "added_at": "2023-10-20 04:01:00",
-      "album": {
         "name": "Die With It",
         "url": "https://open.spotify.com/album/6uwEBRSWF2VwW6SUmGnhpW"
       },
@@ -1347,6 +1371,26 @@
       "duration_ms": 139500,
       "name": "Die With It",
       "url": "https://open.spotify.com/track/3ZDuop6M6asvg8zae32PVz"
+    },
+    {
+      "added_at": "2023-10-20 04:01:00",
+      "album": {
+        "name": "Dream Sequence",
+        "url": "https://open.spotify.com/album/2M3r10nJAuWXUoUkZAmvqM"
+      },
+      "artists": [
+        {
+          "name": "IMANU",
+          "url": "https://open.spotify.com/artist/5Y7rFm0tiJTVDzGLMzz0W1"
+        },
+        {
+          "name": "The Glitch Mob",
+          "url": "https://open.spotify.com/artist/3a9qv6NLHnsVxJUtKOMHvD"
+        }
+      ],
+      "duration_ms": 215111,
+      "name": "Dream Sequence",
+      "url": "https://open.spotify.com/track/1YrVLt1ET4GzwS3HfOcxWw"
     },
     {
       "added_at": "2023-10-20 04:01:00",
@@ -1375,22 +1419,6 @@
     {
       "added_at": "2023-10-20 04:01:00",
       "album": {
-        "name": "Get Wompy",
-        "url": "https://open.spotify.com/album/7I7SUHapYZwLjzQB9Whcu6"
-      },
-      "artists": [
-        {
-          "name": "SIPPY",
-          "url": "https://open.spotify.com/artist/4LLYqe8ogaK9wC1xHlvR5S"
-        }
-      ],
-      "duration_ms": 153600,
-      "name": "Get Wompy",
-      "url": "https://open.spotify.com/track/3JFbLpgf57vGArmdFULXNB"
-    },
-    {
-      "added_at": "2023-10-20 04:01:00",
-      "album": {
         "name": "Your Lovin'",
         "url": "https://open.spotify.com/album/7rBFU32lvfinN9H59HWKU7"
       },
@@ -1407,22 +1435,18 @@
     {
       "added_at": "2023-10-20 04:01:00",
       "album": {
-        "name": "Pocketknife",
-        "url": "https://open.spotify.com/album/2dAJpqKsJv9xiWMAH1z0k0"
+        "name": "Get Wompy",
+        "url": "https://open.spotify.com/album/7I7SUHapYZwLjzQB9Whcu6"
       },
       "artists": [
         {
-          "name": "EDDIE",
-          "url": "https://open.spotify.com/artist/0LgrViZrCyMgg5MfTc33bd"
-        },
-        {
-          "name": "Lights",
-          "url": "https://open.spotify.com/artist/5pdyjBIaY5o1yOyexGIUc6"
+          "name": "SIPPY",
+          "url": "https://open.spotify.com/artist/4LLYqe8ogaK9wC1xHlvR5S"
         }
       ],
-      "duration_ms": 259812,
-      "name": "Pocketknife",
-      "url": "https://open.spotify.com/track/4s3SY8wz9GaTMkAYBloV4k"
+      "duration_ms": 153600,
+      "name": "Get Wompy",
+      "url": "https://open.spotify.com/track/3JFbLpgf57vGArmdFULXNB"
     },
     {
       "added_at": "2023-10-20 04:01:00",
@@ -1443,6 +1467,50 @@
       "duration_ms": 221601,
       "name": "FLATLINE - Eliminate Remix",
       "url": "https://open.spotify.com/track/3a5LILnpCITemhDUZzB3D3"
+    },
+    {
+      "added_at": "2023-10-20 04:01:00",
+      "album": {
+        "name": "HOLLOW WORLD",
+        "url": "https://open.spotify.com/album/1X7hgRvsPzxBrc0Q3HC719"
+      },
+      "artists": [
+        {
+          "name": "Kill The Noise",
+          "url": "https://open.spotify.com/artist/3qnMl4DHT4gndzFAcG4FlM"
+        },
+        {
+          "name": "Anjulie",
+          "url": "https://open.spotify.com/artist/4DTbdShHu2RPYEEMUp2XWV"
+        },
+        {
+          "name": "ARE WE DREAMING",
+          "url": "https://open.spotify.com/artist/2MJKhrFApwgCRUyA2zTcNa"
+        }
+      ],
+      "duration_ms": 225600,
+      "name": "Paper Moon",
+      "url": "https://open.spotify.com/track/0QkLyxDS85ZsgqMazrhOMK"
+    },
+    {
+      "added_at": "2023-10-20 04:01:00",
+      "album": {
+        "name": "Pocketknife",
+        "url": "https://open.spotify.com/album/2dAJpqKsJv9xiWMAH1z0k0"
+      },
+      "artists": [
+        {
+          "name": "EDDIE",
+          "url": "https://open.spotify.com/artist/0LgrViZrCyMgg5MfTc33bd"
+        },
+        {
+          "name": "Lights",
+          "url": "https://open.spotify.com/artist/5pdyjBIaY5o1yOyexGIUc6"
+        }
+      ],
+      "duration_ms": 259812,
+      "name": "Pocketknife",
+      "url": "https://open.spotify.com/track/4s3SY8wz9GaTMkAYBloV4k"
     },
     {
       "added_at": "2023-10-20 04:01:00",
@@ -1471,30 +1539,6 @@
       "duration_ms": 304460,
       "name": "Shapeshifter (feat. Styles of Beyond) - Zardonic & Pythius Remix",
       "url": "https://open.spotify.com/track/2UuHVdvmK8hcjLF6ek117I"
-    },
-    {
-      "added_at": "2023-10-20 04:01:00",
-      "album": {
-        "name": "HOLLOW WORLD",
-        "url": "https://open.spotify.com/album/1X7hgRvsPzxBrc0Q3HC719"
-      },
-      "artists": [
-        {
-          "name": "Kill The Noise",
-          "url": "https://open.spotify.com/artist/3qnMl4DHT4gndzFAcG4FlM"
-        },
-        {
-          "name": "Anjulie",
-          "url": "https://open.spotify.com/artist/4DTbdShHu2RPYEEMUp2XWV"
-        },
-        {
-          "name": "ARE WE DREAMING",
-          "url": "https://open.spotify.com/artist/2MJKhrFApwgCRUyA2zTcNa"
-        }
-      ],
-      "duration_ms": 225600,
-      "name": "Paper Moon",
-      "url": "https://open.spotify.com/track/0QkLyxDS85ZsgqMazrhOMK"
     },
     {
       "added_at": "2023-10-20 04:01:00",
@@ -1615,22 +1659,22 @@
     {
       "added_at": "2023-10-20 04:01:00",
       "album": {
-        "name": "Where You At",
-        "url": "https://open.spotify.com/album/1ojzEUbTPZd1TvXbcV4mj7"
+        "name": "LEFT TO RIGHT (Subsonic Remix)",
+        "url": "https://open.spotify.com/album/0bfCjB90W0daFxgDBt8mTm"
       },
       "artists": [
         {
-          "name": "Flux Pavilion",
-          "url": "https://open.spotify.com/artist/7muzHifhMdnfN1xncRLOqk"
+          "name": "Odd Mob",
+          "url": "https://open.spotify.com/artist/4qLwtWhlhyAoQ4S9mSrDW9"
         },
         {
-          "name": "Conrank",
-          "url": "https://open.spotify.com/artist/3qNEgvMVFSPWLeBGuqRQ4F"
+          "name": "Subsonic",
+          "url": "https://open.spotify.com/artist/4D6frglSGSAHoK7W5rp92j"
         }
       ],
-      "duration_ms": 233689,
-      "name": "Where You At",
-      "url": "https://open.spotify.com/track/1l4Jlmelh8O7QSURiSxQXT"
+      "duration_ms": 179310,
+      "name": "LEFT TO RIGHT - Subsonic Remix",
+      "url": "https://open.spotify.com/track/2GAsRV6TNEFPosAHtbIaxo"
     },
     {
       "added_at": "2023-10-20 04:01:00",
@@ -1651,22 +1695,22 @@
     {
       "added_at": "2023-10-20 04:01:00",
       "album": {
-        "name": "LEFT TO RIGHT (Subsonic Remix)",
-        "url": "https://open.spotify.com/album/0bfCjB90W0daFxgDBt8mTm"
+        "name": "Where You At",
+        "url": "https://open.spotify.com/album/1ojzEUbTPZd1TvXbcV4mj7"
       },
       "artists": [
         {
-          "name": "Odd Mob",
-          "url": "https://open.spotify.com/artist/4qLwtWhlhyAoQ4S9mSrDW9"
+          "name": "Flux Pavilion",
+          "url": "https://open.spotify.com/artist/7muzHifhMdnfN1xncRLOqk"
         },
         {
-          "name": "Subsonic",
-          "url": "https://open.spotify.com/artist/4D6frglSGSAHoK7W5rp92j"
+          "name": "Conrank",
+          "url": "https://open.spotify.com/artist/3qNEgvMVFSPWLeBGuqRQ4F"
         }
       ],
-      "duration_ms": 179310,
-      "name": "LEFT TO RIGHT - Subsonic Remix",
-      "url": "https://open.spotify.com/track/2GAsRV6TNEFPosAHtbIaxo"
+      "duration_ms": 233689,
+      "name": "Where You At",
+      "url": "https://open.spotify.com/track/1l4Jlmelh8O7QSURiSxQXT"
     },
     {
       "added_at": "2023-10-20 04:01:00",
@@ -1691,46 +1735,6 @@
       "duration_ms": 287000,
       "name": "Before You Leave",
       "url": "https://open.spotify.com/track/5tkIlZJ0rIGFpNg0q94H10"
-    },
-    {
-      "added_at": "2023-10-20 04:01:00",
-      "album": {
-        "name": "Moonlight",
-        "url": "https://open.spotify.com/album/1MyRd6S8tq6eG9nzsdStA6"
-      },
-      "artists": [
-        {
-          "name": "Seven Lions",
-          "url": "https://open.spotify.com/artist/6fcTRFpz0yH79qSKfof7lp"
-        },
-        {
-          "name": "Kill The Noise",
-          "url": "https://open.spotify.com/artist/3qnMl4DHT4gndzFAcG4FlM"
-        }
-      ],
-      "duration_ms": 217600,
-      "name": "Moonlight",
-      "url": "https://open.spotify.com/track/6sXg6Tv9mq5Qv0TWVdfcUE"
-    },
-    {
-      "added_at": "2023-10-20 04:01:00",
-      "album": {
-        "name": "New Age Dreaming",
-        "url": "https://open.spotify.com/album/046CzF0aCtKCebNqLD6zHI"
-      },
-      "artists": [
-        {
-          "name": "Moss",
-          "url": "https://open.spotify.com/artist/2Jc8cCPK5iNSXVUgf79gD6"
-        },
-        {
-          "name": "The Boy Of Many Colors",
-          "url": "https://open.spotify.com/artist/6TH3slGLeQpUTS5Ng01bWx"
-        }
-      ],
-      "duration_ms": 219200,
-      "name": "New Age Dreaming",
-      "url": "https://open.spotify.com/track/6KxUvWRs2kDp1apoVADBXq"
     },
     {
       "added_at": "2023-10-20 04:01:00",
@@ -1767,6 +1771,46 @@
       "duration_ms": 200339,
       "name": "Breath",
       "url": "https://open.spotify.com/track/5jA67K9o5mEW5NzjRCdAUg"
+    },
+    {
+      "added_at": "2023-10-20 04:01:00",
+      "album": {
+        "name": "New Age Dreaming",
+        "url": "https://open.spotify.com/album/046CzF0aCtKCebNqLD6zHI"
+      },
+      "artists": [
+        {
+          "name": "Moss",
+          "url": "https://open.spotify.com/artist/2Jc8cCPK5iNSXVUgf79gD6"
+        },
+        {
+          "name": "The Boy Of Many Colors",
+          "url": "https://open.spotify.com/artist/6TH3slGLeQpUTS5Ng01bWx"
+        }
+      ],
+      "duration_ms": 219200,
+      "name": "New Age Dreaming",
+      "url": "https://open.spotify.com/track/6KxUvWRs2kDp1apoVADBXq"
+    },
+    {
+      "added_at": "2023-10-20 04:01:00",
+      "album": {
+        "name": "At All",
+        "url": "https://open.spotify.com/album/0x6XvRRRXlTDPElalyXRHr"
+      },
+      "artists": [
+        {
+          "name": "12th Planet",
+          "url": "https://open.spotify.com/artist/3V1h3kAdiVDBiwlY2i6dJz"
+        },
+        {
+          "name": "Palmer Reed",
+          "url": "https://open.spotify.com/artist/4ulmcIhz563rmr5AOwStju"
+        }
+      ],
+      "duration_ms": 224000,
+      "name": "At All",
+      "url": "https://open.spotify.com/track/6rJHOYjFFn0zSr5woZwQka"
     },
     {
       "added_at": "2023-10-20 04:01:00",
@@ -1811,26 +1855,6 @@
     {
       "added_at": "2023-10-20 04:01:00",
       "album": {
-        "name": "Nonstop",
-        "url": "https://open.spotify.com/album/3tS6hhl22D2BWjA7Y0Vf35"
-      },
-      "artists": [
-        {
-          "name": "Drezo",
-          "url": "https://open.spotify.com/artist/5uiDE9y1o7EEyDbNBo6vl9"
-        },
-        {
-          "name": "EDDIE",
-          "url": "https://open.spotify.com/artist/0LgrViZrCyMgg5MfTc33bd"
-        }
-      ],
-      "duration_ms": 294653,
-      "name": "Nonstop",
-      "url": "https://open.spotify.com/track/0SUc7tyzR0jSTBEElIzqxB"
-    },
-    {
-      "added_at": "2023-10-20 04:01:00",
-      "album": {
         "name": "Let Go",
         "url": "https://open.spotify.com/album/4nDapjSoCGVjrUHJP85pLp"
       },
@@ -1855,22 +1879,22 @@
     {
       "added_at": "2023-10-20 04:01:00",
       "album": {
-        "name": "At All",
-        "url": "https://open.spotify.com/album/0x6XvRRRXlTDPElalyXRHr"
+        "name": "Nonstop",
+        "url": "https://open.spotify.com/album/3tS6hhl22D2BWjA7Y0Vf35"
       },
       "artists": [
         {
-          "name": "12th Planet",
-          "url": "https://open.spotify.com/artist/3V1h3kAdiVDBiwlY2i6dJz"
+          "name": "Drezo",
+          "url": "https://open.spotify.com/artist/5uiDE9y1o7EEyDbNBo6vl9"
         },
         {
-          "name": "Palmer Reed",
-          "url": "https://open.spotify.com/artist/4ulmcIhz563rmr5AOwStju"
+          "name": "EDDIE",
+          "url": "https://open.spotify.com/artist/0LgrViZrCyMgg5MfTc33bd"
         }
       ],
-      "duration_ms": 224000,
-      "name": "At All",
-      "url": "https://open.spotify.com/track/6rJHOYjFFn0zSr5woZwQka"
+      "duration_ms": 294653,
+      "name": "Nonstop",
+      "url": "https://open.spotify.com/track/0SUc7tyzR0jSTBEElIzqxB"
     },
     {
       "added_at": "2023-10-20 04:01:00",
@@ -1943,30 +1967,6 @@
       "duration_ms": 112128,
       "name": "BORN TO DIE",
       "url": "https://open.spotify.com/track/34pS1KVbdWpcckfWOIhdtI"
-    },
-    {
-      "added_at": "2023-10-20 04:01:00",
-      "album": {
-        "name": "Skull Machine",
-        "url": "https://open.spotify.com/album/4N45nvS8gGoJ9kRxnBnk6J"
-      },
-      "artists": [
-        {
-          "name": "Black Tiger Sex Machine",
-          "url": "https://open.spotify.com/artist/0o9qzOHuHkGZ3xMFKpMFkC"
-        },
-        {
-          "name": "Kai Wachi",
-          "url": "https://open.spotify.com/artist/2fNr4ldujwq97v1jWeqs8K"
-        },
-        {
-          "name": "Wasiu",
-          "url": "https://open.spotify.com/artist/5U1eJDpMKZiQustw16e0g2"
-        }
-      ],
-      "duration_ms": 195310,
-      "name": "Skull Machine",
-      "url": "https://open.spotify.com/track/5ScWfZGzV29Pr9dk7gLl95"
     },
     {
       "added_at": "2023-10-20 04:01:00",

@@ -4,7 +4,7 @@
 
 > Acoustic country songs from the heart of Nashville \- stripped down to the basics.
 
-258 songs - 14 hr 4 min
+259 songs - 14 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,7 +18,7 @@
 | [ABCDEFU \- Live Acoustic](https://open.spotify.com/track/11oLOD6csB1XCKLxAgDnG7) | [Julia Cole](https://open.spotify.com/artist/48rpE75ZIsnfNFyojfYene) | [ABCDEFU \(Live Acoustic\)](https://open.spotify.com/album/7on7eQbCCF9vPj2vnL2Txb) | 2:49 | 2022-02-25 | 2022-07-26 |
 | [Again \- Stripped Bare](https://open.spotify.com/track/1bhOH57HFef45IWSAcqC6G) | [BEXAR](https://open.spotify.com/artist/1GXBaX5YUjOrrXch1sGepn) | [Again \(Stripped Bare\)](https://open.spotify.com/album/0lE5keuEk5Y10vK6fDEIe6) | 2:33 | 2022-07-01 | 2022-08-01 |
 | [All I Know About Girls](https://open.spotify.com/track/07Jhq6iNvTWXFShXK3kXHy) | [Old Dominion](https://open.spotify.com/artist/6y8XlgIV8BLlIg1tT1R10i) | [All I Know About Girls](https://open.spotify.com/album/6znifmY5YCopX4SrEb3dxR) | 2:42 | 2021-12-17 |  |
-| [All I Need Is You \- Piano Version](https://open.spotify.com/track/1WRZsHTzk6mgNNyYaSeWeS) | [Chris Janson](https://open.spotify.com/artist/60gmlHZmT16wiO9GiXKYK9) | [All I Need Is You \(Piano Version\)](https://open.spotify.com/album/5U5tcDHRiuY3N0uisN7y8N) | 3:15 | 2023-09-01 |  |
+| [All I Need Is You \- Piano Version](https://open.spotify.com/track/1WRZsHTzk6mgNNyYaSeWeS) | [Chris Janson](https://open.spotify.com/artist/60gmlHZmT16wiO9GiXKYK9) | [All I Need Is You \(Piano Version\)](https://open.spotify.com/album/5U5tcDHRiuY3N0uisN7y8N) | 3:15 | 2023-09-01 | 2023-10-22 |
 | [All On Me \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/7aq3BKKrM3luFfBuZso3U1) | [Devin Dawson](https://open.spotify.com/artist/2ySHS7UojGu20XfUPaBlyu) | [Spotify Singles](https://open.spotify.com/album/72JX0b36iIgjSHlhCSLHOv) | 3:31 | 2021-12-17 |  |
 | [All The Time \- Stripped](https://open.spotify.com/track/5szCtOKnYxYxDYadu18QmN) | [David James](https://open.spotify.com/artist/6JKG9xGqoyj7oMHF0ta147) | [MDM Recordings 2022 Wrap Up \- Rarities, Remixes And The Hits](https://open.spotify.com/album/2IrlPDhlLnzh81xWyF1Rcj) | 3:05 | 2022-12-30 | 2023-01-25 |
 | [Almost Maybes \- Acoustic](https://open.spotify.com/track/4ZYpv3IMjQd6Hoi3xMKRPC) | [Jordan Davis](https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI) | [Almost Maybes \(Acoustic\)](https://open.spotify.com/album/2tT0KYZ5ZO0meRleXxrwoW) | 2:59 | 2021-12-17 | 2023-08-19 |
@@ -230,6 +230,7 @@
 | [Under My Skin \- Stripped](https://open.spotify.com/track/5jZgXhm2cSQmOTDJQENojy) | [Nate Smith](https://open.spotify.com/artist/4NYMUsIcUUsBHbV9DICa5x) | [Under My Skin \(Stripped\)](https://open.spotify.com/album/7216gXKQDpH8s38HJasmhS) | 3:05 | 2021-12-17 | 2022-07-29 |
 | [Us \(Acoustic\)](https://open.spotify.com/track/335YyFuHhO42xeENv3QT1a) | [Hannah Ellis](https://open.spotify.com/artist/6jHWWttC33OQdEDnUXtYrq) | [Us \(Acoustic\)](https://open.spotify.com/album/2JpnvFRNhalClaoZ4AbPuK) | 2:59 | 2022-04-01 |  |
 | [Waiting For You \- Acoustic](https://open.spotify.com/track/6tcxucpT43gb76cCXtGzo9) | [Russell Dickerson](https://open.spotify.com/artist/1E2AEtxaFaJtH0lO7kgNKw) | [Studio 900 Sessions](https://open.spotify.com/album/3ooKzgaNauxvrQeIl5DTZK) | 3:05 | 2021-12-17 | 2023-10-14 |
+| [Wanna Be Saved \(Acoustic\)](https://open.spotify.com/track/5epVsitL7tbdUM8FoIywYj) | [Austin Williams](https://open.spotify.com/artist/1VKH3J7gGkVyOX0sEqsFSR) | [All Out Acoustic Sessions](https://open.spotify.com/album/6gjHiXBlEdFs4WpBlV66KB) | 3:07 | 2023-10-20 |  |
 | [Want It Again](https://open.spotify.com/track/3VvPREisNL7yBoePVbLbyZ) | [Thomas Rhett](https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8) | [Country Again \(Side A\)](https://open.spotify.com/album/3W2BTPUHJX51hweWPNRenv) | 2:52 | 2022-07-15 |  |
 | [Want It Again](https://open.spotify.com/track/7KRcMPOGQA0WOw0T8qeXD7) | [Thomas Rhett](https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8) | [Country Again \(Side A\)](https://open.spotify.com/album/54gUAvhpOHFDhHGAINyogO) | 2:52 | 2021-12-17 | 2022-07-29 |
 | [Watch Me Quit](https://open.spotify.com/track/6b9j8qFKyRDMF7BBcx4YLG) | [O'Shea](https://open.spotify.com/artist/194o33PqUyeBl8BCOImebX) | [Watch Me Quit](https://open.spotify.com/album/4DvaYpQR2MuYv8l7LsXROq) | 5:48 | 2021-12-17 | 2022-01-15 |

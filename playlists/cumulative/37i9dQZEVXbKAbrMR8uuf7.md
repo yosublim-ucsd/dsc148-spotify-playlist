@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Dominican Republic.
 
-1,110 songs - 2 day 12 hr 47 min
+1,111 songs - 2 day 12 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -139,6 +139,7 @@
 | [Bottas](https://open.spotify.com/track/5G5Xl4HHGJM6MrMAUIb538) | [Arcangel](https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X), [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg), [Bizarrap](https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36) | [SR\. SANTOS](https://open.spotify.com/album/2AvuFDqTlnxvYhyVaLU6NY) | 3:28 | 2022-12-03 | 2022-12-05 |
 | [Boy Boy](https://open.spotify.com/track/0E2T5QGDi48YmAo32ZqaqF) | [Yaisel LM](https://open.spotify.com/artist/2PxnKk0fTNgMzm5pY6tINL), [Hansel El De La H](https://open.spotify.com/artist/6gwlllidzu0wkRNkXKGDfG) | [Boy Boy](https://open.spotify.com/album/2D8kgOal3Dego8yDv60ZLX) | 2:14 | 2023-07-09 | 2023-10-18 |
 | [Boy Boy](https://open.spotify.com/track/1eK3kCQnzPvNgvDRy5QP1B) | [Yaisel LM](https://open.spotify.com/artist/2PxnKk0fTNgMzm5pY6tINL), [Hansel El De La H](https://open.spotify.com/artist/6gwlllidzu0wkRNkXKGDfG) | [Boy Boy](https://open.spotify.com/album/22qAftm8hq6g4pkOJYCF5y) | 2:14 | 2023-10-17 | 2023-10-19 |
+| [Boy Boy \- Remix](https://open.spotify.com/track/6wivhAkZ67Qpp76PENP0jh) | [Yaisel LM](https://open.spotify.com/artist/2PxnKk0fTNgMzm5pY6tINL), [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX), [NLE Choppa](https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ) | [Boy Boy \(Remix\)](https://open.spotify.com/album/1i5RtiEWMC4qLRtNyLNSpQ) | 3:09 | 2023-10-21 |  |
 | [Brag](https://open.spotify.com/track/6m0xmSxggodO539odnflHC) | [Tfemi](https://open.spotify.com/artist/2VWmK7nhgDbM7KG6SIhGf2) | [Barter79](https://open.spotify.com/album/3ZqDSUbJqiajkZ4zthUZZi) | 2:26 | 2023-01-20 | 2023-01-22 |
 | [Broken](https://open.spotify.com/track/2zCI5CsgJYziOsRXQEN5Pi) | [AC music Promotions](https://open.spotify.com/artist/29qku6aKvUatEpXLSEkxh2) | [Broken](https://open.spotify.com/album/3ME4LiFmU5VBKoFtBIUeKp) | 2:36 | 2023-06-22 | 2023-06-25 |
 | [Brother](https://open.spotify.com/track/3M23T72K5eqHI2GzdFMMHE) | [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66) | [Brother](https://open.spotify.com/album/5aw4wm2nZtKrilz0CcTeD8) | 3:29 | 2022-09-16 | 2022-09-20 |
@@ -874,7 +875,7 @@
 | [RUTA](https://open.spotify.com/track/0lNjgODRkskk8UpLukk1iy) | [Lowkey M30](https://open.spotify.com/artist/4utWGMbIvfbTmJrG7A1og1) | [RUTA](https://open.spotify.com/album/2qYXLaXaeruejwxOEROhHQ) | 2:22 | 2023-07-01 | 2023-07-07 |
 | [RÁPIDO](https://open.spotify.com/track/6peVAUzSxDlTigQw5T99O5) | [Mora](https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S) | [RÁPIDO](https://open.spotify.com/album/2D5urBuawvNIrKdxO0X1pe) | 3:02 | 2023-04-29 | 2023-05-01 |
 | [S.E.X.O](https://open.spotify.com/track/48UX3JH23V6syy4kAkGfhn) | [Kevin Roldan](https://open.spotify.com/artist/1RBzGO6Nm3uyhUSxP7EDWO), [Bryant Myers](https://open.spotify.com/artist/6w9ToX5slZ4uIdmD17hJ3c) | [S.E.X.O](https://open.spotify.com/album/61iRLkyYf1DdGkGkNvqd2K) | 3:33 | 2023-02-11 | 2023-02-15 |
-| [S91](https://open.spotify.com/track/0BFQC00Y58JtjMyTXOJazO) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [MAÑANA SERÁ BONITO \(BICHOTA SEASON\)](https://open.spotify.com/album/0FqAaUEyKCyUNFE1uQPZ7i) | 2:53 | 2023-08-12 |  |
+| [S91](https://open.spotify.com/track/0BFQC00Y58JtjMyTXOJazO) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [MAÑANA SERÁ BONITO \(BICHOTA SEASON\)](https://open.spotify.com/album/0FqAaUEyKCyUNFE1uQPZ7i) | 2:53 | 2023-08-12 | 2023-10-22 |
 | [S91](https://open.spotify.com/track/7EpOXgSRgnglRWr86pZfGU) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [S91](https://open.spotify.com/album/0bgvd5Xd52TX61R8uhaISK) | 2:53 | 2023-07-15 | 2023-08-13 |
 | [Sacrifice](https://open.spotify.com/track/1nH2PkJL1XoUq8oE6tBZoU) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Dawn FM](https://open.spotify.com/album/2nLOHgzXzwFEpl62zAgCEC) | 3:08 | 2022-01-08 | 2022-01-14 |
 | [Sacudelo](https://open.spotify.com/track/0mBUchfVU0BhcuQC1i3mQO) | [Sarita](https://open.spotify.com/artist/1QxkThT4UZIVSv5KS7KS8I), [Bigoblin](https://open.spotify.com/artist/38m9i1Ro4UpoMLGuRm6bwq), [Dj Human Star](https://open.spotify.com/artist/0g5a7nTAbwPPMzJi4KvaYW) | [Sacudelo](https://open.spotify.com/album/57TQDu4FcRpfeB0w2sSf52) | 2:17 | 2022-09-08 | 2022-09-16 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7oMO417tEZs.md) - [plain]
 
 > new gems by artists carving their own lane\. Cover: Caroline Polachek
 
-[Spotify](https://open.spotify.com/user/spotify) - 144,587 likes - 100 songs - 5 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 144,611 likes - 100 songs - 5 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7oMO417tEZs.md) - [plain]
 | 99 | [DOA](https://open.spotify.com/track/5O6OvEmhWKKt6Jpkq4B4g3) | [Terrell Morris](https://open.spotify.com/artist/7C3agcqFXnteDagiWhaZdU) | [CURB](https://open.spotify.com/album/4R9JE7rZGzc2kBzUKgfT5x) | 3:12 |
 | 100 | [MEU](https://open.spotify.com/track/2YMn4nukGmaweP9HPB4aLl) | [Matty](https://open.spotify.com/artist/7K1kHQsB2m87TMVcDbZAfW) | [EIS O HOMEM](https://open.spotify.com/album/59Jgu2vo7q0qw4o93oU8wC) | 3:28 |
 
-Snapshot ID: `MCxkZDhjNmNlYmM5MjllMTdmZThhODZkM2I2MmJjOTdkZmM0MWY1YmE3`
+Snapshot ID: `MCw2ZTYxODhlNWViMTdmZDgwZjg1ZDFlN2JlNzRlZTgzOWVlODFmMDlh`

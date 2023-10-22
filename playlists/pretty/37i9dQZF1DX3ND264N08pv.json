@@ -1,12 +1,12 @@
 {
   "description": "Hardcore and uptempo to get you pumped",
-  "num_followers": 61990,
+  "num_followers": 62111,
   "original_name": "Hardcore Rage 2023",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5OGUxYWRiYzcyN2I3NmFlNTIwMDNlOTFlYjVjNWNjYmI3MGI0OTk1",
+  "snapshot_id": "MCwyNTBmYzcyY2E4YzI5MjA1MmU3MDYxYzc1NzQzOTEzYjFkN2Q5MzUw",
   "tracks": [
     {
       "added_at": "2023-10-16 16:16:08",
@@ -467,6 +467,22 @@
     {
       "added_at": "2023-10-16 16:16:08",
       "album": {
+        "name": "You Can't Stop Me",
+        "url": "https://open.spotify.com/album/2ebP1DLH7d1TDWicgcLAHQ"
+      },
+      "artists": [
+        {
+          "name": "Miss K8",
+          "url": "https://open.spotify.com/artist/776uRsooWrGiVZkVWtvfgO"
+        }
+      ],
+      "duration_ms": 199200,
+      "name": "You Can't Stop Me",
+      "url": "https://open.spotify.com/track/1tuBppcw5aSqMNnGUmXcid"
+    },
+    {
+      "added_at": "2023-10-16 16:16:08",
+      "album": {
         "name": "So Druff (D-Fence Remix)",
         "url": "https://open.spotify.com/album/1Syx62VNKXvKBPZ84zQj1v"
       },
@@ -499,22 +515,6 @@
       "duration_ms": 231102,
       "name": "Enter The Dome - Official Thunderdome 2022 Anthem",
       "url": "https://open.spotify.com/track/5wvfLTKIewrRfrZJRs3Qqf"
-    },
-    {
-      "added_at": "2023-10-16 16:16:08",
-      "album": {
-        "name": "You Can't Stop Me",
-        "url": "https://open.spotify.com/album/2ebP1DLH7d1TDWicgcLAHQ"
-      },
-      "artists": [
-        {
-          "name": "Miss K8",
-          "url": "https://open.spotify.com/artist/776uRsooWrGiVZkVWtvfgO"
-        }
-      ],
-      "duration_ms": 199200,
-      "name": "You Can't Stop Me",
-      "url": "https://open.spotify.com/track/1tuBppcw5aSqMNnGUmXcid"
     },
     {
       "added_at": "2023-10-16 16:16:08",
@@ -611,22 +611,22 @@
     {
       "added_at": "2023-10-16 16:16:08",
       "album": {
-        "name": "Fat Beat",
-        "url": "https://open.spotify.com/album/4FxTlGHqQ4Xl6S5QByZEBl"
+        "name": "Eclipse",
+        "url": "https://open.spotify.com/album/1YnDpDHRlgSwkwZaqmAVy8"
       },
       "artists": [
         {
-          "name": "N-Vitral",
-          "url": "https://open.spotify.com/artist/5yirHkilaq4YSjO9BY6oy3"
+          "name": "Miss K8",
+          "url": "https://open.spotify.com/artist/776uRsooWrGiVZkVWtvfgO"
         },
         {
-          "name": "Killshot",
-          "url": "https://open.spotify.com/artist/2m5uCiZcpQ50tXsJrThFoM"
+          "name": "D-Sturb",
+          "url": "https://open.spotify.com/artist/7E6DrjKJieOdJKO8mbwCMO"
         }
       ],
-      "duration_ms": 231600,
-      "name": "Fat Beat",
-      "url": "https://open.spotify.com/track/6uWksA4RzIKGlHNg4of8pV"
+      "duration_ms": 221368,
+      "name": "Dope Sh!t",
+      "url": "https://open.spotify.com/track/3NXA25q68QQgGVKPx4SIhs"
     },
     {
       "added_at": "2023-10-16 16:16:08",
@@ -671,22 +671,22 @@
     {
       "added_at": "2023-10-16 16:16:08",
       "album": {
-        "name": "Eclipse",
-        "url": "https://open.spotify.com/album/1YnDpDHRlgSwkwZaqmAVy8"
+        "name": "Fat Beat",
+        "url": "https://open.spotify.com/album/4FxTlGHqQ4Xl6S5QByZEBl"
       },
       "artists": [
         {
-          "name": "Miss K8",
-          "url": "https://open.spotify.com/artist/776uRsooWrGiVZkVWtvfgO"
+          "name": "N-Vitral",
+          "url": "https://open.spotify.com/artist/5yirHkilaq4YSjO9BY6oy3"
         },
         {
-          "name": "D-Sturb",
-          "url": "https://open.spotify.com/artist/7E6DrjKJieOdJKO8mbwCMO"
+          "name": "Killshot",
+          "url": "https://open.spotify.com/artist/2m5uCiZcpQ50tXsJrThFoM"
         }
       ],
-      "duration_ms": 221368,
-      "name": "Dope Sh!t",
-      "url": "https://open.spotify.com/track/3NXA25q68QQgGVKPx4SIhs"
+      "duration_ms": 231600,
+      "name": "Fat Beat",
+      "url": "https://open.spotify.com/track/6uWksA4RzIKGlHNg4of8pV"
     },
     {
       "added_at": "2023-10-16 16:16:08",
@@ -703,30 +703,6 @@
       "duration_ms": 166615,
       "name": "HIT THA CLUB",
       "url": "https://open.spotify.com/track/13vfyLZ1FsC73tOGTXHC1H"
-    },
-    {
-      "added_at": "2023-10-16 16:16:08",
-      "album": {
-        "name": "HYPER",
-        "url": "https://open.spotify.com/album/5nONZdOuEns5bTt2y6Mbcg"
-      },
-      "artists": [
-        {
-          "name": "N-Vitral",
-          "url": "https://open.spotify.com/artist/5yirHkilaq4YSjO9BY6oy3"
-        },
-        {
-          "name": "BOMBSQUAD",
-          "url": "https://open.spotify.com/artist/7fyZZzdEhPZmZWrqrYS0tl"
-        },
-        {
-          "name": "Spitnoise",
-          "url": "https://open.spotify.com/artist/29kB8Ku9QQNmrl3yZw6Xxl"
-        }
-      ],
-      "duration_ms": 206285,
-      "name": "HYPER",
-      "url": "https://open.spotify.com/track/4GbecipoI4oyDE148vjkde"
     },
     {
       "added_at": "2023-10-16 16:16:08",
@@ -807,38 +783,6 @@
     {
       "added_at": "2023-10-16 16:16:08",
       "album": {
-        "name": "LOSE STRESS",
-        "url": "https://open.spotify.com/album/2OKZCUdcVh8mCgPZEpQBhZ"
-      },
-      "artists": [
-        {
-          "name": "LunaKorpz",
-          "url": "https://open.spotify.com/artist/2OSIL8pcABTROov8XT74z1"
-        }
-      ],
-      "duration_ms": 168101,
-      "name": "LOSE STRESS",
-      "url": "https://open.spotify.com/track/1awFS7E8LutYumdpdYGq7M"
-    },
-    {
-      "added_at": "2023-10-16 16:16:08",
-      "album": {
-        "name": "Woo",
-        "url": "https://open.spotify.com/album/3Zf6HFquFGMyFJrVCvp2bB"
-      },
-      "artists": [
-        {
-          "name": "Korsakoff",
-          "url": "https://open.spotify.com/artist/1rWaCpcmmjycvD00Kf6YyE"
-        }
-      ],
-      "duration_ms": 217652,
-      "name": "Woo",
-      "url": "https://open.spotify.com/track/0EpqkTQgogq6iHpeOwEoGh"
-    },
-    {
-      "added_at": "2023-10-16 16:16:08",
-      "album": {
         "name": "Take Me High",
         "url": "https://open.spotify.com/album/6JlrucS3EDrrdxJCI9fv1V"
       },
@@ -851,82 +795,6 @@
       "duration_ms": 171000,
       "name": "Take Me High",
       "url": "https://open.spotify.com/track/0ojP7HmCeflp0I0ZUmT8JI"
-    },
-    {
-      "added_at": "2023-10-16 16:16:08",
-      "album": {
-        "name": "Burn MF",
-        "url": "https://open.spotify.com/album/3xQTtEFddnUR8jjHR36RUh"
-      },
-      "artists": [
-        {
-          "name": "N-Vitral",
-          "url": "https://open.spotify.com/artist/5yirHkilaq4YSjO9BY6oy3"
-        },
-        {
-          "name": "Deadly Guns",
-          "url": "https://open.spotify.com/artist/1RsU9zuGACUb1NGShiFpcP"
-        }
-      ],
-      "duration_ms": 183000,
-      "name": "Burn MF",
-      "url": "https://open.spotify.com/track/2r6w2d3ehFw7BZ5yDLcroq"
-    },
-    {
-      "added_at": "2023-10-16 16:16:08",
-      "album": {
-        "name": "Pac-man 2.0",
-        "url": "https://open.spotify.com/album/1xKoaEipTJrKQNXlQzpyMj"
-      },
-      "artists": [
-        {
-          "name": "FrenchFaces",
-          "url": "https://open.spotify.com/artist/5I6ibYN9zhp6iqtJGuHjMt"
-        }
-      ],
-      "duration_ms": 148360,
-      "name": "Pac-man 2.0",
-      "url": "https://open.spotify.com/track/4lXnOLBho6DRMaTUnJoACs"
-    },
-    {
-      "added_at": "2023-10-16 16:16:08",
-      "album": {
-        "name": "Fuego (Official Masters of Hardcore Spain 2022 Anthem)",
-        "url": "https://open.spotify.com/album/11z5qFumjzdnEPFmPgAdWx"
-      },
-      "artists": [
-        {
-          "name": "D-Fence",
-          "url": "https://open.spotify.com/artist/5WUnGF4pM7DerBF0GSivNv"
-        },
-        {
-          "name": "Mr. Hyde",
-          "url": "https://open.spotify.com/artist/4hcDjY6PSQy3g9gqrCaPX0"
-        }
-      ],
-      "duration_ms": 279157,
-      "name": "Fuego - Official Masters of Hardcore Spain 2022 Anthem",
-      "url": "https://open.spotify.com/track/28xaU1zdGofWCsxKwvIZ2o"
-    },
-    {
-      "added_at": "2023-10-16 16:16:08",
-      "album": {
-        "name": "Birds Of Prey",
-        "url": "https://open.spotify.com/album/47W7mse88m5QeXraSc28Ga"
-      },
-      "artists": [
-        {
-          "name": "Nosferatu",
-          "url": "https://open.spotify.com/artist/0S6b11xqvO6XOWZSukSjiY"
-        },
-        {
-          "name": "Maintain",
-          "url": "https://open.spotify.com/artist/2dXEbXQ9fhc8cI9Vla7fR0"
-        }
-      ],
-      "duration_ms": 185846,
-      "name": "Birds Of Prey",
-      "url": "https://open.spotify.com/track/7hRfEhxrcO80pJUmrT59kr"
     },
     {
       "added_at": "2023-10-16 16:16:08",
@@ -951,18 +819,78 @@
     {
       "added_at": "2023-10-16 16:16:08",
       "album": {
-        "name": "THE 4TH DIMENSION",
-        "url": "https://open.spotify.com/album/3S0H9fBa0BlcZnjCQQEte8"
+        "name": "Woo",
+        "url": "https://open.spotify.com/album/3Zf6HFquFGMyFJrVCvp2bB"
       },
       "artists": [
         {
-          "name": "Anime",
-          "url": "https://open.spotify.com/artist/6lnEWBl7dhcA1FL5yqRHPO"
+          "name": "Korsakoff",
+          "url": "https://open.spotify.com/artist/1rWaCpcmmjycvD00Kf6YyE"
         }
       ],
-      "duration_ms": 203052,
-      "name": "Oldschool The School",
-      "url": "https://open.spotify.com/track/3og4g4ASh85aYNRTHzX0gO"
+      "duration_ms": 217652,
+      "name": "Woo",
+      "url": "https://open.spotify.com/track/0EpqkTQgogq6iHpeOwEoGh"
+    },
+    {
+      "added_at": "2023-10-16 16:16:08",
+      "album": {
+        "name": "Pac-man 2.0",
+        "url": "https://open.spotify.com/album/1xKoaEipTJrKQNXlQzpyMj"
+      },
+      "artists": [
+        {
+          "name": "FrenchFaces",
+          "url": "https://open.spotify.com/artist/5I6ibYN9zhp6iqtJGuHjMt"
+        }
+      ],
+      "duration_ms": 148360,
+      "name": "Pac-man 2.0",
+      "url": "https://open.spotify.com/track/4lXnOLBho6DRMaTUnJoACs"
+    },
+    {
+      "added_at": "2023-10-16 16:16:08",
+      "album": {
+        "name": "HYPER",
+        "url": "https://open.spotify.com/album/5nONZdOuEns5bTt2y6Mbcg"
+      },
+      "artists": [
+        {
+          "name": "N-Vitral",
+          "url": "https://open.spotify.com/artist/5yirHkilaq4YSjO9BY6oy3"
+        },
+        {
+          "name": "BOMBSQUAD",
+          "url": "https://open.spotify.com/artist/7fyZZzdEhPZmZWrqrYS0tl"
+        },
+        {
+          "name": "Spitnoise",
+          "url": "https://open.spotify.com/artist/29kB8Ku9QQNmrl3yZw6Xxl"
+        }
+      ],
+      "duration_ms": 206285,
+      "name": "HYPER",
+      "url": "https://open.spotify.com/track/4GbecipoI4oyDE148vjkde"
+    },
+    {
+      "added_at": "2023-10-16 16:16:08",
+      "album": {
+        "name": "Fuego (Official Masters of Hardcore Spain 2022 Anthem)",
+        "url": "https://open.spotify.com/album/11z5qFumjzdnEPFmPgAdWx"
+      },
+      "artists": [
+        {
+          "name": "D-Fence",
+          "url": "https://open.spotify.com/artist/5WUnGF4pM7DerBF0GSivNv"
+        },
+        {
+          "name": "Mr. Hyde",
+          "url": "https://open.spotify.com/artist/4hcDjY6PSQy3g9gqrCaPX0"
+        }
+      ],
+      "duration_ms": 279157,
+      "name": "Fuego - Official Masters of Hardcore Spain 2022 Anthem",
+      "url": "https://open.spotify.com/track/28xaU1zdGofWCsxKwvIZ2o"
     },
     {
       "added_at": "2023-10-16 16:16:08",
@@ -979,6 +907,58 @@
       "duration_ms": 185230,
       "name": "Not Afraid to Fall",
       "url": "https://open.spotify.com/track/6YLTwVpwO2OwuKPq5MC5oe"
+    },
+    {
+      "added_at": "2023-10-16 16:16:08",
+      "album": {
+        "name": "Birds Of Prey",
+        "url": "https://open.spotify.com/album/47W7mse88m5QeXraSc28Ga"
+      },
+      "artists": [
+        {
+          "name": "Nosferatu",
+          "url": "https://open.spotify.com/artist/0S6b11xqvO6XOWZSukSjiY"
+        },
+        {
+          "name": "Maintain",
+          "url": "https://open.spotify.com/artist/2dXEbXQ9fhc8cI9Vla7fR0"
+        }
+      ],
+      "duration_ms": 185846,
+      "name": "Birds Of Prey",
+      "url": "https://open.spotify.com/track/7hRfEhxrcO80pJUmrT59kr"
+    },
+    {
+      "added_at": "2023-10-16 16:16:08",
+      "album": {
+        "name": "LOSE STRESS",
+        "url": "https://open.spotify.com/album/2OKZCUdcVh8mCgPZEpQBhZ"
+      },
+      "artists": [
+        {
+          "name": "LunaKorpz",
+          "url": "https://open.spotify.com/artist/2OSIL8pcABTROov8XT74z1"
+        }
+      ],
+      "duration_ms": 168101,
+      "name": "LOSE STRESS",
+      "url": "https://open.spotify.com/track/1awFS7E8LutYumdpdYGq7M"
+    },
+    {
+      "added_at": "2023-10-16 16:16:08",
+      "album": {
+        "name": "THE 4TH DIMENSION",
+        "url": "https://open.spotify.com/album/3S0H9fBa0BlcZnjCQQEte8"
+      },
+      "artists": [
+        {
+          "name": "Anime",
+          "url": "https://open.spotify.com/artist/6lnEWBl7dhcA1FL5yqRHPO"
+        }
+      ],
+      "duration_ms": 203052,
+      "name": "Oldschool The School",
+      "url": "https://open.spotify.com/track/3og4g4ASh85aYNRTHzX0gO"
     },
     {
       "added_at": "2023-10-16 16:16:08",
@@ -1011,6 +991,26 @@
       "duration_ms": 205000,
       "name": "Without Respect",
       "url": "https://open.spotify.com/track/4jnzaXsBg7Y938Q7Po9LFd"
+    },
+    {
+      "added_at": "2023-10-16 16:16:08",
+      "album": {
+        "name": "Burn MF",
+        "url": "https://open.spotify.com/album/3xQTtEFddnUR8jjHR36RUh"
+      },
+      "artists": [
+        {
+          "name": "N-Vitral",
+          "url": "https://open.spotify.com/artist/5yirHkilaq4YSjO9BY6oy3"
+        },
+        {
+          "name": "Deadly Guns",
+          "url": "https://open.spotify.com/artist/1RsU9zuGACUb1NGShiFpcP"
+        }
+      ],
+      "duration_ms": 183000,
+      "name": "Burn MF",
+      "url": "https://open.spotify.com/track/2r6w2d3ehFw7BZ5yDLcroq"
     },
     {
       "added_at": "2023-10-16 16:16:08",
@@ -1091,6 +1091,58 @@
     {
       "added_at": "2023-10-16 16:16:08",
       "album": {
+        "name": "Beat My Drum",
+        "url": "https://open.spotify.com/album/0Ca81J3tS5KzIXPvvUAysq"
+      },
+      "artists": [
+        {
+          "name": "Dither",
+          "url": "https://open.spotify.com/artist/2CTPZndAY5BwdgHk8AX0B7"
+        }
+      ],
+      "duration_ms": 202124,
+      "name": "Beat My Drum",
+      "url": "https://open.spotify.com/track/17RJrhF02qbO7jN0jU5mdQ"
+    },
+    {
+      "added_at": "2023-10-16 16:16:08",
+      "album": {
+        "name": "Mutilate",
+        "url": "https://open.spotify.com/album/1N5ZJaQFOrT6GJnqUW2c6b"
+      },
+      "artists": [
+        {
+          "name": "Chapter V",
+          "url": "https://open.spotify.com/artist/1YYs95M2z6CIPc0zWfMrab"
+        },
+        {
+          "name": "Amduscias",
+          "url": "https://open.spotify.com/artist/2s2uHpjXIyzhPIXkm8iP2y"
+        }
+      ],
+      "duration_ms": 230281,
+      "name": "Mutilate",
+      "url": "https://open.spotify.com/track/5Th8O9vWzImhIqb1kO8TLE"
+    },
+    {
+      "added_at": "2023-10-16 16:16:08",
+      "album": {
+        "name": "HIT IT",
+        "url": "https://open.spotify.com/album/41iCih8VDmQCezbRHH8U95"
+      },
+      "artists": [
+        {
+          "name": "Irradiate",
+          "url": "https://open.spotify.com/artist/3iVpZjQNb6mpiV5KY2xY9I"
+        }
+      ],
+      "duration_ms": 164210,
+      "name": "HIT IT",
+      "url": "https://open.spotify.com/track/4ucb4VSNPP6zctQqnnubpb"
+    },
+    {
+      "added_at": "2023-10-16 16:16:08",
+      "album": {
         "name": "The Ultimate Killing Machine",
         "url": "https://open.spotify.com/album/4Go2MGwW5SXqoJCzYgmW23"
       },
@@ -1107,22 +1159,6 @@
       "duration_ms": 205846,
       "name": "Here To Stay",
       "url": "https://open.spotify.com/track/6Zvj3BSyp3lwyw9uSqsGpr"
-    },
-    {
-      "added_at": "2023-10-16 16:16:08",
-      "album": {
-        "name": "Beat My Drum",
-        "url": "https://open.spotify.com/album/0Ca81J3tS5KzIXPvvUAysq"
-      },
-      "artists": [
-        {
-          "name": "Dither",
-          "url": "https://open.spotify.com/artist/2CTPZndAY5BwdgHk8AX0B7"
-        }
-      ],
-      "duration_ms": 202124,
-      "name": "Beat My Drum",
-      "url": "https://open.spotify.com/track/17RJrhF02qbO7jN0jU5mdQ"
     },
     {
       "added_at": "2023-10-16 16:16:08",
@@ -1147,42 +1183,6 @@
       "duration_ms": 186098,
       "name": "DON'T BE SCARED",
       "url": "https://open.spotify.com/track/7acXF1WBYmFqqbgExXLQ98"
-    },
-    {
-      "added_at": "2023-10-16 16:16:08",
-      "album": {
-        "name": "HIT IT",
-        "url": "https://open.spotify.com/album/41iCih8VDmQCezbRHH8U95"
-      },
-      "artists": [
-        {
-          "name": "Irradiate",
-          "url": "https://open.spotify.com/artist/3iVpZjQNb6mpiV5KY2xY9I"
-        }
-      ],
-      "duration_ms": 164210,
-      "name": "HIT IT",
-      "url": "https://open.spotify.com/track/4ucb4VSNPP6zctQqnnubpb"
-    },
-    {
-      "added_at": "2023-10-16 16:16:08",
-      "album": {
-        "name": "Mutilate",
-        "url": "https://open.spotify.com/album/1N5ZJaQFOrT6GJnqUW2c6b"
-      },
-      "artists": [
-        {
-          "name": "Chapter V",
-          "url": "https://open.spotify.com/artist/1YYs95M2z6CIPc0zWfMrab"
-        },
-        {
-          "name": "Amduscias",
-          "url": "https://open.spotify.com/artist/2s2uHpjXIyzhPIXkm8iP2y"
-        }
-      ],
-      "duration_ms": 230281,
-      "name": "Mutilate",
-      "url": "https://open.spotify.com/track/5Th8O9vWzImhIqb1kO8TLE"
     },
     {
       "added_at": "2023-10-16 16:16:08",
@@ -1315,22 +1315,6 @@
     {
       "added_at": "2023-10-16 16:16:08",
       "album": {
-        "name": "The Ultimate Sound",
-        "url": "https://open.spotify.com/album/2yxYtxZZmQDIchjXz0gegW"
-      },
-      "artists": [
-        {
-          "name": "Neophyte",
-          "url": "https://open.spotify.com/artist/2AfGElfjqXuSyUny7dsj9p"
-        }
-      ],
-      "duration_ms": 161419,
-      "name": "The Ultimate Sound",
-      "url": "https://open.spotify.com/track/2Jum2ypFvxaNcLWHUyi17g"
-    },
-    {
-      "added_at": "2023-10-16 16:16:08",
-      "album": {
         "name": "Adrenaline Kicks",
         "url": "https://open.spotify.com/album/0CydGc9RB0mcPrEYEVOhoN"
       },
@@ -1343,6 +1327,22 @@
       "duration_ms": 160390,
       "name": "Adrenaline Kicks",
       "url": "https://open.spotify.com/track/5pgQRiuJ0dKnimS6wkpNfA"
+    },
+    {
+      "added_at": "2023-10-16 16:16:08",
+      "album": {
+        "name": "The Ultimate Sound",
+        "url": "https://open.spotify.com/album/2yxYtxZZmQDIchjXz0gegW"
+      },
+      "artists": [
+        {
+          "name": "Neophyte",
+          "url": "https://open.spotify.com/artist/2AfGElfjqXuSyUny7dsj9p"
+        }
+      ],
+      "duration_ms": 161419,
+      "name": "The Ultimate Sound",
+      "url": "https://open.spotify.com/track/2Jum2ypFvxaNcLWHUyi17g"
     },
     {
       "added_at": "2023-10-16 16:16:08",
@@ -1779,22 +1779,6 @@
     {
       "added_at": "2023-10-16 16:16:08",
       "album": {
-        "name": "Ride With Me",
-        "url": "https://open.spotify.com/album/6lMQKunBm9GKk6QQfhRJQ4"
-      },
-      "artists": [
-        {
-          "name": "Vandal!sm",
-          "url": "https://open.spotify.com/artist/34gGWxDix1DnDFwFWg4tn4"
-        }
-      ],
-      "duration_ms": 237818,
-      "name": "Ride With Me",
-      "url": "https://open.spotify.com/track/6QIvDOYiy1DiayGxMaPK6C"
-    },
-    {
-      "added_at": "2023-10-16 16:16:08",
-      "album": {
         "name": "TH3 FL0W",
         "url": "https://open.spotify.com/album/11ykfjfk1g4ZJjsx7tEM9J"
       },
@@ -1807,6 +1791,22 @@
       "duration_ms": 154272,
       "name": "TH3 FL0W",
       "url": "https://open.spotify.com/track/67pe3dZk02n1cXjtPbXuHh"
+    },
+    {
+      "added_at": "2023-10-16 16:16:08",
+      "album": {
+        "name": "Ride With Me",
+        "url": "https://open.spotify.com/album/6lMQKunBm9GKk6QQfhRJQ4"
+      },
+      "artists": [
+        {
+          "name": "Vandal!sm",
+          "url": "https://open.spotify.com/artist/34gGWxDix1DnDFwFWg4tn4"
+        }
+      ],
+      "duration_ms": 237818,
+      "name": "Ride With Me",
+      "url": "https://open.spotify.com/track/6QIvDOYiy1DiayGxMaPK6C"
     },
     {
       "added_at": "2023-10-16 16:16:08",

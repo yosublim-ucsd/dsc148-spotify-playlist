@@ -1,12 +1,12 @@
 {
   "description": "Heartbreaking and sad instrumental and vocal Jazz.",
-  "num_followers": 67451,
+  "num_followers": 67518,
   "original_name": "Heartbreak Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiZDM2OTY5ODQzOGYyNzcwZGYzNzA0ZmJmNzc5MGRmMWFmNzY0NjRm",
+  "snapshot_id": "MCxkZTMxYTNhNGYzYTYyY2Y2MGNhYTkwMGI0MjlhNDUyYTExOWZhYzZm",
   "tracks": [
     {
       "added_at": "2023-10-13 00:01:00",
@@ -215,22 +215,6 @@
     {
       "added_at": "2023-10-13 00:01:00",
       "album": {
-        "name": "Samara Joy",
-        "url": "https://open.spotify.com/album/4vtI5mccGzPEsOXOtPmef6"
-      },
-      "artists": [
-        {
-          "name": "Samara Joy",
-          "url": "https://open.spotify.com/artist/5LkbTSqXfMBjFSGi9LOGjq"
-        }
-      ],
-      "duration_ms": 233613,
-      "name": "Stardust",
-      "url": "https://open.spotify.com/track/60gs0cMpDerQrMDmGOj8LX"
-    },
-    {
-      "added_at": "2023-10-13 00:01:00",
-      "album": {
         "name": "I'll Be Seeing You",
         "url": "https://open.spotify.com/album/1OEy3BZSxMKMF6Y5oNE3Lv"
       },
@@ -247,6 +231,22 @@
       "duration_ms": 199423,
       "name": "I'll Be Seeing You",
       "url": "https://open.spotify.com/track/6w8czge0Bw1pYzViYNxB5z"
+    },
+    {
+      "added_at": "2023-10-13 00:01:00",
+      "album": {
+        "name": "Samara Joy",
+        "url": "https://open.spotify.com/album/4vtI5mccGzPEsOXOtPmef6"
+      },
+      "artists": [
+        {
+          "name": "Samara Joy",
+          "url": "https://open.spotify.com/artist/5LkbTSqXfMBjFSGi9LOGjq"
+        }
+      ],
+      "duration_ms": 233613,
+      "name": "Stardust",
+      "url": "https://open.spotify.com/track/60gs0cMpDerQrMDmGOj8LX"
     },
     {
       "added_at": "2023-10-13 00:01:00",
@@ -503,22 +503,6 @@
     {
       "added_at": "2023-10-13 00:01:00",
       "album": {
-        "name": "Ella Sings Gershwin",
-        "url": "https://open.spotify.com/album/3DJYxksYYP018jgpOTVXqO"
-      },
-      "artists": [
-        {
-          "name": "Ella Fitzgerald",
-          "url": "https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz"
-        }
-      ],
-      "duration_ms": 197666,
-      "name": "How Long Has This Been Going On?",
-      "url": "https://open.spotify.com/track/0HEU3berJ5OBojU8XmEk1c"
-    },
-    {
-      "added_at": "2023-10-13 00:01:00",
-      "album": {
         "name": "Lonely And Blue",
         "url": "https://open.spotify.com/album/5aMysOzmRwAQArAcRegasS"
       },
@@ -531,6 +515,22 @@
       "duration_ms": 202866,
       "name": "I Miss You So",
       "url": "https://open.spotify.com/track/0G3WxfqXCkCq9AGgqLINg9"
+    },
+    {
+      "added_at": "2023-10-13 00:01:00",
+      "album": {
+        "name": "Ella Sings Gershwin",
+        "url": "https://open.spotify.com/album/3DJYxksYYP018jgpOTVXqO"
+      },
+      "artists": [
+        {
+          "name": "Ella Fitzgerald",
+          "url": "https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz"
+        }
+      ],
+      "duration_ms": 197666,
+      "name": "How Long Has This Been Going On?",
+      "url": "https://open.spotify.com/track/0HEU3berJ5OBojU8XmEk1c"
     },
     {
       "added_at": "2023-10-13 00:01:00",
@@ -659,34 +659,22 @@
     {
       "added_at": "2023-10-13 00:01:00",
       "album": {
-        "name": "Alexandria The Great",
-        "url": "https://open.spotify.com/album/0mr9wOHzf0Pygckr8Mk0Q9"
+        "name": "Jasmine",
+        "url": "https://open.spotify.com/album/0dlzYOzj8FqN3OXV3jXZye"
       },
       "artists": [
         {
-          "name": "Lorez Alexandria",
-          "url": "https://open.spotify.com/artist/5FxVAiCRSETyMMPV8MDaHY"
-        }
-      ],
-      "duration_ms": 325493,
-      "name": "I'm Through With Love",
-      "url": "https://open.spotify.com/track/53vXsAvHqCO6Q6aFRacLaT"
-    },
-    {
-      "added_at": "2023-10-13 00:01:00",
-      "album": {
-        "name": "It's Time For Ernestine",
-        "url": "https://open.spotify.com/album/4VEMfnBuWDt6Ims4wQWH8L"
-      },
-      "artists": [
+          "name": "Keith Jarrett",
+          "url": "https://open.spotify.com/artist/0F3Aew9DSd6fb6192K1K0Y"
+        },
         {
-          "name": "Ernestine Anderson",
-          "url": "https://open.spotify.com/artist/7yNele4jnVhZJ2GE7Kg25T"
+          "name": "Charlie Haden",
+          "url": "https://open.spotify.com/artist/5Pqc0ZFA20Y9zGJZ3ojUin"
         }
       ],
-      "duration_ms": 148560,
-      "name": "That Old Feeling",
-      "url": "https://open.spotify.com/track/4gxqeb52ocvxNTNwHquFsW"
+      "duration_ms": 191386,
+      "name": "Don't Ever Leave Me",
+      "url": "https://open.spotify.com/track/2rjsU7OPalE0FuS0UULII9"
     },
     {
       "added_at": "2023-10-13 00:01:00",
@@ -711,22 +699,34 @@
     {
       "added_at": "2023-10-13 00:01:00",
       "album": {
-        "name": "Jasmine",
-        "url": "https://open.spotify.com/album/0dlzYOzj8FqN3OXV3jXZye"
+        "name": "It's Time For Ernestine",
+        "url": "https://open.spotify.com/album/4VEMfnBuWDt6Ims4wQWH8L"
       },
       "artists": [
         {
-          "name": "Keith Jarrett",
-          "url": "https://open.spotify.com/artist/0F3Aew9DSd6fb6192K1K0Y"
-        },
-        {
-          "name": "Charlie Haden",
-          "url": "https://open.spotify.com/artist/5Pqc0ZFA20Y9zGJZ3ojUin"
+          "name": "Ernestine Anderson",
+          "url": "https://open.spotify.com/artist/7yNele4jnVhZJ2GE7Kg25T"
         }
       ],
-      "duration_ms": 191386,
-      "name": "Don't Ever Leave Me",
-      "url": "https://open.spotify.com/track/2rjsU7OPalE0FuS0UULII9"
+      "duration_ms": 148560,
+      "name": "That Old Feeling",
+      "url": "https://open.spotify.com/track/4gxqeb52ocvxNTNwHquFsW"
+    },
+    {
+      "added_at": "2023-10-13 00:01:00",
+      "album": {
+        "name": "Alexandria The Great",
+        "url": "https://open.spotify.com/album/0mr9wOHzf0Pygckr8Mk0Q9"
+      },
+      "artists": [
+        {
+          "name": "Lorez Alexandria",
+          "url": "https://open.spotify.com/artist/5FxVAiCRSETyMMPV8MDaHY"
+        }
+      ],
+      "duration_ms": 325493,
+      "name": "I'm Through With Love",
+      "url": "https://open.spotify.com/track/53vXsAvHqCO6Q6aFRacLaT"
     },
     {
       "added_at": "2023-10-13 00:01:00",
@@ -767,22 +767,6 @@
     {
       "added_at": "2023-10-13 00:01:00",
       "album": {
-        "name": "Chet In Paris: Everything Happens To Me - The Complete Barclay Recording Vol. 2",
-        "url": "https://open.spotify.com/album/1YYIF3D8z28wRfTTXwvkUD"
-      },
-      "artists": [
-        {
-          "name": "Chet Baker",
-          "url": "https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T"
-        }
-      ],
-      "duration_ms": 218666,
-      "name": "Everything Happens To Me - Complete Take 2",
-      "url": "https://open.spotify.com/track/1FjIeuSHpU3x2J8cKCbc6r"
-    },
-    {
-      "added_at": "2023-10-13 00:01:00",
-      "album": {
         "name": "Dippin'",
         "url": "https://open.spotify.com/album/3mx9Te2p8koxBI9oe1341j"
       },
@@ -795,6 +779,22 @@
       "duration_ms": 329533,
       "name": "I See Your Face Before Me - Remastered",
       "url": "https://open.spotify.com/track/3yitw1j44b1AiXvTKFe3lG"
+    },
+    {
+      "added_at": "2023-10-13 00:01:00",
+      "album": {
+        "name": "Chet In Paris: Everything Happens To Me - The Complete Barclay Recording Vol. 2",
+        "url": "https://open.spotify.com/album/1YYIF3D8z28wRfTTXwvkUD"
+      },
+      "artists": [
+        {
+          "name": "Chet Baker",
+          "url": "https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T"
+        }
+      ],
+      "duration_ms": 218666,
+      "name": "Everything Happens To Me - Complete Take 2",
+      "url": "https://open.spotify.com/track/1FjIeuSHpU3x2J8cKCbc6r"
     },
     {
       "added_at": "2023-10-13 00:01:00",
@@ -983,22 +983,6 @@
     {
       "added_at": "2023-10-13 00:01:00",
       "album": {
-        "name": "Time To Swing",
-        "url": "https://open.spotify.com/album/6BshCNZsaV5TD2rlwDutko"
-      },
-      "artists": [
-        {
-          "name": "Dakota Staton",
-          "url": "https://open.spotify.com/artist/2oJWxzbOW9q6pTekL8JPGx"
-        }
-      ],
-      "duration_ms": 154760,
-      "name": "Baby, Don't You Cry",
-      "url": "https://open.spotify.com/track/30yadsMx45g0lPWUuYW7cX"
-    },
-    {
-      "added_at": "2023-10-13 00:01:00",
-      "album": {
         "name": "When Sunny Gets Blue",
         "url": "https://open.spotify.com/album/2tcBjPtxrfZLep0WKsdVAR"
       },
@@ -1015,6 +999,22 @@
       "duration_ms": 264617,
       "name": "When Sunny Gets Blue",
       "url": "https://open.spotify.com/track/2ttCdSWedaPtOltZLPZVAT"
+    },
+    {
+      "added_at": "2023-10-13 00:01:00",
+      "album": {
+        "name": "Time To Swing",
+        "url": "https://open.spotify.com/album/6BshCNZsaV5TD2rlwDutko"
+      },
+      "artists": [
+        {
+          "name": "Dakota Staton",
+          "url": "https://open.spotify.com/artist/2oJWxzbOW9q6pTekL8JPGx"
+        }
+      ],
+      "duration_ms": 154760,
+      "name": "Baby, Don't You Cry",
+      "url": "https://open.spotify.com/track/30yadsMx45g0lPWUuYW7cX"
     },
     {
       "added_at": "2023-10-13 00:01:00",
@@ -1263,6 +1263,22 @@
     {
       "added_at": "2023-10-13 00:01:00",
       "album": {
+        "name": "At The End Of The Day",
+        "url": "https://open.spotify.com/album/5VPF6Ae4YHkcGId3ImcbRs"
+      },
+      "artists": [
+        {
+          "name": "Till Br\u00f6nner",
+          "url": "https://open.spotify.com/artist/3Q4xYZ2ZuFaAsZZyjPIfc8"
+        }
+      ],
+      "duration_ms": 262000,
+      "name": "After You've Gone",
+      "url": "https://open.spotify.com/track/1Dv9y6jxAcIQ0mSA4pxYhU"
+    },
+    {
+      "added_at": "2023-10-13 00:01:00",
+      "album": {
         "name": "Love Swings",
         "url": "https://open.spotify.com/album/5Jny59DZHuswsttq0zJE65"
       },
@@ -1275,22 +1291,6 @@
       "duration_ms": 181746,
       "name": "Something to Remember You By",
       "url": "https://open.spotify.com/track/1P91FdmD8J7fgsnNdLWHnt"
-    },
-    {
-      "added_at": "2023-10-13 00:01:00",
-      "album": {
-        "name": "Helen Merrill With Strings",
-        "url": "https://open.spotify.com/album/1ZCXk8phZLNQSpOOMhIbWG"
-      },
-      "artists": [
-        {
-          "name": "Helen Merrill",
-          "url": "https://open.spotify.com/artist/4JHlHSUko0ivu6fXYT8J2q"
-        }
-      ],
-      "duration_ms": 231400,
-      "name": "Spring Will Be A Little Late This Year",
-      "url": "https://open.spotify.com/track/2GZwM4Pl7jbdgrHcJWu93c"
     },
     {
       "added_at": "2023-10-13 00:01:00",
@@ -1315,18 +1315,18 @@
     {
       "added_at": "2023-10-13 00:01:00",
       "album": {
-        "name": "At The End Of The Day",
-        "url": "https://open.spotify.com/album/5VPF6Ae4YHkcGId3ImcbRs"
+        "name": "Helen Merrill With Strings",
+        "url": "https://open.spotify.com/album/1ZCXk8phZLNQSpOOMhIbWG"
       },
       "artists": [
         {
-          "name": "Till Br\u00f6nner",
-          "url": "https://open.spotify.com/artist/3Q4xYZ2ZuFaAsZZyjPIfc8"
+          "name": "Helen Merrill",
+          "url": "https://open.spotify.com/artist/4JHlHSUko0ivu6fXYT8J2q"
         }
       ],
-      "duration_ms": 262000,
-      "name": "After You've Gone",
-      "url": "https://open.spotify.com/track/1Dv9y6jxAcIQ0mSA4pxYhU"
+      "duration_ms": 231400,
+      "name": "Spring Will Be A Little Late This Year",
+      "url": "https://open.spotify.com/track/2GZwM4Pl7jbdgrHcJWu93c"
     },
     {
       "added_at": "2023-10-13 00:01:00",
@@ -1463,22 +1463,6 @@
     {
       "added_at": "2023-10-13 00:01:00",
       "album": {
-        "name": "Abbey Lincoln's Affair... A Story Of A Girl In Love (Expanded Edition)",
-        "url": "https://open.spotify.com/album/75kSQXvLMJh5TsK65zGkOg"
-      },
-      "artists": [
-        {
-          "name": "Abbey Lincoln",
-          "url": "https://open.spotify.com/artist/0A9p7WNA1VwxVyrjx92Z9F"
-        }
-      ],
-      "duration_ms": 191000,
-      "name": "No More",
-      "url": "https://open.spotify.com/track/0OhVyeMWNraRrgGPByQiWc"
-    },
-    {
-      "added_at": "2023-10-13 00:01:00",
-      "album": {
         "name": "Waiter, Make Mine The Blues",
         "url": "https://open.spotify.com/album/77FW8dZ0Jrg54fKNl8fxA7"
       },
@@ -1495,18 +1479,34 @@
     {
       "added_at": "2023-10-13 00:01:00",
       "album": {
-        "name": "The Rockin' Chair Lady",
-        "url": "https://open.spotify.com/album/4lPSYNGinkzy6Taq0rRXYC"
+        "name": "Abbey Lincoln's Affair... A Story Of A Girl In Love (Expanded Edition)",
+        "url": "https://open.spotify.com/album/75kSQXvLMJh5TsK65zGkOg"
       },
       "artists": [
         {
-          "name": "Mildred Bailey",
-          "url": "https://open.spotify.com/artist/0LyTHMstvqKiSoqdnnjqix"
+          "name": "Abbey Lincoln",
+          "url": "https://open.spotify.com/artist/0A9p7WNA1VwxVyrjx92Z9F"
         }
       ],
-      "duration_ms": 189533,
-      "name": "Blues In My Heart",
-      "url": "https://open.spotify.com/track/60RxFPqYiG9bP7sRv4IiBe"
+      "duration_ms": 191000,
+      "name": "No More",
+      "url": "https://open.spotify.com/track/0OhVyeMWNraRrgGPByQiWc"
+    },
+    {
+      "added_at": "2023-10-13 00:01:00",
+      "album": {
+        "name": "Smooth Songs",
+        "url": "https://open.spotify.com/album/0bTi6NaKZTPdu3G2a4fePf"
+      },
+      "artists": [
+        {
+          "name": "Frank Sinatra",
+          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
+        }
+      ],
+      "duration_ms": 216790,
+      "name": "It's Easy to Remember",
+      "url": "https://open.spotify.com/track/2zKcVjhrP5r8vwxmEaANUm"
     },
     {
       "added_at": "2023-10-13 00:01:00",
@@ -1527,18 +1527,18 @@
     {
       "added_at": "2023-10-13 00:01:00",
       "album": {
-        "name": "Smooth Songs",
-        "url": "https://open.spotify.com/album/0bTi6NaKZTPdu3G2a4fePf"
+        "name": "The Rockin' Chair Lady",
+        "url": "https://open.spotify.com/album/4lPSYNGinkzy6Taq0rRXYC"
       },
       "artists": [
         {
-          "name": "Frank Sinatra",
-          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
+          "name": "Mildred Bailey",
+          "url": "https://open.spotify.com/artist/0LyTHMstvqKiSoqdnnjqix"
         }
       ],
-      "duration_ms": 216790,
-      "name": "It's Easy to Remember",
-      "url": "https://open.spotify.com/track/2zKcVjhrP5r8vwxmEaANUm"
+      "duration_ms": 189533,
+      "name": "Blues In My Heart",
+      "url": "https://open.spotify.com/track/60RxFPqYiG9bP7sRv4IiBe"
     },
     {
       "added_at": "2023-10-13 00:01:00",

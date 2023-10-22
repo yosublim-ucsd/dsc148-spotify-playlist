@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSluyUi4YGjq.md) - [plain]
 
 > Gazing at pedals, soaring celestially high\. Cover: Duster
 
-[Spotify](https://open.spotify.com/user/spotify) - 122,751 likes - 100 songs - 5 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 122,950 likes - 100 songs - 5 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSluyUi4YGjq.md) - [plain]
 | 99 | [Watchers](https://open.spotify.com/track/7qnvCyjTg93bXo2pD2yrkx) | [Small Black](https://open.spotify.com/artist/1J6xqDysFw6YiQ0vMvIKds) | [Small Black](https://open.spotify.com/album/6KIjE0i0JM6fiM46YBUV8s) | 4:06 |
 | 100 | [Pressure](https://open.spotify.com/track/10FlXJUgM6r159dNILdFDt) | [Slow Joy](https://open.spotify.com/artist/5p119sPXEyp2exxbpInGqL) | [Pressure](https://open.spotify.com/album/5PcCgXyYFXsjQvS1Wjv8LU) | 2:53 |
 
-Snapshot ID: `MCwwZDhhZWI5ZWRmMmRhZWRhNDRmNzU2ODc5MTQ5ODg4MzVjMjdlMDM0`
+Snapshot ID: `MCxiNjdhNDY4ZGJmNGZkMjk5MjdhNTYxODc2Zjk0MjBjZjdkNmFiNTk2`

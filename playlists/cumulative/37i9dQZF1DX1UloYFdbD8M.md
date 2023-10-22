@@ -4,7 +4,7 @@
 
 > Super Cool Indie Tracks from Gods Own Country<br/>Cover: Thaikkudam Bridge
 
-123 songs - 8 hr 35 min
+124 songs - 8 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,6 +30,7 @@
 | [Chekuthan](https://open.spotify.com/track/5Zoe8tHOVTMOzeapdpQeYL) | [Ribin Richard](https://open.spotify.com/artist/0Ojbc9kF43BrPCBPe04v8C), [Nihal Sadiq](https://open.spotify.com/artist/4tn4Tbdms5VG0yWwqryYhh) | [Chekuthan](https://open.spotify.com/album/0HH6caLXMV6xudGoXkFn9q) | 2:48 | 2022-12-22 |  |
 | [Chekuthan \(Reprise\)](https://open.spotify.com/track/6N0Z9weSdoXUzL0wbqQD4h) | [Ribin Richard](https://open.spotify.com/artist/0Ojbc9kF43BrPCBPe04v8C), [Nihal Sadiq](https://open.spotify.com/artist/4tn4Tbdms5VG0yWwqryYhh) | [Chekuthan \(Reprise\)](https://open.spotify.com/album/6Qz3dfZLUwwyvzd6JHxUPa) | 1:40 | 2022-09-06 | 2023-07-28 |
 | [Chiriye Chiriye](https://open.spotify.com/track/3cFiMWOmoBPnv8bCsKj75O) | [K\. S\. Harisankar](https://open.spotify.com/artist/4JXqxFqi9dxlsiXKZhKvzB) | [Chiriye Chiriye](https://open.spotify.com/album/5w4BOdik9aFINcA9tHsT6X) | 4:31 | 2023-06-19 | 2023-07-28 |
+| [Dhoore](https://open.spotify.com/track/6den5JW5dn0hLrhnD9UkQS) | [Matadoria](https://open.spotify.com/artist/16HrBYlg7ETaVKRZ8qVc9B) | [Dhoore](https://open.spotify.com/album/6VNO3pELBmVoivHKhoV9I3) | 3:30 | 2023-10-10 |  |
 | [En Sadhai](https://open.spotify.com/track/7zbAkNH3VPpgQlUVA60Dzn) | [6091](https://open.spotify.com/artist/0kkM6OpHU2UkpKIvPT05WZ), [Chai Lenin](https://open.spotify.com/artist/3yG7K52cBqJ7HPqrNKsAF3) | [En Sadhai](https://open.spotify.com/album/42S7j3CTmtlgfe1vYATMF1) | 2:36 | 2023-07-27 |  |
 | [Enthavo](https://open.spotify.com/track/16Ijfdrq8MPcCZoky28NVP) | [Job Kurian](https://open.spotify.com/artist/4rJY6amSC7TWtV9oifBnrS) | [Enthavo](https://open.spotify.com/album/1KubOLlcV8zJ21veewmxp1) | 3:39 | 2022-12-27 |  |
 | [Eppo Varuvaro + Kimkim](https://open.spotify.com/track/306LQyajNTdFu8kfzF2suV) | [Sudeep Palanad](https://open.spotify.com/artist/5gEbn8GU8GPvl5V7nnbHF3), [Remya Vinayakumar](https://open.spotify.com/artist/5r5NmEm8qG0QsBas0EKKjI) | [Eppo Varuvaro + Kimkim](https://open.spotify.com/album/0oWPcz6SiFyEUTAC1UXnHa) | 3:57 | 2023-10-06 |  |
@@ -80,7 +81,7 @@
 | [Mohabbat \- Love with Pride](https://open.spotify.com/track/5V5KX1hSWUxIvwR6Fa6Dwn) | [Project Malabaricus](https://open.spotify.com/artist/68cQOO7OM5QMcokboxwp1l) | [Mohabbat \- Love with Pride](https://open.spotify.com/album/7yGFU0a91t5w56SPBMjLA2) | 3:46 | 2023-07-27 | 2023-10-07 |
 | [Monsoon Love](https://open.spotify.com/track/1pyX4R3ZJwOhtRbo69uRgF) | [Jan Sam Bobby](https://open.spotify.com/artist/715dF2SfXy287VWRRzddFR), [Fahad Rahman](https://open.spotify.com/artist/4e1wH2L6P8CVWq1z4kdCif), [Nevin Thomas](https://open.spotify.com/artist/29t7mv5S6lSSOlVhPAFP2y) | [Monsoon Love](https://open.spotify.com/album/3EG6o2lGu0ekYP5u1mAqzq) | 3:27 | 2022-08-30 | 2023-07-28 |
 | [Mulla \(From Hope Project\)](https://open.spotify.com/track/4ITlckASNAmB8JE0u7Fm3T) | [Job Kurian](https://open.spotify.com/artist/4rJY6amSC7TWtV9oifBnrS) | [Mulla \(From Hope Project\)](https://open.spotify.com/album/1B6QVn4Jcm417ktEyLD8Wk) | 4:41 | 2022-08-08 | 2023-10-15 |
-| [Nada Nada](https://open.spotify.com/track/7biM1l4aQn6P2XpDBLrE4t) | [Avial](https://open.spotify.com/artist/29z5chNteRELh8vVAnKind) | [AVIAL](https://open.spotify.com/album/7JhsOMlZ3f2pGC7nWRZTQv) | 5:04 | 2023-07-27 |  |
+| [Nada Nada](https://open.spotify.com/track/7biM1l4aQn6P2XpDBLrE4t) | [Avial](https://open.spotify.com/artist/29z5chNteRELh8vVAnKind) | [AVIAL](https://open.spotify.com/album/7JhsOMlZ3f2pGC7nWRZTQv) | 5:04 | 2023-07-27 | 2023-10-22 |
 | [Navarasam](https://open.spotify.com/track/6w53UWYxXvQv5nU7GdNz1w) | [Thaikkudam Bridge](https://open.spotify.com/artist/0kf7l9HNKxJcq6cgSjSWGI) | [Navarasam](https://open.spotify.com/album/4nFm7BobV1Wmat82PbgDog) | 6:34 | 2022-11-21 |  |
 | [Ne Mathram](https://open.spotify.com/track/2UeUcMklimRzYjmpohUPWK) | [ThirumaLi](https://open.spotify.com/artist/6AmkU4hUrXJPIiNFsZlDzJ), [Bindu Anirudhan](https://open.spotify.com/artist/40yIKIP4JwrsB1OL3dKau9) | [Ne Mathram](https://open.spotify.com/album/1b9FDYIr9PM38BwZzd63bQ) | 3:14 | 2022-07-13 | 2023-07-28 |
 | [Ne Po](https://open.spotify.com/track/3Q1KfAc1O75K0OEX2YPI4H) | [The Imbachi](https://open.spotify.com/artist/6Q5mtoNuWSiO8oKBh0fwlz), [Kalla Sha](https://open.spotify.com/artist/2LJPuiESacNin3Pz3SOXVd) | [Ne Po](https://open.spotify.com/album/5RwYNI6oeKE0YGhhwM2H9X) | 2:35 | 2023-05-26 | 2023-07-28 |

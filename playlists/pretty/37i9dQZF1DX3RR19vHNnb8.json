@@ -1,12 +1,12 @@
 {
   "description": "Hip hop tracks to kick your workout up a notch",
-  "num_followers": 15585,
+  "num_followers": 15623,
   "original_name": "Pump it Up ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3OWY4NDcxOWIzNjYzY2IzMzI5YzRiOTg1MzczZDBhZTQ2Y2Q3N2Fj",
+  "snapshot_id": "MCw4YjM2MTdmMjdlMTYwODJhYjdkMTJkZjk4OTIxODI5OGM4Y2ExYjhk",
   "tracks": [
     {
       "added_at": "2023-10-20 00:01:00",
@@ -755,30 +755,6 @@
     {
       "added_at": "2023-10-20 00:01:00",
       "album": {
-        "name": "Assignment",
-        "url": "https://open.spotify.com/album/2CnjO9KA45Cu5OTtshEr0D"
-      },
-      "artists": [
-        {
-          "name": "KiddBlack",
-          "url": "https://open.spotify.com/artist/3vQvbO6Fd24F5StyZp1UMH"
-        },
-        {
-          "name": "Black Sherif",
-          "url": "https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ"
-        },
-        {
-          "name": "DJ FortuneDJ",
-          "url": "https://open.spotify.com/artist/3H1ujqsrtJXeYDoJ2Ar9I9"
-        }
-      ],
-      "duration_ms": 137472,
-      "name": "Assignment",
-      "url": "https://open.spotify.com/track/1Crv7EI1sdcy07OlvvoA2Y"
-    },
-    {
-      "added_at": "2023-10-20 00:01:00",
-      "album": {
         "name": "Go German",
         "url": "https://open.spotify.com/album/566SSg2JNZLMGCVu8euxNN"
       },
@@ -799,6 +775,30 @@
       "duration_ms": 178285,
       "name": "Go German",
       "url": "https://open.spotify.com/track/1YpGByjEamqwgni31e3Ylu"
+    },
+    {
+      "added_at": "2023-10-20 00:01:00",
+      "album": {
+        "name": "Assignment",
+        "url": "https://open.spotify.com/album/2CnjO9KA45Cu5OTtshEr0D"
+      },
+      "artists": [
+        {
+          "name": "KiddBlack",
+          "url": "https://open.spotify.com/artist/3vQvbO6Fd24F5StyZp1UMH"
+        },
+        {
+          "name": "Black Sherif",
+          "url": "https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ"
+        },
+        {
+          "name": "DJ FortuneDJ",
+          "url": "https://open.spotify.com/artist/3H1ujqsrtJXeYDoJ2Ar9I9"
+        }
+      ],
+      "duration_ms": 137472,
+      "name": "Assignment",
+      "url": "https://open.spotify.com/track/1Crv7EI1sdcy07OlvvoA2Y"
     },
     {
       "added_at": "2023-10-20 00:01:00",
@@ -883,6 +883,30 @@
     {
       "added_at": "2023-10-20 00:01:00",
       "album": {
+        "name": "Banger",
+        "url": "https://open.spotify.com/album/7qbMTYZNQiUFS3eZogAjDl"
+      },
+      "artists": [
+        {
+          "name": "Kida Kudz",
+          "url": "https://open.spotify.com/artist/4wrFUdBKN4RBMtC3ZoLVdw"
+        },
+        {
+          "name": "Boj",
+          "url": "https://open.spotify.com/artist/4qYpTEJThZ8FC8KzyFrSWW"
+        },
+        {
+          "name": "Pheelz",
+          "url": "https://open.spotify.com/artist/5Jv1MsZBh0sqokFq7pU8Xg"
+        }
+      ],
+      "duration_ms": 123733,
+      "name": "Banger (feat. Boj)",
+      "url": "https://open.spotify.com/track/6GPxaASbGS5vbKaW7oYSvO"
+    },
+    {
+      "added_at": "2023-10-20 00:01:00",
+      "album": {
         "name": "Trouble",
         "url": "https://open.spotify.com/album/4EsC6oCWtJjU9zuHBIxan8"
       },
@@ -947,22 +971,6 @@
     {
       "added_at": "2023-10-20 00:01:00",
       "album": {
-        "name": "The Guy",
-        "url": "https://open.spotify.com/album/2LKh0iw3OeLCIEkd0HsHeL"
-      },
-      "artists": [
-        {
-          "name": "M.I. Abaga",
-          "url": "https://open.spotify.com/artist/0obuUG86gXYcMtRMNKaYKL"
-        }
-      ],
-      "duration_ms": 197538,
-      "name": "The Guy",
-      "url": "https://open.spotify.com/track/6blCtzooXNbKlyDMgdp5zo"
-    },
-    {
-      "added_at": "2023-10-20 00:01:00",
-      "album": {
         "name": "The Lost Boy",
         "url": "https://open.spotify.com/album/4vAkdqqJAaixyOUAMjMv61"
       },
@@ -983,18 +991,18 @@
     {
       "added_at": "2023-10-20 00:01:00",
       "album": {
-        "name": "Young Preacher",
-        "url": "https://open.spotify.com/album/5J4BbjFnBq9C31xsph3ld2"
+        "name": "The Guy",
+        "url": "https://open.spotify.com/album/2LKh0iw3OeLCIEkd0HsHeL"
       },
       "artists": [
         {
-          "name": "Blaqbonez",
-          "url": "https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W"
+          "name": "M.I. Abaga",
+          "url": "https://open.spotify.com/artist/0obuUG86gXYcMtRMNKaYKL"
         }
       ],
-      "duration_ms": 183370,
-      "name": "HOT BOY",
-      "url": "https://open.spotify.com/track/29BUex8teSBlVwOjRWhrAs"
+      "duration_ms": 197538,
+      "name": "The Guy",
+      "url": "https://open.spotify.com/track/6blCtzooXNbKlyDMgdp5zo"
     }
   ],
   "unique_name": "Pump it Up ",

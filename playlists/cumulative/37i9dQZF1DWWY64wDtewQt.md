@@ -4,7 +4,7 @@
 
 > the beat of your drift
 
-604 songs - 23 hr 12 min
+606 songs - 23 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -103,7 +103,8 @@
 | [COURAGE](https://open.spotify.com/track/56kfvPwk9KARklFwz5jwjJ) | [SHADXWBXRN](https://open.spotify.com/artist/5ZzO786ViqgegCIoa28OPx) | [COURAGE](https://open.spotify.com/album/7GRSvHSXrLcOqw4SlUVqFz) | 2:09 | 2022-07-01 | 2022-10-22 |
 | [COWBELL GOTH](https://open.spotify.com/track/0zcvETeNHWNO050bqZAjOs) | [DRAGONMANE](https://open.spotify.com/artist/1pawMASwj4RTc1oB80un2X) | [COWBELL GOTH](https://open.spotify.com/album/03wA9W4auCxQsRWGCE8LWM) | 2:21 | 2023-02-10 |  |
 | [COWBELL GOTH](https://open.spotify.com/track/5jI7JAn4KnCYwDaqwumdzP) | [DRAGONMANE](https://open.spotify.com/artist/1pawMASwj4RTc1oB80un2X) | [COWBELL GOTH](https://open.spotify.com/album/2idbWu0Hfggy19r33ZFjqh) | 2:21 | 2023-02-10 | 2023-03-06 |
-| [COWBELL WARRIOR!](https://open.spotify.com/track/4eDE92gbf1iKImxBIKS64V) | [SXMPRA](https://open.spotify.com/artist/14uo609t1MvRGZcskySt9R) | [COWBELL WARRIOR!](https://open.spotify.com/album/5XyrJDyXLimURWjVboM1tC) | 2:29 | 2022-06-17 |  |
+| [COWBELL WARRIOR!](https://open.spotify.com/track/3yMrcqveZ2DrWBYJbDsous) | [SXMPRA](https://open.spotify.com/artist/14uo609t1MvRGZcskySt9R) | [COWBELL WARRIOR!](https://open.spotify.com/album/7E5iS4h201MO7HWZqbrMU4) | 2:29 | 2022-06-17 |  |
+| [COWBELL WARRIOR!](https://open.spotify.com/track/4eDE92gbf1iKImxBIKS64V) | [SXMPRA](https://open.spotify.com/artist/14uo609t1MvRGZcskySt9R) | [COWBELL WARRIOR!](https://open.spotify.com/album/5XyrJDyXLimURWjVboM1tC) | 2:29 | 2022-06-17 | 2023-10-22 |
 | [COWBELL WARRIOR!](https://open.spotify.com/track/5YVNmwohNrDoo4f8EQ5htK) | [SXMPRA](https://open.spotify.com/artist/14uo609t1MvRGZcskySt9R) | [COWBELL WARRIOR!](https://open.spotify.com/album/42sN2l32ODOPtJGQLsoukt) | 2:29 | 2022-06-17 | 2023-01-14 |
 | [Crazy Phonk \- Remix](https://open.spotify.com/track/2REq597W1UwW66BWqMRfJY) | [Fxbii](https://open.spotify.com/artist/1oYKkRi4r2vlOuIjBj85FR) | [Phonk MixTape \(Remix\)](https://open.spotify.com/album/6CPevPVAkExLmMzVu1EO5u) | 1:57 | 2022-09-30 | 2022-11-04 |
 | [Crazy Phonk \- Remix \- Slowed](https://open.spotify.com/track/6DOKigFVtRVWdOsRyGa0v8) | [Fxbii](https://open.spotify.com/artist/1oYKkRi4r2vlOuIjBj85FR) | [Crazy Phonk Remixes](https://open.spotify.com/album/2F77wWryBSjn3EBIGdSvf1) | 1:57 | 2022-09-30 | 2022-11-12 |
@@ -342,8 +343,9 @@
 | [Montagem Coral](https://open.spotify.com/track/3cE1cyAdPmv5Eq5ZBaQmYV) | [flux.beats](https://open.spotify.com/artist/3TkE7Wo4vLvOjTZPYNKGjL) | [Montagem Coral](https://open.spotify.com/album/6RfEECBJXORJnhJNdVB4mN) | 2:23 | 2023-09-22 | 2023-10-17 |
 | [MONTAGEM CORAL](https://open.spotify.com/track/3XxgfnKzZAc8hZlsjBCOIK) | [somai](https://open.spotify.com/artist/6q8Xr34whpzJxsu3lax6fh) | [MONTAGEM CORAL](https://open.spotify.com/album/2OKsctX02r3R3qhyq64mSG) | 2:25 | 2023-09-22 | 2023-10-05 |
 | [Montagem Coral](https://open.spotify.com/track/3F02rCPD3IvrnZ7GPSjR5t) | [vicX](https://open.spotify.com/artist/4qiIMJtorRG5GfdyRsLBtC) | [Montagem Coral](https://open.spotify.com/album/6m8N6j8GfGmW3cqgP5uiHq) | 2:25 | 2023-09-22 | 2023-10-12 |
-| [Montagem Coral](https://open.spotify.com/track/2aHLWvUgwUnDRWYQjmYJPl) | [young god](https://open.spotify.com/artist/4J2LHP07P9VG5PQHZNFfjT) | [Montagem Coral](https://open.spotify.com/album/3u9YkCaYo544roaesI591t) | 2:25 | 2023-09-22 |  |
+| [Montagem Coral](https://open.spotify.com/track/2aHLWvUgwUnDRWYQjmYJPl) | [young god](https://open.spotify.com/artist/4J2LHP07P9VG5PQHZNFfjT) | [Montagem Coral](https://open.spotify.com/album/3u9YkCaYo544roaesI591t) | 2:25 | 2023-09-22 | 2023-10-22 |
 | [Montagem Coral](https://open.spotify.com/track/7d27J37Wu0N8ZDB63wFN9I) | [young god](https://open.spotify.com/artist/4J2LHP07P9VG5PQHZNFfjT) | [Montagem Coral](https://open.spotify.com/album/0bwBO5V57PT6qnOcrp0BtR) | 2:25 | 2023-09-22 | 2023-10-16 |
+| [Montagem Coral](https://open.spotify.com/track/7i4blDvw6VTh2yOwa772E9) | [young god](https://open.spotify.com/artist/4J2LHP07P9VG5PQHZNFfjT) | [Montagem Coral](https://open.spotify.com/album/4AF62YPM9SvEoJ3RZdzwcB) | 2:25 | 2023-09-22 |  |
 | [Montagem Dilatação Hipnótica 5.0](https://open.spotify.com/track/2FtXfaiyJDRMoqXNLooqwU) | [DJ Crazy 013](https://open.spotify.com/artist/3LMb9Tf8kmQWdKoDmoQM29), [Dj Gk7 Original](https://open.spotify.com/artist/7tiJgTm0H2F1qtsjzVVWqB), [DJ Lipe Da Zn](https://open.spotify.com/artist/6AGAWCe3ACpl0wPBgcmxEv) | [Montagem Dilatação Hipnótica 5.0](https://open.spotify.com/album/3PSJUPT4YdbepqHW7ZXsYD) | 2:30 | 2023-10-06 |  |
 | [Montagem Game 196 e Nem Começou o Filme \(feat\. MC Morena de SP\)](https://open.spotify.com/track/5KAwRUyeAky7zPyRkuuUl9) | [DJ Blakes](https://open.spotify.com/artist/68sRe1jDgKyZ9bYjAvwEAz), [DJ MK DA DZ7](https://open.spotify.com/artist/2Atu34xAie4Mum2NN3o4rG), [MC VN Cria](https://open.spotify.com/artist/40LeQEFO0XM6PI09sYowjn), [MC Morena de SP](https://open.spotify.com/artist/7hZV3aaWoyCn6xQ40w9LQn) | [Montagem Game 196 e Nem Começou o Filme](https://open.spotify.com/album/6eQz3wAHijyDd189Uu3ICV) | 3:45 | 2023-07-14 |  |
 | [MORTAL](https://open.spotify.com/track/0I7I4kUnGVqoxemDmYcysN) | [Pharmacist](https://open.spotify.com/artist/6VlPp1wb53ANKMIwZPJfM0) | [MORTAL](https://open.spotify.com/album/5vg1cPV2HG0c987ofDZlc4) | 2:23 | 2022-07-08 | 2022-08-06 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZZXf2SJxqPp.md) - [plain]
 
 > Musiquita riqui para chillear y echarla junto a la piscina.
 
-[Spotify](https://open.spotify.com/user/spotify) - 128,572 likes - 100 songs - 6 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 128,798 likes - 100 songs - 6 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -77,8 +77,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZZXf2SJxqPp.md) - [plain]
 | 67 | [Walk with the Dreamers](https://open.spotify.com/track/67yw6kP3lhXD8HRsvCVWtm) | [Ambala](https://open.spotify.com/artist/2z0mgUBpRGfMpV39n7sLXw), [Laid Back](https://open.spotify.com/artist/2OLmN3LLWtLF7zerL4VdaX) | [Volume 1](https://open.spotify.com/album/6HZfuAb9iEuSTvx2GQ3hkE) | 4:57 |
 | 68 | [Warrior](https://open.spotify.com/track/5CBCtk5EZfdz7X1Eb6xK1u) | [Aluna](https://open.spotify.com/artist/5ITI6SEoUZMIXXkzCfr4oE), [SG Lewis](https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG) | [Renaissance](https://open.spotify.com/album/0cFJfTwmx4KOM9zEy9i2nB) | 2:47 |
 | 69 | [Ceci n'est pas un cliché](https://open.spotify.com/track/1usZqtTrEPNm8gvn1vN4T8) | [Charlotte Adigéry](https://open.spotify.com/artist/0h1gX589xBKUCijeC8Bewy), [Bolis Pupul](https://open.spotify.com/artist/0dSnTqwXok006MwsjjlzUl) | [Topical Dancer](https://open.spotify.com/album/4ivk3u8J7qg7YoWUZlnGNz) | 3:46 |
-| 70 | [I Wanna Know What Love Is](https://open.spotify.com/track/3aSz3Sbkueu1yGcnB5BlYd) | [The Prince Karma](https://open.spotify.com/artist/6ew7qRw24oov125Oly8pFD) | [I Wanna Know What Love Is](https://open.spotify.com/album/4YMlkKFWml2zbGExGt7i5X) | 2:51 |
-| 71 | [Laberinto \- Bosq Remix](https://open.spotify.com/track/73EADOHLCpA5Fk4EM8vzO1) | [Rawayana](https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2), [Bosq](https://open.spotify.com/artist/2tpbLTmBZZcGvcCHX6uw1U) | [Laberinto \(Bosq Remix\)](https://open.spotify.com/album/5vfciS3URPiFrOBnzSIy2k) | 3:44 |
+| 70 | [Laberinto \- Bosq Remix](https://open.spotify.com/track/73EADOHLCpA5Fk4EM8vzO1) | [Rawayana](https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2), [Bosq](https://open.spotify.com/artist/2tpbLTmBZZcGvcCHX6uw1U) | [Laberinto \(Bosq Remix\)](https://open.spotify.com/album/5vfciS3URPiFrOBnzSIy2k) | 3:44 |
+| 71 | [I Wanna Know What Love Is](https://open.spotify.com/track/3aSz3Sbkueu1yGcnB5BlYd) | [The Prince Karma](https://open.spotify.com/artist/6ew7qRw24oov125Oly8pFD) | [I Wanna Know What Love Is](https://open.spotify.com/album/4YMlkKFWml2zbGExGt7i5X) | 2:51 |
 | 72 | [Ça fait du bien \- Polo & Pan Remix](https://open.spotify.com/track/4UPNrU3SCxNxa4qXcM3oOs) | [Antonin](https://open.spotify.com/artist/5Z1r1R8kuSh4FRdQh7kzmC), [Polo & Pan](https://open.spotify.com/artist/45yEuthJ9yq1rNXAOpBnqM) | [Ça fait 2x plus de bien](https://open.spotify.com/album/5v03jp3rrC4R0AVFlMsMAE) | 3:01 |
 | 73 | [Voodoo? \- Lazywax Remix](https://open.spotify.com/track/2wHeYDrniYngp3did3McYD) | [L'Impératrice](https://open.spotify.com/artist/4PwlsrN0t5mLN0C827cbEU), [Lazywax](https://open.spotify.com/artist/0JmfcW7ntKscmNRiLbKEcw) | [Voodoo? \(Lazywax Remix\)](https://open.spotify.com/album/4Lbd1wUo222I65CLuxYEj9) | 6:26 |
 | 74 | [Rain Check](https://open.spotify.com/track/0qSAag81S96PZ38BBQlk7B) | [Dylan Sitts](https://open.spotify.com/artist/6quCxsPM8fOxowmqOx5j93) | [Rain Check](https://open.spotify.com/album/48N0TU0by4ICq7n8UFn7q8) | 2:16 |
@@ -86,8 +86,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZZXf2SJxqPp.md) - [plain]
 | 76 | [Hello Hello Hello \- Polo & Pan Remix](https://open.spotify.com/track/4L42hh6L8tpg1KPVwGkUja) | [Remi Wolf](https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d), [Polo & Pan](https://open.spotify.com/artist/45yEuthJ9yq1rNXAOpBnqM) | [We Love Dogs!](https://open.spotify.com/album/1Aus1dFkP2BSyzibCl0HA7) | 3:56 |
 | 77 | [Discoman](https://open.spotify.com/track/5YpB83TMSxvNw3F7SMikHq) | [YoSoyMatt](https://open.spotify.com/artist/0NYE6CFlP7ElQR6r395gbV), [French Braids](https://open.spotify.com/artist/5y8mGL7UFApHn1BotAfcj1), [Eva de Marce](https://open.spotify.com/artist/1UgwU7ChXfMkwH9t6ivW2E) | [Discoman](https://open.spotify.com/album/0A2nttPiJAdDfjkmt9l2vT) | 3:40 |
 | 78 | [Echo Arms](https://open.spotify.com/track/44SXQFU3DfXDTm60NXyN9x) | [Mr Twin Sister](https://open.spotify.com/artist/5ltJZgIW3OkY5WvuzX5MYz) | [Power of Two / Echo Arms](https://open.spotify.com/album/0u8kiGzYokhOupZ5AXXdJN) | 4:27 |
-| 79 | [On The Cloud](https://open.spotify.com/track/1U6LYBh6HZXaaQu3QJlDLm) | [DGHTR](https://open.spotify.com/artist/7bWbTJbtBrYJp1xtRjDLeL) | [On the Cloud](https://open.spotify.com/album/2P06JH4YLK8eDlbuB5JgEG) | 1:51 |
-| 80 | [Voyages](https://open.spotify.com/track/1QwwJPHlJ26QBkpugTwqqG) | [Tekkla](https://open.spotify.com/artist/76o3uKSJd1sNG1SobShuvz) | [Voyages](https://open.spotify.com/album/2CFaWHNK7iPlUlVr0PR1SG) | 3:36 |
+| 79 | [Voyages](https://open.spotify.com/track/1QwwJPHlJ26QBkpugTwqqG) | [Tekkla](https://open.spotify.com/artist/76o3uKSJd1sNG1SobShuvz) | [Voyages](https://open.spotify.com/album/2CFaWHNK7iPlUlVr0PR1SG) | 3:36 |
+| 80 | [On The Cloud](https://open.spotify.com/track/1U6LYBh6HZXaaQu3QJlDLm) | [DGHTR](https://open.spotify.com/artist/7bWbTJbtBrYJp1xtRjDLeL) | [On the Cloud](https://open.spotify.com/album/2P06JH4YLK8eDlbuB5JgEG) | 1:51 |
 | 81 | [Feels Right](https://open.spotify.com/track/0LyCSWeijWECQa0rbB35V2) | [Roosevelt](https://open.spotify.com/artist/4AQrqVz6BYwy29iMxcGtx7) | [Polydans](https://open.spotify.com/album/4jsQ9yGCEyEjjQzcsICK2U) | 4:34 |
 | 82 | [Don't Sing \(Polo & Pan Remix\)](https://open.spotify.com/track/3e4OoM7ltrDn63xcZccpj1) | [Data](https://open.spotify.com/artist/75QkeG5yBHVCybZurCrMa8), [Polo & Pan](https://open.spotify.com/artist/45yEuthJ9yq1rNXAOpBnqM) | [Don't Sing](https://open.spotify.com/album/7HGiUWfOslsBiDEeJkzy4V) | 5:11 |
 | 83 | [Shinjuku Strut](https://open.spotify.com/track/40eiz1003cXrXFRnMtBvIU) | [Rick Wade](https://open.spotify.com/artist/1HaiySQ7RMsuvfCEVML84p) | [Hustler's Lullaby](https://open.spotify.com/album/742wdMvR7gEPIPL8ubSl8z) | 5:14 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZZXf2SJxqPp.md) - [plain]
 | 99 | [Rooftop](https://open.spotify.com/track/2kFkb913w3d49GBzdXqarM) | [Tabú](https://open.spotify.com/artist/3ixqu2cJbIKBGVVmAd9KY3) | [Rooftop](https://open.spotify.com/album/3vjgqeZ3T1cDCY0RJnjAMD) | 3:40 |
 | 100 | [CooCool](https://open.spotify.com/track/6NRNXenSNtuo5vVkuAq7EN) | [Róisín Murphy](https://open.spotify.com/artist/3qwabfaWewpfli7hMNM3O8), [DJ Koze](https://open.spotify.com/artist/1kR99O4MgSTasyeJh8UFCg) | [The Universe](https://open.spotify.com/album/2JKrj31ZTIjy8voQ7azDzC) | 4:31 |
 
-Snapshot ID: `MCxkMWM2ZjcxY2IxYmI4NmI4ZGI0MWE5NzE1NDgxYjBlY2UzMmIxY2I5`
+Snapshot ID: `MCwyZDg3ZGFlNjMxNTMzYzY4MWJhM2UyZjY0Yjk4Mjg0MmE0YmQ4OWQz`

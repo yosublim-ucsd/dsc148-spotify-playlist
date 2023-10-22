@@ -1,12 +1,12 @@
 {
   "description": "The best drill, trap and genre bending rap from Australia and NZ. Cover: Vv Pete",
-  "num_followers": 139666,
+  "num_followers": 139672,
   "original_name": "Local Hype",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhNTA5NjEyMzA3MzFlOGI3MGJhNmI1NmZmMDI1MWQ3NjU0NTBhZDNl",
+  "snapshot_id": "MCw4MDkxNzg0OGRlNWFlMWIxMmFkYmZhZWE3ZjhlZWU1NTFjZTA4YzQy",
   "tracks": [
     {
       "added_at": "2023-10-19 13:00:00",
@@ -50,6 +50,10 @@
         {
           "name": "Vv Pete",
           "url": "https://open.spotify.com/artist/66IkoRt5JAg88LCnPuyxXr"
+        },
+        {
+          "name": "UTILITY",
+          "url": "https://open.spotify.com/artist/07SL7uPXhqtBGz0Pqljjgi"
         }
       ],
       "duration_ms": 136734,

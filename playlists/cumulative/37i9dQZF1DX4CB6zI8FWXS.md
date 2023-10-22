@@ -4,7 +4,7 @@
 
 > R&Bの最新話題曲をまとめてお届けします。cover: Shay Lia
 
-254 songs - 13 hr 45 min
+255 songs - 13 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -41,7 +41,8 @@
 | [Catwalk](https://open.spotify.com/track/3HFCBkfwYzetDGXVpwJFry) | [H 3 F](https://open.spotify.com/artist/6jIK3obS1fJqb3Vu74AYX3), [Phum Viphurit](https://open.spotify.com/artist/5mqguTgtaoCMNMZD6txCh6) | [Chalawan Sound](https://open.spotify.com/album/2QYQLTBtEJ6IPW3xVnW0Go) | 4:11 | 2023-08-24 | 2023-10-20 |
 | [Certified Freak](https://open.spotify.com/track/23ABMAK8TWcOvDNSwO11Y6) | [GLO](https://open.spotify.com/artist/15Phfg97TxyiNPviHsS83p) | [Certified Freak](https://open.spotify.com/album/7eVTgWPJ8GOrgMNAo5knsP) | 4:30 | 2023-03-16 | 2023-03-25 |
 | [Champagne Shit](https://open.spotify.com/track/5OhG7shUD0xgQMirbRAipe) | [Janelle Monáe](https://open.spotify.com/artist/6ueGR6SWhUJfvEhqkvMsVs) | [The Age of Pleasure](https://open.spotify.com/album/3440hCSfwYXxJcbQ0j3jAJ) | 2:23 | 2023-06-08 |  |
-| [Cheat \(feat\. JoJo\)](https://open.spotify.com/track/1mXJlLzoEk3STrioO2ehRE) | [Mahalia](https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI), [JoJo](https://open.spotify.com/artist/5xuNBZoM7z1Vv8IQ6uM0p6) | [Cheat \(feat\. JoJo\)](https://open.spotify.com/album/249LVBE0PeIQJfuUXepYfw) | 3:22 | 2023-06-08 |  |
+| [Cheat \(feat\. JoJo\)](https://open.spotify.com/track/1mXJlLzoEk3STrioO2ehRE) | [Mahalia](https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI), [JoJo](https://open.spotify.com/artist/5xuNBZoM7z1Vv8IQ6uM0p6) | [Cheat \(feat\. JoJo\)](https://open.spotify.com/album/249LVBE0PeIQJfuUXepYfw) | 3:22 | 2023-06-08 | 2023-10-22 |
+| [Cheat \(feat\. JoJo\)](https://open.spotify.com/track/2APWeDZZLBBwAmVVECtgMr) | [Mahalia](https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI), [JoJo](https://open.spotify.com/artist/5xuNBZoM7z1Vv8IQ6uM0p6) | [IRL \(Deluxe\)](https://open.spotify.com/album/76G7P45A56sBfsNXj2yZyD) | 3:22 | 2023-10-19 |  |
 | [Cheatback](https://open.spotify.com/track/157HuQLoRKG4r3zqQU2bwN) | [Chlöe](https://open.spotify.com/artist/1FtBEIWAwvw5ymBen5GICR), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [In Pieces](https://open.spotify.com/album/57eOzR6RxyfJLC3ggBQfRI) | 3:45 | 2023-03-30 | 2023-05-26 |
 | [child of GOD](https://open.spotify.com/track/4mkguQG08ITzkOuwxEEhDt) | [Blxst](https://open.spotify.com/artist/4qXC0i02bSFstECuXP2ZpL), [Remble](https://open.spotify.com/artist/65s98MYZ4xFpgKlUYS5XKw) | [child of GOD](https://open.spotify.com/album/2tdQ8ymmQslIQTBSPO1xga) | 2:54 | 2023-07-13 | 2023-10-20 |
 | [Conclusion \(feat\. JAY'ED\)](https://open.spotify.com/track/3kvjRrfwBJQaKmayFYcfOe) | [UNI\-Qreatives](https://open.spotify.com/artist/5i5sDbeYvK6eliuUwYgk11), [JAY'ED](https://open.spotify.com/artist/3vlAUneucinIokaOUeYbrv) | [Conclusion \(feat\. JAY'ED\)](https://open.spotify.com/album/1CxOMEdYQjkbUla7E3tav2) | 3:02 | 2023-10-19 |  |

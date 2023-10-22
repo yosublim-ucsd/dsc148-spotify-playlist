@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX44JzWntsLKr.md) - [plain]
 
 > Every Monbebe's HERO.
 
-[Spotify](https://open.spotify.com/user/spotify) - 273,737 likes - 130 songs - 7 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 273,766 likes - 130 songs - 7 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -87,7 +87,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX44JzWntsLKr.md) - [plain]
 | 77 | [Magnetic](https://open.spotify.com/track/4ZtiN13yPgoDtQB8TkIrv1) | [MONSTA X](https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz), [Sebastian Yatra](https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW) | [Magnetic](https://open.spotify.com/album/7p7sMoHzbLumNCUaW2mRIu) | 3:06 |
 | 78 | [MISBEHAVE](https://open.spotify.com/track/7hemsIJRQ45qEFCrBUtabJ) | [MONSTA X](https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz) | [ALL ABOUT LUV \(Extended Version\)](https://open.spotify.com/album/064rnjNzpvTNDPGOmhFoyI) | 3:24 |
 | 79 | [Find you](https://open.spotify.com/track/0vewmpnpkzr24oImA5vLaI) | [MONSTA X](https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz) | [FOLLOW \- FIND YOU](https://open.spotify.com/album/3s5WpeDw4JOec54wEgmJBy) | 3:38 |
-| 80 | [Play It Cool](https://open.spotify.com/track/1gdLUGdyYpXcckmzP1rTUm) | [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs), [MONSTA X](https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz) | [Neon Future IV](https://open.spotify.com/album/6iXzARQs7wdSYzhYJWvJKc) | 2:49 |
+| 80 | [Play It Cool](https://open.spotify.com/track/4g7pzUm1o1Td48BPc5iJqr) | [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs), [MONSTA X](https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz) | [Neon Future IV](https://open.spotify.com/album/7IzDIMRk24CJxqUADOSbZ4) | 2:49 |
 | 81 | [IT AIN'T OVER](https://open.spotify.com/track/6N45wltlGQDQbxabEYhxun) | [MONSTA X](https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz) | [FANTASIA X](https://open.spotify.com/album/44BCatQBdneFkyzOVrR0M4) | 3:10 |
 | 82 | [Stand Up](https://open.spotify.com/track/19WLJ1GQY3IMXUOMvbcpDk) | [MONSTA X](https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz) | [FANTASIA X](https://open.spotify.com/album/44BCatQBdneFkyzOVrR0M4) | 3:21 |
 | 83 | [Play It Cool](https://open.spotify.com/track/0gxkqxGiLg1ylKzgToCcHY) | [MONSTA X](https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz), [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs) | [Take.2 We Are Here.](https://open.spotify.com/album/2zLSiu6FFxav0kHP2mUUzM) | 3:06 |
@@ -139,4 +139,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX44JzWntsLKr.md) - [plain]
 | 129 | [I'll Be There](https://open.spotify.com/track/3AhSHpQhUasqq1Ni8xRh3c) | [MONSTA X](https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz) | [THE CLAN pt.2.5 \[BEAUTIFUL\]](https://open.spotify.com/album/2QCHpaj2zkIhrghESZwPui) | 3:12 |
 | 130 | [부나비 \(The Tiger Moth\)](https://open.spotify.com/track/1h68rW9DjBqyphvchkFHNE) | [MONSTA X](https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz) | [쇼핑왕 루이 Shopping King Louie \(Music from the Korean Tv Drama\)](https://open.spotify.com/album/5akkvAV2X14XXJdWawFUxm) | 3:24 |
 
-Snapshot ID: `MCxiZDI1MzdhNmJkOTIyMGQwMTZiMjBlYmJhMGE0OWU5NDRkOWZkMGFl`
+Snapshot ID: `MCwyODJjNDVjOWM3NDJjNWIxOTgxODNkZTExZTVkMjdiYjY1NjA1YzEz`

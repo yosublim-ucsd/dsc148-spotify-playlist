@@ -4,7 +4,7 @@
 
 > The hardest songs, loud\. Very loud\. Cover: Oxymorrons
 
-989 songs - 2 day 11 hr 15 min
+990 songs - 2 day 11 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -839,7 +839,8 @@
 | [THE DEATH OF PEACE OF MIND](https://open.spotify.com/track/070TMc1fjJGBGxxmf1DIbD) | [Bad Omens](https://open.spotify.com/artist/3Ri4H12KFyu98LMjSoij5V) | [THE DEATH OF PEACE OF MIND](https://open.spotify.com/album/2Lk43Ib2RErp5YVfbJDo7H) | 4:01 | 2021-11-12 | 2022-02-26 |
 | [THE DEATH OF PEACE OF MIND](https://open.spotify.com/track/6tRneEcItwpSxBtqgem5Dr) | [Bad Omens](https://open.spotify.com/artist/3Ri4H12KFyu98LMjSoij5V) | [THE DEATH OF PEACE OF MIND](https://open.spotify.com/album/3p7m1Pmg6n3BlpL9Py7IUA) | 4:01 | 2023-06-02 |  |
 | [The Delicate Nature](https://open.spotify.com/track/4oLwiIzyp1FZoxK1MM6Ow1) | [Bob Vylan](https://open.spotify.com/artist/6XgIk9Y6qy6JCMZVime6DQ), [Laurie Vincent](https://open.spotify.com/artist/4MjaFbBLl18vGqTY7QnmNV) | [The Delicate Nature](https://open.spotify.com/album/0Q0ghRfGZQjZdSUud8KElY) | 3:02 | 2023-01-13 | 2023-03-11 |
-| [The Dirt I'm Buried In](https://open.spotify.com/track/4sg5Vfd2fM6Y8gMz5VYXz6) | [Avatar](https://open.spotify.com/artist/4jpaXieuls7LVzG1uma5Rs) | [The Dirt I'm Buried In](https://open.spotify.com/album/3EMCGsx2qeFTthjuyFdMfr) | 4:04 | 2023-01-13 |  |
+| [The Dirt I'm Buried In](https://open.spotify.com/track/4OjAxkNVwleUdCUS098eBw) | [Avatar](https://open.spotify.com/artist/4jpaXieuls7LVzG1uma5Rs) | [Dance Devil Dance](https://open.spotify.com/album/5GH4bz50nqlXUm4xyK4tC2) | 4:04 | 2023-10-20 |  |
+| [The Dirt I'm Buried In](https://open.spotify.com/track/4sg5Vfd2fM6Y8gMz5VYXz6) | [Avatar](https://open.spotify.com/artist/4jpaXieuls7LVzG1uma5Rs) | [The Dirt I'm Buried In](https://open.spotify.com/album/3EMCGsx2qeFTthjuyFdMfr) | 4:04 | 2023-01-13 | 2023-10-22 |
 | [The Dying Song \(Time To Sing\)](https://open.spotify.com/track/5Lqk8Z6MnfIyeTchmMaPEG) | [Slipknot](https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8) | [The Dying Song \(Time To Sing\)](https://open.spotify.com/album/1orsA4z63mo1Rp1WUxNRj8) | 3:23 | 2022-07-22 | 2022-08-27 |
 | [The End \(feat\. Scarlxrd\)](https://open.spotify.com/track/36ZHfNKFKIb6DrB4tIXcSp) | [Zero 9:36](https://open.spotify.com/artist/1V599H9vfq6hWe2hGzyzI0), [Scarlxrd](https://open.spotify.com/artist/6rYogEVj60BCIsLukpAnwr) | [The End: Trilogy](https://open.spotify.com/album/22YXEzKVesXYuBSTWhm8k3) | 2:39 | 2022-11-11 | 2022-11-14 |
 | [The End \(feat\. Scarlxrd\)](https://open.spotify.com/track/6G1iylBBG8PmROeWln6wp1) | [Zero 9:36](https://open.spotify.com/artist/1V599H9vfq6hWe2hGzyzI0), [Scarlxrd](https://open.spotify.com/artist/6rYogEVj60BCIsLukpAnwr) | [The End \(feat\. Scarlxrd\)](https://open.spotify.com/album/1C6divdz7AXj8Fl2yxji6r) | 2:39 | 2022-11-11 | 2022-12-10 |

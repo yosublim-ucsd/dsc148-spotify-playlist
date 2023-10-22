@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW9tK1GiTdMf.md) - [plain]
 
 > canzoni che ti fanno ribaltare i tavoli \(╯°□°）╯︵ ┻━┻ blink\-182 in cover!
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,556 likes - 80 songs - 3 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,567 likes - 80 songs - 3 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -80,7 +80,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW9tK1GiTdMf.md) - [plain]
 | 70 | [Camelot](https://open.spotify.com/track/5d7x7HeFJ9BksuEwhskqbi) | [Marco444](https://open.spotify.com/artist/5wOm0bGomUCwtrXipTu0KQ) | [Camelot](https://open.spotify.com/album/5rG7vUV0uA0fan4uA6Clua) | 3:05 |
 | 71 | [keep a window open//](https://open.spotify.com/track/32Y6HMKVOnPXqmtOr8TR4j) | [KennyHoopla](https://open.spotify.com/artist/5ObBtv5VunwwhQaXXnUrsM) | [keep a window open//](https://open.spotify.com/album/5YJXQWhjuBdthyBOewxTql) | 2:30 |
 | 72 | [GIORNI](https://open.spotify.com/track/1M2Me9b51HDBQEZmh5YuKP) | [Tear&Drugz](https://open.spotify.com/artist/1cuy7cysWDn6m3kaqazyjT), [tobehonest](https://open.spotify.com/artist/2ufSXCAobEyscTZllwpEzV), [pippx](https://open.spotify.com/artist/78N7nP5wUagUYUax3I5Ldv) | [GIORNI](https://open.spotify.com/album/4F81BH0tY3rOOnRzrjz5I5) | 2:28 |
-| 73 | [don’t shop when ur hungry !! \(feat\. vaultboy\)](https://open.spotify.com/track/2U2nYZb993yZhtaTJ9sGHl) | [salem ilese](https://open.spotify.com/artist/3QJUFtGBGL05vo0kCJZsmT), [vaultboy](https://open.spotify.com/artist/0K87f3owemzI8NUCoEIXOB) | [don't shop when ur hungry !! \(feat\. vaultboy\)](https://open.spotify.com/album/1SxCpc68MAkp1WbnENuhxq) | 2:20 |
+| 73 | [don't shop when ur hungry !!](https://open.spotify.com/track/4McWu9XZhVIE0YelQzP5D3) | [salem ilese](https://open.spotify.com/artist/3QJUFtGBGL05vo0kCJZsmT), [vaultboy](https://open.spotify.com/artist/0K87f3owemzI8NUCoEIXOB) | [High Concept](https://open.spotify.com/album/5DSSWFgWsyelKKtMEUe1cK) | 2:20 |
 | 74 | [ATTENZIONE](https://open.spotify.com/track/6gdAyLa1Tf8SSgjrzBd7Ae) | [AYLE](https://open.spotify.com/artist/1wUNmZVzUk16mfV42YY1eE) | [ATTENZIONE](https://open.spotify.com/album/59TBUACcZBbxcqPzHO6rIw) | 2:37 |
 | 75 | [CUORE IN UNA BUSTA](https://open.spotify.com/track/0lh1NAgpJxdAtKTvRor2f3) | [WEZ](https://open.spotify.com/artist/4vyMNshKeFNpOJSQViqjAi), [Noise](https://open.spotify.com/artist/6D4EJfLuwDV686lAIvGvdR), [empty](https://open.spotify.com/artist/0IOp28iZmU4zrgRR2ol34d) | [CUORE IN UNA BUSTA](https://open.spotify.com/album/59jpMKXkosR9Z9H0TTFpBc) | 2:21 |
 | 76 | [claudia!!](https://open.spotify.com/track/0I0hkEQpPptFMlRp8qIcvM) | [Itto](https://open.spotify.com/artist/2LJFeWUIvW4OF583ZiqIRh) | [claudia!!](https://open.spotify.com/album/5mafZgfnBGyJI6cSqEOIxY) | 2:39 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW9tK1GiTdMf.md) - [plain]
 | 79 | [MARRY KILL F\*CK//](https://open.spotify.com/track/71MVjTIeOQzPkEmfgL3uNc) | [KennyHoopla](https://open.spotify.com/artist/5ObBtv5VunwwhQaXXnUrsM), [Travis Barker](https://open.spotify.com/artist/4exLIFE8sISLr28sqG1qNX) | [BLINK AND YOU'LL MISS IT//](https://open.spotify.com/album/2Vs2Tn2p7N3KZGEnUmXFdp) | 2:48 |
 | 80 | [Pillole](https://open.spotify.com/track/7gBO9lts9MZomcwuZnIXTy) | [TVB](https://open.spotify.com/artist/05LOeuVeelln8qMq6s1Cz5) | [Pillole](https://open.spotify.com/album/2LFoEjRvmHKzcstDPLPLUi) | 2:47 |
 
-Snapshot ID: `MCxkODBlYTFlODRkZmZlODZiNzYxYTgzNzNmOWE5MmZkZTQ1YmU2NTkx`
+Snapshot ID: `MCw0MGM1ZjRmZWQwMGI4ZmYzMjQzMmZmODVhNmY4MjVjNGY2MWMwMjhl`

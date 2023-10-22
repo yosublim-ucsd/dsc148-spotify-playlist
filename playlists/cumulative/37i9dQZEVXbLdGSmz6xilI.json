@@ -4836,7 +4836,7 @@
       ],
       "date_added": "2022-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-22",
       "duration_ms": 281493,
       "name": "d\u1ef1 b\u00e1o th\u1eddi ti\u1ebft h\u00f4m nay m\u01b0a",
       "url": "https://open.spotify.com/track/7bFFUPBiF15n8m8RziqS4o"
@@ -5276,6 +5276,10 @@
         {
           "name": "HIEUTHUHAI",
           "url": "https://open.spotify.com/artist/5HZtdKfC4xU0wvhEyYDWiY"
+        },
+        {
+          "name": "marzuz",
+          "url": "https://open.spotify.com/artist/3y6Lfjkrdn5TgkbgDxbpvM"
         }
       ],
       "date_added": "2023-10-18",
@@ -6058,7 +6062,7 @@
       ],
       "date_added": "2023-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-22",
       "duration_ms": 185249,
       "name": "Gi\u1edd Th\u00ec Ai C\u01b0\u1eddi",
       "url": "https://open.spotify.com/track/5KLL3jbaiks9Shy5ohz6oG"
@@ -6644,6 +6648,28 @@
       "duration_ms": 226189,
       "name": "Hectic (with Colde)",
       "url": "https://open.spotify.com/track/3wEr5lmE7oaC3qhCbJTY8B"
+    },
+    {
+      "album": {
+        "name": "Hit Me Up (feat. Nomovodka)",
+        "url": "https://open.spotify.com/album/0FZXUfdUtrkzNyzmT1VLlB"
+      },
+      "artists": [
+        {
+          "name": "Binz",
+          "url": "https://open.spotify.com/artist/2nSO7JYDbJrYbJmP39qUzj"
+        },
+        {
+          "name": "Nomovodka",
+          "url": "https://open.spotify.com/artist/79BbybQeUyNyFB8ghq4neb"
+        }
+      ],
+      "date_added": "2023-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268200,
+      "name": "Hit Me Up (feat. Nomovodka)",
+      "url": "https://open.spotify.com/track/4acXEYw7ayyJnm9GXDrqiL"
     },
     {
       "album": {
@@ -7966,6 +7992,14 @@
         {
           "name": "HIEUTHUHAI",
           "url": "https://open.spotify.com/artist/5HZtdKfC4xU0wvhEyYDWiY"
+        },
+        {
+          "name": "B Ray",
+          "url": "https://open.spotify.com/artist/1WvNgEoB66jmHodcj15Zi9"
+        },
+        {
+          "name": "Tage",
+          "url": "https://open.spotify.com/artist/6kFhNMq6O8P5QKdqlGMUVW"
         }
       ],
       "date_added": "2023-10-18",
@@ -8010,7 +8044,7 @@
       ],
       "date_added": "2023-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-22",
       "duration_ms": 228413,
       "name": "Kh\u00f4ng Th\u1ec3 Say",
       "url": "https://open.spotify.com/track/0hhF4SJHEosOwZ7gbjgmbf"
@@ -10798,7 +10832,7 @@
       ],
       "date_added": "2023-05-16",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-13",
+      "date_removed": null,
       "duration_ms": 241340,
       "name": "N\u1ea5u \u0103n cho em",
       "url": "https://open.spotify.com/track/7td8DTWoGC9u9db37mGHX6"
@@ -14945,6 +14979,32 @@
     },
     {
       "album": {
+        "name": "TOO MUCH",
+        "url": "https://open.spotify.com/album/7gCggwpSuqUmVzWniLdpKR"
+      },
+      "artists": [
+        {
+          "name": "The Kid LAROI",
+          "url": "https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J"
+        },
+        {
+          "name": "Jung Kook",
+          "url": "https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc"
+        },
+        {
+          "name": "Central Cee",
+          "url": "https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r"
+        }
+      ],
+      "date_added": "2023-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203894,
+      "name": "TOO MUCH",
+      "url": "https://open.spotify.com/track/0rKWJnmo6Q0ovoPOLoLm0t"
+    },
+    {
+      "album": {
         "name": "Love Yourself \u7d50 'Answer'",
         "url": "https://open.spotify.com/album/43wFM1HquliY3iwKWzPN4y"
       },
@@ -15338,7 +15398,7 @@
       ],
       "date_added": "2023-03-04",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-19",
+      "date_removed": null,
       "duration_ms": 202880,
       "name": "T\u1ea1i V\u00ec Sao",
       "url": "https://open.spotify.com/track/3440g8awr2l0E5Yy2X5Epk"
@@ -17120,7 +17180,7 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-22",
       "duration_ms": 247368,
       "name": "\u0110\u1ea1i Minh Tinh",
       "url": "https://open.spotify.com/track/3g0Dwgd36QRmPecFIoubg4"

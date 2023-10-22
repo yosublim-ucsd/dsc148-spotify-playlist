@@ -1,12 +1,12 @@
 {
   "description": "The genre-defying artists inspired by classical music. Photo: Nils Frahm.",
-  "num_followers": 101228,
+  "num_followers": 101280,
   "original_name": "Classical X",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyMDBjYjg0MmFjMWQyNGE1OTI1YTIzZWI4Yjc1MmQ0OTRjNzgzYzMz",
+  "snapshot_id": "MCxhZjE2MjQ1OTg5NDkwMWExOTVlZjVmYjk2ZTcwMWI2MzVkZGUxZmQ1",
   "tracks": [
     {
       "added_at": "2023-10-20 04:00:00",
@@ -187,22 +187,6 @@
     {
       "added_at": "2023-10-20 04:00:00",
       "album": {
-        "name": "Empty City",
-        "url": "https://open.spotify.com/album/62uP1pylQLNpVpphnniEFh"
-      },
-      "artists": [
-        {
-          "name": "Sophie Hutchings",
-          "url": "https://open.spotify.com/artist/54MsweggxTxlfYUbhZNIQ0"
-        }
-      ],
-      "duration_ms": 196523,
-      "name": "Empty City",
-      "url": "https://open.spotify.com/track/1xZRY4Gyj5ffsMkWqLZwj1"
-    },
-    {
-      "added_at": "2023-10-20 04:00:00",
-      "album": {
         "name": "Owen",
         "url": "https://open.spotify.com/album/4C1sWRPHj8QVZqnUA7vDzv"
       },
@@ -219,6 +203,22 @@
       "duration_ms": 215820,
       "name": "Etne",
       "url": "https://open.spotify.com/track/0XmfdHTrbFUZgJjFnb1LqZ"
+    },
+    {
+      "added_at": "2023-10-20 04:00:00",
+      "album": {
+        "name": "Empty City",
+        "url": "https://open.spotify.com/album/62uP1pylQLNpVpphnniEFh"
+      },
+      "artists": [
+        {
+          "name": "Sophie Hutchings",
+          "url": "https://open.spotify.com/artist/54MsweggxTxlfYUbhZNIQ0"
+        }
+      ],
+      "duration_ms": 196523,
+      "name": "Empty City",
+      "url": "https://open.spotify.com/track/1xZRY4Gyj5ffsMkWqLZwj1"
     },
     {
       "added_at": "2023-10-20 04:00:00",
@@ -639,6 +639,22 @@
     {
       "added_at": "2023-10-20 04:00:00",
       "album": {
+        "name": "Mists Inhabit This Place",
+        "url": "https://open.spotify.com/album/4i5u6Kn6UQMkBzI0GOe6Cv"
+      },
+      "artists": [
+        {
+          "name": "Brambles",
+          "url": "https://open.spotify.com/artist/0sNXk2NCcF4VpqvJ0KRffX"
+        }
+      ],
+      "duration_ms": 230213,
+      "name": "Mists Inhabit This Place",
+      "url": "https://open.spotify.com/track/2mLbCMXMmJRWrWY918jLwB"
+    },
+    {
+      "added_at": "2023-10-20 04:00:00",
+      "album": {
         "name": "Gabriel (Tom Player Strings Version)",
         "url": "https://open.spotify.com/album/3u59XcWfFkoPeZFDWbH0bc"
       },
@@ -659,22 +675,6 @@
       "duration_ms": 182212,
       "name": "Gabriel - Tom Player Strings Version",
       "url": "https://open.spotify.com/track/5wPWz3tdfiW2ZDRHEFpgjN"
-    },
-    {
-      "added_at": "2023-10-20 04:00:00",
-      "album": {
-        "name": "Mists Inhabit This Place",
-        "url": "https://open.spotify.com/album/4i5u6Kn6UQMkBzI0GOe6Cv"
-      },
-      "artists": [
-        {
-          "name": "Brambles",
-          "url": "https://open.spotify.com/artist/0sNXk2NCcF4VpqvJ0KRffX"
-        }
-      ],
-      "duration_ms": 230213,
-      "name": "Mists Inhabit This Place",
-      "url": "https://open.spotify.com/track/2mLbCMXMmJRWrWY918jLwB"
     },
     {
       "added_at": "2023-10-20 04:00:00",
@@ -727,22 +727,6 @@
     {
       "added_at": "2023-10-20 04:00:00",
       "album": {
-        "name": "Falling Colour",
-        "url": "https://open.spotify.com/album/1mvRZHRMIwG0uAVgedZVNd"
-      },
-      "artists": [
-        {
-          "name": "Vanbur",
-          "url": "https://open.spotify.com/artist/0R2bPrDcf0qEFHbQazwiXj"
-        }
-      ],
-      "duration_ms": 215293,
-      "name": "Falling Colour",
-      "url": "https://open.spotify.com/track/5HzWbFpjFBo219h3Gt5PRb"
-    },
-    {
-      "added_at": "2023-10-20 04:00:00",
-      "album": {
         "name": "L(oo)ping [Live with ONL]",
         "url": "https://open.spotify.com/album/1vilAgPngRqfMUWHffyR4O"
       },
@@ -763,6 +747,22 @@
       "duration_ms": 312653,
       "name": "Ghosts - Live with ONL",
       "url": "https://open.spotify.com/track/30I4KLVCqUtRR1JICkr4PY"
+    },
+    {
+      "added_at": "2023-10-20 04:00:00",
+      "album": {
+        "name": "Falling Colour",
+        "url": "https://open.spotify.com/album/1mvRZHRMIwG0uAVgedZVNd"
+      },
+      "artists": [
+        {
+          "name": "Vanbur",
+          "url": "https://open.spotify.com/artist/0R2bPrDcf0qEFHbQazwiXj"
+        }
+      ],
+      "duration_ms": 215293,
+      "name": "Falling Colour",
+      "url": "https://open.spotify.com/track/5HzWbFpjFBo219h3Gt5PRb"
     },
     {
       "added_at": "2023-10-20 04:00:00",
@@ -915,6 +915,22 @@
     {
       "added_at": "2023-10-20 04:00:00",
       "album": {
+        "name": "A Light Without Flame",
+        "url": "https://open.spotify.com/album/0dypri6yEpgORaQbPFJmxK"
+      },
+      "artists": [
+        {
+          "name": "Slow Meadow",
+          "url": "https://open.spotify.com/artist/1X93CiijNCFQa4o17hLwI3"
+        }
+      ],
+      "duration_ms": 203994,
+      "name": "A Light Without Flame",
+      "url": "https://open.spotify.com/track/7iFOhRAni6M6bPyfsmvapG"
+    },
+    {
+      "added_at": "2023-10-20 04:00:00",
+      "album": {
         "name": "By This River",
         "url": "https://open.spotify.com/album/11o6UQ8kXXknp41Dsg75ca"
       },
@@ -943,22 +959,6 @@
     {
       "added_at": "2023-10-20 04:00:00",
       "album": {
-        "name": "A Light Without Flame",
-        "url": "https://open.spotify.com/album/0dypri6yEpgORaQbPFJmxK"
-      },
-      "artists": [
-        {
-          "name": "Slow Meadow",
-          "url": "https://open.spotify.com/artist/1X93CiijNCFQa4o17hLwI3"
-        }
-      ],
-      "duration_ms": 203994,
-      "name": "A Light Without Flame",
-      "url": "https://open.spotify.com/track/7iFOhRAni6M6bPyfsmvapG"
-    },
-    {
-      "added_at": "2023-10-20 04:00:00",
-      "album": {
         "name": "Spirit Loop",
         "url": "https://open.spotify.com/album/2eoyC2svpQvhA5xqpQ5S5t"
       },
@@ -971,22 +971,6 @@
       "duration_ms": 245500,
       "name": "Spirit Loop",
       "url": "https://open.spotify.com/track/059WDHaxZOePXJAxn8gazv"
-    },
-    {
-      "added_at": "2023-10-20 04:00:00",
-      "album": {
-        "name": "Piano",
-        "url": "https://open.spotify.com/album/09sqDvwoOvLHTpGWfywY6I"
-      },
-      "artists": [
-        {
-          "name": "Felix R\u00f6sch",
-          "url": "https://open.spotify.com/artist/5DN6qP3OzoKVYXF3o2KCXp"
-        }
-      ],
-      "duration_ms": 268124,
-      "name": "Ostinato",
-      "url": "https://open.spotify.com/track/7xXQh52SZq9Af2DHQ4GNHI"
     },
     {
       "added_at": "2023-10-20 04:00:00",
@@ -1015,6 +999,22 @@
       "duration_ms": 161933,
       "name": "Drang",
       "url": "https://open.spotify.com/track/1ew7P0XkQRdBFHEnVxrCow"
+    },
+    {
+      "added_at": "2023-10-20 04:00:00",
+      "album": {
+        "name": "Piano",
+        "url": "https://open.spotify.com/album/09sqDvwoOvLHTpGWfywY6I"
+      },
+      "artists": [
+        {
+          "name": "Felix R\u00f6sch",
+          "url": "https://open.spotify.com/artist/5DN6qP3OzoKVYXF3o2KCXp"
+        }
+      ],
+      "duration_ms": 268124,
+      "name": "Ostinato",
+      "url": "https://open.spotify.com/track/7xXQh52SZq9Af2DHQ4GNHI"
     },
     {
       "added_at": "2023-10-20 04:00:00",
@@ -1087,26 +1087,6 @@
     {
       "added_at": "2023-10-20 04:00:00",
       "album": {
-        "name": "Sh\u00e9h\u00e9razade (Laura Masotto Rework)",
-        "url": "https://open.spotify.com/album/5JK04NWnzGsY9ramCSdo7q"
-      },
-      "artists": [
-        {
-          "name": "Laura Masotto",
-          "url": "https://open.spotify.com/artist/0WsOb9lixawpeFLHuAzhpd"
-        },
-        {
-          "name": "Matteo Zanferrari",
-          "url": "https://open.spotify.com/artist/4274KaaJqeDNB7io0Re3qj"
-        }
-      ],
-      "duration_ms": 243431,
-      "name": "Sh\u00e9h\u00e9razade - Laura Masotto Rework",
-      "url": "https://open.spotify.com/track/4ZKoLAjGLLLwKFBADGh2SO"
-    },
-    {
-      "added_at": "2023-10-20 04:00:00",
-      "album": {
         "name": "Riva",
         "url": "https://open.spotify.com/album/0awMKpZrc5zbUh4xJyct1w"
       },
@@ -1123,6 +1103,26 @@
       "duration_ms": 238602,
       "name": "Riva",
       "url": "https://open.spotify.com/track/3KLQVpIZLWYXHv6vpC7wUO"
+    },
+    {
+      "added_at": "2023-10-20 04:00:00",
+      "album": {
+        "name": "Sh\u00e9h\u00e9razade (Laura Masotto Rework)",
+        "url": "https://open.spotify.com/album/5JK04NWnzGsY9ramCSdo7q"
+      },
+      "artists": [
+        {
+          "name": "Laura Masotto",
+          "url": "https://open.spotify.com/artist/0WsOb9lixawpeFLHuAzhpd"
+        },
+        {
+          "name": "Matteo Zanferrari",
+          "url": "https://open.spotify.com/artist/4274KaaJqeDNB7io0Re3qj"
+        }
+      ],
+      "duration_ms": 243431,
+      "name": "Sh\u00e9h\u00e9razade - Laura Masotto Rework",
+      "url": "https://open.spotify.com/track/4ZKoLAjGLLLwKFBADGh2SO"
     },
     {
       "added_at": "2023-10-20 04:00:00",
@@ -1147,22 +1147,18 @@
     {
       "added_at": "2023-10-20 04:00:00",
       "album": {
-        "name": "Sound Visions",
-        "url": "https://open.spotify.com/album/5KAesCstHxKn5TA4qQL6HB"
+        "name": "Thaw",
+        "url": "https://open.spotify.com/album/1iM5rggZglIiV4ISx0HBG7"
       },
       "artists": [
         {
-          "name": "Matteo Saggese",
-          "url": "https://open.spotify.com/artist/3svbV9ROns7csbmy5yVLm4"
-        },
-        {
-          "name": "Anna Phoebe",
-          "url": "https://open.spotify.com/artist/1838KFlgy3zBrQOqiwagod"
+          "name": "Aukai",
+          "url": "https://open.spotify.com/artist/2AyLrA3GFbgbrjOjVnGcny"
         }
       ],
-      "duration_ms": 207315,
-      "name": "Dancing leaves",
-      "url": "https://open.spotify.com/track/76Do68qtelIHgHFecvUZ0Y"
+      "duration_ms": 214000,
+      "name": "Thaw",
+      "url": "https://open.spotify.com/track/63FVStUF6Dk6UGjkjmOsLU"
     },
     {
       "added_at": "2023-10-20 04:00:00",
@@ -1207,18 +1203,22 @@
     {
       "added_at": "2023-10-20 04:00:00",
       "album": {
-        "name": "Thaw",
-        "url": "https://open.spotify.com/album/1iM5rggZglIiV4ISx0HBG7"
+        "name": "Sound Visions",
+        "url": "https://open.spotify.com/album/5KAesCstHxKn5TA4qQL6HB"
       },
       "artists": [
         {
-          "name": "Aukai",
-          "url": "https://open.spotify.com/artist/2AyLrA3GFbgbrjOjVnGcny"
+          "name": "Matteo Saggese",
+          "url": "https://open.spotify.com/artist/3svbV9ROns7csbmy5yVLm4"
+        },
+        {
+          "name": "Anna Phoebe",
+          "url": "https://open.spotify.com/artist/1838KFlgy3zBrQOqiwagod"
         }
       ],
-      "duration_ms": 214000,
-      "name": "Thaw",
-      "url": "https://open.spotify.com/track/63FVStUF6Dk6UGjkjmOsLU"
+      "duration_ms": 207315,
+      "name": "Dancing leaves",
+      "url": "https://open.spotify.com/track/76Do68qtelIHgHFecvUZ0Y"
     },
     {
       "added_at": "2023-10-20 04:00:00",
@@ -1239,18 +1239,22 @@
     {
       "added_at": "2023-10-20 04:00:00",
       "album": {
-        "name": "Late Reflections",
-        "url": "https://open.spotify.com/album/614ZeZtRqXvqa6kGieLDqM"
+        "name": "ok (Dustin O'Halloran Rework) (feat. Dustin O'Halloran)",
+        "url": "https://open.spotify.com/album/5MZ8acAjqGSHJSzZEPeQny"
       },
       "artists": [
         {
-          "name": "Grandbrothers",
-          "url": "https://open.spotify.com/artist/62Jwsvqi7hW8TR9rAcfBXY"
+          "name": "Hugar",
+          "url": "https://open.spotify.com/artist/0bdJp8l3a1uJRKe2YaAcE9"
+        },
+        {
+          "name": "Dustin O'Halloran",
+          "url": "https://open.spotify.com/artist/6UEYawMcp2M4JFoXVOtZEq"
         }
       ],
-      "duration_ms": 263708,
-      "name": "North/South",
-      "url": "https://open.spotify.com/track/5SpBzfFNL8MQczqBYhtSeY"
+      "duration_ms": 307840,
+      "name": "ok (Dustin O'Halloran Rework) (feat. Dustin O'Halloran)",
+      "url": "https://open.spotify.com/track/487hpT0HXTGIpyQXvrVzSg"
     },
     {
       "added_at": "2023-10-20 04:00:00",
@@ -1279,22 +1283,18 @@
     {
       "added_at": "2023-10-20 04:00:00",
       "album": {
-        "name": "ok (Dustin O'Halloran Rework) (feat. Dustin O'Halloran)",
-        "url": "https://open.spotify.com/album/5MZ8acAjqGSHJSzZEPeQny"
+        "name": "Late Reflections",
+        "url": "https://open.spotify.com/album/614ZeZtRqXvqa6kGieLDqM"
       },
       "artists": [
         {
-          "name": "Hugar",
-          "url": "https://open.spotify.com/artist/0bdJp8l3a1uJRKe2YaAcE9"
-        },
-        {
-          "name": "Dustin O'Halloran",
-          "url": "https://open.spotify.com/artist/6UEYawMcp2M4JFoXVOtZEq"
+          "name": "Grandbrothers",
+          "url": "https://open.spotify.com/artist/62Jwsvqi7hW8TR9rAcfBXY"
         }
       ],
-      "duration_ms": 307840,
-      "name": "ok (Dustin O'Halloran Rework) (feat. Dustin O'Halloran)",
-      "url": "https://open.spotify.com/track/487hpT0HXTGIpyQXvrVzSg"
+      "duration_ms": 263708,
+      "name": "North/South",
+      "url": "https://open.spotify.com/track/5SpBzfFNL8MQczqBYhtSeY"
     },
     {
       "added_at": "2023-10-20 04:00:00",
@@ -1351,6 +1351,22 @@
     {
       "added_at": "2023-10-20 04:00:00",
       "album": {
+        "name": "Glass (Solo Piano)",
+        "url": "https://open.spotify.com/album/1xS6uWpQd5FaZ086sq0FsX"
+      },
+      "artists": [
+        {
+          "name": "Lisa Morgenstern",
+          "url": "https://open.spotify.com/artist/6nMxYJRqJcmuOFtheuVChY"
+        }
+      ],
+      "duration_ms": 375809,
+      "name": "Glass - Solo Piano",
+      "url": "https://open.spotify.com/track/0a4GdJi2TAYv2GvwX5svhK"
+    },
+    {
+      "added_at": "2023-10-20 04:00:00",
+      "album": {
         "name": "Mishkin & Septuagint",
         "url": "https://open.spotify.com/album/1CgRejUrIDJCnbAo3VB3nc"
       },
@@ -1379,22 +1395,6 @@
       "duration_ms": 210600,
       "name": "Minquiers",
       "url": "https://open.spotify.com/track/3fPjTevbs1gCDorMjymahc"
-    },
-    {
-      "added_at": "2023-10-20 04:00:00",
-      "album": {
-        "name": "Glass (Solo Piano)",
-        "url": "https://open.spotify.com/album/1xS6uWpQd5FaZ086sq0FsX"
-      },
-      "artists": [
-        {
-          "name": "Lisa Morgenstern",
-          "url": "https://open.spotify.com/artist/6nMxYJRqJcmuOFtheuVChY"
-        }
-      ],
-      "duration_ms": 375809,
-      "name": "Glass - Solo Piano",
-      "url": "https://open.spotify.com/track/0a4GdJi2TAYv2GvwX5svhK"
     },
     {
       "added_at": "2023-10-20 04:00:00",
@@ -1515,18 +1515,18 @@
     {
       "added_at": "2023-10-20 04:00:00",
       "album": {
-        "name": "Walking With Ghosts",
-        "url": "https://open.spotify.com/album/64rmZu0eAuaBkLf6qmqC9a"
+        "name": "Movements",
+        "url": "https://open.spotify.com/album/5cgLX8KMJaNvS6WQaMXHwY"
       },
       "artists": [
         {
-          "name": "Thom Robson",
-          "url": "https://open.spotify.com/artist/6dSKrqQgsG1AI65KmkJ3lk"
+          "name": "Mazoulew",
+          "url": "https://open.spotify.com/artist/2FXIGKBu3oLpuZkXq6bMgj"
         }
       ],
-      "duration_ms": 234473,
-      "name": "Remembering",
-      "url": "https://open.spotify.com/track/2RHW2VL9lzT70oVA4PvNaE"
+      "duration_ms": 139130,
+      "name": "Overture",
+      "url": "https://open.spotify.com/track/3UvvN8jTSRyb7LQZYxrnSI"
     }
   ],
   "unique_name": "Classical X",

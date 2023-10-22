@@ -1,12 +1,12 @@
 {
   "description": "Left of center indie/alternative LGBTQIA+ artists. Cover: The Japanese House",
-  "num_followers": 141143,
+  "num_followers": 141211,
   "original_name": "Alternative Pride",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxNDg1NzUyNmRmYTYxYWJjYjMxOWU4NWIzYjdlYzEzNzY5YTA0MmU1",
+  "snapshot_id": "MCw2YjRhOWQ1MjkwMWNkNjRjZTdiZmNjZTY2ZjE3NjI5Zjc1MjZhYWFk",
   "tracks": [
     {
       "added_at": "2023-06-01 04:00:00",
@@ -617,22 +617,6 @@
       "url": "https://open.spotify.com/track/05HElY3EVth4SMuOJOGusl"
     },
     {
-      "added_at": "2023-06-01 04:00:00",
-      "album": {
-        "name": "sulky baby",
-        "url": "https://open.spotify.com/album/3MvISUCBgt0rFXGhuxJ7IJ"
-      },
-      "artists": [
-        {
-          "name": "yeule",
-          "url": "https://open.spotify.com/artist/1WZarnZpWEv7dDtjAETt4X"
-        }
-      ],
-      "duration_ms": 278998,
-      "name": "sulky baby",
-      "url": "https://open.spotify.com/track/3GnahtjoeFUWAu6vEYQnzH"
-    },
-    {
       "added_at": "2023-03-07 19:29:41",
       "album": {
         "name": "Valentine",
@@ -647,6 +631,22 @@
       "duration_ms": 196173,
       "name": "Valentine",
       "url": "https://open.spotify.com/track/1RcGoniZzjY3oOatGifYK1"
+    },
+    {
+      "added_at": "2023-06-01 04:00:00",
+      "album": {
+        "name": "sulky baby",
+        "url": "https://open.spotify.com/album/3MvISUCBgt0rFXGhuxJ7IJ"
+      },
+      "artists": [
+        {
+          "name": "yeule",
+          "url": "https://open.spotify.com/artist/1WZarnZpWEv7dDtjAETt4X"
+        }
+      ],
+      "duration_ms": 278998,
+      "name": "sulky baby",
+      "url": "https://open.spotify.com/track/3GnahtjoeFUWAu6vEYQnzH"
     },
     {
       "added_at": "2023-06-01 04:00:00",
@@ -733,22 +733,6 @@
       "url": "https://open.spotify.com/track/0Itw1DHI4ZfgskoX22k9I7"
     },
     {
-      "added_at": "2023-03-07 19:29:41",
-      "album": {
-        "name": "My Friend Mica",
-        "url": "https://open.spotify.com/album/2ff0HOIQXJNMwAuKCuRXh8"
-      },
-      "artists": [
-        {
-          "name": "Boyish",
-          "url": "https://open.spotify.com/artist/6VgPyGeGO86DztjK7GCYT3"
-        }
-      ],
-      "duration_ms": 173905,
-      "name": "Legs",
-      "url": "https://open.spotify.com/track/4uP0hLJCQCm8PkXXCLw9Js"
-    },
-    {
       "added_at": "2023-06-30 04:00:00",
       "album": {
         "name": "INDUSTRY GAMES",
@@ -763,6 +747,22 @@
       "duration_ms": 241612,
       "name": "SONGS ABOUT YOU",
       "url": "https://open.spotify.com/track/2Fxly6AusNFtTf8ZBaVWnh"
+    },
+    {
+      "added_at": "2023-03-07 19:29:41",
+      "album": {
+        "name": "My Friend Mica",
+        "url": "https://open.spotify.com/album/2ff0HOIQXJNMwAuKCuRXh8"
+      },
+      "artists": [
+        {
+          "name": "Boyish",
+          "url": "https://open.spotify.com/artist/6VgPyGeGO86DztjK7GCYT3"
+        }
+      ],
+      "duration_ms": 173905,
+      "name": "Legs",
+      "url": "https://open.spotify.com/track/4uP0hLJCQCm8PkXXCLw9Js"
     },
     {
       "added_at": "2023-06-01 04:00:00",
@@ -881,22 +881,6 @@
       "url": "https://open.spotify.com/track/3faVsOc6GJnh01unAc8D7I"
     },
     {
-      "added_at": "2023-03-07 19:29:41",
-      "album": {
-        "name": "Set My Heart On Fire Immediately",
-        "url": "https://open.spotify.com/album/5qWrp5RcqjxB8ak7dtK6Iv"
-      },
-      "artists": [
-        {
-          "name": "Perfume Genius",
-          "url": "https://open.spotify.com/artist/2ueoLVCXQ948OfhVvAy3Nn"
-        }
-      ],
-      "duration_ms": 185826,
-      "name": "Jason",
-      "url": "https://open.spotify.com/track/34B5INdEjbTXvNkCC5GtYz"
-    },
-    {
       "added_at": "2023-06-01 04:00:00",
       "album": {
         "name": "Wild Heart",
@@ -911,6 +895,22 @@
       "duration_ms": 177026,
       "name": "Wild Heart",
       "url": "https://open.spotify.com/track/0pS21h64SdLRwXdG6s2NQC"
+    },
+    {
+      "added_at": "2023-03-07 19:29:41",
+      "album": {
+        "name": "Set My Heart On Fire Immediately",
+        "url": "https://open.spotify.com/album/5qWrp5RcqjxB8ak7dtK6Iv"
+      },
+      "artists": [
+        {
+          "name": "Perfume Genius",
+          "url": "https://open.spotify.com/artist/2ueoLVCXQ948OfhVvAy3Nn"
+        }
+      ],
+      "duration_ms": 185826,
+      "name": "Jason",
+      "url": "https://open.spotify.com/track/34B5INdEjbTXvNkCC5GtYz"
     },
     {
       "added_at": "2023-03-07 19:29:41",
@@ -1091,22 +1091,6 @@
     {
       "added_at": "2023-03-07 19:29:41",
       "album": {
-        "name": "nice",
-        "url": "https://open.spotify.com/album/6AOKgHrEw5Z37EFrhRHVYV"
-      },
-      "artists": [
-        {
-          "name": "Amindi",
-          "url": "https://open.spotify.com/artist/1xQIR56DxgWYZPUvOLRIua"
-        }
-      ],
-      "duration_ms": 176318,
-      "name": "death proof",
-      "url": "https://open.spotify.com/track/6jgpzjzjqJBtSjvhAOq4MR"
-    },
-    {
-      "added_at": "2023-03-07 19:29:41",
-      "album": {
         "name": "Olympus",
         "url": "https://open.spotify.com/album/7pTDGUWMPGL6Z62Prx4jZ4"
       },
@@ -1119,6 +1103,22 @@
       "duration_ms": 216852,
       "name": "Olympus",
       "url": "https://open.spotify.com/track/4yTFuPeN2UHzboAyUhgqIk"
+    },
+    {
+      "added_at": "2023-03-07 19:29:41",
+      "album": {
+        "name": "nice",
+        "url": "https://open.spotify.com/album/6AOKgHrEw5Z37EFrhRHVYV"
+      },
+      "artists": [
+        {
+          "name": "Amindi",
+          "url": "https://open.spotify.com/artist/1xQIR56DxgWYZPUvOLRIua"
+        }
+      ],
+      "duration_ms": 176318,
+      "name": "death proof",
+      "url": "https://open.spotify.com/track/6jgpzjzjqJBtSjvhAOq4MR"
     },
     {
       "added_at": "2023-03-07 19:29:41",
@@ -1185,6 +1185,22 @@
       "url": "https://open.spotify.com/track/7f2KXS3p7hnuY7DoUrHWVN"
     },
     {
+      "added_at": "2023-06-01 04:00:00",
+      "album": {
+        "name": "Smog",
+        "url": "https://open.spotify.com/album/64loLOKtAxLC6IdlfTZzbD"
+      },
+      "artists": [
+        {
+          "name": "Indigo De Souza",
+          "url": "https://open.spotify.com/artist/3ir2pF2mkiEWqyPenKTh5e"
+        }
+      ],
+      "duration_ms": 194451,
+      "name": "Smog",
+      "url": "https://open.spotify.com/track/4iRtrvu2GVOCImocv42Wz2"
+    },
+    {
       "added_at": "2023-03-07 19:29:41",
       "album": {
         "name": "Day Breaks",
@@ -1203,22 +1219,6 @@
       "duration_ms": 175664,
       "name": "Back",
       "url": "https://open.spotify.com/track/0mytPbo2GAlCTjA0zZ1Z8e"
-    },
-    {
-      "added_at": "2023-06-01 04:00:00",
-      "album": {
-        "name": "Smog",
-        "url": "https://open.spotify.com/album/64loLOKtAxLC6IdlfTZzbD"
-      },
-      "artists": [
-        {
-          "name": "Indigo De Souza",
-          "url": "https://open.spotify.com/artist/3ir2pF2mkiEWqyPenKTh5e"
-        }
-      ],
-      "duration_ms": 194451,
-      "name": "Smog",
-      "url": "https://open.spotify.com/track/4iRtrvu2GVOCImocv42Wz2"
     },
     {
       "added_at": "2023-03-07 19:29:41",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0H97kz3DdJ6.md) - [plain]
 
 > as mais tristes do brasil
 
-[Spotify](https://open.spotify.com/user/spotify) - 138,932 likes - 80 songs - 3 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 138,941 likes - 80 songs - 3 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -81,7 +81,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0H97kz3DdJ6.md) - [plain]
 | 71 | [Sônia](https://open.spotify.com/track/7pkLnsHPaM5PA0PPeIQZTA) | [Kunganii](https://open.spotify.com/artist/6Q52y6Y1JkSEMPnFSd5nlv) | [Sônia](https://open.spotify.com/album/0EpXl3Ne4z8ZNOO6vrPUVh) | 2:56 |
 | 72 | [Fim do Dia](https://open.spotify.com/track/1gIqYVNx0tKaKYf0LAZ2Mu) | [Konai](https://open.spotify.com/artist/12YpLBd0FvDYA0c4nsaxFp) | [Fim do Dia](https://open.spotify.com/album/1RvaZRpmC03BbhFaS6hGJa) | 2:39 |
 | 73 | [Silêncio](https://open.spotify.com/track/2wQlhvqr9SALECi0JgUAu9) | [LeLo M](https://open.spotify.com/artist/3R0UWk6AY9lp0o4bK4pdqJ), [zSantiago](https://open.spotify.com/artist/1ty2aNtmCAW0dEeJhKBT3J) | [Silêncio](https://open.spotify.com/album/6BK69T7uUhIGerFHm5Trxz) | 2:59 |
-| 74 | [Eu Olho pra Você](https://open.spotify.com/track/3elxbb7HapeHnQq8HO39fb) | [Sadstation](https://open.spotify.com/artist/4OFUU6MkPNc2X96UJMlR0h), [Pedrosa](https://open.spotify.com/artist/41iSmIaCOZWguy6ZVspcF2) | [Eu Olho pra Você](https://open.spotify.com/album/4OhDXcpj77hEpxoxdhguZy) | 2:30 |
+| 74 | [Eu Olho pra Você](https://open.spotify.com/track/3elxbb7HapeHnQq8HO39fb) | [Pedrosa](https://open.spotify.com/artist/41iSmIaCOZWguy6ZVspcF2) | [Eu Olho pra Você](https://open.spotify.com/album/4OhDXcpj77hEpxoxdhguZy) | 2:30 |
 | 75 | [Saída](https://open.spotify.com/track/3Lud2t0VgvILTFl1dyXDDY) | [Magyn](https://open.spotify.com/artist/4WQ90yZHNwvRHZSWCG5dpU) | [Saída](https://open.spotify.com/album/5aztfQfRFt2UpLbTgpMelw) | 2:24 |
 | 76 | [Me Deixe Sumir](https://open.spotify.com/track/2DHidHdCswIjNE4kgTK2fX) | [Hiosaki](https://open.spotify.com/artist/7wYvRV1aFfU9UlGDxoZQFY) | [Me Deixe Sumir](https://open.spotify.com/album/17lHG7WmEb33MDCEENNZar) | 3:37 |
 | 77 | [deitado no quarto](https://open.spotify.com/track/7wBfwQ1dLrf3QiQV7WRN6O) | [Sobral](https://open.spotify.com/artist/1iffB8upqqDnx6UX8P3kz2), [Zant](https://open.spotify.com/artist/0GVaM9LtM51CEGq6FJ3MC8) | [deitado no quarto](https://open.spotify.com/album/5AxkAvYMhR5pUR2XRpgWFs) | 2:56 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0H97kz3DdJ6.md) - [plain]
 | 79 | [Que não te falte amor](https://open.spotify.com/track/4e8mbXLx3DRgLbTafPpNat) | [Lil Chainz](https://open.spotify.com/artist/6LRVpC7lJ4IYrPNeAiylYB), [Kiaz](https://open.spotify.com/artist/6Ae0wz09vBFYZXJ2bJAKUl) | [Que não te falte amor](https://open.spotify.com/album/70YMa2rpfCE4LQ1Q7clQws) | 2:43 |
 | 80 | [Por Nós Dois](https://open.spotify.com/track/0vAa3jsBGC9u2orV5rJjxG) | [Hiosaki](https://open.spotify.com/artist/7wYvRV1aFfU9UlGDxoZQFY) | [Por Nós Dois](https://open.spotify.com/album/7FGoFdKxKxFjk4cYwY1bpL) | 2:58 |
 
-Snapshot ID: `MCwzNjVlNTQ4ODdhZmM1NDliZGFlN2M0NjljNGU3MDAxODFkMTYwZjM1`
+Snapshot ID: `MCw3MzU5ZDBhZmExNmExMjM5YjIxMjBhYjY5OWMyMmVjNzUzOGQ4ZDZl`

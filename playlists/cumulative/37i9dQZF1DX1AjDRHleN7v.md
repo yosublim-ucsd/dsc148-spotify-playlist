@@ -4,7 +4,7 @@
 
 > Um pouco de reggae pra acompanhar a brisa do mar.
 
-78 songs - 4 hr 30 min
+79 songs - 4 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,7 +40,7 @@
 | [Liberdade](https://open.spotify.com/track/3k7D91v3eUTY4yZbBwwbDZ) | [Gabriel O Pensador](https://open.spotify.com/artist/5BWqFYIPTnFx3OPWOoJvmD), [Armandinho](https://open.spotify.com/artist/3h7RaVXBvdSNa7LXQtVYqH) | [Antídoto Pra Todo Tipo de Veneno](https://open.spotify.com/album/5564Nl3uMeEUisl4Vz7JXK) | 3:05 | 2023-09-15 |  |
 | [Liberdade Pra Dentro da Cabeça \- Ao Vivo](https://open.spotify.com/track/0nd6UXkAFXDgaklpsd1Hdu) | [Natiruts](https://open.spotify.com/artist/4PhdYoQGH8s1xee81dqQOO) | [Natiruts Acústico no Rio de Janeiro \(Ao Vivo\)](https://open.spotify.com/album/1x2y04H5qSXOU9tzDZVT9i) | 4:13 | 2023-07-03 |  |
 | [Love So Strong](https://open.spotify.com/track/70oUkZVnH2WQWaNZ8zwn8p) | [3030](https://open.spotify.com/artist/3OHpci0ruhvaMv9F795LR5), [Big Mountain](https://open.spotify.com/artist/0Jeckitay8SbvKwqAzWuYH) | [TROPICALIA](https://open.spotify.com/album/2Kx09C96ugvfDpiE2cfeMp) | 3:47 | 2023-07-03 |  |
-| [Lua Crescente](https://open.spotify.com/track/3pxlJ6ekcf3e5AIwbU9Wzt) | [Calbertini](https://open.spotify.com/artist/1D8wO50htejQzCFByxytKH) | [Lua Crescente](https://open.spotify.com/album/4Fa9dI4joZ8SYsXOSKIlEu) | 3:21 | 2023-07-03 |  |
+| [Lua Crescente](https://open.spotify.com/track/3pxlJ6ekcf3e5AIwbU9Wzt) | [Calbertini](https://open.spotify.com/artist/1D8wO50htejQzCFByxytKH) | [Lua Crescente](https://open.spotify.com/album/4Fa9dI4joZ8SYsXOSKIlEu) | 3:21 | 2023-07-03 | 2023-10-22 |
 | [Me Beija](https://open.spotify.com/track/5iZ9HUP9pMc9su3wX5OqRM) | [Mateus Menezes](https://open.spotify.com/artist/2OmkPZFRWq9lBwUEtTF5Wz) | [Me Beija](https://open.spotify.com/album/5H4GpgPTKEXQTifFxo9vlk) | 2:59 | 2023-07-03 |  |
 | [Melhor Assunto \- Bus Live Session](https://open.spotify.com/track/7xva0maR5No7LbH70UEj5M) | [Nossa Toca](https://open.spotify.com/artist/5o00VSNNjsdSmZ0YJwUSxi), [Big Up](https://open.spotify.com/artist/246xfnz80PngiO9sZubyy0) | [Melhor Assunto \(Bus Live Session\)](https://open.spotify.com/album/5kNBIykzFFamaBRteogvJG) | 2:43 | 2023-07-03 | 2023-08-05 |
 | [Minha Ilha](https://open.spotify.com/track/3pqg2vWR8mZ9OGxZ8Kxi8v) | [Gabriel Oliveira](https://open.spotify.com/artist/5tvMRnrx7V0hJc4XhbqEtr) | [Minha Ilha](https://open.spotify.com/album/0sOnQvXTfgv9zyrf1Mi7Zj) | 3:43 | 2023-07-03 |  |
@@ -68,6 +68,7 @@
 | [Se Joga](https://open.spotify.com/track/5lWp2PF9f1GDtkjVNqF8XS) | [Noel Ferrari](https://open.spotify.com/artist/44SfcAfSnOkXQleRmVCwux) | [Se Joga](https://open.spotify.com/album/38I1Q4e9SGC3n5jEKvpVzG) | 2:53 | 2023-08-18 |  |
 | [sei lá](https://open.spotify.com/track/1qZnStNVnb35sjENUA4G3B) | [Jambu](https://open.spotify.com/artist/5cKYzOJ8HSM7eKSP3FkvVX) | [sei lá](https://open.spotify.com/album/3RIB8BEpinwrq093EmVt8h) | 3:12 | 2023-07-03 |  |
 | [Sem Medo](https://open.spotify.com/track/2zEdAMvFYrYjuWk6lExQfB) | [Mahmundi](https://open.spotify.com/artist/6hfNZcbKvjpOnhhkFVKyt7) | [Sessão Aberta Acústico](https://open.spotify.com/album/0WpWvWY5iKQTYuNnqum8qI) | 4:05 | 2023-07-03 |  |
+| [Sempre Eu e Você](https://open.spotify.com/track/5XGldy1yn5MGw3oqQYNzhI) | [Jorge Aragão](https://open.spotify.com/artist/2cAooeeHKk2UvzUgIxpS0y), [Xamã](https://open.spotify.com/artist/5YwzDz4RJfTiMHS4tdR5Lf), [Dalto Max](https://open.spotify.com/artist/3XnOjjLL1i2VaNgYpAS4Ku) | [Sempre Eu e Você](https://open.spotify.com/album/3wlDQb6ox7adAk9CnOKYRt) | 2:37 | 2023-10-20 |  |
 | [Smoking On The Moonlight](https://open.spotify.com/track/6aEBvGAtjoEyJ1TmP0k8EA) | [Gustah](https://open.spotify.com/artist/0nzfP49X2nrzmmkwZf180L), [Yunk Vino](https://open.spotify.com/artist/460m2YG30duLCuHwFdiLgX), [Dada Yute](https://open.spotify.com/artist/4mZqYlVhIZJnJtbF39kDjj), [Duani](https://open.spotify.com/artist/7kfnPmwhVUGVTbp4IEiHxZ), [WEY](https://open.spotify.com/artist/6nZ39vMOOOgXQ471Jy5jhR), [2050](https://open.spotify.com/artist/5VwzkQP7ZcksbrUUzh3gji) | [Smoking On The Moonlight](https://open.spotify.com/album/34a21mK3LM0q9q3JlUCrjN) | 2:31 | 2023-07-21 | 2023-09-16 |
 | [Sol da Meia\-Noite](https://open.spotify.com/track/4bRazVEpf2S9L7Uy6yy7Rt) | [Nathan Carvalho](https://open.spotify.com/artist/4jKKMcr1tu7dl9phu8o3pl), [Zeider](https://open.spotify.com/artist/6r9jXjPwsd3OP4aCSfYRhW) | [Sol da Meia\-Noite](https://open.spotify.com/album/28W7g8L3MysCINCqaLOgN7) | 3:29 | 2023-07-03 |  |
 | [Sonhei Com Você](https://open.spotify.com/track/287VCse3MOuvKUyyC3xhSh) | [Henrique Portugal](https://open.spotify.com/artist/3vI8Ld2y1zCY8vvkZ8VFq5), [Marcelo Tofani](https://open.spotify.com/artist/59EQw7iHjbElOkznITe43m) | [Sonhei Com Você](https://open.spotify.com/album/0Ihx0FWz6rTdqqAwn4fGNb) | 3:28 | 2023-07-03 |  |

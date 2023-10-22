@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7JWqNxz28IX.md) - [plain]
 
 > canzoni tristi, rap e indie, per chi ha un cuore così 💔  \(in cover, solø\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 41,811 likes - 100 songs - 4 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 41,830 likes - 100 songs - 4 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -82,17 +82,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7JWqNxz28IX.md) - [plain]
 | 72 | [Attacco di Panico](https://open.spotify.com/track/16w3jEiUvbHNYtEajmzh86) | [Lost Kids](https://open.spotify.com/artist/5ly3ec0V7ETrC9fSvOX9G6) | [Attacco di Panico](https://open.spotify.com/album/32S1XPsFLlpWzKXHhfHpli) | 2:25 |
 | 73 | [DOVE SEI](https://open.spotify.com/track/7Lf6L3PBhMcSVTIjxEhtWB) | [Faster](https://open.spotify.com/artist/6y3YL8atGp96e9pvlB3snd), [JXN](https://open.spotify.com/artist/3MYT2UTOP4RHngspyochga) | [ONIRO](https://open.spotify.com/album/5K6rOCFPtt6Gdv6YHaPC2x) | 2:54 |
 | 74 | [Ci penserò domani](https://open.spotify.com/track/1feHjTOSRoZSh71HuIvnoT) | [Solø](https://open.spotify.com/artist/1R0q1GO6iqTMPSh0aek1gp), [NIVEO](https://open.spotify.com/artist/1DbAJ7OMqizWZIRnccdmSS) | [Ci penserò domani](https://open.spotify.com/album/3BHBF3r3tkcAAruf7wlqYw) | 2:17 |
-| 75 | [\(SEMBRA BELLO\)](https://open.spotify.com/track/6l5doB3A29SS3h0SVL8x1W) | [bnkr44](https://open.spotify.com/artist/1lwGYDWoXC7E5wDNYZBurw) | [FARSI MALE A NOI VA BENE](https://open.spotify.com/album/4kyZ7s8g1iT6LZAHJAcd29) | 1:56 |
-| 76 | [Sotto lo zero](https://open.spotify.com/track/46PYmmj2C1v8DwuhSUowIy) | [Nisba](https://open.spotify.com/artist/0rAJoDmXBTVc0FSkEnbnQa) | [Sotto lo zero](https://open.spotify.com/album/4GrFH1rvATwSnB3tRVrqwE) | 3:00 |
+| 75 | [Sotto lo zero](https://open.spotify.com/track/46PYmmj2C1v8DwuhSUowIy) | [Nisba](https://open.spotify.com/artist/0rAJoDmXBTVc0FSkEnbnQa) | [Sotto lo zero](https://open.spotify.com/album/4GrFH1rvATwSnB3tRVrqwE) | 3:00 |
+| 76 | [\(SEMBRA BELLO\)](https://open.spotify.com/track/6l5doB3A29SS3h0SVL8x1W) | [bnkr44](https://open.spotify.com/artist/1lwGYDWoXC7E5wDNYZBurw) | [FARSI MALE A NOI VA BENE](https://open.spotify.com/album/4kyZ7s8g1iT6LZAHJAcd29) | 1:56 |
 | 77 | [ME & YOU](https://open.spotify.com/track/6aUqWalFUc8uaPRbnx4Drq) | [Zyrtck](https://open.spotify.com/artist/4kzy5r1zhu4jC0LhQ15nti), [Friman](https://open.spotify.com/artist/1fiZijV9uuS7ZZmxnAbjEQ) | [ME & YOU](https://open.spotify.com/album/1laFOBIGISoV3AtdDFTP9H) | 2:17 |
-| 78 | [Febbre a Febbraio \(feat\. Lil Kvneki\)](https://open.spotify.com/track/6QDNyom34TEQE6AzfEVE8Y) | [Gianni Bismark](https://open.spotify.com/artist/26PZBCQnswFp61ccTrVJOa), [Lil Kvneki](https://open.spotify.com/artist/5NT6SamVXGrIp1Z1lE2Eyn) | [Febbre a febbraio](https://open.spotify.com/album/7w5fn5wnpXeIc91o3e3WAd) | 3:06 |
-| 79 | [Ricordi](https://open.spotify.com/track/6Zo9n6AT5BCQiwHNk0PaGE) | [DOXX](https://open.spotify.com/artist/1rlz0TbW8EjjvvOxPxoVsr) | [Amor proprio](https://open.spotify.com/album/6kk9gwIVQ26YpVgj1PbI08) | 1:49 |
+| 78 | [Ricordi](https://open.spotify.com/track/6Zo9n6AT5BCQiwHNk0PaGE) | [DOXX](https://open.spotify.com/artist/1rlz0TbW8EjjvvOxPxoVsr) | [Amor proprio](https://open.spotify.com/album/6kk9gwIVQ26YpVgj1PbI08) | 1:49 |
+| 79 | [Febbre a Febbraio \(feat\. Lil Kvneki\)](https://open.spotify.com/track/6QDNyom34TEQE6AzfEVE8Y) | [Gianni Bismark](https://open.spotify.com/artist/26PZBCQnswFp61ccTrVJOa), [Lil Kvneki](https://open.spotify.com/artist/5NT6SamVXGrIp1Z1lE2Eyn) | [Febbre a febbraio](https://open.spotify.com/album/7w5fn5wnpXeIc91o3e3WAd) | 3:06 |
 | 80 | [Bombay Lemon](https://open.spotify.com/track/1ZdWAkytO762tfvevja8lG) | [Cloudì](https://open.spotify.com/artist/14F6TgN7IOUEReU7piFW82), [Bipolar](https://open.spotify.com/artist/36CoTQmA5QgZvVpG81y1di) | [LOVE?](https://open.spotify.com/album/0zNYn4shWIiTPfCporUCVm) | 2:56 |
 | 81 | [Pagine](https://open.spotify.com/track/2qfLABUmMubADB6tRridR3) | [Kia](https://open.spotify.com/artist/4IA59RHOyKrygCtloEbopT) | [Pagine](https://open.spotify.com/album/0jWndBcFpzkAAhyVfwGBdU) | 2:24 |
 | 82 | [Non pioverà per sempre](https://open.spotify.com/track/2j6BQ5Q74ASnVFCWyDztTA) | [Elteep](https://open.spotify.com/artist/0eoUjdIgU7Heid0Mv3EjLB), [Lil Sanax](https://open.spotify.com/artist/08kfcguo6aDqrugFck6JwI) | [Non pioverà per sempre](https://open.spotify.com/album/3frM2pLSKqH8CYoKXeKNXm) | 3:09 |
-| 83 | [poster](https://open.spotify.com/track/3AMkjj32qDTUCY4sIcUQvz) | [Cicco Sanchez](https://open.spotify.com/artist/4WCGWBfRK9jWrDtxj4Qdel) | [poster](https://open.spotify.com/album/7yeV8I2WFKaliL35x3BMge) | 2:49 |
-| 84 | [SEMBREREMO DISTANTI](https://open.spotify.com/track/1OmjpoA4JsgcwVL9XXu62h) | [UkuLele](https://open.spotify.com/artist/69VBcKoYGOFY30ly2yxm8L), [Delta](https://open.spotify.com/artist/7KMnhvEUFIaY5afnH9kCbv), [Close Listen](https://open.spotify.com/artist/1nYewcxiLilP3ju14xOaov) | [MUSICA ALTA E STRESS](https://open.spotify.com/album/4dYxfdCXvfE0NyBDgKAFQo) | 2:45 |
-| 85 | [Backstage](https://open.spotify.com/track/5V8XwjvqWbDB1B0r0aZ2Wi) | [DOXX](https://open.spotify.com/artist/1rlz0TbW8EjjvvOxPxoVsr) | [Gemini](https://open.spotify.com/album/3qPC7M1Bgd3yHvQi7PSzrK) | 3:00 |
+| 83 | [SEMBREREMO DISTANTI](https://open.spotify.com/track/1OmjpoA4JsgcwVL9XXu62h) | [UkuLele](https://open.spotify.com/artist/69VBcKoYGOFY30ly2yxm8L), [Delta](https://open.spotify.com/artist/7KMnhvEUFIaY5afnH9kCbv), [Close Listen](https://open.spotify.com/artist/1nYewcxiLilP3ju14xOaov) | [MUSICA ALTA E STRESS](https://open.spotify.com/album/4dYxfdCXvfE0NyBDgKAFQo) | 2:45 |
+| 84 | [Backstage](https://open.spotify.com/track/5V8XwjvqWbDB1B0r0aZ2Wi) | [DOXX](https://open.spotify.com/artist/1rlz0TbW8EjjvvOxPxoVsr) | [Gemini](https://open.spotify.com/album/3qPC7M1Bgd3yHvQi7PSzrK) | 3:00 |
+| 85 | [poster](https://open.spotify.com/track/3AMkjj32qDTUCY4sIcUQvz) | [Cicco Sanchez](https://open.spotify.com/artist/4WCGWBfRK9jWrDtxj4Qdel) | [poster](https://open.spotify.com/album/7yeV8I2WFKaliL35x3BMge) | 2:49 |
 | 86 | [Clipper](https://open.spotify.com/track/5RdIIacDdbqAhWgEq1fMcL) | [Kia](https://open.spotify.com/artist/4IA59RHOyKrygCtloEbopT), [Liarr](https://open.spotify.com/artist/2pWViDzgkgNr0CfhxZTvdY) | [Fuori di me](https://open.spotify.com/album/6mjUd8akec2Qk3itsNHLOv) | 2:46 |
 | 87 | [Semiminime](https://open.spotify.com/track/3gsiEFtWtn9juWtsYcDHXd) | [Rondine](https://open.spotify.com/artist/0ybsH7NdFE3WlOIupTRm9l) | [Semiminime](https://open.spotify.com/album/7FOxGawOinZ7qvpuCaxhdZ) | 2:09 |
 | 88 | [Credimi ancora](https://open.spotify.com/track/4xTg0JYQVlDsIiNTbHIQOQ) | [ernvss](https://open.spotify.com/artist/7gC9tWX4RacI5aIaYQCPza), [Coron](https://open.spotify.com/artist/29eIf9x9g7Gr8zhW5kLSax) | [Credimi ancora](https://open.spotify.com/album/0getMLUgdB1w2NeJy0UOGB) | 3:35 |
@@ -106,7 +106,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7JWqNxz28IX.md) - [plain]
 | 96 | [Piangi mai \(domani\)](https://open.spotify.com/track/1aYYkE4vIycFLgy2IJrlGZ) | [Elteep](https://open.spotify.com/artist/0eoUjdIgU7Heid0Mv3EjLB) | [Piangi mai \(domani\)](https://open.spotify.com/album/0MwrHf04OMj7HOG29XC5ev) | 2:32 |
 | 97 | [Rottami](https://open.spotify.com/track/4LqZES294uk01Y7c6Qyyau) | [Coron](https://open.spotify.com/artist/29eIf9x9g7Gr8zhW5kLSax), [Redys](https://open.spotify.com/artist/0Fp2LQN1MdfCEgyZXRwUZ1) | [Rottami](https://open.spotify.com/album/5kuJSMOo46VXXSG4DGIT2U) | 3:19 |
 | 98 | [Fragili](https://open.spotify.com/track/6Y1wgVdi0sJ6JVM9rnL26K) | [Hoomor](https://open.spotify.com/artist/4cNN5QXGRFL9VBGGpO85O8), [Nidya](https://open.spotify.com/artist/0lgeMbRvndhRe5ViRT1h3S) | [Fragili](https://open.spotify.com/album/6ixktzZ4cFQkeewHAY8fjY) | 2:47 |
-| 99 | [GOODBYE](https://open.spotify.com/track/2xRrpkcxPlFEj4ze9f8t6X) | [Radical](https://open.spotify.com/artist/4k6hMjEI3XFfMcRLCa9yd3) | [EVOL](https://open.spotify.com/album/7abPNbFZKEsNioUfehUD4c) | 2:07 |
-| 100 | [nostalgia](https://open.spotify.com/track/0msorSiyF2W6XKAllxBYhX) | [TB](https://open.spotify.com/artist/1z2PiwIAFADDrAnR52LBkN) | [nostalgia](https://open.spotify.com/album/6MK8Grvo1obeWQThpRZ77E) | 3:15 |
+| 99 | [nostalgia](https://open.spotify.com/track/0msorSiyF2W6XKAllxBYhX) | [TB](https://open.spotify.com/artist/1z2PiwIAFADDrAnR52LBkN) | [nostalgia](https://open.spotify.com/album/6MK8Grvo1obeWQThpRZ77E) | 3:15 |
+| 100 | [GOODBYE](https://open.spotify.com/track/2xRrpkcxPlFEj4ze9f8t6X) | [Radical](https://open.spotify.com/artist/4k6hMjEI3XFfMcRLCa9yd3) | [EVOL](https://open.spotify.com/album/7abPNbFZKEsNioUfehUD4c) | 2:07 |
 
-Snapshot ID: `MCwzZDFhMGIzNGU2ODU2Yjk0OGI0NmM1MjEwNjVmYmM0OGZmNWFhNjQ4`
+Snapshot ID: `MCxiYjc0ODZjZDY0NjRmNjhlYWM0NTQ3YThlMjMzNDYzZTdmYzdiZDUz`

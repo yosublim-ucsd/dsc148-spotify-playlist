@@ -778,7 +778,7 @@
       ],
       "date_added": "2023-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-22",
       "duration_ms": 442586,
       "name": "FFVII REMAKE: \u30b0\u30ed\u30a6\u30ac\u30a4\u30b9\u30c8 (Ghoul)",
       "url": "https://open.spotify.com/track/5cV4tTVdcgnqfQc19m612K"
@@ -840,7 +840,7 @@
       ],
       "date_added": "2023-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-22",
       "duration_ms": 250573,
       "name": "FFVII REMAKE: \u30b9\u30ab\u30fc\u30ec\u30c3\u30c8\u306e\u30c6\u30fc\u30de (Scarlet's Theme)",
       "url": "https://open.spotify.com/track/3tnuyMU0FohoFg77aAghTn"
@@ -2916,7 +2916,7 @@
       ],
       "date_added": "2023-06-08",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-01",
+      "date_removed": null,
       "duration_ms": 157400,
       "name": "Trisection",
       "url": "https://open.spotify.com/track/1nBbKUpjjTMOdXG242puec"
@@ -3226,6 +3226,24 @@
       "duration_ms": 297000,
       "name": "\u300cRonfaure\u300d from FINAL FANTASY XI - original",
       "url": "https://open.spotify.com/track/0eaqUYX8ZYE76PU7hioyw4"
+    },
+    {
+      "album": {
+        "name": "DISSIDIA FINAL FANTASY Original Soundtrack",
+        "url": "https://open.spotify.com/album/5YAyjZBLHRwUGoijvobtCw"
+      },
+      "artists": [
+        {
+          "name": "SQUARE ENIX MUSIC",
+          "url": "https://open.spotify.com/artist/6NeoLSPGwJLfeisvM36SMi"
+        }
+      ],
+      "date_added": "2023-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 66133,
+      "name": "\u300cTerra's Theme - arrange -\u300d from FINAL FANTASY VI",
+      "url": "https://open.spotify.com/track/2dqMiJqXTF890G3RtPftjq"
     },
     {
       "album": {

@@ -1,12 +1,12 @@
 {
   "description": "Meet the vocalists representing Korea! (Cover:\bSung Si Kyung x NAUL(\uc131\uc2dc\uacbd x \ub098\uc5bc)) (\ub300\ud55c\ubbfc\uad6d\uc744 \ub300\ud45c\ud558\ub294 \ubcf4\uceec\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!)",
-  "num_followers": 325582,
+  "num_followers": 325609,
   "original_name": "v o K a l",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjNDJhZTk3N2Y1N2Y4MmRkZGJkMTlkOGUxNjQ2YjFlODRlODI0ZmJk",
+  "snapshot_id": "MCw0MGM3ZjIzYjJmYjgwNzMxNzRhZWUwNDQ3YmI3OTdkNjI4ZjgwMjFm",
   "tracks": [
     {
       "added_at": "2023-10-19 09:51:38",
@@ -719,22 +719,6 @@
     {
       "added_at": "2023-10-19 09:51:38",
       "album": {
-        "name": "A Love Supreme",
-        "url": "https://open.spotify.com/album/7Mcgv379kU4bRHl54JJqhi"
-      },
-      "artists": [
-        {
-          "name": "SOLE",
-          "url": "https://open.spotify.com/artist/6naXFodImN2DwRmKCQHAUt"
-        }
-      ],
-      "duration_ms": 210106,
-      "name": "I Want to Be Closer to You",
-      "url": "https://open.spotify.com/track/6QlCumx7Sow4nRgVt6tDms"
-    },
-    {
-      "added_at": "2023-10-19 09:51:38",
-      "album": {
         "name": "When it snows(Feat.Heize)",
         "url": "https://open.spotify.com/album/1d2YKQ02RQA97EyrB55ZcK"
       },
@@ -755,18 +739,34 @@
     {
       "added_at": "2023-10-19 09:51:38",
       "album": {
-        "name": "Bye",
-        "url": "https://open.spotify.com/album/6IcBFF3yXklWuA44of4ATg"
+        "name": "A Love Supreme",
+        "url": "https://open.spotify.com/album/7Mcgv379kU4bRHl54JJqhi"
       },
       "artists": [
         {
-          "name": "Lim Changjung",
-          "url": "https://open.spotify.com/artist/4dB2XmMpzPxsMRnt62TbF5"
+          "name": "SOLE",
+          "url": "https://open.spotify.com/artist/6naXFodImN2DwRmKCQHAUt"
         }
       ],
-      "duration_ms": 290960,
-      "name": "Soju Hanjan",
-      "url": "https://open.spotify.com/track/10if3nqm7OS7qrV45v9GOg"
+      "duration_ms": 210106,
+      "name": "I Want to Be Closer to You",
+      "url": "https://open.spotify.com/track/6QlCumx7Sow4nRgVt6tDms"
+    },
+    {
+      "added_at": "2023-10-19 09:51:38",
+      "album": {
+        "name": "Be ordinary",
+        "url": "https://open.spotify.com/album/6C9pNWWWir3wnLn2JfMVBe"
+      },
+      "artists": [
+        {
+          "name": "Hwang Chi Yeul",
+          "url": "https://open.spotify.com/artist/689wBe4v9rvHjdNB4JUgYq"
+        }
+      ],
+      "duration_ms": 258950,
+      "name": "A Daily Song",
+      "url": "https://open.spotify.com/track/2eooxY46CG0Ao2przvSDTz"
     },
     {
       "added_at": "2023-10-19 09:51:38",
@@ -803,34 +803,18 @@
     {
       "added_at": "2023-10-19 09:51:38",
       "album": {
-        "name": "Be ordinary",
-        "url": "https://open.spotify.com/album/6C9pNWWWir3wnLn2JfMVBe"
+        "name": "Bye",
+        "url": "https://open.spotify.com/album/6IcBFF3yXklWuA44of4ATg"
       },
       "artists": [
         {
-          "name": "Hwang Chi Yeul",
-          "url": "https://open.spotify.com/artist/689wBe4v9rvHjdNB4JUgYq"
+          "name": "Lim Changjung",
+          "url": "https://open.spotify.com/artist/4dB2XmMpzPxsMRnt62TbF5"
         }
       ],
-      "duration_ms": 258950,
-      "name": "A Daily Song",
-      "url": "https://open.spotify.com/track/2eooxY46CG0Ao2przvSDTz"
-    },
-    {
-      "added_at": "2023-10-19 09:51:38",
-      "album": {
-        "name": "my life",
-        "url": "https://open.spotify.com/album/1JzvEZ8BtBvjwrqOj0OdLS"
-      },
-      "artists": [
-        {
-          "name": "Mark Tuan",
-          "url": "https://open.spotify.com/artist/4l1q0z9xeJcJw73Gxc6gCB"
-        }
-      ],
-      "duration_ms": 174990,
-      "name": "my life",
-      "url": "https://open.spotify.com/track/53Iv4XnDyFKnMXVaiiCcdv"
+      "duration_ms": 290960,
+      "name": "Soju Hanjan",
+      "url": "https://open.spotify.com/track/10if3nqm7OS7qrV45v9GOg"
     },
     {
       "added_at": "2023-10-19 09:51:38",
@@ -883,6 +867,22 @@
       "duration_ms": 267280,
       "name": "Breath",
       "url": "https://open.spotify.com/track/3FduLmIal9YnzHZp2vTZKl"
+    },
+    {
+      "added_at": "2023-10-19 09:51:38",
+      "album": {
+        "name": "my life",
+        "url": "https://open.spotify.com/album/1JzvEZ8BtBvjwrqOj0OdLS"
+      },
+      "artists": [
+        {
+          "name": "Mark Tuan",
+          "url": "https://open.spotify.com/artist/4l1q0z9xeJcJw73Gxc6gCB"
+        }
+      ],
+      "duration_ms": 174990,
+      "name": "my life",
+      "url": "https://open.spotify.com/track/53Iv4XnDyFKnMXVaiiCcdv"
     },
     {
       "added_at": "2023-10-19 09:51:38",
@@ -1163,22 +1163,6 @@
     {
       "added_at": "2023-10-19 09:51:38",
       "album": {
-        "name": "HOSPITAL PLAYLIST Season2 (Original Television Soundtrack), Pt. 10",
-        "url": "https://open.spotify.com/album/36VmbKKMtbSt0GUcQkwRV8"
-      },
-      "artists": [
-        {
-          "name": "Yoon Mirae",
-          "url": "https://open.spotify.com/artist/1Do4bSzfUl0KWL9r1fITu0"
-        }
-      ],
-      "duration_ms": 256314,
-      "name": "It\u2032s My Life",
-      "url": "https://open.spotify.com/track/01zMJ3mp9nqZmJTCeb3lLl"
-    },
-    {
-      "added_at": "2023-10-19 09:51:38",
-      "album": {
         "name": "Like Yesterday",
         "url": "https://open.spotify.com/album/4AiaH90xPWh74ufcITVlnl"
       },
@@ -1191,6 +1175,22 @@
       "duration_ms": 236000,
       "name": "Like Yesterday",
       "url": "https://open.spotify.com/track/2BgxxQRs0sxzLGzDQ3NQ33"
+    },
+    {
+      "added_at": "2023-10-19 09:51:38",
+      "album": {
+        "name": "HOSPITAL PLAYLIST Season2 (Original Television Soundtrack), Pt. 10",
+        "url": "https://open.spotify.com/album/36VmbKKMtbSt0GUcQkwRV8"
+      },
+      "artists": [
+        {
+          "name": "Yoon Mirae",
+          "url": "https://open.spotify.com/artist/1Do4bSzfUl0KWL9r1fITu0"
+        }
+      ],
+      "duration_ms": 256314,
+      "name": "It\u2032s My Life",
+      "url": "https://open.spotify.com/track/01zMJ3mp9nqZmJTCeb3lLl"
     },
     {
       "added_at": "2023-10-19 09:51:38",
@@ -1295,6 +1295,22 @@
     {
       "added_at": "2023-10-19 09:51:38",
       "album": {
+        "name": "Rookie Historian GooHaeRyung (Original Television Soundtrack), Pt. 2",
+        "url": "https://open.spotify.com/album/7vvT1Lt9uuSjV7rdYeeIDt"
+      },
+      "artists": [
+        {
+          "name": "Yoon Mirae",
+          "url": "https://open.spotify.com/artist/1Do4bSzfUl0KWL9r1fITu0"
+        }
+      ],
+      "duration_ms": 234269,
+      "name": "My Dream",
+      "url": "https://open.spotify.com/track/6KH01MmdV1vsprqge5pWUc"
+    },
+    {
+      "added_at": "2023-10-19 09:51:38",
+      "album": {
         "name": "You&I",
         "url": "https://open.spotify.com/album/5r4Z2r3SMsPUlX4VbFW6IA"
       },
@@ -1323,22 +1339,6 @@
       "duration_ms": 194240,
       "name": "Holding hands or walking together.",
       "url": "https://open.spotify.com/track/0DXnSV98JM6bwf4fWiUyKb"
-    },
-    {
-      "added_at": "2023-10-19 09:51:38",
-      "album": {
-        "name": "Rookie Historian GooHaeRyung (Original Television Soundtrack), Pt. 2",
-        "url": "https://open.spotify.com/album/7vvT1Lt9uuSjV7rdYeeIDt"
-      },
-      "artists": [
-        {
-          "name": "Yoon Mirae",
-          "url": "https://open.spotify.com/artist/1Do4bSzfUl0KWL9r1fITu0"
-        }
-      ],
-      "duration_ms": 234269,
-      "name": "My Dream",
-      "url": "https://open.spotify.com/track/6KH01MmdV1vsprqge5pWUc"
     },
     {
       "added_at": "2023-10-19 09:51:38",
@@ -1375,22 +1375,6 @@
     {
       "added_at": "2023-10-19 09:51:38",
       "album": {
-        "name": "&10",
-        "url": "https://open.spotify.com/album/1LO8EUUBv1ZdacxIx1KoWF"
-      },
-      "artists": [
-        {
-          "name": "DAVICHI",
-          "url": "https://open.spotify.com/artist/4z6yrDz5GfKXkeQZjOaZdq"
-        }
-      ],
-      "duration_ms": 273292,
-      "name": "Days without you",
-      "url": "https://open.spotify.com/track/14xiv5uhzoRdqd3cxHiBbw"
-    },
-    {
-      "added_at": "2023-10-19 09:51:38",
-      "album": {
         "name": "The King: Eternal Monarch (Original Television Soundtrack), Pt. 13",
         "url": "https://open.spotify.com/album/30LZlh9d2k2GMQOPbJvdxd"
       },
@@ -1407,6 +1391,22 @@
       "duration_ms": 251160,
       "name": "You're My End and My Beginning",
       "url": "https://open.spotify.com/track/1q3axbxKGkwHdLLQtxmyl2"
+    },
+    {
+      "added_at": "2023-10-19 09:51:38",
+      "album": {
+        "name": "&10",
+        "url": "https://open.spotify.com/album/1LO8EUUBv1ZdacxIx1KoWF"
+      },
+      "artists": [
+        {
+          "name": "DAVICHI",
+          "url": "https://open.spotify.com/artist/4z6yrDz5GfKXkeQZjOaZdq"
+        }
+      ],
+      "duration_ms": 273292,
+      "name": "Days without you",
+      "url": "https://open.spotify.com/track/14xiv5uhzoRdqd3cxHiBbw"
     },
     {
       "added_at": "2023-10-19 09:51:38",
@@ -1459,22 +1459,6 @@
     {
       "added_at": "2023-10-19 09:51:38",
       "album": {
-        "name": "Love Me Love Me",
-        "url": "https://open.spotify.com/album/2rtrqdfMeYxBNxpxcUl3cY"
-      },
-      "artists": [
-        {
-          "name": "Kwon Jin Ah",
-          "url": "https://open.spotify.com/artist/0kRAVpQhUUArA8UnYwEdeZ"
-        }
-      ],
-      "duration_ms": 206240,
-      "name": "Love Me Love Me",
-      "url": "https://open.spotify.com/track/6PDGLp3PVAVdwVeFRLYvS5"
-    },
-    {
-      "added_at": "2023-10-19 09:51:38",
-      "album": {
         "name": "New Year",
         "url": "https://open.spotify.com/album/5EurmkjnoKInaBsjAM6iFB"
       },
@@ -1487,6 +1471,22 @@
       "duration_ms": 168760,
       "name": "Fuckin' New Year",
       "url": "https://open.spotify.com/track/4njyS3c6btHwlhVuYt4ks5"
+    },
+    {
+      "added_at": "2023-10-19 09:51:38",
+      "album": {
+        "name": "Love Me Love Me",
+        "url": "https://open.spotify.com/album/2rtrqdfMeYxBNxpxcUl3cY"
+      },
+      "artists": [
+        {
+          "name": "Kwon Jin Ah",
+          "url": "https://open.spotify.com/artist/0kRAVpQhUUArA8UnYwEdeZ"
+        }
+      ],
+      "duration_ms": 206240,
+      "name": "Love Me Love Me",
+      "url": "https://open.spotify.com/track/6PDGLp3PVAVdwVeFRLYvS5"
     },
     {
       "added_at": "2023-10-19 09:51:38",
@@ -1507,6 +1507,22 @@
       "duration_ms": 255746,
       "name": "Can Love Be Fair",
       "url": "https://open.spotify.com/track/0ZSgMcumYoRwVeFmFJWtmm"
+    },
+    {
+      "added_at": "2023-10-19 09:51:38",
+      "album": {
+        "name": "The sword of Aramun, Pt. 1 (Original Television Soundtrack)",
+        "url": "https://open.spotify.com/album/4FLn9vnAb0b5ILDZGtz3lI"
+      },
+      "artists": [
+        {
+          "name": "Forestella",
+          "url": "https://open.spotify.com/artist/4Phfy4o60wGqoPQFl5oCP8"
+        }
+      ],
+      "duration_ms": 250000,
+      "name": "Chosen One",
+      "url": "https://open.spotify.com/track/1wVR4uRKLxXCwZY8saaTMM"
     },
     {
       "added_at": "2023-10-19 09:51:38",
@@ -1543,22 +1559,6 @@
     {
       "added_at": "2023-10-19 09:51:38",
       "album": {
-        "name": "The sword of Aramun, Pt. 1 (Original Television Soundtrack)",
-        "url": "https://open.spotify.com/album/4FLn9vnAb0b5ILDZGtz3lI"
-      },
-      "artists": [
-        {
-          "name": "Forestella",
-          "url": "https://open.spotify.com/artist/4Phfy4o60wGqoPQFl5oCP8"
-        }
-      ],
-      "duration_ms": 250000,
-      "name": "Chosen One",
-      "url": "https://open.spotify.com/track/1wVR4uRKLxXCwZY8saaTMM"
-    },
-    {
-      "added_at": "2023-10-19 09:51:38",
-      "album": {
         "name": "Stay",
         "url": "https://open.spotify.com/album/7hBDAgfWPOEWnJVgB3Adr6"
       },
@@ -1575,6 +1575,22 @@
       "duration_ms": 226480,
       "name": "Stay",
       "url": "https://open.spotify.com/track/2IslXjQwGJNORQmMy3DeE4"
+    },
+    {
+      "added_at": "2023-10-19 09:51:38",
+      "album": {
+        "name": "Dear",
+        "url": "https://open.spotify.com/album/2UKLUzxg6b2A1vZJfuf63p"
+      },
+      "artists": [
+        {
+          "name": "Shin Yong Jae",
+          "url": "https://open.spotify.com/artist/2frFGmni9tkRgXYdXmzQvR"
+        }
+      ],
+      "duration_ms": 240840,
+      "name": "First Line",
+      "url": "https://open.spotify.com/track/2jyX7hcIU3N4DY1n9EKIab"
     },
     {
       "added_at": "2023-10-19 09:51:38",
@@ -1607,22 +1623,6 @@
       "duration_ms": 208649,
       "name": "come as you are",
       "url": "https://open.spotify.com/track/1B8rGBG1v6y6hdvJmw4z0O"
-    },
-    {
-      "added_at": "2023-10-19 09:51:38",
-      "album": {
-        "name": "Dear",
-        "url": "https://open.spotify.com/album/2UKLUzxg6b2A1vZJfuf63p"
-      },
-      "artists": [
-        {
-          "name": "Shin Yong Jae",
-          "url": "https://open.spotify.com/artist/2frFGmni9tkRgXYdXmzQvR"
-        }
-      ],
-      "duration_ms": 240840,
-      "name": "First Line",
-      "url": "https://open.spotify.com/track/2jyX7hcIU3N4DY1n9EKIab"
     },
     {
       "added_at": "2023-10-19 09:51:38",

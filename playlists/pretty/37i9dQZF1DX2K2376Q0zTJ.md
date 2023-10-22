@@ -47,7 +47,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2K2376Q0zTJ.md) - [plain]
 | 37 | [BOSS](https://open.spotify.com/track/5uTMsRYt36mEPu0MCoK68G) | [FUJIKO](https://open.spotify.com/artist/4aH2AmBBVSCRF5fQ2QmlF6) | [BOSS](https://open.spotify.com/album/1EWbajEAKAeyaimtZMpTxP) | 2:42 |
 | 38 | [Huh? \- feat\. MaRI](https://open.spotify.com/track/4y2DV7E7KlVFgvtDrVurZL) | [LANA](https://open.spotify.com/artist/4dEHIhldHT2U8CMQ6nNgDT), [MaRI](https://open.spotify.com/artist/51xnWxXCNoQq62j6v01ETi) | [19](https://open.spotify.com/album/284soVdmAHfn5XhcDqSgbm) | 2:16 |
 | 39 | [Zone 6](https://open.spotify.com/track/51WWXUmEYibqy7JGsx2zwt) | [CYBER RUI](https://open.spotify.com/artist/6kWLNH5QV9lGRhx2Kj7nA2) | [ISSUES](https://open.spotify.com/album/4pe6HW7f9ek72LUedGmFfS) | 1:58 |
-| 40 | [Chanel pt.2](https://open.spotify.com/track/4xtTbKmWGNSFaC4kDAuuKL) | [Elle Teresa](https://open.spotify.com/artist/3eP3EbQEnina3kh1UTNvbj) | [KAWAII BUBBLY LOVELY III](https://open.spotify.com/album/00NHoF1XbizRrBTny378TI) | 1:46 |
+| 40 | [Chanel Pt.2](https://open.spotify.com/track/23c24zwWGRCrqSw5sRthHl) | [Elle Teresa](https://open.spotify.com/artist/3eP3EbQEnina3kh1UTNvbj) | [Chanel Pt.2](https://open.spotify.com/album/2gOV25J2FKIWJM93zRPrN4) | 1:46 |
 | 41 | [マイナーなキス \(川谷絵音より\)](https://open.spotify.com/track/35n7uoX6bP8VJRnFLW6KPJ) | [Ai Otsuka](https://open.spotify.com/artist/0q7KOr99MYmwKxivChxpSd) | [marble](https://open.spotify.com/album/2ihGCQ3UJZ6hkf0KPJ27XO) | 3:05 |
 | 42 | [アロエ](https://open.spotify.com/track/4kZERvnlhNMNnmdfxYqZno) | [Makoto Kawamoto](https://open.spotify.com/artist/2MF3aPE7iQsg8CtlBmHfjx) | [ひかり](https://open.spotify.com/album/1gG7PKsATszLJVgbnsdE4Z) | 3:56 |
 | 43 | [こんな夜更けは](https://open.spotify.com/track/5Gd5llvb4qm3o7DjQbjUqY) | [GLIM SPANKY](https://open.spotify.com/artist/4sWyw0OrBKwmiaPOAuTuig) | [Walking On Fire](https://open.spotify.com/album/2ESJy47cfp4oIvJWKGHIBz) | 3:51 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2K2376Q0zTJ.md) - [plain]
 | 49 | [New Moon](https://open.spotify.com/track/05gCLdUSYdCMoyu40MC5V0) | [BananaLemon](https://open.spotify.com/artist/3JKU6cvr3SESsNviVlNCZc) | [BESTY](https://open.spotify.com/album/0d3SQNjZ1hynZ14FQmWS3e) | 3:03 |
 | 50 | [Structure Of Romance \(feat\. Kyoko Koizumi\)](https://open.spotify.com/track/5AVYMvMEZ0kFbuskjxTrsP) | [Night Tempo](https://open.spotify.com/artist/76B4kqqCUdVdAo9AG5LNWF), [Kyoko Koizumi](https://open.spotify.com/artist/47CIQFAst7iOrRZ16XOfP8) | [Neo Standard](https://open.spotify.com/album/6vXMlkcOS97nxv48Kl76MV) | 3:17 |
 
-Snapshot ID: `MCw5ZTM3ZDk1YzE5OTc5MzI3MTBkZmNlZDYwN2MzMTQyZTU4ZTk0OWY1`
+Snapshot ID: `MCw2NTBkZTJlMzIzOWJiN2NiNzQyMTczNzA1MWVhNWI2OGU0NzcyYWQ2`

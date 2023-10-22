@@ -1,12 +1,12 @@
 {
   "description": "",
-  "num_followers": 685770,
+  "num_followers": 685777,
   "original_name": "PARTY MODE",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5MDEwNzBlZDZjMTk3NjI1OTk2MzQ2N2VlYzJlNzFiNjI0YzlhNWM3",
+  "snapshot_id": "MCwzMzRkNjQ4MzA4MzAxNWVhOTkxNzVjMjUzZmI5ZGMxYmVjNDU5OTBi",
   "tracks": [
     {
       "added_at": "2023-10-18 13:22:07",
@@ -591,22 +591,6 @@
     {
       "added_at": "2023-10-18 13:22:07",
       "album": {
-        "name": "Talamanca",
-        "url": "https://open.spotify.com/album/1N66eMzBBNRHa3HFE6GCsW"
-      },
-      "artists": [
-        {
-          "name": "BURNS",
-          "url": "https://open.spotify.com/artist/5eKqhPrKad0J9xGAtq3rW7"
-        }
-      ],
-      "duration_ms": 186727,
-      "name": "Talamanca",
-      "url": "https://open.spotify.com/track/7dDLAQ1y0qOq3E4DhNh8FS"
-    },
-    {
-      "added_at": "2023-10-18 13:22:07",
-      "album": {
         "name": "KILL DEM",
         "url": "https://open.spotify.com/album/71iqkeqFNSiCgum1gPfeZo"
       },
@@ -619,6 +603,22 @@
       "duration_ms": 223536,
       "name": "KILL DEM",
       "url": "https://open.spotify.com/track/5CE0k1VmTXgCtaa5L288LP"
+    },
+    {
+      "added_at": "2023-10-18 13:22:07",
+      "album": {
+        "name": "Talamanca",
+        "url": "https://open.spotify.com/album/1N66eMzBBNRHa3HFE6GCsW"
+      },
+      "artists": [
+        {
+          "name": "BURNS",
+          "url": "https://open.spotify.com/artist/5eKqhPrKad0J9xGAtq3rW7"
+        }
+      ],
+      "duration_ms": 186727,
+      "name": "Talamanca",
+      "url": "https://open.spotify.com/track/7dDLAQ1y0qOq3E4DhNh8FS"
     },
     {
       "added_at": "2023-10-18 13:22:07",
@@ -639,26 +639,6 @@
       "duration_ms": 160000,
       "name": "Need You Now",
       "url": "https://open.spotify.com/track/7K9ZxHYSwVJ1BTC044EUNw"
-    },
-    {
-      "added_at": "2023-10-18 13:22:07",
-      "album": {
-        "name": "New Bottega",
-        "url": "https://open.spotify.com/album/6dlPgHkvVUMkTBsovGFAxH"
-      },
-      "artists": [
-        {
-          "name": "Torren Foot",
-          "url": "https://open.spotify.com/artist/7lQOxDl96wmNoqGoW4kgv4"
-        },
-        {
-          "name": "Azealia Banks",
-          "url": "https://open.spotify.com/artist/7gRhy3MIPHQo5CXYfWaw9I"
-        }
-      ],
-      "duration_ms": 188915,
-      "name": "New Bottega",
-      "url": "https://open.spotify.com/track/05IOuexttkZG6eQLFi3v40"
     },
     {
       "added_at": "2023-10-18 13:22:07",
@@ -687,6 +667,26 @@
       "duration_ms": 160000,
       "name": "Essex Girls (feat. Jaykae, Silky & Janice Robinson)",
       "url": "https://open.spotify.com/track/3PIFmXwdhCKITMmWQqXhef"
+    },
+    {
+      "added_at": "2023-10-18 13:22:07",
+      "album": {
+        "name": "New Bottega",
+        "url": "https://open.spotify.com/album/6dlPgHkvVUMkTBsovGFAxH"
+      },
+      "artists": [
+        {
+          "name": "Torren Foot",
+          "url": "https://open.spotify.com/artist/7lQOxDl96wmNoqGoW4kgv4"
+        },
+        {
+          "name": "Azealia Banks",
+          "url": "https://open.spotify.com/artist/7gRhy3MIPHQo5CXYfWaw9I"
+        }
+      ],
+      "duration_ms": 188915,
+      "name": "New Bottega",
+      "url": "https://open.spotify.com/track/05IOuexttkZG6eQLFi3v40"
     },
     {
       "added_at": "2023-10-18 13:22:07",
@@ -1447,22 +1447,22 @@
     {
       "added_at": "2023-10-18 13:22:07",
       "album": {
-        "name": "Who Let The Dogs Out (feat. EVALINA)",
-        "url": "https://open.spotify.com/album/6HuFQMd2x57nMXOImxw9Tm"
+        "name": "Foolish",
+        "url": "https://open.spotify.com/album/55kAr1O53DgjDiEdM0E8fc"
       },
       "artists": [
         {
-          "name": "ABOUT THAT",
-          "url": "https://open.spotify.com/artist/6HMAEvj17gDdNB5EotNEOe"
+          "name": "Jack Fowler",
+          "url": "https://open.spotify.com/artist/5JpqaGiRxnYKrmys8Oh8oO"
         },
         {
-          "name": "EVALINA",
-          "url": "https://open.spotify.com/artist/2EOdORJgTiT4w2eLQk1IWE"
+          "name": "Tom Zanetti",
+          "url": "https://open.spotify.com/artist/73Msd8rknjBghcGQiZ1mgh"
         }
       ],
-      "duration_ms": 136120,
-      "name": "Who Let The Dogs Out (feat. EVALINA)",
-      "url": "https://open.spotify.com/track/5eF4cNJ30kdTXnlmUfN8dw"
+      "duration_ms": 216000,
+      "name": "Foolish (feat. Tom Zanetti)",
+      "url": "https://open.spotify.com/track/2CXSRpNHd9zVSWKSFp1wQ3"
     },
     {
       "added_at": "2023-10-18 13:22:07",
@@ -1483,22 +1483,22 @@
     {
       "added_at": "2023-10-18 13:22:07",
       "album": {
-        "name": "Foolish",
-        "url": "https://open.spotify.com/album/55kAr1O53DgjDiEdM0E8fc"
+        "name": "Who Let The Dogs Out (feat. EVALINA)",
+        "url": "https://open.spotify.com/album/6HuFQMd2x57nMXOImxw9Tm"
       },
       "artists": [
         {
-          "name": "Jack Fowler",
-          "url": "https://open.spotify.com/artist/5JpqaGiRxnYKrmys8Oh8oO"
+          "name": "ABOUT THAT",
+          "url": "https://open.spotify.com/artist/6HMAEvj17gDdNB5EotNEOe"
         },
         {
-          "name": "Tom Zanetti",
-          "url": "https://open.spotify.com/artist/73Msd8rknjBghcGQiZ1mgh"
+          "name": "EVALINA",
+          "url": "https://open.spotify.com/artist/2EOdORJgTiT4w2eLQk1IWE"
         }
       ],
-      "duration_ms": 216000,
-      "name": "Foolish (feat. Tom Zanetti)",
-      "url": "https://open.spotify.com/track/2CXSRpNHd9zVSWKSFp1wQ3"
+      "duration_ms": 136120,
+      "name": "Who Let The Dogs Out (feat. EVALINA)",
+      "url": "https://open.spotify.com/track/5eF4cNJ30kdTXnlmUfN8dw"
     },
     {
       "added_at": "2023-10-18 13:22:07",
@@ -1795,22 +1795,6 @@
     {
       "added_at": "2023-10-18 13:22:07",
       "album": {
-        "name": "Somebody To Love",
-        "url": "https://open.spotify.com/album/6mWlw6oGjrIBh9ng0L9bim"
-      },
-      "artists": [
-        {
-          "name": "Ben Kim",
-          "url": "https://open.spotify.com/artist/0quOpHBDwcOmM5B9V3TPpL"
-        }
-      ],
-      "duration_ms": 159375,
-      "name": "Somebody To Love",
-      "url": "https://open.spotify.com/track/6hzWWZjqHcoI2KIWpldo9v"
-    },
-    {
-      "added_at": "2023-10-18 13:22:07",
-      "album": {
         "name": "Ain't Nobody (feat. LaShun Pace)",
         "url": "https://open.spotify.com/album/2EB62zJMobWATatn8tWCO4"
       },
@@ -1831,6 +1815,22 @@
     {
       "added_at": "2023-10-18 13:22:07",
       "album": {
+        "name": "Somebody To Love",
+        "url": "https://open.spotify.com/album/6mWlw6oGjrIBh9ng0L9bim"
+      },
+      "artists": [
+        {
+          "name": "Ben Kim",
+          "url": "https://open.spotify.com/artist/0quOpHBDwcOmM5B9V3TPpL"
+        }
+      ],
+      "duration_ms": 159375,
+      "name": "Somebody To Love",
+      "url": "https://open.spotify.com/track/6hzWWZjqHcoI2KIWpldo9v"
+    },
+    {
+      "added_at": "2023-10-18 13:22:07",
+      "album": {
         "name": "Goodbye",
         "url": "https://open.spotify.com/album/27y8dcpjACvddY2gnoi1J3"
       },
@@ -1847,6 +1847,22 @@
       "duration_ms": 174649,
       "name": "Goodbye",
       "url": "https://open.spotify.com/track/14agcnE3UapOnnxYufVMZZ"
+    },
+    {
+      "added_at": "2023-10-18 13:22:07",
+      "album": {
+        "name": "Every Little Time",
+        "url": "https://open.spotify.com/album/1GT4rl83DhiEsl6yvUwOHC"
+      },
+      "artists": [
+        {
+          "name": "Matt Guy",
+          "url": "https://open.spotify.com/artist/09eFtzPTf7Rbkb1z7n7S5B"
+        }
+      ],
+      "duration_ms": 185000,
+      "name": "Every Little Time",
+      "url": "https://open.spotify.com/track/5ThtmhhQkaGSbVq9CSK6Qn"
     },
     {
       "added_at": "2023-10-18 13:22:07",
@@ -1923,22 +1939,6 @@
       "duration_ms": 168585,
       "name": "Day By Day",
       "url": "https://open.spotify.com/track/3mMWre0KnZ4aPuhZF62KmV"
-    },
-    {
-      "added_at": "2023-10-18 13:22:07",
-      "album": {
-        "name": "Every Little Time",
-        "url": "https://open.spotify.com/album/1GT4rl83DhiEsl6yvUwOHC"
-      },
-      "artists": [
-        {
-          "name": "Matt Guy",
-          "url": "https://open.spotify.com/artist/09eFtzPTf7Rbkb1z7n7S5B"
-        }
-      ],
-      "duration_ms": 185000,
-      "name": "Every Little Time",
-      "url": "https://open.spotify.com/track/5ThtmhhQkaGSbVq9CSK6Qn"
     }
   ],
   "unique_name": "PARTY MODE",

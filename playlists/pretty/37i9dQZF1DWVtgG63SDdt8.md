@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 
 > The best new tracks of all genres of Christian, Gospel, Worship & Inspirational music\.  Cover: <a href="spotify:artist:57zYbDb1zNVoTYNUGmv45d">Ben Fuller</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 312,302 likes - 98 songs - 6 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 312,425 likes - 98 songs - 6 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,12 +30,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 | 20 | [Not To Us \(One Name Forever Shall Be Praised\)](https://open.spotify.com/track/64Zd9wCsCHtYSG3tk8wHse) | [Matt Boswell](https://open.spotify.com/artist/2cRQc5dlsvrO2lVLCgdugm), [Matt Papa](https://open.spotify.com/artist/7C9hIwTUxeWIJzxK6rGH0d), [Matt Redman](https://open.spotify.com/artist/0bz9hDpUbAw5JElgEiuIYZ) | [Not To Us \(One Name Forever Shall Be Praised\)](https://open.spotify.com/album/0MrANWWJ7Mppk13hFkTXkB) | 4:11 |
 | 21 | [Take Me With You](https://open.spotify.com/track/6y0WaiasTJr5xgMlyL2FET) | [VOUS Worship](https://open.spotify.com/artist/3LoDhoZo5Mkue9sAuj1KHb) | [Take Me With You](https://open.spotify.com/album/6uTH2N1yprUDFbnk2CJEZC) | 6:17 |
 | 22 | [Pure / Nothing Else / We are Hungry \- Live Medley](https://open.spotify.com/track/60chiU09w4e41xc2oTegDN) | [Shaylee Simeone](https://open.spotify.com/artist/0gp2s7j9MdVVkcu7UIfpHQ) | [Pure / Nothing Else / We are Hungry \(Live Medley\)](https://open.spotify.com/album/1hRhnrtt2MjIjleoIJ7PQp) | 7:12 |
-| 23 | [I Just Want You](https://open.spotify.com/track/2XQjlUUB1hfT5My8ECkSMC) | [FOUNT](https://open.spotify.com/artist/1XB2yEIY0NycZEX3UCbyIR) | [I Just Want You](https://open.spotify.com/album/4oOA3DcgWUhusgPEh57VlW) | 3:30 |
+| 23 | [I Just Want You](https://open.spotify.com/track/2XQjlUUB1hfT5My8ECkSMC) | [FOUNT](https://open.spotify.com/artist/1XB2yEIY0NycZEX3UCbyIR), [Hannah Rae Faulk](https://open.spotify.com/artist/3nZQePnt69J8BTVliGJMKr) | [I Just Want You](https://open.spotify.com/album/4oOA3DcgWUhusgPEh57VlW) | 3:30 |
 | 24 | [He Touched Me](https://open.spotify.com/track/15DByTjV92H1K05G0NEMQ8) | [Vestal Goodman](https://open.spotify.com/artist/6CHoGb3HjH5ZHA3K6l6C6D), [Bill & Gloria Gaither](https://open.spotify.com/artist/11sAWrpIkFUPQlXoQqpeBV), [Bill Gaither](https://open.spotify.com/artist/4vZfjIUpvHeHpq47Y5NobO), [Gloria Gaither](https://open.spotify.com/artist/1NUEskG7Eh72xoCMvtvn5C) | [Vestal & Friends](https://open.spotify.com/album/0cOMqkINn5mA2IEp3Osjj6) | 3:36 |
 | 25 | [I Speak Jesus \- Live](https://open.spotify.com/track/3TztrM5RRPy3CL5JuY9CR4) | [The Brooklyn Tabernacle Choir](https://open.spotify.com/artist/4eDpQV93UILljVxohKoLUs) | [I Speak Jesus \(Live\)](https://open.spotify.com/album/6h43zVEcJqSTxefPh4QdmR) | 7:00 |
 | 26 | [You Carried Me \- Jekalyn's Version](https://open.spotify.com/track/2q6utlOBBdiOMZ4TcQ1CRj) | [Jekalyn Carr](https://open.spotify.com/artist/5ynRYAGjyPDE8unsFqi6MH) | [JEKALYN](https://open.spotify.com/album/4juJvUDtZiY996RJKlIxrK) | 5:03 |
 | 27 | [God's Got Me](https://open.spotify.com/track/1wdPmjjm7MMWa50LNEPXNO) | [Anthony Brown & group therAPy](https://open.spotify.com/artist/4sgW8IRub0jAU29ecct87w) | [God's Got Me](https://open.spotify.com/album/2Hiq7pOHFd5lr2Yzrrw817) | 5:04 |
-| 28 | [The Tussel \- Live](https://open.spotify.com/track/3xnft4na5q0UIeEMfTv4If) | [Bishop S.Y\. Younger](https://open.spotify.com/artist/0EBIOTYsxmmKe5SdiPlpMV), [The Sounds of the Ramp](https://open.spotify.com/artist/0RO9dLdwfPHISijRQqTLpw) | [Rampology \(Deluxe Version\) \[Live\]](https://open.spotify.com/album/7kpc8puk6QDF7rhoFSchaa) | 3:40 |
+| 28 | [The Tussle \- Live](https://open.spotify.com/track/3xnft4na5q0UIeEMfTv4If) | [Bishop S.Y\. Younger](https://open.spotify.com/artist/0EBIOTYsxmmKe5SdiPlpMV), [The Sounds of the Ramp](https://open.spotify.com/artist/0RO9dLdwfPHISijRQqTLpw) | [Rampology \(Deluxe Version\) \[Live\]](https://open.spotify.com/album/7kpc8puk6QDF7rhoFSchaa) | 3:40 |
 | 29 | [Great Things](https://open.spotify.com/track/5GpxaaiqVU6bOXYewpBJPU) | [L\. Spenser Smith](https://open.spotify.com/artist/4On8kM9RuXyowfoXr9qPYr) | [Great Things](https://open.spotify.com/album/4aU83xGo2SfLApShTSXmfx) | 4:25 |
 | 30 | [Greatest](https://open.spotify.com/track/4RGma6BvBMPUlES6oAVubZ) | [CalledOut Music](https://open.spotify.com/artist/3VY7IlU2547DIC1ca88lRH) | [RADICAL](https://open.spotify.com/album/1Wo57u7paNfHF6mFD0W2wE) | 3:08 |
 | 31 | [Cassette](https://open.spotify.com/track/2h0Pp0TU3rh2Ytodzesxw1) | [Nolly](https://open.spotify.com/artist/1qDxmgIV0aTR4QGRL4zXWM), [Rehmahz](https://open.spotify.com/artist/2n4Cjxgsst568zKdsmsEnY) | [Cassette](https://open.spotify.com/album/0hqAKFFH9keBfpgjDJfqxK) | 2:21 |
@@ -107,4 +107,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 | 97 | [Flicker](https://open.spotify.com/track/3VUpcKoeWMDn4SjgE0RiWA) | [Theocracy](https://open.spotify.com/artist/627g4H0WzOhvuRRsbdBR6T) | [Mosaic](https://open.spotify.com/album/5EL0L9rYE8pc1ZHpK0Vsem) | 3:58 |
 | 98 | [Fire Fall \- Paris Jones Remix](https://open.spotify.com/track/4qeMpbZvw0szCC4doevP9d) | [Seth & Nirva](https://open.spotify.com/artist/4Om5bNcFn2zgwJPWXbTDJL), [Paris Jones](https://open.spotify.com/artist/1buXx0RSkvGYCCiAl03JIp) | [Fire Fall \(Paris Jones Remix\)](https://open.spotify.com/album/71Leq69TgDsIy5mlGlbBrh) | 4:10 |
 
-Snapshot ID: `MCw1YzRhYWFmOTYzMzAyYjNkNzI5MjNlZGU3ZWE2MzM3ZGI4NGJkYjRh`
+Snapshot ID: `MCw2ZTFmNzVhODhlMzJmYzJmNGY2ZmNjNDIzYTJhMzA5YTFlZWE3Njhm`

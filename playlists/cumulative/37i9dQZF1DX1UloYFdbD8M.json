@@ -441,6 +441,24 @@
     },
     {
       "album": {
+        "name": "Dhoore",
+        "url": "https://open.spotify.com/album/6VNO3pELBmVoivHKhoV9I3"
+      },
+      "artists": [
+        {
+          "name": "Matadoria",
+          "url": "https://open.spotify.com/artist/16HrBYlg7ETaVKRZ8qVc9B"
+        }
+      ],
+      "date_added": "2023-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210206,
+      "name": "Dhoore",
+      "url": "https://open.spotify.com/track/6den5JW5dn0hLrhnD9UkQS"
+    },
+    {
+      "album": {
         "name": "En Sadhai",
         "url": "https://open.spotify.com/album/42S7j3CTmtlgfe1vYATMF1"
       },
@@ -1456,7 +1474,7 @@
       ],
       "date_added": "2023-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-22",
       "duration_ms": 304733,
       "name": "Nada Nada",
       "url": "https://open.spotify.com/track/7biM1l4aQn6P2XpDBLrE4t"

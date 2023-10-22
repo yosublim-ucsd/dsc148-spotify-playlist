@@ -1,12 +1,12 @@
 {
   "description": "<a href=\"spotify:genre:techno\">techno</a> starter pack",
-  "num_followers": 25899,
+  "num_followers": 26266,
   "original_name": "techno party",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0MmRlMDVlOTliNWM5ZTRjMWQzODMzODZmNjVmZDI1ZTg1MDg0NDhm",
+  "snapshot_id": "MCw5NTU4OWFiODZiMzMxODlhMTFlOTc2NGU5NDEzODM1OTZkYzlhNWUy",
   "tracks": [
     {
       "added_at": "2023-10-20 10:37:03",
@@ -583,6 +583,26 @@
     {
       "added_at": "2023-10-20 10:37:03",
       "album": {
+        "name": "This Is The Life",
+        "url": "https://open.spotify.com/album/5hFY0oK1Ow8h9xIAtliOvp"
+      },
+      "artists": [
+        {
+          "name": "LIZOT",
+          "url": "https://open.spotify.com/artist/12A83CWwFiyXy90ScLWPIe"
+        },
+        {
+          "name": "KYANU",
+          "url": "https://open.spotify.com/artist/3VuZZ1n0XGacnz96Ys8mrZ"
+        }
+      ],
+      "duration_ms": 131388,
+      "name": "This Is The Life",
+      "url": "https://open.spotify.com/track/3Me5bYXeDXqjBVgug53Ula"
+    },
+    {
+      "added_at": "2023-10-20 10:37:03",
+      "album": {
         "name": "Feel It",
         "url": "https://open.spotify.com/album/1jexRZSS5u38DkCdzcHvTz"
       },
@@ -595,30 +615,6 @@
       "duration_ms": 258573,
       "name": "Feel It",
       "url": "https://open.spotify.com/track/6iKLdREEci9SyzXl9JNUVk"
-    },
-    {
-      "added_at": "2023-10-20 10:37:03",
-      "album": {
-        "name": "Gam Gam (2023)",
-        "url": "https://open.spotify.com/album/5WEryFgo8eJNlHd6WGDh6r"
-      },
-      "artists": [
-        {
-          "name": "Deborah de Luca",
-          "url": "https://open.spotify.com/artist/144HzhpLjcR9k37w5Ico9B"
-        },
-        {
-          "name": "Mauro Pilato",
-          "url": "https://open.spotify.com/artist/4I1iEv9ygxuMPXqbucD7MP"
-        },
-        {
-          "name": "Max Monti",
-          "url": "https://open.spotify.com/artist/3H3jO2j8V6ncoQsdoLU9Sr"
-        }
-      ],
-      "duration_ms": 248888,
-      "name": "Gam Gam - 2023",
-      "url": "https://open.spotify.com/track/1mWbB1bGjvdZR3vFtaT2gL"
     },
     {
       "added_at": "2023-10-20 10:37:03",
@@ -683,22 +679,26 @@
     {
       "added_at": "2023-10-20 10:37:03",
       "album": {
-        "name": "This Is The Life",
-        "url": "https://open.spotify.com/album/5hFY0oK1Ow8h9xIAtliOvp"
+        "name": "Gam Gam (2023)",
+        "url": "https://open.spotify.com/album/5WEryFgo8eJNlHd6WGDh6r"
       },
       "artists": [
         {
-          "name": "LIZOT",
-          "url": "https://open.spotify.com/artist/12A83CWwFiyXy90ScLWPIe"
+          "name": "Deborah de Luca",
+          "url": "https://open.spotify.com/artist/144HzhpLjcR9k37w5Ico9B"
         },
         {
-          "name": "KYANU",
-          "url": "https://open.spotify.com/artist/3VuZZ1n0XGacnz96Ys8mrZ"
+          "name": "Mauro Pilato",
+          "url": "https://open.spotify.com/artist/4I1iEv9ygxuMPXqbucD7MP"
+        },
+        {
+          "name": "Max Monti",
+          "url": "https://open.spotify.com/artist/3H3jO2j8V6ncoQsdoLU9Sr"
         }
       ],
-      "duration_ms": 131388,
-      "name": "This Is The Life",
-      "url": "https://open.spotify.com/track/3Me5bYXeDXqjBVgug53Ula"
+      "duration_ms": 248888,
+      "name": "Gam Gam - 2023",
+      "url": "https://open.spotify.com/track/1mWbB1bGjvdZR3vFtaT2gL"
     },
     {
       "added_at": "2023-10-20 10:37:03",
@@ -967,18 +967,18 @@
     {
       "added_at": "2023-10-20 10:37:03",
       "album": {
-        "name": "The Unexpected",
-        "url": "https://open.spotify.com/album/2sQexrsGSYkPFOf2Q9em0z"
+        "name": "Accepted Concept",
+        "url": "https://open.spotify.com/album/5026e5pinYOgls5mjv1duU"
       },
       "artists": [
         {
-          "name": "Mha Iri",
-          "url": "https://open.spotify.com/artist/5VMXbzLVkLd4Cq4rBzx4T3"
+          "name": "Will Sparks",
+          "url": "https://open.spotify.com/artist/1u7OVFmWah4wQhOPIbUb8U"
         }
       ],
-      "duration_ms": 240000,
-      "name": "The Unexpected",
-      "url": "https://open.spotify.com/track/4WSEpqcROxEExCChwHqoMf"
+      "duration_ms": 171006,
+      "name": "The Chant",
+      "url": "https://open.spotify.com/track/16NC74ajzZCjs4RbA1Zxwn"
     }
   ],
   "unique_name": "techno party",

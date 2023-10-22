@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX15iTqq2X8NE.md) - [plain]
 
 > A journey in the modern & old Sudanese sounds.
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,216 likes - 50 songs - 2 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,224 likes - 50 songs - 2 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,15 +48,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX15iTqq2X8NE.md) - [plain]
 | 38 | [Ganay Albreedo](https://open.spotify.com/track/0S45re7HsNZYqlktnE9niZ) | [Taha Suliman](https://open.spotify.com/artist/0f8AQFo3xYsmSvDIrLG94a) | [Ganay Albreedo](https://open.spotify.com/album/1dntlbkIw0jZGk3HIDxu2q) | 5:35 |
 | 39 | [أبوي الشيخ‎ \(feat\. Ali Naseraldeen\)](https://open.spotify.com/track/2LaqDKPXxtJOtIiN56G6cx) | [Esaam Satti](https://open.spotify.com/artist/4G0Y7SHFiexAC2U8UU5EVy), [Ali Naseraldeen](https://open.spotify.com/artist/7f57uC78jbchvWZjdQf96c) | [أبوي الشيخ \(feat\. Ali Naseraldeen\)‎](https://open.spotify.com/album/0jv9jFilvRshD4DZ61UxLr) | 3:02 |
 | 40 | [Apocalypto](https://open.spotify.com/track/3RTdo0zHATe4q1FI6iPTng) | [TooDope](https://open.spotify.com/artist/7D0M64Ii5Iv83dlQ50PMnd) | [Apocalypto](https://open.spotify.com/album/7c84xKcwZ06RQgsd3HoOl2) | 2:57 |
-| 41 | [Marsa](https://open.spotify.com/track/59LnpUJtFTYVYo1JBN8vsO) | [Walgz](https://open.spotify.com/artist/50gLwM6cfifBxgrML3Q0IT) | [Marsa](https://open.spotify.com/album/4dEXa6zSQParkOq7js55Jt) | 2:56 |
-| 42 | [3yan T3ban \- Oddisee Remix](https://open.spotify.com/track/7EeDB0g4YmYP3y6JCRYe2p) | [Alsarah & The Nubatones](https://open.spotify.com/artist/7xGVP8NTuOKRVkNMl2fv7n), [Oddisee](https://open.spotify.com/artist/72tRiBHei5G9M8it4h4sfC) | [Manara Remixed](https://open.spotify.com/album/2eERLrJoIOM32RpXr4fNCo) | 2:41 |
-| 43 | [III IV V](https://open.spotify.com/track/4M9KDFkhwSMVrIbHWtMu2n) | [Rotation](https://open.spotify.com/artist/3juZpBl6TvM4KdFKFRj4So) | [III IV V](https://open.spotify.com/album/2m3crqNTdjgWR46h9FTdDY) | 3:12 |
+| 41 | [3yan T3ban \- Oddisee Remix](https://open.spotify.com/track/7EeDB0g4YmYP3y6JCRYe2p) | [Alsarah & The Nubatones](https://open.spotify.com/artist/7xGVP8NTuOKRVkNMl2fv7n), [Oddisee](https://open.spotify.com/artist/72tRiBHei5G9M8it4h4sfC) | [Manara Remixed](https://open.spotify.com/album/2eERLrJoIOM32RpXr4fNCo) | 2:41 |
+| 42 | [III IV V](https://open.spotify.com/track/4M9KDFkhwSMVrIbHWtMu2n) | [Rotation](https://open.spotify.com/artist/3juZpBl6TvM4KdFKFRj4So) | [III IV V](https://open.spotify.com/album/2m3crqNTdjgWR46h9FTdDY) | 3:12 |
+| 43 | [Marsa](https://open.spotify.com/track/59LnpUJtFTYVYo1JBN8vsO) | [Walgz](https://open.spotify.com/artist/50gLwM6cfifBxgrML3Q0IT) | [Marsa](https://open.spotify.com/album/4dEXa6zSQParkOq7js55Jt) | 2:56 |
 | 44 | [Silsila](https://open.spotify.com/track/5KTy5Suuea5uBUID1pwKU5) | [ElKhaleefa](https://open.spotify.com/artist/3tREMnMFWzcm8nzHIPXnBG) | [Silsila](https://open.spotify.com/album/1P1feiWIo2Mtl6HGDS0Gqz) | 3:45 |
-| 45 | [Game Over](https://open.spotify.com/track/15y6KCjCHdmOsgAdVgXEk9) | [Tageel](https://open.spotify.com/artist/4LcBuE8S15eBSgSqKApro5) | [Game Over](https://open.spotify.com/album/6HOywAUSITHmBdCSOIFjga) | 3:26 |
-| 46 | [Modarab](https://open.spotify.com/track/4FmRfOUWREoooYkcT9DFW6) | [Montiyago](https://open.spotify.com/artist/46MsyReAQf8kF6M4tD38Bk) | [Modarab](https://open.spotify.com/album/3dzdj41YMNwyT4BPoCpujO) | 2:11 |
+| 45 | [Modarab](https://open.spotify.com/track/4FmRfOUWREoooYkcT9DFW6) | [Montiyago](https://open.spotify.com/artist/46MsyReAQf8kF6M4tD38Bk) | [Modarab](https://open.spotify.com/album/3dzdj41YMNwyT4BPoCpujO) | 2:11 |
+| 46 | [Game Over](https://open.spotify.com/track/15y6KCjCHdmOsgAdVgXEk9) | [Tageel](https://open.spotify.com/artist/4LcBuE8S15eBSgSqKApro5) | [Game Over](https://open.spotify.com/album/6HOywAUSITHmBdCSOIFjga) | 3:26 |
 | 47 | [Fan3](https://open.spotify.com/track/0e9wgOCa3s2oqM03jNc2qx) | [Fodi](https://open.spotify.com/artist/4fhdYn7sQME3sJkPuCpYZE) | [Fan3](https://open.spotify.com/album/0RTNur3c132jazOHMua1wU) | 2:19 |
-| 48 | [Picasso \(Outro\)](https://open.spotify.com/track/09foknzEQOePhFgW1wvxeb) | [O'd](https://open.spotify.com/artist/0LwmaxKGW5M2qF7Mas5ejk) | [Picasso \(Outro\)](https://open.spotify.com/album/5FHpioMLjDuoJMvCg8GWQw) | 4:00 |
-| 49 | [Ejaza](https://open.spotify.com/track/5gZV4PSCLqcDVPklLfqmHk) | [Rotation](https://open.spotify.com/artist/3juZpBl6TvM4KdFKFRj4So), [TooDope](https://open.spotify.com/artist/7D0M64Ii5Iv83dlQ50PMnd) | [Tnt: Injaz](https://open.spotify.com/album/08nO4dVa88kyXFzL89vMVf) | 3:40 |
-| 50 | [Blue \- COLORS Sudan](https://open.spotify.com/track/1OdkisCZUpGjqRIEOCVF5X) | [Flippter](https://open.spotify.com/artist/3E60sH2l7t9f4bIfCZo5DX) | [Blue \- COLORS Sudan](https://open.spotify.com/album/654DDiRWyseI6jGG3Wq7k1) | 2:46 |
+| 48 | [Blue \- COLORS Sudan](https://open.spotify.com/track/1OdkisCZUpGjqRIEOCVF5X) | [Flippter](https://open.spotify.com/artist/3E60sH2l7t9f4bIfCZo5DX) | [Blue \- COLORS Sudan](https://open.spotify.com/album/654DDiRWyseI6jGG3Wq7k1) | 2:46 |
+| 49 | [Red \(feat\. MaMan\)](https://open.spotify.com/track/2PJHJevFPEFWn0CwMv4yZF) | [Walgz](https://open.spotify.com/artist/50gLwM6cfifBxgrML3Q0IT), [MaMan](https://open.spotify.com/artist/4OGMVOTexmW4hEV4bZMX30) | [Hollanda](https://open.spotify.com/album/3kgNHqvzzItDSbhn6tEAVl) | 3:14 |
+| 50 | [Picasso \(Outro\)](https://open.spotify.com/track/09foknzEQOePhFgW1wvxeb) | [O'd](https://open.spotify.com/artist/0LwmaxKGW5M2qF7Mas5ejk) | [Picasso \(Outro\)](https://open.spotify.com/album/5FHpioMLjDuoJMvCg8GWQw) | 4:00 |
 
-Snapshot ID: `MCwwYmUzNWYxYzllMmM0YmE3MGUyMmM5ZmNkNDFjYTk4ZjE0NWEwOTUz`
+Snapshot ID: `MCwxODM2MGJlNDM3ZWMzNmJjYzk1Nzg4YTkwNDBiNDljNzRjNjQyMmUw`

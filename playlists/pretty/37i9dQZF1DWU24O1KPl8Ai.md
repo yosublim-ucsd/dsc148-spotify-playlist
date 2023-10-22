@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU24O1KPl8Ai.md) - [plain]
 
 > Celebrate APIHM with music from Asian and Pacific Islander artists for the whole family\. Cover: Falu
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,774 likes - 36 songs - 1 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,776 likes - 36 songs - 1 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,8 +16,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU24O1KPl8Ai.md) - [plain]
 | 6 | [Lead the Way](https://open.spotify.com/track/2Vqbniz8jYoZPvecpdVPq9) | [Jhené Aiko](https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk) | [Raya and the Last Dragon \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3JqX5g07TbeiF0NEK7eYl0) | 3:43 |
 | 7 | [A Whole New World \(End Title\)](https://open.spotify.com/track/4U9CF27YlwHRtUGKUzhUTT) | [ZAYN](https://open.spotify.com/artist/5ZsFI1h6hIdQRw2ti0hz81), [Zhavia](https://open.spotify.com/artist/1CO6e7WRJvSFenmQO8n64C) | [Aladdin \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4WGcPCflN9FNccSu7tE9iS) | 4:02 |
 | 8 | [Reflection \- From "Mulan" / Soundtrack Version](https://open.spotify.com/track/4ASPjY65S7crmZBHML0L8d) | [Lea Salonga](https://open.spotify.com/artist/1GlMjIezcLwV3OFlX0uXOv), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [Disney's Greatest Volume 1](https://open.spotify.com/album/4xNCqk5KdkOQvdbaepGjTY) | 2:26 |
-| 9 | [パプリカ](https://open.spotify.com/track/60t5lev16eczZXurTNf56k) | [Foorin](https://open.spotify.com/artist/3h95Ve9m3Q07d8VG6V9hEU) | [パプリカ](https://open.spotify.com/album/2cBaztI22TPEULZE6nfYUm) | 3:28 |
-| 10 | [Ultraluminary \(From the Netflix Film "Over the Moon"\)](https://open.spotify.com/track/5Yx7Cl7QZx80fx3hvESVB2) | [Phillipa Soo](https://open.spotify.com/artist/2OEGI2wrCVmvavKEOMlccy) | [Over the Moon \(Music from the Netflix Film\)](https://open.spotify.com/album/3Bx1Oe2Umw0n4tNbIpO1aD) | 3:20 |
+| 9 | [Ultraluminary \(From the Netflix Film "Over the Moon"\)](https://open.spotify.com/track/5Yx7Cl7QZx80fx3hvESVB2) | [Phillipa Soo](https://open.spotify.com/artist/2OEGI2wrCVmvavKEOMlccy) | [Over the Moon \(Music from the Netflix Film\)](https://open.spotify.com/album/3Bx1Oe2Umw0n4tNbIpO1aD) | 3:20 |
+| 10 | [パプリカ](https://open.spotify.com/track/60t5lev16eczZXurTNf56k) | [Foorin](https://open.spotify.com/artist/3h95Ve9m3Q07d8VG6V9hEU) | [パプリカ](https://open.spotify.com/album/2cBaztI22TPEULZE6nfYUm) | 3:28 |
 | 11 | [The Rose Song \- From "High School Musical: The Musical: The Series \(Season 2\)"](https://open.spotify.com/track/3qxzozdGFaBxQ0X4HkrMr0) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [The Rose Song \[From "High School Musical: The Musical: The Series \(Season 2\)"\]](https://open.spotify.com/album/6TeOuy8VtjfYy52ntsnu1m) | 2:54 |
 | 12 | [Terukir Di Bintang](https://open.spotify.com/track/0tiFAoHT0dBr3kk7owGL7q) | [Yuna](https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1) | [Terukir Di Bintang](https://open.spotify.com/album/7aB1a1ifJVpp2bfbTQkCLa) | 3:02 |
 | 13 | [Oh!](https://open.spotify.com/track/1Wn0A9wVEQXj2JVbdsclpi) | [The Linda Lindas](https://open.spotify.com/artist/13dTrWNNrnZ3AkgNyQNKP5) | [Growing Up](https://open.spotify.com/album/6BkAzZNlSz80Iz3oTlKHet) | 2:35 |
@@ -45,4 +45,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU24O1KPl8Ai.md) - [plain]
 | 35 | [Small but Mighty](https://open.spotify.com/track/2tSaIsNOHPULivFVlHejoG) | [Ginalina](https://open.spotify.com/artist/06QOnJaT57H3lQcrx3B1kP) | [Small but Mighty](https://open.spotify.com/album/02oEsC2mLDX2DcK13w23hI) | 2:54 |
 | 36 | [Old Macdonald Had a Farm \(Fijian Animals\)](https://open.spotify.com/track/3W81h9LL3CJ5aLgPNtpIVw) | [Loopy Tunes Preschool Music](https://open.spotify.com/artist/0nyv9lZZ2dBi8WzcRfyH6y), [Whānau Āwhina Plunket\-Pasifika Beatz](https://open.spotify.com/artist/69gi80HKXW67UHDsNLBTWT) | [Pasifika Beatz \- Fiji](https://open.spotify.com/album/48yJ52hSvTKfFqPRSgAa8i) | 1:47 |
 
-Snapshot ID: `MCxjNTM3MmQwNmI4ZDUwODQ0OTFhODE4NzJiNGE1MTg4YWE0YWFmZDg1`
+Snapshot ID: `MCwxMzI2YjAwMWMyMDI5ZDMzYWEyOWY4NjVjNzA0YTViMmYzZjUyYzZh`

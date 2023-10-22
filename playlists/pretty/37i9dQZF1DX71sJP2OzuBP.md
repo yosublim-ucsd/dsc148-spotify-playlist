@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX71sJP2OzuBP.md) - [plain]
 
 > 上班時間很長，就讓最新最動聽的國語歌陪你，舒服輕聽一起渡過吧！
 
-[Spotify](https://open.spotify.com/user/spotify) - 66,463 likes - 101 songs - 6 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 66,465 likes - 101 songs - 6 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -110,4 +110,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX71sJP2OzuBP.md) - [plain]
 | 100 | [唯一](https://open.spotify.com/track/6ENf77i5DmXDimXle5Ux3C) | [G.E.M.](https://open.spotify.com/artist/7aRC4L63dBn3CiLDuWaLSI) | [唯一](https://open.spotify.com/album/4o9Q4RFqR6deYGWOgUQ3nC) | 4:13 |
 | 101 | [是我活該](https://open.spotify.com/track/0fQqRo5jxW4J3Sesf9FC8Z) | [Ren Ran](https://open.spotify.com/artist/6f4srX54JFrLNK4aTJe2Sc) | [是我活該](https://open.spotify.com/album/3YGgn40r1TTw73F2829mvy) | 3:36 |
 
-Snapshot ID: `MCw0ZmQyNDEzNDI0MDFjN2ZhMTFiOTBmYWZkODczMzhlMzM5M2U2NjFl`
+Snapshot ID: `MCxjMDkwODJiOTQ3YjIyODIwNjZkM2ZhMWJlNWNmMGZhM2I1NzQzODgz`

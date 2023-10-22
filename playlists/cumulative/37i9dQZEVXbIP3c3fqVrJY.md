@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Czech Republic.
 
-1,220 songs - 2 day 14 hr 53 min
+1,221 songs - 2 day 14 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -127,7 +127,7 @@
 | [Black Gloves](https://open.spotify.com/track/51s7EQbBAX0lcCMnuyIoYm) | [Koky](https://open.spotify.com/artist/4JTacmomOV6ZmeAVHMkFOq), [Separ](https://open.spotify.com/artist/3LujD0iQ9jRbSCMA39CGfO) | [Stát Ve Stínu, Dotýkat Se Hvězd](https://open.spotify.com/album/4PkzJq6KqsHX5538WRr8Pi) | 3:26 | 2021-03-27 | 2021-03-29 |
 | [Black Summer](https://open.spotify.com/track/3a94TbZOxhkI9xuNwYL53b) | [Red Hot Chili Peppers](https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5) | [Black Summer](https://open.spotify.com/album/4a6LkeTXHKjMQgf42wQnbH) | 3:52 | 2022-02-05 | 2022-02-07 |
 | [BLADE](https://open.spotify.com/track/18BHrhRZRluP0WobZA1Ub6) | [CA$HANOVA BULHAR](https://open.spotify.com/artist/3aBiDlzy0xIlHfbHAWYton) | [DRIPOLAR](https://open.spotify.com/album/68XHBxFOiLzQGWtJL5mDUY) | 2:17 | 2022-06-21 | 2022-06-27 |
-| [Blessed](https://open.spotify.com/track/2sNrirJx5Se5MO2tU2lJVL) | [Viktor Sheen](https://open.spotify.com/artist/4cG43cUBRJWWDsRh4SW48i) | [Příběhy a sny](https://open.spotify.com/album/70Ulib33YLyewrPZhXbFd4) | 2:10 | 2021-11-20 |  |
+| [Blessed](https://open.spotify.com/track/2sNrirJx5Se5MO2tU2lJVL) | [Viktor Sheen](https://open.spotify.com/artist/4cG43cUBRJWWDsRh4SW48i) | [Příběhy a sny](https://open.spotify.com/album/70Ulib33YLyewrPZhXbFd4) | 2:10 | 2021-11-20 | 2023-10-22 |
 | [Blinding Lights](https://open.spotify.com/track/0VjIjW4GlUZAMYd2vXMi3b) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [After Hours](https://open.spotify.com/album/4yP0hdKOZPNshxUOjY0cZj) | 3:20 | 2021-03-27\* | 2023-08-13 |
 | [Bloodbrother](https://open.spotify.com/track/1Kqd0PgJRFhDql81Hu8i8F) | [Patrik Love ICY L](https://open.spotify.com/artist/1YV8tnErKoEiXuWGYWMI8N), [Illja](https://open.spotify.com/artist/2Oa4JblokJ8s8wdlqprlbL) | [SUDETY SOLDIERZZ](https://open.spotify.com/album/1O1pd6MnZsOiDhxzmKjAdO) | 3:43 | 2021-03-27\* | 2021-03-27 |
 | [Bloody Mary](https://open.spotify.com/track/11BKm0j4eYoCPPpCONAVwA) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [Born This Way \(Special Edition\)](https://open.spotify.com/album/5maeycU97NHBgwRr2h2A4O) | 4:04 | 2022-11-29 | 2023-02-21 |
@@ -224,7 +224,7 @@
 | [Další kámen](https://open.spotify.com/track/55DYFxHB8RiD6yU28TBpUx) | [Ektor](https://open.spotify.com/artist/4V1v1oFnKe0b42lZh1QBnF), [Yzomandias](https://open.spotify.com/artist/721o1Z0J6jQupyzLt9RnEk) | [Original \(Deluxe\)](https://open.spotify.com/album/6SxaVtV5O9gMZZhUkVBeSW) | 3:58 | 2021-03-27 | 2021-04-19 |
 | [Další rok](https://open.spotify.com/track/5S1aHYFgkXbYTi0vDNuzZ0) | [Smack](https://open.spotify.com/artist/7pbijUBmXdie5ChABSM4F7) | [Chimera Pt\. 3: Snake](https://open.spotify.com/album/2gMs1AxH9RnzJ5UzgOtnQD) | 4:26 | 2021-12-17 | 2023-01-03 |
 | [Dance Monkey](https://open.spotify.com/track/1rgnBhdG2JDFTbYkYRZAku) | [Tones And I](https://open.spotify.com/artist/2NjfBq1NflQcKSeiDooVjY) | [Dance Monkey](https://open.spotify.com/album/31IDBea3eEs57a0joX6TjN) | 3:29 | 2021-04-19 | 2021-04-26 |
-| [Dance The Night \- From Barbie The Album](https://open.spotify.com/track/1vYXt7VSjH9JIM5oRRo7vA) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Dance The Night \(From Barbie The Album\)](https://open.spotify.com/album/5cH7FqB7JD5q1tJXJ7FHYu) | 2:56 | 2023-07-23 |  |
+| [Dance The Night \- From Barbie The Album](https://open.spotify.com/track/1vYXt7VSjH9JIM5oRRo7vA) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Dance The Night \(From Barbie The Album\)](https://open.spotify.com/album/5cH7FqB7JD5q1tJXJ7FHYu) | 2:56 | 2023-07-23 | 2023-10-22 |
 | [Danec \(feat\. KOJO\)](https://open.spotify.com/track/4v3ac8jgUIApzZ3PcAEvnb) | [STEIN27](https://open.spotify.com/artist/2A3rmRL2kja5NoroAGdZPb), [KOJO](https://open.spotify.com/artist/0edxmbwC1I57fIyRCuz2FY) | [Návrat na planetu Zemi](https://open.spotify.com/album/4MVM6BJQ15yt9d0fUFwzYG) | 2:55 | 2021-11-14 | 2021-11-19 |
 | [DARK ARTS](https://open.spotify.com/track/6ahou9atlTmrQ9rr7MY3rH) | [Nik Tendo](https://open.spotify.com/artist/6gvVFtkTV4OCyQSCzGgU1h), [NobodyListen](https://open.spotify.com/artist/1q8KEO90fysZqvIlqYcp5C) | [\*PATTERN\*](https://open.spotify.com/album/0HfuXHVf6If1iG7JucFN6d) | 3:09 | 2023-07-22 | 2023-07-24 |
 | [Dawn FM](https://open.spotify.com/track/3jQvH2VoTRe5CEnIS0MnCE) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Dawn FM](https://open.spotify.com/album/1bupWi00723vxZoS7MX9NU) | 1:36 | 2022-01-08 | 2022-01-10 |
@@ -558,7 +558,7 @@
 | [Lavazza](https://open.spotify.com/track/4NSETXDUJ0DG4rKK9hvLC7) | [Viktor Sheen](https://open.spotify.com/artist/4cG43cUBRJWWDsRh4SW48i) | [Lavazza](https://open.spotify.com/album/5VeydZ7jRQ10lkcgljHw9h) | 3:40 | 2021-05-30 | 2021-09-26 |
 | [Lavazza](https://open.spotify.com/track/5kx4nxFLJpXVAjey3vy1dS) | [Viktor Sheen](https://open.spotify.com/artist/4cG43cUBRJWWDsRh4SW48i) | [Příběhy a sny](https://open.spotify.com/album/70Ulib33YLyewrPZhXbFd4) | 3:40 | 2021-11-20 | 2022-02-11 |
 | [Lavender Haze](https://open.spotify.com/track/5jQI2r1RdgtuT8S3iG8zFC) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Midnights](https://open.spotify.com/album/151w1FgRZfnKZA9FEcg9Z3) | 3:22 | 2022-10-22 | 2022-11-06 |
-| [Lay Low](https://open.spotify.com/track/3IhM5Mber8KA0NaRNpK2px) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z) | [DRIVE](https://open.spotify.com/album/1Pl9ZGXwayXPg5qRVpYo74) | 2:33 | 2023-04-22 | 2023-10-16 |
+| [Lay Low](https://open.spotify.com/track/3IhM5Mber8KA0NaRNpK2px) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z) | [DRIVE](https://open.spotify.com/album/1Pl9ZGXwayXPg5qRVpYo74) | 2:33 | 2023-04-22 |  |
 | [Leave The Door Open](https://open.spotify.com/track/7MAibcTli4IisCtbHKrGMh) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa), [Silk Sonic](https://open.spotify.com/artist/6PvvGcCY2XtUcSRld1Wilr) | [Leave The Door Open](https://open.spotify.com/album/7dfPqXck6BB9wpThrVYBss) | 4:02 | 2021-05-06 | 2021-05-27 |
 | [Ledová](https://open.spotify.com/track/2sOSBK2MxtUekdfCsj7HOG) | [Ben Cristovao](https://open.spotify.com/artist/1bpca6RQE5kp92pIwPMBE8) | [Ledová](https://open.spotify.com/album/69xuznlvv1cKFlo6OiyYZm) | 2:35 | 2022-06-28 | 2022-07-01 |
 | [Leela <3](https://open.spotify.com/track/2Y7VedeJpxgt3PpqDpNhWS) | [Yzomandias](https://open.spotify.com/artist/721o1Z0J6jQupyzLt9RnEk) | [J\. EDEN E\-GEN \(mixed by NobodyListen\)](https://open.spotify.com/album/3d9csZH2s2QPeC9leP6i2g) | 1:49 | 2022-02-26 | 2022-02-28 |
@@ -1084,6 +1084,7 @@
 | [Two Moons](https://open.spotify.com/track/5GxUKIEkMXXZo1Tif0IzfC) | [BoyWithUke](https://open.spotify.com/artist/1Cd373x8qzC7SNUg5IToqp) | [Fever Dreams](https://open.spotify.com/album/0NzheutoSuzfMlENTnHTQl) | 3:44 | 2021-10-02 | 2021-11-13 |
 | [Tělo](https://open.spotify.com/track/1n9encxai9COxHCgEuu73L) | [Ewa Farna](https://open.spotify.com/artist/6xajh3A5qhxsNffhhBNntC) | [Tělo](https://open.spotify.com/album/1vkMHhCa3FpSZ9X1jCMRxC) | 3:40 | 2021-05-29 | 2021-06-27 |
 | [Tři oříšky](https://open.spotify.com/track/6Da7bx1uRTEhPqyMmxexYa) | [Iveta Bartošová](https://open.spotify.com/artist/2jrhHIIt3pMkts71ja2vp3) | [Jedna jediná](https://open.spotify.com/album/5cB5BbCsIW24mRLsjYa8Dx) | 3:46 | 2021-12-07 | 2022-12-27 |
+| [U Hřiště 380](https://open.spotify.com/track/0FpgtEgaMZSUw2RAD7JHGs) | [Rohony](https://open.spotify.com/artist/3FgZ0agsmQ50Y9VflHdcio), [mdmx](https://open.spotify.com/artist/0F2wMgHb1xp9HlWN4rt5Ke) | [U Hřiště 380](https://open.spotify.com/album/3y4coZ0Da0Ckj48xDmfyYO) | 2:30 | 2023-10-21 |  |
 | [U wish](https://open.spotify.com/track/1ev8LQb7reElKJQ9FweyKt) | [CA$HANOVA BULHAR](https://open.spotify.com/artist/3aBiDlzy0xIlHfbHAWYton) | [ROMEO](https://open.spotify.com/album/2UQwJOfPOpgvVQSvyZ3mWZ) | 3:01 | 2021-06-09 | 2021-06-13 |
 | [Udntknw](https://open.spotify.com/track/5N51ZVwkw8HGWuyywOdBrd) | [Dollar Prync](https://open.spotify.com/artist/3qoxj1cR3W3crV51Wg38Ux) | [Kures Drill](https://open.spotify.com/album/4IsnFljZY7pcz5fhHBe7Q6) | 3:02 | 2023-08-19 | 2023-08-21 |
 | [Ujde to](https://open.spotify.com/track/6YmJ7h3IB28IngbwOfQRyO) | [Viktor Sheen](https://open.spotify.com/artist/4cG43cUBRJWWDsRh4SW48i) | [Planeta opic](https://open.spotify.com/album/1lm4K8VIsxdvb6B0Rj6FMl) | 3:22 | 2023-10-14 |  |

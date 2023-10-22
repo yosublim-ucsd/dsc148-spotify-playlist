@@ -1,12 +1,12 @@
 {
   "description": "next gen pop Cover: Tate McRae",
-  "num_followers": 1293184,
+  "num_followers": 1293626,
   "original_name": "Pop Sauce",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwODdhNGI1ZTA5MDIwMGE2OGU5NmU2OWYzZjhhZjYwNzE5YjUyZjQz",
+  "snapshot_id": "MCxjMThmMDc2NzZlNjUxZWIwMDAwNjE4NTdhYTY5ZjAyNjMxNTk0NTBh",
   "tracks": [
     {
       "added_at": "2023-10-20 16:43:11",
@@ -67,6 +67,26 @@
       "duration_ms": 176479,
       "name": "In The City",
       "url": "https://open.spotify.com/track/3xY5aYJcdvZX9xQxNd02ku"
+    },
+    {
+      "added_at": "2023-10-20 16:43:11",
+      "album": {
+        "name": "A Night To Remember",
+        "url": "https://open.spotify.com/album/73wBVA41AulgjGiL3rBwfe"
+      },
+      "artists": [
+        {
+          "name": "beabadoobee",
+          "url": "https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB"
+        },
+        {
+          "name": "Laufey",
+          "url": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
+        }
+      ],
+      "duration_ms": 233388,
+      "name": "A Night To Remember",
+      "url": "https://open.spotify.com/track/180AbZduI6bYQIzwCHRwu9"
     },
     {
       "added_at": "2023-10-20 16:43:11",
@@ -1719,8 +1739,8 @@
     {
       "added_at": "2023-10-20 16:43:11",
       "album": {
-        "name": "don't shop when ur hungry !! (feat. vaultboy)",
-        "url": "https://open.spotify.com/album/1SxCpc68MAkp1WbnENuhxq"
+        "name": "High Concept",
+        "url": "https://open.spotify.com/album/5DSSWFgWsyelKKtMEUe1cK"
       },
       "artists": [
         {
@@ -1733,8 +1753,8 @@
         }
       ],
       "duration_ms": 140853,
-      "name": "don\u2019t shop when ur hungry !! (feat. vaultboy)",
-      "url": "https://open.spotify.com/track/2U2nYZb993yZhtaTJ9sGHl"
+      "name": "don't shop when ur hungry !!",
+      "url": "https://open.spotify.com/track/4McWu9XZhVIE0YelQzP5D3"
     },
     {
       "added_at": "2023-10-20 16:43:11",

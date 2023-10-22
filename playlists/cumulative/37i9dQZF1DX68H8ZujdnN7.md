@@ -4,7 +4,7 @@
 
 > Hair goals, spandex and epic guitar solos\. We got you.
 
-172 songs - 12 hr 36 min
+173 songs - 12 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,7 +32,8 @@
 | [Cryin'](https://open.spotify.com/track/1Fu3vJJwVKY7c7JnTX3Mvi) | [Vixen](https://open.spotify.com/artist/4wlPkvHKZzP2K8wtBzFRyY) | [Vixen](https://open.spotify.com/album/51aj98h378eXQJZXtIZKjK) | 3:31 | 2020-10-08 |  |
 | [Cum on Feel the Noize](https://open.spotify.com/track/6FBmHx1FuaSnTnnnaThgbF) | [Quiet Riot](https://open.spotify.com/artist/1dLWg6m8RRhizsdqJbhyj3) | [Quiet Riot \- Greatest Hits](https://open.spotify.com/album/1JSjQhsnC2xElFjTVG3Qhy) | 4:47 | 2020-10-08 |  |
 | [Detroit Rock City](https://open.spotify.com/track/7Dtukb9NLJs1i0lohMlIC5) | [KISS](https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw) | [Double Platinum \(Remastered Version\)](https://open.spotify.com/album/5geXfGrkFVo5eiVz4DL0Q9) | 3:35 | 2020-10-08 | 2022-05-31 |
-| [Don't Close Your Eyes](https://open.spotify.com/track/7wrBlgNqYBAC5yFfO4fnYb) | [Kix](https://open.spotify.com/artist/45KpBChrKYWhTlU6N57ofu) | [Blow My Fuse](https://open.spotify.com/album/1SOlB2vamXlZaiR5dUrM5m) | 4:17 | 2020-10-08 |  |
+| [Don't Close Your Eyes](https://open.spotify.com/track/3R5xBsocF67P2nYDUebeFU) | [Kix](https://open.spotify.com/artist/45KpBChrKYWhTlU6N57ofu) | [The Atlantic Studio Albums](https://open.spotify.com/album/6uIUP2CM5O9rtrcJb12lwD) | 4:17 | 2022-07-05 |  |
+| [Don't Close Your Eyes](https://open.spotify.com/track/7wrBlgNqYBAC5yFfO4fnYb) | [Kix](https://open.spotify.com/artist/45KpBChrKYWhTlU6N57ofu) | [Blow My Fuse](https://open.spotify.com/album/1SOlB2vamXlZaiR5dUrM5m) | 4:17 | 2020-10-08 | 2023-10-22 |
 | [Don't Know What You Got \(Till It's Gone\)](https://open.spotify.com/track/3vPrFUtWpKT9oNW94NDDEW) | [Cinderella](https://open.spotify.com/artist/7HL4id2U7FSDJtfKQHMgQx) | [Long Cold Winter](https://open.spotify.com/album/0DGiVv0CmN2elcLYSeiXPm) | 5:54 | 2020-10-08 | 2022-07-29 |
 | [Don't Know What You Got \(Till It's Gone\)](https://open.spotify.com/track/5QRs63VVKNaqUjg6XSSckM) | [Cinderella](https://open.spotify.com/artist/7HL4id2U7FSDJtfKQHMgQx) | [Long Cold Winter](https://open.spotify.com/album/5EsAeGDozof1PIH3WPXLr2) | 5:54 | 2022-07-05 |  |
 | [Don't Know What You Got \(Till It's Gone\)](https://open.spotify.com/track/5QSQGLM2tBohXk6dZeKI0p) | [Cinderella](https://open.spotify.com/artist/7HL4id2U7FSDJtfKQHMgQx) | [Rocked, Wired & Bluesed: The Greatest Hits](https://open.spotify.com/album/4s2dnIXJMUhZU7EdB6vTKF) | 5:54 | 2022-07-05 | 2022-11-14 |

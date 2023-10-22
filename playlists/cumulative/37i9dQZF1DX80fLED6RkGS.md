@@ -4,7 +4,7 @@
 
 > Only the hottest Gengetone coming out of Kenya\. Cover: <a href="https://open.spotify.com/artist/1ARD1FbyU6v65XIlpYLbMW?si=YDpZDlSZQYes61ApQ1A4tg"> Ssaru</a>
 
-289 songs - 15 hr 48 min
+290 songs - 15 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -53,7 +53,8 @@
 | [CHAMPEZ](https://open.spotify.com/track/014PFhieekBnB1kS2YrT6p) | [Khaligraph Jones](https://open.spotify.com/artist/1xxXRVpuEm3X3p1QEm61Az) | [CHAMPEZ](https://open.spotify.com/album/6ajjIirxTpRXYXvdDyBhCH) | 4:07 | 2022-01-20 | 2022-01-28 |
 | [Character Development](https://open.spotify.com/track/5E4yMQEONWdxxoDlS1cEBw) | [Trio Mio](https://open.spotify.com/artist/1YSv5pS7iY49Ech2SfHryX), [Mejja](https://open.spotify.com/artist/5VnDOE1MEaJ0VOgSypOi3u) | [Character Development](https://open.spotify.com/album/3UC3wH7N1QvJkoIduTGEH4) | 3:36 | 2022-03-03 | 2022-09-02 |
 | [Cheza Kama Wewe](https://open.spotify.com/track/4NAhcKp6YtMDRAMH4UeUE5) | [Trio Mio](https://open.spotify.com/artist/1YSv5pS7iY49Ech2SfHryX), [Mejja](https://open.spotify.com/artist/5VnDOE1MEaJ0VOgSypOi3u), [Exray](https://open.spotify.com/artist/0jEAvweUh4N7mXYMDkRTQo), [Nellythegoon](https://open.spotify.com/artist/33ypECIxCzdSYfzysHmrH7) | [Son of the City](https://open.spotify.com/album/7sQ6TFEEb8N88lvV6NE8OS) | 5:34 | 2021-02-22 | 2023-04-07 |
-| [Cheza Ki Wewe](https://open.spotify.com/track/2gBrQ5pf0LzbkBAwNClf1N) | [Jua Cali](https://open.spotify.com/artist/0V6gO3DpMzQxDs31TqdsXz), [BussaJ](https://open.spotify.com/artist/3aiKuKY1aR478HxnwlG2t7), [Mbithi](https://open.spotify.com/artist/3M8x29mEaZklQcMDwHMgKH) | [Utu Uzima](https://open.spotify.com/album/48rtE7h8bIv7xfVZEX7J2U) | 3:09 | 2023-04-06 |  |
+| [CHEZA KI WEWE](https://open.spotify.com/track/417ilOjQWFM6pGqLlGnFwN) | [Jua Cali](https://open.spotify.com/artist/0V6gO3DpMzQxDs31TqdsXz), [Bussa J](https://open.spotify.com/artist/1QIbS7iQAGVsFmOhOMGIYd), [Mbithi](https://open.spotify.com/artist/3M8x29mEaZklQcMDwHMgKH) | [UTU UZIMA](https://open.spotify.com/album/7zAVowRwWqZPUSFpdbmN6P) | 3:08 | 2023-10-19 |  |
+| [Cheza Ki Wewe](https://open.spotify.com/track/2gBrQ5pf0LzbkBAwNClf1N) | [Jua Cali](https://open.spotify.com/artist/0V6gO3DpMzQxDs31TqdsXz), [BussaJ](https://open.spotify.com/artist/3aiKuKY1aR478HxnwlG2t7), [Mbithi](https://open.spotify.com/artist/3M8x29mEaZklQcMDwHMgKH) | [Utu Uzima](https://open.spotify.com/album/48rtE7h8bIv7xfVZEX7J2U) | 3:09 | 2023-04-06 | 2023-10-22 |
 | [Chingri](https://open.spotify.com/track/695iTP0Wk2V9gBHRKiplZb) | [Ongwen](https://open.spotify.com/artist/684Qot9eoFeYpHUolypT6E), [Fathermoh](https://open.spotify.com/artist/7nzWhKIO0MuVrFR69jQxTA), [Swat Matire](https://open.spotify.com/artist/3xt7rgzSvLtQeWJIQHFqlV), [Harry Craze](https://open.spotify.com/artist/2lf45VLBUxoX6W9CE718cp), [Zzero Sufuri](https://open.spotify.com/artist/46LcXz6xUVZWnQILSNgLT7) | [Chingri](https://open.spotify.com/album/1AiSsGlNTqmeUuSMAiMXCD) | 4:00 | 2022-01-06 | 2022-08-19 |
 | [Chini Chini](https://open.spotify.com/track/08oolBPhPXZ5Whwd2Ynwta) | [Matata](https://open.spotify.com/artist/7imj8fIllhgGJqvKUVrdgV), [Mejja](https://open.spotify.com/artist/5VnDOE1MEaJ0VOgSypOi3u) | [Chini Chini](https://open.spotify.com/album/0TviJ0z7yu3MBWx6mJbluv) | 3:30 | 2021-09-02 | 2022-05-20 |
 | [Chunduka](https://open.spotify.com/track/0UXO7Xe0HZdncbATDZZEx0) | [Sailors 254](https://open.spotify.com/artist/0tMrNU3RSWhGj80Nq1fO8a), [Amwilly](https://open.spotify.com/artist/7qgSQFdxkPGRFkXQVhx0R5) | [Chunduka](https://open.spotify.com/album/6oXAiwDtiLjm4xyGAK3Dft) | 3:31 | 2021-09-02 | 2022-03-25 |

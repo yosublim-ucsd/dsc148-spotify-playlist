@@ -2133,6 +2133,24 @@
     },
     {
       "album": {
+        "name": "Akhir Dua Lima",
+        "url": "https://open.spotify.com/album/3VGZa4obs9Pb2jVsrBes88"
+      },
+      "artists": [
+        {
+          "name": "Hindami",
+          "url": "https://open.spotify.com/artist/7pED4CbTvA0wd6D8lWkgrR"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196000,
+      "name": "Alur",
+      "url": "https://open.spotify.com/track/4RbxBIaqalrbL7E7UBeIqP"
+    },
+    {
+      "album": {
         "name": "Always Be Happy",
         "url": "https://open.spotify.com/album/5ox4KSW4vm2Mbmy52xlItA"
       },
@@ -5022,8 +5040,8 @@
       },
       "artists": [
         {
-          "name": "joy imanuel",
-          "url": "https://open.spotify.com/artist/7uyOCBfUtyV2IHEKZYYxMz"
+          "name": "Joy Imanuel",
+          "url": "https://open.spotify.com/artist/5f5V3YIwYfx5DB0GfP45Tu"
         }
       ],
       "date_added": "2023-10-19",

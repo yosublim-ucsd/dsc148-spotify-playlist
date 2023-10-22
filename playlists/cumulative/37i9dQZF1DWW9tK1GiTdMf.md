@@ -4,7 +4,7 @@
 
 > canzoni che ti fanno ribaltare i tavoli \(╯°□°）╯︵ ┻━┻ blink\-182 in cover!
 
-677 songs - 1 day 7 hr 5 min
+678 songs - 1 day 7 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -186,8 +186,9 @@
 | [don't come back](https://open.spotify.com/track/3RhyHYnYxuGnP8njFlNxHq) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [i used to think i could fly](https://open.spotify.com/album/5fhTetHew6Eph6HfQ9O5gJ) | 2:32 | 2022-05-26 | 2022-08-05 |
 | [DON'T CRY](https://open.spotify.com/track/2b0LaxHKMrukK0EHBF7Z4p) | [Yans](https://open.spotify.com/artist/0JMlv0THvYWc44fizfiVCX), [Fulgur](https://open.spotify.com/artist/3AgppFtvLifix2HTKhGDiC), [Kunai](https://open.spotify.com/artist/1meu0gJt7jU6ltCO5eYz1J) | [DON'T CRY](https://open.spotify.com/album/4LDpCYR2cZQmXI0iC8sqTk) | 2:32 | 2023-04-20 | 2023-07-07 |
 | [Don't Feel Like Feeling Sad Today](https://open.spotify.com/track/3EzNhsh3hCy559XDI44f4g) | [YUNGBLUD](https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW) | [Don't Feel Like Feeling Sad Today](https://open.spotify.com/album/2xI6WQRXM36V5B7PSzghFW) | 1:56 | 2022-06-30 | 2022-10-14 |
+| [don't shop when ur hungry !!](https://open.spotify.com/track/4McWu9XZhVIE0YelQzP5D3) | [salem ilese](https://open.spotify.com/artist/3QJUFtGBGL05vo0kCJZsmT), [vaultboy](https://open.spotify.com/artist/0K87f3owemzI8NUCoEIXOB) | [High Concept](https://open.spotify.com/album/5DSSWFgWsyelKKtMEUe1cK) | 2:20 | 2023-10-19 |  |
 | [don’t call me pretty](https://open.spotify.com/track/6XV4GwRq92E9N3MmXxuxLy) | [GAYLE](https://open.spotify.com/artist/2VSHKHBTiXWplO8lxcnUC9) | [don’t call me pretty](https://open.spotify.com/album/02EVktWJJ2yuJs2Q1eqiSB) | 3:01 | 2023-05-04 | 2023-06-09 |
-| [don’t shop when ur hungry !! \(feat\. vaultboy\)](https://open.spotify.com/track/2U2nYZb993yZhtaTJ9sGHl) | [salem ilese](https://open.spotify.com/artist/3QJUFtGBGL05vo0kCJZsmT), [vaultboy](https://open.spotify.com/artist/0K87f3owemzI8NUCoEIXOB) | [don't shop when ur hungry !! \(feat\. vaultboy\)](https://open.spotify.com/album/1SxCpc68MAkp1WbnENuhxq) | 2:20 | 2023-08-17 |  |
+| [don’t shop when ur hungry !! \(feat\. vaultboy\)](https://open.spotify.com/track/2U2nYZb993yZhtaTJ9sGHl) | [salem ilese](https://open.spotify.com/artist/3QJUFtGBGL05vo0kCJZsmT), [vaultboy](https://open.spotify.com/artist/0K87f3owemzI8NUCoEIXOB) | [don't shop when ur hungry !! \(feat\. vaultboy\)](https://open.spotify.com/album/1SxCpc68MAkp1WbnENuhxq) | 2:20 | 2023-08-17 | 2023-10-22 |
 | [Don’t Trip \(with GAYLE\)](https://open.spotify.com/track/6mWCikZXHCCnEwkwyJ2L8G) | [Justus Bennetts](https://open.spotify.com/artist/4PcesEvU9iICf7dwNt5B3l), [GAYLE](https://open.spotify.com/artist/2VSHKHBTiXWplO8lxcnUC9) | [Don’t Trip \(with GAYLE\)](https://open.spotify.com/album/3R59vyW9DWkchzNHN4XehZ) | 2:27 | 2022-05-06 | 2022-05-20 |
 | [doremifa](https://open.spotify.com/track/4FcOzExJG7aBWcpiuc4WAO) | [oli?](https://open.spotify.com/artist/6SeRF4cyQkvX3fAxfWctf5) | [doremifa](https://open.spotify.com/album/0ysLF8nhmuINZzLHThcnmv) | 2:38 | 2022-05-06 | 2022-07-29 |
 | [DORMI](https://open.spotify.com/track/4C86xN7IPzill0pZAmyQjB) | [Jacopo Sol](https://open.spotify.com/artist/5aKF7BwuAUUSdteoSkq5ng), [Cripo](https://open.spotify.com/artist/4gStQ4qUXS6NLN8N7GThb0) | [DORMI](https://open.spotify.com/album/1zXkcyapz8q9tJlChXsRrW) | 2:36 | 2023-03-09 | 2023-04-28 |

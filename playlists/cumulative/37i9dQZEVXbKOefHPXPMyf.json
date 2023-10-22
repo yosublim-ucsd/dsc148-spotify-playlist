@@ -3057,6 +3057,24 @@
     },
     {
       "album": {
+        "name": "NO GOING BACK",
+        "url": "https://open.spotify.com/album/7pv0piZjVlLEIYUXEQKX6x"
+      },
+      "artists": [
+        {
+          "name": "xxanteria",
+          "url": "https://open.spotify.com/artist/4nl0CCx6PpEOOr2Z2ThPdp"
+        }
+      ],
+      "date_added": "2023-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 104013,
+      "name": "BAIXO",
+      "url": "https://open.spotify.com/track/0rb7HcBkdMPp04ybHBfX41"
+    },
+    {
+      "album": {
         "name": "BALADINHA SINISTRA",
         "url": "https://open.spotify.com/album/4VtwEXsNAQ9n5dekSnzhsO"
       },
@@ -3318,7 +3336,7 @@
       ],
       "date_added": "2023-10-10",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-20",
+      "date_removed": null,
       "duration_ms": 158720,
       "name": "Ba\u00f1o De Luna",
       "url": "https://open.spotify.com/track/1CLVgGXbkDtdZecc2VfvwW"
@@ -3486,7 +3504,7 @@
       ],
       "date_added": "2023-09-12",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-21",
+      "date_removed": null,
       "duration_ms": 172852,
       "name": "BESOS (with Kidd Keo & Neelo)",
       "url": "https://open.spotify.com/track/3b6waQzXeYty0R6EDAv0po"
@@ -4138,7 +4156,7 @@
       ],
       "date_added": "2023-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-22",
       "duration_ms": 120000,
       "name": "Brillan",
       "url": "https://open.spotify.com/track/5fu9rbNq6GRsQcj4tWIoe2"
@@ -7415,6 +7433,24 @@
     },
     {
       "album": {
+        "name": "NASTY FLAKO",
+        "url": "https://open.spotify.com/album/1viqyajYRv8loNBbacjCdy"
+      },
+      "artists": [
+        {
+          "name": "Xeuz",
+          "url": "https://open.spotify.com/artist/7DAssSa8U1Ny7iRhshYCG3"
+        }
+      ],
+      "date_added": "2023-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162000,
+      "name": "Desde Chepe City",
+      "url": "https://open.spotify.com/track/50qRaPgOTpgzHfA0ibA79w"
+    },
+    {
+      "album": {
         "name": "Versos de un Card\u00edaco",
         "url": "https://open.spotify.com/album/37kW73lswREZ5Bj410ZXTX"
       },
@@ -10218,7 +10254,7 @@
       ],
       "date_added": "2023-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-22",
       "duration_ms": 156306,
       "name": "FAN",
       "url": "https://open.spotify.com/track/41JN30LlL093JqC2YUJ0IW"
@@ -10700,7 +10736,7 @@
       ],
       "date_added": "2023-09-26",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-21",
+      "date_removed": null,
       "duration_ms": 185241,
       "name": "FLECHAZO EN EL CENTRO",
       "url": "https://open.spotify.com/track/4jn3R3KF5hx2fCiXlj89yE"
@@ -12796,7 +12832,7 @@
       ],
       "date_added": "2023-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-22",
       "duration_ms": 128738,
       "name": "HYPNOTIC DATA",
       "url": "https://open.spotify.com/track/26wxtmoH4uPUF1n5VlPxMc"
@@ -28878,7 +28914,7 @@
       ],
       "date_added": "2023-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-22",
       "duration_ms": 219909,
       "name": "this is what autumn feels like",
       "url": "https://open.spotify.com/track/2YOGCTiPJWMhZRdeadFj8G"
@@ -32008,7 +32044,7 @@
       ],
       "date_added": "2023-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-22",
       "duration_ms": 231704,
       "name": "WHERE SHE GOES",
       "url": "https://open.spotify.com/track/2sTDlCxmuZCTDKKk9f1qus"

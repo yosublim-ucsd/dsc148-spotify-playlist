@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBDycFJuxRt.md) - [plain]
 
 > 今週も話題の新曲を最速で。 Cover: Tele \*👉 <a href="https://spice.eplus.jp/articles/323019?utm\_source=spotify.com&utm\_medium=referral">SPICE連動記事</a>から新着情報をキャッチ!
 
-[Spotify](https://open.spotify.com/user/spotify) - 153,112 likes - 80 songs - 4 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 153,171 likes - 80 songs - 4 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,7 +57,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBDycFJuxRt.md) - [plain]
 | 47 | [東京エレキテル](https://open.spotify.com/track/4lOkhMm3c4QfXsHTVjJljr) | [FINLANDS](https://open.spotify.com/artist/5A3KcZGxH4Ej7MIwJLweb9) | [東京エレキテル](https://open.spotify.com/album/447bOiGQKFDtJSf9Q7rlpA) | 3:13 |
 | 48 | [Musou](https://open.spotify.com/track/55tDnCCpkuzgXaVjVdzJKF) | [KALMA](https://open.spotify.com/artist/5zHSpvhwGmYsYCd3dgo1Xc) | [Musou](https://open.spotify.com/album/6ZShnLWDs6mOwzIPrE0Ujo) | 3:19 |
 | 49 | [Shinyaku \[Tsugunai\]](https://open.spotify.com/track/6hW5JA90T47nYMNavZw0u3) | [MOROHA](https://open.spotify.com/artist/1pMaZSxaThVebPEWM3QXlY) | [Shinyaku \[Tsugunai\]](https://open.spotify.com/album/0IhnZ25LAqNq3fJEjhkoBV) | 4:58 |
-| 50 | [O.T.S.S.](https://open.spotify.com/track/1xp4xPXKoWHkB6yWxfJaNT) | [SBK](https://open.spotify.com/artist/2zHoXYzIEiq5t25A4dqMDD), [ラッパ我リヤ](https://open.spotify.com/artist/0rNAEraQzDXHYQdurLutVe) | [O.T.S.S.](https://open.spotify.com/album/1prN09WZiCP2TOZuNLBgxQ) | 3:25 |
+| 50 | [O.T.S.S.](https://open.spotify.com/track/1xp4xPXKoWHkB6yWxfJaNT) | [SBK](https://open.spotify.com/artist/2zHoXYzIEiq5t25A4dqMDD), [Rappagariya](https://open.spotify.com/artist/2AIgd1f6tXGh7TALqY7uQm) | [O.T.S.S.](https://open.spotify.com/album/1prN09WZiCP2TOZuNLBgxQ) | 3:25 |
 | 51 | [anthem](https://open.spotify.com/track/3JeWH79fpt8lFF799Zbqws) | [Kingo](https://open.spotify.com/artist/0EQsho43hajeaj7OxSVVZP), [Black petrol](https://open.spotify.com/artist/5YMmMKHQUVFGLShGNxe9Jt), [DinoJr.](https://open.spotify.com/artist/2Tjsjqtiz24545VekPM72J) | [anthem](https://open.spotify.com/album/0kOnGqiGCtJYM9NWOzu7up) | 5:38 |
 | 52 | [Ibitsu](https://open.spotify.com/track/1jK8DC8pTkMCsIe0MHoWme) | [CHAPAH](https://open.spotify.com/artist/48I0npVZVKzmMzS4ovC5ZG) | [Ibitsu](https://open.spotify.com/album/1hieFTJ3gPNO6ijehLTDFH) | 2:10 |
 | 53 | [CODE NAME](https://open.spotify.com/track/0secVOnUPMjbLwYaGXUhpc) | [Rappagariya](https://open.spotify.com/artist/2AIgd1f6tXGh7TALqY7uQm) | [CHALLENGER](https://open.spotify.com/album/39VgHgvLOmMS9OSV8H1BdP) | 3:00 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBDycFJuxRt.md) - [plain]
 | 79 | [Cat Chill](https://open.spotify.com/track/1b4N1PPhos8hSp0reypU1B) | [annnk](https://open.spotify.com/artist/25oACpEqiNcUAbK9eZ28lU), [Chocoholic](https://open.spotify.com/artist/4UohSp9DAmnCA9mgWqj8d1) | [Cat Chill](https://open.spotify.com/album/2e7X3BnSyjABkAaE7JMHYC) | 3:13 |
 | 80 | [puzzle \(feat\. ひかり\) \- Bronze Remix](https://open.spotify.com/track/764XngElbODYLSCkoax40N) | [Tokimeki Records](https://open.spotify.com/artist/73vrL9RiKlSaQFo2izavC1), [Bronze](https://open.spotify.com/artist/4YJiSEvipvRRttmmpvT3U7), [ひかり](https://open.spotify.com/artist/7FqXFvzwNYVhW12u5O3yUc) | [puzzle \(feat\. ひかり\) \[Bronze Remix\]](https://open.spotify.com/album/6W8mP3MYVabiOAsyS2qKxj) | 3:46 |
 
-Snapshot ID: `MCw2YTM2NGM4M2YxY2JhOWIyMzAwYzRiNzJmYjNiZWIyZWZlN2ZlYWI4`
+Snapshot ID: `MCwwY2U4ZGUzMmM5NmE3NDlmZGUzNWRiMGIyMzQxZDk5NThlMmIxN2Yy`

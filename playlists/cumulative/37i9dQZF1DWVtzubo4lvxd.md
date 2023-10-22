@@ -8,7 +8,7 @@
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [4:20](https://open.spotify.com/track/7Bb0O4hmvyRKcj7Yl3MnmW) | [RAS](https://open.spotify.com/artist/5quzk8QzHrBaPWz4JH15cj) | [RAS](https://open.spotify.com/album/0jQ3zArVV1wo3Fjobq1pG5) | 11:31 | 2022-04-15 | 2023-10-20 |
+| [4:20](https://open.spotify.com/track/7Bb0O4hmvyRKcj7Yl3MnmW) | [RAS](https://open.spotify.com/artist/5quzk8QzHrBaPWz4JH15cj) | [RAS](https://open.spotify.com/album/0jQ3zArVV1wo3Fjobq1pG5) | 11:31 | 2022-04-15 |  |
 | [6 out of 600](https://open.spotify.com/track/2bEshJ2C5fbZ81Q3Zlnb7m) | [Jaeden Camstra](https://open.spotify.com/artist/1xOgtDBKnZvSLAgCVSOmNH) | [Kids' Menu](https://open.spotify.com/album/5QZRe9oZyiwJG3LqYzLQc2) | 1:17 | 2022-04-15 |  |
 | [6 Out of 600](https://open.spotify.com/track/3NUOQvFY74ZAdCargElGyw) | [Jaeden Camstra](https://open.spotify.com/artist/1xOgtDBKnZvSLAgCVSOmNH) | [Kids' Menu](https://open.spotify.com/album/7fNY08KDH3jG1XxZQ84C7t) | 1:17 | 2022-04-15 | 2022-07-28 |
 | [Abeja](https://open.spotify.com/track/3mvaD4yyX71CV1idcd5lfJ) | [Mndsgn](https://open.spotify.com/artist/4GcpBLY8g8NrmimWbssM26), [Sofie Royer](https://open.spotify.com/artist/2P2BXSc0Wxpf10Fpno38rl) | [Sofie's SOS Tape](https://open.spotify.com/album/4HSL9qNMgDUNQFngd3ODit) | 3:39 | 2022-04-15 |  |
@@ -141,7 +141,7 @@
 | [no shame in my game.](https://open.spotify.com/track/0xsA09gqvqDx5P9Ytw94Cs) | [halberd](https://open.spotify.com/artist/7ow7nXWCZuMoU09aRki7GB), [Dingus.](https://open.spotify.com/artist/5Csl0cWk9AUr3M6KzlOsTV) | [no shame in my game.](https://open.spotify.com/album/39G2UqpSLFmV6t1Uwvef0S) | 1:28 | 2022-04-15 | 2023-09-15 |
 | [Nostalgia](https://open.spotify.com/track/6OgXPYyiTAV2bdbYrB1aGs) | [Jaeden Camstra](https://open.spotify.com/artist/1xOgtDBKnZvSLAgCVSOmNH) | [Kids' Menu](https://open.spotify.com/album/7fNY08KDH3jG1XxZQ84C7t) | 1:17 | 2022-04-15 | 2022-07-29 |
 | [Nostalgia](https://open.spotify.com/track/4iLL181gl7s9FELLkSUmEK) | [Jaeden Camstra](https://open.spotify.com/artist/1xOgtDBKnZvSLAgCVSOmNH) | [Kids' Menu](https://open.spotify.com/album/5QZRe9oZyiwJG3LqYzLQc2) | 1:17 | 2022-04-15 |  |
-| [nvm.](https://open.spotify.com/track/7ljI7sHNpt5t940veMe5y4) | [halberd](https://open.spotify.com/artist/7ow7nXWCZuMoU09aRki7GB) | [b4u.](https://open.spotify.com/album/5hXOjdUD5thOFrwq6tSDsn) | 1:28 | 2022-04-15 |  |
+| [nvm.](https://open.spotify.com/track/7ljI7sHNpt5t940veMe5y4) | [halberd](https://open.spotify.com/artist/7ow7nXWCZuMoU09aRki7GB) | [b4u.](https://open.spotify.com/album/5hXOjdUD5thOFrwq6tSDsn) | 1:28 | 2022-04-15 | 2023-10-22 |
 | [Old Town](https://open.spotify.com/track/1Ly9DQ9qgelrGZX6TZvjr9) | [Hussain Ali](https://open.spotify.com/artist/6jisxxsMSH9OExkRD3YkwG), [Chill Moon Music](https://open.spotify.com/artist/1ppFAqWZIgv5c7huT7O3Aa) | [Old Town](https://open.spotify.com/album/2oPxjmBzJCnXDntOnVHzuX) | 3:30 | 2022-04-15 | 2022-07-29 |
 | [one summer's eve](https://open.spotify.com/track/5eDApqll4iKrtS5z53tCfS) | [Brxvs](https://open.spotify.com/artist/3LoO7TNHi4wqe78tsBMMv5), [Chill Moon Music](https://open.spotify.com/artist/1ppFAqWZIgv5c7huT7O3Aa) | [one summer's eve](https://open.spotify.com/album/6DARVyutsNq7DRCvBL8Xjj) | 2:59 | 2022-04-15 | 2022-07-29 |
 | [Open Window](https://open.spotify.com/track/2VOzEIIxnfu2t1ZNu9ebcB) | [Jaeden Camstra](https://open.spotify.com/artist/1xOgtDBKnZvSLAgCVSOmNH) | [Kids' Menu](https://open.spotify.com/album/7fNY08KDH3jG1XxZQ84C7t) | 2:20 | 2022-04-15 | 2022-07-29 |

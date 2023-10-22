@@ -13309,13 +13309,17 @@
     },
     {
       "album": {
-        "name": "Bienvenidos a mi barrio",
+        "name": "Bienvenidos a Mi Barrio",
         "url": "https://open.spotify.com/album/7c6XRLWcvCYf5slViBDKmF"
       },
       "artists": [
         {
           "name": "Callejero Fino",
           "url": "https://open.spotify.com/artist/6GRwwWAtmusrgAL5JF9Dfr"
+        },
+        {
+          "name": "DJ Tao",
+          "url": "https://open.spotify.com/artist/5CA5IqbsFr4hpNLdjgO0BU"
         }
       ],
       "date_added": "2023-10-20",

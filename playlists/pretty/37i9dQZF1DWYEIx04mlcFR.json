@@ -1,12 +1,12 @@
 {
   "description": "La nueva ola de artistas con Robot95 & Bruses en portada. \ud83c\udf0a\u2728 ",
-  "num_followers": 63362,
+  "num_followers": 63417,
   "original_name": "la pop~wave",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3YjRiMTkyMGZmZDIxNmMxZjA5YWE2OTQ3NjQyOWUxNmE0ZTlmZTBh",
+  "snapshot_id": "MCw5OWY5NDlmODg4NDRhZjBjMDk0NzZlYmYwNjMyZTk3MDYyNGIzMTVm",
   "tracks": [
     {
       "added_at": "2023-10-21 01:26:40",
@@ -815,22 +815,6 @@
     {
       "added_at": "2023-10-21 01:26:40",
       "album": {
-        "name": "Agua Caliente",
-        "url": "https://open.spotify.com/album/2weNbDp2J841mrVkjJF0YL"
-      },
-      "artists": [
-        {
-          "name": "M\u00e9ne",
-          "url": "https://open.spotify.com/artist/5r3DSRaJz8ckIw4XPH9Whd"
-        }
-      ],
-      "duration_ms": 200339,
-      "name": "Agua Caliente",
-      "url": "https://open.spotify.com/track/1iUIeyrLRtHXc1K1Xjzxvf"
-    },
-    {
-      "added_at": "2023-10-21 01:26:40",
-      "album": {
         "name": "cartulinas de colores",
         "url": "https://open.spotify.com/album/62r1JOXim0HDI909Vl0QiC"
       },
@@ -847,6 +831,22 @@
       "duration_ms": 159765,
       "name": "cartulinas de colores",
       "url": "https://open.spotify.com/track/2wEfLzvEWrSWmi63CeNDSO"
+    },
+    {
+      "added_at": "2023-10-21 01:26:40",
+      "album": {
+        "name": "Agua Caliente",
+        "url": "https://open.spotify.com/album/2weNbDp2J841mrVkjJF0YL"
+      },
+      "artists": [
+        {
+          "name": "M\u00e9ne",
+          "url": "https://open.spotify.com/artist/5r3DSRaJz8ckIw4XPH9Whd"
+        }
+      ],
+      "duration_ms": 200339,
+      "name": "Agua Caliente",
+      "url": "https://open.spotify.com/track/1iUIeyrLRtHXc1K1Xjzxvf"
     },
     {
       "added_at": "2023-10-21 01:26:40",
@@ -947,22 +947,6 @@
     {
       "added_at": "2023-10-21 01:26:40",
       "album": {
-        "name": "hoy no me encuentro para nadie",
-        "url": "https://open.spotify.com/album/7xyX3t55ZvkJMCOa8fofhw"
-      },
-      "artists": [
-        {
-          "name": "Caztro",
-          "url": "https://open.spotify.com/artist/1YvkzmaJLVRHSJ8J5YzoaW"
-        }
-      ],
-      "duration_ms": 164540,
-      "name": "hoy no me encuentro para nadie",
-      "url": "https://open.spotify.com/track/0TN8m2EibHpzRTTGXvw69R"
-    },
-    {
-      "added_at": "2023-10-21 01:26:40",
-      "album": {
         "name": "Terapia",
         "url": "https://open.spotify.com/album/0DP0OKhjTQBnqko7fsP1BN"
       },
@@ -979,22 +963,6 @@
     {
       "added_at": "2023-10-21 01:26:40",
       "album": {
-        "name": "Brillantina",
-        "url": "https://open.spotify.com/album/6xJf96sSXhVYsAlNJ4WWUl"
-      },
-      "artists": [
-        {
-          "name": "Urb\u00f8i",
-          "url": "https://open.spotify.com/artist/4THv7qQa82UNW5DTtEqNOy"
-        }
-      ],
-      "duration_ms": 207428,
-      "name": "Brillantina",
-      "url": "https://open.spotify.com/track/6jdmBiyGFqqSmShFLoNkkL"
-    },
-    {
-      "added_at": "2023-10-21 01:26:40",
-      "album": {
         "name": "Como las Aves",
         "url": "https://open.spotify.com/album/44uhTcHqT2A2ksmAIl0hWY"
       },
@@ -1007,6 +975,38 @@
       "duration_ms": 138400,
       "name": "Como las Aves",
       "url": "https://open.spotify.com/track/27bBykUqwr8sdKtXfVQqGY"
+    },
+    {
+      "added_at": "2023-10-21 01:26:40",
+      "album": {
+        "name": "hoy no me encuentro para nadie",
+        "url": "https://open.spotify.com/album/7xyX3t55ZvkJMCOa8fofhw"
+      },
+      "artists": [
+        {
+          "name": "Caztro",
+          "url": "https://open.spotify.com/artist/1YvkzmaJLVRHSJ8J5YzoaW"
+        }
+      ],
+      "duration_ms": 164540,
+      "name": "hoy no me encuentro para nadie",
+      "url": "https://open.spotify.com/track/0TN8m2EibHpzRTTGXvw69R"
+    },
+    {
+      "added_at": "2023-10-21 01:26:40",
+      "album": {
+        "name": "Brillantina",
+        "url": "https://open.spotify.com/album/6xJf96sSXhVYsAlNJ4WWUl"
+      },
+      "artists": [
+        {
+          "name": "Urb\u00f8i",
+          "url": "https://open.spotify.com/artist/4THv7qQa82UNW5DTtEqNOy"
+        }
+      ],
+      "duration_ms": 207428,
+      "name": "Brillantina",
+      "url": "https://open.spotify.com/track/6jdmBiyGFqqSmShFLoNkkL"
     },
     {
       "added_at": "2023-10-21 01:26:40",
@@ -1251,6 +1251,22 @@
     {
       "added_at": "2023-10-21 01:26:40",
       "album": {
+        "name": "Tengo Que Hacer Esto Por M\u00ed",
+        "url": "https://open.spotify.com/album/6IKEQRgjgX2bgNa8eeCDUg"
+      },
+      "artists": [
+        {
+          "name": "Pau Laggies",
+          "url": "https://open.spotify.com/artist/4yxXxMpC0bNGbc1LePew2t"
+        }
+      ],
+      "duration_ms": 150347,
+      "name": "Tengo Que Hacer Esto Por Mi",
+      "url": "https://open.spotify.com/track/02OUZnvRW1EChAL8EyPHWj"
+    },
+    {
+      "added_at": "2023-10-21 01:26:40",
+      "album": {
         "name": "Estar Mejor",
         "url": "https://open.spotify.com/album/0MxWi4WRhsfE2p2lMdGCac"
       },
@@ -1283,22 +1299,6 @@
       "duration_ms": 282830,
       "name": "Du\u00e9rmete Clavel",
       "url": "https://open.spotify.com/track/6VZKzU8Gv14NXuSoEP404g"
-    },
-    {
-      "added_at": "2023-10-21 01:26:40",
-      "album": {
-        "name": "Tengo Que Hacer Esto Por M\u00ed",
-        "url": "https://open.spotify.com/album/6IKEQRgjgX2bgNa8eeCDUg"
-      },
-      "artists": [
-        {
-          "name": "Pau Laggies",
-          "url": "https://open.spotify.com/artist/4yxXxMpC0bNGbc1LePew2t"
-        }
-      ],
-      "duration_ms": 150347,
-      "name": "Tengo Que Hacer Esto Por Mi",
-      "url": "https://open.spotify.com/track/02OUZnvRW1EChAL8EyPHWj"
     }
   ],
   "unique_name": "la pop~wave",

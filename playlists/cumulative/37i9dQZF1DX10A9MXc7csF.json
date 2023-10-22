@@ -8437,6 +8437,24 @@
     },
     {
       "album": {
+        "name": "Rubicon",
+        "url": "https://open.spotify.com/album/6zJbfrnTwqZ2LtcnOWlfOw"
+      },
+      "artists": [
+        {
+          "name": "HERNAN TREJO",
+          "url": "https://open.spotify.com/artist/2JW58Zzu11HCWLaMou9UGD"
+        }
+      ],
+      "date_added": "2023-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147889,
+      "name": "Rubicon",
+      "url": "https://open.spotify.com/track/5W3D37twMsileaHHoWBrWF"
+    },
+    {
+      "album": {
         "name": "Ruleteando",
         "url": "https://open.spotify.com/album/5ThXtHduVqriyX1yCTEBGY"
       },
@@ -9172,6 +9190,28 @@
       "duration_ms": 117429,
       "name": "Soy Mala",
       "url": "https://open.spotify.com/track/10pyLImhmwLQcl3G4ahJZB"
+    },
+    {
+      "album": {
+        "name": "So\u00f1ando",
+        "url": "https://open.spotify.com/album/1tl182IgEgAOhTOgp1rooN"
+      },
+      "artists": [
+        {
+          "name": "El Wiko",
+          "url": "https://open.spotify.com/artist/711tZI6sxBPYHe5FvbLQjs"
+        },
+        {
+          "name": "Simpson Ahuevo",
+          "url": "https://open.spotify.com/artist/6viZnVSHavFUcW0blu6Mvw"
+        }
+      ],
+      "date_added": "2023-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188964,
+      "name": "So\u00f1ando",
+      "url": "https://open.spotify.com/track/1ZZ2jOHKjKGUGGSOj7LsaD"
     },
     {
       "album": {
@@ -10198,7 +10238,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-22",
       "duration_ms": 207402,
       "name": "VETE",
       "url": "https://open.spotify.com/track/1nZZVprSn3MjlypZ8QYcPF"

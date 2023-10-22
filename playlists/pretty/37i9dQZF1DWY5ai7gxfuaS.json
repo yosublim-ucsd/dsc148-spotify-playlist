@@ -1,12 +1,12 @@
 {
   "description": "The most innovative and forward thinking metal right now. Cover: Static-X",
-  "num_followers": 267472,
+  "num_followers": 267589,
   "original_name": "Alternative Metal",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3Y2I4NDFiODAzMTI4ODVlZTNhYWE3ZGJkYmVlNjM3ZTMyYzNjODVj",
+  "snapshot_id": "MCwxYjNkNjM0MzVkMjViNWZmMDJkNWRmNzI0OGI1ZGZiZWRiYjQ1MDdl",
   "tracks": [
     {
       "added_at": "2023-07-11 13:39:19",
@@ -169,6 +169,26 @@
       "url": "https://open.spotify.com/track/4oztf7RcwAIxhd1gBp0pjg"
     },
     {
+      "added_at": "2023-03-03 00:00:00",
+      "album": {
+        "name": "Intoxicated",
+        "url": "https://open.spotify.com/album/385qWF7ljbjZNS6r9LCbZ6"
+      },
+      "artists": [
+        {
+          "name": "ALESTI",
+          "url": "https://open.spotify.com/artist/7xrxYdkeO8JiGJ5Goiwh7J"
+        },
+        {
+          "name": "Until I Wake",
+          "url": "https://open.spotify.com/artist/4XYFjTd83FIwArFrWEYhd5"
+        }
+      ],
+      "duration_ms": 183900,
+      "name": "Intoxicated",
+      "url": "https://open.spotify.com/track/6KHeDBooGJzetzvqvttq24"
+    },
+    {
       "added_at": "2022-11-18 01:42:16",
       "album": {
         "name": "DOMINATION",
@@ -207,26 +227,6 @@
       "duration_ms": 166466,
       "name": "Drown",
       "url": "https://open.spotify.com/track/2jPqRiw1kJvxDKIibCPhHu"
-    },
-    {
-      "added_at": "2023-03-03 00:00:00",
-      "album": {
-        "name": "Intoxicated",
-        "url": "https://open.spotify.com/album/385qWF7ljbjZNS6r9LCbZ6"
-      },
-      "artists": [
-        {
-          "name": "ALESTI",
-          "url": "https://open.spotify.com/artist/7xrxYdkeO8JiGJ5Goiwh7J"
-        },
-        {
-          "name": "Until I Wake",
-          "url": "https://open.spotify.com/artist/4XYFjTd83FIwArFrWEYhd5"
-        }
-      ],
-      "duration_ms": 183900,
-      "name": "Intoxicated",
-      "url": "https://open.spotify.com/track/6KHeDBooGJzetzvqvttq24"
     },
     {
       "added_at": "2022-11-18 01:42:16",
@@ -1091,6 +1091,22 @@
     {
       "added_at": "2022-11-18 01:42:16",
       "album": {
+        "name": "Wake of a Nation",
+        "url": "https://open.spotify.com/album/5s02KPkBjMkrz9zUJBWXDA"
+      },
+      "artists": [
+        {
+          "name": "Zeal & Ardor",
+          "url": "https://open.spotify.com/artist/6yCjbLFZ9qAnWfsy9ujm5Y"
+        }
+      ],
+      "duration_ms": 78531,
+      "name": "I Can't Breathe",
+      "url": "https://open.spotify.com/track/2f9na3HI0nVqecagiV0vGO"
+    },
+    {
+      "added_at": "2022-11-18 01:42:16",
+      "album": {
         "name": "Shut Up",
         "url": "https://open.spotify.com/album/7gjF3Ii5c3cfMKGf0rJaG9"
       },
@@ -1167,22 +1183,6 @@
       "duration_ms": 447297,
       "name": "Black Brick",
       "url": "https://open.spotify.com/track/63OqMoUP4Racq9holZo6dU"
-    },
-    {
-      "added_at": "2022-11-18 01:42:16",
-      "album": {
-        "name": "Wake of a Nation",
-        "url": "https://open.spotify.com/album/5s02KPkBjMkrz9zUJBWXDA"
-      },
-      "artists": [
-        {
-          "name": "Zeal & Ardor",
-          "url": "https://open.spotify.com/artist/6yCjbLFZ9qAnWfsy9ujm5Y"
-        }
-      ],
-      "duration_ms": 78531,
-      "name": "I Can't Breathe",
-      "url": "https://open.spotify.com/track/2f9na3HI0nVqecagiV0vGO"
     },
     {
       "added_at": "2022-11-18 01:42:16",

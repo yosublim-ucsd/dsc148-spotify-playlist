@@ -1,12 +1,12 @@
 {
   "description": "Fresh Christmas songs para los d\u00edas festivos. Cover: DannyLux",
-  "num_followers": 283120,
+  "num_followers": 283128,
   "original_name": "Feliz Navidad",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4ZWE4NmZkOTUxZjVkZjRmYzBmMzk3NTljNjAwYmYwYWRhMjYzMmI2",
+  "snapshot_id": "MCw5OTgwODA1MmUyMThmODI2MmRjMzBkYzA1MDVkMmYzNjQ4ZTJhYzIx",
   "tracks": [
     {
       "added_at": "2023-10-20 19:35:36",
@@ -367,6 +367,22 @@
     {
       "added_at": "2023-10-20 19:35:36",
       "album": {
+        "name": "El Mix-Tape De Santa",
+        "url": "https://open.spotify.com/album/5cXWewANUJiwlRh5q9TD6a"
+      },
+      "artists": [
+        {
+          "name": "Salma",
+          "url": "https://open.spotify.com/artist/5kT96PWNMl0164QMytMqc0"
+        }
+      ],
+      "duration_ms": 202632,
+      "name": "Hallelujah",
+      "url": "https://open.spotify.com/track/2MLT6aAsx8jTeb3vi2LTYo"
+    },
+    {
+      "added_at": "2023-10-20 19:35:36",
+      "album": {
         "name": "Una Noche Especial",
         "url": "https://open.spotify.com/album/7B9p0KkvYqajCmj2jZFkUd"
       },
@@ -391,22 +407,6 @@
     {
       "added_at": "2023-10-20 19:35:36",
       "album": {
-        "name": "El Mix-Tape De Santa",
-        "url": "https://open.spotify.com/album/5cXWewANUJiwlRh5q9TD6a"
-      },
-      "artists": [
-        {
-          "name": "Salma",
-          "url": "https://open.spotify.com/artist/5kT96PWNMl0164QMytMqc0"
-        }
-      ],
-      "duration_ms": 202632,
-      "name": "Hallelujah",
-      "url": "https://open.spotify.com/track/2MLT6aAsx8jTeb3vi2LTYo"
-    },
-    {
-      "added_at": "2023-10-20 19:35:36",
-      "album": {
         "name": "Navidad Contigo",
         "url": "https://open.spotify.com/album/3VlditEUUTeSXRw4r3RFGn"
       },
@@ -423,22 +423,6 @@
       "duration_ms": 188520,
       "name": "Navidad Contigo",
       "url": "https://open.spotify.com/track/481jZRK94eCVslwavhdY8n"
-    },
-    {
-      "added_at": "2023-10-20 19:35:36",
-      "album": {
-        "name": "Holiday",
-        "url": "https://open.spotify.com/album/37a9Xqe5ZExOQA50uWGz3G"
-      },
-      "artists": [
-        {
-          "name": "Monogem",
-          "url": "https://open.spotify.com/artist/4rNzwpjkFq8A7SeCMKBkEV"
-        }
-      ],
-      "duration_ms": 171535,
-      "name": "Holiday",
-      "url": "https://open.spotify.com/track/4OcGEJ7GR6i6ADd3D0Z2gR"
     },
     {
       "added_at": "2023-10-20 19:35:36",
@@ -463,6 +447,22 @@
       "duration_ms": 243666,
       "name": "Doy Gracias Por Ti",
       "url": "https://open.spotify.com/track/2ZPAfGIvoOpPi3ozCqVg0L"
+    },
+    {
+      "added_at": "2023-10-20 19:35:36",
+      "album": {
+        "name": "Holiday",
+        "url": "https://open.spotify.com/album/37a9Xqe5ZExOQA50uWGz3G"
+      },
+      "artists": [
+        {
+          "name": "Monogem",
+          "url": "https://open.spotify.com/artist/4rNzwpjkFq8A7SeCMKBkEV"
+        }
+      ],
+      "duration_ms": 171535,
+      "name": "Holiday",
+      "url": "https://open.spotify.com/track/4OcGEJ7GR6i6ADd3D0Z2gR"
     },
     {
       "added_at": "2023-10-20 19:35:36",
@@ -531,6 +531,22 @@
     {
       "added_at": "2023-10-20 19:35:36",
       "album": {
+        "name": "El Mix-Tape De Santa",
+        "url": "https://open.spotify.com/album/7EW5cn81Vhg5bT6pvK0ade"
+      },
+      "artists": [
+        {
+          "name": "Escarlata",
+          "url": "https://open.spotify.com/artist/6eDMcSQvrGt2zoVFSIwmgZ"
+        }
+      ],
+      "duration_ms": 145876,
+      "name": "Lleg\u00f3 La Navidad",
+      "url": "https://open.spotify.com/track/701t8Y6RqAj08ge8hEJUdg"
+    },
+    {
+      "added_at": "2023-10-20 19:35:36",
+      "album": {
         "name": "Al Mundo Paz",
         "url": "https://open.spotify.com/album/2DtZvoCBDFwW5mplsyxRoL"
       },
@@ -547,22 +563,6 @@
       "duration_ms": 182042,
       "name": "Al Mundo Paz",
       "url": "https://open.spotify.com/track/4IlsOf3duyAvhJhfICiPJo"
-    },
-    {
-      "added_at": "2023-10-20 19:35:36",
-      "album": {
-        "name": "El Mix-Tape De Santa",
-        "url": "https://open.spotify.com/album/7EW5cn81Vhg5bT6pvK0ade"
-      },
-      "artists": [
-        {
-          "name": "Escarlata",
-          "url": "https://open.spotify.com/artist/6eDMcSQvrGt2zoVFSIwmgZ"
-        }
-      ],
-      "duration_ms": 145876,
-      "name": "Lleg\u00f3 La Navidad",
-      "url": "https://open.spotify.com/track/701t8Y6RqAj08ge8hEJUdg"
     },
     {
       "added_at": "2023-10-20 19:35:36",
@@ -631,22 +631,6 @@
     {
       "added_at": "2023-10-20 19:35:36",
       "album": {
-        "name": "Amor Navide\u00f1o",
-        "url": "https://open.spotify.com/album/3FkNGhWudLC6Io9nz1D705"
-      },
-      "artists": [
-        {
-          "name": "Los Aptos",
-          "url": "https://open.spotify.com/artist/4tenlYn9MG8Fda3OyDtPRO"
-        }
-      ],
-      "duration_ms": 225125,
-      "name": "Santa Quiero",
-      "url": "https://open.spotify.com/track/6Vb7wm8QDYJaLe6nTfDaK4"
-    },
-    {
-      "added_at": "2023-10-20 19:35:36",
-      "album": {
         "name": "Una Navidad Sin Nieve",
         "url": "https://open.spotify.com/album/54ylQUQYODLfUCIZ782l7G"
       },
@@ -659,6 +643,22 @@
       "duration_ms": 162346,
       "name": "Una Navidad Sin Nieve",
       "url": "https://open.spotify.com/track/44icGG2nMxjtgEkwcPKglA"
+    },
+    {
+      "added_at": "2023-10-20 19:35:36",
+      "album": {
+        "name": "Amor Navide\u00f1o",
+        "url": "https://open.spotify.com/album/3FkNGhWudLC6Io9nz1D705"
+      },
+      "artists": [
+        {
+          "name": "Los Aptos",
+          "url": "https://open.spotify.com/artist/4tenlYn9MG8Fda3OyDtPRO"
+        }
+      ],
+      "duration_ms": 225125,
+      "name": "Santa Quiero",
+      "url": "https://open.spotify.com/track/6Vb7wm8QDYJaLe6nTfDaK4"
     },
     {
       "added_at": "2023-10-20 19:35:36",
@@ -879,22 +879,6 @@
     {
       "added_at": "2023-10-20 19:35:36",
       "album": {
-        "name": "Para Navidad",
-        "url": "https://open.spotify.com/album/27CeHfJqWFuTSj2IOXCMT2"
-      },
-      "artists": [
-        {
-          "name": "The Fam",
-          "url": "https://open.spotify.com/artist/4vfh2t9u9b9Ekc43M8PcYH"
-        }
-      ],
-      "duration_ms": 177329,
-      "name": "Para Navidad",
-      "url": "https://open.spotify.com/track/7GX2qkdqQmi8rDNkl5terB"
-    },
-    {
-      "added_at": "2023-10-20 19:35:36",
-      "album": {
         "name": "Nuestra Navidad",
         "url": "https://open.spotify.com/album/1O7QyLYHlgNncDGgjaDvR4"
       },
@@ -939,6 +923,22 @@
       "duration_ms": 236200,
       "name": "Un A\u00f1o M\u00e1s",
       "url": "https://open.spotify.com/track/1gKfAZ4WauownlJdL5CM8q"
+    },
+    {
+      "added_at": "2023-10-20 19:35:36",
+      "album": {
+        "name": "Para Navidad",
+        "url": "https://open.spotify.com/album/27CeHfJqWFuTSj2IOXCMT2"
+      },
+      "artists": [
+        {
+          "name": "The Fam",
+          "url": "https://open.spotify.com/artist/4vfh2t9u9b9Ekc43M8PcYH"
+        }
+      ],
+      "duration_ms": 177329,
+      "name": "Para Navidad",
+      "url": "https://open.spotify.com/track/7GX2qkdqQmi8rDNkl5terB"
     },
     {
       "added_at": "2023-10-20 19:35:36",

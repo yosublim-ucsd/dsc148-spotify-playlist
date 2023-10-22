@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34lqLRYWFxq.md) - [plain]
 
 > What's new in Rock this week\. Cover: EKKSTACY
 
-[Spotify](https://open.spotify.com/user/spotify) - 49,510 likes - 100 songs - 5 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 49,556 likes - 100 songs - 5 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34lqLRYWFxq.md) - [plain]
 | 46 | [Starts With One](https://open.spotify.com/track/5CR4tqDS8K1eI11txOaEae) | [Diesel](https://open.spotify.com/artist/4rCLXPaqaUjGa1aHDwkviR) | [Bootleg Melancholy](https://open.spotify.com/album/2RxlkGUuwfRK1yp7DILHt9) | 2:51 |
 | 47 | [SHUT UP AND KISS ME](https://open.spotify.com/track/69XM2hnoX1hVwqDGnnGZSq) | [Fefe Dobson](https://open.spotify.com/artist/0mzTssRDPIQVH5wSNzOdFZ) | [EMOTION SICKNESS](https://open.spotify.com/album/7qpJHu4q1taE6JOFvdm6YA) | 2:43 |
 | 48 | [Astral Plans](https://open.spotify.com/track/6RAxNp0JErI8nVJh4ojrsk) | [Bad Suns](https://open.spotify.com/artist/0YhUSm86okLWldQVwJkLlP) | [Astral Plans](https://open.spotify.com/album/3ZMX2IUr5KO4BaIFWX3yCS) | 3:59 |
-| 49 | [Hope is a Dangerous Little Thing](https://open.spotify.com/track/5AXCGDpDg4rOdf3xg2Y939) | [The Menzingers](https://open.spotify.com/artist/7HWFXU9pHBj0u58yoRwwOJ) | [Hope is a Dangerous Little Thing](https://open.spotify.com/album/13JTf9C01ApbfehYZoc7lX) | 3:12 |
+| 49 | [Hope is a Dangerous Little Thing](https://open.spotify.com/track/089lW2lTDsHUDsNlzim7Qc) | [The Menzingers](https://open.spotify.com/artist/7HWFXU9pHBj0u58yoRwwOJ) | [Some Of It Was True](https://open.spotify.com/album/1haMGMoO3UjtVB1l3BHMFZ) | 3:12 |
 | 50 | [DANCE WITH ME](https://open.spotify.com/track/0FnuaL9AcJxAdzwGPcIHVr) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [DANCE WITH ME](https://open.spotify.com/album/3Uo59FndkcDDp0H7k9yJmh) | 3:08 |
 | 51 | [Blanket](https://open.spotify.com/track/34mIasINn8fmO54la1cDaM) | [Kevin Abstract](https://open.spotify.com/artist/07EcmJpfAday8xGkslfanE) | [Blanket](https://open.spotify.com/album/1yUYTi45DvH4lTZnrX9hib) | 1:57 |
 | 52 | [Sanity \(demo\)](https://open.spotify.com/track/2ZbHgxLSjIzqzTuZAwvbZv) | [Paramore](https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF) | [Re: This Is Why](https://open.spotify.com/album/3GteSAGBQKHhmSN5OU819j) | 3:30 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34lqLRYWFxq.md) - [plain]
 | 99 | [On Halloween](https://open.spotify.com/track/2PxhH96T6JRsc3RP7HHnmm) | [Espanola](https://open.spotify.com/artist/2H9Drn26RQumTZLLSxmNpv) | [On Halloween](https://open.spotify.com/album/4vtkuvMPlxuYtW2hph0ILn) | 4:13 |
 | 100 | [Dusk](https://open.spotify.com/track/6yzuu8joRLnkpDIUzeXTMM) | [Chelsea Wolfe](https://open.spotify.com/artist/6ZK2nrW8aCTg8Bid7I7N10) | [Dusk](https://open.spotify.com/album/4rBFXDL3kIxwqeicNkWK8q) | 4:34 |
 
-Snapshot ID: `MCw4ZTAzZGI3YjVjMTA3NWJmNDgyNDdjOTRlNTY0NGJjYWFhMTFmMTli`
+Snapshot ID: `MCw4NTg1ZmNkYTliY2JjZGYzZTg3YjRiMTNlODE2ZTZhNTRmMWMxYjVl`

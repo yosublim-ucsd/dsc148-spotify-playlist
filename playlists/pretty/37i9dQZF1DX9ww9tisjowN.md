@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9ww9tisjowN.md) - [plain]
 
 > What pops out!? Roll the gacha and find your Neo J\-Pop treasure\. cover: XG
 
-[Spotify](https://open.spotify.com/user/spotify) - 224,961 likes - 75 songs - 4 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 225,140 likes - 75 songs - 4 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9ww9tisjowN.md) - [plain]
 | 74 | [ロマンス宣言](https://open.spotify.com/track/7ph7HRUsxYcKLRFTaYCQYQ) | [Kaneko Ayano](https://open.spotify.com/artist/4XKIIegkRbSJft0PmMv9NB) | [祝祭](https://open.spotify.com/album/3lrZCCakw7a68QVCBTt7BT) | 2:29 |
 | 75 | [angel girl is a slut](https://open.spotify.com/track/6R7HHLUnA8HNW0IQYHy9qS) | [cyber milk chan](https://open.spotify.com/artist/1o7ZTFiwtNY4lB9p2q1pt1) | [angel girl is a slut](https://open.spotify.com/album/4eL3wRQYnnauSjMxgAV4rv) | 2:28 |
 
-Snapshot ID: `MCw4ZDc2YTQyMDY0YjVkZWVkOGRmOGMzNGVhMzNkNTU5M2RmMmIzYjE5`
+Snapshot ID: `MCwzOGY0YTQ2M2Y0YThmMDliNTJkYTM0ZmVlNDZiYzU0MDZkMjhiMTU0`

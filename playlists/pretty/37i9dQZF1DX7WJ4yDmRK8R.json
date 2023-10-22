@@ -1,12 +1,12 @@
 {
   "description": "This is the best of ska, new and classic. Cover: Madness",
-  "num_followers": 360954,
+  "num_followers": 361058,
   "original_name": "The Essential Ska",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhZmI2YzJjYWQ3ZmU2MWU0NDcxMGQwNmUzMTNjMGRlN2EyNmVkY2Fi",
+  "snapshot_id": "MCw3ZDQwYzNiYTgzNjcyMjJkMjdlZTA2M2I3MjA1Njg5YzdiZDU0YWEy",
   "tracks": [
     {
       "added_at": "2023-10-13 06:00:00",
@@ -627,6 +627,22 @@
     {
       "added_at": "2023-10-13 06:00:00",
       "album": {
+        "name": "Let\u2019s Face It",
+        "url": "https://open.spotify.com/album/5Q9CP8RlnRY3MfcRliWj6r"
+      },
+      "artists": [
+        {
+          "name": "The Mighty Mighty Bosstones",
+          "url": "https://open.spotify.com/artist/5uYXMC13cIUulobh204QuK"
+        }
+      ],
+      "duration_ms": 195195,
+      "name": "The Impression That I Get",
+      "url": "https://open.spotify.com/track/3a3EDrWejkryzeGFkPypOR"
+    },
+    {
+      "added_at": "2023-10-13 06:00:00",
+      "album": {
         "name": "The Fury of the Aquabats!",
         "url": "https://open.spotify.com/album/3ytuNr6VyEkILS2PG14LCM"
       },
@@ -655,22 +671,6 @@
       "duration_ms": 116946,
       "name": "9mm And A Three Piece Suit",
       "url": "https://open.spotify.com/track/2BYJwdVcgfrGkRtVdZeX14"
-    },
-    {
-      "added_at": "2023-10-13 06:00:00",
-      "album": {
-        "name": "Sweet and Dandy",
-        "url": "https://open.spotify.com/album/1aDfrUrNxGmQkV8CYk8n6s"
-      },
-      "artists": [
-        {
-          "name": "Toots & The Maytals",
-          "url": "https://open.spotify.com/artist/6ZFv3wQwwWPiVDWhv0mjQK"
-        }
-      ],
-      "duration_ms": 176693,
-      "name": "Pressure Drop",
-      "url": "https://open.spotify.com/track/2EISedV2npKMtvygkykV2r"
     },
     {
       "added_at": "2023-10-13 06:00:00",
@@ -719,6 +719,22 @@
       "duration_ms": 165600,
       "name": "Monkey Man - 2015 Remaster",
       "url": "https://open.spotify.com/track/04BXsortkjpUxf1sOtLRXE"
+    },
+    {
+      "added_at": "2023-10-13 06:00:00",
+      "album": {
+        "name": "Sweet and Dandy",
+        "url": "https://open.spotify.com/album/1aDfrUrNxGmQkV8CYk8n6s"
+      },
+      "artists": [
+        {
+          "name": "Toots & The Maytals",
+          "url": "https://open.spotify.com/artist/6ZFv3wQwwWPiVDWhv0mjQK"
+        }
+      ],
+      "duration_ms": 176693,
+      "name": "Pressure Drop",
+      "url": "https://open.spotify.com/track/2EISedV2npKMtvygkykV2r"
     },
     {
       "added_at": "2023-10-13 06:00:00",
@@ -919,18 +935,18 @@
     {
       "added_at": "2023-10-13 06:00:00",
       "album": {
-        "name": "Let\u2019s Face It",
-        "url": "https://open.spotify.com/album/5Q9CP8RlnRY3MfcRliWj6r"
+        "name": "A Passage In Time (Explicit Version)",
+        "url": "https://open.spotify.com/album/2bEpe22aeh5r5UP0jHeggE"
       },
       "artists": [
         {
-          "name": "The Mighty Mighty Bosstones",
-          "url": "https://open.spotify.com/artist/5uYXMC13cIUulobh204QuK"
+          "name": "Authority Zero",
+          "url": "https://open.spotify.com/artist/5CHcX5KtuSz5uo1p5fM3sz"
         }
       ],
-      "duration_ms": 195195,
-      "name": "The Impression That I Get",
-      "url": "https://open.spotify.com/track/3a3EDrWejkryzeGFkPypOR"
+      "duration_ms": 388466,
+      "name": "One More Minute",
+      "url": "https://open.spotify.com/track/45Q1nT2ec3wXZV3RvS769L"
     },
     {
       "added_at": "2023-10-13 06:00:00",
@@ -947,22 +963,6 @@
       "duration_ms": 181826,
       "name": "Wake Up",
       "url": "https://open.spotify.com/track/1CnU1qewM7glU79O4VSlWX"
-    },
-    {
-      "added_at": "2023-10-13 06:00:00",
-      "album": {
-        "name": "A Passage In Time (Explicit Version)",
-        "url": "https://open.spotify.com/album/2bEpe22aeh5r5UP0jHeggE"
-      },
-      "artists": [
-        {
-          "name": "Authority Zero",
-          "url": "https://open.spotify.com/artist/5CHcX5KtuSz5uo1p5fM3sz"
-        }
-      ],
-      "duration_ms": 388466,
-      "name": "One More Minute",
-      "url": "https://open.spotify.com/track/45Q1nT2ec3wXZV3RvS769L"
     },
     {
       "added_at": "2023-10-13 06:00:00",
@@ -1031,22 +1031,6 @@
     {
       "added_at": "2023-10-13 06:00:00",
       "album": {
-        "name": "Reggae Hit L.A.",
-        "url": "https://open.spotify.com/album/7IQmFed8UWBDt7MiTZR6Ob"
-      },
-      "artists": [
-        {
-          "name": "The Aggrolites",
-          "url": "https://open.spotify.com/artist/5tdgsoMr7dIrcVUVauzuvM"
-        }
-      ],
-      "duration_ms": 181773,
-      "name": "Free Time",
-      "url": "https://open.spotify.com/track/19FG153t1MdozcTZHi8guM"
-    },
-    {
-      "added_at": "2023-10-13 06:00:00",
-      "album": {
         "name": "For Monkeys",
         "url": "https://open.spotify.com/album/3J7l2zrhkK3OxqxPpLcYxE"
       },
@@ -1059,6 +1043,22 @@
       "duration_ms": 160173,
       "name": "Random I Am",
       "url": "https://open.spotify.com/track/2XvrtH6BIVyCr6tLhOvIAt"
+    },
+    {
+      "added_at": "2023-10-13 06:00:00",
+      "album": {
+        "name": "Reggae Hit L.A.",
+        "url": "https://open.spotify.com/album/7IQmFed8UWBDt7MiTZR6Ob"
+      },
+      "artists": [
+        {
+          "name": "The Aggrolites",
+          "url": "https://open.spotify.com/artist/5tdgsoMr7dIrcVUVauzuvM"
+        }
+      ],
+      "duration_ms": 181773,
+      "name": "Free Time",
+      "url": "https://open.spotify.com/track/19FG153t1MdozcTZHi8guM"
     },
     {
       "added_at": "2023-10-13 06:00:00",
@@ -1419,22 +1419,6 @@
     {
       "added_at": "2023-10-13 06:00:00",
       "album": {
-        "name": "Right On Time",
-        "url": "https://open.spotify.com/album/5n7IeJHvlLtCo3HW5vgCqu"
-      },
-      "artists": [
-        {
-          "name": "Hepcat",
-          "url": "https://open.spotify.com/artist/79pQC5STz5lsGdkJ0NHmGp"
-        }
-      ],
-      "duration_ms": 202106,
-      "name": "I Can't Wait",
-      "url": "https://open.spotify.com/track/51vJlDmoPncY0fzzarlHW2"
-    },
-    {
-      "added_at": "2023-10-13 06:00:00",
-      "album": {
         "name": "Tutti Frutti",
         "url": "https://open.spotify.com/album/0ozlC9XMnxo9ksxV8MsHVm"
       },
@@ -1447,6 +1431,22 @@
       "duration_ms": 185088,
       "name": "Enjoy Yourself",
       "url": "https://open.spotify.com/track/2gXudOFrHDzj7D2JqbcFWm"
+    },
+    {
+      "added_at": "2023-10-13 06:00:00",
+      "album": {
+        "name": "Right On Time",
+        "url": "https://open.spotify.com/album/5n7IeJHvlLtCo3HW5vgCqu"
+      },
+      "artists": [
+        {
+          "name": "Hepcat",
+          "url": "https://open.spotify.com/artist/79pQC5STz5lsGdkJ0NHmGp"
+        }
+      ],
+      "duration_ms": 202106,
+      "name": "I Can't Wait",
+      "url": "https://open.spotify.com/track/51vJlDmoPncY0fzzarlHW2"
     },
     {
       "added_at": "2023-10-13 06:00:00",
@@ -1483,22 +1483,6 @@
     {
       "added_at": "2023-10-13 06:00:00",
       "album": {
-        "name": "Beatdown Generation",
-        "url": "https://open.spotify.com/album/00mGLtTXb6AxQjwGTec0Ud"
-      },
-      "artists": [
-        {
-          "name": "Millington",
-          "url": "https://open.spotify.com/artist/674oSgXMvyLNHMGQKHcUpp"
-        }
-      ],
-      "duration_ms": 194825,
-      "name": "Beatdown Generation",
-      "url": "https://open.spotify.com/track/4XLgiO2wHzSahRD1LMWcvc"
-    },
-    {
-      "added_at": "2023-10-13 06:00:00",
-      "album": {
         "name": "Another Change of Plan",
         "url": "https://open.spotify.com/album/0QDAsdoBkF16UzcXWS11Bg"
       },
@@ -1511,6 +1495,22 @@
       "duration_ms": 196333,
       "name": "Play Some Ska",
       "url": "https://open.spotify.com/track/61uH7qBeQqVGfnCK26OQ8L"
+    },
+    {
+      "added_at": "2023-10-13 06:00:00",
+      "album": {
+        "name": "Beatdown Generation",
+        "url": "https://open.spotify.com/album/00mGLtTXb6AxQjwGTec0Ud"
+      },
+      "artists": [
+        {
+          "name": "Millington",
+          "url": "https://open.spotify.com/artist/674oSgXMvyLNHMGQKHcUpp"
+        }
+      ],
+      "duration_ms": 194825,
+      "name": "Beatdown Generation",
+      "url": "https://open.spotify.com/track/4XLgiO2wHzSahRD1LMWcvc"
     },
     {
       "added_at": "2023-10-13 06:00:00",

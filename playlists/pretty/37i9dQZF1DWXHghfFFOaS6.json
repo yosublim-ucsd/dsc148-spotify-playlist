@@ -1,12 +1,12 @@
 {
   "description": "Where hip-hop and soul meets jazz. Cover: Digable Planets",
-  "num_followers": 312694,
+  "num_followers": 312829,
   "original_name": "Acid Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2OGNiNzQzMTUzMTI1ZGU3ZGYzNzFlZTRkYWNjYTdkM2I3ODQ4N2Y0",
+  "snapshot_id": "MCwxNDY5YzBkNDA2MzVmOTBhOTExZmYwNzQyN2Y1MmRkY2FhYjg3YjRi",
   "tracks": [
     {
       "added_at": "2022-07-14 19:24:43",
@@ -231,22 +231,6 @@
     {
       "added_at": "2022-07-14 19:24:43",
       "album": {
-        "name": "Do You Want More?!!!??!",
-        "url": "https://open.spotify.com/album/3N0wHnD5Rd8jnTUvNqOXGz"
-      },
-      "artists": [
-        {
-          "name": "The Roots",
-          "url": "https://open.spotify.com/artist/78xUyw6FkVZrRAtziFdtdu"
-        }
-      ],
-      "duration_ms": 281866,
-      "name": "Mellow My Man",
-      "url": "https://open.spotify.com/track/7v7tFiNePGwLOrB2tAW3kg"
-    },
-    {
-      "added_at": "2022-07-14 19:24:43",
-      "album": {
         "name": "Dah Shinin'",
         "url": "https://open.spotify.com/album/0TaYPOKCUDyvZU2APQ7kPM"
       },
@@ -259,6 +243,22 @@
       "duration_ms": 237720,
       "name": "Bucktown",
       "url": "https://open.spotify.com/track/5fyRqeycMofUoGmDis5Gu6"
+    },
+    {
+      "added_at": "2022-07-14 19:24:43",
+      "album": {
+        "name": "Do You Want More?!!!??!",
+        "url": "https://open.spotify.com/album/3N0wHnD5Rd8jnTUvNqOXGz"
+      },
+      "artists": [
+        {
+          "name": "The Roots",
+          "url": "https://open.spotify.com/artist/78xUyw6FkVZrRAtziFdtdu"
+        }
+      ],
+      "duration_ms": 281866,
+      "name": "Mellow My Man",
+      "url": "https://open.spotify.com/track/7v7tFiNePGwLOrB2tAW3kg"
     },
     {
       "added_at": "2022-07-14 19:24:43",
@@ -619,22 +619,6 @@
     {
       "added_at": "2022-07-14 19:24:43",
       "album": {
-        "name": "Cookie Dough",
-        "url": "https://open.spotify.com/album/416RB6m6lOsWBb1KMBwimM"
-      },
-      "artists": [
-        {
-          "name": "Wildcookie",
-          "url": "https://open.spotify.com/artist/2nkfPQ3HP5UyDHqy1hSbgG"
-        }
-      ],
-      "duration_ms": 175586,
-      "name": "Serious Drug",
-      "url": "https://open.spotify.com/track/3EKzH4moV9wWTkVEdgz91A"
-    },
-    {
-      "added_at": "2022-07-14 19:24:43",
-      "album": {
         "name": "Keep On Movin'",
         "url": "https://open.spotify.com/album/1y3jN9LkTstdnogs1Xywni"
       },
@@ -647,6 +631,22 @@
       "duration_ms": 157640,
       "name": "Jazzie's Groove",
       "url": "https://open.spotify.com/track/0HGxuuv3WdVpIFZeIepoUq"
+    },
+    {
+      "added_at": "2022-07-14 19:24:43",
+      "album": {
+        "name": "Cookie Dough",
+        "url": "https://open.spotify.com/album/416RB6m6lOsWBb1KMBwimM"
+      },
+      "artists": [
+        {
+          "name": "Wildcookie",
+          "url": "https://open.spotify.com/artist/2nkfPQ3HP5UyDHqy1hSbgG"
+        }
+      ],
+      "duration_ms": 175586,
+      "name": "Serious Drug",
+      "url": "https://open.spotify.com/track/3EKzH4moV9wWTkVEdgz91A"
     },
     {
       "added_at": "2022-07-14 19:24:43",
@@ -747,42 +747,6 @@
     {
       "added_at": "2022-07-14 19:24:43",
       "album": {
-        "name": "Beatmaker",
-        "url": "https://open.spotify.com/album/26r7BEpLvogzNadNhpR73H"
-      },
-      "artists": [
-        {
-          "name": "Matt Berry",
-          "url": "https://open.spotify.com/artist/0FIagKn8Ibj8ikj5VvTXto"
-        },
-        {
-          "name": "Emma Noble",
-          "url": "https://open.spotify.com/artist/0wKTCSORBOl42BQBahvy6g"
-        }
-      ],
-      "duration_ms": 177842,
-      "name": "Beatmaker",
-      "url": "https://open.spotify.com/track/2oXbBzR7XvLQDSxZumgsIN"
-    },
-    {
-      "added_at": "2022-07-14 19:24:43",
-      "album": {
-        "name": "Free Your Mind",
-        "url": "https://open.spotify.com/album/6egPdO2BtKte1CZpOd6Oxj"
-      },
-      "artists": [
-        {
-          "name": "Amnesty",
-          "url": "https://open.spotify.com/artist/13clnHtI56jEGjzqeD0Q1o"
-        }
-      ],
-      "duration_ms": 272733,
-      "name": "We Have Love",
-      "url": "https://open.spotify.com/track/4JW5zLMjI7JymdPrjo0UGh"
-    },
-    {
-      "added_at": "2022-07-14 19:24:43",
-      "album": {
         "name": "Eternal",
         "url": "https://open.spotify.com/album/59JNcEwaQUyC2xQzBJTHF9"
       },
@@ -803,6 +767,42 @@
       "duration_ms": 226920,
       "name": "All or Nothing",
       "url": "https://open.spotify.com/track/6jWFsJT5IYVKCJEQ55L29W"
+    },
+    {
+      "added_at": "2022-07-14 19:24:43",
+      "album": {
+        "name": "Free Your Mind",
+        "url": "https://open.spotify.com/album/6egPdO2BtKte1CZpOd6Oxj"
+      },
+      "artists": [
+        {
+          "name": "Amnesty",
+          "url": "https://open.spotify.com/artist/13clnHtI56jEGjzqeD0Q1o"
+        }
+      ],
+      "duration_ms": 272733,
+      "name": "We Have Love",
+      "url": "https://open.spotify.com/track/4JW5zLMjI7JymdPrjo0UGh"
+    },
+    {
+      "added_at": "2022-07-14 19:24:43",
+      "album": {
+        "name": "Beatmaker",
+        "url": "https://open.spotify.com/album/26r7BEpLvogzNadNhpR73H"
+      },
+      "artists": [
+        {
+          "name": "Matt Berry",
+          "url": "https://open.spotify.com/artist/0FIagKn8Ibj8ikj5VvTXto"
+        },
+        {
+          "name": "Emma Noble",
+          "url": "https://open.spotify.com/artist/0wKTCSORBOl42BQBahvy6g"
+        }
+      ],
+      "duration_ms": 177842,
+      "name": "Beatmaker",
+      "url": "https://open.spotify.com/track/2oXbBzR7XvLQDSxZumgsIN"
     },
     {
       "added_at": "2022-07-14 19:24:43",
@@ -1175,22 +1175,6 @@
     {
       "added_at": "2022-07-14 19:24:43",
       "album": {
-        "name": "Bon Voyage",
-        "url": "https://open.spotify.com/album/5NFauXmMJwlk20UOtkUWJh"
-      },
-      "artists": [
-        {
-          "name": "United Future Organization",
-          "url": "https://open.spotify.com/artist/0V4fAktrp2psvXpQb2KSWh"
-        }
-      ],
-      "duration_ms": 327133,
-      "name": "Good Luck Shore",
-      "url": "https://open.spotify.com/track/2hrJhwVInTOFaXcCuFzRl9"
-    },
-    {
-      "added_at": "2022-07-14 19:24:43",
-      "album": {
         "name": "Do You Want More?!!!??!",
         "url": "https://open.spotify.com/album/3N0wHnD5Rd8jnTUvNqOXGz"
       },
@@ -1203,6 +1187,22 @@
       "duration_ms": 220026,
       "name": "Datskat",
       "url": "https://open.spotify.com/track/0aadxOTgyCZL2ayA3GheH0"
+    },
+    {
+      "added_at": "2022-07-14 19:24:43",
+      "album": {
+        "name": "Bon Voyage",
+        "url": "https://open.spotify.com/album/5NFauXmMJwlk20UOtkUWJh"
+      },
+      "artists": [
+        {
+          "name": "United Future Organization",
+          "url": "https://open.spotify.com/artist/0V4fAktrp2psvXpQb2KSWh"
+        }
+      ],
+      "duration_ms": 327133,
+      "name": "Good Luck Shore",
+      "url": "https://open.spotify.com/track/2hrJhwVInTOFaXcCuFzRl9"
     },
     {
       "added_at": "2022-07-14 19:24:43",
@@ -1347,6 +1347,22 @@
     {
       "added_at": "2022-07-14 19:24:43",
       "album": {
+        "name": "Brass Construction",
+        "url": "https://open.spotify.com/album/4tBHzXGoN740Spk0oxUapV"
+      },
+      "artists": [
+        {
+          "name": "Brass Construction",
+          "url": "https://open.spotify.com/artist/5jWuVnPLmjABrgCGianzs9"
+        }
+      ],
+      "duration_ms": 494960,
+      "name": "Changin'",
+      "url": "https://open.spotify.com/track/1YJHxl53keKuB8QywSlFhb"
+    },
+    {
+      "added_at": "2022-07-14 19:24:43",
+      "album": {
         "name": "Azymuth: Outubro",
         "url": "https://open.spotify.com/album/6baaqatjoaHoivfzexDedw"
       },
@@ -1363,18 +1379,18 @@
     {
       "added_at": "2022-07-14 19:24:43",
       "album": {
-        "name": "Brass Construction",
-        "url": "https://open.spotify.com/album/4tBHzXGoN740Spk0oxUapV"
+        "name": "Dad Man Cat",
+        "url": "https://open.spotify.com/album/3jKJyvl0TGB6uLPlCoUClR"
       },
       "artists": [
         {
-          "name": "Brass Construction",
-          "url": "https://open.spotify.com/artist/5jWuVnPLmjABrgCGianzs9"
+          "name": "Corduroy",
+          "url": "https://open.spotify.com/artist/4ABvs5lSQ25f8fIJ1EHgyH"
         }
       ],
-      "duration_ms": 494960,
-      "name": "Changin'",
-      "url": "https://open.spotify.com/track/1YJHxl53keKuB8QywSlFhb"
+      "duration_ms": 265266,
+      "name": "Long Cool & Bubbly",
+      "url": "https://open.spotify.com/track/1R7t4fria7ZtUtFbRRbXSl"
     },
     {
       "added_at": "2022-07-14 19:24:43",
@@ -1395,22 +1411,6 @@
       "duration_ms": 319733,
       "name": "I Am The Black Gold Of The Sun",
       "url": "https://open.spotify.com/track/54xrXbM3vHE6JkVqkorRdG"
-    },
-    {
-      "added_at": "2022-07-14 19:24:43",
-      "album": {
-        "name": "Dad Man Cat",
-        "url": "https://open.spotify.com/album/3jKJyvl0TGB6uLPlCoUClR"
-      },
-      "artists": [
-        {
-          "name": "Corduroy",
-          "url": "https://open.spotify.com/artist/4ABvs5lSQ25f8fIJ1EHgyH"
-        }
-      ],
-      "duration_ms": 265266,
-      "name": "Long Cool & Bubbly",
-      "url": "https://open.spotify.com/track/1R7t4fria7ZtUtFbRRbXSl"
     },
     {
       "added_at": "2022-07-14 19:24:43",

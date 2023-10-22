@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2hEEH7Yc5Au.md) - [plain]
 
 > 一起來支持女性音樂人的精采表現！Cover: 鄭宜農 \(Enno Cheng\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,463 likes - 50 songs - 3 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,475 likes - 50 songs - 3 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2hEEH7Yc5Au.md) - [plain]
 | 49 | [我沒資格](https://open.spotify.com/track/4tNyEuD1Kr6kak324UcEgx) | [Jia Jia](https://open.spotify.com/artist/5qUYuf6cIHU241KxPyDMBp) | [為你的寂寞唱歌](https://open.spotify.com/album/1AqZM8bfxSUIeQKBtO85ix) | 4:08 |
 | 50 | [不藥而癒 \- 第三波](https://open.spotify.com/track/31VWgseQeMXzcNdOD4N9Xu) | [Claire Kuo](https://open.spotify.com/artist/6OiFtK426XJWnOJ2HYlSbf) | [下一個天亮](https://open.spotify.com/album/16uIFSrJsyKODQjFXtHTxj) | 4:32 |
 
-Snapshot ID: `MCwwNmE1YWM3ZTUxMjc1MDc3ZDQ1MjkwZWZkYzk1ZDk0YzUzNmMxZmY3`
+Snapshot ID: `MCxmZWFjOTY0NWQwMWE4YmE5OTI2YTNmZDQzZWQzZTZjNDEwMGU4OThh`

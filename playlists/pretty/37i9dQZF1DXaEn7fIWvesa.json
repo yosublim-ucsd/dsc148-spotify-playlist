@@ -1,12 +1,12 @@
 {
   "description": "A lo cubano \ud83d\udd25 Con Jacob Forever en portada.",
-  "num_followers": 3276,
+  "num_followers": 3317,
   "original_name": "Cubat\u00f3n Miami",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxYTNjMDA1ZWJiZjVjMzg4MDYzNjBlMzNiYjA2NWJjMjEzYjQzZTI1",
+  "snapshot_id": "MCwwNWZlODQ3ZDZhM2UwZmY1OGFiYzU0ZjBiYzA2OThhMDYzZjVmOWU3",
   "tracks": [
     {
       "added_at": "2023-10-13 04:01:00",
@@ -119,46 +119,6 @@
     {
       "added_at": "2023-10-13 04:01:00",
       "album": {
-        "name": "Por Ustedes (Pornosotros 2)",
-        "url": "https://open.spotify.com/album/4AUIf1raNLOOien1Gflynq"
-      },
-      "artists": [
-        {
-          "name": "Fixty Ordara y Ja Rulay",
-          "url": "https://open.spotify.com/artist/5NHJiPzOi1EFeCB8WBiVKH"
-        },
-        {
-          "name": "Wampi",
-          "url": "https://open.spotify.com/artist/31BgFzpxI5OFoq7R5xjtwf"
-        },
-        {
-          "name": "Wow Popy",
-          "url": "https://open.spotify.com/artist/6DwZmisccKHHGmMGnCn4yv"
-        }
-      ],
-      "duration_ms": 212038,
-      "name": "Por Ustedes (Pornosotros 2)",
-      "url": "https://open.spotify.com/track/1qR2WrGGfv9cagAxTaehlw"
-    },
-    {
-      "added_at": "2023-10-13 04:01:00",
-      "album": {
-        "name": "Pa Mi Gente",
-        "url": "https://open.spotify.com/album/3qDh0pss8FNO5MPjjJnHHG"
-      },
-      "artists": [
-        {
-          "name": "El Micha",
-          "url": "https://open.spotify.com/artist/0d7jzRhjOifL8X9hxNvbEn"
-        }
-      ],
-      "duration_ms": 197816,
-      "name": "A Perriar",
-      "url": "https://open.spotify.com/track/2xWVVYZmPsf7F6epXIrIbf"
-    },
-    {
-      "added_at": "2023-10-13 04:01:00",
-      "album": {
         "name": "Dicelo",
         "url": "https://open.spotify.com/album/65akUfK8vk8Nc4i6IM4igH"
       },
@@ -179,6 +139,46 @@
       "duration_ms": 153563,
       "name": "Dicelo",
       "url": "https://open.spotify.com/track/5asyOj4gG21a2pKzqBIMOk"
+    },
+    {
+      "added_at": "2023-10-13 04:01:00",
+      "album": {
+        "name": "Pa Mi Gente",
+        "url": "https://open.spotify.com/album/3qDh0pss8FNO5MPjjJnHHG"
+      },
+      "artists": [
+        {
+          "name": "El Micha",
+          "url": "https://open.spotify.com/artist/0d7jzRhjOifL8X9hxNvbEn"
+        }
+      ],
+      "duration_ms": 197816,
+      "name": "A Perriar",
+      "url": "https://open.spotify.com/track/2xWVVYZmPsf7F6epXIrIbf"
+    },
+    {
+      "added_at": "2023-10-13 04:01:00",
+      "album": {
+        "name": "Por Ustedes (Pornosotros 2)",
+        "url": "https://open.spotify.com/album/4AUIf1raNLOOien1Gflynq"
+      },
+      "artists": [
+        {
+          "name": "Fixty Ordara y Ja Rulay",
+          "url": "https://open.spotify.com/artist/5NHJiPzOi1EFeCB8WBiVKH"
+        },
+        {
+          "name": "Wampi",
+          "url": "https://open.spotify.com/artist/31BgFzpxI5OFoq7R5xjtwf"
+        },
+        {
+          "name": "Wow Popy",
+          "url": "https://open.spotify.com/artist/6DwZmisccKHHGmMGnCn4yv"
+        }
+      ],
+      "duration_ms": 212038,
+      "name": "Por Ustedes (Pornosotros 2)",
+      "url": "https://open.spotify.com/track/1qR2WrGGfv9cagAxTaehlw"
     },
     {
       "added_at": "2023-10-13 04:01:00",
@@ -415,22 +415,26 @@
     {
       "added_at": "2023-10-13 04:01:00",
       "album": {
-        "name": "Mi Mentirosa",
-        "url": "https://open.spotify.com/album/1R8C5PwffrAxmsv3JkEF8V"
+        "name": "Pornosotros",
+        "url": "https://open.spotify.com/album/0VIN822VobCM6QGwNlCRhx"
       },
       "artists": [
         {
-          "name": "Charly & Johayron",
-          "url": "https://open.spotify.com/artist/2QFzaQjpqjQBtvwZLVMdMG"
+          "name": "Wampi",
+          "url": "https://open.spotify.com/artist/31BgFzpxI5OFoq7R5xjtwf"
         },
         {
-          "name": "Ernesto Losa",
-          "url": "https://open.spotify.com/artist/74nlOfeYl09FVGJdX396zS"
+          "name": "Wow Popy",
+          "url": "https://open.spotify.com/artist/6DwZmisccKHHGmMGnCn4yv"
+        },
+        {
+          "name": "Fixty Ordara y Ja Rulay",
+          "url": "https://open.spotify.com/artist/5NHJiPzOi1EFeCB8WBiVKH"
         }
       ],
-      "duration_ms": 177900,
-      "name": "Mi Mentirosa - Prod. by Ernesto Losa",
-      "url": "https://open.spotify.com/track/3hAUj6jPytHP5t8hBT0M9i"
+      "duration_ms": 198058,
+      "name": "Pornosotros",
+      "url": "https://open.spotify.com/track/7DTnxzUjeho8NYE0IsoDw1"
     },
     {
       "added_at": "2023-10-13 04:01:00",
@@ -455,26 +459,22 @@
     {
       "added_at": "2023-10-13 04:01:00",
       "album": {
-        "name": "Pornosotros",
-        "url": "https://open.spotify.com/album/0VIN822VobCM6QGwNlCRhx"
+        "name": "Mi Mentirosa",
+        "url": "https://open.spotify.com/album/1R8C5PwffrAxmsv3JkEF8V"
       },
       "artists": [
         {
-          "name": "Wampi",
-          "url": "https://open.spotify.com/artist/31BgFzpxI5OFoq7R5xjtwf"
+          "name": "Charly & Johayron",
+          "url": "https://open.spotify.com/artist/2QFzaQjpqjQBtvwZLVMdMG"
         },
         {
-          "name": "Wow Popy",
-          "url": "https://open.spotify.com/artist/6DwZmisccKHHGmMGnCn4yv"
-        },
-        {
-          "name": "Fixty Ordara y Ja Rulay",
-          "url": "https://open.spotify.com/artist/5NHJiPzOi1EFeCB8WBiVKH"
+          "name": "Ernesto Losa",
+          "url": "https://open.spotify.com/artist/74nlOfeYl09FVGJdX396zS"
         }
       ],
-      "duration_ms": 198058,
-      "name": "Pornosotros",
-      "url": "https://open.spotify.com/track/7DTnxzUjeho8NYE0IsoDw1"
+      "duration_ms": 177900,
+      "name": "Mi Mentirosa - Prod. by Ernesto Losa",
+      "url": "https://open.spotify.com/track/3hAUj6jPytHP5t8hBT0M9i"
     },
     {
       "added_at": "2023-10-13 04:01:00",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 
 > All\-new releases by Latin artists! Cover: Kali Uchis
 
-[Spotify](https://open.spotify.com/user/spotify) - 581,668 likes - 50 songs - 2 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 581,773 likes - 50 songs - 2 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 | 49 | [CALLE](https://open.spotify.com/track/06UQliwLKbey1SdccPaSqO) | [Marley Waters](https://open.spotify.com/artist/7zfGuFhq0tipa6G6aHuMe0), [Jortha](https://open.spotify.com/artist/6Rjhdnh09thJHZQvQnJH9a) | [CALLE](https://open.spotify.com/album/0WXqaNMHF7pMEQpdQblFxy) | 1:45 |
 | 50 | [Los Fines de Semana](https://open.spotify.com/track/7rBXuya4uCZ0WXbX9RX8sT) | [La Dame Blanche](https://open.spotify.com/artist/6u4VjE5cKZRnY451pcfhbG) | [Los Fines de Semana](https://open.spotify.com/album/0239nPX0r342AlfkEidBHR) | 3:47 |
 
-Snapshot ID: `MCxiNDNhZTE5YzE2YmJmNDU3MGI4ZTg4YTczYTEwMDJjMjBiNjQ4NWYx`
+Snapshot ID: `MCw1YzhmNzU3M2JiMmY5MzliMTJiZGIxNjQxN2M3ZjNjMDk3Njc3ZWJk`

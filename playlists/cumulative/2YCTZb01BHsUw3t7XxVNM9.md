@@ -4,7 +4,7 @@
 
 > Western orientated Hardcore Music by Japanese Artists
 
-470 songs - 1 day 8 hr 56 min
+471 songs - 1 day 8 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -423,6 +423,7 @@
 | [The Rave](https://open.spotify.com/track/2BJaXlN33wELoLrbEddjIl) | [Massive New Krew](https://open.spotify.com/artist/1D3hV1Gke8LLRSn1aymglN) | [The Rave](https://open.spotify.com/album/1lPoCFrws4Jm8TaBzfwLtu) | 3:25 | 2023-04-07 |  |
 | [The Raw of Legions](https://open.spotify.com/track/61cgXdCTRYCFXZsPznsBRL) | [USAO](https://open.spotify.com/artist/25iPl8VJFDu38JMFF6uMXI) | [BREAKOUT WHITE](https://open.spotify.com/album/40EQpy2qLiK98J8yFIcBKz) | 5:32 | 2020-10-16 |  |
 | [The Rebel Trigger \(Official Gemeinschaft of Hardcore 2020 Anthem\)](https://open.spotify.com/track/2Vq1Nzb6dzvcBczsmna4rf) | [Aoi Sumito](https://open.spotify.com/artist/1LYxLNWGFFHFsV2022FIgi) | [The Rebel Trigger \(Official Gemeinschaft of Hardcore 2020 Anthem\)](https://open.spotify.com/album/2qm0fWdeQNkudDk4L9j6rb) | 4:29 | 2020-07-06 |  |
+| [The Rebellion of Phantom](https://open.spotify.com/track/75epRWAPKkQcnUUp9AzkUk) | [DJ Myosuke](https://open.spotify.com/artist/0GsEX8wr2fhu19PIwQh1oG), [Gram](https://open.spotify.com/artist/3WtLwZYH0N8mqSaUjEW1kF), [Valkyria](https://open.spotify.com/artist/6VBtv6VrmPo7gew0XeYsTc) | [The Rebellion of Phantom](https://open.spotify.com/album/4k11gYcrFxakAe1KUTgekq) | 3:09 | 2023-10-21 |  |
 | [The Sentence](https://open.spotify.com/track/2jr1eIbcU3sLrp1udG82RD) | [Engage Blue](https://open.spotify.com/artist/5CpOu1MCJ2yXG1pOAZITCI) | [Prophet of Doom](https://open.spotify.com/album/5VNlFNgoyCVjXqHTqzrQbl) | 5:48 | 2019-07-24 |  |
 | [The Testament](https://open.spotify.com/track/5z53RlJXMk8VY68NMp5ou0) | [6th](https://open.spotify.com/artist/1OC1dqSbe6zNiv0NBtODX1), [Discord](https://open.spotify.com/artist/2mZp7g32OHeQvBzEsiiUfv) | [The Abyss](https://open.spotify.com/album/6TOGQiD8Cx27SXnJvOfy4j) | 5:18 | 2020-02-24 |  |
 | [The Ultimate Challenge](https://open.spotify.com/track/4ybwlLbKz5Eu03JrH07o3W) | [Dischord](https://open.spotify.com/artist/5Em1ub39trbmoJ4nRYM8vS) | [The Best of Japanese Stream Hardcore](https://open.spotify.com/album/5uvGy8DZNQu6S3t03Zx614) | 4:11 | 2019-10-04 |  |

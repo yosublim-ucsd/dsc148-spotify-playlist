@@ -4,7 +4,7 @@
 
 > The home of Latin R&B\. La casa del R&B Latino\. Cover: Nicole Horts
 
-344 songs - 18 hr 7 min
+345 songs - 18 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -212,7 +212,7 @@
 | [mira bien](https://open.spotify.com/track/2WzziudaeI02xFL38R4qk9) | [Nana Mendoza](https://open.spotify.com/artist/0f5pXcaEX3mou3QLNTdVaA) | [mira bien](https://open.spotify.com/album/3xws9ugMCUibdGIVbrWIpg) | 3:44 | 2022-02-11 | 2023-01-24 |
 | [Miénteme](https://open.spotify.com/track/2Ach6TMHHih48PYNszSQzP) | [Junior Zamora](https://open.spotify.com/artist/1xbYDYZZRWQ0mG218SGVDQ) | [Miénteme](https://open.spotify.com/album/1LVpA6huMFTyjyplx8tQgD) | 2:38 | 2023-10-06 |  |
 | [Miénteme](https://open.spotify.com/track/0GBcdV6ebwVmOXijWZK3U2) | [SOULFIA](https://open.spotify.com/artist/1Q9Sx5tOmwems0qwLJZ5Cy) | [Miénteme](https://open.spotify.com/album/5uwGva3r6hhKZgfX14eI4w) | 3:24 | 2022-09-06 | 2023-05-13 |
-| [Modelo](https://open.spotify.com/track/0w9QFO4qIQd2Mik73UFFzS) | [Chicocurlyhead](https://open.spotify.com/artist/4EzUsFLITcQxDuuDeADaV1) | [Modelo](https://open.spotify.com/album/3xuuhHXA6iiKIbHOrM4GqD) | 2:40 | 2022-05-20 |  |
+| [Modelo](https://open.spotify.com/track/0w9QFO4qIQd2Mik73UFFzS) | [Chicocurlyhead](https://open.spotify.com/artist/4EzUsFLITcQxDuuDeADaV1) | [Modelo](https://open.spotify.com/album/3xuuhHXA6iiKIbHOrM4GqD) | 2:40 | 2022-05-20 | 2023-10-22 |
 | [Monte Carlo](https://open.spotify.com/track/0vV9YneKNzEEsAxQBFfOzp) | [Jesse Baez](https://open.spotify.com/artist/4rriNpL1lxpoysDDctWgl3) | [Amor En Español](https://open.spotify.com/album/1e8k4kAKtcC5GIjfP4JDdR) | 3:07 | 2022-09-06 |  |
 | [my future \- spanish version](https://open.spotify.com/track/38m0prhs1ExF3q6dQHTMCm) | [Maya](https://open.spotify.com/artist/7mUqcsNRIqgaLB8ZXJOg4Q) | [my future \(spanish version\)](https://open.spotify.com/album/5MwNfos4sRG3x31ahJAkPW) | 3:20 | 2022-02-11 | 2022-05-20 |
 | [Na Pa Ti \(feat\. Kofi\)](https://open.spotify.com/track/0BdFIT81iB6Irf3XjiBUjk) | [Immasoul](https://open.spotify.com/artist/21neefJLiFuSR6sQlHDblG), [Kofi](https://open.spotify.com/artist/2MjVr5NjCCoPSEkXnl92Ld) | [Na Pa Ti \(feat\. Kofi\)](https://open.spotify.com/album/3UefdYQA4lzyOOZ8SHFSyr) | 2:53 | 2022-05-06 | 2023-05-13 |
@@ -221,6 +221,7 @@
 | [nadie](https://open.spotify.com/track/3BFIZXcAyrUKPZ1eX8PEBY) | [Nicole Horts](https://open.spotify.com/artist/1PdyY069YiAkmKdnx6odux) | [estrella / nadie](https://open.spotify.com/album/7yHxJ0M0AmGms2zmg5AjR5) | 2:39 | 2023-10-06 |  |
 | [Nadie Más](https://open.spotify.com/track/0BvzoZ5Ybl1Rq9MFWiJWZp) | [Aldo Carpes](https://open.spotify.com/artist/6KOP9WgxzpC7hW1sEHgjdJ) | [Nadie Más](https://open.spotify.com/album/1AW4bjxaKeBCT2eYCqHy0d) | 3:23 | 2023-05-12 |  |
 | [Nadie Más](https://open.spotify.com/track/2gWN7hIUWkNR6aBBIE7tLG) | [Tiago PZK](https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1) | [Portales](https://open.spotify.com/album/5KKcchRuyjfuLkecyRJcWx) | 2:35 | 2022-09-06 |  |
+| [Nadie Nos Entiende](https://open.spotify.com/track/1NBLwD8aj37OfbnkBZuwxc) | [KURT](https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI), [Willy Rodríguez](https://open.spotify.com/artist/4PXThoWa6Eg0a1Cui7KJee) | [Nadie Nos Entiende](https://open.spotify.com/album/2qZ4zsYYzMmThZMXHGc8Ms) | 3:37 | 2023-10-06 |  |
 | [Nela](https://open.spotify.com/track/1E1TL6lHV2jwnuqRbzSAKx) | [LATENIGHTJIGGY](https://open.spotify.com/artist/34OTRVwyaE8DkOrGMQa7Ah) | [Nela](https://open.spotify.com/album/4nf0rIuMZG82HUKYWCzzID) | 2:43 | 2022-07-18 | 2023-05-06 |
 | [Ni Verte](https://open.spotify.com/track/4fID9Ebm9kK8D4SGZLz0Hg) | [MATAHONEY](https://open.spotify.com/artist/24qtxSIhOdH3vlGiqO8sBt), [Luqo](https://open.spotify.com/artist/0bSeMRiKgDwHur64WIOodN) | [Ni Verte](https://open.spotify.com/album/5JJsHeFcN9wIXe34cISJOS) | 3:03 | 2022-02-11 | 2022-07-29 |
 | [Nico Valdi produciendo a Juli Martorell](https://open.spotify.com/track/12TqKfJ54Sv6qamEwWiOa2) | [Nico Valdi](https://open.spotify.com/artist/0uxYECT7XqHNccQAg5Uhe4), [Juli Martorell](https://open.spotify.com/artist/4dUFF4VrbkRpQmJ9fO5fVV) | [Nico Valdi produciendo a Juli Martorell](https://open.spotify.com/album/0a3SDR3HFeSpzhCdNBZxaS) | 2:44 | 2023-05-12 | 2023-10-07 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6OgmB2fwLGd.md) - [plain]
 
 > The soundtrack to the internet\. Cover: Cash Cobain
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,393,616 likes - 100 songs - 4 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,393,593 likes - 100 songs - 4 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -75,7 +75,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6OgmB2fwLGd.md) - [plain]
 | 65 | [melanin](https://open.spotify.com/track/00GgVbUzNfwknUJN0XSuh1) | [wolfacejoeyy](https://open.spotify.com/artist/7LjXznzJeKuvjRbNcBWd6Z) | [22Joeyy](https://open.spotify.com/album/3rDrOvwAlhgk3xxvsJz0Ja) | 2:20 |
 | 66 | [First Day Out \(Freestyle\)](https://open.spotify.com/track/7AtQxohgEu5dRYdcY4gB6G) | [Rundown Spaz](https://open.spotify.com/artist/4W7fxKwDR9luCrOryB3GVK) | [First Day Out \(Freestyle\)](https://open.spotify.com/album/0qGQiQTv8KPSgdK5K2hz1u) | 2:22 |
 | 67 | [Quite Frankly \(with Luh Tyler & Trapland Pat\)](https://open.spotify.com/track/6jSC6HQdTrDMobpRciFYvq) | [BLP KOSHER](https://open.spotify.com/artist/6w60ExNMjs0gd4ioh7GMRI), [Luh Tyler](https://open.spotify.com/artist/1K15GRZZATsCJyGJ4bYiEz), [Trapland Pat](https://open.spotify.com/artist/6qvfzsfzCPEpVfY2EuqUQZ) | [Bars Mitzvah](https://open.spotify.com/album/77iWKhQsnPv2ceYGWZ4TMS) | 3:00 |
-| 68 | [PAMPER PAMPER](https://open.spotify.com/track/6RZeZKaJfK1su5TdM6hWir) | [Dro Kenji](https://open.spotify.com/artist/46fHMu9KxdQwcGV9xI1L9R), [Mike Dimes](https://open.spotify.com/artist/6rIaHuCIUu32uj2CjlEBN3) | [WISH YOU WERE HERE](https://open.spotify.com/album/6H565RedLjINKxrjk1RBz6) | 1:52 |
+| 68 | [PAMPER PAMPER](https://open.spotify.com/track/10Ov8KUvheyNHKlCBK5VLd) | [Dro Kenji](https://open.spotify.com/artist/46fHMu9KxdQwcGV9xI1L9R), [Mike Dimes](https://open.spotify.com/artist/6rIaHuCIUu32uj2CjlEBN3) | [WISH YOU WERE HERE](https://open.spotify.com/album/0PxvbdJQowxgtKBhNJAMep) | 1:52 |
 | 69 | [CRAZY GIRL P2 \(feat\. YoungBoy Never Broke Again\)](https://open.spotify.com/track/1MoxBQxwPAiQKlRQ4BV9MB) | [Bktherula](https://open.spotify.com/artist/6OjtkJDlAZzlzAydEn78cK), [YoungBoy Never Broke Again](https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b) | [CRAZY GIRL P2 \(feat\. YoungBoy Never Broke Again\)](https://open.spotify.com/album/0i6aioaKcPI1Nw9Jm3p8Yz) | 3:02 |
 | 70 | [American Psycho](https://open.spotify.com/track/1ovWpT2RfxpbUFdpMS59zQ) | [Dom Corleo](https://open.spotify.com/artist/6nFBSlEb2tkIOH3YtIIw6F), [Yung Kayo](https://open.spotify.com/artist/7J0hrNYCO5DgAx0XaRJqkh) | [On My Own \(Deluxe\)](https://open.spotify.com/album/1KA7agrK3iHj1yd3eY74nP) | 2:58 |
 | 71 | [Turn Your Phone Off](https://open.spotify.com/track/6htWGNhskc5f0Xke88Vn5z) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t), [Destroy Lonely](https://open.spotify.com/artist/1HPW4jeRjXBFRoUnSvBzoD) | [Turn Your Phone Off](https://open.spotify.com/album/2vumYq4zWRAEYa3f0567CL) | 2:56 |
@@ -91,7 +91,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6OgmB2fwLGd.md) - [plain]
 | 81 | [Looking For The Hoes \(Ain’t My Fault\)](https://open.spotify.com/track/4LadsagnXZM7SEOpHjHIHA) | [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A) | [Hood Hottest Princess](https://open.spotify.com/album/6uoGeT623i76TwlgYFfe42) | 2:10 |
 | 82 | [MMM HMM \(feat\. Sexyy Red\)](https://open.spotify.com/track/0KK6oylgSBhXglGZQL61y0) | [Lancey Foux](https://open.spotify.com/artist/2LakckgvXEtJlKOYP6BO11), [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A) | [MMM HMM \(feat\. Sexyy Red\)](https://open.spotify.com/album/6mIpyaTHgDgQbgZwWALgHI) | 2:38 |
 | 83 | [BABY I'M HOME \(w/ Kanii & 9lives\)](https://open.spotify.com/track/34lGv6KdMFWZtsvvVcnp8S) | [Odetari](https://open.spotify.com/artist/7ITMCzIU9uII8gwRg8JAhc), [Kanii](https://open.spotify.com/artist/1S82w4yw9TYIHZ889mPPaW), [9lives](https://open.spotify.com/artist/2MQN1o9W3ULxdT38vj8g4Q) | [BABY I'M HOME \(w/ Kanii & 9lives\)](https://open.spotify.com/album/4O7irFDDsdS9tYUaiVnO2H) | 3:28 |
-| 84 | [KRUSTY KREW ANTHEM \(BACK ON THE GRILL\)](https://open.spotify.com/track/7KbcPfcBMquaJGf4BVesOv) | [Kash Krabs](https://open.spotify.com/artist/2p7jmj2D8qdDkM0dkHXhWP), [Oddwin](https://open.spotify.com/artist/2nLKb5KOTjny5GUxbR8doa), [Sauceward](https://open.spotify.com/artist/56J1JQFJpRFSVdMftVtJjv) | [The Krusty Pack](https://open.spotify.com/album/1jBNhLA91c4XVAEhUtsELd) | 1:52 |
+| 84 | [KRUSTY KREW ANTHEM \(BACK ON THE GRILL\)](https://open.spotify.com/track/2lBm6toXTg5vyqgGkwRmKx) | [Kash Krabs](https://open.spotify.com/artist/2p7jmj2D8qdDkM0dkHXhWP), [Oddwin](https://open.spotify.com/artist/2nLKb5KOTjny5GUxbR8doa), [Sauceward](https://open.spotify.com/artist/56J1JQFJpRFSVdMftVtJjv) | [The Krusty Pack](https://open.spotify.com/album/30usiZ0nf9JCMxn9ABDFU6) | 1:52 |
 | 85 | [TADA](https://open.spotify.com/track/2cXeUYMss6hflg9hSZHePD) | [Unghetto](https://open.spotify.com/artist/4a0UMM2QrKP5ESk1P8373s) | [TADA](https://open.spotify.com/album/6jGsvxeVlhZziD1iHC2M3m) | 1:25 |
 | 86 | [Make A Mess](https://open.spotify.com/track/3MoCeDRquwHSzZRqqvaw57) | [Sugarhill Ddot](https://open.spotify.com/artist/63X7mnpy2kfkDtltarrWD1) | [Make A Mess](https://open.spotify.com/album/4QrnccACWPDraCUtRKK2Yg) | 1:26 |
 | 87 | [IN THIS \(feat\. Cash Cobain\)](https://open.spotify.com/track/6B22fN7OoE3zGKcM6CrKtv) | [FLEE](https://open.spotify.com/artist/0kvDb0sP1IM6XSQ8ZBi20p), [Cash Cobain](https://open.spotify.com/artist/2R0CFyeMDiRbfkhkIMbyl1) | [IN THIS \(feat\. Cash Cobain\)](https://open.spotify.com/album/3N9nENhwITwssTP88KMxl3) | 2:36 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6OgmB2fwLGd.md) - [plain]
 | 99 | [First Things First](https://open.spotify.com/track/7DFTrjG8Y4uNSUGj8bfLMR) | [Kodie Shane](https://open.spotify.com/artist/1CUeN4GnHAGUk9nAXPorF4) | [First Things First](https://open.spotify.com/album/7vC8AyFxSAN0qPQwE4RxBm) | 1:46 |
 | 100 | [Imagine](https://open.spotify.com/track/1OXBgL6v7PbBlsW04YTqHr) | [yvngxchris](https://open.spotify.com/artist/2qB0DlFsQOpNh0bdMCJLwr) | [Imagine](https://open.spotify.com/album/3eE3jvTL3vFOXQuVlXM1sr) | 2:32 |
 
-Snapshot ID: `MCwxNzQ5NzI2M2IwY2RmODU5NzM1MjYwZjc5OTM2Zjc5NTllYjE5NmM2`
+Snapshot ID: `MCw5ZTBjZDAzZmFiNGU2MzhjNDM4ZjNiYWQzYTJlZDZiOTAwMTAzZDhj`

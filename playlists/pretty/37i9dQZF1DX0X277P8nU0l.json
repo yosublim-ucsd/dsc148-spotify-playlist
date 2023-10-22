@@ -1,15 +1,151 @@
 {
   "description": "Un caf\u00e9, un croissant et c\u2018est parti pour une bonne journ\u00e9e.",
-  "num_followers": 213948,
+  "num_followers": 213984,
   "original_name": "Caf\u00e9 Croissant",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiZjRlMWM4NDU5NWY0ZjFhMDIwZThhNWIyMDM3MTMzYzlhZTZkOGU2",
+  "snapshot_id": "MCxhMDI4Y2FmMTlhZmMyNDYyM2UxZDgwYmFiNmI2YTJiOGFhNWZiMThm",
   "tracks": [
     {
-      "added_at": "2023-10-19 22:00:00",
+      "added_at": "2023-10-21 18:06:45",
+      "album": {
+        "name": "Letting Go",
+        "url": "https://open.spotify.com/album/6i9Q0J3gdMhjra2NRrb5B4"
+      },
+      "artists": [
+        {
+          "name": "Hollow Coves",
+          "url": "https://open.spotify.com/artist/7IAFAOtc9kTYNTizhLSWM6"
+        }
+      ],
+      "duration_ms": 209680,
+      "name": "Letting Go",
+      "url": "https://open.spotify.com/track/5PTZ3ef9lHE6YJqxp9nhh9"
+    },
+    {
+      "added_at": "2023-10-21 18:06:45",
+      "album": {
+        "name": "Turn Away / Place of Our Own",
+        "url": "https://open.spotify.com/album/6OTbYfVBmE2mCrbiVerqql"
+      },
+      "artists": [
+        {
+          "name": "Later.",
+          "url": "https://open.spotify.com/artist/1f5I47xuO3sDZm0hQ8y0nq"
+        }
+      ],
+      "duration_ms": 226647,
+      "name": "Turn Away",
+      "url": "https://open.spotify.com/track/7JsEd9FxQJ5rKvPpbZgLMK"
+    },
+    {
+      "added_at": "2023-10-21 18:06:45",
+      "album": {
+        "name": "Aliocha Schneider",
+        "url": "https://open.spotify.com/album/5wSrUAHl9x25A4w0wXpJLO"
+      },
+      "artists": [
+        {
+          "name": "Aliocha Schneider",
+          "url": "https://open.spotify.com/artist/186IEnMYqWBPOAFn78wTPB"
+        }
+      ],
+      "duration_ms": 158613,
+      "name": "Julia",
+      "url": "https://open.spotify.com/track/7wOiVecTrFnimS9bpnWJcS"
+    },
+    {
+      "added_at": "2023-10-21 18:06:45",
+      "album": {
+        "name": "Sandhills",
+        "url": "https://open.spotify.com/album/1ZTd9cM6FPWW4ZP0qUwhpF"
+      },
+      "artists": [
+        {
+          "name": "Toro y Moi",
+          "url": "https://open.spotify.com/artist/6O4EGCCb6DoIiR6B1QCQgp"
+        }
+      ],
+      "duration_ms": 205546,
+      "name": "Sidelines",
+      "url": "https://open.spotify.com/track/4mMviz9DJKLPyfhxpQIBcW"
+    },
+    {
+      "added_at": "2023-10-21 18:06:45",
+      "album": {
+        "name": "A Night To Remember",
+        "url": "https://open.spotify.com/album/73wBVA41AulgjGiL3rBwfe"
+      },
+      "artists": [
+        {
+          "name": "beabadoobee",
+          "url": "https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB"
+        },
+        {
+          "name": "Laufey",
+          "url": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
+        }
+      ],
+      "duration_ms": 233388,
+      "name": "A Night To Remember",
+      "url": "https://open.spotify.com/track/180AbZduI6bYQIzwCHRwu9"
+    },
+    {
+      "added_at": "2023-10-21 18:06:45",
+      "album": {
+        "name": "Bettye Swann",
+        "url": "https://open.spotify.com/album/1oHCwJLBDoKDOfdznsRjNs"
+      },
+      "artists": [
+        {
+          "name": "Bettye Swann",
+          "url": "https://open.spotify.com/artist/0g3EsNvUCwgpsdkAiIC50W"
+        }
+      ],
+      "duration_ms": 223053,
+      "name": "Little Things Mean A Lot",
+      "url": "https://open.spotify.com/track/221XgJXCVkZ1ERPyfO3OlO"
+    },
+    {
+      "added_at": "2023-10-21 18:06:45",
+      "album": {
+        "name": "Sailing",
+        "url": "https://open.spotify.com/album/4JC0wgDAIou1Q0005eCXb4"
+      },
+      "artists": [
+        {
+          "name": "Benny Sings",
+          "url": "https://open.spotify.com/artist/4gHcu2JoaXJ0mV4aNPCd7N"
+        }
+      ],
+      "duration_ms": 205673,
+      "name": "Sailing",
+      "url": "https://open.spotify.com/track/5BhlE0di2Qeey289ECk9IF"
+    },
+    {
+      "added_at": "2023-10-21 18:06:45",
+      "album": {
+        "name": "Sleeper",
+        "url": "https://open.spotify.com/album/49ssk5poFZAKoOJcj7PpsD"
+      },
+      "artists": [
+        {
+          "name": "BADBADNOTGOOD",
+          "url": "https://open.spotify.com/artist/65dGLGjkw3UbddUg2GKQoZ"
+        },
+        {
+          "name": "Charlotte Day Wilson",
+          "url": "https://open.spotify.com/artist/3GQboECxDT1xqPPWC30p7v"
+        }
+      ],
+      "duration_ms": 244271,
+      "name": "Sleeper",
+      "url": "https://open.spotify.com/track/5UWJ898JHDe9Ong9Gnkdhd"
+    },
+    {
+      "added_at": "2023-10-21 18:06:45",
       "album": {
         "name": "Gypsy Woman",
         "url": "https://open.spotify.com/album/5VzSfeb30ZJPPlxaganX9u"
@@ -33,143 +169,7 @@
       "url": "https://open.spotify.com/track/5Xex2XN8l1dOLwaXwmdyHX"
     },
     {
-      "added_at": "2023-10-19 22:00:00",
-      "album": {
-        "name": "A Night To Remember",
-        "url": "https://open.spotify.com/album/73wBVA41AulgjGiL3rBwfe"
-      },
-      "artists": [
-        {
-          "name": "beabadoobee",
-          "url": "https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB"
-        },
-        {
-          "name": "Laufey",
-          "url": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
-        }
-      ],
-      "duration_ms": 233388,
-      "name": "A Night To Remember",
-      "url": "https://open.spotify.com/track/180AbZduI6bYQIzwCHRwu9"
-    },
-    {
-      "added_at": "2023-10-19 22:00:00",
-      "album": {
-        "name": "Turn Away / Place of Our Own",
-        "url": "https://open.spotify.com/album/6OTbYfVBmE2mCrbiVerqql"
-      },
-      "artists": [
-        {
-          "name": "Later.",
-          "url": "https://open.spotify.com/artist/1f5I47xuO3sDZm0hQ8y0nq"
-        }
-      ],
-      "duration_ms": 226647,
-      "name": "Turn Away",
-      "url": "https://open.spotify.com/track/7JsEd9FxQJ5rKvPpbZgLMK"
-    },
-    {
-      "added_at": "2023-10-19 22:00:00",
-      "album": {
-        "name": "Aliocha Schneider",
-        "url": "https://open.spotify.com/album/5wSrUAHl9x25A4w0wXpJLO"
-      },
-      "artists": [
-        {
-          "name": "Aliocha Schneider",
-          "url": "https://open.spotify.com/artist/186IEnMYqWBPOAFn78wTPB"
-        }
-      ],
-      "duration_ms": 158613,
-      "name": "Julia",
-      "url": "https://open.spotify.com/track/7wOiVecTrFnimS9bpnWJcS"
-    },
-    {
-      "added_at": "2023-10-19 22:00:00",
-      "album": {
-        "name": "Letting Go",
-        "url": "https://open.spotify.com/album/6i9Q0J3gdMhjra2NRrb5B4"
-      },
-      "artists": [
-        {
-          "name": "Hollow Coves",
-          "url": "https://open.spotify.com/artist/7IAFAOtc9kTYNTizhLSWM6"
-        }
-      ],
-      "duration_ms": 209680,
-      "name": "Letting Go",
-      "url": "https://open.spotify.com/track/5PTZ3ef9lHE6YJqxp9nhh9"
-    },
-    {
-      "added_at": "2023-10-19 22:00:00",
-      "album": {
-        "name": "Sandhills",
-        "url": "https://open.spotify.com/album/1ZTd9cM6FPWW4ZP0qUwhpF"
-      },
-      "artists": [
-        {
-          "name": "Toro y Moi",
-          "url": "https://open.spotify.com/artist/6O4EGCCb6DoIiR6B1QCQgp"
-        }
-      ],
-      "duration_ms": 205546,
-      "name": "Sidelines",
-      "url": "https://open.spotify.com/track/4mMviz9DJKLPyfhxpQIBcW"
-    },
-    {
-      "added_at": "2023-10-19 22:00:00",
-      "album": {
-        "name": "Bettye Swann",
-        "url": "https://open.spotify.com/album/1oHCwJLBDoKDOfdznsRjNs"
-      },
-      "artists": [
-        {
-          "name": "Bettye Swann",
-          "url": "https://open.spotify.com/artist/0g3EsNvUCwgpsdkAiIC50W"
-        }
-      ],
-      "duration_ms": 223053,
-      "name": "Little Things Mean A Lot",
-      "url": "https://open.spotify.com/track/221XgJXCVkZ1ERPyfO3OlO"
-    },
-    {
-      "added_at": "2023-10-19 22:00:00",
-      "album": {
-        "name": "Sailing",
-        "url": "https://open.spotify.com/album/4JC0wgDAIou1Q0005eCXb4"
-      },
-      "artists": [
-        {
-          "name": "Benny Sings",
-          "url": "https://open.spotify.com/artist/4gHcu2JoaXJ0mV4aNPCd7N"
-        }
-      ],
-      "duration_ms": 205673,
-      "name": "Sailing",
-      "url": "https://open.spotify.com/track/5BhlE0di2Qeey289ECk9IF"
-    },
-    {
-      "added_at": "2023-10-19 22:00:00",
-      "album": {
-        "name": "Sleeper",
-        "url": "https://open.spotify.com/album/49ssk5poFZAKoOJcj7PpsD"
-      },
-      "artists": [
-        {
-          "name": "BADBADNOTGOOD",
-          "url": "https://open.spotify.com/artist/65dGLGjkw3UbddUg2GKQoZ"
-        },
-        {
-          "name": "Charlotte Day Wilson",
-          "url": "https://open.spotify.com/artist/3GQboECxDT1xqPPWC30p7v"
-        }
-      ],
-      "duration_ms": 244271,
-      "name": "Sleeper",
-      "url": "https://open.spotify.com/track/5UWJ898JHDe9Ong9Gnkdhd"
-    },
-    {
-      "added_at": "2023-10-19 22:00:00",
+      "added_at": "2023-10-21 18:06:45",
       "album": {
         "name": "Sweet Craving",
         "url": "https://open.spotify.com/album/2PZF0TA03SBBbOfhOblsJv"
@@ -185,7 +185,7 @@
       "url": "https://open.spotify.com/track/6ORy3dG0eRQgfprk0MjjGp"
     },
     {
-      "added_at": "2023-10-19 22:00:00",
+      "added_at": "2023-10-21 18:06:45",
       "album": {
         "name": "Simply Paradise",
         "url": "https://open.spotify.com/album/4NKglcnKOsi2uFYJOSGkUM"
@@ -205,7 +205,7 @@
       "url": "https://open.spotify.com/track/1EKpwGoisV5nUOqqMZ7gAJ"
     },
     {
-      "added_at": "2023-10-19 22:00:00",
+      "added_at": "2023-10-21 18:06:45",
       "album": {
         "name": "Before We Step Inside",
         "url": "https://open.spotify.com/album/4nXC12lYgRlswGeLUumBJb"
@@ -221,7 +221,7 @@
       "url": "https://open.spotify.com/track/6bxfwQ5z8qe2uoEOiO35YG"
     },
     {
-      "added_at": "2023-10-19 22:00:00",
+      "added_at": "2023-10-21 18:06:45",
       "album": {
         "name": "The Hardest Part (feat. Leon Bridges)",
         "url": "https://open.spotify.com/album/74vEZ35YylZD5SAxjLDsZz"
@@ -241,7 +241,7 @@
       "url": "https://open.spotify.com/track/1fXALB3kb14ngMRGNdV5wD"
     },
     {
-      "added_at": "2023-10-19 22:00:00",
+      "added_at": "2023-10-21 18:06:45",
       "album": {
         "name": "Leisurevision",
         "url": "https://open.spotify.com/album/7GjS4SK8fvJFWfvlRw2jtU"
@@ -261,7 +261,7 @@
       "url": "https://open.spotify.com/track/1owRyKsNTVQcLQuLbXclcH"
     },
     {
-      "added_at": "2023-10-19 22:00:00",
+      "added_at": "2023-10-21 18:06:45",
       "album": {
         "name": "Change My World",
         "url": "https://open.spotify.com/album/6F9BgRBsbKk53qIVocDQGP"
@@ -277,7 +277,7 @@
       "url": "https://open.spotify.com/track/2BAXiNtNY5e482p9fyL46v"
     },
     {
-      "added_at": "2023-10-19 22:00:00",
+      "added_at": "2023-10-21 18:06:45",
       "album": {
         "name": "Teach Me",
         "url": "https://open.spotify.com/album/1G5PjW6Cy80XPTmyRr2nyv"
@@ -293,7 +293,7 @@
       "url": "https://open.spotify.com/track/69C61BkstEREBdizQrgbQi"
     },
     {
-      "added_at": "2023-10-19 22:00:00",
+      "added_at": "2023-10-21 18:06:45",
       "album": {
         "name": "J\u00faJ\u00fa & The Flowerbug",
         "url": "https://open.spotify.com/album/2PXP673QHx50WTC2Tu7KPF"
@@ -309,7 +309,7 @@
       "url": "https://open.spotify.com/track/2fvzuOmOYZJWSXFur49qQn"
     },
     {
-      "added_at": "2023-10-19 22:00:00",
+      "added_at": "2023-10-21 18:06:45",
       "album": {
         "name": "Bill LaBounty",
         "url": "https://open.spotify.com/album/7aPh03VcoR5N96qC6odwS2"
@@ -325,7 +325,7 @@
       "url": "https://open.spotify.com/track/0lwHorTzvh8D4pQaWFYqnn"
     },
     {
-      "added_at": "2023-10-19 22:00:00",
+      "added_at": "2023-10-21 18:06:45",
       "album": {
         "name": "Hideaway",
         "url": "https://open.spotify.com/album/0wi0YD4YslP4u8GBvlqWNG"
@@ -341,7 +341,7 @@
       "url": "https://open.spotify.com/track/7shWFWckY9KfesurTuUHkR"
     },
     {
-      "added_at": "2023-10-19 22:00:00",
+      "added_at": "2023-10-21 18:06:45",
       "album": {
         "name": "Uh",
         "url": "https://open.spotify.com/album/3L1yuiFJh0ylDphqb8JKFt"
@@ -357,7 +357,7 @@
       "url": "https://open.spotify.com/track/4O2kPvcDfNAJbCA2Lc8l3D"
     },
     {
-      "added_at": "2023-10-19 22:00:00",
+      "added_at": "2023-10-21 18:06:45",
       "album": {
         "name": "My Big Day",
         "url": "https://open.spotify.com/album/038nwIuL7EFF8sqKvsH7RO"
@@ -377,7 +377,7 @@
       "url": "https://open.spotify.com/track/3ROgWZzcpQ0y8k67PzlbBC"
     },
     {
-      "added_at": "2023-10-19 22:00:00",
+      "added_at": "2023-10-21 18:06:45",
       "album": {
         "name": "The Land Is Inhospitable and So Are We",
         "url": "https://open.spotify.com/album/2Cn1d2KgbkAqbZCJ1RzdkA"
@@ -393,7 +393,7 @@
       "url": "https://open.spotify.com/track/3vkCueOmm7xQDoJ17W1Pm3"
     },
     {
-      "added_at": "2023-10-19 22:00:00",
+      "added_at": "2023-10-21 18:06:45",
       "album": {
         "name": "STRUGGLER",
         "url": "https://open.spotify.com/album/1mzWBk8fzEEMumcy5IuVcf"
@@ -409,7 +409,7 @@
       "url": "https://open.spotify.com/track/4KXd5UAFuHok5tfUXBP2fQ"
     },
     {
-      "added_at": "2023-10-19 22:00:00",
+      "added_at": "2023-10-21 18:06:45",
       "album": {
         "name": "Zach Bryan",
         "url": "https://open.spotify.com/album/6PbnGueEO6LGodPfvNldYf"
@@ -429,7 +429,7 @@
       "url": "https://open.spotify.com/track/4KULAymBBJcPRpk1yO4dOG"
     },
     {
-      "added_at": "2023-10-19 22:00:00",
+      "added_at": "2023-10-21 18:06:45",
       "album": {
         "name": "The Lost Petals",
         "url": "https://open.spotify.com/album/4YbgMvlvGC8FjzkSOLGgWC"
@@ -445,7 +445,7 @@
       "url": "https://open.spotify.com/track/1exDZN0zsfDpsIKamOqmSz"
     },
     {
-      "added_at": "2023-10-19 22:00:00",
+      "added_at": "2023-10-21 18:06:45",
       "album": {
         "name": "peanut butter",
         "url": "https://open.spotify.com/album/3tWrgOY80POwFvOrmbeS8t"
@@ -461,7 +461,7 @@
       "url": "https://open.spotify.com/track/49QepkimWyBVatAvHHAzQ0"
     },
     {
-      "added_at": "2023-10-19 22:00:00",
+      "added_at": "2023-10-21 18:06:45",
       "album": {
         "name": "folklore",
         "url": "https://open.spotify.com/album/2fenSS68JI1h4Fo296JfGr"
@@ -477,7 +477,7 @@
       "url": "https://open.spotify.com/track/3hUxzQpSfdDqwM3ZTFQY0K"
     },
     {
-      "added_at": "2023-10-19 22:00:00",
+      "added_at": "2023-10-21 18:06:45",
       "album": {
         "name": "Free (feat. Tom Misch)",
         "url": "https://open.spotify.com/album/4eoxzgxqIHsMd44siCY4lg"
@@ -497,7 +497,7 @@
       "url": "https://open.spotify.com/track/01wXY7C3ywHBMKmj3f31EB"
     },
     {
-      "added_at": "2023-10-19 22:00:00",
+      "added_at": "2023-10-21 18:06:45",
       "album": {
         "name": "& the Charm",
         "url": "https://open.spotify.com/album/6gRl7N6UQKKmXCv3nhYlMu"
@@ -513,7 +513,7 @@
       "url": "https://open.spotify.com/track/2vYd15dPYelxBESvyviVbf"
     },
     {
-      "added_at": "2023-10-19 22:00:00",
+      "added_at": "2023-10-21 18:06:45",
       "album": {
         "name": "False Lights From the Land EP",
         "url": "https://open.spotify.com/album/2eswYuox4Rj1UKy40yUGDp"
@@ -529,7 +529,7 @@
       "url": "https://open.spotify.com/track/4tNTYxKPa8yWpoxpBEueIF"
     },
     {
-      "added_at": "2023-10-19 22:00:00",
+      "added_at": "2023-10-21 18:06:45",
       "album": {
         "name": "Layover",
         "url": "https://open.spotify.com/album/7ixOAT89NSsgUITYc5ByB5"
@@ -545,7 +545,7 @@
       "url": "https://open.spotify.com/track/5h1BN75CEh8wdSwE1xrbSe"
     },
     {
-      "added_at": "2023-10-19 22:00:00",
+      "added_at": "2023-10-21 18:06:45",
       "album": {
         "name": "Back In Love",
         "url": "https://open.spotify.com/album/6QqRF5zCtaC7QxClwaGUDf"
@@ -561,7 +561,7 @@
       "url": "https://open.spotify.com/track/20aysL9kYxvNPuSWEzh8pl"
     },
     {
-      "added_at": "2023-10-19 22:00:00",
+      "added_at": "2023-10-21 18:06:45",
       "album": {
         "name": "Walk of Fire",
         "url": "https://open.spotify.com/album/0K21lLIS1d13QlL5jhHgi3"
@@ -577,7 +577,7 @@
       "url": "https://open.spotify.com/track/2HG5pRpERRJ2wbln73lvLS"
     },
     {
-      "added_at": "2023-10-19 22:00:00",
+      "added_at": "2023-10-21 18:06:45",
       "album": {
         "name": "Differences Aside",
         "url": "https://open.spotify.com/album/60hjoFRYc1Q1wnFMGXQmlg"
@@ -593,7 +593,7 @@
       "url": "https://open.spotify.com/track/0olICfJFNxKfPeZtNgPa7G"
     },
     {
-      "added_at": "2023-10-19 22:00:00",
+      "added_at": "2023-10-21 18:06:45",
       "album": {
         "name": "angeleyes",
         "url": "https://open.spotify.com/album/75iHw0qBQ8xJWpkwlOMafE"
@@ -613,7 +613,7 @@
       "url": "https://open.spotify.com/track/0OFsazXhclEqk8JVNE12xl"
     },
     {
-      "added_at": "2023-10-19 22:00:00",
+      "added_at": "2023-10-21 18:06:45",
       "album": {
         "name": "Love Is Alive",
         "url": "https://open.spotify.com/album/6crsCEK6qj2PmK00pETlAK"
@@ -633,7 +633,7 @@
       "url": "https://open.spotify.com/track/65Tyq0mmbLzayumvoK6Ixw"
     },
     {
-      "added_at": "2023-10-19 22:00:00",
+      "added_at": "2023-10-21 18:06:45",
       "album": {
         "name": "Free",
         "url": "https://open.spotify.com/album/1aM7FK3fr3L00Y3q79TXns"
@@ -649,7 +649,7 @@
       "url": "https://open.spotify.com/track/0yyTUTW3QCekpMvFJi3f2f"
     },
     {
-      "added_at": "2023-10-19 22:00:00",
+      "added_at": "2023-10-21 18:06:45",
       "album": {
         "name": "Alice, Gloria and Jon",
         "url": "https://open.spotify.com/album/1eL3olLqqX6J1wwMyx8WqB"
@@ -665,7 +665,7 @@
       "url": "https://open.spotify.com/track/6aopZlCfVFWLD4syXG9Hj7"
     },
     {
-      "added_at": "2023-10-19 22:00:00",
+      "added_at": "2023-10-21 18:06:45",
       "album": {
         "name": "Mystical Magical Rhythmical Radical Ride",
         "url": "https://open.spotify.com/album/0ct2cPZ49xWrgqTWk2P6Mx"
@@ -681,7 +681,7 @@
       "url": "https://open.spotify.com/track/0pJ3NjNJkDcEpHQDLB8Nc4"
     },
     {
-      "added_at": "2023-10-19 22:00:00",
+      "added_at": "2023-10-21 18:06:45",
       "album": {
         "name": "Wondrous Place",
         "url": "https://open.spotify.com/album/2otVcTMllFwg2QW6paGMmF"
@@ -697,7 +697,7 @@
       "url": "https://open.spotify.com/track/0oXJQ8CyDcQJXASZiCSNGa"
     },
     {
-      "added_at": "2023-10-19 22:00:00",
+      "added_at": "2023-10-21 18:06:45",
       "album": {
         "name": "Variables",
         "url": "https://open.spotify.com/album/0sW6bNCjzPlrJM100nIST6"
@@ -717,7 +717,7 @@
       "url": "https://open.spotify.com/track/0gQbyxRhcMI8SM4eMZpSZF"
     },
     {
-      "added_at": "2023-10-19 22:00:00",
+      "added_at": "2023-10-21 18:06:45",
       "album": {
         "name": "Heaven Is a Junkyard",
         "url": "https://open.spotify.com/album/2ORI4KGuGYO14sxdwbmOBY"
@@ -733,7 +733,7 @@
       "url": "https://open.spotify.com/track/6zOy33O1PzuGWzDnjsfXLe"
     },
     {
-      "added_at": "2023-10-19 22:00:00",
+      "added_at": "2023-10-21 18:06:45",
       "album": {
         "name": "Stay",
         "url": "https://open.spotify.com/album/7yP4Il1RMSvzNBxKFUPuoj"
@@ -749,7 +749,7 @@
       "url": "https://open.spotify.com/track/5QnArCvhVH3TqZGuhwycRV"
     },
     {
-      "added_at": "2023-10-19 22:00:00",
+      "added_at": "2023-10-21 18:06:45",
       "album": {
         "name": "YUMA",
         "url": "https://open.spotify.com/album/2vWf2mPJe2KIsQxyEmablS"
@@ -765,7 +765,7 @@
       "url": "https://open.spotify.com/track/1VYWPQx1sOyByTKTOARHZs"
     },
     {
-      "added_at": "2023-10-19 22:00:00",
+      "added_at": "2023-10-21 18:06:45",
       "album": {
         "name": "Country Gyal",
         "url": "https://open.spotify.com/album/6bn8dl0EeKUP3HlEhkg5r6"
@@ -781,7 +781,7 @@
       "url": "https://open.spotify.com/track/5TVL1BMpJeXiDxm74LWVBb"
     },
     {
-      "added_at": "2023-10-19 22:00:00",
+      "added_at": "2023-10-21 18:06:45",
       "album": {
         "name": "Sun in June",
         "url": "https://open.spotify.com/album/5a0Rd79ItpxfDC3eHTMtmO"
@@ -797,7 +797,7 @@
       "url": "https://open.spotify.com/track/5X33CqotQWpIYvC5XTTpGS"
     },
     {
-      "added_at": "2023-10-19 22:00:00",
+      "added_at": "2023-10-21 18:06:45",
       "album": {
         "name": "As Pr\u00f3prias",
         "url": "https://open.spotify.com/album/2zZYrq3CG38VCaPcw4nexA"
@@ -825,7 +825,7 @@
       "url": "https://open.spotify.com/track/172Z2U5yabNbrxY9AArzy5"
     },
     {
-      "added_at": "2023-10-19 22:00:00",
+      "added_at": "2023-10-21 18:06:45",
       "album": {
         "name": "Columbo",
         "url": "https://open.spotify.com/album/77ecNwHIYZfoOSgQ1FMSAS"
@@ -841,7 +841,7 @@
       "url": "https://open.spotify.com/track/26WZOTF738D3bR4t27zlkL"
     },
     {
-      "added_at": "2023-10-19 22:00:00",
+      "added_at": "2023-10-21 18:06:45",
       "album": {
         "name": "Pegasus (ft. Phoebe Bridgers)",
         "url": "https://open.spotify.com/album/0gsw4flnfCrEqGr16ACAoQ"
@@ -861,7 +861,7 @@
       "url": "https://open.spotify.com/track/2oZH5jrlSr0sFWoiIymVHh"
     },
     {
-      "added_at": "2023-10-19 22:00:00",
+      "added_at": "2023-10-21 18:06:45",
       "album": {
         "name": "Messy",
         "url": "https://open.spotify.com/album/5YlBA1tCY0M8DDs75RB2LY"

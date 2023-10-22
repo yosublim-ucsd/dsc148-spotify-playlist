@@ -1,12 +1,12 @@
 {
   "description": "Kick back  and soak up the warm and soothing tones of jazz and electronic.",
-  "num_followers": 31066,
+  "num_followers": 31110,
   "original_name": "lush",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmNmU1OGUyMjRiODEzZTE4ODI0YWYyNDI0M2NhYjYyY2RmMjU3ZmUy",
+  "snapshot_id": "MCwxZmY0ZDNkYzg5MGRmY2E3MTlhNWRhODQ1NzVjNzE4MmQ0NWFmMTlj",
   "tracks": [
     {
       "added_at": "2021-10-08 17:36:35",
@@ -367,26 +367,6 @@
     {
       "added_at": "2021-10-08 17:36:35",
       "album": {
-        "name": "Rye Lane Vol. 1",
-        "url": "https://open.spotify.com/album/5rjE3dz41m5JeNhDtq7Ahh"
-      },
-      "artists": [
-        {
-          "name": "Al Dobson Jr.",
-          "url": "https://open.spotify.com/artist/3YOthLzFPTgp0fEtLRUoES"
-        },
-        {
-          "name": "Reginald Omas Mamode",
-          "url": "https://open.spotify.com/artist/5f6KVvbRDEzdb6zTNVpYZy"
-        }
-      ],
-      "duration_ms": 132864,
-      "name": "Nankoo on Keys",
-      "url": "https://open.spotify.com/track/4VImgRabUMMuNYftIVN3Go"
-    },
-    {
-      "added_at": "2021-10-08 17:36:35",
-      "album": {
         "name": "Yardley Suite",
         "url": "https://open.spotify.com/album/6GYzn93otdQDLDrlHx3mSX"
       },
@@ -403,18 +383,22 @@
     {
       "added_at": "2021-10-08 17:36:35",
       "album": {
-        "name": "Brothers",
-        "url": "https://open.spotify.com/album/5bwIx6VKlV0nrPtjEM09xo"
+        "name": "Rye Lane Vol. 1",
+        "url": "https://open.spotify.com/album/5rjE3dz41m5JeNhDtq7Ahh"
       },
       "artists": [
         {
-          "name": "Harvey Sutherland",
-          "url": "https://open.spotify.com/artist/4CxFlJDif0atTK3gZebcEf"
+          "name": "Al Dobson Jr.",
+          "url": "https://open.spotify.com/artist/3YOthLzFPTgp0fEtLRUoES"
+        },
+        {
+          "name": "Reginald Omas Mamode",
+          "url": "https://open.spotify.com/artist/5f6KVvbRDEzdb6zTNVpYZy"
         }
       ],
-      "duration_ms": 376960,
-      "name": "Bamboo",
-      "url": "https://open.spotify.com/track/0tj5lFNJMzGKoQMY5uafU2"
+      "duration_ms": 132864,
+      "name": "Nankoo on Keys",
+      "url": "https://open.spotify.com/track/4VImgRabUMMuNYftIVN3Go"
     },
     {
       "added_at": "2021-10-08 17:36:35",
@@ -439,6 +423,22 @@
       "duration_ms": 464182,
       "name": "Buya - Da Capo Remix",
       "url": "https://open.spotify.com/track/4OezP9SDdFDOkANm9qdXYt"
+    },
+    {
+      "added_at": "2021-10-08 17:36:35",
+      "album": {
+        "name": "Brothers",
+        "url": "https://open.spotify.com/album/5bwIx6VKlV0nrPtjEM09xo"
+      },
+      "artists": [
+        {
+          "name": "Harvey Sutherland",
+          "url": "https://open.spotify.com/artist/4CxFlJDif0atTK3gZebcEf"
+        }
+      ],
+      "duration_ms": 376960,
+      "name": "Bamboo",
+      "url": "https://open.spotify.com/track/0tj5lFNJMzGKoQMY5uafU2"
     },
     {
       "added_at": "2021-10-08 17:36:35",
@@ -591,22 +591,6 @@
     {
       "added_at": "2021-10-08 17:36:35",
       "album": {
-        "name": "Highlife World Series: Cuba",
-        "url": "https://open.spotify.com/album/5H7bXAW9DD4rhFsVcFInkE"
-      },
-      "artists": [
-        {
-          "name": "Auntie Flo",
-          "url": "https://open.spotify.com/artist/6XYOjW5wxf5V9hwAR58o4d"
-        }
-      ],
-      "duration_ms": 356313,
-      "name": "Mother Theresa - Original Mix",
-      "url": "https://open.spotify.com/track/59IQ2oXNWFyoNJmISYjj7I"
-    },
-    {
-      "added_at": "2021-10-08 17:36:35",
-      "album": {
         "name": "See-Line Woman",
         "url": "https://open.spotify.com/album/1tFCA00rZrSeGHA208PfVY"
       },
@@ -627,18 +611,18 @@
     {
       "added_at": "2021-10-08 17:36:35",
       "album": {
-        "name": "Cleo",
-        "url": "https://open.spotify.com/album/1peRsBvuNWGMgEcwj1lx0K"
+        "name": "Highlife World Series: Cuba",
+        "url": "https://open.spotify.com/album/5H7bXAW9DD4rhFsVcFInkE"
       },
       "artists": [
         {
-          "name": "Charlotte Dos Santos",
-          "url": "https://open.spotify.com/artist/0INatsTiEOX0EJimNTQjSM"
+          "name": "Auntie Flo",
+          "url": "https://open.spotify.com/artist/6XYOjW5wxf5V9hwAR58o4d"
         }
       ],
-      "duration_ms": 191240,
-      "name": "Move On",
-      "url": "https://open.spotify.com/track/390VumD1uSnfGvyB0NmjKe"
+      "duration_ms": 356313,
+      "name": "Mother Theresa - Original Mix",
+      "url": "https://open.spotify.com/track/59IQ2oXNWFyoNJmISYjj7I"
     },
     {
       "added_at": "2021-10-08 17:36:35",
@@ -655,6 +639,38 @@
       "duration_ms": 224500,
       "name": "A Place With A View - Edit",
       "url": "https://open.spotify.com/track/1IhvRUOUbCK3RAyj2zCgYM"
+    },
+    {
+      "added_at": "2021-10-08 17:36:35",
+      "album": {
+        "name": "Cleo",
+        "url": "https://open.spotify.com/album/1peRsBvuNWGMgEcwj1lx0K"
+      },
+      "artists": [
+        {
+          "name": "Charlotte Dos Santos",
+          "url": "https://open.spotify.com/artist/0INatsTiEOX0EJimNTQjSM"
+        }
+      ],
+      "duration_ms": 191240,
+      "name": "Move On",
+      "url": "https://open.spotify.com/track/390VumD1uSnfGvyB0NmjKe"
+    },
+    {
+      "added_at": "2021-10-08 17:36:35",
+      "album": {
+        "name": "Black Focus",
+        "url": "https://open.spotify.com/album/6pDAh84nyNU7x3xje9G03I"
+      },
+      "artists": [
+        {
+          "name": "Yussef Kamaal",
+          "url": "https://open.spotify.com/artist/710FHFQeXKC6dZGCxt7kQh"
+        }
+      ],
+      "duration_ms": 239480,
+      "name": "Yo Chavez",
+      "url": "https://open.spotify.com/track/7bufLy1mTp5ckluqJdDptX"
     },
     {
       "added_at": "2021-10-08 17:36:35",
@@ -679,38 +695,6 @@
     {
       "added_at": "2021-10-08 17:36:35",
       "album": {
-        "name": "Black Focus",
-        "url": "https://open.spotify.com/album/6pDAh84nyNU7x3xje9G03I"
-      },
-      "artists": [
-        {
-          "name": "Yussef Kamaal",
-          "url": "https://open.spotify.com/artist/710FHFQeXKC6dZGCxt7kQh"
-        }
-      ],
-      "duration_ms": 239480,
-      "name": "Yo Chavez",
-      "url": "https://open.spotify.com/track/7bufLy1mTp5ckluqJdDptX"
-    },
-    {
-      "added_at": "2021-10-08 17:36:35",
-      "album": {
-        "name": "The Return",
-        "url": "https://open.spotify.com/album/0XKj7L2flZPg2i7efBZT2N"
-      },
-      "artists": [
-        {
-          "name": "Kamaal Williams",
-          "url": "https://open.spotify.com/artist/01mXk9IDlVczWwZvVHAiIS"
-        }
-      ],
-      "duration_ms": 513226,
-      "name": "Salaam",
-      "url": "https://open.spotify.com/track/6Z6lYo8cyciwEU6goSrM0L"
-    },
-    {
-      "added_at": "2021-10-08 17:36:35",
-      "album": {
         "name": "The Jerusalem EP's",
         "url": "https://open.spotify.com/album/4C7ElGvtR8zpI19ixN8Y8G"
       },
@@ -727,18 +711,18 @@
     {
       "added_at": "2021-10-08 17:36:35",
       "album": {
-        "name": "Radio Highlife",
-        "url": "https://open.spotify.com/album/40LZ3m0pQOrEjEggY5Hm0T"
+        "name": "The Return",
+        "url": "https://open.spotify.com/album/0XKj7L2flZPg2i7efBZT2N"
       },
       "artists": [
         {
-          "name": "Auntie Flo",
-          "url": "https://open.spotify.com/artist/6XYOjW5wxf5V9hwAR58o4d"
+          "name": "Kamaal Williams",
+          "url": "https://open.spotify.com/artist/01mXk9IDlVczWwZvVHAiIS"
         }
       ],
-      "duration_ms": 221813,
-      "name": "Isbj\u00f8rn",
-      "url": "https://open.spotify.com/track/4aXOm1VINrpS06azxb7DaW"
+      "duration_ms": 513226,
+      "name": "Salaam",
+      "url": "https://open.spotify.com/track/6Z6lYo8cyciwEU6goSrM0L"
     },
     {
       "added_at": "2021-10-08 17:36:35",
@@ -799,6 +783,22 @@
       "duration_ms": 342591,
       "name": "Eye Mo K",
       "url": "https://open.spotify.com/track/6o5bke7Cp481elgM8eTenO"
+    },
+    {
+      "added_at": "2021-10-08 17:36:35",
+      "album": {
+        "name": "Radio Highlife",
+        "url": "https://open.spotify.com/album/40LZ3m0pQOrEjEggY5Hm0T"
+      },
+      "artists": [
+        {
+          "name": "Auntie Flo",
+          "url": "https://open.spotify.com/artist/6XYOjW5wxf5V9hwAR58o4d"
+        }
+      ],
+      "duration_ms": 221813,
+      "name": "Isbj\u00f8rn",
+      "url": "https://open.spotify.com/track/4aXOm1VINrpS06azxb7DaW"
     },
     {
       "added_at": "2021-10-08 17:36:35",

@@ -4,7 +4,7 @@
 
 > Cool beats for homework time!
 
-697 songs - 1 day 2 hr 21 min
+698 songs - 1 day 2 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -80,7 +80,8 @@
 | [Blue Moon Boys](https://open.spotify.com/track/0OkPqjJ4mJNZZbcwW1pzzv) | [Ryu Riders](https://open.spotify.com/artist/6fFCaxTslIKjpEj3pGB4B8) | [Blue Moon Boys](https://open.spotify.com/album/6fTZl1fGfyGQx88rUCWOaJ) | 2:54 | 2023-09-22 |  |
 | [Blue Sea 青海](https://open.spotify.com/track/35OwBONfwjJhCxW9qFmchn) | [d.w.h](https://open.spotify.com/artist/2Mv14rolxu9z56WEkPIhZd) | [Blue Sea 青海](https://open.spotify.com/album/55TGNY8X961qgEkWzSvwI0) | 1:59 | 2023-10-06 |  |
 | [Blue Sky](https://open.spotify.com/track/0FOde8zqSfkBbmIToMoE2K) | [WO Hoos](https://open.spotify.com/artist/2nGaqTZqJmnUMVxWJpsatL) | [Blue Sky](https://open.spotify.com/album/2AhfQhDu2hdIqgrD7LlHCx) | 2:07 | 2023-10-06 |  |
-| [Blunotte](https://open.spotify.com/track/7xJ9d7j9fcB2czQyPbLyhy) | [Koralle](https://open.spotify.com/artist/3OW3qK7Wl9ESAGLvjVOw2h), [FloFilz](https://open.spotify.com/artist/39ZQx0618UYVBgGTDOJ2ds) | [Blunotte](https://open.spotify.com/album/5U5C9RGGsnUR5okigKTANF) | 2:22 | 2023-09-22 |  |
+| [Blunotte](https://open.spotify.com/track/425HNsoUUAUGNPFbPZuyE2) | [Koralle](https://open.spotify.com/artist/3OW3qK7Wl9ESAGLvjVOw2h), [FloFilz](https://open.spotify.com/artist/39ZQx0618UYVBgGTDOJ2ds) | [Insomnia](https://open.spotify.com/album/0B79D0ahoTfJSul9Gx7SIJ) | 2:22 | 2023-10-19 |  |
+| [Blunotte](https://open.spotify.com/track/7xJ9d7j9fcB2czQyPbLyhy) | [Koralle](https://open.spotify.com/artist/3OW3qK7Wl9ESAGLvjVOw2h), [FloFilz](https://open.spotify.com/artist/39ZQx0618UYVBgGTDOJ2ds) | [Blunotte](https://open.spotify.com/album/5U5C9RGGsnUR5okigKTANF) | 2:22 | 2023-09-22 | 2023-10-22 |
 | [Blvck Kat](https://open.spotify.com/track/0Iu9uuTyFis6muasxFY7cV) | [lowerkaze](https://open.spotify.com/artist/7HjuawVefxsnyB9JVrJQcA) | [Blvck Kat](https://open.spotify.com/album/2sWYPBDHAKJNm8XxsZkLU9) | 3:16 | 2023-10-06 |  |
 | [Bonsai](https://open.spotify.com/track/0JS2nQBvx8JDpNadPPlqNb) | [Clifford](https://open.spotify.com/artist/2yS9Ixr0a7wHxb0dpEvc2j), [dennisivnvc](https://open.spotify.com/artist/03sYI7Ckj5JOq6cYowPUmo), [Anton](https://open.spotify.com/artist/7crM3nBmCpsIrBUOCpo6jA) | [Bonsai](https://open.spotify.com/album/5zWHDrWb8dBqMyJrebpqMU) | 2:15 | 2023-09-22 |  |
 | [Bread & Butter](https://open.spotify.com/track/5MMoO7EoigWtou55ex6E9F) | [Flying Demond](https://open.spotify.com/artist/6RBGmg9yokIH4mEaoPABJd) | [Bread & Butter](https://open.spotify.com/album/6n8P5Kc8jHe75JUCuaSr9A) | 1:24 | 2023-09-22 |  |

@@ -2968,7 +2968,7 @@
       ],
       "date_added": "2023-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-22",
       "duration_ms": 173720,
       "name": "Redlight (feat. Teezo Touchdown)",
       "url": "https://open.spotify.com/track/7mcYosmfRFxXJN3hwwNXnL"
@@ -3286,6 +3286,24 @@
       "duration_ms": 177373,
       "name": "Speeddance",
       "url": "https://open.spotify.com/track/1gdO3q99cYhaFg3WaP27JQ"
+    },
+    {
+      "album": {
+        "name": "Speedracer",
+        "url": "https://open.spotify.com/album/6iYJWiUGoeuKN3tlZBlyE4"
+      },
+      "artists": [
+        {
+          "name": "Teenage Dads",
+          "url": "https://open.spotify.com/artist/0GEHcYh6naBVfaLKy7CEhw"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178348,
+      "name": "Speedracer",
+      "url": "https://open.spotify.com/track/5NZFQfsInH8LasOfEZVsfm"
     },
     {
       "album": {

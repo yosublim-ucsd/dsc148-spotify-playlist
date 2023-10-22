@@ -4,7 +4,7 @@
 
 > Let's go!
 
-218 songs - 12 hr 44 min
+219 songs - 12 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -170,7 +170,7 @@
 | [Playing Games](https://open.spotify.com/track/7bt0EnhjElN4bw3K1KwIkU) | [Anna of the North](https://open.spotify.com/artist/1mSJCvDX0W7Dn7S9C6vmvI) | [Dream Girl](https://open.spotify.com/album/5zn3hu6uk2DVnPF5yWfw0H) | 3:23 | 2022-03-31 | 2022-11-23 |
 | [Playing Games](https://open.spotify.com/track/5WGgVeqKNZ70ynPooQjCQc) | [Anna of the North](https://open.spotify.com/artist/1mSJCvDX0W7Dn7S9C6vmvI) | [Playing Games](https://open.spotify.com/album/5Cq4adPbTsSlDessVaWwNj) | 3:24 | 2022-01-21 | 2022-07-29 |
 | [Pumpin Blood](https://open.spotify.com/track/7ti4qMC7xYQeh1uRzj5XuM) | [NONONO](https://open.spotify.com/artist/513t0jZUP0K98C4h7KHtEb) | [We Are Only What We Feel](https://open.spotify.com/album/58z2Nvab8wcQNs0n4J3GNZ) | 3:29 | 2022-01-21 |  |
-| [Redlight \(feat\. Teezo Touchdown\)](https://open.spotify.com/track/7mcYosmfRFxXJN3hwwNXnL) | [BETWEEN FRIENDS](https://open.spotify.com/artist/2HkSsS8O2U2gPhnCGVN5vn), [Teezo Touchdown](https://open.spotify.com/artist/0fGcIStdT1OpFFhOC7Wp36) | [Redlight \(feat\. Teezo Touchdown\)](https://open.spotify.com/album/7u7KN63awFeiDCfk9dq1xm) | 2:53 | 2023-05-17 |  |
+| [Redlight \(feat\. Teezo Touchdown\)](https://open.spotify.com/track/7mcYosmfRFxXJN3hwwNXnL) | [BETWEEN FRIENDS](https://open.spotify.com/artist/2HkSsS8O2U2gPhnCGVN5vn), [Teezo Touchdown](https://open.spotify.com/artist/0fGcIStdT1OpFFhOC7Wp36) | [Redlight \(feat\. Teezo Touchdown\)](https://open.spotify.com/album/7u7KN63awFeiDCfk9dq1xm) | 2:53 | 2023-05-17 | 2023-10-22 |
 | [Safe And Sound](https://open.spotify.com/track/6Z8R6UsFuGXGtiIxiD8ISb) | [Capital Cities](https://open.spotify.com/artist/4gwpcMTbLWtBUlOijbVpuu) | [In A Tidal Wave Of Mystery \(Deluxe Edition\)](https://open.spotify.com/album/3WrufJir7I61NkvkDwxero) | 3:12 | 2022-01-21 | 2023-01-21 |
 | [Say](https://open.spotify.com/track/32hD3POkNZACMsLv5AknlA) | [DIVES](https://open.spotify.com/artist/5ipYqUgaCT1OQGPhAzZAn0) | [Say](https://open.spotify.com/album/0ZuBYs6IC82qO0cofP1ULZ) | 3:26 | 2022-09-30 | 2022-11-13 |
 | [Say It \(feat\. Tove Lo\)](https://open.spotify.com/track/4sQMalN597HdggTu196aL0) | [Flume](https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer), [Tove Lo](https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK) | [Skin](https://open.spotify.com/album/6VHCF8ykDo3STafE5JfMAs) | 4:22 | 2022-01-21 | 2022-04-21 |
@@ -188,6 +188,7 @@
 | [Soundcheck](https://open.spotify.com/track/60W7Co2AoP5VVG5Gwu6p5P) | [Catfish and the Bottlemen](https://open.spotify.com/artist/2xaAOVImG2O6lURwqperlD) | [The Ride](https://open.spotify.com/album/07IHAhsG4FnnfHQSb3bbAZ) | 4:21 | 2022-01-21 |  |
 | [Speak Loud](https://open.spotify.com/track/6irQlJurQFK1OqKun57XUq) | [I'm Not a Blonde](https://open.spotify.com/artist/2kYPuOngkMzjFdCl4dz8EO) | [Speak Loud](https://open.spotify.com/album/7IPQgTmojnOGuVESJbNwny) | 4:23 | 2022-03-11 | 2022-07-29 |
 | [Speeddance](https://open.spotify.com/track/1gdO3q99cYhaFg3WaP27JQ) | [Reptile Youth](https://open.spotify.com/artist/0XoZwt2DsmzVvOe5GRSYDC) | [Reptile Youth](https://open.spotify.com/album/70diW1bHdn1h7FUvjz7W2o) | 2:57 | 2022-03-16 | 2022-11-13 |
+| [Speedracer](https://open.spotify.com/track/5NZFQfsInH8LasOfEZVsfm) | [Teenage Dads](https://open.spotify.com/artist/0GEHcYh6naBVfaLKy7CEhw) | [Speedracer](https://open.spotify.com/album/6iYJWiUGoeuKN3tlZBlyE4) | 2:58 | 2023-06-09 |  |
 | [Take It or Leave It](https://open.spotify.com/track/7LeIYh4gDj5l8mJ7kNsHIv) | [Great Good Fine Ok](https://open.spotify.com/artist/422RLznpwUa5FsQgnTlgUH) | [Take It or Leave It](https://open.spotify.com/album/73MbtLT9YW5OjklHAOg9a9) | 3:03 | 2022-01-21 | 2023-05-18 |
 | [Talk Your Mind](https://open.spotify.com/track/20krpapUhjjte9bIXJKOaZ) | [Riscas](https://open.spotify.com/artist/6C6cCRdINVR9zbGmuYaRij) | [Talk Your Mind](https://open.spotify.com/album/5EE9LUuLoKeR5kEsb9tpIs) | 2:47 | 2022-01-21 | 2022-07-29 |
 | [Talk Your Mind](https://open.spotify.com/track/3yfI1O9gzffOZdfkVfZ5uC) | [Riscas](https://open.spotify.com/artist/6C6cCRdINVR9zbGmuYaRij) | [Talk Your Mind](https://open.spotify.com/album/56PmhQn0A6maAwgKhLjojZ) | 2:49 | 2022-03-31 | 2023-05-17 |

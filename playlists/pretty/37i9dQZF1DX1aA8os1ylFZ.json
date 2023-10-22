@@ -1,12 +1,12 @@
 {
   "description": "get into your feels with some r&b magic",
-  "num_followers": 238155,
+  "num_followers": 238227,
   "original_name": "R&B Magic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0ZjJlOGMxNmEyODAxYjI4ODIwMGUzNThkOGFiODJiMjg4NDFmMGM5",
+  "snapshot_id": "MCwzYmJkZjg0OWRlNTFlNTFjZDcwYzBlYTAyNWRmZmY1N2UyZmVjN2Fi",
   "tracks": [
     {
       "added_at": "2023-10-12 22:00:00",
@@ -643,22 +643,6 @@
     {
       "added_at": "2023-10-12 22:00:00",
       "album": {
-        "name": "Heartbreak & Other Stories",
-        "url": "https://open.spotify.com/album/3ZND79VBwdSp1g9jUndMXU"
-      },
-      "artists": [
-        {
-          "name": "Richie Campbell",
-          "url": "https://open.spotify.com/artist/2swvbEAfN70ZFcQB4Y7MaS"
-        }
-      ],
-      "duration_ms": 164706,
-      "name": "Heartless",
-      "url": "https://open.spotify.com/track/1q4F4KfUNY4nDkuHDVLQya"
-    },
-    {
-      "added_at": "2023-10-12 22:00:00",
-      "album": {
         "name": "Bestie",
         "url": "https://open.spotify.com/album/6kRPeBs9unh27QfKtYy0GE"
       },
@@ -671,6 +655,22 @@
       "duration_ms": 174545,
       "name": "Bestie",
       "url": "https://open.spotify.com/track/0O3oO62iQhp16xX0Z7lqNW"
+    },
+    {
+      "added_at": "2023-10-12 22:00:00",
+      "album": {
+        "name": "Heartbreak & Other Stories",
+        "url": "https://open.spotify.com/album/3ZND79VBwdSp1g9jUndMXU"
+      },
+      "artists": [
+        {
+          "name": "Richie Campbell",
+          "url": "https://open.spotify.com/artist/2swvbEAfN70ZFcQB4Y7MaS"
+        }
+      ],
+      "duration_ms": 164706,
+      "name": "Heartless",
+      "url": "https://open.spotify.com/track/1q4F4KfUNY4nDkuHDVLQya"
     },
     {
       "added_at": "2023-10-12 22:00:00",
@@ -1131,22 +1131,6 @@
     {
       "added_at": "2023-10-12 22:00:00",
       "album": {
-        "name": "Save Me, Pt. 2",
-        "url": "https://open.spotify.com/album/5x2Jk0WaGbKFjFB1HtAu8F"
-      },
-      "artists": [
-        {
-          "name": "Neema Nekesa",
-          "url": "https://open.spotify.com/artist/3hkQvRtfUiRaZRK3gBsIOI"
-        }
-      ],
-      "duration_ms": 151569,
-      "name": "Save Me, Pt. 2",
-      "url": "https://open.spotify.com/track/3ZxOiRrYY7h9BIE552XeOW"
-    },
-    {
-      "added_at": "2023-10-12 22:00:00",
-      "album": {
         "name": "Rise",
         "url": "https://open.spotify.com/album/21GSzeC5WsPl6HpRZkYHRU"
       },
@@ -1159,6 +1143,22 @@
       "duration_ms": 170129,
       "name": "Rise",
       "url": "https://open.spotify.com/track/7lEUWRaF6TKaoVOptL4U4E"
+    },
+    {
+      "added_at": "2023-10-12 22:00:00",
+      "album": {
+        "name": "Save Me, Pt. 2",
+        "url": "https://open.spotify.com/album/5x2Jk0WaGbKFjFB1HtAu8F"
+      },
+      "artists": [
+        {
+          "name": "Neema Nekesa",
+          "url": "https://open.spotify.com/artist/3hkQvRtfUiRaZRK3gBsIOI"
+        }
+      ],
+      "duration_ms": 151569,
+      "name": "Save Me, Pt. 2",
+      "url": "https://open.spotify.com/track/3ZxOiRrYY7h9BIE552XeOW"
     },
     {
       "added_at": "2023-10-12 22:00:00",
@@ -1255,26 +1255,6 @@
     {
       "added_at": "2023-10-12 22:00:00",
       "album": {
-        "name": "Ride with You",
-        "url": "https://open.spotify.com/album/6Ugju3J2yU7PfOk0nSAkBF"
-      },
-      "artists": [
-        {
-          "name": "Neema Nekesa",
-          "url": "https://open.spotify.com/artist/3hkQvRtfUiRaZRK3gBsIOI"
-        },
-        {
-          "name": "Mike Tibbert",
-          "url": "https://open.spotify.com/artist/0mL0tWGTYQkUqh2wVy6o75"
-        }
-      ],
-      "duration_ms": 164793,
-      "name": "Ride with You",
-      "url": "https://open.spotify.com/track/0pwGmwNir2jkqhWhBu9WqB"
-    },
-    {
-      "added_at": "2023-10-12 22:00:00",
-      "album": {
         "name": "Just Expectationz",
         "url": "https://open.spotify.com/album/4fuHL63s4VtjWQLy5QqlTa"
       },
@@ -1291,6 +1271,26 @@
       "duration_ms": 228877,
       "name": "Just Expectationz",
       "url": "https://open.spotify.com/track/10GbMfN6Bt4V9k1blNBjzz"
+    },
+    {
+      "added_at": "2023-10-12 22:00:00",
+      "album": {
+        "name": "Ride with You",
+        "url": "https://open.spotify.com/album/6Ugju3J2yU7PfOk0nSAkBF"
+      },
+      "artists": [
+        {
+          "name": "Neema Nekesa",
+          "url": "https://open.spotify.com/artist/3hkQvRtfUiRaZRK3gBsIOI"
+        },
+        {
+          "name": "Mike Tibbert",
+          "url": "https://open.spotify.com/artist/0mL0tWGTYQkUqh2wVy6o75"
+        }
+      ],
+      "duration_ms": 164793,
+      "name": "Ride with You",
+      "url": "https://open.spotify.com/track/0pwGmwNir2jkqhWhBu9WqB"
     },
     {
       "added_at": "2023-10-12 22:00:00",
@@ -1367,22 +1367,6 @@
     {
       "added_at": "2023-10-12 22:00:00",
       "album": {
-        "name": "hoe bedoel je?",
-        "url": "https://open.spotify.com/album/4CN04dChYLqFWOaSDhtOG3"
-      },
-      "artists": [
-        {
-          "name": "Danny Dubb",
-          "url": "https://open.spotify.com/artist/1ZzmoEKSOVNm75SY7T1zBe"
-        }
-      ],
-      "duration_ms": 137846,
-      "name": "hoe bedoel je?",
-      "url": "https://open.spotify.com/track/7juYCJy0yvKaV8uvZJV4p9"
-    },
-    {
-      "added_at": "2023-10-12 22:00:00",
-      "album": {
         "name": "All I Need",
         "url": "https://open.spotify.com/album/1CjPP5G4HZ9AuiJrMLHm6A"
       },
@@ -1395,6 +1379,22 @@
       "duration_ms": 173909,
       "name": "All I Need",
       "url": "https://open.spotify.com/track/5V5MLWpaH416tfZl5e5z84"
+    },
+    {
+      "added_at": "2023-10-12 22:00:00",
+      "album": {
+        "name": "hoe bedoel je?",
+        "url": "https://open.spotify.com/album/4CN04dChYLqFWOaSDhtOG3"
+      },
+      "artists": [
+        {
+          "name": "Danny Dubb",
+          "url": "https://open.spotify.com/artist/1ZzmoEKSOVNm75SY7T1zBe"
+        }
+      ],
+      "duration_ms": 137846,
+      "name": "hoe bedoel je?",
+      "url": "https://open.spotify.com/track/7juYCJy0yvKaV8uvZJV4p9"
     },
     {
       "added_at": "2023-10-12 22:00:00",
@@ -1495,6 +1495,26 @@
     {
       "added_at": "2023-10-12 22:00:00",
       "album": {
+        "name": "Emotionally Unavailable",
+        "url": "https://open.spotify.com/album/6GTubdptJMyDY8WBuWH7ws"
+      },
+      "artists": [
+        {
+          "name": "Alice Aera",
+          "url": "https://open.spotify.com/artist/1r6ajY5Cgb1Rhl88UWG4B7"
+        },
+        {
+          "name": "Khalil",
+          "url": "https://open.spotify.com/artist/0Ve0bm5U01MnOpONJMoEC4"
+        }
+      ],
+      "duration_ms": 142857,
+      "name": "Emotionally Unavailable",
+      "url": "https://open.spotify.com/track/4ysqeIgg9nExbHT9jyXMZu"
+    },
+    {
+      "added_at": "2023-10-12 22:00:00",
+      "album": {
         "name": "Headlights",
         "url": "https://open.spotify.com/album/2OqSKDW0ZotjVuZPrg15N8"
       },
@@ -1507,26 +1527,6 @@
       "duration_ms": 173373,
       "name": "Headlights",
       "url": "https://open.spotify.com/track/1eiPx1hsXwBUnrSqmaygUx"
-    },
-    {
-      "added_at": "2023-10-12 22:00:00",
-      "album": {
-        "name": "Ride",
-        "url": "https://open.spotify.com/album/2MZHL3LurNRCqORyOMypja"
-      },
-      "artists": [
-        {
-          "name": "Kim Petite",
-          "url": "https://open.spotify.com/artist/6A1hTvjGU0EkHlsNu6Vnq6"
-        },
-        {
-          "name": "Eurosoundz",
-          "url": "https://open.spotify.com/artist/09EhOOo1mFG5MNORvPQtzn"
-        }
-      ],
-      "duration_ms": 179954,
-      "name": "Ride",
-      "url": "https://open.spotify.com/track/5pziO6WDRV9TY71Bj7Oq7C"
     },
     {
       "added_at": "2023-10-12 22:00:00",
@@ -1547,22 +1547,22 @@
     {
       "added_at": "2023-10-12 22:00:00",
       "album": {
-        "name": "Emotionally Unavailable",
-        "url": "https://open.spotify.com/album/6GTubdptJMyDY8WBuWH7ws"
+        "name": "Ride",
+        "url": "https://open.spotify.com/album/2MZHL3LurNRCqORyOMypja"
       },
       "artists": [
         {
-          "name": "Alice Aera",
-          "url": "https://open.spotify.com/artist/1r6ajY5Cgb1Rhl88UWG4B7"
+          "name": "Kim Petite",
+          "url": "https://open.spotify.com/artist/6A1hTvjGU0EkHlsNu6Vnq6"
         },
         {
-          "name": "Khalil",
-          "url": "https://open.spotify.com/artist/0Ve0bm5U01MnOpONJMoEC4"
+          "name": "Eurosoundz",
+          "url": "https://open.spotify.com/artist/09EhOOo1mFG5MNORvPQtzn"
         }
       ],
-      "duration_ms": 142857,
-      "name": "Emotionally Unavailable",
-      "url": "https://open.spotify.com/track/4ysqeIgg9nExbHT9jyXMZu"
+      "duration_ms": 179954,
+      "name": "Ride",
+      "url": "https://open.spotify.com/track/5pziO6WDRV9TY71Bj7Oq7C"
     },
     {
       "added_at": "2023-10-12 22:00:00",
@@ -1647,6 +1647,22 @@
     {
       "added_at": "2023-10-12 22:00:00",
       "album": {
+        "name": "1+1",
+        "url": "https://open.spotify.com/album/6PGhknbHltteEYewVcwXx4"
+      },
+      "artists": [
+        {
+          "name": "Cyra Gwynth",
+          "url": "https://open.spotify.com/artist/73xasVLAvFrnbuhBdAucpp"
+        }
+      ],
+      "duration_ms": 172739,
+      "name": "1+1",
+      "url": "https://open.spotify.com/track/2TtiDn0UNM0x5O6wvcd7Kt"
+    },
+    {
+      "added_at": "2023-10-12 22:00:00",
+      "album": {
         "name": "You All Day",
         "url": "https://open.spotify.com/album/7tfllHucm1Wdwo6xyclI0u"
       },
@@ -1663,22 +1679,6 @@
       "duration_ms": 140952,
       "name": "You All Day",
       "url": "https://open.spotify.com/track/6k3ybhZHeFtZsuyidDFriA"
-    },
-    {
-      "added_at": "2023-10-12 22:00:00",
-      "album": {
-        "name": "1+1",
-        "url": "https://open.spotify.com/album/6PGhknbHltteEYewVcwXx4"
-      },
-      "artists": [
-        {
-          "name": "Cyra Gwynth",
-          "url": "https://open.spotify.com/artist/73xasVLAvFrnbuhBdAucpp"
-        }
-      ],
-      "duration_ms": 172739,
-      "name": "1+1",
-      "url": "https://open.spotify.com/track/2TtiDn0UNM0x5O6wvcd7Kt"
     },
     {
       "added_at": "2023-10-12 22:00:00",

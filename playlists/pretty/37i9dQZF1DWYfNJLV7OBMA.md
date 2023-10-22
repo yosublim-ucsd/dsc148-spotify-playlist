@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYfNJLV7OBMA.md) - [plain]
 
 > Trending Sinhalese pop hits\. Cover \- DILU Beats
 
-[Spotify](https://open.spotify.com/user/spotify) - 29,785 likes - 95 songs - 5 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 29,829 likes - 95 songs - 5 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,7 +62,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYfNJLV7OBMA.md) - [plain]
 | 52 | [Mandakini](https://open.spotify.com/track/1o8lvyUYVKDyiILBv3UDuj) | [Romesh Sugathapala](https://open.spotify.com/artist/1e3JYUy2zWuu6afa85vG0C) | [Mandakini](https://open.spotify.com/album/1NPJtfIMlsJ0IPEtpRT9d7) | 4:11 |
 | 53 | [Wisithuru Mal](https://open.spotify.com/track/2dGKgTKVYJsZy0raFwh9mu) | [Yuki Navaratne](https://open.spotify.com/artist/00ZpGGB5F7Ytw781Qsr1sR) | [Wisithuru Mal](https://open.spotify.com/album/7lR1ABbnwbNgdzfKcPdJDG) | 3:48 |
 | 54 | [Dura Akahe](https://open.spotify.com/track/6l6ponf8TLRkam1BWG3Vxq) | [Charitha Attalage](https://open.spotify.com/artist/65U1qIqriL4ZawzjoMX1QP), [Ravi Jay](https://open.spotify.com/artist/2OXLUIzYqgydsWcHh38LJ2) | [Dura Akahe](https://open.spotify.com/album/6UkkSB8EJzR88alvG0eAuz) | 4:10 |
-| 55 | [Ayemath Adaren](https://open.spotify.com/track/5AFdPg3PlQGncQLq0z1AWM) | [Thilina Ruhunage](https://open.spotify.com/artist/3uxggUmuI6OX5tcW12y7cn), [Athma Liyanage](https://open.spotify.com/artist/5VCJFF8MGzfQI7EjbuV1nX) | [Ayemath Adaren](https://open.spotify.com/album/0VRegvF3mP3k0Blm3oD1HB) | 3:57 |
+| 55 | [Ayemath Adaren](https://open.spotify.com/track/3oZB7RNTLRMAHZEhD4uGoj) | [Thilina Ruhunage](https://open.spotify.com/artist/3uxggUmuI6OX5tcW12y7cn), [Athma Liyanage](https://open.spotify.com/artist/5VCJFF8MGzfQI7EjbuV1nX) | [Ayemath Adaren](https://open.spotify.com/album/25qXO4urjPQLpl0DXwGG2W) | 3:57 |
 | 56 | [Mana Bendu Hada Rendu \- Live](https://open.spotify.com/track/4eQ7AZ9OY4YWVRKf6p9Wo0) | [Wasthi](https://open.spotify.com/artist/6SuMIiPGM6P4hLLNdT0nNt), [La Signore](https://open.spotify.com/artist/3wRgCqDCo0rwgjvCEPoDMP) | [Wasthi Unplugged Live](https://open.spotify.com/album/2BVHtZRfXGLKdryzzWf4PU) | 3:24 |
 | 57 | [Kanda Gena](https://open.spotify.com/track/5ac6xOh6mzjGZTKalirBjP) | [Chanuka Mora](https://open.spotify.com/artist/6RC38fA9dGFORf48RRLPbl), [Shavindya Kariyawasam](https://open.spotify.com/artist/0xW7XKb8ysmQAj6OrpcHve) | [Kanda Gena](https://open.spotify.com/album/2J5xmYoBVwg0S7qE56dsgk) | 3:44 |
 | 58 | [Saragaye](https://open.spotify.com/track/56Yy12DwYDPusNYMjPD6xG) | [SANUKA](https://open.spotify.com/artist/6FD5oL7fAbrg43q0bcbWhe) | [Saragaye](https://open.spotify.com/album/2Jw8l7dB4FR5bhngaFZ4Ma) | 3:51 |
@@ -104,4 +104,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYfNJLV7OBMA.md) - [plain]
 | 94 | [Hith Ochcham](https://open.spotify.com/track/792WeaFnWJIIEed9JnnWLW) | [Lashan Herath](https://open.spotify.com/artist/2GKt5532rbjOVlrGyvVHcC) | [Hith Ochcham](https://open.spotify.com/album/46s4zoRLxIbIa3UfjOKwRH) | 3:30 |
 | 95 | [Paluwe Sathuta](https://open.spotify.com/track/16f1xUbj37jdrqkqLCEEkB) | [Senanga Dissanayake](https://open.spotify.com/artist/5r68YwgGItdBtZdTWQFQsJ), [Methun SK](https://open.spotify.com/artist/321A10RJQEZo2P1nLnS84x) | [Paluwe Sathuta](https://open.spotify.com/album/37jxBySqQ3CwWfFCsbH9wi) | 4:38 |
 
-Snapshot ID: `MCwwZWYxZmIxMDRjNzU4OTZkNDk3YWM4NGM3ZDI0ODM1NjM0YjI5ODBi`
+Snapshot ID: `MCw1MGQyNjNhNjFhNGEzNzk2YjU1OTIzNTBiYTBlODc4YTAxNTU0N2Q4`

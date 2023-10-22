@@ -302,7 +302,7 @@
     {
       "album": {
         "name": "Gentleman",
-        "url": "https://open.spotify.com/album/6e97t01pmASFo2XJFkJtOC"
+        "url": "https://open.spotify.com/album/6aO84HI1Psa48OLXJMZLRM"
       },
       "artists": [
         {
@@ -317,6 +317,28 @@
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 321763,
+      "name": "Chikkubukku Chikkubukku Railea",
+      "url": "https://open.spotify.com/track/57pCvBGpaK5Ua5I944Kyvb"
+    },
+    {
+      "album": {
+        "name": "Gentleman",
+        "url": "https://open.spotify.com/album/6e97t01pmASFo2XJFkJtOC"
+      },
+      "artists": [
+        {
+          "name": "Suresh Peters",
+          "url": "https://open.spotify.com/artist/1EvTAKGpcJx8wtvppR7p45"
+        },
+        {
+          "name": "Nil",
+          "url": "https://open.spotify.com/artist/1BrnrJA9euFivUWs59wDbF"
+        }
+      ],
+      "date_added": "2021-10-15",
+      "date_added_asterisk": false,
+      "date_removed": "2023-10-22",
       "duration_ms": 321763,
       "name": "Chikkubukku Chikkubukku Railea",
       "url": "https://open.spotify.com/track/6ic3BzpUA3dsMOsTXvPfTe"
@@ -598,10 +620,32 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-22",
       "duration_ms": 243978,
       "name": "En Veettu Thottathil",
       "url": "https://open.spotify.com/track/3mRb10pErMGcLNepfuCV2j"
+    },
+    {
+      "album": {
+        "name": "Gentleman",
+        "url": "https://open.spotify.com/album/6aO84HI1Psa48OLXJMZLRM"
+      },
+      "artists": [
+        {
+          "name": "S.P.Balasubramaniam",
+          "url": "https://open.spotify.com/artist/6L0CDEv6dMKPyGEbzCs5do"
+        },
+        {
+          "name": "Sujatha",
+          "url": "https://open.spotify.com/artist/2JEjaa7hWhE1BbL3OcoeFR"
+        }
+      ],
+      "date_added": "2021-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243978,
+      "name": "En Veettu Thottathil",
+      "url": "https://open.spotify.com/track/2mgb8ZvIKXcIllKb7KhCOi"
     },
     {
       "album": {
@@ -946,10 +990,28 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-22",
       "duration_ms": 379156,
       "name": "Jumballakka",
       "url": "https://open.spotify.com/track/2P1wERinlW4BdTFzFVXXVR"
+    },
+    {
+      "album": {
+        "name": "En Swasa Kaatre",
+        "url": "https://open.spotify.com/album/6EzpOz2IG4zZClbNy5QHrn"
+      },
+      "artists": [
+        {
+          "name": "Rafee",
+          "url": "https://open.spotify.com/artist/6Mq6mjed8a7ITIGaKPUQHX"
+        }
+      ],
+      "date_added": "2021-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 379156,
+      "name": "Jumballakka",
+      "url": "https://open.spotify.com/track/78I3dL1DhzNHX6MBKXQx8I"
     },
     {
       "album": {
@@ -1872,7 +1934,7 @@
     {
       "album": {
         "name": "En Swasa Kaatre",
-        "url": "https://open.spotify.com/album/1AShgi69eqjHbr34SFaves"
+        "url": "https://open.spotify.com/album/6EzpOz2IG4zZClbNy5QHrn"
       },
       "artists": [
         {
@@ -1887,6 +1949,28 @@
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 300978,
+      "name": "Nayagra",
+      "url": "https://open.spotify.com/track/5QyXSn1q9wQAvVw1qB9D8Y"
+    },
+    {
+      "album": {
+        "name": "En Swasa Kaatre",
+        "url": "https://open.spotify.com/album/1AShgi69eqjHbr34SFaves"
+      },
+      "artists": [
+        {
+          "name": "Sriram",
+          "url": "https://open.spotify.com/artist/1Ai99TpUOqx8ktHgdxH8kU"
+        },
+        {
+          "name": "Harini",
+          "url": "https://open.spotify.com/artist/41BeeC5hYqvtGkM79RYvN4"
+        }
+      ],
+      "date_added": "2021-10-15",
+      "date_added_asterisk": false,
+      "date_removed": "2023-10-22",
       "duration_ms": 300978,
       "name": "Nayagra",
       "url": "https://open.spotify.com/track/745aajKtj83m03Bdksc387"
@@ -2152,10 +2236,32 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-22",
       "duration_ms": 347664,
       "name": "Oru Thuli",
       "url": "https://open.spotify.com/track/6wQ5javGqRoOGvlBxpMqRz"
+    },
+    {
+      "album": {
+        "name": "En Swasa Kaatre",
+        "url": "https://open.spotify.com/album/6EzpOz2IG4zZClbNy5QHrn"
+      },
+      "artists": [
+        {
+          "name": "M.G.Sureshkumar",
+          "url": "https://open.spotify.com/artist/41iyfQra9BGMiForKQXJzU"
+        },
+        {
+          "name": "K. S. Chitra",
+          "url": "https://open.spotify.com/artist/1klDCpEcgwFR1sCUZL9E7Q"
+        }
+      ],
+      "date_added": "2021-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 347664,
+      "name": "Oru Thuli",
+      "url": "https://open.spotify.com/track/1MzuSPrGmRL53vMgXMyIN8"
     },
     {
       "album": {
@@ -2174,10 +2280,32 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-22",
       "duration_ms": 314186,
       "name": "Ottagtha Katikko",
       "url": "https://open.spotify.com/track/7pT6IaXJKXDq85Ucu2fNUg"
+    },
+    {
+      "album": {
+        "name": "Gentleman",
+        "url": "https://open.spotify.com/album/6aO84HI1Psa48OLXJMZLRM"
+      },
+      "artists": [
+        {
+          "name": "S.P.Balasubramaniam",
+          "url": "https://open.spotify.com/artist/6L0CDEv6dMKPyGEbzCs5do"
+        },
+        {
+          "name": "S. Janaki",
+          "url": "https://open.spotify.com/artist/5Xpg6PBSUOoho2lI9qLjiu"
+        }
+      ],
+      "date_added": "2021-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 314186,
+      "name": "Ottagtha Katikko",
+      "url": "https://open.spotify.com/track/065hhs8MnhsgLay10eZ9En"
     },
     {
       "album": {
@@ -2585,6 +2713,28 @@
     },
     {
       "album": {
+        "name": "Dance King Prabhu Deva Songs",
+        "url": "https://open.spotify.com/album/4qMNbXtEi2ehsoFIrNDaLe"
+      },
+      "artists": [
+        {
+          "name": "Udit Narayan",
+          "url": "https://open.spotify.com/artist/70B80Lwx2sxti0M1Ng9e8K"
+        },
+        {
+          "name": "Hariharan",
+          "url": "https://open.spotify.com/artist/2NoJ7NuNs9nyj8Thoh1kbu"
+        }
+      ],
+      "date_added": "2021-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 338559,
+      "name": "Romeo Aattam Pottaal",
+      "url": "https://open.spotify.com/track/23zSUryQZXk60UMHeTrfJ9"
+    },
+    {
+      "album": {
         "name": "Mr. Romeo",
         "url": "https://open.spotify.com/album/5g7z1LlsFdThLtZet4OOUx"
       },
@@ -2600,7 +2750,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-22",
       "duration_ms": 338559,
       "name": "Romeo Attam Potal",
       "url": "https://open.spotify.com/track/5KRBc2QCh13xUtBX8Vdg75"
@@ -2781,6 +2931,28 @@
     },
     {
       "album": {
+        "name": "Sangamam",
+        "url": "https://open.spotify.com/album/5gjVW4mRgMu0kqdl7kJyBr"
+      },
+      "artists": [
+        {
+          "name": "Kadri Gopalnath",
+          "url": "https://open.spotify.com/artist/79iXBDwJoeVZZSe1AV7ta7"
+        },
+        {
+          "name": "Nithyasree",
+          "url": "https://open.spotify.com/artist/6yLXX4buMky6p4XAwLmrNS"
+        }
+      ],
+      "date_added": "2021-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 354190,
+      "name": "Sowkkiyama",
+      "url": "https://open.spotify.com/track/7MDIQ0fCiBMXLvCgixPzQk"
+    },
+    {
+      "album": {
         "name": "Sangamam (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/6vdKBhSKTE87sq6zq4BoAM"
       },
@@ -2796,7 +2968,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-22",
       "duration_ms": 354586,
       "name": "Sowkkiyama",
       "url": "https://open.spotify.com/track/1Bzj1DJpWaIEPfXrXbhvU0"
@@ -2910,10 +3082,32 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-22",
       "duration_ms": 374537,
       "name": "Telephone Mani Pol",
       "url": "https://open.spotify.com/track/6gGfcvpyTSM8G1Vf5xUGYW"
+    },
+    {
+      "album": {
+        "name": "Indian",
+        "url": "https://open.spotify.com/album/4AvZDO8GPjr0PG9EBM2Fpo"
+      },
+      "artists": [
+        {
+          "name": "Harini",
+          "url": "https://open.spotify.com/artist/41BeeC5hYqvtGkM79RYvN4"
+        },
+        {
+          "name": "Hariharan",
+          "url": "https://open.spotify.com/artist/2NoJ7NuNs9nyj8Thoh1kbu"
+        }
+      ],
+      "date_added": "2021-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 374537,
+      "name": "Telephone Mani Pol",
+      "url": "https://open.spotify.com/track/7HS1FtFwYejFoVZ1qYUW3w"
     },
     {
       "album": {
@@ -3076,7 +3270,7 @@
     {
       "album": {
         "name": "Karuthamma",
-        "url": "https://open.spotify.com/album/5YJelfY5sPdfUNzgka0yOW"
+        "url": "https://open.spotify.com/album/6rUXwGOZ2Znsav84TwAMOu"
       },
       "artists": [
         {
@@ -3091,6 +3285,28 @@
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 302686,
+      "name": "Theanmearkku Paruva",
+      "url": "https://open.spotify.com/track/2SUGmWWOTWH0UU332Xv7TN"
+    },
+    {
+      "album": {
+        "name": "Karuthamma",
+        "url": "https://open.spotify.com/album/5YJelfY5sPdfUNzgka0yOW"
+      },
+      "artists": [
+        {
+          "name": "Unnikrishnan",
+          "url": "https://open.spotify.com/artist/0mV4UQ0gHg59AAUtg968pX"
+        },
+        {
+          "name": "K. S. Chithra",
+          "url": "https://open.spotify.com/artist/2IUtwMti1OiT3lkW6RubgH"
+        }
+      ],
+      "date_added": "2021-10-15",
+      "date_added_asterisk": false,
+      "date_removed": "2023-10-22",
       "duration_ms": 302686,
       "name": "Theanmearkku Paruva",
       "url": "https://open.spotify.com/track/3IUcrq0BDBWRP3siSHuX3P"
@@ -3130,10 +3346,32 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-22",
       "duration_ms": 429020,
       "name": "Thirakkaatha",
       "url": "https://open.spotify.com/track/3OErux8QBSsBcmD9eT8oWP"
+    },
+    {
+      "album": {
+        "name": "En Swasa Kaatre",
+        "url": "https://open.spotify.com/album/6EzpOz2IG4zZClbNy5QHrn"
+      },
+      "artists": [
+        {
+          "name": "Unnikrishnan",
+          "url": "https://open.spotify.com/artist/0mV4UQ0gHg59AAUtg968pX"
+        },
+        {
+          "name": "K. S. Chitra",
+          "url": "https://open.spotify.com/artist/1klDCpEcgwFR1sCUZL9E7Q"
+        }
+      ],
+      "date_added": "2021-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 429020,
+      "name": "Thirakkaatha",
+      "url": "https://open.spotify.com/track/1Q9bm5PV2L4Cco8SaOzN3B"
     },
     {
       "album": {
@@ -3266,10 +3504,32 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-22",
       "duration_ms": 280129,
       "name": "Usilambatti Pen Kutti Muthu",
       "url": "https://open.spotify.com/track/3CwY6XeqO7vQ21U70RDjLz"
+    },
+    {
+      "album": {
+        "name": "Gentleman",
+        "url": "https://open.spotify.com/album/6aO84HI1Psa48OLXJMZLRM"
+      },
+      "artists": [
+        {
+          "name": "Shahul Hameed",
+          "url": "https://open.spotify.com/artist/4AMv8pVDwovphHQONz6eKP"
+        },
+        {
+          "name": "Swarnalatha",
+          "url": "https://open.spotify.com/artist/7N0SBLJFpCyQSsv4MfRJ5d"
+        }
+      ],
+      "date_added": "2021-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 280129,
+      "name": "Usilambatti Pen Kutti Muthu",
+      "url": "https://open.spotify.com/track/3EWGDMAjEo7ugdg7YWKYwH"
     },
     {
       "album": {

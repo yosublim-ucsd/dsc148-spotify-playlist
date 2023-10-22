@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX80fLED6RkGS.md) - [plain]
 
 > Only the hottest Gengetone coming out of Kenya\. Cover: <a href="https://open.spotify.com/artist/1ARD1FbyU6v65XIlpYLbMW?si=YDpZDlSZQYes61ApQ1A4tg"> Ssaru</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,177 likes - 80 songs - 4 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,210 likes - 80 songs - 4 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,7 +67,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX80fLED6RkGS.md) - [plain]
 | 57 | [Blueticks](https://open.spotify.com/track/3n9GFwWJZbOHr0bFz62dMm) | [Joefes](https://open.spotify.com/artist/6ZgN5sC0MG0xE7VBkxC318), [Unspoken Salaton](https://open.spotify.com/artist/3FmMDBIQ6C4mEsgPVcVugY) | [Blueticks](https://open.spotify.com/album/4PZ32ERekuiOH4K0QyPyG5) | 2:48 |
 | 58 | [Kamkora](https://open.spotify.com/track/6MTKpuVgwGXlTImS6gGYGu) | [Ssaru](https://open.spotify.com/artist/1ARD1FbyU6v65XIlpYLbMW) | [Kamkora](https://open.spotify.com/album/38gKoE7uMtIGeppBrhHDrW) | 2:53 |
 | 59 | [Tena](https://open.spotify.com/track/7hNNskVSOIIKM9vkv5vMYf) | [Maandy](https://open.spotify.com/artist/3AaXIAk5OkIRmHnoEP4XmP), [Cedo](https://open.spotify.com/artist/4XnL8ClOo3yWrWU4VJWa6q) | [Tena](https://open.spotify.com/album/6vXeMhDzsMVmrm8GueCM2B) | 3:20 |
-| 60 | [Cheza Ki Wewe](https://open.spotify.com/track/2gBrQ5pf0LzbkBAwNClf1N) | [Jua Cali](https://open.spotify.com/artist/0V6gO3DpMzQxDs31TqdsXz), [BussaJ](https://open.spotify.com/artist/3aiKuKY1aR478HxnwlG2t7), [Mbithi](https://open.spotify.com/artist/3M8x29mEaZklQcMDwHMgKH) | [Utu Uzima](https://open.spotify.com/album/48rtE7h8bIv7xfVZEX7J2U) | 3:09 |
+| 60 | [CHEZA KI WEWE](https://open.spotify.com/track/417ilOjQWFM6pGqLlGnFwN) | [Jua Cali](https://open.spotify.com/artist/0V6gO3DpMzQxDs31TqdsXz), [Bussa J](https://open.spotify.com/artist/1QIbS7iQAGVsFmOhOMGIYd), [Mbithi](https://open.spotify.com/artist/3M8x29mEaZklQcMDwHMgKH) | [UTU UZIMA](https://open.spotify.com/album/7zAVowRwWqZPUSFpdbmN6P) | 3:08 |
 | 61 | [Tunajienjoy](https://open.spotify.com/track/5naXm7Cg0tvVbCupoZDvhb) | [Trio Mio](https://open.spotify.com/artist/1YSv5pS7iY49Ech2SfHryX), [Ywaya Tajiri](https://open.spotify.com/artist/6wf9RfrBquBd6Galoe5oQE), [Savara](https://open.spotify.com/artist/4FjLrdzDbqrP9E9FzERGap) | [Tunajienjoy](https://open.spotify.com/album/5QGn8oyBAVabSHcNmHM8bA) | 3:45 |
 | 62 | [Makudiro](https://open.spotify.com/track/7pTswKcVWgaGBKtY42e31R) | [Kanairo](https://open.spotify.com/artist/3AJv488pOm46UfLBbVMeGf), [Ssaru](https://open.spotify.com/artist/1ARD1FbyU6v65XIlpYLbMW) | [Makudiro](https://open.spotify.com/album/6abqMz7DpumeuYkHPkEjtu) | 2:29 |
 | 63 | [Napenda Wote](https://open.spotify.com/track/6KqqpWRJtPmgE4GZaQSyje) | [Iphoolish](https://open.spotify.com/artist/4vgL7NjTcEXAmObSdo5nmp), [Mbuzi Gang](https://open.spotify.com/artist/6bhGj7isui9u4aShV8ONrl), [Thee Exit Band](https://open.spotify.com/artist/5tCS32hMdQWpx8gJJsR673), [Unco Jingjong](https://open.spotify.com/artist/22lwvCuVhk527A9WP49im1) | [Yinga](https://open.spotify.com/album/2zkSoisn7kPVhKHEBos1sY) | 3:37 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX80fLED6RkGS.md) - [plain]
 | 79 | [Alert](https://open.spotify.com/track/33htkCWlVopcE4UQRQ8710) | [Mbuzi Gang](https://open.spotify.com/artist/6bhGj7isui9u4aShV8ONrl), [Odi Wa Muranga](https://open.spotify.com/artist/789Et77m6EivwPJBTtEcu8) | [Kelele \(Deluxe Edition\)](https://open.spotify.com/album/1KDJyapBIBQjRGiLhJKzTG) | 2:43 |
 | 80 | [Ngwaii](https://open.spotify.com/track/1i9hZoFAhcl62FiMho3AIj) | [Ochungulo Family](https://open.spotify.com/artist/6EZFShtIueshKPSVIdaq5b) | [DUDU](https://open.spotify.com/album/2rKJT7qZMNA6FLgJBcMXuG) | 2:28 |
 
-Snapshot ID: `MCwwY2NjN2NjODQyMzdjYjkxMTIzYjNjMDQ1MzI4ODAzZTJmODI5MjFi`
+Snapshot ID: `MCwyMjliMzE0OTNlYjNlMjQ4MGVhM2FiMmMzNDNlOTUwNDljODA1MDgw`

@@ -1,12 +1,12 @@
 {
   "description": "El junte entre las estrellas del dance global y del urbano latino. Foto: Ghetto Kids, Major Lazer, Guaynaa, Tavo Rayo",
-  "num_followers": 7532,
+  "num_followers": 7530,
   "original_name": "Global Dance Crossover",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwYzQyNzIwNDMyZDMxNjE0ODM2NWVlY2EyNjQ1MzI1YWMzOWJiY2Vj",
+  "snapshot_id": "MCxmNzFkMDgwOGQ3ZmIxNGQ2NDVlNWY5MWZkNjUxZmY2ZjM1MWQyM2Yx",
   "tracks": [
     {
       "added_at": "2021-12-31 04:31:13",
@@ -211,34 +211,6 @@
     {
       "added_at": "2021-12-31 04:31:13",
       "album": {
-        "name": "Music Is The Weapon (Reloaded)",
-        "url": "https://open.spotify.com/album/40IcRv5uAg0lpafKsxnQ9g"
-      },
-      "artists": [
-        {
-          "name": "Major Lazer",
-          "url": "https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp"
-        },
-        {
-          "name": "J Balvin",
-          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
-        },
-        {
-          "name": "El Alfa",
-          "url": "https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm"
-        },
-        {
-          "name": "Diplo",
-          "url": "https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX"
-        }
-      ],
-      "duration_ms": 169997,
-      "name": "Que Calor (feat. J Balvin & El Alfa)",
-      "url": "https://open.spotify.com/track/13HgktGt4RdYj0QmF1ELZO"
-    },
-    {
-      "added_at": "2021-12-31 04:31:13",
-      "album": {
         "name": "Azukita (Steve Aoki, Daddy Yankee, Play-N-Skillz & Elvis Crespo) (feat. Elvis Crespo)",
         "url": "https://open.spotify.com/album/5LSqEb2yiUoWM91rUnvDjS"
       },
@@ -267,6 +239,34 @@
     {
       "added_at": "2021-12-31 04:31:13",
       "album": {
+        "name": "Music Is The Weapon (Reloaded)",
+        "url": "https://open.spotify.com/album/40IcRv5uAg0lpafKsxnQ9g"
+      },
+      "artists": [
+        {
+          "name": "Major Lazer",
+          "url": "https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp"
+        },
+        {
+          "name": "J Balvin",
+          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+        },
+        {
+          "name": "El Alfa",
+          "url": "https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm"
+        },
+        {
+          "name": "Diplo",
+          "url": "https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX"
+        }
+      ],
+      "duration_ms": 169997,
+      "name": "Que Calor (feat. J Balvin & El Alfa)",
+      "url": "https://open.spotify.com/track/13HgktGt4RdYj0QmF1ELZO"
+    },
+    {
+      "added_at": "2021-12-31 04:31:13",
+      "album": {
         "name": "En Mi Cuarto",
         "url": "https://open.spotify.com/album/5Tb0I67ArZ6gI4tXJVIJ3h"
       },
@@ -283,30 +283,6 @@
       "duration_ms": 196586,
       "name": "En Mi Cuarto",
       "url": "https://open.spotify.com/track/6Ee34qCOE6FBzEPRAGwSrn"
-    },
-    {
-      "added_at": "2021-12-31 04:31:13",
-      "album": {
-        "name": "7",
-        "url": "https://open.spotify.com/album/2Sq9AIsIrad2GygwB6QLPt"
-      },
-      "artists": [
-        {
-          "name": "David Guetta",
-          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
-        },
-        {
-          "name": "Bebe Rexha",
-          "url": "https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb"
-        },
-        {
-          "name": "J Balvin",
-          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
-        }
-      ],
-      "duration_ms": 198946,
-      "name": "Say My Name",
-      "url": "https://open.spotify.com/track/3MoV1UsAJmz64LHqyiRMp0"
     },
     {
       "added_at": "2021-12-31 04:31:13",
@@ -331,6 +307,30 @@
       "duration_ms": 172080,
       "name": "I Feel Good",
       "url": "https://open.spotify.com/track/2hZTeA6c94dBoiuGcBv3R0"
+    },
+    {
+      "added_at": "2021-12-31 04:31:13",
+      "album": {
+        "name": "7",
+        "url": "https://open.spotify.com/album/2Sq9AIsIrad2GygwB6QLPt"
+      },
+      "artists": [
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        },
+        {
+          "name": "Bebe Rexha",
+          "url": "https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb"
+        },
+        {
+          "name": "J Balvin",
+          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+        }
+      ],
+      "duration_ms": 198946,
+      "name": "Say My Name",
+      "url": "https://open.spotify.com/track/3MoV1UsAJmz64LHqyiRMp0"
     },
     {
       "added_at": "2021-12-31 04:31:13",

@@ -1,12 +1,12 @@
 {
   "description": "Nowe przeboje i ponadczasowe klasyki o  mi\u0142o\u015bci. Tylko po polsku.",
-  "num_followers": 61457,
+  "num_followers": 61498,
   "original_name": "Polskie hity o mi\u0142o\u015bci",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5ZTY4NWMxM2JmMTk1OWZhY2JlNDQ2ZWYzODM4ZTE1ZDRkNTBmN2Q4",
+  "snapshot_id": "MCwyYjNkZGUxZmY5NTgxN2MyYTljZjA1N2Q1OWQyMzUxZDIyZTE3ZjI0",
   "tracks": [
     {
       "added_at": "2023-09-01 14:10:27",
@@ -375,22 +375,6 @@
     {
       "added_at": "2023-09-01 14:10:27",
       "album": {
-        "name": "Ma\u0142omiasteczkowy",
-        "url": "https://open.spotify.com/album/00hXe7ttZI4gjjWYqKAdMX"
-      },
-      "artists": [
-        {
-          "name": "Dawid Podsiad\u0142o",
-          "url": "https://open.spotify.com/artist/6EB8VE9f7Ut6NOgviN6gDW"
-        }
-      ],
-      "duration_ms": 229666,
-      "name": "Najnowszy Klip",
-      "url": "https://open.spotify.com/track/35UvOH0tRlSCdtWtaXuiWh"
-    },
-    {
-      "added_at": "2023-09-01 14:10:27",
-      "album": {
         "name": "Zacznij od Bacha (The Best)",
         "url": "https://open.spotify.com/album/28orFXW0fOsrXHRnhFyNoo"
       },
@@ -403,6 +387,22 @@
       "duration_ms": 262293,
       "name": "Lubi\u0119 wraca\u0107 tam gdzie by\u0142em",
       "url": "https://open.spotify.com/track/4sHTqR2RQGsH5pSFqtXroU"
+    },
+    {
+      "added_at": "2023-09-01 14:10:27",
+      "album": {
+        "name": "Ma\u0142omiasteczkowy",
+        "url": "https://open.spotify.com/album/00hXe7ttZI4gjjWYqKAdMX"
+      },
+      "artists": [
+        {
+          "name": "Dawid Podsiad\u0142o",
+          "url": "https://open.spotify.com/artist/6EB8VE9f7Ut6NOgviN6gDW"
+        }
+      ],
+      "duration_ms": 229666,
+      "name": "Najnowszy Klip",
+      "url": "https://open.spotify.com/track/35UvOH0tRlSCdtWtaXuiWh"
     },
     {
       "added_at": "2023-09-01 14:10:27",
@@ -567,22 +567,6 @@
     {
       "added_at": "2023-09-01 14:10:27",
       "album": {
-        "name": "O nich, o Tobie",
-        "url": "https://open.spotify.com/album/08ViqDYKABc3OpTCh4Ng5r"
-      },
-      "artists": [
-        {
-          "name": "Sylwia Grzeszczak",
-          "url": "https://open.spotify.com/artist/2TRVhYMkHV4jwB92R3McaS"
-        }
-      ],
-      "duration_ms": 147417,
-      "name": "O nich, o Tobie",
-      "url": "https://open.spotify.com/track/129VFFHvkAzwpYHqTrmtKB"
-    },
-    {
-      "added_at": "2023-09-01 14:10:27",
-      "album": {
         "name": "Ma\u0142omiasteczkowy",
         "url": "https://open.spotify.com/album/00hXe7ttZI4gjjWYqKAdMX"
       },
@@ -595,6 +579,22 @@
       "duration_ms": 195666,
       "name": "Nie K\u0142ami",
       "url": "https://open.spotify.com/track/3FwWzOCkDwhu1RWTz3CSxJ"
+    },
+    {
+      "added_at": "2023-09-01 14:10:27",
+      "album": {
+        "name": "O nich, o Tobie",
+        "url": "https://open.spotify.com/album/08ViqDYKABc3OpTCh4Ng5r"
+      },
+      "artists": [
+        {
+          "name": "Sylwia Grzeszczak",
+          "url": "https://open.spotify.com/artist/2TRVhYMkHV4jwB92R3McaS"
+        }
+      ],
+      "duration_ms": 147417,
+      "name": "O nich, o Tobie",
+      "url": "https://open.spotify.com/track/129VFFHvkAzwpYHqTrmtKB"
     },
     {
       "added_at": "2023-09-01 14:10:27",
@@ -615,22 +615,6 @@
     {
       "added_at": "2023-09-01 14:10:27",
       "album": {
-        "name": "Pi\u0142a tango",
-        "url": "https://open.spotify.com/album/1TkJO8CCaeMHvEU4ybrmgx"
-      },
-      "artists": [
-        {
-          "name": "Strachy Na Lachy",
-          "url": "https://open.spotify.com/artist/4DXXg7xzgKAEYeFhh9wAtk"
-        }
-      ],
-      "duration_ms": 201733,
-      "name": "Dzie\u0144 dobry, kocham Ci\u0119",
-      "url": "https://open.spotify.com/track/6FBPQuYFZIne5cpTASUOGR"
-    },
-    {
-      "added_at": "2023-09-01 14:10:27",
-      "album": {
         "name": "Sk\u0142adam si\u0119 z ci\u0105g\u0142ych powt\u00f3rze\u0144",
         "url": "https://open.spotify.com/album/6yxLszvctvcxmKlGmMaPY3"
       },
@@ -643,6 +627,22 @@
       "duration_ms": 216440,
       "name": "Syreny",
       "url": "https://open.spotify.com/track/5jnPsCxNjmGFmkcWYZ8YCS"
+    },
+    {
+      "added_at": "2023-09-01 14:10:27",
+      "album": {
+        "name": "Pi\u0142a tango",
+        "url": "https://open.spotify.com/album/1TkJO8CCaeMHvEU4ybrmgx"
+      },
+      "artists": [
+        {
+          "name": "Strachy Na Lachy",
+          "url": "https://open.spotify.com/artist/4DXXg7xzgKAEYeFhh9wAtk"
+        }
+      ],
+      "duration_ms": 201733,
+      "name": "Dzie\u0144 dobry, kocham Ci\u0119",
+      "url": "https://open.spotify.com/track/6FBPQuYFZIne5cpTASUOGR"
     },
     {
       "added_at": "2023-09-01 14:10:27",
@@ -679,6 +679,22 @@
     {
       "added_at": "2023-09-01 14:10:27",
       "album": {
+        "name": "Komponuj\u0105c siebie",
+        "url": "https://open.spotify.com/album/0BUCC6q7Y8lFrX6cBU7Llh"
+      },
+      "artists": [
+        {
+          "name": "Sylwia Grzeszczak",
+          "url": "https://open.spotify.com/artist/2TRVhYMkHV4jwB92R3McaS"
+        }
+      ],
+      "duration_ms": 184514,
+      "name": "Ksi\u0119\u017cniczka",
+      "url": "https://open.spotify.com/track/7Hd16iz8di8JQkdNkajYJ4"
+    },
+    {
+      "added_at": "2023-09-01 14:10:27",
+      "album": {
         "name": "Paparanoja",
         "url": "https://open.spotify.com/album/6qtt0FdpkEMbKO2ZpPs4Be"
       },
@@ -695,18 +711,22 @@
     {
       "added_at": "2023-09-01 14:10:27",
       "album": {
-        "name": "Komponuj\u0105c siebie",
-        "url": "https://open.spotify.com/album/0BUCC6q7Y8lFrX6cBU7Llh"
+        "name": "Zabierz t\u0119 mi\u0142o\u015b\u0107 (Storytel \"Random\")",
+        "url": "https://open.spotify.com/album/0z6QIndzIRBS2pDAL1XECw"
       },
       "artists": [
         {
-          "name": "Sylwia Grzeszczak",
-          "url": "https://open.spotify.com/artist/2TRVhYMkHV4jwB92R3McaS"
+          "name": "Maciej Musia\u0142owski",
+          "url": "https://open.spotify.com/artist/6MlVGjgieHwMJCPBjU41dN"
+        },
+        {
+          "name": "Julia Wieniawa",
+          "url": "https://open.spotify.com/artist/1HX9uYVwH6HHGyE8xSgtUD"
         }
       ],
-      "duration_ms": 184514,
-      "name": "Ksi\u0119\u017cniczka",
-      "url": "https://open.spotify.com/track/7Hd16iz8di8JQkdNkajYJ4"
+      "duration_ms": 249046,
+      "name": "Zabierz t\u0119 mi\u0142o\u015b\u0107 (Storytel \"Random\")",
+      "url": "https://open.spotify.com/track/25vX1mMJilMWIc5Ht6hkGj"
     },
     {
       "added_at": "2023-09-01 14:10:27",
@@ -739,26 +759,6 @@
       "duration_ms": 178725,
       "name": "Wkr\u0119ceni nie ufaj mi",
       "url": "https://open.spotify.com/track/4Wjdk72dzEOynrdTQGBac8"
-    },
-    {
-      "added_at": "2023-09-01 14:10:27",
-      "album": {
-        "name": "Zabierz t\u0119 mi\u0142o\u015b\u0107 (Storytel \"Random\")",
-        "url": "https://open.spotify.com/album/0z6QIndzIRBS2pDAL1XECw"
-      },
-      "artists": [
-        {
-          "name": "Maciej Musia\u0142owski",
-          "url": "https://open.spotify.com/artist/6MlVGjgieHwMJCPBjU41dN"
-        },
-        {
-          "name": "Julia Wieniawa",
-          "url": "https://open.spotify.com/artist/1HX9uYVwH6HHGyE8xSgtUD"
-        }
-      ],
-      "duration_ms": 249046,
-      "name": "Zabierz t\u0119 mi\u0142o\u015b\u0107 (Storytel \"Random\")",
-      "url": "https://open.spotify.com/track/25vX1mMJilMWIc5Ht6hkGj"
     },
     {
       "added_at": "2023-09-01 14:10:27",
@@ -835,22 +835,6 @@
     {
       "added_at": "2023-09-01 14:10:27",
       "album": {
-        "name": "Porady Na Zdrady [Dreszcze]",
-        "url": "https://open.spotify.com/album/3XC6o7PTm3SiamWBrYVo82"
-      },
-      "artists": [
-        {
-          "name": "Ania D\u0105browska",
-          "url": "https://open.spotify.com/artist/7008bv4QLo6eziuxszbjqO"
-        }
-      ],
-      "duration_ms": 210662,
-      "name": "Porady Na Zdrady [Dreszcze]",
-      "url": "https://open.spotify.com/track/5MVK9Up4ORQdmOdBuk0MIy"
-    },
-    {
-      "added_at": "2023-09-01 14:10:27",
-      "album": {
         "name": "Marek Grechuta - 40 piosenek",
         "url": "https://open.spotify.com/album/08N6LcpBklQjvbUHTghAvR"
       },
@@ -899,6 +883,22 @@
       "duration_ms": 209213,
       "name": "Miales Byc",
       "url": "https://open.spotify.com/track/7aKwFVDQG0MUBX41I5esiU"
+    },
+    {
+      "added_at": "2023-09-01 14:10:27",
+      "album": {
+        "name": "Porady Na Zdrady [Dreszcze]",
+        "url": "https://open.spotify.com/album/3XC6o7PTm3SiamWBrYVo82"
+      },
+      "artists": [
+        {
+          "name": "Ania D\u0105browska",
+          "url": "https://open.spotify.com/artist/7008bv4QLo6eziuxszbjqO"
+        }
+      ],
+      "duration_ms": 210662,
+      "name": "Porady Na Zdrady [Dreszcze]",
+      "url": "https://open.spotify.com/track/5MVK9Up4ORQdmOdBuk0MIy"
     },
     {
       "added_at": "2023-09-01 14:10:27",
@@ -967,6 +967,22 @@
     {
       "added_at": "2023-09-01 14:10:27",
       "album": {
+        "name": "Bu\u0142garskie centrum",
+        "url": "https://open.spotify.com/album/30EQdPcM7Lf3IuKBw2WCau"
+      },
+      "artists": [
+        {
+          "name": "Pid\u017cama Porno",
+          "url": "https://open.spotify.com/artist/0qibngGI3EFCen6abY5hqY"
+        }
+      ],
+      "duration_ms": 374093,
+      "name": "Nikt tak pi\u0119knie nie m\u00f3wi\u0142, \u017ce si\u0119 boi mi\u0142o\u015bci",
+      "url": "https://open.spotify.com/track/1kNPvVDqN2KZZrOhyqEiux"
+    },
+    {
+      "added_at": "2023-09-01 14:10:27",
+      "album": {
         "name": "Kontrast",
         "url": "https://open.spotify.com/album/446qQKwnnSoeQmcrZOKtry"
       },
@@ -983,22 +999,6 @@
       "duration_ms": 185714,
       "name": "Ka\u017cdego Dnia",
       "url": "https://open.spotify.com/track/2NijO1M41mbMTFUJYyX8mx"
-    },
-    {
-      "added_at": "2023-09-01 14:10:27",
-      "album": {
-        "name": "Bu\u0142garskie centrum",
-        "url": "https://open.spotify.com/album/30EQdPcM7Lf3IuKBw2WCau"
-      },
-      "artists": [
-        {
-          "name": "Pid\u017cama Porno",
-          "url": "https://open.spotify.com/artist/0qibngGI3EFCen6abY5hqY"
-        }
-      ],
-      "duration_ms": 374093,
-      "name": "Nikt tak pi\u0119knie nie m\u00f3wi\u0142, \u017ce si\u0119 boi mi\u0142o\u015bci",
-      "url": "https://open.spotify.com/track/1kNPvVDqN2KZZrOhyqEiux"
     },
     {
       "added_at": "2023-09-01 14:10:27",

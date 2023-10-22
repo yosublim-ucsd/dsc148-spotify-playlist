@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 
 > This week's top new releases\. Cover: Grand Corps Malade
 
-[Spotify](https://open.spotify.com/user/spotify) - 38,273 likes - 113 songs - 5 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 38,282 likes - 113 songs - 5 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,7 +42,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 | 32 | [Into The Walls](https://open.spotify.com/track/5Gdbm8oHbicLgj79HcOxtL) | [Griff](https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff) | [vert1go vol\. 1](https://open.spotify.com/album/1RcfzHK44GEHSBwAH1NQeY) | 3:08 |
 | 33 | [Vermisse Dich](https://open.spotify.com/track/6VgpK1vnw28QWKjqkrzASM) | [DUEJA](https://open.spotify.com/artist/1QKx9HbmmkV4FgL2nkFVRl), [JONA](https://open.spotify.com/artist/64x9nivyNE39JfmRiz2eM6) | [Vermisse Dich](https://open.spotify.com/album/2sSiX1z19dwW29UsyjxxY7) | 2:02 |
 | 34 | [Think Of Us](https://open.spotify.com/track/4jpNmNXMzO3aVgJhy8sdxL) | [The Chainsmokers](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp), [GRACEY](https://open.spotify.com/artist/7xBGi7Eign0fX7jGQj5KlJ) | [Summertime Friends](https://open.spotify.com/album/06NJ4sxQJg1BiSGH9WkzRE) | 2:50 |
-| 35 | [Wein](https://open.spotify.com/track/1lnDtmE0sOQwTmJp0AmDnH) | [KXXMA](https://open.spotify.com/artist/6AFA7y2tNohNcpaLwDRyxx), [KALUMA](https://open.spotify.com/artist/4dgLZMavMm3danubiJxbtw), [Beamy](https://open.spotify.com/artist/1cH8eMd2wNsY2coinL4VTH) | [Wein](https://open.spotify.com/album/1GVRKw1hdICjzXZzQJhLMw) | 2:25 |
+| 35 | [Wein](https://open.spotify.com/track/1lnDtmE0sOQwTmJp0AmDnH) | [KXXMA](https://open.spotify.com/artist/6AFA7y2tNohNcpaLwDRyxx), [KALUMA](https://open.spotify.com/artist/4dgLZMavMm3danubiJxbtw), [Beamy](https://open.spotify.com/artist/0vmBLdFrNG2HAUT5N5oNew) | [Wein](https://open.spotify.com/album/1GVRKw1hdICjzXZzQJhLMw) | 2:25 |
 | 36 | [Vielleicht Vielleicht](https://open.spotify.com/track/559mLg44MrcA7JzYGbpXfL) | [MilleniumKid](https://open.spotify.com/artist/6nJEMDVNcq7fduXgk7EdGG), [JBS](https://open.spotify.com/artist/6l8dHVPkuEFzpQjhCH4xXT) | [Vielleicht Vielleicht](https://open.spotify.com/album/3xunU89Mwwaw3gbwwLg0BX) | 2:22 |
 | 37 | [Ups & Downs](https://open.spotify.com/track/0QAYEszX8mmKEiQDahaVHY) | [Selmon](https://open.spotify.com/artist/0hKUUP3J5Dc69cQur3U2nV), [Bausa](https://open.spotify.com/artist/13bDjug9N0pyv3ZUINjkDV) | [Ups & Downs](https://open.spotify.com/album/6eoj5K8vG0yi3EzmPZ3pvY) | 2:14 |
 | 38 | [BUTTERFLY](https://open.spotify.com/track/6mlc9kMVGhvgLfUAeNhrqb) | [$aiD](https://open.spotify.com/artist/7c6EeWfBCUrfME2ILJvkUt), [Sl Fiq](https://open.spotify.com/artist/7uDrPrSP9zl7r048ENVrIT), [Bazdo](https://open.spotify.com/artist/71BJRQpL8HC0DRkUCm7Cih) | [BUTTERFLY](https://open.spotify.com/album/4IceqpxMy7G4fjyY7r95IO) | 2:40 |
@@ -122,4 +122,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 | 112 | [Close Quarters](https://open.spotify.com/track/7eCpxZdpP7kz9j2OUJLbpd) | [Vacations](https://open.spotify.com/artist/0U7iI0Dk4Ojvi17nZboNO4) | [Close Quarters](https://open.spotify.com/album/4JEizeJf7M3cbLEzbtmxif) | 3:40 |
 | 113 | [Stufen](https://open.spotify.com/track/0Aj0hJaWiHeplZ1LHIfTNz) | [Antifuchs](https://open.spotify.com/artist/5cPSq1945RxgQSIHkxp3Jq), [TACKA77](https://open.spotify.com/artist/2qW5OrEpn4I48VeS2p9sKb) | [FEMINEM](https://open.spotify.com/album/5HojPPDJe5l4YXE5av33YX) | 2:27 |
 
-Snapshot ID: `MCw5MzViODNjNmRhZmE5MWEzZDcyNTkzYTc1ZmI2MWY1ODY2Y2JkZjZk`
+Snapshot ID: `MCw0MzU2ZGExNGUzNWU2ODNjZDI4N2E0M2MzYTcxODgzYzhjOTkyMTdh`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXetIPpoiRSb.md) - [plain]
 
 > The freshest pop sounds\. Cover: Sabrina Carpenter
 
-[Spotify](https://open.spotify.com/user/spotify) - 202,195 likes - 80 songs - 4 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 202,668 likes - 80 songs - 4 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXetIPpoiRSb.md) - [plain]
 | 79 | [Angel](https://open.spotify.com/track/2soZTM1x1GBiQGMAsXKXpd) | [Halle](https://open.spotify.com/artist/3HsVtnnjOUToyJThxaoBfx) | [Angel](https://open.spotify.com/album/0VsjdPYUzQti57JmByRQvz) | 3:39 |
 | 80 | [Unbreakup](https://open.spotify.com/track/1G5J3sCY4PkxMg54ZUONv8) | [Leah Kate](https://open.spotify.com/artist/6oWOHAOyBUn6aJlKIPJK9r) | [Unbreakup / Brainwash \- A Super Over Double Feature](https://open.spotify.com/album/0loL4wV9WClA5j6GGoG5Fd) | 3:17 |
 
-Snapshot ID: `MCw2NTlkN2Y5YWQ4NGE0OGFkNThmNDUxYWJiYjk3ZTVhMjI1YzU3NGUx`
+Snapshot ID: `MCw0OTA3NjM2NmVkNTA2NDVlNmE1M2EzZWNmNDQzNzk2OGVjZjcyNTEz`

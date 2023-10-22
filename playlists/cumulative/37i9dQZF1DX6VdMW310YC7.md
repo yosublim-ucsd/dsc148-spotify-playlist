@@ -4,7 +4,7 @@
 
 > Softer kinda <a href="spotify:genre:edm\_dance">dance</a>.
 
-1,536 songs - 4 day 9 hr 49 min
+1,537 songs - 4 day 9 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -709,6 +709,7 @@
 | [Just A Fling \- Original Mix](https://open.spotify.com/track/1cs7pjDPGEayOd2YOr3kfG) | [nofilter](https://open.spotify.com/artist/37LjJMKJo7uRC6p1QCccib), [Furns](https://open.spotify.com/artist/0I0pGHj36QgKwEck9Ijbiy) | [Just A Fling](https://open.spotify.com/album/2RLPVpfIVAJw0F1ccQQC9W) | 4:10 | 2020-05-18 | 2020-07-03 |
 | [Just Gonna Exist](https://open.spotify.com/track/2f8bsBeF4Yk14cWPS9pZ3S) | [Mindchatter](https://open.spotify.com/artist/1He0ZKninbT4FMEV9hUZKn) | [Just Gonna Exist](https://open.spotify.com/album/4jEFulLJmErkVTpTJoq0iU) | 2:54 | 2020-04-23 | 2022-01-13 |
 | [Just Like That](https://open.spotify.com/track/6WKBGB00x5X08PwFNBJR6O) | [NORRA](https://open.spotify.com/artist/41TOmzyp8cryPs7PXHKdb7) | [Just Like That](https://open.spotify.com/album/6zrrB3fJ8DJsPfRUalHHlt) | 2:16 | 2023-09-15 |  |
+| [Just Over](https://open.spotify.com/track/3U4wxiV8A190qwogybOHC9) | [Yotto](https://open.spotify.com/artist/5Dyfxq0ZrFjjeFBdSNxDbo) | [Growth](https://open.spotify.com/album/4Hzs5eQgd83luaFDwTeSvv) | 2:54 | 2023-10-20 |  |
 | [Just Over](https://open.spotify.com/track/6vOane9RzzOIITCvbHJ6m2) | [Yotto](https://open.spotify.com/artist/5Dyfxq0ZrFjjeFBdSNxDbo) | [Just Over](https://open.spotify.com/album/2Y14Dz0r9cImcQ9Usm0xcx) | 2:54 | 2023-01-06 | 2023-10-13 |
 | [Just To Hear You Say](https://open.spotify.com/track/1bqLz6dF5MhBZkZO5QSf4N) | [Tinlicker](https://open.spotify.com/artist/5EmEZjq8eHEC6qFnT63Lza) | [Just To Hear You Say](https://open.spotify.com/album/4E8mL0pF0wa8wqQrShYVXQ) | 3:32 | 2022-01-14 | 2022-01-21 |
 | [Just To Hear You Say](https://open.spotify.com/track/1SJsKYhiDRLLddBnGzGgbW) | [Tinlicker](https://open.spotify.com/artist/5EmEZjq8eHEC6qFnT63Lza) | [Just To Hear You Say](https://open.spotify.com/album/7MxJMLEo4D1Jej3TYPPG95) | 3:33 | 2022-01-21 | 2022-09-24 |
@@ -896,7 +897,7 @@
 | [More Than You Ever Know](https://open.spotify.com/track/0HWt1VRBM1b6beVmcjPxIH) | [Sultan + Shepard](https://open.spotify.com/artist/14Tg9FvbNismPR1PJHxRau), [Angela McCluskey](https://open.spotify.com/artist/5AlIxbb8HarTSm2tdA5F0x) | [Indigo EP](https://open.spotify.com/album/1Q9c6iGrzaPX9IFn57UbYD) | 4:56 | 2022-01-21 | 2022-10-13 |
 | [Morning In Deira](https://open.spotify.com/track/5SweVCSfJekPl2UvtpPFnW) | [Above & Beyond](https://open.spotify.com/artist/10gzBoINW3cLJfZUka8Zoe) | [Morning In Deira / Time Heals](https://open.spotify.com/album/6dG2goWXJqxCsdPWSOEYtM) | 5:42 | 2022-05-20 | 2022-12-29 |
 | [Morning In Deira \(ABGT484\)](https://open.spotify.com/track/3mhe755WczChPz4fhnt3iT) | [Above & Beyond](https://open.spotify.com/artist/10gzBoINW3cLJfZUka8Zoe) | [Group Therapy Reflections Special](https://open.spotify.com/album/2NOoDMf0SjvoPSGTgy87fd) | 5:36 | 2022-05-27 | 2022-06-29 |
-| [Morning Light](https://open.spotify.com/track/7fJ5UGjo2oiNG1pmIboATC) | [Le Youth](https://open.spotify.com/artist/1Zz6NBe8UIZjm88TvehFtx) | [About Us](https://open.spotify.com/album/1hhz0ag2dAr0qw7W78smcT) | 4:33 | 2023-09-29 |  |
+| [Morning Light](https://open.spotify.com/track/7fJ5UGjo2oiNG1pmIboATC) | [Le Youth](https://open.spotify.com/artist/1Zz6NBe8UIZjm88TvehFtx) | [About Us](https://open.spotify.com/album/1hhz0ag2dAr0qw7W78smcT) | 4:33 | 2023-09-29 | 2023-10-22 |
 | [Morning Thoughts](https://open.spotify.com/track/5M7vcTOiey8zTQyK6gN6iu) | [Attom](https://open.spotify.com/artist/1Xq5wasmlEwC6TqCqJtP5o) | [Renew](https://open.spotify.com/album/5syV7dOzDfxdbc1hzDqnZw) | 4:02 | 2021-04-26 | 2022-07-29 |
 | [Morphine](https://open.spotify.com/track/7lNaZzqOAoV539OLvWA8Em) | [Slushii](https://open.spotify.com/artist/41rVuRHYAiH7ltBTHVR9We) | [Morphine](https://open.spotify.com/album/4pOcHVitfkqEBXaubfIdxj) | 3:55 | 2020-05-22 | 2020-07-03 |
 | [Motion](https://open.spotify.com/track/1YGVpvE7hKdqNArudG04Ll) | [Vandelux](https://open.spotify.com/artist/2rdSCmWgrIWA8pmwhS1T2k) | [Motion](https://open.spotify.com/album/0XrwWR8YPTfrboiAS3Dp8O) | 3:07 | 2022-09-09 | 2023-03-23 |

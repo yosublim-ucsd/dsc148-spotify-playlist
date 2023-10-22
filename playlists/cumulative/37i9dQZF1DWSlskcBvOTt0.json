@@ -330,7 +330,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-22",
       "duration_ms": 203902,
       "name": "All Good Alright",
       "url": "https://open.spotify.com/track/0bHqE2BMCWnkJDXUXcQAH0"
@@ -7764,6 +7764,32 @@
       "duration_ms": 439223,
       "name": "Raven",
       "url": "https://open.spotify.com/track/3DSz44pPAfri3xhLvoGLaY"
+    },
+    {
+      "album": {
+        "name": "Real Love (Liva K Remix)",
+        "url": "https://open.spotify.com/album/3joNpvmZheGoKgbIiQL1kd"
+      },
+      "artists": [
+        {
+          "name": "Martin Garrix",
+          "url": "https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ"
+        },
+        {
+          "name": "Lloyiso",
+          "url": "https://open.spotify.com/artist/3CrKgAMSBXsnTugbUqpu6g"
+        },
+        {
+          "name": "Liva K",
+          "url": "https://open.spotify.com/artist/63mVEANeXk1p622Ejj9rBj"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177577,
+      "name": "Real Love - Liva K Remix",
+      "url": "https://open.spotify.com/track/3TyPUGvK4G8pdrM3oEWlwg"
     },
     {
       "album": {

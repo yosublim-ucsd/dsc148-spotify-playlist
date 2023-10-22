@@ -1,12 +1,12 @@
 {
   "description": "Celebrating the godfather of Afrobeat.\n Cover: Fela Kuti",
-  "num_followers": 127820,
+  "num_followers": 127945,
   "original_name": "Timeless Afro ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjNDliZjFhZTFjNDQzYmFmM2RjNWI1OTc4OGZkMjFmNTBjMTdmN2Nh",
+  "snapshot_id": "MCw5Nzc0NmViNzUzNGMyZDkzMGZiMjE2MGJkZDYwMmMyNGZlNjBiZjI0",
   "tracks": [
     {
       "added_at": "2023-10-15 08:30:07",
@@ -411,22 +411,6 @@
     {
       "added_at": "2023-10-15 08:30:07",
       "album": {
-        "name": "SPOTLIGHT",
-        "url": "https://open.spotify.com/album/1HvZC18RODcUSqng5Q9KJ9"
-      },
-      "artists": [
-        {
-          "name": "Reekado Banks",
-          "url": "https://open.spotify.com/artist/3bxZkzk0PLHcetO9o4oxXn"
-        }
-      ],
-      "duration_ms": 185564,
-      "name": "Problem",
-      "url": "https://open.spotify.com/track/1x9iAQOjMEHWZX7UeqiyWV"
-    },
-    {
-      "added_at": "2023-10-15 08:30:07",
-      "album": {
         "name": "Least Expected",
         "url": "https://open.spotify.com/album/0CHBnB0nEDMhjNe1izWpoc"
       },
@@ -439,6 +423,22 @@
       "duration_ms": 218426,
       "name": "Yori Yori",
       "url": "https://open.spotify.com/track/1zPbuWCj1bx0MyDUdFnTF8"
+    },
+    {
+      "added_at": "2023-10-15 08:30:07",
+      "album": {
+        "name": "SPOTLIGHT",
+        "url": "https://open.spotify.com/album/1HvZC18RODcUSqng5Q9KJ9"
+      },
+      "artists": [
+        {
+          "name": "Reekado Banks",
+          "url": "https://open.spotify.com/artist/3bxZkzk0PLHcetO9o4oxXn"
+        }
+      ],
+      "duration_ms": 185564,
+      "name": "Problem",
+      "url": "https://open.spotify.com/track/1x9iAQOjMEHWZX7UeqiyWV"
     },
     {
       "added_at": "2023-10-15 08:30:07",
@@ -611,22 +611,6 @@
     {
       "added_at": "2023-10-15 08:30:07",
       "album": {
-        "name": "REWIND. SELECT. UPDATE",
-        "url": "https://open.spotify.com/album/5V7P9MxiwDQZzhklXRNgu6"
-      },
-      "artists": [
-        {
-          "name": "2Baba",
-          "url": "https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp"
-        }
-      ],
-      "duration_ms": 264360,
-      "name": "African Queen",
-      "url": "https://open.spotify.com/track/3FEc6z5Q5mgeZtbeBDNEEy"
-    },
-    {
-      "added_at": "2023-10-15 08:30:07",
-      "album": {
         "name": "Gongo Aso",
         "url": "https://open.spotify.com/album/4Lkl7erFMkTHWmkdSmEpj3"
       },
@@ -639,6 +623,22 @@
       "duration_ms": 216266,
       "name": "Gongo Aso",
       "url": "https://open.spotify.com/track/2uRYQDCdF76L5YNZflN8qK"
+    },
+    {
+      "added_at": "2023-10-15 08:30:07",
+      "album": {
+        "name": "REWIND. SELECT. UPDATE",
+        "url": "https://open.spotify.com/album/5V7P9MxiwDQZzhklXRNgu6"
+      },
+      "artists": [
+        {
+          "name": "2Baba",
+          "url": "https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp"
+        }
+      ],
+      "duration_ms": 264360,
+      "name": "African Queen",
+      "url": "https://open.spotify.com/track/3FEc6z5Q5mgeZtbeBDNEEy"
     },
     {
       "added_at": "2023-10-15 08:30:07",

@@ -1,12 +1,12 @@
 {
   "description": "Las canciones que quer\u00e9s escuchar [ERNES]",
-  "num_followers": 61548,
+  "num_followers": 61572,
   "original_name": "EyTeen!",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1OGY1ZDJmMjEyYzExOWRhNTJhODI4NGYwNzdmMjZjOGU4N2UyY2Ix",
+  "snapshot_id": "MCw0NWZkYjIxZjAzNDg3OTEwMDQ3NTk4YWQ1MzBiNDBhMjFiZGNhYzE3",
   "tracks": [
     {
       "added_at": "2023-10-20 03:00:00",
@@ -59,6 +59,22 @@
     {
       "added_at": "2023-10-20 03:00:00",
       "album": {
+        "name": "Water",
+        "url": "https://open.spotify.com/album/22sXXkKgjEuawIFL1e1tRw"
+      },
+      "artists": [
+        {
+          "name": "Tyla",
+          "url": "https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE"
+        }
+      ],
+      "duration_ms": 200255,
+      "name": "Water",
+      "url": "https://open.spotify.com/track/5aIVCx5tnk0ntmdiinnYvw"
+    },
+    {
+      "added_at": "2023-10-20 03:00:00",
+      "album": {
         "name": "La Bebe (Remix)",
         "url": "https://open.spotify.com/album/6aBVGuOUEuX18rHxyDWbti"
       },
@@ -75,22 +91,6 @@
       "duration_ms": 234352,
       "name": "La Bebe - Remix",
       "url": "https://open.spotify.com/track/2UW7JaomAMuX9pZrjVpHAU"
-    },
-    {
-      "added_at": "2023-10-20 03:00:00",
-      "album": {
-        "name": "Water",
-        "url": "https://open.spotify.com/album/22sXXkKgjEuawIFL1e1tRw"
-      },
-      "artists": [
-        {
-          "name": "Tyla",
-          "url": "https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE"
-        }
-      ],
-      "duration_ms": 200255,
-      "name": "Water",
-      "url": "https://open.spotify.com/track/5aIVCx5tnk0ntmdiinnYvw"
     },
     {
       "added_at": "2023-10-20 03:00:00",
@@ -915,26 +915,6 @@
     {
       "added_at": "2023-10-20 03:00:00",
       "album": {
-        "name": "Minina",
-        "url": "https://open.spotify.com/album/7lLRdLzvL8y4ayCR7sJ1uR"
-      },
-      "artists": [
-        {
-          "name": "Carre",
-          "url": "https://open.spotify.com/artist/5ZOdzCtZqx5FLdjpxFfXkO"
-        },
-        {
-          "name": "Spreen",
-          "url": "https://open.spotify.com/artist/1NIDfe1B5J1EyNiJcPZsfZ"
-        }
-      ],
-      "duration_ms": 101216,
-      "name": "Minina",
-      "url": "https://open.spotify.com/track/43XCNXaZvoi3MbvzFRL3pl"
-    },
-    {
-      "added_at": "2023-10-20 03:00:00",
-      "album": {
         "name": "\u00c9xtasis",
         "url": "https://open.spotify.com/album/3pfyjuT8pPM0i9K3i7n451"
       },
@@ -951,6 +931,26 @@
       "duration_ms": 191606,
       "name": "\u00c9xtasis",
       "url": "https://open.spotify.com/track/2X8AGLwb9F0JzJ9zT27a22"
+    },
+    {
+      "added_at": "2023-10-20 03:00:00",
+      "album": {
+        "name": "Minina",
+        "url": "https://open.spotify.com/album/7lLRdLzvL8y4ayCR7sJ1uR"
+      },
+      "artists": [
+        {
+          "name": "Carre",
+          "url": "https://open.spotify.com/artist/5ZOdzCtZqx5FLdjpxFfXkO"
+        },
+        {
+          "name": "Spreen",
+          "url": "https://open.spotify.com/artist/1NIDfe1B5J1EyNiJcPZsfZ"
+        }
+      ],
+      "duration_ms": 101216,
+      "name": "Minina",
+      "url": "https://open.spotify.com/track/43XCNXaZvoi3MbvzFRL3pl"
     },
     {
       "added_at": "2023-10-20 03:00:00",
@@ -1395,26 +1395,6 @@
     {
       "added_at": "2023-10-20 03:00:00",
       "album": {
-        "name": "Portales",
-        "url": "https://open.spotify.com/album/5KKcchRuyjfuLkecyRJcWx"
-      },
-      "artists": [
-        {
-          "name": "Tiago PZK",
-          "url": "https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1"
-        },
-        {
-          "name": "Rvssian",
-          "url": "https://open.spotify.com/artist/1fctva4kpRbg2k3v7kwRuS"
-        }
-      ],
-      "duration_ms": 145890,
-      "name": "Sex & Love",
-      "url": "https://open.spotify.com/track/3ylhgzhvSICQcyv0U3Ozwv"
-    },
-    {
-      "added_at": "2023-10-20 03:00:00",
-      "album": {
         "name": "Llor\u00e9",
         "url": "https://open.spotify.com/album/2ANjDgD1l0k62ysGqlYq3F"
       },
@@ -1431,6 +1411,26 @@
       "duration_ms": 157959,
       "name": "Llor\u00e9",
       "url": "https://open.spotify.com/track/0vZK1SF9YvleinESXpukDF"
+    },
+    {
+      "added_at": "2023-10-20 03:00:00",
+      "album": {
+        "name": "Portales",
+        "url": "https://open.spotify.com/album/5KKcchRuyjfuLkecyRJcWx"
+      },
+      "artists": [
+        {
+          "name": "Tiago PZK",
+          "url": "https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1"
+        },
+        {
+          "name": "Rvssian",
+          "url": "https://open.spotify.com/artist/1fctva4kpRbg2k3v7kwRuS"
+        }
+      ],
+      "duration_ms": 145890,
+      "name": "Sex & Love",
+      "url": "https://open.spotify.com/track/3ylhgzhvSICQcyv0U3Ozwv"
     },
     {
       "added_at": "2023-10-20 03:00:00",
@@ -1499,42 +1499,6 @@
     {
       "added_at": "2023-10-20 03:00:00",
       "album": {
-        "name": "Cerca de ti (feat. Rusherking, Bhavi, Tobi) [Remix]",
-        "url": "https://open.spotify.com/album/6vrYsaL806YXpu93pEqFY3"
-      },
-      "artists": [
-        {
-          "name": "Tiago PZK",
-          "url": "https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1"
-        },
-        {
-          "name": "LIT killah",
-          "url": "https://open.spotify.com/artist/1vqR17Iv8VFdzure1TAXEq"
-        },
-        {
-          "name": "Seven Kayne",
-          "url": "https://open.spotify.com/artist/4C29ETLBPmYKYwtJUepbJz"
-        },
-        {
-          "name": "Bhavi",
-          "url": "https://open.spotify.com/artist/7fT2Me47PQ8T7954PKrcwR"
-        },
-        {
-          "name": "Rusherking",
-          "url": "https://open.spotify.com/artist/3Apb2lGmGJaBmr0TTBJvIZ"
-        },
-        {
-          "name": "Tobi",
-          "url": "https://open.spotify.com/artist/6H70hylNqfc86Omz8GoyDB"
-        }
-      ],
-      "duration_ms": 241847,
-      "name": "Cerca de ti (feat. Rusherking, Bhavi, Tobi) - Remix",
-      "url": "https://open.spotify.com/track/7ifCZvsDAyzveOHqUYbrpz"
-    },
-    {
-      "added_at": "2023-10-20 03:00:00",
-      "album": {
         "name": "LA JOAQUI | DJ TAO Turreo Sessions #6",
         "url": "https://open.spotify.com/album/5fp2cMFps4ctRsi30e8tB6"
       },
@@ -1575,6 +1539,42 @@
     {
       "added_at": "2023-10-20 03:00:00",
       "album": {
+        "name": "Cerca de ti (feat. Rusherking, Bhavi, Tobi) [Remix]",
+        "url": "https://open.spotify.com/album/6vrYsaL806YXpu93pEqFY3"
+      },
+      "artists": [
+        {
+          "name": "Tiago PZK",
+          "url": "https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1"
+        },
+        {
+          "name": "LIT killah",
+          "url": "https://open.spotify.com/artist/1vqR17Iv8VFdzure1TAXEq"
+        },
+        {
+          "name": "Seven Kayne",
+          "url": "https://open.spotify.com/artist/4C29ETLBPmYKYwtJUepbJz"
+        },
+        {
+          "name": "Bhavi",
+          "url": "https://open.spotify.com/artist/7fT2Me47PQ8T7954PKrcwR"
+        },
+        {
+          "name": "Rusherking",
+          "url": "https://open.spotify.com/artist/3Apb2lGmGJaBmr0TTBJvIZ"
+        },
+        {
+          "name": "Tobi",
+          "url": "https://open.spotify.com/artist/6H70hylNqfc86Omz8GoyDB"
+        }
+      ],
+      "duration_ms": 241847,
+      "name": "Cerca de ti (feat. Rusherking, Bhavi, Tobi) - Remix",
+      "url": "https://open.spotify.com/track/7ifCZvsDAyzveOHqUYbrpz"
+    },
+    {
+      "added_at": "2023-10-20 03:00:00",
+      "album": {
         "name": "Hipnotizados",
         "url": "https://open.spotify.com/album/0vucmhfLxNOc87TDZydaI7"
       },
@@ -1591,22 +1591,6 @@
       "duration_ms": 142840,
       "name": "Hipnotizados",
       "url": "https://open.spotify.com/track/2t88IEEgCkZr9OQHOrOr3j"
-    },
-    {
-      "added_at": "2023-10-20 03:00:00",
-      "album": {
-        "name": "Una Noche M\u00e1s",
-        "url": "https://open.spotify.com/album/5REbyA2SMaMwfsYyVUbmSp"
-      },
-      "artists": [
-        {
-          "name": "Robleis",
-          "url": "https://open.spotify.com/artist/32AuV4BxATEf2i7YVhIjht"
-        }
-      ],
-      "duration_ms": 167608,
-      "name": "Una Noche M\u00e1s",
-      "url": "https://open.spotify.com/track/3wmy2N3KGBM9qKRRb2bNLr"
     },
     {
       "added_at": "2023-10-20 03:00:00",
@@ -1631,22 +1615,18 @@
     {
       "added_at": "2023-10-20 03:00:00",
       "album": {
-        "name": "DLUX",
-        "url": "https://open.spotify.com/album/5pAgLx8XeBoItzjT81csbJ"
+        "name": "Una Noche M\u00e1s",
+        "url": "https://open.spotify.com/album/5REbyA2SMaMwfsYyVUbmSp"
       },
       "artists": [
         {
-          "name": "DannyLux",
-          "url": "https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK"
-        },
-        {
-          "name": "Yami Safdie",
-          "url": "https://open.spotify.com/artist/4RWJOoYwgF978LOn8Fainp"
+          "name": "Robleis",
+          "url": "https://open.spotify.com/artist/32AuV4BxATEf2i7YVhIjht"
         }
       ],
-      "duration_ms": 141556,
-      "name": "ALGUIEN M\u00c1S (With Yami Safdie)",
-      "url": "https://open.spotify.com/track/0YeGf9akfyIq3FyKL1rkPl"
+      "duration_ms": 167608,
+      "name": "Una Noche M\u00e1s",
+      "url": "https://open.spotify.com/track/3wmy2N3KGBM9qKRRb2bNLr"
     },
     {
       "added_at": "2023-10-20 03:00:00",
@@ -1663,6 +1643,26 @@
       "duration_ms": 126958,
       "name": "Se\u00f1ales",
       "url": "https://open.spotify.com/track/4cIM8wpHVqmPTtLgH4ehun"
+    },
+    {
+      "added_at": "2023-10-20 03:00:00",
+      "album": {
+        "name": "DLUX",
+        "url": "https://open.spotify.com/album/5pAgLx8XeBoItzjT81csbJ"
+      },
+      "artists": [
+        {
+          "name": "DannyLux",
+          "url": "https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK"
+        },
+        {
+          "name": "Yami Safdie",
+          "url": "https://open.spotify.com/artist/4RWJOoYwgF978LOn8Fainp"
+        }
+      ],
+      "duration_ms": 141556,
+      "name": "ALGUIEN M\u00c1S (With Yami Safdie)",
+      "url": "https://open.spotify.com/track/0YeGf9akfyIq3FyKL1rkPl"
     },
     {
       "added_at": "2023-10-20 03:00:00",

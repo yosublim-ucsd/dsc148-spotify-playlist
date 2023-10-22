@@ -1,12 +1,12 @@
 {
   "description": "La liste de lecture officielle de l\u2019\u00e9dition 2023 des Francos de Montr\u00e9al!",
-  "num_followers": 3912,
+  "num_followers": 3911,
   "original_name": "Francos de Montr\u00e9al 2023",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkOGU2NzAxZDY3YTZjMmJiZGIyMzgxYjY0NDgxMGM0ZDZkZTZiNWY1",
+  "snapshot_id": "MCxjOTI2YzE1NjdmYjg0YzQ1MGIwMmIxYmMwMmZlNDVlMjE0YTNmYjA0",
   "tracks": [
     {
       "added_at": "2023-05-25 23:46:15",
@@ -743,6 +743,22 @@
     {
       "added_at": "2023-05-25 23:46:15",
       "album": {
+        "name": "Cassandre",
+        "url": "https://open.spotify.com/album/4BK5uN2Z1X1twCTVe6t92Q"
+      },
+      "artists": [
+        {
+          "name": "BR\u00d6",
+          "url": "https://open.spotify.com/artist/6U2PIOH8ZKgFprcdkIe8J5"
+        }
+      ],
+      "duration_ms": 184288,
+      "name": "Mauvais r\u00f4le",
+      "url": "https://open.spotify.com/track/6fRqPDU2L4PpwTBvByWRe9"
+    },
+    {
+      "added_at": "2023-05-25 23:46:15",
+      "album": {
         "name": "Adieu les monstres",
         "url": "https://open.spotify.com/album/0UrbIea2sXlvZfMhD9PkFA"
       },
@@ -759,22 +775,6 @@
       "duration_ms": 167186,
       "name": "Les gla\u00e7ons",
       "url": "https://open.spotify.com/track/2c5qBGUZBUm6g369hX6nSz"
-    },
-    {
-      "added_at": "2023-05-25 23:46:15",
-      "album": {
-        "name": "Cassandre",
-        "url": "https://open.spotify.com/album/4BK5uN2Z1X1twCTVe6t92Q"
-      },
-      "artists": [
-        {
-          "name": "BR\u00d6",
-          "url": "https://open.spotify.com/artist/6U2PIOH8ZKgFprcdkIe8J5"
-        }
-      ],
-      "duration_ms": 184288,
-      "name": "Mauvais r\u00f4le",
-      "url": "https://open.spotify.com/track/6fRqPDU2L4PpwTBvByWRe9"
     },
     {
       "added_at": "2023-05-25 23:46:15",
@@ -851,6 +851,26 @@
     {
       "added_at": "2023-05-25 23:46:15",
       "album": {
+        "name": "Si j'\u00e9tais toi",
+        "url": "https://open.spotify.com/album/26xPuIwsA9V886JRrAxF2r"
+      },
+      "artists": [
+        {
+          "name": "Tha\u00efs",
+          "url": "https://open.spotify.com/artist/6lliiJ1S813r1V4koJsGFh"
+        },
+        {
+          "name": "Lucill",
+          "url": "https://open.spotify.com/artist/16AIsiZAml6sFZCwiin97x"
+        }
+      ],
+      "duration_ms": 144720,
+      "name": "Si j'\u00e9tais toi",
+      "url": "https://open.spotify.com/track/7gtp58Uuzgl4zVObHaPwcN"
+    },
+    {
+      "added_at": "2023-05-25 23:46:15",
+      "album": {
         "name": "Charlie",
         "url": "https://open.spotify.com/album/0LmxzLt0YsLNsUaPUP4BgZ"
       },
@@ -883,26 +903,6 @@
       "duration_ms": 179384,
       "name": "L'\u00e9norme chien tr\u00e8s gentil",
       "url": "https://open.spotify.com/track/6svpIJIzxKMSpb7oieyN6p"
-    },
-    {
-      "added_at": "2023-05-25 23:46:15",
-      "album": {
-        "name": "Si j'\u00e9tais toi",
-        "url": "https://open.spotify.com/album/26xPuIwsA9V886JRrAxF2r"
-      },
-      "artists": [
-        {
-          "name": "Tha\u00efs",
-          "url": "https://open.spotify.com/artist/6lliiJ1S813r1V4koJsGFh"
-        },
-        {
-          "name": "Lucill",
-          "url": "https://open.spotify.com/artist/16AIsiZAml6sFZCwiin97x"
-        }
-      ],
-      "duration_ms": 144720,
-      "name": "Si j'\u00e9tais toi",
-      "url": "https://open.spotify.com/track/7gtp58Uuzgl4zVObHaPwcN"
     },
     {
       "added_at": "2023-05-25 23:46:15",
@@ -1331,22 +1331,6 @@
     {
       "added_at": "2023-05-25 23:46:15",
       "album": {
-        "name": "Aurore",
-        "url": "https://open.spotify.com/album/3sCIeVkKjVyZxe6ZSc189m"
-      },
-      "artists": [
-        {
-          "name": "Roselle",
-          "url": "https://open.spotify.com/artist/1ed5I5Y5G6Tn8CpI4LlKb3"
-        }
-      ],
-      "duration_ms": 96031,
-      "name": "Suffit d'attendre I",
-      "url": "https://open.spotify.com/track/7sTjKKeqMATaiX5yjbd3FB"
-    },
-    {
-      "added_at": "2023-05-25 23:46:15",
-      "album": {
         "name": "Il faut partir maintenant",
         "url": "https://open.spotify.com/album/09rm9yyPoxbfjOXMFpwfhm"
       },
@@ -1359,6 +1343,22 @@
       "duration_ms": 178405,
       "name": "Penses-tu rester encore?",
       "url": "https://open.spotify.com/track/6zwbqkwvMuqSLXGvQecKql"
+    },
+    {
+      "added_at": "2023-05-25 23:46:15",
+      "album": {
+        "name": "Aurore",
+        "url": "https://open.spotify.com/album/3sCIeVkKjVyZxe6ZSc189m"
+      },
+      "artists": [
+        {
+          "name": "Roselle",
+          "url": "https://open.spotify.com/artist/1ed5I5Y5G6Tn8CpI4LlKb3"
+        }
+      ],
+      "duration_ms": 96031,
+      "name": "Suffit d'attendre I",
+      "url": "https://open.spotify.com/track/7sTjKKeqMATaiX5yjbd3FB"
     },
     {
       "added_at": "2023-05-25 23:46:15",
@@ -1495,22 +1495,6 @@
     {
       "added_at": "2023-05-25 23:46:15",
       "album": {
-        "name": "Nous aurons toujours le ciel",
-        "url": "https://open.spotify.com/album/359QSNmwW8lrYF98xYH7CE"
-      },
-      "artists": [
-        {
-          "name": "\u00c9mile Bourgault",
-          "url": "https://open.spotify.com/artist/2TKKxcQSypO7QQK0A0a2Fi"
-        }
-      ],
-      "duration_ms": 272490,
-      "name": "Pauvre & malheureux",
-      "url": "https://open.spotify.com/track/1ti7F59demudfrzZebTins"
-    },
-    {
-      "added_at": "2023-05-25 23:46:15",
-      "album": {
         "name": "Emmanuelle",
         "url": "https://open.spotify.com/album/6cCZfRWhDASJ01M6s1ZrQ4"
       },
@@ -1523,6 +1507,22 @@
       "duration_ms": 146853,
       "name": "Non merci",
       "url": "https://open.spotify.com/track/63ixPBQwY5w4gXvi7XU7Br"
+    },
+    {
+      "added_at": "2023-05-25 23:46:15",
+      "album": {
+        "name": "Nous aurons toujours le ciel",
+        "url": "https://open.spotify.com/album/359QSNmwW8lrYF98xYH7CE"
+      },
+      "artists": [
+        {
+          "name": "\u00c9mile Bourgault",
+          "url": "https://open.spotify.com/artist/2TKKxcQSypO7QQK0A0a2Fi"
+        }
+      ],
+      "duration_ms": 272490,
+      "name": "Pauvre & malheureux",
+      "url": "https://open.spotify.com/track/1ti7F59demudfrzZebTins"
     },
     {
       "added_at": "2023-05-25 23:46:15",
@@ -1647,22 +1647,6 @@
     {
       "added_at": "2023-05-25 23:46:15",
       "album": {
-        "name": "Soleil",
-        "url": "https://open.spotify.com/album/25Fs9y1TTVzAtTyxzUtJ7T"
-      },
-      "artists": [
-        {
-          "name": "Peanut Butter Sunday",
-          "url": "https://open.spotify.com/artist/4eDqyTTv3OAh7WDEO4yKWB"
-        }
-      ],
-      "duration_ms": 147000,
-      "name": "Soleil",
-      "url": "https://open.spotify.com/track/1gyGXCiMFynb95T18Oc8yl"
-    },
-    {
-      "added_at": "2023-05-25 23:46:15",
-      "album": {
         "name": "C-17",
         "url": "https://open.spotify.com/album/1D5vGnjjpXVo5sSW5OMiAc"
       },
@@ -1683,18 +1667,34 @@
     {
       "added_at": "2023-05-25 23:46:15",
       "album": {
-        "name": "La fable de la grenouille dor\u00e9e",
-        "url": "https://open.spotify.com/album/2tcDyiKN4BWbQXgW494el5"
+        "name": "Soleil",
+        "url": "https://open.spotify.com/album/25Fs9y1TTVzAtTyxzUtJ7T"
       },
       "artists": [
         {
-          "name": "Vend\u00f4me",
-          "url": "https://open.spotify.com/artist/0Ynccr9no1SvYRuIL8jKqJ"
+          "name": "Peanut Butter Sunday",
+          "url": "https://open.spotify.com/artist/4eDqyTTv3OAh7WDEO4yKWB"
         }
       ],
-      "duration_ms": 224000,
-      "name": "03.04.19",
-      "url": "https://open.spotify.com/track/1rnnLXCZgFbnXw529B21H6"
+      "duration_ms": 147000,
+      "name": "Soleil",
+      "url": "https://open.spotify.com/track/1gyGXCiMFynb95T18Oc8yl"
+    },
+    {
+      "added_at": "2023-05-25 23:46:15",
+      "album": {
+        "name": "GLAM",
+        "url": "https://open.spotify.com/album/3oXFV6ywdIGcB5MTE1D7WM"
+      },
+      "artists": [
+        {
+          "name": "LUMI\u00c8RE",
+          "url": "https://open.spotify.com/artist/4ANqTWPfihrjaz66YFykwX"
+        }
+      ],
+      "duration_ms": 236906,
+      "name": "Rock Band",
+      "url": "https://open.spotify.com/track/6rqWGgXtPRQ00iEOQMUbCB"
     },
     {
       "added_at": "2023-05-25 23:46:15",
@@ -1731,18 +1731,34 @@
     {
       "added_at": "2023-05-25 23:46:15",
       "album": {
-        "name": "GLAM",
-        "url": "https://open.spotify.com/album/3oXFV6ywdIGcB5MTE1D7WM"
+        "name": "La fable de la grenouille dor\u00e9e",
+        "url": "https://open.spotify.com/album/2tcDyiKN4BWbQXgW494el5"
       },
       "artists": [
         {
-          "name": "LUMI\u00c8RE",
-          "url": "https://open.spotify.com/artist/4ANqTWPfihrjaz66YFykwX"
+          "name": "Vend\u00f4me",
+          "url": "https://open.spotify.com/artist/0Ynccr9no1SvYRuIL8jKqJ"
         }
       ],
-      "duration_ms": 236906,
-      "name": "Rock Band",
-      "url": "https://open.spotify.com/track/6rqWGgXtPRQ00iEOQMUbCB"
+      "duration_ms": 224000,
+      "name": "03.04.19",
+      "url": "https://open.spotify.com/track/1rnnLXCZgFbnXw529B21H6"
+    },
+    {
+      "added_at": "2023-05-25 23:46:15",
+      "album": {
+        "name": "Teinte",
+        "url": "https://open.spotify.com/album/5OhCrmOqckXZRLicXsmMWS"
+      },
+      "artists": [
+        {
+          "name": "Frais Dispo",
+          "url": "https://open.spotify.com/artist/6TDKketvd7bXUsKVcMKMb9"
+        }
+      ],
+      "duration_ms": 184946,
+      "name": "Juillet",
+      "url": "https://open.spotify.com/track/2C1YPDheJPxdmcheCMYvhP"
     },
     {
       "added_at": "2023-05-25 23:46:15",
@@ -1779,22 +1795,6 @@
     {
       "added_at": "2023-05-25 23:46:15",
       "album": {
-        "name": "Teinte",
-        "url": "https://open.spotify.com/album/5OhCrmOqckXZRLicXsmMWS"
-      },
-      "artists": [
-        {
-          "name": "Frais Dispo",
-          "url": "https://open.spotify.com/artist/6TDKketvd7bXUsKVcMKMb9"
-        }
-      ],
-      "duration_ms": 184946,
-      "name": "Juillet",
-      "url": "https://open.spotify.com/track/2C1YPDheJPxdmcheCMYvhP"
-    },
-    {
-      "added_at": "2023-05-25 23:46:15",
-      "album": {
         "name": "Volume 2",
         "url": "https://open.spotify.com/album/0Nmzcz93BpG0Guc9mAd0qi"
       },
@@ -1827,26 +1827,6 @@
     {
       "added_at": "2023-05-25 23:46:15",
       "album": {
-        "name": "normal",
-        "url": "https://open.spotify.com/album/6oCINsAkkdM3RguhaI8IOI"
-      },
-      "artists": [
-        {
-          "name": "blesse",
-          "url": "https://open.spotify.com/artist/5MGjRHDmuH8M7tuk7NVmge"
-        },
-        {
-          "name": "Sophia Bel",
-          "url": "https://open.spotify.com/artist/6WJnpSVDynCWGrhJcSQIm6"
-        }
-      ],
-      "duration_ms": 257880,
-      "name": "creusercreuser",
-      "url": "https://open.spotify.com/track/6Z9RMVyBJkWnF6GlemwMIk"
-    },
-    {
-      "added_at": "2023-05-25 23:46:15",
-      "album": {
         "name": "Le pouvoir de l'esprit est infini",
         "url": "https://open.spotify.com/album/4Tn6ivEofLTooQvhHqmTRm"
       },
@@ -1863,6 +1843,26 @@
       "duration_ms": 277195,
       "name": "Ensemble",
       "url": "https://open.spotify.com/track/6vM411RagdEKjnK4kb1f88"
+    },
+    {
+      "added_at": "2023-05-25 23:46:15",
+      "album": {
+        "name": "normal",
+        "url": "https://open.spotify.com/album/6oCINsAkkdM3RguhaI8IOI"
+      },
+      "artists": [
+        {
+          "name": "blesse",
+          "url": "https://open.spotify.com/artist/5MGjRHDmuH8M7tuk7NVmge"
+        },
+        {
+          "name": "Sophia Bel",
+          "url": "https://open.spotify.com/artist/6WJnpSVDynCWGrhJcSQIm6"
+        }
+      ],
+      "duration_ms": 257880,
+      "name": "creusercreuser",
+      "url": "https://open.spotify.com/track/6Z9RMVyBJkWnF6GlemwMIk"
     },
     {
       "added_at": "2023-05-25 23:46:15",
@@ -2083,22 +2083,6 @@
     {
       "added_at": "2023-05-25 23:46:15",
       "album": {
-        "name": "Contentement",
-        "url": "https://open.spotify.com/album/0JxgRw0X8dicjH6keF8f0M"
-      },
-      "artists": [
-        {
-          "name": "Julie Aub\u00e9",
-          "url": "https://open.spotify.com/artist/33iNg8aAPLNrC4e69kjMuM"
-        }
-      ],
-      "duration_ms": 205786,
-      "name": "Contentement",
-      "url": "https://open.spotify.com/track/2sSwrRdkrWSbtKNPvOAz39"
-    },
-    {
-      "added_at": "2023-05-25 23:46:15",
-      "album": {
         "name": "Anh\u00e9donie",
         "url": "https://open.spotify.com/album/7188natmAynJElRoh3pKWD"
       },
@@ -2115,18 +2099,18 @@
     {
       "added_at": "2023-05-25 23:46:15",
       "album": {
-        "name": "Lance-Flamme Lance-Glace",
-        "url": "https://open.spotify.com/album/4fdaBFDsJ1y7vJFgVMKvCR"
+        "name": "Contentement",
+        "url": "https://open.spotify.com/album/0JxgRw0X8dicjH6keF8f0M"
       },
       "artists": [
         {
-          "name": "YOCTO",
-          "url": "https://open.spotify.com/artist/6oL1PKTxXeIYiobQD30O3n"
+          "name": "Julie Aub\u00e9",
+          "url": "https://open.spotify.com/artist/33iNg8aAPLNrC4e69kjMuM"
         }
       ],
-      "duration_ms": 181286,
-      "name": "Lance-Flamme Lance-Glace",
-      "url": "https://open.spotify.com/track/04mBqAXAqVpBSjMRlD2qrv"
+      "duration_ms": 205786,
+      "name": "Contentement",
+      "url": "https://open.spotify.com/track/2sSwrRdkrWSbtKNPvOAz39"
     },
     {
       "added_at": "2023-05-25 23:46:15",
@@ -2147,18 +2131,18 @@
     {
       "added_at": "2023-05-25 23:46:15",
       "album": {
-        "name": "On va sauver ce qui reste",
-        "url": "https://open.spotify.com/album/6klAWNXAeknSb05EFLbllK"
+        "name": "Lance-Flamme Lance-Glace",
+        "url": "https://open.spotify.com/album/4fdaBFDsJ1y7vJFgVMKvCR"
       },
       "artists": [
         {
-          "name": "Pasteur Papillon",
-          "url": "https://open.spotify.com/artist/3x1SdsTSvhIkg0NcvDUlTB"
+          "name": "YOCTO",
+          "url": "https://open.spotify.com/artist/6oL1PKTxXeIYiobQD30O3n"
         }
       ],
-      "duration_ms": 164966,
-      "name": "Comme din' vues",
-      "url": "https://open.spotify.com/track/5msAtJ2hvNdz8uQhCuTrEt"
+      "duration_ms": 181286,
+      "name": "Lance-Flamme Lance-Glace",
+      "url": "https://open.spotify.com/track/04mBqAXAqVpBSjMRlD2qrv"
     },
     {
       "added_at": "2023-05-25 23:46:15",
@@ -2175,6 +2159,22 @@
       "duration_ms": 123541,
       "name": "Chou",
       "url": "https://open.spotify.com/track/7cXmpcXi9DW0ZgFxd1xbiB"
+    },
+    {
+      "added_at": "2023-05-25 23:46:15",
+      "album": {
+        "name": "On va sauver ce qui reste",
+        "url": "https://open.spotify.com/album/6klAWNXAeknSb05EFLbllK"
+      },
+      "artists": [
+        {
+          "name": "Pasteur Papillon",
+          "url": "https://open.spotify.com/artist/3x1SdsTSvhIkg0NcvDUlTB"
+        }
+      ],
+      "duration_ms": 164966,
+      "name": "Comme din' vues",
+      "url": "https://open.spotify.com/track/5msAtJ2hvNdz8uQhCuTrEt"
     },
     {
       "added_at": "2023-05-25 23:46:15",

@@ -4,7 +4,7 @@
 
 > New Hip Hop from India.
 
-163 songs - 8 hr 46 min
+164 songs - 8 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,7 +32,8 @@
 | [Bhussi](https://open.spotify.com/track/4jwC6DDNc7zhe6f6g4yqAd) | [KSHMR](https://open.spotify.com/artist/2wX6xSig4Rig5kZU6ePlWe), [Seedhe Maut](https://open.spotify.com/artist/2oBG74gAocPMFv6Ij9ykdo), [Karan Kanchan](https://open.spotify.com/artist/5mZ0Ee8OG1U9c4Wv2FKqvs) | [Bhussi](https://open.spotify.com/album/1bRdFGU7FkyGzJdODQz3dj) | 3:04 | 2023-07-04 |  |
 | [Blue Bandana](https://open.spotify.com/track/6OyaAyFZ6nzOwe6hoPa72N) | [Shez](https://open.spotify.com/artist/4VY44gs03ET26RjfICYmBe) | [Blue Bandana](https://open.spotify.com/album/2R032taLxn2FdTdKUIWNpb) | 2:29 | 2023-05-12 |  |
 | [Bombay Circle](https://open.spotify.com/track/0tG08mgXKpGLBUT1Kd8f2W) | [Bella](https://open.spotify.com/artist/5gzMmZ8RKovEfs38ca7hkG), [UZI](https://open.spotify.com/artist/3GtAADCtVUXFWxVwj99BTD) | [Chemical Reaction](https://open.spotify.com/album/4avCrGvAoyiwRbSQUdyaHf) | 3:05 | 2023-04-28 |  |
-| [Bombay Coast](https://open.spotify.com/track/1RNW6JS1eZhvO2LzodiX3B) | [Yashraj](https://open.spotify.com/artist/0TwG8C39WJIfFlcPrhxHST), [MLHVR](https://open.spotify.com/artist/1HZOuRhXA49pAZEdZbvKTn), [Adil](https://open.spotify.com/artist/3iTfVWPV4ur3XkrBwz41VZ), [Deorachit](https://open.spotify.com/artist/2ZtfmE2WlGjnaHwtwHbZXh) | [Bombay Coast](https://open.spotify.com/album/1h90h4U91NLlMP57WZxtBK) | 3:08 | 2023-04-28 |  |
+| [Bombay Coast](https://open.spotify.com/track/1RNW6JS1eZhvO2LzodiX3B) | [Yashraj](https://open.spotify.com/artist/0TwG8C39WJIfFlcPrhxHST), [MLHVR](https://open.spotify.com/artist/1HZOuRhXA49pAZEdZbvKTn), [Adil](https://open.spotify.com/artist/3iTfVWPV4ur3XkrBwz41VZ), [Deorachit](https://open.spotify.com/artist/2ZtfmE2WlGjnaHwtwHbZXh) | [Bombay Coast](https://open.spotify.com/album/1h90h4U91NLlMP57WZxtBK) | 3:08 | 2023-04-28 | 2023-10-22 |
+| [Bombay Coast](https://open.spotify.com/track/6UPH8T6KYQUWmH2521KkKQ) | [Yashraj](https://open.spotify.com/artist/0TwG8C39WJIfFlcPrhxHST), [MLHVR](https://open.spotify.com/artist/1HZOuRhXA49pAZEdZbvKTn), [Adil](https://open.spotify.com/artist/3CeFsxjQ2SMDVbTtTthj0r), [Deorachit](https://open.spotify.com/artist/2ZtfmE2WlGjnaHwtwHbZXh) | [Bombay Coast](https://open.spotify.com/album/1v4uIAnF4jJ5ez7tnwLRBK) | 3:08 | 2023-10-20 |  |
 | [BORN TO WIN](https://open.spotify.com/track/0PxAEK8LM9eE6tO5LaDEcQ) | [Raja Kumari](https://open.spotify.com/artist/5cBFMoMgcAt03YL2r0tS25) | [THE BRIDGE](https://open.spotify.com/album/1R3EK42SOA9RcbgugF3BBN) | 3:11 | 2023-04-28 | 2023-06-02 |
 | [Boyfriend](https://open.spotify.com/track/79L4Ilf14zlMlwosjVWWyG) | [Dino James](https://open.spotify.com/artist/45PG2L6Fh2XvYL4ONzpdoW), [Sez on the Beat](https://open.spotify.com/artist/7hI0IRD66iykVpXiieNRbe), [Bluish Music](https://open.spotify.com/artist/3KlLo4hL4Qq2mhSIGMfas6) | [Boyfriend](https://open.spotify.com/album/5iygFlfiQ410htPcHY6w0S) | 5:30 | 2023-04-21 |  |
 | [Bread And Butter](https://open.spotify.com/track/3DobnqNHraZV31RycNkFBF) | [Wazir Patar](https://open.spotify.com/artist/3bCfmBmsKvp4UXialp6xNZ), [Raja Kumari](https://open.spotify.com/artist/5cBFMoMgcAt03YL2r0tS25) | [Street Knowledge](https://open.spotify.com/album/4atfMjGwk0GMXIvGvqyNqC) | 2:39 | 2023-09-04 |  |

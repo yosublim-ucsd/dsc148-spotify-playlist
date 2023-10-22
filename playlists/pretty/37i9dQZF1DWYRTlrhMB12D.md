@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYRTlrhMB12D.md) - [plain]
 
 > Soulful Hindi songs for your nostalgic journey\. Cover \- Mere Jeevan Saathi
 
-[Spotify](https://open.spotify.com/user/spotify) - 290,417 likes - 75 songs - 5 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 291,045 likes - 75 songs - 5 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,7 +53,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYRTlrhMB12D.md) - [plain]
 | 43 | [Tera Mujhse \- From "Aa Gale Lag Jaa"](https://open.spotify.com/track/5ZitHRRotPvqopBbvmDUHi) | [Kishore Kumar](https://open.spotify.com/artist/0GF4shudTAFv8ak9eWdd4Y), [Sushma Shrestha](https://open.spotify.com/artist/0AyqjTeFKxSNXJAJLLUaUJ), [R\. D\. Burman](https://open.spotify.com/artist/2JSYASbWU5Y0fVpts3Eq7g) | [Kishore Kumar Most Loved Hits 2023](https://open.spotify.com/album/72yLAK3kpS2mktXo69c16J) | 4:14 |
 | 44 | [Teri Galiyon Mein](https://open.spotify.com/track/1KL9KL7o8af7b93kgQS85z) | [Mohammed Rafi](https://open.spotify.com/artist/0gXDpqwYNDODn7fB0RDN8J) | [Hawas \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5s3ScxHynhtYtV1kiWleTI) | 4:43 |
 | 45 | [Aye\-Dil\-E\-Nadan, Pt\. 1](https://open.spotify.com/track/4GPR2blOOTmvo1cW2rTM7J) | [Lata Mangeshkar](https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc) | [Razia Sultan \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4DRpPf4p78FiUuQhYuMm5V) | 5:39 |
-| 46 | [Nindiya Se Jagi Bahar](https://open.spotify.com/track/0W7WqMBoEJLWJ46uZ0C08v) | [Lata Mangeshkar](https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc) | [Hero \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6yQsPqhpbIN49FGws6o2Dv) | 6:20 |
+| 46 | [Nindiya Se Jagi Bahar \(From "Hero"\)](https://open.spotify.com/track/2jdoLNzDogFP1Nzk8SKRIJ) | [Lata Mangeshkar](https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc) | [Rhythmical Duo Laxmikant \- Pyarelal](https://open.spotify.com/album/0oooRZxphPmlfhGjXSnitS) | 6:20 |
 | 47 | [Na Tum Hamen Jano \- Male Vocals](https://open.spotify.com/track/63duKTfcFc60adEHebFkD9) | [Hemant Kumar](https://open.spotify.com/artist/02Um2HIOrUdsy3wqPBZwsj) | [Baat Ek Raat Ki \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5SMMj9xYoZSg6VpmQltOu1) | 3:21 |
 | 48 | [Phoolon Ke Rang Se \(From "Prem Pujari"\)](https://open.spotify.com/track/3J0VEn67cJuMUrJWDbsXiN) | [Kishore Kumar](https://open.spotify.com/artist/0GF4shudTAFv8ak9eWdd4Y) | [Coffee Aur Kishore](https://open.spotify.com/album/0bX8qbSF7lWNygaTcpcwQz) | 5:06 |
 | 49 | [Maine Tere Liye](https://open.spotify.com/track/0uiEephYATwDpp0DtBtf6d) | [Mukesh](https://open.spotify.com/artist/4etv0ut4ws0GbXBtolzf5e) | [Anand \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5YS9C9LtFu5GEIAFGfQZTJ) | 3:06 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYRTlrhMB12D.md) - [plain]
 | 74 | [Phir Chiddi Raat](https://open.spotify.com/track/0bdlGyCdA6DDg5wd5QfvQx) | [Lata Mangeshkar](https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc), [Talat Aziz](https://open.spotify.com/artist/6a0qIxqTaL1BgqUfby0JLc) | [Bazaar \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1avIfZTPBNVgxgbBSaNLnX) | 5:08 |
 | 75 | [Yeh Raat Yeh Chandni](https://open.spotify.com/track/1X8ZEqYlX1rSlaoQt5dRy9) | [Hemant Kumar](https://open.spotify.com/artist/02Um2HIOrUdsy3wqPBZwsj) | [Baarishein, Chai Aur Hemant Kumar](https://open.spotify.com/album/0Z4dnIU8RAr8hDEb8IKhko) | 4:56 |
 
-Snapshot ID: `MCw1NzJkZmNiNGM2OTNhOTY1MTUwZDdiODRjZGZjYTM3NjE1NzQwMmI2`
+Snapshot ID: `MCwxOTkwYjA2YzIzMTU0MjhlNjM0MjRhNGQ1ZDQwOTZmYTgyMDRjNjU1`

@@ -4,7 +4,7 @@
 
 > Vibey indie tracks for just hanging out.
 
-706 songs - 1 day 18 hr 23 min
+707 songs - 1 day 18 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -237,6 +237,7 @@
 | [Fool](https://open.spotify.com/track/4RA2kuqYCdqk1CeZjc3jlL) | [Kidsnot$aints.](https://open.spotify.com/artist/3vcmFdngDnToTjWO61hMTK) | [Fool](https://open.spotify.com/album/47GRGVpoDs4prZR1dGTOa4) | 2:38 | 2023-05-12 |  |
 | [For Goodness Sake](https://open.spotify.com/track/1ZzAja0kcAqJEXLZzVbPms) | [TRACE](https://open.spotify.com/artist/5k7Y2t4cB5dG219QgFCvXW) | [For Goodness Sake](https://open.spotify.com/album/5Jzk8JkbvxrTu6r5T6kKAu) | 3:07 | 2022-03-07 | 2022-04-10 |
 | [Foreign Fields](https://open.spotify.com/track/7e2lRhdJQ6vH4EwOrIMb4g) | [Kacy Hill](https://open.spotify.com/artist/4dYQmk5ma04mZ1KJ9KkAQK) | [Foreign Fields](https://open.spotify.com/album/4cL398EQIoZAKrTsNu3kSM) | 3:41 | 2020-10-16 | 2022-04-20 |
+| [Forever Thing](https://open.spotify.com/track/5c3NEMjZKsohIiQCygJiKv) | [Frex](https://open.spotify.com/artist/2sjktXSuCqEU42XUox2oXr) | [Forever Thing](https://open.spotify.com/album/5dmpDT2OwpoR8h3VzUSO0o) | 2:18 | 2023-09-29 |  |
 | [Forevermore](https://open.spotify.com/track/4r4uSdJJKV8RIcNKH7pX54) | [Cuco](https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP) | [Forevermore](https://open.spotify.com/album/6UppGVPzMsv9LJI2x4e0Qn) | 2:54 | 2021-06-04 | 2022-04-19 |
 | [FORTUNE COOKIE](https://open.spotify.com/track/15AlAaDJfXPfxvbuVzgFYV) | [easy life](https://open.spotify.com/artist/7uwY65fDg3FVJ8MkJ5QuZK) | [MAYBE IN ANOTHER LIFE...](https://open.spotify.com/album/5vvbek95UXDUAbdeDArk7m) | 2:29 | 2022-10-07 | 2023-03-12 |
 | [FORTUNE COOKIE](https://open.spotify.com/track/6RUqhV256iewIJuq622HVy) | [easy life](https://open.spotify.com/artist/7uwY65fDg3FVJ8MkJ5QuZK) | [FORTUNE COOKIE](https://open.spotify.com/album/69RYXrW4jEdIy6qFmLyTgj) | 2:29 | 2022-10-07 | 2022-10-16 |
@@ -257,7 +258,7 @@
 | [getforward](https://open.spotify.com/track/1FT8VzkSDfH90Dc9XxjbEL) | [Golden Vessel](https://open.spotify.com/artist/6bJCrLZcvsBMzve04BmgwS) | [getforward](https://open.spotify.com/album/5j2DVBoeO3YeAPtz9Nyqlg) | 10:00 | 2021-05-06 | 2022-07-29 |
 | [Getting It On](https://open.spotify.com/track/2HFLh8qlNfW4EPpHVHz7Ej) | [SALES](https://open.spotify.com/artist/6vVztIuqdDHvYWxOEXCzjN) | [SALES \- EP](https://open.spotify.com/album/36EvrQUkP9yDwRYP8uRr3R) | 3:00 | 2020-10-05\* | 2022-04-11 |
 | [Ghost On The Mend](https://open.spotify.com/track/6bBlZ4W1IhzdVKrXRDUTDR) | [Magic City Hippies](https://open.spotify.com/artist/1ikg4sypcURm8Vy5GP68xb) | [Ghost On The Mend](https://open.spotify.com/album/0o0Lfrkk55AJ8bU1t2zTsH) | 2:39 | 2021-08-27 | 2022-07-29 |
-| [Gimme A Chance](https://open.spotify.com/track/3Hu3EPU5S3ftac3ulsEw7d) | [Dreamer Isioma](https://open.spotify.com/artist/6u6AbTVrbabv27DLcSrF8i) | [Princess Forever](https://open.spotify.com/album/24nQZEr8mncYgewoIVbCHR) | 3:31 | 2023-04-21 |  |
+| [Gimme A Chance](https://open.spotify.com/track/3Hu3EPU5S3ftac3ulsEw7d) | [Dreamer Isioma](https://open.spotify.com/artist/6u6AbTVrbabv27DLcSrF8i) | [Princess Forever](https://open.spotify.com/album/24nQZEr8mncYgewoIVbCHR) | 3:31 | 2023-04-21 | 2023-10-22 |
 | [girl in new york](https://open.spotify.com/track/6APTEV2EIRpBEvuTrS5XTv) | [ROLE MODEL](https://open.spotify.com/artist/1dy5WNgIKQU6ezkpZs4y8z) | [girl in new york](https://open.spotify.com/album/5VcW0GioIrLZ8WZbhrhcL5) | 3:31 | 2020-10-05\* | 2022-05-21 |
 | [Give Me Her](https://open.spotify.com/track/2S4SKBEnfJGqc4smQCwvPb) | [Michl](https://open.spotify.com/artist/0qG3lxHmrUeKzL1BJJ7IBN) | [Give Me Her](https://open.spotify.com/album/1Nx0l3is4MZBMGVNtnrmVs) | 1:14 | 2021-05-05 | 2022-04-18 |
 | [Give Up Baby Go](https://open.spotify.com/track/6DIMM15oo3kxnCuVypaYGy) | [Peach Pit](https://open.spotify.com/artist/6fC2AcsQtd9h4BWELbbire) | [From 2 to 3](https://open.spotify.com/album/291A3Ud0sbMSfmG48k6GQY) | 4:17 | 2023-04-06 |  |

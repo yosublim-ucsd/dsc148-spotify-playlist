@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3uZHsihe90o.md) - [plain]
 
 > A down to earth collection of new and classic folk tunes for kids.
 
-[Spotify](https://open.spotify.com/user/spotify) - 227,957 likes - 70 songs - 3 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 227,983 likes - 70 songs - 3 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,8 +39,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3uZHsihe90o.md) - [plain]
 | 29 | [Oh, Susanna](https://open.spotify.com/track/3nj18sxe1CA0eohDsDirrm) | [Pete Seeger](https://open.spotify.com/artist/1P9syEkl41IFowWIJN7ZBY) | [American Favorite Ballads, Vol\. 1](https://open.spotify.com/album/7tOP92RZSo7e896sPIOPY8) | 1:17 |
 | 30 | [Cotton Eyed Joe](https://open.spotify.com/track/02Z2gq39hAcWux2Cbhfjsg) | [Caspar Babypants](https://open.spotify.com/artist/4wwj0BGZ6T61LB1jBWdo0n) | [More Please!](https://open.spotify.com/album/4IjjmD5S292op49x0kc677) | 2:23 |
 | 31 | [Hope Machine](https://open.spotify.com/track/6Z3N8VNcj4z6xIgMmdMZ0l) | [The Okee Dokee Brothers](https://open.spotify.com/artist/2RmT9R0322WMFN5x3OHMQe) | [Songs for Singin'](https://open.spotify.com/album/7x0JXg0yHlaPhLAyq87aLO) | 2:48 |
-| 32 | [Michael Row the Boat Ashore](https://open.spotify.com/track/1awrgXeSM9rCjdZaVmWeU6) | [Peter, Paul and Mary](https://open.spotify.com/artist/6yrBBtqX2gKCHCrZOYBDrB) | [Around the Campfire](https://open.spotify.com/album/2iGp6aL5TSPT0GQDsxJB7l) | 2:43 |
-| 33 | [Erie Canal](https://open.spotify.com/track/7fVZ6BoI9xnUElpSGHyL5M) | [Dan Zanes](https://open.spotify.com/artist/2iYByRd5wrZXBbmTyrISfC), [Friends](https://open.spotify.com/artist/6tEKn0lRsLGKdzRfJIHKFL), [Suzanne Vega](https://open.spotify.com/artist/3X0tJzVYoWlfjLYI0Ridsw) | [Rocket Ship Beach](https://open.spotify.com/album/0XuyWTrLhNgUWT0cb7btJJ) | 2:40 |
+| 32 | [Erie Canal](https://open.spotify.com/track/7fVZ6BoI9xnUElpSGHyL5M) | [Dan Zanes](https://open.spotify.com/artist/2iYByRd5wrZXBbmTyrISfC), [Friends](https://open.spotify.com/artist/6tEKn0lRsLGKdzRfJIHKFL), [Suzanne Vega](https://open.spotify.com/artist/3X0tJzVYoWlfjLYI0Ridsw) | [Rocket Ship Beach](https://open.spotify.com/album/0XuyWTrLhNgUWT0cb7btJJ) | 2:40 |
+| 33 | [Michael Row the Boat Ashore](https://open.spotify.com/track/1awrgXeSM9rCjdZaVmWeU6) | [Peter, Paul and Mary](https://open.spotify.com/artist/6yrBBtqX2gKCHCrZOYBDrB) | [Around the Campfire](https://open.spotify.com/album/2iGp6aL5TSPT0GQDsxJB7l) | 2:43 |
 | 34 | [All the Pretty Little Horses](https://open.spotify.com/track/55h7xXk2Y4yT5SnDZo5jnK) | [Laura Veirs](https://open.spotify.com/artist/0jkK3K1ATFFHofEWjd2i00) | [Tumble Bee](https://open.spotify.com/album/1fadoiabDmHdq0A2RIL7oT) | 2:16 |
 | 35 | [Kind Words](https://open.spotify.com/track/7wDBk2wRzyJsx97QVbeVCq) | [Claudia Robin Gunn](https://open.spotify.com/artist/1Dnn2mwwu3QwyQjXJFqyZN) | [Sing Through the Year \- A Little Wild Childhood](https://open.spotify.com/album/5o4FHVHGV736Qz4O9W7LUp) | 4:03 |
 | 36 | [The Crawdad Song](https://open.spotify.com/track/4iqH98UJzbmo9CnrjTxBSJ) | [Doc Watson](https://open.spotify.com/artist/01N1aZStXA4yGvkz4vRXtJ) | [Songs for Little Pickers](https://open.spotify.com/album/0Eyu2WvgKzBzggj2PRumrc) | 2:31 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3uZHsihe90o.md) - [plain]
 | 69 | [The Knowing \- From the Ani DiFranco Children's Book: The Knowing](https://open.spotify.com/track/72BkZqFQXtHrd1Ixd2J5kV) | [Ani DiFranco](https://open.spotify.com/artist/0AiTwNtYX8m4uhfU7rJ8RD) | [The Knowing \(From the Ani DiFranco Children's Book: The Knowing\)](https://open.spotify.com/album/5PVaE6TIUj8YbRns0b4m7T) | 5:11 |
 | 70 | [Good Day](https://open.spotify.com/track/4JKmixZkyW8l3Ua6dFzS51) | [The Zing Zangs](https://open.spotify.com/artist/2SWcpBbgCZbpKV3FtGafez) | [Good Day](https://open.spotify.com/album/6XDLhJRyyQN3ZLfmex2J7o) | 3:19 |
 
-Snapshot ID: `MCw0ZWNjNzQ4YmExYmFhN2ViYjkwN2Y2OGVmMjU4ZDQzODI0ZjNmY2Ji`
+Snapshot ID: `MCwxYTcwY2ZmZmY2YmU4MzE3OThjNTM1ZjllMjdmNGRjM2I5YzQ5YWIy`

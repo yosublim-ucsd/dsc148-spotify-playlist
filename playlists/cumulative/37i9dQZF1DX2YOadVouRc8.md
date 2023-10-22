@@ -4,7 +4,7 @@
 
 > Slow jams from West Africa that unwind and relax
 
-286 songs - 14 hr 26 min
+287 songs - 14 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,6 +27,7 @@
 | [Angel Dust](https://open.spotify.com/track/3fPf1NouFIWvxJGZa7O07g) | [H.O.M.A](https://open.spotify.com/artist/4D88aOR9IZ69deuxwFZHpc) | [Angel Dust](https://open.spotify.com/album/1chFNnjmzacp0xb2uhgn7P) | 2:47 | 2023-03-30 | 2023-06-06 |
 | [Angelus](https://open.spotify.com/track/2g43A8NJ0VInfpqUjsb5R6) | [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG) | [My Darling + Angelus](https://open.spotify.com/album/0FLA39VyPgqIUGQg413ptJ) | 3:06 | 2023-06-22 |  |
 | [Anticipate](https://open.spotify.com/track/1riqbH7Qd4VEXaWBd0L9YA) | [Xenia Manasseh](https://open.spotify.com/artist/2J4IvVbi2h1wB2A0p5kd86), [Karun](https://open.spotify.com/artist/50bljU0VZtp2E7nAFRy5pC) | [Anticipate](https://open.spotify.com/album/1gjvuirxy43mXAc6O7UNLD) | 2:47 | 2023-07-28 |  |
+| [AREA BOYZ PRAYER \(feat\. Seyi Vibez\)](https://open.spotify.com/track/4q66cTrveS3OCh2cIeOKRS) | [NSG](https://open.spotify.com/artist/31Ua7zSTJxegjyd49ujbSA), [Seyi Vibez](https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx) | [AREA BOYZ](https://open.spotify.com/album/3Uo1dpUULgBeWEgjf5AMsd) | 4:10 | 2023-10-20 |  |
 | [Baby Riddim](https://open.spotify.com/track/77eZIuMTB9HrQ86L4ljqEX) | [Fave](https://open.spotify.com/artist/4wAqlYtTaaHELEgyCh9KjG) | [Baby Riddim](https://open.spotify.com/album/6dCmbmHyfCQpmJGZW9Am3b) | 3:10 | 2022-06-09 |  |
 | [BAD 4 ME](https://open.spotify.com/track/5AtlUqgx9gKkxnK7ogynPn) | [Fasina](https://open.spotify.com/artist/46A6IKsvzRN2Y6QHLkHvmw) | [BAD 4 ME](https://open.spotify.com/album/4FDkDPETtPpH0ede2qV1hN) | 2:20 | 2022-12-08 | 2023-03-25 |
 | [Bad Boy](https://open.spotify.com/track/7sbjQGLQdhcMzah7MLWxRn) | [Geoxpress](https://open.spotify.com/artist/2te0zfHOaOT11OYBSwBzVV) | [Xpressions](https://open.spotify.com/album/1FR2FWDJuZunI2wWH14lHD) | 2:55 | 2023-08-10 | 2023-09-10 |
@@ -159,7 +160,7 @@
 | [Many Man](https://open.spotify.com/track/4R2luhzq04pJjSQWNOiY0S) | [Stainless](https://open.spotify.com/artist/5Y6MOzpao9KN6cjk0tUlmT) | [Many Man](https://open.spotify.com/album/46cAEUCfM1djPs5ydCww2C) | 2:36 | 2023-04-14 | 2023-07-15 |
 | [Maria](https://open.spotify.com/track/0nUdCgNaD390nOnmbBxRp9) | [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG), [Falz](https://open.spotify.com/artist/2s187JqHC9kipPLBLWXubl) | [Saturn](https://open.spotify.com/album/6QZtBw7JM1PqmJwcGQaSVX) | 2:43 | 2023-09-29 |  |
 | [Maria](https://open.spotify.com/track/31vGsbC3mF1BQN2yoAIbwM) | [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG), [Falz](https://open.spotify.com/artist/2s187JqHC9kipPLBLWXubl) | [Saturn](https://open.spotify.com/album/4RIkecgp5BwhKiYTt9tmwB) | 2:43 | 2022-06-09 | 2023-04-22 |
-| [Mayana](https://open.spotify.com/track/0SVGaPNKJYl3JtVoScM7tF) | [Aṣa](https://open.spotify.com/artist/0upXUo04k4k8bGVSkmgrSc) | [Mayana](https://open.spotify.com/album/3ZW36cj6b0bNOrcICqqsek) | 2:38 | 2022-06-09 |  |
+| [Mayana](https://open.spotify.com/track/0SVGaPNKJYl3JtVoScM7tF) | [Aṣa](https://open.spotify.com/artist/0upXUo04k4k8bGVSkmgrSc) | [Mayana](https://open.spotify.com/album/3ZW36cj6b0bNOrcICqqsek) | 2:38 | 2022-06-09 | 2023-10-22 |
 | [MEDITATE](https://open.spotify.com/track/3luCfdUPwws6omTEmIUKXX) | [Suté Iwar](https://open.spotify.com/artist/7MDpxR0Wzmqg7Ty7aJ77lu), [Tay Iwar](https://open.spotify.com/artist/0iqznAW9pzZ7KOjx8aCMWo), [Lex Amor](https://open.spotify.com/artist/0IKVDL3N8vpYgeNOV6np14) | [ULTRALIGHT](https://open.spotify.com/album/555u9I3MowqYOghGFSAR7U) | 3:57 | 2023-04-21 |  |
 | [Meridian](https://open.spotify.com/track/73LBcJygFdRAiJfWkpnf2G) | [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK), [Tiakola](https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh) | [Meridian](https://open.spotify.com/album/7Fp5mM8sFPyd5KYzBIzXwU) | 4:15 | 2023-08-17 | 2023-10-18 |
 | [Miami](https://open.spotify.com/track/2DHvPClgI3WfnozlHpirmf) | [DJ Tunez](https://open.spotify.com/artist/64oW4P0vsDhlorOxZKQi6a), [D3an](https://open.spotify.com/artist/7fxlgdYoZS0VKxOq9xondZ) | [International Arrivals Vol\. 2](https://open.spotify.com/album/2to3zDJwkWxK3Pgc1fvsI7) | 5:53 | 2022-06-09 | 2023-03-04 |

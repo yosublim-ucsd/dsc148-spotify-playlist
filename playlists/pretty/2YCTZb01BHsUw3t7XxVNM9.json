@@ -1,12 +1,12 @@
 {
   "description": "Western orientated Hardcore Music by Japanese Artists",
-  "num_followers": 473,
+  "num_followers": 475,
   "original_name": "Japanese Hardstyle/Hardcore | J-Core | WeebCore |",
   "owner": {
     "name": "\u30a2\u30ea\u30b9\u7231\u4e3d\u4e1d",
     "url": "https://open.spotify.com/user/megustager"
   },
-  "snapshot_id": "NTY0LGI1ODJjNTQ4NTA2ZTYxNDA0ZTM0Yjc3NjBjYTA5MDNkNjk1ZDM1YjI=",
+  "snapshot_id": "NTY1LDk1OTFhNTVhNTMxMzBmMjI3MTEwMmJiNzc5NDg2NTFhNjVjOGEyZGM=",
   "tracks": [
     {
       "added_at": "2019-01-29 19:29:28",
@@ -8115,6 +8115,30 @@
       "duration_ms": 205200,
       "name": "SuM=",
       "url": "https://open.spotify.com/track/06Jw8Aky4P3TJmOVpNCQPc"
+    },
+    {
+      "added_at": "2023-10-21 11:35:53",
+      "album": {
+        "name": "The Rebellion of Phantom",
+        "url": "https://open.spotify.com/album/4k11gYcrFxakAe1KUTgekq"
+      },
+      "artists": [
+        {
+          "name": "DJ Myosuke",
+          "url": "https://open.spotify.com/artist/0GsEX8wr2fhu19PIwQh1oG"
+        },
+        {
+          "name": "Gram",
+          "url": "https://open.spotify.com/artist/3WtLwZYH0N8mqSaUjEW1kF"
+        },
+        {
+          "name": "Valkyria",
+          "url": "https://open.spotify.com/artist/6VBtv6VrmPo7gew0XeYsTc"
+        }
+      ],
+      "duration_ms": 189732,
+      "name": "The Rebellion of Phantom",
+      "url": "https://open.spotify.com/track/75epRWAPKkQcnUUp9AzkUk"
     }
   ],
   "unique_name": "Japanese Hardstyle/Hardcore | J-Core | WeebCore |",

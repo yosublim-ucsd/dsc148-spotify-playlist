@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWBHeXOYZf74.md) - [plain]
 
 > Genre\-less\. Quality first always\. Cover: Sampha
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,328,962 likes - 101 songs - 5 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,328,966 likes - 101 songs - 5 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,7 +39,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWBHeXOYZf74.md) - [plain]
 | 29 | [Frisco Blues](https://open.spotify.com/track/1lZOlQheMnvyuw9BGzALiV) | [Lewis OfMan](https://open.spotify.com/artist/1hkRfKGoJisJDbo6eSf1pg) | [Frisco Blues](https://open.spotify.com/album/0KteuByNpfG6DnPfNPytbF) | 4:07 |
 | 30 | [Phoenix](https://open.spotify.com/track/4SDtLLn8LmbOStJeL9Vhkk) | [Lord Apex](https://open.spotify.com/artist/052uglZ4PgpVs8YxEOViXz), [Freddie Gibbs](https://open.spotify.com/artist/0Y4inQK6OespitzD6ijMwb) | [Phoenix](https://open.spotify.com/album/3Vjb7MVaReVbjw4yXbMp5j) | 3:33 |
 | 31 | [Jungle](https://open.spotify.com/track/2awBXPPzbOhux8MwSLozg9) | [Chanpan](https://open.spotify.com/artist/1fWoiW6kTjrVDoRc4ba3kh), [Ladji Mouflet](https://open.spotify.com/artist/2NNTIDSDRlsf4lzYW9fpKm) | [Jungle](https://open.spotify.com/album/4bZ6u5RDYajHIfSenUNdwe) | 2:45 |
-| 32 | [Parker Solar Probe \(feat\. Jeff Parker\)](https://open.spotify.com/track/0JGOPrUmv15poKwctx9Cd5) | [The South Hill Experiment](https://open.spotify.com/artist/6PmrG14lGhCeDfxf40nbZX), [Baird](https://open.spotify.com/artist/7GdGZWPHxDEu0ppvLoB4GO), [Goldwash](https://open.spotify.com/artist/7yYa2im7sawSzuVkXx8W21), [Jeff Parker](https://open.spotify.com/artist/3AaY5O1qS0tcNPHwwMwplt) | [Parker Solar Probe / Deep Green](https://open.spotify.com/album/28OoJ2mEiBD84JQriup0tk) | 2:24 |
+| 32 | [Parker Solar Probe feat\. Jeff Parker](https://open.spotify.com/track/0JGOPrUmv15poKwctx9Cd5) | [The South Hill Experiment](https://open.spotify.com/artist/6PmrG14lGhCeDfxf40nbZX), [Baird](https://open.spotify.com/artist/7GdGZWPHxDEu0ppvLoB4GO), [Goldwash](https://open.spotify.com/artist/7yYa2im7sawSzuVkXx8W21), [Jeff Parker](https://open.spotify.com/artist/3AaY5O1qS0tcNPHwwMwplt) | [Parker Solar Probe / Deep Green](https://open.spotify.com/album/28OoJ2mEiBD84JQriup0tk) | 2:24 |
 | 33 | [Vin Skully](https://open.spotify.com/track/09kYuK9gLUai92QYwsrU49) | [Earl Sweatshirt](https://open.spotify.com/artist/3A5tHz1SfngyOZM2gItYKu), [The Alchemist](https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu) | [VOIR DIRE](https://open.spotify.com/album/2jFEoWXPcVtO7MX0j12kZ6) | 1:53 |
 | 34 | [Desire](https://open.spotify.com/track/3ocGQh1erdD9zAfijHMQZu) | [Cleo Sol](https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq) | [Gold](https://open.spotify.com/album/67DWn1tZ245gendegv7Ioz) | 4:53 |
 | 35 | [Its me \( g 8 \)](https://open.spotify.com/track/3dC6yRjocmprQqEYvv72Ft) | [Actress](https://open.spotify.com/artist/3bg5rmICvmA8dmYVAdKGYH) | [Its me \( g 8 \) / Oway \( f 7 \)](https://open.spotify.com/album/6rZTJHYLDsA564tCn9kEJ9) | 5:17 |
@@ -110,4 +110,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWBHeXOYZf74.md) - [plain]
 | 100 | [Vous Venez Souvent Ici?](https://open.spotify.com/track/7Fou7tDtiyNdHybKF1cDvQ) | [Bien et Toi](https://open.spotify.com/artist/4suQx12DObcRABlwiuA96a) | [Vous Venez Souvent Ici?](https://open.spotify.com/album/2fpfr1uAv5ZZFsxpBQAP9M) | 2:16 |
 | 101 | [Charge It](https://open.spotify.com/track/2YIIDMcF9zWJ2xcFSA99lH) | [ENNY](https://open.spotify.com/artist/3qEnCAnX23lvoxZYtBiPgL) | [We Go Again](https://open.spotify.com/album/4vdQXcHcAGcVSBA7956EMq) | 3:05 |
 
-Snapshot ID: `MCwxNTU5ZGUzYmNkNzhkMzdiMDAxY2IyYTBiNmJlYzc1ZTA1YWE5YzQx`
+Snapshot ID: `MCxiNjE2MTBlM2Y0MzY5NmVhNDI5Y2I3Njc4OTUxZGNjZjA3ZGU1MmVm`

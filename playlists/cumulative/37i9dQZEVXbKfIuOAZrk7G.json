@@ -4628,7 +4628,7 @@
       ],
       "date_added": "2023-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-22",
       "duration_ms": 182532,
       "name": "Brand New",
       "url": "https://open.spotify.com/track/697cBYjdAjPKe0RsEc6532"
@@ -5625,7 +5625,7 @@
         },
         {
           "name": "Intense",
-          "url": "https://open.spotify.com/artist/4RoQtkwhuRs1MivL5XuB4E"
+          "url": "https://open.spotify.com/artist/0OS0NZnK7TGIAWx8MkWNFN"
         }
       ],
       "date_added": "2023-10-17",
@@ -10458,7 +10458,7 @@
       ],
       "date_added": "2023-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-22",
       "duration_ms": 156306,
       "name": "FAN",
       "url": "https://open.spotify.com/track/41JN30LlL093JqC2YUJ0IW"
@@ -10704,7 +10704,7 @@
       ],
       "date_added": "2023-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-22",
       "duration_ms": 183328,
       "name": "Feed the Machine",
       "url": "https://open.spotify.com/track/40wmXUgVB0N5eLK8CuOhm3"
@@ -18597,7 +18597,7 @@
         },
         {
           "name": "Intense",
-          "url": "https://open.spotify.com/artist/4RoQtkwhuRs1MivL5XuB4E"
+          "url": "https://open.spotify.com/artist/0OS0NZnK7TGIAWx8MkWNFN"
         },
         {
           "name": "Sultaan",
@@ -24597,6 +24597,24 @@
     },
     {
       "album": {
+        "name": "ONE MORE TIME...",
+        "url": "https://open.spotify.com/album/1OteY9OFTmoZ0vmZT89wPd"
+      },
+      "artists": [
+        {
+          "name": "blink-182",
+          "url": "https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP"
+        }
+      ],
+      "date_added": "2023-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208114,
+      "name": "ONE MORE TIME",
+      "url": "https://open.spotify.com/track/1ja4311zfLHqUL96poSXfP"
+    },
+    {
+      "album": {
         "name": "ONE MORE TIME / MORE THAN YOU KNOW",
         "url": "https://open.spotify.com/album/12shcf6jYi3XhXxAL7U6N9"
       },
@@ -29288,7 +29306,7 @@
       ],
       "date_added": "2023-10-17",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-20",
+      "date_removed": null,
       "duration_ms": 219617,
       "name": "SHAQ & KOBE",
       "url": "https://open.spotify.com/track/02K2VtGdUG5fUlAQATEgE6"
@@ -31350,7 +31368,7 @@
       ],
       "date_added": "2022-10-25",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-19",
+      "date_removed": null,
       "duration_ms": 182346,
       "name": "Stick Season",
       "url": "https://open.spotify.com/track/0mflMxspEfB0VbI1kyLiAv"
@@ -35010,7 +35028,7 @@
       ],
       "date_added": "2023-10-10",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-21",
+      "date_removed": null,
       "duration_ms": 75692,
       "name": "TUCA DONKA",
       "url": "https://open.spotify.com/track/7bxyNLXYaEYaZTxAuQTHlD"
@@ -38520,7 +38538,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-22",
       "duration_ms": 200506,
       "name": "You Don\u2019t Want That Smoke. - The Acoustic Version.",
       "url": "https://open.spotify.com/track/2Ca9OSwJhhxO8HbsnTTsqu"

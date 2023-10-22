@@ -1,12 +1,12 @@
 {
   "description": "Relaxe com hinos ac\u00fasticos. Foto: AM\u00c9M",
-  "num_followers": 273633,
+  "num_followers": 273837,
   "original_name": "Gospel Ac\u00fastico",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3M2IxOTgxOTE3NzE4YzY0YjY0N2MyNzE1NjUzZTk1OWI4MWJhYWNl",
+  "snapshot_id": "MCwzNTNiZDM5OTg5N2E3NjcxMTc0ZmMwYzdlNGRmNDJkNTQxN2IwOTg5",
   "tracks": [
     {
       "added_at": "2023-10-20 03:00:00",
@@ -62,11 +62,31 @@
         {
           "name": "Jess\u00e9 Aguiar",
           "url": "https://open.spotify.com/artist/0g4xsygciHCrujQzdXUudC"
+        },
+        {
+          "name": "Todah Music",
+          "url": "https://open.spotify.com/artist/1A5kGvmKIVtX7NhcbtTZJY"
         }
       ],
       "duration_ms": 285098,
       "name": "Al\u00edvio",
       "url": "https://open.spotify.com/track/40KZgKCIvRVIoZqv9lNBoP"
+    },
+    {
+      "added_at": "2023-10-20 03:00:00",
+      "album": {
+        "name": "Como Ser\u00e1 O Amanh\u00e3",
+        "url": "https://open.spotify.com/album/78U8cKx6Jl6K94h0QFbV8B"
+      },
+      "artists": [
+        {
+          "name": "Igor Roque",
+          "url": "https://open.spotify.com/artist/64Zevud6ZejXRQjAMhlZS8"
+        }
+      ],
+      "duration_ms": 109541,
+      "name": "Como Ser\u00e1 O Amanh\u00e3",
+      "url": "https://open.spotify.com/track/7cKf9UHzecwKD3hBRSGvTj"
     },
     {
       "added_at": "2023-10-20 03:00:00",
@@ -87,22 +107,6 @@
       "duration_ms": 219240,
       "name": "Minha Calmaria",
       "url": "https://open.spotify.com/track/6ljL3K3Poa4le6P52a6bbJ"
-    },
-    {
-      "added_at": "2023-10-20 03:00:00",
-      "album": {
-        "name": "Como Ser\u00e1 O Amanh\u00e3",
-        "url": "https://open.spotify.com/album/78U8cKx6Jl6K94h0QFbV8B"
-      },
-      "artists": [
-        {
-          "name": "Igor Roque",
-          "url": "https://open.spotify.com/artist/64Zevud6ZejXRQjAMhlZS8"
-        }
-      ],
-      "duration_ms": 109541,
-      "name": "Como Ser\u00e1 O Amanh\u00e3",
-      "url": "https://open.spotify.com/track/7cKf9UHzecwKD3hBRSGvTj"
     },
     {
       "added_at": "2023-10-20 03:00:00",
@@ -211,38 +215,6 @@
     {
       "added_at": "2023-10-20 03:00:00",
       "album": {
-        "name": "O Dia Que Ser\u00e1 Pra Sempre",
-        "url": "https://open.spotify.com/album/2KTRJyzvBRhjQpmMJ6m85C"
-      },
-      "artists": [
-        {
-          "name": "Rodolfo Abrantes",
-          "url": "https://open.spotify.com/artist/0M8rmgpYMtvYbHvXD3cHkN"
-        }
-      ],
-      "duration_ms": 283813,
-      "name": "O Dia Que Ser\u00e1 Pra Sempre",
-      "url": "https://open.spotify.com/track/4stbVaoXgrjq9bCj2SStmG"
-    },
-    {
-      "added_at": "2023-10-20 03:00:00",
-      "album": {
-        "name": "A Reforma",
-        "url": "https://open.spotify.com/album/4KBIEVDd3ir9rPT0R7NpZJ"
-      },
-      "artists": [
-        {
-          "name": "Jess\u00e9 Aguiar",
-          "url": "https://open.spotify.com/artist/0g4xsygciHCrujQzdXUudC"
-        }
-      ],
-      "duration_ms": 320361,
-      "name": "A Reforma",
-      "url": "https://open.spotify.com/track/2SoMuOk34QwKEfn3RsA60R"
-    },
-    {
-      "added_at": "2023-10-20 03:00:00",
-      "album": {
         "name": "O Tamanho da Tua Dor",
         "url": "https://open.spotify.com/album/2mhTrOtvd1RBNPKamuICTg"
       },
@@ -255,6 +227,42 @@
       "duration_ms": 216000,
       "name": "O Tamanho da Tua Dor",
       "url": "https://open.spotify.com/track/2mDecxwnK1KzuDonVfYL90"
+    },
+    {
+      "added_at": "2023-10-20 03:00:00",
+      "album": {
+        "name": "A Reforma",
+        "url": "https://open.spotify.com/album/4KBIEVDd3ir9rPT0R7NpZJ"
+      },
+      "artists": [
+        {
+          "name": "Jess\u00e9 Aguiar",
+          "url": "https://open.spotify.com/artist/0g4xsygciHCrujQzdXUudC"
+        },
+        {
+          "name": "Todah Music",
+          "url": "https://open.spotify.com/artist/1A5kGvmKIVtX7NhcbtTZJY"
+        }
+      ],
+      "duration_ms": 320361,
+      "name": "A Reforma",
+      "url": "https://open.spotify.com/track/2SoMuOk34QwKEfn3RsA60R"
+    },
+    {
+      "added_at": "2023-10-20 03:00:00",
+      "album": {
+        "name": "Pode Morar Aqui (Ac\u00fastico)",
+        "url": "https://open.spotify.com/album/26vrgC3uwDY9OGwbDiCFsL"
+      },
+      "artists": [
+        {
+          "name": "Theo Rubia",
+          "url": "https://open.spotify.com/artist/3bTnUXCo3suJiLVb79pExe"
+        }
+      ],
+      "duration_ms": 304477,
+      "name": "Pode Morar Aqui - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/2TwohRKItIZe5bnJkQXQyU"
     },
     {
       "added_at": "2023-10-20 03:00:00",
@@ -295,22 +303,18 @@
     {
       "added_at": "2023-10-20 03:00:00",
       "album": {
-        "name": "Gra\u00e7a (Ao Vivo)",
-        "url": "https://open.spotify.com/album/0Gdv1W2qUBvyGokxjDmK71"
+        "name": "O Dia Que Ser\u00e1 Pra Sempre",
+        "url": "https://open.spotify.com/album/2KTRJyzvBRhjQpmMJ6m85C"
       },
       "artists": [
         {
-          "name": "Paulo Cesar Baruk",
-          "url": "https://open.spotify.com/artist/0GQKmEguhkY8DCzH4NdJvD"
-        },
-        {
-          "name": "Leonardo Gon\u00e7alves",
-          "url": "https://open.spotify.com/artist/6AyvSIi2EyLOaMJCc6J5fZ"
+          "name": "Rodolfo Abrantes",
+          "url": "https://open.spotify.com/artist/0M8rmgpYMtvYbHvXD3cHkN"
         }
       ],
-      "duration_ms": 513960,
-      "name": "Santo Esp\u00edrito (Holy Spirit) (feat. Leonardo Gon\u00e7alves) - Ao Vivo",
-      "url": "https://open.spotify.com/track/06I10BV3eKbBeWMELGddHT"
+      "duration_ms": 283813,
+      "name": "O Dia Que Ser\u00e1 Pra Sempre",
+      "url": "https://open.spotify.com/track/4stbVaoXgrjq9bCj2SStmG"
     },
     {
       "added_at": "2023-10-20 03:00:00",
@@ -338,6 +342,10 @@
         {
           "name": "Jess\u00e9 Aguiar",
           "url": "https://open.spotify.com/artist/0g4xsygciHCrujQzdXUudC"
+        },
+        {
+          "name": "Todah Music",
+          "url": "https://open.spotify.com/artist/1A5kGvmKIVtX7NhcbtTZJY"
         }
       ],
       "duration_ms": 278031,
@@ -347,18 +355,22 @@
     {
       "added_at": "2023-10-20 03:00:00",
       "album": {
-        "name": "A Mesa",
-        "url": "https://open.spotify.com/album/2jWE50PLaYhH32FCIPSZvV"
+        "name": "Gra\u00e7a (Ao Vivo)",
+        "url": "https://open.spotify.com/album/0Gdv1W2qUBvyGokxjDmK71"
       },
       "artists": [
         {
-          "name": "Eli Soares",
-          "url": "https://open.spotify.com/artist/5zblJYkCzvB51Jh29FB07V"
+          "name": "Paulo Cesar Baruk",
+          "url": "https://open.spotify.com/artist/0GQKmEguhkY8DCzH4NdJvD"
+        },
+        {
+          "name": "Leonardo Gon\u00e7alves",
+          "url": "https://open.spotify.com/artist/6AyvSIi2EyLOaMJCc6J5fZ"
         }
       ],
-      "duration_ms": 306573,
-      "name": "A Mesa",
-      "url": "https://open.spotify.com/track/6YfTtc4MhkQwMjbQ41MeFE"
+      "duration_ms": 513960,
+      "name": "Santo Esp\u00edrito (Holy Spirit) (feat. Leonardo Gon\u00e7alves) - Ao Vivo",
+      "url": "https://open.spotify.com/track/06I10BV3eKbBeWMELGddHT"
     },
     {
       "added_at": "2023-10-20 03:00:00",
@@ -379,18 +391,18 @@
     {
       "added_at": "2023-10-20 03:00:00",
       "album": {
-        "name": "Pode Morar Aqui (Ac\u00fastico)",
-        "url": "https://open.spotify.com/album/26vrgC3uwDY9OGwbDiCFsL"
+        "name": "A Mesa",
+        "url": "https://open.spotify.com/album/2jWE50PLaYhH32FCIPSZvV"
       },
       "artists": [
         {
-          "name": "Theo Rubia",
-          "url": "https://open.spotify.com/artist/3bTnUXCo3suJiLVb79pExe"
+          "name": "Eli Soares",
+          "url": "https://open.spotify.com/artist/5zblJYkCzvB51Jh29FB07V"
         }
       ],
-      "duration_ms": 304477,
-      "name": "Pode Morar Aqui - Ac\u00fastico",
-      "url": "https://open.spotify.com/track/2TwohRKItIZe5bnJkQXQyU"
+      "duration_ms": 306573,
+      "name": "A Mesa",
+      "url": "https://open.spotify.com/track/6YfTtc4MhkQwMjbQ41MeFE"
     },
     {
       "added_at": "2023-10-20 03:00:00",
@@ -427,22 +439,18 @@
     {
       "added_at": "2023-10-20 03:00:00",
       "album": {
-        "name": "Troco",
-        "url": "https://open.spotify.com/album/0iXI8HqnYqnKJpfe6EpRcA"
+        "name": "Recome\u00e7ar",
+        "url": "https://open.spotify.com/album/6RCZVCNWPM87w17ZNP4Tcv"
       },
       "artists": [
         {
-          "name": "Paulo Cesar Baruk",
-          "url": "https://open.spotify.com/artist/0GQKmEguhkY8DCzH4NdJvD"
-        },
-        {
-          "name": "Marcela Tais",
-          "url": "https://open.spotify.com/artist/5gkNoT08CuWtH3NOwrdvrt"
+          "name": "Diego Karter",
+          "url": "https://open.spotify.com/artist/7y1jUw8GzgpQzqmmn0einF"
         }
       ],
-      "duration_ms": 240000,
-      "name": "Troco",
-      "url": "https://open.spotify.com/track/0eC7kRIfqQdJfh8A07PUwv"
+      "duration_ms": 230792,
+      "name": "Recome\u00e7ar",
+      "url": "https://open.spotify.com/track/38xsb628AajcMiMOXr3MR6"
     },
     {
       "added_at": "2023-10-20 03:00:00",
@@ -459,22 +467,6 @@
       "duration_ms": 255600,
       "name": "Em Teus Bra\u00e7os - Ac\u00fastico",
       "url": "https://open.spotify.com/track/3prDqIeQ71JN430YOl55eB"
-    },
-    {
-      "added_at": "2023-10-20 03:00:00",
-      "album": {
-        "name": "Recome\u00e7ar",
-        "url": "https://open.spotify.com/album/6RCZVCNWPM87w17ZNP4Tcv"
-      },
-      "artists": [
-        {
-          "name": "Diego Karter",
-          "url": "https://open.spotify.com/artist/7y1jUw8GzgpQzqmmn0einF"
-        }
-      ],
-      "duration_ms": 230792,
-      "name": "Recome\u00e7ar",
-      "url": "https://open.spotify.com/track/38xsb628AajcMiMOXr3MR6"
     },
     {
       "added_at": "2023-10-20 03:00:00",
@@ -511,6 +503,26 @@
     {
       "added_at": "2023-10-20 03:00:00",
       "album": {
+        "name": "Troco",
+        "url": "https://open.spotify.com/album/0iXI8HqnYqnKJpfe6EpRcA"
+      },
+      "artists": [
+        {
+          "name": "Paulo Cesar Baruk",
+          "url": "https://open.spotify.com/artist/0GQKmEguhkY8DCzH4NdJvD"
+        },
+        {
+          "name": "Marcela Tais",
+          "url": "https://open.spotify.com/artist/5gkNoT08CuWtH3NOwrdvrt"
+        }
+      ],
+      "duration_ms": 240000,
+      "name": "Troco",
+      "url": "https://open.spotify.com/track/0eC7kRIfqQdJfh8A07PUwv"
+    },
+    {
+      "added_at": "2023-10-20 03:00:00",
+      "album": {
         "name": "Minha Ess\u00eancia",
         "url": "https://open.spotify.com/album/6GgSb4sIpSOTcXUrz2ONDG"
       },
@@ -518,6 +530,10 @@
         {
           "name": "Stella Laura",
           "url": "https://open.spotify.com/artist/1lqxvuE0yfesGRZ4sdVVNm"
+        },
+        {
+          "name": "Todah Music",
+          "url": "https://open.spotify.com/artist/1A5kGvmKIVtX7NhcbtTZJY"
         },
         {
           "name": "Jay Santana",
@@ -735,18 +751,22 @@
     {
       "added_at": "2023-10-20 03:00:00",
       "album": {
-        "name": "Lugar Secreto / Qual \u00c9 O Pensamento",
-        "url": "https://open.spotify.com/album/1pJNA4RcbsPPY8Rpf8aJK6"
+        "name": "Doce Presen\u00e7a",
+        "url": "https://open.spotify.com/album/47yy4zXeQJ7TY4c0MeXm4E"
       },
       "artists": [
         {
-          "name": "Trilo",
-          "url": "https://open.spotify.com/artist/76bLMQAatDGLJ8yyuyVPjD"
+          "name": "Fred Arrais",
+          "url": "https://open.spotify.com/artist/4b6QClfbEvFpOu9Nuyun0Q"
+        },
+        {
+          "name": "Ludmila Ferber",
+          "url": "https://open.spotify.com/artist/3XFPsySK5XlfmcxJGWcyWn"
         }
       ],
-      "duration_ms": 211817,
-      "name": "Lugar Secreto / Qual \u00c9 O Pensamento",
-      "url": "https://open.spotify.com/track/6Kap705m9jHPY9CbyBopkk"
+      "duration_ms": 247104,
+      "name": "Doce Presen\u00e7a",
+      "url": "https://open.spotify.com/track/1W9xebEJbpHSuER5BYfvLa"
     },
     {
       "added_at": "2023-10-20 03:00:00",
@@ -771,22 +791,18 @@
     {
       "added_at": "2023-10-20 03:00:00",
       "album": {
-        "name": "Doce Presen\u00e7a",
-        "url": "https://open.spotify.com/album/47yy4zXeQJ7TY4c0MeXm4E"
+        "name": "Lugar Secreto / Qual \u00c9 O Pensamento",
+        "url": "https://open.spotify.com/album/1pJNA4RcbsPPY8Rpf8aJK6"
       },
       "artists": [
         {
-          "name": "Fred Arrais",
-          "url": "https://open.spotify.com/artist/4b6QClfbEvFpOu9Nuyun0Q"
-        },
-        {
-          "name": "Ludmila Ferber",
-          "url": "https://open.spotify.com/artist/3XFPsySK5XlfmcxJGWcyWn"
+          "name": "Trilo",
+          "url": "https://open.spotify.com/artist/76bLMQAatDGLJ8yyuyVPjD"
         }
       ],
-      "duration_ms": 247104,
-      "name": "Doce Presen\u00e7a",
-      "url": "https://open.spotify.com/track/1W9xebEJbpHSuER5BYfvLa"
+      "duration_ms": 211817,
+      "name": "Lugar Secreto / Qual \u00c9 O Pensamento",
+      "url": "https://open.spotify.com/track/6Kap705m9jHPY9CbyBopkk"
     },
     {
       "added_at": "2023-10-20 03:00:00",
@@ -955,6 +971,22 @@
     {
       "added_at": "2023-10-20 03:00:00",
       "album": {
+        "name": "Vendavais (Em Casa Ac\u00fastico)",
+        "url": "https://open.spotify.com/album/6CzDtMttfdOFaZmWR4UGW3"
+      },
+      "artists": [
+        {
+          "name": "Rebeca Carvalho",
+          "url": "https://open.spotify.com/artist/7ejjZWVYdXuGjkLsUPW4xL"
+        }
+      ],
+      "duration_ms": 281142,
+      "name": "Vendavais - Em Casa Ac\u00fastico",
+      "url": "https://open.spotify.com/track/5TQGLSiv6jJexsucU0wcPm"
+    },
+    {
+      "added_at": "2023-10-20 03:00:00",
+      "album": {
         "name": "Tuas \u00c1guas (Ac\u00fastico)",
         "url": "https://open.spotify.com/album/7oLCOJrKBLzIZXa0amcQ0t"
       },
@@ -971,22 +1003,6 @@
       "duration_ms": 299893,
       "name": "Tuas \u00c1guas - Ac\u00fastico",
       "url": "https://open.spotify.com/track/7yJwYawfVF1zgWMSafKy0d"
-    },
-    {
-      "added_at": "2023-10-20 03:00:00",
-      "album": {
-        "name": "Vendavais (Em Casa Ac\u00fastico)",
-        "url": "https://open.spotify.com/album/6CzDtMttfdOFaZmWR4UGW3"
-      },
-      "artists": [
-        {
-          "name": "Rebeca Carvalho",
-          "url": "https://open.spotify.com/artist/7ejjZWVYdXuGjkLsUPW4xL"
-        }
-      ],
-      "duration_ms": 281142,
-      "name": "Vendavais - Em Casa Ac\u00fastico",
-      "url": "https://open.spotify.com/track/5TQGLSiv6jJexsucU0wcPm"
     },
     {
       "added_at": "2023-10-20 03:00:00",
@@ -1163,22 +1179,6 @@
     {
       "added_at": "2023-10-20 03:00:00",
       "album": {
-        "name": "O Que Se Faz Aqui pra Ser Feliz (Ac\u00fastico)",
-        "url": "https://open.spotify.com/album/2Io37WuevaunbyNIzqpj0v"
-      },
-      "artists": [
-        {
-          "name": "Nathan Asafe",
-          "url": "https://open.spotify.com/artist/5ChPhSZzFXnTujdXY0FhMA"
-        }
-      ],
-      "duration_ms": 302750,
-      "name": "O Que Se Faz Aqui pra Ser Feliz - Ac\u00fastico",
-      "url": "https://open.spotify.com/track/3LH84g4ns7kiJtOvZkyoea"
-    },
-    {
-      "added_at": "2023-10-20 03:00:00",
-      "album": {
         "name": "Formoso \u00c9s (Ac\u00fastico)",
         "url": "https://open.spotify.com/album/3VrYf1WUs45obGKYZzUb70"
       },
@@ -1195,6 +1195,22 @@
       "duration_ms": 278500,
       "name": "Formoso \u00c9s - Ac\u00fastico",
       "url": "https://open.spotify.com/track/3aEqPmCyU6HaoVmtrsmFCa"
+    },
+    {
+      "added_at": "2023-10-20 03:00:00",
+      "album": {
+        "name": "O Que Se Faz Aqui pra Ser Feliz (Ac\u00fastico)",
+        "url": "https://open.spotify.com/album/2Io37WuevaunbyNIzqpj0v"
+      },
+      "artists": [
+        {
+          "name": "Nathan Asafe",
+          "url": "https://open.spotify.com/artist/5ChPhSZzFXnTujdXY0FhMA"
+        }
+      ],
+      "duration_ms": 302750,
+      "name": "O Que Se Faz Aqui pra Ser Feliz - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/3LH84g4ns7kiJtOvZkyoea"
     },
     {
       "added_at": "2023-10-20 03:00:00",

@@ -1,12 +1,12 @@
 {
   "description": "Tous les hits latino du moment sont ici. Photo : Anitta",
-  "num_followers": 82284,
+  "num_followers": 82366,
   "original_name": "Caliente",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1NWY1M2ZjYzRjZTI1OTM5MmQ2YjI3YWI4YTZmODUwOTU1MDFlNzg4",
+  "snapshot_id": "MCxmNDkzODRjYzk3YjgxYmVjNjUwODhmMDIwNzI2ZTEzYmZiMzJiNTVh",
   "tracks": [
     {
       "added_at": "2023-10-20 14:14:25",
@@ -271,6 +271,26 @@
       "duration_ms": 197933,
       "name": "TQG",
       "url": "https://open.spotify.com/track/0DWdj2oZMBFSzRsi2Cvfzf"
+    },
+    {
+      "added_at": "2023-10-20 14:14:25",
+      "album": {
+        "name": "La Bebe (Remix)",
+        "url": "https://open.spotify.com/album/6aBVGuOUEuX18rHxyDWbti"
+      },
+      "artists": [
+        {
+          "name": "Yng Lvcas",
+          "url": "https://open.spotify.com/artist/1NNRWkhwmcXRimFYSBpB1y"
+        },
+        {
+          "name": "Peso Pluma",
+          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
+        }
+      ],
+      "duration_ms": 234352,
+      "name": "La Bebe - Remix",
+      "url": "https://open.spotify.com/track/2UW7JaomAMuX9pZrjVpHAU"
     },
     {
       "added_at": "2023-10-20 14:14:25",

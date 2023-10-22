@@ -4,7 +4,7 @@
 
 > Fresh Latin pop on the rise\. Cover: Chicocurlyhead & RENEE
 
-490 songs - 1 day 0 hr 39 min
+491 songs - 1 day 0 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -232,7 +232,7 @@
 | [La Primera Vez](https://open.spotify.com/track/3AS2NiyobOcS454xthOByC) | [Manuel Medrano](https://open.spotify.com/artist/0i5iO6icb7kxg48thi9gBM), [Juliana](https://open.spotify.com/artist/5Mc6124m8waYCvdYLyM8CY) | [La Primera Vez](https://open.spotify.com/album/5o6FpcNF63Rzf2sGZL1WYp) | 3:44 | 2023-02-10 | 2023-04-01 |
 | [La Puerta](https://open.spotify.com/track/5JM0MaVqz9I38pRzbo9U6l) | [Leo Rizzi](https://open.spotify.com/artist/2281RSmb2cN6knnt0Iarb2) | [La Puerta](https://open.spotify.com/album/3uW3dr9cYAvk6fouQY0EzH) | 3:03 | 2023-01-13 | 2023-01-28 |
 | [La Puerta](https://open.spotify.com/track/4NIOOtiTugYXemmElAwGNw) | [YEИDRY](https://open.spotify.com/artist/3Lk9AWrpD4bminO5LwmBOw) | [La Puerta](https://open.spotify.com/album/0TPue7zWYi1z0168wshD9y) | 3:34 | 2023-05-19 | 2023-06-10 |
-| [La Que Yo Amo](https://open.spotify.com/track/2Ul5bO8HgSd3Tdy7ug1B50) | [DEKKO](https://open.spotify.com/artist/6ZvYYrrfpb1Z7kICDyxWQE) | [DEKKOLETERA 3](https://open.spotify.com/album/1pZHGsYHI8Ks3j2NCIbv8X) | 2:12 | 2023-07-07 |  |
+| [La Que Yo Amo](https://open.spotify.com/track/2Ul5bO8HgSd3Tdy7ug1B50) | [DEKKO](https://open.spotify.com/artist/6ZvYYrrfpb1Z7kICDyxWQE) | [DEKKOLETERA 3](https://open.spotify.com/album/1pZHGsYHI8Ks3j2NCIbv8X) | 2:12 | 2023-07-07 | 2023-10-22 |
 | [La Reina](https://open.spotify.com/track/5KrBFRj0Vfq0QQjlyKs5Hr) | [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau) | [La Reina](https://open.spotify.com/album/1aWnZ80cKI4rV2GDo3LniM) | 2:21 | 2023-03-10 | 2023-05-13 |
 | [LA SANTA](https://open.spotify.com/track/3TcSNX1WhlcVAI6fLWt7Qs) | [Lola Indigo](https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna) | [LA SANTA](https://open.spotify.com/album/7s7TZHak9Chi57TNKIH7T8) | 2:45 | 2023-03-17 | 2023-04-29 |
 | [La Terminal](https://open.spotify.com/track/5ozNzOJeYpzIZaQc9C6jr3) | [Leon Leiden](https://open.spotify.com/artist/1h3ucVy2E3Feh5LGO7agfW), [Juliana](https://open.spotify.com/artist/5Mc6124m8waYCvdYLyM8CY) | [La Terminal](https://open.spotify.com/album/1SrCPTPht9ws7CP1GVCt7o) | 2:58 | 2023-10-06 | 2023-10-21 |
@@ -434,6 +434,7 @@
 | [TARDE](https://open.spotify.com/track/1hdLVuDhaxfVdMZ13CHSar) | [Nani](https://open.spotify.com/artist/4csfMLGLT1ikinHV3FRTmL) | [el pedacito de <3 que me robaron](https://open.spotify.com/album/0Ubcsv9yLRycHntM6XZ3d9) | 3:43 | 2022-05-06 | 2022-07-26 |
 | [Te Elegiré](https://open.spotify.com/track/4NMoA4IaZgIJsIbnMk79Fa) | [Carlos Zaur](https://open.spotify.com/artist/6BWQiJpeXCHep8xW0vAIOk) | [Te Elegiré](https://open.spotify.com/album/7tPSBcVdJ4YIWIMEAAZOsM) | 3:56 | 2022-10-07 | 2022-12-10 |
 | [Te La Dedico](https://open.spotify.com/track/6z3IrUfL5HxmpH0Xt84Es8) | [Jay Wheeler](https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g) | [Te La Dedico](https://open.spotify.com/album/7KGERR76ARYMU0z9AO1Z3Y) | 3:51 | 2023-03-03 | 2023-05-19 |
+| [Te Mata](https://open.spotify.com/track/4kvDU8vfvxupVezsVPag5v) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [Te Mata](https://open.spotify.com/album/6VSUq5wSN8VEYbFUdzJm7Z) | 3:52 | 2023-10-20 |  |
 | [Te Pienso](https://open.spotify.com/track/3LCUFhel7bdHUoTtlksfGG) | [Agus Padilla](https://open.spotify.com/artist/2qmA5QmaGZH3ky4qq25d1m), [Franux BB](https://open.spotify.com/artist/1iblTHYdU8q8t8nH4sHl8A) | [Te Pienso](https://open.spotify.com/album/4ibJkC96ftFfsIhqfFh02K) | 3:26 | 2022-03-21 | 2022-06-13 |
 | [Te Vi Mudar](https://open.spotify.com/track/7Akzl1WkuD75hZzmr0oJxU) | [Vale](https://open.spotify.com/artist/22p8vOZwMABvl5qt2nZHWD) | [Te Vi Mudar](https://open.spotify.com/album/56QdvJzTIUDA3IisAblZhz) | 2:54 | 2023-03-31 | 2023-04-09 |
 | [Telenovela](https://open.spotify.com/track/3WMRQ1kWWBpNV3hJFhqmhB) | [Paula Cendejas](https://open.spotify.com/artist/4EiI7Vls0NB16jLuexzCHC) | [Telenovela](https://open.spotify.com/album/7jrUStxYyNBOmz5ul1iGoC) | 2:30 | 2022-10-07 | 2022-12-10 |

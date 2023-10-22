@@ -4,7 +4,7 @@
 
 > for those who appreciate a curated mood 🪩
 
-308 songs - 15 hr 40 min
+309 songs - 15 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,7 +12,8 @@
 | ['98 NISSAN](https://open.spotify.com/track/566uttKKrPrKvM5uN3Mx69) | [Josh Fudge](https://open.spotify.com/artist/6FvkNLhuBDTYfqbl6PV0xp) | ['98 NISSAN](https://open.spotify.com/album/3QfGua1rhcFaoMQdKgJPCS) | 2:07 | 2022-09-17 | 2022-09-21 |
 | [10 Feet Tall](https://open.spotify.com/track/4mDCYTQSPokYUZ6DnOH0zp) | [bb sway](https://open.spotify.com/artist/5EszOYdmBVD4jD0vbyKyMz) | [10 Feet Tall](https://open.spotify.com/album/5jcapL4CDqhgDuvDtRWPn5) | 1:58 | 2021-06-25 | 2022-04-29 |
 | [5:32pm](https://open.spotify.com/track/7qrBYrivpvfXUPBMmqh3dA) | [The Deli](https://open.spotify.com/artist/1EJzWKVDeysgbyuZGfEFde) | [Vibes 2](https://open.spotify.com/album/5GlqARIKJdOkuXKgvdouwz) | 2:16 | 2021-06-08 | 2022-04-20 |
-| [7 Weeks & 3 Days](https://open.spotify.com/track/0yABdzMcJpRkKhVKXjfcUk) | [yungatita](https://open.spotify.com/artist/2fswC3Le1wbUHa9AYEhRyi) | [Over You](https://open.spotify.com/album/7B0Vz06KjSaE8G3SbHgQ58) | 3:14 | 2022-11-28 |  |
+| [7 Weeks & 3 Days](https://open.spotify.com/track/0fO1pBw5d9elBhAo0OleA0) | [yungatita](https://open.spotify.com/artist/2fswC3Le1wbUHa9AYEhRyi) | [Over You](https://open.spotify.com/album/6Uu6tRaJ9LRAXHhgRY3pa9) | 3:14 | 2023-08-17 |  |
+| [7 Weeks & 3 Days](https://open.spotify.com/track/0yABdzMcJpRkKhVKXjfcUk) | [yungatita](https://open.spotify.com/artist/2fswC3Le1wbUHa9AYEhRyi) | [Over You](https://open.spotify.com/album/7B0Vz06KjSaE8G3SbHgQ58) | 3:14 | 2022-11-28 | 2023-10-22 |
 | [\[oops\]](https://open.spotify.com/track/7JgZbix8xDasAhbn3N7eIF) | [potsu](https://open.spotify.com/artist/5XE0fiZWGbq9TcSuWwJ1fA) | [\[oops\]](https://open.spotify.com/album/5bVU9WsKLocZOukajEMk3V) | 2:22 | 2021-06-08 | 2022-04-21 |
 | [Aesthetic](https://open.spotify.com/track/4jY3GWEqlrTALvVE1j7VHI) | [Xilo](https://open.spotify.com/artist/63kE1M6nlHBGwRttAc4Q6Z) | [Aesthetic](https://open.spotify.com/album/4A5jNEDsbTdHhcPOwqtiU4) | 2:38 | 2021-06-08 | 2022-04-18 |
 | [Again](https://open.spotify.com/track/24Jk4wYlLRXI9TUMdkHoMN) | [Wun Two](https://open.spotify.com/artist/69cjjIQEN8M6heOBT2SqZE) | [Penthouse](https://open.spotify.com/album/5MWhs2N3eO78ppIYmRUzmH) | 2:23 | 2021-06-08 | 2022-04-21 |

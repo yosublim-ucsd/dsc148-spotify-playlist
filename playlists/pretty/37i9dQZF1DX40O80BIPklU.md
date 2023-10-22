@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX40O80BIPklU.md) - [plain]
 
 > Nuestro hip\-hop se escribe con Ñ, aquí los que dominan el juego de las rimas\. Métricas Frías en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 322,233 likes - 100 songs - 5 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 322,308 likes - 100 songs - 5 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX40O80BIPklU.md) - [plain]
 | 7 | [☆ Neosantismos ☆](https://open.spotify.com/track/1XxLnbK1bQfFtB8xi9riZ4) | [Santo Miletto](https://open.spotify.com/artist/5RvW8CSJeeQSayoAKpKM1d), [Pocket Tincho](https://open.spotify.com/artist/4s65hXCQfmaf39pGFlM387) | [☆ Neosantismos ☆](https://open.spotify.com/album/5jvxFCbhCYCrZpcadQdq1G) | 3:00 |
 | 8 | [MAMITA](https://open.spotify.com/track/12aPSqJT6ECU9Wq6rG8sQU) | [Hard GZ](https://open.spotify.com/artist/79N4S7UXdjo2fAh3OHJQuB), [Marcelus Airlinez](https://open.spotify.com/artist/6FusXHu4kHX7uyPOnJ3H5Q), [Zxmyr](https://open.spotify.com/artist/7IUaYyqcGB3aU2Tm4s5JY8) | [MAMITA](https://open.spotify.com/album/2aXtUydfywc4SNl3g0UlWF) | 3:03 |
 | 9 | [\#B2B](https://open.spotify.com/track/4Jp9fqZoO1CVctAPJB29eC) | [Cosculluela](https://open.spotify.com/artist/00me4Ke1LsvMxt5kydlMyU) | [\#B2B](https://open.spotify.com/album/4SXhzfcLwMl2sTSOkGBx5t) | 3:16 |
-| 10 | [Flavor](https://open.spotify.com/track/6JkjgPrTLBAD1fBh1OOfDQ) | [T&K](https://open.spotify.com/artist/62zZb3lpCFBqLDjMccQgND), [FERNANDOCOSTA](https://open.spotify.com/artist/5dC7EcwWdf9Qj4VvJab4rZ), [Tensei One](https://open.spotify.com/artist/1T7nUn5Rl3Rmu4HgyIckl7) | [Flavor](https://open.spotify.com/album/1UpSx9vVKsQvl1VfzGtzDR) | 3:27 |
+| 10 | [Flavor](https://open.spotify.com/track/6JkjgPrTLBAD1fBh1OOfDQ) | [T&K](https://open.spotify.com/artist/62zZb3lpCFBqLDjMccQgND), [FERNANDOCOSTA](https://open.spotify.com/artist/5dC7EcwWdf9Qj4VvJab4rZ), [Tensei One](https://open.spotify.com/artist/1T7nUn5Rl3Rmu4HgyIckl7) | [Flavor](https://open.spotify.com/album/1UpSx9vVKsQvl1VfzGtzDR) | 2:36 |
 | 11 | [El Canton Norte](https://open.spotify.com/track/5I1i5jcNTDAyndNwyPo2wu) | [Homer El Mero Mero](https://open.spotify.com/artist/0Xo4VFS3v07L0GwIVkZLfg) | [El 17](https://open.spotify.com/album/4ROGPs1BsQad0yWdZ0dXSj) | 2:45 |
 | 12 | [Nike 95](https://open.spotify.com/track/4r2frsl6BuWbYUZLybprKa) | [Lasser](https://open.spotify.com/artist/5AlWoe0Tl7mmeNMdJCHRhj), [Amber Window](https://open.spotify.com/artist/066Vam5XGA8T8NNl1sroAg) | [Zoom](https://open.spotify.com/album/0rDGF0mOdH57KIKRFy6dFq) | 2:36 |
 | 13 | [Quiero Ser Baladista](https://open.spotify.com/track/5vn7LJgmLIy8Xxg7359eO6) | [Residente](https://open.spotify.com/artist/5GcWBUX00IPuWVGMIRK1sS), [Ricky Martin](https://open.spotify.com/artist/7slfeZO9LsJbWgpkIoXBUJ) | [Quiero Ser Baladista](https://open.spotify.com/album/3jaL3oDxPdCwhCklNYFEaL) | 5:42 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX40O80BIPklU.md) - [plain]
 | 99 | [Estrecho / Alvarado \(feat\. pablopablo\)](https://open.spotify.com/track/4E6kns35AUSkJhHpXYRRKF) | [C\. Tangana](https://open.spotify.com/artist/5TYxZTjIPqKM8K8NuP9woO), [pablopablo](https://open.spotify.com/artist/4jbtfb5mOGveUu9bTYIvEZ) | [Estrecho / Alvarado \(feat\. pablopablo\)](https://open.spotify.com/album/1Z3NkOHY0rbefHDkIttPhP) | 2:30 |
 | 100 | [Underrated](https://open.spotify.com/track/42EDLkzqnTmw2xZZ9bkfYT) | [Lego Skillz](https://open.spotify.com/artist/7jk87weJfexobhc1bJJt9M), [Punga](https://open.spotify.com/artist/0wpeDItjD9NshrMSwk6plk), [Haze](https://open.spotify.com/artist/4OYcQT9EHQHCYJVfbyGNzr) | [Underrated](https://open.spotify.com/album/4bTHEqX5vfP9UiFairPree) | 3:00 |
 
-Snapshot ID: `MCxiOGZhNTA2NGM5ZjE0ZDhjOGNkNGE1NzFkNWZkZWIzODI0YmQ4ODA5`
+Snapshot ID: `MCwzYWIzMTYzMGE1ZTYzMWVhNmM2NzZlMjFjZjRmMTA3NDNmNTljZTA3`

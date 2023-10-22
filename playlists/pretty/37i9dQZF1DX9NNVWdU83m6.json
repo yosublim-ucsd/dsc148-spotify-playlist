@@ -1,12 +1,12 @@
 {
   "description": "A progressive fusion of jazz, rock and avant-garde.",
-  "num_followers": 45787,
+  "num_followers": 45854,
   "original_name": "Prog Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlODMxMGZkOWIxNjhlZGE4OGRhNDBhNTAzYjg0OWEwOWUwOTA2NzQ4",
+  "snapshot_id": "MCwxYTUxOTgzYjJkM2VhY2VmNWNiYWE0NTJkM2U1ZjBmNTFmNmEyNjJk",
   "tracks": [
     {
       "added_at": "2023-09-08 04:01:00",
@@ -2263,8 +2263,8 @@
     {
       "added_at": "2021-01-27 19:39:49",
       "album": {
-        "name": "Mirage",
-        "url": "https://open.spotify.com/album/33620GQZTMEMzOUZRMkBHf"
+        "name": "Mirage (2023 Remastered & Expanded Edition)",
+        "url": "https://open.spotify.com/album/2dfny28poOXsb8HxYGbRYf"
       },
       "artists": [
         {
@@ -2272,9 +2272,9 @@
           "url": "https://open.spotify.com/artist/3Uz6jx81OY2J5K8Z4wmy2P"
         }
       ],
-      "duration_ms": 401866,
-      "name": "Earthrise",
-      "url": "https://open.spotify.com/track/6piC8NdaOgfjcQ9jM1Od3S"
+      "duration_ms": 401946,
+      "name": "Earthrise - Remastered 2023",
+      "url": "https://open.spotify.com/track/4ZuilI3GqubKxMFMyuWGWH"
     }
   ],
   "unique_name": "Prog Jazz",

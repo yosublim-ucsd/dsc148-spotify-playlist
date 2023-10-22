@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Lo m\u00e1s fresco del hip-hop en espa\u00f1ol! Tino el Ping\u00fcino en portada. ",
-  "num_followers": 11615,
+  "num_followers": 11627,
   "original_name": "Rimas Frescas ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhYTQ1YzdiY2Q1M2YyYTQ2Nzc2MjkzNmFiOTljMmFjODgyZTY0NmJh",
+  "snapshot_id": "MCw4NGMxMGY1YjhhYTQ1MWVjOWZkOTE3ZWQyYTg2OTc3YmMzMDBiNGQ5",
   "tracks": [
     {
       "added_at": "2023-10-20 14:51:17",
@@ -364,7 +364,7 @@
           "url": "https://open.spotify.com/artist/1T7nUn5Rl3Rmu4HgyIckl7"
         }
       ],
-      "duration_ms": 207259,
+      "duration_ms": 156254,
       "name": "Flavor",
       "url": "https://open.spotify.com/track/6JkjgPrTLBAD1fBh1OOfDQ"
     },
@@ -843,22 +843,18 @@
     {
       "added_at": "2023-10-20 14:51:17",
       "album": {
-        "name": "Veneno",
-        "url": "https://open.spotify.com/album/24ttO41p2XG2NO5LH6sSGy"
+        "name": "Cuando Ya Est\u00e9 Muerto",
+        "url": "https://open.spotify.com/album/5wlBPVzU5PyNNhNqhR5L3v"
       },
       "artists": [
         {
-          "name": "Gonzalo Genek",
-          "url": "https://open.spotify.com/artist/4h0s1nZFTuIRkkTpAI1F7I"
-        },
-        {
-          "name": "Kaeve",
-          "url": "https://open.spotify.com/artist/36RCTbO3VLENi4UnVqC1tP"
+          "name": "Penyair",
+          "url": "https://open.spotify.com/artist/0hKJVChUaok3RN4noo7G3c"
         }
       ],
-      "duration_ms": 179142,
-      "name": "Veneno",
-      "url": "https://open.spotify.com/track/089EXhoDJmwSAJFfel3Lwd"
+      "duration_ms": 208810,
+      "name": "Cuando Ya Est\u00e9 Muerto",
+      "url": "https://open.spotify.com/track/0uMRnml5GQX5NtYDh1YlDd"
     },
     {
       "added_at": "2023-10-20 14:51:17",
@@ -883,18 +879,22 @@
     {
       "added_at": "2023-10-20 14:51:17",
       "album": {
-        "name": "Cuando Ya Est\u00e9 Muerto",
-        "url": "https://open.spotify.com/album/5wlBPVzU5PyNNhNqhR5L3v"
+        "name": "Veneno",
+        "url": "https://open.spotify.com/album/24ttO41p2XG2NO5LH6sSGy"
       },
       "artists": [
         {
-          "name": "Penyair",
-          "url": "https://open.spotify.com/artist/0hKJVChUaok3RN4noo7G3c"
+          "name": "Gonzalo Genek",
+          "url": "https://open.spotify.com/artist/4h0s1nZFTuIRkkTpAI1F7I"
+        },
+        {
+          "name": "Kaeve",
+          "url": "https://open.spotify.com/artist/36RCTbO3VLENi4UnVqC1tP"
         }
       ],
-      "duration_ms": 208810,
-      "name": "Cuando Ya Est\u00e9 Muerto",
-      "url": "https://open.spotify.com/track/0uMRnml5GQX5NtYDh1YlDd"
+      "duration_ms": 179142,
+      "name": "Veneno",
+      "url": "https://open.spotify.com/track/089EXhoDJmwSAJFfel3Lwd"
     },
     {
       "added_at": "2023-10-20 14:51:17",
@@ -923,6 +923,22 @@
     {
       "added_at": "2023-10-20 14:51:17",
       "album": {
+        "name": "El 17",
+        "url": "https://open.spotify.com/album/4ROGPs1BsQad0yWdZ0dXSj"
+      },
+      "artists": [
+        {
+          "name": "Homer El Mero Mero",
+          "url": "https://open.spotify.com/artist/0Xo4VFS3v07L0GwIVkZLfg"
+        }
+      ],
+      "duration_ms": 165168,
+      "name": "El Canton Norte",
+      "url": "https://open.spotify.com/track/5I1i5jcNTDAyndNwyPo2wu"
+    },
+    {
+      "added_at": "2023-10-20 14:51:17",
+      "album": {
         "name": "\u00edcaro",
         "url": "https://open.spotify.com/album/1vtrBs348NQgNBIJG2cUFH"
       },
@@ -939,22 +955,6 @@
       "duration_ms": 169019,
       "name": "\u00edcaro",
       "url": "https://open.spotify.com/track/68BnzdIbvcoW11I0EhVvwb"
-    },
-    {
-      "added_at": "2023-10-20 14:51:17",
-      "album": {
-        "name": "El 17",
-        "url": "https://open.spotify.com/album/4ROGPs1BsQad0yWdZ0dXSj"
-      },
-      "artists": [
-        {
-          "name": "Homer El Mero Mero",
-          "url": "https://open.spotify.com/artist/0Xo4VFS3v07L0GwIVkZLfg"
-        }
-      ],
-      "duration_ms": 165168,
-      "name": "El Canton Norte",
-      "url": "https://open.spotify.com/track/5I1i5jcNTDAyndNwyPo2wu"
     },
     {
       "added_at": "2023-10-20 14:51:17",
@@ -1103,6 +1103,22 @@
     {
       "added_at": "2023-10-20 14:51:17",
       "album": {
+        "name": "Van a Hablar de Mi",
+        "url": "https://open.spotify.com/album/7hjlmGFCb7K1Pzvd9Fmu29"
+      },
+      "artists": [
+        {
+          "name": "Zxmyr",
+          "url": "https://open.spotify.com/artist/7IUaYyqcGB3aU2Tm4s5JY8"
+        }
+      ],
+      "duration_ms": 156750,
+      "name": "Van a Hablar de Mi",
+      "url": "https://open.spotify.com/track/4ZyoyD3J3wC9LKUHFr4w6s"
+    },
+    {
+      "added_at": "2023-10-20 14:51:17",
+      "album": {
         "name": "Desde Peque\u00f1o",
         "url": "https://open.spotify.com/album/7KPHrskSaXSDD59ncpixpS"
       },
@@ -1135,22 +1151,6 @@
       "duration_ms": 168778,
       "name": "antes que sea tarde",
       "url": "https://open.spotify.com/track/1NhsPILt0sgxY0DHruZ9ao"
-    },
-    {
-      "added_at": "2023-10-20 14:51:17",
-      "album": {
-        "name": "Van a Hablar de Mi",
-        "url": "https://open.spotify.com/album/7hjlmGFCb7K1Pzvd9Fmu29"
-      },
-      "artists": [
-        {
-          "name": "Zxmyr",
-          "url": "https://open.spotify.com/artist/7IUaYyqcGB3aU2Tm4s5JY8"
-        }
-      ],
-      "duration_ms": 156750,
-      "name": "Van a Hablar de Mi",
-      "url": "https://open.spotify.com/track/4ZyoyD3J3wC9LKUHFr4w6s"
     },
     {
       "added_at": "2023-10-20 14:51:17",
@@ -1223,30 +1223,6 @@
     {
       "added_at": "2023-10-20 14:51:17",
       "album": {
-        "name": "En el Blanco",
-        "url": "https://open.spotify.com/album/7zmLyRyY7p5MgCLSltnc7n"
-      },
-      "artists": [
-        {
-          "name": "Sr Pablo",
-          "url": "https://open.spotify.com/artist/1xS8E28QGLkEoXlJdY94hq"
-        },
-        {
-          "name": "Geassassin",
-          "url": "https://open.spotify.com/artist/4V2V4PaSblStayYVWTGDbZ"
-        },
-        {
-          "name": "Inti Sigma",
-          "url": "https://open.spotify.com/artist/3wAPsE5VK5xEt0gqf1w0p0"
-        }
-      ],
-      "duration_ms": 198000,
-      "name": "En el Blanco",
-      "url": "https://open.spotify.com/track/2QnLkjYSKtbzMzjYFXS5TJ"
-    },
-    {
-      "added_at": "2023-10-20 14:51:17",
-      "album": {
         "name": "Cumbia Castrosa",
         "url": "https://open.spotify.com/album/0ZlNlIgcLPYQZyiAJwAcwf"
       },
@@ -1267,26 +1243,6 @@
       "duration_ms": 212999,
       "name": "Cumbia Castrosa",
       "url": "https://open.spotify.com/track/4Z2RpX71Du8dQQxMTRYxKF"
-    },
-    {
-      "added_at": "2023-10-20 14:51:17",
-      "album": {
-        "name": "Tranquilo",
-        "url": "https://open.spotify.com/album/6YRiaULjOY1hjYBaEjQy8Y"
-      },
-      "artists": [
-        {
-          "name": "El Pinche Mara",
-          "url": "https://open.spotify.com/artist/3L7OHIT4kfdcDSnnGM0TKN"
-        },
-        {
-          "name": "Teo LB",
-          "url": "https://open.spotify.com/artist/0HwtulWF8xZD2g2IMhNXwo"
-        }
-      ],
-      "duration_ms": 227702,
-      "name": "Tranquilo",
-      "url": "https://open.spotify.com/track/35K0LpLwLnV8XVlwMHu1yA"
     },
     {
       "added_at": "2023-10-20 14:51:17",
@@ -1319,18 +1275,46 @@
     {
       "added_at": "2023-10-20 14:51:17",
       "album": {
-        "name": "B\u00e9same Lento",
-        "url": "https://open.spotify.com/album/6nVpmgyiQiBC9dVXnur7VF"
+        "name": "Tranquilo",
+        "url": "https://open.spotify.com/album/6YRiaULjOY1hjYBaEjQy8Y"
       },
       "artists": [
         {
-          "name": "Solitario Mondragon",
-          "url": "https://open.spotify.com/artist/4KXpp5lz2MakNFcTszi2B9"
+          "name": "El Pinche Mara",
+          "url": "https://open.spotify.com/artist/3L7OHIT4kfdcDSnnGM0TKN"
+        },
+        {
+          "name": "Teo LB",
+          "url": "https://open.spotify.com/artist/0HwtulWF8xZD2g2IMhNXwo"
         }
       ],
-      "duration_ms": 271714,
-      "name": "B\u00e9same Lento",
-      "url": "https://open.spotify.com/track/702HgdUa5QILPolhhVoktM"
+      "duration_ms": 227702,
+      "name": "Tranquilo",
+      "url": "https://open.spotify.com/track/35K0LpLwLnV8XVlwMHu1yA"
+    },
+    {
+      "added_at": "2023-10-20 14:51:17",
+      "album": {
+        "name": "En el Blanco",
+        "url": "https://open.spotify.com/album/7zmLyRyY7p5MgCLSltnc7n"
+      },
+      "artists": [
+        {
+          "name": "Sr Pablo",
+          "url": "https://open.spotify.com/artist/1xS8E28QGLkEoXlJdY94hq"
+        },
+        {
+          "name": "Geassassin",
+          "url": "https://open.spotify.com/artist/4V2V4PaSblStayYVWTGDbZ"
+        },
+        {
+          "name": "Inti Sigma",
+          "url": "https://open.spotify.com/artist/3wAPsE5VK5xEt0gqf1w0p0"
+        }
+      ],
+      "duration_ms": 198000,
+      "name": "En el Blanco",
+      "url": "https://open.spotify.com/track/2QnLkjYSKtbzMzjYFXS5TJ"
     },
     {
       "added_at": "2023-10-20 14:51:17",
@@ -1347,6 +1331,22 @@
       "duration_ms": 243435,
       "name": "Tania",
       "url": "https://open.spotify.com/track/4V20WzU9yI3Zrvbgkrcvmq"
+    },
+    {
+      "added_at": "2023-10-20 14:51:17",
+      "album": {
+        "name": "B\u00e9same Lento",
+        "url": "https://open.spotify.com/album/6nVpmgyiQiBC9dVXnur7VF"
+      },
+      "artists": [
+        {
+          "name": "Solitario Mondragon",
+          "url": "https://open.spotify.com/artist/4KXpp5lz2MakNFcTszi2B9"
+        }
+      ],
+      "duration_ms": 271714,
+      "name": "B\u00e9same Lento",
+      "url": "https://open.spotify.com/track/702HgdUa5QILPolhhVoktM"
     },
     {
       "added_at": "2023-10-20 14:51:17",
@@ -1375,22 +1375,6 @@
     {
       "added_at": "2023-10-20 14:51:17",
       "album": {
-        "name": "Qui\u00e9n Mat\u00f3 al Alcalde?",
-        "url": "https://open.spotify.com/album/3hVJhCpEprcHgzqBa1iIRr"
-      },
-      "artists": [
-        {
-          "name": "Sipo One",
-          "url": "https://open.spotify.com/artist/76V5aARZFI750zk1BglDV2"
-        }
-      ],
-      "duration_ms": 371367,
-      "name": "Qui\u00e9n Mat\u00f3 al Alcalde?",
-      "url": "https://open.spotify.com/track/0XpoiS2ctPWAmQ2JCM5ZTa"
-    },
-    {
-      "added_at": "2023-10-20 14:51:17",
-      "album": {
         "name": "Me Puedes Invocar",
         "url": "https://open.spotify.com/album/3L1wHnXxuY7QdUHVBNeSmY"
       },
@@ -1403,6 +1387,22 @@
       "duration_ms": 109307,
       "name": "Me Puedes Invocar",
       "url": "https://open.spotify.com/track/3kAiSWYkXgDwPh9ta9KMUQ"
+    },
+    {
+      "added_at": "2023-10-20 14:51:17",
+      "album": {
+        "name": "Qui\u00e9n Mat\u00f3 al Alcalde?",
+        "url": "https://open.spotify.com/album/3hVJhCpEprcHgzqBa1iIRr"
+      },
+      "artists": [
+        {
+          "name": "Sipo One",
+          "url": "https://open.spotify.com/artist/76V5aARZFI750zk1BglDV2"
+        }
+      ],
+      "duration_ms": 371367,
+      "name": "Qui\u00e9n Mat\u00f3 al Alcalde?",
+      "url": "https://open.spotify.com/track/0XpoiS2ctPWAmQ2JCM5ZTa"
     },
     {
       "added_at": "2023-10-20 14:51:17",
@@ -1431,22 +1431,6 @@
     {
       "added_at": "2023-10-20 14:51:17",
       "album": {
-        "name": "CIEN SHOWS",
-        "url": "https://open.spotify.com/album/2dIdv3mfCNzMC139bjldaX"
-      },
-      "artists": [
-        {
-          "name": "ACRU",
-          "url": "https://open.spotify.com/artist/0bYQe0JDIjxkSHQoXlfngl"
-        }
-      ],
-      "duration_ms": 265360,
-      "name": "CIEN SHOWS",
-      "url": "https://open.spotify.com/track/4EeKsQCjByEuwlQ71U3p2W"
-    },
-    {
-      "added_at": "2023-10-20 14:51:17",
-      "album": {
         "name": "El Callej\u00f3n",
         "url": "https://open.spotify.com/album/0UwpMqSIC8OLScazUEkLaW"
       },
@@ -1463,30 +1447,6 @@
       "duration_ms": 256049,
       "name": "El Callej\u00f3n",
       "url": "https://open.spotify.com/track/65mTGc1h4zh40PExo9BXfI"
-    },
-    {
-      "added_at": "2023-10-20 14:51:17",
-      "album": {
-        "name": "F\u00e9nix (Vol. 2)",
-        "url": "https://open.spotify.com/album/6tFZvYlKvk5olYOsSwqiEv"
-      },
-      "artists": [
-        {
-          "name": "Liricistas",
-          "url": "https://open.spotify.com/artist/6Auet21YaPDui2ManqgAFc"
-        },
-        {
-          "name": "Utopiko",
-          "url": "https://open.spotify.com/artist/5AKHh4eBuOo4HHXiJ6aCtT"
-        },
-        {
-          "name": "Eptos Uno",
-          "url": "https://open.spotify.com/artist/3fo4UvMNzZUCFS90Roh5iK"
-        }
-      ],
-      "duration_ms": 284470,
-      "name": "Travel",
-      "url": "https://open.spotify.com/track/4MRGiF6FaKQt9EVLOvc2Zs"
     },
     {
       "added_at": "2023-10-20 14:51:17",
@@ -1515,6 +1475,46 @@
       "duration_ms": 135529,
       "name": "Oscura Ciudad",
       "url": "https://open.spotify.com/track/3vU00kvBMde60Rj3qvH5Re"
+    },
+    {
+      "added_at": "2023-10-20 14:51:17",
+      "album": {
+        "name": "CIEN SHOWS",
+        "url": "https://open.spotify.com/album/2dIdv3mfCNzMC139bjldaX"
+      },
+      "artists": [
+        {
+          "name": "ACRU",
+          "url": "https://open.spotify.com/artist/0bYQe0JDIjxkSHQoXlfngl"
+        }
+      ],
+      "duration_ms": 265360,
+      "name": "CIEN SHOWS",
+      "url": "https://open.spotify.com/track/4EeKsQCjByEuwlQ71U3p2W"
+    },
+    {
+      "added_at": "2023-10-20 14:51:17",
+      "album": {
+        "name": "F\u00e9nix (Vol. 2)",
+        "url": "https://open.spotify.com/album/6tFZvYlKvk5olYOsSwqiEv"
+      },
+      "artists": [
+        {
+          "name": "Liricistas",
+          "url": "https://open.spotify.com/artist/6Auet21YaPDui2ManqgAFc"
+        },
+        {
+          "name": "Utopiko",
+          "url": "https://open.spotify.com/artist/5AKHh4eBuOo4HHXiJ6aCtT"
+        },
+        {
+          "name": "Eptos Uno",
+          "url": "https://open.spotify.com/artist/3fo4UvMNzZUCFS90Roh5iK"
+        }
+      ],
+      "duration_ms": 284470,
+      "name": "Travel",
+      "url": "https://open.spotify.com/track/4MRGiF6FaKQt9EVLOvc2Zs"
     },
     {
       "added_at": "2023-10-20 14:51:17",
@@ -1631,26 +1631,6 @@
     {
       "added_at": "2023-10-20 14:51:17",
       "album": {
-        "name": "Cada Quien",
-        "url": "https://open.spotify.com/album/4QS3kIW0YTZAMZMkaJ1mLH"
-      },
-      "artists": [
-        {
-          "name": "Jona Camacho",
-          "url": "https://open.spotify.com/artist/0t64OqoqDgnfJee9Z6IBOP"
-        },
-        {
-          "name": "Fntxy",
-          "url": "https://open.spotify.com/artist/7I85Ma5xjAo6nlvqOCIiWx"
-        }
-      ],
-      "duration_ms": 184780,
-      "name": "Cada Quien",
-      "url": "https://open.spotify.com/track/4ayJaxA5MjPEopjWYNMAbr"
-    },
-    {
-      "added_at": "2023-10-20 14:51:17",
-      "album": {
         "name": "M\u00e1s de Ti",
         "url": "https://open.spotify.com/album/72ct55HUoVEWCeWpogQHeT"
       },
@@ -1667,6 +1647,26 @@
       "duration_ms": 184186,
       "name": "M\u00e1s de Ti",
       "url": "https://open.spotify.com/track/7fRwxP1bj8ktaWxxK3p4pb"
+    },
+    {
+      "added_at": "2023-10-20 14:51:17",
+      "album": {
+        "name": "Cada Quien",
+        "url": "https://open.spotify.com/album/4QS3kIW0YTZAMZMkaJ1mLH"
+      },
+      "artists": [
+        {
+          "name": "Jona Camacho",
+          "url": "https://open.spotify.com/artist/0t64OqoqDgnfJee9Z6IBOP"
+        },
+        {
+          "name": "Fntxy",
+          "url": "https://open.spotify.com/artist/7I85Ma5xjAo6nlvqOCIiWx"
+        }
+      ],
+      "duration_ms": 184780,
+      "name": "Cada Quien",
+      "url": "https://open.spotify.com/track/4ayJaxA5MjPEopjWYNMAbr"
     },
     {
       "added_at": "2023-10-20 14:51:17",
@@ -1783,22 +1783,6 @@
     {
       "added_at": "2023-10-20 14:51:17",
       "album": {
-        "name": "Ecolocalizaci\u00f3n",
-        "url": "https://open.spotify.com/album/0VoXLs9SrZgi9AFdkNbW8P"
-      },
-      "artists": [
-        {
-          "name": "Tayko",
-          "url": "https://open.spotify.com/artist/3TqicTPfXQLiPPZWKtHk0m"
-        }
-      ],
-      "duration_ms": 116102,
-      "name": "Freud",
-      "url": "https://open.spotify.com/track/7xFvOja9qVdmXU84rH9sX3"
-    },
-    {
-      "added_at": "2023-10-20 14:51:17",
-      "album": {
         "name": "Ni Familia Ni Amigos",
         "url": "https://open.spotify.com/album/0W99Tp0kMrn1akzvvRiqag"
       },
@@ -1831,6 +1815,22 @@
       "duration_ms": 156891,
       "name": "Nike 95",
       "url": "https://open.spotify.com/track/4r2frsl6BuWbYUZLybprKa"
+    },
+    {
+      "added_at": "2023-10-20 14:51:17",
+      "album": {
+        "name": "Ecolocalizaci\u00f3n",
+        "url": "https://open.spotify.com/album/0VoXLs9SrZgi9AFdkNbW8P"
+      },
+      "artists": [
+        {
+          "name": "Tayko",
+          "url": "https://open.spotify.com/artist/3TqicTPfXQLiPPZWKtHk0m"
+        }
+      ],
+      "duration_ms": 116102,
+      "name": "Freud",
+      "url": "https://open.spotify.com/track/7xFvOja9qVdmXU84rH9sX3"
     },
     {
       "added_at": "2023-10-20 14:51:17",

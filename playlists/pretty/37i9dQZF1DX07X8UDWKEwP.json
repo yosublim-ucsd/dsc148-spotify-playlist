@@ -1,12 +1,12 @@
 {
   "description": "Lo nuevo del mundo tropical. Cover: Zhamira Zambrano",
-  "num_followers": 255121,
+  "num_followers": 255165,
   "original_name": "el nuevo tropical",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzMzFkYTY3MTUyYWE0ZjRmODAyMWQ0MzA5MjdhNDAwNTY5ZGVkMTc1",
+  "snapshot_id": "MCw0YWZjMzAwNTdhZmZmZWI5OTY1NTYzN2ZiNjhiZTU0Y2NhNGQ2ZDFk",
   "tracks": [
     {
       "added_at": "2023-10-20 04:00:00",
@@ -143,13 +143,17 @@
     {
       "added_at": "2023-10-20 04:00:00",
       "album": {
-        "name": "Bienvenidos a mi barrio",
+        "name": "Bienvenidos a Mi Barrio",
         "url": "https://open.spotify.com/album/7c6XRLWcvCYf5slViBDKmF"
       },
       "artists": [
         {
           "name": "Callejero Fino",
           "url": "https://open.spotify.com/artist/6GRwwWAtmusrgAL5JF9Dfr"
+        },
+        {
+          "name": "DJ Tao",
+          "url": "https://open.spotify.com/artist/5CA5IqbsFr4hpNLdjgO0BU"
         }
       ],
       "duration_ms": 173329,
@@ -503,22 +507,6 @@
     {
       "added_at": "2023-10-20 04:00:00",
       "album": {
-        "name": "Ay, Ay, Ay",
-        "url": "https://open.spotify.com/album/46s563q4qhwESZBJ4GI5yD"
-      },
-      "artists": [
-        {
-          "name": "David Bisbal",
-          "url": "https://open.spotify.com/artist/5gOJTI4TusSENizxhcG7jB"
-        }
-      ],
-      "duration_ms": 208347,
-      "name": "Ay, Ay, Ay",
-      "url": "https://open.spotify.com/track/1K3dJsDTQouwqmTC5tfpzg"
-    },
-    {
-      "added_at": "2023-10-20 04:00:00",
-      "album": {
         "name": "Feliz",
         "url": "https://open.spotify.com/album/7jfQRBzVv3xO6phlTk6VrB"
       },
@@ -531,6 +519,22 @@
       "duration_ms": 202268,
       "name": "Feliz",
       "url": "https://open.spotify.com/track/0s91c0rPN7ATKJPaYsLN2C"
+    },
+    {
+      "added_at": "2023-10-20 04:00:00",
+      "album": {
+        "name": "Ay, Ay, Ay",
+        "url": "https://open.spotify.com/album/46s563q4qhwESZBJ4GI5yD"
+      },
+      "artists": [
+        {
+          "name": "David Bisbal",
+          "url": "https://open.spotify.com/artist/5gOJTI4TusSENizxhcG7jB"
+        }
+      ],
+      "duration_ms": 208347,
+      "name": "Ay, Ay, Ay",
+      "url": "https://open.spotify.com/track/1K3dJsDTQouwqmTC5tfpzg"
     },
     {
       "added_at": "2023-10-20 04:00:00",
@@ -631,6 +635,22 @@
     {
       "added_at": "2023-10-20 04:00:00",
       "album": {
+        "name": "Para Mi",
+        "url": "https://open.spotify.com/album/4EN6HX2xApPwC7nA7FjI7k"
+      },
+      "artists": [
+        {
+          "name": "Cultura Prof\u00e9tica",
+          "url": "https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi"
+        }
+      ],
+      "duration_ms": 267953,
+      "name": "Para Mi",
+      "url": "https://open.spotify.com/track/3mUPsqEeq0GoIv1wSuivqf"
+    },
+    {
+      "added_at": "2023-10-20 04:00:00",
+      "album": {
         "name": "AVENTURA",
         "url": "https://open.spotify.com/album/3j7rNxfmagpw3RlQjBJ1Pf"
       },
@@ -647,22 +667,6 @@
       "duration_ms": 193059,
       "name": "AVENTURA",
       "url": "https://open.spotify.com/track/02vuof1sWGshy5yJG3HylY"
-    },
-    {
-      "added_at": "2023-10-20 04:00:00",
-      "album": {
-        "name": "Para Mi",
-        "url": "https://open.spotify.com/album/4EN6HX2xApPwC7nA7FjI7k"
-      },
-      "artists": [
-        {
-          "name": "Cultura Prof\u00e9tica",
-          "url": "https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi"
-        }
-      ],
-      "duration_ms": 267953,
-      "name": "Para Mi",
-      "url": "https://open.spotify.com/track/3mUPsqEeq0GoIv1wSuivqf"
     },
     {
       "added_at": "2023-10-20 04:00:00",
@@ -687,6 +691,22 @@
     {
       "added_at": "2023-10-20 04:00:00",
       "album": {
+        "name": "Call On Me",
+        "url": "https://open.spotify.com/album/3Ohcoreeq3qG3okky9o0Wx"
+      },
+      "artists": [
+        {
+          "name": "Johnny Sky",
+          "url": "https://open.spotify.com/artist/3EVZsBWq5KqdtS6eVNHN8d"
+        }
+      ],
+      "duration_ms": 168184,
+      "name": "Call On Me",
+      "url": "https://open.spotify.com/track/5dl97w82KkuprJVDKSyJQp"
+    },
+    {
+      "added_at": "2023-10-20 04:00:00",
+      "album": {
         "name": "Bendecido",
         "url": "https://open.spotify.com/album/3Cuf5Q9DOcTGPUBIl53w00"
       },
@@ -703,22 +723,6 @@
       "duration_ms": 203273,
       "name": "Bendecido",
       "url": "https://open.spotify.com/track/0ZKCQENt4shhG0rLwot8xB"
-    },
-    {
-      "added_at": "2023-10-20 04:00:00",
-      "album": {
-        "name": "Call On Me",
-        "url": "https://open.spotify.com/album/3Ohcoreeq3qG3okky9o0Wx"
-      },
-      "artists": [
-        {
-          "name": "Johnny Sky",
-          "url": "https://open.spotify.com/artist/3EVZsBWq5KqdtS6eVNHN8d"
-        }
-      ],
-      "duration_ms": 168184,
-      "name": "Call On Me",
-      "url": "https://open.spotify.com/track/5dl97w82KkuprJVDKSyJQp"
     },
     {
       "added_at": "2023-10-20 04:00:00",
@@ -831,30 +835,6 @@
     {
       "added_at": "2023-10-20 04:00:00",
       "album": {
-        "name": "Que Vuelvas",
-        "url": "https://open.spotify.com/album/4KN1ZXAY94rRlL8IwH1Pxg"
-      },
-      "artists": [
-        {
-          "name": "Lirow",
-          "url": "https://open.spotify.com/artist/7DstIz9YAYYupeK7r5tbbs"
-        },
-        {
-          "name": "Ralphy Dreamz",
-          "url": "https://open.spotify.com/artist/5elxYg57OGXnqXm6wZDmvm"
-        },
-        {
-          "name": "DJ Ramon",
-          "url": "https://open.spotify.com/artist/6UTnO6XhjHYM2Oe9V0DEH1"
-        }
-      ],
-      "duration_ms": 213000,
-      "name": "Que Vuelvas",
-      "url": "https://open.spotify.com/track/6YBMVW3OF19qHwJJ6AmQ6N"
-    },
-    {
-      "added_at": "2023-10-20 04:00:00",
-      "album": {
         "name": "2000",
         "url": "https://open.spotify.com/album/7ubO2LZJZFpyhiWMZkRwcH"
       },
@@ -875,6 +855,22 @@
     {
       "added_at": "2023-10-20 04:00:00",
       "album": {
+        "name": "Nubes",
+        "url": "https://open.spotify.com/album/7lEjVKtnPigIjjCVNrGd3J"
+      },
+      "artists": [
+        {
+          "name": "Moa Rivera",
+          "url": "https://open.spotify.com/artist/3SVGxBlWR0Cnamj9e2Ybmz"
+        }
+      ],
+      "duration_ms": 238205,
+      "name": "Nubes",
+      "url": "https://open.spotify.com/track/7EBDeDKSY5QS185IpakRNe"
+    },
+    {
+      "added_at": "2023-10-20 04:00:00",
+      "album": {
         "name": "Contigo",
         "url": "https://open.spotify.com/album/3j09eak04YqZqOY1md4lp2"
       },
@@ -891,18 +887,26 @@
     {
       "added_at": "2023-10-20 04:00:00",
       "album": {
-        "name": "Nubes",
-        "url": "https://open.spotify.com/album/7lEjVKtnPigIjjCVNrGd3J"
+        "name": "Que Vuelvas",
+        "url": "https://open.spotify.com/album/4KN1ZXAY94rRlL8IwH1Pxg"
       },
       "artists": [
         {
-          "name": "Moa Rivera",
-          "url": "https://open.spotify.com/artist/3SVGxBlWR0Cnamj9e2Ybmz"
+          "name": "Lirow",
+          "url": "https://open.spotify.com/artist/7DstIz9YAYYupeK7r5tbbs"
+        },
+        {
+          "name": "Ralphy Dreamz",
+          "url": "https://open.spotify.com/artist/5elxYg57OGXnqXm6wZDmvm"
+        },
+        {
+          "name": "DJ Ramon",
+          "url": "https://open.spotify.com/artist/6UTnO6XhjHYM2Oe9V0DEH1"
         }
       ],
-      "duration_ms": 238205,
-      "name": "Nubes",
-      "url": "https://open.spotify.com/track/7EBDeDKSY5QS185IpakRNe"
+      "duration_ms": 213000,
+      "name": "Que Vuelvas",
+      "url": "https://open.spotify.com/track/6YBMVW3OF19qHwJJ6AmQ6N"
     },
     {
       "added_at": "2023-10-20 04:00:00",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ZHn4SQHDIn.md) - [plain]
 
 > All in us! ITZY is back with their first Japanese album!
 
-[Spotify](https://open.spotify.com/user/spotify) - 297,839 likes - 81 songs - 4 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 297,957 likes - 81 songs - 4 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ZHn4SQHDIn.md) - [plain]
 | 3 | [Playlist](https://open.spotify.com/track/0fDeofONl8z64x8zlrLgWR) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [RINGO](https://open.spotify.com/album/1kRAzoCTDLqwU6nX2I2Nmc) | 3:44 |
 | 4 | [STYLE](https://open.spotify.com/track/0aZ8DSEdBJbBfrNtnqgJy3) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [RINGO](https://open.spotify.com/album/1kRAzoCTDLqwU6nX2I2Nmc) | 3:03 |
 | 5 | [Voltage](https://open.spotify.com/track/7e65OAe9L0xWPSHDiahjQe) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [Voltage](https://open.spotify.com/album/3MXVqfk9VG3B757nLlow0D) | 3:41 |
-| 6 | [Spice](https://open.spotify.com/track/4mFwA8AtXjuriVlQiRyeWr) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [Voltage](https://open.spotify.com/album/6BhKPFeQDaBldGMl1vd28h) | 3:11 |
+| 6 | [Spice](https://open.spotify.com/track/2uIZvCteW9ZapDvSkfRJ69) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [RINGO](https://open.spotify.com/album/1kRAzoCTDLqwU6nX2I2Nmc) | 3:11 |
 | 7 | [Blah Blah Blah](https://open.spotify.com/track/5wOWpaKW92jhcm8pBOlrdR) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [Blah Blah Blah](https://open.spotify.com/album/0KaoPehrtwhjQfae6XMd7B) | 3:05 |
 | 8 | [Can't tie me down](https://open.spotify.com/track/35G2DPJgdku9Mr47LqQ1J0) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [RINGO](https://open.spotify.com/album/1kRAzoCTDLqwU6nX2I2Nmc) | 3:03 |
 | 9 | [Trust Me \(MIDZY\) \- Japanese ver.](https://open.spotify.com/track/0wVLk4dLdgNwrIy1yhghFy) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [Trust Me \(MIDZY\) \[Japanese ver.\]](https://open.spotify.com/album/60NlQsbRpTiScK1lrslOUf) | 3:41 |
@@ -90,4 +90,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ZHn4SQHDIn.md) - [plain]
 | 80 | [WANT IT? \- Imad Royal Remix](https://open.spotify.com/track/73Y127nxOVRDwWhW2wT3qY) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3), [Imad Royal](https://open.spotify.com/artist/6OgklJh1e1Z9S1Q2IQsHgy) | [IT'z ICY](https://open.spotify.com/album/5Xb03XAF2LoaMqbM38H9eB) | 3:27 |
 | 81 | [WANT IT?](https://open.spotify.com/track/24HHXG8VtexJC0hrJe1WJY) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [IT'z Different](https://open.spotify.com/album/7Mxbav9clZ3AVDKThwwgXS) | 3:20 |
 
-Snapshot ID: `MCwyYmU3NzA2NWFmZGUwMTZlZGVjZGRhMWVjNThlNDViMjI4NTUxZjky`
+Snapshot ID: `MCxmN2U0ZGM0YWZhNmJmZWI0ODgzYzZkOTFjNTFkMGM2MmYzNThjYzQz`

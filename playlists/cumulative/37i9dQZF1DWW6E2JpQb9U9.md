@@ -4,7 +4,7 @@
 
 > Rock en vivo de la A a la Z, de ayer, de hoy y de siempre..\. ¡Canten ustedes! Foto: Eruca Sativa & Marilina Bertoldi
 
-292 songs - 21 hr 48 min
+293 songs - 21 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -199,6 +199,7 @@
 | [Ojos Rojos \- En vivo](https://open.spotify.com/track/5Rbbj3DEeK2PXRkzbJVv19) | [Buitres](https://open.spotify.com/artist/04IlmuXVBYLASmLi18VqRl) | [Ojos Rojos \(En Vivo\)](https://open.spotify.com/album/3ccn8gkTRS9ly0X6795rsO) | 3:20 | 2023-08-31 | 2023-10-10 |
 | [Once \- En Vivo](https://open.spotify.com/track/18IcFu22fTHg9ozQ7cmfkz) | [Los Tabaleros](https://open.spotify.com/artist/6aGMO33ETXuACXj9KfoyQg), [Las Pastillas del Abuelo](https://open.spotify.com/artist/0D5U7oXEE4dut2DPyUDLca) | [Once \(En Vivo\)](https://open.spotify.com/album/50CiSjlh8UQmAlViVVy2E8) | 4:29 | 2022-04-01 | 2022-07-19 |
 | [Oportunidad Oportuna \- En Vivo](https://open.spotify.com/track/4Rjs2IZkMR7owpO1yoVer9) | [La Renga](https://open.spotify.com/artist/30fEdZPXgWfC4sNttcyB3C) | [Autódromo de Buenos Aires, 19 de Junio de 2021 \(En Vivo\)](https://open.spotify.com/album/6Bs4kJWFkLO58YmGxVGOUJ) | 3:45 | 2023-04-07 | 2023-08-02 |
+| [Oportunidad Oportuna \- En Vivo](https://open.spotify.com/track/6OgghyP8vbOsC2CBvKYArD) | [La Renga](https://open.spotify.com/artist/30fEdZPXgWfC4sNttcyB3C) | [Autódromo de Buenos Aires, 19 de Junio de 2021 \(En Vivo\)](https://open.spotify.com/album/1Sxb0hpU35iLA3WeqEcMr8) | 3:45 | 2023-10-06 |  |
 | [Oro de Abeja \(Vivo en Obras\)](https://open.spotify.com/track/6WYtFrLzFsoQmeipeBmmXz) | [El Plan De La Mariposa](https://open.spotify.com/artist/3LY3yBRRL9yxCZxaxkdUir) | [Trascenlace \(Vivo en Obras\)](https://open.spotify.com/album/3b9dOyIcbeR3847hEt9hVy) | 4:43 | 2022-04-01 | 2022-07-02 |
 | [Panic Show \- En Directo Desde Estadio De Huracán Buenos Aires / 2001](https://open.spotify.com/track/3uyCoLdG9s4fZGPoj8B2tn) | [La Renga](https://open.spotify.com/artist/30fEdZPXgWfC4sNttcyB3C) | [Insoportablemente Vivo \(En Directo Desde Estadio De Huracán Buenos Aires / 2001\)](https://open.spotify.com/album/5cgGmPTXGyysE1ShAqPh0x) | 3:38 | 2022-06-24 |  |
 | [Panic Show \- Live](https://open.spotify.com/track/5imJJUpdG3p7VpLNqIb75l) | [La Renga](https://open.spotify.com/artist/30fEdZPXgWfC4sNttcyB3C) | [Insoportablemente Vivo](https://open.spotify.com/album/7N0ZseL9dDJRCUfLSMDTrK) | 3:38 | 2022-04-01 | 2022-07-29 |
@@ -286,7 +287,7 @@
 | [Un Millón de Amor \- En Vivo](https://open.spotify.com/track/0Ak3bTXnMbnaqMu0s6wLdq) | [Los Rancheros](https://open.spotify.com/artist/5zAgd4w0pUkadSSRAz9Z7Q) | [Un Millón de Amor \(En Vivo\)](https://open.spotify.com/album/2ViEo8xClSubdAP5a59mzb) | 3:55 | 2022-06-10 | 2022-07-06 |
 | [Un Osito de Peluche de Taiwan \- En Vivo en el Foro Sol](https://open.spotify.com/track/2NpLEVMOC12Tw789HdYRVS) | [Los Auténticos Decadentes](https://open.spotify.com/artist/3HrbmsYpKjWH1lzhad7alj) | [Foro Sol \- 17 Nov 2017 \(En Vivo\)](https://open.spotify.com/album/15BaEoAe29NVQamVLZtlht) | 4:30 | 2022-04-01 | 2022-07-28 |
 | [Una Nueva Noche Fria \- Vivo \- Mezclado y Masterizado 2017](https://open.spotify.com/track/4Fckaw7KFh4qXmwwVp6mDJ) | [Callejeros](https://open.spotify.com/artist/2osoVujXgV0PA8lhqDKYFw) | [Concierto Obras 30 y 31 Julio, Parte Uno \(En Vivo\)](https://open.spotify.com/album/7CiCajBytiFZ69hJUny0s4) | 4:27 | 2022-04-01 |  |
-| [Una Vez Más \- En Vivo](https://open.spotify.com/track/3x7KnlNcfrvfNRYHb9mk0A) | [Viejas Locas](https://open.spotify.com/artist/7wTu5u7W3kc9Id5JAvSAFV), [Juanse](https://open.spotify.com/artist/5AQlQBU9LCmQwReukeom2I) | [Una Vez Más \(En Vivo\)](https://open.spotify.com/album/1U6EoDtF3m3oddpw0LHunn) | 4:49 | 2023-09-14 |  |
+| [Una Vez Más \- En Vivo](https://open.spotify.com/track/3x7KnlNcfrvfNRYHb9mk0A) | [Viejas Locas](https://open.spotify.com/artist/7wTu5u7W3kc9Id5JAvSAFV), [Juanse](https://open.spotify.com/artist/5AQlQBU9LCmQwReukeom2I) | [Una Vez Más \(En Vivo\)](https://open.spotify.com/album/1U6EoDtF3m3oddpw0LHunn) | 4:49 | 2023-09-14 | 2023-10-22 |
 | [Vení Raquel \- Vivo en el Palacio de los Deportes](https://open.spotify.com/track/3yueohHxyvXlaPQ5tWAUsV) | [Los Auténticos Decadentes](https://open.spotify.com/artist/3HrbmsYpKjWH1lzhad7alj) | [En Vivo en el Palacio de los Deportes \- 25 Aniversario](https://open.spotify.com/album/7gSe5tBOrBERCFvQgR6TsC) | 3:06 | 2022-04-01 | 2023-10-07 |
 | [Verano del 92](https://open.spotify.com/track/6GyvWDAdfg2gzi0BMS48UK) | [Ciro y los Persas](https://open.spotify.com/artist/2Eo4Yaukt9d6dnZrY5hQKi) | [Ciro Y los Persas En el Estadio de River](https://open.spotify.com/album/7DXwwQCZscyehAJoCC38jW) | 4:21 | 2022-06-24 | 2023-10-07 |
 | [Verano del 92 \(En Vivo en River 2018\)](https://open.spotify.com/track/7KSO2z07YUpi9J3HCZg6v3) | [Ciro y los Persas](https://open.spotify.com/artist/2Eo4Yaukt9d6dnZrY5hQKi) | [Ciro y los Persas en el Estadio de River \(En Vivo\)](https://open.spotify.com/album/6Eg7xsCicx687vDBSKqLcC) | 4:21 | 2022-04-01 | 2022-07-28 |

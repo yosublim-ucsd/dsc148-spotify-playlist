@@ -1,12 +1,12 @@
 {
   "description": "Les meilleurs airs d'autoroute.",
-  "num_followers": 137504,
+  "num_followers": 137590,
   "original_name": "Bleu Blanc Route",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhM2I4NDJkOTU1OGYyNzY3MzQyN2NiZTE5ZDVkZGY4MDhjNzJjODFm",
+  "snapshot_id": "MCw4OWQ2ODUxMGNiMWJhMDcyMGNiNDk4MGEwZWM5YjQxMDQwYWE2NDRi",
   "tracks": [
     {
       "added_at": "2023-05-23 12:45:45",
@@ -91,22 +91,6 @@
     {
       "added_at": "2023-05-23 12:45:45",
       "album": {
-        "name": "Civilisation",
-        "url": "https://open.spotify.com/album/2o2GBOfy2GG9oKYZgfZkur"
-      },
-      "artists": [
-        {
-          "name": "Orelsan",
-          "url": "https://open.spotify.com/artist/4FpJcNgOvIpSBeJgRg3OfN"
-        }
-      ],
-      "duration_ms": 181111,
-      "name": "Jour meilleur",
-      "url": "https://open.spotify.com/track/6VOUfCrjmxH62oijWgbC6O"
-    },
-    {
-      "added_at": "2023-05-23 12:45:45",
-      "album": {
         "name": "Aller-retour",
         "url": "https://open.spotify.com/album/2i05vSN6Qp14HGI4fc1M14"
       },
@@ -123,6 +107,22 @@
       "duration_ms": 203160,
       "name": "Le temps est bon",
       "url": "https://open.spotify.com/track/2U5kSevItDmL0XzSDyemRp"
+    },
+    {
+      "added_at": "2023-05-23 12:45:45",
+      "album": {
+        "name": "Civilisation",
+        "url": "https://open.spotify.com/album/2o2GBOfy2GG9oKYZgfZkur"
+      },
+      "artists": [
+        {
+          "name": "Orelsan",
+          "url": "https://open.spotify.com/artist/4FpJcNgOvIpSBeJgRg3OfN"
+        }
+      ],
+      "duration_ms": 181111,
+      "name": "Jour meilleur",
+      "url": "https://open.spotify.com/track/6VOUfCrjmxH62oijWgbC6O"
     },
     {
       "added_at": "2023-05-23 12:45:45",
@@ -1083,22 +1083,6 @@
     {
       "added_at": "2023-05-23 12:45:45",
       "album": {
-        "name": "Dave",
-        "url": "https://open.spotify.com/album/7n5DNjnkerFIrz6PXleX7o"
-      },
-      "artists": [
-        {
-          "name": "Dave",
-          "url": "https://open.spotify.com/artist/39Fh4OTce0hxKCiuyB21dg"
-        }
-      ],
-      "duration_ms": 192133,
-      "name": "Vanina (Runaway)",
-      "url": "https://open.spotify.com/track/3HkJ0MJ8FZh8YNF4yf2kJc"
-    },
-    {
-      "added_at": "2023-05-23 12:45:45",
-      "album": {
         "name": "Regagner Les Plaines",
         "url": "https://open.spotify.com/album/0fVZHjs0eok4mX37u85MlN"
       },
@@ -1115,6 +1099,22 @@
     {
       "added_at": "2023-05-23 12:45:45",
       "album": {
+        "name": "Dave",
+        "url": "https://open.spotify.com/album/7n5DNjnkerFIrz6PXleX7o"
+      },
+      "artists": [
+        {
+          "name": "Dave",
+          "url": "https://open.spotify.com/artist/39Fh4OTce0hxKCiuyB21dg"
+        }
+      ],
+      "duration_ms": 192133,
+      "name": "Vanina (Runaway)",
+      "url": "https://open.spotify.com/track/3HkJ0MJ8FZh8YNF4yf2kJc"
+    },
+    {
+      "added_at": "2023-05-23 12:45:45",
+      "album": {
         "name": "13",
         "url": "https://open.spotify.com/album/5NFN9HK3cvDaYnEtmHUVbo"
       },
@@ -1127,6 +1127,26 @@
       "duration_ms": 326186,
       "name": "Un \u00e9t\u00e9 fran\u00e7ais",
       "url": "https://open.spotify.com/track/4Ngeca4zs304bDnDh3pjzI"
+    },
+    {
+      "added_at": "2023-05-23 12:45:45",
+      "album": {
+        "name": "La R\u00e9alit\u00e9",
+        "url": "https://open.spotify.com/album/6WY9BkvpRyeA5FYwpYrVp9"
+      },
+      "artists": [
+        {
+          "name": "Rapha\u00ebl",
+          "url": "https://open.spotify.com/artist/1NPnXlXdEfr5ZxhEDsFevM"
+        },
+        {
+          "name": "Jean-Louis Aubert",
+          "url": "https://open.spotify.com/artist/1NCrHXp9R3ogv8ezWWHFNs"
+        }
+      ],
+      "duration_ms": 232440,
+      "name": "Sur la route",
+      "url": "https://open.spotify.com/track/5NFbXrKAou3S8Jg0heGyW8"
     },
     {
       "added_at": "2023-05-23 12:45:45",
@@ -1167,22 +1187,18 @@
     {
       "added_at": "2023-05-23 12:45:45",
       "album": {
-        "name": "La R\u00e9alit\u00e9",
-        "url": "https://open.spotify.com/album/6WY9BkvpRyeA5FYwpYrVp9"
+        "name": "Grain de sable",
+        "url": "https://open.spotify.com/album/7GMBb8Rly9ZSCIBMlN8Jhw"
       },
       "artists": [
         {
-          "name": "Rapha\u00ebl",
-          "url": "https://open.spotify.com/artist/1NPnXlXdEfr5ZxhEDsFevM"
-        },
-        {
-          "name": "Jean-Louis Aubert",
-          "url": "https://open.spotify.com/artist/1NCrHXp9R3ogv8ezWWHFNs"
+          "name": "Tryo",
+          "url": "https://open.spotify.com/artist/4ZP3CHz28XWVLGiaVVWuLj"
         }
       ],
-      "duration_ms": 232440,
-      "name": "Sur la route",
-      "url": "https://open.spotify.com/track/5NFbXrKAou3S8Jg0heGyW8"
+      "duration_ms": 229053,
+      "name": "Serre-moi",
+      "url": "https://open.spotify.com/track/2uxTJ3a5PfQK4YuWOXPwFm"
     },
     {
       "added_at": "2023-05-23 12:45:45",
@@ -1199,22 +1215,6 @@
       "duration_ms": 180813,
       "name": "Lalalove You",
       "url": "https://open.spotify.com/track/5JB4QJJQMltOaX1UbzPjGh"
-    },
-    {
-      "added_at": "2023-05-23 12:45:45",
-      "album": {
-        "name": "Grain de sable",
-        "url": "https://open.spotify.com/album/7GMBb8Rly9ZSCIBMlN8Jhw"
-      },
-      "artists": [
-        {
-          "name": "Tryo",
-          "url": "https://open.spotify.com/artist/4ZP3CHz28XWVLGiaVVWuLj"
-        }
-      ],
-      "duration_ms": 229053,
-      "name": "Serre-moi",
-      "url": "https://open.spotify.com/track/2uxTJ3a5PfQK4YuWOXPwFm"
     },
     {
       "added_at": "2023-05-23 12:45:45",
@@ -1287,22 +1287,6 @@
     {
       "added_at": "2023-05-23 12:45:45",
       "album": {
-        "name": "Chacun sa route",
-        "url": "https://open.spotify.com/album/5KDf5WNcaJQKuIjrxVriGB"
-      },
-      "artists": [
-        {
-          "name": "KOD",
-          "url": "https://open.spotify.com/artist/5j3swYwEody8T0sJWuDgqV"
-        }
-      ],
-      "duration_ms": 181346,
-      "name": "Chacun sa route",
-      "url": "https://open.spotify.com/track/77qA7VUqdhaAmq1YLznI0I"
-    },
-    {
-      "added_at": "2023-05-23 12:45:45",
-      "album": {
         "name": "Je Dis Aime",
         "url": "https://open.spotify.com/album/0kTDINWpwSWZP2ohupAGav"
       },
@@ -1315,6 +1299,22 @@
       "duration_ms": 236600,
       "name": "Je dis aime",
       "url": "https://open.spotify.com/track/5cwlOmStS0IdMEH0nAuXNO"
+    },
+    {
+      "added_at": "2023-05-23 12:45:45",
+      "album": {
+        "name": "Chacun sa route",
+        "url": "https://open.spotify.com/album/5KDf5WNcaJQKuIjrxVriGB"
+      },
+      "artists": [
+        {
+          "name": "KOD",
+          "url": "https://open.spotify.com/artist/5j3swYwEody8T0sJWuDgqV"
+        }
+      ],
+      "duration_ms": 181346,
+      "name": "Chacun sa route",
+      "url": "https://open.spotify.com/track/77qA7VUqdhaAmq1YLznI0I"
     },
     {
       "added_at": "2023-05-23 12:45:45",

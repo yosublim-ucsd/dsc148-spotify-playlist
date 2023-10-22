@@ -1,12 +1,12 @@
 {
   "description": "Resonancias luminiscentes para llenar de paz tu alma.",
-  "num_followers": 64090,
+  "num_followers": 64137,
   "original_name": "Sanaci\u00f3n Profunda",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1ZTY1YTNlMDk0MDJjNjE2ZmMzODI0MWZlM2JmM2ZmZjg0MTQyN2Mz",
+  "snapshot_id": "MCxhOThkOTlmOWI2YjE3OTFkZGVjNzAyMmU5ZTM2N2RmZGJjZDJmNTU2",
   "tracks": [
     {
       "added_at": "2023-10-06 13:11:56",
@@ -651,6 +651,22 @@
     {
       "added_at": "2023-10-06 13:11:56",
       "album": {
+        "name": "Simple Soul",
+        "url": "https://open.spotify.com/album/2RDfxKIgM9olAczjQK5Yku"
+      },
+      "artists": [
+        {
+          "name": "BlunD",
+          "url": "https://open.spotify.com/artist/4Dc1j8HIqC0y6uSG8Gnk1T"
+        }
+      ],
+      "duration_ms": 214330,
+      "name": "Slowly Flying",
+      "url": "https://open.spotify.com/track/13SRYtw5x5Z4OpFUYY4C1k"
+    },
+    {
+      "added_at": "2023-10-06 13:11:56",
+      "album": {
         "name": "Silent Waters",
         "url": "https://open.spotify.com/album/1G9Y1TI9ijJjN83ARckHtT"
       },
@@ -695,22 +711,6 @@
       "duration_ms": 147750,
       "name": "Bortgjemt",
       "url": "https://open.spotify.com/track/3cEeIEPEocUTo3U4gD7MDG"
-    },
-    {
-      "added_at": "2023-10-06 13:11:56",
-      "album": {
-        "name": "Simple Soul",
-        "url": "https://open.spotify.com/album/2RDfxKIgM9olAczjQK5Yku"
-      },
-      "artists": [
-        {
-          "name": "BlunD",
-          "url": "https://open.spotify.com/artist/4Dc1j8HIqC0y6uSG8Gnk1T"
-        }
-      ],
-      "duration_ms": 214330,
-      "name": "Slowly Flying",
-      "url": "https://open.spotify.com/track/13SRYtw5x5Z4OpFUYY4C1k"
     },
     {
       "added_at": "2023-10-06 13:11:56",
@@ -1007,22 +1007,6 @@
     {
       "added_at": "2023-10-06 13:11:56",
       "album": {
-        "name": "Levitate",
-        "url": "https://open.spotify.com/album/52V9mKrjrDameJBbXroPua"
-      },
-      "artists": [
-        {
-          "name": "Nimbus Skies",
-          "url": "https://open.spotify.com/artist/6BdApnIAy6D0nQQs1PjzSB"
-        }
-      ],
-      "duration_ms": 160000,
-      "name": "Levitate",
-      "url": "https://open.spotify.com/track/052r4hUKC2njavG6fRdX5M"
-    },
-    {
-      "added_at": "2023-10-06 13:11:56",
-      "album": {
         "name": "Tokyo Drifting",
         "url": "https://open.spotify.com/album/21Kd19l9phAGWCYBeBEisf"
       },
@@ -1039,18 +1023,18 @@
     {
       "added_at": "2023-10-06 13:11:56",
       "album": {
-        "name": "Insights",
-        "url": "https://open.spotify.com/album/5yB1iHwxoDqs4UqPtQravz"
+        "name": "Levitate",
+        "url": "https://open.spotify.com/album/52V9mKrjrDameJBbXroPua"
       },
       "artists": [
         {
-          "name": "Theia Kenor",
-          "url": "https://open.spotify.com/artist/1ZyOejwpAb6jzeoLSrPc3l"
+          "name": "Nimbus Skies",
+          "url": "https://open.spotify.com/artist/6BdApnIAy6D0nQQs1PjzSB"
         }
       ],
-      "duration_ms": 165325,
-      "name": "Forgettable",
-      "url": "https://open.spotify.com/track/6O6QxgjfXLyHH4C6aa8jbO"
+      "duration_ms": 160000,
+      "name": "Levitate",
+      "url": "https://open.spotify.com/track/052r4hUKC2njavG6fRdX5M"
     },
     {
       "added_at": "2023-10-06 13:11:56",
@@ -1071,6 +1055,22 @@
     {
       "added_at": "2023-10-06 13:11:56",
       "album": {
+        "name": "Insights",
+        "url": "https://open.spotify.com/album/5yB1iHwxoDqs4UqPtQravz"
+      },
+      "artists": [
+        {
+          "name": "Theia Kenor",
+          "url": "https://open.spotify.com/artist/1ZyOejwpAb6jzeoLSrPc3l"
+        }
+      ],
+      "duration_ms": 165325,
+      "name": "Forgettable",
+      "url": "https://open.spotify.com/track/6O6QxgjfXLyHH4C6aa8jbO"
+    },
+    {
+      "added_at": "2023-10-06 13:11:56",
+      "album": {
         "name": "Sleep, Heavenly Sleep",
         "url": "https://open.spotify.com/album/3LSfBtybYHmwkHFz2GO6rL"
       },
@@ -1083,22 +1083,6 @@
       "duration_ms": 180882,
       "name": "Sleep, Heavenly Sleep",
       "url": "https://open.spotify.com/track/1JLHJ9ETGzBV7Ey0IMqAAZ"
-    },
-    {
-      "added_at": "2023-10-06 13:11:56",
-      "album": {
-        "name": "Sammram",
-        "url": "https://open.spotify.com/album/7q6yAn5U88BS9PoLGHjPLz"
-      },
-      "artists": [
-        {
-          "name": "Ikupu Ume",
-          "url": "https://open.spotify.com/artist/3jKOrP3N4xtMAgfet68LDP"
-        }
-      ],
-      "duration_ms": 206624,
-      "name": "Sammram",
-      "url": "https://open.spotify.com/track/0bhnoSlNuYDk7c0HSdh821"
     },
     {
       "added_at": "2023-10-06 13:11:56",
@@ -1135,6 +1119,22 @@
     {
       "added_at": "2023-10-06 13:11:56",
       "album": {
+        "name": "Sammram",
+        "url": "https://open.spotify.com/album/7q6yAn5U88BS9PoLGHjPLz"
+      },
+      "artists": [
+        {
+          "name": "Ikupu Ume",
+          "url": "https://open.spotify.com/artist/3jKOrP3N4xtMAgfet68LDP"
+        }
+      ],
+      "duration_ms": 206624,
+      "name": "Sammram",
+      "url": "https://open.spotify.com/track/0bhnoSlNuYDk7c0HSdh821"
+    },
+    {
+      "added_at": "2023-10-06 13:11:56",
+      "album": {
         "name": "Floating Without Gravity",
         "url": "https://open.spotify.com/album/2LXf2YrNnOa930vkRcCBVh"
       },
@@ -1167,22 +1167,6 @@
     {
       "added_at": "2023-10-06 13:11:56",
       "album": {
-        "name": "One Sense",
-        "url": "https://open.spotify.com/album/466ShS1EJQJcwI63omgHJT"
-      },
-      "artists": [
-        {
-          "name": "Collected Dreams",
-          "url": "https://open.spotify.com/artist/663shNr1wUnWbD1TQ5v8Sx"
-        }
-      ],
-      "duration_ms": 185000,
-      "name": "My Horizon",
-      "url": "https://open.spotify.com/track/0IeAKzoK78YpLGWn8wCQV8"
-    },
-    {
-      "added_at": "2023-10-06 13:11:56",
-      "album": {
         "name": "Wondrous",
         "url": "https://open.spotify.com/album/1owUoihrufwKkR6biwsfGJ"
       },
@@ -1195,6 +1179,22 @@
       "duration_ms": 140029,
       "name": "Midnight Thoughts",
       "url": "https://open.spotify.com/track/6mZcumftxgJUpgELkIbvuu"
+    },
+    {
+      "added_at": "2023-10-06 13:11:56",
+      "album": {
+        "name": "One Sense",
+        "url": "https://open.spotify.com/album/466ShS1EJQJcwI63omgHJT"
+      },
+      "artists": [
+        {
+          "name": "Collected Dreams",
+          "url": "https://open.spotify.com/artist/663shNr1wUnWbD1TQ5v8Sx"
+        }
+      ],
+      "duration_ms": 185000,
+      "name": "My Horizon",
+      "url": "https://open.spotify.com/track/0IeAKzoK78YpLGWn8wCQV8"
     },
     {
       "added_at": "2023-10-06 13:11:56",
@@ -1263,22 +1263,6 @@
     {
       "added_at": "2023-10-06 13:11:56",
       "album": {
-        "name": "Capella",
-        "url": "https://open.spotify.com/album/1eSGsRf3dno1OZPsqwl4SE"
-      },
-      "artists": [
-        {
-          "name": "Aerial Love",
-          "url": "https://open.spotify.com/artist/7HOYUr9LEDEhGVcfthgpQK"
-        }
-      ],
-      "duration_ms": 157402,
-      "name": "Capella",
-      "url": "https://open.spotify.com/track/5RPMibWUfF3LzQ6kjb7prZ"
-    },
-    {
-      "added_at": "2023-10-06 13:11:56",
-      "album": {
         "name": "Reflections",
         "url": "https://open.spotify.com/album/52ADH7apfHJZZzbgKvFe1J"
       },
@@ -1291,6 +1275,22 @@
       "duration_ms": 170958,
       "name": "Reflections",
       "url": "https://open.spotify.com/track/3tM1Ovo4yklKLkRB1M7Pr6"
+    },
+    {
+      "added_at": "2023-10-06 13:11:56",
+      "album": {
+        "name": "Capella",
+        "url": "https://open.spotify.com/album/1eSGsRf3dno1OZPsqwl4SE"
+      },
+      "artists": [
+        {
+          "name": "Aerial Love",
+          "url": "https://open.spotify.com/artist/7HOYUr9LEDEhGVcfthgpQK"
+        }
+      ],
+      "duration_ms": 157402,
+      "name": "Capella",
+      "url": "https://open.spotify.com/track/5RPMibWUfF3LzQ6kjb7prZ"
     },
     {
       "added_at": "2023-10-06 13:11:56",
@@ -1311,18 +1311,18 @@
     {
       "added_at": "2023-10-06 13:11:56",
       "album": {
-        "name": "Oh so Quiet",
-        "url": "https://open.spotify.com/album/7hA3Z4F90GoBPxsNz8DZj4"
+        "name": "Sleep - Vol 4",
+        "url": "https://open.spotify.com/album/377vTOKOL7efKmZViXAQHC"
       },
       "artists": [
         {
-          "name": "The Silent Ocean",
-          "url": "https://open.spotify.com/artist/2MJ2VZRWH4mMHW5S0dISxN"
+          "name": "Crystalsong",
+          "url": "https://open.spotify.com/artist/2SdRLr197dzDytBbZe5RZA"
         }
       ],
-      "duration_ms": 190666,
-      "name": "Oh so Quiet",
-      "url": "https://open.spotify.com/track/4VRWsEwCyHInmiS7AV0hn9"
+      "duration_ms": 255578,
+      "name": "Reinstatement",
+      "url": "https://open.spotify.com/track/4BbjIfCfHRMnqfrzLNaYsx"
     },
     {
       "added_at": "2023-10-06 13:11:56",
@@ -1343,18 +1343,18 @@
     {
       "added_at": "2023-10-06 13:11:56",
       "album": {
-        "name": "Sleep - Vol 4",
-        "url": "https://open.spotify.com/album/377vTOKOL7efKmZViXAQHC"
+        "name": "Oh so Quiet",
+        "url": "https://open.spotify.com/album/7hA3Z4F90GoBPxsNz8DZj4"
       },
       "artists": [
         {
-          "name": "Crystalsong",
-          "url": "https://open.spotify.com/artist/2SdRLr197dzDytBbZe5RZA"
+          "name": "The Silent Ocean",
+          "url": "https://open.spotify.com/artist/2MJ2VZRWH4mMHW5S0dISxN"
         }
       ],
-      "duration_ms": 255578,
-      "name": "Reinstatement",
-      "url": "https://open.spotify.com/track/4BbjIfCfHRMnqfrzLNaYsx"
+      "duration_ms": 190666,
+      "name": "Oh so Quiet",
+      "url": "https://open.spotify.com/track/4VRWsEwCyHInmiS7AV0hn9"
     },
     {
       "added_at": "2023-10-06 13:11:56",
@@ -1455,22 +1455,6 @@
     {
       "added_at": "2023-10-06 13:11:56",
       "album": {
-        "name": "Dream Away",
-        "url": "https://open.spotify.com/album/4mDtIUHurk4JseJecvovSx"
-      },
-      "artists": [
-        {
-          "name": "My Arctic Dreams",
-          "url": "https://open.spotify.com/artist/6xxFSAtDrxDe6R2qzGyz9d"
-        }
-      ],
-      "duration_ms": 124615,
-      "name": "Dream Away",
-      "url": "https://open.spotify.com/track/7G9mgszDgcXRn8BlShb2kE"
-    },
-    {
-      "added_at": "2023-10-06 13:11:56",
-      "album": {
         "name": "Prieks",
         "url": "https://open.spotify.com/album/0ci5ILaulRbEQGxFMCHBrs"
       },
@@ -1483,6 +1467,22 @@
       "duration_ms": 145524,
       "name": "Prieks",
       "url": "https://open.spotify.com/track/7pDVh7xNFhIBhF6tVSVDBB"
+    },
+    {
+      "added_at": "2023-10-06 13:11:56",
+      "album": {
+        "name": "Dream Away",
+        "url": "https://open.spotify.com/album/4mDtIUHurk4JseJecvovSx"
+      },
+      "artists": [
+        {
+          "name": "My Arctic Dreams",
+          "url": "https://open.spotify.com/artist/6xxFSAtDrxDe6R2qzGyz9d"
+        }
+      ],
+      "duration_ms": 124615,
+      "name": "Dream Away",
+      "url": "https://open.spotify.com/track/7G9mgszDgcXRn8BlShb2kE"
     },
     {
       "added_at": "2023-10-06 13:11:56",
@@ -1567,22 +1567,6 @@
     {
       "added_at": "2023-10-06 13:11:56",
       "album": {
-        "name": "Evening Calm",
-        "url": "https://open.spotify.com/album/1lYuL6PrtYfCWlk26xn0Kj"
-      },
-      "artists": [
-        {
-          "name": "Nimbus Skies",
-          "url": "https://open.spotify.com/artist/6BdApnIAy6D0nQQs1PjzSB"
-        }
-      ],
-      "duration_ms": 158961,
-      "name": "Evening Calm",
-      "url": "https://open.spotify.com/track/23gmdJgMk6hgkrwUsvNjG3"
-    },
-    {
-      "added_at": "2023-10-06 13:11:56",
-      "album": {
         "name": "Pegasus",
         "url": "https://open.spotify.com/album/45XW5GtxG6TdPEEgvA7Jul"
       },
@@ -1595,6 +1579,22 @@
       "duration_ms": 211443,
       "name": "Pegasus",
       "url": "https://open.spotify.com/track/0N08dxkNnilnHjjRhCL9V1"
+    },
+    {
+      "added_at": "2023-10-06 13:11:56",
+      "album": {
+        "name": "Evening Calm",
+        "url": "https://open.spotify.com/album/1lYuL6PrtYfCWlk26xn0Kj"
+      },
+      "artists": [
+        {
+          "name": "Nimbus Skies",
+          "url": "https://open.spotify.com/artist/6BdApnIAy6D0nQQs1PjzSB"
+        }
+      ],
+      "duration_ms": 158961,
+      "name": "Evening Calm",
+      "url": "https://open.spotify.com/track/23gmdJgMk6hgkrwUsvNjG3"
     },
     {
       "added_at": "2023-10-06 13:11:56",
@@ -1695,22 +1695,6 @@
     {
       "added_at": "2023-10-06 13:11:56",
       "album": {
-        "name": "Loveliness",
-        "url": "https://open.spotify.com/album/4SYjccDi2Vcm3XMUk65cNP"
-      },
-      "artists": [
-        {
-          "name": "Gentle Dreams",
-          "url": "https://open.spotify.com/artist/57Ou0NcsDXfjiznEPmZfaC"
-        }
-      ],
-      "duration_ms": 160188,
-      "name": "Loveliness",
-      "url": "https://open.spotify.com/track/3dKprU1S9gkO3AlCKnjNyt"
-    },
-    {
-      "added_at": "2023-10-06 13:11:56",
-      "album": {
         "name": "Solace",
         "url": "https://open.spotify.com/album/76Vmwd38DKu5eOQfvXII9U"
       },
@@ -1723,6 +1707,22 @@
       "duration_ms": 304952,
       "name": "Solace - Meditation",
       "url": "https://open.spotify.com/track/27IttMdiGdiffTT0fnBxZK"
+    },
+    {
+      "added_at": "2023-10-06 13:11:56",
+      "album": {
+        "name": "Loveliness",
+        "url": "https://open.spotify.com/album/4SYjccDi2Vcm3XMUk65cNP"
+      },
+      "artists": [
+        {
+          "name": "Gentle Dreams",
+          "url": "https://open.spotify.com/artist/57Ou0NcsDXfjiznEPmZfaC"
+        }
+      ],
+      "duration_ms": 160188,
+      "name": "Loveliness",
+      "url": "https://open.spotify.com/track/3dKprU1S9gkO3AlCKnjNyt"
     },
     {
       "added_at": "2023-10-06 13:11:56",
@@ -1807,22 +1807,6 @@
     {
       "added_at": "2023-10-06 13:11:56",
       "album": {
-        "name": "\u200bGentle Dreams",
-        "url": "https://open.spotify.com/album/6JR2chegFWuuoU7KqOU1BG"
-      },
-      "artists": [
-        {
-          "name": "Tranquil Journeys",
-          "url": "https://open.spotify.com/artist/54FHbjddYi2zgSZ1QNgkPn"
-        }
-      ],
-      "duration_ms": 195000,
-      "name": "Gentle Dreams",
-      "url": "https://open.spotify.com/track/3Y8h3LXQ1jR3jsdbdR7nmt"
-    },
-    {
-      "added_at": "2023-10-06 13:11:56",
-      "album": {
         "name": "A Space Within a Space",
         "url": "https://open.spotify.com/album/7p6Ea9bHvmGuf5YD9WKMMp"
       },
@@ -1851,6 +1835,22 @@
       "duration_ms": 196777,
       "name": "Vivid Imagination",
       "url": "https://open.spotify.com/track/4wV6irpJa9f21iaadadfrG"
+    },
+    {
+      "added_at": "2023-10-06 13:11:56",
+      "album": {
+        "name": "\u200bGentle Dreams",
+        "url": "https://open.spotify.com/album/6JR2chegFWuuoU7KqOU1BG"
+      },
+      "artists": [
+        {
+          "name": "Tranquil Journeys",
+          "url": "https://open.spotify.com/artist/54FHbjddYi2zgSZ1QNgkPn"
+        }
+      ],
+      "duration_ms": 195000,
+      "name": "Gentle Dreams",
+      "url": "https://open.spotify.com/track/3Y8h3LXQ1jR3jsdbdR7nmt"
     },
     {
       "added_at": "2023-10-06 13:11:56",
@@ -1903,22 +1903,6 @@
     {
       "added_at": "2023-10-06 13:11:56",
       "album": {
-        "name": "A New Day",
-        "url": "https://open.spotify.com/album/1iW2YQx2uFHUVVPwBCVBpW"
-      },
-      "artists": [
-        {
-          "name": "Oscar Sol",
-          "url": "https://open.spotify.com/artist/47EU0ZJnqLxIpe8EwyDDce"
-        }
-      ],
-      "duration_ms": 156000,
-      "name": "A New Day",
-      "url": "https://open.spotify.com/track/4hI39WJTJdxfLZIxw1P4xZ"
-    },
-    {
-      "added_at": "2023-10-06 13:11:56",
-      "album": {
         "name": "Soft Meadow",
         "url": "https://open.spotify.com/album/2GS48Tn9Wtbytl8hcGGXT8"
       },
@@ -1931,6 +1915,22 @@
       "duration_ms": 193492,
       "name": "Soft Meadow",
       "url": "https://open.spotify.com/track/02fRLzB7HZHr7UzG5lCia9"
+    },
+    {
+      "added_at": "2023-10-06 13:11:56",
+      "album": {
+        "name": "A New Day",
+        "url": "https://open.spotify.com/album/1iW2YQx2uFHUVVPwBCVBpW"
+      },
+      "artists": [
+        {
+          "name": "Oscar Sol",
+          "url": "https://open.spotify.com/artist/47EU0ZJnqLxIpe8EwyDDce"
+        }
+      ],
+      "duration_ms": 156000,
+      "name": "A New Day",
+      "url": "https://open.spotify.com/track/4hI39WJTJdxfLZIxw1P4xZ"
     }
   ],
   "unique_name": "Sanaci\u00f3n Profunda",

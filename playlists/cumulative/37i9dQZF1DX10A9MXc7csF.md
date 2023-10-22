@@ -4,7 +4,7 @@
 
 > The new school of Música Mexicana\. Cover: Franco Rey
 
-561 songs - 1 day 5 hr 9 min
+563 songs - 1 day 5 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -450,6 +450,7 @@
 | [Rolex En La Mano](https://open.spotify.com/track/0OUTR8AaVMNhoALaVBvffp) | [Porte Diferente](https://open.spotify.com/artist/1OZhgL2E9qx49PhVzWRcuf), [Galvancillo](https://open.spotify.com/artist/1CoKmNxIr7haxlqBCzVnMV) | [Rolex En La Mano](https://open.spotify.com/album/2Lh9zUjRJquDeJPfzWlMqy) | 3:51 | 2023-05-26 | 2023-07-23 |
 | [Roll It](https://open.spotify.com/track/1rmkdRN6cMTLEgVlrl2fVK) | [Jay Sánchez](https://open.spotify.com/artist/3KWXqSfNmUT0fdjBmTisCJ) | [Roll It](https://open.spotify.com/album/3oLDxDpjzpNPOU8KdzUjx4) | 2:56 | 2023-03-17 | 2023-05-27 |
 | [Rosa Pastel](https://open.spotify.com/track/4LreWoO3cpgiIfrRwbOUSF) | [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ), [Jasiel Nuñez](https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy) | [Rosa Pastel](https://open.spotify.com/album/1PFKd6UNr0AHTNpfPbcd7v) | 3:24 | 2023-04-21 | 2023-05-27 |
+| [Rubicon](https://open.spotify.com/track/5W3D37twMsileaHHoWBrWF) | [HERNAN TREJO](https://open.spotify.com/artist/2JW58Zzu11HCWLaMou9UGD) | [Rubicon](https://open.spotify.com/album/6zJbfrnTwqZ2LtcnOWlfOw) | 2:27 | 2023-10-21 |  |
 | [Ruleteando](https://open.spotify.com/track/1dSwYL79WUQH6wG2dzGbCE) | [Lily Baez](https://open.spotify.com/artist/2q7elVTQXIgbMh5vA6mlFs) | [Ruleteando](https://open.spotify.com/album/5ThXtHduVqriyX1yCTEBGY) | 2:32 | 2023-05-26 | 2023-09-09 |
 | [RZR Rojo](https://open.spotify.com/track/4O5wR64RB2ZjyekGRalbMj) | [Sebastian Esquivel](https://open.spotify.com/artist/1tuNNda2SSH3o4lUms5K6C), [Alex Favela](https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD) | [RZR Rojo](https://open.spotify.com/album/3ooQzMHUnEgvmhcdwQlr6I) | 1:52 | 2023-03-17 | 2023-05-27 |
 | [Sabes](https://open.spotify.com/track/3MespBSjCJCH3g5j2qr32A) | [Christian Nava](https://open.spotify.com/artist/4ykQDHQarNbuhmYt8YB3W0) | [Sabes](https://open.spotify.com/album/36ieVdtaF4jnQdfcofokEb) | 3:05 | 2023-04-21 | 2023-05-27 |
@@ -489,6 +490,7 @@
 | [Soy el Mejor \- Deluxe](https://open.spotify.com/track/3KolJYFk80M5gl5TWYoEd1) | [Tony Loya](https://open.spotify.com/artist/6n4UZ6Nju0cFj8VSoYCN6L), [Ivan Cornejo](https://open.spotify.com/artist/6PH3FLQAxtqYy46Zv08bpV) | [Off the Juice \(Deluxe\)](https://open.spotify.com/album/1KaaqC2PnSygiw7cKz72mK) | 3:06 | 2022-05-14 | 2022-09-09 |
 | [Soy El Unico](https://open.spotify.com/track/6HJIZUOiZDE814XMhRGSZN) | [Yahritza Y Su Esencia](https://open.spotify.com/artist/51ZSh80McCt7vbqHouzW0A) | [Soy El Unico](https://open.spotify.com/album/5oPFcz7IZOyJKNdJ08HXQl) | 3:33 | 2022-05-14 | 2022-07-23 |
 | [Soy Mala](https://open.spotify.com/track/10pyLImhmwLQcl3G4ahJZB) | [Lluvia Arámbula](https://open.spotify.com/artist/1GNHRCTZBHUf8rYfPTjT92) | [Adrenalina](https://open.spotify.com/album/4806StxcG6kpJXdGwMH9Tc) | 1:57 | 2023-02-17 | 2023-05-27 |
+| [Soñando](https://open.spotify.com/track/1ZZ2jOHKjKGUGGSOj7LsaD) | [El Wiko](https://open.spotify.com/artist/711tZI6sxBPYHe5FvbLQjs), [Simpson Ahuevo](https://open.spotify.com/artist/6viZnVSHavFUcW0blu6Mvw) | [Soñando](https://open.spotify.com/album/1tl182IgEgAOhTOgp1rooN) | 3:08 | 2023-10-21 |  |
 | [SRT](https://open.spotify.com/track/0kPHa4gC1vwie3CIOATJm3) | [HERNAN TREJO](https://open.spotify.com/artist/2JW58Zzu11HCWLaMou9UGD) | [SRT](https://open.spotify.com/album/0DbVzazbyboM9WB3XBVVei) | 2:58 | 2022-08-05 | 2022-09-09 |
 | [SRT](https://open.spotify.com/track/72Bd9HfYQZnm33DzrzP2Im) | [Los Del Cristo](https://open.spotify.com/artist/3BarTzhsrWCqdYdTuHaXiK) | [SRT](https://open.spotify.com/album/4myKBRPQhCc2dodJLtSzod) | 2:54 | 2022-09-09 | 2023-01-27 |
 | [Substancias](https://open.spotify.com/track/6djaJe3bY5R2FAqjPmnK4X) | [Esteban Gabriel](https://open.spotify.com/artist/6RPeBghYnSwGV6FOw7huuN) | [Substancias](https://open.spotify.com/album/7A0S7gIKQDXGMPuSqC3oKb) | 3:24 | 2022-06-10 | 2022-10-15 |
@@ -543,7 +545,7 @@
 | [Verificado](https://open.spotify.com/track/49P3Ix6GHwKYUR1IQaiYdQ) | [Hadrian](https://open.spotify.com/artist/2F9icYS5KP4Td9nbxIjo9q), [Beto Vega](https://open.spotify.com/artist/4sB1zr9B9t2OgQtdejswak), [Pitt Blanco](https://open.spotify.com/artist/30gIMGuXt3QKpyVQHhJc8o) | [Verificado](https://open.spotify.com/album/7qttMMoI0JGaClH0GvE6YA) | 2:50 | 2022-09-09 | 2023-02-25 |
 | [Versaci](https://open.spotify.com/track/3io4JByoRElfacv61ulr0E) | [Grupo Nueva Sensacion](https://open.spotify.com/artist/2Xvs8ooYYMhXM6I549gExb) | [Versaci](https://open.spotify.com/album/6RyZd7QCleEPsG8YROucAQ) | 2:38 | 2022-07-22 | 2022-09-09 |
 | [Vestido Negro](https://open.spotify.com/track/5nkK1Ndk8f2tE7l7MRDjyh) | [Christian Lara](https://open.spotify.com/artist/0eptefgBKrNB6UAZvrX9c5) | [Vestido Negro](https://open.spotify.com/album/34VSDhNg7x8hHOkVxPzaVO) | 3:17 | 2023-05-26 | 2023-09-09 |
-| [VETE](https://open.spotify.com/track/1nZZVprSn3MjlypZ8QYcPF) | [ERRE](https://open.spotify.com/artist/5OugQZ3PqgRofo9mtzVYN3) | [VETE](https://open.spotify.com/album/3GIN6jcQHRLIno3O1r14SU) | 3:27 | 2023-09-08 |  |
+| [VETE](https://open.spotify.com/track/1nZZVprSn3MjlypZ8QYcPF) | [ERRE](https://open.spotify.com/artist/5OugQZ3PqgRofo9mtzVYN3) | [VETE](https://open.spotify.com/album/3GIN6jcQHRLIno3O1r14SU) | 3:27 | 2023-09-08 | 2023-10-22 |
 | [Vete A La :\)](https://open.spotify.com/track/5aJUIm3JeJ7BnRlAkOiY2V) | [Plan de Escape](https://open.spotify.com/artist/4y4uRSNiwurNnkWn9I0z7R) | [Vete A La :\)](https://open.spotify.com/album/6UOkpv7AhnnmOfK2fRhi1E) | 3:18 | 2022-06-03 | 2023-01-14 |
 | [Vida De Alucin](https://open.spotify.com/track/7K0AJFJ0umyGoX4DERlTUx) | [Chris Hermosillo](https://open.spotify.com/artist/49s6IQppCi57xqZqwLIT7B), [Galvancillo](https://open.spotify.com/artist/1CoKmNxIr7haxlqBCzVnMV), [Sammy G](https://open.spotify.com/artist/6n4jWB2SCDA59vsUlp8Mc1), [Colocho y Su Eminencia](https://open.spotify.com/artist/6c61IOPGx9WFbMgtHvm8wz) | [Vida De Alucin](https://open.spotify.com/album/0PiTNLczPw7JNrWFNm0Mj9) | 3:18 | 2023-05-26 | 2023-07-29 |
 | [Vida Es Una](https://open.spotify.com/track/6mnpYSTxxLhiTXyx3JFrpt) | [Juanpa Salazar](https://open.spotify.com/artist/6r92NGrlnmNvFJA9Kl0PAx) | [Vida Es Una](https://open.spotify.com/album/520FdK8Tu9U0Cfl9itgrM0) | 2:50 | 2023-05-26 | 2023-09-09 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6CfJlSXEcCA.md) - [plain]
 
 > Enjoy game soundtracks from Capcom! 最新作から過去まで、多数の人気作品を生み出したカプコンのゲームサントラをお届け！©CAPCOM CO., LTD\. ALL RIGHTS RESERVED.
 
-[Spotify](https://open.spotify.com/user/spotify) - 32,146 likes - 50 songs - 2 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 32,194 likes - 50 songs - 2 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,8 +20,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6CfJlSXEcCA.md) - [plain]
 | 10 | [銀翼の凶星 〜 バルファルク](https://open.spotify.com/track/0dVYVD6E0K9Gk9eo4f7y9k) | [裏谷玲央](https://open.spotify.com/artist/50lUudPsXCGEe4dn6aKTdb) | [モンスターハンター 狩猟音楽集XX](https://open.spotify.com/album/2ulugdM6t8iLBYNuoYTyG8) | 3:13 |
 | 11 | [追求 〜追いつめられて](https://open.spotify.com/track/4eKkLKZmNPu4yknLQlLowe) | [Masakazu Sugimori](https://open.spotify.com/artist/6bE2VRSPWx2v3l25ZNSmLq) | [逆転裁判 蘇る逆転 オリジナル・サウンドトラック](https://open.spotify.com/album/3iLHMc4qYd3b9k7JbtxxBq) | 1:36 |
 | 12 | [Saudade](https://open.spotify.com/track/4hjJNJvz1hshnFNRvh72tV) | [Cody Matthew Johnson](https://open.spotify.com/artist/4P2moEkGVqw8nJ5caJLC41), [Shim](https://open.spotify.com/artist/5y7EC8yURkWnpp3kI0T3jp) | [Resident Evil 2 Original Soundtrack](https://open.spotify.com/album/2zyghKqvMQ5guwNLsnkMp2) | 4:18 |
-| 13 | [大追求 〜成歩堂龍ノ介の覺悟](https://open.spotify.com/track/7a0PMLaZMhu18Hl88STQBk) | [Yasumasa Kitagawa](https://open.spotify.com/artist/02rAgib3SCbMTFZuHSii3d) | [大逆転裁判2 \-成歩堂龍ノ介の覺悟\- 劇伴音樂大全集](https://open.spotify.com/album/6eOTzkW3xOLBwG8zRfA2V4) | 2:09 |
-| 14 | [Main Theme \- Stars At Our Backs](https://open.spotify.com/track/55j3FJUsQrDSECgJ2ogMev) | [TADAYOSHI MAKINO](https://open.spotify.com/artist/58RrZSfiTZiUgjNvWO7vCt) | [MONSTER HUNTER: WORLD ORIGINAL SOUNDTRACK](https://open.spotify.com/album/3QkEVIvIqgVfyHY0Lf8QRG) | 4:31 |
+| 13 | [Main Theme \- Stars At Our Backs](https://open.spotify.com/track/55j3FJUsQrDSECgJ2ogMev) | [TADAYOSHI MAKINO](https://open.spotify.com/artist/58RrZSfiTZiUgjNvWO7vCt) | [MONSTER HUNTER: WORLD ORIGINAL SOUNDTRACK](https://open.spotify.com/album/3QkEVIvIqgVfyHY0Lf8QRG) | 4:31 |
+| 14 | [大追求 〜成歩堂龍ノ介の覺悟](https://open.spotify.com/track/7a0PMLaZMhu18Hl88STQBk) | [Yasumasa Kitagawa](https://open.spotify.com/artist/02rAgib3SCbMTFZuHSii3d) | [大逆転裁判2 \-成歩堂龍ノ介の覺悟\- 劇伴音樂大全集](https://open.spotify.com/album/6eOTzkW3xOLBwG8zRfA2V4) | 2:09 |
 | 15 | [Yearning for Dark Shadows](https://open.spotify.com/track/0ksImScAVXWxao9LK7mMGq) | [Brian D'Oliveira](https://open.spotify.com/artist/6Ma7ZBVsdilEALEnNl5Tgz) | [RESIDENT EVIL VILLAGE ORIGINAL SOUNDTRACK](https://open.spotify.com/album/0OmHth9izCltpC5ggqkLkA) | 6:02 |
 | 16 | [X vs ZERO](https://open.spotify.com/track/5DmiafSW6i4jp0sJ9z95qW) | [Naoto Tanaka](https://open.spotify.com/artist/2Ic1wo0pEnrHBTDxkHHiXN) | [MEGA MAN X5 SOUND COLLECTION](https://open.spotify.com/album/1ICLroyqx3t6PnTKlW1ejh) | 2:43 |
 | 17 | [Theme of Guile](https://open.spotify.com/track/3dR4J0QqEyUSJCLx7xt3tO) | [Masahiro Aoki](https://open.spotify.com/artist/7jFdaWMEhqH0728GasEiki) | [STREET FIGHTER V ARCADE EDITION ORIGINAL SOUNDTRACK](https://open.spotify.com/album/4wx1coZnnXhhoCGBicDWFa) | 4:12 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6CfJlSXEcCA.md) - [plain]
 | 49 | [Shall Never Surrender \(End Credits\)](https://open.spotify.com/track/11s4cDWdCABvn9Xkg4eHl2) | [Capcom Sound Team](https://open.spotify.com/artist/3w1Q754jb31h5CXQCcnLNL) | [Devil May Cry 4 Original Soundtrack](https://open.spotify.com/album/1tNWUMsxLIT92wZcrYWkyT) | 4:58 |
 | 50 | [Guile's Theme](https://open.spotify.com/track/29drzlJamuYPBRh1LPpXM4) | [Capcom Sound Team](https://open.spotify.com/artist/3w1Q754jb31h5CXQCcnLNL) | [Super Street Fighter II Turbo Original Soundtrack](https://open.spotify.com/album/3sinqjuzlAI7QWTyJxNut6) | 3:43 |
 
-Snapshot ID: `MCw1ZGM4YjRhOWZjOGFkMGFmOWU3ZjM0YmU1YTA2NTVmMTk1YWFkNzNm`
+Snapshot ID: `MCxlYTE4NmM3ZTc0ZDg1YTUzZjUzNWZkZDg5NmYxMDg2NjE1M2Y5ZjAw`

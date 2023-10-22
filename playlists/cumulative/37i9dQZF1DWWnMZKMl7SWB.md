@@ -4,7 +4,7 @@
 
 > Bases suaves para inspirarte mientras trabajas.
 
-1,210 songs - 2 day 5 hr 51 min
+1,211 songs - 2 day 5 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -162,7 +162,7 @@
 | [Blue Sky](https://open.spotify.com/track/1iLB0erbWIgXJUllRphSHP) | [Mylo B](https://open.spotify.com/artist/6HA81pnwUy8Hh3XueOsig8) | [Blue Sky](https://open.spotify.com/album/0u42d8JsmgNmTX37buAQmD) | 2:13 | 2023-09-08 |  |
 | [Blue Sky](https://open.spotify.com/track/0FOde8zqSfkBbmIToMoE2K) | [WO Hoos](https://open.spotify.com/artist/2nGaqTZqJmnUMVxWJpsatL) | [Blue Sky](https://open.spotify.com/album/2AhfQhDu2hdIqgrD7LlHCx) | 2:07 | 2023-09-22 |  |
 | [Blueprints](https://open.spotify.com/track/5onlsO6h9mMeCjpBcwoOuO) | [Cmd q](https://open.spotify.com/artist/6XiXz5Vit02rmpr0M9SzMG) | [Mood Modifier](https://open.spotify.com/album/0KDTtTTW2RgZaBdlyPb4P8) | 2:19 | 2023-09-22 |  |
-| [Blunotte](https://open.spotify.com/track/7xJ9d7j9fcB2czQyPbLyhy) | [Koralle](https://open.spotify.com/artist/3OW3qK7Wl9ESAGLvjVOw2h), [FloFilz](https://open.spotify.com/artist/39ZQx0618UYVBgGTDOJ2ds) | [Blunotte](https://open.spotify.com/album/5U5C9RGGsnUR5okigKTANF) | 2:22 | 2023-09-22 |  |
+| [Blunotte](https://open.spotify.com/track/7xJ9d7j9fcB2czQyPbLyhy) | [Koralle](https://open.spotify.com/artist/3OW3qK7Wl9ESAGLvjVOw2h), [FloFilz](https://open.spotify.com/artist/39ZQx0618UYVBgGTDOJ2ds) | [Blunotte](https://open.spotify.com/album/5U5C9RGGsnUR5okigKTANF) | 2:22 | 2023-09-22 | 2023-10-22 |
 | [blurred](https://open.spotify.com/track/1y9eslcDsTi75UfkTHuyQZ) | [Sorai](https://open.spotify.com/artist/6ATrPrg8qbSNEyCSEwLgDW) | [blurred](https://open.spotify.com/album/3O5SG1lknx9ptWNp5wNj3J) | 1:52 | 2023-09-22 |  |
 | [Blurred Lines](https://open.spotify.com/track/4ChwSognLjwFYUYgPWQf5y) | [Mindscape](https://open.spotify.com/artist/53cpLThSPfsGFP7J1B3NL6) | [Blurred Lines](https://open.spotify.com/album/1Klbnb8SzP8L26IwtqCvns) | 2:16 | 2023-09-22 |  |
 | [Blvck Kat](https://open.spotify.com/track/0Iu9uuTyFis6muasxFY7cV) | [lowerkaze](https://open.spotify.com/artist/7HjuawVefxsnyB9JVrJQcA) | [Blvck Kat](https://open.spotify.com/album/2sWYPBDHAKJNm8XxsZkLU9) | 3:16 | 2023-09-22 |  |
@@ -1025,6 +1025,7 @@
 | [Superbloom](https://open.spotify.com/track/4ztHQlDj5rCNWiSg3DAYWG) | [HOUNDTRACK](https://open.spotify.com/artist/3nw1z931Oc4JMbF4rGfz6O), [Premes](https://open.spotify.com/artist/1ZbaKBbzutbVyG2GIJH5EI), [Jameson Hodge](https://open.spotify.com/artist/6eoS42oBq9Et9uY0NKYAKs) | [Superbloom](https://open.spotify.com/album/6HU9QXLiiiDHtNpUK8G0dg) | 2:55 | 2022-04-12 | 2023-09-09 |
 | [Supernova](https://open.spotify.com/track/4VUEKRdgmVP7ZvsrnDlWvt) | [Czapter](https://open.spotify.com/artist/26uxSNbgGIV8gFNvPNhZge) | [Supernova](https://open.spotify.com/album/0cywMV3yuEW9GNUutqbfNn) | 2:16 | 2023-09-22 |  |
 | [surf & turf](https://open.spotify.com/track/6CxVGgxFnIIqKmZGHxWxDK) | [Mathis](https://open.spotify.com/artist/19MFUmiYwTLD77ECnzbVWa) | [surf & turf](https://open.spotify.com/album/1ynicyTPqKdnRVtJwypRCY) | 2:21 | 2023-09-22 |  |
+| [Surf Tiger](https://open.spotify.com/track/0jwpEqWMwo5fR1XQXic4lg) | [ohlos](https://open.spotify.com/artist/72l8ZKvwKkr1ZMLzDcFxQC) | [Surf Tiger](https://open.spotify.com/album/4jTtUszaxX0G32HP7nG2SE) | 3:02 | 2023-10-20 |  |
 | [Sushi Wushi](https://open.spotify.com/track/2hP9nuLmOuTNnhUNjaLsaP) | [Monsieur Radieux](https://open.spotify.com/artist/5FTBkfH7lmVjF2Nu8PNIDB) | [Sushi Wushi](https://open.spotify.com/album/3HZWkHLFzxNGXta5uQTCbn) | 1:58 | 2023-09-08 |  |
 | [Swamplands](https://open.spotify.com/track/47VW4X0nwm5uXQ4KzOjW37) | [Cutecake](https://open.spotify.com/artist/4siWS58eyzzQFTp3XJYKin), [sloh rou](https://open.spotify.com/artist/0D4FGltctqk7z1BdC1088j) | [Swamplands](https://open.spotify.com/album/1yElHsea4IcNG4pTlgWu9S) | 2:16 | 2023-09-22 |  |
 | [Swaype](https://open.spotify.com/track/0YRWFGr8QkH3GhmcLYOUTv) | [Wavy Naps](https://open.spotify.com/artist/0kFUFC571jik6K7viLxtPX) | [Swaype](https://open.spotify.com/album/14psBo6XTptrqiGfRHGRow) | 2:25 | 2023-10-13 |  |

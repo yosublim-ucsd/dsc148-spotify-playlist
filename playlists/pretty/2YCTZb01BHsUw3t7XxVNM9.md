@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2YCTZb01BHsUw3t7XxVNM9.md) - [plain]
 
 > Western orientated Hardcore Music by Japanese Artists
 
-[アリス爱丽丝](https://open.spotify.com/user/megustager) - 473 likes - 470 songs - 1 day 8 hr 56 min
+[アリス爱丽丝](https://open.spotify.com/user/megustager) - 475 likes - 471 songs - 1 day 8 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -478,5 +478,6 @@ pretty - [cumulative](/playlists/cumulative/2YCTZb01BHsUw3t7XxVNM9.md) - [plain]
 | 468 | [KOQSHO](https://open.spotify.com/track/5YSQk7K1rLcR38qQZoh8Ep) | [t+pazolite](https://open.spotify.com/artist/4Y345wfGiorcB2NXcsJxOt), [RoughSketch](https://open.spotify.com/artist/0lYM4mCc6IhbmfGYpeNCyO) | [KOQSHO](https://open.spotify.com/album/2ilQng38TEP9HvB3IQuqrc) | 3:57 |
 | 469 | [Shall we dance hardcore?](https://open.spotify.com/track/1Lp2IU7VNuktAkBWtpqmFH) | [RoughSketch](https://open.spotify.com/artist/0lYM4mCc6IhbmfGYpeNCyO), [Natsume Itsuki](https://open.spotify.com/artist/6wdlqh6uDOKX3K36O6dhcJ) | [Shall we dance hardcore?](https://open.spotify.com/album/5iJHwhB28KAaT2SK7jz7yJ) | 3:14 |
 | 470 | [SuM=](https://open.spotify.com/track/06Jw8Aky4P3TJmOVpNCQPc) | [DJ Myosuke](https://open.spotify.com/artist/0GsEX8wr2fhu19PIwQh1oG) | [SuM=](https://open.spotify.com/album/0DRUweqP7AToRhgvXJLgok) | 3:25 |
+| 471 | [The Rebellion of Phantom](https://open.spotify.com/track/75epRWAPKkQcnUUp9AzkUk) | [DJ Myosuke](https://open.spotify.com/artist/0GsEX8wr2fhu19PIwQh1oG), [Gram](https://open.spotify.com/artist/3WtLwZYH0N8mqSaUjEW1kF), [Valkyria](https://open.spotify.com/artist/6VBtv6VrmPo7gew0XeYsTc) | [The Rebellion of Phantom](https://open.spotify.com/album/4k11gYcrFxakAe1KUTgekq) | 3:09 |
 
-Snapshot ID: `NTY0LGI1ODJjNTQ4NTA2ZTYxNDA0ZTM0Yjc3NjBjYTA5MDNkNjk1ZDM1YjI=`
+Snapshot ID: `NTY1LDk1OTFhNTVhNTMxMzBmMjI3MTEwMmJiNzc5NDg2NTFhNjVjOGEyZGM=`

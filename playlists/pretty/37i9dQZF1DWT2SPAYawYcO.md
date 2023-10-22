@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2SPAYawYcO.md) - [plain]
 
 > The best new songs of the week! Cover: Jung Kook, The Kid LAROI & Central Cee
 
-[Spotify](https://open.spotify.com/user/spotify) - 366,139 likes - 88 songs - 4 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 366,196 likes - 88 songs - 4 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2SPAYawYcO.md) - [plain]
 | 3 | [In The City](https://open.spotify.com/track/3xY5aYJcdvZX9xQxNd02ku) | [Charli XCX](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5), [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [In The City](https://open.spotify.com/album/4yb3RB7teZSVscBmOoDWvT) | 2:56 |
 | 4 | [Good Mood](https://open.spotify.com/track/2KGrjW9a45QpuBpjIiyPhT) | [The Rubens](https://open.spotify.com/artist/2hrWpLNoJcs1EnWSXvB6JI) | [Good Mood](https://open.spotify.com/album/3rTINDQ7FOcyfFx6LQs8bA) | 2:59 |
 | 5 | [ANTHEM PART 3](https://open.spotify.com/track/2kjH4Q6WxvlpGnlgwmv4eG) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [ONE MORE TIME...](https://open.spotify.com/album/1OteY9OFTmoZ0vmZT89wPd) | 3:33 |
-| 6 | [Mamas Car](https://open.spotify.com/track/51JtGJtPkfPz4qLHFIwC4j) | [Vv Pete](https://open.spotify.com/artist/66IkoRt5JAg88LCnPuyxXr) | [Mamas Car](https://open.spotify.com/album/5jSswkACL8ldBkgeuWKG4o) | 2:16 |
+| 6 | [Mamas Car](https://open.spotify.com/track/51JtGJtPkfPz4qLHFIwC4j) | [Vv Pete](https://open.spotify.com/artist/66IkoRt5JAg88LCnPuyxXr), [UTILITY](https://open.spotify.com/artist/07SL7uPXhqtBGz0Pqljjgi) | [Mamas Car](https://open.spotify.com/album/5jSswkACL8ldBkgeuWKG4o) | 2:16 |
 | 7 | [Mess It Up](https://open.spotify.com/track/0Ag6LNrSfJVKRhGzD7ArDq) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [Hackney Diamonds](https://open.spotify.com/album/1AxMcdQRLguJqSZMxvRNdO) | 4:03 |
 | 8 | [Desert Land](https://open.spotify.com/track/2SklmBvPC7WFFZVVI5Qnig) | [Matt Corby](https://open.spotify.com/artist/7CIW23FQUXPc1zebnO1TDG) | [Desert Land](https://open.spotify.com/album/05qoqTx3STuUf5KwH1ocA7) | 2:55 |
 | 9 | [Call Me Revenge \- Call of Duty: Modern Warfare 3](https://open.spotify.com/track/6m0S4wcG6sTCP010ZrgdJI) | [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft), [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Call Me Revenge \(Call of Duty: Modern Warfare 3\)](https://open.spotify.com/album/7ISArb5GeVeJ6O65wUyIux) | 2:46 |
@@ -97,4 +97,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2SPAYawYcO.md) - [plain]
 | 87 | [Falling in](https://open.spotify.com/track/4cbm57Rl7bs1loMHZbzUco) | [Blondumb](https://open.spotify.com/artist/021mK0NgHckx1TwdmzH6sl) | [Falling in](https://open.spotify.com/album/70Bdbs0ywY2qfwHJxuUuif) | 2:17 |
 | 88 | [Wake In Might](https://open.spotify.com/track/5Ad2MmfRQlCue9adixQyrw) | [Party Dozen](https://open.spotify.com/artist/5LeiYFiAx31mpoPKxdOLOm) | [Wake In Might](https://open.spotify.com/album/0nagJCtUtrv3ap1WEQexiQ) | 3:31 |
 
-Snapshot ID: `MCwzMDkxNjZjOTg3ODEyMWFkZDU1Y2QxN2I2NmUxYmNlOWM4YTdmNzlh`
+Snapshot ID: `MCw1NjU2M2ZjZGI2OTZjMjY1ZGE0NzUyYmQwYzJhNWY3OWM2MzJiMWQ1`

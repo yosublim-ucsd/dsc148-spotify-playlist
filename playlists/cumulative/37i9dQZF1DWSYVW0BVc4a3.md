@@ -4,7 +4,7 @@
 
 > The stomping ground\. Cover: Mochakk
 
-679 songs - 2 day 5 hr 14 min
+680 songs - 2 day 5 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -239,7 +239,7 @@
 | [Head Over \- Diode Eins & David Hasert Remix](https://open.spotify.com/track/4ow8LhtX2K6h54ZgGBIgJ4) | [Bondi](https://open.spotify.com/artist/0ZPxafqcgMv07OtNWFapKk), [Diode Eins](https://open.spotify.com/artist/6SDn6pAFOILXizOex6vrRr), [David Hasert](https://open.spotify.com/artist/5k3tGz3uryhQGnQryA2b6d) | [Head Over \(Diode Eins & David Hasert Remix\)](https://open.spotify.com/album/3VIgQXLAvIkhLx7USVsJlQ) | 5:54 | 2023-06-08 | 2023-06-23 |
 | [Hear you calling](https://open.spotify.com/track/7Lub88e9lun7Q4EsHm0HPW) | [Vintage Culture](https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts), [Coach Harrison](https://open.spotify.com/artist/40DuSzxFswBymk0cjFnuqL) | [Vintage Culture & Friends, Vol\. 5](https://open.spotify.com/album/14vFH39ZTdf5l5gciuKcxI) | 3:34 | 2023-05-11 | 2023-08-04 |
 | [Heather Park](https://open.spotify.com/track/3i41yQZllyhZZJXsr3ADhd) | [Ewan McVicar](https://open.spotify.com/artist/4d2NUjh9ZrzG1ZZdhpSDKH) | [Heather Park](https://open.spotify.com/album/1VKmlsq627xxebmf53jHME) | 6:01 | 2022-08-18 | 2022-09-24 |
-| [Heaven](https://open.spotify.com/track/4wJ6GzWqWebaKHXrKot0ju) | [Dusky](https://open.spotify.com/artist/5gqoUf9vKKv96b1c0GBKwu) | [Heaven EP](https://open.spotify.com/album/4qs2ZCcVu7eeKc82fqFsEr) | 3:20 | 2023-09-07 |  |
+| [Heaven](https://open.spotify.com/track/4wJ6GzWqWebaKHXrKot0ju) | [Dusky](https://open.spotify.com/artist/5gqoUf9vKKv96b1c0GBKwu) | [Heaven EP](https://open.spotify.com/album/4qs2ZCcVu7eeKc82fqFsEr) | 3:20 | 2023-09-07 | 2023-10-22 |
 | [Heaven, Wait \(Joplyn Remix\)](https://open.spotify.com/track/4OFUyGiyOphh0WjTCEjjGc) | [Ghostly Kisses](https://open.spotify.com/artist/7EkzQPP0cgt2qCnXUg6PHj), [JOPLYN](https://open.spotify.com/artist/32Jt1AK733JbFR82hEZ0Ih) | [Heaven, Wait \(Joplyn Remix\)](https://open.spotify.com/album/66Hz3v2kSBF4yjKc7QnU7d) | 4:37 | 2023-02-23 | 2023-03-03 |
 | [Hera \- Radio Edit](https://open.spotify.com/track/3vvI4AgjiuPerFxIkhLxXy) | [Space Motion](https://open.spotify.com/artist/1k7iyyK6j5IJzF0cUMcaGY) | [Hera](https://open.spotify.com/album/7zCZCLV0eO0TPCxl3iFobd) | 3:25 | 2023-10-12 |  |
 | [Here I Go Again \- Slow Motion & Duarte Remix](https://open.spotify.com/track/7oq25zrkSTg4dh2HcVQ5e1) | [Mindchatter](https://open.spotify.com/artist/1He0ZKninbT4FMEV9hUZKn), [Slow Motion](https://open.spotify.com/artist/6jmHuLfbWlq34KedQ7mA5I), [Duarte](https://open.spotify.com/artist/11ofEe58zrex8X5NBbWhsk) | [Here I Go Again \(Slow Motion & Duarte Remix\)](https://open.spotify.com/album/1KHwWieZQxLFX3SwtP86wr) | 4:00 | 2023-01-19 | 2023-03-10 |
@@ -444,6 +444,7 @@
 | [Pegasus](https://open.spotify.com/track/0ly6MZRi74jcRezlEYqeeJ) | [Kevin de Vries](https://open.spotify.com/artist/11aPF3sc8lDWNqPVInm4Zx) | [Pegasus](https://open.spotify.com/album/6DHxpHF6eBymp71iWvjwTV) | 6:52 | 2023-03-23 | 2023-10-17 |
 | [Phonox](https://open.spotify.com/track/1S2HYB1DU0Qt4ScO2WpCbR) | [Jeremy Olander](https://open.spotify.com/artist/5vdjF79d5d2m12FOkJhxHB) | [Phonox](https://open.spotify.com/album/6QvULTM7fp7F2kYtjIDxCO) | 7:56 | 2023-10-12 |  |
 | [Pink](https://open.spotify.com/track/7jC1ym6zymckGeBH5FlwXq) | [Avoure](https://open.spotify.com/artist/37S9qlW44AiakSF45Vra1E) | [Reflection](https://open.spotify.com/album/2KRkITw3duxYZvQxAnZTaF) | 5:02 | 2023-06-29 | 2023-08-01 |
+| [Pipi Dormir](https://open.spotify.com/track/0ba74twsUUtdjG6nTc1b83) | [Lane 8](https://open.spotify.com/artist/27gtK7m9vYwCyJ04zz0kIb), [Grigoré](https://open.spotify.com/artist/2RemyvxrdxNsB7ycf3rJHX) | [Pipi Dormir](https://open.spotify.com/album/38FvCoA5CE5mO9PY7CHqtU) | 6:34 | 2023-10-19 |  |
 | [Place To Be](https://open.spotify.com/track/7fEXuHcjNUIDjoe1LUxyqt) | [Miane](https://open.spotify.com/artist/6bprXdW2g8kg49tNslPQ6X) | [Place To Be](https://open.spotify.com/album/4AFTUQtnX34HBOJjk08Wdp) | 3:12 | 2023-05-25 | 2023-06-03 |
 | [Pneuma](https://open.spotify.com/track/4qBwFgJNIwz4wtvcRdyJRa) | [Marsh](https://open.spotify.com/artist/1eucLGnPT27tdEh6MU29wp) | [Endless](https://open.spotify.com/album/2z7lW733Epysy8Sf5Vz2aG) | 4:18 | 2023-02-02 | 2023-04-21 |
 | [Point Of No Return](https://open.spotify.com/track/6PzfuuQ95fRU9JRFSFFq77) | [Adam Port](https://open.spotify.com/artist/2loEsOijJ6XiGzWYFXMIRk), [Monolink](https://open.spotify.com/artist/2I4hRNCYkPKJQlkoEZKjYx) | [Point Of No Return](https://open.spotify.com/album/6YfeosMg7VMAnS9wXiMQID) | 4:43 | 2023-03-16 |  |

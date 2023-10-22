@@ -4,7 +4,7 @@
 
 > 
 
-691 songs - 1 day 11 hr 1 min
+693 songs - 1 day 11 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -396,6 +396,7 @@
 | [MOTW](https://open.spotify.com/track/0JZUiKHoEDpsLvXfeqbZxV) | [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [WUNNA](https://open.spotify.com/album/0gA0nZrZ55PLUp7ARfrICu) | 2:32 | 2022-12-28 |  |
 | [Mud](https://open.spotify.com/track/3FZyBb2ALPpua7QKVKsGKt) | [3ohBlack](https://open.spotify.com/artist/1mnnmVJeUTNfWdDx0gVIQT), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [Who Want It](https://open.spotify.com/album/1ddoQBAZBcK6YLi675xtzu) | 3:06 | 2023-04-15 |  |
 | [Murda Talk](https://open.spotify.com/track/06R3hA4D1jyj8f8untfQNB) | [NLE Choppa](https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ) | [Top Shotta](https://open.spotify.com/album/4dsMe3EBC8xURaxMhyorgf) | 2:24 | 2023-04-06 |  |
+| [Murder & Millions](https://open.spotify.com/track/27RWVlCet2iZlGciBETorw) | [Key Glock](https://open.spotify.com/artist/0RESbWvOMyua0yuyVrztJ5) | [Murder & Millions](https://open.spotify.com/album/5Rkqhaapzmtrpv09cdAHWg) | 2:30 | 2023-10-21 |  |
 | [My Dawg](https://open.spotify.com/track/7CEJH5Ed7FBbXF6CqBQPlJ) | [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [Harder Than Hard](https://open.spotify.com/album/2zXJkApMEHfHuZxs6Z1pfA) | 3:35 | 2023-04-24 |  |
 | [My Shit](https://open.spotify.com/track/5uQOauh47VFt3B2kV9kRXw) | [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I) | [Artist](https://open.spotify.com/album/2OQEAqShAl6SodrGhmYZ4Z) | 2:08 | 2022-10-27 |  |
 | [My Soul](https://open.spotify.com/track/0OQpNjKRWIuHwsw1pHb397) | [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [Drip Season 3 \(Deluxe\)](https://open.spotify.com/album/5xtAAHr59ozJ2PQ67utEmi) | 2:38 | 2022-12-28 |  |
@@ -684,6 +685,7 @@
 | [Wet Dreamz](https://open.spotify.com/track/6Ius4TC0L3cN74HT7ENE6e) | [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [2014 Forest Hills Drive](https://open.spotify.com/album/7viNUmZZ8ztn2UB4XB3jIL) | 3:59 | 2023-05-31 |  |
 | [Wet Em Up Pt\. 2](https://open.spotify.com/track/0w1x05XBSRIuVmKd3D0IPd) | [Lil Tjay](https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR), [Sheff G](https://open.spotify.com/artist/1tG7s7S4sq2eFFW0QZyLbm), [Sleepy Hallow](https://open.spotify.com/artist/6EPlBSH2RSiettczlz7ihV) | [State of Emergency](https://open.spotify.com/album/26d9EFfi2YSvhQv7KKcrNw) | 3:11 | 2022-06-09 |  |
 | [What's That?](https://open.spotify.com/track/3NqKpLijeFLWflbXDj3Hra) | [Joyner Lucas](https://open.spotify.com/artist/6C1ohJrd5VydigQtaGy5Wa) | [What's That?](https://open.spotify.com/album/3VhrV608YO2YN2Z1tY879X) | 3:27 | 2023-05-10 |  |
+| [WHATS POPPIN \(feat\. DaBaby, Tory Lanez & Lil Wayne\) \- Remix](https://open.spotify.com/track/2MbdDtCv5LUVjYy9RuGTgC) | [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ), [Tory Lanez](https://open.spotify.com/artist/2jku7tDXc6XoB6MO2hFuqg), [DaBaby](https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865) | [WHATS POPPIN \(feat\. DaBaby, Tory Lanez & Lil Wayne\) \[Remix\]](https://open.spotify.com/album/36jrqYRpGVpJqztuqCii22) | 3:47 | 2023-10-21 |  |
 | [Where I'm From \(feat\. BlocBoy JB and Polo G\)](https://open.spotify.com/track/1kqPPHbFzfG4Bue2SaicoC) | [Quando Rondo](https://open.spotify.com/artist/4IprNlQiJZUUJhDl0fL2SL), [BlocBoy JB](https://open.spotify.com/artist/4TEJudQY2pXxVHPE3gD2EU), [Polo G](https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49) | [From the Neighborhood to the Stage](https://open.spotify.com/album/2s19QcF1PIILzRfS6Jjni3) | 3:25 | 2022-10-25 |  |
 | [Who Want Smoke?? \(feat\. G Herbo, Lil Durk & 21 Savage\)](https://open.spotify.com/track/4yNoUQkYf1QF8iYlEzNynH) | [Nardo Wick](https://open.spotify.com/artist/0Njy6yR9LykNKYg9yE23QN), [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5), [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [Who Want Smoke?? \(feat\. G Herbo, Lil Durk & 21 Savage\)](https://open.spotify.com/album/5aSofcF0U90UxJaDr62r6X) | 4:39 | 2022-05-25 |  |
 | [Wicked Freestyle](https://open.spotify.com/track/4xl69qYIDxUIACXSeRkXOY) | [Nardo Wick](https://open.spotify.com/artist/0Njy6yR9LykNKYg9yE23QN) | [Who is Nardo Wick?](https://open.spotify.com/album/338LPt19lJ2GiGmxDSOAtR) | 2:47 | 2022-09-23 |  |

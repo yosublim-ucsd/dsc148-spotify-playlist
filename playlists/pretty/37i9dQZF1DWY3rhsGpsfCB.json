@@ -1,12 +1,12 @@
 {
   "description": "Smooth soul-inspired tracks ",
-  "num_followers": 16030,
+  "num_followers": 16067,
   "original_name": "Cocoa Butter ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhYjJhYjYyZThlZTlkM2FmZjhhMmFjNTFjNzkyM2I1ZTBjOWM4Mzcw",
+  "snapshot_id": "MCw4YjVkZGMyZGI2NzZlODFhMmM0ZGU5OTM4Yzk4NDMwNWE3YzdkNDg3",
   "tracks": [
     {
       "added_at": "2023-10-20 00:01:00",
@@ -175,6 +175,22 @@
     {
       "added_at": "2023-10-20 00:01:00",
       "album": {
+        "name": "Lova",
+        "url": "https://open.spotify.com/album/6kFn3QbTXiRr6ZTkVdIoGa"
+      },
+      "artists": [
+        {
+          "name": "Tayc",
+          "url": "https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60"
+        }
+      ],
+      "duration_ms": 173810,
+      "name": "Lova",
+      "url": "https://open.spotify.com/track/37wnGbe2R8r7BMKoSzDydC"
+    },
+    {
+      "added_at": "2023-10-20 00:01:00",
+      "album": {
         "name": "Sincerely, Benson",
         "url": "https://open.spotify.com/album/3dctFKCiGPizmylLp0SN0a"
       },
@@ -235,22 +251,6 @@
     {
       "added_at": "2023-10-20 00:01:00",
       "album": {
-        "name": "Many Man - A COLORS SHOW",
-        "url": "https://open.spotify.com/album/7j3undJfNrbm3uOboIvpNI"
-      },
-      "artists": [
-        {
-          "name": "Victony",
-          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
-        }
-      ],
-      "duration_ms": 190621,
-      "name": "Many Man - A COLORS SHOW",
-      "url": "https://open.spotify.com/track/4nwtkUjULEbhp5VJItUWbV"
-    },
-    {
-      "added_at": "2023-10-20 00:01:00",
-      "album": {
         "name": "Bad Boy Etiquette 101",
         "url": "https://open.spotify.com/album/4MPDBst1efOusd0rI4jlFp"
       },
@@ -271,18 +271,18 @@
     {
       "added_at": "2023-10-20 00:01:00",
       "album": {
-        "name": "Lova",
-        "url": "https://open.spotify.com/album/6kFn3QbTXiRr6ZTkVdIoGa"
+        "name": "Many Man - A COLORS SHOW",
+        "url": "https://open.spotify.com/album/7j3undJfNrbm3uOboIvpNI"
       },
       "artists": [
         {
-          "name": "Tayc",
-          "url": "https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60"
+          "name": "Victony",
+          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
         }
       ],
-      "duration_ms": 173810,
-      "name": "Lova",
-      "url": "https://open.spotify.com/track/37wnGbe2R8r7BMKoSzDydC"
+      "duration_ms": 190621,
+      "name": "Many Man - A COLORS SHOW",
+      "url": "https://open.spotify.com/track/4nwtkUjULEbhp5VJItUWbV"
     },
     {
       "added_at": "2023-10-20 00:01:00",
@@ -523,6 +523,22 @@
     {
       "added_at": "2023-10-20 00:01:00",
       "album": {
+        "name": "Seasons",
+        "url": "https://open.spotify.com/album/7K4KWIiH8u4q319jECEwAZ"
+      },
+      "artists": [
+        {
+          "name": "Lloyiso",
+          "url": "https://open.spotify.com/artist/3CrKgAMSBXsnTugbUqpu6g"
+        }
+      ],
+      "duration_ms": 164196,
+      "name": "Give A Little Kindness",
+      "url": "https://open.spotify.com/track/7JrYr89YEIGwWqiEFUlSvj"
+    },
+    {
+      "added_at": "2023-10-20 00:01:00",
+      "album": {
         "name": "Room",
         "url": "https://open.spotify.com/album/0gx8ORhZE1FItFCz9qxtRD"
       },
@@ -543,22 +559,6 @@
       "duration_ms": 219181,
       "name": "Room (with Adekunle Gold & 2 Chainz)",
       "url": "https://open.spotify.com/track/1A4N6HrQfZQhwlhYW9bGiF"
-    },
-    {
-      "added_at": "2023-10-20 00:01:00",
-      "album": {
-        "name": "Seasons",
-        "url": "https://open.spotify.com/album/7K4KWIiH8u4q319jECEwAZ"
-      },
-      "artists": [
-        {
-          "name": "Lloyiso",
-          "url": "https://open.spotify.com/artist/3CrKgAMSBXsnTugbUqpu6g"
-        }
-      ],
-      "duration_ms": 164196,
-      "name": "Give A Little Kindness",
-      "url": "https://open.spotify.com/track/7JrYr89YEIGwWqiEFUlSvj"
     },
     {
       "added_at": "2023-10-20 06:29:32",
@@ -663,42 +663,6 @@
     {
       "added_at": "2023-10-20 00:01:00",
       "album": {
-        "name": "Line Of Fire",
-        "url": "https://open.spotify.com/album/3U6QUf4oimV7XlmeTwKx4I"
-      },
-      "artists": [
-        {
-          "name": "Boj",
-          "url": "https://open.spotify.com/artist/4qYpTEJThZ8FC8KzyFrSWW"
-        },
-        {
-          "name": "Ayra Starr",
-          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
-        }
-      ],
-      "duration_ms": 255000,
-      "name": "Line Of Fire",
-      "url": "https://open.spotify.com/track/6IKuTYKo7pIlHQ9Xnxvoxj"
-    },
-    {
-      "added_at": "2023-10-20 00:01:00",
-      "album": {
-        "name": "Fine Pass",
-        "url": "https://open.spotify.com/album/7fRa0SFSKPr2dX9Fnee44k"
-      },
-      "artists": [
-        {
-          "name": "TOME",
-          "url": "https://open.spotify.com/artist/2aRiWRO2A7xUI2sqZyJJmX"
-        }
-      ],
-      "duration_ms": 163154,
-      "name": "Fine Pass",
-      "url": "https://open.spotify.com/track/1L1ateHMb54rv0QsoD9YKy"
-    },
-    {
-      "added_at": "2023-10-20 00:01:00",
-      "album": {
         "name": "All In",
         "url": "https://open.spotify.com/album/5tgwOWxriOGrApV0GEe32i"
       },
@@ -719,6 +683,42 @@
       "duration_ms": 212307,
       "name": "All In",
       "url": "https://open.spotify.com/track/2VSX6yoH66zYjEbLieZMnl"
+    },
+    {
+      "added_at": "2023-10-20 00:01:00",
+      "album": {
+        "name": "Fine Pass",
+        "url": "https://open.spotify.com/album/7fRa0SFSKPr2dX9Fnee44k"
+      },
+      "artists": [
+        {
+          "name": "TOME",
+          "url": "https://open.spotify.com/artist/2aRiWRO2A7xUI2sqZyJJmX"
+        }
+      ],
+      "duration_ms": 163154,
+      "name": "Fine Pass",
+      "url": "https://open.spotify.com/track/1L1ateHMb54rv0QsoD9YKy"
+    },
+    {
+      "added_at": "2023-10-20 00:01:00",
+      "album": {
+        "name": "Line Of Fire",
+        "url": "https://open.spotify.com/album/3U6QUf4oimV7XlmeTwKx4I"
+      },
+      "artists": [
+        {
+          "name": "Boj",
+          "url": "https://open.spotify.com/artist/4qYpTEJThZ8FC8KzyFrSWW"
+        },
+        {
+          "name": "Ayra Starr",
+          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
+        }
+      ],
+      "duration_ms": 255000,
+      "name": "Line Of Fire",
+      "url": "https://open.spotify.com/track/6IKuTYKo7pIlHQ9Xnxvoxj"
     },
     {
       "added_at": "2023-10-20 00:01:00",
@@ -759,30 +759,6 @@
     {
       "added_at": "2023-10-20 00:01:00",
       "album": {
-        "name": "My Lady",
-        "url": "https://open.spotify.com/album/1ISLNwowQgIUwjiWHAqf6W"
-      },
-      "artists": [
-        {
-          "name": "Juls",
-          "url": "https://open.spotify.com/artist/7BIkk865pwBrSZetA8Izic"
-        },
-        {
-          "name": "Haile",
-          "url": "https://open.spotify.com/artist/48Zl8yw6YhIsymNwvNMlnM"
-        },
-        {
-          "name": "Tiggs Da Author",
-          "url": "https://open.spotify.com/artist/0S2dfczvN0sOxEw559snHT"
-        }
-      ],
-      "duration_ms": 178953,
-      "name": "My Lady",
-      "url": "https://open.spotify.com/track/2qJKnWeXuINcyjGhufB0nZ"
-    },
-    {
-      "added_at": "2023-10-20 00:01:00",
-      "album": {
         "name": "5th Dimension",
         "url": "https://open.spotify.com/album/1stg00x6atjTH6w2MN4KZb"
       },
@@ -803,6 +779,30 @@
       "duration_ms": 200000,
       "name": "Therapy",
       "url": "https://open.spotify.com/track/6qIlzp4lZfTYJujSXw5o7r"
+    },
+    {
+      "added_at": "2023-10-20 00:01:00",
+      "album": {
+        "name": "My Lady",
+        "url": "https://open.spotify.com/album/1ISLNwowQgIUwjiWHAqf6W"
+      },
+      "artists": [
+        {
+          "name": "Juls",
+          "url": "https://open.spotify.com/artist/7BIkk865pwBrSZetA8Izic"
+        },
+        {
+          "name": "Haile",
+          "url": "https://open.spotify.com/artist/48Zl8yw6YhIsymNwvNMlnM"
+        },
+        {
+          "name": "Tiggs Da Author",
+          "url": "https://open.spotify.com/artist/0S2dfczvN0sOxEw559snHT"
+        }
+      ],
+      "duration_ms": 178953,
+      "name": "My Lady",
+      "url": "https://open.spotify.com/track/2qJKnWeXuINcyjGhufB0nZ"
     },
     {
       "added_at": "2023-10-20 00:01:00",
@@ -843,30 +843,6 @@
     {
       "added_at": "2023-10-20 00:01:00",
       "album": {
-        "name": "A Night In Cocody",
-        "url": "https://open.spotify.com/album/7fj4P4j4HNVXX5PZtMaEi2"
-      },
-      "artists": [
-        {
-          "name": "Jeune Lio",
-          "url": "https://open.spotify.com/artist/1zz3LkV2ojd7rzmYf2QOsF"
-        },
-        {
-          "name": "Chrystel",
-          "url": "https://open.spotify.com/artist/256du56ykQ0aoQBdKFCDH0"
-        },
-        {
-          "name": "Yung D3mz",
-          "url": "https://open.spotify.com/artist/2PWdxiDyY5rv1qBHEUfqQf"
-        }
-      ],
-      "duration_ms": 220264,
-      "name": "Test Me",
-      "url": "https://open.spotify.com/track/7cb8EEwS3csiKjiee33ZP2"
-    },
-    {
-      "added_at": "2023-10-20 00:01:00",
-      "album": {
         "name": "Sundress",
         "url": "https://open.spotify.com/album/4l3mnirO3XZxLKHIQ0c3cK"
       },
@@ -887,6 +863,30 @@
       "duration_ms": 132837,
       "name": "Sundress",
       "url": "https://open.spotify.com/track/3UoasjQP4cTckRtun7sL3D"
+    },
+    {
+      "added_at": "2023-10-20 00:01:00",
+      "album": {
+        "name": "A Night In Cocody",
+        "url": "https://open.spotify.com/album/7fj4P4j4HNVXX5PZtMaEi2"
+      },
+      "artists": [
+        {
+          "name": "Jeune Lio",
+          "url": "https://open.spotify.com/artist/1zz3LkV2ojd7rzmYf2QOsF"
+        },
+        {
+          "name": "Chrystel",
+          "url": "https://open.spotify.com/artist/256du56ykQ0aoQBdKFCDH0"
+        },
+        {
+          "name": "Yung D3mz",
+          "url": "https://open.spotify.com/artist/2PWdxiDyY5rv1qBHEUfqQf"
+        }
+      ],
+      "duration_ms": 220264,
+      "name": "Test Me",
+      "url": "https://open.spotify.com/track/7cb8EEwS3csiKjiee33ZP2"
     },
     {
       "added_at": "2023-10-20 00:01:00",
@@ -1135,22 +1135,6 @@
     {
       "added_at": "2023-10-20 00:01:00",
       "album": {
-        "name": "Little Things I want (Sync Version)",
-        "url": "https://open.spotify.com/album/5Q52c4OQE5Tv94HhAhygb2"
-      },
-      "artists": [
-        {
-          "name": "Sam Opoku",
-          "url": "https://open.spotify.com/artist/5NDzGl3leOCXxfUcyQC0sv"
-        }
-      ],
-      "duration_ms": 80000,
-      "name": "Little Things I want - Sync Version",
-      "url": "https://open.spotify.com/track/2GmDuSpcIHuAi9OCye3ZMm"
-    },
-    {
-      "added_at": "2023-10-20 00:01:00",
-      "album": {
         "name": "Journey to Idan",
         "url": "https://open.spotify.com/album/2U6DR87NV7jBoc2d5cHRxt"
       },
@@ -1163,6 +1147,22 @@
       "duration_ms": 227217,
       "name": "Hero",
       "url": "https://open.spotify.com/track/31iNSE9TF3ehPE7cX8OSek"
+    },
+    {
+      "added_at": "2023-10-20 00:01:00",
+      "album": {
+        "name": "Little Things I want (Sync Version)",
+        "url": "https://open.spotify.com/album/5Q52c4OQE5Tv94HhAhygb2"
+      },
+      "artists": [
+        {
+          "name": "Sam Opoku",
+          "url": "https://open.spotify.com/artist/5NDzGl3leOCXxfUcyQC0sv"
+        }
+      ],
+      "duration_ms": 80000,
+      "name": "Little Things I want - Sync Version",
+      "url": "https://open.spotify.com/track/2GmDuSpcIHuAi9OCye3ZMm"
     },
     {
       "added_at": "2023-10-20 00:01:00",
@@ -1187,22 +1187,6 @@
     {
       "added_at": "2023-10-20 00:01:00",
       "album": {
-        "name": "Eye to Eye",
-        "url": "https://open.spotify.com/album/2lqCLCQj0prUEwqEDxRKIy"
-      },
-      "artists": [
-        {
-          "name": "Nonso Amadi",
-          "url": "https://open.spotify.com/artist/6pOz4M7D8ENqfLSFvciEuV"
-        }
-      ],
-      "duration_ms": 156771,
-      "name": "Eye to Eye",
-      "url": "https://open.spotify.com/track/6la2yQPbuFKD6I1vEaS2bz"
-    },
-    {
-      "added_at": "2023-10-20 00:01:00",
-      "album": {
         "name": "Sarafina",
         "url": "https://open.spotify.com/album/3NvXYPow2aoFAW48f3CCYe"
       },
@@ -1219,18 +1203,18 @@
     {
       "added_at": "2023-10-20 00:01:00",
       "album": {
-        "name": "IN CASE I NEVER LOVE AGAIN ( ICINLA)",
-        "url": "https://open.spotify.com/album/0xJWHpLQZOiOKoDzqquHfY"
+        "name": "Eye to Eye",
+        "url": "https://open.spotify.com/album/2lqCLCQj0prUEwqEDxRKIy"
       },
       "artists": [
         {
-          "name": "Oladapo",
-          "url": "https://open.spotify.com/artist/6HAro8NBhDtn8csZDPEBuB"
+          "name": "Nonso Amadi",
+          "url": "https://open.spotify.com/artist/6pOz4M7D8ENqfLSFvciEuV"
         }
       ],
-      "duration_ms": 182361,
-      "name": "Break Up",
-      "url": "https://open.spotify.com/track/2HC8oDukA9GvcWG5MuGYde"
+      "duration_ms": 156771,
+      "name": "Eye to Eye",
+      "url": "https://open.spotify.com/track/6la2yQPbuFKD6I1vEaS2bz"
     },
     {
       "added_at": "2023-10-20 00:01:00",
@@ -1251,6 +1235,22 @@
       "duration_ms": 110124,
       "name": "SUPAHAWT",
       "url": "https://open.spotify.com/track/4ir8C4oqZRrLHlC6VQ3mTF"
+    },
+    {
+      "added_at": "2023-10-20 00:01:00",
+      "album": {
+        "name": "IN CASE I NEVER LOVE AGAIN ( ICINLA)",
+        "url": "https://open.spotify.com/album/0xJWHpLQZOiOKoDzqquHfY"
+      },
+      "artists": [
+        {
+          "name": "Oladapo",
+          "url": "https://open.spotify.com/artist/6HAro8NBhDtn8csZDPEBuB"
+        }
+      ],
+      "duration_ms": 182361,
+      "name": "Break Up",
+      "url": "https://open.spotify.com/track/2HC8oDukA9GvcWG5MuGYde"
     },
     {
       "added_at": "2023-10-20 00:01:00",
@@ -1295,26 +1295,6 @@
     {
       "added_at": "2023-10-20 00:01:00",
       "album": {
-        "name": "When It Blooms",
-        "url": "https://open.spotify.com/album/6yJ4EJm92OdmuMy8ijBZGq"
-      },
-      "artists": [
-        {
-          "name": "Nonso Amadi",
-          "url": "https://open.spotify.com/artist/6pOz4M7D8ENqfLSFvciEuV"
-        },
-        {
-          "name": "Tay Iwar",
-          "url": "https://open.spotify.com/artist/0iqznAW9pzZ7KOjx8aCMWo"
-        }
-      ],
-      "duration_ms": 204608,
-      "name": "Pieces (with Tay Iwar)",
-      "url": "https://open.spotify.com/track/2StZJmVDSZEij15FbB3WTz"
-    },
-    {
-      "added_at": "2023-10-20 00:01:00",
-      "album": {
         "name": "Asylum",
         "url": "https://open.spotify.com/album/3XOj6M8MfJPr6BGpOuI9ho"
       },
@@ -1351,6 +1331,42 @@
       "duration_ms": 140410,
       "name": "Chocolati",
       "url": "https://open.spotify.com/track/2GnmljVcpgOs1kX2ysKazT"
+    },
+    {
+      "added_at": "2023-10-20 00:01:00",
+      "album": {
+        "name": "When It Blooms",
+        "url": "https://open.spotify.com/album/6yJ4EJm92OdmuMy8ijBZGq"
+      },
+      "artists": [
+        {
+          "name": "Nonso Amadi",
+          "url": "https://open.spotify.com/artist/6pOz4M7D8ENqfLSFvciEuV"
+        },
+        {
+          "name": "Tay Iwar",
+          "url": "https://open.spotify.com/artist/0iqznAW9pzZ7KOjx8aCMWo"
+        }
+      ],
+      "duration_ms": 204608,
+      "name": "Pieces (with Tay Iwar)",
+      "url": "https://open.spotify.com/track/2StZJmVDSZEij15FbB3WTz"
+    },
+    {
+      "added_at": "2023-10-20 00:01:00",
+      "album": {
+        "name": "FACETS",
+        "url": "https://open.spotify.com/album/0hfoDeUSQyNrSvLPFtIWvk"
+      },
+      "artists": [
+        {
+          "name": "Shay Lia",
+          "url": "https://open.spotify.com/artist/3sJQwG0SsGRyv5C5kh4o9a"
+        }
+      ],
+      "duration_ms": 192278,
+      "name": "HIGH",
+      "url": "https://open.spotify.com/track/7v3v3pXC6RaeLEhsIcAFrs"
     },
     {
       "added_at": "2023-10-20 00:01:00",
@@ -1459,6 +1475,22 @@
     {
       "added_at": "2023-10-20 00:01:00",
       "album": {
+        "name": "For Keeps - A COLORS SHOW",
+        "url": "https://open.spotify.com/album/3KwVjyCfMY0FgYLZIJiGL3"
+      },
+      "artists": [
+        {
+          "name": "Lisa Oduor-Noah",
+          "url": "https://open.spotify.com/artist/2lzhfTv334wDq7W7tFyJHa"
+        }
+      ],
+      "duration_ms": 254726,
+      "name": "For Keeps - A COLORS SHOW",
+      "url": "https://open.spotify.com/track/0sdE23tPOZsVF6QLMCNIZl"
+    },
+    {
+      "added_at": "2023-10-20 00:01:00",
+      "album": {
         "name": "Matter of Time",
         "url": "https://open.spotify.com/album/0sVpDSPL1inRRowIw7YI6g"
       },
@@ -1495,42 +1527,6 @@
       "duration_ms": 190144,
       "name": "Sweat",
       "url": "https://open.spotify.com/track/7FIHui4Mu8rczCTtlQfc8G"
-    },
-    {
-      "added_at": "2023-10-20 00:01:00",
-      "album": {
-        "name": "Fine Wine (ft. Amaarae)",
-        "url": "https://open.spotify.com/album/6BIs3FxdoJXjJFVAbPWR61"
-      },
-      "artists": [
-        {
-          "name": "Kelechief",
-          "url": "https://open.spotify.com/artist/5RYLLsBCVrGJtU2RrlXrOR"
-        },
-        {
-          "name": "Amaarae",
-          "url": "https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS"
-        }
-      ],
-      "duration_ms": 186666,
-      "name": "Fine Wine (ft. Amaarae)",
-      "url": "https://open.spotify.com/track/3WfgYlFwZMt0Gszdj6TsQo"
-    },
-    {
-      "added_at": "2023-10-20 00:01:00",
-      "album": {
-        "name": "Pretty Mind",
-        "url": "https://open.spotify.com/album/5X2nm4gNZnJW4BO58wY7Zs"
-      },
-      "artists": [
-        {
-          "name": "T'neeya",
-          "url": "https://open.spotify.com/artist/39r1XfRA5kvyYjPYKzqBGL"
-        }
-      ],
-      "duration_ms": 201846,
-      "name": "Pretty Mind",
-      "url": "https://open.spotify.com/track/7EsEX8tntGi25knwAAx5jA"
     }
   ],
   "unique_name": "Cocoa Butter ",

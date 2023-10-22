@@ -4,7 +4,7 @@
 
 > Pushing the envelope; musicians at the forefront of modular synthesis.
 
-145 songs - 12 hr 10 min
+146 songs - 12 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,6 +38,7 @@
 | [Circle 18](https://open.spotify.com/track/5Bz0j8O0yJ5G8vEqYV7S5L) | [Foam and Sand](https://open.spotify.com/artist/1auVJGxP1B7a0GYbD6G6dd), [Robot Koch](https://open.spotify.com/artist/47V6nyjOrUR98qv6gkYssI) | [Full Circle](https://open.spotify.com/album/6gk3iwAWUaGJXZtLqbjpQI) | 2:48 | 2021-12-24 |  |
 | [Circle 19](https://open.spotify.com/track/6WUcR7PNnNr0UKDfgHEMXh) | [Foam and Sand](https://open.spotify.com/artist/1auVJGxP1B7a0GYbD6G6dd), [Robot Koch](https://open.spotify.com/artist/47V6nyjOrUR98qv6gkYssI) | [Circle 19](https://open.spotify.com/album/2mceo8MCoRI3FDZcUFwsNP) | 3:00 | 2021-12-24 | 2022-07-29 |
 | [Circle 9](https://open.spotify.com/track/65F9ObHx7HpWgxRawYeHeG) | [Foam and Sand](https://open.spotify.com/artist/1auVJGxP1B7a0GYbD6G6dd), [Robot Koch](https://open.spotify.com/artist/47V6nyjOrUR98qv6gkYssI) | [Circle 9](https://open.spotify.com/album/3EDnbBXhJk7l4gaNJJMb14) | 2:38 | 2021-12-24 | 2022-07-29 |
+| [Cloudwalker](https://open.spotify.com/track/2gLhikHEeRFCjvOM5Li9NR) | [PalKid](https://open.spotify.com/artist/0q9Ts8UgxT6USu2ElZgsqW) | [Generative Ambient Vol 1: Modular Synth Instrumentals](https://open.spotify.com/album/4ggW8kXcgYFxKOtiApiqry) | 2:19 | 2023-10-02 |  |
 | [Come Back To Bali](https://open.spotify.com/track/5bMRA7SYWh3tpeij7yH8zi) | [Idee Du Femelle](https://open.spotify.com/artist/7456KsYCY7hMaTuLvtZPtm) | [Sequences](https://open.spotify.com/album/0BhgTe2K6uO37VjJAtjD7B) | 7:37 | 2021-12-24 |  |
 | [Contemplation](https://open.spotify.com/track/3lLi5lAXRN7qQeTi7WNHRm) | [Hélène Vogelsinger](https://open.spotify.com/artist/7x4r9H8a1f60caFnTB4xmA) | [Contemplation](https://open.spotify.com/album/0dOKce3eWiHzB7ixpEEwNF) | 5:51 | 2021-12-24 | 2022-11-20 |
 | [Contemplation](https://open.spotify.com/track/7u0wxI7hL1kBcy5U9w7eQt) | [Hélène Vogelsinger](https://open.spotify.com/artist/7x4r9H8a1f60caFnTB4xmA) | [Contemplation](https://open.spotify.com/album/6F1ZQwSBrF6trhQyt4XTCc) | 5:51 | 2022-10-04 | 2023-04-02 |
@@ -140,7 +141,7 @@
 | [The Station Is Alive Again](https://open.spotify.com/track/0ZarJjfxdlt6ppX7ZAT0Za) | [Hermbot](https://open.spotify.com/artist/4uLnFbwbNSbUZxy5lrZ9pt) | [Moonbase Alpha](https://open.spotify.com/album/4gscm6WoyI96BUCKeWORvO) | 2:25 | 2021-12-24 |  |
 | [Through Circle and Shadow](https://open.spotify.com/track/2OBRaX5PhBAlgo6TvQMVqX) | [Robert Scott Thompson](https://open.spotify.com/artist/3cLV4eGuwG8hXQ8JDS6ZKd) | [Through Circle and Shadow](https://open.spotify.com/album/2pQYZP433rFGCGSA6SWOpF) | 7:35 | 2021-12-24 | 2022-08-31 |
 | [Tide Pools](https://open.spotify.com/track/1xc9Cc2F9A2kfLnjmrBsIw) | [Suzanne Ciani](https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr) | [Tide Pools](https://open.spotify.com/album/3xT2c2VcLlawCPbdBMJOxH) | 4:28 | 2021-12-24 |  |
-| [Tides I](https://open.spotify.com/track/7E7NGJaerM9PyGI7RLrDvV) | [Kaitlyn Aurelia Smith](https://open.spotify.com/artist/6P86FLVAK4sxu8OhyQJBvH) | [Tides: Music for Meditation and Yoga](https://open.spotify.com/album/3RV45YANay6vYeX0BKbGnh) | 5:08 | 2021-12-24 |  |
+| [Tides I](https://open.spotify.com/track/7E7NGJaerM9PyGI7RLrDvV) | [Kaitlyn Aurelia Smith](https://open.spotify.com/artist/6P86FLVAK4sxu8OhyQJBvH) | [Tides: Music for Meditation and Yoga](https://open.spotify.com/album/3RV45YANay6vYeX0BKbGnh) | 5:08 | 2021-12-24 | 2023-10-22 |
 | [Together in Static](https://open.spotify.com/track/7tawWbs1dYKWlDyikjxEvL) | [Daniel Avery](https://open.spotify.com/artist/1EULJuDFWpZ9xg4YwtUGGt) | [Together in Static](https://open.spotify.com/album/68LCMt9avKDMD4frbEmkKf) | 2:35 | 2022-07-01 |  |
 | [Together In Static](https://open.spotify.com/track/7xDIbH1rKZQKp0Wr6l4NVd) | [Daniel Avery](https://open.spotify.com/artist/1EULJuDFWpZ9xg4YwtUGGt) | [Together In Static](https://open.spotify.com/album/2UEzaEym36kNtiNDi7b1mR) | 2:35 | 2021-12-24 | 2022-07-29 |
 | [VERDE](https://open.spotify.com/track/6CiUHgVinrraPteXItc43J) | [Alessandro Cortini](https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg) | [VERDE](https://open.spotify.com/album/2hGrORL1V3cmxoPZLx7wyw) | 5:02 | 2021-12-24 | 2022-03-17 |

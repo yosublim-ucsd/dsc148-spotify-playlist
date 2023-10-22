@@ -1,12 +1,12 @@
 {
   "description": "This is the Latin soundtrack of the 70s! Cover:  Jos\u00e9 Jos\u00e9",
-  "num_followers": 46345,
+  "num_followers": 46382,
   "original_name": "70s Latino",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0N2NiNjU1MDM4YmVjN2M1NmI1ZDQyN2FhOGRiYWU2MWY4ZGM3NWQ0",
+  "snapshot_id": "MCxmNTRlODdkN2JiMzQxMzIwZGNlOGYxZDkzMGE5Zjg4ZmRhODg3Nzdl",
   "tracks": [
     {
       "added_at": "2023-02-17 20:59:31",
@@ -791,18 +791,22 @@
     {
       "added_at": "2023-02-17 20:59:31",
       "album": {
-        "name": "Serie Platino",
-        "url": "https://open.spotify.com/album/5ghThlJjN94mCltLuCk0dQ"
+        "name": "Aqui Esta el Reencuentro",
+        "url": "https://open.spotify.com/album/2Vpk4g41LQN5eD4A7G48ld"
       },
       "artists": [
         {
-          "name": "Jos\u00e9 Feliciano",
-          "url": "https://open.spotify.com/artist/7K78lVZ8XzkjfRSI7570FF"
+          "name": "El Gran Combo De Puerto Rico",
+          "url": "https://open.spotify.com/artist/6nnspeopmJAG07xOxHmqTu"
+        },
+        {
+          "name": "Andy Monta\u00f1ez",
+          "url": "https://open.spotify.com/artist/6RMWFexOHVj5ctezneQH5v"
         }
       ],
-      "duration_ms": 209826,
-      "name": "Qu\u00e9 Ser\u00e1",
-      "url": "https://open.spotify.com/track/6idfK1mtEHiow7mHGnqhAd"
+      "duration_ms": 290456,
+      "name": "Vagabundo",
+      "url": "https://open.spotify.com/track/3drdfMEzD3EoLCdvAB4bhr"
     },
     {
       "added_at": "2023-02-17 20:59:31",
@@ -839,22 +843,18 @@
     {
       "added_at": "2023-02-17 20:59:31",
       "album": {
-        "name": "Aqui Esta el Reencuentro",
-        "url": "https://open.spotify.com/album/2Vpk4g41LQN5eD4A7G48ld"
+        "name": "Serie Platino",
+        "url": "https://open.spotify.com/album/5ghThlJjN94mCltLuCk0dQ"
       },
       "artists": [
         {
-          "name": "El Gran Combo De Puerto Rico",
-          "url": "https://open.spotify.com/artist/6nnspeopmJAG07xOxHmqTu"
-        },
-        {
-          "name": "Andy Monta\u00f1ez",
-          "url": "https://open.spotify.com/artist/6RMWFexOHVj5ctezneQH5v"
+          "name": "Jos\u00e9 Feliciano",
+          "url": "https://open.spotify.com/artist/7K78lVZ8XzkjfRSI7570FF"
         }
       ],
-      "duration_ms": 290456,
-      "name": "Vagabundo",
-      "url": "https://open.spotify.com/track/3drdfMEzD3EoLCdvAB4bhr"
+      "duration_ms": 209826,
+      "name": "Qu\u00e9 Ser\u00e1",
+      "url": "https://open.spotify.com/track/6idfK1mtEHiow7mHGnqhAd"
     },
     {
       "added_at": "2023-02-17 20:59:31",

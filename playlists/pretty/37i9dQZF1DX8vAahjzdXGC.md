@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vAahjzdXGC.md) - [plain]
 
 > Rilisan baru pekan ini dari dalam negeri dan mancanegara yang diperbarui setiap Jumat\. Cover: The Kid Laroi, Jung Kook, Central Cee
 
-[Spotify](https://open.spotify.com/user/spotify) - 168,059 likes - 108 songs - 6 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 168,115 likes - 108 songs - 6 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,7 +34,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vAahjzdXGC.md) - [plain]
 | 24 | [Bodoh](https://open.spotify.com/track/3sC5zNoeqCirdTFtuvpJ0D) | [Anggis Devaki](https://open.spotify.com/artist/7lXTU6VtJQWfiN2vuZyzqf) | [Bodoh](https://open.spotify.com/album/0W6CtBfGyNGW7fwiUwL81Z) | 4:08 |
 | 25 | [Rekah Kemayu](https://open.spotify.com/track/28Olc9wKMhEuTSTivLr5Jz) | [Rebecca Reijman](https://open.spotify.com/artist/00YCDATV4WgHubyf5nyniL) | [Rekah Kemayu](https://open.spotify.com/album/3anJ25drKnrwIjfuiG3kjg) | 3:22 |
 | 26 | [Nirwana](https://open.spotify.com/track/20LfDnXnQRhSS5pMndgAhs) | [Adikara](https://open.spotify.com/artist/4g69iZz2nk9El5Zf3ttiBN) | [Nirwana](https://open.spotify.com/album/1llIHceabDiod8engkABuL) | 3:35 |
-| 27 | [Berlari \- From "Dua Wajah Arjuna"](https://open.spotify.com/track/3yMNcIb9O0i35qmN22nWmz) | [joy imanuel](https://open.spotify.com/artist/7uyOCBfUtyV2IHEKZYYxMz) | [Berlari \(From "Dua Wajah Arjuna"\)](https://open.spotify.com/album/6a8ix6Zcqd7ilHgl6GMhV5) | 3:20 |
+| 27 | [Berlari \- From "Dua Wajah Arjuna"](https://open.spotify.com/track/3yMNcIb9O0i35qmN22nWmz) | [Joy Imanuel](https://open.spotify.com/artist/5f5V3YIwYfx5DB0GfP45Tu) | [Berlari \(From "Dua Wajah Arjuna"\)](https://open.spotify.com/album/6a8ix6Zcqd7ilHgl6GMhV5) | 3:20 |
 | 28 | [Think Of Us](https://open.spotify.com/track/4jpNmNXMzO3aVgJhy8sdxL) | [The Chainsmokers](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp), [GRACEY](https://open.spotify.com/artist/7xBGi7Eign0fX7jGQj5KlJ) | [Summertime Friends](https://open.spotify.com/album/06NJ4sxQJg1BiSGH9WkzRE) | 2:50 |
 | 29 | [Dreaming](https://open.spotify.com/track/4NUmZ5svM1Bbmaz5udqUeJ) | [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [P!nk](https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR), [Sting](https://open.spotify.com/artist/0Ty63ceoRnnJKVEYP0VQpk) | [Dreaming](https://open.spotify.com/album/7msKLkViyWdF6X3QdlC6wK) | 2:50 |
 | 30 | [Lethal Woman](https://open.spotify.com/track/4GnjXzJfmPcVEt0S7zIS9L) | [Dove Cameron](https://open.spotify.com/artist/2W8yFh0Ga6Yf3jiayVxwkE) | [Lethal Woman](https://open.spotify.com/album/25JZaVPcasGATDbLqizABZ) | 2:06 |
@@ -117,4 +117,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vAahjzdXGC.md) - [plain]
 | 107 | [am i in love?](https://open.spotify.com/track/4rrlU5omVhZN4RVKg83g8j) | [blackvelvetz](https://open.spotify.com/artist/3LM41UKgiR9khIkg8FS1k3) | [am i in love?](https://open.spotify.com/album/16Y4UUjzli47FkbPqYieXx) | 3:25 |
 | 108 | [Preacher](https://open.spotify.com/track/0dWhhgoBUldGUfSQMaqHdS) | [pariss](https://open.spotify.com/artist/5c1xmCiZ1QqV8xronuiPQC) | [Preacher](https://open.spotify.com/album/2KumeQV0vsNOOsmGXsuL3k) | 3:59 |
 
-Snapshot ID: `MCw4MjhiNGU2Mjc3NjBlMWNmN2VhYWRlYzg1NmQ2ZGNmMmIzNzc2OTg2`
+Snapshot ID: `MCxkNTdhNmFmN2RlZDBlMzcwNWFjN2YwMTEwMTdhN2E3MmM3ZTM1N2M4`

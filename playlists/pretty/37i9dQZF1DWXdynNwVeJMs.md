@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXdynNwVeJMs.md) - [plain]
 
 > Listen to the finest Jazz made in Belgium\. Cover: Azmari
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,920 likes - 77 songs - 6 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,950 likes - 77 songs - 6 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Abyssal Wandering](https://open.spotify.com/track/4NMNkomvSRGBmUc2ifC7kN) | [Azmari](https://open.spotify.com/artist/2xKLLFEkYJvGtTihlsBLw1) | [Maelström](https://open.spotify.com/album/2tg20LGxMn7y2GW651dFDJ) | 6:42 |
 | 2 | [Amulet](https://open.spotify.com/track/6MksNP1yBT38UMVBt1Daqk) | [KAU](https://open.spotify.com/artist/6qj3YQkOT39KWw0n1f7WbH) | [The Cycle Repeats](https://open.spotify.com/album/2GtnEumRpH310S1lKgVxTe) | 4:01 |
 | 3 | [Reminiscence \- Marc Mac Remix](https://open.spotify.com/track/7FX78izqEw284MLn5a6aNr) | [Lucid Lucia](https://open.spotify.com/artist/2kq88GbQw1ieU5VvWVZFYI), [Marc Mac](https://open.spotify.com/artist/2iEvHAPa3A9WCngwRFhOu3) | [Reminiscence \(Marc Mac Remix\)](https://open.spotify.com/album/0zPPIk1UeEAXc40fbhTjkd) | 5:15 |
-| 4 | [Sheep Party](https://open.spotify.com/track/6xzI6RxSjjDzswPkUYH98d) | [Azmari](https://open.spotify.com/artist/2xKLLFEkYJvGtTihlsBLw1) | [Khamsin](https://open.spotify.com/album/23MEycC3B7Gs3IHfsNoh8L) | 5:28 |
+| 4 | [Sheep Party](https://open.spotify.com/track/0BqMFt0zoyY1vqAnhZOdVC) | [Azmari](https://open.spotify.com/artist/2xKLLFEkYJvGtTihlsBLw1) | [Maelström](https://open.spotify.com/album/2tg20LGxMn7y2GW651dFDJ) | 5:28 |
 | 5 | [WGHWBH](https://open.spotify.com/track/2Gk2ojObQ0KJev9q4xANXm) | [HONEY](https://open.spotify.com/artist/4A8G43ljlPyTmgBYOzi6zc) | [WGHWBH](https://open.spotify.com/album/3IXktD0oxECWhvw7yBW8LU) | 4:45 |
 | 6 | [Rouf\-rouf](https://open.spotify.com/track/17QU94mEoN2moywNnBohht) | [ECHT!](https://open.spotify.com/artist/5QVpBddRLx04sLx4pwsiei) | [Sink\-Along](https://open.spotify.com/album/79jbHO5dq9dkn0TvqbHBdT) | 3:28 |
 | 7 | [Pieces of Peace II: Silence & Joy](https://open.spotify.com/track/3b6844SWNXVD5HlkKSpo9g) | [Kris Defoort](https://open.spotify.com/artist/0fWYodXapbJiFoMDRArdrQ), [Veronika Harcsa](https://open.spotify.com/artist/5nN4R7oxXwUsVpHfqUryfM) | [Silence & Joy](https://open.spotify.com/album/6ghb9Dm00ce0uHGkDsKF4F) | 8:20 |
@@ -86,4 +86,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXdynNwVeJMs.md) - [plain]
 | 76 | [Cascade\(s\)](https://open.spotify.com/track/136X5PnHEO3jUiAm3bU6kF) | [Nordmann](https://open.spotify.com/artist/0Uox3PUw47qEqroDggrDRE) | [Cascade\(s\)](https://open.spotify.com/album/5QNydaZL1yVLAqWFN9fA8H) | 4:16 |
 | 77 | [Birdman](https://open.spotify.com/track/06CZmASsue66Gkp269Rqld) | [Hachoo](https://open.spotify.com/artist/63YSIh9PBCZZUzZWAJoidv) | [On a Thin Rope with a Shaky Smile](https://open.spotify.com/album/11fDYTospHQX82R2IKQFcj) | 5:05 |
 
-Snapshot ID: `MCxhYWFjZDcyYjZkODNkMTUwNGY5MTQ1ZDEwM2U1YjJlMmY1MDcwYjQw`
+Snapshot ID: `MCw2ZjA2ZjJiYzVlYjJiMmY3Yjc5NWM4NDM2N2I3YWIxNmI4ZWY1Y2Jl`

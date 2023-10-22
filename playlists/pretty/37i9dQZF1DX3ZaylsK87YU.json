@@ -1,12 +1,12 @@
 {
   "description": "Discover this set of songs that define modern hymns for and beyond the church.  Cover artist: Phil Wickham",
-  "num_followers": 69795,
+  "num_followers": 69898,
   "original_name": "Modhymns",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlYTZmY2RiNmFjYWZlOGRiZjg2YzVmODc0M2Q5ZTQ0Yjg0YWZhMzNl",
+  "snapshot_id": "MCw4NGUyYjk4ZDFhZWQ0ODVhN2VmNDU2ZTQwOTZkYmMzNWExZjNhYTA4",
   "tracks": [
     {
       "added_at": "2023-02-18 04:59:55",
@@ -783,22 +783,6 @@
     {
       "added_at": "2023-02-18 04:59:55",
       "album": {
-        "name": "Risen",
-        "url": "https://open.spotify.com/album/5g3hGU7hr02kjuEUUiLQLz"
-      },
-      "artists": [
-        {
-          "name": "Sovereign Grace Music",
-          "url": "https://open.spotify.com/artist/6MYKRhEIKscR8qdGlvpk9y"
-        }
-      ],
-      "duration_ms": 323133,
-      "name": "Behold Our God",
-      "url": "https://open.spotify.com/track/5wtsUVV88h9jhtF4mOgxNN"
-    },
-    {
-      "added_at": "2023-02-18 04:59:55",
-      "album": {
         "name": "Campfire II: Simplicity",
         "url": "https://open.spotify.com/album/6M534LEjzYqHmV0afXaHZm"
       },
@@ -811,6 +795,22 @@
       "duration_ms": 283066,
       "name": "Oceans (Where Feet May FaiI)",
       "url": "https://open.spotify.com/track/18q8W11QNDEfhYIxwypTQK"
+    },
+    {
+      "added_at": "2023-02-18 04:59:55",
+      "album": {
+        "name": "Risen",
+        "url": "https://open.spotify.com/album/5g3hGU7hr02kjuEUUiLQLz"
+      },
+      "artists": [
+        {
+          "name": "Sovereign Grace Music",
+          "url": "https://open.spotify.com/artist/6MYKRhEIKscR8qdGlvpk9y"
+        }
+      ],
+      "duration_ms": 323133,
+      "name": "Behold Our God",
+      "url": "https://open.spotify.com/track/5wtsUVV88h9jhtF4mOgxNN"
     },
     {
       "added_at": "2023-02-18 04:59:55",
@@ -915,26 +915,6 @@
     {
       "added_at": "2023-02-18 04:59:55",
       "album": {
-        "name": "30: Three Decades of Songs for the Church",
-        "url": "https://open.spotify.com/album/6GmqHkUvT9NWRxD17vBFJm"
-      },
-      "artists": [
-        {
-          "name": "Sovereign Grace Music",
-          "url": "https://open.spotify.com/artist/6MYKRhEIKscR8qdGlvpk9y"
-        },
-        {
-          "name": "Brook Hills Music",
-          "url": "https://open.spotify.com/artist/4CaYbhVqFR3fTbGHd3k4Zr"
-        }
-      ],
-      "duration_ms": 292600,
-      "name": "Jesus, Thank You",
-      "url": "https://open.spotify.com/track/59pRxzutrxwmP6CNL2eHbU"
-    },
-    {
-      "added_at": "2023-02-18 04:59:55",
-      "album": {
         "name": "Hymns, Vol. 1",
         "url": "https://open.spotify.com/album/2LE9j1hE1bGMiRK4KUdiEF"
       },
@@ -967,6 +947,26 @@
       "duration_ms": 228330,
       "name": "Jesus Paid It All",
       "url": "https://open.spotify.com/track/1vxLrzkZv3VICnuuJoVDBH"
+    },
+    {
+      "added_at": "2023-02-18 04:59:55",
+      "album": {
+        "name": "30: Three Decades of Songs for the Church",
+        "url": "https://open.spotify.com/album/6GmqHkUvT9NWRxD17vBFJm"
+      },
+      "artists": [
+        {
+          "name": "Sovereign Grace Music",
+          "url": "https://open.spotify.com/artist/6MYKRhEIKscR8qdGlvpk9y"
+        },
+        {
+          "name": "Brook Hills Music",
+          "url": "https://open.spotify.com/artist/4CaYbhVqFR3fTbGHd3k4Zr"
+        }
+      ],
+      "duration_ms": 292600,
+      "name": "Jesus, Thank You",
+      "url": "https://open.spotify.com/track/59pRxzutrxwmP6CNL2eHbU"
     },
     {
       "added_at": "2023-02-18 04:59:55",
@@ -1087,38 +1087,6 @@
     {
       "added_at": "2023-02-18 04:59:55",
       "album": {
-        "name": "In Christ Alone",
-        "url": "https://open.spotify.com/album/6ZVTgCnYuK6Y5TFO4lna5V"
-      },
-      "artists": [
-        {
-          "name": "Keith & Kristyn Getty",
-          "url": "https://open.spotify.com/artist/0I4Bk2s2BUJyykCwtxx8Xx"
-        }
-      ],
-      "duration_ms": 241013,
-      "name": "Speak O Lord",
-      "url": "https://open.spotify.com/track/5S3KGLRJlrwZq0xfT3VLdV"
-    },
-    {
-      "added_at": "2023-02-18 04:59:55",
-      "album": {
-        "name": "There Is a Cloud",
-        "url": "https://open.spotify.com/album/5sbjJuC7SFAkTUCiQ8YbRB"
-      },
-      "artists": [
-        {
-          "name": "Elevation Worship",
-          "url": "https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix"
-        }
-      ],
-      "duration_ms": 273293,
-      "name": "Do it Again (Acoustic)",
-      "url": "https://open.spotify.com/track/562a45H0hU2BkFcT0KDbse"
-    },
-    {
-      "added_at": "2023-02-18 04:59:55",
-      "album": {
         "name": "The Worship Initiative, Vol. 6",
         "url": "https://open.spotify.com/album/5EXvIcWFtIjQOIe4aWd6Vw"
       },
@@ -1139,6 +1107,22 @@
     {
       "added_at": "2023-02-18 04:59:55",
       "album": {
+        "name": "In Christ Alone",
+        "url": "https://open.spotify.com/album/6ZVTgCnYuK6Y5TFO4lna5V"
+      },
+      "artists": [
+        {
+          "name": "Keith & Kristyn Getty",
+          "url": "https://open.spotify.com/artist/0I4Bk2s2BUJyykCwtxx8Xx"
+        }
+      ],
+      "duration_ms": 241013,
+      "name": "Speak O Lord",
+      "url": "https://open.spotify.com/track/5S3KGLRJlrwZq0xfT3VLdV"
+    },
+    {
+      "added_at": "2023-02-18 04:59:55",
+      "album": {
         "name": "Peace Like A River: The Hymns Project",
         "url": "https://open.spotify.com/album/2y1UXNsN8wA3AhXGeIcgpE"
       },
@@ -1151,6 +1135,22 @@
       "duration_ms": 281866,
       "name": "Great Is Thy Faithfulness",
       "url": "https://open.spotify.com/track/3JfK0CVrKXDwXHYX7lZ6b8"
+    },
+    {
+      "added_at": "2023-02-18 04:59:55",
+      "album": {
+        "name": "There Is a Cloud",
+        "url": "https://open.spotify.com/album/5sbjJuC7SFAkTUCiQ8YbRB"
+      },
+      "artists": [
+        {
+          "name": "Elevation Worship",
+          "url": "https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix"
+        }
+      ],
+      "duration_ms": 273293,
+      "name": "Do it Again (Acoustic)",
+      "url": "https://open.spotify.com/track/562a45H0hU2BkFcT0KDbse"
     },
     {
       "added_at": "2023-02-18 04:59:55",
@@ -1595,6 +1595,22 @@
     {
       "added_at": "2023-02-18 04:59:55",
       "album": {
+        "name": "Fire and Stone",
+        "url": "https://open.spotify.com/album/5bbM7zS6XnUD0bGWve3QpT"
+      },
+      "artists": [
+        {
+          "name": "The Gray Havens",
+          "url": "https://open.spotify.com/artist/4gzyIFii6fWdCiLsP0bocC"
+        }
+      ],
+      "duration_ms": 264480,
+      "name": "Far Kingdom",
+      "url": "https://open.spotify.com/track/0FqK5zRZm46125vbLR7K6v"
+    },
+    {
+      "added_at": "2023-02-18 04:59:55",
+      "album": {
         "name": "The Worship Initiative, Vol. 2",
         "url": "https://open.spotify.com/album/4CjbL4RfKRS81ixWDcZc97"
       },
@@ -1611,22 +1627,6 @@
       "duration_ms": 299787,
       "name": "Open the Eyes of My Heart",
       "url": "https://open.spotify.com/track/2THCQcUx495TezaDX57Syx"
-    },
-    {
-      "added_at": "2023-02-18 04:59:55",
-      "album": {
-        "name": "Fire and Stone",
-        "url": "https://open.spotify.com/album/5bbM7zS6XnUD0bGWve3QpT"
-      },
-      "artists": [
-        {
-          "name": "The Gray Havens",
-          "url": "https://open.spotify.com/artist/4gzyIFii6fWdCiLsP0bocC"
-        }
-      ],
-      "duration_ms": 264480,
-      "name": "Far Kingdom",
-      "url": "https://open.spotify.com/track/0FqK5zRZm46125vbLR7K6v"
     },
     {
       "added_at": "2023-02-18 04:59:55",

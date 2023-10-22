@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSLpR93nYbUo.md) - [plain]
 
 > Ouça as novidades da cena eletrônica\. Foto: Beltran
 
-[Spotify](https://open.spotify.com/user/spotify) - 62,548 likes - 73 songs - 4 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 62,564 likes - 73 songs - 4 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -82,4 +82,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSLpR93nYbUo.md) - [plain]
 | 72 | [Siento Siento](https://open.spotify.com/track/6gBzC3Aldrj78W0dLWgqC3) | [Almanac](https://open.spotify.com/artist/2EJxcRlcIa5W1u2v42PvTv) | [Siento Siento](https://open.spotify.com/album/1pGfEaQriYYtZhvP1GBc8p) | 2:57 |
 | 73 | [Believe Me](https://open.spotify.com/track/6Z3fxMhJqzXHvD6aPqevWQ) | [BRN](https://open.spotify.com/artist/3yujwOo5L5DZDOcGj8K9fj), [Sofia Gayoso](https://open.spotify.com/artist/1z52rWwye0jbrcEsSXKGJG) | [Believe Me](https://open.spotify.com/album/6QgMlohOjyqxqnM8yoX3dV) | 3:13 |
 
-Snapshot ID: `MCwwODgwYjIwYzM2OTU1NzYxYzM0NDg2NmQ5ZGI4YTFhMTY1ZWNmMTYx`
+Snapshot ID: `MCw5NTRmMzlkNzNmOTdjY2I4NTc2NzMyOWI2NGI0MzhiZDJkMDY3OTg0`

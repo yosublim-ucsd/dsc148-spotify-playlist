@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0RJRF55W5lt.md) - [plain]
 
 > Classic anthems from a classic era\. Cover: Wookie
 
-[Spotify](https://open.spotify.com/user/spotify) - 504,602 likes - 75 songs - 6 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 504,769 likes - 75 songs - 6 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0RJRF55W5lt.md) - [plain]
 | 74 | [Kung\-Fu](https://open.spotify.com/track/5y7mEkaEL1fivzcwNhYtrU) | [187 Lockdown](https://open.spotify.com/artist/1tlAuGE8fWLJOWyqdBrR2p) | [187](https://open.spotify.com/album/7v4aQVzT2vh3S4kinfpnV4) | 6:31 |
 | 75 | [Masquerade \- MJ Cole Vocal](https://open.spotify.com/track/6Y0rukXFNvg7b0EqlxEpSZ) | [Gerideau](https://open.spotify.com/artist/3R2svMuMZlY9RBETwlkuEJ), [MJ Cole](https://open.spotify.com/artist/49GY4uPAwdlk5lSGtfKWYl) | [Masquerade](https://open.spotify.com/album/69AdLMny9By0erdS3ZJBbI) | 6:29 |
 
-Snapshot ID: `MCwyOGYxNTMxYjdjZjAxZjkxZTVmYWNmZTg0MmRmMDIyNzA4ODRlMzFm`
+Snapshot ID: `MCw4MDY4MjJkY2JiMTkzNDdkNjRjZTBhNzcyZGYyNWQ5MDk4ODMyY2Uy`

@@ -1,12 +1,12 @@
 {
   "description": "\u00c9xitos rom\u00e1nticos, de hoy y de siempre. Foto: Laura Pausini",
-  "num_followers": 2025214,
+  "num_followers": 2025405,
   "original_name": "Hits Rom\u00e1nticos",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzMjViOTU0OWFjYTMyODZkZDQ1M2YzMjRjMzI2MjI3NThlNzkxMDU5",
+  "snapshot_id": "MCw1ODkzYmVkZmNjYzE2ODgzYTQ4YTI5MmM3NDgxZTQwN2E0MjZhM2Vj",
   "tracks": [
     {
       "added_at": "2023-10-12 19:56:10",
@@ -719,22 +719,6 @@
     {
       "added_at": "2023-10-12 19:56:10",
       "album": {
-        "name": "Guerra (+ Sessions Recorded at Abbey Road)",
-        "url": "https://open.spotify.com/album/0sGgHg4QRIBACnetu6z45Z"
-      },
-      "artists": [
-        {
-          "name": "Carlos Rivera",
-          "url": "https://open.spotify.com/artist/39yVoqm6sYFvvqF1RciUVf"
-        }
-      ],
-      "duration_ms": 213493,
-      "name": "Te Esperaba",
-      "url": "https://open.spotify.com/track/22t10FTx8y3pC5fjLuKJ8K"
-    },
-    {
-      "added_at": "2023-10-12 19:56:10",
-      "album": {
         "name": "Dejarte De Amar",
         "url": "https://open.spotify.com/album/0MPMiyavAbARflBlNGjIA6"
       },
@@ -747,6 +731,22 @@
       "duration_ms": 258532,
       "name": "Al\u00e9jate de M\u00ed",
       "url": "https://open.spotify.com/track/15AbuFJdFrbINydSMSqVhV"
+    },
+    {
+      "added_at": "2023-10-12 19:56:10",
+      "album": {
+        "name": "Guerra (+ Sessions Recorded at Abbey Road)",
+        "url": "https://open.spotify.com/album/0sGgHg4QRIBACnetu6z45Z"
+      },
+      "artists": [
+        {
+          "name": "Carlos Rivera",
+          "url": "https://open.spotify.com/artist/39yVoqm6sYFvvqF1RciUVf"
+        }
+      ],
+      "duration_ms": 213493,
+      "name": "Te Esperaba",
+      "url": "https://open.spotify.com/track/22t10FTx8y3pC5fjLuKJ8K"
     },
     {
       "added_at": "2023-10-12 19:56:10",
@@ -1255,22 +1255,6 @@
     {
       "added_at": "2023-10-12 19:56:10",
       "album": {
-        "name": "Historias",
-        "url": "https://open.spotify.com/album/110rZdMmIjA335CehJJkuk"
-      },
-      "artists": [
-        {
-          "name": "Ricardo Arjona",
-          "url": "https://open.spotify.com/artist/0h1zs4CTlU9D2QtgPxptUD"
-        }
-      ],
-      "duration_ms": 405120,
-      "name": "Historia de Taxi",
-      "url": "https://open.spotify.com/track/005Dlt8Xaz3DkaXiRJgdiS"
-    },
-    {
-      "added_at": "2023-10-12 19:56:10",
-      "album": {
         "name": "No Hay Imposibles",
         "url": "https://open.spotify.com/album/2Z1OKCVyqJ1lMHTU612E07"
       },
@@ -1283,6 +1267,22 @@
       "duration_ms": 263666,
       "name": "Me Enamor\u00e9 de Ti",
       "url": "https://open.spotify.com/track/1sJFu2pvYJhtEOo9oVe1TZ"
+    },
+    {
+      "added_at": "2023-10-12 19:56:10",
+      "album": {
+        "name": "Historias",
+        "url": "https://open.spotify.com/album/110rZdMmIjA335CehJJkuk"
+      },
+      "artists": [
+        {
+          "name": "Ricardo Arjona",
+          "url": "https://open.spotify.com/artist/0h1zs4CTlU9D2QtgPxptUD"
+        }
+      ],
+      "duration_ms": 405120,
+      "name": "Historia de Taxi",
+      "url": "https://open.spotify.com/track/005Dlt8Xaz3DkaXiRJgdiS"
     },
     {
       "added_at": "2023-10-12 19:56:10",
@@ -1675,22 +1675,6 @@
     {
       "added_at": "2023-10-12 19:56:10",
       "album": {
-        "name": "Al Fin Te Encontr\u00e9",
-        "url": "https://open.spotify.com/album/1JfMi4WASZMLUUgcMxHhb6"
-      },
-      "artists": [
-        {
-          "name": "R\u00edo Roma",
-          "url": "https://open.spotify.com/artist/2O3v9rCTzLhPFaGaAVgZLt"
-        }
-      ],
-      "duration_ms": 234480,
-      "name": "Me Cambiaste la Vida",
-      "url": "https://open.spotify.com/track/1OCre5vxYq2Vk1wfFsTWE1"
-    },
-    {
-      "added_at": "2023-10-12 19:56:10",
-      "album": {
         "name": "Secretos",
         "url": "https://open.spotify.com/album/1Bzdy4dRu2czCWd4bpCzUh"
       },
@@ -1719,6 +1703,22 @@
       "duration_ms": 239995,
       "name": "Si Me Ten\u00edas",
       "url": "https://open.spotify.com/track/2wBhRmkGC098tLGo2dhWo2"
+    },
+    {
+      "added_at": "2023-10-12 19:56:10",
+      "album": {
+        "name": "Al Fin Te Encontr\u00e9",
+        "url": "https://open.spotify.com/album/1JfMi4WASZMLUUgcMxHhb6"
+      },
+      "artists": [
+        {
+          "name": "R\u00edo Roma",
+          "url": "https://open.spotify.com/artist/2O3v9rCTzLhPFaGaAVgZLt"
+        }
+      ],
+      "duration_ms": 234480,
+      "name": "Me Cambiaste la Vida",
+      "url": "https://open.spotify.com/track/1OCre5vxYq2Vk1wfFsTWE1"
     },
     {
       "added_at": "2023-10-12 19:56:10",
@@ -1803,6 +1803,22 @@
     {
       "added_at": "2023-10-12 19:56:10",
       "album": {
+        "name": "21 Black Jack",
+        "url": "https://open.spotify.com/album/4jiWswx18F7x1dRMKmC9YR"
+      },
+      "artists": [
+        {
+          "name": "Mijares",
+          "url": "https://open.spotify.com/artist/3zhijRRIZX2B6G2T7vJl9p"
+        }
+      ],
+      "duration_ms": 206706,
+      "name": "Para Amarnos M\u00e1s",
+      "url": "https://open.spotify.com/track/3VDJrFMOFyYFGPtIocqkeP"
+    },
+    {
+      "added_at": "2023-10-12 19:56:10",
+      "album": {
         "name": "Alejandro Sanz 3",
         "url": "https://open.spotify.com/album/6iQUPW8yGLQdbf3JXmNA8N"
       },
@@ -1835,26 +1851,6 @@
     {
       "added_at": "2023-10-12 19:56:10",
       "album": {
-        "name": "El Dorado",
-        "url": "https://open.spotify.com/album/6bUxh58rYTL67FS8dyTKMN"
-      },
-      "artists": [
-        {
-          "name": "Prince Royce",
-          "url": "https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC"
-        },
-        {
-          "name": "Shakira",
-          "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
-        }
-      ],
-      "duration_ms": 196466,
-      "name": "Deja vu",
-      "url": "https://open.spotify.com/track/5clmffOxeckeJ2e3GMy6UZ"
-    },
-    {
-      "added_at": "2023-10-12 19:56:10",
-      "album": {
         "name": "Sin Mirar Atr\u00e1s",
         "url": "https://open.spotify.com/album/1xW38xA3oVHef1d8FdIZs6"
       },
@@ -1871,18 +1867,22 @@
     {
       "added_at": "2023-10-12 19:56:10",
       "album": {
-        "name": "21 Black Jack",
-        "url": "https://open.spotify.com/album/4jiWswx18F7x1dRMKmC9YR"
+        "name": "El Dorado",
+        "url": "https://open.spotify.com/album/6bUxh58rYTL67FS8dyTKMN"
       },
       "artists": [
         {
-          "name": "Mijares",
-          "url": "https://open.spotify.com/artist/3zhijRRIZX2B6G2T7vJl9p"
+          "name": "Prince Royce",
+          "url": "https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC"
+        },
+        {
+          "name": "Shakira",
+          "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
         }
       ],
-      "duration_ms": 206706,
-      "name": "Para Amarnos M\u00e1s",
-      "url": "https://open.spotify.com/track/3VDJrFMOFyYFGPtIocqkeP"
+      "duration_ms": 196466,
+      "name": "Deja vu",
+      "url": "https://open.spotify.com/track/5clmffOxeckeJ2e3GMy6UZ"
     },
     {
       "added_at": "2023-10-12 19:56:10",
@@ -1923,6 +1923,22 @@
     {
       "added_at": "2023-10-12 19:56:10",
       "album": {
+        "name": "El Privilegio De Amar",
+        "url": "https://open.spotify.com/album/6Gz4ADhuPTy6CeyL52Ks2f"
+      },
+      "artists": [
+        {
+          "name": "Mijares",
+          "url": "https://open.spotify.com/artist/3zhijRRIZX2B6G2T7vJl9p"
+        }
+      ],
+      "duration_ms": 236493,
+      "name": "El Privilegio De Amar",
+      "url": "https://open.spotify.com/track/3NGG1do9lT815M5REcCzzm"
+    },
+    {
+      "added_at": "2023-10-12 19:56:10",
+      "album": {
         "name": "Correcaminos",
         "url": "https://open.spotify.com/album/5URH83B2vJrrZ47uTOb3zQ"
       },
@@ -1959,38 +1975,6 @@
     {
       "added_at": "2023-10-12 19:56:10",
       "album": {
-        "name": "Amor prohibido",
-        "url": "https://open.spotify.com/album/6rV8qvncvelhF14cffRfun"
-      },
-      "artists": [
-        {
-          "name": "Daniela Romo",
-          "url": "https://open.spotify.com/artist/6gvh8pQI316iafbHiT7B3y"
-        }
-      ],
-      "duration_ms": 236453,
-      "name": "Yo no te pido la luna (Non voglio mica la luna)",
-      "url": "https://open.spotify.com/track/09uE7kHv2ESkvtInKugpGM"
-    },
-    {
-      "added_at": "2023-10-12 19:56:10",
-      "album": {
-        "name": "El Privilegio De Amar",
-        "url": "https://open.spotify.com/album/6Gz4ADhuPTy6CeyL52Ks2f"
-      },
-      "artists": [
-        {
-          "name": "Mijares",
-          "url": "https://open.spotify.com/artist/3zhijRRIZX2B6G2T7vJl9p"
-        }
-      ],
-      "duration_ms": 236493,
-      "name": "El Privilegio De Amar",
-      "url": "https://open.spotify.com/track/3NGG1do9lT815M5REcCzzm"
-    },
-    {
-      "added_at": "2023-10-12 19:56:10",
-      "album": {
         "name": "Hecho En M\u00e9xico",
         "url": "https://open.spotify.com/album/6pbAg7ucQDM2j47aCaxpMI"
       },
@@ -2003,6 +1987,22 @@
       "duration_ms": 186200,
       "name": "Te Olvid\u00e9",
       "url": "https://open.spotify.com/track/0zRc5cHuMrulujN8t1XbYE"
+    },
+    {
+      "added_at": "2023-10-12 19:56:10",
+      "album": {
+        "name": "Amor prohibido",
+        "url": "https://open.spotify.com/album/6rV8qvncvelhF14cffRfun"
+      },
+      "artists": [
+        {
+          "name": "Daniela Romo",
+          "url": "https://open.spotify.com/artist/6gvh8pQI316iafbHiT7B3y"
+        }
+      ],
+      "duration_ms": 236453,
+      "name": "Yo no te pido la luna (Non voglio mica la luna)",
+      "url": "https://open.spotify.com/track/09uE7kHv2ESkvtInKugpGM"
     },
     {
       "added_at": "2023-10-12 19:56:10",
@@ -2343,22 +2343,6 @@
     {
       "added_at": "2023-10-12 19:56:10",
       "album": {
-        "name": "El Dorado",
-        "url": "https://open.spotify.com/album/6bUxh58rYTL67FS8dyTKMN"
-      },
-      "artists": [
-        {
-          "name": "Shakira",
-          "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
-        }
-      ],
-      "duration_ms": 219640,
-      "name": "Amarillo",
-      "url": "https://open.spotify.com/track/5Qn56ssVeZJfNwDCme7Eo0"
-    },
-    {
-      "added_at": "2023-10-12 19:56:10",
-      "album": {
         "name": "Hab\u00edtame Siempre (Bonus Tracks Version)",
         "url": "https://open.spotify.com/album/5HDevGeDLIZMhZKvRZLSkI"
       },
@@ -2375,6 +2359,22 @@
       "duration_ms": 220066,
       "name": "Te Perdiste Mi Amor (feat. Prince Royce)",
       "url": "https://open.spotify.com/track/1Q8NiatGDc6YgefNwT7Jgu"
+    },
+    {
+      "added_at": "2023-10-12 19:56:10",
+      "album": {
+        "name": "El Dorado",
+        "url": "https://open.spotify.com/album/6bUxh58rYTL67FS8dyTKMN"
+      },
+      "artists": [
+        {
+          "name": "Shakira",
+          "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
+        }
+      ],
+      "duration_ms": 219640,
+      "name": "Amarillo",
+      "url": "https://open.spotify.com/track/5Qn56ssVeZJfNwDCme7Eo0"
     },
     {
       "added_at": "2023-10-12 19:56:10",
@@ -2559,6 +2559,22 @@
     {
       "added_at": "2023-10-12 19:56:10",
       "album": {
+        "name": "Franco De Vita En Primera Fila",
+        "url": "https://open.spotify.com/album/6IIvdAgLtisXjNnxZpBxOX"
+      },
+      "artists": [
+        {
+          "name": "Franco De Vita",
+          "url": "https://open.spotify.com/artist/4NEYQeEYBUjfaXgDQGvFvu"
+        }
+      ],
+      "duration_ms": 234040,
+      "name": "Un Buen Perdedor",
+      "url": "https://open.spotify.com/track/68RvCYDKtz9HR1WMR9D9VV"
+    },
+    {
+      "added_at": "2023-10-12 19:56:10",
+      "album": {
         "name": "A Medio Vivir",
         "url": "https://open.spotify.com/album/4URjPTEl3KRpkzWFTvYmiM"
       },
@@ -2587,22 +2603,6 @@
       "duration_ms": 232360,
       "name": "Perd\u00f3name",
       "url": "https://open.spotify.com/track/3gO8mvkxIcyF9N7Vd1WM2i"
-    },
-    {
-      "added_at": "2023-10-12 19:56:10",
-      "album": {
-        "name": "Franco De Vita En Primera Fila",
-        "url": "https://open.spotify.com/album/6IIvdAgLtisXjNnxZpBxOX"
-      },
-      "artists": [
-        {
-          "name": "Franco De Vita",
-          "url": "https://open.spotify.com/artist/4NEYQeEYBUjfaXgDQGvFvu"
-        }
-      ],
-      "duration_ms": 234040,
-      "name": "Un Buen Perdedor",
-      "url": "https://open.spotify.com/track/68RvCYDKtz9HR1WMR9D9VV"
     },
     {
       "added_at": "2023-10-12 19:56:10",
@@ -2887,6 +2887,22 @@
     {
       "added_at": "2023-10-12 19:56:10",
       "album": {
+        "name": "8",
+        "url": "https://open.spotify.com/album/3dnAanoquMtbaksF7pUjyI"
+      },
+      "artists": [
+        {
+          "name": "Luis Fonsi",
+          "url": "https://open.spotify.com/artist/4V8Sr092TqfHkfAA5fXXqG"
+        }
+      ],
+      "duration_ms": 274213,
+      "name": "Que Quieres De Mi",
+      "url": "https://open.spotify.com/track/4rhQ89gUsCW5ig91qtoDSE"
+    },
+    {
+      "added_at": "2023-10-12 19:56:10",
+      "album": {
         "name": "Kany Garc\u00eda",
         "url": "https://open.spotify.com/album/0xMspEBjMb20urG4Rx73vO"
       },
@@ -2907,22 +2923,6 @@
     {
       "added_at": "2023-10-12 19:56:10",
       "album": {
-        "name": "8",
-        "url": "https://open.spotify.com/album/3dnAanoquMtbaksF7pUjyI"
-      },
-      "artists": [
-        {
-          "name": "Luis Fonsi",
-          "url": "https://open.spotify.com/artist/4V8Sr092TqfHkfAA5fXXqG"
-        }
-      ],
-      "duration_ms": 274213,
-      "name": "Que Quieres De Mi",
-      "url": "https://open.spotify.com/track/4rhQ89gUsCW5ig91qtoDSE"
-    },
-    {
-      "added_at": "2023-10-12 19:56:10",
-      "album": {
         "name": "Amore Mio (Deluxe Edition)",
         "url": "https://open.spotify.com/album/1c02pV8A4VtKLRB5G1SLyV"
       },
@@ -2939,22 +2939,6 @@
     {
       "added_at": "2023-10-12 19:56:10",
       "album": {
-        "name": "Alma, Coraz\u00f3n Y Vida",
-        "url": "https://open.spotify.com/album/7AyiKOqr5X1l1qRXQlUMAP"
-      },
-      "artists": [
-        {
-          "name": "Dyango",
-          "url": "https://open.spotify.com/artist/0PbO1lSBsJPgyqdEypJJVb"
-        }
-      ],
-      "duration_ms": 206840,
-      "name": "Cuando quieras, donde quieras (Cos\u00ec era e cos\u00ec sia)",
-      "url": "https://open.spotify.com/track/3akNntAza319MgjivWphIH"
-    },
-    {
-      "added_at": "2023-10-12 19:56:10",
-      "album": {
         "name": "In\u00e9dito",
         "url": "https://open.spotify.com/album/12IL7y0wXdRgACaBfV7Ts4"
       },
@@ -2967,6 +2951,22 @@
       "duration_ms": 244520,
       "name": "C\u00f3mo Quieren Que La Olvide",
       "url": "https://open.spotify.com/track/3yzStvAWtHo48tpGDO7rSG"
+    },
+    {
+      "added_at": "2023-10-12 19:56:10",
+      "album": {
+        "name": "Alma, Coraz\u00f3n Y Vida",
+        "url": "https://open.spotify.com/album/7AyiKOqr5X1l1qRXQlUMAP"
+      },
+      "artists": [
+        {
+          "name": "Dyango",
+          "url": "https://open.spotify.com/artist/0PbO1lSBsJPgyqdEypJJVb"
+        }
+      ],
+      "duration_ms": 206840,
+      "name": "Cuando quieras, donde quieras (Cos\u00ec era e cos\u00ec sia)",
+      "url": "https://open.spotify.com/track/3akNntAza319MgjivWphIH"
     },
     {
       "added_at": "2023-10-12 19:56:10",
@@ -3055,22 +3055,6 @@
     {
       "added_at": "2023-10-12 19:56:10",
       "album": {
-        "name": "Grandes \u00c9xitos",
-        "url": "https://open.spotify.com/album/4wqRBtvdUx8rWZebL0982U"
-      },
-      "artists": [
-        {
-          "name": "Dyango",
-          "url": "https://open.spotify.com/artist/0PbO1lSBsJPgyqdEypJJVb"
-        }
-      ],
-      "duration_ms": 198000,
-      "name": "Coraz\u00f3n m\u00e1gico",
-      "url": "https://open.spotify.com/track/1bpOD9jv1ge8RiyKccjLHW"
-    },
-    {
-      "added_at": "2023-10-12 19:56:10",
-      "album": {
         "name": "Sin Mirar Atr\u00e1s",
         "url": "https://open.spotify.com/album/1xW38xA3oVHef1d8FdIZs6"
       },
@@ -3119,6 +3103,22 @@
       "duration_ms": 219960,
       "name": "Amigos No por Favor (Primera Fila) - En Vivo",
       "url": "https://open.spotify.com/track/7byP4Tul1sLESm3OsC6pO0"
+    },
+    {
+      "added_at": "2023-10-12 19:56:10",
+      "album": {
+        "name": "Grandes \u00c9xitos",
+        "url": "https://open.spotify.com/album/4wqRBtvdUx8rWZebL0982U"
+      },
+      "artists": [
+        {
+          "name": "Dyango",
+          "url": "https://open.spotify.com/artist/0PbO1lSBsJPgyqdEypJJVb"
+        }
+      ],
+      "duration_ms": 198000,
+      "name": "Coraz\u00f3n m\u00e1gico",
+      "url": "https://open.spotify.com/track/1bpOD9jv1ge8RiyKccjLHW"
     },
     {
       "added_at": "2023-10-12 19:56:10",
@@ -3191,6 +3191,22 @@
     {
       "added_at": "2023-10-12 19:56:10",
       "album": {
+        "name": "Buler\u00eda",
+        "url": "https://open.spotify.com/album/2zsm7DcaJsvZFY8DIxPveu"
+      },
+      "artists": [
+        {
+          "name": "David Bisbal",
+          "url": "https://open.spotify.com/artist/5gOJTI4TusSENizxhcG7jB"
+        }
+      ],
+      "duration_ms": 275280,
+      "name": "Esta Ausencia",
+      "url": "https://open.spotify.com/track/0phL00aOVS9nHhvd5Vodei"
+    },
+    {
+      "added_at": "2023-10-12 19:56:10",
+      "album": {
         "name": "Grandes Exitos",
         "url": "https://open.spotify.com/album/1PCiyADys8TTu8HrSFrTAl"
       },
@@ -3219,22 +3235,6 @@
       "duration_ms": 224080,
       "name": "Bella",
       "url": "https://open.spotify.com/track/6NEZnVWFbIRfLLibyIxNNW"
-    },
-    {
-      "added_at": "2023-10-12 19:56:10",
-      "album": {
-        "name": "Buler\u00eda",
-        "url": "https://open.spotify.com/album/2zsm7DcaJsvZFY8DIxPveu"
-      },
-      "artists": [
-        {
-          "name": "David Bisbal",
-          "url": "https://open.spotify.com/artist/5gOJTI4TusSENizxhcG7jB"
-        }
-      ],
-      "duration_ms": 275280,
-      "name": "Esta Ausencia",
-      "url": "https://open.spotify.com/track/0phL00aOVS9nHhvd5Vodei"
     },
     {
       "added_at": "2023-10-12 19:56:10",
@@ -3355,22 +3355,6 @@
     {
       "added_at": "2023-10-12 19:56:10",
       "album": {
-        "name": "El Pacto",
-        "url": "https://open.spotify.com/album/5Dt2lnQ9Q7sBV6AZzky5SY"
-      },
-      "artists": [
-        {
-          "name": "Antonio Jos\u00e9",
-          "url": "https://open.spotify.com/artist/1dbp04JzZ81JXlMGupCnJ8"
-        }
-      ],
-      "duration_ms": 203128,
-      "name": "C\u00f3mo Dejarte Ir",
-      "url": "https://open.spotify.com/track/3CkBFksybBFWifrXYMwI54"
-    },
-    {
-      "added_at": "2023-10-12 19:56:10",
-      "album": {
         "name": "NUEVA ERA",
         "url": "https://open.spotify.com/album/46vUx6DbaAJvrShgZYMLSU"
       },
@@ -3383,6 +3367,22 @@
       "duration_ms": 262680,
       "name": "Amiga M\u00eda",
       "url": "https://open.spotify.com/track/4cIJMoLbUOG1YEppzrfwUz"
+    },
+    {
+      "added_at": "2023-10-12 19:56:10",
+      "album": {
+        "name": "El Pacto",
+        "url": "https://open.spotify.com/album/5Dt2lnQ9Q7sBV6AZzky5SY"
+      },
+      "artists": [
+        {
+          "name": "Antonio Jos\u00e9",
+          "url": "https://open.spotify.com/artist/1dbp04JzZ81JXlMGupCnJ8"
+        }
+      ],
+      "duration_ms": 203128,
+      "name": "C\u00f3mo Dejarte Ir",
+      "url": "https://open.spotify.com/track/3CkBFksybBFWifrXYMwI54"
     },
     {
       "added_at": "2023-10-12 19:56:10",
@@ -3567,22 +3567,6 @@
     {
       "added_at": "2023-10-12 19:56:10",
       "album": {
-        "name": "30 Grandes Canciones",
-        "url": "https://open.spotify.com/album/0SHZBwCrRg88Yw6JK850gR"
-      },
-      "artists": [
-        {
-          "name": "Roberto Carlos",
-          "url": "https://open.spotify.com/artist/7fAKtXSdNInWAIf0jVUz65"
-        }
-      ],
-      "duration_ms": 231493,
-      "name": "El Gato Que Est\u00e1 Triste y Azul - Un Gato Nel Blu",
-      "url": "https://open.spotify.com/track/3SrnZHhXpgtvHerbxEDOWW"
-    },
-    {
-      "added_at": "2023-10-12 19:56:10",
-      "album": {
         "name": "Abril Sin Anestesia",
         "url": "https://open.spotify.com/album/0xSI52Ok6xO8vxFkAACXgQ"
       },
@@ -3595,6 +3579,22 @@
       "duration_ms": 235086,
       "name": "Abril Sin Anestesia",
       "url": "https://open.spotify.com/track/0jQgmYh0j0yjpqTDlCbbhX"
+    },
+    {
+      "added_at": "2023-10-12 19:56:10",
+      "album": {
+        "name": "30 Grandes Canciones",
+        "url": "https://open.spotify.com/album/0SHZBwCrRg88Yw6JK850gR"
+      },
+      "artists": [
+        {
+          "name": "Roberto Carlos",
+          "url": "https://open.spotify.com/artist/7fAKtXSdNInWAIf0jVUz65"
+        }
+      ],
+      "duration_ms": 231493,
+      "name": "El Gato Que Est\u00e1 Triste y Azul - Un Gato Nel Blu",
+      "url": "https://open.spotify.com/track/3SrnZHhXpgtvHerbxEDOWW"
     },
     {
       "added_at": "2023-10-12 19:56:10",
@@ -3679,18 +3679,18 @@
     {
       "added_at": "2023-10-12 19:56:10",
       "album": {
-        "name": "Esencial Roberto Carlos",
-        "url": "https://open.spotify.com/album/4TbDEyxlABxYoyanHe6oOR"
+        "name": "Grandes Exitos",
+        "url": "https://open.spotify.com/album/1PCiyADys8TTu8HrSFrTAl"
       },
       "artists": [
         {
-          "name": "Roberto Carlos",
-          "url": "https://open.spotify.com/artist/7fAKtXSdNInWAIf0jVUz65"
+          "name": "Mocedades",
+          "url": "https://open.spotify.com/artist/4Sm7JCttzWMwHJtb3UJ8SY"
         }
       ],
-      "duration_ms": 273160,
-      "name": "Ese Tipo Soy Yo (Esse Cara Sou Eu)",
-      "url": "https://open.spotify.com/track/1WoWBzHoXNLCWgUuYV2Ofb"
+      "duration_ms": 241173,
+      "name": "Qui\u00e9n Te Cantar\u00e1?",
+      "url": "https://open.spotify.com/track/0CUdrIZauextVse2hjLCH3"
     },
     {
       "added_at": "2023-10-12 19:56:10",
@@ -3711,22 +3711,6 @@
     {
       "added_at": "2023-10-12 19:56:10",
       "album": {
-        "name": "Grandes Exitos",
-        "url": "https://open.spotify.com/album/1PCiyADys8TTu8HrSFrTAl"
-      },
-      "artists": [
-        {
-          "name": "Mocedades",
-          "url": "https://open.spotify.com/artist/4Sm7JCttzWMwHJtb3UJ8SY"
-        }
-      ],
-      "duration_ms": 241173,
-      "name": "Qui\u00e9n Te Cantar\u00e1?",
-      "url": "https://open.spotify.com/track/0CUdrIZauextVse2hjLCH3"
-    },
-    {
-      "added_at": "2023-10-12 19:56:10",
-      "album": {
         "name": "La Historia del Puma",
         "url": "https://open.spotify.com/album/0a7n1tbZkr87slBdcFPFkY"
       },
@@ -3739,6 +3723,22 @@
       "duration_ms": 313146,
       "name": "Due\u00f1o de Nada",
       "url": "https://open.spotify.com/track/1yYrWdoONx6UyXLH0A3QMW"
+    },
+    {
+      "added_at": "2023-10-12 19:56:10",
+      "album": {
+        "name": "Esencial Roberto Carlos",
+        "url": "https://open.spotify.com/album/4TbDEyxlABxYoyanHe6oOR"
+      },
+      "artists": [
+        {
+          "name": "Roberto Carlos",
+          "url": "https://open.spotify.com/artist/7fAKtXSdNInWAIf0jVUz65"
+        }
+      ],
+      "duration_ms": 273160,
+      "name": "Ese Tipo Soy Yo (Esse Cara Sou Eu)",
+      "url": "https://open.spotify.com/track/1WoWBzHoXNLCWgUuYV2Ofb"
     },
     {
       "added_at": "2023-10-12 19:56:10",
@@ -3791,22 +3791,6 @@
     {
       "added_at": "2023-10-12 19:56:10",
       "album": {
-        "name": "Legados Bachata",
-        "url": "https://open.spotify.com/album/1U6LFXk4BPw14efwTQePr5"
-      },
-      "artists": [
-        {
-          "name": "Arthur Hanlon",
-          "url": "https://open.spotify.com/artist/2tYwhzzfvvDr29BbBFcHhB"
-        }
-      ],
-      "duration_ms": 246000,
-      "name": "Bachata Rosa",
-      "url": "https://open.spotify.com/track/3R0XsmkFDTG9ZnCn2HvXp5"
-    },
-    {
-      "added_at": "2023-10-12 19:56:10",
-      "album": {
         "name": "Algo De Mi",
         "url": "https://open.spotify.com/album/1mOv8oF3LFRJd9bk5tvjHD"
       },
@@ -3819,6 +3803,22 @@
       "duration_ms": 248733,
       "name": "Algo de M\u00ed",
       "url": "https://open.spotify.com/track/18nmE6y2b2yWSLuZUdtkei"
+    },
+    {
+      "added_at": "2023-10-12 19:56:10",
+      "album": {
+        "name": "Legados Bachata",
+        "url": "https://open.spotify.com/album/1U6LFXk4BPw14efwTQePr5"
+      },
+      "artists": [
+        {
+          "name": "Arthur Hanlon",
+          "url": "https://open.spotify.com/artist/2tYwhzzfvvDr29BbBFcHhB"
+        }
+      ],
+      "duration_ms": 246000,
+      "name": "Bachata Rosa",
+      "url": "https://open.spotify.com/track/3R0XsmkFDTG9ZnCn2HvXp5"
     },
     {
       "added_at": "2023-10-12 19:56:10",
@@ -3911,6 +3911,22 @@
     {
       "added_at": "2023-10-12 19:56:10",
       "album": {
+        "name": "Camilo Superstar",
+        "url": "https://open.spotify.com/album/1l6lAa8r9wh4s5TQbrG4RS"
+      },
+      "artists": [
+        {
+          "name": "Camilo Sesto",
+          "url": "https://open.spotify.com/artist/2Cy7KBSkqu7otJfuMTWT7Y"
+        }
+      ],
+      "duration_ms": 193706,
+      "name": "Jam\u00e1s",
+      "url": "https://open.spotify.com/track/2AL3PHnY0cdOiCvpHjvIQi"
+    },
+    {
+      "added_at": "2023-10-12 19:56:10",
+      "album": {
         "name": "La Historia del Puma",
         "url": "https://open.spotify.com/album/0a7n1tbZkr87slBdcFPFkY"
       },
@@ -3959,22 +3975,6 @@
     {
       "added_at": "2023-10-12 19:56:10",
       "album": {
-        "name": "Camilo Superstar",
-        "url": "https://open.spotify.com/album/1l6lAa8r9wh4s5TQbrG4RS"
-      },
-      "artists": [
-        {
-          "name": "Camilo Sesto",
-          "url": "https://open.spotify.com/artist/2Cy7KBSkqu7otJfuMTWT7Y"
-        }
-      ],
-      "duration_ms": 193706,
-      "name": "Jam\u00e1s",
-      "url": "https://open.spotify.com/track/2AL3PHnY0cdOiCvpHjvIQi"
-    },
-    {
-      "added_at": "2023-10-12 19:56:10",
-      "album": {
         "name": "Iconos",
         "url": "https://open.spotify.com/album/5SGUCNeCuGHbR73Iyh2F7g"
       },
@@ -4003,22 +4003,6 @@
       "duration_ms": 246840,
       "name": "Si Voy a Perderte",
       "url": "https://open.spotify.com/track/2JRANskTqp0wzBjxrJd8ek"
-    },
-    {
-      "added_at": "2023-10-12 19:56:10",
-      "album": {
-        "name": "15 Exitos De Jose Luis Rodriguez",
-        "url": "https://open.spotify.com/album/22RrvH0d9fd9HHXgOtAOwt"
-      },
-      "artists": [
-        {
-          "name": "Jos\u00e9 Luis Rodr\u00edguez",
-          "url": "https://open.spotify.com/artist/15YnmlNukYCFvwaFnoDwwV"
-        }
-      ],
-      "duration_ms": 297640,
-      "name": "Due\u00f1o De Nada",
-      "url": "https://open.spotify.com/track/7pGDUA6P7j1uaD9sr1Dgx1"
     },
     {
       "added_at": "2023-10-12 19:56:10",
@@ -4071,6 +4055,22 @@
     {
       "added_at": "2023-10-12 19:56:10",
       "album": {
+        "name": "15 Exitos De Jose Luis Rodriguez",
+        "url": "https://open.spotify.com/album/22RrvH0d9fd9HHXgOtAOwt"
+      },
+      "artists": [
+        {
+          "name": "Jos\u00e9 Luis Rodr\u00edguez",
+          "url": "https://open.spotify.com/artist/15YnmlNukYCFvwaFnoDwwV"
+        }
+      ],
+      "duration_ms": 297640,
+      "name": "Due\u00f1o De Nada",
+      "url": "https://open.spotify.com/track/7pGDUA6P7j1uaD9sr1Dgx1"
+    },
+    {
+      "added_at": "2023-10-12 19:56:10",
+      "album": {
         "name": "Canciones De Amor",
         "url": "https://open.spotify.com/album/2Dm2IPZzeLrOXJEZjGTBM8"
       },
@@ -4119,22 +4119,6 @@
     {
       "added_at": "2023-10-12 19:56:10",
       "album": {
-        "name": "15 Exitos De Jose Luis Rodriguez",
-        "url": "https://open.spotify.com/album/22RrvH0d9fd9HHXgOtAOwt"
-      },
-      "artists": [
-        {
-          "name": "Jos\u00e9 Luis Rodr\u00edguez",
-          "url": "https://open.spotify.com/artist/15YnmlNukYCFvwaFnoDwwV"
-        }
-      ],
-      "duration_ms": 320392,
-      "name": "Voy a Perder La Cabeza Por Tu Amor",
-      "url": "https://open.spotify.com/track/6vB7FXOL9ncjF4be2bdRiY"
-    },
-    {
-      "added_at": "2023-10-12 19:56:10",
-      "album": {
         "name": "Alma Caribe\u00f1a",
         "url": "https://open.spotify.com/album/5JE7TvLrx9uwR1rHLPEyo9"
       },
@@ -4147,6 +4131,22 @@
       "duration_ms": 301693,
       "name": "Por un Beso",
       "url": "https://open.spotify.com/track/796ep4WrbI6vbiqXnJgsQM"
+    },
+    {
+      "added_at": "2023-10-12 19:56:10",
+      "album": {
+        "name": "15 Exitos De Jose Luis Rodriguez",
+        "url": "https://open.spotify.com/album/22RrvH0d9fd9HHXgOtAOwt"
+      },
+      "artists": [
+        {
+          "name": "Jos\u00e9 Luis Rodr\u00edguez",
+          "url": "https://open.spotify.com/artist/15YnmlNukYCFvwaFnoDwwV"
+        }
+      ],
+      "duration_ms": 320392,
+      "name": "Voy a Perder La Cabeza Por Tu Amor",
+      "url": "https://open.spotify.com/track/6vB7FXOL9ncjF4be2bdRiY"
     },
     {
       "added_at": "2023-10-12 19:56:10",

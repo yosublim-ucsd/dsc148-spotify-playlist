@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZabLDQymgK1.md) - [plain]
 
 > Homoelectric is a legendary queer\-clubbing utopia, creating a safe space at the heart of Manchester’s LGBTQIA+ scene\. This is their sound of Pride.
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,931 likes - 50 songs - 4 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,958 likes - 50 songs - 4 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,7 +41,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZabLDQymgK1.md) - [plain]
 | 31 | [The Boy Is Mine \- Radio Edit](https://open.spotify.com/track/2rwDzx2nCWfQze7nsR2SOF) | [Brandy](https://open.spotify.com/artist/05oH07COxkXKIMt6mIPRee), [Monica](https://open.spotify.com/artist/6nzxy2wXs6tLgzEtqOkEi2) | [The Boy Is Mine: 90s R'n'B](https://open.spotify.com/album/58sOAY5xeDAodYOkIGegJM) | 4:00 |
 | 32 | [Greatest Hit](https://open.spotify.com/track/4kox25GnFPcvrZWXvbB3Ar) | [Annie](https://open.spotify.com/artist/7zt6Af78CalxaPDqORfw8L) | [Anniemal](https://open.spotify.com/album/3LN3dGIFGEqTjTDwTFFCj6) | 3:40 |
 | 33 | [Lovertits](https://open.spotify.com/track/3k95pqiCFMJAqr1NZYVbob) | [Peaches](https://open.spotify.com/artist/1gkSl4XpHIHI4I1WQbfXOE) | [The Teaches of Peaches](https://open.spotify.com/album/6gFOrIOM2TwzoRvobkpn1a) | 4:44 |
-| 34 | [Caught Out There](https://open.spotify.com/track/1ZNOEXFljuBPOf5m0SREdi) | [Kelis](https://open.spotify.com/artist/0IF46mUS8NXjgHabxk2MCM) | [The Hits](https://open.spotify.com/album/2pPNC9cSF3mhMZcT7t3iw7) | 4:09 |
+| 34 | [Caught Out There \- Single Radio Edit](https://open.spotify.com/track/3P03oJn7H7AITkUBKLwIS7) | [Kelis](https://open.spotify.com/artist/0IF46mUS8NXjgHabxk2MCM) | [Caught Out There](https://open.spotify.com/album/2g3cVTWysnhifMXYVLVuNT) | 4:11 |
 | 35 | [Heads High](https://open.spotify.com/track/1mTEDYrH2BGlVA8FuXegji) | [Mr\. Vegas](https://open.spotify.com/artist/1pmixngtBJleMrGUG5o8DE) | [Mr Vegas: The Hits](https://open.spotify.com/album/2ImQoEEg93DwKIIBtb5RLg) | 3:31 |
 | 36 | [The Wig](https://open.spotify.com/track/4ponr2KQSDtiXZs0pjrdgM) | [General Levy](https://open.spotify.com/artist/2bHgAaZ7qbGbMMXwAQm48I) | [Wickedness Increase](https://open.spotify.com/album/31AWmv5qMkTzNQra5e94Vk) | 4:05 |
 | 37 | [Battle](https://open.spotify.com/track/1Y8R1CKdai0oycCf6K0sjh) | [Wookie](https://open.spotify.com/artist/4MswQnojZK1oRaxNsACqjv), [Lain](https://open.spotify.com/artist/4hq76gdVn9hwIfTks4IG9B) | [Wookie \(Deluxe Edition\)](https://open.spotify.com/album/6GV8kkTilYLCQ8qA39yYzk) | 5:00 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZabLDQymgK1.md) - [plain]
 | 49 | [Like a Prayer \(Churchapella\)](https://open.spotify.com/track/4UX7TUsMu6QVPoBdpBEEqB) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [Like A Prayer](https://open.spotify.com/album/2qmMKmWqpPbsd6dKrZXgSV) | 6:08 |
 | 50 | [Say Hello, Wave Goodbye \- 7" Single Version](https://open.spotify.com/track/0Lx6O1tC3CPF1giLJIt5Jv) | [Soft Cell](https://open.spotify.com/artist/6aq8T2RcspxVOGgMrTzjWc) | [Non\-Stop Erotic Cabaret](https://open.spotify.com/album/3KFWViJ1wIHAdOVLFTVzjD) | 5:23 |
 
-Snapshot ID: `MCw0ZDM4NzM5MGRlN2E4MjQ0MjU3OTdmM2U0NWJjMjM4ODhkOTIwYmNk`
+Snapshot ID: `MCxiYjc0Mjg1NWQ2MTFkN2M2YzJjMWUwNWY0NmY4MGQxYTM3NWEwYTg1`

@@ -1,12 +1,12 @@
 {
   "description": "Deep House speaks to the soul. Get revived with some of the best Deep House South Africa has to offer.",
-  "num_followers": 31502,
+  "num_followers": 31596,
   "original_name": "Deep House Session",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiNmM1M2U3YTNjZWZjMGVkNjI5NjA3ZTlkZGFhYzg3YmI2ZWM1MmQ2",
+  "snapshot_id": "MCxmZTVkNTJiZWRiMGQyYzcyYmUxMDk2YThjZDY2ZTMzYzg5MjRmZWRm",
   "tracks": [
     {
       "added_at": "2023-10-05 23:00:00",
@@ -803,38 +803,6 @@
     {
       "added_at": "2023-10-05 23:00:00",
       "album": {
-        "name": "Emulate",
-        "url": "https://open.spotify.com/album/3liHkkMMd2YHC8dstMQ8js"
-      },
-      "artists": [
-        {
-          "name": "Jason Scoble",
-          "url": "https://open.spotify.com/artist/4Z0yLFzmYX8tOVel9skUdg"
-        }
-      ],
-      "duration_ms": 469614,
-      "name": "Emulate - Original Mix",
-      "url": "https://open.spotify.com/track/3cwnPmaqR2HPxnAbOiZQdk"
-    },
-    {
-      "added_at": "2023-10-05 23:00:00",
-      "album": {
-        "name": "Ivar the Boneless",
-        "url": "https://open.spotify.com/album/00vV7Vovl8G5eu9B7f896I"
-      },
-      "artists": [
-        {
-          "name": "Gigg Cosco",
-          "url": "https://open.spotify.com/artist/0DkJm7HViEwxS1zxHKY86o"
-        }
-      ],
-      "duration_ms": 404480,
-      "name": "Ivar the Boneless",
-      "url": "https://open.spotify.com/track/5jEL4pW79jdIz6VnqDaCjm"
-    },
-    {
-      "added_at": "2023-10-05 23:00:00",
-      "album": {
         "name": "Electronic Deep House King",
         "url": "https://open.spotify.com/album/00eLGRfYqp78QhwWp7i5Bx"
       },
@@ -863,6 +831,38 @@
       "duration_ms": 431693,
       "name": "Myself & The Dark",
       "url": "https://open.spotify.com/track/5HXW3kNPv7l8KBE5duEVol"
+    },
+    {
+      "added_at": "2023-10-05 23:00:00",
+      "album": {
+        "name": "Emulate",
+        "url": "https://open.spotify.com/album/3liHkkMMd2YHC8dstMQ8js"
+      },
+      "artists": [
+        {
+          "name": "Jason Scoble",
+          "url": "https://open.spotify.com/artist/4Z0yLFzmYX8tOVel9skUdg"
+        }
+      ],
+      "duration_ms": 469614,
+      "name": "Emulate - Original Mix",
+      "url": "https://open.spotify.com/track/3cwnPmaqR2HPxnAbOiZQdk"
+    },
+    {
+      "added_at": "2023-10-05 23:00:00",
+      "album": {
+        "name": "Ivar the Boneless",
+        "url": "https://open.spotify.com/album/00vV7Vovl8G5eu9B7f896I"
+      },
+      "artists": [
+        {
+          "name": "Gigg Cosco",
+          "url": "https://open.spotify.com/artist/0DkJm7HViEwxS1zxHKY86o"
+        }
+      ],
+      "duration_ms": 404480,
+      "name": "Ivar the Boneless",
+      "url": "https://open.spotify.com/track/5jEL4pW79jdIz6VnqDaCjm"
     },
     {
       "added_at": "2023-10-05 23:00:00",
@@ -943,22 +943,18 @@
     {
       "added_at": "2023-10-05 23:00:00",
       "album": {
-        "name": "The Inglourious",
-        "url": "https://open.spotify.com/album/17LsNERMz4XHdUgpkvyV5X"
+        "name": "7 Steps (Soulcalmic Mingle)",
+        "url": "https://open.spotify.com/album/2L18EV5XIALri7ko5ZqSw8"
       },
       "artists": [
         {
-          "name": "Devine Maestro",
-          "url": "https://open.spotify.com/artist/2IAkss2FMBjXDA0hdno7bg"
-        },
-        {
-          "name": "Synth-O-Ven",
-          "url": "https://open.spotify.com/artist/2rKAtDYA8XKQYtZkkKD1Pn"
+          "name": "Seventhi DJ",
+          "url": "https://open.spotify.com/artist/0Ft03Su4IUoiKjyVOI2JR7"
         }
       ],
-      "duration_ms": 399986,
-      "name": "The Inglourious",
-      "url": "https://open.spotify.com/track/0NysUzy6N98PijkZVNcgE8"
+      "duration_ms": 333975,
+      "name": "7 Steps - Soulcalmic Mingle",
+      "url": "https://open.spotify.com/track/0iI8NQxWTWVmRpdTEOCKfs"
     }
   ],
   "unique_name": "Deep House Session",

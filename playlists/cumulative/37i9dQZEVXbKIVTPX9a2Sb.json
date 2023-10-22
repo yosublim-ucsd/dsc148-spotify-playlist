@@ -626,7 +626,7 @@
       ],
       "date_added": "2023-07-02",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-09",
+      "date_removed": null,
       "duration_ms": 132142,
       "name": "Afterka",
       "url": "https://open.spotify.com/track/5hdHTyA75Dz5OyV4Xeel3V"
@@ -2473,6 +2473,32 @@
     },
     {
       "album": {
+        "name": "BEKSTEJD\u017d",
+        "url": "https://open.spotify.com/album/6IoEZKFmUnBnzQXrg86GV3"
+      },
+      "artists": [
+        {
+          "name": "Kali",
+          "url": "https://open.spotify.com/artist/7GtwhLS4bvGc7mkyWjPmpC"
+        },
+        {
+          "name": "Peter Pann",
+          "url": "https://open.spotify.com/artist/5RWzjEjUW2NWpSm00Ieo5X"
+        },
+        {
+          "name": "Separ",
+          "url": "https://open.spotify.com/artist/3LujD0iQ9jRbSCMA39CGfO"
+        }
+      ],
+      "date_added": "2023-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217570,
+      "name": "BEKSTEJD\u017d",
+      "url": "https://open.spotify.com/track/6OTcZMQv3eASzaI4Gp8bdT"
+    },
+    {
+      "album": {
         "name": "Donda",
         "url": "https://open.spotify.com/album/340MjPcVdiQRnMigrPybZA"
       },
@@ -3396,7 +3422,7 @@
       ],
       "date_added": "2023-09-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-22",
       "duration_ms": 173731,
       "name": "Brick na brick",
       "url": "https://open.spotify.com/track/5011v8IwA4NApxQ3ntw6Ih"
@@ -6089,6 +6115,24 @@
     },
     {
       "album": {
+        "name": "DVOJBODKAHVIEZDI\u010cKA",
+        "url": "https://open.spotify.com/album/5ZO9skyaJfbTUwr6M0Fwt4"
+      },
+      "artists": [
+        {
+          "name": "SIMILIVINLIFE",
+          "url": "https://open.spotify.com/artist/1jHpBumJuu1B6LCJQVh49x"
+        }
+      ],
+      "date_added": "2023-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 98750,
+      "name": "Do teba",
+      "url": "https://open.spotify.com/track/77DrYoEEBwIF1WiuwrTlzG"
+    },
+    {
+      "album": {
         "name": "Do They Know It's Christmas?",
         "url": "https://open.spotify.com/album/0Q96oESySVI3gLFTkhttn5"
       },
@@ -8126,7 +8170,7 @@
       ],
       "date_added": "2023-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-22",
       "duration_ms": 178285,
       "name": "Forever Young",
       "url": "https://open.spotify.com/track/2xBGURDbav4VEiVrqEXmBD"
@@ -14636,7 +14680,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-22",
       "duration_ms": 182293,
       "name": "Love Me Again",
       "url": "https://open.spotify.com/track/2N0SPREDYqILVEFSsWF5N5"
@@ -15204,6 +15248,40 @@
       "duration_ms": 179306,
       "name": "Mam rad",
       "url": "https://open.spotify.com/track/3dy5oEu2K9ujwyJBd12fTZ"
+    },
+    {
+      "album": {
+        "name": "mamaididit",
+        "url": "https://open.spotify.com/album/7jnU7wkolEDJ956UWA1fiS"
+      },
+      "artists": [
+        {
+          "name": "Luca Brassi10x",
+          "url": "https://open.spotify.com/artist/33ngpBQcfq53FgLhpBDt8i"
+        },
+        {
+          "name": "Bwayne",
+          "url": "https://open.spotify.com/artist/51tpHfz4XXZf0Qmki0adWx"
+        },
+        {
+          "name": "Pil C",
+          "url": "https://open.spotify.com/artist/2U1l35agymGrBDFeMIxVLG"
+        },
+        {
+          "name": "Facefront",
+          "url": "https://open.spotify.com/artist/6675LrtydsV6BRXqxNGdfD"
+        },
+        {
+          "name": "LUJA",
+          "url": "https://open.spotify.com/artist/4uVJQ3ehmUtJvjixgCZB3l"
+        }
+      ],
+      "date_added": "2023-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207910,
+      "name": "mamaididit",
+      "url": "https://open.spotify.com/track/1bE7Xr3y4C817TAWunZlFm"
     },
     {
       "album": {
@@ -16814,7 +16892,7 @@
       ],
       "date_added": "2023-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-22",
       "duration_ms": 156803,
       "name": "M\u00f4j typ \u017eeny",
       "url": "https://open.spotify.com/track/0OsN3na3JJI2502qObTqsG"
@@ -20362,7 +20440,7 @@
       ],
       "date_added": "2022-03-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-22",
       "duration_ms": 162461,
       "name": "Praha/V\u00edde\u0148",
       "url": "https://open.spotify.com/track/163UXyyrFlAIQapVN3DqIp"
@@ -21012,6 +21090,28 @@
       "duration_ms": 242026,
       "name": "Pussy & Millions (feat. Travis Scott)",
       "url": "https://open.spotify.com/track/2KLwPaRDOB87XOYAT2fgxh"
+    },
+    {
+      "album": {
+        "name": "DVOJBODKAHVIEZDI\u010cKA",
+        "url": "https://open.spotify.com/album/5ZO9skyaJfbTUwr6M0Fwt4"
+      },
+      "artists": [
+        {
+          "name": "SIMILIVINLIFE",
+          "url": "https://open.spotify.com/artist/1jHpBumJuu1B6LCJQVh49x"
+        },
+        {
+          "name": "Porsche Boy",
+          "url": "https://open.spotify.com/artist/4aQh3DGBy4kwn7QnYTR4KH"
+        }
+      ],
+      "date_added": "2023-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179556,
+      "name": "Pussy Power (feat. Porsche Boy)",
+      "url": "https://open.spotify.com/track/7vdva8hlSprUQjNNuw0PJC"
     },
     {
       "album": {
@@ -22476,7 +22576,7 @@
       ],
       "date_added": "2022-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-22",
       "duration_ms": 114000,
       "name": "Sant\u00e9",
       "url": "https://open.spotify.com/track/4ToxkJ4VvWs026R3QfHDI3"
@@ -28246,6 +28346,24 @@
       "duration_ms": 333000,
       "name": "V\u00e1no\u010dn\u00ed",
       "url": "https://open.spotify.com/track/1qrpm14LqMOlDIV21wQ8aZ"
+    },
+    {
+      "album": {
+        "name": "DVOJBODKAHVIEZDI\u010cKA",
+        "url": "https://open.spotify.com/album/5ZO9skyaJfbTUwr6M0Fwt4"
+      },
+      "artists": [
+        {
+          "name": "SIMILIVINLIFE",
+          "url": "https://open.spotify.com/artist/1jHpBumJuu1B6LCJQVh49x"
+        }
+      ],
+      "date_added": "2023-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149906,
+      "name": "V\u00fdnimka",
+      "url": "https://open.spotify.com/track/1ZR0d3zqDLaTEPD4nW4gGK"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWJOmJ7nRx0C.md) - [plain]
 
 > The hardest songs, loud\. Very loud\. Cover: Oxymorrons
 
-[Spotify](https://open.spotify.com/user/spotify) - 929,590 likes - 119 songs - 7 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 929,683 likes - 119 songs - 7 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,7 +49,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWJOmJ7nRx0C.md) - [plain]
 | 39 | [Below The Belt \(feat\. Set It Off\)](https://open.spotify.com/track/1kTWMMX7LjK8a2GnpKVRlM) | [Point North](https://open.spotify.com/artist/5Vp7LqcfAtx2U1RfIX8i7r), [Set It Off](https://open.spotify.com/artist/06bDwgCHeMAwhgI8il4Y5k) | [Below The Belt \(feat\. Set It Off\)](https://open.spotify.com/album/5PpGvWHxcI2ddJ94i3KTGj) | 3:12 |
 | 40 | [Take Shape \(feat\. Billy Corgan\)](https://open.spotify.com/track/6uBtqwcoaMTcTewEXX9e7T) | [Code Orange](https://open.spotify.com/artist/6qtECqesbU29iftyeWmldK), [Billy Corgan](https://open.spotify.com/artist/12B5JK11NOP7OQ9Fxjrpx2) | [The Above](https://open.spotify.com/album/1InJp7zivXVxzyEPjNIX6C) | 3:24 |
 | 41 | [Nervous](https://open.spotify.com/track/5fQF78hwHmuRS6s6VRTAMG) | [Black Stone Cherry](https://open.spotify.com/artist/6WMo39FU3nrpSz3qMgRKug) | [Nervous](https://open.spotify.com/album/2nzUJkFqobo7AeMczO9v7q) | 3:15 |
-| 42 | [The Dirt I'm Buried In](https://open.spotify.com/track/4sg5Vfd2fM6Y8gMz5VYXz6) | [Avatar](https://open.spotify.com/artist/4jpaXieuls7LVzG1uma5Rs) | [The Dirt I'm Buried In](https://open.spotify.com/album/3EMCGsx2qeFTthjuyFdMfr) | 4:04 |
+| 42 | [The Dirt I'm Buried In](https://open.spotify.com/track/4OjAxkNVwleUdCUS098eBw) | [Avatar](https://open.spotify.com/artist/4jpaXieuls7LVzG1uma5Rs) | [Dance Devil Dance](https://open.spotify.com/album/5GH4bz50nqlXUm4xyK4tC2) | 4:04 |
 | 43 | [Mercy](https://open.spotify.com/track/0OdxmiZD8u6pQOwSfEoxr1) | [Rival Sons](https://open.spotify.com/artist/356c8AN5YWKvz86B4Sb1yf) | [Mercy](https://open.spotify.com/album/7m5exqpKRweMqgxgOk6wY1) | 4:26 |
 | 44 | [Pull Me Through](https://open.spotify.com/track/4EmnzJLkWYI9JyYTWtnOVT) | [Royal Blood](https://open.spotify.com/artist/2S5hlvw4CMtMGswFtfdK15) | [Back To The Water Below](https://open.spotify.com/album/4B9IAqwQaPYHQi7kJcpPFQ) | 3:08 |
 | 45 | [Sign Of Life](https://open.spotify.com/track/73QoCfWJJWbRYmm5nCH5Y2) | [Motionless In White](https://open.spotify.com/artist/6MwPCCR936cYfM1dLsGVnl) | [Scoring The End Of The World](https://open.spotify.com/album/0DoVnWjNFYoUfq7qe36jxh) | 3:40 |
@@ -128,4 +128,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWJOmJ7nRx0C.md) - [plain]
 | 118 | [Left Behind](https://open.spotify.com/track/1AfJIzcGozTisYo1QGntM6) | [Plush](https://open.spotify.com/artist/2f5Dgi7XqcHDkvfTprZkXL) | [Left Behind](https://open.spotify.com/album/7EXb1OMLsH1pBlZWbnzRdZ) | 3:02 |
 | 119 | [Dead Weight](https://open.spotify.com/track/6zESIOIYKaxZQJP2hxgDlB) | [Bad/Love](https://open.spotify.com/artist/0lJyKe4CxWOeYOV4dbAFkZ) | [Dead Weight](https://open.spotify.com/album/7HuFADTbWIytpxrDfpKTwc) | 3:22 |
 
-Snapshot ID: `MCwyNDQyZGUyZTNiMTFhYmRiYWVkNTg4ZTMxMzc5MDZiMDBhZWI2Yzdh`
+Snapshot ID: `MCxjNGFhOWQxYTg3ZDY2YTIzNDRmZjE4YmU3MjJhNTg5MTgwNDM0NDFj`

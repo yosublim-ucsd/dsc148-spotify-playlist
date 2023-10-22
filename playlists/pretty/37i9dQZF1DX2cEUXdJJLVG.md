@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2cEUXdJJLVG.md) - [plain]
 
 > Funky & groovy tunes for poolside chilling.
 
-[Spotify](https://open.spotify.com/user/spotify) - 73,108 likes - 172 songs - 10 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 73,129 likes - 172 songs - 10 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -173,7 +173,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2cEUXdJJLVG.md) - [plain]
 | 163 | [According To You](https://open.spotify.com/track/7393MRjmgrJgTuOybJWFB6) | [Misha](https://open.spotify.com/artist/4dPYdHTBZATnTYABJ39sY7), [Jordan Astra](https://open.spotify.com/artist/0nTUhCTsVt89nR1U5Ysub7), [Kapok](https://open.spotify.com/artist/79QY1od36t2L6Rc663c4Mw) | [According To You](https://open.spotify.com/album/4ghBbVW4BChwFam44puXov) | 3:03 |
 | 164 | [honest](https://open.spotify.com/track/1g8U8GIX2S3g3M8H2MtSpO) | [Bnnyhunna](https://open.spotify.com/artist/13itA83Wg0KCCk1odzFFpD) | [SINTHA](https://open.spotify.com/album/5nnsr7zbNqhtBUXl0vlQUU) | 3:53 |
 | 165 | [Hard to Get](https://open.spotify.com/track/5y8AZ1jWdnPHrQoyhswqFw) | [Thomas Ford](https://open.spotify.com/artist/4prjwjwLedf54KWAs54ErF) | [Hard to Get](https://open.spotify.com/album/4TTi9VEk5HZmsnsywsOIuQ) | 3:03 |
-| 166 | [Hey Amy!](https://open.spotify.com/track/2FKMmtp1DyWn6iiplWyX9o) | [Isabèl Usher](https://open.spotify.com/artist/66Q9dkZ7EXdwU2h6tEkUdC), [Ketta](https://open.spotify.com/artist/23iAWqyfMe6hnEkfI6UFTe), [Joshua J](https://open.spotify.com/artist/2AZupS7RiLA0sh5uzwsr2l) | [Hey Amy!](https://open.spotify.com/album/3R4FcKqbpFAxmOdn2p725V) | 2:57 |
+| 166 | [Hey Amy!](https://open.spotify.com/track/64x6DYFIlWKRtGMeOdNkfN) | [Isabèl Usher](https://open.spotify.com/artist/66Q9dkZ7EXdwU2h6tEkUdC), [Ketta](https://open.spotify.com/artist/23iAWqyfMe6hnEkfI6UFTe), [Joshua J](https://open.spotify.com/artist/2AZupS7RiLA0sh5uzwsr2l) | [Hey Amy!](https://open.spotify.com/album/7AFsIiFME2aS8qccETnkBp) | 2:57 |
 | 167 | [Drowning in Your Love \- Gold Edit](https://open.spotify.com/track/3HYanTbvNE4gyjnbjgxOoO) | [Aaron Taylor](https://open.spotify.com/artist/1evO4fwLsEkkPGq32dCix7), [Kartell](https://open.spotify.com/artist/3E4UsjXgFv2GdwshMkkJze) | [ICARUS](https://open.spotify.com/album/4yxCgggQz3WMhbDJnfq77p) | 3:47 |
 | 168 | [I Can't Sleep \- LPACA Remix](https://open.spotify.com/track/6jjtunGp1ilOEUrPIDjfLh) | [jalowo](https://open.spotify.com/artist/2D78J8PPLKuEZqmArTFlQS), [Michi](https://open.spotify.com/artist/0Qaj2glLB2ykPA3qxiR8Z6), [LPACA](https://open.spotify.com/artist/0VrVe3wy9bP3D51Lo3AxrN) | [I Can't Sleep \(LPACA Remix\)](https://open.spotify.com/album/0q3eTPz8Kbi8g8pi8MaCdc) | 2:33 |
 | 169 | [May \(Late Night Version\)](https://open.spotify.com/track/0jGESyKIfEIdK34TpDpkJZ) | [Bkk](https://open.spotify.com/artist/37iEII5f2rWL5OxjUZ2wWw), [Sterke Atleet](https://open.spotify.com/artist/4byoowp8keg9sWSNaOfjOB) | [May \(Late Night Version\)](https://open.spotify.com/album/0zcPycXAwlLj3B1jJrsHQ4) | 3:07 |
@@ -181,4 +181,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2cEUXdJJLVG.md) - [plain]
 | 171 | [All Made Up](https://open.spotify.com/track/71nnIbgnEsxPXyubrlNf6Z) | [Squidgenini](https://open.spotify.com/artist/0XLJ5ey68Qg726cnVNOc2r) | [All Made Up](https://open.spotify.com/album/4i764LNeqbQg0CIYamVkG1) | 4:10 |
 | 172 | [MY HOUSE](https://open.spotify.com/track/6sZzLJkAHCbSkbqLdUFT6Q) | [LYMA](https://open.spotify.com/artist/5RlTfdqlSGGASLxhDAHYtP) | [MY HOUSE / BLEAK](https://open.spotify.com/album/3YKs6Hoq25I2tqZjSP56qU) | 4:02 |
 
-Snapshot ID: `MCw5NmI2YmZhY2M1NmE1NTI3MjFiZWFjZGU3YmM0Y2JkYzAyZWVkMTc3`
+Snapshot ID: `MCw3YTc3YzI5MzcyOTViODQzOWIyYmEyZDI3Mzk0MjVkYzM1YWExMWJk`

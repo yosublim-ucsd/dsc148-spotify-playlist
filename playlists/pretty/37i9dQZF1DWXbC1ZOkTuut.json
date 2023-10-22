@@ -1,12 +1,12 @@
 {
   "description": "Descubre los nuevos \u00e1lbumes de M\u00fasica Mexicana del 2023. Hit shuffle for a mixed listening experience. Cover: Tito Torbellino Jr.",
-  "num_followers": 6928,
+  "num_followers": 6998,
   "original_name": "New M\u00fasica Mexicana Albums",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyYjI1ZDhmYzZmYmJhZmYxODNiZTg1ZDAwMmE2NjQxMzI5Y2I2NzQ1",
+  "snapshot_id": "MCxhZGI1NGE5NWMzNTdkNDFmNDA4NmY3MzU4ZmNkNTMxYzM3MTg4YTg2",
   "tracks": [
     {
       "added_at": "2023-10-20 04:00:00",
@@ -1879,6 +1879,26 @@
       "duration_ms": 187373,
       "name": "Qu\u00e9 Tal Se Siente",
       "url": "https://open.spotify.com/track/1HpZTAmPUPE4i41hJS7Fbv"
+    },
+    {
+      "added_at": "2023-10-20 04:00:00",
+      "album": {
+        "name": "G\u00c9NESIS",
+        "url": "https://open.spotify.com/album/4jox3ip1I39DFC2B7R5qLH"
+      },
+      "artists": [
+        {
+          "name": "Peso Pluma",
+          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
+        },
+        {
+          "name": "Junior H",
+          "url": "https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is"
+        }
+      ],
+      "duration_ms": 163551,
+      "name": "LUNA",
+      "url": "https://open.spotify.com/track/3RA55zrRkyPK8Fd86hrMy8"
     },
     {
       "added_at": "2023-10-20 04:00:00",

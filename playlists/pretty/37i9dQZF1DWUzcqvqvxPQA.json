@@ -1,12 +1,12 @@
 {
   "description": "Check out these inspired hits to keep your Summer fun and upbeat!",
-  "num_followers": 25941,
+  "num_followers": 25938,
   "original_name": "Rejoice for Summer",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxNzYxMDQ2MzllNDZlM2M1MTNmNGRiNmZhNDIzOTgwODQ0ODdiYWU4",
+  "snapshot_id": "MCwwNGIyYzFmZWY3ZTg5Njg2MThhZWFlMmE2ZWUxOTkwM2ZkMGFiMjgw",
   "tracks": [
     {
       "added_at": "2020-08-13 14:39:00",
@@ -91,22 +91,6 @@
     {
       "added_at": "2020-08-13 14:39:00",
       "album": {
-        "name": "Trial & Triumph",
-        "url": "https://open.spotify.com/album/4milDwwpzRI8oHNuaXmNNX"
-      },
-      "artists": [
-        {
-          "name": "I AM THEY",
-          "url": "https://open.spotify.com/artist/0XJ5RIvhlOL0harjI9jZvX"
-        }
-      ],
-      "duration_ms": 183706,
-      "name": "My Feet Are on the Rock",
-      "url": "https://open.spotify.com/track/33q4ENIRByGmdKeRWoIfSm"
-    },
-    {
-      "added_at": "2020-08-13 14:39:00",
-      "album": {
         "name": "QUIET",
         "url": "https://open.spotify.com/album/4QIY6fw4N0X4hg4r2R77ti"
       },
@@ -119,6 +103,22 @@
       "duration_ms": 174590,
       "name": "QUIET",
       "url": "https://open.spotify.com/track/7tTojNH9f7n2MeAO5HaqAS"
+    },
+    {
+      "added_at": "2020-08-13 14:39:00",
+      "album": {
+        "name": "Trial & Triumph",
+        "url": "https://open.spotify.com/album/4milDwwpzRI8oHNuaXmNNX"
+      },
+      "artists": [
+        {
+          "name": "I AM THEY",
+          "url": "https://open.spotify.com/artist/0XJ5RIvhlOL0harjI9jZvX"
+        }
+      ],
+      "duration_ms": 183706,
+      "name": "My Feet Are on the Rock",
+      "url": "https://open.spotify.com/track/33q4ENIRByGmdKeRWoIfSm"
     },
     {
       "added_at": "2020-08-13 14:39:00",
@@ -239,6 +239,22 @@
     {
       "added_at": "2020-08-13 14:39:00",
       "album": {
+        "name": "EVERYTHING EVERYTHING",
+        "url": "https://open.spotify.com/album/3zcltttb8GQ6MUn81xOlrs"
+      },
+      "artists": [
+        {
+          "name": "ELEVATION RHYTHM",
+          "url": "https://open.spotify.com/artist/0qZ8aSF0iMCQI99AAXikF8"
+        }
+      ],
+      "duration_ms": 200079,
+      "name": "EVERYTHING EVERYTHING",
+      "url": "https://open.spotify.com/track/2pMc6SJXAZe1HNwY8lQLby"
+    },
+    {
+      "added_at": "2020-08-13 14:39:00",
+      "album": {
         "name": "Restoration",
         "url": "https://open.spotify.com/album/406YMcI7NSxhTbhvxkfu2H"
       },
@@ -255,22 +271,6 @@
       "duration_ms": 177474,
       "name": "Set Me Free",
       "url": "https://open.spotify.com/track/7I079hnzaP3BNu5Ra7h6q4"
-    },
-    {
-      "added_at": "2020-08-13 14:39:00",
-      "album": {
-        "name": "EVERYTHING EVERYTHING",
-        "url": "https://open.spotify.com/album/3zcltttb8GQ6MUn81xOlrs"
-      },
-      "artists": [
-        {
-          "name": "ELEVATION RHYTHM",
-          "url": "https://open.spotify.com/artist/0qZ8aSF0iMCQI99AAXikF8"
-        }
-      ],
-      "duration_ms": 200079,
-      "name": "EVERYTHING EVERYTHING",
-      "url": "https://open.spotify.com/track/2pMc6SJXAZe1HNwY8lQLby"
     },
     {
       "added_at": "2020-08-13 14:39:00",
@@ -375,26 +375,6 @@
     {
       "added_at": "2020-08-13 14:39:00",
       "album": {
-        "name": "Drown",
-        "url": "https://open.spotify.com/album/7sJaNMp4i8eWmF0ZQAH7LJ"
-      },
-      "artists": [
-        {
-          "name": "Lecrae",
-          "url": "https://open.spotify.com/artist/1CFCsEqKrCyvAFKOATQHiW"
-        },
-        {
-          "name": "John Legend",
-          "url": "https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t"
-        }
-      ],
-      "duration_ms": 200330,
-      "name": "Drown",
-      "url": "https://open.spotify.com/track/5tLPWQUcUHvR8kRr8k33cl"
-    },
-    {
-      "added_at": "2020-08-13 14:39:00",
-      "album": {
         "name": "Who We Are",
         "url": "https://open.spotify.com/album/3B41USIdyMLjgxepjxhi3r"
       },
@@ -423,6 +403,26 @@
       "duration_ms": 237013,
       "name": "Champion - Studio Version",
       "url": "https://open.spotify.com/track/6EyT2JF7yHUdAZo1kPHHAW"
+    },
+    {
+      "added_at": "2020-08-13 14:39:00",
+      "album": {
+        "name": "Drown",
+        "url": "https://open.spotify.com/album/7sJaNMp4i8eWmF0ZQAH7LJ"
+      },
+      "artists": [
+        {
+          "name": "Lecrae",
+          "url": "https://open.spotify.com/artist/1CFCsEqKrCyvAFKOATQHiW"
+        },
+        {
+          "name": "John Legend",
+          "url": "https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t"
+        }
+      ],
+      "duration_ms": 200330,
+      "name": "Drown",
+      "url": "https://open.spotify.com/track/5tLPWQUcUHvR8kRr8k33cl"
     },
     {
       "added_at": "2020-08-13 14:39:00",
@@ -531,22 +531,6 @@
     {
       "added_at": "2020-08-13 14:39:00",
       "album": {
-        "name": "One More Day",
-        "url": "https://open.spotify.com/album/7ozw8j9l3KhVi4wnP6wwar"
-      },
-      "artists": [
-        {
-          "name": "Aaron Cole",
-          "url": "https://open.spotify.com/artist/0OQ8y7heASb1vEX5WXvjCr"
-        }
-      ],
-      "duration_ms": 194798,
-      "name": "One More Day",
-      "url": "https://open.spotify.com/track/6Iu1RH6TuDAnxXDsJ6UbxV"
-    },
-    {
-      "added_at": "2020-08-13 14:39:00",
-      "album": {
         "name": "Don't Wanna Wake Up",
         "url": "https://open.spotify.com/album/2aojIQzbgnZasTUk6PpGOj"
       },
@@ -559,6 +543,22 @@
       "duration_ms": 227142,
       "name": "Don't Wanna Wake Up",
       "url": "https://open.spotify.com/track/0drXL2YqceYBs5gZmnOifQ"
+    },
+    {
+      "added_at": "2020-08-13 14:39:00",
+      "album": {
+        "name": "One More Day",
+        "url": "https://open.spotify.com/album/7ozw8j9l3KhVi4wnP6wwar"
+      },
+      "artists": [
+        {
+          "name": "Aaron Cole",
+          "url": "https://open.spotify.com/artist/0OQ8y7heASb1vEX5WXvjCr"
+        }
+      ],
+      "duration_ms": 194798,
+      "name": "One More Day",
+      "url": "https://open.spotify.com/track/6Iu1RH6TuDAnxXDsJ6UbxV"
     },
     {
       "added_at": "2020-08-13 14:39:00",
@@ -959,22 +959,6 @@
     {
       "added_at": "2020-08-13 14:39:00",
       "album": {
-        "name": "THIS MOMENT",
-        "url": "https://open.spotify.com/album/5VXM9tBUk5oboBP6yCJAx9"
-      },
-      "artists": [
-        {
-          "name": "ELEVATION RHYTHM",
-          "url": "https://open.spotify.com/artist/0qZ8aSF0iMCQI99AAXikF8"
-        }
-      ],
-      "duration_ms": 176624,
-      "name": "THIS MOMENT",
-      "url": "https://open.spotify.com/track/1uEUj9f1Rv6Bk420cg0AMS"
-    },
-    {
-      "added_at": "2020-08-13 14:39:00",
-      "album": {
         "name": "Inside Out",
         "url": "https://open.spotify.com/album/2hgLM7tz6g8wNk3I5SPj8U"
       },
@@ -987,6 +971,22 @@
       "duration_ms": 193148,
       "name": "Inside Out",
       "url": "https://open.spotify.com/track/3hZBRLzeM0u4YKQ9mj7fy7"
+    },
+    {
+      "added_at": "2020-08-13 14:39:00",
+      "album": {
+        "name": "THIS MOMENT",
+        "url": "https://open.spotify.com/album/5VXM9tBUk5oboBP6yCJAx9"
+      },
+      "artists": [
+        {
+          "name": "ELEVATION RHYTHM",
+          "url": "https://open.spotify.com/artist/0qZ8aSF0iMCQI99AAXikF8"
+        }
+      ],
+      "duration_ms": 176624,
+      "name": "THIS MOMENT",
+      "url": "https://open.spotify.com/track/1uEUj9f1Rv6Bk420cg0AMS"
     },
     {
       "added_at": "2020-08-13 14:39:00",
@@ -1519,22 +1519,6 @@
     {
       "added_at": "2020-08-13 14:39:00",
       "album": {
-        "name": "Seasons",
-        "url": "https://open.spotify.com/album/0OFlp2bVcZjixngoIGzwBW"
-      },
-      "artists": [
-        {
-          "name": "Tori Harper",
-          "url": "https://open.spotify.com/artist/2lDf4hYD0RvgNtYgblvb4i"
-        }
-      ],
-      "duration_ms": 208866,
-      "name": "Stand Firm",
-      "url": "https://open.spotify.com/track/2S4vZbC5zdTd7tURXvpVnd"
-    },
-    {
-      "added_at": "2020-08-13 14:39:00",
-      "album": {
         "name": "Snapshot",
         "url": "https://open.spotify.com/album/1jqP8dTXqeMOCQtkTe5a4s"
       },
@@ -1551,6 +1535,22 @@
       "duration_ms": 208941,
       "name": "Snapshot",
       "url": "https://open.spotify.com/track/4hO0jaw7w3gF4JjdImHEyf"
+    },
+    {
+      "added_at": "2020-08-13 14:39:00",
+      "album": {
+        "name": "Seasons",
+        "url": "https://open.spotify.com/album/0OFlp2bVcZjixngoIGzwBW"
+      },
+      "artists": [
+        {
+          "name": "Tori Harper",
+          "url": "https://open.spotify.com/artist/2lDf4hYD0RvgNtYgblvb4i"
+        }
+      ],
+      "duration_ms": 208866,
+      "name": "Stand Firm",
+      "url": "https://open.spotify.com/track/2S4vZbC5zdTd7tURXvpVnd"
     },
     {
       "added_at": "2020-08-13 14:39:00",

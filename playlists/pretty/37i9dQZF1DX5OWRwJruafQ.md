@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5OWRwJruafQ.md) - [plain]
 
 > Keep it Punjabi, Keep it Real\. Cover: Prem Dhillon
 
-[Spotify](https://open.spotify.com/user/spotify) - 73,308 likes - 100 songs - 4 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 73,354 likes - 100 songs - 4 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5OWRwJruafQ.md) - [plain]
 | 17 | [AK Cantalian](https://open.spotify.com/track/6VZBIXm0L3vHoxQvbk9mKi) | [Himmat Sandhu](https://open.spotify.com/artist/3wsrcGXTRAukQgXrUHJMwC) | [AK Cantalian](https://open.spotify.com/album/1rmyIPtKPX8B4v3jZsUlX8) | 2:38 |
 | 18 | [Mood](https://open.spotify.com/track/45DhouHXEV4vLcatvoW9qK) | [The Landers](https://open.spotify.com/artist/7KEQQy9VJpx2xaojUu2VTp) | [Mood](https://open.spotify.com/album/1YG4HJc27GqLQ9MAxhNiEh) | 2:25 |
 | 19 | [Khadaak](https://open.spotify.com/track/2l4WWoL2e7XL77hT3r4iee) | [Shooter Kahlon](https://open.spotify.com/artist/5oL0GAI8fKD0Wgbr4Em9AS), [Shevv](https://open.spotify.com/artist/2EQoFz6owAP4ATr5hGFRok), [Micheal](https://open.spotify.com/artist/6zpEdIx1ij3g8Tx4OKKea4) | [Khadaak](https://open.spotify.com/album/0Wjak0wq7GXx6Gkf0FN1Q5) | 2:37 |
-| 20 | [Case](https://open.spotify.com/track/0TdWXMXyfTQ2qp5vvU9LID) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR), [Intense](https://open.spotify.com/artist/4RoQtkwhuRs1MivL5XuB4E) | [Ghost](https://open.spotify.com/album/1d1FYLFpu2NITI6ilVaHDd) | 2:15 |
+| 20 | [Case](https://open.spotify.com/track/0TdWXMXyfTQ2qp5vvU9LID) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR), [Intense](https://open.spotify.com/artist/0OS0NZnK7TGIAWx8MkWNFN) | [Ghost](https://open.spotify.com/album/1d1FYLFpu2NITI6ilVaHDd) | 2:15 |
 | 21 | [Naa Lai Ke](https://open.spotify.com/track/3vXHs1USJvUYpFsuxZGTiS) | [Sunny Randhawa](https://open.spotify.com/artist/3h87sa2W1TI6kn30DMwz15) | [Naa Lai Ke](https://open.spotify.com/album/4bqStg9FJ3mbIrTdYh1vtC) | 2:32 |
 | 22 | [No Fake](https://open.spotify.com/track/4BKx5bluk9JK84PkzjIe4h) | [ABY](https://open.spotify.com/artist/474lx20917Ts6yKqKc6lF5), [Saabi Bhinder](https://open.spotify.com/artist/7balJhYEvDHAshA39peuCr) | [No Fake](https://open.spotify.com/album/4wxbtYf37aiM1RF0Q1iGS2) | 3:01 |
 | 23 | [Judge](https://open.spotify.com/track/2t3u2kqwm3GgZtXh6AZLNN) | [Sucha Yaar](https://open.spotify.com/artist/3796Al8KerYiCPaOK1vHZJ), [Spy Boi](https://open.spotify.com/artist/1gttYcIL5LonZdudIP1HLb) | [Buss](https://open.spotify.com/album/7ByQiP8tW3nB0dBzdislAz) | 2:25 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5OWRwJruafQ.md) - [plain]
 | 99 | [Nah They Can't](https://open.spotify.com/track/5RXc1cmSNl3DSRThl2Ii4W) | [Prem Dhillon](https://open.spotify.com/artist/6IP4VnqS1pOiQcPVP4zx0H) | [No Lookin' Back](https://open.spotify.com/album/2z1B8rt2WK0K92x9XbCV24) | 3:24 |
 | 100 | [If I Die](https://open.spotify.com/track/6Hz3tNl55T31nuoX5NKybR) | [Guri Lahoria](https://open.spotify.com/artist/4oMjKSuAAFB6E9a5Icudw3), [Devilo](https://open.spotify.com/artist/5qrlwNqpcRzoI9Pjux1xHQ) | [If I Die](https://open.spotify.com/album/78piK5s0g1fcELSLFzvDbI) | 3:06 |
 
-Snapshot ID: `MCxkNzA5NjJhM2UyZjI1ZWVmOWRiYmZiYzNiZGI5NjAzNWQyYjY4OTQ2`
+Snapshot ID: `MCxhYjJhNWQzOWY1ODBjMDE2ODAxOTg0YzdjYmZlNzJmNjM0NDFiNzcx`

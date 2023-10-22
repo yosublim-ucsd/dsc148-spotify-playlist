@@ -4,7 +4,7 @@
 
 > Canciones instrumentales de guitarra.
 
-604 songs - 1 day 1 hr 36 min
+605 songs - 1 day 1 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -152,6 +152,7 @@
 | [Doing Better](https://open.spotify.com/track/2pmjcW00KX4kdVeNBoU4wo) | [Timothy Reiger](https://open.spotify.com/artist/2gJCO2wkZJeVALM0a9PpV3) | [Doing Better](https://open.spotify.com/album/49WR8t6KfjCCxVM8FRLau5) | 1:48 | 2023-04-21 | 2023-08-26 |
 | [Don't Be Shy](https://open.spotify.com/track/5RmX0yhb5eeLI9QUawpnHp) | [Jennifer Pérez](https://open.spotify.com/artist/6TbznI0U93j8IuSXoJ4bOz) | [Don't Be Shy](https://open.spotify.com/album/3CbgkGlLHbAvU8I8L9IBcu) | 3:53 | 2022-07-15 | 2022-10-29 |
 | [Don't Save Me Yet](https://open.spotify.com/track/190uB2WD7451d6MIm8ftJd) | [Francisco Chavez](https://open.spotify.com/artist/0UIFk9rZStMSw1dx7MKBXD) | [Don't Save Me Yet](https://open.spotify.com/album/6CWY13gXDB3SDFjdMt4YLN) | 3:06 | 2022-07-15 | 2023-04-22 |
+| [Donegal](https://open.spotify.com/track/51760UCr1H0wFGIeNlZg2F) | [Marcio Philomena](https://open.spotify.com/artist/51GnoV2CNj0pAcxWvCcQM2) | [Donegal](https://open.spotify.com/album/4aPfvkL9aJn4yozAV8Hift) | 2:36 | 2023-10-13 |  |
 | [Dorival](https://open.spotify.com/track/1sgihll2tdAfRm3ko1Bay3) | [Azur](https://open.spotify.com/artist/1Ok8A2HZgoIRz3fmZGpa8K) | [Dorival](https://open.spotify.com/album/460T3DYQguwcbXb5M97nr6) | 2:46 | 2023-04-21 |  |
 | [Downhill](https://open.spotify.com/track/06v6Jm0odFC4lb0aSd54Nf) | [Donata Antoni](https://open.spotify.com/artist/1JTQHAw7cydv6H6suv2Qo4) | [Downhill](https://open.spotify.com/album/6cLUWw3Mmiw58EcRy1NSgX) | 5:01 | 2022-07-15 | 2023-04-22 |
 | [Dream by day](https://open.spotify.com/track/6VC0dMG2hyvdSgANubpBoM) | [Philip Grass](https://open.spotify.com/artist/1P6oBwSLIpnKBsIObVaIj1) | [Dream by day](https://open.spotify.com/album/2RohB8WrmEWB1J2OqP8yoB) | 2:25 | 2023-04-21 | 2023-05-13 |
@@ -231,7 +232,7 @@
 | [Heimweh](https://open.spotify.com/track/3cAAUD4tggStdAti1TDQNE) | [Andreas Horschel](https://open.spotify.com/artist/7jtXTNxn8Q0LVzvSjIlldV) | [Heimweh](https://open.spotify.com/album/0NwnK3pUidy0E7dGTmnvR9) | 2:16 | 2023-04-21 | 2023-06-03 |
 | [Helix](https://open.spotify.com/track/1gzalRgd6177ItWli3V6fI) | [Jan Wanninger](https://open.spotify.com/artist/2lVbTuG8gjTFAX8WH5zyDs) | [Helix](https://open.spotify.com/album/36IKErRzj6twXIiIPDh4TN) | 2:12 | 2023-10-13 |  |
 | [Hemma är vid havet](https://open.spotify.com/track/5U3u4NXauUXzsnki4PbjPC) | [Thomas Scheller](https://open.spotify.com/artist/26Dtv4a7haiHQI10e0mDJg) | [Hemma är vid havet](https://open.spotify.com/album/6J0FxxEmI1YFvtEKPfInUH) | 2:52 | 2023-04-21 | 2023-05-13 |
-| [Hendaye](https://open.spotify.com/track/3q0jMagWUefdNxOX7qpYau) | [Jan Wanninger](https://open.spotify.com/artist/2lVbTuG8gjTFAX8WH5zyDs) | [It's All For You](https://open.spotify.com/album/2hipNS989MOYmWd3Hga8GB) | 2:47 | 2023-04-21 | 2023-10-21 |
+| [Hendaye](https://open.spotify.com/track/3q0jMagWUefdNxOX7qpYau) | [Jan Wanninger](https://open.spotify.com/artist/2lVbTuG8gjTFAX8WH5zyDs) | [It's All For You](https://open.spotify.com/album/2hipNS989MOYmWd3Hga8GB) | 2:47 | 2023-04-21 |  |
 | [Hidden](https://open.spotify.com/track/3phR4mqdFYMEhv2EMTrq2d) | [Luna Grove](https://open.spotify.com/artist/4mo3zahoMNo36n3sYo5Z1M) | [Hidden](https://open.spotify.com/album/4hqXlZoDQ5dCMQ9aR3DpQp) | 2:24 | 2023-04-21 | 2023-04-28 |
 | [Hidden](https://open.spotify.com/track/6xXgL3PxqD9B3jxDwaQotd) | [Luna Grove](https://open.spotify.com/artist/4mo3zahoMNo36n3sYo5Z1M) | [Hidden](https://open.spotify.com/album/0aceUd7djbL48tUHNTEZq2) | 2:24 | 2023-04-21 |  |
 | [História De Vida](https://open.spotify.com/track/5BlHjy2MN5rPqQm89w4Jxd) | [Francisca Fortinbras](https://open.spotify.com/artist/5fwKwRmjgEbAclDp30ssyD) | [História De Vida](https://open.spotify.com/album/1sDwjitrRLeu4jTK3Wl5RI) | 2:25 | 2023-04-21 |  |
@@ -332,7 +333,7 @@
 | [Lusen](https://open.spotify.com/track/5nPOD520fGVNUIUVAeOjbY) | [Alex Albright](https://open.spotify.com/artist/26JRo0347XPbM7ve7owOdj) | [Lusen](https://open.spotify.com/album/3lDUaFHShfQnRw5QuK1oZe) | 2:47 | 2022-07-15 | 2023-04-22 |
 | [Luz de Aurora](https://open.spotify.com/track/75ducgEDNEPpzIqlxuEfoO) | [Homero Alvarez](https://open.spotify.com/artist/1Fa3oDtXt1Zb84g4bnFnf1) | [Luz de Aurora](https://open.spotify.com/album/2VYRYrgfzcLODcYNPCD4xA) | 2:55 | 2023-04-21 | 2023-09-22 |
 | [Madeline](https://open.spotify.com/track/0jXI8KkVrQpZaHtKOpoSJ2) | [a sound for you](https://open.spotify.com/artist/5Ae5MzG7JJlSFIa7yQeXmI) | [Madeline](https://open.spotify.com/album/6pq0RlmMLCrhAKPNPKobJX) | 2:10 | 2023-04-21 | 2023-05-05 |
-| [Madeline](https://open.spotify.com/track/51c0wJWXcH4CLcRtmeghK9) | [a sound for you](https://open.spotify.com/artist/5Ae5MzG7JJlSFIa7yQeXmI) | [Madeline](https://open.spotify.com/album/2dC5WIOAtSstDRiNwjDOHi) | 2:10 | 2023-04-21 |  |
+| [Madeline](https://open.spotify.com/track/51c0wJWXcH4CLcRtmeghK9) | [a sound for you](https://open.spotify.com/artist/5Ae5MzG7JJlSFIa7yQeXmI) | [Madeline](https://open.spotify.com/album/2dC5WIOAtSstDRiNwjDOHi) | 2:10 | 2023-04-21 | 2023-10-22 |
 | [Maine](https://open.spotify.com/track/6HcSIn5EsFz20aillG9Itv) | [Oscar Roland](https://open.spotify.com/artist/1LPkJWKv7qfy9HxiZpW8rH) | [Maine](https://open.spotify.com/album/3vbEzZqSsm4K9cxkBpw0wa) | 2:44 | 2023-09-29 |  |
 | [Manha De Carnaval](https://open.spotify.com/track/5D09utzIzyrzSRjeQMrssn) | [Pablo Despeyroux](https://open.spotify.com/artist/5PIQKptSn7b9KGsMrK296N) | [Manha De Carnaval](https://open.spotify.com/album/2xRj3jkw0xBoLTBdkM8BSK) | 2:26 | 2022-08-19 | 2023-04-22 |
 | [Manhã de Carnaval](https://open.spotify.com/track/0G4qFYtNPWpYvk9RfGAOs1) | [Filip Benedetto](https://open.spotify.com/artist/1x6GlAVo5qvLhm45bgtlp7) | [Manhã de Carnaval](https://open.spotify.com/album/06PgdMpQa7mfoKK5odLA2g) | 3:52 | 2022-07-29 | 2023-04-22 |
@@ -373,7 +374,7 @@
 | [Nana 1985 \(Two Guitars Version\)](https://open.spotify.com/track/7cn8OaiEmm9eM5cO5m3JqJ) | [Manuel Galán](https://open.spotify.com/artist/29d8S9wbsggVBbr2YXxjfM) | [Nana 1985 \(Two Guitars Version\)](https://open.spotify.com/album/2LTna82bAjdhBShUJh7Vn6) | 2:39 | 2023-04-21 | 2023-10-20 |
 | [Nascondiglio](https://open.spotify.com/track/5lz0ZF3oUGWZpt7TjdlAwf) | [Adone Alleva](https://open.spotify.com/artist/57AuiSqf2jh8dtMOTRfBoq) | [Nascondiglio](https://open.spotify.com/album/6dxdPL7IFCKy0f0V15eJHX) | 2:25 | 2023-04-21 | 2023-05-13 |
 | [Natural State](https://open.spotify.com/track/6kvTeQ3FJGVt1UYFcKNPe7) | [Mia Cornell](https://open.spotify.com/artist/22hTiR40dkmbKc5bLT5owB) | [Natural State](https://open.spotify.com/album/5n7ZLyBMJU1UWtpUCAiVwF) | 2:24 | 2022-07-15 |  |
-| [Nell'angolo](https://open.spotify.com/track/0EOIwRvmBzRE2RT7bxaLqf) | [Helena Timmers](https://open.spotify.com/artist/0B8LhZQbdtQPuzAu0cQ2az) | [Nell'angolo](https://open.spotify.com/album/26x2wgpD3z0vG6u30UGV9f) | 2:38 | 2023-04-21 |  |
+| [Nell'angolo](https://open.spotify.com/track/0EOIwRvmBzRE2RT7bxaLqf) | [Helena Timmers](https://open.spotify.com/artist/0B8LhZQbdtQPuzAu0cQ2az) | [Nell'angolo](https://open.spotify.com/album/26x2wgpD3z0vG6u30UGV9f) | 2:38 | 2023-04-21 | 2023-10-22 |
 | [Never to Return \(Celestial Guitar\)](https://open.spotify.com/track/2PygGi8gu5WfiT8zKQrC89) | [Ryan Judd](https://open.spotify.com/artist/1F8gdqObuIxT2cZrPjDeMv) | [Never to Return \(Celestial Guitar\)](https://open.spotify.com/album/1sEV06R2RJBrTNOmt5LHuM) | 3:11 | 2023-04-21 |  |
 | [Night in Sevilla](https://open.spotify.com/track/3MeoEsS5PQ2Jh6ppvYOI9g) | [Riley Howe](https://open.spotify.com/artist/2vloKEy3B9bqBKOkCewats) | [Night in Sevilla](https://open.spotify.com/album/779NwwOLuonCzVO6gQ7uNi) | 2:43 | 2023-04-21 |  |
 | [Night Sky](https://open.spotify.com/track/2FOxa2wEutyDKFd5uGz7ZD) | [Gabriella Vargas Luna](https://open.spotify.com/artist/1P3NtjxAwU5gdEev4Pd93O) | [Night Sky](https://open.spotify.com/album/2rcCBSP6wwWYfcBqTeHj6V) | 2:13 | 2023-04-21 |  |

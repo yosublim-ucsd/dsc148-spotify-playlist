@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2RxBh64BHjQ.md) - [plain]
 
 > The official voice of the next generation\. Cover: <a href="spotify:artist:3DbwFQlvLxRSi2uX8mf81A">Sexyy Red</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,785,759 likes - 99 songs - 4 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,786,063 likes - 99 songs - 4 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2RxBh64BHjQ.md) - [plain]
 | 98 | [Bang Man](https://open.spotify.com/track/735AY1Wwc1zb6exlKxH0mT) | [Fredo Bang](https://open.spotify.com/artist/4yTmEo2clwWq2jwelvqgVv) | [Bang Man](https://open.spotify.com/album/5Lmpc36dtIEEtxa6iNE1dv) | 2:59 |
 | 99 | [LANCEY OR LANCEY](https://open.spotify.com/track/187zHzb6JDM4YDSFNGkQ9u) | [Lancey Foux](https://open.spotify.com/artist/2LakckgvXEtJlKOYP6BO11) | [LIFE IN HELL](https://open.spotify.com/album/7A6MutudrSxcDa47a6HHOM) | 3:07 |
 
-Snapshot ID: `MCxmN2QwZTgwN2VjMmI2ZThhN2I3MDhjMTBjNDQ1M2FhYWE3M2ZjY2Qx`
+Snapshot ID: `MCxhOTc4MmVlNTIzY2NmMDBmOTBjNDU3ZjFmN2M2MzRjYWMyZTFmOWMw`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTBz12MDeCuX.md) - [plain]
 
 > Die Playlist, die dich fühlt\. Cover: Amaru
 
-[Spotify](https://open.spotify.com/user/spotify) - 440,316 likes - 100 songs - 4 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 440,604 likes - 100 songs - 4 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -66,7 +66,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTBz12MDeCuX.md) - [plain]
 | 56 | [Rich Baby Daddy \(feat\. Sexyy Red & SZA\)](https://open.spotify.com/track/1yeB8MUNeLo9Ek1UEpsyz6) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A), [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [For All The Dogs](https://open.spotify.com/album/4czdORdCWP9umpbhFXK2fW) | 5:19 |
 | 57 | [Trips](https://open.spotify.com/track/4AAy1fIO2cn8M7mCSzcyHw) | [VibeM](https://open.spotify.com/artist/5NR56DNAECf6yIARetflYe), [Ve$](https://open.spotify.com/artist/55s15f5WknnYtr8FCwc96q), [Panto537](https://open.spotify.com/artist/0ldthdty5Iip5of3chNmOG) | [Trips](https://open.spotify.com/album/1W3hQfKTEo6qjgBtLAvUQn) | 2:10 |
 | 58 | [KETA UND KRAWALL](https://open.spotify.com/track/6zP4Utvok4QRXlNYBZkpGa) | [Ikkimel](https://open.spotify.com/artist/0CzoJbqBbtBNLArLyAFDPn), [Barré](https://open.spotify.com/artist/2oxB9ArMXPTWdsMg4kKmLl) | [KETA UND KRAWALL](https://open.spotify.com/album/1J45kvnBanNkQebLmKvXTa) | 2:05 |
-| 59 | [Wein](https://open.spotify.com/track/1lnDtmE0sOQwTmJp0AmDnH) | [KXXMA](https://open.spotify.com/artist/6AFA7y2tNohNcpaLwDRyxx), [KALUMA](https://open.spotify.com/artist/4dgLZMavMm3danubiJxbtw), [Beamy](https://open.spotify.com/artist/1cH8eMd2wNsY2coinL4VTH) | [Wein](https://open.spotify.com/album/1GVRKw1hdICjzXZzQJhLMw) | 2:25 |
+| 59 | [Wein](https://open.spotify.com/track/1lnDtmE0sOQwTmJp0AmDnH) | [KXXMA](https://open.spotify.com/artist/6AFA7y2tNohNcpaLwDRyxx), [KALUMA](https://open.spotify.com/artist/4dgLZMavMm3danubiJxbtw), [Beamy](https://open.spotify.com/artist/0vmBLdFrNG2HAUT5N5oNew) | [Wein](https://open.spotify.com/album/1GVRKw1hdICjzXZzQJhLMw) | 2:25 |
 | 60 | [Weit weg](https://open.spotify.com/track/2JYnTXHtHyjn2vE0FIxnGC) | [BHZ](https://open.spotify.com/artist/3mmI5HKArDwgggj4j0aJyC), [Longus Mongus](https://open.spotify.com/artist/0n1kV1G3NQrfuLGJosIGxb), [Monk](https://open.spotify.com/artist/0jEyGu5QKLxQ2tIZVnRbfE), [Dead Dawg](https://open.spotify.com/artist/0vbfrsbTQsxmBTrvtZTFB4) | [Weit weg](https://open.spotify.com/album/762bGTO7zkVEPIXknF0iiW) | 3:59 |
 | 61 | [justin bieber™](https://open.spotify.com/track/6EDZ4yXd4Kh9mBZpBavsjT) | [Ski Aggu](https://open.spotify.com/artist/6CP5wWvO8oIxedESJNCN4H) | [denk mal drüber nach...](https://open.spotify.com/album/2amQje8nzCnpbbjYpTJizx) | 1:35 |
 | 62 | [Why Do You Hate Me](https://open.spotify.com/track/2sgbEfih4ClTQ13fo3zaOl) | [CH4YN](https://open.spotify.com/artist/3G42n5HyIQhYUmKX67yOaU) | [Why Do You Hate Me](https://open.spotify.com/album/2TOSa1BTQF23HlqLjOSltx) | 2:23 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTBz12MDeCuX.md) - [plain]
 | 99 | [older](https://open.spotify.com/track/75c2zaSdDBSX0A8Jyvm4fO) | [Isabel LaRosa](https://open.spotify.com/artist/5arKwJZEvT5uKq4o0JfqR4) | [older](https://open.spotify.com/album/1CRkQ0NwUlzM4052uaZbtn) | 2:17 |
 | 100 | [2 Handys](https://open.spotify.com/track/0mth0U5dtI4Fwmc3RrAERn) | [Gola Gianni](https://open.spotify.com/artist/1ldsuiSBiF9jsLQJape3e6) | [2 Handys](https://open.spotify.com/album/6rhIP92F4rmlNk32Lzlxtt) | 2:19 |
 
-Snapshot ID: `MCxlZjZhOWEzYTVjMzgxMGYxNjBmNGZmNmQ3NWFiN2UzODVkZjU4MDQ0`
+Snapshot ID: `MCw0OTBjOTI4NDNlMjFhNjdlNzI4ZjQ5MTI0MTE0MzgyODRhNTg0OTI3`
